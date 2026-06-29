@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja-JP">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=shift_jis">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title>ヴィスティア</title>
+
+<style type="text/css">
+<!--
+body.default { font-size:medium; color:rgb(34,34,34); text-align:left; line-height:140%; background-color:rgb(238,238,238); margin-right:2%; margin-left:2%; }
+
+.titletext { font-size:xx-large; }
+.linktext { font-size:small; }
+.impression { font-weight:bold; }
+
+.white { background-color:rgb(255,255,255); }
+.red { background-color:rgb(255,223,223); }
+.blue { background-color:rgb(223,223,255);  }
+.green { background-color:rgb(223,255,223);  }
+.yellow { background-color:rgb(255,255,223); }
+.cyan { background-color:rgb(223,255,255); }
+.magenta { background-color:rgb(255,223,255); }
+.black { color:rgb(255,255,255); background-color:rgb(0,0,0); }
+
+.centertext { text-align:center; }
+.righttext { text-align:right; }
+
+-->
+</style>
+
+</head>
+
+<body class="default" background="vistia_bkg.gif">
+
+<div class="linktext">    <p><a href="http://ts.novels.jp/library.html">戻る</a></p>
+</div>
+
+
+<p align="center"><img src="vistia_logomark.gif" width="300" height="140" border="0"></p>
+
+<table border="1" align="center" width="70%" summary="本１" bgcolor="white">
+    <tr>
+        <td width="410" height="434" rowspan="3">
+
+            <p align="center"><font size="5"><a href="vistia_story.htm">ストーリー</a></font></p>
+        </td>
+        <td width="767" colspan="2">
+
+            <p align="center"><img src="chara.png" width="163" height="26" border="0"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="317" height="144">
+            <p align="center"><a href="vistia_chara_main.htm">メインキャラクター</a></p>
+        </td>
+        <td width="317" height="144">
+            <p align="center"><a href="vistia_chara_pixie.htm">異世界の妖精</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="317" height="144">
+            <p align="center"><a href="vistia_chara_character.htm">登場キャラクター</a></p>
+        </td>
+        <td width="317" height="144">
+            <p align="center"><a href="vistia_chara_darks.htm">闇に生きる存在</a></p>
+        </td>
+    </tr>
+</table>
+<p>&nbsp;</p>
+<table border="1" align="center" width="70%" summary="本１" bgcolor="white">
+    <tr>
+        <td width="410">
+            <p align="center"><img src="vistia_top.jpg" width="416" height="400" border="0"></p>
+        </td>
+        <td width="416">
+            <p align="center"><br><font size="5">本編ストーリー</font></p>
+            <p>　<a href="vistia_01.htm">chapter01</a></p>
+            <p>　<a href="vistia_02.htm">chapter02</a></p>
+            <p>　<a href="vistia_03.htm">chapter03</a></p>
+            <p>　<a href="vistia_04.htm">chapter04</a></p>
+            <p>　<a href="vistia_05.htm">chapter05</a></p>
+            <p>　<a href="vistia_06.htm">chapter06</a></p>
+            <p>　<a href="vistia_07.htm">chapter07</a></p>
+            <p>　<a href="vistia_08.htm">chapter08</a></p>
+            <p>&nbsp;</p>
+        </td>    </tr>
+    <tr>
+        <td width="410">            <p>&nbsp;</p>
+            <p>　<a href="vistia_09.htm">chapter09</a></p>
+            <p>&nbsp;&nbsp;<a href="vistia_10.htm">chapter10</a></p>
+            <p>　<a href="vistia_11.htm">chapter11</a></p>
+            <p>　<a href="vistia_12.htm">chapter12</a></p>
+            <p>　<a href="vistia_13.htm">chapter13</a></p>
+            <p>　<a href="vistia_14.htm">chapter14</a></p>
+            <p>　<a href="vistia_15.htm">chapter15</a></p>
+            <p>　<a href="vistia_16.htm">chapter16【終】</a></p>
+            <p>&nbsp;</p>
+        </td>
+        <td width="416">
+            <p align="center"><img src="vistia_ornament.gif" width="116" height="108" border="0"></p>
+        </td>
+    </tr>
+</table>
+<p>&nbsp;</p>
+<table border="1" align="center" width="70%" summary="本１" bgcolor="white">
+    <tr>
+        <td width="410">
+
+            <p align="center"><img src="vistia_themovie_01_poster.jpg" width="300" height="415" border="0"></p>
+        </td>
+        <td width="416">
+
+            <p align="center"><font size="5"><br>特別ストーリー</font></p>
+            <p align="center">　<a href="vistia_themovie_01.htm">劇場版「旅する乙女のハプニングタイム！」</a></p>
+            <p align="center">　<a href="vistia_bangai_01.htm">番外編「こんなところで！　望まないせんとう」</a></p>
+            <p align="center">&nbsp;</p>
+        </td>
+    </tr>
+</table>
+<div class="linktext"><div class="linktext">                <p>&nbsp;</p>
+        <p><a href="http://ts.novels.jp/library.html">戻る</a></p>
+</div>
+</div>
+
+
+</body>
+</html>
