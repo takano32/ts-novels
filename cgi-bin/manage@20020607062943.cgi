@@ -1,10 +1,10 @@
-<HTML><HTML>‚à‚¤ˆê“x‰‚ß‚©‚ç‚â‚è’¼‚µ‚Ä‚­‚¾‚³‚¢<BR>
-       <A HREF="http://ts.novels.jp">ts.novels.jp</A>
+<HTML><HTML>ã‚‚ã†ä¸€åº¦åˆã‚ã‹ã‚‰ã‚„ã‚Šç›´ã—ã¦ãã ã•ã„<BR>
+       <A HREF="../index.html">ts.novels.jp</A>
 </HTML>Content-type: text/html
 
-<HTML><HEAD><META HTTP-EQUIV="content-type" CONTENT="text/html;charset=x-sjis"></HEAD><TITLE>http://ts.novels.jp/cgi-bin/manage.cgi?20071026183003 -- ì•iŒŸõ</TITLE><BODY><H1>ŒŸõƒtƒH[ƒ€</H1><BR><FORM ACTION="http://ts.novels.jp/cgi-bin/manage.cgi?20071026183003" METHOD="POST">ŒŸõ‚·‚éƒL[‚Éƒ`ƒFƒbƒN‚ð“ü‚ê‚Ä‚­‚¾‚³‚¢<BR><INPUT TYPE=CHECKBOX NAME="1"VALUE=" 1
-">ƒ^ƒCƒgƒ‹ <INPUT TYPE=CHECKBOX NAME="2"VALUE=" 3 6
-">ìŽÒ <INPUT TYPE=CHECKBOX NAME="3"VALUE=" 13
-">ƒWƒƒƒ“ƒ‹ <INPUT TYPE=CHECKBOX NAME="4"VALUE=" 14
-">Ží•Ê <INPUT TYPE=CHECKBOX NAME="5"VALUE=" 15
-">ƒL[ƒ[ƒh <INPUT TYPE=CHECKBOX NAME="ALL"  VALUE="checked">‘S‚Ä<BR><INPUT TYPE=hidden NAME="0" VALUE="5">ŒŸõ‚·‚éƒL[ƒ[ƒh‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢<BR><INPUT TYPE=TEXT NAME="WORDS" VALUE="" SIZE=70><INPUT TYPE=hidden NAME="FORM" VALUE="SEARCH"><INPUT TYPE=SUBMIT NAME="SUBMIT" VALUE="ŒŸõ"></FORM></BODY></HTML>
+<HTML><HEAD><META HTTP-EQUIV="content-type" CONTENT="text/html;charset=UTF-8"></HEAD><TITLE>http://ts.novels.jp/cgi-bin/manage.cgi?20071026183003 -- ä½œå“æ¤œç´¢</TITLE><BODY><H1>æ¤œç´¢ãƒ•ã‚©ãƒ¼ãƒ </H1><BR><FORM ACTION="manage@20071026183003.cgi" METHOD="POST">æ¤œç´¢ã™ã‚‹ã‚­ãƒ¼ã«ãƒã‚§ãƒƒã‚¯ã‚’å…¥ã‚Œã¦ãã ã•ã„<BR><INPUT TYPE=CHECKBOX NAME="1"VALUE=" 1
+">ã‚¿ã‚¤ãƒˆãƒ« <INPUT TYPE=CHECKBOX NAME="2"VALUE=" 3 6
+">ä½œè€… <INPUT TYPE=CHECKBOX NAME="3"VALUE=" 13
+">ã‚¸ãƒ£ãƒ³ãƒ« <INPUT TYPE=CHECKBOX NAME="4"VALUE=" 14
+">ç¨®åˆ¥ <INPUT TYPE=CHECKBOX NAME="5"VALUE=" 15
+">ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ <INPUT TYPE=CHECKBOX NAME="ALL"  VALUE="checked">å…¨ã¦<BR><INPUT TYPE=hidden NAME="0" VALUE="5">æ¤œç´¢ã™ã‚‹ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„<BR><INPUT TYPE=TEXT NAME="WORDS" VALUE="" SIZE=70><INPUT TYPE=hidden NAME="FORM" VALUE="SEARCH"><INPUT TYPE=SUBMIT NAME="SUBMIT" VALUE="æ¤œç´¢"></FORM></BODY></HTML>

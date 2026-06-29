@@ -1,24 +1,24 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <HTML><HEAD>
-<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
-<BASE HREF="http://ts.novels.jp/">
-<TITLE>���@�����_���T�[�`�@�� -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<BASE HREF="../index.html">
+<TITLE>■　ランダムサーチ　■ -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
 </HEAD>
 <BODY  BGCOLOR="#EEEEEE">
-<FONT size=-1><A href="http://ts.novels.jp/library.html">�߂�</A></FONT>
-<DIV ALIGN=center><H2>���@�����_���T�[�`�@��</H2></DIV>����̃����_�������͂��ꂪ�I�΂�܂����B�@(<A HREF="http://ts.novels.jp/cgi-bin/manage2.cgi?ran">�I�ђ���</A>)
- <BR><BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/200210/29010351/back_to_the_twelve.html">Back to the twelve</a></B></TD><TD><B>hosoboso</B> ���� </TD><TD><B>��</B>(<B>hosoboso</B>����)</TD><TD>2002/10/29(��)</TD><TD>0KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=hosoboso">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>��w�̊w���ՂŁA�������ďo�X���o�����ƂɂȂ邪�E�E�E<BR><B>�y�R�����g�z </B>�e�X�g�O�ɂ��ւ�炸�����Ă݂���i�B����Ȃ̏����Ă�ꍇ����Ȃ��̂ɁE�E�E<BR>
-���Ȃ݂ɏ��߂ď����܂����B<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B><S>���b�̎n�܂�Ƃ����Ƃ���ł����ˁB�オ�C�ɂȂ�܂��B</S><BR>
-��җl�̊�]�ŁA���J�𒆎~���܂��B(2002/12/18)</TD></TR><TR><TD COLSPAN=6>�y�W�������z ���� �w���H <BR>�y��ʁz �ϐg<BR>�y�L�[���[�h�z �N��ω�</TD></TR></TABLE><BR><BR>�whosoboso�x����̂��̑��̒���<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/200210/29010351/back_to_the_twelve.html">Back to the twelve</a></B></TD><TD><B>hosoboso</B> ���� </TD><TD><B>��</B>(<B>hosoboso</B>����)</TD><TD>2002/10/29(��)</TD><TD>0KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=hosoboso">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>��w�̊w���ՂŁA�������ďo�X���o�����ƂɂȂ邪�E�E�E<BR><B>�y�R�����g�z </B>�e�X�g�O�ɂ��ւ�炸�����Ă݂���i�B����Ȃ̏����Ă�ꍇ����Ȃ��̂ɁE�E�E<BR>
-���Ȃ݂ɏ��߂ď����܂����B<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B><S>���b�̎n�܂�Ƃ����Ƃ���ł����ˁB�オ�C�ɂȂ�܂��B</S><BR>
-��җl�̊�]�ŁA���J�𒆎~���܂��B(2002/12/18)</TD></TR><TR><TD COLSPAN=6>�y�W�������z ���� �w���H <BR>�y��ʁz �ϐg<BR>�y�L�[���[�h�z �N��ω�</TD></TR></TABLE><BR><BR><BR>
+<FONT size=-1><A href="../library.html">戻る</A></FONT>
+<DIV ALIGN=center><H2>■　ランダムサーチ　■</H2></DIV>今回のランダム検索はこれが選ばれました。　(<A HREF="manage2@ran.cgi">選び直す</A>)
+ <BR><BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/200210/29010351/back_to_the_twelve.html">Back to the twelve</a></B></TD><TD><B>hosoboso</B> さん </TD><TD><B>画</B>(<B>hosoboso</B>さん)</TD><TD>2002/10/29(火)</TD><TD>0KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=hosoboso">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>大学の学園祭で、女装して出店を出すことになるが・・・<BR><B>【コメント】 </B>テスト前にも関わらず書いてみた作品。こんなの書いてる場合じゃないのに・・・<BR>
+ちなみに初めて書きました。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B><S>お話の始まりというところですかね。後が気になります。</S><BR>
+作者様の希望で、公開を中止します。(2002/12/18)</TD></TR><TR><TD COLSPAN=6>【ジャンル】 現代 学園？ <BR>【種別】 変身<BR>【キーワード】 年齢変化</TD></TR></TABLE><BR><BR>『hosoboso』さんのその他の著作<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/200210/29010351/back_to_the_twelve.html">Back to the twelve</a></B></TD><TD><B>hosoboso</B> さん </TD><TD><B>画</B>(<B>hosoboso</B>さん)</TD><TD>2002/10/29(火)</TD><TD>0KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=hosoboso">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>大学の学園祭で、女装して出店を出すことになるが・・・<BR><B>【コメント】 </B>テスト前にも関わらず書いてみた作品。こんなの書いてる場合じゃないのに・・・<BR>
+ちなみに初めて書きました。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B><S>お話の始まりというところですかね。後が気になります。</S><BR>
+作者様の希望で、公開を中止します。(2002/12/18)</TD></TR><TR><TD COLSPAN=6>【ジャンル】 現代 学園？ <BR>【種別】 変身<BR>【キーワード】 年齢変化</TD></TR></TABLE><BR><BR><BR>
 
-<TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/200210/29010351/back_to_the_twelve.html">Back to the twelve</a></B></TD><TD><B>hosoboso</B> ���� </TD><TD><B>��</B>(<B>hosoboso</B>����)</TD><TD>2002/10/29(��)</TD><TD>0KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=hosoboso">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>��w�̊w���ՂŁA�������ďo�X���o�����ƂɂȂ邪�E�E�E<BR><B>�y�R�����g�z </B>�e�X�g�O�ɂ��ւ�炸�����Ă݂���i�B����Ȃ̏����Ă�ꍇ����Ȃ��̂ɁE�E�E<BR>
-���Ȃ݂ɏ��߂ď����܂����B<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B><S>���b�̎n�܂�Ƃ����Ƃ���ł����ˁB�オ�C�ɂȂ�܂��B</S><BR>
-��җl�̊�]�ŁA���J�𒆎~���܂��B(2002/12/18)</TD></TR><TR><TD COLSPAN=6>�y�W�������z ���� �w���H <BR>�y��ʁz �ϐg<BR>�y�L�[���[�h�z �N��ω�</TD></TR></TABLE><BR><BR><BR>
+<TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/200210/29010351/back_to_the_twelve.html">Back to the twelve</a></B></TD><TD><B>hosoboso</B> さん </TD><TD><B>画</B>(<B>hosoboso</B>さん)</TD><TD>2002/10/29(火)</TD><TD>0KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=hosoboso">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>大学の学園祭で、女装して出店を出すことになるが・・・<BR><B>【コメント】 </B>テスト前にも関わらず書いてみた作品。こんなの書いてる場合じゃないのに・・・<BR>
+ちなみに初めて書きました。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B><S>お話の始まりというところですかね。後が気になります。</S><BR>
+作者様の希望で、公開を中止します。(2002/12/18)</TD></TR><TR><TD COLSPAN=6>【ジャンル】 現代 学園？ <BR>【種別】 変身<BR>【キーワード】 年齢変化</TD></TR></TABLE><BR><BR><BR>
 
-<FONT size=-1><A href="http://ts.novels.jp/library.html">�߂�</A></FONT>
+<FONT size=-1><A href="../library.html">戻る</A></FONT>
 
-<!-- ���N�������ɗp�Ǘ�CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST ��:kou -->
+<!-- 少年少女文庫用管理CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST 作:kou -->
 <!-- Login User : Guest(174.129.228.67) , Competence : -1 -->
 </BODY></HTML>

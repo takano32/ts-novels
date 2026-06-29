@@ -1,16 +1,16 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <HTML><HEAD>
-<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
-<BASE HREF="http://ts.novels.jp/">
-<TITLE>¡@ƒ‰ƒ“ƒ_ƒ€ƒT[ƒ`@¡ -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<BASE HREF="../index.html">
+<TITLE>â– ã€€ãƒ©ãƒ³ãƒ€ãƒ ã‚µãƒ¼ãƒã€€â–  -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
 </HEAD>
 <BODY  BGCOLOR="#EEEEEE">
-<FONT size=-1><A href="http://ts.novels.jp/library.html">–ß‚é</A></FONT>
-<DIV ALIGN=center><H2>¡@ƒ‰ƒ“ƒ_ƒ€ƒT[ƒ`@¡</H2></DIV>¡‰ñ‚Ìƒ‰ƒ“ƒ_ƒ€ŒŸõ‚Ícc<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/kisai_1.html">ƒtƒ@ƒXƒi[‚ðŠJ‚¯‚Ä</a></B></TD><TD><B>‹PŽN³—¬</B> ‚³‚ñ </TD><TD>(ƒCƒ‰ƒXƒg‚È‚µ)</TD><TD>1998/7/7</TD><TD>12KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kisai_seiryu">Š´‘z</a></TD></TR><TR><TD COLSPAN=6><B>y‚ ‚ç‚·‚¶z </B><BR><B>yƒRƒƒ“ƒgz </B></TD></TR><TR><TD COLSPAN=6><B>y„‘E•¶z </B><BR></TD></TR><TR><TD COLSPAN=6>yƒWƒƒƒ“ƒ‹z  <BR>yŽí•Êz <BR>yƒL[ƒ[ƒhz </TD></TR></TABLE><BR><BR><BR>
+<FONT size=-1><A href="../library.html">æˆ»ã‚‹</A></FONT>
+<DIV ALIGN=center><H2>â– ã€€ãƒ©ãƒ³ãƒ€ãƒ ã‚µãƒ¼ãƒã€€â– </H2></DIV>ä»Šå›žã®ãƒ©ãƒ³ãƒ€ãƒ æ¤œç´¢ã¯â€¦â€¦<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/kisai_1.html">ãƒ•ã‚¡ã‚¹ãƒŠãƒ¼ã‚’é–‹ã‘ã¦</a></B></TD><TD><B>è¼æ™’æ­£æµ</B> ã•ã‚“ </TD><TD>(ã‚¤ãƒ©ã‚¹ãƒˆãªã—)</TD><TD>1998/7/7</TD><TD>12KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kisai_seiryu">æ„Ÿæƒ³</a></TD></TR><TR><TD COLSPAN=6><B>ã€ã‚ã‚‰ã™ã˜ã€‘ </B><BR><B>ã€ã‚³ãƒ¡ãƒ³ãƒˆã€‘ </B></TD></TR><TR><TD COLSPAN=6><B>ã€æŽ¨è–¦æ–‡ã€‘ </B><BR></TD></TR><TR><TD COLSPAN=6>ã€ã‚¸ãƒ£ãƒ³ãƒ«ã€‘  <BR>ã€ç¨®åˆ¥ã€‘ <BR>ã€ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã€‘ </TD></TR></TABLE><BR><BR><BR>
 
-w‹PŽN³—¬x‚³‚ñ‚Ì‚»‚Ì‘¼‚Ì’˜ì<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/kisai_1.html">ƒtƒ@ƒXƒi[‚ðŠJ‚¯‚Ä</a></B></TD><TD><B>‹PŽN³—¬</B> ‚³‚ñ </TD><TD>(ƒCƒ‰ƒXƒg‚È‚µ)</TD><TD>1998/7/7</TD><TD>12KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kisai_seiryu">Š´‘z</a></TD></TR><TR><TD COLSPAN=6><B>y‚ ‚ç‚·‚¶z </B><BR><B>yƒRƒƒ“ƒgz </B></TD></TR><TR><TD COLSPAN=6><B>y„‘E•¶z </B><BR></TD></TR><TR><TD COLSPAN=6>yƒWƒƒƒ“ƒ‹z  <BR>yŽí•Êz <BR>yƒL[ƒ[ƒhz </TD></TR></TABLE><BR><BR><BR>
+ã€Žè¼æ™’æ­£æµã€ã•ã‚“ã®ãã®ä»–ã®è‘—ä½œ<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/kisai_1.html">ãƒ•ã‚¡ã‚¹ãƒŠãƒ¼ã‚’é–‹ã‘ã¦</a></B></TD><TD><B>è¼æ™’æ­£æµ</B> ã•ã‚“ </TD><TD>(ã‚¤ãƒ©ã‚¹ãƒˆãªã—)</TD><TD>1998/7/7</TD><TD>12KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kisai_seiryu">æ„Ÿæƒ³</a></TD></TR><TR><TD COLSPAN=6><B>ã€ã‚ã‚‰ã™ã˜ã€‘ </B><BR><B>ã€ã‚³ãƒ¡ãƒ³ãƒˆã€‘ </B></TD></TR><TR><TD COLSPAN=6><B>ã€æŽ¨è–¦æ–‡ã€‘ </B><BR></TD></TR><TR><TD COLSPAN=6>ã€ã‚¸ãƒ£ãƒ³ãƒ«ã€‘  <BR>ã€ç¨®åˆ¥ã€‘ <BR>ã€ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã€‘ </TD></TR></TABLE><BR><BR><BR>
 
-<FONT size=-1><A href="http://ts.novels.jp/library.html">–ß‚é</A></FONT>
+<FONT size=-1><A href="../library.html">æˆ»ã‚‹</A></FONT>
 
-<!-- ­”N­—•¶ŒÉ—pŠÇ—CGI manage2.cgi v2.3.8 2004/06/05 18:32:00 JST ì:kou -->
+<!-- å°‘å¹´å°‘å¥³æ–‡åº«ç”¨ç®¡ç†CGI manage2.cgi v2.3.8 2004/06/05 18:32:00 JST ä½œ:kou -->
 </BODY></HTML>

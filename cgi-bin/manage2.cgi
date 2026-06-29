@@ -1,22 +1,22 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <HTML><HEAD>
-<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
-<BASE HREF="http://ts.novels.jp/">
-<TITLE>ì•iŒŸõ -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<BASE HREF="../index.html">
+<TITLE>ä½œå“æ¤œç´¢ -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
 </HEAD>
 <BODY>
-<FONT size=-1><A href="http://ts.novels.jp/library.html">–ß‚é</A></FONT>
-<H1>ŒŸõƒtƒH[ƒ€</H1><FORM ACTION="http://ts.novels.jp/cgi-bin/manage2.cgi?search" METHOD="POST">ŒŸõ‚·‚éƒL[‚Éƒ`ƒFƒbƒN‚ð“ü‚ê‚Ä‚­‚¾‚³‚¢B<BR>
-<INPUT TYPE="CHECKBOX" NAME="line-0" VALUE="1">ƒ^ƒCƒgƒ‹<INPUT TYPE="CHECKBOX" NAME="line-1" VALUE="3,6">ìŽÒ<INPUT TYPE="CHECKBOX" NAME="line-2" VALUE="13">ƒWƒƒƒ“ƒ‹<INPUT TYPE="CHECKBOX" NAME="line-3" VALUE="14">Ží•Ê<INPUT TYPE="CHECKBOX" NAME="line-4" VALUE="15">ƒL[ƒ[ƒh<INPUT TYPE="checkbox" NAME="ALL" VALUE=" checked">‘S‚Ä<BR>
-ŒŸõ‚·‚éƒL[ƒ[ƒh‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢<BR>
-<INPUT TYPE="text" NAME="word" VALUE="" SIZE="70"><INPUT TYPE=hidden NAME="m" VALUE="search"><INPUT TYPE=SUBMIT VALUE="ŒŸõ"><BR>ANDŒŸõ<INPUT TYPE="radio" NAME="condit" VALUE="AND" checked>ORŒŸõ<INPUT TYPE="radio" NAME="condit" VALUE="OR"><BR>
-<SMALL>•¡”‚ÌƒL[ƒ[ƒh‚ÅŒŸõ‚·‚éÛ‚Í‹ó”’(‘SŠp‰Â)‚Å‹æØ‚è‚Ü‚·B<BR>
-AND‚Í‚·‚×‚Ä‚ÌƒL[ƒ[ƒh‚ª‘¶Ý‚·‚éƒf[ƒ^[AOR‚Í‚Ç‚ê‚©‚P‚Â‚ÌƒL[ƒ[ƒh‚ª‘¶Ý‚·‚éƒf[ƒ^[‚ð’Šo‚µ‚Ü‚·B<BR>
-<INPUT TYPE="checkbox" NAME="c1" VALUE=" checked">‘å•¶Žš¬•¶Žš‚ð‹æ•Ê‚·‚é<BR>
-<INPUT TYPE="checkbox" NAME="c2" VALUE=" checked">‘SŠp”¼Šp‚ð‹æ•Ê‚·‚é<BR>
+<FONT size=-1><A href="../library.html">æˆ»ã‚‹</A></FONT>
+<H1>æ¤œç´¢ãƒ•ã‚©ãƒ¼ãƒ </H1><FORM ACTION="manage2@search.cgi" METHOD="POST">æ¤œç´¢ã™ã‚‹ã‚­ãƒ¼ã«ãƒã‚§ãƒƒã‚¯ã‚’å…¥ã‚Œã¦ãã ã•ã„ã€‚<BR>
+<INPUT TYPE="CHECKBOX" NAME="line-0" VALUE="1">ã‚¿ã‚¤ãƒˆãƒ«<INPUT TYPE="CHECKBOX" NAME="line-1" VALUE="3,6">ä½œè€…<INPUT TYPE="CHECKBOX" NAME="line-2" VALUE="13">ã‚¸ãƒ£ãƒ³ãƒ«<INPUT TYPE="CHECKBOX" NAME="line-3" VALUE="14">ç¨®åˆ¥<INPUT TYPE="CHECKBOX" NAME="line-4" VALUE="15">ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰<INPUT TYPE="checkbox" NAME="ALL" VALUE=" checked">å…¨ã¦<BR>
+æ¤œç´¢ã™ã‚‹ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„<BR>
+<INPUT TYPE="text" NAME="word" VALUE="" SIZE="70"><INPUT TYPE=hidden NAME="m" VALUE="search"><INPUT TYPE=SUBMIT VALUE="æ¤œç´¢"><BR>ANDæ¤œç´¢<INPUT TYPE="radio" NAME="condit" VALUE="AND" checked>ORæ¤œç´¢<INPUT TYPE="radio" NAME="condit" VALUE="OR"><BR>
+<SMALL>è¤‡æ•°ã®ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã§æ¤œç´¢ã™ã‚‹éš›ã¯ç©ºç™½(å…¨è§’å¯)ã§åŒºåˆ‡ã‚Šã¾ã™ã€‚<BR>
+ANDã¯ã™ã¹ã¦ã®ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ãŒå­˜åœ¨ã™ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒ¼ã€ORã¯ã©ã‚Œã‹ï¼‘ã¤ã®ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ãŒå­˜åœ¨ã™ã‚‹ãƒ‡ãƒ¼ã‚¿ãƒ¼ã‚’æŠ½å‡ºã—ã¾ã™ã€‚<BR>
+<INPUT TYPE="checkbox" NAME="c1" VALUE=" checked">å¤§æ–‡å­—å°æ–‡å­—ã‚’åŒºåˆ¥ã™ã‚‹<BR>
+<INPUT TYPE="checkbox" NAME="c2" VALUE=" checked">å…¨è§’åŠè§’ã‚’åŒºåˆ¥ã™ã‚‹<BR>
 </SMALL><HR>
-</FORM><B>ƒL[ƒ[ƒh‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢</B><BR><FONT size=-1><A href="http://ts.novels.jp/library.html">–ß‚é</A><BR></FONT>
+</FORM><B>ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„</B><BR><FONT size=-1><A href="../library.html">æˆ»ã‚‹</A><BR></FONT>
 
-<!-- ­”N­—•¶ŒÉ—pŠÇ—CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST ì:kou -->
+<!-- å°‘å¹´å°‘å¥³æ–‡åº«ç”¨ç®¡ç†CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST ä½œ:kou -->
 <!-- Login User : Guest(54.165.90.203) , Competence : -1 -->
 </BODY></HTML>

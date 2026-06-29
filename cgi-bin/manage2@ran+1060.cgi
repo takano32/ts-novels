@@ -1,23 +1,23 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <HTML><HEAD>
-<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
-<BASE HREF="http://ts.novels.jp/">
-<TITLE>���@�����_���T�[�`�@�� -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<BASE HREF="../index.html">
+<TITLE>■　ランダムサーチ　■ -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
 </HEAD>
 <BODY  BGCOLOR="#EEEEEE">
-<FONT size=-1><A href="http://ts.novels.jp/library.html">�߂�</A></FONT>
-<DIV ALIGN=center><H2>���@�����_���T�[�`�@��</H2></DIV>����̃����_�������͂��ꂪ�I�΂�܂����B�@(<A HREF="http://ts.novels.jp/cgi-bin/manage2.cgi?ran">�I�ђ���</A>)
- <BR><BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/kayo_chan/extra/kayo_ex31.html">�ؑタ���V���[�Y�ԊO�ҁu�����K��ҁv</a></B></TD><TD><B>��܂ǂ肽��</B> ���� </TD><TD>(�C���X�g�Ȃ�)</TD><TD>2005/4/29(��)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>�L�~�̍K���̓{�N�̕s�K�B<BR><B>�y�R�����g�z </B>�����ƁB�V���[�Y�̃t�@���̕����߂�Ȃ����B<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B>�ؑタ��񂪉������Ă����̂́A�R�R���ƃJ���_�̔Y�݁B�����A�R�R���ƃJ���_�̔Y�݁c�c<BR>
-<strong><a href="./novel/kayo_chan/index.html">�y�ؑタ���V���[�Y�^�C�g���͂�����z</a></strong></TD></TR><TR><TD COLSPAN=6>�y�W�������z  �s�� �z���[ <BR>�y��ʁz �ϐg<BR>�y�L�[���[�h�z ���� �ؑタ���</TD></TR></TABLE><BR><BR>�w��܂ǂ肽���x����̂��̑��̒���<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/200504/17193503/yabunirami_02.html">��Ԃɂ�݂̖����@�Q</a></B></TD><TD><B>��܂ǂ肽��</B> ���� </TD><TD>(�C���X�g�Ȃ�)</TD><TD>2005/4/30(�y)</TD><TD>10KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=yamadori_take">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>����ӂꂽ����̎E���Ƃ������i�B<BR><B>�y�R�����g�z </B>����͋N���Ă܂��B�Ȃ̂ŕʖ��u�o���ҁv�B������<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B>���Ƃ����т������̐��E�B<BR>
-<B><A HREF="./novel/200504/17193503/yabunirami_01.html">�y��P�b�͂�����z</A></B></TD></TR><TR><TD COLSPAN=6>�y�W�������z �T�� ���@�g�� <BR>�y��ʁz �l�i�]��<BR>�y�L�[���[�h�z ���� ���O</TD></TR></TABLE><BR><BR><BR>
+<FONT size=-1><A href="../library.html">戻る</A></FONT>
+<DIV ALIGN=center><H2>■　ランダムサーチ　■</H2></DIV>今回のランダム検索はこれが選ばれました。　(<A HREF="manage2@ran.cgi">選び直す</A>)
+ <BR><BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/kayo_chan/extra/kayo_ex31.html">華代ちゃんシリーズ番外編「白い訪問者」</a></B></TD><TD><B>やまどりたけ</B> さん </TD><TD>(イラストなし)</TD><TD>2005/4/29(金)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>キミの幸せはボクの不幸。<BR><B>【コメント】 </B>ええと。シリーズのファンの方ごめんなさい。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B>華代ちゃんが解決してくれるのは、ココロとカラダの悩み。そう、ココロとカラダの悩み……<BR>
+<strong><a href="novel/kayo_chan/index.html">【華代ちゃんシリーズタイトルはこちら】</a></strong></TD></TR><TR><TD COLSPAN=6>【ジャンル】  不条理 ホラー <BR>【種別】 変身<BR>【キーワード】 強制 華代ちゃん</TD></TR></TABLE><BR><BR>『やまどりたけ』さんのその他の著作<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/200504/17193503/yabunirami_02.html">やぶにらみの魔女　２</a></B></TD><TD><B>やまどりたけ</B> さん </TD><TD>(イラストなし)</TD><TD>2005/4/30(土)</TD><TD>10KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=yamadori_take">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>ありふれた日常の殺伐とした風景。<BR><B>【コメント】 </B>今回は起きてます。なので別名「覚醒編」。自分が<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B>何ともきびしいこの世界。<BR>
+<B><A HREF="novel/200504/17193503/yabunirami_01.html">【第１話はこちら】</A></B></TD></TR><TR><TD COLSPAN=6>【ジャンル】 探偵 魔法使い <BR>【種別】 人格転移<BR>【キーワード】 お茶 名前</TD></TR></TABLE><BR><BR><BR>
 
-<TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/kayo_chan/extra/kayo_ex31.html">�ؑタ���V���[�Y�ԊO�ҁu�����K��ҁv</a></B></TD><TD><B>��܂ǂ肽��</B> ���� </TD><TD>(�C���X�g�Ȃ�)</TD><TD>2005/4/29(��)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>�L�~�̍K���̓{�N�̕s�K�B<BR><B>�y�R�����g�z </B>�����ƁB�V���[�Y�̃t�@���̕����߂�Ȃ����B<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B>�ؑタ��񂪉������Ă����̂́A�R�R���ƃJ���_�̔Y�݁B�����A�R�R���ƃJ���_�̔Y�݁c�c<BR>
-<strong><a href="./novel/kayo_chan/index.html">�y�ؑタ���V���[�Y�^�C�g���͂�����z</a></strong></TD></TR><TR><TD COLSPAN=6>�y�W�������z  �s�� �z���[ <BR>�y��ʁz �ϐg<BR>�y�L�[���[�h�z ���� �ؑタ���</TD></TR></TABLE><BR><BR><BR>
+<TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/kayo_chan/extra/kayo_ex31.html">華代ちゃんシリーズ番外編「白い訪問者」</a></B></TD><TD><B>やまどりたけ</B> さん </TD><TD>(イラストなし)</TD><TD>2005/4/29(金)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>キミの幸せはボクの不幸。<BR><B>【コメント】 </B>ええと。シリーズのファンの方ごめんなさい。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B>華代ちゃんが解決してくれるのは、ココロとカラダの悩み。そう、ココロとカラダの悩み……<BR>
+<strong><a href="novel/kayo_chan/index.html">【華代ちゃんシリーズタイトルはこちら】</a></strong></TD></TR><TR><TD COLSPAN=6>【ジャンル】  不条理 ホラー <BR>【種別】 変身<BR>【キーワード】 強制 華代ちゃん</TD></TR></TABLE><BR><BR><BR>
 
-<TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/200504/17193503/yabunirami_01.html">��Ԃɂ�݂̖���</a></B></TD><TD><B>��܂ǂ肽��</B> ���� </TD><TD>(�C���X�g�Ȃ�)</TD><TD>2005/4/17(��)</TD><TD>3KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=yamadori_take">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>�����A�K���ɂȂ肽���Ƃ������b�B<BR><B>�y�R�����g�z </B>���܂܂ł�����ROM���Ă��̂ł����A�d���̒��ߐ؂肪���悢�斾����ɍ��������āA�p�j�N���Ă�ԂɋC�����ƉN�O������閾���̊ԂɈӎ��������Ă���Ȃ��̂��B���b�^�C�i�C�̐��_�Œp�����J���邱�Ƃɂ��܂����B<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B>�u�ӎ�����������i�������v�B���̂���Ȍ|�����o����񂾂��I�i��</TD></TR><TR><TD COLSPAN=6>�y�W�������z �T�� ���@�g�� <BR>�y��ʁz �l�i�]��<BR>�y�L�[���[�h�z ���D ��s</TD></TR></TABLE><BR><BR><BR>
+<TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/200504/17193503/yabunirami_01.html">やぶにらみの魔女</a></B></TD><TD><B>やまどりたけ</B> さん </TD><TD>(イラストなし)</TD><TD>2005/4/17(日)</TD><TD>3KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=yamadori_take">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>ああ、幸せになりたいというお話。<BR><B>【コメント】 </B>いままでずっとROMってたのですが、仕事の締め切りがいよいよ明後日に差し迫って、パニクってる間に気がつくと丑三つ時から夜明けの間に意識を失ってこんなものが。モッタイナイの精神で恥を公開することにしました。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B>「意識を失いつつも作品を書く」。何故そんな芸当が出来るんだっ！（笑</TD></TR><TR><TD COLSPAN=6>【ジャンル】 探偵 魔法使い <BR>【種別】 人格転移<BR>【キーワード】 お札 愚痴</TD></TR></TABLE><BR><BR><BR>
 
-<FONT size=-1><A href="http://ts.novels.jp/library.html">�߂�</A></FONT>
+<FONT size=-1><A href="../library.html">戻る</A></FONT>
 
-<!-- ���N�������ɗp�Ǘ�CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST ��:kou -->
+<!-- 少年少女文庫用管理CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST 作:kou -->
 <!-- Login User : Guest(174.129.228.67) , Competence : -1 -->
 </BODY></HTML>
