@@ -1,26 +1,26 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <HTML><HEAD>
-<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
-<BASE HREF="http://ts.novels.jp/">
-<TITLE>¡@ƒ‰ƒ“ƒ_ƒ€ƒT[ƒ`@¡ -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<BASE HREF="../index.html">
+<TITLE>â– ã€€ãƒ©ãƒ³ãƒ€ãƒ ã‚µãƒ¼ãƒã€€â–  -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
 </HEAD>
 <BODY  BGCOLOR="#EEEEEE">
-<FONT size=-1><A href="http://ts.novels.jp/library.html">–ß‚é</A></FONT>
-<DIV ALIGN=center><H2>¡@ƒ‰ƒ“ƒ_ƒ€ƒT[ƒ`@¡</H2></DIV>¡‰ñ‚Ìƒ‰ƒ“ƒ_ƒ€ŒŸõ‚Í‚±‚ê‚ª‘I‚Î‚ê‚Ü‚µ‚½B@(<A HREF="http://ts.novels.jp/cgi-bin/manage2.cgi?ran">‘I‚Ñ’¼‚·</A>)
- <BR><BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/kayo_chan/kayo_chan101.html">‰Ø‘ã‚¿‚á‚ñƒVƒŠ[ƒYu’Ê‚è–‚v</a></B></TD><TD><B><A href="mailto:sa_to_si_1108@‚±‚±‚ðÁ‚µ‚Äyahoo.co.jp">–²’Ç‚¢l</a></B> ‚³‚ñ </TD><TD>(ƒCƒ‰ƒXƒg‚È‚µ)</TD><TD>2005/9/19(ŒŽ)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan">Š´‘z</a></TD></TR><TR><TD COLSPAN=6><B>y‚ ‚ç‚·‚¶z </B>Z‘îŠX‚Å‹N‚±‚Á‚½”ßŒ€EEEH<BR><B>yƒRƒƒ“ƒgz </B>‘æ“ñ‚a‚a‚r‚Å”­•\‚µ‚½ì•i‚ÌÄ‚«’¼‚µ‚Å‚·B‚»‚µ‚ÄAŽ„‚Ìˆ—ì‚Å‚à‚ ‚è‚Ü‚·BˆÓŒ©AŠ´‘z‚È‚Ç‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·B<BR><B>y–²’Ç‚¢l ‚³‚ñ‚ÌƒIƒXƒXƒì•iz</B> <A HREF="./novel/kisai_1.html">ƒtƒ@ƒXƒi[‚ðŠJ‚¯‚Ä</A> <FONT SIZE="-1">(‹PŽN³—¬‚³‚ñì)</FONT></TD></TR><TR><TD COLSPAN=6><B>y„‘E•¶z </B>‚¨‹à‚Æ‚©g‘Ì‚Æ‚©‚Ì–Ú“I‚ª‚È‚¢’Ê‚è–‚‚Á‚Ä•|‚¢‚Å‚·‚ËiŒŒ‚ðŒ©‚¹‚ë``IjB<BR>
-<a href="./novel/kayo_chan/index.html"><strong>y‰Ø‘ã‚¿‚á‚ñƒVƒŠ[ƒYƒ^ƒCƒgƒ‹‚Í‚±‚¿‚çz</strong></a><BR>
-</TD></TR><TR><TD COLSPAN=6>yƒWƒƒƒ“ƒ‹z Œ»‘ã  •sð— <BR>yŽí•Êz •Ïg<BR>yƒL[ƒ[ƒhz ƒ_[ƒN(•—–¡) ‰Ø‘ã‚¿‚á‚ñ</TD></TR></TABLE><BR><BR>w–²’Ç‚¢lx‚³‚ñ‚Ì‚»‚Ì‘¼‚Ì’˜ì<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/200510/12010700/dream_theater.html">Dream Theater</a></B></TD><TD><B><A href="mailto:sa_to_si_1108—yahoo.co.jp">–²’Ç‚¢l</a></B> ‚³‚ñ </TD><TD>(ƒCƒ‰ƒXƒg‚È‚µ)</TD><TD>2005/10/12(…)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=yumeoibito">Š´‘z</a></TD></TR><TR><TD COLSPAN=6><B>y‚ ‚ç‚·‚¶z </B>‚ ‚é’j‚Ì‘ÌŒ±B<BR><B>yƒRƒƒ“ƒgz </B>30•ª‚Åo—ˆ‚½ì•iB‰½‚ª‘‚«‚½‚©‚Á‚½‚Ì‚©Ž©•ª‚Å‚à‚æ‚­‚í‚©‚è‚Ü‚¹‚ñB<BR>
-FX‚Æl‚¦‚Ä‚¢‚½‚¾‚¯‚é‚Æ‚¤‚ê‚µ‚¢‚Å‚·B<BR>
-Š´Šo‚Æ‚µ‚Ä‚ÍA‰½‚©‚ª~‚Á‚Ä—ˆ‚½‚æ‚¤‚ÈB<BR>
-Š´‘z‚ÍA‚í‚¯•ª‚©‚ç‚ñA‚ÆŒ¾‚¤ƒcƒbƒRƒ~ˆÈŠO‚Å‚¨Šè‚¢‚µ‚Ü‚·B<BR><B>y–²’Ç‚¢l ‚³‚ñ‚ÌƒIƒXƒXƒì•iz</B> <A HREF="./novel/rental/rental.html">‚q‚d‚m‚s‚`‚k@‚a‚n‚c‚x</A> <FONT SIZE="-1">(TWO-BIT‚³‚ñì)</FONT></TD></TR><TR><TD COLSPAN=6><B>y„‘E•¶z </B>‚³‚Á‚Æ“Ç‚ß‚Ü‚·B</TD></TR><TR><TD COLSPAN=6>yƒWƒƒƒ“ƒ‹z ‚»‚Ì‘¼ ƒVƒ‡[ƒgƒVƒ‡[ƒg <BR>yŽí•Êz “]¶<BR>yƒL[ƒ[ƒhz </TD></TR></TABLE><BR><BR><BR>
+<FONT size=-1><A href="../library.html">æˆ»ã‚‹</A></FONT>
+<DIV ALIGN=center><H2>â– ã€€ãƒ©ãƒ³ãƒ€ãƒ ã‚µãƒ¼ãƒã€€â– </H2></DIV>ä»Šå›žã®ãƒ©ãƒ³ãƒ€ãƒ æ¤œç´¢ã¯ã“ã‚ŒãŒé¸ã°ã‚Œã¾ã—ãŸã€‚ã€€(<A HREF="manage2@ran.cgi">é¸ã³ç›´ã™</A>)
+ <BR><BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/kayo_chan/kayo_chan101.html">è¯ä»£ã¡ã‚ƒã‚“ã‚·ãƒªãƒ¼ã‚ºã€Œé€šã‚Šé­”ã€</a></B></TD><TD><B><A href="mailto:sa_to_si_1108@ã“ã“ã‚’æ¶ˆã—ã¦yahoo.co.jp">å¤¢è¿½ã„äºº</a></B> ã•ã‚“ </TD><TD>(ã‚¤ãƒ©ã‚¹ãƒˆãªã—)</TD><TD>2005/9/19(æœˆ)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan">æ„Ÿæƒ³</a></TD></TR><TR><TD COLSPAN=6><B>ã€ã‚ã‚‰ã™ã˜ã€‘ </B>ä½å®…è¡—ã§èµ·ã“ã£ãŸæ‚²åŠ‡ãƒ»ãƒ»ãƒ»ï¼Ÿ<BR><B>ã€ã‚³ãƒ¡ãƒ³ãƒˆã€‘ </B>ç¬¬äºŒï¼¢ï¼¢ï¼³ã§ç™ºè¡¨ã—ãŸä½œå“ã®ç„¼ãç›´ã—ã§ã™ã€‚ãã—ã¦ã€ç§ã®å‡¦å¥³ä½œã§ã‚‚ã‚ã‚Šã¾ã™ã€‚æ„è¦‹ã€æ„Ÿæƒ³ãªã©ã‚ˆã‚ã—ããŠé¡˜ã„ã—ã¾ã™ã€‚<BR><B>ã€å¤¢è¿½ã„äºº ã•ã‚“ã®ã‚ªã‚¹ã‚¹ãƒ¡ä½œå“ã€‘</B> <A HREF="novel/kisai_1.html">ãƒ•ã‚¡ã‚¹ãƒŠãƒ¼ã‚’é–‹ã‘ã¦</A> <FONT SIZE="-1">(è¼æ™’æ­£æµã•ã‚“ä½œ)</FONT></TD></TR><TR><TD COLSPAN=6><B>ã€æŽ¨è–¦æ–‡ã€‘ </B>ãŠé‡‘ã¨ã‹èº«ä½“ã¨ã‹ã®ç›®çš„ãŒãªã„é€šã‚Šé­”ã£ã¦æ€–ã„ã§ã™ã­ï¼ˆè¡€ã‚’è¦‹ã›ã‚ã€œã€œï¼ï¼‰ã€‚<BR>
+<a href="novel/kayo_chan/index.html"><strong>ã€è¯ä»£ã¡ã‚ƒã‚“ã‚·ãƒªãƒ¼ã‚ºã‚¿ã‚¤ãƒˆãƒ«ã¯ã“ã¡ã‚‰ã€‘</strong></a><BR>
+</TD></TR><TR><TD COLSPAN=6>ã€ã‚¸ãƒ£ãƒ³ãƒ«ã€‘ ç¾ä»£  ä¸æ¡ç† <BR>ã€ç¨®åˆ¥ã€‘ å¤‰èº«<BR>ã€ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã€‘ ãƒ€ãƒ¼ã‚¯(é¢¨å‘³) è¯ä»£ã¡ã‚ƒã‚“</TD></TR></TABLE><BR><BR>ã€Žå¤¢è¿½ã„äººã€ã•ã‚“ã®ãã®ä»–ã®è‘—ä½œ<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/200510/12010700/dream_theater.html">Dream Theater</a></B></TD><TD><B><A href="mailto:sa_to_si_1108ï¼ yahoo.co.jp">å¤¢è¿½ã„äºº</a></B> ã•ã‚“ </TD><TD>(ã‚¤ãƒ©ã‚¹ãƒˆãªã—)</TD><TD>2005/10/12(æ°´)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=yumeoibito">æ„Ÿæƒ³</a></TD></TR><TR><TD COLSPAN=6><B>ã€ã‚ã‚‰ã™ã˜ã€‘ </B>ã‚ã‚‹ç”·ã®ä½“é¨“ã€‚<BR><B>ã€ã‚³ãƒ¡ãƒ³ãƒˆã€‘ </B>30åˆ†ã§å‡ºæ¥ãŸä½œå“ã€‚ä½•ãŒæ›¸ããŸã‹ã£ãŸã®ã‹è‡ªåˆ†ã§ã‚‚ã‚ˆãã‚ã‹ã‚Šã¾ã›ã‚“ã€‚<BR>
+è‰²ã€…ã¨è€ƒãˆã¦ã„ãŸã ã‘ã‚‹ã¨ã†ã‚Œã—ã„ã§ã™ã€‚<BR>
+æ„Ÿè¦šã¨ã—ã¦ã¯ã€ä½•ã‹ãŒé™ã£ã¦æ¥ãŸã‚ˆã†ãªã€‚<BR>
+æ„Ÿæƒ³ã¯ã€ã‚ã‘åˆ†ã‹ã‚‰ã‚“ã€ã¨è¨€ã†ãƒ„ãƒƒã‚³ãƒŸä»¥å¤–ã§ãŠé¡˜ã„ã—ã¾ã™ã€‚<BR><B>ã€å¤¢è¿½ã„äºº ã•ã‚“ã®ã‚ªã‚¹ã‚¹ãƒ¡ä½œå“ã€‘</B> <A HREF="novel/rental/rental.html">ï¼²ï¼¥ï¼®ï¼´ï¼¡ï¼¬ã€€ï¼¢ï¼¯ï¼¤ï¼¹</A> <FONT SIZE="-1">(TWO-BITã•ã‚“ä½œ)</FONT></TD></TR><TR><TD COLSPAN=6><B>ã€æŽ¨è–¦æ–‡ã€‘ </B>ã•ã£ã¨èª­ã‚ã¾ã™ã€‚</TD></TR><TR><TD COLSPAN=6>ã€ã‚¸ãƒ£ãƒ³ãƒ«ã€‘ ãã®ä»– ã‚·ãƒ§ãƒ¼ãƒˆã‚·ãƒ§ãƒ¼ãƒˆ <BR>ã€ç¨®åˆ¥ã€‘ è»¢ç”Ÿ<BR>ã€ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã€‘ </TD></TR></TABLE><BR><BR><BR>
 
-<TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/kayo_chan/kayo_chan101.html">‰Ø‘ã‚¿‚á‚ñƒVƒŠ[ƒYu’Ê‚è–‚v</a></B></TD><TD><B><A href="mailto:sa_to_si_1108@‚±‚±‚ðÁ‚µ‚Äyahoo.co.jp">–²’Ç‚¢l</a></B> ‚³‚ñ </TD><TD>(ƒCƒ‰ƒXƒg‚È‚µ)</TD><TD>2005/9/19(ŒŽ)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan">Š´‘z</a></TD></TR><TR><TD COLSPAN=6><B>y‚ ‚ç‚·‚¶z </B>Z‘îŠX‚Å‹N‚±‚Á‚½”ßŒ€EEEH<BR><B>yƒRƒƒ“ƒgz </B>‘æ“ñ‚a‚a‚r‚Å”­•\‚µ‚½ì•i‚ÌÄ‚«’¼‚µ‚Å‚·B‚»‚µ‚ÄAŽ„‚Ìˆ—ì‚Å‚à‚ ‚è‚Ü‚·BˆÓŒ©AŠ´‘z‚È‚Ç‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·B<BR><B>y–²’Ç‚¢l ‚³‚ñ‚ÌƒIƒXƒXƒì•iz</B> <A HREF="./novel/kisai_1.html">ƒtƒ@ƒXƒi[‚ðŠJ‚¯‚Ä</A> <FONT SIZE="-1">(‹PŽN³—¬‚³‚ñì)</FONT></TD></TR><TR><TD COLSPAN=6><B>y„‘E•¶z </B>‚¨‹à‚Æ‚©g‘Ì‚Æ‚©‚Ì–Ú“I‚ª‚È‚¢’Ê‚è–‚‚Á‚Ä•|‚¢‚Å‚·‚ËiŒŒ‚ðŒ©‚¹‚ë``IjB<BR>
-<a href="./novel/kayo_chan/index.html"><strong>y‰Ø‘ã‚¿‚á‚ñƒVƒŠ[ƒYƒ^ƒCƒgƒ‹‚Í‚±‚¿‚çz</strong></a><BR>
-</TD></TR><TR><TD COLSPAN=6>yƒWƒƒƒ“ƒ‹z Œ»‘ã  •sð— <BR>yŽí•Êz •Ïg<BR>yƒL[ƒ[ƒhz ƒ_[ƒN(•—–¡) ‰Ø‘ã‚¿‚á‚ñ</TD></TR></TABLE><BR><BR><BR>
+<TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/kayo_chan/kayo_chan101.html">è¯ä»£ã¡ã‚ƒã‚“ã‚·ãƒªãƒ¼ã‚ºã€Œé€šã‚Šé­”ã€</a></B></TD><TD><B><A href="mailto:sa_to_si_1108@ã“ã“ã‚’æ¶ˆã—ã¦yahoo.co.jp">å¤¢è¿½ã„äºº</a></B> ã•ã‚“ </TD><TD>(ã‚¤ãƒ©ã‚¹ãƒˆãªã—)</TD><TD>2005/9/19(æœˆ)</TD><TD>4KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan">æ„Ÿæƒ³</a></TD></TR><TR><TD COLSPAN=6><B>ã€ã‚ã‚‰ã™ã˜ã€‘ </B>ä½å®…è¡—ã§èµ·ã“ã£ãŸæ‚²åŠ‡ãƒ»ãƒ»ãƒ»ï¼Ÿ<BR><B>ã€ã‚³ãƒ¡ãƒ³ãƒˆã€‘ </B>ç¬¬äºŒï¼¢ï¼¢ï¼³ã§ç™ºè¡¨ã—ãŸä½œå“ã®ç„¼ãç›´ã—ã§ã™ã€‚ãã—ã¦ã€ç§ã®å‡¦å¥³ä½œã§ã‚‚ã‚ã‚Šã¾ã™ã€‚æ„è¦‹ã€æ„Ÿæƒ³ãªã©ã‚ˆã‚ã—ããŠé¡˜ã„ã—ã¾ã™ã€‚<BR><B>ã€å¤¢è¿½ã„äºº ã•ã‚“ã®ã‚ªã‚¹ã‚¹ãƒ¡ä½œå“ã€‘</B> <A HREF="novel/kisai_1.html">ãƒ•ã‚¡ã‚¹ãƒŠãƒ¼ã‚’é–‹ã‘ã¦</A> <FONT SIZE="-1">(è¼æ™’æ­£æµã•ã‚“ä½œ)</FONT></TD></TR><TR><TD COLSPAN=6><B>ã€æŽ¨è–¦æ–‡ã€‘ </B>ãŠé‡‘ã¨ã‹èº«ä½“ã¨ã‹ã®ç›®çš„ãŒãªã„é€šã‚Šé­”ã£ã¦æ€–ã„ã§ã™ã­ï¼ˆè¡€ã‚’è¦‹ã›ã‚ã€œã€œï¼ï¼‰ã€‚<BR>
+<a href="novel/kayo_chan/index.html"><strong>ã€è¯ä»£ã¡ã‚ƒã‚“ã‚·ãƒªãƒ¼ã‚ºã‚¿ã‚¤ãƒˆãƒ«ã¯ã“ã¡ã‚‰ã€‘</strong></a><BR>
+</TD></TR><TR><TD COLSPAN=6>ã€ã‚¸ãƒ£ãƒ³ãƒ«ã€‘ ç¾ä»£  ä¸æ¡ç† <BR>ã€ç¨®åˆ¥ã€‘ å¤‰èº«<BR>ã€ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã€‘ ãƒ€ãƒ¼ã‚¯(é¢¨å‘³) è¯ä»£ã¡ã‚ƒã‚“</TD></TR></TABLE><BR><BR><BR>
 
-<FONT size=-1><A href="http://ts.novels.jp/library.html">–ß‚é</A></FONT>
+<FONT size=-1><A href="../library.html">æˆ»ã‚‹</A></FONT>
 
-<!-- ­”N­—•¶ŒÉ—pŠÇ—CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST ì:kou -->
+<!-- å°‘å¹´å°‘å¥³æ–‡åº«ç”¨ç®¡ç†CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST ä½œ:kou -->
 <!-- Login User : Guest(54.146.98.143) , Competence : -1 -->
 </BODY></HTML>
 

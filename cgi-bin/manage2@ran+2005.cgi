@@ -1,17 +1,17 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <HTML><HEAD>
-<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=Shift_JIS">
-<BASE HREF="http://ts.novels.jp/">
-<TITLE>���@�����_���T�[�`�@�� -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">
+<BASE HREF="../index.html">
+<TITLE>■　ランダムサーチ　■ -- http://ts.novels.jp/cgi-bin/manage2.cgi</TITLE>
 </HEAD>
 <BODY  BGCOLOR="#EEEEEE">
-<FONT size=-1><A href="http://ts.novels.jp/library.html">�߂�</A></FONT>
-<DIV ALIGN=center><H2>���@�����_���T�[�`�@��</H2></DIV>����̃����_�������͂��ꂪ�I�΂�܂����B�@(<A HREF="http://ts.novels.jp/cgi-bin/manage2.cgi?ran">�I�ђ���</A>)
- <BR><BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/200204/29010217/tenseiki.html">�]���P</a></B></TD><TD><B>�{���@�ޒËI</B> ���� </TD><TD>(�C���X�g�Ȃ�)</TD><TD>2002/4/29(��)</TD><TD>29KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=sudoh_natsuki">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>���������A�ޖ��m�̐e�q���s�𑛂������������w�ڗ��P�x��|���ׂ��A�p�ЂɌ����������̗͂͂����܂����A���͎E����A���q�̐��̂͐��ʂ����ɂ���A�s�V�s���̎􂢂��������Ă��܂����B�����Đ�N��A���̂Ɨڗ��P�͍ĉ��c<BR><B>�y�R�����g�z </B>���́w�ڂ����̊ʋl�H��x�Ƃ����Ƃ���̃{�C�X�h���}�p�i�����ƈ���Ă���������ł��c�j�ɏ������낵����i���������i�㔼�̓h���}�Ɣ����ɈႢ�܂��j���܂����B�������������S�S�J�̂s�r�e�ł��B<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B>���̂���ɂƂ��āA���̃G���f�B���O�̓n�b�s�[�G���h�Ȃ́H</TD></TR><TR><TD COLSPAN=6>�y�W�������z �`�� ���� <BR>�y��ʁz �_�� �ϐg<BR>�y�L�[���[�h�z </TD></TR></TABLE><BR><BR>�w�{���@�ޒËI�x����̂��̑��̒���<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="./novel/200204/29010217/tenseiki.html">�]���P</a></B></TD><TD><B>�{���@�ޒËI</B> ���� </TD><TD>(�C���X�g�Ȃ�)</TD><TD>2002/4/29(��)</TD><TD>29KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=sudoh_natsuki">���z</a></TD></TR><TR><TD COLSPAN=6><B>�y���炷���z </B>���������A�ޖ��m�̐e�q���s�𑛂������������w�ڗ��P�x��|���ׂ��A�p�ЂɌ����������̗͂͂����܂����A���͎E����A���q�̐��̂͐��ʂ����ɂ���A�s�V�s���̎􂢂��������Ă��܂����B�����Đ�N��A���̂Ɨڗ��P�͍ĉ��c<BR><B>�y�R�����g�z </B>���́w�ڂ����̊ʋl�H��x�Ƃ����Ƃ���̃{�C�X�h���}�p�i�����ƈ���Ă���������ł��c�j�ɏ������낵����i���������i�㔼�̓h���}�Ɣ����ɈႢ�܂��j���܂����B�������������S�S�J�̂s�r�e�ł��B<BR></TD></TR><TR><TD COLSPAN=6><B>�y���E���z </B>���̂���ɂƂ��āA���̃G���f�B���O�̓n�b�s�[�G���h�Ȃ́H</TD></TR><TR><TD COLSPAN=6>�y�W�������z �`�� ���� <BR>�y��ʁz �_�� �ϐg<BR>�y�L�[���[�h�z </TD></TR></TABLE><BR><BR><BR>
+<FONT size=-1><A href="../library.html">戻る</A></FONT>
+<DIV ALIGN=center><H2>■　ランダムサーチ　■</H2></DIV>今回のランダム検索はこれが選ばれました。　(<A HREF="manage2@ran.cgi">選び直す</A>)
+ <BR><BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/200204/29010217/tenseiki.html">転生姫</a></B></TD><TD><B>須堂　奈津紀</B> さん </TD><TD>(イラストなし)</TD><TD>2002/4/29(月)</TD><TD>29KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=sudoh_natsuki">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>平安末期、退魔士の親子が都を騒がす美しき魔『瑠璃姫』を倒すべく、廃墟に向かうがその力はすさまじく、父は殺され、息子の星歌は性別を女にされ、不老不死の呪いをかけられてしまった。そして千年後、星歌と瑠璃姫は再会する…<BR><B>【コメント】 </B>元は『ぼいすの缶詰工場』というところのボイスドラマ用（小説と違ってえっちありです…）に書き下ろした作品を小説化（後半はドラマと微妙に違います）しました。女性が書く女心全開のＴＳＦです。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B>星歌くんにとって、このエンディングはハッピーエンドなの？</TD></TR><TR><TD COLSPAN=6>【ジャンル】 伝奇 恋愛 <BR>【種別】 神秘 変身<BR>【キーワード】 </TD></TR></TABLE><BR><BR>『須堂　奈津紀』さんのその他の著作<BR><BR><TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="novel/200204/29010217/tenseiki.html">転生姫</a></B></TD><TD><B>須堂　奈津紀</B> さん </TD><TD>(イラストなし)</TD><TD>2002/4/29(月)</TD><TD>29KB</TD><TD BGCOLOR="#E0D0C0"><A href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=sudoh_natsuki">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>平安末期、退魔士の親子が都を騒がす美しき魔『瑠璃姫』を倒すべく、廃墟に向かうがその力はすさまじく、父は殺され、息子の星歌は性別を女にされ、不老不死の呪いをかけられてしまった。そして千年後、星歌と瑠璃姫は再会する…<BR><B>【コメント】 </B>元は『ぼいすの缶詰工場』というところのボイスドラマ用（小説と違ってえっちありです…）に書き下ろした作品を小説化（後半はドラマと微妙に違います）しました。女性が書く女心全開のＴＳＦです。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B>星歌くんにとって、このエンディングはハッピーエンドなの？</TD></TR><TR><TD COLSPAN=6>【ジャンル】 伝奇 恋愛 <BR>【種別】 神秘 変身<BR>【キーワード】 </TD></TR></TABLE><BR><BR><BR>
 
-<FONT size=-1><A href="http://ts.novels.jp/library.html">�߂�</A></FONT>
+<FONT size=-1><A href="../library.html">戻る</A></FONT>
 
-<!-- ���N�������ɗp�Ǘ�CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST ��:kou -->
+<!-- 少年少女文庫用管理CGI manage2.cgi v2.4.3 2005/04/22 22:09:00 JST 作:kou -->
 <!-- Login User : Guest(54.235.55.253) , Competence : -1 -->
 </BODY></HTML>
 
