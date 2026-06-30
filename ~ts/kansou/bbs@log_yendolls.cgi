@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�����������i�@���z�f����</title>
+<title>¥＝＄さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����������i�@���z�f����</font>
+<font size=5>¥＝＄さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yendolls">
 <input type=hidden name="nj" value="HUQUqFIaZ8">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 3OOH1c  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="3OOH1c"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 3OOH1c  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="3OOH1c"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,78 +44,78 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> ����͂ǂ�ȓW�J���I�H</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> 次回はどんな展開か！？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/29 (�y) 10:32:44 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607296103244&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607296103244"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/29 (土) 10:32:44 <strong>▽</strong> ちょ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607296103244_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200607296103244"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ǂ܂����Ă��������܂����B<br>
-��s���`�ł��ˁA�������������C�ɂȂ�܂��B</font>
+<font size=3 color=#606060>小説読まさせていただきました。<br>
+大ピンチですね、続きが激しく気になります。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �����ȥ��</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> 凄いな・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/13 (��) 18:10:34 <strong>��</strong> a </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602131181034&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602131181034"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/13 (月) 18:10:34 <strong>▽</strong> a </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602131181034_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200602131181034"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������ł����B���������͂������Ă݂����ł��ˁB�l�����ɂȂ肽��������ł��B�܂������܂͌��ł����ǁB�����A�C���X�g���Ȃ��̂��c�O�ł��ˁB<br>
-���ҁA�҂��Ă܂��I</font>
+<font size=3 color=#606060>凄い小説でした。ああいう力を持ってみたいですね。僕も女になりたかったんです。まぁおかまは嫌ですけど。ただ、イラストがないのが残念ですね。<br>
+続編、待ってます！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> �w�g�����X���m�ꂷ�����@��ܘb�x��ǂނɂ͂������N���b�N </font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> 『トランスくノ一すいか　第五話』を読むにはここをクリック </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/01/25 (��) 00:07:23 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200601253000723&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200601253000723"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/01/25 (水) 00:07:23 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200601253000723_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200601253000723"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �Ȃ�ƁA�r�b�N���I�H���ɗd�����o�ꂵ�Ă����Ƃ́A���ɂ��v���܂���ł����B</font>
-<p><a href="http://ts.novels.jp/novel/200507/26214655/suika05.html " target="_top">http://ts.novels.jp/novel/200507/26214655/suika05.html </a>
+<font size=3 color=#606060>【推薦文】 なんと、ビックリ！？既に妖怪が登場していたとは、夢にも思いませんでした。</font>
+<p><a href="../../novel/200507/26214655/suika05.html" target="_top">http://ts.novels.jp/novel/200507/26214655/suika05.html </a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> ��������</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 事件発生</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/15 (�y) 13:07:28 <strong>��</strong> �܂Ȃ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510156130728&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510156130728"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/15 (土) 13:07:28 <strong>▽</strong> まなちゃん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510156130728_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200510156130728"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�\�z�ʂ�Ɏ����������܂����ˁB<br>
-�q�̖\�͂��݂��ƂɁH�͂˂������������������B<br>
-�����������̋����͎��ɂ���Ă͋���ɂȂ邩��(��)<br>
-�����������A�s��������Ƃ��ɂ͏\���ɒ��ӂ��܂��傤�B</font>
+<font size=3 color=#606060>予想通りに事件発生しましたね。<br>
+客の暴力をみごとに？はねかえしたすいかちゃん。<br>
+すいかちゃんの巨乳は時によっては凶器になるかも(汗)<br>
+すいかちゃん、行動をするときには十分に注意しましょう。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> ���z</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> 感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/13 (��) 23:21:15 <strong>��</strong> �L�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510134232115&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510134232115"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/13 (木) 23:21:15 <strong>▽</strong> 猫野 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510134232115_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200510134232115"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����΂�́B��C�Ɏl�b�ǂ݂܂����B<br>
-�ړI�̂��鏬���͂������̂ł��A���������ꂪ�����Ƃ����ẮB<br>
-�싅�͂ǂ��Ȃ�ł��傤�ˁA�j���[�X���Ă���Ɣ����̘b�ɂȂ�������Ă܂��ˁB</font>
+<font size=3 color=#606060>こんばんは。一気に四話読みました。<br>
+目的のある小説はいいものです、しかもそれが巨乳とあっては。<br>
+野球はどうなんでしょうね、ニュース見ても企業買収の話になっちゃってますね。</font>
 </td></table>
 </td></tr></table>
 
@@ -125,88 +125,88 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[23]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/12 (��) 23:24:20 <strong>��</strong> �Ձ[ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510123232420&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510123232420"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/12 (水) 23:24:20 <strong>▽</strong> ぷー </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510123232420_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200510123232420"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�����V�[�Y���͓��n�����D�����Ȃ����茩�܂���</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞来シーズンは日ハムが優勝しない限り見ません</font><br>
 <br>
-�v������ł����ǁA���Ƃ����n�����������Ƃ��Ă�<br>
-���̍��ɂ̓V�[�Y���㔼�̂悤�ȁE�E�E</font>
+思ったんですけど、たとえ日ハムが勝ったとしても<br>
+その頃にはシーズン後半のような・・・</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> 2�N�A���͊m��Ƃ���</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> 2年連続は確定として</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/11 (��) 03:10:50 <strong>��</strong> kardy@���M�k </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510112031050&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510112031050"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/11 (火) 03:10:50 <strong>▽</strong> kardy@鴎信徒 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510112031050_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200510112031050"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�����V�[�Y���͓��n�����D�����Ȃ����茩�܂���</font><br>
-���N�͑�ł��傤�B�����B<br>
-���̐�͂łR�N�A���u��Ȃ�āA�t�@�����������܂���B</font>
+<font size=3 color=#606060><font color="#ff88cc">＞来シーズンは日ハムが優勝しない限り見ません</font><br>
+来年は鷹でしょう。多分。<br>
+あの戦力で３年連続Ｖ逸なんて、ファンが発狂しますよ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> �w�g�����X���m�ꂷ�����@��l�b�x��ǂނɂ͂������N���b�N</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> 『トランスくノ一すいか　第四話』を読むにはここをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/10 (��) 22:40:28 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510101224028&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510101224028"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/10 (月) 22:40:28 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510101224028_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200510101224028"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �����ăJ���C�C�����������́A�X�C�[�g�J�A���̐l�C�ҁB�Ƃ���ŁA�d���́c�c�H</font>
-<p><a href="http://ts.novels.jp/novel/200507/26214655/suika04.html" target="_top">http://ts.novels.jp/novel/200507/26214655/suika04.html</a>
+<font size=3 color=#606060>【推薦文】 強くてカワイイすいかちゃんは、スイートカアムの人気者。ところで、妖怪は……？</font>
+<p><a href="../../novel/200507/26214655/suika04.html" target="_top">http://ts.novels.jp/novel/200507/26214655/suika04.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> �X�p�V�[�o</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> スパシーバ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/04 (��) 19:24:03 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509040192403&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509040192403"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/04 (日) 19:24:03 <strong>▽</strong> ¥＝＄ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509040192403_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200509040192403"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�݂Ȃ���A�I�C���̐ق����͂Ɍ䊴�z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>みなさん、オイラの拙い文章に御感想ありがとうございます。<br>
 <br>
-�t���{�C����A�����i���������Ձj�́A���̂܂܂h�J�b�v�Ɏv������ŁA�����g�������Ďv���Ă܂����B�������Ė��O����������A�z���ĕt�������̂ŁA�d�Ԓj�Ƃ͊֌W�Ȃ��ł��B<br>
+》日本海さん、愛冠（あいかっぷ）は、そのままＩカップに思えたんで、いつか使おうって思ってました。得女って名前も愛冠から連想して付けたもので、電車男とは関係ないです。<br>
 <br>
-�t�܂Ȃ���񂳂�A�ςȂ��Ƃ͂����ς����܂��A���̖��́B<br>
+》まなちゃんさん、変なことはいっぱいやります、この娘は。<br>
 <br>
-�t�悵��������A�g�����X�����͏��炵�����邩�A����Ƃ��j���ۂ����邩�ŖG�̗v�f���Ⴄ��ŁA�����Y��ł����ł��B<br>
+》よしおかさん、トランスっ娘は女らしくするか、それとも男っぽくするかで萌の要素が違うんで、正直悩んでいるんです。<br>
 <br>
-���ꂩ������i����̂ŁA�F�l��낵�����肢���܂��B</font>
+これからも精進するので、皆様よろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> ����A����H</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> あれ、あれ？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/02 (��) 11:47:55 <strong>��</strong> �悵���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509025114755&log=yendolls">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509025114755"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/02 (金) 11:47:55 <strong>▽</strong> よしおか </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509025114755_log_yendolls.cgi">返信</a>　削除<input type=checkbox name="target" value="200509025114755"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�����������v�B����`�����l�[�~���O�ł��ˁB�u���͑̂�\���v���̂��̂ł��ˁB<br>
-�ށA����A�ޏ����ȃG�����X����ɑ΍R�ӎ���R�₵�Ă��܂����E�E�E������āA���̐킢�ł́H�ށA����ޏ��H�B���`��A�ǂ����Ƃ����΂����񂾂낤�H�{�l���C�Â��Ȃ������ɏ��������i��ł���悤�ȋC�����܂��B���ꂩ��ǂ�ȃg���u�����N����̂��Ȃ��B���̂���</font>
+<font size=3 color=#606060>「すいかちゃん」。いや〜いいネーミングですね。「名は体を表す」そのものですね。<br>
+彼、いや、彼女かなエルメスさんに対抗意識を燃やしていますが・・・それって、女の戦いでは？彼、いや彼女？。あ〜ん、どっちといえばいいんだろう？本人が気づかないうちに女性化が進んでいるような気がします。これからどんなトラブルが起こるのかなぁ。たのしみ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yendolls">
@@ -214,16 +214,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yendolls">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yendolls">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yendolls.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

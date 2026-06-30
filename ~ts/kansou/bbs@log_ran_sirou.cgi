@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���@���Y�����i�@���z�f����</title>
+<title>蘭　死郎さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���@���Y�����i�@���z�f����</font>
+<font size=5>蘭　死郎さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="ran_sirou">
 <input type=hidden name="nj" value="AStHOeapLc">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h M8E90N  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="M8E90N"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード M8E90N  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="M8E90N"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,27 +44,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[51]</font> <font size=4 color=#40c0c0> ����係̉Ԍ��t�́w�Ђ����Ȉ��x�w�����₩�ȍK���x</font>
+<font size=2>[51]</font> <font size=4 color=#40c0c0> 紫の菫の花言葉は『ひそかな愛』『ささやかな幸せ』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/05 (��) 01:13:02 <strong>��</strong> <a href="mailto:shirou@pc.highway.ne.jp">���Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200208051011302&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208051011302"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/05 (月) 01:13:02 <strong>▽</strong> <a href="mailto:shirou@pc.highway.ne.jp">死郎</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200208051011302_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200208051011302"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���߂܂��Ċ��z���ӂł��B<br>
+<font size=3 color=#606060>　改めまして感想感謝です。<br>
 <br>
-<font color="#cc88ff">&gt; �@�����̓_�Ŗl�I�ɂ͂�����ƕs���S�R�Ă̓ǌ㊴�������܂����B</font><br>
+<font color="#cc88ff">&gt; 　それらの点で僕的にはちょっと不完全燃焼の読後感を感じました。</font><br>
 <br>
-�@�s�n�l����̂��ᔻ�̓_�A��ʂ肩���m��܂���B<br>
-�@係ƍʍ��ɂ��ẮA���������S���`�ʂ�������係ɂ��S��f�I��������ׂ���������<br>
-���傤���B<br>
-�@����^�b��ɂ��Ă������ł��ˁB������ɂ��Ă̓G���e�B�b�N�ȕ`�ʂ�}���悤�Ƃ���<br>
-�����ŁA��l�̊֌W�ɂ��ẴV�[�������[�܂��Ă��܂����̂����������B���̕��̍�i��<br>
-����ƁA�����ƃX�g���[�g�ȕ\�����������肷��̂ŁA�������傢�����Ă��ǂ������ł��傤<br>
-���ˁB<br>
+　ＴＯＭさんのご批判の点、仰る通りかも知れません。<br>
+　菫と彩香については、もう少し心理描写もしくは菫による心情吐露を加えるべきだったで<br>
+しょうか。<br>
+　里穂／恵一についてもそうですね。こちらについてはエロティックな描写を抑えようとした<br>
+せいで、二人の関係についてのシーンをやや端折ってしまったのが原因かも。他の方の作品を<br>
+見ると、もっとストレートな表現もあったりするので、もうちょい書いても良かったでしょう<br>
+かね。<br>
 <br>
-�@������ɂ���A��C�Ƀ��X�g�܂Ŏ����Ă������Ƃ��ċ}���߂����悤�ȋC�����܂��B<br>
-�@�F����̂��ӌ������܂��āA���̘b�͂��������C�g���邩���\�\���Ԃ��̃R�g�ł����B</font>
+　いずれにせよ、一気にラストまで持っていこうとして急ぎ過ぎたような気がします。<br>
+　皆さんのご意見も踏まえて、この話はいつかリライトするかも——たぶん先のコトですが。</font>
 <p><a href="http://home3.highway.ne.jp/~shirou/" target="_top">http://home3.highway.ne.jp/~shirou/</a>
 </td></table>
 </td></tr></table>
@@ -72,69 +72,69 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[50]</font> <font size=4 color=#40c0c0> �M�����ēǂ񂶂Ⴂ�܂����I</font>
+<font size=2>[50]</font> <font size=4 color=#40c0c0> 熱中して読んじゃいました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/03 (�y) 01:28:27 <strong>��</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200208036012827&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208036012827"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/03 (土) 01:28:27 <strong>▽</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200208036012827_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200208036012827"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�u���P�v�̕\��̓��m�肽���āA�Z�������Y��ēǂ񂶂Ⴂ�܂����B<br>
-�ǂ�ł��ǂ�łࢉ��́H�v���[�܂�΂���ŁA�ǂ�ǂ��i���E�Ɉ������܂��<br>
-���܂��܂����B<br>
+<font size=3 color=#606060>　「沈姫」の表題の謎を知りたくて、忙しさも忘れて読んじゃいました。<br>
+読んでも読んでも「何故？」が深まるばかりで、どんどん作品世界に引き込まれて<br>
+しまいました。<br>
 <br>
-�@�����c<br>
-�@�Ō��係��ʍ��ɕ�������A�����ɖ��Ƃ��Ďv������Ă����Ƃ����S���s����<br>
-�`�ʂł��Ă���΁A���̃G���f�B���O�͂���Ӗ��n�b�s�[�G���h�ɂ���ꂽ�̂ł�<br>
-�Ȃ��ł��傤���B<br>
-�@���ƁA���o����͒j�������Ă�����e�\�����������ɂ����A�A<br>
-�Ō��係���������Ă����u���o��係ւ̈���v���ǎ҂ɓ`���ɂ��������̂ł�<br>
-�Ȃ��ł��傤���B<br>
-�@�����̓_�Ŗl�I�ɂ͂�����ƕs���S�R�Ă̓ǌ㊴�������܂����B<br>
+　ただ…<br>
+　最後に菫が彩香に母を感じ、同時に娘として思いやっていたという心情や行動を<br>
+描写できていれば、このエンディングはある意味ハッピーエンドにも取れたのでは<br>
+ないでしょうか。<br>
+　あと、元姉からは男性化してからも粗暴さしか感じにくく、、<br>
+最後に菫が感じ取っていた「元姉の菫への愛情」が読者に伝わりにくかったのでは<br>
+ないでしょうか。<br>
+　それらの点で僕的にはちょっと不完全燃焼の読後感を感じました。<br>
 <br>
-�@����͂Ƃɂ����A�ǂݏI����܂ł�3���ԁi�ނ��Ⴍ����Z���������̂ŁA��C�ɂ�<br>
-�ǂ߂Ȃ������̂ł��j�A�l���Ƃ肱�ɂ��Ă��������Ċ��ӂ��܂��B<br>
-�@�{���ɖʔ��������ł��B<br>
-���낢�낲���Ⴒ����Ƃ��݂܂���B</font>
+　それはとにかく、読み終えるまでの3日間（むちゃくちゃ忙しかったので、一気には<br>
+読めなかったのです）、僕をとりこにしてくださって感謝します。<br>
+　本当に面白かったです。<br>
+いろいろごちゃごちゃとすみません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[49]</font> <font size=4 color=#40c0c0> ���Ԏ��x��܂���</font>
+<font size=2>[49]</font> <font size=4 color=#40c0c0> お返事遅れました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/29 (��) 04:18:34 <strong>��</strong> <a href="mailto:shirou@pc.highway.ne.jp">���Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207291041834&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207291041834"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/29 (月) 04:18:34 <strong>▽</strong> <a href="mailto:shirou@pc.highway.ne.jp">死郎</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207291041834_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200207291041834"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���ɂ̃g�b�v�y�[�W�Ɉꎞ�I�ɃA�N�Z�X�ł��Ȃ��������̂ŁA������ƒx��Ă��܂��܂�<br>
-���B�����A���z�������������F����̍�i�͈ꉞ�`�F�b�N���Ă���Ǝv���Ă܂����̂ŁB<br>
+<font size=3 color=#606060>　文庫のトップページに一時的にアクセスできなかったもので、ちょっと遅れてしまいまし<br>
+た。いえ、感想をくださった皆さんの作品は一応チェックしてからと思ってますもので。<br>
 <br>
-<font color="#cc88ff">&gt; �͂��`�A�Ǝv�킸�������o���Ⴄ�قǂ�������i�ł��ˁB</font><br>
+<font color="#cc88ff">&gt; はぁ〜、と思わず溜息が出ちゃうほどすごい作品ですね。</font><br>
 <br>
-�@����قǂł��c�c�Ƃ����̂͌����ł͂Ȃ��A�{���ɂ܂��܂����Ǝv���Ă���܂��B�F����<br>
-�ɂ��w�E�����������ʂ�A���_�͑��X����܂����B���i���܂��B<br>
-�@����Ɍ��c����䎩�g���������m����Ă܂��ˁB���������̂͂�����ƁA�l�ɂ͏�����<br>
-���Ǝv���܂��B�������`�����C���X�g�������x�������B���h�����Ⴂ�܂��B<br>
-�@�\�\�Ƃ����悤�Ȃ̂͌��c����̌f���ɏ����ׂ����������ȁB�܂��A�����͐����Ƃ���<br>
-���Ƃł��e�͂��B<br>
+　それほどでも……というのは謙遜ではなく、本当にまだまだだと思っております。皆さん<br>
+にご指摘いただいた通り、問題点は多々ありますし。精進します。<br>
+　それに原田さん御自身も大作をモノされてますね。ああいうのはちょっと、僕には書けな<br>
+いと思います。しかも描かれるイラストも完成度が高い。尊敬しちゃいます。<br>
+　——というようなのは原田さんの掲示板に書くべきだったかな。まあ、そこは勢いという<br>
+ことでご容赦を。<br>
 <br>
-�@�C���X�g�̘b���o�����łɁA���́w���P�x�̃��B�W���A���Ƃ��ẮA�Ȃ�ƂȂ����ʉ�<br>
-���ۂ��C���[�W�őz�����Ă܂����B���邢�͎R�c�͔��攌���̕`����Ă����悤�Ȗn�G����<br>
-�G�Ƃ��B���܂�l���̊��`�����ɕ��i��݂����Ȋ����ŁB<br>
-�@�܂��A����͂ǂ��ł��ǂ���ł����B<br>
+　イラストの話が出たついでに、この『沈姫』のヴィジュアルとしては、なんとなく水彩画<br>
+っぽいイメージで想像してました。あるいは山田章博画伯が昔描かれていたような墨絵風の<br>
+絵とか。あまり人物の顔を描かずに風景画みたいな感じで。<br>
+　まあ、それはどうでも良いんですが。<br>
 <br>
-<font color="#cc88ff">&gt; �኱�璷�ȂƂ���������͂Ȃ��C�����܂���</font><br>
+<font color="#cc88ff">&gt; 若干冗長なところも無くはない気がしますが</font><br>
 <br>
-�@�O��A����ɂ��ď������Ⴂ���Ă����ȁB�ǂݕԂ��Ă݂ĕ��ӂ��Ĕc�����܂����B<br>
-�@�v����ɁA�[�ǂ݂Ƃ�������ǂ݂ł���ǎ҂ɂƂ��ẮA���Ȃ茩���������W�J��������<br>
-�������Ƃł��傤���B<br>
-�@���ᔻ�A�Â񂶂Ă��󂯂��܂��B�Ȃɂ���~�X�e���[�͏��߂ď��������̂ŁA���̕ӂ̉�<br>
-���͎�T��ł����B���ꂪ������ɂ͂Ȃ�Ȃ����Ƃ����m���Ă���܂����B<br>
+　前回、これについて少し勘違いしてたかな。読み返してみて文意を再把握しました。<br>
+　要するに、深読みというか先読みできる読者にとっては、かなり見え透いた展開だったと<br>
+いうことでしょうか。<br>
+　ご批判、甘んじてお受けします。なにしろミステリーは初めて書いたもので、その辺の加<br>
+減は手探りでした。それが言い訳にはならないことも承知しておりますが。<br>
 <br>
-�@�Ƃ������ƂŁA������͍����c�c�B</font>
+　ということで、次回作を模索中……。</font>
 <p><a href="http://home3.highway.ne.jp/~shirou/" target="_top">http://home3.highway.ne.jp/~shirou/</a>
 </td></table>
 </td></tr></table>
@@ -142,15 +142,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[48]</font> <font size=4 color=#40c0c0> �w���P�x�̊��z</font>
+<font size=2>[48]</font> <font size=4 color=#40c0c0> 『沈姫』の感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/27 (�y) 18:13:52 <strong>��</strong> ���c���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207276181352&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207276181352"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/27 (土) 18:13:52 <strong>▽</strong> 原田聖也 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207276181352_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200207276181352"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������C�ɂȂ�W�J�ƍI�݂ȕ��͂ŁA��C�ɓǂ܂��Ă��������܂����B<br>
-�͂��`�A�Ǝv�킸�������o���Ⴄ�قǂ�������i�ł��ˁB</font>
+<font size=3 color=#606060>続きが気になる展開と巧みな文章で、一気に読ませていただきました。<br>
+はぁ〜、と思わず溜息が出ちゃうほどすごい作品ですね。</font>
 <p><a href="http://www4.plala.or.jp/parallel/index.html" target="_top">http://www4.plala.or.jp/parallel/index.html</a>
 </td></table>
 </td></tr></table>
@@ -158,71 +158,71 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[47]</font> <font size=4 color=#40c0c0> ����ɂ��Ԏ��Ȃ�</font>
+<font size=2>[47]</font> <font size=4 color=#40c0c0> さらにお返事など</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/22 (��) 04:02:09 <strong>��</strong> <a href="mailto:shirou@pc.highway.ne.jp">���Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207221040209&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207221040209"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/22 (月) 04:02:09 <strong>▽</strong> <a href="mailto:shirou@pc.highway.ne.jp">死郎</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207221040209_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200207221040209"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�܂��A���́w���P�x�͌l�T�C�g�̂ق��ɂ��A�b�v���[�h���܂����B�Ƃ��񍐂���B<br>
+<font size=3 color=#606060>　まず、この『沈姫』は個人サイトのほうにもアップロードしました。とご報告から。<br>
 <br>
-<font color="#cc88ff">&gt; ��i�̑��݂��A�Ō�A�ǂ����Ă������C�����܂��B</font><br>
-�@�i�����j<br>
-<font color="#cc88ff">&gt; ����ł́A��i�Ƃ����L���������Ȃ��ł�����́A�i�񂾂Ǝv���܂��B</font><br>
+<font color="#cc88ff">&gt; 千景の存在が、最後、どうしても薄い気がします。</font><br>
+　（中略）<br>
+<font color="#cc88ff">&gt; これでは、千景というキャラを入れなくでも物語は、進んだと思います。</font><br>
 <br>
-�@�������Ƃ��B����A���������Γ����͂��̂悤�ȓW�J�ɂƂ͍l���Ă��Ȃ�������ł���B<br>
-��i�͂����܂ł����̗F�l�̂���ŏo������ł����A�L�����������Ă���ɏ]���āA�����<br>
-�����o���Ă���Ȃ��ƂɁc�c���͂́�<br>
-�@����Ȃ킯�ŁA�������Ɏ�v�o��l���̈�l���ƍl����Ɓi��O�͂̃T�u�^�C�g���ɂ��Ȃ�<br>
-�Ă܂����j�A��i�̈����͂�����Ƃ��񂴂������������m��܂���ˁB���肫�肳��̂��<br>
-�ɍ���Ȃ������_�͐\����Ȃ��B�ł��A����ȏ�I�o�����Ă��X�g�[���[���U���ɂȂ�悤��<br>
-�C�����܂��B���@�����������܂��B<br>
+　ごもっとも。いや、じつを言えば当初はあのような展開にとは考えていなかったんですよ。<br>
+千景はあくまでただの友人のつもりで出したんですが、キャラが立ってくるに従って、勝手に<br>
+動き出してあんなことに……たはは☆<br>
+　そんなわけで、たしかに主要登場人物の一人だと考えると（第三章のサブタイトルにもなっ<br>
+てますし）、千景の扱いはちょっとぞんざいだったかも知れませんね。きりきりさんのご趣味<br>
+に合わなかった点は申し訳ない。でも、これ以上露出させてもストーリーが散漫になるような<br>
+気もします。お察しくださいませ。<br>
 <br>
-<font color="#cc88ff">&gt; �����A�~��������Ȃ��̂��ˁ`�B���Ɍ������O���K���ł͂���̂ł��傤���ǁE�E�E�B</font><br>
+<font color="#cc88ff">&gt; ただ、救いが一個もないのがね〜。死に向かう薫が幸せではあるのでしょうけど・・・。</font><br>
 <br>
-<font color="#cc88ff">&gt; �ł�cheerkey����̍�i�ɉe������Ă�̂Ȃ�A<br>
-&gt; ���͐��]���҂ɋ~���������点�Ă����悤�ȍ�i�������Ă͒����Ȃ��ł��傤���H</font><br>
+<font color="#cc88ff">&gt; でもcheerkeyさんの作品に影響されてるのなら、<br>
+&gt; 次は性転換者に救いをもたらせてくれるような作品を書いては頂けないでしょうか？</font><br>
 <br>
-�@�����̓_�Ɋւ��Ă͗��R������܂��āB<br>
-�@�{���̂Ƃ���Acheerkey����̍�i��ǂ�ł��ď��X�s���Ɏv�����_���A���̃n�b�s�[�G<br>
-���h�w���Ȃ̂ł����B�������������炱���Ȃ邾�낤�A�ƍl�����̂�����̍�i�ŁA�����<br>
-�l�Ȃ�̃A���`�e�[�[�Ȃ̂ł��B<br>
-�@�ƌ����Ă��w�݂�ȍK���x�ŏI���b���D���ł���B�����A���ꂾ���ł͂Ȃɂ�������Ȃ�<br>
-�ƍl���Ă��܂�������B<br>
-�@����������΁A�����Ƌ~���̂���b���A�ƍl���Ă��܂��B�ƌ�������]���ăo�J�b�ɂȂ�<br>
-�����B�M���O���D���Ȃ̂ŁB<br>
+　これらの点に関しては理由がありまして。<br>
+　本当のところ、cheerkeyさんの作品を読んでいて少々不満に思った点が、そのハッピーエ<br>
+ンド指向なのでした。自分が書いたらこうなるだろう、と考えたのが今回の作品で、言わば<br>
+僕なりのアンチテーゼなのです。<br>
+　と言っても『みんな幸せ』で終わる話も好きですよ。ただ、それだけではなにか物足りない<br>
+と考えてしまった次第。<br>
+　次もしあれば、もっと救いのある話を、と考えています。と言うより一転してバカ話になる<br>
+かも。ギャグも好きなので。<br>
 <br>
-<font color="#cc88ff">&gt; �Ƃ�����D�������i�X�g���[�g�j</font><br>
+<font color="#cc88ff">&gt; ともあれ好きだよ♪（ストレート）</font><br>
 <br>
-�@�킠�B��������Ă��܂����i��j�B<br>
-�@�́A�m�C������Ēj���ł���ˁH�@�l�����I�w���̓X�g���[�g�ł��̂ŁA���͍l��������<br>
-���������Ƃ����c�c�i���j�B<br>
+　わあ。告白されてしまった（違）。<br>
+　の、ノインさんて男性ですよね？　僕も性的指向はストレートですので、今は考えさせて<br>
+くださいとしか……（大違）。<br>
 <br>
-<font color="#cc88ff">&gt; �ʍ�����̂����ւ������闝�R�ɂȂ�炩�̏d�ݕt��������Ă�ƁA��肢�������ǂ���i�ɂȂ����Ǝv���܂��B</font><br>
+<font color="#cc88ff">&gt; 彩香が首のすげ替えをする理由になんらかの重み付けがされてると、よりいっそう良い作品になったと思います。</font><br>
 <br>
-�@�����Ȃ�ł���B���ꂪ��ԋC�ɂȂ��Ă����Ƃ���ł��B<br>
-�@�͂�����Ə����Ă͂��Ȃ���ł����A�ޏ��̓��@�Ƃ��Ă͖S���Ȃ�����e�E���q�ւ̎v��<br>
-�������āA�w�����̎�ŕ���~���x���Ƃ��l���Ă����̂ł��傤�B������������񎀂񂾐l<br>
-�Ԃ�h�点�邱�Ƃ͂ł��Ȃ��̂ŁA���̑㏞�Ƃ���係Ƃ����l�Ԃ𑢂�グ���ƁB<br>
-�@���̓_�͍ʍ��̑����Ȃǂł���ƂȂ��Î����Ă��肷���ł����A�킩��ɂ����ł����ˁB<br>
-�@����������Ə�肭�\���ł�����ǂ�������ł����A���̂ւ񂪗͗ʂ̌��E�ł����B<br>
-�@����������l�̏����Ƃ������ƂŁA���܂��l�������������������A����Ă��܂��̂��s��<br>
-�R���Ȃ��ƁB�Ƃ����̂�������ł����ǂ��[�B<br>
+　そうなんですよ。それが一番気になっていたところです。<br>
+　はっきりと書いてはいないんですが、彼女の動機としては亡くなった母親・聖子への思慕<br>
+があって、『自分の手で母を救う』ことを考えていたのでしょう。しかしもちろん死んだ人<br>
+間を蘇らせることはできないので、その代償として菫という人間を造り上げたと。<br>
+　その点は彩香の蔵書などでそれとなく暗示してたりするんですが、わかりにくいですしね。<br>
+　もうちょっと上手く表現できたら良かったんですが、そのへんが力量の限界でした。<br>
+　そもそも一人称小説ということで、あまり主人公が何もかも理解し、語ってしまうのも不自<br>
+然かなあと。というのも言い訳ですけどもー。<br>
 <br>
-<font color="#cc88ff">&gt; �኱�璷�ȂƂ���������͂Ȃ��C�����܂���</font><br>
+<font color="#cc88ff">&gt; 若干冗長なところも無くはない気がしますが</font><br>
 <br>
-�@��A�܂��A�g���������痈���l�h����ւ̖����̔��_�͂������Ƃ��A�Ƃ��āB�璷�Ƃ�<br>
-�����Ƃɂ��Ă͖l�̍앗���������Ȃ��Ƃ��v���܂��B<br>
-�@�b�S�̂��V���A�X�ł��A���M���O�Ƃ��R�~�J���ȃV�[������ꂽ���Ȃ��Ă��܂���ł�<br>
-��B���̋t�������āA���̕ӂ̂��Ƃ����Ă�������̂��Ɛ������܂��B����ŏ璷�Ƃ�<br>
-�����U���Ɍ�����̂��ȁH<br>
-�@����[�A�C���h�f��݂����Ȃ̂��D��������Łi�΁j�B<br>
+　ん、まあ、“あっちから来た人”さんへの矢治さんの反論はごもっとも、として。冗長とい<br>
+うことについては僕の作風が原因かなあとも思います。<br>
+　話全体がシリアスでも、ついギャグとかコミカルなシーンを入れたくなってしまうんです<br>
+よ。その逆もあって、その辺のことを仰ってらっしゃるのかと推測します。それで冗長とい<br>
+うか散漫に見えるのかな？<br>
+　いやー、インド映画みたいなのが好きだもんで（笑）。<br>
 <br>
-�@�Ƃ�����F����̋M�d�Ȃ��ӌ��A����̎Q�l�ɂ����Ă��������܂��B<br>
+　ともあれ皆さんの貴重なご意見、今後の参考にさせていただきます。<br>
 <br>
-�@���B������B�O�i������j�ł͂Ȃ�俁i���݂�j�ł��̂ŔO�̂��߁B�\���t�H���g������<br>
-���Ɣ��ǂ��Â炢�Ƃ͎v���܂����A��ǂ�����낵����</font>
+　あ。もう一つ。薫（かおる）ではなく菫（すみれ）ですので念のため。表示フォントが小さ<br>
+いと判読しづらいとは思いますが、一つどうかよろしく☆</font>
 <p><a href="http://home3.highway.ne.jp/~shirou/" target="_top">http://home3.highway.ne.jp/~shirou/</a>
 </td></table>
 </td></tr></table>
@@ -230,31 +230,31 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[46]</font> <font size=4 color=#40c0c0> Re:�����ɒu���̂��������Ȃ��ł��ˁB</font>
+<font size=2>[46]</font> <font size=4 color=#40c0c0> Re:ここに置くのもったいないですね。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/22 (��) 02:13:10 <strong>��</strong> ��_�����T�C�g�Ǘ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207221021310&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207221021310"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/22 (月) 02:13:10 <strong>▽</strong> 矢治浩平＠サイト管理者 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207221021310_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200207221021310"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����Ȃ�Ɏ����𓊂��Ă������Ƃ���΁A�u���������Ȃ��v�Ƃ�������ƐS�����G�ł����A���Ȃ��̌����u�܂Ƃ��v�ȍ�i�͊F���ł͂Ȃ��Ǝv���Ă��܂��B<br>
-�f�ڂ���Ă����i��T�C�g���̃R�����g�ւ̔ᔻ�͕ʂɂ��܂�Ȃ��܂��񂪁A����ȑz���œǂݎ�̃��x�������肷��̂́A�ǂ����Ǝv���܂��B</font>
+<font size=3 color=#606060>それなりに私財を投じているもんとすれば、「もったいない」とか言われると心中複雑ですし、あなたの言う「まとも」な作品は皆無ではないと思っています。<br>
+掲載されている作品やサイト内のコメントへの批判は別にかまわないませんが、勝手な想像で読み手のレベルを限定するのは、どうかと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[45]</font> <font size=4 color=#40c0c0> �����ɒu���̂��������Ȃ��ł��ˁB</font>
+<font size=2>[45]</font> <font size=4 color=#40c0c0> ここに置くのもったいないですね。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 11:52:27 <strong>��</strong> ���������痈���l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210115227&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210115227"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 11:52:27 <strong>▽</strong> あっちから来た人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210115227_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210115227"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�͂����茾���Đ����ꐫ��Q���Ȃɂ��m������������Ȃ����͋C�̂����ł���Ȃ܂Ƃ��Șb��ǂ߂�Ƃ͎v�������܂���ł����B�W���������̈���R�����g���̂�����Ƃ܂Ƃ��ȏ����ɖƉu�̂Ȃ������Ȃ�ƂȂ��킩�����肵�āB<br>
-�@�኱�璷�ȂƂ���������͂Ȃ��C�����܂����A�����������\�̏���l����Ǝd�����Ȃ��̂��ȁH�Ƃ��v���܂��i�[�ǂ݂ł��Ȃ�����������ˁj�B<br>
-�@����삲���g�̃T�C�g�Ɍ����Ȃ��t�H���_�ł��@���āA���񐧖�̖����`�Ŕ��\����邱�Ƃ����҂��Ă��܂��B�ł͂ł́B<br>
+<font size=3 color=#606060>　はっきり言って性同一性障害もなにも知ったこっちゃない雰囲気のここでこんなまともな話を読めるとは思いもしませんでした。ジャンルだの一口コメントだのを見るとまともな小説に免疫のない事がなんとなくわかったりして。<br>
+　若干冗長なところも無くはない気がしますが、こういう発表の場を考えると仕方がないのかな？とも思います（深読みできなさそうだもんね）。<br>
+　次回作ご自身のサイトに見えないフォルダでも掘って、是非制約の無い形で発表されることを期待しています。ではでは。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -262,60 +262,60 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[44]</font> <font size=4 color=#40c0c0> �͂��߂܂��āA���@���Y����</font>
+<font size=2>[44]</font> <font size=4 color=#40c0c0> はじめまして、蘭　死郎さん</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 10:15:18 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210101518&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210101518"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 10:15:18 <strong>▽</strong> たつみ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210101518_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210101518"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ǔ�l���Ē���ł����������͎c����Ă��Ȃ������̂ł��傤���B<br>
-�K���ɂȂ�铹�͂��������Ȃ̂ɁA�N�����ߋ��ɂƂ���j�ł��Ă������̂���ۓI�ł����B<br>
-�킽�����S��a��ł��āA�~���������b����ύD���Ȃ̂Łi���s��Ȃ̂Łj�A<br>
-���̏͂͂����������Ȃ���ǂ܂��Ē����܂����A���肪�Ƃ��������܂��B<br>
-�ł�cheerkey����̍�i�ɉe������Ă�̂Ȃ�A<br>
-���͐��]���҂ɋ~���������点�Ă����悤�ȍ�i�������Ă͒����Ȃ��ł��傤���H<br>
-�������_�[�N���D���Ȃ̂ł����E�E�E�B</font>
+<font size=3 color=#606060>結局二人して沈んでいくしか道は残されていなかったのでしょうか。<br>
+幸せになれる道はあった筈なのに、誰もが過去にとらわれ破滅していったのが印象的でした。<br>
+わたしも心を病んでいて、救いが無い話が大変好きなので（自虐趣味なので）、<br>
+この章はぞくぞくしながら読ませて頂きました、ありがとうございます。<br>
+でもcheerkeyさんの作品に影響されてるのなら、<br>
+次は性転換者に救いをもたらせてくれるような作品を書いては頂けないでしょうか？<br>
+もちろんダークも好きなのですが・・・。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[43]</font> <font size=4 color=#40c0c0> ���P�@��</font>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> 沈姫　完</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 01:59:57 <strong>��</strong> �Ē� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210015957&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210015957"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 01:59:57 <strong>▽</strong> 米津 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210015957_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210015957"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�d���ǌ㊴�ł����B<br>
-���܂��`�e���v�������т܂��񂪁A����������i���悢���̂ł��ˁB<br>
-�ʍ�����̂����ւ������闝�R�ɂȂ�炩�̏d�ݕt��������Ă�ƁA��肢�������ǂ���i�ɂȂ����Ǝv���܂��B</font>
+<font size=3 color=#606060>重い読後感でした。<br>
+うまい形容が思い浮かびませんが、こういう作品もよいものですね。<br>
+彩香が首のすげ替えをする理由になんらかの重み付けがされてると、よりいっそう良い作品になったと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> �������悫�Ӗ��̂ق��ł��i���j</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> もちろんよき意味のほうです（汗）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/20 (�y) 11:13:28 <strong>��</strong> �m�C���i�d�g�d���j </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207206111328&log=ran_sirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207206111328"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/20 (土) 11:13:28 <strong>▽</strong> ノイン（電波妖精） </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207206111328_log_ran_sirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200207206111328"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���t����������܂���ł����ˁB<br>
-�܂��A�����g�A���w�A���Z�Ɛ��������Y���A�Ԑ쎟�Y���Ɛ}���قŎ؂�܂����Č��Ă܂�������ˁA�~�X�e���[���T�X�y���X�͂��Ȃ�D���ȕ��ނɓ����ł���B<br>
-�Ηj�ȉ����݂����ȍ앗�B���̕��͋C�E�E�E�킩�邩�Ȃ��E�E�E<br>
-�Ƃ�����D�������i�X�g���[�g�j<br>
+<font size=3 color=#606060>言葉が少し足りませんでしたね。<br>
+まあ、私自身、中学、高校と西村京太郎氏、赤川次郎氏と図書館で借りまくって見てましたからね、ミステリー＆サスペンスはかなり好きな部類に入るんですよ。<br>
+火曜以下略みたいな作風。あの雰囲気・・・わかるかなぁ・・・<br>
+ともあれ好きだよ♪（ストレート）<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="ran_sirou">
@@ -323,16 +323,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="ran_sirou">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=ran_sirou">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_ran_sirou.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

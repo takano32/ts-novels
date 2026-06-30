@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>sana���񊴑z�f����</title>
+<title>sanaさん感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>sana���񊴑z�f����</font>
+<font size=5>sanaさん感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="sana">
 <input type=hidden name="nj" value="Do6FUP5OMu">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h XSbNzF  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="XSbNzF"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード XSbNzF  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="XSbNzF"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,61 +44,61 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> Re:�ǂ݂܂�����</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> Re:読みましたよ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/04 (��) 10:31:03 <strong>��</strong> sana </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312044103103&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312044103103"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/04 (木) 10:31:03 <strong>▽</strong> sana </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312044103103_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312044103103"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����`������<br>
-<font color="#cc88ff">&gt; ���z���߂Ăł������H</font><br>
-���������B��x�ڂł���A��������B<br>
-���z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>▼ 足利義忠さん<br>
+<font color="#cc88ff">&gt; 感想初めてですっけ？</font><br>
+いえいえ。二度目ですよ、足利さん。<br>
+感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt; ���l���񥥥�������<br>
-&gt; �������Y���s�ł���<br>
-&gt; �ŋߎ����悤�ȋ����̗L���l�������̂Őe�ߊ�(�H)�������܂�(�����܂Ńl�^�ł���)</font><br>
-���̗L���l�Ƃ����͎̂c�O�Ȃ��画��܂���ł����B���Ȃ݂ɁA�����Q�b�\�����Ă��鏲�l�������񂪖ڌ�����܂��B�����ꂳ��͌��F�ǂ������Ƃ��c�B<br>
+<font color="#cc88ff">&gt; 彰人さん・・・合掌・・・<br>
+&gt; もう死刑執行ですね<br>
+&gt; 最近似たような境遇の有名人を見たので親近感(？)が沸きます(あくまでネタですが)</font><br>
+その有名人というのは残念ながら判りませんでした。ちなみに、翌朝ゲッソリしている彰人お父さんが目撃されます。楓お母さんは血色良かったとか…。<br>
 <br>
-<font color="#cc88ff">&gt; �������c�܃~�����C�ɂȂ�W�J�ł�<br>
-&gt; �������Ȃ�����Ƃ���������ǂ����܂��H</font><br>
-�c�������B�Q�鎞�ԍ���ď����܂����B<br>
-�c�c���������A���|�[�g�̌��ʂ������Ă���łȂ��Ɩ������ۂ��ł����c�B<br>
+<font color="#cc88ff">&gt; 続きが彡⌒ミしく気になる展開です<br>
+&gt; 夜も眠れない・・・とか言ったらどうします？</font><br>
+…うぐっ。寝る時間削って書きますか。<br>
+……もう少し、レポートの見通しがついてからでないと無理っぽいですが…。<br>
 <br>
-<font color="#cc88ff">&gt; �l�b�g���W�I�v����ׂ�ĥ�����A�ǂ����悤����<br>
-&gt; �l�b�g���W�I�������ׂ�͉̂�����Ȃ��ł��B����A�O�̂��ߥ��</font><br>
-�l�b�g���W�I���C�ɂȂ�܂����c�c��肠�����A�ϊv�̑������i��<br>
-����������S��������Ă܂��i�K��Y�����������̂Ƃ́I�H�j<br>
+<font color="#cc88ff">&gt; ネットラジオ計画も潰れて・・・さ、どうしようかな<br>
+&gt; ネットラジオ・・・しゃべるのは俺じゃないです。いや、念のため・・・</font><br>
+ネットラジオも気になりますが……取りあえず、変革の続きを（ｗ<br>
+足利さんも鬼引きされてます（幸一郎が見つけた物体とは！？）<br>
 <br>
 <br>
-�ł́A���z���肪�Ƃ��������܂����B</font>
+では、感想ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> �ǂ݂܂�����</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> 読みましたよ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/04 (��) 01:13:07 <strong>��</strong> <a href="mailto:deeper&#95;y&#95;a&#95;l&#95;5209@yahoo.co.jp">�����`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312044011307&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312044011307"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/04 (木) 01:13:07 <strong>▽</strong> <a href="mailto:deeper&#95;y&#95;a&#95;l&#95;5209@yahoo.co.jp">足利義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312044011307_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312044011307"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���z���߂Ăł������H<br>
-��܂��A������<br>
+<font size=3 color=#606060>感想初めてですっけ？<br>
+んまあ、いいや<br>
 <br>
-���l���񥥥�������<br>
-�������Y���s�ł���<br>
-�ŋߎ����悤�ȋ����̗L���l�������̂Őe�ߊ�(�H)�������܂�(�����܂Ńl�^�ł���)<br>
+彰人さん・・・合掌・・・<br>
+もう死刑執行ですね<br>
+最近似たような境遇の有名人を見たので親近感(？)が沸きます(あくまでネタですが)<br>
 <br>
-�������c�܃~�����C�ɂȂ�W�J�ł�<br>
-�������Ȃ�����Ƃ���������ǂ����܂��H<br>
+続きが彡⌒ミしく気になる展開です<br>
+夜も眠れない・・・とか言ったらどうします？<br>
 <br>
-���A�^�̂ق��ł����H<br>
-�l�b�g���W�I�v����ׂ�ĥ�����A�ǂ����悤����<br>
-�l�b�g���W�I�������ׂ�͉̂�����Ȃ��ł��B����A�O�̂��ߥ��</font>
+え、某のほうですか？<br>
+ネットラジオ計画も潰れて・・・さ、どうしようかな<br>
+ネットラジオ・・・しゃべるのは俺じゃないです。いや、念のため・・・</font>
 <p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
 </td></table>
 </td></tr></table>
@@ -106,93 +106,93 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> ���z�܂葦���X�ł�</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> 感想まつり即レスです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/03 (��) 22:46:46 <strong>��</strong> sana </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312033224646&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312033224646"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/03 (水) 22:46:46 <strong>▽</strong> sana </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312033224646_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312033224646"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����̓l�b�g�펞�ڑ��Ń��|�[�g�쐬����sana�ł��B����[���A���|�[�g�i�܂ȁ[���B<br>
-���z���肪�Ƃ��������܂��A�l�t�b�j����B<br>
-�\�\���̒Z�����Ŏ����΂킹��Ƃ͗��΂ł��ȁA�t���I�i��<br>
+<font size=3 color=#606060>今日はネット常時接続でレポート作成中のsanaです。うわーい、レポート進まなーい。<br>
+感想ありがとうございます、ＭＵＣＫさん。<br>
+——この短い文で私を笑わせるとは流石ですな、師匠！（ぇ<br>
 <br>
-<font color="#cc88ff">&gt; ���z�܂�J�Ò��B�i�����̒��Łj<br>
-&gt; ��T�ԂƂ�����Ɨ��Ȃ����������ŁA�V�삢���ς��[�i���j</font><br>
-���z�܂艞�����i���B�����͂̂�т�ǂ݂܂��̂Łc�B<br>
+<font color="#cc88ff">&gt; 感想まつり開催中。（自分の中で）<br>
+&gt; 一週間とちょっと来なかっただけで、新作いっぱいー（汗）</font><br>
+感想まつり応援中（ぉ。自分はのんびり読みますので…。<br>
 <br>
-<font color="#cc88ff">&gt; �c�c�A��΂��B���l���񂪃J���C�C�B�i��</font><br>
-�J���C�C�ł����I�H�@��A�c�r�b�N���B�V���Ȍ����𔭌������C���ł��B<br>
-<font color="#cc88ff">&gt; ��ɂ���ė~�]�ɒ����Ȑl���Ǝv������A�����ɗ����Ɗi�����Ă���i�΁j</font><br>
-�~�]�ɒ����Ȑl�������ƁA�V���N�����Ď��~�߂������Ȃ��Ȃ�̂ł���i��<br>
-�ł��̂ŁA���l��������ɂ̓S���u���[�L�i���]�Ԓ��x�j���t���Ă��܂��B<br>
-<font color="#cc88ff">&gt; ���Ƃ��̗F�B�i���Ƃ͂܂���������́j�̉�b��q�i���j�����āA�ウ�Ă���Ƃ���Ȃ񂩏΂��ʂ�z���Đ��g�������΂𑗂肽���Ȃ�܂��ˁI�������</font><br>
-�����c�c�B���̊����́A���Ȃ����^�̊��ł��邱�Ƃ������Ă���c�B<br>
+<font color="#cc88ff">&gt; ……、やばい。彰人さんがカワイイ。（ぉ</font><br>
+カワイイですか！？　わ、…ビックリ。新たな見解を発見した気分です。<br>
+<font color="#cc88ff">&gt; 例によって欲望に忠実な人かと思いきや、微妙に理性と格闘してたり（笑）</font><br>
+欲望に忠実な人を書くと、シンクロして歯止めが利かなくなるのですよ（汗<br>
+ですので、彰人お父さんにはゴムブレーキ（自転車程度）が付いています。<br>
+<font color="#cc88ff">&gt; 娘とその友達（娘とはまた違った魅力）の会話を拝（盗）聴して、悶えているところなんか笑う通り越して生暖かい微笑を送りたくなりますね！＜送るな</font><br>
+漢だ……。その感性は、あなたが真の漢であることを示している…。<br>
 <br>
-<font color="#cc88ff">&gt; �يE�ւ̓�����ł����F�ɁA���͂ǂ�ȓ������o���̂ł��傤���H</font><br>
-���b�̎���́A���B<br>
-�ޏ��̃��m�̍l�����ɋ������Ă��������邩�A��҂͌������S�z�ł��B<br>
+<font color="#cc88ff">&gt; 異界への導き手である緋色に、桜はどんな答えを出すのでしょうか？</font><br>
+次話の主役は、桜。<br>
+彼女のモノの考え方に共感していただけるか、作者は激しく心配です。<br>
 <br>
-<font color="#cc88ff">&gt; ���A�l�̂ق��ł����H<br>
-&gt; �c�c�W���[�_�X�N�ɉ�ɍs���Ȃ��၃�搶�I�@���̐l�Œ�ł��I</font><br>
-�s�n�c�Q�c�c�ǂ����A����PS2�����Ă܂����B<br>
-�l���������̂ɔ����Ȃ��c_|�P|��<br>
-�G���@�Q��肽���ł��c�c�B���ƁA�`�b�R��`�b�r�k�B<br>
+<font color="#cc88ff">&gt; え、僕のほうですか？<br>
+&gt; ……ジューダス君に会いに行かなきゃ＜先生！　この人最低です！</font><br>
+ＴＯＤ２……どうせ、私はPS2持ってませんよ。<br>
+値下げしたのに買えない…_|‾|○<br>
+エヴァ２やりたいです……。あと、ＡＣ３やＡＣＳＬ。<br>
 <br>
-�ł́A�l�t�b�j����B���z���肪�Ƃ��������܂����B</font>
+では、ＭＵＣＫさん。感想ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> �u���ƕ���q�v�A�ǂ݂܂����B</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> 「桜と風御子」、読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/03 (��) 22:15:03 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312033221503&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312033221503"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/03 (水) 22:15:03 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312033221503_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312033221503"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���z�܂�J�Ò��B�i�����̒��Łj<br>
-��T�ԂƂ�����Ɨ��Ȃ����������ŁA�V�삢���ς��[�i���j<br>
+<font size=3 color=#606060>感想まつり開催中。（自分の中で）<br>
+一週間とちょっと来なかっただけで、新作いっぱいー（汗）<br>
 <br>
 <br>
-�c�c�A��΂��B���l���񂪃J���C�C�B�i��<br>
-��ɂ���ė~�]�ɒ����Ȑl���Ǝv������A�����ɗ����Ɗi�����Ă���i�΁j<br>
-���Ƃ��̗F�B�i���Ƃ͂܂���������́j�̉�b��q�i���j�����āA�ウ�Ă���Ƃ���Ȃ񂩏΂��ʂ�z���Đ��g�������΂𑗂肽���Ȃ�܂��ˁI�������<br>
+……、やばい。彰人さんがカワイイ。（ぉ<br>
+例によって欲望に忠実な人かと思いきや、微妙に理性と格闘してたり（笑）<br>
+娘とその友達（娘とはまた違った魅力）の会話を拝（盗）聴して、悶えているところなんか笑う通り越して生暖かい微笑を送りたくなりますね！＜送るな<br>
 <br>
-���āA����͐V���ȓW�J�B<br>
-�يE�ւ̓�����ł����F�ɁA���͂ǂ�ȓ������o���̂ł��傤���H<br>
+さて、物語は新たな展開。<br>
+異界への導き手である緋色に、桜はどんな答えを出すのでしょうか？<br>
 <br>
 <br>
-���A�l�̂ق��ł����H<br>
-�c�c�W���[�_�X�N�ɉ�ɍs���Ȃ��၃�搶�I�@���̐l�Œ�ł��I</font>
+え、僕のほうですか？<br>
+……ジューダス君に会いに行かなきゃ＜先生！　この人最低です！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/03 (��) 21:28:47 <strong>��</strong> sana </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312033212847&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312033212847"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/03 (水) 21:28:47 <strong>▽</strong> sana </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312033212847_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312033212847"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �s�n�j�h�v�`����<br>
-<font color="#cc88ff">&gt; �ǂ������ɘb���i��ł��܂����ˁ`�B<br>
-&gt; ��F�̗ǂ������Q�ɏo�Ă�悤�ɓǂ߂܂����B</font><br>
-��F�̗ǂ��I�@���ꂪ�Ȃ���΁A���̘b�͐��藧���܂���I<br>
-���Ƃ����G�ȃL�����ň�ԏ����̂���������肵�܂����c�A���������Ă��炦��̂��A��Ԋ������ł��B<br>
-������̃N�Z�ɓ�Y�����������ɁA�J���C�C�̂ł���B��̂�����q�قǁc�c�Ȃ񂽂���ă��c�ł��B<br>
+<font size=3 color=#606060>▼ ＴＯＫＩＷＡさん<br>
+<font color="#cc88ff">&gt; 良い感じに話が進んできましたね〜。<br>
+&gt; 緋色の良さが抜群に出てるように読めました。</font><br>
+緋色の良さ！　それがなければ、この話は成り立ちません！<br>
+何とも複雑なキャラで一番書くのが難しかったりしますが…、そう言ってもらえるのが、一番嬉しいです。<br>
+主役級のクセに難産だっただけに、カワイイのですよ。手のかかる子ほど……なんたらってヤツです。<br>
 <br>
-<font color="#cc88ff">&gt; �يE�Ƃ͂ǂ�ȂƂ���Ȃ̂��C�ɂȂ邵�A�Y���̕��X���y���݂ł��ˁ`�B</font><br>
-�يE�c�B���̘b�̃L���ɂȂ�̂ŁA���y�ł����B<br>
-�Y���c�B���̘b�͂��x�݂ł��B�ł��A�Ƃ���ǂ���ɏo�Ԃ�����܂��B���Ɣ�F�ɗ��ނ̂͂������������Ȃ��c�c�͂��B<br>
+<font color="#cc88ff">&gt; 異界とはどんなところなのか気になるし、刑事の方々も楽しみですね〜。</font><br>
+異界…。次の話のキモになるので、言及できず。<br>
+刑事…。次の話はお休みです。でも、ところどころに出番があります。桜と緋色に絡むのはそうそう遠くない……はず。<br>
 <br>
 <br>
-�s�n�j�h�v�`����A���肪�Ƃ��������܂����B</font>
+ＴＯＫＩＷＡさん、ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
@@ -202,41 +202,41 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[30]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/03 (��) 16:30:51 <strong>��</strong> �s�n�j�h�v�` </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312033163051&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312033163051"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/03 (水) 16:30:51 <strong>▽</strong> ＴＯＫＩＷＡ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312033163051_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312033163051"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ������ɘb���i��ł��܂����ˁ`�B<br>
-��F�̗ǂ������Q�ɏo�Ă�悤�ɓǂ߂܂����B<br>
-�يE�Ƃ͂ǂ�ȂƂ���Ȃ̂��C�ɂȂ邵�A�Y���̕��X���y���݂ł��ˁ`�B</font>
+<font size=3 color=#606060>良い感じに話が進んできましたね〜。<br>
+緋色の良さが抜群に出てるように読めました。<br>
+異界とはどんなところなのか気になるし、刑事の方々も楽しみですね〜。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font size=4 color=#40c0c0> �킩���Ă݂��悤�z�g�g�M�X�i�H�j</font>
+<font size=2>[29]</font> <font size=4 color=#40c0c0> わかせてみせようホトトギス（？）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/03 (��) 14:24:30 <strong>��</strong> sana </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312033142430&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312033142430"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/03 (水) 14:24:30 <strong>▽</strong> sana </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312033142430_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312033142430"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�A�J�g������A���z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>アカトリさん、感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�ł鎖�͖����ł��B���ɗ����オ��̎��́B</font><br>
-���͎O���V��̂悤�Ɏv���Ă���̂ł́c�ƃl�K�e�B�u�ɍl���Ă��܂����̂ŁA���������Ă���������Ɗ������ł��B���肪�Ƃ��������܂��B<br>
+<font color="#cc88ff">&gt;焦る事は無いです。特に立ち上がりの時は。</font><br>
+私は三日坊主のように思われているのでは…とネガティブに考えていましたので、そう言っていただけると嬉しいです。ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�l�͂������񂪏����s�������ȂƎv���܂��B</font><br>
-����͑����A�������Ƃ̂������񂪁A��F���x�b�h�ɐQ������V�[���̂Ƃ��낾�Ǝv���܂��B<br>
+<font color="#cc88ff">&gt;僕はお父さんが少し鋭すぎかなと思います。</font><br>
+これは多分、桜ちゃん家のお父さんが、緋色をベッドに寝かせるシーンのところだと思います。<br>
 <br>
-�i�c��͂�A���e��S�����Ă���̂ł��傤���j<br>
-���̐���Ɏ������w���l�̎v�l�x���A���Ȃ苭���ł����B<br>
-�m���ɁA���╖�ɕ���������F�̗l�q�����������ŁA���l�ɂ����܂ŕ������Ȃ��ł��ˁB<br>
-���܂ŁA�����ŏ����ĂċC�Â��Ȃ������ł��c�B<br>
+（…やはり、両親を亡くしているのでしょうか）<br>
+この推定に至った『彰人の思考』が、かなり強引でした。<br>
+確かに、桜や楓に抱きつかれる緋色の様子を見ただけで、彰人にそこまで分かる訳ないですね。<br>
+今まで、自分で書いてて気づかなかったです…。<br>
 <br>
-�M�d�Ȃ��ӌ����肪�Ƃ��������܂����B<br>
-���̌o��������ɐ����������Ǝv���܂��B<br>
+貴重なご意見ありがとうございました。<br>
+この経験を次回に生かしたいと思います。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -244,73 +244,73 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> �т�����т�����r���r���A�s�v�c�ȗ͂��킢����ǁ[�����</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> びっくりびっくりビンビン、不思議な力がわいたらどーしよ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/02 (��) 21:33:39 <strong>��</strong> <a href="mailto:ymgch@m3.dion.ne.jp">�A�J�g��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312022213339&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312022213339"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/02 (火) 21:33:39 <strong>▽</strong> <a href="mailto:ymgch@m3.dion.ne.jp">アカトリ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312022213339_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312022213339"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ł鎖�͖����ł��B���ɗ����オ��̎��́B<br>
-�@���z�̂ق��ł����A�l�͂������񂪏����s�������ȂƎv���܂��B<br>
-�@�ǂ������炵�܂����B</font>
+<font size=3 color=#606060>　焦る事は無いです。特に立ち上がりの時は。<br>
+　感想のほうですが、僕はお父さんが少し鋭すぎかなと思います。<br>
+　どうも失礼しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �z���g�͑O���</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> ホントは前後編</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/01 (��) 23:45:13 <strong>��</strong> sana </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312011234513&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312011234513"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/01 (月) 23:45:13 <strong>▽</strong> sana </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312011234513_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312011234513"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������b�ɂȂ��Ă���܂��Asana�ł��B<br>
-�����W�S�Q�U����A���z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>いつもお世話になっております、sanaです。<br>
+ｍｋ８４２６さん、感想ありがとうございます。<br>
 <br>
-�������C�ɂȂ鏑���������āA�\���󂠂�܂���(~_~�G�j<br>
-�����A�}�����悤�ɋS�����ł��B�_���ʂ�Ɉ����Ă��܂��܂����B<br>
-�Ƃ����̂��A�^�C�g���ɂ���悤�ɁA�z���g�͑O��҂ł����B<br>
-�ł�����A������������邩�ȁ[�ƈ��Ղȍl���ŁA���M�����̂ł����c�B<br>
-���e���˂΁[�A�Ƃ��������ϔO�ɏP���c��҂��������̂܂ܑς����ꂸ���e�c�B<br>
-�u��҂͂ǂ������[�v�ƌ�����ƁA�蒼���̍Œ��ł��Ƃ��������悤���Ȃ��ł��A�n�C�B<br>
+続きが気になる書き方をして、申し訳ありません(~_~；）<br>
+ええ、図ったように鬼引きです。狙い通りに引いてしまいました。<br>
+というのも、タイトルにあるように、ホントは前後編でした。<br>
+ですから、引きも許されるかなーと安易な考えで、執筆したのですが…。<br>
+投稿せねばー、という強迫観念に襲われ…後編が未完成のまま耐えきれず投稿…。<br>
+「後編はどうしたー」と言われると、手直しの最中ですとしか答えようがないです、ハイ。<br>
 <br>
-�P�Q�����͔��ɖZ�����A�ǂ��Ȃ邩������܂��񂪁A���������Ɏd�グ�Ă������ƕ���𓮂��������Ǝv���܂��B<br>
-�c�܂��A�ŏ��̈�����I����Ă��Ȃ��ł���(�_�;)<br>
-�G�s�\�[�h�̌��I���o���Ă��܂���ˁA���B�e���|�������B<br>
+１２月中は非常に忙しく、どうなるか分かりませんが、早いうちに仕上げてさっさと物語を動かしたいと思います。<br>
+…まだ、最初の一日も終わっていないですし(・_・;)<br>
+エピソードの厳選が出来ていませんね、私。テンポが悪い。<br>
 <br>
-���̂Ƃ���B���̘b�́A�w�����̂ɂ������Ȃ̂ł��B<br>
-���̊��ɂ́A��b�ɂ����o�Ă��ĂȂ��w�Z�ƃN���X���C�g�c�c<br>
-�c�c����H(�_�?)<br>
+実のところ。この話は、学園ものにするつもりなのです。<br>
+その割には、一話にしか出てきてない学校とクラスメイト……<br>
+……あれ？(・_・?)<br>
 <br>
-���z���肪�Ƃ��������܂����`�i�s���s�j/~~~<br>
-�����āA���̕���ǂ�ł��ꂽ����ȕ��X�A���肪�Ƃ��������܂��B</font>
+感想ありがとうございました〜（ＴｏＴ）/~~~<br>
+そして、この文を読んでくれた奇特な方々、ありがとうございます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/01 (��) 08:13:59 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���d��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312011081359&log=sana">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312011081359"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/01 (月) 08:13:59 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312011081359_log_sana.cgi">返信</a>　削除<input type=checkbox name="target" value="200312011081359"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�ށB�u���̑O�̐Â����v�ł��˂��B<br>
-�`���̓��{�����N���Ȃɂ��܂��ĊJ�������ł����B<br>
-�܂��A��������܂��͔�F�����������Ȃ����يE�̕�����ł��傤���ǂˁB<br>
-������ɂ��Ă��A�������C�ɂȂ�܂��˂��B</font>
+<font size=3 color=#606060>うーむ。「嵐の前の静けさ」ですねぇ。<br>
+冒頭の日本刀少年もなにやらまた再開しそうですし。<br>
+まあ、それよりもまずは緋色が桜をいざなった異界の方が先でしょうけどね。<br>
+いずれにしても、続きが気になりますねぇ。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="sana">
@@ -318,16 +318,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="sana">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=sana">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_sana.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

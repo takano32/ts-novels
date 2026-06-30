@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,78 +52,78 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�������̓�
+旅立ちの日
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�ӂ�����</center><tr>
+<center>作者：ふうさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-<center>�u�u�l�t�����A�l�t�����A����[�i�O�O�j�^�v�v�S�W���p�z�b�g���C���ɓ�l�u���삳��ƁA��c����v�̐����n�����E�E�E<br><br>�ӂɂ�[�E�E�E�E�E�A�قցE�E�E(--)Z�������A�́I�I�u�S���I�I�I�E�E�E�����E�E�E�E�E�v�A���E����Ă��܂����I�I�x�������Ă��E�E�E(^^;)�E�E�E�E�E�E<br><br>���������΁A���̓��̒����A�����݂����ɂ��ꂳ��ɋN������n�܂����B<br><br><br><br>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E�E<br><br><br><br>�u����[�[�[�A�����N���Ȃ��ƁA�x��������[�[�[�[�v<br><br>�ӂɂ�[�[�[���i�͂ӁE�E�EZ��...�j�E�E�E�E�E�E�E�A���[�[�[�������Ȃ��I�I�I�I�I<br><br>�S���I�I�u�����[�[�[�v�E�E�E�E�E�E�E�E�E�A�E�h�^���A�o�^���A�ǂ��E�ǂ��E�ǂ��E�E�E<br><br>���̎q����A�܂��q���ˁE�E�E�A�����̉����������ǁA�����Ƃ����厖�ȓ��ɔn���ɂȂ�Ȃ��Ⴂ�����ǁE�E<br><br>�u���͂�[�[�i�O�O�j�^�v<br><br>�u�ق�Ƃɂ����A���������ɒ������āA�����Ȃ��ƒx����I�I�v<br><br>�u�͂��E�͂��E�́[�[�[���i�OO�O�j�v<br><br>�u�Ԏ��͂P��I�I�A����ɕ��́A�����v<br><br>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E�E<br><br>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E<br><br>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E<br><br>-------------------------------------------------------<br>�Ȃ񂩁A���낢�돀���Ɏ��Ԃ��������Ă��邩��<br><br>���̊ԂɁA�������Ă������B<br><br>�ނ̖��́u�N���u�E�N���X�E�n�[�g�v�P�U�΁B<br><br>�ނ̍��̒n���ł́A�P�U�΂ɂȂ������A����đ�l�̒��ԓ��肵�āA�����Ō��߂��i�H�ɂނ����āA�������Ȃ̂ł���B<br><br>���Ȃ݂ɁA�n�[�g�N�̐����́A�Z�[���[���ɁA���^�͎O�ԂP���|���������������肷��B<br>-------------------------------------------------------<br><br>�u�n���J�`�������I�I�v�@�@�u�͂��i�O�O�j�^�v<br><br>�u�������͑��v�I�I�v�@�@�u�͂��i�O�O�j�^�v<br><br>�u�����͑��v�I�I�v�@�@�u�͂��i�O�O�j�^�v<br><br>�u�ו��̖Y�ꕨ�͂Ȃ��I�I�v�@�@�u����i�O�O�j�E�E�E�v<br><br><br><br>�ق�Ƃɑ��v�Ȃ̂�����A���̓��A�������i�W���|���j�́A�u������A��l��I�I�A�N�̔\�͂�𗧂Ă�͍̂����I�I�I�I�I�v���ď����Ă���<br><br>�悭�킩��Ȃ��A�|�X�^�[�o���āA�^���Ȋ���Łu��������A���ꂳ��A�{�N�̏����͂����ɁI�I�I�I�I����v�E�E�E�E�E����A�����Ƃ�����������̂͂킩���Ă�������ǁB<br><br><br><br>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E�E<br><br>�u���Ⴀ�A�����͂�������̂ˁv�@�@�u�͂��i�O�O�j�^�v<br><br>�u��������s���Ȃ����I�I�I�A���Ȃ��̖ڎw�������Ɍ������āI�I�I�I�v�@�@�@�@�@�@�u�͂��I�I�I�I�I�i�O�O�j�^�v<br><br><br>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E�E<br><br><br><br><br><br>���̂Ƃ��I�񂾎d���́A���̂����E�E�E�E�E�閧�g�D�n���^�[�B<br><br>��y�����ɂ͂悭���Ă�����Ă���̂ŁA�s������{�ł��C���ɂ͗]��x��͏o�Ă��Ȃ��Ǝv���B<br><br>���̔C���́A��y�i���˂�����j���ƈꏏ�Ɏ����n�̂��d�����s���Ă���A�ƂĂ��[���������X�𑗂��Ă���B<br><br>ps.�����A�u�l�t�����v�Ƃ����A���́H�Ƃ������̂ł�΂��̂��A���܂��A�悭�킩��Ȃ��A���{��ɂ͓�����̂��B<br></center>
+<center>「「四葉ちゃん、四葉ちゃん、朝よー（＾＾）／」」４８号用ホットラインに二人「水野さんと、沢田さん」の声がハモル・・・<br><br>ふにゃー・・・・・、ほへ・・・(--)Zｚ・・・・、は！！「ゴン！！！・・・っう・・・・・」、あ・やってしまった！！遅刻けってい・・・(^^;)・・・・・・<br><br>そういえば、あの日の朝も、今日みたいにお母さんに起こされ始まった。<br><br><br><br>　　　　　　　　　　　　　　　　・・・<br><br><br><br>「朝よーーー、早く起きないと、遅刻するわよーーーー」<br><br>ふにゃーーーい（はふ・・・Zｚ...）・・・・・・・、あーーーいっけない！！！！！<br><br>ゴン！！「っうーーー」・・・・・・・・・、・ドタン、バタン、どだ・どだ・どだ・・・<br><br>あの子たら、まだ子供ね・・・、いつもの音がしたけど、今日という大事な日に馬鹿にならなきゃいいけど・・<br><br>「おはよーー（＾＾）／」<br><br>「ほんとにもう、早く正装に着換えて、いかないと遅刻よ！！」<br><br>「はい・はい・はーーーい（＾O＾）」<br><br>「返事は１回！！、それに服は、ここ」<br><br>　　　　　　　　　　　　　　　　・・・<br><br>　　　　　　　　　　　　　　　　・・<br><br>　　　　　　　　　　　　　　　　・<br><br>-------------------------------------------------------<br>なんか、いろいろ準備に時間がかかっているから<br><br>この間に、説明しておこう。<br><br>彼の名は「クラブ・クロス・ハート」１６歳。<br><br>彼の国の地方では、１６歳になった日、晴れて大人の仲間入りして、自分で決めた進路にむかって、旅だつ日なのである。<br><br>ちなみに、ハート君の正装は、セーラー服に、髪型は三つ網１っポンお下げだったりする。<br>-------------------------------------------------------<br><br>「ハンカチ持った！！」　　「はい（＾＾）／」<br><br>「着換えは大丈夫！！」　　「はい（＾＾）／」<br><br>「お金は大丈夫！！」　　「はい（＾＾）／」<br><br>「荷物の忘れ物はない！！」　　「うん（＾＾）・・・」<br><br><br><br>ほんとに大丈夫なのかしら、あの日、遠い国（ジャポン）の、「来たれ、若人よ！！、君の能力を役立てるのは今だ！！！！！」って書いてある<br><br>よくわからない、ポスター出して、真剣な顔つきで「お父さん、お母さん、ボクの将来はここに！！！！！する」・・・・・から、今日という日が来るのはわかっていたけれど。<br><br><br><br>　　　　　　　　　　　　　　　　・・・<br><br>「じゃあ、準備はおわったのね」　　「はい（＾＾）／」<br><br>「そしたら行きなさい！！！、あなたの目指す未来に向かって！！！！」　　　　　　「はい！！！！！（＾＾）／」<br><br><br>　　　　　　　　　　　　　　　　・・・<br><br><br><br><br><br>あのとき選んだ仕事は、今のここ・・・・・秘密組織ハンター。<br><br>先輩がたにはよくしてもらっているので、不慣れ日本でも任務には余り支障は出ていないと思う。<br><br>今の任務は、先輩（おねいさん）方と一緒に事務系のお仕事を行っており、とても充実した日々を送っている。<br><br>ps.ただ、「四葉ちゃん」という、愛称？というものでよばれるのが、いまだ、よくわからない、日本語には難しいものだ。<br></center>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�ӂ�
+ふう
 </address>
-2006�N07��02��(��) 15��56��40�b ���J<br>
+2006年07月02日(日) 15時56分40秒 公開<br>
 <!--220.214.123.6-->
-<font color=red>�����̍�i�̒��쌠�͂ӂ�����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はふうさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�M�\�����������X�ŏ����Ă݂܂����B<br><br>
+熱暴走したお味噌で書いてみました。<br><br>
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�S�W���̐ݒ肢�낢�돑�������ǁA�u�n���^�[�X�g�[���[�����h�{���v�̂����<BR>�����Ă���̂ŁA�F����S�W���ŗV�ѓ|���܂��傤�i�����X�M�\���{���Q�ڂ��j����<BR>���������Ă����̂��ȁH</td>
-<td>�ӂ�</td>
-<td width=20%>��2006-07-08 06:15:20</td>
+<td style=font-size:10pt>４８号の設定いろいろ書いたけど、「ハンターストーリーランド＋α」のつもりで<BR>書いているので、皆さん４８号で遊び倒しましょう（お味噌熱暴走＋お寝ぼけ）って<BR>私が書いていいのかな？</td>
+<td>ふう</td>
+<td width=20%>■2006-07-08 06:15:20</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�u�N���u�E�N���X�E�n�[�g�v�́A��͂������Ă�������c�l�̖��O�ŁA<BR>���̖��O����������E�E�E���Ă̂ōl�������ǁA�Ȃ񂩍��ЂƂ������ア�悤��(^^;)</td>
-<td>�ӂ�</td>
-<td width=20%>��2006-07-07 20:53:45</td>
+<td style=font-size:10pt>「クラブ・クロス・ハート」は、紋章を持っていたご先祖様の名前で、<BR>その名前をもらった・・・ってので考えたけど、なんか今ひとつあくが弱いような(^^;)</td>
+<td>ふう</td>
+<td width=20%>■2006-07-07 20:53:45</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���A�Ȃ񂩏��Ԃ��ނ��Ⴍ����ɂȂ��Ă��܂��܂������u�����X�A�M�\�����Ă�ȁv<BR>�Vࣂ��܁A�킽���Ȃ񂩂̒������S�҂̂��Ȃ����͂ɁA���z���肪�Ƃ��������܂��i���ӊ��ӂł��j�B<BR>���w�E�̂Ƃ���̍��ځ��u�����o�[�W�����l�����ɍ�����v�̂Ɉ�ԋ߂�����<BR>UP���Ă����܂����B</td>
-<td>�ӂ�</td>
-<td width=20%>��2006-07-05 00:22:41</td>
+<td style=font-size:10pt>う、なんか順番がむちゃくちゃになってしまいましたが「お味噌、熱暴走してるな」<BR>天爛さま、わたしなんかの超超初心者のつたない文章に、感想ありがとうございます（感謝感謝です）。<BR>お指摘のとうりの項目＆「初期バージョン考え中に作った」のに一番近い物を<BR>UPしておきました。</td>
+<td>ふう</td>
+<td width=20%>■2006-07-05 00:22:41</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>Ver0(�當���Ȃ��A����)��������������������������������������������������������<BR>�[�[�������̓��[�[<BR><BR><BR>�u�u�l�t�����A�l�t�����A����[�v�v�S�W���p�z�b�g���C���ɓ�l�u���삳��ƁA��c����v�̐����n�����E�E�E<BR><BR>�ӂɂ�[�E�E�E�E�E�A�قցE�E�E�AZ�������A�́I�I�u�S���I�I�I�E�E�E�����E�E�E�E�E�v�A���E����Ă��܂����I�I�x�������Ă��E�E�E�E�E�E�E�E�E<BR><BR>���������΁A���̓��̒����A�����݂����ɂ��ꂳ��ɋN������n�܂����B<BR><BR><BR><BR>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E�E<BR><BR><BR><BR>�u����[�[�[�A�����N���Ȃ��ƁA�x��������[�[�[�[�v<BR><BR>�ӂɂ�[�[�[���i�͂ӁE�E�EZ��...�j�E�E�E�E�E�E�E�A���[�[�[�������Ȃ��I�I�I�I�I<BR><BR>�S���I�I�u�����[�[�[�v�E�E�E�E�E�E�E�E�E�A�E�h�^���A�o�^���A�ǂ��E�ǂ��E�ǂ��E�E�E<BR><BR>���̎q����A�܂��q���ˁE�E�E�A�����̉����������ǁA�����Ƃ����厖�ȓ��ɔn���ɂȂ�Ȃ��Ⴂ�����ǁE�E<BR><BR>�u���͂�[�[�I�I�I�I�I�v<BR><BR>�u�ق�Ƃɂ����A���������ɒ������āA�����Ȃ��ƒx����I�I�v<BR><BR>�u�͂��E�͂��E�́[�[�[���I�v<BR><BR>�u�Ԏ��͂P��I�I�A����ɕ��́A�����v<BR><BR>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E�E<BR><BR>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E<BR><BR>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E<BR><BR>-------------------------------------------------------<BR>�Ȃ񂩁A���낢�돀���Ɏ��Ԃ��������Ă��邩��<BR><BR>���̊ԂɁA�������Ă������B<BR><BR>�ނ̖��́u�N���u�E�N���X�E�n�[�g�v�P�U�΁B<BR><BR>�ނ̍��̒n���ł́A�P�U�΂ɂȂ������A����đ�l�̒��ԓ��肵�āA�����Ō��߂��i�H�ɂނ����āA�������Ȃ̂ł���B<BR><BR>���Ȃ݂ɁA�n�[�g�N�̐����́A�Z�[���[���ɁA���^�͎O�ԂP���|���������������肷��B<BR>-------------------------------------------------------<BR><BR>�u�n���J�`�������I�I�v�@�@�u�͂��I�I�I�v<BR><BR>�u�������͑��v�I�I�v�@�@�u�͂��I�I�v<BR><BR>�u�����͑��v�I�I�v�@�@�u�͂��I�v<BR><BR>�u�ו��̖Y�ꕨ�͂Ȃ��I�I�v�@�@�u����E�E�E�v<BR><BR><BR><BR>�ق�Ƃɑ��v�Ȃ̂�����A���̓��A�������i�W���|���j�́A�u������A��l��I�I�A�N�̔\�͂�𗧂Ă�͍̂����I�I�I�I�I�v���ď����Ă���<BR><BR>�悭�킩��Ȃ��A�|�X�^�[�o���āA�^���Ȋ���Łu��������A���ꂳ��A�{�N�̏����͂����ɁI�I�I�I�I����v�E�E�E�E�E����A�����Ƃ�����������̂͂킩���Ă�������ǁB<BR><BR><BR><BR>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E�E<BR><BR>�u���Ⴀ�A�����͂�������̂ˁv�@�@�u�͂��I�v<BR><BR>�u��������s���Ȃ����I�I�I�A���Ȃ��̖ڎw�������Ɍ������āI�I�I�I�v�@�@�@�@�@�@�u�͂��I�I�I�I�I�v<BR><BR><BR>�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�E�E�E<BR><BR><BR><BR><BR><BR>���̂Ƃ��I�񂾎d���́A���̂����E�E�E�E�E�閧�g�D�n���^�[�B<BR><BR>��y�����ɂ͂悭���Ă�����Ă���̂ŁA�s������{�ł��C���ɂ͗]��x��͏o�Ă��Ȃ��Ǝv���B<BR><BR>���̔C���́A��y�i���˂�����j���ƈꏏ�Ɏ����n�̂��d�����s���Ă���A�ƂĂ��[���������X�𑗂��Ă���B<BR><BR>ps.�����A�u�l�t�����v�Ƃ����A���́H�Ƃ������̂ł�΂��̂��A���܂��A�悭�킩��Ȃ��A���{��ɂ͓�����̂��B<BR>����������������������������������������������������������������������������������</td>
-<td>�ӂ�</td>
-<td width=20%>��2006-07-04 05:36:55</td>
+<td style=font-size:10pt>Ver0(顔文字なし、原文)＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊<BR>ーー旅立ちの日ーー<BR><BR><BR>「「四葉ちゃん、四葉ちゃん、朝よー」」４８号用ホットラインに二人「水野さんと、沢田さん」の声がハモル・・・<BR><BR>ふにゃー・・・・・、ほへ・・・、Zｚ・・・・、は！！「ゴン！！！・・・っう・・・・・」、あ・やってしまった！！遅刻けってい・・・・・・・・・<BR><BR>そういえば、あの日の朝も、今日みたいにお母さんに起こされ始まった。<BR><BR><BR><BR>　　　　　　　　　　　　　　　　・・・<BR><BR><BR><BR>「朝よーーー、早く起きないと、遅刻するわよーーーー」<BR><BR>ふにゃーーーい（はふ・・・Zｚ...）・・・・・・・、あーーーいっけない！！！！！<BR><BR>ゴン！！「っうーーー」・・・・・・・・・、・ドタン、バタン、どだ・どだ・どだ・・・<BR><BR>あの子たら、まだ子供ね・・・、いつもの音がしたけど、今日という大事な日に馬鹿にならなきゃいいけど・・<BR><BR>「おはよーー！！！！！」<BR><BR>「ほんとにもう、早く正装に着換えて、いかないと遅刻よ！！」<BR><BR>「はい・はい・はーーーい！」<BR><BR>「返事は１回！！、それに服は、ここ」<BR><BR>　　　　　　　　　　　　　　　　・・・<BR><BR>　　　　　　　　　　　　　　　　・・<BR><BR>　　　　　　　　　　　　　　　　・<BR><BR>-------------------------------------------------------<BR>なんか、いろいろ準備に時間がかかっているから<BR><BR>この間に、説明しておこう。<BR><BR>彼の名は「クラブ・クロス・ハート」１６歳。<BR><BR>彼の国の地方では、１６歳になった日、晴れて大人の仲間入りして、自分で決めた進路にむかって、旅だつ日なのである。<BR><BR>ちなみに、ハート君の正装は、セーラー服に、髪型は三つ網１っポンお下げだったりする。<BR>-------------------------------------------------------<BR><BR>「ハンカチ持った！！」　　「はい！！！」<BR><BR>「着換えは大丈夫！！」　　「はい！！」<BR><BR>「お金は大丈夫！！」　　「はい！」<BR><BR>「荷物の忘れ物はない！！」　　「うん・・・」<BR><BR><BR><BR>ほんとに大丈夫なのかしら、あの日、遠い国（ジャポン）の、「来たれ、若人よ！！、君の能力を役立てるのは今だ！！！！！」って書いてある<BR><BR>よくわからない、ポスター出して、真剣な顔つきで「お父さん、お母さん、ボクの将来はここに！！！！！する」・・・・・から、今日という日が来るのはわかっていたけれど。<BR><BR><BR><BR>　　　　　　　　　　　　　　　　・・・<BR><BR>「じゃあ、準備はおわったのね」　　「はい！」<BR><BR>「そしたら行きなさい！！！、あなたの目指す未来に向かって！！！！」　　　　　　「はい！！！！！」<BR><BR><BR>　　　　　　　　　　　　　　　　・・・<BR><BR><BR><BR><BR><BR>あのとき選んだ仕事は、今のここ・・・・・秘密組織ハンター。<BR><BR>先輩がたにはよくしてもらっているので、不慣れ日本でも任務には余り支障は出ていないと思う。<BR><BR>今の任務は、先輩（おねいさん）方と一緒に事務系のお仕事を行っており、とても充実した日々を送っている。<BR><BR>ps.ただ、「四葉ちゃん」という、愛称？というものでよばれるのが、いまだ、よくわからない、日本語には難しいものだ。<BR>＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊</td>
+<td>ふう</td>
+<td width=20%>■2006-07-04 05:36:55</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>��,�܂������Y��u�����̌����ɂ́v�A������當���͎g���Ă܂���ł����i�����j�E�E�E�E<BR>����Ȃ̂Łu�]���Ŋ當���̓X���[���āv�ǂ񂾂ق��������ɂ��Ȃ�߂��Ǝv���܂��i�����j�B</td>
-<td>�ӂ�</td>
-<td width=20%>��2006-07-03 20:49:12</td>
+<td style=font-size:10pt>あ,また書き忘れ「初期の原文には」、これも顔文字は使ってませんでした（自爆）・・・・<BR>それなので「脳内で顔文字はスルーして」読んだほうが原文にかなり近くと思います（自爆）。</td>
+<td>ふう</td>
+<td width=20%>■2006-07-03 20:49:12</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���當���ŃS�[�i�O�O�O�j<BR>��ǂ񂾂��Ɓu�����X�A�M�\����ԁv�ŏ������̂ŁA���Ȃ񂩐V�N�E�E�E���Ďv����<BR>���g���Ă��܂��܂����B<BR><BR>������A�����������Ƃ��́u���񂹁v�������̂ł����A��UP�����Ƃ��Ɂu�Ȃ�������ŁvUP���Ă��܂��܂����i�����j�E�E�E�E�E</td>
-<td>�ӂ�</td>
-<td width=20%>��2006-07-03 20:34:54</td>
+<td style=font-size:10pt>＞顔文字でゴー（＾０＾）<BR>を読んだあと「お味噌、熱暴走状態」で書いたので、あなんか新鮮・・・って思って<BR>つい使ってしまいました。<BR><BR>これも、原文書いたときは「左寄せ」だったのですが、ついUPしたときに「なぜか中寄で」UPしてしまいました（自爆）・・・・・</td>
+<td>ふう</td>
+<td width=20%>■2006-07-03 20:34:54</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�ق��A�R�����\�̂S�W���ł����c�c�B<BR><BR>���X�Ȃ���N����P�R�΂ŁA�d�b�ʐڂ̍ۂɐl���ۂ̐l�Ɂu thirteen �i�P�R�j�v�Ɓu thirty �i�R�O�j�v�𕷂��ԈႦ���č̗p���ꂽ�Ƃ������ݒ���v�����܂����B�i��<BR>���ɂ��F�X�i�n���^�[�Ƃ��āj�ד��ȃl�^�͂���܂��̂ŋ���������΃��[�����������B<BR><BR>�����A���������B<BR>�當���̎g��������̂͌����l������̂ŋC���������������ǂ��Ǝv���܂��B<BR>����ƁA��͂蒆�񂹂�荶�񂹂̕������₷�����ȁc�c<BR></td>
-<td width=10%><a href=mailto:mst_kg@infoseek.jp>�V�</a></td>
-<td width=20%>��2006-07-03 17:29:37</td>
+<td style=font-size:10pt>ほう、コレが噂の４８号ですか……。<BR><BR>今更ながら年齢を１３歳で、電話面接の際に人事課の人に「 thirteen （１３）」と「 thirty （３０）」を聞き間違えられて採用されたとか言う設定を思いつきました。（笑<BR>他にも色々（ハンターとして）邪道なネタはありますので興味があればメールください。<BR><BR>あっ、そうそう。<BR>顔文字の使いすぎるのは嫌う人もいるので気をつけた方が方が良いと思います。<BR>それと、やはり中寄せより左寄せの方が見やすいかな……<BR></td>
+<td width=10%><a href=mailto:mst_kg@infoseek.jp>天爛</a></td>
+<td width=20%>■2006-07-03 17:29:37</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -131,24 +131,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20060702155640">
 <input type=hidden name="num_r" value="20060702155640">
 <input type=hidden name="url" value="">
@@ -164,17 +164,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20060702155640">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -184,9 +184,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

@@ -1,33 +1,33 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
-<title>���f����</title></head>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
+<title>第二掲示板</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#AAAAFF vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ヲするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>��Q�f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>第２掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
+<!--　ここまで　　この下にメッセージが　　侮ヲされる　　-->
 <form name=inputform action=resbbs4.cgi method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://ts.novels.jp">[HomePage]</a><br> <br>
-<a href="http://www.novels.jp/~ts/bbs/index.cgi">[BBS #1]</a><br>
-</td><td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<tr><td rowspan=4><a href="../../index.html">[HomePage]</a><br> <br>
+<a href="index.cgi">[BBS #1]</a><br>
+</td><td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�N�ƈꏏ�Ɂ`����`>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:君と一緒に〜第二回〜>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=mother value=674>
 <input type=hidden name=ress value=676>
-<input type=submit value=�N�ƈꏏ�Ɂ`����`�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=君と一緒に〜第二回〜へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
@@ -40,28 +40,28 @@ document.inputform.comment.focus();
 <table border=3 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=676>
-<font color=#6A5ACD>RE:�N�ƈꏏ�Ɂ`����`</font></a>
+<font color=#6A5ACD>RE:君と一緒に〜第二回〜</font></a>
 <font color=#FFFFFF>
-�v�Ă̘Z��
- ����</font>
- <font size=2>2003�N4��19��(�y) 18��8��</font>
- <input type=button value=�ԐM onclick='location.href="resbbs4.cgi?vew=676"'>
+思案の六ぽ
+ さん</font>
+ <font size=2>2003年4月19日(土) 18時8分</font>
+ <input type=button value=返信 onclick='location.href="resbbs4@vew_676.cgi"'>
 </td></tr><tr><td>
-<ul><br><font size=3>�ف[���A�����ł����A�����ł����B�Z���̓�l�̈ӎ��������̂ɂ����ł����B<br>�ʂ̈Ӗ��ŖG���ł��ȁi�ʂ̈Ӗ����ĉ�����I�j<br>���ǂ��̂ǂ����H�}���V�����Ă��ĐH�����Ȃ�āA��������<br>�O��^�D�N�A�N���Ĉ�́E�E�E�E<br>�����̓_���ł��^�|�͐����Ă�悤�ɍ~��邩��<br>���i���Ƃ��j���˂��B<br>�����^�|�̕�e���āA���͂Ƃ�ł��Ȃ��H�킹�҂������肵�āE�E�E<br><br><br></font></ul>
+<ul><br><font size=3>ほーう、そうですか、そうですか。兄妹の二人の意識が同じ体にあるんですか。<br>別の意味で萌えですな（別の意味って何だよ！）<br>＞どこのどいつだ？マンション焼いて食おうなんて、豪快だな<br>三条真優君、君って一体・・・・<br>＞俺はダメでも真弓は生きてるように降りるから<br>漢（おとこ）だねえ。<br>高橋真弓の母親って、実はとんでもない食わせ者だったりして・・・<br><br><br></font></ul>
 <ul><input type=checkbox name=delcode value=677>
-<font color=#6A5ACD>RE:�N�ƈꏏ�Ɂ`����`</font></a>
+<font color=#6A5ACD>RE:君と一緒に〜第二回〜</font></a>
 <font color=#FFFFFF>
-�����
- ����</font>
- <font size=2>2003�N4��19��(�y) 19��32��</font>
- <input type=button value=�ԐM onclick='location.href="resbbs4.cgi?vew=677"'>
-<ul><font size=3>�ǂ����A���肪�Ƃ��������܂��B<br>�����ł��˂��A�^�|�͐^�D�̂��Ƃ�m���Ă����킯�ł����A�D������������������񂶂�Ȃ��ł��傤���B<br>�܂��A������l�ł���̂ŐF��ȂƂ��낪�����Ă��܂��āA���Ȃ��猋��������ɂȂ�ł���Ȑl�ƁA�݂����ȐS��������Ǝv���܂��B���G�ł��˂��B<br>�ł͎���B</font></ul>
+日比野
+ さん</font>
+ <font size=2>2003年4月19日(土) 19時32分</font>
+ <input type=button value=返信 onclick='location.href="resbbs4@vew_677.cgi"'>
+<ul><font size=3>どうも、ありがとうございます。<br>そうですねえ、真弓は真優のことを知っていたわけですし、好きだった部分もあるんじゃないでしょうか。<br>まあ、いつも二人でいるので色んなところが見えてしまって、さながら結婚した後になんでこんな人と、みたいな心境もあると思います。複雑ですねえ。<br>では次回。</font></ul>
 </ul>
 </dl>
 </td></tr></table><br>
 </td></tr></table>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a></font></p>

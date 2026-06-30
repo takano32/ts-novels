@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�����������X�����i�@���z�f����</title>
+<title>ｔｏｓｈｉ９さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����������X�����i�@���z�f����</font>
+<font size=5>ｔｏｓｈｉ９さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi" name="F1">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="toshi9">
 <input type=hidden name="nj" value="VfvB2xEcHZ">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h PhZ9E0  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="PhZ9E0"> <Script language=vbscript>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード PhZ9E0  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="PhZ9E0"> <Script language=vbscript>
 <!--
  document.F1.rcode.value=document.F1.hrcode.value
  -->^n</script>
-<input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+<input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,14 +48,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[125]</font> <font size=4 color=#40c0c0> �w���`�S�x������ɂ͂������N���b�N�B</font>
+<font size=2>[125]</font> <font size=4 color=#40c0c0> 『奥義４』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/02/25 (��) 21:24:53 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201302251212453&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201302251212453"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/02/25 (月) 21:24:53 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201302251212453_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201302251212453"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�A���Ă����s�r��D���E�ҁH���N���ۘa��N���B���`�w�A��ڂ��x���g���Ă܂��܂��ЂƑ����c�c����A�����Ɨl�q������<br>
+<font size=3 color=#606060>【推薦文】帰ってきたＴＳ大好き忍者？少年藤丸和也クン。奥義『陰画移し』を使ってまたまたひと騒動……おや、いつもと様子が──<br>
 <a href=http://ts.novels.jp/novel/200606/27201201/ougi04.html target=_top>http://ts.novels.jp/novel/200606/27201201/ougi04.html</a></font>
 </td></table>
 </td></tr></table>
@@ -63,110 +63,110 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[124]</font> <font size=4 color=#40c0c0> Re:���@�������₩���A�L��</font>
+<font size=2>[124]</font> <font size=4 color=#40c0c0> Re:魔法少女さやか☆アキラ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2012/01/12 (��) 23:49:45 <strong>��</strong> toshi9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201201124234945&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201201124234945"></font>
+<font size=3 color=#606060><strong>▽</strong> 2012/01/12 (木) 23:49:45 <strong>▽</strong> toshi9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201201124234945_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201201124234945"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� hmk����<br>
-���ǂ݂��������A���肪�Ƃ��������܂����B<br>
-�y����ł��������܂����ł��傤���B<br>
-�������ł��i�O�O�j</font>
+<font size=3 color=#606060>▼ hmkさん<br>
+お読みいただき、ありがとうございました。<br>
+楽しんでいただけましたでしょうか。<br>
+嬉しいです（＾＾）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[123]</font> <font size=4 color=#40c0c0> ���@�������₩���A�L��</font>
+<font size=2>[123]</font> <font size=4 color=#40c0c0> 魔法少女さやか☆アキラ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2012/01/12 (��) 00:12:53 <strong>��</strong> hmk </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201201124001253&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201201124001253"></font>
+<font size=3 color=#606060><strong>▽</strong> 2012/01/12 (木) 00:12:53 <strong>▽</strong> hmk </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201201124001253_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201201124001253"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����������X����̍�i�͂ǂ���G��̈�i�ł��ˁB<br>
+<font size=3 color=#606060>ｔｏｓｈｉ９さんの作品はどれも秀逸の一品ですね。<br>
 <br>
-���y���l�ł����B</font>
+ご馳走様でした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[122]</font> <font size=4 color=#40c0c0> Re:�L��</font>
+<font size=2>[122]</font> <font size=4 color=#40c0c0> Re:猫野</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/12/24 (�y) 01:44:50 <strong>��</strong> toshi9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201112246014450&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201112246014450"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/12/24 (土) 01:44:50 <strong>▽</strong> toshi9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201112246014450_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201112246014450"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �L�삳��<br>
-�ǂ�ł����������肪�Ƃ��������܂����B<br>
-�u���������Ăق�Ƃ΂��v���Đ����Ă��܂������₩�B�����A�j�������߂Č����̂͂��̑�W�b�ł����B�ォ���U�b�����ĈႤ�^�������������₩��`���Ă݂����Ȃ�����ł���ˁB�ܘ_TS��i�Ƃ��Ăł����B���햼�͎�ł��i��</font>
+<font size=3 color=#606060>▼ 猫野さん<br>
+読んでいただきありがとうございました。<br>
+「あたしってほんとばか」って逝ってしまったさやか。私がアニメを初めて見たのはあの第８話でした。後から第６話を見て違う運命を持ったさやかを描いてみたくなったんですよね。勿論TS作品としてですが。武器名は趣味です（笑</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[121]</font> <font size=4 color=#40c0c0> �L��</font>
+<font size=2>[121]</font> <font size=4 color=#40c0c0> 猫野</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/12/23 (��) 10:07:48 <strong>��</strong> �L�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201112235100748&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201112235100748"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/12/23 (金) 10:07:48 <strong>▽</strong> 猫野 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201112235100748_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201112235100748"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ݂܂����Btoshi9���񂪁A�܂����������₩�ɒ��ڂ���Ƃ͎v���܂���ł����B����̌����́A�������ɓ񎟑n��Ƃ��Ă����肽���Ȃ�܂���ˁB�����ԕ���̕i������̓I�ɂȂ��Ă���̂������ł��ˁB�J�b�v�����O���邩�ȂƎv������A��l���Ƃ��₩�{�l�Ƃ̐S�̌𗬂�������Ă��ėǂ������ł��B</font>
+<font size=3 color=#606060>読みました。toshi9さんが、まさか美樹さやかに着目するとは思いませんでした。原作の結末は、たしかに二次創作としていじりたくなりますよね。乱れ飛ぶ武器の品名が具体的になっているのがいいですね。カップリングあるかなと思ったら、主人公とさやか本人との心の交流が書かれていて良かったです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[120]</font> <font size=4 color=#40c0c0> Re:���@�������₩���A�L��</font>
+<font size=2>[120]</font> <font size=4 color=#40c0c0> Re:魔法少女さやか☆アキラ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/12/14 (��) 00:22:19 <strong>��</strong> toshi9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201112143002219&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201112143002219"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/12/14 (水) 00:22:19 <strong>▽</strong> toshi9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201112143002219_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201112143002219"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �Ăї����l����<br>
-������i�ł����A�Ō�܂œǂ�ł����������肪�Ƃ��������܂����B<br>
-�J�߂Ă��������Ă���Ǝ󂯎���Ă�낵����ł���ˁi�O�O�j<br>
-�{�҂̂��̌����ɋy�Ԃׂ����Ȃ��ł����A����Ȍ����ǂ��������ł��傤�B</font>
+<font size=3 color=#606060>▼ 再び来た人さん<br>
+長い作品ですが、最後まで読んでいただきありがとうございました。<br>
+褒めていただいていると受け取ってよろしいんですよね（＾＾）<br>
+本編のあの結末に及ぶべくもないですが、こんな結末どうだったでしょう。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[119]</font> <font size=4 color=#40c0c0> ���@�������₩���A�L��</font>
+<font size=2>[119]</font> <font size=4 color=#40c0c0> 魔法少女さやか☆アキラ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/12/13 (��) 19:36:50 <strong>��</strong> �Ăї����l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201112132193650&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201112132193650"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/12/13 (火) 19:36:50 <strong>▽</strong> 再び来た人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201112132193650_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201112132193650"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̍�i��񎟌���i�ł��Ƃ͎v���܂���ł����E�E�E<br>
-�ŏ��������́A���쌠�Ɉ����|����Ȃ��̂��ȁ@�ƐS�z���܂�����<br>
-�Ō�܂Ō��đ��v���ƕ���悤�ɂȂ�܂���^^</font>
+<font size=3 color=#606060>あの作品を二次元作品でやるとは思いませんでした・・・<br>
+最初見た時は、著作権に引っ掛からないのかな　と心配しましたが<br>
+最後まで見て大丈夫だと分るようになりました^^</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[118]</font> <font size=4 color=#40c0c0> �w���@�������₩���A�L���x������ɂ͂������N���b�N�B</font>
+<font size=2>[118]</font> <font size=4 color=#40c0c0> 『魔法少女さやか☆アキラ』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/12/08 (��) 20:18:14 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201112084201814&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201112084201814"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/12/08 (木) 20:18:14 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201112084201814_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201112084201814"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�Q�O�P�P�N�b��̃A�j���A���̓񎟑n�삪���Ɂu���Ɂv�ɂ��o��B�u����v�̌��Ԃɏ���Ė��@�������g�p�����h��l���������^���ƁA�����Ą���<br>
+<font size=3 color=#606060>【推薦文】２０１１年話題のアニメ、その二次創作がついに「文庫」にも登場。「あれ」の口車に乗って魔法少女を“継いだ”主人公が見た真実と、そして──<br>
 <a href=http://ts.novels.jp/novel/201112/08201419/sayaka.html target=_top>http://ts.novels.jp/novel/201112/08201419/sayaka.html</a></font>
 </td></table>
 </td></tr></table>
@@ -174,44 +174,44 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[117]</font> <font size=4 color=#40c0c0> Re:�ǂ݂܂���</font>
+<font size=2>[117]</font> <font size=4 color=#40c0c0> Re:読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/07/28 (��) 23:55:26 <strong>��</strong> �����������X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201107284235526&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201107284235526"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/07/28 (木) 23:55:26 <strong>▽</strong> ｔｏｓｈｉ９ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201107284235526_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201107284235526"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���l�n�m�c�n����<br>
-�@�l�n�m�c�n����A�V���[�Y��ʂ��ăt�H���[���Ă����������肪�Ƃ��������܂����I<br>
-�@�����Đ^���������Ɛe�������F��o�������Ă��炢���肪�Ƃ��������܂����B<br>
-�@�������Ə��������Ă����̂ŁA�Ƃɂ����n�b�s�[�G���h�ŏI�点�邱�Ƃ��ł��ėǂ������ł���B<br>
-�@�m���ɓ�ɂ��Ă͑S������肫�ꂽ��ł͂Ȃ��A�ꕔ�͂�����Ɛ������Ă��܂���B�A���e�~�X�ɂƂ�����{�̂̓�ɂ��Ă͑䎌���Q�l�ɑz�����Ă��炤�Ƃ������Ƃł��ˁB<br>
+<font size=3 color=#606060>▼ＭＯＮＤＯさん<br>
+　ＭＯＮＤＯさん、シリーズを通してフォローしていただきありがとうございました！<br>
+　そして真理亜ちゃんと親父さんを友情出演させてもらいありがとうございました。<br>
+　長いこと書き続けていたので、とにかくハッピーエンドで終らせることができて良かったですよ。<br>
+　確かに謎については全部を語りきれた訳ではなく、一部はきちんと説明していません。アルテミスにとりついた本体の謎については台詞を参考に想像してもらうということですね。<br>
 <br>
-�� �L �삳��<br>
-�@�Ō�܂œǂ�ł��������Ă��肪�Ƃ��������܂����I<br>
-�@�����Ă��܂芈�􂳂��邱�Ƃ��ł��Ȃ�������ł����A�}�b�`��F��o�������Ă��炢���肪�Ƃ��������܂����B<br>
-�@�����̍����͂������Ȃ������Ƃ͌����Ă��A���󂳂ꂽ�����B���l�Y�����ĉ����̔��q�Ő���ɖ߂邩������Ȃ����A�{�X�L���������Ȃ��ɑޏꂵ���̂�����̂��b���B&lt;br&gt;������������]�n������܂����A�܂���肠�����I���ł��B<br>
-�@���ɂ̖��@�������m�A�ق�Ƃɋ��R�ł�����e����̃Z�[���Ƃقړ��������Ɋ������Ă��܂��܂����ˁB�ł��܂��N�����V���Ȃ��b����Ԃ�n�߂܂���A�����ƁB</font>
+▼ 猫 野さん<br>
+　最後まで読んでいただいてありがとうございました！<br>
+　そしてあまり活躍させることができなかったんですが、マッチを友情出演させてもらいありがとうございました。<br>
+　諸悪の根源はあっけなかったとは言っても、封印されただけ。恭四郎だって何かの拍子で正常に戻るかもしれないし、ボスキャラが死なずに退場したのが今回のお話し。&lt;br&gt;続きが書ける余地もありますが、まあ取りあえず終わりです。<br>
+　文庫の魔法少女モノ、ほんとに偶然ですが城弾さんのセーラとほぼ同じ時期に完結してしまいましたね。でもまた誰かが新たなお話しを綴り始めますよ、きっと。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[116]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[116]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/07/28 (��) 18:02:20 <strong>��</strong> �L �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201107284180220&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="201107284180220"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/07/28 (木) 18:02:20 <strong>▽</strong> 猫 野 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201107284180220_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="201107284180220"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ł��ˁB�ŏI�b�܂ŁA���������Ȃ��W�J�ł����B���l�������Ƃ��A���͂�����܂�����B&lt;br&gt;�����̍����͍Ŋ��A�������Ȃ������ł��ˁB���@��������(���m�ɂ͓��B���̂̃W��������)�����X�ƏI���Ȃ��ŁA���ɂ̍���̓W�J�͂ǂ��Ȃ�ł��傤�ˁB�������y���݂ɂ��Ă���܂��B</font>
+<font size=3 color=#606060>完結ですね。最終話まで、息をつかせない展開でした。怪人勢揃いとか、迫力がありましたよ。&lt;br&gt;諸悪の根源は最期、あっけなかったですね。魔法少女もの(正確には特撮もののジャンルか)が次々と終わるなかで、文庫の今後の展開はどうなるでしょうね。次回作を楽しみにしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="toshi9">
@@ -219,16 +219,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="toshi9">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=toshi9">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_toshi9.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

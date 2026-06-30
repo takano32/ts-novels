@@ -1,49 +1,49 @@
-<html><head><meta http-equiv=Content-Typecontent=text/html; charset=x-sjis>
-<title>¡ ­”N­—•¶ŒÉ Ž©—R“o˜^§ƒŠƒ“ƒN ¡</title>
+<html><head><meta http-equiv=Content-Typecontent=text/html; charset=UTF-8>
+<title>â–  å°‘å¹´å°‘å¥³æ–‡åº« è‡ªç”±ç™»éŒ²åˆ¶ãƒªãƒ³ã‚¯ â– </title>
 </head>
 <body background="" bgcolor="#ffffff" text="#000000" link="#222222" alink="#ff0000" vlink="#777777">
 <p align=center><center>
-<font color="#000000" size=5><b>¡ ­”N­—•¶ŒÉ Ž©—R“o˜^§ƒŠƒ“ƒN ¡</b></font><br>
-<font size=2>“o˜^‚ÍŽ©—R‚És‚Á‚Ä‚­‚¾‚³‚¢B</font>
+<font color="#000000" size=5><b>â–  å°‘å¹´å°‘å¥³æ–‡åº« è‡ªç”±ç™»éŒ²åˆ¶ãƒªãƒ³ã‚¯ â– </b></font><br>
+<font size=2>ç™»éŒ²ã¯è‡ªç”±ã«è¡Œã£ã¦ãã ã•ã„ã€‚</font>
 <table width=85% border=0 cellpadding=20><tr>
 <td align=center bgcolor=#FFFFFF>
 <table border=3 cellpadding=5><tr>
-<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>¡<a href=./weblink.cgi?link=new&p=1>V’…ƒTƒCƒg</a>¡
-¡<a href="http://ts.novels.jp/">­”N­—•¶ŒÉ‚É–ß‚é</a>¡ ¡<a href=./weblink.cgi?page=add>LINK“o˜^</a>¡
-¡<a href=./weblink.cgi?page=disa>•ÏX/íœ</a>¡
-¡<a href=./weblink.html>“o˜^‚ÌŒˆ‚Ü‚è</a>¡
+<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>â– <a href=./weblink.cgi?link=new&p=1>æ–°ç€ã‚µã‚¤ãƒˆ</a>â– 
+â– <a href="../../index.html">å°‘å¹´å°‘å¥³æ–‡åº«ã«æˆ»ã‚‹</a>â–  â– <a href=./weblink.cgi?page=add>LINKç™»éŒ²</a>â– 
+â– <a href=./weblink.cgi?page=disa>å¤‰æ›´/å‰Šé™¤</a>â– 
+â– <a href=./weblink.html>ç™»éŒ²ã®æ±ºã¾ã‚Š</a>â– 
 </b></font></td></tr></table></td></tr>
 <tr><td align=center bgcolor="#EEFFFF">
-<form action=./weblink.cgi?search=&p=1 method=POST><font size=2>”¼ŠpƒXƒy[ƒX‚ÅuANDvŒŸõ‚ªo—ˆ‚Ü‚·B</font><br>
+<form action=./weblink.cgi?search=&p=1 method=POST><font size=2>åŠè§’ã‚¹ãƒšãƒ¼ã‚¹ã§ã€ŒANDã€æ¤œç´¢ãŒå‡ºæ¥ã¾ã™ã€‚</font><br>
 <input type=hidden name=semode value="on"><input type=hidden name=p value="1">
-<input type=text size=20 name=search> <input type=submit value="@ŒŸõ@"></form>
-<font size=2>ƒf[ƒ^[‘”71ŒAu<font color="ffffaa">¡</font>v‚Í14“úˆÈ“à‚Ìƒjƒ…[ƒTƒCƒg—L‚è</font><br>
+<input type=text size=20 name=search> <input type=submit value="ã€€æ¤œç´¢ã€€"></form>
+<font size=2>ãƒ‡ãƒ¼ã‚¿ãƒ¼ç·æ•°71ä»¶ã€ã€Œ<font color="ffffaa">â– </font>ã€ã¯14æ—¥ä»¥å†…ã®ãƒ‹ãƒ¥ãƒ¼ã‚µã‚¤ãƒˆæœ‰ã‚Š</font><br>
 <table width=90% cellpadding=3>
-<tr><th nowrap colspan=6 bgcolor="#DDFFDD">ƒJƒeƒSƒŠ[</th>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0001&p=1>¬à‘S”Ê</a></th><td align=center width=5%>(25)</td>
-<td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0002&p=1>ƒVƒFƒAƒ[ƒ‹ƒh</a></th><td align=center width=5%>(1)</td></tr>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0003&p=1>SFŒn</a></th><td align=center width=5%>(3)</td>
-<td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0004&p=1>ƒtƒ@ƒ“ƒ^ƒW[</a></th><td align=center width=5%>(5)</td></tr>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0005&p=1>“ñŽŸ’˜ì•¨Œn</a></th><td align=center width=5%>(4)</td>
-<td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0006&p=1>ƒŠƒŒ[¬à</a></th><td align=center width=5%>(2)</td></tr>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0007&p=1>‰æ‘œŒn</a></th><td align=center width=5%>(7)</td>
-<td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0008&p=1>¬à“o˜^,•]˜_,î•ñŒn</a></th><td align=center width=5%>(3)</td></tr>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0009&p=1>TSŒn‘S”Ê</a></th><td align=center width=5%>(12)</td>
+<tr><th nowrap colspan=6 bgcolor="#DDFFDD">ã‚«ãƒ†ã‚´ãƒªãƒ¼</th>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0001&p=1>å°èª¬å…¨èˆ¬</a></th><td align=center width=5%>(25)</td>
+<td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0002&p=1>ã‚·ã‚§ã‚¢ãƒ¯ãƒ¼ãƒ«ãƒ‰</a></th><td align=center width=5%>(1)</td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0003&p=1>SFç³»</a></th><td align=center width=5%>(3)</td>
+<td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0004&p=1>ãƒ•ã‚¡ãƒ³ã‚¿ã‚¸ãƒ¼</a></th><td align=center width=5%>(5)</td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0005&p=1>äºŒæ¬¡è‘—ä½œç‰©ç³»</a></th><td align=center width=5%>(4)</td>
+<td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0006&p=1>ãƒªãƒ¬ãƒ¼å°èª¬</a></th><td align=center width=5%>(2)</td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0007&p=1>ç”»åƒç³»</a></th><td align=center width=5%>(7)</td>
+<td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0008&p=1>å°èª¬ç™»éŒ²,è©•è«–,æƒ…å ±ç³»</a></th><td align=center width=5%>(3)</td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0009&p=1>TSç³»å…¨èˆ¬</a></th><td align=center width=5%>(12)</td>
 <td align=center width=5%><font color="333333"></font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0010&p=1></a></th><td align=center width=5%></td></tr>
-<tr><th nowrap colspan=6><br>@</br></th>
-<tr><th bgcolor="#FFFF88" nowrap colspan=6>­”N­—•¶ŒÉAƒIƒXƒXƒƒŠƒ“ƒNI</th>
-<tr bgcolor="#FFFFEF"><td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wlm0001&p=1>‚¨Š©‚ßƒTƒCƒg</a></th><td align=center width=5%>(2)</td>
-<td align=center width=5%><font color="333333">¡</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wlm0002&p=1>‰^‰cˆÏˆõ‚ÌWebƒy[ƒW</a></th><td align=center width=5%>(1)</td></tr>
+<tr><th nowrap colspan=6><br>ã€€</br></th>
+<tr><th bgcolor="#FFFF88" nowrap colspan=6>å°‘å¹´å°‘å¥³æ–‡åº«ã€ã‚ªã‚¹ã‚¹ãƒ¡ãƒªãƒ³ã‚¯ï¼</th>
+<tr bgcolor="#FFFFEF"><td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wlm0001&p=1>ãŠå‹§ã‚ã‚µã‚¤ãƒˆ</a></th><td align=center width=5%>(2)</td>
+<td align=center width=5%><font color="333333">â– </font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wlm0002&p=1>é‹å–¶å§”å“¡ã®Webãƒšãƒ¼ã‚¸</a></th><td align=center width=5%>(1)</td></tr>
 </table>
 <br><hr>
 <form action=./weblink.cgi?ma= method=POST>
 <input type=hidden name=page value="add">
 <input type=hidden name=mk value="1">
 <input type=password name=maskey>
-<input type=submit value="ŠÇ—ŽÒê—p">
+<input type=submit value="ç®¡ç†è€…å°‚ç”¨">
 </form>
 
 </td></tr></table>
 </center></p>
 <p align=right><font size=2><a href="http://www.pmcj.com/" target="top">WEB LINK [SPS] ver3.34 by Tomey</a></font></p>
-<p> ƒŠƒ“ƒNW‚É‚Â‚¢‚Ä‚Ì‚¨–â‚¢‡‚í‚¹@<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>
+<p> ãƒªãƒ³ã‚¯é›†ã«ã¤ã„ã¦ã®ãŠå•ã„åˆã‚ã›ã€€<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>

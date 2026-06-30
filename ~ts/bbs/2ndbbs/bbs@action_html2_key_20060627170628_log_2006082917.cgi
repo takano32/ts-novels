@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,46 +52,46 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�A�i���O������@�d�]��`��
+アナログ所さん　電脳大冒険
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�o���b�g����</center><tr>
+<center>作者：バレットさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-���p�[�e�B�[�Љ<br><br>�T���_�[�o�[�h<br><br>�@�C���f�B�[������ɁA�ЂƂ݁A�W���[�W�̂R�l����Ȃ�p�[�e�B�[�B<br>�W���f�B�ȊO�͂q�o�f�ɋ������Ȃ����A�o�[�`�����Q�[���̒��ł�<br>�C�̒u���Ȃ����ԓ��m�A��v�c�����ē���؂�J���B<br>�@�����Ƃ��ẮA�C���f�B�[���E�ҁA�ЂƂ݂����@�g���A�W���[�W���b�g���B<br><br><br>�`�[���E�t�����^��<br><br>�@�|������ɁA�~��A�g�[�}�̂R�l����Ȃ�p�[�e�B�[�B<br>��҂��Ⴄ�����ɂ����������������A���Ƃ�����̍U���^�p�[�e�B�[�B<br>���ꂼ��̓������������A�Q�[�����U�����Ă䂭�B<br>�@�����Ƃ��ẮA�|���K���E�H�[���A�A�~�Ⴊ���g���A�g�[�}���t�@�C�^�[�B<br><br><br>�u���b�N�u���C�Y<br><br>�@����̂��b�̎�l���Q�l����Ȃ�p�[�e�B�[�B<br>�P�l�́A�Q�[���D���̂P�T�Ώ��N�E�t�����i�͂邩���@����j�B<br>�����P�l�́A�l�b�g��ʂ��Đ��ƗF�B�ɂȂ������H���A�i���Ƃ́@�邠�j�B<br>�ǂ�����n���h���l�[���B<br>�@�Q�[����ʂ��Ă̂��̂Q�l�̖ڕW�́A�����T���̗��B<br>������|���Ƃ����������̂Ȃ�Ăǂ��ł������݂����i���������j�B<br>�@�����Ƃ��ẮA�����E�ҁA���A�����쌭���B<br><br>���Q�[���T�v��<br><br>�@���̃Q�[���̖ړI�́A�I�����C���E�o�[�`�������[���h�ł̐��E��������A�����ԓ��ɂR�̐Δł������o���A�Í������T���h���X��|�����ƁB<br>�@���E�̓T���h���X�̍��_�Ɉ��ݍ��܂�悤�Ƃ��Ă���B������~���̂��A�Q�[���w�_�[�N�E�L���O�_���x�̃G���g���[�v���C���[�Ȃ̂��B<br>�@���E�̕���͂U�O�����ƂɋN����B����܂łɐH���~�߂邱�Ƃ��ł���΃Q�[���N���A�A�ł��Ȃ���΁A�Q�[���͍ŏ�����n�߂邱�ƂɂȂ�B���R�A���x���ƈ��̃A�C�e���͎����z�����Ƃ��ł��Ȃ��̂ŗv���ӁB<br>�@�����A��������U�O���̗P�\������B�G���g���[�v���C���[���N�́A�Ó��T���h���X�Ɍ����āA�`���̗��ɏo��̂��I<br><br>�@�Ƃ���ł����B<br>�@�R�c����Ɠ�삳��́A���x�݂Ȃ́H<br><br>���c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c<br><br>�@�@�@�A�i���O������<br><br>���c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c<br><br>�@����̕���́A�S���łT�B<br><br>�s�͂��܂�̒��@�u���C���G���u�����t<br>�@���₩�Ȓ��ł���B�������v���C���[�̖`���̂͂��܂�̒n�ł���A�����̕���h��A���̃A�C�e���A�f�Ï��A���̏h�ȂǁA������{�݂�������Ă��钬�ł�����B<br>�@�p���N��h�����߁A����͂܂����������ł��u���b�N���Ƃɕ������A��C�ɍ��ݍ������Ƃ͂Ȃ��B<br><br>�s�Â̐X�@���C�A�E�I�u�E�h���S���t<br>�@���������Ă���Ƃ����A���������Ƃ����X�B���łȂ��Ă����܂��܂ȗ��n�n�����X�^�[�������B<br><br>�s�ΎR�̓��A�@�t���C���r�[�g�t<br>�@������ݓ���ƉΎR�̓{�肪�v���C���[�������P���B�ΎR�̔M�ƃ}�O�}�̉^���𗘗p�����g���b�v�������A�����o�����΃Q�[���I�[�o�[�m���B<br><br>�s�r�ꂽ�C�@�t�@���g���Y�E�A�C�t<br>�@����̂Ŏ��񂾖S�삽���̉��O���A�S�ւƎp��ς��ăv���C���[�����ɏP���|����B�C��n��ɂ́A���A�A�C�e���w���̗��j��(���o��)�x���Ȃ���΁A�����ɓn�肫�邱�Ƃ��ł��Ȃ��B<br><br>�s�����鍻���@�u���b�f�B�[�f�U�[�g�t<br>�@�s���̃����X�^�[���A�|���Ă��|���Ă��P���|�����Ă���B����𑒂苎����@�́A�R�̐Δł�g�ݍ��킹����ԂŐi�ނ��ƁB�ЂƂ���Z�����_�Ɉ͂܂�Ă����ɁA�T���h���X�͐��E����󂳂���@������������Ă���B<br><br>����������������������������������������<br><br>�@�v������������<br>�@����̎�l���͏����񂽂����Ⴀ��܂���B�u���b�N�u���C�Y�̐��ƃ��A�̂Q�l�ł��B<br><br>����������������������������������������<br><br><br>�@���݁A�V�K�v���C���[��W���I<br>�@����ȕ��Q�[�A���傤���Ȃ�����Q�����Ă�����Đl����������W���I<br>�@���̏�ł��݂܂���A����������Ƃ��肩�i�V������̍�i����A�P�����قǎ؂�Ă��܂����A<br>���񂱂̐l�ނ�݂��Ă��������B<br><br>�@���ɂ��`���ҕ�W���ł��B<br>
+＜パーティー紹介＞<br><br>サンダーバード<br><br>　インディーを隊長に、ひとみ、ジョージの３人からなるパーティー。<br>ジュディ以外はＲＰＧに興味がないが、バーチャルゲームの中では<br>気の置けない仲間同士、一致団結して道を切り開く。<br>　役割としては、インディーが勇者、ひとみが魔法使い、ジョージが獣使い。<br><br><br>チーム・フルメタル<br><br>　鋼を隊長に、冬雪、トーマの３人からなるパーティー。<br>作者が違うだけにいざこざも多いが、やるときゃやるの攻撃型パーティー。<br>それぞれの特性を活かし、ゲームを攻略してゆく。<br>　役割としては、鋼がガンウォーリア、冬雪が水使い、トーマがファイター。<br><br><br>ブラックブレイズ<br><br>　今回のお話の主人公２人からなるパーティー。<br>１人は、ゲーム好きの１５歳少年・春風旋（はるかぜ　せん）。<br>もう１人は、ネットを通じて旋と友達になった音羽ルア（おとは　るあ）。<br>どちらもハンドルネーム。<br>　ゲームを通じてのこの２人の目標は、自分探しの旅。<br>魔王を倒すとかそういうのなんてどうでもいいみたい（おいおい）。<br>　役割としては、旋が勇者、ルアが精霊遣い。<br><br>＜ゲーム概要＞<br><br>　このゲームの目的は、オンライン・バーチャルワールドでの世界を歩き回り、一定期間内に３つの石版を見つけ出し、暗黒魔王サンドロスを倒すこと。<br>　世界はサンドロスの黒雲に飲み込まれようとしている。それを救うのが、ゲーム『ダーク・キングダム』のエントリープレイヤーなのだ。<br>　世界の崩壊は６０日ごとに起きる。それまでに食い止めることができればゲームクリア、できなければ、ゲームは最初から始めることになる。当然、レベルと一定のアイテムは持ち越すことができないので要注意。<br>　さあ、明日から６０日の猶予がある。エントリープレイヤー諸君は、妥当サンドロスに向けて、冒険の旅に出るのだ！<br><br>　ところでさぁ。<br>　山田さんと南野さんは、お休みなの？<br><br>＠……………………………………………………<br><br>　　　アナログ所さん<br><br>＠……………………………………………………<br><br>　物語の舞台は、全部で５つ。<br><br>《はじまりの町　ブレイヴエンブレム》<br>　穏やかな町である。ここがプレイヤーの冒険のはじまりの地であり、多くの武器防具、旅のアイテム、診療所、旅の宿など、あらゆる施設がそろっている町でもある。<br>　パンクを防ぐため、舞台はまったく同じでもブロックごとに分けられ、一気に混み合うことはない。<br><br>《古の森　ライア・オブ・ドラゴン》<br>　龍が眠っているとされる、うっそうとした森。龍でなくてもさまざまな陸地系モンスターが現れる。<br><br>《火山の洞窟　フレイムビート》<br>　一歩踏み入ると火山の怒りがプレイヤーたちを襲う。火山の熱とマグマの運動を利用したトラップが多く、投げ出されればゲームオーバー確実。<br><br>《荒れた海　ファントムズ・アイ》<br>　水難事故で死んだ亡霊たちの怨念が、鬼へと姿を変えてプレイヤーたちに襲い掛かる。海を渡るには、レアアイテム『光の羅針盤(ラバン)』がなければ、無事に渡りきることができない。<br><br>《死せる砂漠　ブラッディーデザート》<br>　不死のモンスターが、倒しても倒しても襲い掛かってくる。これを葬り去る方法は、３つの石版を組み合わせた状態で進むこと。ひときわ濃い黒雲に囲まれている城に、サンドロスは世界を崩壊させる機会をうかがっている。<br><br>＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞<br><br>　Ｗａｒｎｉｎｇ<br>　今回の主人公は所さんたちじゃありません。ブラックブレイズの旋とルアの２人です。<br><br>＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜＜<br><br><br>　現在、新規プレイヤー募集中！<br>　こんな糞ゲー、しょうがないから参加してやるよって人ももちろん募集中！<br>　この場ですみません、流離太さんときりか進之助さんの作品から、１名ずつほど借りていますが、<br>是非この人材を貸してください。<br><br>　他にも冒険者募集中です。<br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-<a href=mailto:k_saiyuuki@yahoo.co.up>�o���b�g</a>
+<a href=mailto:k_saiyuuki@yahoo.co.up>バレット</a>
 </address>
-2006�N06��28��(��) 20��50��40�b ���J<br>
+2006年06月28日(水) 20時50分40秒 公開<br>
 <!--59.171.37.215-->
-<font color=red>�����̍�i�̒��쌠�̓o���b�g����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はバレットさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�|�F���X�ł����A�ׂ�邩������܂���B<br>�o���b�g�F�߂������ƌ����ȁI<br>
+鋼：今更ですが、潰れるかもしれません。<br>バレット：悲しいこと言うな！<br>
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3><th colspan=4>
-���z�L���̓��e�͌��݂���܂���B
+感想記事の投稿は現在ありません。
 </th></tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -99,24 +99,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20060627170628">
 <input type=hidden name="num_r" value="20060627170628">
 <input type=hidden name="url" value="">
@@ -132,17 +132,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=2006082917>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20060627170628">
 <input type=hidden name="log" value="2006082917">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -152,9 +152,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

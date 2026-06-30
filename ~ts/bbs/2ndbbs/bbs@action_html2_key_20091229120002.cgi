@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,63 +52,63 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-���������ł��Q
+けいたいでんわ２
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�Ȃ܂����̂���</center><tr>
+<center>作者：なまけものさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�~���������A�g�ѓd�b���e���r�V���b�s���O�Őe�ɁA�˂����Ĕ����Ă�������B<br>���Z���ɂ��Ȃ��āA�u�_�`�v����̘A��������̌Œ�d�b�����A�ƌ����̂̓I�������Œp�������������c<br>�Ƃ��낪�A���̌g�сu�_�`�v�S�����畷�����d�b�ԍ��ɑS�Čq����Ȃ��c����ǂ��납�A����̌Œ�d�b�ɂ��q����Ȃ��c<br>�������u�_�`�v����A�����Ă��_���A���[�������񂺂�_���A����Ɏg�������킩��Ȃ��c���וi�����`�H�c�ԕi���Ă��I<br>���ɗ��Ă���Ƃ���ɁA�d�b���|�����Ă����A����H�c���ĂȂ��̂��c�H<br><br>�u���������A�c���ł��v<br>�u���̐��A���c�A����`�Ȃ������`�v<br>�u�c�H�c�N�H�v<br><br>�N���H�Ⴂ���݂��������A�S�����肪�Ȃ��A�w�Z�͒j�q�Z�����c���A���w�Z�̓������H����ɂ��Ă��H�I���̖��O�Ăю̂āH<br>����̖��O�͓c�����q�i���Ȃ��Ƃ����j�����͓����ŁA���O���������ɈႤ�A�c�e�ʂ����H�A�������I���͂���Ȃ��B<br>�b������Ɓc�������̓I���̂��Ƃ͒m���Ă���c���Ȃ�ڂ����c�������ޏ��̎��͑S���m��Ȃ��c�s�v�c���B<br>���ꂩ�玞�X�A�ޏ�����d�b���|�����Ă���悤�ɂȂ����A���񂾂�e�����Ȃ��k��������l�ɂȂ��Ă����c<br>���e�ɕ����Ă݂����A����Ȗ��O�̐e�ʂ͂��Ȃ��炵���A�܂����e���̉B���q����ˁ[���낤�ȁB<br>�ޏ��̓d�b�ԍ������s�v�c�Ȏ��ɁA�I���̓d�b�ԍ��ƕς��Ȃ��H���̌g�т͂���ς���Ă���̂��낤�B<br>�������ԕi��������悤�Ƃ���ƁA�▭�ȃ^�C�~���O�Ŕޏ�����d�b�����蒆�f����Ă��܂��B<br>����ɔޏ��Ƃ̉�b���Ƃ����̂́A�c����B<br>������ޏ�����\�t�ʐ^�̃��[���������Ă����A��ʂɎʃ��ƌ������̂炵���c<br>�J���C�C�A���Ȃ�̔��������A�h�^�񒆒����X�g���C�N�A�����ځA�΂��قړ������������͈�ʉ����낤�B<br>�I���͂��Ȃ�C�ɓ����Ă��܂����A���ꂩ������x���d�b�Řb���������A�Z��ł���Z���Ȃǂ͋����ĖႦ�Ȃ������B<br>���������X�����Ă���Y�t�ʐ^�⓮�������ƃo�b�N�̕��i���ǂ����A�I���̏Z��ł��邱�̒��炵�����ƂɋC�������B<br>������I���͂ǂ����Ă��A������A����Ă݂�������`�����A�I���̖{�S�������B<br><br>�u�ق�Ƃ��ɁA�}�W�ɂ��̎p�������́H�v<br>�u�����I�A��ڂ����ŗǂ�����c�v<br>�u����ς�A�������Ɓc�����̂ˁc�{���ɗǂ��́H���Ď~�߂��Ȃ����c�v<br>�u�������H�v<br>�u���@�́c�Q�ԖڂɓY�t�����ʐ^��I��Łc�c�c�v<br><br>�|�`�b�Ƃȁc<br><br>�I���́c�킽���͔ޏ��Ɍ�����܂܂ɉ����l�����ɁA���̂Ƃ���ɁA���삵�Ă��܂����c����������S�Łc�c<br>���ǉ����ł����ǁc�c�{�l����Ȃ��́c�H<br><br>���̌�̐����́A���߂͌˘f�������̂́A���̎q���~�����������e�ɑ劽�}����Ă��܂����A�s�r�̂��񑩂��Ȃ��c<br>�������Ă݂�ƁB<br>�d�Ԃ͐�p�ԗ��ł��ł�����邵�A���f�B�X�f�[�Ŋ���������邵���B<br>�w�Z�ł͑S�Z���k���璍�ڂ���邵���A����ɒj����킸���x����������邵���c�y�����ł����A�y�������B<br>���̎q�̐������ǂ����Ȃ��āA���񂾂�v����悤�ɂȂ��Ă��܂����B<br>���낻���N���Ȃ��H�c�����̌g�єԍ��Ɋ|���Ă݂悤���ȁc�c�c
+欲しかった、携帯電話をテレビショッピングで親に、ねだって買ってもらった。<br>高校生にもなって、「ダチ」からの連絡が自宅の固定電話だけ、と言うのはオレだけで恥ずかしかった…<br>ところが、この携帯「ダチ」全員から聞いた電話番号に全て繋がらない…それどころか、自宅の固定電話にも繋がらない…<br>もちろん「ダチ」から、かけてもダメ、メールもぜんぜんダメ、さらに使い方がわからない…欠陥品だぁ〜？…返品してやる！<br>頭に来ているところに、電話が掛かってきた、あれ？…壊れてないのか…？<br><br>「もしもし、田中です」<br>「その声、稔…、きゃ〜なつかしぃ〜」<br>「…？…誰？」<br><br>誰だ？若い女みたいだが、心当たりがない、学校は男子校だし…小、中学校の同級生？それにしても？オレの名前呼び捨て？<br>相手の名前は田中稔子（たなかとしこ）名字は同じで、名前だけ微妙に違う、…親戚かぁ？、しかしオレはしらない。<br>話をすると…向こうはオレのことは知っている…かなり詳しく…しかし彼女の事は全く知らない…不思議だ。<br>それから時々、彼女から電話が掛かってくるようになった、だんだん親しくなり冗談も言える様になってきた…<br>両親に聞いてみたが、そんな名前の親戚はいないらしい、まさか親父の隠し子じゃねーだろうな。<br>彼女の電話番号だが不思議な事に、オレの電話番号と変わらない？この携帯はやっぱり壊れているのだろう。<br>しかし返品や交換しようとすると、絶妙なタイミングで彼女から電話が入り中断されてしまう。<br>それに彼女との会話がとぎれるのは、…困る。<br>ある日彼女から貼付写真のメールが送られてきた、一般に写メと言うものらしい…<br>カワイイ、かなりの美少女だ、ド真ん中直球ストライク、見た目、歳もほぼ同じかもしくは一つ位下だろう。<br>オレはかなり気に入ってしまった、それからも何度か電話で話をしたが、住んでいる住所などは教えて貰えなかった。<br>しかし時々送られてくる添付写真や動画を見るとバックの風景がどうも、オレの住んでいるこの町らしいことに気がついた。<br>ある日オレはどうしても、会いたい、会ってみたい事を伝えた、オレの本心だった。<br><br>「ほんとうに、マジにこの姿見たいの？」<br>「そう！、一目だけで良いから…」<br>「やっぱり、同じこと…言うのね…本当に良いの？って止められないか…」<br>「同じ事？」<br>「方法は…２番目に添付した写真を選んで………」<br><br>ポチッとな…<br><br>オレは…わたしは彼女に言われるままに何も考えずに、そのとおりに、操作してしまった…合いたい一心で……<br>結局会えたんですけど……本人じゃないの…？<br><br>その後の生活は、初めは戸惑ったものの、女の子が欲しかった両親に大歓迎されてしまった、ＴＳのお約束かなぁ…<br>生活してみると。<br>電車は専用車両でいつでも座れるし、レディスデーで割り引きあるしぃ。<br>学校では全校生徒から注目されるしぃ、一日に男女問わず何度か告白されるしぃ…楽しいですぅ、楽だしぃ。<br>女の子の生活も良いかなって、だんだん思えるようになってきました。<br>そろそろ一年かなぁ？…自分の携帯番号に掛けてみようかな………
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�Ȃ܂�����
+なまけもの
 </address>
-2009�N12��29��(��) 12��00��02�b ���J<br>
+2009年12月29日(火) 12時00分02秒 公開<br>
 <!--123.227.166.177-->
-<font color=red>�����̍�i�̒��쌠�͂Ȃ܂����̂���ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はなまけものさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�F���ʐM�^�C���p�g���[���K���̂Ȃ��A�^�L�I���ʐM�̈��p�H�Ȃ̂��Ȃ��A������g���ƕ󂭂��i�ԍ������H�j���藧���Ȃ��ł����B<br>���_�I�Ɍ���葁���F���ʐM�Ȃ̂ŁA�ł��������ȁA�E���V�}���ʁH�A�ł������Ă܂������H�c���������Łc
+宇宙通信タイムパトロール規制のない、タキオン通信の悪用？なのかなぁ、これを使うと宝くじ（番号くじ？）成り立たないですぅ。<br>理論的に光より早い宇宙通信なので、できそうかな、ウラシマ効果？、でも合ってますかぁ？…物理も苦手で…
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�X�T�V�邳�܂��肪�Ƃ��������܂��B<BR>���J�������`����ȁ`��ϑ傫�ȃe�[�}�ɓ��˂����񂶂������ł����`�A�ȒP�ɍl���Ă���ł����ǁc�_�C�������h�d���Ė����Ȃ������`����Ɣߌ��̓C�����ȁ`�B<BR>�킽������ɂ͍l���Ă݂܂����ǁA�����ɂǂ��Ղ�c�ł�����A�䂱���c���Ĉ����󂯂Ă�����Ƃ��܁A���܂��񂩂��`�`<BR>�ł��A�ƂĂ��������ł����B���肪�Ƃ��������܂��B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2010-01-01 12:16:21</td>
+<td style=font-size:10pt>９５７夜さまありがとうございます。<BR>え゛っえぇ〜そんな〜大変大きなテーマに頭突っ込んじゃったんですか〜、簡単に考えてたんですけど…ダイヤモンド硬くて磨けないかも〜それと悲劇はイヤだな〜。<BR>わたし成りには考えてみますけど、矛盾にどっぷり…できたら、我こそ…って引き受けてくれる作家さま、いませんかぁ〜〜<BR>でも、とても嬉しいですぅ。ありがとうございます。</td>
+<td>なまけもの</td>
+<td width=20%>■2010-01-01 12:16:21</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�����܂����������̎����̂��肢�������̂́A���ꂪ�I�C�f�v�X���Ɠ����\�������Ă��邩��ł��B<BR>�l�͖������������Ă��A���̖����ɂȂ��Ă��܂��^������t�炦�Ȃ��A���ăe�[�}���A<BR>�^�C���g���x���Ƃ������_���珑�������̂Ȃ��Ă����ł���B<BR>�t�ɁA���̌g�ѓd�b�ŉߋ��ɒʘb����ꍇ�́A���̖�����������`�̒ʘb�����L�蓾�Ȃ��Ƃ����^���_�I�ȏ���<BR>������΁A�^�C���p���h�b�N�X�����S�ɉ���ł��܂���ˁH�@���������Ӗ��ł��̍�i�̓_�C�������h�̌���<BR>�Ɍ������ł���B���Ȃ�@�艺������V�i���I���Ⴀ�Ȃ����Ȃ��B</td>
-<td>�X�T�V��</td>
-<td width=20%>��2009-12-30 18:19:47</td>
+<td style=font-size:10pt>厚かましくも導入の手入れのお願いをしたのは、これがオイデプス王と同じ構造をしているからです。<BR>人は未来を告げられても、その未来になってしまう運命から逆らえない、ってテーマを、<BR>タイムトラベルという視点から書いたものなっているんですよ。<BR>逆に、この携帯電話で過去に通話する場合は、その未来を見せる形の通話しか有り得ないという運命論的な条件<BR>をつければ、タイムパラドックスが完全に回避できますよね？　そういう意味でこの作品はダイヤモンドの原石<BR>に見えるんですよ。かなり掘り下げられるシナリオじゃあないかなあ。</td>
+<td>９５７夜</td>
+<td width=20%>■2009-12-30 18:19:47</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�X�T�V�邳�܁A�͂��߂܂��Ăł��A���肪�Ƃ��������܂��B<BR>���������ł��Q��Ɨ��������b�ɂł������A�e���r�V���b�s���O���瑱���Ă��܂�����A��̂��b�ɂ��č��΂ł��邩���A���������犷�����Ⴄ�Ɠ�������ł��B<BR>���z���肪�Ƃ��������܂��B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2009-12-30 18:08:42</td>
+<td style=font-size:10pt>９５７夜さま、はじめましてです、ありがとうございます。<BR>けいたいでんわ２を独立したお話にですかぁ、テレビショッピングから続いていますから、一つのお話にして作ればできるかも、導入部から換えちゃうと難しいかもです。<BR>感想ありがとうございます。</td>
+<td>なまけもの</td>
+<td width=20%>■2009-12-30 18:08:42</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�͂��߂܂��āB<BR>�����I�ɂ����������Q���Ǝv������A�^�C���p���h�b�N�X�ł����B<BR>�O��̑O��𐶂�������i�����ǁA�l�I�ɂ͑O������y���ɃA�C�f�A���ǂ��Ǝv���̂ŁA���̍�i�����œ�<BR>�������b�ɂȂ�悤�ȓ���������Ɗ������Ȃ��B</td>
-<td>�X�T�V��</td>
-<td width=20%>��2009-12-29 17:47:22</td>
+<td style=font-size:10pt>はじめまして。<BR>時期的にかさじそう２かと思ったら、タイムパラドックスですか。<BR>前作の前提を生かした作品だけど、個人的には前作よりも遥かにアイデアが良いと思うので、この作品だけで独<BR>立した話になるような導入があると嬉しいなあ。</td>
+<td>９５７夜</td>
+<td width=20%>■2009-12-29 17:47:22</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -116,24 +116,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20091229120002">
 <input type=hidden name="num_r" value="20091229120002">
 <input type=hidden name="url" value="">
@@ -149,17 +149,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20091229120002">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -169,9 +169,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*˜g‚Ì’è‹`*/
+/*æž ã®å®šç¾©*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*ˆê——‚Ì•\‘è‚Ì’è‹`*/
+/*ä¸€è¦§ã®è¡¨é¡Œã®å®šç¾©*/
 TR#tr2 {background-color: #4AFFD7}
-/*ˆê——‚Ì‹LŽ–—“‚Ì’è‹`*/
+/*ä¸€è¦§ã®è¨˜äº‹æ¬„ã®å®šç¾©*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX‚Ì’è‹`*/
+/*FORM INPUT BOXã®å®šç¾©*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX‚Ì’è‹`*/
+/*FORM SELECT BOXã®å®šç¾©*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMITƒ{ƒ^ƒ“‚Ì’è‹` D‚ðˆê‚Âí‚é‚ÆA—LŒø*/
+/*FORM SUBMITãƒœã‚¿ãƒ³ã®å®šç¾© Dã‚’ä¸€ã¤å‰Šã‚‹ã¨ã€æœ‰åŠ¹*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMITƒ{ƒ^ƒ“‚Ì’è‹` D‚ðˆê‚Âí‚é‚ÆA—LŒø*/
+/*FORM SUBMITãƒœã‚¿ãƒ³ã®å®šç¾© Dã‚’ä¸€ã¤å‰Šã‚‹ã¨ã€æœ‰åŠ¹*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX‚Ì’è‹`*/
+/*FORM RADIO CHECK BOXã®å®šç¾©*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*“ŠeFORM‚Ìˆê•”‚Ì’è‹` */
+/*æŠ•ç¨¿FORMã®ä¸€éƒ¨ã®å®šç¾© */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*ì•iƒ^ƒCƒgƒ‹•Ž¦‚Ì’è‹`(ƒ^ƒCƒgƒ‹‚É”wŒiF‚ð“ü‚ê‚È‚¢ê‡Abackground-color:#E6FFE6‚ðíœ)*/
+/*ä½œå“ã‚¿ã‚¤ãƒˆãƒ«ä¾®ãƒ²ã®å®šç¾©(ã‚¿ã‚¤ãƒˆãƒ«ã«èƒŒæ™¯è‰²ã‚’å…¥ã‚Œãªã„å ´åˆã€background-color:#E6FFE6ã‚’å‰Šé™¤)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*ì•i“à—e‚Ì•Ž¦’è‹`*/
+/*ä½œå“å†…å®¹ã®ä¾®ãƒ²å®šç¾©*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA‚Ì’è‹`*/
+/*FORM TEXTAREAã®å®šç¾©*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*ƒŠƒ“ƒNF‚ÌÝ’è*/
+/*ãƒªãƒ³ã‚¯è‰²ã®è¨­å®š*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,12 +52,12 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>­”N­—•¶ŒÉ@|@‘æ“ñŒfŽ¦”ÂEƒXƒg[ƒŠ[“¹ê</title>
+<title>å°‘å¹´å°‘å¥³æ–‡åº«ã€€âˆ’ã€€ç¬¬äºŒæŽ²ç¤ºæ¿ãƒ»ã‚¹ãƒˆãƒ¼ãƒªãƒ¼é“å ´</title>
 </head>
 <body background="" bgcolor=#ffffff text=navy>
 <center>
 <font style="font-size:20pt;font-weight:bold">
-­”N­—•¶ŒÉ@|@‘æ“ñŒfŽ¦”ÂEƒXƒg[ƒŠ[“¹ê
+å°‘å¹´å°‘å¥³æ–‡åº«ã€€âˆ’ã€€ç¬¬äºŒæŽ²ç¤ºæ¿ãƒ»ã‚¹ãƒˆãƒ¼ãƒªãƒ¼é“å ´
 </font>
 </center><br>
 <center>
@@ -67,22 +67,22 @@ A{TEXT-DECORATION:NONE};
 <table align=center id=id1>
 <tr id=tr3>
 <th>
-ÅVì•iW
+æœ€æ–°ä½œå“é›†
 </th>
 <!-- . --><!-- .. --><!-- 2003121121.txt --><th>
-<a href=?log=2003121121>ì•iW‚»‚Ì2</a>
+<a href=?log=2003121121>ä½œå“é›†ãã®2</a>
 </th>
 <!-- 2004101004.txt --><th>
-<a href=?log=2004101004>ì•iW‚»‚Ì3</a>
+<a href=?log=2004101004>ä½œå“é›†ãã®3</a>
 </th>
 <!-- anthology.txt --><!-- 2004101004page.txt --><th>
-<a href=?log=2004101004page>ì•iW‚»‚Ì4</a>
+<a href=?log=2004101004page>ä½œå“é›†ãã®4</a>
 </th>
 <!-- 2003121121?page.txt --><th>
-<a href=?log=2003121121?page>ì•iW‚»‚Ì5</a>
+<a href=?log=2003121121?page>ä½œå“é›†ãã®5</a>
 </th>
 <!-- 20031211....txt --><th>
-<a href=?log=20031211...>ì•iW‚»‚Ì6</a>
+<a href=?log=20031211...>ä½œå“é›†ãã®6</a>
 </th>
 </tr>
 </table>
@@ -91,7 +91,7 @@ A{TEXT-DECORATION:NONE};
 <tr>
 <th colspan=5>
 <font style="font-size:13pt">
-“ŠeLIST [ Œ»Ý 22 ì•iŒöŠJ’† ]
+æŠ•ç¨¿LIST [ ç¾åœ¨ 22 ä½œå“å…¬é–‹ä¸­ ]
 </font>
 </th>
 </tr>
@@ -99,51 +99,51 @@ A{TEXT-DECORATION:NONE};
 <input type=hidden name=action value="html4">
 <input type=hidden name="log" value="">
 <tr><th>
- ìŽÒ‚ðŒÀ’è‚µ‚Ä’Šo 
+ ä½œè€…ã‚’é™å®šã—ã¦æŠ½å‡º 
 <select name=sakusha>
-<option value=0>ìŽÒ‚ð‘I‘ð
-<option value="JJJJJJJJJ‚R">JJJJJJJJJ‚R
+<option value=0>ä½œè€…ã‚’é¸æŠž
+<option value="JJJJJJJJJï¼“">JJJJJJJJJï¼“
 <option value="RIEWE">RIEWE
 <option value="Taika">Taika
 <option value="hiro">hiro
 <option value="kardy">kardy
-<option value="">
-<option value="‚¢‚Æ‚¤">‚¢‚Æ‚¤
-<option value="‚±‚ÌŽsê">‚±‚ÌŽsê
-<option value="ƒLƒ“ƒO">ƒLƒ“ƒO
-<option value="ƒ‰ƒCƒ^[ƒ}ƒ“">ƒ‰ƒCƒ^[ƒ}ƒ“
-<option value="•”’">•”’
-<option value="_Šy">_Šy
-<option value="á‚Ì~‚é–é">á‚Ì~‚é–é
-<option value="–é–²">–é–²
+<option value="Â¥ï¼ï¼„">Â¥ï¼ï¼„
+<option value="ã„ã¨ã†">ã„ã¨ã†
+<option value="ã“ã®å¸‚å ´">ã“ã®å¸‚å ´
+<option value="ã‚­ãƒ³ã‚°">ã‚­ãƒ³ã‚°
+<option value="ãƒ©ã‚¤ã‚¿ãƒ¼ãƒžãƒ³">ãƒ©ã‚¤ã‚¿ãƒ¼ãƒžãƒ³
+<option value="é»’ç™½">é»’ç™½
+<option value="ç¥žæ¥½">ç¥žæ¥½
+<option value="é›ªã®é™ã‚‹å¤œ">é›ªã®é™ã‚‹å¤œ
+<option value="å¤œå¤¢">å¤œå¤¢
 </select>
-<input type=submit value=" ƒŠƒXƒg•\Ž¦ " class="d1">
+<input type=submit value=" ãƒªã‚¹ãƒˆè¡¨ç¤º " class="d1">
 </th>
 </form>
 <form method=post action=./bbs.cgi>
 <input type=hidden name=action value="html5">
 <input type=hidden name="log" value="">
 <th colspan=4>
- Œê‹å‚ðŽw’è‚µ‚Ä’Šo 
+ èªžå¥ã‚’æŒ‡å®šã—ã¦æŠ½å‡º 
 <input type=text name=serch size=16>
-<input type=submit value=" ŒŸõ " class="d1">
+<input type=submit value=" æ¤œç´¢ " class="d1">
 </th></tr>
 </form>
-<tr ID=tr2><TH WIDTH="50%">Title</th><TH WIDTH="10%">’˜ŽÒ</th><TH WIDTH="20%">“Še“ú</th><TH WIDTH="5%">RES</TH></tr>
+<tr ID=tr2><TH WIDTH="50%">Title</th><TH WIDTH="10%">è‘—è€…</th><TH WIDTH="20%">æŠ•ç¨¿æ—¥</th><TH WIDTH="5%">RES</TH></tr>
 </tr>
 <tr id="tr3">
 <th width=50%>
 <blink><font color=#ff0000><i>NEW!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20050105143848">
-•a‰@‚Ì“VŽgH</a>
+<a href="bbs@action_html2_key_20050105143848.cgi">
+ç—…é™¢ã®å¤©ä½¿ï¼Ÿ</a>
 </font>
 </th>
 <td>
 <a href="mailto:hirotaka121-lj@infoseek.jp">hiro</a>
 </td>
-<td id=td1>2005”N01ŒŽ05“ú(…) 14Žž38•ª48•b</td>
+<td id=td1>2005å¹´01æœˆ05æ—¥(æ°´) 14æ™‚38åˆ†48ç§’</td>
 <td align=right>
 1
 </td>
@@ -152,14 +152,14 @@ A{TEXT-DECORATION:NONE};
 <blink><font color=#ff0000><i>UP!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20050103204240">
-ƒLƒIƒNƒmƒAƒgƒTƒL@”ÔŠO•Ò‚»‚Ì‚R@i40KBj</a>
+<a href="bbs@action_html2_key_20050103204240.cgi">
+ã‚­ã‚ªã‚¯ãƒŽã‚¢ãƒˆã‚µã‚­ã€€ç•ªå¤–ç·¨ãã®ï¼“ã€€ï¼ˆ40KBï¼‰</a>
 </font>
 </th>
 <td>
 <a href="mailto:tik@mbr.ocn.ne.jp">Taika</a>
 </td>
-<td id=td1>2005”N01ŒŽ03“ú(ŒŽ) 21Žž03•ª17•b</td>
+<td id=td1>2005å¹´01æœˆ03æ—¥(æœˆ) 21æ™‚03åˆ†17ç§’</td>
 <td align=right>
 1
 </td>
@@ -168,14 +168,14 @@ A{TEXT-DECORATION:NONE};
 <blink><font color=#ff0000><i>UP!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20050103204049">
-ƒLƒIƒNƒmƒAƒgƒTƒL@”ÔŠO•Ò‚»‚Ì‚Q@i24KBj</a>
+<a href="bbs@action_html2_key_20050103204049.cgi">
+ã‚­ã‚ªã‚¯ãƒŽã‚¢ãƒˆã‚µã‚­ã€€ç•ªå¤–ç·¨ãã®ï¼’ã€€ï¼ˆ24KBï¼‰</a>
 </font>
 </th>
 <td>
 <a href="mailto:tik@mbr.ocn.ne.jp">Taika</a>
 </td>
-<td id=td1>2005”N01ŒŽ03“ú(ŒŽ) 21Žž02•ª38•b</td>
+<td id=td1>2005å¹´01æœˆ03æ—¥(æœˆ) 21æ™‚02åˆ†38ç§’</td>
 <td align=right>
 0
 </td>
@@ -184,14 +184,14 @@ A{TEXT-DECORATION:NONE};
 <blink><font color=#ff0000><i>UP!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20050103203902">
-ƒLƒIƒNƒmƒAƒgƒTƒL@–‹ŠÔ@i05KBj </a>
+<a href="bbs@action_html2_key_20050103203902.cgi">
+ã‚­ã‚ªã‚¯ãƒŽã‚¢ãƒˆã‚µã‚­ã€€å¹•é–“ã€€ï¼ˆ05KBï¼‰ </a>
 </font>
 </th>
 <td>
 <a href="mailto:tik@mbr.ocn.ne.jp">Taika</a>
 </td>
-<td id=td1>2005”N01ŒŽ03“ú(ŒŽ) 20Žž58•ª48•b</td>
+<td id=td1>2005å¹´01æœˆ03æ—¥(æœˆ) 20æ™‚58åˆ†48ç§’</td>
 <td align=right>
 1
 </td>
@@ -200,14 +200,14 @@ A{TEXT-DECORATION:NONE};
 <blink><font color=#ff0000><i>UP!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20050103075339">
-Î‚¤AI</a>
+<a href="bbs@action_html2_key_20050103075339.cgi">
+ç¬‘ã†AI</a>
 </font>
 </th>
 <td>
-‚±‚ÌŽsê
+ã“ã®å¸‚å ´
 </td>
-<td id=td1>2005”N01ŒŽ03“ú(ŒŽ) 09Žž34•ª55•b</td>
+<td id=td1>2005å¹´01æœˆ03æ—¥(æœˆ) 09æ™‚34åˆ†55ç§’</td>
 <td align=right>
 1
 </td>
@@ -216,210 +216,210 @@ A{TEXT-DECORATION:NONE};
 <blink><font color=#ff0000><i>NEW!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20050103093258">
-Î‚¤AI@Ver.2</a>
+<a href="bbs@action_html2_key_20050103093258.cgi">
+ç¬‘ã†AIã€€Ver.2</a>
 </font>
 </th>
 <td>
-‚±‚ÌŽsê
+ã“ã®å¸‚å ´
 </td>
-<td id=td1>2005”N01ŒŽ03“ú(ŒŽ) 09Žž32•ª58•b</td>
+<td id=td1>2005å¹´01æœˆ03æ—¥(æœˆ) 09æ™‚32åˆ†58ç§’</td>
 <td align=right>
 2
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041223065546">
-‚Â‚Í‚à‚Ì‚Ç‚à‚ª‚ä‚ß‚Ì‚ ‚Æ‚³‚«</a>
+<a href="bbs@action_html2_key_20041223065546.cgi">
+ã¤ã¯ã‚‚ã®ã©ã‚‚ãŒã‚†ã‚ã®ã‚ã¨ã•ã</a>
 </font>
 </th>
 <td>
 kardy
 </td>
-<td id=td1>2004”N12ŒŽ23“ú(–Ø) 06Žž55•ª46•b</td>
+<td id=td1>2004å¹´12æœˆ23æ—¥(æœ¨) 06æ™‚55åˆ†46ç§’</td>
 <td align=right>
 1
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041211012124">
-ƒLƒIƒNƒmƒAƒgƒTƒL@”ÔŠO•Ò@i12KBj</a>
+<a href="bbs@action_html2_key_20041211012124.cgi">
+ã‚­ã‚ªã‚¯ãƒŽã‚¢ãƒˆã‚µã‚­ã€€ç•ªå¤–ç·¨ã€€ï¼ˆ12KBï¼‰</a>
 </font>
 </th>
 <td>
 <a href="mailto:tik@mbr.ocn.ne.jp">Taika</a>
 </td>
-<td id=td1>2004”N12ŒŽ11“ú(“y) 01Žž21•ª24•b</td>
+<td id=td1>2004å¹´12æœˆ11æ—¥(åœŸ) 01æ™‚21åˆ†24ç§’</td>
 <td align=right>
 2
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041125224911">
-ƒK[ƒ‹ƒY@ƒpƒjƒbƒN</a>
+<a href="bbs@action_html2_key_20041125224911.cgi">
+ã‚¬ãƒ¼ãƒ«ã‚ºã€€ãƒ‘ãƒ‹ãƒƒã‚¯</a>
 </font>
 </th>
 <td>
-á‚Ì~‚é–é
+é›ªã®é™ã‚‹å¤œ
 </td>
-<td id=td1>2004”N11ŒŽ25“ú(–Ø) 22Žž49•ª11•b</td>
+<td id=td1>2004å¹´11æœˆ25æ—¥(æœ¨) 22æ™‚49åˆ†11ç§’</td>
 <td align=right>
 2
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041123010305">
-‹@“®“VŽgŒRƒKƒuƒŠƒGƒ‹—\”Å</a>
+<a href="bbs@action_html2_key_20041123010305.cgi">
+æ©Ÿå‹•å¤©ä½¿è»ã‚¬ãƒ–ãƒªã‚¨ãƒ«äºˆå‘Šç‰ˆ</a>
 </font>
 </th>
 <td>
-‚¢‚Æ‚¤
+ã„ã¨ã†
 </td>
-<td id=td1>2004”N11ŒŽ23“ú(‰Î) 01Žž03•ª05•b</td>
+<td id=td1>2004å¹´11æœˆ23æ—¥(ç«) 01æ™‚03åˆ†05ç§’</td>
 <td align=right>
 4
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041113015520">
-‚ ‚é“ñl‚Ì“úí“I‚È‰ï˜b‚Æ‚©</a>
+<a href="bbs@action_html2_key_20041113015520.cgi">
+ã‚ã‚‹äºŒäººã®æ—¥å¸¸çš„ãªä¼šè©±ã¨ã‹</a>
 </font>
 </th>
 <td>
-‚¢‚Æ‚¤
+ã„ã¨ã†
 </td>
-<td id=td1>2004”N11ŒŽ13“ú(“y) 02Žž06•ª40•b</td>
+<td id=td1>2004å¹´11æœˆ13æ—¥(åœŸ) 02æ™‚06åˆ†40ç§’</td>
 <td align=right>
 2
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041107021823">
-–l‚ÆƒAƒCƒc‚Æ”’‚¢‰Hªi‰¼j@‚Q</a>
+<a href="bbs@action_html2_key_20041107021823.cgi">
+åƒ•ã¨ã‚¢ã‚¤ãƒ„ã¨ç™½ã„ç¾½æ ¹ï¼ˆä»®ï¼‰ã€€ï¼’</a>
 </font>
 </th>
 <td>
 RIEWE
 </td>
-<td id=td1>2004”N11ŒŽ07“ú(“ú) 02Žž18•ª23•b</td>
+<td id=td1>2004å¹´11æœˆ07æ—¥(æ—¥) 02æ™‚18åˆ†23ç§’</td>
 <td align=right>
 2
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041107021726">
-–l‚ÆƒAƒCƒc‚Æ”’‚¢‰Hªi‰¼j@‚P</a>
+<a href="bbs@action_html2_key_20041107021726.cgi">
+åƒ•ã¨ã‚¢ã‚¤ãƒ„ã¨ç™½ã„ç¾½æ ¹ï¼ˆä»®ï¼‰ã€€ï¼‘</a>
 </font>
 </th>
 <td>
 RIEWE
 </td>
-<td id=td1>2004”N11ŒŽ07“ú(“ú) 02Žž17•ª26•b</td>
+<td id=td1>2004å¹´11æœˆ07æ—¥(æ—¥) 02æ™‚17åˆ†26ç§’</td>
 <td align=right>
 0
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041103091919">
-–G‚¦‚éƒq[ƒ[(H)</a>
+<a href="bbs@action_html2_key_20041103091919.cgi">
+èŒãˆã‚‹ãƒ’ãƒ¼ãƒ­ãƒ¼(ï¼Ÿ)</a>
 </font>
 </th>
 <td>
-ƒ‰ƒCƒ^[ƒ}ƒ“
+ãƒ©ã‚¤ã‚¿ãƒ¼ãƒžãƒ³
 </td>
-<td id=td1>2004”N11ŒŽ03“ú(…) 09Žž19•ª19•b</td>
+<td id=td1>2004å¹´11æœˆ03æ—¥(æ°´) 09æ™‚19åˆ†19ç§’</td>
 <td align=right>
 3
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041102235639">
-ŽÀŒ±”j‰óI</a>
+<a href="bbs@action_html2_key_20041102235639.cgi">
+å®Ÿé¨“ç ´å£Šï¼</a>
 </font>
 </th>
 <td>
-_Šy
+ç¥žæ¥½
 </td>
-<td id=td1>2004”N11ŒŽ02“ú(‰Î) 23Žž56•ª39•b</td>
+<td id=td1>2004å¹´11æœˆ02æ—¥(ç«) 23æ™‚56åˆ†39ç§’</td>
 <td align=right>
 0
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041102002201">
-ŽÀŒ±”j‰óI</a>
+<a href="bbs@action_html2_key_20041102002201.cgi">
+å®Ÿé¨“ç ´å£Šï¼</a>
 </font>
 </th>
 <td>
-_Šy
+ç¥žæ¥½
 </td>
-<td id=td1>2004”N11ŒŽ02“ú(‰Î) 00Žž22•ª01•b</td>
+<td id=td1>2004å¹´11æœˆ02æ—¥(ç«) 00æ™‚22åˆ†01ç§’</td>
 <td align=right>
 0
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041021223037">
-—Žq“]¶</a>
+<a href="bbs@action_html2_key_20041021223037.cgi">
+å¥³å­è»¢ç”Ÿ</a>
 </font>
 </th>
 <td>
-ƒLƒ“ƒO
+ã‚­ãƒ³ã‚°
 </td>
-<td id=td1>2004”N10ŒŽ21“ú(–Ø) 22Žž30•ª37•b</td>
+<td id=td1>2004å¹´10æœˆ21æ—¥(æœ¨) 22æ™‚30åˆ†37ç§’</td>
 <td align=right>
 0
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041018232705">
-‰¼‘èw–²‚Ì’†x</a>
+<a href="bbs@action_html2_key_20041018232705.cgi">
+ä»®é¡Œã€Žå¤¢ã®ä¸­ã€</a>
 </font>
 </th>
 <td>
-–é–²
+å¤œå¤¢
 </td>
-<td id=td1>2004”N10ŒŽ18“ú(ŒŽ) 23Žž27•ª05•b</td>
+<td id=td1>2004å¹´10æœˆ18æ—¥(æœˆ) 23æ™‚27åˆ†05ç§’</td>
 <td align=right>
 1
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041018220609">
-‚WŒŽ‚R‚P“ú‚Ì–éAƒvƒƒbƒg</a>
+<a href="bbs@action_html2_key_20041018220609.cgi">
+ï¼˜æœˆï¼“ï¼‘æ—¥ã®å¤œã€ãƒ—ãƒ­ãƒƒãƒˆ</a>
 </font>
 </th>
 <td>
-•”’
+é»’ç™½
 </td>
-<td id=td1>2004”N10ŒŽ18“ú(ŒŽ) 22Žž16•ª26•b</td>
+<td id=td1>2004å¹´10æœˆ18æ—¥(æœˆ) 22æ™‚16åˆ†26ç§’</td>
 <td align=right>
 3
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041016080241">
-—‚É`ˆÈ‰º—ª@ƒ¿”Å@‘±‚«</a>
+<a href="bbs@action_html2_key_20041016080241.cgi">
+å¥³ã«ã€œä»¥ä¸‹ç•¥ã€€Î±ç‰ˆã€€ç¶šã</a>
 </font>
 </th>
 <td>
-JJJJJJJJJ‚R
+JJJJJJJJJï¼“
 </td>
-<td id=td1>2004”N10ŒŽ16“ú(“y) 08Žž02•ª41•b</td>
+<td id=td1>2004å¹´10æœˆ16æ—¥(åœŸ) 08æ™‚02åˆ†41ç§’</td>
 <td align=right>
 0
 </td>
@@ -427,7 +427,7 @@ JJJJJJJJJ‚R
 </center><p>
 <table border=5 cellspacing=5 align=center><tr>
 <td>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="page" value="20">
 <input type=hidden name="log" value="">
 <input type=submit value="NEXT PAGE -->" class="d1">
@@ -435,27 +435,27 @@ JJJJJJJJJ‚R
 </tr></table><br>
 <hr>
 </center>
-<a href=http://ts.novels.jp/>­”N­—•¶ŒÉ‚Ö–ß‚é</A><form method="post" action="./bbs.cgi">
+<a href=http://ts.novels.jp/>å°‘å¹´å°‘å¥³æ–‡åº«ã¸æˆ»ã‚‹</A><form method="post" action="bbs.cgi">
 <input type=hidden name=action value="form">
 
-<P><Font size=-1>@‚±‚Ìu‘æ“ñŒfŽ¦”ÂEƒXƒg[ƒŠ[“¹êv‚ÍA
-<UL><LI>‚Ü‚¾“r’†‚Ü‚Å‚Å‚·‚ªA¡‚±‚ñ‚È•¨Œê‚ð‘‚¢‚Ä‚¢‚Ü‚·B
-<LI>‚±‚ñ‚ÈÝ’èiƒLƒƒƒ‰ƒNƒ^[j‚ðl‚¦‚Ü‚µ‚½B‚¢‚©‚ª‚Å‚µ‚å‚¤Hi’N‚©‚¨˜b‚É‚µ‚Ä‚Ý‚Ü‚¹‚ñ‚©Hj
-<LI>ƒ{[ƒ_[ƒ‰ƒCƒ“i‚ ‚é‚¢‚ÍAŽÀŒ±“Ij‚ÈŠ´‚¶‚ª‚·‚é‚Ì‚ÅAu•¶ŒÉv‚É“Še‚µ‚Ä‚¢‚¢‚Ì‚©–À‚Á‚Ä‚¢‚Ü‚·B
-<LI>‚±‚ñ‚È‚¨˜b‚ð‘‚¢‚Ä—~‚µ‚¢I
-<LI>˜AÚ‚à‚Ì‚Ì‚æ‚¤‚ÉA­‚µ‚¸‚Â‘±‚«‚ð‘‚¢‚Ä‚¢‚«‚½‚¢‚ÆŽv‚¢‚Ü‚·B
-<LI>u•¶ŒÉvŒöŠJi“Šejì•i‚Ì”ÔŠO•Ò‚Å‚·B</UL>
+<P><Font size=-1>ã€€ã“ã®ã€Œç¬¬äºŒæŽ²ç¤ºæ¿ãƒ»ã‚¹ãƒˆãƒ¼ãƒªãƒ¼é“å ´ã€ã¯ã€
+<UL><LI>ã¾ã é€”ä¸­ã¾ã§ã§ã™ãŒã€ä»Šã“ã‚“ãªç‰©èªžã‚’æ›¸ã„ã¦ã„ã¾ã™ã€‚
+<LI>ã“ã‚“ãªè¨­å®šï¼ˆã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼ï¼‰ã‚’è€ƒãˆã¾ã—ãŸã€‚ã„ã‹ãŒã§ã—ã‚‡ã†ï¼Ÿï¼ˆèª°ã‹ãŠè©±ã«ã—ã¦ã¿ã¾ã›ã‚“ã‹ï¼Ÿï¼‰
+<LI>ãƒœãƒ¼ãƒ€ãƒ¼ãƒ©ã‚¤ãƒ³ï¼ˆã‚ã‚‹ã„ã¯ã€å®Ÿé¨“çš„ï¼‰ãªæ„Ÿã˜ãŒã™ã‚‹ã®ã§ã€ã€Œæ–‡åº«ã€ã«æŠ•ç¨¿ã—ã¦ã„ã„ã®ã‹è¿·ã£ã¦ã„ã¾ã™ã€‚
+<LI>ã“ã‚“ãªãŠè©±ã‚’æ›¸ã„ã¦æ¬²ã—ã„ï¼
+<LI>é€£è¼‰ã‚‚ã®ã®ã‚ˆã†ã«ã€å°‘ã—ãšã¤ç¶šãã‚’æ›¸ã„ã¦ã„ããŸã„ã¨æ€ã„ã¾ã™ã€‚
+<LI>ã€Œæ–‡åº«ã€å…¬é–‹ï¼ˆæŠ•ç¨¿ï¼‰ä½œå“ã®ç•ªå¤–ç·¨ã§ã™ã€‚</UL>
 <P>
-@cc‚Æ‚¢‚Á‚½ì•i‚ðŒfŽ¦”Âã‚ÅŒöŠJ‚µA“ÇŽÒ—l‚©‚ç‚²ˆÓŒ©‚²Š´‘ziƒAƒhƒoƒCƒX‚âƒAƒCƒfƒAj‚ð‘‚«ž‚ñ‚Å‚¢‚½‚¾‚­êŠ‚Å‚·B<BR>
-@‚Ó‚é‚Á‚Ä‚¨‘‚«ž‚Ý‚­‚¾‚³‚¢B
-@‚È‚¨“Še‹K’è‚Í•¶ŒÉ‚Ì‚à‚Ì‚É€‚¶‚Ü‚·‚ªA‚P‚W‹Ö“I•`ŽÊ‚à‚¬‚è‚¬‚èƒ{[ƒ_[ƒ‰ƒCƒ“ã‚Ì‚à‚Ì‚Å‚µ‚½‚ç–Ù”F‚Æ‚µ‚Ü‚·B<BR>
+ã€€â€¦â€¦ã¨ã„ã£ãŸä½œå“ã‚’æŽ²ç¤ºæ¿ä¸Šã§å…¬é–‹ã—ã€èª­è€…æ§˜ã‹ã‚‰ã”æ„è¦‹ã”æ„Ÿæƒ³ï¼ˆã‚¢ãƒ‰ãƒã‚¤ã‚¹ã‚„ã‚¢ã‚¤ãƒ‡ã‚¢ï¼‰ã‚’æ›¸ãè¾¼ã‚“ã§ã„ãŸã ãå ´æ‰€ã§ã™ã€‚<BR>
+ã€€ãµã‚‹ã£ã¦ãŠæ›¸ãè¾¼ã¿ãã ã•ã„ã€‚
+ã€€ãªãŠæŠ•ç¨¿è¦å®šã¯æ–‡åº«ã®ã‚‚ã®ã«æº–ã˜ã¾ã™ãŒã€ï¼‘ï¼˜ç¦çš„æå†™ã‚‚ãŽã‚ŠãŽã‚Šãƒœãƒ¼ãƒ€ãƒ¼ãƒ©ã‚¤ãƒ³ä¸Šã®ã‚‚ã®ã§ã—ãŸã‚‰é»™èªã¨ã—ã¾ã™ã€‚<BR>
 </font>
-<input type=submit value=" V‹K“Še‚Í‚±‚¿‚ç‚Å‚· " class="d1">
+<input type=submit value=" æ–°è¦æŠ•ç¨¿ã¯ã“ã¡ã‚‰ã§ã™ " class="d1">
 </form>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku">
 <input type=hidden name="log" value="">
 PASSWORD <input type=password name="pwd" size=10>
-<input type=submit value="ŠÇ—ŽÒ—p" class="d1"></form>
+<input type=submit value="ç®¡ç†è€…ç”¨" class="d1"></form>
 <div align=right><address><font size=3><a href="http://www2s.biglobe.ne.jp/~yasuu/cgi.html" target="_top">Anthologys V2.3c  Script by YASUU!!</a></font></address></div>
 </body></html>

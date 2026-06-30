@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>Tarota�����i���z�f����</title>
+<title>Tarotaさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>Tarota�����i���z�f����</font>
+<font size=5>Tarotaさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="tarota">
 <input type=hidden name="nj" value="fkk4IYkf38">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h aDYnKm  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="aDYnKm"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード aDYnKm  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="aDYnKm"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,43 +44,43 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> ���z</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/02 (��) 07:10:57 <strong>��</strong> �E�E�E </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510020071057&log=tarota">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510020071057"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/02 (日) 07:10:57 <strong>▽</strong> ・・・ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510020071057_log_tarota.cgi">返信</a>　削除<input type=checkbox name="target" value="200510020071057"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�l�������ł���</font>
+<font size=3 color=#606060>僕もそうでした</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> ���z</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/22 (��) 15:25:31 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403221152531&log=tarota">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403221152531"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/22 (月) 15:25:31 <strong>▽</strong> 水月 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403221152531_log_tarota.cgi">返信</a>　削除<input type=checkbox name="target" value="200403221152531"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂�����Ȃ�ɂ������납�����ł���A����Ȃ�ɂ�</font>
+<font size=3 color=#606060>まあそれなりにおもしろかったですよ、それなりにね</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="tarota">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=tarota">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_tarota.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,63 +52,63 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�܂ق������H
+まほうつかい？
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�Ȃ܂����̂���</center><tr>
+<center>作者：なまけものさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�@���@�g���ł��A���@�������ȁc�����܂����ł���`���A�ł����͔����󂯂Ă��Ė��@�͎g���܂���B<br>�@�����畁�ʂ̏��̎q�ł��A�^�C�g���ɂ�����҂薳�����邯�ǁB<br>�@�l�̖��@�͏����ς���ĂāAⴂɏ���Ĕ�񂾂�A��𒲍�������A�l���J�G���ɕς�����̈�ʓI�Ȗ��@�͋��Łc�ƌ������A�g���܂���B<br>�@�ꉞ���@��Ƃɐ��܂ꂽ�񂾂��ǁA���܂ꂽ�����炸���Ɩ��@���ł��Ȃ��āA���@�̔\�͖͂����Ǝv���Ă����A�Ƒ�����������v���Ă܂����B<br>�@��������ⴂŔ�ׂ�悤�ɂȂ�����A�p��������悤�ɂȂ��Ă��A�l�ɂ͑S�R�ł��܂���ł����B<br>�@����́A���@�g���A���ɐe�ʂ���͔����ڂł݂��Ă����ǁA���e�Ɏ���Ĉ�����̂ŁA����Ȏ��́A���܂肠��܂���ł����B<br>�@�Z���͖��@�w�Z�֍s���Ă�̂ł����A�l�͕��ʂ̊w�Z�ɒʂ��Ă܂����A�͂����茾���Ɨ������ڂ�ł��B<br><br>�@���ʂ̊w�Z�ł����Ȏ�����܂����A���΂񂪖����Ȃ�����A�̑������j��ꂽ��A�������ꂽ��B<br>�@���Ȃ�A���e��Z���Ɍ������āA���@�ňꔭ�ŉ����Ȃ񂾂��ǁA����ȕ��@�����邱�Ƃɂ͋C���t���Ȃ��ŁA�ЂƂ�Y��ł܂����B<br>�@������A�S�C�̐搶���M�����Ȃ��Ȃ��āA�䖝�̌��E�ɂȂ������B<br>�@�����߂��q�Ȃ񂩂��Ȃ��Ȃ����Ⴆ�A���Ė{�C�Ŏv�����Ⴂ�܂����B<br><br>�@����ŁA�Ղ���؂�ĉ����ł������ƌ����ƁA�]�ږ��@�ł��c�c�ł����B<br>�@�]�ږ��@�ƌ����Ă��A�l���g���]�ڂ���킯����Ȃ���ł��A���𑼂̂Ƃ���ɓ]�ڂ����邾���ł��B<br>�@���̎������������̂́A�����߂��q���A�������ꂽ���ɔ�΂����A�ǂ��ł��ǂ�������ł��A�炳�������Ȃ��Ȃ�΁c<br>�@�ł��A�F���ɔ�΂�����A�����m�̐^�񒆂ɔ�΂�����ȂǁA�c���Ȏ��͎v�����܂���ł����B<br>�i���Ȃ�T���@�͂�Ԃ��̌Y�A�R�O���ԏ��f���C�g�J���\�ʂɕ��u�v���C���Ă������̂Ɂc���͗��ő�C���˓����ȁH�f�W�J���������āc�j<br><br>�@�����A�����A�p�x�A�S���l���Ă܂���ł����A������ƃA�����J���Ăɔ�΂�����A���t���ʂ��Ȃ��č��邾�낤�ȁ`�ʂł����B<br>�@����ł��A�����A�p�x�͑�̍����Ă܂����A���߂ĂȂ̂ɂ������ł���A�����������c����܂���ł����B<br>�@�����߂��q�́A�n���̒��S�j������ɁA�]�ڂ����݂����ł����B�i��ł̐����ł����ǁc�j�@<br>�@�l��������̂́A������΂������A�{���̓]�ږ��@�͋�Ԃ̓���ւ��Ȃ�ł���A�łȂ��Ƒ�ςȂ��ƂɂȂ����Ⴄ�B<br>�@���ۂȂ����Ⴂ�܂����A�n���̒��S�j�ɋ}�ɏo�������A�d����S�O�j���̕��́A<br>�@���X�����ɂ������A�n�������̕����̌��q�̊ԂɁA�����������Ă����A�����߂��q�̑̂��\�����Ă��������c�c������Ԃ��̂��́B<br>�@�悭�͒m��Ȃ����ǁA���Ƃ��̌��E���������A���q�߂��ɖ������߂Â����i���q���o�������j�̂ŁA���q���m���Z�������蔽��������B<br>�@���������������ǁA�d�͕��󂵂���A�Ώ��ł�����B<br><br>�@���̌��ʁc����Ԕ������n���̒��S�ŋN����������āc�c���̂��ߒn�������ꂿ������`<br>�@���E���̖��@�g����A���\�͎҂Ƃ��A�����l�A�͂��܂��F���l�A���o�ŁA���ꂽ�n�����Ȃ����킹�āA�D�����킹�Ă��ꂽ�̂ŁA<br>�@�n���̏��ł␶���̑��ł̂悤�ȑ厖�ɂ͂Ȃ�܂���ł����A�c�����҂X�疜�l���x�ŏI������̂͊�Ղ炵���ł����ǁc<br>�@���̌����ςł����A�݂�Ȃł��Ƃ�������������A�L���������Ă��܂����킹����c�c�S�n���K�͂Ȃ̂ő�ςł����B<br><br>�@���̌�A���@�g���ٔ��ŁA���s�P�\�R��N�̕t�������Y���󂯂āA���@�̕���i��Ȃ��Ďg�킹�Ă��炦�Ȃ��j����āA<br>�@���s�P�\���Ԓ��͏��̎q�Ƃ��ĉ߂����H�ڂɂȂ�܂����A���Y�Ƃ����i�v����Ƃ��ɂȂ�Ȃ��ėǂ������ł��A�܂������N�������`<br>�@<br>�@��������ƋC�ɂȂ�̂́A�ːЏ�͐����Ă��邯�ǁA�m�F�̎��Ȃ��A�P�O�O�Έȏ�̐l����������o�Ă邯�ǁA���̎��̕��Q�����c�c<br>�@�{���ɂ��N��肾���H�ق�Ƃ͂����Ƃ�������c�c<br>�@�����H�n����D�����킹���Ղł����H�c�c���͊C�ꒆ���C����ČĂ΂�Ă܂���`
+　魔法使いです、魔法少女かな…うらやましいでしょ〜ぅ、でも今は罰を受けていて魔法は使えません。<br>　だから普通の女の子です、タイトルにちょっぴり無理あるけど。<br>　僕の魔法は少し変わってて、箒に乗って飛んだり、薬を調合したり、人をカエルに変えたりの一般的な魔法は苦手で…と言うか、使えません。<br>　一応魔法一家に生まれたんだけど、生まれた時からずっと魔法ができなくて、魔法の能力は無いと思ってたし、家族からもそう思われてました。<br>　妹たちが箒で飛べるようになったり、姿を消せるようになっても、僕には全然できませんでした。<br>　周りの、魔法使い、特に親戚からは白い目でみられてたけど、両親に守られて育ったので、いやな事は、あまりありませんでした。<br>　兄妹は魔法学校へ行ってるのですが、僕は普通の学校に通ってました、はっきり言うと落ちこぼれです。<br><br>　普通の学校でも嫌な事ありました、かばんが無くなったり、体操服が破られたり、無視されたり。<br>　今なら、両親や兄妹に言いつけて、魔法で一発で解決なんだけど、そんな方法があることには気が付かないで、ひとり悩んでました。<br>　ある日、担任の先生も信じられなくなって、我慢の限界になった時。<br>　いじめっ子なんかいなくなっちゃえ、って本気で思っちゃいました。<br><br>　それで、ぷつっん切れて何ができたかと言うと、転移魔法です……でした。<br>　転移魔法と言っても、僕自身が転移するわけじゃないんです、物を他のところに転移させるだけです。<br>　この時やっちゃったのは、いじめっ子を、遠く離れた所に飛ばす事、どこでも良かったんです、顔さえ見えなくなれば…<br>　でも、宇宙に飛ばしたり、太平洋の真ん中に飛ばしたりなど、残酷な事は思いつきませんでした。<br>（今なら探査機はやぶさの刑、３０分間小惑星イトカワ表面に放置プレイしてあげたのに…又は裸で大気圏突入かな？デジカメ持たせて…）<br><br>　方向、距離、角度、全く考えてませんでした、ちらっとアメリカや南米に飛ばしたら、言葉か通じなくて困るだろうな〜位でした。<br>　それでも、方向、角度は大体合ってました、初めてなのにすごいでしょ、ただ距離が…足りませんでした。<br>　いじめっ子は、地球の中心核あたりに、転移したみたいでした。（後での推測ですけど…）　<br>　僕がやったのは、ただ飛ばすだけ、本当の転移魔法は空間の入れ替えなんですよ、でないと大変なことになっちゃう。<br>　実際なっちゃいました、地球の中心核に急に出現した、重さ約４０Ｋｇの物体、<br>　元々そこにあった、地球内部の物質の原子の間に、無理やり入ってきた、いじめっ子の体を構成していた物質……いえ空間そのもの。<br>　よくは知らないけど、何とかの限界をこえた、原子近くに無理やり近づいた（原子が出現した）ので、原子同士が融合したり反発したり。<br>　すごく小さいけど、重力崩壊したり、対消滅したり。<br><br>　その結果…超空間爆発が地球の中心で起こっちゃって……そのため地球が割れちゃった〜<br>　世界中の魔法使いや、超能力者とか、未来人、はたまた宇宙人、総出で、割れた地球をつなぎ合わせて、縫い合わせてくれたので、<br>　地球の消滅や生物の大絶滅のような大事にはなりませんでした、…死傷者９千万人程度で終わったのは奇跡らしいですけど…<br>　その後も大変でした、みんなであとかたずけしたり、記憶を消してつじつまを合わせたり……全地球規模なので大変でした。<br><br>　その後、魔法使い裁判で、執行猶予３千年の付いた実刑を受けて、魔法の封印（危なくて使わせてもらえない）されて、<br>　執行猶予期間中は女の子として過ごす羽目になりました、死刑とか魂永久封印とかにならなくて良かったです、まだ未成年だしぃ〜<br>　<br>　今ちょっと気になるのは、戸籍上は生きているけど、確認の取れない、１００歳以上の人がたくさん出てるけど、その時の弊害かも……<br>　本当にお年寄りだけ？ほんとはもっとたくさん……<br>　えっ？地球を縫い合わせた跡ですか？……今は海底中央海嶺って呼ばれてますょ〜
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�Ȃ܂�����
+なまけもの
 </address>
-2010�N08��28��(�y) 01��25��36�b ���J<br>
+2010年08月28日(土) 01時25分36秒 公開<br>
 <!--123.227.196.147-->
-<font color=red>�����̍�i�̒��쌠�͂Ȃ܂����̂���ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はなまけものさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�h�V�b�q���@�g���A�ɂ����������̂ɁA�낤���n���ŖS������Ƃ��������ł��A�ł��Ȋw�I�����͖����ł����A���߂�Ȃ����ł����A�΂��ēǂ�łˁB
+ドシッ子魔法使い、にしたかったのに、危うく地球滅亡させるとこだったです、でも科学的根拠は無いですぅ、ごめんなさいですぅ、笑って読んでね。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>���L���܁A�͂��߂܂��āA���z���肪�Ƃ��������܂��B<BR>�@�ŋ߂܂ŏ��w�Z�̎��ɕ������\�u�n���̒��S�ŁA�����𔚔���������A�n�����؂��[���o�ɐ�����ԁv���ĐM���Ă��܂����A�n���j�����ő��v�Ȃ̂ɂ��ꂮ�炢�ł́A����Ȃ��Ƃɂ͂Ȃ�Ȃ����čl���Ă܂���ł����B<BR>�@����ōŋ߂��̘b�ł��炩���āA�����߂�����n���̒��S�ɋ�Ԃ��Ɠ]�������Ⴆ���āA����Ȃ��b�ɂȂ����Ⴂ�܂����B<BR>�@���z���肪�Ƃ��������܂����B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2010-09-11 02:37:11</td>
+<td style=font-size:10pt>黒猫さま、はじめまして、感想ありがとうございます。<BR>　最近まで小学校の時に聞いた噂「地球の中心で、原爆を爆発させたら、地球が木っ端微塵に吹っ飛ぶ」って信じていました、地下核実験で大丈夫なのにそれぐらいでは、そんなことにはならないって考えてませんでした。<BR>　それで最近その話でからかわれて、いぢめっこを地球の中心に空間ごと転送しちゃえって、こんなお話になっちゃいました。<BR>　感想ありがとうございました。</td>
+<td>なまけもの</td>
+<td width=20%>■2010-09-11 02:37:11</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���s�̃X�P�[�����Ƃɂ����傫���Ă����ł��˂��B�n���^����Ƃ́c�B</td>
-<td>���L</td>
-<td width=20%>��2010-09-11 00:01:56</td>
+<td style=font-size:10pt>失敗のスケールがとにかく大きくていいですねぇ。地球真っ二つとは…。</td>
+<td>黒猫</td>
+<td width=20%>■2010-09-11 00:01:56</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�L�삳�܁A���z���肪�Ƃ��������܂��B<BR>�@�j���[�X�����ĂāA���������āA��肨�����Ă��ӔC���l���Ȃ��悤�ł��ˁA�������ʂ̈�ʐl�̂ق�����ːЂ̖������Ă��������Ƃ�����A<BR>��ςȁA�J�͂�����̂ɁA�������̖�肾�ƊȒP�ɏ������Ă����ۂł��ˁB<BR>�@�������̎�������A���x�͐����Ă���l�̌ːЂ𖕏������˂Ȃ��C������̂́A�C�̂������ȁ`�����ČːЕ�������Ƃ��ɐ��ʂ܂������Ēj�����珗���Ɂc<BR>������ČːЏ�̂s�r�c�����A����Ȃ��Ə����Ă�ƌːЖ������ꂻ���B�@���z���肪�Ƃ��������܂����B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2010-09-04 22:20:44</td>
+<td style=font-size:10pt>猫野さま、感想ありがとうございます。<BR>　ニュースを見てて、お役所って、問題おこしても責任取る人いないようですね、もし普通の一般人のほうから戸籍の抹消していただくとしたら、<BR>大変な、労力かかるのに、お役所の問題だと簡単に処理している印象ですね。<BR>　お役所の事だから、今度は生きている人の戸籍を抹消しかねない気がするのは、気のせいかな〜そして戸籍復活するときに性別まちがえて男性から女性に…<BR>それって戸籍上のＴＳ…あわわ、こんなこと書いてると戸籍抹消されそう。　感想ありがとうございました。</td>
+<td>なまけもの</td>
+<td width=20%>■2010-09-04 22:20:44</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���Ղ����₩�Șb���Ǝv�����̂ɁA��ԍň��Ȍ��ʂ��N�����Ă��鏉�S�Җ��@�g���Ȃ̂ł��ˁB����A��ԍŌ�́u������ƋC�ɂȂ�̂́c�c�v���A��ԏՌ��ł��������ł����B</td>
-<td>�L��</td>
-<td width=20%>��2010-09-04 19:15:17</td>
+<td style=font-size:10pt>序盤ささやかな話かと思ったのに、一番最悪な結果を起こしている初心者魔法使いなのですね。いや、一番最後の「ちょっと気になるのは……」が、一番衝撃でかかったですが。</td>
+<td>猫野</td>
+<td width=20%>■2010-09-04 19:15:17</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -116,24 +116,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20100828012536">
 <input type=hidden name="num_r" value="20100828012536">
 <input type=hidden name="url" value="">
@@ -149,17 +149,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20100828012536">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -169,9 +169,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

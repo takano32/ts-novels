@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�x��@�E�����i���z�f����</title>
+<title>堀井　忍さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�x��@�E�����i���z�f����</font>
+<font size=5>堀井　忍さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="horii_sinobu">
 <input type=hidden name="nj" value="ut0cygdkfs">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h yX31P2  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="yX31P2"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード yX31P2  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="yX31P2"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,14 +44,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[149]</font> <font size=4 color=#40c0c0> �w�܂ق�΂̓��@��񕔁i�P�T�j�x������ɂ͂������N���b�N�B</font>
+<font size=2>[149]</font> <font size=4 color=#40c0c0> 『まほろばの虹　第二部（１５）』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/25 (��) 22:11:53 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606250221153&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606250221153"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/25 (日) 22:11:53 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606250221153_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200606250221153"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z��Q���͂P�W�b�ŏI���B���j��̗L���l���A�݂�Ȃ������̗��ł��B<br>
+<font size=3 color=#606060>【推薦文】第２部は１８話で終了。歴史上の有名人も、みんなあきあの虜です。<br>
 <a href=http://ts.novels.jp/novel/200011/04033856/mn215.htm target=_top>http://ts.novels.jp/novel/200011/04033856/mn215.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -59,14 +59,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[137]</font> <font size=4 color=#40c0c0> �w�܂ق�΂̓��@��񕔁i�P�S�j�x������ɂ͂������N���b�N�B</font>
+<font size=2>[137]</font> <font size=4 color=#40c0c0> 『まほろばの虹　第二部（１４）』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/12/28 (��) 19:37:49 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200512283193749&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200512283193749"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/12/28 (水) 19:37:49 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200512283193749_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200512283193749"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z��L�����A�����̔閧�������炩�Ɂc�c�Ȃ�̂��H<br>
+<font size=3 color=#606060>【推薦文】謎キャラ、紫苑の秘密が今明らかに……なるのか？<br>
 <a href=http://ts.novels.jp/novel/200011/04033856/mn214.htm target=_top>http://ts.novels.jp/novel/200011/04033856/mn214.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -74,14 +74,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[132]</font> <font size=4 color=#40c0c0> �w�܂ق�΂̓��@��񕔁i�P�R�j�x������ɂ͂������N���b�N�B</font>
+<font size=2>[132]</font> <font size=4 color=#40c0c0> 『まほろばの虹　第二部（１３）』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/12/15 (��) 21:19:30 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200512154211930&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200512154211930"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/12/15 (木) 21:19:30 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200512154211930_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200512154211930"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�u�񑫂̂�炶�v���Č����Ă܂����ǁA�v���O���}�[�ŏ��D�ŉA�z�t�Łc�c���āA�����O���ȏ�ł����i�΁j�B<br>
+<font size=3 color=#606060>【推薦文】「二足のわらじ」って言ってますけど、プログラマーで女優で陰陽師で……って、もう三足以上ですやん（笑）。<br>
 <a href=http://ts.novels.jp/novel/200011/04033856/mn213.htm target=_top>http://ts.novels.jp/novel/200011/04033856/mn213.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -89,49 +89,49 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[129]</font> <font size=4 color=#40c0c0> Re:�ǂ����āH</font>
+<font size=2>[129]</font> <font size=4 color=#40c0c0> Re:どうして？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/25 (��) 00:08:48 <strong>��</strong> ��傤���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511255000848&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511255000848"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/25 (金) 00:08:48 <strong>▽</strong> りょう＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511255000848_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200511255000848"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �x��@�E����<br>
-<font color="#cc88ff">> �܂��폜���肢���܂��B</font><br>
+<font size=3 color=#606060>▼ 堀井　忍さん<br>
+<font color="#cc88ff">> また削除お願いします。</font><br>
 <br>
-�^�c�ψ����C�Â�����폜���܂��̂ŁA���X�������ɕ����Ă����Ă��炦��Ό��\�ł���B<br>
-�X�p���Ǝ҂Ɉ�x�ڂ�������ƁA����I�ɏ������݂������悤�Ȃ̂ŁA����������������Ă���Ƃ��肪�Ȃ��ł��B</font>
+運営委員が気づき次第削除しますので、レスをつけずに放っておいてもらえれば結構ですよ。<br>
+スパム業者に一度目をつけられると、定期的に書き込みがされるようなので、いちいち相手をしているときりがないです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[128]</font> <font size=4 color=#40c0c0> �ǂ����āH</font>
+<font size=2>[128]</font> <font size=4 color=#40c0c0> どうして？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/24 (��) 09:40:23 <strong>��</strong> �x��@�E </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511244094023&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511244094023"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/24 (木) 09:40:23 <strong>▽</strong> 堀井　忍 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511244094023_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200511244094023"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �E�ّ��͉Ȃ���<br>
-<font color="#cc88ff">&gt; �E�ّ��͉ȍJ�]�Œ��O�����c�E�ّ��͉ȘØA���]</font><br>
-�ǂ����āA���񂱂�ȃ��[��������̂ł��傤���H<br>
-�܂��폜���肢���܂��B</font>
+<font size=3 color=#606060>▼ ・雇鎗栽科さん<br>
+<font color="#cc88ff">&gt; ・雇鎗栽科巷望頁朕念幡璃議・雇鎗栽科佚連利嫋</font><br>
+どうして、毎回こんなメールがくるのでしょうか？<br>
+また削除お願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[124]</font> <font size=4 color=#40c0c0> �w�܂ق�΂̓��@��񕔁i�P�Q�j�x������ɂ͂������N���b�N�B</font>
+<font size=2>[124]</font> <font size=4 color=#40c0c0> 『まほろばの虹　第二部（１２）』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/21 (��) 21:23:27 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511211212327&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511211212327"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/21 (月) 21:23:27 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511211212327_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200511211212327"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z����̍s���Ƃ���A���킪����łȂ��Ȃ��Ă����c�c<br>
+<font size=3 color=#606060>【推薦文】沙希の行くところ、超常が超常でなくなっていく……<br>
 <a href=http://ts.novels.jp/novel/200011/04033856/mn212.htm target=_top>http://ts.novels.jp/novel/200011/04033856/mn212.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -139,19 +139,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[122]</font> <font size=4 color=#40c0c0> �l�^���I</font>
+<font size=2>[122]</font> <font size=4 color=#40c0c0> ネタを！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/12 (�y) 18:08:28 <strong>��</strong> <a href="mailto:oje3@ezweb.ne.jp">oje</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511126180828&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511126180828"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/12 (土) 18:08:28 <strong>▽</strong> <a href="mailto:oje3@ezweb.ne.jp">oje</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511126180828_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200511126180828"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂���A����~�X�œr���̂��̂��������݂��Ă��܂��܂���<br>
-�����ł���<br>
-�M���l���L���X�g���k�Ŕ��Q���󂯂��V���l�Y�l��א�K���V���l�������A��A�����Ɍ���A�������I���󂳂܂��~�߂ɓ��邪�A�s���ȓW�J�ɁA���̂Ƃ��V�E����V��g���̐l�X���������ɁI<br>
-�Ō�ɐM���l�ƍ��󂳂܂̈�R�ł��Ƃ����̂͂ǂ��ł��傤��<br>
-�܂��A�C�f�A������܂����瓊�e�����Ă��������܂��B<br>
-�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�y���l�[��oje���<br>
+<font size=3 color=#606060>すいません、操作ミスで途中のものを書き込みしてしまいました<br>
+続きですが<br>
+信長様がキリスト教徒で迫害を受けた天草四郎様や細川ガラシャ様を引き連れ、現世に現れ、騒動を！沙希さまが止めに入るが、不利な展開に、そのとき天界から新撰組等の人々が助太刀に！<br>
+最後に信長様と沙希さまの一騎打ちというのはどうでしょうか<br>
+またアイデアがありましたら投稿させていただきます。<br>
+　　　　　　　　　　　　　　　ペンネームojeより<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -159,17 +159,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[121]</font> <font size=4 color=#40c0c0> �l�^���I</font>
+<font size=2>[121]</font> <font size=4 color=#40c0c0> ネタを！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/12 (�y) 17:39:55 <strong>��</strong> <a href="mailto:oje3@ezweb.ne.jp">oje</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511126173955&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511126173955"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/12 (土) 17:39:55 <strong>▽</strong> <a href="mailto:oje3@ezweb.ne.jp">oje</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511126173955_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200511126173955"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ԏ��L��������܂�<br>
-���̑O�A�D�c�M���l�ŁA���Ԏ�����܂����̂łЂƂA<br>
-�L�[���[�h�́u�L���X�g���v�ł�<br>
-�M���l�́A�L���X�g���ɏo����Ĕ�b�R���Ă��������܂���<br>
+<font size=3 color=#606060>お返事有難うございます<br>
+この前、織田信長様で、お返事ありましたのでひとつ、<br>
+キーワードは「キリスト教」です<br>
+信長様は、キリスト教に出会われて比叡山を焼き討ちしました<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -177,61 +177,61 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[120]</font> <font size=4 color=#40c0c0> Re3:�������I�I</font>
+<font size=2>[120]</font> <font size=4 color=#40c0c0> Re3:すごい！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/12 (�y) 04:11:09 <strong>��</strong> �x��@�E </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511126041109&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511126041109"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/12 (土) 04:11:09 <strong>▽</strong> 堀井　忍 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511126041109_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200511126041109"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� oje����<br>
-<font color="#cc88ff">&gt; �� �x��@�E����<br>
-&gt; ���̎�l���͒��\�͎҂ł��A���̐킢�̂Ƃ��A�����̐g�����l���ɂƂ��܂���<br>
-&gt; �~�o�̂��߂d�r�o�o���A�[�𒣂����Ƃ���o���A�[���j�󂳂�A���̐l�Ԃ͑S�����S���܂����B<br>
-&gt; ���̂��߁A��l���͗����������A�͂炪�\�����A��B�̔������C�ɒ��߂��ƕ`����Ă܂���</font><br>
-�X�e�[�V�����͍���̒��̂�����l�̍��󂪎󂯎��d�v�ȋ@�B�ł��B<br>
-�����牽���̏Ⴊ���������Ƃ��Ă����̃X�e�[�V�����̈��S���m�ۂ��Ă���<br>
-�~���o���ł��傤�ˁB<br>
-<font color="#cc88ff">&gt; �����ЂƂu�X�e�[�V�����v�ɂ́A���E�������Ă���Ǝv���܂�����A���@(�d�p��)�́A���C�ł������I�U���́A�@���Ǝv���������Ă��������܂���</font><br>
-�l�ł��炴����̂͌��E�ɂ͎肪�o���܂���B<br>
-���󂪖{���ɕ|�����Ă���̂͐l�ł��B<br>
-�X�e�[�V�����ɏ�荇�킹�����������������H�E�E�E�l����̂�<br>
-�����܂������Ƃł��B�ł����ꂪ�{���ɁH�E�E�E�E�E<br>
-<font color="#cc88ff">&gt; �܂��A���ɕ����񂾂��Ƃ�����܂�����A���e�����Ă��������܂�</font><br>
-�����ł���B���҂����Ă��܂��B<br>
-<font color="#cc88ff">&gt; �Ō�ɍ��󂳂�̎����͂ǂ̂��炢�Ƃ��l���ł����H<br>
-&gt; �������i���Ƃ��l���ł�����A�Ō�̂ق��͔߂����₵���v����������̂ł�(����̓t�@�C�u�X�^�[����̓V�ƕÉ��̓���Ō�������z�V�[���ł��j</font><br>
-������ʔ����ł��ˁB</font>
+<font size=3 color=#606060>▼ ojeさん<br>
+<font color="#cc88ff">&gt; ▼ 堀井　忍さん<br>
+&gt; この主人公は超能力者です、この戦いのとき、自分の身内が人質にとられました<br>
+&gt; 救出のためＥＳＰバリアーを張ったところバリアーが破壊され、中の人間は全員死亡しました。<br>
+&gt; そのため、主人公は理性を失い、力らが暴走し、九州の半分を海に沈めたと描かれてました</font><br>
+ステーションは沙希の中のもう一人の沙希が受け持つ重要な機械です。<br>
+だから何か故障がおこったとしても他のステーションの安全を確保してから<br>
+救い出すでしょうね。<br>
+<font color="#cc88ff">&gt; もうひとつ「ステーション」には、結界が張られていると思いますから、魔法(妖術等)は、平気でも物理的攻撃は、如何と思い書かせていただきました</font><br>
+人であらざるものは結界には手が出せません。<br>
+沙希が本当に怖がっているのは人です。<br>
+ステーションに乗り合わせた乗員が錯乱したら？・・・考えるのも<br>
+おぞましいことです。でもそれが本当に？・・・・・<br>
+<font color="#cc88ff">&gt; また、頭に浮かんだことがありましたら、投稿させていただきます</font><br>
+いいですよ。お待ちしています。<br>
+<font color="#cc88ff">&gt; 最後に沙希さんの寿命はどのくらいとお考えですか？<br>
+&gt; 物凄く永いとお考えでしたら、最後のほうは悲しく寂しい思いをさせるのでは(これはファイブスター物語の天照陛下の日常で見せた回想シーンです）</font><br>
+それも面白いですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[119]</font> <font size=4 color=#40c0c0> Re2:�������I�I</font>
+<font size=2>[119]</font> <font size=4 color=#40c0c0> Re2:すごい！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/10 (��) 23:16:14 <strong>��</strong> <a href="mailto:oje3@ezweb.ne.jp">oje</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511104231614&log=horii_sinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511104231614"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/10 (木) 23:16:14 <strong>▽</strong> <a href="mailto:oje3@ezweb.ne.jp">oje</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511104231614_log_horii_sinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200511104231614"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �x��@�E����<br>
-<font color="#cc88ff">&gt;&gt; &gt; ���Ɏ���ł����I�u�X�e�[�V�����v�͐�΂ɉ��Ȃ��̂ł����H<br>
-&gt; ����͂����ȕ����̌̏��S�z���Ė{�ԑO�ɉ��x���������Ă����<br>
-&gt; �{���ɏ����Ă����Ǝv���܂��B����Ɏ��̂ő��l�ɕs�K�������<br>
-&gt; �����ɐӔC�������ė������肪�Ȃ��Ȃ��ł��Ȃ��ł��傤�ˁB</font><br>
-�@������v�������̂́A�Ƃ��閟����v���o���ď������݂܂����B<br>
-����́A�ēc���O�搶���������ɂȂ�ꂽ�g����V���[�Y�́u�u���[�\�l�b�g�v�̑�P�W���ɕ`����Ă��邱�Ƃł����B<br>
-���̎�l���͒��\�͎҂ł��A���̐킢�̂Ƃ��A�����̐g�����l���ɂƂ��܂���<br>
-�~�o�̂��߂d�r�o�o���A�[�𒣂����Ƃ���o���A�[���j�󂳂�A���̐l�Ԃ͑S�����S���܂����B<br>
-���̂��߁A��l���͗����������A�͂炪�\�����A��B�̔������C�ɒ��߂��ƕ`����Ă܂���<br>
-���󂳂�͂P�O�N�̐����l�̉��ŏC�s���ꂽ���ł�����A���̂悤�ȎS���͖����Ǝv���܂����A�ǂ̂悤�ɂȂ邩�������悬��܂���<br>
-�����ЂƂu�X�e�[�V�����v�ɂ́A���E�������Ă���Ǝv���܂�����A���@(�d�p��)�́A���C�ł������I�U���́A�@���Ǝv���������Ă��������܂���<br>
-�܂��A���ɕ����񂾂��Ƃ�����܂�����A���e�����Ă��������܂�<br>
-�Ō�ɍ��󂳂�̎����͂ǂ̂��炢�Ƃ��l���ł����H<br>
-�������i���Ƃ��l���ł�����A�Ō�̂ق��͔߂����₵���v����������̂ł�(����̓t�@�C�u�X�^�[����̓V�ƕÉ��̓���Ō�������z�V�[���ł��j<br>
-�@�ł́A�F�X���e�����Ă��������܂������A�X�������肢���܂�<br>
-�@�@�@�@�@�@�@�@�@�@�@�@�y���l�[��oje���<br>
+<font size=3 color=#606060>▼ 堀井　忍さん<br>
+<font color="#cc88ff">&gt;&gt; &gt; 次に質問ですが！「ステーション」は絶対に壊れないのですか？<br>
+&gt; 沙希はいろんな部分の故障を心配して本番前に何度も調査していると<br>
+&gt; 本文に書いていたと思います。それに事故で他人に不幸があれば<br>
+&gt; 自分に責任を感じて立ち直りがなかなかできないでしょうね。</font><br>
+　これを思いついたのは、とある漫画を思い出して書き込みました。<br>
+それは、柴田昌弘先生がお書きになられた紅い牙シリーズの「ブルーソネット」の第１８巻に描かれていることですが。<br>
+この主人公は超能力者です、この戦いのとき、自分の身内が人質にとられました<br>
+救出のためＥＳＰバリアーを張ったところバリアーが破壊され、中の人間は全員死亡しました。<br>
+そのため、主人公は理性を失い、力らが暴走し、九州の半分を海に沈めたと描かれてました<br>
+沙希さんは１０年の清明様の下で修行されたもですから、そのような惨事は無いと思いますが、どのようになるかが頭をよぎりました<br>
+もうひとつ「ステーション」には、結界が張られていると思いますから、魔法(妖術等)は、平気でも物理的攻撃は、如何と思い書かせていただきました<br>
+また、頭に浮かんだことがありましたら、投稿させていただきます<br>
+最後に沙希さんの寿命はどのくらいとお考えですか？<br>
+物凄く永いとお考えでしたら、最後のほうは悲しく寂しい思いをさせるのでは(これはファイブスター物語の天照陛下の日常で見せた回想シーンです）<br>
+　では、色々投稿させていただきましたが、宜しくお願いします<br>
+　　　　　　　　　　　　ペンネームojeより<br>
 <br>
 </font>
 </td></table>
@@ -239,7 +239,7 @@ link<input type=checkbox name="link" value="1" checked>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="horii_sinobu">
@@ -247,16 +247,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="horii_sinobu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=horii_sinobu">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_horii_sinobu.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

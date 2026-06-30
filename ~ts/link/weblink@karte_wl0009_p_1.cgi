@@ -1,262 +1,262 @@
-<html><head><meta http-equiv=Content-Typecontent=text/html; charset=x-sjis>
-<title>¡ ­”N­—•¶ŒÉ ©—R“o˜^§ƒŠƒ“ƒN ¡</title>
+<html><head><meta http-equiv=Content-Typecontent=text/html; charset=UTF-8>
+<title>â–  å°‘å¹´å°‘å¥³æ–‡åº« è‡ªç”±ç™»éŒ²åˆ¶ãƒªãƒ³ã‚¯ â– </title>
 </head>
 <body background="" bgcolor="#ffffff" text="#000000" link="#222222" alink="#ff0000" vlink="#777777">
 <p align=center><center>
-<font color="#000000" size=5><b>¡ ­”N­—•¶ŒÉ ©—R“o˜^§ƒŠƒ“ƒN ¡</b></font><br>
-<font size=2>“o˜^‚Í©—R‚És‚Á‚Ä‚­‚¾‚³‚¢B</font>
+<font color="#000000" size=5><b>â–  å°‘å¹´å°‘å¥³æ–‡åº« è‡ªç”±ç™»éŒ²åˆ¶ãƒªãƒ³ã‚¯ â– </b></font><br>
+<font size=2>ç™»éŒ²ã¯è‡ªç”±ã«è¡Œã£ã¦ãã ã•ã„ã€‚</font>
 <table width=85% border=0 cellpadding=20><tr>
 <td align=center bgcolor=#FFFFFF>
 <table border=3 cellpadding=5><tr>
-<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>¡<a href=./weblink.cgi?link=new&p=1>V’…ƒTƒCƒg</a>¡
-¡<a href="http://ts.novels.jp/">­”N­—•¶ŒÉ‚É–ß‚é</a>¡ ¡<a href=./weblink.cgi?page=add>LINK“o˜^</a>¡
-¡<a href=./weblink.cgi?page=disa>•ÏX/íœ</a>¡
-¡<a href=./weblink.html>“o˜^‚ÌŒˆ‚Ü‚è</a>¡
+<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>â– <a href=./weblink.cgi?link=new&p=1>æ–°ç€ã‚µã‚¤ãƒˆ</a>â– 
+â– <a href="../../index.html">å°‘å¹´å°‘å¥³æ–‡åº«ã«æˆ»ã‚‹</a>â–  â– <a href=./weblink.cgi?page=add>LINKç™»éŒ²</a>â– 
+â– <a href=./weblink.cgi?page=disa>å¤‰æ›´/å‰Šé™¤</a>â– 
+â– <a href=./weblink.html>ç™»éŒ²ã®æ±ºã¾ã‚Š</a>â– 
 </b></font></td></tr></table></td></tr>
 <tr><td align=center bgcolor="#EEFFFF">
-<form action=./weblink.cgi?search=&p=1 method=POST><font size=2>”¼ŠpƒXƒy[ƒX‚ÅuANDvŒŸõ‚ªo—ˆ‚Ü‚·B</font><br>
+<form action=./weblink.cgi?search=&p=1 method=POST><font size=2>åŠè§’ã‚¹ãƒšãƒ¼ã‚¹ã§ã€ŒANDã€æ¤œç´¢ãŒå‡ºæ¥ã¾ã™ã€‚</font><br>
 <input type=hidden name=p value="1">
 <input type=hidden name=semode value="wl0009">
 <input type=text size=20 name=search value="">
-<input type=submit value="@•ª•ÊŒŸõ@"></form>
+<input type=submit value="ã€€åˆ†åˆ¥æ¤œç´¢ã€€"></form>
 <form action=./weblink.cgi?dm= method=POST>
 <input type=hidden name=page value="dispend">
 <input type=hidden name=masdel value="on">
 <table width=90% border=0 cellspacing=1 cellpadding=5><tr>
 <td bgcolor="#EEFFEE" align=center colspan=2>
-<font size=4>***** <b>TSŒn‘S”Ê</b> [95Œ] *****</font></td></tr>
+<font size=4>***** <b>TSç³»å…¨èˆ¬</b> [95ä»¶] *****</font></td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0998"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.profitableinternetbusiness.biz" target="_top"><b>Profitable Internet Business to Make Money</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.profitableinternetbusiness.biz" target="_top"><b>Profitable Internet Business to Make Money</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0997"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.laclassylady-boutique.com/index.php" target="_top"><b>Boutique With Excitable Twist in fashion</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.laclassylady-boutique.com/index.php" target="_top"><b>Boutique With Excitable Twist in fashion</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0994"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.ways-to-make-money.us" target="_top"><b>Super Easy Simple Effective Ways to Make Money</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.ways-to-make-money.us" target="_top"><b>Super Easy Simple Effective Ways to Make Money</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0991"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.internet-classifieds.us" target="_top"><b>Internet Local Classifieds Free Ads</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.internet-classifieds.us" target="_top"><b>Internet Local Classifieds Free Ads</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0989"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.american-classifieds.us" target="_top"><b>The New Free American Classifieds</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.american-classifieds.us" target="_top"><b>The New Free American Classifieds</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0988"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.best-moneymaking.info" target="_top"><b>Best Money Making Information</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.best-moneymaking.info" target="_top"><b>Best Money Making Information</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0987"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.YourGlobal-International-Riches.com" target="_top"><b>The #1 Lead Generation System</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.YourGlobal-International-Riches.com" target="_top"><b>The #1 Lead Generation System</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0986"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.mlmmaxhealth.com" target="_top"><b>MLM Max Health Formula</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.mlmmaxhealth.com" target="_top"><b>MLM Max Health Formula</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0983"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://ecookbook.us" target="_top"><b>Online Cookbooks Outstanding Recipes</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://ecookbook.us" target="_top"><b>Online Cookbooks Outstanding Recipes</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0976"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.iammo.com" target="_top"><b>iAmmo.com  - ammunition firearms hunting</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.iammo.com" target="_top"><b>iAmmo.com  - ammunition firearms hunting</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0975"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.costaricarealestateforsale.net/" target="_top"><b>Costa Rica Real Estate</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.costaricarealestateforsale.net/" target="_top"><b>Costa Rica Real Estate</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0965"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.personalinjurydude.com" target="_top"><b>Personal Injury Lawyer</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.personalinjurydude.com" target="_top"><b>Personal Injury Lawyer</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0964"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.onlineeducationdude.com" target="_top"><b>Online Education</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.onlineeducationdude.com" target="_top"><b>Online Education</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0963"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.erasebadcreditdebtnow.com" target="_top"><b>Improving Your Bad Credit Score</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.erasebadcreditdebtnow.com" target="_top"><b>Improving Your Bad Credit Score</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0962"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.dwidrunkdrivingdude.com" target="_top"><b>DWI Defense Attorney</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.dwidrunkdrivingdude.com" target="_top"><b>DWI Defense Attorney</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0961"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.drugrehabdude.com" target="_top"><b>Drug Rehab Program | Drug Addiction</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.drugrehabdude.com" target="_top"><b>Drug Rehab Program | Drug Addiction</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0960"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.domainnamesdude.com" target="_top"><b>Expired Domain Names</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.domainnamesdude.com" target="_top"><b>Expired Domain Names</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0959"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.cancerdude.com" target="_top"><b>Mesothelioma Cancer Advice</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.cancerdude.com" target="_top"><b>Mesothelioma Cancer Advice</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0958"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.badcreditdebtdude.com" target="_top"><b>Bad Credit Debt Consolidation Loan</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.badcreditdebtdude.com" target="_top"><b>Bad Credit Debt Consolidation Loan</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0949"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.desertclassics.com" target="_top"><b>DesertClassics...Restorable Classic Cars</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.desertclassics.com" target="_top"><b>DesertClassics...Restorable Classic Cars</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0946"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.juliebankstoypoodles.com" target="_top"><b>Julie's Toy Poodles</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.juliebankstoypoodles.com" target="_top"><b>Julie's Toy Poodles</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0941"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.RunningForGold.com" target="_top"><b>RUNNING FOR GOLD</b></a>
- <img src="./new.png">
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.RunningForGold.com" target="_top"><b>RUNNING FOR GOLD</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0939"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.fullsoftware2download.com" target="_top"><b>Instant Downloads 1000's Of Hot Products!</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.fullsoftware2download.com" target="_top"><b>Instant Downloads 1000's Of Hot Products!</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0938"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.internet-downloads.org" target="_top"><b>Free Live Concerts Mp3s Top Music Videos!</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.internet-downloads.org" target="_top"><b>Free Live Concerts Mp3s Top Music Videos!</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0930"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://wwwrdsonlinestore@Discountek.com" target="_top"><b>rdsonlinestore</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://wwwrdsonlinestore@Discountek.com" target="_top"><b>rdsonlinestore</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0918"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://scoopit.ca" target="_top"><b>scoopit Online Penny Auction</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://scoopit.ca" target="_top"><b>scoopit Online Penny Auction</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0911"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.crafts-and-creations.com/Bags/Shoe-Bags/Travel-Shoe-Bags.html" target="_top"><b>Shoe bags dust bags brushed cotton bags</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.crafts-and-creations.com/Bags/Shoe-Bags/Travel-Shoe-Bags.html" target="_top"><b>Shoe bags dust bags brushed cotton bags</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0908"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://onlinebusiness101.us" target="_top"><b>The Guide to Creating an Online Internet Business</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://onlinebusiness101.us" target="_top"><b>The Guide to Creating an Online Internet Business</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0906"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.career.dr.vg" target="_top"><b>Business and  Career: Know Your Ruling Star</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.career.dr.vg" target="_top"><b>Business and  Career: Know Your Ruling Star</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0904"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.dodo.co.il" target="_top"><b>games îùç÷éí</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.dodo.co.il" target="_top"><b>games Â¬éŠ·é³«</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0903"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://articles.dr.vg" target="_top"><b>Top Seven Ways Writing Articles Can Explode Your B</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://articles.dr.vg" target="_top"><b>Top Seven Ways Writing Articles Can Explode Your B</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0902"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.togethertosucceed.com/" target="_top"><b>Legitimate business opportunity</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.togethertosucceed.com/" target="_top"><b>Legitimate business opportunity</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0901"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://aerobics.dr.vg" target="_top"><b>Aerobics bic Cross Training for Weight Loss</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://aerobics.dr.vg" target="_top"><b>Aerobics bic Cross Training for Weight Loss</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0893"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.paidinseconds.com?spring2204" target="_top"><b>Paid in seconds calvin</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.paidinseconds.com?spring2204" target="_top"><b>Paid in seconds calvin</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0892"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://hubpages.com/hub/Abilities" target="_top"><b>Abilities</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://hubpages.com/hub/Abilities" target="_top"><b>Abilities</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0891"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.GetExpert.net" target="_top"><b>GetExpert.net - Hire a Freelancer - Become One</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.GetExpert.net" target="_top"><b>GetExpert.net - Hire a Freelancer - Become One</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0890"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://greatgolfstrategies.fastprofitpages.com/?id" target="_top"><b>Great Golf Strategies</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://greatgolfstrategies.fastprofitpages.com/?id" target="_top"><b>Great Golf Strategies</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0882"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://wealthcreationvault.com/?site" target="_top"><b>7 Figure Income From Home</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://wealthcreationvault.com/?site" target="_top"><b>7 Figure Income From Home</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0881"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://umattr.info" target="_top"><b>Umattr.info</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://umattr.info" target="_top"><b>Umattr.info</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0877"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://vur.me/s/BuildUrList" target="_top"><b>Build Your List</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://vur.me/s/BuildUrList" target="_top"><b>Build Your List</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0872"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nmec.ne.jp/" target="_top"><b>NMEC</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nmec.ne.jp/" target="_top"><b>NMEC</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0866"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://automated-online-advertising.blogspot.com" target="_top"><b>Autometed Internet Marketing Robot</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://automated-online-advertising.blogspot.com" target="_top"><b>Autometed Internet Marketing Robot</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0864"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://cellmobiledeals.com/" target="_top"><b>Best Mobile Phone Deals Free Cell Phones</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://cellmobiledeals.com/" target="_top"><b>Best Mobile Phone Deals Free Cell Phones</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0852"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.jjjartstudio.com" target="_top"><b>JJJ Art Studio - Josefin Johansson Art Sculptures</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.jjjartstudio.com" target="_top"><b>JJJ Art Studio - Josefin Johansson Art Sculptures</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0848"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.plugin.com" target="_top"><b>The Best Free Software on the Web - Plugin.com</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.plugin.com" target="_top"><b>The Best Free Software on the Web - Plugin.com</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0847"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.resgatedolider.com.br/" target="_top"><b>Resgate o Lider que Existe em VOCÊ!</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.resgatedolider.com.br/" target="_top"><b>Resgate o Lider que Existe em VOCãƒ!</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0846"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.paulinhoeventos.blogspot.com/" target="_top"><b>Paulinho Eventos para TV e Shows</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.paulinhoeventos.blogspot.com/" target="_top"><b>Paulinho Eventos para TV e Shows</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0842"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.ronsmachinetools.ca" target="_top"><b>ron's machine tools</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.ronsmachinetools.ca" target="_top"><b>ron's machine tools</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0840"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.televisiononline.us" target="_top"><b>Purchase Satellite TV Online</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.televisiononline.us" target="_top"><b>Purchase Satellite TV Online</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0837"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.onlinecasino-en.net" target="_top"><b>Online casino - bonus online casinos</b></a>
-<br>@<font size=2> </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.onlinecasino-en.net" target="_top"><b>Online casino - bonus online casinos</b></a>
+<br>ã€€<font size=2> </font>
 </td></tr>
-<tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="ƒƒ“ƒeíœ"><br>
-<font size=2>íœFƒ}ƒXƒ^[ƒL[‚ğ‹L“ü‚µ‚Ä‰º‚³‚¢B</font></form>
+<tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="ãƒ¡ãƒ³ãƒ†å‰Šé™¤"><br>
+<font size=2>å‰Šé™¤ï¼šãƒã‚¹ã‚¿ãƒ¼ã‚­ãƒ¼ã‚’è¨˜å…¥ã—ã¦ä¸‹ã•ã„ã€‚</font></form>
 </td></tr></table>
-<p align=center><center><form action="./weblink.cgi?karte=wl0009&p=2" method="POST"><input type=hidden name=p value="2">
+<p align=center><center><form action="weblink@karte_wl0009_p_2.cgi" method="POST"><input type=hidden name=p value="2">
 <input type=hidden name=lcounts value="50"><input type=hidden name=karte value="wl0009">
-<input type=submit value=‘S95Œ’†51`95Œ¨>
+<input type=submit value=å…¨95ä»¶ä¸­51ã€œ95ä»¶â†’>
 </form></center></p>
 </td></tr></table>
 </center></p>
 <form action=./weblink.cgi method=POST>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=submit value="LINK TOP"></form>
 <p align=right><font size=2><a href="http://www.pmcj.com/" target="top">WEB LINK [SPS] ver3.34 by Tomey</a></font></p>
-<p> ƒŠƒ“ƒNW‚É‚Â‚¢‚Ä‚Ì‚¨–â‚¢‡‚í‚¹@<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>
+<p> ãƒªãƒ³ã‚¯é›†ã«ã¤ã„ã¦ã®ãŠå•ã„åˆã‚ã›ã€€<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>

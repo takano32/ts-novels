@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,54 +52,54 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�Ԏq�̔Y�ݑ��k���I�@�ŏI�b�u�Ό��I�@�ؑゖ���Ԏq�v
+花子の悩み相談室！　最終話「対決！　華代ｖｓ花子」
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF����������</center><tr>
+<center>作者：流離太さん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�@����ɂ��́A�^��ؑ�ł��B <br>�@�ŋ߂͖{���ɐS�̎₵���l�΂���B����ȊF����ׂ̈Ɏ��͊������Ă��܂��B<br>�@�܂��܂����n�ł�����ǂ��A���܂��܎����ʂ肩����܂����Ƃ��A���Y�݂Ȃǂ������܂����琥��Ƃ����\���t���������B<br>�@���ɏo����͈͂ň˗��l�̕��̂��Y�݂�I�U�����Ă����ɓ���܂��傤�B�ǂ������C�y�ɂ��\���t���������܂��B <br>�@��V�ł����H <br>�@�����A�����͒����Ă���܂���B <br>�@���q�l������������΁A���ꂪ�����̕�V�ł������܂��B <br>�@���āA����͉ʂ���������������܂����B <br>�@���N�������ɂ̐�y�Ƃ��āA������Ԃ��̂߁\�\���������A�����������ɂ܂���܂��B <br><br><br><br><br>�@�u�ؑタ���ɉʂ�����I�I�H�v <br>�@�v�킸���ԉ��́A�������ςƐԂ��݂�X�J�[�g���`���[���|�C���g�̔������w�Ԏq�x���B���j�q���w���ŁA���͗H�����Ă�B <br>�@�Ȃ�ł���Ȃ��ƂɂȂ������Ƃ����ƁA������ˑR���̎q�ɂȂ��Ă����Ă����킯�B <br>�@���̌�A�N���X���C�g�̎����ɑς����Ȃ��Ď��E�����񂾂��ǁc�c���v���΂��̑̂��g���Ă��������Ȃɂ��ł��������Ǝv���B <br>�@�܂��A�g�C���Ő��k�B�̉\�b��������A���͂Ȃ�Ƃ��y��������āc�c���͉̂����ߋ����B<br>�@�u�͂��I�@�����ŏ��N�������ɂ������낤���Ǝv���āv <br>�@�ዾ�̐����́A�����Ƌ��ꑽ�����Ƃ������B���̖��u�u�L�~�v���B <br>�@�u���O�A���S�l�|���΍ςނƎv���Ă�񂾁I�I�@����ɁA�ؑタ��񂾂��I�I�@���x�����Ⴂ��������ẮI�I�@�ŏ��Ƀ��C�f���Y��i�I�����̂��Ó������ẮI�I�v <br>�@�u�c�c���߂���A�����Ŏ����I������v <br>�@�u�o�X�P���c�c�������ł��c�c�B�\�\����Ȃ��āI�I�v <br>�@��Ȃ���Ȃ��B�v�킸�����̃y�[�X�ɂ͂܂�Ƃ��낾�����B <br>�@�u�܂��A�����ƂȂ�����Q�l�Ŗő��ł��ɂ��悤��I�v <br>�@���������āA�u�L�~�̓��b�v��|���p����ꂩ��o���B �r�[�A���̔]���Ɂu���w�������@�ő��ł��I�v�Ƃ������o�����߂���B<br>�@�\�\���₢�₢��I�I�I�@�������ɂ����܂ł������A���率�k�ɒǂ��o�������āI�I�I<br>�@����Ȏ��A���̔w��œ����ʂ�悤�Ȑ��������B <br>�u���o�����ł����A�ʂ�������o�����̂́H�v <br>�@�v�킸�U��Ԃ�ƁA�����ɂ͒��X�̂悤�ɐ^�����ȕ��𒅂����̎q���B <br>�@�����A�ؑタ��񂾁c�c�B <br>�@�\�ɂ͕����Ă������A�v�킸�q��ł��܂����炢�̐_�X�����B���̍��^��݂������Y��ȓ��ɂ́A�ЂƂ�����̎׋C���Ȃ��B�܂Ƃ��ɒ����ł��Ȃ����́A�����q��Ă���ȁB <br>�@����ȉ��ɍ\�킸�A�u�L�~�̓��b�v��U��グ��B <br>�@�u�ʂ����т��゠�����I�I�v <br>�@�ǂ�Ȋ|��������I�H <br>�@�ؑタ���́A�����オ�邩�̂悤�ɂ���������B <br>�@�u���ӂӁc�c�ؑタ���B���B�̂��߂Ɏ���Łv <br>�@�u�L�~�́A�ڂ����肦�Ȃ����炢���J���B�ǂ����A�ؑタ���̐_�X�������킩��Ȃ��قǕ��肫���Ă���炵���B <br>�@�Ă������A�������Ƃ݂����Ɍ����ȁI�I <br>�@�u���́A���o�l�̂��߂Ɏd���Ȃ�����Ă�񂾂���v <br>�@���āA������Ƃ���I�H <br>�@�u��[�A���������ԓx�ɏo��Ȃ�d���Ȃ��ł��˂��c�c�\�[���I�I�v <br>�@�ؑタ���́A�v���؂藼����グ��B��̉�������C���H�@�I����͂����������H�@�\�\�܂����A�c���ɂ��Ė��͉�������肩���B<br><br><br>�@�c�c�������A�ӂ�̓V�[���Ƃ��ĂȂɂ��N���Ȃ��B <br>�@�Ȃ񂾁A�Ȃɂ�������񂾁H <br><br>�@�\�\���̎��������B <br><br>�@�L�����狿���A�ς��ς��Ƃ��������̑����B <br>�@�₪�āA�g�C���̌˂��J���������B <br>�@�����ɂ́A���\�l���̉ؑタ���B���B��ɂ́A�o�n����B�o�b�g���v���v���̕���������Ă���B <br>�@�u���c�c�����c�c�A���������c�c�����c�c�v<br>�@�J�^�J�^�Ɛk�����~�܂�Ȃ��B <br>�@�܂����c�c�S�Z���k���ؑタ��񉻂����̂��H�@�������̗͂ŁB<br>�@�u���ꂶ�Ⴀ�A���������Ă������[���I�v <br>�@��Ăɔ�ъ|��ؑタ���Y�B <br>�@���͂��̏u�ԁA�V�g�ƈ����͎���d���ƔF�������c�c�B <br><br><br><br>�@�������āA�ؑタ���͋����Ă������B���Ƃɂ́A�����炯�̉��B���c����Ă���̂݁B <br>�@�u���Ăāc�c��������ė�̂ɂ��U���ł���񂾁c�c�v <br>�@�S�g���Ђ�Ђ肷��B���΂���͏��������c�c���āA���Ƃ��Ǝ���ł邯�ǁB <br>�@����ȉ��̊���A�S�z�����ɔ`�����ރu�L�~�B <br>�@�ዾ�̉��ɂ���A�����ʂ�悤�ȓ��B���Ɠ����炾���ǁA�v�킸�h�L�b�Ƃ���B <br>�@�u���v�ł����A���o�l�H�v <br>�@�u��c�c�܂��A�����菝�����I�v <br>�@���������āA���͒p�����������떂�����B <br>�@�u�ʖڂ�I�@���̒����؂��Ă�݂��������B�����Ə��ł��Ȃ��Ɓc�c��łˁv <br>�@��]���āA�ЁX���������h���u�L�~�B <br>�@���ǂ��ꂩ��I�I <br>�@�\�\�Ȃ�Ă����ޑO�ɁA�O�ƐO���d�Ȃ荇���B <br>�@�u�����I�I�@��\�\�\�����I�I�v <br>�@���i�������A�����Ȑ�Ɛ�B��΂��A�_�炩���Ă����Ђ����c�c�B�����Ƃ����ԂɁA���͂���邪�܂܂ɂȂ�B <br>�@�������c�c�A���A�ǂ�ǂ�����Ă����C������c�c�B <br><br><br><br><br>�@����́A���\�y�ȃ~�b�V�����ł����B <br>�@��������ċ���I�w����������̂��A��y�Ƃ��Ă̖�ځI�@����ɂ߂����A����΂��Ă��������܂��I <br>�@����ɂ��Ă��A�����悭�đA�܂����ł��˂��B�����A����q�����Ɓc�c�B <br>�@�\�\�ȁA�Ȃ�ł�����܂���B <br>�@�ł́A���x�͂��Ȃ��B�̊X�ɂ��f�����邩������܂���I <br>�@���̎��́A�^��ؑ�܂ŁI<br>
+　こんにちは、真城華代です。 <br>　最近は本当に心の寂しい人ばかり。そんな皆さんの為に私は活動しています。<br>　まだまだ未熟ですけれども、たまたま私が通りかかりましたとき、お悩みなどございましたら是非ともお申し付け下さい。<br>　私に出来る範囲で依頼人の方のお悩みを露散させてご覧に入れましょう。どうぞお気軽にお申し付け下さいませ。 <br>　報酬ですか？ <br>　いえ、お金は頂いておりません。 <br>　お客様が満足頂ければ、それが何よりの報酬でございます。 <br>　さて、今回は果たし状をいただきました。 <br>　少年少女文庫の先輩として、今からぶちのめ——いえいえ、お灸をすえにまいります。 <br><br><br><br><br>　「華代ちゃんに果たし状！！？」 <br>　思わず叫ぶ俺は、おかっぱと赤い吊りスカートがチャームポイントの美少女『花子』だ。元男子中学生で、今は幽霊やってる。 <br>　なんでこんなことになったかというと、ある日突然女の子になってたっていうわけ。 <br>　その後、クラスメイトの視線に耐えられなくて自殺したんだけど……今思えばこの体を使ってもう少しなにかできたかもと思う。 <br>　まあ、トイレで生徒達の噂話聞いたり、今はなんとか楽しくやって……たのは遠い過去だ。<br>　「はい！　ここで少年少女文庫を乗っ取ろうかと思って」 <br>　眼鏡の青服女は、さらりと恐れ多いことを言う。俺の妹「ブキミ」だ。 <br>　「お前、何百人倒せば済むと思ってるんだ！！　それに、華代ちゃんだぞ！！　レベルが違いすぎるっての！！　最初にメイデンズやナオをやるのが妥当だっての！！」 <br>　「……諦めたら、そこで試合終了だよ」 <br>　「バスケが……したいです……。——じゃなくて！！」 <br>　危ない危ない。思わずこいつのペースにはまるところだった。 <br>　「まあ、いざとなったら２人で滅多打ちにしようよ！」 <br>　そう言って、ブキミはモップを掃除用具入れから出す。 途端、俺の脳裏に「小学生女児　滅多打ち！」という見出しが過ぎる。<br>　——いやいやいや！！！　さすがにそこまでやったら、俺ら紫婆に追い出されるって！！！<br>　そんな時、俺の背後で透き通るような声が響く。 <br>「お姉ちゃんですか、果たし状を出したのは？」 <br>　思わず振り返ると、そこには蝶々のように真っ白な服を着た女の子が。 <br>　ああ、華代ちゃんだ……。 <br>　噂には聞いていたが、思わず拝んでしまうくらいの神々しさ。その黒真珠みたいに綺麗な瞳には、ひとかけらの邪気もない。まともに直視できない俺は、相当穢れているな。 <br>　そんな俺に構わず、ブキミはモップを振り上げる。 <br>　「ぬおりゃびちゅあっっ！！」 <br>　どんな掛け声だよ！？ <br>　華代ちゃんは、舞い上がるかのようにそれを避ける。 <br>　「うふふ……華代ちゃん。私達のために死んで」 <br>　ブキミは、目をありえないくらい見開く。どうやら、華代ちゃんの神々しさがわからないほど腐りきっているらしい。 <br>　ていうか、俺を共犯みたいに言うな！！ <br>　「私は、お姉様のために仕方なくやってるんだから」 <br>　って、俺が主犯かよ！？ <br>　「んー、そういう態度に出るなら仕方ないですねえ……ソーレ！！」 <br>　華代ちゃんは、思い切り両手を上げる。一体何をする気だ？　オレらはもう女だぞ？　——まさか、幼女にして無力化するつもりかも。<br><br><br>　……しかし、辺りはシーンとしてなにも起きない。 <br>　なんだ、なにをやったんだ？ <br><br>　——その時だった。 <br><br>　廊下から響く、ぱたぱたという無数の足音。 <br>　やがて、トイレの戸が開け放たれる。 <br>　そこには、何十人もの華代ちゃん達が。手には、出刃包丁やら釘バットやら思い思いの武器を持っている。 <br>　「あ……あぅ……、あぅあぅ……あぅ……」<br>　カタカタと震えが止まらない。 <br>　まさか……全校生徒が華代ちゃん化したのか？　さっきの力で。<br>　「それじゃあ、やっちゃってくださーい！」 <br>　一斉に飛び掛る華代ちゃんズ。 <br>　俺はその瞬間、天使と悪魔は紙一重だと認識した……。 <br><br><br><br>　こうして、華代ちゃんは去っていった。あとには、傷だらけの俺達が残されているのみ。 <br>　「いてて……あいつらって霊体にも攻撃できるんだ……」 <br>　全身がひりひりする。命ばかりは助かった……って、もともと死んでるけど。 <br>　そんな俺の顔を、心配そうに覗き込むブキミ。 <br>　眼鏡の奥にある、透き通るような瞳。俺と同じ顔だけど、思わずドキッとする。 <br>　「大丈夫ですか、お姉様？」 <br>　「ん……まあ、かすり傷だし！」 <br>　そう言って、俺は恥ずかしさを誤魔化す。 <br>　「駄目よ！　口の中も切ってるみたいだし。ちゃんと消毒しないと……舌でね」 <br>　一転して、禍々しい光を宿すブキミ。 <br>　結局それかよ！！ <br>　——なんてつっこむ前に、唇と唇が重なり合う。 <br>　「んんっ！！　ん———っっ！！」 <br>　抱擁しあう、小さな舌と舌。やばい、柔らかくてきもひいい……。あっという間に、俺はされるがままになる。 <br>　ううっ……、俺、どんどん堕落していく気がする……。 <br><br><br><br><br>　今回は、結構楽なミッションでした。 <br>　こうやって教育的指導を加えるのも、先輩としての役目！　これにめげず、がんばってくださいませ！ <br>　それにしても、仲がよくて羨ましいですねえ。私も、魅夜子ちゃんと……。 <br>　——な、なんでもありません。 <br>　では、今度はあなた達の街にお伺いするかもしれません！ <br>　その時は、真城華代まで！<br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-<a href=mailto:leoobake@hotmail.com>������</a>
+<a href=mailto:leoobake@hotmail.com>流離太</a>
 </address>
-<a href=http://www27.atwiki.jp/kakinoki/>����������̃T�C�g�Fhttp://www27.atwiki.jp/kakinoki/</a><br>
-2007�N06��28��(��) 23��23��16�b ���J<br>
+<a href=http://www27.atwiki.jp/kakinoki/>流離太さんのサイト：http://www27.atwiki.jp/kakinoki/</a><br>
+2007年06月28日(木) 23時23分16秒 公開<br>
 <!--58.93.191.102-->
-<font color=red>�����̍�i�̒��쌠�͗���������ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権は流離太さんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�ؑタ���t�@���ɎE����Ȃ����A�S�z�ł��i��<br>
+華代ちゃんファンに殺されないか、心配です（汗<br>
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>��ϒx��Ă��܂��܂��āA�\���󂠂�܂���B<BR>��������A�����{���ɂ��肪�Ƃ��������܂��B<BR>���͂��̍�i�A�̏��������̂̏Ă������Ȃ�ł���B<BR>�ŋ߁A�C���X�s���[�V�����������Ȃ��Ƃ������A�񎟑n��̃A�C�f�A�΂���c�c�B<BR>�\�\�ƁA�ǂ��ł������b�����݂܂���i�O�O�G<BR>���Ƃł��ˁA���͂��̂��b�A�ŏI��ł͂���܂���B<BR>�����̃z�[���y�[�W�ŘA�ڂ𑱂��Ă��������ƍl���Ă��܂��B<BR>�Ԏq�V���[�Y�͂������ɓ��e�̗\��͂���܂��񂪁A������������u�A���Ă����Ԏq����v�Ȃ�Ă̂���邩������܂���<BR>�����̃L������ɂ���ł��������A�{���ɂ��肪�Ƃ��������܂��i�ߺ�<BR>��������̎������y���݂ɂ��Ă��܂��ˁ�</td>
-<td width=10%><a href=mailto:leoobake@hotmail.com>������</a></td>
-<td width=20%>��2007-07-05 11:54:03</td>
+<td style=font-size:10pt>大変遅れてしまいまして、申し訳ありません。<BR>長束さん、いつも本当にありがとうございます。<BR>実はこの作品、昔書いたものの焼き直しなんですよ。<BR>最近、インスピレーションが働かないというか、二次創作のアイデアばかり……。<BR>——と、どうでもいい話をすみません（＾＾；<BR>えとですね、実はこのお話、最終回ではありません。<BR>うちのホームページで連載を続けていきたいと考えています。<BR>花子シリーズはもう文庫投稿の予定はありませんが、もしかしたら「帰ってきた花子さん」なんてのをやるかもしれませんｗ<BR>うちのキャラを惜しんでいただき、本当にありがとうございます（ペコリ<BR>長束さんの次回作も楽しみにしていますね♪</td>
+<td width=10%><a href=mailto:leoobake@hotmail.com>流離太</a></td>
+<td width=20%>■2007-07-05 11:54:03</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�ǂ����A�q�ǂ��܂����B�c�c�Ȃ�ƁA���ɖI�N����܂������A�Ԏq�a�B����ł͂��ꂪ���߂��I�������΁A�ƌy�{�P�͂��Ă����āB<BR>�����������y���ȉ�b�ɂ��i�s���čD���ł��B�G�b�W�̗������M���O���Ⴆ�Ă܂������ˁB�����A�w�ŏI�b�x���ƁA����ł������������Ă����L������������U�̐؂�ڂɂȂ��Ă��܂��̂��Ǝv���Ə����₵���C�����܂������ǂ��ˁB<BR>���Ă����A�y������i�����肪�Ƃ��������܂����B���������������҂��Ă���܂��B<BR></td>
-<td>����</td>
-<td width=20%>��2007-07-01 11:04:19</td>
+<td style=font-size:10pt>どうも、拝読しました。……なんと、ついに蜂起されましたか、花子殿。それではそれがしめが露払いをば、と軽ボケはさておいて。<BR>こういった軽妙な会話による進行って好きです。エッジの利いたギャグも冴えてましたしね。ただ、『最終話』だと、これでせっかく立ってきたキャラたちも一旦の切り目になってしまうのかと思うと少し寂しい気もしましたけどもね。<BR>さておき、楽しい作品をありがとうございました。次回もご活躍を期待しております。<BR></td>
+<td>長束</td>
+<td width=20%>■2007-07-01 11:04:19</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -107,24 +107,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20070628225345">
 <input type=hidden name="num_r" value="20070628225345">
 <input type=hidden name="url" value="">
@@ -140,17 +140,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20070628225345">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -160,9 +160,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,53 +52,53 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�j����������
+男をかえして
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�W���������Y����</center><tr>
+<center>作者：ジョン万次郎さん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-���͂���čՂ�̓��A�������̏�����Ăяo����H������B�_�Ђ̋����̗��A�܂��l�̗��Ȃ��Ƃ��낾�����B<br>���̂悤����������Ȃ��B������Ђ�����҂��Ă����B<br>�����ɂȂ����B�ԉ΂��オ���Ă����B�q���[�p�[���B�؁X�̊Ԃ�������y�􂵂�������Ƃ炷�B<br>�\����̊������A���̈łւƏ�����B<br>�ޏ������ꂽ�B<br>������Ƃ��������̔ޏ��͕Ў�ɕ������{�������Ă����B<br>�u�Ȃ񂾂���v<br>�ޏ��͖������Ă��̖{���L�����B�����Č������B<br>�u�I���i�ɂȂ�!!�v<br>�Ȃ�̂��Ƃ���������Ȃ������B�������A�o���b�Ɖ�����݁A�̂̔炪�������Ƃ��ꂽ�悤�ȋC��������A���ׂĂ�������B<br>���͂Ԃ��Ԃ��ɂȂ�A�̒����_�炩���Ȃ�A���ɂ͓�̂ӂ���݂��ł��Ă����B<br>���͗�����҂̊Ԃɂ�����B<br>�u�Ȃ��[!!!�v<br>���̐��͉ԉ΂̉��ł��������ꂽ�B<br>�u���߂ɂȂ�!�v<br>�ޏ��̐��ƂƂ��ɁA���̑̂�����邵���Ɖ��������������Ă����B�����Đ��b��A���̑̂̓s���N�̗��߂ɕ�܂�Ă����B<br>�u�Ȃɂ��񂾂�!!�v<br>���͗��߂��������グ�Ĕޏ��ɒ݂͂����낤�Ƃ����B<br>�u����Ȃ炵���Ȃ�!!�v<br>�ޏ��̐��ƂƂ��ɂ������̓����S�̓V�����ƐÂ܂����B����t�ɓ��ʂ���p�j�b�N�ɂȂ����B<br>�u�˂��Ȃɂ����̂�A�˂��A�˂�������!!�v�������ł������͋��ԁB<br>�����Ă��̂܂ܒn�ʂɂւ��荞�ݗ܂𗬂����B��������Ȃ�ĂȂ��̂Ɏ��R�Ɨ܂��o�Ă���B<br>�u�ꐶ�A�Ȃɂ������Ă����ɂȂ�!�v<br>�ޏ������񂾁B�������̑̂���u����B<br>�����Ĕޏ����Ăы��ԁB<br>�u�I�g�R�ɂȂ�!!�v<br>�ڂ����Ƃ������̎����������ށB�������͊��҂��Ď����̎�������B����������ׂ͍��ӂ��Ƃ������̎肾�����B<br>�u�Ӂ[�p�[�t�F�N�g�v<br>�ޏ��̓o�^���Ɩ{������B<br>�u���Ȃ��͂���ňꐶ���ˁB���v�A�����N�����Ȃ���j�����Ċo���Ă���l�͂��Ȃ����A���Ȃ������Ă��̂����Y��Ă��܂�����v<br>�u���肢�A�j����������!!�v<br>�u������A�����������ł���B���Ȃ��͈ꐶ�I���i��B���Ⴀ�ˁv<br>�u�܂��Ă�!�v<br>�������͔ޏ����������悤�Ƃ����B�ޏ������������{���J���B<br>�u���Ȃ��͐�����!!�v<br>�ˑR�������̉������ɕ��ɂ��͂������B���܂ň�x�����đ̌��������Ƃ̂Ȃ��ɂ݂��B<br>�u�����A�Â��ɂ��Ă��Ăˁv<br>�ޏ��͂��̂܂܏����Ă����Ă��܂����B<br><br>�����܂�
+俺はある夏祭りの日、同級生の女から呼び出しを食らった。神社の境内の裏、まず人の来ないところだった。<br>何のようだか分からない。だからひたすら待っていた。<br>七時になった。花火が上がっていく。ヒューパーン。木々の間から光が炸裂しあたりを照らす。<br>表舞台の歓声が、この闇へと消える。<br>彼女が現れた。<br>からっとした服装の彼女は片手に分厚い本を持っていた。<br>「なんだそれ」<br>彼女は無視してその本を広げた。そして言った。<br>「オンナになれ!!」<br>なんのことだか分からなかった。しかし、バンッと煙が包み、体の皮がそぎ落とされたような気がした後、すべてを悟った。<br>服はぶかぶかになり、体中が柔らかくなり、胸には二つのふくらみができていた。<br>俺は両手を股の間にやった。<br>「ないー!!!」<br>その声は花火の音でかき消された。<br>「浴衣になれ!」<br>彼女の声とともに、俺の体をしゅるしゅると何かが覆い直していく。そして数秒後、俺の体はピンクの浴衣に包まれていた。<br>「なにすんだよ!!」<br>俺は浴衣をたくし上げて彼女に掴みかかろうとした。<br>「おんならしくなれ!!」<br>彼女の声とともにあたしの闘争心はシュンと静まった。いや逆に内面からパニックになった。<br>「ねぇなにしたのよ、ねえ、ねえったら!!」半狂乱であたしは叫ぶ。<br>そしてそのまま地面にへたり込み涙を流した。泣くつもりなんてないのに自然と涙が出てくる。<br>「一生、なにがあっても女になれ!」<br>彼女が叫んだ。あたしの体が一瞬光る。<br>そして彼女が再び叫ぶ。<br>「オトコになれ!!」<br>ぼわんっとあたしの周りを煙が包む。あたしは期待して自分の手を見た。しかしそれは細いふわりとした女の手だった。<br>「ふーパーフェクト」<br>彼女はバタンと本を閉じた。<br>「あなたはこれで一生女ね。大丈夫、もう誰もあなたを男だって覚えている人はいないし、あなただってそのうち忘れてしまうから」<br>「お願い、男をかえして!!」<br>「無理よ、さっき見たでしょ。あなたは一生オンナよ。じゃあね」<br>「まってよ!」<br>あたしは彼女を押さえようとした。彼女がすかさず本を開く。<br>「あなたは生理中!!」<br>突然あたしの下腹部に腹痛がはしった。今まで一度だって体験したことのない痛みだ。<br>「さあ、静かにしていてね」<br>彼女はそのまま消えていってしまった。<br><br>おしまい
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�W���������Y
+ジョン万次郎
 </address>
-2004�N07��07��(��) 20��13��31�b ���J<br>
+2004年07月07日(水) 20時13分31秒 公開<br>
 <!--219.191.62.70-->
-<font color=red>�����̍�i�̒��쌠�̓W���������Y����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はジョン万次郎さんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�悵15���ŏ��������B�Ȃ�̈Ӗ����Ȃ��ᑭ�Șb�����ǁE�E�E�B���Ԃ�t�F�~�j�X�g�ɎE����܂��ˁB�����炢���̖��O�͏����܂���B�ł�
+よし15分で書いたぞ。なんの意味もない低俗な話だけど・・・。たぶんフェミニストに殺されますね。だからいつもの名前は書きません。では
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>��������</td>
-<td>��</td>
-<td width=20%>��2004-07-09 16:42:02</td>
+<td style=font-size:10pt>すごいぜ</td>
+<td>中</td>
+<td width=20%>■2004-07-09 16:42:02</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���˂ɂ���Ȃ��Ƃ��ꂽ��ǂ����悤�B<BR>�������̏��̎q���ĕ|���ł��ˁB</td>
-<td>酉J</td>
-<td width=20%>��2004-07-07 21:56:35</td>
+<td style=font-size:10pt>唐突にこんなことされたらどうしよう。<BR>同級生の女の子って怖いですね。</td>
+<td>驟雨</td>
+<td width=20%>■2004-07-07 21:56:35</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -106,24 +106,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20040707201331">
 <input type=hidden name="num_r" value="20040707201331">
 <input type=hidden name="url" value="">
@@ -139,17 +139,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20040707201331">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -159,9 +159,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

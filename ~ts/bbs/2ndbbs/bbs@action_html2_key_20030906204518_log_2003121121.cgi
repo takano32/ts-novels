@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,63 +52,63 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�n���^�[�P�R���Ɋւ����l�@
+ハンター１３号に関する一考察
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�l�n�m�c�n����</center><tr>
+<center>作者：ＭＯＮＤＯさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�@�ނ̖��́A�n���^�[�P�R���c�c<br><br>�@�^��ؑ�ɂ���ď��������ꂽ�����ɖ߂肽���Ȃ��ʁX�ɑܒ@���ɂ���A�Ŋ����ɂ��ꂽ��ɐ_�c��ւƕ��荞�܂ꂽ�ނ́A�n���^�[�Ȋw�w�̑��͂����W����A�T�C�{�[�O�{�����u�I�g�R�b�v�v�Ƃ��Ă�݂��������I�I<br><br>�@���������`���`�A���������`���A���������`���`���`��<br>�@���������`���`�A���������`���`�A���`����������<br><br>�u�������ɂs�r�s�ׂ���߂�^��ؑ�B���O��ߔ�����v<br>�u�c�c���̕P�_�Ós���ɁA�e�������邩��H�v<br><br>�@����ǁ`����I�I<br><br><br><br>�@�ނ̖��́A�n���^�[�P�R���c�c<br><br>�@�P�_���܂Ɍ��ܔ����ĕԂ蓢���ɂ���A�R���Ȃ��S�~�̓��ɏo���ꂽ�ނ́A����Ȃ鋭���������{����A�u�I�g�R�b�v�Q�v�Ƃ��Đ��܂�ς�����I�I<br><br>�@���������������`���A���������������`��<br>�@���������������`���A���������������`���A��������<br><br>�u�������ɂs�r�s�ׂ���߂�^��ؑ�B���O��ߔ�����v<br>�u�c�c���炠�炲��J���܂ł��`���B�ł������͉Ηj����Ȃ��Đ��j���Ł`����`�v<br>�u����c�c�j���̂��Ƃ���Ȃ��Ǝv�����A�p�������v<br><br>�@����ǁ`����I�I<br><br><br><br>�@�ނ̖��́A�n���^�[�P�R���c�c<br><br>�@�p�������̑�{�P�ɂ��Ă����Ȃ������ނ́A�Е��̔����藎�Ƃ��ĎR���Ă���A��V�u��ԗ֋S�ԁv��������u�I�g�R�b�v�R�v�Ƃ��ċA���Ă����I�I<br><br>�@��������`������`������`���A�������������`��<br>�@��������`������`������`���A�������������`��<br>�@��������`���`���A��������`���`����<br>�i�Ȃ�ł��������u�r�t�H�[�A�t�^�[�v��˂�c�c�j<br><br>�u�������ɂs�r�s�ׂ���߂�^��ؑ�B���O��ߔ�����v<br>�u���ށA���͂��Ă����̂��B����͂��肪�����v<br><br>�@���тттт��B<br><br><br><br>�@�ނ̖��́A�n���^�[�P�R���c�c<br><br>�@���̉\�ł́A�ނ͏����^���C�h���{�Ƃ��ĂƂ��邨���~�ɖ��߂Ă���Ƃ����c�c
+　彼の名は、ハンター１３号……<br><br>　真城華代によって女性化されたが元に戻りたくない面々に袋叩きにされ、簀巻きにされた上に神田川へと放り込まれた彼は、ハンター科学陣の総力を結集され、サイボーグ捜査官「オトコップ」としてよみがえった！！<br><br>　だだだだ〜だ〜、だだだだ〜っ、だだだだ〜だ〜だ〜っ<br>　だだだだ〜だ〜、だだだだ〜だ〜、だ〜だだだっ♪<br><br>「ただちにＴＳ行為をやめろ真城華代。お前を捕縛する」<br>「……この姫神古都音に、銃を向けるかや？」<br><br>　ちゅど〜んっ！！<br><br><br><br>　彼の名は、ハンター１３号……<br><br>　姫神さまに喧嘩売って返り討ちにされ、燃えないゴミの日に出された彼は、さらなる強化改造を施され、「オトコップ２」として生まれ変わった！！<br><br>　だかだかだった〜っ、だかだかだった〜っ<br>　だかだかだった〜っ、だかだかだった〜っ、だだっ♪<br><br>「ただちにＴＳ行為をやめろ真城華代。お前を捕縛する」<br>「……あらあらご苦労さまです〜っ。でも今日は火曜じゃなくて水曜日で〜すわ〜」<br>「いや……曜日のことじゃないと思うぞ、パラレル」<br><br>　ちゅど〜んっ！！<br><br><br><br>　彼の名は、ハンター１３号……<br><br>　パラレルの大ボケについていけなかった彼は、片方の眉を剃り落として山に籠もり、秘儀「大車輪鬼車」を会得した「オトコップ３」として帰ってきた！！<br><br>　ちゃらりらり〜ちゃらり〜ちゃらり〜っ、んっちゃらりらりらり〜っ<br>　ちゃらりらり〜ちゃらり〜ちゃらり〜っ、んっちゃらりらりらり〜っ<br>　ちゃらりらり〜らり〜っ、ちゃらりらり〜らり〜っ♪<br>（なんでここだけ「ビフォーアフター」やねん……）<br><br>「ただちにＴＳ行為をやめろ真城華代。お前を捕縛する」<br>「うむ、協力してくれるのか。それはありがたい」<br><br>　ずびびびびっ。<br><br><br><br>　彼の名は、ハンター１３号……<br><br>　風の噂では、彼は女性型メイドロボとしてとあるお屋敷に務めているという……
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-<a href=mailto:nasuka@df.mbn.or.jp>�l�n�m�c�n</a>
+<a href=mailto:nasuka@df.mbn.or.jp>ＭＯＮＤＯ</a>
 </address>
-2003�N09��06��(�y) 20��45��18�b ���J<br>
+2003年09月06日(土) 20時45分18秒 公開<br>
 <!--cse38-38.osaka.mbn.or.jp-->
-<font color=red>�����̍�i�̒��쌠�͂l�n�m�c�n����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はＭＯＮＤＯさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�@�ӂƎv�����ď����Ă݂܂����B<br>�@�M���O�̊�{�͌J��Ԃ��ł��i�c�c�H�j�B
+　ふと思いついて書いてみました。<br>　ギャグの基本は繰り返しです（……？）。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>����͂͂͂́B�������B<BR>���n���������������ǁA����ȏ�Ɂw�V�O�����x�̖��L�����w�}���g�[�x�̌O�肪�B<BR>��炩���Ă��������܂����B<BR></td>
-<td width=10%><a href=mailto:goldarm@mbd.nifty/com>�S�[���h�A�[��</a></td>
-<td width=20%>��2003-12-03 17:06:10</td>
+<td style=font-size:10pt>ぎゃはははは。お見事。<BR>空手馬鹿一代もそうだけど、それ以上に『天外魔境』の名キャラ『マントー』の薫りが。<BR>わらかしていただきました。<BR></td>
+<td width=10%><a href=mailto:goldarm@mbd.nifty/com>ゴールドアーム</a></td>
+<td width=20%>■2003-12-03 17:06:10</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�@�ǂ݂܂����ǂ݂܂����i^^�B<BR>�@����[�A�Ȃ��Ȃ��s�K�ł����ł��ˁi���B�������ɂ��قǏ΂��܂����B<BR>�@�������u�n���^�[�Ȋw�ǁv������Ȑ����Ȃ��Ƃ��i�j���j�B</td>
-<td>�^��@�I</td>
-<td width=20%>��2003-09-11 01:26:48</td>
+<td style=font-size:10pt>　読みました読みました（^^。<BR>　いやー、なかなか不幸でいいですね（爆。お腹が痛いほど笑いました。<BR>　しかし「ハンター科学班」もこんな酔狂なことを（核爆）。</td>
+<td>真城　悠</td>
+<td width=20%>■2003-09-11 01:26:48</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�t�H�X�^�[�܂ŏo�Ă�̂Ɋ̐S�̉ؑタ���ɂ͂߂��荇�����c�Ƃ����̂����񑩂ł��ȁB<BR>����</td>
+<td style=font-size:10pt>フォスターまで出てるのに肝心の華代ちゃんにはめぐり合えず…というのもお約束ですな。<BR>合掌</td>
 <td>SORA</td>
-<td width=20%>��2003-09-11 00:56:47</td>
+<td width=20%>■2003-09-11 00:56:47</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>��͂͂͂́A���A�ꂵ���c�c<BR>����͂≽�Ƃ����܂����ł��ˁB<BR>�Е��̔����藎�Ƃ��̂͢���o�J��㣃l�^�ł����H<BR><BR>�o�J�󂯂��܂����B�������悩�����ł��B</td>
-<td width=10%><a href=mailto:kagawa@elf.coara.or.jp>���C�^�[�}��</a></td>
-<td width=20%>��2003-09-06 22:58:41</td>
+<td style=font-size:10pt>わはははは、く、苦しい……<BR>いやはや何とも凄まじいですね。<BR>片方の眉を剃り落とすのは「空手バカ一代」ネタですか？<BR><BR>バカ受けしました。すごくよかったです。</td>
+<td width=10%><a href=mailto:kagawa@elf.coara.or.jp>ライターマン</a></td>
+<td width=20%>■2003-09-06 22:58:41</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -116,24 +116,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20030906204518">
 <input type=hidden name="num_r" value="20030906204518">
 <input type=hidden name="url" value="">
@@ -149,17 +149,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=2003121121>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20030906204518">
 <input type=hidden name="log" value="2003121121">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -169,9 +169,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

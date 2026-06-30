@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�Vࣂ����i�@���z�f����</title>
+<title>天爛さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�Vࣂ����i�@���z�f����</font>
+<font size=5>天爛さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="shining_heaven">
 <input type=hidden name="nj" value="Y5ZOAEs7Ba">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h TFSt2E  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="TFSt2E"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード TFSt2E  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="TFSt2E"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,63 +44,63 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> ���z���ӌ��L��������܂��B</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 感想＆意見有難うございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/11 (��) 18:47:08 <strong>��</strong> <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610113184708&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610113184708"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/11 (水) 18:47:08 <strong>▽</strong> <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610113184708_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200610113184708"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��������A���肩����A����������@���񂻁[��������L��������܂��B<br>
+<font size=3 color=#606060>長束さん、きりかさん、流離太さん　かんそー＆いけん有難うございます。<br>
 <br>
-<font color="#cc88ff">&gt;&gt;��������<br>
-&gt;�w���x��</font><br>
-�����A�����`�B<br>
-�����͂������̓ǂݕ����������ĂȂ������c�corz<br>
-�������A�������������B<br>
-���łɁu���ʁv�A�Ă�����u���Ȃ��v���Ȃ܂��������Ƃ΂���i��<br>
+<font color="#cc88ff">&gt;&gt;長束さん<br>
+&gt;『き』ぬ</font><br>
+あっ、あぁ〜。<br>
+自分はそっちの読み方が頭入ってなかった……orz<br>
+そうか、そういう事か。<br>
+ついでに「こぬ」、てっきり「こない」がなまった物だとばかり（爆<br>
 <br>
-<font color="#cc88ff">&gt;���͍��͓���B�����ǁA�ȒP�ɂ͂�߂��܂���</font><br>
-���Ӂ�<br>
-��߂��Ȃ��Ƃ܂�Ȃ��􂩂�o�iry<br>
-<br>
-<br>
-<font color="#cc88ff">&gt;&gt;���肩����<br>
-&gt;TS�����ł���Ӗ�</font><br>
-�Ȃ��ł���ˁB���̂Ƃ���orz<br>
-����Ɋ��҂����Ă����̂��������s���ł����A����Ɋ��҂��Ď��łЂƂ�<br>
-<br>
-<font color="#cc88ff">&gt;�����@����̃`���`�����ꖺ</font><br>
-�����s���Ȃ̂͂����܂Ře��������ł����A����ł������Ɏ������Ă܂���ˁi��<br>
-��̃`���`�����ꖺ�i�ꉞ�j�̐����͎���ɂł��Ǝv�����̂ł����A�����Ȃ�e�ɂ���邩���m��܂��ʁB<br>
+<font color="#cc88ff">&gt;文章作りは難しい。だけど、簡単にはやめられません</font><br>
+同意♪<br>
+やめられないとまらない♪かるＰ（ry<br>
 <br>
 <br>
-<font color="#cc88ff">&gt;&gt;����������</font><br>
-���C�g�ȃm���Ȃ�Ă܂��܂��ł���B<br>
-���܂͂ǂ��ɂ��i���[�^�B�ɋ~���Ă銴���B<br>
-���Ă͂āA��������̃m���ł�����̂��I�H<br>
+<font color="#cc88ff">&gt;&gt;きりかさん<br>
+&gt;TS小説である意味</font><br>
+ないですよね。今のところorz<br>
+今後に期待させていいのか激しく不安ですが、今後に期待って事でひとつ<br>
 <br>
-<font color="#cc88ff">&gt;�ǂ݂ɂ��������^�X�g�[���[�����ɓ���Ȃ�</font><br>
-���₟�A��𗣂�Ă���C�t�����Ƃ��Č��\�����ł��˂��i�g�I�C��<br>
-<br>
-�������̍�i�̒��ň�Ԑ����������Ă�̂��Ĉ�Ԃ̘e���ł��鏊�ł��郉���Ȃ�ł���˂��B<br>
-�ŁA�t�Ɏ���ł̃Z�c�i���A�b�V����炪�e�������B�i�Ƃ������L�����������Ă��Ȃ��c�c�j<br>
-�����烉�����ł���΂�ƁA�{���������Ȃ�c�c<br>
-�킫�����C���ɂȂ��Ė{�����̂�ɂȂ��Ă�Ƃ�����Ȋ����ł���ˁB<br>
-<br>
-�l�I�i�H�j���ԈႦ�����Ȃ��ĉʂĂ���������Ă��肵�܂��B<br>
-����������ƃi���[�^�B�����Ď��������ڗ������Ă�������ǂ������Ɓc�c<br>
-<br>
-<font color="#cc88ff">&gt;�p��̐���</font><br>
-�ݒ��A�����̓t�@���^�W�[�̐��E�̏Z�l�ł͂Ȃ��̂ŁA������ӂ̎d�g�ݕ������ĂȂ���ł�(T_T)<br>
-������u���K���v�ƌ����Ă��u���t���l�v�Ƃ͗��Ȃ��Ǝv���B<br>
-�ƁA����܂����B<br>
-<br>
-�ł��A�K�����F���[�U�̐��E�������܂�m��Ȃ����ƌ����_�ł͓ǎ҂Ɠ��������ʒu�ɂ���̂�<br>
-���傢�l���Ă݂܂��B<br>
+<font color="#cc88ff">&gt;ラン　＝謎のチャチャ入れ娘</font><br>
+説明不足なのはあくまで脇役だからですが、それでも完璧に主役喰ってますよね（汗<br>
+謎のチャチャ入れ娘（一応）の説明は次回にでもと思ったのですが、いきなり脇にそれるかも知れませぬ。<br>
 <br>
 <br>
-�ł͎���B<br>
+<font color="#cc88ff">&gt;&gt;流離太さん</font><br>
+ライトなノリなんてまだまだですよ。<br>
+いまはどうにかナレータ達に救われてる感じ。<br>
+さてはて、次回もこのノリでいけるのか！？<br>
+<br>
+<font color="#cc88ff">&gt;読みにくかった／ストーリーが頭に入らない</font><br>
+いやぁ、手を離れてから気付くことって結構あるんですねぇ（トオイメ<br>
+<br>
+多分この作品の中で一番生き生きしてるのって一番の脇役である所であるランなんですよねぇ。<br>
+で、逆に主役でのセツナやらアッシュやらが影が薄い。（というかキャラが立っていない……）<br>
+だからランがでしゃばると、本文が薄くなる……<br>
+わき道メインになって本道が蔑ろになってるとかそんな感じですよね。<br>
+<br>
+人選（？）を間違えたかなって果てしく後悔してたりします。<br>
+もうちょっとナレータ達をして主役たちを目立たせておいたら良かったと……<br>
+<br>
+<font color="#cc88ff">&gt;用語の説明</font><br>
+設定上、ランはファンタジーの世界の住人ではないので、そこら辺の仕組み分かってないんです(T_T)<br>
+だから「見習い」と言っても「＝付き人」とは来ないと思う。<br>
+と、ずれました。<br>
+<br>
+でも、ガルヴェローザの世界感をあまり知らないっと言う点では読者と同じ立ち位置にいるので<br>
+ちょい考えてみます。<br>
+<br>
+<br>
+では次回。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -108,71 +108,71 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> �V��A���߂łƂ��������܂���</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> 新作、おめでとうございます♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/09 (��) 14:55:20 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610091145520&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610091145520"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/09 (月) 14:55:20 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610091145520_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200610091145520"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��͂񂱁`�A�������ł��I<br>
-�x���Ȃ��āA��ϐ\���󂠂�܂���B<br>
-�u�K�����F���[�U�v�q�ǂ����Ă��������܂�����<br>
+<font size=3 color=#606060>こんにちはんこ〜、流離太です！<br>
+遅くなって、大変申し訳ありません。<br>
+「ガルヴェローザ」拝読させていただきました♪<br>
 <br>
-����A�{���Ƀ��C�g�ȃm�������܂�Ȃ��ł���<br>
-���̕��̂́A�{���Ɋ󏭁B<br>
-�v�i���[�^�[�Ȃ�āA���ɂ͑z�������܂���ł����I<br>
-���񂤂�A��������ɈӊO�ȂƂ����˂��Ă���Vࣂ���ł��ˁ�<br>
+いや、本当にライトなノリがたまんないです♪<br>
+この文体は、本当に希少。<br>
+Ｗナレーターなんて、私には想像もつきませんでした！<br>
+うんうん、さすが常に意外なところを突いてくる天爛さんですね♪<br>
 <br>
-�����ł��ˁA�኱�ǂ݂ɂ����������Ȃ��A�Ǝv���܂����B<br>
-�S�`���S�`�����Ă���Ƃ������A�Ƃɂ����A�X�g�[���[�����X���ɓ����Ă��܂���ł����B<br>
-�v�i���[�^�[���ǂ݂ɂ����Ƃ����킯�ł͂���܂���B<br>
-���̏؋��ɁA�㏑���̕����͂���Ȃ蓪�ɓ���܂����B�B<br>
-�����A��������{�҂��d���Aࣂ����ƃi���[�^�[�̃m�����y�����߁A���x���������Ă��܂��Ă�̂ł��傤�B<br>
-���̂����ŁA��������������܂��񂪁A�˘f���Ă��܂��܂����B<br>
+ただですね、若干読みにくかったかなぁ、と思いました。<br>
+ゴチャゴチャしているというか、とにかく、ストーリーが中々頭に入ってきませんでした。<br>
+Ｗナレーターが読みにくいというわけではありません。<br>
+その証拠に、後書きの部分はすんなり頭に入りました。。<br>
+多分、説明文や本編が硬く、爛ちゃんとナレーターのノリが軽いため、温度差が生じてしまってるのでしょう。<br>
+そのせいで、私だけかもしれませんが、戸惑ってしまいました。<br>
 <br>
-�����͊���؂��āA�������Ȃ񂩂��y���m���ł��������������Ǝv���܂��B<br>
-�Ⴆ�΁�<br>
-<br>
-<br>
-�@�����A������`���ҁB<br>
-�@������\�܍΂̎Ⴓ�ň�l�������A�`���҂Ƃ��Đ��v�𗧂ĂĂ���B<br>
-<font color="#ff88cc">���ց`�B�Ƃ������Ƃ́A���Ȃ�̐��r�H</font><br>
-�@�����B�܂��A�Z�c�i�ʂ̎Ⴂ�`���҂�����ɂ͂��邳�B�����ǁA�قƂ�ǂ����K���Ȃ񂾂�B<br>
-<font color="#ff88cc">���܂�A�㋉�`���҂̕t���l�ˁB</font><br>
-�@�����A���������̂��w�ǁB������A��l���Ƃ����̂͂��܂�ނ����Ȃ��̂��B<br>
+ここは割り切って、説明文なんかも軽いノリでいった方がいいと思います。<br>
+例えば↓<br>
 <br>
 <br>
-�����A���蕳�ł��݂܂���i�s�s�j<br>
-�������������̂́A�ǎ҂ł͂Ȃ��Aࣂ����Ɍ�肩����`���̕����A���͂͌y�߂ɂȂ�c�c�Ƃ������Ƃł��B<br>
-���ƁA�p��̐������i���[�^�[�Ŋ���������̂łȂ��Aࣂ���񂪍����̎������Ƃ����`���ɂ��Ă݂܂����B<br>
-����ƁA���t�̏d���Ȃ񂩂��ڗ����܂����B<br>
-����͐�΂ɒ��������������Ǝv���܂��B<br>
+　そう、いわゆる冒険者。<br>
+　それも十五歳の若さで一人旅をし、冒険者として生計を立てている。<br>
+<font color="#ff88cc">＞へ〜。ということは、かなりの凄腕？</font><br>
+　そう。まあ、セツナ位の若い冒険者もいるにはいるさ。だけど、ほとんどが見習いなんだよ。<br>
+<font color="#ff88cc">＞つまり、上級冒険者の付き人ね。</font><br>
+　ああ、そういうのが殆ど。だから、一人旅というのはあまり類を見ないのさ。<br>
 <br>
 <br>
-�ł́A������y���݂ɂ��Ă��܂��B<br>
-���݂��A����΂�܂���`��</font>
+うう、下手糞ですみません（ＴＴ）<br>
+言いたかったのは、読者ではなく、爛ちゃんに語りかける形式の方が、文章は軽めになる……ということです。<br>
+あと、用語の説明もナレーターで完結させるのでなく、爛ちゃんが合いの手を入れるという形式にしてみました。<br>
+それと、言葉の重複なんかも目立ちました。<br>
+それは絶対に直した方がいいと思います。<br>
+<br>
+<br>
+では、次回も楽しみにしています。<br>
+お互い、がんばりましょ〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> ������Ƃ��ז�</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> ちょっとお邪魔</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/07 (�y) 00:36:58 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610076003658&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610076003658"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/07 (土) 00:36:58 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610076003658_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200610076003658"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�ƒx��΂��Ȃ���B�q�ǂ������܂����B<br>
+<font size=3 color=#606060>えーと遅ればせながら。拝読いたしました。<br>
 <br>
-�����Ȃ荪�{�ɓ˂����݂܂����B<br>
-TS�����ł���Ӗ�������܂�Ȃ��񂶂�Ȃ����ƁB���āA���݂܂���B<br>
+いきなり根本に突っ込みますが。<br>
+TS小説である意味があんまりないんじゃないかと。って、すみません。<br>
 <br>
-���C�g�ȕ��͓̂Vࣂ���炵���ėǂ��Ǝv���܂��B�O���肸���Ɛ����������ĂĂ����ł��BW�i���[�^�[�͂Ȃ��Ȃ��ʔ������݂����B�c�c������X�̓��������m���Ă邩�炢���񂾂���ǈ�ʂ̓ǎ҂͍��邩���A�Ƃ����������v���܂����B���̎�I�ɂ͂����͂����Ɖ�����������x�^�[���ȁA�ƁB<br>
+ライトな文体は天爛さんらしくて良いと思います。前作よりずっと生き生きしてていいです。Wナレーターはなかなか面白い試みだし。……ただ我々はランちゃん知ってるからいいんだけれど一般の読者は困るかも、とすこしだけ思いました。私の趣味的にはそこはちゃんと解説した方がベターかな、と。<br>
 <br>
-��[�ł��������y���݂ɂ��Ă��܂���<br>
+んーでも続きを楽しみにしています♪<br>
 </font>
 <p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
 </td></table>
@@ -181,24 +181,24 @@ TS�����ł���Ӗ�������܂�Ȃ��񂶂�Ȃ����ƁB���āA���݂܂���B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> �悤�₭����܂�����</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> ようやく判りました♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/06 (��) 23:58:56 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610065235856&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610065235856"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/06 (金) 23:58:56 <strong>▽</strong> 長束 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610065235856_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200610065235856"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �u����́v�͊O���āu�߂����肵�����A�������ʉߋ��v�Ƃ�������΂悩�����̂ł��傤���H</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 「それは」は外して「過ぎ去りし未来、未だ来ぬ過去」とだけすればよかったのでしょうか？</font><br>
 <br>
-���āA�������T���Ă����͎̂��̕��ł��āA���͂����ƓǂނƂ��Ɂu�������肵�݂炢���܂��w���x�ʂ����v�ȂǂƓǂ�ł����̂ł��ˁB<br>
-�ܘ_�A�������́u���ʂ����v�œ�����O�Ȃ̂ł����A���X�ؐM�j�̓��w�A�w�Ă͗��ʁx������悤�Ɂu�ʁv�̑O�ɂ����́u���v�̑�����i�Ƃ��������ꂵ������܂��񂪁j�J�s�̕ϊi���p�i�ÓT���@�j�ł́u���v�Ɣ������邱�Ƃ��قƂ�ǂȂ̂ŁA�����ǂނׂ��ł͂Ȃ����Ȃ��ƌ����M���Ă������̂ł��B�i���̏ꍇ�́u�ʁv�͊����������܂��j<br>
-��������ƁA����͌���̕��@�ƌÓT�̂��ꂪ�������Ă��܂��Ă���̂��H�@�ł��A�҂Ă�H�@�w���ґ��x�̈�߂ł́u���ʁv���Ĕ������Ă�����Ȃ��A�Ɣϖ�B���낲��]����Ȃ��炳��ɌÌꎫ�T����������œǂނ��ƂR�O���B<br>
-�����A����܂����ˁB�u���R�`�̓����v�{�ŏ����̏������u���v�̘A�̌`�u�ʁv�ł����̂��A�ƁB<br>
-�����猋�ǁA�u�������ʉߋ��v�Ƃ͂��̂܂܂ŃI�b�P�[�������̂ł��B<br>
-����͂�A�܂���������ʂ��S�z�����|�����܂����B<br>
-������A���̈ꕶ�͂��̂܂܂ł������ƂɁc�c����A�ł��w����́u����́v�͏����ăg���~���O��������̂���Ă����B<br>
-������A�܂��������ꂾ���當�͍��͓���B�����ǁA�ȒP�ɂ͂�߂��܂���ˁB<br>
-����ł͂܂��̋@�����<br>
+さて、ここで躓いていたのは私の方でして、実はずっと読むときに「すぎさりしみらいいまだ『き』ぬかこ」などと読んでいたのですね。<br>
+勿論、正しくは「こぬかこ」で当たり前なのですが、佐々木信綱の童謡、『夏は来ぬ』もあるように「ぬ」の前にある語は「来」の属する（というかそれしかありませんが）カ行の変格活用（古典文法）では「き」と発音することがほとんどなので、そう読むべきではないかなあと堅く信じておったのです。（この場合の「ぬ」は完了を示します）<br>
+そうすると、これは現代の文法と古典のそれが混じってしまっているのか？　でも、待てよ？　『宵待草』の一節では「こぬ」って発音していたよなあ、と煩悶。ごろごろ転がりながらさらに古語辞典を首っ引きで読むこと３０分。<br>
+ああ、ありましたね。「未然形の動詞」＋打消しの助動詞「ず」の連体形「ぬ」でいいのだ、と。<br>
+だから結局、「未だ来ぬ過去」とはそのままでオッケーだったのです。<br>
+いやはや、まったくいらぬご心配をお掛けしました。<br>
+だから、この一文はそのままでいいことに……うん、でも指示語の「それは」は消してトリミングをかけるのも一案かも。<br>
+ううん、まったくこれだから文章作りは難しい。だけど、簡単にはやめられませんね。<br>
+それではまたの機会を♪<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -206,33 +206,33 @@ TS�����ł���Ӗ�������܂�Ȃ��񂶂�Ȃ����ƁB���āA���݂܂���B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> �����ł����</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> いいですよ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/06 (��) 12:05:04 <strong>��</strong> <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610065120504&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610065120504"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/06 (金) 12:05:04 <strong>▽</strong> <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610065120504_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200610065120504"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ƃ�������������Ȃ�劽�}��<br>
+<font size=3 color=#606060>というか長束さんなら大歓迎♪<br>
 <br>
-�ŁA�܂��A�q�����Ă���ėL��������܂��B<br>
+で、まあ、拝見してくれて有難うございます。<br>
 <br>
 <br>
-<font color="#cc88ff">&gt;�v�i���[�^�[</font><br>
-�m�b�P���������i���[�^�[�B�ɋ���Ă���C�����Ȃ��ł͂Ȃ��ł����c�c�i��<br>
-�ǂ��ɂ��^�ɂȂ�悤�Ɋ撣��܂��B<br>
+<font color="#cc88ff">&gt;Ｗナレーター</font><br>
+ノッケから主役がナレーター達に喰われている気もしないではないですが……（汗<br>
+どうにか型になるように頑張ります。<br>
 <br>
-<font color="#cc88ff">&gt;���e</font><br>
-���̏��A�^�X���C���[�Y�̉e�����o���o���Ɏ󂯂Ă܂�����ˁi��<br>
+<font color="#cc88ff">&gt;内容</font><br>
+今の所、某スレイヤーズの影響をバリバリに受けてますからね（汗<br>
 <br>
-<font color="#cc88ff">&gt;����</font><br>
-�쒆�ŏ������ʂ�u�Ӗ��͖����v���͋C�����̕��Ȃ̂ł��܂�C�ɂ��Ă܂���ł����B�i��<br>
-�ł���͂�A�ŏ��ŋl�܂�͕̂s�����ł��˂��B<br>
-�u����́v�͊O���āu�߂����肵�����A�������ʉߋ��v�Ƃ�������΂悩�����̂ł��傤���H<br>
-�c�c�͂��A���͓Vࣂ͂��܂��a���������Ă��Ȃ��̂ł����c�c<br>
+<font color="#cc88ff">&gt;序文</font><br>
+作中で書いた通り「意味は無い」雰囲気だけの物なのであまり気にしてませんでした。（汗<br>
+でもやはり、最初で詰まるのは不味いですねぇ。<br>
+「それは」は外して「過ぎ去りし未来、未だ来ぬ過去」とだけすればよかったのでしょうか？<br>
+……はい、ぢつは天爛はあまり違和感を感じていないのでした……<br>
 <br>
-<font color="#cc88ff">&gt;���҂����Ă��������܂��B</font><br>
-�n�C�撣��܂���<br>
+<font color="#cc88ff">&gt;期待させていただきます。</font><br>
+ハイ頑張ります♪<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -240,37 +240,37 @@ TS�����ł���Ӗ�������܂�Ȃ��񂶂�Ȃ����ƁB���āA���݂܂���B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> ���z��ԏ��́c�c���ł������ł����H</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> 感想一番乗りは……私でもいいですか？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/05 (��) 21:38:01 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610054213801&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610054213801"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/05 (木) 21:38:01 <strong>▽</strong> 長束 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610054213801_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200610054213801"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�q�����܂����B<br>
-�V���������Ȃ����ꂽ��i�̓��������҂��ƌ��܂�܂����ˁB<br>
-�r���ȕ������ڗ��̂ł����A�v�i���[�^�[�Ƃ�����@�͑傢�ɃA�����Ǝv���܂��B<br>
-����̓W�J��W���邱�Ƃ̂Ȃ��悤�ɒ������Ȃ���i�߂Ă������Ƃ͓�x�̍������ƂƎv���܂����A����Ɍ����������̌��ʂ����҂ł���̂ł͂Ȃ��ł��傤���B<br>
-���āA���e�Ɋւ��Ă͂܂��܂��\���グ�邱�Ƃ�����܂���ˁB�����܂ł�����̓W�J����ŕ���̖{��������邱�ƂƂȂ�Ǝv���܂��̂ŁA�������Ƃł��������̂�S�������������B<br>
+<font size=3 color=#606060>拝見しました。<br>
+新しく磨きなおされた作品の導入部がぴっと決まりましたね。<br>
+荒削りな部分も目立つのですが、Ｗナレーターという手法は大いにアリだと思います。<br>
+物語の展開を妨げることのないように調整しながら進めていくことは難度の高いことと思われますが、それに見合うだけの効果も期待できるのではないでしょうか。<br>
+さて、内容に関してはまだまだ申し上げることがありませんね。あくまでも今後の展開次第で物語の本質が問われることとなると思いますので、ゆっくりとでもいいものを心がけください。<br>
 <br>
-���ꂩ��A�����́u����͉߂����肵�����A�������ʉߋ��v�̈ꕶ�ɂ��ĂȂ̂ł����A�����Ɏ��͕��@��̈����|����������Ă��܂����̂ł����A�ʂ����Ăǂ��v���܂����H�@���������āA����͎������Ȃ̂ł��傤���B<br>
+それから、序文の「それは過ぎ去りし未来、未だ来ぬ過去」の一文についてなのですが、ここに私は文法上の引っ掛かりを感じてしまったのですが、果たしてどう思われますか？　もしかして、それは私だけなのでしょうか。<br>
 <br>
-�Ƃ�����A���Ɩ��@�̕���B�N���������邻�̐��E�����ꂩ����f�G�ɍʂ��Ă��������B<br>
-���҂����Ă��������܂��B</font>
+ともあれ、剣と魔法の物語。誰もが夢見るその世界をこれからも素敵に彩ってください。<br>
+期待させていただきます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> �w�K�����F���[�U�@�`A moment is eternity�`�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> 『ガルヴェローザ　〜A moment is eternity〜』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/30 (�y) 22:39:00 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609306223900&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609306223900"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/30 (土) 22:39:00 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609306223900_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200609306223900"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �Vࣂ��񏉂̘A�ڂ́A����ِ��E�`��杁B���m�̌����M�����@�����̏񂪚X��c�c���āA����H<br>
+<font size=3 color=#606060>【推薦文】 天爛さん初の連載は、爆裂異世界冒険譚。剣士の剣が閃き魔法少女の杖が唸る……って、あれ？<br>
 <a href=http://ts.novels.jp/novel/200607/02124625/galvan_a.htm target=_top>http://ts.novels.jp/novel/200607/02124625/galvan_a.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -278,28 +278,28 @@ TS�����ł���Ӗ�������܂�Ȃ��񂶂�Ȃ����ƁB���āA���݂܂���B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[18]</font> <font size=4 color=#40c0c0> �p�����肪�Ƃ��������܂��i��</font>
+<font size=2>[18]</font> <font size=4 color=#40c0c0> 術符ありがとうございます（違</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/29 (��) 18:25:21 <strong>��</strong> <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609295182521&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609295182521"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/29 (金) 18:25:21 <strong>▽</strong> <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609295182521_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200609295182521"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;&gt;�^�č�����</font><br>
-���z���肪�Ƃ��������܂��B<br>
-<font color="#cc88ff">&gt;�^���Ō�F�����悤�ɂȂ��Ă��΂炭�A�������������ł͒��فB</font><br>
-����͂������������Łc�c�i��<br>
-���A�n��̏H�̐^���Œ��ȂǂŖZ�E���Ȃ̂ŁA�Vࣂ���̊��z�͂��܏������҂����B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;&gt;某監査さん</font><br>
+感想ありがとうございます。<br>
+<font color="#cc88ff">&gt;某所で交友を持つようになってしばらく、しかしこっちでは沈黙。</font><br>
+それはこっちも同じで……（汗<br>
+今、創作の秋の真っ最中などで忙殺中なので、天爛からの感想はいま少しお待ちを。<br>
 <br>
-<font color="#cc88ff">&gt;����</font><br>
-����ς����v���܂��H�i��<br>
-�w���邢�x�앗�ł����c�c�A���x�ӎ����ď����Ă݂邩�Ȃ��B<br>
+<font color="#cc88ff">&gt;文面</font><br>
+やっぱそう思います？（汗<br>
+『明るい』作風ですか……、今度意識して書いてみるかなぁ。<br>
 <br>
-<font color="#cc88ff">&gt;�A��</font><br>
-�����A�����܂ő������邩�����������ł͂���܂��񂪁A�����Ƃ͂Ȃ�Ȃ��悤�ɂ͊撣��܂��B�i��<br>
-�c�c�A���肷��ΘA�ڂƂ͌����Ȃ��ʂŊ������鋰�������܂����i��<br>
+<font color="#cc88ff">&gt;連載</font><br>
+えぇ、何処まで続けられるか分かった物ではありませんが、未完とはならないようには頑張ります。（汗<br>
+……、下手すれば連載とは言えない量で完結する恐れもありますが（爆<br>
 <br>
-�ł͂ł�<br>
+ではでは<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -307,92 +307,92 @@ TS�����ł���Ӗ�������܂�Ȃ��񂶂�Ȃ����ƁB���āA���݂܂���B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> �p���������ɎQ��܂���</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> 術符を書きに参りました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/25 (��) 01:11:24 <strong>��</strong> �^�č� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609251011124&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609251011124"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/25 (月) 01:11:24 <strong>▽</strong> 某監査 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609251011124_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200609251011124"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����A�p���������̂͂�����̖�ڂ��B������^�č��B<br>
-�@�^���Ō�F�����悤�ɂȂ��Ă��΂炭�A�������������ł͒��فB����ł̓A���Q���Ƃ������ƂŁA�����͊��z�������ɗ��܂����B<br>
-�@��]�͋��Ȃ�ő債�����Ƃ͌����܂��񂯂ǁB<br>
+<font size=3 color=#606060>　ちが、術符を書くのはすぐるの役目か。こちら某監査。<br>
+　某所で交友を持つようになってしばらく、しかしこっちでは沈黙。これではアレゲだということで、今日は感想を書きに来ました。<br>
+　批評は苦手なんで大したことは言えませんけど。<br>
 <br>
-�@�c�c���߂Č���Ƃ������ɁA�����i���Ō������镶�ʂƐ����Ⴄ�B�������ł�����������Ƃ���A��b���̂ق����m���ɐ����Ă���悤�ŁB<br>
-�@�i�C�g�e���[�A�����J��Ԃ��������͖ʔ���������ł����A�S�̓I�Ɉ�a�����������̂́A<br>
+　……改めて見るとたしかに、いつも喫茶で見かける文面と随分違う。ご自分でおっしゃったとおり、会話文のほうが確かに生きているようで。<br>
+　ナイトテラー、引っ繰り返った結末は面白かったんですが、全体的に違和感があったのは、<br>
 <br>
-�@�Vࣂ���̓��C�g�ȁi�w���邢�x�̈ӂŁw�y���x�ł͂Ȃ��j�앗���{���Ȃ̂ł͂Ȃ����H<br>
+　天爛さんはライトな（『明るい』の意で『軽い』ではない）作風が本分なのではないか？<br>
 <br>
-�@�c�c����܂��A�V�H�̎v�����݂Ȃ̂��������ł����B���邢�͉�b�ɖR��������A�Vࣂ���̓��ӕ��������ł��Ȃ����������Ȃ̂�������܂���ˁB<br>
-�@�V�̊ϑ��̕��́A�����b�Ȃ̂ł�����Ɠǂ݊y����ł����܂����B<br>
+　……いやまあ、天稀の思いこみなのかもしれんですが。あるいは会話に乏しいから、天爛さんの得意分が発揮できなかっただけなのかもしれませんね。<br>
+　天体観測の方は、いい話なのでさらっと読み楽しんでおきました。<br>
 <br>
-�@���ƃn���^�[�V���[�Y�������ł����c�c���̃V���[�Y���ĉ��̂��A���ʂ�肳��ɔ�]���Â炭���āA�v���؂��ăX���[�I�i���j<br>
+　あとハンターシリーズもあるんですが……このシリーズって何故か、普通よりさらに批評しづらくって、思い切ってスルー！（爆）<br>
 <br>
-�@�Ƃ��Ƃ��A�ڂ��肪�����悤�ł����A����̍�i���y���݂ɂ��Ă���܂��B<br>
-# �i���[�V���������ɕ��A�l���Ƃ���Ȃ��Ȃ��c�c�|���|���B</font>
+　とうとう連載を手がけたようですし、今後の作品も楽しみにしております。<br>
+# ナレーションが死に文、人ごとじゃないなぁ……怖い怖い。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/28 (��) 11:50:12 <strong>��</strong> <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608281115012&log=shining_heaven">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608281115012"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/28 (月) 11:50:12 <strong>▽</strong> <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608281115012_log_shining_heaven.cgi">返信</a>　削除<input type=checkbox name="target" value="200608281115012"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���X����Đ\����Ȃ��ǂ��B<br>
+<font size=3 color=#606060>レス送れて申し訳ないどす。<br>
 <br>
-<font color="#cc88ff">&gt;&gt;���肩����</font><br>
-���x�A���z���肪�Ƃ��������܂��B<br>
-<font color="#cc88ff">&gt;���݂��������̓_</font><br>
-�͂��́`���A��낵�����肢���܂��ł���B�i��<br>
+<font color="#cc88ff">&gt;&gt;きりかさん</font><br>
+毎度、感想ありがとうございます。<br>
+<font color="#cc88ff">&gt;お互い厳しく採点</font><br>
+はいは〜い、よろしくお願いしますですよ。（笑<br>
 <br>
-<font color="#cc88ff">&gt;���X�Ə����̈Ⴂ</font><br>
-�m���ɈႢ�܂��ˁi��<br>
-�Ȃ�ł��傤�ˁA�܂����͋C�ɗ�����Ă��܂����Ă̂͂��邩���m��܂���B<br>
-�u���[�R�X���X�̂悤�Ȗ��邢�ꏊ�ł͒e�����āA����̈Â���i�͂���ς�Â��Ƃ��B<br>
-���ƁA�����������O�l�̂��Â��ȃ��Ղ��悤������A������C�����Ȃ��ƂȂ��B�Ǝv������B<br>
-�܂��ŊJ��͍l���Ă܂�����<br>
+<font color="#cc88ff">&gt;レスと小説の違い</font><br>
+確かに違いますね（汗<br>
+なんでしょうね、まず雰囲気に流されてしまうってのはあるかも知れません。<br>
+ブルーコスモスのような明るい場所では弾けられて、今回の暗い作品はやっぱり暗くとか。<br>
+あと、自分が書く三人称も暗くなリ易いようだから、それも気をつけないとなぁ。と思ったり。<br>
+まあ打開策は考えてますがｗ<br>
 <br>
-<font color="#cc88ff">&gt;�����P��̏d��</font><br>
-�����ēǂݕԂ��Ă݂�Ɗm���Ɂc�cOTZ<br>
-���g�ŋC�Ɋ|�����Ă����̂́u�`�̂悤�Ȋ��o�v�Ɓu���肦�Ȃ��v������������ŁA����͋C�����Ȃ��Ƃ����Ȃ����B<br>
+<font color="#cc88ff">&gt;同じ単語の重複</font><br>
+言われて読み返してみると確かに……OTZ<br>
+自身で気に掛かっていたのは「〜のような感覚」と「ありえない」だけだったんで、今後は気をつけないといけない所。<br>
 <br>
-<font color="#cc88ff">&gt;���e�I�ɂ͖G��</font><br>
-���`��B�����I�ɂs�r�����̖G���Č����鎖�i�M���鎖�j�ɂ���Ǝv���Ă�߂������łs�r���󂯓���Ă�ꍇ�̖G�����܂菑���Ȃ��c�c�B<br>
-�ł��A�����Ȃ������Ȃ�������Ȃ��Ƃ��v���Ă��ł���ˁB<br>
-�w�������ޏ��͂����ɂ����c�c�B�x�̌�ӂ�ɒ��ւ����ăt�������ĂƂ��s�����Ƃ͎v����ł����ǂˁi��<br>
-�ł��A�����ŖG���o���邩�ǂ����͕ʖ��B�L������l���Ƃ���ϖ��������邵�c�c<br>
+<font color="#cc88ff">&gt;内容的には萌え</font><br>
+う〜ん。自分的にＴＳっ娘の萌って嫌がる事（弄られる事）にあると思ってる節があるんでＴＳを受け入れてる場合の萌があまり書けない……。<br>
+でも、入れれない事もなかったよなぁとも思ってるんですよね。<br>
+『今日も彼女はそこにいた……。』の後辺りに着替えしてフロ入ってとか行けたとは思うんですけどね（汗<br>
+でも、そこで萌を出せるかどうかは別問題。キャラ一人だとやっぱ無理があるし……<br>
 <br>
-<font color="#cc88ff">&gt;&gt;����������</font><br>
-���x�A���z���肪�Ƃ��������܂��B<br>
+<font color="#cc88ff">&gt;&gt;流離太さん</font><br>
+毎度、感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�J���[�Ńr�r���܂����B</font><br>
-�z�F�͖��I�`�{���̕��Ȃ̂ŁA����قǂ̂���ł͂Ȃ������肵�܂��B<br>
-�������{�Ƃ̓R���e�B�Ȃ̂ɓVࣂ̂̓_�[�N���ۂ��B�����A�ԊO�҂ɂ��邵���Ȃ����Ďv���܂�������B�i��<br>
-<font color="#cc88ff">&gt;��_��˂��A�����������������璭�߁A�V�������𐁂����ށB</font><br>
-�P����Ă邾���Ƃ������܂����i��<br>
+<font color="#cc88ff">&gt;カラーでビビリました。</font><br>
+配色は夢オチ本来の物なので、それほどのもんではなかったりします。<br>
+しかも本家はコメティなのに天爛のはダークっぽい。こりゃ、番外編にするしかないって思いましたもん。（笑<br>
+<font color="#cc88ff">&gt;一点を突き、それをあらゆる方向から眺め、新しい風を吹き込む。</font><br>
+捻くれてるだけとも言いますが（獏<br>
 <br>
-<font color="#cc88ff">&gt;�����X�g�[�J�[��Q�ɂ����ā`</font><br>
-���ꂾ�ƁA�Ō�܂Ŗ��I�`�{���̃R���e�B���o���Ȃ��Ȃ��ŁA�X�g�[�J�[�N�̓i���V�X���i�H�j��<br>
+<font color="#cc88ff">&gt;同じストーカー被害にあって〜</font><br>
+それだと、最後まで夢オチ本来のコメティが出せなくなるんで、ストーカー君はナルシス化（？）ｗ<br>
 <br>
-<font color="#cc88ff">&gt;�����ɗ\�z�𗠐؂��Ă���܂����I</font><br>
-�\�z�𗠐؂�͍̂D���ł�����A�����i��<br>
+<font color="#cc88ff">&gt;見事に予想を裏切ってくれました！</font><br>
+予想を裏切るのは好きですから、自分（獏<br>
 <br>
 <br>
-�ł͂ł́B<br>
+ではでは。<br>
 <br>
-�����Ǝ���̓I���W�i���̗\��B<br>
-�ِ��E�ɂȂ邩�A���@�����ɂȂ邩�A�����w�����ɂȂ邩�͖���ł�����</font>
+おっと次回はオリジナルの予定。<br>
+異世界になるか、魔法少女になるか、非日常学園物になるかは未定ですがｗ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="shining_heaven">
@@ -400,16 +400,16 @@ TS�����ł���Ӗ�������܂�Ȃ��񂶂�Ȃ����ƁB���āA���݂܂���B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="shining_heaven">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=shining_heaven">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_shining_heaven.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���肰�����i�@���z�f����</title>
+<title>もりげさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���肰�����i�@���z�f����</font>
+<font size=5>もりげさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="morige">
 <input type=hidden name="nj" value="tx0YCyoxkB">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h dCibCx  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="dCibCx"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード dCibCx  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="dCibCx"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,16 +44,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> �����ł����B�����ł���ˁB</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> そうですか。そうですよね。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/05 (��) 05:39:37 <strong>��</strong> ���肰 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509051053937&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509051053937"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/05 (月) 05:39:37 <strong>▽</strong> もりげ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509051053937_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200509051053937"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���Ǝ����ł��ˁB<br>
-�܂��B�܂�Ȃ��b�ŁA������ɂ������͂ŁA��������Ă���Ȃ��Ƃ��Ă��B<br>
-MONDO����ɂ͂ƂĂ����炫��܂�Ȃ��̂����ǂ����������Ă����܂��B<br>
+<font size=3 color=#606060>　自業自得ですね。<br>
+まあ。つまらない話で、分かりにくい文章で、だれも見てくれないとしても。<br>
+MONDOさんにはとても失礼きわまりないのだけども書き続けていきます。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -61,25 +61,25 @@ MONDO����ɂ͂ƂĂ����炫��܂�Ȃ��̂����ǂ����������Ă����܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> Re3:���}�X�B�΂����������</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> Re3:首つりマス。ばいちゃっちゃ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/02 (��) 09:48:48 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509025094848&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509025094848"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/02 (金) 09:48:48 <strong>▽</strong> 仮 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509025094848_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200509025094848"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���c�c�B���낵�����ƂɁA�Ȃ񂩃��X�Q���啝�Ƀo�[�W�����A�b�v����Ƃ邵�B<br>
+<font size=3 color=#606060>う……。恐ろしいことに、なんかレス２が大幅にバージョンアップされとるし。<br>
 <br>
-<font color="#cc88ff">&gt; �����̂��B�����炵���B�悭�킩���B<br>
-&gt; �܁[�B���肪�ƁB�J�ߌ��t�Ǝ󂯎���Ă����҂��I</font><br>
-�_�ߌ��t���X��A����A�ԈႢ�Ȃ��B<br>
-�[��ŁA�����ǂ܂��ĖႢ�܂����B�ǂ��������X�B�c�c�Ƃ����āA�������ǂ������̂��H�@�Ɩ₢�������Ǝ��͗ǂ������B���ǁA�ǂ������B�e�Ɋp�A�ǂ��������X��B�c�c�����A������������A�S�̓I�ȕ��͋C�A�m�����A���ȁH�@�܁A�����Ă����̂Ȃ�A����ȂƂ����ȁA����B<br>
+<font color="#cc88ff">&gt; 高いのか。高いらしい。よくわからん。<br>
+&gt; まー。ありがと。褒め言葉と受け取っておくぴょん！</font><br>
+誉め言葉っスわ、それ、間違いなく。<br>
+つー訳で、続き読ませて貰いました。良かったっス。……といって、何処が良かったのか？　と問い質されると実は良く判らん。けど、良かった。兎に角、良かったっスわ。……あっ、もしかしたら、全体的な雰囲気、ノリが、かな？　ま、敢えていうのなら、そんなとこかな、うん。<br>
 <br>
-<font color="#cc88ff">&gt;�����c�A�߂������ɏC�Ƃ̂��߁u��̋��E�v�̊O�`�������ō�����Ⴂ�����ȁ`�Ƃ��v���B</font><br>
-�ǂ�ł݂������A���ȁA����B�����ł̔��\�c�c�͂Ȃ����������ǁB����̂��H�@��q���q�Ɋዾ�ς�����b�A�ǂ݂����B<br>
+<font color="#cc88ff">&gt;いつか…、近いうちに修業のため「空の境界」の外伝を自分で作っちゃいたいな〜とか思う。</font><br>
+読んでみたいげ、だな、それ。ここでの発表……はなさそうだけど。あるのか？　橙子が青子に眼鏡ぱくられる話、読みたい。<br>
 <br>
-<font color="#cc88ff">&gt;�Ō�ɁA�x�f�́u���[�x���u���b�h�v�O�A�P������B�I�X�X���B�n�K�������ʔ��������C������B�Ă������n�K�����A�A�j����������������ĖO�����̂�������������Ȃ����ǁc�c�B�Ă������P�C���c�F������G���B�T�C�R�[�ł��B�ސ{���̂��l����^�̃��[�u���B���ɂ��Δ����N�D���͒f�H���Ăł������ƒ��n�b�s�[�炵���B</font><br>
-���[�u���A����A�m��˂��ȁB���x�A�ǂ�ł݂܂����ȁB���Ȃ݂ɁA�n�K�������ǂ񂾂��ƂȂ��B�ǂ��l���Ă݂�΁A�ŋ߁A������Ėw�Ǔǂ�łȂ��悤�ȁB<br>
+<font color="#cc88ff">&gt;最後に、ＹＧの「ユーベルブラッド」０、１っかん。オススメ。ハガレンより面白かった気がする。ていうかハガレン、アニメも漫画も見すぎて飽きたのが原因かもしれないけど……。ていうかケインツェル超絶萌え。サイコーです。奈須きのこ様も絶賛のユーブラ。氏によれば美少年好きは断食してでも買うと超ハッピーらしい。</font><br>
+ユーブラ、うん、知らねぇな。今度、読んでみますかな。ちなみに、ハガレンも読んだことない。良く考えてみれば、最近、漫画って殆ど読んでないような。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -87,14 +87,14 @@ MONDO����ɂ͂ƂĂ����炫��܂�Ȃ��̂����ǂ����������Ă����܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> �w�t�Ɨz�C�ƒn���̉��`��`�x������ɂ͂������N���b�N�B</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> 『春と陽気と地獄の宴〜弐〜』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/01 (��) 20:36:59 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509014203659&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509014203659"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/01 (木) 20:36:59 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509014203659_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200509014203659"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�w�Z�ɂ���O�l�̖��@�g���B��l�ڂ͔ޏ��A��l�ڂ͂��̐l�B�c�c�ł͎O�l�ڂ́H<br>
+<font size=3 color=#606060>【推薦文】学校にいる三人の魔法使い。一人目は彼女、二人目はあの人。……では三人目は？<br>
 <a href=http://ts.novels.jp/novel/200508/13140105/dempa02.htm target=_top>http://ts.novels.jp/novel/200508/13140105/dempa02.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -102,106 +102,106 @@ MONDO����ɂ͂ƂĂ����炫��܂�Ȃ��̂����ǂ����������Ă����܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> Re:���}�X�B�΂����������</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> Re:首つりマス。ばいちゃっちゃ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/30 (��) 09:44:23 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508302094423&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508302094423"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/30 (火) 09:44:23 <strong>▽</strong> 仮 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508302094423_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200508302094423"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ȁA�K���o���I�@�N�́A�����Ό��鉽���̌��΁c�c�����m��Ȃ��B<br>
-���Ȃ݂ɁA���P�͂�������ƂȂ����ǁA���N�Ԃ̓~�R�~���قŁA�ސ{���̂����́u�󋫁v�����̂ɎO���Ԃ��炢�|���ĕ��񂾂̂����������B�c�c���̌�A����Ȃ��Ƃ��Ȃ��Ă��A���l�ϑ��̔��V���b�v�ŊȒP�ɔ������Ɣ��������́A���Ɉ����������ł����B<br>
+<font size=3 color=#606060>逝くな、ガンバレ！　君は、磨けば光る何かの原石……かも知れない。<br>
+ちなみに、月姫はやったことないけど、数年間の冬コミ西館で、奈須きのこ氏の「空境」買うのに三時間くらい掛けて並んだのが懐かしい。……その後、そんなことしなくても、同人委託販売ショップで簡単に買えたと判った時は、妙に哀しかったですが。<br>
 <br>
-���Ȃ��l�A��i���e���V�����������ǁA�J�L�R���e���V���������čō��ł���B</font>
+あなた様、作品もテンション高いけど、カキコもテンション高くて最高ですわ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> ���������w�K���Ă��闧��ł���</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> こっちも学習している立場ですが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/16 (��) 18:00:47 <strong>��</strong> �w�K�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508162180047&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508162180047"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/16 (火) 18:00:47 <strong>▽</strong> 学習生 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508162180047_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200508162180047"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���w�킢���́x�������Ă������ł����H</font><br>
-�@���R�����Ǝv���܂��B<br>
-�@�ʔ���������̂Ȃ�A�R���f�B�[���A�킢���A�������A�V���A�X���A���ׂɂȂ������āA�ǂ߂�����̂Ȃ牽�ł��A�����Ǝv���܂��B<br>
-�@���낢�덬���Đ������Ă����i�́A���邱�Ƃɂ͂���܂�����B</font>
+<font size=3 color=#606060><font color="#ff88cc">＞『戦いもの』を混ぜてもいいですか？</font><br>
+　当然いいと思います。<br>
+　面白く書けるのなら、コメディーも、戦いも、恋愛も、シリアスも、混沌になったって、読められるものなら何でもアリだと思います。<br>
+　いろいろ混ぜて成功している作品は、あることにはありますから。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> ���ׂƂ��Ă��Ă����܂���B</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> 混沌としていてすいません。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/15 (��) 22:19:14 <strong>��</strong> ���肰 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508151221914&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508151221914"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/15 (月) 22:19:14 <strong>▽</strong> もりげ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508151221914_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200508151221914"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���{�C����A�ǎ҂̊F�l���߂�Ȃ����B<br>
-<font color="#ff88cc">��1.��{���l��Ƣ�鐝��l��͕ʐl�ł����H</font><br>
-�@����l���ł��B�������͎鐝��l�ł��B<br>
-<font color="#ff88cc">��2.��l�������t����ƌĂт܂�������͂������H</font><br>
-�@���߂�Ȃ����B�������́A�u����v�ł��B<br>
-�@������ł����N���C�}�b�N�X�܂ł̃v���b�g��O���Ȃ��犮�������܂����B<br>
-��b�͉ʂĂ��Ȃ����ׂƂ��Ă���̂ŁA��b�͈�b��ǂ܂Ȃ��Ă����v�Ȃ悤�ɍ��܂��̂Ŗl�����̂ĂȂ��ł��������B���肢���܂��B����΂�܂�����A��l�ł������̐l�ɓǂ�ł��炦��悤�P�����܂�����`�`�B�u�^�A�t�Ɨz�C�Ɓc�c�v�������n�܂�B�\���B<br>
-�@�Ƃ���Ő搶���Ɏ��₪����܂��B�w�킢���́x�������Ă������ł����H<br>
-���߂ł��`�A�킢�A�����A�V���A�X�B����[�[�A�܂����ׁH</font>
+<font size=3 color=#606060>　日本海さん、読者の皆様ごめんなさい。<br>
+<font color="#ff88cc">＞1.「須崎零人」と「朱雀零人」は別人ですか？</font><br>
+　同一人物です。正しくは朱雀零人です。<br>
+<font color="#ff88cc">＞2.零人が灯矢を「春樹」と呼びますがこれはあだ名？</font><br>
+　ごめんなさい。正しくは、「燈矢」です。<br>
+　今さらですがクライマックスまでのプロットを朧げながら完成させました。<br>
+壱話は果てしなく混沌としているので、弐話は壱話を読まなくても大丈夫なように作りますので僕を見捨てないでください。お願いします。がんばりますから、一人でも多くの人に読んでもらえるよう善処しますから〜〜。「真、春と陽気と……」がいつか始まる。予感。<br>
+　ところで先生方に質問があります。『戦いもの』を混ぜてもいいですか？<br>
+こめでい〜、戦い、恋愛、シリアス。うわーー、また混沌？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> �~�X�^�C�v�H</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> ミスタイプ？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/15 (��) 17:30:03 <strong>��</strong> ���{�C </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508151173003&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508151173003"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/15 (月) 17:30:03 <strong>▽</strong> 日本海 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508151173003_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200508151173003"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>1.��{���l��Ƣ�鐝��l��͕ʐl�ł����H<br>
-2.��l�������t����ƌĂт܂�������͂������H<br>
+<font size=3 color=#606060>1.「須崎零人」と「朱雀零人」は別人ですか？<br>
+2.零人が灯矢を「春樹」と呼びますがこれはあだ名？<br>
 <br>
 <br>
-�Ƃɂ������_�����낢��ւ���Ă����Ȃ���i�s��������͂悩�����Ǝv���܂��B</font>
+とにかく視点をいろいろ替わっていきながら進行する方式はよかったと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> ���肰�ł��B</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> もりげです。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/15 (��) 06:50:23 <strong>��</strong> ���肰 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508151065023&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508151065023"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/15 (月) 06:50:23 <strong>▽</strong> もりげ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508151065023_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200508151065023"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̍�i�̓~���̃r�[�i�X�I��@�i��肷���j�ƃ��[�c�@���g�̂悤�Ȃ���₩����ڎw���܂����B���̂悤�ɁA�F���̂悤�Ɏ������镨��B�������ȁ`�`�Ƃ��B<br>
-�@���ƁA�薼�Z���X���`�`�`�B�[���ܕb�Ŏv���������x�̂��T�u�W�F�N�g�ɂ���Ȃ��ẮB���̂�����������Ă���܂��B</font>
+<font size=3 color=#606060>この作品はミロのビーナス的手法（やりすぎ）とモーツァルトのようなさわやかさを目指しました。風のように、颶風のように疾走する物語。美しいな〜〜とか。<br>
+　あと、題名センス無〜〜〜。つーか五秒で思いついた程度のをサブジェクトにするなっての。ものすごく後悔しております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/15 (��) 01:55:43 <strong>��</strong> jibook </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508151015543&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508151015543"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/15 (月) 01:55:43 <strong>▽</strong> jibook </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508151015543_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200508151015543"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�t�Ɨz�C�ƒn���̉��`��`��ǂ܂��Ă��������܂����B<br>
-�X�g�[���[�͍ō��ł��B���@�g���Ƃ����̂��Ȃ�Ƃ��I<br>
-������͌����Ă����̂��Ǝv���܂����ǁA����čs���̂������ł��B<br>
-�ł��A������i�Ȃ̂Ŋ撣���Ă��������B�����y���݂ɂ��Ă܂��B<br>
+<font size=3 color=#606060>春と陽気と地獄の宴〜壱〜を読ませていただきました。<br>
+ストーリーは最高です。魔法使いというのがなんとも！<br>
+私からは言っていいのかと思いますけど、流れて行くのが早いです。<br>
+でも、いい作品なので頑張ってください。次も楽しみにしてます。<br>
 </font>
 <p><a href="http://jibooknet.hp.infoseek.co.jp" target="_top">http://jibooknet.hp.infoseek.co.jp</a>
 </td></table>
@@ -210,25 +210,25 @@ MONDO����ɂ͂ƂĂ����炫��܂�Ȃ��̂����ǂ����������Ă����܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �l�͂����Ǝv���܂��B</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 僕はいいと思います。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/14 (��) 15:27:37 <strong>��</strong> �w�K�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508140152737&log=morige">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508140152737"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/14 (日) 15:27:37 <strong>▽</strong> 学習生 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508140152737_log_morige.cgi">返信</a>　削除<input type=checkbox name="target" value="200508140152737"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�v�X�ɂ���ȃp���t���ȍ�҂Əo��āA���Ɋ������ł��B<br>
-�@�ߍ����������}���l���Y�����Ă������ɂɁA�V���Ȏh���ƂȂ�ł͂Ȃ����Ɗy���݂��Ă��܂��B<br>
+<font size=3 color=#606060>　久々にこんなパワフルな作者と出会えて、非常に嬉しいです。<br>
+　近頃書き方がマンネリズムしてきた文庫に、新たな刺激となるではないかと楽しみしています。<br>
 <br>
-�@���ʂɂ����������J��������Ȃ��̂͊����܂������A�t�������Ύ��_���i�����������͂����肵�Ă���΁A�����Ƃ݂�Ȃ����҂��Ă����i�ɂȂ�܂��B<br>
+　文面にもう少し丁寧さが足りないのは感じましたが、逆をいえば視点や情景がもう少しはっきりしていれば、きっとみんなが期待している作品になります。<br>
 <br>
-�@���Ђ�荂���i�K��ڎw���A����΂��Ă��������B�������Ă��܂��I</font>
+　ぜひより高い段階を目指し、がんばってください。応援しています！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="morige">
@@ -236,16 +236,16 @@ MONDO����ɂ͂ƂĂ����炫��܂�Ȃ��̂����ǂ����������Ă����܂��B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="morige">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=morige">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_morige.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

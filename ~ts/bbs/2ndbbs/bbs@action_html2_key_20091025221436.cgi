@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,53 +52,53 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�����Z�b�g
+長寿セット
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�X�T�V�邳��</center><tr>
+<center>作者：９５７夜さん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�@�������̒j���������Ȃ̂��H<br>�@���̗��R�̈�͓������B���b�������Ƃ��A���͔牺���b�ƂȂ邪�A�j�͐悸�����ɂ��āA���̌�ɔ牺���b�ƂȂ�B������j�̕��������ɕ��S�������B�ɂ�������炸�A�牺�łȂ������Ɏ��b�����̂́A������g�y�ɂ���ׂ��B���s�≓���̉ב���̂Ƃ��A�傫�߂̃o�b�O�̒��ɑS������Ă��܂��������A�����ȃo�b�O�̊O���Ƀp�b�N�o���Ȃ������z��������t��������肪�ǂ��B�l�Ԃ̑̂��A���΂獜�̒��Ɏ��b�����Ă��܂��������A���΂獜�̊O�ɏo�������s�����f�����Ȃ�B<br>�@�ł́A�t�ɂȂ����͓����łȂ��牺�Ɏ��b�����̂��H�@���΂獜���������A���ɂ��ڂ�ŁA���b������ɕt���邾���̗]�T�����΂獜�̓�����ԂɂȂ��B����́A���������b�Ŕ�債�āA���̉��̎q�{�����������Ȃ��ׂ̗\�h�[�u���B���͎̑̂q�{�����ׂ̍\�������Ă��āA�j�̑̂́A���̏����O�G������ׂ̍\�������Ă���B���ꂪ�@�\�I�������S���B<br>�@�����A�@�B�����ꂽ����Љ�ł́A�j���j�̑̂�����K�v�͖����B�E�Ɠ������A�P�ɒj�̏ے��Ƃ��đ傫�ȑ́A�����Ղ��̂����Ă��邾�����B�����ɒj���𒷎���������]�n������B<br><br>�@�����Z�b�g��<br>�w�������V�F�C�v�A�b�v�x<br>�͂������Đ��܂ꂽ�B
+　女が何故男よりも長寿なのか？<br>　その理由の一つは内蔵だ。脂肪が着くとき、女は皮下脂肪となるが、男は先ず内蔵について、その後に皮下脂肪となる。だから男の方が内蔵に負担が多い。にもかかわらず、皮下でなく内蔵に脂肪がつくのは、動きを身軽にする為だ。旅行や遠足の荷造りのとき、大きめのバッグの中に全部入れてしまった方が、小さなバッグの外側にパック出来なかった奴をくくり付けるより安定が良い。人間の体も、あばら骨の中に脂肪を入れてしまった方が、あばら骨の外に出すよりも行動が素早くなる。<br>　では、逆になぜ女は内蔵でなく皮下に脂肪がつくのか？　あばら骨が小さく、下にすぼんで、脂肪を内蔵に付けるだけの余裕があばら骨の内部空間にない。それは、内蔵が脂肪で肥大して、その下の子宮を圧迫させない為の予防措置だ。女の体は子宮を守る為の構造をしていて、男の体は、その女を外敵から守る為の構造をしている。これが機能的役割分担だ。<br>　だが、機械化された現代社会では、男が男の体をする必要は無い。髭と同じく、単に男の象徴として大きな体、動き易い体をしているだけだ。そこに男性を長寿化させる余地がある。<br><br>　長寿セットの<br>『骨内蔵シェイプアップ』<br>はこうして生まれた。
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�X�T�V��
+９５７夜
 </address>
-2009�N10��25��(��) 22��14��36�b ���J<br>
+2009年10月25日(日) 22時14分36秒 公開<br>
 <!--217.209.110.80-->
-<font color=red>�����̍�i�̒��쌠�͂X�T�V�邳��ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権は９５７夜さんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-TS�ړI�łȂ��A�������TS�A�C�e���ł��B�A�C�f�A�����̘A���ōς݂܂���B
+TS目的でない、事実上のTSアイテムです。アイデアだけの連投で済みません。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>���肩�i�m���A�ǂ����L��������܂��B<BR>�l�I�ɃR���f�B�[���D���Łi���z�͕t���Ă��Ȃ����ǁj�A���̃R���f�B�̒��ł��w�P�ӂ̎��́x���Ă����n��<BR>���D���Ȃ̂ŁA�ǂ����Ă��A�����������΂�����l���Ă��܂��܂��B�N���Ɏg���Ē�����΁A�Ƃ��Ă���������<BR>�ł����B</td>
-<td>�X�T�V��</td>
-<td width=20%>��2009-10-31 21:47:57</td>
+<td style=font-size:10pt>きりか進ノ介さん、どうも有難うございます。<BR>個人的にコメディーが好きで（感想は付けていないけど）、そのコメディの中でも『善意の事故』っていう系統<BR>が好きなので、どうしても、こういう事ばっかり考えてしまいます。誰かに使って頂ければ、とっても嬉しいの<BR>ですが。</td>
+<td>９５７夜</td>
+<td width=20%>■2009-10-31 21:47:57</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�@����΂�́B<BR><BR>�@����TS�̎�͐s���܂��B�Ƃ͐\�����̂́A���Ȃǂ͂��̎���v�������ɋ�J���邱�Ƃ������A���A���e�B�ɕx�񂾃A�C�f�B�A���o����̂͂��ꂾ���ł��������̂ł��B<BR>�@�Ȃ�قǂȂ��A�Ǝv���Ȃ���ǂ܂��Ē����܂����B</td>
-<td>���肩�i�m��</td>
-<td width=20%>��2009-10-29 20:31:48</td>
+<td style=font-size:10pt>　こんばんは。<BR><BR>　世にTSの種は尽きまじ。とは申すものの、私などはその種を思いつかずに苦労することも多く、リアリティに富んだアイディアが出せるのはそれだけでも凄いものです。<BR>　なるほどなあ、と思いながら読ませて頂きました。</td>
+<td>きりか進ノ介</td>
+<td width=20%>■2009-10-29 20:31:48</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -106,24 +106,24 @@ TS�ړI�łȂ��A�������TS�A�C�e���ł��B�A�C�f�A�����̘A���ōς݂܂���B
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20091025221436">
 <input type=hidden name="num_r" value="20091025221436">
 <input type=hidden name="url" value="">
@@ -139,17 +139,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20091025221436">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -159,9 +159,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

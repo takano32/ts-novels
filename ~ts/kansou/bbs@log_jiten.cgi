@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�}���`�f����</title>
+<title>マルチ掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�}���`�f����</font>
+<font size=5>マルチ掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi" name="F1">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="jiten">
 <input type=hidden name="nj" value="AiEbyMrhVh">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h F4hzan  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="F4hzan"> <Script language=vbscript>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード F4hzan  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="F4hzan"> <Script language=vbscript>
 <!--
  document.F1.rcode.value=document.F1.hrcode.value
  -->^n</script>
-<input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+<input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 20 <strong>�ő�L�^�ێ���</strong> 400 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 20 <strong>最大記録保持数</strong> 400 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,33 +48,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1939]</font> <font size=4 color=#40c0c0> ���܂����B</font>
+<font size=2>[1939]</font> <font size=4 color=#40c0c0> 見ました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/09/06 (��) 20:35:11 <strong>��</strong> �ΐσi���i=����񂱁j </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201109062203511&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201109062203511"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/09/06 (火) 20:35:11 <strong>▽</strong> 石積ナラ（=旅わんこ） </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201109062203511_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201109062203511"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ƃ������A�������΂�����̃c�C�[�g�ɂ��̃^�O�������Ăł��ˁA<br>
-������N���b�N������ǂ����Ă������΂�����̃c�C�[�g�������ɂȂ��́H�@�Ƃ����s�v�c���ہB<br>
-������ɂ��旹���ł��B<br>
-��i���z�̓c�C�b�^�[�������ڕ��ɂɏ����Ǝv���܂����ǁB</font>
+<font size=3 color=#606060>というか、おもちばこさんのツイートにそのタグがあってですね、<br>
+それをクリックしたらどうしておもちばこさんのツイートがそこにないの？　という不思議現象。<br>
+いずれにせよ了解です。<br>
+作品感想はツイッターよりも直接文庫に書くと思いますけど。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1938]</font> <font size=4 color=#40c0c0> �C�x���g�ƌ�������`</font>
+<font size=2>[1938]</font> <font size=4 color=#40c0c0> イベントと言うか宣伝</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/09/04 (��) 23:52:11 <strong>��</strong> �V� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201109040235211&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201109040235211"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/09/04 (日) 23:52:11 <strong>▽</strong> 天爛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201109040235211_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201109040235211"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�N���G�[�^�[�Y�E�t���A�ɂ��������݂܂������A<br>
-�c�C�b�^�[�ɂď��N�������ɂ̎����u#���N�������Ɂv�ƌ����^�O���g���ęꂢ�Ă���܂��B<br>
-�c�C�b�^�[�����Ă����ҁ��ǎ҂̊F����A�悯��΂��g�����������B<br>
+<font size=3 color=#606060>クリエーターズ・フロアにも書き込みましたが、<br>
+ツイッターにて少年少女文庫の事を「#少年少女文庫」と言うタグを使って呟いております。<br>
+ツイッターをしている作者＆読者の皆さん、よければお使いください。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -82,67 +82,67 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1937]</font> <font size=4 color=#40c0c0> ���ӌ����肪�Ƃ��������܂�</font>
+<font size=2>[1937]</font> <font size=4 color=#40c0c0> ご意見ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/08/13 (�y) 09:54:48 <strong>��</strong> �V� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201108136095448&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201108136095448"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/08/13 (土) 09:54:48 <strong>▽</strong> 天爛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201108136095448_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201108136095448"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���A�C�f�A�Ƃ��ẮA�u�������낻���v�A���ꂪ�܂��B</font><br>
-���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060><font color="#ff88cc">＞アイデアとしては、「おもしろそう」、それがまず。</font><br>
+ありがとうございます。<br>
 <br>
-<font color="#ff88cc">���Vࣂ���́A�����̃T�C�g���������ł��B�܂��͂�����ŁA��A����ƂƂ��Ɋ�������Ă݂Ă͂������ł��傤�B����ł����艞�����������̂ł���΁A������x���ɂŁA�Q���҂���Ƃ����̂�</font><br>
-���`�A���`�A����B<br>
-�������Ă͂����ł���H�������ẮB<br>
-�ł��A�����̃T�C�g��A�����Ȃ��́B<br>
-����̂͂����ł��傤���Ǐ������݂����Ȃ����炻�̏�A���񂪏����肳�񂩓ǂݎ肳�񂩂킩��Ȃ���Ԃł����B<br>
-�܂��A�������݂����Ȃ��͍̂X�V���̏��Ȃ��̂������ł��傤���ǁi�ꊾ<br>
+<font color="#ff88cc">＞天爛さんは、自分のサイトをお持ちです。まずはそちらで、常連さんとともに企画をやってみてはいかがでしょう。それでもし手応えを感じたのであれば、もう一度文庫で、参加者を募るというのは</font><br>
+あ〜、う〜、うん。<br>
+分かってはいるんですよ？分かっては。<br>
+でも、うちのサイト常連が少ないの。<br>
+いるのはいるんでしょうけど書き込みが少ないからその常連さんが書き手さんか読み手さんかわからない状態ですし。<br>
+まあ、書き込みが少ないのは更新自体少ないのが原因でしょうけど（滝汗<br>
 <br>
-�Ƃ������ƂŎ��T�C�g�ł���Ă����ʂ������߂Ȃ����Ȃ��`��orz</font>
+ということで自サイトでやっても効果が見込めないかなぁ〜とorz</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1936]</font> <font size=4 color=#40c0c0> �����[�ɂ��Ă��Ԏ�</font>
+<font size=2>[1936]</font> <font size=4 color=#40c0c0> リレーについてご返事</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/08/11 (��) 08:15:56 <strong>��</strong> �ΐσi�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201108114081556&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201108114081556"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/08/11 (木) 08:15:56 <strong>▽</strong> 石積ナラ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201108114081556_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201108114081556"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂��͂��Ԏ����x��Ă��݂܂���B�l�I�ȓs���Ȃ̂ł����A�A�p�[�g�̒[�����ُ���N�����āA�l�b�g���Ȃ���Ȃ���Ԃ������Ă��܂��B�������܁A���ƂɋA���Ă��Ă̏������݂����Ă��܂��B<br>
+<font size=3 color=#606060>まずはご返事が遅れてすみません。個人的な都合なのですが、アパートの端末が異常を起こして、ネットがつながらない状態が続いています。ただいま、実家に帰ってきての書き込みをしています。<br>
 <br>
-�A�C�f�A�Ƃ��ẮA�u�������낻���v�A���ꂪ�܂��B<br>
-�����[���Č����ƁA�ЂƂ̃e�[�}�A���邢�͂ЂƂ̕��ꐢ�E�����L������ăC���[�W�������ł����A���̘g����蕥�����̂͐V�����v���܂��B<br>
-�Q���҂̓����[���f����e�[�}�␢�E�ɔ����Ȃ��i����ȊO�Ɂj�̂ŁA�Q�����₷���͂ƂĂ�����Ǝv���܂��B<br>
+アイデアとしては、「おもしろそう」、それがまず。<br>
+リレーって言うと、ひとつのテーマ、あるいはひとつの物語世界を共有するってイメージが強いですが、その枠を取り払ったのは新しく思います。<br>
+参加者はリレーが掲げるテーマや世界に縛られない（お題以外に）ので、参加しやすさはとてもあると思います。<br>
 <br>
-�����A������ƐS�z�Ȃ��Ƃ��B<br>
-�ǂ�قǊ�悪�D��Ă��Ă��A�Q�����Ă����l�����Ȃ���Ί��͐������܂���B<br>
-���A����͖]�߂Ȃ���C���Y���Ă���ƁA�l�͎v���܂��B<br>
-�l���^�����[�̎��̌v����i�Ȃ��ΐl�ɉ����t����悤�Ȋ����Łj�f�O���܂����B<br>
+ただ、ちょっと心配なことが。<br>
+どれほど企画が優れていても、参加してくれる人がいなければ企画は成立しません。<br>
+今、それは望めない空気が漂っていると、僕は思います。<br>
+僕も某リレーの次の計画を（なかば人に押し付けるような感じで）断念しました。<br>
 <br>
-�����ŁA�A�h�o�C�X�ɂȂ�ł��傤���A���ꁫ���B<br>
-�Vࣂ���́A�����̃T�C�g���������ł��B�܂��͂�����ŁA��A����ƂƂ��Ɋ�������Ă݂Ă͂������ł��傤�B����ł����艞�����������̂ł���΁A������x���ɂŁA�Q���҂���Ƃ����̂́B<br>
+そこで、アドバイスになるでしょうか、これ↓が。<br>
+天爛さんは、自分のサイトをお持ちです。まずはそちらで、常連さんとともに企画をやってみてはいかがでしょう。それでもし手応えを感じたのであれば、もう一度文庫で、参加者を募るというのは。<br>
 <br>
-�ł͂��̕ӂŁB</font>
+ではこの辺で。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1935]</font> <font size=4 color=#40c0c0> �ӂ�</font>
+<font size=2>[1935]</font> <font size=4 color=#40c0c0> ふむ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/08/07 (��) 23:38:04 <strong>��</strong> �V� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201108070233804&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201108070233804"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/08/07 (日) 23:38:04 <strong>▽</strong> 天爛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201108070233804_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201108070233804"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��P�O�����u�Ŕ����Ȃ����Ă��ƂŁA���̊��͖����������ɂ�����������ł����ˁB<br>
-��B�Ȃ񂩔������������炻�̎��l������Ă��ƂŁA��荇�����i�V�ƌ������ƂȂ��Ƃ��܂��B</font>
+<font size=3 color=#606060>約１０日放置で反応なしってことで、この企画は無かった事にした方が無難ですかね。<br>
+ん。なんか反応があったらその時考えるってことで、取り合えずナシと言うことなしとします。</font>
 </td></table>
 </td></tr></table>
 
@@ -152,22 +152,22 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[1934]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/07/28 (��) 00:34:35 <strong>��</strong> �V� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201107284003435&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201107284003435"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/07/28 (木) 00:34:35 <strong>▽</strong> 天爛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201107284003435_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201107284003435"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���v���Ԃ�ł��B<br>
+<font size=3 color=#606060>お久しぶりです。<br>
 <br>
-�^�c����̎��ς킹�Ȃ����Ƃ��āu���胊���[�v�Ȃ���̂��v��������ł����ǂǂ��ł���H<br>
+運営さんの手を煩わせない企画として「お題リレー」なるものを思いついたんですけどどうでしょ？<br>
 <br>
-����ɂ�������i�𕶌ɂɓ��e���A�R�����g���Ŏ��̂�����w��B<br>
-���̂���ɂ�������i��������l������������ē��e�A�X�Ɏ��̂�����B<br>
+お題にあった作品を文庫に投稿し、コメント欄で次のお題を指定。<br>
+そのお題にあった作品を書ける人がそれを書いて投稿、更に次のお題を。<br>
 <br>
-�ĂȊ����ŏ��X�ɂ�����o���Ă����ƌ������́B<br>
-��i���̂������[�ɂȂ��Ă���K�v�͖����A����i�ƕ��ɂ̓��e�K�聕�f�ڊ�j�𖞂����Ȃ�I���W�i���łn�j�B<br>
-�P�̂���ɑ΂��ĕ����̍�i�����e����Ă���ꍇ�́A���̂���͂��̓��̍D���Ȃ��̂�I���ł����̂��ȂƎv���܂��B<br>
+てな感じで順々にお題を出していくと言うもの。<br>
+作品自体がリレーになっている必要は無く、お題（と文庫の投稿規定＆掲載基準）を満たすならオリジナルでＯＫ。<br>
+１つのお題に対して複数の作品が投稿されている場合は、次のお題はその内の好きなものを選択でいいのかなと思います。<br>
 <br>
-����Ȃ�΁A�^�c������ʏ�̌f�ڍ�Ƃ����łn�j�ȋC�����܂����ǂ��ł���H<br>
+これならば、運営さんも通常の掲載作業だけでＯＫな気がしますしどうでしょ？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -178,172 +178,172 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[1932]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/30 (��) 13:24:59 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101300132459&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101300132459"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/30 (日) 13:24:59 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101300132459_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101300132459"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���낢��l�������ʁA�C�x���g�ɂ��ẮA�����ɂ��邱�Ƃɂ������܂��B</font>
+<font size=3 color=#606060>いろいろ考えた結果、イベントについては、白紙にすることにいたします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1931]</font> <font size=4 color=#40c0c0> Re2:�X�b�X����ɂ��ӌ�</font>
+<font size=2>[1931]</font> <font size=4 color=#40c0c0> Re2:スッスさんにご意見</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/29 (�y) 16:04:48 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101296160448&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101296160448"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/29 (土) 16:04:48 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101296160448_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101296160448"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �X�b�X����<br>
-�@�L���m���{�[�����s���̂ł���΁A�f���ɂ͑���ȕ��ׂ������邱�ƂƂȂ�̂ŁA���ɉ^�c�Ƃ��Ă͒񋟂ł��܂���B�䎩���ł��p�ӂ��������B</font>
+<font size=3 color=#606060>▼ スッスさん<br>
+　キャノンボールを行うのであれば、掲示板には多大な負荷がかかることとなるので、文庫運営としては提供できません。御自分でご用意ください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1930]</font> <font size=4 color=#40c0c0> �Ƃ����킯�Ń��[���Ə����ӂ�</font>
+<font size=2>[1930]</font> <font size=4 color=#40c0c0> というわけでルールと諸注意を</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/29 (�y) 12:10:32 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101296121032&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101296121032"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/29 (土) 12:10:32 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101296121032_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101296121032"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��փ��M�����[�V�����i�H�j�@2004/07/07 (��) 21:44:57 �����ق̂������s�ψ�<br>
+<font size=3 color=#606060>二輪レギュレーション（？）　2004/07/07 (水) 21:44:57 藤原ほのか＠実行委員<br>
 <br>
-�@�w�s�r�L���m���{�[���x���s�ψ��̓����ق̂��ł��B<br>
-�@��ւ͑�ʂ��ăI�����[�h�i���[�T�[�j�^�C�v�ƃI�t���[�h�^�C�v�ɕ�����܂����A����̃��[�X�͉����𑖂炳��邩�킩��Ȃ��̂ŁA�I�t���[�h�d�l�̃o�C�N���㊥�L�����Ǝv���܂��B<br>
-�@���[�T�[�d�l�ܑ͕����H�ł͋����ł��傤���A�R����_�[�g�i���H�j�ł͂��Ȃ�s���ɂȂ�ł��傤�B���ꂱ���^�}�V���g���l�C�_�[�݂����ɕό`�����Ȃ��Ƃ����Ȃ������i�΁j�B<br>
-�@�o�C�N�ł��̂Œ���͂P���A�������債�����̂͑����ł��܂���B<br>
-�@�T�C�h�J�[�ɂ���Β�����R���܂ő��₹�āA���������̕������{�����Ƃ��ł���ł��傤���A�R�[�i�����O�ŕs���ɂȂ邱�Ƃ͔ۂ߂܂���B<br>
-�@�l�ւɊւ��ẮA�b��̕��������������܂��B<br>
+　『ＴＳキャノンボール』実行委員の藤原ほのかです。<br>
+　二輪は大別してオンロード（レーサー）タイプとオフロードタイプに分かれますが、今回のレースは何処を走らされるかわからないので、オフロード仕様のバイクが弱冠有利かと思います。<br>
+　レーサー仕様は舗装道路では強いでしょうか、山道やダート（悪路）ではかなり不利になるでしょう。それこそ某マシント○ネイダーみたいに変形させないといけないかも（笑）。<br>
+　バイクですので定員は１名、武装も大したものは装備できません。<br>
+　サイドカーにすれば定員を３名まで増やせて、そこそこの武装を施すことができるでしょうが、コーナリングで不利になることは否めません。<br>
+　四輪に関しては、甲介の方から説明があります。<br>
 <br>
 <br>
-�V�D�l�ւɂ��ā@2004/07/08 (��) 20:37:44 �эj�b����s�ψ�<br>
+７．四輪について　2004/07/08 (木) 20:37:44 飯綱甲介＠実行委員<br>
 <br>
-�@�ق̂����������Ă��悤�ɁA�ǂ�ȓ��𑖂邩������Ȃ��̂ŁA�l�ւ������[�d�l�⃉���h�N���[�U�[���L����������܂���B<br>
-�@�l�I�ɂ̓X�|�[�c�^�C�v��A���N�́u�X�[�p�[�J�[�v�ŎQ�킵�ė~�����ȁ`�Ǝv���̂ł����c�c�i�΁j<br>
-�@�^�}�b�n���݂����Ȑ������p���ꑕ�����ڂȎԂł������ł����A�E�Ґ_���܂݂����Ƀ��{�b�g�֕ό`���Ă����܂��܂���B<br>
-�@��r�ɂȂ�����A������̃��M�����[�V�����ɏ]���Ă��������B<br>
-�@�N���[���i�L���^�s���j�ł��n�j�ł����A��Ԃ�Ȏԑ̂ɂȂ�܂��B<br>
-�@����͂R�`�S���i�������ЂƂ�ł��\���܂��񂪁j�A���������������̂��̂��ڂ��邱�Ƃ��ł��܂����A����������������񂶂�Ȃ��ł��B<br>
-�@����������������ő����Ă��܂�����B<br>
+　ほのかが説明してたように、どんな道を走るか分からないので、四輪もラリー仕様やランドクルーザーが有利かもしれません。<br>
+　個人的にはスポーツタイプや、往年の「スーパーカー」で参戦して欲しいな〜と思うのですが……（笑）<br>
+　某マッハ号みたいな水陸両用特殊装備満載な車でもいいですし、勇者神さまみたいにロボットへ変形してもかまいません。<br>
+　二脚になったら、そちらのレギュレーションに従ってください。<br>
+　クローラ（キャタピラ）でもＯＫですが、大ぶりな車体になります。<br>
+　定員は３〜４名（もちろんひとりでも構いませんが）、武装もそこそこのものを載せることができますが、そうそう当たるもんじゃないです。<br>
+　自分も相手も高速で走っていますから。<br>
 <br>
-�u���݃y�[�W�ł��������Ă��܂������A���{�̑S���͂T�`�W�����x�ł��肢���܂��v<br>
-�u���K�p�y�b�g�̂悤�ȉ��u���c�^�C�v�Ȃ�A�����w���ɏ���Ăˁv<br>
-�u�����ɃR�N�s�b�g��݂���ꍇ�A����͂P���ɂȂ�܂��v<br>
-�u�Q�l�ȏ��荞��ł��������ǁA�����ꂵ���Ǝv�����v<br>
-�u���Ƀ��[���[�𗚂����āA�I�����[�h���ɂ͎ԗֈړ��A�_�[�g�i���H�j�ŋr�ړ��c�c�Ǝg�������Ă��\���܂��񂪁A�ǂ������ւ�l�ւɔ�ׂ��烍�X�̑����ړ������Ȃ̂ŁA���܂߂Ƀ����e��R���⋋�\�\���K�p�y�b�g�Ȃ�[�d������K�v������܂��v<br>
-�u�܂��A��r���J�́w�]�|���₷���x�Ƃ������Ƃ𓪂ɓ���Ă����Ă��������ˁv<br>
-�u�w�U�k�@�����r�`�b�x�ɓo�ꂵ���^�`�R�}�݂����ȑ��r���J���g�p���Ă������ł����A�r�ړ��̌����̈����͂��Ă܂��܂��v<br>
-�u���萫�͂������ǂˁv<br>
-�u���ƁA�z�o�[�}�V���▂�@�̃z�E�L�n�̏�蕨�́A���݃y�[�W�Ō����Ă�悤�ɍ��x�P.�T�����ێ����Ă��������v<br>
-�u�R�[�X�̏󋵂ɂ���ẮA�S�O�`�T�O�����̃E�G�C�g���ڂ��Ă��������ꍇ������܂��̂ł��������������v<br>
-�u����Ӗ��ŋ������ȁv<br>
-�u�������ȁH�@�����ԍג������̂Ɍׂ����Ă���A�ҎC�ꂵ�Ēɂ��Ǝv�����ǁv<br>
+「特設ページでも説明していましたが、ロボの全高は５〜８ｍ程度でお願いします」<br>
+「メガパペットのような遠隔操縦タイプなら、肩か背中に乗ってね」<br>
+「内部にコクピットを設ける場合、定員は１名になります」<br>
+「２人以上乗り込んでもいいけど、狭っ苦しいと思うわよ」<br>
+「足にローラーを履かせて、オンロード時には車輪移動、ダート（悪路）で脚移動……と使い分けても構いませんが、どちらも二輪や四輪に比べたらロスの多い移動方式なので、こまめにメンテや燃料補給——メガパペットなら充電をする必要があります」<br>
+「また、二脚メカは『転倒しやすい』ということを頭に入れておいてくださいね」<br>
+「『攻殻機動隊ＳＡＣ』に登場したタチコマみたいな多脚メカを使用してもいいですが、脚移動の効率の悪さはついてまわります」<br>
+「安定性はいいけどね」<br>
+「あと、ホバーマシンや魔法のホウキ系の乗り物は、特設ページで言ってるように高度１.５ｍを維持してください」<br>
+「コースの状況によっては、４０〜５０ｋｇのウエイトを載せていただく場合もありますのでご了承ください」<br>
+「ある意味最強だしな」<br>
+「そうかな？　長時間細長いものに跨がってたら、股擦れして痛いと思うけど」<br>
 <br>
-�ȏ㖳�󂩂甲���o���B<br>
+以上無印から抜き出し。<br>
 <br>
-�V���[��<br>
-�W�Q�����͖��@�����g���ꍇ�́A�����Ɖ^�c�ɂ��̂��Ƃ�`���܂��傤�B<br>
-�g���O�ɂ����Ȃ茾���Ă��ǂ��ł������̏ꍇ�͂P�y�i�ɒl���܂��̂ŁA<br>
-�����ƃ��[�X�X�^�[�g�O�ɖ��@�g�������H���炢�͓`���Ă��������B<br>
-��������΃y�i�ɂȂ�܂���B<br>
-TS�~�T�C�����̎g�p�͈ꉞ�͒e���\�����ł����A���R�ł��B<br>
-�i�������\�������ȏ�̒e�����g���ꍇ�͕⋋�C�x���g���Ȃ������ꍇ�y�i�ɂȂ�܂��B�܂��A�⋋�C�x���g�͉���ł�OK�ł����A<br>
-�⋋���ĂP�O�X���܂ł͕����[�U���ԂƂ݂Ȃ��܂��̂ŁA���̊Ԃɕ������g���ꍇ�͏[�U�C�x���g���K�{�ŁA�[�U�C�x���g�͈�l�T��܂ŁB<br>
-�⋋�Ə[�U����C�ɂ�����ꍇ�́A�[�U�C�x���g�Q�񕪂Ƃ݂Ȃ��܂��B�j<br>
-�w�����o������A���H�Ɍ���������A�ؑタ����t�H�X�^�[�o��A�Z��A�{���̏b�������ɂ���̂͋֎~�ł��B<br>
-�������H���g����������Ȃ��̂ŁAETC�����B���������H�K������Ė����Ƃ������Ƃɂ���\��ł��B<br>
-TS�N���b�V���͎��R�ł����A�Ђ񂵂キ�𔃂��Ă��m��܂���B�i��ԃN���b�V���������Ȗl�������Ȃ��āH�͂������ł��B���߂�Ȃ����B�j<br>
-�ϋq�̖W�Q�͂��߂ł��B�������A�s�b�g�N���[�̖W�Q�͂����ł��B<br>
-������<br>
-��������Q���̏ꍇ�A�l�̍�i�̃L�����������Ȃ������ւ���W�Q���܂��B�i�����j<br>
-�����ւ������Ȃ�A�l�̍�i�̃L�����ɖW�Q�����O�ɒ����ւ��܂��傤�B</font>
+新ルール<br>
+妨害武装は魔法等を使う場合は、ちゃんと運営にそのことを伝えましょう。<br>
+使う前にいきなり言っても良いですがその場合は１ペナに値しますので、<br>
+ちゃんとレーススタート前に魔法使うかも？ぐらいは伝えてください。<br>
+そうすればペナになりません。<br>
+TSミサイル等の使用は一応は弾数申告制ですが、自由です。<br>
+（ただし申告した以上の弾数を使う場合は補給イベントがなかった場合ペナになります。また、補給イベントは何回でもOKですが、<br>
+補給して１０スレまでは武装充填時間とみなしますので、その間に武装を使う場合は充填イベントも必須で、充填イベントは一人５回まで。<br>
+補給と充填を一気にやった場合は、充填イベント２回分とみなします。）<br>
+学園を出したり、道路に穴あけたり、華代ちゃんやフォスター登場、媚薬、本物の獣耳っ娘にするのは禁止です。<br>
+高速道路を使うかもしれないので、ETC推奨。ただし道路規制されて無いということにする予定です。<br>
+TSクラッシュは自由ですが、ひんしゅくを買っても知りません。（一番クラッシュしそうな僕が言うなって？はいそうです。ごめんなさい。）<br>
+観客の妨害はだめです。ただし、ピットクルーの妨害はいいです。<br>
+諸注意<br>
+つかさくん参加の場合、僕の作品のキャラが遠慮なく着せ替えを妨害します。（おい）<br>
+着せ替えたいなら、僕の作品のキャラに妨害される前に着せ替えましょう。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1929]</font> <font size=4 color=#40c0c0> Re:�X�b�X����ɂ��ӌ�</font>
+<font size=2>[1929]</font> <font size=4 color=#40c0c0> Re:スッスさんにご意見</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/29 (�y) 11:26:29 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101296112629&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101296112629"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/29 (土) 11:26:29 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101296112629_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101296112629"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �Vࣂ���<br>
-<font color="#cc88ff">&gt; �������Ȃ񂩊����ł��Ȃ����ȁH�ƍl�����������肵�܂����A<br>
-&gt; ����͂܂��u���Ƃ��āA�X�b�X����ɂ��ӌ��B</font><br>
+<font size=3 color=#606060>▼ 天爛さん<br>
+<font color="#cc88ff">&gt; 自分もなんか企画をできないかな？と考え中だったりしますが、<br>
+&gt; それはまあ置いといて、スッスさんにご意見。</font><br>
 &gt;<br>
 &gt;<br>
-<font color="#cc88ff">&gt; ���L���m���{�[�����o�C�o���ɎQ���������l�͍�����ł��\�����ėǂ��ł���B<br>
-&gt; �ォ��ڐ�����W�܂�q���W�܂�Ȃ��ł���H<br>
-&gt; ������A�Ȃ��݂̐󂢕����炾�Ɠ��ɁB</font><br>
-�����ł����B���߂�Ȃ����B<br>
-<font color="#cc88ff">&gt; �����[���Ƃ��͖���̃L���m���{�[�����Ă����Ηǂ��ł��B<br>
-&gt; ���[�����O��Ɠ����ƂȂ�ƁA�O��Ɠ������r���ł�₭����ɂȂ�̂�<br>
-&gt; �ڂɌ����Ă�C�������ł����A������ς͂ǂ����l���ŁH<br>
-&gt; ���ƁA����̃L���m���{�[���ł̖��_�Ƃ��B<br>
-&gt; �O��Ɠ����ł͂Ȃ������Ɨ��������������ł���H</font><br>
-�����ł����B�l���Ƃ��܂��B<br>
-<font color="#cc88ff">&gt;�f���i����ѐ�p�y�[�W�H�j�B<br>
-&gt; �����ł���̂����̂ЂƂƂȂ��Ă����悤�Ȃ̂ŁA�ʓr�p�ӂ���K�v������̂ł͂Ȃ����ƁB<br>
-&gt; �^�c�ψ��ɂ��肢���邩�A�����ŗp�ӂ��邩���Ȃ��ƁB</font><br>
-�����ŗp�ӂˁE�E�E���������Z�p�����邩�ȁE�E�E<br>
-<font color="#cc88ff">&gt; �c�c�܂��A�l�������Ȃ��悤�ł��̂ŁA���܂�^�c�ψ�����̎��ς킹���A�o���邱�Ƃ͎����ł����������C�͂��܂����B</font><br>
-�͂��B<br>
-<font color="#cc88ff">&gt; �ŁA����Ɍ�����<br>
-&gt; �Q���҂���ɁA���͎҂Ƃ�����������ÎҁH���������������Ǝv���܂���H<br>
-&gt; �������݂����Ă銴���A�X�b�X����͂��̎�̊��̉^�c�͎n�߂Ă���������͗l�B&lt;br&gt;&gt; ���^�c�����Ȃ�Â����Ă���Ǝv���܂��B<br>
-&gt; �X�b�X����̈ӗ~�͔����܂����A�^�c�i����Áj�P�l���ƂقڊԈႢ�Ȃ��ڍ����܂���H</font><br>
-�����ł��ˁB�ł͂����ŁA���͎҂��点�Ă��炤���Ƃɂ������܂��B<br>
+<font color="#cc88ff">&gt; ＞キャノンボールリバイバルに参加したい人は今からでも表明して良いですよ。<br>
+&gt; 上から目線じゃ集まる客も集まらないですよ？<br>
+&gt; それも、なじみの浅い方からだと特に。</font><br>
+そうですか。ごめんなさい。<br>
+<font color="#cc88ff">&gt; ＞ルールとかは無印のキャノンボール見てくれれば良いです。<br>
+&gt; ルールが前回と同じとなると、前回と同じく途中でわやくちゃになるのが<br>
+&gt; 目に見えてる気がするんですが、そこら変はどうお考えで？<br>
+&gt; あと、無印のキャノンボールでの問題点とか。<br>
+&gt; 前回と同じではなくちゃんと練った方がいいですよ？</font><br>
+そうですか。考えときます。<br>
+<font color="#cc88ff">&gt;掲示板（および専用ページ？）。<br>
+&gt; ここでするのも問題のひとつとなっていたようなので、別途用意する必要があるのではないかと。<br>
+&gt; 運営委員にお願いするか、自分で用意するかしないと。</font><br>
+自分で用意ね・・・そういう技術があるかな・・・<br>
+<font color="#cc88ff">&gt; ……まあ、人員も少ないようですので、あまり運営委員さんの手を煩わせず、出来ることは自分でやる方がいい気はしますが。</font><br>
+はい。<br>
+<font color="#cc88ff">&gt; で、さらに言うと<br>
+&gt; 参加者より先に、協力者というか共同主催者？を募った方がいいと思いますよ？<br>
+&gt; 書き込みを見てる感じ、スッスさんはこの手の企画の運営は始めていらっしゃる模様。&lt;br&gt;&gt; 企画運営をかなり甘く見ていると思われます。<br>
+&gt; スッスさんの意欲は買いますが、運営（≒主催）１人だとほぼ間違いなく頓挫しますよ？</font><br>
+そうですね。ではここで、協力者を募らせてもらうことにいたします。<br>
 &gt;<br>
-<font color="#cc88ff">&gt; �ȏ�A�L���m���{�[���ɂ́i���ɂ��̂܂܂̃��[���ł́j���܂���C�łȂ��Vࣂł����B</font><br>
-������܂����B</font>
+<font color="#cc88ff">&gt; 以上、キャノンボールには（特にそのままのルールでは）あまり乗り気でない天爛でした。</font><br>
+分かりました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1928]</font> <font size=4 color=#40c0c0> �X�b�X����ɂ��ӌ�</font>
+<font size=2>[1928]</font> <font size=4 color=#40c0c0> スッスさんにご意見</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/29 (�y) 09:12:18 <strong>��</strong> �V� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101296091218&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101296091218"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/29 (土) 09:12:18 <strong>▽</strong> 天爛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101296091218_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101296091218"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������Ȃ񂩊����ł��Ȃ����ȁH�ƍl�����������肵�܂����A<br>
-����͂܂��u���Ƃ��āA�X�b�X����ɂ��ӌ��B<br>
+<font size=3 color=#606060>自分もなんか企画をできないかな？と考え中だったりしますが、<br>
+それはまあ置いといて、スッスさんにご意見。<br>
 <br>
 <br>
-<font color="#ff88cc">���L���m���{�[�����o�C�o���ɎQ���������l�͍�����ł��\�����ėǂ��ł���B</font><br>
-�ォ��ڐ�����W�܂�q���W�܂�Ȃ��ł���H<br>
-������A�Ȃ��݂̐󂢕����炾�Ɠ��ɁB<br>
+<font color="#ff88cc">＞キャノンボールリバイバルに参加したい人は今からでも表明して良いですよ。</font><br>
+上から目線じゃ集まる客も集まらないですよ？<br>
+それも、なじみの浅い方からだと特に。<br>
 <br>
-<font color="#ff88cc">�����[���Ƃ��͖���̃L���m���{�[�����Ă����Ηǂ��ł��B</font><br>
-���[�����O��Ɠ����ƂȂ�ƁA�O��Ɠ������r���ł�₭����ɂȂ�̂�<br>
-�ڂɌ����Ă�C�������ł����A������ς͂ǂ����l���ŁH<br>
-���ƁA����̃L���m���{�[���ł̖��_�Ƃ��B<br>
-�O��Ɠ����ł͂Ȃ������Ɨ��������������ł���H<br>
+<font color="#ff88cc">＞ルールとかは無印のキャノンボール見てくれれば良いです。</font><br>
+ルールが前回と同じとなると、前回と同じく途中でわやくちゃになるのが<br>
+目に見えてる気がするんですが、そこら変はどうお考えで？<br>
+あと、無印のキャノンボールでの問題点とか。<br>
+前回と同じではなくちゃんと練った方がいいですよ？<br>
 <br>
-����ƌf���i����ѐ�p�y�[�W�H�j�B<br>
-�����ł���̂����̂ЂƂƂȂ��Ă����悤�Ȃ̂ŁA�ʓr�p�ӂ���K�v������̂ł͂Ȃ����ƁB<br>
-�^�c�ψ��ɂ��肢���邩�A�����ŗp�ӂ��邩���Ȃ��ƁB<br>
-�c�c�܂��A�l�������Ȃ��悤�ł��̂ŁA���܂�^�c�ψ�����̎��ς킹���A�o���邱�Ƃ͎����ł����������C�͂��܂����B<br>
+それと掲示板（および専用ページ？）。<br>
+ここでするのも問題のひとつとなっていたようなので、別途用意する必要があるのではないかと。<br>
+運営委員にお願いするか、自分で用意するかしないと。<br>
+……まあ、人員も少ないようですので、あまり運営委員さんの手を煩わせず、出来ることは自分でやる方がいい気はしますが。<br>
 <br>
-�ŁA����Ɍ�����<br>
-�Q���҂���ɁA���͎҂Ƃ�����������ÎҁH���������������Ǝv���܂���H<br>
-�������݂����Ă銴���A�X�b�X����͂��̎�̊��̉^�c�͎n�߂Ă���������͗l�B<br>
-���^�c�����Ȃ�Â����Ă���Ǝv���܂��B<br>
-�X�b�X����̈ӗ~�͔����܂����A�^�c�i����Áj�P�l���ƂقڊԈႢ�Ȃ��ڍ����܂���H<br>
+で、さらに言うと<br>
+参加者より先に、協力者というか共同主催者？を募った方がいいと思いますよ？<br>
+書き込みを見てる感じ、スッスさんはこの手の企画の運営は始めていらっしゃる模様。<br>
+企画運営をかなり甘く見ていると思われます。<br>
+スッスさんの意欲は買いますが、運営（≒主催）１人だとほぼ間違いなく頓挫しますよ？<br>
 <br>
 <br>
-�ȏ�A�L���m���{�[���ɂ́i���ɂ��̂܂܂̃��[���ł́j���܂���C�łȂ��Vࣂł����B<br>
+以上、キャノンボールには（特にそのままのルールでは）あまり乗り気でない天爛でした。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -351,70 +351,70 @@ TS�N���b�V���͎��R�ł����A�Ђ񂵂キ�𔃂��Ă��m��܂���B�i��ԃN���b�V��������
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1927]</font> <font size=4 color=#40c0c0> �P�Q�T�O���ɂ��ď��m�����̂ňꌾ</font>
+<font size=2>[1927]</font> <font size=4 color=#40c0c0> １２５０万について承知したので一言</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/28 (��) 21:28:10 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101285212810&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101285212810"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/28 (金) 21:28:10 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101285212810_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101285212810"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ł����A�L���m���{�[�����o�C�o���ɎQ���������l�͍�����ł��\�����ėǂ��ł���B&lt;br&gt;������񂱂��Ŗl���Q���\�����B&lt;br&gt;���[���Ƃ��͖���̃L���m���{�[�����Ă����Ηǂ��ł��B&lt;br&gt;�蔲���ƌ����Ȃ��ŃR�s�y���܂��̂ł�낵���B</font>
+<font size=3 color=#606060>早速ですが、キャノンボールリバイバルに参加したい人は今からでも表明して良いですよ。&lt;br&gt;もちろんここで僕も参加表明も。&lt;br&gt;ルールとかは無印のキャノンボール見てくれれば良いです。&lt;br&gt;手抜きと言うなら後でコピペしますのでよろしく。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1926]</font> <font size=4 color=#40c0c0> �P�Q�Q�O���q�b�g�̌�</font>
+<font size=2>[1926]</font> <font size=4 color=#40c0c0> １２２０万ヒットの件</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/25 (��) 21:39:43 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101252213943&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101252213943"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/25 (火) 21:39:43 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101252213943_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101252213943"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�^�c�����<br>
+<font size=3 color=#606060>運営さんへ<br>
 <br>
-��������l��ÂłP�Q�Q�O���q�b�g�L�O�����܂��B<br>
-�����TS�L���m���{�[�����o�C�o���ɂ��邱�Ƃɂ��܂��B<br>
-��������]�ҎQ�����ŁB<br>
-��A�^�c�̂ق��ɂ������܂������A�P�Q�T�O���q�b�g�ɉ����邩�͍l���Ă��������B<br>
-����ł́A��낵�����肢���܂��B</font>
+だったら僕主催で１２２０万ヒット記念をやります。<br>
+それはTSキャノンボールリバイバルにすることにします。<br>
+もちろん希望者参加制で。<br>
+後、運営のほうにも書きましたが、１２５０万ヒットに何するかは考えてください。<br>
+それでは、よろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1925]</font> <font size=4 color=#40c0c0> Re:�^�c�̂Ƃ���ɏ������P�Q�Q�O���q�b�g�L�O�ɉ����邩�ɂ���</font>
+<font size=2>[1925]</font> <font size=4 color=#40c0c0> Re:運営のところに書いた１２２０万ヒット記念に何するかについて</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/22 (�y) 22:38:34 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101226223834&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101226223834"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/22 (土) 22:38:34 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101226223834_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101226223834"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �X�b�X����<br>
-�@1920�Ԃ̋L���ɂ�����܂��Ƃ���A���݂̂Ƃ���A�^�c�ɂĉ��炩�̃C�x���g���s���\��͂���܂���B<br>
-�@�X�b�X�����Âŉ��炩�̊����s���Ƃ����̂ł���΁A����ɂ��Čf���p�ӂȂǂ̋��͂͌������܂��B</font>
+<font size=3 color=#606060>▼ スッスさん<br>
+　1920番の記事にもありますとおり、現在のところ、運営にて何らかのイベントを行う予定はありません。<br>
+　スッスさん主催で何らかの企画を行うというのであれば、それについて掲示板用意などの協力は検討します。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1924]</font> <font size=4 color=#40c0c0> �^�c�̂Ƃ���ɏ������P�Q�Q�O���q�b�g�L�O�ɉ����邩�ɂ���</font>
+<font size=2>[1924]</font> <font size=4 color=#40c0c0> 運営のところに書いた１２２０万ヒット記念に何するかについて</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/22 (�y) 16:29:23 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101226162923&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101226162923"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/22 (土) 16:29:23 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101226162923_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101226162923"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ł��ˁA<br>
-�P�Q�Q�O���q�b�g�̐l���邢�͂���ɋ߂��j�A�s���Ȑl�ɂ��̒�����I��ł��炤���Ă̂�<br>
-�ǂ��ł��傤���H<br>
-���́A<br>
-�P�DTS�L���m���{�[�����o�C�o���i���j<br>
-�Q�DT's��Heart3rd�i���j<br>
-�R�D���̑������[����</font>
+<font size=3 color=#606060>そうですね、<br>
+１２２０万ヒットの人あるいはそれに近いニアピンな人にこの中から選んでもらうってのは<br>
+どうでしょうか？<br>
+候補は、<br>
+１．TSキャノンボールリバイバル（仮）<br>
+２．T's☆Heart3rd（仮）<br>
+３．その他リレー小説</font>
 </td></table>
 </td></tr></table>
 
@@ -424,11 +424,11 @@ TS�N���b�V���͎��R�ł����A�Ђ񂵂キ�𔃂��Ă��m��܂���B�i��ԃN���b�V��������
 <font size=2>[1923]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/17 (��) 22:55:13 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101171225513&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101171225513"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/17 (月) 22:55:13 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101171225513_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101171225513"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>12150000�q�b�g�����牽�����Ă���܂��񂩂ˁH</font>
+<font size=3 color=#606060>12150000ヒットしたら何かしてくれませんかね？</font>
 </td></table>
 </td></tr></table>
 
@@ -438,11 +438,11 @@ TS�N���b�V���͎��R�ł����A�Ђ񂵂キ�𔃂��Ă��m��܂���B�i��ԃN���b�V��������
 <font size=2>[1922]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/08 (�y) 20:22:13 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101086202213&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101086202213"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/08 (土) 20:22:13 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101086202213_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101086202213"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����Y��Ă����ǁA�������������񂾂̂�TS�厫�T�̏]�o���̂Ƃ���̕⑫�ł��B</font>
+<font size=3 color=#606060>書き忘れてたけど、さっき書き込んだのはTS大辞典の従姉妹のところの補足です。</font>
 </td></table>
 </td></tr></table>
 
@@ -452,52 +452,52 @@ TS�N���b�V���͎��R�ł����A�Ђ񂵂キ�𔃂��Ă��m��܂���B�i��ԃN���b�V��������
 <font size=2>[1921]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2011/01/08 (�y) 20:21:03 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201101086202103&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201101086202103"></font>
+<font size=3 color=#606060><strong>▽</strong> 2011/01/08 (土) 20:21:03 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201101086202103_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201101086202103"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�]�o���i���������Ă邩�ȁH�j�F�����܂ŎU�X�����Ă��邪�A�����Ȃ�]�o�����̂��ƂɁu�]�o���v�����Ă��{�l����Ȃ����Ƃ�����B�ނ���ːЂ𒲂ׂ��(ry</font>
+<font size=3 color=#606060>従姉妹（漢字あってるかな？）：ここまで散々書いてあるが、いきなり転出→そのあとに「従姉妹」が来ても本人じゃないこともある。むしろ戸籍を調べれば(ry</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1920]</font> <font size=4 color=#40c0c0> ���Ԏ�</font>
+<font size=2>[1920]</font> <font size=4 color=#40c0c0> お返事</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2010/12/03 (��) 21:01:38 <strong>��</strong> �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201012035210138&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201012035210138"></font>
+<font size=3 color=#606060><strong>▽</strong> 2010/12/03 (金) 21:01:38 <strong>▽</strong> ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201012035210138_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201012035210138"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�������ƕ��u���Ă��Đ\���󂠂�܂���ł����B�u�s�r�厫�T�v�F���܂̏������݂����ɍX�V�������܂����B<br>
-�@���肪�Ƃ��������܂����B<br>
+<font size=3 color=#606060>　長いこと放置していて申し訳ありませんでした。「ＴＳ大辞典」皆さまの書き込みを元に更新いたしました。<br>
+　ありがとうございました。<br>
 <br>
-<font color="#ff88cc">���X�b�X����<br>
-��T's��Heart��3rd�Ȃ�ATS�L���m���{�[���Ȃ肵�Ă���Ȃ����ȁE�E�E</font><br>
+<font color="#ff88cc">＞スッスさん<br>
+＞T's☆Heartの3rdなり、TSキャノンボールなりしてくれないかな・・・</font><br>
 <br>
-�@���������āA�����܂Ŏ肪����Ԃł͂Ȃ��ł��B�\���󂠂�܂���B<br>
-�@�]�͂��ł��܂�����A�܂������l���Ă݂܂��B</font>
+　正直言って、そこまで手が回る状態ではないです。申し訳ありません。<br>
+　余力ができましたら、また何か考えてみます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1919]</font> <font size=4 color=#40c0c0> �ӌ�</font>
+<font size=2>[1919]</font> <font size=4 color=#40c0c0> 意見</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2010/07/31 (�y) 09:40:00 <strong>��</strong> �X�b�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201007316094000&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="201007316094000"></font>
+<font size=3 color=#606060><strong>▽</strong> 2010/07/31 (土) 09:40:00 <strong>▽</strong> スッス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201007316094000_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="201007316094000"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>T's��Heart��3rd�Ȃ�ATS�L���m���{�[���Ȃ肵�Ă���Ȃ����ȁE�E�E</font>
+<font size=3 color=#606060>T's☆Heartの3rdなり、TSキャノンボールなりしてくれないかな・・・</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="21">
 <input type=hidden name="log" value="jiten">
@@ -505,16 +505,16 @@ TS�N���b�V���͎��R�ł����A�Ђ񂵂キ�𔃂��Ă��m��܂���B�i��ԃN���b�V��������
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="jiten">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=jiten">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_jiten.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

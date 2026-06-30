@@ -1,17 +1,17 @@
-<html><head><meta http-equiv=Content-Typecontent=text/html; charset=x-sjis>
-<title>�� ���N�������� ���R�o�^�������N ��</title>
+<html><head><meta http-equiv=Content-Typecontent=text/html; charset=UTF-8>
+<title>■ 少年少女文庫 自由登録制リンク ■</title>
 </head>
 <body background="" bgcolor="#ffffff" text="#000000" link="#222222" alink="#ff0000" vlink="#777777">
 <p align=center><center>
-<font color="#000000" size=5><b>�� ���N�������� ���R�o�^�������N ��</b></font><br>
-<font size=2>�o�^�͎��R�ɍs���Ă��������B</font>
+<font color="#000000" size=5><b>■ 少年少女文庫 自由登録制リンク ■</b></font><br>
+<font size=2>登録は自由に行ってください。</font>
 <table width=85% border=0 cellpadding=20><tr>
 <td align=center bgcolor=#FFFFFF>
 <table border=3 cellpadding=5><tr>
-<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>��<a href=./weblink.cgi?link=new&p=1>�V���T�C�g</a>��
-��<a href="http://ts.novels.jp/">���N�������ɂɖ߂�</a>�� ��<a href=./weblink.cgi?page=add>LINK�o�^</a>��
-��<a href=./weblink.cgi?page=disa>�ύX/�폜</a>��
-��<a href=./weblink.html>�o�^�̌��܂�</a>��
+<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>■<a href=./weblink.cgi?link=new&p=1>新着サイト</a>■
+■<a href="../../index.html">少年少女文庫に戻る</a>■ ■<a href=./weblink.cgi?page=add>LINK登録</a>■
+■<a href=./weblink.cgi?page=disa>変更/削除</a>■
+■<a href=./weblink.html>登録の決まり</a>■
 </b></font></td></tr></table></td></tr>
 <tr><td align=center bgcolor="#EEFFFF">
 <form action=./weblink.cgi?dm= method=POST>
@@ -19,26 +19,26 @@
 <input type=hidden name=masdel value="on">
 <table width=90% border=0 cellspacing=1 cellpadding=5><tr>
 <td bgcolor="#EEFFEE" align=center colspan=2>
-<font size=4>***** <b>SF�n</b> [3��] *****</font></td></tr>
+<font size=4>***** <b>SF系</b> [3件] *****</font></td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0110"></td>
-<td width=95%><font color="#888888"><b>��</b></font> <a href="http://ip.tosp.co.jp/i.asp?i=1986051061" target="_top"><b>�G���G��������</b></a>
-<br>�@<font size=2>�I���W�i�������i�r�e�t�@���^�W�[�n�j��f�W�L�����E�҂��e���E�f�`�Ȃǂ̃C���X�g�L�����ɂ��Q�[���i�N�C�Y�j�⎫���A�肢�Ȃǂ�����܂��i�O���O�j�����x�V�тɗ��ĉ������ˁ� </font>
+<td width=95%><font color="#888888"><b>■</b></font> <a href="http://ip.tosp.co.jp/i.asp?i=1986051061" target="_top"><b>萌え萌え★らんど</b></a>
+<br>　<font size=2>オリジナル小説（ＳＦファンタジー系）やデジキャラ・ぴたテン・ＧＡなどのイラスト有★他にもゲーム（クイズ）や辞書、占いなどもあります（＾▽＾）是非一度遊びに来て下さいね☆ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0055"></td>
-<td width=95%><font color="#888888"><b>��</b></font> <a href="http://www.sf-fantasy.com/magazine/novel_s/v-ohmor/index.shtml" target="_top"><b>�A�j�}�\�����X</b></a>
-<br>�@<font size=2>�z�[���y�[�W�Ƃ������A��i�̂ЂƂȂ�ł����A������ɂ��炵�Ă���̖ڂɂƂ܂肻���ȓ��e�Ȃ̂ł����Ă����܂����B </font>
+<td width=95%><font color="#888888"><b>■</b></font> <a href="http://www.sf-fantasy.com/magazine/novel_s/v-ohmor/index.shtml" target="_top"><b>アニマソラリス</b></a>
+<br>　<font size=2>ホームページというか、作品のひとつなんですが、こちらにいらしてる方の目にとまりそうな内容なのであげておきました。 </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0034"></td>
-<td width=95%><font color="#888888"><b>��</b></font> <a href="http://www.ts9.jp/" target="_top"><b>Trans Space Nine</b></a>
-<br>�@<font size=2>�u�炢������v�u�݂炭�遙�e�B���N���v�̍�ҁA����˂��̃y�[�W�ł��B�V�F�A���[���h�������炢��������͂��߁A���ɖ����e�̍�i���B </font>
+<td width=95%><font color="#888888"><b>■</b></font> <a href="http://www.ts9.jp/" target="_top"><b>Trans Space Nine</b></a>
+<br>　<font size=2>「らいか大作戦」「みらくる☆ティンクル」の作者、かわねぎのページです。シェアワールド化したらいか大作戦をはじめ、文庫未投稿の作品も。 </font>
 </td></tr>
-<tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="�����e�폜"><br>
-<font size=2>�폜�F�}�X�^�[�L�[���L�����ĉ������B</font></form>
+<tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="メンテ削除"><br>
+<font size=2>削除：マスターキーを記入して下さい。</font></form>
 </td></tr></table>
-<p align=center><center><b>�y�@�S3���I���@�z</b></center></p>
+<p align=center><center><b>【　全3件終了　】</b></center></p>
 </td></tr></table>
 </center></p>
 <form action=./weblink.cgi method=POST>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=submit value="LINK TOP"></form>
 <p align=right><font size=2><a href="http://www.pmcj.com/" target="top">WEB LINK [SPS] ver3.34 by Tomey</a></font></p>
-<p> �����N�W�ɂ��Ă̂��₢���킹�@<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>
+<p> リンク集についてのお問い合わせ　<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>

@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,53 +52,53 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-���������ł��R
+けいたいでんわ３
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�Ȃ܂����̂���</center><tr>
+<center>作者：なまけものさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-���̃^�L�I���ʐM���A���s�[�^�[�i���p��j�ŕ��ʂ̌g�ѓd�b�ԂɌq����āA�����P�O�N�ɂȂ�A<br>���ł́A�����ΐ��̃}���l���X�k�J����n���̓c�ɂɏZ��ł��镃��ƘA������̂́B<br>���ʂ̎����̌g�ѓd�b�Ń^�C�����O�Ȃ��ɂł���͕̂��ʂ̂��ƂƂȂ��Ă��܂����B<br>�����O�A��ԍŏ��Ƀe���r�V���b�s���O�œ|�Y�������H��ō��ꂽ�g�ѓd�b���A�p�`�����Ŕ�������āA<br>���ꂪ�F���^�L�I���ʐM�g�ѓd�b�ŁA�n���̋ɓ��̓����̂����ꕔ�̈�ʂ̉ƒ�œ��E�őg�ݗ��Ă�ꂽ���ƁA<br>�킩�������A�����Ă��ꂪ����݂ɂȂ����Ƃ��A���E�������������炵���B<br><br>����܂ł́A�����ꂽ���H�ꂪ��������ł��������A�F���̓��E�H��Ƃ��Ĕ閧���ɓ����Ă����炵���B<br>���E���̉Ȋw�҂␭���Ƃ��b�������āA�F���f�Ֆ@������āA���ꂩ��̒n���̔��W�͖ڊo�܂������̂��������B<br>�F����������炳���A�n���̋Z�p���͂邩�ɏ���A���Z�p�������������Ă��āi�����؂�ɓ����Ă���ƕ����͕��󂷂�炵���c�j<br>�ΐ����F����������Ă����A���Z�p�ɂ���Ԃɂ������ŁA�e���z�[�~���O���Đ������h�[���̊O�Ő�������悤�Ɍv�悪�i��ł���B<br><br>������A�ڊo�܂��Ƃ��Ă��A�g���Ă������̌g�ѓd�b�A�Q�ڂ��āc�Ԉ���Ē��Ԃ̂ق�����J���Ă��܂��A�{�^���̂�����Ɖ�ʂ̂�����ƂɁA<br>�����ʂ�āA�g�p�s�\�ɂȂ��Ă��܂����c<br>�܂��ΐ��h�[�����ɂ́A�g�ѓd�b�̔̔��X�͖����n��������񂹂邱�ƂɂȂ���������B<br>�ΐ��܂Ń��P�b�g�ŕ����𑗂�Ƃ�����A���傤�ǂ����ʒu�ɒn���Ɖΐ������������Ƀ��P�b�g��ł��グ�āA��W���������邵�A<br>�����ʒu�܂łɉ��肷��ƁA��N�`�Q�N������̂Ŏ��ԁA��p���܂߂đ�ς������������B<br>���Ȃ�A�]�ڑ��u�ł����ƌ����Ԃɓ͂��Ă��܂��B<br>�����O�́A���������͎̂��̂�����Ƃ����Ȃ�����i�ň����񂶂Ⴄ���A�����W�O�����炢��������Ȃ��āA���n���ɂȂ邱�Ƃ��c�j<br>����Ȃ����܂�ɂȂ��Ă����炵���B<br>�]�����̂������Ă����ȂȂ��悤�ȋ~�ϖ@������炵�����A�閧�炵���A���킳�ł͏��ɂȂ�Ƃ��A�c�ǂ��̗^���b���c�B<br><br>��������ƈ������ۓ]�ڂ��Ă����̂ŁA���Ȃ���ǂ͂���Ă���̂��낤�B<br>�������������ΐ��ɗ����Ƃ��̓]�ڑ��u�̃I�y���[�^�́A���w�����炢�Ɍ����鏗�̎q�������A���v�������H�@<br>���ۉΐ��J���̏����̂���A�]�ڑ��u�̃I�y���[�^�̃~�X�ő唚���������āA<br>���̍��͂��܂�m���ȕ��@�ł͂Ȃ������A�����ǃR�X�g�ɂ͕ς���ꂸ�B<br>���̎��̎��̈ȗ��]�ڂ��Ă���Ƃ��́A���a1�j���͗�������֎~�ƂȂ邯�ǁA�ŋ߂͂��Ȃ���肵�Ĉ��S���̓��P�b�g���ǂ��Ȃ��Ă�B<br>�����͑�}�֕��݂����c�c�����̑�}�ցi�΁j���ĝ������ꂽ�����������炵���B<br><br>���͒n���ɂ���e���ɗ���Ōg�ѓd�b�𑗂��Ă��炤�悤���񂾁B<br>�����A�g�т͓͂����c�A���e�Ƃ��@�B���s�Ȃ̂ő����s�������������A����ς葽�����̌g�т������c�B<br>�܂����ہA�d�b���������āA���[�����ł��āA�J�����ɂȂ��āA�ڊo�܂��ȊO�ɂ͎g��Ȃ�����A���͂Ȃ��̂����B<br><br>�c�c�e�����I������ΐ��h�[�����ɏ��������Ȃ��Ƃ����Ă��c�����̎ʐ^�������ς��C���X�g�[�����Ă����Ƃ́c�c���肪�Ƃ��I�I<br>�ΐ��h�[���̒j�Ə��̔䗦�͂P�O�΂P������ȁ`�A�����ꃖ�������Ƙb�����������Ƃ��Ȃ����c�������邱�Ƃ��܂ꂾ����ȁ`<br>���͑����A�D�݂̏��̎q��{�����Ƃɂ����c�C���X�g�[�����ꂽ�����̒��ŋC�ɓ��������̎q���A�҂�������ʂɂ��傤�Ƃ��āB<br><br>�{�`���Ƃȁc�c�c������H
+夢のタキオン通信が、リピーター（中継器）で普通の携帯電話網に繋がれて、もう１０年になる、<br>今では、ここ火星のマリネリス渓谷から地球の田舎に住んでいる父母と連絡するのは。<br>普通の自分の携帯電話でタイムラグなしにできるのは普通のこととなってしまった。<br>随分前、一番最初にテレビショッピングで倒産した町工場で作られた携帯電話が、パチモンで発売されて、<br>それが宇宙タキオン通信携帯電話で、地球の極東の島国のごく一部の一般の家庭で内職で組み立てられた物と、<br>わかった時、そしてそれが明るみになったとき、世界中が驚愕したらしい。<br><br>それまでは、うら寂れた町工場が立ち並んでいた町が、宇宙の内職工場として秘密裏に動いていたらしい。<br>世界中の科学者や政治家が話しあって、宇宙貿易法を作って、それからの地球の発展は目覚ましいものがあった。<br>宇宙からもたらされる、地球の技術をはるかに上回る、超技術が少しずつ入ってきて（いっぺんに入ってくると文明は崩壊するらしい…）<br>火星も宇宙から入ってきた、超技術におんぶにだっこで、テラホーミングして生物がドームの外で生きられるように計画が進んでいる。<br><br>ある日、目覚ましとしても、使っていた俺の携帯電話、寝ぼけて…間違って蝶番のほうから開けてしまい、ボタンのある方と画面のある方とに、<br>泣き別れて、使用不能になってしまった…<br>まだ火星ドーム内には、携帯電話の販売店は無く地球から取り寄せることになっちゃった。<br>火星までロケットで物資を送るとしたら、ちょうどいい位置に地球と火星が整った時にロケットを打ち上げて、約８ヶ月かかるし、<br>整う位置までに下手すると、一年〜２年かかるので時間、費用も含めて大変だったそうだ。<br>今なら、転移装置であっと言う間に届いてしまう。<br>少し前は、生きたものは事故があるといけないから（最悪死んじゃうし、魂が８０％くらいしか送れなくて、お馬鹿になることも…）<br>送れない決まりになっていたらしい。<br>転送事故があっても死なないような救済法があるらしいが、秘密らしい、うわさでは女になるとか、…どこの与太話だ…。<br><br>俺たち作業員も実際転移してきたので、かなり改良はされているのだろう。<br>ただ俺たちが火星に来たときの転移装置のオペレータは、中学生くらいに見える女の子だった、大丈夫かおい？　<br>実際火星開発の初期のころ、転移装置のオペレータのミスで大爆発があって、<br>その頃はあまり確実な方法ではなかった、だけどコストには変えられず。<br>その時の事故以来転移してくるときは、半径1Ｋｍは立ち入り禁止となるけど、最近はかなり安定して安全率はロケットより良くなってる。<br>料金は宅急便並みだし……魔女の宅急便（笑）って揶揄された時もあったらしい。<br><br>俺は地球にいる親父に頼んで携帯電話を送ってもらうよう頼んだ。<br>二日後、携帯は届いた…、両親とも機械音痴なので多少不安があったが、やっぱり多少難ありの携帯だった…。<br>まあ実際、電話がかけられて、メールができて、カメラになって、目覚まし以外には使わないから、問題はないのだが。<br><br>……親父っ！いくら火星ドーム内に女性が少ないといっても…女性の写真をいっぱいインストールしてくれるとは……ありがとう！！<br>火星ドームの男と女の比率は１０対１だもんな〜、ここ一ヶ月女性と話をしたたこともないし…見かけることもまれだもんな〜<br>俺は早速、好みの女の子を捜すことにした…インストールされた女性の中で気に入った女の子を、待ちうけ画面にしょうとして。<br><br>ボチっとな………あれっ？
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�Ȃ܂�����
+なまけもの
 </address>
-2010�N09��11��(�y) 00��46��46�b ���J<br>
+2010年09月11日(土) 00時46分46秒 公開<br>
 <!--123.227.196.147-->
-<font color=red>�����̍�i�̒��쌠�͂Ȃ܂����̂���ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はなまけものさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�s�v�c�Ȍg�т����ɏo�Ă���A�������Ԍo�����Ⴂ�܂����A�Y�ꂽ���ɕs�K�ȁHTS�͂���Ă���`�i�΁j
+不思議な携帯が世に出てから、少し時間経っちゃいました、忘れた頃に不幸な？TSはやってくる〜（笑）
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>���������܁A���z���肪�Ƃ��������܂��B<BR>�@�����́A�ǂ����傤�c�ݒ�l���邾���ŁA�������[�I�[�o�[�ŁA�L�����[�A�b�v���A�܂ɂ���Ȃ���...��Ԃł����A�����ł��ˁ`���������ςȂ��́A�܂��ア�ł���ˁ`�B<BR>�@�����̎��Ȃ�ł����ǁA�����Ƃ����Ԃɕ���ł�����A�r���ōs���|�ꂽ��A��������ǁA���e�ɖ�肠���Čf�ڂ͂܂��ア�̂Ŏ���K���Ƃ��c����炵�������ς��c�c<BR>�@�����A��s�ɂȂ����Ⴂ�܂����A���������ł��R�́A�D���Ȃ��b�Ȃ̂ŁA�����͏����Ă݂����ł����A�����҂��ĂˁB<BR>���肪�Ƃ��������܂����B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2010-09-13 09:47:42</td>
+<td style=font-size:10pt>名無しさま、感想ありがとうございます。<BR>　続きは、どうしょう…設定考えるだけで、メモリーオーバーで、キャリーアップが、まにあわないょ...状態でした、そうですね〜投下しっぱなしは、まじゅいですょね〜。<BR>　いつもの事なんですけど、あっという間に物語できたり、途中で行き倒れたり、作ったけど、内容に問題あって掲載はまじゅいので自主規制とか…裏わらしがいっぱい……<BR>　あっ、愚痴になっちゃいました、けいたいでんわ３は、好きなお話なので、続きは書いてみたいですぅ、少し待ってね。<BR>ありがとうございました。</td>
+<td>なまけもの</td>
+<td width=20%>■2010-09-13 09:47:42</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�����́H</td>
-<td>������</td>
-<td width=20%>��2010-09-12 23:58:21</td>
+<td style=font-size:10pt>続きは？</td>
+<td>名無し</td>
+<td width=20%>■2010-09-12 23:58:21</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -106,24 +106,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20100911004646">
 <input type=hidden name="num_r" value="20100911004646">
 <input type=hidden name="url" value="">
@@ -139,17 +139,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20100911004646">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -159,9 +159,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

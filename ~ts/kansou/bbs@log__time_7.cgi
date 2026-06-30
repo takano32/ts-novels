@@ -1,32 +1,32 @@
 <html><head><META name="robots" content="noindex,nofollow">
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>­”N­—•¶ŒÉ@|@Š´‘zŒfŽ¦”Âˆê——</title>
+<title>å°‘å¹´å°‘å¥³æ–‡åº«ã€€âˆ’ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿ä¸€è¦§</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
-<font size=5>­”N­—•¶ŒÉ@|@Š´‘zŒfŽ¦”Âˆê——</font><hr><font color=#608080>Š´‘zŒfŽ¦”Â‚Ìˆê——‚Å‚·BXV‚³‚ê‚½‡‚É•\Ž¦‚³‚ê‚Ü‚·B
+<font size=5>å°‘å¹´å°‘å¥³æ–‡åº«ã€€âˆ’ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿ä¸€è¦§</font><hr><font color=#608080>æ„Ÿæƒ³æŽ²ç¤ºæ¿ã®ä¸€è¦§ã§ã™ã€‚æ›´æ–°ã•ã‚ŒãŸé †ã«è¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
 </font><BR>
-<font size=4>7“ú‘O‚Ü‚Å‚ÉXV‚³‚ê‚½BBS‚ð•\Ž¦‚µ‚Ä‚¢‚Ü‚·B</font><BR><BR><TABLE BORDER="0" WIDTH="100%">
-<TR><TD><B>ŒfŽ¦”Â–¼</B><TD><B>Log–¼</B><TD><B>ÅIXV“ú</B><TD><B>Å‹ß‚Ì‹LŽ–</B>
-<!--1191863343--><TR><TD><A HREF="bbs.cgi?log=kirika">‚«‚è‚©iƒm‰î‚³‚ñì•i@Š´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>kirika</FONT><TD><FONT SIZE=-1>2007/10/09 02:09:03</FONT><TD><FONT SIZE=-1>subject[H`‚×•ú‘è@ƒˆ[ƒƒŒ...] write[ƒoƒŒƒbƒg]
+<font size=4>7æ—¥å‰ã¾ã§ã«æ›´æ–°ã•ã‚ŒãŸBBSã‚’è¡¨ç¤ºã—ã¦ã„ã¾ã™ã€‚</font><BR><BR><TABLE BORDER="0" WIDTH="100%">
+<TR><TD><B>æŽ²ç¤ºæ¿å</B><TD><B>Logå</B><TD><B>æœ€çµ‚æ›´æ–°æ—¥</B><TD><B>æœ€è¿‘ã®è¨˜äº‹</B>
+<!--1191863343--><TR><TD><A HREF="bbs@log_kirika.cgi">ãã‚Šã‹é€²ãƒŽä»‹ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>kirika</FONT><TD><FONT SIZE=-1>2007/10/09 02:09:03</FONT><TD><FONT SIZE=-1>subject[é£Ÿã€œã¹æ”¾é¡Œã€€ãƒ¨ãƒ¼ãƒ­ãƒ¬...] write[ãƒãƒ¬ãƒƒãƒˆ]
 </FONT></TR>
-<!--1191847620--><TR><TD><A HREF="bbs.cgi?log=toshi9">‚”‚‚“‚ˆ‚‰‚X‚³‚ñì•i@Š´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>toshi9</FONT><TD><FONT SIZE=-1>2007/10/08 21:47:00</FONT><TD><FONT SIZE=-1>subject[Re:“Ç‚Ý‚Ü‚µ‚½] write[toshi9]
+<!--1191847620--><TR><TD><A HREF="bbs@log_toshi9.cgi">ï½”ï½ï½“ï½ˆï½‰ï¼™ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>toshi9</FONT><TD><FONT SIZE=-1>2007/10/08 21:47:00</FONT><TD><FONT SIZE=-1>subject[Re:èª­ã¿ã¾ã—ãŸ] write[toshi9]
 </FONT></TR>
-<!--1191819123--><TR><TD><A HREF="bbs.cgi?log=hideo">‰p—Y‚³‚ñì•i@Š´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>hideo</FONT><TD><FONT SIZE=-1>2007/10/08 13:52:03</FONT><TD><FONT SIZE=-1>subject[”ÔŠO•Ò] write[”g‰¹]
+<!--1191819123--><TR><TD><A HREF="bbs@log_hideo.cgi">è‹±é›„ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>hideo</FONT><TD><FONT SIZE=-1>2007/10/08 13:52:03</FONT><TD><FONT SIZE=-1>subject[ç•ªå¤–ç·¨] write[æ³¢éŸ³]
 </FONT></TR>
-<!--1191806225--><TR><TD><A HREF="bbs.cgi?log=baretto">ƒoƒŒƒbƒg‚³‚ñŠ´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>baretto</FONT><TD><FONT SIZE=-1>2007/10/08 10:17:05</FONT><TD><FONT SIZE=-1>subject[•ú‚Á‚½‚ç‚©‚µ‚É‚µ‚ÄƒS...] write[ƒoƒŒƒbƒg]
+<!--1191806225--><TR><TD><A HREF="bbs@log_baretto.cgi">ãƒãƒ¬ãƒƒãƒˆã•ã‚“æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>baretto</FONT><TD><FONT SIZE=-1>2007/10/08 10:17:05</FONT><TD><FONT SIZE=-1>subject[æ”¾ã£ãŸã‚‰ã‹ã—ã«ã—ã¦ã‚´...] write[ãƒãƒ¬ãƒƒãƒˆ]
 </FONT></TR>
-<!--1191804875--><TR><TD><A HREF="bbs.cgi?log=uekibati">‚¤‚¦‚«ƒoƒ`‚³‚ñ@Š´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>uekibati</FONT><TD><FONT SIZE=-1>2007/10/08 09:54:35</FONT><TD><FONT SIZE=-1>subject[‚»‚ë‚»‚ëˆêƒ•ŒŽ‰z‚µ‚É...] write[ƒoƒŒƒbƒg]
+<!--1191804875--><TR><TD><A HREF="bbs@log_uekibati.cgi">ã†ãˆããƒãƒã•ã‚“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>uekibati</FONT><TD><FONT SIZE=-1>2007/10/08 09:54:35</FONT><TD><FONT SIZE=-1>subject[ãã‚ãã‚ä¸€ãƒµæœˆè¶Šã—ã«...] write[ãƒãƒ¬ãƒƒãƒˆ]
 </FONT></TR>
-<!--1191802566--><TR><TD><A HREF="bbs.cgi?log=omochibako">‚¨‚à‚¿‚Î‚±‚³‚ñì•i@Š´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>omochibako</FONT><TD><FONT SIZE=-1>2007/10/08 09:16:06</FONT><TD><FONT SIZE=-1>subject[‚â‚Á‚Æ‚±‚³Š´‘zA‚»‚ê...] write[ƒoƒŒƒbƒg]
+<!--1191802566--><TR><TD><A HREF="bbs@log_omochibako.cgi">ãŠã‚‚ã¡ã°ã“ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>omochibako</FONT><TD><FONT SIZE=-1>2007/10/08 09:16:06</FONT><TD><FONT SIZE=-1>subject[ã‚„ã£ã¨ã“ã•æ„Ÿæƒ³ã€ãã‚Œ...] write[ãƒãƒ¬ãƒƒãƒˆ]
 </FONT></TR>
-<!--1191596195--><TR><TD><A HREF="bbs.cgi?log=yoko">‚x‚n‚j‚n‚³‚ñì•iŠ´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>yoko</FONT><TD><FONT SIZE=-1>2007/10/05 23:56:35</FONT><TD><FONT SIZE=-1>subject[Š´‘zA‚ ‚è‚ª‚Æ‚¤‚²‚´...] write[YOKO]
+<!--1191596195--><TR><TD><A HREF="bbs@log_yoko.cgi">ï¼¹ï¼¯ï¼«ï¼¯ã•ã‚“ä½œå“æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>yoko</FONT><TD><FONT SIZE=-1>2007/10/05 23:56:35</FONT><TD><FONT SIZE=-1>subject[æ„Ÿæƒ³ã€ã‚ã‚ŠãŒã¨ã†ã”ã–...] write[YOKO]
 </FONT></TR>
-<!--1191510222--><TR><TD><A HREF="bbs.cgi?log=yuk">yuk‚³‚ñì•i@Š´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>yuk</FONT><TD><FONT SIZE=-1>2007/10/05 00:03:42</FONT><TD><FONT SIZE=-1>subject[Š´‘zŠ´ŽÓ‚Å‚·B] write[yuk]
+<!--1191510222--><TR><TD><A HREF="bbs@log_yuk.cgi">yukã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>yuk</FONT><TD><FONT SIZE=-1>2007/10/05 00:03:42</FONT><TD><FONT SIZE=-1>subject[æ„Ÿæƒ³æ„Ÿè¬ã§ã™ã€‚] write[yuk]
 </FONT></TR>
-<!--1191503197--><TR><TD><A HREF="bbs.cgi?log=nekono_gundam">”L–ìŠÛ‘¾ŠÛ‚³‚ñì•iŠ´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>nekono_gundam</FONT><TD><FONT SIZE=-1>2007/10/04 22:06:37</FONT><TD><FONT SIZE=-1>subject[‚¨‚Ö‚ñ‚¶] write[”L–ì]
+<!--1191503197--><TR><TD><A HREF="bbs@log_nekono_gundam.cgi">çŒ«é‡Žä¸¸å¤ªä¸¸ã•ã‚“ä½œå“æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>nekono_gundam</FONT><TD><FONT SIZE=-1>2007/10/04 22:06:37</FONT><TD><FONT SIZE=-1>subject[ãŠã¸ã‚“ã˜] write[çŒ«é‡Ž]
 </FONT></TR>
-<!--1191421864--><TR><TD><A HREF="bbs.cgi?log=itou">‚¢‚Æ‚¤‚³‚ñì•i@Š´‘zŒfŽ¦”Â</A><TD><FONT SIZE=-2>itou</FONT><TD><FONT SIZE=-1>2007/10/03 23:31:04</FONT><TD><FONT SIZE=-1>subject[‚²Š´‘z‚ ‚è‚ª‚Æ‚¤‚²‚´...] write[‚¢‚Æ‚¤]
+<!--1191421864--><TR><TD><A HREF="bbs@log_itou.cgi">ã„ã¨ã†ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</A><TD><FONT SIZE=-2>itou</FONT><TD><FONT SIZE=-1>2007/10/03 23:31:04</FONT><TD><FONT SIZE=-1>subject[ã”æ„Ÿæƒ³ã‚ã‚ŠãŒã¨ã†ã”ã–...] write[ã„ã¨ã†]
 </FONT></TR>
-</TABLE>‘S‚Ä‚ÅA10Œ‚Å‚·B
+</TABLE>å…¨ã¦ã§ã€10ä»¶ã§ã™ã€‚
 <hr></body></html>

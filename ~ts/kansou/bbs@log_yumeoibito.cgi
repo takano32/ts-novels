@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���ǂ��l�����i�@���z�f����</title>
+<title>夢追い人さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���ǂ��l�����i�@���z�f����</font>
+<font size=5>夢追い人さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yumeoibito">
 <input type=hidden name="nj" value="4o6T6dJizC">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h pcWVWS  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="pcWVWS"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード pcWVWS  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="pcWVWS"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,58 +44,58 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> ���X�Ԃ�</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> レス返し</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/15 (�y) 23:52:26 <strong>��</strong> ���ǂ��l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510156235226&log=yumeoibito">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510156235226"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/15 (土) 23:52:26 <strong>▽</strong> 夢追い人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510156235226_log_yumeoibito.cgi">返信</a>　削除<input type=checkbox name="target" value="200510156235226"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;kanaria=o-ka�@��</font><br>
-�V�����ア�Ƃ������Ƃł��ˁB<br>
-<font color="#cc88ff">&gt;�悵�����@��</font><br>
-���J�߂̌��t���肪�Ƃ��������܂��B<br>
-<font color="#cc88ff">&gt;��� ���@��</font><br>
-�W�X�ƒԂ��������Ȃ�ł����c�B<br>
-<font color="#cc88ff">&gt;����i���m�����m����@��</font><br>
-�ǂ��炩�ƌ����Ǝ��̈�u�ł����ˁB<br>
-<font color="#cc88ff">&gt;���̂�낵�@��</font><br>
-�D���Ȃ悤�ɕ⑫���Ă��������B<br>
-��i�̑������͐l���ꂼ��ł�����B<br>
-<font color="#cc88ff">&gt;�َq�@��</font><br>
-����Ȋ����ł��傤�˂��B<br>
-�w�v�[���x�ƌ������t�͏��߂ĕ����܂����B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;kanaria=o-ka　氏</font><br>
+シメが弱いということですね。<br>
+<font color="#cc88ff">&gt;よしおか　氏</font><br>
+お褒めの言葉ありがとうございます。<br>
+<font color="#cc88ff">&gt;鈴忌 紫　氏</font><br>
+淡々と綴っただけなんですが…。<br>
+<font color="#cc88ff">&gt;巨大ナ月ノ裏側ノ聖域　氏</font><br>
+どちらかと言うと死の一瞬ですかね。<br>
+<font color="#cc88ff">&gt;あのよろし　氏</font><br>
+好きなように補足してください。<br>
+作品の捉え方は人それぞれですから。<br>
+<font color="#cc88ff">&gt;菓子　氏</font><br>
+そんな感じでしょうねぇ。<br>
+『プーン』と言う言葉は初めて聞きました。<br>
 <br>
-����<br>
-�V�����ア�̂ŃV�����H�v����B<br>
+総括<br>
+シメが弱いのでシメを工夫する。<br>
 <br>
-���͏������O�ɂ͑S���Ⴄ�b�ɂȂ�\��ł����B<br>
-�����Ă�Œ��Ɏv�����āA���̂܂܃Y���Y����(��)<br>
-�^�C�g���̂ݏ����O�̂܂܂ł��B<br>
-�ǂ���玄�͂��̎��̃m���ƃe���V�����œ��e���ς��悤�ł��B<br>
-���������A�C�f�A���͂�Ȃ������ɏ�������Ǝv���܂��̂ŁA<br>
-�����̊ԃn�C�y�[�X�̓��e�ƂȂ肻���ł��B</font>
+実は書く直前には全く違う話になる予定でした。<br>
+書いてる最中に思いついて、そのままズルズルと(笑)<br>
+タイトルのみ書く前のままです。<br>
+どうやら私はその時のノリとテンションで内容が変わるようです。<br>
+書きたいアイデアが枯れないうちに書き殴ると思いますので、<br>
+少しの間ハイペースの投稿となりそうです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> ����ȉ��߁B</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 勝手な解釈。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/13 (��) 16:07:06 <strong>��</strong> �َq </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510134160706&log=yumeoibito">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510134160706"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/13 (木) 16:07:06 <strong>▽</strong> 菓子 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510134160706_log_yumeoibito.cgi">返信</a>　削除<input type=checkbox name="target" value="200510134160706"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�w�v�[���x�@���@�َ��̖��ł��傤���H<br>
-�d�ԂŌ����𗣂�Ȃ���A���Ɛl�Ԋ֌W���̂Ďn�߁A<br>
-����ō���̎����̐l���ɕʂ�������Ă���H<br>
-�����āA���ꂩ��o�Ă����l�����Ƃ�������ɐ��܂�ς��H<br>
+<font size=3 color=#606060>『プーン』　←　胎児の夢でしょうか？<br>
+電車で現世を離れながら、金と人間関係を捨て始め、<br>
+劇場で今回の自分の人生に別れを告げている？<br>
+そして、劇場から出てきた人だちといっしょに生まれ変わる？<br>
 <br>
-�Z���āA�ǂ݂₷���ł��B���ɁA�����݂����ȗ��������ɂ́i��<br>
-�ł��A���߂΂��ޒ��A�����łĂ���B����Ȋ��������܂��B<br>
-���Y�~�J���ŃC���[�W����s���������̂��b�͑�D���ł��B<br>
+短くて、読みやすいです。特に、小生みたいな乱視もちには（笑<br>
+でも、かめばかむ程、味がでてくる。そんな感じがします。<br>
+リズミカルでイメージが先行した感じのお話は大好きです。<br>
 <br>
 </font>
 </td></table>
@@ -104,54 +104,54 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> ����</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 導入</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/13 (��) 09:11:40 <strong>��</strong> <a href="mailto:ichifuji@ca.netyou.jp">���̂�낵</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510134091140&log=yumeoibito">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510134091140"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/13 (木) 09:11:40 <strong>▽</strong> <a href="mailto:ichifuji@ca.netyou.jp">あのよろし</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510134091140_log_yumeoibito.cgi">返信</a>　削除<input type=checkbox name="target" value="200510134091140"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ނ́A�O���̋L���������Y�ꂽ�܂ܓ]�����ʂ������B</font>
+<font size=3 color=#606060>彼は、前世の記憶を消し忘れたまま転生を果たした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> ���̐��E�̕`�ʁH</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 死の世界の描写？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/13 (��) 03:37:41 <strong>��</strong> ����i���m�����m���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510134033741&log=yumeoibito">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510134033741"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/13 (木) 03:37:41 <strong>▽</strong> 巨大ナ月ノ裏側ノ聖域 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510134033741_log_yumeoibito.cgi">返信</a>　削除<input type=checkbox name="target" value="200510134033741"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ǁA���̐��E�̂ӂ�ӂ킵���悤�Ȋ������������������̂��낤���H<br>
-�Ō�͗։��]���̌��ʁA���܂�ς���āA���̎q�ɂȂ����ƁH<br>
-���͂P�ǂ��A�������߂������A����Ő������̂��낤���H<br>
-���ꂤ��ʂ�̉��߂͂悭�������̂����A������ƈႤ�C������B</font>
+<font size=3 color=#606060>結局、死の世界のふわふわしたような感じをだしたかったのだろうか？<br>
+最後は輪廻転生の結果、生まれ変わって、女の子になったと？<br>
+私は１読し、こう解釈したが、これで正しいのだろうか？<br>
+劇場うんぬんの解釈はよく分からんのだが、ちょっと違う気がする。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �q�����܂����H</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 拝見しました？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/12 (��) 20:37:05 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510123203705&log=yumeoibito">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510123203705"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/12 (水) 20:37:05 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510123203705_log_yumeoibito.cgi">返信</a>　削除<input type=checkbox name="target" value="200510123203705"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ƃ肠�����q�����܂����B�S�̂�Y���������ȕ��͋C���ǂ��ł��ˁB<br>
-���������Ɠ��̊����͗��K���Ă��Ȃ��Ȃ��o�Ȃ���ł���ˁB<br>
-�����A����ɂ͂�����Ɨ���͂��s�����Ă���݂����ł��B<br>
-���X�g�V�[���̈Ӗ����c���ł��܂���ł����B<br>
-�Ƃ肠�����A�������񂩓ǂ�ł݂悤�Ƃ͎v���܂��B<br>
-��������������A������x���z���������������ĉ������B<br>
+<font size=3 color=#606060>とりあえず拝見しました。全体を漂う怪しげな雰囲気が良いですね。<br>
+こういう独特の感じは練習してもなかなか出ないんですよね。<br>
+ただ、鈴忌にはちょっと理解力が不足しているみたいです。<br>
+ラストシーンの意味が把握できませんでした。<br>
+とりあえず、もう何回か読んでみようとは思います。<br>
+何か分かったら、もう一度感想を書き直しさせて下さい。<br>
 <br>
-�ǋL<br>
-�@���̕��̊��z�����Ă��Ă悤�₭�������͂��܂����c�c�B<br>
-�悭����ƁA���X�g�̍��ڂɂ��u�]���v���Ă���܂����ˁi��΁j�B</font>
+追記<br>
+　他の方の感想を見ていてようやく理解が届きました……。<br>
+よく見ると、リストの項目にも「転生」ってありましたね（苦笑）。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
@@ -159,48 +159,48 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> ���z�I�ȍ�i�ł���</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 幻想的な作品ですね</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/12 (��) 17:23:41 <strong>��</strong> �悵���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510123172341&log=yumeoibito">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510123172341"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/12 (水) 17:23:41 <strong>▽</strong> よしおか </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510123172341_log_yumeoibito.cgi">返信</a>　削除<input type=checkbox name="target" value="200510123172341"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�s�v�c�Ȋ��o�̂܂܂ɓǂ�ł��܂��܂����B<br>
-�ށi�H�j�́A�V���Ȍ���̕���ɗ��킯�ł��ˁB<br>
-�u�l���͌���B���̌���̎�l���͎����g�v�ƌ����̂��ǂ����œǂ񂾋C�����܂��B<br>
-�V���Ȍ���ł͏��D�Ƃ��ĉ�����킯�ł��ˁB�O�O<br>
-����������i�������ł��ˁB�i���ɂ͏����������Ȃ����ǁE�E�����܂����j</font>
+<font size=3 color=#606060>不思議な感覚のままに読んでしまいました。<br>
+彼（？）は、新たな劇場の舞台に立つわけですね。<br>
+「人生は劇場。その劇場の主人公は私自身」と言うのをどこかで読んだ気がします。<br>
+新たな劇場では女優として演じるわけですね。＾＾<br>
+こういう作品もいいですね。（私には書けそうもなうけど・・うらやましい）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> ������Ɠǂ�ł݂܂���</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> さらっと読んでみました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/12 (��) 16:39:03 <strong>��</strong> <a href="mailto:gensan@k8.dion.ne.jp">kanaria=o-ka</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510123163903&log=yumeoibito">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510123163903"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/12 (水) 16:39:03 <strong>▽</strong> <a href="mailto:gensan@k8.dion.ne.jp">kanaria=o-ka</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510123163903_log_yumeoibito.cgi">返信</a>　削除<input type=checkbox name="target" value="200510123163903"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�`�ʂ��������肵�Ă��ēǂ݂₷���c�̂ł����A�Ō�̃V�����s���Ƃ��܂���ł����B<br>
-������������A�������C�Â��Ă��Ȃ������Ȃ̂�������Ȃ��ł����ǁB<br>
-�Ƃ肠�����V���Ȑ��E��̊��o���܂����B</font>
+<font size=3 color=#606060>描写がしっかりしていて読みやすい…のですが、最後のシメがピンときませんでした。<br>
+もしかしたら、自分が気づいていないだけなのかもしれないですけど。<br>
+とりあえず新たな世界を体感出来ました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �wDream Theater�x������ɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『Dream Theater』を見るには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/12 (��) 01:29:58 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510123012958&log=yumeoibito">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510123012958"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/12 (水) 01:29:58 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510123012958_log_yumeoibito.cgi">返信</a>　削除<input type=checkbox name="target" value="200510123012958"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�����Ɠǂ߂܂��B<br>
+<font size=3 color=#606060>【推薦文】さっと読めます。<br>
 <a href=http://ts.novels.jp/novel/200510/12010700/dream_theater.html target=_top>http://ts.novels.jp/novel/200510/12010700/dream_theater.html</a><br>
 </font>
 </td></table>
@@ -208,16 +208,16 @@ link<input type=checkbox name="link" value="1" checked>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yumeoibito">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yumeoibito">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yumeoibito.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>Ѓw100–њHit‹L”OЌм•iЃE“VЋg‚М‚ЁЋdЋ–ЃxЉґ‘zЊfЋ¦”В</title>
+<title>гЂЋ100дё‡HitиЁеїµдЅње“Ѓгѓ»е¤©дЅїгЃ®гЃЉд»•дє‹гЂЏж„џжѓіжЋІз¤єжќї</title>
 </head>
 <body bgcolor=#bbffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>Ѓw100–њHit‹L”OЌм•iЃE“VЋg‚М‚ЁЋdЋ–ЃxЉґ‘zЊfЋ¦”В</font>
+<font size=5>гЂЋ100дё‡HitиЁеїµдЅње“Ѓгѓ»е¤©дЅїгЃ®гЃЉд»•дє‹гЂЏж„џжѓіжЋІз¤єжќї</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="million">
 <input type=hidden name="nj" value="hzdKRlHBjf">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-–ј‘O <input type=text name="name" size=45 value="" maxlength=64><br>
+еђЌе‰Ќ <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-“а—e Ѓ_ ‘и–ј <input type=text name="subject" size=45 maxlength=80 value=""><br>
+е†…е®№ пјј йЎЊеђЌ <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-ЌнЏњѓLЃ[ <input type=password name="pwd" size=10 value=""> “ь—НѓRЃ[ѓh wKGIgG  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="wKGIgG"> <input type=submit value="Џ‘‚«Ќћ‚Ю"><input type=reset value="Џ‘‚«’ј‚µ"><br></td></tr></table>
+е‰Љй™¤г‚­гѓј <input type=password name="pwd" size=10 value=""> е…ҐеЉ›г‚ігѓјгѓ‰ wKGIgG  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="wKGIgG"> <input type=submit value="ж›ёгЃЌиѕјг‚Ђ"><input type=reset value="ж›ёгЃЌз›ґгЃ—"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>Ѓ¦ “ЉЌe‚ЙЌЕ’бЊА•K—v‚ИЌЂ–Ъ‚НЃA–ј‘O‚Ж“а—e‚Е‚·.<br>Ѓ¦ ЌнЏњѓLЃ[‚рђЭ’и‚·‚й‚±‚Ж‚ЕЃAЋ©•Є‚М“ЉЌe‚µ‚Ѕ‹LЋ–‚рЌнЏњ/ЏCђі‚·‚й‚±‚Ж‚Є‚Е‚«‚Ь‚·.<br>Ѓ¦ –ј‘O‹L“ь—“‚р‹у‚Й‚µ‚ДЃuЏ‘‚«Ќћ‚ЮЃv‚р‰џ‚·‚±‚Ж‚ЕѓNѓbѓLЃ[‚рЏБ‹Ћ‚Е‚«‚Ь‚·.<br>Ѓ¦ ‘и–ј‚Ж“а—e‚р‹у‚Й‚µ‚ДЃuЏ‘‚«Ќћ‚ЮЃv‚р‰џ‚·‚±‚Ж‚ЕѓNѓbѓLЃ[‚рЌД”­Ќs‚Е‚«‚Ь‚·.<br></font>
+<font color=#608080>вЂ» жЉ•зЁїгЃ«жњЂдЅЋй™ђеї…и¦ЃгЃЄй …з›®гЃЇгЂЃеђЌе‰ЌгЃЁе†…е®№гЃ§гЃ™.<br>вЂ» е‰Љй™¤г‚­гѓјг‚’иЁ­е®љгЃ™г‚‹гЃ“гЃЁгЃ§гЂЃи‡Єе€†гЃ®жЉ•зЁїгЃ—гЃџиЁдє‹г‚’е‰Љй™¤/дї®ж­ЈгЃ™г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™.<br>вЂ» еђЌе‰ЌиЁе…Ґж¬„г‚’з©єгЃ«гЃ—гЃ¦гЂЊж›ёгЃЌиѕјг‚ЂгЂЌг‚’жЉјгЃ™гЃ“гЃЁгЃ§г‚Їгѓѓг‚­гѓјг‚’ж¶€еЋ»гЃ§гЃЌгЃѕгЃ™.<br>вЂ» йЎЊеђЌгЃЁе†…е®№г‚’з©єгЃ«гЃ—гЃ¦гЂЊж›ёгЃЌиѕјг‚ЂгЂЌг‚’жЉјгЃ™гЃ“гЃЁгЃ§г‚Їгѓѓг‚­гѓјг‚’е†Ќз™єиЎЊгЃ§гЃЌгЃѕгЃ™.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>ђV’…Џ‡</strong> 1 ЃЁ ЌЕЊг <strong>ЌЕ‘е‹L^•ЫЋќђ”</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ‚Н3“ъ€И“а‚М‹LЋ–)</small>
+<strong>ж–°зќЂй †</strong> 1 в†’ жњЂеѕЊ <strong>жњЂе¤§иЁйЊІдїќжЊЃж•°</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> гЃЇ3ж—Ґд»Ґе†…гЃ®иЁдє‹)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,16 +47,16 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[4]</font> <font size=4 color=#40c0c0> Re:-- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2005/07/01 (‹а) 18:22:50 <strong>Ѓ¤</strong> ѓSЃ[ѓ‹ѓhѓAЃ[ѓЂ </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200507015182250&log=million">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200507015182250"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2005/07/01 (й‡‘) 18:22:50 <strong>в–Ѕ</strong> г‚ґгѓјгѓ«гѓ‰г‚ўгѓјгѓ  </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200507015182250_log_million.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200507015182250"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>ЃҐ ѓTѓTѓhѓЉѓAѓ“‚і‚с<br>
-<font color="#cc88ff">&gt; ‚ў‚в‚Б‚а‚ЈЌЕЌ‚‚Е‚µ‚ЅЃBѓIѓ`‚аЉ®аш‚ЖЊѕ‚Б‚ЅЏЉ‚Е‚µ‚е‚¤^^</font><br>
+<font size=3 color=#606060>в–ј г‚µг‚µгѓ‰гѓЄг‚ўгѓігЃ•г‚“<br>
+<font color="#cc88ff">&gt; гЃ„г‚„гЃЈг‚‚гЃ…жњЂй«гЃ§гЃ—гЃџгЂ‚г‚ЄгѓЃг‚‚е®Њз’§гЃЁиЁЂгЃЈгЃџж‰ЂгЃ§гЃ—г‚‡гЃ†^^</font><br>
 <br>
-‚¤‚нЃAЋА‚Й‹vЃX‚МЉґ‘z‚Е‚·‚Л‚Ґw<br>
+гЃ†г‚ЏгЂЃе®џгЃ«д№…гЂ…гЃ®ж„џжѓігЃ§гЃ™гЃ­гЃ‡w<br>
 <br>
-”й–§‚М‚Ё‚Ь‚Ї‚Н‹C‚Є‚В‚©‚к‚Ѕ‚Е‚µ‚е‚¤‚©ЃBЌЕЏIb‚МѓGѓ“ѓh•t‹Я‚Й‰Ѕ‚©‚ЄЃcЃc</font>
+з§еЇ†гЃ®гЃЉгЃѕгЃ‘гЃЇж°—гЃЊгЃ¤гЃ‹г‚ЊгЃџгЃ§гЃ—г‚‡гЃ†гЃ‹гЂ‚жњЂзµ‚и©±гЃ®г‚Ёгѓігѓ‰д»иї‘гЃ«дЅ•гЃ‹гЃЊвЂ¦вЂ¦</font>
 </td></table>
 </td></tr></table>
 
@@ -66,11 +66,11 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[3]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2005/06/26 (“ъ) 02:36:10 <strong>Ѓ¤</strong> ѓTѓTѓhѓЉѓAѓ“ </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200506260023610&log=million">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200506260023610"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2005/06/26 (ж—Ґ) 02:36:10 <strong>в–Ѕ</strong> г‚µг‚µгѓ‰гѓЄг‚ўгѓі </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200506260023610_log_million.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200506260023610"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>‚ў‚в‚Б‚а‚ЈЌЕЌ‚‚Е‚µ‚ЅЃBѓIѓ`‚аЉ®аш‚ЖЊѕ‚Б‚ЅЏЉ‚Е‚µ‚е‚¤^^</font>
+<font size=3 color=#606060>гЃ„г‚„гЃЈг‚‚гЃ…жњЂй«гЃ§гЃ—гЃџгЂ‚г‚ЄгѓЃг‚‚е®Њз’§гЃЁиЁЂгЃЈгЃџж‰ЂгЃ§гЃ—г‚‡гЃ†^^</font>
 </td></table>
 </td></tr></table>
 
@@ -80,26 +80,26 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[2]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2005/02/05 (“y) 23:44:40 <strong>Ѓ¤</strong> ‚У‚К‚НЃ[ </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200502056234440&log=million">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200502056234440"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2005/02/05 (ењџ) 23:44:40 <strong>в–Ѕ</strong> гЃµгЃ¬гЃЇгѓј </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200502056234440_log_million.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200502056234440"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Ѓu“VЋg‚М‚ЁЋdЋ–Ѓv‚Ж‚Б‚Д‚а‚Ё‚а‚µ‚л‚©‚Б‚Ѕ‚Е‚·ЃB‚а‚µЃAЃu“VЋg‚М‚ЁЋdЋ–‚QЃv‚Э‚Ѕ‚ў‚И‚а‚М‚ЄAЌЪ‚і‚к‚й‚И‚зђв‘ОЊ©‚Д‚Э‚Ѕ‚ў‚Е‚·ЃB</font>
+<font size=3 color=#606060>гЂЊе¤©дЅїгЃ®гЃЉд»•дє‹гЂЌгЃЁгЃЈгЃ¦г‚‚гЃЉг‚‚гЃ—г‚ЌгЃ‹гЃЈгЃџгЃ§гЃ™гЂ‚г‚‚гЃ—гЂЃгЂЊе¤©дЅїгЃ®гЃЉд»•дє‹пј’гЂЌгЃїгЃџгЃ„гЃЄг‚‚гЃ®гЃЊйЂЈиј‰гЃ•г‚Њг‚‹гЃЄг‚‰зµ¶еЇѕи¦‹гЃ¦гЃїгЃџгЃ„гЃ§гЃ™гЂ‚</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>ЌнЏњѓLЃ[ <input type=password name="pwd" size=10 value=""> <input type=submit value="ЌнЏњ"></td></form>
+<td align=center nowrap>е‰Љй™¤г‚­гѓј <input type=password name="pwd" size=10 value=""> <input type=submit value="е‰Љй™¤"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="million">
-<td nowrap>•¶Ћљ—с <input type=text name="search" value="" size=15>
+<td nowrap>ж–‡е­—е€— <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="ЊџЌх"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=million">ЌXђV</a>] [<a href="http://ts.novels.jp/library.html">ЏI—№</a>]</font></strong></td>
+<input type=submit value="ж¤њзґў"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_million.cgi">ж›ґж–°</a>] [<a href="../../library.html">зµ‚дє†</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>Ѓ¦ [ЌнЏњ]ѓ{ѓbѓNѓX‚рѓ`ѓFѓbѓN‚µ‚ДЃA“ЉЌeЋћ‚ЙђЭ’и‚µ‚ЅЌнЏњѓLЃ[‚р“ь—Н‚µ‚Дѓ{ѓ^ѓ“‚р‰џ‚·‚±‚Ж‚ЕЌнЏњ‚Є‚Е‚«‚Ь‚·.<br>Ѓ¦ ЊџЌх•¶Ћљ—с‚НѓXѓyЃ[ѓX‚Е‹жђШ‚й‚±‚Ж‚Е•Ўђ”Ћw’и‚Е‚«‚Ь‚·.<br></font>
+<font color=#608080>вЂ» [е‰Љй™¤]гѓњгѓѓг‚Їг‚№г‚’гѓЃг‚§гѓѓг‚ЇгЃ—гЃ¦гЂЃжЉ•зЁїж™‚гЃ«иЁ­е®љгЃ—гЃџе‰Љй™¤г‚­гѓјг‚’е…ҐеЉ›гЃ—гЃ¦гѓњг‚їгѓіг‚’жЉјгЃ™гЃ“гЃЁгЃ§е‰Љй™¤гЃЊгЃ§гЃЌгЃѕгЃ™.<br>вЂ» ж¤њзґўж–‡е­—е€—гЃЇг‚№гѓљгѓјг‚№гЃ§еЊєе€‡г‚‹гЃ“гЃЁгЃ§и¤‡ж•°жЊ‡е®љгЃ§гЃЌгЃѕгЃ™.<br></font>
 </td></table></div><br>
 </div>
 <br>

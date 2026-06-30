@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�t���l�����i�@���z�f����</title>
+<title>逆流人さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�t���l�����i�@���z�f����</font>
+<font size=5>逆流人さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="gyaku">
 <input type=hidden name="nj" value="fSCXkv1JJj">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h DLTHze  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="DLTHze"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード DLTHze  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="DLTHze"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �܂��L�����e�̍ۂ́A<b>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</b><br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ また記事投稿の際は、<b>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</b><br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,157 +44,157 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> Re:���삪�P�W�O�x�ς�����H</font>
+<font size=2>[28]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> Re:視野が１８０度変わった？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/08 (��) 20:11:30 <strong>��</strong> �t���l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702084201130&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702084201130"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/08 (木) 20:11:30 <strong>▽</strong> 逆流人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702084201130_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200702084201130"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �܂Ȃ���񂳂��<br>
+<font size=3 color=#606060>▼ まなちゃんさんへ<br>
 <br>
-���߂�Ȃ����I�@���Ԏ����x��Ă��܂��܂����B<br>
+ごめんなさい！　お返事が遅れてしまいました。<br>
 <br>
-<font color="#cc88ff">&gt; ����H�@�ݒ肪�ŏ����炩�ȁ`��ς���Ă܂��񂩁H<br>
-&gt; �T��͂���ǂ̓l�R�����ɂȂ��Ă��܂��āA<br>
-&gt; �������閂�@����ɑ����Ă��܂��܂����ˁB</font><br>
+<font color="#cc88ff">&gt; あれ？　設定が最初からかな〜り変わってませんか？<br>
+&gt; 裕二はこんどはネコ耳娘になってしまって、<br>
+&gt; 解除する魔法が二つに増えてしまいましたね。</font><br>
 <br>
-�����ł��ˁE�E�E�E<br>
-�������ۂ��������T����A�����������̂܂܂ŕ`���Ă݂悤�Ǝv���A<br>
-�Ȃ�΁A�L���ɂȂ�Ƃǂ��Ȃ�H�Ȃ�čl����ƁA<br>
-�ǂ�ǂ�[�݂ɂ͂܂��Ă��܂����H�Ƃ��������ł��B<br>
-�����g�ł��A���x�ǂ��H����߂������Ǝv�Ē��ł��B<br>
+そうですね・・・・<br>
+少女っぽく成った裕二を、もう少しこのままで描いてみようと思い、<br>
+ならば、猫耳になるとどうなる？なんて考えると、<br>
+どんどん深みにはまってしまった？という感じです。<br>
+私自身でも、今度どう路線を戻そうかと思案中です。<br>
 <br>
 <br>
-<font color="#cc88ff">&gt; �ł�����͂���Ȏp�������݂��Ă��܂����ɖ߂��Ă����������Ȃ��ł��ˁB<br>
-&gt; �܂��܂��������T��͂��ꂩ��ǂ�����̂ł��傤���H<br>
-&gt; ������y���݂ɂ��Ă��܂��B</font><br>
+<font color="#cc88ff">&gt; でも周りはそんな姿が可愛くみえてしまい元に戻してあげそうもないですね。<br>
+&gt; ますます困った裕二はこれからどうするのでしょうか？<br>
+&gt; 次回を楽しみにしています。</font><br>
 <br>
-�L�������܂��I<br>
-���ꂱ��ƕ����ԈĂ�I�тȂ���A�l���Ă��܂��B<br>
-����ɁA������y���݂ɂ��Ă����Ȃ�āA�ƂĂ���݂ɂȂ�A<br>
-���̐��E���v���`���ӗ~���킫�܂��B<br>
-������撣��܂��ˁI</font>
+有難う御座います！<br>
+あれこれと浮かぶ案を選びながら、考えています。<br>
+それに、次回を楽しみにしてくれるなんて、とても励みになり、<br>
+この世界を思い描く意欲もわきます。<br>
+今後も頑張りますね！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> ���삪�P�W�O�x�ς�����H</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> 視野が１８０度変わった？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/03 (�y) 13:36:16 <strong>��</strong> �܂Ȃ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702036133616&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702036133616"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/03 (土) 13:36:16 <strong>▽</strong> まなちゃん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702036133616_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200702036133616"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����H�@�ݒ肪�ŏ����炩�ȁ`��ς���Ă܂��񂩁H<br>
-�T��͂���ǂ̓l�R�����ɂȂ��Ă��܂��āA<br>
-�������閂�@����ɑ����Ă��܂��܂����ˁB<br>
-�ł�����͂���Ȏp�������݂��Ă��܂����ɖ߂��Ă����������Ȃ��ł��ˁB<br>
-�܂��܂��������T��͂��ꂩ��ǂ�����̂ł��傤���H<br>
-������y���݂ɂ��Ă��܂��B</font>
+<font size=3 color=#606060>あれ？　設定が最初からかな〜り変わってませんか？<br>
+裕二はこんどはネコ耳娘になってしまって、<br>
+解除する魔法が二つに増えてしまいましたね。<br>
+でも周りはそんな姿が可愛くみえてしまい元に戻してあげそうもないですね。<br>
+ますます困った裕二はこれからどうするのでしょうか？<br>
+次回を楽しみにしています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> �w�����܂V�x������ɂ͉����N���b�N�B</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> 『女装剤７』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/01 (��) 21:10:19 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702014211019&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702014211019"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/01 (木) 21:10:19 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702014211019_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200702014211019"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�����܂ŗ������ɂ͈����Ȃ���I���ɖ߂��̂͂��ɂȂ邱�Ƃ��H�I</font>
-<p><a href="http://ts.novels.jp/novel/200610/14003423/josozai7.htm" target="_top">http://ts.novels.jp/novel/200610/14003423/josozai7.htm</a>
+<font size=3 color=#606060>【推薦文】ここまで来たら後には引けないよ！元に戻れるのはいつになることやら？！</font>
+<p><a href="../../novel/200610/14003423/josozai7.htm" target="_top">http://ts.novels.jp/novel/200610/14003423/josozai7.htm</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> Re:�v��~�X�H</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> Re:計画ミス？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/18 (��) 19:06:37 <strong>��</strong> �t���l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701184190637&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701184190637"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/18 (木) 19:06:37 <strong>▽</strong> 逆流人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701184190637_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200701184190637"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �܂Ȃ���񂳂��<br>
+<font size=3 color=#606060>▼ まなちゃんさんへ<br>
 <br>
-�����z�A�����L�������܂��I<br>
+ご感想、いつも有難う御座います！<br>
 <br>
-<font color="#cc88ff">&gt; �C���X�g������������܂������S���t���l���񂪏�������ł����H</font><br>
+<font color="#cc88ff">&gt; イラストが何枚かありましたが全部逆流人さんが書いたんですか？</font><br>
 <br>
-�����ł��E�E�E�E���āA�����邩�ǂ����E�E�E�E�H�H�H<br>
-�S�ẴC���X�g�ɂ́A��ɂȂ�G��ʐ^������܂��̂ŁA<br>
-�����ŕ`�����Ƃ́A�����邩�ǂ�������Ƃ��납���m��܂���ˁB<br>
+そうです・・・・って、言えるかどうか・・・・？？？<br>
+全てのイラストには、基になる絵や写真がありますので、<br>
+自分で描いたとは、言えるかどうか難しいところかも知れませんね。<br>
 <br>
-<font color="#cc88ff">&gt; �h��G�̂悤�ɂ��ď������Ƃ̂��Ƃ������ď��ł��B</font><br>
+<font color="#cc88ff">&gt; 塗り絵のようにして書いたとのこともあって上手です。</font><br>
 <br>
-�L�������܂�(;#^��^)�U<br>
-�t�H�g�V���b�v�ŕ`���܂����B<br>
-�܂��g�����Ȃ��Ă��܂��񂪁A���C���[�@�\���g���΁A�ƂĂ��y�ł��B<br>
+有難う御座います(;#^ヮ^)ゞ<br>
+フォトショップで描きました。<br>
+まだ使いこなせていませんが、レイヤー機能を使えば、とても楽です。<br>
 <br>
-<font color="#cc88ff">&gt; ������@��Ɏ��������̍�i�C���X�g���������K�����悤�Ǝv���܂��B<br>
-&gt; �ŏ��͋t���l����̂悤�ɓh��G����X�^�[�g�������Ǝv���܂��B</font><br>
+<font color="#cc88ff">&gt; これを機会に私も自分の作品イラストを書く練習をしようと思います。<br>
+&gt; 最初は逆流人さんのように塗り絵からスタートしたいと思います。</font><br>
 <br>
-�����A�撣���ĐF��ȊG��`���Ă݂����Ǝv���Ă܂��B<br>
-���݂��撣��܂��傤�I�@�Ȃ��Ȃ���肭�`���Ȃ��āA<br>
-�{�c�ɂȂ�G�΂���ŁA���b���G�ƈꏏ�ɐi�߂Ă���̂ŁA<br>
-���񂺂�i�݂܂���B�@����ɋ}�ɂ��b�̗����ς�������āA<br>
-�܊p�`�����G���A�g���Ȃ��Ȃ�����{�c�ɂȂ�����E�E�E�E<br>
+私も、頑張って色んな絵を描いてみたいと思ってます。<br>
+お互い頑張りましょう！　なかなか上手く描けなくて、<br>
+ボツになる絵ばかりで、お話も絵と一緒に進めているので、<br>
+ぜんぜん進みません。　それに急にお話の流れを変えちゃって、<br>
+折角描いた絵も、使えなくなったりボツになったり・・・・<br>
 <br>
-<font color="#cc88ff">&gt; �Ƃ���ō���̍�i�ł����T��͏��̕���i�΁j�ŒJ�����������<br>
-&gt; �U�����܂ł͂悩�����̂ł����A�Ō�Ɏd�Ԃ�������Ă��܂��܂����ˁB<br>
-&gt; ���o����Ƃ̃_�u�����d�u���i�H�j�ŗT��͎��_���O�I�H<br>
-&gt; ����͑傫�Ȍv��~�X�������̂ł��傤���H</font><br>
+<font color="#cc88ff">&gt; ところで今回の作品ですが裕二は女の武器（笑）で谷口をお茶会に<br>
+&gt; 誘ったまではよかったのですが、最後に仕返しをされてしまいましたね。<br>
+&gt; お姉さんとのダブルお仕置き（？）で裕二は失神寸前！？<br>
+&gt; これは大きな計画ミスだったのでしょうか？</font><br>
 <br>
-�ՂՁ�@�����ł��B<br>
-�J��������΁A�T��͒p�������x�����������ł�����ƍl�����̂ɁA<br>
-���ǁA������H�̐搶�ɖڂ������A�W���U�����󂯂��Ƃ����ݒ�ł��B<br>
-�{���́A������̐搶�������ɂ��Ă�낤���ƍl������ł��ˁB<br>
-���̕����A�����N�Ƃ�����̘b��i�߂Ă����̂��Ƃ����؂��ʂ�܂��B<br>
-�ł��A���܂�ɂ������΂���o�ꂳ���Ă��Ȃ��E�E�E�E�Ǝv���܂��āA<br>
-������Ɩ����������ł����A�����ɍ���͏I��点���Ƃ��������ł��B<br>
+ぷぷ♪　そうです。<br>
+谷口も居れば、裕二は恥をかく度合いが少しでも減ると考えたのに、<br>
+結局、お茶会？の先生に目をつけられ、集中攻撃を受けたという設定です。<br>
+本当は、お茶会の先生も魔女にしてやろうかと考えたんですね。<br>
+その方が、愛が誰とお茶会の話を進めてきたのかという筋も通ります。<br>
+でも、あまりにも魔女ばかり登場させてもなぁ・・・・と思いまして、<br>
+ちょっと無理が多いですが、強引に今回は終わらせたという感じです。<br>
 <br>
-<font color="#cc88ff">&gt; �܂��܂��������A����������T��͂��̂�������ɉ����i�΁j���ėV�΂��<br>
-&gt; �̂ł��傤���H<br>
-&gt; ������y���݂ɂ��Ă��܂��B</font><br>
+<font color="#cc88ff">&gt; ますます女性化、少女化する裕二はこのさきさらに可愛く（笑）もて遊ばれる<br>
+&gt; のでしょうか？<br>
+&gt; 次回を楽しみにしています。</font><br>
 <br>
-���āA�ǂ��ł��傤�H(#^m^#)�@�Ղ���<br>
-���͂����A���̂��b�͊������Ă���܂��B<br>
-���Ԃ�����Ƃ��Ɋm�F���Ă���A�߂����ɓ��e�������Ǝv���܂��B<br>
+さて、どうでしょう？(#^m^#)　ぷっ♪<br>
+実はもう、次のお話は完成しております。<br>
+時間があるときに確認してから、近い内に投稿したいと思います。<br>
 <br>
-�L�������܂����B<br>
-������撣���Ď��M���Ă䂫�����Ǝv���܂��B</font>
+有難う御座いました。<br>
+今後も頑張って執筆ってゆきたいと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> �v��~�X�H</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> 計画ミス？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/17 (��) 19:18:55 <strong>��</strong> �܂Ȃ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701173191855&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701173191855"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/17 (水) 19:18:55 <strong>▽</strong> まなちゃん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701173191855_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200701173191855"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�C���X�g������������܂������S���t���l���񂪏�������ł����H<br>
-�h��G�̂悤�ɂ��ď������Ƃ̂��Ƃ������ď��ł��B<br>
-������@��Ɏ��������̍�i�C���X�g���������K�����悤�Ǝv���܂��B<br>
-�ŏ��͋t���l����̂悤�ɓh��G����X�^�[�g�������Ǝv���܂��B<br>
+<font size=3 color=#606060>イラストが何枚かありましたが全部逆流人さんが書いたんですか？<br>
+塗り絵のようにして書いたとのこともあって上手です。<br>
+これを機会に私も自分の作品イラストを書く練習をしようと思います。<br>
+最初は逆流人さんのように塗り絵からスタートしたいと思います。<br>
 <br>
-�Ƃ���ō���̍�i�ł����T��͏��̕���i�΁j�ŒJ�����������<br>
-�U�����܂ł͂悩�����̂ł����A�Ō�Ɏd�Ԃ�������Ă��܂��܂����ˁB<br>
-���o����Ƃ̃_�u�����d�u���i�H�j�ŗT��͎��_���O�I�H<br>
-����͑傫�Ȍv��~�X�������̂ł��傤���H<br>
-�܂��܂��������A����������T��͂��̂�������ɉ����i�΁j���ėV�΂��<br>
-�̂ł��傤���H<br>
-������y���݂ɂ��Ă��܂��B<br>
+ところで今回の作品ですが裕二は女の武器（笑）で谷口をお茶会に<br>
+誘ったまではよかったのですが、最後に仕返しをされてしまいましたね。<br>
+お姉さんとのダブルお仕置き（？）で裕二は失神寸前！？<br>
+これは大きな計画ミスだったのでしょうか？<br>
+ますます女性化、少女化する裕二はこのさきさらに可愛く（笑）もて遊ばれる<br>
+のでしょうか？<br>
+次回を楽しみにしています。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -202,115 +202,115 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> �w�����܂U�x������ɂ͉����N���b�N�B</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> 『女装剤６』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/10 (��) 20:52:53 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701103205253&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701103205253"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/10 (水) 20:52:53 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701103205253_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200701103205253"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�T��Ɏ��X�ɏP���|���镨���B���������Ȃ񂾂��B</font>
-<p><a href="http://ts.novels.jp/novel/200610/14003423/josozai6.htm" target="_top">http://ts.novels.jp/novel/200610/14003423/josozai6.htm</a>
+<font size=3 color=#606060>【推薦文】裕二に次々に襲い掛かる物事。もう何がなんだか。</font>
+<p><a href="../../novel/200610/14003423/josozai6.htm" target="_top">http://ts.novels.jp/novel/200610/14003423/josozai6.htm</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> Re:�����H</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> Re:順応？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/02 (��) 00:16:35 <strong>��</strong> �t���l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701022001635&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701022001635"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/02 (火) 00:16:35 <strong>▽</strong> 逆流人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701022001635_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200701022001635"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂Ȃ���񂳂�A�����z���肪�Ƃ�������܂��B<br>
+<font size=3 color=#606060>まなちゃんさん、ご感想ありがとう御座います。<br>
 <br>
-<font color="#cc88ff">&gt; �ǂ����Ă������\�������Ƃ������ڂ��Ċ當����������<br>
-&gt; �������ǎ҂ɂ��L�����̊���킩��₷���Ȃ�Ǝv���܂��B</font><br>
+<font color="#cc88ff">&gt; どうしても感情を表したいとこをしぼって顔文字を書けば<br>
+&gt; 私たち読者にもキャラの感情がわかりやすくなると思います。</font><br>
 <br>
-�����ł��ˁB<br>
-�ł��A�ǂ����Ă��當���ɃL�����̕\���S���𗊂��Ă��܂������Ȃ̂ŁA<br>
-�當���͎g�킸�ɁA���������ŕ��͗͂�b�������C����������܂��āA<br>
-�當���͎g��Ȃ����ɂ��܂����B<br>
-<br>
-<br>
-<font color="#cc88ff">&gt; ��l���́u�����܂̍ޗ����킩�������̂́A�j�ɖ߂�ƂނȂ����v<br>
-&gt; �Ƃ������Ƃ���ł��ˁB</font><br>
+そうですね。<br>
+でも、どうしても顔文字にキャラの表情や心境を頼ってしまいがちなので、<br>
+顔文字は使わずに、文字だけで文章力を鍛えたい気持ちもありまして、<br>
+顔文字は使わない事にしました。<br>
 <br>
 <br>
-�M�N�b�I�Ƃ��܂����E�E�E�E<br>
-�m���ɂ��������m��܂��񂪁A��l���͒b�艮�ł̏[�������������v���A<br>
-�j�Ƃ��Ĉ�����l�Ƌ��ɐ����鎖�𖲌��Ă���E�E�E�Ɛݒ肵�Ă��܂��B<br>
+<font color="#cc88ff">&gt; 主人公は「女装剤の材料がわかったものの、男に戻るとむなしい」<br>
+&gt; といったところですね。</font><br>
 <br>
 <br>
-<font color="#cc88ff">&gt; �ǂ���珗�̎q�炵�����Ɉ�����̂��e�����Ă���̂ł͂Ȃ��ł��傤���B<br>
-&gt; ���������ȏ�Ԃ������Ƃ��������āc�c�H<br>
-&gt; �����A���҂����Ă��܂��B</font><br>
+ギクッ！としました・・・・<br>
+確かにそうかも知れませんが、主人公は鍛冶屋での充実した毎日を思い、<br>
+男として愛する人と共に生きる事を夢見ている・・・と設定しています。<br>
 <br>
 <br>
-�͂����I<br>
-�����A����ǂ̂悤�ɘb�������āH�s���̂����ɂ��܂�������܂��񂪁A<br>
-�撣���đ����Ă䂫�����Ǝv���Ă���܂��̂ŁA����Ƃ���낵�����肢���܂��B</font>
+<font color="#cc88ff">&gt; どうやら女の子らしく回りに扱われるのが影響しているのではないでしょうか。<br>
+&gt; 今後もこんな状態が続くともしかして……？<br>
+&gt; 次回作、お待ちしています。</font><br>
+<br>
+<br>
+はぁい！<br>
+正直、今後どのように話が滑って？行くのか私にもまだ分かりませんが、<br>
+頑張って続けてゆきたいと思っておりますので、今後ともよろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> �����H</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> 順応？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/01 (��) 10:00:56 <strong>��</strong> �܂Ȃ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701011100056&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701011100056"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/01 (月) 10:00:56 <strong>▽</strong> まなちゃん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701011100056_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200701011100056"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ڂƔ�ׂĂT��ڂ͊當��������A��ϓǂ݂₷���Ȃ��Ă��܂��B<br>
-�ǂ����Ă������\�������Ƃ������ڂ��Ċ當����������<br>
-�������ǎ҂ɂ��L�����̊���킩��₷���Ȃ�Ǝv���܂��B<br>
+<font size=3 color=#606060>一作目と比べて５作目は顔文字も減り、大変読みやすくなっています。<br>
+どうしても感情を表したいとこをしぼって顔文字を書けば<br>
+私たち読者にもキャラの感情がわかりやすくなると思います。<br>
 <br>
-�Ƃ���ō���̍�i�ł���������Ƃق��̍�i���ǂ񂾂Ƃ���A<br>
-��l���́u�����܂̍ޗ����킩�������̂́A�j�ɖ߂�ƂނȂ����v<br>
-�Ƃ������Ƃ���ł��ˁB<br>
-�ǂ���珗�̎q�炵�����Ɉ�����̂��e�����Ă���̂ł͂Ȃ��ł��傤���B<br>
-���������ȏ�Ԃ������Ƃ��������āc�c�H<br>
-�����A���҂����Ă��܂��B</font>
+ところで今回の作品ですがちらっとほかの作品も読んだところ、<br>
+主人公は「女装剤の材料がわかったものの、男に戻るとむなしい」<br>
+といったところですね。<br>
+どうやら女の子らしく回りに扱われるのが影響しているのではないでしょうか。<br>
+今後もこんな状態が続くともしかして……？<br>
+次回作、お待ちしています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> �w�����܂T�x������ɂ͉����N���b�N�B</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> 『女装剤５』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/27 (��) 00:03:10 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612273000310&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612273000310"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/27 (水) 00:03:10 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612273000310_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200612273000310"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z��e�̉ߋ��Ƃ͂��������B�����āA��l���̑z���͂ǂ��֍s���B�{���̓W�J���{�����[���ł��B</font>
-<p><a href="http://ts.novels.jp/novel/200610/14003423/josozai5.htm" target="_top">http://ts.novels.jp/novel/200610/14003423/josozai5.htm</a>
+<font size=3 color=#606060>【推薦文】母親の過去とはいったい。そして、主人公の想いはどこへ行く。怒涛の展開＆ボリュームです。</font>
+<p><a href="../../novel/200610/14003423/josozai5.htm" target="_top">http://ts.novels.jp/novel/200610/14003423/josozai5.htm</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> �w�����܂S�x��ǂނɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> 『女装剤４』を読むには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/25 (�y) 22:44:12 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611256224412&log=gyaku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611256224412"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/25 (土) 22:44:12 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611256224412_log_gyaku.cgi">返信</a>　削除<input type=checkbox name="target" value="200611256224412"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z ���@�c�c�N���u�I�@���̌��t�Ƀs���Ƃ����l�����Ȃ��l���A���������ֈ꒼���̓���˂��i�ގ�l���ɂ����ڂ��������B<br>
+<font size=3 color=#606060>【推薦文】 魔法……クラブ！　この言葉にピンときた人もこない人も、魔女っ娘へ一直線の道を突き進む主人公にご注目ください。<br>
 <a href=http://ts.novels.jp/novel/200610/14003423/josozai4.htm target=_top>http://ts.novels.jp/novel/200610/14003423/josozai4.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="gyaku">
@@ -318,16 +318,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="gyaku">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=gyaku">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_gyaku.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

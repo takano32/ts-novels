@@ -2,41 +2,42 @@
         "http://www.w3.org/TR/html4/loose.dtd">
 <HTML>
 <HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <TITLE>main</TITLE>
 
 <STYLE TYPE="text/css">
 <!--
-	#inputSpeaks	{				/* î≠åæì¸óÕóì */
+	#inputSpeaks	{				/* Áô∫Ë®ÄÂÖ•ÂäõÊ¨Ñ */
 		background-color:#EEEEEE;
 		width:510px;
 		border-style:groove;
 	}
 	
-	#printnickname	{				/* ñºëOï\é¶óì */
+	#printnickname	{				/* ÂêçÂâçË°®Á§∫Ê¨Ñ */
 		background-color:#CCFFFF;
 		color:#FF0000;
 		border-style:groove;
 	}
 	
-	#namechange	{				/* ñºëOïœçXÉ{É^Éì */
+	#namechange	{				/* ÂêçÂâçÂ§âÊõ¥„Éú„Çø„É≥ */
 		background-color:#DDEEDD;
 		color:#008888;
 		font:bold;
 	}
 
-	#submitHatsugen	{				/* î≠åæÉ{É^Éì */
+	#submitHatsugen	{				/* Áô∫Ë®Ä„Éú„Çø„É≥ */
 		background-color:#DDEEDD;
 		color:#008888;
 		width:100px;
 		font:bold;
 	}
 	
-	#ChatBox		{				/* É`ÉÉÉbÉgÉçÉOï\é¶óì */
+	#ChatBox		{				/* „ÉÅ„É£„ÉÉ„Éà„É≠„Ç∞Ë°®Á§∫Ê¨Ñ */
 		background-color:#333333;
 		color:#44EE44;
 	}
 	
-	#NameBox		{				/* éQâ¡é“àÍóóï\é¶óì */
+	#NameBox		{				/* ÂèÇÂä†ËÄÖ‰∏ÄË¶ßË°®Á§∫Ê¨Ñ */
 		background-color:#FAFAFA;
 		color:#3333FF;
 		line-height:130%;
@@ -44,7 +45,7 @@
 		border-style:groove;
 	}
 		
-	#clearBtn		{				/* É`ÉÉÉbÉgÉçÉOï\é¶óìÉNÉäÉAÉ{É^Éì */
+	#clearBtn		{				/* „ÉÅ„É£„ÉÉ„Éà„É≠„Ç∞Ë°®Á§∫Ê¨Ñ„ÇØ„É™„Ç¢„Éú„Çø„É≥ */
 		background-color:#FFEEDD;
 		width:622px;
 		color:#0066CC;
@@ -52,7 +53,7 @@
 		font:bold;
 	}
 	
-	#logoutBtn		{				/* ÉçÉOÉAÉEÉgÉ{É^Éì */
+	#logoutBtn		{				/* „É≠„Ç∞„Ç¢„Ç¶„Éà„Éú„Çø„É≥ */
 		 background-color:#EEEEEE;
 		 width:100px;
 		 border-style:groove;
@@ -119,9 +120,9 @@ function logoutChat(){
 
 <BODY BGCOLOR="#EEEEEE" onLoad="changeName();">
 <!--
-	ç≈èâÇ…ÉyÅ[ÉWÇäJÇ¢ÇΩÉ^ÉCÉ~ÉìÉOÇ≈ñºëOì¸óÕÉEÉBÉìÉhÉEÇ™É|ÉbÉvÉAÉbÉvÇ∑ÇÈÇÃÇ™Ç¢Ç‚Ç»èÍçáÇÕ
+	ÊúÄÂàù„Å´„Éö„Éº„Ç∏„ÇíÈñã„ÅÑ„Åü„Çø„Ç§„Éü„É≥„Ç∞„ÅßÂêçÂâçÂÖ•Âäõ„Ç¶„Ç£„É≥„Éâ„Ç¶„Åå„Éù„ÉÉ„Éó„Ç¢„ÉÉ„Éó„Åô„Çã„ÅÆ„Åå„ÅÑ„ÇÑ„Å™Â†¥Âêà„ÅØ
 	<BODY BGCOLOR="#EEEEEE">
-	Ç…ïœÇ¶ÇÈ
+	„Å´Â§â„Åà„Çã
 -->
 
 <TABLE BORDER="1" CELLPADDING="20" CELLSPACING="5" HSPACE="0" VSPACE="0" ALIGN="CENTER" BORDERCOLOR="#EEEEEE" BGCOLOR="#FFFFFF">
@@ -132,33 +133,33 @@ function logoutChat(){
 	</TR>
 	<TR>
 	<TD STYLE="background-color:#FFFFDD;">
-	<!-- É`ÉÉÉbÉgóÃàÊ -->
+	<!-- „ÉÅ„É£„ÉÉ„ÉàÈ†òÂüü -->
 	<TABLE BORDER="0" WIDTH="640" CELLPADDING="0" CELLSPACING="0" HSPACE="0" VSPACE="0" ALIGN="CENTER">
 		<FORM NAME="PrintName" onSubmit="return false ;">
 		<TR>
 			<TD COLSPAN="2">
-				<INPUT TYPE="text" NAME="printnickname" ID="printnickname" VALUE="Ç®ñºëOÅH">
-				<INPUT TYPE="button" onClick="changeName();" VALUE="ñºëOÇÃïœçX" NAME="namechange" ID="namechange">
+				<INPUT TYPE="text" NAME="printnickname" ID="printnickname" VALUE="„ÅäÂêçÂâçÔºü">
+				<INPUT TYPE="button" onClick="changeName();" VALUE="ÂêçÂâç„ÅÆÂ§âÊõ¥" NAME="namechange" ID="namechange">
 			</TD>
 		</TR>
 		<TR>
 			<TD COLSPAN="2" BGCOLOR="#FAFAFA">
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#000000" CHECKED><SPAN STYLE="color:#000000">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0030C0"><SPAN STYLE="color:#0030C0">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0000FF"><SPAN STYLE="color:#0000FF">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0090C0"><SPAN STYLE="color:#0090C0">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#60C0C0"><SPAN STYLE="color:#60C0C0">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#6000C0"><SPAN STYLE="color:#6000C0">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#9000F0"><SPAN STYLE="color:#9000F0">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#C000F0"><SPAN STYLE="color:#C000F0">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F000F0"><SPAN STYLE="color:#F000F0">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#900000"><SPAN STYLE="color:#900000">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#C00030"><SPAN STYLE="color:#C00030">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F06000"><SPAN STYLE="color:#F06000">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#FF0000"><SPAN STYLE="color:#FF0000">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F09030"><SPAN STYLE="color:#F09030">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F0C030"><SPAN STYLE="color:#F0C030">Å°</SPAN>
-				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#006000"><SPAN STYLE="color:#006000">Å°</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#000000" CHECKED><SPAN STYLE="color:#000000">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0030C0"><SPAN STYLE="color:#0030C0">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0000FF"><SPAN STYLE="color:#0000FF">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0090C0"><SPAN STYLE="color:#0090C0">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#60C0C0"><SPAN STYLE="color:#60C0C0">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#6000C0"><SPAN STYLE="color:#6000C0">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#9000F0"><SPAN STYLE="color:#9000F0">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#C000F0"><SPAN STYLE="color:#C000F0">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F000F0"><SPAN STYLE="color:#F000F0">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#900000"><SPAN STYLE="color:#900000">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#C00030"><SPAN STYLE="color:#C00030">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F06000"><SPAN STYLE="color:#F06000">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#FF0000"><SPAN STYLE="color:#FF0000">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F09030"><SPAN STYLE="color:#F09030">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F0C030"><SPAN STYLE="color:#F0C030">‚ñ†</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#006000"><SPAN STYLE="color:#006000">‚ñ†</SPAN>
 			</TD>
 		</TR>
 		</FORM>
@@ -169,7 +170,7 @@ function logoutChat(){
 				<INPUT TYPE="text" SIZE="70" NAME="inputSpeaks" ID="inputSpeaks" VALUE="">
 			</TD>
 			<TD WIDTH="120">
-				<INPUT TYPE="button" ID="submitHatsugen" VALUE="î≠åæÇ∑ÇÈ" onClick="javascript:callServer()">
+				<INPUT TYPE="button" ID="submitHatsugen" VALUE="Áô∫Ë®Ä„Åô„Çã" onClick="javascript:callServer()">
 			</TD>
 		</TR>
 		<TR>
@@ -177,12 +178,12 @@ function logoutChat(){
 				<TEXTAREA ROWS=20 COLS="70" NAME="ChatBox" ID="ChatBox" onFocus="document.ChatData.ChatBox.blur();" STYLE="width:510px"></TEXTAREA>
 			</TD>
 			<TD>
-				<TEXTAREA ROWS=20 COLS="12" NAME="NameBox" ID="NameBox" width="100">ÅîOFF LINE</TEXTAREA>
+				<TEXTAREA ROWS=20 COLS="12" NAME="NameBox" ID="NameBox" width="100">ÔºÉOFF LINE</TEXTAREA>
 			</TD>
 		</TR>
 		<TR>
 			<TD COLSPAN="2">
-				<INPUT TYPE="reset" ID="clearBtn" VALUE="             ÉçÉOÇÃÉNÉäÉA             ">
+				<INPUT TYPE="reset" ID="clearBtn" VALUE="             „É≠„Ç∞„ÅÆ„ÇØ„É™„Ç¢             ">
 			</TD>
 		</TR>
 		</FORM>
@@ -191,19 +192,19 @@ function logoutChat(){
 				<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="0" HSPACE="0" VSPACE="0" WIDTH="100%"><TR>
 				<FORM NAME="ReloadTime"><TD>
 					<SELECT NAME="reloadtime">
-						<OPTION VALUE="0">Ç»Çµ
-						<OPTION VALUE="10">10ïb
-						<OPTION VALUE="20" SELECTED>20ïb
-						<OPTION VALUE="30">30ïb
-						<OPTION VALUE="60">60ïb
+						<OPTION VALUE="0">„Å™„Åó
+						<OPTION VALUE="10">10Áßí
+						<OPTION VALUE="20" SELECTED>20Áßí
+						<OPTION VALUE="30">30Áßí
+						<OPTION VALUE="60">60Áßí
 					</SELECT>
-					<SPAN STYLE="font-size:12px;color:#EE8888">&lt;&lt; é©ìÆçXêV</SPAN>
+					<SPAN STYLE="font-size:12px;color:#EE8888">&lt;&lt; Ëá™ÂãïÊõ¥Êñ∞</SPAN>
 				</TD></FORM>
 				<FORM><TD ALIGN="RIGHT"><INPUT TYPE="button" ID="logoutBtn" VALUE="logout" onClick="logoutChat();"></TD></FORM>
 				<TD ALIGN="RIGHT">
-					<!-- Ç±Ç±Ç©ÇÁ íòçÏèÓïÒ çÌèúã÷é~ -->
-					<A HREF="http://clip.yokohama-cu.ac.jp/~yamaguchi/" STYLE="font-style:italic;font-size:12px;color:#999999">by&nbsp;ÉzÅ[ÉÄÉyÅ[ÉWÇÃçÏÇËï˚çuç¿</A>
-					<!-- Ç±Ç±Ç‹Ç≈ íòçÏèÓïÒ -->
+					<!-- „Åì„Åì„Åã„Çâ Ëëó‰ΩúÊÉÖÂ†± ÂâäÈô§Á¶ÅÊ≠¢ -->
+					<A HREF="http://clip.yokohama-cu.ac.jp/~yamaguchi/" STYLE="font-style:italic;font-size:12px;color:#999999">by&nbsp;„Éõ„Éº„É†„Éö„Éº„Ç∏„ÅÆ‰Ωú„ÇäÊñπË¨õÂ∫ß</A>
+					<!-- „Åì„Åì„Åæ„Åß Ëëó‰ΩúÊÉÖÂ†± -->
 				</TD>
 				<TD WIDTH="5"></TD>
 				</TR></TABLE>
@@ -215,12 +216,12 @@ function logoutChat(){
 	</TR>
 </TABLE>
 
-	<!-- ëóêMópÉtÉHÅ[ÉÄÉfÅ[É^ -->
-	<FORM METHOD="post" ACTION="./cgi-bin/syschat.cgi" NAME="SendData" TARGET="ChatTemp">
+	<!-- ÈÄÅ‰ø°Áî®„Éï„Ç©„Éº„É†„Éá„Éº„Çø -->
+	<FORM METHOD="post" ACTION="cgi-bin/syschat.cgi" NAME="SendData" TARGET="ChatTemp">
 		<INPUT TYPE="hidden" NAME="speaks" VALUE="">
 		<INPUT TYPE="hidden" VALUE="0" NAME="uptime">
 		<INPUT TYPE="hidden" VALUE="new" NAME="status">
-		<INPUT TYPE="hidden" VALUE="Ç®ñºëOÅH" NAME="nickname" >
+		<INPUT TYPE="hidden" VALUE="„ÅäÂêçÂâçÔºü" NAME="nickname" >
 		<INPUT TYPE="hidden" VALUE="" NAME="chatcolor">
 	</FORM>
 

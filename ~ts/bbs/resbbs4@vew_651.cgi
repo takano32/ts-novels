@@ -1,33 +1,33 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
-<title>���f����</title></head>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
+<title>第二掲示板</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#AAAAFF vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ヲするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>��Q�f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>第２掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
+<!--　ここまで　　この下にメッセージが　　侮ヲされる　　-->
 <form name=inputform action=resbbs4.cgi method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://ts.novels.jp">[HomePage]</a><br> <br>
-<a href="http://www.novels.jp/~ts/bbs/index.cgi">[BBS #1]</a><br>
-</td><td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<tr><td rowspan=4><a href="../../index.html">[HomePage]</a><br> <br>
+<a href="index.cgi">[BBS #1]</a><br>
+</td><td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�w����i�Ƃ��j�̗��x�i���́j�@�ɂ���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:『時空（とき）の翼』（仮称）　について>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=mother value=650>
 <input type=hidden name=ress value=651>
-<input type=submit value=�w����i�Ƃ��j�̗��x�i���́j�@�ɂ��Ă֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=『時空（とき）の翼』（仮称）　についてへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
@@ -40,30 +40,30 @@ document.inputform.comment.focus();
 <table border=3 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=651>
-<font color=#6A5ACD>�w����i�Ƃ��j�̗��x�i���́j�@�ɂ���</font></a>
+<font color=#6A5ACD>『時空（とき）の翼』（仮称）　について</font></a>
 <font color=#FFFFFF>
-<a href=mailto:ayano_k@studio-horizon.org>�_�숻�T</a>
- ����</font>
- <font size=2>2002�N11��22��(��) 21��51��</font>
+<a href=mailto:ayano_k@studio-horizon.org>神川綾乃</a>
+ さん</font>
+ <font size=2>2002年11月22日(金) 21時51分</font>
 <a href=http://www.studio-horizon.org/ target=_top>HomePage</a>
- <input type=button value=�ԐM onclick='location.href="resbbs4.cgi?vew=651"'>
+ <input type=button value=返信 onclick='location.href="resbbs4@vew_651.cgi"'>
 </td></tr><tr><td>
-<ul><br><font size=3><br>�@���݁A�V���K�[�G���W�F���X�ƕ��s�ŏ����Ă���X�g�[���[�ł��B<br>�@����́A�ꔭ�őS�����f�ڂ���\��ŏ����Ă��܂��B���̃p�C���b�g�łł������܂��B<br></font></ul>
+<ul><br><font size=3><br>　現在、シュガーエンジェルスと平行で書いているストーリーです。<br>　これは、一発で全部を掲載する予定で書いています。そのパイロット版でございます。<br></font></ul>
 <ul><input type=checkbox name=delcode value=652>
-<font color=#6A5ACD>RE:�w����i�Ƃ��j�̗��x�i���́j�@�ɂ���</font></a>
+<font color=#6A5ACD>RE:『時空（とき）の翼』（仮称）　について</font></a>
 <font color=#FFFFFF>
-<a href=mailto:shirou@pc.highway.ne.jp>���Y</a>
- ����</font>
- <font size=2>2002�N11��23��(�y) 4��11��</font>
+<a href=mailto:shirou@pc.highway.ne.jp>死郎</a>
+ さん</font>
+ <font size=2>2002年11月23日(土) 4時11分</font>
 <a href=http://home3.highway.ne.jp/~shirou/ target=_top>HomePage</a>
- <input type=button value=�ԐM onclick='location.href="resbbs4.cgi?vew=652"'>
-<ul><font size=3>�@���[�B�C�C�����ł��ˁB���͂��������肵�Ă������邵�A�R���Z�v�g�Ƃ��Ă�<br>�ʔ����B<br>�@�傫�ȊԈႢ�͌�������܂��񂪁A�����w�V��x���w�V��x���ȁH�@�w�܂�ŁA�J�i�����̔@�����ɁB�x���A������ƕ��͂����������悤�ȁB<br><br>�@�Ƃ�����A�S�Ҍf�ڂ����҂��Ă܂��B</font></ul>
+ <input type=button value=返信 onclick='location.href="resbbs4@vew_652.cgi"'>
+<ul><font size=3>　おー。イイ感じですね。文章もしっかりしてらっしゃるし、コンセプトとしても<br>面白い。<br>　大きな間違いは見当たりませんが、ただ『天上』→『天井』かな？　『まるで、カナリヤの如く声に。』も、ちょっと文章がおかしいような。<br><br>　ともあれ、全編掲載を期待してます。</font></ul>
 </ul>
 </dl>
 </td></tr></table><br>
 </td></tr></table>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a></font></p>

@@ -1,17 +1,17 @@
-<html><head><meta http-equiv=Content-Typecontent=text/html; charset=x-sjis>
-<title>¡ ­”N­—•¶ŒÉ Ž©—R“o˜^§ƒŠƒ“ƒN ¡</title>
+<html><head><meta http-equiv=Content-Typecontent=text/html; charset=UTF-8>
+<title>â–  å°‘å¹´å°‘å¥³æ–‡åº« è‡ªç”±ç™»éŒ²åˆ¶ãƒªãƒ³ã‚¯ â– </title>
 </head>
 <body background="" bgcolor="#ffffff" text="#000000" link="#222222" alink="#ff0000" vlink="#777777">
 <p align=center><center>
-<font color="#000000" size=5><b>¡ ­”N­—•¶ŒÉ Ž©—R“o˜^§ƒŠƒ“ƒN ¡</b></font><br>
-<font size=2>“o˜^‚ÍŽ©—R‚És‚Á‚Ä‚­‚¾‚³‚¢B</font>
+<font color="#000000" size=5><b>â–  å°‘å¹´å°‘å¥³æ–‡åº« è‡ªç”±ç™»éŒ²åˆ¶ãƒªãƒ³ã‚¯ â– </b></font><br>
+<font size=2>ç™»éŒ²ã¯è‡ªç”±ã«è¡Œã£ã¦ãã ã•ã„ã€‚</font>
 <table width=85% border=0 cellpadding=20><tr>
 <td align=center bgcolor=#FFFFFF>
 <table border=3 cellpadding=5><tr>
-<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>¡<a href=./weblink.cgi?link=new&p=1>V’…ƒTƒCƒg</a>¡
-¡<a href="http://ts.novels.jp/">­”N­—•¶ŒÉ‚É–ß‚é</a>¡ ¡<a href=./weblink.cgi?page=add>LINK“o˜^</a>¡
-¡<a href=./weblink.cgi?page=disa>•ÏX/íœ</a>¡
-¡<a href=./weblink.html>“o˜^‚ÌŒˆ‚Ü‚è</a>¡
+<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>â– <a href=./weblink.cgi?link=new&p=1>æ–°ç€ã‚µã‚¤ãƒˆ</a>â– 
+â– <a href="../../index.html">å°‘å¹´å°‘å¥³æ–‡åº«ã«æˆ»ã‚‹</a>â–  â– <a href=./weblink.cgi?page=add>LINKç™»éŒ²</a>â– 
+â– <a href=./weblink.cgi?page=disa>å¤‰æ›´/å‰Šé™¤</a>â– 
+â– <a href=./weblink.html>ç™»éŒ²ã®æ±ºã¾ã‚Š</a>â– 
 </b></font></td></tr></table></td></tr>
 <tr><td align=center bgcolor="#EEFFFF">
 <form action=./weblink.cgi?dm= method=POST>
@@ -19,38 +19,38 @@
 <input type=hidden name=masdel value="on">
 <table width=90% border=0 cellspacing=1 cellpadding=5><tr>
 <td bgcolor="#EEFFEE" align=center colspan=2>
-<font size=4>***** <b></b> [6Œ] *****</font></td></tr>
+<font size=4>***** <b></b> [6ä»¶] *****</font></td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0089"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://popup3.tok2.com/home2/kouta2/framepage1.htm" target="_top"><b>RPGƒŠƒ“ƒO`KOUTA‚Ì•”‰®`</b></a>
-<br>@<font size=2>RPGuLegend StoryvƒVƒŠ[ƒY‚Ìì¬A”z•zBƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“B </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://popup3.tok2.com/home2/kouta2/framepage1.htm" target="_top"><b>RPGãƒªãƒ³ã‚°ã€œKOUTAã®éƒ¨å±‹ã€œ</b></a>
+<br>ã€€<font size=2>RPGã€ŒLegend Storyã€ã‚·ãƒªãƒ¼ã‚ºã®ä½œæˆã€é…å¸ƒã€‚ã‚³ãƒŸãƒ¥ãƒ‹ã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã€‚ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0080"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://members.jcom.home.ne.jp/a-isi/index.html" target="_top"><b>‚‰‚“‚‰‚Ìƒz[ƒ€Eƒy[ƒW</b></a>
-<br>@<font size=2>‚d‚u‚`ŒnƒTƒCƒg‚Å‚·‚ªA‚s‚r¬àu–²‚Ì’†v‚àŒöŠJ’†‚Å‚·B‚æ‚ë‚µ‚¯‚ê‚Î”`‚¢‚Ä‚­‚¾‚³‚¢B </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://members.jcom.home.ne.jp/a-isi/index.html" target="_top"><b>ï½‰ï½“ï½‰ã®ãƒ›ãƒ¼ãƒ ãƒ»ãƒšãƒ¼ã‚¸</b></a>
+<br>ã€€<font size=2>ï¼¥ï¼¶ï¼¡ç³»ã‚µã‚¤ãƒˆã§ã™ãŒã€ï¼´ï¼³å°èª¬ã€Œå¤¢ã®ä¸­ã€ã‚‚å…¬é–‹ä¸­ã§ã™ã€‚ã‚ˆã‚ã—ã‘ã‚Œã°è¦—ã„ã¦ãã ã•ã„ã€‚ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0033"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.geocities.co.jp/Playtown-Spade/5805/" target="_top"><b>‚fƒvƒƒWƒFƒNƒg‚Ìƒy[ƒW</b></a>
-<br>@<font size=2>L”ö ãÄ‚ÌŠ‘®‚·‚é“¯lƒQ[ƒ€W’c‚Ìƒy[ƒW‚Å‚·B¬à‚â‚çMIDI‚â‚ç‚¢‚ë‚¢‚ë‚Æ‚ ‚è‚Ü‚·B </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.geocities.co.jp/Playtown-Spade/5805/" target="_top"><b>ï¼§ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ãƒšãƒ¼ã‚¸</b></a>
+<br>ã€€<font size=2>åºƒå°¾ ç¿”ã®æ‰€å±žã™ã‚‹åŒäººã‚²ãƒ¼ãƒ é›†å›£ã®ãƒšãƒ¼ã‚¸ã§ã™ã€‚å°èª¬ã‚„ã‚‰MIDIã‚„ã‚‰ã„ã‚ã„ã‚ã¨ã‚ã‚Šã¾ã™ã€‚ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0010"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.kigurumi.net" target="_top"><b>“c‚Ü‚è‚Ì‚¨‚à‚¿‚á” </b></a>
-<br>@<font size=2>–{“–‚Ì•Ïg‚Íƒ€ƒŠ‚¾‚¯‚ÇAƒRƒXƒvƒŒ‚µ‚½‚Á‚ÄŒÀŠE‚ªB‚Å‚àu’…‚®‚é‚Ýv‚È‚çŒ©‚½–Ú‚à‹CŽ‚¿‚à—‚ÌŽqô </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.kigurumi.net" target="_top"><b>å¹ç”°ã¾ã‚Šã®ãŠã‚‚ã¡ã‚ƒç®±</b></a>
+<br>ã€€<font size=2>æœ¬å½“ã®å¤‰èº«ã¯ãƒ ãƒªã ã‘ã©ã€ã‚³ã‚¹ãƒ—ãƒ¬ã—ãŸã£ã¦é™ç•ŒãŒã€‚ã§ã‚‚ã€Œç€ãã‚‹ã¿ã€ãªã‚‰è¦‹ãŸç›®ã‚‚æ°—æŒã¡ã‚‚å¥³ã®å­â™ª </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0006"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://isweb5.infoseek.co.jp/sports/kardy/" target="_top"><b>Kardy—Fæƒ¤“X</b></a>
-<br>@<font size=2>‚¿‚å‚Á‚Æ¸_•sŒ’‘S‚È‘ål‚Ì–²‚ðE‚Á‚Ä‚Ý‚Ü‚¹‚ñ‚©HƒXƒ|[ƒc‚©‚ç•¶‰»Œn‚Ü‚ÅAŽG‘½‚ÈƒJƒeƒSƒŠ[‚Å‚ ‚È‚½‚Ìu‹Õüv’T‚µ‚Ä‚Ý‚Ä‚­‚¾‚³‚¢B </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://isweb5.infoseek.co.jp/sports/kardy/" target="_top"><b>Kardyå‹è« å•†åº—</b></a>
+<br>ã€€<font size=2>ã¡ã‚‡ã£ã¨ç²¾ç¥žä¸å¥å…¨ãªå¤§äººã®å¤¢ã‚’æ‹¾ã£ã¦ã¿ã¾ã›ã‚“ã‹ï¼Ÿã‚¹ãƒãƒ¼ãƒ„ã‹ã‚‰æ–‡åŒ–ç³»ã¾ã§ã€é›‘å¤šãªã‚«ãƒ†ã‚´ãƒªãƒ¼ã§ã‚ãªãŸã®ã€Œç´ç·šã€æŽ¢ã—ã¦ã¿ã¦ãã ã•ã„ã€‚ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0005"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://web.archive.org/web/20011006214104/http://bbs.yasuragi.or.jp/~issay/link/links.html" target="_top"><b>‹Œu­”N­—•¶ŒÉEƒŠƒ“ƒNWv</b></a>
-<br>@<font size=2>uThe Internet Archivev‚É•Û‘¶‚³‚ê‚Ä‚¢‚½2001”N10ŒŽ‚T“ú 16:04XV‚ÌÅVƒo[ƒWƒ‡ƒ“‚Å‚·B“o˜^‚ÌŽQl‚É¥”ñŠˆ—p‚ðB </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://web.archive.org/web/20011006214104/http://bbs.yasuragi.or.jp/~issay/link/links.html" target="_top"><b>æ—§ã€Œå°‘å¹´å°‘å¥³æ–‡åº«ãƒ»ãƒªãƒ³ã‚¯é›†ã€</b></a>
+<br>ã€€<font size=2>ã€ŒThe Internet Archiveã€ã«ä¿å­˜ã•ã‚Œã¦ã„ãŸ2001å¹´10æœˆï¼•æ—¥ 16:04æ›´æ–°ã®æœ€æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã§ã™ã€‚ç™»éŒ²ã®å‚è€ƒã«æ˜¯éžæ´»ç”¨ã‚’ã€‚ </font>
 </td></tr>
-<tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="ƒƒ“ƒeíœ"><br>
-<font size=2>íœFƒ}ƒXƒ^[ƒL[‚ð‹L“ü‚µ‚Ä‰º‚³‚¢B</font></form>
+<tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="ãƒ¡ãƒ³ãƒ†å‰Šé™¤"><br>
+<font size=2>å‰Šé™¤ï¼šãƒžã‚¹ã‚¿ãƒ¼ã‚­ãƒ¼ã‚’è¨˜å…¥ã—ã¦ä¸‹ã•ã„ã€‚</font></form>
 </td></tr></table>
-<p align=center><center><b>y@‘S6ŒI—¹@z</b></center></p>
+<p align=center><center><b>ã€ã€€å…¨6ä»¶çµ‚äº†ã€€ã€‘</b></center></p>
 </td></tr></table>
 </center></p>
 <form action=./weblink.cgi method=POST>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=submit value="LINK TOP"></form>
 <p align=right><font size=2><a href="http://www.pmcj.com/" target="top">WEB LINK [SPS] ver3.34 by Tomey</a></font></p>
-<p> ƒŠƒ“ƒNW‚É‚Â‚¢‚Ä‚Ì‚¨–â‚¢‡‚í‚¹@<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>
+<p> ãƒªãƒ³ã‚¯é›†ã«ã¤ã„ã¦ã®ãŠå•ã„åˆã‚ã›ã€€<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>

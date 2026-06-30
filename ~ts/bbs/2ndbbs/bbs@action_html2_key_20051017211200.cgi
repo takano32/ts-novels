@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,46 +52,46 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-����i���邢�͑��o���j 2
+無題（あるいは蔵出し） 2
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�a�`�e����</center><tr>
+<center>作者：ＢＡＦさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�~���~���ƃZ�~�̐�����蒆�A�����Ă���B<br>�@�O���E���h���A���z�̌��𔽎˂��A�����ۂ��P���Ă���B<br>�@�����������̃v�[������͎��܁A���ɔ�э��މ����������Ă���B<br>�@�Ȃ�ł��Ȃ��A�ċx�݂Ɉ���B<br>�����_���g���ȉĂ̕��������Ɠ����ɗ��ꑱ���Ă����B<br>�u���Ȃ񂾂�A�Ċ��u�K���āv<br>�@����ȓƂ茾�������Ȃ��琧���p�̏��N���A�w���J�o�����������~���Ȃ���Z�����蔲���ė���B<br>�����ɂ��߂�ǂ������ƌ������悤�ȕ���B<br>�@���킸�ƒm�ꂽ�{�҂̎�l���A�F�_�F��ł���B<br>�@�Ƃ肠�����ϔO�������̂悤�Ƀg�{�g�{�ƍZ�ɂɓ����Ă����F��B<br>�@���ʔ�����㗚�����o���A����グ�����F��̓������~�܂�B<br>�u����H�v<br>�@������̓n��L�������m���������������Ă����B<br>�w����͊m���E�E�E�x<br>�@�F�炪���̏����̖��O���]�Ƃ������Ƃ��v���o�����u�ԁA���̏����𐔐l�̏����k���͂�ł����B<br>�w�Ȃ񂾁H�x<br>�@�]���͂ޏ����k�����ɉ����s�����̂������ڂ��Â炷�F��B<br>�@�Ă̒�A������₢�l�߂�悤�ɉ����{����Ă���悤���B<br>�u������I�v<br>�@�]�������悤�Ƌ삯�o���F��B<br>�u����F�_�A�ǂ��ɍs�������͂����������v<br>�@�����Ȃ萺���|�����U������F��B����ƌ��ɂ��̂܂ɂ��S�C�������Ă����B<br>�u���A�搶�B�����߁A�����߁v<br>�@��������Ԃ��������A�w���w���Đ�������B<br>�u�͂��A���������Ƃ�񂾂��O�́H������������Ȃ����v<br>�u���H�v<br>�@�U������Ƃ����n��L���ɂ͒N�����Ȃ������B<br>�w��΂��A�ǂ����ɘA��čs���ꂽ���x<br>�@�Q�Ăċ삯�o�����A�v���؂�S�C�ɘr�����܂��B<br>�u���瓦���悤�Ƃ��Ă����ʂ����I���������u�K���n�܂�B���������I�v<br>�@���邸��ƈ��������Ă����F��B�����A�]�̖������F�邱�Ƃ����ł��Ȃ������B<br><br>�u��̂ǂ��������I�v<br>�̈�ٗ��̑q�ɁB���A�]�͂����ŏ����k�����ɋl����󂯂Ă����B<br>�u�ǁA�ǂ����������āH�v<br>�@���ǂ��ǂ��Ȃ���u�˕Ԃ��]�B<br>�u�u�Ƃڂ��Ȃ��ł�I�v�v<br>�@�����B����Ăɓ{��B�ڂ��Ԃ��������߂�]�B<br>�u����̎�����B����̃V�E�A�E�C�v<br>�u���񂽂̂����ŕ������̂�v<br>�u����ȁE�E�E�v<br>�u�A�^�V�m���Ă�񂾂���B�����A���񂽂��E��y�ƌ��܂��Ă�́v<br>�u���A����́E�E�v<br>�u��́A���񂽂����Ă���A���������̂�B�E��y�A���X���ߑ����悤�ɂȂ邵�A���K�ł��~�X���邵�v<br>�u��̂��񂽁A�E��y�̉��Ȃ̂�I�v<br>�u����Ȃ���I�E����񂪏���ɂ���Ă邱�Ƃ�����B�������Ɋ����Ȃ��ł��Č����Ă�̂ɁI�v<br>�u�Ȃ�ł����āI�H���悻�̌������́H�v<br>�@�]���͂ޗւ����܂�B���ɂ��݂͂������ƌ������ؔ������󋵂��B<br>�u�����I�Ȃɂ���Ă�񂾁I�v<br>�@�{�萺�Ƌ��ɔw�̍����������삯�ė���B<br>�u���A�E��y�I�v<br>�@�����������Q�ĂĎU��U��ɓ�����B<br>�@�]���������̏�Ɏc���ꂽ�B<br>�u�����A�]���v���H�v<br>�@���������Ȃ���삯���E�B<br>�@�]�͊�𕚂����܂܁B�ꌾ������ׂ�Ȃ��B�S�Ȃ����k���Ă���悤�ɂ�������B<br>�u�]�H�v<br>�@�S�z�����Ɋ��`�����ޔE�B�s�ӂɖ]������������B<br>�u�������A�E�����͂������B�{�N�̑O�Ɍ���āA�{�N�������āB�X�[�p�[�}���ɂł��Ȃ�������H�����{�N�Ɋ����Ȃ��ł�I�v<br>�@�ڂɗ܂𕂂��ׁA�܂������Ă�]�B<br>�u�Ȃ��A�������Ă�񂾂�]�H�v<br>�@�]�̌����ɂ����낮�E�B<br>�u�ق��Ƃ��Ă��Č����Ă�񂾂�I�v<br>�@���������ƁA�E��˂���΂��O�ɋ삯�o���Ă������B<br>�u���A�҂Ă�]�I���ɂ��v<br>�@�ǂ����A�]�񂾔��q�ɑ���ɂ߂Ă��܂����悤���B<br>�@���̐��ɐU������]�B��������u���߂炢�����������̂̂�����x�삯�o���Ă����B<br>�u�]�I�̂��݂��[�I�v<br>�@�]�͔E�̐���U��؂邩�̂悤�ɍZ��������蔲���čs�����B<br>
+ミンミンとセミの声が回り中、響いている。<br>　グラウンドが、太陽の光を反射し、白っぽく輝いている。<br>　すこし遠くのプールからは時折、水に飛び込む音が聞こえてくる。<br>　なんでもない、夏休みに一日。<br>白い雲も暖かな夏の風もいつもと同じに流れ続けていた。<br>「何なんだよ、夏期講習って」<br>　そんな独り言を言いながら制服姿の少年が、学生カバンを抱え頭を掻きながら校門を潜り抜けて来る。<br>いかにもめんどくさいと言ったような風情だ。<br>　言わずと知れた本編の主人公、皆神友也である。<br>　とりあえず観念したかのようにトボトボと校舎に入っていく友也。<br>　下駄箱から上履きを出し、顔を上げた時友也の動きが止まる。<br>「あれ？」<br>　少し先の渡り廊下を見知った少女が歩いていた。<br>『あれは確か・・・』<br>　友也がその少女の名前が望ということを思い出した瞬間、その少女を数人の女生徒が囲んでいく。<br>『なんだ？』<br>　望を囲む女生徒たちに何か不穏ものを感じ目を凝らす友也。<br>　案の定、何かを問い詰めるように何か怒鳴りつけているようだ。<br>「あいつら！」<br>　望を助けようと駆け出す友也。<br>「こら皆神、どこに行く教室はこっちだぞ」<br>　いきなり声を掛けられ振り向く友也。すると後ろにいつのまにか担任が立っていた。<br>「あ、先生。いじめ、いじめ」<br>　説明する間もおしく、指を指して説明する。<br>「はあ、何をいっとるんだお前は？何も無いじゃないか」<br>「え？」<br>　振り向くともう渡り廊下には誰も居なかった。<br>『やばい、どこかに連れて行かれたか』<br>　慌てて駆け出すが、思い切り担任に腕をつかまれる。<br>「こら逃げようとしても無駄だぞ！さあもう講習が始まる。こっちだ！」<br>　ずるずると引きずられていく友也。もう、望の無事を祈ることしかできなかった。<br><br>「一体どういう事！」<br>体育館裏の倉庫。今、望はそこで女生徒たちに詰問を受けていた。<br>「ど、どういう事って？」<br>　おどおどしながら訊ね返す望。<br>「「とぼけないでよ！」」<br>　少女達が一斉に怒鳴る。目をつぶり首をすくめる望。<br>「昨日の試合よ。昨日のシ・ア・イ」<br>「あんたのせいで負けたのよ」<br>「そんな・・・」<br>「アタシ知ってるんだから。一昨日、あんたが忍先輩と喧嘩してるの」<br>「あ、あれは・・」<br>「大体、あんたが来てから、おかしいのよ。忍先輩、時々ため息つくようになるし、練習でもミスするし」<br>「一体あんた、忍先輩の何なのよ！」<br>「しらないよ！忍ちゃんが勝手にやってることだもん。あたしに干渉しないでって言ってるのに！」<br>「なんですって！？何よその言い草は？」<br>　望を囲む輪が狭まる。今にも掴みかからんと言った切迫した状況だ。<br>「おい！なにやってるんだ！」<br>　怒鳴り声と共に背の高い少女が駆けて来る。<br>「し、忍先輩！」<br>　少女たちが慌てて散り散りに逃げる。<br>　望だけがその場に残された。<br>「おい、望大丈夫か？」<br>　そう言いながら駆け寄る忍。<br>　望は顔を伏せたまま。一言もしゃべらない。心なしか震えているようにも見える。<br>「望？」<br>　心配そうに顔を覗き込む忍。不意に望が顔をあげた。<br>「いっつも、忍ちゃんはそうだ。ボクの前に現れて、ボクを助けて。スーパーマンにでもなったつもり？もうボクに干渉しないでよ！」<br>　目に涙を浮かべ、まくし立てる望。<br>「なっ、何言ってるんだよ望？」<br>　望の剣幕にたじろぐ忍。<br>「ほっといてって言ってるんだよ！」<br>　そう言うと、忍を突き飛ばし外に駆け出していった。<br>「あ、待てよ望！っ痛え」<br>　どうやら、転んだ拍子に足を痛めてしまったようだ。<br>　その声に振り向く望。しかし一瞬ためらいを見せたもののもう一度駆け出していく。<br>「望！のぞみぃー！」<br>　望は忍の声を振り切るかのように校門をくぐり抜けて行った。<br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�a�`�e
+ＢＡＦ
 </address>
-2005�N10��17��(��) 21��12��00�b ���J<br>
+2005年10月17日(月) 21時12分00秒 公開<br>
 <!--218.110.72.156-->
-<font color=red>�����̍�i�̒��쌠�͂a�`�e����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はＢＡＦさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-��҂���̃��b�Z�[�W�͂���܂���B
+作者からのメッセージはありません。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3><th colspan=4>
-���z�L���̓��e�͌��݂���܂���B
+感想記事の投稿は現在ありません。
 </th></tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -99,24 +99,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20051017211200">
 <input type=hidden name="num_r" value="20051017211200">
 <input type=hidden name="url" value="">
@@ -132,17 +132,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20051017211200">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -152,9 +152,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

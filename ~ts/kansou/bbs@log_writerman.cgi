@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>ѓ‰ѓCѓ^Ѓ[ѓ}ѓ“‚і‚сЌм•iЃ@Љґ‘zЊfЋ¦”В</title>
+<title>гѓ©г‚¤г‚їгѓјгѓћгѓігЃ•г‚“дЅње“ЃгЂЂж„џжѓіжЋІз¤єжќї</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>ѓ‰ѓCѓ^Ѓ[ѓ}ѓ“‚і‚сЌм•iЃ@Љґ‘zЊfЋ¦”В</font>
+<font size=5>гѓ©г‚¤г‚їгѓјгѓћгѓігЃ•г‚“дЅње“ЃгЂЂж„џжѓіжЋІз¤єжќї</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi" name="F1">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="writerman">
 <input type=hidden name="nj" value="fyFWVrONIE">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-–ј‘O <input type=text name="name" size=45 value="" maxlength=64><br>
+еђЌе‰Ќ <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-“а—e Ѓ_ ‘и–ј <input type=text name="subject" size=45 maxlength=80 value=""><br>
+е†…е®№ пјј йЎЊеђЌ <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-ЌнЏњѓLЃ[ <input type=password name="pwd" size=10 value=""> “ь—НѓRЃ[ѓh lZgVX4  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="lZgVX4"> <Script language=vbscript>
+е‰Љй™¤г‚­гѓј <input type=password name="pwd" size=10 value=""> е…ҐеЉ›г‚ігѓјгѓ‰ lZgVX4  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="lZgVX4"> <Script language=vbscript>
 <!--
  document.F1.rcode.value=document.F1.hrcode.value
  -->^n</script>
-<input type=submit value="Џ‘‚«Ќћ‚Ю"><input type=reset value="Џ‘‚«’ј‚µ"><br></td></tr></table>
+<input type=submit value="ж›ёгЃЌиѕјг‚Ђ"><input type=reset value="ж›ёгЃЌз›ґгЃ—"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>Ѓ¦ “ЉЌe‚ЙЌЕ’бЊА•K—v‚ИЌЂ–Ъ‚НЃA–ј‘O‚Ж“а—e‚Е‚·.<br>Ѓ¦ ‚Ь‚Ѕ‹LЋ–“ЉЌe‚МЌЫ‚НЃA<B>“ь—НѓRЃ[ѓh‰E‘¤‚М”јЉp‰pђ”Ћљ‚U•¶Ћљ‚рЃA‚»‚М‰E‘¤‚Мѓ{ѓbѓNѓX‚Й“ь—Н‚µ‚Д‚­‚ѕ‚і‚ў.</B><BR>Ѓ¦ ЌнЏњѓLЃ[‚рђЭ’и‚·‚й‚±‚Ж‚ЕЃAЋ©•Є‚М“ЉЌe‚µ‚Ѕ‹LЋ–‚рЌнЏњ/ЏCђі‚·‚й‚±‚Ж‚Є‚Е‚«‚Ь‚·.<br>Ѓ¦ –ј‘O‹L“ь—“‚р‹у‚Й‚µ‚ДЃuЏ‘‚«Ќћ‚ЮЃv‚р‰џ‚·‚±‚Ж‚ЕѓNѓbѓLЃ[‚рЏБ‹Ћ‚Е‚«‚Ь‚·.<br>Ѓ¦ ‘и–ј‚Ж“а—e‚р‹у‚Й‚µ‚ДЃuЏ‘‚«Ќћ‚ЮЃv‚р‰џ‚·‚±‚Ж‚ЕѓNѓbѓLЃ[‚рЌД”­Ќs‚Е‚«‚Ь‚·.<br></font>
+<font color=#608080>вЂ» жЉ•зЁїгЃ«жњЂдЅЋй™ђеї…и¦ЃгЃЄй …з›®гЃЇгЂЃеђЌе‰ЌгЃЁе†…е®№гЃ§гЃ™.<br>вЂ» гЃѕгЃџиЁдє‹жЉ•зЁїгЃ®йљ›гЃЇгЂЃ<B>е…ҐеЉ›г‚ігѓјгѓ‰еЏіеЃґгЃ®еЌЉи§’и‹±ж•°е­—пј–ж–‡е­—г‚’гЂЃгЃќгЃ®еЏіеЃґгЃ®гѓњгѓѓг‚Їг‚№гЃ«е…ҐеЉ›гЃ—гЃ¦гЃЏгЃ гЃ•гЃ„.</B><BR>вЂ» е‰Љй™¤г‚­гѓјг‚’иЁ­е®љгЃ™г‚‹гЃ“гЃЁгЃ§гЂЃи‡Єе€†гЃ®жЉ•зЁїгЃ—гЃџиЁдє‹г‚’е‰Љй™¤/дї®ж­ЈгЃ™г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™.<br>вЂ» еђЌе‰ЌиЁе…Ґж¬„г‚’з©єгЃ«гЃ—гЃ¦гЂЊж›ёгЃЌиѕјг‚ЂгЂЌг‚’жЉјгЃ™гЃ“гЃЁгЃ§г‚Їгѓѓг‚­гѓјг‚’ж¶€еЋ»гЃ§гЃЌгЃѕгЃ™.<br>вЂ» йЎЊеђЌгЃЁе†…е®№г‚’з©єгЃ«гЃ—гЃ¦гЂЊж›ёгЃЌиѕјг‚ЂгЂЌг‚’жЉјгЃ™гЃ“гЃЁгЃ§г‚Їгѓѓг‚­гѓјг‚’е†Ќз™єиЎЊгЃ§гЃЌгЃѕгЃ™.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>ђV’…Џ‡</strong> 1 ЃЁ 10 <strong>ЌЕ‘е‹L^•ЫЋќђ”</strong> 100 <!-- ЋАЌsЋћЉФ 0.000 CPU•b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ‚Н3“ъ€И“а‚М‹LЋ–)</small>
+<strong>ж–°зќЂй †</strong> 1 в†’ 10 <strong>жњЂе¤§иЁйЊІдїќжЊЃж•°</strong> 100 <!-- е®џиЎЊж™‚й–“ 0.000 CPUз§’ --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> гЃЇ3ж—Ґд»Ґе†…гЃ®иЁдє‹)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,54 +48,54 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[450]</font> <font size=4 color=#40c0c0> ‹v•ы‚Ф‚и‚Мђ№Ѓ›–‚‡U</font>
+<font size=2>[450]</font> <font size=4 color=#40c0c0> д№…ж–№гЃ¶г‚ЉгЃ®иЃ–в—‹й­”в…Ў</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/09/09 (“ъ) 01:13:45 <strong>Ѓ¤</strong> <a href="mailto:http://alleydog_bowwow@yahoo.co.jp">ѓoѓЊѓbѓg</a> </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200709090011345&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200709090011345"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/09/09 (ж—Ґ) 01:13:45 <strong>в–Ѕ</strong> <a href="mailto:http://alleydog_bowwow@yahoo.co.jp">гѓђгѓ¬гѓѓгѓ€</a> </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200709090011345_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200709090011345"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Ѓ@‚Ё‹v‚µ‚Ф‚и‚МѓoѓЊѓbѓg‚Е‚·ЃB‘и–ј‚Й€У–Ў‚НЃA‚ ‚Ь‚и‚И‚©‚Б‚Ѕ‚и‚µ‚Ь‚·ЃB<br>
-Ѓ@‚Ж‚ў‚¤‚н‚Ї‚ЕЃAЏ‹‚ў–й‚р”q“З‚і‚№‚Д‚ў‚Ѕ‚ѕ‚«‚Ь‚µ‚ЅЃB<br>
+<font size=3 color=#606060>гЂЂгЃЉд№…гЃ—гЃ¶г‚ЉгЃ®гѓђгѓ¬гѓѓгѓ€гЃ§гЃ™гЂ‚йЎЊеђЌгЃ«ж„Џе‘ігЃЇгЂЃгЃ‚гЃѕг‚ЉгЃЄгЃ‹гЃЈгЃџг‚ЉгЃ—гЃѕгЃ™гЂ‚<br>
+гЂЂгЃЁгЃ„гЃ†г‚ЏгЃ‘гЃ§гЂЃжљ‘гЃ„е¤њг‚’ж‹ќиЄ­гЃ•гЃ›гЃ¦гЃ„гЃџгЃ гЃЌгЃѕгЃ—гЃџгЂ‚<br>
 <br>
-Ѓ@‘иЌЮ‚НЃw•П‚н‚Б‚Ѕ’К‚и–‚Ѓx‚ЖЊѕ‚¤‚±‚Ж‚ЕЃA‚Ж‚Д‚а‹»–Ўђ[‚©‚Б‚Ѕ‚Е‚·ЃB–‚–@‚©‰Ѕ‚©‚©‚ЖЋv‚Б‚Д‚ў‚Ѕ‚зЃA‰Ѕ‚©‚М‰ИЉw‹ZЏp‚ѕ‚Б‚Ѕ‚±‚Ж‚аЃA–l‚МђS‚р‚­‚·‚®‚Б‚Д‚ў‚Ѕ‚иЃB<br>
-Ѓ@€к”Ф€уЏЫ‚ЙЋc‚Б‚Ѕ‚М‚ЄЃAЃu‰ґ‚Й‚Н•К‚М—цђl‚Є‚ў‚й‚©‚з•К‚к‚Д‚­‚кЃv‚Б‚ДЊѕ‚Б‚ЅѓVЃ[ѓ“‚Е‚·‚ЛЃB‚»‚±‚Ь‚Е‚µ‚ї‚б‚¤‚©ЃB‚Е‚аЃAѓnѓbѓsЃ[ѓGѓ“ѓh‚Б‚Д‚±‚Ж‚Е‚Я‚Е‚Ѕ‚µ‚Я‚Е‚Ѕ‚µ‚Е‚·‚ЛЃB‚ ‚ЖЃA”ЮЏ—‚МЃu‚З‚¤‚№‚И‚зЉy‚µ‚с‚¶‚б‚Ё‚¤Ѓv‚Й‚НЃAЏО‚Б‚ї‚б‚ў‚Ь‚µ‚ЅЃB‚Ж‚ў‚ў‚Ь‚·‚©ЃA—V‚О‚к‚Д‚ў‚йЋеђlЊц‚ЙЃB<br>
+гЂЂйЎЊжќђгЃЇгЂЋе¤‰г‚ЏгЃЈгЃџйЂљг‚Љй­”гЂЏгЃЁиЁЂгЃ†гЃ“гЃЁгЃ§гЂЃгЃЁгЃ¦г‚‚и€€е‘іж·±гЃ‹гЃЈгЃџгЃ§гЃ™гЂ‚й­”жі•гЃ‹дЅ•гЃ‹гЃ‹гЃЁжЂќгЃЈгЃ¦гЃ„гЃџг‚‰гЂЃдЅ•гЃ‹гЃ®з§‘е­¦жЉЂиЎ“гЃ гЃЈгЃџгЃ“гЃЁг‚‚гЂЃеѓ•гЃ®еїѓг‚’гЃЏгЃ™гЃђгЃЈгЃ¦гЃ„гЃџг‚ЉгЂ‚<br>
+гЂЂдёЂз•ЄеЌ°и±ЎгЃ«ж®‹гЃЈгЃџгЃ®гЃЊгЂЃгЂЊдїєгЃ«гЃЇе€ҐгЃ®жЃ‹дєєгЃЊгЃ„г‚‹гЃ‹г‚‰е€Ґг‚ЊгЃ¦гЃЏг‚ЊгЂЌгЃЈгЃ¦иЁЂгЃЈгЃџг‚·гѓјгѓігЃ§гЃ™гЃ­гЂ‚гЃќгЃ“гЃѕгЃ§гЃ—гЃЎг‚ѓгЃ†гЃ‹гЂ‚гЃ§г‚‚гЂЃгѓЏгѓѓгѓ”гѓјг‚Ёгѓігѓ‰гЃЈгЃ¦гЃ“гЃЁгЃ§г‚ЃгЃ§гЃџгЃ—г‚ЃгЃ§гЃџгЃ—гЃ§гЃ™гЃ­гЂ‚гЃ‚гЃЁгЂЃеЅјеҐігЃ®гЂЊгЃ©гЃ†гЃ›гЃЄг‚‰жҐЅгЃ—г‚“гЃг‚ѓгЃЉгЃ†гЂЌгЃ«гЃЇгЂЃз¬‘гЃЈгЃЎг‚ѓгЃ„гЃѕгЃ—гЃџгЂ‚гЃЁгЃ„гЃ„гЃѕгЃ™гЃ‹гЂЃйЃЉгЃ°г‚ЊгЃ¦гЃ„г‚‹дё»дєєе…¬гЃ«гЂ‚<br>
 <br>
-Ѓ@‚ ‚кЃH<br>
-Ѓ@“oЏкђl•Ё‚М‚±‚М‚Qђl‚ЙЃA–ј‘O‚ЄѓAЃ[ѓЉѓ}ѓZѓ“ѓJЃH<br>
+гЂЂгЃ‚г‚Њпјџ<br>
+гЂЂз™»е ґдєєз‰©гЃ®гЃ“гЃ®пј’дєєгЃ«гЂЃеђЌе‰ЌгЃЊг‚ўгѓјгѓЄгѓћг‚»гѓіг‚«пјџ<br>
 <br>
-Ѓ@‚в‚Б‚П‚и‚¤‚Ь‚­‚Ь‚Ж‚Я‚з‚к‚Д‚ў‚И‚ў‚ЁѓoѓJ‚і‚сЃi–lЃj‚НЃA‚±‚М•У‚ЕЋё—з‚ў‚Ѕ‚µ‚Ь‚·ЃBЋ·•M‚М‚Щ‚¤ЃA‚±‚к‚©‚з‚а‚Є‚с‚О‚Б‚Д‚­‚ѕ‚і‚ў‚ЛЃB‰ћ‰‡‚µ‚Д‚ў‚Ь‚·ЃB</font>
+гЂЂг‚„гЃЈгЃ±г‚ЉгЃ†гЃѕгЃЏгЃѕгЃЁг‚Ѓг‚‰г‚ЊгЃ¦гЃ„гЃЄгЃ„гЃЉгѓђг‚«гЃ•г‚“пј€еѓ•пј‰гЃЇгЂЃгЃ“гЃ®иѕєгЃ§е¤±з¤јгЃ„гЃџгЃ—гЃѕгЃ™гЂ‚еџ·з­†гЃ®гЃ»гЃ†гЂЃгЃ“г‚ЊгЃ‹г‚‰г‚‚гЃЊг‚“гЃ°гЃЈгЃ¦гЃЏгЃ гЃ•гЃ„гЃ­гЂ‚еїњжЏґгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[449]</font> <font size=4 color=#40c0c0> ‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·</font>
+<font size=2>[449]</font> <font size=4 color=#40c0c0> гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/08/29 (ђ…) 06:09:12 <strong>Ѓ¤</strong> <a href="mailto:kagawa@elf.coara.or.jp">ѓ‰ѓCѓ^Ѓ[ѓ}ѓ“</a> </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200708293060912&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200708293060912"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/08/29 (ж°ґ) 06:09:12 <strong>в–Ѕ</strong> <a href="mailto:kagawa@elf.coara.or.jp">гѓ©г‚¤г‚їгѓјгѓћгѓі</a> </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200708293060912_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200708293060912"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Љґ‘z‚З‚¤‚а‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·ЃB<br>
+<font size=3 color=#606060>ж„џжѓігЃ©гЃ†г‚‚гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚<br>
 <br>
-ѓJѓMѓ„ѓbѓR‚і‚с<br>
-<font color="#ff88cc">Ѓ„Џ‹‚ў‰Д‚М‚s‚rѓlѓ^ЃEЃEЃE‚Ь‚і‚Й”M•—‚М‚І‚Ж‚«–Ў‚н‚ў‚Е‚·‚ЛЃB<br>
-Ѓ„ЋеђlЊц‚МЏ—ђ«Љµ‚к‚МѓvѓЌѓZѓX‚а‰¤“№‚ИѓpѓЏЃ[‚рЉґ‚¶‚Ь‚·ЃB</font><br>
-‚ї‚е‚Б‚Ж”M‰Я‚¬ЃH<br>
-‰¤“№‚И‚М‚Н‚ ‚Ь‚и‚Р‚Л‚з‚И‚ў•ы‚Є‚±‚±(Џ­”NЏ­Џ—•¶ЊЙ)“I‚Й‚Н‚ў‚ў‚ЖЋv‚Б‚Ѕ‚а‚с‚ЕЃB<br>
+г‚«г‚®гѓ¤гѓѓг‚ігЃ•г‚“<br>
+<font color="#ff88cc">пјћжљ‘гЃ„е¤ЏгЃ®пјґпјігѓЌг‚їгѓ»гѓ»гѓ»гЃѕгЃ•гЃ«з†±йўЁгЃ®гЃ”гЃЁгЃЌе‘іг‚ЏгЃ„гЃ§гЃ™гЃ­гЂ‚<br>
+пјћдё»дєєе…¬гЃ®еҐіжЂ§ж…Јг‚ЊгЃ®гѓ—гѓ­г‚»г‚№г‚‚зЋ‹йЃ“гЃЄгѓ‘гѓЇгѓјг‚’ж„џгЃгЃѕгЃ™гЂ‚</font><br>
+гЃЎг‚‡гЃЈгЃЁз†±йЃЋгЃЋпјџ<br>
+зЋ‹йЃ“гЃЄгЃ®гЃЇгЃ‚гЃѕг‚ЉгЃІгЃ­г‚‰гЃЄгЃ„ж–№гЃЊгЃ“гЃ“(е°‘е№ґе°‘еҐіж–‡еє«)зљ„гЃ«гЃЇгЃ„гЃ„гЃЁжЂќгЃЈгЃџг‚‚г‚“гЃ§гЂ‚<br>
 <br>
 <br>
-‚l‚n‚m‚c‚n‚і‚с<br>
-<font color="#ff88cc">Ѓ„‚Е‚а–{ђl‚Ѕ‚їЃA‚И‚с‚ѕ‚©‚с‚ѕ‚ЕЌK‚№‚»‚¤‚ѕ‚µЃiЏОЃjЃB<br>
-Ѓ„€к“r‚И”ЮЏ—Ѓ\Ѓ\”Ю‚Є‚И‚с‚©‰В€¤‚з‚µ‚ў‚Е‚·ЃB</font><br>
-‚в‚Б‚П‚и‚в‚й‚И‚зѓnѓbѓsЃ[ѓGѓ“ѓhЃA‚Ж‚ў‚¤ђlЉФ‚Е‚·‚©‚зЃAЋ„‚НЃB(‚ѕ‚Б‚Ѕ‚зЊі‚Й–Я‚µ‚Д‚в‚к‚жЃA‚Ж‚ў‚¤€УЊ©‚Н–іЋ‹(”љ))<br>
+пј­пјЇпј®пј¤пјЇгЃ•г‚“<br>
+<font color="#ff88cc">пјћгЃ§г‚‚жњ¬дєєгЃџгЃЎгЂЃгЃЄг‚“гЃ гЃ‹г‚“гЃ гЃ§е№ёгЃ›гЃќгЃ†гЃ гЃ—пј€з¬‘пј‰гЂ‚<br>
+пјћдёЂйЂ”гЃЄеЅјеҐівЂ”вЂ”еЅјгЃЊгЃЄг‚“гЃ‹еЏЇж„›г‚‰гЃ—гЃ„гЃ§гЃ™гЂ‚</font><br>
+г‚„гЃЈгЃ±г‚Љг‚„г‚‹гЃЄг‚‰гѓЏгѓѓгѓ”гѓјг‚Ёгѓігѓ‰гЂЃгЃЁгЃ„гЃ†дєєй–“гЃ§гЃ™гЃ‹г‚‰гЂЃз§ЃгЃЇгЂ‚(гЃ гЃЈгЃџг‚‰е…ѓгЃ«ж€»гЃ—гЃ¦г‚„г‚Њг‚€гЂЃгЃЁгЃ„гЃ†ж„Џи¦‹гЃЇз„Ўи¦–(з€†))<br>
 <br>
-<font color="#ff88cc">Ѓ„‚»‚к‚Й‚µ‚Д‚аЃA‚±‚МЃg’К‚и–‚Ѓh‚Ѕ‚їЃiЃHЃjЃA‚ў‚Б‚Ѕ‚ў‰ЅЏ€‚Еѓiѓmѓ}ѓVѓ“‚ЖѓEѓBѓ‹ѓX‚рЋи‚Й“ь‚к‚Ѕ‚М‚ѕ‚л‚¤ЃHЃ@ЃcЃc‚Н‚БЃIЃ@‚Р‚е‚Б‚Ж‚µ‚Дѓ{Ѓ[Ќ‘‚М‰A–d‚БЃIЃH</font><br>
-‚»ЃA‚»‚к‚Н•|‚ў‚Е‚·‚Л‚¦(ЏО)ЃB<br>
+<font color="#ff88cc">пјћгЃќг‚ЊгЃ«гЃ—гЃ¦г‚‚гЂЃгЃ“гЃ®вЂњйЂљг‚Љй­”вЂќгЃџгЃЎпј€пјџпј‰гЂЃгЃ„гЃЈгЃџгЃ„дЅ•е‡¦гЃ§гѓЉгѓЋгѓћг‚·гѓігЃЁг‚¦г‚Јгѓ«г‚№г‚’ж‰‹гЃ«е…Ґг‚ЊгЃџгЃ®гЃ г‚ЌгЃ†пјџгЂЂвЂ¦вЂ¦гЃЇгЃЈпјЃгЂЂгЃІг‚‡гЃЈгЃЁгЃ—гЃ¦гѓњгѓје›ЅгЃ®й™°и¬ЂгЃЈпјЃпјџ</font><br>
+гЃќгЂЃгЃќг‚ЊгЃЇжЂ–гЃ„гЃ§гЃ™гЃ­гЃ€(з¬‘)гЂ‚<br>
 <br>
-‚±‚к‚©‚з‚а‚З‚¤‚ј‚ж‚л‚µ‚­‚ЁЉи‚ў‚µ‚Ь‚·ЃB<br>
+гЃ“г‚ЊгЃ‹г‚‰г‚‚гЃ©гЃ†гЃћг‚€г‚ЌгЃ—гЃЏгЃЉйЎгЃ„гЃ—гЃѕгЃ™гЂ‚<br>
 </font>
 <p><a href="http://www3.coara.or.jp/~kagawa/writerman/" target="_top">http://www3.coara.or.jp/~kagawa/writerman/</a>
 </td></table>
@@ -104,65 +104,65 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[448]</font> <font size=4 color=#40c0c0> ‚Я‚Е‚Ѕ‚µ‚Я‚Е‚Ѕ‚µЃH</font>
+<font size=2>[448]</font> <font size=4 color=#40c0c0> г‚ЃгЃ§гЃџгЃ—г‚ЃгЃ§гЃџгЃ—пјџ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/08/22 (ђ…) 21:39:40 <strong>Ѓ¤</strong> ‚l‚n‚m‚c‚n </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200708223213940&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200708223213940"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/08/22 (ж°ґ) 21:39:40 <strong>в–Ѕ</strong> пј­пјЇпј®пј¤пјЇ </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200708223213940_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200708223213940"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Ѓ@ЃcЃc‚И‚М‚©ЃHЃ@‚Е‚а–{ђl‚Ѕ‚їЃA‚И‚с‚ѕ‚©‚с‚ѕ‚ЕЌK‚№‚»‚¤‚ѕ‚µЃiЏОЃjЃB<br>
-Ѓ@€к“r‚И”ЮЏ—Ѓ\Ѓ\”Ю‚Є‚И‚с‚©‰В€¤‚з‚µ‚ў‚Е‚·ЃB<br>
-Ѓ@‚»‚к‚Й‚µ‚Д‚аЃA‚±‚МЃg’К‚и–‚Ѓh‚Ѕ‚їЃiЃHЃjЃA‚ў‚Б‚Ѕ‚ў‰ЅЏ€‚Еѓiѓmѓ}ѓVѓ“‚ЖѓEѓBѓ‹ѓX‚рЋи‚Й“ь‚к‚Ѕ‚М‚ѕ‚л‚¤ЃHЃ@ЃcЃc‚Н‚БЃIЃ@‚Р‚е‚Б‚Ж‚µ‚Дѓ{Ѓ[Ќ‘‚М‰A–d‚БЃIЃH<br>
-Ѓ@‚±‚к‚ѕ‚Ї‚Е‚аЃA‚Ь‚Ѕ‚Р‚Ж‚В‚Ёb‚Є‚Е‚«‚»‚¤‚Е‚·‚ЛЃB<br>
+<font size=3 color=#606060>гЂЂвЂ¦вЂ¦гЃЄгЃ®гЃ‹пјџгЂЂгЃ§г‚‚жњ¬дєєгЃџгЃЎгЂЃгЃЄг‚“гЃ гЃ‹г‚“гЃ гЃ§е№ёгЃ›гЃќгЃ†гЃ гЃ—пј€з¬‘пј‰гЂ‚<br>
+гЂЂдёЂйЂ”гЃЄеЅјеҐівЂ”вЂ”еЅјгЃЊгЃЄг‚“гЃ‹еЏЇж„›г‚‰гЃ—гЃ„гЃ§гЃ™гЂ‚<br>
+гЂЂгЃќг‚ЊгЃ«гЃ—гЃ¦г‚‚гЂЃгЃ“гЃ®вЂњйЂљг‚Љй­”вЂќгЃџгЃЎпј€пјџпј‰гЂЃгЃ„гЃЈгЃџгЃ„дЅ•е‡¦гЃ§гѓЉгѓЋгѓћг‚·гѓігЃЁг‚¦г‚Јгѓ«г‚№г‚’ж‰‹гЃ«е…Ґг‚ЊгЃџгЃ®гЃ г‚ЌгЃ†пјџгЂЂвЂ¦вЂ¦гЃЇгЃЈпјЃгЂЂгЃІг‚‡гЃЈгЃЁгЃ—гЃ¦гѓњгѓје›ЅгЃ®й™°и¬ЂгЃЈпјЃпјџ<br>
+гЂЂгЃ“г‚ЊгЃ гЃ‘гЃ§г‚‚гЂЃгЃѕгЃџгЃІгЃЁгЃ¤гЃЉи©±гЃЊгЃ§гЃЌгЃќгЃ†гЃ§гЃ™гЃ­гЂ‚<br>
 <br>
-Ѓ@Љy‚µ‚Ь‚№‚Д‚ў‚Ѕ‚ѕ‚«‚Ь‚µ‚ЅЃB‚»‚к‚ЖЃA‚Ё‚·‚·‚ЯЌм•i‚ЙђЩЌмЃu‚q‚d‚u‚d‚q‚r‚h‚a‚k‚dЃIЃv‚рЏг‚°‚Д‚ў‚Ѕ‚ѕ‚«‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚µ‚ЅЃB<br>
+гЂЂжҐЅгЃ—гЃѕгЃ›гЃ¦гЃ„гЃџгЃ гЃЌгЃѕгЃ—гЃџгЂ‚гЃќг‚ЊгЃЁгЂЃгЃЉгЃ™гЃ™г‚ЃдЅње“ЃгЃ«ж‹™дЅњгЂЊпјІпјҐпј¶пјҐпјІпјіпј©пјўпј¬пјҐпјЃгЂЌг‚’дёЉгЃ’гЃ¦гЃ„гЃџгЃ гЃЌгЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ—гЃџгЂ‚<br>
 <br>
-<font color="#ff88cc">Ѓ„ѓJѓLѓ„ѓbѓR‚і‚с<br>
-Ѓ„‚ЁЉ©‚Я‚Н‚ ‚МЌм•iЃc–l‚аЌD‚«‚ИЌм•i‚ЕЃB“Б‚Й‚l‚n‚m‚c‚n‚і‚сЃi‚МЉGЃj‚Й€к–Ъ‚Ъ‚к‚µ‚Ѕ‚«‚Б‚©‚Ї‚М€к‚В‚Е‚а‚ ‚и‚Ь‚·‚µЃBЃi‚ ‚МѓVЃ[ѓNѓGѓ“ѓX‚НѓЉѓЃѓCѓN‚µ‚ДЊ©‚Ѕ‚ў—l‚ИЃj</font><br>
+<font color="#ff88cc">пјћг‚«г‚­гѓ¤гѓѓг‚ігЃ•г‚“<br>
+пјћгЃЉе‹§г‚ЃгЃЇгЃ‚гЃ®дЅње“ЃвЂ¦еѓ•г‚‚еҐЅгЃЌгЃЄдЅње“ЃгЃ§гЂ‚з‰№гЃ«пј­пјЇпј®пј¤пјЇгЃ•г‚“пј€гЃ®зµµпј‰гЃ«дёЂз›®гЃјг‚ЊгЃ—гЃџгЃЌгЃЈгЃ‹гЃ‘гЃ®дёЂгЃ¤гЃ§г‚‚гЃ‚г‚ЉгЃѕгЃ™гЃ—гЂ‚пј€гЃ‚гЃ®г‚·гѓјг‚Їг‚Ёгѓіг‚№гЃЇгѓЄгѓЎг‚¤г‚ЇгЃ—гЃ¦и¦‹гЃџгЃ„ж§гЃЄпј‰</font><br>
 <br>
-Ѓ@Џй’e‚і‚с‚М‚Ж‚±‚л‚Е‚Н‚Ёђўb‚Й‚И‚Б‚Д‚ў‚Ь‚·ЃB‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·ЃB<br>
-Ѓ@ѓЉѓЃѓCѓNЃcЃc‚Е‚·‚©ЃB‚н‚Ѕ‚µ‚ађҐ”сЊ©‚Д‚Э‚Ѕ‚ў‚Е‚·ЃB</font>
+гЂЂеџЋејѕгЃ•г‚“гЃ®гЃЁгЃ“г‚ЌгЃ§гЃЇгЃЉдё–и©±гЃ«гЃЄгЃЈгЃ¦гЃ„гЃѕгЃ™гЂ‚гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚<br>
+гЂЂгѓЄгѓЎг‚¤г‚ЇвЂ¦вЂ¦гЃ§гЃ™гЃ‹гЂ‚г‚ЏгЃџгЃ—г‚‚жЇйќћи¦‹гЃ¦гЃїгЃџгЃ„гЃ§гЃ™гЂ‚</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[447]</font> <font size=4 color=#40c0c0> ‚І‚Ф‚і‚Ѕ‚Е‚·</font>
+<font size=2>[447]</font> <font size=4 color=#40c0c0> гЃ”гЃ¶гЃ•гЃџгЃ§гЃ™</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/08/17 (‹а) 23:02:08 <strong>Ѓ¤</strong> ѓJѓMѓ„ѓbѓR </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200708175230208&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200708175230208"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/08/17 (й‡‘) 23:02:08 <strong>в–Ѕ</strong> г‚«г‚®гѓ¤гѓѓг‚і </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200708175230208_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200708175230208"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Ѓ@Џ‹‚ў‰Д‚М‚s‚rѓlѓ^ЃEЃEЃE‚Ь‚і‚Й”M•—‚М‚І‚Ж‚«–Ў‚н‚ў‚Е‚·‚ЛЃB<br>
-Ѓ@ЋеђlЊц‚МЏ—ђ«Љµ‚к‚МѓvѓЌѓZѓX‚а‰¤“№‚ИѓpѓЏЃ[‚рЉґ‚¶‚Ь‚·ЃB<br>
+<font size=3 color=#606060>гЂЂжљ‘гЃ„е¤ЏгЃ®пјґпјігѓЌг‚їгѓ»гѓ»гѓ»гЃѕгЃ•гЃ«з†±йўЁгЃ®гЃ”гЃЁгЃЌе‘іг‚ЏгЃ„гЃ§гЃ™гЃ­гЂ‚<br>
+гЂЂдё»дєєе…¬гЃ®еҐіжЂ§ж…Јг‚ЊгЃ®гѓ—гѓ­г‚»г‚№г‚‚зЋ‹йЃ“гЃЄгѓ‘гѓЇгѓјг‚’ж„џгЃгЃѕгЃ™гЂ‚<br>
 <br>
-Ѓ@‚µ‚©‚µЃA‰В‹t‚МЏрЊЏ‚ЄѓoѓJЌ‚‚ў‚ЖЊѕ‚¤‚М‚Н”Я‚µ‚ў‚Ё–с‘©‚©‚а‚Е‚·‚ЛЃB‚Ж‚НЊѕ‚¦ЃAѓGѓsѓЌЃ[ѓO‚рЌl‚¦‚й‚Ж‚»‚к‚Н‚»‚к‚ЕЃcЃB<br>
-Ѓi‚Ь‚µ‚ДЋ©ЌЭ‰В‹t‚И‚з‚И‚Ё‚МЋ–?Ѓj<br>
-Ѓ@‚±‚М•У‚Нѓ‰ѓCѓ^Ѓ[ѓ}ѓ“‚і‚с‚МЏ\”Є”Ф‚ЄЊ€‚Ь‚Б‚ЅЉґ‚¶‚Е‚·‚ЛЃB<br>
-<br>
-<br>
-Ѓ@ЌЎ‰с‚а‚ў‚ўЌм•iЃAЉґЋУ‚Е‚·ЃB<br>
+гЂЂгЃ—гЃ‹гЃ—гЂЃеЏЇйЂ†гЃ®жќЎд»¶гЃЊгѓђг‚«й«гЃ„гЃЁиЁЂгЃ†гЃ®гЃЇж‚ІгЃ—гЃ„гЃЉзґ„жќџгЃ‹г‚‚гЃ§гЃ™гЃ­гЂ‚гЃЁгЃЇиЁЂгЃ€гЂЃг‚Ёгѓ”гѓ­гѓјг‚°г‚’иЂѓгЃ€г‚‹гЃЁгЃќг‚ЊгЃЇгЃќг‚ЊгЃ§вЂ¦гЂ‚<br>
+пј€гЃѕгЃ—гЃ¦и‡ЄењЁеЏЇйЂ†гЃЄг‚‰гЃЄгЃЉгЃ®дє‹?пј‰<br>
+гЂЂгЃ“гЃ®иѕєгЃЇгѓ©г‚¤г‚їгѓјгѓћгѓігЃ•г‚“гЃ®еЌЃе…«з•ЄгЃЊж±єгЃѕгЃЈгЃџж„џгЃгЃ§гЃ™гЃ­гЂ‚<br>
 <br>
 <br>
-’З‹L<br>
-Ѓ@‚ЁЉ©‚Я‚Н‚ ‚МЌм•iЃc–l‚аЌD‚«‚ИЌм•i‚ЕЃB“Б‚Й‚l‚n‚m‚c‚n‚і‚сЃi‚МЉGЃj‚Й€к–Ъ‚Ъ‚к‚µ‚Ѕ‚«‚Б‚©‚Ї‚М€к‚В‚Е‚а‚ ‚и‚Ь‚·‚µЃBЃi‚ ‚МѓVЃ[ѓNѓGѓ“ѓX‚НѓЉѓЃѓCѓN‚µ‚ДЊ©‚Ѕ‚ў—l‚ИЃj</font>
+гЂЂд»Ље›ћг‚‚гЃ„гЃ„дЅње“ЃгЂЃж„џи¬ќгЃ§гЃ™гЂ‚<br>
+<br>
+<br>
+иїЅиЁ<br>
+гЂЂгЃЉе‹§г‚ЃгЃЇгЃ‚гЃ®дЅње“ЃвЂ¦еѓ•г‚‚еҐЅгЃЌгЃЄдЅње“ЃгЃ§гЂ‚з‰№гЃ«пј­пјЇпј®пј¤пјЇгЃ•г‚“пј€гЃ®зµµпј‰гЃ«дёЂз›®гЃјг‚ЊгЃ—гЃџгЃЌгЃЈгЃ‹гЃ‘гЃ®дёЂгЃ¤гЃ§г‚‚гЃ‚г‚ЉгЃѕгЃ™гЃ—гЂ‚пј€гЃ‚гЃ®г‚·гѓјг‚Їг‚Ёгѓіг‚№гЃЇгѓЄгѓЎг‚¤г‚ЇгЃ—гЃ¦и¦‹гЃџгЃ„ж§гЃЄпј‰</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[446]</font> <font size=4 color=#40c0c0> ЃwЏ‹‚ў–й‚Н‰Ѕ‚©‚Є‹N‚«‚йЃHЃx‚рЊ©‚й‚Й‚Н‚±‚±‚рѓNѓЉѓbѓNЃB</font>
+<font size=2>[446]</font> <font size=4 color=#40c0c0> гЂЋжљ‘гЃ„е¤њгЃЇдЅ•гЃ‹гЃЊиµ·гЃЌг‚‹пјџгЂЏг‚’и¦‹г‚‹гЃ«гЃЇгЃ“гЃ“г‚’г‚ЇгѓЄгѓѓг‚ЇгЂ‚</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/08/17 (‹а) 20:46:19 <strong>Ѓ¤</strong> ‰^‰c€П€х </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200708175204619&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200708175204619"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/08/17 (й‡‘) 20:46:19 <strong>в–Ѕ</strong> йЃ‹е–¶е§”е“Ў </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200708175204619_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200708175204619"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Ѓyђ„‘E•¶Ѓz’N‚ѕЃAЃu‚±‚с‚И’К‚и–‚‚И‚з‚±‚Б‚ї‚©‚зЏP‚н‚к‚ЙЌs‚­Ѓv‚И‚с‚ДЊѕ‚Б‚Д‚й‚М‚Н‚БЃHЃiЏОЃjЃB<br>
+<font size=3 color=#606060>гЂђжЋЁи–¦ж–‡гЂ‘иЄ°гЃ гЂЃгЂЊгЃ“г‚“гЃЄйЂљг‚Љй­”гЃЄг‚‰гЃ“гЃЈгЃЎгЃ‹г‚‰иҐІг‚Џг‚ЊгЃ«иЎЊгЃЏгЂЌгЃЄг‚“гЃ¦иЁЂгЃЈгЃ¦г‚‹гЃ®гЃЇгЃЈпјџпј€з¬‘пј‰гЂ‚<br>
 <a href=http://ts.novels.jp/novel/200707/14133526/sufferer.htm target=_top>http://ts.novels.jp/novel/200707/14133526/sufferer.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -170,90 +170,90 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[445]</font> <font size=4 color=#40c0c0> ›ЮЏ—‚і‚сЌЕЌ‚</font>
+<font size=2>[445]</font> <font size=4 color=#40c0c0> е·«еҐігЃ•г‚“жњЂй«</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/07/19 (–Ш) 15:34:13 <strong>Ѓ¤</strong> ѓtѓ‰ѓ“ѓeѓBѓXѓJ </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200707194153413&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200707194153413"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/07/19 (жњЁ) 15:34:13 <strong>в–Ѕ</strong> гѓ•гѓ©гѓігѓ†г‚Јг‚№г‚« </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200707194153413_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200707194153413"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Џ‰‚Я‚Ь‚µ‚ДЃ@Ѓu“VЏ—‚МЃv‚р”qЊ©‚µ‚Ь‚µ‚ЅЃB‘±•Т‚рЉъ‘Т‚µ‚Ь‚·ЃB‚Е‚Н!</font>
+<font size=3 color=#606060>е€ќг‚ЃгЃѕгЃ—гЃ¦гЂЂгЂЊе¤©еҐігЃ®гЂЌг‚’ж‹ќи¦‹гЃ—гЃѕгЃ—гЃџгЂ‚з¶љз·Ёг‚’жњџеѕ…гЃ—гЃѕгЃ™гЂ‚гЃ§гЃЇ!</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[444]</font> <font size=4 color=#40c0c0> ‚Н‚¶‚Я‚Ь‚µ‚Д</font>
+<font size=2>[444]</font> <font size=4 color=#40c0c0> гЃЇгЃг‚ЃгЃѕгЃ—гЃ¦</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/07/15 (“ъ) 02:04:02 <strong>Ѓ¤</strong> <a href="mailto:izumiya-paamu@hotmail.co.jp">ђт’JѓpЃ[ѓЂ</a> </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200707150020402&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200707150020402"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/07/15 (ж—Ґ) 02:04:02 <strong>в–Ѕ</strong> <a href="mailto:izumiya-paamu@hotmail.co.jp">жі‰и°·гѓ‘гѓјгѓ </a> </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200707150020402_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200707150020402"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>‚Н‚¶‚Я‚Ь‚µ‚ДЃAђт’JѓpЃ[ѓЂ‚Е‚·ЃB<br>
+<font size=3 color=#606060>гЃЇгЃг‚ЃгЃѕгЃ—гЃ¦гЂЃжі‰и°·гѓ‘гѓјгѓ гЃ§гЃ™гЂ‚<br>
 <br>
 <br>
-‚і‚·‚ЄЃA‚Ж‚µ‚©‚ў‚ў‚ж‚¤‚Є‚ ‚и‚Ь‚№‚сЃB”сЏн‚Й–К”’‚©‚Б‚Ѕ‚Е‚·ЃB<br>
+гЃ•гЃ™гЃЊгЂЃгЃЁгЃ—гЃ‹гЃ„гЃ„г‚€гЃ†гЃЊгЃ‚г‚ЉгЃѕгЃ›г‚“гЂ‚йќћеёёгЃ«йќўз™ЅгЃ‹гЃЈгЃџгЃ§гЃ™гЂ‚<br>
 <br>
 <br>
-–]‚­‚с‚Й‚µ‚Д‚Э‚к‚ОЃAЋ©•Є‚ЄЏ—‚Й‚И‚Б‚Ѕ‚ЖЋv‚Б‚Ѕ‚зЌЎ“x‚Нђe—F‚ЄЏ—‚Й‚И‚Б‚Д‚µ‚©‚а‹–ЌҐЃcЃc<br>
+жњ›гЃЏг‚“гЃ«гЃ—гЃ¦гЃїг‚ЊгЃ°гЂЃи‡Єе€†гЃЊеҐігЃ«гЃЄгЃЈгЃџгЃЁжЂќгЃЈгЃџг‚‰д»Љеє¦гЃЇи¦ЄеЏ‹гЃЊеҐігЃ«гЃЄгЃЈгЃ¦гЃ—гЃ‹г‚‚иЁ±е©љвЂ¦вЂ¦<br>
 <br>
 <br>
-‚¤‚з‚в‚Ь‚µ‚ЎЃ`Ѓ`Ѓ`Ѓ`Ѓ`ЃIЃIЃIЃIЃIЃIЃIЃIЃIЃI‚И‚с‚©–Е’ѓ‹к’ѓ‚ў‚ўѓVѓ`ѓ…ѓGЃ[ѓVѓ‡ѓ“‚Е‚·‚Л‚—‚—<br>
+гЃ†г‚‰г‚„гЃѕгЃ—гЃѓгЂњгЂњгЂњгЂњгЂњпјЃпјЃпјЃпјЃпјЃпјЃпјЃпјЃпјЃпјЃгЃЄг‚“гЃ‹ж»…иЊ¶и‹¦иЊ¶гЃ„гЃ„г‚·гѓЃгѓҐг‚Ёгѓјг‚·гѓ§гѓігЃ§гЃ™гЃ­пЅ—пЅ—<br>
 <br>
 <br>
-•¶ЏН‚аЋеђlЊц‚МђSЏо‚рЏгЋи‚Й•\Њ»‚Е‚«‚Д‚ў‚Д—З‚ў‚Е‚·ЃB<br>
+ж–‡з« г‚‚дё»дєєе…¬гЃ®еїѓжѓ…г‚’дёЉж‰‹гЃ«иЎЁзЏѕгЃ§гЃЌгЃ¦гЃ„гЃ¦и‰ЇгЃ„гЃ§гЃ™гЂ‚<br>
 <br>
-Ћ©•Є‚аЊ©ЏK‚н‚Л‚ОЃcЃc<br>
+и‡Єе€†г‚‚и¦‹зї’г‚ЏгЃ­гЃ°вЂ¦вЂ¦<br>
 <br>
 <br>
-‚»‚к‚Е‚НЃA‚И‚Й‚Ж‚ј‚ж‚л‚µ‚­‚ЁЉи‚ў‚ў‚Ѕ‚µ‚Ь‚·ЃB</font>
+гЃќг‚ЊгЃ§гЃЇгЂЃгЃЄгЃ«гЃЁгЃћг‚€г‚ЌгЃ—гЃЏгЃЉйЎгЃ„гЃ„гЃџгЃ—гЃѕгЃ™гЂ‚</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[443]</font> <font size=4 color=#40c0c0> ‚Д‚с‚Й‚е‚М‚Ь‚ВЃEЃEЃE‚И‚с‚Ж‚©ЃBЃiЃh‚¦‚ўЃh‚ѕ‚ж!!Ѓj</font>
+<font size=2>[443]</font> <font size=4 color=#40c0c0> гЃ¦г‚“гЃ«г‚‡гЃ®гЃѕгЃ¤гѓ»гѓ»гѓ»гЃЄг‚“гЃЁгЃ‹гЂ‚пј€вЂќгЃ€гЃ„вЂќгЃ г‚€!!пј‰</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/07/14 (“y) 19:08:11 <strong>Ѓ¤</strong> ‚Ё‚а‚ї‚О‚± </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200707146190811&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200707146190811"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/07/14 (ењџ) 19:08:11 <strong>в–Ѕ</strong> гЃЉг‚‚гЃЎгЃ°гЃ“ </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200707146190811_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200707146190811"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>‘O—ЄЃAѓ‰ѓCѓ^Ѓ[ѓ}ѓ“‚і‚сЃB<br>
-‚Н‚¶‚Я‚Ь‚µ‚ДЃAЌЕ‹ЯЃiЋ©ЏМ•sђl‹CЃjЌм•iAЌЪ’†‚М‚Ё‚а‚ї‚О‚±‚Е‚·ЃB<br>
+<font size=3 color=#606060>е‰Ќз•ҐгЂЃгѓ©г‚¤г‚їгѓјгѓћгѓігЃ•г‚“гЂ‚<br>
+гЃЇгЃг‚ЃгЃѕгЃ—гЃ¦гЂЃжњЂиї‘пј€и‡Єз§°дёЌдєєж°—пј‰дЅње“ЃйЂЈиј‰дё­гЃ®гЃЉг‚‚гЃЎгЃ°гЃ“гЃ§гЃ™гЂ‚<br>
 <br>
-‚ ‚ ЃEЃEЃEђі‚ЙTs‚Б–єЋж‚и‚ЄTs‚Б–є‚Й‚И‚йЃEЃEЃE<br>
-‚Е‚аЊі‚МTs‚Б–є‚Н‚а‚Ж‚З‚Ё‚иЃ`!!‚ї‚б‚с‚ї‚б‚с!!<br>
-‚ї‚б‚с‚ї‚б‚с‚Е‚·‚Ю‚©‚ Ѓ`!!‚±‚з‚џЃ`!!<br>
+гЃ‚гЃ‚гѓ»гѓ»гѓ»ж­ЈгЃ«TsгЃЈеЁеЏ–г‚ЉгЃЊTsгЃЈеЁгЃ«гЃЄг‚‹гѓ»гѓ»гѓ»<br>
+гЃ§г‚‚е…ѓгЃ®TsгЃЈеЁгЃЇг‚‚гЃЁгЃ©гЃЉг‚ЉгЂњ!!гЃЎг‚ѓг‚“гЃЎг‚ѓг‚“!!<br>
+гЃЎг‚ѓг‚“гЃЎг‚ѓг‚“гЃ§гЃ™г‚ЂгЃ‹гЃ‚гЂњ!!гЃ“г‚‰гЃЃгЂњ!!<br>
 <br>
-‚Ж‚ў‚¤Џу‹µ‚НЊ‹Ќ\‚«‚Ь‚µ‚ЅЃB‚Ц‚Б‚Ц‚Б‚ЦЃiЃHЃj<br>
+гЃЁгЃ„гЃ†зЉ¶жіЃгЃЇзµђж§‹гЃЌгЃѕгЃ—гЃџгЂ‚гЃёгЃЈгЃёгЃЈгЃёпј€пјџпј‰<br>
 <br>
-—¬ђО‚НѓvѓЌ‚Е‚·ЃAЉо–{‚Є‚µ‚Б‚©‚иЏo—€‚Д‚ў‚Ь‚·ЃB‰ћ—p‚аѓoѓbѓ`ѓЉ‚Е‚·ЃB<br>
-Ћ„‚Н‚И‚©‚И‚©Љо–{‚рЏ‘‚±‚¤‚ЖЋv‚¤‚М‚Е‚·‚Є‚»‚к‚ЄЏo—€‚Ь‚№‚сЃB<br>
-‚Е‚а‚«‚Б‚Ж‚Е‚«‚й‚ж‚¤‚Й‚И‚йЃB<br>
+жµЃзџігЃЇгѓ—гѓ­гЃ§гЃ™гЂЃеџєжњ¬гЃЊгЃ—гЃЈгЃ‹г‚Ље‡єжќҐгЃ¦гЃ„гЃѕгЃ™гЂ‚еїњз”Ёг‚‚гѓђгѓѓгѓЃгѓЄгЃ§гЃ™гЂ‚<br>
+з§ЃгЃЇгЃЄгЃ‹гЃЄгЃ‹еџєжњ¬г‚’ж›ёгЃ“гЃ†гЃЁжЂќгЃ†гЃ®гЃ§гЃ™гЃЊгЃќг‚ЊгЃЊе‡єжќҐгЃѕгЃ›г‚“гЂ‚<br>
+гЃ§г‚‚гЃЌгЃЈгЃЁгЃ§гЃЌг‚‹г‚€гЃ†гЃ«гЃЄг‚‹гЂ‚<br>
 <br>
-Ѓu‚а‚¤Ћи’x‚к‚©‚а‚µ‚к‚И‚ў‚Ї‚ЗЃBЃv<br>
+гЂЊг‚‚гЃ†ж‰‹йЃ…г‚ЊгЃ‹г‚‚гЃ—г‚ЊгЃЄгЃ„гЃ‘гЃ©гЂ‚гЂЌ<br>
 <br>
-‚Е‚Н‚Ь‚Ѕ‚М‹@‰п‚ЙЃB<br>
+гЃ§гЃЇгЃѕгЃџгЃ®ж©џдјљгЃ«гЂ‚<br>
 <br>
-‘ђЃX</font>
+иЌ‰гЂ…</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[442]</font> <font size=4 color=#40c0c0> Ѓw“VЏ—‚М––ебЃx‚рЊ©‚й‚Й‚Н‚±‚±‚рѓNѓЉѓbѓNЃB</font>
+<font size=2>[442]</font> <font size=4 color=#40c0c0> гЂЋе¤©еҐігЃ®жњ«иЈ”гЂЏг‚’и¦‹г‚‹гЃ«гЃЇгЃ“гЃ“г‚’г‚ЇгѓЄгѓѓг‚ЇгЂ‚</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/07/14 (“y) 13:40:31 <strong>Ѓ¤</strong> ‰^‰c€П€х </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200707146134031&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200707146134031"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/07/14 (ењџ) 13:40:31 <strong>в–Ѕ</strong> йЃ‹е–¶е§”е“Ў </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200707146134031_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200707146134031"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Ѓyђ„‘E•¶Ѓz‚s‚r‚Б–є‚Й‚И‚Б‚Ѕђe—F‚р‹C‚Й‚©‚Ї‚йЋеђlЊцЃcЃc‚µ‚©‚µЃAђў‚М’†‚»‚¤‚»‚¤Ћv‚ў’К‚и‚Й‚Н‚ў‚©‚И‚ў‚М‚Е‚·ЃiЏОЃjЃB<br>
+<font size=3 color=#606060>гЂђжЋЁи–¦ж–‡гЂ‘пјґпјігЃЈеЁгЃ«гЃЄгЃЈгЃџи¦ЄеЏ‹г‚’ж°—гЃ«гЃ‹гЃ‘г‚‹дё»дєєе…¬вЂ¦вЂ¦гЃ—гЃ‹гЃ—гЂЃдё–гЃ®дё­гЃќгЃ†гЃќгЃ†жЂќгЃ„йЂљг‚ЉгЃ«гЃЇгЃ„гЃ‹гЃЄгЃ„гЃ®гЃ§гЃ™пј€з¬‘пј‰гЂ‚<br>
 <a href=http://ts.novels.jp/novel/200707/14133526/tennyo.htm target=_top>http://ts.novels.jp/novel/200707/14133526/tennyo.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -261,20 +261,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[441]</font> <font size=4 color=#40c0c0> ‚Н‚¶‚Я‚Ь‚µ‚Д</font>
+<font size=2>[441]</font> <font size=4 color=#40c0c0> гЃЇгЃг‚ЃгЃѕгЃ—гЃ¦</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2007/05/22 (‰О) 23:27:49 <strong>Ѓ¤</strong> ‚©‚з‚і‚Ф‚л‚¤ </font></td>
-<td nowrap align=right><font size=3>Ѓ@<a href="bbs.cgi?res=200705222232749&log=writerman">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200705222232749"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2007/05/22 (зЃ«) 23:27:49 <strong>в–Ѕ</strong> гЃ‹г‚‰гЃ•гЃ¶г‚ЌгЃ† </font></td>
+<td nowrap align=right><font size=3>гЂЂ<a href="bbs@res_200705222232749_log_writerman.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200705222232749"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>ѓ”ѓ@ѓ‹ѓLѓ…ѓЉѓAѓVЃ[ѓЉѓY‚р“З‚Э‚Ь‚µ‚ЅЃAЋ©•Є‚МѓCѓЃЃ[ѓW‚ЕЃA–{Ќм‚МђО–м‚МVC‚НЃAЌ|‚МB‚МѓGѓhѓЉѓbѓNЃEѓGѓЉѓbѓN‚МVC‚МђlЃA–ј‘O‚Є‚н‚©‚и‚Ь‚№‚с‚Ї‚ЗЃA—С‚И‚с‚Ж‚©ЃHЌЕ‹Я‚Мђє—D‚і‚с‚НЃA‚ ‚Ь‚и‚µ‚и‚Ь‚№‚с‚М‚ЕЃAЋOЋ}Ћi—Я‚НЃAѓGѓ”ѓ@‚М’фЋi—Я‚Мђє—D‚і‚сЃA‚З‚¤‚Е‚µ‚е‚¤‚©ЃH</font>
+<font size=3 color=#606060>гѓґг‚Ўгѓ«г‚­гѓҐгѓЄг‚ўг‚·гѓјгѓЄг‚єг‚’иЄ­гЃїгЃѕгЃ—гЃџгЂЃи‡Єе€†гЃ®г‚¤гѓЎгѓјг‚ёгЃ§гЂЃжњ¬дЅњгЃ®зџій‡ЋгЃ®VCгЃЇгЂЃй‹јгЃ®йЊ¬гЃ®г‚Ёгѓ‰гѓЄгѓѓг‚Їгѓ»г‚ЁгѓЄгѓѓг‚ЇгЃ®VCгЃ®дєєгЂЃеђЌе‰ЌгЃЊг‚ЏгЃ‹г‚ЉгЃѕгЃ›г‚“гЃ‘гЃ©гЂЃжћ—гЃЄг‚“гЃЁгЃ‹пјџжњЂиї‘гЃ®еЈ°е„ЄгЃ•г‚“гЃЇгЂЃгЃ‚гЃѕг‚ЉгЃ—г‚ЉгЃѕгЃ›г‚“гЃ®гЃ§гЂЃдё‰жћќеЏёд»¤гЃЇгЂЃг‚Ёгѓґг‚ЎгЃ®зў‡еЏёд»¤гЃ®еЈ°е„ЄгЃ•г‚“гЂЃгЃ©гЃ†гЃ§гЃ—г‚‡гЃ†гЃ‹пјџ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>ЌнЏњѓLЃ[ <input type=password name="pwd" size=10 value=""> <input type=submit value="ЌнЏњ"></td></form>
+<td align=center nowrap>е‰Љй™¤г‚­гѓј <input type=password name="pwd" size=10 value=""> <input type=submit value="е‰Љй™¤"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="writerman">
@@ -282,16 +282,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="Ћџ‚МѓyЃ[ѓW"></td></tr></form><tr>
+<td align=center><input type=submit value="ж¬ЎгЃ®гѓљгѓјг‚ё"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="writerman">
-<td nowrap>•¶Ћљ—с <input type=text name="search" value="" size=15>
+<td nowrap>ж–‡е­—е€— <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="ЊџЌх"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=writerman">ЌXђV</a>] [<a href="http://ts.novels.jp/library.html">ЏI—№</a>]</font></strong></td>
+<input type=submit value="ж¤њзґў"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_writerman.cgi">ж›ґж–°</a>] [<a href="../../library.html">зµ‚дє†</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>Ѓ¦ [ЌнЏњ]ѓ{ѓbѓNѓX‚рѓ`ѓFѓbѓN‚µ‚ДЃA“ЉЌeЋћ‚ЙђЭ’и‚µ‚ЅЌнЏњѓLЃ[‚р“ь—Н‚µ‚Дѓ{ѓ^ѓ“‚р‰џ‚·‚±‚Ж‚ЕЌнЏњ‚Є‚Е‚«‚Ь‚·.<br>Ѓ¦ ЊџЌх•¶Ћљ—с‚НѓXѓyЃ[ѓX‚Е‹жђШ‚й‚±‚Ж‚Е•Ўђ”Ћw’и‚Е‚«‚Ь‚·.<br></font>
+<font color=#608080>вЂ» [е‰Љй™¤]гѓњгѓѓг‚Їг‚№г‚’гѓЃг‚§гѓѓг‚ЇгЃ—гЃ¦гЂЃжЉ•зЁїж™‚гЃ«иЁ­е®љгЃ—гЃџе‰Љй™¤г‚­гѓјг‚’е…ҐеЉ›гЃ—гЃ¦гѓњг‚їгѓіг‚’жЉјгЃ™гЃ“гЃЁгЃ§е‰Љй™¤гЃЊгЃ§гЃЌгЃѕгЃ™.<br>вЂ» ж¤њзґўж–‡е­—е€—гЃЇг‚№гѓљгѓјг‚№гЃ§еЊєе€‡г‚‹гЃ“гЃЁгЃ§и¤‡ж•°жЊ‡е®љгЃ§гЃЌгЃѕгЃ™.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,12 +52,12 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body background="" bgcolor=#ffffff text=navy>
 <center>
 <font style="font-size:20pt;font-weight:bold">
-���N�������Ɂ@�|�@���f���E�X�g�[���[����
+少年少女文庫　−　第二掲示板・ストーリー道場
 </font>
 </center><br>
 <center>
@@ -67,13 +67,13 @@ A{TEXT-DECORATION:NONE};
 <table align=center id=id1>
 <tr id=tr3>
 <th>
-�ŐV��i�W
+最新作品集
 </th>
 <!-- . --><!-- .. --><!-- 2003121121.txt --><th>
-<a href=?log=2003121121>��i�W����2</a>
+<a href=?log=2003121121>作品集その2</a>
 </th>
 <!-- 2004101004.txt --><th>
-<a href=?log=2004101004>��i�W����3</a>
+<a href=?log=2004101004>作品集その3</a>
 </th>
 <!-- anthology.txt --></tr>
 </table>
@@ -82,7 +82,7 @@ A{TEXT-DECORATION:NONE};
 <tr>
 <th colspan=5>
 <font style="font-size:13pt">
-���eLIST [ ���� 5 ��i���J�� ]
+投稿LIST [ 現在 5 作品公開中 ]
 </font>
 </th>
 </tr>
@@ -90,41 +90,41 @@ A{TEXT-DECORATION:NONE};
 <input type=hidden name=action value="html4">
 <input type=hidden name="log" value="">
 <tr><th>
- ��҂����肵�Ē��o 
+ 作者を限定して抽出 
 <select name=sakusha>
-<option value=0>��҂�I��
-<option value="JJJJJJJJJ�R">JJJJJJJJJ�R
-<option value="������">������
-<option value="����">����
-<option value="�閲">�閲
+<option value=0>作者を選択
+<option value="JJJJJJJJJ３">JJJJJJJJJ３
+<option value="¥＝＄">¥＝＄
+<option value="黒白">黒白
+<option value="夜夢">夜夢
 </select>
-<input type=submit value=" ���X�g�\�� " class="d1">
+<input type=submit value=" リスト表示 " class="d1">
 </th>
 </form>
 <form method=post action=./bbs.cgi>
 <input type=hidden name=action value="html5">
 <input type=hidden name="log" value="">
 <th colspan=4>
- �����w�肵�Ē��o 
+ 語句を指定して抽出 
 <input type=text name=serch size=16>
-<input type=submit value=" ���� " class="d1">
+<input type=submit value=" 検索 " class="d1">
 </th></tr>
 </form>
-<tr ID=tr2><TH WIDTH="50%">Title</th><TH WIDTH="10%">����</th><TH WIDTH="20%">���e��</th><TH WIDTH="5%">RES</TH></tr>
+<tr ID=tr2><TH WIDTH="50%">Title</th><TH WIDTH="10%">著者</th><TH WIDTH="20%">投稿日</th><TH WIDTH="5%">RES</TH></tr>
 </tr>
 <tr id="tr3">
 <th width=50%>
 <blink><font color=#ff0000><i>NEW!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041018232705">
-����w���̒��x</a>
+<a href="bbs@action_html2_key_20041018232705.cgi">
+仮題『夢の中』</a>
 </font>
 </th>
 <td>
-�閲
+夜夢
 </td>
-<td id=td1>2004�N10��18��(��) 23��27��05�b</td>
+<td id=td1>2004年10月18日(月) 23時27分05秒</td>
 <td align=right>
 0
 </td>
@@ -133,14 +133,14 @@ A{TEXT-DECORATION:NONE};
 <blink><font color=#ff0000><i>UP!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041018220609">
-�W���R�P���̖�A�v���b�g</a>
+<a href="bbs@action_html2_key_20041018220609.cgi">
+８月３１日の夜、プロット</a>
 </font>
 </th>
 <td>
-����
+黒白
 </td>
-<td id=td1>2004�N10��18��(��) 22��16��26�b</td>
+<td id=td1>2004年10月18日(月) 22時16分26秒</td>
 <td align=right>
 0
 </td>
@@ -149,42 +149,42 @@ A{TEXT-DECORATION:NONE};
 <blink><font color=#ff0000><i>NEW!!</i></font></blink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041016080241">
-���Ɂ`�ȉ����@���Ł@����</a>
+<a href="bbs@action_html2_key_20041016080241.cgi">
+女に〜以下略　α版　続き</a>
 </font>
 </th>
 <td>
-JJJJJJJJJ�R
+JJJJJJJJJ３
 </td>
-<td id=td1>2004�N10��16��(�y) 08��02��41�b</td>
+<td id=td1>2004年10月16日(土) 08時02分41秒</td>
 <td align=right>
 0
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041012111341">
-���ɂȂ�����I���Ⴑ������@�ł�������</a>
+<a href="bbs@action_html2_key_20041012111341.cgi">
+女になったらオレゃこうする　でだしα版</a>
 </font>
 </th>
 <td>
-JJJJJJJJJ�R
+JJJJJJJJJ３
 </td>
-<td id=td1>2004�N10��12��(��) 11��13��41�b</td>
+<td id=td1>2004年10月12日(火) 11時13分41秒</td>
 <td align=right>
 2
 </td>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="./bbs.cgi?action=html2&key=20041010042643">
-�ˋ󃌃r��</a>
+<a href="bbs@action_html2_key_20041010042643.cgi">
+架空レビュ</a>
 </font>
 </th>
 <td>
-������
+¥＝＄
 </td>
-<td id=td1>2004�N10��10��(��) 04��26��43�b</td>
+<td id=td1>2004年10月10日(日) 04時26分43秒</td>
 <td align=right>
 6
 </td>
@@ -192,32 +192,32 @@ JJJJJJJJJ�R
 </center><p>
 <table border=5 cellspacing=5 align=center><tr>
 <th bgcolor=#ffffff>
-��i�͂����܂łł��B
+作品はここまでです。
 </th>
 </tr></table><br>
 <hr>
 </center>
-<a href=http://ts.novels.jp/>���N�������ɂ֖߂�</A><form method="post" action="./bbs.cgi">
+<a href=http://ts.novels.jp/>少年少女文庫へ戻る</A><form method="post" action="bbs.cgi">
 <input type=hidden name=action value="form">
 
-<P><Font size=-1>�@���́u���f���E�X�g�[���[����v�́A
-<UL><LI>�܂��r���܂łł����A������ȕ���������Ă��܂��B
-<LI>����Ȑݒ�i�L�����N�^�[�j���l���܂����B�������ł��傤�H�i�N�����b�ɂ��Ă݂܂��񂩁H�j
-<LI>�{�[�_�[���C���i���邢�́A�����I�j�Ȋ���������̂ŁA�u���Ɂv�ɓ��e���Ă����̂������Ă��܂��B
-<LI>����Ȃ��b�������ė~�����I
-<LI>�A�ڂ��̂̂悤�ɁA�����������������Ă��������Ǝv���܂��B
-<LI>�u���Ɂv���J�i���e�j��i�̔ԊO�҂ł��B</UL>
+<P><Font size=-1>　この「第二掲示板・ストーリー道場」は、
+<UL><LI>まだ途中までですが、今こんな物語を書いています。
+<LI>こんな設定（キャラクター）を考えました。いかがでしょう？（誰かお話にしてみませんか？）
+<LI>ボーダーライン（あるいは、実験的）な感じがするので、「文庫」に投稿していいのか迷っています。
+<LI>こんなお話を書いて欲しい！
+<LI>連載もののように、少しずつ続きを書いていきたいと思います。
+<LI>「文庫」公開（投稿）作品の番外編です。</UL>
 <P>
-�@�c�c�Ƃ�������i���f����Ō��J���A�ǎҗl���炲�ӌ������z�i�A�h�o�C�X��A�C�f�A�j����������ł��������ꏊ�ł��B<BR>
-�@�ӂ���Ă��������݂��������B
-�@�Ȃ����e�K��͕��ɂ̂��̂ɏ����܂����A�P�W�֓I�`�ʂ����肬��{�[�_�[���C����̂��̂ł�����ٔF�Ƃ��܂��B<BR>
+　……といった作品を掲示板上で公開し、読者様からご意見ご感想（アドバイスやアイデア）を書き込んでいただく場所です。<BR>
+　ふるってお書き込みください。
+　なお投稿規定は文庫のものに準じますが、１８禁的描写もぎりぎりボーダーライン上のものでしたら黙認とします。<BR>
 </font>
-<input type=submit value=" �V�K���e�͂�����ł� " class="d1">
+<input type=submit value=" 新規投稿はこちらです " class="d1">
 </form>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku">
 <input type=hidden name="log" value="">
 PASSWORD <input type=password name="pwd" size=10>
-<input type=submit value="�Ǘ��җp" class="d1"></form>
+<input type=submit value="管理者用" class="d1"></form>
 <div align=right><address><font size=3><a href="http://www2s.biglobe.ne.jp/~yasuu/cgi.html" target="_top">Anthologys V2.3c  Script by YASUU!!</a></font></address></div>
 </body></html>

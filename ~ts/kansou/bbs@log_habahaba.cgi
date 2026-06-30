@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�n�o�o�n����@���z�f����</title>
+<title>ハババハさん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�n�o�o�n����@���z�f����</font>
+<font size=5>ハババハさん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="habahaba">
 <input type=hidden name="nj" value="ArsjhSr23q">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h vbB6Ed  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="vbB6Ed"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード vbB6Ed  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="vbB6Ed"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,46 +47,46 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[4]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/04/15 (��) 00:29:37 <strong>��</strong> �Ē� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200704150002937&log=habahaba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200704150002937"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/04/15 (日) 00:29:37 <strong>▽</strong> 米津 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200704150002937_log_habahaba.cgi">返信</a>　削除<input type=checkbox name="target" value="200704150002937"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���񂲂���̒����b�̂悤�ȋC�����܂����A���҂��Ă܂��B</font>
+<font size=3 color=#606060>すんごい先の長い話のような気もしますが、期待してます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �N��ω��̋��ɂł��ˁA�n�C�B</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 年齢変化の究極ですね、ハイ。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/04/05 (��) 17:39:20 <strong>��</strong> �������΂� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200704054173920&log=habahaba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200704054173920"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/04/05 (木) 17:39:20 <strong>▽</strong> おもちばこ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200704054173920_log_habahaba.cgi">返信</a>　削除<input type=checkbox name="target" value="200704054173920"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���߂܂��āA�u���炢�Ȃ��́��E�E�E�v�œ��e���Ă��邨�����΂��ł��B<br>
-�Ƃ������œǂ܂��Ă��ꂽ����Ƃ��āu���Ƃ��L���O�v�`���̂��܂��B<br>
+<font size=3 color=#606060>初めまして、「きらいなもの→・・・」で投稿しているおもちばこです。<br>
+という事で読ませてくれたお礼として「あとがキング」形式のおまけ。<br>
 <br>
 <br>
-�L���O�͂����l���������Ă���B<br>
+キングはただ考え事をしている。<br>
 <br>
-�u��y�̐l�����Ĉ�̂Ȃ񂾂����񂾂낤�ȁc<br>
-�o����΂��̏��N�̂悤�ɐ��܂�ς�鎖���o������ȁc�v<br>
-�u�Ȃ�ł����A���ɂ��������������āB�v<br>
-�u�������O���A��������΂��v<br>
-�u�������΂��ł��B�L���O����͎􂢂�������͂������Ă����ł�����B<br>
-�������]������͂����R������ł��傤�B�v<br>
-�u����͂����Ȃ񂾂��E�E�E���͏o���邾���������̐������Ă������̂���c�B<br>
-��y�̎���������ʂȂ�΁A���܂�ς���Ă��̐��������ƌ��Ă������B�v<br>
-�u�l�Ԃ��ĂR�΂��炢�ɂȂ�ƋL�������̕������o��炵���ł���B�v<br>
-�u�Ƃ������Ƃ͑S���O���̋L���Ɛl�i�������Ă��Ă�<br>
-�L���͖w�ǂȂ��Ȃ�A���̐l�i�̑唼�͍������Č��������c�v<br>
-�u�܂��l�Ԃ̘b�ł�����肩�ł͂���܂��񂯂ǂˁc���͖݂����锠�ł�����v<br>
-�L���O�͂����X���Ă����B<br>
+「我輩の人生って一体なんだったんだろうな…<br>
+出来ればこの少年のように生まれ変わる事が出来たらな…」<br>
+「なんですか、柄にも無い事を言って。」<br>
+「おうお前か、おもちゃばこ」<br>
+「おもちばこです。キングさんは呪いをかける力を持っているんですから。<br>
+自分が転生する力も当然おありでしょう。」<br>
+「それはそうなんだが・・・私は出来るだけ長くこの世を見ていたいのだよ…。<br>
+我輩の寿命が足りぬならば、生まれ変わってこの世をずっと見ていたい。」<br>
+「人間って３歳ぐらいになると記憶消去の物質が出るらしいですよ。」<br>
+「ということは全く前世の記憶と人格を持ってきても<br>
+記憶は殆どなくなり、その人格の大半は削られるって言う事か…」<br>
+「まあ人間の話ですから定かではありませんけどね…私は餅を入れる箱ですから」<br>
+キングはただ唸っていた。<br>
 <br>
-�v����ɁA�������������̎q��������E�E�E�Ƃ����b�ł��ˁi����ɉ��߁j�B<br>
-�������y���݂ɂ��Ă��܂���B�撣���ĉ������B<br>
+要するに、もしも私が女の子だったら・・・という話ですね（勝手に解釈）。<br>
+続きを楽しみにしていますよ。頑張って下さい。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -97,43 +97,43 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[2]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/04/05 (��) 09:26:20 <strong>��</strong> �ȂȂ��[ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200704054092620&log=habahaba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200704054092620"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/04/05 (木) 09:26:20 <strong>▽</strong> ななしー </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200704054092620_log_habahaba.cgi">返信</a>　削除<input type=checkbox name="target" value="200704054092620"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ō�̍Ō�ŁA�^�u���p���Z��l��炵?4�R�}�}���K�v���v���o�����B<br>
+<font size=3 color=#606060>最後の最後で、某「美術高校一人暮らし?4コママンガ」を思い出した。<br>
 <br>
-�҂Ď���B</font>
+待て次回。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w�Z�J���h���C�t��in���̎q�@�v�����[�O�x������ɂ͂������N���b�N�B</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『セカンドライフ俺in女の子　プロローグ』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/04/04 (��) 20:36:28 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200704043203628&log=habahaba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200704043203628"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/04/04 (水) 20:36:28 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200704043203628_log_habahaba.cgi">返信</a>　削除<input type=checkbox name="target" value="200704043203628"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���o��n�o�n�o����̕��ɏ�����́c�c�c�c���H�@���������蒼����ł����I�H<br>
+<font size=3 color=#606060>【推薦文】初登場ハバハバさんの文庫処女作は…………え？　そこからやり直すんですか！？<br>
 <a href=http://ts.novels.jp/novel/200704/04203100/2nd_life.htm target=_top>http://ts.novels.jp/novel/200704/04203100/2nd_life.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="habahaba">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=habahaba">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_habahaba.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

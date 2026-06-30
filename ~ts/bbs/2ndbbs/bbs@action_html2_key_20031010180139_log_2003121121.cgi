@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,53 +52,53 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�j�R�C�`
+ニコイチ
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�M�Z�b�I�I����</center><tr>
+<center>作者：信濃ッ！！さん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-���͍��A�j�R�C�`�Ƀn�}���Ă���B<br>�j�R�C�`�Ƃ͈�ʓI�ɂ͂Q�̃v�����f������P�̂��̂������@�̂��Ƃ��w�����A���̂���Ă���̂͂���Ƃ͈Ⴄ�B<br>���̂���Ă���̂͂Q�̐�������P�̐�������邱�Ƃ��B<br><br>�j�R�C�`�Ƀn�}���Ă��炢�낢��Ȃ��̂�������B<br>���������̂Ȃ�C�J���̃^�R�A�傫�����̂Ȃ牺���g�����̎R�r���炢�܂ō�����B<br>����Ȏ������A��ԍޗ��ɂ��Ă݂������̂�����B<br>����͐l�Ԃ��B<br>�������A�Ȃ��Ȃ����͂��Ă����҂����Ȃ��B<br><br>��͂�A����������Ă���̂���Ԋy�Ȃ̂��낤���E�E�E�B<br><br><br>�@�@�@�@�L�L�L�B�E�E�E�K�K�K�K�K�E�E�E�E�E�h�S�H���b�I�I�I<br><br><br>�O�łȂɂ�特�������B<br>�s���Ă݂邩�E�E�E�B<br><br><br>�ǂ����Ԃ����̂��N�������炵���B<br>���\�Ђǂ����̂̂悤���B<br>�Ԃ̒��ɂ͒j�Ə�����l���������A�ǂ�������Ȃ�̏d���������B<br><br>�@�@�@�@�@�@�@�@�@����͂܂��ƂȂ��`�����X���I�I<br><br>���͎���ɒN�����Ȃ����Ƃ��m�F����ƁA�Q�l���Ԃ����������o���A�������ւƉ^�т��񂾁E�E�E�B<br><br><br><br>�j�̂ق��Ŗ����Ȃ͉̂E��ƍ����Ƃ��Ƃ͔]���炢���E�E�E�B<br>���̂ق��͂��܂���ɉE��ƍ����Ɣ]�ȊO�͑S�������̂悤���E�E�E�B<br>����Ȃ炢����ȁE�E�E�B<br><br><br>�j�R�C�`�͖����I�������B<br>���Ƃ͔ށH���ڊo�߂�̂�҂������E�E�E�B<br>���āA�ށH�͎����̓��̂����āA�ǂ�Ȕ������������ȁE�E�E�B<br>�ڊo�߂Ă����̂��y���݂��E�E�E�B
+私は今、ニコイチにハマっている。<br>ニコイチとは一般的には２つのプラモデルから１つのものを作る方法のことを指すが、私のやっているのはそれとは違う。<br>私のやっているのは２つの生物から１つの生物を作ることだ。<br><br>ニコイチにハマってからいろいろなものを作った。<br>小さいものならイカ足のタコ、大きいものなら下半身が魚の山羊ぐらいまで作った。<br>そんな私が今、一番材料にしてみたいものがある。<br>それは人間だ。<br>しかし、なかなか協力してくれる者がいない。<br><br>やはり、かっさらってくるのが一番楽なのだろうか・・・。<br><br><br>　　　　キキキィ・・・ガガガガガ・・・・・ドゴォンッ！！！<br><br><br>外でなにやら音がした。<br>行ってみるか・・・。<br><br><br>どうやら車が事故を起こしたらしい。<br>結構ひどい事故のようだ。<br>車の中には男と女が一人ずついたが、どちらもかなりの重傷だった。<br><br>　　　　　　　　　これはまたとないチャンスだ！！<br><br>私は周りに誰もいないことを確認すると、２人を車から引きずり出し、研究所へと運びこんだ・・・。<br><br><br><br>男のほうで無事なのは右手と左足とあとは脳ぐらいか・・・。<br>女のほうはうまい具合に右手と左足と脳以外は全部無事のようだ・・・。<br>これならいけるな・・・。<br><br><br>ニコイチは無事終了した。<br>あとは彼？が目覚めるのを待つだけだ・・・。<br>さて、彼？は自分の肉体を見て、どんな反応を示すかな・・・。<br>目覚めてくれるのが楽しみだ・・・。
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�M�Z�b�I�I
+信濃ッ！！
 </address>
-2003�N10��10��(��) 18��01��39�b ���J<br>
+2003年10月10日(金) 18時01分39秒 公開<br>
 <!--220-213-124-058.pool.mitene.or.jp-->
-<font color=red>�����̍�i�̒��쌠�͐M�Z�b�I�I����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権は信濃ッ！！さんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�͂��߂܂��āB<br>�M�Z�b�I�I�Ɛ\���܂��B<br>����Șb�����Ă݂܂������ǂ��ł��傤�H
+はじめまして。<br>信濃ッ！！と申します。<br>こんな話書いてみましたがどうでしょう？
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�@�w��Ղ̐l�x�ˁB�ٍ�̃R�������A���̕ӂ��ӎ��̕Ћ��ɂ����Đ��܂ꂽ�b�������肵�āB��O���X�ł����A�悩�����炲��ǂ��������B<BR><BR><b><i><a href=http://ts.novels.jp/novel/200207/13111138/sinker_1.html target=_top>Click!!</a></i></b><BR><BR>�@�������A����₱���l����Ƃ��肪���ȃV�`���G�[�V�������������ȂƔ��ȁB<BR>�@����͂���Ƃ��Ă��̘b�A�܂����������Ƃ������A�C�f�A�����̂悤�Ȃ̂łȂ�Ƃ������܂���B�������傢�c��܂��Ă݂ẮH</td>
-<td width=10%><a href=mailto:shirou@pc.highway.ne.jp>���Y</a></td>
-<td width=20%>��2003-10-11 00:27:31</td>
+<td style=font-size:10pt>　『奇跡の人』ね。拙作のコレ↓も、その辺が意識の片隅にあって生まれた話だったりして。手前味噌ですが、よかったらご一読ください。<BR><BR><b><i><a href=http://ts.novels.jp/novel/200207/13111138/sinker_1.html target=_top>Click!!</a></i></b><BR><BR>　しかし、それやこれや考えるとありがちなシチュエーションだったかなと反省。<BR>　それはそれとしてこの話、まだ導入部分というかアイデアだけのようなのでなんとも言えません。もうちょい膨らませてみては？</td>
+<td width=10%><a href=mailto:shirou@pc.highway.ne.jp>死郎</a></td>
+<td width=20%>■2003-10-11 00:27:31</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>��j�́w��Ղ̐l�x���v���o���Ă݂���c�B���C�ɓ���̍�i�ł��B<BR>�������TS���m����Ȃ��ł����ǁc�B<BR>�P���Ƀj�R�C�`��������Ȃ��Ă�����Ђ˂肠���Ă��ǂ����������c�B<BR>�ǂ�����΂悢�����Ă����A�C�f�A�܂ł͏o�Ă��Ȃ��̂ł����c�Bm(__)m<BR>���H�삶��܂�܂��ꂾ���Ȃ��c�B���̈�ۂ���������̂�? (^^;</td>
+<td style=font-size:10pt>楠桂の『奇跡の人』を思い出してみたり…。お気に入りの作品です。<BR>＃これはTSモノじゃないですけど…。<BR>単純にニコイチだけじゃなくてもう一ひねりあっても良かったかも…。<BR>どうすればよいかっていうアイデアまでは出てこないのですが…。m(__)m<BR>＃幽霊じゃまんまあれだしなぁ…。あの印象が強すぎるのか? (^^;</td>
 <td>SORA</td>
-<td width=20%>��2003-10-10 23:36:13</td>
+<td width=20%>■2003-10-10 23:36:13</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -106,24 +106,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20031010180139">
 <input type=hidden name="num_r" value="20031010180139">
 <input type=hidden name="url" value="">
@@ -139,17 +139,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=2003121121>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20031010180139">
 <input type=hidden name="log" value="2003121121">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -159,9 +159,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�R���������񊴑z�f����</title>
+<title>山口多聞さん感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�R���������񊴑z�f����</font>
+<font size=5>山口多聞さん感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yamaguti_oomi">
 <input type=hidden name="nj" value="A2Z4GOjvrh">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h nxrldm  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="nxrldm"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード nxrldm  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="nxrldm"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,52 +44,52 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[150]</font> <font size=4 color=#40c0c0> �ǂ��������܂���</font>
+<font size=2>[150]</font> <font size=4 color=#40c0c0> どうもすいません</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/09 (��) 18:52:38 <strong>��</strong> �R���@���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511093185238&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511093185238"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/09 (水) 18:52:38 <strong>▽</strong> 山口　多聞 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511093185238_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200511093185238"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���w�E���肪�Ƃ��������܂��q�ǎ҂��܁B<br>
-�@�Ⴄ�̂�P-40�̕��ŁA������͑�T�A��U�ł����B<br>
-�@�����܂���B</font>
+<font size=3 color=#606060>　ご指摘ありがとうございます拝読者さま。<br>
+　違うのはP-40の方で、こちらは第５、第６でした。<br>
+　すいません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[149]</font> <font size=4 color=#40c0c0> �H�H�H</font>
+<font size=2>[149]</font> <font size=4 color=#40c0c0> ？？？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/08 (��) 21:50:20 <strong>��</strong> �q�ǎ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511082215020&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511082215020"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/08 (火) 21:50:20 <strong>▽</strong> 拝読者 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511082215020_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200511082215020"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�q�������Ă��������Ă���܂��҂ł��B<br>
-����A�~�X�H�Ǝv����ӏ��𔭌����܂����̂ł��񍐂������܂��B<br>
+<font size=3 color=#606060>拝見させていただいております者です。<br>
+今回、ミス？と思われる箇所を発見しましたのでご報告いたします。<br>
 <br>
-���卲�̖��߂Ƌ��ɁA�\�ߓG�ґ����ɕt���Ă����g�e�Q�`�Ƃo�S�O�̍����P�U�@����Ȃ�y��S�z�A��T�����h����Ăɋ}�~�����A�U�������B<br>
-(����)<br>
-���x�͉������猂�����B<br>
-����́g���○�d���𒆐S�Ƃ����R�A�y��S�z�����h�̍U���ł������B<br>
+内大佐の命令と共に、予め敵編隊上空に付いていた“Ｆ２ＡとＰ４０の混合１６機からなる【第４】、第５中隊”が一斉に急降下し、攻撃した。<br>
+(中略)<br>
+今度は下方から撃たれる。<br>
+それは“零戦や雷電改を中心とする第３、【第４】中隊”の攻撃であった。<br>
 <br>
-��S�������Q�o�Ă��Ă��܂����A�ǂ��炪�{���Ȃ̂ł��傤���H</font>
+第４中隊が２つ出てきていますが、どちらが本物なのでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[148]</font> <font size=4 color=#40c0c0> �w�{�y�Ɨ��h�󕔑����S�������@��T�b�@�u�퓬�J�n�v�x������ɂ͂������N���b�N�B</font>
+<font size=2>[148]</font> <font size=4 color=#40c0c0> 『本土独立防空部隊白百合部隊　第５話　「戦闘開始」』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/08 (��) 20:06:03 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200511082200603&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511082200603"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/08 (火) 20:06:03 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200511082200603_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200511082200603"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���S�������ɔz�������p�C���b�g�����́A�F�A�ߋ��ɂ��낢�날�����̂ł��i�΁j�B<br>
+<font size=3 color=#606060>【推薦文】白百合部隊に配属されるパイロットたちは、皆、過去にいろいろあったのです（笑）。<br>
 <a href=http://ts.novels.jp/novel/200407/31143808/lily_h04.htm target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h04.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -97,34 +97,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[147]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[147]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/02 (��) 15:48:06 <strong>��</strong> �R���@���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508022154806&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508022154806"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/02 (火) 15:48:06 <strong>▽</strong> 山口　多聞 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508022154806_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200508022154806"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ�ł���Ă���F�l�A�����������肪�Ƃ��������܂��B�������A�{��������������I��点��\�肾�����̂ɁA�啪�������Ƃ�܂��B���̒��q���ƁA���ƂT�N�͂����肻���ł��B<br>
-�@���āA���R�������͂W���U�C�V�ƍL���A���֕��a�����ߒ������ɏo�悤�Ǝv���Ă��܂��B���Ċ֌W�Ȃ����E�E�E<br>
-�@�ʕ��ł����܂���B</font>
+<font size=3 color=#606060>読んでくれている皆様、いつもいつもありがとうございます。しかし、本当だったらもう終わらせる予定だったのに、大分長引いとります。この調子だと、あと５年はかかりそうです。<br>
+　さて、私山口多聞は８月６，７と広島、呉へ平和を見つめ直す旅に出ようと思っています。って関係ないやん・・・<br>
+　駄文ですいません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[146]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[146]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/02 (��) 00:03:24 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508022000324&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508022000324"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/02 (火) 00:03:24 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508022000324_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200508022000324"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A���}�ꂪ�����Ă��Ă���悤�ł��ˁB<br>
-����܂łōł��������퓬�ɂȂ肻���ȗ\��������܂����A��킭�͔��S�������̑��Q�i���ɐl�I�Ȃ���j���Œ���ł���܂��悤�ɁB<br>
+<font size=3 color=#606060>さあ、ヤマ場が迫ってきているようですね。<br>
+これまでで最も激しい戦闘になりそうな予感がありますが、願わくは白百合部隊の損害（特に人的なそれ）が最低限でありますように。<br>
 <br>
-�󌱂Ƃ̂��ƂȂ̂ŁA���ꂮ�������������܂��ʂ悤�B<br>
-�ł��A����ρA���ꂾ���͌��킹�Ă��������ȁB�u����ɂ����҂��Ă��܂��I�v</font>
+受験とのことなので、くれぐれも無理をされませぬよう。<br>
+でも、やっぱ、これだけは言わせてくださいな。「次回にも期待しています！」</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -132,14 +132,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[145]</font> <font size=4 color=#40c0c0> �w�{�y�Ɨ��h�󕔑����S�������@��S�b�@�u�{�y���h���v�x������ɂ͂������N���b�N�B</font>
+<font size=2>[145]</font> <font size=4 color=#40c0c0> 『本土独立防空部隊白百合部隊　第４話　「本土初防空戦」』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/01 (��) 19:58:44 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508011195844&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508011195844"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/01 (月) 19:58:44 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508011195844_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200508011195844"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�푈�͐l���ȒP�Ɂu���S�v�ւƕς���c�c�u�푈���v�u�R�l���v�Ƃ��������ŁB<br>
+<font size=3 color=#606060>【推薦文】戦争は人を簡単に「悪鬼」へと変える……「戦争だ」「軍人だ」というだけで。<br>
 <a href=http://ts.novels.jp/novel/200407/31143808/lily_h04.htm target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h04.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -147,43 +147,43 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[144]</font> <font size=4 color=#40c0c0> ���J���U��ł��c�c</font>
+<font size=2>[144]</font> <font size=4 color=#40c0c0> 数カ月振りです……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/16 (�y) 16:02:11 <strong>��</strong> ���̃��V�v���t�@�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200507166160211&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507166160211"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/16 (土) 16:02:11 <strong>▽</strong> 一介のレシプロファン </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200507166160211_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200507166160211"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃɂ��F�X�Ƃ����Ă�������Ԃ��󂢂Ă��܂��܂����c�c<br>
+<font size=3 color=#606060>なにか色々とあってすっかり間が空いてしまいました……<br>
 <br>
-�V��i�Ƃ����Ă��c�j�q�����܂����B�ΐ������C���A��l�̂����A�O�`�u�A���v�ȗ��ł��ˁB<br>
-�����͍U���ł����A���e�͓O�b�e����p�̑ΐ��e���������͂��B���ɂ����e�͂��Ȃ�̎�ނ�����܂���B<br>
-�C�ʔ��������p�̔����A�L�͈͔j��p�̎O�\�ꍆ���d�ǔ��e�i���Z���T�[�ō��x�����m�j�A���^���e���l�ߍ��񂾓�\�ꍆ�A�΋�p�̎O���A���ɓ�\�������i�y���e�A��\�������i���Œe�A�����B<br>
-�P�R�P��ł� ��\�������i�y���e��ΐ����͗p�Ɋ��p���Ă��܂��B�Q�W���͒��i�����悭�A7.7mm�@�e�ƕ��p���鎖�ł��Ȃ薽�������ǂ����������ł��B<br>
-�܂��A�˂ɂ�������������ΐ��s�ł��܂��񂵁A����ɍג����A�C�ʏ�̓��e�ʐς����Ȃ������͂ɂ́A�O�b�e�̒�����莊�ߒe�̔����ł̍U���̕������������ǂ��͂��B<br>
+新作（といっても…）拝見しました。対潜哨戒任務、二人のやり取り、外伝「廣島」以来ですね。<br>
+潜水艦攻撃ですが、爆弾は徹甲弾より専用の対潜弾があったはず。他にも爆弾はかなりの種類がありますよ。<br>
+海面反跳爆撃用の八号、広範囲破壊用の三十一号光電管爆弾（光センサーで高度を感知）、小型爆弾を詰め込んだ二十一号、対空用の三号、他に二十八号噴進炸裂弾、二十七号噴進焼霰弾、等等。<br>
+１３１空では 二十八号噴進炸裂弾を対潜水艦用に活用しています。２８号は直進性がよく、7.7mm機銃と併用する事でかなり命中率が良かったそうです。<br>
+まあ、戸にかく損傷させれば潜行できませんし、それに細長く、海面上の投影面積も少ない潜水艦には、徹甲弾の直撃より至近弾の爆圧での攻撃の方が命中率が良いはず。<br>
 <br>
-���t�@�ł����A���x���x�����ڕW�m�F�����Ղ��A�A���R�̑ΐ������ł̓\�[�h�t�B�b�V�������p����܂������A�\�[�h�t�B�b�V���ł����P�b�g�e�𑕔����Ēn��U���A�ΐ��U���Ɏg���Ă܂��B�@�e�|�˂ɂ��Ă��A���x���x�����A�e���̖��x�������A�����ȈЗ͂������ƁB<br>
+複葉機ですが、速度が遅い分目標確認がし易く、連合軍の対潜部隊ではソードフィッシュが愛用されましたが、ソードフィッシュでもロケット弾を装備して地上攻撃、対潜攻撃に使われてます。機銃掃射にしても、速度が遅い分、弾幕の密度が高く、相当な威力だったと。<br>
 <br>
-�����z�������ł����A���m�̑ϋv���A���v�͂����コ����ׂɁA�������m�Ɏ����I�ɓ��^�����Ƃ����̂͂ǂ����Ō���������܂��B�ł����]���ׂ̈ɓG���m�ɁA�Ƃ����̂͂����牽�ł��C�����߂���ƌ������A��Z�p�I�Łc<br>
+女性ホルモンですが、兵士の耐久性、持久力を向上させる為に、味方兵士に試験的に投与したというのはどっかで見た事あります。でも性転換の為に敵兵士に、というのはいくら何でも気が長過ぎると言うか、皮算用的で…<br>
 <br>
-��������䖳�������Ă܂������A�܂��܂������A���̃V���[�Y�A�y���݂ɂ��Ă��܂��B<br>
-�撣���ĉ������I</font>
+すっかり御無沙汰してましたが、まだまだ続く、このシリーズ、楽しみにしています。<br>
+頑張って下さい！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[143]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[143]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/30 (�y) 23:28:38 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504306232838&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504306232838"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/30 (土) 23:28:38 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504306232838_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200504306232838"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���͂́B���܂����߂��Ⴍ����G�����i���j�B<br>
-�푈�Ƃ���������O�ɂ��Ă��Ȃ�̐S���ω����������悤�ł��ˁB<br>
-���āA���ꂩ��ǂ��Ȃ��Ă����̂����Ɋy���݂ł��B</font>
+<font size=3 color=#606060>あはは。おまけがめちゃくちゃ萌えた（爆）。<br>
+戦争という現実を前にしてかなりの心境変化があったようですね。<br>
+さて、これからどうなっていくのか非常に楽しみです。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -191,38 +191,38 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[142]</font> <font size=4 color=#40c0c0> �҂��Ă��܂���</font>
+<font size=2>[142]</font> <font size=4 color=#40c0c0> 待っていました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/30 (�y) 18:36:53 <strong>��</strong> ���q�����i�ߊ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504306183653&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504306183653"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/30 (土) 18:36:53 <strong>▽</strong> 第二航空戦隊司令官 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504306183653_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200504306183653"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�w�N���ς���ď������Ԃ��ł��܂������H<br>
-���{�C�R�̐����͂ł��ƕ��サ�Ă����Ԃ�������܂�1����؂邱�Ƃ��P���ڕW�ł��ˁB�A�����J�C�R�͂����܂ł̌P�������Ă��Ȃ��Ƃ��āA2���ƌ��ς����āA���̊Ԃɑ�2���������Č����B96�͍U���̐��𗧂Ē����Ė߂��Ă���̂ɂǂ̒��x���Ԃ�������̂ł��傤�H<br>
-�K�g�[�N���X�ł�����A���㎞�΋󃌁[�_�[�Ōx�������Ă���ł��傤����A�����Ɖ����̗��R�Ń��[�_�[�T�m�ł��Ȃ����A���s�ł��Ȃ��悤�ȏ󋵂��������̂ł��傤�ˁB<br>
-�h�C�c�̓���K�X�A��Q�҂͑��ɂ�����Ƃ������͂ɓǂ߂܂��ˁB�y���݂ł��B</font>
+<font size=3 color=#606060>学年が変わって少し時間ができましたか？<br>
+日本海軍の潜水艦ですと浮上している状態から潜水まで1分を切ることが訓練目標ですね。アメリカ海軍はそこまでの訓練をしていないとして、2分と見積もって、この間に第2撃を加えて撃沈。96艦攻が体勢を立て直して戻ってくるのにどの程度時間がかかるのでしょう？<br>
+ガトークラスでしたら、浮上時対空レーダーで警戒をしているでしょうから、きっと何かの理由でレーダー探知できないが、潜行できないような状況があったのでしょうね。<br>
+ドイツの特殊ガス、被害者は他にもいるという文章に読めますね。楽しみです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[141]</font> <font size=4 color=#40c0c0> �w�{�y�Ɨ��h�󕔑����S�������@��R�b�@�u�S�͎��v�x������ɂ͂������N���b�N�B</font>
+<font size=2>[141]</font> <font size=4 color=#40c0c0> 『本土独立防空部隊白百合部隊　第３話　「鉄鯱狩り」』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/30 (�y) 15:47:28 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504306154728&log=yamaguti_oomi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504306154728"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/30 (土) 15:47:28 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504306154728_log_yamaguti_oomi.cgi">返信</a>　削除<input type=checkbox name="target" value="200504306154728"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�u�i�`�X�̉Ȋw�͂͐��E��`�b�I�I�v�Ƃ������b�ł͂���܂���i�΁j�B<br>
+<font size=3 color=#606060>【推薦文】「ナチスの科学力は世界一〜ッ！！」というお話ではありません（笑）。<br>
 <a href=http://ts.novels.jp/novel/200407/31143808/lily_h03.htm target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h03.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yamaguti_oomi">
@@ -230,16 +230,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yamaguti_oomi">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yamaguti_oomi">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yamaguti_oomi.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

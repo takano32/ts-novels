@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,46 +52,46 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�Ȃ�Ƃȁ`���v�������b�B
+なんとな〜く思いついた話。
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF����삳��</center><tr>
+<center>作者：日比野さん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�u������[�I�I�v<br><br>��l���F��j�́A���̒ʂ��Ă��邾���ŋ����܂ł��炦�Ă��܂��邵�A�����͍��ƌ������ɕK���Ȃ��Ƃ����A����{�鍑��w�ɍ��i�����̂��B�i���ۂɂ͑��݂��܂���̂ł������炸�j<br><br>�u����ŉ��̏����͈��ׂ��I�v<br><br>���������܂肱�̑�w���󌱂����Ƃ����l���������Ƃ��Ȃ��B���i�����l�Ȃ�Ă����Ă̂ق��B<br>��̃x�[���ɕ�܂ꂽ�s�v�c�ȑ�w�Ȃ̂ł���B<br><br>�����͓��w���B��j�͈ӋC�g�X�Ƒ�w�֓����Ă������B<br>�󌱔ԍ����Ƃɓ���N���X���������Ă��āA��j�͎w�肳�ꂽ�����ւƐi�񂾁B<br><br>�K���K���I<br><br>�����������͈ٗl�ȕ��͋C�ɕ�܂�Ă����B�Ⴆ��Ȃ�A�q�o�f�̃Q�[���̃{�X��Ŏc��̂g�o�����Ȃ��Ȃ��Ă��܂����������낤���B<br><br>�u�N����j�N���ˁB�v<br><br>�������������̂��A�������ِ��E�ɗ��Ă��܂����̂��B�����ɂ͂ЂƂ�A�R���𒅗p�����������񂪍����Ă����B<br><br>�u�͂��B���͂悤�������܂��B�v<br><br>�`��������j�͈��A������B<br><br>�u���Ⴀ�����Ɋ|���Ă��ꂽ�܂��B�v<br><br>�P���������Ȃ��C�X�ɍ��|����B���̕��͋C�ɉ�����Ă���̂��B��⊾���o�Ă���B<br><br>�u�ł́A��������N�͉䂪�R�̔C���ɂ��Ă��炤�B�����̂��߂ɐ���t�����悤�ɁB�v<br><br>��j�͌�������߂Ȃ������B�����͏��a�̐�O�ɂł��^�C���X���b�v���Ă��܂����̂��ƁB<br><br>�u�ȂɁA�������͂Ȃ��B�����͗B��A���{���̂̑���{�鍑�Ƃ��Ďc���Ă���A���̓��{�ł͍s���Ȃ��悤�ȋɔ�C�����s���Ă����Ȃ̂��B�v<br><br>�����āc<br><br>�u�c�ŁA���ꂪ�ɔ�C������I�v<br><br>��j�͍��A���łɑ��Ƃ��������̍��Z�ɂ���B�������������Ăł���B����ɐ��k�Ƃ��Ăł͂Ȃ��A�����t�Ƃ��āA�����̊Ԃ܂łƂ͂܂������t�̗���ɂ���̂��B<br>�R���̂�������H���B�u���̔C���́A�����ǂ��ď���̌N�ɂ����s���Ȃ��C���Ȃ̂��B�v�Ƃ̂��ƁB<br><br>�u�����ړI�Ȃ񂾂��c�B�v<br><br>����������Ȃ��Ƃ������󂯂Ă��܂������������B�Ȃ񂹓�ւ�˔j���đ�w�ɐi�w�����̂ɁA���܂���~�߂�Ȃ�Ăǂ����Ǝv�����A�e�ɂ������ȂǂƎv���Ă���̂��낤�B<br><br>�u���������āA���ʂ̋��t����Ă�����S�R�������ȁB�v<br><br>���ܐE����c���I������B�N���X�S�C�ɂȂ��Ă���̂ŁA���̂g�q�����ɂ����Ȃ���΂Ȃ�Ȃ��B��j�͂R�N�V�g�̒S�C�ɂȂ����B<br><br>�u������񂹁I���݂��V�C�̋��t�Ƃ��Ă���΂�܂��傤�ˁB�v<br><br>����Ƃ͉�j�̋U���B��������H���u���̔C���͒N�ɂ��j���Ƃ������Ƃ��΂�Ă͂����Ȃ��B���ɂȂ肫��̂��w�����I�v�炵���ł��B<br>���Ȃ݂ɁA���̐V�C�����t�͗��h�ɑ�w�ŋ��E�ے����C�����A������K���I���������Ƃ������t���B����Ƃ͔N����w�͂����Ƃ����ۂ�̂悤�ɈႤ�̂ł���B<br><br>�u�킽���������Ȃ��悤����΂�܂���ŁI�搶������΂��Ă��������ˁB�v<br><br>�����t��b���Ă��鎩���ɋC�����������o���Ȃ���A�N���X�ւƕ����Ă�������������B<br><br>���킴��<br>�������ɎO�N�A������������Ă���B<br>�u�݂Ȃ��񂱂�ɂ��́B�������炱�̃N���X���󂯎��{�����ł��B��N�Ԃ�낵���ˁB�v<br>�O���͔��l�����t�Ȃ̂ŁA�j�q���k�������o���B<br>�u���Ⴀ�A�o�Ȃ��Ƃ�܂��B���`���ƁA���c�B�v<br>�o�ȕ�̒��ɁA�Ȃ�Ǝ����̍��Z����̕����̌�y�������B�������P�l����Ȃ��A�R�l�قǁB<br>����ĂăN���X�����񂷂ƁA�P�l�̒m���Ă�炪������܂��܂��ƌ��Ă����B<br><br>���̐�̌��Ȍ��i���A�ڂɕ�����ł������P�W�΂̏t�ł������B<br><br>
+「やったー！！」<br><br>主人公：雅史は、あの通っているだけで給料までもらえてしまえるし、将来は国家公務員に必ずなれるという、大日本帝国大学に合格したのだ。（実際には存在しませんのであしからず）<br><br>「これで俺の将来は安泰だ！」<br><br>しかしあまりこの大学を受験したという人を見たことがない。合格した人なんてもってのほか。<br>謎のベールに包まれた不思議な大学なのである。<br><br>今日は入学式。雅史は意気揚々と大学へ入っていった。<br>受験番号ごとに入るクラスが分けられていて、雅史は指定された教室へと進んだ。<br><br>ガラガラ！<br><br>入った教室は異様な雰囲気に包まれていた。例えるなら、ＲＰＧのゲームのボス戦で残りのＨＰが少なくなってしまった感じだろうか。<br><br>「君が雅史君だね。」<br><br>頭がおかしいのか、自分が異世界に来てしまったのか。教室にはひとり、軍服を着用したおっさんが座っていた。<br><br>「はい。おはようございます。」<br><br>義理堅く雅史は挨拶をする。<br><br>「じゃあそこに掛けてくれたまえ。」<br><br>１つだけしかないイスに腰掛ける。この雰囲気に押されているのか。冷や汗が出てくる。<br><br>「では、今日から君は我が軍の任務についてもらう。お国のために精一杯働くように。」<br><br>雅史は現状をつかめなかった。自分は昭和の戦前にでもタイムスリップしてしまったのかと。<br><br>「なに、驚く事はない。ここは唯一、日本が昔の大日本帝国として残っている、今の日本では行えないような極秘任務を行っている場なのだ。」<br><br>そして…<br><br>「…で、これが極秘任務かよ！」<br><br>雅史は今、すでに卒業した自分の高校にいる。しかも女装してである。さらに生徒としてではない、女教師として、ついこの間までとはまったく逆の立場にいるのだ。<br>軍服のおっさん曰く。「この任務は、頭が良くて女顔の君にしか行えない任務なのだ。」とのこと。<br><br>「何が目的なんだか…。」<br><br>しかしそんなことも引き受けてしまう自分がいた。なんせ難関を突破して大学に進学したのに、いまさら止めるなんてどうかと思うし、親にも悪いなどと思っているのだろう。<br><br>「給料だって、普通の教師やってるよりも全然いいしな。」<br><br>いま職員会議が終わった。クラス担任になっているので、朝のＨＲをしにいかなければならない。雅史は３年７組の担任になった。<br><br>「雅美せんせ！お互い新任の教師としてがんばりましょうね。」<br><br>雅美とは雅史の偽名。おっさん曰く「この任務は誰にも男だということがばれてはいけない。女になりきるのが指名だ！」らしいです。<br>ちなみに、この新任女教師は立派に大学で教職課程を修了し、教育実習も終えたちゃんとした教師だ。雅美とは年齢も学力も月とすっぽんのように違うのである。<br><br>「わたしも負けないようがんばりますんで！先生もがんばってくださいね。」<br><br>女言葉を話している自分に気持ち悪さを覚えながら、クラスへと歩いていく雅美だった。<br><br>ざわざわ<br>さすがに三年、教室がざわついている。<br>「みなさんこんにちは。今日からこのクラスを受け持つ本城雅美です。一年間よろしくね。」<br>外側は美人女教師なので、男子生徒が騒ぎ出す。<br>「じゃあ、出席をとります。え〜っと、あ…。」<br>出席簿の中に、なんと自分の高校時代の部活の後輩がいた。しかも１人じゃなく、３人ほど。<br>あわててクラスを見回すと、１人の知ってる顔が雅美をまじまじと見ていた。<br><br>この先の嫌な光景が、目に浮かんでくる雅美１８歳の春であった。<br><br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�����
+日比野
 </address>
-2003�N05��03��(�y) 08��56��38�b ���J<br>
+2003年05月03日(土) 08時56分38秒 公開<br>
 <!--61.211.85.134-->
-<font color=red>�����̍�i�̒��쌠�͓���삳��ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権は日比野さんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-��Q�f�����g���Ă݂����ď����܂����B<br>�s�r���q�i����͈Ⴄ���ǁj���w�Z�̐��k���Ă����V���`���G�[�V�����͂悭�������܂����A�w�Z�̐搶���č��܂ŏ����ꂽ�����Ă����ł��傤���B�����狳���ė~�����ł��B<br>���̘b�͎n�߂͂悭�킩��Ȃ����A�͂��肾���ł���܂�ʔ����Ȃ��ł����ǁA���܂ł��������ݒ�ŏ����ꂽ�������Ȃ��񂾂�����A�ǂȂ����ɂ����Ă��������������̂ł��ˁB<br>�����A�Ȃ񂩗���ł΂�����ł��c�B�p���������c�B<br>���Ȃ݂ɂڂ��͓�����Ȃ̂łނ���ۂ��ł��B<br>�ł́I <br>
+第２掲示板を使ってみたくて書きました。<br>ＴＳっ子（雅美は違うけど）が学校の生徒っていうシュチュエーションはよく見かけますが、学校の先生って今まで書かれた方っているんでしょうか。いたら教えて欲しいです。<br>この話は始めはよくわかんないし、はしりだけであんまり面白くないですけど、今までこういう設定で書かれた方がいないんだったら、どなたかにかいていただきたいものですね。<br>ああ、なんか頼んでばっかりです…。恥ずかしい…。<br>ちなみにぼくは難しそうなのでむりっぽいです。<br>では！ <br>
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3><th colspan=4>
-���z�L���̓��e�͌��݂���܂���B
+感想記事の投稿は現在ありません。
 </th></tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -99,24 +99,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20030503085638">
 <input type=hidden name="num_r" value="20030503085638">
 <input type=hidden name="url" value="">
@@ -132,17 +132,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20030503085638">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -152,9 +152,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

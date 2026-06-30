@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�l�t�b�j���񊴑z�f����</title>
+<title>ＭＵＣＫさん感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�l�t�b�j���񊴑z�f����</font>
+<font size=5>ＭＵＣＫさん感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="muck">
 <input type=hidden name="nj" value="iykZAkkfJK">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h jxmbW6  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="jxmbW6"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード jxmbW6  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="jxmbW6"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,40 +44,40 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> ���ɓ�����</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> 下に同じく</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/11 (��) 17:37:03 <strong>��</strong> ���Z </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509110173703&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509110173703"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/11 (日) 17:37:03 <strong>▽</strong> 庶浸 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509110173703_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200509110173703"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ȃ�O�ɓǂ�ł���܂����܂�����<br>
-�҂��Ă��܂��B<br>
-�����������Ďd���Ȃ��̂ł����c<br>
-���������܂����܂�Ȃ��̂Ȃ�d���Ȃ��ł���(��<br>
+<font size=3 color=#606060>かなり前に読んでからまだかまだかと<br>
+待っています。<br>
+うずうずして仕方ないのですが…<br>
+落ちがうまく決まらないのなら仕方ないですね(ぉ<br>
 <br>
-���ɓ����Ŗ����Ȃ��ł��傤���A���҂��Ă���̂�<br>
-�ł����Ƃ��͑�UP���肢���܂����@�ł́`��</font>
+下に同じで味がないでしょうが、期待しているので<br>
+できたときは即UPお願いしますｗ　では〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> �����A�҂��Ă��܂��B</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> 続き、待っています。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/18 (�y) 17:37:10 <strong>��</strong> �ނ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412186173710&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412186173710"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/18 (土) 17:37:10 <strong>▽</strong> むぅ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412186173710_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200412186173710"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@��S�b�f�ڂ���A�����Ԃ����܂��ˁB<br>
-�@�w������Ƃ������ƂŁA��ςł��傤���A<br>
-�����Ɋ��҂��Ă���܂��B<br>
-�@����������{�ݒ莩�̍D���ł��̂ŁA�b��<br>
-�W�J�Ƃ��Ắi�l�I�ɂ́j�A�ǂ�Ȃ��̂�<br>
-�����\�ł��B�Ƃɂ��������Ƃ����ȗ��<br>
-�ډ؂����Ă݂����ł��ˁB<br>
+<font size=3 color=#606060>　第４話掲載から、だいぶたちますね。<br>
+　学生さんということで、大変でしょうが、<br>
+続きに期待しております。<br>
+　こういう基本設定自体好きですので、話の<br>
+展開としては（個人的には）、どんなもので<br>
+も結構です。とにかくもっといろんな竜矢＆<br>
+瑠華を見てみたいですね。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -85,53 +85,53 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂��B</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/28 (��) 22:14:08 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403280221408&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403280221408"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/28 (日) 22:14:08 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403280221408_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200403280221408"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ƁA�����̃��X�A���肪�Ƃ��������܂��B�͂��߂܂��āi�΁j<br>
-���������f���ɏ������݂�����̂��݂�Ǝ������k�܂�܂��i��<br>
-�S���Ɉ����ł��i�΁j<br>
+<font size=3 color=#606060>ええと、早速のレス、ありがとうございます。はじめまして（笑）<br>
+いつもいつも掲示板に書き込みがあるのをみると寿命が縮まります（ぉ<br>
+心臓に悪いです（笑）<br>
 <br>
-���āA�삯���ŋ^��ɉ����I<br>
-<font color="#cc88ff">&gt;�W�����������@�Ƃ��������͎��́u�`���������v�Ɠ����ł����A</font><br>
-�����ł��ˁB���ʂ��镔�������\����Ǝv���܂��B<br>
-<font color="#cc88ff">&gt;������S�񂩂炩�Ȃ肽���Ă܂��������Ă���̂ł���ˁH</font><br>
-�����Ă܂��I�@��D�]�i���ǂ���������Ȃ����ǁj�A�ڒ��ł��I�i���j<br>
-��ܘb�͂قƂ�ǏI����āA���͑�Z�b����Ă܂��B�ŁA���̌ܘb�����܂ł����Ă����e����Ȃ����Ƃ����Ɓc�c�I�`���c�i��<br>
-<font color="#cc88ff">&gt;�������܂��s���ł������㖾�炩�ɂȂ�̂ł���ˁI�H</font><br>
-�Ȃ�܂��I�@�ށi�ޏ��j�����̐ݒ�͂��̏������������n���l���邤���ł̐ݒ�͍���ėL��܂��B���ꂪ���������̂́I�@�c�c���[�A���Ɂc�c�H�i�u���Ȃ�j<br>
-<font color="#cc88ff">&gt;�������y���݂ł��B</font><br>
-���肪�Ƃ��������܂��B�����҂ɂ�����悤�A�s�ӓw�͒v���܂��i���j</font>
+さて、駆け足で疑問に解決！<br>
+<font color="#cc88ff">&gt;ジャンルが魔法という部分は私の「Ａｎｇｅｌ」と同じですが、</font><br>
+そうですね。共通する部分も結構あると思います。<br>
+<font color="#cc88ff">&gt;ただ第４回からかなりたってますが続いているのですよね？</font><br>
+続いてます！　大好評（かどうか分からないけど）連載中です！（爆）<br>
+第五話はほとんど終わって、今は第六話やってます。で、何故五話がいつまでたっても投稿されないかというと……オチが…（ぉ<br>
+<font color="#cc88ff">&gt;そこがまだ不明ですが今後明らかになるのですよね！？</font><br>
+なります！　彼（彼女）たちの設定はこの小説を書く下地を考えるうえでの設定は作って有ります。それが明かされるのは！　……えー、いつに……？（訊くなよ）<br>
+<font color="#cc88ff">&gt;続きが楽しみです。</font><br>
+ありがとうございます。ご期待にそえるよう、鋭意努力致します（ぉ）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/28 (��) 21:29:30 <strong>��</strong> <a href="mailto:gensan@k8.dion.ne.jp">酉J</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403280212930&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403280212930"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/28 (日) 21:29:30 <strong>▽</strong> <a href="mailto:gensan@k8.dion.ne.jp">驟雨</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403280212930_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200403280212930"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���`�x���Ȃ�܂������A�ǂ܂��Ă��������܂����B<br>
-�W�����������@�Ƃ��������͎��́u�`���������v�Ɠ����ł����A<br>
-�܂���������A���E�̒����������������Ǝv���܂��B<br>
-������S�񂩂炩�Ȃ肽���Ă܂��������Ă���̂ł���ˁH<br>
-������ƐS�z�ɂȂ�܂������A���Z������Z�����ł���ˁB�i�������̍��́E�E�E���A���H�j<br>
-�R���f�B���܂܂�Ă���̂ł�������ǉ����������ǂ��̂��ƁB<br>
-�P�N�͖ʔ����ł��ˁB����ȃL�����ł����������ǂ������Ǝv���܂��B<br>
-�����P�N���Ⴓ����Ȃ����@��A�z���𑀂��̂��B<br>
-�������܂��s���ł������㖾�炩�ɂȂ�̂ł���ˁI�H<br>
-���낢��䂪�c���Ă܂����A���ꂩ�疾�炩�ɂȂ��Ă����̂��y���݂ł��B<br>
-����������Ƃs�r�̓W�J�������āA������₷���ł���΂����̂��ȁH�Ǝv���܂����B<br>
-��s�󂯂邩�󂯂Ȃ����͂l�t�b�j�l�̂����f�ɂ��C�����܂��B<br>
-���͂Ƃ����ꑱ�����y���݂ł��B<br>
+<font size=3 color=#606060>え〜遅くなりましたが、読ませていただきました。<br>
+ジャンルが魔法という部分は私の「Ａｎｇｅｌ」と同じですが、<br>
+また違った環境、世界の中いい感じだったと思います。<br>
+ただ第４回からかなりたってますが続いているのですよね？<br>
+ちょっと心配になりましたが、高校生じゃ忙しいですよね。（私もあの頃は・・・え、今？）<br>
+コメディが含まれているのでそちらも追加した方が良いのかと。<br>
+鳳君は面白いですね。あんなキャラでもいた方が良かったと思えます。<br>
+ただ鳳君も黛さんもなぜ魔法や陰陽道を操れるのか。<br>
+そこがまだ不明ですが今後明らかになるのですよね！？<br>
+いろいろ謎が残ってますが、これから明らかになっていくのが楽しみです。<br>
+もうちょっとＴＳの展開を加えて、分かりやすくできればいいのかな？と思いました。<br>
+一行空けるか空けないかはＭＵＣＫ様のご判断にお任せします。<br>
+何はともあれ続きが楽しみです。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -139,149 +139,149 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> ���₠�A�����������Ă������̂ł��˂��B�i�ʖځj</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> いやあ、現実逃避っていいものですねぇ。（駄目）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/23 (��) 14:17:10 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310234141710&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310234141710"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/23 (木) 14:17:10 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310234141710_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200310234141710"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����B�e�X�g�^�������̂l�t�b�j�ł��B<br>
-���₠�A�����������āi�ȉ����j�B<br>
+<font size=3 color=#606060>どうも。テスト真っ只中のＭＵＣＫです。<br>
+いやあ、現実逃避って（以下略）。<br>
 <br>
-<font color="#ff88cc">���i�E�e�@����</font><br>
-�ǂ������̘A���ƈꏏ�ɋ���Ǝ�l���������悤�ȁi���j<br>
-�Ƃ������Ŏ���͂�����Ƃ��x�݁B<br>
-�U�b�ɂȂ邩�ȁ[�B�ēo��B�i��</font>
+<font color="#ff88cc">＞Ｊ・Ｆ　さん</font><br>
+どうもあの連中と一緒に居ると主人公が喰われるような（汗）<br>
+という事で次回はちょっとお休み。<br>
+６話になるかなー。再登場。（ぉ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> ���w�l�`�f�h�b�`�k�@�s�v�h�m�r�@��S��x</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> ＞『ＭＡＧＩＣＡＬ　ＴＷＩＮＳ　第４回』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/21 (��) 00:32:20 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310212003220&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310212003220"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/21 (火) 00:32:20 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310212003220_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200310212003220"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�B�����܂���A�ߍ��b�c�s�u�͌��ĂȂ��X�B<br>
+<font size=3 color=#606060>あー。すいません、近頃ＣＤＴＶは見てないス。<br>
 <br>
-�m���ɁA��������e�𐨂ɒ��ڂ��W�܂��Ă�݂����ł����A<br>
-�܂��͊猩���B�ł���ˁH(^^<br>
-���񂨂ƂȂ��������ډ؏�ɂ͎���v��������n�W�P�Ă��������܂��傤�B�Ă��ƂŊ��҂��ă}�X�i���Ёj<br>
+確かに、主役よりも脇役勢に注目が集まってるみたいですが、<br>
+まずは顔見せ。ですよね？(^^<br>
+今回おとなしかった瑠華嬢には次回思いっきりハジケていただきましょう。てことで期待してマス（おひ）<br>
 <br>
-<font color="#ff88cc">���s��</font><br>
-�l�I�ɂ́A�J���ĂȂ����������ł��ˁB<br>
-�ނ���A�J���Ă�Ɗԉ��т�����ۂ��B</font>
+<font color="#ff88cc">＞行間</font><br>
+個人的には、開いてない方がいいですね。<br>
+むしろ、開いてると間延びした印象が。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> ���v���Ԃ�`�A�B�Ȃ̂ł��B</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> お久しぶり〜、。なのです。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/20 (��) 21:40:40 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310201214040&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310201214040"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/20 (月) 21:40:40 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310201214040_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200310201214040"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�񃖌��Ԃ�̓o��Ƒ�����܂����l�t�b�j�ł��B<br>
-���̍�҂���̂Ƃ���ɂ͂��傭���傭����o���Ă����̂ł����A�����ɗ���͖̂{���ɊԂ��J���Ă��܂����ƁB(--;<br>
-�ł́A�����z�̂��Ԏ��ցB<br>
+<font size=3 color=#606060>どうも、二ヶ月ぶりの登場と相成りましたＭＵＣＫです。<br>
+他の作者さんのところにはちょくちょく顔を出していたのですが、ここに来るのは本当に間が開いてしまったと。(--;<br>
+では、ご感想のお返事へ。<br>
 <br>
-<font color="#ff88cc">�����������@����</font><br>
-<font color="#cc88ff">&gt;�o�g���̂Ƃ��ŁA�C�ɂȂ������Ƃ�����܂��B</font><br>
-�����ށA��͂荡��̐����ۑ�ł��ˁB<br>
-�Տꊴ���Ȃ��Ƃǂ����悤���Ȃ��u�o�g���v�Ɂu�����Ɉ����߂���Ă��܂����v�ȂǂƎw�E����Ă̓_���ł��ˁB<br>
-�󋵕`�ʂ������Ɛ[���Ƃ���܂ł����Ȃ��ƁA���������ɂȂ��Ă��܂��܂��ȁB<br>
-<font color="#cc88ff">&gt;�ډ؁\�\�o�ԏ��Ȃ��B��b�ɓ����ĂȂ��B�T�u�L���������I�H</font><br>
-�c�c�}�Y�C�B���ɂ���l���̈ꗃ��S���L�����Ȃ̂ɁB<br>
-�����̂Ƃ���ǂ�ǂ�e���������`�i���j<br>
-����́A�ޏ����N���[�Y�A�b�v�����悤�B�u�������L�����v�����i�΁j<br>
-<font color="#cc88ff">&gt;�ߗR���\�\�^�W�����v�̂��̖싅���}�l�I�H</font><br>
-���W�����v�Ŗ싅������Č��������{�����Ȃ�����Ȃ��ł����I�i�΁j<br>
-���炭�A�ς���̎��������Ă�̂��Ǝv���܂����A�ޏ������f���ł͂Ȃ��ł��B<br>
-�o�ꂳ����܂Ŕޏ��̐��i�����߂��˂Ă����̂ł����A����Ō��܂�܂����i�΁j<br>
+<font color="#ff88cc">＞ｓａｎａ　さん</font><br>
+<font color="#cc88ff">&gt;バトルのとこで、気になったことがあります。</font><br>
+ううむ、やはり今後の成長課題ですね。<br>
+臨場感がないとどうしようもない「バトル」に「現実に引き戻されてしまった」などと指摘されてはダメですね。<br>
+状況描写をもっと深いところまでいかないと、ぐだぐだになってしまいますな。<br>
+<font color="#cc88ff">&gt;瑠華——出番少ない。会話に入ってない。サブキャラ化か！？</font><br>
+……マズイ。仮にも主人公の一翼を担うキャラなのに。<br>
+ここのところどんどん影がうすく〜（汗）<br>
+次回は、彼女をクローズアップさせよう。「ｐｉａキャロ」だし（笑）<br>
+<font color="#cc88ff">&gt;那由他——某ジャンプのあの野球部マネ！？</font><br>
+今ジャンプで野球漫画って言ったら一本しかないじゃないですか！（笑）<br>
+恐らく、狐さんの事を言ってるのだと思いますが、彼女がモデルではないです。<br>
+登場させるまで彼女の性格を決めかねていたのですが、今回で決まりました（笑）<br>
 <br>
-<font color="#ff88cc">���d�g�d���@����</font><br>
-<font color="#cc88ff">&gt;���Ɨډ؂���񂪂���܂�ڗ����ĂȂ��̂�(�G�L�t���j�c�c������B</font><br>
-�����A�܂������Ă�i���j<br>
-�A�������́A�c�ł���I<br>
-<font color="#cc88ff">&gt;���Ə������ۂ���ǋy�������̂ł�����A���̂܂܂��ǂ����ȁB</font><br>
-���Ə�����ڎw���Ă����ł͂Ȃ��̂ł����A����ς�s�Ԃ��󂯂�������s��s�ڂŒǂ��₷�����ȂƁB�c�c�l�����H<br>
+<font color="#ff88cc">＞電波妖精　さん</font><br>
+<font color="#cc88ff">&gt;あと瑠華ちゃんがあんまり目立ってないのが(；´д⊂）……いかん。</font><br>
+ああ、また言われてる（泣）<br>
+つ、次こそは、…ですよ！<br>
+<font color="#cc88ff">&gt;商業小説っぽさを追及したいのでしたら、今のままが良いかな。</font><br>
+商業小説を目指している訳ではないのですが、やっぱり行間を空けた方が一行一行目で追いやすいかなと。……僕だけ？<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U�@����</font><br>
-<font color="#cc88ff">&gt;�Ȃ񂩃o���G�e�B�L���ȘA�����������w�Z�ł��Ȃ��B</font><br>
-�o���G�e�B�ɕx�񂾁c���������ݒ������Ă͂���̂ł����A���o�����H<br>
-�Ƃ肠��������͋�������ɔC���B�i��<br>
-�����A�Ȃ�ĕ֗��ȕ��Ȃ�ł���i���j</font>
+<font color="#ff88cc">＞ｍｋ８４２６　さん</font><br>
+<font color="#cc88ff">&gt;なんかバラエティ豊かな連中が揃った学校ですなぁ。</font><br>
+バラエティに富んだ…を説明する設定も作ってはいるのですが、いつ出そう？<br>
+とりあえず解説は恭香さんに任そ。（ぉ<br>
+あぁ、なんて便利な方なんでしょ（爆）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> �ǂ݂܂������B</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> 読みますたが。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/20 (��) 17:00:29 <strong>��</strong> sana </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310201170029&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310201170029"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/20 (月) 17:00:29 <strong>▽</strong> sana </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310201170029_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200310201170029"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�l�t�b�j����B<br>
-�l�E�s�v�h�m�r�̐V��ǂ܂��ĖႢ�܂����B<br>
-�����ŁA���z�Ǝw�E���B<br>
-�ŏ��ɋC�Â����_�������܂����A���C���������Ȃ��ŉ������B<br>
+<font size=3 color=#606060>どうも、ＭＵＣＫさん。<br>
+Ｍ・ＴＷＩＮＳの新作読ませて貰いました。<br>
+そこで、感想と指摘を。<br>
+最初に気づいた点を挙げますが、お気を悪くしないで下さい。<br>
 <br>
-�o�g���̂Ƃ��ŁA�C�ɂȂ������Ƃ�����܂��B<br>
-�������̂Ƃ���ł��B<br>
-<font color="#cc88ff">&gt;�����̖n�ŏ����ꂽ�炵����������u�����W������ƁA<br>
-&gt;�������ƒ��n���A�܂�����B</font><br>
-���C�ɈӖ��s���̂悤�ȋC�����܂����B<br>
-��̍s�́A���ɂ��Ă̋L�q�B���n���A���􂵂��̂��ߗR���Ȃ͕̂�����܂��B<br>
-�ʂ��ēǂ񂾂�A�����\�\<br>
-<font color="#cc88ff">&gt;�������ƒ��n���A�܂�����B</font><br>
-�r�b�N���I���i�P���P�G�j<br>
-�u����ƁA�c�v�ƁA���������̕��͂������Ă��܂����悤�ɂ������܂������A<br>
-�ǂ��Ȃ�ł��傤���H<br>
+バトルのとこで、気になったことがあります。<br>
+爆雷符のところです。<br>
+<font color="#cc88ff">&gt;呪符の墨で書かれたらしい文字が一瞬だけ淡く光ると、<br>
+&gt;したっと着地し、また跳躍。</font><br>
+何気に意味不明のような気がしました。<br>
+上の行は、符についての記述。着地し、跳躍したのが那由他なのは分かります。<br>
+通して読んだら、符が——<br>
+<font color="#cc88ff">&gt;したっと着地し、また跳躍。</font><br>
+ビックリ！∑（‾□‾；）<br>
+「光ると、…」と、何か続きの文章を消してしまったようにも見えましたが、<br>
+どうなんでしょうか？<br>
 <br>
-���ꂩ��A<br>
-<font color="#cc88ff">&gt;�ڂڂڂڂ�����I</font><br>
-���A�ǂ̒��x�̋K�͂Ȃ̂�������܂���ł����B<br>
-�[���̎g�p�������킯�ł͂���܂��񂪁A�⑫���͂��S�������ƃ}�Y�C�ł��B<br>
-�䂦�ɁA��@����������ꂸ�A������ƌ����ɖ߂��ꂿ�������������܂��B<br>
+それから、<br>
+<font color="#cc88ff">&gt;ぼぼぼぼぅんっ！</font><br>
+が、どの程度の規模なのか分かりませんでした。<br>
+擬音の使用が悪いわけではありませんが、補足文章が全く無いとマズイです。<br>
+ゆえに、危機感が感じられず、ちょっと現実に戻されちゃった感があります。<br>
 <br>
-�ȏ�A�G�z�Ȃ���C�Â����_��񋓂��܂����B<br>
-sana�́A�l�̂��Ƃ�������������ł͂Ȃ��ł����A<br>
-�Q�l�ɂȂ�΂Ǝv���A�����āA�u�����ė~�����ȁ[�v�Ǝv���_�������܂����B<br>
+以上、僭越ながら気づいた点を列挙しました。<br>
+sanaは、人のことを言えた書き手ではないですが、<br>
+参考になればと思い、あえて、「直して欲しいなー」と思う点を挙げました。<br>
 <br>
-�ł́A�����������z�̕��ɓ���܂��B<br>
-���C�ɓ���̃L�����ɂ��Ċ��z���΁B<br>
-�P�\�\���c�͓ˏo�������ŁA�����L�����ł��B<br>
-<font color="#cc88ff">&gt;���`�Z�i�ɂ��j���܂ƁI</font><br>
-�Ȃ�ăe���V�������I�I���i�P���P�G�j<br>
+では、引き続き感想の方に入ります。<br>
+お気に入りのキャラについて感想をば。<br>
+鳳——ヤツは突出しすぎで、いいキャラです。<br>
+<font color="#cc88ff">&gt;お義兄（にい）さまと！</font><br>
+なんてテンションだ！！∑（‾□‾；）<br>
 <br>
-���J�\�\�����h�i�W���W���n�j�B�ނ���A�o�g���͂��̖��Ɏ�������B<br>
-��ŁA����ɂق̎��Ɓc�c�B<br>
-�����A�ł��ȁ\�\�X�Ȃ�������ށI<br>
-���Ƃ��A�o�Ԃ��I<br>
+美憂——武闘派（ジョジョ系）。むしろ、バトルはこの娘に収束せり。<br>
+んで、竜矢にほの字と……。<br>
+ええ、ですな——更なる飛躍を求む！<br>
+もとい、出番を！<br>
 <br>
-�ډ؁\�\�o�ԏ��Ȃ��B��b�ɓ����ĂȂ��B�T�u�L���������I�H<br>
-�W�J�I�Ƀo�g��������ƁA�o�Ԃ����Ȃ��Ȃ�悤�ł��ȁA�l�I�Ɏc�O�ł��B<br>
-����Ă΂���łܑ͖̖������Ȃ��B<br>
-�Ƃ������A����͓ߗR���Ɉ���I�Ɉ�������ꂽ�̗������A�����̂��i�O�O�G�j<br>
-����̃c�b�R�~���ڗ����Ă������A����H�����̂�������Ȃ��ƁA����ɗ\�z�B<br>
+瑠華——出番少ない。会話に入ってない。サブキャラ化か！？<br>
+展開的にバトルを入れると、出番が少なくなるようですな、個人的に残念です。<br>
+守られてばかりでは勿体無いかなぁ。<br>
+というか、今回は那由他に一方的に因縁つけられたの竜矢だから、いいのか（＾＾；）<br>
+竜矢のツッコミが目立っていた分、割を食ったのかもしれないと、勝手に予想。<br>
 <br>
-�ߗR���\�\�^�W�����v�̂��̖싅���}�l�I�H<br>
-�\���C���Ȃ͕̂ς�炸���I�H<br>
-�ł��A���̎q�����f���Ȃ�ނ����l��������r(^^;)<br>
+那由他——某ジャンプのあの野球部マネ！？<br>
+暴走気味なのは変わらずか！？<br>
+でも、あの子がモデルならむしろ大人しいかもr(^^;)<br>
 <br>
-�ȏ�A���X�Ƃ��݂܂���ł����B<br>
+以上、長々とすみませんでした。<br>
 <br>
-����Apia�L�����Ɋ��ҁI�I�I�I<br>
+次回、piaキャロに期待！！！！<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -289,50 +289,50 @@ sana�́A�l�̂��Ƃ�������������ł͂Ȃ��ł����A<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> �d�g�d���͕��̂��Ƃ��ǂ�</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> 電波妖精は風のごとく読んだ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/20 (��) 12:45:13 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310201124513&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310201124513"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/20 (月) 12:45:13 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310201124513_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200310201124513"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���\�ǂ݂₷�������ł��B<br>
-�o�g���ɂȂ肩�����Ċ����ł����˂��c�c�B<br>
-�܂��A���傢�s���S�R�Ă��������ȁB<br>
-���Ɨډ؂���񂪂���܂�ڗ����ĂȂ��̂�(�G�L�t���j�c�c������B<br>
+<font size=3 color=#606060>結構読みやすかったです。<br>
+バトルになりかけって感じですかねぇ……。<br>
+まあ、ちょい不完全燃焼だったかな。<br>
+あと瑠華ちゃんがあんまり目立ってないのが(；´д⊂）……いかん。<br>
 <br>
-�s�Ԃɂ��Ă͂ł��ˁB�܂��ǂ����ł������񂶂�Ȃ����ȂƎv���܂��B<br>
-���Ə������ۂ���ǋy�������̂ł�����A���̂܂܂��ǂ����ȁB</font>
+行間についてはですね。まあどっちでもいいんじゃないかなと思います。<br>
+商業小説っぽさを追及したいのでしたら、今のままが良いかな。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/20 (��) 09:23:03 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���d��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310201092303&log=muck">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310201092303"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/20 (月) 09:23:03 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310201092303_log_muck.cgi">返信</a>　削除<input type=checkbox name="target" value="200310201092303"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���x�͉A�z�t�ł������B<br>
-�Ȃ񂩃o���G�e�B�L���ȘA�����������w�Z�ł��Ȃ��B<br>
-�������A���̊��ɂ݂�Ȏv�����݂����œ����Ă�悤�ȋC�������ł����ǁE�E�E�i�΁j�B<br>
-�Ƃ肠�������̕M������T���ł����ȁB<br>
-�i�P�̂͊ԈႢ�Ȃ��ϑz�̈�ɒB���Ă邩��Ȃ��E�E�E�΁j<br>
-�܁A������ɂ��Ă��ʔ��������ł���B������y���݁E�E�E���āApia�L�����H�i���j<br>
-����͂��ЂƂ��}�G���~�����Ƃ���ł��ȁI�I�i�j���j<br>
+<font size=3 color=#606060>今度は陰陽師ですかい。<br>
+なんかバラエティ豊かな連中が揃った学校ですなぁ。<br>
+しかし、その割にみんな思い込みだけで動いてるような気もするんですけど・・・（笑）。<br>
+とりあえずその筆頭が黛サンですかな。<br>
+（鳳のは間違いなく妄想の域に達してるからなぁ・・・笑）<br>
+ま、いずれにしても面白かったですよ。次回も楽しみ・・・って、piaキャロ？（爆）<br>
+これはぜひとも挿絵が欲しいところですな！！（核爆）<br>
 <br>
-<font color="#ff88cc">���s��</font><br>
-���̂܂܂ł����ɂP�[�B</font>
+<font color="#ff88cc">＞行間</font><br>
+今のままでいいに１票。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="muck">
@@ -340,16 +340,16 @@ sana�́A�l�̂��Ƃ�������������ł͂Ȃ��ł����A<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="muck">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=muck">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_muck.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

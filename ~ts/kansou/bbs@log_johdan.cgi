@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>��e�����i�@���z�f����</title>
+<title>城弾さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��e�����i�@���z�f����</font>
+<font size=5>城弾さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi" name="F1">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="johdan">
 <input type=hidden name="nj" value="WEHaxRAprt">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h SRW5xt  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="SRW5xt"> <Script language=vbscript>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード SRW5xt  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="SRW5xt"> <Script language=vbscript>
 <!--
  document.F1.rcode.value=document.F1.hrcode.value
  -->^n</script>
-<input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+<input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,28 +48,28 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[749]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂���</font>
+<font size=2>[749]</font> <font size=4 color=#40c0c0> 感想ありがとうございました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/03/27 (��) 23:36:57 <strong>��</strong> ��e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201303273233657&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201303273233657"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/03/27 (水) 23:36:57 <strong>▽</strong> 城弾 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201303273233657_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201303273233657"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �|�|�t����<br>
-<font color="#cc88ff">&gt; �����a�k�ŏI����Ă����琯����ɂȂ��Ă����Ƃ���ł��B</font><br>
+<font size=3 color=#606060>▼ ポポフさん<br>
+<font color="#cc88ff">&gt; もしＢＬで終わっていたら星が一つになっていたところです。</font><br>
 <br>
-�@�����͂��̂���ł������v���Ƃǂ܂�܂����i�΁j<br>
+　当初はそのつもりでしたが思いとどまりました（笑）<br>
 <br>
-<font color="#cc88ff">&gt;�܂�l�͊�����ł��ˁB</font><br>
+<font color="#cc88ff">&gt;つまり人は慣れるんですね。</font><br>
 <br>
-�@�܂��Ă���l���m�������Ă܂�����ˁB<br>
+　ましてや恋人同士を演じてますからね。<br>
 <br>
-<font color="#cc88ff">&gt;�����A���Ԃ����܂��Ă��Ȃ��������l���͐g���S�����̎q�ɂȂ��Ă����񂶂�Ȃ��ł��傤���B��l�����������ł���悤�ɁB</font><br>
+<font color="#cc88ff">&gt;もし、期間が決まっていなかったら主人公は身も心も女の子になっていたんじゃないでしょうか。先人たちがそうであるように。</font><br>
 <br>
-�@�Ȃ��Ă��ł��傤�ˁB<br>
-�@����́u�j�̗F��v���������`�ŁB<br>
+　なってたでしょうね。<br>
+　今回は「男の友情」が勝った形で。<br>
 <br>
-�@���z���肪�Ƃ��������܂����B</font>
+　感想ありがとうございました。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -77,14 +77,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[748]</font> <font size=4 color=#40c0c0> ���������܂����I������ł��I�I</font>
+<font size=2>[748]</font> <font size=4 color=#40c0c0> いただきました！星二つ半です！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/03/25 (��) 21:34:43 <strong>��</strong> �|�|�t </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201303251213443&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201303251213443"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/03/25 (月) 21:34:43 <strong>▽</strong> ポポフ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201303251213443_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201303251213443"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����a�k�ŏI����Ă����琯����ɂȂ��Ă����Ƃ���ł��B��l���͂悭�����炦�Ă���܂����B�ł��A��l�������񂾂񏗂̎q�̋C�����ɂȂ��Ă����̂��Ă��肦�Ȃ��Ǝv���Ă��܂������A�悭�悭�l����Ƃ����ł��Ȃ��Ǝv���܂��B�܂�l�͊�����ł��ˁB���߂Đl�����������Ɏ肪�k���Ă������Ɋ���܂��B�����珗�̎q�ɂ�������ł��B�����A���Ԃ����܂��Ă��Ȃ��������l���͐g���S�����̎q�ɂȂ��Ă����񂶂�Ȃ��ł��傤���B��l�����������ł���悤�ɁB����ł͍�����s�r�E�̋����Ɋ��ӁB</font>
+<font size=3 color=#606060>もしＢＬで終わっていたら星が一つになっていたところです。主人公はよくぞこらえてくれました。でも、主人公がだんだん女の子の気持ちになっていくのってありえないと思っていましたが、よくよく考えるとそうでもないと思います。つまり人は慣れるんですね。初めて人を撃った時に手が震えてもすぐに慣れます。だから女の子にも慣れるんです。もし、期間が決まっていなかったら主人公は身も心も女の子になっていたんじゃないでしょうか。先人たちがそうであるように。それでは今回もＴＳ界の巨匠に感謝。</font>
 <p><a href="https://twitter.com/lopezroom" target="_top">https://twitter.com/lopezroom</a>
 </td></table>
 </td></tr></table>
@@ -92,14 +92,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[747]</font> <font size=4 color=#40c0c0> �w�`���������@�u���������x������ɂ͂������N���b�N�B</font>
+<font size=2>[747]</font> <font size=4 color=#40c0c0> 『Ａｎｇｅｌ　Ｖｏｉｃｅ』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/03/24 (��) 21:57:07 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201303240215707&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201303240215707"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/03/24 (日) 21:57:07 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201303240215707_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201303240215707"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���]���V�X�e�������̔팱�҂�����`�����u�A���e�i�V���b�v�v�̎o���ҁB��e����́u���D�v�ɑ΂���v���ƈ����l�܂������b�ł��B<br>
+<font size=3 color=#606060>【推薦文】性転換システム実験の被験者たちを描いた「アンテナショップ」の姉妹編。城弾さんの「声優」に対する思いと愛が詰まったお話です。<br>
 <a href=http://ts.novels.jp/novel/201212/18232308/angelvoice.htm target=_top>http://ts.novels.jp/novel/201212/18232308/angelvoice.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -107,26 +107,26 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[746]</font> <font size=4 color=#40c0c0> �����Ɍ��y���Ă���������Ɗ���������ł�</font>
+<font size=2>[746]</font> <font size=4 color=#40c0c0> そこに言及していただけると嬉しい限りです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/02/26 (��) 02:30:44 <strong>��</strong> ��e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201302262023044&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201302262023044"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/02/26 (火) 02:30:44 <strong>▽</strong> 城弾 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201302262023044_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201302262023044"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �g�}�X����<br>
-<font color="#cc88ff">&gt; �s�r�Ƃ����ƁA�Z�N�V�����ȃC���[�W�������̂ł����A���̂��b�́A�^�C�K�[�X���e�[�}�ɂ������炩��Ə�����Ă��āA���邭�ʔ��������̂Ɠ����ɁA���r�ȂƂ��낪�Ȃ������̂ł悩�����ł��B</font><br>
+<font size=3 color=#606060>▼ トマスさん<br>
+<font color="#cc88ff">&gt; ＴＳというと、セクシャルなイメージがつきものですが、このお話は、タイガースをテーマにあっけらかんと書かれていて、明るく面白かったのと同時に、淫靡なところがなかったのでよかったです。</font><br>
 <br>
-�@�����ł��ˁB<br>
-�@����Ɋւ��Ă͋C���t�����炻���Ȃ��Ă����Ƃ������B<br>
+　そうですね。<br>
+　これに関しては気が付いたらそうなっていたというか。<br>
 <br>
-<font color="#cc88ff">&gt; ����ɂ��Ă��A�����ƃt�B�N�V�����i���ɂs�r�j��܂荇����̂́A��J���ꂽ�̂ł͂���܂��񂩁H�����l�ł��B</font><br>
+<font color="#cc88ff">&gt; それにしても、事実とフィクション（特にＴＳ）を折り合せるのは、苦労されたのではありませんか？お疲れ様です。</font><br>
 <br>
-�@�܂��������̒ʂ�ł��āB<br>
-�@�����ݏZ�̋��l�t�@������㕑��ɍ�_�t�@����`�����̂ŁA���Ȃ�Q�l�ӌ������������܂������A���������܂����B<br>
-�@�Ȃ̂ł������킩���Ă���������̂͂ƂĂ����ꂵ���ł��B<br>
+　まさしくその通りでして。<br>
+　東京在住の巨人ファンが大阪舞台に阪神ファンを描いたので、かなり参考意見をいただきましたし、資料も見ました。<br>
+　なのでそこをわかっていただけるのはとてもうれしいです。<br>
 <br>
-�@���z���肪�Ƃ��������܂��B</font>
+　感想ありがとうございます。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -134,74 +134,74 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[745]</font> <font size=4 color=#40c0c0> �s���������r�Q�O�P�Q</font>
+<font size=2>[745]</font> <font size=4 color=#40c0c0> ＴｉｇｅｒＳ２０１２</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/02/25 (��) 22:29:29 <strong>��</strong> �g�}�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201302251222929&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201302251222929"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/02/25 (月) 22:29:29 <strong>▽</strong> トマス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201302251222929_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201302251222929"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�s�r�Ƃ����ƁA�Z�N�V�����ȃC���[�W�������̂ł����A���̂��b�́A�^�C�K�[�X���e�[�}�ɂ������炩��Ə�����Ă��āA���邭�ʔ��������̂Ɠ����ɁA���r�ȂƂ��낪�Ȃ������̂ł悩�����ł��B<br>
-����ɂ��Ă��A�����ƃt�B�N�V�����i���ɂs�r�j��܂荇����̂́A��J���ꂽ�̂ł͂���܂��񂩁H�����l�ł��B</font>
+<font size=3 color=#606060>ＴＳというと、セクシャルなイメージがつきものですが、このお話は、タイガースをテーマにあっけらかんと書かれていて、明るく面白かったのと同時に、淫靡なところがなかったのでよかったです。<br>
+それにしても、事実とフィクション（特にＴＳ）を折り合せるのは、苦労されたのではありませんか？お疲れ様です。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[744]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[744]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/02/07 (��) 11:02:05 <strong>��</strong> ��e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201302074110205&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201302074110205"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/02/07 (木) 11:02:05 <strong>▽</strong> 城弾 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201302074110205_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201302074110205"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�������肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>　いつもありがとうございます。<br>
 <br>
-�@�|�|�t����<br>
+　ポポフさん<br>
 <br>
-<font color="#cc88ff">&gt;����̒j�A���ɂƂ��Ă͑A�܂������Ƃ��Ǝv���܂��B</font><br>
+<font color="#cc88ff">&gt;周りの男連中にとっては羨ましいことだと思います。</font><br>
 <br>
-�@����݂͂�����l���Ȃ������c�����ɍl���������Ă���΁A���̕`�ʓ���Ă܂����ˁB<br>
-�@�{�l��ςȂ̂Ɏ��͂���͖��ӔC�ɂ����܂�������Ȃ�Ă����V�`���G�[�V�����ł����B<br>
+　それはみじんも考えなかった…そこに考えが至っていれば、その描写入れてましたね。<br>
+　本人大変なのに周囲からは無責任にうらやましがられるなんていいシチュエーションですし。<br>
 <br>
-<font color="#cc88ff">&gt;���@�͂ǂ����ꏗ�̎q���Ђ�����Ȃ��Ɏ�l����K�˂Ă͓���ւ��B</font><br>
+<font color="#cc88ff">&gt;動機はどうあれ女の子がひっきりなしに主人公を訪ねては入れ替わる。</font><br>
 <br>
-�@���̂��тɈ����@����܂���(��)<br>
+　そのたびに引っ叩かれますが(笑)<br>
 <br>
-<font color="#cc88ff">&gt;�܂��܂�����ł��낤��l���̑̂��Վ�ἁX�Ƒ_���V���ȏ��q���k�c��ςł��ȁB</font><br>
+<font color="#cc88ff">&gt;まだまだいるであろう主人公の体を虎視眈々と狙う新たな女子生徒…大変ですな。</font><br>
 <br>
-�@����B�S��(��)<br>
+　いや。全く(笑)<br>
 <br>
-�@�i������<br>
+　ナラさん<br>
 <br>
-<font color="#cc88ff">&gt;�؂肽�i�����Ɏ����Ă����j���̎q�̈����̂��񂴂��Ȃ��ƁB�����Z�N�n�����x���ŁI</font><br>
-�@�����̂���Ȃ�������Ă˂�(��)<br>
-�@���邢�͕��i���q�Ƃ��Ăł͂ł��Ȃ����Ƃ��A�������Ƃ΂����ɂƂ����Ƃ��납�B<br>
+<font color="#cc88ff">&gt;借りた（強引に持ってった）女の子の扱いのぞんざいなこと。もうセクハラレベルで！</font><br>
+　自分のじゃないからってねぇ(笑)<br>
+　あるいは普段女子としてではできないことを、ここぞとばかしにというところか。<br>
 <br>
-<font color="#cc88ff">&gt;����̓��X�́A���������ȋC�����܂��B</font><br>
+<font color="#cc88ff">&gt;女難の日々は、続きそうな気がします。</font><br>
 <br>
-�@�����܂��ˁB������(��)<br>
+　続きますね。きっと(笑)<br>
 <br>
-<font color="#cc88ff">&gt;�������Ǝv�����Ƃ���́A�Q�O�P�Q�N�̃v���싅�̊�ՂƂ̍ז��ȃ����N�A���������ׂ��Ȑ��т܂ŁB</font><br>
+<font color="#cc88ff">&gt;すごいと思ったところは、２０１２年のプロ野球の奇跡との細密なリンク、しかも事細かな成績まで。</font><br>
 <br>
-�@��������ԋ�J�����̂ŁA�������ق߂Ē�����̂͂ƂĂ����ꂵ���ł��ˁB<br>
-�@���̎���������΂܂��y��������ł����A���̎��_�ł͂܂Ƃ܂��ĂȂ��āi�ォ��v���싅���R�[�h�u�b�N�Q�O�P�R���o�܂������j���������l�b�g�ɂȂ��ō�_�������m�F���Ă܂������B<br>
+　そこが一番苦労したので、ここをほめて頂けるのはとてもうれしいですね。<br>
+　紙の資料があればまだ楽だったんですが、その時点ではまとまってなくて（後からプロ野球レコードブック２０１３が出ましたが）いちいちネットにつないで阪神公式を確認してましたし。<br>
 <br>
-<font color="#cc88ff">&gt;�j���A����A�Ƃ��ɂ��΂炵���I�����ł����B</font><br>
+<font color="#cc88ff">&gt;史実、物語、ともにすばらしい終わり方でした。</font><br>
 <br>
-�@���肪�Ƃ��������܂��B<br>
+　ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;���A�����؂�܂������A�I�Ȃ������[���̂����Ȃ���b�c�c</font><br>
+<font color="#cc88ff">&gt;え、いつ裏切りましたか、的なすごく納得のいかない会話……</font><br>
 <br>
-�@�u�G���v�Ȃ�܂��˂��c<br>
+　「敵だ」ならまだねぇ…<br>
 <br>
-<font color="#cc88ff">&gt;���ɂ���ł��c�C�b�^�[�ł���낵�����肢���܂��B</font><br>
+<font color="#cc88ff">&gt;文庫さんでもツイッターでもよろしくお願いします。</font><br>
 <br>
-�@�����炱����낵�����肢���܂��B<br>
+　こちらこそよろしくお願いします。<br>
 <br>
-�@���߂܂��āB<br>
-�@���z���肪�Ƃ��������܂����B</font>
+　改めまして。<br>
+　感想ありがとうございました。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -209,50 +209,50 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[743]</font> <font size=4 color=#40c0c0> �ǂ݂܂����[�I</font>
+<font size=2>[743]</font> <font size=4 color=#40c0c0> 読みましたー！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/02/07 (��) 10:10:39 <strong>��</strong> �i�����l�b�g�J�t�F </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201302074101039&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201302074101039"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/02/07 (木) 10:10:39 <strong>▽</strong> ナラ＠ネットカフェ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201302074101039_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201302074101039"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������ł͂��v���Ԃ�ł��A�ΐσi���ł��B<br>
-�����́w�˂��̂����x���������߂ɑI��ł��������A���肪�Ƃ��������܂��I<br>
-�^�C�K�[�X�Ƃ��킹�āA���z���B<br>
+<font size=3 color=#606060>こちらではお久しぶりです、石積ナラです。<br>
+うちの『ねこのえさ』をおすすめに選んでいただき、ありがとうございます！<br>
+タイガースとあわせて、感想を。<br>
 <br>
-�s�J�����_�[�K�[���t<br>
-���́c�c�Ƃ������A�w����́x���X�c�c�@���̎q�̑̂��؂����i�j����͎����Ă��Ȃ��悤�ł����j������āA�؂肽�i�����Ɏ����Ă����j���̎q�̈����̂��񂴂��Ȃ��ƁB�����Z�N�n�����x���ŁI�@���o��������o����ŁA�V����̑̂�����Ɏ������ɂ�������āB<br>
-������Ȃ�ł�����Ȉ����������ꂿ�Ⴝ�܂������̂���Ȃ��ł��ˁB���A�����^�����ɂ��Ă��A�V����ɂP�~�������Ȃ�����Ȃ����B<br>
-���܂������ăJ�����_�[�K�[���������I����Ă��c�c�@����̓��X�́A���������ȋC�����܂��B<br>
+《カレンダーガール》<br>
+受難の……というより、『女難の』日々……　女の子の体を借りられる（男相手は試していないようですが）からって、借りた（強引に持ってった）女の子の扱いのぞんざいなこと。もうセクハラレベルで！　お姉さんもお姉さんで、新くんの体を勝手に取引道具にしちゃって。<br>
+いくらなんでもこんな扱い方をされちゃたまったものじゃないですね。あ、レンタル料にしても、新くんに１円も理がないじゃないか。<br>
+骨折が治ってカレンダーガール生活が終わっても……　女難の日々は、続きそうな気がします。<br>
 <br>
-�s�s���������r�Q�O�P�Q�t<br>
-�j���ƃ����N�������b�͑�D���ł��I<br>
-�������Ǝv�����Ƃ���́A�Q�O�P�Q�N�̃v���싅�̊�ՂƂ̍ז��ȃ����N�A���������ׂ��Ȑ��т܂ŁB�����Ď�l���̊����Ƌ��l�t�@���Ƃ̊p���ɂ��՗����B<br>
-�w��_��������Ə��̎q�ɂȂ�x�w���̎q�̂܂܂Ŕޏ��ƃf�[�g�������Ȃ��x�w��_�̕�������Ԃƃt�@������ɂ�܂�邪�A�����������čD���Ŋ��ł�킯����Ȃ��x�w���l�t�@���j�̂ӂĂԂĂ������ނ����x�w���ꂳ��ɊŔ��ɂ�����ꂽ�x�c�c�g�J�g�J�B<br>
-�������Ō�́w�����؂ꂽ�x�͂������ł��ˁB�����̏��_�Ƃ��čՂ�グ���Ċ�Ԃ񂶂�Ȃ��āi�܂��A����c�c�j�A���l�t�@���̒j�ɓ{�����΂��Ă���𖼏��Ƃ��B<br>
-�����čŌ�̓W�J�B��_�̌����Ȃ����Ċ����I�ȃ��X�g�Q�[������тȂ�����A�u���N�܂ŉ����̂܂܂���v�Ƃ����A�s�K�̎���l���ɂ͂����Ă����̂��ߕ��B�j���A����A�Ƃ��ɂ��΂炵���I�����ł����B<br>
-�l�͐_�ސ쌧���ŁA���l�h�i���w���̂��납�猩�Ă����j���[�X�ԑg�����l���������Ă���j�ł����A����ł��ǎ҂Ƃ��Ċy���܂��Ă��������܂����B<br>
+《ＴｉｇｅｒＳ２０１２》<br>
+史実とリンクしたお話は大好物です！<br>
+すごいと思ったところは、２０１２年のプロ野球の奇跡との細密なリンク、しかも事細かな成績まで。そして主人公の葛藤と巨人ファンとの角質による苛立ち。<br>
+『阪神が負けると女の子になる』『女の子のままで彼女とデートしたくない』『阪神の負けを喜ぶとファンからにらまれるが、こっちだって好きで喜んでるわけじゃない』『巨人ファン男のふてぶてしさがむかつく』『お母さんに看板娘にさせられた』……トカトカ。<br>
+しかし最後の『吹っ切れた』はすごいですね。勝利の女神として祭り上げられて喜ぶんじゃなくて（まぁ、うん……）、巨人ファンの男に怒号を飛ばしてそれを名乗るとか。<br>
+そして最後の展開。阪神の見事なそして感動的なラストゲームを喜びながらも、「来年まで俺女のままかよ」という、不幸体質主人公にはもってこいのしめ方。史実、物語、ともにすばらしい終わり方でした。<br>
+僕は神奈川県民で、巨人派（小学生のころから見ていたニュース番組が巨人を応援している）ですが、それでも読者として楽しませていただきました。<br>
 <br>
-���A���Ȃ݂ɁA�����̎d����ɍ�_�t�@���������ł����A<br>
-�u�i������ǂ��t�@���H�v�u�����A����i��L�̗��R���q�ׂāj���l���������Ă܂����ˁ[�v�Ƃ��������̌�A�u���؂�҂��[�I�v�Ƌ��΂�܂����B���A�����؂�܂������A�I�Ȃ������[���̂����Ȃ���b�c�c<br>
-�u���l�t�@���ɂƂ��ċ��l�͎�̈ꕔ�B��_�t�@���ɂƂ��č�_�͐����̈ꕔ�v���āA�����������ƂȂ̂ˁB<br>
+あ、ちなみに、うちの仕事先に阪神ファンがいるんですが、<br>
+「ナラさんどこファン？」「えっ、いや（上記の理由を述べて）巨人を応援してますかねー」というやり取りの後、「裏切り者だー！」と叫ばれました。え、いつ裏切りましたか、的なすごく納得のいかない会話……<br>
+「巨人ファンにとって巨人は趣味の一部。阪神ファンにとって阪神は生活の一部」って、こういうことなのね。<br>
 <br>
-�Ƃ����킯�ŁA����͂��̕ӂɂāA������A���ɂ���ł��c�C�b�^�[�ł���낵�����肢���܂��B<br>
-�ʔ������b�����肪�Ƃ��������܂���������삨�҂����Ă���܂��I</font>
+というわけで、今回はこの辺にて、今後も、文庫さんでもツイッターでもよろしくお願いします。<br>
+面白いお話をありがとうございました＆次回作お待ちしております！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[742]</font> <font size=4 color=#40c0c0> ����</font>
+<font size=2>[742]</font> <font size=4 color=#40c0c0> 完走</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/02/05 (��) 09:12:19 <strong>��</strong> �|�|�t </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201302052091219&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201302052091219"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/02/05 (火) 09:12:19 <strong>▽</strong> ポポフ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201302052091219_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201302052091219"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���l�ɂƂ��Ă͖��f�Șb�ł��傤���A����̒j�A���ɂƂ��Ă͑A�܂������Ƃ��Ǝv���܂��B���@�͂ǂ����ꏗ�̎q���Ђ�����Ȃ��Ɏ�l����K�˂Ă͓���ւ��B���̉ߒ��ŏ��̎q�Ɖ�b���y���ނ��Ƃ��ł��邵�A����悭�Β��ǂ��Ȃ邱�Ƃ��ł��񂱂Ƃł͂Ȃ��B�����āA����ւ���́c�B�{�l�ɂ����킩��Ȃ���Y�A���ɂ͂���ł��낤�i�ޒj�q���k�����A�܂��܂�����ł��낤��l���̑̂��Վ�ἁX�Ƒ_���V���ȏ��q���k�c��ςł��ȁB</font>
+<font size=3 color=#606060>当人にとっては迷惑な話でしょうが、周りの男連中にとっては羨ましいことだと思います。動機はどうあれ女の子がひっきりなしに主人公を訪ねては入れ替わる。その過程で女の子と会話を楽しむこともできるし、あわよくば仲良くなることもできんことではない。そして、入れ替わり後は…。本人にしかわからない苦悩、中にはいるであろう妬む男子生徒たち、まだまだいるであろう主人公の体を虎視眈々と狙う新たな女子生徒…大変ですな。</font>
 <p><a href="https://twitter.com/lopezroom" target="_top">https://twitter.com/lopezroom</a>
 </td></table>
 </td></tr></table>
@@ -260,14 +260,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[741]</font> <font size=4 color=#40c0c0> �w�J�����_�[�K�[���x������ɂ͂������N���b�N�B</font>
+<font size=2>[741]</font> <font size=4 color=#40c0c0> 『カレンダーガール』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2013/02/03 (��) 22:26:53 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201302030222653&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201302030222653"></font>
+<font size=3 color=#606060><strong>▽</strong> 2013/02/03 (日) 22:26:53 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201302030222653_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201302030222653"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���ɖ߂�邱�Ƃ��m���Ȃ�΁A���l�i�j�̎q�j�̐g�̂��g���Ă���₱��������Ă݂������I�@�g�؂����h���͂��܂������񂶂�Ȃ��ł����i�΁j�B<br>
+<font size=3 color=#606060>【推薦文】元に戻れることが確実ならば、他人（男の子）の身体を使ってあれやこれやをやってみたいっ！　“借りられる”方はたまったもんじゃないですが（笑）。<br>
 <a href=http://ts.novels.jp/novel/201212/18232308/calendargirl.htm target=_top>http://ts.novels.jp/novel/201212/18232308/calendargirl.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -275,54 +275,54 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[740]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[740]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2012/12/22 (�y) 19:01:52 <strong>��</strong> ��e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=201212226190152&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="201212226190152"></font>
+<font size=3 color=#606060><strong>▽</strong> 2012/12/22 (土) 19:01:52 <strong>▽</strong> 城弾 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_201212226190152_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="201212226190152"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�D���Ȗ싅���傫�Ȋ������߂Ă������̂́A�������ɑ�ςł����̂ŃR�����g���ƂĂ����肪�����B<br>
+<font size=3 color=#606060>　好きな野球が大きな割合を占めていたものの、さすがに大変でしたのでコメントがとてもありがたく。<br>
 <br>
-�@�|�|�t����<br>
+　ポポフさん<br>
 <br>
-<font color="#cc88ff">&gt;�S�̂̊��z�Ƃ��Ă͍͗�Ƃ����̂��Ђ��Ђ��Ɠ`����Ă��܂��B</font><br>
+<font color="#cc88ff">&gt;全体の感想としては力作というのがひしひしと伝わってきます。</font><br>
 <br>
-�@���肪�Ƃ��������܂��B<br>
+　ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�싅�t�@���������_�t�@���ȊO�̐l���ǂނɂ͏����h�����̂�����̂ł͂Ȃ��ł��傤���B</font><br>
+<font color="#cc88ff">&gt;野球ファンそれも阪神ファン以外の人が読むには少し辛いものがあるのではないでしょうか。</font><br>
 <br>
-�@����͂����ł��傤�ˁB<br>
-�@�Ƃ͂����ǂ����͊���؂�Ȃ��Ə����Ȃ����ȂƁB<br>
+　今回はそうでしょうね。<br>
+　とはいえどここは割り切らないと書けないかなと。<br>
 <br>
-<font color="#cc88ff">&gt;�ǂ�ł��đ��l���L�̕��͋C���悭�o�ĂĂ���͊y���߂܂������A</font><br>
+<font color="#cc88ff">&gt;読んでいて大阪人特有の雰囲気がよく出ててそれは楽しめましたが、</font><br>
 <br>
-�@����͂�͂���̐l�ł���ҏW����̂��͂��傫�����ƁB<br>
-�@�������Ăɂ��Ă��̂�(��)<br>
+　これはやはり大阪の人である編集さんのお力が大きいかと。<br>
+　正直あてにしてたので(笑)<br>
 <br>
-<font color="#cc88ff">&gt;�K���o���͂������ł��傤�H</font><br>
+<font color="#cc88ff">&gt;ガンバ大阪はいかがでしょう？</font><br>
 <br>
-�@�\����Ȃ��ł��B<br>
-�@�T�b�J�[�͂Ƃ�Ƒa���āc<br>
+　申し訳ないです。<br>
+　サッカーはとんと疎くて…<br>
 <br>
-�@�R����������<br>
+　山口多聞さん<br>
 <br>
-<font color="#cc88ff">&gt;���z���G��ŒE�X�ł��Ȃ�����</font><br>
+<font color="#cc88ff">&gt;発想が秀逸で脱帽ですなｗｗｗ</font><br>
 <br>
-�@���J�߂����������k�ł��B<br>
+　お褒めいただき恐縮です。<br>
 <br>
-<font color="#cc88ff">&gt;�����炾�ƈȑO���Z�̐搶���u���l�����������獑�J���̂����I�v�ƌ����Ă��܂����B</font><br>
+<font color="#cc88ff">&gt;こちらだと以前高校の先生が「巨人を応援したら国辱ものだぞ！」と言っていました。</font><br>
 <br>
-�@���A�����܂ŁH<br>
+　そ、そこまで？<br>
 <br>
-�@���z���肪�Ƃ��������܂����B</font>
+　感想ありがとうございました。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="johdan">
@@ -330,16 +330,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="johdan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=johdan">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_johdan.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

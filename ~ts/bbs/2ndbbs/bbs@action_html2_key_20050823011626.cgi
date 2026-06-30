@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,21 +52,21 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�~�j�J��
+ミニカヨ
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁFBAF����</center><tr>
+<center>作者：BAFさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�[���ɂȂ�����A�y����z<br>�o�΂���񂾂�@���̋󍂂�<br>�����낵����@�Y�݂̕�Δ�<br>�����ǁ@��ςȂ�ā@�s���Ă��Ȃ�<br><br>�ǂ����ɂ���񂾂�<br>���Y�ݑ��k<br>�N�Əo���킵����<br>�܂����]���J���I<br><br>�i�[�X�ɂ��ꂽ��<br>���C�h��������<br>�����t��������<br>OL��������<br>���ǂ������́@���]��<br><br><br><br>�|�����閼�h���d���ɏ]������l�Ԃ̐��_�̊O���ƂȂ��Ƃ���Ȃ�A���˂Ɍ���Ė��񐔐l���̋]���҂𔭐������邩�̏����́A�S�Ƒ̂̔Y�݂ɕt�����񂾂��肪�����f�̉�������ɑ��Ȃ�Ȃ��B<br>���̈Ӗ��Œf�ł���ӎv�Ŗ������������鏭�����u�Z�[���X���f�B�[�v�ƌĂ񂾂���TS�����͒��g�I�\���ɂ����Ă܂��ɐ������˂Ă����Ƃ����ĉߌ��ł͂Ȃ��B�|<br><br>�ǂ��������������Ă��܂��BBAF�ł��B<br>���A��̂��Ƃ��Ƃ��A���������̂����̂����Ƃ������܂����ǁA�Ō�ɓo�ꂵ�Ă�������������Ԃ�ɂȂ�܂����B����[�Ȃ�Ƃ���������ł��Ȃ��B<br>�킽���Ȃ񂩂ˁ[�����l�^�Y�ꂿ�܂��قǁA�ɂŉɂł��傤���Ȃ�����A����ɐV�����V���[�Y�n�߂��Ⴂ�܂�����B�˂��B<br>�Ȃ񂹎ڂ��Z����Ŕg������̕���Ƃ��A��Ɋ�����T�X�y���X�Ƃ�����ۂރA�N�V�����Ƃ������������̂̓X�b�p�����߂Ă���������B�˂��B<br>�܂����̃l�^������N�����҂��Ă��Ȃ��Ǝv�����ǂ��B<br>�Ƃ����킯�ŁA���Ⴀ�Ȃ�ƂȂ��n�߂܂��傤���ˁB<br>
+夕暮れになったら、軽く回想<br>出勤するんだよ　町の空高く<br>見下ろしたら　悩みの宝石箱<br>だけど　大変なんて　行ってられない<br><br>どこかにいるんだね<br>お悩み相談<br>君と出くわしたら<br>また性転換カヨ！<br><br>ナースにされたり<br>メイドだったり<br>女教師だったり<br>OLだったり<br>結局さいごは　性転換<br><br><br><br>−あらゆる名刺が仕事に従事する人間の精神の外延となすとするなら、唐突に現れて毎回数人ずつの犠牲者を発生させるかの少女は、心と体の悩みに付け込んだありがた迷惑の押し売りに他ならない。<br>その意味で断固たる意思で無理やり解決する少女を「セールスレディー」と呼んだかのTS小説は直喩的表現においてまさに正鵠を射ていたといって過言ではない。−<br><br>どうもご無沙汰しています。BAFです。<br>光陰矢のごとしとか、月日がたつのも夢のうちとかいいますけど、最後に登場してからもう何ヶ月ぶりになりますか。いやーなんとも早いもんですなあ。<br>わたしなんかねー持ちネタ忘れちまうほど、暇で暇でしょうがないから、勝手に新しいシリーズ始めちゃいましたよ。ねえ。<br>なんせ尺が短いんで波乱万丈の物語とか、手に汗握るサスペンスとか息を呑むアクションとかそういうものはスッパリ諦めてくださいよ。ねえ。<br>まあこのネタだから誰も期待していないと思うけどさ。<br>というわけで、じゃあなんとなく始めましょうかね。<br>
 </font>
 </td>
 </tr>
@@ -74,26 +74,26 @@ A{TEXT-DECORATION:NONE};
 <HR color=#E6FFE6><address>
 BAF
 </address>
-2006�N01��10��(��) 02��17��39�b ���J<br>
+2006年01月10日(火) 02時17分39秒 公開<br>
 <!--58.87.179.108-->
-<font color=red>�����̍�i�̒��쌠��BAF����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はBAFさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�ȑO����Ă����l�^�Ȃ�ł������̐悪�v�������΂Ȃ��ĕ��u���Ă������̂��������ꂽ�̂ŁA���f���ɂ��傢�o�����B<br>
+以前作っていたネタなんですがこの先が思い浮かばなくて放置してあったのが発見されたので、第二掲示板にちょい出だし。<br>
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>����A�����ł��I����ɐV�V���[�Y���߂Ă��������đ劽�}�ł��I<BR>�ɂ��Ă��A�����Ō㓡�����ɏo���Ƃ́c�B�i�΁j<BR></td>
-<td>����Y</td>
-<td width=20%>��2006-01-11 21:18:33</td>
+<td style=font-size:10pt>いや、いいです！勝手に新シリーズ初めてくださって大歓迎です！<BR>にしても、ここで後藤隊長に出会えるとは…。（笑）<BR></td>
+<td>太九郎</td>
+<td width=20%>■2006-01-11 21:18:33</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -101,24 +101,24 @@ BAF
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20060110021739">
 <input type=hidden name="num_r" value="20060110021739">
 <input type=hidden name="url" value="">
@@ -134,17 +134,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20060110021739">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -154,9 +154,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

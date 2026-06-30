@@ -2,43 +2,44 @@
         "http://www.w3.org/TR/html4/loose.dtd">
 <HTML>
 <HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <TITLE>main</TITLE>
 <STYLE TYPE="text/css">
 <!--
    
-	#ChatColor		{				/* y•¶Žš‚ÌFzƒŠƒXƒg */
-		background-color:#FFFFFF;	/* ƒ`ƒƒƒbƒgƒƒO•\Ž¦—“‚Æ“¯‚¶”wŒiF‚É‚µ‚Ü‚µ‚å‚¤ */
+	#ChatColor		{				/* ã€æ–‡å­—ã®è‰²ã€‘ãƒªã‚¹ãƒˆ */
+		background-color:#FFFFFF;	/* ãƒãƒ£ãƒƒãƒˆãƒ­ã‚°è¡¨ç¤ºæ¬„ã¨åŒã˜èƒŒæ™¯è‰²ã«ã—ã¾ã—ã‚‡ã† */
 		width:120px;
 	}
 
-	#inputSpeaks	{				/* ”­Œ¾“ü—Í—“ */
+	#inputSpeaks	{				/* ç™ºè¨€å…¥åŠ›æ¬„ */
 		background-color:#EEEEEE;
 		width:570px;
 		border-style:groove;
 	}
 	
-	#printnickname	{				/* –¼‘O•\Ž¦—“ */
+	#printnickname	{				/* åå‰è¡¨ç¤ºæ¬„ */
 		background-color:#CCFFFF;
 		width:150px;
 		color:#FF0000;
 		border-style:groove;
 	}
 
-	#namechange	{				/* –¼‘O•ÏXƒ{ƒ^ƒ“ */
+	#namechange	{				/* åå‰å¤‰æ›´ãƒœã‚¿ãƒ³ */
 		background-color:#DDEEDD;
 		width:120px;
 		color:#008888;
 		font:bold;
 	}
 
-	#submitHatsugen	{				/* ”­Œ¾ƒ{ƒ^ƒ“ */
+	#submitHatsugen	{				/* ç™ºè¨€ãƒœã‚¿ãƒ³ */
 		background-color:#DDEEDD;
 		color:#008888;
 		width:120px;
 		font:bold;
 	}
 
-	#ChatBoxFrame		{			/* ƒ`ƒƒƒbƒgƒƒO•\Ž¦—“FŠO˜g */
+	#ChatBoxFrame		{			/* ãƒãƒ£ãƒƒãƒˆãƒ­ã‚°è¡¨ç¤ºæ¬„ï¼šå¤–æž  */
 		background-color:#FFFFFF;
 		width:570px;
 		height:290px;
@@ -46,7 +47,7 @@
 		border-style:groove;
 	}
 	
-	#ChatBox		{				/* ƒ`ƒƒƒbƒgƒƒO•\Ž¦—“F“à˜g */
+	#ChatBox		{				/* ãƒãƒ£ãƒƒãƒˆãƒ­ã‚°è¡¨ç¤ºæ¬„ï¼šå†…æž  */
 		color:#44EE44;
 		font-size:11pt;
 		line-height:100%;
@@ -54,7 +55,7 @@
 		height:280px;
 	}
 	
-	#NameBox		{				/* ŽQ‰ÁŽÒˆê——•\Ž¦—“ */
+	#NameBox		{				/* å‚åŠ è€…ä¸€è¦§è¡¨ç¤ºæ¬„ */
 		background-color:#FAFAFA;
 		width:120px;
 		height:290px;
@@ -65,7 +66,7 @@
 		overflow:hidden ;
 	}
 
-	#clearBtn		{				/* ƒ`ƒƒƒbƒgƒƒO•\Ž¦—“ƒNƒŠƒAƒ{ƒ^ƒ“ */
+	#clearBtn		{				/* ãƒãƒ£ãƒƒãƒˆãƒ­ã‚°è¡¨ç¤ºæ¬„ã‚¯ãƒªã‚¢ãƒœã‚¿ãƒ³ */
 		background-color:#FFEEDD;
 		width:122px;
 		color:#0066CC;
@@ -73,7 +74,7 @@
 		font:bold;
 	}
 
-	#copyTextBtn, #copySourceBtn		{				/* ƒ`ƒƒƒbƒgƒƒO•\Ž¦—“ƒNƒŠƒAƒ{ƒ^ƒ“ */
+	#copyTextBtn, #copySourceBtn		{				/* ãƒãƒ£ãƒƒãƒˆãƒ­ã‚°è¡¨ç¤ºæ¬„ã‚¯ãƒªã‚¢ãƒœã‚¿ãƒ³ */
 		background-color:#FFDDEE;
 		width:282px;
 		color:#3399CC;
@@ -81,7 +82,7 @@
 		font:bold;
 	}
 	
-	#logoutBtn		{				/* ƒƒOƒAƒEƒgƒ{ƒ^ƒ“ */
+	#logoutBtn		{				/* ãƒ­ã‚°ã‚¢ã‚¦ãƒˆãƒœã‚¿ãƒ³ */
 		background-color:#EEEEEE;
 		width:170px;
 		border-style:groove;
@@ -165,38 +166,38 @@ function copyLog(type) {
 <TABLE BORDER="1" CELLPADDING="20" CELLSPACING="5" HSPACE="0" VSPACE="0" ALIGN="CENTER" BORDERCOLOR="#EEEEEE" BGCOLOR="#FFFFFF" STYLE="margin-top:25px">
 	<TR>
 	<TD ALIGN="CENTER" STYLE="background-color:#EEEEFF;">
-		<!-- ƒ^ƒCƒgƒ‹•\Ž¦—Ìˆæ -->
+		<!-- ã‚¿ã‚¤ãƒˆãƒ«è¡¨ç¤ºé ˜åŸŸ -->
 		<TABLE BORDER=0 BGCOLOR="#FFFFFF"><TR><TD WIDTH="200" HEIGHT="40" ALIGN="CENTER"><FONT SIZE="4"><I>Chat Room</I></FONT></TD></TR></TABLE>
 	</TD>
 	</TR>
 	<TR>
 	<TD STYLE="background-color:#FFFFDD;">
-	<!-- ƒ`ƒƒƒbƒg—Ìˆæ -->
+	<!-- ãƒãƒ£ãƒƒãƒˆé ˜åŸŸ -->
 	<TABLE BORDER="0" WIDTH="720" CELLPADDING="0" CELLSPACING="0" HSPACE="0" VSPACE="0" ALIGN="CENTER">
 		<TR>
 		<FORM NAME="PrintName" onSubmit="return false ;">
 			<TD>
-				<INPUT TYPE="text" NAME="printnickname" ID="printnickname" VALUE="‚¨–¼‘OH">
-				<INPUT TYPE="button" onClick="changeName();" VALUE="–¼‘O‚Ì•ÏX" NAME="namechange" ID="namechange">
+				<INPUT TYPE="text" NAME="printnickname" ID="printnickname" VALUE="ãŠåå‰ï¼Ÿ">
+				<INPUT TYPE="button" onClick="changeName();" VALUE="åå‰ã®å¤‰æ›´" NAME="namechange" ID="namechange">
 			</TD>
 			<TD>
 				<SELECT NAME="ChatColor" ID="ChatColor">
-					<OPTION VALUE="#000000" STYLE="color:#000000">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#0030C0" STYLE="color:#0030C0">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#0000FF" STYLE="color:#0000FF">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#0090C0" STYLE="color:#0090C0">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#60C0C0" STYLE="color:#60C0C0">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#6000C0" STYLE="color:#6000C0">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#9000F0" STYLE="color:#9000F0">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#C000F0" STYLE="color:#C000F0">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#F000F0" STYLE="color:#F000F0">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#900000" STYLE="color:#900000">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#C00030" STYLE="color:#C00030">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#F06000" STYLE="color:#F06000">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#FF0000" STYLE="color:#FF0000">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#F09030" STYLE="color:#F09030">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#F0C030" STYLE="color:#F0C030">y•¶Žš‚ÌFz</OPTION>
-					<OPTION VALUE="#006000" STYLE="color:#006000">y•¶Žš‚ÌFz</OPTION>
+					<OPTION VALUE="#000000" STYLE="color:#000000">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#0030C0" STYLE="color:#0030C0">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#0000FF" STYLE="color:#0000FF">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#0090C0" STYLE="color:#0090C0">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#60C0C0" STYLE="color:#60C0C0">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#6000C0" STYLE="color:#6000C0">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#9000F0" STYLE="color:#9000F0">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#C000F0" STYLE="color:#C000F0">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#F000F0" STYLE="color:#F000F0">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#900000" STYLE="color:#900000">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#C00030" STYLE="color:#C00030">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#F06000" STYLE="color:#F06000">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#FF0000" STYLE="color:#FF0000">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#F09030" STYLE="color:#F09030">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#F0C030" STYLE="color:#F0C030">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
+					<OPTION VALUE="#006000" STYLE="color:#006000">ã€æ–‡å­—ã®è‰²ã€‘</OPTION>
 				</SELECT>
 			</TD>
 		</FORM>
@@ -208,27 +209,27 @@ function copyLog(type) {
 				<INPUT TYPE="text" SIZE="70" NAME="inputSpeaks" ID="inputSpeaks" VALUE="">
 			</TD>
 			<TD WIDTH="120">
-				<INPUT TYPE="button" ID="submitHatsugen" VALUE="”­Œ¾‚·‚é" onClick="javascript:callServer()">
+				<INPUT TYPE="button" ID="submitHatsugen" VALUE="ç™ºè¨€ã™ã‚‹" onClick="javascript:callServer()">
 			</TD>
 		</TR>
 		<TR>
 			<TD VALIGN="top">
-				<!-- ƒƒO‚ÌƒRƒs[‚ð‰Â”\‚É‚·‚é‚½‚ß‚ÌTEXTAREA OBJECT -->
+				<!-- ãƒ­ã‚°ã®ã‚³ãƒ”ãƒ¼ã‚’å¯èƒ½ã«ã™ã‚‹ãŸã‚ã®TEXTAREA OBJECT -->
 				<TEXTAREA ROW="0" COL="0" NAME="LogBox" ID="LogBox" STYLE="position:absolute; width:0px; height:0px z-index:-1; visibility:hidden;"></TEXTAREA>
 				<DIV NAME="ChatBoxFrame" ID="ChatBoxFrame"><DIV NAME="ChatBox" ID="ChatBox"></DIV></DIV>
 			</TD>
 			<TD>
 				<INPUT TYPE="hidden" NAME="ChatLog">
-				<TEXTAREA ROWS=20 COLS="12" NAME="NameBox" ID="NameBox" width="120">”OFF LINE</TEXTAREA>
+				<TEXTAREA ROWS=20 COLS="12" NAME="NameBox" ID="NameBox" width="120">ï¼ƒOFF LINE</TEXTAREA>
 			</TD>
 		</TR>
 		<TR>
 			<TD>
-				<INPUT TYPE="button" ID="copyTextBtn" NAME="copyTextBtn" VALUE="ƒƒO‚ðƒNƒŠƒbƒvƒ{[ƒh‚Ö" onClick="copyLog('Text')">
-				<INPUT TYPE="button" ID="copySourceBtn" NAME="copySourceBtn" VALUE="ƒƒO‚Ìƒ\[ƒX‚ðƒNƒŠƒbƒvƒ{[ƒh‚Ö" onClick="copyLog('Source')">
+				<INPUT TYPE="button" ID="copyTextBtn" NAME="copyTextBtn" VALUE="ãƒ­ã‚°ã‚’ã‚¯ãƒªãƒƒãƒ—ãƒœãƒ¼ãƒ‰ã¸" onClick="copyLog('Text')">
+				<INPUT TYPE="button" ID="copySourceBtn" NAME="copySourceBtn" VALUE="ãƒ­ã‚°ã®ã‚½ãƒ¼ã‚¹ã‚’ã‚¯ãƒªãƒƒãƒ—ãƒœãƒ¼ãƒ‰ã¸" onClick="copyLog('Source')">
 			</TD>
 			<TD>
-				<INPUT TYPE="button" ID="clearBtn" VALUE="ƒƒO‚ÌƒNƒŠƒA" onClick="clearLog()">
+				<INPUT TYPE="button" ID="clearBtn" VALUE="ãƒ­ã‚°ã®ã‚¯ãƒªã‚¢" onClick="clearLog()">
 			</TD>
 		</TR>
 		</FORM>
@@ -237,20 +238,20 @@ function copyLog(type) {
 				<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="0" HSPACE="0" VSPACE="0" WIDTH="100%"><TR>
 				<FORM NAME="ReloadTime"><TD>
 					<SELECT NAME="reloadtime">
-						<OPTION VALUE="0">‚È‚µ
-						<OPTION VALUE="10">10•b
-						<OPTION VALUE="20" SELECTED>20•b
-						<OPTION VALUE="30">30•b
-						<OPTION VALUE="60">60•b
+						<OPTION VALUE="0">ãªã—
+						<OPTION VALUE="10">10ç§’
+						<OPTION VALUE="20" SELECTED>20ç§’
+						<OPTION VALUE="30">30ç§’
+						<OPTION VALUE="60">60ç§’
 					</SELECT>
-					<SPAN STYLE="font-size:12px;color:#EE8888">&lt;&lt; Ž©“®XV</SPAN>
+					<SPAN STYLE="font-size:12px;color:#EE8888">&lt;&lt; è‡ªå‹•æ›´æ–°</SPAN>
 				</TD></FORM>
 				<FORM><TD ALIGN="RIGHT"><INPUT TYPE="button" ID="logoutBtn" VALUE="logout" onClick="logoutChat();"></TD></FORM>
 				<TD ALIGN="RIGHT">
-					<!-- ‚±‚±‚©‚ç ’˜ìî•ñ íœ‹ÖŽ~ -->
+					<!-- ã“ã“ã‹ã‚‰ è‘—ä½œæƒ…å ± å‰Šé™¤ç¦æ­¢ -->
 					<!-- Copyright (C) 2001. R.Yamaguchi All rights reserved. -->
-					<A HREF="http://clip.yokohama-cu.ac.jp/~yamaguchi/" STYLE="font-style:italic;font-size:12px;color:#999999" TARGET="_blank">by&nbsp;ƒz[ƒ€ƒy[ƒW‚Ìì‚è•ûuÀ</A>
-					<!-- ‚±‚±‚Ü‚Å ’˜ìî•ñ -->
+					<A HREF="http://clip.yokohama-cu.ac.jp/~yamaguchi/" STYLE="font-style:italic;font-size:12px;color:#999999" TARGET="_blank">by&nbsp;ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸ã®ä½œã‚Šæ–¹è¬›åº§</A>
+					<!-- ã“ã“ã¾ã§ è‘—ä½œæƒ…å ± -->
 				</TD>
 				<TD WIDTH="5"></TD>
 				</TR></TABLE>
@@ -260,12 +261,12 @@ function copyLog(type) {
 	</TD>
 	</TR>
 </TABLE>
-	<!-- ‘—M—pƒtƒH[ƒ€ƒf[ƒ^ -->
-	<FORM METHOD="post" ACTION="./cgi-bin/syschat.cgi" NAME="SendData" TARGET="ChatTemp">
+	<!-- é€ä¿¡ç”¨ãƒ•ã‚©ãƒ¼ãƒ ãƒ‡ãƒ¼ã‚¿ -->
+	<FORM METHOD="post" ACTION="cgi-bin/syschat.cgi" NAME="SendData" TARGET="ChatTemp">
 		<INPUT TYPE="hidden" NAME="speaks" VALUE="">
 		<INPUT TYPE="hidden" VALUE="0" NAME="uptime">
 		<INPUT TYPE="hidden" VALUE="new" NAME="status">
-		<INPUT TYPE="hidden" VALUE="‚¨–¼‘OH" NAME="nickname">
+		<INPUT TYPE="hidden" VALUE="ãŠåå‰ï¼Ÿ" NAME="nickname">
 		<INPUT TYPE="hidden" VALUE="" NAME="chatcolor">
 	</FORM>
 

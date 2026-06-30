@@ -1,5 +1,5 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
 <title>Crocus BBS</title>
@@ -10,7 +10,7 @@
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -26,30 +26,30 @@
 <font size=2>[3]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/08 (��) 08:01:15 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@</font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/08 (日) 08:01:15 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　</font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060><h1><a href=http://ts.novels.jp/ target=_top>http://ts.novels.jp/</a><br>
-���N��������</h1><br>
-���N�������ɁA��i���z�p�d�q�f���Q�B<br>
+少年少女文庫</h1><br>
+少年少女文庫、作品感想用電子掲示板群。<br>
 <br>
-�c�c���H</font>
+……お？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�@</td></form>
+<td align=center nowrap>　</td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

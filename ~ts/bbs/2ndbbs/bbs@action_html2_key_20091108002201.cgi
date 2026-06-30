@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,93 +52,93 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�����������H
+かさじぞう？
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�Ȃ܂����̂���</center><tr>
+<center>作者：なまけものさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�́X�A�L�鑺�ɂU�l�̂��n�����񂪂������c�����ȁB<br>���̂��n���l�B�́A���̏O����ꉞ�́A�厖�ɂ���Ă͂�������ǁA������҂�����������c�����ȁB<br>����͖�Â��Ȃ�ƁA���n���l�B���ЂƂ�łɓ����o�����Ƃł����B<br>�c��Ȗ�Ȝp�j�V�l�̂��Ƃ���������āc�悻���痈��A������D�_��ǂ������Ă����̂͗ǂ��̂ł����A<br>�����m��Ȃ��B���l�܂ŋ����ē����o���n���Łc�B<br>����葺�̖����q�Ɏ���o���̂ő��l�́A�قƂقƍ����Ă��c�����ȁB<br>���n���l�Ȃ̂őe���ɂ���킯�ɂ��������A���ƌ����Ă��̂܂܂ɂ��A���Ă������c<br>����Ȃ���ȂŁA���鎞�A���̎q�ɂ��ĂȂ��ē��ɗ����A���̎�҂��L���āc<br><br>�u���炪�A���Ăˁ[�̂́A���̘Z�n���̂������������������[�Ⴀ�I�v<br><br>�Ƃ������Ȃ���A���n������́i�ҁ[�j���S�y�����ˁz�ƌ����y����̂��z�ō�������������A<br>���܂ŊJ�����c������<br><br>���̖�A��҂��Q�Ă���Ƃ����Ȃ�A���������܂�Ă��܂����c�����ȁB<br>��҂͜p�j�n�����󂵂��̂ł����M��ŋ����H�Ǝv�������ǁB<br>�������_������Ƃ����ɂ͘Z�l�̔������������c�����ȁB<br>�ؚ��ȏ������A������ǐU��������ɂ����̗͂͋����āB<br>�g�����ł��Ȃ��Ȃ��āA���܂��Ă��c�����ȁB<br><br>�u���܂����������Ɠ����ڂɉ�킵�Ă�����v<br><br>���������Ď��o�����̂��S�ƌ����c<br><br>�u�����҂āI���܂��B�͒��Ԃ̒n���I��߂낻��ȓ���ŁI�v<br>�u���������₾���I�A���~�ŁA�����ŁA�Ӓn���ŁA�v�Z�����āA�i�ݎ��ݎ��i�[���āA�^��Ђ̂��Ǘl�̗l�ȏ��ɂȂ肽���Ȃ������I�v<br><br>�����I������҂莄������Ă��܂��܂����c�c<br>��҂����N���Ă݂�Ɓc����ς菗�ɐ����āA���܂��Ă��c�����ȁB<br>�����Ǎ��x�́A��Ȗ�ȘZ�n�����j������܂���c��҂͑��ς�炸�ِ��H�ɂ͂��ĂȂ������c�����ȁB
+昔々、有る村に６人のお地蔵さんがおった…そうな。<br>そのお地蔵様達は、村の衆から一応は、大事にされてはいたけれど、ちょっぴり問題もあった…そうな。<br>それは夜暗くなると、お地蔵様達がひとりでに動き出すことでした。<br>…夜な夜な徘徊老人のごとく動き回って…よそから来る、強盗や泥棒を追っ払ってくれるのは良いのですが、<br>何も知らない。旅人まで驚いて逃げ出す始末で…。<br>何より村の娘っ子に手を出すので村人は、ほとほと困ってた…そうな。<br>お地蔵様なので粗末にするわけにもいかず、かと言ってこのままにも、しておけず…<br>そんなこんなで、ある時、女の子にもてなくて頭に来た、村の若者がキレて…<br><br>「おらが、もてねーのは、あの六地蔵のせいだあぁぁっっしーゃあ！」<br><br>とか言いながら、お地蔵さんの（ぴー）を鏨【たがね】と玄翁【げんのう】で削り取ったあげく、<br>穴まで開けた…そうな<br><br>その夜、若者が寝ているといきなり、押さえ込まれてしまった…そうな。<br>若者は徘徊地蔵を壊したのでその祟りで強盗？と思ったけど。<br>明かりを点けられるとそこには六人の美女が居った…そうな。<br>華奢な女たち、だけれど振り解こうにもその力は強くて。<br>身動きできなくなって、しまってた…そうな。<br><br>「おまえも私たちと同じ目に会わしてあげる」<br><br>そう言って取り出したのは鏨と玄翁…<br><br>「あっ待て！おまえ達は昼間の地蔵！やめろそんな道具で！」<br>「うぁぁいやだぁ！、強欲で、腹黒で、意地悪で、計算高くて、妬み嫉み嫉妬深くて、某会社のお局様の様な女になりたくないぃぃ！」<br><br>あっ！ちょっぴり私情が入ってしまいました……<br>若者が朝起きてみると…やっぱり女に成って、しまってた…そうな。<br>だけど今度は、夜な夜な六地蔵が男を漁りまくり…若者は相変わらず異性？にはもてなかった…そうな。
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�Ȃ܂�����
+なまけもの
 </address>
-2009�N11��08��(��) 00��22��01�b ���J<br>
+2009年11月08日(日) 00時22分01秒 公開<br>
 <!--123.227.208.105-->
-<font color=red>�����̍�i�̒��쌠�͂Ȃ܂����̂���ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はなまけものさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�V���[�g�V���[�g����Ă݂����ǂ����A���x����������������s���ł����B
+ショートショート作ってみたけどここ、レベルすごく高いから不安ですぅ。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�@�o���b�g����<BR>�ǂ����ł����A���z�͂킽���������ł����A�킽���D���ȍ�i���Ƃ��񂢂��ς����܂��A�ł���Ηǂ��������ƂȂǊ��z�`���������ǂ����̏����A�Ȃ܂����̂Ȃ̂Łc�i�劾�j<BR>�����炱���A��낵�����肢���܂��B�����Ă��肪�Ƃ��������܂��B�y�R�y�R���B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2009-11-16 21:26:20</td>
+<td style=font-size:10pt>　バレットさま<BR>どうもですぅ、感想はわたしも同じですぅ、わたし好きな作品や作家さんいっぱい居ます、できれば良かったことなど感想伝えたいけどそこの所も、なまけものなので…（大汗）<BR>こちらこそ、よろしくお願いします。そしてありがとうございます。ペコペコリ。</td>
+<td>なまけもの</td>
+<td width=20%>■2009-11-16 21:26:20</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�ǂ����A�o���b�g�ł��B�������A���̗①�Ƀl�^��ǂ�ł����������Ƃ́I�@����A�X�O���p���������c�c�i���j�@�����Đ搶�̓񕶎��͂������������B�ł����肪�Ƃ��������܂��B<BR>�l�̍�i�ł��ˁA���\�n�[�h���b�N��������܂��񂪁A�܂����ʂɒ����ł�����B�Ȃ܂����̗l�̌f���ɂ��R�����g�����ɁA�I�j�����S�ł��B<BR><BR>����Ȃ킯�ŁA���ꂩ�����낵�����肢�������܂��B�y�R�B</td>
-<td>�o���b�g</td>
-<td width=20%>��2009-11-15 11:24:34</td>
+<td style=font-size:10pt>どうも、バレットです。うおぉ、あの冷蔵庫ネタを読んでいただいたとは！　いや、９０％恥ずかしい……（汗）　そして先生の二文字はご遠慮したく。でもありがとうございます。<BR>僕の作品ですね、結構ハードロックかもしれませんが、まあ無駄に長いですから。なまけもの様の掲示板にもコメントつけずに、オニメンゴです。<BR><BR>そんなわけで、これからもよろしくお願いいたします。ペコ。</td>
+<td>バレット</td>
+<td width=20%>■2009-11-15 11:24:34</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�@�o���b�g���܂͂��߂܂��āB<BR>�o���b�g�搶�͒��҂̃n�[�h�ȍ�i�̃C���[�W�i��i�����ς�����̂őS���ǂ�ł܂���A����݂܂����`�� (&gt;&lt;)�B�j�ł����̂��u�˂��̂����v�`�u����͂��񂵁I�v�ŒZ���̂����ゲ���ȁ`�A�킽�����Ȃɂ�����Ă݂悤���ȁ`���Ďv�����̂����������ł����`�o���b�g�搶���z���肪�Ƃ��������܂��B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2009-11-14 22:03:20</td>
+<td style=font-size:10pt>　バレットさまはじめまして。<BR>バレット先生は長編のハードな作品のイメージ（作品いっぱいあるので全部読んでません、しゅみましぇ〜ん (&gt;&lt;)。）でしたのが「ねこのえさ」〜「それはきんし！」で短いのもしゅごいな〜、わたしもなにか作ってみようかな〜って思ったのがきっかけですぅ〜バレット先生感想ありがとうございます。</td>
+<td>なまけもの</td>
+<td width=20%>■2009-11-14 22:03:20</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�͂��߂܂��āA�o���b�g�ł��B�ǂ܂��Ă��������܂����[�B<BR>�C���C���A�����Ǝv���܂���B���낢��ƍ������b�ł����A��肭�܂Ƃ܂��Ă��Ėʔ��������ł��B��l���₢���Ȑl���s�K�Ȃ܂܏I���̂����Ȗl�ł����A����̓X�b�L������G���f�B���O���`�ł����B<BR>��ς��y���l�ł����i�����������p�b�N���j�B</td>
-<td>�o���b�g</td>
-<td width=20%>��2009-11-14 02:11:26</td>
+<td style=font-size:10pt>はじめまして、バレットです。読ませていただきましたー。<BR>イヤイヤ、いいと思いますよ。いろいろと酷いお話ですが、上手くまとまっていて面白かったです。主人公やいろんな人が不幸なまま終わるのが苦手な僕ですが、これはスッキリするエンディングぅ〜でした。<BR>大変ご馳走様でした（お供え物をパックリ）。</td>
+<td>バレット</td>
+<td width=20%>■2009-11-14 02:11:26</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt> �L�삳�܁A<BR>�܂��܂��A���肪�Ƃ��������܂��A���͂��������A��҂��n�b�s�[�ɂ���Ηǂ��������ȁ`���Ďv���Ă܂��A��҂����n������󂵂����ǁA���͎󂯂��̂����i���ɂȂ������͕ʂƂ��āj���̐l�̌��Ȗʂ�m���Ă��邩�甽�ڋ��t�ɂ��āA�t�ɂ������l�C�҂ɂȂ����Ƃ��ł��c�A�c��炵�̕��ƂłR�x�������b�ɂȂ��đ�ϗ�݂ɂȂ�܂����A�L��搶���肪�Ƃ��������܂��B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2009-11-13 19:20:51</td>
+<td style=font-size:10pt> 猫野さま、<BR>またまた、ありがとうございます、今はもう少し、若者もハッピーにすれば良かったかな〜って思ってます、若者がお地蔵さん壊したけど、罰は受けたのだし（罰になったかは別として）女の人の嫌な面を知っているから反目教師にして、逆にすごく人気者になったとかでも…、…わらしの方とで３度もお世話になって大変励みになりました、猫野先生ありがとうございます。</td>
+<td>なまけもの</td>
+<td width=20%>■2009-11-13 19:20:51</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�����[�A�O�̂��߂ł����A�����Ӗ��ł͂Ȃ��ł����Ђǂ���<BR>���񂺂�r��ł���悤�ɂ͓ǂ߂܂���ł�����[<BR>�c�c����A�u�^��Ђ̂��Ǘl�̗l�ȏ��v���Ă���ς�r��ł���̂��ȁH</td>
-<td>�L��</td>
-<td width=20%>��2009-11-13 00:25:43</td>
+<td style=font-size:10pt>ああー、念のためですが、悪い意味ではないです＞ひどいな<BR>ぜんぜん荒んでいるようには読めませんでしたよー<BR>……いや、「某会社のお局様の様な女」ってやっぱり荒んでいるのかな？</td>
+<td>猫野</td>
+<td width=20%>■2009-11-13 00:25:43</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���肩�i�m��܁A���߂܂��Ăł��B<BR>���肩�i�m��搶�ł����B�q�J�������Ƃ��R�_�}�����i���̑傫���Ɏ��i�ł����j�K���X�̌C�A�_�ϑ�����D���ł��B<BR>�ǂ݂��΂ŁA���z�����Ȃ��Ă��݂܂���B���z���肪�Ƃ��������܂����B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2009-11-12 20:14:17</td>
+<td style=font-size:10pt>きりか進ノ介さま、初めましてです。<BR>きりか進ノ介先生ですぅ。ヒカルちゃんとかコダマちゃん（胸の大きさに嫉妬ですぅ）ガラスの靴、神変草紙大好きです。<BR>読みっばで、感想書かなくてすみません。感想ありがとうございますぅ。</td>
+<td>なまけもの</td>
+<td width=20%>■2009-11-12 20:14:17</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�@�͂��߂܂��āB�����邨����B<BR>�@���܂Ȃ����𖈉񂱂�����y���݂ɂ��Ă���̂ł����A���A����ȃ_�[�N�Ȃ��b���������̂��Ȃ��A�Ƌ����������Ȃ���ǂ݂܂����B<BR>�@���ĂȂ��������Ă��Ƃ́A��͂苭�~�ŕ����Łc�c�ȏ��ɂȂ���������̂��ȁH�@�ʔ��������ł��B</td>
-<td>���肩�i�m��</td>
-<td width=20%>��2009-11-12 09:18:45</td>
+<td style=font-size:10pt>　はじめまして。おそるおそる。<BR>　あまなつちゃんを毎回こっそり楽しみにしているのですが、あ、こんなダークなお話も書かれるのだなあ、と驚きを感じながら読みました。<BR>　もてなかったってことは、やはり強欲で腹黒で……な女になっちゃったのかな？　面白かったです。</td>
+<td>きりか進ノ介</td>
+<td width=20%>■2009-11-12 09:18:45</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�L�삳�܊��z���肪�Ƃ��������܂��B�S������ł��鎞���ɁA������Ɠo��l�����r��ł��܂��܂����B�C��t���܂��B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2009-11-11 22:33:52</td>
+<td style=font-size:10pt>猫野さま感想ありがとうございます。心が沈んでいる時期に、物語作ると登場人物も荒んでしまいました。気を付けます。</td>
+<td>なまけもの</td>
+<td width=20%>■2009-11-11 22:33:52</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���������Ђǂ��ȁA�n���A�Ђǂ��ȁA��ҁA�Ђǂ��ȁA�n���A�����ă��X�g�̎�ҁI�@�݂�ȃ_�������ď΂��܂����B</td>
-<td>�L��</td>
-<td width=20%>��2009-11-11 01:10:52</td>
+<td style=font-size:10pt>おいおいひどいな、地蔵、ひどいな、若者、ひどいな、地蔵、そしてラストの若者！　みんなダメすぎて笑えました。</td>
+<td>猫野</td>
+<td width=20%>■2009-11-11 01:10:52</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -146,24 +146,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20091108002201">
 <input type=hidden name="num_r" value="20091108002201">
 <input type=hidden name="url" value="">
@@ -179,17 +179,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20091108002201">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -199,9 +199,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

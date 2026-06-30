@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,88 +52,88 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-����ؑタ���@�u�C�i�K���v
+似非華代ちゃん　「イナガワ」
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�j�D�ɓ�����</center><tr>
+<center>作者：Ｋ．伊藤さん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-<br><br>������́A�����܂ł��V�т̕��͂ł��B�{���̉ؑタ���Ƃ͈�؊֌W����܂���B��<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>����A�����j���������̘b�Ȃ�ł����ǂˁB<br><br>���̎����A�������Ă���ł���B<br><br>�Q�����炢���������ȁ[�A�钆�́B���傤�Ǎ����炢�̋G�߂ŁB<br><br>���̎��A���d���łȂ񂩊�����������ĂāB<br><br>�C���������ȁ[�A�����A�肽���ȁ[�����Ȍ����ȁ[�B<br><br>�Ȃ�Ďv���Ȃ���A������Ƒ����ŋA�蓹�����Ă���ł����ǂˁB<br><br>��������A�O����l�����邶��Ȃ��ł����B<br><br>�ŁA���ꂪ���������s�[�X�ɔ����X�q�̏��̎q�ŁB<br><br>����[�A���Ȃ��񌩂�������ȁ[���āB<br><br>�钆�̂Q���ł���H<br><br>����Ȏ��ԂɎq������l�ŕ����Ă��ł���H<br><br>�������炻�̏��̎q�A�ĂĂĂā[���ė����ł���B<br><br>�ĂĂā[���A�ĂĂĂā[���āA���̕��ɁB<br><br>�ŁA���̏��̎q�́A�猩���������ł����ǂˁB<br><br>����[���A�āB<br><br>����[���Ďv���܂����ˁB<br><br>�����痧�����Ă��ł����ǂˁA�ڂ��ˁB<br><br>�ڂ��ˁA�Ȃ�Ƃ������A�l�Ԃ̖ڂ���Ȃ���ł���B<br><br>�ŁA�����Ȍ����ȁA�����ǂ����s���Ă���Ȃ����ȁ[���Ďv���Ă܂�����B<br><br>���̎q���ł��ˁA�Ȃ񂩎��ɍ����o����ł���B<br><br>�����ȁ[���āA�������Ȃ��Ȍ������Ȃ��ȁ[���Ďv������ł����ǁB<br><br>�����������ł���ˁB<br><br>��������A�R�R���ƃJ���_�̔Y�݂��󂯂��܂��B���ď����Ă��邶��Ȃ��ł����B<br><br>�^��ؑ���āA�����Ă�������ł���A���h���Ă����̂��ȁ[�A�ł��V���v���ŁB<br><br>����ŁA���̖��h�݂����Ȃ̎��ɏo���Ȃ���A���̎q������ł���B<br><br>��������A�Ȃɂ��Y�݂�����܂��ˁH�@���āB<br><br>�ɂ��[���āA�ɂ��[���ď΂��Ȃ���B<br><br>����[�A�Ȃ񂾂�Ȃ񂾂�[�A��߂Ă����[���Ďv������ł����ǁB<br><br>�����ł��ˁA���A�Ƃɂ��������A�肽���āB<br><br>���傤�ǂ��̎��A���X�g�[�J�[���ۂ��̂ɔY��ł�����ł����ǁB<br><br>����A�������������ł���A���̎q�ɁB<br><br>���v���΁A�������񂶂�Ȃ��Č��킳�ꂽ�񂶂�Ȃ����ȁ[���āA�v������������ł����ǁB<br><br>�ŁB<br><br>���ꕷ���āA���̎q�Ȃ�Č������Ǝv���܂��H<br><br>�킩��܂����A���Č�������ł���B�킩��܂����A���܂��������������āB<br><br>�ŁA�����Ŏ��A�C��������������炵���āB<br><br>�C���t������A����Ȏp�������킯�Ȃ�ł����ǁB<br><br>���₟�A���[��[�b���āA�����ł��ˁB<br>
+<br><br>＊これは、あくまでお遊びの文章です。本物の華代ちゃんとは一切関係ありません。＊<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>これ、私が男だった頃の話なんですけどね。<br><br>その時私、道歩いてたんですよ。<br><br>２時くらいだったかなー、夜中の。ちょうど今くらいの季節で。<br><br>その時、私仕事でなんか汗かいちゃってて。<br><br>気持ち悪いなー、早く帰りたいなー嫌だな嫌だなー。<br><br>なんて思いながら、ちょっと早足で帰り道歩いてたんですけどね。<br><br>そしたら、前から人が来るじゃないですか。<br><br>で、それが白いワンピースに白い帽子の女の子で。<br><br>うわー、ヤなもん見ちゃったなーって。<br><br>夜中の２時ですよ？<br><br>そんな時間に子供が一人で歩いてるんですよ？<br><br>そしたらその女の子、ててててーって来るんですよ。<br><br>てててーっ、ててててーって、私の方に。<br><br>で、その女の子の、顔見ちゃったんですけどね。<br><br>うわーっ、て。<br><br>うわーって思いましたね。<br><br>可愛い顔立ちしてるんですけどね、目がね。<br><br>目がね、なんというか、人間の目じゃないんですよ。<br><br>で、嫌だな嫌だな、早くどっか行ってくれないかなーって思ってましたら。<br><br>その子がですね、なんか私に差し出すんですよ。<br><br>何かなーって、見たくないな見たくないなーって思ったんですけど。<br><br>見ちゃったんですよね。<br><br>そしたら、ココロとカラダの悩みお受けします。って書いてあるじゃないですか。<br><br>真城華代って、書いてあったんですよ、名刺っていうのかなー、でもシンプルで。<br><br>それで、その名刺みたいなの私に出しながら、その子言うんですよ。<br><br>おじさん、なにか悩みがありますね？　って。<br><br>にぃーって、にぃーって笑いながら。<br><br>うわー、なんだよなんだよー、やめてくれよーって思ったんですけど。<br><br>もうですね、私、とにかく早く帰りたくて。<br><br>ちょうどその時、私ストーカーっぽいのに悩んでいたんですけど。<br><br>それ、言っちゃったんですよ、その子に。<br><br>今思えば、言ったんじゃなくて言わされたんじゃないかなーって、思ったりもするんですけど。<br><br>で。<br><br>それ聞いて、その子なんて言ったと思います？<br><br>わかりました、って言ったんですよ。わかりました、おまかせくださいって。<br><br>で、そこで私、気ぃ失っちゃったらしくて。<br><br>気が付いたら、こんな姿だったわけなんですけど。<br><br>いやぁ、こーゆー話って、あるんですね。<br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-<a href=mailto:happy@ex.sakura.ne.jp>�j�D�ɓ�</a>
+<a href=mailto:happy@ex.sakura.ne.jp>Ｋ．伊藤</a>
 </address>
-2006�N07��09��(��) 19��03��43�b ���J<br>
+2006年07月09日(日) 19時03分43秒 公開<br>
 <!--221.240.247.29-->
-<font color=red>�����̍�i�̒��쌠�͂j�D�ɓ�����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はＫ．伊藤さんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-����͈��~��ł��B<br><br>���낻��āI<br>�ĂƗ���Ε|���b�I�I<br>�ƌ������ƂŁA���~��̉��k������^���Ă݂܂����B<br><br>�����܂Ŏ���Ȃ̂ł��񑩂̖`�����ȗ��B<br><br>���~��̕|���b���������Ɩ����l�ɂ͌��Ђ��ʔ����Ȃ��Ǝv���܂��B<br>���������Ƃ����Ă��ʔ����Ƃ͌���܂��񂪁B�i��<br>
+今回は稲川淳二です。<br><br>そろそろ夏！<br>夏と来れば怖い話！！<br>と言うことで、稲川淳二の怪談口調を真似てみました。<br><br>あくまで似非なのでお約束の冒頭文省略。<br><br>稲川淳二の怖い話聞いたこと無い人には欠片も面白くないと思います。<br>聞いたことあっても面白いとは限りませんが。（笑<br>
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>���z���肪�Ƃ��������܂��B<BR><BR>����ς�F��x�͕������������ł����ˁA��삳��̕|���b�B�i��<BR>�X�g�[�J�[�A���ď����܂������A����A�P�Ȃ闝�R�Ȃ̂ŁA���炩�ɂs�r�̕����I�}�P���Ă����i��<BR>�j���j���c�c���Ă������B���Ȃ��A���[�������삳����ۂ����낤�A�Ƃ����āB�i��</td>
-<td width=10%><a href=mailto:happy@ex.sakura.ne.jp>�j�D�ɓ�</a></td>
-<td width=20%>��2006-07-14 21:24:10</td>
+<td style=font-size:10pt>感想ありがとうがざいます。<BR><BR>やっぱり皆一度は聞いた事あるんですかね、稲川さんの怖い話。（笑<BR>ストーカー、って書きましたが、これ、単なる理由なので、明らかにＴＳの方がオマケっていう（笑<BR>ニヤニヤ……してたかも。推敲しつつ、こーしたら稲川さんっぽいだろう、とかって。（笑</td>
+<td width=10%><a href=mailto:happy@ex.sakura.ne.jp>Ｋ．伊藤</a></td>
+<td width=20%>■2006-07-14 21:24:10</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt><BR>�������낢�B�@�m���Ă��B�@���Ă�B<BR><BR>�X�^���h�_���Ăɂ�ɂ₵�Ȃ��珑���Ă�j�D�ɓ�����̊炪�v�������ׂ��āA�Ȃ�<BR>���|���Ă������������ł��B<BR></td>
-<td>���肩�i�m��</td>
-<td width=20%>��2006-07-13 04:40:28</td>
+<td style=font-size:10pt><BR>おもしろい。　知ってた。　似てる。<BR><BR>スタンド点けてにやにやしながら書いてるＫ．伊藤さんの顔が思い浮かべられて、なんだ<BR>か怖くておかしかったです。<BR></td>
+<td>きりか進ノ介</td>
+<td width=20%>■2006-07-13 04:40:28</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�ɂ܂�Ƃ��Ȃ���ǂ݂܂����B�����A�ɂ܂�Ƃ��Ȃ���B<BR>����Ȃł����ꉞ�A�J�ߌ��t�̂��肾�����肵�܂��B<BR><BR>�Ƃ肠�����X�g�[�J�[���ۂ��́��p�p���b�`����Ȃ��Ă悩�����ˁB�ƁB<BR><BR>> ���ɖ����u����v<BR>�����u�[��ToSi�`���i��F BAF����j�v�̎����Ȃ��ƁB</td>
-<td width=10%><a href=mailto:mst_kg@infoseek.jp>�V�</a></td>
-<td width=20%>��2006-07-12 11:54:53</td>
+<td style=font-size:10pt>にまりとしながら読みました。えぇ、にまりとしながら。<BR>こんなですが一応、褒め言葉のつもりだったりします。<BR><BR>とりあえずストーカーっぽいの＝パパラッチじゃなくてよかったね。と。<BR><BR>> 文庫名物「あれ」<BR>多分「納涼ToSi伝説（作： BAFさん）」の事かなぁと。</td>
+<td width=10%><a href=mailto:mst_kg@infoseek.jp>天爛</a></td>
+<td width=20%>■2006-07-12 11:54:53</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���z���肪�Ƃ��������܂��B<BR><BR>�ق�ƂɂˁA���z���Ă��u�ʔ����v�u�܂�Ȃ��v�u�m��Ȃ��v�u���Ă�v�u���ĂȂ��v���x���̏������݂��o������x�ł����B�i��<BR>�ʔ����A���͋C���o�Ă�A�D�]�����肪�Ƃ��������܂��ł��B<BR><BR>�ǂ�ȖڂȂ̂��A���[�ƁA�������ʂ�n�C���C�g�������ĂȂ��W���P�F�̖ڂł��傤�B�i��<BR>���ɖ����u����v�ł����A�܂����N�̂S���Ƀf�r���[�i�X�g�[���[����͂R���f�r���[�j�����΂���Ȃ̂Łu����v�������킩��Ȃ��̂ł����A�܂��A����������΂킩��ł��傤���A������Ɗ��҂Ƃ����Ă݂Ă܂��ˁB</td>
-<td width=10%><a href=mailto:happy@ex.sakura.ne.jp>�j�D�ɓ�</a></td>
-<td width=20%>��2006-07-11 23:49:31</td>
+<td style=font-size:10pt>感想ありがとうございます。<BR><BR>ほんとにね、感想っても「面白い」「つまらない」「知らない」「似てる」「似てない」レベルの書き込みが出来る程度ですし。（笑<BR>面白い、雰囲気が出てる、好評価ありがとうございますです。<BR><BR>どんな目なのか、えーと、多分光彩やハイライトが入ってない淡い単色の目でしょう。（笑<BR>文庫名物「あれ」ですか、まだ今年の４月にデビュー（ストーリー道場は３月デビュー）したばかりなので「あれ」が何かわからないのですが、まぁ、時期が来ればわかるでしょうし、ちょっと期待とかしてみてますね。</td>
+<td width=10%><a href=mailto:happy@ex.sakura.ne.jp>Ｋ．伊藤</a></td>
+<td width=20%>■2006-07-11 23:49:31</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�@�͂��߂܂��āB<BR>�@�X�g�[�J�[����ŉؑタ���Ɂc�������]�v�_��ꂻ���ȁc�H<BR>�@����̃j�Z�ؑタ���̖ځc�ǂ�ȖڂȂ̂����Ȃ苰���ł��ˁB<BR><BR>�@���������΂��낻��Ă̕��ɖ����́u����v�̃V�[�Y���ł�����܂��ˁc�B</td>
-<td>�J�M���b�R</td>
-<td width=20%>��2006-07-11 18:37:20</td>
+<td style=font-size:10pt>　はじめまして。<BR>　ストーカー回避で華代ちゃんに…何だか余計狙われそうな…？<BR>　今回のニセ華代ちゃんの目…どんな目なのかかなり恐いですね。<BR><BR>　そう言えばそろそろ夏の文庫名物の「あれ」のシーズンでもありますね…。</td>
+<td>カギヤッコ</td>
+<td width=20%>■2006-07-11 18:37:20</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>����[�A�ʔ����ł���H<BR>�O��̔�������ł������ǁA���Ƃ̐l�̕��͋C�͓��R�Ȃ��炫����ƂłĂ܂����B<BR>�����Ǝv���܂��A�͂��A�P���ɁB�P���ŁB</td>
-<td width=10%><a href=mailto:takurou.07_30.robot-a@docomo.ne.jp>����Y</a></td>
-<td width=20%>��2006-07-11 18:27:47</td>
+<td style=font-size:10pt>いやー、面白いですよ？<BR>前回の漠さんもでしたけど、もとの人の雰囲気は当然ながらきちんとでてますし。<BR>いいと思います、はい、単純に。単純で。</td>
+<td width=10%><a href=mailto:takurou.07_30.robot-a@docomo.ne.jp>太九郎</a></td>
+<td width=20%>■2006-07-11 18:27:47</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���z���肪�Ƃ��������܂��B<BR><BR>���Ă������A�����A���ꊴ�z�Ƃ��ӌ��Ƃ��]�X�̍�i����Ȃ��ł����ǂ��i��<BR>����A��i���Č����̂��������܂������Ă������B<BR>���q�l�ɏ΂��Ă�����������A���ꂪ�����̕�V�Ō�����܂��B�i��<BR><BR>����ؑタ���c�c���񂠂�̂��Ȃ��B<BR>�Ȃ񂩎v�������珑���܂����A�v�����Ȃ��\�������Ȃ��i��</td>
-<td width=10%><a href=mailto:happy@ex.sakura.ne.jp>�j�D�ɓ�</a></td>
-<td width=20%>��2006-07-11 02:33:47</td>
+<td style=font-size:10pt>感想ありがとうございます。<BR><BR>っていうか、もう、これ感想とか意見とか云々の作品じゃないですけども（笑<BR>いや、作品って言うのもおこがましいっていうか。<BR>お客様に笑っていただけたら、それが何よりの報酬で御座います。（笑<BR><BR>似非華代ちゃん……次回あるのかなぁ。<BR>なんか思いついたら書きますが、思いつかない可能性もかなり大（笑</td>
+<td width=10%><a href=mailto:happy@ex.sakura.ne.jp>Ｋ．伊藤</a></td>
+<td width=20%>■2006-07-11 02:33:47</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>����ɂ��́A�������ł��I<BR>�Ղ��A�ō��ł��I�I<BR>�́c�c�����ɂ��c�c�B<BR>���̎���ؑタ���V���[�Y����ԉ��A����͈�̉��Ȃ̂ł��傤��<BR>������y���݂ɂ��āA�ł͂ł́`��</td>
-<td>������</td>
-<td width=20%>��2006-07-10 20:51:57</td>
+<td style=font-size:10pt>こんにちは、流離太です！<BR>ぷっ、最高です！！<BR>は……腹が痛い……。<BR>この似非華代ちゃんシリーズも定番化、次回は一体何なのでしょう♪<BR>それを楽しみにして、ではでは〜♪</td>
+<td>流離太</td>
+<td width=20%>■2006-07-10 20:51:57</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�ɂ�[���Ƃ��Ă��܂��܂����B</td>
-<td>�d�g�d��</td>
-<td width=20%>��2006-07-10 18:50:37</td>
+<td style=font-size:10pt>にやーっとしてしまいました。</td>
+<td>電波妖精</td>
+<td width=20%>■2006-07-10 18:50:37</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -141,24 +141,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20060709170455">
 <input type=hidden name="num_r" value="20060709170455">
 <input type=hidden name="url" value="">
@@ -174,17 +174,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20060709170455">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -194,9 +194,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

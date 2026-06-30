@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>��� �����񊴑z�f����</title>
+<title>鈴忌 紫さん感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��� �����񊴑z�f����</font>
+<font size=5>鈴忌 紫さん感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="suzuki_murasaki">
 <input type=hidden name="nj" value="PgrXEmDojn">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h isT6ba  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="isT6ba"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード isT6ba  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="isT6ba"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,20 +44,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[127]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[127]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/24 (��) 11:12:21 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609240111221&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609240111221"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/24 (日) 11:12:21 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609240111221_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200609240111221"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������l<br>
+<font size=3 color=#606060>▼流離太様<br>
 <br>
-�@���Ԏ����x���Ȃ��čς݂܂���B���z���肪�Ƃ��������܂����B����̍�i�͐F�X�ƕ��͕\���ʂł̎�����I�ȍ�i�ł����A�����ł��y����Œ�����Ƃ��肪�����ł��B�F�X�ƕ��s��ƒ��Ȃ̂Ō㔼�͂�����ƒx���Ȃ�܂����A����������ǂݒ�����ƍK���ł��B<br>
+　お返事が遅くなって済みません。感想ありがとうございました。今回の作品は色々と文章表現面での実験作的な作品ですが、少しでも楽しんで頂けるとありがたいです。色々と並行作業中なので後半はちょっと遅くなりますが、そちらもお読み頂けると幸いです。<br>
 <br>
-�@���ƁA�j���̑I���ɂ��ẮA�r�e��t�@���^�W�[�ŐF�X�Ǝg���Ă��ċ����[����ނł���ˁB����͂r�e���Ȗ��t���ł����A�m���t�@���^�W�[�ȍ앗�Œj���̑I�������������ƍ�i���������悤�ȋC�����܂��B������Ɩ��O���v���o���܂��񂪁c�c��΁B<br>
+　あと、男女の選択については、ＳＦやファンタジーで色々と使われていて興味深い題材ですよね。今作はＳＦ風な味付けですが、確かファンタジーな作風で男女の選択を扱った商業作品があったような気がします。ちょっと名前が思い出せませんが……苦笑。<br>
 <br>
-�@�ł́A���ꂩ����ǂ����X�������肢�������܂��B</font>
+　では、これからもどうぞ宜しくお願いいたします。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/ " target="_top">http://www.k2.dion.ne.jp/~amaranth/ </a>
 </td></table>
 </td></tr></table>
@@ -65,50 +65,50 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[126]</font> <font size=4 color=#40c0c0> �x���Ȃ��Đ\���󂠂�܂��񂪁B</font>
+<font size=2>[126]</font> <font size=4 color=#40c0c0> 遅くなって申し訳ありませんが。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/15 (��) 08:35:49 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609155083549&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609155083549"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/15 (金) 08:35:49 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609155083549_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200609155083549"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��͂񂱁`�A�������ł���<br>
-�x���Ȃ�܂������A���j�[�̘f���q�ǂ����Ă��������܂����i�O�O�j<br>
+<font size=3 color=#606060>こんにちはんこ〜、流離太です♪<br>
+遅くなりましたが、ユニーの惑星拝読させていただきました（＾＾）<br>
 <br>
-���`��A���͂��炵�ĈႢ�܂��ˁA����ς�B<br>
-����A���̕`�ʂ̂������ŁA���Ȃ�������Ƃ����D�������͋C�ɂȂ��Ă��܂���<br>
-�܂�ŁA�΂̑����c�c�݂����ȁi�O�O�j<br>
-��œ��e�B<br>
-���`��A�j�����I���ł���c�c�ȑO�����ʁ`�ׁ`�̃T�L���o�X�̘b�ɂ����̂悤�Ȃ��̂�����܂����B<br>
-�ł��A������͂�����펯�Ƃ��āA��������a���Ȃ��`���Ă��܂��ˁB<br>
-�{���ɁA����̕`�����Ƃ����J�ł����ł��i�O�O�j<br>
-�W�F���_�[�Ȃ񂩂��A���̕��ɂɂ���l�ԂȂ炾�ꂵ���w�т������̂ŁA���̋��ȏ��Ƃ��Č����̂������ł��ˁ�<br>
+う〜ん、文章からして違いますね、やっぱり。<br>
+いや、この描写のおかげで、かなりゆったりとした優しい雰囲気になっています♪<br>
+まるで、緑の息吹……みたいな（＾＾）<br>
+んで内容。<br>
+う〜ん、男女が選択できる……以前見たぬ〜べ〜のサキュバスの話にもそのようなものがありました。<br>
+でも、こちらはそれを常識として、しかも違和感なく描いていますね。<br>
+本当に、日常の描き方とか丁寧でいいです（＾＾）<br>
+ジェンダーなんかも、この文庫にいる人間ならだれしも学びたいもので、その教科書として見れるのもいいですね♪<br>
 <br>
-����͂�A�y���܂��Ă��������܂�����<br>
-�������y���݂ɂ��Ă��܂��I<br>
-��ł́A����΂��Ă��������܂��`��</font>
+いやはや、楽しませていただきました♪<br>
+続きも楽しみにしています！<br>
+んでは、がんばってくださいませ〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[125]</font> <font size=4 color=#40c0c0> ���Ԏ����x���Ȃ��Ă��݂܂���B</font>
+<font size=2>[125]</font> <font size=4 color=#40c0c0> お返事が遅くなってすみません。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/08 (��) 17:59:36 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609085175936&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609085175936"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/08 (金) 17:59:36 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609085175936_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200609085175936"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������G���E���E���B���g�l<br>
-�@���v���Ԃ�ł��B���΂炭���͏C�s�ŕʌ��̍�i����΂������Ă����̂Ŕ��N�Ԃ肮�炢�ɂȂ��Ă��܂��܂����i��΁j�B������i�����ǂ݉�����A���肪�Ƃ��������܂��B�Ăт��ڂɂ����邱�Ƃ��ł��Č��h�ł��B<br>
-�@�u���j�[�v�ɂ��Ắu���j�Z�b�N�X�v�́u���j�v�Ő����ł��ˁB���Ƃ��ƁA�����I�Ƃ����Ӗ����������錾�t�炵���ł��B�P�C�g����l���Ƃ����킯����Ȃ��āA�F�X�ȃ��j�[�����̕���������čs�����炢���Ȃ��c�c�Ǝv���V���[�Y�^�C�g����t���܂����B�܂��A�Ƃ肠������ɍ���́u�����̉~���ȁv�̌㔼�����������Ȃ��Ƃ����Ȃ��̂ł����ǁi�΁j�B<br>
-�@���ƁA���g���b�N�ɂ��Ă̂��w�E���肪�Ƃ��������܂��B���R�Ń��}�̏��Ȃ�����Ȃ̂ŉ����������o�������āA�������g���b�N���J��Ԃ��Ă����̂ł����c�c������Ɖ񐔂Ȃǂɒ��ӂ��A��肷���Ȃ��悤�ɋC��t�������Ǝv���܂��B<br>
-�@�Ȃ����̓��e�́A���̕��͏C�s�ƕ��s�Ȃ̂ōĂт��΂炭��ɂȂ邩�Ǝv���܂����A��낵���������҂��ǂ�Œ�����ƍK���ł��B�ł́A���炵�܂��B<br>
+<font size=3 color=#606060>▼リリエン・Κ・ヴィント様<br>
+　お久しぶりです。しばらく文章修行で別件の作品制作ばかりやっていたので半年ぶりぐらいになってしまいました（苦笑）。長い作品をお読み下さり、ありがとうございます。再びお目にかかることができて光栄です。<br>
+　「ユニー」については「ユニセックス」の「ユニ」で正解ですね。もともと、中性的という意味合いがある言葉らしいです。ケイトが主人公というわけじゃなくて、色々なユニーたちの物語を書いて行けたらいいなぁ……と思いつつシリーズタイトルを付けました。まぁ、とりあえず先に今回の「初恋の円舞曲」の後半を完成させないといけないのですけど（笑）。<br>
+　あと、レトリックについてのご指摘ありがとうございます。平坦でヤマの少ない物語なので何か特徴を出したくて、同じレトリックを繰り返していたのですが……ちょっと回数などに注意しつつ、やりすぎないように気を付けたいと思います。<br>
+　なお次の投稿は、他の文章修行と並行なので再びしばらく後になるかと思いますが、よろしかったら後編も読んで頂けると幸いです。では、失礼します。<br>
 <br>
-���p�Y�l<br>
-�@���߂܂��āB�u���j�[�̘f���v�͂r�e��z�肵�ď�������i�Ȃ̂ł����ǁA������n�[�h�r�e����Ȃ��āA���E�ݒ���َ��ɂ����r�e���E�̒��łǂ̂悤�ȓ��킪�N���邩���l���ď����Ă��܂��B������g�A�r�e�͂��܂蓾�ӂł͂Ȃ��̂ŁA������r�e�L�͂��܂肵�Ȃ���i�ɂȂ邩�Ǝv���܂����X���������玟������������������B<br>
-�@������i�ł����A���ǂݒ������肪�Ƃ��������܂��B�ł́A���炵�܂��B</font>
+▼英雄様<br>
+　初めまして。「ユニーの惑星」はＳＦを想定して書いた作品なのですけど、いわゆるハードＳＦじゃなくて、世界設定を異質にしたＳＦ世界の中でどのような日常が起こるかを考えて書いています。鈴忌自身、ＳＦはあまり得意ではないので、自作もＳＦ臭はあまりしない作品になるかと思いますが宜しかったら次回もおつきあい下さい。<br>
+　長い作品ですが、お読み頂きありがとうございます。では、失礼します。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
@@ -116,82 +116,82 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[124]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��������܂���</font>
+<font size=2>[124]</font> <font size=4 color=#40c0c0> 読ませていただきました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/02 (�y) 01:08:53 <strong>��</strong> <a href="mailto:nazonazo@cat.email.ne.jp">�p�Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609026010853&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609026010853"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/02 (土) 01:08:53 <strong>▽</strong> <a href="mailto:nazonazo@cat.email.ne.jp">英雄</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609026010853_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200609026010853"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂��߂܂��ĉp�Y�Ɛ\���܂��B<br>
+<font size=3 color=#606060>はじめまして英雄と申します。<br>
 <br>
-���������ǂݏI�����΂���ł����A�����������ǂ݂����ăE�Y�E�Y���Ă��܂��B<br>
-�������Ȑ��A�I�����鐫�A��������鐫�c�c��ނɔ��Ɏ䂩��܂����B<br>
-�N������x�́u�����������ِ���������v�ƍl�������Ƃ����邩������܂���B���܂ꂽ�Ƃ����猈�߂��Ă��鐫��������O�ł͂Ȃ��A�I�ёI�΂��B<br>
-����͂����܂����Ǝv�����ʁA�I���̎�����������x�̎��䂪�`������Ă���ł���Ƃ����ݒ�ɁA�����̎c�������o���܂����B<br>
+たった今読み終えたばかりですが、もう続きが読みたくてウズウズしています。<br>
+未分化な性、選択する性、強制される性……題材に非常に惹かれました。<br>
+誰しも一度は「自分がもし異性だったら」と考えたことがあるかもしれません。生まれたときから決められている性が当たり前ではなく、選び選ばれる。<br>
+それはうらやましいと思う反面、選択の時期がある程度の自我が形成されてからであるという設定に、ある種の残酷さを覚えました。<br>
 <br>
-������y���݂ɂ��Ă��܂��B</font>
+次回を楽しみにしています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[123]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[123]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/30 (��) 22:42:07 <strong>��</strong> �����G���E���E���B���g </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608303224207&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608303224207"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/30 (水) 22:42:07 <strong>▽</strong> リリエン・Κ・ヴィント </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608303224207_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200608303224207"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<pre><font size=3 color=#606060>�����ƁA�����̗����ł��B
+<pre><font size=3 color=#606060>えっと、いつかの来龍です。
 
-HN���������܂����̂ŁA���݂́��̃^�C�g���ɂ��閼�O�ł��B�����[�A�����G���Ȃǂō\���܂���B
+HNを改名しましたので、現在は↑のタイトルにある名前です。リリー、リリエンなどで構いません。
 
-�w���j�[�̘f���V���[�Y�x�ǂ܂��Ă��������܂����B
+『ユニーの惑星シリーズ』読ませていただきました。
 
-�v���Ԃ�ɗ������̐V���ǂ񂾂̂ł����A���܂ł��������͂��Ȃ萦���̂ɁA����Ɋi�i�ɐi�����Ă�悤�ȋC�����܂����B(�������A����z���g�ɃX�S�C�ł�)
-����ƁA�C�t������ł����A���������āg���j�[�h�̃��j���āg���j�Z�b�N�X�h�̃��j�Ȃ�ł��傤���H
+久しぶりに鈴忌さんの新作を読んだのですが、今までも鈴忌さんはかなり凄いのに、さらに格段に進化してるような気がしました。(鈴忌さん、毎回ホントにスゴイです)
+それと、気付いたんですが、もしかして“ユニー”のユニって“ユニセックス”のユニなんでしょうか？
 
-����������������܂��񂪁A
+自分だけかもしれませんが、
 
-<font color="#ff88cc">���㌷�̌��̂悤�ȖڂŁA�`�\�\</font>
+<font color="#ff88cc">＞上弦の月のような目で、〜——</font>
 
-�����\���������܂����B�������Ɗ����鎖�͂Ȃ��̂ł����A������ƋC�ɂȂ邮�炢�ł����B
-�l�I�ɃP�C�g�ƃR�j�X(�����Ă܂����H)�̕ӂ肪�A���Ȃ�D���ł��B���񑩑S�J������Ȃ̂�������܂��񂪁A�ŋ߂��̎�̗������ۂ����͂ɁA�₽�狹���L�����L�������܂��B���łɃ��j�[�B���A�܂����c�c�H(�����A�}�W�ő��v���c�H)
+が結構多く感じました。しつこいと感じる事はないのですが、ちょっと気になるぐらいでした。
+個人的にケイトとコニス(あってますか？)の辺りが、かなり好きです。お約束全開だからなのかもしれませんが、最近この手の恋愛っぽい文章に、やたら胸がキュンキュンします。ついでにユニー達が羨ましい……？(自分、マジで大丈夫か…？)
 
-�����������ǂ݂����ł��B�撣���ĉ�����!!(^-^)&gt;</font></pre>
+続きが早く読みたいです。頑張って下さい!!(^-^)&gt;</font></pre>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[122]</font> <font size=4 color=#40c0c0> �w���j�[�̘f���u�����̉~���ȁv�@�ďH�ҁx������ɂ͉����N���b�N�B</font>
+<font size=2>[122]</font> <font size=4 color=#40c0c0> 『ユニーの惑星「初恋の円舞曲」　夏秋編』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/29 (��) 02:44:41 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608292024441&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608292024441"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/29 (火) 02:44:41 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608292024441_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200608292024441"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z����̒��ŉ߂��Ă������Ԃ̒��ŖY��Ă����v���B����͗y�������̕���ł��B�i���ʂ������ł��̂ł������Ɠǂ݂܂��傤�j</font>
-<p><a href="http://ts.novels.jp/novel/200503/27150319/uni&#95;hatukoi&#95;natuaki.html" target="_top">http://ts.novels.jp/novel/200503/27150319/uni&#95;hatukoi&#95;natuaki.html</a>
+<font size=3 color=#606060>【推薦文】日常の中で過ぎていく時間の中で忘れていた思い。それは遥か未来の物語です。（分量が多いですのでゆっくりと読みましょう）</font>
+<p><a href="../../novel/200503/27150319/uni&#95;hatukoi&#95;natuaki.html" target="_top">http://ts.novels.jp/novel/200503/27150319/uni&#95;hatukoi&#95;natuaki.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[121]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��S</font>
+<font size=2>[121]</font> <font size=4 color=#40c0c0> 感想ありがとうございます４</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/13 (��) 23:20:57 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602131232057&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602131232057"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/13 (月) 23:20:57 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602131232057_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200602131232057"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��kage�l<br>
-�@�Ō�܂œǂ�Œ����A���肪�Ƃ��������܂����B�Ȃ�Ƃ��A���[��������G���f�B���O���������݂����ł悩�����ł��B�����́A�������D���ł��i�����Ƃ��A�G�N�X�̃��C�������o�[�݂͂�Ȏv�����ꂪ����܂����j�B�㔼�A�e�ʖ��ŏ�������H���Ă��܂����̂����z�ł������A����Ȃ�ɂ͕`�����Ǝv���܂��B�f�G�ƌ����Ă��������Ċ���������ł��B<br>
-�@�������撣��܂��̂ŁA�ǂ�����낵�����肢�������܂��B�ł́A���炵�܂��B</font>
+<font size=3 color=#606060>▼kage様<br>
+　最後まで読んで頂き、ありがとうございました。なんとか、ご納得頂けるエンディングが書けたみたいでよかったです。朋香は、鈴忌も大好きです（もっとも、エクスのメインメンバーはみんな思い入れがありますが）。後半、容量問題で少し割を食ってしまったのが可哀想でしたが、それなりには描けたと思います。素敵と言っていただけて嬉しい限りです。<br>
+　次回作も頑張りますので、どうぞよろしくお願いいたします。では、失礼します。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
@@ -199,51 +199,51 @@ HN���������܂����̂ŁA���݂́��̃^�C�g���ɂ��閼�O�ł��B�����[�A�����G���Ȃǂō\
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[120]</font> <font size=4 color=#40c0c0> �ƂĂ��ǂ������B</font>
+<font size=2>[120]</font> <font size=4 color=#40c0c0> とても良かった。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/11 (�y) 04:31:04 <strong>��</strong> kage </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602116043104&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602116043104"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/11 (土) 04:31:04 <strong>▽</strong> kage </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602116043104_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200602116043104"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�؂Ȃ��b�Ɏ䂩��ēǂ�ł����̂悤�ȓǎ҂ɂ������ł���悤�ȁA�ƂĂ��C�����̂悢�n�b�s�[�G���h�ł����B<br>
-��l���̉��炵�����D���ł������A�ŏI��ł͕������񂪂ƂĂ��f�G�ł����B</font>
+<font size=3 color=#606060>切ない話に惹かれて読んでた私のような読者にも満足できるような、とても気持ちのよいハッピーエンドでした。<br>
+主人公の可愛らしさも好きでしたが、最終回では朋香さんがとても素敵でした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[119]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��R</font>
+<font size=2>[119]</font> <font size=4 color=#40c0c0> 感想ありがとうございます３</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/10 (��) 22:19:15 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602105221915&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602105221915"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/10 (金) 22:19:15 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602105221915_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200602105221915"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������W�S�Q�U�l<br>
-�@������̌f���ɂ���������Ȃ��Ȃ�������A�����Ɗ��z��t���Ē������肪�Ƃ��������܂����B������A�����Ƃ����ƕ��ɂ̍�i��ǂ�Ŋ��z��t���Ă䂫�����̂ł����ŋ߂Ȃ��Ȃ����Ԃ����Ȃ��āc�c�Bmk8426����͖{���ɐ����ł��B����̂悤�ȃA�}��ƂɂƂ��āA������݂ɂȂ�܂��B�ǂ����A���̑f���炵�����������ꂩ����������������B<br>
+<font size=3 color=#606060>▼ｍｋ８４２６様<br>
+　こちらの掲示板にいらっしゃらなくなった後も、ずっと感想を付けて頂きありがとうございました。鈴忌も、もっともっと文庫の作品を読んで感想を付けてゆきたいのですが最近なかなか時間が取れなくて……。mk8426さんは本当に凄いです。鈴忌のようなアマ作家にとって、凄く励みになります。どうぞ、この素晴らしい活動をこれからもお続け下さい。<br>
 <br>
-<font color="#cc88ff">&gt; �u�������������v�Ƃ������Ƃ����̂悤�ȗ��R�������Ƃ́A<br>
-&gt; �Ō�̍Ō�܂ŋC�t���܂���ł����B<br>
-&gt; ����΂���́u���������N�D���v���}�C�i�X�ɍ�p�����悤�ł��ȁi���j�B</font><br>
+<font color="#cc88ff">&gt; 「女装が似合う」ということがこのような理由だったとは、<br>
+&gt; 最後の最後まで気付きませんでした。<br>
+&gt; こればかりは「女装美少年好き」がマイナスに作用したようですな（爆）。</font><br>
 <br>
-�@�����Amk8426����ɑ΂��Ă̓T�v���C�Y�����ʓI�ɓ������݂����ŁA����������ł��B�ŏ��A�^�c�ψ�����ɂ����I�`�����킸�Ɂu���[���ᔽ�v�ɂȂ肩���Ȃ�����撣�����b�オ����܂����i��΁j�B���ꂼ�֐��l�̌|�l���ł��i��j�I<br>
+　おぉ、mk8426さんに対してはサプライズが効果的に働いたみたいで、嬉しい限りです。最初、運営委員さんにさえオチを言わずに「ルール違反」になりかけながらも頑張った甲斐がありました（苦笑）。これぞ関西人の芸人魂です（違）！<br>
 <br>
-<font color="#cc88ff">&gt; ������ɂ��Ă��A��삪���������Ƃ������ƂŁA���̌��t���B<br>
-&gt; ���������A��������ꂳ�܂ł����B���������҂��Ă��܂���B</font><br>
+<font color="#cc88ff">&gt; いずれにしても、大作が完結したということで、この言葉を。<br>
+&gt; 鈴忌紫さん、完結お疲れさまでした。次回作も期待していますよ。</font><br>
 <br>
-�@���肪�Ƃ��������܂��B�����������҂ɉ�������悤�Ɋ撣��܂��B���Ȃ݂ɁA���j�[�̘f���Ɋւ��Ắu�m���T�v���C�Y�A���񑩑S�J�v�ōs���\��ł��B�����Ƃ��A����̂��Ƃł�����A�܂��������Łu���񑩁v�𓥂݊O���\���������̂ł����c�c�B<br>
-�@���ɂ���A���ꂩ����A�ǂ�����낵�����肢�������܂��B<br>
+　ありがとうございます。次回作もご期待に応えられるように頑張ります。ちなみに、ユニーの惑星に関しては「ノンサプライズ、お約束全開」で行く予定です。もっとも、鈴忌のことですから、また何処かで「お約束」を踏み外す可能性も高いのですが……。<br>
+　何にせよ、これからも、どうぞよろしくお願いいたします。<br>
 <br>
-���Ō�Ɏ��T�C�g�̐�`������<br>
-�@�g�����X�v�f���������Ƃ�A���ʂ��������ƁA���̑�������ŕ��ɂւ͓��e�\�肪�����̂ł����A����͌��ݎ��T�C�g�Łu�߈� �|�S�l�ڂ̂��Ȃ��|�v�Ƃ������҂�A�ڒ��ł��B�g�����X�v�f�������Ƃ͂����A�ꉞ�g�����X���Ȃ̂ŁA������낵�������炲���ɂȂ��Ē�����Ɗ������ł��B���݁A�S�ܘb���̑�O�b�܂Ōf�ڂ���Ă��܂��B<br>
+▼最後に自サイトの宣伝を少し<br>
+　トランス要素が薄いことや、分量が多いこと、その他諸事情で文庫へは投稿予定が無いのですが、鈴忌は現在自サイトで「憑依 −百人目のあなた−」という長編を連載中です。トランス要素が薄いとはいえ、一応トランス物なので、もしよろしかったらご覧になって頂けると嬉しいです。現在、全五話中の第三話まで掲載されています。<br>
 <br>
-�@���ɓI�ȃW�������\�L������ƈȉ��̂悤�ɂȂ�܂��B<br>
-�y�W�������z���� �w�� �z���[�H<br>
-�y��ʁz�l�i�]�� �߈� ���_����<br>
-�y�L�[���[�h�z�I������ �슴���� ���m�x��<br>
-�@�T�̕��݂ł����A�u�G�N�X�E�}�L�i�v�������グ�����Ƃŏ��������i�������i�͂��́j��������Ē�����Ɗ������ł��B�ˑR�̐�`�Ő\���󂠂�܂���ł����B�ł́A���炢�����܂��B</font>
+　文庫的なジャンル表記をすると以下のようになります。<br>
+【ジャンル】現代 学園 ホラー？<br>
+【種別】人格転移 憑依 精神同居<br>
+【キーワード】オレっ娘 霊感少女 ラノベ風<br>
+　亀の歩みですが、「エクス・マキナ」を書き上げたことで少しだけ進歩した（はずの）鈴忌を見て頂けると嬉しいです。突然の宣伝で申し訳ありませんでした。では、失礼いたします。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
@@ -251,36 +251,36 @@ HN���������܂����̂ŁA���݂́��̃^�C�g���ɂ��閼�O�ł��B�����[�A�����G���Ȃǂō\
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[118]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��Q</font>
+<font size=2>[118]</font> <font size=4 color=#40c0c0> 感想ありがとうございます２</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/10 (��) 21:43:48 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602105214348&log=suzuki_murasaki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602105214348"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/10 (金) 21:43:48 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602105214348_log_suzuki_murasaki.cgi">返信</a>　削除<input type=checkbox name="target" value="200602105214348"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���d�g�d���l<br>
-�@�����A����ς艚�܂��Ă��܂��܂����ł��傤���c�c�B�T�v���C�Y�͊撣�����̂ł����͕s���ł����B���x�A�T�v���C�Y�n���l���鎞�͂����Ɠw�͂��܂��B���ꂩ����A�ǂ�����낵�����肢�������܂��B<br>
-�@���Ȃ݂ɁA�m�����b�̎��ɓd�g�d�����񂩂�u���̘b�͊��ƕ��R�ł����B���܂�d�v�ȉ񂶂�Ȃ��̂��ȁH�v�Ƃ��������̊��z�𒸂����̂ł����A����͂��̎��ɖڂ���؂�������悤�ȋC�����܂����B�Ƃ����̂��A���ۏd�v���̔����񂾂����̂ł����u��҂��猩��Ώd�v������������A�ǎ҂̕��͓������Ԃ�����Ă����ɂȂ��Ă���񂾁I�v�ƖҔ��Ȃ�����ꂽ����ł��B�Ȃ̂ŁA���̌�ɑg�ރv���b�g�ł́A�S�Ă̘b�ŏ�ɎR�ꂪ���݂���悤�ɐS�����ēǎҗl��ދ������Ȃ��悤�ɂ��Ȃ��Ƃ����Ȃ��ƍl���邱�Ƃ��ł���悤�ɂȂ�܂����B�m���Ɉ�������ł����Ǝv���܂��B<br>
-�@���Ȃ݂ɁA���̔��Ȃ͌��ݎ��T�C�g�ŘA�ڒ��́u�߈� -�S�l�ڂ̂��Ȃ�-�v�̃v���b�g����ɐ������Ă���܂��B�܂��A���n�䂦���S�ɏ�ɎR��Ƃ����̂͂ł��Ă��܂��񂪁A���Ȃ��Ă��u�G�N�X�W�b�v�݂����ȁu��҂̓s���ŏ��񎦖ړI�ɏ����ꂽ�b�v�Ƃ����̂͑��݂��Ȃ�����ł��B<br>
-�@�g�����X�v�f�͔����ł����A�ꉞ�g�����X�������Ȃ̂ŁA������낵�������炲���ɂȂ��Ē�����ƍK���ł��B�S�T�b�{�v�����[�O���G�s���[�O�ŁA���ݑ�R�b�܂Ōf�ڍς݂ł��B�x���Ă��񌎒��ɂ͊�������Ǝv���܂��̂ŁA���ɂ�����܂����琥���낵�����肢�������܂��B<br>
-�@�Ȃ��A���ɂł̎����\��́u���j�[�̘f���v����낵�����肢�������܂��B<br>
+<font size=3 color=#606060>▼電波妖精様<br>
+　あぅ、やっぱり凹ませてしまいましたでしょうか……。サプライズは頑張ったのですが力不足でした。今度、サプライズ系を考える時はもっと努力します。これからも、どうぞよろしくお願いいたします。<br>
+　ちなみに、確か八話の時に電波妖精さんから「この話は割と平坦でした。あまり重要な回じゃないのかな？」という感じの感想を頂いたのですが、鈴忌はあの時に目から鱗が落ちるような気がしました。というのも、実際重要性の薄い回だったのですが「作者から見れば重要性が薄い回も、読者の方は同じ時間を消費してご覧になっているんだ！」と猛反省させられたからです。なので、あの後に組むプロットでは、全ての話で常に山場が存在するように心がけて読者様を退屈させないようにしないといけないと考えることができるようになりました。確実に一歩成長できたと思います。<br>
+　ちなみに、その反省は現在自サイトで連載中の「憑依 -百人目のあなた-」のプロット制作に生かしております。まだ、未熟ゆえ完全に常に山場というのはできていませんが、少なくても「エクス８話」みたいな「作者の都合で情報提示目的に書かれた話」というのは存在しないつもりです。<br>
+　トランス要素は薄いですが、一応トランス物風味なので、もしよろしかったらご覧になって頂けると幸いです。全５話＋プロローグ＆エピローグで、現在第３話まで掲載済みです。遅くても二月中には完了すると思いますので、お暇がありましたら是非よろしくお願いいたします。<br>
+　なお、文庫での次回作予定の「ユニーの惑星」もよろしくお願いいたします。<br>
 <br>
-�����������l<br>
-�@���肪�Ƃ��������܂��B�݂Ȃ���Ɏx���Ē������������ŁA�悤�₭�����������܂����B���������܂ŁA�����������҂̊����Ƃ����̂��������Ă����C�����܂��B���X����܂����͏C�s�����āA�����Ƃ����Ɨǂ���i���o����悤�ɐs�͂������܂��B<br>
-�@���T�C�g���J�݂������Ɍf���ɏ������݂𒸂�����A���݃����N�𒣂点�Ē�������ƁAWeb��Ƃ̌�y�Ƃ��Đ�y�̂�����������Ɍ�����Ē����Ă���̂͂ƂĂ���݂ɂȂ�܂����B�ǂ����A���ꂩ���������Ă��ĉ������B��낵�����肢�������܂��B<br>
+▼こうけい様<br>
+　ありがとうございます。みなさんに支えて頂けたおかげで、ようやく完成いたしました。おかげさまで、少しだけ長編の勘所というのが分かってきた気がします。日々たゆまず文章修行をして、もっともっと良い作品を出せるように尽力いたします。<br>
+　自サイトを開設した時に掲示板に書き込みを頂いたり、相互リンクを張らせて頂けたりと、Web作家の後輩として先輩のこうけいさんに見守って頂けているのはとても励みになりました。どうか、これからも見守っていて下さい。よろしくお願いいたします。<br>
 <br>
-�@�Ȃ��A������̌��ł��������́uYES�v�ł��B�����Ɠǂ݂ō�������΍����͂��Ȃ����낤�Ǝv�����̂ŁA�����Ĕ�点�܂����B<br>
-�@��点�����R�ł����A�F�󁕕����́u�i���̐e�F�v�Ƃ����v�������߂āu�Ƃ��v�̎���^���܂����B�H�������v�́A�F��̑�����Ƃ��̃��C�o���Ƃ������Ƃŏ���������ۂ��_�u�点�����Łu�����v���点���킯�ł��B���Ȃ݂ɁA�H�������v�Ɋւ��Ắu�H�i�����j�����i�����j�v�����łȂ��u�����i���E���j�����i�����j�v�œ�d�Ɍq�����Ă����肵�܂��B<br>
-�@�܂��A��{�I�ɂ͗���̂��V�с����Ȗ����Ȃ�ł����ǂˁi��΁j�B�����ɂȂ��Ă��鎞�ɁA�ςɋC�ɂȂ��Ă��܂��܂����ł��傤���H<br>
+　なお、ご質問の件ですが答えは「YES」です。漢字と読みで差があれば混乱はしないだろうと思ったので、敢えて被らせました。<br>
+　被らせた理由ですが、友希＆朋香は「永遠の親友」という思いを込めて「とも」の字を与えました。秋明＆昭夫は、友希の相手役とそのライバルということで少しだけ印象をダブらせるつもりで「あき」を被らせたわけです。ちなみに、秋明＆昭夫に関しては「秋（あき）＝昭（あき）」だけでなく「明き（あ・き）＆昭（あき）」で二重に繋がっていたりします。<br>
+　まぁ、基本的には鈴忌のお遊び＆自己満足なんですけどね（苦笑）。ご覧になっている時に、変に気になってしまいましたでしょうか？<br>
 <br>
-�@�]�k�ł����A���ݎ��T�C�g�Ŏ��M���́u�߈ˁv�̎�����L�����̈�l�Ɂu���鎵�C�v�Ƃ�������������̂ł����A�����ł��u�F�󁁌���v�Ŕ�点�Ă������肵�܂��B</font>
+　余談ですが、現在自サイトで執筆中の「憑依」の主役級キャラの一人に「結城七海」という少女がいるのですが、ここでも「友希＝結城」で被らせてあったりします。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="suzuki_murasaki">
@@ -288,16 +288,16 @@ HN���������܂����̂ŁA���݂́��̃^�C�g���ɂ��閼�O�ł��B�����[�A�����G���Ȃǂō\
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="suzuki_murasaki">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=suzuki_murasaki">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_suzuki_murasaki.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

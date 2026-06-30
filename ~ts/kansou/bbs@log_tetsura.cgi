@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�Ă炳���i�@���z�f����</title>
+<title>てつらさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�Ă炳���i�@���z�f����</font>
+<font size=5>てつらさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="tetsura">
 <input type=hidden name="nj" value="ZO7KwLhQ32">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h DYeXbA  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="DYeXbA"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード DYeXbA  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="DYeXbA"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,80 +44,80 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> Re:�w�A���x�ǂ݂܂����B</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> Re:『帰郷』読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/10 (��) 22:14:04 <strong>��</strong> �Ă� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607101221404&log=tetsura">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607101221404"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/10 (月) 22:14:04 <strong>▽</strong> てつら </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607101221404_log_tetsura.cgi">返信</a>　削除<input type=checkbox name="target" value="200607101221404"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �Vࣂ���<br>
-<font color="#cc88ff">&gt; �`�������A�W�X�Ƃ������P���Ƃ������Ȃ񂩈�a������������ł���<br>
-&gt; �ǂݐi�߂čs���ƁA�������o�Ă���Ƃ��납��r�[�ɗǂ��Ȃ����C�����܂��B<br>
-&gt; �䎌�����鎖�Ń��Y�����ǂ��Ȃ����̂ł��傤���c�c�B</font><br>
+<font size=3 color=#606060>▼ 天爛さん<br>
+<font color="#cc88ff">&gt; 冒頭部分、淡々というか単調というかなんか違和感があったんですが<br>
+&gt; 読み進めて行くと、少女が出てくるところから途端に良くなった気がします。<br>
+&gt; 台詞が入る事でリズムが良くなったのでしょうか……。</font><br>
 <br>
-�����͎����ł���a��������A���񂩏����������̂ł����A�ǂ����܂����̂������̂�����Ȃ悤�ł��B<br>
-��l���̎₵������߂݂����Ȃ��̂�\���ł���΂���������Ƃ悭�Ȃ����̂ł͂Ȃ����Ǝv���܂��B<br>
+ここは自分でも違和感があり、何回か書き直したのですが、どうもまだものを書くのが下手なようです。<br>
+主人公の寂しさや諦めみたいなものを表現できればもうちょっとよくなったのではないかと思います。<br>
 <br>
-<font color="#cc88ff">&gt; �㔼�̏����̌��t�̂Ƃ���i�w�c�c�N�͉��҂��H�x�̂��Ɓj�A<br>
-&gt; �S�O�ɂ��Ԃ�\���w�c�x�ƃm�C�Y�I�ȈӖ��́w�c�x�����X��₱�����̂�<br>
-&gt; �m�C�Y�̕��������ʂ̕\���ɂ��������悩�������ȂƎv���܂��B</font><br>
+<font color="#cc88ff">&gt; 後半の少女の言葉のところ（『……君は何者だ？』のあと）、<br>
+&gt; 躊躇による間を表す『…』とノイズ的な意味の『…』が少々ややこしいので<br>
+&gt; ノイズの方を何か別の表現にした方がよかったかなと思います。</font><br>
 <br>
-�ǂݕԂ��Ă݂�Ƃ��̂Ƃ���ŁA��l�����_�Ńm�C�Y�������Ă��邱�Ƃ�\��������Ƃ��A�[����g�ݍ��킹��Ƃ��A�H�v�����ق����悢�ł��ˁB<br>
+読み返してみるとそのとおりで、主人公視点でノイズが入っていることを表現させるとか、擬音を組み合わせるとか、工夫したほうがよいですね。<br>
 <br>
-<font color="#cc88ff">&gt; �ł�������A�ڊo�߂̎O�_���[�h�̎g���������͋C���o�Ă��ėǂ������Ǝv���܂��B<br>
-&gt; �ŁA�X�g�[���[�̕��B<br>
-&gt; �ƂĂ������Ǝv���܂��B<br>
-&gt; ���̒��̏����Ƃ̐G�ꍇ���B<br>
-&gt; ��l���̈Â��C�����Ɋ|���鏭���̗D�������t�B<br>
-&gt; ���̗��R�́c�c�H�@����͔ޏ����c�c����������</font><br>
+<font color="#cc88ff">&gt; でも夢入り、目覚めの三点リードの使い方も雰囲気が出ていて良かったと思います。<br>
+&gt; で、ストーリーの方。<br>
+&gt; とてもいいと思います。<br>
+&gt; 夢の中の少女との触れ合い。<br>
+&gt; 主人公の暗い気持ちに掛ける少女の優しい言葉。<br>
+&gt; その理由は……？　それは彼女が……だったから</font><br>
 <br>
-�����ł��悢�Ƃ��낪�����ėǂ������ł��B�������܂莩�M���Ȃ������̂ł��������Ă�������Ɩ{���Ɋ������ł��B<br>
+少しでもよいところがあって良かったです。正直あまり自信がなかったのでそう言ってくださると本当に嬉しいです。<br>
 <br>
-<font color="#cc88ff">&gt; ���`�A�Ō�ɒ�������Ă��܂��܂���<br>
-&gt; �����̍Ōォ��R�ڂ̑䎌�A�w���Ȃ��͂킽���́x�ł͂Ȃ��w�킽���͂��Ȃ��́x�ł́H</font><br>
+<font color="#cc88ff">&gt; あ〜、最後に茶を濁してしまいますが<br>
+&gt; 少女の最後から３つ目の台詞、『あなたはわたしの』ではなく『わたしはあなたの』では？</font><br>
 <br>
-���J�B�{�����c�c�B��i�𑗂�Ƃ��ɂ��~�X�������̂ł����A���e����O�ɂ����Ɗm�F����ׂ��ł����B<br>
+あ゛。本当だ……。作品を送るときにもミスをしたのですが、投稿する前にちゃんと確認するべきでした。<br>
 <br>
-<font color="#cc88ff">&gt; �ł́A�Ă炳��̎����A���҂��Ă܂��B</font><br>
+<font color="#cc88ff">&gt; では、てつらさんの次回作、期待してます。</font><br>
 <br>
-���肪�Ƃ��������܂��B���̍�Ƃ���̍�i��ǂ݁A�׋����āA���i���Ă��������Ǝv���܂��B</font>
+ありがとうございます。他の作家さんの作品を読み、勉強して、精進していきたいと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �w�A���x�ǂ݂܂����B</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 『帰郷』読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/10 (��) 11:20:17 <strong>��</strong> �V� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607101112017&log=tetsura">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607101112017"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/10 (月) 11:20:17 <strong>▽</strong> 天爛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607101112017_log_tetsura.cgi">返信</a>　削除<input type=checkbox name="target" value="200607101112017"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�`�������A�W�X�Ƃ������P���Ƃ������Ȃ񂩈�a������������ł���<br>
-�ǂݐi�߂čs���ƁA�������o�Ă���Ƃ��납��r�[�ɗǂ��Ȃ����C�����܂��B<br>
-�䎌�����鎖�Ń��Y�����ǂ��Ȃ����̂ł��傤���c�c�B<br>
+<font size=3 color=#606060>冒頭部分、淡々というか単調というかなんか違和感があったんですが<br>
+読み進めて行くと、少女が出てくるところから途端に良くなった気がします。<br>
+台詞が入る事でリズムが良くなったのでしょうか……。<br>
 <br>
-�㔼�̏����̌��t�̂Ƃ���i�w�c�c�N�͉��҂��H�x�̂��Ɓj�A<br>
-�S�O�ɂ��Ԃ�\���w�c�x�ƃm�C�Y�I�ȈӖ��́w�c�x�����X��₱�����̂�<br>
-�m�C�Y�̕��������ʂ̕\���ɂ��������悩�������ȂƎv���܂��B<br>
+後半の少女の言葉のところ（『……君は何者だ？』のあと）、<br>
+躊躇による間を表す『…』とノイズ的な意味の『…』が少々ややこしいので<br>
+ノイズの方を何か別の表現にした方がよかったかなと思います。<br>
 <br>
-�ł�������A�ڊo�߂̎O�_���[�h�̎g���������͋C���o�Ă��ėǂ������Ǝv���܂��B<br>
-<br>
-<br>
-�ŁA�X�g�[���[�̕��B<br>
-�ƂĂ������Ǝv���܂��B<br>
-���̒��̏����Ƃ̐G�ꍇ���B<br>
-��l���̈Â��C�����Ɋ|���鏭���̗D�������t�B<br>
-���̗��R�́c�c�H�@����͔ޏ����c�c����������<br>
+でも夢入り、目覚めの三点リードの使い方も雰囲気が出ていて良かったと思います。<br>
 <br>
 <br>
-���`�A�Ō�ɒ�������Ă��܂��܂���<br>
-�����̍Ōォ��R�ڂ̑䎌�A�w���Ȃ��͂킽���́x�ł͂Ȃ��w�킽���͂��Ȃ��́x�ł́H<br>
+で、ストーリーの方。<br>
+とてもいいと思います。<br>
+夢の中の少女との触れ合い。<br>
+主人公の暗い気持ちに掛ける少女の優しい言葉。<br>
+その理由は……？　それは彼女が……だったから<br>
 <br>
 <br>
-�ł́A�Ă炳��̎����A���҂��Ă܂��B<br>
+あ〜、最後に茶を濁してしまいますが<br>
+少女の最後から３つ目の台詞、『あなたはわたしの』ではなく『わたしはあなたの』では？<br>
+<br>
+<br>
+では、てつらさんの次回作、期待してます。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -125,30 +125,30 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w�A���x������ɂ͉��̃����N���N���b�N</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『帰郷』を見るには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/08 (�y) 15:11:17 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607086151117&log=tetsura">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607086151117"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/08 (土) 15:11:17 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607086151117_log_tetsura.cgi">返信</a>　削除<input type=checkbox name="target" value="200607086151117"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �q�v���Ɛe�F�s�́A�\����́B<br>
+<font size=3 color=#606060>【推薦文】 子思いと親孝行は、表裏一体。<br>
 <a href=http://ts.novels.jp/novel/200607/08145632/home.htm target=_top>http://ts.novels.jp/novel/200607/08145632/home.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="tetsura">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=tetsura">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_tetsura.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,21 +52,21 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�~����T���[�G���W�F���@nineth story�@cold! iceberg district
+救世主サリーエンジェル　nineth story　cold! iceberg district
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁFNATO����</center><tr>
+<center>作者：NATOさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-���O��܂ł̂��炷����<br>�z�b�g�R�b�h���ɂ������������́A���X�Ƀo�X�i�[�E�o���[�i�E�m�b�g�E���O�Ƃ̐퓬�ƂȂ����B<br>���Ԋ���̂������Ŕ�r�I�y�ɓ|�������̂́A������|���ɂ͕͗s����������B<br>���i�̔��ĂŃU�R��|���A�o����ςޒ��������B�����A���x���A�b�v�ɂ́h�����h������Ȃ��B<br>���߂���̂͐l�������c�c�悪�����Ȃ����A�������������͎��̒��ւƌ��������B<br>����A�s����������Ȃ������S�[�K�������A�T�C�n�e���Ŗڌ����ꂽ���Ƃ��o�X�^�[���͒m��B<br>�{�������������Ƃ��ɂ͎p�͂Ȃ��A�o�X�^�[���͑{����ł��؂邱�ƂɁB<br>�T���[�G���W�F���΍��{�i�I�ɂ���ׂ��A���C�`�����Ɏw������B<br>���̂��돭�����ꂽ���ɓ˔@�A���N�Ə��������ꂽ�B���̐��E�̐l�Ԃł͂Ȃ��悤�����c�c<br>�s�v�c�Ȑ��ɓ������悤�ɁA��l�̓T�C�n�e���ւƌ��������Ƃ̉\�c�c<br><br>----------------------------------------<br><br>�~����T���[�G���W�F�� <br><br>nineth story�@cold! iceberg district <br><br>��FNATO<br><br>----------------------------------------<br><br>�y���́z�����o�R��<br>�L���u�����ɂ��c�c�Ċ������ˁv<br>���u�q�o�f�̊�{�c�c�Ă����̂��������ɖO�������v<br>�ޏ��u���傤���Ȃ��ł���B�����č������ɂ��邶��Ȃ��v<br>�����������A�����Ȃ�������ė����~�܂��Ęb�����Ă���B����́A�ڂ̑O�ɂ��铴�A�̂����B<br>�I�ՂƂ��Ȃ�ƌ��܂��Ă��̐�͕X�R�n���Ȃ̂��B<br>�����u�d���Ȃ��B�����i��Œ��֒��������Ȃ�����v<br>���i�u���������B�����͂������̓s���Ȃ�čl���Ă���Ȃ���H�v<br>�L���u����ˁv<br>�d�������Œ��������͓��A�ւƐi�񂾁B����Ɠ��A���͎v�����ʂ�A�X�������Ă����B<br>�V��ɂ͏��X�Ƀc�������o���Ă���B���܂�傫���͂Ȃ����A�����Ă������ȗl�q�B<br>�ޏ��u���ꂢ�`�B����Ŋ�����������Ό������ƂȂ��Ȃ̂Ɂc�c�v<br>���u���A�𔲂���������Ɗ������낤�ȁv<br>�ޏ��u����͌���Ȃ��Łc�c�v<br>���΂炭����Ɠ��A�𔲂����B������ɂ͐^�����̋␢�E���L�����Ă���B<br>�ޏ��u��I�@�^��������I�I�v<br>�L���u����Ȃɂ�������ς���Ȃ�āc�c�ፑ�Ȃ�ł͂��ˁv<br>���u�����I�@�����Ȃ��Ɠ������ɂ��������v<br>�L���u�h����A���������ȁH�v<br>�ו�����ꂽ�܂�`���L���B���ɕK�v�Ȃ��͈̂�ʂ葵���Ă���͂����B<br>�L���u��܂ƖX�q�A�}�t���[�Ȃ炠�邯�ǁc�c�R�[�g�͂Ȃ���v<br>���u�����A�����B����Ȃ������̂��H�v<br>�����u�������邩�甃��Ȃ������B�܂�����Ȃɓ���Ȃ�����ˁv<br>���u�܂�����c�c�v<br>�ޏ��u�ׂ��׌���Ȃ��B�Ȃ����̓}�V��v<br>�����A���������͖h�����g�ɕt�����B<br>�L���u����B���������͊����Ȃ���v<br>���u���Ă݂���񂾂ȁv<br>�ޏ��u�������I�@���i�����p�Ɂc�c�v<br>�ޏ��͑܂̒�����͂��݂ƕz�A���A�j�����o�����B<br>�L���u������čٖD����H�v<br>�ޏ��u������v<br>���u�Ȃ�ł���Ȃ��̂𔃂����H�v<br>�ޏ��u�}�p�ŕ����K�v�ɂȂ邩�ȁ`���āv<br>���u����Ȃ�n�߂���o���Ă�̂𔃂���v<br>�ޏ��u�����������Ȃ��ł���B�������邵�v<br>�ޏ��͎�ۂ悭�z�������ȕ��֎d�グ���B<br>�ޏ��u�͂��A�o�����B���i�����̃R�[�g����v<br>���i�u�킟�I�@�����́H�v<br>�ޏ��u�����́B�����Ă��̊i�D���ኦ���ł���H�v<br>���i�u���肪�Ƃ��v<br>���i�͓ޏ��̎���R�[�g�𒅂��B<br>���i�u�g�����c�c�v<br>�ޏ��u�悩�����v<br>�L���u�������A���i�������񂾂�ˁv<br>���u���߂�ȁB���A�C�����Ȃ��āv<br>���i�u�����̂�A����B�C�ɂ��Ȃ��Łv<br>�����������Ǝl�l�͐ᓹ������o�����B<br><br>To be continued...<br><br>----------------------------------------<br><br>�����Ƃ�� <br><br>���̕���̓t�B�N�V�����ł��B����ɏo�Ă���l���A�c�̂͑S�ĉˋ�̕��ł��B���ۂ̕��Ƃ͑S���֌W����܂���B<br><br>----------------------------------------<br>
+＝前回までのあらすじ＝<br>ホットコッド町についた直樹たちは、早々にバスナー・バリーナ・ノットウングとの戦闘となった。<br>仲間割れのおかけで比較的楽に倒せたものの、魔王を倒すには力不足を感じる。<br>ルナの発案でザコを倒し、経験を積む直樹たち。だが、レベルアップには”何か”が足りない。<br>求めるものは人か物か……先が見えない中、直樹たちたちは次の町へと向かった。<br>一方、行方が分からなかったゴーガレムが、サイハテ村で目撃されたことをバスターンは知る。<br>捜索隊が着いたときには姿はなく、バスターンは捜索を打ち切ることに。<br>サリーエンジェル対策を本格的にするべく、レイチャルに指示する。<br>そのころ少し離れた村に突如、少年と少女が現れた。この世界の人間ではないようだが……<br>不思議な声に導かれるように、二人はサイハテ村へと向かったとの噂……<br><br>----------------------------------------<br><br>救世主サリーエンジェル <br><br>nineth story　cold! iceberg district <br><br>作：NATO<br><br>----------------------------------------<br><br>【序章】寒い登山道<br>広樹「いかにも……て感じだね」<br>大介「ＲＰＧの基本……ていうのもさすがに飽きたぜ」<br>奈緒「しょうがないでしょ。だって今そこにいるじゃない」<br>直樹たちが、うかない顔をして立ち止まって話をしている。それは、目の前にある洞窟のせい。<br>終盤ともなると決まってこの先は氷山地方なのだ。<br>直樹「仕方ない。早く進んで町へ着くしかないだろ」<br>ルナ「そうそう。魔王はこっちの都合なんて考えてくれないよ？」<br>広樹「だよね」<br>重い足取りで直樹たちは洞窟へと進んだ。すると洞窟内は思った通り、氷が張っていた。<br>天井には所々にツララが出来ている。あまり大きくはないが、落ちてきそうな様子。<br>奈緒「きれい〜。これで寒さが無ければ言うことないなのに……」<br>大介「洞窟を抜けたらもっと寒いだろうな」<br>奈緒「それは言わないで……」<br>しばらくすると洞窟を抜けた。あたりには真っ白の銀世界が広がっている。<br>奈緒「わ！　真っ白だよ！！」<br>広樹「こんなにたくさん積もるなんて……雪国ならではだね」<br>大介「寒っ！　動かないと凍え死にそうだぜ」<br>広樹「防寒具、あったかな？」<br>荷物を入れた袋を覗く広樹。旅に必要なものは一通り揃っているはずだ。<br>広樹「手袋と帽子、マフラーならあるけど……コートはないや」<br>大介「おい、おい。買わなかったのか？」<br>直樹「かさ張るから買わなかった。袋もそんなに入らないからね」<br>大介「まじかよ……」<br>奈緒「つべこべ言わない。ないよりはマシよ」<br>早速、直樹たちは防寒具を身に付けた。<br>広樹「うん。さっきよりは寒くないや」<br>大介「着てみるもんだな」<br>奈緒「そうだ！　ルナちゃん用に……」<br>奈緒は袋の中からはさみと布、糸、針を取り出した。<br>広樹「それって裁縫道具？」<br>奈緒「そうよ」<br>大介「なんでそんなものを買った？」<br>奈緒「急用で服が必要になるかな〜って」<br>大介「それなら始めから出来てるのを買えよ」<br>奈緒「そうもいかないでしょ。かさ張るし」<br>奈緒は手際よく布を小さな服へ仕上げた。<br>奈緒「はい、出来た。ルナちゃんのコートだよ」<br>ルナ「わぁ！　いいの？」<br>奈緒「いいの。だってその格好じゃ寒いでしょ？」<br>ルナ「ありがとう」<br>ルナは奈緒の手作りコートを着た。<br>ルナ「暖かい……」<br>奈緒「よかった」<br>広樹「そっか、ルナも寒いんだよね」<br>大介「ごめんな。俺、気遣いなくて」<br>ルナ「いいのよ、大介さん。気にしないで」<br>準備が整うと四人は雪道を歩き出した。<br><br>To be continued...<br><br>----------------------------------------<br><br>おことわり <br><br>この物語はフィクションです。物語に出てくる人物、団体は全て架空の物です。実際の物とは全く関係ありません。<br><br>----------------------------------------<br>
 </font>
 </td>
 </tr>
@@ -74,31 +74,31 @@ A{TEXT-DECORATION:NONE};
 <HR color=#E6FFE6><address>
 NATO
 </address>
-2010�N05��01��(�y) 08��43��42�b ���J<br>
+2010年05月01日(土) 08時43分42秒 公開<br>
 <!--118.108.241.78-->
-<font color=red>�����̍�i�̒��쌠��NATO����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はNATOさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-���������ł����A�ЂƂ܂����A�j���H�Ƃ��āB<br>�قڕM���~�܂��Ă��܂��B<br>���せ�L�����I�̓񎟑n����ӂƎv��������E�E�E
+書きかけですが、ひとまず復帰祝い？として。<br>ほぼ筆が止まっています。<br>しゅ○キャラ！の二次創作をふと思いついたり・・・
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�����A���肪�Ƃ��������܂��B<BR><BR></td>
+<td style=font-size:10pt>応援、ありがとうございます。<BR><BR></td>
 <td>NATO</td>
-<td width=20%>��2010-05-04 18:56:32</td>
+<td width=20%>■2010-05-04 18:56:32</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�j�A�����I�@�����҂��Ă܂��B</td>
-<td>�o���b�g</td>
-<td width=20%>��2010-05-03 01:17:09</td>
+<td style=font-size:10pt>祝、復活！　続き待ってます。</td>
+<td>バレット</td>
+<td width=20%>■2010-05-03 01:17:09</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -106,24 +106,24 @@ NATO
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20100501084342">
 <input type=hidden name="num_r" value="20100501084342">
 <input type=hidden name="url" value="">
@@ -139,17 +139,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20100501084342">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -159,9 +159,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

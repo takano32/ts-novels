@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>��i�Љ�f����</title>
+<title>作品紹介掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��i�Љ�f����</font>
+<font size=5>作品紹介掲示板</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>����A�V��Ɋւ�炸�A�����߂̍�i���������炱���ɏЉ�������Ă��������B<br>�Ȃ��A������������̂��߂ɁA��i�ւ̃����N������Ă����Ă��������B </font>
+<font color=#608080>旧作、新作に関わらず、お勧めの作品があったらここに紹介文を書いてください。<br>なお、ここを見る方のために、作品へのリンクも入れてあげてください。 </font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi" name="F1">
@@ -15,20 +15,20 @@
 <input type=hidden name="log" value="data1">
 <input type=hidden name="nj" value="81Qp6UAkIg">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h Wpu8KC  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="Wpu8KC"> <input type=hidden name="hrcode2" size=10 value="&#12354;"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード Wpu8KC  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="Wpu8KC"> <input type=hidden name="hrcode2" size=10 value="&#12354;"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �L�����e�̍ۂ́A���p�p��6�����̓��̓R�[�h���E���̃{�b�N�X�ɂ��̂܂ܓ��͂��ĉ�����.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 記事投稿の際は、半角英数6文字の入力コードを右側のボックスにそのまま入力して下さい.</font>
 </td></table><br>
 </div><Script language=JavaScript>
 <!--
@@ -38,7 +38,7 @@ link<input type=checkbox name="link" value="1" checked>
 <p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -51,19 +51,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[249]</font> <font size=4 color=#40c0c0> �����̍D���ȍ�i</font>
+<font size=2>[249]</font> <font size=4 color=#40c0c0> 自分の好きな作品</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/28 (��) 06:10:40 <strong>��</strong> �����Ђ�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607285061040&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607285061040"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/28 (金) 06:10:40 <strong>▽</strong> 高樹ひろむ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607285061040_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200607285061040"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����I�ɂ͂�����ꉟ���������B<br>
-�u�|�S�̂��[�ρ[�Ђ낢��c�c�H�H�v�i��������[����j<br>
+<font size=3 color=#606060>自分的にはこれを一押ししたい。<br>
+「鋼鉄のすーぱーひろいん……？？」（よっすぃーさん）<br>
 <a href=http://ts.novels.jp/novel/200308/07074715/steel_heroine.html target=_top>http://ts.novels.jp/novel/200308/07074715/steel_heroine.html</a><br>
-�y���ȃe���|�Ői��ł������̃m������D���ł��B<br>
-�����A�u�o�g���������v�Ƃ������t���������Ɏc���āA�ēx�ǂ����Ǝv������<br>
-�^�C�g�������Җ����Y��Ă��܂��ĒT���̂ɋ�J�����o��������܂��B<br>
+軽快なテンポで進んでいくこのノリが大好きです。<br>
+ただ、「バトルしおりん」という言葉だけが頭に残って、再度読もうと思った時<br>
+タイトルも著者名も忘れてしまって探すのに苦労した覚えがあります。<br>
 </font>
 <p><div align=left><a href="http://blunderer.web.fc2.com/" target="_top">http://blunderer.web.fc2.com/</a></div>
 </td></table>
@@ -72,44 +72,44 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[60]</font> <font size=4 color=#40c0c0> �폜���܂���</font>
+<font size=2>[60]</font> <font size=4 color=#40c0c0> 削除しました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/11/03 (��) 17:23:38 <strong>��</strong> starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200511034172338&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200511034172338"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/11/03 (木) 17:23:38 <strong>▽</strong> starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200511034172338_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200511034172338"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>59���폜���܂����B</font>
+<font size=3 color=#606060>59を削除しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[57]</font> <font size=4 color=#40c0c0> �����P���W���\�\�B</font>
+<font size=2>[57]</font> <font size=4 color=#40c0c0> リルケ詩集より——。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/04 (��) 22:26:17 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200508044222617&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508044222617"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/04 (木) 22:26:17 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200508044222617_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200508044222617"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�w���Ȃ��͖����ł��@�i���̕���̂�����<br>
-�̑�ȏ����ł�<br>
-���Ȃ��͎��̖邪������Ƃ��̌{��<br>
-���Ȃ��͘I�@���̖�P�@�����ď����i���Ƃ߁j�x<br>
+<font size=3 color=#606060>『あなたは未来です　永遠の平野のうえの<br>
+偉大な曙光です<br>
+あなたは時の夜が明けるときの鶏鳴<br>
+あなたは露　朝の弥撤　そして少女（おとめ）』<br>
 <br>
-�Ō�̍s�͌��{�폜�i�΁j<br>
-��s����<br>
+最後の行は検閲削除（笑）<br>
+空行飛んで<br>
 <br>
-�w���Ȃ��͕ϐg����p�ł��x<br>
+『あなたは変身する姿です』<br>
 <br>
-�]���ϊ��Ƃ������A�s���̂������߂��ł���Ƃ��낪���̂悢�Ƃ����<br>
-�i�����P���W�@�V�����Ɂ@�x�m��p�Y�@��j<br>
+脳内変換というか、都合のいい解釈ができるところが詩のよいところ♪<br>
+（リルケ詩集　新潮文庫　富士川英郎　訳）<br>
 <br>
-����Ȃ���ȂŁA��[�ӂ��������Irregular Girl���Љ�B<br>
+そんなこんなで、るーふぁすさんのIrregular Girlを紹介。<br>
 <a href=http://ts.novels.jp/novel/200104/23004330/title.html target=_top>http://ts.novels.jp/novel/200104/23004330/title.html</a><br>
-���낻��A�O�U��Ƃ������l�^�̏o�����������ɂȂ��Ă����C�����܂�����ǁA��͂�ϐg���̂͂������̂��A�Ǝv�킹�Ă���邻��ȍ�i�B<br>
-��{�I�ɂ͌����d���ł��ˁB<br>
+そろそろ、前振りというかネタの出し方が強引になってきた気がしますけれど、やはり変身ものはいいものだ、と思わせてくれるそんな作品。<br>
+基本的には現実重視ですね。<br>
 <br>
 </font>
 </td></table>
@@ -118,83 +118,83 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[56]</font> <font size=4 color=#40c0c0> �ӂƂӂ�</font>
+<font size=2>[56]</font> <font size=4 color=#40c0c0> ふとふと</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/29 (��) 23:01:31 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200507295230131&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507295230131"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/29 (金) 23:01:31 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200507295230131_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200507295230131"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�e���v���������ق����Љ�₷�����ȂƎv��Ȃ��ł��Ȃ�����ǁA<br>
-�e���v�����������炠�����ŋt�ɏЉ����Ȃ肻�����ȁB<br>
-�Ƃ�����A�{�N�̓{�N�Ȃ�ɍv�������B(�L�[�M�`�j�O�헪���ʂ͑��̐l���l���ė~�����B���e���߂邮�炢�����\���Ȃ��ĂˁB<br>
+<font size=3 color=#606060>テンプレあったほうが紹介しやすいかなと思わないでもないけれど、<br>
+テンプレがあったらあったで逆に紹介が難しくなりそうかな。<br>
+ともあれ、ボクはボクなりに貢献するよ。(´ー｀Ａ）＾戦略方面は他の人が考えて欲しい。実弾こめるぐらいしか能がなくてね。<br>
 <br>
-�Ƃ����킯�ŁA�n���낳��́w��Ζ��G!?���E���������x���Љ�悤�B<br>
+というわけで、地駆鴉さんの『絶対無敵!?世界征服私隊』を紹介しよう。<br>
 <a href=http://ts.novels.jp/novel/200109/19041522/conquest.htm target=_top>http://ts.novels.jp/novel/200109/19041522/conquest.htm</a><br>
-�Z�����ɂ܂��Ă���΂��̃c�{�B<br>
-���̒�����n������l���ȁB<br>
-���Ȃ݂Ɉ�O�̐��オ������W���[�W���b�h������͂��߂Ƃ����s�r�l�o���i�΁j�ł���A����̏d���ƃ��C�g�m�x�����ŗh�ꂽ���������̎��̐���B�{�N�����̂ǂ��炩�ɕ��ނ��ꂻ���ȗ\���B</font>
+短い中につまっている笑いのツボ。<br>
+今の潮流を創った一人かな。<br>
+ちなみに一つ前の世代がいわゆるジャージレッドさんをはじめとしたＴＳ四姉妹（笑）であり、物語の重視とライトノベル化で揺れた時期がこの次の世代。ボクもこのどちらかに分類されそうな予感。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[55]</font> <font size=4 color=#40c0c0> �ӂ�</font>
+<font size=2>[55]</font> <font size=4 color=#40c0c0> ふと</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/22 (��) 13:37:43 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200507225133743&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507225133743"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/22 (金) 13:37:43 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200507225133743_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200507225133743"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ǎ���Љ��̂͂����Ƃ��āA������Z���ԂŏЉ�����܂����B<br>
-���̂����ŗǍ�C���t�����N��������������Ȃ��B<br>
-���ΓI���l�ቺ���B(�L��֥`)�O���������c�c�B</font>
+<font size=3 color=#606060>良作を紹介するのはいいとして、多くを短期間で紹介しすぎました。<br>
+そのせいで良作インフレが起こったかもしれない。<br>
+相対的価値低下だ。(´・ω・`)＾お許しを……。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[54]</font> <font size=4 color=#40c0c0> ��̂��Ă��܂����c�c</font>
+<font size=2>[54]</font> <font size=4 color=#40c0c0> 占領してしまった……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/22 (��) 02:50:42 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200507225025042&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507225025042"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/22 (金) 02:50:42 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200507225025042_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200507225025042"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��Ƃ̗͂Ƃ����̂̓X�g�[���A�L�����N�^�A�����낢��ȗv�f�̃R���v���b�N�X�ł����āA�P�����A���邢�͐��l�������邱�Ƃ͂ł��Ȃ��Ƃ͎v���̂ł�����ǁA��ƂƂ��Č��r�Ɍ��r���d�˂����Ǝv���͕̂��͗͂ł��傤�B�M�͂Ƃ������܂��ˁB<br>
-����͐S�ɐ������T�O�����܂����t�ɒu���ł���͂ƍl���Ă�낵�����Ǝv���܂��B<br>
-�{�N�͍�i�Љ�����Ă�����i�Q�͂ǂ����������͗͂Ƃ����_�ł͕��ύ�i���y���˔j���Ă�����̂΂���ł����A�����Ă����ł̓{�N�����ɂ̒��ň�ԕ��͂����܂��Ǝv���Ă���l�������܂��傤�B<br>
-����͂��΂�ĒÂ���ł��B<br>
+<font size=3 color=#606060>作家の力というのはストーリ、キャラクタ、他いろいろな要素のコンプレックスであって、単純化、あるいは数値化をすることはできないとは思うのですけれど、作家として研鑽に研鑽を重ねたいと思うのは文章力でしょう。筆力とも言われますね。<br>
+これは心に生じた概念をうまく言葉に置換できる力と考えてよろしいかと思います。<br>
+ボクは作品紹介をしてきた作品群はどれもこれも文章力という点では平均作品を軽く突破しているものばかりですが、あえてここではボクが文庫の中で一番文章がうまいと思っている人をあげましょう。<br>
+それはずばり米津さんです。<br>
 <a href=http://ts.novels.jp/novel/perky_girl/title.html target=_top>http://ts.novels.jp/novel/perky_girl/title.html</a><br>
-�����A�悩�����B�V���[�Y�^�C�g���������āB<br>
-�������ԊO�҂��{�҂𒴉߂��Ă���Ƃ́A�Ȃ��Ȃ����Ȃ���ł��B�Ƃ������A�܂��ԊO���{�҂Ƒ��F�Ȃ��������ꂽ��i�ł�����A���͂Ȃ��ł��ˁB<br>
-���͗͂��������Ă��邯��ǁA�������A�X�g�[�����L�����N�^�����͂Ȃ��A�悭�n�肱�܂�Ă��܂��B</font>
+ああ、よかった。シリーズタイトルがあって。<br>
+しかし番外編が本編を超過しているとは、なかなか味なつくりです。というか、まぁ番外も本編と遜色ない完成された作品ですから、問題はないですね。<br>
+文章力を強調しているけれど、もちろん、ストーリもキャラクタも問題はなく、よく創りこまれています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[53]</font> <font size=4 color=#40c0c0> �Ȃɂ��ɂ�����</font>
+<font size=2>[53]</font> <font size=4 color=#40c0c0> なにげにすごい</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/21 (��) 23:12:57 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200507214231257&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507214231257"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/21 (木) 23:12:57 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200507214231257_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200507214231257"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������āH<br>
-����́A�Ȃ�ł��Ȃ��悤�Ȃ��Ƃ��A�Ȃ��`���������ƁB<br>
-����͂�����Ƃł������Ă݂�΂킩�邱�Ƃ�����ǁA��������B<br>
-����T�O�ɂ��āA�n�l�ɏn�l���d�˂Ȃ��ƕs�\���Ǝv���܂��B<br>
+<font size=3 color=#606060>何がって？<br>
+それは、なんでもないようなことを、なが〜く書くこと。<br>
+これはちょっとでも試してみればわかることだけれど、相当難しい。<br>
+特定概念について、熟考に熟考を重ねないと不可能だと思います。<br>
 <br>
-�Ƃ����킯�ŁB<br>
-�^�E�T���ł�������s�r����<br>
+というわけで。<br>
+真・サルでも書けるＴＳ小説<br>
 <a href=http://ts.novels.jp/novel/200011/03192112/moemoe.html target=_top>http://ts.novels.jp/novel/200011/03192112/moemoe.html</a><br>
-���āF�ۂ̓��_���@��F�\�Y��<br>
+原案：丸の内酸性　作：十郎太<br>
 <br>
-���^�͂��Ƃ��Ɠ���W���������ƌ�����킯�ł�����ǁA���������̂��D���ł��B<br>
+メタはもともと難しいジャンルだと言えるわけですけれど、こういうのも好きです。<br>
 <br>
 </font>
 </td></table>
@@ -203,54 +203,54 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[52]</font> <font size=4 color=#40c0c0> ���낻��l�^�����Ă�������������B</font>
+<font size=2>[52]</font> <font size=4 color=#40c0c0> そろそろネタがつきてきた感じがする。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/20 (��) 22:57:09 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200507203225709&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507203225709"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/20 (水) 22:57:09 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200507203225709_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200507203225709"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ǎ�͂܂��܂��������񂠂�Ǝv������ǁA��i���Ƃɂł��邾�����ق𖾊m�����悤�Ƃ���ƁA���̕\���ɂ��̂��ƌ��E�����܂�Ă���킯�ł��B���̈Ӗ��ł̃l�^���s�����Ƃ����\���ł��B<br>
-�A���e���e�N�X�`���A���e�̃p���[���g���΁A��`�q�̃C���g�����̂��Ƃ��A�Ȃ�Ƃ��`�e���������s������`������悤�ȋC�����Ȃ��ł��Ȃ�����ǁA��͂蕶�͂̃G�N�\���Ƃ������A�킩��₷���\���œ`�������ł�����ˁB<br>
-�C���g�����̏��͂�͂�A�B����ނ��̂ł���A����ȏ�̂��̂ɂȂ�Ȃ��B��̊C�݂����Ȃ��̂ŔF���ł��Ȃ����炱���A�[����ł�����ǁA����̌��͌������ꂽ���͂��̂��̂ɉ��̂���Ă���悤�ȁA���Ȃ��悤�ȁc�c�B<br>
+<font size=3 color=#606060>良作はまだまだたくさんあると思うけれど、作品ごとにできるだけ差異を明確化しようとすると、その表現におのずと限界が生まれてくるわけです。その意味でのネタが尽きたという表現です。<br>
+アンテルテクスチュアリテのパワーを使えば、遺伝子のイントロンのごとく、なんとも形容しがたい不可識情報を伝えられるような気がしないでもないけれど、やはり文章のエクソンというか、わかりやすい表現で伝えたいですからね。<br>
+イントロンの情報はやはり、隠れ潜むものであり、それ以上のものになれない。夜の海みたいなもので認識できないからこそ、深いんですけれど、自我の光は顕現された文章そのものに化体されているような、いないような……。<br>
 <br>
-�Ƃ����������I<br>
-�����Șb��W�J�ŁA�����́w�V�g�̂��d�� �@�\�\ The Angelic Calling �\�\�x<br>
-���Љ�B<br>
+ともあれ光あれ！<br>
+強引な話題展開で、今日は『天使のお仕事 　—— The Angelic Calling ——』<br>
+を紹介。<br>
 <a href=http://ts.novels.jp/novel/200104/20050818/100title.htm target=_top>http://ts.novels.jp/novel/200104/20050818/100title.htm</a><br>
-����ώ��M�w���d���Ȃ̂��悩�����̂��B���ɂ��܂��t�����Ő��X����������悢�ł��B�����Ė{���Ƀ����[�����Ȃ̂��Ǝv���قǁA�܂Ƃ܂�̂����i�Q�ł��B<br>
-�s�r�Ƃ��Ă��A���ɂ̍앗�Ƀ}�b�`���Ă��āA���ꂼ�����Ƃ����^�C�v�B<br>
-��Ԃ̌��J�҂͂�͂�ŏI�b���������S�[���h�A�[�����񂾂낤���B<br>
-�m���A�ǂ�Ȃӂ��ɕ����i�߂Ă�����������ł��������H<br>
-�Ƃ������A���܂����M�͂ł˂������āA�s�r�I�ȑ�c�~�B<br>
-���낵���܂ł̑n���͂ł���B</font>
+やっぱ執筆陣が重厚なのがよかったのか。文庫もまだ黎明期で瑞々しさがありよいです。そして本当にリレー小説なのかと思うほど、まとまりのある作品群です。<br>
+ＴＳとしても、文庫の作風にマッチしていて、これぞ王道というタイプ。<br>
+一番の功労者はやはり最終話を書いたゴールドアームさんだろうか。<br>
+確か、どんなふうに物語を進めても完結させるでしたっけ？<br>
+ともかく、凄まじい筆力でねじ伏せて、ＴＳ的な大団円。<br>
+恐ろしいまでの創造力である。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[51]</font> <font size=4 color=#40c0c0> �Ƃ��������킢��</font>
+<font size=2>[51]</font> <font size=4 color=#40c0c0> ともかくかわいい</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/20 (��) 00:16:03 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200507203001603&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507203001603"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/20 (水) 00:16:03 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200507203001603_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200507203001603"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������ł͂Ȃ��B<br>
-�����ł͂Ȃ�����A���t�ł͌��Ȃ��B<br>
-��肦������̂ɂ͒��ق��Ȃ���΂Ȃ�Ȃ��B<br>
-����ȍ�i���K���������B<br>
-���킢���Ƃ͂ǂ����琶�܂�邩�悭�킩��Ȃ������B<br>
-���̑̐����o�B<br>
-�O����I�ŁA�{�\�̌Ăт������B<br>
-�����Ƃ��A���낢��ƕ��͓I�Ɍ��邱�Ƃ͂����炭�\�Ȃ̂�����ǂ��A����Љ���i�͂������������n�I�ȕ��͂͂��܂�L�p�ł͂Ȃ��C������B<br>
-�Ƃ������A�{�N�������������͂��D��ł��Ȃ��B<br>
-�t�B�[�����O�Ŗ��킢������i�Ȃ�ł���ˁB<br>
+<font size=3 color=#606060>もう理屈ではない。<br>
+理屈ではないから、言葉では語れない。<br>
+語りえざるものには沈黙しなければならない。<br>
+そんな作品が必ず一つや二つある。<br>
+かわいさとはどこから生まれるかよくわからない原理。<br>
+一種の体性感覚。<br>
+前言語的で、本能の呼びかけだ。<br>
+もっとも、いろいろと分析的に見ることはおそらく可能なのだけれども、今回紹介する作品はそういった理系的な分析はあまり有用ではない気がする。<br>
+というか、ボクがそういう分析を好んでいない。<br>
+フィーリングで味わいたい作品なんですよね。<br>
 <br>
-�Ƃ����킯�ŁA�L�삳��́w�������@�����@������x<br>
+というわけで、猫野さんの『いえす　あい　うぃる』<br>
 <a href=http://ts.novels.jp/novel/200107/29145945/i_will.html target=_top>http://ts.novels.jp/novel/200107/29145945/i_will.html</a><br>
-�Ƃ�������i�S�̂����킢����ł����A�����H<br>
+ともかく作品全体がかわいいんですが、何か？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -258,27 +258,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[50]</font> <font size=4 color=#40c0c0> �����V�Y���̖{���Ƃ͂����炵���ɂ���</font>
+<font size=2>[50]</font> <font size=4 color=#40c0c0> リリシズムの本質とはいじらしさにある</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/20 (��) 00:00:07 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200507203000007&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507203000007"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/20 (水) 00:00:07 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200507203000007_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200507203000007"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�G���Ƃ͂܂��Ⴄ��ł���ˁB<br>
-����A�������G���Ƃ��������N����₷���Ƃ͌����܂����A����͌������甭�����錋�ʂł����āA�����炵���͌������̂��̂ł��B<br>
-���̂����炵�����āA���ނ�A�W�F���_�[�Ȃ񂩊֌W�Ȃ��Ǝv���Ă���{�N���炷��΂��܂茾�������Ȃ����Ƃ�����ǂ��Љ�I�ȕ]���Ƃ��Ắw���̎q�炵���x�Ɋ܂܂��T�O�̂悤���B<br>
-�܂�Ƃ���A�s�r�I�M���b�v�𐶂ނɂ͂��̂����炵���͌��������Ƃ��ł��Ȃ��v�f�ł���Ǝv�������B<br>
+<font size=3 color=#606060>萌えとはまた違うんですよね。<br>
+いや、もちろん萌えという感情が惹起されやすいとは言えますが、それは原因から発生する結果であって、いじらしさは原因そのものです。<br>
+このいじらしさって、うむん、ジェンダーなんか関係ないと思っているボクからすればあまり言いたくないことだけれども社会的な評価としては『女の子らしさ』に含まれる概念のようだ。<br>
+つまるところ、ＴＳ的ギャップを生むにはこのいじらしさは見逃すことができない要素であると思いたい。<br>
 <br>
-�����V�Y���̌����B<br>
-��_������̃R���`�F���g�V���[�Y�́A�͂����Ȃ����낤�Ǝv���܂��B<br>
+リリシズムの権化。<br>
+矢治浩平さんのコンチェルトシリーズは、はずせないだろうと思います。<br>
 <a href=http://ts.novels.jp/novel/concerto/concerto_1.html target=_top>http://ts.novels.jp/novel/concerto/concerto_1.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data1">
@@ -286,16 +286,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data1">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data1">�X�V</a>] [<a href="http://ts.novels.jp">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data1.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,278 +1,278 @@
-<html><head><meta http-equiv=Content-Typecontent=text/html; charset=x-sjis>
-<title>¡ ­”N­—•¶ŒÉ Ž©—R“o˜^§ƒŠƒ“ƒN ¡</title>
+<html><head><meta http-equiv=Content-Typecontent=text/html; charset=UTF-8>
+<title>â–  å°‘å¹´å°‘å¥³æ–‡åº« è‡ªç”±ç™»éŒ²åˆ¶ãƒªãƒ³ã‚¯ â– </title>
 </head>
 <body background="" bgcolor="#ffffff" text="#000000" link="#222222" alink="#ff0000" vlink="#777777">
 <p align=center><center>
-<font color="#000000" size=5><b>¡ ­”N­—•¶ŒÉ Ž©—R“o˜^§ƒŠƒ“ƒN ¡</b></font><br>
-<font size=2>“o˜^‚ÍŽ©—R‚És‚Á‚Ä‚­‚¾‚³‚¢B</font>
+<font color="#000000" size=5><b>â–  å°‘å¹´å°‘å¥³æ–‡åº« è‡ªç”±ç™»éŒ²åˆ¶ãƒªãƒ³ã‚¯ â– </b></font><br>
+<font size=2>ç™»éŒ²ã¯è‡ªç”±ã«è¡Œã£ã¦ãã ã•ã„ã€‚</font>
 <table width=85% border=0 cellpadding=20><tr>
 <td align=center bgcolor=#FFFFFF>
 <table border=3 cellpadding=5><tr>
-<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>¡<a href=./weblink.cgi?link=new&p=1>V’…ƒTƒCƒg</a>¡
-¡<a href="http://ts.novels.jp/">­”N­—•¶ŒÉ‚É–ß‚é</a>¡ ¡<a href=./weblink.cgi?page=add>LINK“o˜^</a>¡
-¡<a href=./weblink.cgi?page=disa>•ÏX/íœ</a>¡
-¡<a href=./weblink.html>“o˜^‚ÌŒˆ‚Ü‚è</a>¡
+<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>â– <a href=./weblink.cgi?link=new&p=1>æ–°ç€ã‚µã‚¤ãƒˆ</a>â– 
+â– <a href="../../index.html">å°‘å¹´å°‘å¥³æ–‡åº«ã«æˆ»ã‚‹</a>â–  â– <a href=./weblink.cgi?page=add>LINKç™»éŒ²</a>â– 
+â– <a href=./weblink.cgi?page=disa>å¤‰æ›´/å‰Šé™¤</a>â– 
+â– <a href=./weblink.html>ç™»éŒ²ã®æ±ºã¾ã‚Š</a>â– 
 </b></font></td></tr></table></td></tr>
 <tr><td align=center bgcolor="#EEFFFF">
-<form action=./weblink.cgi?search=&p=1 method=POST><font size=2>”¼ŠpƒXƒy[ƒX‚ÅuANDvŒŸõ‚ªo—ˆ‚Ü‚·B</font><br>
+<form action=./weblink.cgi?search=&p=1 method=POST><font size=2>åŠè§’ã‚¹ãƒšãƒ¼ã‚¹ã§ã€ŒANDã€æ¤œç´¢ãŒå‡ºæ¥ã¾ã™ã€‚</font><br>
 <input type=hidden name=p value="1">
 <input type=hidden name=semode value="wl0008">
 <input type=text size=20 name=search value="">
-<input type=submit value="@•ª•ÊŒŸõ@"></form>
+<input type=submit value="ã€€åˆ†åˆ¥æ¤œç´¢ã€€"></form>
 <form action=./weblink.cgi?dm= method=POST>
 <input type=hidden name=page value="dispend">
 <input type=hidden name=masdel value="on">
 <table width=90% border=0 cellspacing=1 cellpadding=5><tr>
 <td bgcolor="#EEFFEE" align=center colspan=2>
-<font size=4>***** <b>¬à“o˜^,•]˜_,î•ñŒn</b> [152Œ] *****</font></td></tr>
+<font size=4>***** <b>å°èª¬ç™»éŒ²,è©•è«–,æƒ…å ±ç³»</b> [152ä»¶] *****</font></td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0993"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.pbeticahuertahierro.com/akizuki_mahiru/" target="_top"><b>HŒŽ‚Ü‚Ð‚é</b></a>
- <img src="./new.png">
-<br>@<font size=2>HŒŽ‚Ü‚Ð‚é </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.pbeticahuertahierro.com/akizuki_mahiru/" target="_top"><b>ç§‹æœˆã¾ã²ã‚‹</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ç§‹æœˆã¾ã²ã‚‹ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0992"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.w-wa.org/niigata_memorial/" target="_top"><b>VŠƒ‹L”O</b></a>
- <img src="./new.png">
-<br>@<font size=2>VŠƒ‹L”O </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.w-wa.org/niigata_memorial/" target="_top"><b>æ–°æ½Ÿè¨˜å¿µ</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>æ–°æ½Ÿè¨˜å¿µ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0990"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://mkomyu.nuku-nuku.info/" target="_top"><b>mƒRƒ~ƒ…</b></a>
- <img src="./new.png">
-<br>@<font size=2>mƒRƒ~ƒ… </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://mkomyu.nuku-nuku.info/" target="_top"><b>mã‚³ãƒŸãƒ¥</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>mã‚³ãƒŸãƒ¥ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0985"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.pbeticahuertahierro.com/megumi_hara_sakura/" target="_top"><b>ˆ¤Œ´‚³‚­‚ç</b></a>
- <img src="./new.png">
-<br>@<font size=2>ˆ¤Œ´‚³‚­‚ç </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.pbeticahuertahierro.com/megumi_hara_sakura/" target="_top"><b>æ„›åŽŸã•ãã‚‰</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>æ„›åŽŸã•ãã‚‰ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0984"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.yzdlsb.com/green_style/" target="_top"><b>ƒOƒŠ[ƒ“ƒXƒ^ƒCƒ‹</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒOƒŠ[ƒ“ƒXƒ^ƒCƒ‹ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.yzdlsb.com/green_style/" target="_top"><b>ã‚°ãƒªãƒ¼ãƒ³ã‚¹ã‚¿ã‚¤ãƒ«</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚°ãƒªãƒ¼ãƒ³ã‚¹ã‚¿ã‚¤ãƒ« </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0982"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.axisnet.org/" target="_top"><b>ƒcƒCƒbƒ^[</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒcƒCƒbƒ^[ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.axisnet.org/" target="_top"><b>ãƒ„ã‚¤ãƒƒã‚¿ãƒ¼</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ãƒ„ã‚¤ãƒƒã‚¿ãƒ¼ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0981"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.pbeticahuertahierro.com/aizaki_kotone/" target="_top"><b>‘Šè‹Õ‰¹</b></a>
- <img src="./new.png">
-<br>@<font size=2>‘Šè‹Õ‰¹ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.pbeticahuertahierro.com/aizaki_kotone/" target="_top"><b>ç›¸å´Žç´éŸ³</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ç›¸å´Žç´éŸ³ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0980"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.yzdlsb.com/gurisuta_racing/" target="_top"><b>ƒOƒŠƒXƒ^</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒOƒŠƒXƒ^ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.yzdlsb.com/gurisuta_racing/" target="_top"><b>ã‚°ãƒªã‚¹ã‚¿</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚°ãƒªã‚¹ã‚¿ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0979"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://gree.nuku-nuku.info/" target="_top"><b>ƒOƒŠ[</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒOƒŠ[ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://gree.nuku-nuku.info/" target="_top"><b>ã‚°ãƒªãƒ¼</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚°ãƒªãƒ¼ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0978"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.yzdlsb.com/gurisuta/" target="_top"><b>ƒOƒŠƒXƒ^</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒOƒŠƒXƒ^ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.yzdlsb.com/gurisuta/" target="_top"><b>ã‚°ãƒªã‚¹ã‚¿</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚°ãƒªã‚¹ã‚¿ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0977"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.thendca.com/" target="_top"><b>ƒ‚ƒoƒQ[</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒ‚ƒoƒQ[ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.thendca.com/" target="_top"><b>ãƒ¢ãƒã‚²ãƒ¼</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ãƒ¢ãƒã‚²ãƒ¼ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0974"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://afhhlsypel.a-thera.jp/" target="_top"><b>ƒRƒ~ƒbƒNƒ}[ƒPƒbƒg78</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒRƒ~ƒbƒNƒ}[ƒPƒbƒg78 </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://afhhlsypel.a-thera.jp/" target="_top"><b>ã‚³ãƒŸãƒƒã‚¯ãƒžãƒ¼ã‚±ãƒƒãƒˆ78</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚³ãƒŸãƒƒã‚¯ãƒžãƒ¼ã‚±ãƒƒãƒˆ78 </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0973"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/maria_dizon/" target="_top"><b>ƒ}ƒŠƒAEƒfƒBƒ]ƒ“</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒ}ƒŠƒAEƒfƒBƒ]ƒ“ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/maria_dizon/" target="_top"><b>ãƒžãƒªã‚¢ãƒ»ãƒ‡ã‚£ã‚¾ãƒ³</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ãƒžãƒªã‚¢ãƒ»ãƒ‡ã‚£ã‚¾ãƒ³ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0972"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/matsuura_orchid/" target="_top"><b>¼‰Y‚ç‚ñ</b></a>
- <img src="./new.png">
-<br>@<font size=2>¼‰Y‚ç‚ñ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/matsuura_orchid/" target="_top"><b>æ¾æµ¦ã‚‰ã‚“</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>æ¾æµ¦ã‚‰ã‚“ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0971"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.tjhxjyxxw.com/" target="_top"><b>ƒ‚ƒoƒQ[</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒ‚ƒoƒQ[ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.tjhxjyxxw.com/" target="_top"><b>ãƒ¢ãƒã‚²ãƒ¼</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ãƒ¢ãƒã‚²ãƒ¼ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0970"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://ameblo.jp/ejygofopot" target="_top"><b>ƒGƒRƒ|ƒCƒ“ƒg</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒGƒRƒ|ƒCƒ“ƒg </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://ameblo.jp/ejygofopot" target="_top"><b>ã‚¨ã‚³ãƒã‚¤ãƒ³ãƒˆ</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚¨ã‚³ãƒã‚¤ãƒ³ãƒˆ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0969"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/makino_saori/" target="_top"><b>–q–ì‚³‚¨‚è</b></a>
- <img src="./new.png">
-<br>@<font size=2>–q–ì‚³‚¨‚è </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/makino_saori/" target="_top"><b>ç‰§é‡Žã•ãŠã‚Š</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ç‰§é‡Žã•ãŠã‚Š </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0968"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://king.sugoineainavi.net/" target="_top"><b>SMƒ`ƒFƒbƒJ[</b></a>
- <img src="./new.png">
-<br>@<font size=2>SMƒ`ƒFƒbƒJ[ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://king.sugoineainavi.net/" target="_top"><b>SMãƒã‚§ãƒƒã‚«ãƒ¼</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>SMãƒã‚§ãƒƒã‚«ãƒ¼ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0967"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://k-e-i-s-h-i-1.seesaa.net/" target="_top"><b>ŽD–y‹L”O</b></a>
- <img src="./new.png">
-<br>@<font size=2>ŽD–y‹L”O </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://k-e-i-s-h-i-1.seesaa.net/" target="_top"><b>æœ­å¹Œè¨˜å¿µ</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>æœ­å¹Œè¨˜å¿µ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0966"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://m-komyu.sabu-sabu.info/" target="_top"><b>?ƒRƒ~?</b></a>
- <img src="./new.png">
-<br>@<font size=2>?ƒRƒ~? </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://m-komyu.sabu-sabu.info/" target="_top"><b>?ã‚³ãƒŸ?</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>?ã‚³ãƒŸ? </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0957"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://hgfcvgb.slowtown.net/blog/" target="_top"><b>ƒyƒ‹ƒZƒEƒXÀ—¬¯ŒQ</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒyƒ‹ƒZƒEƒXÀ—¬¯ŒQ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://hgfcvgb.slowtown.net/blog/" target="_top"><b>ãƒšãƒ«ã‚»ã‚¦ã‚¹åº§æµæ˜Ÿç¾¤</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ãƒšãƒ«ã‚»ã‚¦ã‚¹åº§æµæ˜Ÿç¾¤ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0956"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/saori_kamiya/" target="_top"><b>_’J¹D</b></a>
- <img src="./new.png">
-<br>@<font size=2>_’J¹D </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/saori_kamiya/" target="_top"><b>ç¥žè°·æ²™ç¹”</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ç¥žè°·æ²™ç¹” </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0955"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.w-fatayerji.com/" target="_top"><b>ƒXƒ^ƒr</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒXƒ^ƒr </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.w-fatayerji.com/" target="_top"><b>ã‚¹ã‚¿ãƒ“</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚¹ã‚¿ãƒ“ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0954"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://efnxokulmn.exblog.jp/" target="_top"><b>YouTube</b></a>
- <img src="./new.png">
-<br>@<font size=2>YouTube </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://efnxokulmn.exblog.jp/" target="_top"><b>YouTube</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>YouTube </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0953"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/kanou_naoko/" target="_top"><b>Š‡Žq</b></a>
- <img src="./new.png">
-<br>@<font size=2>Š‡Žq </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/kanou_naoko/" target="_top"><b>å¶é †å­</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>å¶é †å­ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0952"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/kadota_festival/" target="_top"><b>–å“c‚Ü‚Â‚è</b></a>
- <img src="./new.png">
-<br>@<font size=2>–å“c‚Ü‚Â‚è </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/kadota_festival/" target="_top"><b>é–€ç”°ã¾ã¤ã‚Š</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>é–€ç”°ã¾ã¤ã‚Š </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0951"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://suta-bi-ti.sabu-sabu.info/" target="_top"><b>ƒXƒ^[ƒr[ƒ`</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒXƒ^[ƒr[ƒ` </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://suta-bi-ti.sabu-sabu.info/" target="_top"><b>ã‚¹ã‚¿ãƒ¼ãƒ“ãƒ¼ãƒ</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚¹ã‚¿ãƒ¼ãƒ“ãƒ¼ãƒ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0950"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://blog.fudol.tv/user/ycwvzzjfqs/ycwvzzjfqs/" target="_top"><b>“úŠØ•¹‡‚P‚O‚O”N</b></a>
- <img src="./new.png">
-<br>@<font size=2>“úŠØ•¹‡‚P‚O‚O”N </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://blog.fudol.tv/user/ycwvzzjfqs/ycwvzzjfqs/" target="_top"><b>æ—¥éŸ“ä½µåˆï¼‘ï¼ï¼å¹´</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>æ—¥éŸ“ä½µåˆï¼‘ï¼ï¼å¹´ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0948"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/ai_kazumi/" target="_top"><b>˜aŒ©‚ ‚¢</b></a>
- <img src="./new.png">
-<br>@<font size=2>˜aŒ©‚ ‚¢ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/ai_kazumi/" target="_top"><b>å’Œè¦‹ã‚ã„</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>å’Œè¦‹ã‚ã„ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0947"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/kajiwara_emiri" target="_top"><b>ŠŒ´ƒGƒ~ƒŠ</b></a>
- <img src="./new.png">
-<br>@<font size=2>ŠŒ´ƒGƒ~ƒŠ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/kajiwara_emiri" target="_top"><b>æ¢¶åŽŸã‚¨ãƒŸãƒª</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>æ¢¶åŽŸã‚¨ãƒŸãƒª </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0945"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.alwahaaviation.com/" target="_top"><b>gree</b></a>
- <img src="./new.png">
-<br>@<font size=2>gree </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.alwahaaviation.com/" target="_top"><b>gree</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>gree </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0944"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://npveybsbvb.fruitblog.net/" target="_top"><b>SIMè^\è^½bè^½Nè^½tè^\è^½[</b></a>
- <img src="./new.png">
-<br>@<font size=2>SIMè^\è^½bè^½Nè^½tè^\è^½[ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://npveybsbvb.fruitblog.net/" target="_top"><b>SIMéƒç·’ç”³éƒã‚¹béƒã‚¹Néƒã‚¹téƒç·’ç”³éƒã‚¹[</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>SIMéƒç·’ç”³éƒã‚¹béƒã‚¹Néƒã‚¹téƒç·’ç”³éƒã‚¹[ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0943"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.nicoleangelica.com/endou_mihuyu/" target="_top"><b>‰““¡”ü“~</b></a>
- <img src="./new.png">
-<br>@<font size=2>‰““¡”ü“~ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.nicoleangelica.com/endou_mihuyu/" target="_top"><b>é è—¤ç¾Žå†¬</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>é è—¤ç¾Žå†¬ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0942"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://mobage.sabu-sabu.info/" target="_top"><b>ƒ‚ƒoƒQ[</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒ‚ƒoƒQ[ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://mobage.sabu-sabu.info/" target="_top"><b>ãƒ¢ãƒã‚²ãƒ¼</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ãƒ¢ãƒã‚²ãƒ¼ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0940"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.communalbusiness.net/lean_love/" target="_top"><b>‚©‚ª‚Ýˆ¤</b></a>
- <img src="./new.png">
-<br>@<font size=2>‚©‚ª‚Ýˆ¤ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.communalbusiness.net/lean_love/" target="_top"><b>ã‹ãŒã¿æ„›</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‹ãŒã¿æ„› </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0937"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.kulta-surma.net/queen_s/" target="_top"><b>ƒNƒC[ƒ“‚r</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒNƒC[ƒ“‚r </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.kulta-surma.net/queen_s/" target="_top"><b>ã‚¯ã‚¤ãƒ¼ãƒ³ï¼³</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚¯ã‚¤ãƒ¼ãƒ³ï¼³ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0936"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.c-gamez.com/" target="_top"><b>ƒXƒ^[ƒr[ƒ`</b></a>
- <img src="./new.png">
-<br>@<font size=2>ƒXƒ^[ƒr[ƒ` </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.c-gamez.com/" target="_top"><b>ã‚¹ã‚¿ãƒ¼ãƒ“ãƒ¼ãƒ</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>ã‚¹ã‚¿ãƒ¼ãƒ“ãƒ¼ãƒ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0935"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://kpnjtpftnx.blog.tennis365.net/" target="_top"><b>iphone4</b></a>
- <img src="./new.png">
-<br>@<font size=2>iphone4 </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://kpnjtpftnx.blog.tennis365.net/" target="_top"><b>iphone4</b></a>
+ <img src="new.png">
+<br>ã€€<font size=2>iphone4 </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0934"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.communalbusiness.net/ozaki_reimi/" target="_top"><b>”öè—í”ü</b></a>
-<br>@<font size=2>”öè—í”ü </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.communalbusiness.net/ozaki_reimi/" target="_top"><b>å°¾å´Žéº—ç¾Ž</b></a>
+<br>ã€€<font size=2>å°¾å´Žéº—ç¾Ž </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0933"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://sutabi.linkbul.net/" target="_top"><b>ƒXƒ^ƒr</b></a>
-<br>@<font size=2>ƒXƒ^ƒr </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://sutabi.linkbul.net/" target="_top"><b>ã‚¹ã‚¿ãƒ“</b></a>
+<br>ã€€<font size=2>ã‚¹ã‚¿ãƒ“ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0932"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.communalbusiness.net/b_wing_imaru/" target="_top"><b>‰³‰H‚¢‚Ü‚é</b></a>
-<br>@<font size=2>‰³‰H‚¢‚Ü‚é </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.communalbusiness.net/b_wing_imaru/" target="_top"><b>ä¹™ç¾½ã„ã¾ã‚‹</b></a>
+<br>ã€€<font size=2>ä¹™ç¾½ã„ã¾ã‚‹ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0931"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.communalbusiness.net/kota_yumi/" target="_top"><b>¬“c—R”ü</b></a>
-<br>@<font size=2>¬“c—R”ü </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.communalbusiness.net/kota_yumi/" target="_top"><b>å°ç”°ç”±ç¾Ž</b></a>
+<br>ã€€<font size=2>å°ç”°ç”±ç¾Ž </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0929"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.communalbusiness.net/lighting/" target="_top"><b>‚ ‚©‚è</b></a>
-<br>@<font size=2>‚ ‚©‚è </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.communalbusiness.net/lighting/" target="_top"><b>ã‚ã‹ã‚Š</b></a>
+<br>ã€€<font size=2>ã‚ã‹ã‚Š </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0928"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.communalbusiness.net/this_aoki_sae/" target="_top"><b>Â–Ø‚³‚¦‚±</b></a>
-<br>@<font size=2>Â–Ø‚³‚¦‚± </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.communalbusiness.net/this_aoki_sae/" target="_top"><b>é’æœ¨ã•ãˆã“</b></a>
+<br>ã€€<font size=2>é’æœ¨ã•ãˆã“ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0927"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://mobage-town.sictafpiloto.net/" target="_top"><b>ƒ‚ƒoƒQ[ƒ^ƒEƒ“</b></a>
-<br>@<font size=2>ƒ‚ƒoƒQ[ƒ^ƒEƒ“ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://mobage-town.sictafpiloto.net/" target="_top"><b>ãƒ¢ãƒã‚²ãƒ¼ã‚¿ã‚¦ãƒ³</b></a>
+<br>ã€€<font size=2>ãƒ¢ãƒã‚²ãƒ¼ã‚¿ã‚¦ãƒ³ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0926"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://ijrsdowdew.at.webry.info/" target="_top"><b>Android</b></a>
-<br>@<font size=2>Android </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://ijrsdowdew.at.webry.info/" target="_top"><b>Android</b></a>
+<br>ã€€<font size=2>Android </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0925"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.communalbusiness.net/this_speculation_guchiri/" target="_top"><b>‚â‚Ü‚®‚¿‚è‚±</b></a>
-<br>@<font size=2>‚â‚Ü‚®‚¿‚è‚± </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.communalbusiness.net/this_speculation_guchiri/" target="_top"><b>ã‚„ã¾ãã¡ã‚Šã“</b></a>
+<br>ã€€<font size=2>ã‚„ã¾ãã¡ã‚Šã“ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0924"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.igateinc.com/konatsu_blue_sky/" target="_top"><b>Â‹ó¬‰Ä</b></a>
-<br>@<font size=2>Â‹ó¬‰Ä </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.igateinc.com/konatsu_blue_sky/" target="_top"><b>é’ç©ºå°å¤</b></a>
+<br>ã€€<font size=2>é’ç©ºå°å¤ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0923"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.justemaristel.com/" target="_top"><b>ƒ‚ƒoƒQ[</b></a>
-<br>@<font size=2>ƒ‚ƒoƒQ[ </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.justemaristel.com/" target="_top"><b>ãƒ¢ãƒã‚²ãƒ¼</b></a>
+<br>ã€€<font size=2>ãƒ¢ãƒã‚²ãƒ¼ </font>
 </td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0922"></td>
-<td width=95%><font color="#888888"><b>¡</b></font> <a href="http://www.voiceblog.jp/pmrfdzezwc/" target="_top"><b>”ül‚·‚¬‚é‘åb</b></a>
-<br>@<font size=2>”ül‚·‚¬‚é‘åb </font>
+<td width=95%><font color="#888888"><b>â– </b></font> <a href="http://www.voiceblog.jp/pmrfdzezwc/" target="_top"><b>ç¾Žäººã™ãŽã‚‹å¤§è‡£</b></a>
+<br>ã€€<font size=2>ç¾Žäººã™ãŽã‚‹å¤§è‡£ </font>
 </td></tr>
-<tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="ƒƒ“ƒeíœ"><br>
-<font size=2>íœFƒ}ƒXƒ^[ƒL[‚ð‹L“ü‚µ‚Ä‰º‚³‚¢B</font></form>
+<tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="ãƒ¡ãƒ³ãƒ†å‰Šé™¤"><br>
+<font size=2>å‰Šé™¤ï¼šãƒžã‚¹ã‚¿ãƒ¼ã‚­ãƒ¼ã‚’è¨˜å…¥ã—ã¦ä¸‹ã•ã„ã€‚</font></form>
 </td></tr></table>
-<p align=center><center><form action="./weblink.cgi?karte=wl0008&p=2" method="POST"><input type=hidden name=p value="2">
+<p align=center><center><form action="weblink@karte_wl0008_p_2.cgi" method="POST"><input type=hidden name=p value="2">
 <input type=hidden name=lcounts value="50"><input type=hidden name=karte value="wl0008">
-<input type=submit value=‘S152Œ’†51`100Œ¨>
+<input type=submit value=å…¨152ä»¶ä¸­51ã€œ100ä»¶â†’>
 </form></center></p>
 </td></tr></table>
 </center></p>
 <form action=./weblink.cgi method=POST>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type=submit value="LINK TOP"></form>
 <p align=right><font size=2><a href="http://www.pmcj.com/" target="top">WEB LINK [SPS] ver3.34 by Tomey</a></font></p>
-<p> ƒŠƒ“ƒNW‚É‚Â‚¢‚Ä‚Ì‚¨–â‚¢‡‚í‚¹@<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>
+<p> ãƒªãƒ³ã‚¯é›†ã«ã¤ã„ã¦ã®ãŠå•ã„åˆã‚ã›ã€€<a href="mailto:admin@ts.novels.jp?subject=[INFO] " STYLE="color:#0000FF;"><i>admin@ts.novels.jp</i></a></p></body></html>

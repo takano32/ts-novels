@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,63 +52,63 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�@���V�g�R�K�u���G���\����
+機動天使軍ガブリエル予告版
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF���Ƃ�����</center><tr>
+<center>作者：いとうさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-<br><br><br>�@���͉F����c�c�B<br>�@�l�ނ͏d�͎q�̔����ɂ��A�d�͐��䑕�u�����o���A���R�ƌ����_�����ꂽ�n���̗h��U�𔲂��o���A�����̔Ő}���F���ɂ܂ōL���Ă����B<br>�@�P���n���ƃK�C�A�Ƃ��āA�ċ�A�̈���Ƃ��ĉ�������A�n���l�ނ̓I���I���r�ɑ��݂���ő勉�̍��Ƃ�i������܂łɎ������B<br>�@�����A�˔@�Ƃ��ďP���|�����Ă�����̐N���ҁu�w�m�w�v�ɂ��A�n���͌����B���f���K�[�����g�������Ă��܂��B<br>�@�w�m�w�ɑ΂��āA�v���f�A�X���y�уK�C�A�E�A�X�K���h�R�������ɑ���A�K�C�A�͐���z���B�P�O�L�����A����F�����A�[�N�G���[���V���[�Y���S�Ǔ������A��ꎟ�w�m�w�K�C�A������J���B<br>�@�A�[�N�G���[�����̈�ǁA�u�K�u���G���v�̑��ӔC�҂Ƃ��āA�R���M���̖��Ƃł��闧���ꑰ����A����Ⴋ�P�W�΂̉����͒��A�������闢���A�C�B<br>�@����A�l�^�@������w�@�����ҁx�𗘗p�����������A�w�S�[���x�̂P�R��`�����s�I���ł��鐅�������́A�������̎��̂ɂ��A�S�g��Ⴢ̏d���𕉂��Ă��܂��B�K�C�A�F���R����A�ŐV��ËZ�p�̒񋟂ɂ��A�����͊�Ղ̕����𐋂��邪�A���̑㏞�Ƃ��āw�S�[���x����̈��ދy�сA�K�[�����g�D�ҍ��ւ̋��͂����߂���B<br>�@�����q�����@�B�̂ɂ��g�̏�Q�����p�y�ѐ��]���p���󂯂������ɂ́A�I���̗]�n�Ȃǎc���ĂȂ������B�j�����ւ̍Đ��]�����K�C�A�F���R�ɖ񑩂����A�����̓A�[�N�G���[�����u�K�u���G���v�ւƏ�荞�ށB<br><br>�@�����ł́A�ߍ��ȉ^���ƁA�������킢���҂��Ă���I<br>���闢�u���o�l���I�@�҂��Ă��������A�Ȃ̂ł��I�v<br>�����@�u�����������I�@�T�����y���������ė��Ȃ��ł����������I�I�v<br>�@�����ł́A�ߍ��ȉ^���ƁA�������킢���҂��Ă���c�c�B<br>�u�N�@�u�N�́A�ƂĂ��L���[�g���v<br>�����@�u������Ƒ҂Ă��I�@�I���͒j�����I�I�v<br>�@�����ł́A�ߍ��ȉ^���ƁA�������킢���҂��Ă���c�c���Ȃ��H<br><br>�@�M���L�X�݂����ȃ��[�U�[�ƁA�������̂悤�ɗ��˂���郌�[���K���B<br>�@�����݂����ɎU�J����o���A�ƁA�Бz���ŗn�������݂����ɗZ������ϔM���b�B<br>�@�Â����m�����f����@�����҂̃p�C���b�g�B�́A���G�Ƃ��琂Ɋ��삷��B<br>�@�����āA��F���ɎW�R�ƊJ���S���̉ԁB<br><br>�����@�u����ȃ����A�J����ł��X�����I�v<br>���闢�u�@���V�g�R�K�u���G���S�͑S�͑O�i�I�@���Ƃ��Ă��K�[�����g�Ɏc����<br>�@�@�@�@���E�V�O���l���~�o�A�Ȃ̂ł��I�v<br><br>�w�@���V�g�R�K�u���G���x<br>�@��P�b�F���������߂����o�l�A�Ȃ̂ł�<br>
+<br><br><br>　時は宇宙暦……。<br>　人類は重力子の発見により、重力制御装置を作り出し、偶然と言う神が作られた地球の揺り篭を抜け出し、生活の版図を宇宙にまで広げていた。<br>　恒星系国家ガイアとして、汎銀連の一員として加盟され、地球人類はオリオン腕に存在する最大級の国家を擁立するまでに至った。<br>　だが、突如として襲い掛かってきた謎の侵略者「ＸＮＸ」により、地球は公式殖民惑星ガーラントを失ってしまう。<br>　ＸＮＸに対して、プレデアス条約及びガイア・アスガルド軍事同盟に則り、ガイアは宣戦を布告。１０キロ超、巨大宇宙空母アークエンゼルシリーズを４隻投入し、第一次ＸＮＸガイア戦線を開く。<br>　アークエンゼル級の一隻、「ガブリエル」の総責任者として、軍閥貴族の名家である立原一族から、うら若き１８歳の乙女艦長、立原小夜里が就任。<br>　一方、人型機動兵器『機動武者』を利用した見世物、『ゴゼン』の１３代チャンピオンである水方東生は、試合中の事故により、全身麻痺の重傷を負ってしまう。ガイア宇宙軍から、最新医療技術の提供により、東生は奇跡の復活を遂げるが、その代償として『ゴゼン』からの引退及び、ガーラント奪還作戦への協力を求められる。<br>　高分子微小機械体による身体障害除去術及び性転換術を受けた東生には、選択の余地など残ってなかった。男性性への再性転換をガイア宇宙軍に約束させ、東生はアークエンゼル級「ガブリエル」へと乗り込む。<br><br>　そこでは、過酷な運命と、激しい戦いが待っている！<br>小夜里「お姉様ぁ！　待ってください、なのです！」<br>東生　「だあぁああ！　サヨリ准将抱きついて来ないでくださいぃ！！」<br>　そこでは、過酷な運命と、激しい戦いが待っている……。<br>志朗　「君は、とてもキュートだ」<br>東生　「ちょっと待てぇ！　オレは男だぁ！！」<br>　そこでは、過酷な運命と、激しい戦いが待っている……かなあ？<br><br>　熱いキスみたいなレーザーと、胸騒ぎのように乱射されるレールガン。<br>　失恋みたいに散開するバリアと、片想いで溶けた胸みたいに融解する耐熱装甲。<br>　古き武士道を掲げる機動武者のパイロット達は、強敵との邂逅に歓喜する。<br>　そして、大宇宙に燦然と開く百合の花。<br><br>東生　「そんなモン、開かんでも宜しい！」<br>小夜里「機動天使軍ガブリエル全艦全力前進！　何としてもガーラントに残った<br>　　　　同胞７０億人を救出、なのです！」<br><br>『機動天使軍ガブリエル』<br>　第１話：私が見初めたお姉様、なのです<br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-���Ƃ�
+いとう
 </address>
-2004�N11��23��(��) 01��03��05�b ���J<br>
+2004年11月23日(火) 01時03分05秒 公開<br>
 <!--60.236.46.60-->
-<font color=red>�����̍�i�̒��쌠�͂��Ƃ�����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はいとうさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�Ȃ񂾂��A�A�j���̎���\���݂������Ȃ��i�΁j<br>�r�e�݂����ȃX�y�I�y�Ȃ�ł����A����Ȃ̍l���Ă܂��B������ƒ����Ȃ肻���ł����A������x���������當�ɂւƓ��e���l���Ă܂��B
+なんだか、アニメの次回予告みたいだなぁ（笑）<br>ＳＦみたいなスペオペなんですが、こんなの考えてます。ちょっと長くなりそうですが、ある程度完成したら文庫へと投稿を考えてます。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�������I  �o�k�t�s�n�̃u�����h�ł���A���Ƃ�����I  �Y�򒼎����S�r�A�g���������C�N�����B</td>
-<td>������</td>
-<td width=20%>��2004-11-26 21:05:11</td>
+<td style=font-size:10pt>もちろん！  ＰＬＵＴＯのブランドですよ、いとうさん！  浦沢直樹が鉄腕アトムをリメイクした。</td>
+<td>¥＝＄</td>
+<td width=20%>■2004-11-26 21:05:11</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>>hiji����<BR>�����ҁA���肪�Ƃ��������܂��B<BR>�����b���A���҂����������B<BR><BR>>����������<BR>�w�S�[���x�͓����u�o�g�����O�v��������ł����A<BR>�]��ɂ������Œ������o�܂�����܂��B<BR>�c�c���D���l�ł��B�i���̃u�����h�Ȃ񂾂낤�H�j</td>
-<td>���Ƃ�</td>
-<td width=20%>��2004-11-24 23:20:18</td>
+<td style=font-size:10pt>>hijiさん<BR>ご期待、ありがとうございます。<BR>もう暫く、お待ちください。<BR><BR>>¥＝＄さん<BR>『ゴゼン』は当初「バトリング」だったんですが、<BR>余りにも直球で直した経緯があります。<BR>……ご愁傷様です。（何のブランドなんだろう？）</td>
+<td>いとう</td>
+<td width=20%>■2004-11-24 23:20:18</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���҂��đ҂��Ă܂��B<BR></td>
+<td style=font-size:10pt>期待して待ってます。<BR></td>
 <td>hiji</td>
-<td width=20%>��2004-11-23 20:33:36</td>
+<td width=20%>■2004-11-23 20:33:36</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�w�@�����ҁx�̌����������A�w�S�[���x<BR>�u�����h���v���o���Ă�����Ƌ������E�E�E</td>
-<td>������</td>
-<td width=20%>��2004-11-23 08:18:43</td>
+<td style=font-size:10pt>『機動武者』の見世物試合、『ゴゼン』<BR>ブランドを思い出してちょっと泣いた・・・</td>
+<td>¥＝＄</td>
+<td width=20%>■2004-11-23 08:18:43</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -116,24 +116,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20041123010305">
 <input type=hidden name="num_r" value="20041123010305">
 <input type=hidden name="url" value="">
@@ -149,17 +149,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20041123010305">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -169,9 +169,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

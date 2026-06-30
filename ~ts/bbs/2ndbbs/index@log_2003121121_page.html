@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,12 +52,12 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body background="" bgcolor=#ffffff text=navy>
 <center>
 <font style="font-size:20pt;font-weight:bold">
-���N�������Ɂ@�|�@���f���E�X�g�[���[����
+少年少女文庫　−　第二掲示板・ストーリー道場
 </font>
 </center><br>
 <center>
@@ -68,26 +68,26 @@ A{TEXT-DECORATION:NONE};
 <tr id=tr3>
 <th>
 <a href=./bbs.cgi>
-�ŐV��i�W
+最新作品集
 </a>
 </th>
 <!-- . --><!-- .. --><!-- 2003121121.txt --><th>
-<a href=?log=2003121121>��i�W����2</a>
+<a href=?log=2003121121>作品集その2</a>
 </th>
 <!-- 2004101004.txt --><th>
-<a href=?log=2004101004>��i�W����3</a>
+<a href=?log=2004101004>作品集その3</a>
 </th>
 <!-- anthology.txt --><!-- 2003121121?page.txt --><th>
-��i�W����4
+作品集その4
 </th>
 <!-- 2004101004page.txt --><th>
-<a href=?log=2004101004page>��i�W����5</a>
+<a href=?log=2004101004page>作品集その5</a>
 </th>
 <!-- 200312112.txt --><th>
-<a href=?log=200312112>��i�W����6</a>
+<a href=?log=200312112>作品集その6</a>
 </th>
 <!-- 20031211....txt --><th>
-<a href=?log=20031211...>��i�W����7</a>
+<a href=?log=20031211...>作品集その7</a>
 </th>
 </tr>
 </table>
@@ -96,7 +96,7 @@ A{TEXT-DECORATION:NONE};
 <tr>
 <th colspan=5>
 <font style="font-size:13pt">
-���eLIST [ 0 ��i ]
+投稿LIST [ 0 作品 ]
 </font>
 </th>
 </tr>
@@ -104,37 +104,37 @@ A{TEXT-DECORATION:NONE};
 <input type=hidden name=action value="html4">
 <input type=hidden name="log" value="2003121121?page">
 <tr><th>
- ��҂����肵�Ē��o 
+ 作者を限定して抽出 
 <select name=sakusha>
-<option value=0>��҂�I��
+<option value=0>作者を選択
 </select>
-<input type=submit value=" ���X�g�\�� " class="d1">
+<input type=submit value=" リスト表示 " class="d1">
 </th>
 </form>
 <form method=post action=./bbs.cgi>
 <input type=hidden name=action value="html5">
 <input type=hidden name="log" value="2003121121?page">
 <th colspan=4>
- �����w�肵�Ē��o 
+ 語句を指定して抽出 
 <input type=text name=serch size=16>
-<input type=submit value=" ���� " class="d1">
+<input type=submit value=" 検索 " class="d1">
 </th></tr>
 </form>
-<tr ID=tr2><TH WIDTH="50%">Title</th><TH WIDTH="10%">����</th><TH WIDTH="20%">���e��</th><TH WIDTH="5%">RES</TH></tr>
+<tr ID=tr2><TH WIDTH="50%">Title</th><TH WIDTH="10%">著者</th><TH WIDTH="20%">投稿日</th><TH WIDTH="5%">RES</TH></tr>
 </tr>
 </tr></table>
 </center><p>
 <table border=5 cellspacing=5 align=center><tr>
 <th bgcolor=#ffffff>
-��i�͂����܂łł��B
+作品はここまでです。
 </th>
 </tr></table><br>
 <hr>
 </center>
-<a href=http://ts.novels.jp/>���N�������ɂ֖߂�</A><form method="post" action="./bbs.cgi">
+<a href=http://ts.novels.jp/>少年少女文庫へ戻る</A><form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku">
 <input type=hidden name="log" value="2003121121?page">
 PASSWORD <input type=password name="pwd" size=10>
-<input type=submit value="�Ǘ��җp" class="d1"></form>
+<input type=submit value="管理者用" class="d1"></form>
 <div align=right><address><font size=3><a href="http://www2s.biglobe.ne.jp/~yasuu/cgi.html" target="_top">Anthologys V2.3c  Script by YASUU!!</a></font></address></div>
 </body></html>

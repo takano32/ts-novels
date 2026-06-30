@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���Ȑl�A�����Ă����炤�̂��D���Ȑl�̂��߂̈ӌ������{�[�h�ł��B<br>�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな人、つくってもうらうのが好きな人のための意見交換ボードです。<br>ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi" name="F1">
@@ -15,20 +15,20 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="gBQCWNgq59">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h nFpbhf  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="nFpbhf"> <input type=hidden name="hrcode2" size=10 value="&#12354;"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード nFpbhf  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="nFpbhf"> <input type=hidden name="hrcode2" size=10 value="&#12354;"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �L�����e�̍ۂ́A���p�p��6�����̓��̓R�[�h���E���̃{�b�N�X�ɂ��̂܂ܓ��͂��ĉ�����.<br>�� ���̓R�[�h�͊��ɂ���Ă͎����I�ɓ��͂���Ă��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 記事投稿の際は、半角英数6文字の入力コードを右側のボックスにそのまま入力して下さい.<br>※ 入力コードは環境によっては自動的に入力されています.</font>
 </td></table><br>
 </div><Script language=JavaScript>
 <!--
@@ -38,7 +38,7 @@ link<input type=checkbox name="link" value="1" checked>
 <p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -51,22 +51,22 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[8386]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> �u�����h�R�s�[���X</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[8386]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> ブランドコピー専門店</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2014/03/09 (��) 18:01:05  �u�����h�R�s�[���X </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201403090180105">�ԐM</a>�@�폜<input type=checkbox name="target" value="201403090180105"></font>
+<font size="-1" color="#606060"> 2014/03/09 (日) 18:01:05  ブランドコピー専門店 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201403090180105.cgi">返信</a>　削除<input type=checkbox name="target" value="201403090180105"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�u�����h�R�s�[���X<br>
-2014�N�ō����z.<br>
-2014�V��̓W���C�V�i��ނ�������Ă��܂��I<br>
-���Ђ̏��i�͐�΂̎��M��������܂��B<br>
-�����o�b�O �F�u���_�A�C�[�X�g�A�A�E�g�h�A�A�R�[�`�A�f�B�[�[��<br>
-�������@�z�F�J���e�B�G�A�u���K���A�O�b�`�A�u���_�A�R�[�`<br>
-�������@�v�F�����b�N�X�A�p�l���C�A�V���l��<br>
-���ቿ�i�@�ቿ�i��<br>
-100%�i���ۏ؁I�����ۏ�I���s�[�^�[��100��<br>
+<font size=4 color=#000000>ブランドコピー専門店<br>
+2014年最高財布.<br>
+2014新作の展示，新品種類がそろっています！<br>
+当社の商品は絶対の自信が御座います。<br>
+◎━バッグ ：ブラダ、イースト、アウトドア、コーチ、ディーゼル<br>
+◎━財　布：カルティエ、ブルガリ、グッチ、ブラダ、コーチ<br>
+◎━時　計：ロレックス、パネライ、シャネル<br>
+■低価格　低価格■<br>
+100%品質保証！満足保障！リピーター率100％<br>
 <br>
 <a href=http://www.diy-copys.net target=_top>http://www.diy-copys.net</a><br>
 <br>
@@ -83,45 +83,45 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[8385]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> �O�b�` ���z �R�s�[www.vpx6s.com</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[8385]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> グッチ 財布 コピーwww.vpx6s.com</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2014/03/09 (��) 15:27:48  �k�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201403090152748">�ԐM</a>�@�폜<input type=checkbox name="target" value="201403090152748"></font>
+<font size="-1" color="#606060"> 2014/03/09 (日) 15:27:48  北川 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201403090152748.cgi">返信</a>　削除<input type=checkbox name="target" value="201403090152748"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�O�b�` ���z �R�s�[www.vpx6s.com&lt;br&gt;���C���B�g���U�� ���B�g���R�s�[ &lt;br&gt;�u�����h���z�M���X&lt;br&gt;������2013�N�l�C�ŐV�i���ׁ�����&lt;br&gt;�ŐV�̍X�V�̃u�����h�o�b�O�R�s�[&lt;br&gt;2013�N�V�i�o�b�O�A���z�A�蒠�A�r���v&lt;br&gt;2013�N�j���A�����ɒ��l�C������V�f�ޓ���&lt;br&gt;2013�N�̐V�f��-�V��!���i ���̒ǋ�&lt;br&gt;HERMES�i �o�b�O �A ���z �A���v�j&lt;br&gt;CHANEL�i �o�b�O �A ���z �A ���v �j&lt;br&gt;LOUIS VUITTON�i �o�b�O�A���z�A���v�j&lt;br&gt;GUCCI�i�o�b�O�A���z�j&lt;br&gt;���z���� �u�����h�o�b�O &lt;br&gt;���z����/�U�� ���C���B�g���U�� &lt;br&gt;���v�U�� �l�C�u�����h &lt;br&gt;�o�b�O�R�s�[ ���z�R�s�[&lt;br&gt;��HP�F<a href=http://www.vpx6s.com target=_top>http://www.vpx6s.com</a></font>
+<font size=4 color=#000000>グッチ 財布 コピーwww.vpx6s.com&lt;br&gt;ルイヴィトン偽物 ヴィトンコピー &lt;br&gt;ブランド財布貴族店&lt;br&gt;■☆■2013年人気最新品入荷■☆■&lt;br&gt;最新の更新のブランドバッグコピー&lt;br&gt;2013年新品バッグ、財布、手帳、腕時計&lt;br&gt;2013年男性、女性に超人気がある新素材入荷&lt;br&gt;2013年の新素材-新作!高品 質の追求&lt;br&gt;HERMES（ バッグ 、 財布 、時計）&lt;br&gt;CHANEL（ バッグ 、 財布 、 時計 ）&lt;br&gt;LOUIS VUITTON（ バッグ、財布、時計）&lt;br&gt;GUCCI（バッグ、財布）&lt;br&gt;財布激安 ブランドバッグ &lt;br&gt;財布激安/偽者 ルイヴィトン偽物 &lt;br&gt;時計偽物 人気ブランド &lt;br&gt;バッグコピー 財布コピー&lt;br&gt;☆HP：<a href=http://www.vpx6s.com target=_top>http://www.vpx6s.com</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[8384]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> �u�����h �� �� burandcopy.com</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[8384]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> ブランド 激 安 burandcopy.com</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2014/03/09 (��) 14:59:06  �u�����h �� �� shops3c.com </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201403090145906">�ԐM</a>�@�폜<input type=checkbox name="target" value="201403090145906"></font>
+<font size="-1" color="#606060"> 2014/03/09 (日) 14:59:06  ブランド 激 安 shops3c.com </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201403090145906.cgi">返信</a>　削除<input type=checkbox name="target" value="201403090145906"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�u�����h �� �� burandcopy.com<br>
-�G�����X�U���i�R�s�[�j���i-�G�����X�o�b�O<br>
-�G�����X�o�b�O �u�����h���c�X�A�����u�����h<br>
-�u�����h�R�s�[ �X�[�p�[�R�s�[ ���z ���C���B�g���V��o�b�O<br>
-�X�[�p�[�R�s�[�u�����h�C�X�[�p�[�R�s�[�u�����h�ʔ�<br>
-�u�����h�R�s�[�s��X�[�p�[���v���J�A�����u�����h�o�b�O�A���v�A���z�N�����n�[�c<br>
-�R�s�[ �C�N�����n�[�c �X�y�C�T�[�����O<br>
-�N�����n�[�c �X�y�C�T�[�����O<br>
-�u�����h�����R�s�[�X�[�p�[�R�s�[�u�����h�����ʔ̓X<br>
-�X�[�p�[�R�s�[�i���ۏ� �K�K�~���m �R�s�[ ����� �K�K�~���m���v����<br>
-�u���K�����v�R�s�[�C�O�b�` �|�[�`�C�O�b�` �V�����_�[�o�b�O<br>
-�O�b�` �n���h�o�b�O�C�u���C�g�����O ���v �R�s�[<br>
-�u���K�� �A���~�j�E���C�W�F�C�R�u ���v �R�s�[<br>
-�V���l�� �O�܍��z�C�u�����h���v�R�s�[ - �l�C�X�[�p�[�R�s�[���v�A�����u�����h��<br>
-�v�U���ʔ�<br>
-�O�b�`���z�R�s�[-�O�b�`���z<br>
-�O�b�` �����z�R�s�[�����ʔ́C�X�[�p�[���v���J���v�����u�����h�ʔ�<br>
-���C���B�g�����z �R�s�[-���B�g��<br>
+<font size=4 color=#000000>ブランド 激 安 burandcopy.com<br>
+エルメス偽物（コピー）商品-エルメスバッグ<br>
+エルメスバッグ ブランド直営店、質屋ブランド<br>
+ブランドコピー スーパーコピー 財布 ルイヴィトン新作バッグ<br>
+スーパーコピーブランド，スーパーコピーブランド通販<br>
+ブランドコピー市場スーパーレプリカ、激安ブランドバッグ、時計、財布クロムハーツ<br>
+コピー ，クロムハーツ スペイサーリング<br>
+クロムハーツ スペイサーリング<br>
+ブランド激安コピースーパーコピーブランド激安通販店<br>
+スーパーコピー品質保証 ガガミラノ コピー 代引き ガガミラノ時計激安<br>
+ブルガリ時計コピー，グッチ ポーチ，グッチ ショルダーバッグ<br>
+グッチ ハンドバッグ，ブライトリング 時計 コピー<br>
+ブルガリ アルミニウム，ジェイコブ 時計 コピー<br>
+シャネル 三つ折財布，ブランド時計コピー - 人気スーパーコピー時計、高級ブランド時<br>
+計偽物通販<br>
+グッチ財布コピー-グッチ財布<br>
+グッチ 長財布コピー激安通販，スーパーレプリカ時計激安ブランド通販<br>
+ルイヴィトン財布 コピー-ヴィトン<br>
 <br>
 <a href=http://www.33watchs.com target=_top>http://www.33watchs.com</a><br>
 <br>
@@ -137,27 +137,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[8383]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> �u�����h�����s�� copysslove.com</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[8383]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> ブランド激安市場 copysslove.com</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2014/03/09 (��) 14:35:19  �u�����h�����s�� copysslove.com </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201403090143519">�ԐM</a>�@�폜<input type=checkbox name="target" value="201403090143519"></font>
+<font size="-1" color="#606060"> 2014/03/09 (日) 14:35:19  ブランド激安市場 copysslove.com </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201403090143519.cgi">返信</a>　削除<input type=checkbox name="target" value="201403090143519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�u�����h�����s�� copysslove.com<br>
-�p�l���C���z2014�N�ō����z.<br>
-2014�V��̓W���C�V�i��ނ�������Ă��܂��I<br>
-���Ђ̏��i�͐�΂̎��M��������܂��B<br>
-�����o�b�O �F�u���_�A�C�[�X�g�A�A�E�g�h�A�A�R�[�`�A�f�B�[�[��<br>
-�������@�z�F�J���e�B�G�A�u���K���A�O�b�`�A�u���_�A�R�[�`<br>
-�������@�v�F�����b�N�X�A�p�l���C�A�V���l��<br>
-����v�戵���i �o�b�O�A���z�A�r���v�A�x���g�I<br>
-���@���Ђ̏��i�͐�΂̎��M��������܂��B<br>
-�������ߐl�C�u�����h�r���v�C �ō��������v��ʓ��ׁI<br>
-��N�i���V���A���t�����L��@�t���i�����I<br>
-�ȏ�@�X�������肢�v���܂��B(�O�O�O�j<br>
-�L���<br>
-�q�����}���Ĕ����܂��I<br>
+<font size=4 color=#000000>ブランド激安市場 copysslove.com<br>
+パネライ財布2014年最高財布.<br>
+2014新作の展示，新品種類がそろっています！<br>
+当社の商品は絶対の自信が御座います。<br>
+◎━バッグ ：ブラダ、イースト、アウトドア、コーチ、ディーゼル<br>
+◎━財　布：カルティエ、ブルガリ、グッチ、ブラダ、コーチ<br>
+◎━時　計：ロレックス、パネライ、シャネル<br>
+★主要取扱商品 バッグ、財布、腕時計、ベルト！<br>
+★　当社の商品は絶対の自信が御座います。<br>
+おすすめ人気ブランド腕時計， 最高等級時計大量入荷！<br>
+★N品質シリアル付きも有り　付属品完備！<br>
+以上　宜しくお願い致します。(＾０＾）<br>
+広大な<br>
+客を歓迎して買います！<br>
 <br>
 <a href=http://www.copyseay.com target=_top>http://www.copyseay.com</a><br>
 <br>
@@ -170,35 +170,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[5735]</font> <font size=4 color=#50d0d0> Re:�T�[�o�[�g���u��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[5735]</font> <font size=4 color=#50d0d0> Re:サーバートラブル</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2013/10/28 (��) 15:01:43  �����炬���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201310281150143">�ԐM</a>�@�폜<input type=checkbox name="target" value="201310281150143"></font>
+<font size="-1" color="#606060"> 2013/10/28 (月) 15:01:43  きさらぎ＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201310281150143.cgi">返信</a>　削除<input type=checkbox name="target" value="201310281150143"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� �Ǘ��l����<br>
-<font color="#cc88ff">> �����Ȃ�n�[�h���̏Ⴕ�āA�܂������N�����Ȃ��Ȃ����̂ł����A<br>
-> �����Ɍ����Ă��܂��ł��傤���H</font><br>
+<font size=4 color=#000000>▼ 管理人さん<br>
+<font color="#cc88ff">> いきなりハードが故障して、まったく起動しなくなったのですが、<br>
+> 無事に見えていますでしょうか？</font><br>
 <br>
-�ُ�̉ӏ����s���Ȃ̂Œf���ł��܂��񂪁A�P���o�������͖��Ȃ��悤�Ɍ����܂��B<br>
+異常の箇所が不明なので断言できませんが、１日経った今は問題ないように見えます。<br>
 <br>
-���A���[���V�X�e���̂ق����m�F���肢���܂��B</font>
+あ、メールシステムのほうも確認お願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[5717]</font> <font size=4 color=#50d0d0> �T�[�o�[�g���u��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[5717]</font> <font size=4 color=#50d0d0> サーバートラブル</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2013/10/27 (��) 16:20:19  �Ǘ��l </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201310270162019">�ԐM</a>�@�폜<input type=checkbox name="target" value="201310270162019"></font>
+<font size="-1" color="#606060"> 2013/10/27 (日) 16:20:19  管理人 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201310270162019.cgi">返信</a>　削除<input type=checkbox name="target" value="201310270162019"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�����Ȃ�n�[�h���̏Ⴕ�āA�܂������N�����Ȃ��Ȃ����̂ł����A<br>
-�����Ɍ����Ă��܂��ł��傤���H</font>
+<font size=4 color=#000000>いきなりハードが故障して、まったく起動しなくなったのですが、<br>
+無事に見えていますでしょうか？</font>
 </td></table>
 </td></tr></table>
 
@@ -208,27 +208,27 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[4683]</font> <font size=4 color=#50d0d0> Re:-- No Subject --</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2013/08/28 (��) 18:09:54  �����炬���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201308283180954">�ԐM</a>�@�폜<input type=checkbox name="target" value="201308283180954"></font>
+<font size="-1" color="#606060"> 2013/08/28 (水) 18:09:54  きさらぎ＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201308283180954.cgi">返信</a>　削除<input type=checkbox name="target" value="201308283180954"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� ������<br>
-���ӌ����肪�Ƃ��������܂��B<br>
+<font size=4 color=#000000>▼ あさん<br>
+ご意見ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt; ����Ȃ�^�c�Ƀ��[���ł�����΂������A</font><br>
-���̓��[���̂ق���SPAM�������̂ŁA�܂������f���Ŏw�E���Ă��ꂽ�ق����C�Â��₷�������肵�܂��B<br>
+<font color="#cc88ff">&gt; 文句なら運営にメールでもすればいいし、</font><br>
+実はメールのほうがSPAMが酷いので、まだしも掲示板で指摘してくれたほうが気づきやすかったりします。<br>
 <br>
-<font color="#cc88ff">&gt; �𗬂Ȃ�SNS�ł��΂���</font><br>
-�����ψ��̈ӌ��ł����A����͉^�p�҂Ƃ��Ă͎^�������˂܂��B<br>
-��җl�Ɠǎҗl��SNS��ł�����オ���Ă����̂͂��肪�������Ƃł����A�^�c���j�Ƃ��ĉ^�p��̏d�v�ȕ����𑼏��ɔC����C�͂���܂���B<br>
-�܂��𗬏ꏊ�Ƃ��Ă̓R�R�ȊO�ɂ����z�f���Ƃ�����̂ł����B<br>
+<font color="#cc88ff">&gt; 交流ならSNSでやればいい</font><br>
+いち委員の意見ですが、これは運用者としては賛同しかねます。<br>
+作者様と読者様がSNS上でも盛り上がってくれるのはありがたいことですが、運営方針として運用上の重要な部分を他所に任せる気はありません。<br>
+まぁ交流場所としてはココ以外にも感想掲示板とかあるのですが。<br>
 <br>
-�Ƃ����킯�ŁA<br>
-<font color="#cc88ff">&gt; �Ǝ҂̍L���΂����Ȃ�A�������N���G�[�^�[�Y�E�t���A�������������X�b�L������Ǝv����ł����ǂ��ł����H</font><br>
-��SPAM�r���̎�i�Ƃ��Ă͗L���ł͂���̂ł��傤���ǁA���ɂł͌��݂̂Ƃ���͎��{�͂��Ȃ����̂ƍl���Ă��܂��B<br>
+というわけで、<br>
+<font color="#cc88ff">&gt; 業者の広告ばっかなら、いっそクリエーターズ・フロア無くした方がスッキリすると思うんですがどうですか？</font><br>
+はSPAM排除の手段としては有効ではあるのでしょうけど、文庫では現在のところは実施はしないものと考えています。<br>
 <br>
-�f���p�~���邭�炢�Ȃ�SPAM�΍��CGI�ɐ��荞�ޕ����œ����������̂ł��B<br>
-���Ԃ�Z�p�͂����ł���B�Ȃ��̂̓A�N�Z�X��i�B</font>
+掲示板廃止するくらいならSPAM対策をCGIに盛り込む方向で動きたいものです。<br>
+たぶん技術はあるんですよ。ないのはアクセス手段。</font>
 </td></table>
 </td></tr></table>
 
@@ -238,51 +238,51 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[4682]</font> <font size=4 color=#50d0d0> -- No Subject --</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2013/08/28 (��) 17:56:52  �� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201308283175652">�ԐM</a>�@�폜<input type=checkbox name="target" value="201308283175652"></font>
+<font size="-1" color="#606060"> 2013/08/28 (水) 17:56:52  あ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201308283175652.cgi">返信</a>　削除<input type=checkbox name="target" value="201308283175652"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>����Ȃ�^�c�Ƀ��[���ł�����΂������A�𗬂Ȃ�SNS�ł��΂���<br>
-�Ǝ҂̍L���΂����Ȃ�A�������N���G�[�^�[�Y�E�t���A�������������X�b�L������Ǝv����ł����ǂ��ł����H</font>
+<font size=4 color=#000000>文句なら運営にメールでもすればいいし、交流ならSNSでやればいい<br>
+業者の広告ばっかなら、いっそクリエーターズ・フロア無くした方がスッキリすると思うんですがどうですか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[4650]</font> <font size=4 color=#50d0d0> ������Ă�̂�SPAM���Ă͔̂߂����̂�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[4650]</font> <font size=4 color=#50d0d0> 賑わってるのがSPAMってのは悲しいので</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2013/08/25 (��) 17:58:47  �����炬���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201308250175847">�ԐM</a>�@�폜<input type=checkbox name="target" value="201308250175847"></font>
+<font size="-1" color="#606060"> 2013/08/25 (日) 17:58:47  きさらぎ＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201308250175847.cgi">返信</a>　削除<input type=checkbox name="target" value="201308250175847"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�Ђ��[���炴�����������Ă������Ă�̂ł����A���肪����܂���˂��c�c<br>
-�@CGI�������đ����r���ł���΂����񂾂��ǁB<br>
+<font size=4 color=#000000>　片っ端からざくざく消してかかってるのですが、きりがありませんねぇ……<br>
+　CGIいじって多少排除できればいいんだけど。<br>
 <br>
-�@�֌W�Ȃ��ł����A�W���������Ăs�r��������ł��ˁB�����������ǁB<br>
-�@���̏T���ɂ��̕���ɂȂ����m�����ɍs���Ă��܂��B</font>
+　関係ないですが、ジョ○ョってＴＳあったんですね。♀→♂だけど。<br>
+　次の週末にその舞台になった杜王町に行ってきます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[4640]</font> <font size=4 color=#50d0d0> ���[�ށB</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[4640]</font> <font size=4 color=#50d0d0> うーむ。</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2013/08/24 (�y) 20:34:12  �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=201308246203412">�ԐM</a>�@�폜<input type=checkbox name="target" value="201308246203412"></font>
+<font size="-1" color="#606060"> 2013/08/24 (土) 20:34:12  ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_201308246203412.cgi">返信</a>　削除<input type=checkbox name="target" value="201308246203412"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�L���̏������݂��������Ƒ������ƁB<br>
-�@�P�^�Q����ՌÒ��������Ă���̂������Ȃ��̂��c�c</font>
+<font size=4 color=#000000>　広告の書き込みが多いこと多いこと。<br>
+　１／２から閑古鳥が泣いているのがいけないのか……</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -290,16 +290,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

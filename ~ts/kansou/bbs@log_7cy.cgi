@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�V�b������@���z�f����</title>
+<title>７Ｃｙさん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�V�b������@���z�f����</font>
+<font size=5>７Ｃｙさん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="7cy">
 <input type=hidden name="nj" value="CTdcuUzL9p">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h nNYJsV  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="nNYJsV"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード nNYJsV  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="nNYJsV"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,33 +44,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[86]</font> <font size=4 color=#40c0c0> Re:����</font>
+<font size=2>[86]</font> <font size=4 color=#40c0c0> Re:私は</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/05 (��) 14:13:10 <strong>��</strong> �V�b�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510053141310&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510053141310"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/05 (水) 14:13:10 <strong>▽</strong> ７Ｃｙ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510053141310_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200510053141310"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �}�R�g����<br>
-<font color="#cc88ff">&gt; ���ʂɐ��]�������݂���΂���ł���TS���Ǝv���܂����ǂˁB<br>
-&gt; �ʂɁuTS�����j�𐬂��Ȃ���΂����Ȃ��v�Ȃ�Č��܂�͂Ȃ��Ǝv���܂����c�c�B</font><br>
+<font size=3 color=#606060>▼ マコトさん<br>
+<font color="#cc88ff">&gt; 普通に性転換が存在すればそれでもうTSだと思いますけどね。<br>
+&gt; 別に「TSが中核を成さなければいけない」なんて決まりはないと思いますし……。</font><br>
 <br>
-���肪�Ƃ��������܂����B���ӌ��Ɋ��Ӓv���܂��B</font>
+ありがとうございました。ご意見に感謝致します。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[85]</font> <font size=4 color=#40c0c0> ����</font>
+<font size=2>[85]</font> <font size=4 color=#40c0c0> 私は</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/02 (��) 05:48:44 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510020054844&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510020054844"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/02 (日) 05:48:44 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510020054844_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200510020054844"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ʂɐ��]�������݂���΂���ł���TS���Ǝv���܂����ǂˁB<br>
-�ʂɁuTS�����j�𐬂��Ȃ���΂����Ȃ��v�Ȃ�Č��܂�͂Ȃ��Ǝv���܂����c�c�B</font>
+<font size=3 color=#606060>普通に性転換が存在すればそれでもうTSだと思いますけどね。<br>
+別に「TSが中核を成さなければいけない」なんて決まりはないと思いますし……。</font>
 <p><a href="http://www.geocities.jp/fantasydreamsjp/index.html" target="_top">http://www.geocities.jp/fantasydreamsjp/index.html</a>
 </td></table>
 </td></tr></table>
@@ -78,93 +78,93 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[84]</font> <font size=4 color=#40c0c0> �����Ł@Re:�ʔ��������̂ł����E�E�E</font>
+<font size=2>[84]</font> <font size=4 color=#40c0c0> 改訂版　Re:面白かったのですが・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/01 (�y) 21:43:42 <strong>��</strong> �V�b�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510016214342&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510016214342"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/01 (土) 21:43:42 <strong>▽</strong> ７Ｃｙ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510016214342_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200510016214342"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� arc����<br>
-<font color="#cc88ff">&gt; �����ǂ����Ă��A���̕��ɂɂ͍����ĂȂ��悤�ȁE�E�E<br>
-&gt; �������̂��Ƃ����ɂ�������Ă���悤�ɁA���̕��ɂɓ��e���ꂽ���_��TS���Ƃ��Ă͂R���Ƃ�����̂ł́B<br>
-&gt; ���̍�i���̕����Ȃ߂Ă������͂Ȃ��A�ނ���ʔ����Ǝv�����ʂȂ̂ł����A�ǂ����Ă�<br>
-&gt; �u��Ⴂ�v�I�Ȉ�ۂ����󂯂܂���ł����B</font><br>
+<font size=3 color=#606060>▼ arcさん<br>
+<font color="#cc88ff">&gt; ただどうしても、この文庫には合ってないような・・・<br>
+&gt; ご自分のあとがきにも書かれているように、この文庫に投稿された時点でTS物としては３流といえるのでは。<br>
+&gt; この作品その物を貶めているつもりはなく、むしろ面白いと思った位なのですが、どうしても<br>
+&gt; 「場違い」的な印象しか受けませんでした。</font><br>
 <br>
-���݂܂���A�O����i�Ƃ�����ƁA���ɂ͐����_�ߌ��t�ɕ������Ă��܂��܂��B�ƁA�������A����A����������Ⴂ�����Ӑ}�I�ɑ_���Ă܂����A���߂�Ȃ����B�����������͔P�����҂Ȃ̂ŁA��{�I�ɏ�Ⴂ�n�̍�i������������ɑ_���Ă���悤�ȋC�����܂��B���A���Ȃ݂ɁA�l�l�̋�q�G���r���A���Ƃ����Ǝ��ɂ͗ǂ������Ă���܂���B<br>
-���B�\�\�\<br>
+すみません、三流作品といわれると、私には凄く誉め言葉に聞こえてしまいます。と、いうか、今回、そういう場違いさを意図的に狙ってました、ごめんなさい。そもそも私は捻くれ作者なので、基本的に場違い系の作品を書く事を常に狙っておるような気もします。あ、ちなみに、人様の仰る〈萌え〉が、実というと私には良く判っておりません。<br>
+が。———<br>
 <br>
-<font color="#cc88ff">&gt; �����������̓_���C�����ĖႦ��΁A���ꂱ�����̕ӂ�ɂł��u�����TS���Ƃ͗y���ɂ�������Ă܂��v�ƁA�ꌾ�ł�����΂悩�����̂ł����B<br>
-&gt; �c�O�Ȏ��ɁATS����ǂނ���ł������Ƃ��ẮA�Ō�܂ŏW�����ēǂނ��Ƃ��o�����A�s�����c����̂ƂȂ��Ă��܂��܂����B<br>
-&gt; ���̂�\�����f���炵�����������āA����͖{���ɐɂ�������������i���Ǝv���܂��B</font><br>
+<font color="#cc88ff">&gt; もう少しその点を気遣って貰えれば、それこそ頭の辺りにでも「これはTS物とは遥かにかけ離れてます」と、一言でもあればよかったのですが。<br>
+&gt; 残念な事に、TS物を読むつもりでいた私としては、最後まで集中して読むことが出来ず、不満が残るものとなってしまいました。<br>
+&gt; 文体や表現が素晴らしいだけあって、これは本当に惜しい事をした作品だと思います。</font><br>
 <br>
-���ӌ��Ɋ��ӁB����A�}�W�Ɋ��ӂł��B<br>
-���e�K���Ɂw�Ⴆ�΁A�ꌩ�������ʂ̒j���̃��u�R���Ɍ������i�ŁA���b�̈�ԃ��X�g�ŏ��̎q���u���͂킽���A��N�O�ɐ��]����p���Ă��́I�v�ƍ��������Ƃ��܂��B���ꂾ���ŁA���̍�i�ɂ́u�ϐg�v�u��p�v�Ƃ������ڂ����킯�ł��ˁB�i�΁j�x�Ƃ���̂ŁA�ǂ��A�܂��s�r���Ƃ��Ă̏����̓N���A�[�I�I�@���炢�̃m���œ��e���܂������A���x����A�W�������ꗗ�Ɂw�F���s�r�x�ƕ\�L���邱�Ƃɂ��܂��B<br>
-����Ȗ�ŁA����A���̓��e��i�Ɂw�F���s�r�x�Ƃ������ꍇ�A���̎�̃m���n���Ǝv���Ă���������ƗL���ł��B<br>
-�c�c����łǂ��ł��傤���H<br>
+ご意見に感謝。いや、マジに感謝です。<br>
+投稿規程に『例えば、一見ごく普通の男女のラブコメに見える作品で、お話の一番ラストで女の子が「じつはわたし、一年前に性転換手術してたの！」と告白したとします。これだけで、この作品には「変身」「医術」という項目が立つわけですね。（笑）』とあるので、良し、まあＴＳ物としての条件はクリアー！！　くらいのノリで投稿しましたが、今度から、ジャンル一覧に『色物ＴＳ』と表記することにします。<br>
+そんな訳で、今後、私の投稿作品に『色物ＴＳ』とあった場合、この手のノリ系だと思っていただけると有り難いです。<br>
+……それでどうでしょうか？<br>
 <br>
 <br>
-���ƂȂ��v�������̂Ł\�\�Ƃ������A�P���ɋ^��Ȃ�ł����\�\�ǐL�B<br>
-<font color="#ff88cc">�������TS���Ƃ͗y���ɂ�������Ă܂�</font><br>
-���e�K���⎩���̊��o�ɏƂ炵���킹�Ă݂�ƁA�s�r�����l���e���Ɉ�l�ł��A�������Ƃł��o�Ă�����A����ł��̍�i�̂s�r���Ƃ��Ẵt���O�͏\���ɐ��藧�C�������ł����A���̕ӁA�命���l�ӌ��Ƃ��Ă͔@���ȕ��Ȃ̂ł��傤���H<br>
-�h�s�r���Ɨy���ɂ�������Ă���h�Ƃ����\�������藧���ɂ́A�s�r���͂����R��ׂ��ł���Ƃ�����������̑O��A��΂݂����ȕ������݂��Ȃ���΂Ȃ�Ȃ����ŁA�Ȃ�΁A���ꂪ�ǂ������㕨�ł���̂��H�@�����m�肽���Ƃ����������A���̗��ɂӂӂƗN���N�����Ă����肵�܂��B<br>
-����Ȗ�ŁA���̏���؂�Ăs�r���D���̕s���葽���̊F�l�Ɉ�̎���B���΂�A�ɂȂ�A�w���Ȃ��̍l����s�r���͂����ł���ׂ�����`�x�𐥔�ɔM���������������܂��B</font>
+何となく思いついたので——というか、単純に疑問なんですが——追伸。<br>
+<font color="#ff88cc">＞これはTS物とは遥かにかけ離れてます</font><br>
+投稿規程や自分の感覚に照らし合わせてみると、ＴＳした人が脇役に一人でも、ちょろっとでも出てきたら、それでその作品のＴＳ物としてのフラグは十分に成り立つ気がするんですが、その辺、大多数様意見としては如何な物なのでしょうか？<br>
+”ＴＳ物と遥かにかけ離れている”という表現が成り立つ裏には、ＴＳ物はこう然るべきであるという何かしらの前提、定石みたいな物が存在しなければならない筈で、ならば、それがどういう代物であるのか？　凄く知りたいという興味が、私の裡にふつふつと湧き起こってきたりします。<br>
+そんな訳で、この場を借りてＴＳ物好きの不特定多数の皆様に一つの質問。ずばり、暇なら、『あなたの考えるＴＳ物はこうであるべきだ定義』を是非に熱くご教示下さいまし。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[83]</font> <font size=4 color=#40c0c0> �ʔ��������̂ł����E�E�E</font>
+<font size=2>[83]</font> <font size=4 color=#40c0c0> 面白かったのですが・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/01 (�y) 19:16:17 <strong>��</strong> arc </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510016191617&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510016191617"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/01 (土) 19:16:17 <strong>▽</strong> arc </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510016191617_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200510016191617"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ǂ����Ă��A���̕��ɂɂ͍����ĂȂ��悤�ȁE�E�E<br>
-�������̂��Ƃ����ɂ�������Ă���悤�ɁA���̕��ɂɓ��e���ꂽ���_��TS���Ƃ��Ă͂R���Ƃ�����̂ł́B<br>
+<font size=3 color=#606060>ただどうしても、この文庫には合ってないような・・・<br>
+ご自分のあとがきにも書かれているように、この文庫に投稿された時点でTS物としては３流といえるのでは。<br>
 <br>
-���̍�i���̕����Ȃ߂Ă������͂Ȃ��A�ނ���ʔ����Ǝv�����ʂȂ̂ł����A�ǂ����Ă�<br>
-�u��Ⴂ�v�I�Ȉ�ۂ����󂯂܂���ł����B<br>
+この作品その物を貶めているつもりはなく、むしろ面白いと思った位なのですが、どうしても<br>
+「場違い」的な印象しか受けませんでした。<br>
 <br>
-�����������̓_���C�����ĖႦ��΁A���ꂱ�����̕ӂ�ɂł��u�����TS���Ƃ͗y���ɂ�������Ă܂��v�ƁA�ꌾ�ł�����΂悩�����̂ł����B<br>
-�c�O�Ȏ��ɁATS����ǂނ���ł������Ƃ��ẮA�Ō�܂ŏW�����ēǂނ��Ƃ��o�����A�s�����c����̂ƂȂ��Ă��܂��܂����B<br>
+もう少しその点を気遣って貰えれば、それこそ頭の辺りにでも「これはTS物とは遥かにかけ離れてます」と、一言でもあればよかったのですが。<br>
+残念な事に、TS物を読むつもりでいた私としては、最後まで集中して読むことが出来ず、不満が残るものとなってしまいました。<br>
 <br>
-���̂�\�����f���炵�����������āA����͖{���ɐɂ�������������i���Ǝv���܂��B</font>
+文体や表現が素晴らしいだけあって、これは本当に惜しい事をした作品だと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[82]</font> <font size=4 color=#40c0c0> Re:���~�}�V�^</font>
+<font size=2>[82]</font> <font size=4 color=#40c0c0> Re:ヨミマシタ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/28 (��) 16:19:44 <strong>��</strong> �V�b�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509283161944&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509283161944"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/28 (水) 16:19:44 <strong>▽</strong> ７Ｃｙ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509283161944_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200509283161944"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���{�C����<br>
-<font color="#cc88ff">&gt; �����B<br>
-&gt; ���u����ɂ���������c</font><br>
+<font size=3 color=#606060>▼ 日本海さん<br>
+<font color="#cc88ff">&gt; 合掌。<br>
+&gt; 剛志くんにご冥福あれ…</font><br>
 <br>
-�����͒j�̘Q���ł��B������ꏏ�ɐ����̂����ꂽ���Ȃ�A���ɁA�D�������������C���B�j�āA���̐��̗��̈ꗢ�ˁA�߂ł���������A�߂ł������Ȃ��B�c�c�Ӗ��s���B</font>
+爆死は男の浪漫です。それも一緒に逝くのが惚れた女なら、正に、好い日旅立ち夢気分。嗚呼、あの世の旅の一里塚、めでたくもあり、めでたくもなし。……意味不明。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[81]</font> <font size=4 color=#40c0c0> ���~�}�V�^</font>
+<font size=2>[81]</font> <font size=4 color=#40c0c0> ヨミマシタ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/25 (��) 14:30:59 <strong>��</strong> ���{�C </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509250143059&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509250143059"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/25 (日) 14:30:59 <strong>▽</strong> 日本海 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509250143059_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200509250143059"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����B<br>
-���u����ɂ���������c<br>
+<font size=3 color=#606060>合掌。<br>
+剛志くんにご冥福あれ…<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -172,55 +172,55 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[80]</font> <font size=4 color=#40c0c0> �j�I�I�@�����A���̊Ԃɂ��A�I�A����</font>
+<font size=2>[80]</font> <font size=4 color=#40c0c0> 祝！！　おお、いつの間にか、鯖、復活</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/25 (��) 05:50:38 <strong>��</strong> �V�b�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509250055038&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509250055038"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/25 (日) 05:50:38 <strong>▽</strong> ７Ｃｙ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509250055038_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200509250055038"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���򖗂Ɋւ��ā��̎l���l�A���z���肪�Ƃ��������܂��B�V���[�Y���̑����������Ȃ��̂ŁA����Ȃ̑ʖڂ��낤�Ǝv���Ȃ�����C���]���ɓ��e�����Ė������ł����A�ӊO��l�����̕��ɔ����������Ă��炦�Ċ������ł��B<br>
+<font size=3 color=#606060>血飛沫に関して↓の四名様、感想ありがとうございます。シリーズ物の続きが書けないので、こんなの駄目だろうと思いながらも気分転換に投稿させて貰ったんですが、意外や四名もの方に反応を見せてもらえて嬉しいです。<br>
 <br>
-<font color="#ff88cc">�����_�[�NSS�A�����Ĉ�l�œ����q�[���[(�q���C��)�͂킽���͑�D���ł��B�����C���X�g���Ȃ��͎̂c�O�ł��ˁB�q�[���[(�q���C��)�̊�͂ǂ����Ă��q���������ł�����B</font><br>
-�����ł͐F����i���ƍl���Ă�������ł����A����ȕ��ł��_�[�N�n���Ƃ����ĖႦ��̂ł��ˁB�C���X�g�ł����c�c���̊ԁA�����ɉƂ̑n���Ɨp�̃{���o�b�ɃX�L���i�[���q���ł݂���t���[�Y���Ă��܂��܂����B�y���e�B�A���Q�R�R�A���C���������U�S�̃}�V���ɐF�X������͍̂��Ȃ悤�ł��B�Ƃ����܂����A����ȃC���X�g�𓯕����Ė����󂷂����A�F�l�Ɏ�l���̊�����D���Ȃ悤�ɑz�����Ē�������������ȋC�͂����ł����B�����A���������A���X�Ȃ���ɊG�I�ɂ́w�S�鎛���x�搶���D���ȂƏ���Ɏv��������������Ă܂��B<br>
+<font color="#ff88cc">＞超ダークSS、そして一人で闘うヒーロー(ヒロイン)はわたしは大好きです。ただイラストがないのは残念ですね。ヒーロー(ヒロイン)の顔はどうしても拝見したいですから。</font><br>
+自分では色物作品だと考えておったんですが、こんな物でもダーク系だといって貰えるのですね。イラストですか……この間、試しに家の創作作業用のボロＰＣにスキャナーを繋いでみたらフリーズしてしまいました。ペンティアム２３３、メインメモリ６４のマシンに色々させるのは酷なようです。といいますか、下手なイラストを同封して夢を壊すよりも、皆様に主人公の顔をお好きなように想像して頂いた方が無難な気はするんですが。ああ、そうそう、今更ながらに絵的には『鬼城寺健』先生も好いなと勝手に思いだしたりもしてます。<br>
 <br>
-<font color="#ff88cc">���o�C�I�ӂ�̉e�����A�]���r�͍ŋߐ���Ԃ��Ă��Ă܂���ˁB�͂��n�̃]���r���ǂ��ł����A�h�[���E�I�u�E�U�E�f�b�h�Ƃ��A�����h�E�I�u�E�U�E�f�b�h�Ƃ��̌ÓT�]���r�n���������Ă��Ă���̂�����������ł��B����͂Ƃ������s�r�ƃ]���r�̑g�ݍ��킹�͒������ł��ˁB�I�������A���̎�̃_�[�N�n��i�ɂӂ��킵�������ŗǂ������Ǝv���܂��B�f��̃����V�[����؂������悤�Ȋ����ł��ˁB���̍�i�̗��ŁA�^�̎�l�������肪��������萶���c���Ă������ȋC�����܂����B</font><br>
-�o�C�I�͂�������ƂȂ���ł����ǂˁB�Q�[���I�ȃC���[�W�ł́A�����A�i���R�́w�X�v���b�^�[�n�E�X�x�ł��ˁA�R�������Ă鎞�Ɉӎ������̂́B�h�[���͂��̈����݂����ɑ吨�̎r�ҒB���w���z�ɂق���x�̂n�o���݂ɑS�͎�������p�����Ɋ����I�i�H�j�ł����ˁB�����h�͐i������z���]��ɏ��ȉ߂�������Ċ����ł������B�ÓT��i�Ŏ����D���Ȃ̂́A��͂胍�����́w������r�����̖閾���i�]���r�j���`�̓��i����̂������j�x�A�܂��́w�T���Q���A�x������ł��傤���H�@���Ƀ������E�]���r�͗��ĘU����n�Ƃ��Ă͍ō��̏o���ł��ˁB�]�k�ł����A�q���̎��ɃA�������Ƃ��A�u�����Ȃ��A�f�p�[�g�̒��̕����D���ɏo���āv�Ƃ������A�݂܂����B�܁A���ތn�Ƃ��ẮA���̂��f�G�ȁw���C�_�[�X�E����ꂽ�]���r�x��A�Ō�ɐ�����̓G���Ȃ���ɋ��剻���ĕ������Ă���{�X�E�]���r�̎p�Ɉ��R�Ƃ��Ă��܂��w�u���C���f�b�h�x�Ȃ񂩂�������ł����ˁB���Ȃ݂ɁA���l�Ƃ̐퓬���Ƃ��ẮA���l�����́w�z����r�x�����������ł��ˁB���āA�R���͉f��̂P�V�[���������Ȃ�ł����A��芸�����́w�ٌ`�R���N�V�����x���^��i�ۂ����Ă̂������ł͈ӎ����Ă��悤�ȋC�����܂��B����ȏ㓙�ȕ��ł͂Ȃ��̂ł����B<br>
+<font color="#ff88cc">＞バイオ辺りの影響か、ゾンビは最近盛り返してきてますよね。はやり系のゾンビも良いですが、ドーン・オブ・ザ・デッドとか、ランド・オブ・ザ・デッドとかの古典ゾンビ系が復興してきているのが嬉しい限りです。それはともかくＴＳとゾンビの組み合わせは珍しいですね。終わり方も、この手のダーク系作品にふさわしい感じで良かったと思います。映画のワンシーンを切り取ったような感じですね。この作品の裏で、真の主人公あたりがちゃっかり生き残っていそうな気がしました。</font><br>
+バイオはやったことないんですけどね。ゲーム的なイメージでは、多分、ナムコの『スプラッターハウス』ですね、コレ書いてる時に意識したのは。ドーンはあの阿呆みたいに大勢の屍者達が『太陽にほえろ』のＯＰ並みに全力疾走する姿が実に感動的（？）でしたね。ランドは進化する奴が余りに少な過ぎだろって感じでしたが。古典作品で私が好きなのは、やはりロメロの『生きる屍たちの夜明け（ゾンビ）＆〜の日（死霊のえじき）』、または『サンゲリア』あたりでしょうか？　特にロメロ・ゾンビは立て篭もり系としては最高の出来ですね。余談ですが、子供の時にアレ見たとき、「いいなぁ、デパートの中の物を好きに出来て」とか凄く羨みました。ま、莫迦系としては、主題歌が素敵な『レイダース・失われたゾンビ』や、最後に戦隊物の敵さながらに巨大化して復活してくるボス・ゾンビの姿に唖然としてしまう『ブレインデッド』なんかがいいんですがね。ちなみに、死人との戦闘物としては、同人小説の『吸血大殲』が凄くいいですね。さて、コレは映画の１シーンもそうなんですが、取り敢えずは『異形コレクション』収録作品ぽさってのも自分では意識してたような気がします。そんな上等な物ではないのですが。<br>
 <br>
-<font color="#ff88cc">���w���n���@���򖗑��r�x��ǂ݂܂����B����i�ɂ͕s�{�ӂȓ_���������Ƃ̂��Ƃł����A�u�O���e�X�N�v��`�����Ƃ����������͂������肳��Ă����̂ł͂Ȃ��ł��傤���B�����s�r�ɕK�R���������Ȃ��Ȃ�΁A�s�r�Ƃ������̂ɐ��ރO���e�X�N���𐷂荞�ނƂ����̂�������Ȃ��B</font><br>
-�ǂ����B�R���͑����A�{�l�I�ɂ́A���s�Ɛl�̉�̂Ƒ����T���U�炵�����������ď������̂��Ǝv���܂��B�҂��R���A�^���̌f���Œm�l�Ɓu��������o���ꂽ�͂�킽�͖G����v�ȂǂƑΒk������ɁA���Ⴀ����Ă��Ƃŏ����n�߂��L��������܂��B�c�c�ŁA�b�ς���āA�O���e�X�N�Ȃs�r�V�[���A����Ă݂����ł��ˁB�j�̐g�̂��o���X�X�ɉ�̂�����ɏ��Ƃ��čč\�z��������Ă̂͊��ɏ������̂�����̂ŁA������@�����Γ��e�������ȁA�Ƃ͎v���Ă܂��B�[���A�蒼�����܂��S�R�Ȃ�ł����i����Ȃ̂΂����ł���j�B<br>
+<font color="#ff88cc">＞『悶絶地獄　血飛沫大作殲』を読みました。今作品には不本意な点があったとのことですが、「グロテスク」を描こうという方向性はしっかりされていたのではないでしょうか。もしＴＳに必然性を感じないならば、ＴＳというものに潜むグロテスクさを盛り込むといいのかもしれない。</font><br>
+どうも。コレは多分、本人的には、腐敗と人体解体と臓物撒き散らしが書きたくて書いたのだと思われます。慥かコレ、某所の掲示板で知人と「引き摺り出されたはらわたは萌える」などと対談した後に、じゃあ一つってことで書き始めた記憶があります。……で、話変わって、グロテスクなＴＳシーン、やってみたいですね。男の身体をバラ々々に解体した後に女として再構築させるってのは既に書いたのがあるので、いずれ機会があれば投稿したいな、とは思ってます。つーか、手直しがまだ全然なんですが（そんなのばっかですわ）。<br>
 <br>
-<font color="#ff88cc">���]���r�D���Ȃ�ł����ǁA�]���r�̂�����芴�A���킶�튴���ď�������Ȃ��Ȃ��������ɂ����ł��ˁB�܂��A���������̂����肩�ȂƎv���܂����B����Ə����Ƃ��ẮA�قƂ�ǓƔ��ɋ߂����̂������āA����̍����Ȃǂ������Ȃ��̂��A�P�Ȃ�X�v���b�^���̂ɂ�������Ă�̂��ȂƎv���܂��B��������肩������܂��񂯂ǁB</font><br>
-����ϐ�����r�҂����ɂ́A�̂�т肪�������܂��ˁB�S�͎����͂ˁA�ǂ����A���C�߂��܂��ˁA�n�C�B����A����Ȃ���A�����Ƃ��̐l�̃p�[�c���T���U�炵�Ă����̂Ȃ�A����͂���ŁA���ጋ�\�G�����Ǝv����ł����ˁB�����A����ƁA�R�����������A�z���[�������C�Ƃ��͂܂������Ȃ������c�c�Ƃ������A�X�v���b�^�[��i�͂���ρA�債���X�g�[���[�Ȃ��Ȃ��āA�����Ȃ炵�������݂����ɒW�X�Ɛl�̂�؍��ނ������Ă̂���������Ȃ��ċC�����܂��񂩁H�@���Ȃ݂ɁA�X�v���b�^�[�f��ƃz���[�f��͈Ⴄ�����낤���Ă̂��A�����I�Ȋ��o�ł��B���͒E�͌n�z���[�����������ł���B����ƁA�ǂ��ł��������Ƃł����A�ŋ߂��S���Ȃ�ɂȂ��Ă��܂����d�������Ɓw����܂�ށx�搶�i�ʁ[�ׁ[�̗d���̌��l�^�͂��̂��l�́w�d���V���x�Ȃ񂶂�Ȃ����ȁA�Ǝv���Ă���܂��j�́w����!!�L�r�S�i�j�����V�[�j�̊X�x���r���}���K�Ƃ��Ă͂��Ȃ肢�������̂��b�ł���܂��B</font>
+<font color="#ff88cc">＞ゾンビ好きなんですけど、ゾンビのゆったり感、じわじわ感って小説じゃなかなか現しくにくいですね。まぁ、こういうのもありかなと思いました。それと小説としては、ほとんど独白に近いものがあって、感情の錯綜などが見られないのが、単なるスプラッタものにしちゃってるのかなと思います。それもありかもしれませんけど。</font><br>
+やっぱ生ける屍者たちには、のんびりが似合いますね。全力疾走はね、どうも、元気過ぎますね、ハイ。いや、走りながら、内臓とかの人体パーツを撒き散らしてくれるのなら、それはそれで、私ゃ結構萌えれると思うんですがね。ああ、それと、コレを書く時、ホラーを書く気とかはまったくなかった……というか、スプラッター作品はやっぱ、大したストーリーなぞなくて、汚たならしく阿呆みたいに淡々と人体を切刻むだけってのが王道だろなって気がしませんか？　ちなみに、スプラッター映画とホラー映画は違う物だろうってのが、自分的な感覚です。次は脱力系ホラーが書きたいですわ。それと、どうでもいいことですが、最近お亡くなりになられてしまった妖怪研究家『白川まり奈』先生（ぬーべーの妖怪の元ネタはこのお人の『妖怪天国』なんじゃないかな、と思っております）の『怪奇!!猫屍鬼（ニャンシー）の街』が屍物マンガとしてはかなりいい感じのお話であります。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[79]</font> <font size=4 color=#40c0c0> ���n���@���򖗑��r</font>
+<font size=2>[79]</font> <font size=4 color=#40c0c0> 悶絶地獄　血飛沫大作殲</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/21 (��) 12:01:58 <strong>��</strong> ����� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509213120158&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509213120158"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/21 (水) 12:01:58 <strong>▽</strong> くるま </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509213120158_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200509213120158"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���_�[�NSS�A�����Ĉ�l�œ����q�[���[(�q���C��)�͂킽���͑�D���ł��B�����C���X�g���Ȃ��͎̂c�O�ł��ˁB�q�[���[(�q���C��)�̊�͂ǂ����Ă��q���������ł�����B</font>
+<font size=3 color=#606060>超ダークSS、そして一人で闘うヒーロー(ヒロイン)はわたしは大好きです。ただイラストがないのは残念ですね。ヒーロー(ヒロイン)の顔はどうしても拝見したいですから。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[78]</font> <font size=4 color=#40c0c0> �q�����܂����B</font>
+<font size=2>[78]</font> <font size=4 color=#40c0c0> 拝見しました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/20 (��) 06:24:50 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509202062450&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509202062450"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/20 (火) 06:24:50 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509202062450_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200509202062450"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�o�C�I�ӂ�̉e�����A�]���r�͍ŋߐ���Ԃ��Ă��Ă܂���ˁB�͂��n�̃]���r���ǂ��ł����A�h�[���E�I�u�E�U�E�f�b�h�Ƃ��A�����h�E�I�u�E�U�E�f�b�h�Ƃ��̌ÓT�]���r�n���������Ă��Ă���̂�����������ł��B<br>
-�@����͂Ƃ������s�r�ƃ]���r�̑g�ݍ��킹�͒������ł��ˁB�I�������A���̎�̃_�[�N�n��i�ɂӂ��킵�������ŗǂ������Ǝv���܂��B�f��̃����V�[����؂������悤�Ȋ����ł��ˁB���̍�i�̗��ŁA�^�̎�l�������肪��������萶���c���Ă������ȋC�����܂����B</font>
+<font size=3 color=#606060>　バイオ辺りの影響か、ゾンビは最近盛り返してきてますよね。はやり系のゾンビも良いですが、ドーン・オブ・ザ・デッドとか、ランド・オブ・ザ・デッドとかの古典ゾンビ系が復興してきているのが嬉しい限りです。<br>
+　それはともかくＴＳとゾンビの組み合わせは珍しいですね。終わり方も、この手のダーク系作品にふさわしい感じで良かったと思います。映画のワンシーンを切り取ったような感じですね。この作品の裏で、真の主人公あたりがちゃっかり生き残っていそうな気がしました。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
@@ -231,17 +231,17 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[77]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/20 (��) 02:47:01 <strong>��</strong> �L�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509202024701&log=7cy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509202024701"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/20 (火) 02:47:01 <strong>▽</strong> 猫野 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509202024701_log_7cy.cgi">返信</a>　削除<input type=checkbox name="target" value="200509202024701"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060> �w���n���@���򖗑��r�x��ǂ݂܂����B����i�ɂ͕s�{�ӂȓ_���������Ƃ̂��Ƃł����A�u�O���e�X�N�v��`�����Ƃ����������͂������肳��Ă����̂ł͂Ȃ��ł��傤���B�����s�r�ɕK�R���������Ȃ��Ȃ�΁A�s�r�Ƃ������̂ɐ��ރO���e�X�N���𐷂荞�ނƂ����̂�������Ȃ��B</font>
+<font size=3 color=#606060> 『悶絶地獄　血飛沫大作殲』を読みました。今作品には不本意な点があったとのことですが、「グロテスク」を描こうという方向性はしっかりされていたのではないでしょうか。もしＴＳに必然性を感じないならば、ＴＳというものに潜むグロテスクさを盛り込むといいのかもしれない。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="7cy">
@@ -249,16 +249,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="7cy">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=7cy">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_7cy.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,58 +52,58 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�_��
+神社
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�W���������Y����</center><tr>
+<center>作者：ジョン万次郎さん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-���͍��Z�̋A��A���]�Ԃœc���n�т��������Ă����B�����_���傫���L�сA�������ӂ񂾂�Ɋ܂񂾕�����̗t��h�炷�B<br>�u�܂����c�v<br>���͂Ђǂ��A�ӂɏP���Ă����B���������ӂɕ֏��͂Ȃ��B��������񂷂�ɂ��Ԃ������A���̂����n�����܂ł���������̂͂Ȃ��B<br>�����䖝�̌��E�ɒB�����Ƃ��A�c��ڂ̐^�񒆂ɖؗ����������B�������A�������ɐ_�Ђ�����񂾁B<br>���͒����Ɏ��]�Ԃ����̂ċ����ɓ������B���O�֏��́c<br>�u�Ȃ�!!�v<br>���͖{�a�̗��ɉ�����B����Ȗ؁X���e�ɂȂ��Ă���B�����������Ă���̂͒n���������B<br>���̓`���b�N���������A�����B<br>�͂��[�A�ƈ��g����B���̏u�Ԃ������B�҂����ƕ��A����~�����B��������߂��B<br>�u�����҂߁A�Ȃ񂽂���s��!!!�v<br>���͏k�ݏオ�����B<br>�u��x�ƍs���Ȃ��悤�ɂ��Ă��v<br>�s�J�b�A��ɑM��������B�����ĉ��̎�̒��ɂ������A�\�R���A�k��ł����ł͂Ȃ����B�����Ĕ�Ⴗ��悤�ɋ����c���ł����B<br>�u�����������v<br>���͓]��Ō��̒n���ɓ����Ԃ����B<br><br><br>�Ђ�[�Ђ�����<br>�R���̖���������B�������Ɩڂ��J����B����΂����󂵂Ă���B<br>�������ƋN���オ��B�����̖c��񂾋��c�A���̉��̑сA�����������B<br>�u�ȁA�Ȃ񂶂Ⴑ����!!!�v<br>���̂��̐��́A�ڑO�ɍL����A���̗��X�тւƏ����Ă������B�����ĐU��Ԃ�ƁA�^�V�����{�a�������A�������Ɠ����悤�ɒ������Ă����B<br><br>�����܂��B
+俺は高校の帰り、自転車で田園地帯を疾走していた。入道雲が大きく伸び、水分をふんだんに含んだ風が稲の葉を揺らす。<br>「まずい…」<br>俺はひどい尿意に襲われていた。しかし周辺に便所はない。たちしょんするにも車が多く、そのうえ地平線までさえぎるものはない。<br>もう我慢の限界に達したとき、田んぼの真ん中に木立を見つけた。そうだ、あそこに神社があるんだ。<br>俺は鳥居に自転車を乗り捨て境内に入った。公衆便所は…<br>「ない!!」<br>俺は本殿の裏に回った。巨大な木々が影になっている。こっちを見ているのは地蔵だけだ。<br>俺はチャックを下げ放尿した。<br>はぁー、と安堵する。その瞬間だった。ぴたっと放尿が停止した。風がざわめく。<br>「愚か者め、なんたる愚行か!!!」<br>俺は縮み上がった。<br>「二度と行えないようにしてやる」<br>ピカッ、空に閃光が走る。そして俺の手の中にあったアソコが、縮んでいくではないか。そして比例するように胸が膨らんでいく。<br>「うあぁぁぁ」<br>俺は転んで後ろの地蔵に頭をぶつけた。<br><br><br>ひゅーひょろろろろ<br>山鳥の鳴き声がする。ゆっくりと目を開ける。上空を鳶が滑空している。<br>ゆっくりと起き上がる。自分の膨らんだ胸…、その下の帯、小袖が乱れる。<br>「な、なんじゃここは!!!」<br>俺のその声は、目前に広がる、霞の立つ森林へと消えていった。そして振り返ると、真新しい本殿だけが、さっきと同じように鎮座していた。<br><br>おしまい。
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�W���������Y
+ジョン万次郎
 </address>
-2004�N07��12��(��) 17��56��20�b ���J<br>
+2004年07月12日(月) 17時56分20秒 公開<br>
 <!--219.191.62.70-->
-<font color=red>�����̍�i�̒��쌠�̓W���������Y����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はジョン万次郎さんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-������A14��!!!����ǂ�10���ザ�႟��
+よっし、14分!!!こんどは10分代じゃぁぁ
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�͂��`�I�I�������M�ŁB<BR>�ł��z���g�ɂ���Ȃ��Ƃ������肵�����B</td>
-<td>酉J</td>
-<td width=20%>��2004-07-13 22:46:13</td>
+<td style=font-size:10pt>はぁ〜！！早い執筆で。<BR>でもホントにそんなことあったりしそう。</td>
+<td>驟雨</td>
+<td width=20%>■2004-07-13 22:46:13</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�����̂��΂ɂ͂������悤��</td>
-<td>����</td>
-<td width=20%>��2004-07-12 23:02:53</td>
+<td style=font-size:10pt>うちのそばにはあったような</td>
+<td>かさ</td>
+<td width=20%>■2004-07-12 23:02:53</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�_�Ђɒn�����ėL��܂��������H<BR>�Ƃ肠���������̎��ӂ̐_�Ђɂ͖�����ł����c<BR></td>
+<td style=font-size:10pt>神社に地蔵って有りましたっけ？<BR>とりあえずうちの周辺の神社には無いんですが…<BR></td>
 <td>M</td>
-<td width=20%>��2004-07-12 20:47:28</td>
+<td width=20%>■2004-07-12 20:47:28</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -111,24 +111,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20040712175620">
 <input type=hidden name="num_r" value="20040712175620">
 <input type=hidden name="url" value="">
@@ -144,17 +144,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20040712175620">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -164,9 +164,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

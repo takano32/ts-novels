@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���ƂԂ��Ђ��� &amp; NDCSS�����i���z�f����</title>
+<title>ことぶきひかる &amp; NDCSSさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���ƂԂ��Ђ��� &amp; NDCSS�����i���z�f����</font>
+<font size=5>ことぶきひかる &amp; NDCSSさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kotobuki_hikaru_ndcss">
 <input type=hidden name="nj" value="4n2DlofepA">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h zCpc1W  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="zCpc1W"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード zCpc1W  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="zCpc1W"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,14 +44,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �������A�t���[�X���[�E�E�E�E</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> ワンモアフリースロー・・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/06 (��) 13:52:37 <strong>��</strong> �䂸 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502060135237&log=kotobuki_hikaru_ndcss">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502060135237"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/06 (日) 13:52:37 <strong>▽</strong> ゆず </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502060135237_log_kotobuki_hikaru_ndcss.cgi">返信</a>　削除<input type=checkbox name="target" value="200502060135237"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ƂĂ��y���������ł����E�E�E</font>
+<font size=3 color=#606060>とても楽しい小説でした・・・</font>
 </td></table>
 </td></tr></table>
 
@@ -61,42 +61,42 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[2]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/15 (�y) 15:23:43 <strong>��</strong> �䂤�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405156152343&log=kotobuki_hikaru_ndcss">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405156152343"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/15 (土) 15:23:43 <strong>▽</strong> ゆうこ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405156152343_log_kotobuki_hikaru_ndcss.cgi">返信</a>　削除<input type=checkbox name="target" value="200405156152343"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������̎q�ɐ��肽����[�B</font>
+<font size=3 color=#606060>私も女の子に成りたいわー。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �����ƁA�u�����N���E�E�E�v�ǂ݂܂���</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> ざっと、「美少年も・・・」読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/04 (��) 18:39:55 <strong>��</strong> eeeee </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401040183955&log=kotobuki_hikaru_ndcss">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401040183955"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/04 (日) 18:39:55 <strong>▽</strong> eeeee </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401040183955_log_kotobuki_hikaru_ndcss.cgi">返信</a>　削除<input type=checkbox name="target" value="200401040183955"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂��A��������Ȃ��ݒ�B�C�ɂȂ�̂́A�܂��]���ȁw�A�x�̏o���A�w�A�C�x�̍��݁A�w�B�v�x�B����ɁA�q���C�����₩�̖��O���R��ޏo�Ă������ƁB<br>
-�����Ƃ��ẮA�����ƕM�́i�\���́j�𖁂��Ȃ��Ɓc�B���{��Ƃ��āA���̎g�����͂��������Ƃ����ӏ��͑��̍�Ƃɔ�ׂ�Ώ��Ȃ����A���������o���̍s�����ԂƂ��A�����\���������Ƃ��B����ɁA�����Ƃ��Ă̖ʔ����Ƃ����_�ŁA�����Ə����ׂ����Ƃ������Ă��Ă�悤�Ɏv���B���ɂ́A�w�j�Ƃ��āc�x�Ƃ��̈�ʘ_�̕����́A��a��������B�i���e�ł͂Ȃ��Ă��̕\���ɁB���_�ړ����Ȃ��ʂ̌`�Ɂj<br>
+<font size=3 color=#606060>まあ、嫌いじゃない設定。気になるのは、まず余分な『、』の出現、『、，』の混在、『。」』。それに、ヒロインさやかの名前が３種類出てきたこと。<br>
+小説としては、もっと筆力（表現力）を磨かないと…。日本語として、その使い方はおかしいという箇所は他の作家に比べれば少ないが、同じ書き出しの行が並ぶとか、同じ表現が続くとか。それに、小説としての面白さという点で、もっと書くべきことが抜けていてるように思う。他には、『男として…』とかの一般論の部分は、違和感がある。（内容ではなくてその表現に。視点移動しない別の形に）<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kotobuki_hikaru_ndcss">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kotobuki_hikaru_ndcss">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kotobuki_hikaru_ndcss.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

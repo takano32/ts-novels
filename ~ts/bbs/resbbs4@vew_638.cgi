@@ -1,33 +1,33 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
-<title>���f����</title></head>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
+<title>第二掲示板</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#AAAAFF vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ヲするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>��Q�f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>第２掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
+<!--　ここまで　　この下にメッセージが　　侮ヲされる　　-->
 <form name=inputform action=resbbs4.cgi method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://ts.novels.jp">[HomePage]</a><br> <br>
-<a href="http://www.novels.jp/~ts/bbs/index.cgi">[BBS #1]</a><br>
-</td><td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<tr><td rowspan=4><a href="../../index.html">[HomePage]</a><br> <br>
+<a href="index.cgi">[BBS #1]</a><br>
+</td><td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���z���ӁI�I>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:感想感謝！！>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=mother value=632>
 <input type=hidden name=ress value=638>
-<input type=submit value=���z���ӁI�I�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=感想感謝！！へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
@@ -40,19 +40,19 @@ document.inputform.comment.focus();
 <table border=3 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=638>
-<font color=#6A5ACD>���z���ӁI�I</font></a>
+<font color=#6A5ACD>感想感謝！！</font></a>
 <font color=#FFFFFF>
-<a href=mailto:m.s@circus.ocn.ne.jp>�n����</a>
- ����</font>
- <font size=2>2002�N9��29��(��) 13��55��</font>
- <input type=button value=�ԐM onclick='location.href="resbbs4.cgi?vew=638"'>
+<a href=mailto:m.s@circus.ocn.ne.jp>地駆鴉</a>
+ さん</font>
+ <font size=2>2002年9月29日(日) 13時55分</font>
+ <input type=button value=返信 onclick='location.href="resbbs4@vew_638.cgi"'>
 </td></tr><tr><td>
-<ul><br><font size=3>�@���c���炳�܁A�ǂ�ł�����������Ɍ䊴�z��������A���肪�Ƃ��������܂��B<br>�@���炪�x��Ă��܂��āA�\���󂠂�܂���B<br>�@<br>�@�߂ł����\�\�Ƃ����̂��͂킩��܂��񂪁i��΁j�A�����܂��A�Ƃ������ŁB<br>�@�`���[���|�C���g�\�\�Ȃ̂ł��傤���c�c���Ȃ�A�ςł�����ǁB<br>�@���[��A�ł��ǂ��������A���������L�������D���݂����ł��B<br>�@�h�����S�b�h���{�\�\�̘b�͂��������Ă݂����͂���܂��ˁB<br>�@�J���B�A�ƑΌ������邩�͂킩��܂��񂪁c�c�B</font></ul>
+<ul><br><font size=3>　原田聖也さま、読んでくださった上に御感想くださり、ありがとうございます。<br>　お礼が遅れてしまって、申し訳ありません。<br>　<br>　めでたし——というのかはわかりませんが（苦笑）、おしまい、という事で。<br>　チャームポイント——なのでしょうか……かなり、変ですけれど。<br>　うーん、でもどうも自分、こういうキャラが好きみたいです。<br>　ドリルゴッドロボ——の話はいつか書いてみたくはありますね。<br>　カヴィアと対決をするかはわかりませんが……。</font></ul>
 </dl>
 </td></tr></table><br>
 </td></tr></table>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a></font></p>

@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*g‚М’и‹`*/
+/*жћ гЃ®е®љзѕ©*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*€к——‚М•\‘и‚М’и‹`*/
+/*дёЂи¦§гЃ®иЎЁйЎЊгЃ®е®љзѕ©*/
 TR#tr2 {background-color: #4AFFD7}
-/*€к——‚М‹LЋ–—“‚М’и‹`*/
+/*дёЂи¦§гЃ®иЁдє‹ж¬„гЃ®е®љзѕ©*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX‚М’и‹`*/
+/*FORM INPUT BOXгЃ®е®љзѕ©*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX‚М’и‹`*/
+/*FORM SELECT BOXгЃ®е®љзѕ©*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMITѓ{ѓ^ѓ“‚М’и‹` D‚р€к‚ВЌн‚й‚ЖЃA—LЊш*/
+/*FORM SUBMITгѓњг‚їгѓігЃ®е®љзѕ© Dг‚’дёЂгЃ¤е‰Љг‚‹гЃЁгЂЃжњ‰еЉ№*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMITѓ{ѓ^ѓ“‚М’и‹` D‚р€к‚ВЌн‚й‚ЖЃA—LЊш*/
+/*FORM SUBMITгѓњг‚їгѓігЃ®е®љзѕ© Dг‚’дёЂгЃ¤е‰Љг‚‹гЃЁгЂЃжњ‰еЉ№*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX‚М’и‹`*/
+/*FORM RADIO CHECK BOXгЃ®е®љзѕ©*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*“ЉЌeFORM‚М€к•”‚М’и‹` */
+/*жЉ•зЁїFORMгЃ®дёЂйѓЁгЃ®е®љзѕ© */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*Ќм•iѓ^ѓCѓgѓ‹•Ћ¦‚М’и‹`(ѓ^ѓCѓgѓ‹‚Й”wЊiђF‚р“ь‚к‚И‚ўЏкЌ‡ЃAbackground-color:#E6FFE6‚рЌнЏњ)*/
+/*дЅње“Ѓг‚їг‚¤гѓ€гѓ«дѕ®гѓІгЃ®е®љзѕ©(г‚їг‚¤гѓ€гѓ«гЃ«иѓЊж™Їи‰Іг‚’е…Ґг‚ЊгЃЄгЃ„е ґеђ€гЂЃbackground-color:#E6FFE6г‚’е‰Љй™¤)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*Ќм•i“а—e‚М•Ћ¦’и‹`*/
+/*дЅње“Ѓе†…е®№гЃ®дѕ®гѓІе®љзѕ©*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA‚М’и‹`*/
+/*FORM TEXTAREAгЃ®е®љзѕ©*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*ѓЉѓ“ѓNђF‚МђЭ’и*/
+/*гѓЄгѓіг‚Їи‰ІгЃ®иЁ­е®љ*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,68 +52,68 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>Џ­”NЏ­Џ—•¶ЊЙЃ@Ѓ|Ѓ@‘ж“сЊfЋ¦”ВЃEѓXѓgЃ[ѓЉЃ[“№Џк</title>
+<title>е°‘е№ґе°‘еҐіж–‡еє«гЂЂв€’гЂЂз¬¬дєЊжЋІз¤єжќїгѓ»г‚№гѓ€гѓјгѓЄгѓјйЃ“е ґ</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-‚ў‚л‚с‚ИЉK’i‚©‚з•ш‚«Ќ‡‚Б‚Д“]‚°—Ћ‚ї‚Д‚Э‚Ѕ
+гЃ„г‚Ќг‚“гЃЄйљЋж®µгЃ‹г‚‰жЉ±гЃЌеђ€гЃЈгЃ¦и»ўгЃ’иђЅгЃЎгЃ¦гЃїгЃџ
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>ЌмЋТЃF‚Щ‚Ѕ‚й‚і‚с</center><tr>
+<center>дЅњиЂ…пјљгЃ»гЃџг‚‹гЃ•г‚“</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
- Staircase is one of the most famous thing for trans. When a boy and a girl fall down with their arms around each other, boy's spirit into girl's body, and vice versa. This way was known well by the Japanese Film ЃhTenkouseiЃh which Nobuhiko Ohbayashi supervised in 1982.<br>Ѓi–уЃFTS‚М‚а‚Б‚Ж‚а—L–ј‚ИѓAѓCѓeѓЂ‚ЄЉK’i‚ѕЃBЃ@’j‚МЋq‚ЖЏ—‚МЋq‚Є•ш‚«Ќ‡‚Б‚Ѕ‚Ь‚Ь“]‚°—Ћ‚ї‚й‚ЖЃA’j‚МЋq‚МђS‚ЄЏ—‚МЋq‚Мђg‘М‚ЙЃAЏ—‚МЋq‚МђS‚Є’j‚МЋq‚Мђg‘М‚Й“ь‚Б‚Д‚µ‚Ь‚¤ЃBЃ@‚±‚к‚Н1982”NЃA‘е—Сђй•F‚ЄЉД“В‚µ‚Ѕ“ъ–{‰f‰жЃw“]ЌZђ¶Ѓx‚Е—L–ј‚Й‚И‚Б‚Ѕ•ы–@‚ѕЃBЃj<br><br> In the film, the staircase which they felt down, was made of stone. So, if the staircase was made of different material, what things happen? Isn't it possible to imagine it? Let's experiment. <br>Ѓi–уЃF‰f‰ж‚Е“сђl‚Є“]‚°—Ћ‚ї‚Ѕ‚М‚НЃAђО‚МЉK’i‚ѕ‚Б‚ЅЃBЃ@‚¶‚б‚ ЃAђО‚Е‚И‚ўЉK’i‚ѕ‚Б‚Ѕ‚з‚З‚¤‚И‚Б‚Ѕ‚ѕ‚л‚¤ЃHЃ@ЃcЃc‘z‘њ‚Е‚«‚И‚ўЃH‚ѕ‚Б‚Ѕ‚зЋАЊ±‚ѕЃBЃj<br><br> These are three staircases made of different materials. One of them is made of wood. Another is made of concrete and tiles, which is often in the school. The other is made of...stone. These height is 6.63 meters, and there are 55 steps on each staircase.<br>Ѓi–уЃF‚±‚±‚ЙЃA€б‚¤ЌЮЋї‚Е‚Е‚«‚Ѕ‚R‚В‚МЉK’i‚Є‚ ‚йЃBЃ@€к‚В‚Н–Ш‚ѕЃB‚а‚¤€к‚В‚НѓRѓ“ѓNѓЉЃ[ѓg‚Жѓ^ѓCѓ‹ЃcЃc‚Ь‚ ЉwЌZ‚Ж‚©‚Й‚ж‚­‚ ‚й‚в‚В‚ѕЃBЃ@ЌЕЊг‚НЃcЃcЃcЃcђО‚ѕЃBЃ@ЉK’i‚МЌ‚‚і‚Н6.63ѓЃЃ[ѓgѓ‹ЃA‘S•”‚Е‚T‚T’i‚ ‚йЃBЃj<br><br> First, let's try the wooden staircase. They climb the staircase most on...and fall down with their arms around each other. Are you ready? 3, 2, 1, Go!<br>Ѓi–уЃF‚Ь‚ёЃA–Ш‚МЉK’i‚©‚зЋЋ‚µ‚Д‚Э‚ж‚¤ЃBЃ@“сђl‚ЙЉK’i‚р€к”ФЏг‚Ь‚Е“o‚Б‚Д‚а‚з‚Б‚ДЃcЃc•ш‚«Ќ‡‚Б‚Д“]‚°—Ћ‚ї‚Д‚а‚з‚¤ЃBЃ@ЏЂ”х‚Н‚ў‚ў‚©ЃHЃ@‚RЃA‚QЃA‚PЃA‚ў‚Ї‚БЃIЃj<br><br> Falling down the staircase! It's so-called Rolling Stone! But it's not a band!<br>Ѓi–уЃFЉK’i‚р“]‚°—Ћ‚ї‚Д‚ў‚Б‚Д‚й‚єЃIЃ@‚±‚к‚Є‚ў‚н‚д‚йѓЌЃ[ѓЉѓ“ѓOѓXѓgЃ[ѓ“‚Б‚Д‚в‚В‚ѕЃIЃ@‚Ж‚ў‚Б‚Д‚аѓoѓ“ѓh‚¶‚б‚И‚ў‚єЃIЃj<br><br> Hum. It seem not to be replaced. It might have been only painful. Next, let's go.<br>Ѓi–уЃF‚¤Ѓ`‚сЃA‚З‚¤‚в‚з“ь‚к‘Ц‚н‚Б‚Д‚Н‚И‚ў‚ж‚¤‚ѕЃBЃ@’Й‚ў–Ъ‚Й‚ ‚Б‚Ѕ‚ѕ‚Ї‚©‚а‚µ‚к‚И‚ў‚ИЃBЃ@Ћџ‚Й‚ў‚±‚¤ЃBЃj<br><br> Next, let's try to fall down the concrete-made staircase. I said it's often in the school, TV staff prepared the school uniform in Japan. Thanks. The way is the same as the challenge ahead. Ready to fall down? Okay. 3, 2, 1, Go!<br>Ѓi–уЃFЌЎ“x‚НѓRѓ“ѓNѓЉЃ[ѓg‚ѕЃBЃ@ЉwЌZ‚Й‚ж‚­‚ ‚й‚Б‚Д‰ґ‚ЄЊѕ‚Б‚Ѕ‚©‚зЃAѓXѓ^ѓbѓt‚Є“ъ–{‚МЉwЌZ‚Мђ§•ћ‚р—p€У‚µ‚Д‚­‚к‚ЅЃBЃ@‚в‚и•ы‚Н‚і‚Б‚«‚Ж‘S‚­“Ї‚¶‚ѕЃBЃ@ЏЂ”х‚Е‚«‚Ѕ‚з‚µ‚ў‚ИЃBЃ@‚ў‚­‚єЃA‚RЃA‚QЃA‚PЃA‚ў‚Ї‚БЃIЃj<br><br> It seem not to be replaced. It seems to be more painful than a little while ago.<br>Ѓi–уЃF‚З‚¤‚в‚з‚±‚к‚аЃA“ь‚к‘Ц‚н‚Б‚Д‚И‚ў‚з‚µ‚ў‚ИЃBЃ@‚і‚Б‚«‚ж‚и’Й‚»‚¤‚ѕЃBЃj<br><br> The last challange...the stone-made staircase. Incidentally, clothes was changed to the uniform used in the movie - it's ordermade. Let's challange to replace! 3, 2, 1, Go!<br>Ѓi–уЃFЌЕЊг‚НђО‚МЉK’i‚ѕЃBЃ@‚В‚ў‚Е‚ЙЃA—б‚М‰f‰ж‚ЕЋg‚Б‚Д‚ў‚Ѕђ§•ћ‚Й’…‘Ц‚¦‚Д‚а‚з‚Б‚ЅЃBЃ@“Б’Ќ‚ѕ‚єЃBЃ@‚і‚џЃA‚±‚к‚Е“ь‚к‘Ц‚н‚й‚©ѓ`ѓѓѓЊѓ“ѓW‚ѕЃIЃ@‚RЃA‚QЃA‚PЃA‚ў‚Ї‚БЃIЃj<br><br> Wow! It's replaced! It buds this hurried spectacle no matter how it sees!<br>Ѓi–уЃFЊ©‚л‚жЃIЃ@“ь‚к‘Ц‚н‚Б‚ї‚Ь‚Б‚Ѕ‚єЃIЃ@‚±‚М‚ ‚Ѕ‚У‚Ѕ‚·‚йЊхЊiЃA‰Ѕ“xЊ©‚Д‚а–G‚¦‚й‚єЃIЃj<br><br> So. A staircase made of stone makes them replace. If the staircase is in front of the Japanese shrine, it's perfect. How to they replace again? They fall down the staircase again, it's easy. Today's expriment is over. See you next week. Good bye.<br>Ѓi–уЃF‚Ж‚ў‚¤‚н‚Ї‚ЕЃAђО‚МЉK’i‚р“]‚°—Ћ‚ї‚Ѕ‚з“ь‚к‘Ц‚н‚й‚Б‚ДЋ–‚Є•Є‚©‚Б‚ЅЃBЃ@Њг‚Нђ_ЋР‚М‘O‚Й‚±‚МЉK’i‚Є‚ ‚к‚ОЉ®аш‚ѕЃBЃ@‚З‚¤‚в‚Б‚Д“сђl‚р–Я‚·‚©‚Б‚ДЃH‚а‚¤€к“x“]‚°—Ћ‚ї‚Д‚а‚з‚¤‚Ь‚Е‚іЃBЉИ’P‚ѕ‚лЃHЃ@ЌЎ“ъ‚МЋАЊ±‚Н‚±‚к‚Ь‚ЕЃB‚Ь‚Ѕ—€ЏTЃBЃj<br><br> Stop. This experiment is VERY, VERY dangerous! You NEVER try this. NEVER.<br>Ѓi–уЃF‚±‚МЋАЊ±‚НЃA‚Ж‚Б‚Д‚а‚Ж‚Б‚Д‚аЉлЊЇ‚ѕЃB‚Э‚с‚И‚Нђв‘О‚Ь‚Л‚·‚й‚И‚жЃBђв‘О‚ѕ‚©‚з‚ИЃBЃj<br>
+ Staircase is one of the most famous thing for trans. When a boy and a girl fall down with their arms around each other, boy's spirit into girl's body, and vice versa. This way was known well by the Japanese Film вЂќTenkouseiвЂќ which Nobuhiko Ohbayashi supervised in 1982.<br>пј€иЁіпјљTSгЃ®г‚‚гЃЈгЃЁг‚‚жњ‰еђЌгЃЄг‚ўг‚¤гѓ†гѓ гЃЊйљЋж®µгЃ гЂ‚гЂЂз”·гЃ®е­ђгЃЁеҐігЃ®е­ђгЃЊжЉ±гЃЌеђ€гЃЈгЃџгЃѕгЃѕи»ўгЃ’иђЅгЃЎг‚‹гЃЁгЂЃз”·гЃ®е­ђгЃ®еїѓгЃЊеҐігЃ®е­ђгЃ®иє«дЅ“гЃ«гЂЃеҐігЃ®е­ђгЃ®еїѓгЃЊз”·гЃ®е­ђгЃ®иє«дЅ“гЃ«е…ҐгЃЈгЃ¦гЃ—гЃѕгЃ†гЂ‚гЂЂгЃ“г‚ЊгЃЇ1982е№ґгЂЃе¤§жћ—е®ЈеЅ¦гЃЊз›ЈзќЈгЃ—гЃџж—Ґжњ¬ж з”»гЂЋи»ўж Ўз”џгЂЏгЃ§жњ‰еђЌгЃ«гЃЄгЃЈгЃџж–№жі•гЃ гЂ‚пј‰<br><br> In the film, the staircase which they felt down, was made of stone. So, if the staircase was made of different material, what things happen? Isn't it possible to imagine it? Let's experiment. <br>пј€иЁіпјљж з”»гЃ§дєЊдєєгЃЊи»ўгЃ’иђЅгЃЎгЃџгЃ®гЃЇгЂЃзџігЃ®йљЋж®µгЃ гЃЈгЃџгЂ‚гЂЂгЃг‚ѓгЃ‚гЂЃзџігЃ§гЃЄгЃ„йљЋж®µгЃ гЃЈгЃџг‚‰гЃ©гЃ†гЃЄгЃЈгЃџгЃ г‚ЌгЃ†пјџгЂЂвЂ¦вЂ¦жѓіеѓЏгЃ§гЃЌгЃЄгЃ„пјџгЃ гЃЈгЃџг‚‰е®џйЁ“гЃ гЂ‚пј‰<br><br> These are three staircases made of different materials. One of them is made of wood. Another is made of concrete and tiles, which is often in the school. The other is made of...stone. These height is 6.63 meters, and there are 55 steps on each staircase.<br>пј€иЁіпјљгЃ“гЃ“гЃ«гЂЃйЃ•гЃ†жќђиіЄгЃ§гЃ§гЃЌгЃџпј“гЃ¤гЃ®йљЋж®µгЃЊгЃ‚г‚‹гЂ‚гЂЂдёЂгЃ¤гЃЇжњЁгЃ гЂ‚г‚‚гЃ†дёЂгЃ¤гЃЇг‚ігѓіг‚ЇгѓЄгѓјгѓ€гЃЁг‚їг‚¤гѓ«вЂ¦вЂ¦гЃѕгЃ‚е­¦ж ЎгЃЁгЃ‹гЃ«г‚€гЃЏгЃ‚г‚‹г‚„гЃ¤гЃ гЂ‚гЂЂжњЂеѕЊгЃЇвЂ¦вЂ¦вЂ¦вЂ¦зџігЃ гЂ‚гЂЂйљЋж®µгЃ®й«гЃ•гЃЇ6.63гѓЎгѓјгѓ€гѓ«гЂЃе…ЁйѓЁгЃ§пј•пј•ж®µгЃ‚г‚‹гЂ‚пј‰<br><br> First, let's try the wooden staircase. They climb the staircase most on...and fall down with their arms around each other. Are you ready? 3, 2, 1, Go!<br>пј€иЁіпјљгЃѕгЃљгЂЃжњЁгЃ®йљЋж®µгЃ‹г‚‰и©¦гЃ—гЃ¦гЃїг‚€гЃ†гЂ‚гЂЂдєЊдєєгЃ«йљЋж®µг‚’дёЂз•ЄдёЉгЃѕгЃ§з™»гЃЈгЃ¦г‚‚г‚‰гЃЈгЃ¦вЂ¦вЂ¦жЉ±гЃЌеђ€гЃЈгЃ¦и»ўгЃ’иђЅгЃЎгЃ¦г‚‚г‚‰гЃ†гЂ‚гЂЂжє–е‚™гЃЇгЃ„гЃ„гЃ‹пјџгЂЂпј“гЂЃпј’гЂЃпј‘гЂЃгЃ„гЃ‘гЃЈпјЃпј‰<br><br> Falling down the staircase! It's so-called Rolling Stone! But it's not a band!<br>пј€иЁіпјљйљЋж®µг‚’и»ўгЃ’иђЅгЃЎгЃ¦гЃ„гЃЈгЃ¦г‚‹гЃњпјЃгЂЂгЃ“г‚ЊгЃЊгЃ„г‚Џг‚†г‚‹гѓ­гѓјгѓЄгѓіг‚°г‚№гѓ€гѓјгѓігЃЈгЃ¦г‚„гЃ¤гЃ пјЃгЂЂгЃЁгЃ„гЃЈгЃ¦г‚‚гѓђгѓігѓ‰гЃг‚ѓгЃЄгЃ„гЃњпјЃпј‰<br><br> Hum. It seem not to be replaced. It might have been only painful. Next, let's go.<br>пј€иЁіпјљгЃ†гЂњг‚“гЂЃгЃ©гЃ†г‚„г‚‰е…Ґг‚Њж›їг‚ЏгЃЈгЃ¦гЃЇгЃЄгЃ„г‚€гЃ†гЃ гЂ‚гЂЂз—›гЃ„з›®гЃ«гЃ‚гЃЈгЃџгЃ гЃ‘гЃ‹г‚‚гЃ—г‚ЊгЃЄгЃ„гЃЄгЂ‚гЂЂж¬ЎгЃ«гЃ„гЃ“гЃ†гЂ‚пј‰<br><br> Next, let's try to fall down the concrete-made staircase. I said it's often in the school, TV staff prepared the school uniform in Japan. Thanks. The way is the same as the challenge ahead. Ready to fall down? Okay. 3, 2, 1, Go!<br>пј€иЁіпјљд»Љеє¦гЃЇг‚ігѓіг‚ЇгѓЄгѓјгѓ€гЃ гЂ‚гЂЂе­¦ж ЎгЃ«г‚€гЃЏгЃ‚г‚‹гЃЈгЃ¦дїєгЃЊиЁЂгЃЈгЃџгЃ‹г‚‰гЂЃг‚№г‚їгѓѓгѓ•гЃЊж—Ґжњ¬гЃ®е­¦ж ЎгЃ®е€¶жњЌг‚’з”Ёж„ЏгЃ—гЃ¦гЃЏг‚ЊгЃџгЂ‚гЂЂг‚„г‚Љж–№гЃЇгЃ•гЃЈгЃЌгЃЁе…ЁгЃЏеђЊгЃгЃ гЂ‚гЂЂжє–е‚™гЃ§гЃЌгЃџг‚‰гЃ—гЃ„гЃЄгЂ‚гЂЂгЃ„гЃЏгЃњгЂЃпј“гЂЃпј’гЂЃпј‘гЂЃгЃ„гЃ‘гЃЈпјЃпј‰<br><br> It seem not to be replaced. It seems to be more painful than a little while ago.<br>пј€иЁіпјљгЃ©гЃ†г‚„г‚‰гЃ“г‚Њг‚‚гЂЃе…Ґг‚Њж›їг‚ЏгЃЈгЃ¦гЃЄгЃ„г‚‰гЃ—гЃ„гЃЄгЂ‚гЂЂгЃ•гЃЈгЃЌг‚€г‚Љз—›гЃќгЃ†гЃ гЂ‚пј‰<br><br> The last challange...the stone-made staircase. Incidentally, clothes was changed to the uniform used in the movie - it's ordermade. Let's challange to replace! 3, 2, 1, Go!<br>пј€иЁіпјљжњЂеѕЊгЃЇзџігЃ®йљЋж®µгЃ гЂ‚гЂЂгЃ¤гЃ„гЃ§гЃ«гЂЃдѕ‹гЃ®ж з”»гЃ§дЅїгЃЈгЃ¦гЃ„гЃџе€¶жњЌгЃ«зќЂж›їгЃ€гЃ¦г‚‚г‚‰гЃЈгЃџгЂ‚гЂЂз‰№жіЁгЃ гЃњгЂ‚гЂЂгЃ•гЃЃгЂЃгЃ“г‚ЊгЃ§е…Ґг‚Њж›їг‚Џг‚‹гЃ‹гѓЃгѓЈгѓ¬гѓіг‚ёгЃ пјЃгЂЂпј“гЂЃпј’гЂЃпј‘гЂЃгЃ„гЃ‘гЃЈпјЃпј‰<br><br> Wow! It's replaced! It buds this hurried spectacle no matter how it sees!<br>пј€иЁіпјљи¦‹г‚Ќг‚€пјЃгЂЂе…Ґг‚Њж›їг‚ЏгЃЈгЃЎгЃѕгЃЈгЃџгЃњпјЃгЂЂгЃ“гЃ®гЃ‚гЃџгЃµгЃџгЃ™г‚‹е…‰ж™ЇгЂЃдЅ•еє¦и¦‹гЃ¦г‚‚иђЊгЃ€г‚‹гЃњпјЃпј‰<br><br> So. A staircase made of stone makes them replace. If the staircase is in front of the Japanese shrine, it's perfect. How to they replace again? They fall down the staircase again, it's easy. Today's expriment is over. See you next week. Good bye.<br>пј€иЁіпјљгЃЁгЃ„гЃ†г‚ЏгЃ‘гЃ§гЂЃзџігЃ®йљЋж®µг‚’и»ўгЃ’иђЅгЃЎгЃџг‚‰е…Ґг‚Њж›їг‚Џг‚‹гЃЈгЃ¦дє‹гЃЊе€†гЃ‹гЃЈгЃџгЂ‚гЂЂеѕЊгЃЇзҐћз¤ѕгЃ®е‰ЌгЃ«гЃ“гЃ®йљЋж®µгЃЊгЃ‚г‚ЊгЃ°е®Њз’§гЃ гЂ‚гЂЂгЃ©гЃ†г‚„гЃЈгЃ¦дєЊдєєг‚’ж€»гЃ™гЃ‹гЃЈгЃ¦пјџг‚‚гЃ†дёЂеє¦и»ўгЃ’иђЅгЃЎгЃ¦г‚‚г‚‰гЃ†гЃѕгЃ§гЃ•гЂ‚з°ЎеЌгЃ г‚ЌпјџгЂЂд»Љж—ҐгЃ®е®џйЁ“гЃЇгЃ“г‚ЊгЃѕгЃ§гЂ‚гЃѕгЃџжќҐйЂ±гЂ‚пј‰<br><br> Stop. This experiment is VERY, VERY dangerous! You NEVER try this. NEVER.<br>пј€иЁіпјљгЃ“гЃ®е®џйЁ“гЃЇгЂЃгЃЁгЃЈгЃ¦г‚‚гЃЁгЃЈгЃ¦г‚‚еЌ±й™єгЃ гЂ‚гЃїг‚“гЃЄгЃЇзµ¶еЇѕгЃѕгЃ­гЃ™г‚‹гЃЄг‚€гЂ‚зµ¶еЇѕгЃ гЃ‹г‚‰гЃЄгЂ‚пј‰<br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-‚Щ‚Ѕ‚й
+гЃ»гЃџг‚‹
 </address>
-2009”N11ЊЋ14“ъ(“y) 15Ћћ28•Є31•b ЊцЉJ<br>
+2009е№ґ11жњ€14ж—Ґ(ењџ) 15ж™‚28е€†31з§’ е…¬й–‹<br>
 <!--125.1.152.164-->
-<font color=red>ЃЎ‚±‚МЌм•i‚М’ЌмЊ ‚Н‚Щ‚Ѕ‚й‚і‚с‚Й‚ ‚и‚Ь‚·ЃB–і’f“]ЌЪ‚Н‹ЦЋ~‚Е‚·ЃB</font><br>
+<font color=red>в– гЃ“гЃ®дЅње“ЃгЃ®и‘—дЅњжЁ©гЃЇгЃ»гЃџг‚‹гЃ•г‚“гЃ«гЃ‚г‚ЉгЃѕгЃ™гЂ‚з„Ўж–­и»ўиј‰гЃЇз¦Ѓж­ўгЃ§гЃ™гЂ‚</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>ЃЎЌмЋТ‚©‚з‚МѓЃѓbѓZЃ[ѓW</b>
+<dt><b>в– дЅњиЂ…гЃ‹г‚‰гЃ®гѓЎгѓѓг‚»гѓјг‚ё</b>
 <dd>
-Ѓ@ѓCѓMѓЉѓX‚ЕЃuBrainiacЃv‚Ж‚ў‚¤ѓoѓ‰ѓGѓeѓB”Ф‘g‚Є•ъ‘—‚і‚к‚Д‚ў‚Ь‚·‚ЄЃA‚»‚М”Ф‘g‚ЕЌs‚н‚к‚Д‚ў‚й‚±‚Ж‚»‚М‚Ь‚Ь‚МѓmѓЉ‚ЕЏ‘‚ў‚Д‚Э‚Ь‚µ‚ЅЃB“®‰ж“ЉЌeѓTѓCѓg‚Е”Ф‘g–ј‚рЊџЌх‚·‚й‚ЖЃAЋАЌЫ‚Й•ъ‘—‚і‚к‚Ѕ“а—e‚ЄЊ©‚з‚к‚й‚ЖЋv‚ў‚Ь‚·ЃB<br>Ѓ@‰pЊк‚Ж‚µ‚Дђ¬—§‚µ‚Д‚ў‚й‚©‚З‚¤‚©‚Нђ[‚­“Л‚БЌћ‚Ь‚И‚ў‚Е‚­‚ѕ‚і‚ўЃi‹кЏОЃj<br>
+гЂЂг‚¤г‚®гѓЄг‚№гЃ§гЂЊBrainiacгЂЌгЃЁгЃ„гЃ†гѓђгѓ©г‚Ёгѓ†г‚Јз•Єзµ„гЃЊж”ѕйЂЃгЃ•г‚ЊгЃ¦гЃ„гЃѕгЃ™гЃЊгЂЃгЃќгЃ®з•Єзµ„гЃ§иЎЊг‚Џг‚ЊгЃ¦гЃ„г‚‹гЃ“гЃЁгЃќгЃ®гЃѕгЃѕгЃ®гѓЋгѓЄгЃ§ж›ёгЃ„гЃ¦гЃїгЃѕгЃ—гЃџгЂ‚е‹•з”»жЉ•зЁїг‚µг‚¤гѓ€гЃ§з•Єзµ„еђЌг‚’ж¤њзґўгЃ™г‚‹гЃЁгЂЃе®џйљ›гЃ«ж”ѕйЂЃгЃ•г‚ЊгЃџе†…е®№гЃЊи¦‹г‚‰г‚Њг‚‹гЃЁжЂќгЃ„гЃѕгЃ™гЂ‚<br>гЂЂи‹±иЄћгЃЁгЃ—гЃ¦ж€ђз«‹гЃ—гЃ¦гЃ„г‚‹гЃ‹гЃ©гЃ†гЃ‹гЃЇж·±гЃЏзЄЃгЃЈиѕјгЃѕгЃЄгЃ„гЃ§гЃЏгЃ гЃ•гЃ„пј€и‹¦з¬‘пј‰<br>
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-‚±‚МЌм•i‚МЉґ‘z‚р‚ЁЉс‚№‚­‚ѕ‚і‚ўЃB
+гЃ“гЃ®дЅње“ЃгЃ®ж„џжѓіг‚’гЃЉеЇ„гЃ›гЃЏгЃ гЃ•гЃ„гЂ‚
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>ѓRѓЃѓ“ѓg‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·ЃB<BR>‚а‚µ‚©‚·‚й‚ЖЃA‰pЊкЊ—‚М•ы‚Є‚±‚к‚р“З‚Ь‚к‚Ѕ‚зЃA‚ї‚е‚Б‚Ж‚µ‚Ѕb‘и‚Мѓlѓ^‚Й‚И‚й‚©‚а‚µ‚к‚Ь‚№‚с‚ЛЃB‰pЊк‚Є–і’ѓ‹к’ѓ‚ѕ‚Ж‚ў‚¤€У–Ў‚Е‚©‚а‚µ‚к‚Ь‚№‚с‚ЄЃiЏОЃj<BR><BR>Ћџ‚Н”ц“№‚ЕЃAЃuђО‚МЉK’i‚ѕ‚Б‚Ѕ‚з‚З‚±‚Е‚а‚ў‚ў‚М‚©Ѓv‚рЋАЊ±‚Е‚µ‚е‚¤‚©Ѓi‚±‚зЃj</td>
-<td>‚Щ‚Ѕ‚й</td>
-<td width=20%>ЃЎ2009-11-21 21:33:04</td>
+<td style=font-size:10pt>г‚ігѓЎгѓігѓ€гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚<BR>г‚‚гЃ—гЃ‹гЃ™г‚‹гЃЁгЂЃи‹±иЄћењЏгЃ®ж–№гЃЊгЃ“г‚Њг‚’иЄ­гЃѕг‚ЊгЃџг‚‰гЂЃгЃЎг‚‡гЃЈгЃЁгЃ—гЃџи©±йЎЊгЃ®гѓЌг‚їгЃ«гЃЄг‚‹гЃ‹г‚‚гЃ—г‚ЊгЃѕгЃ›г‚“гЃ­гЂ‚и‹±иЄћгЃЊз„ЎиЊ¶и‹¦иЊ¶гЃ гЃЁгЃ„гЃ†ж„Џе‘ігЃ§гЃ‹г‚‚гЃ—г‚ЊгЃѕгЃ›г‚“гЃЊпј€з¬‘пј‰<BR><BR>ж¬ЎгЃЇе°ѕйЃ“гЃ§гЂЃгЂЊзџігЃ®йљЋж®µгЃ гЃЈгЃџг‚‰гЃ©гЃ“гЃ§г‚‚гЃ„гЃ„гЃ®гЃ‹гЂЌг‚’е®џйЁ“гЃ§гЃ—г‚‡гЃ†гЃ‹пј€гЃ“г‚‰пј‰</td>
+<td>гЃ»гЃџг‚‹</td>
+<td width=20%>в– 2009-11-21 21:33:04</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>‚Э‚И‚і‚сnice‚ИѓRѓЃѓfѓBЃ[‚Е‚·‚ЛЃBђО’i‚Н‚ЛЃ[ЃA‚Ѕ‚Ф‚с“o‚й‚Ж‚«‚Й€к’i‚Г‚ВЉи‚р‚©‚Ї‚Д‚ў‚й‚с‚ѕ‚ЖЋv‚¤‚М‚жЃB‚ѕ‚©‚зOnomitchi is more better‚И‚М‚жЃA‚Ж‚©‰pЊк‚Е–й’К‚µ‹c_‚µЌ‡‚Б‚Ѕ‚и‚µ‚ДЃB</td>
-<td>”L–м</td>
-<td width=20%>ЃЎ2009-11-21 00:18:03</td>
+<td style=font-size:10pt>гЃїгЃЄгЃ•г‚“niceгЃЄг‚ігѓЎгѓ‡г‚ЈгѓјгЃ§гЃ™гЃ­гЂ‚зџіж®µгЃЇгЃ­гѓјгЂЃгЃџгЃ¶г‚“з™»г‚‹гЃЁгЃЌгЃ«дёЂж®µгЃҐгЃ¤йЎг‚’гЃ‹гЃ‘гЃ¦гЃ„г‚‹г‚“гЃ гЃЁжЂќгЃ†гЃ®г‚€гЂ‚гЃ гЃ‹г‚‰Onomitchi is more betterгЃЄгЃ®г‚€гЂЃгЃЁгЃ‹и‹±иЄћгЃ§е¤њйЂљгЃ—и­°и«–гЃ—еђ€гЃЈгЃџг‚ЉгЃ—гЃ¦гЂ‚</td>
+<td>зЊ«й‡Ћ</td>
+<td width=20%>в– 2009-11-21 00:18:03</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>Ѓ@ѓRѓЃѓ“ѓg‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·ЃB<BR><BR>Ѓ„ѓoѓЊѓbѓg‚і‚с<BR>Ѓ@Њіѓlѓ^‚М•ы‚Е‚·‚ЄЃAЊВђl“I‚Й‚Ё‚·‚·‚Я‚НЃAЃuѓIЃ[ѓPѓXѓgѓ‰‚ЙѓwѓЉѓEѓЂ‚р“±“ь‚µ‚Д‚Э‚ЅЃv‚ЖЃu‚ў‚л‚с‚И•ы–@‚ЕѓTѓ“ѓ^‚р”т‚О‚µ‚Д‚Э‚ЅЃv‚ ‚Ѕ‚и‚Е‚µ‚е‚¤‚©ЃB<BR>Ѓ@’P”­ѓlѓ^‚Н‚±‚¤‚µ‚Д‚ў‚­‚В‚аЏг‚Є‚Б‚Д‚­‚й‚М‚Е‚·‚ЄЃA•АЌs‚µ‚ДЏ‘‚ў‚Д‚ў‚й‘±‚«•Ё‚Н‚И‚©‚И‚©Њ`‚Й‚И‚и‚Ь‚№‚сЃB“п‚µ‚ў‚Е‚·‚ЛЃB<BR><BR>Ѓ„‚«‚и‚©ђiѓm‰о‚і‚с<BR>Ѓ@‚±‚МѓXѓgЃ[ѓЉЃ[‚НЃAЌЕЏ‰‚ЙЃu‰pЊкЃ{“ъ–{Њк–уЃv‚Ж‚ў‚¤Ќ\ђ¬‚Є”O“Є‚Й‚ ‚и‚Ь‚µ‚ЅЃB‚±‚МЌ\ђ¬‚Е‚ ‚йЋнЃh‚¤‚і‚с‚­‚і‚ўЃh•µ€Н‹C‚рЏo‚µ‚Д‚Э‚Ѕ‚©‚Б‚Ѕ‚М‚Е‚·‚ЄЃA‚ў‚©‚Є‚Е‚µ‚Ѕ‚Е‚µ‚е‚¤‚©ЃB<BR>Ѓ@‚Ѕ‚ѕЃA‚і‚·‚Є‚Й‚·‚з‚·‚з‚Ж‚Н‚ў‚©‚И‚ў‚Е‚·(^^; ЌЎ‰с‚НѓIѓ“ѓ‰ѓCѓ“Ћ«Џ‘‚в–|–уѓTѓCѓg‚МЏ•‚Ї‚рЋШ‚и‚В‚В‚Ь‚Ж‚Я‚Д‚ў‚«‚Ь‚µ‚ЅЃB<BR><BR>Ѓ@‚ї‚И‚Э‚ЙЃA‚«‚и‚©‚і‚с‚ЄЏ‘‚«Ќћ‚с‚Е‚ў‚Ѕ‚ѕ‚ў‚Ѕ€кђЯ‚р‰p–у‚µ‚Д‚Э‚Ѕ‚М‚Е‚·‚ЄЃcЃcЃcЃc‚З‚¤‚в‚зѓRѓЃѓ“ѓg‚Е‚НЏ‘‚«Ќћ‚Я‚И‚ў‚ж‚¤‚Е‚·ЃB‚Е‚а‚в‚Б‚П‚и‚¤‚і‚с‚­‚і‚­‚И‚и‚Ь‚µ‚ЅЃi‹кЏОЃj</td>
-<td>‚Щ‚Ѕ‚й</td>
-<td width=20%>ЃЎ2009-11-14 18:53:53</td>
+<td style=font-size:10pt>гЂЂг‚ігѓЎгѓігѓ€гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚<BR><BR>пјћгѓђгѓ¬гѓѓгѓ€гЃ•г‚“<BR>гЂЂе…ѓгѓЌг‚їгЃ®ж–№гЃ§гЃ™гЃЊгЂЃеЂ‹дєєзљ„гЃ«гЃЉгЃ™гЃ™г‚ЃгЃЇгЂЃгЂЊг‚Єгѓјг‚±г‚№гѓ€гѓ©гЃ«гѓгѓЄг‚¦гѓ г‚’е°Ће…ҐгЃ—гЃ¦гЃїгЃџгЂЌгЃЁгЂЊгЃ„г‚Ќг‚“гЃЄж–№жі•гЃ§г‚µгѓіг‚їг‚’йЈ›гЃ°гЃ—гЃ¦гЃїгЃџгЂЌгЃ‚гЃџг‚ЉгЃ§гЃ—г‚‡гЃ†гЃ‹гЂ‚<BR>гЂЂеЌз™єгѓЌг‚їгЃЇгЃ“гЃ†гЃ—гЃ¦гЃ„гЃЏгЃ¤г‚‚дёЉгЃЊгЃЈгЃ¦гЃЏг‚‹гЃ®гЃ§гЃ™гЃЊгЂЃдё¦иЎЊгЃ—гЃ¦ж›ёгЃ„гЃ¦гЃ„г‚‹з¶љгЃЌз‰©гЃЇгЃЄгЃ‹гЃЄгЃ‹еЅўгЃ«гЃЄг‚ЉгЃѕгЃ›г‚“гЂ‚й›ЈгЃ—гЃ„гЃ§гЃ™гЃ­гЂ‚<BR><BR>пјћгЃЌг‚ЉгЃ‹йЂІгѓЋд»‹гЃ•г‚“<BR>гЂЂгЃ“гЃ®г‚№гѓ€гѓјгѓЄгѓјгЃЇгЂЃжњЂе€ќгЃ«гЂЊи‹±иЄћпј‹ж—Ґжњ¬иЄћиЁігЂЌгЃЁгЃ„гЃ†ж§‹ж€ђгЃЊеїµй ­гЃ«гЃ‚г‚ЉгЃѕгЃ—гЃџгЂ‚гЃ“гЃ®ж§‹ж€ђгЃ§гЃ‚г‚‹зЁ®вЂќгЃ†гЃ•г‚“гЃЏгЃ•гЃ„вЂќй›°е›Іж°—г‚’е‡єгЃ—гЃ¦гЃїгЃџгЃ‹гЃЈгЃџгЃ®гЃ§гЃ™гЃЊгЂЃгЃ„гЃ‹гЃЊгЃ§гЃ—гЃџгЃ§гЃ—г‚‡гЃ†гЃ‹гЂ‚<BR>гЂЂгЃџгЃ гЂЃгЃ•гЃ™гЃЊгЃ«гЃ™г‚‰гЃ™г‚‰гЃЁгЃЇгЃ„гЃ‹гЃЄгЃ„гЃ§гЃ™(^^; д»Ље›ћгЃЇг‚Єгѓігѓ©г‚¤гѓіиѕћж›ёг‚„зї»иЁіг‚µг‚¤гѓ€гЃ®еЉ©гЃ‘г‚’еЂџг‚ЉгЃ¤гЃ¤гЃѕгЃЁг‚ЃгЃ¦гЃ„гЃЌгЃѕгЃ—гЃџгЂ‚<BR><BR>гЂЂгЃЎгЃЄгЃїгЃ«гЂЃгЃЌг‚ЉгЃ‹гЃ•г‚“гЃЊж›ёгЃЌиѕјг‚“гЃ§гЃ„гЃџгЃ гЃ„гЃџдёЂзЇЂг‚’и‹±иЁігЃ—гЃ¦гЃїгЃџгЃ®гЃ§гЃ™гЃЊвЂ¦вЂ¦вЂ¦вЂ¦гЃ©гЃ†г‚„г‚‰г‚ігѓЎгѓігѓ€гЃ§гЃЇж›ёгЃЌиѕјг‚ЃгЃЄгЃ„г‚€гЃ†гЃ§гЃ™гЂ‚гЃ§г‚‚г‚„гЃЈгЃ±г‚ЉгЃ†гЃ•г‚“гЃЏгЃ•гЃЏгЃЄг‚ЉгЃѕгЃ—гЃџпј€и‹¦з¬‘пј‰</td>
+<td>гЃ»гЃџг‚‹</td>
+<td width=20%>в– 2009-11-14 18:53:53</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>Ѓi‚Ё‚вЃAђ¬Њч‚µ‚И‚©‚Б‚Ѕ‚ж‚¤‚ѕЃB‚З‚¤‚µ‚Д‚ѕ‚л‚¤ЃHЃ@‚У‚ЮЃA’iђ”‚Й–в‘и‚Є‚ ‚й‚М‚©‚а‚µ‚к‚И‚ўЃB‚»‚±‚Е‚а‚Б‚Ж’·‚ўЉK’i‚р—p€У‚µ‚Д‚Э‚ЅЃB’iђ”‚Н€к‹C‚Й‚S”{‚М‚Q‚Q‚O’iЃAЌ‚‚і‚Н‚Ё‚ж‚»‚R‚O‚Ќ‚ѕЃIЃ@‚У‚ЮЃA‚И‚©‚И‚©‚М”——Н‚ѕ‚ИЃB‚ў‚ў‚©ЃAђв‘О‚Йђ^Ћ—‚µ‚ї‚б‚ѕ‚Я‚ѕ‚єЃAђв‘О‚ѕ‚©‚з‚ИЃHЃj<BR>Ѓ@‚ў‚©‚Й‚а‚»‚к‚з‚µ‚ў•¶ЏН‚Є‚Ж‚Й‚©‚­ЏгЋи‚ў‚ЖЋv‚ў‚Ь‚µ‚Ѕ‚ЄЃA‚·‚з‚·‚з‚Б‚Ж‰pЊк‚ЕЏ‘‚ў‚Д‚­‚й‚Б‚Д‰ЅЋТ‚Е‚·‚©ЃB‚Ж‚Б‚Д‚а–К”’‚©‚Б‚Ѕ‚Е‚·ЃB</td>
-<td>‚«‚и‚©ђiѓm‰о</td>
-<td width=20%>ЃЎ2009-11-13 09:26:46</td>
+<td style=font-size:10pt>пј€гЃЉг‚„гЂЃж€ђеЉџгЃ—гЃЄгЃ‹гЃЈгЃџг‚€гЃ†гЃ гЂ‚гЃ©гЃ†гЃ—гЃ¦гЃ г‚ЌгЃ†пјџгЂЂгЃµг‚ЂгЂЃж®µж•°гЃ«е•ЏйЎЊгЃЊгЃ‚г‚‹гЃ®гЃ‹г‚‚гЃ—г‚ЊгЃЄгЃ„гЂ‚гЃќгЃ“гЃ§г‚‚гЃЈгЃЁй•·гЃ„йљЋж®µг‚’з”Ёж„ЏгЃ—гЃ¦гЃїгЃџгЂ‚ж®µж•°гЃЇдёЂж°—гЃ«пј”еЂЌгЃ®пј’пј’пјђж®µгЂЃй«гЃ•гЃЇгЃЉг‚€гЃќпј“пјђпЅЌгЃ пјЃгЂЂгЃµг‚ЂгЂЃгЃЄгЃ‹гЃЄгЃ‹гЃ®иї«еЉ›гЃ гЃЄгЂ‚гЃ„гЃ„гЃ‹гЂЃзµ¶еЇѕгЃ«зњџдјјгЃ—гЃЎг‚ѓгЃ г‚ЃгЃ гЃњгЂЃзµ¶еЇѕгЃ гЃ‹г‚‰гЃЄпјџпј‰<BR>гЂЂгЃ„гЃ‹гЃ«г‚‚гЃќг‚Њг‚‰гЃ—гЃ„ж–‡з« гЃЊгЃЁгЃ«гЃ‹гЃЏдёЉж‰‹гЃ„гЃЁжЂќгЃ„гЃѕгЃ—гЃџгЃЊгЂЃгЃ™г‚‰гЃ™г‚‰гЃЈгЃЁи‹±иЄћгЃ§ж›ёгЃ„гЃ¦гЃЏг‚‹гЃЈгЃ¦дЅ•иЂ…гЃ§гЃ™гЃ‹гЂ‚гЃЁгЃЈгЃ¦г‚‚йќўз™ЅгЃ‹гЃЈгЃџгЃ§гЃ™гЂ‚</td>
+<td>гЃЌг‚ЉгЃ‹йЂІгѓЋд»‹</td>
+<td width=20%>в– 2009-11-13 09:26:46</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>‚Ё’ѓ‰®‚і‚с‚ЕЏР‰о‚µ‚Д‚ў‚Ѕ‚ѕ‚ў‚ЅЃA‚ ‚МѓeѓЊѓr‚р•ъ‚и“Љ‚°‚Д‚ў‚й“®‰ж‚М”Ф‘g‚Е‚·‚ЛЃB‚ ‚к‚Н–К”’‚Ё‚©‚µ‚­Ћ‹’®‚і‚№‚Д‚ў‚Ѕ‚ѕ‚«‚Ь‚µ‚ЅЃB‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚µ‚ЅЃB<BR>‚±‚МЋАЊ±ѓЊѓ|Ѓ[ѓg•—‚М‚а‚М‚а‚©‚И‚и–К”’‚Ё‚©‚µ‚­ЃAЋv‚н‚ёЏО‚Б‚ї‚б‚¤‚Ж‚±‚л‚Є‚ ‚и‚Ь‚µ‚ЅЃBѓЌЃ[ѓЉѓ“ѓOѓXѓgЃ[ѓ“‚Б‚ДЃфЃ@“Б’Ќ‚Мђ§•ћ‚Б‚Д&#9825;<BR>‚Щ‚Ѕ‚й‚і‚с‚МђV‚µ‚ўЌм•i‚р‚Ё‘Т‚ї‚µ‚Д‚Ё‚и‚Ь‚·ЃB‚ ‚з‚Ѕ‚Я‚ДЃA–К”’‚ўЌм•i‚р‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·‚Е‚·ЃB</td>
-<td>ѓoѓЊѓbѓg</td>
-<td width=20%>ЃЎ2009-11-11 23:54:22</td>
+<td style=font-size:10pt>гЃЉиЊ¶е±‹гЃ•г‚“гЃ§зґ№д»‹гЃ—гЃ¦гЃ„гЃџгЃ гЃ„гЃџгЂЃгЃ‚гЃ®гѓ†гѓ¬гѓ“г‚’ж”ѕг‚ЉжЉ•гЃ’гЃ¦гЃ„г‚‹е‹•з”»гЃ®з•Єзµ„гЃ§гЃ™гЃ­гЂ‚гЃ‚г‚ЊгЃЇйќўз™ЅгЃЉгЃ‹гЃ—гЃЏи¦–иЃґгЃ•гЃ›гЃ¦гЃ„гЃџгЃ гЃЌгЃѕгЃ—гЃџгЂ‚гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ—гЃџгЂ‚<BR>гЃ“гЃ®е®џйЁ“гѓ¬гѓќгѓјгѓ€йўЁгЃ®г‚‚гЃ®г‚‚гЃ‹гЃЄг‚Љйќўз™ЅгЃЉгЃ‹гЃ—гЃЏгЂЃжЂќг‚ЏгЃљз¬‘гЃЈгЃЎг‚ѓгЃ†гЃЁгЃ“г‚ЌгЃЊгЃ‚г‚ЉгЃѕгЃ—гЃџгЂ‚гѓ­гѓјгѓЄгѓіг‚°г‚№гѓ€гѓјгѓігЃЈгЃ¦в™ЄгЂЂз‰№жіЁгЃ®е€¶жњЌгЃЈгЃ¦&#9825;<BR>гЃ»гЃџг‚‹гЃ•г‚“гЃ®ж–°гЃ—гЃ„дЅње“Ѓг‚’гЃЉеѕ…гЃЎгЃ—гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂ‚гЃ‚г‚‰гЃџг‚ЃгЃ¦гЂЃйќўз™ЅгЃ„дЅње“Ѓг‚’гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЃ§гЃ™гЂ‚</td>
+<td>гѓђгѓ¬гѓѓгѓ€</td>
+<td width=20%>в– 2009-11-11 23:54:22</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -121,24 +121,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-‚Ё–ј‘O(•Kђ{) 
+гЃЉеђЌе‰Ќ(еї…й €) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(”C€У) 
+E-Mail(д»»ж„Џ) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-ѓЃѓbѓZЃ[ѓW 
+гѓЎгѓѓг‚»гѓјг‚ё 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    “ЉЌe    " class="d1">
-<input type=reset value="  Џ‘’ј‚µ  " class="d2">
+<input type=submit value="    жЉ•зЁї    " class="d1">
+<input type=reset value="  ж›ёз›ґгЃ—  " class="d2">
 <input type=hidden name="res" value="20091111230559">
 <input type=hidden name="num_r" value="20091111230559">
 <input type=hidden name="url" value="">
@@ -154,17 +154,17 @@ E-Mail(”C€У)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<–Я‚й</a>
+<<ж€»г‚‹</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20091111230559">
 <input type=hidden name="log" value="">
 <td>
-Љґ‘z‹LЋ–ЌнЏњPASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="ЉЗ—ќЋТ—p" class="d1">
+ж„џжѓіиЁдє‹е‰Љй™¤PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="з®Ўзђ†иЂ…з”Ё" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -174,9 +174,9 @@ E-Mail(”C€У)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-•ТЏW<input type=radio name=type value="form" checked class="d3">
-ЌнЏњ<input type=radio name=type value="dele" class="d3">
-<input type=submit value="“ЉЌeЋТ—p" class="d1">
+з·Ёй›†<input type=radio name=type value="form" checked class="d3">
+е‰Љй™¤<input type=radio name=type value="dele" class="d3">
+<input type=submit value="жЉ•зЁїиЂ…з”Ё" class="d1">
 </td>
 </form>
 </tr>

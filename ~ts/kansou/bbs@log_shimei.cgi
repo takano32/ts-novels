@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�l�������i�@���z�f����</title>
+<title>四迷さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�l�������i�@���z�f����</font>
+<font size=5>四迷さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="shimei">
 <input type=hidden name="nj" value="Gfqdmd3jgr">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h x5PPdL  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="x5PPdL"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード x5PPdL  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="x5PPdL"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,14 +44,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> �w�d�k�d�l�d�m�s�f����R�b�x������ɂ͂������N���b�N�B</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> 『ＥＬＥＭＥＮＴ’ｓ第３話』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/06 (��) 20:43:40 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612063204340&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612063204340"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/06 (水) 20:43:40 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612063204340_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200612063204340"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z������̂��Ȃ��ȗV�ѐl���񂩂炱�����A�u�������ς��Ɛ��̂��킩��Ȃ��Ȃ�v�Ƃ������񑩂����̍��ɂ͂���܂��B�c�c����A��������Ȃ��āi�΁j�B<br>
+<font size=3 color=#606060>【推薦文】桜吹雪のいなせな遊び人さんからこっち、「服装が変わると正体がわからなくなる」というお約束がこの国にはあります。……いや、そうじゃなくて（笑）。<br>
 <a href=http://ts.novels.jp/novel/200609/26211153/elements3.htm target=_top>http://ts.novels.jp/novel/200609/26211153/elements3.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -59,41 +59,41 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂���</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 感想ありがとうございます♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/05 (��) 21:09:53 <strong>��</strong> �l�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611050210953&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611050210953"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/05 (日) 21:09:53 <strong>▽</strong> 四迷 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611050210953_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200611050210953"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A����΂�핶���ł��B<br>
-����ׂ̈ɏĂ��C�J��H�ׂȂ��玟�񕪍쐬���B<br>
-���z�����l�B�ɋ����͂��l�撣��܂��I<br>
-���̑O�ɖŒ��ꒃ�ȍ\���̊��z�����ǂ��ɂ����悤�����B<br>
-�ł͕ԐM�ł��B<br>
+<font size=3 color=#606060>どうも、こんばんわ文明です。<br>
+次回の為に焼きイカを食べながら次回分作成中。<br>
+感想くれる人達に胸をはれる様頑張ります！<br>
+その前に滅茶苦茶な構成の感想文をどうにかしよう自分。<br>
+では返信です。<br>
 <br>
-<font color="#ff88cc">���ߓރm�]�~����</font><br>
-�Ăѓǂ�ł�����������Ɋ��z�܂ŁA�{���ɂ��肪�Ƃ��������܂��B<br>
-����͐F�X�l�ߍ��݂������ȂƁA�������Ȃ��Ă܂��B<br>
-�M���O�I�����[����̋}�ȘH���ύX�������̂ƍ쐬���ٗl�ȃm���������ׁA�`���Ă������̋L�����قƂ�Ǐ����Ă܂��ˁB�e�Ɋp�E���g���}���ɕϐg���Ȃ��ƃM���O���甲���o���Ȃ������Ƃ����ꂵ����������B�n���������B<br>
-�ꕪ�Ԃ͖ڈ��Ȃ̂ŁA�����������œ����Ό����Ƃ��F�X�ł��锤�B<br>
-����Ɣނ̕ϐg�͓���̂ɁA�������������������肾������c<br>
-���񂩂�뎚���C�����Ă��������Ǝv���܂��B���w�E���肪�Ƃ��������܂����B<br>
+<font color="#ff88cc">＞令奈ノゾミさん</font><br>
+再び読んでいただいた上に感想まで、本当にありがとうございます。<br>
+今回は色々詰め込みすぎたなと、少し反省してます。<br>
+ギャグオンリーからの急な路線変更だったのと作成中異様なノリだった為、描いていた時の記憶がほとんど消えてますね。兎に角ウルトラマ○に変身しないとギャグから抜け出せなかったという苦しい言い逃れ。馬鹿か自分。<br>
+一分間は目安なので、多分超高速で動けば牽制とか色々できる筈。<br>
+それと彼の変身は特殊故に、違った趣向を取り入れるつもりだったり…<br>
+次回から誤字等気をつけていきたいと思います。ご指摘ありがとうございました。<br>
 <br>
-<font color="#ff88cc">������������</font><br>
-���̍�i�͕��S�������Ɠ{��Ɏx�z�����Ǝv���܂�orz<br>
-���e���ӔC�]�X�͑������v�ł��B�̂���ޓ����̈ꑰ�͑啔�����l�̐g�̎؂�Ă܂����疳���B<br>
-�W�F���[�h�B�ނ̈ʒu�ň�Ԏ��Ă���̂̓K�������W���[�̃c���c�G�A���o�C���ł��B<br>
-������Ƃ�����ł͂���܂��񂪁A���b�͂��ꂩ������T�C�N���Ƃ��āA�E��ꂽ���l���g�����������Ȃ�Ǝv���܂��B<br>
-���}���g�̐M���͖��邭�y�������C�y�ɁB�d���ɂ͏΂����I�@�Ƃ����̂����b�g�[�Ɋ������B�ȒP�Ɍ����Ȃ�m�������̂��n������B�ł��A���ȏ��Ő��ԑ̂��ӎ�����i�C�X�K�C�i�΁j<br>
-�����}���g�͊����̈�A���̎q������W�F���[�h�͈����l�^�ɂ͂��d�u������<br>
-�߂������ǁA�ނ��������P�W�̐��E�ɂ͓˓��������ɂ���܂����B<br>
-�E���g���֌W�̓V���A�X�d���Ői�߂Ă�������ł��B��b�ɕt�����o���ڕW�ɁB�E���g�����o�Ȃ����͋��炭�M���O�I�����[�c�c�ʖڂ���񎩕��I�H<br>
+<font color="#ff88cc">＞流離太さん</font><br>
+この作品は仏心が無いと怒りに支配されると思いますorz<br>
+父親が責任云々は多分大丈夫です。昔から彼等光の一族は大部分が人の身体借りてますから無問題。<br>
+ジェラード。彼の位置で一番似ているのはガ○レンジャーのツ○ツエ、ヤバイ○です。<br>
+だからという訳ではありませんが、怪獣はこれからもリサイクルとして、殺られた怪人を使う事が多くなると思います。<br>
+黒マントの信条は明るく楽しくお気楽に。仕事には笑いを！　というのをモットーに活動中。簡単に言うならノリが命のお馬鹿さん。でも、妙な所で世間体を意識するナイスガイ（笑）<br>
+黒いマントは幹部の印、女の子愛するジェラードは悪いネタにはお仕置きさ♪<br>
+悲しいけど、彼がいる限り１８の世界には突入しそうにありませんよ。<br>
+ウルトラ関係はシリアス重視で進めていくつもりです。一話に付き一回登場を目標に。ウルトラが出ない時は恐らくギャグオンリー……駄目じゃん自分！？<br>
 <br>
-�Ō�ɁB<br>
-���z������������������A�{���ɂ��肪�Ƃ��������܂��B<br>
-�ق����͂ł����A���ꂩ������S���ӂ���΂�܂��̂ŕ��S�������Č�����Ă��������i�I�C<br>
-����ł͍���̓R���ɂĎ��炵�܂��B<br>
+最後に。<br>
+感想をくださったお二方、本当にありがとうございます。<br>
+拙い文章ですが、これからも誠心誠意がんばりますので仏心を持って見守ってください（オイ<br>
+それでは今回はコレにて失礼します。<br>
 <br>
 </font>
 </td></table>
@@ -102,98 +102,98 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> �����A�킢���I�т₪�����c�c</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> あいつ、戦い方選びやがった……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/01 (��) 10:47:29 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611013104729&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611013104729"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/01 (水) 10:47:29 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611013104729_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200611013104729"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��͂񂱁`�A�������ł���<br>
-���b�A�q�ǂ����Ă��������܂����I<br>
-���̐S�������āi�΁j<br>
+<font size=3 color=#606060>こんにちはんこ〜、流離太です♪<br>
+第二話、拝読させていただきました！<br>
+仏の心を持って（笑）<br>
 <br>
-�̂����̃i���[�V���������������ˁI<br>
-����A�̋��̂�������͊��ł����Ǝv���܂���H<br>
-���ꂪ�A�s�r�����̕��e�̏h����I<br>
-�����A�ł����x�́A���e���ӔC���Ȃ���΂����񂱂ƂɁB<br>
+のっけのナレーションがいいっすね！<br>
+いや、故郷のお父さんは喜んでくれると思いますよ？<br>
+それが、ＴＳっ娘の父親の宿命よ！<br>
+ああ、でも今度は、父親が責任取らなければいかんことに。<br>
 <br>
-���āA�G�Ђ���W�F���[�h����I�I<br>
-���O�͊Â����Ȃ̂ɁA�s���͐h�����Ă��H<br>
-�Ђł���i���������񂾁c�c�B<br>
-�Ǝv������A�z���C�g�ɗD�������t��������W�F���[�h�B<br>
-���[��A���̕��G�Ȏv�l��H���A�����������t���Ă����J���X�}���Ȃ̂��낤���c�c�B<br>
-��ԍD���ȃL�����́A�ނ�������܂���i�΁j<br>
+って、雑巾かよジェラードさん！！<br>
+名前は甘そうなのに、行動は辛いってか？<br>
+ひでぇ上司がいたもんだ……。<br>
+と思ったら、ホワイトに優しい言葉をかけるジェラード。<br>
+うーん、この複雑な思考回路が、部下を引き付けていくカリスマ性なのだろうか……。<br>
+一番好きなキャラは、彼かもしれません（笑）<br>
 <br>
-�����āA�N���X���C�g�B<br>
-���A�_���i�Ƀl���T�X�A�A�������B<br>
-�w�Z�̖��O������̂��̂����c�c�E���g���t�@���ɂƂ��Ă͂��Ȃ肨�������ȁ�<br>
+そして、クラスメイト。<br>
+あ、ダ○ナにネ○サス、ア○ルだ。<br>
+学校の名前も初代のものだし……ウルトラファンにとってはかなりおいしいな♪<br>
 <br>
-�����āA������̖уo���^���I<br>
-�c�c�����܂�����<br>
-�ŏ��T�h�����Ǝv���Ă��܂������A�q�`�b�b�n���񂾂����񂾁�<br>
+そして、現われる体毛バルタン！<br>
+……吹きましたｗ<br>
+最初サドラかと思っていましたが、ＲＡＣＣＯさんだったんだ♪<br>
 <br>
-�ɂ��Ă��A�䂾�Ȃ����{�B<br>
-�܂����A�{���ɃA�O�����H<br>
-�̂̒��Ԃ��Ă̂��C�ɂȂ邵�c�c�H<br>
+にしても、謎だなぁ藤宮。<br>
+まさか、本当にアグ○か？<br>
+昔の仲間ってのも気になるし……？<br>
 <br>
-�ŁA�}�P�b�g�X�g�[���I<br>
-�u���e�I�[���A���A���C�Y�v�Ǝv�킸���������Ⴂ�܂�����<br>
-��F�̋��l�c�c�q�J�����H�@�����A�Z�𒅂��Ă܂��B<br>
+で、マケットストーン！<br>
+「メテオール、リアライズ」と思わず口走っちゃいました♪<br>
+銀色の巨人……ヒカリか？　いえ、鎧を着けてます。<br>
 <br>
-�ŁA�Z���t�B�E�������͂₽�炩���������I�I<br>
-�����c�c�������ꂿ�Ⴂ�܂����B<br>
-�����A�����E���g���}�����������Ȃ����B<br>
-���������A�]�C�������Ă��΂炵���ł���<br>
+で、セラフィウム光線はやたらかっこいい！！<br>
+もう……酔いしれちゃいました。<br>
+ああ、私もウルトラマン書きたくなった。<br>
+幕引きも、余韻があってすばらしいです♪<br>
 <br>
 <br>
-�Ƃ������ƂŁA�������z�I<br>
-����A�΂��邵�A�����������I�@�������E���g���I<br>
-����Ȃ��̍�i�ł���<br>
-����c���Ă邵�A�{���Ɏ��񂪊y���݂Łc�c�B<br>
-����͐G�肩�B<br>
-�P�W�փM���̃v���C�����҂��Ă��܂����H�i��<br>
+ということで、総合感想！<br>
+いや、笑えるし、かっこいい！　しかもウルトラ！<br>
+文句なしの作品です♪<br>
+謎も残ってるし、本当に次回が楽しみで……。<br>
+次回は触手か。<br>
+１８禁ギリのプレイを期待していますぜ？（え<br>
 <br>
-�ɂ��Ă��A�m���_�[�C�C�f�X���l��<br>
-���ɁA��s���j���D���������c�c�ĕ������Ă���Ȃ����ȁH<br>
+にしても、ノリダーイイデスヨネ♪<br>
+特に、帝都大戦男が好きだった……再放送してくれないかな？<br>
 <br>
-�ł́A����΂��Ă��������܂��`��</font>
+では、がんばってくださいませ〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> �S�Ɍ��A�̋��ɋ�</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> 心に剣、故郷に錦</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/30 (��) 03:23:35 <strong>��</strong> �ߓރm�]�~ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610301032335&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610301032335"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/30 (月) 03:23:35 <strong>▽</strong> 令奈ノゾミ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610301032335_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200610301032335"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂����Ă݂܂����A�ǂ����ł��B<br>
+<font size=3 color=#606060>また来てみました、どうもです。<br>
 <br>
-�悸�c�J�[�J�L���L�����Ȃ�ĕ������̉��N�U�肾�낤�B(�ŏ������ꂩ)<br>
-������ʂ�V�L�����A�{���̐����A�����̂��߂ɕ����A�����ă��T�C�N������郉�b�R�j�c�f�G�ɃG���^�e�C�������g���ĂāA���Ă��Ė����ł��������ł���B<br>
-�����A���Ƃ悤�₭�E���g���ȃq�[���[�炵�����􂪂ł����̂ŁA�ނ����S�z�b�Ƃ��Ă�̂ł��傤�ˁB<br>
-�c��H�ށH����ޏ��ޏ��B<br>
-�ł��ϐg���ԂP������A�l�q�����̌������̗I���Ȏ������Ă�S�̗]�T���Ȃ������ł��ˁB�c�����G�l���M�[���Ƃ���A�C�A���ȉ�����ƃ^�����c�ϐg���ԁc<br>
+先ず…カーカキンキンだなんて聞いたの何年振りだろう。(最初がそれか)<br>
+日常を彩る新キャラ、怒涛の寸劇、明日のために伏線、そしてリサイクルされるラッコ男…素敵にエンタテインメントしてて、見ていて愉快でいい感じですょ。<br>
+あっ、あとようやくウルトラなヒーローらしい活躍ができたので、彼も内心ホッとしてるのでしょうね。<br>
+…ん？彼？いや彼女彼女。<br>
+でも変身時間１分じゃ、様子見だの牽制だの悠長な事をしてる心の余裕もなさそうですね。…水をエネルギー源とするアイアンな王さんとタメか…変身時間…<br>
 <br>
-�ɂ����̂́A��ϊ�������ڂɕt�����c�ł��˂��B�ށ[�A����؉H�l�܂��Ă炵���̂�����</font>
+惜しいのは、誤変換が幾つも目に付く所…ですねぇ。むー、今回切羽詰まってらしたのかしら</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> �w�d�k�d�l�d�m�s�f����Q�b�x������ɂ͂������N���b�N�B</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> 『ＥＬＥＭＥＮＴ’ｓ第２話』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/28 (�y) 21:09:56 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610286210956&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610286210956"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/28 (土) 21:09:56 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610286210956_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200610286210956"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�O��A�Z�Z�����ɂ̂�ڂ��Ă��܂����F���l�̐l�i�΁j�B����Ȕށ\�\�ޏ��̑O�Ɍ��ꂽ�̂́c�c<br>
+<font size=3 color=#606060>【推薦文】前回、〇〇少女にのり移ってしまった宇宙人の人（笑）。そんな彼——彼女の前に現れたのは……<br>
 <a href=http://ts.novels.jp/novel/200609/26211153/elements2.htm target=_top>http://ts.novels.jp/novel/200609/26211153/elements2.htm</a></font>
 </td></table>
 </td></tr></table>
@@ -201,37 +201,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> ���w�E���肪�Ƃ��������܂��B</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> ご指摘ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/11 (��) 22:44:25 <strong>��</strong> �l�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610113224425&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610113224425"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/11 (水) 22:44:25 <strong>▽</strong> 四迷 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610113224425_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200610113224425"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ������񁖁���B�l���ł��B<br>
-�F�X�Ƃ��w�E���肪�Ƃ��������܂��B<br>
-���񂷂łɎ��񕪂̘b�𑗂��Ă��܂�����Ȃ̂ŁA���ɂ��̘b���������Ă������Ǝv���܂��B<br>
+<font size=3 color=#606060>どうもこん＊＊わ。四迷です。<br>
+色々とご指摘ありがとうございます。<br>
+今回すでに次回分の話を送ってしまった後なので、次にこの話を活かしてきたいと思います。<br>
 <br>
-<font color="#ff88cc">���Ƃ��肷���肳��</font><br>
-���M�ɂ��Ă͂��̒ʂ�ł��ˁA���݂܂���B<br>
-�Ȃ�Ɋւ��Ă����[�҂��Ǝ������ɔF�߂Ă���̂ŁA�N�Z�̂悤�ېg���o�Ă܂����B<br>
-�M���O�I�����[��\�肵�ď����Ă����̂ŁA�����̕����M���O�炵�����Ǝv���Ă���Ă��܂��������������ɂ��܂��B<br>
-�p�\�R���A���l��������Ă�Ƃ������͂��Ȃ�̌��l����ł����H<br>
-����ȕ�����w���󂯂�����ɂ͂����Ƃ܂Ƃ��ɕ`���Ȃ��Ƃ����Ȃ��Ȃ��B<br>
-�����C�����ĕ����A���������͖������Ă������Ǝv���܂��B<br>
-�����A���C����������Ă����Ȃ�^�ɐ\���󂠂�܂���ł����B<br>
+<font color="#ff88cc">＞とをりすがりさん</font><br>
+自信についてはその通りですね、すみません。<br>
+なんに関しても半端者だと自他共に認めているので、クセのよう保身が出てました。<br>
+ギャグオンリーを予定して書いていたので、伏字の方がギャグらしいかと思ってやってしまった阿呆がここにいます。<br>
+パソコン、同人誌をやってるという事はかなりの玄人さんですか？<br>
+そんな方から指導受けたからにはもっとまともに描かないといけないなぁ。<br>
+次より修正して伏字、言い換えは無くしていこうと思います。<br>
+もし、お気を悪くされていたなら真に申し訳ありませんでした。<br>
 <br>
 <br>
-<font color="#ff88cc">������������</font><br>
-���z���肪�Ƃ��������܂��`��<br>
-��̕ϐg�c�c�ϐg�オ�u�}���v�Ȃ���Ȃ��̂ł͂Ȃ����Ǝ��͎v���܂��B<br>
-�M���O�ɂ͐F�X�g���������̂�����܂����B<br>
-���ǂ�肷����ƁA����ꂽ���𖳎��������Ȃ̂ō���͎㊥�H���ύX����邩������܂���B<br>
-���͂Ȃǂ̎w�����肪�Ƃ��������܂��B<br>
-�w�E���ꂽ���Ƃ𒼂��A��肭�i�߂���悤���i���Ă����܂��̂ō�������w�����ڝ��̒��X�������肢���܂��B<br>
-���Ȃ݂Ƀm���_�[�͍��ł����̉i���̃q�[���[�ł��B����Ӗ��N�E�K�ȏ�ɁB<br>
+<font color="#ff88cc">＞流離太さん</font><br>
+感想ありがとうございます〜♪<br>
+凪の変身……変身後が「マン」なら問題ないのではないかと私は思います。<br>
+ギャグには色々使いたいものがありました。<br>
+けどやりすぎると、言われた事を無視しそうなので今後は弱冠路線変更されるかもしれません。<br>
+文章などの指導ありがとうございます。<br>
+指摘されたことを直し、上手く進められるよう精進していきますので今後もご指導ご鞭撻の程宜しくお願いします。<br>
+ちなみにノリダーは今でも私の永遠のヒーローです。ある意味クウガ以上に。<br>
 <br>
-�ł͍���͂���ɂĎ��炳���Ă��������܂��B<br>
+では今回はこれにて失礼させていただきます。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -239,141 +239,141 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �₪�ϐg���Ă��A�E���g���u�}���v�l�N�T�X�Ȃ̂ł��傤���H</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 凪が変身しても、ウルトラ「マン」ネクサスなのでしょうか？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/08 (��) 19:07:46 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610080190746&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610080190746"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/08 (日) 19:07:46 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610080190746_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200610080190746"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��͂񂱁`�A�������ł��I<br>
-���z���x��Ă��݂܂���B<br>
-�u�d�k�d�l�d�m�s`���v�q�ǂ����Ă��������܂�����<br>
+<font size=3 color=#606060>こんにちはんこ〜、流離太です！<br>
+感想が遅れてすみません。<br>
+「ＥＬＥＭＥＮＴ`ｓ」拝読させていただきました♪<br>
 <br>
-�̂�������e���V�����}�㏸�I<br>
-�}�b�N�X�̃T���g�������Ȃ���A���̊��z�����Ă��܂����A���E���g���q�[���[�̖����c�c�B<br>
-�G�[�X�������̂܂�܁H�@�c�c�Ȃ�Ďv���Ă�����A�H�[�X�I�I<br>
-���΂ł��i�O�O�j<br>
+のっけからテンション急上昇！<br>
+マックスのサントラ聞きながら、この感想書いていますが、歴代ウルトラヒーローの名が……。<br>
+エースだけそのまんま？　……なんて思っていたら、工ース！！<br>
+爆笑です（＾＾）<br>
 <br>
-�Ă������A�����Ȃ�l�ׂ����E���g���q�[���[���ď������I�I<br>
-�����Ă������A������Ⴞ�߂���I�I<br>
-����A���̃u���b�N�ȃW���[�N�ɁA�v�킸����܂����i�΁j<br>
-��ŁA������̂̓��b�R�j�I�I<br>
-���x�̓m���_�[�I�H<br>
+ていうか、いきなり人潰したウルトラヒーローって初だし！！<br>
+初っていうか、やっちゃだめだろ！！<br>
+いや、このブラックなジョークに、思わずやられました（笑）<br>
+んで、現われるのはラッコ男！！<br>
+今度はノリダー！？<br>
 <br>
-�����]���Ƃ��ẮA���B�}�j�A�ɂ͂��܂�Ȃ��l�^���U��΂߂Ă���A�������������ł���<br>
-��b�Ȃ񂩂��m���悭�i�߂��A���ɍD�������Ă܂����B<br>
-���ɂ悩�����̂́u�q�`�b�b�n�@�q�`�b�b�n�`�􂨔C�����������B���`�́`�܂܁A�\�`���ւ̐��E�ց`�Ɓ[�A�U���Ă����Ɂ`����܂��傤��v<br>
-�������˓����āc�c���^�t�B�[���h�����I<br>
-�ŁA�Ȃ�Ƃ����Ă��A�C�f�A�������ł���<br>
-���@�����ƃE���g���}���̃~�b�N�X�c�c�����́A���X�v�����܂���B<br>
-���ꂩ����A���̍�i��g��������点�Ă��������܂���<br>
+総合評価としては、特撮マニアにはたまらないネタが散りばめてあり、おいしかったです♪<br>
+会話なんかもノリよく進められ、非常に好感が持てました。<br>
+特によかったのは「ＲＡＣＣＯ　ＲＡＣＣＯ〜♪お任せください。こ〜の〜まま、十〜八禁の世界へ〜とー、誘ってご覧に〜入れましょう♪」<br>
+しかも突入って……メタフィールドかい！<br>
+で、なんといってもアイデアがいいです♪<br>
+魔法少女とウルトラマンのミックス……こいつは、中々思いつきません。<br>
+これからも、この作品を暖かく見守らせていただきます♪<br>
 <br>
-��ŁA���̖ʂɂ��Ăł��B<br>
-�u�c�v�́u�c�c�v�Ɠ�����Ďg�������ł��B<br>
-���ƁA�u�I�v��u�H�v�̒���́u�v�v�����Ȃ�����A��}�X�󂯂邻���ł��B<br>
-����ŁA�ܑ̂Ȃ��_���ЂƂB<br>
-��b�����A��l���̐S���`�ʂŃe���|�悭�i�߂��Ă���̂ł����A�㔼�͒N���Ȃɂ������Ă���̂��킩��Â炩�����C�����܂��B<br>
-�����������܂������Ȃǂ̍H�v���~���������ł��B<br>
+んで、文体面についてです。<br>
+「…」は「……」と二つ続けて使うそうです。<br>
+あと、「！」や「？」の直後は「」」が来ない限り、一マス空けるそうです。<br>
+それで、勿体ない点がひとつ。<br>
+会話文が、主人公の心理描写でテンポよく進められているのですが、後半は誰がなにを言っているのかわかりづらかった気がします。<br>
+説明文をうまく入れるなどの工夫が欲しかったです。<br>
 <br>
-��������҂��Ă��܂��B<br>
-���ꂩ�������΂�܂��傤�i�O�O�j<br>
-�ł͂ł́`��</font>
+次回も期待しています。<br>
+これからもがんばりましょう（＾＾）<br>
+ではでは〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> ���[�ȕ����E���������͌��ꂵ������</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 半端な伏字・言いかえは見苦しいかも</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/30 (�y) 21:46:11 <strong>��</strong> �Ƃ��肷���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609306214611&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609306214611"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/30 (土) 21:46:11 <strong>▽</strong> とをりすがり </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609306214611_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200609306214611"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ǂ܂��Ă��������܂������A���[�Ȃƌ������Ӗ��̂Ȃ����������╚�������Ɍ��ꂵ���ł�<br>
-�����̍�i�Ɏ��M���Ȃ��Ȃ甭�\���ׂ��ł͂Ȃ��ł����A<br>
-���M������Ȃ瑽���̋��͊Â񂶂Ď󂯂�o������ׂ����Ǝv���܂�<br>
+<font size=3 color=#606060>　読ませていただきましたが、半端なと言うか意味のない言い換えや伏字が非常に見苦しいです<br>
+自分の作品に自信がないなら発表すべきではないですし、<br>
+自信があるなら多少の苦情は甘んじて受ける覚悟をすべきだと思います<br>
 <br>
-P.S.�@�������̓p�\�R������ƃC���^�[�l�b�g���킹��15�N���x�̌o��������̂ŁA<br>
-�@�@�������╚�����g�������C�����͂킩��܂����ǂ�<br>
-�@�@���l�����܂߂�Ɓc���N����������(^^;</font>
+P.S.　あたしはパソコン時代とインターネットあわせて15年程度の経験があるので、<br>
+　　言換えや伏字を使いたい気持ちはわかりますけどね<br>
+　　同人誌を含めると…何年だったかな(^^;</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> ���x���ɁI�H</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 恐悦至極！？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/29 (��) 22:25:03 <strong>��</strong> �l�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609295222503&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609295222503"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/29 (金) 22:25:03 <strong>▽</strong> 四迷 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609295222503_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200609295222503"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ƂȂ����Ă݂��f���B<br>
-�ŏ����疳�����낤�ƍ��������Ă��������̊�ɐM�����Ȃ����̂��B<br>
-�}�W�����I�}�W�����I�H�}�W�b�����I�H<br>
-���z���Ă那�������������������I�H<br>
-���̐l�̍�i�ǂ�ł�r�������ǁA�f�Ŋ����������̂ł��Ԏ��������Ă��������܂��B<br>
+<font size=3 color=#606060>何となく見てみた掲示板。<br>
+最初から無いだろうと高を括っていた自分の眼に信じられないものが。<br>
+マジすか！マジすか！？マジッすか！？<br>
+感想来てるぅぅぅぅぅぅうううう！？<br>
+他の人の作品読んでる途中だけど、素で嬉しかったのでお返事書かせていただきます。<br>
 <br>
-<font color="#ff88cc">���َq����</font><br>
-��ԍŏ��̊��z���肪�Ƃ�������܂��I�F���l�ƌ����Ă��A���Ȋ����ł����ǂˁi��΁j<br>
-�����肭���͉^�΂Ȃ��Ƃ�������V�ăq�[���[�ɋ����Ă�肽�������̂ł��i�R�j<br>
-�{���ł̔��������ǂ��Ƃ����̂͗\�z�O�c���������ĉ䂪��]�̈ꕔ������M�ӂ��d�g�z���ɓ`������̂ł́I�H<br>
-���������΍ŋߍs���ĂȂ��Ȃ��`������舵���X�B<br>
-�E���g���}���o����]�ł�����΂����Əo���܂���I�c�����B<br>
+<font color="#ff88cc">＞菓子さん</font><br>
+一番最初の感想ありがとう御座います！宇宙人と言ってもアレな感じですけどね（苦笑）<br>
+毎回上手く事は運ばないという事を新米ヒーローに教えてやりたかったのです（嘘）<br>
+本屋での買い物が良いというのは予想外…もしかして我が願望の一部だから熱意が電波越しに伝わったのでは！？<br>
+そう言えば最近行ってないなぁ〜同●取り扱い店。<br>
+ウルトラマン出演希望でしたらばちゃんと出しますよ！…多分。<br>
 <br>
-<font color="#ff88cc">���ߓރm�]�~����</font><br>
-�����Ċ��z���肪�Ƃ�������܂��`��<br>
-�V�������ŏ��͕��ʂ̏��̎q�ɜ߈˂���蔤�������̂ł����A���������ꏊ�ɂ��Ĉ����Ƃ����̂��݂藈���肷�����Ȃ��Ǝv�����ׁA�l�ꔪ�ꂵ�ďo�����̂����@�����Ƃ̗Z���B���̖��@�����ƂȂ̂��c����͌����̈���������ׂ����ɐݒ肵�����̂��̂ł������c�`<br>
-����Ƀ\���̋��l���񂾂��Ēm�b���鐶�����ł�����A��s�����Č��������Ȃ�ɈႢ����܂���B�x�������⁜���R���ŋߗ̎����������Ȃ��č����Ă��ł��B�ӊO�ƌ��̍������m�h���Ȃ��Ă��ł��B����Łi�΁j<br>
-���Ȃ݂ɖ����N�E�K�͎��̍��ɋ����Ă܂�����B<br>
-�Ղ̂���ꏊ���z�[���O���E���h�ł����c�{�C�őA�܂����Ǝv�����͑ʖڐl�ԁHorz<br>
-<font color="#ff88cc">���ق��ɂ������o�[��p�ӂ��Ă���������̂ł��傤�ˁc�B</font><br>
-�͂��A���܂��B��l���̑��ɂS�`�T�l���炢�B����ƂȂ�Ɓc����ς�u�r���l�҂��Ǝv���܂��B<br>
+<font color="#ff88cc">＞令奈ノゾミさん</font><br>
+続いて感想ありがとう御座います〜♪<br>
+新しい＝最初は普通の女の子に憑依する手筈だったのですが、落下した場所にいて圧死というのも在り来たりすぎかなあと思った為、四苦八苦して出来たのが魔法少女との融合。何故魔法少女となのか…それは劇中の圧死させる為だけに設定した筈のものでしたが…〜<br>
+それにソラの巨人さんだって知恵ある生き物ですから、愚痴だって言いたくなるに違いありません。警●隊も銀●字軍も最近領収書が落ちなくて困ってるんです。意外と光の国も世知辛くなってるんです。高齢化で（笑）<br>
+ちなみに未だクウガは私の魂に響いてますから。<br>
+虎のある場所がホームグラウンドですか…本気で羨ましいと思う私は駄目人間？orz<br>
+<font color="#ff88cc">＞ほかにもメンバーを用意していらっしゃるのでしょうね…。</font><br>
+はい、います。主人公の他に４〜５人くらい。活躍となると…やっぱりＶＳ怪人編だと思います。<br>
 <br>
-�������ɏ������Ƃ���A���z�����ꂽ�l������̂Ŗ{�C�ő����������Č������Ǝv���܂��B<br>
-�ǂ�Șb�ɂȂ邩�����ł�����ł����A���t������������������K���ł��B<br>
-���񂠂��苭���I�ɃE���g���}�\�������āA���̎����@�������̒��ԓo��Ƃ��\�肵�Ă݂���B<br>
+口頭文に書いたとおり、感想をくれた人がいるので本気で続きを書いて見たいと思います。<br>
+どんな話になるか自分でも未定ですが、お付き合いいただけたら幸いです。<br>
+次回あたり強制的にウルトラマソ化させて、その次魔法少女隊の仲間登場とか予定してみたり。<br>
 <br>
-���̂悤�ȋ��҂Ɋ��z�����ꂽ������A�{���ɂ��肪�Ƃ�������܂��B<br>
-�撣���ĕ��͔\�͏グ�Ă������Ǝv���܂��̂ŉ�����������Ă��������B<br>
-�����������炵�܂����B<br>
-����ł́I</font>
+私のような愚者に感想をくれたお二方、本当にありがとう御座います。<br>
+頑張って文章能力上げていこうと思いますので温かく見守ってください。<br>
+長文乱文失礼しました。<br>
+それでは！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �Ȃ�Ƃ��Ȃ�͂�����A�����ɂ��镨��</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> なんとかなるはずだわ、そこにある物で</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/29 (��) 00:06:20 <strong>��</strong> �ߓރm�]�~ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609295000620&log=shimei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609295000620"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/29 (金) 00:06:20 <strong>▽</strong> 令奈ノゾミ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609295000620_log_shimei.cgi">返信</a>　削除<input type=checkbox name="target" value="200609295000620"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�q�����Ă����A�ǂ��ɂ����C������}����ꂸ�Q�サ�܂����B<br>
+<font size=3 color=#606060>拝見してから後、どうにも募る気持ちを抑えられず参上しました。<br>
 <br>
-�ނ��c�V�����B<br>
-�\���̋��l���A�n���̖��@�����Ɂc��̈Ⴄ�͂���ɂ�����l���A�Ǝv�킹�Ă����đS�R�܂Ƃ��ɗ͂�(���̂Ƃ����)�g���Ȃ����ۂ��c�c����[�V�����B<br>
-�Ƃ������A�\���̋��l����̋�s�Ȃ�ĕ����܂��񂵂ˁB�V�N�ł����B<br>
-�O�����M��́A���邾���Ŏ��͎҂Ɍ����邩��̑�ł���ˁ[�c���b�R�Ȃ̂ɁB�m���A�{�Z�[�E�h�]���U���u����Ńg�h�����v�A�{�\�M�E�_�u�o�E�X�o�S�U�o�Łu�E�������Ȃ�炾�ȁv�ł��������i�ǂ��ł�����<br>
-���ƁA���n���̂R�u�N���Ƃ̎��ł����A���̃z�[���O���E���h�������肵�܂�w<br>
-�Ղ̎O�K�ɂ���R�~���j�P�[�V�����m�[�g�̏�A���Ă܂��A�����V�тɂ��������鎖���������܂�����A����X���[���Ă���Ă��������i��<br>
-���n���̂Q�͂ǂ��Ȃ񂾂낤�c�N�W���V�[�H<br>
+むぅ…新しい。<br>
+ソラの巨人が、地球の魔法少女に…二つの違う力を手にした主人公、と思わせておいて全然まともに力を(今のところは)使えないっぽい……いやー新しい。<br>
+というより、ソラの巨人さんの愚痴なんて聞けませんしね。新鮮でした。<br>
+グロンギ語は、喋るだけで実力者に見えるから偉大ですわねー…ラッコなのに。確か、ボセゼ・ドゾレザが「これでトドメだ」、ボソギ・ダブバ・スバゴザバで「殺したくなる顔だな」でしたっけ（どうでもいい<br>
+あと、聖地その３ブクロとの事ですが、私のホームグラウンドだったりしますw<br>
+虎の三階にあるコミュニケーションノートの常連してます、もし遊びにいらっしゃる事がございましたら、是非スルーしてやってください（ぇ<br>
+聖地その２はどこなんだろう…クジンシー？<br>
 <br>
-���āA�u���@�������v�Ƃ������́A�ق��ɂ������o�[��p�ӂ��Ă���������̂ł��傤�ˁc�B<br>
-���̊���(�����́c����ł͂Ȃ�����)�A���Ă݂����ł��B<br>
-������藯�߂̂Ȃ����ŋ��k�ł����A����ł�</font>
+さて、「魔法少女隊」という事は、ほかにもメンバーを用意していらっしゃるのでしょうね…。<br>
+その活躍(或いは…活躍ではない何か)、見てみたいです。<br>
+何やら取り留めのない文で恐縮でした、それでは</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="shimei">
@@ -381,16 +381,16 @@ P.S.�@�������̓p�\�R������ƃC���^�[�l�b�g���킹��15�N���x�̌o��������̂ŁA<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="shimei">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=shimei">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_shimei.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

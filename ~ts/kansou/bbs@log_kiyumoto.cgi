@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�I�R���ʘb������@���z�f����</title>
+<title>紀由元駄話沙さん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�I�R���ʘb������@���z�f����</font>
+<font size=5>紀由元駄話沙さん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kiyumoto">
 <input type=hidden name="nj" value="UVh8ExIzwM">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h cVURoQ  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="cVURoQ"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード cVURoQ  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="cVURoQ"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,14 +44,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �wBoy��Girl�CHuman��Homunculus�H�F���b�@Chapter3. �x������ɂ͂������N���b�N�B</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 『Boy→Girl，Human→Homunculus？：第一話　Chapter3. 』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/08 (��) 22:28:33 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200610080222833&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610080222833"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/08 (日) 22:28:33 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200610080222833_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200610080222833"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�Ȃ񂩐��p�ꂪ�т��΂���ь����āA�����ɐ��E�ς������Č����Ă��܂��B�c�c�Ƃ���Ń_�`���E�̓��ƃ^�}�S�̐e�q���́A�܂��ŐH�ׂĂ݂����Ǝv���i�΁j�B<br>
+<font size=3 color=#606060>【推薦文】なんか専門用語がびしばし飛び交って、微妙に世界観が透けて見えてきます。……ところでダチョウの肉とタマゴの親子丼は、まじで食べてみたいと思う（笑）。<br>
 <a href=http://ts.novels.jp/novel/200608/21204946/h_culus03.html target=_top>http://ts.novels.jp/novel/200608/21204946/h_culus03.html</a></font>
 </td></table>
 </td></tr></table>
@@ -62,93 +62,93 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[10]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/04 (��) 07:27:17 <strong>��</strong> �I�R���ʘb�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609041072717&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609041072717"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/04 (月) 07:27:17 <strong>▽</strong> 紀由元駄話沙 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609041072717_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200609041072717"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@������́A�ʔ����ł���ˁB�{���ŉ�͂��Ă݂���X�X�������ł����B<br>
-�c�c�������͐��߂�ƁH�@���킳�ł��B<br>
+<font size=3 color=#606060>　成分解析、面白いですよね。本名で解析してみたら９９％が夢でした。<br>
+……何時かは醒めると？　だわさです。<br>
 <br>
- �����Ђ�ނ��񂳂񏉂߂܂��āB<br>
-�������ĂȂ��Ԃɉ^�c�ψ��l�ւ̘A���A�L�������܂����[�B���萔�|�����Ⴂ�܂����ˁB�����܂���B<br>
+ 高樹ひろむさんさん初めまして。<br>
+私が見てない間に運営委員様への連絡、有難う御座いましたー。お手数掛けちゃいましたね。すいません。<br>
 <br>
-�@�o���b�g���񂱂�ɂ��́B���z�L�������܂��B<br>
-�@�ޔV�̏����ł����c�c�߂���ł����ˁA���q����H<br>
-���q�u������Ȃ��ȁv<br>
-�@�������ł��B��҂ɂ�������܂���B<br>
-�@��A���ʂɃV���A�X����Ă݂܂����B�V���A�X���ē���ł��ˁB�M���O���������̂��}�ɃV���A�X�ɂȂ�Ɨ]�����e���ǂ��Ȃ��ƓǂދC���킪���ł��傤���B�������킳�̓V���A�X�������Ȃ��̎��Ȃ̂ł��傤�B�����ƁB<br>
-�@���������Ύ��̏����E�ł��ˁA����Ӗ����̌��ł��ˁB�v���ł����c�c�A����ł́u����Ă����I�v�Ƃ������A���C�ɓ������̂Ŏ����g�킹�ĖႨ�����ȁH�i�΁j<br>
+　バレットさんこんにちは。感想有難う御座います。<br>
+　奈之の将来ですか……戻れるんですかね、卿子さん？<br>
+卿子「分からないな」<br>
+　だそうです。作者にも分かりません。<br>
+　や、無駄にシリアス入れてみました。シリアスって難しいですね。ギャグだったものが急にシリアスになると余程内容が良くないと読む気が削がれるでしょうし。多分だわさはシリアスが書けない体質なのでしょう。きっと。<br>
+　そういえば私の初推薦ですね、ある意味初体験ですね。貢物ですか……、それでは「そりてぃあ！」という挨拶が気に入ったので私も使わせて貰おうかな？（笑）<br>
 <br>
-�@�^�c�ψ��l<br>
-�@�C�������l�ł����B�����Ή��A�L�������܂����[�B</font>
+　運営委員様<br>
+　修正お疲れ様でした。早い対応、有難う御座いましたー。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> Re:�ǂ���������H</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> Re:どういうつもり？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/03 (��) 12:19:58 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609030121958&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609030121958"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/03 (日) 12:19:58 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609030121958_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200609030121958"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���ژ^�ɍڂ��Ă���t�q�k�ɃA�N�Z�X���悤�Ƃ�����A�t�@�C�A�t�H�b�N�X�̌x�����o���B</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞目録に載っているＵＲＬにアクセスしようとしたら、ファイアフォックスの警告が出た。</font><br>
 <br>
-�@�����f�����������Đ\���󂠂�܂���ł����B<br>
-�@�f�[�^�x�[�X�͏C���������܂����B</font>
+　ご迷惑をおかけして申し訳ありませんでした。<br>
+　データベースは修正いたしました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> �Ԃ�ӂ�邡����I�H</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> ぶゎふゎるぃんっ！？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/02 (�y) 23:26:58 <strong>��</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">�o���b�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609026232658&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609026232658"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/02 (土) 23:26:58 <strong>▽</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">バレット</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609026232658_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200609026232658"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�o���b�g��68%�͍����ŏo���Ă��܂��B<br>
-�o���b�g��17%�͎ւ̔����k�ŏo���Ă��܂��B<br>
-�o���b�g��10%�͏��ŏo���Ă��܂��B<br>
-�o���b�g��4%�͔g���ŏo���Ă��܂��B<br>
-�o���b�g��1%�͖��ŏo���Ă��܂��B<br>
+<font size=3 color=#606060>バレットの68%は砂糖で出来ています。<br>
+バレットの17%は蛇の抜け殻で出来ています。<br>
+バレットの10%は情報で出来ています。<br>
+バレットの4%は波動で出来ています。<br>
+バレットの1%は夢で出来ています。<br>
 <br>
-�@�l���ĉ��Ȃ�ł��傤�H�@�o���b�g�ł��B<br>
+　僕って何なんでしょう？　バレットです。<br>
 <br>
-�@�ׂ����ݒ肳�ꂽ���E�ɁA���񑩎����Ɋ������܂���l���I�@�ׂ������āA���ʐ^���ԁI<br>
-�@�����������E�C���J��L�����Ă���X���āA�����������X�����q������ޔV�̉Ƒ����u�����̂��Ɓv�Ɨ�����Ȃ�āc�c�@��O���킵�Ă��鐢�E���܂��������c�c�@�Ђ��ނ��Ƃ͂悭�Ȃ����ƁB���P�ł��B<br>
-�@�ł��A�^����K���ɉB����l���̐U�镑�����A������ƌ��Ă��ĒɁX���������ł��ˁB�Ō�ɂ̓L���āu�����ޔV���I�v���Č����̂��Ǝv������A�Ō�܂Ŗق����܂܂ŁB<br>
-�@������������ȘB���p���E�ŁA�ޔV�͂��ꂩ��ǂ��Ȃ��ł��傤�H�@�ޔV�̖����͕s���ł�����܂����A����̓W�J�Ƃ��Ă͂ƂĂ��y���݂ł��B<br>
+　細かく設定された世界に、お約束事項に巻き込まれる主人公！　細かすぎて、眼ん玉真っ赤！<br>
+　しかも毎日殺戮が繰り広げられている店って、しかもそれを店もお客さんも奈之の家族も「いつものこと」と流せるなんて……　常軌を逸している世界がまた増えた……　ひがむことはよくないこと。教訓です。<br>
+　でも、真実を必死に隠す主人公の振る舞いが、ちょっと見ていて痛々しかったですね。最後にはキレて「俺が奈之だ！」って言うのかと思ったら、最後まで黙ったままで。<br>
+　何だか難しそうな錬金術世界で、奈之はこれからどうなるんでしょう？　奈之の未来は不安でもありますが、物語の展開としてはとても楽しみです。<br>
 <br>
-�@�Ƃ���ŁA�����i���j�͊��z�Ȃ�ł��傤���H<br>
-�@�������͂����Ƃ܂Ƃ܂�̂��銴�z��p�ӂ������܂��B<br>
+　ところで、こいつ（↑）は感想なんでしょうか？<br>
+　次こそはもっとまとまりのある感想を用意いたします。<br>
 <br>
-�@����Ă����I<br>
+　そりてぃあ！<br>
 <br>
-���c�c�c�c�c�c�c�c�c�c�c�c�c<br>
+＠…………………………………<br>
 <br>
-�@�ȉ��A�}���ŒǋL�B<br>
-�@�ٍ�w�A�i���O������x���A�I�R������ŏ��̃I�X�X����i�ɑI��ł��������܂��āA���肪�Ƃ��������܂��I�@�S���炨���\���グ�܂��i�v���ł��j�I<br>
-�@���Č��������āA�����ǂ݂����������炻�����̂ق��ɖڂ��s���āi�ȉ������ꂵ��������ł��̂ŁA�ؕ��j</font>
+　以下、急いで追記。<br>
+　拙作『アナログ所さん』を、紀由元さん最初のオススメ作品に選んでくださいまして、ありがとうございます！　心からお礼を申し上げます（貢物でも）！<br>
+　何て言ったって、早く読みたかったからそっちのほうに目が行って（以下お見苦しい言い訳ですので、切腹）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �P�Ȃ�ԈႢ</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 単なる間違い</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/02 (�y) 22:09:38 <strong>��</strong> �����Ђ�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609026220938&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609026220938"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/02 (土) 22:09:38 <strong>▽</strong> 高樹ひろむ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609026220938_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200609026220938"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ���烁�[���A�h���X�̂Ƃ���ɏ�����URL���AHomepage�̂Ƃ���Ƀ��[���A�h���X�������Ă���悤�ł��B������x�����o��킯�ŁA�Ⴆ�uYes�v�Ɠ����Ă��P��Yahoo�ɂȂ��邾���Ŏ��Q�͂���܂���B���x����Ȃ��悤�ɁI����<br>
-�Ƃ͂����C�����̂������̂ł͂Ȃ��̂ŁA���}�ɏC�������肢���܂��B���^�c�ψ�����</font>
+<font size=3 color=#606060>どうやらメールアドレスのところに小説のURLが、Homepageのところにメールアドレスが入っているようです。だから警告が出るわけで、例え「Yes」と答えても単にYahooにつながるだけで実害はありません。＞騙されないように！さん<br>
+とはいえ気持ちのいいものではないので、早急に修正をお願いします。＞運営委員さん</font>
 <p><a href="http://blunderer.web.fc2.com/" target="_top">http://blunderer.web.fc2.com/</a>
 </td></table>
 </td></tr></table>
@@ -156,96 +156,96 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �ǂ���������H</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> どういうつもり？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/02 (�y) 18:29:30 <strong>��</strong> �x����Ȃ��悤�ɁI </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609026182930&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609026182930"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/02 (土) 18:29:30 <strong>▽</strong> 騙されないように！ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609026182930_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200609026182930"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ژ^�ɍڂ��Ă���t�q�k�ɃA�N�Z�X���悤�Ƃ�����A�t�@�C�A�t�H�b�N�X�̌x�����o���B&lt;br&gt;�u���̃T�C�g�͂��Ȃ����x�����Ƃ��Ă��܂��v�����āI&lt;br&gt;�Ӂ`��Ȃ���Ȃ��I�I�@&lt;br&gt;&lt;br&gt;&lt;br&gt;</font>
+<font size=3 color=#606060>目録に載っているＵＲＬにアクセスしようとしたら、ファイアフォックスの警告が出た。&lt;br&gt;「このサイトはあなたを騙そうとしています」だって！&lt;br&gt;ふ〜危ない危ない！！　&lt;br&gt;&lt;br&gt;&lt;br&gt;</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �wBoy��Girl�CHuman��Homunculus�H�F���b�@Chapter2. �x������ɂ͂������N���b�N�B</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 『Boy→Girl，Human→Homunculus？：第一話　Chapter2. 』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/01 (��) 21:34:08 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609015213408&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609015213408"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/01 (金) 21:34:08 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609015213408_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200609015213408"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z������������@������������@�R�X���ɉ����ɂӂ�ӂ�h���X����@�c�c�ȁ`��ēW�J�ɐH�����݂̋M���ɕ����܂��i�΁j�B<br>
+<font size=3 color=#606060>【推薦文】お買い物っ♪　お買い物っ♪　コスメに下着にふりふりドレスっ♪　……な〜んて展開に食傷ぎみの貴方に捧げます（笑）。<br>
 <a href=http://ts.novels.jp/novel/200608/21204946/h_culus02.html target=_top>http://ts.novels.jp/novel/200608/21204946/h_culus02.html</a><br>
-�@�� �L�����e�̍ۂ́A���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă��������B</font>
+　※ 記事投稿の際は、入力コード右側の半角英数字６文字を、その右側のボックスに入力してください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �_���Ȋ�Ń������Ƃ��Ă��܂��B</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 神妙な顔でメモをとっています。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/22 (��) 20:09:21 <strong>��</strong> �I�R���ʘb�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608222200921&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608222200921"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/22 (火) 20:09:21 <strong>▽</strong> 紀由元駄話沙 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608222200921_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608222200921"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�x�e�[�P�X���i�����������������j���񏉂߂܂��āB���z���肪�Ƃ�������܂��B<br>
-�@���E���ʂ�̃}�V���K���g�[�N�c�c���E���������ĉ��������^�c�ψ��̕��A�V�˂��Ǝv���܂����B�����ŏ����Ă����ĂȂ�ł����A�}�V���K���g�[�N���Ƃ͎v���܂���ł����B�^�c�ψ��̕��̓}�W�œV�˂��Ǝv���܂��B<br>
+<font size=3 color=#606060>　ＹＦー１９ｋ（ｋｙｏｕｓｕｋｅ）さん初めまして。感想ありがとう御座います。<br>
+　推薦文通りのマシンガントーク……推薦文を書いて下さった運営委員の方、天才だと思いました。自分で書いておいてなんですが、マシンガントークだとは思いませんでした。運営委員の方はマジで天才だと思います。<br>
 <br>
-�@�o���b�g���񏉂߂܂��āB���z���肪�Ƃ�������܂��B<br>
-�@�Ǝ��̐��E�ς̐ݒ�ł����A�B���p�A���p�Ɋւ��鎑���𒲂ׂ��肷��̂��ʓ|������u���A���Ⴀ�S���I���W�i���ł��Ⴀ�����񂶂�ˁH�v�Ƃ����Z���v�l�œƎ��̐��E�ϐݒ�ƂȂ�܂����B���炭��X������鎖�ł��傤�B<br>
-�@���r�c�c�C�A�Ƃ����i���Ȃ������ł����˂��c�c�B�ꉞ�����Ƃ��܂��B�C�{�����Ȃ��݂�B�ޔV���Ȃ䂫�B�ł��B<br>
-�@�o���b�g����̃A�i���O������͓ǂ܂��Ė���Ă܂����@�}�R�g����̃e�B���~�b�g�̖`���L�ł����c�c�ǂ�ł݂܂��ˁ[�B</font>
+　バレットさん初めまして。感想ありがとう御座います。<br>
+　独自の世界観の設定ですが、錬金術、魔術に関する資料を調べたりするのが面倒だから「あ、じゃあ全部オリジナルでやりゃあいいんじゃね？」という短絡思考で独自の世界観設定となりました。恐らく後々後悔する事でしょう。<br>
+　ルビ……鼎、とか普段見ない感じですしねぇ……。一応書いときます。鼎宮→かなえみや。奈之→なゆき。です。<br>
+　バレットさんのアナログ所さんは読ませて貰ってますｗ　マコトさんのティルミットの冒険記ですか……読んでみますねー。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �܂Ƃ�����Ȃ���Q��ł��B</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> まともじゃないやつ参上です。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/22 (��) 00:15:00 <strong>��</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">�o���b�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608222001500&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608222001500"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/22 (火) 00:15:00 <strong>▽</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">バレット</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608222001500_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608222001500"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���ꂳ������o������A����Ӗ��A����S�Ă̈Ӗ��łԂ����ł܂��ˁB<br>
-�@�͂��߂܂��āA�o���b�g�ł��B<br>
+<font size=3 color=#606060>　お母さんもお姉さんも、ある意味、いや全ての意味でぶっ飛んでますね。<br>
+　はじめまして、バレットです。<br>
 <br>
-�@�B���p�Ƃ����ƁA�J�Řb��̍|�̋��������B���p�t���l�C�ł����A�����ł͖��p�ƘB���p�����݂��Ă��āA�������Ɠ��̘B���p�ݒ�Ɛ��E�i����������͓��{�j���Ђ��߂������B����͖ʔ������ł��B<br>
-�@�����āA�ؗ�Ȃ�}�V���K���g�[�N����Ǝo�̔�펯���i��ɂ����Ă͂��Ȃ�ُ̈킳�j���ʔ������Ăɂ₯������āB<br>
-�@�����A���O�Ƀ��r�U���Ă��Ȃ��Ɠ����Ђ˂�̂��A��_���ȁi�ŋ߃_���_�V�����܂���o���b�g�B���߂�Ȃ����j�B<br>
+　錬金術というと、巷で話題の鋼の金髪豆粒錬金術師が人気ですが、ここでは魔術と錬金術が混在していて、しかも独特の錬金術設定と世界（しかも舞台は日本）がひしめき合う。これは面白そうです。<br>
+　そして、華麗なるマシンガントーク＆母と姉の非常識さ（母においてはかなりの異常さ）も面白すぎてにやけちゃって。<br>
+　ただ、名前にルビ振っていないと頭をひねるのが、難点かな（最近ダメダシをしまくるバレット。ごめんなさい）。<br>
 <br>
-�@�B���p�������Ă����i������܂����B<br>
-�@�����ƁA�w�}�R�g�x����́A�w���邯�݂��Ɓ����[���@�e�B���~�b�g�̖`���L�x�ł��B��������ʔ����̂ŁA���Ă݂Ă͂������ł��傤���B<br>
-�@�����āA������Ɩl�ٍ̐���R�}�[�V�����B���݁A�w�A�i���O������x�V���[�Y����D�]�i�����H�j�B�Ȃ̂ŁA����������낵���ł��B<br>
+　錬金術を扱っている作品がありました。<br>
+　ええと、『マコト』さんの、『あるけみすと☆さーが　ティルミットの冒険記』です。こちらも面白いので、見てみてはいかがでしょうか。<br>
+　そして、さらっと僕の拙作もコマーシャル。現在、『アナログ所さん』シリーズが大好評（えっ？）。なので、そっちもよろしくです。<br>
 <br>
-�@���҂��o�܂�����A���̂Ƃ��͂܂��B<br>
-�@����ł́B</font>
+　続編が出ましたら、そのときはまた。<br>
+　それでは。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �n�C�e���V�����I</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> ハイテンション！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/21 (��) 23:06:01 <strong>��</strong> �x�e�[�P�X���i�����������������j </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608211230601&log=kiyumoto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608211230601"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/21 (月) 23:06:01 <strong>▽</strong> ＹＦー１９ｋ（ｋｙｏｕｓｕｋｅ） </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608211230601_log_kiyumoto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608211230601"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���E���ʂ�̍����e�q�}�V���K���g�[�N�Ɉ��|�I�ʂ��Đl�Ԃɖ߂���ł��傤���H</font>
+<font size=3 color=#606060>推薦文通りの高速親子マシンガントークに圧倒！果して人間に戻れるんでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kiyumoto">
@@ -253,16 +253,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kiyumoto">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kiyumoto">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kiyumoto.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���H�}����@���z�f����</title>
+<title>白羽党さん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���H�}����@���z�f����</font>
+<font size=5>白羽党さん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="byakuutoh">
 <input type=hidden name="nj" value="fMUgBmtqWT">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 1TGi72  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="1TGi72"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 1TGi72  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="1TGi72"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,99 +44,99 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> Re:�ǂ݂܂����B</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> Re:読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/05 (��) 22:03:04 <strong>��</strong> ���H�} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509051220304&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509051220304"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/05 (月) 22:03:04 <strong>▽</strong> 白羽党 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509051220304_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200509051220304"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� fun9����<br>
-<font color="#cc88ff">&gt; ���炭��ATS�����Ƃ��Ă̐���������Ղ�Ǝ󂯂Ă��܂��܂����ˁi��<br>
-&gt; �������A���炭��̎����͂܂��܂�������ł��傤�ˁB</font><br>
+<font size=3 color=#606060>▼ fun9さん<br>
+<font color="#cc88ff">&gt; 純也くん、TS少女としての洗礼をたっぷりと受けてしまいましたね（笑<br>
+&gt; しかし、純也くんの試練はまだまだ続くんでしょうね。</font><br>
 <br>
-�s�r�����̐�����A�����Ƀp�^�[�����O���Ȃ��瓥�P���Ă݂܂������A�@���������ł��傤���H<br>
-�c�c�����A�������O�����񂾁A�ƌ�����ƍ����Ă��܂��܂���(^_^;<br>
+ＴＳ少女の洗礼を、微妙にパターンを外しながら踏襲してみましたが、如何だったでしょうか？<br>
+……いえ、何処を外したんだ、と言われると困ってしまいますが(^_^;<br>
 <br>
-<font color="#cc88ff">&gt; ������܂��g�������肻���ȗ\���i��</font><br>
+<font color="#cc88ff">&gt; 次回もまた波乱がありそうな予感（笑</font><br>
 <br>
-����́u�w�Z�ɍs�����i�s�������Ȃ����ǁj�v�҂ł��B<br>
-������ƃV���A�X�A��{�̓R���f�B�ōs�������ƍl���Ă��܂����c�c�ǂ��Ȃ�܂����Ƃ��(^_^;;<br>
+次回は「学校に行こう（行きたくないけど）」編です。<br>
+ちょっとシリアス、基本はコメディで行きたいと考えていますが……どうなりますことやら(^_^;;<br>
 <br>
-�����z���肪�Ƃ��������܂����B</font>
+ご感想ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/03 (�y) 00:50:30 <strong>��</strong> fun9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509036005030&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509036005030"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/03 (土) 00:50:30 <strong>▽</strong> fun9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509036005030_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200509036005030"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���炭��ATS�����Ƃ��Ă̐���������Ղ�Ǝ󂯂Ă��܂��܂����ˁi��<br>
-�������A���炭��̎����͂܂��܂�������ł��傤�ˁB<br>
+<font size=3 color=#606060>純也くん、TS少女としての洗礼をたっぷりと受けてしまいましたね（笑<br>
+しかし、純也くんの試練はまだまだ続くんでしょうね。<br>
 <br>
-������܂��g�������肻���ȗ\���i��</font>
+次回もまた波乱がありそうな予感（笑</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> Re3:�h���ł�</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> Re3:辛口です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/27 (�y) 00:19:50 <strong>��</strong> ���H�} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508276001950&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508276001950"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/27 (土) 00:19:50 <strong>▽</strong> 白羽党 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508276001950_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200508276001950"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �Ђ̂ЂƂ���<br>
-<font color="#cc88ff">&gt; �� ���H�}����</font><br>
+<font size=3 color=#606060>▼ ひのひとさん<br>
+<font color="#cc88ff">&gt; ▼ 白羽党さん</font><br>
 &gt;<br>
 &gt;<br>
-<font color="#cc88ff">&gt; &gt; �@�l�̂̐ؑւ́A�����������ʂ��Ȃ����߂̉��o�ł��B</font><br>
+<font color="#cc88ff">&gt; &gt; 　人称の切替は、そういう無駄を省くための演出です。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; ���ʂ��ǂ����͎����Ă݂Ă����������������ł��ˁB<br>
-&gt; �����猩��΁A���_�̈ړ��͕s�K�v���������̂ł��B�ł����炻�̂悤�ɂ��`����������ł��B</font><br>
+<font color="#cc88ff">&gt; 無駄かどうかは試してみていただきたかったですね。<br>
+&gt; 私から見れば、視点の移動は不必要だったものです。ですからそのようにお伝えした次第です。</font><br>
 <br>
-�@����Ȏw�E�͉����ɂ����������Ǝv���܂����H<br>
-�@�O��̃R�����g��������x�U��Ԃ��Ă݂܂��傤���B<br>
-<font color="#cc88ff">&gt;&gt; ���e�ȑO�ɍ\���ɂ��s����`�������܂��B<br>
-&gt;&gt; �����āA��l�̂ƎO�l�̂ŏ����Ă݂āA�����Ă݂��B���ꂾ���Ɋ����܂��B</font><br>
-�@���̕�����ǂݎ���܈ӂ́u���̉��o�Ӑ}���Ȃ���l�̂ƎO�l�̂ŏ����āA��������̂܂ܓ��e�������荞�݂̑���Ȃ����s����`�̍�i�ł���v�Ƃ������̂ł�������܂���B<br>
-�@���_�ړ��̗v�s�v�ɂ��ẮA�O��S���G����Ă��܂���ł����B<br>
-�@�����Ă��Ȃ����������u���̂悤�ɂ��`����������ł��v�Ȃǂƌ����Ă��A����́u��o���W�����P���v�ł����Ȃ��Ǝv���܂����B<br>
+　そんな指摘は何処にも無かったと思いますが？<br>
+　前回のコメントをもう一度振り返ってみましょうか。<br>
+<font color="#cc88ff">&gt;&gt; 内容以前に構成にご都合主義を感じます。<br>
+&gt;&gt; そして、一人称と三人称で書いてみて、分けてみた。それだけに感じます。</font><br>
+　この文から読み取れる含意は「何の演出意図もなく一人称と三人称で書いて、それをそのまま投稿した練り込みの足りないご都合主義の作品である」というものでしかありません。<br>
+　視点移動の要不要については、前回全く触れられていませんでした。<br>
+　書いていなかった事を「そのようにお伝えした次第です」などと言われても、それは「後出しジャンケン」でしかないと思いますが。<br>
 <br>
-�@���������A���̃R�����g�͂ǂ�ȈӐ}�ŏ����ꂽ��ł����H<br>
-<font color="#cc88ff">&gt; �������ŏI�I�Ȕ��f�͍�҂��񎩐g�ōs���ׂ����Ƃł�����A�v�����܂܂ɐi�܂��̂���̑I�����Ǝv���܂��B</font><br>
-�@�Ɩ{���Ɏv���Ă���Ȃ疳�Ӗ��ł͂Ȃ��ł��傤���H<br>
-�@���_���ꂽ�̂�����ȂɋC�ɏ��܂������H<br>
-�@�����������Ƃ�����A�l�̏����������u���s����`�v�Ƃ܂Ō����؂����ɂ��ẮA�o�傪����Ȃ��悤�ł��ˁB</font>
+　そもそも、このコメントはどんな意図で書かれたんですか？<br>
+<font color="#cc88ff">&gt; しかし最終的な判断は作者さん自身で行うべきことですから、思うがままに進まれるのも一つの選択だと思います。</font><br>
+　と本当に思っているなら無意味ではないでしょうか？<br>
+　反論されたのがそんなに気に障りましたか？<br>
+　もしそうだとしたら、人の書いた物を「ご都合主義」とまで言い切ったにしては、覚悟が足りないようですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> Re2:�h���ł�</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> Re2:辛口です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/26 (��) 22:55:31 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508265225531&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508265225531"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/26 (金) 22:55:31 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508265225531_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200508265225531"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���H�}����<br>
+<font size=3 color=#606060>▼ 白羽党さん<br>
 <br>
 <br>
-<font color="#cc88ff">&gt; �@�l�̂̐ؑւ́A�����������ʂ��Ȃ����߂̉��o�ł��B</font><br>
+<font color="#cc88ff">&gt; 　人称の切替は、そういう無駄を省くための演出です。</font><br>
 <br>
-���ʂ��ǂ����͎����Ă݂Ă����������������ł��ˁB<br>
-�����猩��΁A���_�̈ړ��͕s�K�v���������̂ł��B�ł����炻�̂悤�ɂ��`����������ł��B<br>
-�������ŏI�I�Ȕ��f�͍�҂��񎩐g�ōs���ׂ����Ƃł�����A�v�����܂܂ɐi�܂��̂���̑I�����Ǝv���܂��B<br>
+無駄かどうかは試してみていただきたかったですね。<br>
+私から見れば、視点の移動は不必要だったものです。ですからそのようにお伝えした次第です。<br>
+しかし最終的な判断は作者さん自身で行うべきことですから、思うがままに進まれるのも一つの選択だと思います。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -144,154 +144,154 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> Re:�����������܂ł����B</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> Re:ごちそうさまでした。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/26 (��) 22:25:41 <strong>��</strong> ���H�} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508265222541&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508265222541"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/26 (金) 22:25:41 <strong>▽</strong> 白羽党 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508265222541_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200508265222541"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� fun9�@�l��<br>
+<font size=3 color=#606060>▼ fun9　様へ<br>
 <br>
-�@�����z���肪�Ƃ��������܂����B<br>
-�@���ꂩ��A���Ԏ�����ϒx���Ȃ�܂����B<br>
-�@���݂܂���B<br>
-�@�l�̂̎g�������ɂ��ẮA�قڂ��w�E�̒ʂ�Ӑ}�������̂ł��B<br>
-�@�ʂɒ��������o�ł͂Ȃ��Ǝv���܂����A�����w�n�̕��|�]�_�Ƃɂ͌������@��������܂���B<br>
-�@��a��������̂͒P�ɕ��̖͗͂��ł����āA�\���̖��ł͂���܂��񂩂�A���̕����̂��ᔻ�͖ނ����Ǝv���܂����B<br>
-�@�����������肩�Ǝv���܂����A��l���͌��\���l�D���ŌÏL���ăC�}�C�`�J������Ȃ��^�C�v�ł��B<br>
-�@������傢�ɔY��ł��炨���Ǝv���Ă��܂��B</font>
+　ご感想ありがとうございました。<br>
+　それから、お返事が大変遅くなりました。<br>
+　すみません。<br>
+　人称の使い分けについては、ほぼご指摘の通り意図したものです。<br>
+　別に珍しい演出ではないと思いますが、純文学系の文芸評論家には嫌われる手法かもしれません。<br>
+　違和感があるのは単に文章力の問題であって、構成の問題ではありませんから、この部分のご批判は尤もかと思いますが。<br>
+　もうお分かりかと思いますが、主人公は結構お人好しで古臭くてイマイチ開き直れないタイプです。<br>
+　今後も大いに悩んでもらおうと思っています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> Re:�ǂ񂾃o�C��</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> Re:読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/26 (��) 22:24:26 <strong>��</strong> ���H�} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508265222426&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508265222426"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/26 (金) 22:24:26 <strong>▽</strong> 白羽党 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508265222426_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200508265222426"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����W�S�Q�U������@�l��<br>
+<font size=3 color=#606060>▼ ｍｋ８４２６＠自宅　様へ<br>
 <br>
-�@�����z���肪�Ƃ��������܂����B<br>
-�@���ꂩ��A���Ԏ�����ϒx���Ȃ�܂����B<br>
-�@���݂܂���B<br>
-�@������ƕs�{�ӂȌ����|����������܂����̂ŁA����ɑ΍R����ׂɂ������������̂��挈�Ǝv������A�ꃖ���ȏ�Ԃ��󂢂Ă��܂��܂����B<br>
-�@�v�����ȏ�ɁA����I�ɂȂ��Ă����悤�ł��B<br>
-�@��Q�b�́A���ǂݒ������ʂ�ł��B<br>
-�@�����͂s�r�@�m�n�u�d�k�炵���Ȃ��Ă����Ǝv���܂����@���ł��傤���H</font>
+　ご感想ありがとうございました。<br>
+　それから、お返事が大変遅くなりました。<br>
+　すみません。<br>
+　ちょっと不本意な言い掛かりをつけられましたので、それに対抗する為にも続きを書くのが先決と思ったら、一ヶ月以上間が空いてしまいました。<br>
+　思った以上に、感情的になっていたようです。<br>
+　第２話は、お読み頂いた通りです。<br>
+　少しはＴＳ　ＮＯＶＥＬらしくなってきたと思いますが如何でしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[18]</font> <font size=4 color=#40c0c0> Re:�h���ł�</font>
+<font size=2>[18]</font> <font size=4 color=#40c0c0> Re:辛口です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/26 (��) 22:22:26 <strong>��</strong> ���H�} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508265222226&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508265222226"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/26 (金) 22:22:26 <strong>▽</strong> 白羽党 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508265222226_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200508265222226"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �Ђ̂ЂƂ���<br>
-<font color="#cc88ff">&gt; ���e�ȑO�ɍ\���ɂ��s����`�������܂��B<br>
-&gt; ����̃v�����[�O�Ƒ��b�����킹�Ă��A�{���̑��b�ɂ悤�₭�B���邩�ǂ����Ƃ������̂ł��B�����āA��l�̂ƎO�l�̂ŏ����Ă݂āA�����Ă݂��B���ꂾ���Ɋ����܂��B<br>
-&gt; �{���Ȃ炻��𓥂܂��āu�ǂ��������v���l���Ă݂������ǂ������̂ł͂Ȃ��ł��傤���B</font><br>
+<font size=3 color=#606060>▼ ひのひとさん<br>
+<font color="#cc88ff">&gt; 内容以前に構成にご都合主義を感じます。<br>
+&gt; 今回のプロローグと第一話を合わせても、本来の第一話にようやく達するかどうかというものです。そして、一人称と三人称で書いてみて、分けてみた。それだけに感じます。<br>
+&gt; 本当ならそれを踏まえて「どう書くか」を考えてみた方が良かったのではないでしょうか。</font><br>
 <br>
-�@�v�����[�O�͂��̕���̔w�i����l���̐S��ɃE�F�C�g��u���ĕ`�������̂ł���A���b�͕���̔��[�ƂȂ鎖�����󋵕`�ʂɃE�F�C�g��u���ď��������̂ł��B<br>
-�@����̍\����A�v�����[�O�Ƒ��b�͑S�������̈قȂ���̂ł���A�Ⴆ���y�[�W���Ȃ��Ă��A�͗��Ăŋ敪���ׂ��G�s�\�[�h�ł��B<br>
-�@�܂��A��l�̂ƎO�l�̂̎g�������͐S��`�ʂƏ󋵕`�ʁA���ꂼ������s�����ɉ����Ďg�����������ʂł��B<br>
-�@�O�l�̂ŐS��`�ʂ��s���ƁA��l�̂ɔ�גn�̕�������������܂��B<br>
-�@��l�̂ŏ󋵕`�ʂ����悤�Ƃ���ƁA�{�l�Ɍ����Ȃ�����������`�ʂ���ׂɍ�҂̎����𓱓����Ȃ���΂Ȃ�Ȃ��Ȃ�܂��B<br>
-�@�l�̂̐ؑւ́A�����������ʂ��Ȃ����߂̉��o�ł��B<br>
+　プロローグはこの物語の背景を主人公の心情にウェイトを置いて描いたものであり、第一話は物語の発端となる事件を状況描写にウェイトを置いて書いたものです。<br>
+　物語の構成上、プロローグと第一話は全く性質の異なるものであり、例え改ページしなくても、章立てで区分すべきエピソードです。<br>
+　また、一人称と三人称の使い分けは心情描写と状況描写、それぞれ向き不向きに応じて使い分けた結果です。<br>
+　三人称で心情描写を行うと、一人称に比べ地の文が水増しされます。<br>
+　一人称で状況描写をしようとすると、本人に見えなかった部分を描写する為に作者の視線を導入しなければならなくなります。<br>
+　人称の切替は、そういう無駄を省くための演出です。<br>
 <br>
-�@�M���̃R�����g�́u�h���v�ƌ������u�����|����v�ł��ˁB<br>
-�@������A���Ȃ�瑊�I�Ȍ����|����ł��B<br>
-�@��[�̕]�_�Ƃ��C��肽���Ȃ�A����������������ǂݍ���ł���R�����g��t���邱�Ƃ������߂��܂��B<br>
+　貴方のコメントは「辛口」と言うより「言い掛かり」ですね。<br>
+　それも、かなり皮相的な言い掛かりです。<br>
+　一端の評論家を気取りたいなら、もう少ししっかり読み込んでからコメントを付けることをお勧めします。<br>
 <br>
-�@��҂ɐh���]�_�ƂɊÂ��̂͏��ƃx�[�X�ł��悭������X���ł����A���͓��e��i�ŉ��̕�V�����Ă����ł͂Ȃ��̂ŁA����Ȉ�������e�������͂���܂���B<br>
-�@�]�_�Ƃ𑊎�ɋc�_���Ă����Ӗ��ł��邱�Ƃ��炢���m���Ă��܂����疳���������ł������A���҂𓊍e����ɓ������Č������ςȂ��Ƃ����̂����ӔC���Ǝv���܂����̂ŁA�����ɉ񓚂����Ă��������܂����B</font>
+　作者に辛く評論家に甘いのは商業ベースでもよく見られる傾向ですが、私は投稿作品で何の報酬も得ている訳ではないので、そんな悪弊を受容するつもりはありません。<br>
+　評論家を相手に議論しても無意味であることくらい承知していますから無視するつもりでしたが、続編を投稿するに当たって言われっぱなしというのも無責任かと思いましたので、正直に回答させていただきました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0>  �w������m�d�w�t�@�C�^�[�@��Q�b�x������ɂ͂������N���b�N�B </font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0>  『交感戦士ＥＸファイター　第２話』を見るにはここをクリック。 </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/26 (��) 11:58:49 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508265115849&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508265115849"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/26 (金) 11:58:49 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508265115849_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200508265115849"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �h���C�ȏ��؂ɁA�}�b�h�ȃh�N�^�[�B���炭��ɂƂ��Ď��̓��X�̖��J���ł��B<br>
+<font size=3 color=#606060>【推薦文】 ドライな純菜に、マッドなドクター。純也くんにとって受難の日々の幕開けです。<br>
 </font>
-<p><a href="http://ts.novels.jp/novel/200506/15200115/ex&#95;fighter&#95;02.html" target="_top">http://ts.novels.jp/novel/200506/15200115/ex&#95;fighter&#95;02.html</a>
+<p><a href="../../novel/200506/15200115/ex&#95;fighter&#95;02.html" target="_top">http://ts.novels.jp/novel/200506/15200115/ex&#95;fighter&#95;02.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> Re:�h���ł�</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> Re:辛口です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/19 (��) 01:25:02 <strong>��</strong> fun9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200507192012502&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507192012502"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/19 (火) 01:25:02 <strong>▽</strong> fun9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200507192012502_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200507192012502"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �Ђ̂ЂƂ���<br>
-<font color="#cc88ff">&gt; ���e�ȑO�ɍ\���ɂ��s����`�������܂��B</font><br>
+<font size=3 color=#606060>▼ ひのひとさん<br>
+<font color="#cc88ff">&gt; 内容以前に構成にご都合主義を感じます。</font><br>
 <br>
-�����ށB<br>
+ううむ。<br>
 <br>
-�Ђ̂ЂƂ��񂪂ǂ̂悤�ȕ�����[���s����`]���������̂��͔��R�Ƃ��܂��񂪁A���̍�i�͓��B�n�i���邢�͖��@�����n�j�ł���H�i����Ƀp���f�B�F�������c�j<br>
-�e���r�ŕ��f���Ă���B�q�[���[�ԑg�ɂ���ϐg���@�����A�j���ɂ���A����Ȃ̃c�b�R�~���ꂾ������L�����Ȃ����炢�c�b�R�~�ǂ��떞�ڂŁA[���s����`]�̉�݂����Ȃ��̂���Ȃ��ł����B�i���B�t�@�������@�����t�@���̊F����A�S�����i�T�C�I�j<br>
-�܂�ł��ˁA���B�Ƃ����@�����Ƃ����Ă͕̂���̃W�����N�t�[�h�i�X�i�b�N�َq�Ƃ��n���o�[�K�[�݂����ȁj�Ȃ�ł���B������u�f�ނ��~�~�`�B����t�����~�~�`�v�Ɨ����]�_�Ɓi�C���Y�R�H�j�݂����ɓ�����Ƃ͍l���Ȃ��ŁA�p�N�b���Ƃ��Ԃ���ă��V�����V�����ƐH�ׂĂ��܂��΂����̂ł͂Ȃ��ł��傤���H���̏�Łi�W�����N�t�[�h�Ȃ�Ɂj�����������OK���Ă��ƂŁc�B<br>
+ひのひとさんがどのような部分に[ご都合主義]を感じたのかは判然としませんが、この作品は特撮系（あるいは魔法少女系）ですよ？（それにパロディ色強いし…）<br>
+テレビで放映してる特撮ヒーロー番組にしろ変身魔法少女アニメにしろ、あんなのツッコミ入れだしたらキリがないくらいツッコミどころ満載で、[ご都合主義]の塊みたいなものじゃないですか。（特撮ファン＆魔法少女ファンの皆さん、ゴメンナサイ！）<br>
+つまりですね、特撮とか魔法少女とかってのは物語のジャンクフード（スナック菓子とかハンバーガーみたいな）なんですよ。だから「素材が××〜。盛り付けが××〜」と料理評論家（海原雄山？）みたいに難しいことは考えないで、パクッっとかぶりついてムシャムシャっと食べてしまえばいいのではないでしょうか？その上で（ジャンクフードなりに）美味しければOKってことで…。<br>
 <br>
-<font color="#cc88ff">&gt; ����̃v�����[�O�Ƒ��b�����킹�Ă��A�{���̑��b�ɂ悤�₭�B���邩�ǂ����Ƃ������̂ł��B�����āA��l�̂ƎO�l�̂ŏ����Ă݂āA�����Ă݂��B���ꂾ���Ɋ����܂��B</font><br>
+<font color="#cc88ff">&gt; 今回のプロローグと第一話を合わせても、本来の第一話にようやく達するかどうかというものです。そして、一人称と三人称で書いてみて、分けてみた。それだけに感じます。</font><br>
 <br>
-�����͗ʂ̖��ɂ���<br>
+◆文章量の問題について<br>
 <br>
-���͂́u���x�ǂ������v�́i���Ȃ�j�l��������Ǝv���܂���B�ɒ[�ȗ�ł����A�i�c�ƂȂǂŁj�A���A��[��뎞�O�Ȃ�Đ��������Ă�����A�ƂĂ�����Ȃ����ǁi100KB������悤�ȁj���͔��ēǂ߂Ȃ��i�ǂދC�͂������Ȃ��j�ł���ˁB�����l����΁A���̍�i�͂��������Ă���l�ł��ǂ߂�e�ؐ݌v�Ƃ�������킯�ł��B�i�����玄�I�ɂ́u�ʂɂ����񂶂�Ȃ��́H�v�Ǝv���܂��j<br>
+文章の「丁度良い長さ」は（かなり）個人差があると思いますよ。極端な例ですが、（残業などで）連日帰宅が深夜零時前なんて生活をしていたら、とてもじゃないけど（100KB超えるような）大作は疲れて読めない（読む気力が続かない）ですよね。そう考えれば、この作品はすごく疲れている人でも読める親切設計とも言えるわけです。（だから私的には「別にいいんじゃないの？」と思います）<br>
 <br>
-���u��l�́v�Ɓu�O�l�́v�ɕ����ꂽ��ɂ���<br>
+◆「一人称」と「三人称」に分かれた謎について<br>
 <br>
-��҂��܂͂Ȃɂ����ז���Łu��l�́v�Ɓu�O�l�́v�ɕ������킯����Ȃ��Ǝv���܂���B���Ȃ�̐������ȒP�ɐ\���グ�܂��Ɓc�A��҂��܂́w�v�����[�O�x�ł͎�l���́i���ʂ́j���h���d�����A�w��1�b�x�ł̓A�N�V�����̊y�������d���������ʂȂ̂ł͂Ȃ��ł��傤���H<br>
-�m���Ɏ�l���̓��ʂ�`�ʂ���ɂ́u��l�́v���L�������A�ْ����̂���A�N�V������`�ʂ���ɂ́u�O�l�́v���L���ł��B�i���̌o�����猾���āj�i�ꕔ��O�A���j<br>
-�܂��A�ǂݎ肩�炷��Έ�a��������͔̂F�߂܂����A�i���̐��������S�ȓI�O�ꂶ��Ȃ��Ɖ��肵�āj��җl�͕����ʔ��������邽�߂ɐF�X�ƔY�܂ꂽ���ƂƎv���܂��B�قƂ�ǂ̏�����́i���Ƃ��Z�����͂ł��j�F�X�Y�݂Ȃ��珑���Ă�����̂ł��B������u��җl�̋�J��������Ƃ͋���ł����Ƃ����̂ɂȂ��v�Ǝv���̂ł��B<br>
+作者さまはなにも無為無策で「一人称」と「三人称」に分けたわけじゃないと思いますよ。私なりの推理を簡単に申し上げますと…、作者さまは『プロローグ』では主人公の（内面の）動揺を重視し、『第1話』ではアクションの楽しさを重視した結果なのではないでしょうか？<br>
+確かに主人公の内面を描写するには「一人称」が有利だし、緊張感のあるアクションを描写するには「三人称」が有利です。（私の経験から言って）（一部例外アリ）<br>
+まぁ、読み手からすれば違和感があるのは認めますが、（私の推理が完全な的外れじゃないと仮定して）作者様は物語を面白く見せるために色々と悩まれたことと思います。ほとんどの書き手は（たとえ短い文章でも）色々悩みながら書いているものです。だから「作者様の苦労もちょっとは汲んでくれるといいのになぁ」と思うのです。<br>
 <br>
 <br>
-<font color="#cc88ff">&gt; �{���Ȃ炻��𓥂܂��āu�ǂ��������v���l���Ă݂������ǂ������̂ł͂Ȃ��ł��傤���B</font><br>
+<font color="#cc88ff">&gt; 本当ならそれを踏まえて「どう書くか」を考えてみた方が良かったのではないでしょうか。</font><br>
 <br>
-�i��ꂽ�̂ő����͂܂����߂āc�c�j</font>
+（疲れたので続きはまた改めて……）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> �����������܂ł����B</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> ごちそうさまでした。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/07/18 (��) 23:42:35 <strong>��</strong> fun9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200507181234235&log=byakuutoh">�ԐM</a>�@�폜<input type=checkbox name="target" value="200507181234235"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/07/18 (月) 23:42:35 <strong>▽</strong> fun9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200507181234235_log_byakuutoh.cgi">返信</a>　削除<input type=checkbox name="target" value="200507181234235"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ȃ�y�����ǂ܂��Ă��������܂����B<br>
+<font size=3 color=#606060>かなり楽しく読ませていただきました。<br>
 <br>
-���I�Ɉ�ԋC�ɓ������_�͎�l���E����̐��i�ł��ˁB�Ȃ񂩃u�`�u�`����������������Ɛ��`�̖�������Ă邵�c�B�ĊO�����z�Ȃ̂�������܂���ˁB����`�A�����������܂ł����B<br>
+私的に一番気に入った点は主人公・純也の性格ですね。なんかブチブチ文句を言いつつもちゃんと正義の味方やってるし…。案外いい奴なのかもしれませんね。いや〜、ごちそうさまでした。<br>
 <br>
-���҂̓��e�A���҂����Ă���܂��B</font>
+続編の投稿、お待ちしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="byakuutoh">
@@ -299,16 +299,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="byakuutoh">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=byakuutoh">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_byakuutoh.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

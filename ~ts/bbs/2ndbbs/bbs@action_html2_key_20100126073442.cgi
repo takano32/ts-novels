@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,68 +52,68 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�Ō��ƌ������ǓłȂ�Č����܂���
+毒見と言うけど毒なんて見られません
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�o���b�g����</center><tr>
+<center>作者：バレットさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�@���ꂩ�甼�N�B<br>�@�e�ʂ̂��Z����񂪗V�тɗ����B<br>�u�悧�A�痢�i�����j�I�@������������Ȃ����܂��āI�v<br>�u�����A���̂������͐痢����Ȃ��Đ�H�i�������j�����Č����Ă邶��Ȃ��B�c�c�ł��A���肪�ƁA�����ɂ������v<br>�@���Z�����̖��O���A���i���Ȃ��j�B�ޏ����Ƃ������Ђ��������Ă͋����ɔY�ށA�V�ѐl�B<br>�u�܂��A�p�p���A���Ă���܂Ŏ��Ԃ����邩�炲�ѐH�ׂ��Ⴂ�܂���B�①�ɂɖ����q�����邩��A������������ɂ�������v<br>�u�����ȁB���A�h�������D���Ȃ񂾁I�v<br>�@���������āA�������Ƃ��Z�����͂��тP�V�ɁA�����q�A���肠�킹�̍ޗ��ō��������u�߂ŗ[�т��ς܂����B���傤�ǂ����ɁA�p�p���A���Ă����B<br>�u�������܁[�B�����A������A���Ă��̂��v<br>�u���ז����Ă܂��A��������B���̖����q�A���܂������ˁB�A���L�������[�����킢�����܂�Ȃ������I�v<br>�u�ق��A����͂悩�����c�c�@���āA�悭�ȁ[���I�v<br>�@���������ăp�p�́A�������Ƃ��Z�����̂��ꂼ��E���ƍ�������������Ń��r���O�ŐU��񂵂��B���S�͂̂����ň݂̒��̂��̂��ǂ�ǂ��֏�ւƉ����߂����B<br>�u���������������������������������I�@������̂�p�p�I�@�܂��X�J�[�g���߂��ꂠ�������Ⴄ����Ȃ��A�G�b�`�I�v<br>�u�o�J�����񂶂�Ȃ���c�c�@����́v<br>�u���������āA�܂������̍y�f�̔|�{�}��Ƃ������́I�H�v<br>�u����A����͒��b�`�[�M�X�x���i�Ƃ������̊̑����A�����q�Ȃǂł͂Ȃ��B�t�H�A�O���Ɏ���đ���ƌ����Ă��钿���̌��Ƃ��Ď��グ���Ă���񂾁B������A�����H���₪���āc�c�I�v<br>�u�p�p�̎d�����Ăǂ�Ȃ́I�H�v<br>�u�܂��w�������d���x�Ƃ��������Ă����B����΂���͔������肹���ɂ͂����邩�A���O��悭�����f�ŐH�����Ȃ������������I�v<br>�u�p�p�̕����c���Ă邩��{��Ȃ��ł�I�v<br>�u�������c�c�@�����A�������傧�B���傤���Ȃ��Ȃ��A����ŉ䖝���Ă�那�c�c�v<br><br>�@�����A���̓��̔ӁB<br>�@�������͂Ȃ�Ƃ������������ǁA�p�p�Ƃ��Z����񂪂��������ɂɏP���A���������Ă񂾋~�}�Ԃɏ���ĕa�@�ɉ^�΂�邱�ƂɂȂ����B<br><br>�@���̂R�T�Ԍ�B<br>�u�������܁A��H�B��������p�p����Ȃ��ă}�}�ɂȂ�����������ǁA��낵���ˁH�@�͂��A�}�W����c�c�v<br>�u��H�A��H�A�ǂ����悤�B���A���ƗV��ł����ɂȂ�C�Ȃ񂩂˂���[�I�v<br>�@�����ɂȂ��Ă��܂����p�p�A���Ƃ��}�}�͂��ꂩ�珗���炵���U�������߂ɏ�i�ɏ��������C�s�𗊂ݍ��݁A���Z�����A���Ƃ����o�����́c�c�@��ꂽ�B<br><br><br><br><br><br>�ȏ�A�V�����l�^�ł����B
+　あれから半年。<br>　親戚のお兄ちゃんが遊びに来た。<br>「よぉ、千里（せんり）！　すっかり可愛くなっちまって！」<br>「もう、今のあたしは千里じゃなくて千秋（ちあき）だって言ってるじゃない。……でも、ありがと、叶おにいちゃん」<br>　お兄ちゃんの名前を、叶（かない）。彼女をとっかえひっかえしては金欠に悩む、遊び人。<br>「まぁ、パパが帰ってくるまで時間があるからご飯食べちゃいましょ。冷蔵庫に明太子があるから、それをおかずにしよっか」<br>「いいな。俺、辛いもん大好きなんだ！」<br>　そう言って、あたしとお兄ちゃんはご飯１膳に、明太子、ありあわせの材料で作った野菜炒めで夕飯を済ませた。ちょうどそこに、パパが帰ってきた。<br>「ただいまー。おぉ、叶くん、来てたのか」<br>「お邪魔してます、おじさん。この明太子、うまいっすね。アンキモよりも深い味わいがたまんないっす！」<br>「ほう、それはよかった……　って、よくなーい！」<br>　そう言ってパパは、あたしとお兄ちゃんのそれぞれ右足と左足を引っつかんでリビングで振り回した。遠心力のせいで胃の中のものがどんどん上へ上へと押し戻される。<br>「あうあぅぅおああえいあえぁいあえ！　何するのよパパ！　またスカートがめくれあがっちゃうじゃない、エッチ！」<br>「バカ言うんじゃないよ……　あれは」<br>「もしかして、また何かの酵素の培養媒介とか言うの！？」<br>「いや、あれは珍獣チーギスベンナという魚の肝臓だ、明太子などではない。フォアグラに取って代わると言われている珍味の候補として取り上げられているんだ。それを、それを食いやがって……！」<br>「パパの仕事ってどんなの！？」<br>「まあ『すごい仕事』とだけ言っておく。今回ばかりは八つ当たりせずにはいられるか、お前らよくも無断で食ったなぁぁぁぁああ！」<br>「パパの分も残ってるから怒らないでよ！」<br>「うぐぅ……　ちっ、ちくしょぉ。しょうがないなぁ、それで我慢してやるぅ……」<br><br>　だが、その日の晩。<br>　あたしはなんとも無かったけど、パパとお兄ちゃんがすごい腹痛に襲われ、あたしが呼んだ救急車に乗って病院に運ばれることになった。<br><br>　その３週間後。<br>「ただいま、千秋。今日からパパじゃなくてママになっちゃったけど、よろしくね？　はぁ、マジかよ……」<br>「千秋、千秋、どうしよう。俺、女と遊んでも女になる気なんかねぇよー！」<br>　女性になってしまったパパ、もといママはそれから女性らしく振舞うために上司に女性生活修行を頼み込み、お兄ちゃん、もといお姉ちゃんは……　壊れた。<br><br><br><br><br><br>以上、新しいネタでした。
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�o���b�g
+バレット
 </address>
-2010�N01��26��(��) 07��34��42�b ���J<br>
+2010年01月26日(火) 07時34分42秒 公開<br>
 <!--61.24.199.123-->
-<font color=red>�����̍�i�̒��쌠�̓o���b�g����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はバレットさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-�w�N���������񂿂��x�ɁA�����q��H�����Ђ낵�Ƃ݂��������ɂ��N�����ĕa�@�ɂ����b�ɂȂ�A�Ƃ����G�s�\�[�h�������Ăł��ˁB<br>�@���ŋ߁A�䂪�Ƃɂ��ʖڂɂȂ肻���Ȗ����q���������킯�ł��B<br><br>�@�ˋ�̒��b�̖��O�́A���C���h�A�[���Y�Q�̒��Ńg�J���m�����Ƃ��邲�ƂɌ����Ă��������X�^�[�̖��O���q���g�ɁB
+『クレヨンしんちゃん』に、明太子を食ったひろしとみさえが腹痛を起こして病院にお世話になる、というエピソードがあってですね。<br>　つい最近、我が家にも駄目になりそうな明太子があったわけです。<br><br>　架空の珍獣の名前は、ワイルドアームズ２の中でトカ博士がことあるごとに言っていたモンスターの名前をヒントに。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�ق��邳��A�R�����g���肪�Ƃ��������܂��B<BR>�m���Ɋ댯�ł����B���ăl�^�ɂȂ����i�X�u�߂��܂���������Ė����Ă����̂ŁA�����O�ɖl�����炰�Ă��܂����B<BR>�܂������ȐH�ނ◿�����������珑���Č��܂��B���ǂ������Ӑ}���ă_���ɂ���悤�Ȃ��Ƃ͌����Ă��܂���B<BR>�������Ƒ����ł����s�r�ł���L���������Ȃ����Ă��Ƃ́c�c�@���ӂӁi�������΁j</td>
-<td>�o���b�g</td>
-<td width=20%>��2010-02-08 11:03:14</td>
+<td style=font-size:10pt>ほたるさん、コメントありがとうございます。<BR>確かに危険でした。かつてネタになったナス炒めがまた無視されて眠っていたので、腐れる前に僕が平らげてやりました。<BR>また珍妙な食材や料理を見つけたら書いて見ます。けどもちろん意図してダメにするようなことは決してしません。<BR>しかし家族内でもうＴＳできるキャラがいないってことは……　うふふ（黒い微笑）</td>
+<td>バレット</td>
+<td width=20%>■2010-02-08 11:03:14</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�v�X�̊댯�H�ރl�^�ł��ˁi�΁j<BR>�܂�A�o���b�g����̗①�ɂɂ�TS����H�ނ������ς��Ɓi��j<BR><BR>���͉���TS���邩�y���݂ł����A�H�ނ͏�������O�ɂ�����Ə����<BR>�����悤���݂܂��c�c<BR><BR>���������΁A�S���Ȃ�ꂽ�P��搶�̕`���ꂽ�u���񂿂��v�Ō�̈�e���A<BR>���̍�i�̌��l�^���l�A�݂����̕��Ƀl�^�������ł��B<BR>���߂āA�����������F�肢�����܂��B</td>
-<td>�ق���</td>
-<td width=20%>��2010-02-06 20:40:08</td>
+<td style=font-size:10pt>久々の危険食材ネタですね（笑）<BR>つまり、バレットさんの冷蔵庫にはTSする食材がいっぱいと（違）<BR><BR>次は何でTSするか楽しみですが、食材は消費期限前にきちんと消費して<BR>頂くよう頼みます……<BR><BR>そういえば、亡くなられた臼井先生の描かれた「しんちゃん」最後の遺稿が、<BR>この作品の元ネタ同様、みさえの腹痛ネタだそうです。<BR>改めて、ご冥福をお祈りいたします。</td>
+<td>ほたる</td>
+<td width=20%>■2010-02-06 20:40:08</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���ԈႢ�B<BR>���ʂɂ��Ă͂����܂���I</td>
-<td>�o���b�g</td>
-<td width=20%>��2010-01-31 14:34:30</td>
+<td style=font-size:10pt>↓間違い。<BR>無駄にしてはいけません！</td>
+<td>バレット</td>
+<td width=20%>■2010-01-31 14:34:30</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�@�o���b�g�ł��A�Ȃ܂����̗l���肪�Ƃ��������܂��`<BR>�@�Ƃ��Ƃ������A�V�[�`�L���܂ł��ʖڂɂȂ�܂����B�X�������H���Ă����̂ŁA�ȑO�̃i�X�u�߂قǂ��������Ȃ����Ƃɂ͂Ȃ�܂���ł������A�ł���ΐ�΂ɐH�ו��͖��ʂɂ��Ȃ���΂Ȃ�܂���B<BR>�@���āA���̃}�[�K�����͑����̂Ă܂��傤���I</td>
-<td>�o���b�g</td>
-<td width=20%>��2010-01-31 10:28:02</td>
+<td style=font-size:10pt>　バレットです、なまけもの様ありがとうございます〜<BR>　とうとう今朝、シーチキンまでが駄目になりました。９割がた食われていたので、以前のナス炒めほどもったいないことにはなりませんでしたが、できれば絶対に食べ物は無駄にしなければなりません。<BR>　って、そのマーガリンは早く捨てましょうっ！</td>
+<td>バレット</td>
+<td width=20%>■2010-01-31 10:28:02</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�Z�ҁA�������낢�ł��B<BR>�`�[�M�X�x���i���������c�Z�N�n����i�ɁA�ꕞ�������肵�āc�I�|���֎q�łӂ񂼂�Ԃ��Ă�A���Ǘl�ɂ͌����Ȃ��݂����ł����ǁB<BR>�����I�A�ꕞ�����Ă��Ǘl��2�l�ɂȂ�����c�ǂ����傤�A�����ƒn���H�@�l�����Ό�����āc�悭�l����Ɗ�Ȃ��Ďg���Ȃ��ł����B<BR>�o���b�g���܂̗①�Ƀl�^�l�܂��Ă܂��ˁ`�A�����̗①�ɂɂ̓J�r�̂͂����}�[�K���������c�܂��ア�̂Ă悤�B</td>
-<td>�Ȃ܂�����</td>
-<td width=20%>��2010-01-30 13:38:17</td>
+<td style=font-size:10pt>短編、おもしろいです。<BR>チーギスベンナいいかも…セクハラ上司に、一服盛ったりして…肘掛け椅子でふんぞり返ってる、お局様には効かないみたいですけど。<BR>あっ！、一服盛ってお局様が2人になったら…どうしょう、もっと地獄？　人を呪わば穴二つって…よく考えると危なくて使えないですぅ。<BR>バレットさまの冷蔵庫ネタ詰まってますね〜、うちの冷蔵庫にはカビのはえたマーガリンしか…まじゅい捨てよう。</td>
+<td>なまけもの</td>
+<td width=20%>■2010-01-30 13:38:17</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -121,24 +121,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20100126073442">
 <input type=hidden name="num_r" value="20100126073442">
 <input type=hidden name="url" value="">
@@ -154,17 +154,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20100126073442">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -174,9 +174,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

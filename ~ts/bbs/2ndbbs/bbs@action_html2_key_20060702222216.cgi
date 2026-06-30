@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,53 +52,53 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�\���u�t�@���g���E�r�W�l�X�J�[�h�v
+予告「ファントム・ビジネスカード」
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�}�R�g����</center><tr>
+<center>作者：マコトさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-�u��߂�ZIO�b�I�@�F�A�z�𖼎h�ɐG�ꂳ����ȁ\�\�b�I�v<br>�u������I�@���E���I�@�g���ˁI�@�c�c�S�E�S�E�I�@���͕ς���Ă��I�@���̖��h�̃b�I�@�͂������Ă��ăb�I�@���͐l�Ԃ���߂邼�S�E�S�E�\�\�I�I�v<br><br>10�N�O�ɋN�������S���B������2006�N�A���󂳂ꂽ�͂��̃��c���A�������ɕ�������b�I<br><br><br>�n���^�[�E�V���[�Y�u�t�@���g���E�r�W�l�X�J�[�h�v<br>���������ҁI�H<br>
+「やめろZIOッ！　皆、奴を名刺に触れさせるな——ッ！」<br>「いいや！　限界だ！　使うね！　……ゴウゴウ！　俺は変わってやる！　この名刺のッ！　力をもってしてッ！　俺は人間をやめるぞゴウゴウ——！！」<br><br>10年前に起こった惨事。そして2006年、封印されたはずのヤツが、今ここに復活するッ！<br><br><br>ハンター・シリーズ「ファントム・ビジネスカード」<br>こうご期待！？<br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-<a href=mailto:fantasydreamsjp@yahoo.co.jp>�}�R�g</a>
+<a href=mailto:fantasydreamsjp@yahoo.co.jp>マコト</a>
 </address>
-2006�N07��02��(��) 22��22��16�b ���J<br>
+2006年07月02日(日) 22時22分16秒 公開<br>
 <!--218.43.232.216-->
-<font color=red>�����̍�i�̒��쌠�̓}�R�g����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権はマコトさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-JOJO�l�^�ł��B��1�`4���܂Ō��\�������Ă܂��B�S�E�S�E�͍����̂��勽��������ł����A������Ƃ��������Ȃ邩������܂��񂪁A����΂�܂��B
+JOJOネタです。第1〜4部まで結構混ざってます。ゴウゴウは今も昔も大郷豪樹さんですし、ちょっとおかしくなるかもしれませんが、がんばります。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>>�Vࣗl<BR><BR>���ɂȂ邩�A�����UP�����܂ł̂��y���݂ł���<BR>�����A�ӊO�Ȃ��̂ł��邱�Ƃ͊ԈႢ�Ȃ��ł����B<BR>�݂��u�n���^�[�̉Ȋw�͂̓@�@�@���E��B�B�B�B�B�B�I�v</td>
-<td width=10%><a href=mailto:fantasydreamsjp@yahoo.co.jp>�}�R�g</a></td>
-<td width=20%>��2006-07-08 13:03:27</td>
+<td style=font-size:10pt>>天爛様<BR><BR>何になるか、それはUPされるまでのお楽しみです♪<BR>ただ、意外なものであることは間違いないですよん。<BR>みぃ「ハンターの科学力はァァァ世界一ィィィィィィ！」</td>
+<td width=10%><a href=mailto:fantasydreamsjp@yahoo.co.jp>マコト</a></td>
+<td width=20%>■2006-07-08 13:03:27</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�ǂ����ł��B�Vࣂł��B<BR><BR>�����͐l�Ԃ���߂邼<BR>�ȁA���ɂȂ�񂾁I�H<BR>�V�g���H�@�������H�@�͂��܂��ؑタ��񂩁I�H�i��<BR><BR>���҂��Ă܂���</td>
-<td width=10%><a href=mailto:mst_kg@infoseek.jp>�V�</a></td>
-<td width=20%>��2006-07-03 17:30:28</td>
+<td style=font-size:10pt>どうもです。天爛です。<BR><BR>＞俺は人間をやめるぞ<BR>な、何になるんだ！？<BR>天使か？　悪魔か？　はたまた華代ちゃんか！？（爆<BR><BR>期待してます♪</td>
+<td width=10%><a href=mailto:mst_kg@infoseek.jp>天爛</a></td>
+<td width=20%>■2006-07-03 17:30:28</td>
 </tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -106,24 +106,24 @@ JOJO�l�^�ł��B��1�`4���܂Ō��\�������Ă܂��B�S�E�S�E�͍����̂��勽��������ł���
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20060702222216">
 <input type=hidden name="num_r" value="20060702222216">
 <input type=hidden name="url" value="">
@@ -139,17 +139,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20060702222216">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -159,9 +159,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

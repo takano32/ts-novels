@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,46 +52,46 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-�����j��I
+実験破壊！
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�_�y����</center><tr>
+<center>作者：神楽さん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-<br><br><br><br>�@�@�@�V&#31327;�O���[�v<br><br>����͐F�X�ȋւ���ꂽ���������Ă���g�D�B<br><br>�_��������ʂ����͐������l�Ԃ�����������<br><br>�̂̈ꕔ����菜�����葟�������₵����<br><br>������ɂ��ꂽ�l�Ԃ͐��m�ꂸ�c<br><br>�����������͎p�������B<br><br>�l�X�ȏꏊ�Ɉڂ�܂��������J�n����B<br><br>�@�@�@�@�@�@�@�@�@�@�����͌����Ă��܂�Ȃ�<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>�Â��ŁB���̒��ɋ͂��Ɍ����������B<br>�����̌��B�o�`�o�`�ƋP�����Ɉ�l�̏��N��<br>���ɂȂ��Ė����Ă����B<br>���̎���ɐ��l�̔��߂𒅂��l������B<br>�u����ł�����v<br>�u�����́c�����ł��ˁB�v<br>�u�t�t�c������c���ꂪ���E���́c�v<br><br>�@�@�@�@�@�@�@�@�@�@�@�@�@�@���N�����I�I�I<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>�u�c��v<br>�D�������z�̌����������ނ����l�̐l�Ԃ��ڂ��o�܂���<br>���̂����l�ɋ������̐l�͉��̂���ȏ��ɋ���̂��s�v�c�Ɏv������<br>����������ƕs�v�c�Ȍ��i�������̖ڂɉf�����B<br>�u�c�Ȃ񂾁B����B�c�����́c��k�H�v<br>�����v���̂������͂Ȃ��B<br>�u���c�j�����c�H�v<br>�����B���̏��N�������l�͏����ɂȂ��Ă����B<br>�㔼�g�ɂ͖L���ȃo�X�g������A<br>�����g�͉������Ă��Ȃ������B<br>�����B�ށi�ޏ��j�͊��S�ɏ����ɂȂ��Ă����̂��B<br>�u�R����c�H�܂������y�V&#31327;�z�ɕ߂܂����c�̂��H�v<br>����ȕ��ɂȂ��Ă��܂������E���N�B<br>���O�͍Ɩ��@��i���Ȃ݁@�Ȃ��j�@������ƃA�z�ȂP�U�΂ł���B<br>���ꂪ�����ڂ��o�܂��Ƃ����Ȃ菗�ɂȂ��Ă��̂��B<br>�l�����Ĕ߂����B�����{�C�Ŏv���₾�����B<br>�Ƃ肠�����������B�����v�����B<br>�����Ď����߂܂��Ď�������Ă����̂��������������<br>�o���Ă��邩������Ȃ��B<br>�ƁA�������Ƃ͉������Ƃ��󂯂����ɂȂ�B<br>�e�ɐS�z�������Ă��邾�낤���A�������ǂ����m��K�v������B<br>�Ƃ肠������͕����o���B<br><br>���̎����̏󋵂�m�邽�߂Ɂc<br><br><br><br><br>�����B
+<br><br><br><br>　　　天&#31327;グループ<br><br>それは色々な禁じられた研究をしている組織。<br><br>神をも恐れぬそれらは生きた人間を改造したり<br><br>体の一部を取り除いたり臓器を一つ増やしたり<br><br>実験台にされた人間は数知れず…<br><br>しかしそれらは姿を消す。<br><br>様々な場所に移りまた実験を開始する。<br><br>　　　　　　　　　　それらは決してつかまらない<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>暗い闇。その中に僅かに光があった。<br>実験の光。バチバチと輝く光に一人の少年が<br>横になって眠っていた。<br>その周りに数人の白衣を着た人がいる。<br>「これでいいわ」<br>「実験は…成功ですね。」<br>「フフ…そうよ…これが世界初の…」<br><br>　　　　　　　　　　　　　　少年少女！！！<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>「…ん」<br>優しく太陽の光が差し込むころ一人の人間が目を覚ました<br>何故か砂浜に居たその人は何故こんな所に居るのか不思議に思ったが<br>それよりもっと不思議な光景が自分の目に映った。<br>「…なんだ。これ。…何かの…冗談？」<br>そう思うのもムリはない。<br>「俺…男だぜ…？」<br>そう。その少年だった人は少女になっていた。<br>上半身には豊満なバストがあり、<br>下半身は何もついていなかった。<br>そう。彼（彼女）は完全に女性になっていたのだ。<br>「嘘だろ…？まさか俺【天&#31327;】に捕まった…のか？」<br>こんな風になってしまった元・少年。<br>名前は哉箕　凪（かなみ　なぎ）　ちょっとアホな１６歳である。<br>それが今日目を覚ますといきなり女になってたのだ。<br>人生って悲しい。そう本気で思う凪だった。<br>とりあえず歩こう。そう思った。<br>だって実質捕まって実験されていたのだからもう何日も<br>経っているかもしれない。<br>と、言うことは何日も家を空けた事になる。<br>親に心配もかけているだろうし、ここがどこか知る必要もある。<br>とりあえず凪は歩き出す。<br><br>今の自分の状況を知るために…<br><br><br><br><br>続く。
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-�_�y
+神楽
 </address>
-2004�N11��02��(��) 00��22��01�b ���J<br>
+2004年11月02日(火) 00時22分01秒 公開<br>
 <!--219.173.170.56-->
-<font color=red>�����̍�i�̒��쌠�͐_�y����ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権は神楽さんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-����͂�B�B�B<br>�Ȃ��˂�B���̏����B�B�B<br>�z���}�A�z�ŃX���}�Z���B�B�B�B�B�B
+いやはや。。。<br>なんやねん。この小説。。。<br>ホンマアホでスンマセン。。。。。。
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3><th colspan=4>
-���z�L���̓��e�͌��݂���܂���B
+感想記事の投稿は現在ありません。
 </th></tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -99,24 +99,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20041102002201">
 <input type=hidden name="num_r" value="20041102002201">
 <input type=hidden name="url" value="">
@@ -132,17 +132,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20041102002201">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -152,9 +152,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

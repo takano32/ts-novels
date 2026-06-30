@@ -1,37 +1,37 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�������i�@���z�f����</title>
+<title>盛さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�������i�@���z�f����</font>
+<font size=5>盛さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="mori">
 <input type=hidden name="nj" value="PWqph8xuES">
 <table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value=""><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value=""><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h gLAnxF  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="gLAnxF"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード gLAnxF  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="gLAnxF"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -44,43 +44,43 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �u�x�C�r�[�C���x�C�r�[�v�̕]�����肪�Ƃ�</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 「ベイビーインベイビー」の評価ありがとう</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/12 (��) 23:38:15 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607123233815&log=mori">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607123233815"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/12 (水) 23:38:15 <strong>▽</strong> 盛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607123233815_log_mori.cgi">返信</a>　削除<input type=checkbox name="target" value="200607123233815"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���낢��Ə������������ȂƎv���Ă����̂ł����A�F����̕]�����Q�l�ɂ����Ă��������܂��B<br>
-�@�f�ڂ��Čォ��A�������͂������������Ƃ��A�����Ə������������������Ƃ������ł������������Ɋ������Ƃ��낪�A����������܂��B<br>
-�@�f�ڂ���O�ɉ��x���ǂݒ�������ł����ǂˁB</font>
+<font size=3 color=#606060>いろいろと書き直したいなと思っていたのですが、皆さんの評価を参考にさせていただきます。<br>
+　掲載して後から、あそこはああした方がとか、もっと書き加えた方がいいとか自分でもそういう風に感じたところが、いくつかあります。<br>
+　掲載する前に何度も読み直したんですけどね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/05/18 (��) 11:59:16 <strong>��</strong> �V� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200605184115916&log=mori">�ԐM</a>�@�폜<input type=checkbox name="target" value="200605184115916"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/05/18 (木) 11:59:16 <strong>▽</strong> 天爛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200605184115916_log_mori.cgi">返信</a>　削除<input type=checkbox name="target" value="200605184115916"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���߂܂��āA�Vࣂł��B<br>
+<font size=3 color=#606060>初めまして、天爛です。<br>
 <br>
-<font color="#cc88ff">&gt;�u�����������񂽂��A���������Ă����ƕꂳ�񂤂ꂵ����A�Ƒ���������񂾂ˁA�����ƌ��܂�΁A����͐Ԕт��v</font><br>
-���̃V�[���ł����l�I�ɂ̓R���N�g����Ƌt�̈ӌ��ŕ�e�͂����߂����͂��Ⴂ�ł��悩�����̂ł͂Ǝv���܂��B<br>
-�R���N�g����̌����Ƃ���̏펯�I�����Ƃ����̂́u���ށv���Ƃ��Ǝv���܂����A���̐e�q�ɂ����Ă���͂Ȃ��Ǝv����ł���B<br>
+<font color="#cc88ff">&gt;「そうかいあんたが、そう言ってくれると母さんうれしいよ、家族が増えるんだね、そうと決まれば、今夜は赤飯だ」</font><br>
+このシーンですが個人的にはコレクトさんと逆の意見で母親はもう過ごしはしゃいでもよかったのではと思います。<br>
+コレクトさんの言うところの常識的反応というのは「拒む」ことだと思いますが、この親子においてそれはないと思うんですよ。<br>
 <br>
-������Q�x�Ǝ�ɓ���邱�Ƃ��ł��Ȃ��Ǝv���Ă��厖�Ȃ��̂��A�Ăю�ɓ���邱�Ƃ��ł���Ƃ�����A����͊�т������ꋑ�ނ��Ƃł͂Ȃ��Ǝv���܂��B���̂ő����̕��������Ă��܂����͎̂�l�������łȂ���e�������Ȃ̂ł������͂肱���͊�Ԃׂ����ƁB<br>
+それを２度と手に入れることができないと思ってた大事なものを、再び手に入れることができるとしたら、それは喜びこそすれ拒むことではないと思います。事故で多くの物を失ってしまったのは主人公だけでなく母親もそうなのですからやはりここは喜ぶべきかと。<br>
 <br>
-�S���`�ʂɂ��Ă͎��������̂̑傫���ɑ΂�����H���ɂȂ��Ă����Ƃ�����̂ŁA��l���̐S���`�ʂ����Ȃ��Ă������Ƃ͎v���܂����B�A���A����ƑΔ䂷��ׂɎ���̍s���Ȃǂ��ڂ��������ė~�������������B���Ɏ��E���悤�Ƃ��Ă����l�����~�߂��̍����Ԃ�Ƃ��E�E�E�B<br>
+心理描写については失ったものの大きさに対し感情が稀薄になっていたとも取れるので、主人公の心理描写が少なくてもいいとは思いました。但し、それと対比する為に周りの行動などを詳しく書いて欲しかったかも。特に自殺しようとしている主人公を止める母の混乱ぶりとか・・・。<br>
 <br>
-�ƁA����Ɋ����I�ɂȂ��ēK���Ȃ��ƌ����Ă��܂��܂������A���n�ȓz�̕Ќ��Ƃ��ăX���[���Ă���Ă��������B<br>
-����ɂ��Ă��ƂĂ�������i�ł���Ǝv���܂��B�������҂��Ă܂��B<br>
+と、勝手に感傷的になって適当なこと言ってしまいましたが、未熟な奴の片言としてスルーしてやってください。<br>
+それにしてもとてもいい作品であると思います。次回作期待してます。<br>
 <br>
-�Ō�ɁA���s�K�ȋ����̃s�m�R�i�u���b�N�W���b�N�w�s�m�R�a���x�Q�Ɓj���K�������ɕ�炵�Ă�񂾂���A���̃x�C�r�[�C���x�C�r�[���K���Ɋ����񂾂낤�Ȃ��A�Ǝv���A�t�F�[�h�A�E�g<br>
+最後に、より不幸な境遇のピノコ（ブラックジャック『ピノコ誕生』参照）が幸せそうに暮らしてるんだから、このベイビーインベイビーも幸せに慣れるんだろうなぁ、と思いつつ、フェードアウト<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -91,18 +91,18 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[5]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/05/17 (��) 23:47:55 <strong>��</strong> �j�D�ɓ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200605173234755&log=mori">�ԐM</a>�@�폜<input type=checkbox name="target" value="200605173234755"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/05/17 (水) 23:47:55 <strong>▽</strong> Ｋ．伊藤 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200605173234755_log_mori.cgi">返信</a>　削除<input type=checkbox name="target" value="200605173234755"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ɂ����A�Ǝv���܂��B<br>
-�V���A�X�ɂ���R���f�B�ɂ���t���ɂ�������ɂ���Ƒ����ɂ���A�ǂ�����r���[�Ȉ�ۂ��󂯂܂��B<br>
-���̒����̒Z�҂Ȃ�A�ǂꂩ��ɓI���i���ēO��I�ɂ�����_���������ǂ��̂ł́A�ƁB<br>
-�Ⴆ�΁u���Ӗ��s���v�݂����Ȑ_�̐��A����A���Ȃ�O��I�ɂ��������������ǂ��ł��A���r���[�ɓ����Ă�Ɣ����܂��B<br>
-���Ƃ͖G���v�f�ł����A������ŏ��ɑ_�����i���������ǂ��ł��B<br>
-�G���s�r�Ȃ̂��s�r�G���Ȃ̂��B�L�����N�^�ɖG��������̂��A�󋵂ɖG��������̂��B�N�ɖG��������̂��A�����ɖG��������̂��B<br>
+<font size=3 color=#606060>惜しい、と思います。<br>
+シリアスにしろコメディにしろ青春劇にしろ恋愛にしろ家族愛にしろ、どれも中途半端な印象を受けます。<br>
+この長さの短編なら、どれか一つに的を絞って徹底的にそこを狙った方が良いのでは、と。<br>
+例えば「←意味不明」みたいな神の声、これ、やるなら徹底的にやっちゃった方が良いです、中途半端に入ってると白けます。<br>
+あとは萌え要素ですが、これも最初に狙いを絞った方が良いです。<br>
+萌えＴＳなのかＴＳ萌えなのか。キャラクタに萌えさせるのか、状況に萌えさせるのか。誰に萌えさせるのか、何処に萌えさせるのか。<br>
 <br>
-�܂��͈�{�A�O��I�ɑ_�����i�������m�������Ă݂Ă͔@���ł��傤���B</font>
+まずは一本、徹底的に狙いを絞ったモノを書いてみては如何でしょうか。</font>
 </td></table>
 </td></tr></table>
 
@@ -112,75 +112,75 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[4]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/05/16 (��) 16:09:23 <strong>��</strong> �R���N�g </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200605162160923&log=mori">�ԐM</a>�@�폜<input type=checkbox name="target" value="200605162160923"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/05/16 (火) 16:09:23 <strong>▽</strong> コレクト </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200605162160923_log_mori.cgi">返信</a>　削除<input type=checkbox name="target" value="200605162160923"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�u�����������񂽂��A���������Ă����ƕꂳ�񂤂ꂵ����A�Ƒ���������񂾂ˁA�����ƌ��܂�΁A����͐Ԕт��v</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;「そうかいあんたが、そう言ってくれると母さんうれしいよ、家族が増えるんだね、そうと決まれば、今夜は赤飯だ」</font><br>
 <br>
-����͂Ȃ��ł��傤�B<br>
-�����͏펯�I�ƌĂ΂�锽��������̂��x�X�g�Ȃ񂶂�Ȃ��ł��傤���H<br>
-��e�̕��킩�肪�ǂ����܂���B<br>
-�ǂ�ł��ē������������Ƃ�����ۂ��������т܂����B���q�����l�ɂł����B<br>
-�b�̗�����C�ɂ���΂���ŁA�X�l�̐S����܂�ɂ����Ȃ�߂��āA<br>
-���ꂪ�F�X���Q���N�����Ă���Ǝv���܂�</font>
+これはないでしょう。<br>
+ここは常識的と呼ばれる反応をするのがベストなんじゃないでしょうか？<br>
+母親の物わかりが良すぎますよ。<br>
+読んでいて頭がおかしいという印象しか浮かびませんよ。息子も同様にですが。<br>
+話の流れを気にするばかりで、個々人の心情があまりにおざなり過ぎて、<br>
+それが色々弊害を起こしていると思います</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> ���z�ł��B</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 感想です。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/05/14 (��) 10:05:52 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200605140100552&log=mori">�ԐM</a>�@�폜<input type=checkbox name="target" value="200605140100552"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/05/14 (日) 10:05:52 <strong>▽</strong> 流離太 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200605140100552_log_mori.cgi">返信</a>　削除<input type=checkbox name="target" value="200605140100552"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���߂܂��āA�������Ƃ����҂ł��B<br>
-�Ȍ�A��낵�����肢�������܂��B<br>
-������̏����A�q�������Ă��������܂����B<br>
-�������ł��˂��A���@���p�ȂǈȊO�ŕϐg����p�^�[�����āB<br>
-�Ō�������ŏI���A�߂ł����߂ł����ł悩�����ł��B<br>
-�����A�����g�ł��킩���Ă���ʂ�A���炷���݂����ȕ��͂��A�C�f�A���E���Ă���悤�ȋC�����܂��B<br>
-��l�������̂ɂ�������A���E�����悤�Ƃ������ɔߑs�������܂�`����Ă��܂���B<br>
-������ӂ́A�S���`�ʂ�����Ȃǂ����Əڂ����`���ׂ��������Ǝv���܂��B<br>
-���̕����A�㔼�̊�������������ɂȂ�܂��B<br>
+<font size=3 color=#606060>初めまして、流離太という者です。<br>
+以後、よろしくお願いいたします。<br>
+盛さんの小説、拝見させていただきました。<br>
+珍しいですねえ、魔法や手術など以外で変身するパターンって。<br>
+最後も感動で終わり、めでたしめでたしでよかったです。<br>
+ただ、ご自身でもわかっている通り、あらすじみたいな文章がアイデアを殺しているような気がします。<br>
+主人公が事故にあったり、自殺をしようとした時に悲壮さがあまり伝わってきません。<br>
+ここら辺は、心理描写を入れるなどもっと詳しく描くべきだったと思います。<br>
+その方が、後半の感動が浮き彫りになります。<br>
 <br>
-�C�s���̎����̂����Ȃ��Ƃ������Ă��݂܂���ł����B<br>
-�������W�r�㒆�Ȃ̂ŁA���݂�����΂�܂��傤�B<br>
-������̎����A���҂��Ă��܂���B<br>
-�ł͂ł́`�B</font>
+修行中の私が偉そうなことを言ってすみませんでした。<br>
+私も発展途上中なので、お互いがんばりましょう。<br>
+盛さんの次回作、期待していますよ。<br>
+ではでは〜。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w�x�C�r�[�E�C���E�x�C�r�[�x������ɂ͉��̃����N���N���b�N</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『ベイビー・イン・ベイビー』を見るには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/05/13 (�y) 21:29:00 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200605136212900&log=mori">�ԐM</a>�@�폜<input type=checkbox name="target" value="200605136212900"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/05/13 (土) 21:29:00 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200605136212900_log_mori.cgi">返信</a>　削除<input type=checkbox name="target" value="200605136212900"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z ���̂ő��������������N�A���̐g�ɋN������ՂƂ́c�c�H<br>
+<font size=3 color=#606060>【推薦文】 事故で多くを失った少年、その身に起きた奇跡とは……？<br>
 <a href=http://ts.novels.jp/novel/200605/13211036/baby.html target=_top>http://ts.novels.jp/novel/200605/13211036/baby.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="mori">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=mori">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_mori.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

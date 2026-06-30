@@ -1,27 +1,27 @@
 <html>
 <head>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
-/*�ꗗ�̕\��̒�`*/
+/*一覧の表題の定義*/
 TR#tr2 {background-color: #4AFFD7}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #E6FFE6}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 ESELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�` D������ƁA�L��*/
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
 .DD2{
     background-color: #0000A0;
     border-style: double;
@@ -31,19 +31,19 @@ border-style: solid}
     border-width: thick;
     cursor: hand;
 }
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�` */
+/*投稿FORMの一部の定義 */
 dD4 {background-color: #999999; font-size:13pt}
 
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#E6FFE6���폜)*/
+/*作品タイトル侮ヲの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
 .d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
-/*��i���e�̕����`*/
+/*作品内容の侮ヲ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 /*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL()} */
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -52,47 +52,47 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���N�������Ɂ@�|�@���f���E�X�g�[���[����</title>
+<title>少年少女文庫　−　第二掲示板・ストーリー道場</title>
 </head>
 <body bgcolor="#F4FFFA" background="" text="#333333" link="#0000ff">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
-���̌������[���b�g�E�}�V�[��
+肉体交換ルーレット・マシーン
 </td>
 </tr>
 <tr>
 <td class="d6">
-<center>��ҁF�t���l���Ⴍ��Ƃ���</center><tr>
+<center>作者：逆流人ぎゃくるとさん</center><tr>
 <td class="d6">
 <font style="color:;layout-grid-line:9pt;">
-<DIV ALIGN=CENTER><HR WIDTH=70%><br><font size=6><B>�����̌������[���b�g�E�}�V�[����</font></B><br><HR WIDTH=70%><DIV ALIGN=LEFT><br><UL><br><br><br><br><br>���{�l�̏��q���E������������i�݁A�Q�O�O�O�N���ɗ\�z����Ă����̂́A<br>�w�Q�O�R�O�N�ɂ́A���{�̐l�����P�O����������x�Ƃ̎����������A<br>���ۂɂ́A�R�O�����������Ă��܂��A���ꂱ��Ƒ΍�͂���Ă����̂����A<br>����Ƃ��āA���ʂ͏o�Ȃ������B<br><br><br>�����A���͂Q�O�w�w�N�B�B�B�B<br>����Ȋw�҂��A���낵���������]�Ƃ��Ȃ鑕�u���J�������B<br><br>�N���[���Z�p�ō��o�����V�������̂��A������x�̓��̔N��ɂ܂ŋ}���ɐ��������鎖�ɐ����������Ƃɂ��A<br>�ɔ�ɑI�΂ꂽ�ҒB�̔]�̑f�q�ɋL�^���ꂽ�������[���A���̐V�������̂̔]�Ɉڂ��Ƃ����������s��ꂽ�B<br>�����Ă��̎����́A�����ɐ����I<br>���̎�����Ƃ��ꂽ�ҒB�́A���N�o�������́A�������Ȃ���炵�Ă���Ƃ̎��B<br>���̎����}�X�R�~�ɂ������A�����̓N���[���Z�p�ɑ΂��ĉ����Ƌc�_����Ă������A<br>���ǂ̂Ƃ���A���̕��@�̑��ɗL�͂ȑ΍�����o���ʂ܂܂������B<br>�����āA�I�΂ꂽ�ҒB�������A�V�������̂ŐV������炵����ɓ�����鎖�ƂȂ����B<br><br>�����ĉ��E�E�E�E�w�\��@�k�l�i�����@�ق��Ɓj�x�@�R�U�΁@�j�B<br>�߂ł����H���̒��I�ɓ��I���A�����w���̌����}�V�[���x������̂ŁA<br>�V�������̂���ɓ�����鎖�ƂȂ����B<br><br><br><br>�k�l�F<br>�u�悵�I�@�������牴�́A�V�����l�ԂƂ��Đ��܂�ς��A�V�����l������ɓ����񂾁I�I�v<br><br><br><br>�k�l���ӋC���ޗ��R�͂Ȃ����E�E�E�E<br>�k�l�͎����̗e�p�ɁA�R���v���b�N�X�������Ă����B<br>���O�̓J�b�R���������m��Ȃ����A�n�b�L�������Ă��܂��΁A�w�u�T�C�N�x�Ȃ̂ł���B<br>�����|���Ă��鏗�������Ȃ���΁A���܂ŕt�����������������Ȃ��B<br>����ɁA�����Ɏ��M���������̂�����A�����Ƙb�����������k�l�������B<br><br>���ꂾ���Ȃ�A�܂��~��������B�@��l�ł������Ă䂯�鎩�M�͂������B<br>�����A�E��ł̃p���[�n���X�����g�ɂ��A����ސE�ɂ܂Œǂ��l�߂��Ă��܂����B<br>�����������A�݂�Ȏ����̗e�p�ɖ�肪����Ǝv���Ă����B<br><br><br><br>���X�ƁA���̂��������Ă䂭�I�΂ꂽ�ҒB�E�E�E�E<br>�����āA���悢��k�l�̔ԂƂȂ����B<br>�����E�E�E�E<br><br><br><br>�W���F<br>�u����H�@�A�i�^�́H�v<br><br>�k�l�F<br>�u�͂��H�@�Ȃ�ł����H�v<br><br>�W���F<br>�u�����A�`���b�g���҂��������B�v<br>�y���y���y���E�E�E�E<br><br>�k�l�F<br>�u�E�E�E�E�H�v<br><br><br><br>�W���́A��Ɏ������t�@�C��������A�����𒲂ׂĂ���悤���B<br>�k�l�̑��ɑI�΂ꂽ�ҒB�́A����̖����Ɋ��҂����P�����ڂ����Ă����B<br>�����āA�Ƒ��ƂƂ��ɋA���čs���E�E�E�E<br>�����A�Ȃ����k�l�������҂�����鎖�ɂȂ�A�i�X�ƕs���ɂȂ�B<br><br><br><br>�W���F<br>�u���I�@�\���󂠂�܂���B�@���́A����̒��I�őI�΂ꂽ�l���ƁA<br>�V�������ꂽ���̂Ƃ̐����H������Ă���܂��āA������قǂ̕����Ō�ƂȂ��Ă���܂��āE�E�E�E�v<br><br>�k�l�F<br>�u�͂��I�H�@�Ȃ�ł���I�I�@���A�`�����ƒ��I�ɓ��I�����ʒm���������I�I�@���X����ȁE�E�E�E�v<br><br><br><br>�R���Ղ�����˂����Ƃ����v���̖k�l�B<br>����Ƃ����ցA������l�̌W��������ė��āA��l�ŉ����b�������Ă����B<br>�����āE�E�E�E<br><br><br><br>�W���F<br>�u�\���󂠂�܂���I�@������̎�Ⴂ�ŁA�����V�������͎̂c���Ă���܂���̂ŁE�E�E�E�v<br><br>�k�l�F<br>�u����A��k����Ȃ����I�@�������ɂ́A�R���������ɓ��͖����񂾂�I�@�Ȃ�Ƃ����Ă������I�I�v<br><br>�W���F<br>�u�͂��E�E�E�E�{���ɁA�\���󂠂�܂���B�v<br><br>�k�l�F<br>�u���̂Ȃ��I�I�@�\���󂠂�܂�����Ă΂��肶��A���͔[���ł��˂��[��I�I�v<br><br>�W���F<br>�u�͂��E�E�E�E����͌�ނ��Ō�����܂��B�@�����ŁA�R�`���ɂ�����@�B���������܂��āE�E�E�E�v<br><br>�k�l�F<br>�u����H�@�Ȃ񂾁A����́H�@������V�����g�̂������@�B�Ȃ̂��H�v<br><br>�W���F<br>�u�͂��B�@�ł����A�A�i�^����]����܂������̂͂���܂��񂪁A<br>���̕��X�̐V�������̂����A���X��ڂł��āE�E�E�E�v<br><br>�k�l�F<br>�u����A�Ȃ�ł������I�@���̓��̂���J�������Ȃ�ȁB�@����ɂ��Ă���I�I�v<br><br>�W���F<br>�u�͂��E�E�E�E����͌��\�Ȃ̂ł����A�R�`���͎����I�ɊJ�����ꂽ�@�B�ł��̂ŁA<br>���������̂̂����A�ǂ��I�ԁE�E�E�E�Ȃ�Ď����ł��Ȃ��̂ł��B�v<br><br>�k�l�F<br>�u�ȂɁI�H�@���႟�A�ǂ�Ȑg�̂ɂȂ邩������Ȃ����Č����̂��H�v<br><br>�W���F<br>�u�͂��E�E�E�E�\���󂠂�܂���B�v<br><br>�k�l�F<br>�u�����ނށE�E�E�E�E�E�E�E�v<br><br><br><br>�W���́A���������B<br>�k�l������ɐV�������̂���������ҒB�́A�����̊�]�������̂���ɂ��鎖���o�����̂����A<br>�k�l�����ꂩ��g�����Ƃ���@�B�́A�����I�ɊJ�����ꂽ���̂ŁA<br>�������̂̌����ƁA�]�̋L���̈ړ������̊m�F�����邽�߂̂��̂ł���B<br>�ł��A�k�l�͍��̓��̂ɖ����͖��������B<br><br><br><br>�k�l�F<br>�u����ł����I�@����ɂ��Ă���B�v<br><br>�W����l�F<br>�u�E�E�E�E�v<br><br><br><br>��l�����킹��W���B�B<br>�����������ƁA�k�l���������܂Ŏg�p����Ă����@�B�̗����֗U������B<br><br><br><br>�W���F<br>�u�R�`���ł��B�v<br><br>�k�l�F<br>�u�ӂ��`��E�E�E�E�ʂɂ������̋@�B�Ƃ͕ς��Ȃ�����Ȃ����H�v<br><br>�W���F<br>�u�����ڂ͂����ł��B�@�ł��A���g�͂܂������ʕ��ł��B�v<br><br>�k�l�F<br>�u�ʂɁA���Ɋւ���Ė󂶂�Ȃ���ȁH�v<br><br>�W����l�F<br>�u�������ł��I�v<br><br>�k�l�F<br>�u�E�E�E�E��A�悵�I�@���႟�A���ނ��I�v<br><br><br><br>�k�l�́A�@�B�̒��֓����Đݒu����Ă���֎q�ɍ��|�����B<br>���΂炭����ƁA�u�D�`���Ƃ����X��悤�ȉ��ƂƂ��ɁA���̒����������Ȃ�悤�Ȋ��o�ɂȂ�B<br><br><br><br>�W���F<br>�u�\�삳��I�@���̐����������܂����H�v<br><br>�k�l�F<br>�u����H�@���A������������B�v<br><br>�W���F<br>�u�ڂ̑O�ɁA�Ԃ��{�^��������͂��ł��B�@����������΃A�i�^�̐V�������̂����܂�܂��B�v<br><br>�k�l�F<br>�u�����A�����������ˁB�@������E�E�E�E���ƁI�v<br><br>�J�`���I<br><br><br><br>�k�l�́A�W���Ɍ���ꂽ�Ƃ���ɁA�Ԃ��{�^�����������B<br>����Ɩڂ̑O�̃X�N���[���ɁA�܂�ŃX���b�g�̃h��������]���邩�̂悤�ɁA<br>�F�Ƃ�ǂ�̓��̂̉f�����A���X�Ɖf���o����Ă͏����Ă䂭�B<br>�����āA���X�ɂ��̓������x���Ȃ�A�~�܂邩�~�܂�Ȃ����Ƃ����Ƃ��A<br>�k�l�̗��z�Ƃ���A���g�̃n���T���Ȓj���̉f�����f���o���ꂽ�B<br>�k�l�́A��񂾁E�E�E�E�̂����A���̃n���T���Ȓj���̉f���̑S�̂��f���o����钼�O�ɁA<br>��O�̉f���ɖ߂��Ă��܂����B�@�����āA�ӎ����v�c���Ɛ؂ꂽ�B<br><br>�C���t���ƁA�@�B�̒��̈֎q�ɍ��|�����܂܂������B<br><br><br><br>�k�l�F<br>�u�I�H�E�E�E�E�v<br><br>�W���F<br>�u�C�t����܂������H�v<br><br>�k�l�F<br>�u�����E�E�E�E���E�E�E�E�S�z���I�I�@���̐g�̂͂ǂ��E�E�E�E�����I�@�S�z���I�I�@����H�@�����E�E�E�E�v<br><br><br><br>�k�l�́A�ς��Ǝv�����B<br>�Ȃ��Ȃ�A�����̐V�������̂́A�m�����g�ȃn���T���̒j���̂͂��I�H<br>�Ȃ̂ɁA���̎����̌����甭�����鐺�́A�܂�Ŏq���̂悤�ȍ������E�E�E�E<br><br><br><br>�k�l�F<br>�u����H�E�E�E�E�Ȃ񂾂��̎�́H�@��Ȃ��I�H�@�Ȃ񂾂��̊i�D�́I�H�@�X�J�[�g�I�H�v<br><br><br><br>�����Ȃ̂��B<br>�k�l�̎�́A���̓��̂̎�����F���ŁA�ʂ̂悤�Ȕ��Ŏw�悪�ׂ��Ȃ��Ă����B<br>����ɁA�f�p��������Ă����͂��Ȃ̂ɁA���̓X�J�[�g������Ă���I�H<br>�������A���̐��I�I<br><br><br><br>�k�l�F<br>�u�������I�@�Ȃ񂾂�R���́I�H�@�܂�ŏ�����Ȃ����I�I�v<br><br>�W���F<br>�u�����ł��B�@�A���^�͏����Ƃ��Đ��܂�ς�����̂ł��B�v<br><br>�k�l�F<br><font size=6><B>�u�Ȃɂ��`�I�H�v</font></B><br><br><br><br>���̌����}�V�[�����I��񂾂��̂́A<br>���̔N��P�W�΁A�g���P�T�W�����A�����O�w�A�[�̔������̂��̂������̂��B<br><br><br>
+<DIV ALIGN=CENTER><HR WIDTH=70%><br><font size=6><B>■肉体交換ルーレット・マシーン■</font></B><br><HR WIDTH=70%><DIV ALIGN=LEFT><br><UL><br><br><br><br><br>日本人の少子化・高齢化が著しく進み、２０００年頃に予想されていたのは、<br>『２０３０年には、日本の人口が１０％減少する』との事だったが、<br>実際には、３０％も減少してしまい、あれこれと対策はされていたのだが、<br>何一つとして、結果は出なかった。<br><br><br>だが、時は２０ＸＸ年。。。。<br>ある科学者が、恐ろしくもあり希望ともなる装置を開発した。<br><br>クローン技術で作り出した新しい肉体を、ある程度の肉体年齢にまで急速に成長させる事に成功したことにより、<br>極秘に選ばれた者達の脳の素子に記録されたメモリーを、その新しい肉体の脳に移すという実験が行われた。<br>そしてその実験は、見事に成功！<br>その実験台とされた者達は、数年経った今は、何も問題なく暮らしているとの事。<br>この事がマスコミにあげられ、当初はクローン技術に対して何かと議論されていたが、<br>結局のところ、この方法の他に有力な対策も見出せぬままだった。<br>そして、選ばれた者達だけが、新しい肉体で新しい暮らしを手に入れられる事となった。<br><br>そして俺・・・・『十川　北斗（そご　ほくと）』　３６歳　男。<br>めでたく？その抽選に当選し、今日『肉体交換マシーン』たるもので、<br>新しい肉体を手に入れられる事となった。<br><br><br><br>北斗：<br>「よし！　今日から俺は、新しい人間として生まれ変わり、新しい人生を手に入れるんだ！！」<br><br><br><br>北斗が意気込む理由はなぜか・・・・<br>北斗は自分の容姿に、コンプレックスを持っていた。<br>名前はカッコいいかも知れないが、ハッキリ言ってしまえば、『ブサイク』なのである。<br>声を掛けてくる女性も居なければ、今まで付き合った女性も居ない。<br>それに、自分に自信が無いものだから、女性と話す事も無い北斗だった。<br><br>それだけなら、まだ救いがある。　一人でも生きてゆける自信はあった。<br>だが、職場でのパワーハラスメントにより、自主退職にまで追い詰められてしまった。<br>それもこれも、みんな自分の容姿に問題があると思っていた。<br><br><br><br>次々と、肉体を交換してゆく選ばれた者達・・・・<br>そして、いよいよ北斗の番となった。<br>だが・・・・<br><br><br><br>係員：<br>「あれ？　アナタは？」<br><br>北斗：<br>「はい？　なんですか？」<br><br>係員：<br>「いえ、チョットお待ち下さい。」<br>ペラペラペラ・・・・<br><br>北斗：<br>「・・・・？」<br><br><br><br>係員は、手に持ったファイルを捲り、何かを調べているようだ。<br>北斗の他に選ばれた者達は、今後の未来に期待した輝いた目をしていた。<br>そして、家族とともに帰って行く・・・・<br>だが、なぜか北斗だけが待たされる事になり、段々と不安になる。<br><br><br><br>係員：<br>「あ！　申し訳ありません。　実は、今回の抽選で選ばれた人数と、<br>新しく作られた肉体との数が食い違っておりまして、もう先ほどの方が最後となっておりまして・・・・」<br><br>北斗：<br>「はぁ！？　なんでだよ！！　俺、チャンと抽選に当選した通知が来たぜ！！　今更そんな・・・・」<br><br><br><br>崖っぷちから突き落とされる思いの北斗。<br>するとそこへ、もう一人の係員がやって来て、二人で何やら話し合っていた。<br>そして・・・・<br><br><br><br>係員：<br>「申し訳ありません！　こちらの手違いで、もう新しい肉体は残っておりませんので・・・・」<br><br>北斗：<br>「じょ、冗談じゃないぜ！　もう俺には、コレしか他に道は無いんだよ！　なんとかしてくれよっ！！」<br><br>係員：<br>「はぁ・・・・本当に、申し訳ありません。」<br><br>北斗：<br>「あのなぁ！！　申し訳ありませんってばかりじゃ、俺は納得できねぇーよ！！」<br><br>係員：<br>「はい・・・・それは御尤もで御座います。　そこで、コチラにもう一つ機械がございまして・・・・」<br><br>北斗：<br>「うん？　なんだ、それは？　それも新しい身体をくれる機械なのか？」<br><br>係員：<br>「はい。　ですが、アナタが希望されました肉体はありませんが、<br>他の方々の新しい肉体よりも、少々若目でして・・・・」<br><br>北斗：<br>「いや、なんでもいい！　この肉体から開放されるならな。　それにしてくれ！！」<br><br>係員：<br>「はい・・・・それは結構なのですが、コチラは試験的に開発された機械ですので、<br>幾つかある肉体のうち、どれを選ぶ・・・・なんて事ができないのです。」<br><br>北斗：<br>「なに！？　じゃぁ、どんな身体になるか分からないって言うのか？」<br><br>係員：<br>「はい・・・・申し訳ありません。」<br><br>北斗：<br>「うぅむむ・・・・・・・・」<br><br><br><br>係員は、そう言う。<br>北斗よりも先に新しい肉体をもらった者達は、自分の希望した肉体を手にする事が出来たのだが、<br>北斗がこれから使おうとする機械は、試験的に開発されたもので、<br>ただ肉体の交換と、脳の記憶の移動だけの確認をするためのものである。<br>でも、北斗は今の肉体に未練は無かった。<br><br><br><br>北斗：<br>「それでいい！　それにしてくれ。」<br><br>係員二人：<br>「・・・・」<br><br><br><br>二人見合わせる係員達。<br>無言に頷くと、北斗をさっきまで使用されていた機械の裏側へ誘導する。<br><br><br><br>係員：<br>「コチラです。」<br><br>北斗：<br>「ふぅ〜ん・・・・別にさっきの機械とは変わらないじゃないか？」<br><br>係員：<br>「見た目はそうです。　でも、中身はまったく別物です。」<br><br>北斗：<br>「別に、命に関るって訳じゃないよな？」<br><br>係員二人：<br>「もちろんです！」<br><br>北斗：<br>「・・・・よ、よし！　じゃぁ、頼むぜ！」<br><br><br><br>北斗は、機械の中へ入って設置されている椅子に腰掛けた。<br>しばらくすると、ブゥ〜ンという唸るような音とともに、頭の中が涼しくなるような感覚になる。<br><br><br><br>係員：<br>「十川さん！　私の声が聞こえますか？」<br><br>北斗：<br>「うん？　あ、ああ聞こえる。」<br><br>係員：<br>「目の前に、赤いボタンがあるはずです。　それを押せばアナタの新しい肉体が決まります。」<br><br>北斗：<br>「あぁ、そういう事ね。　あいよ・・・・っと！」<br><br>カチン！<br><br><br><br>北斗は、係員に言われたとおりに、赤いボタンを押した。<br>すると目の前のスクリーンに、まるでスロットのドラムが回転するかのように、<br>色とりどりの肉体の映像が、次々と映し出されては消えてゆく。<br>そして、徐々にその動きが遅くなり、止まるか止まらないかというとき、<br>北斗の理想とする、長身のハンサムな男性の映像が映し出された。<br>北斗は、喜んだ・・・・のだが、そのハンサムな男性の映像の全体が映し出される直前に、<br>一つ前の映像に戻ってしまった。　そして、意識がプツリと切れた。<br><br>気が付くと、機械の中の椅子に腰掛けたままだった。<br><br><br><br>北斗：<br>「！？・・・・」<br><br>係員：<br>「気付かれましたか？」<br><br>北斗：<br>「ああ・・・・俺・・・・ゴホン！！　俺の身体はどう・・・・ぐっ！　ゴホン！！　あれ？　声が・・・・」<br><br><br><br>北斗は、変だと思った。<br>なぜなら、自分の新しい肉体は、確か長身なハンサムの男性のはず！？<br>なのに、今の自分の口から発せられる声は、まるで子供のような高い声・・・・<br><br><br><br>北斗：<br>「あれ？・・・・なんだこの手は？　んなっ！？　なんだこの格好は！？　スカート！？」<br><br><br><br>そうなのだ。<br>北斗の手は、元の肉体の手よりも色白で、玉のような肌で指先が細くなっていた。<br>それに、Ｇパンを穿いていたはずなのに、今はスカートを穿いている！？<br>しかも、この声！！<br><br><br><br>北斗：<br>「おいっ！　なんだよコレは！？　まるで女じゃないか！！」<br><br>係員：<br>「そうです。　アンタは女性として生まれ変わったのです。」<br><br>北斗：<br><font size=6><B>「なにぃ〜！？」</font></B><br><br><br><br>肉体交換マシーンが選らんだものは、<br>肉体年齢１８歳、身長１５８ｃｍ、ロングヘアーの美少女のものだったのだ。<br><br><br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <HR color=#E6FFE6><address>
-<a href=mailto:gyakuruto@neko.chan.ne.jp>�t���l���Ⴍ���</a>
+<a href=mailto:gyakuruto@neko.chan.ne.jp>逆流人ぎゃくると</a>
 </address>
-<a href=http://maho-no-kobako.hp.infoseek.co.jp/>�t���l���Ⴍ��Ƃ���̃T�C�g�Fhttp://maho-no-kobako.hp.infoseek.co.jp/</a><br>
-2007�N02��02��(��) 23��42��05�b ���J<br>
+<a href=http://maho-no-kobako.hp.infoseek.co.jp/>逆流人ぎゃくるとさんのサイト：http://maho-no-kobako.hp.infoseek.co.jp/</a><br>
+2007年02月02日(金) 23時42分05秒 公開<br>
 <!--218.220.125.210-->
-<font color=red>�����̍�i�̒��쌠�͋t���l���Ⴍ��Ƃ���ɂ���܂��B���f�]�ڂ͋֎~�ł��B</font><br>
+<font color=red>■この作品の著作権は逆流人ぎゃくるとさんにあります。無断転載は禁止です。</font><br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-����ȁA���b���l���Ă݂܂����B<br>���̌����}�V�[���E�E�E�E�Ȃ�āA�H�v�̖������O�ł����A<br>�������ɁA�J�b�R�������O�Ȃ�Ė����ł����ˁH<br>�ł��A����ȋ@�B�������ɂ͓o�ꂷ�邩���H<br>
+こんな、お話を考えてみました。<br>肉体交換マシーン・・・・なんて、工夫の無い名前ですが、<br>何か他に、カッコいい名前なんて無いですかね？<br>でも、こんな機械が未来には登場するかも？<br>
 </dl>
 </td></tr>
 <tr><Td><hr align=center color=#E6FFE6>
 <center><table width="100%"><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3><th colspan=4>
-���z�L���̓��e�͌��݂���܂���B
+感想記事の投稿は現在ありません。
 </th></tr>
 </table>
 <form method=post action=./bbs.cgi>
@@ -100,24 +100,24 @@ A{TEXT-DECORATION:NONE};
 <table border=1>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <TEXTAREA ROWS="3" COLS="80" NAME="come_r" WRAP="physical"></TEXTAREA>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20070201203534">
 <input type=hidden name="num_r" value="20070201203534">
 <input type=hidden name="url" value="">
@@ -133,17 +133,17 @@ E-Mail(�C��)
 </center>
 <br><br>
 <a href=./bbs.cgi?log=>
-<<�߂�</a>
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./bbs.cgi">
+<form method="post" action="bbs.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20070201203534">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
 <form method=post action=./bbs.cgi>
@@ -153,9 +153,9 @@ E-Mail(�C��)
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>
