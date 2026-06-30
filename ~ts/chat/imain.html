@@ -1,0 +1,273 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>main</TITLE>
+<STYLE TYPE="text/css">
+<!--
+   
+	#ChatColor		{				/* 【文字の色】リスト */
+		background-color:#FFFFFF;	/* チャットログ表示欄と同じ背景色にしましょう */
+		width:120px;
+	}
+
+	#inputSpeaks	{				/* 発言入力欄 */
+		background-color:#EEEEEE;
+		width:570px;
+		border-style:groove;
+	}
+	
+	#printnickname	{				/* 名前表示欄 */
+		background-color:#CCFFFF;
+		width:150px;
+		color:#FF0000;
+		border-style:groove;
+	}
+
+	#namechange	{				/* 名前変更ボタン */
+		background-color:#DDEEDD;
+		width:120px;
+		color:#008888;
+		font:bold;
+	}
+
+	#submitHatsugen	{				/* 発言ボタン */
+		background-color:#DDEEDD;
+		color:#008888;
+		width:120px;
+		font:bold;
+	}
+
+	#ChatBoxFrame		{			/* チャットログ表示欄：外枠 */
+		background-color:#FFFFFF;
+		width:570px;
+		height:290px;
+		overflow-y:scroll;
+		border-style:groove;
+	}
+	
+	#ChatBox		{				/* チャットログ表示欄：内枠 */
+		color:#44EE44;
+		font-size:11pt;
+		line-height:100%;
+		width:545px;
+		height:280px;
+	}
+	
+	#NameBox		{				/* 参加者一覧表示欄 */
+		background-color:#FAFAFA;
+		width:120px;
+		height:290px;
+		color:#3333FF;
+		line-height:130%;
+		font-weight:bold;
+		border-style:groove;
+		overflow:hidden ;
+	}
+
+	#clearBtn		{				/* チャットログ表示欄クリアボタン */
+		background-color:#FFEEDD;
+		width:122px;
+		color:#0066CC;
+		border-style:groove;
+		font:bold;
+	}
+
+	#copyTextBtn, #copySourceBtn		{				/* チャットログ表示欄クリアボタン */
+		background-color:#FFDDEE;
+		width:282px;
+		color:#3399CC;
+		border-style:groove;
+		font:bold;
+	}
+	
+	#logoutBtn		{				/* ログアウトボタン */
+		background-color:#EEEEEE;
+		width:170px;
+		border-style:groove;
+		font:bold;
+	}
+-->
+</STYLE>
+
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--
+
+function callServer(){
+	if(document.SendData.status.value == 'new'){
+		document.SendData.nickname.value =  document.PrintName.printnickname.value;
+	}
+	document.SendData.speaks.value = document.ChatData.inputSpeaks.value ;
+	document.ChatData.inputSpeaks.value = "" ;
+	document.SendData.chatcolor.value = document.PrintName.ChatColor.value ;
+	document.SendData.submit() ;
+}
+
+
+function changeName(){
+	if (document.SendData.status.value != 'in') {
+		 document.SendData.nickname.value =  document.PrintName.printnickname.value;
+		 return ;
+	}
+	var oldName = document.SendData.nickname.value ;
+	var tempName =  document.PrintName.printnickname.value ;
+	if (tempName == "" || tempName == null) {
+		tempName = oldName ;
+		return ;
+	}
+	if (tempName != oldName) {
+		if (document.SendData.status.value == 'in') {
+			document.SendData.speaks.value = tempName ;
+			document.SendData.status.value = 'rename' ;
+			document.SendData.submit() ;
+		}
+	}
+	document.ChatData.inputSpeaks.focus() ;
+}
+
+function clearState(){
+	document.SendData.status.value = 'new' ;
+}
+
+function logoutChat(){
+	if (document.SendData.status.value == 'in') {
+		document.SendData.speaks.value = "" ;
+		document.SendData.status.value = 'out' ;
+		document.SendData.submit() ;
+	}
+}
+
+function clearLog(){
+		document.ChatData.ChatLog.value = "" ;
+		parent.ChatMain.document.all.ChatBox.innerHTML = "" ;
+}
+
+
+function copyLog(type) {
+	if(navigator.appName.charAt(0) == "M"){
+		if(type == "Source") {
+			document.ChatData.LogBox.value = document.all.ChatBox.innerHTML ;
+		}
+		else if(type == "Text") {
+			document.ChatData.LogBox.value = document.all.ChatBox.innerText ;
+		}
+		logRange = document.ChatData.LogBox.createTextRange() ;
+		logRange.execCommand("Copy");
+	}
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+
+<BODY BGCOLOR="#EEEEEE" onLoad="changeName();">
+<TABLE BORDER="1" CELLPADDING="20" CELLSPACING="5" HSPACE="0" VSPACE="0" ALIGN="CENTER" BORDERCOLOR="#EEEEEE" BGCOLOR="#FFFFFF" STYLE="margin-top:25px">
+	<TR>
+	<TD ALIGN="CENTER" STYLE="background-color:#EEEEFF;">
+		<!-- タイトル表示領域 -->
+		<TABLE BORDER=0 BGCOLOR="#FFFFFF"><TR><TD WIDTH="200" HEIGHT="40" ALIGN="CENTER"><FONT SIZE="4"><I>Chat Room</I></FONT></TD></TR></TABLE>
+	</TD>
+	</TR>
+	<TR>
+	<TD STYLE="background-color:#FFFFDD;">
+	<!-- チャット領域 -->
+	<TABLE BORDER="0" WIDTH="720" CELLPADDING="0" CELLSPACING="0" HSPACE="0" VSPACE="0" ALIGN="CENTER">
+		<TR>
+		<FORM NAME="PrintName" onSubmit="return false ;">
+			<TD>
+				<INPUT TYPE="text" NAME="printnickname" ID="printnickname" VALUE="お名前？">
+				<INPUT TYPE="button" onClick="changeName();" VALUE="名前の変更" NAME="namechange" ID="namechange">
+			</TD>
+			<TD>
+				<SELECT NAME="ChatColor" ID="ChatColor">
+					<OPTION VALUE="#000000" STYLE="color:#000000">【文字の色】</OPTION>
+					<OPTION VALUE="#0030C0" STYLE="color:#0030C0">【文字の色】</OPTION>
+					<OPTION VALUE="#0000FF" STYLE="color:#0000FF">【文字の色】</OPTION>
+					<OPTION VALUE="#0090C0" STYLE="color:#0090C0">【文字の色】</OPTION>
+					<OPTION VALUE="#60C0C0" STYLE="color:#60C0C0">【文字の色】</OPTION>
+					<OPTION VALUE="#6000C0" STYLE="color:#6000C0">【文字の色】</OPTION>
+					<OPTION VALUE="#9000F0" STYLE="color:#9000F0">【文字の色】</OPTION>
+					<OPTION VALUE="#C000F0" STYLE="color:#C000F0">【文字の色】</OPTION>
+					<OPTION VALUE="#F000F0" STYLE="color:#F000F0">【文字の色】</OPTION>
+					<OPTION VALUE="#900000" STYLE="color:#900000">【文字の色】</OPTION>
+					<OPTION VALUE="#C00030" STYLE="color:#C00030">【文字の色】</OPTION>
+					<OPTION VALUE="#F06000" STYLE="color:#F06000">【文字の色】</OPTION>
+					<OPTION VALUE="#FF0000" STYLE="color:#FF0000">【文字の色】</OPTION>
+					<OPTION VALUE="#F09030" STYLE="color:#F09030">【文字の色】</OPTION>
+					<OPTION VALUE="#F0C030" STYLE="color:#F0C030">【文字の色】</OPTION>
+					<OPTION VALUE="#006000" STYLE="color:#006000">【文字の色】</OPTION>
+				</SELECT>
+			</TD>
+		</FORM>
+		</TR>
+		<FORM NAME="ChatData" onSubmit="javascript:callServer();return false;">
+		<TR>
+			<TD>
+				<INPUT TYPE="hidden" NAME="pagetype" VALUE="imain">
+				<INPUT TYPE="text" SIZE="70" NAME="inputSpeaks" ID="inputSpeaks" VALUE="">
+			</TD>
+			<TD WIDTH="120">
+				<INPUT TYPE="button" ID="submitHatsugen" VALUE="発言する" onClick="javascript:callServer()">
+			</TD>
+		</TR>
+		<TR>
+			<TD VALIGN="top">
+				<!-- ログのコピーを可能にするためのTEXTAREA OBJECT -->
+				<TEXTAREA ROW="0" COL="0" NAME="LogBox" ID="LogBox" STYLE="position:absolute; width:0px; height:0px z-index:-1; visibility:hidden;"></TEXTAREA>
+				<DIV NAME="ChatBoxFrame" ID="ChatBoxFrame"><DIV NAME="ChatBox" ID="ChatBox"></DIV></DIV>
+			</TD>
+			<TD>
+				<INPUT TYPE="hidden" NAME="ChatLog">
+				<TEXTAREA ROWS=20 COLS="12" NAME="NameBox" ID="NameBox" width="120">＃OFF LINE</TEXTAREA>
+			</TD>
+		</TR>
+		<TR>
+			<TD>
+				<INPUT TYPE="button" ID="copyTextBtn" NAME="copyTextBtn" VALUE="ログをクリップボードへ" onClick="copyLog('Text')">
+				<INPUT TYPE="button" ID="copySourceBtn" NAME="copySourceBtn" VALUE="ログのソースをクリップボードへ" onClick="copyLog('Source')">
+			</TD>
+			<TD>
+				<INPUT TYPE="button" ID="clearBtn" VALUE="ログのクリア" onClick="clearLog()">
+			</TD>
+		</TR>
+		</FORM>
+		<TR>
+			<TD COLSPAN="2">
+				<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="0" HSPACE="0" VSPACE="0" WIDTH="100%"><TR>
+				<FORM NAME="ReloadTime"><TD>
+					<SELECT NAME="reloadtime">
+						<OPTION VALUE="0">なし
+						<OPTION VALUE="10">10秒
+						<OPTION VALUE="20" SELECTED>20秒
+						<OPTION VALUE="30">30秒
+						<OPTION VALUE="60">60秒
+					</SELECT>
+					<SPAN STYLE="font-size:12px;color:#EE8888">&lt;&lt; 自動更新</SPAN>
+				</TD></FORM>
+				<FORM><TD ALIGN="RIGHT"><INPUT TYPE="button" ID="logoutBtn" VALUE="logout" onClick="logoutChat();"></TD></FORM>
+				<TD ALIGN="RIGHT">
+					<!-- ここから 著作情報 削除禁止 -->
+					<!-- Copyright (C) 2001. R.Yamaguchi All rights reserved. -->
+					<A HREF="http://clip.yokohama-cu.ac.jp/~yamaguchi/" STYLE="font-style:italic;font-size:12px;color:#999999" TARGET="_blank">by&nbsp;ホームページの作り方講座</A>
+					<!-- ここまで 著作情報 -->
+				</TD>
+				<TD WIDTH="5"></TD>
+				</TR></TABLE>
+			</TD>
+		</TR>
+	</TABLE>
+	</TD>
+	</TR>
+</TABLE>
+	<!-- 送信用フォームデータ -->
+	<FORM METHOD="post" ACTION="./cgi-bin/syschat.cgi" NAME="SendData" TARGET="ChatTemp">
+		<INPUT TYPE="hidden" NAME="speaks" VALUE="">
+		<INPUT TYPE="hidden" VALUE="0" NAME="uptime">
+		<INPUT TYPE="hidden" VALUE="new" NAME="status">
+		<INPUT TYPE="hidden" VALUE="お名前？" NAME="nickname">
+		<INPUT TYPE="hidden" VALUE="" NAME="chatcolor">
+	</FORM>
+
+</BODY>
+</HTML>

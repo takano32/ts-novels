@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+        "http://www.w3.org/TR/html4/frameset.dtd">
+
+<HTML>
+<HEAD>
+<TITLE>SYSCHAT2.0</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+	function checkBrowser(){
+		var chatpage = "";
+		if(navigator.appName.charAt(0) == "M"){
+			if(document.all) {
+				chatpage="imain.html";
+			}
+			else{
+				chatpage="nmain.html";
+			}
+		}
+		else{
+				chatpage="nmain.html";
+		}
+		ChatMain.document.location.href = chatpage ;
+	}
+
+ 
+// -->
+</SCRIPT>
+</HEAD>
+<FRAMESET ROWS="100%,*" FRAMEBORDER="0" FRAMESPACING="0" onLoad="checkBrowser();">
+<FRAME SRC="dummy.html" NAME="ChatMain" FRAMEBORDER="0" MARGINHEIGHT="0" MARGINWIDTH="0" NORESIZE>
+<FRAME SRC="dummy.html" NAME="ChatTemp" FRAMEBORDER="0">
+</FRAMESET>
+<NOFRAMES>
+このチャットルームはフレーム・JavaScript対応専用です。
+</NOFRAMES>
+<NOSCRIPT>
+このチャットルームはフレーム・JavaScript対応専用です。
+</NOSCRIPT>
+
+</HTML>

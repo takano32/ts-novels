@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>main</TITLE>
+
+<STYLE TYPE="text/css">
+<!--
+	#inputSpeaks	{				/* 発言入力欄 */
+		background-color:#EEEEEE;
+		width:510px;
+		border-style:groove;
+	}
+	
+	#printnickname	{				/* 名前表示欄 */
+		background-color:#CCFFFF;
+		color:#FF0000;
+		border-style:groove;
+	}
+	
+	#namechange	{				/* 名前変更ボタン */
+		background-color:#DDEEDD;
+		color:#008888;
+		font:bold;
+	}
+
+	#submitHatsugen	{				/* 発言ボタン */
+		background-color:#DDEEDD;
+		color:#008888;
+		width:100px;
+		font:bold;
+	}
+	
+	#ChatBox		{				/* チャットログ表示欄 */
+		background-color:#333333;
+		color:#44EE44;
+	}
+	
+	#NameBox		{				/* 参加者一覧表示欄 */
+		background-color:#FAFAFA;
+		color:#3333FF;
+		line-height:130%;
+		font-weight:bold;
+		border-style:groove;
+	}
+		
+	#clearBtn		{				/* チャットログ表示欄クリアボタン */
+		background-color:#FFEEDD;
+		width:622px;
+		color:#0066CC;
+		border-style:groove;
+		font:bold;
+	}
+	
+	#logoutBtn		{				/* ログアウトボタン */
+		 background-color:#EEEEEE;
+		 width:100px;
+		 border-style:groove;
+	}
+-->
+</STYLE>
+
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--
+
+function callServer(){
+	if(document.SendData.status.value == 'new'){
+		document.SendData.nickname.value =  document.PrintName.printnickname.value;
+	}
+	document.SendData.speaks.value = document.ChatData.inputSpeaks.value ;
+	document.ChatData.inputSpeaks.value = "" ;
+	for (i=0; i < document.PrintName.ChatColor.length; i++){
+		if(document.PrintName.ChatColor[i].checked){
+			document.SendData.chatcolor.value = document.PrintName.ChatColor[i].value ;
+		}
+	}
+	document.SendData.submit() ;
+}
+
+
+function changeName(){
+	if (document.SendData.status.value != 'in') {
+		 document.SendData.nickname.value =  document.PrintName.printnickname.value;
+		 return ;
+	}
+	var oldName = document.SendData.nickname.value ;
+	var tempName =  document.PrintName.printnickname.value ;
+	if (tempName == "" || tempName == null) {
+		tempName = oldName ;
+		return ;
+	}
+	if (tempName != oldName) {
+		if (document.SendData.status.value == 'in') {
+			document.SendData.speaks.value = tempName ;
+			document.SendData.status.value = 'rename' ;
+			document.SendData.submit() ;
+		}
+//		document.SendData.nickname.value = tempName ;
+	}
+	document.ChatData.inputSpeaks.focus() ;
+}
+
+function clearState(){
+	document.SendData.status.value = 'new' ;
+}
+
+function logoutChat(){
+	if (document.SendData.status.value == 'in') {
+		document.SendData.speaks.value = "" ;
+		document.SendData.status.value = 'out' ;
+		document.SendData.submit() ;
+	}
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+
+<BODY BGCOLOR="#EEEEEE" onLoad="changeName();">
+<!--
+	最初にページを開いたタイミングで名前入力ウィンドウがポップアップするのがいやな場合は
+	<BODY BGCOLOR="#EEEEEE">
+	に変える
+-->
+
+<TABLE BORDER="1" CELLPADDING="20" CELLSPACING="5" HSPACE="0" VSPACE="0" ALIGN="CENTER" BORDERCOLOR="#EEEEEE" BGCOLOR="#FFFFFF">
+	<TR>
+	<TD ALIGN="CENTER" STYLE="background-color:#EEEEFF;">
+		<TABLE BORDER=0 BGCOLOR="#FFFFFF"><TR><TD WIDTH="200" HEIGHT="40" ALIGN="CENTER"><FONT SIZE="4"><I>Chat Room</I></FONT></TD></TR></TABLE>
+	</TD>
+	</TR>
+	<TR>
+	<TD STYLE="background-color:#FFFFDD;">
+	<!-- チャット領域 -->
+	<TABLE BORDER="0" WIDTH="640" CELLPADDING="0" CELLSPACING="0" HSPACE="0" VSPACE="0" ALIGN="CENTER">
+		<FORM NAME="PrintName" onSubmit="return false ;">
+		<TR>
+			<TD COLSPAN="2">
+				<INPUT TYPE="text" NAME="printnickname" ID="printnickname" VALUE="お名前？">
+				<INPUT TYPE="button" onClick="changeName();" VALUE="名前の変更" NAME="namechange" ID="namechange">
+			</TD>
+		</TR>
+		<TR>
+			<TD COLSPAN="2" BGCOLOR="#FAFAFA">
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#000000" CHECKED><SPAN STYLE="color:#000000">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0030C0"><SPAN STYLE="color:#0030C0">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0000FF"><SPAN STYLE="color:#0000FF">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#0090C0"><SPAN STYLE="color:#0090C0">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#60C0C0"><SPAN STYLE="color:#60C0C0">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#6000C0"><SPAN STYLE="color:#6000C0">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#9000F0"><SPAN STYLE="color:#9000F0">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#C000F0"><SPAN STYLE="color:#C000F0">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F000F0"><SPAN STYLE="color:#F000F0">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#900000"><SPAN STYLE="color:#900000">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#C00030"><SPAN STYLE="color:#C00030">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F06000"><SPAN STYLE="color:#F06000">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#FF0000"><SPAN STYLE="color:#FF0000">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F09030"><SPAN STYLE="color:#F09030">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#F0C030"><SPAN STYLE="color:#F0C030">■</SPAN>
+				<INPUT TYPE="radio" NAME="ChatColor" VALUE="#006000"><SPAN STYLE="color:#006000">■</SPAN>
+			</TD>
+		</TR>
+		</FORM>
+		<FORM NAME="ChatData" onSubmit="javascript:callServer();return false;">
+		<TR>
+			<TD>
+				<INPUT TYPE="hidden" NAME="pagetype" VALUE="nmain">
+				<INPUT TYPE="text" SIZE="70" NAME="inputSpeaks" ID="inputSpeaks" VALUE="">
+			</TD>
+			<TD WIDTH="120">
+				<INPUT TYPE="button" ID="submitHatsugen" VALUE="発言する" onClick="javascript:callServer()">
+			</TD>
+		</TR>
+		<TR>
+			<TD>
+				<TEXTAREA ROWS=20 COLS="70" NAME="ChatBox" ID="ChatBox" onFocus="document.ChatData.ChatBox.blur();" STYLE="width:510px"></TEXTAREA>
+			</TD>
+			<TD>
+				<TEXTAREA ROWS=20 COLS="12" NAME="NameBox" ID="NameBox" width="100">＃OFF LINE</TEXTAREA>
+			</TD>
+		</TR>
+		<TR>
+			<TD COLSPAN="2">
+				<INPUT TYPE="reset" ID="clearBtn" VALUE="             ログのクリア             ">
+			</TD>
+		</TR>
+		</FORM>
+		<TR>
+			<TD COLSPAN="2">
+				<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="0" HSPACE="0" VSPACE="0" WIDTH="100%"><TR>
+				<FORM NAME="ReloadTime"><TD>
+					<SELECT NAME="reloadtime">
+						<OPTION VALUE="0">なし
+						<OPTION VALUE="10">10秒
+						<OPTION VALUE="20" SELECTED>20秒
+						<OPTION VALUE="30">30秒
+						<OPTION VALUE="60">60秒
+					</SELECT>
+					<SPAN STYLE="font-size:12px;color:#EE8888">&lt;&lt; 自動更新</SPAN>
+				</TD></FORM>
+				<FORM><TD ALIGN="RIGHT"><INPUT TYPE="button" ID="logoutBtn" VALUE="logout" onClick="logoutChat();"></TD></FORM>
+				<TD ALIGN="RIGHT">
+					<!-- ここから 著作情報 削除禁止 -->
+					<A HREF="http://clip.yokohama-cu.ac.jp/~yamaguchi/" STYLE="font-style:italic;font-size:12px;color:#999999">by&nbsp;ホームページの作り方講座</A>
+					<!-- ここまで 著作情報 -->
+				</TD>
+				<TD WIDTH="5"></TD>
+				</TR></TABLE>
+			</TD>
+		</TR>
+	</TABLE>
+
+	</TD>
+	</TR>
+</TABLE>
+
+	<!-- 送信用フォームデータ -->
+	<FORM METHOD="post" ACTION="./cgi-bin/syschat.cgi" NAME="SendData" TARGET="ChatTemp">
+		<INPUT TYPE="hidden" NAME="speaks" VALUE="">
+		<INPUT TYPE="hidden" VALUE="0" NAME="uptime">
+		<INPUT TYPE="hidden" VALUE="new" NAME="status">
+		<INPUT TYPE="hidden" VALUE="お名前？" NAME="nickname" >
+		<INPUT TYPE="hidden" VALUE="" NAME="chatcolor">
+	</FORM>
+
+</BODY>
+</HTML>

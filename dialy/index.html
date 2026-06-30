@@ -1,0 +1,86 @@
+<HTML>
+<BODY>
+<H2>Webサイト構築日記</H2>
+<BR>
+6/15 Thinkpad365X<BR>
+<BR>
+メモリ24MB、HDD 810MBのThinkpad365が14800円。つい買ってしまった。とりあえずLinuxを放り込んでみると、難なく入る。でも、IPマスカレードできない。どうやらこのカーネルはIPマスカレードできないらしい。仕方がないのでコンパイル。<BR>
+<BR>
+6/19 ADSL開通<BR>
+<BR>
+折角動いていたルータマシンのアップグレードに失敗したまま放置してあったので、しまった。動かない理由が良く分からないが失敗。戻し方も分からないので、差し当たっては再インストールすることに決める。しかし、代替に仕立て上げたIPマスカレードマシンも、なぜかDHCPでIPを拾えないという不具合に遭遇してしまう。あ、朝まで動いてたのにい。なんで帰ってきたら壊れたんだよお(泣)<BR>
+とりあえず諦めてWindows2000Serverにフレッツモジュールを入れてADSLの具合を評価、っと。ええっ！600kbps～～～！遅いじゃん。もう一回接続して評価。今度はつながらない。なんでえ？どうして？<BR>
+ということで、NTTのPPPoEモジュールをCF-A1Vにインストールして評価。今度は600kbpsだってさ…どうにもなんないね。<BR>
+<BR>
+6/20 再び評価<BR>
+<BR>
+朝起きてすぐ再び評価。今度は1.2Mbpsぐらいでてる。ってことはADSLだからっていつも速いわけじゃなくて、プロバイダの能力が大いに関係するみたい。ぐすん。ツインインターネットって遅いのね。<BR>
+<BR>
+6/21 現場から直帰という恵まれた条件の中、結局設定作業をする気になれず、敗北。とりあえずLinuxからPPPoEが出来るようにするだけでも、と思いつつも、やっぱり今日も上手く行かない。なんでだろう？<BR>
+<BR>
+apt-get install kernel-package<BR>
+apt-get install bin86<BR>
+apt-get install make<BR>
+apt-get install gcc<BR>
+apt-get install libncurses5-dev<BR>
+<BR>
+こんくらいでカーネルコンパイルは問題なく出来るはず。無事にIPマスカレードして、これで大丈夫、と思ったら、またCATVからDHCPを拾えなくなる。なんでだよお。<BR>
+<BR>
+6/22 PPPoEのつながらない原因が、どうもカーネルコンパイルの時にPPPオプションをきったことが敗因であることになんとなく気づく。バカじゃん。オレ。家に帰ってきてから設定作業の開始。Debianのインストールもいい加減慣れて来たぞ。でもカーネルコンパイルはやっぱり時間がかかりすぎるので、そのまま寝てしまう。<BR>
+<BR>
+6/23　Thinkpad365再設定<BR>
+<BR>
+この辺から記憶が新しくなってるぞ、と。<BR>
+朝起きてからおもむろにDebianの再インストールと、カーネルの再コンパイル。なんだかよくわかんないけど、カーネルが大きすぎると怒られる。朝8時ごろから作業開始なのに、10時の時点でこれ。かなりやる気をなくすが、設定を変えて再びコンパイル。<BR>
+目の前を見ると、PentiumIII866EBMHzのマシンが電源も入れられずに放置されてある。ふと、これを使って作業をすればいいじゃないか、とか思ったのだ。もしかしたら、Debianのインストール時間を考えてもそっちのほうが早いかもしれない。<BR>
+　ためしにやってみると、ものの１０分で設定は終わりカーネルコンパイルが始まる。おお速い。カーネルコンパイルのためだけにLinuxを入れておくといろいろと便利かもしれない。カーネルコンパイルが終了し、再びalienでrp-pppoeのrpmパッケージをインストール。今度は問題なくConnected!とでてきた。なんとかなるもんだ。<BR>
+<BR>
+6/24 <BR>
+<BR>
+この日は爆睡。何をやったかあまり記憶がない。<BR>
+<BR>
+6/25 RP-PPPOE<BR>
+<BR>
+朝からLinuxセットアップ。IntelistationをCD-ROMからインストールしようとするが、なぜだかインストールに失敗する。仕方がないので、ネットワークインストール。Thinkpadでやったようにalien rp-pppoe-xxxxx.rpmしてみるが、adsl-setupしてなぜかpppoe出来ない。仕方がないので、そのまま会社へ。<BR>
+会社からCATV経由で家の中のネットワークに入る。よく考えたら、ADSLモデムが繋がってるのは、eth0の方だ。adsl-setupのデフォルトがeth1だったので勘違いしていた。フレッツ接続モジュールなどと同じように、ADSLのPPPoEするInterfaceと、EthernetでTCP/IPするInterfaceを同じ物にしていたのである。<BR>
+adsl-setupでeth0を選ぶと無事に接続。外部Interfaceに外からPINGを打つと帰ってくる。やれやれ。内側のTCP/IPのIPアドレスを変えようと、/etc/network/interfacesの変更を試みるが、書式が分からずに家の中からのネットワークがつかえなくなる。PPP0からは入れるので、そっちから作業をしているが、作業中に誤ってeth0を落としてしまい、ジ・エンド。諦めて帰宅してからの作業にする。<BR>
+帰宅してからapacheの設定。ドキュメントルートを変更しようと試みるが、上手くいかない。敗因は、debianの標準パッケージが使い慣れたapache1.3.14じゃなくて、1.3.9だったことによる。現行バージョンのapacheはhttpd.confに設定ファイルが統合されているが、このころの奴はsrm.conf,httpd.conf,access.confの三つにファイルが分割されていた。そんなこともう忘れたよ…<BR>
+無事に、http://www.novels.jpが表示されたので、寝る。<BR>
+<BR>
+6/26 djbdns & postfix & fml<BR>
+<BR>
+djbdnsの設定を行う。すでにローカルキャッシュとしては動いていて、www.novels.jpは自力で名前解決を行っているが、一応セカンダリDNSとして登録してある以上、プライマリDNSからデータを引っ張ってこないといけない。<BR>
+djbdnsはすでにlisa.novel.acでプライマリDNSとして動かしていて、ゾーン転送の設定もしてある。さしあたっては、lisa.nvoel.acのゾーン転送を許可するIPアドレスを変更する。何度か失敗したが、結局はコマンドラインのオプションが間違っていただけだった。djbdnsの設定については、以下が詳しい。<BR>
+http://www.ez-net.ne.jp/special/server/network/djbdns.asp<BR>
+lisa.novel.acで動かしているmailing-listを持ってくるために、postfixのインストールを行う。<BR>
+postfixはapt-get install postfixでローカル配送が可能になり楽チンだが、次に大きな関門が待っている。virtual domainである。djbのmxレコードには、novels.jpとts.novels.jpが登録されてある。そして、MLを二つts.novels.jpで動かしたいのである。<BR>
+virtual-domainというから、ApacheのVirtual-Domainみたいなのを想定していたんだけど、違うようだ。ApacheのVirtual-DomainはIPアドレスが違うだけで、本当に違うサーバーがあるかのような挙動をするが、PostfixのVirtual-Domainは単にローカル配送時に違う名前に変えるだけのようだ。<BR>
+要するに、一定のルールを自分で設定して、hogehoge@virtual.domainをhogehoge+virtual@localmachineに変換する。例えば、hogehoge+virtualのaliasがあるのがlocaluser1だったら、localuser1にメールが配送される、という仕組みだ。hogehoge+virtualのaliasの宛先がfmlのスクリプトだったら、hogehoge@virtual.domain宛のMailing-listが実現する。<BR>
+しかし、一つのMLに対して、追加するaliasは複数ある。まさか一つ一つに対して設定しなければならないのか、と思ったらどうやらそうらしい。仕方がないので、/var/spool/ml/hoge/のaliasを全て手で書き換えて、/etc/aliasesにcatした。配送テストをすると、問題なく配送はされるが、hogehoge+virtual@domainを直に指定しても、ちゃんとMLに配送されてしまう。これでは期待通りの動作とはいえない。この辺りで、とりあえず寝る。<BR>
+<BR>
+6/27<BR>
+<BR>
+Virtual-Domainを用いた場合、hogehoge+virtual@domain宛にメールを送っても無事に配送されてしまう。原理的に考えて、「グローバルアドレスのローカル配送の読み代え」ということならしかたがないのかもしれない。実害がないといったらないが、回避するために、かなりトリッキーな方法を思いついた。方法は以下だ。<BR>
+<BR>
+hostsに　127.0.0.1 localhost localhost.novels.jp<BR>
+<BR>
+を追加。main.cfにはもともとlocalhost.$mydomainは配送先になっている。<BR>
+<BR>
+そして、/etc/postfix/virtualには<BR>
+novels.jp anything<BR>
+/(.*)-hogevirtual@novels.jp/ ${1]-tsvirtual-error@novels.jp<BR>
+hoge.novels.jp anything<BR>
+/(.*)\.@hoge\.novels\.jp/ ${1}-hogevirtual@localhost.novels.jp<BR>
+<BR>
+と記述してみる。virtualへはアドレス変換が行われた後再帰に送られるみたいだが、変更箇所がなくなると、変換後のドメインに応じてローカルに配送する、という仕組みのようだ。<BR>
+novels.jpのなかで-hogevirtualという宛先のものだけ、-errorがついてアドレス変換が試みられる。変換されたアドレスは再び変換が試みられるが、変更箇所はないので、そのままローカルへ配送される。ローカルに配送されたら、宛先不明でエラーメールが返る。<BR>
+hoge.novels.jp宛は-hogevirtual@localhost.novels.jpと変換される。これはvirtualの変換ルールではもうこれ以上変換できない。しかし、localhost.novels.jpはローカル配送として処理するから、そのままローカルに配送される。novels.jp宛は問題なくローカル配送される。<BR>
+もちろん、novels.jpのMXレコードにはlocalhost.novels.jpなどというエントリはない。したがって、localhost.novels.jp宛に送っても、送った人が利用したMTAが宛先不明で跳ねてしまう。結果的に、hoge1@hoge.novels.jpに送るためには、変換後のアドレスに送るのではなくて、hoge1@hoge.novels.jpに送るしかなくなる。<BR>
+しかし、これは許される設定なのだろうか？一抹の不安がある。<BR>
+差し当たって、二つMLを追加。片方のメンバーリストにシンボリックリンクを張り、共用のメンバーリストを使用するようにする。両方とも問題なく配送できているようである。<BR>
+7/2<BR>
+動いていたもう一つのMLも移行させ、アナウンスを出す。返事が返ってきたところを見ると、無事に配送されているみたいだ。Memberリストを前のサーバーから持ってきてるんだから、当然といえば当然か。<BR>
+とかやっていると、NTTから、フレッツADSLの工事のメールが。7/10の午前中不定期に止まるらしい。とかやってたら、7/9プロバイダ工事。厄介なことに、7月中旬、プロバイダ工事。増速されるのはありがたいけど、工事日は教えて欲しいな、とか。<BR>
+ML関係をいじっただけで、サーバーの設定は変更なし。予定としては、カーネルコンパイルを行って、パケットフィルタを効かせる予定<BR>
+</BODY>
+</HTML>

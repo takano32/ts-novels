@@ -1,0 +1,458 @@
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=Shift_JIS">
+<STYLE TYPE="text/css">
+<!--
+/*枠の定義*/
+TABLE#id1 {border-style: double; border-color: #999999; background-color: #D7FFEB}
+/*一覧の表題の定義*/
+TR#tr2 {background-color: #4AFFD7}
+/*一覧の記事欄の定義*/
+TR#tr3 {background-color: #E6FFE6}
+TH#th1 {font-size:12pt}
+TD#td1 {font-size:9pt}
+/*FORM INPUT BOXの定義*/
+EINPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
+border-style: solid}
+/*FORM SELECT BOXの定義*/
+ESELECT {border-width:midium;background-color: #FFE6FF;
+border-style: solid}
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
+.DD1 {background-color: #0000a0;border-style: double; border-color:#555555;
+ color: #ffff00; font-weight: bolder;
+ border-width:thick;cursor:hand}
+/*FORM SUBMITボタンの定義 Dを一つ削ると、有効*/
+.DD2{
+    background-color: #0000A0;
+    border-style: double;
+    border-color: #555555;
+    color: #C1FFC1;
+    font-weight: bolder;
+    border-width: thick;
+    cursor: hand;
+}
+/*FORM RADIO CHECK BOXの定義*/
+.sd3 {border-style: double;background-color: #ffff80;border-color:#999999}
+/*投稿FORMの一部の定義 */
+dD4 {background-color: #999999; font-size:13pt}
+
+/*作品タイトル侮ｦの定義(タイトルに背景色を入れない場合、background-color:#E6FFE6を削除)*/
+.d5 {font-size:20pt;font-weight:bold;background-color:#E6FFE6}
+/*作品内容の侮ｦ定義*/
+.d6 {font-size:13pt}
+/*FORM TEXTAREAの定義*/
+/*TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
+ solid;border-width:midium;background-image:URL()} */
+/*リンク色の設定*/
+A:link{ color:blue }
+A:visited{ color:gray }
+A:active{ color:green }
+A{TEXT-DECORATION:NONE};
+.on { background-color: #ffff00;color: white;font-style: Italic; }
+.off {color: #555555;font-style: normal }
+-->
+</STYLE>
+<title>少年少女文庫　－　第二掲示板・ストーリー道場</title>
+</head>
+<body background="" bgcolor=#ffffff text=navy>
+<center>
+<font style="font-size:20pt;font-weight:bold">
+少年少女文庫　－　第二掲示板・ストーリー道場
+</font>
+</center><br>
+<center>
+<table cellspacing=3 width=100% bgcolor=#D7FFEB>
+<tr>
+<td colspan=5>
+<table align=center id=id1>
+<tr id=tr3>
+<th>
+<a href=./bbs.cgi>
+最新作品集
+</a>
+</th>
+<!-- . --><!-- .. --><!-- 2003121121.txt --><th>
+<a href=?log=2003121121>作品集その2</a>
+</th>
+<!-- 2004101004.txt --><th>
+<a href=?log=2004101004>作品集その3</a>
+</th>
+<!-- 2005031012.txt --><th>
+<a href=?log=2005031012>作品集その4</a>
+</th>
+<!-- 2005081123.txt --><th>
+<a href=?log=2005081123>作品集その5</a>
+</th>
+<!-- 2006011002.txt --><th>
+<a href=?log=2006011002>作品集その6</a>
+</th>
+<!-- 2006051711.txt --><th>
+<a href=?log=2006051711>作品集その7</a>
+</th>
+<!-- 2006082917.txt --><th>
+作品集その8
+</th>
+</tr><tr id=tr3>
+<!-- 2007062822.txt --><th>
+<a href=?log=2007062822>作品集その9</a>
+</th>
+<!-- 2007122413.txt --><th>
+<a href=?log=2007122413>作品集その10</a>
+</th>
+<!-- 2008082900.txt --><th>
+<a href=?log=2008082900>作品集その11</a>
+</th>
+<!-- 2009091919.txt --><th>
+<a href=?log=2009091919>作品集その12</a>
+</th>
+<!-- anthology.txt --></tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan=5>
+<font style="font-size:13pt">
+投稿LIST [ 48 作品 ]
+</font>
+</th>
+</tr>
+<form method=post action=./bbs.cgi>
+<input type=hidden name=action value="html4">
+<input type=hidden name="log" value="2006082917">
+<tr><th>
+ 作者を限定して抽出 
+<select name=sakusha>
+<option value=0>作者を選択
+<option value="Plantain">Plantain
+<option value="YAN">YAN
+<option value="Ｋ．伊藤">Ｋ．伊藤
+<option value="いとう">いとう
+<option value="ふう">ふう
+<option value="よっすぃー">よっすぃー
+<option value="バレット">バレット
+<option value="マコト">マコト
+<option value="ヴァリオン">ヴァリオン
+<option value="高樹ひろむ">高樹ひろむ
+<option value="神束">神束
+<option value="太九郎">太九郎
+<option value="長束">長束
+<option value="通りすがり">通りすがり
+<option value="天爛">天爛
+<option value="電波妖精">電波妖精
+<option value="南文堂">南文堂
+<option value="流離太">流離太
+<option value="龍酒">龍酒
+</select>
+<input type=submit value=" リスト表示 " class="d1">
+</th>
+</form>
+<form method=post action=./bbs.cgi>
+<input type=hidden name=action value="html5">
+<input type=hidden name="log" value="2006082917">
+<th colspan=4>
+ 語句を指定して抽出 
+<input type=text name=serch size=16>
+<input type=submit value=" 検索 " class="d1">
+</th></tr>
+</form>
+<tr ID=tr2><TH WIDTH="50%">Title</th><TH WIDTH="10%">著者</th><TH WIDTH="20%">投稿日</th><TH WIDTH="5%">RES</TH></tr>
+</tr>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060824013426&log=2006082917">
+華代ちゃんシリーズ「まなつ、の、はなし」</a>
+</font>
+</th>
+<td>
+龍酒
+</td>
+<td id=td1>2006年08月24日(木) 01時34分26秒</td>
+<td align=right>
+1
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060817213727&log=2006082917">
+迎え盆</a>
+</font>
+</th>
+<td>
+<a href="mailto:plantain@r5.dion.ne.jp">Plantain</a>
+</td>
+<td id=td1>2006年08月17日(木) 21時37分27秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060802172600&log=2006082917">
+花子の悩み相談室！　第三話「彷徨う銅像」</a>
+</font>
+</th>
+<td>
+<a href="mailto:mst_kg@infoseek.jp">天爛</a>
+</td>
+<td id=td1>2006年08月07日(月) 12時03分02秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060806101341&log=2006082917">
+ひきこちゃん</a>
+</font>
+</th>
+<td>
+流離太
+</td>
+<td id=td1>2006年08月06日(日) 11時20分44秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060803194716&log=2006082917">
+パンドラの弁明</a>
+</font>
+</th>
+<td>
+長束
+</td>
+<td id=td1>2006年08月03日(木) 20時27分49秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060728203210&log=2006082917">
+華代ちゃんシリーズ「九死に一生」</a>
+</font>
+</th>
+<td>
+高樹ひろむ
+</td>
+<td id=td1>2006年07月28日(金) 22時07分26秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060725205235&log=2006082917">
+ＴＳ山月記</a>
+</font>
+</th>
+<td>
+長束
+</td>
+<td id=td1>2006年07月25日(火) 22時34分00秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060721135220&log=2006082917">
+今ある時間</a>
+</font>
+</th>
+<td>
+YAN
+</td>
+<td id=td1>2006年07月21日(金) 13時52分20秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060712000453&log=2006082917">
+告白の行方は愛の彼方に</a>
+</font>
+</th>
+<td>
+南文堂
+</td>
+<td id=td1>2006年07月20日(木) 23時06分51秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060702144006&log=2006082917">
+華代ちゃんシリーズ「Stop・The・新幹線」</a>
+</font>
+</th>
+<td>
+高樹ひろむ
+</td>
+<td id=td1>2006年07月18日(火) 21時11分52秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060718002150&log=2006082917">
+予告「ガイスト02」</a>
+</font>
+</th>
+<td>
+<a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a>
+</td>
+<td id=td1>2006年07月18日(火) 00時23分19秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060716032732&log=2006082917">
+ぼくは、新幹線。</a>
+</font>
+</th>
+<td>
+<a href="mailto:happy@ex.sakura.ne.jp">Ｋ．伊藤</a>
+</td>
+<td id=td1>2006年07月16日(日) 03時43分42秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060713214457&log=2006082917">
+真夏の夜に</a>
+</font>
+</th>
+<td>
+よっすぃー
+</td>
+<td id=td1>2006年07月13日(木) 21時44分57秒</td>
+<td align=right>
+1
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060709170455&log=2006082917">
+似非華代ちゃん　「イナガワ」</a>
+</font>
+</th>
+<td>
+<a href="mailto:happy@ex.sakura.ne.jp">Ｋ．伊藤</a>
+</td>
+<td id=td1>2006年07月09日(日) 19時03分43秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060707001439&log=2006082917">
+たなぼた</a>
+</font>
+</th>
+<td>
+長束
+</td>
+<td id=td1>2006年07月07日(金) 20時18分47秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060702155640&log=2006082917">
+旅立ちの日</a>
+</font>
+</th>
+<td>
+ふう
+</td>
+<td id=td1>2006年07月02日(日) 15時56分40秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060701090826&log=2006082917">
+不用心の代償その２</a>
+</font>
+</th>
+<td>
+長束
+</td>
+<td id=td1>2006年07月01日(土) 18時19分19秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060629234552&log=2006082917">
+闇の眷属</a>
+</font>
+</th>
+<td>
+南文堂
+</td>
+<td id=td1>2006年06月29日(木) 23時45分52秒</td>
+<td align=right>
+1
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060627203000&log=2006082917">
+流～殺人鬼によるお話～</a>
+</font>
+</th>
+<td>
+<a href="mailto:takurou.07_30.robot-a@docomo.ne.jp">太九郎</a>
+</td>
+<td id=td1>2006年06月28日(水) 20時55分12秒</td>
+<td align=right>
+0
+</td>
+<tr id="tr3">
+<th width=50%>
+<font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
+<a href="./bbs.cgi?action=html2&key=20060627170628&log=2006082917">
+アナログ所さん　電脳大冒険</a>
+</font>
+</th>
+<td>
+<a href="mailto:k_saiyuuki@yahoo.co.up">バレット</a>
+</td>
+<td id=td1>2006年06月28日(水) 20時50分40秒</td>
+<td align=right>
+0
+</td>
+</tr></table>
+</center><p>
+<table border=5 cellspacing=5 align=center><tr>
+<td>
+<form method="post" action="./bbs.cgi">
+<input type=hidden name="page" value="20">
+<input type=hidden name="log" value="2006082917">
+<input type=submit value="NEXT PAGE -->" class="d1">
+</td></form>
+</tr></table><br>
+<hr>
+</center>
+<a href=http://ts.novels.jp/>少年少女文庫へ戻る</A><form method="post" action="./bbs.cgi">
+<input type=hidden name="action" value="sentaku">
+<input type=hidden name="log" value="2006082917">
+PASSWORD <input type=password name="pwd" size=10>
+<input type=submit value="管理者用" class="d1"></form>
+<div align=right><address><font size=3><a href="http://www2s.biglobe.ne.jp/~yasuu/cgi.html" target="_top">Anthologys V2.3c  Script by YASUU!!</a></font></address></div>
+</body></html>
