@@ -194,7 +194,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】いつかはやってくる決断の時。辛くても、これを乗り越えればきっと一回り大きくなれるはず。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;12.html target=_top>http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;12.html</a></font>
+<a href="../../novel/200502/01114354/he_is_mother_12.html" target=_top>http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;12.html</a></font>
 </td></table>
 </td></tr></table>
 

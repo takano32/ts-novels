@@ -101,7 +101,7 @@ A{TEXT-DECORATION:NONE};
 <td width=20%>■2003-08-07 18:46:49</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>……これまた中途半端にやったもんだ＞華代ちゃん。<BR>いや、確か<BR><b><i><a href=http://ts.novels.jp/novel/kayo_chan/extra/kayo_ex11.htm target=_top>Click!!</a></i></b><BR>　で、水谷さんが科学を駆使して解析しているんですが、そんなことはひっとことも……。ねえ、これは新しい発見だ。</td>
+<td style=font-size:10pt>……これまた中途半端にやったもんだ＞華代ちゃん。<BR>いや、確か<BR><b><i><a href="../../../novel/kayo_chan/extra/kayo_ex11.htm" target=_top>Click!!</a></i></b><BR>　で、水谷さんが科学を駆使して解析しているんですが、そんなことはひっとことも……。ねえ、これは新しい発見だ。</td>
 <td width=10%><a href=mailto:kou_sa_to@yahoo.co.jp>kou</a></td>
 <td width=20%>■2003-08-02 00:59:23</td>
 </tr>

@@ -1,45 +1,45 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���^����@���z�f����</title>
+<title>ユタさん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���^����@���z�f����</font>
+<font size=5>ユタさん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yuta">
 <input type=hidden name="nj" value="RTYZdbQYCb">
 <input type=hidden name="res" value="57">
-<h4 align=center>�� �L���ԍ� 57 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 57 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�攪�b�܂œǂ݂܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ������������
-&gt; ���悢��A���g�����Ə��m���݂ǂ�̗��e������������������R���������܂����ˁB
-&gt; �����A�u���g�v�Ƃ͉�����A�Ƃ����Ƃ��납��l�������Ȃ��Ƃ����Ȃ��̂ł����B�����ł��B
-&gt; �����̑̂ɒj���̔]���ڐA����Ə����z���������]�ɉ���Đ��_������������A�Ƃ����ݒ�́w�{�N�̏��̌��x�ł���܂�������ǁA�̂̊e�튯���L���������Ă��Ă��ꂪ�]�ɉe�����y�ڂ��Ƃ����̂͂͂��߂Ăł��B
-&gt; ����Ȃ�A���̐��_���������݂ǂ�̑̂����񂾗��R���킩��܂��B�̂̋L���Ɋ������̂����ł����ł��傤����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:第八話まで読みました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ こうけいさん
+&gt; いよいよ、中身が希一と承知しつつみどりの両親が希一を引き取った理由が判明しましたね。
+&gt; いえ、「中身」とは何ぞや、というところから考え直さないといけないのでした。驚きです。
+&gt; 女性の体に男性の脳を移植すると女性ホルモンが脳に回って精神が女性化する、という設定は『ボクの初体験』でありましたけれど、体の各器官が記憶を持っていてそれが脳に影響を及ぼすというのははじめてです。
+&gt; これなら、希一の精神が激しくみどりの体を拒んだ理由もわかります。体の記憶に干渉されるのが嫌でしたでしょうから。
 &gt; 
-&gt; �����ăX�g�[���[�ɂ͕����ȕ��͋C���Y���͂��߂Ă��܂��B
-&gt; �u�Z���v���������Ƃ݂ǂ�ɁA���̐�K�����K��邱�Ƃ�����Ă�݂܂���B</textarea><br>
+&gt; そしてストーリーには平安な雰囲気が漂いはじめています。
+&gt; 「兄妹」だった希一とみどりに、この先幸いが訪れることを願ってやみません。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -52,20 +52,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[61]</font> <font size=4 color=#40c0c0> �]���_�ł���</font>
+<font size=2>[61]</font> <font size=4 color=#40c0c0> 転換点ですね</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/01 (�y) 17:15:26 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607016171526&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607016171526"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/01 (土) 17:15:26 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607016171526_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200607016171526"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����薈��A�y���݂ɓǂ܂��Ē����Ă��܂��B<br>
+<font size=3 color=#606060>　初回より毎回、楽しみに読ませて頂いています。<br>
 <br>
-�@�΂��b�ł͂���܂��񂯂�ǂ��A�ƂĂ��ʔ����ł��B�@�V�������炾�Ɛl���ւ̌˘f���A�݂ǂ�ɋ�������̋��|�A�����Ă������Ƃւ̐�]�A�O��́u�{���̊��v�̐l�Ԋ֌W�A�����č���̐S�̓����l�q�B�@����������J�ȕ`�ʂŎ��̂悤�ȓǎ҂ɂ��Տꊴ�𔺂��ē`���A���΂炵����i���Ɗ��S���邱�Ƃ�����ł��B<br>
+　笑う話ではありませんけれども、とても面白いです。　新しいからだと人生への戸惑い、みどりに怯える希一の恐怖、生きていくことへの絶望、前回の「本来の希一」の人間関係、そして今回の心の動く様子。　いずれも丁寧な描写で私のような読者にも臨場感を伴って伝わり、すばらしい作品だと感心することしきりです。<br>
 <br>
-�@���悢��O�����Ɋ�ꂪ�����o�����̉ߒ����A���^����̕�����₷�����J�ȕ��͂œǂ߂�̂��y���݂ɂ��Ă���܂��B<br>
+　いよいよ前向きに希一が動き出すその過程を、ユタさんの分かりやすく丁寧な文章で読めるのを楽しみにしております。<br>
 <br>
-�@����ł́B</font>
+　それでは。</font>
 <p><a href="http://novels.aetherworks.info/kirika/&#95;bbs&#95;/" target="_top">http://novels.aetherworks.info/kirika/&#95;bbs&#95;/</a>
 </td></table>
 </td></tr></table>
@@ -73,113 +73,113 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[60]</font> <font size=4 color=#40c0c0> �ǂ��������B</font>
+<font size=2>[60]</font> <font size=4 color=#40c0c0> どうもっす。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/30 (��) 22:28:33 <strong>��</strong> ���^ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606305222833&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305222833"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/30 (金) 22:28:33 <strong>▽</strong> ユタ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606305222833_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305222833"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�o���b�g����<br>
-����A����Ȃɐ؁X�ƐS��ł���銴�z�������肪�Ƃ��������܂��B�������������������Ă������邾���ŁA���������c���E�b�I<br>
-�ƁA��l�������Ă���킯�ł��B<br>
-����ȍ�i�ł��A����ړ����Ă���������Ɗ������ł��B�G�s���[�O�̓l�^�o���B�܂��V���Ȏ����Ƃ������������̂��A���������Ƃɂ��܂��傤�B<br>
-���ꂩ��A���ƈ��v�Ȃ���肭����Ă������Ƃ��肢�A�����Ď����Ɍ����Ċ撣��܂��B<br>
+<font size=3 color=#606060>バレットさん<br>
+毎回、こんなに切々と心を打たれる感想文をありがとうございます。こういった反応をしてただけるだけで、私ぁもう…モウッ！<br>
+と、一人感激しているわけです。<br>
+こんな作品でも、感情移入していただけると嬉しいです。エピローグはネタバレ。また新たな事実とかそういうものも、明かすことにしましょう。<br>
+これから、希一と安夫妻が上手くやっていくことを願い、そして実現に向けて頑張ります。<br>
 <br>
-�ʂ肷����̖��������΂����[����<br>
-���������A���f���Ȃ�Ă���Ȃ��ƁB�X�V�����̂ɑS���������Ȃ����ɔ�ׂ�΁A�����V���ƃJ�����V������������������̒����炢�̍�������܂���B�܂�c���肪�Ƃ��I<br>
-���Ă��āA����Ȃ��ƂȂ��ł���B�ʂ肷����́i���j����B����ɗ����ă\�[���[�B<br>
-�ʂ肷���肳����A�\�����͗͂������܂���B�����悩������A������������ǂ܂��Ă��������������̂ł���</font>
+通りすがりの名も無きばかやろーさん<br>
+いえいえ、迷惑だなんてそんなこと。更新したのに全く反応がない時に比べれば、もう天国とカメムシがぎっしり入った箱の中くらいの差がありますよ。つまり…ありがとう！<br>
+さてさて、そんなことないですよ。通りすがりの（略）さん。勝手に略してソーリー。<br>
+通りすがりさんも、十分文章力を感じますよ。もしよかったら、書いた小説を読ませていただきたいものですｗ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[59]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��������܂�����[�B</font>
+<font size=2>[59]</font> <font size=4 color=#40c0c0> 読ませていただきましたよー。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/30 (��) 16:50:58 <strong>��</strong> �ʂ肷����̖��������΂����[ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606305165058&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305165058"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/30 (金) 16:50:58 <strong>▽</strong> 通りすがりの名も無きばかやろー </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606305165058_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305165058"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�҂��Ă܂����攪�b�I<br>
-�Ƃ������ߑ䎌���͂��A�܂����O�̒����΂����[������Ă܂���܂����B<br>
-���f�ł��ˁA���߂�Ȃ����B�ŁA�ł��L�[�{�[�h��@���肪�~�܂�Ȃ���ł��I�i������<br>
+<font size=3 color=#606060>待ってました第八話！<br>
+という決め台詞をはきつつ、また名前の長いばかやろーがやってまいりました。<br>
+迷惑ですね、ごめんなさい。で、でもキーボードを叩く手が止まらないんです！（言い訳<br>
 <br>
-���āA�N���������Ȃ����̐ق����z�ł��c�c�B<br>
-���N�̐S���̕ω������肠��Ɠ`����Ă��āA���N�ƈ��v�Ȃ̈���̃V�[���ł́A�������܂ł��ꂵ���Ȃ����Ⴂ�܂����B���A����ړ����������ȁ[�H<br>
-����̘b�ŁA���܂Ő���オ��ɏオ���Ă����X�g�[���[�����������Y��ɁA����ł����ėD�����܂Ƃ܂��Ă������������܂����B���ɃG�s���[�O���y���݂ł��ˁB<br>
-���ƈ�B<br>
-�}�U�[����̌��t�ɗ@����܂����B�����c�c�B<br>
+さて、誰も見たくない私の拙い感想でも……。<br>
+希一君の心境の変化がありありと伝わってきて、希一君と安夫妻の握手のシーンでは、こっちまでうれしくなっちゃいました。か、感情移入しすぎかなー？<br>
+今回の話で、今まで盛り上がるに上がってきたストーリーがゆっくりと綺麗に、そんでもって優しくまとまっていく感じがしました。非常にエピローグが楽しみですね。<br>
+あと一つ。<br>
+マザーさんの言葉に諭されました。うぅ……。<br>
 <br>
-<font color="#ff88cc">�����^�l<br>
-������A���̍�i�����ɂ�����A�����킽���ች�ɂ��l���Ă܂���B</font><br>
-���A�����[�c�c����ł����܂ł��܂���ł�����A�l���ď�������ǂ��Ȃ邱�Ƃ��c�c�B<br>
+<font color="#ff88cc">＞ユタ様<br>
+＞いや、この作品を作るにあたり、正直わたしゃ何にも考えてません。</font><br>
+す、すげー……それでここまでうまいんですから、考えて書いたらどうなることやら……。<br>
 <br>
-�j�āA����ς莄���ĕ��͂�����c�c�B�Ȃ̂ɂ�������Ċ��z������������B���̂΂���낧�c�c�B<br>
-���[�A���ق���B���̐ق����镶�͂͂����܂łł��B��������҂��Ă܂���[�B<br>
-�ł͂ł́A���ډ������炵�܂����B</font>
+嗚呼、やっぱり私って文章が下手……。なのにこうやって感想を書きたがる。私のばかやろぉ……。<br>
+えー、ごほんっ。私の拙すぎる文章はここまでです。次回も期待してますよー。<br>
+ではでは、お目汚し失礼しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[58]</font> <font size=4 color=#40c0c0> �߂������b�ɁA��芸�����s���I�h�B</font>
+<font size=2>[58]</font> <font size=4 color=#40c0c0> 悲しいお話に、取り敢えずピリオド。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/30 (��) 00:33:20 <strong>��</strong> �o���b�g </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606305003320&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305003320"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/30 (金) 00:33:20 <strong>▽</strong> バレット </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606305003320_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305003320"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�Ƒ����ĉ��Ȃ�ł��傤�H<br>
-�@�����Ȃ����Ă���̂Ȃ�A���ꂾ���ŉƑ��ƌĂׂ�̂��B��������Ȃ��B�L�^�L�c�l�̏K���ɁA�Q�ꂩ��͂��ꂽ�q�M�c�l���A�����̂Ȃ��e�M�c�l����Ă�ƕ����܂��B�������J������΁A�N�����ĉƑ��ł��B���Ƃ��A���ꂪ�U�҂̌`�ł��B<br>
+<font size=3 color=#606060>　家族って何なんでしょう？<br>
+　血がつながっているのなら、それだけで家族と呼べるのか。そうじゃない。キタキツネの習性に、群れからはぐれた子ギツネを、血縁のない親ギツネが育てると聞きます。そこに絆があれば、誰だって家族です。たとえ、それが偽者の形でも。<br>
 <br>
-�@�O�̘b�ŁA�łɕ��������Ă����Ԃ�����A�Ƃ߂ǂȂ��܂𗬂�����ꂭ��B�����̉ߋ��̉߂��ɋC�Â��A������S����C�����Ă���Ă���l���������ƂɋC�Â��B�����ċA���Ă݂���A�c���Ȑ^�����҂��Ă����Ȃ�āB�ł��A�܂𗬂������Ƃ̊�ꂭ�񂾂���A����Ȏc�����������^���ʂ���󂯎~�߂邱�Ƃ��o�����񂾂Ǝv���܂��B<br>
-�@�L�����]�ȊO�̏ꏊ�ɏh��̂́A�����̓��ԂŖl�����܂����B�S���ڐA�̂��ƁA���̑���ł��������ۂ��N���肤��\���B�����Ă��ꂪ���炩�̕\���Ɋo�����邱�ƁB�����̏�ł͉\��������Ȃ�����ǁA����͂��܂�Ɏc���Ȃ��ƁB�����Ă���́A�l�������ǂ�Ȃɑz�����Ă��A���ۂɎ����������܂ł��������ے肳�ꂽ�l�Ԃɂ���������Ȃ����ƁB<br>
-�@�ł��A����A�����āA<br>
-<font color="#ff88cc">�������������ƂɂȂ�̂��낤�B</font><br>
-�@���̑䎌���A�܂𗬂������Ƃ̊�ꂭ�񂾂��炱�����������Ƃ��Ǝv���܂��B�l�Ȃ炫���ƁA�u����ȋY���A�N���M���邩��v�ƏR��Ԃ��Ă�����������܂��񂵁B<br>
-�@�ł��A����ƈ�����v�Ȃ͊�ꂭ��̑��݂�ے肵�Ă������Ƃ�l�сA��ꂭ��͐l��M���͂��߂邱�Ƃ𐾂��āA��芸������Ȃ����̂悤�ȃh���h���S���̓s���I�h��ł����A�Ƃ����킯�ŁB<br>
-�@�Ȃ񂩁A������c�c<br>
-�@����ƐS�Ɍ��������Ă�����ꂭ��ɂ́A���ꂩ�牽����w�����Đ����邱�Ƃ����Ƃ�Ȃ��l�ɂȂ��Ăق����ł��B<br>
+　前の話で、闇に閉じこもっていた砦を崩し、とめどない涙を流した希一くん。自分の過去の過ちに気づき、自分を心から気遣ってくれている人がいたことに気づく。そして帰ってみたら、残酷な真実が待っていたなんて。でも、涙を流したあとの希一くんだから、そんな残酷ささえも真正面から受け止めることが出来たんだと思います。<br>
+　記憶が脳以外の場所に宿るのは、何かの特番で僕も見ました。心臓移植のこと、他の臓器でも同じ現象が起こりうる可能性。そしてそれが何らかの表紙に覚醒すること。理屈の上では可能かもしれないけれど、それはあまりに残酷なこと。そしてそれは、僕たちがどんなに想像しても、実際に自分をここまでこっ酷く否定された人間にしか分からないこと。<br>
+　でも、いや、そして、<br>
+<font color="#ff88cc">＞そういうことになるのだろう。</font><br>
+　あの台詞も、涙を流したあとの希一くんだからこそ言えたことだと思います。僕ならきっと、「そんな戯言、誰が信じるかよ」と蹴り返していたかもしれませんし。<br>
+　でも、やっと安さん夫妻は希一くんの存在を否定していたことを詫び、希一くんは人を信じはじめることを誓って、取り敢えず底なし沼のようなドロドロ惨劇はピリオドを打った、というわけで。<br>
+　なんか、泣ける……<br>
+　やっと心に光がさしてきた希一くんには、これから何かを背負って生きることをいとわない人になってほしいです。<br>
 <br>
-�@�l�͉������������Ƃ����Ƃ��Ă��܂��B�ł��A�������Ă���ƋC�Â����Ɍ����Ƃ��Ă��܂��B�����̋]���Ȃ����ĉ��������Ȃ��Ƃ����̂Ȃ�A���X�ƕ��蓊���Ă��B�U�X�����Ă���͟��݂邩������Ȃ����ǁA���̐扽���C�Â�������𓾂��Ȃ��Ȃ�Đ^�������B<br>
-�@������A�^���ʌ����Đ�����B<br>
+　人は何かを失うことをいとってしまう。でも、そうしていると気づかずに見落としてしまう。何かの犠牲なくして何も得られないというのなら、堂々と放り投げてやる。散々傷ついてそれは沁みるかもしれないけど、この先何も気づかずそれを得られないなんて真っ平だ。<br>
+　だから、真正面向いて生きる。<br>
 <br>
-�@�����łł����A<br>
-<font color="#ff88cc">��������������</font><br>
-�@���݂̊��z�A�������͂��ł����B�ł��A�T�O�O�O�o�C�g����������߂�ƃ��b�Z�[�W���\������āA�l���������������グ�����z���������Ƀp�[�ɂȂ�܂����B����ȎS�����Ă���H�@�Ȃ��ł���˂ӂ[�B<br>
-�@���x�{���ɂ��݂̊��z�d�グ�܂��B�G�X�P�[�v�L�[�͐�΂ɉ����Ȃ��B����ŁA�X�v���b�^�[�ق����B������ɂāA�l���Q�l������Ǝv�����̂���B<br>
+　ここでですが、<br>
+<font color="#ff88cc">＞こうけいさん</font><br>
+　ろろみの感想、書いたはずでした。でも、５０００バイト超えたから戻れとメッセージが表示されて、僕がせっかく書き上げた感想文が見事にパーになりました。こんな惨劇ってあり？　ないですよねふつー。<br>
+　今度本当にろろみの感想仕上げます。エスケープキーは絶対に押さない。そんで、スプリッターほしい。諸事情にて、僕が２人いたらと思うこのごろ。<br>
 <br>
-<font color="#ff88cc">���ʂ肷����̖��������΂����[����</font><br>
-�@�����ł��B�����܂��B<br>
-�@����������Ԃ�ƃL�[�{�[�h�ł肪���G�ɂȂ��Ă��܂����A�������ꂾ���͓`�����������ł��B<br>
-�@�������b���A���肪�Ƃ��c�c<br>
+<font color="#ff88cc">＞通りすがりの名も無きばかやろーさん</font><br>
+　同感です。泣きます。<br>
+　もう感情が高ぶるとキーボード打つ手が乱雑になってきますが、もうそれだけは伝えたかったです。<br>
+　いいお話を、ありがとう……<br>
 <br>
-�@����ł́A�\���˂̑O�ō����B<br>
-�@�ł��l�A�L���V�^������Ȃ��i�ʖ�</font>
+　それでは、十字架の前で合掌。<br>
+　でも僕、キリシタンじゃない（駄目</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[57]</font> <font size=4 color=#40c0c0> �攪�b�܂œǂ݂܂���</font>
+<font size=2>[57]</font> <font size=4 color=#40c0c0> 第八話まで読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/29 (��) 23:51:34 <strong>��</strong> <a href="mailto:koukei@koukei.org">��������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606294235134&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606294235134"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/29 (木) 23:51:34 <strong>▽</strong> <a href="mailto:koukei@koukei.org">こうけい</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606294235134_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606294235134"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���悢��A���g�����Ə��m���݂ǂ�̗��e������������������R���������܂����ˁB<br>
-�����A�u���g�v�Ƃ͉�����A�Ƃ����Ƃ��납��l�������Ȃ��Ƃ����Ȃ��̂ł����B�����ł��B<br>
-�����̑̂ɒj���̔]���ڐA����Ə����z���������]�ɉ���Đ��_������������A�Ƃ����ݒ�́w�{�N�̏��̌��x�ł���܂�������ǁA�̂̊e�튯���L���������Ă��Ă��ꂪ�]�ɉe�����y�ڂ��Ƃ����̂͂͂��߂Ăł��B<br>
-����Ȃ�A���̐��_���������݂ǂ�̑̂����񂾗��R���킩��܂��B�̂̋L���Ɋ������̂����ł����ł��傤����B<br>
+<font size=3 color=#606060>いよいよ、中身が希一と承知しつつみどりの両親が希一を引き取った理由が判明しましたね。<br>
+いえ、「中身」とは何ぞや、というところから考え直さないといけないのでした。驚きです。<br>
+女性の体に男性の脳を移植すると女性ホルモンが脳に回って精神が女性化する、という設定は『ボクの初体験』でありましたけれど、体の各器官が記憶を持っていてそれが脳に影響を及ぼすというのははじめてです。<br>
+これなら、希一の精神が激しくみどりの体を拒んだ理由もわかります。体の記憶に干渉されるのが嫌でしたでしょうから。<br>
 <br>
-�����ăX�g�[���[�ɂ͕����ȕ��͋C���Y���͂��߂Ă��܂��B<br>
-�u�Z���v���������Ƃ݂ǂ�ɁA���̐�K�����K��邱�Ƃ�����Ă�݂܂���B</font>
+そしてストーリーには平安な雰囲気が漂いはじめています。<br>
+「兄妹」だった希一とみどりに、この先幸いが訪れることを願ってやみません。</font>
 <p><a href="http://www.koukei.org" target="_top">http://www.koukei.org</a>
 </td></table>
 </td></tr></table>
@@ -187,121 +187,121 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[56]</font> <font size=4 color=#40c0c0> �w�L�~�h���@�攪�b�x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[56]</font> <font size=4 color=#40c0c0> 『キミドリ　第八話』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/29 (��) 19:01:08 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606294190108&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606294190108"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/29 (木) 19:01:08 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606294190108_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606294190108"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�l��M���Ă݂邱�ƁB����́A���ɂƂ��đ傫�ȑ傫�Ȉ���ƂȂ邾�낤�B<br>
+<font size=3 color=#606060>【推薦文】人を信じてみること。それは、希一にとって大きな大きな一歩となるだろう。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200603/06014840/kimidori_09.html target=_top>http://ts.novels.jp/novel/200603/06014840/kimidori_09.html</a></font>
+<a href="../../novel/200603/06014840/kimidori_09.html" target=_top>http://ts.novels.jp/novel/200603/06014840/kimidori_09.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[55]</font> <font size=4 color=#40c0c0> ���~�}�V�^</font>
+<font size=2>[55]</font> <font size=4 color=#40c0c0> ヨミマシタ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/28 (��) 15:09:50 <strong>��</strong> ���{�C </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606283150950&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606283150950"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/28 (水) 15:09:50 <strong>▽</strong> 日本海 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606283150950_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606283150950"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A����͂Ȃ񂩂ق̂ڂ̂��Ă��܂����ˁB<br>
-����ɂ����҂��܂��B</font>
+<font size=3 color=#606060>をを、今回はなんかほのぼのしてきましたね。<br>
+次回にも期待します。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[54]</font> <font size=4 color=#40c0c0> Re:���߂܂��āB</font>
+<font size=2>[54]</font> <font size=4 color=#40c0c0> Re:初めまして。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/24 (�y) 22:13:04 <strong>��</strong> ���^ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606246221304&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606246221304"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/24 (土) 22:13:04 <strong>▽</strong> ユタ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606246221304_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606246221304"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �ʂ肷����̖��������΂����[����<br>
-���肪�Ƃ��������܂��ʂ肷����̖��������΂����[����i������<br>
-����Ȃɒ��X�ƁA�ڂ������z�������Ă����������̂͏��߂Ăł��B���ӊ������ŁB<br>
-����A���̍�i�����ɂ�����A�����킽���ች�ɂ��l���Ă܂���B�N���]���Ȃ�Ă����Ă̂ق���<br>
-����ȍ�҂ł��݂܂���B�ł��A���ƂȂ��k�R�Ə��������Ă����炱��Șb�ɂȂ�܂����B����ł��]�����Ă���������̂Ȃ�K���Ȃ̂ł��B<br>
+<font size=3 color=#606060>▼ 通りすがりの名も無きばかやろーさん<br>
+ありがとうございます通りすがりの名も無きばかやろーさん（長っｗ<br>
+こんなに長々と、詳しく感想を書いていただいたのは初めてです。感謝感激槍霰。<br>
+いや、この作品を作るにあたり、正直わたしゃ何にも考えてません。起承転結なんてもってのほかｗ<br>
+こんな作者ですみません。でも、何となく徒然と書き続けていたらこんな話になりました。それでも評価していただけるのなら幸いなのです。<br>
 <br>
-���āA���̍�i�͑S���Ŕ��b�{�G�s���[�O�ƂȂ��Ă܂��B�܂���b�B���X�Ƃ��݂܂��񂪁A���������������t���������������܂��B</font>
+さて、この作品は全部で八話＋エピローグとなってます。つまり後二話。長々とすみませんが、もう少しだけお付き合いくださいませ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[53]</font> <font size=4 color=#40c0c0> ���߂܂��āB</font>
+<font size=2>[53]</font> <font size=4 color=#40c0c0> 初めまして。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/24 (�y) 11:17:21 <strong>��</strong> �ʂ肷����̖��������΂����[ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606246111721&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606246111721"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/24 (土) 11:17:21 <strong>▽</strong> 通りすがりの名も無きばかやろー </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606246111721_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606246111721"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���܂ł̗�����Ԃ����؂�悤�ɓo�ꂳ���Ă��������܂��B�����܂���B<br>
-���^����A���߂܂��āB�u�ʂ肷����̖��������΂����[�v�Ƃ�����΂����o�Ă��Ȃ��悤�Ȗ��O�̃��m�ł��B<br>
-�ȑO�A���̃T�C�g�ɍ�i�𓊍e�������Ƃ�����̂ł����A�p���������ĂƂĂ�����Ȃ����ǖ��O�͌����Ȃ��̂ŁA�����́u�������v�Ƃ������Ƃň�B<br>
+<font size=3 color=#606060>今までの流れをぶった切るように登場させていただきます。すいません。<br>
+ユタさん、初めまして。「通りすがりの名も無きばかやろー」という苦笑しか出てこないような名前のモノです。<br>
+以前、このサイトに作品を投稿したことがあるのですが、恥ずかしくてとてもじゃないけど名前は言えないので、ここは「名無し」ということで一つ。<br>
 <br>
-�ˑR�ł����A�u�L�~�h���v���́`�掵�b�܂œǂ܂��Ă��������܂����B<br>
-�܂��ꌾ�\�\�u�����������Ȃ��ł����������I�v�i�R<br>
+突然ですが、「キミドリ」序章〜第七話まで読ませていただきました。<br>
+まず一言——「私を泣かせないでくださいっ！」（蹴<br>
 <br>
-���[�A�܂��A���̐ق����z�ł��悯��΁A�Ƃ������Ƃō�i�̊��z���q�ׂ����Ă��������܂��B�C���������ꂽ�炲�߂�Ȃ����B<br>
-���Ȃ݂ɍ폜�L�[�́u1234�v�Ȃ̂ŁA���ł��폜���Ă���Ă��������i�΁j<br>
+えー、まあ、私の拙い感想でもよければ、ということで作品の感想を述べさせていただきます。気を悪くされたらごめんなさい。<br>
+ちなみに削除キーは「1234」なので、いつでも削除してやってください（笑）<br>
 <br>
-�Ƃ肠�������������̂��A�������ݕ����{���ɃE�}�C�Ǝv���܂��B<br>
-���߂́A�u�܁A���Ԃ��邵�[�v�Ƃ����Ȃ�Ƃ��C�y�ȋC�����Ō��܂����B�i���߂�Ȃ���<br>
-���ꂪ�����A�������܂��������܂��B<br>
-���ɕR������t�����A���̐�[�ɂT���̂����������ꂽ����A�����p�ɒ��߂�ꂽ�Ǝv�����炢�������܂�܂����i�΁j<br>
-�݂ǂ肪��y��҂V�[���B���܂ł����N���N�����C���Ő�y��҂��܂����B<br>
-��y�����Ȃ�����A�Ƃ݂ǂ肪�s���ɂȂ�ƁA�����s���ɁB<br>
-��y�������܂ŗ����Ɣ���ƁA�C���͗L���V�B<br>
-������ƁA��ЂƂ����͂��߂����������܂���ł����B<br>
-���΂炵���Ƃ��������悤���������ɐ������ꂽ�X�g�[���[�B���̒��𐶂������Ɠ����L�����N�^�[�����\�\����A�������ꂽ�L�����N�^�[�������������X�g�[���[�ł��傤���B<br>
-�u���z�v�Ƃ����΋`�������ɍ�点�Ă��������̂ł���΁A�u�Ǐz�v�Ƃł������܂��傤���B<br>
-�������̂��������̂����o���A���̂������̂��������̂����グ�Ă����B<br>
-���̐ق����͂ł͂��ꂪ����t�̕\���ł��B�j�āA�S�Ƃ̃M���b�v������B�{���͂����Ƃ������t������͂��Ȃ̂Ɏv�����Ȃ�����B<br>
-����ɉ����A��b���Ƃ̋N���]���B�S�̂Ƃ��Ă̋N���]���B�������t���g�킹�Ă��������\����Ȃ��̂ł����A�{���ɂ��΂炵���I<br>
-�X���Ǝ��ɂ܂Ƃ܂�A���ꂪ�S�̂ւ̑傫�Ȃ܂Ƃ܂�ƂȂ�B����ȗǍ�ɏo����̂͋v�X�ł��B<br>
+とりあえず言いたいのが、引き込み方が本当にウマイと思います。<br>
+初めは、「ま、時間あるしー」というなんとも気軽な気持ちで見ました。（ごめんなさい<br>
+それがもう、引き込まれる引き込まれる。<br>
+足に紐を括り付けられ、その先端に５ｔのおもりをつけられた挙句、東京湾に沈められたと思うくらい引き込まれました（笑）<br>
+みどりが先輩を待つシーン。私までもワクワクした気分で先輩を待ちました。<br>
+先輩が来ない･･･、とみどりが不安になると、私も不安に。<br>
+先輩がそこまで来たと判ると、気分は有頂天。<br>
+･････と、一つひとつ書きはじめたら限がありませんでした。<br>
+すばらしいとしか言いようが無い程に洗練されたストーリー。その中を生き生きと動くキャラクターたち——いや、洗練されたキャラクターたちが動かすストーリーでしょうか。<br>
+「悪循環」という対義語を勝手に作らせていただくのであれば、「良循環」とでもいいましょうか。<br>
+いいものがいいものを作り出し、そのいいものがいいものを作り上げていく。<br>
+私の拙い文章ではこれが精一杯の表現です。嗚呼、心とのギャップが･･･。本当はもっといい言葉があるはずなのに思いつかない･･･。<br>
+それに加え、一話ごとの起承転結。全体としての起承転結。同じ言葉を使わせていただき申し訳ないのですが、本当にすばらしい！<br>
+個々が独自にまとまり、それが全体への大きなまとまりとなる。こんな良作に出会えたのは久々です。<br>
 <br>
-�܁A�S�̂̊��z�͂���Ȃ��̂ł��傤���B�{���ɋC�����������Ă��܂��悤�ȕ��͂ł����ˁB�\���󂠂�܂���B<br>
-�����āi�����̂�����I�j�ŐV�b�u�掵�b�v�ɂ��Ăł����A<br>
-�����A�������C�ɂȂ��Ďd������܂���ˁB<br>
-���E�������p�����Ă��������ƁA�m�炸�ɐ����Ă����ނ����ꂩ��ǂ̂悤�ɕς���Ă����̂������ɋC�ɂȂ�܂��B<br>
+ま、全体の感想はこんなものでしょうか。本当に気を悪くさせてしまうような文章でしたね。申し訳ありません。<br>
+続いて（続くのかよっ！）最新話「第七話」についてですが、<br>
+もう、続きが気になって仕方ありませんね。<br>
+推薦文を引用させていただくと、知らずに生きてきた彼がこれからどのように変わっていくのかが非常に気になります。<br>
 <br>
-����������Ă鎞���A�܂��܂��~�܂�Ȃ����m���ق����͂Ŋ��z���������Ă��������܂����B<br>
-�A�Ȃ�����҂Ɠ����ɉ��������Ă��������܂��B<br>
+これを書いてる時も、まだ涙が止まらないモノが拙い文章で感想を書かせていただきました。<br>
+陰ながら期待と同時に応援させていただきます。<br>
 <br>
-�ʕ��ȏ�ɒ����A�\���󂠂�܂���ł����B<br>
-���ډ������炵�܂����B</font>
+駄文な上に長文、申し訳ありませんでした。<br>
+お目汚し失礼しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[52]</font> <font size=4 color=#40c0c0> �w�L�~�h���@�掵�b�x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[52]</font> <font size=4 color=#40c0c0> 『キミドリ　第七話』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/24 (�y) 02:24:37 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606246022437&log=yuta">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606246022437"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/24 (土) 02:24:37 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606246022437_log_yuta.cgi">返信</a>　削除<input type=checkbox name="target" value="200606246022437"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�ނ��^���ɋC�t�����̂͒x�������̂�������Ȃ��B�ł��A�m�炸�ɐ����Ă�������܂ł̐l������́A�����Ƒ傫���ς��ɈႢ�Ȃ��B<br>
+<font size=3 color=#606060>【推薦文】彼が真実に気付いたのは遅すぎたのかもしれない。でも、知らずに生きてきたこれまでの人生からは、きっと大きく変わるに違いない。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200603/06014840/kimidori_08.html target=_top>http://ts.novels.jp/novel/200603/06014840/kimidori_08.html</a></font>
+<a href="../../novel/200603/06014840/kimidori_08.html" target=_top>http://ts.novels.jp/novel/200603/06014840/kimidori_08.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yuta">
@@ -309,16 +309,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yuta">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yuta">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yuta.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

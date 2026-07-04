@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>��e����@��i���z�f����</title>
+<title>城弾さん　作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��e����@��i���z�f����</font>
+<font size=5>城弾さん　作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="johdan">
 <input type=hidden name="nj" value="5upCw0m5VY">
 <input type=hidden name="res" value="225">
-<h4 align=center>�� �L���ԍ� 225 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 225 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U�������
-&gt; �܁[�A�C�x���g�̕��͋C���ǂ��o�Ă�悤�ł��ˁ`���āA�s�������ƂȂ����ǂˁi���j�B
-&gt; �R�X�v���ƌ����Γ��l��������͊O���܂����ˁB
-&gt; �����͏o�Ă���Ǝv���Ă܂����i���j�B
-&gt; �������܂��A����ȑ̎���������X�ߎ����p�ł��Ȃ����낤�˂��E�E�E�B�ŁA���͐����Ȃ�ł��ˁB���n��ɒ������Ȃ��i�΁j�B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６＠自宅さん
+&gt; まー、イベントの雰囲気も良く出てるようですね〜って、行ったことないけどね（爆）。
+&gt; コスプレと言えば同人誌即売会は外せませんよね。
+&gt; いつかは出てくると思ってました（何）。
+&gt; しかしまあ、こんな体質だったら更衣室利用できないだろうねぇ・・・。で、次は正月なんですね。時系列に忠実だなぁ（笑）。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,53 +48,53 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[230]</font> <font size=4 color=#40c0c0> �����</font>
+<font size=2>[230]</font> <font size=4 color=#40c0c0> 一つ訂正</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/19 (��) 10:36:13 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402194103613&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402194103613"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/19 (木) 10:36:13 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402194103613_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402194103613"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �ɐD��@��������<br>
-<font color="#cc88ff">&gt; ���K��Ȃ��������āA����Ȃ��Ƃ���܂����I�I</font><br>
+<font size=3 color=#606060>▼ 伊織川　佐鳥さん<br>
+<font color="#cc88ff">&gt; 見習わない方がって、そんなことありませんよ！！</font><br>
 <br>
-�@�����ł����B<br>
-�@��������܂��B<br>
-�@������Ŕ��\����Ă�����̂ɂ́A�ҏW�ψ�����̎肪�����Ă܂�����ˁB<br>
-�@�����炱���ł̂��͎̂Q�l�ɂ��Ă����ł��ˁB<br>
+　そうでした。<br>
+　一つ訂正します。<br>
+　こちらで発表されているものには、編集委員さんの手が入ってますからね。<br>
+　だからここでのものは参考にしていいですね。<br>
 <br>
-�@�����b�ɂȂ��Ă��邩�玝���グ��킯���Ⴀ��܂��񂪁A����ǂ��肪���邩�y���݂Ȃ�ł���B<br>
-�@�u���B�����������x�Ƃ�������B��������Ƃ����̂���ƁB<br>
-<br>
-<br>
-<font color="#cc88ff">&gt; ����HP�̏�����ǂ񂾂�킩�邩�Ǝv���܂����A<br>
-&gt; �{���ɒ��w��N���������Ă���̂��I<br>
-&gt; �Ƃ������炢�̕��͂̎G���ł���H</font><br>
-<br>
-�@����I�H�@���Ⴂ�B�����Ċ������Ȃ��B<br>
-�@�l�̖ڎw���������Ƃ��Ă��̂��炢�̐���̐l���A�C�y�ɓǂ߂���̂ƌ����̂�����̂ŁB<br>
+　お世話になっているから持ち上げるわけじゃありませんが、毎回どう手が入るか楽しみなんですよ。<br>
+　「お。こうきたか』とか｢ああ。こうするといいのか｣と。<br>
 <br>
 <br>
-<font color="#cc88ff">&gt; ��Ύ���肩�A<br>
-&gt; ���Ȃ��l�̂ق����Z�ʍ����ł��Ƃ��A�����B</font><br>
+<font color="#cc88ff">&gt; 私のHPの小説を読んだらわかるかと思いますが、<br>
+&gt; 本当に中学二年生が書いているのか！<br>
+&gt; というぐらいの文章の雑さですよ？</font><br>
 <br>
-�@���肪�Ƃ��������܂��B<br>
-�@�Ƃ͌����ǎ����Ƃ���͎R�قǂ���܂��ˁB<br>
-�@�����炱���ł̊��z�͑傢�ɎQ�l�ɂȂ�A���肪�����̂ł��B<br>
-�@�ŋ߂͈ӎ����ċ�Ǔ_�𑽂߂ɂ��܂������A����������ł̃A�h�o�C�X�ɂ����̂ł��B<br>
-�@�܂����̕��̍앗���傢�ɎQ�l�ɂȂ�܂��B<br>
-�@�����O���o���Đ\���󂠂�܂��񂪂s���������@�x��������������̒��J�ȕ`�ʂ͌��K�������Ȃ��Ǝv���܂����B<br>
+　中二！？　お若い。そして嬉しいなぁ。<br>
+　僕の目指す方向性としてそのくらいの世代の人が、気軽に読めるものと言うのがあるので。<br>
+<br>
+<br>
+<font color="#cc88ff">&gt; 絶対私よりか、<br>
+&gt; あなた様のほうが技量高いですとも、えぇ。</font><br>
+<br>
+　ありがとうございます。<br>
+　とは言えど治すところは山ほどありますね。<br>
+　だからここでの感想は大いに参考になり、ありがたいのです。<br>
+　最近は意識して句読点を多めにしましたが、それもここでのアドバイスによるものです。<br>
+　また他の方の作風も大いに参考になります。<br>
+　お名前を出して申し訳ありませんがＴａｉｋａ　Ｙａｍａｎｉさんの丁寧な描写は見習いたいなぁと思いました。<br>
 <br>
 &gt;<br>
-<font color="#cc88ff">&gt; ���A���ƃ^�����ł��܂��܂���B���ƁA�����i�H�j�Ɩ��O�i�H�j��؂��Ă����܂��܂����i���</font><br>
+<font color="#cc88ff">&gt; あ、あとタメ口でかまいません。あと、名字（？）と名前（？）区切ってもかまいませんよ（苦笑</font><br>
 <br>
-�@���ꂵ���ł����H<br>
-�@��������m��Ȃ�����Ɂu�^�����v�͂�����ƒ�R������̂ŁA���������ꏊ�ł̃��[���ł���Ă���Ƃł��v���Ē�����ƍK���ł��B<br>
-�@���̂���肢�������t���l�[���͂�߂܂�����B<br>
-�@�l�̂ق��������u��v�Ŗ����u�e�v�ł��̂ŁA����Ō��\�ł�����B<br>
+　堅苦しいですか？<br>
+　ただ顔も知らない相手に「タメ口」はちょっと抵抗があるので、こういう場所でのルールでやっているとでも思って頂けると幸いです。<br>
+　そのかわりいちいちフルネームはやめますから。<br>
+　僕のほうも姓が「城」で名が「弾」ですので、それで結構ですから。<br>
 <br>
-�@���łɁc�u�����ւ��V�v�����ɒx��Ă܂�(��)<br>
-�@����c�����Ƃ���̂�����̂ŁB</font>
+　ついでに…「着せ替え７」順調に遅れてます(笑)<br>
+　いや…自分ところのもあるので。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -102,21 +102,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[229]</font> <font size=4 color=#40c0c0> ����Ȃ��ƂȂ��ł���I�I</font>
+<font size=2>[229]</font> <font size=4 color=#40c0c0> そんなことないですよ！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/17 (��) 23:02:18 <strong>��</strong> <a href="mailto:eigoduke@yahoo.co.jp">�ɐD��@����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402172230218&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402172230218"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/17 (火) 23:02:18 <strong>▽</strong> <a href="mailto:eigoduke@yahoo.co.jp">伊織川　佐鳥</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402172230218_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402172230218"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���K��Ȃ��������āA����Ȃ��Ƃ���܂����I�I<br>
-����HP�̏�����ǂ񂾂�킩�邩�Ǝv���܂����A<br>
-�{���ɒ��w��N���������Ă���̂��I<br>
-�Ƃ������炢�̕��͂̎G���ł���H<br>
-��Ύ���肩�A<br>
-���Ȃ��l�̂ق����Z�ʍ����ł��Ƃ��A�����B����e����<br>
+<font size=3 color=#606060>見習わない方がって、そんなことありませんよ！！<br>
+私のHPの小説を読んだらわかるかと思いますが、<br>
+本当に中学二年生が書いているのか！<br>
+というぐらいの文章の雑さですよ？<br>
+絶対私よりか、<br>
+あなた様のほうが技量高いですとも、えぇ。＞城弾さん<br>
 <br>
-���A���ƃ^�����ł��܂��܂���B���ƁA�����i�H�j�Ɩ��O�i�H�j��؂��Ă����܂��܂����i���</font>
+あ、あとタメ口でかまいません。あと、名字（？）と名前（？）区切ってもかまいませんよ（苦笑</font>
 <p><a href="http://rutiano.hp.infoseek.co.jp/index.html" target="_top">http://rutiano.hp.infoseek.co.jp/index.html</a>
 </td></table>
 </td></tr></table>
@@ -124,56 +124,56 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[228]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[228]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/16 (��) 13:50:58 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402161135058&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402161135058"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/16 (月) 13:50:58 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402161135058_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402161135058"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����W�S�Q�U����<br>
+<font size=3 color=#606060>　ｍｋ８４２６さん<br>
 <br>
-<font color="#cc88ff">&gt;�R�X�v���ƌ����Γ��l��������͊O���܂����ˁB<br>
-&gt;�����͏o�Ă���Ǝv���Ă܂����i���j�B</font><br>
+<font color="#cc88ff">&gt;コスプレと言えば同人誌即売会は外せませんよね。<br>
+&gt;いつかは出てくると思ってました（何）。</font><br>
 <br>
-�@���͍\�z�ɂ͂Ȃ������̂ł����B<br>
+　実は構想にはなかったのですが。<br>
 <br>
-<font color="#cc88ff">&gt;�ŁA���͐����Ȃ�ł��ˁB���n��ɒ������Ȃ��i�΁j�B</font><br>
+<font color="#cc88ff">&gt;で、次は正月なんですね。時系列に忠実だなぁ（笑）。</font><br>
 <br>
-�@���̂܂܍s���ƎO�N���ɐi�����邱�ƂɁB<br>
-�@�����Ȃ�Ǝ󌱂Ƃ��̖����B<br>
-�@�l�͑�w�󌱂��ĂȂ������̂ł킩��܂��񂪁B<br>
-�@�G�X�J���[�^�[���ƌ������Ƃ��Ɣ\�V�C�ł��ǂ��ɂ��Ȃ邩�ȁB<br>
+　このまま行くと三年生に進級することに。<br>
+　そうなると受験とかの問題も。<br>
+　僕は大学受験してなかったのでわかりませんが。<br>
+　エスカレーター式と言うことだと能天気でもどうにかなるかな。<br>
 <br>
-�@�r�Ƃ��Ɖ�z���Ă��b�����Ƃ����������܂���<br>
+　荒業だと回想してお話を作るという手もありますが<br>
 <br>
-�@��������<br>
+　あいさん<br>
 <br>
-<font color="#cc88ff">&gt;���������ƂȂ����ǃR�~�P�Ƃ��̕��͋C�͂���Ȋ����Ȃ̂��ȁ`</font><br>
+<font color="#cc88ff">&gt;いったことないけどコミケとかの雰囲気はこんな感じなのかな〜</font><br>
 <br>
-�@�l�͎��͔��鑤�ɂ͉�������Ƃ��Ȃ��āB<br>
-�@������J�n�����������͂킩��܂��񂯂ǂˁB<br>
-�@�ꉞ�̓J�^���O�́u�܂񂪃��|�[�g�v�����Ă܂����ǁB<br>
+　僕は実は売る側には回ったことがなくて。<br>
+　だから開始時がこうかはわかりませんけどね。<br>
+　一応はカタログの「まんがレポート」を見てますけど。<br>
 <br>
-�@�ɐD�썲������<br>
+　伊織川佐鳥さん<br>
 <br>
-<font color="#cc88ff">&gt;�`���C�i�h���X�E�E�E��������̂��ȁH<br>
-&gt;����Ƃ��A���o�����₨�ꂳ��ɂ������̂��ȁH��</font><br>
+<font color="#cc88ff">&gt;チャイナドレス・・・もらったのかな？<br>
+&gt;それとも、お姉ちゃんやお母さんにあげたのかな？ｗ</font><br>
 <br>
-�@�c�c�l���ĂȂ������B<br>
-�@��Ԃ��肻���Ȃ̂�����������؂�Ă����B<br>
-�@�������ŕԋp�B<br>
-�@����B������Ă��n���ɍ���ł��傤���i�΁j<br>
-�@�ł����Ȃ牉�����Ɋ񑡁B<br>
-�@�i�́c���ꂽ����炤�����B<br>
+　……考えてなかった。<br>
+　一番ありそうなのが演劇部から借りていた。<br>
+　だから後で返却。<br>
+　いや。もらっても始末に困るでしょうし（笑）<br>
+　でも亮なら演劇部に寄贈。<br>
+　司は…くれたらもらうかも。<br>
 <br>
-<font color="#cc88ff">&gt;�Ƃ肠�����A<br>
-&gt;�������K���ď����Ȃ��႗</font><br>
+<font color="#cc88ff">&gt;とりあえず、<br>
+&gt;私も見習って書かなきゃｗ</font><br>
 <br>
-�@���܂�l�͎Q�l�ɂ��Ȃ��ق����������Ǝv���܂�(��)<br>
+　あまり僕は参考にしないほうがいいかと思います(笑)<br>
 <br>
-�@���z�Ɋ��ӂ��܂��B<br>
-�@���͖{���̗\��́u�V�v�ł��B<br>
+　感想に感謝します。<br>
+　次は本来の予定の「７」です。<br>
 <br>
 </font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
@@ -183,32 +183,32 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[227]</font> <font size=4 color=#40c0c0> �U�C�T�E�E�E��</font>
+<font size=2>[227]</font> <font size=4 color=#40c0c0> ６，５・・・ｗ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/13 (��) 19:39:28 <strong>��</strong> <a href="mailto:eigoduke@yahoo.co.jp">�ɐD��@����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402135193928&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402135193928"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/13 (金) 19:39:28 <strong>▽</strong> <a href="mailto:eigoduke@yahoo.co.jp">伊織川　佐鳥</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402135193928_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402135193928"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��`�`�E�E�E<br>
-������������납�����ł���<br>
-���������ΗF�B���{�ɂ���āE�E�E�E�i�����I���j<br>
-�Ƃ肠�������̐l�͂ƂĂ��������������l�ł���<br>
-�󂯌n�̃L�����ł���<br>
-���̂ЂƂ���u�v�������ׂĂ��܂��܂����悗<br>
-������y���݂ɂ��Ă��܂���<br>
-�`���C�i�h���X�E�E�E��������̂��ȁH<br>
-����Ƃ��A���o�����₨�ꂳ��ɂ������̂��ȁH��<br>
-�Ƃ肠�����A<br>
-�������K���ď����Ȃ��႗<br>
-�e�C���Y�I�u�U���[���h<br>
-���̂Ȃ肫��t�E�E�E<br>
-��������΂��Ă������A����Ǝ����悤�ȍ�i�ɂȂ��Ă��܂��܂��B<br>
-�����Ⴄ�̂͐퓬�����邱�Ƃ��炢�ł��傤���E�E�E�H<br>
-�Ƃ肠�����A����΂���HP�̏���UP���邼����<br>
-�������̍�i��ǂ�ł݂������͂��ЃA�N�Z�X���Ă��������Ȃ�<br>
-�ł́A<br>
-�����y���݂ɂ��Ă��܂���</font>
+<font size=3 color=#606060>ん〜〜・・・<br>
+今回もおもしろかったですｗ<br>
+そういえば友達が本にされて・・・・（強制終了）<br>
+とりあえずその人はとても女装が似合う人ですｗ<br>
+受け系のキャラですｗ<br>
+そのひとを一瞬思い浮かべてしまいましたよｗ<br>
+次回も楽しみにしていますｗ<br>
+チャイナドレス・・・もらったのかな？<br>
+それとも、お姉ちゃんやお母さんにあげたのかな？ｗ<br>
+とりあえず、<br>
+私も見習って書かなきゃｗ<br>
+テイルズオブザワールド<br>
+護りのなりきり師・・・<br>
+多分がんばっても多分、これと似たような作品になってしまいます。<br>
+ただ違うのは戦闘が入ることぐらいでしょうか・・・？<br>
+とりあえず、がんばってHPの小説UPするぞぉｗ<br>
+もし私の作品を読んでみたい方はぜひアクセスしてくださいなｗ<br>
+では、<br>
+次回作楽しみにしていますｗ</font>
 <p><a href="http://rutiano.hp.infoseek.co.jp/index.html" target="_top">http://rutiano.hp.infoseek.co.jp/index.html</a>
 </td></table>
 </td></tr></table>
@@ -216,33 +216,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[226]</font> <font size=4 color=#40c0c0> (���ށ�)/ �n�n�n</font>
+<font size=2>[226]</font> <font size=4 color=#40c0c0> (≧∇≦)/ ハハハ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/13 (��) 10:07:38 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402135100738&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402135100738"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/13 (金) 10:07:38 <strong>▽</strong> あい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402135100738_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402135100738"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������ƂȂ����ǃR�~�P�Ƃ��̕��͋C�͂���Ȋ����Ȃ̂��ȁ`<br>
+<font size=3 color=#606060>いったことないけどコミケとかの雰囲気はこんな感じなのかな〜<br>
 <br>
-���������(������)/</font>
+つかっちゃん(≧ｍ≦)/</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[225]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[225]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/13 (��) 01:28:01 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402135012801&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402135012801"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/13 (金) 01:28:01 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402135012801_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402135012801"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܁[�A�C�x���g�̕��͋C���ǂ��o�Ă�悤�ł��ˁ`���āA�s�������ƂȂ����ǂˁi���j�B<br>
-�R�X�v���ƌ����Γ��l��������͊O���܂����ˁB<br>
-�����͏o�Ă���Ǝv���Ă܂����i���j�B<br>
-�������܂��A����ȑ̎���������X�ߎ����p�ł��Ȃ����낤�˂��E�E�E�B�ŁA���͐����Ȃ�ł��ˁB���n��ɒ������Ȃ��i�΁j�B</font>
+<font size=3 color=#606060>まー、イベントの雰囲気も良く出てるようですね〜って、行ったことないけどね（爆）。<br>
+コスプレと言えば同人誌即売会は外せませんよね。<br>
+いつかは出てくると思ってました（何）。<br>
+しかしまあ、こんな体質だったら更衣室利用できないだろうねぇ・・・。で、次は正月なんですね。時系列に忠実だなぁ（笑）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -250,56 +250,56 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[224]</font> <font size=4 color=#40c0c0> �w�����ւ����N Dress Up Boy6.5 �`���݂����p�[�e�B�[�`�x������ɂ͉��̃A�h���X���N���b�N�B</font>
+<font size=2>[224]</font> <font size=4 color=#40c0c0> 『着せ替え少年 Dress Up Boy6.5 〜こみっくパーティー〜』を見るには下のアドレスをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/12 (��) 20:34:07 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402124203407&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402124203407"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/12 (木) 20:34:07 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402124203407_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402124203407"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�����o�Ă������l���A�ǂ�ł݂����l��������ā`���i�΁j�B<br>
-<a href=http://ts.novels.jp/novel/200209/19204751/d&#95;upboy6&#95;5.htm target=_top>http://ts.novels.jp/novel/200209/19204751/d&#95;upboy6&#95;5.htm</a></font>
+<font size=3 color=#606060>【推薦文】劇中出てきた同人誌、読んでみたい人手を挙げて〜っ（笑）。<br>
+<a href="../../novel/200209/19204751/d_upboy6_5.htm" target=_top>http://ts.novels.jp/novel/200209/19204751/d&#95;upboy6&#95;5.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[223]</font> <font size=4 color=#40c0c0> Re:�������ł���</font>
+<font size=2>[223]</font> <font size=4 color=#40c0c0> Re:すごいですね</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/09 (��) 23:12:19 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402091231219&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402091231219"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/09 (月) 23:12:19 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402091231219_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402091231219"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �ɐD��@��������<br>
+<font size=3 color=#606060>▼ 伊織川　佐鳥さん<br>
 <br>
-<font color="#cc88ff">&gt; ���ӋC�ɂ������n�T�C�g�������Ă���ɐD�ł��B</font><br>
+<font color="#cc88ff">&gt; 生意気にも小説系サイトを持っている伊織です。</font><br>
 <br>
-�@�͂��߂܂��āB��e�ł��B<br>
+　はじめまして。城弾です。<br>
 <br>
-<font color="#cc88ff">&gt; �������ł��ˁA���̍�i��<br>
-&gt; ������₷���ɂ��قǂ��E�E�E�Ǝv���Ă��܂��悤�ȍ�i�ł��˂�</font><br>
+<font color="#cc88ff">&gt; すごいですね、この作品ｗ<br>
+&gt; 流されやすいにもほどが・・・と思ってしまうような作品ですねｗ</font><br>
 <br>
-�@��������B�l�̃L�����ݒ�͂��肦�Ȃ����炢�ɒ[�Ȃ�ŁB<br>
-�@�Ђ���Ƃ�����킩��₷���Ȃ��Ă��邩���B<br>
+　いやもう。僕のキャラ設定はありえないくらい極端なんで。<br>
+　ひょっとしたらわかりやすくなっているかも。<br>
 <br>
-<font color="#cc88ff">&gt; �e�C���Y�ɂ��i�N�݂����ȃL���������Ă����΂������낢��������܂���<br>
-&gt; �����A���҂��Ă��܂��̂ŁB</font><br>
+<font color="#cc88ff">&gt; テイルズにも司君みたいなキャラがいてくれればおもしろいかもしれませんｗ<br>
+&gt; 続き、期待していますので。</font><br>
 <br>
-�@���肪�Ƃ��������܂��B<br>
-�@���ݎ����̂Ƃ���Ő�s���J���Ă����w�U�D�T�x���蒼������<br>
-���e�����Ă��������܂����̂ł��̂����f�ڂ����Ǝv���܂��B<br>
+　ありがとうございます。<br>
+　現在自分のところで先行公開していた『６．５』を手直しして<br>
+投稿させていただきましたのでそのうち掲載されると思います。<br>
 <br>
-<font color="#cc88ff">&gt; �������C�ɂȂ�Ƃ���ł���</font><br>
+<font color="#cc88ff">&gt; 結末が気になるところですｗ</font><br>
 <br>
-�@�ꉞ���X�g�͌��܂��Ă܂��B<br>
-�@�����ɂ��ǂ蒅���܂ł͂͂�����ł��L�΂��܂�����(��)<br>
+　一応ラストは決まってます。<br>
+　そこにたどり着くまでははいくらでも伸ばせますけど(笑)<br>
 <br>
-<font color="#cc88ff">&gt; �����E�E�E����HP�ɂ���ȍ�i���e���ė~���������i��΁j<br>
-&gt; �ł́A�܂�</font><br>
+<font color="#cc88ff">&gt; あぁ・・・私のHPにこんな作品投稿して欲しいかも（苦笑）<br>
+&gt; では、また</font><br>
 <br>
-�@�͂��B�܂��B</font>
+　はい。また。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -307,21 +307,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[222]</font> <font size=4 color=#40c0c0> �������ł���</font>
+<font size=2>[222]</font> <font size=4 color=#40c0c0> すごいですね</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/08 (��) 16:47:48 <strong>��</strong> <a href="mailto:eigoduke@yahoo.co.jp">�ɐD��@����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402080164748&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402080164748"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/08 (日) 16:47:48 <strong>▽</strong> <a href="mailto:eigoduke@yahoo.co.jp">伊織川　佐鳥</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402080164748_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402080164748"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ӋC�ɂ������n�T�C�g�������Ă���ɐD�ł��B<br>
-�������ł��ˁA���̍�i��<br>
-������₷���ɂ��قǂ��E�E�E�Ǝv���Ă��܂��悤�ȍ�i�ł��˂�<br>
-�e�C���Y�ɂ��i�N�݂����ȃL���������Ă����΂������낢��������܂���<br>
-�����A���҂��Ă��܂��̂ŁB<br>
-�������C�ɂȂ�Ƃ���ł���<br>
-�����E�E�E����HP�ɂ���ȍ�i���e���ė~���������i��΁j<br>
-�ł́A�܂�</font>
+<font size=3 color=#606060>生意気にも小説系サイトを持っている伊織です。<br>
+すごいですね、この作品ｗ<br>
+流されやすいにもほどが・・・と思ってしまうような作品ですねｗ<br>
+テイルズにも司君みたいなキャラがいてくれればおもしろいかもしれませんｗ<br>
+続き、期待していますので。<br>
+結末が気になるところですｗ<br>
+あぁ・・・私のHPにこんな作品投稿して欲しいかも（苦笑）<br>
+では、また</font>
 <p><a href="http://rutiano.hp.infoseek.co.jp/index.html" target="_top">http://rutiano.hp.infoseek.co.jp/index.html</a>
 </td></table>
 </td></tr></table>
@@ -329,44 +329,44 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[221]</font> <font size=4 color=#40c0c0> ���ӂł�</font>
+<font size=2>[221]</font> <font size=4 color=#40c0c0> 感謝です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/04 (��) 10:12:15 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402043101215&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402043101215"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/04 (水) 10:12:15 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402043101215_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200402043101215"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���ǂ݂��������܂��Ċ��ӂł��B<br>
+<font size=3 color=#606060>　お読みいただきまして感謝です。<br>
 <br>
-�@�v�Ă̘Z�ۂ���<br>
+　思案の六ぽさん<br>
 <br>
-<font color="#cc88ff">&gt;�������A���̏󋵂ɓ������ɂȂ��Ă邱�̉��򒬂��āE�E�E�B</font><br>
+<font color="#cc88ff">&gt;しかし、この状況に馴れっこになってるこの温泉町って・・・。</font><br>
 <br>
-�@����Ⴀ�c�����Ă���l�Ԃ��l����΂��̂��炢�ُ̈�ȃV�`���G�[�V������(��)<br>
+　そりゃあ…書いている人間を考えればこのくらいの異常なシチュエーションは(笑)<br>
 <br>
-�@�܂��߂Ɍ����Ƃ�͂肻���������j������X�Ȃ�ł��ˁB<br>
+　まじめに言うとやはりそういう歴史がある街なんですね。<br>
 <br>
-�@�����W�S�Q�U�������<br>
+　ｍｋ８４２６＠自宅さん<br>
 <br>
-<font color="#cc88ff">&gt;���ꂩ��܂��܂����炵���Ȃ��Ă������ɑ΂��A�o������߂�������Ȃ������悤�ŁA����Ӗ��ǂ������̂����B</font><br>
+<font color="#cc88ff">&gt;これからますます女らしくなっていく事に対し、覚悟を決めざるをえなかったようで、ある意味良かったのかも。</font><br>
 <br>
-�@���̗���Ƃ����爫�������������ł���ˁB<br>
-�@������������ʂ̎�i���Ȃ����c�ƁB<br>
-�@���ǒi�X�ɏ��̑̂ɂȂ��čs���̂ŕ��������邩�c�ƁB<br>
+　この立場としたら悪あがきしそうですよね。<br>
+　もしかしたら別の手段がないか…と。<br>
+　けど段々に女の体になって行くので腹をくくるか…と。<br>
 <br>
-<font color="#cc88ff">&gt;�������A����ς�Ƃ������Ă̒�Ƃ������A���̔D�w����́E�E�E�������킯�ł��ˁB</font><br>
+<font color="#cc88ff">&gt;しかし、やっぱりというか案の定というか、あの妊婦さんは・・・だったわけですね。</font><br>
 <br>
-�@�ڂ����Ă͂����܂������ǌ��������Ȃ̂͏��m���Ă܂����B<br>
-�@�Č������A�A���łق�Ƃɂ����̔D�w���񂾂�����ω����ʂ�z���Ė\���ł���(��)<br>
+　ぼかしてはおきましたけど見え見えなのは承知してました。<br>
+　て言うか、アレでほんとにただの妊婦さんだったら変化球通り越して暴投ですね(笑)<br>
 <br>
-�@���ǂ݂����������肪�Ƃ��������܂��B</font>
+　お読みいただきありがとうございます。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="johdan">
@@ -374,16 +374,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="johdan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=johdan">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_johdan.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

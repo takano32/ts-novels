@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����i�n����j�`�������i�@���z�f����</title>
+<title>足利（馬鹿守）義忠さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����i�n����j�`�������i�@���z�f����</font>
+<font size=5>足利（馬鹿守）義忠さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="ashikaga">
 <input type=hidden name="nj" value="MqiYFJsJba">
 <input type=hidden name="res" value="52">
-<h4 align=center>�� �L���ԍ� 52 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 52 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U�������w����
-&gt; ���[�ށB�Ƃ肠�������͂���ϒj�q���Z���Ȃ�ł��ȁB�悫���Ȃ悫���ȁB
-&gt; �e�X�g����N���X�}�b�`�̗��ꂪ���������ł��˂��B
-&gt; ���̎���͉����Ȃ�ɂ���i���j�B
-&gt; ���ꂩ�炠��4��P�����Ă���킯�ł��ȁB�y���݂ł��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６＠博多駅さん
+&gt; うーむ。とりあえず元はやっぱ男子高校生なんですな。よきかなよきかな。
+&gt; テストからクラスマッチの流れがいい感じですねぇ。
+&gt; あの時代は遠くなりにけり（爆）。
+&gt; これからあと4回襲撃してくるわけですな。楽しみです。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,22 +48,22 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[77]</font> <font size=4 color=#40c0c0> �^����V�T���炢�����ăo�e�o�e</font>
+<font size=2>[77]</font> <font size=4 color=#40c0c0> 運動場７週くらい走ってバテバテ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/06 (�y) 16:15:28 <strong>��</strong> <a href="mailto:ycoco99@ybb.ne.jp">�����i�n����j�`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309066161528&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309066161528"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/06 (土) 16:15:28 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309066161528_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200309066161528"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�O��Ղ͖���������<br>
+<font size=3 color=#606060>前夜祭は明日･･････<br>
 <br>
-<font color="#ff88cc">���l�t�b�j�l</font><br>
-����Ȃ���m��Ȃ��ł���I�I<br>
-�����āA�ʁX�ɂ�����Ɠ���u���Ă��瑗������ł�����B<br>
-���Q�O�͑����ĂQ�����炢�Ōf�ڂ���Ă܂������<br>
+<font color="#ff88cc">＞ＭＵＣＫ様</font><br>
+そんなもん知らないですよ！！<br>
+だって、別々にちょっと日を置いてから送ったんですもん。<br>
+＃２０は送って２日くらいで掲載されてました･･･<br>
 <br>
-��R�����撣��܂��B<br>
-���́A���Q�P�͂ł��Ă��ł���˥�������Ă܂��񂯂ǥ��</font>
+第３部も頑張ります。<br>
+実は、＃２１はできてるんですよね･･･送ってませんけど･･･</font>
 <p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
 </td></table>
 </td></tr></table>
@@ -71,59 +71,59 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[76]</font> <font size=4 color=#40c0c0> �u�ϊv�v�A�ǂ݂܂����B</font>
+<font size=2>[76]</font> <font size=4 color=#40c0c0> 「変革」、読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/05 (��) 20:15:19 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309055201519&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309055201519"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/05 (金) 20:15:19 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309055201519_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200309055201519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�O�{�������e�Ȃ�ăY���C�ł���I�i�΁j<br>
+<font size=3 color=#606060>三本同時投稿なんてズルイですよ！（笑）<br>
 <br>
-����ňꑧ�A������͐V���ȓW�J�ƌ����킯�ł��ˁB<br>
-��񕔊����A�����l�ł����B<br>
+これで一息、次からは新たな展開と言うわけですね。<br>
+第二部完結、お疲れ様でした。<br>
 <br>
-���ɉ^�c�ψ��̕��Ɏ��M�Ȃ̂ł����A�O�b�Ƃ����E���������ő����������܂����B</font>
+文庫運営委員の方に私信なのですが、三話とも推薦文が同じで多少混乱しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[75]</font> <font size=4 color=#40c0c0> �V�w���̎n�܂肶��Ȃ��ĥ��</font>
+<font size=2>[75]</font> <font size=4 color=#40c0c0> 新学期の始まりじゃなくて･･･</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/01 (��) 20:34:26 <strong>��</strong> <a href="mailto:ycoco99@ybb.ne.jp">�����i�n����j�`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309011203426&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309011203426"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/01 (月) 20:34:26 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309011203426_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200309011203426"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�O��ՁA�����ՁA�̈�Ղ̗��K�X�^�[�g�̓��ł��B���ɂƂ��ẮB<br>
+<font size=3 color=#606060>前夜祭、文化祭、体育祭の練習スタートの日です。俺にとっては。<br>
 <br>
-���ǂ݂��������A���z�܂ł��肪�Ƃ��������܂��B<br>
+お読みいただき、感想までありがとうございます。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U������l</font><br>
-<font color="#cc88ff">&gt;�����A���̂������H�퓬�V�[����������ƃ����p�^�[�������Ă����悤�ȋC�������ł����ǂˁB</font><br>
-������ƋC�ɂȂ��Ă����Ƃ���ł����B<br>
-������͋C�����܂��B<br>
-<font color="#cc88ff">&gt;��R���͂���܂ňȏ������ȓW�J�ɂȂ��ł��傤���H���ґ�ł��ȁB</font><br>
-�ł��A�F���͂���܂�o�Ă��Ȃ����॥��B����Ȃ��ł��B<br>
+<font color="#ff88cc">＞ｍｋ８４２６＠自宅様</font><br>
+<font color="#cc88ff">&gt;ただ、そのせいか？戦闘シーンがちょっとワンパターン化してきたような気がするんですけどね。</font><br>
+ちょっと気になっていたところでした。<br>
+次からは気をつけます。<br>
+<font color="#cc88ff">&gt;第３部はこれまで以上に熾烈な展開になるんでしょうか？期待大ですな。</font><br>
+でも、宇宙はあんまり出てこないかも･･･。しれないです。<br>
 <br>
-<font color="#ff88cc">���A�J�g���l</font><br>
-<font color="#cc88ff">&gt;�E�u�����v���u�u�b�J�C�v�ƈ�u�ǂ�ł��܂����B�s�o�B�i����͂����Ɓw���̂̂��x�Ə��������̂ł����琳�����́w���̉��x�ł́H�j</font><br>
-����̉���Ƃ���̂��A�Ȃ񂩂����������悤�ȋC�������̂ť����B<br>
-<font color="#cc88ff">&gt;�E�ŋ߁A���Ő���Ă�̂�������Ȃ��Ȃ��Ă����B�i����ϓI���z�j</font><br>
-�u�A�J�g���̓U�L���������I�v(�Ăю̂ĂŽϿ)<br>
-�u�悵�����͂���ł��܂����v(�R)<br>
-���`��A�ǂ����悤���ȁ`�E�E�E��΂��ȁ`<br>
-<font color="#cc88ff">&gt;�E������������g���l����������āA������G����̃A�W�g��������āA������˓�������Đ錾�����ƌ��������āA���߂Ă�����x�܂ōs������Ԃ���~��܂��傤��A�Y�����񂽂��B�ԂɃL�Y�����\�������邵�B�i�G���o�Ă�����e�͂Ȃ�瀂����肾�����̂��낤���j</font><br>
-�����ƁA�����Ȃ�G���o�Ă�����A�Ƃ������Ƃ�������ł��傤���<br>
-<font color="#cc88ff">&gt;�ȏ�A���\����Ȃ��Ə����Ă�񂶂�Ȃ����Ǝv���Ȃ��珑�����A�J�g���ł����B�{���ɂ��݂܂���ł����B</font><br>
-���������A�l�͒@����Ă����������܂���ŁB<br>
-�ł��A�@���܂���͊��ق𥥥<br>
+<font color="#ff88cc">＞アカトリ様</font><br>
+<font color="#cc88ff">&gt;・「物怪」を「ブッカイ」と一瞬読んでしまった。不覚。（それはそうと『もののけ』と書きたいのでしたら正しくは『物の怪』では？）</font><br>
+｢物の怪｣とするのも、なんかかっこ悪いような気がしたので････。<br>
+<font color="#cc88ff">&gt;・最近、何で戦ってるのか分からなくなってきた。（超主観的感想）</font><br>
+「アカトリはザキを唱えた！」(呼び捨てでｽﾏｿ)<br>
+「よしただはしんでしまった」(蹴)<br>
+う〜ん、どうしようかな〜・・・やばいな〜<br>
+<font color="#cc88ff">&gt;・いくら入口がトンネルだからって、いくら敵さんのアジトだからって、いくら突入するって宣言したと言ったって、せめてある程度まで行ったら車から降りましょうよ、刑事さんたち。車にキズがつく可能性もあるし。（敵が出てきたら容赦なく轢くつもりだったのだろうか）</font><br>
+えっと、いきなり敵が出てきたら、ということだったんでしょう･･･<br>
+<font color="#cc88ff">&gt;以上、結構失礼なこと書いてるんじゃないかと思いながら書いたアカトリでした。本当にすみませんでした。</font><br>
+いえいえ、人は叩かれてこそ成長しますんで。<br>
+でも、叩きまくりは勘弁を･･･<br>
 <br>
-������Ƃǂ��ł������b�B<br>
-�A�J�g���l�́A�u�D���Ȃ悤�ɏ������Ⴂ�܂���B�����܂���B�v�́A�u�����܂���B�v�̂Ƃ��낪�A<br>
-�u�킩��܂���ł����v�ƈ�u�����āA���Ԃ��܂������</font>
+ちょっとどうでもいい話。<br>
+アカトリ様の、「好きなように書いちゃいますわ。すいません。」の、「すいません。」のところが、<br>
+「わかりませんでした」と一瞬見えて、ﾋﾔﾋﾔしました･･･</font>
 <p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
 </td></table>
 </td></tr></table>
@@ -131,39 +131,39 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[74]</font> <font size=4 color=#40c0c0> �D���Ȃ悤�ɏ������Ⴂ�܂���B�����܂���B</font>
+<font size=2>[74]</font> <font size=4 color=#40c0c0> 好きなように書いちゃいますわ。すいません。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/01 (��) 00:47:54 <strong>��</strong> �A�J�g�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309011004754&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309011004754"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/01 (月) 00:47:54 <strong>▽</strong> アカトリ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309011004754_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200309011004754"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�E�u�����v���u�u�b�J�C�v�ƈ�u�ǂ�ł��܂����B�s�o�B�i����͂����Ɓw���̂̂��x�Ə��������̂ł����琳�����́w���̉��x�ł́H�j<br>
-�E�ŋ߁A���Ő���Ă�̂�������Ȃ��Ȃ��Ă����B�i����ϓI���z�j<br>
-�E������������g���l����������āA������G����̃A�W�g��������āA������˓�������Đ錾�����ƌ��������āA���߂Ă�����x�܂ōs������Ԃ���~��܂��傤��A�Y�����񂽂��B�ԂɃL�Y�����\�������邵�B�i�G���o�Ă�����e�͂Ȃ�瀂����肾�����̂��낤���j<br>
-�ȏ�A���\����Ȃ��Ə����Ă�񂶂�Ȃ����Ǝv���Ȃ��珑�����A�J�g���ł����B�{���ɂ��݂܂���ł����B</font>
+<font size=3 color=#606060>・「物怪」を「ブッカイ」と一瞬読んでしまった。不覚。（それはそうと『もののけ』と書きたいのでしたら正しくは『物の怪』では？）<br>
+・最近、何で戦ってるのか分からなくなってきた。（超主観的感想）<br>
+・いくら入口がトンネルだからって、いくら敵さんのアジトだからって、いくら突入するって宣言したと言ったって、せめてある程度まで行ったら車から降りましょうよ、刑事さんたち。車にキズがつく可能性もあるし。（敵が出てきたら容赦なく轢くつもりだったのだろうか）<br>
+以上、結構失礼なこと書いてるんじゃないかと思いながら書いたアカトリでした。本当にすみませんでした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[73]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[73]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/31 (��) 23:52:06 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308310235206&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308310235206"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/31 (日) 23:52:06 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308310235206_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200308310235206"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�q�g���Q�悤�Ǝv�����炱�ꂾ����Ȃ��i���j�B<br>
+<font size=3 color=#606060>ヒトが寝ようと思ったらこれだもんなぁ（爆）。<br>
 <br>
-�܁A�Ƃ肠������Q����������ꂳ��ł��B<br>
-�e���|�͂�������炸�����ł��˂��B�R�b��C�ǂ݂��Ă����v�B<br>
-�����A���̂������H�퓬�V�[����������ƃ����p�^�[�������Ă����悤�ȋC�������ł����ǂˁB<br>
-�܂��A���e�͈͂Ƃ������ƂŁB<br>
+ま、とりあえず第２部完結お疲れさんです。<br>
+テンポはあいかわらずいいですねぇ。３話一気読みしても大丈夫。<br>
+ただ、そのせいか？戦闘シーンがちょっとワンパターン化してきたような気がするんですけどね。<br>
+まあ、許容範囲ということで。<br>
 <br>
-����Ⴛ�[�ƁA�Ȃ񂩎����̈Ⴄ�Ƃ���ł��Ȃ��ςȂ��ƂɂȂ��Ă�悤�ł��˂��B<br>
-��R���͂���܂ňȏ������ȓW�J�ɂȂ��ł��傤���H���ґ�ł��ȁB</font>
+そりゃそーと、なんか次元の違うところでかなり大変なことになってるようですねぇ。<br>
+第３部はこれまで以上に熾烈な展開になるんでしょうか？期待大ですな。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -171,46 +171,46 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[72]</font> <font size=4 color=#40c0c0> �w�ϊv���P�W�A���P�X�A���Q�O�x������ɂ͂������N���b�N�B</font>
+<font size=2>[72]</font> <font size=4 color=#40c0c0> 『変革＃１８、＃１９、＃２０』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/31 (��) 22:18:05 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308310221805&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308310221805"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/31 (日) 22:18:05 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308310221805_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200308310221805"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�u�N���m���[���[�v�̎�ɗ��������i�L�b�h�j�̉^���́H�@�{���n�ɒP�g��荞�񂾍K��Y�́A�͂����Ĕށc�c�ޏ�����������̂��H�@�����ѓc�x����������������ŁA�Ō�̐킢���n�܂����B<br>
-<a href=http://ts.novels.jp/novel/200305/24153340/henkaku18.html target=_top>http://ts.novels.jp/novel/200305/24153340/henkaku18.html</a><br>
-<a href=http://ts.novels.jp/novel/200305/24153340/henkaku19.html target=_top>http://ts.novels.jp/novel/200305/24153340/henkaku19.html</a><br>
-<a href=http://ts.novels.jp/novel/200305/24153340/henkaku20.html target=_top>http://ts.novels.jp/novel/200305/24153340/henkaku20.html</a></font>
+<font size=3 color=#606060>【推薦文】「クロノルーラー」の手に落ちた茜（キッド）の運命は？　本拠地に単身乗り込んだ幸一郎は、はたして彼……彼女を助けられるのか？　瑞穂や飯田警視たちを巻き込んで、最後の戦いが始まった。<br>
+<a href="../../novel/200305/24153340/henkaku18.html" target=_top>http://ts.novels.jp/novel/200305/24153340/henkaku18.html</a><br>
+<a href="../../novel/200305/24153340/henkaku19.html" target=_top>http://ts.novels.jp/novel/200305/24153340/henkaku19.html</a><br>
+<a href="../../novel/200305/24153340/henkaku20.html" target=_top>http://ts.novels.jp/novel/200305/24153340/henkaku20.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[71]</font> <font size=4 color=#40c0c0> �Ȃ����N���Ă邩�Ƃ����ƁA</font>
+<font size=2>[71]</font> <font size=4 color=#40c0c0> なぜ今起きてるかというと、</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/31 (��) 03:34:00 <strong>��</strong> <a href="mailto:ycoco99@ybb.ne.jp">�����i�n����j�`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308310033400&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308310033400"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/31 (日) 03:34:00 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308310033400_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200308310033400"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������ƐQ����肪�A���̂܂ܐ[������ɗ����Ă��܂������炾�I<br>
+<font size=3 color=#606060>ちょっと寝るつもりが、そのまま深い眠りに落ちてしまったからだ！<br>
 <br>
-�ǂ������肪�Ƃ��������܂��B�i�ŋߖY��Ă����A����j<br>
-<font color="#ff88cc">���l�n�m�c�n�l</font><br>
-<font color="#cc88ff">&gt;�����́u�������ꂫ�����q�[���[�i�O�O�V�݂����ȁc�c�΁j�v�̂悤�Ɍ������g�肭��ł������A��񕔂ɓ����ėF�l�����Ƃ̃J���~�������Ȃ��Ă���ƁA���̃L�����N�^�[�ɕ����o�Ă����悤�ȋC�����܂��B</font><br>
-�܂��A�ŏ��͂��܂�w�Z�̂��Ƃ��Ȃ������悤�ȋC�����܂������<br>
-<font color="#cc88ff">&gt;�V�V���[�Y�ł́A�ގ��g�̔閧�ɂ������ė~�����ł��ˁB</font><br>
-����\�肪�Ȃ������<br>
-�ł��A�ߋ���m����́i�������Ł������j�͌����\��<br>
-���@��͂���̂�����<br>
-<font color="#cc88ff">&gt;����ɂ��Ă��A�s�r�����Ƃ͂�����l�̔������ƃv�`�n�[������ԁc�c</font><br>
-���̏󋵂͂Ȃ�Ƃ����Ȃ���ȁ[�Ǝv���Ă܂��B<br>
-�������A�����Х�����iry<br>
+どうもありがとうございます。（最近忘れてた挨拶･･･）<br>
+<font color="#ff88cc">＞ＭＯＮＤＯ様</font><br>
+<font color="#cc88ff">&gt;当初は「完成されきったヒーロー（００７みたいな……笑）」のように見えた吉崎くんでしたが、第二部に入って友人たちとのカラミが多くなってくると、そのキャラクターに幅が出てきたような気がします。</font><br>
+まあ、最初はあまり学校のことがなかったような気もしますし･･･<br>
+<font color="#cc88ff">&gt;新シリーズでは、彼自身の秘密にも迫って欲しいですね。</font><br>
+迫る予定がない･････<br>
+でも、過去を知るもの（＝漢字で○○○）は現れる予定<br>
+語る機会はあるのか････<br>
+<font color="#cc88ff">&gt;それにしても、ＴＳっ娘とはいえ二人の美少女とプチハーレム状態……</font><br>
+この状況はなんとかしなきゃなーと思ってます。<br>
+しかし、もうひ･････（ry<br>
 <br>
-�Ă������A�����ł΂炵�Ă����̂��H<br>
-���z�����������̂Œ���؂��Ă݂��襥�</font>
+ていうか、ここでばらしていいのか？<br>
+感想が多かったので張り切ってみたり･･･</font>
 <p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
 </td></table>
 </td></tr></table>
@@ -218,53 +218,53 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[70]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[70]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/30 (�y) 21:26:53 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308306212653&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308306212653"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/30 (土) 21:26:53 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308306212653_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200308306212653"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����́u�������ꂫ�����q�[���[�i�O�O�V�݂����ȁc�c�΁j�v�̂悤�Ɍ������g�肭��ł������A��񕔂ɓ����ėF�l�����Ƃ̃J���~�������Ȃ��Ă���ƁA���̃L�����N�^�[�ɕ����o�Ă����悤�ȋC�����܂��B<br>
-�@�V�V���[�Y�ł́A�ގ��g�̔閧�ɂ������ė~�����ł��ˁB<br>
-�@����ɂ��Ă��A�s�r�����Ƃ͂�����l�̔������ƃv�`�n�[������ԁc�c<br>
-�@����ϋ�����ȁA�����i�c�c�΁j�B</font>
+<font size=3 color=#606060>　当初は「完成されきったヒーロー（００７みたいな……笑）」のように見えた吉崎くんでしたが、第二部に入って友人たちとのカラミが多くなってくると、そのキャラクターに幅が出てきたような気がします。<br>
+　新シリーズでは、彼自身の秘密にも迫って欲しいですね。<br>
+　それにしても、ＴＳっ娘とはいえ二人の美少女とプチハーレム状態……<br>
+　やっぱ許せんな、こいつ（……笑）。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[69]</font> <font size=4 color=#40c0c0> �͎���ׂ��`</font>
+<font size=2>[69]</font> <font size=4 color=#40c0c0> 模試やべぇ〜</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/30 (�y) 18:36:55 <strong>��</strong> <a href="mailto:ycoco99@ybb.ne.jp">�����i�n����j�`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308306183655&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308306183655"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/30 (土) 18:36:55 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308306183655_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200308306183655"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���w�͖��m�̗̈�֥��<br>
+<font size=3 color=#606060>数学は未知の領域へ･･･<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U���d�ԗl</font><br>
-<font color="#cc88ff">&gt;��u�ʃV���[�Y��ǂ�ł�̂��Ǝv�����i���j�B</font><br>
-���̂���ŏ����܂����B<br>
-<font color="#cc88ff">&gt;����Ⴛ�[�ƁA����܂��u�����v���������ł��Ȃ��B</font><br>
-���Ⴀ�A���̈����͂��ꂩ����g�������ƁB<br>
-�ŏI����߂��ł��B�����]���ł͏I����Ă܂��B<br>
-�Ă������A�V�V���[�Y���n�܂��Ă܂��B<br>
-<font color="#cc88ff">&gt;�Ȃ񂩃N���X���[�g���w�Z�ő��~�߂���Ă������f���ȂƂ��v���Ă݂��肵�āi�j���j�B</font><br>
-�܂������ł��ˁB�x�@�̕s����iry<br>
+<font color="#ff88cc">＞ｍｋ８４２６＠電車様</font><br>
+<font color="#cc88ff">&gt;一瞬別シリーズを読んでるのかと思った（爆）。</font><br>
+そのつもりで書きました。<br>
+<font color="#cc88ff">&gt;そりゃそーと、これまた「引き」がすごいですなぁ。</font><br>
+じゃあ、この引きはこれからも使おうっと。<br>
+最終決戦近いです。もう脳内では終わってます。<br>
+ていうか、新シリーズが始まってます。<br>
+<font color="#cc88ff">&gt;なんかクラスメートが学校で足止めされていい迷惑だなとか思ってみたりして（核爆）。</font><br>
+まったくですね。警察の不･･･（ry<br>
 <br>
-<font color="#ff88cc">���l�t�b�j�l</font><br>
-<font color="#cc88ff">&gt;���A���̖��h�ɂ͂܁c�G�t�G�t���b�I�c����c�Ƃ�������Ă��܂���ł������I�H</font><br>
-���Ƃ̗l�q������Ə�����Ă���ł��傤�˥���B<br>
-�܂��A�������祥�<br>
-<font color="#cc88ff">&gt;�����ɖ������̂ɓ����̂͐l�̏�ł��i���j</font><br>
-�����ł��B�ނ͉��ɖ������̑S���i�����j�����Ă܂��B�i���j<br>
-<font color="#cc88ff">&gt;�N���m���[���[�A�K��Y�N���ǂ��u�{�R�v��̂��y���݂ł��B</font><br>
-���x�͎�l�������ʂȂ�Ă��Ƃ͂���܂���B<br>
-�{�苶���܂��B<br>
+<font color="#ff88cc">＞ＭＵＣＫ様</font><br>
+<font color="#cc88ff">&gt;そ、その名刺にはま…エフエフンッ！…かよ…とか書かれていませんでしたか！？</font><br>
+あとの様子を見ると書かれてたんでしょうね･･･。<br>
+まあ、夢だから･･･<br>
+<font color="#cc88ff">&gt;自分に無いものに憧れるのは人の常です（爆）</font><br>
+そうです。彼は俺に無いもの全部（多分）持ってます。（爆）<br>
+<font color="#cc88ff">&gt;クロノルーラー、幸一郎君がどう「ボコ」るのか楽しみです。</font><br>
+今度は主人公が死ぬなんてことはありません。<br>
+怒り狂います。<br>
 <br>
-�Ȃ��{�苶�����́A���y���݂ɥ���B</font>
+なぜ怒り狂うかは、お楽しみに･･･。</font>
 <p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
 </td></table>
 </td></tr></table>
@@ -272,35 +272,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[68]</font> <font size=4 color=#40c0c0> ���z�����i�s���i���A�z�j</font>
+<font size=2>[68]</font> <font size=4 color=#40c0c0> 感想同時進行中（←アホ）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/30 (�y) 12:31:32 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308306123132&log=ashikaga">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308306123132"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/30 (土) 12:31:32 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308306123132_log_ashikaga.cgi">返信</a>　削除<input type=checkbox name="target" value="200308306123132"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�ϊv�v�A�ǂ݂܂����B<br>
-��b����u�b�ʂ��œǂ񂾂̂ŁA���z���x��Ă��܂��܂������B<br>
+<font size=3 color=#606060>「変革」、読みました。<br>
+一話からブッ通しで読んだので、感想が遅れてしまいましたが。<br>
 <br>
-<font color="#cc88ff">&gt;�K��Y�͂��̖��h���󂯎�����B</font><br>
-���A���̖��h�ɂ͂܁c�G�t�G�t���b�I�c����c�Ƃ�������Ă��܂���ł������I�H<br>
-�_������A�󂯎������i�΁j<br>
+<font color="#cc88ff">&gt;幸一郎はその名刺を受け取った。</font><br>
+そ、その名刺にはま…エフエフンッ！…かよ…とか書かれていませんでしたか！？<br>
+ダメだよ、受け取っちゃ（笑）<br>
 <br>
-<font color="#cc88ff">&gt;�u�ǂ��I�I�G���ǂ��I�I�Ă߁[��ɂ͗p�͂˂��I�I�v</font><br>
-�l�͂��������A<br>
-�u���̓e���F���{�R��I�@�������ꂾ�����I�v<br>
-�Ƃ����������Ȏ�l���A�D���ł��B<br>
-�����ɖ������̂ɓ����̂͐l�̏�ł��i���j<br>
+<font color="#cc88ff">&gt;「どけ！！雑魚ども！！てめーらには用はねえ！！」</font><br>
+僕はこういう、<br>
+「俺はテメェをボコる！　ただそれだけだ！」<br>
+とか言いそうな主人公、好きです。<br>
+自分に無いものに憧れるのは人の常です（爆）<br>
 <br>
-���āA����̍��͏��X�ɋ߂Â��Ă��܂������B<br>
-�N���m���[���[�A�K��Y�N���ǂ��u�{�R�v��̂��y���݂ł��B<br>
+さて、決戦の刻は徐々に近づいてきましたか。<br>
+クロノルーラー、幸一郎君がどう「ボコ」るのか楽しみです。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="ashikaga">
@@ -308,16 +308,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="ashikaga">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=ashikaga">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_ashikaga.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

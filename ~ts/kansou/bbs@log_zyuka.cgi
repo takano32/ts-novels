@@ -105,7 +105,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】例によって、毎回お約束の「アノ人」も出てきます♪<br>
 <br>
-<a href=http://ts.novels.jp/novel/200204/04201057/yuimu10.htm target=_top>http://ts.novels.jp/novel/200204/04201057/yuimu10.htm</a></font>
+<a href="../../novel/200204/04201057/yuimu10.htm" target=_top>http://ts.novels.jp/novel/200204/04201057/yuimu10.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -137,7 +137,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】食事中にジュースなんか飲んだら、腹が膨れて料理が入らないぞ（……笑）。<br>
-<a href=http://ts.novels.jp/novel/200204/04201057/yuimu09.htm target=_top>http://ts.novels.jp/novel/200204/04201057/yuimu09.htm</a></font>
+<a href="../../novel/200204/04201057/yuimu09.htm" target=_top>http://ts.novels.jp/novel/200204/04201057/yuimu09.htm</a></font>
 </td></table>
 </td></tr></table>
 

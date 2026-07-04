@@ -1,63 +1,63 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�������������i�@���z�f����</title>
+<title>奄美平次さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�������������i�@���z�f����</font>
+<font size=5>奄美平次さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="amami">
 <input type=hidden name="nj" value="palqrnFPjt">
 <input type=hidden name="res" value="28">
-<h4 align=center>�� �L���ԍ� 28 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 28 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���������"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� sana����
-&gt; �͂��߂܂��āA������������Bsana�ƌ����܂��B
-&gt; ����̍�i�A�ǂ܂��Ă��炢�܂������c�c�B
-&gt; ���������A�����ꂽ��i���ǂ݂Â炢�̂́A�ܑ̖����Ǝv���܂��B
-&gt; �ǂ�ȕ��ɓǂ݂Â炢���A�ƌ����Ɓc�B
-&gt; �i�ȉ��A�{����蔲�������Ă��������܂����j
-&gt; 1&gt;�@�����̔��������ɉ�T�삪�������肵����ŉƂɋA��
-&gt; 2&gt;�u�ǂ������́H�@���Z�����v
-&gt; 3&gt;�u�ȂɁH�v
-&gt; 4&gt;�u�����s���Ȃ������H�v
-&gt; 5&gt;�u�s������A��ꂽ�v
-&gt; 6&gt;�u�S�R���������Ȃ��v
-&gt; 7&gt;�u�������v
-&gt; 8&gt;���b�͂����̗T��ƈႤ�̂ɋC�Â��Ă����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:奄美さんへ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ sanaさん
+&gt; はじめまして、奄美平次さん。sanaと言います。
+&gt; 今回の作品、読ませてもらいましたが……。
+&gt; せっかく、書かれた作品が読みづらいのは、勿体無いと思います。
+&gt; どんな風に読みづらいか、と言うと…。
+&gt; （以下、本文より抜粋させていただきました）
+&gt; 1&gt;　部活の疲れも麻美に会い裕喜がすっきりした顔で家に帰り
+&gt; 2&gt;「どうしたの？　お兄ちゃん」
+&gt; 3&gt;「なに？」
+&gt; 4&gt;「部活行かなかった？」
+&gt; 5&gt;「行ったよ、疲れた」
+&gt; 6&gt;「全然そう見えない」
+&gt; 7&gt;「そうか」
+&gt; 8&gt;七恵はいつもの裕喜と違うのに気づいていた。
 &gt; 
-&gt; �܂��A1&gt;�����{��Ƃ��āA�ςł��邱�ƁB������Ɛ����o���ēǂ߂Ή���܂���ˁB
-&gt; �Œ���A���̂悤�ɒ����������ǂ��Ǝv���܂��B
-&gt; �u�����̔��������Ɂw��x�T�삪�������肵����ŉƂɋA��v
-&gt; �u�����̔��������Ɂw����ĂƂꂽ�悤�ŁA�x�T�삪�������肵����ŉƂɋA��v
+&gt; まず、1&gt;が日本語として、変であること。ちょっと声を出して読めば解りますよね。
+&gt; 最低限、このように直した方が良いと思います。
+&gt; 「部活の疲れも麻美に『会い』裕喜がすっきりした顔で家に帰り」
+&gt; 「部活の疲れも麻美に『会ってとれたようで、』裕喜がすっきりした顔で家に帰り」
 &gt; 
-&gt; �����āA������B
-&gt; �@1&gt;�̂悤�Ɂu�`�ƂɋA��A�v�c�c�ƁA�Ō�́u�ƂɋA��A�w�`�����x�v�̏q�����ȗ�����Ă��܂��B�R���́A�m���ɋZ�@�Ƃ��đ��݂��܂��B�ł����A��ەt���̂��߂̋Z�@�ł���̂ŁA����g���Ă��܂��ƁA���͂̊ɋ}���Ȃ��Ȃ�A�ǂݎ�ɂƂ��Đh�����̂ƂȂ�܂��B
-&gt; �@2&gt;�`7&gt;�̂悤�ɉ�b�����Ȃ�������ƁA�]�v�ɂ��������܂��B
-&gt; �@8&gt;�́A���ɓǂ݂Â炢�R�g�͂Ȃ��ł����A�T��̗l�q���u�ǂ��Ⴄ�̂��v��߂����ł��ǉ�����ƁA�b���������₷���Ȃ�Ǝv���܂��B
+&gt; そして、もう一つ。
+&gt; 　1&gt;のように「〜家に帰り、」……と、最後の「家に帰り、『〜した』」の述部が省略されています。コレは、確かに技法として存在します。ですが、印象付けのための技法であるので、毎回使ってしまうと、文章の緩急がなくなり、読み手にとって辛いものとなります。
+&gt; 　2&gt;〜7&gt;のように会話文をつなげすぎると、余計にそう感じます。
+&gt; 　8&gt;は、特に読みづらいコトはないですが、裕喜の様子が「どう違うのか」一節だけでも追加すると、話が理解しやすくなると思います。
 &gt; 
-&gt; �Ō�ɁA��B
-&gt; �F���񂪌����Ă��邱�Ƃł����A��҂Ƃ��āA�����̌f���ɕԎ���Ԃ���Ă͂ǂ��ł��傤���B�����̌f���Ȃ�A���������Ή��͂���Ȃ��Ǝv���܂���B</textarea><br>
+&gt; 最後に、一つ。
+&gt; 皆さんが言われていることですが、作者として、ここの掲示板に返事を返されてはどうでしょうか。ここの掲示板なら、そう悪い対応はされないと思いますよ。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -70,38 +70,38 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0> �u�l�b�N���X�𔃂������̌�Łv�A�ǂ݂܂����B</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0> 「ネックレスを買ったその後で」、読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/21 (��) 19:04:17 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311215190417&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311215190417"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/21 (金) 19:04:17 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311215190417_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200311215190417"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ��B�l�t�b�j�ł��B<br>
-�Ƃ����������Ă��x��Ă��܂��܂������A�ǂ܂��Ă��������܂����B<br>
-���ׂ��ăc���C�Ȃ��B�i������j<br>
+<font size=3 color=#606060>ども。ＭＵＣＫです。<br>
+とっっっっっても遅れてしまいましたが、読ませていただきました。<br>
+風邪ってツライなぁ。（言い訳）<br>
 <br>
-���[��A���e�����̂���Ɋr�ׂ�Ƃ��Ȃ�ǂ��Ȃ�܂������A���X�Ɂw�H�x�ȕ��������󂯂��܂��B<br>
-�w�͂̐Ղ͌��󂯂���B���A�����̐Ղ͌����Ȃ��B�ƁA�������J���W�ł����B<br>
-�܂��܂��L�����̍�荞�݂��X�g�[���[�̗��荞�݂�����܂���B<br>
-�w���e�x�Ƃ����`�ȕ��A�l�����́w�w�́x�ł͂Ȃ����e���ꂽ�w���ʁx�������ł�����A�h���]����������x�o�債�Ȃ��Ă͂Ȃ�܂���B<br>
-����ɏ�ɖ������邱�ƂȂ��A���i���܂��傤�ˁB</font>
+うーん、投稿当初のころに較べるとかなり良くなりましたが、所々に『？』な部分が見受けられます。<br>
+努力の跡は見受けられる。が、成長の跡は見られない。と、言ったカンジですか。<br>
+まだまだキャラの作り込みもストーリーの練り込みも足りません。<br>
+『投稿』という形な分、僕たちは『努力』ではなく投稿された『結果』を見る訳ですから、辛い評価もある程度覚悟しなくてはなりません。<br>
+現状に常に満足することなく、精進しましょうね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font size=4 color=#40c0c0> �H</font>
+<font size=2>[29]</font> <font size=4 color=#40c0c0> ？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/11 (��) 18:50:40 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311112185040&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311112185040"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/11 (火) 18:50:40 <strong>▽</strong> 名無し </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311112185040_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200311112185040"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�T��͂��܂�����e�X�g�ɂ͋C�ɓ����ĂȂ������B</font><br>
-�@�@�@�@�@�@�@�@�@�@�@��<br>
- �T��͂��܂�����e�X�g�ɂ͋C�������ĂȂ������B�@�@���H<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;裕喜はあまり期末テストには気に入ってなかった。</font><br>
+　　　　　　　　　　　↓<br>
+ 裕喜はあまり期末テストには気が入ってなかった。　　か？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -109,95 +109,95 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> ���������</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> 奄美さんへ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/11 (��) 05:25:36 <strong>��</strong> sana </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311112052536&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311112052536"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/11 (火) 05:25:36 <strong>▽</strong> sana </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311112052536_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200311112052536"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂��߂܂��āA������������Bsana�ƌ����܂��B<br>
-����̍�i�A�ǂ܂��Ă��炢�܂������c�c�B<br>
-���������A�����ꂽ��i���ǂ݂Â炢�̂́A�ܑ̖����Ǝv���܂��B<br>
-�ǂ�ȕ��ɓǂ݂Â炢���A�ƌ����Ɓc�B<br>
-�i�ȉ��A�{����蔲�������Ă��������܂����j<br>
-1&gt;�@�����̔��������ɉ�T�삪�������肵����ŉƂɋA��<br>
-2&gt;�u�ǂ������́H�@���Z�����v<br>
-3&gt;�u�ȂɁH�v<br>
-4&gt;�u�����s���Ȃ������H�v<br>
-5&gt;�u�s������A��ꂽ�v<br>
-6&gt;�u�S�R���������Ȃ��v<br>
-7&gt;�u�������v<br>
-8&gt;���b�͂����̗T��ƈႤ�̂ɋC�Â��Ă����B<br>
+<font size=3 color=#606060>はじめまして、奄美平次さん。sanaと言います。<br>
+今回の作品、読ませてもらいましたが……。<br>
+せっかく、書かれた作品が読みづらいのは、勿体無いと思います。<br>
+どんな風に読みづらいか、と言うと…。<br>
+（以下、本文より抜粋させていただきました）<br>
+1&gt;　部活の疲れも麻美に会い裕喜がすっきりした顔で家に帰り<br>
+2&gt;「どうしたの？　お兄ちゃん」<br>
+3&gt;「なに？」<br>
+4&gt;「部活行かなかった？」<br>
+5&gt;「行ったよ、疲れた」<br>
+6&gt;「全然そう見えない」<br>
+7&gt;「そうか」<br>
+8&gt;七恵はいつもの裕喜と違うのに気づいていた。<br>
 <br>
-�܂��A1&gt;�����{��Ƃ��āA�ςł��邱�ƁB������Ɛ����o���ēǂ߂Ή���܂���ˁB<br>
-�Œ���A���̂悤�ɒ����������ǂ��Ǝv���܂��B<br>
-�u�����̔��������Ɂw��x�T�삪�������肵����ŉƂɋA��v<br>
-�u�����̔��������Ɂw����ĂƂꂽ�悤�ŁA�x�T�삪�������肵����ŉƂɋA��v<br>
+まず、1&gt;が日本語として、変であること。ちょっと声を出して読めば解りますよね。<br>
+最低限、このように直した方が良いと思います。<br>
+「部活の疲れも麻美に『会い』裕喜がすっきりした顔で家に帰り」<br>
+「部活の疲れも麻美に『会ってとれたようで、』裕喜がすっきりした顔で家に帰り」<br>
 <br>
-�����āA������B<br>
-�@1&gt;�̂悤�Ɂu�`�ƂɋA��A�v�c�c�ƁA�Ō�́u�ƂɋA��A�w�`�����x�v�̏q�����ȗ�����Ă��܂��B�R���́A�m���ɋZ�@�Ƃ��đ��݂��܂��B�ł����A��ەt���̂��߂̋Z�@�ł���̂ŁA����g���Ă��܂��ƁA���͂̊ɋ}���Ȃ��Ȃ�A�ǂݎ�ɂƂ��Đh�����̂ƂȂ�܂��B<br>
-�@2&gt;�`7&gt;�̂悤�ɉ�b�����Ȃ�������ƁA�]�v�ɂ��������܂��B<br>
-�@8&gt;�́A���ɓǂ݂Â炢�R�g�͂Ȃ��ł����A�T��̗l�q���u�ǂ��Ⴄ�̂��v��߂����ł��ǉ�����ƁA�b���������₷���Ȃ�Ǝv���܂��B<br>
+そして、もう一つ。<br>
+　1&gt;のように「〜家に帰り、」……と、最後の「家に帰り、『〜した』」の述部が省略されています。コレは、確かに技法として存在します。ですが、印象付けのための技法であるので、毎回使ってしまうと、文章の緩急がなくなり、読み手にとって辛いものとなります。<br>
+　2&gt;〜7&gt;のように会話文をつなげすぎると、余計にそう感じます。<br>
+　8&gt;は、特に読みづらいコトはないですが、裕喜の様子が「どう違うのか」一節だけでも追加すると、話が理解しやすくなると思います。<br>
 <br>
-�Ō�ɁA��B<br>
-�F���񂪌����Ă��邱�Ƃł����A��҂Ƃ��āA�����̌f���ɕԎ���Ԃ���Ă͂ǂ��ł��傤���B�����̌f���Ȃ�A���������Ή��͂���Ȃ��Ǝv���܂���B</font>
+最後に、一つ。<br>
+皆さんが言われていることですが、作者として、ここの掲示板に返事を返されてはどうでしょうか。ここの掲示板なら、そう悪い対応はされないと思いますよ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �c�c�B</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> ……。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/09 (��) 19:49:40 <strong>��</strong> �q�n�l�Q�R�T�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311090194940&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311090194940"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/09 (日) 19:49:40 <strong>▽</strong> ＲＯＭ２３５号 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311090194940_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200311090194940"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���́A�O��Ƃ��܂蕶�͍\�����ς���Ă��Ȃ��悤�ȁc�B<br>
-�@�ʂɎ�̎��M�Ől�ɓǂ܂��Ȃ��̂Ȃ�\��Ȃ��̂ł����A�l�ɓǂ�ł��炤�ȏ�A<br>
-�i���������ĉ������B�Ō�܂œǂ����Ƃ����C���N���܂���B<br>
+<font size=3 color=#606060>　あの、前回とあまり文章構成が変わっていないような…。<br>
+　別に趣味の執筆で人に読ませないのなら構わないのですが、人に読んでもらう以上、<br>
+進歩を見せて下さい。最後まで読もうという気が起きません。<br>
 <br>
-�@�n�b�L�������������܂��B�l�̈ӌ��𖳎����ĉ��P���Ă��Ȃ��̂Ȃ�A�����ɓ��e���Ȃ����������ł��B<br>
-�@�����W�S�Q�U����̏����Ă���ʂ�f���̕Ԏ����Œ���̃}�i�[���Ǝv�����A����𖳎����Ď��Ȗ����̓��e�Ȃ�T����ׂ����ƁB</font>
+　ハッキリきつい事言います。人の意見を無視して改善していないのなら、ここに投稿しない方がいいです。<br>
+　ｍｋ８４２６さんの書いている通り掲示板の返事も最低限のマナーだと思うし、それを無視して自己満足の投稿なら控えるべきかと。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> �w�l�b�N���X�𔃂������̌�Łx������ɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> 『ネックレスを買ったその後で』を見るには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/09 (��) 18:31:07 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311090183107&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311090183107"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/09 (日) 18:31:07 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311090183107_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200311090183107"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �w���ق̂ڂ̂s�r���̂Ƃ����������̍�i�ł��B</font>
-<p><a href="http://ts.novels.jp/novel/200311/09182413/necklace.html" target="_top">http://ts.novels.jp/novel/200311/09182413/necklace.html</a>
+<font size=3 color=#606060>【推薦文】 学園ほのぼのＴＳものといった感じの作品です。</font>
+<p><a href="../../novel/200311/09182413/necklace.html" target="_top">http://ts.novels.jp/novel/200311/09182413/necklace.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> �ǂ񂾁E�E�E�o�E�E�E�C�E�E�E��</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 読んだ・・・バ・・・イ・・・♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/15 (��) 18:52:07 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310153185207&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310153185207"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/15 (水) 18:52:07 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310153185207_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200310153185207"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[��B���X�ɓǂ݈Ղ��͂Ȃ��Ă�Ǝv�����ǁE�E�E���ꂽ�����H�i���j<br>
-�܂��܂��r���ǂ��납��肩���A������܂����n�߂��΂���̒i�K�ł͂���܂����ǂˁB<br>
-�����ɏ����ꂽ���z�ɂ��A�h�o�C�X��q���g���������񂠂�Ǝv���܂��B������ƂɁA���i���Ă��������ˁB<br>
-�i���^�N�V�̊��z�͉��̎Q�l�ɂ��Ȃ��Ǝv�����ǁj<br>
+<font size=3 color=#606060>うーん。徐々に読み易くはなってると思うけど・・・慣れただけ？（爆）<br>
+まだまだ荒削りどころか削りかけ、それもまだ削り始めたばかりの段階ではありますけどね。<br>
+ここに書かれた感想にもアドバイスやヒントがたくさんあると思います。それらを糧に、精進してくださいね。<br>
+（ワタクシの感想は何の参考にもならんと思うけど）<br>
 <br>
-���ꂩ��E�E�E�B<br>
-�����������z��A�h�o�C�X�������ĉ������Ă��������񂾂���A����ɑ΂��锽����������ǂ��ł��H���̂��߂̌f���ł���B<br>
-�i����Ƃ����������ĂȂ��̂��ȁj<br>
-�f���̏������݂ɔ�����Ԃ��̂��P�̃}�i�[�ł���B</font>
+それから・・・。<br>
+せっかく感想やアドバイスを書いて下さってる方がいるんだから、それに対する反応をしたらどうです？そのための掲示板ですよ。<br>
+（それともここも見てないのかな）<br>
+掲示板の書き込みに反応を返すのも１つのマナーですよ。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -205,80 +205,80 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> �u���̓��̃I���S�[���v�A�ǂ݂܂����B</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> 「あの日のオルゴール」、読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/14 (��) 20:27:08 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310142202708&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310142202708"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/14 (火) 20:27:08 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310142202708_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200310142202708"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂��c�c�܂��L�т�B<br>
-�̂т���͂���̂ɂ܂�����Ȃ��c�c�B<br>
+<font size=3 color=#606060>まだ……まだ伸びる。<br>
+のびしろはあるのにまだ足りない……。<br>
 <br>
-���������邱�Ƃ͂ƂĂ��厖�A���Ƃ͏������ł����Ȃ����߂Ă��������Ǝv���܂��B</font>
+書き続けることはとても大事、あとは少しずつでも自己を高めていく事だと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> ���͍\��</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> 文章構成</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/14 (��) 06:56:44 <strong>��</strong> tatuma </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310142065644&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310142065644"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/14 (火) 06:56:44 <strong>▽</strong> tatuma </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310142065644_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200310142065644"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ӂł��ˁB�܂��A�s�K�v�ȕ\�����������ł��B�܂��K�v�ȕ��͂��������悤��<br>
-���Ă݂ẮH���ƁA�ˑR�̏�ʓ]�����������ł��B�������Ԃ��i��ł���悤��<br>
-�����܂����B���������u���ʁv�ŔS��͕̂K�v���ƁB<br>
+<font size=3 color=#606060>同意ですね。まず、不必要な表現が多すぎです。まず必要な文章だけ書くように<br>
+してみては？あと、突然の場面転換が激しいです。すぐ時間が進んでいるように<br>
+感じました。もう少し「一場面」で粘るのは必要かと。<br>
 <br>
-�Ō�ɁA���͍\�����u�l�ɓǂ݂₷���v��O���ɒu���č쐬���Ă݂Ă͂�����<br>
-�ł��傤���H�ǂނ̂́u�����v�ł͂Ȃ��u���l�v�Ȃ̂ł�����B</font>
+最後に、文章構成を「人に読みやすく」を念頭に置いて作成してみてはいかが<br>
+でしょうか？読むのは「自分」ではなく「他人」なのですから。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> �E�E�E</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> ・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/14 (��) 04:04:58 <strong>��</strong> fdg </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310142040458&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310142040458"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/14 (火) 04:04:58 <strong>▽</strong> fdg </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310142040458_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200310142040458"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���`��E�E�E<br>
-����ł����A���͂�ǂ݂₷���A������₷�����鎖��O���ɒu���Ă܂����H<br>
-���ɒ݂͂������L�q�������ł����A����ł͊���ړ��ǂ���ł͂���܂����B<br>
+<font size=3 color=#606060>う〜ん・・・<br>
+失礼ですが、文章を読みやすく、分かりやすくする事を念頭に置いてますか？<br>
+非常に掴みがたい記述が多いですし、これでは感情移入どころではありませんよ。<br>
 <br>
-���������Ă����̊��z�͓ǂ�ł�������႒�Ȃ��H</font>
+もしかしてここの感想は読んでいらっしゃｒない？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> ���݂܂���</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> すみませんが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/14 (��) 03:35:07 <strong>��</strong> ROM </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310142033507&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310142033507"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/14 (火) 03:35:07 <strong>▽</strong> ROM </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310142033507_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200310142033507"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���܂����B<br>
-�����ǂނ����Ȃ̂ł���Ȃ��ƌ����Ă����̂��킩��܂���<br>
-���̈Ӗ������ނ��߂ɑO�̍s�֖߂���J��Ԃ��āA<br>
-����ł��Ӗ������߂Ȃ��Ƃ��낪�c<br>
+<font size=3 color=#606060>疲れました。<br>
+自分読むだけなのでこんなこと言っていいのかわかりませんが<br>
+文の意味をつかむために前の行へ戻るを繰り返して、<br>
+それでも意味がつかめないところが…<br>
 <br>
-�C�ɂȂ��Ċ��z�̂Ƃ���ɗ��Ă݂��̂ł����ǁA�ȑO���炻�̂悤���Ƃ������Ƃ�<br>
-������Ă���݂����ł��ˁB</font>
+気になって感想のところに来てみたのですけど、以前からそのようだということが<br>
+書かれているみたいですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="amami">
@@ -286,16 +286,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="amami">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=amami">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_amami.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

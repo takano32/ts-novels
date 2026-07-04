@@ -1,47 +1,47 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>��ҁ[�Ƃ����i�@���z�f����</title>
+<title>らぴーとさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��ҁ[�Ƃ����i�@���z�f����</font>
+<font size=5>らぴーとさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="rapeet">
 <input type=hidden name="nj" value="uHcEGV4BZ1">
 <input type=hidden name="res" value="3">
-<h4 align=center>�� �L���ԍ� 3 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 3 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� kardy@�~�c�r�V�X�g����
-&gt; ���₟�c�}���m����ɐ��̃o�������̔�����������y���݂ł��Ȃ��B
-&gt; ��R���͂ɂ͐��񃉃��T�[�E�R���g�E�p�W�F���E�G�N���v�X�������(߁�� )
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ kardy@ミツビシストさん
+&gt; いやぁ…マリノたんに正体バレた時の反応が今から楽しみですなぁ。
+&gt; 第３勢力には是非ランサー・コルト・パジェロ・エクリプスあたりを(ﾟ∀ﾟ )
 &gt; 
-&gt; ���A���b�N�X�����킩��Ȃ������c�c�q�w�Ȃ̂��Ȃ��B
-&gt; ��{�I�ɂ̓����N�X�Ɠ����Ǝv���Ă����悤�ł��B
-&gt; ���ɂ����́u�L�����o���v�u�z�[�~�[�v���炢�̈Ⴂ�ł������B
-&gt; �ȉ��Acarview.co.jp���]�ځB
-&gt; ���o���Ԃ̃J���[�� �����N�X�Ƃ̓��J�j�Y���͂������̂��ƁA
-&gt; ���O���[�h�\�������S�ɋ��ʁB�ו��̃f�U�C�����኱�قȂ���x���B</textarea><br>
+&gt; ＞アレックスだけわかんなかった……ＲＸなのかなぁ。
+&gt; 基本的にはランクスと同じと思っていいようです。
+&gt; いにしえの「キャラバン」「ホーミー」ぐらいの違いでせうか。
+&gt; 以下、carview.co.jpより転載。
+&gt; ＞姉妹車のカローラ ランクスとはメカニズムはもちろんのこと、
+&gt; ＞グレード構成も完全に共通。細部のデザインが若干異なる程度だ。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 1Wo144  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="1Wo144"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 1Wo144  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="1Wo144"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -54,34 +54,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> ��q�ǁA���ӂ��I�I</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 御拝読、感謝っ！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/12 (�y) 10:12:01 <strong>��</strong> ��ҁ[�Ɓ��l�q�Q  </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608126101201&log=rapeet">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608126101201"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/12 (土) 10:12:01 <strong>▽</strong> らぴーと＠ＭＲ２  </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608126101201_log_rapeet.cgi">返信</a>　削除<input type=checkbox name="target" value="200608126101201"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<pre><font size=3 color=#606060>�܂��͌�q�ǂ��肪�Ƃ��������܂��B�����āA�T���X�ӂ��I
-�c�����A�ċx�ݑO�Ŏd�����߂���߂���Z���������̂ŁA���c�B
+<pre><font size=3 color=#606060>まずは御拝読ありがとうございます。そして、亀レス陳謝っ！
+…いえ、夏休み前で仕事がめちゃめちゃ忙しかったので、つい…。
 
-<font color="#cc88ff">&gt;&gt;�j�D�ɓ��l</font>
-�@���w�����肪�Ƃ��������܂��B�Q�l�ɂȂ�܂��B
-�@�Ƃ͂����A�\���͂ɖR�����A�G�t�̍˔\�̂Ȃ���ҁ[�ƂƂ��Ă͊當����
-�L���ȕ\����i���ȂƎv������ł����A�t���ʂ�������ł��ˁB
+<font color="#cc88ff">&gt;&gt;Ｋ．伊藤様</font>
+　ご指導ありがとうございます。参考になります。
+　とはいえ、表現力に乏しく、絵師の才能のないらぴーととしては顔文字は
+有効な表現手段かなと思ったんですが、逆効果だったんですね。
 
-<font color="#ff88cc">���������A���ł��ˁA�g���^�}�ł����H�i��</font>
-�@����l����u���{�ɂ͖��@�������m�Ƃ����΃N���}�̖��O�Ƃ����������`��
-�i�H�j���c�i�ȉ��A�����̂ŏȗ��j�v�Ƃ����c�b�R�~�𒸂����̂ŁA���������
-�݂܂����B�J�������^�[�i����j�V���[�Y�͊��S�Ȏ�ł��B
+<font color="#ff88cc">＞しかしアレですね、トヨタ党ですか？（笑</font>
+　ある人から「日本には魔法少女モノといえばクルマの名前という美しき伝統
+（？）が…（以下、長いので省略）」というツッコミを頂いたので、乗っかって
+みました。カロリンター（死語）シリーズは完全な趣味です。
 
-<font color="#cc88ff">&gt;&gt;kardy�l</font>
-�@�ԗ�������肪�Ƃ��������܂��B
-�⑫�����Ƃ��܂��āA�g���m����̌�p�Ԏ�Ƃ�����������B
+<font color="#cc88ff">&gt;&gt;kardy様</font>
+　車両解説ありがとうございます。
+補足説明としまして、トレノたんの後継車種というあたりを。
 
-<font color="#ff88cc">�����₟�c�}���m����ɐ��̃o�������̔�����������y���݂ł��Ȃ��B</font>
-�c�����Ɣc���ł��邩�ǂ����������C�����܂����ǁc�i�΁j�B
-�@�܂Ƃ��ɗ����ł�����A�����T����̎�������ⓚ���p�Ő��w���܂Ő�����
-�΂��Ă����悤�ȋC�����܂��B
+<font color="#ff88cc">＞いやぁ…マリノたんに正体バレた時の反応が今から楽しみですなぁ。</font>
+…ちゃんと把握できるかどうか怪しい気がしますけど…（笑）。
+　まともに理解できたら、麻里乃たんの事だから問答無用で成層圏まで吹っ飛
+ばしてくれるような気がします。
 </font></pre>
 </td></table>
 </td></tr></table>
@@ -92,86 +92,86 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[3]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/08 (��) 08:11:50 <strong>��</strong> <a href="mailto:kardy_afn@yahoo.co.jp">kardy@�~�c�r�V�X�g</a>  </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608082081150&log=rapeet">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608082081150"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/08 (火) 08:11:50 <strong>▽</strong> <a href="mailto:kardy_afn@yahoo.co.jp">kardy@ミツビシスト</a>  </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608082081150_log_rapeet.cgi">返信</a>　削除<input type=checkbox name="target" value="200608082081150"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���₟�c�}���m����ɐ��̃o�������̔�����������y���݂ł��Ȃ��B<br>
-��R���͂ɂ͐��񃉃��T�[�E�R���g�E�p�W�F���E�G�N���v�X�������(߁�� )<br>
+<font size=3 color=#606060>いやぁ…マリノたんに正体バレた時の反応が今から楽しみですなぁ。<br>
+第３勢力には是非ランサー・コルト・パジェロ・エクリプスあたりを(ﾟ∀ﾟ )<br>
 <br>
-<font color="#ff88cc">���A���b�N�X�����킩��Ȃ������c�c�q�w�Ȃ̂��Ȃ��B</font><br>
-��{�I�ɂ̓����N�X�Ɠ����Ǝv���Ă����悤�ł��B<br>
-���ɂ����́u�L�����o���v�u�z�[�~�[�v���炢�̈Ⴂ�ł������B<br>
-�ȉ��Acarview.co.jp���]�ځB<br>
-<font color="#ff88cc">���o���Ԃ̃J���[�� �����N�X�Ƃ̓��J�j�Y���͂������̂��ƁA<br>
-���O���[�h�\�������S�ɋ��ʁB�ו��̃f�U�C�����኱�قȂ���x���B</font></font>
+<font color="#ff88cc">＞アレックスだけわかんなかった……ＲＸなのかなぁ。</font><br>
+基本的にはランクスと同じと思っていいようです。<br>
+いにしえの「キャラバン」「ホーミー」ぐらいの違いでせうか。<br>
+以下、carview.co.jpより転載。<br>
+<font color="#ff88cc">＞姉妹車のカローラ ランクスとはメカニズムはもちろんのこと、<br>
+＞グレード構成も完全に共通。細部のデザインが若干異なる程度だ。</font></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��������܂���</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 読ませていただきました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/08 (��) 01:44:36 <strong>��</strong> <a href="mailto:happy@ex.sakura.ne.jp">�j�D�ɓ�</a>  </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608082014436&log=rapeet">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608082014436"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/08 (火) 01:44:36 <strong>▽</strong> <a href="mailto:happy@ex.sakura.ne.jp">Ｋ．伊藤</a>  </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608082014436_log_rapeet.cgi">返信</a>　削除<input type=checkbox name="target" value="200608082014436"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂������ɂ������Ƃ����ɁB<br>
+<font size=3 color=#606060>まず言いにくいことから先に。<br>
 <br>
-�E�E�E�ł͂Ȃ��c�c���g���悤�ɂ��܂��傤�A�V�[���ɂ���Ắ\�\�̕����������܂鎖���B<br>
-�����Ɏg���΁u�\�\�c�c����H�v�Ȃ�Ċ����ŐÎ�A���A���f����s�ŕ\���ł���D����̂ł���B<br>
+・・・ではなく……を使うようにしましょう、シーンによっては——の方が引き締まる事も。<br>
+同時に使えば「——……あれ？」なんて感じで静寂、絶句、困惑を一行で表現できる優れものですよ。<br>
 <br>
-�䎌�̑O�̐l�����A���ꂾ�������䎌�Ƀn�b�L���o�Ă�Ȃ炢��Ȃ��Ǝv���܂��B<br>
-���������Ă��ǂ��̂ł����ǂˁA���ꂾ�������Ă�Ȃ疳���ŏ��������ė~�������Ă������B<br>
-�������R�Łi���j��i�܁j�Ƃ��當�����g��Ȃ������l�͍D���ł��B<br>
-�u�C�������������I�v<br>
-�������H�@�������������I�H<br>
-����ȕ��ɕ��͂Œ���ŗ~�����ȂƁB�����l�b�g�����Ȃ�ł�����A���[��[�X�^�C�����A���Ȃ�ł��傤���ǁc�c�I�[�\�h�b�N�X�ȃX�^�C���ŏ����������З͂���Ǝv����ł���ˁB<br>
+台詞の前の人物名、これだけ個性が台詞にハッキリ出てるならいらないと思います。<br>
+いえあっても良いのですけどね、これだけ書けてるなら無しで書ききって欲しいっていうか。<br>
+同じ理由で（汗）や（涙）とか顔文字も使わない方が僕は好きです。<br>
+「イヤぁぁぁぁっ！」<br>
+泣くぞ？　もう俺泣くぞ！？<br>
+そんな風に文章で挑んで欲しいなと。いえネット小説なんですから、こーゆースタイルもアリなんでしょうけど……オーソドックスなスタイルで書いた方が威力あると思うんですよね。<br>
 <br>
-�ł����āA���e�B�ʔ����ł��B<br>
-�������A�G�b�`�����A�M���O�������Ă邵�A�e���|�������A�m���m�������B<br>
-���[��[�r�����m�ⓚ���p�Ȃ��b�͑�D���ł��A�M���O���G�����C�C�J���W�B<br>
-�o��l�����݂�ȗǂ��Ȃ��B�j�D�ɓ��ٌ͈`�D���Ȃ̂ŁA�����N�X���g���m���C�ɓ���܂����B<br>
-�����Ă����Ȃ�g���m�A�����B�}�^�^�r�^���Ă݂����B�i��<br>
-�}���m�������ł��˂��A���[��[�A�z�̎q�͉����ł��B������|�������Ȃ�B<br>
+でもって、内容。面白いです。<br>
+可愛いし、エッチだし、ギャグも効いてるし、テンポいいし、ノリノリだし。<br>
+こーゆー荒唐無稽問答無用なお話は大好きです、ギャグも萌えもイイカンジ。<br>
+登場人物もみんな良いなぁ。Ｋ．伊藤は異形好きなので、ランクスもトレノも気に入りました。<br>
+あえていうならトレノ、可愛い。マタタビ与えてみたい。（笑<br>
+マリノも可愛いですねぇ、あーゆーアホの子は可愛いです。いじり倒したくなる。<br>
 <br>
-����͒��҂��y���݂ł��B�Ƃ������A�������҂܂Ŋy���݂ł��B�i��<br>
-�ٍ�̃I�X�X�����肪�Ƃ��������܂����B<br>
+これは中編が楽しみです。というか、今から後編まで楽しみです。（笑<br>
+拙作のオススメありがとうございました。<br>
 <br>
-�������A���ł��ˁA�g���^�}�ł����H�i��<br>
-�A���b�N�X�����킩��Ȃ������c�c�q�w�Ȃ̂��Ȃ��B</font>
+しかしアレですね、トヨタ党ですか？（笑<br>
+アレックスだけわかんなかった……ＲＸなのかなぁ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w���Ⴊ�~��O�Ɂi�P�^�R�j�x������ɂ͉����N���b�N�B</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『初雪が降る前に（１／３）』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/08 (��) 00:13:51 <strong>��</strong> �^�c�ψ�  </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608082001351&log=rapeet">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608082001351"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/08 (火) 00:13:51 <strong>▽</strong> 運営委員  </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608082001351_log_rapeet.cgi">返信</a>　削除<input type=checkbox name="target" value="200608082001351"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�e���|�̂����W�J�ł��B�Ă������A�Ȃ�ł����Ȃ�́I���͐U��񂳂���ςȂ��ł��B</font>
-<p><a href="http://ts.novels.jp/novel/200608/08000015/hatsuyuki_1.html" target="_top">http://ts.novels.jp/novel/200608/08000015/hatsuyuki_1.html</a>
+<font size=3 color=#606060>【推薦文】テンポのいい展開です。ていうか、なんでこうなるの！俺は振り回されっぱなしです。</font>
+<p><a href="../../novel/200608/08000015/hatsuyuki_1.html" target="_top">http://ts.novels.jp/novel/200608/08000015/hatsuyuki_1.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="rapeet">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=rapeet">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_rapeet.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

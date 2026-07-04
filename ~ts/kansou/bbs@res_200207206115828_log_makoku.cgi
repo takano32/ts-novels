@@ -1,53 +1,53 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���������i�@���z�f����</title>
+<title>麻国さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���������i�@���z�f����</font>
+<font size=5>麻国さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="makoku">
 <input type=hidden name="nj" value="HDPjshicq5">
 <input type=hidden name="res" value="3">
-<h4 align=center>�� �L���ԍ� 3 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 3 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���肪�Ƃ��������܂��I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� makoku����
-&gt; �������W�S�Q�U����
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ありがとうございます！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ makokuさん
+&gt; ＞ｍｋ８４２６さん
 &gt; 
-&gt; �͂��B�����ǂ�ł�����������������Ȃ�āA�����ł��B
-&gt; �������f�G�Ȋ��z�܂ł��������Ă��܂��āA���ӂ̌��t������܂���B
-&gt; &gt; �O���u��m��Ȃ��Ă��c
-&gt; �{���ł����H ���S���܂����B
-&gt; �����A�m���Ă�l�����킩���Ă��炦��΂�����A�Ɣ���������߂Ă����̂ŁB
-&gt; ���������Ă��炦��Ɩ{���ɂ��ꂵ���ł��B���肪�Ƃ��������܂��B
-&gt; &gt;�L�삳��Ƃ��́c
-&gt; �ց[�A�ʔ�����(^^) ���݂����Ȃɂ킩�t�@�����ƁA�m��������o���Ȃ̂ŁA���ۂ̎����ݒ���g�����Ȃ��܂���B�j���ɉ����āA�������H�v�������邱�Ƃ��ł���l�́A���h���Ă��܂��܂��B
-&gt; �����W�S�Q�U����A�ǂ�ł��������āA�{���ɂ��肪�Ƃ��������܂����B
+&gt; はぅ。もう読んでくださった方がいるなんて、感激です。
+&gt; しかも素敵な感想までいただいてしまって、感謝の言葉もありません。
+&gt; &gt; 三国志を知らなくても…
+&gt; 本当ですか？ 安心しました。
+&gt; 正直、知ってる人だけわかってもらえればいいや、と半分あきらめていたので。
+&gt; そう言ってもらえると本当にうれしいです。ありがとうございます。
+&gt; &gt;猫野さんとこの…
+&gt; へー、面白そう(^^) 私みたいなにわかファンだと、知識がうろ覚えなので、実際の時代や設定を使いこなせません。史実に沿って、しかも工夫を加えることができる人は、尊敬してしまいます。
+&gt; ｍｋ８４２６さん、読んでいただいて、本当にありがとうございました。
 &gt; 
-&gt; ���^�c�ψ�����
+&gt; ＞運営委員さま
 &gt; 
-&gt; ���͂́A�����邩�Ȃ��c�c�ƁB�Ȃɂ��ǂ����悤���Ȃ��i���Z���X�b�Ȃ��̂Łi�悤�͍l���Ă��Ȃ��炵���j
-&gt; �ł��܂��A�Â����点�Ă��������ˁB</textarea><br>
+&gt; あはは、言われるかなぁ……と。なにせどうしようもないナンセンス話なもので（ようは考えていないらしい）
+&gt; でもまた、つづき送らせてくださいね。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -60,59 +60,59 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> ����́c</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 董卓は…</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/26 (��) 19:10:50 <strong>��</strong> �y�������� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207265191050&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207265191050"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/26 (金) 19:10:50 <strong>▽</strong> Ｚｙｕｋａ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207265191050_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207265191050"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�����삠��������̎q�ɂȂ��Ă���</font><br>
-��������͒j���ł����B<br>
-�����̊ԁA���j�Ɠ����悤�Ɂc<br>
-����A����ȏ㏑���܂��B<br>
-����ɂ��Ă��O���u���āA���ׂ�Β��ׂ�قǖʔ����I<br>
-�Č󕣂ƒ���͋`���̐e�q�������肷�邵�A����Ɨ������`���̐e�q�����B<br>
-�����ƒ���͂���ɂႭ�ⓚ����Ă邵�B<br>
-���������\���𔭖����邵�c<br>
-�c�c���āA���ł���ȂƂ���ŎO���u�k�c���Ă�񂾂낤�H</font>
+<font size=3 color=#606060><font color="#ff88cc">＞董卓あたりも女の子になってそう</font><br>
+いえ董卓は男性でした。<br>
+ついこの間、歴史と同じように…<br>
+いや、これ以上書くまい。<br>
+それにしても三国志って、調べれば調べるほど面白い！<br>
+夏候淵と張飛は義理の親子だったりするし、孫策と陸孫も義理の親子だし。<br>
+曹操と張飛はこんにゃく問答やってるし。<br>
+諸葛亮は饅頭を発明するし…<br>
+……って、何でこんなところで三国志談議してるんだろう？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> Re:����R����</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> Re:＞一騎当千</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/26 (��) 11:22:58 <strong>��</strong> <a href="mailto:natto@mx2.ttcn.ne.jp">����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207265112258&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207265112258"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/26 (金) 11:22:58 <strong>▽</strong> <a href="mailto:natto@mx2.ttcn.ne.jp">麻国</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207265112258_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207265112258"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̂܂����R�P�l�f�B�Ƃ̂��Ƃ�����Ă�e���r�ԑg�����܂����B�u�P�l�f�B�Ƃ̎􂢁v�݂����ȃ^�C�g���ŁB<br>
-�Ȃ񂾂��ߌ��̈�Ƃ炵���ł��ˁB�Z��o�������X�ɐ펀������A���̂ɂ�������B<br>
-�P�l�f�B�̒���ÎE���ꂽ�����ł��B���j�̎�l���ɂȂ��Ȑl���ɂ́A���ꑊ���̉^���Ƃ������̂�����̂�������܂���ˁB���Ƃ̌Z�킽���ɂ��A�^���߂������̂������Ȃ��ł�����܂���B<br>
-�����P�l�f�B���ÎE���ꂽ�̂͒m���Ă邯�ǁA�P�l�f�B�����������̂��͒m��Ȃ������肷�鎄�ł��B<br>
+<font size=3 color=#606060>このまえ偶然ケネディ家のことをやってるテレビ番組を見ました。「ケネディ家の呪い」みたいなタイトルで。<br>
+なんだか悲劇の一家らしいですね。兄弟姉妹が次々に戦死したり、事故にあったり。<br>
+ケネディの弟も暗殺されたそうです。歴史の主人公になるよな人物には、それ相応の運命というものもあるのかもしれませんね。曹家の兄弟たちにも、運命めいたものを感じないでもありません。<br>
+ただケネディが暗殺されたのは知ってるけど、ケネディが何をしたのかは知らなかったりする私です。<br>
 <br>
-<font color="#cc88ff">&gt; ����ǂ��납�A�n���A�F�g�A�։H�A�{�����ĘC�z�܂ł��c�c�B</font><br>
-�Ȃ񂩁A�����ĊԈ�����l������I��ł銴���c�c<br>
-���肷��ƁA���삠��������̎q�ɂȂ��Ă����B<br>
+<font color="#cc88ff">&gt; 孫策どころか、馬超、宇吉、関羽、陳宮そして呂布までも……。</font><br>
+なんか、あえて間違った人たちを選んでる感が……<br>
+下手すると、董卓あたりも女の子になってそう。<br>
 <br>
-<font color="#cc88ff">&gt;����</font><br>
-�������A�}�C�i�[�ȁI ���������b���ł���Ƃ��ꂵ���Ȃ����Ⴂ�܂��ˁB�i�ł��}���K�ɂ��o�Ă��Ȃ��قǂ̃}�C�i�[�L�����ł��Ȃ��Ǝv���B���ꂾ���牡�R����̖���́c�c�j<br>
-���������オ�����Ă�����B�����[���gIF�h�ł���ˁB�܂��A�����Ƃ͂܂�����������^�C�v�̍c��Ɂc�c�ނ����ʙӒD�ȂǍl���Ȃ�������������܂���B�u�����̔\�b�v�A�����ɂ͕s�������Ȍ��t������ǁA����Ȃ�Α̌��ł��������B<br>
+<font color="#cc88ff">&gt;曹昴</font><br>
+おおっ、マイナーな！ そういう話をできるとうれしくなっちゃいますね。（でもマンガにも出てこないほどのマイナーキャラでもないと思う。これだから横山さんの漫画は……）<br>
+しかし曹昴が生きていたら。興味深い“IF”ですよね。まず、曹丕とはまったく違ったタイプの皇帝に……むしろ帝位簒奪など考えなかったかもしれません。「治世の能臣」、曹操には不似合いな言葉だけれど、曹昴ならば体現できたかも。<br>
 <br>
-<font color="#cc88ff">&gt;���`���j</font><br>
-���͎��̐��j�h�ł��B<br>
-�ł��A�����ǂ����ł�������ł��B���͎O���u����j�Ƃ��ĂƂ��������A�s��ȕ���Ǝv���Ă��܂��B�i�����܂Ŏ����j<br>
-���Ƃ��ΐԕǂ̐킢�B<br>
-����D���̎��́A����̒m���ŏ������ƌ��߂Ă܂����A�E���D���̐l�͍E���̖��p�ŕ����������ƐM���Ă��A���̖����Ȃ��Ǝv����ł��B<br>
-����ɒn���w�I�Ȍ����Ȃǂɏ]���ƁA�`���a���������āA�����R�͂قƂ�ǐ퓬�������Ɉ����グ���c�c�Ȃ���ĂȂ�̖��C���Ȃ����������o�Ă��܂��񂩂�A�F�g�̎􂢂��A�։H�̖S����ے肵�܂���B<br>
-����Ɠ������x���ŁA������̎q�������Ƃ����ϑz���͂���̂��A�܂����񂺂�n�j���Ǝv���Ă�����B<br>
-���j�Ɖ��`�A�{���ŏ���Ȗϑz�B�D���ȂƂ������܂݂����āA���ꂼ��̐l�����ꂼ��̎O���u�����Ă�A���ꂾ���̃L���p�V�e�B�̂��镨�ꂾ�Ǝv���Ă��܂��B<br>
+<font color="#cc88ff">&gt;演義正史</font><br>
+私は自称正史派です。<br>
+でも、正直どっちでもいいんです。私は三国志を歴史としてというよりも、壮大な物語と思っています。（あくまで私見）<br>
+たとえば赤壁の戦い。<br>
+周瑜好きの私は、周瑜の知略で勝ったと決めてますが、孔明好きの人は孔明の魔術で風が吹いたと信じても、何の問題もないと思うんです。<br>
+下手に地質学的な研究などに従うと、伝染病が発生して、曹操軍はほとんど戦闘もせずに引き上げた……なあんてなんの味気もない事実しか出てきませんから、宇吉の呪いも、関羽の亡霊も否定しません。<br>
+それと同じレベルで、周瑜が女の子だったという妄想をはせるのも、またぜんぜんＯＫかと思っていたり。<br>
+正史と演義、＋αで勝手な妄想。好きなとこだけつまみあげて、それぞれの人がそれぞれの三国志を持てる、それだけのキャパシティのある物語だと思っています。<br>
 <br>
-�����A�O���u�k�`���ł���Ƃ��ꂵ���ł��B���ꂾ���ōK���B�i�f���̎�|����͊O��Ă�C�����邯�ǁj<br>
-Zyuka����A���肵�Ă��������āA�ǂ������肪�Ƃ��������܂����B</font>
+ああ、三国志談義ができるとうれしいです。それだけで幸せ。（掲示板の趣旨からは外れてる気もするけど）<br>
+Zyukaさん、相手してくださって、どうもありがとうございました。</font>
 <p><a href="http://page.freett.com/makoku/index.htm" target="_top">http://page.freett.com/makoku/index.htm</a>
 </td></table>
 </td></tr></table>
@@ -120,25 +120,25 @@ Zyuka����A���肵�Ă��������āA�ǂ������肪�Ƃ��������܂����B</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> ���j�I�ɍl����</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> 歴史的に考えて</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/25 (��) 18:25:49 <strong>��</strong> �y�������� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207254182549&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207254182549"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/25 (木) 18:25:49 <strong>▽</strong> Ｚｙｕｋａ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207254182549_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207254182549"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���A��������<br>
-<font color="#ff88cc">����Âɏ��Z�𗧂ĂāA����͑����ɗ������������Ɓc�c</font><br>
-�L��܂����A�ԕǂ̐킢�́A�O���u�̕����A��ԓ䂪�����Ƃ���ł��B<br>
+<font size=3 color=#606060>あ、そうそう<br>
+<font color="#ff88cc">＞冷静に勝算を立てて、周瑜は曹操に立ち向かったと……</font><br>
+有りますが、赤壁の戦いは、三国志の物語上、一番謎が多いところです。<br>
 <br>
-�����A��X���m���Ă���O���u�͉��`�����S�ł����āA���j�ł͂Ȃ���ł�����B<br>
-(�ȒP�ȂƂ���ł͒���B���`�ł͗��������A���j�ł͉v���ƂȂ�j<br>
-�ԕǂ̐킢�͎O���u�j��ő�A�ō��̐킢�Ƃ͂����Ă��܂��B���A�ނ��됳�j�̈����͒Ⴍ�A<br>
-������̂�<br>
-�������������B�����������ɓG�΂����B�������̒n�𓾂��B�O���u�̎n�܂�B<br>
-���炢�ł��B<br>
-������ǂ����Ƃ����Ă����܂�܂����E�E�E<br>
-�܂������������ƂŁc<br>
+元来、我々が知っている三国志は演義が中心であって、正史ではないんですから。<br>
+(簡単なところでは張飛。演義では翼徳だが、正史では益徳となる）<br>
+赤壁の戦いは三国志史上最大、最高の戦いとはいっています。が、むしろ正史の扱いは低く、<br>
+分かるのは<br>
+曹操が負けた。孫権が曹操に敵対した。劉備が領地を得た。三国志の始まり。<br>
+くらいです。<br>
+だからどうだといわれてもこまりますが・・・<br>
+まあそういうことで…<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -146,52 +146,52 @@ Zyuka����A���肵�Ă��������āA�ǂ������肪�Ƃ��������܂����B</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> ����R����</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> ＞一騎当千</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/25 (��) 18:10:47 <strong>��</strong> �y�������� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207254181047&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207254181047"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/25 (木) 18:10:47 <strong>▽</strong> Ｚｙｕｋａ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207254181047_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207254181047"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�f�`�l�Ƃ�[�G���ɍڂ��Ă��邨�b�ł��ˁB<br>
-����ǂ��납�A�n���A�F�g�A�։H�A�{�����ĘC�z�܂ł������̎q���Ė���ł��B<br>
-���Ȃ݂Ɏ���͒j�ł��B<br>
+<font size=3 color=#606060>ＧＡＭとゆー雑誌に載っているお話ですね。<br>
+孫策どころか、馬超、宇吉、関羽、陳宮そして呂布までもが女の子って漫画です。<br>
+ちなみに周瑜は男です。<br>
 <br>
-���ł̉����O���u����Ԃ����Ȃ̂͑���E�E�E<br>
-���R���P��搶�̃}���K�ɂ��o�Ă��Ȃ��}�C�i�[���̃}�C�i�[�L�����B<br>
-�����Ɨ����̎q���ŁA���ۂ̌Z�ɓ�����񂾂��ǁA����̐킢�Ő펀�B<br>
-(�����͑����Ɏ����̔n��n�������炾�Ƃ����B)<br>
-�����Ă��鰂̍c��ɂȂ��ė��j���ς���Ă��̂ł͂Ȃ����낤���H<br>
-�E�E�E�E�E�E�Ȃ񂩁A�A�����J�哝�́A�W������e�E�P�l�f�B�̌Z�A�W���Z�t�i�����v�킹��B<br>
-�ނ��i�E�e�E�j���哝�̂ɂȂ�O�ɐ펀���Ă邵�E�E�E�E�E�E<br>
-���āA�����炻��Ȃ͂Ȃ��ɂȂ����I�H<br>
+ついでの俺が三国志中一番すきなのは曹昴・・・<br>
+横山光輝大先生のマンガにも出てこないマイナー中のマイナーキャラ。<br>
+曹操と劉氏の子供で、曹否の兄に当たるんだけど、宛城の戦いで戦死。<br>
+(死因は曹操に自分の馬を渡したからだという。)<br>
+生きてりゃ魏の皇帝になって歴史が変わってたのではないだろうか？<br>
+・・・・・・なんか、アメリカ大統領、ジョン･Ｆ・ケネディの兄、ジョセフＪｒを思わせる。<br>
+彼もＪ・Ｆ・Ｋが大統領になる前に戦死してるし・・・・・・<br>
+って、いつからそんなはなしになった！？<br>
 <br>
-���Ȃ݂�2�ԂɍD���Ȃ̂͏������A�����։H�B�����ė����B</font>
+ちなみに2番に好きなのは諸葛亮、次が関羽。そして劉備。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �낵�キ���܁`</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> ろしゅくさま〜</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/23 (��) 14:05:44 <strong>��</strong> <a href="mailto:natto@mx2.ttcn.ne.jp">makoku</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207232140544&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207232140544"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/23 (火) 14:05:44 <strong>▽</strong> <a href="mailto:natto@mx2.ttcn.ne.jp">makoku</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207232140544_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207232140544"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�D�l���o�������ł���ˁ[�B����̂��F�B�B�j�ɂ��悤���A���ɂ��悤���B<br>
-�Ȃɂ͂Ƃ�����A�낵�キ����A�ǂ�ł��������Ă��肪�Ƃ��������܂��[�B<br>
+<font size=3 color=#606060>魯粛も出したいですよねー。周瑜のお友達。男にしようか、女にしようか。<br>
+なにはともあれ、ろしゅくさん、読んでくださってありがとうございますー。<br>
 <br>
-<font color="#cc88ff">&gt;����</font><br>
-�ǂ���������Ȃ��B<br>
-����ς�ŏ��ɕ����Ԃ͉̂��y�ł���ˁB�����A���ꂢ�ȃ\�v���m�Łi�΁j<br>
-<font color="#cc88ff">&gt;���􂪁c�c</font><br>
-�ց[�A�ǂ�Ȃ��낤�B���Ă݂����B<br>
-�ނ�����Ƃ��ƒj���ۂ��ق����A���̎q�ɂȂ�Ƃ������낢�̂�������܂���ˁB<br>
-����Ȃ�āA�i���̒��ł́j���Ƃ��Ə��̎q����������A�S�R��a�����Ȃ��ł��B<br>
+<font color="#cc88ff">&gt;部活</font><br>
+どうしよっかなぁ。<br>
+やっぱり最初に浮かぶのは音楽ですよね。合唱、きれいなソプラノで（笑）<br>
+<font color="#cc88ff">&gt;孫策が……</font><br>
+へー、どんなだろう。見てみたい。<br>
+むしろもともと男っぽいほうが、女の子になるとおもしろいのかもしれませんね。<br>
+周瑜なんて、（私の中では）もともと女の子扱いだから、全然違和感がないです。<br>
 <br>
-�낵�キ����A�ǂ������肪�Ƃ��������܂����B<br>
+ろしゅくさん、どうもありがとうございました。<br>
 </font>
 <p><a href="http://page.freett.com/makoku/index.htm" target="_top">http://page.freett.com/makoku/index.htm</a>
 </td></table>
@@ -200,44 +200,44 @@ Zyuka����A���肵�Ă��������āA�ǂ������肪�Ƃ��������܂����B</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �����䂤�O���u�D���ł��`</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> こうゆう三国志好きです〜</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/20 (�y) 16:10:26 <strong>��</strong> �낵�キ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207206161026&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207206161026"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/20 (土) 16:10:26 <strong>▽</strong> ろしゅく </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207206161026_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207206161026"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ł��`�B<br>
-���̎���A���q�����ɂȂ��Ă��܂��Ƃ́B�i��<br>
-���₢��A���\�ʔ����`�B�i���͂́A���C�ɂ��̑������i�΁j�j<br>
-���������A��������Ă����\���Ǝv�����ǁA�����͉��ɂ͂���̂��Ȃ��B<br>
-�y��̉������ԈႦ����U��Ԃ����̃G�s�\�[�h�ɏK���āA���y�n�Ƃ��i��<br>
-�i�Ƃ���ŁA��R����i���������Ȃ��H�j�Ƃ�������ł́A���􂪏��̎q�ɂȂ��Ƃ�܂���B�j</font>
+<font size=3 color=#606060>お初です〜。<br>
+あの周瑜が、女子高生になってしまうとは。（笑<br>
+いやいや、結構面白い〜。（あはは、何気にあの孫堅が（笑））<br>
+周瑜だったら、何をやっても万能だと思うけど、部活は何にはいるのかなぁ。<br>
+楽器の音律を間違えたら振り返る周瑜のエピソードに習って、音楽系とか（笑<br>
+（ところで、一騎当千（だったかなぁ？）という漫画では、孫策が女の子になっとりますよ。）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �Ȃ��ł��ˁ[</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> ないですねー</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/20 (�y) 15:07:52 <strong>��</strong> <a href="mailto:natto@mx2.ttcn.ne.jp">makoku</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207206150752&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207206150752"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/20 (土) 15:07:52 <strong>▽</strong> <a href="mailto:natto@mx2.ttcn.ne.jp">makoku</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207206150752_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207206150752"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">��Zyuka����</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞Zyukaさん</font><br>
 <br>
-�����̗���Ȃ��ł��ˁ[�B���������̂ł��i���ӔC�j<br>
-�ł����̘b�́A�����勪�̘b�ł��B������̎q�ɂȂ��āA�ǂ�����񂾂�(^^)<br>
-<font color="#cc88ff">&gt; �ԕ�</font><br>
-���̓A���`�E���h�Ȃ̂ŁA�E���̒������Ƃ��Ŏ���{�����ȂǂƂ͎v���ĂȂ��̂ł��B<br>
-��Âɏ��Z�𗧂ĂāA����͑����ɗ������������Ɓc�c<br>
-���m�Ȃ����Ɍ��D���B�p���炷�O�ɁA���̕ӂł�߂Ƃ��܂��B<br>
-<font color="#cc88ff">&gt;���R���P�搶</font><br>
-���͂���܂�D���łȂ�������B<br>
-���e�Ƃ��������A���̂��C�ɓ���̕����̈������A���܂��낵���Ȃ��B<br>
-�ǂ����A���肪�Ƃ��������܂����B</font>
+小喬の立場ないですねー。困ったものです（無責任）<br>
+でも次の話は、小喬大喬の話です。周瑜が女の子になって、どうするんだか(^^)<br>
+<font color="#cc88ff">&gt; 赤壁</font><br>
+私はアンチ孔明派なので、孔明の挑発ごときで周瑜が怒ったなどとは思ってないのです。<br>
+冷静に勝算を立てて、周瑜は曹操に立ち向かったと……<br>
+無知なくせに語り好き。恥さらす前に、この辺でやめときます。<br>
+<font color="#cc88ff">&gt;横山光輝先生</font><br>
+ぢつはあんまり好きでなかったり。<br>
+内容とか質よりも、私のお気に入りの武将の扱いが、あまりよろしくない。<br>
+どうも、ありがとうございました。</font>
 <p><a href="http://page.freett.com/makoku/index.htm" target="_top">http://page.freett.com/makoku/index.htm</a>
 </td></table>
 </td></tr></table>
@@ -245,47 +245,47 @@ Zyuka����A���肵�Ă��������āA�ǂ������肪�Ƃ��������܂����B</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �j���̗��ꖳ�������</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> ニ喬の立場無いじゃん</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/20 (�y) 12:45:44 <strong>��</strong> Zyuka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207206124544&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207206124544"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/20 (土) 12:45:44 <strong>▽</strong> Zyuka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207206124544_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207206124544"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����������,�ނ̍ȏ����̗��ꂪ�����Ȃ�B<br>
-�Ƃ�����,�������Ɂw������ǂ��Ԃ������Α����Ƀj���������o�����x<br>
-�Ƃ����Ď�����{���Ďn�܂����ԕǂ̐킢���N����Ȃ��B<br>
-���ł�,�O���u��ǂނȂ��͂艡�R���P��搶��!!<br>
-�S60��,+2���B</font>
+<font size=3 color=#606060>周瑜が女性だと,彼の妻小喬の立場が無くなる。<br>
+というか,諸葛亮に『曹操を追い返したくば曹操にニ喬を差し出す事』<br>
+といわれて周瑜が激怒して始まった赤壁の戦いが起こらない。<br>
+ついでに,三国志を読むならやはり横山光輝大先生の!!<br>
+全60巻,+2巻。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂��I</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> ありがとうございます！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/20 (�y) 11:58:28 <strong>��</strong> <a href="mailto:natto@mx2.ttcn.ne.jp">makoku</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207206115828&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207206115828"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/20 (土) 11:58:28 <strong>▽</strong> <a href="mailto:natto@mx2.ttcn.ne.jp">makoku</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207206115828_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207206115828"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�������W�S�Q�U����</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞ｍｋ８４２６さん</font><br>
 <br>
-�͂��B�����ǂ�ł�����������������Ȃ�āA�����ł��B<br>
-�������f�G�Ȋ��z�܂ł��������Ă��܂��āA���ӂ̌��t������܂���B<br>
-<font color="#cc88ff">&gt; �O���u��m��Ȃ��Ă��c</font><br>
-�{���ł����H ���S���܂����B<br>
-�����A�m���Ă�l�����킩���Ă��炦��΂�����A�Ɣ���������߂Ă����̂ŁB<br>
-���������Ă��炦��Ɩ{���ɂ��ꂵ���ł��B���肪�Ƃ��������܂��B<br>
-<font color="#cc88ff">&gt;�L�삳��Ƃ��́c</font><br>
-�ց[�A�ʔ�����(^^) ���݂����Ȃɂ킩�t�@�����ƁA�m��������o���Ȃ̂ŁA���ۂ̎����ݒ���g�����Ȃ��܂���B�j���ɉ����āA�������H�v�������邱�Ƃ��ł���l�́A���h���Ă��܂��܂��B<br>
-�����W�S�Q�U����A�ǂ�ł��������āA�{���ɂ��肪�Ƃ��������܂����B<br>
+はぅ。もう読んでくださった方がいるなんて、感激です。<br>
+しかも素敵な感想までいただいてしまって、感謝の言葉もありません。<br>
+<font color="#cc88ff">&gt; 三国志を知らなくても…</font><br>
+本当ですか？ 安心しました。<br>
+正直、知ってる人だけわかってもらえればいいや、と半分あきらめていたので。<br>
+そう言ってもらえると本当にうれしいです。ありがとうございます。<br>
+<font color="#cc88ff">&gt;猫野さんとこの…</font><br>
+へー、面白そう(^^) 私みたいなにわかファンだと、知識がうろ覚えなので、実際の時代や設定を使いこなせません。史実に沿って、しかも工夫を加えることができる人は、尊敬してしまいます。<br>
+ｍｋ８４２６さん、読んでいただいて、本当にありがとうございました。<br>
 <br>
-<font color="#ff88cc">���^�c�ψ�����</font><br>
+<font color="#ff88cc">＞運営委員さま</font><br>
 <br>
-���͂́A�����邩�Ȃ��c�c�ƁB�Ȃɂ��ǂ����悤���Ȃ��i���Z���X�b�Ȃ��̂Łi�悤�͍l���Ă��Ȃ��炵���j<br>
-�ł��܂��A�Â����点�Ă��������ˁB</font>
+あはは、言われるかなぁ……と。なにせどうしようもないナンセンス話なもので（ようは考えていないらしい）<br>
+でもまた、つづき送らせてくださいね。</font>
 <p><a href="http://page.freett.com/makoku/index.htm" target="_top">http://page.freett.com/makoku/index.htm</a>
 </td></table>
 </td></tr></table>
@@ -293,25 +293,25 @@ Zyuka����A���肵�Ă��������āA�ǂ������肪�Ƃ��������܂����B</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/19 (��) 23:58:58 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207195235858&log=makoku">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207195235858"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/19 (金) 23:58:58 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207195235858_log_makoku.cgi">返信</a>　削除<input type=checkbox name="target" value="200207195235858"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����A�Ȃ��Ȃ����������ˁB<br>
-���^�N�V�O���u�͂��܂苻�����Ȃ��ēǂ񂾂��Ƃ͂Ȃ���ł����A���̂��b�͎O���u��m��Ȃ��Ă��y���߂܂���B<br>
-�ߓ��A�L�삳��Ƃ��ŎO���u�̂s�r�񎟑n�삪�A�b�v����Ă����̂œǂ݂܂����B������͎���₻�̑��ݒ�͂قڎO���u�ŁA�ꕔ�L�������s�r���Ă����Ƃ������̂������̂ł����A���\�ʔ��������L��������܂��B<br>
-����ɑ΂��Ă�����͕��䂩�炵�Č�����{�ŁA�������w�����́B���Ɋy������i�Ɏd�オ���Ă���Ǝv���܂��B<br>
-���񂪊y���݂ł��ˁB</font>
+<font size=3 color=#606060>いや、なかなかいいっすね。<br>
+ワタクシ三国志はあまり興味がなくて読んだことはないんですが、このお話は三国志を知らなくても楽しめますよ。<br>
+過日、猫野さんとこで三国志のＴＳ二次創作がアップされていたので読みました。あちらは時代やその他設定はほぼ三国志で、一部キャラがＴＳしていたというものだったのですが、結構面白かった記憶があります。<br>
+それに対してこちらは舞台からして現代日本で、しかも学園もの。非常に楽しい作品に仕上がっていると思います。<br>
+次回が楽しみですね。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="makoku">
@@ -319,16 +319,16 @@ Zyuka����A���肵�Ă��������āA�ǂ������肪�Ƃ��������܂����B</font>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="makoku">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=makoku">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_makoku.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

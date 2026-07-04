@@ -56,7 +56,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 残虐な敵の基地で魔法を封じられた涼香、絶対絶命！<br>
-<a href=http://ts.novels.jp/novel/200611/21212001/don-noruma_7b.htm target=_top>http://ts.novels.jp/novel/200611/21212001/don-noruma_7b.htm</a></font>
+<a href="../../novel/200611/21212001/don-noruma_7b.htm" target=_top>http://ts.novels.jp/novel/200611/21212001/don-noruma_7b.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -125,7 +125,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 戦闘に次ぐ戦闘の中、すこしずつ謎が明かされてゆきます。<br>
-<a href=http://ts.novels.jp/novel/200611/21212001/nanoha2.htm target=_top>http://ts.novels.jp/novel/200611/21212001/nanoha2.htm</a></font>
+<a href="../../novel/200611/21212001/nanoha2.htm" target=_top>http://ts.novels.jp/novel/200611/21212001/nanoha2.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -140,7 +140,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 強引、豪快、時々にゃんにゃんなヒロインが戦う！<br>
-<a href=http://ts.novels.jp/novel/200611/21212001/don-noruma_7a.htm target=_top>http://ts.novels.jp/novel/200611/21212001/don-noruma_7a.htm</a></font>
+<a href="../../novel/200611/21212001/don-noruma_7a.htm" target=_top>http://ts.novels.jp/novel/200611/21212001/don-noruma_7a.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -155,7 +155,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 最大の戦いが、いま、始まる。<br>
-<a href=http://ts.novels.jp/novel/200611/21212001/don-noruma_06.htm target=_top>http://ts.novels.jp/novel/200611/21212001/don-noruma_06.htm</a></font>
+<a href="../../novel/200611/21212001/don-noruma_06.htm" target=_top>http://ts.novels.jp/novel/200611/21212001/don-noruma_06.htm</a></font>
 </td></table>
 </td></tr></table>
 

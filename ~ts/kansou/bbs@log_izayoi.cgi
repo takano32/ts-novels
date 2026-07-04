@@ -206,7 +206,7 @@ Switchの再開は一応考えているのですが、少年少女文庫の運�
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 唯。この子は、ただ単に頭の回転が悪いのか、寝ぼけているだけなのか、ただの馬鹿なのか……。わからない。私にはわからない。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200308/14212643/switch_vol3.html target=_top>http://ts.novels.jp/novel/200308/14212643/switch_vol3.html</a></font>
+<a href="../../novel/200308/14212643/switch_vol3.html" target=_top>http://ts.novels.jp/novel/200308/14212643/switch_vol3.html</a></font>
 </td></table>
 </td></tr></table>
 

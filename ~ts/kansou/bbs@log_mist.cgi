@@ -88,7 +88,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 Mistさんが放つ新作品。上から落ちてきた鉄骨に押しつぶされた准。その時助けた（のか？）ご老人。一体、このご老人は何者なのか？<br>
 <br>
-<a href=http://ts.novels.jp/novel/200210/11183849/wizard.htm target=_top>http://ts.novels.jp/novel/200210/11183849/wizard.htm</a></font>
+<a href="../../novel/200210/11183849/wizard.htm" target=_top>http://ts.novels.jp/novel/200210/11183849/wizard.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -168,7 +168,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】だんだんと女性化が進む。それに、なんとあんなシーンまで……（笑）<br>
 <br>
-<a href=http://ts.novels.jp/novel/200210/11183849/mlchemist4.htm target=_top>http://ts.novels.jp/novel/200210/11183849/mlchemist4.htm</a></font>
+<a href="../../novel/200210/11183849/mlchemist4.htm" target=_top>http://ts.novels.jp/novel/200210/11183849/mlchemist4.htm</a></font>
 </td></table>
 </td></tr></table>
 

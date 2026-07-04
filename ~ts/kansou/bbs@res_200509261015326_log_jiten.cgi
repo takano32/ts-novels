@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�}���`�f����</title>
+<title>マルチ掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�}���`�f����</font>
+<font size=5>マルチ掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="jiten">
 <input type=hidden name="nj" value="rnaKlJc806">
 <input type=hidden name="res" value="1851">
-<h4 align=center>�� �L���ԍ� 1851 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 1851 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�s�r�M�l�X�u�b�N�ł���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��� ������
-&gt; &gt; ��Ԓ����V���[�Y
-&gt; �@����́u�ؑタ���v�Ō���ł��傤�B
-&gt; �@���e�������ׂ�΂��������肻���ł����A���̑��͒��������̂�������ς���Ȃ��ł����H����Ƃ��A�M�l�X�Ɠ��������ȁi�H�j�\���{�F��������ȁH���ꂾ�����猋�\�\��������܂���ˁB</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ＴＳギネスブックですね"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 鈴忌 紫さん
+&gt; &gt; 一番長いシリーズ
+&gt; 　これは「華代ちゃん」で決定でしょう。
+&gt; 　投稿数も調べればすぐ分かりそうですが、その他は調査がものすごく大変じゃないですか？それとも、ギネスと同じく自己（？）申告＋認定方式かな？それだったら結構可能かもしれませんね。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 2GDfR7  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="2GDfR7"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 2GDfR7  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="2GDfR7"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 20 <strong>�ő�L�^�ێ���</strong> 400 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 20 <strong>最大記録保持数</strong> 400 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,151 +48,151 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1910]</font> <font size=4 color=#40c0c0> SPAM�΍�@�\�ł������c�c</font>
+<font size=2>[1910]</font> <font size=4 color=#40c0c0> SPAM対策機能でしたか……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/01 (��) 14:26:40 <strong>��</strong> Zyuka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608012142640&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608012142640"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/01 (火) 14:26:40 <strong>▽</strong> Zyuka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608012142640_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200608012142640"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂���A���e�o���܂����B</font>
+<font size=3 color=#606060>すいません、投稿出来ました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1909]</font> <font size=4 color=#40c0c0> �s's���g���������̌f���ɏ������ނ��Ƃ��ł��܂���ł���</font>
+<font size=2>[1909]</font> <font size=4 color=#40c0c0> Ｔ's☆Ｈｅａｒｔの掲示板に書き込むことができませんでした</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/01 (��) 14:17:00 <strong>��</strong> Zyuka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608012141700&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608012141700"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/01 (火) 14:17:00 <strong>▽</strong> Zyuka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608012141700_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200608012141700"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����瑤�ɖ�肪����̂�������Ȃ����ǁA�������߂܂���ł����B</font>
+<font size=3 color=#606060>こちら側に問題があるのかもしれないけど、書き込めませんでした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1908]</font> <font size=4 color=#40c0c0> �C�x���g�u�s's���g���������v�J�Â̂��m�点</font>
+<font size=2>[1908]</font> <font size=4 color=#40c0c0> イベント「Ｔ's☆Ｈｅａｒｔ」開催のお知らせ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/14 (��) 21:54:31 <strong>��</strong> <a href="mailto:admin@ts.novels.jp">�l�n�m�c�n���^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607145215431&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607145215431"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/14 (金) 21:54:31 <strong>▽</strong> <a href="mailto:admin@ts.novels.jp">ＭＯＮＤＯ＠運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607145215431_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200607145215431"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@����΂�́B���N�������ɉ^�c�ψ��̂l�n�m�c�n�ł��B<br>
-�@�������������Ă��܂����A�F�l�ɂ͂܂��܂������h�ɂĂ��߂����̂��ƂƑ����܂��B<br>
-�@���f�͖{�T�C�g�������ځA�������Ă��������܂��āA�������\���グ�܂��B<br>
+<font size=3 color=#606060>　こんばんは。少年少女文庫運営委員のＭＯＮＤＯです。<br>
+　暑い日が続いていますが、皆様にはますますご清栄にてお過ごしのことと存じます。<br>
+　平素は本サイトをご愛顧、応援していただきまして、厚く御礼申し上げます。<br>
 <br>
-�@���āA�ȑO������E�������Ă��܂����f���C�x���g�u�s's���g���������v�ł����A�����ɎQ���҂̕�W�����m�������܂��B<br>
-�@�C�x���g�̓��e�́A�u����̃C�x���g�p�ɐݒ肵���L�����N�^�[����������āA�ˋ�̍��Z�𕑑�ɁA�s�r���������̓���i�H�j�Ƃӂꂠ����`�����X�g�[���[���A�Q���҂݂�ȂŊy���݂Ȃ���i�y���܂��Ȃ���j���グ�Ă����v�Ƃ������̂ł��B<br>
-�@���킵���́A�u�s's���g���������v���C���y�[�W���������������B<br>
+　さて、以前から企画・準備していました掲示板イベント「Ｔ's☆Ｈｅａｒｔ」ですが、ここに参加者の募集を告知いたします。<br>
+　イベントの内容は、「今回のイベント用に設定したキャラクターを持ち寄って、架空の高校を舞台に、ＴＳっ娘たちの日常（？）とふれあいを描いたストーリーを、参加者みんなで楽しみながら（楽しませながら）作り上げていく」というものです。<br>
+　くわしくは、「Ｔ's☆Ｈｅａｒｔ」メインページをご覧ください。<br>
 <br>
-�@<a href=http://ts.novels.jp/novel/200112/20210702/tsheart.htm target=_top>http://ts.novels.jp/novel/200112/20210702/tsheart.htm</a><br>
+　<a href="../../novel/200112/20210702/tsheart.htm" target=_top>http://ts.novels.jp/novel/200112/20210702/tsheart.htm</a><br>
 <br>
-�@�Q���҂̕�W�́A�V�^�P�S�i���j�̂Q�Q�F�O�O����A�V�^�Q�V�i�؁j�̂Q�S�F�O�O�܂ł�\�肵�Ă��܂��B<br>
-�@�F�l�̂��Q�����A�S��肨�҂����Ă���܂��B</font>
+　参加者の募集は、７／１４（金）の２２：００から、７／２７（木）の２４：００までを予定しています。<br>
+　皆様のご参加を、心よりお待ちしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1907]</font> <font size=4 color=#40c0c0> Re:���u�s'���g���������i���j�v�Ɋւ�����</font>
+<font size=2>[1907]</font> <font size=4 color=#40c0c0> Re:企画「Ｔ'ｓＨｅａｒｔ（仮）」に関する提案</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/07 (��) 21:20:36 <strong>��</strong> <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604075212036&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604075212036"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/07 (金) 21:20:36 <strong>▽</strong> <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604075212036_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200604075212036"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B�a�`�e����A�앶������B���ӌ����肪�Ƃ��������܂����B<br>
-�@�F�l���炢�����������܂ł̂��ӌ��̒��ŁA<br>
+<font size=3 color=#606060>　ＭＯＮＤＯです。ＢＡＦさん、南文堂さん。ご意見ありがとうございました。<br>
+　皆様からいただいた今までのご意見の中で、<br>
 <br>
-�E�w�Z�����𕑑�ɂ���B<br>
-�E���̃C�x���g�p�́A�I���W�i���L�����N�^�[���g���B<br>
-�E�C���^�[�o���̊��Ԃ�u���āA�f���I�ɂ����Ȃ��B<br>
+・学校生活を舞台にする。<br>
+・このイベント用の、オリジナルキャラクターを使う。<br>
+・インターバルの期間を置いて、断続的におこなう。<br>
 <br>
-�@�Ƃ����̂́u�m�莖���v�Ƃ��Ă�낵���ł��傤���H<br>
+　というのは「確定事項」としてよろしいでしょうか？<br>
 <br>
-<font color="#ff88cc">���f���̃`���b�g��Ԃ�������邽�߂ɁA�����낭�̃}�X�Ƃ������A����̃R�}�Ƃ������A�`�F�b�N�|�C���g�Ƃ����̂����A���ꂪ�i�݂�����̂���������@������̊��V�X�e���̊̂ł���Ƃ������܂��B<br>
-���������A���݂łĂ�����ẮA���̃}�X���L���i�����j�Ǝ��͎v���܂��B�����ŁA�����Ə����ȃ}�X�ɂ��鎖���Ă��܂��B</font><br>
+<font color="#ff88cc">＞掲示板のチャット状態を回避するために、すごろくのマスというか、漫画のコマというか、チェックポイントというのを作り、物語が進みすぎるのを回避する手法が今回の企画システムの肝であるとおもいます。<br>
+＞しかし、現在でている企画案は、そのマスが広い（長い）と私は思います。そこで、もっと小さなマスにする事を提案します。</font><br>
 <br>
-�@�Ȃ�قǁB<br>
-�@�����łЂƂl���Ă݂܂����B<br>
+　なるほど。<br>
+　そこでひとつ考えてみました。<br>
 <br>
-�����b��<br>
-�@�������Z�̎n�Ǝ��B�V�����w�Z�A�V�����w�N�A�V�����N���X�ł̈�N���n�܂�܂��B<br>
-�@�o�b�̂��鋳���ł́A�N���X���C�g�����̎��ȏЉ�����Ȃ��Ă��܂��B<br>
-�@���āA���Ȃ��̂o�b�̎��̍s���́H<br>
+＜第一話＞<br>
+　○○高校の始業式。新しい学校、新しい学年、新しいクラスでの一年が始まります。<br>
+　ＰＣのいる教室では、クラスメイトたちの自己紹介がおこなわれています。<br>
+　さて、あなたのＰＣの次の行動は？<br>
 <br>
-�i�P�j���Ԃ��܂���Ă����̂ŁA���ȏЉ������B<br>
-�i�Q�j�����̔Ԃ͂����I������̂ŁA�ׁi���j�ɐ���������B<br>
-�i�R�j���낻��܂���Ă������Ȃ̂ŁA�������������l����B<br>
+（１）順番がまわってきたので、自己紹介をする。<br>
+（２）自分の番はもう終わったので、隣（後ろ）に声をかける。<br>
+（３）そろそろまわってきそうなので、何を言おうか考える。<br>
 <br>
-�����b��<br>
-�@������̕��ی�A�o�b�̓N���X���C�g�ɌĂю~�߂��܂����B<br>
-�@�N�ɐ���������ꂽ����I�����āA���Ȃ��̂o�b�̎��̍s�������߂Ă��������B<br>
+＜第二話＞<br>
+　ある日の放課後、ＰＣはクラスメイトに呼び止められました。<br>
+　誰に声をかけられたかを選択して、あなたのＰＣの次の行動を決めてください。<br>
 <br>
-�i�P�j�m�o�b�|�`�u���������P�[�L�����񌩂����񂾁B������ꏏ�ɍs������v<br>
-�i�Q�j�m�o�b�|�a�u�������ւ��Ȃ��ƁA�N���u�n�܂����Ⴄ��v<br>
-�i�R�j�m�o�b�|�b�u���߂���I�@�����������ɂ�����Ɨ��Ă�����I�v<br>
+（１）ＮＰＣ−Ａ「美味しいケーキ屋さん見つけたんだ。今から一緒に行こうよ」<br>
+（２）ＮＰＣ−Ｂ「早く着替えないと、クラブ始まっちゃうよ」<br>
+（３）ＮＰＣ−Ｃ「ごめんっ！　何もきかずにちょっと来てくれっ！」<br>
 <br>
-�@���̒�����o�b�̍s����I��ł�����ď�������ł��������A����ɂ��̂��Ƃ��󂯂ĕ���������[���Ă����Ƃ����̂͂ǂ��ł��傤���H<br>
-�@�����̓W�J�������Ă��A����Ȃ炻�����������͂�����Ȃ��ł��傤���A�N�̏������݂ɑ��������������I�����邱�ƂŁA��������̒�Ă���Ă����u����c�ɐ��E���L���Ă����A�ŏI�I�ɂ������̃X�g�[���[������������v�Ƃ����̂��ł������ł��B<br>
-�@��Îґ��͑�܂��Ȑݒ�i�s���j�����Ă����āA�ׂ��ȏ󋵐ݒ��I�����̌���́A�Q���҂̎������i���邢�́A�C���^�[�o�����ɘb�������Ă����j�Ƃ��Ă����΁A���݂��̍l���𔽉f�ł���Ǝv���܂��B<br>
+　この中からＰＣの行動を選んでもらって書き込んでもらったり、さらにそのあとを受けて物語をリレーしていくというのはどうでしょうか？<br>
+　複数の展開が生じても、これならそうそう矛盾はおこらないでしょうし、誰の書き込みに続きを書こうか選択することで、無糖さんの提案されていた「横や縦に世界を広げていき、最終的にいくつものストーリーを完成させる」というのもできそうです。<br>
+　主催者側は大まかな設定（行事）をしておいて、細かな状況設定や選択肢の決定は、参加者の持ち回り（あるいは、インターバル中に話し合っておく）としておけば、お互いの考えを反映できると思います。<br>
 <br>
-<font color="#ff88cc">�������͈�����[��p�̉^�c�ψ��������Č���Ƃ����̂͂������ł��傤���H<br>
-�����낻����^�c�ψ����ݗ����āA���^�c�ψ������āA�����Ŋ��𐄐i���Ă͂������ł����H</font><br>
+<font color="#ff88cc">＞ここは一つリレー専用の運営委員会を作って見るというのはいかがでしょうか？<br>
+＞そろそろ企画運営委員会を設立して、企画運営委員を募って、そこで企画を推進してはいかがですか？</font><br>
 <br>
-�@�ł́A����̌f���C�x���g���ψ������Ă݂����Ǝv���܂��B<br>
-�@����₳�����́A���̌f���ɖ������グ�邩�A�킽���i�l�n�m�c�n�j�̕��֒��ڃ��[�����Ă��������B<br>
-�@�����̊����͂S���P�Q���i���j�A�Q�S���i�钆�̂P�Q���j�܂łƂ��܂��B<br>
-�@����ł́A��낵�����肢���܂��B</font>
+　では、今回の掲示板イベント企画委員を募ってみたいと思います。<br>
+　立候補される方は、この掲示板に名乗りを上げるか、わたし（ＭＯＮＤＯ）の方へ直接メールしてください。<br>
+　立候補の期日は４月１２日（水）、２４時（夜中の１２時）までとします。<br>
+　それでは、よろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1906]</font> <font size=4 color=#40c0c0> ���u�s'���g���������i���j�v�Ɋւ����āi�Q�j</font>
+<font size=2>[1906]</font> <font size=4 color=#40c0c0> 企画「Ｔ'ｓＨｅａｒｔ（仮）」に関する提案（２）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/05 (��) 21:55:29 <strong>��</strong> �앶�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604053215529&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604053215529"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/05 (水) 21:55:29 <strong>▽</strong> 南文堂 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604053215529_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200604053215529"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���u�s'���g���������i���j�v�Ɋւ����āi�P�j��葱��<br>
+<font size=3 color=#606060>企画「Ｔ'ｓＨｅａｒｔ（仮）」に関する提案（１）より続き<br>
 <br>
-�@����I�Ȃ̂ŉ^�c�������S�ɂȂ�\��������܂����A�^�c�҂��S�l���炢����΁A�ꃖ���Ɉ��̂��d���ōς݂܂��B���Ƃ��A�}�p���ł��Ă����̉^�c�҂�����΁A�t�H���[�������܂��̂Ŗ��Ȃ��ł��傤�B<br>
-�@�܂��A�S�C�x���g���P�N�[���Ƃ������悤�ȋ�؂�����āA�P�N�[�����I��邲�ƂɂQ�T�قǊԂ�u���΂���Ɋy�ɂȂ�܂��B�Q���҂͂��̂Q�T�Ԃœ���p�[�g�������ď������񂾂肵�āA�܂�����Ɗy���ގ����\�ł��B<br>
-�@�C�x���g���e�A�I�����A���ʂȂǂ͂��炩���߂�����x�͗p�ӂ��Ă����΁A�^�c�҂͂����ĖZ�����͂���܂��񂩂�A�f���̊Ď��ɏW���ł��܂��B�Q�T�Ԃ̃C���^�[�o��������΁A�Q���҂�ǎ҂̈ӌ��𕷂��Ă����܂��B��������΁A���̌�̓W�J��C�x���g�̕��������C�����邱�Ƃ͔�r�I�e�ՂŖʓ|�łȂ��ł��傤�B<br>
+　定期的なので運営側が負担になる可能性がありますが、運営者が４人ぐらいいれば、一ヶ月に一回のお仕事で済みます。たとえ、急用ができても他の運営者がいれば、フォローが利きますので問題ないでしょう。<br>
+　また、４イベント＝１クールといったような区切りをして、１クールが終わるごとに２週ほど間を置けばさらに楽になります。参加者はその２週間で日常パートを演じて書き込んだりして、まったりと楽しむ事も可能です。<br>
+　イベント内容、選択肢、結果などはあらかじめある程度は用意しておけば、運営者はさして忙しくはありませんから、掲示板の監視に集中できます。２週間のインターバルをつくれば、参加者や読者の意見を聞いておけます。そうすれば、その後の展開やイベントの方向性も修正することは比較的容易で面倒でないでしょう。<br>
 <br>
-�@�f���͍���������邽�߂ɁA�w�C�x���g���m�x�w�C�x���g�����x�̂Q�ʕK�v�ƂȂ�܂����A�w�C�x���g���m�x�̓I�t�B�V������p�Ȃ̂Ŏ����I�ɊǗ�����̂́w�C�x���g�����x�̈�ʂł��̂ŁA��Ԃ͈�ʂƕς�肠��܂���B<br>
+　掲示板は混乱を避けるために、『イベント告知』『イベント実況』の２面必要となりますが、『イベント告知』はオフィシャル専用なので実質的に管理するのは『イベント実況』の一面ですので、手間は一面と変わりありません。<br>
 <br>
-�@�Q���҂�����I�ɏ������܂Ȃ���΂Ȃ�Ȃ��Ǝv���l�����邩���m��܂��񂪁A�C�x���g��r���A��΂��Ă��x��͂Ȃ��ł��B�����ł͂Ȃ��̂ŁA�I���ɊԂɍ���Ȃ��Ă��A�w�I�����Ȃ��x���w�ω��Ȃ��x�Ƃ������ƂŁA���A�N�V�����ɎQ�����邱�Ƃ͂ł��܂��B�������������ƂȂ̂ŁA�r���Q�����ȒP�ɂł��܂��B<br>
-�@�܂��A�I�����킷�ꂽ���A�w�ω��Ȃ��x�͂��₾�Ƃ����ꍇ�́A�����̃��[�������߂Ă����A�����I�ɑI���������ɂ�����@���ł��܂��B����F�i���̐l�̍Ō�̔����ԍ����I�������j�̗]��{�P�Ȃǁ�<br>
+　参加者が定期的に書き込まなければならないと思う人もいるかも知れませんが、イベントを途中、飛ばしても支障はないです。競争ではないので、選択に間に合わなくても、『選択しない』＝『変化なし』ということで、リアクションに参加することはできます。そういったことなので、途中参加も簡単にできます。<br>
+　また、選択しわすれたが、『変化なし』はいやだという場合は、ある種のルールを決めておき、自動的に選択した事にする方法もできます。＜例：（その人の最後の発言番号÷選択肢数）の余り＋１など＞<br>
 <br>
-�@�Q���ғ��m�̌𗬂��~���ɂ��邽�߁A���҂̃L�����N�^�[�𗍂܂��鎞�͏������݂̃��[���𐧒肵�Ă����B<br>
-�@���҂̃L�����N�^�[�ɌĂт������ꍇ�A�������݂̈�ԏ�Ɂw����������x�ƌĂт������L�����N�^�[���𖾋L���Ă����B��������΁A�������݂��`�F�b�N����ۂ��S����ǂޕK�v�͂Ȃ��A�Ăт����̂������������݂����D��I�ɓǂ߂ΑΉ��ɒx���댯�����Ȃ��Ȃ�܂��i����͂m�o�b�ɂ����Ă������B���̌��͌�q����j�B<br>
-�@�������A�Ăт����ɕK��������K�v�͂Ȃ��B�������Ȃ��Ă��A���݂����Ȃ��Ȃ͓̂��R�̂��ƁB<br>
+　参加者同士の交流を円滑にするため、他者のキャラクターを絡ませる時は書き込みのルールを制定しておく。<br>
+　他者のキャラクターに呼びかけた場合、書き込みの一番上に『＞●●さん』と呼びかけたキャラクター名を明記しておく。そうすれば、書き込みをチェックする際も全部を読む必要はなく、呼びかけのあった書き込みだけ優先的に読めば対応に遅れる危険も少なくなります（これはＮＰＣにおいても同じ。この件は後述する）。<br>
+　もちろん、呼びかけに必ず応じる必要はない。応じられなくても、恨みっこなしなのは当然のこと。<br>
 <br>
-�@�{���҂ɑ΂��Ă��{�����y�ɂ��邽�߂ɁA�w�薼�x�̂������`���Ă����B<br>
-�@�b�̊�_�ƂȂ�ꍇ�i�N���ɍŏ��ɌĂт������肵���ꍇ�j�A�w�i�^�C�g�����j�P�x�ƃi���o�[��U���Ă����B������󂯂��l�͂Q�A�R�c�c�Ə������ݏ��Ƀi���o�[�����Ă������Ƃɂ���B�{������l�͂��̃^�C�g���ƃi���o�[��ǂ��΁A�A�������b��ǂނ��Ƃ��ł���B<br>
-�@�f���̌����@�\���g���Βǂ��̂��y�ɂȂ�܂��i��������̂ɁA�薼�͂P��ȂǃV���v���łȂ����̂ɂ���ƌ������₷���Ȃ�܂����A���̕ӂ͎Q���҂̉{���҂��ӎ����Ă��邩�ǂ����Ɍ����ł��傤�j�B<br>
+　閲覧者に対しても閲覧を楽にするために、『題名』のつけ方を定義しておく。<br>
+　話の基点となる場合（誰かに最初に呼びかけたりした場合）、『（タイトル名）１』とナンバーを振っておく。それを受けた人は２、３……と書き込み順にナンバーをつけていくことにする。閲覧する人はそのタイトルとナンバーを追えば、連続した話を読むことができる。<br>
+　掲示板の検索機能を使えば追うのも楽になります（検索するのに、題名は１語などシンプルでないものにすると検索しやすくなりますが、その辺は参加者の閲覧者を意識しているかどうかに現れるでしょう）。<br>
 <br>
-�@�O�q�����m�o�b�Ɋւ��邱�Ƃł����A�m�o�b�͋��p�̃L�����N�^�[�ł���܂����A���ꂪ�����ɂ������������ɏo�v���Ă͕ςɂȂ�܂��B�����ŎQ���҂��g�p����ۂ́w���i�m�o�b���j�x�Ɩ��L���āA���̏�̎g�p�����咣����K�v������܂��B�D��x�͂킩��₷���悤�ɑ����ҏ����ɂ��Ă����܂��i�P���Ԃقǂ̌덷�łقړ����Ɏg��ꂽ���͎d���Ȃ��̂ŁA�m�o�b�ɕ��g�̏p���g���Ă��炢�܂��j�B<br>
-�@�������ӂ��ė~�����̂́A�����ҏ���������Ƃ����Đ�L���Ȃ����B�����͎Q���҂̃������ɗ���Ƃ���ł��B�m�o�b�̈����Ɋւ��Ă������ł��ˁB���̐l���g���ɂ����悤�Ȃ��Ƃ͂��Ȃ��B�m�o�b�͋��L�̂��̂Ȃ̂ŁA�݂�ȂŒ��ǂ��g���܂��傤�\�\�Ƃ���������O�̎��ł��B<br>
+　前述したＮＰＣに関することですが、ＮＰＣは共用のキャラクターでありますが、それが同時にあっちこっちに出没しては変になります。そこで参加者が使用する際は『＞（ＮＰＣ名）』と明記して、その場の使用権を主張する必要があります。優先度はわかりやすいように早い者勝ちにしておきます（１時間ほどの誤差でほぼ同時に使われた時は仕方ないので、ＮＰＣに分身の術を使ってもらいます）。<br>
+　ただ注意して欲しいのは、早い者勝ちだからといって占有しない事。そこは参加者のモラルに頼るところです。ＮＰＣの扱いに関しても同じですね。他の人が使いにくいようなことはしない。ＮＰＣは共有のものなので、みんなで仲良く使いましょう——という当たり前の事です。<br>
 <br>
-�\�\�ȏ�B<br>
+——以上。<br>
 <br>
-�@�Q���ҁA�ǎҁA�^�c�҂ƎO�҂ɕs�ւ�������������w�O���ꗼ���x�ȃV�X�e���Ȃ̂ŕs�����o��\��������܂����A�������ł��傤���H<br>
+　参加者、読者、運営者と三者に不便さが少しずつある『三方一両損』なシステムなので不満が出る可能性がありますが、いかがでしょうか？<br>
 <br>
-<font color="#ff88cc">���l�n�m�c�n����</font><br>
-�@�قǂ悭�܂Ƃ܂肩���Ă��܂����A�f���ł݂�ȂŘb�������̂������̂ł����A���낻����^�c�ψ����ݗ����āA���^�c�ψ������āA�����Ŋ��𐄐i���Ă͂������ł����H<br>
-�@��������������肪������Ȃ�A���^�c�ɗ���₵�܂��B���͂Ȃ��炨��`���������܂��B<br>
+<font color="#ff88cc">＞ＭＯＮＤＯさん</font><br>
+　ほどよくまとまりかけていますし、掲示板でみんなで話し合うのもいいのですが、そろそろ企画運営委員会を設立して、企画運営委員を募って、そこで企画を推進してはいかがですか？<br>
+　もしそうするつもりがおありなら、企画運営に立候補します。微力ながらお手伝いいたします。<br>
 <br>
 </font>
 </td></table>
@@ -201,201 +201,201 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1905]</font> <font size=4 color=#40c0c0> ���u�s'���g���������i���j�v�Ɋւ����āi�P�j</font>
+<font size=2>[1905]</font> <font size=4 color=#40c0c0> 企画「Ｔ'ｓＨｅａｒｔ（仮）」に関する提案（１）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/05 (��) 21:54:40 <strong>��</strong> �앶�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604053215440&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604053215440"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/05 (水) 21:54:40 <strong>▽</strong> 南文堂 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604053215440_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200604053215440"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�a�`�e����A�l�n�m�c�n����A��������̂��ӌ���q�����āA�����l���Ă݂܂����B<br>
+<font size=3 color=#606060>　ＢＡＦさん、ＭＯＮＤＯさん、無糖さんのご意見を拝見して、私も考えてみました。<br>
 <br>
-�@�f���͂��������܂Ƃ܂������͂���y�Ɍf�ڂł��闘�_������܂����A�������ɂ����Ă̓`���b�g�Ȃǂɔ�ׂď������ʂ������܂��B�������A�f���Ń`���b�g���ɂ��Ƃ肳���Ɖ{������ɂɂȂ�̂ŁA��鑦���������_�Ƃ������Ȃ��͂Ȃ��ł��B<br>
-�@���̗��_���O��̃L���m���{�[���Ŏ���ꂽ���Ƃ������ƓǎҎQ���җ��ꂪ�i�񂾌����Ǝ��͕��͂��Ă��܂��B�f���̃`���b�g��Ԃ�������邽�߂ɁA�����낭�̃}�X�Ƃ������A����̃R�}�Ƃ������A�`�F�b�N�|�C���g�Ƃ����̂����A���ꂪ�i�݂�����̂���������@������̊��V�X�e���̊̂ł���Ƃ������܂��B�i�܂�A�a�`�e����̈�����L�`���A�l�n�m�c�n����̃C�x���g���΂肪����ɂ�����܂��j<br>
-�@�������A���݂łĂ�����ẮA���̃}�X���L���i�����j�Ǝ��͎v���܂��B�����ŁA�����Ə����ȃ}�X�ɂ��鎖���Ă��܂��B<br>
-�@����Ɍ��Ăł̓Q�[���}�X�^�[��K�v�Ƃ��Ă��܂����A�^�c���̓I�t�B�V�����̗��ꂾ�����Ǘ����āA�Q���҂͂��̉��Ńp�[�\�i���ȗV�тɋ�����B����Ȃ�A���R�x�͍����ۂ���A��r�I�Ǘ��͊y�ɂȂ�̂ł͂Ȃ��ł��傤���H<br>
+　掲示板はそこそこまとまった文章を手軽に掲載できる利点がありますが、即時性においてはチャットなどに比べて少し劣る面をもちます。しかし、掲示板でチャット並にやりとりされると閲覧が苦痛になるので、劣る即時性が利点ともいえなくはないです。<br>
+　その利点が前回のキャノンボールで失われたことが混乱と読者参加者離れが進んだ原因と私は分析しています。掲示板のチャット状態を回避するために、すごろくのマスというか、漫画のコマというか、チェックポイントというのを作り、物語が進みすぎるのを回避する手法が今回の企画システムの肝であるとおもいます。（つまり、ＢＡＦさんの一日日記形式、ＭＯＮＤＯさんのイベントしばりがそれにあたります）<br>
+　しかし、現在でている企画案は、そのマスが広い（長い）と私は思います。そこで、もっと小さなマスにする事を提案します。<br>
+　さらに原案ではゲームマスターを必要としていますが、運営側はオフィシャルの流れだけを管理して、参加者はその下でパーソナルな遊びに興じる。これなら、自由度は高く保たれ、比較的管理は楽になるのではないでしょうか？<br>
 <br>
-�@�킩��ɂ����̂ŋ�̓I�ȗ�������܂��B<br>
+　わかりにくいので具体的な例を示します。<br>
 <br>
-�C�x���g�P�F���w��<br>
-���I�t�B�V�����@�I������<br>
-�@���߂łƂ��������܂��B���Ȃ��͂s�r�w���ɓ��w���܂����B�����͂��̓��w���B���ꂩ��̊w���������ǂ����y����ł��������B<br>
-�@���āA���Ȃ��͓��w���̉��ɓ���܂����B�Ȃ͎��R�ɍ����Ă����悤�ł��B���Ȃ��͂ǂ��ɍ���܂����H<br>
-�P�j�E���@�Q�j�����@�R�j�����@�S�j�d��<br>
-���Q���ҁ@�A�N�V������<br>
-�@���́i�����j�Ƃ����킯�ŁA�E���ɍ��鎖�ɂȂ����B<br>
-���I�t�B�V�����@�I�����ʁ�<br>
-�P�j�E����I�������l�B�j���͂s�r���܂��B�����͂��̂܂܂ł��B<br>
-�Q�j������I�������l�B�j���͂��̂܂܁B�����͂s�r���܂��B<br>
-�R�j������I�������l�B�ω��Ȃ��B<br>
-�S�j�d���I�������l�B���U���I��n����āA���k���␶�Ƃ��ē������ɂȂ�܂����B<br>
-���Q���ҁ@���A�N�V������<br>
-�@�ǂ��������Ƃ��H�@����̐g�̂��ˑR�i�ȉ����j�B<br>
+イベント１：入学式<br>
+＜オフィシャル　選択肢＞<br>
+　おめでとうございます。あなたはＴＳ学園に入学しました。今日はその入学式。これからの学園生活をどうぞ楽しんでください。<br>
+　さて、あなたは入学式の会場に入りました。席は自由に座っていいようです。あなたはどこに座りますか？<br>
+１）右側　２）左側　３）中央　４）壇上<br>
+＜参加者　アクション＞<br>
+　俺は（中略）というわけで、右側に座る事になった。<br>
+＜オフィシャル　選択結果＞<br>
+１）右側を選択した人。男性はＴＳします。女性はそのままです。<br>
+２）左側を選択した人。男性はそのまま。女性はＴＳします。<br>
+３）中央を選択した人。変化なし。<br>
+４）壇上を選択した人。ロザリオを渡されて、生徒会候補生として働く事になりました。<br>
+＜参加者　リアクション＞<br>
+　どういうことだ？　おれの身体が突然（以下略）。<br>
 <br>
-�C�x���g�Q�F�N���X����<br>
-�\�\�i�ȉ����j�\�\<br>
+イベント２：クラス分け<br>
+——（以下略）——<br>
 <br>
-�@���̂悤�Ɂ\�\<br>
-���I�t�B�V�����@�I������<br>
-���Q���ҁ@�A�N�V������<br>
-���I�t�B�V�����@�I�����ʁ�<br>
-���Q���ҁ@���A�N�V������<br>
-�@�Ƃ�����؂���͂�����Ƃ��Ă����B������������ɂ���΁A�Q�����鑤���y�ɂȂ�Ǝv���܂��B<br>
-�@�Ⴆ�΁A���j����Ɂ��I���������\�A�ؗj����Ɂ��I�����ʁ����\�Ƃ�������ɂ���΁A���ΐ��؂̊ԂɁ��A�N�V��������I���A���y���Ɂ����A�N�V���������������߂΂悭�Ȃ�܂��B<br>
+　このように——<br>
+＜オフィシャル　選択肢＞<br>
+＜参加者　アクション＞<br>
+＜オフィシャル　選択結果＞<br>
+＜参加者　リアクション＞<br>
+　という区切りをはっきりとしておく。これを一定周期にすれば、参加する側も楽になると思います。<br>
+　例えば、日曜日夜に＜選択肢＞発表、木曜日夜に＜選択結果＞発表といった具合にすれば、月火水木の間に＜アクション＞を選択、金土日に＜リアクション＞を書き込めばよくなります。<br>
 <br>
-�i�Q�j�ɑ���</font>
+（２）に続く</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1904]</font> <font size=4 color=#40c0c0> Re:�����܂ōl���Ă��܂��B</font>
+<font size=2>[1904]</font> <font size=4 color=#40c0c0> Re:ここまで考えています。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/05 (��) 15:26:38 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604053152638&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604053152638"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/05 (水) 15:26:38 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604053152638_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200604053152638"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">����������<br>
-���l�n�m�c�n����</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞無糖さん<br>
+＞ＭＯＮＤＯさん</font><br>
 <br>
-<font color="#ff88cc">�������Ƃɂ��Ă݂Ă͂������ł��傤���B<br>
-�����t�⌎�łȂ��A�u�w�Z�s���v���ƂƂ����̂͂ǂ��ł��傤���H</font><br>
+<font color="#ff88cc">＞月ごとにしてみてはいかがでしょうか。<br>
+＞日付や月でなく、「学校行事」ごとというのはどうでしょうか？</font><br>
 <br>
-�l�I�Ɍ����܂��Ɠ��ɂ���������̂́A���l�^�����邽�ߔ���₷�����낤�Ǝv�������ƂƁA���ƒZ�߂Ŏ�y�ɏ����邩�Ǝv�������Ƃł����B���Ȃ݂ɑ��f���ٍ̐�A�u���肠�邢�͑��o���v�͖^�������[���̍�i�ƂȂ��Ă���܂��B�ꉞ�Q�l�܂łɁB<br>
-������i�Ƃ��Ă݂�Ȃ�w�Z�s���P�ʂ�������������܂���ˁB�C�x���g���W�����錎������܂�����ˁB<br>
+僕的に言いますと日にこだわったのは、元ネタがあるため判りやすいだろうと思ったことと、割と短めで手軽に書けるかと思ったことでした。ちなみに第二掲示板の拙作、「無題あるいは蔵出し」は某所リレー時の作品となっております。一応参考までに。<br>
+ただ作品としてみるなら学校行事単位がいいかもしれませんね。イベントが集中する月もありますからね。<br>
 <br>
-�Ƃ���ŁA��Îҁi�f�l�j�͂ǂ����܂��H���ɂł���ȏ�A�^�c�ψ��̕���������܂��񂪁A�����͈�����[��p�̉^�c�ψ��������Č���Ƃ����̂͂������ł��傤���H<br>
-���ɂ̉^�c�ψ��̕�W������݂����Ȃ�ŁA���̂����������˂Ă݂������������Γ񒹂���Ȃ��ł����ˁH</font>
+ところで、主催者（ＧＭ）はどうします？文庫である以上、運営委員の方かもしれませんが、ここは一つリレー専用の運営委員会を作って見るというのはいかがでしょうか？<br>
+文庫の運営委員の募集もあるみたいなんで、そのお試しも兼ねてみたいだったら一石二鳥じゃないですかね？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1903]</font> <font size=4 color=#40c0c0> �����܂ōl���Ă��܂��B</font>
+<font size=2>[1903]</font> <font size=4 color=#40c0c0> ここまで考えています。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/03 (��) 23:10:25 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604031231025&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604031231025"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/03 (月) 23:10:25 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604031231025_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200604031231025"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���l���Q���^�f�������[�����u�s'���g���������i���j�v<br>
+<font size=3 color=#606060>多人数参加型掲示板リレー小説「Ｔ'ｓＨｅａｒｔ（仮）」<br>
 <br>
-�P�D�C�x���g�̎�|<br>
-�@�ˋ�̒�����эZ�𕑑�Ƃ����A�s�r���������̓���i�H�j�Ƃӂꂠ����`���������[�����B<br>
-�@����͌��݁i�ɋߖ����j�B�ǂ��ɂł�����悤�ȕ��ʂ̎����Z�B<br>
-�@�������ǂ������킯���A���q���k�̒��ɉ��l���s�r�������������Ă����肷��c�c<br>
+１．イベントの主旨<br>
+　架空の中高一貫校を舞台とした、ＴＳっ娘たちの日常（？）とふれあいを描いたリレー小説。<br>
+　舞台は現在（極近未来）。どこにでもあるような普通の私立校。<br>
+　ただしどういうわけか、女子生徒の中に何人もＴＳっ娘が混じっていたりする……<br>
 <br>
-�Q�D�C�x���g�̊T�v<br>
-�@�Q���ҁi�ȉ��v���C���[�j���ݒ肵���L�����N�^�[�i�v���C���[�L�����N�^�[�A�ȉ��o�b�j�ƁA���炩���ߘb�������Đݒ肵�Ă��������ʎg�p�L�����N�^�[�i�m���v���C���[�L�����N�^�[�A�ȉ��m�o�b�j�̂��Ƃ���������b�����ŕ`�ʂ��A�����W�J���Ă����B<br>
-�@�C�x���g�J�n�����ɐݒ肵���m�o�b�i�ȉ��A���C���m�o�b�j���ꉞ�́u��l���v�Ƃ������ƂɂȂ邪�A��ς͂o�b���ł��m�o�b���ł��n�j�B��l�́A�O�l�̂����Ȃ��B<br>
-�@�������W�J�ɉ����Ăo�b���m�����ŕ����i�߂���A�e���Ƃ��Ă̂m�o�b��V���ɒǉ����邱�Ƃ��\�ł���B<br>
+２．イベントの概要<br>
+　参加者（以下プレイヤー）が設定したキャラクター（プレイヤーキャラクター、以下ＰＣ）と、あらかじめ話し合って設定しておいた共通使用キャラクター（ノンプレイヤーキャラクター、以下ＮＰＣ）のやりとりを小説や会話文等で描写し、物語を展開していく。<br>
+　イベント開始当初に設定したＮＰＣ（以下、メインＮＰＣ）が一応の「主人公」ということになるが、主観はＰＣ側でもＮＰＣ側でもＯＫ。一人称、三人称も問わない。<br>
+　もちろん展開に応じてＰＣ同士だけで物語を進めたり、脇役としてのＮＰＣを新たに追加することも可能である。<br>
 <br>
-�R�D�C�x���g�̓W�J<br>
-�@�ŏ��Ɏ�Îҁi�Q�[���}�X�^�[�A�ȉ��f�l�j���A���C���ƂȂ�w�Z�s���ƃ��C���m�o�b�̏󋵁i�X�^�[�g���̈ʒu�j�𔭕\����B<br>
-�@�v���C���[�͂�����󂯂Ċe�X�̂o�b�̍s�����l���ď������݂�����B�܂��A���̎Q���҂̏������݂��󂯂āA�������l���ď������ށB<br>
-�@�����i�߂���ԁi�ȉ��A�Z�b�V�����j�͂R���`�P�T�ԁB<br>
-�@���̌�A�P�`�Q�����̏[�d���ԁi�ȉ��A�C���^�[�o���j��u���A�f�l�ƃv���C���[�͂��̊ԂɎ���́u�s���v�Ə󋵂̐ݒ��b�������Č��肵�Ă����B<br>
-�@���z��ǉ��̐ݒ�A�A�C�f�A��v�]�Ȃǂ����̊Ԃɏ�������ł��炤�B<br>
+３．イベントの展開<br>
+　最初に主催者（ゲームマスター、以下ＧＭ）が、メインとなる学校行事とメインＮＰＣの状況（スタート時の位置）を発表する。<br>
+　プレイヤーはそれを受けて各々のＰＣの行動を考えて書き込みをする。また、他の参加者の書き込みを受けて、続きを考えて書き込む。<br>
+　物語を進める期間（以下、セッション）は３日〜１週間。<br>
+　その後、１〜２ヵ月の充電期間（以下、インターバル）を置き、ＧＭとプレイヤーはその間に次回の「行事」と状況の設定を話し合って決定しておく。<br>
+　感想や追加の設定、アイデアや要望などもこの間に書き込んでもらう。<br>
 <br>
-�|�u�s���v�̗�|<br>
-�@���b�@�c�@���w���A�n�Ǝ��i�g�q�j�A�N���u���U�ł̗l�q<br>
-�@���b�@�c�@��w���̂�����̕��ی�̗l�q<br>
-�@��O�b�@�c�@�ċx�݁A�T�}�[�L�����v�ł̗l�q<br>
-�@��l�b�i�ŏI�b�j�@�c�@�����Ղł̗l�q<br>
+−「行事」の例−<br>
+　第一話　…　入学式、始業式（ＨＲ）、クラブ勧誘での様子<br>
+　第二話　…　一学期のある日の放課後の様子<br>
+　第三話　…　夏休み、サマーキャンプでの様子<br>
+　第四話（最終話）　…　文化祭での様子<br>
 <br>
-�S�D�o�b�̃L�������C�N<br>
-�i�܂�����j</font>
+４．ＰＣのキャラメイク<br>
+（まだ未定）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1902]</font> <font size=4 color=#40c0c0> Re:�f���C�x���g���݂�ȂŊ�悵�Ă݂�B</font>
+<font size=2>[1902]</font> <font size=4 color=#40c0c0> Re:掲示板イベントをみんなで企画してみる。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/03 (��) 23:09:12 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604031230912&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604031230912"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/03 (月) 23:09:12 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604031230912_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200604031230912"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�l�n�m�c�n�ł��B���Ԏ��x���Ȃ��Đ\���󂠂�܂���B<br>
+<font size=3 color=#606060>ＭＯＮＤＯです。お返事遅くなって申し訳ありません。<br>
 <br>
-<font color="#ff88cc">�����������΂��Ȃ����̂���C�x���g�͂ǂ��Ȃ�����ł��������A�Ɠ˂����݂����B</font><br>
+<font color="#ff88cc">＞そういえばこないだのお題イベントはどうなったんでしたっけ、と突っ込みを入れつつ。</font><br>
 <br>
-�@�c�c�c�c�i���j�B<br>
-�@��������ł����������u�s�r��엘�v�̂������́A���L�̃y�[�W�ɂ܂Ƃ߂Ă���܂��B<br>
+　…………（汗）。<br>
+　書き込んでいただいた「ＴＳ大喜利」のお答えは、下記のページにまとめてあります。<br>
 <br>
-�@<a href=http://ts.novels.jp/novel/200112/20210702/oh_giri.htm target=_top>http://ts.novels.jp/novel/200112/20210702/oh_giri.htm</a><br>
+　<a href="../../novel/200112/20210702/oh_giri.htm" target=_top>http://ts.novels.jp/novel/200112/20210702/oh_giri.htm</a><br>
 <br>
-�@���ǂ��̃C�x���g���A���̊Ԃɂ������Ă����Ă��܂��܂����i�܁j�B<br>
-�@��͂�閲����̂��w�E�̂悤�ɁA�C�x���g�̊J�n�E�I�������𖾊m�ɂ��Ă����ׂ��ł����ˁB<br>
+　結局このイベントも、いつの間にか消えていってしまいました（涙）。<br>
+　やはり夜夢さんのご指摘のように、イベントの開始・終了時期を明確にしておくべきでしたね。<br>
 <br>
-<font color="#ff88cc">����������<br>
-��BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�����Ƃɂ��Ă݂Ă͂������ł��傤���B<br>
-�������ăX���b�h���f���𗘗p�ł���̂ł�����A��l�������N��l�ɒu���̂ł͂Ȃ��A<br>
-�������𓯎��i�s�ł���悤�ɂ���Ƃ����̂͂ǂ��ł��傤�B</font><br>
+<font color="#ff88cc">＞無糖さん<br>
+＞BAFさん案では、カレンダーを用意して日付ごとに行動を書き込むということでしたが、月ごとにしてみてはいかがでしょうか。<br>
+＞そしてスレッド式掲示板を利用できるのでしたら、主人公を少年一人に置くのではなく、<br>
+＞複数を同時進行できるようにするというのはどうでしょう。</font><br>
 <br>
-�@�X���b�h�f���̗��p�́A���̂Ƃ���l���Ă��܂���B<br>
-�@�����A��l���𕡐��p�ӂ���Ƃ����A�C�f�A�͂悢�ł��ˁB<br>
-�@�e�X�Ɨ������b�ɂ��Ȃ��Ă��A�u������̍�������ł́c�c�v�ł����邩�Ǝv���܂��B<br>
+　スレッド掲示板の利用は、今のところ考えていません。<br>
+　ただ、主人公を複数用意するというアイデアはよいですね。<br>
+　各々独立した話にしなくても、「一方その頃こちらでは……」でいけるかと思います。<br>
 <br>
-�@���ƁA���t�⌎�łȂ��A�u�w�Z�s���v���ƂƂ����̂͂ǂ��ł��傤���H<br>
+　あと、日付や月でなく、「学校行事」ごとというのはどうでしょうか？<br>
 <br>
-<font color="#ff88cc">�����̂悤�ɉ���c�ɐ��E���L���Ă����A�ŏI�I�ɂ������̃X�g�[���[������������̂�ړI�Ƃ���̂͂������ł��傤�B<br>
-�����������`���ł���΁A�r���Ńt�@���^�W�[�����������I�@�Ƃ������l���Q���\�ł����A<br>
-���i���NA�̓������̌�������C�N�́A�Z���̂�����A�ˑR�Ɉِ��E�ɏ�������Ă��܂����I�j</font><br>
+<font color="#ff88cc">＞このように横や縦に世界を広げていき、最終的にいくつものストーリーを完成させるのを目的とするのはいかがでしょう。<br>
+＞こういう形式であれば、途中でファンタジーを書きたい！　とかいう人も参加可能ですし、<br>
+＞（少年Aの同級生の剣道部のC君は、六月のある日、突然に異世界に召喚されてしまった！）</font><br>
 <br>
-�@�킽���Ƃ��ẮA���܂萢�E�ς��L���Ă����͎̂^���ł��܂���B<br>
-�@����̊��́A�u���ʂ̕���ŕ����̂s�r�����̂��b���W�J���Ă����v�ƍl���Ă���̂ł����B<br>
-�@�����Ȃ�ِ��E�c�c�Ƃ�����Ă��܂�����A�܂��u�Ȃ�ł�����v���Ǝv����Q���҂��o�Ă��邩�Ǝv���܂����B<br>
+　わたしとしては、あまり世界観を広げていくのは賛成できません。<br>
+　今回の企画は、「共通の舞台で複数のＴＳっ娘のお話が展開していく」と考えているのですが。<br>
+　いきなり異世界……とかやってしまったら、また「なんでもあり」だと思われる参加者が出てくるかと思いますし。<br>
 <br>
-<font color="#ff88cc">���a�`�e����</font><br>
+<font color="#ff88cc">＞ＢＡＦさん</font><br>
 <br>
-<font color="#ff88cc">�����Q�D�u����\�́v�͂m�f�Ƃ���B<br>
-������Ŋ��S�ɂm�f�Ƃ��Ă��܂��ƁA���@�����Ƃ��z���S�Ƃ��H��Ƃ����m�f�ɂȂ��Ă��܂��܂���ˁB���������̂͂ǂ����܂��傤�H</font><br>
+<font color="#ff88cc">＞＞２．「超常能力」はＮＧとする。<br>
+＞これで完全にＮＧとしてしまうと、魔法少女とか吸血鬼とか幽霊とかもＮＧになってしまいますよね。こういうのはどうしましょう？</font><br>
 <br>
-�@�u�s�r�L���m���{�[���v�Ŗ��@�n�̃L��������Z�i�H�j�����߂��Ĉꕔ�̎Q���҂̕����g�����āh���܂�ꂽ�̂��A����ς�C�����Ɉ����������Ă��܂��i���������āA�C�݉����ɓˑR���q�Z���o�������Ƃ��͂ǂ����悤���Ǝv�����c�c�΁j�B<br>
-�@������u����\�͂m�f�v�Ƃ����̂ł����A�����܂ł��킽���l�̈ӌ��Ȃ̂ŁA�Ȃɂ������A�C�f�A������Ώo���Ă����Ăق����ł��B<br>
-�@�u�i�\�͂��j�g���񐔂𐧌�����v�Ƃ��A�u�L�����N�^�[�쐬���ɁA�ꗗ�\����i�\�͂��j�I�ԁv�Ƃ��A�u�_������I�Ȕ\�́i������L�𐶂ݏo���A��u�Œn�`��ς���A���ʗ���ߋ��̏o������ς���A�Ȃǁj��A���l�̋L���̏��������A�W�c�s�r���m�f�ɂ���v�Ƃ����l�����̂ł����c�c<br>
+　「ＴＳキャノンボール」で魔法系のキャラが大技（？）をやり過ぎて一部の参加者の方が“引いて”しまわれたのが、やっぱり気持ちに引っかかっています（正直言って、海岸沿いに突然女子校が出現したときはどうしようかと思った……笑）。<br>
+　だから「超常能力ＮＧ」としたのですが、あくまでもわたし個人の意見なので、なにかいいアイデアがあれば出していってほしいです。<br>
+　「（能力を）使う回数を制限する」とか、「キャラクター作成時に、一覧表から（能力を）選ぶ」とか、「神がかり的な能力（無から有を生み出す、一瞬で地形を変える、因果律や過去の出来事を変える、など）や、他人の記憶の書き換え、集団ＴＳをＮＧにする」とかも考えたのですが……<br>
 <br>
-<font color="#ff88cc">�����łɁA���K�p�y�b�g�o��Ƃ��́A�l�n�m�c�n����I�ɂ͂ǂ��Ȃ�ł��傤�H</font><br>
+<font color="#ff88cc">＞ついでに、メガパペット登場とかは、ＭＯＮＤＯさん的にはどうなんでしょう？</font><br>
 <br>
-�@�g���Ă���������ƍ�Җ����ɐs����̂ł����A�ق��̂��ꂱ����m�f�ɂ��Ă����Ď����̂����n�j�Ƃ����̂͂�����Ȃ�ł��}�X���߂���̂ŁA���K�p�y�b�g���m�f���ƍl���Ă��܂����B</font>
+　使っていただけると作者冥利に尽きるのですが、ほかのあれこれをＮＧにしておいて自分のだけＯＫというのはいくらなんでも図々し過ぎるので、メガパペットもＮＧだと考えていました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1901]</font> <font size=4 color=#40c0c0> �f���C�x���g�A�C�f�A��������ǉ�</font>
+<font size=2>[1901]</font> <font size=4 color=#40c0c0> 掲示板イベントアイデアを私も一つ追加</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/02 (��) 00:40:10 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604020004010&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604020004010"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/02 (日) 00:40:10 <strong>▽</strong> 無糖 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604020004010_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200604020004010"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������΂��Ȃ����̂���C�x���g�͂ǂ��Ȃ�����ł��������A�Ɠ˂����݂����B<br>
+<font size=3 color=#606060>そういえばこないだのお題イベントはどうなったんでしたっけ、と突っ込みを入れつつ。<br>
 <br>
-BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�����Ƃɂ��Ă݂Ă͂������ł��傤���B�����ăX���b�h���f���𗘗p�ł���̂ł�����A��l�������N��l�ɒu���̂ł͂Ȃ��A�����𓯎��i�s�ł���悤�ɂ���Ƃ����̂͂ǂ��ł��傤�B<br>
+BAFさん案では、カレンダーを用意して日付ごとに行動を書き込むということでしたが、月ごとにしてみてはいかがでしょうか。そしてスレッド式掲示板を利用できるのでしたら、主人公を少年一人に置くのではなく、複数を同時進行できるようにするというのはどうでしょう。<br>
 <br>
-���̏ꍇ�̃��[���Ƃ��āA<br>
-�P�A��̒Z�҂͈ꃖ�����ނɂ���B�������Ԃ͖��������ւ݂̂����i�߂Ȃ�<br>
-�Q�A������҂��A�������b���������Ƃ��ł��Ȃ��B�i��҂`���ꌎ�̘b����������A�\�񌎂Ɠ񌎂̘b�͏����Ȃ��j<br>
-�R�A�b�̒��ł̊��Ԃ͈�N�B�l���ɊJ�n���A�O���ɏI���B�܂�\��b���z�����炻�̃L�����N�^�[����l���̘b�͕��󂳂��B<br>
-�S�A�����i�s�\�Ȏ�l�����𐧌��B�O�`�ܐl���炢���K���H<br>
-�T�A�אڂ���b�ɏo�Ă���L�����N�^�[���ݒ��K������߂Ȃ��Ă͂Ȃ�Ȃ�<br>
+その場合のルールとして、<br>
+１、一つの短編は一ヶ月を題材にする。原則時間は未来方向へのみしか進めない<br>
+２、同じ作者が連続した話を書くことができない。（作者Ａが一月の話を書いたら、十二月と二月の話は書けない）<br>
+３、話の中での期間は一年。四月に開始し、三月に終了。つまり十二話を越えたらそのキャラクターが主人公の話は封印される。<br>
+４、同時進行可能な主人公数を制限。三〜五人くらいが適当？<br>
+５、隣接する話に出てくるキャラクターか設定を必ず一つ絡めなくてはならない<br>
 <br>
-�܂����o���Ƃ���Ȋ����ł��B<br>
-�ŏ��ABAF���񂪏��NA����l���Ƃ����l���̕���𓊍e����B�i���w�ATS����B�Ƃ̏o��Ȃǁj<br>
-�����ő��̎Q���҂ł���MONDO����Ǝ����A���NA��l���̌܌��̘b�A��������TS����B����l���Ƃ����l���̘b�������B<br>
-���̂悤�ɉ���c�ɐ��E���L���Ă����A�ŏI�I�ɂ������̃X�g�[���[������������̂�ړI�Ƃ���̂͂������ł��傤�B<br>
-���������`���ł���΁A�r���Ńt�@���^�W�[�����������I�@�Ƃ������l���Q���\�ł����A<br>
-�i���NA�̓������̌�������C�N�́A�Z���̂�����A�ˑR�Ɉِ��E�ɏ�������Ă��܂����I�j<br>
-�N�����\�����Ă��O���C�����邱�Ƃ��ȒP�Ȃ̂ł͂Ȃ��ł��傤���B<br>
-�iC�N�͎����̂�����A�ڊo�߂�Ɖ������̊w���ɖ߂��Ă����B�����A�ڂ̑O�ɂ͗����Ԃ̏��N�������͂���TS����D���I�H�j<br>
+つまり例を出すとこんな感じです。<br>
+最初、BAFさんが少年Aを主人公とした四月の物語を投稿する。（入学、TSっ娘Bとの出会いなど）<br>
+そこで他の参加者であるMONDOさんと私が、少年A主人公の五月の話、もしくはTSっ娘Bを主人公とした四月の話を書く。<br>
+このように横や縦に世界を広げていき、最終的にいくつものストーリーを完成させるのを目的とするのはいかがでしょう。<br>
+こういう形式であれば、途中でファンタジーを書きたい！　とかいう人も参加可能ですし、<br>
+（少年Aの同級生の剣道部のC君は、六月のある日、突然に異世界に召喚されてしまった！）<br>
+誰かが暴走しても軌道修正することが簡単なのではないでしょうか。<br>
+（C君は七月のある日、目覚めると懐かしの学園に戻っていた。だが、目の前には旅仲間の少年だったはずのTSっ娘Dが！？）<br>
 <br>
 </font>
 </td></table>
@@ -404,57 +404,57 @@ BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1900]</font> <font size=4 color=#40c0c0> Re:�f���C�x���g���݂�ȂŊ�悵�Ă݂�B </font>
+<font size=2>[1900]</font> <font size=4 color=#40c0c0> Re:掲示板イベントをみんなで企画してみる。 </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/01 (�y) 01:57:13 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604016015713&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604016015713"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/01 (土) 01:57:13 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604016015713_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200604016015713"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���l�n�m�c�n����</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞ＭＯＮＤＯさん</font><br>
 <br>
-�T�˂���Ă͓I���˂Đ������Ǝv���̂ł����A<br>
+概ねご提案は的を射て正しいと思うのですが、<br>
 <br>
-<font color="#ff88cc">���Q�D�u����\�́v�͂m�f�Ƃ���B</font><br>
+<font color="#ff88cc">＞２．「超常能力」はＮＧとする。</font><br>
 <br>
-����Ŋ��S�ɂm�f�Ƃ��Ă��܂��ƁA���@�����Ƃ��z���S�Ƃ��H��Ƃ����m�f�ɂȂ��Ă��܂��܂���ˁB���������̂͂ǂ����܂��傤�H<br>
-���łɁA���K�p�y�b�g�o��Ƃ��́A�l�n�m�c�n����I�ɂ͂ǂ��Ȃ�ł��傤�H</font>
+これで完全にＮＧとしてしまうと、魔法少女とか吸血鬼とか幽霊とかもＮＧになってしまいますよね。こういうのはどうしましょう？<br>
+ついでに、メガパペット登場とかは、ＭＯＮＤＯさん的にはどうなんでしょう？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1899]</font> <font size=4 color=#40c0c0> �f���C�x���g���݂�ȂŊ�悵�Ă݂�B</font>
+<font size=2>[1899]</font> <font size=4 color=#40c0c0> 掲示板イベントをみんなで企画してみる。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/03/30 (��) 22:48:15 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200603304224815&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200603304224815"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/03/30 (木) 22:48:15 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200603304224815_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200603304224815"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B<br>
-�@���߂āA���̃}���`�i�C�x���g�j�f���ł����Ȃ��������݃C�x���g���A�a�`�e����̒�Ă��x�[�X�ɂ��āA�݂�ȂŊ�悵�Ă݂܂��񂩁H<br>
-�@�a�`�e����̈āu�s���n�[�g�i���j�v�́A<br>
+<font size=3 color=#606060>　ＭＯＮＤＯです。<br>
+　改めて、このマルチ（イベント）掲示板でおこなう書き込みイベントを、ＢＡＦさんの提案をベースにして、みんなで企画してみませんか？<br>
+　ＢＡＦさんの案「Ｔｓハート（仮）」は、<br>
 <br>
-<a href=http://www.novels.jp/~ts/bbs/index.cgi?log=data2 target=_top>http://www.novels.jp/~ts/bbs/index.cgi?log=data2</a><br>
+<a href="../bbs/index@log_data2.cgi" target=_top>http://www.novels.jp/~ts/bbs/index.cgi?log=data2</a><br>
 <br>
-�@�ɏ������܂�Ă��܂��̂ŁA���Q�l�ɂ��Ă��������B<br>
+　に書き込まれていますので、ご参考にしてください。<br>
 <br>
-�@�킽������̒�āc�c�Ƃ������A���̂Ƃ���̍l���́A<br>
+　わたしからの提案……というか、今のところの考えは、<br>
 <br>
-�P�D�u���Ɂv���o�̃L�����N�^�[�͎g�킸�A�C�x���g�p�̃I���W�i���L���������[���ɂ̂��Ƃ��č쐬���Ďg���B<br>
-�@�ȑO�ɂ��\���܂������A�L�����N�^�[���C�L���O�̒i�K�ł�����x�́u����v��݂��Ă����΁A�X�g�[���[���E��������A�ꕔ�̃L�����������ˏo�i�\���j�����肷�邱�Ƃ͂Ȃ����Ǝv���܂��B<br>
+１．「文庫」既出のキャラクターは使わず、イベント用のオリジナルキャラをルールにのっとって作成して使う。<br>
+　以前にも申しましたが、キャラクターメイキングの段階である程度の「縛り」を設けておけば、ストーリーが脱線したり、一部のキャラだけが突出（暴走）したりすることはないかと思います。<br>
 <br>
-�Q�D�u����\�́v�͂m�f�Ƃ���B<br>
-�@������P�Ɠ����ŁA���@�A���\�́A�I�[�o�[�e�N�m���W�[�₻���ɗނ�����̂��A�s�r�i�ِ��ω��j�̌�������i�ȊO�Ŏg���i�L�����N�^�[���g�\�́h�Ƃ��čs�g����j���Ƃ��ւ��Ă����΁A�������������Ȃ��Ƃ͂ł��Ȃ����ƁB<br>
-�@���Ƃ��Ƃs�r�����̑��ݎ��̂��[���u����v�I�ł����A�u�قȂ鐫�ʂɒu���ꂽ��l�����˘f������A�Y�񂾂�A����ꓬ������A�i�ω������������j���₵����󂯓��ꂽ�肷��v�Ƃ������_�ɗ����Ԃ��Ă݂�̂��������Ǝv���܂��B<br>
+２．「超常能力」はＮＧとする。<br>
+　これも１と同じで、魔法、超能力、オーバーテクノロジーやそれらに類するものを、ＴＳ（異性変化）の原因＆手段以外で使う（キャラクターが“能力”として行使する）ことを禁じておけば、そうそう無茶なことはできないかと。<br>
+　もともとＴＳっ娘の存在自体が充分「超常」的ですし、「異なる性別に置かれた主人公が戸惑ったり、悩んだり、悪戦苦闘したり、（変化した自分を）拒絶したり受け入れたりする」という原点に立ち返ってみるのもいいかと思います。<br>
 <br>
-�R�D�X�g�[���[��i�߂���Ԃ�Z������B<br>
-�@�u�s�r�L���m���{�[���v���s�̌����̂ЂƂɁA�u���Ԃ����߂����v�Ƃ������Ƃ�����Ǝv���܂��B�����ŁA����͂R���`�P�T�Ԃقǂ̊��ԂŃX�g�[���[��i�߁A���̂��ƂP�`�Q�����قǃC���^�[�o����݂��A�܂��X�g�[���[��i�߁c�c�Ƃ����`�ł���Ă݂Ă͂ǂ��ł��傤���H<br>
-�@�C���^�[�o�����Ɋ��z�┽�ȁA�e��ݒ�̌�������ǉ���A����̕���i�󋵁j�����肷�邱�Ƃ��ł��邩�Ǝv���܂��B<br>
+３．ストーリーを進める期間を短くする。<br>
+　「ＴＳキャノンボール」失敗の原因のひとつに、「期間が長過ぎた」ということがあると思います。そこで、今回は３日〜１週間ほどの期間でストーリーを進め、そのあと１〜２ヵ月ほどインターバルを設け、またストーリーを進め……という形でやってみてはどうでしょうか？<br>
+　インターバル中に感想や反省、各種設定の見直しや追加や、次回の舞台（状況）を決定することができるかと思います。<br>
 <br>
-�@����オ���Ă�����A���{�w��Z�c�c���Ƃ��A���Ă������Ǝv���܂��̂ŁA�܂��͂��낢��A�C�f�A�������Ă݂Ă��������B<br>
-�@��낵�����肢���܂��B</font>
+　盛り上がってきたら、実施指定校……もとい、していこうと思いますので、まずはいろいろアイデアをだしてみてください。<br>
+　よろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
@@ -464,16 +464,16 @@ BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�
 <font size=2>[1898]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/03/29 (��) 16:38:24 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200603293163824&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200603293163824"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/03/29 (水) 16:38:24 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200603293163824_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200603293163824"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���l�n�m�c�n����</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞ＭＯＮＤＯさん</font><br>
 <br>
-���C�ɂȂ��炸�ɁB������̎v��������Ȃ����������̂��Ƃł��B�t�Ɏӂ��Ă��܂��Ƌ��k���Ă��܂��܂��B<br>
+お気になさらずに。こちらの思慮が足りなかっただけのことです。逆に謝られてしまうと恐縮してしまいます。<br>
 <br>
-�������A�����������ł��ˁB�l�n�m�c�n����͊y�������ƌ����Ă��������܂��������̕��X�͂ǂ��v���Ă��������Ă���̂��B�܂����N�����Ă��Ȃ��ƌ������Ƃ̓i�C�g�v���܂����B���߂āA�ǂ��Ƃ����������ł��\�����Ă���������΁A�܂��l����]�n�������ł����ǂˁB<br>
-�܂��܂��F�X�l�^�͂����ł������̂܂ܓ˂������Ă����̂��킩��Ȃ��͕̂s���ł��ˁB<br>
+しかし、反応が薄いですね。ＭＯＮＤＯさんは楽しそうと言ってくださいましたが他の方々はどう思ってくださっているのやら。まさか誰も見ていないと言うことはナイト思いますが。せめて、良いとか悪いだけでも表明していただければ、まだ考える余地もあるんですけどね。<br>
+まだまだ色々ネタはあるんですがこのまま突っ走っていいのかわからないのは不安ですね。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -481,18 +481,18 @@ BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1855]</font> <font size=4 color=#40c0c0> �d�g�d������A�⑫���肪�Ƃ��������܂��B</font>
+<font size=2>[1855]</font> <font size=4 color=#40c0c0> 電波妖精さん、補足ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/19 (��) 22:07:25 <strong>��</strong> ���ނ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510193220725&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510193220725"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/19 (水) 22:07:25 <strong>▽</strong> あむぁい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510193220725_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200510193220725"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̕Ό���������܂��񂪁A�ǂ������{���y���쌠�����͒��쌠���g����߂�������X�������󂯂��A�L�ۂ݂ɂ���̂͂ǂ����Ǝv���Ă���܂��B<br>
+<font size=3 color=#606060>私の偏見かもしれませんが、どうも日本音楽著作権協会さんは著作権を拡大解釈したがる傾向が見受けられ、鵜呑みにするのはどうかと思っております。<br>
 <br>
-�����A�������̂g�o�Ŏ��̃��X�N�őւ��̂����̂͂������炸�A�悻�l�̂g�o�ŕs���葽���̐l�����X�N�𖾎����Ȃ��܂܂ɑւ��̑��ɗU���͕̂s�K�؂ł��������Ǝv���Ď�艺���̂��肢�������̂ł��B<br>
+ただ、私が私のＨＰで私のリスクで替え歌をやるのはいざしらず、よそ様のＨＰで不特定多数の人をリスクを明示しないままに替え歌大会に誘うのは不適切であったかと思って取り下げのお願いをしたのです。<br>
 <br>
-�ق�Ƃɖ@���͓���ł��˂��B�����g�o�����悤�ɂȂ��āA���쌠�Ƃ킢���߂Ɋւ��Ă͂�����҂�ڂ����Ȃ�܂�����B����A�������������@�͊댯�Ȃ̂ł����B<br>
+ほんとに法律は難しいですねぇ。私もＨＰを作るようになって、著作権とわいせつ罪に関してはちょっぴり詳しくなりましたよ。いや、そういう生兵法は危険なのですが。<br>
 <br>
 <a href=http://okashi.blog6.fc2.com/blog-entry-576.html target=_top>http://okashi.blog6.fc2.com/blog-entry-576.html</a></font>
 <p><a href="http://okashi.blog6.fc2.com/" target="_top">http://okashi.blog6.fc2.com/</a>
@@ -502,49 +502,49 @@ BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1854]</font> <font size=4 color=#40c0c0> �ւ��̂ɂ���</font>
+<font size=2>[1854]</font> <font size=4 color=#40c0c0> 替え歌について</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/15 (�y) 04:10:51 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510156041051&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510156041051"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/15 (土) 04:10:51 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510156041051_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200510156041051"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���a�Z��N�܌��O�Z����񏬖@�씻���ɂ���<br>
-�w�p���f�C�Ƃ́u���|��i�̈�`���ŁA�L���ȕ��|��i�̕��̂�������A���邢�́A�C���𓥏P���āA���̌���i�̓��e�Ƃ͈ق���e�̂��̂Ƃ��āA����i�𒃉����A���邢�͕��h������i�������B���y�ɂ�����ւ��̂��A�p���f�C�Ɠ��l�Ȑ��i�̂��̂ł���v�i���쌠��������ҁw���쌠���T�x�񔪋�Łj�Ƃ������Ƃł���x<br>
-�ƌ����Ă���܂��B<br>
+<font size=3 color=#606060>昭和六一年五月三〇日第二小法廷判決によれば<br>
+『パロデイとは「文芸作品の一形式で、有名な文芸作品の文体をもじり、あるいは、韻律を踏襲して、その原作品の内容とは異る内容のものとして、原作品を茶化し、あるいは風刺した作品をいう。音楽における替え歌も、パロデイと同様な性格のものである」（著作権資料協会編『著作権事典』二八九頁）ということである』<br>
+と言っております。<br>
 <br>
-����ɁA���ꐫ�ێ����ɂ��Ă�<br>
+さらに、同一性保持権については<br>
 <br>
-�u���앨�̒���҂ɓ��ꐫ�ێ������������Ă���̂́A�����앨�����ς��ė��p�����ꍇ�A���̗��p�ɂ�āA�����앨�����p���ꂽ�Ƃ���̂��̂ł��邱�Ƃ�z������Ȃ������߁v<br>
+「著作物の著作者に同一性保持権をあたえているのは、原著作物を改変して利用した場合、その利用によつて、原著作物が利用されたとおりのものであることを想像されないがため」<br>
 <br>
-�������ł��B<br>
-�v����ɁA���p�Ɖ��ς��ւ��̖̂��ł����āA���̉��ς������̕������A���̑f�ނ̖��Ȃ񂾂Ƃق��̐l�Ɍ������Ȃ����߂ɓ��ꐫ�ێ�����������Ă��Ƃ������B<br>
+だそうです。<br>
+要するに、引用と改変が替え歌の味であって、その改変した味の部分を、元の素材の味なんだとほかの人に誤解されないために同一性保持権があるってことかしらん。<br>
 <br>
-(�L�[`;�j�O�@�ӂ��ށB���G���B<br>
+(´ー`;）＾　ふぅむ。複雑だ。<br>
 <br>
-���̔����͂Ȃɂ��̃p���f�B�ʐ^�����ɂȂ������Ⴞ���ǁA���̒��őւ��̂ɂ��Ă��q�ׂĂ���܂��B�܁A���낢��ƕ��G�������ȗv��������ł���܂����ǁA�Ƃ肠�������l�^���킩���āA���m�Ƀp���f�B���Ƃ킩��΁A�Ƃ肠�������͂Ȃ����B���l�^�\�L����ƈ��S�����オ�肻���B<br>
-�@���̖����āA���������A���S���Ƃ������m���_�Ƃ����������������f�����ł��Ȃ����Ƃ������ł��ˁB('A`:)�O�ł��ł��B</font>
+この判決はなにかのパロディ写真が問題になった事例だけど、その中で替え歌についても述べております。ま、いろいろと複雑かつ微妙な要件が並んでおりますけど、とりあえず元ネタがわかって、明確にパロディだとわかれば、とりあえず問題はなさげ。元ネタ表記すると安全率が上がりそう。<br>
+法律の問題って、けっこう、安全率というか確率論というかそういう判断しかできないことが多いですね。('A`:)＾であであ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1853]</font> <font size=4 color=#40c0c0> [1820] �C�x���g�ł����[�B�ɂ��܂���</font>
+<font size=2>[1853]</font> <font size=4 color=#40c0c0> [1820] イベントですかー。につきまして</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/10/13 (��) 21:36:00 <strong>��</strong> ���ނ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200510134213600&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200510134213600"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/10/13 (木) 21:36:00 <strong>▽</strong> あむぁい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200510134213600_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200510134213600"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����΂�́B�����������Ă܂��B<br>
-[1820]�ɂăC�x���g�Ă̈�Ƃ��đւ��̑����Ă����Ē����܂������A���{���y���쌠�����́A�ւ��̂Ɋւ��Ē��쌠�@��Q�O���̓��ꐫ�ێ����̐N�Q�ł���ƌ��������������Ă����鎖���킩��܂����B<br>
+<font size=3 color=#606060>こんばんは。ご無沙汰してます。<br>
+[1820]にてイベント案の一つとして替え歌大会を提案させて頂きましたが、日本音楽著作権協会さんは、替え歌に関して著作権法第２０条の同一性保持権の侵害であると言う見解を持っておられる事がわかりました。<br>
 <br>
 <a href=http://www.cric.or.jp/qa/sigoto/sigoto9_qa.html target=_top>http://www.cric.or.jp/qa/sigoto/sigoto9_qa.html</a><br>
 <br>
-�{���ɐN�Q�ɂȂ邩�ǂ����͂����������ׂĂ݂Ȃ��ƕ�����Ȃ��̂ł����A��肠�����񍐂����Ē����܂��B���\���W���[�ȎG������ł��ւ��̂Ƃ�����Ă���̂ł����A�@�I�ɂ͍��A�������̓O���[�]�[���Ȃ̂�������܂���B���}�����񍐂܂ŁB<br>
+本当に侵害になるかどうかはもう少し調べてみないと分からないのですが、取りあえず報告させて頂きます。結構メジャーな雑誌さんでも替え歌とかやっているのですが、法的には黒、もしくはグレーゾーンなのかもしれません。取り急ぎご報告まで。<br>
 <br>
-�ł͂ł́A���������@�s�r��엘�@�����y���݂��������B</font>
+ではでは、引き続き　ＴＳ大喜利　をお楽しみください。</font>
 <p><a href="http://okashi.blog6.fc2.com/" target="_top">http://okashi.blog6.fc2.com/</a>
 </td></table>
 </td></tr></table>
@@ -552,16 +552,16 @@ BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1852]</font> <font size=4 color=#40c0c0> (�ЁE�ցE)��</font>
+<font size=2>[1852]</font> <font size=4 color=#40c0c0> (σ・ω・)σ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/27 (��) 00:14:46 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509272001446&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509272001446"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/27 (火) 00:14:46 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509272001446_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200509272001446"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>2000�˔j���܂����ˁ�<br>
-���������������ł��ˁO�O�G<br>
-���͉����܂��L���m���{�[���Ƃ�����Ă݂Ă������������ł��ˁ[�B</font>
+<font size=3 color=#606060>2000突破しましたね♪<br>
+凄い勢いだったですね＾＾；<br>
+私は何かまたキャノンボールとかやってみていただきたいですねー。</font>
 <p><a href="http://www.geocities.jp/fantasydreamsjp/index.html" target="_top">http://www.geocities.jp/fantasydreamsjp/index.html</a>
 </td></table>
 </td></tr></table>
@@ -569,16 +569,16 @@ BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1851]</font> <font size=4 color=#40c0c0> �s�r�M�l�X�u�b�N�ł���</font>
+<font size=2>[1851]</font> <font size=4 color=#40c0c0> ＴＳギネスブックですね</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/26 (��) 01:53:26 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509261015326&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509261015326"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/26 (月) 01:53:26 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509261015326_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200509261015326"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; ��Ԓ����V���[�Y</font><br>
-�@����́u�ؑタ���v�Ō���ł��傤�B<br>
-�@���e�������ׂ�΂��������肻���ł����A���̑��͒��������̂�������ς���Ȃ��ł����H����Ƃ��A�M�l�X�Ɠ��������ȁi�H�j�\���{�F��������ȁH���ꂾ�����猋�\�\��������܂���ˁB</font>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 一番長いシリーズ</font><br>
+　これは「華代ちゃん」で決定でしょう。<br>
+　投稿数も調べればすぐ分かりそうですが、その他は調査がものすごく大変じゃないですか？それとも、ギネスと同じく自己（？）申告＋認定方式かな？それだったら結構可能かもしれませんね。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
@@ -586,55 +586,55 @@ BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1850]</font> <font size=4 color=#40c0c0> ����Ȃ̂͂ǂ��ł��傤</font>
+<font size=2>[1850]</font> <font size=4 color=#40c0c0> こんなのはどうでしょう</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/24 (�y) 22:10:43 <strong>��</strong> �R���@���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509246221043&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509246221043"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/24 (土) 22:10:43 <strong>▽</strong> 山口　多聞 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509246221043_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200509246221043"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���܂ł̍�i�̃M�l�X���܂Ƃ߂�<br>
-��@���e���ATS�������񐔁A�o��l�����A��Ԓ����V���[�Y<br>
+<font size=3 color=#606060>　今までの作品のギネスをまとめる<br>
+例　投稿数、TSさせた回数、登場人物数、一番長いシリーズ<br>
 <br>
-���肫���肩�H</font>
+ありきたりか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1849]</font> <font size=4 color=#40c0c0> Re:�\����</font>
+<font size=2>[1849]</font> <font size=4 color=#40c0c0> Re:表彰式</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/20 (��) 01:39:45 <strong>��</strong> ���遗Team�@Clane </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509202013945&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509202013945"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/20 (火) 01:39:45 <strong>▽</strong> 加夜＠Team　Clane </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509202013945_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200509202013945"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ł��A�݂�Ȋ��ł܂�����B�ł��グ�ł͂Ȃ��������߂������Ă�̂�<br>
-���āA����オ��܂����B<br>
+<font size=3 color=#606060>でも、みんな喜んでましたよ。打ち上げではなぜか安来節をしってるのが<br>
+いて、盛り上がりました。<br>
 <br>
-�� ��ށ��s�������@�b�������� ����<br>
-<font color="#cc88ff">&gt; ��ʂQ�`�[���i���V���w���h�q���A�~�X�g���X�E�h���[���E�`�[���j�̕\�����I���A�Ō�̕\���ƂȂ����s�������@�b���������̓�l�B<br>
-&gt; ���j���̊����A�A���A�̓��̏�ɔ킹���A�Δ�̊֌W�ő傫�߂Ɍ�����g���t�B�[�́A�A���T�̗��̎�̒��Ɏ��܂����B</font><br>
+▼ 鈴奈＠Ｔｅａｍ　Ｃｅｌｎａ さん<br>
+<font color="#cc88ff">&gt; 上位２チーム（高天原学園防衛隊、ミストレス・ドリーム・チーム）の表彰を終え、最後の表彰となったＴｅａｍ　Ｃｅｌｎａの二人。<br>
+&gt; 月桂樹の冠が、アリアの頭の上に被せられ、対比の関係で大きめに見えるトロフィーは、アリサの両の手の中に収まった。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �R�l�̏��̎q�����i�A�[�e�B�A�C���A�ʑ������j���A���䂵���˂��V�����p���V�����[���A�h�q���̕��ɔ��ł����̂��݂āc<br>
-&gt; �A���A�F�i�A���T�A��ނ���ɁA�i�V�����p���̌��j����������Ă����H�i�ɂ���j�j<br>
-&gt; �A���T�F�i�����A�o�l�Ȃ�B�i�ɂ���j�j<br>
-&gt; �A���A�F�i����A������B�j<br>
-&gt; �ȂƂƂ����������������Ă���Ƃ́A�S�R�m��Ȃ���ꖼ�ɂ��̌�~���ė���ߌ��H�i�{�l�ȊO�͊쌀�j�͂����Č��܂��c</font><br>
+<font color="#cc88ff">&gt; ３人の女の子たち（アーティ、辰美、玉藻ちゃん）が、制御し損ねたシャンパンシャワーが、防衛隊の方に飛んでいくのをみて…<br>
+&gt; アリア：（アリサ、鈴奈さんに、（シャンパンの口）向けちゃっていい？（にたり））<br>
+&gt; アリサ：（ええ、姉様なら。（にたり））<br>
+&gt; アリア：（じゃ、いくよ。）<br>
+&gt; なとという事を言い合っているとは、全然知らない約一名にこの後降って来る悲劇？（本人以外は喜劇）はあえて語るまい…</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �\�\�\�\�\�\<br>
-&gt; �Y���B<br>
-&gt; �Ƃ����킯�ŁA���܂��X�g�[���[�������ɏo�Ă��܂����B</font><br>
+<font color="#cc88ff">&gt; ——————<br>
+&gt; 戯言。<br>
+&gt; というわけで、おまけストーリーを書きに出てきました。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; ���ő��s�r���������<br>
-&gt; ����̓I�J���g�����ȁH�s�r�n����S�����񂾂񂾂���i�΁j</font></font>
+<font color="#cc88ff">&gt; ＞最多ＴＳさせられ大賞<br>
+&gt; これはオカルト部かな？ＴＳ地雷を全部踏んだんだから（笑）</font></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="21">
 <input type=hidden name="log" value="jiten">
@@ -642,16 +642,16 @@ BAF����Ăł́A�J�����_�[��p�ӂ��ē��t���Ƃɍs�����������ނƂ������Ƃł������A�
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="jiten">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=jiten">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_jiten.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

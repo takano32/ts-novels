@@ -151,7 +151,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】クーデターの最中、刹那に燃え上がる王女と護衛官の悲恋…………だが、そうは問屋がおろさないのだ（笑）。<br>
-<a href=http://ts.novels.jp/novel/200112/11103513/ruberia.html target=_top>http://ts.novels.jp/novel/200112/11103513/ruberia.html</a></font>
+<a href="../../novel/200112/11103513/ruberia.html" target=_top>http://ts.novels.jp/novel/200112/11103513/ruberia.html</a></font>
 </td></table>
 </td></tr></table>
 

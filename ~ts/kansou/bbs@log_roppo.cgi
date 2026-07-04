@@ -188,7 +188,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】思案の六ぽさんの初投稿作品は、暗い雰囲気が残る初期「必殺」シリーズの匂いがする時代劇です（？）。<br>
-<a href=http://ts.novels.jp/novel/200512/15212430/teo.htm target=_top>http://ts.novels.jp/novel/200512/15212430/teo.htm</a></font>
+<a href="../../novel/200512/15212430/teo.htm" target=_top>http://ts.novels.jp/novel/200512/15212430/teo.htm</a></font>
 </td></table>
 </td></tr></table>
 

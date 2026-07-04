@@ -1,67 +1,67 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�_�P�E��З�(���䂮�ǂ炵��)����@���z�f����</title>
+<title>神姫・緋威羅(旧ゆぐどらしる)さん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�_�P�E��З�(���䂮�ǂ炵��)����@���z�f����</font>
+<font size=5>神姫・緋威羅(旧ゆぐどらしる)さん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yggdrasil">
 <input type=hidden name="nj" value="VYvf0xaaUD">
 <input type=hidden name="res" value="169">
-<h4 align=center>�� �L���ԍ� 169 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 169 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �o���b�g����
-&gt; �@�]�m���͔ނȂ�ɂ����X�g�[���[���C�J�[���I�@�ނ͐푈�Łc�c�����I�@�n���[������D���Ă��N�B�f�B�b�`������I
-&gt; �@�Z���ڂ̃R�[�q�[���D���A�ƌ����_�ł́A�g���X�e�B�A�̎�l���w�i�m�J�x�Ǝ�������o���b�g�ł��i�o�r�Q�o�[�W�������������j�B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ バレットさん
+&gt; 　江ノ島は彼なりにいいストーリーメイカーだ！　彼は戦争で……合掌！　ハリーから杖を奪ってもクィディッチがある！
+&gt; 　濃い目のコーヒーが好き、と言う点では、トリスティアの主人公『ナノカ』と趣味が合うバレットです（ＰＳ２バージョン買いたい）。
 &gt; 
-&gt; �����[�X�Q�[��
-&gt; �@�D���̓Q�[�����ł��Ȃ����ƂȂǕS�����m�b�I�@������A�D���͈����̃v���C�h�ɂ����āu�悩�낤�v�ƌ����Ă��܂����̂��B�����āA�u�����L�����A�M�l���I�v�B
+&gt; ＞レースゲーム
+&gt; 　優未はゲームができないことなど百も承知ッ！　だから、優未は悪魔のプライドにかけて「よかろう」と言ってしまったのだ。そして、「洒落臭いぞ、貴様ぁ！」。
 &gt; 
-&gt; ����͋���
-&gt; �@�����A�Ȃ�قǁB���̗[�����ɂ́A�������Ƃ���G�����c�c�@�Ƃ܂ł͍s���Ȃ�����ǁA�]�m���Ƌ����|�l�ƑΓ��Ɍ��������Ă���B���ꂩ�����Ƃ��āi���Z���Ƃ��Ă��j����΂�I
+&gt; ＞母は強し
+&gt; 　ああ、なるほど。今の夕ちゃんには、向かうところ敵無し……　とまでは行かないけれど、江ノ島と金髪芸人と対等に言い合っている。これからも母として（高校生としても）がんばれ！
 &gt; 
-&gt; �������������b��ɏo���O�p�֌W�i�\�j
-&gt; �@�[�����l���]�m���I�@�O�p�֌W�̏o���オ��I�@�L�߂���w�Z�V���̃X�N�[�v����I�@��΂Ƀo�����܂���A�l�Ɛ_�P���񂾂��̔閧���Ă��ƂŁB�i��
+&gt; ＞いつだったか話題に出た三角関係（噂）
+&gt; 　夕△藍斗△江ノ島！　三角関係の出来上がり！　広めたら学校新聞のスクープ決定！　絶対にバラしません、僕と神姫さんだけの秘密ってことで。（何
 &gt; 
-&gt; �����̊Ԃɂ��ł��Ă����^�C�g��
-&gt; �@�C�t���񂩂����I�@���l�͂��̕��̃��j�o�b�O�i�v�j���v���[���g���Ă�����̂��Ə���ɖϑz�B���ꂩ��͂����ƃA�N�Z�X���₷���Ȃ�킯�ŁB
+&gt; ＞いつの間にかできていたタイトル
+&gt; 　気付かんかった！　藍斗はあの柄のワニバッグ（革）をプレゼントしてあげるのかと勝手に妄想。これからはもっとアクセスしやすくなるわけで。
 &gt; 
-&gt; ���o���b�g�̋ߋ�
-&gt; �@�G���^�̐_�l�A���̑����΂��ԑg�����āA�����Ȃ�̂��΂����\�z���B���ɁA�܂���܂���i���ׁj�A�I���G���^�����W�I�A�g���z��A�q���V�A�������Ђ���c�c�@�������A��ԉ����́A���˂������I�@�������A���΂��E�F�C���ϋl�߂ĕ��L���x������Ă���Γ_�I�@���ɉ̊ۂ���D���������̂ɁA�ǂ����Ďi��ɉ����������񂾂x�n�I
-&gt; �@�Y��Ă��A�w������I�@���̐l����D�����I
-&gt; �@�g���ƃq���V�͂����ߋ��̐l���c�c
-&gt; �@�ł��ˁB
-&gt; �@�ł������ǂˁB
-&gt; �@���΂��u�[���������Ă��X�p�ł��΂��X�g���[�g���C�u�����邩�A
-&gt; �@���̗��s�ɗ�����ăp�����i�Ă����āI�I�@�W���ς�j�ɗ�ނ��ǂ�����
-&gt; 
-&gt; 
-&gt; �@���R�����������������������I
+&gt; ＞バレットの近況
+&gt; 　エンタの神様、その他お笑い番組を見て、自分なりのお笑いを構築中。特に、まちゃまちゃ（魔邪）、オリエンタルラジオ、波多陽区、ヒロシ、だいたひかる……　もちろん、一番押しは、桜塚やっくん！　もちろん、お笑いウェイを煮詰めて幅広く支持されている笑点！　特に歌丸さん好きだったのに、どうして司会に回っちゃったんだＹＯ！
+&gt; 　忘れてた、陣内さん！　この人も大好きだ！
+&gt; 　波多とヒロシはもう過去の人か……
+&gt; 　でもね。
+&gt; 　でもだけどね。
+&gt; 　お笑いブームが去っても街角でお笑いストリートライブをするか、
+&gt; 　次の流行に流されてパン作り（焼きたて！！　ジャぱん）に励むかどうかは
 &gt; 
 &gt; 
-&gt; �@����ł́B</textarea><br>
+&gt; 　自由だああぁぁぁぁぁぁあっ！
+&gt; 
+&gt; 
+&gt; 　それでは。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 76oL26  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="76oL26"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 76oL26  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="76oL26"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -74,23 +74,23 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[183]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> Re:�����u���A��v�ƌ����Č}���悤�B</font>
+<font size=2>[183]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> Re:いつか「お帰り」と言って迎えよう。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/16 (�y) 09:49:06 <strong>��</strong> <a href="mailto:starwars12ship@yahoo.co.jp">�_�P�E��З��i���񂫁E�Ђ���j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609166094906&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609166094906"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/16 (土) 09:49:06 <strong>▽</strong> <a href="mailto:starwars12ship@yahoo.co.jp">神姫・緋威羅（しんき・ひいら）</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609166094906_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200609166094906"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �o���b�g����<br>
-�@�{���ɂ������z�����������ėL��������܂��B<br>
-�@����͎�����̍ŏI��Ƃ������Ƃł����A�������Ă����������݂����ł��ˁB�ǂ������ł��B���e�I�ɂ͂��������Z�������Ă��������Ǝv���܂������A������ЂƂ̌`�Ƃ������Ƃł�߂Ƃ��܂����B<br>
+<font size=3 color=#606060>▼ バレットさん<br>
+　本当にいつも感想をくださって有り難う御座います。<br>
+　今回は事実上の最終回ということですが、感動していただけたみたいですね。良かったです。内容的にはもう少し濃く書いてもいいかと思いましたが、これもひとつの形ということでやめときました。<br>
 <br>
-<font color="#ff88cc">�������ċC�ɂȂ�̂́A���C�ɂƂ�ꂽ�܂܂̔���Ƃ݂̂�ȂƁA�d�ǂ������Z���������N���������G�̂��ꂩ��B</font><br>
-�@�����ł��ˁB���̏I�͂ł͂�����`�������Ǝv���̂ł����A���Ă��āA�����܂Ŏ���͗[�ƗD���Ȃ̂ŕ\�����ďo�Ă��邩�ǂ����͕�����܂���B�o���邾�����������Ǝv���܂��B<br>
+<font color="#ff88cc">＞そして気になるのは、呆気にとられたままの樋口家のみんなと、重症だった兄をたたき起こした美絵のそれから。</font><br>
+　そうですね。次の終章ではそれらを描きたいと思うのですが、さてさて、あくまで主役は夕と優未なので表だって出てくるかどうかは分かりません。出来るだけ書きたいと思います。<br>
 <br>
-�@�I�͂͏�����ł�����������x���Ȃ�������܂���B�u�܂����v�ƌ����Ă��d������܂��񂪁A�ǂ����䗝�����������B<br>
+　終章は諸事情でもしかしたら遅くなるやもしれません。「またか」と言われても仕方ありませんが、どうか御理解ください。<br>
 <br>
-�@�ł́A���x�����ŏI��ł��B�C�𒷂����đ҂��Ă��炦����K���ł��B</font>
+　では、今度こそ最終回です。気を長くして待ってもらえたら幸いです。</font>
 <p><a href="http://www.geocities.jp/starwars12ship/" target="_top">http://www.geocities.jp/starwars12ship/</a>
 </td></table>
 </td></tr></table>
@@ -98,70 +98,70 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[182]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �����u���A��v�ƌ����Č}���悤�B</font>
+<font size=2>[182]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> いつか「お帰り」と言って迎えよう。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/15 (��) 01:33:26 <strong>��</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">�o���b�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609155013326&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609155013326"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/15 (金) 01:33:26 <strong>▽</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">バレット</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609155013326_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200609155013326"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����b�ł����B<br>
-�@�o���b�g�ł��B<br>
+<font size=3 color=#606060>　いい話でした。<br>
+　バレットです。<br>
 <br>
-�@�D���������邱�Ƃ�m���āA���������݂�Ȃ́A���ɗ[�����͋������ł��傤�B�����āA���̎������瓦���悤�Ɣ�яo���āA�₯�ɂȂ��ĕs�ǂɂ��Ă����āA���l��ꡐ��ɏ������āB�ł��A�����ƗD���̂��Ƃɖ߂��Ă������̂́A���炢���I<br>
-�@���̂��ƁA�����|�l�Ƌs�߂��q���N�A���̂������āc�c�@����ς�[�����̔g���͂��ꂩ������������B<br>
+　優未が消えることを知って、さぞかしみんなは、特に夕ちゃんは驚いたでしょう。そして、その事実から逃げようと飛び出して、やけになって不良についていって、藍斗と遙星に助けられて。でも、ちゃんと優未のもとに戻ってあげたのは、えらいぞ！<br>
+　そのあと、金髪芸人と虐めっ子少年、あのやり取りって……　やっぱり夕ちゃんの波乱はこれからも続きそう。<br>
 <br>
-�@�����āA�[�����ƗD���̗V���n�^�C���B�����ȃA�g���N�V�����ɏ���āA�����ŁA�����������̂�H�ׂāA��ꂫ���āB�Ō�ɂ͖{���ɕ�e�������D�����ł����B<br>
-�@���͐�΂ɕ�����Ȃ��ł��傤�ˁA�[����񂪉��̂��̂悤�ȍs���ɏo���̂����B����Ƃ݂̂�Ȃɂ͗₽���ԓx��������߂��A�Ō�ɂ͂���Ȃɂ��ꂵ�������c���Ă����Ȃ�āB<br>
+　そして、夕ちゃんと優未の遊園地タイム。いろんなアトラクションに乗って、騒いで、おいしいものを食べて、疲れきって。最後には本当に母親だった優ちゃんでした。<br>
+　蒼は絶対に分からないでしょうね、夕ちゃんが何故あのような行動に出たのかを。樋口家のみんなには冷たい態度だった苓那も、最後にはあんなにうれしい声を残してくれるなんて。<br>
 <br>
-�@�����ċC�ɂȂ�̂́A���C�ɂƂ�ꂽ�܂܂̔���Ƃ݂̂�ȂƁA�d�ǂ������Z���������N���������G�̂��ꂩ��B���ɓ����B���z�����I����āA�D�������Ȃ��Ȃ������A�����O�܂ŌZ�������o���ǂ����Ă�����ł��傤���B<br>
-�@�������A���l��ꡐ��̂��ꂩ�����ϋC�ɂȂ�܂���B<br>
+　そして気になるのは、呆気にとられたままの樋口家のみんなと、重症だった兄をたたき起こした美絵のそれから。特に灯次。引越しが終わって、優未がいなくなった今、少し前まで兄だった姉をどう見ていくんでしょうか。<br>
+　もちろん、藍斗と遙星のそれからも大変気になりますよ。<br>
 <br>
-�@����͂ƂĂ������I�Șb�ł����B�ʂ�͂炢���ǁA���܂ł��ꏏ���������A���ꂩ����ꏏ�Ȃ񂾁B�����āA�N�ɂ��K����^�����Ȃ������ƗD���͌������ǁA�D������������݂�ȏΊ�ɂȂꂽ���A�o��܂ŋs�߂����q�������[�������Ί�ɂȂꂽ�B�Ί炱���A�D�����v���[���g���Ă��ꂽ�K���Ȃ�ł��ˁB<br>
+　今回はとても感動的な話でした。別れはつらいけど、今までも一緒だったし、これからも一緒なんだ。そして、誰にも幸せを与えられなかったと優未は言うけど、優未がいたからみんな笑顔になれたし、出会うまで虐められっ子だった夕ちゃんも笑顔になれた。笑顔こそ、優未がプレゼントしてくれた幸せなんですね。<br>
 <br>
-�@���͂Ƃ�����A�w�g���@�����@�������������I�x�A���������l�c�c�@�̌��t�͂��Ə����������ł��ˁB�ŏI�͂�҂��Ă��܂��B<br>
-�@�����ėD���ɁB�K�������肪�Ƃ��I</font>
+　何はともあれ、『Ｈｅ　ｉｓ　ｍｏｔｈｅｒ！』、完結お疲れ様……　の言葉はあと少し早そうですね。最終章を待っています。<br>
+　そして優未に。幸せをありがとう！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[181]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> He is mother! ���́w�����Ă�����Ⴂ�x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[181]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> He is mother! 第九章『いってらっしゃい』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/14 (��) 02:23:30 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609144022330&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609144022330"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/14 (木) 02:23:30 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609144022330_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200609144022330"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�v�킸�����o�������Ȃ�قǂ̐h�������B�ł��A�h���̂͂����Ǝ�����������Ȃ��B<br>
+<font size=3 color=#606060>【推薦文】思わず逃げ出したくなるほどの辛い現実。でも、辛いのはきっと自分だけじゃない。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;10.html target=_top>http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;10.html</a></font>
+<a href="../../novel/200502/01114354/he_is_mother_10.html" target=_top>http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;10.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[180]</font> <font size=4 color=#40c0c0> Re:�q�ǂ������܂���</font>
+<font size=2>[180]</font> <font size=4 color=#40c0c0> Re:拝読いたしました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/26 (�y) 21:12:39 <strong>��</strong> <a href="mailto:starwars12ship@yahoo.co.jp">�_�P�E��З��i���񂫁E�Ђ���j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608266211239&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608266211239"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/26 (土) 21:12:39 <strong>▽</strong> <a href="mailto:starwars12ship@yahoo.co.jp">神姫・緋威羅（しんき・ひいら）</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608266211239_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200608266211239"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���肩�i�m���<br>
-�@���Z���������z�������Ă��������āA�L��������܂��B<br>
-<font color="#ff88cc">���󋵂�������₷���Տꊴ������ʔ����ǂ܂��Ē����܂����B</font><br>
-�@�����ł������I�H�@�ǂ������ł��B�퓬�V�[����`�������Ƃ͂��܂�Ȃ��Ƃ������A��������ڂ��Ȃ��Ă����̂ň��S���܂����B��i�K���x�����オ�����Ƃ������Ƃł��傤���B�オ���Ă��炢���Ȃ��c�c�B<br>
+<font size=3 color=#606060>▼ きりか進ノ介さん<br>
+　お忙しい中感想を書いていただいて、有り難う御座います。<br>
+<font color="#ff88cc">＞状況も分かりやすく臨場感もあり面白く読ませて頂きました。</font><br>
+　そうでしたか！？　良かったです。戦闘シーンを描いたことはあまりないというか、いつもしょぼくなっていたので安心しました。一段階レベルが上がったということでしょうか。上がってたらいいなぁ……。<br>
 <br>
-<font color="#ff88cc">������̊|���������f���炵���ł��B</font><br>
-�@�����A����̊|�������������̂���Ԋy�����ł��B��������Ԏ��R�ɏ�����̂Ŋy�ł����ˁB�����͂���ł�����ł�����ǁA����ς肿���Ƃ����Ƃ�����A�킴�Ƃ炵���\����A�Â肷�����`�ʂ����邱�ƂȂ�������悤�ɂ��Ȃ��Ƃ����Ȃ��ł��ˁB�����ꂪ�䖳���ł����c�c�B<br>
+<font color="#ff88cc">＞日常の掛け合いが素晴らしいです。</font><br>
+　私も、日常の掛け合いを書くのが一番楽しいです。そこが一番自然に書けるので楽ですしね。そこはそれでいいんですけれど、やっぱりちゃんとしたところを、わざとらしい表現や、凝りすぎた描写をすることなく書けるようにしないといけないですね。見せ場が台無しですし……。<br>
 <br>
-<font color="#ff88cc">�����񂪂܂�������y���݂ł��B</font><br>
-�@�����ɂ����āA�����Ă܂����A�Ƃ����̂����̕W��ɂȂ��Ă�����c�c�B�ꉞ�����Ƃ��܂�����ǁA��t�ݒ�ł͂Ȃ��ł���I�H�@�^�ʖڂɁB<br>
+<font color="#ff88cc">＞次回がまた今から楽しみです。</font><br>
+　小説において、一難去ってまた一難、というのが私の標語になっていたり……。一応言っときますけれど、後付設定ではないですよ！？　真面目に。<br>
 <br>
-�@��k�͂��Ă����B���Ƃ��������ł��̂��b�������ł��B�Ō�܂ł��t������������������Ǝv���܂��B</font>
+　冗談はさておき。あともう少しでこのお話も完結です。最後までお付き合いいただけたらと思います。</font>
 <p><a href="http://www.geocities.jp/starwars12ship/" target="_top">http://www.geocities.jp/starwars12ship/</a>
 </td></table>
 </td></tr></table>
@@ -169,23 +169,23 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[179]</font> <font size=4 color=#40c0c0> �q�ǂ������܂���</font>
+<font size=2>[179]</font> <font size=4 color=#40c0c0> 拝読いたしました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/25 (��) 13:52:16 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608255135216&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608255135216"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/25 (金) 13:52:16 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608255135216_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200608255135216"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���z���������Ԃ��Ȃ��Ȃ���ꂸ�x���Ȃ��Ă��܂��܂����B������y�����ǂ܂��Ē����܂����B<br>
+<font size=3 color=#606060>　感想を書く時間がなかなか取れず遅くなってしましました。今回も楽しく読ませて頂きました。<br>
 <br>
-<font color="#ff88cc">���o�g���V�[��</font><br>
-�@������n�[�h�ł����ˁB���Ƃ��Ə����ڂ̂Ȃ����܂ɓ˂�����ł�������ł�����y���Ȑ킢�ɂȂ�͂��͂Ȃ��̂ł�����ǁB�}�Ivs���l��ꡐ��A��vs��߁A�����Ĕ���t�@�~���[�̉���A�ƃo�g���R�{���āA�󋵂�������₷���Տꊴ������ʔ����ǂ܂��Ē����܂����B���ʊo������߂����l�̃��m���[�O�͏󋵂��炷��ƒ�����ł����ǁA���̎q�̎v�l�͊y�����̂Ŏ��͓ǂނ̂���D���ł��B<br>
+<font color="#ff88cc">＞バトルシーン</font><br>
+　今回もハードでしたね。もともと勝ち目のない喧嘩に突っ込んでいった訳ですから楽勝な戦いになるはずはないのですけれど。党紀vs藍斗と遙星、蒼vs苓那、そして樋口ファミリーの介入、とバトル３本立て、状況も分かりやすく臨場感もあり面白く読ませて頂きました。死ぬ覚悟を決めた藍斗のモノローグは状況からすると長いんですけど、この子の思考は楽しいので私は読むのが大好きです。<br>
 <br>
-<font color="#ff88cc">���ł�����ς�</font><br>
-�@����̊|���������f���炵���ł��B�o�g���̍Œ��ɂ����l��ꡐ��ł���Ă܂������ǁB�[�Ɨ��l�A�[�ƌ��j�A���j���Ďq�A��[�ǂ�������������ł��ˁB<br>
+<font color="#ff88cc">＞でもやっぱり</font><br>
+　日常の掛け合いが素晴らしいです。バトルの最中にも藍斗と遙星でやってましたけど。夕と藍斗、夕と光男、光男と翔子、んーどれもすごくいいですね。<br>
 <br>
-<font color="#ff88cc">���Ō�̈�s</font><br>
-�@���񂪂܂�������y���݂ł��B���M�撣���Ă��������܂��B</font>
+<font color="#ff88cc">＞最後の一行</font><br>
+　次回がまた今から楽しみです。執筆頑張ってくださいませ。</font>
 <p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
@@ -193,27 +193,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[178]</font> <font size=4 color=#40c0c0> Re:�����A�����A�������A�����B</font>
+<font size=2>[178]</font> <font size=4 color=#40c0c0> Re:厚い、寒い、涼しい、眠い。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/17 (��) 17:53:10 <strong>��</strong> <a href="mailto:starwars12ship@yahoo.co.jp">�_�P�E��З��i���񂫁E�Ђ���j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608174175310&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608174175310"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/17 (木) 17:53:10 <strong>▽</strong> <a href="mailto:starwars12ship@yahoo.co.jp">神姫・緋威羅（しんき・ひいら）</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608174175310_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200608174175310"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �o���b�g����<br>
-�@���z�x��Ă��܂��Đ\����Ȃ������c�c�B�����ǂ�ł��������Ė{���ɗL��������܂��B<br>
+<font size=3 color=#606060>▼ バレットさん<br>
+　感想遅れてしまって申し訳ないっす……。いつも読んでくださって本当に有り難う御座います。<br>
 <br>
-<font color="#ff88cc">�����l��ꡐ��̕��E�`�I�@���̗�߂��c�c�������Ȃ�āI�@����ɔ����Ƃ�����āc�c�Ȃ�āI</font><br>
-�@�I�`�Ƃ����������̂ɂ��Ă͂�����Ɣ����������Ȃ��Ƃ��v���Ă�����ł����A�ǂ��������ł��傤���H�@�����������Ȃ�ǂ������ł��B<br>
+<font color="#ff88cc">＞藍斗と遙星の武勇伝！　あの苓那が……だったなんて！　さらに樋口一家そろって……なんて！</font><br>
+　オチとかそういうのにしてはちょっと薄い感じだなぁとか思っていたんですが、どうだったでしょうか？　裏をかけたなら良かったです。<br>
 <br>
-<font color="#ff88cc">�����l��ꡐ��u�r���A��߂u�r���̔��M�̃o�g���A�������������܂����I</font><br>
-�@�퓬�V�[���͂����炩���擙����p�N���Ă܂����A�y����ł����������Ȃ�K���ł��B���͂Ő퓬��`���̂͌��\��ςł����B<br>
+<font color="#ff88cc">＞藍斗＆遙星ＶＳ大川、苓那ＶＳ蒼の白熱のバトル、もう血が騒ぎました！</font><br>
+　戦闘シーンはいくらか漫画等からパクってますが、楽しんでいただけたなら幸いです。文章で戦闘を描くのは結構大変でした。<br>
 <br>
-<font color="#ff88cc">����[�A�l�̊��z�����A�Ȃ񂾂��ȁ[�B<br>
-�����C�Ȃ������ł��ȁ[�B</font><br>
-�@���������A����Ȃ��Ƃ͂���܂����B���z���������邾���Ŋ������ł����B�Ƃ�����A���ꂩ������ɂ�����Ί��z�������������ł��B<br>
+<font color="#ff88cc">＞んー、僕の感想文も、なんだかなー。<br>
+＞味気なかったですなー。</font><br>
+　いえいえ、そんなことはありませんよ。感想いただけるだけで嬉しいですし。ともあれ、これからもお暇があれば感想いただきたいです。<br>
 <br>
-�@���悢�悱�̂��b�Ō�̈�R�ƂȂ��Ă��܂������A�Ō�܂ł��t������������������Ǝv���܂��B</font>
+　いよいよこのお話最後の一山となってきましたが、最後までお付き合いいただけたらと思います。</font>
 <p><a href="http://www.geocities.jp/starwars12ship/" target="_top">http://www.geocities.jp/starwars12ship/</a>
 </td></table>
 </td></tr></table>
@@ -221,37 +221,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[177]</font> <font size=4 color=#40c0c0> �����A�����A�������A�����B</font>
+<font size=2>[177]</font> <font size=4 color=#40c0c0> 厚い、寒い、涼しい、眠い。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/13 (��) 02:03:29 <strong>��</strong> �o���b�g </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608130020329&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608130020329"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/13 (日) 02:03:29 <strong>▽</strong> バレット </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608130020329_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200608130020329"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���l��ꡐ��̕��E�`�I�@���̗�߂��c�c�������Ȃ�āI�@����ɔ����Ƃ�����āc�c�Ȃ�āI<br>
-�@�܂����Ă��Ӗ��s���ȑ薼�ł���ɂ��͂ł��A�o���b�g�ł��B<br>
+<font size=3 color=#606060>　藍斗と遙星の武勇伝！　あの苓那が……だったなんて！　さらに樋口一家そろって……なんて！<br>
+　またしても意味不明な題名でこんにちはです、バレットです。<br>
 <br>
-�@���ɏo�܂����A��W�b�I�@�l�̑�D���̃o�g���V�[���I�@�������A�u�W�F�_�C�̋R�m�������񂾁v�ɂ͂�������Ԃ��ď΂��܂����B<br>
-�@���l��ꡐ��u�r���A��߂u�r���̔��M�̃o�g���A�������������܂����I�@�����Đ^�����ł��ɂȂ�����������A���D���l�A�����B<br>
-�@�ł��A����Ȃ�������ɐ�������̂��������Ⴄ�[�������A����ςǂ����������݂Ă���񂶂�Ȃ��H<br>
+　ついに出ました、第８話！　僕の大好物のバトルシーン！　もちろん、「ジェダイの騎士だったんだ」にはもう呆れ返って笑いました。<br>
+　藍斗＆遙星ＶＳ大川、苓那ＶＳ蒼の白熱のバトル、もう血が騒ぎました！　そして真っ黒焦げになったお父さん、ご愁傷様、合掌。<br>
+　でも、そんなお父さんに尖ったものを向けちゃう夕ちゃんも、やっぱどこか悪魔染みているんじゃない？<br>
 <br>
-<font color="#ff88cc">�����l�ς��Ⴄ</font><br>
-�@�m���ɁA���������Ă��鎖�͗��ɓK���Ă��邯�ǁA�l�Ԃ̖l�������炵�Ă݂�΂��ꂪ�l�Ԃ̓����Ȃ񂾂ƌ����Ԃ������Ȃ�܂��B�؂��ʂ��Ă���̂��x���ŗ�Ȃ̂�������Ȃ��̂��A�c���ȓV�g�́c�c�@�͂��A���ł��B<br>
+<font color="#ff88cc">＞価値観が違う</font><br>
+　確かに、蒼が言っている事は理に適っているけど、人間の僕たちからしてみればそれが人間の道徳なんだと言い返したくなります。筋が通っているのか支離滅裂なのか分からないのが、残酷な天使の……　はい、蒼です。<br>
 <br>
-<font color="#ff88cc">���D����������</font><br>
-�@����ȁA�l�Ԃ̐��E�ɐ��܂�Ă܂��������o���Ă��Ȃ��͂��Ȃ̂ɁA�������Ȃ��Ȃ����Ⴄ�́I�H�@����Ȃ��Ƃ����炨�ꂳ��߂��ނ�I�@�l���߂��񂶂Ⴄ��I<br>
-�@�ł��A�����͗D�����̈����J�̗͂ŉ��Ƃ��Ȃ��ł��傤���B�Ȃ��Ăق����ł����ǁA����ς肻���Ȃ�Ɣ߂����ł��B���[��B<br>
+<font color="#ff88cc">＞優未が消える</font><br>
+　そんな、人間の世界に生まれてまだ何日も経っていないはずなのに、もういなくなっちゃうの！？　そんなことしたらお母さん悲しむよ！　僕も悲しんじゃうよ！<br>
+　でも、そこは優たちの愛と絆の力で何とかなるんでしょうか。なってほしいですけど、やっぱりそうなると悲しいです。えーん。<br>
 <br>
-<font color="#ff88cc">���A�i���O������</font><br>
-�@�I�X�X���ɑI��ł��������āA�{���ɂ��ꂵ���ł��A�}�W�Ŋ����ł��A���肪�Ƃ��������܂��I�@���݁i�W�����{�j�A�w�d�]��`���r�������������x��A�ڒ��Ȃ̂ŁA���񂻂������낵���ł��B<br>
+<font color="#ff88cc">＞アナログ所さん</font><br>
+　オススメに選んでいただいて、本当にうれしいです、マジで感激です、ありがとうございます！　現在（８月中旬）、『電脳大冒険Ｓｐｅｃｉａｌ』を連載中なので、是非そちらもよろしくです。<br>
 <br>
-�@��[�A�l�̊��z�����A�Ȃ񂾂��ȁ[�B<br>
-�@���C�Ȃ������ł��ȁ[�B<br>
+　んー、僕の感想文も、なんだかなー。<br>
+　味気なかったですなー。<br>
 <br>
-�@�ł��A����t�@�~���[��S�͂ŉ������܂��B�������΁I�@�D�����}�W�ł��킢���I<br>
-�@�����āA���E���̉ɂ��f�B�X�g���N�V�����I<br>
+　でも、樋口ファミリーを全力で応援します。悪魔万歳！　優ちゃんマジでかわいい！<br>
+　そして、世界中の暇をディストラクション！<br>
 <br>
-�@����ł́I</font>
+　それでは！</font>
 <p><a href="http://k_saiyuuki@yahoo.co.jp" target="_top">http://k_saiyuuki@yahoo.co.jp</a>
 </td></table>
 </td></tr></table>
@@ -259,76 +259,76 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[176]</font> <font size=4 color=#40c0c0> He is mother! �攪�́w�����Ƒ��x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[176]</font> <font size=4 color=#40c0c0> He is mother! 第八章『悪魔家族』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/12 (�y) 02:03:57 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608126020357&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608126020357"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/12 (土) 02:03:57 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608126020357_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200608126020357"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�[�̕��͎��́������������I�@�c�c�^�̓����ȊO�ɉ��ł����Ă͂܂肻���Ȃ̂͋C�̂����ł��傤��(��)<br>
+<font size=3 color=#606060>【推薦文】夕の父は実は○○だったっ！　……真の答え以外に何でも当てはまりそうなのは気のせいでしょうか(笑)<br>
 <br>
-<a href=http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;09.html target=_top>http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;09.html</a></font>
+<a href="../../novel/200502/01114354/he_is_mother_09.html" target=_top>http://ts.novels.jp/novel/200502/01114354/he&#95;is_mother&#95;09.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[175]</font> <font size=4 color=#40c0c0> �����z�L��������܂��B</font>
+<font size=2>[175]</font> <font size=4 color=#40c0c0> ご感想有り難う御座います。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/30 (��) 22:39:58 <strong>��</strong> <a href="mailto:starwars12ship@yahoo.co.jp">�_�P�E��З��i���񂫁E�Ђ���j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606305223958&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305223958"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/30 (金) 22:39:58 <strong>▽</strong> <a href="mailto:starwars12ship@yahoo.co.jp">神姫・緋威羅（しんき・ひいら）</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606305223958_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305223958"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�������Ȃ��Ԃɂ���ȂɊ��z���c�c�I�@�����Ɠ����ɁA���������~�܂�܂���i��<br>
-�L��������܂��I<br>
-�ł͏��ɕԐM���΁B<br>
+<font size=3 color=#606060>おお、少し見ない間にこんなに感想が……！　驚きと同時に、嬉しさが止まりません（何<br>
+有り難う御座います！<br>
+では順に返信をば。<br>
 <br>
-���|���������o���b�g�l<br>
-�����A�|������i����A�����H�j�����Ă��������āA�L��������܂��B<br>
+▼鋼ｗｉｔｈバレット様<br>
+おお、鋼くんも（いや、ちゃん？）も来てくださって、有り難う御座います。<br>
 <br>
-<font color="#ff88cc">���c�c�Ȃ񂩂��炻�[�Ȃ��Ƃ΂��茾���Ă��܂����A�l�͂��̂���������̘b�Ɋ��������Ƃ������Ƃ����͊m���ł��B�ł��A�͂̍��͗�R�B�N���ǂ�ȏ����M���o���Ă����̂�����Ȃ��̂��B</font><br>
-�����A�������Ă����������Ƃ́I�@����������ł��B�������������Ȃ��A�Ƃ��v���Ă��܂�����ł����A���S���܂����B<br>
-�m���ɁA�N�������ƃt���[�U�l���炢�Ⴂ�܂����A����ł��ނ�͒��݂܂��B�����D�͂����Ƌ󂩂�U���Ă��Ă���܂��i�Ӗ��s��<br>
+<font color="#ff88cc">＞……なんかえらそーなことばかり言っていますが、僕はものすごく今回の話に感動したということだけは確かです。でも、力の差は歴然。誰がどんな助け舟を出してくれるのかくれないのか。</font><br>
+おお、感動してくださったとは！　嬉しい限りです。くさかったかなぁ、とか思ってしまったんですが、安心しました。<br>
+確かに、クリリンとフリーザ様くらい違いますが、それでも彼らは挑みます。助け船はきっと空から振ってきてくれます（意味不明<br>
 <br>
-<font color="#ff88cc">���l�I�ɂ́A���l�Ƒ��̃t�F�A�o�g�����y���݂ɂ��Ă���񂾂��ǁA�_���ł����A�_�l�H�@������������āB</font><br>
-�ʖڂł��ˁi���Bꡐ��N��Y�ꂿ�Ⴂ���܂���B�ނ����Ċ��􂵂Ȃ��Ɖ��̂��߂ɂ���̂�������܂���i���s����`�j<br>
-�S�Ă͎���ŁB�҂��Ă��Ă��������B<br>
+<font color="#ff88cc">＞個人的には、藍斗と大川のフェアバトルを楽しみにしているんだけど、ダメですか、神様？　早く召喚されて。</font><br>
+駄目ですね（ぇ。遙星君を忘れちゃいけません。彼だって活躍しないと何のためにいるのか分かりません（ご都合主義）<br>
+全ては次回で。待っていてください。<br>
 <br>
-<font color="#ff88cc">����낵����ΐ_�P����̂ق�����A����t�@�~���[��V�тɂ悱�����Ă͂��炦�Ȃ��ł��傤���B�ŋߖl�̌f�������т����āB�������A�����ƒ��َq�Ƙb����p�ӂ��Ă��܂��̂ŁB</font><br>
-�����A�L���̂ł����A�ŋߏ����΂���Z�����Ăł��ˁAPC���N�������邱�Ƃ����Ȃ��Ȃ������X�ł��B�Ȃ̂ŁA���ɂȂ邩�͕�����܂��񂪁A�����ƐF��ȃL�����Ƃ��ז������Ă��������܂��B<br>
+<font color="#ff88cc">＞よろしければ神姫さんのほうから、樋口ファミリーを遊びによこさせてはもらえないでしょうか。最近僕の掲示板がさびしくて。もちろん、お茶と茶菓子と話題も用意していますので。</font><br>
+おお、有り難いのですが、最近少しばかり忙しくてですね、PCを起動させることさえなくなりつつある日々です。なので、いつになるかは分かりませんが、きっと色んなキャラとお邪魔させていただきます。<br>
 <br>
-���d�g�d���l<br>
-<font color="#ff88cc">���V�g�ƈ����̗͂̍��ł����A���C�g�m�x���I�ɂ͐������̂�������܂���B�����������]����ۂ�����΁A����ɖʔ����Ȃ邩������Ȃ��ȂƎv���܂����B</font><br>
-�����ۂ��Đ\����Ȃ��ł��c�c�i�܁j�B���]��A�����A�Ȃ񂩗ǂ������ł��ˁB�퓬�V�[���Ɍ����āA�ǂ��������ɂ��邩�A�Ƃ����̂���肭���ŗ���Ȃ��̂ŁA��킵�Ă��܂��B�����A�@�����܂�����A���̕ӂ�̂��������������������ł��B<br>
+▼電波妖精様<br>
+<font color="#ff88cc">＞天使と悪魔の力の差ですが、ライトノベル的には正しいのかもしれません。もう少し頭脳戦っぽくすれば、さらに面白くなるかもしれないなと思いました。</font><br>
+安っぽくて申し訳ないです……（涙）。頭脳戦、ああ、なんか良い響きですね。戦闘シーンに限って、どういう風にするか、というのが上手く頭で練れないので、苦戦しています。もし、機会がありましたら、その辺りのご助言をいただきたいです。<br>
 <br>
-���j�D�ɓ��l<br>
+▼Ｋ．伊藤様<br>
 <br>
-<font color="#ff88cc">�����������l����A�m��Ȃ��l��������s�r���N���Ǝv��Ȃ����A�����Ȓj���Ղ�ŁB</font><br>
-�����A�����ނ́u���v�ł��i���B<br>
-�ނ����A�������܂�����ԈႦ���̂ł͂Ȃ��̂��Ƃ����l���������肵�܂��B�[���j�炵���i����A���ꂳ��炵���ł��傤���H�j�Ƃ��������̂ŁA�ނ��撣��܂���ƁB<br>
+<font color="#ff88cc">＞しかし藍斗くん、知らない人が見たらＴＳ少年だと思わない程、見事な男っぷりで。</font><br>
+いえ、もう彼は「漢」です（何。<br>
+彼こそ、何か生まれ方を間違えたのではないのかという人物だったりします。夕も男らしい（いや、お母さんらしいでしょうか？）とこ見せたので、彼も頑張りませんと。<br>
 <br>
-<font color="#ff88cc">����҂Ƃ��Ă̓}�I�N���ǂ��A�����Ȉ��l���Ղ�B�����܂ł���Ă�����A�񓹂��ڂɂ����Ă��J���C�\�[�Ǝv��Ȃ��ł��ށB�i��</font><br>
-�����ł��˂��B�ނ͓V�g���l�A�����̈����ł�����B�������Ƃ������Ǝv��Ȃ��A���̐l�Ƃ͊��o������Ă���̂ł��B���������̂������Ă����������炢���Ȃ��A�Ǝv���܂��B<br>
+<font color="#ff88cc">＞訳者としての党紀君も良い、見事な悪人っぷり。此処までやってくたら、非道い目にあってもカワイソーと思わないですむ。（笑</font><br>
+そうですねぇ。彼は天使同様、生粋の悪役ですから。酷いことを酷いと思わない、他の人とは感覚がずれているのです。そういうのを感じていただけたらいいなぁ、と思います。<br>
 <br>
-�����肩�i�m��l<br>
+▼きりか進ノ介様<br>
 <br>
-<font color="#ff88cc">����V�͂܂œǂ܂��Ă��������܂����B�@����ƒǂ������c�c�c�B</font><br>
-����ꂳ�܂ł��B���Ƃ������A�ʂ������Ă��݂܂���B<br>
+<font color="#ff88cc">＞第７章まで読ませていただきました。　やっと追いついた………。</font><br>
+お疲れさまです。何というか、量が多くてすみません。<br>
 <br>
-<font color="#ff88cc">���ȑO���炢�낢��ȕ��Ɋ��߂Ē����Ă����̂ŁA</font><br>
-�����Ȃ�ł����H�@�j���P�΂����~�܂�܂���c�c�I�@�ٍ�����߂Ă��������������Ƃ́c�c�B���ꏑ���ėǂ������Ɩ{���Ɏv���܂��B<br>
+<font color="#ff88cc">＞以前からいろいろな方に勧めて頂いていたので、</font><br>
+そうなんですか？　ニヤケ笑いが止まりません……！　拙作を勧めてくださる方がいるとは……。これ書いて良かったと本当に思います。<br>
 <br>
-<font color="#ff88cc">���ł�����̓n�[�h�ł����ˁB�@�[�����A������Ɗ撣�肷���ł͂Ȃ����Ǝv���܂��B�@�ޏ��̐��i�ł͌�Ɉ����Ȃ��͕̂������Ă���̂ł����c�c�B</font><br>
-��l���ł�����A�撣���Ă���Ȃ��Ɓi���B����ς�A��e���đ��̐l���v���Ă���ȏ�Ɋ̂�������Ă���Ƃ������A�ƂĂ��������̂��Ǝv���̂ł��B���������߂����q�ł��A�䂪�q����邽�߂ɋ����Ȃ�Ȃ炴��𓾂Ȃ��A�Ƃ����̂����_�ł��B���l���ʂƂ����킯�ł͂Ȃ���������܂��񂪁A�������Y�ނƂ����̂͐������Ƃ��Ǝv���܂��B<br>
+<font color="#ff88cc">＞でも今回はハードでしたね。　夕ちゃん、ちょっと頑張りすぎではないかと思います。　彼女の性格では後に引けないのは分かっているのですが……。</font><br>
+主人公ですから、頑張ってくれないと（酷。やっぱり、母親って他の人が思っている以上に肝が据わっているというか、とても強いものだと思うのです。元がいじめられっ子でも、我が子を守るために強くならならざるを得ない、というのが持論です。万人共通というわけではないかもしれませんが、生命を産むというのは凄いことだと思います。<br>
 <br>
-<font color="#ff88cc">���]�k�ł����A����ނ����̃L�����ɋ���Ȋ��������c�c�c�B</font><br>
-�ނށI�@�܂����̃L�������c�c�I�H�@�֐��كL�����͑��X����ǁA����Ȃ̂͂����������Ȃ��Ǝv�����̂ł����c�c�B�ł��A����ȂɋC�ɂ��邱�Ƃł��Ȃ��ł����ˁH�@���̃L�����ŃJ�o�[�Ƃ������ƂŁi���B<br>
+<font color="#ff88cc">＞余談ですが、安比奈ちゃんのキャラに強烈な既視感を………。</font><br>
+むむ！　まさかのキャラ被り……！？　関西弁キャラは多々あれど、あんなのはそうそういないと思ったのですが……。でも、そんなに気にすることでもないですかね？　他のキャラでカバーということで（何。<br>
 <br>
-�F�l�A�������y���݂ɂ��Ă��������Ă���悤�ŁA�ƂĂ��������ł��B�����ł��B<br>
-���I�ȓs���ŁA�f�ڂ͒x���Ȃ�������܂��񂯂�ǁA�C���ɑ҂��Ă���������ƍK���ł��B�o���邾���撣��܂��B</font>
+皆様、次回作を楽しみにしていただけているようで、とても嬉しいです。感動です。<br>
+私的な都合で、掲載は遅くなるやもしれませんけれど、気長に待っていただけると幸いです。出来るだけ頑張ります。</font>
 <p><a href="http://www.geocities.jp/starwars12ship/" target="_top">http://www.geocities.jp/starwars12ship/</a>
 </td></table>
 </td></tr></table>
@@ -336,44 +336,44 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[174]</font> <font size=4 color=#40c0c0> ���߂܂���</font>
+<font size=2>[174]</font> <font size=4 color=#40c0c0> 初めまして</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/30 (��) 12:45:19 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606305124519&log=yggdrasil">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305124519"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/30 (金) 12:45:19 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606305124519_log_yggdrasil.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305124519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@��V�͂܂œǂ܂��Ă��������܂����B�@����ƒǂ������c�c�c�B<br>
+<font size=3 color=#606060>　第７章まで読ませていただきました。　やっと追いついた………。<br>
 <br>
-�@�ȑO���炢�낢��ȕ��Ɋ��߂Ē����Ă����̂ŁA�Ƃ肠���������ŐV�������U�͂�ǂ܂��Ē������̂ł����A�����o��l�����o�����Ă��܂��Ă����̂ŁA<br>
+　以前からいろいろな方に勧めて頂いていたので、とりあえず当時最新だった６章を読ませて頂いたのですが、もう登場人物が出揃ってしまっていたので、<br>
 <br>
-�@�c�c�c�܂��������Ă����Ȃ��c�c�c<br>
+　………まるっきりついていけない………<br>
 <br>
-�@������O�ł��ˁB�@�{���ɂǂ������킯�����ǂ�ł��Ȃ������̂ł����A���݂܂���B����ōŏ�����ǂݎn�߂��̂ł����B<br>
+　当たり前ですね。　本当にどういうわけだか読んでいなかったのでした、すみません。それで最初から読み始めたのですが。<br>
 <br>
-�@�c�c�c�i�܂Ȃ��c�c�c<br>
+　………進まない………<br>
 <br>
-�@�ʔ������B�@�l�I�Ƀc�{�ɓ��肷���B�@���ɑ�Q�͓͂r���ŏ΂������ēǂ߂Ȃ��Ȃ��āA�ēǂ͂܂����߂�����Ȃ������Ⴄ���A���Ⴀ�����͂R�͂Ǝv���Ă܂��Q�͂���ǂݎn�߂Ă邵�A�c�c�c�����i�ނ킯����ւ��ȁA�ƁB�@�Ƃ����킯�ł��̐��T�ԁA���Ԃ�_�P����̑z���ȏ�Ɋy���܂��Ă��������܂����B�@�����Ȃ񂩓ǂݎn�߂�ƂƂ��Ղ�Z����邱�̂������������͋C�B�@�����ł��B<br>
+　面白すぎ。　個人的にツボに入りすぎ。　特に第２章は途中で笑いすぎて読めなくなって、再読はまた初めからやりなおしちゃうし、じゃあ今日は３章と思ってまた２章から読み始めてるし、………そりゃ進むわけあらへんわな、と。　というわけでこの数週間、たぶん神姫さんの想像以上に楽しませていただきました。　もうなんか読み始めるととっぷり浸かれるこのあったかい雰囲気。　いいです。<br>
 <br>
-�@�ł�����̓n�[�h�ł����ˁB�@�[�����A������Ɗ撣�肷���ł͂Ȃ����Ǝv���܂��B�@�ޏ��̐��i�ł͌�Ɉ����Ȃ��͕̂������Ă���̂ł����c�c�B�@���l�Ɨh���A�x���B�@�����Ƒ��������ɁA����ł�������˂�����ōs�����炻�ꂱ�������ڂ͂Ȃ��̂ł́H�@�ƍ�����n���n���B<br>
+　でも今回はハードでしたね。　夕ちゃん、ちょっと頑張りすぎではないかと思います。　彼女の性格では後に引けないのは分かっているのですが……。　藍斗と揺星、遅い。　もっと早く助けに、いやでも今から突っ込んで行ったらそれこそ勝ち目はないのでは？　と今からハラハラ。<br>
 <br>
-�@���l�Ɨh���A���炭�J�b�R�悭�Ȃ�܂����ˁB�@���ɗh���͂����߂��q�������Ƃ͎v���Ȃ��B�@���l�����̊Ԃɂ��e��w�������D�N�����B<br>
+　藍斗と揺星、えらくカッコよくなりましたね。　特に揺星はいじめっ子だったとは思えない。　藍斗もいつの間にか影を背負った好青年だし。<br>
 <br>
-�@���肪�Ƃ��������܂����B�@�����Ď��̘b���y���݂ɂ��Ă��܂��B<br>
+　ありがとうございました。　そして次の話も楽しみにしています。<br>
 <br>
 <br>
-�@�]�k�ł����A����ނ����̃L�����ɋ���Ȋ��������c�c�c�B<br>
+　余談ですが、安比奈ちゃんのキャラに強烈な既視感を………。<br>
 <br>
-�@�ǂ�ł��̂��H�@���������ĒN���ɋL����������āA���݈ӎ��̒��Ŏ��͎����̃L����������Ă��̂��H�@����ł�����Ȗʔ����b�A�Y���͂��͂���ւ񂵁i���Č̋����t��������ƍ������Ă܂��j�B�@�Ȃ񂾂��������M�����Ȃ��Ȃ鍡�����̍��B<br>
+　読んでたのか？　もしかして誰かに記憶を消されて、潜在意識の中で私は自分のキャラを作ってたのか？　いやでもこんな面白い話、忘れるはずはあらへんし（って故郷言葉がちょっと混ざってます）。　なんだか自分が信じられなくなる今日この頃。<br>
 <br>
-�@����ł͎��炢�����܂��B</font>
+　それでは失礼いたします。</font>
 <p><a href="http://novels.aetherworks.info/kirika/&#95;bbs&#95;/" target="_top">http://novels.aetherworks.info/kirika/&#95;bbs&#95;/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yggdrasil">
@@ -381,16 +381,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yggdrasil">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yggdrasil">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yggdrasil.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

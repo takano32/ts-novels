@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���N�������ɂ̉^�c�ɂ��Č���</title>
+<title>少年少女文庫の運営について語る会</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >���N�������ɂ̉^�c�ɂ��Č���</font>
+<font size=6 >少年少女文庫の運営について語る会</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>���N�������ɂ̉^�c�ɂ��Ă̋^��A������A���ӌ���A�u�^�c�Ɍg����Ă݂����v�Ƃ����l�́A���Џ�������ŉ������B</font>
+<font color=#608080>少年少女文庫の運営についての疑問、ご質問、ご意見や、「運営に携わってみたい」という人は、ぜひ書き込んで下さい。</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,29 +15,29 @@
 <input type=hidden name="log" value="data2">
 <input type=hidden name="nj" value="uCphOeXmvL">
 <input type=hidden name="res" value="345">
-<h4 align=center>�� �L���ԍ� 345 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 345 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�X�g�[���[����̊��z�ɕςȃT�C�g�̐�`���E�E�E"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �_��߂��݂���
-&gt; �Ђ��A�Ђǂ��I(������)
-&gt; �킽���̓��e�ɕςȃT�C�g�̐�`���c�B
-&gt; ���Ƃ����Ă��������B���肢���܂��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ストーリー道場の感想に変なサイトの宣伝が・・・"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 神城めぐみさん
+&gt; ひっ、ひどい！(≧▽≦)
+&gt; わたしの投稿に変なサイトの宣伝が…。
+&gt; 何とかしてください。お願いします。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 3fMtjz  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="3fMtjz"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 3fMtjz  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="3fMtjz"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �L�����e�̍ۂ́A���p�p��6�����̓��̓R�[�h���E���̃{�b�N�X�ɂ��̂܂ܓ��͂��ĉ�����.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 記事投稿の際は、半角英数6文字の入力コードを右側のボックスにそのまま入力して下さい.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -53,37 +53,37 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[521]</font> <font size=4 color=#40c0c0> Re:-- No Subject --</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/09/07 (��) 00:52:49  kou@�^�c�ψ�@�B�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200609074005249&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609074005249"></font>
+<font size=-1 color=#606060> 2006/09/07 (木) 00:52:49  kou@運営委員@隠居 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200609074005249_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200609074005249"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�@kou �ł��B<br>
+<font size=4 color=#303030>　kou です。<br>
 <br>
-<font color="#cc88ff">> ���̓R�[�h�Ɋւ��Ă̐�����������<br>
-> �u���z�����������Ƃ������ǁA�e������v���Ď��ɂȂ�̂ł́H<br>
-> ���̕ӂ͂Ȃ�ƂȂ�����ł���H�@����_���ȋC�����܂��B</font><br>
+<font color="#cc88ff">> 入力コードに関しての説明が無いと<br>
+> 「感想書き込もうとしたけど、弾かれるよ」って事になるのでは？<br>
+> その辺はなんとなく解るでしょ？　じゃダメな気がします。</font><br>
 <br>
-�@���������ʂ�ł������܂��ς݂܂���B<br>
-�@���z�f���̂��ׂĂɁA���̓R�[�h�Ɋւ���ꕶ����͂��܂����B<br>
-# �f�����Ƃɐݒ肪�ʃt�@�C���Ȃ̂ŁA�I�ɒ��ڃA�N�Z�X�ł��Ȃ��g���炷��� CGI ���炵���i����<br>
+　おっしゃる通りでございます済みません。<br>
+　感想掲示板のすべてに、入力コードに関する一文を入力しました。<br>
+# 掲示板ごとに設定が別ファイルなので、鯖に直接アクセスできない身からすると CGI からしか（ｒｙ<br>
 <br>
-<font color="#cc88ff">> ���ƁA�啶������������ʂ��Ă�悤�ł����A��ʂ���Ȃ灖�����������ŕ\������͕̂s�e�؂ł͖����ł��傤���B<br>
-> �啶������������ʂ���̂���߂邩�A���͂����ʂ��\������悤�ɕς��������ǂ��悤�Ɏv���܂��B</font><br>
+<font color="#cc88ff">> あと、大文字小文字を区別してるようですが、区別するなら＊＊＊＊＊＊で表示するのは不親切では無いでしょうか。<br>
+> 大文字小文字を区別するのをやめるか、入力した通りを表示するように変えた方が良いように思います。</font><br>
 <br>
-�@����͎����^��Ɏv�����̂ł����A����񂪂��̂悤�Ɏ������Ă����̂ŁA��������Ӗ�������Ǝv�����z�f���ɂ��������܂����B<br>
+　これは私も疑問に思ったのですが、矢治さんがそのように実装していたので、何かしら意味があると思い感想掲示板にも実装しました。<br>
 <br>
-�@�c�c����ς�g���ɂ����ł����B<br>
+　……やっぱり使いにくいですか。<br>
 <br>
-<font color="#cc88ff">> ���t�@���������Ə������݂ł��Ȃ��̂��A������Ɓc�c�ʓ|�������Ƃ������B<br>
-> ���������Z�L�����e�B���I�t�ɂ��Ȃ���Ώ������߂Ȃ��̂́c�c�B</font><br>
+<font color="#cc88ff">> リファラが無いと書き込みできないのも、ちょっと……面倒くさいというか。<br>
+> いちいちセキュリティをオフにしなければ書き込めないのは……。</font><br>
 <br>
-�@���t�@���̃`�F�b�N�́A�X�p���̓��e�`�F�b�N�ɂ������͂Ȃ��Ă��܂��B<br>
-�@�܂����葤�̃v���O�������i�����Ă���l�Ȃ̂łقƂ�ǈӖ��𐬂��Ȃ��l�ł����B<br>
+　リファラのチェックは、スパムの投稿チェックにも少しはなっています。<br>
+　まあ相手側のプログラムが進化している様なのでほとんど意味を成さない様ですが。<br>
 <br>
-<font color="#cc88ff">> �C�y�ɏ������߂Ă����A���z�₲�ӌ����ĐF�X�Ȃ̂��o��̂ł́A�Ɗ����܂��B</font><br>
+<font color="#cc88ff">> 気軽に書き込めてこそ、感想やご意見って色々なのが出るのでは、と感じます。</font><br>
 <br>
-�@�\���󂠂�܂���ł��B���΂炭�͓��̓R�[�h����͂��邱�ƂŃX�p���ł͂Ȃ��A�Ɣ��f���Ă��܂����A���l�͂����Ɖ��ǂ��Ă��������Ǝv���Ă��܂��B<br>
-�@���g�������Ă��Ă��������B</font>
+　申し訳ありませんです。しばらくは入力コードを入力することでスパムではない、と判断していますが、私個人はもっと改良していこうかと思っています。<br>
+　生暖かく見ていてください。</font>
 </td></table>
 </td></tr></table>
 
@@ -93,29 +93,29 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[520]</font> <font size=4 color=#40c0c0> -- No Subject --</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/08/10 (��) 20:38:17  �j�D�ɓ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200608104203817&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608104203817"></font>
+<font size=-1 color=#606060> 2006/08/10 (木) 20:38:17  Ｋ．伊藤 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200608104203817_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200608104203817"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>���̓R�[�h�Ɋւ��Ă̐�����������<br>
-�u���z�����������Ƃ������ǁA�e������v���Ď��ɂȂ�̂ł́H<br>
-���̕ӂ͂Ȃ�ƂȂ�����ł���H�@����_���ȋC�����܂��B<br>
+<font size=4 color=#303030>入力コードに関しての説明が無いと<br>
+「感想書き込もうとしたけど、弾かれるよ」って事になるのでは？<br>
+その辺はなんとなく解るでしょ？　じゃダメな気がします。<br>
 <br>
-�� ���̓R�[�h�E���́A���p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��ĉ�����<br>
-�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>
-�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>
-�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>
-�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�<br>
+※ 入力コード右側の、半角英数字６文字を、その右側のボックスに入力して下さい<br>
+※ 投稿に最低限必要な項目は、名前と内容です.<br>
+※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>
+※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>
+※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます<br>
 <br>
-����Ȋ����ł����Ɩ��L���Ă����������ǂ��Ƌ��l�������܂��B<br>
+こんな感じでちゃんと明記しておいた方が良いと愚考いたします。<br>
 <br>
-���ƁA�啶������������ʂ��Ă�悤�ł����A��ʂ���Ȃ灖�����������ŕ\������͕̂s�e�؂ł͖����ł��傤���B<br>
-�啶������������ʂ���̂���߂邩�A���͂����ʂ��\������悤�ɕς��������ǂ��悤�Ɏv���܂��B<br>
+あと、大文字小文字を区別してるようですが、区別するなら＊＊＊＊＊＊で表示するのは不親切では無いでしょうか。<br>
+大文字小文字を区別するのをやめるか、入力した通りを表示するように変えた方が良いように思います。<br>
 <br>
-���t�@���������Ə������݂ł��Ȃ��̂��A������Ɓc�c�ʓ|�������Ƃ������B<br>
-���������Z�L�����e�B���I�t�ɂ��Ȃ���Ώ������߂Ȃ��̂́c�c�B<br>
+リファラが無いと書き込みできないのも、ちょっと……面倒くさいというか。<br>
+いちいちセキュリティをオフにしなければ書き込めないのは……。<br>
 <br>
-�C�y�ɏ������߂Ă����A���z�₲�ӌ����ĐF�X�Ȃ̂��o��̂ł́A�Ɗ����܂��B</font>
+気軽に書き込めてこそ、感想やご意見って色々なのが出るのでは、と感じます。</font>
 </td></table>
 </td></tr></table>
 
@@ -125,15 +125,15 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[516]</font> <font size=4 color=#40c0c0> Re:-- No Subject --</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/27 (��) 19:35:55  ���[���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607274193555&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607274193555"></font>
+<font size=-1 color=#606060> 2006/07/27 (木) 19:35:55  ラーメン </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607274193555_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607274193555"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>����h���C������̘A�����e����莞�ԋ��ۂ��Ă݂Ă͂ǂ��ł��傤���H<br>
-���e����IP�ƃ^�C���X�^���v���e�[�u���ɕێ�����Ƃ��A<br>
-AP�̃T�u�h���C�����x���Œe���΂������ƁB<br>
-�e�[�u���͉ߋ��Q�S���ԕ��ێ����āA���e���⎞�Ԃ͂P�T�����x���ڈ����ƁB<br>
-����ŘA�����e�������ނ����o��������܂��B�l�͂Ȃ�P�T�����҂Ă܂����B<br>
+<font size=4 color=#303030>同一ドメインからの連続投稿を一定時間拒否してみてはどうでしょうか？<br>
+投稿時のIPとタイムスタンプをテーブルに保持するとか、<br>
+APのサブドメインレベルで弾けばいいかと。<br>
+テーブルは過去２４時間分保持して、投稿拒絶時間は１５分程度が目安かと。<br>
+これで連続投稿魔を撃退した覚えがあります。人力なら１５分も待てませんよ。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -144,54 +144,54 @@ AP�̃T�u�h���C�����x���Œe���΂������ƁB<br>
 <TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[515]</font> <font size=4 color=#40c0c0> -- No Subject --</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/26 (��) 22:06:15  �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607263220615&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607263220615"></font>
+<font size=-1 color=#606060> 2006/07/26 (水) 22:06:15  米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607263220615_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607263220615"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�R�[�h�ɑΉ����Ă���l�q���������A��ł���SPAM�����Ă鍢�����Ǝ҂�����݂����ł��ˁB<br>
-�^�f���ŁASPAM��URL���܂ޓ��e�ɂ�iframe�ł���URL��100��J��html��Ԃ��Ƃ����΍R�Ă�����܂����B<br>
-�X�p����p�c�[���ɂ͌��ʂ��Ȃ����ǁA���������Ǝ҂ɂ͌�����������܂���B<br>
-SPAM�͎Ւf�ł��āASPAMMER�̓y�[�W�r���[�������Ăǂ������K��(��)�B<br>
+<font size=4 color=#303030>コードに対応してくる様子を見る限り、手打ちでSPAMをしてる困った業者もいるみたいですね。<br>
+某掲示板で、SPAMのURLを含む投稿にはiframeでそのURLを100回開くhtmlを返すという対抗案がありました。<br>
+スパム専用ツールには効果がないけど、ああいう業者には効くかもしれません。<br>
+SPAMは遮断できて、SPAMMERはページビューが増えてどっちも幸せ(笑)。<br>
 <br>
-#����A�܂��A�������܂�����ł����ǂˁB</font>
+#いや、まあ、もちろんまずいんですけどね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[514]</font> <font size=4 color=#40c0c0> Re:�Ǝv������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[514]</font> <font size=4 color=#40c0c0> Re:と思ったら</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/25 (��) 21:55:22  ��傤���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607252215522&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607252215522"></font>
+<font size=-1 color=#606060> 2006/07/25 (火) 21:55:22  りょう＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607252215522_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607252215522"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� �����Ђ�ނ���<br>
-<font color="#cc88ff">> �Ǝv������܂�������Ă܂��ˁB<br>
-> ������ɂ����̓R�[�h��݂���Ƃ��A���炩�̑΍�͂Ƃ�Ȃ����̂ł��傤���B<br>
-> <a href=http://www.novels.jp/~ts/kansou/bbs.cgi?log=&amp;time=7 target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=&amp;time=7</a></font><br>
+<font size=4 color=#303030>▼ 高樹ひろむさん<br>
+<font color="#cc88ff">> と思ったらまた書かれてますね。<br>
+> そちらにも入力コードを設けるとか、何らかの対策はとれないものでしょうか。<br>
+> <a href="../kansou/bbs@log__time_7.cgi" target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=&amp;time=7</a></font><br>
 <br>
-���񍐗L���������܂��B<br>
-���w�E�̊��z�f���ɂ͂��Ȃ�ȑO���炵�����X�p�����������܂��̂ŁA�^�c�ψ����p�ɂɃ`�F�b�N���Ă���A�������܂ꂽ�炷���ɏ����悤�ɂ��Ă��܂��B<br>
+ご報告有り難うございます。<br>
+ご指摘の感想掲示板にはかなり以前からしつこくスパムが書き込まれるので、運営委員も頻繁にチェックしており、書き込まれたらすぐに消すようにしています。<br>
 <br>
-�Ƃ͂����A�����Ă͂܂��������܂�̃C�^�`�������Ȃ̂ŁA�߂������ɃN���G�[�^�[�Y�E�t���A�̂悤�ȑ΍���{���\��ł��B</font>
+とはいえ、消してはまた書き込まれのイタチごっこなので、近いうちにクリエーターズ・フロアのような対策を施す予定です。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[512]</font> <font size=4 color=#40c0c0> �Ǝv������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[512]</font> <font size=4 color=#40c0c0> と思ったら</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/24 (��) 22:50:40  �����Ђ�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607241225040&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607241225040"></font>
+<font size=-1 color=#606060> 2006/07/24 (月) 22:50:40  高樹ひろむ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607241225040_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607241225040"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�Ǝv������܂�������Ă܂��ˁB<br>
-������ɂ����̓R�[�h��݂���Ƃ��A���炩�̑΍�͂Ƃ�Ȃ����̂ł��傤���B<br>
-<a href=http://www.novels.jp/~ts/kansou/bbs.cgi?log=&amp;time=7 target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=&amp;time=7</a></font>
+<font size=4 color=#303030>と思ったらまた書かれてますね。<br>
+そちらにも入力コードを設けるとか、何らかの対策はとれないものでしょうか。<br>
+<a href="../kansou/bbs@log__time_7.cgi" target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=&amp;time=7</a></font>
 <p><div align=left><a href="http://blunderer.web.fc2.com/" target="_top">http://blunderer.web.fc2.com/</a></div>
 </td></table>
 </td></tr></table>
@@ -199,16 +199,16 @@ SPAM�͎Ւf�ł��āASPAMMER�̓y�[�W�r���[�������Ăǂ������K��(��)�B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[511]</font> <font size=4 color=#40c0c0> ���z�f���ɐ�`�������݂�����܂����B</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[511]</font> <font size=4 color=#40c0c0> 感想掲示板に宣伝書き込みがありました。</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/24 (��) 22:48:42  �����Ђ�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607241224842&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607241224842"></font>
+<font size=-1 color=#606060> 2006/07/24 (月) 22:48:42  高樹ひろむ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607241224842_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607241224842"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>��قǐ�`�������݂̕񍐂������̂ł����A���m�F����������Ă܂����B<br>
-�i�����̊��Ⴂ�Ǝv����قǂ̏������݂��폜���Ă��܂��܂����j<br>
-�^�c�ψ��l�A���΂₢�Ώ������l�ł��B</font>
+<font size=4 color=#303030>先ほど宣伝書き込みの報告をしたのですが、今確認したら消えてました。<br>
+（自分の勘違いと思い先ほどの書き込みを削除してしまいました）<br>
+運営委員様、すばやい対処お疲れ様です。</font>
 <p><div align=left><a href="http://blunderer.web.fc2.com/" target="_top">http://blunderer.web.fc2.com/</a></div>
 </td></table>
 </td></tr></table>
@@ -216,59 +216,59 @@ SPAM�͎Ւf�ł��āASPAMMER�̓y�[�W�r���[�������Ăǂ������K��(��)�B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[359]</font> <font size=4 color=#40c0c0> Re2:�X�g�[���[����̊��z�ɕςȃT�C�g�̐�`���E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[359]</font> <font size=4 color=#40c0c0> Re2:ストーリー道場の感想に変なサイトの宣伝が・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/04 (��) 20:20:01  �_��߂��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607042202001&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607042202001"></font>
+<font size=-1 color=#606060> 2006/07/04 (火) 20:20:01  神城めぐみ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607042202001_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607042202001"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030><font color="#ff88cc">���܂���`�̏������݂Ȃǂ�����΂��񍐂��肢���܂��B</font><br>
+<font size=4 color=#303030><font color="#ff88cc">＞また宣伝の書き込みなどがあればご報告お願いします。</font><br>
 <br>
-���肪�Ƃ��������܂����B m(__)m</font>
+ありがとうございました。 m(__)m</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[348]</font> <font size=4 color=#40c0c0> Re:�X�g�[���[����̊��z�ɕςȃT�C�g�̐�`���E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[348]</font> <font size=4 color=#40c0c0> Re:ストーリー道場の感想に変なサイトの宣伝が・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/01 (�y) 20:46:53  ��傤���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607016204653&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607016204653"></font>
+<font size=-1 color=#606060> 2006/07/01 (土) 20:46:53  りょう＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607016204653_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607016204653"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� �_��߂��݂���<br>
-<font color="#cc88ff">> �킽���̓��e�ɕςȃT�C�g�̐�`���c�B</font><br>
+<font size=4 color=#303030>▼ 神城めぐみさん<br>
+<font color="#cc88ff">> わたしの投稿に変なサイトの宣伝が…。</font><br>
 <br>
-�u���A����E�e�@���j�Փ�//Grenadable=>feast�i�O���l�C�_�u���E�t�B�[�X�g�j�v�ł悩�����ł����H<br>
-�Y���̏������݂��폜���܂����̂ł��m�F�������B<br>
+「南回帰戦線・銃機動祝祭日//Grenadable=>feast（グレネイダブル・フィースト）」でよかったですか？<br>
+該当の書き込みを削除しましたのでご確認下さい。<br>
 <br>
-�܂���`�̏������݂Ȃǂ�����΂��񍐂��肢���܂��B</font>
+また宣伝の書き込みなどがあればご報告お願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[345]</font> <font size=4 color=#40c0c0> �X�g�[���[����̊��z�ɕςȃT�C�g�̐�`���E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[345]</font> <font size=4 color=#40c0c0> ストーリー道場の感想に変なサイトの宣伝が・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/06/30 (��) 20:26:46  �_��߂��݂��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200606305202646&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305202646"></font>
+<font size=-1 color=#606060> 2006/06/30 (金) 20:26:46  神城めぐみさん </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200606305202646_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305202646"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�Ђ��A�Ђǂ��I(������)<br>
-�킽���̓��e�ɕςȃT�C�g�̐�`���c�B<br>
-���Ƃ����Ă��������B���肢���܂��B<br>
+<font size=4 color=#303030>ひっ、ひどい！(≧▽≦)<br>
+わたしの投稿に変なサイトの宣伝が…。<br>
+何とかしてください。お願いします。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data2">
@@ -276,16 +276,16 @@ SPAM�͎Ւf�ł��āASPAMMER�̓y�[�W�r���[�������Ăǂ������K��(��)�B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data2">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data2">�X�V</a>] [<a href="http://ts.novels.jp">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data2.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.</font>
 </td></table></div><br>
 </div>
 <br>

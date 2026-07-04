@@ -82,7 +82,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】運命そのものに見捨てられたかのような少年に差し伸べられたのは、救いの手？　……それとも、操り人形の糸？<br>
-<a href=http://ts.novels.jp/novel/200209/01010850/tssin1a.html target=_top>http://ts.novels.jp/novel/200209/01010850/tssin1a.html</a></font>
+<a href="../../novel/200209/01010850/tssin1a.html" target=_top>http://ts.novels.jp/novel/200209/01010850/tssin1a.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -190,7 +190,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】何気ない高校生活を送る稲葉大地。しかしその日常はとある出来事をきっかけに、もろくも崩れ去っていくのであった！<br>
 <br>
-<a href=http://ts.novels.jp/novel/200309/20061705/juuou_01.html target=_top>http://ts.novels.jp/novel/200309/20061705/juuou_01.html</a></font>
+<a href="../../novel/200309/20061705/juuou_01.html" target=_top>http://ts.novels.jp/novel/200309/20061705/juuou_01.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -222,11 +222,11 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】謎の鏡の力で美少女になって（？）しまった勇者ラムネス。……一方、その騒ぎの張本人はというと——<br>
 『転章「謎の影」』を見るにはここをクリック。<br>
-<a href=http://ts.novels.jp/novel/200309/20061705/ramune04.htm target=_top>http://ts.novels.jp/novel/200309/20061705/ramune04.htm</a><br>
+<a href="../../novel/200309/20061705/ramune04.htm" target=_top>http://ts.novels.jp/novel/200309/20061705/ramune04.htm</a><br>
 『第２話「新たなる敵・前編　何故かいきなり転校生」』を見るにはここをクリック。<br>
-<a href=http://ts.novels.jp/novel/200309/20061705/ramune05.htm target=_top>http://ts.novels.jp/novel/200309/20061705/ramune05.htm</a><br>
+<a href="../../novel/200309/20061705/ramune05.htm" target=_top>http://ts.novels.jp/novel/200309/20061705/ramune05.htm</a><br>
 『第２話「新たなる敵・後編　対決・暗黒の騎士！」』を見るにはここをクリック。<br>
-<a href=http://ts.novels.jp/novel/200309/20061705/ramune06.htm target=_top>http://ts.novels.jp/novel/200309/20061705/ramune06.htm</a></font>
+<a href="../../novel/200309/20061705/ramune06.htm" target=_top>http://ts.novels.jp/novel/200309/20061705/ramune06.htm</a></font>
 </td></table>
 </td></tr></table>
 

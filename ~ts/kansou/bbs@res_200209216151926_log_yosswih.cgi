@@ -1,38 +1,38 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>��������[�����i���z�f����</title>
+<title>よっすぃーさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��������[�����i���z�f����</font>
+<font size=5>よっすぃーさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yosswih">
 <input type=hidden name="nj" value="KTdZ6bLwiB">
 <input type=hidden name="res" value="14">
-<h4 align=center>�� �L���ԍ� 14 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 14 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ݂܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���K\����
-&gt; �������ɃM�����Q�[�̃L�����łe�o�r�����̂��ʔ������ł����ǎ���(�L����)�̎p�͂��܂茩���Ȃ����炠�܂�Ӗ����Ȃ������m��܂���ˁB</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読みました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ メガ\さん
+&gt; たしかにギャルゲーのキャラでＦＰＳをやるのも面白そうですけど自分(キャラ)の姿はあまり見えないからあまり意味がないかも知れませんね。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -45,78 +45,78 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> �ǂ������ǂ���?</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> どっちがどっち?</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/19 (��) 09:38:18 <strong>��</strong> SORA </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211192093818&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211192093818"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/19 (火) 09:38:18 <strong>▽</strong> SORA </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211192093818_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200211192093818"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂�A�y���܂��Ă��������܂����B:-)<br>
+<font size=3 color=#606060>いやはや、楽しませていただきました。:-)<br>
 <br>
-���ǂǂ������R�s�[�Ȃ�ł��傤�B<br>
-���񑩂Ƃ��Ă͂�͂舤�����{�l�ŌܘY��<br>
-�R�s�[�����ł��傤���B<br>
+結局どっちがコピーなんでしょう。<br>
+お約束としてはやはり愛美が本人で五郎が<br>
+コピーちゃんでしょうか。<br>
 <br>
-���Ō�̃G���R����̑䎌�A�Ђ������̂��c�B</font>
+＃最後のエリコさんの台詞、ひかれるものが…。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> ����Ӗ���������c</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> ある意味すごいや…</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/18 (��) 01:15:55 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211181011555&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211181011555"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/18 (月) 01:15:55 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211181011555_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200211181011555"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂�c�Ō�̍Ōオ���ꂷ�����̂��B<br>
-�M���O�̗��Ƃ����܂����A��w�̕��ł���܂����B<br>
-����ɂ��Ă��s��Ȃ�e�q���܂��Ă����΁A�X�^�[�E�I�[�Y�Ƃ���������ۂ��łB<br>
-SF�Őe�q���܁B����͂܂��ɃX�^�[�E�I�[�Y�I��i�������̂ł���B�i�Ȃ񂿂āc�j</font>
+<font size=3 color=#606060>いやはや…最後の最後がこれすごいのっ。<br>
+ギャグの嵐といいますか、一陣の風でありました。<br>
+それにしても壮絶なる親子喧嘩っていえば、スターウオーズとかもそれっぽいでつ。<br>
+SFで親子喧嘩。これはまさにスターウオーズ的作品だったのである。（なんちて…）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/16 (�y) 11:08:31 <strong>��</strong> ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211166110831&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211166110831"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/16 (土) 11:08:31 <strong>▽</strong> あい </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211166110831_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200211166110831"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�悻���痈���l�����̐e�q���񂩂͑s��ł��ˁi�΁j<br>
+<font size=3 color=#606060>よそから来た人たちの親子げんかは壮絶ですね（笑）<br>
 <br>
-��炩���Ă��炢�܂����B<br>
+わらかしてもらいました。<br>
 <br>
-�ŏI�񂨔�ꂳ�܂ł����B</font>
+最終回お疲れさまでした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/15 (��) 21:53:10 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211155215310&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211155215310"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/15 (金) 21:53:10 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211155215310_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200211155215310"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��͂͂͂͂́I<br>
-���ǂ͕����Q���J�����B<br>
-������̉ʂĂɎ����o�������働�{�����ꂶ��˂��E�E�E�i�΁j�B<br>
-�������A�F���̔ޕ��������Ă����A�����n����ł���Ă�̂��w�Z�o�c�H<br>
-�Ȃ񂾂��Ȃ��i���j�B<br>
+<font size=3 color=#606060>わははははは！<br>
+結局は父娘ゲンカかい。<br>
+挙げ句の果てに持ち出した巨大ロボがあれじゃねぇ・・・（笑）。<br>
+しかし、宇宙の彼方からやってきた連中が地球上でやってるのが学校経営？<br>
+なんだかなぁ（爆）。<br>
 <br>
-<font color="#ff88cc">���g�̂̕ϒ��ɋꂵ�ވ���</font><br>
-�Ȃ񂾁A�����������Ƃ������̂ˁB�������A���\�A����������j�ɖ߂�Ȃ��Ƃ����ݒ肪������ł����ǁA��������Ȃ������͈̂ӊO�Ƃ����ΈӊO�����B<br>
+<font color="#ff88cc">＞身体の変調に苦しむ愛美</font><br>
+なんだ、そういうことだったのね。しかし、結構アレがきたら男に戻れないという設定が多いんですけど、そうじゃなかったのは意外といえば意外かも。<br>
 <br>
-�Ȃɂ͂Ƃ�����A����ꂳ�܂ł����B���������҂��Ă��܂���B</font>
+なにはともあれ、お疲れさまでした。次回作も期待していますよ。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -124,15 +124,15 @@ SF�Őe�q���܁B����͂܂��ɃX�^�[�E�I�[�Y�I��i�������̂ł���B�i�Ȃ񂿂āc�j</fo
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[18]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[18]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/15 (��) 21:44:38 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211155214438&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211155214438"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/15 (金) 21:44:38 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211155214438_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200211155214438"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����(?)�������t���ĂȂɂ��ł�.<br>
-�G���R�͂܂��܂��ł���.</font>
+<font size=3 color=#606060>やっと(?)結末が付いてなによりです.<br>
+エリコはまだまだですが.</font>
 <p><div align=left><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a></div>
 </td></table>
 </td></tr></table>
@@ -140,61 +140,61 @@ SF�Őe�q���܁B����͂܂��ɃX�^�[�E�I�[�Y�I��i�������̂ł���B�i�Ȃ񂿂āc�j</fo
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> �w�w����m���b�h�E�u���}�[VOL6�@�s�g�d�@�e�h�m�`�k�@�n�r�g�h�l�`�h�c�d�r�r�d�x������ɂ͂������N���b</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> 『学園戦士レッド・ブルマーVOL6　ＴＨＥ　ＦＩＮＡＬ　ＯＳＨＩＭＡＩＤＥＳＳＥ』を見るにはここをクリッ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/15 (��) 20:23:53 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211155202353&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211155202353"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/15 (金) 20:23:53 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211155202353_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200211155202353"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���񂴂�����������u�j�Z�u���}�[�v�̐��̂Ƃ́H�@�g�̂̕ϒ��ɋꂵ�ވ����B�����āA���Ɏ���̎�őS�Ă̌���������Ƃ���C�[���E�x�C�_�[�I<br>
-�@�c�c���A�Ō�̐킢�̖����オ��B<br>
-<a href=http://ts.novels.jp/novel/200109/21002626/gakuen_red06.htm target=_top>http://ts.novels.jp/novel/200109/21002626/gakuen_red06.htm</a></font>
+<font size=3 color=#606060>【推薦文】さんざん引っ張った「ニセブルマー」の正体とは？　身体の変調に苦しむ愛美。そして、ついに自らの手で全ての決着をつけんとするイーン・ベイダー！<br>
+　……今、最後の戦いの幕が上がる。<br>
+<a href="../../novel/200109/21002626/gakuen_red06.htm" target=_top>http://ts.novels.jp/novel/200109/21002626/gakuen_red06.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/25 (��) 06:14:41 <strong>��</strong> ��������[ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200209253061441&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209253061441"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/25 (水) 06:14:41 <strong>▽</strong> よっすぃー </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200209253061441_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200209253061441"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�a�J���Ƃ���@����E����8426�@����E���K���@����E���d�F�@����E���z���肪�Ƃ��������܂����B<br>
-���������ŏ������̂ŁA���߂ēǂ�ł݂�Ƃ����炱����ɔj�]�̌オ�c�i�Ԗʃ��m�ł����j<br>
-�@�B������΂������萄�Ȃ��āA�ă`�������W���Ă݂����ł��B</font>
+<font size=3 color=#606060>渋谷＠家から　さん・ｍｋ8426　さん・メガ¥　さん・八重洲　さん・感想ありがとうございました。<br>
+勢いだけで書いたので、改めて読んでみるとあちらこちらに破綻の後が…（赤面モノでした）<br>
+機械があればじっくり推敲して、再チャレンジしてみたいです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> �ǂ݂܂�����[</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> 読みましたよー</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/24 (��) 22:41:41 <strong>��</strong> ���d�F </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200209242224141&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209242224141"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/24 (火) 22:41:41 <strong>▽</strong> 八重洲 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200209242224141_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200209242224141"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�o�[�`�������A���e�B�[�s�r�͂����ł��ˁB<br>
-�o�[�`�������Œ��҂Ȃ񂩂����ЌĂ�ł݂����ł��B</font>
+<font size=3 color=#606060>バーチャルリアリティーＴＳはいいですね。<br>
+バーチャル物で長編なんかもぜひ呼んでみたいです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/21 (�y) 15:19:26 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200209216151926&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209216151926"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/21 (土) 15:19:26 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200209216151926_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200209216151926"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������ɃM�����Q�[�̃L�����łe�o�r�����̂��ʔ������ł����ǎ���(�L����)�̎p�͂��܂茩���Ȃ����炠�܂�Ӗ����Ȃ������m��܂���ˁB</font>
+<font size=3 color=#606060>たしかにギャルゲーのキャラでＦＰＳをやるのも面白そうですけど自分(キャラ)の姿はあまり見えないからあまり意味がないかも知れませんね。</font>
 <p><div align=left><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a></div>
 </td></table>
 </td></tr></table>
@@ -202,24 +202,24 @@ SF�Őe�q���܁B����͂܂��ɃX�^�[�E�I�[�Y�I��i�������̂ł���B�i�Ȃ񂿂āc�j</fo
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/20 (��) 21:58:56 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200209205215856&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209205215856"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/20 (金) 21:58:56 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200209205215856_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200209205215856"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂩃z���[�Ƃ������A�L�`���C�̖ϑz�Ƃ������E�E�E�i���j�B<br>
-�������A�M�����Q�[�̃q���C�����K���A�N�V�����Ƃ����̂��A���\���������i�΁j�B<br>
+<font size=3 color=#606060>なんかホラーというか、キチ○イの妄想というか・・・（爆）。<br>
+しかし、ギャルゲーのヒロインがガンアクションというのも、結構いいかも（笑）。<br>
 <br>
-����̋��P�F�I���N��{�点��ƕ|�����i�j���j</font>
+今回の教訓：オ○クを怒らせると怖いぞ（核爆）</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yosswih">
@@ -227,16 +227,16 @@ SF�Őe�q���܁B����͂܂��ɃX�^�[�E�I�[�Y�I��i�������̂ł���B�i�Ȃ񂿂āc�j</fo
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yosswih">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yosswih">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yosswih.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

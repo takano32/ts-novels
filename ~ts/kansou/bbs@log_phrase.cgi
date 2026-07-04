@@ -53,7 +53,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 疲れる仕事担当です。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200310/09201103/ginnan_03.html target=_top>http://ts.novels.jp/novel/200310/09201103/ginnan_03.html</a></font>
+<a href="../../novel/200310/09201103/ginnan_03.html" target=_top>http://ts.novels.jp/novel/200310/09201103/ginnan_03.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -130,7 +130,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 女子男子の比率が極端に狂うと、どうも人間って言うのはおかしくなるようで。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200310/09201103/ginnan_02.html target=_top>http://ts.novels.jp/novel/200310/09201103/ginnan_02.html</a></font>
+<a href="../../novel/200310/09201103/ginnan_02.html" target=_top>http://ts.novels.jp/novel/200310/09201103/ginnan_02.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -163,7 +163,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 男子校もしくは女子校だった学校が男女共学となるのは、現在の風潮ともなっている……ような気がする（笑。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200310/09201103/ginnan_01.html target=_top>http://ts.novels.jp/novel/200310/09201103/ginnan_01.html</a></font>
+<a href="../../novel/200310/09201103/ginnan_01.html" target=_top>http://ts.novels.jp/novel/200310/09201103/ginnan_01.html</a></font>
 </td></table>
 </td></tr></table>
 

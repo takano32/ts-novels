@@ -52,7 +52,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】１２人も妹がいたら、もうそれだけでおなかいっぱい満腹状態（……笑）。<br>
-<a href=http://ts.novels.jp/novel/200606/23225516/sis_pri.htm target=_top>http://ts.novels.jp/novel/200606/23225516/sis_pri.htm</a></font>
+<a href="../../novel/200606/23225516/sis_pri.htm" target=_top>http://ts.novels.jp/novel/200606/23225516/sis_pri.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -67,7 +67,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 最後のアレは、願望の現われ……なんてことは、ないですよね？　ね？<br>
-<a href=http://ts.novels.jp/novel/200606/23225516/iriya.html target=_top>http://ts.novels.jp/novel/200606/23225516/iriya.html</a></font>
+<a href="../../novel/200606/23225516/iriya.html" target=_top>http://ts.novels.jp/novel/200606/23225516/iriya.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -106,7 +106,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ヴァリオンさんの皮もの二次創作第二弾。アニメのキャラクターショーによく出てくる、表情の変わらないお面着ぐるみを想像してはいけないと、思う（……笑）。<br>
-<a href=http://ts.novels.jp/novel/200606/23225516/gass.html target=_top>http://ts.novels.jp/novel/200606/23225516/gass.html</a></font>
+<a href="../../novel/200606/23225516/gass.html" target=_top>http://ts.novels.jp/novel/200606/23225516/gass.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -137,7 +137,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 D.C.S.S.って、担当は知らなかったのですが、みなさん被り物を着て生活してるんですね……え？　違う？<br>
-<a href=http://ts.novels.jp/novel/200606/23225516/dcss.html target=_top>http://ts.novels.jp/novel/200606/23225516/dcss.html</a></font>
+<a href="../../novel/200606/23225516/dcss.html" target=_top>http://ts.novels.jp/novel/200606/23225516/dcss.html</a></font>
 </td></table>
 </td></tr></table>
 

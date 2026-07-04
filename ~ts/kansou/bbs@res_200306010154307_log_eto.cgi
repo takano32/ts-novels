@@ -1,39 +1,39 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���x�����i�@���z�f����</title>
+<title>干支さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���x�����i�@���z�f����</font>
+<font size=5>干支さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="eto">
 <input type=hidden name="nj" value="yOyETg5pw1">
 <input type=hidden name="res" value="6">
-<h4 align=center>�� �L���ԍ� 6 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 6 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���炵�܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��傤���^�c�ψ�����
-&gt; �{��i�̃R�����g�����ԈႦ�Ă����̂ŏC�����܂����B
-&gt; �����f���������܂����B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:失礼しました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ りょう＠運営委員さん
+&gt; 本作品のコメント欄を間違えていたので修正しました。
+&gt; ご迷惑おかけしました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -46,92 +46,92 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> ���ǂ݂��������Ă��肪�Ƃ��������܂����B</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> お読みいただいてありがとうございました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/27 (��) 18:19:51 <strong>��</strong> ���x </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306275181951&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306275181951"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/27 (金) 18:19:51 <strong>▽</strong> 干支 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306275181951_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306275181951"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�������i�n����j�`������</font><br>
-���ǂݒ����Ă��肪�Ƃ��������܂�<br>
-�ǂ���犴�z�ƃ��X���d�Ȃ���������݂����ł��ˁB�ǂ����X�C�}�Z���B<br>
-�m���ɂ����ł��ˁB���̑Ώۂł��ˁB�܂��ނ��ȒP�ɂ���邩�ǂ����͂킩��܂��񂪁B�ł��܂��ނɂ͈��C�������͖�����ł��ˁB�i�΁j�܂������Ă����Ă��������B<br>
-����͑O��ƃK�����ƕ��͋C��ς�������ŁA�F���O��Ƃ͐����΂ɂނ�����J���t���ɂ��Ă݂��̂ł����A��i���l��肷�����Ⴂ�܂����ˁB</font>
+<font size=3 color=#606060><font color="#ff88cc">＞足利（馬鹿守）義忠さん</font><br>
+お読み頂いてありがとうございます<br>
+どうやら感想とレスが重なっちゃったみたいですね。どうもスイマセン。<br>
+確かにそうですね。狩りの対象ですね。まあ彼が簡単にやられるかどうかはわかりませんが。でもまあ彼には悪気が無くは無いんですね。（笑）まあ許してあげてください。<br>
+今回は前回とガラリと雰囲気を変えたつもりで、色も前回とは正反対にむっちゃカラフルにしてみたのですが、作品同様やりすぎちゃいましたね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> ���ǂݒ����Ă��肪�Ƃ��������܂����B</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> お読み頂いてありがとうございました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/27 (��) 18:10:11 <strong>��</strong> ���x </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306275181011&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306275181011"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/27 (金) 18:10:11 <strong>▽</strong> 干支 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306275181011_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306275181011"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ǂݒ����Ă��肪�Ƃ��������܂����B���č���̍�i�ł����A���Ƃ����ɂ��������Ƃ���w��l�\���\�x�Ő痢�̌����Ă����A��l�̒j����l���ɂ��܂����B�ŏ�����M���O�w���ōs�����肾�����̂ŏo�����̂́A�܂��������P�_�Ȃǂ��L��܂����ꉞ�܂��܂��ƌ��������ł��E�E�E�E���A�����Ŗ����𔭌��I�쒆�œV�삪���N���č���w��N���ď������͂��Ȃ̂ɁA���N�Ő��l�����ނ����邱�ƂɂȂ��Ă���I�I�I�I�ނ��䂾�B��ы��ł������̂ł��傤���ˁH�i�{���̓P�A���X�~�X�ł��B�����܂���j<br>
-<font color="#ff88cc">���A�J�g������</font><br>
-���ǂݒ����Ă��肪�Ƃ��������܂��B�ǂ݂ɂ��������ł����B�܂����̏��A�����đ����������̓s���N����Ȃ������̂ł����A�S���̕����s���N�F�Ƀ��C�A�E�g���Ă����������̂����āw���������ȁB�x���Ďv���Ă��̂܂�OK�����������ł��ˁB�܂����ꂩ��͓ǂ݈Ղ��悤�ɋC�����Ă����܂��B���ꂩ�����ς蒅���Ă����܂���ł������B���̓��^�N�V���ł��B�i�΁j���Ă������V����񂪏���Ɉ�l�����n�߂��������ł���B�ł܂���҂���ɂ����Ȃ��킯�Łi���j<br>
-<font color="#ff88cc">�������W�S�Q�U�������</font><br>
-���ǂݒ����Ă��肪�Ƃ��������܂��B����ς�ǂ������ł����B�_�u��TS�B���`�񎩕��ł��m���ɋ����Ɏv���Ă����E�E�E�E����͈������I�ɂ���Ă݂���ł��ˁB�w��l�x���Ċ�{�I��TS���̂������C������Ȃ�������e�l����Ƃ��Ƃ����Ăǂ������TSF�͂��ނ��Y�ނ�ł��ˁB�ł܂����̃l�^���v�������킯�ł��B�܂�������V�����̃n�W�P���Y���̂��A�ł��ȁB����͜߈ˁA�ϐg�A����ւ��̃g���v���ōs�����Ǝv���܂��B�i�΁j<br>
+<font size=3 color=#606060>お読み頂いてありがとうございました。さて今回の作品ですが、あとがきにも書いたとおり『狩人—裏—』で千里の言っていた、二人の男を主人公にしました。最初からギャグ指向で行くつもりだったので出来自体は、まあ多少改善点なども有りますが一応まあまあと言った所です・・・・が、ここで矛盾を発見！作中で天駆が留年して今大学二年って書いたはずなのに、今年で成人式をむかえることになっている！！！！むう謎だ。飛び級でもしたのでしょうかね？（本当はケアレスミスです。すいません）<br>
+<font color="#ff88cc">＞アカトリさん</font><br>
+お読み頂いてありがとうございます。読みにくかったですか。まあ実の所、書いて送った当初はピンクじゃなかったのですが、担当の方がピンク色にレイアウトしてくださったのを見て『いいかもな。』って思ってそのままOKしちゃったんですね。まあこれからは読み易いように気をつけていきます。それからやっぱり着いていけませんでしたか。実はワタクシもです。（笑）っていうか新ちゃんが勝手に一人歩き始めちゃったんですよ。でまあ作者も手におえないわけで（爆）<br>
+<font color="#ff88cc">＞ｍｋ８４２６＠自宅さん</font><br>
+お読み頂いてありがとうございます。やっぱり良かったですか。ダブルTS。う〜ん自分でも確かに凶悪に思えてきた・・・・今回は一種実験的にやってみたんですね。『狩人』って基本的にTSそのもがメインじゃないから内容考えるときとかってどうやってTSFはさむか悩むんですね。でまあこのネタが思いついたわけです。まあこれも新ちゃんのハジケリズムのお陰ですな。次回は憑依、変身、入れ替わりのトリプルで行こうと思います。（笑）<br>
 <br>
-�܂�����͂₽��Ɩ\���C���ő��v���Ȃ��H���Ďv�����̂ł����A�\�z�ȏ�̔����i���Ē��ł��Ȃ����ǁj�ɋ����܂����B���ǂ݂��������āA���z�����Ă��������āA�ǂ������肪�Ƃ��������܂����B</font>
+まあ今回はやたらと暴走気味で大丈夫かなあ？って思ったのですが、予想以上の反響（って程でもないけど）に驚きました。お読みいただいて、感想書いていただいて、どうもありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/27 (��) 18:01:02 <strong>��</strong> �����i�n����j�`�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306275180102&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306275180102"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/27 (金) 18:01:02 <strong>▽</strong> 足利（馬鹿守）義忠 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306275180102_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306275180102"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�X���V���Y�́w���x�̑Ώۂł��ˁB�i�΁j<br>
+<font size=3 color=#606060>森羅新太郎は『狩り』の対象ですね。（笑）<br>
 <br>
-�Ă������A�܂��J���t���ȁE�E�E�B�܂��A�ʂɂ�����ł����ǁB<br>
+ていうか、またカラフルな・・・。まあ、別にいいんですけど。<br>
 <br>
-��������҂����Ⴂ�܂���B</font>
+次回も期待しちゃいますよ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> ���ꂵ���Ȃ��Ă��݂܂���</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> これしかなくてすみません</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/27 (��) 07:57:40 <strong>��</strong> �A�J�g�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306275075740&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306275075740"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/27 (金) 07:57:40 <strong>▽</strong> アカトリ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306275075740_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306275075740"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�˂����܂ꂽ���������������[�[�[�[�[�[�I�@����A���́A���́A���g�̕��ɂ͂��́A�u���čs����Ă��܂��āc�c�B�v����ɂ��čs���Ȃ������̂Ńm�[�R�����g��������ł��B����ɕ����̌������ۂɎc���Ă������̂Łc�c�����܂��񊱎x����B</font>
+<font size=3 color=#606060>突っ込まれたぁぁぁぁっっっーーーーーー！　いや、その、あの、中身の方にはその、置いて行かれてしまって……。要するについて行けなかったのでノーコメントだったんです。それに文字の見難さが印象に残っていたもので……すいません干支さん。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/26 (��) 23:37:07 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306264233707&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306264233707"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/26 (木) 23:37:07 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306264233707_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306264233707"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ԂЂ�Ђ�Ђ�Ђ�Ђ�I<br>
-�e�������Ȃ�ł����A�����܂Œe����Ƌt�ɉ����ł��ȁi���j�B<br>
-�������A��s�@�ɏ���Ă�l��TS��������ɓ���ւ��H�ŋ��ł��ȁB<br>
-�Ȃ񂩁A�����A���܂�̏��s�Ȃ�ŁA���Ă邵���Ȃ��ł��ȁi���j�B<br>
+<font size=3 color=#606060>ぶひゃひゃひゃひゃひゃ！<br>
+弾けすぎなんですが、ここまで弾けると逆に快感ですな（爆）。<br>
+しかし、飛行機に乗ってる人をTSさせた上に入れ替え？最凶ですな。<br>
+なんか、こう、あまりの所行なんで、見てるしかないですな（ぉ）。<br>
 <br>
-����͂����ƁB<br>
+それはそうと。<br>
 <br>
-<font color="#ff88cc">���A�J�g������</font><br>
-�����̐F�ȊO�ɉ����������Ɩ���������ł��傤���˂��E�E�E�B</font>
+<font color="#ff88cc">＞アカトリさん</font><br>
+文字の色以外に何か言うこと無かったんでしょうかねぇ・・・。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -142,41 +142,41 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[8]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/26 (��) 22:18:05 <strong>��</strong> �A�J�g�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306264221805&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306264221805"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/26 (木) 22:18:05 <strong>▽</strong> アカトリ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306264221805_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306264221805"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������s���N�F���ƌ��\����̂ł����ƌ��₷���F�ɕς��Ă���Ȃ��ł��傤���B</font>
+<font size=3 color=#606060>文字がピンク色だと結構見難いのでもっと見やすい色に変えてくれないでしょうか。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �w��l�@�|�t���ƃM���O�ƒm�荇���Ɓ|�x������ɂ͂������N���b�N�B</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 『狩人　−師匠とギャグと知り合いと−』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/25 (��) 20:36:56 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306253203656&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306253203656"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/25 (水) 20:36:56 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306253203656_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306253203656"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�n�W�P�Ă܂��B�v��������n�W�P�Ă��܂��B�c�c����Ӗ��u���v�̘A����������������i�΁j�B<br>
-<a href=http://ts.novels.jp/novel/200305/31163505/hunter_ex02.htm target=_top>http://ts.novels.jp/novel/200305/31163505/hunter_ex02.htm</a></font>
+<font size=3 color=#606060>【推薦文】ハジケてます。思いっきりハジケています。……ある意味「裏」の連中よりやっかいかも（笑）。<br>
+<a href="../../novel/200305/31163505/hunter_ex02.htm" target=_top>http://ts.novels.jp/novel/200305/31163505/hunter_ex02.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> ���炵�܂���</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 失礼しました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/01 (��) 15:43:07 <strong>��</strong> ��傤���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306010154307&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306010154307"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/01 (日) 15:43:07 <strong>▽</strong> りょう＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306010154307_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306010154307"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�{��i�̃R�����g�����ԈႦ�Ă����̂ŏC�����܂����B<br>
-�����f���������܂����B<br>
+<font size=3 color=#606060>本作品のコメント欄を間違えていたので修正しました。<br>
+ご迷惑おかけしました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -184,53 +184,53 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �ǂ�ł��������Ă��肪�Ƃ��������܂����B</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 読んでくださってありがとうございました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/01 (��) 14:27:53 <strong>��</strong> ���x </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306010142753&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306010142753"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/01 (日) 14:27:53 <strong>▽</strong> 干支 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306010142753_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306010142753"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̓x�͎�l�\���\��ǂ�Œ����Đ��ɂ��肪�Ƃ��������܂����B�������x�͊��ӊ��ӂ̗܂̍^���̂悤�ȋC�����܂��B����ł͏����X�A�X�b�^�[�g��<br>
+<font size=3 color=#606060>この度は狩人—裏—を読んで頂いて誠にありがとうございました。もう干支は感謝感謝の涙の洪水のような気がします。それでは初レス、スッタート♪<br>
 <br>
-<font color="#ff88cc">�������i�n����j�`���l</font><br>
-���ǂ݂��������Ă��肪�Ƃ��������܂����B<br>
-����̗���l���Ă����ݒ�́A���߂��瓪�ɂ������킯����Ȃ���ł��B���̘b���l���鎞�ɁA�w�G�͂ǂ����悤�H�x���čl���ĂāA���߂́w���E�̈����x�݂����Ȋ����ɂ��悤�Ǝv�����̂ł����A�I���W�i���e�B�������悤�Ȋ��������Đ��Ȃ��d�˂Ă��������ɂ���ɍs�������܂����B<br>
-�܂�����͑S�̓I�ɏ��߂̐ݒ�Ƃ͈Ⴄ�̂ɂȂ���������̂ł����B<br>
-<font color="#ff88cc">��DEKOI�l</font><br>
-���J�ߒ����Ă��肪�Ƃ��������܂��B<br>
-���Ȃ݂ɉ����N�̃g���t�@�[�́A�_��Ɠ������肾����ǖ��E�̕���ł͂Ȃ��B�Ƃ����̂��ꉞ�̐ݒ�ł��B���ꂩ��痢����̔\�͂ł����A���M�O�́w���b��̎��Ԃ�����x�\�͂����悤�Ǝv�����̂ł����A���������ƃC�}�C�`�����i�܂Ȃ��悤�ȋC�������̂Ŗ����ɂ��܂����B�w����l�x�̕��́A�����ł����ɕ����񂾏u�Ԃ́w����Ȃ̂����肩���ȁH�x���ċ����܂����B���ꂩ��A����̐ݒ���L�������ǂ������D���Ȃ������g�����������B���������Ɓi����Ȃ��Ă��j�������������Č��߂�O����A�w�����̃L�����Ƃ��ݒ肪��l�̖{�Ƃɏo���炢���Ȃ��B�x�Ȃ�Ďv���Ă܂����B<br>
-<font color="#ff88cc">������8426������l</font><br>
-���҂ł����E�E�E�E�E�E�ꉞ���̒��ŗ����������������iDEKOI����̍�i�̃L��������ɂ��������������j���Ă��ł����A���񏑂��Ăĉ��߂ď���������ς����������Ă��܂����̂ŁA�{�Ƃ݂����ɃV���[�Y���̂ŏo�����͖����Ǝv���܂��B�i���҂���������Ă����܂���j�ł��܂��Z�҂Ƃ��͂�����������i�{���ɂ�����������j�����ɂ������ď��������m��Ȃ��̂Ŋ��҂��Ȃ��ő҂��ĂĂ��������B�i�V���[�Y���̂͂��Ȃ�̂ɏ������Ƃ��Ēf�O������������̂ŁE�E�E�j<br>
-�����̕��ł����A�����ł�������ƒ������ȁi�S�̓I�ɒ����̂ł����j���Ďv���Ă܂����B���w�E���������Ă��肪�Ƃ��������܂����B<br>
+<font color="#ff88cc">＞足利（馬鹿守）義忠様</font><br>
+お読みいただいてありがとうございました。<br>
+今回の裏狩人っていう設定は、初めから頭にあったわけじゃないんです。この話を考える時に、『敵はどうしよう？』って考えてて、初めは『魔界の悪魔』みたいな感じにしようと思ったのですが、オリジナリティが無いような感じがして推敲を重ねていくうちにこれに行き着きました。<br>
+まあ今回は全体的に初めの設定とは違うのになっちゃったのですが。<br>
+<font color="#ff88cc">＞DEKOI様</font><br>
+お褒め頂いてありがとうございます。<br>
+ちなみに炎樹君のトンファーは、神薙と同じ造りだけれど魔界の武器ではない。というのが一応の設定です。それから千里さんの能力ですが、執筆前は『数秒先の時間を見る』能力もつけようと思ったのですが、それを入れるとイマイチ文が進まないような気がしたので無しにしました。『裏狩人』の方は、自分でも頭に浮かんだ瞬間は『こんなのもありかもな？』って驚きました。それから、今回の設定もキャラもどうぞお好きなだけお使いください。実を言うと（言わなくても）小説書こうって決める前から、『自分のキャラとか設定が狩人の本家に出たらいいなあ。』なんて思ってました。<br>
+<font color="#ff88cc">＞ｍｋ8426＠自宅様</font><br>
+続編ですか・・・・・・一応頭の中で流れを作っちゃったり（DEKOIさんの作品のキャラ勝手にだしっちゃったり）してるんですが、今回書いてて改めて小説書く大変さを実感してしまったので、本家みたいにシリーズもので出す事は無いと思います。（期待させちゃってすいません）でもまあ短編とかはもしかしたら（本当にもしかしたら）いつか暇を見つけて書くかも知れないので期待しないで待っててください。（シリーズものはかなり昔に書こうとして断念した事もあるので・・・）<br>
+説明の方ですが、自分でもちょっと長いかな（全体的に長いのですが）って思ってました。ご指摘いただいてありがとうございました。<br>
 <br>
-�����X�I���ł�����<br>
-����͓r���ŕۑ����Ă���i�̓��e�����������Ă��܂����肵�Ĉꎞ�͂�߂悤�Ǝv�������炢�ł����A�������ĉ��Ƃ������グ�鎖���o���܂����B�������������܂������A�V���[�Y���̂ł͓�������m��܂��񂪒Z�҂͂������������m��Ȃ��̂ł��̎��܂łɕM�𖁂��Ă����܂��B<br>
-����ł͍����͂��̕ӂŁB</font>
+初レス終了でっす♪<br>
+今回は途中で保存してた作品の内容が消え去ってしまったりして一時はやめようと思ったくらいですが、こうして何とか書き上げる事が出来ました。さっきも書きましたが、シリーズものでは難しいかも知れませんが短編はいつか書くかも知れないのでその時までに筆を磨いておきます。<br>
+それでは今日はこの辺で。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/01 (��) 11:22:52 <strong>��</strong> <a href="mailto:ycoco99@ybb.ne.jp">�����i�n����j�`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306010112252&log=eto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306010112252"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/01 (日) 11:22:52 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306010112252_log_eto.cgi">返信</a>　削除<input type=checkbox name="target" value="200306010112252"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>DEKOI�̍�i�̕��ł��o�ꂵ�Ăق����I<br>
+<font size=3 color=#606060>DEKOIの作品の方でも登場してほしい！<br>
 <br>
-����l�ɂ͂т����肵�܂����ˁB�ӓ_������܂����B<br>
+裏狩人にはびっくりしましたね。盲点をつかれました。<br>
 <br>
-���ꂩ�������΂��Ă��������ˁB</font>
+これからもがんばってくださいね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="eto">
@@ -238,16 +238,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="eto">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=eto">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_eto.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

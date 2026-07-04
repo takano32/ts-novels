@@ -153,7 +153,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】初登場テンメイさんの作品は、住み慣れた町を離れて新生活を始めた少女のお話です。<br>
-<a href=http://ts.novels.jp/novel/200512/13211922/saikai.html target=_top>http://ts.novels.jp/novel/200512/13211922/saikai.html</a></font>
+<a href="../../novel/200512/13211922/saikai.html" target=_top>http://ts.novels.jp/novel/200512/13211922/saikai.html</a></font>
 </td></table>
 </td></tr></table>
 

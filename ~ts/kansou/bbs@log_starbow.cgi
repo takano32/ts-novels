@@ -165,7 +165,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】今回の「第２宮家」は、ある哀れな刺客の話。……のような気がします。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;7.html target=_top>http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;7.html</a></font>
+<a href="../../novel/200203/02172009/2nd_miyake_7.html" target=_top>http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;7.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -234,7 +234,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】玉司宮が見てきた過去の記憶には一体何があったのか。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;6.html target=_top>http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;6.html</a></font>
+<a href="../../novel/200203/02172009/2nd_miyake_6.html" target=_top>http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;6.html</a></font>
 </td></table>
 </td></tr></table>
 

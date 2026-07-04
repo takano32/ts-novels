@@ -71,7 +71,7 @@ link<input type=checkbox name="link" value="1" checked>
 華代ちゃんシリーズは　シェアワールドとして、取り扱い、一つの掲示板に総合させることになりました。<br>
 そんなわけで『　”ＧＡＬＬＡＮＴ　Ｓ ＴＯＲＹ”Ａｃｔ：１　Ｓ ｃｅｎｅ＃０１　「ある少 女との出会い、そして・・ ・」 』　の続きの感想は以下のリンクからどうぞ。<br>
 <br>
-<a href=http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan</a></font>
+<a href="bbs@log_kayo_chan.cgi" target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan</a></font>
 </td></table>
 </td></tr></table>
 

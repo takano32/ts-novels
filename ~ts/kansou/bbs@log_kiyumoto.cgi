@@ -52,7 +52,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】なんか専門用語がびしばし飛び交って、微妙に世界観が透けて見えてきます。……ところでダチョウの肉とタマゴの親子丼は、まじで食べてみたいと思う（笑）。<br>
-<a href=http://ts.novels.jp/novel/200608/21204946/h_culus03.html target=_top>http://ts.novels.jp/novel/200608/21204946/h_culus03.html</a></font>
+<a href="../../novel/200608/21204946/h_culus03.html" target=_top>http://ts.novels.jp/novel/200608/21204946/h_culus03.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -178,7 +178,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】お買い物っ♪　お買い物っ♪　コスメに下着にふりふりドレスっ♪　……な〜んて展開に食傷ぎみの貴方に捧げます（笑）。<br>
-<a href=http://ts.novels.jp/novel/200608/21204946/h_culus02.html target=_top>http://ts.novels.jp/novel/200608/21204946/h_culus02.html</a><br>
+<a href="../../novel/200608/21204946/h_culus02.html" target=_top>http://ts.novels.jp/novel/200608/21204946/h_culus02.html</a><br>
 　※ 記事投稿の際は、入力コード右側の半角英数字６文字を、その右側のボックスに入力してください。</font>
 </td></table>
 </td></tr></table>

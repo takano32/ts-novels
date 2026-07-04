@@ -98,7 +98,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>▼ 島田さん<br>
-<a href=http://www.novels.jp/~ts/bbs/index.cgi target=_top>http://www.novels.jp/~ts/bbs/index.cgi</a></font>
+<a href="../bbs/index.cgi" target=_top>http://www.novels.jp/~ts/bbs/index.cgi</a></font>
 </td></table>
 </td></tr></table>
 
@@ -221,7 +221,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】「萌えの道」を究めるのは、いろいろと難しい（？）ようです。ましてや、自分が……おっとっと、あとは読んでからのお楽しみっ。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200109/21035514/yamasaki.htm target=_top>http://ts.novels.jp/novel/200109/21035514/yamasaki.htm</a></font>
+<a href="../../novel/200109/21035514/yamasaki.htm" target=_top>http://ts.novels.jp/novel/200109/21035514/yamasaki.htm</a></font>
 </td></table>
 </td></tr></table>
 

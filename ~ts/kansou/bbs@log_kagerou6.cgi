@@ -108,7 +108,7 @@ SORAさん<br>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】辛い恋、叶わない恋……まさみちゃんの思いは揺れ動き、そして——<br>
 　ヒロイン第二部、堂々の完結！！<br>
-<a href=http://ts.novels.jp/novel/200206/04234833/the_heroine20.html target=_top>http://ts.novels.jp/novel/200206/04234833/the_heroine20.html</a></font>
+<a href="../../novel/200206/04234833/the_heroine20.html" target=_top>http://ts.novels.jp/novel/200206/04234833/the_heroine20.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -183,7 +183,7 @@ SORAさん<br>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】なんだか知らぬ間にイメージガール(？)になってしまったまさみちゃんですが……。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200206/04234833/the_heroine19.html target=_top>http://ts.novels.jp/novel/200206/04234833/the_heroine19.html</a></font>
+<a href="../../novel/200206/04234833/the_heroine19.html" target=_top>http://ts.novels.jp/novel/200206/04234833/the_heroine19.html</a></font>
 </td></table>
 </td></tr></table>
 

@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���N�������ɂ̉^�c�ɂ��Č���</title>
+<title>少年少女文庫の運営について語る会</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >���N�������ɂ̉^�c�ɂ��Č���</font>
+<font size=6 >少年少女文庫の運営について語る会</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>���N�������ɂ̉^�c�ɂ��Ă̋^��A������A���ӌ���A�u�^�c�Ɍg����Ă݂����v�Ƃ����l�́A���Џ�������ŉ������B</font>
+<font color=#608080>少年少女文庫の運営についての疑問、ご質問、ご意見や、「運営に携わってみたい」という人は、ぜひ書き込んで下さい。</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,33 +15,33 @@
 <input type=hidden name="log" value="data2">
 <input type=hidden name="nj" value="HFw9VljlsD">
 <input type=hidden name="res" value="81">
-<h4 align=center>�� �L���ԍ� 81 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 81 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2:�����������E�E�E  "><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� starbow@�^�c�ψ�����
-&gt; �� ����A
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2:少し興味が・・・  "><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ starbow@運営委員さん
+&gt; 鏡 さん、
 &gt; 
-&gt; &gt;���Ȃ݂ɂb�f�h�E�E�E���ł�(�s���s)
-&gt; ���C���́A��i�̃`�F�b�N�ł��̂ŁA�S�z�͂Ȃ��Ǝv���܂��B
+&gt; &gt;ちなみにＣＧＩ・・・苦手です(Ｔ○Ｔ)
+&gt; メインは、作品のチェックですので、心配はないと思います。
 &gt; 
-&gt; CGI�́A�i�s�󋵂̊m�F�ƁA�f�ڂ̂Ƃ��Ɏg�������ł�����B
-&gt; ���v�ł���B</textarea><br>
+&gt; CGIは、進行状況の確認と、掲載のときに使うだけですから。
+&gt; 大丈夫ですよ。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -54,204 +54,204 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[84]</font> <font size=4 color=#40c0c0> ����Ȃ��Ə����Ă����̂��ǂ����E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[84]</font> <font size=4 color=#40c0c0> こんなこと書いていいのかどうか・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/12/17 (��) 22:12:17  <a href="mailto:Porch_Arisia@hotmail.com">�ہ[��</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200312173221217&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312173221217"></font>
+<font size=-1 color=#606060> 2003/12/17 (水) 22:12:17  <a href="mailto:Porch_Arisia@hotmail.com">ぽーち</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200312173221217_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200312173221217"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�l�t�b�j����̂l�`�f�h�b�`�k�@�s�v�h�m�r��1��ڂ���ƕ�50���ژ^�ɍڂ��Ă܂���B<br>
-���A���Əo����Ή^�c�ψ���肽�������E�E�E<br>
+<font size=4 color=#303030>ＭＵＣＫさんのＭＡＧＩＣＡＬ　ＴＷＩＮＳの1作目が作家別50音目録に載ってません。<br>
+あ、あと出来れば運営委員やりたいかも・・・<br>
 <br>
-�ȏ�ł��O�O<br>
-�폜PASS�F�P�Q�R�S</font>
+以上です＾＾<br>
+削除PASS：１２３４</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[83]</font> <font size=4 color=#40c0c0> �����A����Ɓc�c</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[83]</font> <font size=4 color=#40c0c0> ああ、それと……</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/10/27 (��) 18:49:51  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200310271184951&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310271184951"></font>
+<font size=-1 color=#606060> 2003/10/27 (月) 18:49:51  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200310271184951_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200310271184951"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�@kou@�^�c�ψ��ł��B<br>
+<font size=4 color=#303030>　kou@運営委員です。<br>
 <br>
-�@�����A�����ŉ^�c�ψ�����肽���̂Ȃ�΁A<a href=mailto:admin@ts.novels.jp>admin@ts.novels.jp</a>�Ƀ��[���𑗂��Ă��������B<br>
-�@���e�́A�u�^�c�ψ��ւ̗����v�ł����Ǝv���܂��B</font>
+　もし、試しで運営委員をやりたいのならば、<a href=mailto:admin@ts.novels.jp>admin@ts.novels.jp</a>にメールを送ってください。<br>
+　内容は、「運営委員への立候補」でいいと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[82]</font> <font size=4 color=#40c0c0> Re:�����������E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[82]</font> <font size=4 color=#40c0c0> Re:少し興味が・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/10/25 (�y) 07:40:12  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200310256074012&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310256074012"></font>
+<font size=-1 color=#606060> 2003/10/25 (土) 07:40:12  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200310256074012_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200310256074012"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� ������<br>
-�@�����i�H�j�L���������܂��B<br>
+<font size=4 color=#303030>▼ 鏡さん<br>
+　立候補（？）有り難うございます。<br>
 <br>
-<font color="#cc88ff">> ���Ȃ݂ɂb�f�h�E�E�E���ł�(�s���s)</font><br>
+<font color="#cc88ff">> ちなみにＣＧＩ・・・苦手です(Ｔ○Ｔ)</font><br>
 <br>
-�@���󂶂�Ȃ��ł�����i�΁j�Bstarbow���񂪋��Ă���Ƃ���A��i��o�^����̂Ɏg���܂��B</font>
+　作る訳じゃないですから（笑）。starbowさんが仰っているとおり、作品を登録するのに使います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[81]</font> <font size=4 color=#40c0c0> re:�����������E�E�E  </font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[81]</font> <font size=4 color=#40c0c0> re:少し興味が・・・  </font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/10/25 (�y) 01:40:31  starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200310256014031&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310256014031"></font>
+<font size=-1 color=#606060> 2003/10/25 (土) 01:40:31  starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200310256014031_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200310256014031"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� ����A<br>
+<font size=4 color=#303030>鏡 さん、<br>
 <br>
-<font color="#cc88ff">&gt;���Ȃ݂ɂb�f�h�E�E�E���ł�(�s���s)</font><br>
-���C���́A��i�̃`�F�b�N�ł��̂ŁA�S�z�͂Ȃ��Ǝv���܂��B<br>
+<font color="#cc88ff">&gt;ちなみにＣＧＩ・・・苦手です(Ｔ○Ｔ)</font><br>
+メインは、作品のチェックですので、心配はないと思います。<br>
 <br>
-CGI�́A�i�s�󋵂̊m�F�ƁA�f�ڂ̂Ƃ��Ɏg�������ł�����B<br>
-���v�ł���B</font>
+CGIは、進行状況の確認と、掲載のときに使うだけですから。<br>
+大丈夫ですよ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[80]</font> <font size=4 color=#40c0c0> �����������E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[80]</font> <font size=4 color=#40c0c0> 少し興味が・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/10/23 (��) 18:42:31  <a href="mailto:mtc_rtc@hotmail.com">��</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200310234184231&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310234184231"></font>
+<font size=-1 color=#606060> 2003/10/23 (木) 18:42:31  <a href="mailto:mtc_rtc@hotmail.com">鏡</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200310234184231_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200310234184231"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>���������^�c�ψ�����A����΂�́B<br>
+<font size=4 color=#303030>ｋｏｕ＠運営委員さん、こんばんは。<br>
 <br>
-�^�c�ψ����W���Ƃ������ƂŁA������������Ă݂����Ȃ��Ǝv���܂����B<br>
-���݁A���N�������ɂ���ɍ�i�𓊍e���Ă���̂ł����A����ł��n�j�ł�����A<br>
-�d���̑̌������ł�����Ă݂����ł��B<br>
-���Ȃ݂ɂb�f�h�E�E�E���ł�(�s���s)</font>
+運営委員を募集中ということで、私も少しやってみたいなぁと思いました。<br>
+現在、少年少女文庫さんに作品を投稿しているのですが、それでもＯＫでしたら、<br>
+仕事の体験だけでもやってみたいです。<br>
+ちなみにＣＧＩ・・・苦手です(Ｔ○Ｔ)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[79]</font> <font size=4 color=#40c0c0> �^�c�ψ���W</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[79]</font> <font size=4 color=#40c0c0> 運営委員募集</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/15 (��) 13:02:56  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309151130256&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309151130256"></font>
+<font size=-1 color=#606060> 2003/09/15 (月) 13:02:56  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309151130256_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200309151130256"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>kou@�^�c�ψ��ł��B<br>
+<font size=4 color=#303030>kou@運営委員です。<br>
 <br>
-�@���N���A�^�c�ψ���W���J�n���܂��B�Q�����Ă݂����A�ǂ̂悤�Ȃ��d�����s�����m�肽�����́A������֏�������ł��������B<br>
-�@�܂��A�������ŉ^�c�ψ�������Ă݂�Ƃ����̂�����ł��B�ׂ����b�𕷂������ۂ��A������ɂ��������݂��������B<br>
+　今年も、運営委員募集を開始します。参加してみたい、どのようなお仕事を行うか知りたい方は、こちらへ書き込んでください。<br>
+　また、お試しで運営委員をやってみるというのもありです。細かい話を聞きたい際も、こちらにお書き込みください。<br>
 <br>
-�d���ꗗ<br>
+仕事一覧<br>
 <br>
-�@�P�D��i�f��<br>
-�@�Q�D�f���Ǘ�<br>
+　１．作品掲載<br>
+　２．掲示板管理<br>
 <br>
-�@���������ςɂ���Ȃ��̂ł��B<br>
+　おおざっぱにこんなものです。<br>
 <br>
-�P�D��i�f��<br>
-�@��i�f�ڂ́A���[���ɂđ����Ă�����i���`�F�b�N���A�S�������Ƃ����A��̃��[������҂ƁA����ML�ɑ��M���܂��B<br>
-�@���ɁA�뎚�E���̃`�F�b�N�����A���̍�i�̐��E�����l���܂��B<br>
-�@�����܂ŏI�������A��p��CGI�𗘗p���āA�A�b�v���[�h�����܂��B�A�b�v���[�h������������A�o�^��Ƃ����܂��B������A��p��CGI�𗘗p����̂ŁA�ȒP�ɍs���܂��B<br>
-�@HTML���X�V�i���������j�����āA�f�ڂ���Ă��邱�Ƃ��m�F���A��҂ƕ���ML�ɁA�f�ڊ����̃��[���𑗐M���܂��B<br>
+１．作品掲載<br>
+　作品掲載は、メールにて送られてきた作品をチェックし、担当するよという、受領メールを作者と、文庫MLに送信します。<br>
+　次に、誤字脱字のチェックをし、その作品の推薦文を考えます。<br>
+　そこまで終わったら、専用のCGIを利用して、アップロードをします。アップロードが完了したら、登録作業をします。これも、専用のCGIを利用するので、簡単に行えます。<br>
+　HTMLを更新（押すだけ）をして、掲載されていることを確認し、作者と文庫MLに、掲載完了のメールを送信します。<br>
 <br>
-�Q�D�f���Ǘ�<br>
-�@�f���̍r�炵�i�������́A�����������L���j��_�����A�폜����K�v������܂��B���N�̔������炢����A�w�ŐV�̊��z�x�@�\���ғ����͂��߂܂����̂ŁA�ȒP�Ƀ`�F�b�N���o���܂��B<br>
+２．掲示板管理<br>
+　掲示板の荒らし（もしくは、厳しい中傷記事）を点検し、削除する必要があります。今年の八月ぐらいから、『最新の感想』機能が稼働をはじめましたので、簡単にチェックが出来ます。<br>
 <br>
-���Ȃ݂ɁA���݂̉^�c�ψ����̖��O�������Ă����܂��B<br>
-�@�l�n�m�c�n����Astarbow����A��傤����A���a����A�Ԗڂ���Akou<br>
+ちなみに、現在の運営委員方の名前を挙げておきます。<br>
+　ＭＯＮＤＯさん、starbowさん、りょうさん、七斬さん、赤目さん、kou<br>
 <br>
-���N�������ɂ̃I�[�i�[�́A��_������ł��B<br>
+少年少女文庫のオーナーは、矢治浩平さんです。<br>
 <br>
-�@�Ō�ɂȂ�܂������A�����^�c�ψ��̎d������I�ȂǂƂ͌����܂���i�΁j�B�������o���鎞�ԑтłn�j�Ȃ̂ł��B</font>
+　最後になりましたが、毎日運営委員の仕事しろ！などとは言いません（笑）。自分が出来る時間帯でＯＫなのです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[78]</font> <font size=4 color=#40c0c0> Re:����ł�</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[78]</font> <font size=4 color=#40c0c0> Re:質問です</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/15 (��) 12:54:55  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309151125455&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309151125455"></font>
+<font size=-1 color=#606060> 2003/09/15 (月) 12:54:55  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309151125455_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200309151125455"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�@�a�a�r�̃X�N���v�g�i���v���O�����j�̎d�l�݂����ł��B<br>
-�@�ڂ���BBS���`�F�b�N���Ă��Ȃ��̂Œf���͏o���Ȃ���ł����A�������΂炭���Ԃ����������B���肢���܂��B</font>
+<font size=4 color=#303030>　ＢＢＳのスクリプト（≒プログラム）の仕様みたいです。<br>
+　詳しくBBSをチェックしていないので断言は出来ないんですが、もうしばらく時間をください。お願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[77]</font> <font size=4 color=#40c0c0> Re:����ł�</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[77]</font> <font size=4 color=#40c0c0> Re:質問です</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/15 (��) 02:53:13  ��傤���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309151025313&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309151025313"></font>
+<font size=-1 color=#606060> 2003/09/15 (月) 02:53:13  りょう＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309151025313_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200309151025313"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�N�b�L�[���������Ȃ��Ċ����͂��܂����A�ڂ������Ƃ͂悭�킩��܂���B<br>
+<font size=4 color=#303030>クッキーが原因かなって感じはしますが、詳しいことはよくわかりません。<br>
 <br>
-�����Ƃ��ẮA���������Ȃ񂩂Ƀ��X�������Ă����āA<br>
-�l�b�g�ɂȂ��ł��炻����f���ɃR�s�y���āu�������ށv���|�`�b�Ƃȁ�<br>
-�Ƃ���Ƃ������Ǝv���܂��B<br>
+回避策としては、メモ帳かなんかにレスを書いておいて、<br>
+ネットにつないでからそれを掲示板にコピペして「書き込む」をポチッとな♪<br>
+とするといいかと思います。<br>
 <br>
-�����񂺂񍪖{�I�ȉ����ɂȂ��Ă��Ȃ��Ă����܂���m(__)m</font>
+ぜっんぜん根本的な解決になっていなくてすいませんm(__)m</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[75]</font> <font size=4 color=#40c0c0> ����ł�</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[75]</font> <font size=4 color=#40c0c0> 質問です</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/14 (��) 08:30:36  ���x </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309140083036&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309140083036"></font>
+<font size=-1 color=#606060> 2003/09/14 (日) 08:30:36  干支 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309140083036_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200309140083036"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�C���^�[�l�b�g��؂��Čf���Ƀ��X�⊴�z�������āA���̌�܂��Ȃ��Ă��珑�����ނ������ď������݂����悤�Ƃ��Ă���̂ł����A�o���܂���B�ǂ�����Ώ������߂邩�A��낵����΂������肦�Ȃ��ł��傤���B</font>
+<font size=4 color=#303030>インターネットを切って掲示板にレスや感想を書いて、その後またつなげてから書き込むを押して書き込みを入れようとしているのですが、出来ません。どうすれば書き込めるか、よろしければお答え願えないでしょうか。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[74]</font> <font size=4 color=#40c0c0> �T�[�o�[�d���Ȃ������ł����H</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[74]</font> <font size=4 color=#40c0c0> サーバー重くなかったですか？</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/07/22 (��) 13:40:33  ��_�����Ǘ��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200307222134033&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307222134033"></font>
+<font size=-1 color=#606060> 2003/07/22 (火) 13:40:33  矢治浩平＠管理者 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200307222134033_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200307222134033"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�Ȃ�Apache���d�������݂����ł����ACGI�̎��s���x���������Ƃ��ĂȂ��ł����H<br>
-�f���Ƃ����d�������񂶂�Ȃ����ȁH<br>
+<font size=4 color=#303030>なんかApacheが重かったみたいですが、CGIの実行が遅かったことってないですか？<br>
+掲示板とかが重かったんじゃないかな？<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data2">
@@ -259,16 +259,16 @@ CGI�́A�i�s�󋵂̊m�F�ƁA�f�ڂ̂Ƃ��Ɏg�������ł�����B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data2">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data2">�X�V</a>] [<a href="http://ts.novels.jp">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data2.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.</font>
 </td></table></div><br>
 </div>
 <br>

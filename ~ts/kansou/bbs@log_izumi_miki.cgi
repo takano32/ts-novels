@@ -68,7 +68,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>こんばんは。<br>
-もしも、<a href=http://ts.novels.jp/novel/200507/09195017/xx-files.html target=_top>http://ts.novels.jp/novel/200507/09195017/xx-files.html</a>が実話だったら面白いのですが、なかなかそうはいきませんね。（小説内では実話って事になってますが・・・。）<br>
+もしも、<a href="../../novel/200507/09195017/xx-files.html" target=_top>http://ts.novels.jp/novel/200507/09195017/xx-files.html</a>が実話だったら面白いのですが、なかなかそうはいきませんね。（小説内では実話って事になってますが・・・。）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -84,7 +84,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>▼ ameliaさん<br>
-<font color="#cc88ff">> 早速ですが、<a href=http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;03.htm target=_top>http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;03.htm</a>のリンク切れていませんか、幾ら除いても白画面しか出てこないのですが....<br>
+<font color="#cc88ff">> 早速ですが、<a href="../../novel/200507/09195017/all_alone_03.htm" target=_top>http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;03.htm</a>のリンク切れていませんか、幾ら除いても白画面しか出てこないのですが....<br>
 > お調べ頂ければ幸いです。</font><br>
 <br>
 ファイルの文字コードがEUCなのに、HTMLヘッダにてShift_jisとして表示するよう設定してあったのが原因でした。<br>
@@ -105,7 +105,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>初めましてameliaと申します。<br>
-早速ですが、<a href=http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;03.htm target=_top>http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;03.htm</a>のリンク切れていませんか、幾ら除いても白画面しか出てこないのですが....<br>
+早速ですが、<a href="../../novel/200507/09195017/all_alone_03.htm" target=_top>http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;03.htm</a>のリンク切れていませんか、幾ら除いても白画面しか出てこないのですが....<br>
 お調べ頂ければ幸いです。</font>
 </td></table>
 </td></tr></table>
@@ -203,7 +203,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】自分の存在理由に悩み苦しむ主人公。救いはあるのか……？<br>
-<a href=http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;02.htm target=_top>http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;02.htm</a></font>
+<a href="../../novel/200507/09195017/all_alone_02.htm" target=_top>http://ts.novels.jp/novel/200507/09195017/all&#95;alone&#95;02.htm</a></font>
 </td></table>
 </td></tr></table>
 

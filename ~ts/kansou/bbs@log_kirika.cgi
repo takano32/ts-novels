@@ -117,7 +117,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 やってきました南の楽園！　彼女（彼）の頭にあるのは食べ物のことばかり、だが……<br>
-<a href=http://ts.novels.jp/novel/200706/17105152/fregrant3.htm target=_top>http://ts.novels.jp/novel/200706/17105152/fregrant3.htm</a></font>
+<a href="../../novel/200706/17105152/fregrant3.htm" target=_top>http://ts.novels.jp/novel/200706/17105152/fregrant3.htm</a></font>
 </td></table>
 </td></tr></table>
 

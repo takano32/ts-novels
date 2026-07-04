@@ -1,44 +1,44 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>����삳���i���z�f����</title>
+<title>日比野さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>����삳���i���z�f����</font>
+<font size=5>日比野さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="hibino">
 <input type=hidden name="nj" value="nSJu023v2e">
 <input type=hidden name="res" value="39">
-<h4 align=center>�� �L���ԍ� 39 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 39 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾂�B�Е������i�j���j"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �d�g�d������
-&gt; ���Ԃ��Ȃ��āA��ɂ���Ĉ����ȓV�g�������c�B
-&gt; �ӂ��₠�B�G�����B
-&gt; �R�R���Ƃ������O���G���ł���ˁB
-&gt; �G������ɓ��͂���Ă��܂��B����ɂ��Ă��ؑタ��񂩁B
-&gt; �Ȃ�قǌ����Ă݂�΂��������B
-&gt; �������܂��R�R�������̃L�������܂��ア�̂ŁA�ؑタ���ƃ^���𒣂�ɂ�
-&gt; �ʂň��|����̂��g���Ǝv���܂��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだよ。片方だけ（核爆）"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 電波妖精さん
+&gt; 時間がなくて、例によって悪魔な天使っ娘を…。
+&gt; ふうやあ。萌えた。
+&gt; ココロという名前が萌えですよね。
+&gt; 萌え言語に入力されています。それにしても華代ちゃんか。
+&gt; なるほど言われてみればそうかも。
+&gt; しかしまあココロちゃんのキャラがまだ弱いので、華代ちゃんとタメを張るには
+&gt; 量で圧倒するのが吉かと思われます。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -51,16 +51,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[45]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��I</font>
+<font size=2>[45]</font> <font size=4 color=#40c0c0> 感想ありがとぅございます！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/12 (��) 17:10:09 <strong>��</strong> ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303123171009&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303123171009"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/12 (水) 17:10:09 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303123171009_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200303123171009"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�A�ǂ��B<br>
-�\�z�͂��ӂ�Ă��ł����A���ɂ��܂��ł��Ȃ���ł��B������Ӗ��Ȃ�ł��ˁc�c�͂͂́B<br>
-�v�Ă̘Z�ۂ���I�C�ł����B�����ł��ˁ`�ǂ݂����ł��B���Њ撣���Ă��������I</font>
+<font size=3 color=#606060>えー、ども。<br>
+構想はあふれてるんですが、文にうまくできないんです。だから意味なんですね……ははは。<br>
+思案の六ぽさん！④ですか。いいですね〜読みたいです。ぜひ頑張ってください！</font>
 </td></table>
 </td></tr></table>
 
@@ -70,33 +70,33 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[44]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/11 (��) 22:40:01 <strong>��</strong> �v�Ă̘Z�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303112224001&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303112224001"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/11 (火) 22:40:01 <strong>▽</strong> 思案の六ぽ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303112224001_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200303112224001"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ԗ����ԉłɂȂ��Ă��܂��ă_�u���ԉŁH<br>
-���܂ł��肻�łȂ������l�^���ۂ��B<br>
-����ɂ��Ă������R�N�A�����������I<br>
+<font size=3 color=#606060>花婿が花嫁になってしまってダブル花嫁？<br>
+今までありそでなかったネタっぽい。<br>
+それにしても入鹿山君、おいしすぎ！<br>
 <br>
-�㏑���̇C�Ɏ������̂������l���Ă܂��B�������Q�f���ɂł��t�o���Ă݂悤���ȁB</font>
+後書きの④に似たものを私も考えてます。さわりを第２掲示板にでもＵＰしてみようかな。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[43]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/10 (��) 23:56:08 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303101235608&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303101235608"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/10 (月) 23:56:08 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303101235608_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200303101235608"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������ł���͂������Ȃ��i�΁j<br>
-���̌�͖��_���邩�������ɂ��āE�E�E�i��j�B<br>
+<font size=3 color=#606060>結婚式でこれはきっついなぁ（笑）<br>
+この後は無論いるか氏も女にして・・・（違）。<br>
 <br>
-�\�z�����Ă���͂����܂����Ȃ��B<br>
-�Ȃ�Ƃ����҂����������Ĉ���ꓬ���Ă��邍���W�S�Q�U�i�j�j�ł����B</font>
+構想が溢れてる方はうらやましいなぁ。<br>
+なんとか続編が書きたくて悪戦苦闘しているｍｋ８４２６（男）でした。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -104,37 +104,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> �w�V�����n���@�`�ԉŕҁ`�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> 『天国か地獄　〜花嫁編〜』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/10 (��) 22:59:07 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303101225907&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303101225907"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/10 (月) 22:59:07 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303101225907_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200303101225907"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �V�g�̂悤�ŁA���͈����������肵���Ⴄ�R�R������񂪊������肢�Ƃ�H<br>
+<font size=3 color=#606060>【推薦文】 天使のようで、実は悪魔だったりしちゃうココロちゃんが叶えた願いとわ？<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/23203640/heaven2.html target=_top>http://ts.novels.jp/novel/200203/23203640/heaven2.html</a></font>
+<a href="../../novel/200203/23203640/heaven2.html" target=_top>http://ts.novels.jp/novel/200203/23203640/heaven2.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> �Ǘ�</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> 読了</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/07 (��) 23:07:31 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200302075230731&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302075230731"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/07 (金) 23:07:31 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200302075230731_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200302075230731"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ǘ��ł��B<br>
-������Ə����`���̂ق��ɂ΂���ɖڂ��s���Ă��܂��āA���e������Ȃ�����Ă��܂���ł����B<br>
-�����ȂƂ���c�O�ł��B<br>
-���e�I�ɂ͑f���炵����ł����A�`����؂����������Ɛ؂荞�݂����Ȋ��������܂����B��s�I�ȕ\�������āA���Ă����Ȃ��Ƃ������c�B�����������ł��B<br>
+<font size=3 color=#606060>読了です。<br>
+ちょっと小説形式のほうにばかりに目が行ってしまって、内容がすんなり入ってきませんでした。<br>
+正直なところ残念です。<br>
+内容的には素晴らしいんですが、伝える切り口がちょっと切り込みすぎな感じがしました。先鋭的な表現すぎて、ついていけないというか…。厳しかったです。<br>
 <br>
-�X�g�[���[�̊��z�ł���<br>
-�Ō゠���肪�悭�ł��Ă����Ǝv���܂��B<br>
-�v�������񂾂��Ƃ́A���ߓI�ɐ�����̂ł͂Ȃ��A�ߋ��𓥂܂��Ȃ��Ă͌��݂������������Ƃ������Ƃł��傤���B<br>
+ストーリーの感想ですが<br>
+最後あたりがよくできていたと思います。<br>
+思い浮かんだことは、刹那的に生きるのではなく、過去を踏まえなくては現在も未来も無いということでしょうか。<br>
 <br>
 <br>
 </font>
@@ -144,19 +144,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��E�E�E�����Е����i�΁j</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> 読んだバイ♪・・・もう片方も（笑）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/03 (��) 10:36:09 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200302031103609&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302031103609"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/03 (月) 10:36:09 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200302031103609_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200302031103609"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������u�r�m�n�v�v�ł��˂��B<br>
-��l���ʂ�Ă��܂������͂ǂ��Ȃ邱�Ƃ��Ǝv���ăn���n�����܂������A�܂����肠���ĂȂɂ��ł��B<br>
-��؂��A�����ĒC�n���A��������z���đ傫���Ȃ������Ƃ��킩��܂��B<br>
-������Ɨ����ڂ̂��̐l�i�΁j�̂悤�ɋ���ł݂܂��傤���B<br>
-�u���������I�I�v<br>
-���ꂩ�����l���ǂ��s��������Ă��������ȁi�΁j�B</font>
+<font size=3 color=#606060>もちろん「ＳＮＯＷ」ですねぇ。<br>
+二人が別れてしまった時はどうなることかと思ってハラハラしましたが、また巡りあえてなによりです。<br>
+雪菜も、そして辰馬も、困難を乗り越えて大きくなったことがわかります。<br>
+ちょっと落ち目のあの人（笑）のように叫んでみましょうか。<br>
+「感動した！！」<br>
+これからも二人仲良く行っちゃってくださいな（笑）。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -164,20 +164,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> �ǂ񂾂�B�Е������i�j���j</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> 読んだよ。片方だけ（核爆）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/03 (��) 00:36:12 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200302031003612&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302031003612"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/03 (月) 00:36:12 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200302031003612_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200302031003612"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ԃ��Ȃ��āA��ɂ���Ĉ����ȓV�g�������c�B<br>
-�ӂ��₠�B�G�����B<br>
-�R�R���Ƃ������O���G���ł���ˁB<br>
-�G������ɓ��͂���Ă��܂��B����ɂ��Ă��ؑタ��񂩁B<br>
-�Ȃ�قǌ����Ă݂�΂��������B<br>
-�������܂��R�R�������̃L�������܂��ア�̂ŁA�ؑタ���ƃ^���𒣂�ɂ�<br>
-�ʂň��|����̂��g���Ǝv���܂��B<br>
+<font size=3 color=#606060>時間がなくて、例によって悪魔な天使っ娘を…。<br>
+ふうやあ。萌えた。<br>
+ココロという名前が萌えですよね。<br>
+萌え言語に入力されています。それにしても華代ちゃんか。<br>
+なるほど言われてみればそうかも。<br>
+しかしまあココロちゃんのキャラがまだ弱いので、華代ちゃんとタメを張るには<br>
+量で圧倒するのが吉かと思われます。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -185,18 +185,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��E�E�E�Е������i���j</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> 読んだバイ♪・・・片方だけ（爆）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/03 (��) 00:21:53 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200302031002153&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302031002153"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/03 (月) 00:21:53 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200302031002153_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200302031002153"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�r�m�n�v�v�͒����̂Ŗ����ɂł��i���j�B<br>
-���N�Ԃ�Ȃ�ő����ǂ݂����񂾂��ǂˁB<br>
+<font size=3 color=#606060>「ＳＮＯＷ」は長いので明日にでも（汗）。<br>
+半年ぶりなんで早く読みたいんだけどね。<br>
 <br>
-�Ȃ񂩂��̈����A�R�R���^���n�@�n�@�i���j�B<br>
-�F�K�^�����n�@�n�@�i��</font>
+なんかこの悪魔、ココロタンハァハァ（爆）。<br>
+孝幸タンもハァハァ（何</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -204,42 +204,42 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> ��̍�i�𓯎��f�ځI</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> 二つの作品を同時掲載！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/02 (��) 21:49:39 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200302020214939&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302020214939"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/02 (日) 21:49:39 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200302020214939_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200302020214939"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><B>�V�����n��</B><br>
-�y���E���z ���̓���삳��̍�i�́A�s�K�Ɋׂ�鈫���c�c�̂͂������ǁH<br>
-<a href=http://ts.novels.jp/novel/200203/23203640/heaven.html target=_top>http://ts.novels.jp/novel/200203/23203640/heaven.html</a><br>
-<HR><B>�r�m�n�v�@�a�q�h�k�k�h�`�m�s</B><br>
-�y���E���z �ޏ��̒��ɁA�O�̐S�B���̈�̐S�́A�j�Ƃ��Đ����Ă����L���B���̈�̐S�́A�F�B�Ƃ��ĒC�n�Ɛ����Ă����L���A������́c<br>
-<a href=http://ts.novels.jp/novel/200203/23203640/snow_brillant.html target=_top>http://ts.novels.jp/novel/200203/23203640/snow_brillant.html</a></font>
+<font size=3 color=#606060><B>天国か地獄</B><br>
+【推薦文】 次の日比野さんの作品は、不幸に陥れる悪魔……のはずだけど？<br>
+<a href="../../novel/200203/23203640/heaven.html" target=_top>http://ts.novels.jp/novel/200203/23203640/heaven.html</a><br>
+<HR><B>ＳＮＯＷ　ＢＲＩＬＬＩＡＮＴ</B><br>
+【推薦文】 彼女の中に、三つの心。その一つの心は、男として生きてきた記憶。その一つの心は、友達として辰馬と生きてきた記憶、もう一つは…<br>
+<a href="../../novel/200203/23203640/snow_brillant.html" target=_top>http://ts.novels.jp/novel/200203/23203640/snow_brillant.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/23 (��) 11:02:44 <strong>��</strong> ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208235110244&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208235110244"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/23 (金) 11:02:44 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208235110244_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200208235110244"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂��͂ł��ˁB<br>
-饂́g���Ă��݁h�Ɠǂ݂܂��āA��{���n�͐��܂ꂽ�Ƃ�����w���ɔn�̂悤�Ȗт��������ƌ����Ă���悤�ł��B�i�n�ɑ��Y�̗��n���䂭��ǂ�ł���������Έꊪ�̍ŏ��̂ق��ɏo�Ă��Ǝv���܂���B���Ȃ݂ɗ��n�̖��O�̗R���ł�����݂����ł��B<br>
-����łł��ˁA���͋C�������ƕς����̂͂킴�Ƃ���Ă݂��̂ł����A�ςł����ł��傤���H�Ō�̂��b�Ƃ̃M���b�v���Ȃ������Ǝv���Ă�����̂ł����c�B<br>
-�ł͎O�l���X�A�ǂ����X�������肢���܂��B���肪�Ƃ��������܂����B</font>
+<font size=3 color=#606060>まずはですね。<br>
+鬣は“たてがみ”と読みまして、坂本竜馬は生まれたときから背中に馬のような毛があったと言われているようです。司馬遼太郎の竜馬がゆくを読んでいただければ一巻の最初のほうに出てたと思いますよ。ちなみに竜馬の名前の由来でもあるみたいです。<br>
+それでですね、雰囲気をがらりと変えたのはわざとやってみたのですが、変でしたでしょうか？最後のお話とのギャップをなくそうと思ってやったのですが…。<br>
+では三人共々、どうか宜しくお願いします。ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="hibino">
@@ -247,16 +247,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="hibino">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=hibino">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_hibino.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

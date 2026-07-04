@@ -102,7 +102,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 さあ、あなたの隣に、魔法使いが引っ越してきました。……さあ、あなたはどんなシチュエーションを思い浮かべますか……（ニヤリ）<br>
 <br>
-<a href=http://ts.novels.jp/novel/200311/02220154/next.html target=_top>http://ts.novels.jp/novel/200311/02220154/next.html</a></font>
+<a href="../../novel/200311/02220154/next.html" target=_top>http://ts.novels.jp/novel/200311/02220154/next.html</a></font>
 </td></table>
 </td></tr></table>
 

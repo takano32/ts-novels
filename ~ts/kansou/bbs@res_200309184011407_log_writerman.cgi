@@ -1,42 +1,42 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���C�^�[�}�������i�@���z�f����</title>
+<title>ライターマンさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���C�^�[�}�������i�@���z�f����</font>
+<font size=5>ライターマンさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="writerman">
 <input type=hidden name="nj" value="0sUgkvDM6O">
 <input type=hidden name="res" value="148">
-<h4 align=center>�� �L���ԍ� 148 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 148 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U�������
-&gt; ����͂��́I
-&gt; ����σp���[�A�b�v�����炻�������ʂ̐������������܂����ȁB
-&gt; �Ƃ���őf�p�ȋ^��B
-&gt; �����҂��̂P�Q�O���Ԃ̊Ԃɍēx�ϐg�����ꍇ�A���̎��_����ēx�P�Q�O���Ԃ̃J�E���g�_�E���ɂȂ�̂��A����Ƃ��O��̎c�莞�ԁ{�P�Q�O���Ԃ̃J�E���g�_�E���ɂȂ�̂��E�E�E�B
-&gt; ��҂��Əꍇ�ɂ���Ă͉i�v�ɖ߂�Ȃ��Ȃ邩���i���j�B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６＠自宅さん
+&gt; わっはっは！
+&gt; やっぱパワーアップしたらそっち方面の制約も強化されましたな。
+&gt; ところで素朴な疑問。
+&gt; 解除待ちの１２０時間の間に再度変身した場合、その時点から再度１２０時間のカウントダウンになるのか、それとも前回の残り時間＋１２０時間のカウントダウンになるのか・・・。
+&gt; 後者だと場合によっては永久に戻れなくなるかも（爆）。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -49,14 +49,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[158]</font> <font size=4 color=#40c0c0> ���~�}�V�^</font>
+<font size=2>[158]</font> <font size=4 color=#40c0c0> ヨミマシタ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/06 (��) 16:09:38 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310061160938&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310061160938"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/06 (月) 16:09:38 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310061160938_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200310061160938"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���m����ɖٔO���܂�(�E�X)</font>
+<font size=3 color=#606060>武士くんに黙念します(脱帽)</font>
 <p><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a>
 </td></table>
 </td></tr></table>
@@ -64,30 +64,30 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[157]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[157]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/04 (�y) 09:27:05 <strong>��</strong> <a href="mailto:kagawa@elf.coara.or.jp">���C�^�[�}��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310046092705&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310046092705"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/04 (土) 09:27:05 <strong>▽</strong> <a href="mailto:kagawa@elf.coara.or.jp">ライターマン</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310046092705_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200310046092705"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�F���񊴑z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>皆さん感想ありがとうございます。<br>
 <br>
-<font color="#ff88cc">������ς肱���Ȃ�̂��i�΁j����̋^�⁄</font><br>
-�͂��A����ς肱���Ȃ��ł��B(��)<br>
-�ŁA����ς肠���Ȃ����肵�āc�c(��)<br>
+<font color="#ff88cc">＞やっぱりこうなるのか（笑）＜例の疑問＞</font><br>
+はい、やっぱりこうなるんです。(笑)<br>
+で、やっぱりああなったりして……(爆)<br>
 <br>
-<font color="#ff88cc">���������A�����ċx�ݒ��A�j�������̂��Q�������āA����߂��i�΁j�B</font><br>
-�����ł��ˁA�悭�l����Ƣ���̊Ԃɂ������Ȃ��čŏ������碂قڏ��̎q��Ȃ�ł����A�{�l�̋C���̖��ł��̂�(��)�B<br>
+<font color="#ff88cc">＞しかし、長い夏休み中、男だったのが２日半って、哀れ過ぎ（笑）。</font><br>
+そうですね、よく考えると｢いつの間にか｣じゃなくて最初っから｢ほぼ女の子｣なんですが、本人の気分の問題ですので(笑)。<br>
 <br>
-���j�̘b�ł����ꉞ�����m���Ă܂��B<br>
-�������m�N(���̐l��)�̈ӎ��̏�ł͢���j�͐̂̕a�C��Ƃ����ӎ����������ȁH�Ǝv���Ă���ȕ��͂ɂȂ�܂����B<br>
-��R���̐_��(���邢�̓C���h�̎R��)�ɏC�s�ɍs������A������̖����Ƌ��ɐ��̋�ɋ����Ă�������A��T�b�J�[�̐��E���ɏo�ꂵ����A���ʎ��̂ɑ����ē��@������Ȃǂ��낢��l������ł����A�ǂ�������������������̂Ō��j�Ƃ�������(�H)�Șb�ŗ��������܂���(��)�B<br>
-���Ȃ݂ɋ��N�̘b�ł����A��Ђ̒m�荇���̒m�荇�������j�ɂ��������Ƃ����b�𕷂��܂����B<br>
-�ŁA���̒m�荇��������A�����̎g�����}�C�N�ŃJ���I�P�̂������Ǒ��v���ȁH��Ȃ�Ď������̖ڂ̑O�Œ����Ă܂����B(~_~;)<br>
-�܂����̎��͉���������܂���ł����B�߂ł����߂ł���(��)<br>
+結核の話ですが一応私も知ってます。<br>
+ただ武士君(他の人も)の意識の上では｢結核は昔の病気｣という意識が強いかな？と思ってあんな文章になりました。<br>
+｢山奥の神社(あるいはインドの山奥)に修行に行った｣、｢明けの明星と共に西の空に去っていった｣、｢サッカーの世界大会に出場した｣、｢交通事故に遭って入院した｣などいろいろ考えたんですが、どれも少し無理があったので結核という無難(？)な話で落ち着きました(爆)。<br>
+ちなみに去年の話ですが、会社の知り合いの知り合いが結核にかかったという話を聞きました。<br>
+で、その知り合いが｢俺、そいつの使ったマイクでカラオケ歌ったけど大丈夫かな？｣なんて事を私の目の前で喋ってました。(~_~;)<br>
+まあその時は何事もありませんでした。めでたしめでたし(笑)<br>
 <br>
-�F��������N�ɂ͏\���ɋC�����Ă��������B</font>
+皆さんも健康には十分に気をつけてください。</font>
 <p><a href="http://www3.coara.or.jp/~kagawa/writerman/" target="_top">http://www3.coara.or.jp/~kagawa/writerman/</a>
 </td></table>
 </td></tr></table>
@@ -95,20 +95,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[156]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[156]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/02 (��) 09:31:50 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���d��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310024093150&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310024093150"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/02 (木) 09:31:50 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310024093150_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200310024093150"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̏h��i�΁j�̉񓚂͂���ł������B<br>
-�܂��A�m���ɂ����΂񂷂����肵�Ă܂��ˁB<br>
-�������A�����ċx�ݒ��A�j�������̂��Q�������āA����߂��i�΁j�B<br>
-�Ȃ܂������A�u�j�ɖ߂��v�Ƃ������҂����邾���ɁA���̏Ռ������[�ł͂Ȃ��ł��傤�˂��B<br>
+<font size=3 color=#606060>あの宿題（笑）の回答はこれでしたか。<br>
+まあ、確かにいちばんすっきりしてますね。<br>
+しかし、長い夏休み中、男だったのが２日半って、哀れ過ぎ（笑）。<br>
+なまじっか、「男に戻れる」という期待があるだけに、その衝撃も半端ではないでしょうねぇ。<br>
 <br>
-<font color="#ff88cc">�����j</font><br>
-�����ĉߋ��̕a�ł͂Ȃ��ł���B���R�͉��ł��Ȃ��񂪏����Ă�����ʂ�ł��B</font>
+<font color="#ff88cc">＞結核</font><br>
+決して過去の病ではないですよ。理由は下ですなさんが書いておられる通りです。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -116,64 +116,64 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[155]</font> <font size=4 color=#40c0c0> [���b]�@�ǂ݂܂����B</font>
+<font size=2>[155]</font> <font size=4 color=#40c0c0> [七話]　読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/01 (��) 23:16:17 <strong>��</strong> ���Ȃ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310013231617&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310013231617"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/01 (水) 23:16:17 <strong>▽</strong> すなさん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310013231617_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200310013231617"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�P�j<br>
-����ς肱���Ȃ�̂��i�΁j����̋^�⁄<br>
+<font size=3 color=#606060>１）<br>
+やっぱりこうなるのか（笑）＜例の疑問＞<br>
 <br>
-�Q�j<br>
-�^�ޔ������̊w�Z�f�r���[�B<br>
-���j�ɓ]�n�×{�B<br>
-�����ŋ^�₪�B<br>
+２）<br>
+真奈美ちゃんの学校デビュー。<br>
+結核に転地療養。<br>
+そこで疑問が。<br>
 <br>
-�ǂ����ĉƑ��͂���Ȋ댯�ȏZ���i���҂̏o���Ƃ���j����u������Ȃ������̂ł��傤���H<br>
-�ӂ��͐V�^�x�����l�A�Z���⎝�����̏��ŁA�Ƒ��̐f�f��������̂Œ����呛���ɂȂ�̂ł����A�o��l���̒N�������̓_�ɋC�Â��Ȃ������肪�c�i�΁j<br>
-�Ȃ��A���ۂɂ͖{�l�͌��j�a���ɗH����܂��i���Ô�̓^�_�j�B<br>
-�i�X�g���v�g�}�C�V���Ȃǂ̍R�������̌����Ȃ����j�ۂ��͂���Ă��܂��B����ł����Č��j�Ɛf�f�ł��Ȃ���t�������Ă��܂��̂ŁA��T�Ԉȏ���M����������V��t�̐f�f���󂯂��������S�H�H�j<br>
+どうして家族はそんな危険な住居（患者の出たところ）から隔離されなかったのでしょうか？<br>
+ふつうは新型肺炎同様、住居や持ち物の消毒、家族の診断等があるので町中大騒ぎになるのですが、登場人物の誰もがその点に気づかないあたりが…（笑）<br>
+なお、実際には本人は結核病棟に幽閉されます（治療費はタダ）。<br>
+（ストレプトマイシンなどの抗生物質の効かない結核菌もはやっています。そんでもって結核と診断できない医師が増えていますので、一週間以上微熱が続いたら老医師の診断を受けた方が安心？？）<br>
 <br>
-�u�j�̂�菓�����]�Z���v�^�ޔ������<br>
-�����A���񑩁I�i�΁j<br>
+「男厠に闖入する転校生」真奈美ちゃん<br>
+もう、お約束！（笑）<br>
 <br>
-�{�����u���v���ł��܂���<br>
-����ƐU��񂵂Đ^�ޔ����������点�Ă����Ă��������B�i���j</font>
+＋可愛い「妹」ができました<br>
+うんと振り回して真奈美ちゃんを困らせてあげてください。（爆）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[154]</font> <font size=4 color=#40c0c0> �w�ϐg��������m�~���[�W���K�[���@�掵�b�F�Ռ��i�Ό��H�j�f�r���[�I�H�@�]�Z���O��^�ޔ��I�I�x�������</font>
+<font size=2>[154]</font> <font size=4 color=#40c0c0> 『変身美少女戦士ミラージュガール　第七話：衝撃（笑撃？）デビュー！？　転校生三代真奈美！！』を見るに</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/01 (��) 20:50:32 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310013205032&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310013205032"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/01 (水) 20:50:32 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310013205032_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200310013205032"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���ɂ��̓�������ė����I�@���m����ɂ͈������ǁA�݂�ȂŐ^�ޔ������̊w�Z�f�r���[�i�΁j������낤���B<br>
-<a href=http://ts.novels.jp/novel/200210/28213920/mirage07.htm target=_top>http://ts.novels.jp/novel/200210/28213920/mirage07.htm</a></font>
+<font size=3 color=#606060>【推薦文】ついにこの日がやって来た！　武士くんには悪いけど、みんなで真奈美ちゃんの学校デビュー（笑）を見守ろうっ。<br>
+<a href="../../novel/200210/28213920/mirage07.htm" target=_top>http://ts.novels.jp/novel/200210/28213920/mirage07.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[153]</font> <font size=4 color=#40c0c0> ��Z�b���X</font>
+<font size=2>[153]</font> <font size=4 color=#40c0c0> 第六話レス</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/23 (��) 00:13:20 <strong>��</strong> <a href="mailto:kagawa@elf.coara.or.jp">���C�^�[�}��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309232001320&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309232001320"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/23 (火) 00:13:20 <strong>▽</strong> <a href="mailto:kagawa@elf.coara.or.jp">ライターマン</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309232001320_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200309232001320"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�݂Ȃ��񊴑z���肪�Ƃ��������܂��B<br>
-����̌����ɂ��Ă͌��\�\�z(���ҁH)����Ă������������������݂����ł��ˁB<br>
-�Ƃ���ŉ������ꂽ�P�Q�O���Ԃ̊Ԃɕϐg�ł���̂��H�Ƃ��A�A�����ĕϐg�����ꍇ�Ɏc�莞�Ԃ͂ǂ��Ȃ�̂��H�Ȃǂ̋^�₪�o�Ă܂����c�c<br>
-�����ɂ��Ă͎���ȍ~�̂��y���݂��Ď��ō����΂炭�͂��҂����������B(��)<br>
-���܂�G���ƃ����j�S���o�����Ă��܂������Ȃ�Łc�c</font>
+<font size=3 color=#606060>みなさん感想ありがとうございます。<br>
+今回の結末については結構予想(期待？)されてた方がいらっしゃったみたいですね。<br>
+ところで延長された１２０時間の間に変身できるのか？とか、連続して変身した場合に残り時間はどうなるのか？などの疑問が出てますが……<br>
+それらについては次回以降のお楽しみって事で今しばらくはお待ちください。(笑)<br>
+あまり触れるとモロ核心をバラしてしまいそうなんで……</font>
 <p><a href="http://www3.coara.or.jp/~kagawa/writerman/" target="_top">http://www3.coara.or.jp/~kagawa/writerman/</a>
 </td></table>
 </td></tr></table>
@@ -181,21 +181,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[152]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[152]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/19 (��) 21:08:11 <strong>��</strong> <a href="mailto:ycoco99@ybb.ne.jp">�����i�n����j�`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309195210811&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309195210811"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/19 (金) 21:08:11 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309195210811_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200309195210811"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������Ƃ͔����ɂ��āB<br>
+<font size=3 color=#606060>難しいことは抜きにして。<br>
 <br>
-���m�N���{���ɍГ�ł��ȁB<br>
-�p���[�A�b�v�����Ǝv������A���̎q�̎��Ԃ������饥�<br>
-�܂��A�u���񑩁v���ă��P�ł������<br>
+武士君も本当に災難ですな。<br>
+パワーアップしたと思ったら、女の子の時間が増える･･･<br>
+まあ、「お約束」ってワケですか･･･<br>
 <br>
-�g���v�����@�C�^�[�A�J�C���[�O<br>
-���͂킩���ł�</font>
+ト○プル○ァイター、カイ○ーグ<br>
+俺はわからんです</font>
 <p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
 </td></table>
 </td></tr></table>
@@ -203,68 +203,68 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[151]</font> <font size=4 color=#40c0c0> �p���[�A�b�v�H����Ƃ��p���[�_�E���H</font>
+<font size=2>[151]</font> <font size=4 color=#40c0c0> パワーアップ？それともパワーダウン？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/19 (��) 18:15:57 <strong>��</strong> ���Ȃ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309195181557&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309195181557"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/19 (金) 18:15:57 <strong>▽</strong> すなさん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309195181557_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200309195181557"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�������҂��̂P�Q�O���Ԃ̊Ԃɍēx�ϐg�����ꍇ�A���̎��_����ēx�P�Q�O���Ԃ̃J�E���g�_�E���ɂȂ�̂��A����Ƃ��O��̎c�莞�ԁ{�P�Q�O���Ԃ̃J�E���g�_�E���ɂȂ�̂��E�E�E�B</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞解除待ちの１２０時間の間に再度変身した場合、その時点から再度１２０時間のカウントダウンになるのか、それとも前回の残り時間＋１２０時間のカウントダウンになるのか・・・。</font><br>
 <br>
-�P�j��Ԃ͂��߂̐ݒ肩��l����ƁA�u�ĕϐg�ł���̂͒j�ɖ߂��Ă���v�Ȃ̂ŁA�u���̎q�Ȏ��ԁv�ɓG�����Ă��܂��Ɓu�ł�Ȃ��v�ƂȂ��āA<br>
-���ʃp���[�_�E���ƂȂ�܂��H�H�i�΁j<br>
+１）一番はじめの設定から考えると、「再変身できるのは男に戻ってから」なので、「女の子な時間」に敵がきてしまうと「打つ手なし」となって、<br>
+結果パワーダウンとなります？？（笑）<br>
 <br>
-����Ƃ�<br>
-�Q�j�����҂����̂т����͂P�Q�O�|�W���P�P�Q���ԁB<br>
-���̊��Ԓ��͂��������ϐg�ł���̂��ǂ��Ȃ̂��H<br>
-�ϐg�ł���Ƃ��čl�����ꍇ�A<br>
-�Q�|���j���̂܂܎��Ԃ��J��z�����<br>
-�Q�|���j�u���̎q�Ȏ��ԁv���p���[�[�U���Ԃƍl����ƁA���̕��ϐg���ɗ͂��������B<br>
-���Ԃ͌J��z���Ȃ��B<br>
-�Q�|���j�u���̎q�Ȏ��ԁv���p���[���o���Ԃƍl����ƁA�ĕϐg����Ƃ���Ƀp���[�A�b�v����B<br>
-���Ԃ̓p���[�A�b�v������������Z�����B<br>
-�Q�|���j�H�H�H�ƂȂ�B<br>
+それとも<br>
+２）解除待ちがのびた分は１２０−８＝１１２時間。<br>
+この期間中はいったい変身できるのかどうなのか？<br>
+変身できるとして考えた場合、<br>
+２−ａ）そのまま時間が繰り越される<br>
+２−ｂ）「女の子な時間」をパワー充填期間と考えると、その分変身時に力がそがれる。<br>
+時間は繰り越さない。<br>
+２−ｃ）「女の子な時間」をパワー放出期間と考えると、再変身するとさらにパワーアップする。<br>
+時間はパワーアップした分だけ乗算される。<br>
+２−ｄ）？？？となる。<br>
 <br>
-���I�ɂ͂Q�|���Ɉ�[�B</font>
+私的には２−ｃに一票。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[150]</font> <font size=4 color=#40c0c0> �͂��ꂽ�i���j</font>
+<font size=2>[150]</font> <font size=4 color=#40c0c0> はずれた（爆）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/18 (��) 10:37:54 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309184103754&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309184103754"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/18 (木) 10:37:54 <strong>▽</strong> あい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309184103754_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200309184103754"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�`���C�i����A���Ɨ\�����Ă��񂾂��ǁi�O�O�j<br>
+<font size=3 color=#606060>チャイナさん、白と予測してたんだけど（＾＾）<br>
 <br>
-�C���X�g������ƁA������p���[�A�b�v�ł��ˁ�</font>
+イラストが入ると、物語もパワーアップですね♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[149]</font> <font size=4 color=#40c0c0> ��Z�b���z </font>
+<font size=2>[149]</font> <font size=4 color=#40c0c0> 第六話感想 </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/18 (��) 03:49:58 <strong>��</strong> �����߂݂̂� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309184034958&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309184034958"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/18 (木) 03:49:58 <strong>▽</strong> すずめのみや </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309184034958_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200309184034958"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ϐg�����̎��Ԍv�Z���悭�킩��Ȃ��̂ł���(^^;�A���������ēG�̑_���͉i�v��������<br>
-�ړI���B����͂���Ő����ȖړI(��)<br>
-�g���v�����@�C�^�[�@�T���Ԃ̑єԑg�ł����˂��ČÂ����B</font>
+<font size=3 color=#606060>変身解除の時間計算がよくわからないのですが(^^;、もしかして敵の狙いは永久女性化が<br>
+目的か。それはそれで崇高な目的(笑)<br>
+ト○プル○ァイター　５分間の帯番組でしたねって古いぃ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="writerman">
@@ -272,16 +272,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="writerman">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=writerman">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_writerman.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

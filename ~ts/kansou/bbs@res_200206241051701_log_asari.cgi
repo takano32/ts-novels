@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����肳���i�@���z�f����</title>
+<title>あさりさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����肳���i�@���z�f����</font>
+<font size=5>あさりさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="asari">
 <input type=hidden name="nj" value="W4hDXOXlQ5">
 <input type=hidden name="res" value="4">
-<h4 align=center>�� �L���ԍ� 4 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 4 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���z���肪�Ƃ���I�I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����肳��
-&gt; �͂��߂܂��āI�I���͂�����A�����ɖ{���ł��B�D���ȉf��́w�j�m�̋�i�K���T���̗����L�j�v�I�I���̏����ɂ�����Ȃ�e����^���Ă��܂��I�I
-&gt; ���Ƃ́c�A���̂��̏����A�����������������ł��B���ƈꥃj�b���炢�������Ⴂ�܂��B
-&gt; �ǂ����ǂ�����낵�イ���݂̂܂��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:感想ありがとさん！！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ あさりさん
+&gt; はじめまして！！私はあさり、微妙に本名です。好きな映画は『ニノの空（幸せ探しの旅日記）」！！この小説にも多大なる影響を与えています！！
+&gt; あとは…、このこの小説、もう少し続けるつもりです。あと一･ニ話ぐらい続いちゃいます。
+&gt; どうかどうかよろしゅうたのみます。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,21 +47,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �X�P�[���̑傫���������܂����B</font>
+<font size=2>[29]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> スケールの大きさを感じました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/21 (��) 08:58:04 <strong>��</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208213085804&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208213085804"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/21 (水) 08:58:04 <strong>▽</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208213085804_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208213085804"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�������肵���ǌ㊴���ō��ł��ˁB<br>
-�Ȃ񂾂��X�����ʂɂ܂ŃX�P�[���̑傫������\������������A<br>
-����X���Ă��܂��悤�ȕ��͂���������(�����������x���J��Ԃ��Ȃ�)���܂����B<br>
-���͂̐��Ȃ�����΁A�����ƃX�g���[�g�Ɋ����ł����i�ɂȂ����悤�Ɏv���܂��B<br>
-�������A��i���E�̑f���炵���͂�������ė]�肠��܂����B<br>
-���̍�i�����ЁA�ǂ܂��ė~�����ł��B<br>
+<font size=3 color=#606060>　すっきりした読後感が最高ですね。<br>
+なんだか仰々しい位にまでスケールの大きすぎる表現があったり、<br>
+首を傾げてしまうような文章があったり(同じ主語を何度も繰り返すなど)しました。<br>
+文章の推敲をすれば、もっとストレートに感動できる作品になったように思います。<br>
+しかし、作品世界の素晴らしさはそれを補って余りありました。<br>
+次の作品もぜひ、読ませて欲しいです。<br>
 <br>
-���̘b��ǂ�ŁA�u�Ԗт̃A���v���ǂ݂����Ȃ�܂����B<br>
+この話を読んで、「赤毛のアン」が読みたくなりました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -69,83 +69,83 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> �ǂ������ł��B</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> 良かったです。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/16 (��) 12:17:30 <strong>��</strong> ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208165121730&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208165121730"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/16 (金) 12:17:30 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208165121730_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208165121730"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�O�l�����K���ɂȂꂽ�n�b�s�[�G���h�Ɋ������܂����B<br>
-���ꂾ���ɂ��܂��B�{���ɗǂ������ł��B</font>
+<font size=3 color=#606060>三人共が幸せになれたハッピーエンドに感動しました。<br>
+それだけにつきます。本当に良かったです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/15 (��) 21:32:33 <strong>��</strong> <a href="mailto:shrike@fcv.ne.jp">nao</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208154213233&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208154213233"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/15 (木) 21:32:33 <strong>▽</strong> <a href="mailto:shrike@fcv.ne.jp">nao</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208154213233_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208154213233"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���A��͂���Ō�܂œǂ݂܂����B<br>
-�������肵���A�Ƃ����̂��ǂݏI���Ă܂��ŏ��ɕ����񂾊��z�ł��B<br>
-�����Â������Ă�����l����o��l���̐S�̓����A<br>
-�����ăX�g�[���[�̓W�J���L���C�ŁA�ǂ�ŗǂ������Ƒf���Ɏv���܂����B<br>
-���΂炵�������ǂ܂��Ă��������āA���肪�Ƃ��������܂����B</font>
+<font size=3 color=#606060>今、一章から最後まで読みました。<br>
+すっきりした、というのが読み終えてまず最初に浮かんだ感想です。<br>
+少しづつ成長していく主人公や登場人物の心の動き、<br>
+そしてストーリーの展開がキレイで、読んで良かったと素直に思いました。<br>
+すばらしい物語を読ませていただいて、ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> ��݂܂���</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> よみました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/15 (��) 11:02:04 <strong>��</strong> ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208154110204&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208154110204"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/15 (木) 11:02:04 <strong>▽</strong> あい </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208154110204_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208154110204"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ǂݏI���܂����B<br>
+<font size=3 color=#606060>今読み終えました。<br>
 <br>
-�Ȃ񂩁A�Ȃ񂾂낤�A�S�ɂȂɂ��������񂾂܂ܓǌ�̐��������L�������܂܂ł��B<br>
+なんか、なんだろう、心になにかが浮かんだまま読後の清涼感が広がったままです。<br>
 <br>
-�����A���b�����肪�Ƃ��������܂���</font>
+いい、お話をありがとうございました</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> ��̓��@�ŏI��</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 二つの道　最終章</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/15 (��) 10:24:34 <strong>��</strong> �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208154102434&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208154102434"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/15 (木) 10:24:34 <strong>▽</strong> 米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208154102434_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208154102434"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂��͑�삨��ꂳ�܂ł����B<br>
-�����肳��̊G��I�ŐF�ʖL���ȋ�z���E���y���܂��Ē����܂����B���������̂悤�ȕϐg����n�܂�A�����������՗t�����X�ɈႤ�d�݂������n�߁A�Ō�͂����œ����ӎu��l�Ԋ֌W���������E�ɓ]�����Č�������B����ȃC���[�W���Ȃ��Ȃ���[�������ł��B<br>
+<font size=3 color=#606060>まずは大作お疲れさまでした。<br>
+あさりさんの絵画的で色彩豊かな空想世界を楽しませて頂きました。現実逃避のような変身から始まり、虚像だった琴葉が徐々に違う重みを持ち始め、最後はそこで得た意志や人間関係が現実世界に転化して決着する。そんなイメージがなかなか趣深かったです。<br>
 <br>
-���X�ɏ�����̉��l�ς��b�̗���ƊO�ꂽ�`�ŕ��͂Ɍ���Ă��܂���ʂ��݂��܂����A�����ł����Ɖ䖝���邱�Ƃ��ł���΂���ɓǎ҃t�����h���[�ȍ�i�ɂȂ�Ǝv���܂��B�������̘H���̘b���ǂ߂�Ƃ悢�ȂƎv���A���B</font>
+所々に書き手の価値観が話の流れと外れた形で文章に現れてしまう場面がみられますが、そこでぐっと我慢することができればさらに読者フレンドリーな作品になると思います。次もこの路線の話が読めるとよいなと思いつつ、了。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/15 (��) 01:03:49 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208154010349&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208154010349"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/15 (木) 01:03:49 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208154010349_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208154010349"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������Ė{�ɂ����A�՗t(�����A�h���c���ł��傤?)�ɂ����A�C�ɂȂ�܂��B<br>
-����͂���ɂ��āA�{���ɔ������Ċ����I�Șb�ł����B<br>
+<font size=3 color=#606060>寺島が夏本につくか、琴葉(多分、蘇た田原でしょう?)につくか、気になります。<br>
+それはそれにして、本当に美しくて感動的な話でした。<br>
 </font>
 <p><div align=left><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a></div>
 </td></table>
@@ -154,20 +154,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/14 (��) 23:54:16 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208143235416&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208143235416"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/14 (水) 23:54:16 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208143235416_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208143235416"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���肪�Ƃ��I<br>
+<font size=3 color=#606060>ありがとう！<br>
 <br>
-�Ō�܂œǂ�ŁA�^����ɐS�ɕ����񂾌��t�͂���ł����B<br>
-�{���ɑf���炵�����b�ł�����B�ō��ł��B<br>
-�ŏI�b�̍Ō�̃V�[���B����͂�͂�A�c�����՗t�Ƃ����S��A�Ė{�͂����m���Ă���Ɖ��߂��Ă�����ł���ˁB�����ɍő�̊��������������̂ŁA������Ɗm�F�������āB<br>
+最後まで読んで、真っ先に心に浮かんだ言葉はこれでした。<br>
+本当に素晴らしいお話でしたよ。最高です。<br>
+最終話の最後のシーン。これはやはり、田原が琴葉として甦り、夏本はそれを知っていると解釈していいんですよね。ここに最大の感動を感じたもので、ちょっと確認したくて。<br>
 <br>
-�Q�钼�O�i����ł����������Ԃ��R���A���S���Ԗ����m��j���������ǁA�ǂ�ŗǂ������B�����ɂ����҂��Ă��܂��B</font>
+寝る直前（これでもう睡眠時間が３日連続４時間未満確定）だったけど、読んで良かった。次回作にも期待しています。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -175,59 +175,59 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> �w��̓��E�攪��&amp;�ŏI�́x������ɂ͂������N���b�N�B</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> 『二つの道・第八章&amp;最終章』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/14 (��) 22:29:11 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208143222911&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208143222911"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/14 (水) 22:29:11 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208143222911_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208143222911"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�՗t�Ǝ����̊֌W���^���o���Ė{�B�����āA�����R���N�[���ɂނ��ĕ���͍Ăѓ����o���B<br>
-<a href=http://ts.novels.jp/novel/200206/22085230/dualway-08.html target=_top>http://ts.novels.jp/novel/200206/22085230/dualway-08.html</a><br>
+<font size=3 color=#606060>【推薦文】琴葉と寺島の関係を疑い出す夏本。そして、演劇コンクールにむけて物語は再び動き出す。<br>
+<a href="../../novel/200206/22085230/dualway-08.html" target=_top>http://ts.novels.jp/novel/200206/22085230/dualway-08.html</a><br>
 <br>
-���Ɛ��A�ӂ��́g�����h������āA�՗t�͕���ɗ��B�����āc�c<br>
-<a href=http://ts.novels.jp/novel/200206/22085230/dualway-09.html target=_top>http://ts.novels.jp/novel/200206/22085230/dualway-09.html</a></font>
+性と生、ふたつの“せい”を抱いて、琴葉は舞台に立つ。そして……<br>
+<a href="../../novel/200206/22085230/dualway-09.html" target=_top>http://ts.novels.jp/novel/200206/22085230/dualway-09.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> �ǂ݂܂������`�B</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> 読みましたぁ〜。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/14 (��) 09:42:33 <strong>��</strong> ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208143094233&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208143094233"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/14 (水) 09:42:33 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208143094233_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208143094233"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����N���ǂ�ǂ񂷂΂炵���l�ɂȂ��Ă����̂������ł��ˁB<br>
-�ق̂ڂ̂��Ȃ�����A���͂ł͂�����ƃh�L�h�L�œǂ܂��Ă��������܂����B<br>
-�Y��ȏ�i�`�ʂ��r���œ����Ă��āA�ǂݎ�Ƃ��Ă͂Ȃ�ƂȂ��o��l���̊����ǂݎ��Ă����C�����܂��B<br>
-����΂��đ����������Ă��������I<br>
-�y���݂ɂ��Ă���܂��B</font>
+<font size=3 color=#606060>寺島君がどんどんすばらしい人になっていくのがいいですね。<br>
+ほのぼのしながらも、七章ではちょっとドキドキで読ませていただきました。<br>
+綺麗な情景描写が途中で入っていて、読み手としてはなんとなく登場人物の感情を読み取れていた気がします。<br>
+がんばって続きを書いてください！<br>
+楽しみにしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> ��̓��@��R�́`�V��</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> 二つの道　第３章〜７章</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/13 (��) 17:47:44 <strong>��</strong> �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208132174744&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208132174744"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/13 (火) 17:47:44 <strong>▽</strong> 米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208132174744_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200208132174744"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��������ǂ܂��Ē����܂����B���ʕω��ɔ����Ă��Ȃ��W���u�i�C���I�ȓW�J���悢�ł��B<br>
-�u��̓��v�Ƃ����G�ƃ^�C�g���̎����Î������X�g�̃L�[�ɂȂ肻���ł����A�ǂ̂悤�ɒ��߂����邩�y���݂ɂ��Ă܂��B<br>
+<font size=3 color=#606060>じっくり読ませて頂きました。性別変化に縛られていないジュブナイル的な展開がよいです。<br>
+「二つの道」という絵とタイトルの示す暗示がラストのキーになりそうですが、どのように締めくくるか楽しみにしてます。<br>
 <br>
-���͓I�ɂ͂Ƃ���ǂ���œc���Ǝ����̗��҂̊����`�����߂ɕ��͂̎��_���}���ɐ؂�ւ�鎖������̂ŁA�����ň�a�������������Ȃ��悤�ɂł���΂����Ƃ悭�Ȃ�Ǝv���܂��B</font>
+文章的にはところどころで田原と寺嶋の両者の感情を描くために文章の視点が急激に切り替わる事があるので、そこで違和感を感じさせないようにできればもっとよくなると思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="asari">
@@ -235,16 +235,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="asari">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=asari">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_asari.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

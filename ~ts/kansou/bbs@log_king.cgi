@@ -161,7 +161,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 第１話の訂正版です。色々変わっているので、よく見てみてはいかが？<br>
 <br>
-<a href=http://ts.novels.jp/novel/200211/29202848/badmin&#95;girl01&#95;2nd.html target=_top>http://ts.novels.jp/novel/200211/29202848/badmin&#95;girl01&#95;2nd.html</a></font>
+<a href="../../novel/200211/29202848/badmin_girl01_2nd.html" target=_top>http://ts.novels.jp/novel/200211/29202848/badmin&#95;girl01&#95;2nd.html</a></font>
 </td></table>
 </td></tr></table>
 

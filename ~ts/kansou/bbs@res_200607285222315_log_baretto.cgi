@@ -1,60 +1,60 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�o���b�g���񊴑z�f����</title>
+<title>バレットさん感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�o���b�g���񊴑z�f����</font>
+<font size=5>バレットさん感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="baretto">
 <input type=hidden name="nj" value="QmjcQKL8Q9">
 <input type=hidden name="res" value="75">
-<h4 align=center>�� �L���ԍ� 75 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 75 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�������I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �|�{�����O����
-&gt; �@�p�Y����A���肪�Ƃ��������܂��I
-&gt; �@�����O�̃o���b�g�ł��B�����ƖZ�����A�����ȕ��ʂ����������������̂ŁA���A���l�Ԃ��������݂��܂��B
-&gt; �|�F���������B�����͒�����ӂ܂ŐQ�Ă΂��c�c
-&gt; �o�F���������d�ς��I
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:うぉあ！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 鋼＋員数外さん
+&gt; 　英雄さん、ありがとうございます！
+&gt; 　員数外のバレットです。ずっと忙しく、いろんな方面がご無沙汰だったので、リアル人間が書き込みします。
+&gt; 鋼：そうそう。こいつは朝から晩まで寝てばか……
+&gt; バ：うそこけ妖狐が！
 &gt; 
-&gt; �@�܂������ŉ����N�����Ă��邩�͂����Ƃ��āA
+&gt; 　まあ現実で何が起こっているかはいいとして、
 &gt; 
-&gt; �������Ƃ�
-&gt; �@����͖l�̏��߂Ă̍�i�ŁA�v������̋�����i�ł�����܂��B���̂����������āA�l�̑㗝�l�Ƃ��č|��������A���ɂ͖l�̊��z�f����������n�߂Ă��܂��B���������A���낻��l�ɕԂ��Ă���Ȃ����ȁB
-&gt; �@�Ƃ���ŁA���������^��͕����Ȃ������ł����H
-&gt; �u�Q�S�΂́A�w���łЂ��ʂ̐N���A�ǂ�����ăg�����X����́H�v
-&gt; �@���X�̌��J�ł����A�g�����X����O�Ƃ��Ƃ̃M���b�v�𐶂ݏo������������ł��B����́A������ƃC���f�B�[����̕ϐg�����������ł��B���₨�����񂪔������ɁI�@���ꂼ���E�`�I
-&gt; �@����ƁA�l�͐�p�I�ȃL��������邱�Ƃ��D���ł��B�l�̍�i�ɂ͂���ȃL�����N�^�[�΂���ł��B�ł��A����������������ʔ����Ȃ��̂ŁA����ς�ǂ����Ŕ�͂ɂȂ��Ă��܂��V�[����`������������ł��B���ꂪ�A�|���߂��ꂽ���q�Ƃ������邽�߂Ɉ�l�킢�A�Ō�Ƀ{���{���ɂȂ��ċA���Ă��āA���q�ɋ������A����ȃV�[���ł��B�l�̋����Ǝコ��`�����������A���ꂪ�����ƁA���̑����̌���ł��B
-&gt; �@�c�c�܂�����ȃG���\�[�Ȃ��ƌ����Ƃ��āA�l�����̐l�Ƃ͔�r�ɂȂ�Ȃ��قǓ��Ȑl�ԂȂ�ł����ǁB
+&gt; ＞落雷とか
+&gt; 　これは僕の初めての作品で、思い入れの強い作品でもあります。そのせいもあって、僕の代理人として鋼が具現化し、ついには僕の感想掲示板を牛耳り始めています。おいおい、そろそろ僕に返してくれないかな。
+&gt; 　ところで、こういう疑問は抱かなかったですか？
+&gt; 「２４歳の、背高でひげ面の青年が、どうやってトランスすんの？」
+&gt; 　今更の公開ですが、トランスする前とあとのギャップを生み出したかったんです。それは、所さんとインディーくんの変身も同じ原理です。犬やおっさんが美少女に！　これぞ武勇伝！
+&gt; 　それと、僕は戦術的なキャラを練ることが好きです。僕の作品にはそんなキャラクターばかりです。でも、ただ強いだけじゃ面白くないので、やっぱりどこかで非力になってしまうシーンを描きたかったんです。それが、鋼が捕らわれた尚子とを助けるために一人戦い、最後にボロボロになって帰ってきて、尚子に泣きつく、そんなシーンです。人の強さと弱さを描きたかった、それが落雷と、その続きの激戦です。
+&gt; 　……まあそんなエラソーなこと言っといて、僕も他の人とは比較にならないほど軟弱な人間なんですけど。
 &gt; 
-&gt; �����̂ق��̍�i
-&gt; �@�r�������Ə�������A��낵���ł��I
+&gt; ＞そのほかの作品
+&gt; 　Ｓｅｅｄと所さんも、よろしくです！
 &gt; 
-&gt; �|�F�p�Y����̐V��́A�ɂ��Ȃ��ēǂݐi�߂邱�Ƃ��ł��܂��񂪁A�ɂ����ēǂ�Ŋ��z���������Ǝv���܂��B���R���̂Ƃ��́A�o���b�g�̃h�A�z�Ȃ񂩒u���āB
-&gt; �o�F����ƁA�������ŃR�}�[�V�����I�@���ɁA�A�i���O������d�]��`�����������܂����I�@�ڂ�����A���񂻂����낵���ł��B
+&gt; 鋼：英雄さんの新作は、暇がなくて読み進めることができませんが、暇を見て読んで感想書きたいと思います。当然そのときは、バレットのドアホなんか置いて。
+&gt; バ：それと、今ここでコマーシャル！　ついに、アナログ所さん電脳大冒険が完成しました！　載ったら、是非それもよろしくです。
 &gt; 
-&gt; �@����Ă����I</textarea><br>
+&gt; 　そりてぃあ！</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 8ASu5x  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="8ASu5x"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 8ASu5x  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="8ASu5x"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -67,55 +67,55 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[81]</font> <font size=4 color=#40c0c0> ���z�����肪�Ƃ��������܂��I</font>
+<font size=2>[81]</font> <font size=4 color=#40c0c0> 感想をありがとうございます！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/13 (��) 01:44:30 <strong>��</strong> �o���b�g </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608130014430&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608130014430"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/13 (日) 01:44:30 <strong>▽</strong> バレット </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608130014430_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608130014430"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����A���̊Ԃɂ����Ԃ�����āA�N�ɂ��Ԏ���Ԃ��Ȃ��܂ܒ��҂��f�ڂ����Ă����������Ⴂ�܂����B<br>
-�@��������A�o���b�g�ł��B<br>
+<font size=3 color=#606060>　うう、いつの間にか時間が流れて、誰にも返事を返さないまま中編を掲載させていただいちゃいました。<br>
+　ちゃっす、バレットです。<br>
 <br>
-<font color="#ff88cc">�����肩����</font><br>
-�@�����ł��A��ʏ�ʂŏ��������Ȃ��ƁA��x�ɂP�P�l�̃L�����N�^�[�Ȃ�đ����Ă����܂���B�P�P�C�̔L����Ȃ��ł��̂ŁA����́B<br>
-�@�ł��A���R�Ƃ����Ȃ����Ⴄ��ł��B�ق��̃p�[�e�B�[�Ȃ�ĒN���m��Ȃ��킯�ł����A��������Ȃ��Ƃ������Ă��A���҂ɂ�����Ƃ���W�l�܂ł����E�ł��B<br>
-�@�g�[�}�N�Ɠ~��N�̌�������A�����Ƃ���܂��B�������݂���Ȃ��Ƃ��������p�[�e�B�[�ł����A�|�������Ƒ����݂��낦�āA�Ō�̍Ō�ɂR�l�̍��̃A�[�c���Ԃ���������ł��܂��B<br>
+<font color="#ff88cc">＞きりかさん</font><br>
+　そうです、場面場面で書き分けないと、一度に１１人のキャラクターなんて操っていられません。１１匹の猫じゃないですので、これは。<br>
+　でも、自然とそうなっちゃうんです。ほかのパーティーなんて誰も知らないわけですし、もしそんなことがあっても、中編にもあるとおり８人までが限界です。<br>
+　トーマ君と冬雪君の見せ場も、ちゃんとあります。少し噛みあわないところもあるパーティーですが、鋼もちゃんと足並みそろえて、最後の最後に３人の合体アーツをぶっ放すつもりでいます。<br>
 <br>
-<font color="#ff88cc">���Vࣂ���</font><br>
-�@�R�O���̂R�l�̊�����ڂ��Ă���킯������A�Ƃ��������Ƃ���ł����A�����ւ̎莆�A����͉��������C�����ɂ����Ă����̂ŁA��Y�̖��ɂ����I�΂��Ă��������܂����B<br>
-�@���z�����̂��X�����v�A�ł����B���[��A�l�͂ǂ������΂����̂�������܂��񂪁A�Ƃɂ����ǂ񂾂�[�A�����ł��G�l���M�[�ɂȂ�̂ŁA���ꂵ���ł��B<br>
+<font color="#ff88cc">＞天爛さん</font><br>
+　３０号の３人の活躍を載せているわけだから、といいたいところですが、未来への手紙、あれは懐かしい気持ちにさせてくれるので、苦悩の末にあれを選ばせていただきました。<br>
+　感想書くのがスランプ、ですか。うーん、僕はどう言えばいいのか分かりませんが、とにかく読んだよー、だけでもエネルギーになるので、うれしいです。<br>
 <br>
-<font color="#ff88cc">������������</font><br>
-�@������A�������[���z�������I<br>
-�@�Ƃ����킯�ŁA�b��ʂ�<br>
+<font color="#ff88cc">＞流離太さん</font><br>
+　うっわ、すっげー感想文長っ！<br>
+　というわけで、話題別で<br>
 <br>
-<font color="#ff88cc">���|�}�}�@�W���f�B����������</font><br>
-�@����͍|���P�W�Έȍ~�̘b�Ȃ̂ŁA�����ł̓}�}���Ⴀ��܂���B�ݒ�N��͂P�T�΁B�~�Ⴍ��ƃg�[�}����̊Ԃ��炢�ł��傤�ˁB���͂Q�S�΂̐N�Ƃ����Ă��A�̂ɏ������Ďq�ǂ����ۂ��Ȃ��Ă܂�����A�ޏ��B<br>
-�@�W���f�B�ɂ͂������Ă��炢�܂��A���ꂩ��������ƁB<br>
+<font color="#ff88cc">＞鋼ママ　ジュディがいじけた</font><br>
+　あれは鋼が１８歳以降の話なので、ここではママじゃありません。設定年齢は１５歳。冬雪くんとトーマくんの間ぐらいでしょうね。元は２４歳の青年といっても、体に順応して子どもっぽくなってますから、彼女。<br>
+　ジュディにはいじけてもらいます、これからもずっと。<br>
 <br>
-<font color="#ff88cc">���������������肵�Ă���</font><br>
-�@�����ݒ肵�܂������[��B<br>
-�@�ł��A���悪���p�t�ŁA�������������w�I���̊{�x���g���Ɣ����̂l�o��S�ċz�����A�Ƃ����_���A�l���g���ꂪ�����Ӗ�����̂��܂������������Ă��܂���ł����B�܂�̗͂Ȃ��A���͂Ȃ��A�ƂȂ�Ⴭ�O�A�E�g�m���ł���ˁB�����ł��s����`�̃X�L����ڑ������Ă���Ɩ���������̂ŁA����ς胍�O�A�E�g���Ă��炢�܂����B<br>
-�@����͓�������A���o�͂��傤�ǂ����ʒu�ɂ��āA�����͂ǂ����Ő�΂ɑ����̔�Q�������ނ�B�p�[�e�B�[�̒��Ń��[�_�[�ƃT�u�̊֌W�����藧�Ă΁A���R�ƃn���^�[�Y�̂悤�Ȗ��t���ɂȂ����Ⴄ�̂ł��傤���B<br>
+<font color="#ff88cc">＞美央だけが空回りしている</font><br>
+　そう設定しましたもーん。<br>
+　でも、美玲が魔術師で、しかも美央が『終焉の顎』を使うと美央のＭＰを全て吸い取る、という点も、僕自身それが何を意味するのかまったく理解していませんでした。つまり体力なし、魔力なし、となりゃログアウト確実ですよね。ここでご都合主義のスキルを接続させていると味が落ちるので、やっぱりログアウトしてもらいました。<br>
+　美玲は頭を抱え、美登はちょうどいい位置にいて、美央はどこかで絶対に多くの被害をこうむる。パーティーの中でリーダーとサブの関係が成り立てば、自然とハンターズのような味付けになっちゃうのでしょうか。<br>
 <br>
-<font color="#ff88cc">�����ƃ��A</font><br>
-�@�ނ炪��l���ł��A���ǁB<br>
-�@����������̐��A�ނƂł��������A�A�ނ�̐�����`�������A�Ǝv���āA���̍�i�������n�߂܂����B�����Ƃ��A�ŏ�������ƃ��A�̕���́A�A�i���O������ƃR���{���������ŁB<br>
+<font color="#ff88cc">＞旋とルア</font><br>
+　彼らが主人公です、結局。<br>
+　引きこもりの旋、彼とであったルア、彼らの成長を描きたい、と思って、この作品を書き始めました。もっとも、最初から旋とルアの物語は、アナログ所さんとコラボさせるつもりで。<br>
 <br>
-<font color="#ff88cc">������{�҂Ŏg���Ă�</font><br>
-�@���������񂳂���낵����΂ǂ����B���Ƃ͂Ƃ����Ζl���p�N���n�߂��̂ł����B<br>
-�@�l���l�����Z�𗬗�������Ɏg���Ă��炦��Ȃ�Ă��ꂵ���ł��B�����A�~�Ⴍ�񂪃A�C�V�N�����C���œG����|����V�[�������Ă݂����I<br>
+<font color="#ff88cc">＞これ本編で使っても</font><br>
+　流離太さんさえよろしければどうぞ。もとはといえば僕がパクリ始めたのですし。<br>
+　僕が考えた技を流離太さんに使ってもらえるなんてうれしいです。もう、冬雪くんがアイシクルラインで敵を一掃するシーンが見てみたい！<br>
 <br>
-<font color="#ff88cc">���`�v��</font><br>
-�@�c�O�I�@����͌�҂���Ȃ̂ł���B�Ō�̃{�X������y���݂ɁB<br>
+<font color="#ff88cc">＞ＡＷ社</font><br>
+　残念！　それは後編からなのですよ。最後のボス戦をお楽しみに。<br>
 <br>
-�@�Ƃ���ŁA���E���B<br>
-<font color="#ff88cc">�����̂����͂��邢</font><br>
-�@���݂܂���A�m���ɂ��邢�ł��I�@�ł��ǂ����W�l�����邱�Ƃł����A�S���Ɋ���̏��^�������Ƃ����̂���҂̂킪�܂܂ł��B�ł��A���邢��������킢�ɏ��̂��I�@�Ȃ�Č����Ă݂āB<br>
+　ところで、推薦文。<br>
+<font color="#ff88cc">＞そのやり方はずるい</font><br>
+　すみません、確かにずるいです！　でもどうせ８人もいることですし、全員に活躍の場を与えたいというのが作者のわがままです。でも、ずるいやつこそが戦いに勝つのだ！　なんて言ってみて。<br>
 <br>
-�@����Ȃ킯�ł��āA���񒆕҂��������������܂��I<br>
-�@����Ă����I</font>
+　そんなわけでして、是非中編もご覧くださいませ！<br>
+　そりてぃあ！</font>
 <p><a href="http://k_saiyuuki@yahoo.co.jp" target="_top">http://k_saiyuuki@yahoo.co.jp</a>
 </td></table>
 </td></tr></table>
@@ -123,112 +123,112 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[80]</font> <font size=4 color=#40c0c0> �w�A�i���O������@�d�]��`���r�������������i���ҁj�x������ɂ͂������N���b�N�B</font>
+<font size=2>[80]</font> <font size=4 color=#40c0c0> 『アナログ所さん　電脳大冒険Ｓｐｅｃｉａｌ（中編）』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/12 (�y) 22:50:56 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608126225056&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608126225056"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/12 (土) 22:50:56 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608126225056_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608126225056"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z��C��I�@�ł��A���̂����͂�����Ƃ��邭�Ȃ����c�c�H<br>
-<a href=http://ts.novels.jp/novel/200512/06000905/anatoko_c02.htm target=_top>http://ts.novels.jp/novel/200512/06000905/anatoko_c02.htm</a><br>
-�@�� �L�����e�̍ۂ́A���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă��������B</font>
+<font size=3 color=#606060>【推薦文】大海戦！　でも、そのやり方はちょっとずるくないか……？<br>
+<a href="../../novel/200512/06000905/anatoko_c02.htm" target=_top>http://ts.novels.jp/novel/200512/06000905/anatoko_c02.htm</a><br>
+　※ 記事投稿の際は、入力コード右側の半角英数字６文字を、その右側のボックスに入力してください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[79]</font> <font size=4 color=#40c0c0> ���ʂɊ��z�������������₷�������B</font>
+<font size=2>[79]</font> <font size=4 color=#40c0c0> 普通に感想書いた方がやりやすいかも。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/12 (�y) 16:38:17 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608126163817&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608126163817"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/12 (土) 16:38:17 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608126163817_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608126163817"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��́A�����ƉĂ΂ċC��������������ł��B<br>
-�x���Ȃ�܂������A���z�����Ă݂悤����Ă݂悤�B<br>
-���킟�c�c�߂���ʔ�����ł����ǁI<br>
-�ܘ_�A���i�̃A�i�Ƃ����ʔ�����ł����ǁA����͂��ꂼ��̃h���}�����܂肠���A�▭�ł��ˁ�<br>
-���肩����̂��������ʂ�A�L�������Ƃ̏��������Ƀv���X���āA�Ǝ��̃A�C�f�A���v���X����Ă���̂������ł���<br>
-�i��̕��͓V�H����̎󂯔���ł��j<br>
-�Ƃ������ƂŁA�ЂƂЂƂ̃`�[�������Ă������Ǝv���܂��B<br>
+<font size=3 color=#606060>こんにちは、ずっと夏ばて気味だったるっちです。<br>
+遅くなりましたが、感想いってみようやってみよう。<br>
+うわぁ……めちゃ面白いんですけど！<br>
+勿論、普段のアナとこも面白いんですけど、これはそれぞれのドラマが絡まりあい、絶妙ですね♪<br>
+きりかさんのおっしゃる通り、キャラごとの書き分けにプラスして、独自のアイデアがプラスされているのがいいです♪<br>
+（上の文は天稀さんの受け売りです）<br>
+ということで、ひとつひとつのチームを見ていこうと思います。<br>
 <br>
-<font color="#ff88cc">���T���_�[�o�[�h</font><br>
-�������A�i�Ƃ��`�[���I<br>
-�ޏ���̂������ŁA�����̃L�������Q�����Ă���ɂ�������炸�A�S�̂̃C���[�W���󂳂��ɂ���Ǝv���܂���<br>
-�l�I�ɂ́A�W���f�B����̎g�������b���A�W�A�e�C�X�g�Ȃ̂��������ł��B<br>
-����A�{�C�ň���ɔ@���l������Ƃ͎v���܂���ł����i�΁j<br>
-����ɂ��Ă��A�C���f�B�[�N�B<br>
-���肰�ɂ����ȏ�ɃW���f�B����ɗ₽���Ȃ��I�H<br>
-�������Q�[���ɗU��ꂽ�̂ɓ{���Ă���̂��낤���i���j<br>
-�܂��A��������W���f�B���񂪌��ꂽ���炢����B<br>
-�c�c�����ƌ������Ȃ��A�����߂���W���f�B����B<br>
-�Ƃ������ƂŁA�C���f�B�[�N�ɂ͂���΂��Ăق������ȁi�S�j<br>
+<font color="#ff88cc">＞サンダーバード</font><br>
+さすがアナとこチーム！<br>
+彼女らのおかげで、多数のキャラが参加しているにもかかわらず、全体のイメージを壊さずにいると思います♪<br>
+個人的には、ジュディさんの使う召喚獣がアジアテイストなのが嬉しいです。<br>
+いや、本気で阿弥陀如来様が来るとは思いませんでした（笑）<br>
+それにしても、インディー君。<br>
+さりげにいつも以上にジュディさんに冷たくない！？<br>
+無理やりゲームに誘われたのに怒っているのだろうか（汗）<br>
+まあ、いじけるジュディさんが見れたからいいや。<br>
+……もっと見たいなあ、いじめられるジュディさん。<br>
+ということで、インディー君にはがんばってほしいかな（鬼）<br>
 <br>
-<font color="#ff88cc">���`�[���E�t�����^��</font><br>
-�R���{��i�̑�햡�A�Ⴄ��i�̃L�����ō\�����ꂽ�`�[���B<br>
-�O�̘b�ł��|�}�}�i�e�E�j���o�����Ă��܂������A���ړI�ȗ��݂͓d�g�L�݂̂ł����B<br>
-�ł����A���̃`�[���ɂ���āA�܂��ɃR���{��i���Ƃ������Ƃ����o�������܂���<br>
-���ɁA�}���S�[�^���g��D�������g�[�}�N�Ɠ~����~�߂�|���񂪈�ۓI�ł��i�O�O�j<br>
-�|���񂪂��������l�����A�M���ȃg�[�}�N���������������A�悩�����ł��B<br>
-���ɁA����̓g�[�}�N�̉ؗ�Ȃ�X�����O����<br>
-�܂��܂��y���݂ł��I<br>
-�c�c���A�~��ł����H<br>
-����A��ɂ��Ă͊��ӂ��Ă��d�؂�܂���ˁB<br>
-�ǂ������肪�Ƃ��������܂��I<br>
-�ɓ�����₫�肩����ɂ������邱�Ƃł����ǁA�݂Ȃ��񎄂��~��g���̂����܂��i�O�O�G�j<br>
-���̐�m�̓��������ʓI�Ɏg���������łȂ��A�F�X�ȋZ�܂Ł�<br>
-���́A����{�҂Ŏg���Ă������ł����H�i�΁j<br>
+<font color="#ff88cc">＞チーム・フルメタル</font><br>
+コラボ作品の醍醐味、違う作品のキャラで構成されたチーム。<br>
+前の話でも鋼ママ（銃殺）が出演していましたが、直接的な絡みは電波猫のみでした。<br>
+ですが、このチームによって、まさにコラボ作品だということを自覚させられます♪<br>
+特に、マンゴータルトを奪い合うトーマ君と冬雪を止める鋼さんが印象的です（＾＾）<br>
+鋼さんがしっかり大人だし、熱血なトーマ君もかっこいいし、よかったです。<br>
+特に、次回はトーマ君の華麗なるスリングが♪<br>
+ますます楽しみです！<br>
+……え、冬雪ですか？<br>
+いや、やつについては感謝しても仕切れませんね。<br>
+どうもありがとうございます！<br>
+伊藤さんやきりかさんにも言えることですけど、みなさん私より冬雪使うのがうまい（＾＾；）<br>
+水の戦士の特性を効果的に使っただけでなく、色々な技まで♪<br>
+あの、これ本編で使ってもいいですか？（笑）<br>
 <br>
-<font color="#ff88cc">���s���A�n���^�[�Y</font><br>
-�O�l���L�^�[�[�[�[�[�I<br>
-���₠�A�v���Ԃ�Ȃ̂ŁA�v�킸�͂��Ⴂ���Ⴂ�܂�����<br>
-�S�������p�����Ă��邾���łȂ��A�S�ĔŌ��L�����ȂƂ�����s���A����R���ł��ˁB<br>
-���x�O�l�����A�܂�Ŕޏ���̂��߂ɂ��炦��ꂽ�悤�ȃQ�[��(�΁j<br>
-����ɂ��Ă��A�����l�E�����Ă�i���j<br>
-��ԕs�K�ȃ`�[�������i�s�s�j<br>
-���������o�����A��x����Q�ɂ����Ă��Ȃ��i�O�O�G�j<br>
-�����āA�������񂾂����C�����肵�Ă���悤�ȋC������͎̂��̋C�̂����H<br>
-�ł��A���͂���Ȕ������񂪊���ł�����<br>
-���Ɋ��Ҋ��ҁ�<br>
+<font color="#ff88cc">＞ピュアハンターズ</font><br>
+三人娘キターーーーー！<br>
+いやあ、久しぶりなので、思わずはしゃいじゃいました♪<br>
+全員同じ姿をしているだけでなく、全て版権キャラなところもピュアたる由縁ですね。<br>
+丁度三人だし、まるで彼女らのためにあつらえられたようなゲーム(笑）<br>
+それにしても、毎回一人脱落してる（汗）<br>
+一番不幸なチームかも（ＴＴ）<br>
+さすが美登ちゃん、一度も被害にあっていない（＾＾；）<br>
+そして、美央さんだけやる気が空回りしているような気がするのは私の気のせい？<br>
+でも、次はそんな美央さんが活躍ですか♪<br>
+次に期待期待♪<br>
 <br>
-<font color="#ff88cc">���u���b�N�u���C�Y</font><br>
-���񏉓o��̃I���W�i���L�����݂̂ō\�����ꂽ�ِF�`�[���B<br>
-���ꂾ���ɁA�R���f�B�`�b�N�ȑ��̃p�[�e�B�[�Ƃ͈�����C���[�W�B<br>
-���̕��X�̓o��ɂ��A���̕���̓Q�[���Ƃ����ӎ�����������܂��B<br>
-����A�ނ���C���f�B�[�N��g�[�}�N�A�O�l���������Q�[���̃L�����ł́H�@�Ȃ�č��o���Ă��܂��܂��B<br>
-���ꂾ���ɁA���̎�l���B�͏G��ł��ˁB<br>
-�ړI�͎����T���c�c�Ȃ񂩁A���ꂩ�炠�肻���B<br>
-����A����̓�������ڂ������܂����<br>
+<font color="#ff88cc">＞ブラックブレイズ</font><br>
+今回初登場のオリジナルキャラのみで構成された異色チーム。<br>
+それだけに、コメディチックな他のパーティーとは違ったイメージ。<br>
+この方々の登場により、この物語はゲームという意識が強調されます。<br>
+いや、むしろインディー君やトーマ君、三人娘さえもゲームのキャラでは？　なんて錯覚してしまいます。<br>
+それだけに、この主人公達は秀逸ですね。<br>
+目的は自分探し……なんか、これからありそう。<br>
+うん、今後の動向から目が離せません♪<br>
 <br>
 <br>
-������́A�`�v�Ђ�����L�������h������邻���Ł�<br>
-����͂�A���ς�炸�ʔ����B<br>
-�����݂Ȍ��t�ł����ǁA������y���݂ɂ��Ă��܂��B<br>
-�ł͂ł́`��</font>
+次からは、ＡＷ社からもキャラが派遣されるそうで♪<br>
+いやはや、相変わらず面白い。<br>
+月並みな言葉ですけど、次回も楽しみにしています。<br>
+ではでは〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[78]</font> <font size=4 color=#40c0c0> �u�d�]��`���i�O�ҁj�v�ǂ݂܂����B</font>
+<font size=2>[78]</font> <font size=4 color=#40c0c0> 「電脳大冒険（前編）」読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/08 (��) 12:15:39 <strong>��</strong> <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608082121539&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608082121539"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/08 (火) 12:15:39 <strong>▽</strong> <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608082121539_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608082121539"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ʔ����ł��B����y���݂ł��B�ł͑ʖڂł���ˁi��<br>
-����A�Ȃ񂩍ŋߊ��z�����̂��X�����v�Ȃ�ł���i��<br>
+<font size=3 color=#606060>面白いです。次回楽しみです。では駄目ですよね（爆<br>
+いや、なんか最近感想書くのがスランプなんですよ（汗<br>
 <br>
-����Ɛٍ�̂����߂��肪�Ƃ��������܂����B<br>
+それと拙作のお奨めありがとうございました。<br>
 <br>
-�ł́A�����y���݂ɂ��Ă܂��B<br>
+では、続き楽しみにしてます。<br>
 <br>
-�o�r�B<br>
-�Q�A�R�C�Â����_�������Ń��[������܂��B<br>
+ＰＳ。<br>
+２、３気づいた点があるんでメール送ります。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -236,14 +236,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[77]</font> <font size=4 color=#40c0c0> ��݂܂���</font>
+<font size=2>[77]</font> <font size=4 color=#40c0c0> よみました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/08 (��) 10:08:16 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608082100816&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608082100816"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/08 (火) 10:08:16 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608082100816_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608082100816"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�Ȃ��Ȃ��y���������ł��B���ꂼ��̃L�����ɂ��ꂼ��̌�����A�ݒ�����͂��C�������Ă܂��ˁB�o��l���������̂ł�����ǂ������菑���������āA��ʂ��]�����Ă�������₷���ǂ߂܂����B��b���Ȃ��Ȃ����������Ƃ��āA�~�Ⴍ���30���g���I���g�[�}�����������Řb���Ă��܂����B�Ƃ����킯�Ŏ����y���݂ɂ��Ă���܂��B</font>
+<font size=3 color=#606060>　なかなか楽しかったです。それぞれのキャラにそれぞれの見せ場、設定も文章も気合入ってますね。登場人物も多いのですけれどきっちり書き分けして、場面も転換しても分かりやすく読めました。会話もなかなか生き生きとして、冬雪くんも30号トリオもトーマもいい感じで話していますし。というわけで次も楽しみにしております。</font>
 <p><a href="http://novels.aetherworks.info/kirika/&#95;bbs&#95;/" target="_top">http://novels.aetherworks.info/kirika/&#95;bbs&#95;/</a>
 </td></table>
 </td></tr></table>
@@ -251,74 +251,74 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[76]</font> <font size=4 color=#40c0c0> �w�A�i���O������@�d�]��`���r�������������i�O�ҁj�x������ɂ͂������N���b�N�B</font>
+<font size=2>[76]</font> <font size=4 color=#40c0c0> 『アナログ所さん　電脳大冒険Ｓｐｅｃｉａｌ（前編）』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/04 (��) 21:46:08 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608045214608&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608045214608"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/04 (金) 21:46:08 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608045214608_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200608045214608"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�o�[�`�����I�����C���Q�[���̃e�X�g�v���C�ɒ��ށA�C���f�B�[����Ɩ����Ȓ��Ԃ����i�΁j�B�c�c���H�@�N�������������Ȃ��́H&lt;br&gt;<a href=http://ts.novels.jp/novel/200512/06000905/anatoko_c01.htm target=_top>http://ts.novels.jp/novel/200512/06000905/anatoko_c01.htm</a></font>
+<font size=3 color=#606060>【推薦文】バーチャルオンラインゲームのテストプレイに挑む、インディーくんと愉快な仲間たち（笑）。……え？　君たちが主役じゃないの？&lt;br&gt;<a href="../../novel/200512/06000905/anatoko_c01.htm" target=_top>http://ts.novels.jp/novel/200512/06000905/anatoko_c01.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[75]</font> <font size=4 color=#40c0c0> �������I</font>
+<font size=2>[75]</font> <font size=4 color=#40c0c0> うぉあ！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/28 (��) 22:23:15 <strong>��</strong> <a href="mailto:http://k_saiyuuki@yahoo.co.jp">�|�{�����O</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607285222315&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607285222315"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/28 (金) 22:23:15 <strong>▽</strong> <a href="mailto:http://k_saiyuuki@yahoo.co.jp">鋼＋員数外</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607285222315_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200607285222315"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�p�Y����A���肪�Ƃ��������܂��I<br>
-�@�����O�̃o���b�g�ł��B�����ƖZ�����A�����ȕ��ʂ����������������̂ŁA���A���l�Ԃ��������݂��܂��B<br>
-�|�F���������B�����͒�����ӂ܂ŐQ�Ă΂��c�c<br>
-�o�F���������d�ς��I<br>
+<font size=3 color=#606060>　英雄さん、ありがとうございます！<br>
+　員数外のバレットです。ずっと忙しく、いろんな方面がご無沙汰だったので、リアル人間が書き込みします。<br>
+鋼：そうそう。こいつは朝から晩まで寝てばか……<br>
+バ：うそこけ妖狐が！<br>
 <br>
-�@�܂������ŉ����N�����Ă��邩�͂����Ƃ��āA<br>
+　まあ現実で何が起こっているかはいいとして、<br>
 <br>
-<font color="#ff88cc">�������Ƃ�</font><br>
-�@����͖l�̏��߂Ă̍�i�ŁA�v������̋�����i�ł�����܂��B���̂����������āA�l�̑㗝�l�Ƃ��č|��������A���ɂ͖l�̊��z�f����������n�߂Ă��܂��B���������A���낻��l�ɕԂ��Ă���Ȃ����ȁB<br>
-�@�Ƃ���ŁA���������^��͕����Ȃ������ł����H<br>
-�u�Q�S�΂́A�w���łЂ��ʂ̐N���A�ǂ�����ăg�����X����́H�v<br>
-�@���X�̌��J�ł����A�g�����X����O�Ƃ��Ƃ̃M���b�v�𐶂ݏo������������ł��B����́A������ƃC���f�B�[����̕ϐg�����������ł��B���₨�����񂪔������ɁI�@���ꂼ���E�`�I<br>
-�@����ƁA�l�͐�p�I�ȃL��������邱�Ƃ��D���ł��B�l�̍�i�ɂ͂���ȃL�����N�^�[�΂���ł��B�ł��A����������������ʔ����Ȃ��̂ŁA����ς�ǂ����Ŕ�͂ɂȂ��Ă��܂��V�[����`������������ł��B���ꂪ�A�|���߂��ꂽ���q�Ƃ������邽�߂Ɉ�l�킢�A�Ō�Ƀ{���{���ɂȂ��ċA���Ă��āA���q�ɋ������A����ȃV�[���ł��B�l�̋����Ǝコ��`�����������A���ꂪ�����ƁA���̑����̌���ł��B<br>
-�@�c�c�܂�����ȃG���\�[�Ȃ��ƌ����Ƃ��āA�l�����̐l�Ƃ͔�r�ɂȂ�Ȃ��قǓ��Ȑl�ԂȂ�ł����ǁB<br>
+<font color="#ff88cc">＞落雷とか</font><br>
+　これは僕の初めての作品で、思い入れの強い作品でもあります。そのせいもあって、僕の代理人として鋼が具現化し、ついには僕の感想掲示板を牛耳り始めています。おいおい、そろそろ僕に返してくれないかな。<br>
+　ところで、こういう疑問は抱かなかったですか？<br>
+「２４歳の、背高でひげ面の青年が、どうやってトランスすんの？」<br>
+　今更の公開ですが、トランスする前とあとのギャップを生み出したかったんです。それは、所さんとインディーくんの変身も同じ原理です。犬やおっさんが美少女に！　これぞ武勇伝！<br>
+　それと、僕は戦術的なキャラを練ることが好きです。僕の作品にはそんなキャラクターばかりです。でも、ただ強いだけじゃ面白くないので、やっぱりどこかで非力になってしまうシーンを描きたかったんです。それが、鋼が捕らわれた尚子とを助けるために一人戦い、最後にボロボロになって帰ってきて、尚子に泣きつく、そんなシーンです。人の強さと弱さを描きたかった、それが落雷と、その続きの激戦です。<br>
+　……まあそんなエラソーなこと言っといて、僕も他の人とは比較にならないほど軟弱な人間なんですけど。<br>
 <br>
-<font color="#ff88cc">�����̂ق��̍�i</font><br>
-�@�r�������Ə�������A��낵���ł��I<br>
+<font color="#ff88cc">＞そのほかの作品</font><br>
+　Ｓｅｅｄと所さんも、よろしくです！<br>
 <br>
-�|�F�p�Y����̐V��́A�ɂ��Ȃ��ēǂݐi�߂邱�Ƃ��ł��܂��񂪁A�ɂ����ēǂ�Ŋ��z���������Ǝv���܂��B���R���̂Ƃ��́A�o���b�g�̃h�A�z�Ȃ񂩒u���āB<br>
-�o�F����ƁA�������ŃR�}�[�V�����I�@���ɁA�A�i���O������d�]��`�����������܂����I�@�ڂ�����A���񂻂����낵���ł��B<br>
+鋼：英雄さんの新作は、暇がなくて読み進めることができませんが、暇を見て読んで感想書きたいと思います。当然そのときは、バレットのドアホなんか置いて。<br>
+バ：それと、今ここでコマーシャル！　ついに、アナログ所さん電脳大冒険が完成しました！　載ったら、是非それもよろしくです。<br>
 <br>
-�@����Ă����I</font>
+　そりてぃあ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[74]</font> <font size=4 color=#40c0c0> �������c</font>
+<font size=2>[74]</font> <font size=4 color=#40c0c0> おおお…</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/27 (��) 01:21:25 <strong>��</strong> �p�Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607274012125&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607274012125"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/27 (木) 01:21:25 <strong>▽</strong> 英雄 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607274012125_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200607274012125"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�w����x��ǂݎn�߂āA�����ɂW�U�c�c�H�����A�n�`���N�ł����B<br>
-�킽��������Ă��܂���A���r���ł����c�c�������Q�h�A�ŁA���݂ł͈�ԃ}�C�i�[��<br>
-�J�^�`�ɂȂ��Ă��܂��Ă��܂��i�z���g�͂��[�؃{�f�B�Ƀ��r���������Ȃ񂾂��ǂȂ��c�c�j�B<br>
+<font size=3 color=#606060>『激戦』を読み始めて、すぐに８６……？おお、ハチロクですか。<br>
+わたしも乗っていますよ、レビンですが……しかも２ドアで、現在では一番マイナーな<br>
+カタチになってしまっています（ホントはくーぺボディにレビンが正統なんだけどなぁ……）。<br>
 <br>
-�b������܂����B<br>
-�w�����x�w����x�Ƃ��Ƀe���|�̂������͂ł��ˁA�܂��i���V�[�����r�V�o�V�Əo�Ă��đu���ł��ˁB<br>
-����ɂ��Ă����̎q�ɏe����āA�Ȃ�ł��Ƃ��Ă��G�����ł��ˁ`<br>
-�Ȃ�łł��傤�H������������Ƒ傫�߂̃��m�������ł��ˁB<br>
-�ƂȂ�Ƃ�͂�E�B���`�F�X�^�[�̓x�X�g�ɂȂ��ł��傤���B<br>
-�L�c�l���ƃV�b�|�̂ӂ��ӂ��ƁA�e���\���鏭���Ƃ̃R���g���X�g���ڂɕ����т܂��B<br>
+話がそれました。<br>
+『落雷』『激戦』ともにテンポのいい文章ですね、また格闘シーンがビシバシと出てきて爽快ですね。<br>
+それにしても女の子に銃器って、なんでかとっても萌えるんですね〜<br>
+なんででしょう？しかもちょっと大きめのモノがいいですね。<br>
+となるとやはりウィンチェスターはベストになるんでしょうか。<br>
+キツネ耳とシッポのふさふさと、銃を構える少女とのコントラストが目に浮かびます。<br>
 <br>
-�܂��A�w����x�͂������Ƒ����Ɛ��B�΂�����A��������A�킢����Ŋy���܂��Ă��������܂����B�����������܂ł����B<br>
+また、『激戦』はすごい家族だと絶句。笑いあり、恋愛あり、戦いありで楽しませていただきました。ごちそうさまでした。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -326,96 +326,96 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[73]</font> <font size=4 color=#40c0c0> �o���e�c����A���肪�Ƃ��������܂��B</font>
+<font size=2>[73]</font> <font size=4 color=#40c0c0> バンテツさん、ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/20 (��) 12:53:11 <strong>��</strong> <a href="mailto:http://k_saiyuuki@yahoo.co.jp">�|�{�����O</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607204125311&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607204125311"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/20 (木) 12:53:11 <strong>▽</strong> <a href="mailto:http://k_saiyuuki@yahoo.co.jp">鋼＋員数外</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607204125311_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200607204125311"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�v���Ԃ�̌f���X�V�ŕ�����Ă�������O�̃o���b�g�ł��B<br>
-�|�F�S���C�ɓ����Ă��������āA���肪�Ƃ��������܂��I<br>
-�@�����A�����ŉ��������̃l�^�o���Ƃ������\����������Ⴂ�܂��B�I���ƃA�i���O�t�@�~���[�ƈꕔ�̐l�ŁA�w�A�i���E���̂Ƃ���ŏI��@���C���h�V���b�g�x�ŁA�T�o�C�o���Q�[����������ł��B<br>
-�@�T�o�Q�[�̕���́A�A�����J�̐����S�[�X�g�^�E���B�E�F�X�^���̕��͋C�΂�����̏e����ł��B����Ȃ��񑼂̍�i�ł�������I�@�Ƃ����c�b�R�~�͂Ȃ��ł��肢���܂��ˁA�e�e�����M���O����ь������b�ł��̂ŁB<br>
-�@�������A���͏e����͓��ӂ����ǁA�M���O�͔�΂��Ȃ����珏�킩�畉���邩������Ȃ��I�@��҃o���b�g�A�������藊�ނ��I<br>
-�{�o�F����A�l�Ɍ����Ă��A�D���҂͂��łɌ��܂��Ă���񂾁A���߂�B<br>
-���o�F�����I�@�D���҂͂��̂������A�o���b�^�����łI<br>
-�{�o�F������A���݂͍ŏ�������ł����̂�B�D���҂́A��芸�������͔閧�ŁB<br>
-�|�F�c�c��芸�����A�����͓o�ꂷ��܂ő҂�����ˁ[�݂Ă����ȁB�Ƃ����킯�ŁA���ƂP�O�O�N�͂��҂����������B<br>
+<font size=3 color=#606060>　久しぶりの掲示板更新で浮かれている員数外のバレットです。<br>
+鋼：全部気に入ってくださって、ありがとうございます！<br>
+　あっ、ここで遠い未来のネタバレというか予告をやっちゃいます。オレとアナログファミリーと一部の人で、『アナ所・今のところ最終回　ワイルドショット』で、サバイバルゲームをやるつもりです。<br>
+　サバゲーの舞台は、アメリカの西部ゴーストタウン。ウェスタンの雰囲気ばっちりの銃撃戦です。そんなもん他の作品でいいだろ！　というツッコミはなしでお願いしますね、銃弾よりもギャグが飛び交うお話ですので。<br>
+　ううっ、俺は銃撃戦は得意だけど、ギャグは飛ばせないから緒戦から負けるかもしれない！　作者バレット、しっかり頼むぜ！<br>
+本バ：いや、僕に言われても、優勝者はすでに決まっているんだ、ごめん。<br>
+女バ：そう！　優勝者はこのあたし、バレッタちゃんでつ！<br>
+本バ：ううん、きみは最初っから打たれんのよ。優勝者は、取り敢えず今は秘密で。<br>
+鋼：……取り敢えず、ここは登場するまで待つっきゃねーみてぇだな。というわけで、あと１００年はお待ちください。<br>
 <br>
-�@��芸�����A<br>
-�@�՘b�x��<br>
+　取り敢えず、<br>
+　閑話休題<br>
 <br>
-�@�����ł��ˁA��������l�̐��������E�������āA�N�����l�����L�����N�^�[���{���ɂǂ����ɂ���A�����l������ƂĂ��f�G�ł���ˁB<br>
+　そうですね、夢を見る人の数だけ世界があって、誰かが考えたキャラクターが本当にどこかにいる、そう考えたらとても素敵ですよね。<br>
 <br>
-<font color="#ff88cc">���ނ̂����t</font><br>
-�@�\�\�\�b�I�H�iWILDARMS���j<br>
-�@���o���e�c����̃p�N��<br>
-�@���R�Ȃ�ł����A�R�m����I�H�@����A�ł������������_�ł��Ȃ��̂ŁA���R�����Ⴀ���R���Ă��Ƃɂ��Ƃ��܂��B<br>
-�@���ʘb����Ȃ��ł���B<br>
+<font color="#ff88cc">＞彼のお言葉</font><br>
+　———ッ！？（WILDARMS風）<br>
+　↑バンテツさんのパクリ<br>
+　当然なんですか、騎士さん！？　いや、でもこっちも反論できないので、当然っちゃあ当然ってことにしときます。<br>
+　無駄話じゃないですよ。<br>
 <br>
-<font color="#ff88cc">���Ƃ����</font><br>
-�@���܂��R�[�i�[�ł����A�������ł����ł��傤���H<br>
-�@���̃L�������A����Ȃ��ƂɂȂ��Ă�I�@�O�Ղ��e�������Ă��Ȃ��I�@�ؑタ���ɃJ�E���Z�����O���󂯂�����ꂻ���Ȋ������Ȃ�ĉ����Ȃ��I<br>
-�@���ꂩ�����������܂�����A��낵�����肢���܂��B<br>
+<font color="#ff88cc">＞ところで</font><br>
+　おまけコーナーですが、いかがでしたでしょうか？<br>
+　あのキャラが、あんなことになってる！　軌跡が銃を握っていない！　華代ちゃんにカウンセリングを受けさせられそうな巻末問題なんて解けない！<br>
+　これからも何かありましたら、よろしくお願いします。<br>
 <br>
-�@����ł́I<br>
-�|�F�Ă߁[�����O�̃N�Z�ɒn�̕��w����Ă񂶂�ˁ[�I<br>
-�C�F�����A���߂�Ȃ����B��w�Z�����Ă������育�������ł����ˁB<br>
-�f���F�����A���̃A�C�h������莆�����Ă���̂ɂ�B�ȂɂȂɁH�@����I���l���T�o�Q�[�ɏ��҂��Ă���H�@�����̂��ɂ�A��҂���H<br>
-�{�o�F�����A�������B�ނ��]�ނȂ�ȁB���f�B�Ƃ��W�[�N�Ƃ��W���[�h�Ƃ������҂��������ǁA�������ɂȁB�܂��o��҂��肽�����ǁc�c<br>
-���o�F�d�]��`���ő����������Ă���̂�˂�H<br>
-�{�o�F����񂱂ƌ����ȁI<br>
+　それでは！<br>
+鋼：てめー員数外のクセに地の文陣取ってんじゃねー！<br>
+イ：あっ、ごめんなさい。大学忙しくてすっかりご無沙汰でしたね。<br>
+デン：あっ、旅のアイドルから手紙が来ているのにゃ。なになに？　是非オレ様もサバゲーに招待してくれ？　いいのかにゃ、作者さん？<br>
+本バ：ああ、いいぜ。彼が望むならな。ロディとかジークとかジュードとかも招待したいけど、さすがにな。また出場者を募りたいけど……<br>
+女バ：電脳大冒険で相当あせっているのよねん？<br>
+本バ：いらんこと言うな！<br>
 <br>
-�@����ǂ�������ł͂��I</font>
+　こんどこそそれではっ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[72]</font> <font size=4 color=#40c0c0> ���z�{��</font>
+<font size=2>[72]</font> <font size=4 color=#40c0c0> 感想＋α</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/20 (��) 10:38:22 <strong>��</strong> �o���e�c </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607204103822&log=baretto">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607204103822"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/20 (木) 10:38:22 <strong>▽</strong> バンテツ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607204103822_log_baretto.cgi">返信</a>　削除<input type=checkbox name="target" value="200607204103822"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�푈�����ǂ݂܂����E�E�E<br>
+<font size=3 color=#606060>戦争茶会を読みました・・・<br>
 <br>
-���͋C�H�m���H�E�E�E�L�����H<br>
-���[�A����ς�ǂ����ʔ����A�Ƃ������Ȃ��ł��B<br>
+雰囲気？ノリ？・・・キャラ？<br>
+うー、やっぱりどこが面白い、とかいえないです。<br>
 <br>
-�@�S�@���@�Ł@���@�ˁ@�B<br>
-<br>
-<br>
-�Ƃ����<br>
-<br>
-<font color="#cc88ff">&gt;�����Ɣ񌻎��̋��ځ`�E�E�E</font><br>
-���s�F���_�A�Ƃ������̂�����܂��B<br>
-�l���l��������Ȃǂ��琶�܂ꂽ�w�\���x�A���̐��������E������Ƃ������������ł��B<br>
-�܂�A���̐��ł͂Ȃ��ǂ����ɁA<br>
-�|������C���f�B�[�N���A�����̈둾�Y�������ł���ˁB<br>
-<br>
-��X��Ґw�́A����̉��g��������̐��E�֑��荞�ގ����o���܂����A<br>
-�o��l�����͖{���ɐ��E�̋T��ł������Ȃ��Ɨ��ꂻ���ɂȂ��ł��˂��c�c�c<br>
+　全　部　で　す　ね　。<br>
 <br>
 <br>
-<font color="#cc88ff">&gt;����͂���܂肾��</font><br>
-���̌���Ȃ�ԈႢ�Ȃ��A�����炢�����c�c<br>
+ところで<br>
 <br>
-�u�t���A���R���v<br>
+<font color="#cc88ff">&gt;現実と非現実の境目〜・・・</font><br>
+平行宇宙論、というものがあります。<br>
+人が考えた物語などから生まれた『可能性』、その数だけ世界があるという事だそうです。<br>
+つまり、この世ではないどこかに、<br>
+鋼さんもインディー君も、うちの壱太郎もいるんですよね。<br>
 <br>
-�\�\�\�b�I�H�iWILDARMS���j<br>
+我々作者陣は、自らの化身をそちらの世界へ送り込む事が出来ますが、<br>
+登場人物側は本当に世界の亀裂でも見つけないと来れそうにないですねぇ………<br>
 <br>
-�ށA���ʘb���߂����悤�ŁB<br>
-����ł́`�c</font>
+<br>
+<font color="#cc88ff">&gt;それはあんまりだぞ</font><br>
+あの御方なら間違いなくアレぐらい言う……<br>
+<br>
+「フン、当然だ」<br>
+<br>
+———ッ！？（WILDARMS風）<br>
+<br>
+む、無駄話が過ぎたようで。<br>
+それでは〜…</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="baretto">
@@ -423,16 +423,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="baretto">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=baretto">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_baretto.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

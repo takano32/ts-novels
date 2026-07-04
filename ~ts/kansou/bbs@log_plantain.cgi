@@ -202,7 +202,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】変わってしまう、変わってしまう。それまでの自分はなくなってしまい……泣いて、泣いて、泣いて……泣きつかれて、そして。<br>
 　それはさておき、お父さんお母さん、達観しています。そのわけは……<br>
-<a href=http://ts.novels.jp/novel/200310/31212238/isoro5.html target=_top>http://ts.novels.jp/novel/200310/31212238/isoro5.html</a></font>
+<a href="../../novel/200310/31212238/isoro5.html" target=_top>http://ts.novels.jp/novel/200310/31212238/isoro5.html</a></font>
 </td></table>
 </td></tr></table>
 

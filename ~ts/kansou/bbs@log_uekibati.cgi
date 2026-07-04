@@ -83,7 +83,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】姉とのやりとりで心の整理がついたのか、薫の晴れ晴れとした顔が目に浮かんできそうです。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200511/29174324/ane_3.html target=_top>http://ts.novels.jp/novel/200511/29174324/ane_3.html</a></font>
+<a href="../../novel/200511/29174324/ane_3.html" target=_top>http://ts.novels.jp/novel/200511/29174324/ane_3.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -175,7 +175,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】それにしても、いきなり思い切ったことをしたものです。バレなきゃいいけど……。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200511/29174324/ane_2.html target=_top>http://ts.novels.jp/novel/200511/29174324/ane_2.html</a></font>
+<a href="../../novel/200511/29174324/ane_2.html" target=_top>http://ts.novels.jp/novel/200511/29174324/ane_2.html</a></font>
 </td></table>
 </td></tr></table>
 

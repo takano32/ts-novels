@@ -107,7 +107,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 本当に素晴らしい『日常』なのか……と思ってしまう担当さんでした。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200307/19141320/beautiful_day2.html target=_top>http://ts.novels.jp/novel/200307/19141320/beautiful_day2.html</a></font>
+<a href="../../novel/200307/19141320/beautiful_day2.html" target=_top>http://ts.novels.jp/novel/200307/19141320/beautiful_day2.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -178,7 +178,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 ＴＶ放送が終了し、早６年。だが、未だに根強い人気を誇る『新世紀エヴァンゲリオン』。その中でのおはなし。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200307/19141320/beautiful_day.html target=_top>http://ts.novels.jp/novel/200307/19141320/beautiful_day.html</a></font>
+<a href="../../novel/200307/19141320/beautiful_day.html" target=_top>http://ts.novels.jp/novel/200307/19141320/beautiful_day.html</a></font>
 </td></table>
 </td></tr></table>
 

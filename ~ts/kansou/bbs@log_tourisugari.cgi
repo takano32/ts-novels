@@ -145,7 +145,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】魔法少女がパステルピンクだって誰が決めた？　闇に紛れて仇なす「鬼」を仕置きする黒の魔女、ワンダー・ミカ……その正体は！？（笑）<br>
-<a href=http://ts.novels.jp//novel/200403/08210444/w_mika.htm target=_top>http://ts.novels.jp//novel/200403/08210444/w_mika.htm</a></font>
+<a href="../../novel/200403/08210444/w_mika.htm" target=_top>http://ts.novels.jp//novel/200403/08210444/w_mika.htm</a></font>
 </td></table>
 </td></tr></table>
 

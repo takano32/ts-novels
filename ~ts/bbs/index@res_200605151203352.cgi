@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi" name="F1">
@@ -15,27 +15,27 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="AUID6PcrEe">
 <input type=hidden name="res" value="931">
-<h4 align=center>�� �L���ԍ� 931 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 931 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:������ƌ��������悤�Ȃ̂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�č�����
-&gt; �� �ʂ肷���肳��
-&gt; �@�����ŕĒÂ��񂪎w�E���ꂽ�̂́A
-&gt; �w������̏������݁i���k�j���ŊY����URL������̂́A���̐l�������{�ʂŔ`���Ĉ������������Ⴄ�\���������Ċ�Ȃ���x
-&gt; �Ƃ������Ƃ��Ǝv���܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ちょっと誤解があるようなので"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 某監査さん
+&gt; ▼ 通りすがりさん
+&gt; 　ここで米津さんが指摘されたのは、
+&gt; 『盛さんの書き込み（相談）内で該当のURLがあるのは、他の人が興味本位で覗いて引っかかっちゃう可能性があって危ないよ』
+&gt; ということだと思います。
 &gt; 
-&gt; �@�L�[������̂Ȃ�A�Y����URL���������ďC�����Ă܂��΁A���ɂ��񂨂����[�B</textarea><br>
+&gt; 　キーがあるのなら、該当のURLだけ消して修正してまえば、えにしんおっけー。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h FV3w45  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="FV3w45"> <input type=hidden name="hrcode2" size=10 value="&#12354;"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード FV3w45  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="FV3w45"> <input type=hidden name="hrcode2" size=10 value="&#12354;"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �L�����e�̍ۂ́A���p�p��6�����̓��̓R�[�h���E���̃{�b�N�X�ɂ��̂܂ܓ��͂��ĉ�����.<br>�� ���̓R�[�h�͊��ɂ���Ă͎����I�ɓ��͂���Ă��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 記事投稿の際は、半角英数6文字の入力コードを右側のボックスにそのまま入力して下さい.<br>※ 入力コードは環境によっては自動的に入力されています.</font>
 </td></table><br>
 </div><Script language=JavaScript>
 <!--
@@ -45,7 +45,7 @@ link<input type=checkbox name="link" value="1" checked>
 <p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -58,32 +58,32 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2476]</font> <font size=4 color=#50d0d0> 1000���q�b�g�̊��Ƃ́H</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2476]</font> <font size=4 color=#50d0d0> 1000万ヒットの企画とは？</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/07/29 (��) 16:00:11  NATO </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200707290160011">�ԐM</a>�@�폜<input type=checkbox name="target" value="200707290160011"></font>
+<font size="-1" color="#606060"> 2007/07/29 (日) 16:00:11  NATO </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200707290160011.cgi">返信</a>　削除<input type=checkbox name="target" value="200707290160011"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�J�E���^������900����˔j���܂����B<br>
-1000���q�b�g�����Ƃ��ɂ͉�������̂ł��傤���B<br>
-100����500���ɂ��L�O�̍�i������܂������A����Ȋ����Ȃ��̂ɂȂ�̂ł��傤���H<br>
-�y���݂ł��B</font>
+<font size=4 color=#000000>カウンタもついに900万を突破しました。<br>
+1000万ヒットしたときには何があるのでしょうか。<br>
+100万と500万にも記念の作品がありましたが、そんな感じなものになるのでしょうか？<br>
+楽しみです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2475]</font> <font size=4 color=#50d0d0> �����A�X�O�O���q�b�g�I�I</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2475]</font> <font size=4 color=#50d0d0> うお、９００万ヒット！！</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/07/29 (��) 10:19:25  ���ނ��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200707290101925">�ԐM</a>�@�폜<input type=checkbox name="target" value="200707290101925"></font>
+<font size="-1" color="#606060"> 2007/07/29 (日) 10:19:25  あむぁい </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200707290101925.cgi">返信</a>　削除<input type=checkbox name="target" value="200707290101925"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>����Ƃ������W�Ƃ�������F�O�������܂��B<br>
-���ꂩ�����낵�����肢���܂��B</font>
+<font size=4 color=#000000>今後ともご発展とご活躍を祈念いたします。<br>
+これからもよろしくお願いします。</font>
 <p><div align=left><a href="http://okashi.blog6.fc2.com/" target="_top">http://okashi.blog6.fc2.com/</a></div>
 </td></table>
 </td></tr></table>
@@ -91,16 +91,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2474]</font> <font size=4 color=#50d0d0> Re:�ӂƋC���t����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2474]</font> <font size=4 color=#50d0d0> Re:ふと気が付けば</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/07/29 (��) 09:22:07  �������΂� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200707290092207">�ԐM</a>�@�폜<input type=checkbox name="target" value="200707290092207"></font>
+<font size="-1" color="#606060"> 2007/07/29 (日) 09:22:07  おもちばこ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200707290092207.cgi">返信</a>　削除<input type=checkbox name="target" value="200707290092207"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�X�O�O���q�b�g�B���I�I�@���݂��������ȁE�E�E����B<br>
-���݂ɖl��900��49�l�ځA�S�R�ɂ����Ȃ����ǁB<br>
-���낻��P�O�O�O���q�b�g���ɂ��čl���Ȃ���΁B<br>
+<font size=4 color=#000000>９００万ヒット達成！！　踏みたかったな・・・うん。<br>
+因みに僕は900万49人目、全然惜しくないけど。<br>
+そろそろ１０００万ヒット企画について考えなければ。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -108,107 +108,107 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2473]</font> <font size=4 color=#50d0d0> �ӂƋC���t����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2473]</font> <font size=4 color=#50d0d0> ふと気が付けば</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/07/28 (�y) 03:28:45  ��傤���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200707286032845">�ԐM</a>�@�폜<input type=checkbox name="target" value="200707286032845"></font>
+<font size="-1" color="#606060"> 2007/07/28 (土) 03:28:45  りょう＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200707286032845.cgi">返信</a>　削除<input type=checkbox name="target" value="200707286032845"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�g�b�v�y�[�W�̃J�E���^��900���ڑO�ł��B<br>
-�������^�c�ψ������n�߂����ɁA���傤��100��Hit�L�O��i(���������I)���f�ڂ���n�߂��̂��o���Ă��܂��B<br>
-�c�c�Ƃ������Ƃ́A����6�N�ȏ���^�c�ψ�������Ă�̂ł���(��<br>
-�����o�̂͑����Ƃ������A�Ȃ�Ƃ������B<br>
+<font size=4 color=#000000>トップページのカウンタが900万目前です。<br>
+自分が運営委員をやり始めた頃に、ちょうど100万Hit記念作品(懐かしい！)が掲載され始めたのを覚えています。<br>
+……ということは、もう6年以上も運営委員をやってるのですね(汗<br>
+時が経つのは早いというか、なんというか。<br>
 <br>
-���̌f����[923]�ɂ���A�ĒÂ����1000��Hit�̎����ɂ��Ă̗\���A�����Z���s���Ă����ł��˂��B<br>
-���N��11��4���ł��傤��10���N�������ł����A���S������ł��B</font>
+この掲示板の[923]にある、米津さんの1000万Hitの時期についての予言、いいセン行ってそうですねぇ。<br>
+今年の11月4日でちょうど10周年だそうですが、感心しきりです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2471]</font> <font size=4 color=#50d0d0> �I��T�������</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2471]</font> <font size=4 color=#50d0d0> 蟹場サムさんへ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/07/14 (�y) 13:51:38  <a href="mailto:admin@ts.novels.jp">�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200707146135138">�ԐM</a>�@�폜<input type=checkbox name="target" value="200707146135138"></font>
+<font size="-1" color="#606060"> 2007/07/14 (土) 13:51:38  <a href="mailto:admin@ts.novels.jp">運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200707146135138.cgi">返信</a>　削除<input type=checkbox name="target" value="200707146135138"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@���Ԏ����x���Ȃ��āA��ϐ\���󂠂�܂���ł����B<br>
-�@���x�����[���𑗂����̂ł����A���̂��тɒe����Ă��܂��܂��B���萔�ł����A����x�^�c�ψ��̕��ւ��A�����Ă��������Ȃ��ł��傤���H<br>
-�@��낵�����肢���܂��B</font>
+<font size=4 color=#000000>　お返事が遅くなって、大変申し訳ありませんでした。<br>
+　何度もメールを送ったのですが、そのたびに弾かれてしまいます。お手数ですが、今一度運営委員の方へご連絡していただけないでしょうか？<br>
+　よろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2470]</font> <font size=4 color=#50d0d0> ����J�l�ł�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2470]</font> <font size=4 color=#50d0d0> ご苦労様です</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/06/27 (��) 03:06:30  �Ր� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200706273030630">�ԐM</a>�@�폜<input type=checkbox name="target" value="200706273030630"></font>
+<font size="-1" color="#606060"> 2007/06/27 (水) 03:06:30  虎瀬 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200706273030630.cgi">返信</a>　削除<input type=checkbox name="target" value="200706273030630"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�o�C�g����A���ăw���w���̐g�̂Ńp�\�R�����J������A����B<br>
-����͊��������݂ł��ˁB<br>
-�����͋C�͓I�ɖ����Ȃ̂ŁA���Ԃ�����Ƃ��ɂ������ӏ܂����Ē����܂��c�c�B</font>
+<font size=4 color=#000000>バイトから帰ってヘロヘロの身体でパソコンを開いたら、おや。<br>
+これは嬉しい試みですね。<br>
+今日は気力的に無理なので、時間があるときにゆっくり鑑賞させて頂きます……。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2469]</font> <font size=4 color=#50d0d0> �����V���[�Y��i�ꗗ</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2469]</font> <font size=4 color=#50d0d0> 完結シリーズ作品一覧</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/06/27 (��) 02:26:21  ��傤���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200706273022621">�ԐM</a>�@�폜<input type=checkbox name="target" value="200706273022621"></font>
+<font size="-1" color="#606060"> 2007/06/27 (水) 02:26:21  りょう＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200706273022621.cgi">返信</a>　削除<input type=checkbox name="target" value="200706273022621"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�悤�₭�A�����V���[�Y��i�̈ꗗ���������܂����̂ŁA���Ј�x�����������B<br>
-<a href=http://ts.novels.jp/series.html target=_top>http://ts.novels.jp/series.html</a><br>
+<font size=4 color=#000000>ようやく、完結シリーズ作品の一覧が完成しましたので、ぜひ一度ご覧下さい。<br>
+<a href="../../series.html" target=_top>http://ts.novels.jp/series.html</a><br>
 <br>
-�ꗗ���쐬���Ă���Ƃ��A�������Ă��i���Ă���Ȃɂ������̂��I�Ƌ����܂����B<br>
-�܂��A���N�Ԃ�ɓǂݒ�������i�����X����A�ꗗ����ėǂ������Ȃ��Ǝv���܂����B<br>
+一覧を作成しているとき、完結してる作品ってこんなにあったのか！と驚きました。<br>
+また、数年ぶりに読み直した作品も多々あり、一覧作って良かったなぁと思いました。<br>
 <br>
-�쐬�̂�������������Ă����������}������ƁA������i���s�b�N�A�b�v���Ă����������������΂�����Ɋ��ӂ��܂��B</font>
+作成のきっかけを作ってくださったマルさんと、完結作品をピックアップしてくださったおもちばこさんに感謝します。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2463]</font> <font size=4 color=#50d0d0> ���̓R�[�h�ɂ���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2463]</font> <font size=4 color=#50d0d0> 入力コードについて</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/05/09 (��) 06:27:31  �T�C�g�Ǘ��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200705093062731">�ԐM</a>�@�폜<input type=checkbox name="target" value="200705093062731"></font>
+<font size="-1" color="#606060"> 2007/05/09 (水) 06:27:31  サイト管理者 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200705093062731.cgi">返信</a>　削除<input type=checkbox name="target" value="200705093062731"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���s�ւ����������Ă������̓R�[�h�ł����A�ꕔ���̕��i�ł������命���j�̕��́A�����I�ɓ��͂����悤�ɂ��܂����B�ꕔ���̕��͉������Ȃ��Ă��A�������߂�悤�ɂȂ�܂����̂ŁA�F�l�������݂̂قǁA��낵�����肢�������܂��B</font>
+<font size=4 color=#000000>ご不便をおかけしていた入力コードですが、一部環境の方（でも多分大多数）の方は、自動的に入力されるようにしました。一部環境の方は何もしなくても、書き込めるようになりましたので、皆様書き込みのほど、よろしくお願いいたします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2455]</font> <font size=4 color=#50d0d0> �Ƃ肠�����ڍs����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2455]</font> <font size=4 color=#50d0d0> とりあえず移行完了</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/05/06 (��) 13:41:58  �T�C�g�Ǘ��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200705060134158">�ԐM</a>�@�폜<input type=checkbox name="target" value="200705060134158"></font>
+<font size="-1" color="#606060"> 2007/05/06 (日) 13:41:58  サイト管理者 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200705060134158.cgi">返信</a>　削除<input type=checkbox name="target" value="200705060134158"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�قڂ��ׂẴf�[�^���ڂ��I���܂����B<br>
-GW���Ȃ̂ɃT�C�g���ˑR�~�܂��āA���s�ւ�����������������������������������܂��񂪁A�ȂɂԂ񂱂��������������Ԃ����Ȃ����̂Łc<br>
+<font size=4 color=#000000>ほぼすべてのデータを移し終わりました。<br>
+GW中なのにサイトが突然止まって、ご不便をおかけした方もいらっしゃったかもしれませんが、なにぶんこういう時しか時間が取れないもので…<br>
 <br>
-�ߋ��ɉ��x���A���O�������ς��ɂȂ��ăT�C�g���~�܂�Ƃ������Ƃ��������̂ł����A����̓V�X�e����40GB�A/home��40GB�Ƃ����\���ɂȂ��Ă���̂ŁA���������~�܂�Ȃ��Ƃ͎v���܂��Bcgi�����Ɍy���Ȃ����̂ŁA�݂Ȃ��񂲗��p���������B<br>
+過去に何度か、ログがいっぱいになってサイトが止まるということがあったのですが、今回はシステムに40GB、/homeに40GBという構成になっているので、そうそう止まらないとは思います。cgiが非常に軽くなったので、みなさんご利用ください。<br>
 <br>
-���̓R�[�h�́A�R�s�[���y�[�X�g�œ��͂ł��܂��i�Ō�̋󔒂͏���ɖ�������܂��j�̂ŁA�������ރ{�^���������O�ɁA�}�E�X�ŃR�s�[�y�[�X�g���Ă��炦�Ό��\�ł��B<br>
+入力コードは、コピー＆ペーストで入力できます（最後の空白は勝手に無視されます）ので、書き込むボタンを押す前に、マウスでコピーペーストしてもらえば結構です。<br>
 <br>
-����ł͍���Ƃ���낵�����肢���܂��B<br>
+それでは今後ともよろしくお願いします。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -216,23 +216,23 @@ GW���Ȃ̂ɃT�C�g���ˑR�~�܂��āA���s�ւ�����������������������������������܂�
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2453]</font> <font size=4 color=#50d0d0> �ڍs��ƒ�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2453]</font> <font size=4 color=#50d0d0> 移行作業中</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2007/05/01 (��) 15:46:49  �T�C�g�Ǘ��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200705012154649">�ԐM</a>�@�폜<input type=checkbox name="target" value="200705012154649"></font>
+<font size="-1" color="#606060"> 2007/05/01 (火) 15:46:49  サイト管理者 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200705012154649.cgi">返信</a>　削除<input type=checkbox name="target" value="200705012154649"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���C���R���e���c�́A�ڍs���܂����B<br>
-���}�V���͉ғ��������܂܂Ȃ̂ŁA�f�[�^���������Ă���Ȃǂ̖�肪����܂�����A<br>
-���m�点���������B<br>
+<font size=4 color=#000000>メインコンテンツは、移行しました。<br>
+旧マシンは稼動させたままなので、データが消失しているなどの問題がありましたら、<br>
+お知らせください。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -240,16 +240,16 @@ GW���Ȃ̂ɃT�C�g���ˑR�~�܂��āA���s�ւ�����������������������������������܂�
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

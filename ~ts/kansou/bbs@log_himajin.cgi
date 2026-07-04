@@ -52,7 +52,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】メイド服で巨大ロボのコクピットに乗り込む……もうそれだけで無敵です（別の意味で）。<br>
-<a href=http://ts.novels.jp/novel/200608/04214709/meimei02.htm target=_top>http://ts.novels.jp/novel/200608/04214709/meimei02.htm</a><br>
+<a href="../../novel/200608/04214709/meimei02.htm" target=_top>http://ts.novels.jp/novel/200608/04214709/meimei02.htm</a><br>
 　※ 記事投稿の際は、入力コード右側の半角英数字６文字を、その右側のボックスに入力してください。</font>
 </td></table>
 </td></tr></table>
@@ -101,7 +101,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ＴＳでパラレルワールドといえば「あれ」ですが、そこは一捻り加えてあります（笑）。そして【種別】の「メイド」を「ゾ○ド」と読み間違えた担当は……かなり疲れています（爆）。<br>
-<a href=http://ts.novels.jp/novel/200608/04214709/meimei01.htm target=_top>http://ts.novels.jp/novel/200608/04214709/meimei01.htm</a></font>
+<a href="../../novel/200608/04214709/meimei01.htm" target=_top>http://ts.novels.jp/novel/200608/04214709/meimei01.htm</a></font>
 </td></table>
 </td></tr></table>
 

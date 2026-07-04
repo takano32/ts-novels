@@ -104,7 +104,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ところでバッテン師匠といえば…………確か「特警○ィンスペクター」にゲストで出演してたよな……（って、おひ）。<br>
-<a href=http://ts.novels.jp/novel/m-change/m-change02.html target=_top>http://ts.novels.jp/novel/m-change/m-change02.html</a></font>
+<a href="../../novel/m-change/m-change02.html" target=_top>http://ts.novels.jp/novel/m-change/m-change02.html</a></font>
 </td></table>
 </td></tr></table>
 

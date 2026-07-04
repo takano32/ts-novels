@@ -185,7 +185,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】今の自分にできることはなんだろう？　種族と性別を飛び越えてしまった“いんげんさん”は自問します。そして今の彼——彼女には、ある秘密が……<br>
-<a href=http://ts.novels.jp/novel/200507/27202834/ingen02.htm target=_top>http://ts.novels.jp/novel/200507/27202834/ingen02.htm</a></font>
+<a href="../../novel/200507/27202834/ingen02.htm" target=_top>http://ts.novels.jp/novel/200507/27202834/ingen02.htm</a></font>
 </td></table>
 </td></tr></table>
 

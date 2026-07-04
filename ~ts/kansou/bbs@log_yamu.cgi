@@ -167,7 +167,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ＴＳキャラが登場しないことにご不満（笑）がありましたら、本編を読破されることをお薦めします。それと、最後の余話にもちょっとした仕掛けが。<br>
-<a href=http://ts.novels.jp/novel/200112/18123055/shadow_ex3.htm target=_top>http://ts.novels.jp/novel/200112/18123055/shadow_ex3.htm</a></font>
+<a href="../../novel/200112/18123055/shadow_ex3.htm" target=_top>http://ts.novels.jp/novel/200112/18123055/shadow_ex3.htm</a></font>
 </td></table>
 </td></tr></table>
 

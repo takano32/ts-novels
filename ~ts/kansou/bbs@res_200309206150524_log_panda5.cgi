@@ -1,47 +1,47 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�p���_�T�����i�@���z�f����</title>
+<title>パンダ５さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�p���_�T�����i�@���z�f����</font>
+<font size=5>パンダ５さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="panda5">
 <input type=hidden name="nj" value="ZHfq14PrQm">
 <input type=hidden name="res" value="46">
-<h4 align=center>�� �L���ԍ� 46 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 46 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�~�X�����I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �p���_�T����
-&gt; �W���C�A���g���{�n��ŁA���O�̕\�L�͐���
-&gt; ���w�E�ǂ����B
-&gt; HP�ɍڂ���o�[�W�����ł͂����ƒ����Ƃ��܂��B
-&gt; ���A�������������Ȃ炤����HP�ɗ��Ă͂������ł����H
-&gt; �]�͂��ڂ��Ă��邵�A�L�����Љ��A�A�o���^�C�g���̃~�j�h���}������܂��B
-&gt; ����ɁA���������R�`�P�T�ԑ����V���ǂ߂܂���B
-&gt; �����ƁA��`�΂���ł����܂���B�ł��A������HP�A�����l�t�@���΂����TS�t�@�������Ȃ��̂��₵���̂ŁE�E�E�B���������ł������ē��e����HP�ł����ǁB
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ミスった！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ パンダ５さん
+&gt; ジャイアントロボ馬場で、名前の表記は正忠
+&gt; ご指摘どうも。
+&gt; HPに載せるバージョンではちゃんと直しときます。
+&gt; あ、続きが見たいならうちのHPに来てはいかがですか？
+&gt; 転章が載っているし、キャラ紹介や、アバンタイトルのミニドラマもあります。
+&gt; それに、ここよりも３〜１週間早く新作を読めますよ。
+&gt; おっと、宣伝ばかりですいません。でも、うちのHP、ラムネファンばかりでTSファンがいないのが寂しいので・・・。いい加減でださくて内容薄いHPですけど。
 &gt; 
-&gt; ����ɂ��Ă��A�����l�m���Ă�l�A���ɂɂ��ėǂ������E�E�E�B
-&gt; �N���m��Ȃ������H�Ƃ����s�����������̂ŁB</textarea><br>
+&gt; それにしても、ラムネ知ってる人、文庫にいて良かった・・・。
+&gt; 誰も知らないかも？という不安があったので。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -54,15 +54,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[56]</font> <font size=4 color=#40c0c0> ��ނ�2/�P</font>
+<font size=2>[56]</font> <font size=4 color=#40c0c0> らむね2/１</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/04/11 (��) 01:39:44 <strong>��</strong> �p���_�T </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200404110013944&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200404110013944"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/04/11 (日) 01:39:44 <strong>▽</strong> パンダ５ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200404110013944_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200404110013944"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���T�C�g�Ƀ\�[�_�̃e�[�}�ȁi�̎��̂݁j������̂ł�����悯��Ό��ɗ��Ă��������B<br>
-���ƁA�����̃T�C�g�ɒu���Ă����ނ˂Q/�P�����ɂ͂����݂񂳂񂩂��������\�[�_�̃C���X�g���}�G�Ƃ��ē����Ă���̂ŁA������悩������E�E�E�B</font>
+<font size=3 color=#606060>自サイトにソーダのテーマ曲（歌詞のみ）があるのでそれもよければ見に来てください。<br>
+あと、自分のサイトに置いてあるらむね２/１小説にはこあみんさんからもらったソーダのイラストが挿絵として入っているので、それもよかったら・・・。</font>
 <p><a href="http://www6.ocn.ne.jp/~pan2da5/" target="_top">http://www6.ocn.ne.jp/~pan2da5/</a>
 </td></table>
 </td></tr></table>
@@ -70,34 +70,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[55]</font> <font size=4 color=#40c0c0> �w��ނ˂Q/�P�E��Q�b�u�V���Ȃ�G�v�x������ɂ͂������N���b�N�B</font>
+<font size=2>[55]</font> <font size=4 color=#40c0c0> 『らむね２/１・第２話「新たなる敵」』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/04/10 (�y) 17:01:08 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200404106170108&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200404106170108"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/04/10 (土) 17:01:08 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200404106170108_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200404106170108"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z��̋��̗͂Ŕ������ɂȂ��āi�H�j���܂����E�҃����l�X�B�c�c����A���̑����̒��{�l�͂Ƃ����Ɓ\�\<br>
-�w�]�́u��̉e�v�x������ɂ͂������N���b�N�B<br>
-<a href=http://ts.novels.jp/novel/200309/20061705/ramune04.htm target=_top>http://ts.novels.jp/novel/200309/20061705/ramune04.htm</a><br>
-�w��Q�b�u�V���Ȃ�G�E�O�ҁ@���̂������Ȃ�]�Z���v�x������ɂ͂������N���b�N�B<br>
-<a href=http://ts.novels.jp/novel/200309/20061705/ramune05.htm target=_top>http://ts.novels.jp/novel/200309/20061705/ramune05.htm</a><br>
-�w��Q�b�u�V���Ȃ�G�E��ҁ@�Ό��E�Í��̋R�m�I�v�x������ɂ͂������N���b�N�B<br>
-<a href=http://ts.novels.jp/novel/200309/20061705/ramune06.htm target=_top>http://ts.novels.jp/novel/200309/20061705/ramune06.htm</a></font>
+<font size=3 color=#606060>【推薦文】謎の鏡の力で美少女になって（？）しまった勇者ラムネス。……一方、その騒ぎの張本人はというと——<br>
+『転章「謎の影」』を見るにはここをクリック。<br>
+<a href="../../novel/200309/20061705/ramune04.htm" target=_top>http://ts.novels.jp/novel/200309/20061705/ramune04.htm</a><br>
+『第２話「新たなる敵・前編　何故かいきなり転校生」』を見るにはここをクリック。<br>
+<a href="../../novel/200309/20061705/ramune05.htm" target=_top>http://ts.novels.jp/novel/200309/20061705/ramune05.htm</a><br>
+『第２話「新たなる敵・後編　対決・暗黒の騎士！」』を見るにはここをクリック。<br>
+<a href="../../novel/200309/20061705/ramune06.htm" target=_top>http://ts.novels.jp/novel/200309/20061705/ramune06.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[54]</font> <font size=4 color=#40c0c0> ��ނ�2/�P</font>
+<font size=2>[54]</font> <font size=4 color=#40c0c0> らむね2/１</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/31 (��) 20:19:08 <strong>��</strong> �p���_�T </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403313201908&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403313201908"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/31 (水) 20:19:08 <strong>▽</strong> パンダ５ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403313201908_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200403313201908"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�e�[�}�ȁi�̎��̂݁j���ł����̂ł悩�����炤���̃z�[���y�[�W�Ɍ��ɗ��Ă��������B</font>
+<font size=3 color=#606060>テーマ曲（歌詞のみ）ができたのでよかったらうちのホームページに見に来てください。</font>
 <p><a href="http://www6.ocn.ne.jp/~pan2da5/" target="_top">http://www6.ocn.ne.jp/~pan2da5/</a>
 </td></table>
 </td></tr></table>
@@ -105,18 +105,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[53]</font> <font size=4 color=#40c0c0> ���������蒼���΂���ł��߂�Ȃ����B</font>
+<font size=2>[53]</font> <font size=4 color=#40c0c0> いつもいつも手直しばかりでごめんなさい。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/31 (��) 13:00:43 <strong>��</strong> �p���_�T </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403313130043&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403313130043"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/31 (水) 13:00:43 <strong>▽</strong> パンダ５ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403313130043_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200403313130043"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>SM�K�[���Y�A�ŏ��͊��S�ȃM���O�H����ڎw���Ă�����ł����Ǎ���Ă���r���ӂ肩�炱�̐ݒ�𗘗p�����V���A�X�Șb���v�����Ă��܂��܂��āE�E�E�B<br>
-���v�A��������ȏ�C���͂��܂���B<br>
-�ꉞ�ڎw���ׂ��̓Z�C�o�[�ƃ����l�̃L�������i�f�V�R���̃m���ŃG���@�����Ƃ����A�킯�킩�����̂ł��i�΁j�B�w��؂Ȃ��̂Ȃ�ł����H��肽�����̂Ȃ�ł����H�x���Ă����H�t���d�]�g�̃G���f�B���O�e�[�}�ƁAEVA�̐l�ޕ⊮�v��i����ł͑S�l�ދ~�όv��j�v���������Č����̂͏�k�݂����Ȏ����E�E�E�B<br>
-���قł����E�E�E���H<br>
-�ꉞ�Q�o���g�E�t�@�V�X�g�Ƃ��d�q�̗d�����������ANEMGAL�i���j�̉����͎���o��\��ł��B</font>
+<font size=3 color=#606060>SMガールズ、最初は完全なギャグ路線を目指していたんですけど作っている途中辺りからこの設定を利用したシリアスな話を思いついてしまいまして・・・。<br>
+大丈夫、もうこれ以上修正はしません。<br>
+一応目指すべきはセイバーとラムネのキャラがナデシコ風のノリでエヴァをやるという、わけわからんものです（笑）。『大切なものなんですか？守りたいものなんですか？』っていう秋葉原電脳組のエンディングテーマと、EVAの人類補完計画（これでは全人類救済計画）思いついたって言うのは冗談みたいな事実・・・。<br>
+あほですか・・・ｗ？<br>
+一応ゲバルト・ファシストとか電子の妖精ロリロリ、NEMGAL（株）の会長さんは次回登場予定です。</font>
 <p><a href="http://www6.ocn.ne.jp/~pan2da5/" target="_top">http://www6.ocn.ne.jp/~pan2da5/</a>
 </td></table>
 </td></tr></table>
@@ -124,38 +124,38 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[52]</font> <font size=4 color=#40c0c0> �w�r�l�K�[���Y�Z�N�T�h�[���i�@�l�d�l�n�q�x�P�x������ɂ͂������N���b�N�B</font>
+<font size=2>[52]</font> <font size=4 color=#40c0c0> 『ＳＭガールズセクサドールＪ　ＭＥＭＯＲＹ１』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/31 (��) 09:41:48 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403313094148&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403313094148"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/31 (水) 09:41:48 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403313094148_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200403313094148"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�r�l�K�[���Y�A�O�x�ڂ̃����C�N�B�u��؂Ȃ��́v����邽�߁A�^���ɗ������������N�̕���c�c�H<br>
-�w�r�l�K�[���Y�Z�N�T�h�[���i�@�l�d�l�n�q�x�P�|�P�x<br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smg1a.htm target=_top>http://ts.novels.jp/novel/200209/01010850/smg1a.htm</a><br>
-�w�r�l�K�[���Y�Z�N�T�h�[���i�@�l�d�l�n�q�x�P�|�Q�x<br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smg1b.htm target=_top>http://ts.novels.jp/novel/200209/01010850/smg1b.htm</a><br>
-�w�r�l�K�[���Y�Z�N�T�h�[���i�@�l�d�l�n�q�x�P�|�R�x<br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smg1c.htm target=_top>http://ts.novels.jp/novel/200209/01010850/smg1c.htm</a><br>
-�w�r�l�K�[���Y�Z�N�T�h�[���i�@�l�d�l�n�q�x�P�|�S�x<br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smg1d.htm target=_top>http://ts.novels.jp/novel/200209/01010850/smg1d.htm</a></font>
+<font size=3 color=#606060>【推薦文】ＳＭガールズ、三度目のリメイク。「大切なもの」を守るため、運命に立ち向かう少年の物語……？<br>
+『ＳＭガールズセクサドールＪ　ＭＥＭＯＲＹ１−１』<br>
+<a href="../../novel/200209/01010850/smg1a.htm" target=_top>http://ts.novels.jp/novel/200209/01010850/smg1a.htm</a><br>
+『ＳＭガールズセクサドールＪ　ＭＥＭＯＲＹ１−２』<br>
+<a href="../../novel/200209/01010850/smg1b.htm" target=_top>http://ts.novels.jp/novel/200209/01010850/smg1b.htm</a><br>
+『ＳＭガールズセクサドールＪ　ＭＥＭＯＲＹ１−３』<br>
+<a href="../../novel/200209/01010850/smg1c.htm" target=_top>http://ts.novels.jp/novel/200209/01010850/smg1c.htm</a><br>
+『ＳＭガールズセクサドールＪ　ＭＥＭＯＲＹ１−４』<br>
+<a href="../../novel/200209/01010850/smg1d.htm" target=_top>http://ts.novels.jp/novel/200209/01010850/smg1d.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[51]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[51]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/24 (��) 21:21:10 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309243212110&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309243212110"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/24 (水) 21:21:10 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309243212110_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200309243212110"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂Ă��āB���l�^��m��Ȃ����^�N�V�����z�������Ă������̂��B<br>
-���l�^�m��Ȃ��Ă��y���߂܂����Ƃ����A�����Ă����܂��ˁB<br>
-���҂��y���݂ł��B</font>
+<font size=3 color=#606060>はてさて。元ネタを知らないワタクシが感想を書いてもいいのやら。<br>
+元ネタ知らなくても楽しめましたとだけ、言っておきますね。<br>
+続編も楽しみです。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -163,33 +163,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[50]</font> <font size=4 color=#40c0c0> �w��ނ˂Q�^�P�E���b�@������l�̉��I�H��ҁ@������l�̉��I�H�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[50]</font> <font size=4 color=#40c0c0> 『らむね２／１・第一話　もう一人の俺！？後編　もう一人の俺！？』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/24 (��) 06:50:30 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309243065030&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309243065030"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/24 (水) 06:50:30 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309243065030_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200309243065030"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �l�҂���Ō����ɘȂރG���t���̏����B����ė����҂��l�́c�c�i���񑩁j�B</font>
-<p><a href="http://ts.novels.jp/novel/200309/20061705/ramune03.htm" target="_top">http://ts.novels.jp/novel/200309/20061705/ramune03.htm</a>
+<font size=3 color=#606060>【推薦文】 人待ち顔で公園に佇むエルフ耳の少女。やって来た待ち人は……（お約束）。</font>
+<p><a href="../../novel/200309/20061705/ramune03.htm" target="_top">http://ts.novels.jp/novel/200309/20061705/ramune03.htm</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[49]</font> <font size=4 color=#40c0c0> ���₠</font>
+<font size=2>[49]</font> <font size=4 color=#40c0c0> いやあ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/21 (��) 23:23:26 <strong>��</strong> <a href="mailto:panda5@crux.ocn.ne.jp">�p���_�T</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309210232326&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309210232326"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/21 (日) 23:23:26 <strong>▽</strong> <a href="mailto:panda5@crux.ocn.ne.jp">パンダ５</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309210232326_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200309210232326"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Â��A�j���̂��ɂ͈ӊO�ɒm���Ă�l�������ł��ˁB<br>
- �����W�S�Q�U���d�� ����B<br>
-����ς茴��m��Ȃ��l���������Ȃ̂ŁA<br>
-�ꉞ���̉�́A����m��Ȃ��l�̂��߂ɃL�����Љ���ۂ��b�ɂ��܂��B<br>
-�ł��A��������ƐV�L�����̏o�Ԃ��x��Ă����񂾂ȁE�E�E�B�܂��A����΂�B</font>
+<font size=3 color=#606060>古いアニメのわりには意外に知ってる人が多いですね。<br>
+ ｍｋ８４２６＠電車 さん。<br>
+やっぱり原作知らない人も多そうなので、<br>
+一応次の回は、原作知らない人のためにキャラ紹介っぽい話にします。<br>
+でも、それをやると新キャラの出番が遅れてきついんだな・・・。まあ、がんばろ。</font>
 <p><a href="http://www6.ocn.ne.jp/~pan2da5/" target="_top">http://www6.ocn.ne.jp/~pan2da5/</a>
 </td></table>
 </td></tr></table>
@@ -197,38 +197,38 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[48]</font> <font size=4 color=#40c0c0> �΂��܂�����y���߂܂�����</font>
+<font size=2>[48]</font> <font size=4 color=#40c0c0> 笑えました♪楽しめました♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/20 (�y) 20:20:26 <strong>��</strong> ���̎s�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309206202026&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309206202026"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/20 (土) 20:20:26 <strong>▽</strong> この市場 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309206202026_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200309206202026"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������_�E�T�C�_�[�炵���āA���ꂵ���Ȃ����Ⴂ�܂�����B<br>
-����[���������Ȃ��B</font>
+<font size=3 color=#606060>すごくダ・サイダーらしくて、うれしくなっちゃいましたよ。<br>
+いやー懐かしいなぁ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[47]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[47]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/20 (�y) 19:23:22 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���d��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309206192322&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309206192322"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/20 (土) 19:23:22 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309206192322_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200309206192322"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂���A�u�����l�v�̓^�C�g�������m��Ȃ������i���j�B<br>
-�ł��A�y���߂܂����̂ł�����ł͂Ȃ��ł��傤���B<br>
-�Ƃ肠�����������傢�Ɋ��҂��Ă��܂���B</font>
+<font size=3 color=#606060>すいません、「ラムネ」はタイトルしか知らないっす（汗）。<br>
+でも、楽しめましたのでいいんではないでしょうか。<br>
+とりあえず続きも大いに期待していますよ。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="panda5">
@@ -236,16 +236,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="panda5">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=panda5">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_panda5.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

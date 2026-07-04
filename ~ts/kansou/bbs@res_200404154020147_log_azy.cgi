@@ -1,57 +1,57 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>YZA�����i���z�f����</title>
+<title>YZAさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>YZA�����i���z�f����</font>
+<font size=5>YZAさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="azy">
 <input type=hidden name="nj" value="4aEEyAY2Y5">
 <input type=hidden name="res" value="14">
-<h4 align=center>�� �L���ԍ� 14 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 14 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���ǂ݂������肠�肪�Ƃ��������܂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �x�y�`����
-&gt; ���N����ƃ^�b�`�`�s���O���}�X�^�[���đł����݂͑����Ȃ����͂��Ȃ̂Ɏ��M�̃y�[�X�͏オ��Ȃ�YZA�ł�(��)�B��X�͂����͂����܂��B����������Ȃ��Ă��܂��A�ǂ�ł��������̂��\����Ȃ��v���܂��B�ǂ�ł��������Ė{���ɂ��肪�Ƃ��������܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:お読みくださりありがとうございます"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ＹＺＡさん
+&gt; 去年やっとタッチチピングをマスターして打ち込みは速くなったはずなのに執筆のペースは上がらないYZAです(笑)。第９章をお届けします。今回も長くなってしまい、読んでいただくのが申し訳なく思えます。読んでいただいて本当にありがとうございます。
 &gt; 
-&gt; �������W�S�Q�U����
-&gt; �����ɓǂ݉����̂���i����ł��ēǂ݈Ղ��j
-&gt; ���������Ă���������ƈ�Ԋ������ł��ˁB�ǂ݂₷���͎�����ԋC���g���Ă���Ƃ���ł�����B
-&gt; ���}�������̐i����ɂ܂Ō��ꂽ���ɂ͂�����Ɖ������v����
-&gt; �����������������������Ă���ƁA�ǂ�ł���l���ǂꂮ�炢������̂܂����q���g�ɋC�Â��Ă����̂��킩��Ȃ��Ȃ��Ă��܂����̂ł��B����܂�q���g���ȒP���ƃo���o���ɂȂ��Ă��܂��܂����A�������ƃq���g���Ƃ������ƂɋC�Â��Ă������炦�Ȃ����Ƃɂ��Ȃ肩�˂܂���B�����W�S�Q�U����̂��̂����t���������A������̈Ӑ}�������x�ɋC�Â��Ă��炦���̂��ȁA�Ƃ����C�����܂��B�܂��A�������������炳�܂ɉ������Ă��悩�������Ȃƌl�I�ɂ͎v���Ă��܂��B
+&gt; ＞ｍｋ８４２６さん
+&gt; ＞非常に読み応えのある（それでいて読み易い）
+&gt; そう言っていただけると一番嬉しいですね。読みやすさは私が一番気を使っているところですから。
+&gt; ＞マヤたちの進駐先にまで現れた時にはちょっと怪しく思った
+&gt; こういう長い小説を書いていると、読んでいる人がどれぐらいこちらのまいたヒントに気づいてくれるのかわからなくなってしまうものです。あんまりヒントが簡単だとバレバレになってしまいますし、難しすぎるとヒントだということに気づいてさえもらえないことにもなりかねません。ｍｋ８４２６さんのこのお言葉を見る限り、こちらの意図した程度に気づいてもらえたのかな、という気がします。まぁ、もう少しあからさまに怪しくてもよかったかなと個人的には思っています。
 &gt; 
-&gt; ���Ђ̂ЂƂ���
-&gt; ���}�W�J
-&gt; �ŏ��̍���������肷�����̂ŁA�A���o�����X�ɂ͂Ȃ��Ă��܂�����������܂���ˁB���ɂ����ƍ���������΁H�ŏ����炢�̃y�[�X�łQ�O�͂قǏ��������邱�Ƃ��ł����̂ł��傤(���)�B�ł��A���ɂ͂Ƃɂ������̏������������������Ƃ����v��������܂��B�u��ꕔ���I��񕔊J�n��������I�v�ɂ͂������Ȃ��̂ł�(��)�B�܂��A������Ƃ����ċ}�������č�i�̎��������Ă͌����q���Ȃ��ł��̂ŁA�Ȃ�Ƃ��W�J���}�������Ȃ��悤�A����ł��ē����̗\��̂P�Q�͊����Ƃ����\���ύX���邱�Ƃ��Ȃ��悤�w�͂������Ǝv���܂��B
-&gt; �����炭�҂��Ă��������̍b�オ����
-&gt; ���₟�A�������ł��ˁB�O�̏͂��f�ڂ��Ă��������Ă���X�������o���Ă��܂����̂ŁA�����Y����Ă��܂����̂ł͂Ȃ����ƕs���ł����B�ł��A�������҂������Ă��܂������ƂɊւ��Ă͂�����Ɣ��Ȃ��Ȃ���΂����Ȃ��ł���(���)�B
+&gt; ＞ひのひとさん
+&gt; ＞急展開
+&gt; 最初の頃がゆっくりすぎたので、アンバランスにはなってしまったかもしれませんね。私にもっと根性があれば？最初ぐらいのペースで２０章ほど書き続けることもできたのでしょう(苦笑)。でも、私にはとにかくこの小説を完結させたいという思いがあります。「第一部完！第二部開始時期未定！」にはしたくないのです(笑)。まぁ、だからといって急ぎすぎて作品の質が落ちては元も子もないですので、なんとか展開を急ぎすぎないよう、それでいて当初の予定の１２章完結という予定を変更することもないよう努力したいと思います。
+&gt; ＞長らく待っていただけの甲斐がある
+&gt; いやぁ、嬉しいですね。前の章を掲載していただいてから９ヶ月も経ってしまったので、もう忘れられてしまったのではないかと不安でした。でも、長くお待たせしてしまったことに関してはちょっと反省しなければいけないですね(苦笑)。
 &gt; 
-&gt; ���̗͂\����B��ɂ���ė�̂��Ƃ��A��P�O�͂͂��łɊ������Ă���܂����A���̃T�C�g�Ɍf�ڂ���̂�������Ɍf�ڂ��˗�����̂���P�P�͂������グ�Ă���ł��B���΂炭���҂����������B
+&gt; 次章の予定を。例によって例のごとく、第１０章はすでに完成しておりますが、私のサイトに掲載するのもこちらに掲載を依頼するのも第１１章を書き上げてからです。しばらくお待ちください。
 &gt; 
-&gt; �u��P�O�́@�U�G�t�v�̗\���������B
-&gt; �u�}���̓G�[���f�����g�|����풆�Ƀi�^�[�V���ƍĉ��B�����āA�G���[�j�A�����R�͂��Ƀn�o���A�{���ւ̐N�U���J�n�B�}�������t�@�N�e�B�����b���R������҂��󂯂Ă���̂́A�ʂ����āc?�v
+&gt; 「第１０章　ザエフ」の予告を少し。
+&gt; 「マヤはエールデラント掃討作戦中にナターシャと再会する。そして、エラーニア王国軍はついにハバリア本国への侵攻を開始。マヤたちファクティム装甲竜騎兵隊を待ち受けているのは、果たして…?」
 &gt; 
-&gt; �ł͂܂��A��������B</textarea><br>
+&gt; ではまた、○ヶ月後。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -64,28 +64,28 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> ���ǂ݂������肠�肪�Ƃ��������܂��B</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> お読みくださりありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/04 (��) 23:24:36 <strong>��</strong> �x�y�` </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408043232436&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408043232436"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/04 (水) 23:24:36 <strong>▽</strong> ＹＺＡ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408043232436_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200408043232436"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̏͂���Ԓ����͂ł��B���͂͂��̎O���̓���x�̒����ɂȂ�܂��B������ɂ���A�����܂ł��ǂ݂������������Ƃɑ΂��A�{���Ɋ��ӂ��Ă��Ă��܂��B���ƈ�͂ł��̂ŁA�ǂ��������������������B<br>
+<font size=3 color=#606060>この章が一番長い章です。次章はこの三分の二程度の長さになります。いずれにせよ、ここまでお読みくださったことに対し、本当に感謝していています。あと一章ですので、どうかおつきあいください。<br>
 <br>
-<font color="#ff88cc">���Ђ̂ЂƂ���</font><br>
-�O��̏������݂ł��q�ׂ��ʂ�A�������łɍŏI�͂͏����オ���Ă��܂��B����A���܂��r�����������Ă��Ȃ��Ƃ������w�E���ǂȂ����炩���������Ȃ�����A�X�g�[���[��ς��邱�Ƃ͂���܂��񂪁A<br>
-<font color="#ff88cc">����Ђ˂肠��̂�����</font><br>
-�����A�ǂ��ł��傤�B�Ђ˂肪����Ƃ����邩�ǂ����c�c�B�܂��A���Ƃ�ƃX�g���[�g�ɏI����Ă��Ȃ��̂͊m���ł��B<br>
+<font color="#ff88cc">＞ひのひとさん</font><br>
+前回の書き込みでも述べた通り、もうすでに最終章は書き上がっています。今後、つじつまが甚だしく合っていないというご指摘をどなたからかいただかない限り、ストーリーを変えることはありませんが、<br>
+<font color="#ff88cc">＞一ひねりあるのを期待</font><br>
+さあ、どうでしょう。ひねりがあるといえるかどうか……。まぁ、すとんとストレートに終わっていないのは確かです。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U�������<br>
-������ȑ傪����Ȃ��Ƃ������Ȃ��</font><br>
-���̏����́A�O�l�̌`���ł���Ȃ���A��Ƀ}���̎��_�ŕ`���Ƃ����A����΋^����l�̂̌`�����Ƃ��Ă��܂��B���̂����ŁA�}���̔w��ŋN�����Ă��邱�Ƃ��قƂ�Ǖ`����Ă��炸�A���������Ӗ��ł́A������Ɠ��˂�������������܂���ˁB���Ƃ��ẮA���������͂���ȑ傫�ȉA�d�̉Q���ɂ����Ƃ����}���̋�����\�����邽�߂ɁA�����Ă��������̂ł����c�c�B<br>
+<font color="#ff88cc">＞ｍｋ８４２６＠自宅さん<br>
+＞こんな大がかりなことだったなんて</font><br>
+この小説は、三人称形式でありながら、常にマヤの視点で描くという、いわば疑似一人称の形式をとっています。そのせいで、マヤの背後で起こっていることがほとんど描かれておらず、そういう意味では、ちょっと唐突だったかもしれませんね。私としては、自分が実はそんな大きな陰謀の渦中にいたというマヤの驚きを表現するために、敢えてそうしたのですが……。<br>
 <br>
-���͗\���B<br>
-�ِ��E�ւ̖�͊J���ꂽ�I�o���ɉi���̕ʂ�̎����K���B�����ĕ���͍Ăѓ����ցB�}���^�����͉ʂ����Ė{���̎��������߂���̂��H����Ɍ����Ȃ��������̈ꌾ�����x�����������Ƃ��ł���̂��H���Ɋ����B<br>
+次章予告。<br>
+異世界への門は開かれた！姉妹に永遠の別れの時が訪れる。そして舞台は再び東京へ。マヤ／健太は果たして本当の自分を取り戻せるのか？美玖に言えなかったあの一言を今度こそ言うことができるのか？遂に完結。<br>
 <br>
-�ł͂܂��A��`�񃖌���ɁB</font>
+ではまた、一〜二ヶ月後に。</font>
 <p><a href="http://www5f.biglobe.ne.jp/~yza/nv/" target="_top">http://www5f.biglobe.ne.jp/~yza/nv/</a>
 </td></table>
 </td></tr></table>
@@ -93,17 +93,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/01 (��) 01:39:14 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408010013914&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408010013914"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/01 (日) 01:39:14 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408010013914_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200408010013914"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���āA��̂̎����������s�����Ă��܂��܂����ˁB<br>
-�������܂��A����ȑ傪����Ȃ��Ƃ������Ȃ�āE�E�E�B<br>
-�����A�c���͂��ƈ��B��̂ǂ̂悤�Ȍ������}����̂��A���ɋC�ɂȂ�܂��B<br>
-�����Ȃ�񂾂낤���A�Ƃ��A�����Ȃ��ė~�����A�Ƃ��A���낢��Ƒz�����Ȃ���҂Ƃ��܂��傤���B</font>
+<font size=3 color=#606060>さて、大体の事情が説明され尽くしてしまいましたね。<br>
+しかしまあ、こんな大がかりなことだったなんて・・・。<br>
+さあ、残すはあと一回。一体どのような結末を迎えるのか、非常に気になります。<br>
+ああなるんだろうか、とか、こうなって欲しい、とか、いろいろと想像しながら待つとしましょうか。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -111,18 +111,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> �j�āA���悢��I</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> 嗚呼、いよいよ！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/01 (��) 00:30:36 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408010003036&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408010003036"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/01 (日) 00:30:36 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408010003036_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200408010003036"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͈�C�ɏW���Ɍ������Ă����Ă��܂��c�c�{���ɏI�����}����̂ł��ˁB<br>
+<font size=3 color=#606060>物語は一気に集結に向かっていってしまい……本当に終わりを迎えるのですね。<br>
 <br>
-�Ō�ɌJ��L������퓬�̐��X����A���̐�̋����̏o�����܂ŁA����̐����ɔw��������Ȃ����C�ɓǂݔ����Ă��܂��܂����B<br>
+最後に繰り広げられる戦闘の数々から、その先の驚愕の出来事まで、物語の勢いに背を押されながら一気に読み抜いてしまいました。<br>
 <br>
-�����Ďc���͂Ƃ��Ƃ��ŏI�́I�@�Ōオ�ǂ��Ȃ邩�c�c�l�I�ɂ͂�����Ђ˂肠��̂����҂��Ă��܂��Ă�̂ł����A����𔲂��ɂ��Ă��ǂނ̂��҂����������̂ł��B<br>
+そして残すはとうとう最終章！　最後がどうなるか……個人的にはもう一ひねりあるのを期待してしまってるのですが、それを抜きにしても読むのが待ち遠しいものです。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -130,48 +130,48 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> �w�g�̑��b���R���E��P�P�́x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> 『紅の装甲竜騎兵・第１１章』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/31 (�y) 18:43:23 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407316184323&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407316184323"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/31 (土) 18:43:23 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407316184323_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200407316184323"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���E�������̋��͂̉��A�u�ِ��E�ւ̖�v�֋}���}���B���������ǂ蒅������ňӊO�Ȑl���ƍĉ�邱�ƂɂȂ�B<br>
+<font size=3 color=#606060>【推薦文】ラウラたちの協力の下、「異世界への門」へ急ぐマヤ。しかしたどり着いた先で意外な人物と再会することになる。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/12200339/dragoon09.html target=_top>http://ts.novels.jp/novel/200203/12200339/dragoon09.html</a></font>
+<a href="../../novel/200203/12200339/dragoon09.html" target=_top>http://ts.novels.jp/novel/200203/12200339/dragoon09.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> ���ǂ݂������肠�肪�Ƃ��������܂��B</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> お読みくださりありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/03 (�y) 22:15:07 <strong>��</strong> �x�y�` </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407036221507&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407036221507"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/03 (土) 22:15:07 <strong>▽</strong> ＹＺＡ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407036221507_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200407036221507"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��P�O�͂ł��B�b���i�ނɂ�ǂ�ǂ񒷂��Ȃ��Ă��܂��A�\����Ȃ��ł��B���łɁA�����\�肵�Ă���25KB�~�W�͂Ƃ��������̓�{�߂��ɂȂ��Ă��܂��B�S�P�Q�͂��I���鍠�ɂ͓�{���قǂɂȂ錩�ʂ��ł��B���Ƃ��������A�����������������B<br>
+<font size=3 color=#606060>第１０章です。話が進むにつれどんどん長くなってしまい、申し訳ないです。すでに、当初予定していた25KB×８章という長さの二倍近くになっています。全１２章を終える頃には二倍半ほどになる見通しです。あともう少し、おつきあいください。<br>
 <br>
-<font color="#ff88cc">���Ђ̂ЂƂ���<br>
-���v���Ă���������������</font><br>
-���N�̌㔼�A�܂����������Ȃ������Ԃ�����߂��ׂ��A����΂�܂����i�΁j�B<br>
-<font color="#ff88cc">���N���C�}�b�N�X</font><br>
-��ɂ��������Ƃ���A���̕���͂P�Q�͂Ŋ����ł��B�������A�ŏI��P�Q�͂͂ǂ��炩�Ƃ����ƌ���k�I�ȈӖ��������������߁A�N���C�}�b�N�X���ł�����オ�镔���Ƃ����Ӗ��ł́A���͑�P�P�͂��N���C�}�b�N�X�ƂȂ�܂��B<br>
+<font color="#ff88cc">＞ひのひとさん<br>
+＞思っていたよりも早かった</font><br>
+去年の後半、まったく書けなかったぶんを取り戻すべく、がんばりました（笑）。<br>
+<font color="#ff88cc">＞クライマックス</font><br>
+上にも書いたとおり、この物語は１２章で完結です。しかも、最終第１２章はどちらかというと後日談的な意味合いが強いため、クライマックス＝最も盛り上がる部分という意味では、次章第１１章がクライマックスとなります。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U�������<br>
-���ނɂ͂܂��ŏd�v�Ȃ��Ƃ�`���Ă܂����</font><br>
-�����A���`����i�`���H�j���ƂɂȂ�̂ł��傤�H�����҂��������i�΁j�B<br>
+<font color="#ff88cc">＞ｍｋ８４２６＠自宅さん<br>
+＞彼にはまだ最重要なことを伝えてませんね</font><br>
+さあ、いつ伝える（伝わる？）ことになるのでしょう？ご期待ください（笑）。<br>
 <br>
-���̗͂\��ł��B<br>
-���łɑ�P�P�͂��ŏI��P�Q�͂��ꉞ�͏����������Ă��܂��B���ꂩ�琄�Ȃ��d�˂���ŁA�P�`�Q�������ƂɂP�͂����N�������ɗl�Ɍf�ڂ��˗�����\��ł��B�Ȃ����̍ہA���̃T�C�g�ɂ́A���N�������ɗl�Ɋe�͂̌f�ڂ��m�F���ꂽ��Ɉ�͂��f�ڂ������܂��B<br>
+次章の予定です。<br>
+すでに第１１章も最終第１２章も一応は書きあがっています。これから推敲を重ねた上で、１〜２ヶ月ごとに１章ずつ少年少女文庫様に掲載を依頼する予定です。なおその際、私のサイトには、少年少女文庫様に各章の掲載が確認された後に一章ずつ掲載いたします。<br>
 <br>
-��P�P�͗\���F<br>
-�u�ʂ�̗\���v�����ɍŌ�̐킢�ւƏo������}���B�����A�ޏ��̑O�ɂ͂܂������G�������ӂ�����B�ʂ����āu�ِ��E�ւ̖�v���J�����Ƃ͂ł���̂��H<br>
+第１１章予告：<br>
+「別れの予感」を胸に最後の戦いへと出撃するマヤ。だが、彼女の前にはまたも強敵が立ちふさがる。果たして「異世界への門」を開くことはできるのか？<br>
 <br>
-�ł͂܂��A�P�`�Q������B</font>
+ではまた、１〜２ヵ月後。</font>
 <p><a href="http://www5f.biglobe.ne.jp/~yza/nv/" target="_top">http://www5f.biglobe.ne.jp/~yza/nv/</a>
 </td></table>
 </td></tr></table>
@@ -179,20 +179,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/30 (��) 18:49:24 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406303184924&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406303184924"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/30 (水) 18:49:24 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406303184924_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200406303184924"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����������(߁��)��������!!<br>
-�����A���悢��W�J���������Ȃ��Ă��܂����ˁB<br>
-�Ђ̂ЂƂ��񂪏�����Ă���悤�ɃN���C�}�b�N�X���߂��Ǝv�킹����̂�����܂��B<br>
-�틵�����悢��Ƃ����Ƃ���ł̃}���̌��f�B�����Ă�����󂯓��ꂽ���Ԃ����B<br>
-����ȍ~���y���݂ł��ˁB<br>
+<font size=3 color=#606060>ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!<br>
+さあ、いよいよ展開が激しくなってきましたね。<br>
+ひのひとさんが書かれているようにクライマックスが近いと思わせるものがあります。<br>
+戦況もいよいよというところでのマヤの決断。そしてそれを受け入れた仲間たち。<br>
+次回以降が楽しみですね。<br>
 <br>
-���A���������ԑ�؂Ȕނɂ͂܂��ŏd�v�Ȃ��Ƃ�`���Ă܂���ˁi�΁j�B</font>
+あ、そういや一番大切な彼にはまだ最重要なことを伝えてませんね（笑）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -200,69 +200,69 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> �N���C�}�b�N�X�����ڑO�̗\���I</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> クライマックス到来目前の予感！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/30 (��) 06:26:05 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406303062605&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406303062605"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/30 (水) 06:26:05 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406303062605_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200406303062605"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���ł͂܂��A��������B</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞ではまた、○ヶ月後。</font><br>
 <br>
-2�������قǂł������B<br>
-���͎v���Ă����������������̂ŁA�����Ȃ�����ł��܂��B<br>
+2ヶ月半ほどでしたか。<br>
+実は思っていたよりも早かったので、驚きながら喜んでいます。<br>
 <br>
-�틵���傫���ς��A�C�ɂȂ��񂪂ǂ�ǂ�Əo�Ă��āA���̐�ɂǂ��Ȃ邩�h�L�h�L���Ȃ���ǂݐi�߂邵������܂���B<br>
-�}��������A���f������Ɏ��������̂�����܂������ǁA���̐�ɂ͂����Ƒ傫�Ȍ��f�����Ȃ��Ƃ����Ȃ��̂��K���̗l�q�I�@�����ɍ�҂��񂪂ǂ�ȓ�����p�ӂ��Ă邩���A�푈�̋A�������킹�č�����y���݂ł�����������܂���B</font>
+戦況も大きく変わり、気になる情報がどんどんと出てきて、この先にどうなるかドキドキしながら読み進めるしかありません。<br>
+マヤも今回、決断をするに至ったものがありましたけど、この先にはもっと大きな決断をしないといけないのが必至の様子！　そこに作者さんがどんな答えを用意してるかが、戦争の帰着も合わせて今から楽しみでしかたがありません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> �w�g�̑��b���R���E��P�O�́x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> 『紅の装甲竜騎兵・第１０章』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/30 (��) 00:57:29 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406303005729&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406303005729"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/30 (水) 00:57:29 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406303005729_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200406303005729"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�o�n���A�֐i�����̃}���́A���̐��E�֖߂錮�����݂��邱�Ƃ����ɂ���B<br>
+<font size=3 color=#606060>【推薦文】バハリアへ進撃中のマヤは、元の世界へ戻る鍵が存在することを耳にする。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/12200339/dragoon08.html target=_top>http://ts.novels.jp/novel/200203/12200339/dragoon08.html</a></font>
+<a href="../../novel/200203/12200339/dragoon08.html" target=_top>http://ts.novels.jp/novel/200203/12200339/dragoon08.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> ���ǂ݂������肠�肪�Ƃ��������܂�</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> お読みくださりありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/04/15 (��) 02:01:47 <strong>��</strong> <a href="mailto:yzayzay@yahoo.co.jp">�x�y�`</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200404154020147&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200404154020147"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/04/15 (木) 02:01:47 <strong>▽</strong> <a href="mailto:yzayzay@yahoo.co.jp">ＹＺＡ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200404154020147_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200404154020147"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���N����ƃ^�b�`�`�s���O���}�X�^�[���đł����݂͑����Ȃ����͂��Ȃ̂Ɏ��M�̃y�[�X�͏オ��Ȃ�YZA�ł�(��)�B��X�͂����͂����܂��B����������Ȃ��Ă��܂��A�ǂ�ł��������̂��\����Ȃ��v���܂��B�ǂ�ł��������Ė{���ɂ��肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>去年やっとタッチチピングをマスターして打ち込みは速くなったはずなのに執筆のペースは上がらないYZAです(笑)。第９章をお届けします。今回も長くなってしまい、読んでいただくのが申し訳なく思えます。読んでいただいて本当にありがとうございます。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U����<br>
-�����ɓǂ݉����̂���i����ł��ēǂ݈Ղ��j</font><br>
-���������Ă���������ƈ�Ԋ������ł��ˁB�ǂ݂₷���͎�����ԋC���g���Ă���Ƃ���ł�����B<br>
-<font color="#ff88cc">���}�������̐i����ɂ܂Ō��ꂽ���ɂ͂�����Ɖ������v����</font><br>
-�����������������������Ă���ƁA�ǂ�ł���l���ǂꂮ�炢������̂܂����q���g�ɋC�Â��Ă����̂��킩��Ȃ��Ȃ��Ă��܂����̂ł��B����܂�q���g���ȒP���ƃo���o���ɂȂ��Ă��܂��܂����A�������ƃq���g���Ƃ������ƂɋC�Â��Ă������炦�Ȃ����Ƃɂ��Ȃ肩�˂܂���B�����W�S�Q�U����̂��̂����t���������A������̈Ӑ}�������x�ɋC�Â��Ă��炦���̂��ȁA�Ƃ����C�����܂��B�܂��A�������������炳�܂ɉ������Ă��悩�������Ȃƌl�I�ɂ͎v���Ă��܂��B<br>
+<font color="#ff88cc">＞ｍｋ８４２６さん<br>
+＞非常に読み応えのある（それでいて読み易い）</font><br>
+そう言っていただけると一番嬉しいですね。読みやすさは私が一番気を使っているところですから。<br>
+<font color="#ff88cc">＞マヤたちの進駐先にまで現れた時にはちょっと怪しく思った</font><br>
+こういう長い小説を書いていると、読んでいる人がどれぐらいこちらのまいたヒントに気づいてくれるのかわからなくなってしまうものです。あんまりヒントが簡単だとバレバレになってしまいますし、難しすぎるとヒントだということに気づいてさえもらえないことにもなりかねません。ｍｋ８４２６さんのこのお言葉を見る限り、こちらの意図した程度に気づいてもらえたのかな、という気がします。まぁ、もう少しあからさまに怪しくてもよかったかなと個人的には思っています。<br>
 <br>
-<font color="#ff88cc">���Ђ̂ЂƂ���<br>
-���}�W�J</font><br>
-�ŏ��̍���������肷�����̂ŁA�A���o�����X�ɂ͂Ȃ��Ă��܂�����������܂���ˁB���ɂ����ƍ���������΁H�ŏ����炢�̃y�[�X�łQ�O�͂قǏ��������邱�Ƃ��ł����̂ł��傤(���)�B�ł��A���ɂ͂Ƃɂ������̏������������������Ƃ����v��������܂��B�u��ꕔ���I��񕔊J�n��������I�v�ɂ͂������Ȃ��̂ł�(��)�B�܂��A������Ƃ����ċ}�������č�i�̎��������Ă͌����q���Ȃ��ł��̂ŁA�Ȃ�Ƃ��W�J���}�������Ȃ��悤�A����ł��ē����̗\��̂P�Q�͊����Ƃ����\���ύX���邱�Ƃ��Ȃ��悤�w�͂������Ǝv���܂��B<br>
-<font color="#ff88cc">�����炭�҂��Ă��������̍b�オ����</font><br>
-���₟�A�������ł��ˁB�O�̏͂��f�ڂ��Ă��������Ă���X�������o���Ă��܂����̂ŁA�����Y����Ă��܂����̂ł͂Ȃ����ƕs���ł����B�ł��A�������҂������Ă��܂������ƂɊւ��Ă͂�����Ɣ��Ȃ��Ȃ���΂����Ȃ��ł���(���)�B<br>
+<font color="#ff88cc">＞ひのひとさん<br>
+＞急展開</font><br>
+最初の頃がゆっくりすぎたので、アンバランスにはなってしまったかもしれませんね。私にもっと根性があれば？最初ぐらいのペースで２０章ほど書き続けることもできたのでしょう(苦笑)。でも、私にはとにかくこの小説を完結させたいという思いがあります。「第一部完！第二部開始時期未定！」にはしたくないのです(笑)。まぁ、だからといって急ぎすぎて作品の質が落ちては元も子もないですので、なんとか展開を急ぎすぎないよう、それでいて当初の予定の１２章完結という予定を変更することもないよう努力したいと思います。<br>
+<font color="#ff88cc">＞長らく待っていただけの甲斐がある</font><br>
+いやぁ、嬉しいですね。前の章を掲載していただいてから９ヶ月も経ってしまったので、もう忘れられてしまったのではないかと不安でした。でも、長くお待たせしてしまったことに関してはちょっと反省しなければいけないですね(苦笑)。<br>
 <br>
-���̗͂\����B��ɂ���ė�̂��Ƃ��A��P�O�͂͂��łɊ������Ă���܂����A���̃T�C�g�Ɍf�ڂ���̂�������Ɍf�ڂ��˗�����̂���P�P�͂������グ�Ă���ł��B���΂炭���҂����������B<br>
+次章の予定を。例によって例のごとく、第１０章はすでに完成しておりますが、私のサイトに掲載するのもこちらに掲載を依頼するのも第１１章を書き上げてからです。しばらくお待ちください。<br>
 <br>
-�u��P�O�́@�U�G�t�v�̗\���������B<br>
-�u�}���̓G�[���f�����g�|����풆�Ƀi�^�[�V���ƍĉ��B�����āA�G���[�j�A�����R�͂��Ƀn�o���A�{���ւ̐N�U���J�n�B�}�������t�@�N�e�B�����b���R������҂��󂯂Ă���̂́A�ʂ����āc?�v<br>
+「第１０章　ザエフ」の予告を少し。<br>
+「マヤはエールデラント掃討作戦中にナターシャと再会する。そして、エラーニア王国軍はついにハバリア本国への侵攻を開始。マヤたちファクティム装甲竜騎兵隊を待ち受けているのは、果たして…?」<br>
 <br>
-�ł͂܂��A��������B</font>
+ではまた、○ヶ月後。</font>
 <p><a href="http://www5f.biglobe.ne.jp/~yza/nv/" target="_top">http://www5f.biglobe.ne.jp/~yza/nv/</a>
 </td></table>
 </td></tr></table>
@@ -270,27 +270,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/04/13 (��) 19:21:39 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���d��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200404132192139&log=azy">�ԐM</a>�@�폜<input type=checkbox name="target" value="200404132192139"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/04/13 (火) 19:21:39 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200404132192139_log_azy.cgi">返信</a>　削除<input type=checkbox name="target" value="200404132192139"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�v�X�ɗ����Ǝv������A���ɓǂ݉����̂���i����ł��ēǂ݈Ղ��j��i�ɂȂ��Ă܂��ˁB<br>
-���Q��O�ɓǂ߂Ȃ������̂ŁA�����̏o�΂̓d�ԓ��ň�C�ɓǂ݂܂����B<br>
-�������܂��A�ޏ��܂ŊԒ��������Ƃ́E�E�E�B���̍��܂ŋ^���Ă��܂���ł������A�������Ƀ}�������̐i����ɂ܂Ō��ꂽ���ɂ͂�����Ɖ������v�����̂������ł��i�΁j�B<br>
-�S�z���Ă����o���Ԃ̂킾���܂�������A����Č��F�ƂȂ����H�W���[�g�Ƃ̊֌W�����������ɂȂ��āA���ꂩ��̓W�J�����Ɋy���݂ł��ˁB<br>
+<font size=3 color=#606060>おお、久々に来たと思ったら、非常に読み応えのある（それでいて読み易い）逸品になってますね。<br>
+昨夜寝る前に読めなかったので、今朝の出勤の電車内で一気に読みました。<br>
+しかしまあ、彼女まで間諜だったとは・・・。今の今まで疑っていませんでしたが、さすがにマヤたちの進駐先にまで現れた時にはちょっと怪しく思ったのも事実です（笑）。<br>
+心配していた姉妹間のわだかまりも解け、晴れて公認となった？ジュートとの関係もいい感じになって、これからの展開も非常に楽しみですね。<br>
 <br>
-<font color="#ff88cc">�����܂ɂ͂��̏����݂����ɏd���̂������Ă������ł���ˁH</font><br>
-���ɏd���Ƃ͊����܂��񂯂ǂ˂��B�܁A������Ƃ����Čy���͂Ȃ��̂������ł����B</font>
+<font color="#ff88cc">＞たまにはこの小説みたいに重いのがあってもいいですよね？</font><br>
+特に重いとは感じませんけどねぇ。ま、だからといって軽くはないのも事実ですが。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="azy">
@@ -298,16 +298,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="azy">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=azy">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_azy.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

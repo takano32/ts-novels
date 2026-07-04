@@ -331,7 +331,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 「僕から離れて、嘲笑って、逃げて、逃げて——信じられることが、見つめられることが、それが壊れてしまいそうで、それで……！」<br>
 <br>
-<a href=http://ts.novels.jp/novel/200504/04081500/I&#95;and_MyTime&#95;03.html target=_top>http://ts.novels.jp/novel/200504/04081500/I&#95;and_MyTime&#95;03.html</a></font>
+<a href="../../novel/200504/04081500/I_and_MyTime_03.html" target=_top>http://ts.novels.jp/novel/200504/04081500/I&#95;and_MyTime&#95;03.html</a></font>
 </td></table>
 </td></tr></table>
 

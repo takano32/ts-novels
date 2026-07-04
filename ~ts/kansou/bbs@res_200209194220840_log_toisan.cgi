@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�s�n�h�r�`�m�����i�@���z�f����</title>
+<title>ＴＯＩＳＡＮさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�s�n�h�r�`�m�����i�@���z�f����</font>
+<font size=5>ＴＯＩＳＡＮさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="toisan">
 <input type=hidden name="nj" value="2KgoMZBRjW">
 <input type=hidden name="res" value="10">
-<h4 align=center>�� �L���ԍ� 10 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 10 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w���ƈł̊ԁ@�\�O�����h�e�@���́\�x��ǂނɂ͉��̃����N���N���b�N"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z���ɗL�鐢�E�Ƃ́A�o�����ݓ���Ă����y�n�Ƃ́B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『光と闇の間　—グランドＦ　第二章—』を読むには下のリンクをクリック"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】裏に有る世界とは、姉が踏み入れていた土地とは。
 &gt; 
 &gt; http://ts.novels.jp/novel/200209/13173229/grand_f2.htm</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,19 +47,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/21 (�y) 08:23:46 <strong>��</strong> TOISAN </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209216082346&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209216082346"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/21 (土) 08:23:46 <strong>▽</strong> TOISAN </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209216082346_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209216082346"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Kou���^�c�ψ�����<br>
-<font color="#cc88ff">&gt;��l�̂Ȃ̂�����A��������̍H�v���K�v�Ȃ̂ł͂ƁB</font><br>
-�����ł��ˁA�����n�߂���O�͂ɂ͂����������̕ӂ̍H�v��D�荞�݂����ł��B<br>
-���������H�v�Ŏ�l���̐S�ۂ������Ƃ͂����肵�Ă���̂������ł��ˁB<br>
-�ł��A����܂ŏ��������͂Ə�������ς���Ă��܂��悤�ȋC�����āA<br>
-���̕ӂ�ǂ��Ńo�����X����邩�A���ݕ������ł��B<br>
+<font size=3 color=#606060>Kou＠運営委員さん＞<br>
+<font color="#cc88ff">&gt;一人称なのだから、何かしらの工夫が必要なのではと。</font><br>
+そうですね、書き始めた第三章にはもう少しその辺の工夫を織り込みたいです。<br>
+そうした工夫で主人公の心象がもっとはっきりしてくるのがいいですね。<br>
+でも、それまで書いた文章と少し趣きが変わってしまうような気がして、<br>
+その辺りどこでバランスを取るか、現在奮闘中です。<br>
 <br>
 </font>
 </td></table>
@@ -68,26 +68,26 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> �����z���</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> ご感想よ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/20 (��) 21:02:11 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209205210211&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209205210211"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/20 (金) 21:02:11 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209205210211_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209205210211"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;���낢�낲�z�����������L��������܂���m(__)m<br>
-&gt;����ɑ��U�̃A�b�v���[�h�A�܂��S�̏������o���Ă܂���ł����i�΁j</font><br>
-����Ⴀ�A�_���̂��Ƃ��̌f�ڋZ�����̎������ł��i������j�B<br>
-�����Č����΁A�����f�ڂ��邵���\���Ȃ��z�c�Ǝ���邩�H�@���Ă��āA�܏\���̍쐬�����Ȃ���c�B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;いろいろご配慮いただき有難うございましたm(__)m<br>
+&gt;それに速攻のアップロード、まだ心の準備が出来てませんでした（笑）</font><br>
+そりゃあ、神速のごとくの掲載技が私の持ち味です（何それ）。<br>
+強いて言えば、早く掲載するしか能がない奴…と取られるか？　さてさて、五十音の作成続けなきゃ…。<br>
 <br>
-�@���`�ƁA���̃��Y��������̂͂���Ȃ�̏��������Ǝv���܂����A��l�̂Ȃ̂�����A��������̍H�v���K�v�Ȃ̂ł͂ƁB<br>
-�@�ᔻ�͂����܂łɂ��Ă����āA����ς�l�Ԃ͋��ł����ˁB����������Ή��ł����H<br>
-�@�܂��Ɍ���̗����E�̂悤�ȕ��ł��ˁB<br>
+　え〜と、一定のリズムがあるのはそれなりの書き方だと思いますが、一人称なのだから、何かしらの工夫が必要なのではと。<br>
+　批判はここまでにしておいて、やっぱり人間は金ですかね。金さえあれば何でもやる？<br>
+　まさに現代の裏世界のような物ですね。<br>
 <br>
-�@����͂����ƁA�Â��C���[�W�̍�i�́A��l�̂ɂ��Ă�����_�����낢��ƁB���邭�����ƁA�Â��C���[�W���䖳���ɂȂ邵�A��ÂȌ����ŏ����ƁA�t�ɂ��̃L�������䂪��Ō����Ă���c�c�c�B<br>
-�@����͎��̍l����ӌ��Ȃ̂ŁB<br>
+　それはそうと、暗いイメージの作品は、一人称にしても難しい点がいろいろと。明るく書くと、暗いイメージが台無しになるし、冷静な口調で書くと、逆にそのキャラがゆがんで見えてくる………。<br>
+　これは私の考える意見なので。<br>
 <br>
-�@����ł́A���������҂��Ă���܂��B<br>
+　それでは、次回作を期待しております。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -95,82 +95,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/20 (��) 19:07:02 <strong>��</strong> TOISAN </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209205190702&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209205190702"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/20 (金) 19:07:02 <strong>▽</strong> TOISAN </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209205190702_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209205190702"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�d�g�d������<br>
-�ǂ�Œ����Ă��肪�Ƃ��������܂��B<br>
-<font color="#cc88ff">&gt;��_�͌��t�̃��Y���ł��傤���B���肪���Ȏ����������܂��񂯂ǁA<br>
-&gt;�u�`�`�������v�̘A���̓��Y���������ł���</font><br>
-�����ł��ˁA�ǂ�����{���q�ɂȂ肪���ŁA������������H�v���Ă݂����ł��B<br>
-<font color="#cc88ff">&gt;���Ɨ�ÂȎ�l��������Ȃ��Ƃ��v�����肵�āc�B<br>
-&gt;��l�̂��ۂ��Ȃ���l�̂Ƃ������B</font><br>
-�A�n�n�A�m���ɏ����i���N�j�̊��ɃN�[���߂��܂���ˁA<br>
-��l�тĂ��āA��Ȃ���v���܂�(^_^;)<br>
-���������c���Ƃ�����̋N�����o���������u�炵���v�̂ł��傤�B<br>
-�����������꒲�Ȋ����Ŏ�l���̋C�����������Ă݂����̂ł����A<br>
-�ł����������\�������̕��͂̒��Ƀ|���Ɠ����E�C��<br>
-�Ȃ��Ȃ����������肵�āE�E�E�B<br>
-���������̉ۑ�Ƃ����Ă��������܂��B<br>
-<br>
-</font>
-</td></table>
-</td></tr></table>
-
-<hr size=1 noshade width=95%>
-
-<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
-</td></table>
-<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/20 (��) 17:09:52 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209205170952&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209205170952"></font>
-</td></table>
-<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ٔ���������܂��ˁB���[��A�ڂ�ڂ�ɂȂ�TS�����Ȃ��<br>
-�Ђ����Ԃ�Ɍ����C������B<br>
-�l�^�o���ɂȂ�Ȃ��悤�Ɋ��z�������̂��ނ��������Ȃ��B<br>
-�Ƃ�����A���炩�ɂȂ����̂́c<br>
-����X�g�[���[�̊j�ɂȂ�悤�Ȏ����������Ɨ\�z�B<br>
-���\�A�_�[�N�ȕ��͋C���܂Ƃ��Ă܂����ǁA������X�g�[���[�̖��ɂȂ��Ă���̂ŁA���̂܂܂ŗǂ��Ǝv���܂��B<br>
-<br>
-��_�͌��t�̃��Y���ł��傤���B���肪���Ȏ����������܂��񂯂ǁA<br>
-�u�`�`�������v�̘A���̓��Y���������ł����A���Ɨ�ÂȎ�l��������Ȃ�<br>
-�Ƃ��v�����肵�āc�B��l�̂��ۂ��Ȃ���l�̂Ƃ������B<br>
-��l�̂��Ă��Ƃ���<br>
-�w�{�N�͊����������x���w��[���������ȁx�Ƃ����ӂ��ɏ�����Ƃ��낪�������낢�Ƃ���ł�����ˁB�t���܂��^�Ȃ�c�{��╜�Q�S�����������ӂ��ɏ����ƁA�Տꊴ�������܂��B��������肷����ƁA�q�ϐ��������A�����N�����Ă���̂��ǎ҂ɂ킩��ɂ����Ƃ������_���c�B<br>
-����ł͎��炵�܂��B</font>
-</td></table>
-</td></tr></table>
-
-<hr size=1 noshade width=95%>
-
-<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
-</td></table>
-<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/20 (��) 12:41:49 <strong>��</strong> TOISAN </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209205124149&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209205124149"></font>
-</td></table>
-<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Kou@�^�c�ψ�����<br>
-���낢�낲�z�����������L��������܂���m(__)m<br>
-����ɑ��U�̃A�b�v���[�h�A�܂��S�̏������o���Ă܂���ł����i�΁j<br>
-����J�l�ł����B<br>
-<br>
-mk8426����<br>
-�ǂ�Œ����ėL��������܂��B<br>
-�����͂����܂ł��܂�l���Ă��Ȃ������̂ł����A�v���؂��ēW�J�������A�ŁA<br>
-��O�͂����Ŏ��܂�Ȃ��\�����o�ė��Č�����Ă܂��B�i�΁j<br>
-�ŏ����炢�낢�낵������l���Ă��珑���΂悩�����Ɣ��ȍޗ��������ς��ł��B<br>
-<br>
-�E�E�E<br>
-��l���͏����ɂȂ�Ȃ��Ƃ��ǂ������̂ł́H�Ƃ�����]���o�����ȑ��͂ł����ǁA<br>
-��O�͂ł���Ȃ�̃I�`���������Ǝv���Ă��܂�(^^�U<br>
+<font size=3 color=#606060>電波妖精さん＞<br>
+読んで頂いてありがとうございます。<br>
+<font color="#cc88ff">&gt;難点は言葉のリズムでしょうか。ありがちな事しかいえませんけど、<br>
+&gt;「〜〜だった」の連続はリズムが悪いですし</font><br>
+そうですね、どうも一本調子になりがちで、次回もう少し工夫してみたいです。<br>
+<font color="#cc88ff">&gt;あと冷静な主人公すぎるなあとか思ったりして…。<br>
+&gt;一人称っぽくない一人称というか。</font><br>
+アハハ、確かに少女（少年）の割にクール過ぎますよね、<br>
+大人びていて、我ながら思います(^_^;)<br>
+もう少し幼さとか感情の起伏を出した方が「らしい」のでしょう。<br>
+もう少し口語調な感じで主人公の気持ちを書いてみたいのですが、<br>
+でもそういう表現をこの文章の中にポンと入れる勇気が<br>
+なかなか無かったりして・・・。<br>
+これも次回の課題とさせていただきます。<br>
 <br>
 </font>
 </td></table>
@@ -179,19 +124,74 @@ mk8426����<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/19 (��) 22:43:15 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209194224315&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209194224315"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/20 (金) 17:09:52 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209205170952_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209205170952"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A���Ԃ������n�߂܂����ˁB<br>
-��̍����ʁB�߂炦��ꂽ���e�B�g�D�B�x�@�B<br>
-�S�Ă�����͂�݁A�C�ɂȂ��Ďd�����Ȃ��ł��ˁB<br>
-�����āA���l�B�ޏ��Ƃ̍���̊֌W�́H<br>
-�Ɠ��̕��͋C�����܂��āA�ƂĂ��ǂ������ł��B<br>
-��������҂��Ă��܂���B</font>
+<font size=3 color=#606060>緊迫感がありますね。うーん、ぼろぼろになるTS少女なんて<br>
+ひさしぶりに見た気がする。<br>
+ネタバレにならないように感想を書くのがむずかしいなぁ。<br>
+ともあれ、明らかになったのは…<br>
+今後ストーリーの核になるような事柄だったと予想。<br>
+結構、ダークな雰囲気をまとってますけど、それもストーリーの味になっているので、そのままで良いと思います。<br>
+<br>
+難点は言葉のリズムでしょうか。ありがちな事しかいえませんけど、<br>
+「〜〜だった」の連続はリズムが悪いですし、あと冷静な主人公すぎるなあ<br>
+とか思ったりして…。一人称っぽくない一人称というか。<br>
+一人称ってたとえば<br>
+『ボクは嬉しかった』を『わーい嬉しいな』というふうに書けるところがおもしろいところですからね。逆もまた真なり…怒りや復讐心をそういうふうに書くと、臨場感が増します。ただしやりすぎると、客観性が失われ、何が起こっているのか読者にわかりにくいという欠点も…。<br>
+それでは失礼します。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/20 (金) 12:41:49 <strong>▽</strong> TOISAN </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209205124149_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209205124149"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>Kou@運営委員さん＞<br>
+いろいろご配慮いただき有難うございましたm(__)m<br>
+それに速攻のアップロード、まだ心の準備が出来てませんでした（笑）<br>
+ご苦労様でした。<br>
+<br>
+mk8426さん＞<br>
+読んで頂いて有難うございます。<br>
+当初はここまであまり考えていなかったのですが、思い切って展開したお陰で、<br>
+第三章だけで収まらない可能性も出て来て後悔してます。（笑）<br>
+最初からいろいろしっかり考えてから書けばよかったと反省材料がいっぱいです。<br>
+<br>
+・・・<br>
+主人公は女性にならなくとも良かったのでは？という批評も出そうな第二章ですけど、<br>
+第三章でそれなりのオチをつけたいと思っています(^^ゞ<br>
+<br>
+</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/19 (木) 22:43:15 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209194224315_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209194224315"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>おお、事態が動き始めましたね。<br>
+謎の黒い玉。捕らえられた両親。組織。警察。<br>
+全てが謎をはらみ、気になって仕方がないですね。<br>
+そして、恋人。彼女との今後の関係は？<br>
+独特の雰囲気も相まって、とても良かったです。<br>
+次回も期待していますよ。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -199,48 +199,48 @@ mk8426����<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> �w���ƈł̊ԁ@�\�O�����h�e�@���́\�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> 『光と闇の間　—グランドＦ　第二章—』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/19 (��) 22:08:40 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209194220840&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209194220840"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/19 (木) 22:08:40 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209194220840_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209194220840"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���ɗL�鐢�E�Ƃ́A�o�����ݓ���Ă����y�n�Ƃ́B<br>
+<font size=3 color=#606060>【推薦文】裏に有る世界とは、姉が踏み入れていた土地とは。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200209/13173229/grand_f2.htm target=_top>http://ts.novels.jp/novel/200209/13173229/grand_f2.htm</a></font>
+<a href="../../novel/200209/13173229/grand_f2.htm" target=_top>http://ts.novels.jp/novel/200209/13173229/grand_f2.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/14 (�y) 16:20:07 <strong>��</strong> TOISAN </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209146162007&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209146162007"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/14 (土) 16:20:07 <strong>▽</strong> TOISAN </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209146162007_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209146162007"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>kou����<br>
-�^�c�ψ����犴�z����������ł��������A���肪�Ƃ��������܂��B<br>
-���߂Ă̓��e�ŁA����Ȃ̂��󂯓������̂��S�z�������̂ł����A�����z������������Ƃ����̂́A��݂ɂȂ�܂��ˁB<br>
-�����̎v�f�Ɠǂݎ�̎����̈Ⴂ���Q�l�ɂȂ�܂��B<br>
-�������Ŏ����啝�Ɏ蒼�����邱�Ƃɂ��Ȃ肻���ł����i�΁j<br>
-<font color="#cc88ff">&gt;�����āA���z��������āA���ɑn�镨���l����B<br>
-&gt;��������Ύ����Ɛ�������Ǝv���܂��B</font><br>
-���̂��Ƃ��݂Ɋ撣�肽�����̂ł��B<br>
+<font size=3 color=#606060>kouさん＞<br>
+運営委員自ら感想を書き込んでいただき、ありがとうございます。<br>
+初めての投稿で、こんなのが受け入れられるのか心配だったのですが、ご感想をすぐ頂けるというのは、励みになりますね。<br>
+自分の思惑と読み手の視線の違いも参考になります。<br>
+おかげで次作を大幅に手直しすることにもなりそうですが（笑）<br>
+<font color="#cc88ff">&gt;書いて、感想をもらって、次に創る物を考える。<br>
+&gt;そうすれば自ずと成長すると思います。</font><br>
+そのことを励みに頑張りたいものです。<br>
 <br>
-�d�g�d������<br>
-�u�G���v�̗v�f�A�����ł��B�����̐l�ɓ������q�b�g������̂��Ă��������̂ł��傤�ˁB<br>
-<font color="#cc88ff">&gt;�܂��́A�X�g�[���[���������肳���邱�ƁE�E�E<br>
-&gt;�G���͉e�̗v�f�E�E�E</font><br>
-���̂ɖ��������ł��ˁB<br>
-�������肵���X�g�[���[�̏�Ƀ`���b�Ɗ�т�߂��݁A������コ������������A����Ȋ����̂��̂������������̂ł��B<br>
+電波妖精さん＞<br>
+「萌え」の要素、同感です。多くの人に等しくヒットするものってそう無いのでしょうね。<br>
+<font color="#cc88ff">&gt;まずは、ストーリーをしっかりさせること・・・<br>
+&gt;萌えは影の要素・・・</font><br>
+を肝に銘じたいですね。<br>
+しっかりしたストーリーの上にチラッと喜びや悲しみ、強さや弱さを感じさせる、そんな感じのものが書きたいものです。<br>
 <br>
-�E�E�E<br>
-����ɂ��Ă��A���̒��ɂ��C�t�����ꂽ���������Ă��܂����ƂɎ䂩���S���̉�����Ă����������Ȃ�ł��傤�ˁB<br>
-���̃l�^�ɂȂ�Ȃ��Ǝv���A�H�̖钷�̐Q�s���̎�ł��B<br>
+・・・<br>
+それにしても、私の中にも気付かされた女性化してしまうことに惹かれる心理の奥底っていったい何なんでしょうね。<br>
+次のネタになるなぁと思いつつ、秋の夜長の寝不足の種です。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -248,48 +248,48 @@ mk8426����<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> ���ɂ�E�E�E</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> うにゃ・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/14 (�y) 14:58:13 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209146145813&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209146145813"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/14 (土) 14:58:13 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209146145813_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209146145813"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������Ƃ����d���b���Ă����Ƃ���͊m���ɕ��ɂɂ͒������^�C�v�ł��ˁB<br>
-���͂̈������܂����������A���̑ޔp�I�ȕ��͋C�Ƃ܂����񂮁�<br>
-�ǂ������ł����B<br>
-����ɂ��Ă����z�o�x��E�E�E�B�ӂ��B<br>
+<font size=3 color=#606060>ちょっとだけ重い話っていうところは確かに文庫には珍しいタイプですね。<br>
+文章の引き締まった感じが、その退廃的な雰囲気とまっちんぐ♪<br>
+良い感じでした。<br>
+それにしても感想出遅れ・・・。ふう。<br>
 <br>
-�G����\���ɂ��āB<br>
-����͐l���ꂼ��A�����ɂ���Ă��邾���ɁE�E�E<br>
-����܂��l���ꂼ�ꎋ�_���Ⴄ�̂ł͂Ȃ��ł��傤���B<br>
-�{�N�������ƕK���ƌ����Ă����قǁE�E�E�ՂɂՂɂ��������ɂȂ��Ă��܂���(���ȃ|�J�[���j<br>
-�܂��́A�X�g�[���[���������肳���邱�ƁE�E�E<br>
-�G���͉e�̗v�f�E�E�E<br>
+萌える表現について。<br>
+これは人それぞれ、微妙にずれているだけに・・・<br>
+これまた人それぞれ視点が違うのではないでしょうか。<br>
+ボクが書くと必ずと言っていいほど・・・ぷにぷにした感じになってしまうし(自己ポカーン）<br>
+まずは、ストーリーをしっかりさせること・・・<br>
+萌えは影の要素・・・<br>
 <br>
-�̂ق����A�������������������܂���i���s�ł��ĂȂ��{�N�������̂��Ȃ�ł����ǁj</font>
+のほうが、正しいあり方かもしれません（実行できてないボクが言うのもなんですけど）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> RE: ���z�Ł`����</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> RE: 感想で〜すっ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/14 (�y) 14:50:45 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209146145045&log=toisan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209146145045"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/14 (土) 14:50:45 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209146145045_log_toisan.cgi">返信</a>　削除<input type=checkbox name="target" value="200209146145045"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�@������ݎn�߂�ƁA�i���Ɉ��܂Ȃ��Ⴂ���Ȃ��̂ˁB</font><br>
-���A���͂�ǂݕԂ��ċC�Â������ǁA�i������Ȃ��̂ˁB<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;　一錠飲み始めると、永遠に飲まなきゃいけないのね。</font><br>
+あ、文章を読み返して気づいたけど、永遠じゃないのね。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="toisan">
@@ -297,16 +297,16 @@ mk8426����<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="toisan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=toisan">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_toisan.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���������i���z�f����</title>
+<title>龍酒さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���������i���z�f����</font>
+<font size=5>龍酒さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="ryuhju">
 <input type=hidden name="nj" value="NhqKJMA17v">
 <input type=hidden name="res" value="4">
-<h4 align=center>�� �L���ԍ� 4 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 4 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w���X�X�X�E�k�����f���I�[�o�[�q�[�g��x��ǂނɂ͉��̃����N���N���b�N"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z��y�N�A�ŋ߂͗����o�ԑ����񂶂�Ȃ��́H�@�������o�Ԃ�������ƍ����������킯�Łc�c�B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『続々々々・Ｌｅｔ’ｓオーバーヒート♪』を読むには下のリンクをクリック"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】後輩君、最近は玲一より出番多いんじゃないの？　しかし出番が増えると困難も増えるわけで……。
 &gt; 
 &gt; http://ts.novels.jp/novel/200112/18230553/over_heat5.html</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,36 +47,36 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> ���Ђ����Ԃ�ł�</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> おひさしぶりです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/07 (��) 12:10:39 <strong>��</strong> ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211074121039&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211074121039"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/07 (木) 12:10:39 <strong>▽</strong> 龍酒 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211074121039_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200211074121039"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@����Ƃ̂��Ƃłr�`�j�d�̑�񕔂��͂��߂邱�ƂɂȂ�܂����B<br>
+<font size=3 color=#606060>　やっとのことでＳＡＫＥの第二部をはじめることになりました。<br>
 <br>
-�@����8426�l<br>
-�@�D���ƃt�B�m������̂��Ƃɂ��Ă͑��b�ȍ~�ŏ��X�ɖ��炩�ɂȂ��Ă����Ƃ������Ƃł��肢���܂��B<br>
-�@�ł͂��ꂩ����X�������肢���܂��B</font>
+　ｍｋ8426様<br>
+　優美とフィノ＝恭二のことについては第二話以降で徐々に明らかになっていくということでお願いします。<br>
+　ではこれからも宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/05 (��) 06:08:24 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211052060824&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211052060824"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/05 (火) 06:08:24 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211052060824_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200211052060824"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������I<br>
-�����Ȃ�O���ɔ�т܂����B<br>
-�������D������͂��̍��ň�̉������Ă�����ł��傤�˂��B���q�l�Ȃ񂩂ƒm�荇���Ȃ�āB<br>
-����͂����ƃt�B�m������͈�̂ǂ��������݂Ȃ�ł��傤�H���_�����H<br>
-����͂܂��܂��ߋ��ɂ��̍��ŉ����������������ÁX�ł��ˁB<br>
+<font size=3 color=#606060>うぉう！<br>
+いきなり外国に飛びますか。<br>
+しかし優美さんはこの国で一体何をしていたんでしょうねぇ。王子様なんかと知り合いなんて。<br>
+それはそうとフィノ＝恭二は一体どういう存在なんでしょう？精神同居？<br>
+これはますます過去にこの国で何があったか興味津々ですね。<br>
 </font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
@@ -85,53 +85,53 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> �w�r�`�j�d�`�a�n�s�s�k�d II�`�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 『ＳＡＫＥ〜ＢＯＴＴＬＥ II〜』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/05 (��) 01:04:36 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211052010436&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211052010436"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/05 (火) 01:04:36 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211052010436_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200211052010436"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z����͈�C�ɊO���Ɉڂ�A�r�`�j�d��񕔃X�^�[�g���I�I<br>
+<font size=3 color=#606060>【推薦文】舞台は一気に外国に移り、ＳＡＫＥ第二部スタートっ！！<br>
 <br>
-<a href=http://ts.novels.jp/novel/200112/18230553/sake_05.html target=_top>http://ts.novels.jp/novel/200112/18230553/sake_05.html</a></font>
+<a href="../../novel/200112/18230553/sake_05.html" target=_top>http://ts.novels.jp/novel/200112/18230553/sake_05.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/13 (��) 12:33:46 <strong>��</strong> ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200209135123346&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209135123346"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/13 (金) 12:33:46 <strong>▽</strong> 龍酒 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200209135123346_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200209135123346"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�x���Ȃ�܂��������z���肪�Ƃ��������܂��B<br>
-����8426�l<br>
-<font color="#ff88cc">���������y���݂ł��Ȃ�</font><br>
-�{���ɂ��肪�Ƃ��������܂��B�b���������̂Ƃ��Ă͂����������z����Ԃ��ꂵ�������Â��闝�R�ɂȂ����肵�܂��B<br>
-�d�g�d���l<br>
-<font color="#ff88cc">�����u���[���L����</font><br>
-�@���͌�y�͂����j�ɖ߂������̂܂܂����������Ă����Ƃ��낾�����̂ł����A����Ȃ�����������ł��Ă��炢�܂��傤��</font>
+<font size=3 color=#606060>遅くなりましたが感想ありがとうございます。<br>
+ｍｋ8426様<br>
+<font color="#ff88cc">＞続きが楽しみですなぁ</font><br>
+本当にありがとうございます。話を書くものとしてはこういう感想が一番うれしく書きつづける理由になったりします。<br>
+電波妖精様<br>
+<font color="#ff88cc">＞ラブリー妹キャラ</font><br>
+　実は後輩はすぐ男に戻すかこのままいくか迷っていたところだったのですが、これならもう少し女でいてもらいましょうか</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 22:59:09 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200209102225909&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102225909"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 22:59:09 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200209102225909_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102225909"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�ށB<br>
-�S������ĂȂ��ˁA���̏��̃q�g�i�΁j�B<br>
-�������A��y�N���́i���A�����u��y�����v���ȁE�E�E�΁j���ꂩ��ǂ��Ȃ�̂��B<br>
-�������y���݂ł��Ȃ��B</font>
+<font size=3 color=#606060>うーむ。<br>
+全く懲りてないね、この女のヒト（笑）。<br>
+しかし、後輩クンは（あ、もう「後輩ちゃん」かな・・・笑）これからどうなるのやら。<br>
+続きが楽しみですなぁ。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -139,103 +139,103 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> �ɂ�E�E�E</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> にゃ・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 22:20:20 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200209102222020&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102222020"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 22:20:20 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200209102222020_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102222020"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ɂ��ė��s�s�ȁE�E�E<br>
-����ɂ��Ă��^�T���^�N���[�X���������̐l���āE�E�E<br>
-���������E�E�E<br>
-���̗��s�s���������ł��ˁB<br>
+<font size=3 color=#606060>にゃんて理不尽な・・・<br>
+それにしても某サンタクロースだった女の人って・・・<br>
+いったい・・・<br>
+この理不尽さがいいですね。<br>
 <br>
-��Ԃ�[���L�����E�E�E������TS�B<br>
-�����E�E�E�c�{�ɋ߂���I�I</font>
+らぶりー妹キャラ・・・しかもTS。<br>
+くぅ・・・ツボに近いよ！！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> �w���X�X�X�X�E�k�����f���I�[�o�[�q�[�g��x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> 『続々々々々・Ｌｅｔ’ｓオーバーヒート♪』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 20:45:02 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200209102204502&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102204502"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 20:45:02 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200209102204502_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102204502"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z����͂��̂��b�̃J�M���ɂ���(�H)�d�v�ȃL�������o��!?�@�c�c�������܂���y�N�A�������肩�킢���Ȃ�������ā�<br>
+<font size=3 color=#606060>【推薦文】今回はこのお話のカギをにぎる(？)重要なキャラが登場!?　……しかしまあ後輩君、すっかりかわいくなっちゃって♪<br>
 <br>
-<a href=http://ts.novels.jp/novel/200112/18230553/over_heat6.html target=_top>http://ts.novels.jp/novel/200112/18230553/over_heat6.html</a></font>
+<a href="../../novel/200112/18230553/over_heat6.html" target=_top>http://ts.novels.jp/novel/200112/18230553/over_heat6.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/26 (��) 23:32:15 <strong>��</strong> ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208261233215&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208261233215"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/26 (月) 23:32:15 <strong>▽</strong> 龍酒 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208261233215_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200208261233215"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�d�g�d���l�A�����W�S�Q�U�l�����z���肪�Ƃ��������܂��B<br>
-�ɂ��Ă����G�v�����i���j�]���ɂ����Ȃ��B�t�Ɍ�y�h�����͕̂]�������Ȃ�<br>
-�d�g�d���l<br>
-<font color="#ff88cc">���^����[�����͎��ĂȂ���</font><br>
-�@�l�I�ɂ͖^�n�[�g�t����z�����ڎw���Ă��܂��B<br>
-�����W�S�Q�U�l<br>
-<font color="#ff88cc">�����肪���ł�����<br>
-������ɂ���</font><br>
-�ɂ������B<br>
-�@�����X�g�[���[�̍˔\�͑S������܂���B���i�����Ă��炢�܂��B</font>
+<font size=3 color=#606060>電波妖精様、ｍｋ８４２６様ご感想ありがとうございます。<br>
+にしても裸エプロン（仮）評判にいいなあ。逆に後輩刺したのは評判悪いなあ<br>
+電波妖精様<br>
+<font color="#ff88cc">＞某しゅー○っは似てなくも</font><br>
+　個人的には某ハートフル宅配漫画を目指しています。<br>
+ｍｋ８４２６様<br>
+<font color="#ff88cc">＞ありがちですけど<br>
+＞もろにお約束</font><br>
+痛たたた。<br>
+　自分ストーリーの才能は全くありません。精進させてもらいます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �^�c�ψ����A��������ɘA���ł��B</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 運営委員より、龍酒さんに連絡です。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/25 (��) 23:02:20 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208250230220&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208250230220"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/25 (日) 23:02:20 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208250230220_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200208250230220"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060> kou@�^�c�ψ��ł��B<P>�@<font size=+1>��������ɘA�����܂��B</font></P><br>
-[�f�ڊ���]�̒ʒm���[���𑗂����̂ł����A�u�t�������@�t�������������v�ŋA���Ă��Ă��܂��܂����B<br>
-�@���萔�ł����A���[������M�\�t�g�̐ݒ���m�F������A����x�@<B><a href=mailto:admin@ts.novels.jp>admin@ts.novels.jp</a></B>�Ƀ��[�����Ă��������Ȃ��ł��傤���B<br>
-�@��낵�����肢���܂��B</font>
+<font size=3 color=#606060> kou@運営委員です。<P>　<font size=+1>龍酒さんに連絡します。</font></P><br>
+[掲載完了]の通知メールを送ったのですが、「Ｕｓｅｒ　Ｕｎｋｎｏｗｎ」で帰ってきてしまいました。<br>
+　お手数ですが、メール送受信ソフトの設定を確認した後、今一度　<B><a href=mailto:admin@ts.novels.jp>admin@ts.novels.jp</a></B>にメールしていただけないでしょうか。<br>
+　よろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/25 (��) 21:30:54 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208250213054&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208250213054"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/25 (日) 21:30:54 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208250213054_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200208250213054"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������B<br>
-�Ȃ�[���ߕ����E�E�E�B<br>
-�܂��A���肪���ł����ǁi���j�B<br>
+<font size=3 color=#606060>うわっ。<br>
+なんつー締め方を・・・。<br>
+まあ、ありがちですけど（爆）。<br>
 <br>
-�������A���h�ɎQ�����Ȃ��Ńo�C�g���o�C�g�悪���h��Ƃ�������A�Ƃ����W�J������ɂ��񑩂ł��˂��B�ʔ������炢�����ǁB<br>
+しかし、合宿に参加しないでバイト→バイト先が合宿先といっしょ、という展開ももろにお約束ですねぇ。面白いからいいけど。<br>
 <br>
-���G�v�����i���j�A���΁I</font>
+裸エプロン（仮）、爆笑！</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="ryuhju">
@@ -243,16 +243,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="ryuhju">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=ryuhju">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_ryuhju.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

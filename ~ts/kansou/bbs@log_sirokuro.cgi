@@ -129,7 +129,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】とある学校で起きた、隠れた大事件。主人公君もいろいろと大変です。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200408/24222853/invader.html target=_top>http://ts.novels.jp/novel/200408/24222853/invader.html</a></font>
+<a href="../../novel/200408/24222853/invader.html" target=_top>http://ts.novels.jp/novel/200408/24222853/invader.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -176,7 +176,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】独特なタッチのイラストが、物語に何とも言えぬアクセントを添えてくれています。担当は1コマ目が妙にツボに入ってしまいました。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200408/24222853/sonogo.html target=_top>http://ts.novels.jp/novel/200408/24222853/sonogo.html</a></font>
+<a href="../../novel/200408/24222853/sonogo.html" target=_top>http://ts.novels.jp/novel/200408/24222853/sonogo.html</a></font>
 </td></table>
 </td></tr></table>
 

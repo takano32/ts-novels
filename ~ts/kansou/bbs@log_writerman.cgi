@@ -163,7 +163,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】誰だ、「こんな通り魔ならこっちから襲われに行く」なんて言ってるのはっ？（笑）。<br>
-<a href=http://ts.novels.jp/novel/200707/14133526/sufferer.htm target=_top>http://ts.novels.jp/novel/200707/14133526/sufferer.htm</a></font>
+<a href="../../novel/200707/14133526/sufferer.htm" target=_top>http://ts.novels.jp/novel/200707/14133526/sufferer.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -254,7 +254,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ＴＳっ娘になった親友を気にかける主人公……しかし、世の中そうそう思い通りにはいかないのです（笑）。<br>
-<a href=http://ts.novels.jp/novel/200707/14133526/tennyo.htm target=_top>http://ts.novels.jp/novel/200707/14133526/tennyo.htm</a></font>
+<a href="../../novel/200707/14133526/tennyo.htm" target=_top>http://ts.novels.jp/novel/200707/14133526/tennyo.htm</a></font>
 </td></table>
 </td></tr></table>
 

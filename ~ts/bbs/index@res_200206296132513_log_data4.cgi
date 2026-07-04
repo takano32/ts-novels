@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���S��ONLY�y�[�W</title>
+<title>初心者ONLYページ</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���S��ONLY�y�[�W</font>
+<font size=5>初心者ONLYページ</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����I�Ȏ���ł�OK�̃t���[�ȏ������݂����C���ɂ����{�[�h�ł��B<br>�ǂ������C�y�ɂ��������݂��������B���ⓙ�����������������B<br>���@����ȊO�̎���A�G�k�̓N���G�[�^�[�Y�t���A�łǂ����B<br></font>
+<font color=#608080>初歩的な質問でもOKのフリーな書き込みをメインにしたボードです。<br>どうぞお気軽にお書き込みください。質問等もお書きください。<br>※　それ以外の質問、雑談はクリエーターズフロアでどうぞ。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,33 +15,33 @@
 <input type=hidden name="log" value="data4">
 <input type=hidden name="nj" value="lKT8QxHoum">
 <input type=hidden name="res" value="5">
-<h4 align=center>�� �L���ԍ� 5 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 5 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2: �b�̍����Ȃ�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� kou����
-&gt; &gt;�킽���́A�܂��X�g�[���̃��t�X�P�b�`������Ă���A���͂ɓ��t�����ē��e�������Ă����肵�܂��B
-&gt; &gt;�F�l�́A�ǂ̂悤�Ɏ��M����Ă��܂����H
-&gt; ���̓l�^��p�������Ȃ���̂������āA�l�^���v�������񂾂瑦�������݁A�ƂɋA��ǂ��l�^���g���ď����ƁB
-&gt; ���̂������ő�̂�10KB�ȏ�̕���������ł����A����܂�[���s���Ȃ��̂ŁA�񑡂͍s���܂���(^^�U
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2: 話の作り方など"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ kouさん
+&gt; &gt;わたしは、まずストーリのラフスケッチを作ってから、文章に肉付けして内容を書いていたりします。
+&gt; &gt;皆様は、どのように執筆されていますか？
+&gt; 私はネタ専用メモ帳なるものがあって、ネタが思い浮かんだら即書き込み、家に帰り良いネタを使って書くと。
+&gt; そのおかげで大体は10KB以上の物が多いんですが、あんまり納得行かないので、寄贈は行いません(^^ゞ
 &gt; 
-&gt; �@�܂��A�ЂƂƂ���ł�������t���i�ł����̂��ȁH�j�����Ă��[�݂��������Ă������ł����A����ς�[���s���Ȃ��̂Ŋ񑡂͂��܂���E�E�E�E�i�{���ɂ���ł����̂��H�j</textarea><br>
+&gt; 　まあ、ひととおりできたら肉付け（でいいのかな？）をしてより深みを持たしているつもりですが、やっぱり納得行かないので寄贈はしません・・・・（本当にこれでいいのか？）</textarea><br>
 tag<input type=checkbox name="tag" value="1" checked> 
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -54,41 +54,41 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> Re4:�A�N�Z�X�s��</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> Re4:アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/09 (��) 23:50:09 <strong>��</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208095235009&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208095235009"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/09 (金) 23:50:09 <strong>▽</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208095235009_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208095235009"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ʂ肷���肳�܁A���̑��������ĉ��������݂Ȃ��܂�<br>
+<font size=3 color=#606060>通りすがりさま、その他発言して下さったみなさまへ<br>
 <br>
-<font color="#cc88ff">&gt; Internet Security�𗧂��グ�ăI�v�V������Internet Security��<br>
-&gt; �g���I�v�V������I����Web�Ɂunovels.jp�v���T�C�g�ǉ����āA<br>
-&gt; �Q�ƌ���������Ƒ��v�ł����B<br>
-&gt; �v���C�o�V�[OFF�ɂ͈Ⴂ�Ȃ��ł����A������̕����啪�ǂ��̂ł͂Ȃ����ƁB</font><br>
+<font color="#cc88ff">&gt; Internet Securityを立ち上げてオプションのInternet Securityで<br>
+&gt; 拡張オプションを選択しWebに「novels.jp」をサイト追加して、<br>
+&gt; 参照元を許可すると大丈夫でした。<br>
+&gt; プライバシーOFFには違いないですが、こちらの方が大分良いのではないかと。</font><br>
 <br>
-�����悤�ɐݒ肵����A���v�ł���(kou���܂̂����ߒʂ�ts.novels.jp�ɂ��܂���)�B<br>
+同じように設定したら、大丈夫でした(kouさまのお勧め通りts.novels.jpにしました)。<br>
 <br>
-�݂Ȃ��܁A�ق�Ƃ��ɂ��肪�Ƃ��������܂����B</font>
+みなさま、ほんとうにありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> Re4:�A�N�Z�X�s��</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> Re4:アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/09 (��) 07:25:27 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208095072527&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208095072527"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/09 (金) 07:25:27 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208095072527_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208095072527"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�����ł��B<br>
-&gt;���Ȃ݂ɁA���̃T�C�g�̕���͂��ׂ�ON�ł������܂��B<br>
-&gt;���̃T�C�g�ɉ������ʂȐݒ肪����̂ł��傤���H</font><br>
-�@���̂��Ƃł����A�s���A�N�Z�X��A��i���ꊇ�Ń_�E�����[�h���郍�{�b�g�������Ă��āA�����炭�A���ꂪ�����œ]���ʂ��I�[�o�[���Ă��܂��܂����B<br>
-�@����ŁA�T�[�o�[���ړ����āA����Ȑݒ�ɂ��������ł��B�@�L���ԍ��@25,26���Q�Ƃ��āA�ݒ���s���Ă�������<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;続きです。<br>
+&gt;ちなみに、他のサイトの物語はすべてONでも見られます。<br>
+&gt;このサイトに何か特別な設定があるのでしょうか？</font><br>
+　そのことですが、不正アクセスや、作品を一括でダウンロードするロボットが走っていて、おそらく、それが原因で転送量がオーバーしてしまいました。<br>
+　それで、サーバーを移動して、特殊な設定にしたそうです。　記事番号　25,26を参照して、設定を行ってください<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -96,17 +96,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> Re4:�A�N�Z�X�s��</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> Re4:アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/08 (��) 23:59:15 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084235915&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084235915"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/08 (木) 23:59:15 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084235915_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084235915"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;Internet Security�𗧂��グ�ăI�v�V������Internet Security��<br>
-&gt;�g���I�v�V������I����Web�Ɂunovels.jp�v���T�C�g�ǉ����āA<br>
-&gt;�Q�ƌ���������Ƒ��v�ł����B</font><br>
-ts.novels.jp�̕��������Ǝv�����ǂ��H<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;Internet Securityを立ち上げてオプションのInternet Securityで<br>
+&gt;拡張オプションを選択しWebに「novels.jp」をサイト追加して、<br>
+&gt;参照元を許可すると大丈夫でした。</font><br>
+ts.novels.jpの方がいいと思うけどぉ？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -114,39 +114,39 @@ ts.novels.jp�̕��������Ǝv�����ǂ��H<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> Re3:�A�N�Z�X�s��</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> Re3:アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/08 (��) 22:30:22 <strong>��</strong> �ʂ肷���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084223022&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084223022"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/08 (木) 22:30:22 <strong>▽</strong> 通りすがり </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084223022_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084223022"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��TNorton Internet Security�𓱓����ē������ۂɂȂ����҂Ȃ̂ł���<br>
+<font size=3 color=#606060>先週Norton Internet Securityを導入して同じ現象になった者なのですが<br>
 <br>
-<font color="#cc88ff">&gt; �ł���΁AOFF�ɂ͂������Ȃ��̂ł����c</font><br>
+<font color="#cc88ff">&gt; できれば、OFFにはしたくないのですが…</font><br>
 <br>
-Internet Security�𗧂��グ�ăI�v�V������Internet Security��<br>
-�g���I�v�V������I����Web�Ɂunovels.jp�v���T�C�g�ǉ����āA<br>
-�Q�ƌ���������Ƒ��v�ł����B<br>
-�v���C�o�V�[OFF�ɂ͈Ⴂ�Ȃ��ł����A������̕����啪�ǂ��̂ł͂Ȃ����ƁB</font>
+Internet Securityを立ち上げてオプションのInternet Securityで<br>
+拡張オプションを選択しWebに「novels.jp」をサイト追加して、<br>
+参照元を許可すると大丈夫でした。<br>
+プライバシーOFFには違いないですが、こちらの方が大分良いのではないかと。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> Re3:�A�N�Z�X�s��</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> Re3:アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/08 (��) 21:04:19 <strong>��</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084210419&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084210419"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/08 (木) 21:04:19 <strong>▽</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084210419_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084210419"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>kou�����<br>
+<font size=3 color=#606060>kouさんへ<br>
 <br>
-�����ł��B<br>
-���Ȃ݂ɁA���̃T�C�g�̕���͂��ׂ�ON�ł������܂��B<br>
-���̃T�C�g�ɉ������ʂȐݒ肪����̂ł��傤���H<br>
+続きです。<br>
+ちなみに、他のサイトの物語はすべてONでも見られます。<br>
+このサイトに何か特別な設定があるのでしょうか？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -154,24 +154,24 @@ Internet Security�𗧂��グ�ăI�v�V������Internet Security��<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> Re3:�A�N�Z�X�s��</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> Re3:アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/08 (��) 21:01:14 <strong>��</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084210114&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084210114"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/08 (木) 21:01:14 <strong>▽</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084210114_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084210114"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>RES���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>RESありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt; ���̏ꍇ�́A�g�b�v�y�[�W����ł��A����Ȃ��ꍇ�́ANorton Internet security�i�𓱓����Ă���l�́j�̃v���C�o�V�[�ی�A��OFF�ɂ���Ɗϗ����\�ł��B</font><br>
+<font color="#cc88ff">&gt; その場合は、トップページからでも、入れない場合は、Norton Internet security（を導入している人は）のプライバシー保護、をOFFにすると観覧が可能です。</font><br>
 <br>
-OFF�ɂ�����A���邱�Ƃ��ł��܂����B<br>
-�������ANorton Internet Security �𓱓������̂͋��N�̂P�Q���ŁA���̊Ԃ�<br>
-�_�C�����A�b�v����t���b�c�h�r�c�m�ɂ͕ύX���܂������A<br>
-�S�����Ȃ����邱�Ƃ��ł����̂ł��B<br>
-Norton Internet Security �̃v���C�o�V�[�ی�͂������Ă��Ȃ��̂ŁA<br>
-�Ȃ��Ȃ�ł��傤���H<br>
-�ł���΁AOFF�ɂ͂������Ȃ��̂ł����c<br>
+OFFにしたら、見ることができました。<br>
+しかし、Norton Internet Security を導入したのは去年の１２月で、その間に<br>
+ダイヤルアップからフレッツＩＳＤＮには変更しましたが、<br>
+全く問題なく見ることができたのです。<br>
+Norton Internet Security のプライバシー保護はいじっていないので、<br>
+なぜなんでしょうか？<br>
+できれば、OFFにはしたくないのですが…<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -179,18 +179,18 @@ Norton Internet Security �̃v���C�o�V�[�ی�͂������Ă��Ȃ��̂ŁA<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> Re2:�A�N�Z�X�s��</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> Re2:アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/08 (��) 12:51:34 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084125134&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084125134"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/08 (木) 12:51:34 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084125134_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084125134"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;����̍�i�ł͂Ȃ��A��i���ׂ�NG�Ȃ̂ł��傤���H<br>
-&gt;����̍�i�ł�����A��i���������Ă���������ƍK���ł��B</font><br>
-���̏ꍇ�́A�g�b�v�y�[�W����ł��A����Ȃ��ꍇ�́ANorton Internet security�i�𓱓����Ă���l�́j�̃v���C�o�V�[�ی�A��OFF�ɂ���Ɗϗ����\�ł��B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;特定の作品ではなく、作品すべてNGなのでしょうか？<br>
+&gt;特定の作品でしたら、作品名を教えていただけると幸いです。</font><br>
+その場合は、トップページからでも、入れない場合は、Norton Internet security（を導入している人は）のプライバシー保護、をOFFにすると観覧が可能です。<br>
 <br>
-�ׂ������ƒm�肽���l�̓��[�����Ă��������B<br>
+細かいこと知りたい人はメールしてください。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -198,24 +198,24 @@ Norton Internet Security �̃v���C�o�V�[�ی�͂������Ă��Ȃ��̂ŁA<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> Re:�A�N�Z�X�s��</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> Re:アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/08 (��) 02:44:20 <strong>��</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084024420&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084024420"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/08 (木) 02:44:20 <strong>▽</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084024420_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084024420"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Hitomi���܁A<br>
+<font size=3 color=#606060>Hitomiさま、<br>
 <br>
-����̍�i�ł͂Ȃ��A��i���ׂ�NG�Ȃ̂ł��傤���H<br>
-����̍�i�ł�����A��i���������Ă���������ƍK���ł��B<br>
+特定の作品ではなく、作品すべてNGなのでしょうか？<br>
+特定の作品でしたら、作品名を教えていただけると幸いです。<br>
 <br>
-�܂��A���g���ɂȂ��Ă���u���E�U�͉��ł��傤���H<br>
-�킽���́AIE6�Ō��Ă���̂ł����A���ɖ��͂���܂���B<br>
+また、お使いになっているブラウザは何でしょうか？<br>
+わたしは、IE6で見ているのですが、特に問題はありません。<br>
 <br>
-�A�N�Z�X�s�ɂȂ�O�ɂȂɂ�PC�ɃC���X�g�[���������̂�<br>
-�Ȃ��ł����H�܂��͐ݒ��ς������̂͂Ȃ��ł����H<br>
-�i�_�E�����[�h�c�[���Ƃ��Z�L�����e�B�\�t�g�Ȃǁj<br>
+アクセス不可になる前になにかPCにインストールしたものは<br>
+ないですか？または設定を変えたものはないですか？<br>
+（ダウンロードツールとかセキュリティソフトなど）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -223,57 +223,57 @@ Norton Internet Security �̃v���C�o�V�[�ی�͂������Ă��Ȃ��̂ŁA<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> �A�N�Z�X�s��</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> アクセス不可</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/08 (��) 01:23:22 <strong>��</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084012322&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084012322"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/08 (木) 01:23:22 <strong>▽</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084012322_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084012322"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>starbow���܁A�����āA�ʂ肷����̑n�앶�|���܁A<br>
+<font size=3 color=#606060>starbowさま、そして、通りすがりの創作文芸さま、<br>
 <br>
-�����������������������܂��āA���肪�Ƃ��������܂��B<br>
+さっそくお答えいただきまして、ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt; �P�D�T�[�o�[�̓]���ʂ������āA�A�N�Z�X�����Ɉ������������B</font><br>
+<font color="#cc88ff">&gt; １．サーバーの転送量が多くて、アクセス制限に引っかかった。</font><br>
 <br>
-���i�ߑO�P�F�P�O�j������Ă݂܂������A����ς蓯���Ǐ�ł��B<br>
-�����Ƃ��A���̎��ԑт̓T�[�o�[���Z�������Ԃ����m��܂���̂ŁA<br>
-�����̒������ɂ�����x�����Ă݂܂��B<br>
+今（午前１：１０）もやってみましたが、やっぱり同じ症状です。<br>
+もっとも、この時間帯はサーバーが忙しい時間かも知れませんので、<br>
+明日の朝早くにもう一度試してみます。<br>
 <br>
-<font color="#cc88ff">&gt; �Q�DTOP�y�[�W����ł͂Ȃ��A���ڃy�[�W�ɃW�����v���悤�Ƃ����B</font><br>
+<font color="#cc88ff">&gt; ２．TOPページからではなく、直接ページにジャンプしようとした。</font><br>
 <br>
-<font color="#cc88ff">&gt;���������ł����A�ǂ̃y�[�W�ł����\�����ꂽ�̂��A<br>
-&gt;���������ق�����낵�����Ǝv���܂����A</font><br>
+<font color="#cc88ff">&gt;さっそくですが、どのページでそう表示されたのか、<br>
+&gt;を書いたほうがよろしいかと思いますが、</font><br>
 <br>
-�u���C�ɓ���v�����C���y�[�W�ɒu���A���������i�����N���b�N���Ă��܂��B<br>
-���܂ł́A����ŃA�N�Z�X�ł����̂ł����B<br>
-�����ɁA�܂��g�b�v�y�[�W�ɖ߂�A�������烁�C���؁[���ɓ����Ă݂܂������A<br>
-�S�������Ǐ󂪏o�܂����B<br>
+「お気に入り」をメインページに置き、そこから作品名をクリックしています。<br>
+今までは、これでアクセスできたのですが。<br>
+試しに、まずトップページに戻り、そこからメインぺーじに入ってみましたが、<br>
+全く同じ症状が出ました。<br>
 <br>
-�����̒�����Ă݂ăA�N�Z�X�ł���� 1 �������ł��傤���A<br>
-���������łȂ�������A�ǂ������炢����ł��傤���H<br>
+明日の朝やってみてアクセスできれば 1 が原因でしょうが、<br>
+もしそうでなかったら、どうしたらいいんでしょうか？<br>
 <br>
-�������ʂ�񍐂��܂��̂ŁA�܂���낵�����肢���܂��B</font>
+明日結果を報告しますので、またよろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> �ŁA���ǁE�E�E</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> で、結局・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/08 (��) 01:14:48 <strong>��</strong> �^ </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084011448&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084011448"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/08 (木) 01:14:48 <strong>▽</strong> 某 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084011448_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084011448"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������̌����͉���������H</font>
+<font size=3 color=#606060>文字化けの原因は何だったん？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data4">
@@ -281,16 +281,16 @@ Norton Internet Security �̃v���C�o�V�[�ی�͂������Ă��Ȃ��̂ŁA<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data4">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data4">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data4.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

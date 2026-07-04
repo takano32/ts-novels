@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,32 +15,32 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="Btr0rYgbDQ">
 <input type=hidden name="res" value="477">
-<h4 align=center>�� �L���ԍ� 477 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 477 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2:�E�ӂ����̂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� NHK����
-&gt; �� ��_������
-&gt; &gt; ����N�F���́A�u�l�͒N�ł��l���E������̂��Ƃ����z���͂Ɍ����Ă���v�Ƃ����Ӗ��̂��Ƃ��G�b�Z�C�ŏ����Ă��܂����B�̂̂ق����m��Ȃ��Ƃ���Ől������ł��������Ȃ񂶂�Ȃ����Ȃ��B
-&gt; �@�m���y��s�S���w����z�i[��]�����@�́j�ɏ�L�̂��Ƃ𗠕t����悤�Ȃ��Ƃ������Ă������悤�ȁc�c�B������Ɩ{���茳�ɂȂ��̂Ŋm���߂��Ȃ��B
-&gt; ���Ƃ������̏����ُ̈퐫���N���[�Y�A�b�v�����񂾂��ǁA�l�Ԃ͖{���I�ɂ����������̂��ƍl����΁A�@�����⃂�����Ƃ������̂́A�����������̂�������邽�߂ɂ��񂴂����āA��̂ɐl�Ԃ͖\�͂��������Ƃ����I���������A���Ă��ƂȂ񂾂�ˁB
-&gt;  �m���ɁA���S�K�N�����̎��ɂ��Ă����������ǁA�����Ɉُ�̃��b�e����\�肽����񓹂ɂ́A������ƌ��C�����܂��ˁB���Ȃ݂ɁA���NA�̓��N�^�[���m�̂悤�ȉ����ł͂Ȃ��A��e���D�iMaternal Deprivation�j�Ə����̕s�^�������ŁA���̎������N�����Ă��܂����悤�ł��B
-&gt; �@�ł��A���������q�ǂ��͂܂���������g�ɂ��Ă��Ȃ�����q�ǂ��Ȃ񂾂��A�������������͂��ꂩ������X�͋N����񂾂낤�Ȃ��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2:殺意を持つのは"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ NHKさん
+&gt; ▼ 矢治浩平さん
+&gt; &gt; 筒井康孝が昔、「人は誰でも人を殺しうるのだという想像力に欠けている」という意味のことをエッセイで書いていました。昔のほうが知らないところで人が死んでいただけなんじゃないかなあ。
+&gt; 　確か【非行心理学入門】（[著]福島　章）に上記のことを裏付けるようなことが書いてあったような……。ちょっと本が手元にないので確かめられない。
+&gt; ＞とかく件の少女の異常性がクローズアップされるんだけど、人間は本質的にそういうものだと考えれば、法整備やモラルというものは、そういうものを回避するためにそんざいして、大昔に人間は暴力を回避するという選択をした、ってことなんだよね。
+&gt;  確かに、酒鬼薔薇事件の時にしてもそうだけど、すぐに異常のレッテルを貼りたがる報道には、ちょっと嫌気がしますね。ちなみに、少年Aはレクター博士のような怪物ではなく、母親剥奪（Maternal Deprivation）と少しの不運が原因で、あの事件を起こしてしまったようです。
+&gt; 　でも、そもそも子どもはまだモラルを身につけていないから子どもなんだし、こういう事件はこれからも時々は起こるんだろうなぁ。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -53,61 +53,61 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[487]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> �ݒ肠�肪�Ƃ��������܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[487]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> 設定ありがとうございました</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/08 (��) 20:10:07  kagerou6 </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408080201007">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408080201007"></font>
+<font size=-1 color=#606060> 2004/08/08 (日) 20:10:07  kagerou6 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408080201007.cgi">返信</a>　削除<input type=checkbox name="target" value="200408080201007"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�ǂ����R�[�X�ݒ�쐬���Ă��������܂��Ċ��ӂł����i�Q�Q�j��<br>
-����Ŏv�������H�킦�܂��i�`�K�E�_��</font>
+<font size=4 color=#000000>どうもコース設定作成していただきまして感謝ですｍ（＿＿）ｍ<br>
+これで思う存分？戦えます（チガウダロ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[486]</font> <font size=4 color=#50d0d0> ���݂̃��[�X</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[486]</font> <font size=4 color=#50d0d0> 現在のレース</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/01 (��) 16:50:14  kagerou6 </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408010165014">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408010165014"></font>
+<font size=-1 color=#606060> 2004/08/01 (日) 16:50:14  kagerou6 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408010165014.cgi">返信</a>　削除<input type=checkbox name="target" value="200408010165014"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�ʉ߂��Ă���i�\��j�̔w�i�i�X���݁j�E�R�[�X�󋵂Ƃ����ǂ����ɏo���Ē����Ȃ��ł��傤��(�G^_^A<br>
-�Ȃɂ��Ȃ��̂łȂ��Ȃ��������ł�(�G^_^A</font>
+<font size=4 color=#000000>通過している（予定）の背景（街並み）・コース状況とかをどこかに出して頂けないでしょうか(；^_^A<br>
+なにもないのでなかなか厳しいです(；^_^A</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[485]</font> <font size=4 color=#50d0d0> �͂��܂�͖�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[485]</font> <font size=4 color=#50d0d0> はじまりは夜</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/01 (��) 14:00:57  ������ </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408010140057">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408010140057"></font>
+<font size=-1 color=#606060> 2004/08/01 (日) 14:00:57  ¥＝＄ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408010140057.cgi">返信</a>　削除<input type=checkbox name="target" value="200408010140057"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>  TS�L���m���{�[�������ɃX�^�[�g�B�������A�䂪�����������̃X�^�[�g�͂܂��܂��ł��B���[�X�����|�C���g�ɓ��鍠�ɓo�ꂵ�܂��B�G�Q�c�i�C�W�Q���X���^���j�E�E�E</font>
+<font size=4 color=#000000>  TSキャノンボールがついにスタート。しかし、我が¥＝＄＝¢のスタートはまだまだです。レースが第二ポイントに入る頃に登場します。エゲツナイ妨害ヲスルタメニ・・・</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[483]</font> <font size=4 color=#50d0d0> Re2:�uTS�L���m���{�[���v����オ���Ă��܂�����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[483]</font> <font size=4 color=#50d0d0> Re2:「TSキャノンボール」盛り上がってきましたね</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/07/21 (��) 22:37:05  �悵���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407213223705">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407213223705"></font>
+<font size=-1 color=#606060> 2004/07/21 (水) 22:37:05  よしおか </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407213223705.cgi">返信</a>　削除<input type=checkbox name="target" value="200407213223705"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� �l�n�m�c�n���^�c�ψ�����<br>
-<font color="#cc88ff">&gt; �@�u���܂����A�o�x�ꂽ�v�Ǝv���Ă�������������A������ł��x������܂���I�I</font><br>
+<font size=4 color=#000000>▼ ＭＯＮＤＯ＠運営委員さん<br>
+<font color="#cc88ff">&gt; 　「しまった、出遅れた」と思っていらっしゃる方も、今からでも遅くありません！！</font><br>
 <br>
-���܂����I�p�[�e�B�̂����������E�E�E�Ǝv���Ă���C��Ŗ��q�̐l�́H�ǂ������炢���̂ł��傤�B<br>
+しまった！パーティのごちそうが・・・と思っている海底で迷子の人は？どうしたらいいのでしょう。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -115,126 +115,126 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[482]</font> <font size=4 color=#50d0d0> Re:�uTS�L���m���{�[���v����オ���Ă��܂�����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[482]</font> <font size=4 color=#50d0d0> Re:「TSキャノンボール」盛り上がってきましたね</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/07/20 (��) 21:33:23  �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407202213323">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407202213323"></font>
+<font size=-1 color=#606060> 2004/07/20 (火) 21:33:23  ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407202213323.cgi">返信</a>　削除<input type=checkbox name="target" value="200407202213323"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�ق�ƂɈꎞ�͂ǂ��Ȃ邩�Ǝv���܂������A�F�l���Ƀm�b�Ă��������Ċ��ӂ��Ă��܂��B<br>
-�@�u���܂����A�o�x�ꂽ�v�Ǝv���Ă�������������A������ł��x������܂���I�I<br>
-�@���킵���́A������̃y�[�W�ŁB<br>
-<a href=http://ts.novels.jp/novel/200112/20210702/event01.htm target=_top>http://ts.novels.jp/novel/200112/20210702/event01.htm</a><br>
-�@�ߋ����O�͂�����B<br>
-<a href=http://ts.novels.jp/novel/200112/20210702/event02.htm target=_top>http://ts.novels.jp/novel/200112/20210702/event02.htm</a><br>
-�@�����_�ł̎Q���҈ꗗ�͂�����B<br>
-<a href=http://ts.novels.jp/novel/200112/20210702/event03.htm target=_top>http://ts.novels.jp/novel/200112/20210702/event03.htm</a></font>
+<font size=4 color=#000000>　ほんとに一時はどうなるかと思いましたが、皆様方にノッていただいて感謝しています。<br>
+　「しまった、出遅れた」と思っていらっしゃる方も、今からでも遅くありません！！<br>
+　くわしくは、こちらのページで。<br>
+<a href="../../novel/200112/20210702/event01.htm" target=_top>http://ts.novels.jp/novel/200112/20210702/event01.htm</a><br>
+　過去ログはこちら。<br>
+<a href="../../novel/200112/20210702/event02.htm" target=_top>http://ts.novels.jp/novel/200112/20210702/event02.htm</a><br>
+　現時点での参加者一覧はこちら。<br>
+<a href="../../novel/200112/20210702/event03.htm" target=_top>http://ts.novels.jp/novel/200112/20210702/event03.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[481]</font> <font size=4 color=#50d0d0> �X�p�[�N�����O�E���C��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[481]</font> <font size=4 color=#50d0d0> スパークリング・ワイン</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/07/20 (��) 04:01:37  ��ǎ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407202040137">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407202040137"></font>
+<font size=-1 color=#606060> 2004/07/20 (火) 04:01:37  一読者 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407202040137.cgi">返信</a>　削除<input type=checkbox name="target" value="200407202040137"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>TS�L���m���{�[���̊��z�͂����ł����̂ł��傤���B<br>
-��҂̊F����A�y����œǂ܂��Ă��������Ă܂��B<br>
+<font size=4 color=#000000>TSキャノンボールの感想はここでいいのでしょうか。<br>
+作者の皆さん、楽しんで読ませていただいてます。<br>
 <br>
-�ǂ��ł������悤�Ȃ����݂ł����A<br>
-<font color="#ff88cc">��[68]�́u�X�p�[�N�����O���C���i�A���R�[���x���̒Ⴂ�V�����p���j�v</font><br>
-�Ƃ��������́A���m�ł͂Ȃ��Ǝv���܂��B<br>
-�X�p�[�N�����O�E���C���͔��A�����C���̑��̂ŁA�V�����p�������̈��Ƃ����֌W�̂͂��ł��B<br>
+どうでもいいようなつっこみですが、<br>
+<font color="#ff88cc">＞[68]の「スパークリングワイン（アルコール度数の低いシャンパン）」</font><br>
+という部分は、正確ではないと思います。<br>
+スパークリング・ワインは発泡性ワインの総称で、シャンパンもその一種という関係のはずです。<br>
 <br>
-�ł��A���D����񂪒m��Ȃ��̂́A�Ȃ񂾂������Ă����ł��ˁB<br>
-�x����āH�@����ŁA���������q�Ƃ�������ʔ������B<br>
+でも、沙織ちゃんが知らないのは、なんだか可愛くていいですね。<br>
+騙されて？　飲んで、酔っ払う子とかいたら面白そう。<br>
 <br>
-�⑫�B�x���̓��m�ɂ��Ǝv���̂ŁA�Ⴂ�ꍇ������Ƃ͎v���܂��B<br>
-�i�l�I�ɂ́A�q�������߂�x���̃��m���X�p�[�N�����O�E���C���ƌĂԂ̂́A��R������܂����B�j</font>
+補足。度数はモノによると思うので、低い場合もあるとは思います。<br>
+（個人的には、子供が飲める度数のモノをスパークリング・ワインと呼ぶのは、抵抗がありますが。）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[480]</font> <font size=4 color=#50d0d0> �uTS�L���m���{�[���v����オ���Ă��܂�����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[480]</font> <font size=4 color=#50d0d0> 「TSキャノンボール」盛り上がってきましたね</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/07/18 (��) 08:00:28  �悵���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407180080028">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407180080028"></font>
+<font size=-1 color=#606060> 2004/07/18 (日) 08:00:28  よしおか </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407180080028.cgi">返信</a>　削除<input type=checkbox name="target" value="200407180080028"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�G���g���[������������Ă��āA����オ���Ē��܂����ˁB<br>
-�`�L�`�L�}�V�[�����A�L���m���{�[��1�E2�E3���A�O���[�g���[�X���i������ƈႤ���ȁH�j�ǂ�ȃ��[�X�ɂȂ�񂾂낤�B���̂��݁E�E�E<br>
-���A�Q���҂̏��W�߂Ȃ�������I</font>
+<font size=4 color=#000000>エントリーする方が増えてきて、盛り上がって着ましたね。<br>
+チキチキマシーンか、キャノンボール1・2・3か、グレートレースか（ちょっと違うかな？）どんなレースになるんだろう。たのしみ・・・<br>
+あ、参加者の情報集めなくっちゃ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[479]</font> <font size=4 color=#50d0d0> Re:�E�ӂ����̂�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[479]</font> <font size=4 color=#50d0d0> Re:殺意を持つのは</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/07/11 (��) 20:16:06  �悵���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407110201606">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407110201606"></font>
+<font size=-1 color=#606060> 2004/07/11 (日) 20:16:06  よしおか </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407110201606.cgi">返信</a>　削除<input type=checkbox name="target" value="200407110201606"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000> �����<br>
-<font color="#cc88ff">&gt; ���w���̂Ƃ��A�l�ׂ͗ɍ����Ă��郄�c���J�b�^�[�i�C�t�Ő؂낤�Ǝv�������Ƃ͂����B���Ȃ������͈̂�ɗE�C���Ȃ���������ŁA����ԈႦ�Ă���l���l���h���Ă��������ˁB</font><br>
-�āA���Ă܂����A�t����Ȃ����ȁH�E�ӂ��������邾���̗E�C��������������Ȃ������̂ł����āA�}����}�����Ȃ��̂́A�E�C���Ȃ����炾�Ǝv���܂����ǂˁB<br>
-���̂��A���Ȃ��E�C�̂ق������{��ςł���B</font>
+<font size=4 color=#000000> 矢治さん<br>
+<font color="#cc88ff">&gt; 小学生のとき、僕は隣に座っているヤツをカッターナイフで切ろうと思ったことはあるよ。やらなかったのは一に勇気がなかったからで、一歩間違えてたら僕も人を刺していたかもね。</font><br>
+て、仰ってますが、逆じゃないかな？殺意を押さえるだけの勇気があったからやらなかったのであって、抑制を抑えられないのは、勇気がないからだと思いますけどね。<br>
+やるのより、やらない勇気のほうが数倍大変ですよ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[478]</font> <font size=4 color=#50d0d0> �T�O�O���g�����L�O�C�x���g�̂��m�点</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[478]</font> <font size=4 color=#50d0d0> ５００万Ｈｉｔ記念イベントのお知らせ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/07/03 (�y) 20:49:19  �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407036204919">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407036204919"></font>
+<font size=-1 color=#606060> 2004/07/03 (土) 20:49:19  ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407036204919.cgi">返信</a>　削除<input type=checkbox name="target" value="200407036204919"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@���N�������ɂ����悢��T�O�O���g�����ڑO�I<br>
-�@�����ŁA�L�O�C�x���g���J�Â������Ǝv���܂��B<br>
+<font size=4 color=#000000>　少年少女文庫もいよいよ５００万Ｈｉｔ目前！<br>
+　そこで、記念イベントを開催したいと思います。<br>
 <br>
-�@���̖����c�c�w���N�������ɔt���D�@�s�r�L���m���{�[���I�x<br>
+　その名も……『少年少女文庫杯争奪　ＴＳキャノンボール！』<br>
 <br>
-�@�C�x���g�f���i���u�s�r�厫�T����낤�I�v�f���j���g���āA�����[�������ɏ������݂𑱂��Ă��������A��i���z�����L�����N�^�[�����i�I���W�i���L�������劽�}�I�j���ꓰ�ɉ�āu�L���m���{�[���v���[�X������Ă݂悤�Ƃ������ł��B<br>
-�@�ڂ����́A���̃A�h���X���N���b�N���Ă��������B<br>
-<a href=http://ts.novels.jp/novel/200112/20210702/event01.htm target=_top>http://ts.novels.jp/novel/200112/20210702/event01.htm</a></font>
+　イベント掲示板（旧「ＴＳ大辞典を作ろう！」掲示板）を使って、リレー小説風に書き込みを続けていただき、作品を越えたキャラクターたち（オリジナルキャラも大歓迎！）を一堂に会して「キャノンボール」レースをやってみようという企画です。<br>
+　詳しくは、下のアドレスをクリックしてください。<br>
+<a href="../../novel/200112/20210702/event01.htm" target=_top>http://ts.novels.jp/novel/200112/20210702/event01.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[477]</font> <font size=4 color=#50d0d0> Re:�E�ӂ����̂�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[477]</font> <font size=4 color=#50d0d0> Re:殺意を持つのは</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/30 (��) 01:10:54  NHK </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406303011054">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406303011054"></font>
+<font size=-1 color=#606060> 2004/06/30 (水) 01:10:54  NHK </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406303011054.cgi">返信</a>　削除<input type=checkbox name="target" value="200406303011054"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� ��_������<br>
-<font color="#cc88ff">&gt; ����N�F���́A�u�l�͒N�ł��l���E������̂��Ƃ����z���͂Ɍ����Ă���v�Ƃ����Ӗ��̂��Ƃ��G�b�Z�C�ŏ����Ă��܂����B�̂̂ق����m��Ȃ��Ƃ���Ől������ł��������Ȃ񂶂�Ȃ����Ȃ��B</font><br>
-�@�m���y��s�S���w����z�i[��]�����@�́j�ɏ�L�̂��Ƃ𗠕t����悤�Ȃ��Ƃ������Ă������悤�ȁc�c�B������Ɩ{���茳�ɂȂ��̂Ŋm���߂��Ȃ��B<br>
-<font color="#ff88cc">���Ƃ������̏����ُ̈퐫���N���[�Y�A�b�v�����񂾂��ǁA�l�Ԃ͖{���I�ɂ����������̂��ƍl����΁A�@�����⃂�����Ƃ������̂́A�����������̂�������邽�߂ɂ��񂴂����āA��̂ɐl�Ԃ͖\�͂��������Ƃ����I���������A���Ă��ƂȂ񂾂�ˁB</font><br>
- �m���ɁA���S�K�N�����̎��ɂ��Ă����������ǁA�����Ɉُ�̃��b�e����\�肽����񓹂ɂ́A������ƌ��C�����܂��ˁB���Ȃ݂ɁA���NA�̓��N�^�[���m�̂悤�ȉ����ł͂Ȃ��A��e���D�iMaternal Deprivation�j�Ə����̕s�^�������ŁA���̎������N�����Ă��܂����悤�ł��B<br>
-�@�ł��A���������q�ǂ��͂܂���������g�ɂ��Ă��Ȃ�����q�ǂ��Ȃ񂾂��A�������������͂��ꂩ������X�͋N����񂾂낤�Ȃ��B</font>
+<font size=4 color=#000000>▼ 矢治浩平さん<br>
+<font color="#cc88ff">&gt; 筒井康孝が昔、「人は誰でも人を殺しうるのだという想像力に欠けている」という意味のことをエッセイで書いていました。昔のほうが知らないところで人が死んでいただけなんじゃないかなあ。</font><br>
+　確か【非行心理学入門】（[著]福島　章）に上記のことを裏付けるようなことが書いてあったような……。ちょっと本が手元にないので確かめられない。<br>
+<font color="#ff88cc">＞とかく件の少女の異常性がクローズアップされるんだけど、人間は本質的にそういうものだと考えれば、法整備やモラルというものは、そういうものを回避するためにそんざいして、大昔に人間は暴力を回避するという選択をした、ってことなんだよね。</font><br>
+ 確かに、酒鬼薔薇事件の時にしてもそうだけど、すぐに異常のレッテルを貼りたがる報道には、ちょっと嫌気がしますね。ちなみに、少年Aはレクター博士のような怪物ではなく、母親剥奪（Maternal Deprivation）と少しの不運が原因で、あの事件を起こしてしまったようです。<br>
+　でも、そもそも子どもはまだモラルを身につけていないから子どもなんだし、こういう事件はこれからも時々は起こるんだろうなぁ。</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -242,16 +242,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

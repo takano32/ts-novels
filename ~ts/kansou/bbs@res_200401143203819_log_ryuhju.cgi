@@ -1,38 +1,38 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���������i���z�f����</title>
+<title>龍酒さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���������i���z�f����</font>
+<font size=5>龍酒さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="ryuhju">
 <input type=hidden name="nj" value="w2eHFZR3lC">
 <input type=hidden name="res" value="48">
-<h4 align=center>�� �L���ԍ� 48 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 48 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �򖗂���
-&gt; �u���[�X�I�[���}�C�e�B�������΂���Ȃ̂ň�u�v���o���Ă��܂��܂����B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 飛沫さん
+&gt; ブルースオールマイティを見たばかりなので一瞬思い出してしまいました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,14 +48,14 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[49]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/16 (��) 02:05:46 <strong>��</strong> ���񂽂��D���T </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401165020546&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401165020546"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/16 (金) 02:05:46 <strong>▽</strong> あんたが好きサ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401165020546_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200401165020546"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��C�ɓǂ݂܂����B���񂰁[�ʔ��������ł��A�[��<br>
-���̓o�[�W�����̕���k���ł��ˁB<br>
-���ꂩ�犴��I�ȐF�Ƃ����������ĂƂɂ������@���ɂ������񂶁B<br>
-�c�{�ɓ���܂����B�Ȃ񂩂����A�G�����ǂ��ł������G������̂悤�ȓǌ㊴�B</font>
+<font size=3 color=#606060>一気に読みました。すんげー面白かったです、つーか<br>
+文章バージョンの平野耕太ですね。<br>
+あれから感情的な色とか抜きさってとにかく無機質にしたかんじ。<br>
+ツボに入りました。なんかこう、エロがどうでもいいエロ漫画のような読後感。</font>
 </td></table>
 </td></tr></table>
 
@@ -65,66 +65,66 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[48]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/14 (��) 20:38:19 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401143203819&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401143203819"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/14 (水) 20:38:19 <strong>▽</strong> 飛沫 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401143203819_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200401143203819"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u���[�X�I�[���}�C�e�B�������΂���Ȃ̂ň�u�v���o���Ă��܂��܂����B</font>
+<font size=3 color=#606060>ブルースオールマイティを見たばかりなので一瞬思い出してしまいました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[47]</font> <font size=4 color=#40c0c0> �u�s�[���J�s��������|�|���i�؁[�y���g�[��v</font>
+<font size=2>[47]</font> <font size=4 color=#40c0c0> 「ピーリカピリララ♪ポポリナぺーペルトー♪」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/13 (��) 23:04:08 <strong>��</strong> <a href="mailto:ymgch@m3.dion.ne.jp">�A�J�g��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401132230408&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401132230408"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/13 (火) 23:04:08 <strong>▽</strong> <a href="mailto:ymgch@m3.dion.ne.jp">アカトリ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401132230408_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200401132230408"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���e�ǂ�Ńl�^�o���̂ɋ�J���܂����A���ǓK���ɕt���Ă��܂����A�J�g���ł���@�c�c���̋L���A�����g���̂ɍ����Ă˂��B<br>
-�@���āwkidnapping�x�̊��z�ł����A���ς�炸��l���͖ڂ̑O�ŋN�����Ă��鎖�Ԃ��狗���̂��鏊�ɂ��܂��ˁB�������͉��l���Ă����ꂶ��Ӗ����������A�G���̏O�����B<br>
-�@�ǂ��ł������ł����ǃo�b�g�Ƀi�C�t�ɖؓ��A�ǂ�������菊�����������玀�ʂƎv���܂��B���ƁA�i�C�t�Ƃ��̐n���͐S����˂��h�����͐n���������ɂ��Ďh���Ƃ��������ł��B�]�����ז��ɂȂ�Ȃ�����B<br>
-�@�ǂ����A���炢�����܂����B</font>
+<font size=3 color=#606060>　内容読んでネタ出すのに苦労しました、結局適当に付けてしまったアカトリです♪　……この記号、俺が使うのに合ってねぇ。<br>
+　さて『kidnapping』の感想ですが、相変わらず主人公は目の前で起こっている事態から距離のある所にいますね。向こうは何人居てもこれじゃ意味無いっす、烏合の衆っす。<br>
+　どうでもいいですけどバットにナイフに木刀、どれも当たり所が悪かったら死ぬと思います。あと、ナイフとかの刃物は心臓を突き刺す時は刃を横向きにして刺すといいそうです。肋骨が邪魔にならないから。<br>
+　どうも、失礼いたしました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[46]</font> <font size=4 color=#40c0c0> �wCAST IN THE NAME OF GOD  YE NOT GUILTY�x</font>
+<font size=2>[46]</font> <font size=4 color=#40c0c0> 『CAST IN THE NAME OF GOD  YE NOT GUILTY』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/13 (��) 22:20:36 <strong>��</strong> <a href="mailto:ymgch@m3.dion.ne.jp">�A�J�g��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401132222036&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401132222036"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/13 (火) 22:20:36 <strong>▽</strong> <a href="mailto:ymgch@m3.dion.ne.jp">アカトリ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401132222036_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200401132222036"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���`�A���̂����W�S�Q�U����̊��z�����āA�w���ቴ������ōs�����x�Ƃ����킯�ł��̑薼�ł��B����ʂ̈Ӗ������t���Ȃ������A�J�g���ł��B<br>
-�@���e�ł����A�N�������ŉ����N���Ȃ��B�{�l�̑S���֌W�Ȃ��ꏊ�Ŏ������N���āA�ʂ�߂��悤�Ƃ��Ă��銴�o�B�����͉��������悤�ł����A��l���͖w�ǎ����̉Ƃ��瓮���ĂȂ��݂����ł��ˁB�V���[���Ȗ����T�X�y���X�h���}�B�c�c�Ȃ񂩈Ⴂ�܂��ˁB<br>
-�@�l�I�ɂ͑���Ȃ����͗L��܂���ł������A�����]�v�Ɋ����������L��܂����B��l���̑䎌���M���O�̗l�ɂȂ��Ă��鏊�������Ă��ꂪ���̍�i�̃V���[�����𑹂˂Ă��܂�������������܂��B���_�A�M���O��_���Ă����̂Ȃ�Ⴂ�܂����ǁB<br>
-�@�ǂ������炵�܂����B</font>
+<font size=3 color=#606060>　え〜、↓のｍｋ８４２６さんの感想を見て、『じゃ俺も舞台で行こう』というわけでこの題名です。それ位の意味しか付けなかったアカトリです。<br>
+　内容ですが、起きそうで何も起きない。本人の全く関係ない場所で事件が起きて、通り過ぎようとしている感覚。事件は解決したようですが、主人公は殆ど自分の家から動いてないみたいですね。シュールな密室サスペンスドラマ。……なんか違いますね。<br>
+　僕的には足りない所は有りませんでしたが、少し余計に感じた所が有りました。主人公の台詞がギャグの様になっている所があってそれがこの作品のシュールさを損ねてしまった感じがあります。無論、ギャグを狙っていたのなら違いますけど。<br>
+　どうも失礼しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[45]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[45]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/13 (��) 20:22:37 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���d��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401132202237&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401132202237"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/13 (火) 20:22:37 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401132202237_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200401132202237"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂����Ƃ������E�E�E�i�΁j�B<br>
-�������܂��A���̐��͕���Ƃ͗ǂ�����������ł��Ȃ��B<br>
-����������ƍ������Ă��܂�����i���j�B<br>
-�܁A�������A�u�_�v�Ɠ������Ă�����ɁA���΂��|���Ƃ����s���ɏo���ޏ��i�΁j�͈�̉��l�H�i���j�B<br>
-�����āA�U���Ƃ���ʂɎ�����ޏ����E�E�E�i�΁j�B<br>
-����͂����ƁA���̃V���[�Y������ŏI���Ƃ̂��ƂŁA���܂蕶��ł����ꌾ�B<br>
-�u�����l�ł����v<br>
-���������҂��Ă܂���B</font>
+<font size=3 color=#606060>こりゃまた何というか・・・（笑）。<br>
+しかしまぁ、この世は舞台とは良く言ったもんですなぁ。<br>
+何かちょっと混乱してきましたよ（爆）。<br>
+ま、しかし、「神」と同棲していた上に、しばき倒すという行動に出た彼女（笑）は一体何様？（爆）。<br>
+そして、誘拐犯を手玉に取った彼女も・・・（笑）。<br>
+それはそうと、このシリーズも今回で終了とのことで、決まり文句ですが一言。<br>
+「お疲れ様でした」<br>
+次回作も期待してますよ。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -132,56 +132,56 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[44]</font> <font size=4 color=#40c0c0> �w�s�����@�j�������������������x�@�w�s�����@�f�����x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[44]</font> <font size=4 color=#40c0c0> 『Ｔｈｅ　Ｋｉｄｎａｐｐｉｎｇ』　『Ｔｈｅ　Ｇｏｄ』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/13 (��) 19:26:30 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401132192630&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401132192630"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/13 (火) 19:26:30 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401132192630_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200401132192630"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><B>�w�s�����@�j�������������������x</B><br>
-�y���E���z ���̏����͂����ꂽ�B�����A���s�Ƃ̓�l�͏����ɗU�����ꂽ�����R�̑ҋ����󂯂邱�ƂɂȂ�B�͂āH<br>
-<a href=http://ts.novels.jp/novel/200112/18230553/the_kidnapping.html target=_top>http://ts.novels.jp/novel/200112/18230553/the_kidnapping.html</a><br>
+<font size=3 color=#606060><B>『Ｔｈｅ　Ｋｉｄｎａｐｐｉｎｇ』</B><br>
+【推薦文】 その少女はさらわれた。だが、実行犯の二人は少女に誘拐されたも同然の待遇を受けることになる。はて？<br>
+<a href="../../novel/200112/18230553/the_kidnapping.html" target=_top>http://ts.novels.jp/novel/200112/18230553/the_kidnapping.html</a><br>
 <br>
-<B>�w�s�����@�f�����x</B><br>
-�y���E���z ���Ȃ��������ɂ���̂́u�K�R�v�Ɓu���R�v�A�ǂ���ł����H<br>
-<a href=http://ts.novels.jp/novel/200112/18230553/the_god.html target=_top>http://ts.novels.jp/novel/200112/18230553/the_god.html</a></font>
+<B>『Ｔｈｅ　Ｇｏｄ』</B><br>
+【推薦文】 あなたがここにいるのは「必然」と「偶然」、どちらですか？<br>
+<a href="../../novel/200112/18230553/the_god.html" target=_top>http://ts.novels.jp/novel/200112/18230553/the_god.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[43]</font> <font size=4 color=#40c0c0> [TheDark]�Ȃ�قǁB</font>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> [TheDark]なるほど。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/15 (��) 23:41:49 <strong>��</strong> ���Ȃ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310153234149&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310153234149"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/15 (水) 23:41:49 <strong>▽</strong> すなさん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310153234149_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200310153234149"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���G�N�g�v���Y�����āA�Z�����ł��˂��i�΁j�B</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞エクトプラズムって、纏えるんですねぇ（笑）。</font><br>
 <br>
-����ɂ��Ă��A������o����������Ƃ́c�B<br>
-�w��ʁF���Ԃ���́x���ĕ\�����̗��R�����ꂾ�����Ƃ́i�΁j<br>
+それにしても、口から出した物を被るとは…。<br>
+『種別：かぶりもの』って表書きの理由がこれだったとは（笑）<br>
 <br>
-����ɂ��Ă��A�{���ɖ߂���ł��傤���H�i���͂��Ƃɖ߂�Ȃ������肵�āB�j</font>
+それにしても、本当に戻れるんでしょうか？（実はもとに戻れなかったりして。）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/15 (��) 00:25:27 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310153002527&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310153002527"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/15 (水) 00:25:27 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310153002527_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200310153002527"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂��i�΁j�B<br>
-�������A�G�N�g�v���Y�����āA�Z�����ł��˂��i�΁j�B<br>
-�ʔ����ł��˂��B<br>
-���ς�炸�Ȃ̑����A���������Ċy������i�ł���܂��ȁB</font>
+<font size=3 color=#606060>こりゃまた（笑）。<br>
+しかし、エクトプラズムって、纏えるんですねぇ（笑）。<br>
+面白いですねぇ。<br>
+相変わらず癖の多い連中が多くて楽しい作品でありますな。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -189,40 +189,40 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> �u�s���� Dark�v�A�ǂ݂܂����B</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> 「Ｔｈｅ Dark」、読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/14 (��) 22:21:58 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310142222158&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310142222158"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/14 (火) 22:21:58 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310142222158_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200310142222158"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�ށB�_�[�N�A�ł��ˁB<br>
-���������V�j�J���ȓW�J�́A�N�Z�ɂȂ邩���B<br>
-�����̍�Ƃ̕Ў�ԁA�M���Ȃ��������₷�ɂ͂����ł��ˁB�����������b�B<br>
+<font size=3 color=#606060>うーむ。ダーク、ですね。<br>
+こういうシニカルな展開は、クセになるかも。<br>
+何かの作業の片手間、熱くなった頭を冷やすにはいいですね。こういうお話。<br>
 <br>
-����ł́A������y���݂ɂ��Ă���܂��B</font>
+それでは、次回も楽しみにしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> �w�s���� Dark�x��ǂނɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> 『Ｔｈｅ Dark』を読むには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/14 (��) 09:54:24 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310142095424&log=ryuhju">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310142095424"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/14 (火) 09:54:24 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310142095424_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200310142095424"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �w�ґ�͉Ȋw�̓G�x�B�m���ɂ�����������܂���c�c�B<br>
+<font size=3 color=#606060>【推薦文】 『贅沢は科学の敵』。確かにそうかもしれません……。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200112/18230553/dark.html target=_top>http://ts.novels.jp/novel/200112/18230553/dark.html</a></font>
+<a href="../../novel/200112/18230553/dark.html" target=_top>http://ts.novels.jp/novel/200112/18230553/dark.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="ryuhju">
@@ -230,16 +230,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="ryuhju">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=ryuhju">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_ryuhju.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

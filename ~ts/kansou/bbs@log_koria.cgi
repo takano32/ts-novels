@@ -103,7 +103,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ＴＳっ娘の暗黒面（？）に耐える俊平クン。そんな彼の気も知らずに、紅葉ちゃんったら……（笑）<br>
-<a href=http://ts.novels.jp/novel/200505/11202701/temp2.html target=_top>http://ts.novels.jp/novel/200505/11202701/temp2.html</a></font>
+<a href="../../novel/200505/11202701/temp2.html" target=_top>http://ts.novels.jp/novel/200505/11202701/temp2.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -186,7 +186,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 "吸血鬼"。彼らは、世界を破滅に導くべく有能な人材を求めて居た。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200505/11202701/dark.html target=_top>http://ts.novels.jp/novel/200505/11202701/dark.html</a></font>
+<a href="../../novel/200505/11202701/dark.html" target=_top>http://ts.novels.jp/novel/200505/11202701/dark.html</a></font>
 </td></table>
 </td></tr></table>
 

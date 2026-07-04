@@ -1,61 +1,61 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���̉ɐl�����i�@���z�f����</title>
+<title>自称暇人さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���̉ɐl�����i�@���z�f����</font>
+<font size=5>自称暇人さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="jisyou_himajin">
 <input type=hidden name="nj" value="E6bMiH3WrB">
 <input type=hidden name="res" value="18">
-<h4 align=center>�� �L���ԍ� 18 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 18 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���E�ς̖��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���Y����
-&gt; &gt; �a�m�ܒ��̐��E�ς̏ے��Ƃ��āA�ӂ��킵���������Ǝv���܂����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:世界観の問題"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 死郎さん
+&gt; &gt; 和洋折衷の世界観の象徴として、ふさわしい料理だと思いました。
 &gt; 
-&gt; �@�Ȃ�قǁB�����Ȃ�Ƃ������A�����������ƂȂ񂾂Ǝv���܂��B
-&gt; �@��X�̐��E�Ƃ̐ړ_���Ȃ��ِ��E�̘b�ŁA���R���t���Ⴄ�B������񏬐����̂��̂̓L��
-&gt; ���N�^�[�̑䎌���܂߂ē��{��ŏ�����Ă���̂�����ǁA����͉������m�̌�����g�|��h
-&gt; �������̂��ƍl����Ή��������͂Ȃ��B
+&gt; 　なるほど。ただなんというか、こういうことなんだと思います。
+&gt; 　我々の世界との接点がない異世界の話で、当然言葉も違う。もちろん小説そのものはキャ
+&gt; ラクターの台詞も含めて日本語で書かれているのだけれど、それは何か未知の言語を“翻訳”
+&gt; したものだと考えれば何も矛盾はない。
 &gt; 
-&gt; �@�Ƃ����O��ŁA�b�̒��Ɂw�V�`���[�x�Ƃ����������o�Ă����Ƃ��܂��B��X���ʏ퐶����
-&gt; ���鐢�E�̏펯�ŁA�����������m�l�A���ɉp�ꌗ�̐l�Ԃ́A�����̗����ł�����e�ɕ�����
-&gt; �܂Ƃ߂�����i���Ƃ��ΘA���ɂƂ��Ă͖��X�`���w�X�[�v�x�����j�B�܂肻�́w�V�`���[�x
-&gt; �́w�Ȃɂ��ِ��E�̕ʂ̎�ނ̎ϕ��Ȃ񂾂��ǂ��A��X�̐��E�̉p�ꌗ�̐l�ԂɁu�V�`���[�v
-&gt; �Ƃ��ĔF�������悤�ȗ����x�Ƃ����悤�ɗ����ł���B
+&gt; 　という前提で、話の中に『シチュー』という料理が出てきたとします。我々が通常生きて
+&gt; いる世界の常識で、だいたい西洋人、特に英語圏の人間は、自分の理解できる範疇に物事を
+&gt; まとめたがる（たとえば連中にとっては味噌汁も『スープ』だし）。つまりその『シチュー』
+&gt; は『なにか異世界の別の種類の煮物なんだけども、我々の世界の英語圏の人間に「シチュー」
+&gt; として認識されるような料理』というように了解できる。
 &gt; 
-&gt; �@�Ƃ������ƂŖ��Ȃ���ł����A����Łw�����Ⴊ�x���o�Ă����ꍇ�B����́A��X���{
-&gt; �l���]��ɂ��̗�����m��߂��Ă���ׂɁA���ɉ��߂̂��悤���Ȃ���ł���B
-&gt; �@����Ӗ��A���ꂾ���ɂ�������̓I�ɃC���[�W�ł������ŁA�t�ɂ��̎���̐��E�̂ق�
-&gt; ���ڂ₯�Ă��܂���ł��i���̐��E�̐l�Ԃ́A�ǂ��������j�I�o�܂ł���Ȃ��̂����o��
-&gt; ���񂾁H�@�������������^�ؓ��Ƃ��W���K�C���Ƃ��A�S���������̂�����̂��H�@�Ƃ�����
-&gt; ���ȋ^������邵�j���������Ӗ��ł��`�ʂ�����Ȃ����Ȃ��ƁB���̂ւ�̃o�����X�̈���
-&gt; ���A����̃��A���e�B�𑹂Ȃ��Ă銴���������ł���B
+&gt; 　ということで問題ないんですが、一方で『肉じゃが』が出てきた場合。これは、我々日本
+&gt; 人が余りにその料理を知り過ぎている為に、他に解釈のしようがないんですわ。
+&gt; 　ある意味、それだけにすごく具体的にイメージできる一方で、逆にその周りの世界のほう
+&gt; がぼやけてしまうんです（この世界の人間は、どういう歴史的経緯でこんなものを作り出し
+&gt; たんだ？　そもそも牛肉／豚肉とかジャガイモとか、全く同じものがあるのか？　というよ
+&gt; うな疑問もあるし）そういう意味でも描写が足りないかなあと。そのへんのバランスの悪さ
+&gt; が、物語のリアリティを損なってる感じがするんですよ。
 &gt; 
-&gt; �@�������P�`���������󂶂�Ȃ��āA�X�g�[���[�e�����O�ł͔��ɗǂ����̂�������
-&gt; �������邾���ɐɂ����Ȃ��Ƃ������Ƃ����Ȃ�ŁA���̉ɐl��������C�ɂȂ炳���ɁB
-&gt; �@���X�Ƃ��߂�Ȃ����B</textarea><br>
+&gt; 　ただしケチをつけたい訳じゃなくて、ストーリーテリングでは非常に良いものを持って
+&gt; らっしゃるだけに惜しいなあということだけなんで、自称暇人さんもお気にならさずに。
+&gt; 　長々とごめんなさい。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -68,51 +68,51 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> �����Ⴊ</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> 肉じゃが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/10 (��) 09:52:14 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306102095214&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306102095214"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/10 (火) 09:52:14 <strong>▽</strong> あい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306102095214_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306102095214"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�j�[�N�E�W�E���[�K�A�֒f�̖G�H�i�i�΁j</font>
+<font size=3 color=#606060>ニーク・ジ・ヤーガ、禁断の萌食品（笑）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[18]</font> <font size=4 color=#40c0c0> ���E�ς̖��</font>
+<font size=2>[18]</font> <font size=4 color=#40c0c0> 世界観の問題</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/10 (��) 04:18:55 <strong>��</strong> <a href="mailto:shirou@pc.highway.ne.jp">���Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306102041855&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306102041855"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/10 (火) 04:18:55 <strong>▽</strong> <a href="mailto:shirou@pc.highway.ne.jp">死郎</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306102041855_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306102041855"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �a�m�ܒ��̐��E�ς̏ے��Ƃ��āA�ӂ��킵���������Ǝv���܂����B</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 和洋折衷の世界観の象徴として、ふさわしい料理だと思いました。</font><br>
 <br>
-�@�Ȃ�قǁB�����Ȃ�Ƃ������A�����������ƂȂ񂾂Ǝv���܂��B<br>
-�@��X�̐��E�Ƃ̐ړ_���Ȃ��ِ��E�̘b�ŁA���R���t���Ⴄ�B������񏬐����̂��̂̓L��<br>
-���N�^�[�̑䎌���܂߂ē��{��ŏ�����Ă���̂�����ǁA����͉������m�̌�����g�|��h<br>
-�������̂��ƍl����Ή��������͂Ȃ��B<br>
+　なるほど。ただなんというか、こういうことなんだと思います。<br>
+　我々の世界との接点がない異世界の話で、当然言葉も違う。もちろん小説そのものはキャ<br>
+ラクターの台詞も含めて日本語で書かれているのだけれど、それは何か未知の言語を“翻訳”<br>
+したものだと考えれば何も矛盾はない。<br>
 <br>
-�@�Ƃ����O��ŁA�b�̒��Ɂw�V�`���[�x�Ƃ����������o�Ă����Ƃ��܂��B��X���ʏ퐶����<br>
-���鐢�E�̏펯�ŁA�����������m�l�A���ɉp�ꌗ�̐l�Ԃ́A�����̗����ł�����e�ɕ�����<br>
-�܂Ƃ߂�����i���Ƃ��ΘA���ɂƂ��Ă͖��X�`���w�X�[�v�x�����j�B�܂肻�́w�V�`���[�x<br>
-�́w�Ȃɂ��ِ��E�̕ʂ̎�ނ̎ϕ��Ȃ񂾂��ǂ��A��X�̐��E�̉p�ꌗ�̐l�ԂɁu�V�`���[�v<br>
-�Ƃ��ĔF�������悤�ȗ����x�Ƃ����悤�ɗ����ł���B<br>
+　という前提で、話の中に『シチュー』という料理が出てきたとします。我々が通常生きて<br>
+いる世界の常識で、だいたい西洋人、特に英語圏の人間は、自分の理解できる範疇に物事を<br>
+まとめたがる（たとえば連中にとっては味噌汁も『スープ』だし）。つまりその『シチュー』<br>
+は『なにか異世界の別の種類の煮物なんだけども、我々の世界の英語圏の人間に「シチュー」<br>
+として認識されるような料理』というように了解できる。<br>
 <br>
-�@�Ƃ������ƂŖ��Ȃ���ł����A����Łw�����Ⴊ�x���o�Ă����ꍇ�B����́A��X���{<br>
-�l���]��ɂ��̗�����m��߂��Ă���ׂɁA���ɉ��߂̂��悤���Ȃ���ł���B<br>
-�@����Ӗ��A���ꂾ���ɂ�������̓I�ɃC���[�W�ł������ŁA�t�ɂ��̎���̐��E�̂ق�<br>
-���ڂ₯�Ă��܂���ł��i���̐��E�̐l�Ԃ́A�ǂ��������j�I�o�܂ł���Ȃ��̂����o��<br>
-���񂾁H�@�������������^�ؓ��Ƃ��W���K�C���Ƃ��A�S���������̂�����̂��H�@�Ƃ�����<br>
-���ȋ^������邵�j���������Ӗ��ł��`�ʂ�����Ȃ����Ȃ��ƁB���̂ւ�̃o�����X�̈���<br>
-���A����̃��A���e�B�𑹂Ȃ��Ă銴���������ł���B<br>
+　ということで問題ないんですが、一方で『肉じゃが』が出てきた場合。これは、我々日本<br>
+人が余りにその料理を知り過ぎている為に、他に解釈のしようがないんですわ。<br>
+　ある意味、それだけにすごく具体的にイメージできる一方で、逆にその周りの世界のほう<br>
+がぼやけてしまうんです（この世界の人間は、どういう歴史的経緯でこんなものを作り出し<br>
+たんだ？　そもそも牛肉／豚肉とかジャガイモとか、全く同じものがあるのか？　というよ<br>
+うな疑問もあるし）そういう意味でも描写が足りないかなあと。そのへんのバランスの悪さ<br>
+が、物語のリアリティを損なってる感じがするんですよ。<br>
 <br>
-�@�������P�`���������󂶂�Ȃ��āA�X�g�[���[�e�����O�ł͔��ɗǂ����̂�������<br>
-�������邾���ɐɂ����Ȃ��Ƃ������Ƃ����Ȃ�ŁA���̉ɐl��������C�ɂȂ炳���ɁB<br>
-�@���X�Ƃ��߂�Ȃ����B</font>
+　ただしケチをつけたい訳じゃなくて、ストーリーテリングでは非常に良いものを持って<br>
+らっしゃるだけに惜しいなあということだけなんで、自称暇人さんもお気にならさずに。<br>
+　長々とごめんなさい。</font>
 <p><a href="http://home3.highway.ne.jp/~shirou/" target="_top">http://home3.highway.ne.jp/~shirou/</a>
 </td></table>
 </td></tr></table>
@@ -120,50 +120,50 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> �����Ⴊ</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> 肉じゃが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/09 (��) 06:56:50 <strong>��</strong> <a href="mailto:kono1ba@hotmail.com">���̎s��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306091065650&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306091065650"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/09 (月) 06:56:50 <strong>▽</strong> <a href="mailto:kono1ba@hotmail.com">この市場</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306091065650_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306091065650"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�a�m�ܒ��̐��E�ς̏ے��Ƃ��āA�ӂ��킵���������Ǝv���܂����B<br>
-�����炱���A�������Ǝv������ł����ǁB<br>
-�V��������Ƃ�����肪����܂������E�E�E<br>
+<font size=3 color=#606060>和洋折衷の世界観の象徴として、ふさわしい料理だと思いました。<br>
+だからこそ、すごいと思ったんですけど。<br>
+新しすぎるという問題がありましたか・・・<br>
 <br>
-�ӊO�ɓ����肩���m��܂���B<br>
-�����Ⴊ�̗R����m���Ă�ǎ҂Ƃ����łȂ��ǎ҂ł́A���������Ⴄ�ł��傤���B<br>
-���������Ӗ��ł́A��舵����������j���[��������������܂���B</font>
+意外に難しい問題かも知れません。<br>
+肉じゃがの由来を知ってる読者とそうでない読者では、感じ方が違うでしょうし。<br>
+そういう意味では、取り扱いが難しいメニューだったかもしれません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> Re:����ł͂����t�ɊÂ���</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> Re:それではお言葉に甘えて</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/06 (��) 02:53:10 <strong>��</strong> ���̉ɐl </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306065025310&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306065025310"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/06 (金) 02:53:10 <strong>▽</strong> 自称暇人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306065025310_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306065025310"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���Y����<br>
+<font size=3 color=#606060>▼ 死郎さん<br>
 <br>
-�ǂ����A����]���肪�Ƃ��������܂����B<br>
-���́A���������邩���S�h�L�h�L�ł����B<br>
-�ł��A�������ǂ��h���ɂ��Ȃ�܂����i�O�O<br>
-��]�Ƃ�����]�����ꂸ�A�Â������z�΂��������Ă��������ɂƂ��āA�Ƃ��Ă��Q�l�ɂȂ�܂����B<br>
-���w�E���ꂽ�A���E�ς̂����܂������ܘ_�B<br>
-���́A�܂��܂����n�ȕ����������ł�������悤����΂�܂��B<br>
+どうも、ご批評ありがとうございました。<br>
+実は、何を言われるか内心ドキドキでした。<br>
+でも、物凄く良い刺激にもなりました（＾＾<br>
+批評という批評をされず、甘えた感想ばっかり貰っていた自分にとって、とっても参考になりました。<br>
+ご指摘された、世界観のあいまいさも勿論。<br>
+他の、まだまだ未熟な部分を少しでも治せるようがんばります。<br>
 <br>
-���m�A���㌀�ɋߑ�B<br>
+西洋、時代劇に近代。<br>
 <br>
-�͂����茾���āA�������͖������炯�̐��E�ςł����B<br>
-�������A���̌��𖄂߂čs�������Ǝv���܂��B<br>
+はっきり言って、聞こえは矛盾だらけの世界観ですが。<br>
+少しずつ、その穴を埋めて行きたいと思います。<br>
 <br>
-��Q�b�A����΂邼�I<br>
+第２話、がんばるぞ！<br>
 <br>
-�ǂ����A���肪�Ƃ��������܂����B<br>
+どうも、ありがとうございました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -171,38 +171,38 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> ����ł͂����t�ɊÂ���</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> それではお言葉に甘えて</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/06 (��) 01:57:08 <strong>��</strong> <a href="mailto:shirou@pc.highway.ne.jp">���Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306065015708&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306065015708"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/06 (金) 01:57:08 <strong>▽</strong> <a href="mailto:shirou@pc.highway.ne.jp">死郎</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306065015708_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306065015708"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �h���̔�]�Ɋւ��ẮA���������̂Ȃ猾���ĉ������B</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 辛口の批評に関しては、言いたいのなら言って下さい。</font><br>
 <br>
-�@�뎚�╶�@�E�\���̊ԈႢ�ȊO�ŋC�ɂȂ����̂́A��͂萢�E�ς̂܂Ƃ܂�ł��ˁB����<br>
-�ɂ��Ă͂��̎s�ꂳ��͖J�߂��Ă����̂ŁA�܂��D�݂̖�������̂����m��܂��񂪁B<br>
+　誤字や文法・表現の間違い以外で気になったのは、やはり世界観のまとまりですね。それ<br>
+についてはこの市場さんは褒められていたので、まあ好みの問題もあるのかも知れませんが。<br>
 <br>
-�@��������̎s�ꂳ�񂪋��Ă���ʂ�w�V�������E�ς�n��o���x�Ƃ������݂͕]������<br>
-����ł�����ǁA���㌀�̂悤���Ǝv������ݕ��P�ʂ����m�������A�������Ǝv���΁w����<br>
-�Ⴊ�x�̂悤�ȋߑ�ȍ~�Ɋ��������悤�ȕ��͏o�Ă��邵�B<br>
-�@���������_�̓M���O�Ƃ��ďo�����ƌ�����Δ[�����ł����ł����ǁA����ɂ��Ă͏�<br>
-���Ȃ��̂��ɂ��B���ǂ̂Ƃ���A�ǎ҂���i���E���C���[�W����W���ɂ����Ȃ��Ă��Ȃ���<br>
-���Ɋ������ł��B<br>
+　これもこの市場さんが仰っている通り『新しい世界観を創り出す』という試みは評価した<br>
+いんですけれど、時代劇のようだと思ったら貨幣単位が西洋風だし、そうかと思えば『肉じ<br>
+ゃが』のような近代以降に完成したような物は出てくるし。<br>
+　こういう点はギャグとして出したと言われれば納得もできるんですけど、それにしては笑<br>
+えないのが痛い。結局のところ、読者が作品世界をイメージする妨げにしかなっていないよ<br>
+うに感じるんです。<br>
 <br>
-<font color="#cc88ff">&gt; �܂��A���E�ς͂�����܂��Ȋ����ł����c�i�O�O�G</font><br>
+<font color="#cc88ff">&gt; まぁ、世界観はごちゃまぜな感じですが…（＾＾；</font><br>
 <br>
-�@�Ƃ������̂Ƃ��������ƁA�����o�͂�����̂悤�ł��ˁB<br>
-�@�������O�̏����݂ɏ������ʂ�A�b�̐i�ߕ��͏�肢�̂ō���Ɋ��҂��܂��B<br>
+　とお書きのところを見ると、ご自覚はおありのようですね。<br>
+　しかし前の書込みに書いた通り、話の進め方は上手いので今後に期待します。<br>
 <br>
-�@�v����ɂ܂��A�������̖��Ȃ񂾂Ǝv���܂���B���̂Ƃ���ǂ�łāA���m���Ȃ̂���<br>
-�m���Ȃ̂��A�͂��܂����̐��ł܂��N���������Ƃ̂Ȃ������`�ԂȂ̂��\�\�ƃC���[�W����<br>
-��ł��Ȃ���ł����ǁA���̂Ԃ�w���ꂱ�ꂱ�̂悤�ȉƂŁx�w���̐l���͂���Ȍ`�̈ߕ�<br>
-�𒅂Ă���x���X�ƍׂ����`�ʂ�����Ȃ艽�Ȃ肵�Ă���������΍ςޘb�̂悤�ȋC����<br>
-�܂��B�Ǝ��̐��E�ς�z���̂ł���΁A�Œ�������܂ł���Ăق����ȁc�c�Ƃ�����ǎ҂�<br>
-��]���Ǝv���Ă��������B<br>
+　要するにまあ、見せ方の問題なんだと思いますよ。今のところ読んでて、西洋風なのか東<br>
+洋風なのか、はたまたこの世でまだ誰も見たことのない文化形態なのか——とイメージが固<br>
+定できないんですけど、そのぶん『これこれこのような家で』『この人物はこんな形の衣服<br>
+を着ている』等々と細かい描写を入れるなり何なりしていただければ済む話のような気がし<br>
+ます。独自の世界観を築くのであれば、最低限そこまでやってほしいな……という一読者の<br>
+希望だと思ってください。<br>
 <br>
-�@�ł����B</font>
+　でした。</font>
 <p><a href="http://home3.highway.ne.jp/~shirou/" target="_top">http://home3.highway.ne.jp/~shirou/</a>
 </td></table>
 </td></tr></table>
@@ -210,64 +210,64 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> ���z�A���肪�Ƃ��������܂��B</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> 感想、ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/05 (��) 02:39:11 <strong>��</strong> ���̉ɐl </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306054023911&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306054023911"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/05 (木) 02:39:11 <strong>▽</strong> 自称暇人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306054023911_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306054023911"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���v�Ă̘Z�ۂ���</font><br>
-�ǂ����A���肪�Ƃ��������܂��i�s�s<br>
-�ق̂ڂ̖��킢���Ȃ�Č����ĖႦ�āA���h�ł��B<br>
-���́A�ق̂ڂ̂��Ċ��z�Ō����Ă��炦��ƁA�Ƃ��Ă����������̉ɐl�ł����i�΁j<br>
+<font size=3 color=#606060><font color="#ff88cc">＞思案の六ぽさん</font><br>
+どうも、ありがとうございます（ＴＴ<br>
+ほのぼの味わいだなんて言って貰えて、光栄です。<br>
+実は、ほのぼのって感想で言ってもらえると、とっても嬉しい自称暇人でした（笑）<br>
 <br>
-<font color="#ff88cc">���i�E�e����</font><br>
-�ŏ��́A�L�`�X�P�ɐ��̂��΂炵�Ĉꏏ�ɂ��X�𗧂Ē����c�B<br>
-�����Ă���ɁA����ȂɂȂ��Ă��܂��܂����B<br>
-�a�V�ȃA�C�f�B�A�Ƃ������A����ȃm�������񂾁c���ď��ł��傤���H�i��<br>
-���G�Ŕ��͍D���ł����A�Ⴄ�m���Ŋ撣���Ă��������Ǝv���܂��B<br>
-�ܘ_�A�h�^�o�^�����܂����i��<br>
-�ǂ����A���肪�Ƃ��������܂����B<br>
+<font color="#ff88cc">＞Ｊ・Ｆさん</font><br>
+最初は、キチスケに正体をばらして一緒にお店を立て直す…。<br>
+書いてる内に、あんなになってしまいました。<br>
+斬新なアイディアというより、勝手なノリが生んだ…って所でしょうか？（笑<br>
+無敵看板娘は好きですが、違うノリで頑張っていきたいと思います。<br>
+勿論、ドタバタもしますが（笑<br>
+どうも、ありがとうございました。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U����</font><br>
-���́A�����ɂ߂��Ⴍ���ᖳ�m�Ȃ�ł��B<br>
-������A�������ɂȂ邩�͖���ł��B<br>
-�ł��A�ʔ����o����悤����΂�܂��I<br>
-�i�G����΂�I�i��<br>
+<font color="#ff88cc">＞ｍｋ８４２６さん</font><br>
+実は、料理にめちゃくちゃ無知なんです。<br>
+だから、料理物になるかは未定です。<br>
+でも、面白く出来るようがんばります！<br>
+ナエがんばれ！（笑<br>
 <br>
-<font color="#ff88cc">�����̎s�ꂳ��</font><br>
-���̐�A�R�[���h��������悤�Șb�������Ȃ��悤�撣��܂��B<br>
-�t�@���^�W�[���������[���b�p�Ƃ������B<br>
-�t�@���^�W�[���n��<br>
-�Ƃ����C���[�W�Ŋ撣���ď����čs�������Ǝv���Ă��܂��B<br>
-�܂��A���E�ς͂�����܂��Ȋ����ł����c�i�O�O�G<br>
+<font color="#ff88cc">＞この市場さん</font><br>
+この先、コールド負けするような話を書かないよう頑張ります。<br>
+ファンタジー＝中世ヨーロッパというより。<br>
+ファンタジー＝創造<br>
+というイメージで頑張って書いて行きたいと思っています。<br>
+まぁ、世界観はごちゃまぜな感じですが…（＾＾；<br>
 <br>
-<font color="#ff88cc">�����Y����</font><br>
-���肪�Ƃ��������܂��B<br>
-�뎚�E���Ɋւ��ẮA�{���ɐ\���󂠂�܂���B<br>
-���������A�m���݂����Ȃ̂Œ����ɏ����Ă��܂����̂ŁA������Ԃŕ��ɂɑ����Ă��܂��܂����B<br>
-�h���̔�]�Ɋւ��ẮA���������̂Ȃ猾���ĉ������B<br>
-�͂����茾���āA�����ݏ��͑����Ǝv���܂��i�O�O�G<br>
-�ł��A��x������ƌ������ȏ�͊撣���Ċ������������Ǝv���܂��B<br>
-���ꂩ�����낵�����肢���܂��B</font>
+<font color="#ff88cc">＞死郎さん</font><br>
+ありがとうございます。<br>
+誤字脱字に関しては、本当に申し訳ありません。<br>
+すっごい、ノリみたいなので朝方に書いてしまったので、興奮状態で文庫に送ってしまいました。<br>
+辛口の批評に関しては、言いたいのなら言って下さい。<br>
+はっきり言って、つっこみ所は多いと思います（＾＾；<br>
+でも、一度続けると言った以上は頑張って完結させたいと思います。<br>
+これからもよろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> �b�̐i�ߕ��͏�肢�Ǝv���܂���</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 話の進め方は上手いと思いました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/05 (��) 01:34:49 <strong>��</strong> <a href="mailto:shirou@pc.highway.ne.jp">���Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306054013449&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306054013449"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/05 (木) 01:34:49 <strong>▽</strong> <a href="mailto:shirou@pc.highway.ne.jp">死郎</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306054013449_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306054013449"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ł����c�c���[�B<br>
-�@�뎚�Ƃ��\���̊ԈႢ�Ƃ����w�E������A���̑��h���̔�]�͂Ȃ��ق����ǂ��ł����H<br>
-�@���낢��C�ɂȂ鐫���Ȃ��̂ŁB���������̂͌��ȋC���ɂȂ�Ƌ�̂ł���΁A���̂�<br>
-�ܑގU���܂��B����B</font>
+<font size=3 color=#606060>　ですが……えー。<br>
+　誤字とか表現の間違いとかを指摘したり、その他辛口の批評はないほうが良いですか？<br>
+　いろいろ気になる性分なもので。そういうのは嫌な気分になると仰るのであれば、このま<br>
+ま退散します。失礼。</font>
 <p><a href="http://home3.highway.ne.jp/~shirou/" target="_top">http://home3.highway.ne.jp/~shirou/</a>
 </td></table>
 </td></tr></table>
@@ -275,37 +275,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> �҂��Ă܂������I</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> 待ってましたっ！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/04 (��) 21:38:28 <strong>��</strong> ���̎s�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306043213828&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306043213828"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/04 (水) 21:38:28 <strong>▽</strong> この市場 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306043213828_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306043213828"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ȏ������ǂ݂��������I<br>
-�t�@���^�W�[�����璆�����[���b�p���ɂ��Ȃ��Ⴂ���Ȃ��Ȃ�Č��܂�͂Ȃ���<br>
-�t�ɏ��a���ɂ��Ȃ���Ȃ�Ȃ��Ƃ������܂���Ȃ��͂��B<br>
-�Ɠ��Ȑ��E��n�����Ⴆ�Ώ����I<br>
-���͓I�Ȑl����n�����Ⴆ�Ώ����I<br>
-���������Ӗ��ł́A�܂���1�����̓R�[���h�����ł��ˁB<br>
-����ȍ~�����҂��Ă��܂��B</font>
+<font size=3 color=#606060>こんな小説が読みたかった！<br>
+ファンタジーだから中世ヨーロッパ風にしなきゃいけないなんて決まりはないし<br>
+逆に純和風にしなきゃならないという決まりもないはず。<br>
+独特な世界を創っちゃえば勝ち！<br>
+魅力的な人物を創っちゃえば勝ち！<br>
+そういう意味では、まず第1試合はコールド勝ちですね。<br>
+次回以降も期待しています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/04 (��) 01:23:59 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306043012359&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306043012359"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/04 (水) 01:23:59 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306043012359_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306043012359"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�������̂ł��ˁi�΁j�B<br>
-�r�͓V����i�Ȃ̂ɁA�q�����Ȃ��E�E�E�B<br>
-�����A�Ŕ��i�G�����̘r�̌������ł��ˁi�΁j�B<br>
-�u�Ē���v�Ƃ��ǂ��y���݂ł��B</font>
+<font size=3 color=#606060>おお、料理ものですね（笑）。<br>
+腕は天下一品なのに、客が来ない・・・。<br>
+さあ、看板娘ナエちゃんの腕の見せ所ですね（笑）。<br>
+「再中一」ともども楽しみです。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -313,24 +313,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> ���w��������Ⴂ�܂��I�@���b�x</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> ＞『いらっしゃいませ！　第一話』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/04 (��) 00:42:51 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306043004251&log=jisyou_himajin">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306043004251"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/04 (水) 00:42:51 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306043004251_log_jisyou_himajin.cgi">返信</a>　削除<input type=checkbox name="target" value="200306043004251"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���͔̂閧�E��΂ɂ΂点�Ȃ��A�Ƃ����̂͂��̎�̘b�̂��񑩂ł͂���܂����c�c�c�c<br>
-�܂��������������R�Ƃ́i�΁j�@���Ȃ�a�V�ł��ˁB<br>
+<font size=3 color=#606060>正体は秘密・絶対にばらせない、というのはこの手の話のお約束ではありますが…………<br>
+まさかそういう理由とは（笑）　かなり斬新ですね。<br>
 <br>
-�ق̂ڂ̃����R���H�����A�h�^�o�^���G�Ŕ��H�����B<br>
-�ǂ����ɌX�����ϑz���A����̓W�J�Ɋ��҂��܂��B</font>
+ほのぼのラヴコメ路線か、ドタバタ無敵看板娘路線か。<br>
+どっちに傾くか妄想しつつ、今後の展開に期待します。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="jisyou_himajin">
@@ -338,16 +338,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="jisyou_himajin">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=jisyou_himajin">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_jisyou_himajin.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

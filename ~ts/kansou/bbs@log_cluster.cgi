@@ -104,7 +104,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 学校の授業があるはずなのに、開発する時間があるなーと。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200307/19145539/suzumura_5.html target=_top>http://ts.novels.jp/novel/200307/19145539/suzumura_5.html</a></font>
+<a href="../../novel/200307/19145539/suzumura_5.html" target=_top>http://ts.novels.jp/novel/200307/19145539/suzumura_5.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -153,7 +153,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 仮想現実世界「アルマゲドン・オンライン」。それは、彼のあきらめと慣れを生んだ。これが実現したら、何がなんでも飛びつくと言い切る担当者(笑)。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200307/19145539/suzumura_4.html target=_top>http://ts.novels.jp/novel/200307/19145539/suzumura_4.html</a></font>
+<a href="../../novel/200307/19145539/suzumura_4.html" target=_top>http://ts.novels.jp/novel/200307/19145539/suzumura_4.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -187,7 +187,7 @@ link<input type=checkbox name="link" value="1" checked>
 &gt; 早速次を〜とおもったら、第二話がみつかりません。公開終了してしまったのでしょうか？</font><br>
 <br>
 第二話のURLは以下の通りです。<br>
-<a href=http://ts.novels.jp/novel/200307/19145539/suzumura_2.html target=_top>http://ts.novels.jp/novel/200307/19145539/suzumura_2.html</a><br>
+<a href="../../novel/200307/19145539/suzumura_2.html" target=_top>http://ts.novels.jp/novel/200307/19145539/suzumura_2.html</a><br>
 <br>
 もしどこかのページからのリンクが切れていたのでしたら、<br>
 その場所を報告していただけないでしょうか。</font>

@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >�N���G�[�^�[�Y�E�t���A</font>
+<font size=6 >クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,35 +15,35 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="kSWLLSKpNG">
 <input type=hidden name="res" value="340">
-<h4 align=center>�� �L���ԍ� 340 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 340 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���n�e�e��̂��m�点"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �l�n�m�c�n���^�c�ψ�����
-&gt; �@�u�d������̖{���ȁv�ƍ����ŁA���n�e�e����v�悵�Ă��܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:大阪ＯＦＦ会のお知らせ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ＭＯＮＤＯ＠運営委員さん
+&gt; 　「妖精さんの本だな」と合同で、大阪ＯＦＦ会を計画しています。
 &gt; 
-&gt; �����F11�^1�i�y�j
-&gt; �ꏊ�F����s���ی𗬃Z���^�[�i�n���S�J�����u����v�w�S�ԏo���o�Ē����j
-&gt; ���ԁ��W���ꏊ�F�ߌ�P���R�O���@�n���S�J�����u����v�w
-&gt; �Q����F��S�O�O�O�~�قǁi����{���݉��j
+&gt; 日時：11／1（土）
+&gt; 場所：守口市国際交流センター（地下鉄谷町線「守口」駅４番出口出て直ぐ）
+&gt; 時間＆集合場所：午後１時３０分　地下鉄谷町線「守口」駅
+&gt; 参加費：約４０００円ほど（会場代＋飲み会代）
 &gt; 
-&gt; �@�ύX��������΁A�܂����̏�ŘA�����܂��B
-&gt; �@�Q���̕\���́@���̌f�����@�l�n�m�c�n���Ƀ��[���𑗂��Ă�������</textarea><br>
+&gt; 　変更等があれば、またこの場で連絡します。
+&gt; 　参加の表明は　この掲示板か　ＭＯＮＤＯ宛にメールを送ってください</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -56,14 +56,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[347]</font> <font size=4 color=#50d0d0> ���I�t�̂Ђ݂i�΁j</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[347]</font> <font size=4 color=#50d0d0> 大阪オフのひみつ（笑）</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/10/15 (��) 18:57:36  <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���Q����</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200310153185736">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310153185736"></font>
+<font size=-1 color=#606060> 2003/10/15 (水) 18:57:36  <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠参加者</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200310153185736.cgi">返信</a>　削除<input type=checkbox name="target" value="200310153185736"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�ʂɁu���N�������ɉ^�c�ψ��̗p�ʐډ�v�ł͂Ȃ��̂ŁA�����q�}�ȕ��A���߂��ɂ��Z�܂��̕��A���D���ȕ��A�ӂ���Ă��Q������������</font>
+<font size=4 color=#000000>別に「少年少女文庫運営委員採用面接会」ではないので、当日ヒマな方、お近くにお住まいの方、物好きな方、ふるってご参加ください♪</font>
 <p><div align=left><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a></div>
 </td></table>
 </td></tr></table>
@@ -71,47 +71,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[346]</font> <font size=4 color=#50d0d0> ���n�e�e�̂��m�点</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[346]</font> <font size=4 color=#50d0d0> 大阪ＯＦＦのお知らせ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/10/05 (��) 13:16:27  <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n���^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200310050131627">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310050131627"></font>
+<font size=-1 color=#606060> 2003/10/05 (日) 13:16:27  <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ＠運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200310050131627.cgi">返信</a>　削除<input type=checkbox name="target" value="200310050131627"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�u�d������̖{���ȁv���u���N�������Ɂv�������n�e�e�����܂��B<br>
-�@�Q���\���̒��ؓ��́A�n�e�e��̈�T�ԑO�ł��B<br>
-�@�܂��Ƃɏ���ł����A�����͂�낵�����肢�������܂��B<br>
+<font size=4 color=#000000>　「妖精さんの本だな」＆「少年少女文庫」合同大阪ＯＦＦ会があります。<br>
+　参加表明の締切日は、ＯＦＦ会の一週間前です。<br>
+　まことに勝手ですが、ご協力よろしくお願いいたします。<br>
 <br>
-�����F11�^1�i�y�j<br>
-�ꏊ�F����s���ی𗬃Z���^�[�i�n���S�J�����u����v�w�S�ԏo���o�Ē����j<br>
-���ԁ��W���ꏊ�F�ߌ�P���R�O���@�n���S�J�����u����v�w<br>
-�Q����F��S�O�O�O�~�قǁi����{���݉��j<br>
-�I�t��Q���\�����ߐ؂�F�P�O�^�Q�T�i�y�j�@�P�Q�F�O�O�܂�<br>
+日時：11／1（土）<br>
+場所：守口市国際交流センター（地下鉄谷町線「守口」駅４番出口出て直ぐ）<br>
+時間＆集合場所：午後１時３０分　地下鉄谷町線「守口」駅<br>
+参加費：約４０００円ほど（会場代＋飲み会代）<br>
+オフ会参加表明締め切り：１０／２５（土）　１２：００まで<br>
 <br>
-�@�Q���\���͂��̌f�����A�l�n�m�c�n���Ƀ��[���𑗂��Ă�������</font>
+　参加表明はこの掲示板か、ＭＯＮＤＯ宛にメールを送ってください</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[345]</font> <font size=4 color=#50d0d0> �^�c�ψ���W�c�c�B</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[345]</font> <font size=4 color=#50d0d0> 運営委員募集……。</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/10/01 (��) 00:01:57  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200310013000157">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310013000157"></font>
+<font size=-1 color=#606060> 2003/10/01 (水) 00:01:57  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200310013000157.cgi">返信</a>　削除<input type=checkbox name="target" value="200310013000157"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@kou@�^�c�ψ��ł��B<br>
+<font size=4 color=#000000>　kou@運営委員です。<br>
 <br>
-�@��W���n�ߑ���T�ԁB���݁A�����͈ꖼ�����ł��i���j�B<br>
-�@���݁A�����O���ɂȂ��Ă��܂��B��傤����A�l�n�m�c�n����A�Ԗڂ���ł��Bstarbow������A���̂���Z�����炵���A���܂����o���܂���B<br>
-�@�������ɓ��̍�i�𐮗����ł��āA�f�ڂ̕��Ɏ��Ԃ������Ȃ���Ԃł��B<br>
+　募集を始め早二週間。現在、立候補は一名だけです（汗）。<br>
+　現在、実質三名になっています。りょうさん、ＭＯＮＤＯさん、赤目さんです。starbowさんも、このごろ忙しいらしく、あまり顔を出しません。<br>
+　私も文庫内の作品を整理中でして、掲載の方に時間を割けない状態です。<br>
 <br>
-�@�ł����A�F���񂪕K���ɓ����Ă��邨�����ł��܉~���ɋ@�\���Ă��܂��B<br>
-�@�Ȃ̂ŁA��������₵�Ă��������������������Ⴂ�܂�����A�m���ɉ^�c��傢�Ɍ���n���A<a href=mailto:admin@ts.novels.jp>admin@ts.novels.jp</a> �܂Ń��[�������肢���܂��B<br>
+　ですが、皆さんが必死に働いているおかげでいま円滑に機能しています。<br>
+　なので、もし立候補していただける方がいらっしゃいましたら、［文庫運営を大いに語る会］か、<a href=mailto:admin@ts.novels.jp>admin@ts.novels.jp</a> までメールをお願いします。<br>
 <br>
-�@�����A���ɂ̉^�c�ɂ��Ċւ��ւ��Ȃ��A�ǂ���ɂ���A������Ƃ����^��Ȃǂ�����܂�����f���ɏ�������ł���������΁A�^�c�ψ������������܂��B<br>
+　ただ、文庫の運営について関わる関わらない、どちらにせよ、ちょっとした疑問などがありましたら掲示板に書き込んでいただければ、運営委員がお答えします。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -119,16 +119,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[344]</font> <font size=4 color=#50d0d0> ���Ă��������B</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[344]</font> <font size=4 color=#50d0d0> きてください。</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/22 (��) 22:32:57  <a href="mailto:m-mako.s6346@k8.dion.ne.jp">KOUTA</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309221223257">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309221223257"></font>
+<font size=-1 color=#606060> 2003/09/22 (月) 22:32:57  <a href="mailto:m-mako.s6346@k8.dion.ne.jp">KOUTA</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309221223257.cgi">返信</a>　削除<input type=checkbox name="target" value="200309221223257"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���݂܂���B��ϐ\����Ȃ��̂ł����A���܂�ɂ����̃T�C�g���l�C�Ȃ��̂ŁA��`�������Ă��������B<br>
-�A�h���X�́A<a href=http://www46.tok2.com/home2/koutakinngu/index.htm target=_top>http://www46.tok2.com/home2/koutakinngu/index.htm</a><br>
-�ł��B��{�I�ɂ̓Q�[���̃z�[���y�[�W�ł����A���e������CGI���ݒu���Ă���܂��̂ŁA�ǂ����P�x���Ă݂Ă��������B</font>
+<font size=4 color=#000000>すみません。大変申し訳ないのですが、あまりにも私のサイトが人気ないので、宣伝をさせてください。<br>
+アドレスは、<a href=http://www46.tok2.com/home2/koutakinngu/index.htm target=_top>http://www46.tok2.com/home2/koutakinngu/index.htm</a><br>
+です。基本的にはゲームのホームページですが、投稿小説やCGIも設置しておりますので、どうか１度きてみてください。</font>
 <p><div align=left><a href="http://www46.tok2.com/home2/koutakinngu/index.htm" target="_top">http://www46.tok2.com/home2/koutakinngu/index.htm</a></div>
 </td></table>
 </td></tr></table>
@@ -136,115 +136,115 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[343]</font> <font size=4 color=#50d0d0> Re:�����Ă݂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[343]</font> <font size=4 color=#50d0d0> Re:おいてみました</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/21 (��) 23:40:45  <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309210234045">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309210234045"></font>
+<font size=-1 color=#606060> 2003/09/21 (日) 23:40:45  <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309210234045.cgi">返信</a>　削除<input type=checkbox name="target" value="200309210234045"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>����A�����ƁA��ɂ��ז������Ē����܂����B<br>
-�����A���d�F������n�߁A���l���̍�҂̊F�l�Ƃ��ꏏ�����Ă��������A�y���܂��Ē����܂����B<br>
-�ł��A���܂�l���W�܂�Ȃ��悤�Ȋ��������܂��B�����ł����A�i�E���X����Ă��Ȃ������ł��傤���B�����^�c��̖�肪�Ȃ��̂ł�����A�g�b�v�y�[�W�ɂ�����ƃA�i�E���X�����ă����N�����ꂽ��@���ł��傤�H�@�����Ɛ����ɂȂ邩������܂���B<br>
+<font size=4 color=#000000>昨日、今日と、夜にお邪魔させて頂きました。<br>
+矢治さん、八重洲さんを始め、何人かの作者の皆様とご一緒させていただき、楽しませて頂きました。<br>
+でも、あまり人が集まらないような感じもします。ここでしかアナウンスされていないせいでしょうか。もし運営上の問題がないのでしたら、トップページにきちんとアナウンスをしてリンクを作られたら如何でしょう？　もっと盛況になるかもしれません。<br>
 <br>
-���CGI�Ȃ̂ł����ǁA�������Ȃ��Ă�(�������Ȃ��Ă�)�Q���҂����邩�ǂ�����������悤�ɂȂ�ƁA�֗����Ǝv���܂��B����͗v�]�ł����B<br>
+後はCGIなのですけど、入室しなくても(発言しなくても)参加者がいるかどうかが分かるようになると、便利だと思います。これは要望でした。<br>
 <br>
-�� ��_������<br>
-<font color="#cc88ff">&gt; ������Chat�������Ă݂܂����B<br>
-&gt; <a href=http://www.novels.jp/~ts/chat/ target=_top>http://www.novels.jp/~ts/chat/</a><br>
-&gt; �ł��B�e�X�g�Őݒu�ł��B</font></font>
+▼ 矢治浩平さん<br>
+<font color="#cc88ff">&gt; 試しにChatをおいてみました。<br>
+&gt; <a href="../chat/index.html" target=_top>http://www.novels.jp/~ts/chat/</a><br>
+&gt; です。テストで設置です。</font></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[342]</font> <font size=4 color=#50d0d0> �ꖼ�l�A���ē��`���i�΁j</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[342]</font> <font size=4 color=#50d0d0> 一名様、ご案内〜っ（笑）</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/19 (��) 21:06:04  <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n���^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309195210604">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309195210604"></font>
+<font size=-1 color=#606060> 2003/09/19 (金) 21:06:04  <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ＠運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309195210604.cgi">返信</a>　削除<input type=checkbox name="target" value="200309195210604"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�u�ߑւ��v�V���[�Y�A�u�v���W�F�N�g�q�E�a�v�̂悵��������ł��ˁB<br>
-�@���}���܂��B��낵�����肢���܂��B<br>
+<font size=4 color=#000000>　「衣替え」シリーズ、「プロジェクトＲ・Ｂ」のよしおかさんですね。<br>
+　歓迎します。よろしくお願いします。<br>
 <br>
-<font color="#ff88cc">���l�n�m�c�n����B�N�ł��Q���ł���̂ł����H</font><br>
+<font color="#ff88cc">＞ＭＯＮＤＯさん。誰でも参加できるのですか？</font><br>
 <br>
-�@��җl�A�ǎҗl�ł��n�j�ł��B</font>
+　作者様、読者様でもＯＫです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[341]</font> <font size=4 color=#50d0d0> ����ł����E�E�E</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[341]</font> <font size=4 color=#50d0d0> 質問ですが・・・</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/18 (��) 22:56:13  �悵���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309184225613">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309184225613"></font>
+<font size=-1 color=#606060> 2003/09/18 (木) 22:56:13  よしおか </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309184225613.cgi">返信</a>　削除<input type=checkbox name="target" value="200309184225613"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�l�n�m�c�n����B�N�ł��Q���ł���̂ł����H<br>
-���Ƃ��΁A�킽���̂悤�Ȏ҂ł��H�������ł��傤</font>
+<font size=4 color=#000000>ＭＯＮＤＯさん。誰でも参加できるのですか？<br>
+たとえば、わたしのような者でも？いかがでしょう</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[340]</font> <font size=4 color=#50d0d0> ���n�e�e��̂��m�点</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[340]</font> <font size=4 color=#50d0d0> 大阪ＯＦＦ会のお知らせ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/18 (��) 20:54:21  <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n���^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309184205421">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309184205421"></font>
+<font size=-1 color=#606060> 2003/09/18 (木) 20:54:21  <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ＠運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309184205421.cgi">返信</a>　削除<input type=checkbox name="target" value="200309184205421"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�u�d������̖{���ȁv�ƍ����ŁA���n�e�e����v�悵�Ă��܂��B<br>
+<font size=4 color=#000000>　「妖精さんの本だな」と合同で、大阪ＯＦＦ会を計画しています。<br>
 <br>
-�����F11�^1�i�y�j<br>
-�ꏊ�F����s���ی𗬃Z���^�[�i�n���S�J�����u����v�w�S�ԏo���o�Ē����j<br>
-���ԁ��W���ꏊ�F�ߌ�P���R�O���@�n���S�J�����u����v�w<br>
-�Q����F��S�O�O�O�~�قǁi����{���݉��j<br>
+日時：11／1（土）<br>
+場所：守口市国際交流センター（地下鉄谷町線「守口」駅４番出口出て直ぐ）<br>
+時間＆集合場所：午後１時３０分　地下鉄谷町線「守口」駅<br>
+参加費：約４０００円ほど（会場代＋飲み会代）<br>
 <br>
-�@�ύX��������΁A�܂����̏�ŘA�����܂��B<br>
-�@�Q���̕\���́@���̌f�����@�l�n�m�c�n���Ƀ��[���𑗂��Ă�������</font>
+　変更等があれば、またこの場で連絡します。<br>
+　参加の表明は　この掲示板か　ＭＯＮＤＯ宛にメールを送ってください</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[339]</font> <font size=4 color=#50d0d0> �����Ă݂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[339]</font> <font size=4 color=#50d0d0> おいてみました</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/17 (��) 22:00:48  ��_�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309173220048">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309173220048"></font>
+<font size=-1 color=#606060> 2003/09/17 (水) 22:00:48  矢治浩平 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309173220048.cgi">返信</a>　削除<input type=checkbox name="target" value="200309173220048"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>������Chat�������Ă݂܂����B<br>
-<a href=http://www.novels.jp/~ts/chat/ target=_top>http://www.novels.jp/~ts/chat/</a><br>
-�ł��B�e�X�g�Őݒu�ł��B</font>
+<font size=4 color=#000000>試しにChatをおいてみました。<br>
+<a href="../chat/index.html" target=_top>http://www.novels.jp/~ts/chat/</a><br>
+です。テストで設置です。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[338]</font> <font size=4 color=#50d0d0> �T�[�o�[����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[338]</font> <font size=4 color=#50d0d0> サーバー負荷</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/09/17 (��) 09:33:46  ��_�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200309173093346">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309173093346"></font>
+<font size=-1 color=#606060> 2003/09/17 (水) 09:33:46  矢治浩平 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200309173093346.cgi">返信</a>　削除<input type=checkbox name="target" value="200309173093346"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�ʂɕ��ׂ������킯�ł͂Ȃ��̂ł����A�X�y�b�N���Ⴂ�̂ƁA�K���ȃ`���b�g�\�t�g����������Ȃ��̂Œu���Ă��܂���B�I�X�X���̂���������ݒu���Ă������ł��B</font>
+<font size=4 color=#000000>別に負荷が高いわけではないのですが、スペックが低いのと、適当なチャットソフトが見当たらないので置いていません。オススメのがあったら設置してもいいです。</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -252,16 +252,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

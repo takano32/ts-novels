@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���S��ONLY�y�[�W</title>
+<title>初心者ONLYページ</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���S��ONLY�y�[�W</font>
+<font size=5>初心者ONLYページ</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����I�Ȏ���ł�OK�̃t���[�ȏ������݂����C���ɂ����{�[�h�ł��B<br>�ǂ������C�y�ɂ��������݂��������B���ⓙ�����������������B<br>���@����ȊO�̎���A�G�k�̓N���G�[�^�[�Y�t���A�łǂ����B<br></font>
+<font color=#608080>初歩的な質問でもOKのフリーな書き込みをメインにしたボードです。<br>どうぞお気軽にお書き込みください。質問等もお書きください。<br>※　それ以外の質問、雑談はクリエーターズフロアでどうぞ。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,32 +15,32 @@
 <input type=hidden name="log" value="data4">
 <input type=hidden name="nj" value="w6KpKZLIsc">
 <input type=hidden name="res" value="205">
-<h4 align=center>�� �L���ԍ� 205 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 205 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�Ƃ���ŁB"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� kou@�^�c�ψ�����
-&gt; �@kou@�^�c�ψ��ł��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ところで。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ kou@運営委員さん
+&gt; 　kou@運営委員です。
 &gt; 
-&gt; �@�Ƃ���ŁA�F�l���C�Â��ł��傤���B
+&gt; 　ところで、皆様お気づきでしょうか。
 &gt; http://ts.novels.jp/cgi-bin/manage2.cgi?ran
-&gt; �@�����_���@�\�ł��B�Ȃ񂩁A�������낢��i�ɂԂ������邩������܂���B�V�������E�փ��b�c�����`</textarea><br>
+&gt; 　ランダム機能です。なんか、おもしろい作品にぶち当たるかもしれません。新しい世界へレッツごぉ〜</textarea><br>
 tag<input type=checkbox name="tag" value="1" checked> 
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -53,145 +53,145 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[205]</font> <font size=4 color=#40c0c0> �Ƃ���ŁB</font>
+<font size=2>[205]</font> <font size=4 color=#40c0c0> ところで。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/18 (��) 18:37:29 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200307185183729&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307185183729"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/18 (金) 18:37:29 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200307185183729_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200307185183729"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@kou@�^�c�ψ��ł��B<br>
+<font size=3 color=#606060>　kou@運営委員です。<br>
 <br>
-�@�Ƃ���ŁA�F�l���C�Â��ł��傤���B<br>
-<a href=http://ts.novels.jp/cgi-bin/manage2.cgi?ran target=_top>http://ts.novels.jp/cgi-bin/manage2.cgi?ran</a><br>
-�@�����_���@�\�ł��B�Ȃ񂩁A�������낢��i�ɂԂ������邩������܂���B�V�������E�փ��b�c�����`</font>
+　ところで、皆様お気づきでしょうか。<br>
+<a href="../../cgi-bin/manage2@ran_.cgi" target=_top>http://ts.novels.jp/cgi-bin/manage2.cgi?ran</a><br>
+　ランダム機能です。なんか、おもしろい作品にぶち当たるかもしれません。新しい世界へレッツごぉ〜</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[204]</font> <font size=4 color=#40c0c0> ����������</font>
+<font size=2>[204]</font> <font size=4 color=#40c0c0> こけこっこ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/09 (��) 00:32:53 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200307093003253&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307093003253"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/09 (水) 00:32:53 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200307093003253_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200307093003253"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���j�d�a�n����</font><br>
-�����A�P�ɘb�̃l�^���v���t���Ȃ���(^^;�@�i���ƁA�}�W���X�j</font>
+<font size=3 color=#606060><font color="#ff88cc">＞ＫＥＢＯさん</font><br>
+いえ、単に話のネタが思い付かなくて(^^;　（←と、マジレス）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[203]</font> <font size=4 color=#40c0c0> ����������������</font>
+<font size=2>[203]</font> <font size=4 color=#40c0c0> かこかけけこかけ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/06 (��) 00:50:52 <strong>��</strong> �j�d�a�n </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200307060005052&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307060005052"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/06 (日) 00:50:52 <strong>▽</strong> ＫＥＢＯ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200307060005052_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200307060005052"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������āA���̂����Ŏ~�܂��Ă܂��H�H�H�H<br>
-����ȋC�ɂȂ���Ȃ��ŉ������悧�����ӎ��ߏ�i�����j</font>
+<font size=3 color=#606060>もしかして、私のせいで止まってます？？？？<br>
+そんな気になさらないで下さいよぉ＜自意識過剰（自爆）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[202]</font> <font size=4 color=#40c0c0> �����ł��ˁB</font>
+<font size=2>[202]</font> <font size=4 color=#40c0c0> そうですね。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/29 (��) 21:06:31 <strong>��</strong> ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200212290210631&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212290210631"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/29 (日) 21:06:31 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200212290210631_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200212290210631"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�j�d�a�n���񂠂肪�Ƃ��������܂��B<br>
-���x�����Ƃ��ɎQ�l�ɂ����Ă��������܂��B<br>
-�ǂ������肪�Ƃ��������܂����B</font>
+<font size=3 color=#606060>ＫＥＢＯさんありがとうございます。<br>
+今度書くときに参考にさせていただきます。<br>
+どうもありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[201]</font> <font size=4 color=#40c0c0> ����Ȃ����āE�E�E�E</font>
+<font size=2>[201]</font> <font size=4 color=#40c0c0> じゃなくって・・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/28 (�y) 00:22:16 <strong>��</strong> �j�d�a�n </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200212286002216&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212286002216"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/28 (土) 00:22:16 <strong>▽</strong> ＫＥＢＯ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200212286002216_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200212286002216"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����΂��<br>
+<font size=3 color=#606060>こんばんわ<br>
 <br>
-����삳��<br>
-<font color="#ff88cc">����l���̎��_�ŏ����΂����̂��A��O�҂̎��_�ŏ����΂����̂��A����Ƃ��������Ⴉ���āB</font><br>
+日比野さん＞<br>
+<font color="#ff88cc">＞主人公の視点で書けばいいのか、第三者の視点で書けばいいのか、それともごっちゃかって。</font><br>
 <br>
-����͎����ł������茈�߂ď����Ȃ��Ƙb�ɂȂ�܂���B<br>
-���_�Ƃ����͈̂ӊO�Ɓi�v��������H�H�j�厖�Ȃ��̂ŁA<br>
-����ɂ���Ęb�̍\�����傫���ς��͂��ł��B<br>
-�b�̓r���Ŏ��_��ς���̂̓A���ł����A�Ƃ肠�������̒i���H�͓������_�ŏ����Ȃ��ƁA�킯���킩��Ȃ��Ȃ�܂��B<br>
-���Ȃ݂ɁA�q���g�ɂȂ邩�ǂ����킩��܂��񂪁E�E�E�E<br>
-���Ȃ��̎��_�ŁA���������Ă��鎞�Ԃɑ����łǂ�Ȃ��Ƃ��N�����Ă��邩�͂킩��܂����ˁH<br>
+それは自分でしっかり決めて書かないと話になりません。<br>
+視点というのは意外と（思いっきり？？）大事なもので、<br>
+それによって話の構成が大きく変わるはずです。<br>
+話の途中で視点を変えるのはアリですが、とりあえずその段落？は同じ視点で書かないと、わけがわからなくなります。<br>
+ちなみに、ヒントになるかどうかわかりませんが・・・・<br>
+あなたの視点で、ここを見ている時間に他所でどんなことが起こっているかはわかりませんよね？<br>
 <br>
-�ł́B�撣���ĉ�����</font>
+では。頑張って下さい</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[200]</font> <font size=4 color=#40c0c0> �ǂ��������Ă��������I</font>
+<font size=2>[200]</font> <font size=4 color=#40c0c0> どうか教えてください！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/27 (��) 21:54:04 <strong>��</strong> ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200212275215404&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212275215404"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/27 (金) 21:54:04 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200212275215404_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200212275215404"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ƂĂ��Ƃ��Ƃł����܂���B<br>
-�ŋߏ����������Ă��Ďv���Ƃ��낪����킯�Ȃ�ł��B<br>
-�Z���t�ȊO�̂Ƃ���A�܂�i���[�V�����̕����͂ǂ�����̂��ȂƁB<br>
-��l���̎��_�ŏ����΂����̂��A��O�҂̎��_�ŏ����΂����̂��A����Ƃ��������Ⴉ���āB<br>
-���`�A�ǂ�������C�����Ă��܂�Ȃ��̂ł��B<br>
-�Ƃ������ƂŁA�݂Ȃ���͂ǂ����Ă�̂��B�͂��܂��ǂ̂悤�ɑI��ł�̂������Ăق�����ł��B���肢���܂��B</font>
+<font size=3 color=#606060>とてもとうとつですいません。<br>
+最近小説を書いていて思うところがあるわけなんです。<br>
+セリフ以外のところ、つまりナレーションの部分はどうするのかなと。<br>
+主人公の視点で書けばいいのか、第三者の視点で書けばいいのか、それともごっちゃかって。<br>
+あ〜、どれも悪い気がしてたまらないのです。<br>
+ということで、みなさんはどうしてるのか。はたまたどのように選んでるのか教えてほしいんです。お願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[199]</font> <font size=4 color=#40c0c0> ���炵�܂����B</font>
+<font size=2>[199]</font> <font size=4 color=#40c0c0> 失礼しました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/24 (��) 22:54:22 <strong>��</strong> �g�n�q�m </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200212242225422&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212242225422"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/24 (火) 22:54:22 <strong>▽</strong> ＨＯＲＮ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200212242225422_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200212242225422"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; ����H������ł��Ə�肭�����܂����B<br>
-&gt; �Ȃ��ł��傤�ˁH<br>
-&gt; ���̕��͂������ł����H</font><br>
-���炵�܂����B������̐ݒ�̖�肾�����悤�ł��i��<br>
-�m�[�g���C���^�[�l���g�Z�L�����e�B���͂������畁�ʂɕ\������܂����B<br>
-����Ȃւ܂�����l�͂قƂ�ǂ��Ȃ��ł��傤�ˁc�i�p</font>
+<font size=3 color=#606060><font color="#cc88ff">&gt; あれ？こちらでやると上手くいきますが。<br>
+&gt; なぜでしょうね？<br>
+&gt; 他の方はいかがですか？</font><br>
+失礼しました。こちらの設定の問題だったようです（汗<br>
+ノートンインターネントセキュリティをはずしたら普通に表示されました。<br>
+こんなへまをする人はほとんどいないでしょうね…（恥</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[198]</font> <font size=4 color=#40c0c0> Re:���肪�Ƃ��������܂��B</font>
+<font size=2>[198]</font> <font size=4 color=#40c0c0> Re:ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/24 (��) 21:50:13 <strong>��</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200212242215013&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212242215013"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/24 (火) 21:50:13 <strong>▽</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200212242215013_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200212242215013"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�����O����u����i�v�Ɓu��i�����v�����܂������Ȃ��̂ł����A������̐ݒ�̖��ł��傤���H</font><br>
-����H������ł��Ə�肭�����܂����B<br>
-�Ȃ��ł��傤�ˁH<br>
-���̕��͂������ł����H<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;数日前から「旧作品」と「作品検索」がうまくいかないのですが、こちらの設定の問題でしょうか？</font><br>
+あれ？こちらでやると上手くいきますが。<br>
+なぜでしょうね？<br>
+他の方はいかがですか？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -199,18 +199,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[197]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂��B</font>
+<font size=2>[197]</font> <font size=4 color=#40c0c0> ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/24 (��) 00:51:39 <strong>��</strong> �g�n�q�m </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200212242005139&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212242005139"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/24 (火) 00:51:39 <strong>▽</strong> ＨＯＲＮ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200212242005139_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200212242005139"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������I<br>
-���݂����݂����ł������낢�ł��ˁB���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>おおっ！<br>
+おみくじみたいでおもしろいですね。ありがとうございます。<br>
 <br>
-������łɈ�B<br>
-�����O����u����i�v�Ɓu��i�����v�����܂������Ȃ��̂ł����A������̐ݒ�̖��ł��傤���H<br>
+お礼ついでに一つ。<br>
+数日前から「旧作品」と「作品検索」がうまくいかないのですが、こちらの設定の問題でしょうか？<br>
 <br>
 </font>
 </td></table>
@@ -219,15 +219,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[196]</font> <font size=4 color=#40c0c0> Re2:�������ߍ�i�Ƃ�</font>
+<font size=2>[196]</font> <font size=4 color=#40c0c0> Re2:おすすめ作品とか</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/23 (��) 08:06:28 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200212231080628&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212231080628"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/23 (月) 08:06:28 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200212231080628_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200212231080628"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">>�����_���\�����炢��������A���ł��o���܂���i�����j�B���x�`�������W���Ă݂܂��i���j</font><br>
-�e�X�g�ŁA�����B�K���Ɏg���Ă���Ă��������B������A���邱�Ƃ��o���Ȃ���i������܂��̂ŁA�V�F�C�N��@�������ă����[�h���Ă݂Ă��������B<br>
+<font size=3 color=#606060><font color="#cc88ff">>ランダム表示ぐらいだったら、私でも出来ますよ（をい）。今度チャレンジしてみます（汗）</font><br>
+テスト版、完成。適当に使ってやってください。性質上、見ることが出来ない作品がありますので、シェイク♪　を押してリロードしてみてください。<br>
 <a href=http://kou-sa.nyacom.net/ts/random.cgi target=_top>http://kou-sa.nyacom.net/ts/random.cgi</a><br>
 </font>
 </td></table>
@@ -235,7 +235,7 @@ link<input type=checkbox name="link" value="1" checked>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data4">
@@ -243,16 +243,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data4">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data4">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data4.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

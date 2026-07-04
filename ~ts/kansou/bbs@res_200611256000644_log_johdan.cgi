@@ -1,54 +1,54 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>��e����@��i���z�f����</title>
+<title>城弾さん　作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��e����@��i���z�f����</font>
+<font size=5>城弾さん　作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="johdan">
 <input type=hidden name="nj" value="CwfesUfOXp">
 <input type=hidden name="res" value="497">
-<h4 align=center>�� �L���ԍ� 497 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 497 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2:�x���Ȃ�܂��������z�ł�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��e����
-&gt; �� ���肩�i�m���
-&gt; &gt;�A�C�f�B�A���ʔ����ł��ˁA����̖�(�ϑz�H�j���c��݂܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2:遅くなりましたが感想です"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 城弾さん
+&gt; ▼ きりか進ノ介さん
+&gt; &gt;アイディアが面白いですね、今後の夢(妄想？）が膨らみます。
 &gt; 
-&gt; �@���肪�Ƃ��������܂��B���̎��s�ɂ͎������Ȃ��̂Ńl�^�͌��\�o�Ă��邩�Ɓi�΁j
+&gt; 　ありがとうございます。酒の失敗には事欠かないのでネタは結構出てくるかと（笑）
 &gt; 
-&gt; &gt;�@����N�������Ŏg����������悤�ɂȂ�΂��邢�ݕ֗��Ȕ\�͂�������܂��񂪁A���ʂ͂������L�����Ȃ�ł��傤���ˁA�ł��ǂ���̕����ɍs���Ă��ʔ������ł��B
+&gt; &gt;　酒井君が自分で使い分けられるようになればあるいみ便利な能力かもしれませんが、当面はいじられキャラなんでしょうかね、でもどちらの方向に行っても面白そうです。
 &gt; 
-&gt; �@�M��|����Ԃ͍��q�ł����A�������l�����q�������܂Ŗ\������L�����ɂȂ�Ƃ͎v���Ă܂���ł����B
-&gt; �@�܂���e�͂ǂꂾ���ςȓz�������邩���L���ł����i�΁j
+&gt; 　弄り倒す一番は桜子ですが、書いた僕も桜子がここまで暴走するキャラになるとは思ってませんでした。
+&gt; 　まぁ城弾はどれだけ変な奴を書けるかがキモですが（笑）
 &gt; 
-&gt; &gt; �@������y���݂ɂ��Ă���܂��B
+&gt; &gt; 　次回も楽しみにしております。
 &gt; 
-&gt; �@���񓊍e�͋v���Ԃ�́u�����ւ����N�v�ɂȂ肻���ł��B
-&gt; �@������Ƃ炷�҂͔N�����ł����ˁB
+&gt; 　次回投稿は久しぶりの「着せ替え少年」になりそうです。
+&gt; 　だからとらすぴは年明けですかね。
 &gt; 
-&gt; �@���ǂ݂��������܂��Ă��肪�Ƃ��������܂����B</textarea><br>
+&gt; 　お読みいただきましてありがとうございました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h rBebBv  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="rBebBv"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード rBebBv  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="rBebBv"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -61,59 +61,59 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[501]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u�����ւ����N�P�P�v���z</font>
+<font size=2>[501]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「着せ替え少年１１」感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/09 (��) 23:35:06 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701092233506&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701092233506"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/09 (火) 23:35:06 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701092233506_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200701092233506"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���c�c�������Ă���i�΁j�B<br>
-�@���͂�u���ɒ����āv�ǂ���̘b�ł͂Ȃ��ł��ˁB���������A�͂����đ��Ƃ܂łɁA���̈��ʂȑ̎�����E�p�ł���̂ł��傤���H<br>
-�@�q���i�΁j�L�����͑��ς�炸�K�ޓK���H�ŁA�ɂ���Ƃ������܂��B<br>
-�@���������΂��Ă��������B</font>
+<font size=3 color=#606060>　あ……悪化している（笑）。<br>
+　もはや「服に着られて」どころの話ではないですね。つかっちゃん、はたして卒業までに、この因果な体質から脱却できるのでしょうか？<br>
+　客演（笑）キャラは相変わらず適材適所？で、にやっとさせられます。<br>
+　次回もがんばってください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[500]</font> <font size=4 color=#40c0c0> �w�����ւ����N�`�c���������@�t���@�a�����P�P�`�w�@�b�����������x������ɂ͂������N���b�N�B</font>
+<font size=2>[500]</font> <font size=4 color=#40c0c0> 『着せ替え少年〜Ｄｒｅｓｓ　Ｕｐ　Ｂｏｙ１１〜Ｘ　Ｃｈａｎｇｅ』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/19 (��) 21:57:00 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612192215700&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612192215700"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/19 (火) 21:57:00 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612192215700_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200612192215700"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���΂�����񂪌����Ă����c�c���ɒ�����҂́A�F�i�݂ȁj�̂�������ɂȂ�̂������߁\�\�i�c�c�΁j<br>
-<a href=http://ts.novels.jp/novel/200209/19204751/d_upboy11.htm target=_top>http://ts.novels.jp/novel/200209/19204751/d_upboy11.htm</a></font>
+<font size=3 color=#606060>【推薦文】おばあちゃんが言っていた……服に着られる者は、皆（みな）のおもちゃになるのがさだめ——（……笑）<br>
+<a href="../../novel/200209/19204751/d_upboy11.htm" target=_top>http://ts.novels.jp/novel/200209/19204751/d_upboy11.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[499]</font> <font size=4 color=#40c0c0> Re:����f�I�H�̎�</font>
+<font size=2>[499]</font> <font size=4 color=#40c0c0> Re:大迷惑！？の酒</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/28 (��) 00:17:43 <strong>��</strong> <a href="mailto:IZA00527@nifty.com">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611282001743&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611282001743"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/28 (火) 00:17:43 <strong>▽</strong> <a href="mailto:IZA00527@nifty.com">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611282001743_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611282001743"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �܂Ȃ���񂳂�<br>
+<font size=3 color=#606060>▼ まなちゃんさん<br>
 <br>
-<font color="#cc88ff">&gt; ���̌��Y�n�ɂ���ĈႤ�ϐg���ł���͖̂ʔ����ł��ˁB</font><br>
+<font color="#cc88ff">&gt; 酒の原産地によって違う変身ができるのは面白いですね。</font><br>
 <br>
-�@���肪�Ƃ��������܂��B<br>
-�@�������������Ŏv���������Y�ꂿ�Ⴂ�܂������ǁA��肭�s�����悤�ŉ����ł��B<br>
+　ありがとうございます。<br>
+　何がきっかけで思いついたか忘れちゃいましたけど、上手く行ったようで何よりです。<br>
 <br>
-�@�ł��ォ���Âɍl���Č���Ƃ�����āu�Ă����āI�@�W������v�́u���A�N�V�����v�Ɠ��������c<br>
+　でも後から冷静に考えて見るとこれって「焼き○て！　ジャ○ん」の「リアクション」と同じかも…<br>
 <br>
-<font color="#cc88ff">&gt; �܂��܂���������ɂ���Ă��܂����ނ����ꂩ��ǂ��Ȃ�̂��y���݂ł��B</font><br>
+<font color="#cc88ff">&gt; ますますおもちゃにされてしまった彼がこれからどうなるのか楽しみです。</font><br>
 <br>
-�@��҂ɂ���킩��܂���i���ӔC���j<br>
+　作者にすらわかりません（無責任だ）<br>
 <br>
-�@���ǂ݂��������܂��Ă��肪�Ƃ��������܂��B</font>
+　お読みいただきましてありがとうございます。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -121,46 +121,46 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[498]</font> <font size=4 color=#40c0c0> ����f�I�H�̎�</font>
+<font size=2>[498]</font> <font size=4 color=#40c0c0> 大迷惑！？の酒</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/25 (�y) 09:47:03 <strong>��</strong> �܂Ȃ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611256094703&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611256094703"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/25 (土) 09:47:03 <strong>▽</strong> まなちゃん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611256094703_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611256094703"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�V���[�Y���Ƃ������Ƃő����A�ǂ܂��Ă��炢�܂����B<br>
-���̌��Y�n�ɂ���ĈႤ�ϐg���ł���͖̂ʔ����ł��ˁB<br>
-�������������ĕϐg��������ނ͔��Ă��܂��܂��ˁB<br>
-�܂��܂���������ɂ���Ă��܂����ނ����ꂩ��ǂ��Ȃ�̂��y���݂ł��B</font>
+<font size=3 color=#606060>シリーズ化ということで早速、読ませてもらいました。<br>
+酒の原産地によって違う変身ができるのは面白いですね。<br>
+しかしかえって変身させられる彼は疲れてしまいますね。<br>
+ますますおもちゃにされてしまった彼がこれからどうなるのか楽しみです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[497]</font> <font size=4 color=#40c0c0> Re:�x���Ȃ�܂��������z�ł�</font>
+<font size=2>[497]</font> <font size=4 color=#40c0c0> Re:遅くなりましたが感想です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/25 (�y) 00:06:44 <strong>��</strong> <a href="mailto:IZA00527@nifty.com">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611256000644&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611256000644"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/25 (土) 00:06:44 <strong>▽</strong> <a href="mailto:IZA00527@nifty.com">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611256000644_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611256000644"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���肩�i�m���<br>
-<font color="#cc88ff">&gt;�A�C�f�B�A���ʔ����ł��ˁA����̖�(�ϑz�H�j���c��݂܂��B</font><br>
+<font size=3 color=#606060>▼ きりか進ノ介さん<br>
+<font color="#cc88ff">&gt;アイディアが面白いですね、今後の夢(妄想？）が膨らみます。</font><br>
 <br>
-�@���肪�Ƃ��������܂��B���̎��s�ɂ͎������Ȃ��̂Ńl�^�͌��\�o�Ă��邩�Ɓi�΁j<br>
+　ありがとうございます。酒の失敗には事欠かないのでネタは結構出てくるかと（笑）<br>
 <br>
-<font color="#cc88ff">&gt;�@����N�������Ŏg����������悤�ɂȂ�΂��邢�ݕ֗��Ȕ\�͂�������܂��񂪁A���ʂ͂������L�����Ȃ�ł��傤���ˁA�ł��ǂ���̕����ɍs���Ă��ʔ������ł��B</font><br>
+<font color="#cc88ff">&gt;　酒井君が自分で使い分けられるようになればあるいみ便利な能力かもしれませんが、当面はいじられキャラなんでしょうかね、でもどちらの方向に行っても面白そうです。</font><br>
 <br>
-�@�M��|����Ԃ͍��q�ł����A�������l�����q�������܂Ŗ\������L�����ɂȂ�Ƃ͎v���Ă܂���ł����B<br>
-�@�܂���e�͂ǂꂾ���ςȓz�������邩���L���ł����i�΁j<br>
+　弄り倒す一番は桜子ですが、書いた僕も桜子がここまで暴走するキャラになるとは思ってませんでした。<br>
+　まぁ城弾はどれだけ変な奴を書けるかがキモですが（笑）<br>
 <br>
-<font color="#cc88ff">&gt; �@������y���݂ɂ��Ă���܂��B</font><br>
+<font color="#cc88ff">&gt; 　次回も楽しみにしております。</font><br>
 <br>
-�@���񓊍e�͋v���Ԃ�́u�����ւ����N�v�ɂȂ肻���ł��B<br>
-�@������Ƃ炷�҂͔N�����ł����ˁB<br>
+　次回投稿は久しぶりの「着せ替え少年」になりそうです。<br>
+　だからとらすぴは年明けですかね。<br>
 <br>
-�@���ǂ݂��������܂��Ă��肪�Ƃ��������܂����B</font>
+　お読みいただきましてありがとうございました。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -168,15 +168,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[496]</font> <font size=4 color=#40c0c0> �x���Ȃ�܂��������z�ł�</font>
+<font size=2>[496]</font> <font size=4 color=#40c0c0> 遅くなりましたが感想です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/21 (��) 13:00:25 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611212130025&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611212130025"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/21 (火) 13:00:25 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611212130025_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611212130025"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�V���[�Y���΂񂴂��I�@������y�����ǂ܂��Ă��������܂����B�@�A�C�f�B�A���ʔ����ł��ˁA����̖�(�ϑz�H�j���c��݂܂��B�@����N�������Ŏg����������悤�ɂȂ�΂��邢�ݕ֗��Ȕ\�͂�������܂��񂪁A���ʂ͂������L�����Ȃ�ł��傤���ˁA�ł��ǂ���̕����ɍs���Ă��ʔ������ł��B<br>
-�@������y���݂ɂ��Ă���܂��B<br>
+<font size=3 color=#606060>　シリーズ化ばんざい！　今回も楽しく読ませていただきました。　アイディアが面白いですね、今後の夢(妄想？）が膨らみます。　酒井君が自分で使い分けられるようになればあるいみ便利な能力かもしれませんが、当面はいじられキャラなんでしょうかね、でもどちらの方向に行っても面白そうです。<br>
+　次回も楽しみにしております。<br>
 <br>
 <br>
 </font>
@@ -187,35 +187,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[495]</font> <font size=4 color=#40c0c0> Re:�ǂ܂��Ă��������܂����B</font>
+<font size=2>[495]</font> <font size=4 color=#40c0c0> Re:読ませていただきました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/19 (��) 10:00:30 <strong>��</strong> <a href="mailto:IZA00527@nifty.com">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611190100030&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611190100030"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/19 (日) 10:00:30 <strong>▽</strong> <a href="mailto:IZA00527@nifty.com">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611190100030_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611190100030"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �p�Y����<br>
-<font color="#cc88ff">&gt; �͂��߂܂��āB<br>
-&gt; �Ƃ�Ԃ遙���҂���A���̂����ǂ܂��Ă��������܂����B</font><br>
+<font size=3 color=#606060>▼ 英雄さん<br>
+<font color="#cc88ff">&gt; はじめまして。<br>
+&gt; とらぶる☆すぴりっつ、たのしく読ませていただきました。</font><br>
 <br>
-�@�͂��߂܂��āB�����Ă��肪�Ƃ��������܂��B<br>
+　はじめまして。そしてありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt; ���͓��̊X�`���D���ȍ�i�ł����B</font><br>
+<font color="#cc88ff">&gt; 実は湯の街〜も好きな作品でした。</font><br>
 <br>
-�@�������Ă���������Ə�����܂��B���Ȃ�l�ꔪ�ꂵ����i�ł����̂ŁB<br>
+　そう仰っていただけると助かります。かなり四苦八苦した作品でしたので。<br>
 <br>
-<font color="#cc88ff">&gt; ���̌�̐��i�A�����ɂ܂ŉe������Ȃ�āA</font><br>
+<font color="#cc88ff">&gt; その後の性格、服装にまで影響するなんて、</font><br>
 <br>
-�@������ߐM���Ă��������ߊ쌀�Ɂi�΁j<br>
+　それを過信してああいう悲喜劇に（笑）<br>
 <br>
-<font color="#cc88ff">&gt; �܂��{�l�͑�ς��낤�Ȃ��Ɠ�������܂����i�΁j</font><br>
+<font color="#cc88ff">&gt; まあ本人は大変だろうなぁと同情いたしますが（笑）</font><br>
 <br>
-�@�􂢂����邱�ƂȂ�����q�����邩��i�΁j<br>
+　呪いもさることながら桜子が煽るから（笑）<br>
 <br>
 &gt;<br>
-<font color="#cc88ff">&gt; ������y���݂ɂ��Ă��܂��B</font><br>
+<font color="#cc88ff">&gt; 次回も楽しみにしています。</font><br>
 <br>
-�@�͂��B�����҂ɉ����悤�ɂ��܂��B</font>
+　はい。ご期待に沿うようにします。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -223,73 +223,73 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[494]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��������܂����B</font>
+<font size=2>[494]</font> <font size=4 color=#40c0c0> 読ませていただきました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/15 (��) 00:26:44 <strong>��</strong> �p�Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611153002644&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611153002644"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/15 (水) 00:26:44 <strong>▽</strong> 英雄 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611153002644_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611153002644"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂��߂܂��āB<br>
-�Ƃ�Ԃ遙���҂���A���̂����ǂ܂��Ă��������܂����B<br>
-���͓��̊X�`���D���ȍ�i�ł����B<br>
-����̍�i�������ɂ���ď��������A���������ꂪ�Y�n��i���ɂ����<br>
-���̌�̐��i�A�����ɂ܂ŉe������Ȃ�āA�Ȃ�ĕ֗��ȁc�c���₢��<br>
-�Ȃ�ă��j�[�N�Șb���낤�Ǝv���܂����B<br>
-�܂��{�l�͑�ς��낤�Ȃ��Ɠ�������܂����i�΁j<br>
+<font size=3 color=#606060>はじめまして。<br>
+とらぶる☆すぴりっつ、たのしく読ませていただきました。<br>
+実は湯の街〜も好きな作品でした。<br>
+今回の作品もお酒によって女性化し、しかもそれが産地や品質によって<br>
+その後の性格、服装にまで影響するなんて、なんて便利な……いやいや<br>
+なんてユニークな話だろうと思いました。<br>
+まあ本人は大変だろうなぁと同情いたしますが（笑）<br>
 <br>
-������y���݂ɂ��Ă��܂��B</font>
+次回も楽しみにしています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[493]</font> <font size=4 color=#40c0c0> �w�Ƃ�Ԃ遙���҂���d�������������Q�u�𖾁v�x������ɂ͂������N���b�N�B</font>
+<font size=2>[493]</font> <font size=4 color=#40c0c0> 『とらぶる☆すぴりっつＥｐｉｓｏｄｅ２「解明」』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/13 (��) 21:11:03 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611131211103&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611131211103"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/13 (月) 21:11:03 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611131211103_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611131211103"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�����Łu�����v�Ə����ƁA�ʂ̃L�����N�^�[��z�����Ă��܂��c�c����Ȃ��Ă��I�@���߂Έ��ނقǂɐF���ۂ��s�r�����n�k�^�������̂��b���b�ł��B<br>
-<a href=http://ts.novels.jp/novel/200209/19204751/t_spirit2.htm target=_top>http://ts.novels.jp/novel/200209/19204751/t_spirit2.htm</a></font>
+<font size=3 color=#606060>【推薦文】漢字で「諸星」と書くと、別のキャラクターを想像してしまう……じゃなくてっ！　飲めば飲むほどに色っぽいＴＳっ娘ＯＬ真澄ちゃんのお話第二話です。<br>
+<a href="../../novel/200209/19204751/t_spirit2.htm" target=_top>http://ts.novels.jp/novel/200209/19204751/t_spirit2.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[444]</font> <font size=4 color=#40c0c0> ����y�ϐg�A�C�e��</font>
+<font size=2>[444]</font> <font size=4 color=#40c0c0> お手軽変身アイテム</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/07 (��) 00:27:56 <strong>��</strong> <a href="mailto:IZA00527@nifty.com">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607075002756&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607075002756"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/07 (金) 00:27:56 <strong>▽</strong> <a href="mailto:IZA00527@nifty.com">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607075002756_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200607075002756"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �܂Ȃ���񂳂�<br>
+<font size=3 color=#606060>▼ まなちゃんさん<br>
 <br>
-�@���X���x���Ȃ�܂����B�\����Ȃ��ł��B<br>
+　レスが遅くなりました。申し訳ないです。<br>
 <br>
-<font color="#cc88ff">&gt; ����قǂ݂��ƊȒP��y�ɏ��ɕϐg�ł���̂͂܂�����܂���ˁB</font><br>
+<font color="#cc88ff">&gt; これほどみごと簡単手軽に女に変身できるのはまずありませんね。</font><br>
 <br>
-�@�Ȃɂ���ǂ��ɂł�����܂����B<br>
+　なにしろどこにでもありますし。<br>
 <br>
-<font color="#cc88ff">&gt; ���䂭��͕s�^�ɂ������䂤�ƒ�ɐ��܂�ĉ�Ђł͂������ስ���c�c<br>
-&gt; �炢�ł��傤��������^���Ȃ̂ł��傤�B</font><br>
+<font color="#cc88ff">&gt; 酒井くんは不運にもそうゆう家庭に生まれて会社ではおもちゃ扱い……<br>
+&gt; つらいでしょうがこれも運命なのでしょう。</font><br>
 <br>
-�@�����Ėl�ƌ���������ɍ��ꂽ�̂���Ԃ̕s�K�Łi�΁j<br>
+　そして僕と言う書き手に作られたのが一番の不幸で（笑）<br>
 <br>
-�@�����Ƃ�������Ȃ�΂�����<br>
+　つかさといいそんなんばっかし<br>
 <br>
-�@����͂��Ă����A���ǂ݂��������܂��Ă��肪�Ƃ��������܂��B</font>
+　それはさておき、お読みいただきましてありがとうございます。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="johdan">
@@ -297,16 +297,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="johdan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=johdan">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_johdan.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

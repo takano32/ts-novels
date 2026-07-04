@@ -89,7 +89,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】遊園地、殺人事件、謎の取引＆組織、そして……何処かで見たような展開です（笑）。<br>
-<a href=http://ts.novels.jp/novel/200508/13005753/t4869_1 target=_top>http://ts.novels.jp/novel/200508/13005753/t4869_1</a></font>
+<a href="../../novel/200508/13005753/t4869_1" target=_top>http://ts.novels.jp/novel/200508/13005753/t4869_1</a></font>
 </td></table>
 </td></tr></table>
 

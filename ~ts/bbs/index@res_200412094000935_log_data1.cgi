@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>��i�Љ�f����</title>
+<title>作品紹介掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��i�Љ�f����</font>
+<font size=5>作品紹介掲示板</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>����A�V��Ɋւ�炸�A�����߂̍�i���������炱���ɏЉ�������Ă��������B<br>�Ȃ��A������������̂��߂ɁA��i�ւ̃����N������Ă����Ă��������B </font>
+<font color=#608080>旧作、新作に関わらず、お勧めの作品があったらここに紹介文を書いてください。<br>なお、ここを見る方のために、作品へのリンクも入れてあげてください。 </font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,35 +15,35 @@
 <input type=hidden name="log" value="data1">
 <input type=hidden name="nj" value="AKxDhflQrH">
 <input type=hidden name="res" value="31">
-<h4 align=center>�� �L���ԍ� 31 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 31 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ނ����ނ���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �܂Ȃ䂤����
-&gt; �͂邩�́A���������������̃W���u�i�C���̒Z�҂Ɂu����Ζ����̗R�I�v�Ƃ���
-&gt; �̂����������傤�ȁE�E�E�B
-&gt; �{�i�r�e�ł̓n�C�����C���́u�����Ȃ񂩋����Ȃ��v�A�]�ڐA���̂ł��B
-&gt; ����ł͋|�����́u�l�̏��̌��v�A������Ƃ���邯�Ǎ]�����j�́u�X�g�b�v!!
-&gt; �Ђ΂肭��!�v
-&gt; ���̕��ɂł́A�u�o��͓ˑR�v�A�u�������v�A�u�����Ђ͂܂��̂ڂ�v�B
-&gt; �u���{�������������v�A�u�����ւ����N�v�A�u�������݂��݁v�Ƃ����Ƃ����
-&gt; ���傤���B
-&gt; �Ȃ񂩁A�Â�����΂���ł��߂�Ȃ����B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:むかしむかし"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ まなゆうさん
+&gt; はるか昔、光瀬龍だったかのジュブナイルの短編に「さらば明日の由紀」という
+&gt; のがあったちょうな・・・。
+&gt; 本格ＳＦではハインラインの「悪徳なんか恐くない」、脳移植ものです。
+&gt; 漫画では弓月光の「僕の初体験」、ちょっとずれるけど江口寿史の「ストップ!!
+&gt; ひばりくん!」
+&gt; この文庫では、「出会いは突然」、「蒼い時」、「あさひはまたのぼる」。
+&gt; 「ロボｔｒｙ美少女」、「着せ替え少年」、「微妙存在ろろみ」というところで
+&gt; しょうか。
+&gt; なんか、古いもんばかりでごめんなさい。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -59,13 +59,13 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[38]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/27 (��) 16:47:40 <strong>��</strong> ������ </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200501274164740&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501274164740"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/27 (木) 16:47:40 <strong>▽</strong> 小書生 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200501274164740_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200501274164740"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�c��ȍ�i�Q�̒�����ǂ݂����̂��镨��T�����Ƃ��āA���\��ςȂ�ł��ˁB�Ƃ��肷���肳��̂悤�ɂ����ߕi���܂Ƃ߂Ă��炦��ƁA�ƂĂ����ӂ������Ȃ�܂��I<br>
-�@���̒��Łu���@�������X�J���E�~�[�i�v�i�앶������j�����ǂ�ł��܂���i���������X��I��œǂ񂾂̂ł��j���A��ϖʔ��������ł��B<br>
-�@�ق��̍�i���撣���ēǂ݂܂��B<br>
+<font size=3 color=#606060>　膨大な作品群の中から読みがいのある物を探すことって、結構大変なんですね。とをりすがりさんのようにお勧め品をまとめてもらえると、とても感謝したくなります！<br>
+　その中で「魔法少女ラスカル・ミーナ」（南文堂さん）しか読んでいません（しかも所々を選んで読んだのです）が、大変面白かったです。<br>
+　ほかの作品も頑張って読みます。<br>
 <br>
 </font>
 </td></table>
@@ -74,144 +74,144 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> ���̂����ߍ�i</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> 私のお勧め作品</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/23 (��) 22:16:51 <strong>��</strong> �Ƃ��肷���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200501230221651&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501230221651"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/23 (日) 22:16:51 <strong>▽</strong> とをりすがり </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200501230221651_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200501230221651"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<pre><font size=3 color=#606060>��������i�ɐh��������i�ɊÂ߂ŏ��s���ł����Ă݂�ƈȉ��̒ʂ�ł��傤���B
+<pre><font size=3 color=#606060>未完結作品に辛く完結作品に甘めで順不同であげてみると以下の通りでしょうか。
 
-������i
-�E�炢������(����˂�����)
-�E�S�l�ڂ̎o��(���ƂԂ��Ђ��邳��)
-�E�@���A�C�h�� �~���L�[�E�G���W�F��(��������[����)
-�E�ϐg��������m�~���[�W���K�[��(���C�^�[�}������)
-�EP.F.�L�����A�[(HIKO����)
-�ERental Body�V���[�Y(TWO-BIT����)
+完結作品
+・らいか大作戦(かわねぎさん)
+・４人目の姉妹(ことぶきひかるさん)
+・機動アイドル ミルキー・エンジェル(よっすぃーさん)
+・変身美少女戦士ミラージュガール(ライターマンさん)
+・P.F.キャリアー(HIKOさん)
+・Rental Bodyシリーズ(TWO-BITさん)
 
-��������i
-�E�����@�������V���K�[�G���W�F���X(�_�숻�T����)
-�E�d���I���퐶��(�W���[�W���b�h����)
-�E���@�������ޗ���(�W���[�W���b�h����)
-�EThe voice of ours(����������)
-�E���@�������X�J���E�~�[�i(�앶������)
-�E�R���`�F���g��������x�V���[�Y(��_������)
-�E�w���{�s�q�x���������x�V���[�Y(MONDO����)
+未完結作品
+・特務機動部隊シュガーエンジェルス(神川綾乃さん)
+・妖精的日常生活(ジャージレッドさん)
+・魔法少女♪奈里佳(ジャージレッドさん)
+・The voice of ours(水無月さん)
+・魔法少女ラスカル・ミーナ(南文堂さん)
+・コンチェルトをもう一度シリーズ(矢治浩平さん)
+・『ロボＴＲＹ美少女っ』シリーズ(MONDOさん)
 
-�������Č���ƁA�Â���i�����������B
-���āA���h���C���ɂȂ�O���痈�Ă��܂�����A���傤���Ȃ��ʂ͂���̂ł����c
-�ŋ߂̍�i�͏����Ȃ��̂������̂������̈�����B
-(TS���ړI�̍�i�͌����Ƃ����̂�����܂���)
+こうして見ると、古い作品が多いかも。
+って、現ドメインになる前から来ていますから、しょうがない面はあるのですが…
+最近の作品は小粒なものが多いのも原因の一つかも。
+(TSが目的の作品は嫌いというのもありますが)
 
-�@���łɁA��������i�͍��ł��ĊJ�����̂�҂��Ă��܂��B</font></pre>
+　ついでに、未完結作品は今でも再開されるのを待っています。</font></pre>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> �V���P�[�^�C����</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 新潮ケータイ文庫</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/19 (��) 20:04:44 <strong>��</strong> You know who </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200501193200444&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501193200444"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/19 (水) 20:04:44 <strong>▽</strong> You know who </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200501193200444_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200501193200444"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�k������w�l���E�������x�ł����Ȃ��l���̐N(���b�̒��ł͂Q�O�΂��u���N�v�ƌ����Ă�)���ڊo�߂�Ə��̎p�ɂȂ��Ă�A�Ƃ����Ƃ��납��b���n�܂����肵�Ă܂��B</font>
+<font size=3 color=#606060>北川歩実『僕を殺した女』でいきなり主人公の青年(お話の中では２０歳を「少年」と言ってる)が目覚めると女の姿になってる、というところから話が始まったりしてます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> Re:�ނ����ނ���</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> Re:むかしむかし</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/19 (��) 23:38:46 <strong>��</strong> �����ۂ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200412190233846&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412190233846"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/19 (日) 23:38:46 <strong>▽</strong> ちゃんぽん </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200412190233846_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200412190233846"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �܂Ȃ䂤����<br>
-<font color="#cc88ff">&gt; �͂邩�́A���������������̃W���u�i�C���̒Z�҂Ɂu����Ζ����̗R�I�v�Ƃ���<br>
-&gt; �̂����������傤�ȁE�E�E�B</font><br>
-���΂�I�����̗R�I�ł��ˁB���\�q���ɂ͏Ռ��I�ł����B</font>
+<font size=3 color=#606060>▼ まなゆうさん<br>
+<font color="#cc88ff">&gt; はるか昔、光瀬龍だったかのジュブナイルの短編に「さらば明日の由紀」という<br>
+&gt; のがあったちょうな・・・。</font><br>
+あばよ！明日の由紀ですね。結構子供には衝撃的でした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> �t�B���[���̈�b</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> フィメールの逸話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/19 (��) 23:32:49 <strong>��</strong> �����ۂ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200412190233249&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412190233249"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/19 (日) 23:32:49 <strong>▽</strong> ちゃんぽん </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200412190233249_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200412190233249"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ŋ߁u�t�B���[���̈�b�v�Ƃ��������ǂ񂾂̂ł����Ȃ��Ȃ��悩�����ł��B<br>
-�W�O�N�㏉���Ƃ������Ƃł��ƌÂ��^�C�v�̏�������Ȃ̂ł���������炯�ł�<br>
-�Ȃ��V���A�X�Ɉ��Ƃ́A���Ƃ͂��l����������e�[�}���̂��閟��ł����B<br>
-���q�����̑䎌�Ȃ񂩂����ɂ��Â���ł����A���̂ƈ���Đ��_�N���������<br>
-�������ĐV�N�ł����B�����̏���������ē��̂����l���ǂނ��̂�������ł��ˁ`�B</font>
+<font size=3 color=#606060>最近「フィメールの逸話」という漫画を読んだのですがなかなかよかったです。<br>
+８０年代初期ということでわりと古いタイプの少女漫画なのですがおちゃらけでは<br>
+なくシリアスに愛とは、性とはを考えさえられるテーマ性のある漫画でした。<br>
+女子高生の台詞なんかいかにも古いんですが、今のと違って精神年齢が高いから<br>
+かえって新鮮でした。当時の少女漫画って頭のいい人が読むものだったんですね〜。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> Re:�ނ����ނ����|�Ē���</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> Re:むかしむかし−再訂正</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/11 (�y) 16:45:05 <strong>��</strong> �܂Ȃ䂤 </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200412116164505&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412116164505"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/11 (土) 16:45:05 <strong>▽</strong> まなゆう </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200412116164505_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200412116164505"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �܂Ȃ䂤����<br>
-<font color="#cc88ff">&gt;���̕��ɂł́A�u�o��͓ˑR�v�A�u�������v�A�u�����Ђ͂܂��̂ڂ�v�B</font><br>
-�u�o��͓ˑR�v���u�o��͋��R�v�ł����B�Ē����ł��B�����܂���B</font>
+<font size=3 color=#606060>▼ まなゆうさん<br>
+<font color="#cc88ff">&gt;この文庫では、「出会いは突然」、「蒼い時」、「あさひはまたのぼる」。</font><br>
+「出会いは突然」→「出会いは偶然」でした。再訂正です。すいません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> Re:�ނ����ނ����[�̒���</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> Re:むかしむかしーの訂正</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/11 (�y) 11:19:09 <strong>��</strong> �܂Ȃ䂤 </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200412116111909&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412116111909"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/11 (土) 11:19:09 <strong>▽</strong> まなゆう </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200412116111909_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200412116111909"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �܂Ȃ䂤����<br>
-<font color="#cc88ff">&gt; �͂邩�́A���������������̃W���u�i�C���̒Z�҂Ɂu����Ζ����̗R�I�v�Ƃ���<br>
-&gt; �̂����������傤�ȁE�E�E�B</font><br>
-�@���u�������悤�ȁE�E�E�v�ł����B�������܂��B<br>
+<font size=3 color=#606060>▼ まなゆうさん<br>
+<font color="#cc88ff">&gt; はるか昔、光瀬龍だったかのジュブナイルの短編に「さらば明日の由紀」という<br>
+&gt; のがあったちょうな・・・。</font><br>
+　↑「あったような・・・」でした。訂正します。<br>
 <br>
-�@���ƕt�������A�{�i�r�e�ŁA�A�[�V�����E�j�E���E�O�C���́u�ł̍���v</font>
+　あと付け足し、本格ＳＦで、アーシュラ・Ｋ・ル・グインの「闇の左手」</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> �ނ����ނ���</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> むかしむかし</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/09 (��) 00:09:35 <strong>��</strong> �܂Ȃ䂤 </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200412094000935&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412094000935"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/09 (木) 00:09:35 <strong>▽</strong> まなゆう </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200412094000935_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200412094000935"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂邩�́A���������������̃W���u�i�C���̒Z�҂Ɂu����Ζ����̗R�I�v�Ƃ���<br>
-�̂����������傤�ȁE�E�E�B<br>
-�{�i�r�e�ł̓n�C�����C���́u�����Ȃ񂩋����Ȃ��v�A�]�ڐA���̂ł��B<br>
-����ł͋|�����́u�l�̏��̌��v�A������Ƃ���邯�Ǎ]�����j�́u�X�g�b�v!!<br>
-�Ђ΂肭��!�v<br>
-���̕��ɂł́A�u�o��͓ˑR�v�A�u�������v�A�u�����Ђ͂܂��̂ڂ�v�B<br>
-�u���{�������������v�A�u�����ւ����N�v�A�u�������݂��݁v�Ƃ����Ƃ����<br>
-���傤���B<br>
-�Ȃ񂩁A�Â�����΂���ł��߂�Ȃ����B</font>
+<font size=3 color=#606060>はるか昔、光瀬龍だったかのジュブナイルの短編に「さらば明日の由紀」という<br>
+のがあったちょうな・・・。<br>
+本格ＳＦではハインラインの「悪徳なんか恐くない」、脳移植ものです。<br>
+漫画では弓月光の「僕の初体験」、ちょっとずれるけど江口寿史の「ストップ!!<br>
+ひばりくん!」<br>
+この文庫では、「出会いは突然」、「蒼い時」、「あさひはまたのぼる」。<br>
+「ロボｔｒｙ美少女」、「着せ替え少年」、「微妙存在ろろみ」というところで<br>
+しょうか。<br>
+なんか、古いもんばかりでごめんなさい。</font>
 </td></table>
 </td></tr></table>
 
@@ -221,11 +221,11 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[30]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/10/12 (��) 05:45:19 <strong>��</strong> ���m�ɂ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200410122054519&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200410122054519"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/10/12 (火) 05:45:19 <strong>▽</strong> 正確には </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200410122054519_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200410122054519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u���̏�̑����v�ł��B��łƂ͂���Ȃ������B���ɂ͂Ȃ��񂾂���</font>
+<font size=3 color=#606060>「樹の上の草魚」です。絶版とはしらなかった。文庫はないんだっけ</font>
 </td></table>
 </td></tr></table>
 
@@ -235,22 +235,22 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[29]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/10/05 (��) 13:02:39 <strong>��</strong> ���̂�낵 </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200410052130239&log=data1">�ԐM</a>�@�폜<input type=checkbox name="target" value="200410052130239"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/10/05 (火) 13:02:39 <strong>▽</strong> あのよろし </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200410052130239_log_data1.cgi">返信</a>　削除<input type=checkbox name="target" value="200410052130239"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂��߂܂��āB<br>
-�v�X�ɂs�r�����ĔR�����Ă���Ă��܂����B<br>
-�@��؂̏�̑�����@���F����䂤��<br>
-���낢��ƕ׋������Ă����������ł��B<br>
-�����A��Ŗ{�Ȃ̂ŏ��X�ǂ��납�o�ŎЂɂ��u���Ă��Ȃ������肵�܂��B<br>
-�߂��̐}���قɂ����ɂɕۊǂ���Ă��܂����B</font>
+<font size=3 color=#606060>はじめまして。<br>
+久々にＴＳ魂を再燃させてやってきました。<br>
+　｢木の上の草魚｣　著：薄井ゆうじ<br>
+いろいろと勉強させてもらった一冊です。<br>
+ただ、絶版本なので書店どころか出版社にも置いていなかったりします。<br>
+近くの図書館にも書庫に保管されていました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data1">
@@ -258,16 +258,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data1">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data1">�X�V</a>] [<a href="http://ts.novels.jp">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data1.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

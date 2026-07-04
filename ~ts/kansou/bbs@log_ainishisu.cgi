@@ -154,13 +154,13 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】さて。今回のプロフェッサーＫ、なんだかひとり静かに荒れてます。<br>
 <br>
-<a href=http://ts.novels.jp/novel/professor_k/professor_k03.html target=_top>http://ts.novels.jp/novel/professor_k/professor_k03.html</a><br>
+<a href="../../novel/professor_k/professor_k03.html" target=_top>http://ts.novels.jp/novel/professor_k/professor_k03.html</a><br>
 <br>
 <br>
 【第壱話はこちら】<br>
-<a href=http://ts.novels.jp/novel/professor_k/professor_k01.html target=_top>http://ts.novels.jp/novel/professor_k/professor_k01.html</a><br>
+<a href="../../novel/professor_k/professor_k01.html" target=_top>http://ts.novels.jp/novel/professor_k/professor_k01.html</a><br>
 【第弐話はこちら】<br>
-<a href=http://ts.novels.jp/novel/professor_k/professor_k02.html target=_top>http://ts.novels.jp/novel/professor_k/professor_k02.html</a><br>
+<a href="../../novel/professor_k/professor_k02.html" target=_top>http://ts.novels.jp/novel/professor_k/professor_k02.html</a><br>
 </font>
 </td></table>
 </td></tr></table>

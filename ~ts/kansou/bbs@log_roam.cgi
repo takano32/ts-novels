@@ -79,7 +79,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】初登場のろーむさん。第一作は謎の生命体とのバトルアクションです。<br>
-<a href=http://ts.novels.jp/novel/200608/15210505/orchid.html target=_top>http://ts.novels.jp/novel/200608/15210505/orchid.html</a><br>
+<a href="../../novel/200608/15210505/orchid.html" target=_top>http://ts.novels.jp/novel/200608/15210505/orchid.html</a><br>
 　※ 記事投稿の際は、入力コード右側の半角英数字６文字を、その右側のボックスに入力してください。</font>
 </td></table>
 </td></tr></table>

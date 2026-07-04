@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,31 +15,31 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="AGyXP7IsfZ">
 <input type=hidden name="res" value="2412">
-<h4 align=center>�� �L���ԍ� 2412 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 2412 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re3:�w�i�ݒ�̕`����"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �Vࣂ���
-&gt; �� �ĒÂ���
-&gt; ��񊴎ӂł��B���x�T���Ă݂܂��ˁB
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re3:背景設定の描き方"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 天爛さん
+&gt; ▼ 米津さん
+&gt; 情報感謝です。今度探してみますね。
 &gt; 
-&gt; &gt;���ۂ̂Ƃ��댻�������R�~�b�N�����̒��̂��񑩂̎����Ƒ����������悳�����ȋC�����܂��B
-&gt; ���܂胊�A��������̂��Ȃ�Ȃ̂ł���ŏ[�������m��܂���ˁ�</textarea><br>
+&gt; &gt;実際のところ現実よりもコミック文化の中のお約束の資料と捉えた方がよさそうな気がします。
+&gt; あまりリアルすぎるのもなんなのでそれで充分かも知れませんね♪</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h FBOTwg  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="FBOTwg"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード FBOTwg  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="FBOTwg"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �L�����e�̍ۂ́A���p�p��6�����̓��̓R�[�h���E���̃{�b�N�X�ɂ��̂܂ܓ��͂��ĉ�����.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 記事投稿の際は、半角英数6文字の入力コードを右側のボックスにそのまま入力して下さい.</font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -52,15 +52,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2423]</font> <font size=4 color=#50d0d0> �ԏ�R�싅��ɉ̐��͋���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2423]</font> <font size=4 color=#50d0d0> 赤城山卓球場に歌声は響く</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/08/28 (��) 23:43:23  �����Ђ�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200608281234323">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608281234323"></font>
+<font size="-1" color="#606060"> 2006/08/28 (月) 23:43:23  高樹ひろむ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200608281234323.cgi">返信</a>　削除<input type=checkbox name="target" value="200608281234323"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�����A�u�ؑタ���v�Ō�������ƈ����������Ă���{�ł��ˁi�^��ؑタ���Ƃ͉��̊֌W������܂��񂪁j�B<br>
-�u�ˑR�p���������ؑタ���v�ȂǂƏ����Ă�������������Љ�T�C�g���N���b�N�B</font>
+<font size=4 color=#000000>ああ、「華代ちゃん」で検索すると引っかかってくる本ですね（真城華代ちゃんとは何の関係もありませんが）。<br>
+「突然姿を消した華代ちゃん」などと書いてあったからついつい紹介サイトをクリック。</font>
 <p><div align=left><a href="http://blunderer.web.fc2.com/" target="_top">http://blunderer.web.fc2.com/</a></div>
 </td></table>
 </td></tr></table>
@@ -68,47 +68,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2419]</font> <font size=4 color=#50d0d0> Re:���킢�����̎q</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2419]</font> <font size=4 color=#50d0d0> Re:かわいい女の子</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/08/14 (��) 01:56:06  �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200608141015606">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608141015606"></font>
+<font size="-1" color="#606060"> 2006/08/14 (月) 01:56:06  米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200608141015606.cgi">返信</a>　削除<input type=checkbox name="target" value="200608141015606"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���̐��E�ς�����Ȃ��l�ɂ͂ƂĂ��Ȃ��n���Ȃ̂ŁA�t�F�C�o���b�g�ƌ������l�ɂ͊��߂ĂȂ������肵�܂��B<br>
-�L�삳�񂪍����͕̂�����C�����܂��B���Ȃ݂ɍŐV��́u����������Ƃ̒j�q���Z���v�̘b�ł�����͖��l��<br>
-�����߂Ȃ̂ł����A���ʕω��Ƃ͂Ȃ�̊ւ�������܂���(��)�B<br>
+<font size=4 color=#000000>あの世界観が合わない人にはとてつもない地雷なので、フェイバリットと言いつつ他人には勧めてなかったりします。<br>
+猫野さんが合うのは分かる気がします。ちなみに最新作は「元美少女作家の男子高校生」の話でこちらは万人に<br>
+お勧めなのですが、性別変化とはなんの関わりもありません(笑)。<br>
 <br>
-�ŁA������Ƃ̏�����l�����̂Ƃ����_���猩��ƁA�쑺�������̂��b�̓����̓^�t�ȏ��̎q���ɂ���܂��B<br>
-���N�������C�g�m�x���̓T�^�I�ȃq���C�����́A�������Ǔ��ʓI�ɂ͎ォ������D���������肷�鏗�̎q�A<br>
-�Ȃ̂ł����A�쑺��i�ł͐^�t�ŁA�ق��ق����Ă�̂ɐc�̕����ŋ��낵�������đO�����Ȏ��������ł��B<br>
-���f�������ł��܂��B���̕ӂ肪�j���A�������猩�����̎q���̈Ⴂ���ȂƎv���܂��B<br>
-����͑싅��V���[�Y�ȊO�ł��u�t�H�[�E�}�C�E�_�[�����v�ɕ�����₷������Ă�̂ł����A<br>
-�u�\���I�Ȑ��ʕω���l���v�Ƃ����ڕW���f����ĒÂƂ��Ă͎Q�l�ɂ����������ł��B<br>
-�t�ɁA���ド�C�g�m�x���I�ȖG���e���v���ɂ͓��Ă͂܂�Ȃ��̂ŁA�����������������҂���Ǝc�O�܂ɁB<br>
+で、女性作家の女性主人公ものという点から見ると、野村美月氏のお話の特徴はタフな女の子像にあります。<br>
+少年向けライトノベルの典型的なヒロイン像は、強いけど内面的には弱かったり優しかったりする女の子、<br>
+なのですが、野村作品では真逆で、ほえほえしてるのに芯の部分で恐ろしく強くて前向きな事が多いです。<br>
+決断も自分でします。この辺りが男性、女性から見た女の子像の違いかなと思います。<br>
+これは卓球場シリーズ以外でも「フォー・マイ・ダーリン」に分かりやすく現れてるのですが、<br>
+「能動的な性別変化主人公」という目標を掲げる米津としては参考にしたい部分です。<br>
+逆に、現代ライトノベル的な萌えテンプレには当てはまらないので、そういった物を期待すると残念賞に。<br>
 <br>
-���ɂ�������ƂȂ�ł͂Ȃ̂��A���ՂȌ��t��ςݏd�˂ĕ\�����鋭����D�����A�܂�<br>
-���̎q�̐����`�ʂ����ȓ_���A�u���ʕω��̑S�N��WEB�n��v�Ƃ����W�������̎Q�l�ɂȂ�_�͑����Ǝv���܂��B<br>
-�ƌ��������A�����������b�����ɁA�P���ɕĒÎ��g���S��i����������쑺�����t�@���Ȃ̂ł����ǂˁB</font>
+他にも女性作家ならではなのか、平易な言葉を積み重ねて表現する強さや優しさ、また<br>
+女の子の生活描写が密な点も、「性別変化の全年齢WEB創作」というジャンルの参考になる点は多いと思います。<br>
+と言うよりも、そういった話抜きに、単純に米津自身が全作品を所持する野村美月ファンなのですけどね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2418]</font> <font size=4 color=#50d0d0> Re:���킢�����̎q</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2418]</font> <font size=4 color=#50d0d0> Re:かわいい女の子</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/08/13 (��) 21:24:45  ���a </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200608130212445">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608130212445"></font>
+<font size="-1" color="#606060"> 2006/08/13 (日) 21:24:45  七斬 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200608130212445.cgi">返信</a>　削除<input type=checkbox name="target" value="200608130212445"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�������͂��̖{�A�^�C�g���ƁA�C���X�g�̂��킢���ƁA�e�F�L�����̖��O�Ɏ䂩��Ĕ����܂����B<br>
-�����悤�Ȕ����������l�A�������̊E�G�ɂ͉��l������񂶂�Ȃ����ȂƎv���܂��B<br>
-�s�r�܂������֌W�Ȃ���ł����ǂˁB<br>
-���Ȃ�C��������Ă�^�C�g���ȏ�ɁA���E�ς������A���Ȃ�ł���<br>
-���̎q���m�̗F��ƂĂ������J���ɕ`����Ă��悤�Ɏv���܂��B<br>
-���łɑ��҂��܂Ƃ߂Ă������߂ł��B<br>
+<font size=4 color=#000000>あっしはその本、タイトルと、イラストのかわいさと、親友キャラの名前に惹かれて買いました。<br>
+似たような買い方した人、多分この界隈には何人かいるんじゃないかなと思います。<br>
+ＴＳまったく関係ないんですけどね。<br>
+かなりイっちゃってるタイトル以上に、世界観が相当アレなんですが<br>
+女の子同士の友情がとてもリリカルに描かれてたように思います。<br>
+ついでに続編もまとめておすすめです。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -116,126 +116,126 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2417]</font> <font size=4 color=#50d0d0> ���킢�����̎q</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2417]</font> <font size=4 color=#50d0d0> かわいい女の子</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/08/12 (�y) 19:50:06  �L�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200608126195006">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608126195006"></font>
+<font size="-1" color="#606060"> 2006/08/12 (土) 19:50:06  猫野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200608126195006.cgi">返信</a>　削除<input type=checkbox name="target" value="200608126195006"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�����ƁA�b���ǂ�ǂ񂸂�܂����A���̂������ĒÂ��񂪑E�߂Ă����{�A<br>
-�u�ԏ�R�싅��ɉ̐��͋����@�쑺�����@�t�@�~�ʕ��Ɂv<br>
-���ꂪ�u���̎q���ǂ̂悤�ɂ��킢�����v���e�[�}�ɂȂ��Ă���{�ł����B<br>
-�@�ǂ�ȕ��𒅂Ăǂ�ȍs�������āA�ǂ�Ȃӂ��ɑ싅������i�I�I�j<br>
-���̎q�����킢������ǋ�����΁A���ɖ{���������Ƃ����b�ł��B<br>
-�@�������_���猩�����킢�����̎q�̘b�ł����A��������Γǂ�ł��������B<br>
-�@�����ւ�ʔ��������ł��B</font>
+<font size=4 color=#000000>　ええと、話がどんどんずれますが、このあいだ米津さんが薦めていた本、<br>
+「赤城山卓球場に歌声は響く　野村美月　ファミ通文庫」<br>
+これが「女の子がどのようにかわいいか」がテーマになっている本でした。<br>
+　どんな服を着てどんな行動をして、どんなふうに卓球をする（！！）<br>
+女の子がかわいいかを追求すれば、文庫本一冊書けるという話です。<br>
+　女性視点から見たかわいい女の子の話ですが、興味あれば読んでください。<br>
+　たいへん面白かったです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2412]</font> <font size=4 color=#50d0d0> Re2:�w�i�ݒ�̕`����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2412]</font> <font size=4 color=#50d0d0> Re2:背景設定の描き方</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/08/01 (��) 20:11:03  <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200608012201103">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608012201103"></font>
+<font size="-1" color="#606060"> 2006/08/01 (火) 20:11:03  <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200608012201103.cgi">返信</a>　削除<input type=checkbox name="target" value="200608012201103"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� �ĒÂ���<br>
-��񊴎ӂł��B���x�T���Ă݂܂��ˁB<br>
+<font size=4 color=#000000>▼ 米津さん<br>
+情報感謝です。今度探してみますね。<br>
 <br>
-<font color="#cc88ff">&gt;���ۂ̂Ƃ��댻�������R�~�b�N�����̒��̂��񑩂̎����Ƒ����������悳�����ȋC�����܂��B</font><br>
-���܂胊�A��������̂��Ȃ�Ȃ̂ł���ŏ[�������m��܂���ˁ�</font>
+<font color="#cc88ff">&gt;実際のところ現実よりもコミック文化の中のお約束の資料と捉えた方がよさそうな気がします。</font><br>
+あまりリアルすぎるのもなんなのでそれで充分かも知れませんね♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2411]</font> <font size=4 color=#50d0d0> Re:�w�i�ݒ�̕`����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2411]</font> <font size=4 color=#50d0d0> Re:背景設定の描き方</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/31 (��) 00:28:11  �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607311002811">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607311002811"></font>
+<font size="-1" color="#606060"> 2006/07/31 (月) 00:28:11  米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607311002811.cgi">返信</a>　削除<input type=checkbox name="target" value="200607311002811"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�Ⴆ�΂���Ȃ��̂�����܂��B<br>
+<font size=4 color=#000000>例えばこんなものがあります。<br>
 <a href=http://www.amazon.co.jp/gp/product/4766111389/249-6751441-5077165?v=glance&amp;n=465392 target=_top>http://www.amazon.co.jp/gp/product/4766111389/249-6751441-5077165?v=glance&amp;n=465392</a><br>
-�\���́�<a href=http://www.ne.jp/asahi/viewn/net/miyako/news.htm target=_top>http://www.ne.jp/asahi/viewn/net/miyako/news.htm</a><br>
+表紙は→<a href=http://www.ne.jp/asahi/viewn/net/miyako/news.htm target=_top>http://www.ne.jp/asahi/viewn/net/miyako/news.htm</a><br>
 <br>
-����Ɍ��炸��^���X�ɍs���ƃR�~�b�N����p�̎������d��D������ĐF�X����܂����A<br>
-���ۂ̂Ƃ��댻�������R�~�b�N�����̒��̂��񑩂̎����Ƒ����������悳�����ȋC�����܂��B</font>
+これに限らず大型書店に行くとコミック制作用の資料が硬軟織り交ぜて色々ありますが、<br>
+実際のところ現実よりもコミック文化の中のお約束の資料と捉えた方がよさそうな気がします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2410]</font> <font size=4 color=#50d0d0> Re:�w�i�ݒ�̕`����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2410]</font> <font size=4 color=#50d0d0> Re:背景設定の描き方</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/28 (��) 19:19:48  <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607285191948">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607285191948"></font>
+<font size="-1" color="#606060"> 2006/07/28 (金) 19:19:48  <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607285191948.cgi">返信</a>　削除<input type=checkbox name="target" value="200607285191948"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� �L�삳��<br>
-��񁕂��������肪�Ƃ��������܂��B<br>
+<font size=4 color=#000000>▼ 猫野さん<br>
+情報＆ご教授ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt; ���̂܂܂��΂�̂��̂͌�����܂���ł����B</font><br>
-�����ł����B�c�O�ł��B<br>
+<font color="#cc88ff">&gt; そのままずばりのものは見つかりませんでした。</font><br>
+そうですか。残念です。<br>
 <br>
-�܂��A����͏��`�ʂƂ����̂�����A���܂蒦�肷���ĕςɂȂ���͂܂��Ȃ̂Łw���肫����x�ōs�����ɂ��܂��B<br>
-���X�Q�[���ɏo�Ă��鏗�̎q�̕����̃C���[�W���Ă̂�����܂������A���̂Ƃ��낻��ŏ[���ȋC�����܂���<br>
+まあ、今回は初描写というのもあり、あまり懲りすぎて変になるよりはましなので『ありきたり』で行く事にします。<br>
+元々ゲームに出てくる女の子の部屋のイメージってのもありましたし、今のところそれで充分な気がしますｗ<br>
 <br>
-���������ꂽ���͎���A�{�i�I�ɏ������Ƃ�����ΎQ�l�ɂ����Ē����܂���B</font>
+ご教授された事は次回、本格的に書くことがあれば参考にさせて頂きます♪。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2407]</font> <font size=4 color=#50d0d0> �w�i�ݒ�̕`����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2407]</font> <font size=4 color=#50d0d0> 背景設定の描き方</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/26 (��) 20:32:34  �L�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607263203234">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607263203234"></font>
+<font size="-1" color="#606060"> 2006/07/26 (水) 20:32:34  猫野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607263203234.cgi">返信</a>　削除<input type=checkbox name="target" value="200607263203234"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@����΂�́A�Vࣂ���B������T���܂������A���̂܂܂��΂�̂��̂͌�����܂���ł����B<br>
+<font size=4 color=#000000>　こんばんは、天爛さん。資料を探しましたが、そのままずばりのものは見つかりませんでした。<br>
 <a href=http://www.amazon.co.jp/gp/product/4837300677/250-0435989-8254641?v=glance&amp;n=465392&amp;s=gateway target=_top>http://www.amazon.co.jp/gp/product/4837300677/250-0435989-8254641?v=glance&amp;n=465392&amp;s=gateway</a><br>
 <br>
-�@���̂悤�Ȕw�i�ݒ莑���W�ł������̐݌v�͍ڂ��Ă����Ȃ�ł����A�������ڂ��Ă��邩�͉������ł��B�u�����͒ʔ̃J�^���O���Q�Ɓv�Ƃ������Ă���܂������B<br>
+　このような背景設定資料集でも建物の設計は載ってそうなんですが、内装が載っているかは怪しいです。「小物は通販カタログを参照」とか書いてありましたし。<br>
 <br>
-�@���Ƃ����āA�����Ƀt�B�N�V�������Q�l�ɂ����<br>
-�u���̎q�̕����ɂ͂ʂ�����݂ƃ��[�X�̃J�[�e���v<br>
-�u�N���u���U�ł̓��O�r�[�������W�c�ŐV������S���ł�����Ă����v<br>
-�̂悤�Ȃ��肫����̏�ʁi�Ȃ�Ńe���r�h���}�̎�w�̔������܂ɂ͂����l�M���h�����Ă�̂�I�j�ɂȂ肪���ł����ˁB�Ȃ��Ȃ�����B<br>
+　かといって、うかつにフィクションを参考にすると<br>
+「女の子の部屋にはぬいぐるみとレースのカーテン」<br>
+「クラブ勧誘ではラグビー部員が集団で新入生を担いでさらっていく」<br>
+のようなありきたりの場面（なんでテレビドラマの主婦の買い物袋にはいつもネギが刺さってんのよ！）になりがちですしね。なかなか難しい。<br>
 <br>
-�@���Ƃ��Ώ��̎q�̕����i�����n�j�������Ƃ���<br>
+　たとえば女の子の部屋（可愛い系）を書くとして<br>
 <br>
-�����C���L�����i�s�r�����l��������j�̕�����`�������ꍇ<br>
-�@���̏��̎q���ǂ̂悤�ɂ��킢�����́A����̍����ɂȂ�ݒ�̂͂��ł��B�ł�����u��ʓI�Ȃ��킢���v�����ł͂Ȃ��u�������`���������̎q�ɂ��킹���v������`���Ƃ�����������܂���B�q���C���̓Z�N�V�[�Ȃ̂��A�L���[�g�Ȃ̂��A���f�I�Ȃ̂��A�ӂ����n�Ȃ̂��B����ɂ���ĕ������ς���Ă���Ǝv���܂��B<br>
-�@�܂��ŋ߂̒j�̎q�������C�g�m�x���▟��ł̓M���b�v�G���ɍ��������q���C���ݒ肪�l�C�ł��ˁB�q���C���̕������₽��j���ۂ�������A�@�B�H��Ŗ��܂��Ă���A�I�^�N�A�C�e��������ł�����c�c�Ƃ��������ł��B���ƃA�C�f�A�𐶂����Ă݂܂��傤�B<br>
+○メインキャラ（ＴＳ娘当人か主役級）の部屋を描きたい場合<br>
+　その女の子がどのようにかわいいかは、物語の根幹になる設定のはずです。ですから「一般的なかわいい」部屋ではなく「自分が描きたい女の子にあわせた」部屋を描くといいかもしれません。ヒロインはセクシーなのか、キュートなのか、蠱惑的なのか、ふしぎ系なのか。それによって部屋も変わってくると思います。<br>
+　また最近の男の子向けライトノベルや漫画ではギャップ萌えに根ざしたヒロイン設定が人気ですね。ヒロインの部屋がやたら男っぽかったり、機械工具で埋まってたり、オタクアイテムが並んでいたり……という感じです。個性とアイデアを生かしてみましょう。<br>
 <br>
-���d�v�ȏ�ʂłȂ��A������ʓI�Ȃ��킢���������`������<br>
-�@�ςȕ����ɂ��Ȃ��悤�Ɉ�ʓI�ȕ������������߂ɂ́A�����́u���ʂ̏����v�Ɏ��ۂɎ�ނ���΂����Ǝv���܂��B�u���̕����Ɂ������Ȃ��Ȃ�Ă��������v�݂����ȏ펯�_�����낢�땷����ł��傤�B<br>
-�@������������l�����Ɏ�ނ���ƁA���̐l�̌l�I����u������O����Ȃ��I�@���ꂪ�S���E�̏펯��I�v�̂悤�Ɋm�M�������Č���邱�Ƃ�����܂��B�M�����܂Ȃ��悤�ɁA�C�����܂��傤�B</font>
+○重要な場面でなく、ただ一般的なかわいい部屋が描きたい<br>
+　変な部屋にしないように一般的な部屋を書くためには、複数の「普通の女性」に実際に取材すればいいと思います。「女の部屋に○○がないなんておかしい」みたいな常識論をいろいろ聞けるでしょう。<br>
+　ただし女性一人だけに取材すると、その人の個人的趣味を「当たり前じゃない！　これが全世界の常識よ！」のように確信を持って語られることがあります。信じ込まないように、気をつけましょう。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2392]</font> <font size=4 color=#50d0d0> ����N���G�[�^�[�Y�E�t���A�ɓ��e��������</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2392]</font> <font size=4 color=#50d0d0> 今後クリエーターズ・フロアに投稿される方へ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/22 (�y) 00:00:06  ��_�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607226000006">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607226000006"></font>
+<font size="-1" color="#606060"> 2006/07/22 (土) 00:00:06  矢治浩平 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607226000006.cgi">返信</a>　削除<input type=checkbox name="target" value="200607226000006"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>SPAM�΍�(�ɂȂ邩�킩��܂���)�Ƃ��āA���̓R�[�h����͂��Ă݂邱�Ƃɂ��܂����B���㓊�e�������́A���̓R�[�h���ɂ���p�����U�������̉��̃��N�ɓ��͂��Ă���{�^���������Ă��������B<br>
+<font size=4 color=#000000>SPAM対策(になるかわかりませんが)として、入力コードを入力してみることにしました。今後投稿される方は、入力コード横にある英数字６桁をその横のワクに入力してからボタンを押してください。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -243,28 +243,28 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2326]</font> <font size=4 color=#50d0d0> �Q�l������T���Ă܂��B</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2326]</font> <font size=4 color=#50d0d0> 参考文献を探してます。</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/20 (��) 20:41:05  <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607204204105">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607204204105"></font>
+<font size="-1" color="#606060"> 2006/07/20 (木) 20:41:05  <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607204204105.cgi">返信</a>　削除<input type=checkbox name="target" value="200607204204105"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�^�C�g���̒ʂ�A���M�̎Q�l�ɂȂ肻���Ȏ��������߂Ă���ĎQ��܂����B<br>
+<font size=4 color=#000000>タイトルの通り、執筆の参考になりそうな資料を求めてやって参りました。<br>
 <br>
-�Q�l�ɂȂ邨���ߍ�i������܂����狳���Ă������������B<br>
+参考になるお奨め作品がありましたら教えていただきたく。<br>
 <br>
-���߂Ă鎑��<br>
-�E���̎q�̕����i�����n�j�̕`��<br>
-�E���w���i�{�N���u���U�j�̃V�[��<br>
+求めてる資料<br>
+・女の子の部屋（可愛い系）の描写<br>
+・入学式（＋クラブ勧誘）のシーン<br>
 <br>
-���āA�����ŕ����Ă悩������ł��傤���c�c�B</font>
+って、ここで聞いてよかったんでしょうか……。</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -272,16 +272,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

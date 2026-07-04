@@ -1,38 +1,38 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����肳���i�@���z�f����</title>
+<title>あさりさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����肳���i�@���z�f����</font>
+<font size=5>あさりさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="asari">
 <input type=hidden name="nj" value="xkT604ZRWZ">
 <input type=hidden name="res" value="46">
-<h4 align=center>�� �L���ԍ� 46 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 46 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���z"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ������
-&gt; �悩������</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:感想"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ あさん
+&gt; よかったよ</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -45,46 +45,46 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[47]</font> <font size=4 color=#40c0c0> ���</font>
+<font size=2>[47]</font> <font size=4 color=#40c0c0> 御礼</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/17 (��) 22:35:03 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406174223503&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406174223503"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/17 (木) 22:35:03 <strong>▽</strong> あさり </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406174223503_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200406174223503"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���܂���ł����A�F�l�Ɠ�ڂ̓��̊��z�������Ă����������F�l�ɁA���ӂ̌��t���q�ׂ����Ă��������܂��B�����ĊԈႢ���炯�̕��͂̕ҏW�����Ă������������N�������ɉ^�c�ψ��l�ɂ����ӂ̋C�����ł����ς��ł��B<br>
-���͊�{�I�Ɍ�������ɂ��ď����������^�C�v�ł��B�ł�����A����������ts�����ɂ��������Ƃ��������Ƃ��́A�Ăт��ז��������ƍl���Ă���܂��B<br>
-���̂Ƃ��͂�낵�����肢���܂��B<br>
-�ȏ�</font>
+<font size=3 color=#606060>いまさらですが、友人と二つ目の道の感想を書いてくださった皆様に、感謝の言葉を述べさせていただきます。そして間違いだらけの文章の編集をしてくださった少年少女文庫運営委員様にも感謝の気持ちでいっぱいです。<br>
+私は基本的に現実を基にして小説をかくタイプです。ですから、もし現実でts小説にしたいことがあったときは、再びお邪魔したいと考えております。<br>
+そのときはよろしくお願いします。<br>
+以上</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[46]</font> <font size=4 color=#40c0c0> ���z</font>
+<font size=2>[46]</font> <font size=4 color=#40c0c0> 感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/15 (��) 17:46:53 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406152174653&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406152174653"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/15 (火) 17:46:53 <strong>▽</strong> あ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406152174653_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200406152174653"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�悩������</font>
+<font size=3 color=#606060>よかったよ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[45]</font> <font size=4 color=#40c0c0> �Ԏ�</font>
+<font size=2>[45]</font> <font size=4 color=#40c0c0> 返事</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/30 (��) 19:08:12 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405300190812&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405300190812"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/30 (日) 19:08:12 <strong>▽</strong> あさり </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405300190812_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200405300190812"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���C�^�[�}������A���Ƃ��܂��Ă͂܂��������܂��܂���B���ƁA���͎󌱐��Ƃ��������A���܂�p�ɂɃp�\�R���̎g�p���ł��܂���̂ŁA���쌠���A���ׂĂ̌��������N�������ɗl�ɏ��n�����Ă��������Ă�낵���ł��傤���B<br>
-��i�̊������y���݂ɂ��Ă��܂��B<br>
+<font size=3 color=#606060>ライターマンさん、私としましてはまったくかまいません。あと、私は受験生という立場上、あまり頻繁にパソコンの使用ができませんので、著作権等、すべての権限を少年少女文庫様に譲渡させていただいてよろしいでしょうか。<br>
+作品の完成を楽しみにしています。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -92,42 +92,42 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[44]</font> <font size=4 color=#40c0c0> Re:�A��</font>
+<font size=2>[44]</font> <font size=4 color=#40c0c0> Re:連絡</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/23 (��) 22:25:25 <strong>��</strong> ��傤���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405230222525&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405230222525"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/23 (日) 22:25:25 <strong>▽</strong> りょう＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405230222525_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200405230222525"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���C�^�[�}������<br>
-<font color="#cc88ff">&gt; �����ƁA���[���̈��悪����Ȃ���ł����Ŏ��炵�܂��B</font><br>
+<font size=3 color=#606060>▼ ライターマンさん<br>
+<font color="#cc88ff">&gt; えっと、メールの宛先が判らないんでここで失礼します。</font><br>
 <br>
-���̌��������肳��Ƀ��[���ł��m�点���Ă����܂����B<br>
-�ł��̂ŁA���΂炭�����烌�X���t�����Ǝv���܂��B<br>
+この件をあさりさんにメールでお知らせしておきました。<br>
+ですので、しばらくしたらレスが付くかと思います。<br>
 <br>
 ------------------------------------------<br>
 <br>
-�c�c�Ə������񂾂̂ł����A���̂�����Ƀ��[�����͂����ɖ߂��Ă��Ă���̂ɋC�Â��܂����B<br>
-�����肳�񂪂��̌f�������Ă��Ă����Ƃ�����ł����B</font>
+……と書き込んだのですが、このすぐ後にメールが届かずに戻ってきているのに気づきました。<br>
+あさりさんがこの掲示板を見ていてくれるといいんですが。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[43]</font> <font size=4 color=#40c0c0> �A��</font>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> 連絡</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/23 (��) 21:29:01 <strong>��</strong> <a href="mailto:kagawa@elf.coara.or.jp">���C�^�[�}��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405230212901&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405230212901"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/23 (日) 21:29:01 <strong>▽</strong> <a href="mailto:kagawa@elf.coara.or.jp">ライターマン</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405230212901_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200405230212901"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ƁA���[���̈��悪����Ȃ���ł����Ŏ��炵�܂��B<br>
+<font size=3 color=#606060>えっと、メールの宛先が判らないんでここで失礼します。<br>
 <br>
-���͢�F�l������Ēj���̏o���䗦���������΂������E�ł̕���Ƃ����̂������Ă݂����Ȃ�܂����B<br>
-�������̕��͂����Ɣ䗦�̕΂������E�ł̘b�ɂȂ邵�A���͋C�I�ɂ͑S�R�Ⴄ���̂ɂȂ����Ⴄ��ł����A�ꉞ�����������������Ǝv���܂��B<br>
+実は｢友人｣を見て男女の出生比率が著しく偏った世界での物語というのを書いてみたくなりました。<br>
+こっちの方はもっと比率の偏った世界での話になるし、雰囲気的には全然違うものになっちゃうんですが、一応許可をいただきたいと思います。<br>
 <br>
-�ǂ�����낵�����肢���܂��B</font>
+どうぞよろしくお願いします。</font>
 <p><a href="http://www3.coara.or.jp/~kagawa/writerman/" target="_top">http://www3.coara.or.jp/~kagawa/writerman/</a>
 </td></table>
 </td></tr></table>
@@ -135,65 +135,65 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> �V���b�N�ł���</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> ショックでした</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/21 (��) 18:44:50 <strong>��</strong> <a href="mailto:garyosei@agate.plala.or.jp">��ǐ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405215184450&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405215184450"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/21 (金) 18:44:50 <strong>▽</strong> <a href="mailto:garyosei@agate.plala.or.jp">雅良生</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405215184450_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200405215184450"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�C�f�A�Ő����T�X�y���X���l���Ă����̂ő�σV���b�N�ł����B���̃A�C�f�A�������Ǝv���܂�������I�ł�����܂��B�������S�����ɔ��W�������Ƃ��낪���������܂��B�����̓V�[���ƃA�N�V�����ň��Ղɍ�i�����l���Ă����̂Ŕ��Ȃ������܂����B</font>
+<font size=3 color=#606060>同じアイデアで政治サスペンスを考えていたので大変ショックでした。このアイデアすごいと思いますし現代的でもあります。しかも心裡劇に発展させたところがすごすぎます。自分はシーンとアクションで安易に作品化を考えていたので反省させられました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> �u�F�l�v���z�B</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> 「友人」感想。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/20 (��) 05:00:09 <strong>��</strong> �Ƃ���ǎҁB </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405204050009&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405204050009"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/20 (木) 05:00:09 <strong>▽</strong> とある読者。 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405204050009_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200405204050009"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�j���䗦���΂������琫�]���𑣂��A�Ƃ����ݒ�͂������ʔ����ł��ˁB�����I�ɐF�X�l�������Ă��炢�܂����B<br>
+<font size=3 color=#606060>　男女比率が偏ったから性転換を促す、という設定はすごく面白いですね。現実的に色々考えさせてもらいました。<br>
 <br>
-�E�e�N��Ƃ̋�̓I�䗦�͂ǂ��Ȃ̂��B�i��G�c�ȂƂ���A1/5�����̈ڍs�ŊԂɍ����Ƃ���΁A��l�������̐���͂����悻����Ȋ����Ȃ̂ł��傤���H�@�u�T�F�R���S�F�S�v�A�܂��́A�u�Q�T�F�P�P���T�F�S�v�j<br>
-�E�䗦���΂邱�Ƃɂ���Đl�Ԃ̈炿����l�����ɉe���͏o�Ă��Ȃ��̂��B<br>
-�E����g����ł̐���͂���̂��B<br>
-�E���񂪂Ȃ���΋������}�����R�͂قƂ�ǂȂ��̂ł͂Ȃ����B<br>
-�E�����I���]���ɑ΂���Љ�I�F���͂ǂ��Ȃ��Ă���̂��B<br>
-�E�����Ƃ������Ƃɑ΂���Љ�̔����͂ǂ��Ȃ̂��i�����������͏����̓������҂␫���ꐫ��Q���ʐ��Y���邾���ł͂Ȃ��̂��Ƃ�����ꂻ���j�B<br>
-�E���������Ȃ̂��߂ɏ���������̂��i�����ł��A���͎q�����Y�ޓ����Ȃ��Ƃ�����ꂻ���j�B<br>
-�E�䗦�΂蔻������̐l�̎g�p�̃��h�����������_����̌[�֊����͂ǂ��i�߂�ꂽ�̂��B<br>
-�E���̂̏������̋��������ł͂Ȃ��u�����͂�������ׂ��v�̋����͂܂��ʂ̖�肪������̂ł͂Ȃ����B<br>
-�E���Z�͔C�ӂŒʂ���������A���̒��ł̑I���͖�肪����̂ł͂Ȃ����B<br>
-�Eetcetc...<br>
+・各年齢ごとの具体的比率はどうなのか。（大雑把なところ、1/5だけの移行で間に合うとすれば、主人公たちの世代はおおよそこんな感じなのでしょうか？　「５：３→４：４」、または、「２５：１１→５：４」）<br>
+・比率が偏ることによって人間の育ち方や考え方に影響は出ていないのか。<br>
+・薬を使う上での制約はあるのか。<br>
+・制約がなければ強制を急ぐ理由はほとんどないのではないか。<br>
+・自発的性転換に対する社会的認識はどうなっているのか。<br>
+・強制ということに対する社会の反応はどうなのか（強制女性化は女性の同性愛者や性同一性障害を大量生産するだけではないのかとか言われそう）。<br>
+・そもそもなのために女性化するのか（ここでも、女は子供を産む道具じゃないとか言われそう）。<br>
+・比率偏り判明＆薬の人体使用のメドがたった時点からの啓蒙活動はどう進められたのか。<br>
+・肉体の女性化の強制だけではなく「女性はこうあるべき」の強制はまた別の問題が生じるのではないか。<br>
+・高校は任意で通う物だから、その中での選抜は問題があるのではないか。<br>
+・etcetc...<br>
 <br>
-�@����͂��������Ă���s���Ƃ����킯�ł͂Ȃ��A������Ă��Ȃ�������F�X�z�����ď����Ɋy���܂��Ă�����Ă��镔���ł��B<br>
-�@����͉ߓn���̃V�[���ł����A�O�\�N���o�Ɛ��]����������O�ɂȂ邩������Ȃ��ݒ�ł���ˁB���]�����L�����ԂɈ�ʉ��������E�Ƃ��ɂȂ肻���Ȃ̂ŁA��������Ă݂����C�����܂��B���]�����l�̎��R�ōs�Ȃ��鐢�E�Ƃ��B�񐔂ɐ������Ȃ��Ȃ�A���̐��͏o�Y���̐��A���̐��͐V�������̗��e�����肷�鐫�A��O�ȍ~�̐��͎����Ō��肷�鐫�c�c�B�Ȃ�čl�����肵�Ă��܂��܂����B<br>
+　これはけちをつけてたり不満というわけではなく、書かれていない部分を色々想像して純粋に楽しませてもらっている部分です。<br>
+　今回は過渡期のシーンですが、三十年も経つと性転換が当たり前になるかもしれない設定ですよね。性転換を広く世間に一般化した世界とかになりそうなので、それも見てみたい気もします。性転換を個人の自由で行なえる世界とか。回数に制限がないなら、第一の性は出産時の性、第二の性は新生児期の両親が決定する性、第三以降の性は自分で決定する性……。なんて考えたりしてしまいました。<br>
 <br>
-�@�������炵�܂����B</font>
+　長文失礼しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> �������ł�</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> すごいです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/17 (��) 22:03:36 <strong>��</strong> <a href="mailto:kagawa@elf.coara.or.jp">���C�^�[�}��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405171220336&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405171220336"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/17 (月) 22:03:36 <strong>▽</strong> <a href="mailto:kagawa@elf.coara.or.jp">ライターマン</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405171220336_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200405171220336"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ǂ�łăV���b�N���󂯂܂����B<br>
-��l���ƗF�l�Ƃ̊Ԃɐ��܂ꂽ�킸���ȋT��B�����ɂ������̋��R���d�Ȃ�S�Ɉł��E�ъ��c�c<br>
-�����Ď��Ԃ��̂��Ȃ����Ƃ����Ă��܂�����l���̋�Y���`����Ă����悤�ȋC�����܂��B<br>
+<font size=3 color=#606060>正直読んでてショックを受けました。<br>
+主人公と友人との間に生まれたわずかな亀裂。そこにいくつもの偶然が重なり心に闇が忍び寄り……<br>
+そして取り返しのつかないことをしてしまった主人公の苦悩が伝わってきたような気がします。<br>
 <br>
-�����ď����~��ꂽ�悤�ȃ��X�g�V�[���A���΂炭�]�C���S�Ɏc���Ă��܂����B<br>
+そして少し救われたようなラストシーン、しばらく余韻が心に残っていました。<br>
 <br>
-���ꂩ��̍�i���y���݂ɂ��Ă��܂��B�撣���ĉ������B<br>
+これからの作品を楽しみにしています。頑張って下さい。<br>
 </font>
 <p><a href="http://www3.coara.or.jp/~kagawa/writerman/" target="_top">http://www3.coara.or.jp/~kagawa/writerman/</a>
 </td></table>
@@ -202,37 +202,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> �j�Ə������܂��m���͂T�O���ł͂Ȃ�</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> 男と女が生まれる確立は５０％ではない</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/17 (��) 21:33:15 <strong>��</strong> <a href="mailto:ymgch@m3.dion.ne.jp">�A�J�g��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405171213315&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405171213315"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/17 (月) 21:33:15 <strong>▽</strong> <a href="mailto:ymgch@m3.dion.ne.jp">アカトリ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405171213315_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200405171213315"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@��������Ďv���o�����͎̂��͒j�͏��̌ܔ{�̊m���ŎY�܂��Ƃ����b�B����܂Œj�����͎Y�܂ꂽ�j�̌ܕ��̈ꂪ�����c���Ă����ׂɁi���͕a�C��P�K�ȂǂŎ���ł���j�ϓ��ɕۂ���Ă�������w�̔��B�Œj�̐����m���͌ܕ��̈�ł͂Ȃ��Ȃ����Ƃ������B<br>
-�@������������{���ɋ߂������ɒj�������ϓ��ɂ��鎖�����˂΂Ȃ�Ȃ��Ȃ�̂����A�����ł���������������̂͌l�I�ɂ͔��΂Ȃ̂ł����B</font>
+<font size=3 color=#606060>　これを見て思い出したのは実は男は女の五倍の確立で産まれるという話。これまで男女率は産まれた男の五分の一が生き残っていた為に（他は病気やケガなどで死んでいる）均等に保たれていたが医学の発達で男の生存確率は五分の一ではなくなったという事。<br>
+　もしかしたら本当に近いうちに男女率を均等にする事をせねばならなくなるのかも、現実でそういう事をするのは個人的には反対なのですが。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> �ǂ������肪�Ƃ��������܂�</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> どうもありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/17 (��) 16:24:38 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405171162438&log=asari">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405171162438"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/17 (月) 16:24:38 <strong>▽</strong> あさり </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405171162438_log_asari.cgi">返信</a>　削除<input type=checkbox name="target" value="200405171162438"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̘b�A���Ԃ��Ȃ����ŏ������̂ŁA�Ƃ��Ă���������ԈႢ������Ǝv���܂��B�ǂ����A���������w�E�����Ă����Ɗ������ł��B<br>
-�l���c���A�����ł���˂��A�l���Ƃ������烈�W�t�E�W���K�V�r���̑�ʏl���B������ËL���Ă��Ȃ���A���̂悤�ȃ~�X��Ƃ��g�ł��B��������~�X������ł��傤�B<br>
-�ł��A���܂���ł����H�m�̍u�t�Łc�B���܂���\�K���Ȃ��Əl�������c�Ƃ������ЂƁc�B���Ȃ����B���������Z���^�[�̉Ȗڂ����������ł���ˁA�܋��Ȏ��Ȗڂ��ĂȂ񂾂�c�͂�</font>
+<font size=3 color=#606060>この話、時間がない中で書いたので、とってもたくさん間違いがあると思います。どうか、そういう指摘をしてくれると嬉しいです。<br>
+粛清…か、そうですよねぇ、粛清といったらヨジフ・ジュガシビリの大量粛清。それを暗記していながら、そのようなミスを犯す身です。たくさんミスがあるでしょう。<br>
+でも、いませんでした？塾の講師で…。おまえら予習しないと粛清だぞ…とか言うひと…。いないか。だいたいセンターの科目が多すぎるんですよね、五教科七科目ってなんだよ…はあ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="asari">
@@ -240,16 +240,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="asari">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=asari">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_asari.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

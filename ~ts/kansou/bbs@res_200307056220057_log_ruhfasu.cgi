@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>��[�ӂ��������i���z�f����</title>
+<title>るーふぁすさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��[�ӂ��������i���z�f����</font>
+<font size=5>るーふぁすさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="ruhfasu">
 <input type=hidden name="nj" value="boWUXZlQm5">
 <input type=hidden name="res" value="2">
-<h4 align=center>�� �L���ԍ� 2 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 2 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:��P�Q��ǂ݂܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� kumakuma����
-&gt; �@�҂��ɑ҂����P�Q��A���������̂�������߂����Ǝv�����炢�����ԑ҂��܂����B
-&gt; ���񂩂�͂��������Z���Ԋu�Ŋy���܂��Ă���������Ƃ��ꂵ���ł��B
-&gt; ����ɂ܂����҂��Ă܂���B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:第１２回読みました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ kumakumaさん
+&gt; 　待ちに待った１２回、もう書くのをあきらめたかと思うくらい長い間待ちました。
+&gt; 次回からはもう少し短い間隔で楽しませていただけるとうれしいです。
+&gt; 次回にまた期待してますよ。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,49 +47,49 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/13 (��) 02:30:36 <strong>��</strong> ��[�ӂ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307130023036&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307130023036"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/13 (日) 02:30:36 <strong>▽</strong> るーふぁす </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307130023036_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307130023036"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� STW����<br>
-<font color="#cc88ff">&gt; �����ɑ҂��]�񂾑�P�Q�b�I�����肪�Ƃ��I�I</font><br>
-���炭���҂�����������āA���߂�Ȃ����ł����i�O�O�G<br>
+<font size=3 color=#606060>▼ STWさん<br>
+<font color="#cc88ff">&gt; 長きに待ち望んだ第１２話！をありがとう！！</font><br>
+長らくお待たせしちゃって、ごめんなさいでした（＾＾；<br>
 <br>
-<font color="#cc88ff">&gt; �������A�`���b�g���̐l�Ԃ��m�荇�����Ă̂́c�B<br>
-&gt; �i�z���o�ɂ����N�`�l���������������@�n�����`�̃l�^���I�H�j<br>
-&gt; �M�����Q�[�}�̎��c�B</font><br>
-�ւ��A����ς肠������ł��˂��̃l�^�B<br>
-�ׂ����Ȃ��Ǝv���������Ă��܂������ǂ��i��<br>
+<font color="#cc88ff">&gt; しかし、チャット内の人間が知り合いってのは…。<br>
+&gt; （想い出にかわる君〜Ｍｅｍｏｒｉｅｓ　Ｏｆｆ〜のネタか！？）<br>
+&gt; ギャルゲーマの私…。</font><br>
+へぇ、やっぱりあったんですねこのネタ。<br>
+べただなぁと思いつつも書いていましたけども（笑<br>
 <br>
-<font color="#cc88ff">&gt; ����ɂ��Ă��G�a�̉Ƒ��́c�B<br>
-&gt; �Ă̋�J���ڂɌ����Ă��܂��܂��B�i���j</font><br>
+<font color="#cc88ff">&gt; それにしても秀和の家族は…。<br>
+&gt; 翔の苦労が目に見えてしまいます。（ぉ）</font><br>
 <br>
-�������U��񂳂�Ă��܂�����˂��i��<br>
+何時も振り回されていますからねぇ（笑<br>
 <br>
-��������낵�����肢���܂��i�O�O</font>
+次回作もよろしくお願いします（＾＾</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> �P�Q�b��ǂ񂾂�</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> １２話を読んだよ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/12 (�y) 14:17:13 <strong>��</strong> STW </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307126141713&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307126141713"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/12 (土) 14:17:13 <strong>▽</strong> STW </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307126141713_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307126141713"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ɑ҂��]�񂾑�P�Q�b�I�����肪�Ƃ��I�I<br>
-�������A�`���b�g���̐l�Ԃ��m�荇�����Ă̂́c�B<br>
-�i�z���o�ɂ����N�`�l���������������@�n�����`�̃l�^���I�H�j<br>
-�M�����Q�[�}�̎��c�B<br>
+<font size=3 color=#606060>長きに待ち望んだ第１２話！をありがとう！！<br>
+しかし、チャット内の人間が知り合いってのは…。<br>
+（想い出にかわる君〜Ｍｅｍｏｒｉｅｓ　Ｏｆｆ〜のネタか！？）<br>
+ギャルゲーマの私…。<br>
 <br>
-����ɂ��Ă��G�a�̉Ƒ��́c�B<br>
-�Ă̋�J���ڂɌ����Ă��܂��܂��B�i���j</font>
+それにしても秀和の家族は…。<br>
+翔の苦労が目に見えてしまいます。（ぉ）</font>
 </td></table>
 </td></tr></table>
 
@@ -99,110 +99,110 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[8]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/07 (��) 20:21:27 <strong>��</strong> ��[�ӂ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307071202127&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307071202127"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/07 (月) 20:21:27 <strong>▽</strong> るーふぁす </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307071202127_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307071202127"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060> kumakuma����<br>
-<font color="#ff88cc">���҂��ɑ҂����P�Q��A���������̂�������߂����Ǝv�����炢�����ԑ҂��܂����B<br>
-�����񂩂�͂��������Z���Ԋu�Ŋy���܂��Ă���������Ƃ��ꂵ���ł��B<br>
-������ɂ܂����҂��Ă܂���B</font><br>
+<font size=3 color=#606060> kumakumaさん<br>
+<font color="#ff88cc">＞待ちに待った１２回、もう書くのをあきらめたかと思うくらい長い間待ちました。<br>
+＞次回からはもう少し短い間隔で楽しませていただけるとうれしいです。<br>
+＞次回にまた期待してますよ。</font><br>
 <br>
-�����������n�߂܂���<br>
-���x�͍������ɂ͓��e�ł���Ǝv���܂�<br>
-�������΂炭�A���܂����������i��<br>
+次回作も書き始めました<br>
+今度は今月中には投稿できると思います<br>
+もうしばらく、おまちください（笑<br>
 <br>
-�݂�񂳂�<br>
-<font color="#ff88cc">�����v���Ԃ�ł��B�����͂Ȃ񂩏o�������}�l���������������<br>
-����������ŃX�����v�ɂȂ��Ă���c�w���߂�Ȃ������I�x<br>
-������肻���Ƒ҂��Ă܁[��</font><br>
+みゅんさん<br>
+<font color="#ff88cc">＞お久しぶりです。当時はなんか出すぎたマネしちゃった感じで<br>
+＞もしそれでスランプになってたら…『ごめんなさいっ！』<br>
+＞そろりそろりと待ってまーす</font><br>
 <br>
-���������A�X�����v�Ȃǂł͂Ȃ����ď������Ԃ��������������Ȃ�ł��B<br>
-�S�z��������������Đ\���󂠂�܂���ł���<br>
+いえいえ、スランプなどではなくって書く時間が無かっただけなんです。<br>
+心配おかけしちゃって申し訳ありませんでした<br>
 <br>
-�����W�S�Q�U����<br>
-<font color="#ff88cc">���Ȃ񂩂������v���Ԃ�̂悤�ȁi�΁j�B<br>
-���O�̘b�ǂ݂ɍs����Ƃ�������Y��Ă������Ƃ�o�C�i���j�B</font><br>
+ｍｋ８４２６さん<br>
+<font color="#ff88cc">＞なんかすごい久しぶりのような（笑）。<br>
+＞前の話読みに行かんとすっかり忘れてしもうとるバイ（爆）。</font><br>
 <br>
-���v���Ԃ�ł�<br>
-�Ȃ�ƂP�N�ƂQ�����Ԃ�I<br>
-�Y�ꂿ����Ă܂���˂��i��<br>
-�������Y�ꂿ����Ă܂�������i��<br>
+お久しぶりです<br>
+なんと１年と２ヶ月ぶり！<br>
+忘れちゃってますよねぇ（涙<br>
+自分が忘れちゃってましたもん（泣<br>
 <br>
-���V����<br>
-<font color="#ff88cc">�����̍�i�͂����ǂ߂Ȃ����Ǝv���Ă��������ɁA<br>
-���������ǂ߂�̂͂ƂĂ����ꂵ���ł��B</font><br>
+夢遊さん<br>
+<font color="#ff88cc">＞この作品はもう読めないかと思っていただけに、<br>
+＞続きが読めるのはとてもうれしいです。</font><br>
 <br>
-���܂������Đ\���󂠂�܂���ł����B<br>
-�������܂��A��낵�����肢���܂��B<br>
+おまたせして申し訳ありませんでした。<br>
+次回作もまた、よろしくお願いします。<br>
 <br>
-kagerou6����<br>
-<font color="#ff88cc">�������v���Ԃ�ȋC�����āA������x�ǂݕԂ��Ă����玞�Ԃ��i�O�O�G�G�G�G</font><br>
+kagerou6さん<br>
+<font color="#ff88cc">＞凄く久しぶりな気がして、もう一度読み返していたら時間が（＾＾；；；；</font><br>
 <br>
-���́A�����P����ǂݒ����ď���������ł��āi�O�O�G�G�G�G<br>
-�o���邾���A�Ԃ��󂯂��ɏ����Ȃ��Ƒ�ςł��˘A�������āi��<br>
+実は、私も１から読み直して書いた次第でして（＾＾；；；；<br>
+出来るだけ、間を空けずに書かないと大変ですね連続物って（笑<br>
 <br>
-SORA����<br>
-<font color="#ff88cc">�����āA�΂�=(�`���b�g��)�Ă��Ď����o�C�g����=�`���b�g���Ԃɂ΂ꂿ������݂����ł����A�j�ɖ߂ꂽ��ǂ������󂷂�񂾂낤�c�B<br>
-�������A����ς�߂�Ȃ�����S�z���p���Ɓc�B:-)</font><br>
+SORAさん<br>
+<font color="#ff88cc">＞さて、つばめ=(チャットの)翔って事がバイト仲間=チャット仲間にばれちゃったみたいですが、男に戻れたらどう言い訳するんだろう…。<br>
+＞＃え、やっぱり戻らないから心配無用だと…。:-)</font><br>
 <br>
-���[��A�ǂ��Ȃ��ł��傤�H<br>
-�ł��A�߂�����߂����łȂ�Ƃ��Ȃ�񂶂�Ȃ����ȁH<br>
-�Ȃɂ��A����̐l���Ă݂�ȃA�N�e�B�u�ł�����i��</font>
+うーん、どうなるんでしょう？<br>
+でも、戻ったら戻ったでなんとかなるんじゃないかな？<br>
+なにせ、周りの人ってみんなアクティブですから（笑</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> Irregular girl 12��ǂ݂܂���</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> Irregular girl 12回読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/06 (��) 23:18:30 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307060231830&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307060231830"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/06 (日) 23:18:30 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307060231830_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307060231830"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�҂��]��ł�����i�̑������ǂ߂čK���C���ł��B:-)<br>
-���񑩂Ƃ͂����`���b�g���Ԃ��݂ȓ����o�C�g��Ƃ����̂��c�B(^^;<br>
-���āA�΂�=(�`���b�g��)�Ă��Ď����o�C�g����=�`���b�g���Ԃɂ΂ꂿ������݂����ł����A�j�ɖ߂ꂽ��ǂ������󂷂�񂾂낤�c�B<br>
-�����A����ς�߂�Ȃ�����S�z���p���Ɓc�B:-)</font>
+<font size=3 color=#606060>待ち望んでいた作品の続きが読めて幸せ気分です。:-)<br>
+お約束とはいえチャット仲間がみな同じバイト先というのが…。(^^;<br>
+さて、つばめ=(チャットの)翔って事がバイト仲間=チャット仲間にばれちゃったみたいですが、男に戻れたらどう言い訳するんだろう…。<br>
+＃え、やっぱり戻らないから心配無用だと…。:-)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �P�Q�b�ǂ݂܂����i�O�O�j��</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> １２話読みました（＾＾）ｖ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/06 (��) 19:14:52 <strong>��</strong> kagerou6 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307060191452&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307060191452"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/06 (日) 19:14:52 <strong>▽</strong> kagerou6 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307060191452_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307060191452"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����v���Ԃ�ȋC�����āA������x�ǂݕԂ��Ă����玞�Ԃ��i�O�O�G�G�G�G<br>
+<font size=3 color=#606060>凄く久しぶりな気がして、もう一度読み返していたら時間が（＾＾；；；；<br>
 <br>
-����͂�y���񂾁i�P���P�j/~<br>
-�l�C�҂͐h����ˁA�΂߂����E�E�E�E�P�N�����j��f�킷�Ȃ��(��<br>
-�܂��A�l�b�g�ł����C�ɂȂ��Ă΂炵�Ă��܂��A���Ȃ�̂��΂��ҁH�i�΂ɂ͂��傤�Ǘǂ���Ȃ�ł��傤�i�O�O�G�G�G�G<br>
-����Ȑl�͂����ƒ��߂Ȃ��ŃX�g�[�J�[�Ƃ��ɂȂ�񂾂낤�Ȃ�<br>
+いやはや楽しんだ（‾▽‾）/~<br>
+人気者は辛いわね、つばめちゃん・・・・１年半も男を惑わすなんて(笑<br>
+まあ、ネットでいい気になってばらしてしまう、かなりのおばか者？（笑にはちょうど良い薬なんでしょう（＾＾；；；；<br>
+こんな人はきっと諦めないでストーカーとかになるんだろうなぁ<br>
 <br>
-����͂��������ăX�g�[�J�[�ҁH�Ƃ��[�ǂ݂����肵�āi���j�O�O�G�G�G</font>
+次回はもしかしてストーカー編？とか深読みしたりして（爆）＾＾；；；</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��炢�܂���</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 読ませてもらいました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/06 (��) 02:40:00 <strong>��</strong> ���V </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307060024000&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307060024000"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/06 (日) 02:40:00 <strong>▽</strong> 夢遊 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307060024000_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307060024000"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̍�i�͂����ǂ߂Ȃ����Ǝv���Ă��������ɁA<br>
-�������ǂ߂�̂͂ƂĂ����ꂵ���ł��B<br>
-���̘b�����҂��đ҂��Ă܂��B<br>
+<font size=3 color=#606060>この作品はもう読めないかと思っていただけに、<br>
+続きが読めるのはとてもうれしいです。<br>
+次の話も期待して待ってます。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -210,19 +210,19 @@ SORA����<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/06 (��) 00:15:25 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307060001525&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307060001525"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/06 (日) 00:15:25 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307060001525_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307060001525"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂩂������v���Ԃ�̂悤�ȁi�΁j�B<br>
-�O�̘b�ǂ݂ɍs����Ƃ�������Y��Ă������Ƃ�o�C�i���j�B<br>
-�܁A���������̏����A�u�����v�ƌ����Ă��܂��Ă������̂��B<br>
-���q�̂��߂Ƃ͂����A�ނ��Ⴍ����Ƒ��Ȏ�i��p���Ă��Ȃ��ł����i�΁j�B<br>
-�܂��ʔ����������炢�����i���j�B<br>
-�Ƃ肠����������ǂ݂����̂ő҂��Ă܂��ˁ�</font>
+<font size=3 color=#606060>なんかすごい久しぶりのような（笑）。<br>
+前の話読みに行かんとすっかり忘れてしもうとるバイ（爆）。<br>
+ま、しかしこの勝負、「勝負」と言ってしまっていいものやら。<br>
+自衛のためとはいえ、むちゃくちゃ姑息な手段を用いてるやないですか（笑）。<br>
+まあ面白かったからいいか（ぉ）。<br>
+とりあえず次回も読みたいので待ってますね♪</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -230,62 +230,62 @@ SORA����<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �������ǂ߂��ł���</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 続きが読めるんですね</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/05 (�y) 23:02:23 <strong>��</strong> �݂�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307056230223&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307056230223"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/05 (土) 23:02:23 <strong>▽</strong> みゅん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307056230223_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307056230223"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���v���Ԃ�ł��B�����͂Ȃ񂩏o�������}�l���������������<br>
-��������ŃX�����v�ɂȂ��Ă���c�w���߂�Ȃ������I�x<br>
-����肻���Ƒ҂��Ă܁[��</font>
+<font size=3 color=#606060>お久しぶりです。当時はなんか出すぎたマネしちゃった感じで<br>
+もしそれでスランプになってたら…『ごめんなさいっ！』<br>
+そろりそろりと待ってまーす</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> ��P�Q��ǂ݂܂���</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 第１２回読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/05 (�y) 22:00:57 <strong>��</strong> kumakuma </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307056220057&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307056220057"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/05 (土) 22:00:57 <strong>▽</strong> kumakuma </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307056220057_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307056220057"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�҂��ɑ҂����P�Q��A���������̂�������߂����Ǝv�����炢�����ԑ҂��܂����B<br>
-���񂩂�͂��������Z���Ԋu�Ŋy���܂��Ă���������Ƃ��ꂵ���ł��B<br>
-����ɂ܂����҂��Ă܂���B</font>
+<font size=3 color=#606060>　待ちに待った１２回、もう書くのをあきらめたかと思うくらい長い間待ちました。<br>
+次回からはもう少し短い間隔で楽しませていただけるとうれしいです。<br>
+次回にまた期待してますよ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �wIrregular Girl�@�`��P�Q��`�x������ɂ͂������N���b�N�B</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『Irregular Girl　〜第１２回〜』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/05 (�y) 21:13:53 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307056211353&log=ruhfasu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307056211353"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/05 (土) 21:13:53 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307056211353_log_ruhfasu.cgi">返信</a>　削除<input type=checkbox name="target" value="200307056211353"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�Ό��́A����Ō��܂�B�Ă̍􂪌����ɂ͂܂�܂����B</font>
-<p><a href="http://ts.novels.jp/novel/200104/23004330/irr12.html" target="_top">http://ts.novels.jp/novel/200104/23004330/irr12.html</a>
+<font size=3 color=#606060>【推薦文】対決は、これで決まり。翔の策が見事にはまりました。</font>
+<p><a href="../../novel/200104/23004330/irr12.html" target="_top">http://ts.novels.jp/novel/200104/23004330/irr12.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="ruhfasu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=ruhfasu">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_ruhfasu.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

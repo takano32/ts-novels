@@ -1,43 +1,43 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�m�g�j����@���z�f����</title>
+<title>ＮＨＫさん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�m�g�j����@���z�f����</font>
+<font size=5>ＮＨＫさん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="nhk">
 <input type=hidden name="nj" value="B9odCp901Q">
 <input type=hidden name="res" value="139">
-<h4 align=center>�� �L���ԍ� 139 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 139 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� NHK����
-&gt; �� �����W�S�Q�U�������
-&gt; &gt; ���[�ށA������RPG�͂���ς���Ȋ����ɂȂ��ł��傤���˂��B
-&gt; �����A���̕���݂����ȃQ�[�����J������Ă��A�o�C�I�n�U�[�h�����͂�肽���Ȃ��ł��B
-&gt; &gt; �������A���ǂ̂Ƃ���ނ�̌����ł̐g�̂͂ǂ��Ȃ��Ă��܂��Ă��ł��傤�H
-&gt; &gt; �A����Ԃ������肵������ɁE�E�E�i���j�B
-&gt; ���`�A�����ł��˂��B��l�������̓��̂͂ǂ��Ȃ����񂾂낤�H�܂��A��l�������ɂƂ��ẮA�����̓��̂��ǂ��Ȃ������Ȃ�Ă��܂���ł͂Ȃ��Ǝv���܂����ǁc�c�B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ NHKさん
+&gt; ▼ ｍｋ８４２６＠自宅さん
+&gt; &gt; うーむ、未来のRPGはやっぱこんな感じになるんでしょうかねぇ。
+&gt; もし、この物語みたいなゲームが開発されても、バイオハザードだけはやりたくないです。
+&gt; &gt; しかし、結局のところ彼らの現実での身体はどうなってしまってるんでしょう？
+&gt; &gt; 植物状態だったりしたら既に・・・（爆）。
+&gt; あ〜、そうですねぇ。主人公たちの肉体はどうなったんだろう？まぁ、主人公たちにとっては、現実の肉体がどうなったかなんてあまり問題ではないと思いますけど……。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -50,103 +50,103 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[146]</font> <font size=4 color=#40c0c0> .hack�ɂ���</font>
+<font size=2>[146]</font> <font size=4 color=#40c0c0> .hackについて</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/15 (��) 03:34:39 <strong>��</strong> ��R�P�O�T�����l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406152033439&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406152033439"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/15 (火) 03:34:39 <strong>▽</strong> 大山１０５世名人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406152033439_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406152033439"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>sign�ɂłĂ���i�Ƃ����v���C���[���Q�[�����ɕ����߂��A<br>
-����Ȍ�A�Q-���Ɉٕς��N����Ƃ����b�ł����ˁB<br>
-�i�i�͏��Ȃ̂ɁA�����K�i�Ƃ����l�H�m���ɂ���āA�j�ł���<br>
-�Ƃ����L����A���t�����܂��B�j<br>
-���������΁A���̗ނ̘b�́A���̕��ɂł́A�����h�ł��B<br>
-���Ƃ��j�ŁA�g�̂��ς�邪�A�ӎ��͒j�Ƃ����p�^�[���������B<br>
-�֑��ł����A.hack�ł́A�ӎ��s���҂̐g�̂́A�����s����<br>
-�����ŕa�@����ɂȂ��Ă��܂��B�g�̂ƃQ�[���@������Ă���<br>
-�̂ɁA�ӎ����Q�[�����ɂ��闝�R�͎�����܂���ł������B</font>
+<font size=3 color=#606060>signにでてくる司というプレイヤーがゲーム内に閉じ込められ、<br>
+それ以後、ゲ-ムに異変が起こるという話でしたね。<br>
+（司は女なのに、モルガナという人工知性によって、男である<br>
+という記憶を植え付けられます。）<br>
+そう言えば、この類の話は、この文庫では、少数派です。<br>
+もとが男で、身体が変わるが、意識は男というパターンが多い。<br>
+蛇足ですが、.hackでは、意識不明者の身体は、原因不明の<br>
+昏睡で病院送りになっています。身体とゲーム機が離れている<br>
+のに、意識がゲーム内にある理由は示されませんでしたが。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[145]</font> <font size=4 color=#40c0c0> Re2:�I�G�X�g</font>
+<font size=2>[145]</font> <font size=4 color=#40c0c0> Re2:オエスト</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/12 (�y) 13:54:11 <strong>��</strong> x </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406126135411&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406126135411"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/12 (土) 13:54:11 <strong>▽</strong> x </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406126135411_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406126135411"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� NHK����<br>
-�x�䎁���e�F����I�G�X�g(TDQ)�͏΂��܂���B���������x68000�G�~�����[�^�ō��@(���y������JASRAC�ɂ���O�Ƃ�?)�Ńv���C�ł��܂�(��)</font>
+<font size=3 color=#606060>▼ NHKさん<br>
+堀井氏も容認するオエスト(TDQ)は笑えますよ。検索すればx68000エミュレータで合法(音楽だけはJASRACにより例外とか?)でプレイできます(笑)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[144]</font> <font size=4 color=#40c0c0> Re:�I�G�X�g</font>
+<font size=2>[144]</font> <font size=4 color=#40c0c0> Re:オエスト</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/08 (��) 22:34:02 <strong>��</strong> NHK </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406082223402&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406082223402"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/08 (火) 22:34:02 <strong>▽</strong> NHK </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406082223402_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406082223402"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� x����<br>
-<font color="#cc88ff">&gt; ���v������ł����A�^�C�g�����A�c�ނƂ����l�������x68000�p�Q�[���A�h���S���I�G�X�g�Ɍ����܂����B</font><br>
-����ȃQ�[��������Ƃ́c�c�B</font>
+<font size=3 color=#606060>▼ xさん<br>
+<font color="#cc88ff">&gt; 今思ったんですが、タイトルが、田圃という人が作ったx68000用ゲーム、ドラゴンオエストに見えました。</font><br>
+そんなゲームがあるとは……。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[143]</font> <font size=4 color=#40c0c0> �I�G�X�g</font>
+<font size=2>[143]</font> <font size=4 color=#40c0c0> オエスト</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/05 (�y) 09:36:15 <strong>��</strong> x </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406056093615&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406056093615"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/05 (土) 09:36:15 <strong>▽</strong> x </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406056093615_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406056093615"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���v������ł����A�^�C�g�����A�c�ނƂ����l�������x68000�p�Q�[���A�h���S���I�G�X�g�Ɍ����܂����B</font>
+<font size=3 color=#606060>今思ったんですが、タイトルが、田圃という人が作ったx68000用ゲーム、ドラゴンオエストに見えました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[142]</font> <font size=4 color=#40c0c0> Re:�ǂ񂾂ł�</font>
+<font size=2>[142]</font> <font size=4 color=#40c0c0> Re:読んだです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/03 (��) 23:28:19 <strong>��</strong> NHK </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406034232819&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406034232819"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/03 (木) 23:28:19 <strong>▽</strong> NHK </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406034232819_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406034232819"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ��܂���<br>
-<font color="#cc88ff">&gt; �Q�[���̒����甲���o���Ȃ��c�����A�u�D���������v�̐��E���v���o���Ă��܂��܂����B</font><br>
-�����A����Șb��������ł����B�m��Ȃ������B���̉��ɐV�������̂Ȃ��ł��˂��B<br>
-<font color="#cc88ff">&gt; �ł����o���t�B�[�h�o�b�N����Q�[���ňِ��̃L������I�Ԃ�����A��l���͂s�r��]�������͂������̂�������܂����^^�G</font><br>
-�ł��A���̂悤�ȋZ�p���J�����ꂽ��A�ِ��̃L�������g�p����l���o�Ă���񂾂낤�Ȃ��B<br>
-<font color="#cc88ff">&gt; ���ǁA�n�b�s�[�G���h�H�Ȃ̂�������܂��񂪁A�����̓��̂��ǂ��Ȃ����̂��A�Ȃ����̂悤�Ȍ��ۂ��N�����̂�����������Ă���΁A�����Ɨǂ������Ǝv���܂����B</font><br>
-����ς�C�ɂȂ�܂����B���`�ށA������B�׋��ɂȂ�܂����B</font>
+<font size=3 color=#606060>▼ らまさん<br>
+<font color="#cc88ff">&gt; ゲームの中から抜け出せない…何か、「．ｈａｃｋ」の世界を思い出してしまいました。</font><br>
+あっ、そんな話だったんですか。知らなかった。日の下に新しきものなしですねぇ。<br>
+<font color="#cc88ff">&gt; でも感覚がフィードバックするゲームで異性のキャラを選ぶあたり、主人公はＴＳ願望が少しはあったのかもしれませんね^^；</font><br>
+でも、このような技術が開発されたら、異性のキャラを使用する人が出てくるんだろうなぁ。<br>
+<font color="#cc88ff">&gt; 結局、ハッピーエンド？なのかもしれませんが、現実の肉体がどうなったのか、なぜこのような現象が起きたのかが説明されていれば、もっと良かったと思いました。</font><br>
+やっぱり気になりますか。う〜む、成る程。勉強になりました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[141]</font> <font size=4 color=#40c0c0> �ǂ񂾂ł�</font>
+<font size=2>[141]</font> <font size=4 color=#40c0c0> 読んだです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/03 (��) 14:39:30 <strong>��</strong> ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406034143930&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406034143930"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/03 (木) 14:39:30 <strong>▽</strong> らま </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406034143930_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406034143930"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Q�[���̒����甲���o���Ȃ��c�����A�u�D���������v�̐��E���v���o���Ă��܂��܂����B<br>
-�ł����o���t�B�[�h�o�b�N����Q�[���ňِ��̃L������I�Ԃ�����A��l���͂s�r��]�������͂������̂�������܂����^^�G<br>
-���ǁA�n�b�s�[�G���h�H�Ȃ̂�������܂��񂪁A�����̓��̂��ǂ��Ȃ����̂��A�Ȃ����̂悤�Ȍ��ۂ��N�����̂�����������Ă���΁A�����Ɨǂ������Ǝv���܂����B<br>
+<font size=3 color=#606060>ゲームの中から抜け出せない…何か、「．ｈａｃｋ」の世界を思い出してしまいました。<br>
+でも感覚がフィードバックするゲームで異性のキャラを選ぶあたり、主人公はＴＳ願望が少しはあったのかもしれませんね^^；<br>
+結局、ハッピーエンド？なのかもしれませんが、現実の肉体がどうなったのか、なぜこのような現象が起きたのかが説明されていれば、もっと良かったと思いました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -157,40 +157,40 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[140]</font> <font size=4 color=#40c0c0> Re:VR</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/03 (��) 02:46:35 <strong>��</strong> NHK </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406034024635&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406034024635"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/03 (木) 02:46:35 <strong>▽</strong> NHK </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406034024635_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406034024635"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �������ʔ���������<br>
-<font color="#cc88ff">&gt; �^�����Matrix�̂��Ƃ����ɕ����т܂����B���k�@�����̂��Ƃ܂ŕ����т܂����B</font><br>
-�����A�ǂ����B<br>
+<font size=3 color=#606060>▼ 次回作も面白そうさん<br>
+<font color="#cc88ff">&gt; 真っ先にMatrixのことが頭に浮かびました。功殻機動隊のことまで浮かびました。</font><br>
+あっ、どうも。<br>
 &gt;<br>
-<font color="#cc88ff">&gt; ���܂ꂽ�q�����{���������炷�����ł��ˁB<br>
-&gt; �l�H�m�\���g�����V�����v���[���[���q������S���H</font><br>
-���Ԃ�A����f�q�̂悤�ȏ�񐶖��̂ɂȂ�̂ł͂Ȃ��ł��傤���H�ł��A�V�����v���C���[�ł��ʔ��������c�c�B<br>
+<font color="#cc88ff">&gt; 生まれた子供が本物だったらすごいですね。<br>
+&gt; 人工知能を使うか新しいプレーヤーが子供役を担う？</font><br>
+たぶん、草薙素子のような情報生命体になるのではないでしょうか？でも、新しいプレイヤーでも面白いかも……。<br>
 &gt;<br>
-<font color="#cc88ff">&gt; �ǂ��ł�������������܂���VR�w��ɂ��ƁA<br>
-&gt; �ŋ߂�Virtual Reality ���u���z�����v�Ɩ󂷂̂͊ԈႢ���Ƃ��B</font><br>
-�����ƁA���������΁AHotWired�̃j���[�X�ł���ȋL�����������悤�ȁc�c�B�������肵�Ă��܂����B</font>
+<font color="#cc88ff">&gt; どうでもいいかもしれませんがVR学会によると、<br>
+&gt; 最近のVirtual Reality を「仮想現実」と訳すのは間違いだとか。</font><br>
+おっと、そういえば、HotWiredのニュースでそんな記事があったような……。うっかりしていました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[139]</font> <font size=4 color=#40c0c0> Re:�ǂ񂾃o�C��</font>
+<font size=2>[139]</font> <font size=4 color=#40c0c0> Re:読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/03 (��) 02:41:51 <strong>��</strong> NHK </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406034024151&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406034024151"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/03 (木) 02:41:51 <strong>▽</strong> NHK </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406034024151_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406034024151"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����W�S�Q�U�������<br>
-<font color="#cc88ff">&gt; ���[�ށA������RPG�͂���ς���Ȋ����ɂȂ��ł��傤���˂��B</font><br>
-�����A���̕���݂����ȃQ�[�����J������Ă��A�o�C�I�n�U�[�h�����͂�肽���Ȃ��ł��B<br>
-<font color="#cc88ff">&gt; �������A���ǂ̂Ƃ���ނ�̌����ł̐g�̂͂ǂ��Ȃ��Ă��܂��Ă��ł��傤�H<br>
-&gt; �A����Ԃ������肵������ɁE�E�E�i���j�B</font><br>
-���`�A�����ł��˂��B��l�������̓��̂͂ǂ��Ȃ����񂾂낤�H�܂��A��l�������ɂƂ��ẮA�����̓��̂��ǂ��Ȃ������Ȃ�Ă��܂���ł͂Ȃ��Ǝv���܂����ǁc�c�B</font>
+<font size=3 color=#606060>▼ ｍｋ８４２６＠自宅さん<br>
+<font color="#cc88ff">&gt; うーむ、未来のRPGはやっぱこんな感じになるんでしょうかねぇ。</font><br>
+もし、この物語みたいなゲームが開発されても、バイオハザードだけはやりたくないです。<br>
+<font color="#cc88ff">&gt; しかし、結局のところ彼らの現実での身体はどうなってしまってるんでしょう？<br>
+&gt; 植物状態だったりしたら既に・・・（爆）。</font><br>
+あ〜、そうですねぇ。主人公たちの肉体はどうなったんだろう？まぁ、主人公たちにとっては、現実の肉体がどうなったかなんてあまり問題ではないと思いますけど……。</font>
 </td></table>
 </td></tr></table>
 
@@ -200,50 +200,50 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[138]</font> <font size=4 color=#40c0c0> VR</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/01 (��) 12:16:04 <strong>��</strong> �������ʔ����� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406012121604&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406012121604"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/01 (火) 12:16:04 <strong>▽</strong> 次回作も面白そう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406012121604_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406012121604"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�^�����Matrix�̂��Ƃ����ɕ����т܂����B���k�@�����̂��Ƃ܂ŕ����т܂����B<br>
+<font size=3 color=#606060>真っ先にMatrixのことが頭に浮かびました。功殻機動隊のことまで浮かびました。<br>
 <br>
-���܂ꂽ�q�����{���������炷�����ł��ˁB<br>
-�l�H�m�\���g�����V�����v���[���[���q������S���H<br>
+生まれた子供が本物だったらすごいですね。<br>
+人工知能を使うか新しいプレーヤーが子供役を担う？<br>
 <br>
-�ǂ��ł�������������܂���VR�w��ɂ��ƁA<br>
-�ŋ߂�Virtual Reality ���u���z�����v�Ɩ󂷂̂͊ԈႢ���Ƃ��B</font>
+どうでもいいかもしれませんがVR学会によると、<br>
+最近のVirtual Reality を「仮想現実」と訳すのは間違いだとか。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[137]</font> <font size=4 color=#40c0c0> ��i���</font>
+<font size=2>[137]</font> <font size=4 color=#40c0c0> 作品解説</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/01 (��) 03:41:31 <strong>��</strong> NHK </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406012034131&log=nhk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406012034131"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/01 (火) 03:41:31 <strong>▽</strong> NHK </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406012034131_log_nhk.cgi">返信</a>　削除<input type=checkbox name="target" value="200406012034131"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ƁA������Ƃ�����i������܂��ˁB<br>
+<font size=3 color=#606060>えと、ちょっとだけ作品解説しますね。<br>
 <br>
-����́yRPG�z�Ɓy���z�����z���e�[�}�ɏ����܂����B<br>
+今回は【RPG】と【仮想現実】をテーマに書きました。<br>
 <br>
-�yRPG�z��l���͌������E�ł͒j���Ȃ̂ł����A�Q�[���̐��E�ɉ����Ă͏��̎q�m���������āi���[���v���C���O�j���܂��B����́A�A�j���L�����̃R�X�v�������Ă��̃L�����ɂȂ肫��̂Ɠ�����Ԃ��Ƃ����܂��B<br>
-�@�Ƃ��낪�A���̕���̏ꍇ�A��l���͌����ɖ߂�Ȃ��Ȃ��Ă��܂������߁A�L���������������Ȃ���΂Ȃ�Ȃ��Ȃ�A�������A�����߂ł������͂��̎������i�L�����j���A�����ɉ����鎩�����ƎC��ւ���Ă��܂��܂��B�ŁA��l���͐Ԃ�V���~�����Ȃ�����ł��B<br>
+【RPG】主人公は現実世界では男性なのですが、ゲームの世界に於いては女の子僧侶を演じて（ロールプレイング）います。これは、アニメキャラのコスプレをしてそのキャラになりきるのと同じ状態だといえます。<br>
+　ところが、この物語の場合、主人公は現実に戻れなくなってしまったため、キャラを演じ続けなければならなくなり、いつしか、仮初めであったはずの自分像（キャラ）が、現実に於ける自分像と擦り替わってしまいます。で、主人公は赤ん坊が欲しくなった訳です。<br>
 <br>
-�y���z�����z�Ԃ����Ⴏ���b�A���̕���́w�}�g���b�N�X�x�i�ē@�E�H�V���E�X�L�[�Z��j��w�A���@�����x�i�ē@�����j�Ƒ債�ĕς�肠��܂���B�ܘ_�A����̊����x�͌��Ⴂ�ł����c�c�B<br>
-�@�����A�������B�܂������A�����������܂��c�c�B����A�����������ɂȂ����̂ő����������܂��B<br>
-�@���Ė��ł��B�w�}�g���b�N�X�x�݂����ɍI���ɍ��ꂽ���z�����i���j�ƌ����B���̓�͂ǂ�����Ό������邱�Ƃ��o����ł��傤���H<br>
-�@���ꂪ���Ȃ�΁A�ڂ��o�߂邱�Ƃɂ���Ď������������Ă������Ƃ��ؖ�����܂��B�������A��l���̓Q�[���i���j�Ƃ̐ڑ���؂邱�Ƃ��o���Ȃ���Ԃɂ���̂ŁA������ؖ����邱�Ƃ͕s�\�Ȃ̂ł��B�m���Ɏ�l���͌������E�ł̋L�����A�Q�[���̐��E�Ɏ�������ł͂��܂����A�L���͊m�ł���؋��ɂ͂Ȃ�܂���B<br>
-�@�܂�A�o���ł��Ȃ��ȏ�A�u�������H�����H�v�Ƃ����₢�͈Ӗ��������Ă��܂��̂ł��B���ʁA��l���́i���݂��邩�ǂ����s�m���ȁj�����ɖ߂�w�͂���߁A���������K���ɐ�������Q�[���̐��E�Ő����邱�Ƃ�I�������̂ł��B<br>
+【仮想現実】ぶっちゃけた話、この物語は『マトリックス』（監督　ウォシャウスキー兄弟）や『アヴァロン』（監督　押井守）と大して変わりありません。勿論、物語の完成度は桁違いですが……。<br>
+　あぁ、眠たい。また明日、続きを書きます……。じゃ、明日が今日になったので続きを書きます。<br>
+　さて問題です。『マトリックス』みたいに巧妙に作られた仮想現実（夢）と現実。この二つはどうすれば見分けることが出来るでしょうか？<br>
+　これが夢ならば、目が覚めることによって自分が夢を見ていたことが証明されます。しかし、主人公はゲーム（夢）との接続を切ることが出来ない状態にあるので、これを証明することは不可能なのです。確かに主人公は現実世界での記憶を、ゲームの世界に持ち込んではいますが、記憶は確固たる証拠にはなりません。<br>
+　つまり、覚醒できない以上、「現実か？夢か？」という問いは意味を失ってしまうのです。結果、主人公は（存在するかどうか不確かな）現実に戻る努力を諦め、自分がより幸福に生きられるゲームの世界で生きることを選択したのです。<br>
 <br>
-�@�Ō�ɁA���̕����ǂݒ����Ďv�����̂ł����A���̕�����ē��̕t���Ă��Ȃ�T�{�[���X�e�[�L�݂����ȕ��ꂾ�Ȃ��B����Ȓ��r���[�ȕ����ǂ�ł��������ėL��������܂��B</font>
+　最後に、この物語を読み直して思ったのですが、この物語って肉の付いていないTボーンステーキみたいな物語だなぁ。こんな中途半端な物語を読んでくださって有難うございます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="nhk">
@@ -251,16 +251,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="nhk">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=nhk">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_nhk.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

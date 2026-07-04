@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>Plantain�����i�@���z�f����</title>
+<title>Plantainさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>Plantain�����i�@���z�f����</font>
+<font size=5>Plantainさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="plantain">
 <input type=hidden name="nj" value="ImFVw7dGmj">
 <input type=hidden name="res" value="39">
-<h4 align=center>�� �L���ԍ� 39 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 39 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�q�����܂����B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��� ������
-&gt; �@�Ɠ��̕��͋C�̂��镶�͂��f�G�ł��ˁB���������Ă��邾������Ȃ��A�ǂ�Ŗʔ������͂�������Ƃ����̂͐������Ƃ��Ǝv���܂��B�������͐^�t�ł����A����w���V���O�̍�҂̕��͂Ƃ��ɒʂ�����̂������܂��B������A���K���Đ��i���Ȃ���΁B
-&gt; �@�X�g�[���[���A�ǂ��W�J���Ă䂭�̂��C�ɂȂ�܂��ˁB�O��܂ł̏����ƁA���C�͋����񂵓I�ȗ��ꂾ�Ǝv���Ă����̂ł����A����������ƃq���C���i�q�[���[�H�j�ɂȂ邩������Ȃ��\�����o�Ă����킯�ł���ˁB
-&gt; �@�������A���҂��đ҂��Ă��܂��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:拝見しました。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 鈴忌 紫さん
+&gt; 　独特の雰囲気のある文章が素敵ですね。ただ整っているだけじゃない、読んで面白い文章を書けるというのは凄いことだと思います。方向性は真逆ですが、漫画ヘルシングの作者の文章とかに通じるものを感じます。鈴忌も、見習って精進しなければ。
+&gt; 　ストーリーも、どう展開してゆくのか気になりますね。前回までの所だと、メイは狂言回し的な立場だと思っていたのですが、もしかするとヒロイン（ヒーロー？）になるかもしれない可能性が出てきたわけですよね。
+&gt; 　続きを、期待して待っています。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,76 +48,76 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[48]</font> <font size=4 color=#40c0c0> �����z�A���ӂł��B</font>
+<font size=2>[48]</font> <font size=4 color=#40c0c0> ご感想、感謝です。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/09 (��) 13:49:18 <strong>��</strong> Plantain </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607090134918&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607090134918"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/09 (日) 13:49:18 <strong>▽</strong> Plantain </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607090134918_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200607090134918"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�������l</font><br>
-���f���Ő؂�̂������͂�������Ă���̂������������Ȃ���A�Ȃ��Ȃ����z�������Ȃ��ł���܂��B�앗�̕����b�͂Ȃǂ����K�������ƁA������v���Ă���܂��B<br>
+<font size=3 color=#606060><font color="#ff88cc">＞長束様</font><br>
+第二掲示板で切れのいい文章を書かれているのをお見かけしながら、なかなか感想を書けないでおります。作風の幅や語彙力などを見習いたいと、常日頃思っております。<br>
 <br>
-���̏ꍇ�͊��o�I�ɏ����Ă���i�K�ł��̂ŁA���͓I�ȏ������Ɠǂݕ����w�Ԃ̂��ۑ�ł��B����ƒP���~�X�̖o�ł͉i���̉ۑ肩������܂���B<br>
+私の場合は感覚的に書いている段階ですので、分析的な書き方と読み方を学ぶのが課題です。それと単純ミスの撲滅は永遠の課題かもしれません。<br>
 <br>
-�Ō�ɂȂ�܂������ǂ�ł������肠�肪�Ƃ��������܂����B</font>
+最後になりましたが読んでくださりありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[47]</font> <font size=4 color=#40c0c0> �m�x���Ȃ��̂̈ʒu�Â���</font>
+<font size=2>[47]</font> <font size=4 color=#40c0c0> ノベルなものの位置づけが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/08 (�y) 11:25:12 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607086112512&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607086112512"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/08 (土) 11:25:12 <strong>▽</strong> 長束 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607086112512_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200607086112512"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ƍ�i��q�������Ă��������Ă���܂������A���z�͂͂��߂ď������Ă��������܂��B<br>
+<font size=3 color=#606060>ずっと作品を拝見させていただいておりましたが、感想ははじめて書かせていただきます。<br>
 <br>
-�V�����̂ɉ��������A�����傫�ȃV���{���ɕ�܂ꂽ�悤�Ȋ��o�œǂݐi�߂��邱�̃V���[�Y���D���ł��B<br>
-�l�̎v�l�̔�������s���Ă������ł͑�������A�V�������Ă͂����Ȃ�����ǂ�����ŕ����Ă��Ă͒x������B���̔����Ȋ��o�Ƃ������̂��l�������Ă����앗�Ȃ�ł���ˁB<br>
+新しいのに懐かしい、何か大きなシャボンに包まれたような感覚で読み進められるこのシリーズが好きです。<br>
+人の思考の半歩先を行っても一歩先では多すぎる、新しすぎてはいけないけれども並んで歩いていては遅すぎる。その微妙な感覚というものを考えさせてくれる作風なんですよね。<br>
 <br>
-�Z�p���ǂ��Ƃ��A�������������ƂɊ��z���q�ׂ���قǂ̒m�����Z�ʂ��Ȃ����ł���<br>
-���̊y������i�Ɂu�G��Ă������v�ƁA���������ɂ����v���̂ł��B<br>
-�܂��Ǎ삪�d�˂��邱�Ƃ�����āA����ł͎��炵�܂��B</font>
+技術がどうとか、そういったことに感想を述べられるほどの知識も技量もない私ですが<br>
+この楽しい作品に「触れていたい」と、ただ純粋にそう思うのです。<br>
+また良作が重ねられることを願って、それでは失礼します。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[46]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂��B</font>
+<font size=2>[46]</font> <font size=4 color=#40c0c0> ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/07 (��) 22:51:08 <strong>��</strong> Plantain </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607075225108&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607075225108"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/07 (金) 22:51:08 <strong>▽</strong> Plantain </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607075225108_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200607075225108"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��낵�����肢�������܂��B<br>
+<font size=3 color=#606060>よろしくお願いいたします。<br>
 <br>
-�l�̎v�l�̍��΂ߎl�\�ܓx���ڎw���Ă���̂ł����A�Ӗ��s���Ƃ̋��E������A������J���Ă��܂��B<br>
-���t�̃��Y�����؂ɂ��Ȃ���A�킩��₷�����͂�S���������Ǝv���܂��B�y�����ǂ�Œ�����΂��肪�����ł��B</font>
+人の思考の左斜め四十五度先を目指しているのですが、意味不明との境界が難しく、いつも苦労しています。<br>
+言葉のリズムを大切にしながら、わかりやすい文章を心がけたいと思います。楽しく読んで頂ければありがたいです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[45]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��������܂����B</font>
+<font size=2>[45]</font> <font size=4 color=#40c0c0> 読ませていただきました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/07 (��) 01:59:02 <strong>��</strong> �p�Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607075015902&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607075015902"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/07 (金) 01:59:02 <strong>▽</strong> 英雄 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607075015902_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200607075015902"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����΂�́A�p�Y�ł��B������ł͏��߂܂��Ăł��ˁB<br>
-����͂����b�ɂȂ�܂����B<br>
+<font size=3 color=#606060>こんばんは、英雄です。こちらでは初めましてですね。<br>
+先日はお世話になりました。<br>
 <br>
-�▭�ȕ��͂́u�ԁv�ɁA�ǂ�ł��Ă������������悤�ȋC�����ɂ������܂����B<br>
-�܂��A�v�킸�c�b�R�~�����Ȃ�悤�Ȃ��Ƃ�ƁA�e���|�̗ǂ��i�s�Ɉ������܂�܂����B<br>
-�c��̂R�b�����ɋC�ɂȂ�Ɠ����ɁA�ƂĂ��y���݂ł��B<br>
+絶妙な文章の「間」に、読んでいてくすぐったいような気持ちにさせられました。<br>
+また、思わずツッコミたくなるようなやりとりと、テンポの良い進行に引き込まれました。<br>
+残りの３話が非常に気になると同時に、とても楽しみです。<br>
 <br>
 </font>
 </td></table>
@@ -126,20 +126,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[44]</font> <font size=4 color=#40c0c0> �����z�A���ӂł��B</font>
+<font size=2>[44]</font> <font size=4 color=#40c0c0> ご感想、感謝です。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/06 (��) 01:21:42 <strong>��</strong> Plantain </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607064012142&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607064012142"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/06 (木) 01:21:42 <strong>▽</strong> Plantain </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607064012142_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200607064012142"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���Ђ̂ЂƗl</font><br>
-�������J�Ȃ��w�E�����肪�Ƃ��������܂��B�����̌�肪�������Ă��݂܂���ł����B���܂߂Ɏ����������悤�ɂ������Ǝv���܂��B��l�b���琏���Ǝ��Ԃ������Ă��܂����̂ŁA�ł��ē��e���Ă��܂��܂����B<br>
+<font size=3 color=#606060><font color="#ff88cc">＞ひのひと様</font><br>
+いつも丁寧なご指摘をありがとうございます。漢字の誤りが激しくてすみませんでした。こまめに辞書を引くようにしたいと思います。第四話から随分と時間がたってしまったので、焦って投稿してしまいました。<br>
 <br>
-�ς�����ƌ����΁A�������̂��ς���Ă��܂����̂͊Ԋu���J���Ă��܂��������ł��B�኱�d�߂ɂȂ��Ă��܂��܂����B�W�J�ɂ��܂��ẮA�����ɗ\�肵�������ɂȂ����邩�Ƃ����_���ۑ�ł��B<br>
+変わったと言えば、多少文体が変わってしまったのは間隔が開いてしまったせいです。若干重めになってしまいました。展開につきましては、いかに予定した落ちにつなげられるかという点が課題です。<br>
 <br>
-<font color="#ff88cc">���d�g�d���l</font><br>
-�N���]���Ō����΁A����̘b�͕����ʂ�]�ɓ�����܂��B���Ƃ͕����ՂŌ������������Ǝv���Ă���܂��B�F�X�ƖZ�����̂ł����A�҂��Ă��������������ƍŌ�܂ŏ���������ӎu���N���Ă��܂��B�������肪�Ƃ��������܂��B<br>
+<font color="#ff88cc">＞電波妖精様</font><br>
+起承転結で言えば、今回の話は文字通り転に当たります。あとは文化祭で決着をつけたいと思っております。色々と忙しいのですが、待ってくださる方がいると最後まで書き続ける意志が湧いてきます。いつもありがとうございます。<br>
 <br>
 </font>
 </td></table>
@@ -148,47 +148,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[43]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/05 (��) 07:47:41 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607053074741&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607053074741"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/05 (水) 07:47:41 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607053074741_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200607053074741"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������͂܂�Ƃ��̉�����Ǒ̌�����悤�ȍ��o�����܂�܂��B����퐄�������̉����҂�ǂ�ł���悤�Ȉ��S���Ƃł������܂��傤���B�\�蒲�a���邢�͈��ʊ֌W�̎������悢�ł��ˁB�������Ȃ��炯�����ĖO�������Ȃ��̂́A�X�g�[���[�I�ɓ��Ɉڂ�|�e���V�������߂Ă��邹���ł��傤���B<br>
-���͖ʂł̓��g���b�N���Y��ŁA��͂�Ɠ��̕��͋C�𐶂�ł��܂��B�����W���A�����ē����Ȋ��o�ł��ˁB<br>
-���͂₱���܂œ��B�����i�K�ł����炩�ɗǍ�B���Ƃ͂����ɏI��点�邩�������Ǝv���܂��B�y���݂ɑ҂��Ă��܂��B</font>
+<font size=3 color=#606060>伏線がはまるときの快感を追体験するような錯覚が生まれます。ある種推理小説の解決編を読んでいるような安心感とでもいいましょうか。予定調和あるいは因果関係の収束がよいですね。しかしながらけっして飽きがこないのは、ストーリー的に動に移るポテンシャルを秘めているせいでしょうか。<br>
+文章面ではレトリックが綺麗で、やはり独特の雰囲気を生んでいます。白く淡く、そして透明な感覚ですね。<br>
+もはやここまで到達した段階であきらかに良作。あとはいかに終わらせるかだけだと思います。楽しみに待っています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> �����Ă݂���c�c</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> 剥けてみたら……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/05 (��) 01:44:56 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607053014456&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607053014456"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/05 (水) 01:44:56 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607053014456_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200607053014456"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����Ȃ��̂��ς���Ă��āA������Ƃт�����B<br>
-�����ɗ��Ă��̎�̃T�v���C�Y���c���Ă���̂͗ǂ������ł��B<br>
-�����ĕς��ʂ��̋�C�����ǂ������ł��B<br>
-�c��񐔂�������Ă�Ƃ������Ƃ́A����̓W�J�����߂��Ă���悤�ŁA����̐i�ސ悪�܂��܂��C�ɂȂ��Ă��܂��Ƃ������̂ł��B<br>
+<font size=3 color=#606060>いろんなものが変わっていて、ちょっとびっくり。<br>
+ここに来てこの手のサプライズが残っているのは良い感じです。<br>
+そして変わらぬこの空気感も良い感じです。<br>
+残り回数が示されてるということは、今後の展開も決められているようで、物語の進む先がますます気になってしまうというものです。<br>
 <br>
-���āA�ׂ����Ƃ����(�Ƃ͂����Ă������ƌ��Ă̂��Ƃł�����)�O�قǋC�ɂȂ��Ă��܂��܂����B<br>
+さて、細かいところで(とはいってもざっと見てのことですけど)三つほど気になってしまいました。<br>
 <br>
-<font color="#ff88cc">���p�~�[�i�̎�������B���̂܂܁A���₤�₵�����t�����悤�Ƃ���</font><br>
+<font color="#ff88cc">＞パミーナの手を取っる。そのまま、うやうやしく口付けしようとして</font><br>
 <br>
-�������ĂƂ��Ă��������̎c�[�ł��傤���B<br>
+手を取ってとしていた時期の残骸でしょうか。<br>
 <br>
-<font color="#ff88cc">�������͈ӎ��I�Ɍ��t�𒲐����������������낤�B</font><br>
+<font color="#ff88cc">＞ここは意識的に言葉を調製した方がいいだろう。</font><br>
 <br>
-�����ł����߂͉\�ł����ǂ��A�O��̗���ōs���Ƃ�͂�f���ɒ����ł��傤���B<br>
+調製でも解釈は可能ですけども、前後の流れで行くとやはり素直に調整でしょうか。<br>
 <br>
-<font color="#ff88cc">�����΂���ɐi�߂���܂܂ɁA�������Ƃ�������y���ɂȂ����B</font><br>
+<font color="#ff88cc">＞おばさんに進められるままに、鳩麦茶とおやつをご馳走になった。</font><br>
 <br>
-��������߂Ƃ��Ă͗L��ł����ǂ��A�����͑f���Ɂu���߂���v�ł��傤���B<br>
+これも解釈としては有りですけども、ここは素直に「勧められる」でしょうか。<br>
 <br>
 </font>
 </td></table>
@@ -197,33 +197,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> �w����̓����@�̉��q�l�@��ܘb�@�ċx�݂ɂ͈�k������x������ɂ͂������N���b�N�B</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> 『居候はレヴァの王子様　第五話　夏休みには一殻剥ける』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/04 (��) 21:33:24 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607042213324&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607042213324"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/04 (火) 21:33:24 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607042213324_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200607042213324"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�ς���Ă��܂��A�ς���Ă��܂��B����܂ł̎����͂Ȃ��Ȃ��Ă��܂��c�c�����āA�����āA�����āc�c��������āA�����āB<br>
-�@����͂��Ă����A�������񂨕ꂳ��A�B�ς��Ă��܂��B���̂킯�́c�c<br>
-<a href=http://ts.novels.jp/novel/200310/31212238/isoro5.html target=_top>http://ts.novels.jp/novel/200310/31212238/isoro5.html</a></font>
+<font size=3 color=#606060>【推薦文】変わってしまう、変わってしまう。それまでの自分はなくなってしまい……泣いて、泣いて、泣いて……泣きつかれて、そして。<br>
+　それはさておき、お父さんお母さん、達観しています。そのわけは……<br>
+<a href="../../novel/200310/31212238/isoro5.html" target=_top>http://ts.novels.jp/novel/200310/31212238/isoro5.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> �ԐM���������x��Đ\���󂠂�܂���B</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> 返信が著しく遅れて申し訳ありません。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/18 (�y) 16:09:41 <strong>��</strong> Plantain </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602186160941&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602186160941"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/18 (土) 16:09:41 <strong>▽</strong> Plantain </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602186160941_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200602186160941"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">����� ���l</font><br>
-�@�d�ˏd�˒x��Ă��݂܂��񂪁A�����z�A���ӂł��B<br>
-�@�R���f�B�ł��̂ŁA�ł�����薾�邭�ʔ����������ƍl���Ă���܂��B����̂悤�ȕ��͋C��ڎw�������̂ł����A���͂�����Ă͌����q���Ȃ��̂ŋC�����܂��B���͍�@��\���̕��ɂ��ẮA�����ƍl�������Ǝv���܂��B<br>
-�@�X�g�[���[�ɂ��܂��ẮA�Ō�̗����Ɍ������Ă܂Ƃ߂Ă��������Ǝv���܂��B<br>
+<font size=3 color=#606060><font color="#ff88cc">＞鈴忌 紫様</font><br>
+　重ね重ね遅れてすみませんが、ご感想、感謝です。<br>
+　コメディですので、できる限り明るく面白くしたいと考えております。落語のような雰囲気を目指したいのですが、文章が乱れては元も子もないので気をつけます。文章作法や表現の幅については、もっと考えたいと思います。<br>
+　ストーリーにつきましては、最後の落ちに向かってまとめていきたいと思います。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -231,23 +231,23 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> �q�����܂����B</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> 拝見しました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/12/11 (��) 03:31:31 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200512110033131&log=plantain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200512110033131"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/12/11 (日) 03:31:31 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200512110033131_log_plantain.cgi">返信</a>　削除<input type=checkbox name="target" value="200512110033131"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�Ɠ��̕��͋C�̂��镶�͂��f�G�ł��ˁB���������Ă��邾������Ȃ��A�ǂ�Ŗʔ������͂�������Ƃ����̂͐������Ƃ��Ǝv���܂��B�������͐^�t�ł����A����w���V���O�̍�҂̕��͂Ƃ��ɒʂ�����̂������܂��B������A���K���Đ��i���Ȃ���΁B<br>
-�@�X�g�[���[���A�ǂ��W�J���Ă䂭�̂��C�ɂȂ�܂��ˁB�O��܂ł̏����ƁA���C�͋����񂵓I�ȗ��ꂾ�Ǝv���Ă����̂ł����A����������ƃq���C���i�q�[���[�H�j�ɂȂ邩������Ȃ��\�����o�Ă����킯�ł���ˁB<br>
-�@�������A���҂��đ҂��Ă��܂��B</font>
+<font size=3 color=#606060>　独特の雰囲気のある文章が素敵ですね。ただ整っているだけじゃない、読んで面白い文章を書けるというのは凄いことだと思います。方向性は真逆ですが、漫画ヘルシングの作者の文章とかに通じるものを感じます。鈴忌も、見習って精進しなければ。<br>
+　ストーリーも、どう展開してゆくのか気になりますね。前回までの所だと、メイは狂言回し的な立場だと思っていたのですが、もしかするとヒロイン（ヒーロー？）になるかもしれない可能性が出てきたわけですよね。<br>
+　続きを、期待して待っています。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="plantain">
@@ -255,16 +255,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="plantain">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=plantain">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_plantain.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

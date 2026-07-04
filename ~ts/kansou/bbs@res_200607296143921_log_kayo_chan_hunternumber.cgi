@@ -1,14 +1,14 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�n���^�[�����񍐌f����</title>
+<title>ハンター活動報告掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�n���^�[�����񍐌f����</font>
+<font size=5>ハンター活動報告掲示板</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�ؑタ���V���[�Y���A���򂵂���̃V���[�Y�ł���u�n���^�[�E�V���[�Y�v�̐�p�f���ł��B<br>��i�������O�ɁA�n���^�[���������̌f���Ŋ��Ɏg���Ă��Ȃ������m���߂�̂��g�B<br>�܂��A��i����������A�w�n���^�[�������g���܂����x�Ƃ������Ă��������B���łɐ�`���i�΁j</font>
+<font color=#608080>華代ちゃんシリーズより、分岐した一つのシリーズである「ハンター・シリーズ」の専用掲示板です。<br>作品を書く前に、ハンター○号をこの掲示板で既に使われていないかを確かめるのが吉。<br>また、作品を書いたら、『ハンター○号を使いました』とか書いてください。ついでに宣伝も（笑）</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
@@ -16,31 +16,31 @@
 <input type=hidden name="log" value="kayo_chan_hunternumber">
 <input type=hidden name="nj" value="n9ZBAPkNKo">
 <input type=hidden name="res" value="38">
-<h4 align=center>�� �L���ԍ� 38 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 38 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ����������
-&gt; ����ɂ��́A�������ł��B
-&gt; �ȑO���U�[�u���Ă������A�S�S�����Q�T���ɕύX�����Ă��������܂��B
-&gt; �����A�l�^���\�z���A�S���̕ʕ��ɂȂ��Ă��܂��܂����̂Łi���j
-&gt; ��ς����f���Ǝv���܂����A��낵�����肢�������܂��B
-&gt; �ł́B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 流離太さん
+&gt; こんにちは、流離太です。
+&gt; 以前リザーブしておいた、４４号を２５号に変更させていただきます。
+&gt; いえ、ネタを構想中、全くの別物になってしまいましたので（汗）
+&gt; 大変ご迷惑かと思いますが、よろしくお願いいたします。
+&gt; では。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h vd1zhg  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="vd1zhg"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード vd1zhg  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="vd1zhg"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -53,50 +53,50 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> 40���A90���A98���g�p�����肢</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> 40号、90号、98号使用承諾願い</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/06 (��) 01:36:05 <strong>��</strong> <a href="mailto:nakazimasun@yahoo.co.jp">��������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608060013605&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608060013605"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/06 (日) 01:36:05 <strong>▽</strong> <a href="mailto:nakazimasun@yahoo.co.jp">中島さん</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608060013605_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200608060013605"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ݍ쐬���̃n���^�[�V���[�Y���ނƂ��������ŁA<br>
-40���A90���A98�����g�p�������ƍl���Ă���܂��B<br>
+<font size=3 color=#606060>現在作成中のハンターシリーズを題材とした小説で、<br>
+40号、90号、98号を使用したいと考えております。<br>
 <br>
-�Ȃ��A�n���^�[�V���[�Y�ɂ͋H�ȃo�g�����m��\�肵�Ă���܂��B</font>
+なお、ハンターシリーズには稀なバトルモノを予定しております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> 44���E50���g�p</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> 44号・50号使用</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/05 (�y) 18:42:42 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608056184242&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608056184242"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/05 (土) 18:42:42 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608056184242_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200608056184242"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�K�C�X�g02��50���c�c�㓡�@��i���c�@���~�j��44���c�c���q���@���i���̃��I�l���A�{���E���ˁ@�I�q�j���g�p���܂��B���݌��\�ł���ݒ�͈ȉ��̂Ƃ���B<br>
-�n���^�[44���F���q���@���B���̂̓��I�l�������A�N�������͌Ă΂��ɖ{���E���ˁ@�I�q�i�˂��j����Ƃ����u�L�v�ƌĂ΂�Ă���B���O�͒j���ۂ��������B�M�����{�b�g�A�j�����^�N�ŁA�{�l�Ƃ��Ắu���ƗE�C�̔M�����{�b�g�q���C�����v�Ƃ����W���������J�񂵂悤�Ƃ��Ă���悤�ł���B�̂ɕʂɒj�ɂȂ肽���A�Ƃ����킯�ł͂Ȃ��悤���B�Ђ�����M�����i�ŁA���q�⋱��Ƃ͉����ʂ�����̂�����炵���ƂĂ������悢�B���Ȃ݂ɔޏ��͋�����u���m�v�ƌĂԁB�^�V���I���{�^�l���l�ԃ��m�̃X�[�c��������ȕ��𒅂Ă����ɁA�L���^�̃Z���T�[�𓪕��ɑ����B���l�^�́u�i�f�V�R�v�̃_�C�S�E�W�E�K�C�A�u�悫���v�̎L�X�@�V��E�u�G���@�v�̃A�X�J�B<br>
+<font size=3 color=#606060>ガイスト02に50号……後藤　玲（半田　小梅）と44号……獅子村　嵐（自称レオネル、本名・宍戸　祢子）を使用します。現在公表できる設定は以下のとおり。<br>
+ハンター44号：獅子村　嵐。自称はレオネルだが、誰もそうは呼ばずに本名・宍戸　祢子（ねこ）からとった「猫」と呼ばれている。名前は男っぽいが女性。熱血ロボットアニメヲタクで、本人としては「愛と勇気の熱血ロボットヒロイン物」というジャンルを開拓しようとしているようである。故に別に男になりたい、というわけではないようだ。ひたすら熱い性格で、燈子や恭介とは何か通じるものがあるらしくとても仲がよい。ちなみに彼女は恭介を「博士」と呼ぶ。某新世紀ロボ型人造人間モノのスーツそっくりな服を着ている上に、猫耳型のセンサーを頭部に装着。元ネタは「ナデシコ」のダイゴウジ・ガイ、「つよきす」の鮫氷　新一・「エヴァ」のアスカ。<br>
 <br>
-�n���^�[50���F�㓡�@��@�V�i���I�Ɋւ��ݒ�����̂Ŗ��O�̂݁B</font>
+ハンター50号：後藤　玲　シナリオに関わる設定を持つので名前のみ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> ������҂�d�v�H</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> ちょっぴり重要？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/30 (��) 08:40:42 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607300084042&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607300084042"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/30 (日) 08:40:42 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607300084042_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607300084042"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ł���Y�p���Ă��܂������Ȃ̂ł����A�n���^�[�S���Ɂu�ؑ�ɂ���ĕω������l�Ԃ����ɖ߂��v�\�͂�����܂��i�K�C�X�g�`�[���͂܂��ʁj�B�����������ł͌��ɖ߂��܂���B12���i����j�̒��\�͂ł��s�\�ł��B�ꉞ�A�����̂��Ƃ�O��ɂ������Ƃ��l���Ă����܂��傤�B<br>
-�c�c���{�R�̕��ł��Q���ł����̂ŁB<br>
-�Ȃ��A��c����B�������i�n���^�[�ł��莖�����ł����l�������j�A����̓�l�A���߂���ɂ͏�L�͖��֌W�ł��B</font>
+<font size=3 color=#606060>私ですら忘却してしまいがちなのですが、ハンター全員に「華代によって変化した人間を元に戻す」能力があります（ガイストチームはまた別）。ただし自分では元に戻せません。12号（逸美）の超能力でも不可能です。一応、これらのことを前提におくことを考えていきましょう。<br>
+……総本山の方でお嘆きでしたので。<br>
+なお、沢田さん達事務員（ハンターであり事務員である二人を除く）、居候の二人、紫鶴さんには上記は無関係です。</font>
 </td></table>
 </td></tr></table>
 
@@ -106,133 +106,133 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[38]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/29 (�y) 14:39:21 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607296143921&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607296143921"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/29 (土) 14:39:21 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607296143921_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607296143921"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��́A�������ł��B<br>
-�ȑO���U�[�u���Ă������A�S�S�����Q�T���ɕύX�����Ă��������܂��B<br>
-�����A�l�^���\�z���A�S���̕ʕ��ɂȂ��Ă��܂��܂����̂Łi���j<br>
-��ς����f���Ǝv���܂����A��낵�����肢�������܂��B<br>
-�ł́B</font>
+<font size=3 color=#606060>こんにちは、流離太です。<br>
+以前リザーブしておいた、４４号を２５号に変更させていただきます。<br>
+いえ、ネタを構想中、全くの別物になってしまいましたので（汗）<br>
+大変ご迷惑かと思いますが、よろしくお願いいたします。<br>
+では。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> ���݂̃n���^�[���X�g</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> 現在のハンターリスト</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/27 (��) 07:33:45 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g���^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607274073345&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607274073345"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/27 (木) 07:33:45 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト＠運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607274073345_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607274073345"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>2006�N08��04�����݂̃n���^�[���X�g�ł��B�u�H�v�͑��݂��邪���̕s���Ƃ������Ƃł��B�ׂ��ɏC�����Ă������Ǝv���܂��B<br>
+<font size=3 color=#606060>2006年08月04日現在のハンターリストです。「？」は存在するが名称不明ということです。細かに修正していこうと思います。<br>
 <br>
-�n���^�[0���F�H<br>
-�n���^�[1���F���c�@�������i䕁j�@�������@�O���[���x���[���퓬�́A�ŋߏ����ɓ����ł���<br>
-�n���^�[2���F�H�i���ގЁj�������@���ݓ񎙂̕�<br>
-�n���^�[3���F�����@�X��@���@�G�����j�����ɂ���i�������Ԃ���j�A�������ƌ����̒�<br>
-�n���^�[4���F������i���ԁj�������@�u���������v���ĕ��ʂ̐l<br>
-�n���^�[5���F�ܑ�@�G��@���@�V�R�{�P�̐��w�V�ˁA�������ɂ�������<br>
-�n���^�[6���F���c�@�肭�@�������@�����e�������i�c���H�j�A�ؑ�̓�d��Q��<br>
-�n���^�[7���F�����@��́@���@���᎝���A�o��s�ځA���Y�D��<br>
-�n���^�[8���F�H�i�s���s���j�@�������@�X�J�E�g<br>
-�n���^�[9���F�H<br>
-�n���^�[10���F���c�@���q�@�������@�M������n�A�q�������H�@�ɒB�ዾ<br>
-�n���^�[11���F�i���o�^�j<br>
-�n���^�[12���F���c�@����@�������@�n�[�o�[�h��o�g�B���l�̔\�͂���l�ɂ���񕕈�\<br>
-�n���^�[13���F�I�g�R�b�v�@�������@�����^���C�h���{�A���ݕs��<br>
-�n���^�[14���F�ΐ�@����@���@���V�ˉȊw�ҁA�A���r�m�B�}�C�y�[�X�剤�B���˂������<br>
-�n���^�[15���F�H<br>
-�n���^�[16���F�i���o�^�j<br>
-�n���^�[17���F���c�@�ɓށ@�������@�E�l�n�D�̏��w���A�������B��Ƀi�C�t����������<br>
-�n���^�[18���F�H<br>
-�n���^�[19���F���c�@����i���疼���j�J�j�������@�V�X�^�[�A�{���͐_���B�ق�킩�u�ł���v����<br>
-�n���^�[20���F�W�I�[�l�E�n���^�[�x���i�W�I�E�u�����h�[�AZIO�j�������@��������D���̗d���B���̂�Ⓚ����\�́B�S�E�S�E������<br>
-�n���^�[21���F�H<br>
-�n���^�[22���F�i���o�^�j<br>
-�n���^�[23���F�񉪁@���g�@���@���A�N�V�����W�A�ӂ݂̑���ɎQ��<br>
-�n���^�[24���F���@�ǐM�@���@���}����1��<br>
-�n���^�[25���F�H<br>
-�n���^�[26���F�i���o�^�j<br>
-�n���^�[27���F���ׁ@�ߒq�@���@���}����2��<br>
-�n���^�[28���F���c�@�o�t�@���������������@���Ώ��q�����A���Ó}�B�ߏ�ɏ��̎q�炵��<br>
-�n���^�[29���F�H<br>
-�n���^�[30���F���c�@�����E����E���o�i��P�ׁ@�\�{�j�������@���͑��d�l�i�ҁB�ؑタ���̎�ɂ�蕪�􂵂�<br>
-�n���^�[31���F�ΐ�@���ˁ@���@���̃A���h���C�h�A�\�����}�B��������AKF-Type31<br>
-�n���^�[32���F���c�@�����@�������@�i�[�X�A�S�b�ƒ������H<br>
-�n���^�[33���F�i���o�^�j<br>
-�n���^�[34���F�i���o�^�j<br>
-�n���^�[35���F���c�@�݂��i�J�V�@�s�g�j�������@�ޏ�����A�Ƒ��̔�����������<br>
-�n���^�[36���F�H�@���@�X�J�E�g�A�ޏ�����G���H<br>
-�n���^�[37���F�i���o�^�j<br>
-�n���^�[38���F��@����q�@���@�ϐg�҂�����ɕϐg<br>
-�n���^�[39���F���c�@�����@���́��i�t�j���h�𗘗p���Ă��̖��O�̐l�Ԃɕϐg�ł���B�������͗L�閼�h�𗘗p����Ǝb�����ɖ߂�Ȃ�<br>
-�n���^�[40���F�H<br>
-�n���^�[41�`43���F�i���o�^�j<br>
-�n���^�[44���F���q���@���i���ˁ@�I�q�j���@���{�A�j���^�N�B�M�����B���q�ƒ��ǂ��B����𔎎m�Ă΂��<br>
-�n���^�[46���F���c�@�ӂ݁@�������@FMS�ɂ�鐫�]���i�閧�����j�A���n���^�[23��<br>
-�n���^�[47���F�H<br>
-�n���^�[48���F���c�@�l�t�@�������@�����p���B�������L����<br>
-�n���^�[49���F�i���o�^�j<br>
-�n���^�[50���F���c�@���~�i�㓡�@��j���������������@�K�C�X�g02�ɑߕ߂������A�Ăя�����<br>
-�n���^�[51�`54���F�i���o�^�j<br>
-�n���^�[55���F���c�@�����i�勽�@�����j�������@�j�̒��̒j��ڎw�������ʁB���ݖ��߂ŕ��𒆁A�Ŏ�ɗ����Ă���B�ʏ́u�S�E�S�E�v<br>
-�n���^�[56���F�i���o�^�j<br>
-�n���^�[57���F���c�@���Âȁ@�������@�i�[�X�A�����̌�y<br>
-�n���^�[58�`60���F�i���o�^�j<br>
-�n���^�[61���F���c�@���C�@�������@�`���C�i���A�Ȃ񂿂���Ē����l������<br>
-�n���^�[62���F�i���o�^�j<br>
-�n���^�[63���F���c�@�r���@�������@�^��ؑ�ɂ��ꂽ�V�l<br>
-�n���^�[64���F�H�@���@���얞�A�c����}��1�F1�B���^�N�B���鎖���ł݂��ɋ��|<br>
-�n���^�[65�`76���F�i���o�^�j<br>
-�n���^�[77���F�H<br>
-�n���^�[78�`86���F�i���o�^�j<br>
-�n���^�[87���F�^�����@�؁@���@�{�X�ƈ��ʊ֌W�H�@�����v��<br>
-�n���^�[88���F�i���o�^�j<br>
-�n���^�[89���F�i���o�^�j<br>
-�n���^�[90���F�H<br>
-�n���^�[91�`97���F�i���o�^�j<br>
-�n���^�[98���F�H<br>
-�n���^�[99���F�i���o�^�j<br>
-�n���^�[100���F���c�@�S�b�i�S�ڋS�@����j�������@��ҁA�����\�͂�����<br>
+ハンター0号：？<br>
+ハンター1号：半田　いちご（苺）　♂→♀　グリーンベレー並戦闘力、最近女性に馴染んできた<br>
+ハンター2号：？（寿退社）♂→♀　現在二児の母<br>
+ハンター3号：藤美　珊瑚　♀　触った男を女にする（制限時間あり）、いちごと犬猿の仲<br>
+ハンター4号：よっこ（欠番）♂→♀　「書き換え」られて普通の人<br>
+ハンター5号：五代　秀作　♂　天然ボケの数学天才、いちごにぞっこん<br>
+ハンター6号：半田　りく　♂→♀　黒い兎耳少女（幼女？）、華代の二重被害者<br>
+ハンター7号：七瀬　銀河　♂　魔眼持ち、経歴不詳、悪戯好き<br>
+ハンター8号：？（行方不明）　♂→♀　スカウト<br>
+ハンター9号：？<br>
+ハンター10号：半田　燈子　♂→♀　熱血教育系、子供が苦手？　伊達眼鏡<br>
+ハンター11号：（未登録）<br>
+ハンター12号：半田　逸美　♂→♀　ハーバード大出身。他人の能力を一人につき一回封印可能<br>
+ハンター13号：オトコップ　♂→♀　女性型メイドロボ、所在不明<br>
+ハンター14号：石川　恭介　♂　超天才科学者、アルビノ。マイペース大王。美依を作った<br>
+ハンター15号：？<br>
+ハンター16号：（未登録）<br>
+ハンター17号：半田　伊奈　♂→♀　殺人嗜好の小学生、泣き虫。常にナイフを持ち歩く<br>
+ハンター18号：？<br>
+ハンター19号：半田　郁美（洗礼名モニカ）♂→♀　シスター、本来は神父。ほんわか「ですわ」口調<br>
+ハンター20号：ジオーネ・ハンターベル（ジオ・ブランドー、ZIO）♂→♀　いたずら好きの妖精。ものを冷凍する能力。ゴウゴウが嫌い<br>
+ハンター21号：？<br>
+ハンター22号：（未登録）<br>
+ハンター23号：二岡　光吉　♂　リアクション係、ふみの代わりに参入<br>
+ハンター24号：西　良信　♂　平凡さん1号<br>
+ハンター25号：？<br>
+ハンター26号：（未登録）<br>
+ハンター27号：高荷　那智　♂　平凡さん2号<br>
+ハンター28号：半田　双葉　♂→♀→♂→♀　非常勤女子高生、超甘党。過剰に女の子らしい<br>
+ハンター29号：？<br>
+ハンター30号：半田　美央・美玲・美登（御傘袮　十倍）♂→♀　元は多重人格者。華代ちゃんの手により分裂した<br>
+ハンター31号：石川　美依　♀　生体アンドロイド、暴走特急。正式名称AKF-Type31<br>
+ハンター32号：半田　さつき　♂→♀　ナース、百恵と仲悪い？<br>
+ハンター33号：（未登録）<br>
+ハンター34号：（未登録）<br>
+ハンター35号：半田　みこ（谷澤　鋭吉）♂→♀　巫女さん、家族の反応が哀しい<br>
+ハンター36号：？　♂　スカウト、巫女さん萌え？<br>
+ハンター37号：（未登録）<br>
+ハンター38号：空　魅夜子　♀　変身者をさらに変身<br>
+ハンター39号：半田　未来　♂⇔♀（可逆）名刺を利用してその名前の人間に変身できる。ただし力有る名刺を利用すると暫く元に戻れない<br>
+ハンター40号：？<br>
+ハンター41〜43号：（未登録）<br>
+ハンター44号：獅子村　嵐（宍戸　祢子）♀　ロボアニヲタク。熱血女。燈子と仲良し。恭介を博士呼ばわり<br>
+ハンター46号：半田　ふみ　♂→♀　FMSによる性転換（秘密事項）、先代ハンター23号<br>
+ハンター47号：？<br>
+ハンター48号：半田　四葉　♂→♀　事務用員。いじられキャラ<br>
+ハンター49号：（未登録）<br>
+ハンター50号：半田　小梅（後藤　玲）♂→♀→♂→♀　ガイスト02に逮捕されるも、再び女性化<br>
+ハンター51〜54号：（未登録）<br>
+ハンター55号：半田　ここ（大郷　豪樹）♂→♀　男の中の男を目指した結果。現在無罪で服役中、看守に恋している。通称「ゴウゴウ」<br>
+ハンター56号：（未登録）<br>
+ハンター57号：半田　いづな　♂→♀　ナース、さつきの後輩<br>
+ハンター58〜60号：（未登録）<br>
+ハンター61号：半田　ムイ　♂→♀　チャイナ服、なんちゃって中国人風口調<br>
+ハンター62号：（未登録）<br>
+ハンター63号：半田　睦美　♂→♀　真城華代にされた新人<br>
+ハンター64号：？　♂　超肥満、縦横比凡そ1：1。ヲタク。さる事件でみこに恐怖<br>
+ハンター65〜76号：（未登録）<br>
+ハンター77号：？<br>
+ハンター78〜86号：（未登録）<br>
+ハンター87号：真沙羅　華　♀　ボスと因果関係？　事務要員<br>
+ハンター88号：（未登録）<br>
+ハンター89号：（未登録）<br>
+ハンター90号：？<br>
+ハンター91〜97号：（未登録）<br>
+ハンター98号：？<br>
+ハンター99号：（未登録）<br>
+ハンター100号：半田　百恵（百目鬼　瑞希）♂→♀　医者、治癒能力を持つ<br>
 <br>
-�n���^�[�K�C�X�g�F�M�؁@�z��@���@�n���^�[�̊Ď��ҁA�剪�ق�<br>
-�@�@�@�@�@�@�@01�F�i���o�^�j<br>
-�@�@�@�@�@�@  �@02�F���{�s�@��@�������@���P�����I���i�B���@�����u�K�C�X�g�����b�c�v<br>
-�������F����@�^���@���@��c�ƃR���r�A�L���C�n<br>
-�@�@�@ �@��c�@���@���@����ƃR���r�A�����n<br>
-�@�@�@ �@���y�����@���@�����m��A�c��E�R�Z�ƕP�N�B�ዾ�����B�肭����D��<br>
+ハンターガイスト：柚木　陽介　♂　ハンターの監視者、大岡裁き<br>
+　　　　　　　01：（未登録）<br>
+　　　　　　  　02：苅須都　烈　♂→♀　勧善懲悪的性格。魔法少女「ガイスト☆レッツ」<br>
+事務員：水野　真澄　♀　沢田とコンビ、キレイ系<br>
+　　　 　沢田　愛　♀　水野とコンビ、可愛い系<br>
+　　　 　安土桃香　♀　元くノ一、皇賀忍軍六家姫君。眼鏡っ娘。りくが大好き<br>
 <br>
-��i�F�{�X�i�{���s���j���@�n���^�[�̑��i�ߓI���݁B���̂Ƃ��뉽���܂ň̂��̂��͕s��<br>
-�@�@�@�@����A�i�{���s���j���@�{�X�̕��S�c�c�Ƃ������b������B���̂����܂�x�݂�Ⴆ�Ȃ�<br>
+上司：ボス（本名不明）♂　ハンターの総司令的存在。実のところ何処まで偉いのかは不明<br>
+　　　　部下A（本名不明）♂　ボスの腹心……というか話し相手。何故かあまり休みを貰えない<br>
 <br>
-�����̉�����F�����@����(�����E�����j���@�u�p�[�v���E�J�[�N�v�Ƃ����ÎE�҂������H�@�U�߂�K�ɕ~���Ă���炵���B���C������<br>
+七号の奥さん：七瀬　紫鶴(旧姓・星見）♀　「パープル・カーク」という暗殺者だった？　旦那を尻に敷いているらしい。浮気を嫌う<br>
 <br>
-����F��K�@��i�@�������@���u���ɂ̈ÎE�ҁv�A���ݖ��T��B�e�g���A�َq�D��<br>
-�@�@�@�@���H�@�����@�������@�p�S�_�̌��m�u����̕��v�A��i�̃��C�o���B����������</font>
+居候：浅葱　千景　♂→♀　元「翠碧の暗殺者」、現在名探偵。銃使い、菓子好き<br>
+　　　　黄路　疾風　♂→♀　用心棒の剣士「白銀の風」、千景のライバル。胸が小さい</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> �o�^�\���^77��</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 登録申請／77号</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/26 (��) 23:00:16 <strong>��</strong> �����Ђ�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607263230016&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607263230016"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/26 (水) 23:00:16 <strong>▽</strong> 高樹ひろむ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607263230016_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607263230016"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>70�ԑ�̃n���^�[����l�����Ȃ��̂ŁA77����o�^�\�����Ă����܂��B<br>
-�������i�ؑ��Q�ҁj�A�h�W�����A���\�͎ҁB�W�c���]�����ꔭ�Ŗ߂��\�͂���B<br>
-�i�������������܂߁A�n���^�[�ɑ΂��Ă͖����c�c�Ǝv���j<br>
+<font size=3 color=#606060>70番台のハンターが一人もいないので、77号を登録申請しておきます。<br>
+♂→♀（華代被害者）、ドジっ娘、超能力者。集団性転換を一発で戻す能力あり。<br>
+（ただし自分を含め、ハンターに対しては無効……と思う）<br>
 <br>
-�o��X�g�[���[�͂���ł��i���ɂɓ��e�����̂ł��������f�ڂ����͂��j�B<br>
+登場ストーリーはこれです（文庫に投稿したのでもうすぐ掲載されるはず）。<br>
 <a href=http://blunderer.web.fc2.com/novel/kayo01.html target=_top>http://blunderer.web.fc2.com/novel/kayo01.html</a><br>
-�n���^�[�X�J�E�g�X�g�[���[���ǂ����悤���l�����B</font>
+ハンタースカウトストーリーをどうしようか考え中。</font>
 <p><a href="http://blunderer.web.fc2.com/" target="_top">http://blunderer.web.fc2.com/</a>
 </td></table>
 </td></tr></table>
@@ -240,24 +240,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> �n���^�[20��</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> ハンター20号</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/17 (��) 17:28:16 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607171172816&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607171172816"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/17 (月) 17:28:16 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607171172816_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607171172816"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�n���^�[20��<br>
-�����F�W�I�E�u�����h�[�iZIO�j<br>
-�ϐg��F�W�I�[�l�E�n���^�[�x��<br>
+<font size=3 color=#606060>ハンター20号<br>
+旧名：ジオ・ブランドー（ZIO）<br>
+変身後：ジオーネ・ハンターベル<br>
 <br>
-���Еs���̃n���^�[13����A�ォ��l�킪�ω������n���^�[�������΁A���̐��m�l�n���^�[��Q�ҁB���Ђ̓C�M���X�B<br>
-�C�M���X�ׂ̈��A�ϐg��̎p�͑̒�20cm���̗d���B�e�p�Ƃ��Ă̓e�B���N���x���i�e�B���J�[�x���j�Ɏ����������B�������炢�̋����ɗΐF�́A�w���̂����������������s�[�X�𒅂Ă���B�C�̓n�C�q�[�����B�H���̓g���{�^�B<br>
-�n���^�[�\�͂̑��Ƀ��m���u���ɗⓀ����\�͂����B<br>
-���i�͂��Ȃ�̂��Ă�΂����A�ϐg�̍ۂɋL�����B���ɂȂ��Ă���A�������̑����ς���Ă��܂��Ă���B�������A�S�E�S�E�Ɋւ��鑞���݂͍������c���Ă���A�S�E�S�E������Ƃ��΂ꂾ���i�����Ƃ��A�ޏ��͌��ݕ��𒆂Ȃ̂ł��܂�S�z�͂Ȃ����j�B<br>
-���̂悤�ɍg���g�}�g�W���[�X���D���B<br>
-������R�ɔ�ׂ邪�A�ȒP�ɕ��ɂ������Ă��܂��B<br>
-���ѐ��́u����[�[�[�[�[�[���I�v�B</font>
+国籍不明のハンター13号や、後から人種が変化したハンターを除けば、初の西洋人ハンター被害者。国籍はイギリス。<br>
+イギリスの為か、変身後の姿は体長20cm程の妖精。容姿としてはティンクルベル（ティンカーベル）に似た美少女。肩口くらいの金髪に緑色の、背中のあいた肩だしワンピースを着ている。靴はハイヒール調。羽根はトンボ型。<br>
+ハンター能力の他にモノを瞬時に冷凍する能力をもつ。<br>
+性格はかなりのおてんばだが、変身の際に記憶が曖昧になっており、口調その他も変わってしまっている。しかし、ゴウゴウに関する憎しみは根強く残っており、ゴウゴウを見るとあばれだす（もっとも、彼女は現在服役中なのであまり心配はないが）。<br>
+血のように紅いトマトジュースが好物。<br>
+空を自由に飛べるが、簡単に風にあおられてしまう。<br>
+叫び声は「うりーーーーーーっ！」。</font>
 <p><a href="http://www.geocities.jp/fantasydreamsjp/" target="_top">http://www.geocities.jp/fantasydreamsjp/</a>
 </td></table>
 </td></tr></table>
@@ -265,59 +265,59 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> �܂�������Ⴂ�܂���</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> またやっちゃいました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/14 (��) 20:03:53 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607145200353&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607145200353"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/14 (金) 20:03:53 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607145200353_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607145200353"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���A�܂�������Ⴂ�܂���(A^^;;;;;)<br>
-�^�c�ψ��̂��������ɂ͂����f�������ςȂ��ŁA�����܂���ł��B<br>
-<font color="#cc88ff">&gt;���������Ɋւ�����e�͈�ɂ܂Ƃ߂����������ł���B</font><br>
-�͂��A����C�����܂��ł��B</font>
+<font size=3 color=#606060>あ、またやっちゃいました(A^^;;;;;)<br>
+運営委員のかたがたにはっ迷惑かけっぱなしで、すいませんです。<br>
+<font color="#cc88ff">&gt;同じ事柄に関する内容は一つにまとめた方がいいですよ。</font><br>
+はい、今後気をつけますです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> �A�h�o�C�X</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> アドバイス</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/12 (��) 20:58:29 <strong>��</strong> �}�R�g���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607123205829&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607123205829"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/12 (水) 20:58:29 <strong>▽</strong> マコト＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607123205829_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607123205829"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ӂ�����B<br>
-���������Ɋւ�����e�͈�ɂ܂Ƃ߂����������ł���B<br>
+<font size=3 color=#606060>ふうさん。<br>
+同じ事柄に関する内容は一つにまとめた方がいいですよ。<br>
 <br>
-<font color="#cc88ff">&gt;���A�������A�̂̐l�ŁA���a�l����A���O�𒸂��ĂƂ��A�����̋V���A</font><br>
-�S�W���̒n���ł́A����ȕ��K���c���Ă��Ă����������B<br>
+<font color="#cc88ff">&gt;あ、そうだ、昔の人で、お殿様から、名前を頂いてとか、改名の儀式、</font><br>
+４８号の地方では、そんな風習が残っていてもいいかも。<br>
 <br>
-�Ȃ�قǁB���������΃n���^�[�B���Đ��܂�̋��ǂ��Ȃ�ł��傤�ˁc�c�H</font>
+なるほど。そういえばハンター達って生まれ故郷どこなんでしょうね……？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> �n���^�[�S�W���ݒ�i�O�O�j</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> ハンター４８号設定（＾＾）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/08 (�y) 07:05:40 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607086070540&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607086070540"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/08 (土) 07:05:40 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607086070540_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607086070540"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���A�������A�̂̐l�ŁA���a�l����A���O�𒸂��ĂƂ��A�����̋V���A<br>
-�Ƃ��A����������A�S�W���̒n���ł́A����ȕ��K���c���Ă��Ă����������B<br>
-�i��l�̒��ԓ��肵���A���ʂȓ��A�����̋V��������E�E�E�E�E�Ȃ�āj</font>
+<font size=3 color=#606060>あ、そうだ、昔の人で、お殿様から、名前を頂いてとか、改名の儀式、<br>
+とか、あったから、４８号の地方では、そんな風習が残っていてもいいかも。<br>
+（大人の仲間入りした、特別な日、改名の儀式もある・・・・・なんて）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kayo_chan_hunternumber">
@@ -325,16 +325,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kayo_chan_hunternumber">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kayo_chan_hunternumber">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kayo_chan_hunternumber.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

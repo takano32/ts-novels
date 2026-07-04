@@ -1,54 +1,54 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���ނ�������@���z�f����</title>
+<title>あむぁいさん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���ނ�������@���z�f����</font>
+<font size=5>あむぁいさん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="amulai">
 <input type=hidden name="nj" value="mPJMEBE387">
 <input type=hidden name="res" value="43">
-<h4 align=center>�� �L���ԍ� 43 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 43 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���z�ł��I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ����������
-&gt; ���߂܂��āA�������Ƃ����҂ł��I
-&gt; �Ȍ�A��낵�����肢�������܂���
-&gt; �u�n�t�s�@�n�q�@�r�`�e�d�I�H�v�q�ǂ����Ă��������܂����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:感想です！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 流離太さん
+&gt; 初めまして、流離太という者です！
+&gt; 以後、よろしくお願いいたします♪
+&gt; 「ＯＵＴ　ＯＲ　ＳＡＦＥ！？」拝読させていただきました。
 &gt; 
-&gt; �Ƃ肠�����A�G���w���Ő����܂����i�΁j
-&gt; ���₠�A�܂������ꂪ��ɂ�������Ă���Ƃ͎v�������܂���ł�����
-&gt; ���Ă������A�͂���@���i�[���[�G�j
-&gt; ���`��A���G�̃`�����s�I���ł��ˁ�
+&gt; とりあえず、萌え指数で吹きました（笑）
+&gt; いやあ、まさかこれが後にかかわってくるとは思いもしませんでした♪
+&gt; っていうか、はやっ　Σ（ー□ー；）
+&gt; う〜ん、無敵のチャンピオンですね♪
 &gt; 
-&gt; ���₠�A�G�������Ă��������܂����I
-&gt; ��������ɂ���Ē��ւ���������V�[���Ȃ�Ă��܂�܂����
-&gt; ��͂�A�������L�����͂����ȁ`�B
+&gt; いやあ、萌えさせていただきました！
+&gt; おもちゃにされて着替えさせられるシーンなんてたまりません♪
+&gt; やはり、いじられキャラはいいな〜。
 &gt; 
-&gt; ��b���e���|�悭�A�ƂĂ��ʔ��������ł��I
-&gt; ���������҂��Ă��܂��A����΂��Ă��������܂���
-&gt; �ł͂ł́`��</textarea><br>
+&gt; 会話もテンポよく、とても面白かったです！
+&gt; 次回作も期待しています、がんばってくださいませ♪
+&gt; ではでは〜♪</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h B742IG  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="B742IG"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード B742IG  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="B742IG"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -61,16 +61,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[44]</font> <font size=4 color=#40c0c0> ���z�L��������܂��B</font>
+<font size=2>[44]</font> <font size=4 color=#40c0c0> 感想有難うございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/19 (��) 22:19:57 <strong>��</strong> ���ނ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606191221957&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606191221957"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/19 (月) 22:19:57 <strong>▽</strong> あむぁい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606191221957_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200606191221957"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�{���͎��ɂ����������˂��L��΁A�J�C�W�݂����ǂݍ����̃W�����P���o�g�����u������Ƃ���ł������A�@�����񖳂����͐U��܂���B<br>
-�ŁA����Ȋ����ɁB<br>
-�ϐg�V�[���܂ł͑��񂵋C���̕��������I�ɂ͍D�݂ł��̂Ł[�B</font>
+<font size=3 color=#606060>本当は私にもう少し文才が有れば、カイジみたく読み合いのジャンケンバトルが勃発するところでしたが、如何せん無い袖は振れません。<br>
+で、あんな感じに。<br>
+変身シーンまでは早回し気味の方が自分的には好みですのでー。</font>
 <p><a href="http://minipato.blog62.fc2.com/" target="_top">http://minipato.blog62.fc2.com/</a>
 </td></table>
 </td></tr></table>
@@ -78,62 +78,62 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[43]</font> <font size=4 color=#40c0c0> ���z�ł��I</font>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> 感想です！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/17 (�y) 07:15:30 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606176071530&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606176071530"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/17 (土) 07:15:30 <strong>▽</strong> 流離太 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606176071530_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200606176071530"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���߂܂��āA�������Ƃ����҂ł��I<br>
-�Ȍ�A��낵�����肢�������܂���<br>
-�u�n�t�s�@�n�q�@�r�`�e�d�I�H�v�q�ǂ����Ă��������܂����B<br>
+<font size=3 color=#606060>初めまして、流離太という者です！<br>
+以後、よろしくお願いいたします♪<br>
+「ＯＵＴ　ＯＲ　ＳＡＦＥ！？」拝読させていただきました。<br>
 <br>
-�Ƃ肠�����A�G���w���Ő����܂����i�΁j<br>
-���₠�A�܂������ꂪ��ɂ�������Ă���Ƃ͎v�������܂���ł�����<br>
-���Ă������A�͂���@���i�[���[�G�j<br>
-���`��A���G�̃`�����s�I���ł��ˁ�<br>
+とりあえず、萌え指数で吹きました（笑）<br>
+いやあ、まさかこれが後にかかわってくるとは思いもしませんでした♪<br>
+っていうか、はやっ　Σ（ー□ー；）<br>
+う〜ん、無敵のチャンピオンですね♪<br>
 <br>
-���₠�A�G�������Ă��������܂����I<br>
-��������ɂ���Ē��ւ���������V�[���Ȃ�Ă��܂�܂����<br>
-��͂�A�������L�����͂����ȁ`�B<br>
+いやあ、萌えさせていただきました！<br>
+おもちゃにされて着替えさせられるシーンなんてたまりません♪<br>
+やはり、いじられキャラはいいな〜。<br>
 <br>
-��b���e���|�悭�A�ƂĂ��ʔ��������ł��I<br>
-���������҂��Ă��܂��A����΂��Ă��������܂���<br>
-�ł͂ł́`��</font>
+会話もテンポよく、とても面白かったです！<br>
+次回作も期待しています、がんばってくださいませ♪<br>
+ではでは〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> �wOUT or SAFE!?�x������ɂ͉��̃����N���N���b�N</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> 『OUT or SAFE!?』を見るには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/13 (��) 20:08:23 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606132200823&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606132200823"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/13 (火) 20:08:23 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606132200823_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200606132200823"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �ːF�����Ȑl�Ԃ͍l���邱�Ƃ������ł��i�΁j<br>
-<a href=http://ts.novels.jp/novel/200501/24190306/oos.html target=_top>http://ts.novels.jp/novel/200501/24190306/oos.html</a></font>
+<font size=3 color=#606060>【推薦文】 才色兼備な人間は考えることが凶悪です（笑）<br>
+<a href="../../novel/200501/24190306/oos.html" target=_top>http://ts.novels.jp/novel/200501/24190306/oos.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> ���z�L��������܂��[�B</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> 感想有難うございますー。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/20 (��) 00:21:18 <strong>��</strong> ���ނ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604204002118&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604204002118"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/20 (木) 00:21:18 <strong>▽</strong> あむぁい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604204002118_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200604204002118"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����A�E�`�̃T�C�g�ւ̃A�N�Z�X���Ƃ��Ă͂��Ȃ葽���ď��ƓI�ɂ͑听���������̂ł����A���z�����Ȃ������̂͂�����Ǝc�O�B<br>
+<font size=3 color=#606060>今回、ウチのサイトへのアクセス数としてはかなり多くて商業的には大成功だったのですが、感想が少なかったのはちょっと残念。<br>
 <br>
-�n��Ƃ͎�����m�鎖�Ȃ̂�������܂���ˁB�Ȃǂƕ��������悤�Ȏ��������Ă݂���B<br>
+創作とは自分を知る事なのかもしれませんね。などと分かったような事を言ってみたり。<br>
 <br>
-�o�b�h�G���h����͂�A���̗��ꂩ�炵�ăR���������I</font>
+バッドエンド＞やはり、この流れからしてコレしかっ！</font>
 <p><a href="http://minipato.blog62.fc2.com/" target="_top">http://minipato.blog62.fc2.com/</a>
 </td></table>
 </td></tr></table>
@@ -141,111 +141,111 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> �ǂ�ł��̂ł���</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> 読んでたのでした</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/17 (��) 14:50:56 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604171145056&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604171145056"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/17 (月) 14:50:56 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604171145056_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200604171145056"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���z�������ɂ�����i�����B���������n���͑n��̂͑�ς�����ǂ��h���^�����ǂꂩ��{�ɍi��Ȃ��̂�������R���ȁB�ł��܂��ǂ��������y���ł��B�o�b�h�G���h����ԏ΂��܂����B</font>
+<font size=3 color=#606060>感想が書きにくい作品かも。こういう系統は創るのは大変だけれども派生型だしどれか一本に絞れないのが難しい理由かな。でもまあどれもこれも軽妙です。バッドエンドが一番笑えました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> �w�t�@�C�i���s�r�N�G�X�g�Q�O�O�U�@���@�[�W���E���[�h�x������ɂ͂������N���b�N�B</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> 『ファイナルＴＳクエスト２００６　ヴァージン・ロード』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/04/13 (��) 19:59:56 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200604134195956&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200604134195956"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/04/13 (木) 19:59:56 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200604134195956_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200604134195956"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z����`�s�r�̂����������Ăǂ��ɂł��]�����Ă����ł��˂��i��j�B<br>
-<a href=http://ts.novels.jp/novel/200501/24190306/ftsq.htm target=_top>http://ts.novels.jp/novel/200501/24190306/ftsq.htm</a></font>
+<font size=3 color=#606060>【推薦文】いや〜ＴＳのきっかけってどこにでも転がっているんですねぇ（違）。<br>
+<a href="../../novel/200501/24190306/ftsq.htm" target=_top>http://ts.novels.jp/novel/200501/24190306/ftsq.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂��[</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> ありがとうございますー</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/22 (��) 00:40:01 <strong>��</strong> ���ނ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602223004001&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602223004001"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/22 (水) 00:40:01 <strong>▽</strong> あむぁい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602223004001_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200602223004001"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�W�[�i�I�͎��ɂ��Ă͒������A���ɂɂӂ��킵�����邢�d�オ��ł���ˁI<br>
-�E�E�E�ˁH<br>
-�܂������ł��B<br>
-����C���X�g���˗������̂ł����A���R��������t����̂��y�����A�ȂɂȂ肻���ł��B</font>
+<font size=3 color=#606060>ジーナ！は私にしては珍しく、文庫にふさわしい明るい仕上がりですよね！<br>
+・・・ね？<br>
+まぁいいです。<br>
+今回イラストを依頼したのですがアレコレ注文を付けるのも楽しく、癖になりそうです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> ���������ǂ݂܂����B</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> さっそく読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/19 (��) 22:42:16 <strong>��</strong> fun9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602190224216&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602190224216"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/19 (日) 22:42:16 <strong>▽</strong> fun9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602190224216_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200602190224216"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���]�E�I�o�E�ٌ`�E�����E����c�c�ƁA������_�[�N�ȗv�f������Ȃ���A�ǂ�ǂ�̃O�`���O�`���̃_�[�N�l�X�ɂȂ炸�A�|�b�v�ŃV���[���i�H�j���u�₩�i�H�j�ȃX�g�[���B��W�J�ł�����Ă̂͐����I�@���ނ�������̋���Ȍ����ԓ������̑��z�̂悤�ɂ܂Ԃ�������P���Ă��܂��˃b�I�@����A��ϖʔ��������ł��b�I</font>
+<font size=3 color=#606060>洗脳・露出・異形・強制・操り……と、これ程ダークな要素がありながら、どろどろのグチャグチャのダークネスにならず、ポップでシュール（？）且つ爽やか（？）なストーリィを展開できるってのは凄い！　あむぁいさんの強烈な個性が赤道直下の太陽のようにまぶしく光り輝いていますねッ！　いや、大変面白かったですッ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> �w�W�[�i�I�i�C���X�g���j�x������ɂ͂������N���b�N�B</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 『ジーナ！（イラストつき）』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/02/19 (��) 20:58:16 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200602190205816&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200602190205816"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/02/19 (日) 20:58:16 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200602190205816_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200602190205816"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�c�c�Ƃ����킯�ŁA�Ƃ肠�����G���`�ȃC���X�g�ꖇ�ǉ��ł��B������i���|�����`�Ȃ��̃V�[���j�́A���ނ�������̂g�o�Ō��Ă��������܂��B���i_ _�j��<br>
-<a href=http://ts.novels.jp/novel/200501/24190306/jeena.htm target=_top>http://ts.novels.jp/novel/200501/24190306/jeena.htm</a></font>
+<font size=3 color=#606060>【推薦文】……というわけで、とりあえず萌え〜なイラスト一枚追加です。もう一つ（胸ポロリ〜なあのシーン）は、あむぁいさんのＨＰで見てくださいませ。ｍ（_ _）ｍ<br>
+<a href="../../novel/200501/24190306/jeena.htm" target=_top>http://ts.novels.jp/novel/200501/24190306/jeena.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> ���z�L��������܂��B</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> 感想有難うございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/24 (�y) 21:57:07 <strong>��</strong> ���ނ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509246215707&log=amulai">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509246215707"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/24 (土) 21:57:07 <strong>▽</strong> あむぁい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509246215707_log_amulai.cgi">返信</a>　削除<input type=checkbox name="target" value="200509246215707"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�s���������ȃ��\�[�X�ōŋ��ō��̂s�r�̒T��������ɂ́A�^�u�[�������Ă͒ʂ�Ȃ��̂ł��B�_�[�N�����͂����Ղ����Ă܂����A�Âݕ������\�����Ă蓊�����Ĕ����ȃo�����X����낤�Ǝ��݂Ă���܂��B<br>
+<font size=3 color=#606060>不足しがちなリソースで最強最高のＴＳの探求をするには、タブーも避けては通れないのです。ダーク成分はたっぷり入れてますが、甘み分も結構こってり投入して微妙なバランスを取ろうと試みております。<br>
 <br>
-����̏����̐^�ӂ�A�u���Ȃ��v�̂��ꂩ��̐l���͍D�݂ɉ����ēK�X�z�����Ē����ĖG���Ă���������΂悢�̂ł����A���̑��ŗp�ӂ��Ă������k�͂���Ȋ����ł��B<br>
+語り手の女性の真意や、「あなた」のこれからの人生は好みに応じて適宜想像して頂いて萌えていただければよいのですが、私の側で用意している後日談はこんな感じです。<br>
 <br>
-�w�Z�Ŏ����̗��z�̃l�R�~�~�A�j���L�����q���C���Ƃ��ĕ�炷��l���B����Ȃ������ł͂��������A�D�����F�B��搶�Ƃ̌𗬂ɏ��X�ɖ��邳�����߂��B<br>
-�ł��A�B��̕s���͎�ւ̎��B�N���Ɏ�ւ�Ƃ߂���Ƃ��ꂪ�N�ł��ꂻ�̐l�������Ă��܂��̂��B���̔閧��m���Ă͂Ȃ�Ȃ��B<br>
+学校で自分の理想のネコミミアニメキャラヒロインとして暮らす主人公。慣れない生活ではあったが、優しい友達や先生との交流に徐々に明るさを取り戻す。<br>
+でも、唯一の不安は首輪の事。誰かに首輪を嵌められるとそれが誰であれその人を愛してしまうのだ。その秘密を知られてはならない。<br>
 <br>
-�񑩂̓�������B����������Ȏp�ɂ��A���]�܂ł��Ă��܂����~�J�Ɖ���B<br>
-�~�J�ɉ�������Ȃ��͖ڂ����J���B<br>
-�~�J�̎p�͂��Ȃ���������̃l�R�~�~�������ƂȂ��Ă����B<br>
-�ޏ��������Ɖ�Ȃ������͎̂������g����p�����Ă�������Ȃ̂��B<br>
-�͂ɂ��݂Ȃ���A�ޏ��͎����̎�ւ��O���B<br>
-�����Ă��ׂĂ���������Ȃ��������̎�ւ��O���B<br>
-���݂��̎�ւ�t���������Ȃ��ƃ~�J�B<br>
-���������|���Ȃ��B<br>
-����͉i���̈��̐����B</font>
+約束の日が来る。自分をこんな姿にし、洗脳までしてしまったミカと会う日。<br>
+ミカに会ったあなたは目を見開く。<br>
+ミカの姿はあなたそっくりのネコミミ美少女となっていた。<br>
+彼女がずっと会えなかったのは自分自身も手術をしていたからなのだ。<br>
+はにかみながら、彼女は自分の首輪を外す。<br>
+そしてすべてを悟ったあなたも自分の首輪を外す。<br>
+お互いの首輪を付け合うあなたとミカ。<br>
+もう何も怖くない。<br>
+それは永遠の愛の誓い。</font>
 <p><a href="http://okashi.blog6.fc2.com/" target="_top">http://okashi.blog6.fc2.com/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="amulai">
@@ -253,16 +253,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="amulai">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=amulai">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_amulai.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

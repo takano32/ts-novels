@@ -168,7 +168,7 @@ IIIも楽しみにしてます。<br>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>＜Ｃ・Ｎ＞に孤独な戦いを挑んだ泉がその果てに出会った者は…。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200210/21213501/twin2_2.html target=_top>http://ts.novels.jp/novel/200210/21213501/twin2_2.html</a></font>
+<a href="../../novel/200210/21213501/twin2_2.html" target=_top>http://ts.novels.jp/novel/200210/21213501/twin2_2.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -185,7 +185,7 @@ IIIも楽しみにしてます。<br>
 <font size=3 color=#606060>＜Ｃ・Ｎ＞と縁を切ったはずの泉の前に、今また＜Ｃ・Ｎ＞の魔の手が迫る。<br>
 新しい主人公と新しい舞台で新しい戦いが始まります。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200210/21213501/twin2_1.html target=_top>http://ts.novels.jp/novel/200210/21213501/twin2_1.html</a></font>
+<a href="../../novel/200210/21213501/twin2_1.html" target=_top>http://ts.novels.jp/novel/200210/21213501/twin2_1.html</a></font>
 </td></table>
 </td></tr></table>
 

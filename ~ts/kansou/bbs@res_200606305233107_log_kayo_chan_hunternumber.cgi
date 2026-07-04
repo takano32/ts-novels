@@ -1,14 +1,14 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�n���^�[�����񍐌f����</title>
+<title>ハンター活動報告掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�n���^�[�����񍐌f����</font>
+<font size=5>ハンター活動報告掲示板</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�ؑタ���V���[�Y���A���򂵂���̃V���[�Y�ł���u�n���^�[�E�V���[�Y�v�̐�p�f���ł��B<br>��i�������O�ɁA�n���^�[���������̌f���Ŋ��Ɏg���Ă��Ȃ������m���߂�̂��g�B<br>�܂��A��i����������A�w�n���^�[�������g���܂����x�Ƃ������Ă��������B���łɐ�`���i�΁j</font>
+<font color=#608080>華代ちゃんシリーズより、分岐した一つのシリーズである「ハンター・シリーズ」の専用掲示板です。<br>作品を書く前に、ハンター○号をこの掲示板で既に使われていないかを確かめるのが吉。<br>また、作品を書いたら、『ハンター○号を使いました』とか書いてください。ついでに宣伝も（笑）</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
@@ -16,30 +16,30 @@
 <input type=hidden name="log" value="kayo_chan_hunternumber">
 <input type=hidden name="nj" value="WFp7Q8rL7H">
 <input type=hidden name="res" value="26">
-<h4 align=center>�� �L���ԍ� 26 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 26 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���ł܂����["><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �}�R�g����
-&gt; ��e���񂩂狖����܂����I
-&gt; ���O�̂݌��J���܂��ˁB
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:許可でましたー"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ マコトさん
+&gt; 城弾さんから許可おりました！
+&gt; 名前のみ公開しますね。
 &gt; 
-&gt; �n���^�[20���F�W�I�E�u�����h�[���W�I�[�l�E�n���^�[�x��</textarea><br>
+&gt; ハンター20号：ジオ・ブランドー→ジオーネ・ハンターベル</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -52,24 +52,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> �n���^�[20��</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> ハンター20号</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/17 (��) 17:28:16 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607171172816&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607171172816"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/17 (月) 17:28:16 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607171172816_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607171172816"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�n���^�[20��<br>
-�����F�W�I�E�u�����h�[�iZIO�j<br>
-�ϐg��F�W�I�[�l�E�n���^�[�x��<br>
+<font size=3 color=#606060>ハンター20号<br>
+旧名：ジオ・ブランドー（ZIO）<br>
+変身後：ジオーネ・ハンターベル<br>
 <br>
-���Еs���̃n���^�[13����A�ォ��l�킪�ω������n���^�[�������΁A���̐��m�l�n���^�[��Q�ҁB���Ђ̓C�M���X�B<br>
-�C�M���X�ׂ̈��A�ϐg��̎p�͑̒�20cm���̗d���B�e�p�Ƃ��Ă̓e�B���N���x���i�e�B���J�[�x���j�Ɏ����������B�������炢�̋����ɗΐF�́A�w���̂����������������s�[�X�𒅂Ă���B�C�̓n�C�q�[�����B�H���̓g���{�^�B<br>
-�n���^�[�\�͂̑��Ƀ��m���u���ɗⓀ����\�͂����B<br>
-���i�͂��Ȃ�̂��Ă�΂����A�ϐg�̍ۂɋL�����B���ɂȂ��Ă���A�������̑����ς���Ă��܂��Ă���B�������A�S�E�S�E�Ɋւ��鑞���݂͍������c���Ă���A�S�E�S�E������Ƃ��΂ꂾ���i�����Ƃ��A�ޏ��͌��ݕ��𒆂Ȃ̂ł��܂�S�z�͂Ȃ����j�B<br>
-���̂悤�ɍg���g�}�g�W���[�X���D���B<br>
-������R�ɔ�ׂ邪�A�ȒP�ɕ��ɂ������Ă��܂��B<br>
-���ѐ��́u����[�[�[�[�[�[���I�v�B</font>
+国籍不明のハンター13号や、後から人種が変化したハンターを除けば、初の西洋人ハンター被害者。国籍はイギリス。<br>
+イギリスの為か、変身後の姿は体長20cm程の妖精。容姿としてはティンクルベル（ティンカーベル）に似た美少女。肩口くらいの金髪に緑色の、背中のあいた肩だしワンピースを着ている。靴はハイヒール調。羽根はトンボ型。<br>
+ハンター能力の他にモノを瞬時に冷凍する能力をもつ。<br>
+性格はかなりのおてんばだが、変身の際に記憶が曖昧になっており、口調その他も変わってしまっている。しかし、ゴウゴウに関する憎しみは根強く残っており、ゴウゴウを見るとあばれだす（もっとも、彼女は現在服役中なのであまり心配はないが）。<br>
+血のように紅いトマトジュースが好物。<br>
+空を自由に飛べるが、簡単に風にあおられてしまう。<br>
+叫び声は「うりーーーーーーっ！」。</font>
 <p><a href="http://www.geocities.jp/fantasydreamsjp/" target="_top">http://www.geocities.jp/fantasydreamsjp/</a>
 </td></table>
 </td></tr></table>
@@ -77,70 +77,70 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> �܂�������Ⴂ�܂���</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> またやっちゃいました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/14 (��) 20:03:53 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607145200353&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607145200353"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/14 (金) 20:03:53 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607145200353_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607145200353"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���A�܂�������Ⴂ�܂���(A^^;;;;;)<br>
-�^�c�ψ��̂��������ɂ͂����f�������ςȂ��ŁA�����܂���ł��B<br>
-<font color="#cc88ff">&gt;���������Ɋւ�����e�͈�ɂ܂Ƃ߂����������ł���B</font><br>
-�͂��A����C�����܂��ł��B</font>
+<font size=3 color=#606060>あ、またやっちゃいました(A^^;;;;;)<br>
+運営委員のかたがたにはっ迷惑かけっぱなしで、すいませんです。<br>
+<font color="#cc88ff">&gt;同じ事柄に関する内容は一つにまとめた方がいいですよ。</font><br>
+はい、今後気をつけますです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> �A�h�o�C�X</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> アドバイス</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/12 (��) 20:58:29 <strong>��</strong> �}�R�g���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607123205829&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607123205829"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/12 (水) 20:58:29 <strong>▽</strong> マコト＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607123205829_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607123205829"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ӂ�����B<br>
-���������Ɋւ�����e�͈�ɂ܂Ƃ߂����������ł���B<br>
+<font size=3 color=#606060>ふうさん。<br>
+同じ事柄に関する内容は一つにまとめた方がいいですよ。<br>
 <br>
-<font color="#cc88ff">&gt;���A�������A�̂̐l�ŁA���a�l����A���O�𒸂��ĂƂ��A�����̋V���A</font><br>
-�S�W���̒n���ł́A����ȕ��K���c���Ă��Ă����������B<br>
+<font color="#cc88ff">&gt;あ、そうだ、昔の人で、お殿様から、名前を頂いてとか、改名の儀式、</font><br>
+４８号の地方では、そんな風習が残っていてもいいかも。<br>
 <br>
-�Ȃ�قǁB���������΃n���^�[�B���Đ��܂�̋��ǂ��Ȃ�ł��傤�ˁc�c�H</font>
+なるほど。そういえばハンター達って生まれ故郷どこなんでしょうね……？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> �n���^�[�S�W���ݒ�i�O�O�j</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> ハンター４８号設定（＾＾）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/08 (�y) 07:05:40 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607086070540&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607086070540"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/08 (土) 07:05:40 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607086070540_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607086070540"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���A�������A�̂̐l�ŁA���a�l����A���O�𒸂��ĂƂ��A�����̋V���A<br>
-�Ƃ��A����������A�S�W���̒n���ł́A����ȕ��K���c���Ă��Ă����������B<br>
-�i��l�̒��ԓ��肵���A���ʂȓ��A�����̋V��������E�E�E�E�E�Ȃ�āj</font>
+<font size=3 color=#606060>あ、そうだ、昔の人で、お殿様から、名前を頂いてとか、改名の儀式、<br>
+とか、あったから、４８号の地方では、そんな風習が残っていてもいいかも。<br>
+（大人の仲間入りした、特別な日、改名の儀式もある・・・・・なんて）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> �n���^�[�S�W���ݒ�i�O�O�j</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> ハンター４８号設定（＾＾）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/08 (�y) 06:44:58 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607086064458&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607086064458"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/08 (土) 06:44:58 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607086064458_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607086064458"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�E�S�W���̒n���ł͐i���������A���N��ƁA���ؔN�����B<br>
-�i����Ǝ��N��܉��΂��낤�H�u�����X�\�����v�j<br>
-�E�{���F�N���u�E�N���X�E�n�[�g�N�u���̂����O�𒸂����E�E�E�E������H�����Ă��Ȃ��Ƃ����Ȃ��E�E�E�E�v<br>
-�i�ł��A�Ȃ񂩁A������Ƃ������ア���ȁH�A���[�[��A�������O�Ȃ����낤���H�j<br>
+<font size=3 color=#606060>・４８号の地方では進齢試験があり、実年齢と、公証年齢がある。<br>
+（すると実年齢いま何歳だろう？「お味噌暴走中」）<br>
+・本名：クラブ・クロス・ハート君「先代のお名前を頂いた・・・・だから？世ってしないといけない・・・・」<br>
+（でも、なんか、ちょっとあくが弱いかな？、うーーん、いい名前ないだろうか？）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -148,24 +148,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0>  Re2:�N���G�[�^�[�Y�E�t���A���烁�b�Z�[�W�����z��</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0>  Re2:クリエーターズ・フロアからメッセージお引越し</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/04 (��) 05:54:26 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607042055426&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607042055426"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/04 (火) 05:54:26 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607042055426_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607042055426"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�E���b�Z�[�W��������<br>
-<font color="#cc88ff">&gt;�� �}�R�g����<br>
-&gt; �����S���ł�87�����񂪂��܂��ˁB�ł��l�t�����̂悤�Ȏq�����Ă����������B</font><br>
+<font size=3 color=#606060>・メッセージ書き直し<br>
+<font color="#cc88ff">&gt;▼ マコトさん<br>
+&gt; 事務担当では87号さんがいますね。でも四葉ちゃんのような子もいてもいいかも。</font><br>
 <br>
-�͂��A�u���������S���́A��y�N�v�Ċ����ōl���܂����B<br>
+はい、「事務処理担当の、後輩君」て感じで考えました。<br>
 <br>
-�E�ł��u���삳��ƁA��c����Ɂv�A���킢������n���^�[�i�ς��O����j���āE�E�E<br>
+・でも「水野さんと、沢田さんに」、かわいがられるハンター（変わる前から）って・・・<br>
 <br>
-���Ȃ񂩂��炭�����f���������悤�ŁE�E�E�E���k�����ςȂ��ł��E�E�E�iA^^;;;;;�j<br>
+○なんかえらくご迷惑をかけたようで・・・・恐縮しっぱなしです・・・（A^^;;;;;）<br>
 <br>
-ps.�܂�������Ⴂ�܂����A�^�c�ψ��l�u�Q�W,�Q�X�̃��b�Z�[�W�v�폜�ł��Ȃ�<br>
+ps.またやっちゃいました、運営委員様「２８,２９のメッセージ」削除できない<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -173,19 +173,19 @@ ps.�܂�������Ⴂ�܂����A�^�c�ψ��l�u�Q�W,�Q�X�̃��b�Z�[�W�v�폜�ł��Ȃ�<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> Re2:�N���G�[�^�[�Y�E�t���A���烁�b�Z�[�W�����z��</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> Re2:クリエーターズ・フロアからメッセージお引越し</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/02 (��) 02:42:57 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607020024257&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607020024257"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/02 (日) 02:42:57 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607020024257_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607020024257"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�� �}�R�g����<br>
-&gt; �����S���ł�87�����񂪂��܂��ˁB�ł��l�t�����̂悤�Ȏq�����Ă����������B</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;▼ マコトさん<br>
+&gt; 事務担当では87号さんがいますね。でも四葉ちゃんのような子もいてもいいかも。</font><br>
 <br>
-�͂��A�Ȃ񂩂��炭�����f���������悤�ŁE�E�E�E���k�����ςȂ��ł��E�E�E�iA^^;;;;;�j<br>
+はい、なんかえらくご迷惑をかけたようで・・・・恐縮しっぱなしです・・・（A^^;;;;;）<br>
 <br>
-�E�ł��u���삳��ƁA��c����Ɂv�A���킢������n���^�[�i�ς��O����j���āE�E�E���̌�ǂ��������傤�����ł��傤�ˁi�O�O�F�j<br>
+・でも「水野さんと、沢田さんに」、かわいがられるハンター（変わる前から）って・・・その後どうせいちょうするんでしょうね（＾＾：）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -193,108 +193,108 @@ ps.�܂�������Ⴂ�܂����A�^�c�ψ��l�u�Q�W,�Q�X�̃��b�Z�[�W�v�폜�ł��Ȃ�<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> Re:�N���G�[�^�[�Y�E�t���A���烁�b�Z�[�W�����z��</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> Re:クリエーターズ・フロアからメッセージお引越し</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/01 (�y) 11:05:07 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607016110507&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607016110507"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/01 (土) 11:05:07 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607016110507_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200607016110507"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �ӂ�����<br>
-<font color="#cc88ff">&gt; �n���^�[�g�D�̒��ł́A�ٗ�̎��������S���̃n���^�[�H�H�B</font><br>
+<font size=3 color=#606060>▼ ふうさん<br>
+<font color="#cc88ff">&gt; ハンター組織の中では、異例の事務処理担当のハンター？？。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �����u���삳��ƁA��c����Ɂv�A�l�t�����Ƃ���ꂩ�킢�����Ă���A��y�N�I�H</font><br>
+<font color="#cc88ff">&gt; いつも「水野さんと、沢田さんに」、四葉ちゃんといわれかわいがられている、後輩君！？</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �Ă����n���^�[���P�l���炢���Ă����������H�B</font><br>
+<font color="#cc88ff">&gt; ていうハンターが１人くらいいてもいいかも？。</font><br>
 <br>
-�����S���ł�87�����񂪂��܂��ˁB�ł��l�t�����̂悤�Ȏq�����Ă����������B</font>
+事務担当では87号さんがいますね。でも四葉ちゃんのような子もいてもいいかも。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> ���ł܂����[</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> 許可でましたー</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/30 (��) 23:31:07 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606305233107&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305233107"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/30 (金) 23:31:07 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606305233107_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305233107"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��e���񂩂狖����܂����I<br>
-���O�̂݌��J���܂��ˁB<br>
+<font size=3 color=#606060>城弾さんから許可おりました！<br>
+名前のみ公開しますね。<br>
 <br>
-�n���^�[20���F�W�I�E�u�����h�[���W�I�[�l�E�n���^�[�x��</font>
+ハンター20号：ジオ・ブランドー→ジオーネ・ハンターベル</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> �N���G�[�^�[�Y�E�t���A���烁�b�Z�[�W�����z��</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> クリエーターズ・フロアからメッセージお引越し</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/30 (��) 21:38:43 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606305213843&log=kayo_chan_hunternumber">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305213843"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/30 (金) 21:38:43 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606305213843_log_kayo_chan_hunternumber.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305213843"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>[1278] New �n���^�[�S�W��<br>
-2006/06/29 (��) 04:47:45 �ӂ� &#9;�@�ԐM�@�폜<br>
-�Ƃ����ݒ�́A�l�������ǁE�E�E�E�E<br>
-�ǂ����A���b��邨���X�͂Ȃ��炵���E�E�E<br>
-���[�[�[��E���[�[�[�[�[�[�[�[�[�[�[�[�[�[��<br>
-���[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[��<br>
-���[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[�[��<br>
-�Ղ���[�E�E�E�E�i�����X���M�\�������i�O�O�G�G�G�G�G�j�j<br>
-�ǂȂ����A�����Ă���Ȃ����ȁE�E�E�A�ƒW�����ҁE�E�E�E�E<br>
-[1243] �͂��܂��E�܂��܂� �n���^�[�S�W��<br>
-2006/06/27 (��) 18:30:38 �ӂ� &#9;�@�ԐM�@�폜<br>
-�E�{���F�N���u�E�N���X�E�n�[�g�N�u�P�U�΁F�������H�P�U�΂Ŏ����̐i�H�����߁E�E�E��l�̒��ԓ���E�E�E�E�v<br>
-�E����c�l�ɉƖ�H�������Ă���A���̗������u�S�΂̃N���[�o�v�����肷��E�E�E<br>
-�E�܂��܂�����c�l�ɐ��R�̐������񂪂���A�����́u�Z�[���[���ɂR�A�~�̂P���|���������v�Ƃ����ƌP���̂����Ă��肷��B<br>
-�E�o�g�n�͂��Ȃ�c�ɂŁA�ׂ̂������P������ɂ������肷��B<br>
-�i�������A�d�C�A�K�X�A�����Ȃ�ĂȂ��E�E�E�i�O�O�G�j���[�񎩑R���Ȃ񂾁E�E�E�E�j<br>
-�����̂��߂��A�����^�b�`�E�P�l�p�e���g�������Ƃ��A�J���`���[�V���b�N�����ڂ����񂾂낤�ȁi�O�O�G�G�G�G�G�G�j<br>
-���P�����ɂP�x�A�s������A�e�ƈꏏ�ɖ��|�i�𔄂�E�E�E�E�E�����̌v�Z�̓n�[�g�N�̒S���ŁA�������ÎZ�E�E�E���̂��߂��ǂ����A���{�ɂ��ăn���^�[���C�Œʂ�����Z�����Łu����΂�P���v�������肷��(^^;;;)<br>
+<font size=3 color=#606060>[1278] New ハンター４８号<br>
+2006/06/29 (木) 04:47:45 ふう &#9;　返信　削除<br>
+という設定は、考えたけど・・・・・<br>
+どうも、お話作るお味噌はないらしく・・・<br>
+うーーーん・うーーーーーーーーーーーーーーん<br>
+うーーーーーーーーーーーーーーーーーーーーーん<br>
+うーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーん<br>
+ぷしゅー・・・・（お味噌が熱暴走した（＾＾；；；；；））<br>
+どなたか、書いてくれないかな・・・、と淡い期待・・・・・<br>
+[1243] はたまた・またまた ハンター４８号<br>
+2006/06/27 (火) 18:30:38 ふう &#9;　返信　削除<br>
+・本名：クラブ・クロス・ハート君「１６歳：お国柄？１６歳で自分の進路を決め・・・大人の仲間入り・・・・」<br>
+・ご先祖様に家紋？を持っており、その略式が「４つばのクローバ」だたりする・・・<br>
+・またまたご先祖様に水軍の水兵さんがおり、正装は「セーラー服に３アミの１っポンおさげ」という家訓がのこってたりする。<br>
+・出身地はかなり田舎で、隣のうちが１ｋｍ先にあったりする。<br>
+（もちろん、電気、ガス、水道なんてなし・・・（＾＾；）うーん自然児なんだ・・・・）<br>
+※そのためか、ワンタッチ・１人用テントを見たとき、カルチャーショックをおぼえたんだろうな（＾＾；；；；；；）<br>
+○１ヶ月に１度、市があり、親と一緒に民芸品を売り・・・・・お金の計算はハート君の担当で、もちろん暗算・・・そのためかどうか、日本にきてハンター研修で通った珠算教室で「そろばん１級」だったりする(^^;;;)<br>
 <br>
-���A�ł��A�����܂ōׂ��Ȑݒ�i�w�i�j�����߂��A�n���^�[�N�A���������Ă����񂾂낤���i�O�O�G�G�G�G�G�j<br>
-[1230] �͂��܂��E�܂��܂� �n���^�[�S�W��<br>
-2006/06/27 (��) 01:58:12 �ӂ� &#9;�@�ԐM�@�폜<br>
-�E�n���^�[�g�D�̔閧��n�̂ƂȂ�̍��@�u�ق�ɂ񂾂�v�i�T���猩��Ƌ󂫒n�̖؉��ɂP���p�e���g�E�E�E�E�j<br>
-�E�u���삳��ƁA��c����v�̓����������ɂS�W���p�z�b�g���C���u�ق�ɂ񂾂�v<br>
-�i�ł��ǂ����Ă��E�E�E�E�E���d�b�E�E�E�E�j<br>
-[1229] �͂��܂� �n���^�[�S�W��<br>
-2006/06/27 (��) 01:34:00 �ӂ� &#9;�@�ԐM�@�폜<br>
-�E�u���삳��ƁA��c����Ɂv�A�l�t�����Ƃ����Ȃ����߂ɍŋ߂���Ă��鎖<br>
-�u�߂��̌��N�����h�̓S�l���j���[�v<br>
-�P�D�S�Q�D�P�X�T���[�g�����A�R�U�b�N�_���X�ő��j���u���ꂩ�Ȃ�炢�����v<br>
-�Q�D�����v�[���i�W�����O�����C�j��{�l����u�N���[���ŃX�C�����v�i�ł��T���猩��ƌ��~���ɂ��������Ȃ��炵���j<br>
-�R�D�P�O�O�����Q�U�Z���`�̃}�C�N�����]�ԂłQ�T����u������Č��\�o�����X���o�����邩���v�i�ł��悭����ƕ⏕�ւ����Ă��āE�E�E�E�E�j<br>
+あ、でも、ここまで細かな設定（背景）を決めた、ハンター君、作っちゃっていいんだろうか（＾＾；；；；；）<br>
+[1230] はたまた・またまた ハンター４８号<br>
+2006/06/27 (火) 01:58:12 ふう &#9;　返信　削除<br>
+・ハンター組織の秘密基地のとなりの豪邸「ほんにんだん」（傍から見ると空き地の木下に１利用テント・・・・）<br>
+・「水野さんと、沢田さん」の働く事務室に４８号用ホットライン「ほんにんだん」<br>
+（でもどう見ても・・・・・糸電話・・・・）<br>
+[1229] はたまた ハンター４８号<br>
+2006/06/27 (火) 01:34:00 ふう &#9;　返信　削除<br>
+・「水野さんと、沢田さんに」、四葉ちゃんといわれないために最近やっている事<br>
+「近くの健康ランドの鉄人メニュー」<br>
+１．４２．１９５メートルを、コザックダンスで走破し「これかなりつらいかも」<br>
+２．温水プール（ジャングル風呂）を本人だん「クロールでスイムし」（でも傍から見ると犬掻きにしか見えないらしい）<br>
+３．１００ｍを２６センチのマイクロ自転車で２週する「これって結構バランス感覚がいるかも」（でもよく見ると補助輪がついていて・・・・・）<br>
 <br>
-�������̓��ۂɂȂ��Ă����肷��<br>
-[1227] �n���^�[�S�W�������Y��<br>
-2006/06/26 (��) 22:16:13 �ӂ� &#9;�@�ԐM�@�폜<br>
+が毎日の日課になっていたりする<br>
+[1227] ハンター４８号書き忘れ<br>
+2006/06/26 (月) 22:16:13 ふう &#9;　返信　削除<br>
 <br>
-���Ȃ݂ɁA�l�t�̃N���[�o�́u�����s���v�u�J�t�X�v�Ȃ񂩂��A<br>
+ちなみに、四葉のクローバの「たいピン」「カフス」なんかを、<br>
 <br>
-���Ă��肵�܂��B<br>
-�i������A�u���삳��ƁA��c����Ɂv���킢����ꂽ��āi�O�O�G�j�j<br>
-[1226] �n���^�[�S�W��<br>
-2006/06/26 (��) 21:49:24 �ӂ� &#9;�@�ԐM�@�폜<br>
-���A�����Y��u�l�t�F��΁v�Ɠǂ݂܂�<br>
-[1223] �n���^�[�S�W��<br>
-2006/06/26 (��) 21:17:24 �ӂ� &#9;�@�ԐM�@�폜<br>
-�n���^�[�g�D�̒��ł́A�ٗ�̎��������S���̃n���^�[�H�H�B<br>
+つけてたりします。<br>
+（だから、「水野さんと、沢田さんに」かわいがられたりて（＾＾；））<br>
+[1226] ハンター４８号<br>
+2006/06/26 (月) 21:49:24 ふう &#9;　返信　削除<br>
+あ、書き忘れ「四葉：よつば」と読みます<br>
+[1223] ハンター４８号<br>
+2006/06/26 (月) 21:17:24 ふう &#9;　返信　削除<br>
+ハンター組織の中では、異例の事務処理担当のハンター？？。<br>
 <br>
-�����u���삳��ƁA��c����Ɂv�A�l�t�����Ƃ���ꂩ�킢�����Ă���A��y�N�I�H<br>
+いつも「水野さんと、沢田さんに」、四葉ちゃんといわれかわいがられている、後輩君！？<br>
 <br>
-�Ă����n���^�[���P�l���炢���Ă����������H�B</font>
+ていうハンターが１人くらいいてもいいかも？。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kayo_chan_hunternumber">
@@ -302,16 +302,16 @@ ps.�܂�������Ⴂ�܂����A�^�c�ψ��l�u�Q�W,�Q�X�̃��b�Z�[�W�v�폜�ł��Ȃ�<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kayo_chan_hunternumber">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kayo_chan_hunternumber">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kayo_chan_hunternumber.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

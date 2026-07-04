@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���N�������ɂ̉^�c�ɂ��Č���</title>
+<title>少年少女文庫の運営について語る会</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >���N�������ɂ̉^�c�ɂ��Č���</font>
+<font size=6 >少年少女文庫の運営について語る会</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>���N�������ɂ̉^�c�ɂ��Ă̋^��A������A���ӌ���A�u�^�c�Ɍg����Ă݂����v�Ƃ����l�́A���Џ�������ŉ������B</font>
+<font color=#608080>少年少女文庫の運営についての疑問、ご質問、ご意見や、「運営に携わってみたい」という人は、ぜひ書き込んで下さい。</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,30 +15,30 @@
 <input type=hidden name="log" value="data2">
 <input type=hidden name="nj" value="Y6tqL10RR3">
 <input type=hidden name="res" value="42">
-<h4 align=center>�� �L���ԍ� 42 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 42 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�o�^�^�����N�ɂ���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���c���炳��
-&gt; �����N���Ă��������Ă���u���s���o�v�̊Ǘ��l�ł��B
-&gt; ���ɉ^�c�ψ��̊F�l�ɂ͂�����ς����b�ɂȂ��Ă���܂��B
-&gt; ���R�o�^�������N�̓o�^���e�i�T�C�g����Љ�Ȃǁj��ύX�������̂ł����A�ǂ̂悤�Ȏ葱�����Ƃ�Ηǂ��̂ł��傤���H
-&gt; ���Z�������A�\���󂠂�܂��񂪂���������������ƍK���ł��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:登録型リンクについて"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 原田聖也さん
+&gt; リンクしていただいている「平行感覚」の管理人です。
+&gt; 文庫運営委員の皆様にはいつも大変お世話になっております。
+&gt; 自由登録制リンクの登録内容（サイト名や紹介文など）を変更したいのですが、どのような手続きをとれば良いのでしょうか？
+&gt; お忙しい中、申し訳ありませんがお教えいただけると幸いです。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -51,16 +51,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[54]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �Ȃ�ق�</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[54]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> なるほど</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/20 (��) 00:03:51  <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302204000351&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302204000351"></font>
+<font size=-1 color=#606060> 2003/02/20 (木) 00:03:51  <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302204000351_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200302204000351"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� starbow@�^�c�ψ�����<br>
-�������܂����B<br>
-�f�������X�����肪�Ƃ��������܂��B</font>
+<font size=4 color=#303030>▼ starbow@運営委員さん<br>
+了解しました。<br>
+素早いレスをありがとうございます。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -68,33 +68,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[53]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> Re:������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[53]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> Re:今日の</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/19 (��) 23:30:20  <a href="mailto:starbow@wind.email.ne.jp">starbow@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302193233020&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302193233020"></font>
+<font size=-1 color=#606060> 2003/02/19 (水) 23:30:20  <a href="mailto:starbow@wind.email.ne.jp">starbow@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302193233020_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200302193233020"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030><font color="#cc88ff">&gt;�P�W�F�S�T�ɍs��ꂽ�X�V�͈�̂Ȃ�ł��傤�H</font><br>
-����́A���܂܂ł����Ă����Q�ƌ��ɂ��A�N�Z�X�������������������ł��B<br>
-�i����́A���S��ONLY��No.25������ɏo�Ă������Ƃ𔭐����Ȃ������Ƃ������Ƃł��B�j<br>
-���ɍ�i�̌f�ڂ��������킯�ł͂���܂���B</font>
+<font size=4 color=#303030><font color="#cc88ff">&gt;１８：４５に行われた更新は一体なんでしょう？</font><br>
+これは、いままでかけていた参照元によるアクセス制限を解除しただけです。<br>
+（これは、初心者ONLYのNo.25あたりに出ていたことを発生しなくしたということです。）<br>
+特に作品の掲載があったわけではありません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[52]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[52]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 今日の</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/19 (��) 23:06:18  <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302193230618&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302193230618"></font>
+<font size=-1 color=#606060> 2003/02/19 (水) 23:06:18  <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302193230618_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200302193230618"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�P�W�F�S�T�ɍs��ꂽ�X�V�͈�̂Ȃ�ł��傤�H<br>
-�V��ł����H<br>
-�g�b�v�̐V���ꗗ�͍������ύX���Ȃ��悤�ł����E�E�E�B</font>
+<font size=4 color=#303030>１８：４５に行われた更新は一体なんでしょう？<br>
+新作ですか？<br>
+トップの新着一覧は昨日から変更がないようですが・・・。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -102,16 +102,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[51]</font> <font size=4 color=#40c0c0> Re2:������Ǝv������ł���  </font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[51]</font> <font size=4 color=#40c0c0> Re2:ちょっと思ったんですが  </font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/16 (��) 01:35:19  <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302160013519&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302160013519"></font>
+<font size=-1 color=#606060> 2003/02/16 (日) 01:35:19  <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302160013519_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200302160013519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� starbow@�^�c�ψ�����<br>
-���^�N�V�l�̂킪�܂܁i���j�ɑf�������X���Ή������肪�Ƃ��������܂��B<br>
-���ꂩ�������΂��Ă��������ˁB</font>
+<font size=4 color=#303030>▼ starbow@運営委員さん<br>
+ワタクシ個人のわがまま（爆）に素早いレス＆対応をありがとうございます。<br>
+これからもがんばってくださいね。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -119,45 +119,45 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[50]</font> <font size=4 color=#40c0c0> re:������Ǝv������ł���  </font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[50]</font> <font size=4 color=#40c0c0> re:ちょっと思ったんですが  </font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/16 (��) 00:03:22  <a href="mailto:starbow@wind.email.ne.jp">starbow@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302160000322&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302160000322"></font>
+<font size=-1 color=#606060> 2003/02/16 (日) 00:03:22  <a href="mailto:starbow@wind.email.ne.jp">starbow@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302160000322_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200302160000322"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�����W�S�Q�U���܁A<br>
+<font size=4 color=#303030>ｍｋ８４２６さま、<br>
 <br>
-<font color="#cc88ff">&gt;���Ƃ��΍��́u�_�ρ@������v�P�`�R�b</font><br>
-��i�̌f�ڂ����܂����Astarbow�ł��B<br>
+<font color="#cc88ff">&gt;たとえば昨夜の「神変　黄金城」１〜３話</font><br>
+作品の掲載をしました、starbowです。<br>
 <br>
-<font color="#cc88ff">&gt;�����V���[�Y�̍�i����x�ɂQ�b���R�b���A�b�v����̂͂ǂ����Ȃ��Ǝv����ł����ǁB</font><br>
-���ӌ����肪�Ƃ��������܂��B<br>
-KB�̑傫����i�ɂ��ẮA����u���Čf�ڂ���悤�ɂ��܂��B<br>
+<font color="#cc88ff">&gt;同じシリーズの作品を一度に２話も３話もアップするのはどうかなぁと思うんですけど。</font><br>
+ご意見ありがとうございます。<br>
+KBの大きい作品については、日を置いて掲載するようにします。<br>
 <br>
-����Ƃ��A�X�������肢���܂��B</font>
+今後とも、宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[49]</font> <font size=4 color=#40c0c0> ������Ǝv������ł���</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[49]</font> <font size=4 color=#40c0c0> ちょっと思ったんですが</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/14 (��) 23:16:23  <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302145231623&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302145231623"></font>
+<font size=-1 color=#606060> 2003/02/14 (金) 23:16:23  <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302145231623_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200302145231623"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�����V���[�Y�̍�i����x�ɂQ�b���R�b���A�b�v����̂͂ǂ����Ȃ��Ǝv����ł����ǁB<br>
-�i���Ƃ��΍��́u�_�ρ@������v�P�`�R�b�j<br>
-�P�b���T�`�P�O��B���Ƃ܂�������ł����ǁA�Q�O��B�����Ă�Ƃ�����Ɠǂݎn�߂�̂Ɏ��ԂƗE�C�i�΁j���K�v�ł����i���j�B<br>
-���̏ꍇ�A�P�{�łP�O�O��B���̍�i�Ɠ������炢�́u�ǂݎn�߂邽�߂̗E�C�v���K�v���Ǝv����ł���i���^�N�V�͂����v����ł����ǁj�B<br>
-���������ꍇ�A�R���ɂP�{�Ƃ��̕��U�A�b�v�͕s�\�Ȃ�ł��傤���H<br>
-�^�c�ψ�����ɂƂ��Ă͕��S�ƂȂ�̂͊ԈႢ�Ȃ���ł����A�����������܂��񂩂˂��B<br>
+<font size=4 color=#303030>同じシリーズの作品を一度に２話も３話もアップするのはどうかなぁと思うんですけど。<br>
+（たとえば昨夜の「神変　黄金城」１〜３話）<br>
+１話が５〜１０ｋBだとまだいいんですけど、２０ｋB超えてるとちょっと読み始めるのに時間と勇気（笑）が必要ですし（爆）。<br>
+この場合、１本で１００ｋB超の作品と同じくらいの「読み始めるための勇気」が必要だと思うんですよ（ワタクシはそう思うんですけど）。<br>
+こういう場合、３日に１本とかの分散アップは不可能なんでしょうか？<br>
+運営委員さんにとっては負担となるのは間違いないんですが、ご検討頂けませんかねぇ。<br>
 <br>
-���Q�O��B�ȏ�̍�i���Q�{�ȏ�A�b�v����Ă���A���̓��͂���ȏ�̓A�b�v����<br>
-���~�����Ȃ��Ƃ����̂͂킪�܂܂ł��傤���i�ǂގ��Ԃ��E�E�E�j</font>
+＃２０ｋB以上の作品が２本以上アップされてたら、その日はそれ以上はアップして<br>
+＃欲しくないというのはわがままでしょうか（読む時間が・・・）</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -165,77 +165,77 @@ KB�̑傫����i�ɂ��ẮA����u���Čf�ڂ���悤�ɂ��܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[48]</font> <font size=4 color=#40c0c0> Re:�u�ؑタ���v�V���[�Y�̃����N�ɂ���</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[48]</font> <font size=4 color=#40c0c0> Re:「華代ちゃん」シリーズのリンクについて</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/12 (��) 18:38:00  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301120183800&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301120183800"></font>
+<font size=-1 color=#606060> 2003/01/12 (日) 18:38:00  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301120183800_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200301120183800"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030><font color="#cc88ff">> ����i1/11�j�̍X�V�Łh�u�ؑタ���v�V���[�Y"�̃y�[�W�Ƀ����N���Ă����̂�<br>
-> �s���Ă݂��̂ł���<br>
-> (#31�`#40)�̍�i�ւ̃����N�����܂������Ă��Ȃ��悤�ł��B<br>
-> �܂��A�߂�{�^���Ő̂̕��ɂɖ߂��Ă��܂��܂��B</font><br>
-�@kou�ł��B���񍐗L���������܂��B�{��(03/01/02)�ɏC�����܂����B<br>
-�����f�����������čς݂܂���ł����B</font>
+<font size=4 color=#303030><font color="#cc88ff">> 昨日（1/11）の更新で”「華代ちゃん」シリーズ"のページにリンクしていたので<br>
+> 行ってみたのですが<br>
+> (#31〜#40)の作品へのリンクがうまくいっていないようです。<br>
+> また、戻るボタンで昔の文庫に戻ってしまいます。</font><br>
+　kouです。ご報告有り難うございます。本日(03/01/02)に修正しました。<br>
+ご迷惑をおかけして済みませんでした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[47]</font> <font size=4 color=#40c0c0> �u�ؑタ���v�V���[�Y�̃����N�ɂ���</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[47]</font> <font size=4 color=#40c0c0> 「華代ちゃん」シリーズのリンクについて</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/12 (��) 11:20:28  ������ </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301120112028&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301120112028"></font>
+<font size=-1 color=#606060> 2003/01/12 (日) 11:20:28  ｓｓｓ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301120112028_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200301120112028"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>����i1/11�j�̍X�V�Łh�u�ؑタ���v�V���[�Y"�̃y�[�W�Ƀ����N���Ă����̂�<br>
-�s���Ă݂��̂ł���<br>
-(#31�`#40)�̍�i�ւ̃����N�����܂������Ă��Ȃ��悤�ł��B<br>
-�܂��A�߂�{�^���Ő̂̕��ɂɖ߂��Ă��܂��܂��B<br>
-�m�F���ꂽ�ق����悢�̂ł�</font>
+<font size=4 color=#303030>昨日（1/11）の更新で”「華代ちゃん」シリーズ"のページにリンクしていたので<br>
+行ってみたのですが<br>
+(#31〜#40)の作品へのリンクがうまくいっていないようです。<br>
+また、戻るボタンで昔の文庫に戻ってしまいます。<br>
+確認されたほうがよいのでは</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[46]</font> <font size=4 color=#40c0c0> kou�ł��B�Վ������e�i���X�ɂ��Ă̂��m�点</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[46]</font> <font size=4 color=#40c0c0> kouです。臨時メンテナンスについてのお知らせ</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/11/23 (�y) 18:49:51  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200211236184951&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211236184951"></font>
+<font size=-1 color=#606060> 2002/11/23 (土) 18:49:51  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200211236184951_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200211236184951"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�^�c�ψ���kou�ł��B<br>
-����̗Վ������e�i���X�̓��e<br>
-�@�E�T�[�o�[�ݒu���Ă�������̉Ƃ̔z������̐���<br>
+<font size=4 color=#303030>運営委員のkouです。<br>
+今回の臨時メンテナンスの内容<br>
+　・サーバー設置している矢治さんの家の配線周りの整備<br>
 <br>
-���A�����ł��B�����A�������Ă��炢�܂ō�Ƃ����������ł��B���̍ہAwww.novels.jp�ƁAts.novels.jp�ɃA�N�Z�X���o���Ȃ��Ȃ�\��������܂��B</font>
+だ、そうです。明日、あさってぐらいまで作業が続くそうです。その際、www.novels.jpと、ts.novels.jpにアクセスが出来なくなる可能性があります。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[45]</font> <font size=4 color=#40c0c0> �@�� �N �� �� �� �� �A �S �� �i �� �� �� ��</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[45]</font> <font size=4 color=#40c0c0> 　少 年 少 女 文 庫 、 全 作 品 数 で す ♪</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/11/02 (�y) 21:35:31  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200211026213531&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211026213531"></font>
+<font size=-1 color=#606060> 2002/11/02 (土) 21:35:31  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200211026213531_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200211026213531"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>kou�ł��B<br>
-<B>���N�������ɁA�S��i�����܂Ƃ߂Ă݂܂����B�ȉ��̃A�h���X����Q�Ƃł��܂��B</B><br>
-<b><a href=http://ts.novels.jp/master.htm target=_top>http://ts.novels.jp/master.htm</a></b><hr>�ҏW��F��������i�̗ʂł��B����́A��؂Ɍ����āA�T�C�g�Ǘ��҈�l�ŉ^�c�ł���ʂł͖{���ɂ���܂���ˁB����͂�A�^�c�ψ��A�����ł��i�΁j</font>
+<font size=4 color=#303030>kouです。<br>
+<B>少年少女文庫、全作品数をまとめてみました。以下のアドレスから参照できます。</B><br>
+<b><a href="../../master.htm" target=_top>http://ts.novels.jp/master.htm</a></b><hr>編集後：すごい作品の量です。これは、一筋に言って、サイト管理者一人で運営できる量では本当にありませんね。いやはや、運営委員、凄いです（笑）</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data2">
@@ -243,16 +243,16 @@ KB�̑傫����i�ɂ��ẮA����u���Čf�ڂ���悤�ɂ��܂��B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data2">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data2">�X�V</a>] [<a href="http://ts.novels.jp">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data2.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

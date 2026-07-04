@@ -1,45 +1,45 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>T�EH�����i���z�f����</title>
+<title>T・Hさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>T�EH�����i���z�f����</font>
+<font size=5>T・Hさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="t_h">
 <input type=hidden name="nj" value="33klMGmVuB">
 <input type=hidden name="res" value="9">
-<h4 align=center>�� �L���ԍ� 9 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 9 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �s�E�g����
-&gt; �� �����W�S�Q�U����
-&gt; &gt; ���ށA�Ȃ��Ȃ������������b�ł����˂��i���j�B���ق߂Ă�̂����Ȃ��Ă�̂��H
-&gt; &gt; �ł��A�������낢�ݒ�ł��˂��B����ł��܂������̎q�������̑���ɍD���������j�̎q�̍��𕪊����Ď����̐g�̂ɏh�点��Ƃ����̂͌������Ƃ��Ȃ��ł��B
-&gt; &gt; ���ꂪ�����ƔY��ł���l���P���Ȏ��Ƃ̕`�ʂƑ��܂��Ă��������ł����B
-&gt; &gt; �Ō�̍����A�悭�l������i���V�i���j�H
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ Ｔ・Ｈさん
+&gt; ▼ ｍｋ８４２６さん
+&gt; &gt; うむ、なかなか錯綜したお話でしたねぇ（爆）。←ほめてるのかけなしてるのか？
+&gt; &gt; でも、おもしろい設定ですねぇ。死んでしまった女の子が自分の代わりに好きだった男の子の魂を分割して自分の身体に宿らせるというのは見たことがないです。
+&gt; &gt; 健一がずっと悩んでいる様が単調な授業の描写と相まっていい感じでした。
+&gt; &gt; 最後の告白、よく考えたらナルシ（爆）？
 &gt; 
-&gt; ���z���肪�Ƃ��������܂��B�������������W�S�Q�U����͊��z�������Ă��肪�����ł��B
-&gt; �m���ɍŌ���ăi���V�I�H�Ȃ̂��I�H�i�O�|�O�G</textarea><br>
+&gt; 感想ありがとうございます。いつもいつもｍｋ８４２６さんは感想が早くてありがたいです。
+&gt; 確かに最後ってナルシ！？なのか！？（＾−＾；</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -52,15 +52,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> �w�󂿂��Ăсc�c�x�ǂ݂܂���</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> 『希ちゃん再び……』読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/14 (��) 22:04:02 <strong>��</strong> SORA </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303145220402&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303145220402"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/14 (金) 22:04:02 <strong>▽</strong> SORA </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303145220402_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200303145220402"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�؂Ȃ��Ƃ������A�Î_���ς��Ƃ������A���y���l�ł����B(^^;<br>
-�������A���_�����X�ɒj���ɖ߂��Ă����Ƃ����̂͂���Ӗ�����ɋ߂����̂����邩���B<br>
+<font size=3 color=#606060>切ないというか、甘酸っぱいというか、ご馳走様でした。(^^;<br>
+しかし、精神が徐々に男性に戻っていくというのはある意味拷問に近いものがあるかも。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -68,19 +68,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[18]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[18]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/14 (��) 13:52:03 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303145135203&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303145135203"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/14 (金) 13:52:03 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303145135203_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200303145135203"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�����Ȃ��B<br>
-�t���Ɨy�̊Ԃŗh���C�����A��̑z���E�E�E�B<br>
-�؂Ȃ��ł��˂��B<br>
-�����čŌ�̃V�[���B�ō��ł��ˁB<br>
-�n�[�g�t���ł��ˁB<br>
-�Î_���ς��C�����ł����ς��ɂȂ�܂����B</font>
+<font size=3 color=#606060>ああ、いいなぁ。<br>
+春樹と遥の間で揺れる気持ち、希の想い・・・。<br>
+切ないですねぇ。<br>
+そして最後のシーン。最高ですね。<br>
+ハートフルですね。<br>
+甘酸っぱい気持ちでいっぱいになりました。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -88,101 +88,101 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> �w�󂿂��Ăсc�c�x������ɂ͂������N���b�N�B</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> 『希ちゃん再び……』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/14 (��) 00:56:34 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303145005634&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303145005634"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/14 (金) 00:56:34 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303145005634_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200303145005634"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�Ȃ��A�󂿂�񂪖߂��Ă����̂��B�؂Ȃ��X�g�[���[�ł��B</font>
-<p><div align=left><a href="http://ts.novels.jp/novel/200110/28050903/nozomi_return.html" target="_top">http://ts.novels.jp/novel/200110/28050903/nozomi_return.html</a></div>
+<font size=3 color=#606060>【推薦文】なぜ、希ちゃんが戻ってきたのか。切ないストーリーです。</font>
+<p><div align=left><a href="../../novel/200110/28050903/nozomi_return.html" target="_top">http://ts.novels.jp/novel/200110/28050903/nozomi_return.html</a></div>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> �����D���Ȑl�i��T�́j�̂��Ƃ�</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> 俺が好きな人（第５章）のことで</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/07 (��) 22:11:59 <strong>��</strong> �s�E�g </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208073221159&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208073221159"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/07 (水) 22:11:59 <strong>▽</strong> Ｔ・Ｈ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208073221159_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200208073221159"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���݁w�����D���Ȑl�i��T�́j�x�̖`���������Q�f���ɍڂ��Ă���܂��B<br>
-�悩�������ɂ�����ł��y���݂��������I�`���Ȃ̂ŒZ���ł����i�O�|�O;</font>
+<font size=3 color=#606060>現在『俺が好きな人（第５章）』の冒頭部分を第２掲示板に載せてあります。<br>
+よかったら先にそちらでお楽しみください！冒頭なので短いですが（＾−＾;</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> Re:���̍D���Ȑl</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> Re:俺の好きな人</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/01 (��) 23:41:21 <strong>��</strong> �s�E�g </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208014234121&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208014234121"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/01 (木) 23:41:21 <strong>▽</strong> Ｔ・Ｈ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208014234121_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200208014234121"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���񂳂�<br>
-<font color="#cc88ff">&gt; ���̍D���Ȑl�̂T�͂͂��ɂȂ�����f�ڂ����ł����H�����ǂ݂����ł��B</font><br>
+<font size=3 color=#606060>▼ たんさん<br>
+<font color="#cc88ff">&gt; 俺の好きな人の５章はいつになったら掲載するんですか？早く読みたいです。</font><br>
 <br>
-���݂܂���A���΂炭���z�f�����`�F�b�N���Ă��Ȃ������̂ŕԐM���x���Ȃ��Ă��܂��܂����B<br>
-���i�ɂ͉��w���x�D���Ȑl�Ȃ�ł����ǂ�(�O�|�O;�܁A�ׂ������Ƃ͂����ł����ǂ�(�O�|�O;<br>
-5�͂͏����n�߂Ă����̂ł����A�n�[�h�f�B�X�N�̏�ɂ��n�[�h�f�B�X�N�����̂Ƃ��ɕۑ����Ă������f�[�^�������Ȃ��Ă��܂��܂����B<br>
-����Ȃ̂ŏ��������Ȃ���΂Ȃ�Ȃ���ł��B�����D���Ȑl�́A����Œ�U�O�j�a�ȏ�Ŏd�グ�Ă����̂ŁA<br>
-��5�͂ł��Œ�T�O�j�a�ȏ��ڕW�Ɏd�グ�����ł��B<br>
-�Ȃ̂ŏ��������Ƃ������ƂȂ̂œ��e�͂��΂炭�x���Ȃ邩������܂���B���݂܂���(�O�|�O;</font>
+すみません、しばらく感想掲示板をチェックしていなかったので返信が遅くなってしまいました。<br>
+性格には俺『が』好きな人なんですけどね(＾−＾;ま、細かいことはいいですけどね(＾−＾;<br>
+5章は書き始めていたのですが、ハードディスク故障によるハードディスク交換のときに保存しておいたデータが無くなってしまいました。<br>
+それなので書き直さなければならないんです。俺が好きな人は、毎回最低６０ＫＢ以上で仕上げていたので、<br>
+第5章でも最低５０ＫＢ以上を目標に仕上げるつもりです。<br>
+なので書き直しということなので投稿はしばらく遅くなるかもしれません。すみません(＾−＾;</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> ���̍D���Ȑl</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 俺の好きな人</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/24 (��) 23:00:18 <strong>��</strong> ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207243230018&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207243230018"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/24 (水) 23:00:18 <strong>▽</strong> たん </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207243230018_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200207243230018"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̍D���Ȑl�̂T�͂͂��ɂȂ�����f�ڂ����ł����H�����ǂ݂����ł��B</font>
+<font size=3 color=#606060>俺の好きな人の５章はいつになったら掲載するんですか？早く読みたいです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> Re:�w�I���Ȃ������x�̊��z</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> Re:『終わらない現実』の感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/06/23 (��) 01:04:46 <strong>��</strong> �s�E�g </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200206230010446&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200206230010446"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/06/23 (日) 01:04:46 <strong>▽</strong> Ｔ・Ｈ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200206230010446_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200206230010446"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���肫�肳��<br>
-<font color="#cc88ff">&gt; �ǂ݂܂����B</font><br>
+<font size=3 color=#606060>▼ きりきりさん<br>
+<font color="#cc88ff">&gt; 読みました。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �ǂ������ł��B<br>
-&gt; T�EH����̂悤�Ɏ��R�Ȕ��z����i�Ɏ��������́A�D���ł��B</font><br>
+<font color="#cc88ff">&gt; 良かったです。<br>
+&gt; T・Hさんのように自由な発想を作品に取り入れる方は、好きです。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; ���̃R�s�[�𑼐l�̑̂ɏh�点���i�́A�����ǂ񂾎�������܂���B<br>
-&gt; ���́A����T�EH����̃A�C�f�B�A�́A�l������������܂����i�������ł͖����Ǝv���܂����ǁj�B<br>
-&gt; �ł����ATS�̓ǂݕ��Ƃ��ĖG����邩�ȂƂ����s��������܂����B</font><br>
+<font color="#cc88ff">&gt; 魂のコピーを他人の体に宿らせる作品は、私も読んだ事がありません。<br>
+&gt; 実は、私もT・Hさんのアイディアは、考えた事がありました（私だけでは無いと思いますけど）。<br>
+&gt; ですが、TSの読み物として萌えれるかなという不安もありました。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �������AT�EH����̍�i���������A�ǂ������̃X�g�[���ɂȂ��Ă��邤�悤�ł��ˁB<br>
-&gt; �ށX�����̐����Ă������̋L�����c���Ă���ݒ肪�A�b�ɐ[�݂�^���Ă���Ǝv���܂����B<br>
-&gt; ���ہA������ڐA�������������񋟂��Ă��ꂽ���̋L��������̍זE�Ɏc��݂����ł�����A�]������ł��L���͎c��̂́A���R�ł��ˁB</font><br>
+<font color="#cc88ff">&gt; しかし、T・Hさんの作品を見る限り、良い感じのストーリになっているうようですね。<br>
+&gt; 奈々ちゃんの生きていた時の記憶が残っている設定が、話に深みを与えていると思いました。<br>
+&gt; 実際、臓器を移植した方も臓器を提供してくれた方の記憶が臓器の細胞に残るみたいですから、脳が死んでも記憶は残るのは、自然ですね。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �Ō�ɍ��̎��ł����A�́A�e���r�ō��́A�������邾���łȂ��A����������Ƃ����̂�����������܂��B<br>
-&gt; TS�ɂ����炢�I�J���g�l�^�ł����ǁAT�EH����̘b���̎Q�l�ɂȂ�΍K���ł��B</font><br>
+<font color="#cc88ff">&gt; 最後に魂の事ですが、昔、テレビで魂は、分割するだけでなく、結合もするというのを見た事あります。<br>
+&gt; TSにしずらいオカルトネタですけど、T・Hさんの話作りの参考になれば幸いです。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; ���ꂩ��̍�i�����҂��Ă��܂��B</font><br>
+<font color="#cc88ff">&gt; これからの作品も期待しています。</font><br>
 <br>
-���肪�Ƃ��������܂��B�ǂ������̃X�g�[���[�ł������B<br>
-�����ݒ�Ƃ͂��Ȃ�ς���Ă��܂��Ă����Ȃ�����ł����ǂˁi�O�|�O�G<br>
-�������ł����A�m���Ƀl�^�ɂȂ肻���ȁA�A�A�ǂ��ł��傤�H<br>
+ありがとうございます。良い感じのストーリーでしたか。<br>
+初期設定とはかなり変わってしまってこうなったんですけどね（＾−＾；<br>
+魂結合ですか、確かにネタになりそうな、、、どうでしょう？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -190,76 +190,76 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> Re:�V�N�Ȋ���</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> Re:新鮮な感じ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/06/23 (��) 00:59:25 <strong>��</strong> �s�E�g </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200206230005925&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200206230005925"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/06/23 (日) 00:59:25 <strong>▽</strong> Ｔ・Ｈ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200206230005925_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200206230005925"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����߂݂̂₳��<br>
-<font color="#cc88ff">&gt; �����̈ӎu���Q���݂���Ƃ����͖̂ʔ����ݒ�ł���ˁB<br>
-&gt; �l�`�⃍�{�b�g�Ɏ����̈ӎu���R�s�[����i��������j�p�^�[�����Ƃ����̂ł��傤��<br>
-&gt; ���������̂�����ɂ͂��邯��ǁA����Ƃ͈Ⴄ���B<br>
-&gt; ���̎q�ɂȂ��������܂�����菗�̎q�̈ӎ��������Ďn�܂�Ƃ��낪<br>
-&gt; ���������ł悩�����ł��B<br>
-&gt; ���̎q���_�ł����Ƃ�����������ƖG���������B</font><br>
+<font size=3 color=#606060>▼ すずめのみやさん<br>
+<font color="#cc88ff">&gt; 自分の意志が２つ存在するというのは面白い設定ですよね。<br>
+&gt; 人形やロボットに自分の意志をコピーする（させられる）パターン物というのでしょうか<br>
+&gt; そういうのがあるにはあるけれど、それとは違うし。<br>
+&gt; 女の子になった方がまるっきり女の子の意識を持って始まるところが<br>
+&gt; いい感じでよかったです。<br>
+&gt; 女の子視点でずっといったらもっと萌えたかも。</font><br>
 <br>
-���͍������n�͂Q��ڂ������肵�܂��i�O�|�O�G<br>
-���Ȃ�O�ɓ��e�����w�G���G�������̓���x���č�i�ł��ӎ����Q���Ă������A���������̂ł��B<br>
-���̎q�̎��_�ł����΂����ƖG�����A�A�A�m���ɂ�����������������܂���ˁB<br>
-���̍�i���������Ă݂������ď����v���Ă��܂����A�A�A���x�͍Ō�܂ŏ��̎q�̎��_�ŁB<br>
-�ł����Ҋ�]�͋��炭�����Ǝv���i�O�|�O�G</font>
+実は魂分離系は２作目だったりします（＾−＾；<br>
+かなり前に投稿した『萌え萌え少女の日常』って作品でも意識が２つっていうか、魂分離ものです。<br>
+女の子の視点でいけばもっと萌えた、、、確かにそうだったかもしれませんね。<br>
+この作品続きつくってみたいって少し思ってきました、、、今度は最後まで女の子の視点で。<br>
+でも続編希望は恐らく無いと思う（＾−＾；</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> Re:���ɂ�[</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> Re:うにゃー</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/06/23 (��) 00:55:57 <strong>��</strong> �s�E�g </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200206230005557&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200206230005557"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/06/23 (日) 00:55:57 <strong>▽</strong> Ｔ・Ｈ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200206230005557_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200206230005557"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �d�g�d������<br>
-<font color="#cc88ff">&gt; �ǂ݂܂����B�]�����m�͐�����ǁc�܂�������Ȃ��Ƃ��c<br>
-&gt; �l�̑z���͖͂����ł��ˁB����ق�Ɓc<br>
-&gt; �Ō�̃V�[�����A�ގ��ޏ��̊֌W�ɁH�@��������X�g���[�g�ł����B<br>
-&gt; �s�r�L�����Ƃ��ẮA�����قƂ�Ǐ��̎q���ۂ��āA���킢���n�ł��ˁB����A�d�g�d���Ƃ��Ă͍D�݂̃L�������ȁB</font><br>
+<font size=3 color=#606060>▼ 電波妖精さん<br>
+<font color="#cc88ff">&gt; 読みました。転生モノは数あれど…まさかそんなことが…<br>
+&gt; 人の想像力は無限ですね。いやほんと…<br>
+&gt; 最後のシーンが、彼氏彼女の関係に？　いやもうストレートですやん。<br>
+&gt; ＴＳキャラとしては、もうほとんど女の子っぽくて、かわいい系ですね。うん、電波妖精としては好みのキャラだな。</font><br>
 <br>
-�l�̑z���͖͂{���ɖ����ł��ˁB���̂����N�����v�����Ȃ������悤�Șb���łĂ��邩���H<br>
-�s�E�g�����̂悤�Șb�ɒ��킵�����������ł��B<br>
-�S�܂Ŋ��S�ɏ��̎q�ɂȂ����Ⴄ�s�r�b�q�A�A�A����Șb�������Ă݂����Ă����Ă݂܂����B<br>
-�����n�߂�O�̐ݒ�ł́A�����͎n�߂��珗�̎q���Ǝv���Ă����̂ɁA�{���͒j�ł��̊Ԃɂ��j�̍��̋L���������Ă��āA������ˑR�v���o���A�݂����ɂ�����������ł����ǁA���\���e�������������Ă��܂��ˁi�O�|�O�G�\��Ɓi�O�|�O�G</font>
+人の想像力は本当に無限ですね。そのうち誰もが思いつかなかったような話がでてくるかも？<br>
+Ｔ・Ｈもそのような話に挑戦したいしだいです。<br>
+心まで完全に女の子になっちゃうＴＳッ子、、、そんな話を書いてみたくてかいてみました。<br>
+書き始める前の設定では、自分は始めから女の子だと思っていたのに、本当は男でいつの間にか男の頃の記憶がきえていて、ある日突然思い出す、みたいにしたかったんですけど、結構内容がかわっちゃっていますね（＾−＾；予定と（＾−＾；</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> Re:�ǂ񂾃o�C��</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> Re:読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/06/23 (��) 00:52:10 <strong>��</strong> �s�E�g </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200206230005210&log=t_h">�ԐM</a>�@�폜<input type=checkbox name="target" value="200206230005210"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/06/23 (日) 00:52:10 <strong>▽</strong> Ｔ・Ｈ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200206230005210_log_t_h.cgi">返信</a>　削除<input type=checkbox name="target" value="200206230005210"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����W�S�Q�U����<br>
-<font color="#cc88ff">&gt; ���ށA�Ȃ��Ȃ������������b�ł����˂��i���j�B���ق߂Ă�̂����Ȃ��Ă�̂��H<br>
-&gt; �ł��A�������낢�ݒ�ł��˂��B����ł��܂������̎q�������̑���ɍD���������j�̎q�̍��𕪊����Ď����̐g�̂ɏh�点��Ƃ����̂͌������Ƃ��Ȃ��ł��B<br>
-&gt; ���ꂪ�����ƔY��ł���l���P���Ȏ��Ƃ̕`�ʂƑ��܂��Ă��������ł����B<br>
-&gt; �Ō�̍����A�悭�l������i���V�i���j�H</font><br>
+<font size=3 color=#606060>▼ ｍｋ８４２６さん<br>
+<font color="#cc88ff">&gt; うむ、なかなか錯綜したお話でしたねぇ（爆）。←ほめてるのかけなしてるのか？<br>
+&gt; でも、おもしろい設定ですねぇ。死んでしまった女の子が自分の代わりに好きだった男の子の魂を分割して自分の身体に宿らせるというのは見たことがないです。<br>
+&gt; 健一がずっと悩んでいる様が単調な授業の描写と相まっていい感じでした。<br>
+&gt; 最後の告白、よく考えたらナルシ（爆）？</font><br>
 <br>
-���z���肪�Ƃ��������܂��B�������������W�S�Q�U����͊��z�������Ă��肪�����ł��B<br>
-�m���ɍŌ���ăi���V�I�H�Ȃ̂��I�H�i�O�|�O�G</font>
+感想ありがとうございます。いつもいつもｍｋ８４２６さんは感想が早くてありがたいです。<br>
+確かに最後ってナルシ！？なのか！？（＾−＾；</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="t_h">
@@ -267,16 +267,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="t_h">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=t_h">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_t_h.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

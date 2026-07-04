@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>BAF�����i�@���z�f����</title>
+<title>BAFさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>BAF�����i�@���z�f����</font>
+<font size=5>BAFさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="baf">
 <input type=hidden name="nj" value="rO404IhZsN">
 <input type=hidden name="res" value="108">
-<h4 align=center>�� �L���ԍ� 108 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 108 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w�[���s���r���`��VIII�x������ɂ͂������N���b�N�B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z�^�Ă̍P��A�a�`�e����̉���i�H�j�V���[�g�V���[�g�B����͂���Ƀp���[�A�b�v���Ƃ�܂��i�΁j�B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『納涼ＴｏＳｉ伝説VIII』を見るにはここをクリック。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】真夏の恒例、ＢＡＦさんの怪奇（？）ショートショート。今回はさらにパワーアップしとります（笑）。
 &gt; http://ts.novels.jp/novel/200011/15112734/nouryo8.html</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -50,8 +50,8 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[274]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/15 (�y) 18:07:50 <strong>��</strong> <a href="mailto:viagra@levitra1.com">viagra</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607156180750&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607156180750"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/15 (土) 18:07:50 <strong>▽</strong> <a href="mailto:viagra@levitra1.com">viagra</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607156180750_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200607156180750"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>Idaho</font>
@@ -62,47 +62,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[117]</font> <font size=4 color=#40c0c0> re:���N�̔[���s���r���`��VIII </font>
+<font size=2>[117]</font> <font size=4 color=#40c0c0> re:今年の納涼ＴｏＳｉ伝説VIII </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/15 (��) 23:25:01 <strong>��</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">�앶��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509154232501&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509154232501"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/15 (木) 23:25:01 <strong>▽</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">南文堂</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509154232501_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200509154232501"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���������ӏ��̎w�E�����ė~�����Ƃ������ƂŁA�������ڂ̈ӌ������X�A�������Ă��������܂��B<br>
-�@�܂��́A���̏������݂ɂ̓l�^�o��������܂��̂ŁA���ǂ̕��͂��炩���߂��������������B<br>
+<font size=3 color=#606060>　悪かった箇所の指摘をして欲しいということで、厳しい目の意見を少々、書かせていただきます。<br>
+　まずは、この書き込みにはネタバレがありますので、未読の方はあらかじめご了承ください。<br>
 <br>
-�w�������ʔ�������Ƃ����āA���l���ʔ����Ƃ͌���Ȃ��x<br>
-�@���肪�̂ɖ����Ă����Ȃ���΂Ȃ�Ȃ��ꌾ�ł��B<br>
-�@�ʔ����Ƃ����̂́A���o�I�Ȃ��̂ł��邽�߂ɉ����_�����������������Ȃ����肻����C�����邱�Ƃ��ł��܂���B���ɖ��Ȃ��Ƃł��B�Ƃ肠�����́A������x��ÂɂȂ��č�i��ǂݒ����Ă݂Ă͂������ł��傤���H<br>
-�@���̌l�I���o�ł́A�w�[���s���r���`��VIII�x�́A�l�^�Ƃ��Ă͕��ʂŁA���o�͏�����߂��Ɗ����܂����B���������A�l�^�������Ă��悩�����̂ł͂Ȃ����Ƃ����̂��A�����ȂƂ���ł��B<br>
-�@��҂��M���Ȃ肷����Ǝ��肪�����Ȃ��Ȃ�܂��B�����Ȃ�ƁA��҂Ɠǎ҂̉��x���������Ă��܂��A�l�^�͊��S�ɕ����܂��B�M���Ȃ��Ă���Ɨ�ÂɃl�^�𐶂������߂ɉ��o��a���ɂ������ɂȂ�̂��A�l�^�����������̈�Ƃ����܂��B<br>
-�@��قǁA�w�[���s���r���`��VIII�x�̉��o��������߂ƕ]�����̂́A�l�^�𐶂������߂̍H�v�ɂ�����悤�Ɋ���������ł��B<br>
-�@��̓I�Ɍ����ƁA���̎O�_�B<br>
-�@����̂R�b�̏��Ԃ͂��ꂪ�ō��̏��Ԃ������̂��H<br>
-�@�ǎ҂̑��������z�f���̃����N���N���b�N����H�v�͂����̂��H<br>
-�@�R�b�̃Z�b�g�ɂ��Ă��邪�A���̑�����ʂ�_�������H<br>
-�@���Ȃ��Ƃ��A���ɂ͂����̍l��������Ȃ��̂ł͂Ȃ����Ǝv���܂��B<br>
+『自分が面白いからといって、他人が面白いとは限らない』<br>
+　作り手が肝に銘じておかなければならない一言です。<br>
+　面白いというのは、感覚的なものであるために何がダメだったかを感じない限りそれを修正することもできません。非常に厄介なことです。とりあえずは、もう一度冷静になって作品を読み直してみてはいかがでしょうか？<br>
+　私の個人的感覚では、『納涼ＴｏＳｉ伝説VIII』は、ネタとしては普通で、演出は少し低めだと感じました。もう少し、ネタをくってもよかったのではないかというのが、正直なところです。<br>
+　作者が熱くなりすぎると周りが見えなくなります。そうなると、作者と読者の温度差が生じてしまい、ネタは完全に浮きます。熱くなっていると冷静にネタを生かすために演出を疎かにしがちになるのが、ネタが浮く原因の一つといえます。<br>
+　先ほど、『納涼ＴｏＳｉ伝説VIII』の演出が少し低めと評したのは、ネタを生かすための工夫にかけるように感じたからです。<br>
+　具体的に言うと、次の三点。<br>
+　今回の３話の順番はあれが最高の順番だったのか？<br>
+　読者の多くが感想掲示板のリンクをクリックする工夫はしたのか？<br>
+　３話のセットにしているが、その相乗効果を狙ったか？<br>
+　少なくとも、私にはこれらの考慮が足りないのではないかと思います。<br>
 <br>
-�@���Ԃɂ��Ď��������l����Ƃ���ƁA��Q�Q��͂r�r�A��Q�R��͖���A��Q�S�邪�r�r�t���b�V���i�ȉ��A�r�r�A����A�B���t���b�V���ƕ\�L���܂��j�ƂȂ��Ă܂����A����ƃt���b�V���̏��Ԃ����ւ��܂��B<br>
-�@���R�͓����܂����A��ڂ͌����ځA����̃C���p�N�g�������A�B���t���b�V���̃C���p�N�g���ア�B�����炭�A��ғI�ɂ͉B���t���b�V������Ԃ̃C���p�N�g�Ǝv���Ă���ł��傤���A����͉B���t���b�V���܂Ō��Ă̂��ƁB�������A�S�����B���t���b�V��������Ƃ͌���Ȃ����Ƃ��l���Ȃ���΂����܂���i�����āA�B���t���b�V����������H�v���s�����Ă���悤�Ɏv���܂����A����͌�q�j�B<br>
-�@�悭��������̂ł����A�Ō�ɍő�̃C���p�N�g�������Ă��邱�Ƃ����R�Ǝv���邩������܂���B���͂���͂�����ƈႤ�̂ł��B<br>
-�@�{���̓C���p�N�g�̎����l���Ă̏��Ԃ����߂Ă��˂΂Ȃ�܂���B���˂◎��Ȃǂ̑O���A���g���A��g���Ɠ����ł��B����̃C���p�N�g�͂킩��₷���C���p�N�g�ŁA�B���t���b�V���̂̓l�^�Ƃ��ẴC���p�N�g�ł��B<br>
-�@�ʔ����͉B���t���b�V���̕�����ł��A�w�킩��ɂ����x���_������܂��B�O���Ōy�����g�߁A���g���ŏ΂킹�A��g���Ŕ[��������B��g�����啨�Ȃ̂͂��̖��O�����ŋq�������~�߂Ă����邩��ł��B��g���ŕK�v�Ȃ̂͂킩��₷���C���p�N�g�̋����i��ł́w�L���x�Ƃ����C���p�N�g�j�Ȃ̂ł��B�������A��g���͂���ł��Ĉ�背�x���ȏ�ʔ����Ȃ��Ă͂����܂��񂪁B<br>
-�@�����������R����A�r�r�A�B���t���b�V���A����̏��Ԃ̕����悢�ƍl���܂��B<br>
-�@��ڂ̗��R�́A�����N���N���b�N������H�v�Ƃ��Ă̓���ւ��ł��B<br>
-�@�r�r��ǂݏI���A���̂܂܉B���t���b�V���̂r�r�ɓ���B�I�`���ς��ȂƎv���Ƃ���ɁA���z�f���̃����N�A���̉��ɂ͎��̖���B�Ȃ��r���Ɋ��z�f���̃����N���H�@�ƕs�R�Ɏv�����Ƃ���։B���t���b�V���̂r�r���ӂƎv���o���āA�N���b�N����\�\<br>
-�@�ǎ҂̎v�l�̗�����l����ƁA��������Ύ��R�ƃN���b�N�����\�������܂�Ǝv���܂��B<br>
-�@�ǎ҂͕K�����z�f���̃����N���N���b�N����Ƃ͌���Ȃ��B���������āA���ꂪ�l�^�ł��鎖�𔼃o������Ԃɂ��ׂ��������Ǝv���܂��B�O�q�����悤�ɁA���炩�ɕs���R�Ȋ��z�f���̃����N�Ȃ�A�u�����킩��Ȃ����ǁA��������v�Ǝv�킹��܂��B<br>
-�@�l�^�ɂ́u�K�������Ȃ��Ƃ����Ȃ��l�^�v�Ɓu�C������Ȃ��Ă������l�^�v�̓��ނ�����܂��B����́u�K���`�v�̃l�^�ł��B�ł����A�ǂ��炩�Ƃ����ƍ���̉��o�͓ǎ҂��т����肳���悤�Ƃ��ĉB�������߂Ă��܂��Ă���悤�Ɍ����܂��B����͎��s�Ǝv���܂��B<br>
-�@�܂��A�N���b�N���J��Ԃ��Ƃ����쒆�̕`�ʂ��キ�A��ۂ������ł��B�B���t���b�V���̃|�b�v�A�b�v��\���������i�K�Ŏ~�܂�댯�����l�����ׂ��ł��傤�B��ۂ����߂邩�A�N���b�N�𖳂������H�v���K�v�Ǝv���܂��B<br>
-�@������ʂɂ��Ăł����A�O�̘b���Z�b�g�ɂ��Ă��܂����A���̊֘A���������̂͏��X�c�O�Ɏv���܂����B������ʂƂ����Ă��A�b���N���X����K�v�͂Ȃ��A������Ƃ������V�ѓI�ɂł��O�̘b�ɋ��ʎ����𐷂荞�߂Ζʔ��݂������A�O�̘b�������Z�b�g�Ƃ��Ĉ�ۂɎc��Ǝv���܂��B<br>
-�@��l���̖��O��������������A�e���̈�l���O�b���ʂ�������A������œ������i���ꂪ�d�v�A�C�e���łȂ��Ă������j���o�ꂵ����c�c�Ƃ��������ŁB<br>
-�@�I���j�o�X������֘A���͂Ȃ��Ă悢�̂ł����A�q���Ă�邱�ƂŁu�v�����ŎO�b������v�Ƃ�����ۂ�����A���܂������΁u�v�Z����č��ꂽ�O�b�v�Ƃ�����ۂ������Ă���邩������܂���B���ꂾ���ł��A�ǎ҂Ɂu�Ȃ��Ȃ����ȁv�Ǝv�킹��w�l�^�x�ɂȂ肦�܂��B<br>
+　順番について私がもし考えるとすると、第２２夜はＳＳ、第２３夜は漫画、第２４夜がＳＳフラッシュ（以下、ＳＳ、漫画、隠しフラッシュと表記します）となってますが、漫画とフラッシュの順番を入れ替えます。<br>
+　理由は二つありますが、一つ目は見た目、漫画のインパクトが強く、隠しフラッシュのインパクトが弱い。おそらく、作者的には隠しフラッシュが一番のインパクトと思っているでしょうが、それは隠しフラッシュまで見てのこと。しかし、全員が隠しフラッシュを見るとは限らないことも考えなければいけません（そして、隠しフラッシュを見せる工夫が不足しているように思えますが、これは後述）。<br>
+　よく誤解されるのですが、最後に最大のインパクトを持ってくることが当然と思われるかもしれません。実はそれはちょっと違うのです。<br>
+　本当はインパクトの質を考えての順番を決めてやらねばなりません。漫才や落語などの前座、中トリ、大トリと同じです。漫画のインパクトはわかりやすいインパクトで、隠しフラッシュのはネタとしてのインパクトです。<br>
+　面白さは隠しフラッシュの方が上でも、『わかりにくい』欠点があります。前座で軽く場を暖め、中トリで笑わせ、大トリで納得させる。大トリが大物なのはその名前だけで客を引き止めておけるからです。大トリで必要なのはわかりやすいインパクトの強さ（例では『有名』というインパクト）なのです。もちろん、大トリはそれでいて一定レベル以上面白くなくてはいけませんが。<br>
+　そういう理由から、ＳＳ、隠しフラッシュ、漫画の順番の方がよいと考えます。<br>
+　二つ目の理由は、リンクをクリックさせる工夫としての入れ替えです。<br>
+　ＳＳを読み終わり、そのまま隠しフラッシュのＳＳに入る。オチが変だなと思うところに、感想掲示板のリンク、その下には次の漫画。なぜ途中に感想掲示板のリンクが？　と不審に思ったところへ隠しフラッシュのＳＳをふと思い出して、クリックする——<br>
+　読者の思考の流れを考えると、こうすれば自然とクリックされる可能性が高まると思います。<br>
+　読者は必ず感想掲示板のリンクをクリックするとは限らない。したがって、それがネタである事を半バラし状態にすべきだったと思います。前述したように、明らかに不自然な感想掲示板のリンクなら、「何かわからないけど、何かある」と思わせれます。<br>
+　ネタには「必ず見せないといけないネタ」と「気がつかれなくてもいいネタ」の二種類があります。今回は「必ず〜」のネタです。ですが、どちらかというと今回の演出は読者をびっくりさせようとして隠蔽を強めてしまっているように見えます。これは失敗と思えます。<br>
+　また、クリックを繰り返すという作中の描写が弱く、印象が薄いです。隠しフラッシュのポップアップを表示させた段階で止まる危険性も考慮すべきでしょう。印象を強めるか、クリックを無くすか工夫が必要と思われます。<br>
+　相乗効果についてですが、三つの話をセットにしていますが、その関連性が薄いのは少々残念に思えました。相乗効果といっても、話がクロスする必要はなく、ちょっとしたお遊び的にでも三つの話に共通事項を盛り込めば面白みが増し、三つの話がワンセットとして印象に残ると思います。<br>
+　主人公の名前が同じだったり、脇役の一人が三話共通だったり、小道具で同じ物（それが重要アイテムでなくてもいい）が登場したり……という感じで。<br>
+　オムニバスだから関連性はなくてよいのですが、繋げてやることで「思いつきで三話作った」という印象が薄れ、うまくいけば「計算されて作られた三話」という印象を持ってくれるかもしれません。それだけでも、読者に「なかなかやるな」と思わせる『ネタ』になりえます。<br>
 <br>
-�@�����炭�A����͋G�߂��̂Ƃ������Ƃ�����A���ԓI�ɒǂ��Ă��ė�ÂɂȂ鎞�Ԃ�����Ȃ������̂��Ǝv���܂��B<br>
-�@���X�ƈ̂����Ȏ��������܂��Đ\���󂠂�܂���B���̂Ƃ���A�����l�^�����o����̂͏��ł͂Ȃ��A����C���̓��X�ł��B���݂��Ɋ撣��܂��傤�B<br>
-�@�����Ɋ��҂��Ă���܂��B<br>
+　おそらく、今回は季節ものということもあり、時間的に追われていて冷静になる時間が足りなかったのだと思います。<br>
+　長々と偉そうな事を言いまして申し訳ありません。実のところ、私もネタを演出するのは上手ではなく、日夜修練の日々です。お互いに頑張りましょう。<br>
+　次回作に期待しております。<br>
 </font>
 <p><a href="http://minafumi.wb.puresilk.ac/" target="_top">http://minafumi.wb.puresilk.ac/</a>
 </td></table>
@@ -114,28 +114,28 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[116]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/14 (��) 21:40:42 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509143214042&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509143214042"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/14 (水) 21:40:42 <strong>▽</strong> 仮 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509143214042_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200509143214042"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A������A�d�|���Ƃ����̂�Flash��������ł����B���݂܂���A���̏ꍇActiveX�n�̋@�\�i�ł����̂��H�j����ĂȂ��̂ŁA���̍��܂őS�R�C�t���܂���ł����B</font>
+<font size=3 color=#606060>ああ、成る程、仕掛けというのはFlashだったんですか。すみません、私の場合ActiveX系の機能（でいいのか？）入れてないので、今の今まで全然気付きませんでした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[115]</font> <font size=4 color=#40c0c0> �ʔ��������Ǝv���܂���B</font>
+<font size=2>[115]</font> <font size=4 color=#40c0c0> 面白かったと思いますよ。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/14 (��) 16:26:28 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509143162628&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509143162628"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/14 (水) 16:26:28 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509143162628_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200509143162628"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���A���^�C���œǂނ͍̂��N�����߂Ăł����A�[��ToSi�`���̓V���[�Y��ʂ��Ċy���܂��Ē����Ă���܂��B���N�͖��悪�����Ă�����AFlash�������Ă�����ō��؂ł���ˁB����Ƃ��ẮA�\���ɖʔ��������Ǝv���܂��B<br>
-�@�����āA�d�|���ň����Ƃ����������΁A�u��R�N���b�N���Ȃ��Ǝd�|�����O�ɐi�܂Ȃ��v�Ƃ����Ƃ���ł��傤���H����̗���͂��R�����������A�ŏ��̓N���b�N����Ή�ʂ��i�ނ̂��ƋC���t���Ȃ��������炢�ł��B���ꂪ�A�����Ŋ��炩�ɐi��ł��ꂽ������ƕ�����₷���������Ǝv���܂��B<br>
-�@���ƁA���悪�Ԃɓ����Ă�������������̂ł��傤���A���ƂȂ��e�ʂ����Ȃ��C�����܂����B���ۂ͋t�ɐ��肾������i�����Flash�j���Ƃ������Ƃ͗����ł���̂ł����A���o�I�ɐH�ב���Ȃ������Ȃ�ł���ˁB���͕���������Ɉ�������ď��Ȃ����炩������܂���B<br>
-�@�t�قȈӌ��ł����A�����̂����ɗ��Ă΍K���ł��B</font>
+<font size=3 color=#606060>　リアルタイムで読むのは今年が初めてですが、納涼ToSi伝説はシリーズを通して楽しませて頂いております。今年は漫画が入っていたり、Flashが入っていたりで豪華ですよね。鈴忌としては、十分に面白かったと思います。<br>
+　敢えて、仕掛けで悪いところを挙げれば、「沢山クリックしないと仕掛けが前に進まない」というところでしょうか？鈴忌の理解力が乏しいせいか、最初はクリックすれば画面が進むのだと気が付かなかったぐらいです。あれが、自動で滑らかに進んでくれたらもっと分かりやすかったかと思います。<br>
+　あと、漫画が間に入っていたせいもあるのでしょうが、何となく容量が少ない気がしました。実際は逆に盛りだくさん（漫画やFlash）だということは理解できるのですが、感覚的に食べ足りない感じなんですよね。文章部分が漫画に圧迫されて少ないからかもしれません。<br>
+　稚拙な意見ですが、何かのお役に立てば幸いです。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
@@ -143,19 +143,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[114]</font> <font size=4 color=#40c0c0> ���N�̔[���s���r���`��VIII</font>
+<font size=2>[114]</font> <font size=4 color=#40c0c0> 今年の納涼ＴｏＳｉ伝説VIII</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/14 (��) 08:02:58 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509143080258&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509143080258"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/14 (水) 08:02:58 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509143080258_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200509143080258"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���܂�ʔ����Ȃ������ł��傤���H<br>
-����͂s�|�R�~�����^�c�ψ��̕��ɗl�X�Ȗ����������Ă������d�|��������Ă��������܂����B<br>
-�l�Ƃ��܂��Ă͐�Ύ󂯂�Ɗm�M���Ĕ��\���܂������A���܂�󂯓�����Ă��Ȃ��悤�ł��B<br>
-���ꂪ�l�̖��S�ɂ���ċN���������ł���Ƃ���Ȃ�A���s�͂����������������ɔ��ɐ\����Ȃ��C�����ł����ς��ł��B<br>
-�������������č���̎d�|���ɂ��ẮA�ʔ����͂����Ƃ����ϐM������܂��ĉ������������̂��킩��Ȃ��Ƃ��������܂��B<br>
-��낵����΂ǂȂ�������̍�i�̈��������Ƃ��낪����΂��������������Ȃ��ł��傤���H<br>
+<font size=3 color=#606060>あまり面白くなかったでしょうか？<br>
+今回はＴ−コミさんや運営委員の方に様々な無理を言っていくつも仕掛けを作っていただきました。<br>
+僕としましては絶対受けると確信して発表しましたが、あまり受け入れられていないようです。<br>
+これが僕の慢心によって起こった事であるとするなら、ご尽力いただいた方たちに非常に申し訳ない気持ちでいっぱいです。<br>
+ただ今だもって今回の仕掛けについては、面白いはずだという妄信もありまして何が悪かったのかわからないところもあります。<br>
+よろしければどなたか今回の作品の悪かったところがあればお教えいただけないでしょうか？<br>
 <br>
 </font>
 </td></table>
@@ -164,17 +164,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[113]</font> <font size=4 color=#40c0c0> �������</font>
+<font size=2>[113]</font> <font size=4 color=#40c0c0> 仮さんへ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/02 (��) 21:50:44 <strong>��</strong> �a�`�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509025215044&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509025215044"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/02 (金) 21:50:44 <strong>▽</strong> ＢＡＦ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509025215044_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200509025215044"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����������i�����ǂ݂����������肪�Ƃ��������܂��B<br>
-�w�d����杁x�́A�����Ɍf�ڂ��Ă������������̍�i�ł�����Ɏv������̂����i�ł��B<br>
-���ۂ̂Ƃ���A��b��������������A�ŏI�ւ܂ł̗���͓��̒��ɂ����ł����A���ꂪ�t�Ɏ��M���ז����Ă���Ƃ������Ȃ�Ƃ������B<br>
-�����A�����̍�i�̒��ł͋C�ɓ����Ă���L�����������̂Ŏv���o�����悤�ɑ��҂��������\��������̂ł��̎��͂�낵�����肢���܂��B<br>
+<font size=3 color=#606060>懐かしい作品をお読みいただきありがとうございます。<br>
+『妖魔奇譚』は、ここに掲載していただいた初の作品であり非常に思い入れのある作品です。<br>
+実際のところ、一話を書いた時から、最終輪までの流れは頭の中にあるんですが、それが逆に執筆を邪魔しているというかなんというか。<br>
+ただ、自分の作品の中では気に入っているキャラが多いので思い出したように続編がかかれる可能性があるのでその時はよろしくお願いします。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -185,11 +185,11 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[112]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/02 (��) 10:01:09 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509025100109&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509025100109"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/02 (金) 10:01:09 <strong>▽</strong> 仮 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509025100109_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200509025100109"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���C�ɁA�T��Ō����|����������|�������̂ŁA���X�Ȃ���Ɂw�d����杁x�ǂ܂��Ă��������܂����B�ǂ������ł��B���������������C������܂�����A�ǂ�ł݂����ł��B<br>
+<font size=3 color=#606060>何気に、探偵で検索掛けたら引っ掛かったので、今更ながらに『妖魔奇譚』読ませていただきました。良かったです。もし続き書かれる気がありましたら、読んでみたいです。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -197,47 +197,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[111]</font> <font size=4 color=#40c0c0> ���ǂ݂����������肪�Ƃ��������܂��B</font>
+<font size=2>[111]</font> <font size=4 color=#40c0c0> お読みいただきありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/09/01 (��) 11:37:44 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200509014113744&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200509014113744"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/09/01 (木) 11:37:44 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200509014113744_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200509014113744"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������ǂ�ł����������肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>今回も読んでいただきありがとうございます。<br>
 <br>
-<font color="#ff88cc">���悵��������<br>
-��BAF����̂��̃V���[�Y��ǂނƉĂ̏I���������܂��B</font><br>
+<font color="#ff88cc">＞よしおかさん<br>
+＞BAFさんのこのシリーズを読むと夏の終わりを感じます。</font><br>
 <br>
-����[�A�ꉞ�������Ɍ��J�ł��ėǂ������ł��B�^�c�ψ��̕��ɂ������������ĐF�X�Ȏd�|��������Ă�����Ă��܂��܂�������B�܂��A�����[�����Ď����ł͂Ȃ���������܂��񂪂��������������B<br>
+いやー、一応八月中に公開できて良かったです。運営委員の方にも無理を言って色々な仕掛けをやってもらってしまいましたから。まあ、もう納涼って時期ではないかもしれませんがお許しください。<br>
 <br>
-<font color="#ff88cc">��T�[�R�~����</font><br>
+<font color="#ff88cc">＞Tーコミさん</font><br>
 <br>
-���[�A�ꉞ�s�|�R�~�͓�̂s�r��i�N���G�[�^�[�W�c�Ă��Ƃł�낵�����肢���܂��B<br>
+あー、一応Ｔ−コミは謎のＴＳ作品クリエーター集団てことでよろしくお願いします。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U����<br>
-�����₟�A���ɂ̉Ă͂���ł���B</font><br>
+<font color="#ff88cc">＞ｍｋ８４２６さん<br>
+＞いやぁ、文庫の夏はこれですよ。</font><br>
 <br>
-���������Ă���������Ƃ��ꂵ���ł��B<br>
+そういっていただけるとうれしいです。<br>
 <br>
-<font color="#ff88cc">������ɂ��Ă��A���\�l��̃I�`�́E�E�E�Ǝv������v��ʂƂ���Ƀl�^���E�E�E�i�΁j�B<br>
-�������ȈӖ��Ŋy���܂��Ē����܂�����</font><br>
+<font color="#ff88cc">＞それにしても、第二十四夜のオチは・・・と思ったら思わぬところにネタが・・・（笑）。<br>
+＞いろんな意味で楽しませて頂きました♪</font><br>
 <br>
-������Ƃ�肷�������ȂƂ����C�����܂��B���N�̃l�^������ȏ��|����ɂȂ��Ă��܂�����ǂ����悤���ƁE�E�E�B�i��΁j<br>
+ちょっとやりすぎたかなという気がします。来年のネタがこれ以上大掛かりになってしまったらどうしようかと・・・。（苦笑）<br>
 <br>
 <br>
-<font color="#ff88cc">���J�M���b�R����<br>
-�����̃V���[�Y�A����q�ǂ��Ă��܂����s�r�̕s�𗝐���g�ݍ��񂾃z���[�Ƃ��Ă͂Ȃ��Ȃ��ł��B</font><br>
+<font color="#ff88cc">＞カギヤッコさん<br>
+＞このシリーズ、毎回拝読していますがＴＳの不条理性を組み込んだホラーとしてはなかなかです。</font><br>
 <br>
-���������Ă��炦��Ƃ��肪�����ł��B<br>
+そういってもらえるとありがたいです。<br>
 <br>
-<font color="#ff88cc">���O�b�ځc��̘b�ɂȂ���ꍇ�A�u���Ȃ����v�ł͂Ȃ��u���Ȃ��v�ɂ��������悩���������ł��ˁB�i��΁j</font><br>
-�@������́u���Ȃ��́c�v�ł����B<br>
+<font color="#ff88cc">＞三話目…例の話につなげる場合、「あなたを」ではなく「あなた」にした方がよかったかもですね。（苦笑）</font><br>
+　あちらは「あなたの…」ですし。<br>
 <br>
-���Ăł́u���Ȃ��v�������̂ł����A�ǂ����r���ŕς����邵���̂ق����C���p�N�g�����邩�ȂƎv�����̂悤�ɂ��Ă݂܂����B<br>
-�l�^�΂������ł��邵�Ǝv�����̂ł����A�Ȃ�قǁA����͎Q�l�ɂ����Ă��������܂��B<br>
+原案では「あなた」だったのですが、どうせ途中で変えられるしこのほうがインパクトがあるかなと思いこのようにしてみました。<br>
+ネタばれも回避できるしと思ったのですが、なるほど、次回は参考にさせていただきます。<br>
 <br>
-�Ō�ɂȂ�܂���������͉^�c�ψ��̕��X�ɂ�����Ȃ��s�͂��������܂��Ă��肪�Ƃ��������܂����B<br>
+最後になりましたが今回は運営委員の方々にも多大なご尽力いただきましてありがとうございました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -245,46 +245,46 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[110]</font> <font size=4 color=#40c0c0> �͂��߂܂���</font>
+<font size=2>[110]</font> <font size=4 color=#40c0c0> はじめまして</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/31 (��) 21:45:18 <strong>��</strong> �J�M���b�R </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508313214518&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508313214518"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/31 (水) 21:45:18 <strong>▽</strong> カギヤッコ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508313214518_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200508313214518"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���̃V���[�Y�A����q�ǂ��Ă��܂����s�r�̕s�𗝐���g�ݍ��񂾃z���[�Ƃ��Ă͂Ȃ��Ȃ��ł��B<br>
+<font size=3 color=#606060>　このシリーズ、毎回拝読していますがＴＳの不条理性を組み込んだホラーとしてはなかなかです。<br>
 <br>
-�@����̈�b�ځc���Ă��̂������Ő��F�ُ̈�c�܂Ƃ��ɍl����Ƃ���Ȋ����ł����ǁA���Ȃ肷�����A�C�f�A�ł��ˁB<br>
-�@��b�ځc����Ӗ������ł͂���܂����A�������ꂪ�t�\�����Ă����̂��ޏ��̊�ł͂Ȃ��e�F�̑̂�������c�ǂ��Ȃ�܂����B<br>
-�@�O�b�ځc��̘b�ɂȂ���ꍇ�A�u���Ȃ����v�ł͂Ȃ��u���Ȃ��v�ɂ��������悩���������ł��ˁB�i��΁j<br>
-�@������́u���Ȃ��́c�v�ł����B<br>
+　今回の一話目…日焼けのしすぎで染色体異常…まともに考えるとそんな感じですけど、かなりすごいアイデアですね。<br>
+　二話目…ある意味王道ではありますが、もしこれが逆—落ちていたのが彼女の顔ではなく親友の体だったら…どうなりますやら。<br>
+　三話目…例の話につなげる場合、「あなたを」ではなく「あなた」にした方がよかったかもですね。（苦笑）<br>
+　あちらは「あなたの…」ですし。<br>
 <br>
-�@�F�X�����Ă��܂��܂������A�Ȃ��Ȃ��̍�i�A���肪�Ƃ��������܂��B</font>
+　色々書いてしまいましたが、なかなかの作品、ありがとうございます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[109]</font> <font size=4 color=#40c0c0> ����`�Ăł��˂�</font>
+<font size=2>[109]</font> <font size=4 color=#40c0c0> いや〜夏ですねぇ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/08/30 (��) 20:35:18 <strong>��</strong> �悵���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200508302203518&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200508302203518"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/08/30 (火) 20:35:18 <strong>▽</strong> よしおか </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200508302203518_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200508302203518"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>BAF����̂��̃V���[�Y��ǂނƉĂ̏I���������܂��B�E�E�E�āA���������Ă���ꍇ����Ȃ������B�ʔ��������I����A�ق�ƁB<br>
-�܂����A���z���猩�Ă���l�͂��Ȃ��Ƃ͎v���܂����A�΂����I�����A�����悶��邩�ƁE�E�E�āA�Ⴄ�́H<br>
-�������l�Ă�������ďo����񂾁B<br>
-����ɂ��̖���B�Ղӂ�<br>
-�����āA�Ō�̥��T�[�r�X���_�ŁA�����ĂɃC�����Ă��܂������A�΂��ĖY��Ă��܂��܂����B<br>
-BAF����AT�[�R�~����A���肪�Ƃ��������܂����B�v���o������܂��E�E�E��̯</font>
+<font size=3 color=#606060>BAFさんのこのシリーズを読むと夏の終わりを感じます。・・・て、落ち着いている場合じゃなかった。面白かった！いや、ほんと。<br>
+まさか、感想から見ている人はいないとは思いますが、笑った！もう、腹がよじれるかと・・・て、違うの？<br>
+小麦美人てこうやって出来るんだ。<br>
+それにあの漫画。ぷふっ<br>
+そして、最後の･･サービス満点で、暑い夏にイラついていましたが、笑って忘れてしまいました。<br>
+BAFさん、Tーコミさん、ありがとうございました。思い出したらまた・・・ﾌﾟﾌｯ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="baf">
@@ -292,16 +292,16 @@ BAF����AT�[�R�~����A���肪�Ƃ��������܂����B�v���o������܂��E�E�E��̯</font>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="baf">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=baf">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_baf.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

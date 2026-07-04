@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�閲�����i�@���z�f����</title>
+<title>夜夢さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�閲�����i�@���z�f����</font>
+<font size=5>夜夢さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yamu">
 <input type=hidden name="nj" value="3IlzZX8jrW">
 <input type=hidden name="res" value="152">
-<h4 align=center>�� �L���ԍ� 152 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 152 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �d�g�d������
-&gt; �����A��������Ă��Ƃ͂�����t�F���������o���܂�����Ă킯�ł��ȁB����Ől�C���ł�Ɓc�B�ނӁc�˂�����������������������񂾂ˁc�B����ł��������ĂƂ��낪�f�G�B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだよ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 電波妖精さん
+&gt; おお、発情期ってことはいわゆるフェロモンを出しまくりってわけですな。それで人気がでると…。むふ…ねこちゃんも厳しい時期があるんだね…。それでも乙女ってところが素敵。
 &gt; 
-&gt; �ɂ��Ă����ƒ��ɂ����Ȃ�Z�t�B���g�̖؂��łĂ���Ȃ�āc���܂����łB</textarea><br>
+&gt; にしても授業中にいきなりセフィロトの木がでてくるなんて…凄まじいでつ。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,67 +47,67 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[157]</font> <font size=4 color=#40c0c0> �����̂����z���肪�Ƃ��������܂��B</font>
+<font size=2>[157]</font> <font size=4 color=#40c0c0> 早速のご感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/12 (��) 18:25:36 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306124182536&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306124182536"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/12 (木) 18:25:36 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306124182536_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200306124182536"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ł��B<br>
-���̍��́A�挎���ɍw�������u�d�]��@�o�[�`�������@�}�[�Y�v����荞��ł���܂��B<br>
-�E�E�E�}�C�U�[�̃E�F�u���C�_�[�`�ԂɂȂ�R�}���h�͂ǂ�����񂾁I�E�E�E�Ƃ��A<br>
-�E�E�E�G���W�F�̃G�N���[�W�����E���[�h�͂ǂ�������o����񂾁I�E�E�E�Ƃ��A<br>
-�ƌ������Ƃ����v���Ă��鏊�ł��B<br>
-�i��^�E�E�E�����Ŏ��M���x���ɒ[�ɗ����Ă܂��E�E�E�i���j�j<br>
+<font size=3 color=#606060>どうも、夜夢です。<br>
+この頃は、先月末に購入した「電脳戦機バーチャロン　マーズ」をやり込んでおります。<br>
+・・・マイザーのウェブライダー形態になるコマンドはどうするんだ！・・・とか、<br>
+・・・エンジェのエクロージョン・モードはどうしたら出せるんだ！・・・とか、<br>
+と言うことをつらつら思っている所です。<br>
+（暮／・・・お蔭で執筆速度が極端に落ちてます・・・（呆））<br>
 <br>
-�Ƃ�����E�E�E<br>
-�Ђ̂ЂƗl�A�d�g�d���l�AROM�l�Amk8426�l�A�����̂����z���肪�Ƃ��������܂��B<br>
+ともあれ・・・<br>
+ひのひと様、電波妖精様、ROM様、mk8426様、早速のご感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�u��������I�@����Ȃ猩�����Ƃ��邺�I�v<br>
-&gt;�܂����A��O�V�����s�̏��Łc�c�Ȃ�Ă͂��͖����ł��傤���ǂ��B</font><br>
-�E�E�E�i�J�n�C�^�����q�j�E�E�E�ł��A���̍�i�̂����Œm�����l�A���\����悤�ȋC������E�E�E�i�Ӗ��������Ɨ����ł��邩�͕ʂƂ��āE�E�E�j<br>
+<font color="#cc88ff">&gt;「おっしゃ！　これなら見たことあるぜ！」<br>
+&gt;まさか、第三新東京市の上空で……なんてはずは無いでしょうけども。</font><br>
+・・・（カハイタワラヒ）・・・でも、あの作品のお蔭で知った人、結構いるような気がする・・・（意味をちゃんと理解できるかは別として・・・）<br>
 <br>
-<font color="#ff88cc">���ɂ��Ă����ƒ��ɂ����Ȃ�Z�t�B���g�̖؂��łĂ���Ȃ�āc���܂����łB<br>
-���������h�N�g���̍u�`���āA���񂱂�Ȃ̂��H�i���΁j�B</font><br>
-�E�E�E�͂��E�E�E������A����ȕ��ɖ����ꒃ�ȒE�����N�����̂ŁA�u�`�J�n30�����o�߂�����ɃL�`���ƕ����Ă����u���͖w�ǖ����Ȃ��ł���ˁE�E�E�������́E�E�E<br>
+<font color="#ff88cc">＞にしても授業中にいきなりセフィロトの木がでてくるなんて…凄まじいでつ。<br>
+＞しかしドクトルの講義って、毎回こんなのか？（爆笑）。</font><br>
+・・・はい・・・だから、こんな風に無茶苦茶な脱線を起こすので、講義開始30分を経過した後にキチンと聞いている受講生は殆ど無くなるんですよね・・・何時もは・・・<br>
 <br>
-<font color="#cc88ff">&gt;���₟�B�ǂݎn�߂āA�u�Ђ���Ƃ�����v�Ǝv���Ă͂����̂ł����ǁA����ς肻���������̂ł��� (^_^;) �B<br>
-&gt;���̐��X��z������Ɓc�c�]���A�\���������ȋC�����܂����ǂ��c�c�B</font><br>
-<font color="#ff88cc">�������A��������Ă��Ƃ͂�����t�F���������o���܂�����Ă킯�ł��ȁB����Ől�C���ł�Ɓc�B</font><br>
-<font color="#cc88ff">&gt;�Ȃ񂩃��ȈӖ��ł́u�Ŕ��v��Ԃł��ȥ��</font><br>
-<font color="#ff88cc">����͂͂͂́I<br>
-�����[��[�̂��܂��u������v�l�^�̑�햡�ł��Ȃ��i�΁j�B</font><br>
-���肪�Ƃ��������܂��B�P���m���Ȃ��b�ł͂���Ӗ���Ԃł�����ˁB<br>
-�E�E�E���āA������ʃp�^�[���ŁA������l�^�Ȃ��b������\��ł��E�E�E������A�y���݂ɂ��Ē�����Ί������ł��ˁB<br>
+<font color="#cc88ff">&gt;いやぁ。読み始めて、「ひょっとしたら」と思ってはいたのですけど、やっぱりそうだったのですね (^_^;) 。<br>
+&gt;受難の数々を想像すると……脳内、暴走しそうな気がしますけども……。</font><br>
+<font color="#ff88cc">＞おお、発情期ってことはいわゆるフェロモンを出しまくりってわけですな。それで人気がでると…。</font><br>
+<font color="#cc88ff">&gt;なんかヤな意味での「看板娘」状態ですな･･･</font><br>
+<font color="#ff88cc">＞わはははは！<br>
+＞こーゆーのもまた「発情期」ネタの醍醐味ですなぁ（笑）。</font><br>
+ありがとうございます。ケモノ娘なお話ではある意味定番ですからね。<br>
+・・・さて、もう一つ別パターンで、発情期ネタなお話をする予定です・・・それも、楽しみにして頂ければ嬉しいですね。<br>
 <br>
-<font color="#ff88cc">���ނӁc�˂�����������������������񂾂ˁc�B����ł��������ĂƂ��낪�f�G�B</font><br>
-�E�E�E�i�J�n�C�^�����q�j<br>
-�ޏ��̏ꍇ�A�N�Ɏl����e���̎����f�ɂȂ���̂ł�����A���̎����̒����ɁA�Q���݂��P����j���w�E�E�E�i�P������Č����̂��Ȃ�ł����E�E�E�j<br>
-����Ȓ��ŁA���Ƃ��g�����i���́E�E�E�͕����Ȃ��ŉ������ˁi�΁j�j�h�ŏI�点�Ă���̂́A�����w�͂��v��܂���ˁB<br>
-�i�ł��E�E�E����ɋ��͓I�łȂ�������l�A��l�E�E�E�E�E�E�i������܂��H�j�j</font>
+<font color="#ff88cc">＞むふ…ねこちゃんも厳しい時期があるんだね…。それでも乙女ってところが素敵。</font><br>
+・・・（カハイタワラヒ）<br>
+彼女の場合、年に四回も‘あの時期’になるものですから、その時期の朝方に、寝込みを襲われる男性陣・・・（襲われるって言うのもなんですが・・・）<br>
+そんな中で、何とか“未遂（何の・・・は聞かないで下さいね（笑））”で終らせているのは、凄い努力が要りますよね。<br>
+（でも・・・それに協力的でない方が一人、二人・・・・・・（分かります？））</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[156]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[156]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/08 (��) 22:44:17 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306080224417&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306080224417"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/08 (日) 22:44:17 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306080224417_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200306080224417"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��͂͂͂́I<br>
-���[��[�̂��܂��u������v�l�^�̑�햡�ł��Ȃ��i�΁j�B<br>
-�������h�N�g���̍u�`���āA���񂱂�Ȃ̂��H�i���΁j�B<br>
+<font size=3 color=#606060>わはははは！<br>
+こーゆーのもまた「発情期」ネタの醍醐味ですなぁ（笑）。<br>
+しかしドクトルの講義って、毎回こんなのか？（爆笑）。<br>
 <br>
-����͂������A���̍�i�Ɠ������ɏオ���Ă鑼�̍�i�̊��z���A���郏�^�N�V���J�L�R����܂łP�{�����������̂́A�����̓��킢�l���炷��ƈٗl�Ɍ�����̂����E�E�E�B<br>
+それはいいが、この作品と同時期に上がってる他の作品の感想が、今夜ワタクシがカキコするまで１本も無かったのは、ここの賑わい様からすると異様に見えるのだが・・・。<br>
 <br>
-�E�E�E<br>
+・・・<br>
 <br>
-��s���Y��Ă���i���j</font>
+愚痴だ忘れてくれ（爆）</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -115,33 +115,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[155]</font> <font size=4 color=#40c0c0> �ނ��B</font>
+<font size=2>[155]</font> <font size=4 color=#40c0c0> むう。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/07 (�y) 23:38:25 <strong>��</strong> ROM </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306076233825&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306076233825"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/07 (土) 23:38:25 <strong>▽</strong> ROM </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306076233825_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200306076233825"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂩃��ȈӖ��ł́u�Ŕ��v��Ԃł��ȥ��</font>
+<font size=3 color=#606060>なんかヤな意味での「看板娘」状態ですな･･･</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[154]</font> <font size=4 color=#40c0c0> Re2:�u��������I�@����Ȃ猩�����Ƃ��邺�I�v</font>
+<font size=2>[154]</font> <font size=4 color=#40c0c0> Re2:「おっしゃ！　これなら見たことあるぜ！」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/07 (�y) 19:28:56 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306076192856&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306076192856"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/07 (土) 19:28:56 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306076192856_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200306076192856"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �u�ł�����v���ƈӖ�������Ă��܂��̂ŁA�u����������v�̈Ӗ��ő���<br>
-&gt; ���܂����B</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 「焦ったり」だと意味が違ってきますので、「汗かいたり」の意味で造語<br>
+&gt; しました。</font><br>
 <br>
-�Ȃ�قǁA�����������Ƃ������̂ł����B<br>
-���͕s�]�Ƃ͐\���܂��񂯂ǁA�����ȂƂ��돭�������Ȋ������󂯂܂����B<br>
-�܂��A���̎�̃L���b�`�͓�����̂ł͂���̂ł�����ǁc�c�B<br>
+なるほど、そういうことだったのですか。<br>
+私は不評とは申しませんけど、正直なところ少し微妙な感じを受けました。<br>
+まあ、この手のキャッチは難しいものではあるのですけれど……。<br>
 <br>
 <br>
 </font>
@@ -151,58 +151,58 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[153]</font> <font size=4 color=#40c0c0> Re:�u��������I�@����Ȃ猩�����Ƃ��邺�I�v</font>
+<font size=2>[153]</font> <font size=4 color=#40c0c0> Re:「おっしゃ！　これなら見たことあるぜ！」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/07 (�y) 15:44:12 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306076154412&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306076154412"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/07 (土) 15:44:12 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306076154412_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200306076154412"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �u�������芾������B�v���āA���ʂ́u�ł�����v�ł͂Ȃ��ł��傤���H</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 「困ったり汗ったり。」って、普通は「焦ったり」ではないでしょうか？</font><br>
 <br>
-�u�ł�����v���ƈӖ�������Ă��܂��̂ŁA�u����������v�̈Ӗ��ő���<br>
-���܂����B�ق��������ȁH�s�]�ł�����A�����܂��B<br>
+「焦ったり」だと意味が違ってきますので、「汗かいたり」の意味で造語<br>
+しました。拙かったかな？不評でしたら、直します。<br>
 <br>
-�܂��A�C���X�g��҂̖��O�������Ă��Ȃ������̂ŁA��قǒǉ����܂����B<br>
+また、イラスト作者の名前が入っていなかったので、先ほど追加しました。<br>
 <br>
-�t�o�W�E�Ԗ�</font>
+ＵＰ係・赤目</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[152]</font> <font size=4 color=#40c0c0> �ǂ񂾂�</font>
+<font size=2>[152]</font> <font size=4 color=#40c0c0> 読んだよ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/07 (�y) 12:38:46 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306076123846&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306076123846"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/07 (土) 12:38:46 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306076123846_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200306076123846"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A��������Ă��Ƃ͂�����t�F���������o���܂�����Ă킯�ł��ȁB����Ől�C���ł�Ɓc�B�ނӁc�˂�����������������������񂾂ˁc�B����ł��������ĂƂ��낪�f�G�B<br>
+<font size=3 color=#606060>おお、発情期ってことはいわゆるフェロモンを出しまくりってわけですな。それで人気がでると…。むふ…ねこちゃんも厳しい時期があるんだね…。それでも乙女ってところが素敵。<br>
 <br>
-�ɂ��Ă����ƒ��ɂ����Ȃ�Z�t�B���g�̖؂��łĂ���Ȃ�āc���܂����łB</font>
+にしても授業中にいきなりセフィロトの木がでてくるなんて…凄まじいでつ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[151]</font> <font size=4 color=#40c0c0> �u��������I�@����Ȃ猩�����Ƃ��邺�I�v</font>
+<font size=2>[151]</font> <font size=4 color=#40c0c0> 「おっしゃ！　これなら見たことあるぜ！」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/07 (�y) 04:44:36 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306076044436&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306076044436"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/07 (土) 04:44:36 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306076044436_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200306076044436"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂����A��O�V�����s�̏��Łc�c�Ȃ�Ă͂��͖����ł��傤���ǂ��B<br>
-���₟�B�ǂݎn�߂āA�u�Ђ���Ƃ�����v�Ǝv���Ă͂����̂ł����ǁA����ς肻���������̂ł��� (^_^;) �B<br>
-���̐��X��z������Ɓc�c�]���A�\���������ȋC�����܂����ǂ��c�c�B<br>
+<font size=3 color=#606060>まさか、第三新東京市の上空で……なんてはずは無いでしょうけども。<br>
+いやぁ。読み始めて、「ひょっとしたら」と思ってはいたのですけど、やっぱりそうだったのですね (^_^;) 。<br>
+受難の数々を想像すると……脳内、暴走しそうな気がしますけども……。<br>
 <br>
-����ɂ��Ă��A�~�X�g���X�A�����l�ł��ˁ�<br>
+それにしても、ミストレス、商売人ですね♪<br>
 <br>
-�ǐL (�^�c�ψ������)<br>
-�u�������芾������B�v���āA���ʂ́u�ł�����v�ł͂Ȃ��ł��傤���H<br>
+追伸 (運営委員さんへ)<br>
+「困ったり汗ったり。」って、普通は「焦ったり」ではないでしょうか？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -210,47 +210,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[150]</font> <font size=4 color=#40c0c0> �w�~�X�g���X�Ɗ�Ȓ��ԒB�`����18�x������ɂ͉��̃A�h���X���N���b�N�B</font>
+<font size=2>[150]</font> <font size=4 color=#40c0c0> 『ミストレスと奇妙な仲間達〜その18』を見るには下のアドレスをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/07 (�y) 02:49:12 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306076024912&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306076024912"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/07 (土) 02:49:12 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306076024912_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200306076024912"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �ˑR���e���e�ɂȂ�������B�������芾������B</font>
-<p><a href="http://ts.novels.jp/novel/200112/18123055/mistress18.htm" target="_top">http://ts.novels.jp/novel/200112/18123055/mistress18.htm</a>
+<font size=3 color=#606060>【推薦文】 突然モテモテになった狗美。困ったり汗ったり。</font>
+<p><a href="../../novel/200112/18123055/mistress18.htm" target="_top">http://ts.novels.jp/novel/200112/18123055/mistress18.htm</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[149]</font> <font size=4 color=#40c0c0> �����z�Ƃ��Ԏ����肪�Ƃ��������܂��B</font>
+<font size=2>[149]</font> <font size=4 color=#40c0c0> ご感想とお返事ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/09 (��) 18:50:03 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305095185003&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305095185003"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/09 (金) 18:50:03 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305095185003_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200305095185003"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����΂�́A�閲�ł��B<br>
-�d�g�d���l�A�����z���肪�Ƃ��������܂��B<br>
-�����āAmk8426�l���Ԏ����肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>こんばんは、夜夢です。<br>
+電波妖精様、ご感想ありがとうございます。<br>
+そして、mk8426様お返事ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;���x�݂Ɏ��O�̃n���h�w���h��AirH"�ŃJ�L�R���Ă邾���ł�����A���S�z�ɂ͋y�т܂��ʁB<br>
-&gt;����ɁA�Qch�␬�l�T�C�g�E�L���T�C�g�łȂ���d���p�@����ł����č\��Ȃ��Ƃ���ł�����܂���</font><br>
-�E�E�E���������킯�ł������E�E�E�[���v���܂����B�����炱���]�v�Ȏ������������̂ŃX�~�}�Z�k�E�E�E<br>
+<font color="#cc88ff">&gt;昼休みに自前のハンドヘルドとAirH"でカキコしてるだけですから、ご心配には及びませぬ。<br>
+&gt;それに、２chや成人サイト・有料サイトでなきゃ仕事用機からでも見て構わないところでもありますし</font><br>
+・・・そう言うわけでしたか・・・納得致しました。こちらこそ余計な事を言ったものでスミマセヌ・・・<br>
 <br>
-<font color="#ff88cc">������[���G���R���B<br>
-�����@�퓬�V�[�������ɔ��M���Ă���ˁB</font><br>
-�E�E�E���肪�Ƃ��������܂��B���������ĖႦ��Ɗ������ł��B<br>
+<font color="#ff88cc">＞うわーい萌え燃え。<br>
+＞魔法戦闘シーンが実に白熱しているね。</font><br>
+・・・ありがとうございます。そう言って貰えると嬉しいです。<br>
 <br>
-<font color="#ff88cc">���܂��A������Ɛɂ����̂͂����Ɠ���V�[���𑝂₷�ׂ��A�Ƃ������Ƃ��ȁB<br>
-���ڈ��Ƃ��Ă͂��������퓬�V�[���Ɠ������炢�����������B<br>
-����������������Ɨe�ʂ����[����Ȃ�������㩁B<br>
-�����[�ށA����Ƃ��낾�ˁB</font><br>
-�E�E�E�E�E�E�i�J�n�C�^�����q�j�E�E�E�m���ɐ퓬�O�̃V�[���Ɛ퓬�V�[���̔䂪�΂�߂��Ă��邫�炢���E�E�E����܂��ˁB<br>
-�E�E�E���̏��A��B�̉ċx�݂̍s����`�ʂ���}�i�E�E�E����Ȃ��ċC�͂��Ȃ�������ł���E�E�E�i��΁j<br>
-����͒��X�̃o�����X�ɁE�E�E�Ȃ�Ɨǂ��Ȃ��`�`�i�E�E�E�����w�͂��܂��B�j<br>
+<font color="#ff88cc">＞まあ、ちょっと惜しいのはもっと日常シーンを増やすべし、ということかな。<br>
+＞目安としてはだいたい戦闘シーンと同じぐらいがいいかも。<br>
+＞しかしそうすると容量が半端じゃなく増える罠。<br>
+＞うーむ、難しいところだね。</font><br>
+・・・・・・（カハイタワラヒ）・・・確かに戦闘前のシーンと戦闘シーンの比が偏り過ぎているきらいが・・・ありますね。<br>
+・・・実の所、稲生達の夏休みの行動を描写するマナ・・・じゃなくて気力がなかったんですよ・・・（苦笑）<br>
+次回は程々のバランスに・・・なると良いなぁ〜〜（・・・そう努力します。）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -258,25 +258,25 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[148]</font> <font size=4 color=#40c0c0> �C�[�i�Ǘ�</font>
+<font size=2>[148]</font> <font size=4 color=#40c0c0> イーナ読了</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/08 (��) 20:59:44 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305084205944&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305084205944"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/08 (木) 20:59:44 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305084205944_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200305084205944"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����[���G���R���B<br>
-���@�퓬�V�[�������ɔ��M���Ă���ˁB<br>
-�܂��A������Ɛɂ����̂͂����Ɠ���V�[���𑝂₷�ׂ��A�Ƃ������Ƃ��ȁB<br>
-�ڈ��Ƃ��Ă͂��������퓬�V�[���Ɠ������炢�����������B<br>
-��������������Ɨe�ʂ����[����Ȃ�������㩁B<br>
-���[�ށA����Ƃ��낾�ˁB�Ƃ����ꑱ��������΁B</font>
+<font size=3 color=#606060>うわーい萌え燃え。<br>
+魔法戦闘シーンが実に白熱しているね。<br>
+まあ、ちょっと惜しいのはもっと日常シーンを増やすべし、ということかな。<br>
+目安としてはだいたい戦闘シーンと同じぐらいがいいかも。<br>
+しかしそうすると容量が半端じゃなく増える罠。<br>
+うーむ、難しいところだね。ともあれ続きもがんば。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yamu">
@@ -284,16 +284,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yamu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yamu">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yamu.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -131,7 +131,7 @@ link<input type=checkbox name="link" value="1" checked>
 <td nowrap align=right><font size=3>　<a href="bbs@res_200206215232525_log_sakurazawa_sinnji.cgi">返信</a>　削除<input type=checkbox name="target" value="200206215232525"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><a href=http://ts.novels.jp/novel/200206/21231600/green_seed.htm target=_top>http://ts.novels.jp/novel/200206/21231600/green_seed.htm</a><br>
+<font size=3 color=#606060><a href="../../novel/200206/21231600/green_seed.htm" target=_top>http://ts.novels.jp/novel/200206/21231600/green_seed.htm</a><br>
 <br>
 【推薦文】 一体、どのような形でお約束のシーンは来るのでしょう？<br>
 </font>

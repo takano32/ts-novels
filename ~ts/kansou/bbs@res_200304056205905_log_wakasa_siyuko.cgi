@@ -1,52 +1,52 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�ዷ���䂱�����i���z�f����</title>
+<title>若狭しゆこさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�ዷ���䂱�����i���z�f����</font>
+<font size=5>若狭しゆこさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="wakasa_siyuko">
 <input type=hidden name="nj" value="zZA6VvhyD3">
 <input type=hidden name="res" value="2">
-<h4 align=center>�� �L���ԍ� 2 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 2 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���肪�Ɓ[�������܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �ዷ����
-&gt; �� �}�i�~����
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ありがとーございますｖ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 若狭さん
+&gt; ▼ マナミさん
 &gt; 
-&gt; �킴�킴���z���肪�Ƃ��������܂�����
+&gt; わざわざ感想ありがとうございますｖｖ
 &gt; 
-&gt; &gt; ���M�t�@������Ȃ���ł����ǁA����������}�����Ă��܂��܂����B
+&gt; &gt; 東邦ファンじゃないんですけど、すごく感情挿入してしまいました。
 &gt; 
-&gt; ���M���ł͂Ȃ����ɖ�����Œ������ł����B�B�B�ǂ������ł�����
+&gt; 東邦寄りではない方に愉しんで頂けたですか。。。良かったですｖｖ
 &gt; 
-&gt; &gt;���̎q�ɐ��܂�ς��������H�����ł����ł���ˁB
-&gt; &gt; ����Ӗ��A���ɂ̃h���[���ł����B
+&gt; &gt;女の子に生まれ変わったから？結婚できるんですよね。
+&gt; &gt; ある意味、究極のドリームでした。
 &gt; 
-&gt; ���������I�ɂ͌�������̂ł́i�΁j�������O�ɏ������b�Ȃ̂ŕ��͂Ƃ�
-&gt; ������ƁA�A�C�^�^�^�A�Ƃ��������ł����A���[��[�́A�D���Ȃ̂ł�
-&gt; �����̕��ɂ��A������Œ�����Ǝv�킸���m�`�`�I�Ƌ���ŕ����������Ȃ�܂���
-&gt; �ǂ������肪�Ƃ��������܂�����</textarea><br>
+&gt; 多分将来的には結婚するのでは（笑）ずい分前に書いた話なので文章とか
+&gt; 今見ると、アイタタタ、という感じですが、こーゆーの、好きなのでｖ
+&gt; 女性の方にも、愉しんで頂けると思わず同士〜〜！と叫んで抱きつきたくなりますｖ
+&gt; どうもありがとうございましたｖ</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -59,107 +59,107 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �~���U�Ƃ����ƁH</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> ミモザというと？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/29 (��) 21:32:34 <strong>��</strong> �킩�킩 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305294213234&log=wakasa_siyuko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305294213234"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/29 (木) 21:32:34 <strong>▽</strong> わかわか </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305294213234_log_wakasa_siyuko.cgi">返信</a>　削除<input type=checkbox name="target" value="200305294213234"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �悵������<br>
+<font size=3 color=#606060>▼ よしこさん<br>
 <br>
-�͂��߂܂��ā`��<br>
+はじめまして〜ｖ<br>
 <br>
-<font color="#cc88ff">&gt; �~���U���������Ă��āA����Ă��܂����B</font><br>
+<font color="#cc88ff">&gt; ミモザを検索していて、やってきました。</font><br>
 <br>
-���ƁB�~���U�Ƃ����ƁH������́A���������^�C�g���̓��l���o�����悤��<br>
-�C������̂ł����ǁB�B�B�B�܂����A���Ō����́`�H�H<br>
+えと。ミモザというと？何か大昔、そういうタイトルの同人を出したような<br>
+気もするのですけど。。。。まさかアレで検索は〜？？<br>
 <br>
-<font color="#cc88ff">&gt; ��C�ɓǂ݂܂����B<br>
-&gt; ���Ă��Ȃ��b�ł����B<br>
-&gt; ���肪�Ƃ��������܂����B</font><br>
+<font color="#cc88ff">&gt; 一気に読みました。<br>
+&gt; すてきなお話でした。<br>
+&gt; ありがとうございました。</font><br>
 <br>
-�����炱���A�����n�i�V�Ȃ̂Ɉ�C�ɓǂ�ŉ������Ă��肪�Ƃ��������܂���<br>
-�����ł�������Œ�������A�{���ɂ��ꂵ���ł�����<br>
-�킴�킴�̏������݁A���肪�Ƃ��������܂����`��</font>
+こちらこそ、長いハナシなのに一気に読んで下さってありがとうございますｖ<br>
+少しでも愉しんで頂けたら、本当にうれしいですｖｖ<br>
+わざわざの書き込み、ありがとうございました〜ｖ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �͂��߂܂���</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> はじめまして</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/26 (��) 13:47:19 <strong>��</strong> �悵�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305261134719&log=wakasa_siyuko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305261134719"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/26 (月) 13:47:19 <strong>▽</strong> よしこ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305261134719_log_wakasa_siyuko.cgi">返信</a>　削除<input type=checkbox name="target" value="200305261134719"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�~���U���������Ă��āA����Ă��܂����B<br>
-��C�ɓǂ݂܂����B<br>
-���Ă��Ȃ��b�ł����B<br>
-���肪�Ƃ��������܂����B</font>
+<font size=3 color=#606060>ミモザを検索していて、やってきました。<br>
+一気に読みました。<br>
+すてきなお話でした。<br>
+ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> ���肪�Ɓ[�������܂���</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> ありがとーございますｖ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/05 (�y) 20:59:05 <strong>��</strong> <a href="mailto:yel-hap@wa2.so-net.ne.jp">�ዷ</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200304056205905&log=wakasa_siyuko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304056205905"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/05 (土) 20:59:05 <strong>▽</strong> <a href="mailto:yel-hap@wa2.so-net.ne.jp">若狭</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200304056205905_log_wakasa_siyuko.cgi">返信</a>　削除<input type=checkbox name="target" value="200304056205905"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �}�i�~����<br>
+<font size=3 color=#606060>▼ マナミさん<br>
 <br>
-�킴�킴���z���肪�Ƃ��������܂�����<br>
+わざわざ感想ありがとうございますｖｖ<br>
 <br>
-<font color="#cc88ff">&gt; ���M�t�@������Ȃ���ł����ǁA����������}�����Ă��܂��܂����B</font><br>
+<font color="#cc88ff">&gt; 東邦ファンじゃないんですけど、すごく感情挿入してしまいました。</font><br>
 <br>
-���M���ł͂Ȃ����ɖ�����Œ������ł����B�B�B�ǂ������ł�����<br>
+東邦寄りではない方に愉しんで頂けたですか。。。良かったですｖｖ<br>
 <br>
-<font color="#cc88ff">&gt;���̎q�ɐ��܂�ς��������H�����ł����ł���ˁB<br>
-&gt; ����Ӗ��A���ɂ̃h���[���ł����B</font><br>
+<font color="#cc88ff">&gt;女の子に生まれ変わったから？結婚できるんですよね。<br>
+&gt; ある意味、究極のドリームでした。</font><br>
 <br>
-���������I�ɂ͌�������̂ł́i�΁j�������O�ɏ������b�Ȃ̂ŕ��͂Ƃ�<br>
-������ƁA�A�C�^�^�^�A�Ƃ��������ł����A���[��[�́A�D���Ȃ̂ł�<br>
-�����̕��ɂ��A������Œ�����Ǝv�킸���m�`�`�I�Ƌ���ŕ����������Ȃ�܂���<br>
-�ǂ������肪�Ƃ��������܂�����</font>
+多分将来的には結婚するのでは（笑）ずい分前に書いた話なので文章とか<br>
+今見ると、アイタタタ、という感じですが、こーゆーの、好きなのでｖ<br>
+女性の方にも、愉しんで頂けると思わず同士〜〜！と叫んで抱きつきたくなりますｖ<br>
+どうもありがとうございましたｖ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �Ƃ��Ă��悩�����ł�</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> とってもよかったです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/03 (��) 21:07:03 <strong>��</strong> <a href="mailto:michette_7@hotmail.com">�}�i�~</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200304034210703&log=wakasa_siyuko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304034210703"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/03 (木) 21:07:03 <strong>▽</strong> <a href="mailto:michette_7@hotmail.com">マナミ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200304034210703_log_wakasa_siyuko.cgi">返信</a>　削除<input type=checkbox name="target" value="200304034210703"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�I�j�L�X�v�A�ǂ܂��Ă��������܂����B<br>
-���M�t�@������Ȃ���ł����ǁA����������}�����Ă��܂��܂����B<br>
-�Q�l�����̔閧�ƁA���ꂩ��̍K���c�B�Q�l���K���ɂȂ��Ƃ����ł��ˁB<br>
-���܂������Ȃ��ł����ǁc���̎q�ɐ��܂�ς��������H�����ł����ł���ˁB<br>
-����Ӗ��A���ɂ̃h���[���ł����B</font>
+<font size=3 color=#606060>「オニキス」、読ませていただきました。<br>
+東邦ファンじゃないんですけど、すごく感情挿入してしまいました。<br>
+２人だけの秘密と、これからの幸せ…。２人が幸せになれるといいですね。<br>
+うまくいえないですけど…女の子に生まれ変わったから？結婚できるんですよね。<br>
+ある意味、究極のドリームでした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="wakasa_siyuko">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=wakasa_siyuko">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_wakasa_siyuko.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

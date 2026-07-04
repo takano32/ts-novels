@@ -154,7 +154,7 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=3 color=#606060>【推薦文】「紅の装甲竜騎兵」シリーズもついに最終話。一体どのような運命がマヤを待ち受けているのだろうか!?<br>
 また、あとがきの中で作品世界が詳細に説明されていますので、こちらも必見です。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/12200339/dragoon10.html target=_top>http://ts.novels.jp/novel/200203/12200339/dragoon10.html</a></font>
+<a href="../../novel/200203/12200339/dragoon10.html" target=_top>http://ts.novels.jp/novel/200203/12200339/dragoon10.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -236,7 +236,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ラウラたちの協力の下、「異世界への門」へ急ぐマヤ。しかしたどり着いた先で意外な人物と再会することになる。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/12200339/dragoon09.html target=_top>http://ts.novels.jp/novel/200203/12200339/dragoon09.html</a></font>
+<a href="../../novel/200203/12200339/dragoon09.html" target=_top>http://ts.novels.jp/novel/200203/12200339/dragoon09.html</a></font>
 </td></table>
 </td></tr></table>
 

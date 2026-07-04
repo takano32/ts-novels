@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�匴��R��畐������@���z�f����</title>
+<title>大原野山城守武里さん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�匴��R��畐������@���z�f����</font>
+<font size=5>大原野山城守武里さん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="ohharano">
 <input type=hidden name="nj" value="qvf0vKJdUt">
 <input type=hidden name="res" value="7">
-<h4 align=center>�� �L���ԍ� 7 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 7 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w�ЂƂ�ڂ����̒n���l�x������ɂ͉��̃����N���N���b�N"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z �C�����悤�A���m��ʒj�ƁA�c����B���₠�́A������Ă��Ȃ������e�p�ƁA�������ȑԓx�́A���������댯�ł͂Ȃ����ƁB
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『ひとりぼっちの地球人』を見るには下のリンクをクリック"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】 気をつけよう、見知らぬ男と、幼馴染。いやあの、見慣れてもなお可愛い容姿と、無遠慮な態度は、けっこう危険ではないかと。
 &gt; http://ts.novels.jp/novel/200611/21212001/chikyujin.htm</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h rXQXCJ  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="rXQXCJ"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード rXQXCJ  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="rXQXCJ"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,142 +47,142 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �w�ЂƂ�ڂ����̒n���l�x������ɂ͉��̃����N���N���b�N</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 『ひとりぼっちの地球人』を見るには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/24 (��) 02:16:32 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701243021632&log=ohharano">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701243021632"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/24 (水) 02:16:32 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701243021632_log_ohharano.cgi">返信</a>　削除<input type=checkbox name="target" value="200701243021632"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �C�����悤�A���m��ʒj�ƁA�c����B���₠�́A������Ă��Ȃ������e�p�ƁA�������ȑԓx�́A���������댯�ł͂Ȃ����ƁB<br>
-<a href=http://ts.novels.jp/novel/200611/21212001/chikyujin.htm target=_top>http://ts.novels.jp/novel/200611/21212001/chikyujin.htm</a></font>
+<font size=3 color=#606060>【推薦文】 気をつけよう、見知らぬ男と、幼馴染。いやあの、見慣れてもなお可愛い容姿と、無遠慮な態度は、けっこう危険ではないかと。<br>
+<a href="../../novel/200611/21212001/chikyujin.htm" target=_top>http://ts.novels.jp/novel/200611/21212001/chikyujin.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> Re:�ǂ݂܂������`</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> Re:読みましたぁ〜</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/25 (�y) 11:56:17 <strong>��</strong> �匴��R��畐�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611256115617&log=ohharano">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611256115617"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/25 (土) 11:56:17 <strong>▽</strong> 大原野山城守武里 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611256115617_log_ohharano.cgi">返信</a>　削除<input type=checkbox name="target" value="200611256115617"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<pre><font size=3 color=#606060>�� �t���l����
-<font color="#cc88ff">&gt; �Ō�́A�z���g�ɕ|���ł��˂��`</font>
-�@���ɂ���ŕs�K�ȕ���ł�����A�|���������Ă��炦����K���ł��B
+<pre><font size=3 color=#606060>▼ 逆流人さん
+<font color="#cc88ff">&gt; 最後は、ホントに怖いですねぇ〜</font>
+　世にも奇妙で不幸な物語ですから、怖さを感じてもらえたら幸いです。
 
-<font color="#cc88ff">&gt; �s���ꂪ�����΂��肩�A������m��҂����Ȃ��ƂȂ�ƁE�E�E�E</font>
-�@����A�^�C�g�������܂����̏����������I�������Ȃ�ł���B�u�ޏ��ƁE�E�E�v��&gt;�@���Ɂu�N���m��Ȃ��v�Ă̂����ɋ������Ă���ł����A�����I�Ȃ��Ƃ������āu�ށ@���ƁE�E�E�v�ɂȂ�܂����B
+<font color="#cc88ff">&gt; 行き場が無いばかりか、自分を知る者も居ないとなると・・・・</font>
+　これ、タイトルが決まったの小説が書き終わった後なんですよ。「彼女と・・・」の&gt;　他に「誰も知らない」てのも候補に挙がってたんですが、時期的なこともあって「彼　女と・・・」になりました。
 
-<font color="#cc88ff">&gt; ����Ȃ�A�����̋L�����S�ĂԂ����ōs���|��A�N���ɏE����ق����A�܂��}�V�@�����H�@���Ďv���Ă��܂��܂����B</font>
-�@�m���ɒm��Ȃ������K���Ȃ��Ƃ�������Č����܂����ˁB
+<font color="#cc88ff">&gt; それなら、自分の記憶も全てぶっ飛んで行き倒れ、誰かに拾われるほうが、まだマシ　かも？　って思ってしまいました。</font>
+　確かに知らない方が幸せなこともあるって言いますしね。
 
-<font color="#cc88ff">&gt; �Ȃ񂾂��A��l�������ɕς��Ă��܂��������̕����A���_���ۂ��ł��ˁB</font>
-�@�{���͗ǂ��q�Ȃ�ł���B�����E�E�E
+<font color="#cc88ff">&gt; なんだか、主人公を女に変えてしまった少女の方が、死神っぽいですね。</font>
+　本当は良い子なんですよ。多分・・・
 
-<font color="#cc88ff">&gt; �����������b���A�܂��ʔ����ł��ˁB</font>
-�@�L�������܂��B�ō��̖J�ߌ��t�ł��i�^�x�����x����̌����Łj�B����͂������@�����邢�b�ɂ������Ǝv���܂��B���s�s�ƕs�K�͕ς��܂��񂪁E�E�E�B</font></pre>
+<font color="#cc88ff">&gt; こういうお話も、また面白いですね。</font>
+　有難う御座います。最高の褒め言葉です（某警視庁警部補の口調で）。次回はもう少　し明るい話にしたいと思います。理不尽と不幸は変わりませんが・・・。</font></pre>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �ǂ݂܂������`</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 読みましたぁ〜</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/23 (��) 16:40:46 <strong>��</strong> �t���l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611234164046&log=ohharano">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611234164046"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/23 (木) 16:40:46 <strong>▽</strong> 逆流人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611234164046_log_ohharano.cgi">返信</a>　削除<input type=checkbox name="target" value="200611234164046"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ō�́A�z���g�ɕ|���ł��˂��`<br>
-�s���ꂪ�����΂��肩�A������m��҂����Ȃ��ƂȂ�ƁE�E�E�E<br>
-����Ȃ�A�����̋L�����S�ĂԂ����ōs���|��A<br>
-�N���ɏE����ق����A�܂��}�V�����H�@���Ďv���Ă��܂��܂����B<br>
-�Ȃ񂾂��A��l�������ɕς��Ă��܂��������̕����A���_���ۂ��ł��ˁB<br>
-�����������b���A�܂��ʔ����ł��ˁB</font>
+<font size=3 color=#606060>最後は、ホントに怖いですねぇ〜<br>
+行き場が無いばかりか、自分を知る者も居ないとなると・・・・<br>
+それなら、自分の記憶も全てぶっ飛んで行き倒れ、<br>
+誰かに拾われるほうが、まだマシかも？　って思ってしまいました。<br>
+なんだか、主人公を女に変えてしまった少女の方が、死神っぽいですね。<br>
+こういうお話も、また面白いですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/23 (��) 13:26:31 <strong>��</strong> �匴��R��畐�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611234132631&log=ohharano">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611234132631"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/23 (木) 13:26:31 <strong>▽</strong> 大原野山城守武里 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611234132631_log_ohharano.cgi">返信</a>　削除<input type=checkbox name="target" value="200611234132631"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�A���J����&lt;br&gt;�L�������܂��B���̍�i�͐l��s�K�ɂ���̂��e�[�}�ł�����A��l�������̉Ƃɖ߂邱�Ƃ͂���܂���B�g�̔\�͂͂��̂܂܂ł�����A�̎�ł��X�|�[�c�I��ɂł���&lt;br&gt;���Ă�����̂ł͂Ȃ��ł��傤���B&lt;br&gt;&lt;br&gt;�Ր�����&lt;br&gt;�����炱���X�������肢���܂��B���_�ł����A����Q�Q�Q�̋S���Y�̃A�j����Q��̎�&lt;br&gt;�_�����f���Ȃ�ł��B�����Ă���r���Ŏ��_�̂��Ƃ��v���o���ēo�ꂵ�Ă��炢�܂�&lt;br&gt;���B�����̒��䎌�͑��̕�����؂�l�߂Ă���Ă���̂ɁA���������Ȍ��ɂ��Ȃ�����&lt;br&gt;�̂͏����̕s���ƒv���Ƃ���ł���܂��B�����A�@�����ΊC�����̘b�Ƃ���������&lt;br&gt;���ڍׂɏ�������Ǝv���܂��B���������M���܂��̂ŁA�ł�����Ɠ����悤�ɂł���&lt;br&gt;���͕s���Ȃ̂Ŋ��҂��Ȃ��ł��������B</font>
+<font size=3 color=#606060>アリカさん&lt;br&gt;有難う御座います。この作品は人を不幸にするのがテーマですから、主人公が元の家に戻ることはありません。身体能力はそのままですから、歌手でもスポーツ選手にでもや&lt;br&gt;っていけるのではないでしょうか。&lt;br&gt;&lt;br&gt;虎瀬さん&lt;br&gt;こちらこそ宜しくお願いします。死神ですが、これゲゲゲの鬼太郎のアニメ第２作の死&lt;br&gt;神がモデルなんです。書いている途中で死神のことを思い出して登場してもらいまし&lt;br&gt;た。少女の長台詞は他の部分を切り詰めてやっているのに、そこだけ簡潔にしなかった&lt;br&gt;のは小生の不徳と致すところであります。もし、機会があれば海水浴の話とかをもう少&lt;br&gt;し詳細に書けたらと思います。次回作も執筆しますので、でも今回と同じようにできる&lt;br&gt;かは不明なので期待しないでください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �ǂݐ\���Č�</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 読み申して候</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/23 (��) 00:18:41 <strong>��</strong> �Ր� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611234001841&log=ohharano">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611234001841"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/23 (木) 00:18:41 <strong>▽</strong> 虎瀬 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611234001841_log_ohharano.cgi">返信</a>　削除<input type=checkbox name="target" value="200611234001841"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ܂��Ă��������܂����B<br>
-�c�c����H�n�b�s�[�G���h�Ȃ̂ł́c�c�Ǝv�����Ō�̍Ō�łǂ�ł�Ԃ��B����܂����B<br>
-�w���ɂ���ȕ���x�ɒʂ�����̂�����܂��ˁB�w����OL�x�̃��X�g�̓M���O�ł�����(^^;<br>
+<font size=3 color=#606060>読ませていただきました。<br>
+……あれ？ハッピーエンドなのでは……と思った最後の最後でどんでん返し。やられました。<br>
+『世にも奇妙な物語』に通じるものがありますね。『部長OL』のラストはギャグでしたが(^^;<br>
 <br>
-���������A�����Ԃ񏊑т��݂����_���񂾂Ȃ��i�΁j<br>
-���̎��_���񂾂��ł��b�����������ł����A�{�҂Ƃ͂قƂ�Ǌ֌W�Ȃ���ł���ˁB<br>
-�������Ɂw�����x�̍Ō�̑䎌�͂�����Ƒ��߂ł����A���_����Ɋւ���L�q�͂��������Z���Ă��x��Ȃ������Ǝv���܂��B<br>
-�̂����Ȃ��ƌ����Ă����܂���B<br>
-���������e�C�X�g�ŁA�ʂ̍�i�����Ă݂����ł��B���ꂩ�����낵�����肢���܂��X��</font>
+しっかし、ずいぶん所帯じみた死神さんだなぁ（笑）<br>
+この死神さんだけでお話が書けそうですが、本編とはほとんど関係ないんですよね。<br>
+たしかに『少女』の最後の台詞はちょっと多めですが、死神さんに関する記述はもう少し短くても支障なかったと思います。<br>
+偉そうなこと言ってすいません。<br>
+こういうテイストで、別の作品も見てみたいです。これからもよろしくお願いしまっス♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> ���������킢�ł��˂�</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 落ちがこわいですねｗ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/22 (��) 10:26:56 <strong>��</strong> �A���J </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611223102656&log=ohharano">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611223102656"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/22 (水) 10:26:56 <strong>▽</strong> アリカ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611223102656_log_ohharano.cgi">返信</a>　削除<input type=checkbox name="target" value="200611223102656"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ʔ��������ł���&lt;br&gt;&lt;br&gt;�ł��g�̔\�͂Ƃ��ǂ��Ȃ�����ł��傤�ˁB&lt;br&gt;�C�ɂȂ邗&lt;br&gt;�ւ���������������̂Ȃ�A&lt;br&gt;���Ƃɖ߂�΂�����������E�E�E�͖̂����ł�&lt;br&gt;&lt;br&gt;���ʂ�ɖ߂��Ă����肵�āE�E�E&lt;br&gt;�ł��߂��Ă��Ă����q�ɂȂ�����l���͂ǂ����������ł��傤�B&lt;br&gt;&lt;br&gt;�g�̔\�͂��X�[�p�[���f�B�̂܂܂�������A�ʂ̓�����ނ��Ƃ��ނ�ł͂Ȃ��E�E�E������&lt;br&gt;</font>
+<font size=3 color=#606060>面白かったですｗ&lt;br&gt;&lt;br&gt;でも身体能力とかどうなったんでしょうね。&lt;br&gt;気になるｗ&lt;br&gt;関わった事が消されるのなら、&lt;br&gt;実家に戻ればもしかしたら・・・体は無理でも&lt;br&gt;&lt;br&gt;元通りに戻っていたりして・・・&lt;br&gt;でも戻ってっても女子になった主人公はどう説明するんでしょう。&lt;br&gt;&lt;br&gt;身体能力がスーパーレディのままだったら、別の道を歩むこともむりではない・・・かもｗ&lt;br&gt;</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w�ޏ��Ɩl�Ɩl�̐����铹�x������ɂ͂������N���b�N�B</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『彼女と僕と僕の生きる道』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/21 (��) 21:26:29 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611212212629&log=ohharano">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611212212629"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/21 (火) 21:26:29 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611212212629_log_ohharano.cgi">返信</a>　削除<input type=checkbox name="target" value="200611212212629"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�匴��R��畐������̃f�r���[��B�Ɠ��ȕ��͋C�̍�i�ł��B<br>
-<a href=http://ts.novels.jp/novel/200611/21212001/ikirumichi.htm target=_top>http://ts.novels.jp/novel/200611/21212001/ikirumichi.htm</a></font>
+<font size=3 color=#606060>【推薦文】大原野山城守武里さんのデビュー作。独特な雰囲気の作品です。<br>
+<a href="../../novel/200611/21212001/ikirumichi.htm" target=_top>http://ts.novels.jp/novel/200611/21212001/ikirumichi.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="ohharano">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=ohharano">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_ohharano.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

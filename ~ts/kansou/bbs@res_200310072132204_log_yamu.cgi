@@ -1,43 +1,43 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�閲�����i�@���z�f����</title>
+<title>夜夢さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�閲�����i�@���z�f����</font>
+<font size=5>夜夢さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yamu">
 <input type=hidden name="nj" value="Z8x1mgxyrQ">
 <input type=hidden name="res" value="193">
-<h4 align=center>�� �L���ԍ� 193 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 193 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���ނނ�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��e����
-&gt; �@��{�Ƃ����ɂǂ�قǂ̃V���A�X�����邩�Ǝv���Ă�����c
-&gt; �@�������ؑタ���n�j�Ȃ�u�m�v�łق�ƂɃ}�N�K�C�����ؑタ���Ƒ������b�������Ƃ���悩�����i���j
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:うむむむ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 城弾さん
+&gt; 　御本家だけにどれほどのシリアスが来るかと思っていたら…
+&gt; 　しかし華代ちゃんＯＫなら「Ｎ」でほんとにマクガイヤが華代ちゃんと遭った話をかいときゃよかった（爆）
 &gt; 
-&gt; �@�Q�R�������Ɂw�ӂ݂����x���ȁH
+&gt; 　２３号だけに『ふみちゃん』かな？
 &gt; 
-&gt; �@�u�o�v�u�q�v�u�m�v�u�j�v���͉����ȁH�@�����ĒN�̎��M���ȁH</textarea><br>
+&gt; 　「Ｐ」「Ｒ」「Ｎ」「Ｋ」次は何かな？　そして誰の執筆かな？</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -50,51 +50,51 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[198]</font> <font size=4 color=#40c0c0> �ꉞ�A�m�F�v���܂����c�c</font>
+<font size=2>[198]</font> <font size=4 color=#40c0c0> 一応、確認致しました……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/11 (�y) 23:33:19 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310116233319&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310116233319"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/11 (土) 23:33:19 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310116233319_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310116233319"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Zyuka�l�A��񂠂肪�Ƃ��������܂��E�E�E�E�E�E�m�F�����Ē����܂����B<br>
-�E�E�E�܂����A�^��̏�̕��܂ł͊m�F���Ă܂���ł�������E�E�E�i��΁^��R�j<br>
+<font size=3 color=#606060>Zyuka様、情報ありがとうございます・・・・・・確認させて頂きました。<br>
+・・・まさか、真城の城の方までは確認してませんでしたから・・・（苦笑／憮然）<br>
 <br>
-�E�E�E�܂��A�ł���������o������@�́A�v���t���܂����E�E�E<br>
-����23���́A�uFMS�v���ǔ��o�̌�A�g�D���甲�������Ƃɂ���āA���̌�ɈႤ�N�����V������\�O���ɂȂ����E�E�E�ƌ����b�͂ǂ��ł��傤���H�i�`���b�g�W�V���K�i�T�Q�j�E�E�E�j</font>
+・・・まぁ、でも言い逃れ出来る方法は、思い付きました・・・<br>
+この23号は、「FMS」発症発覚の後、組織から抜けたことにされて、その後に違う誰かが新しい二十三号になった・・・と言う話はどうでしょうか？（チョットジシンガナサゲニ・・・）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[197]</font> <font size=4 color=#40c0c0> ��肭�����N���͂�Ȃ��悤�ł����A</font>
+<font size=2>[197]</font> <font size=4 color=#40c0c0> 上手くリンクがはれないようですが、</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/08 (��) 19:40:58 <strong>��</strong> Zyuka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310083194058&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310083194058"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/08 (水) 19:40:58 <strong>▽</strong> Zyuka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310083194058_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310083194058"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�^��l�̃z�[���y�[�W�A�^��̏�A�����������̃A�C�R������A<br>
-�Ă��[���ޗl�̍�i�w�����A�M���ɐl�`���x���A���Ă��������B<br>
-���̍�i�ɁA��\�O���̖��O������܂����������</font>
+<font size=3 color=#606060>真城様のホームページ、真城の城、いちごちゃんのアイコンから、<br>
+てぃーえむ様の作品『今宵、貴方に人形を』を、見てください。<br>
+この作品に、二十三号の名前があります･････････</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[196]</font> <font size=4 color=#40c0c0> ���ׂĂ݂܂�����</font>
+<font size=2>[196]</font> <font size=4 color=#40c0c0> 調べてみましたが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/08 (��) 19:37:34 <strong>��</strong> Zyuka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310083193734&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310083193734"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/08 (水) 19:37:34 <strong>▽</strong> Zyuka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310083193734_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310083193734"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060><a href=http://www7.plala.or.jp/mashiroyou/00-00-00HomePage.htm target=_top>http://www7.plala.or.jp/mashiroyou/00-00-00HomePage.htm</a><br>
 <br>
-�Q�R���A����܂���������<br>
-���ɓ��̍�i�ł͂���܂��񂪁A�{�Ƣ�^��̏飂̂ق��ɥ�����<br>
+２３号、ありました･･････<br>
+文庫内の作品ではありませんが、本家｢真城の城｣のほうに･･････<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -102,83 +102,83 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[195]</font> <font size=4 color=#40c0c0> �����̌䊴�z���肪�Ƃ��������܂��E�E�E�����</font>
+<font size=2>[195]</font> <font size=4 color=#40c0c0> 早速の御感想ありがとうございます・・・それと</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/07 (��) 21:35:44 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310072213544&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310072213544"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/07 (火) 21:35:44 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310072213544_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310072213544"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�E�E�E��x�������Ԏ��������Ă��܂����i���R�j<br>
+<font size=3 color=#606060>・・・一度書いた返事が消えてしまった（愕然）<br>
 <br>
-�c�c�c�c�c�c<br>
+………………<br>
 <br>
-�E�E�E�C�����߂āA�ǂ����閲�ł��B<br>
-mk8426�l�AJ�EF�l�A��e�l�AZyuka�l�A�����̊��z�����肪�Ƃ��������܂��B<br>
+・・・気を改めて、どうも夜夢です。<br>
+mk8426様、J・F様、城弾様、Zyuka様、早速の感想等ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�������B<br>
-&gt;����������Ӗ��ڋ������i���j�B</font><br>
-���������Ē�����ƍK���ł��B�ł��A�ڋ����Ăǂ̕ӂ肪�E�E�E�H�i�v�������鏊�͐F�X����܂����E�E�E�i�΁j�j<br>
+<font color="#cc88ff">&gt;お見事。<br>
+&gt;しかしある意味卑怯かも（爆）。</font><br>
+そう言って頂けると幸いです。でも、卑怯ってどの辺りが・・・？（思い当たる所は色々ありますが・・・（笑））<br>
 <br>
-<font color="#ff88cc">�����A�V�F�A���[���h���J���ꂽ��ł��ˁB<br>
-�����������A�{���Ɂu�j�v������Ƃ́i�΁j</font><br>
-<font color="#cc88ff">&gt;��{�Ƃ����ɂǂ�قǂ̃V���A�X�����邩�Ǝv���Ă�����c</font><br>
-���́A��e����́gpattern�@N�h�̂��Ƃ����ɏo�Ă����ؑタ��񗍂݂̘b�̌���AJ�EF����́gpattern�@K�h������ǂ񂾎��́A�u�J�n�C�^�����q�v��Ԃł����B�i�΁j<br>
-�i���̘b�������I���āA�f�ڂ�҂������������ӂ�ł�������]�v�ɁE�E�E�j<br>
+<font color="#ff88cc">＞あ、シェアワールド公開されたんですね。<br>
+＞しっかし、本当に「Ｋ」が来るとは（笑）</font><br>
+<font color="#cc88ff">&gt;御本家だけにどれほどのシリアスが来るかと思っていたら…</font><br>
+実は、城弾さんの“pattern　N”のあとがきに出ていた華代ちゃん絡みの話の件や、J・Fさんの“pattern　K”発言を読んだ時は、「カハイタワラヒ」状態でした。（笑）<br>
+（この話を書き終えて、掲載を待ったいた時期辺りでしたから余計に・・・）<br>
 <br>
-<font color="#ff88cc">���u�s�����藈����v�̔ނ��Г�ł����A��͂�Q�R���B<br>
-���`���Ȃ̂��A����Ƃ��Ԑڔ�Q�Ȃ̂��c�c�@�ߍ��́u�ؑ��Q�v���ăo���G�[�V�����L�x�����B</font><br>
-����͈ꉞ�A�`���ƌ����ݒ�ł��B�u�ؑ��Q�ȊO�ŏ��������������Ȃ��n���^�[�v�ƌ���������Ɗ�Ȑݒ�͂ǂ��ł����H�i�������A����́u�E���������Ŕ������󂭂��ňꓙ�O��܂𓖂Ă�v���炢�̊m�����Ƃ͎v���܂����ǂˁB�j<br>
-�i�E�E�E�ł��A���v���t�����̂ł����A�Ƃ���FMS���҂��u���Ɠ������Ԃ��~�����v�Ȃ��Ƃł����������ׂƌ����\�����ے�ł��Ȃ��E�E�E�i�J�n�C�^�����q�j�j<br>
+<font color="#ff88cc">＞「行ったり来たり」の彼も災難ですが、やはり２３号。<br>
+＞伝染なのか、それとも間接被害なのか……　近頃の「華代被害」ってバリエーション豊富だし。</font><br>
+これは一応、伝染と言う設定です。「華代被害以外で女性化した数少ないハンター」と言うちょっと奇妙な設定はどうでした？（ただし、これは「拾ったお金で買った宝くじで一等前後賞を当てる」ぐらいの確率だとは思いますけどね。）<br>
+（・・・でも、今思い付いたのですが、とあるFMS患者が「私と同じ仲間が欲しい」なぞとでも言った所為と言う可能性も否定できない・・・（カハイタワラヒ））<br>
 <br>
-<font color="#cc88ff">&gt;�Ƃ肠�����Q�R���̕ω���̎p�����Ă݂����ɂP�[�i�j���j�B<br>
-&gt;�@�Q�R�������Ɂw�ӂ݂����x���ȁH</font><br>
-�������߁uFMS�Fpattern K�@side H�@part2�v�ƌ������ł��傤���H<br>
-�E�E�E���̏��A�l�^���v���t���܂���B�N���`���Ă���ʂ��̂��낤���H�i�X�R�V�i�Q�����j�H�j<br>
+<font color="#cc88ff">&gt;とりあえず２３号の変化後の姿を見てみたいに１票（核爆）。<br>
+&gt;　２３号だけに『ふみちゃん』かな？</font><br>
+さしずめ「FMS：pattern K　side H　part2」と言う所でしょうか？<br>
+・・・今の所、ネタが思い付きません。誰か描いてくれぬものだろうか？（スコシナゲヤリニ？）<br>
 <br>
-<font color="#cc88ff">&gt;�u�o�v�u�q�v�u�m�v�u�j�v���͉����ȁH�@�����ĒN�̎��M���ȁH</font><br>
-����͎����C�ɂȂ鏊�A�ǂȂ���FMS�������Ē����܂��񂩁H�i�Ə������肢������̙ꂫ���΁E�E�E�j<br>
+<font color="#cc88ff">&gt;「Ｐ」「Ｒ」「Ｎ」「Ｋ」次は何かな？　そして誰の執筆かな？</font><br>
+これは私も気になる所、どなたかFMSを書いて頂けませんか？（と少しお願い混じりの呟きをば・・・）<br>
 <br>
-���ŁAZyuka�l���w�E�������̓_�E�E�E<br>
-<font color="#ff88cc">������H�@���̃i���o�[�͊��ɓo�ꂳ��Ă����悤�Ȃ��Ȃ������悤�ȥ�����</font><br>
-�����m�F��������ł́A���ɓ��Ɍf�ڂ���Ă����i�ɂ́u23���v�͓o�ꂵ�Ă��Ȃ������Ǝv���̂ł����E�E�E<br>
-�����A�o�Ă���̂ł����牽�������������肢���������E�E�E<br>
-�i�u23���v�͈�`�q�΂Ɉ����|�����ԍ��Ȃ̂ł����A�ꍇ�ɂ���Ă͏��������Ȃ��Ă͂����܂��񂵂ˁB�j</font>
+所で、Zyuka様が指摘したこの点・・・<br>
+<font color="#ff88cc">＞あれ？　そのナンバーは既に登場されていたようないなかったような･･････</font><br>
+私が確認した限りでは、文庫内に掲載されている作品には「23号」は登場していなかったと思うのですが・・・<br>
+もし、出ているのでしたら何方かご一報をお願いしたい所・・・<br>
+（「23号」は遺伝子対に引っ掛けた番号なのですが、場合によっては書き直さなくてはいけませんしね。）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[194]</font> <font size=4 color=#40c0c0> �Q�R���������H</font>
+<font size=2>[194]</font> <font size=4 color=#40c0c0> ２３号･･････？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/07 (��) 17:59:58 <strong>��</strong> Zyuka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310072175958&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310072175958"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/07 (火) 17:59:58 <strong>▽</strong> Zyuka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310072175958_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310072175958"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����H�@���̃i���o�[�͊��ɓo�ꂳ��Ă����悤�Ȃ��Ȃ������悤�ȥ�����<br>
+<font size=3 color=#606060>あれ？　そのナンバーは既に登場されていたようないなかったような･･････<br>
 <br>
-�C�ɂȂ������̂ť����������܂���</font>
+気になったもので･･････すいません</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[193]</font> <font size=4 color=#40c0c0> ���ނނ�</font>
+<font size=2>[193]</font> <font size=4 color=#40c0c0> うむむむ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/07 (��) 13:22:04 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310072132204&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310072132204"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/07 (火) 13:22:04 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310072132204_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310072132204"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@��{�Ƃ����ɂǂ�قǂ̃V���A�X�����邩�Ǝv���Ă�����c<br>
-�@�������ؑタ���n�j�Ȃ�u�m�v�łق�ƂɃ}�N�K�C�����ؑタ���Ƒ������b�������Ƃ���悩�����i���j<br>
+<font size=3 color=#606060>　御本家だけにどれほどのシリアスが来るかと思っていたら…<br>
+　しかし華代ちゃんＯＫなら「Ｎ」でほんとにマクガイヤが華代ちゃんと遭った話をかいときゃよかった（爆）<br>
 <br>
-�@�Q�R�������Ɂw�ӂ݂����x���ȁH<br>
+　２３号だけに『ふみちゃん』かな？<br>
 <br>
-�@�u�o�v�u�q�v�u�m�v�u�j�v���͉����ȁH�@�����ĒN�̎��M���ȁH</font>
+　「Ｐ」「Ｒ」「Ｎ」「Ｋ」次は何かな？　そして誰の執筆かな？</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -186,54 +186,54 @@ mk8426�l�AJ�EF�l�A��e�l�AZyuka�l�A�����̊��z�����肪�Ƃ��������܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[192]</font> <font size=4 color=#40c0c0> �y�[�W�^�C�g���������܂���</font>
+<font size=2>[192]</font> <font size=4 color=#40c0c0> ページタイトル訂正しました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/07 (��) 01:32:51 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310072013251&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310072013251"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/07 (火) 01:32:51 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310072013251_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310072013251"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�i�E�e ���܁A<br>
+<font size=3 color=#606060>Ｊ・Ｆ さま、<br>
 <br>
-<font color="#ff88cc">���y�[�W�^�C�g�����upattern "KP"�v�ƂȂ��Ă���悤�ł����H</font><br>
-�������Ă����܂����B�\���󂠂�܂���ł����B</font>
+<font color="#ff88cc">＞ページタイトルが「pattern "KP"」となっているようですが？</font><br>
+訂正しておきました。申し訳ありませんでした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[191]</font> <font size=4 color=#40c0c0> ���wFMS�Fpattern K�x</font>
+<font size=2>[191]</font> <font size=4 color=#40c0c0> ＞『FMS：pattern K』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/07 (��) 01:11:10 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310072011110&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310072011110"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/07 (火) 01:11:10 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310072011110_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310072011110"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���A�V�F�A���[���h���J���ꂽ��ł��ˁB<br>
-���������A�{���Ɂu�j�v������Ƃ́i�΁j<br>
+<font size=3 color=#606060>あ、シェアワールド公開されたんですね。<br>
+しっかし、本当に「Ｋ」が来るとは（笑）<br>
 <br>
-�u�s�����藈����v�̔ނ��Г�ł����A��͂�Q�R���B<br>
-�`���Ȃ̂��A����Ƃ��Ԑڔ�Q�Ȃ̂��c�c�@�ߍ��́u�ؑ��Q�v���ăo���G�[�V�����L�x�����B<br>
+「行ったり来たり」の彼も災難ですが、やはり２３号。<br>
+伝染なのか、それとも間接被害なのか……　近頃の「華代被害」ってバリエーション豊富だし。<br>
 <br>
-�Ƃ���ŁB<br>
-�y�[�W�^�C�g�����upattern "KP"�v�ƂȂ��Ă���悤�ł����H���^�c�ψ��l</font>
+ところで。<br>
+ページタイトルが「pattern "KP"」となっているようですが？＞運営委員様</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[190]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[190]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/07 (��) 00:48:31 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310072004831&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310072004831"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/07 (火) 00:48:31 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310072004831_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310072004831"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������B<br>
-����������Ӗ��ڋ������i���j�B<br>
-�Ƃ肠�����Q�R���̕ω���̎p�����Ă݂����ɂP�[�i�j���j�B</font>
+<font size=3 color=#606060>お見事。<br>
+しかしある意味卑怯かも（爆）。<br>
+とりあえず２３号の変化後の姿を見てみたいに１票（核爆）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -241,21 +241,21 @@ mk8426�l�AJ�EF�l�A��e�l�AZyuka�l�A�����̊��z�����肪�Ƃ��������܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[189]</font> <font size=4 color=#40c0c0> �wFMS�Fpattern K�x������ɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[189]</font> <font size=4 color=#40c0c0> 『FMS：pattern K』を見るには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/06 (��) 23:05:52 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310061230552&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310061230552"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/06 (月) 23:05:52 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310061230552_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200310061230552"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�ނɂƂ��Ă͂ǂ�����Ђ��ł����Ȃ������悤�ȁB</font>
-<p><a href="http://ts.novels.jp/novel/200112/18123055/fms-k.html" target="_top">http://ts.novels.jp/novel/200112/18123055/fms-k.html</a>
+<font size=3 color=#606060>【推薦文】彼にとってはどちらも災いでしかなかったような。</font>
+<p><a href="../../novel/200112/18123055/fms-k.html" target="_top">http://ts.novels.jp/novel/200112/18123055/fms-k.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yamu">
@@ -263,16 +263,16 @@ mk8426�l�AJ�EF�l�A��e�l�AZyuka�l�A�����̊��z�����肪�Ƃ��������܂��B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yamu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yamu">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yamu.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

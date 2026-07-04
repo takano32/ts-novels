@@ -1,14 +1,14 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�w�ؑタ���V���[�Y�x���z�f����</title>
+<title>『華代ちゃんシリーズ』感想掲示板</title>
 </head>
 <body bgcolor=#bbffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�w�ؑタ���V���[�Y�x���z�f����</font>
+<font size=5>『華代ちゃんシリーズ』感想掲示板</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080><A HREF="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan_hunternumber">�n���^�[�E�V���[�Y��p�f����</A>�����B�ڍׂ́A�����N���񂾂�킩��i���j</font>
+<font color=#608080><A HREF="bbs@log_kayo_chan_hunternumber.cgi">ハンター・シリーズ専用掲示板</A>発足。詳細は、リンクを飛んだらわかる（爆）</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
@@ -16,28 +16,28 @@
 <input type=hidden name="log" value="kayo_chan">
 <input type=hidden name="nj" value="K6Jxd4HMDL">
 <input type=hidden name="res" value="699">
-<h4 align=center>�� �L���ԍ� 699 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 699 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w���ɂ̃R�X�v���x������ɂ͂������N���b�N�B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z���o��A�����Ђ�ނ���B�c�c�����ȏ����͖ڂ̓łł����H
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『究極のコスプレ』を見るにはここをクリック。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】初登場、高樹ひろむさん。……無茶な女装は目の毒ですか？
 &gt; http://ts.novels.jp/novel/kayo_chan/kayo_chan107.html</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h jCnOwF  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="jCnOwF"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード jCnOwF  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="jCnOwF"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 200 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 200 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -50,84 +50,84 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[705]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��ł�</font>
+<font size=2>[705]</font> <font size=4 color=#40c0c0> 感想ありがとうございますです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/14 (��) 00:13:02 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609144001302&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609144001302"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/14 (木) 00:13:02 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609144001302_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200609144001302"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Vࣂ������Ƃ���,���z���肪�Ƃ��������܂��B���i__�j��<br>
-����́A���`���`�����O�́A�͂��͂���Ԃł������A���̓��`���`�������炢�ɂ�<br>
-�Ȃ�悤�ɁA����΂��Ă��������Ǝv���܂��ł��B(^^)/</font>
+<font size=3 color=#606060>天爛さん難しいところ,感想ありがとうございます。ｍ（__）ｍ<br>
+今回は、ヨチヨチ歩き前の、はいはい状態でしたが、次はヨチヨチ歩きぐらいには<br>
+なるように、がんばっていきたいと思いますです。(^^)/</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[704]</font> <font size=4 color=#40c0c0> �w�Ȃ��Ȃ����u�V������ˌ��v�x������ɂ͂������N���b�N�B</font>
+<font size=2>[704]</font> <font size=4 color=#40c0c0> 『なずなちゃん「新幹線大突撃」』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/13 (��) 22:35:51 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609133223551&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609133223551"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/13 (水) 22:35:51 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609133223551_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200609133223551"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�h�W�����G�X�p�[�Ȃ��Ȃ����ėՁB�c�c�N���ޏ����~�߂Ă��ꂦ�����������i�΁j�B<br>
-<a href=http://ts.novels.jp/novel/kayo_chan/extra/kayo_ex49.html target=_top>http://ts.novels.jp/novel/kayo_chan/extra/kayo_ex49.html</a></font>
+<font size=3 color=#606060>【推薦文】ドジっ娘エスパーなずなちゃん再臨。……誰か彼女を止めてくれえええええっ（笑）。<br>
+<a href="../../novel/kayo_chan/extra/kayo_ex49.html" target=_top>http://ts.novels.jp/novel/kayo_chan/extra/kayo_ex49.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[703]</font> <font size=4 color=#40c0c0> �w�u�S�W���@�O�b �������̓��v�x��ǂ݂܂����B</font>
+<font size=2>[703]</font> <font size=4 color=#40c0c0> 『「４８号　０話 旅立ちの日」』を読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/12 (��) 18:15:35 <strong>��</strong> <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609122181535&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609122181535"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/12 (火) 18:15:35 <strong>▽</strong> <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609122181535_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200609122181535"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Vࣂł��B<br>
+<font size=3 color=#606060>天爛です。<br>
 <br>
-���ƁA�ǂ����܂��傤�c�c<br>
-��Ɠ��m�Ƃ��ċZ�p�I�Ȏw�E�����悤�Ǝv��������ł��o�������Ȃ�ł����c�c<br>
-�ƁA�Ƃ肠�����A����͊�]������΂ƌ������ɂ��Ƃ��Ċ��z�s���܂��傤���B�i��<br>
+えと、どうしましょう……<br>
+作家同士として技術的な指摘をしようと思ったら幾らでも出来そうなんですが……<br>
+と、とりあえず、それは希望があればと言う事にしといて感想行きましょうか。（汗<br>
 <br>
-�܂����z�ɂ��Ă���j�̕��Ŋ��ɓǂ�ł��̂ŁA���܂�V�N����������ꂸ���z�������ɂ��������肷��̂ł����c�c<br>
-�܂��A�V�N���Ɋւ��Ă͑��҂Ɋ��҂ƌ��������Ƃ�ł��傤�B�i��<br>
-���ɁA�l�t����񂪂ǂ��������ɂ��ĉؑ��Q�ɍ����̂��Ƃ����Ȃ苻���ÁX�������肵�܂��̂Ŋ撣���Ă���������</font>
+まあ感想にしても第ニの方で既に読んでたので、あまり新鮮味が感じられず感想が書きにくかったりするのですが……<br>
+まあ、新鮮味に関しては続編に期待と言ったことろでしょう。（笑<br>
+特に、四葉ちゃんがどういう風にして華代被害に合うのかとかかなり興味津々だったりしますので頑張ってください♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[702]</font> <font size=4 color=#40c0c0> �w�n���^�[�E�V���[�Y�u�S�W���@�O�b �������̓��v�x������ɂ͉����N���b�N�B</font>
+<font size=2>[702]</font> <font size=4 color=#40c0c0> 『ハンター・シリーズ「４８号　０話 旅立ちの日」』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/06 (��) 00:00:05 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609063000005&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609063000005"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/06 (水) 00:00:05 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609063000005_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200609063000005"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�܂��́A�n�܂�܂łł��B���o���܂ɁE�E�E����Ă��̌�ǂ��Ȃ��Ă����̂ł��傤���ˁB</font>
-<p><a href="http://ts.novels.jp/novel/kayo_chan/extra/kayo_ex48.html" target="_top">http://ts.novels.jp/novel/kayo_chan/extra/kayo_ex48.html</a>
+<font size=3 color=#606060>【推薦文】まずは、始まりまでです。お姉さまに・・・されてこの後どうなっていくのでしょうかね。</font>
+<p><a href="../../novel/kayo_chan/extra/kayo_ex48.html" target="_top">http://ts.novels.jp/novel/kayo_chan/extra/kayo_ex48.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[701]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[701]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/16 (��) 21:48:17 <strong>��</strong> �����Ђ�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608163214817&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608163214817"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/16 (水) 21:48:17 <strong>▽</strong> 高樹ひろむ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608163214817_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200608163214817"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�x��΂��Ȃ���A���z���肪�Ƃ��������܂��B<br>
-���͓ސ{�Y���񂱂ƂȂ��Ȃ���񂪗��s���ɏ��������߂��A�Ƃ�ł��Ȃ����ƂɊ������܂�c�c����Ȃ��Ĉ����N�����Ƃ����b�������Ă���܂��B<br>
-�����āA�����Ɋ������܂ꂻ���ɂȂ���������T��B�͂����Ĕޏ��̉^���₢���ɁH�i�����R�j</font>
+<font size=3 color=#606060>遅ればせながら、感想ありがとうございます。<br>
+次は奈須雄くんことなずなちゃんが旅行中に助けを求められ、とんでもないことに巻き込まれ……じゃなくて引き起こすという話を書いております。<br>
+そして、そこに巻き込まれそうになる美少女名探偵。はたして彼女の運命やいかに？（半分嘘）</font>
 <p><a href="http://blunderer.web.fc2.com/" target="_top">http://blunderer.web.fc2.com/</a>
 </td></table>
 </td></tr></table>
@@ -135,31 +135,31 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[700]</font> <font size=4 color=#40c0c0> ���܂������܂����A���[��[�́B</font>
+<font size=2>[700]</font> <font size=4 color=#40c0c0> いましたいました、そーゆーの。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/08 (��) 10:33:21 <strong>��</strong> �o���b�g </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608082103321&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608082103321"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/08 (火) 10:33:21 <strong>▽</strong> バレット </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608082103321_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200608082103321"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�͂��߂܂��Ăł��ˁA�o���b�g�ł��B<br>
-�@���l��������́A���[�Ɓc�c�@�l�͐_�ސ쌧���͌��s�d�߂Ȃ̂ŁA����Ȃ��čݏZ�Ȃ̂ŁA�����܂ł������͉^�ׂȂ��̂ł��B����āA�R�~�b�N�}�[�P�b�g�����ꂽ�C�x���g�ɂ����Q���ł��Ȃ��̂��c�O�B�w�L�m�̗��x�̉��G��S�����Ă���C���X�g���[�^�[�w�����g���x����ɉ�̂��ړI�B�ł��A��܂��񂩂�A�c�O�I<br>
+<font size=3 color=#606060>　はじめましてですね、バレットです。<br>
+　同人誌即売会は、えーと……　僕は神奈川県相模原市重罪なので、じゃなくて在住なので、東京までしか足は運べないのです。よって、コミックマーケットや限られたイベントにしか参加できないのが残念。『キノの旅』の押絵を担当しているイラストレーター『黒星紅白』さんに会うのが目的。でも、会えませんから、残念！<br>
 <br>
-�@���Ė{��ł��B<br>
-�@���܂������܂����A���炩�ɒj�̐l�������ς��߂Ă�́B�ΐF�̂���ɉ��F���V���c������A�����Ɓw�A���t�@����x�̂���Ȃ�ł��傤�ˁB�������������c���b�Ƃ��Ă�����A�����H�@�Ǝv���������B�ǂ̃A���t�@����H�@�q���g�͂�����ƑO�A���̂��Ƃ����I<br>
-�@�ؑタ���̍���̖��@���A���������������H�@������΂��������y��I�@�R�X�v���R���e�X�g����������A�����ɒj���̕��ł����܊ԈႢ�Ȃ��I�@�ł�����ς�l�����炷�̂͑��ς�炸�̂悤�ŁB<br>
-�@�����ĉؑタ���A����͂����P�~�X�𓭂����ȁA�t�b�t�b�t�B��l���̐N�ɖ��͂�^���Ă��܂����̂������I�@���@�����h�W�����ƂȂ����ސ{�Y���߂�ƔO����ƁA�ق��̉ؑタ����Q�҂͌��ɖ߂��悤�ɂȂ���������B���`���A���������Ȃ̂ɂƎv������A�ߐ{�Y���񂾂��߂�Ȃ��Ȃ�āB<br>
+　さて本題です。<br>
+　いましたいました、明らかに男の人がおっぱいつめてるの。緑色のかつらに黄色いシャツだから、きっと『アルファさん』のつもりなんでしょうね。もう少し肌がツヤッとしていたら、えっ？　と思ったかも。どのアルファさん？　ヒントはちょっと前、このあとすぐ！<br>
+　華代ちゃんの今回の魔法も、そういう嫌悪感？　吹っ飛ばす勢いで炸裂！　コスプレコンテストがあったら、見事に男性の方でも入賞間違いなし！　でもやっぱり人を困らすのは相変わらずのようで。<br>
+　そして華代ちゃん、今回はもう１つミスを働いたな、フッフッフ。主人公の青年に魔力を与えてしまったのだった！　魔法少女ドジっ娘となった奈須雄が戻れと念じると、ほかの華代ちゃん被害者は元に戻れるようになっちゃった。あ〜あ、せっかくなのにと思いきや、那須雄くんだけ戻れないなんて。<br>
 <br>
-�@������҂��z�V�O�ȕ���ɁA����I<br>
-�@����ł́I<br>
+　ちょっぴり奇想天外な物語に、拍手！<br>
+　それでは！<br>
 <br>
-���c�c�c�c�c�c�c�c�c�c�c�c�c<br>
+＠…………………………………<br>
 <br>
-�@�R�}�[�V����<br>
-�w�A�i���O������x���ݘA�ڂ���c�c<br>
-�|�F�͂��A�����͉ؑタ���̌f��������A���������̎~�������[��<br>
-�؁F�������Y�݂�����悤�ł��ˁB�������č����グ�܂����H<br>
-�o�F���̃L�c�l�������@���́A���[��B</font>
+　コマーシャル<br>
+『アナログ所さん』現在連載ちゅ……<br>
+鋼：はい、ここは華代ちゃんの掲示板だから、そういうの止そうぜー♪<br>
+華：何かお悩みがあるようですね。解決して差し上げますが？<br>
+バ：このキツネがすぐ叩くの、えーん。</font>
 <p><a href="http://k_saiyuuki@yahoo.co.jp" target="_top">http://k_saiyuuki@yahoo.co.jp</a>
 </td></table>
 </td></tr></table>
@@ -167,40 +167,40 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[699]</font> <font size=4 color=#40c0c0> �w���ɂ̃R�X�v���x������ɂ͂������N���b�N�B</font>
+<font size=2>[699]</font> <font size=4 color=#40c0c0> 『究極のコスプレ』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/07 (��) 23:09:37 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608071230937&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608071230937"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/07 (月) 23:09:37 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608071230937_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200608071230937"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���o��A�����Ђ�ނ���B�c�c�����ȏ����͖ڂ̓łł����H<br>
-<a href=http://ts.novels.jp/novel/kayo_chan/kayo_chan107.html target=_top>http://ts.novels.jp/novel/kayo_chan/kayo_chan107.html</a></font>
+<font size=3 color=#606060>【推薦文】初登場、高樹ひろむさん。……無茶な女装は目の毒ですか？<br>
+<a href="../../novel/kayo_chan/kayo_chan107.html" target=_top>http://ts.novels.jp/novel/kayo_chan/kayo_chan107.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[698]</font> <font size=4 color=#40c0c0> �؋��B�ōς�</font>
+<font size=2>[698]</font> <font size=4 color=#40c0c0> 証拠隠滅済み</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/25 (��) 20:13:03 <strong>��</strong> <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607252201303&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607252201303"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/25 (火) 20:13:03 <strong>▽</strong> <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607252201303_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200607252201303"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�t�@���g���Ƃ́uPhantom�v�Ȃ̂ł���B</font><br>
-�ӂ��A���ɏ؋��B�ōς݁B<br>
-�Ƃ������ŏ����Ă鎞�_�ŏ؋��B�ł��s���S���Ƃ������Ƃł��ˁB�i��<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;ファントムとは「Phantom」なのですよ。</font><br>
+ふっ、既に証拠隠滅済み。<br>
+とかここで書いてる時点で証拠隠滅が不完全だということですね。（笑<br>
 <br>
-<font color="#cc88ff">&gt;�E�E�E�E�E�E�E�E�E�E�E�E�E�E�E�E�E�I�I�I�I�I�I�I�I�I�I�I�i����</font><br>
-������I�@�܂��e�����I�H<br>
-���A�����A���C�͂Ȃ���ł��戫�C�́B<br>
-�c�c�A���C����������]�v�����������Ƃ������܂��ˁBOTZ<br>
+<font color="#cc88ff">&gt;・・・・・・・・・・・・・・・・・！！！！！！！！！！！（驚愕</font><br>
+もしや！　また粗相を！？<br>
+い、いえ、悪気はないんですよ悪気は。<br>
+……、悪気が無いから余計性質が悪いとも言いますね。OTZ<br>
 <br>
-<font color="#cc88ff">&gt;����ɔޏ��B�͑�D���ł�����</font><br>
-���肪�Ƃ��������܂��B<br>
-������i�����Ǝ���������D���ł���<br>
+<font color="#cc88ff">&gt;それに彼女達は大好きですし♪</font><br>
+ありがとうございます。<br>
+私も千景ちゃんと疾風ちゃん大好きです♪<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -208,44 +208,44 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[697]</font> <font size=4 color=#40c0c0> ���z�ǂ��ǂ��ł��[�B</font>
+<font size=2>[697]</font> <font size=4 color=#40c0c0> 感想どもどもですー。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/25 (��) 15:14:12 <strong>��</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">�}�R�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607252151412&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607252151412"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/25 (火) 15:14:12 <strong>▽</strong> <a href="mailto:fantasydreamsjp@yahoo.co.jp">マコト</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607252151412_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200607252151412"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͊��ƃn���^�[�炵�����b�ɂȂ�Ƃ͎v���܂��B��������y���݂ɁI<br>
-<font color="#cc88ff">&gt;�Vࣂ���<br>
-&gt; �w�n���^�[�r�u�e�a�b�v�x�ǂ݂܂����B</font><br>
-���z�����Ă��������Ă�̂ɂ����݂����Ȃ��̂ł����c�c�t�@���g���Ƃ́uPhantom�v�Ȃ̂ł���B���݂܂���OTL<br>
-<font color="#cc88ff">&gt;�����A�����ȃn���^�[�A�W�I�[�l�����􂷂��������̂��I�H<br>
-&gt;���������A�{�X�̖��߂𕷂��Ȃ��l�ȋC�����邪�ǂ��Ȃ̂��i��<br>
-&gt;�����薂�@�����n���^�[�̃}�X�R�b�g���I�H</font><br>
-�E�E�E�E�E�E�E�E�E�E�E�E�E�E�E�E�E�I�I�I�I�I�I�I�I�I�I�I�i����<br>
-<font color="#cc88ff">&gt;�����̎O�q���o���Ē����A�L��������܂��B<br>
-&gt;���O�����ł��l�l�Ɏg���Ă���������ƔF�߂�ꂽ�C�����܂���</font><br>
-�u�N����������v�Ƃ����̂͋C�ɂ��܂���̂ŁB<br>
-�n���^�[�̓V�F�A���[���h���I�@�����ɓo�^���ꂽ�ȏ�A�N�����g����̂ł���c�c��<br>
-����ɔޏ��B�͑�D���ł�����<br>
+<font size=3 color=#606060>次回は割とハンターらしいお話になるとは思います。今後をお楽しみに！<br>
+<font color="#cc88ff">&gt;天爛さん<br>
+&gt; 『ハンターＳ「ＦＢＣ」』読みました。</font><br>
+感想書いていただいてるのにつっこみたくないのですが……ファントムとは「Phantom」なのですよ。すみませんOTL<br>
+<font color="#cc88ff">&gt;さあ、小さなハンター、ジオーネが活躍する日が来るのか！？<br>
+&gt;そもそも、ボスの命令を聞かない様な気がするがどうなのか（笑<br>
+&gt;それより魔法少女ハンターのマスコット役！？</font><br>
+・・・・・・・・・・・・・・・・・！！！！！！！！！！！（驚愕<br>
+<font color="#cc88ff">&gt;うちの三つ子を出して頂き、有難うございます。<br>
+&gt;名前だけでも人様に使っていただけると認められた気がします♪</font><br>
+「誰が作ったか」というのは気にしませんので。<br>
+ハンターはシェアワールドっ！　そこに登録された以上、誰もが使えるのですよ……ｗ<br>
+それに彼女達は大好きですし♪<br>
 <br>
-Zyuka ����<br>
-<font color="#cc88ff">&gt;���񂾂�l�������Ă������̑g�D�A�S���c������̂�����ł��B<br>
-&gt;��������ł܂����o��̘b�ɒ��킵�Ă݂�̂��ꋻ�Ƃ����܂����A<br>
-&gt;�N���������Ă݂܂���H</font><br>
-���̖��A����Ă݂܂��傤�I<br>
+Zyuka さん<br>
+<font color="#cc88ff">&gt;だんだん人が増えていくこの組織、全員把握するのも困難です。<br>
+&gt;ここいらでまた総登場の話に挑戦してみるのも一興といいますが、<br>
+&gt;誰か無茶してみません？</font><br>
+その役、やってみましょう！<br>
 <br>
-��e����<br>
-<font color="#cc88ff">&gt;�^�邳��̂Ƃ���ǂ��납�}�R�g����̃T�C�g�œǂ�ŁA�^����Ɋ��z�����Ă����̂ł�����<br>
-&gt;�͏����Ă܂���ł�����<br>
-&gt;�l�̕��ɐG������Ăƌ������ƂȂ̂ł�͂菑�������ƁB</font><br>
-�O�ꏊ�S�����z���肪�Ƃ��ł��B��e����̂������ŃW�I�[�l�͐��܂ꂽ�����R�ł��I<br>
-JOJO�͂����ł��ˁ`����ρB<br>
-<font color="#cc88ff">&gt;���Ȃ����݂ƌ����ƃA�C�h���͂܂����ȂƎv���܂����A�����Ĕ����Ȃ������������ƃA�C�h��<br>
-&gt;�O���[�v�̂悤�ȑg�D�ɁB<br>
-&gt;�������\�����͌|�\�v���_�N�V�����ɂ��ăJ���t���[�W���Łu�d���v�����肵�āi�΁j</font><br>
-�ŋ߁i��Ɏ��̂����Łj�n���^�[���{���̎d�����Ă܂����OTL<br>
-���{�R�ł����Q���ł����̂ŁA���񂱂��́I</font>
+城弾さん<br>
+<font color="#cc88ff">&gt;真城さんのところどころかマコトさんのサイトで読んで、真っ先に感想書いていたのでこちら<br>
+&gt;は書いてませんでしたが<br>
+&gt;僕の方に触発されてと言うことなのでやはり書こうかと。</font><br>
+三場所全部感想ありがとうです。城弾さんのおかげでジオーネは生まれたも同然です！<br>
+JOJOはいいですね〜やっぱ。<br>
+<font color="#cc88ff">&gt;いない存在と言うとアイドルはまだかなと思いますが、揃って美女ないし美少女化とアイドル<br>
+&gt;グループのような組織に。<br>
+&gt;いっそ表向きは芸能プロダクションにしてカモフラージュで「仕事」したりして（笑）</font><br>
+最近（主に私のせいで）ハンターが本来の仕事してませんねOTL<br>
+総本山でもお嘆きでしたので、次回こそは！</font>
 <p><a href="http://www.geocities.jp/fantasydreamsjp/" target="_top">http://www.geocities.jp/fantasydreamsjp/</a>
 </td></table>
 </td></tr></table>
@@ -253,41 +253,41 @@ JOJO�͂����ł��ˁ`����ρB<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[696]</font> <font size=4 color=#40c0c0> �܂��܂��ǂ܂��Ă��������܂�������</font>
+<font size=2>[696]</font> <font size=4 color=#40c0c0> またまた読ませていただきましたぁん</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/20 (��) 13:21:04 <strong>��</strong> <a href="mailto:IZA00527@nifty.com">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607204132104&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607204132104"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/20 (木) 13:21:04 <strong>▽</strong> <a href="mailto:IZA00527@nifty.com">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607204132104_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200607204132104"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�^�邳��̂Ƃ���ǂ��납�}�R�g����̃T�C�g�œǂ�ŁA�^����Ɋ��z�����Ă����̂ł�����͏����Ă܂���ł�����<br>
-�l�̕��ɐG������Ăƌ������ƂȂ̂ł�͂菑�������ƁB<br>
+<font size=3 color=#606060>　真城さんのところどころかマコトさんのサイトで読んで、真っ先に感想書いていたのでこちらは書いてませんでしたが<br>
+僕の方に触発されてと言うことなのでやはり書こうかと。<br>
 <br>
-�@�����ł��ˁB<br>
-�@�F�X�Ƃ���΂߂Ă����āB<br>
-�@�l�̂ق����j���j���B<br>
-�@���X�g�̃{�X�̑䎌�ł͂ӂ��܂����B<br>
+　いいですね。<br>
+　色々とちりばめてあって。<br>
+　僕のほうもニヤニヤ。<br>
+　ラストのボスの台詞ではふきました。<br>
 <br>
-�@�W�I�[�l�̓r�W���A���̌��Ă݂����L�����ł��ˁB<br>
-�@�ʉe���܂������c���ĂȂ��ƌ����_�ł̓~�b�h�i�C�g�u���X��H������r�V�������ɒʂ���Ƃ��낪<br>
-�i�Ȃ�[�Ⴆ���j<br>
+　ジオーネはビジュアルの見てみたいキャラですね。<br>
+　面影がまったく残ってないと言う点ではミッドナイトブリスを食らったビシャモンに通じるところが<br>
+（なんつー例えだ）<br>
 <br>
-�@���Ȃ����݂ƌ����ƃA�C�h���͂܂����ȂƎv���܂����A�����Ĕ����Ȃ������������ƃA�C�h���O���[�v�̂悤�ȑg�D�ɁB<br>
-�@�������\�����͌|�\�v���_�N�V�����ɂ��ăJ���t���[�W���Łu�d���v�����肵�āi�΁j<br>
+　いない存在と言うとアイドルはまだかなと思いますが、揃って美女ないし美少女化とアイドルグループのような組織に。<br>
+　いっそ表向きは芸能プロダクションにしてカモフラージュで「仕事」したりして（笑）<br>
 <br>
-�@����Ƃ͖��֌W�ɑ��o��b�Ȃ炱�̎����ł���<br>
-�u�h�L�b�B�ؑ��Q�ҁi�I���i�j���炯�̐��j���v�Ȃ�ăl�^���ʔ��������i�΁j<br>
-�@�u�K���֍s�����v�ȍ~�ɒǉ����ꂽ�u���̎q�v�i�΁j�������������<br>
-�i�����͔C�������Ŗ������o���B���I���ƌY�����Ɂu�A��v�j<br>
+　それとは無関係に総登場話ならこの時期ですし<br>
+「ドキッ。華代被害者（オンナ）だらけの水泳大会」なんてネタも面白いかも（笑）<br>
+　「銭湯へ行こう」以降に追加された「女の子」（笑）たちも加わって<br>
+（ここは任務扱いで無理やり出所。大会が終わると刑務所に「帰る」）<br>
 <br>
-�@�����ŏ����Ƃ���ꂻ���ł����A�l�������Ɖ��i�ɂȂ肻����</font>
+　自分で書けといわれそうですが、僕が書くと下品になりそうで</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kayo_chan">
@@ -295,16 +295,16 @@ JOJO�͂����ł��ˁ`����ρB<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kayo_chan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kayo_chan">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kayo_chan.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

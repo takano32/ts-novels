@@ -106,7 +106,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 心と体の均衡はどこへ向かうのだろうか。<br>
-<a href=http://ts.novels.jp/novel/200606/01235810/yama08.htm target=_top>http://ts.novels.jp/novel/200606/01235810/yama08.htm</a></font>
+<a href="../../novel/200606/01235810/yama08.htm" target=_top>http://ts.novels.jp/novel/200606/01235810/yama08.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -121,7 +121,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】月の光の下で明らかにされるひとつの真実。<br>
-<a href=http://ts.novels.jp/novel/200606/01235810/yama07.htm target=_top>http://ts.novels.jp/novel/200606/01235810/yama07.htm</a></font>
+<a href="../../novel/200606/01235810/yama07.htm" target=_top>http://ts.novels.jp/novel/200606/01235810/yama07.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -212,7 +212,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 耀が帰るべき場所はいずこなのか。<br>
-<a href=http://ts.novels.jp/novel/200606/01235810/yama06.htm target=_top>http://ts.novels.jp/novel/200606/01235810/yama06.htm</a></font>
+<a href="../../novel/200606/01235810/yama06.htm" target=_top>http://ts.novels.jp/novel/200606/01235810/yama06.htm</a></font>
 </td></table>
 </td></tr></table>
 

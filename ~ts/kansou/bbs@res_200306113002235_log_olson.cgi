@@ -1,50 +1,50 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�n�k�r�n�m�����i�@���z�f����</title>
+<title>ＯＬＳＯＮさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�n�k�r�n�m�����i�@���z�f����</font>
+<font size=5>ＯＬＳＯＮさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="olson">
 <input type=hidden name="nj" value="OhAi7Ai2zV">
 <input type=hidden name="res" value="39">
-<h4 align=center>�� �L���ԍ� 39 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 39 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���񂽂��D���T����
-&gt; ���������A�Ȃ�ƃ��X�����Ă�
-&gt; �Ă��������������A�T�C�g���������Ƃ������Ƃ𒲂ׂ����Ȃ���
-&gt; �t�@���Ȃ�ĕЕ��̒ɂ����Ƃ������Ă��݂܂���ł����E�E�E�I
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ あんたが好きサさん
+&gt; おおおお、なんとレスがついてる
+&gt; ていうかげげげげ、サイトをお持ちということを調べもしないで
+&gt; ファンなんて片腹の痛いことを言ってすみませんでした・・・！
 &gt; 
-&gt; �j���̗�l���Ƀc�{�ł�
-&gt; �Ă������I�b�g�R�O�ȏ��̎q���D���ł��B
-&gt; �ł�����s�r�łȂ��Ƃ��E�E�E�Ȃ�Ă����Ō�������܂������B
+&gt; 男装の麗人非常にツボです
+&gt; ていうかオットコ前な女の子が好きです。
+&gt; ですからＴＳでなくとも・・・なんてここで言っちゃまずいか。
 &gt; 
-&gt; ���ғǂ�ł��܂����B�����܂ŕ��̂╵�͋C����������Ă����̂͂������Ȃ��B
-&gt; �y�b�g�{�g���ǂ�ŕ������ϑz�𐳂��������ŏ��؂��Ă�����������ł��B
-&gt; ���肪���������������B�������m�荇���̍�Ȃ��낵�����`�����������B
+&gt; 続編読んできました。ここまで文体や雰囲気似せられるっていうのはすごいなあ。
+&gt; ペットボトル読んで抱いた妄想を正しい方向で昇華してもらった感じです。
+&gt; ありがたいやら嬉しいやら。もしお知り合いの作ならよろしくお伝えください。
 &gt; 
-&gt; �ł́A�����̏��N�������ɕ��A���F��A���ꂩ����撣���Ă��������B</textarea><br>
+&gt; では、いつかの少年少女文庫復帰を祈りつつ、これからも頑張ってください。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -57,33 +57,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> �T�C�g�͂Ȃ��ł����c�c</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> サイトはないですが……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/11 (��) 22:44:31 <strong>��</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON@�����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306113224431&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306113224431"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/11 (水) 22:44:31 <strong>▽</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON@ありゃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306113224431_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200306113224431"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���񂽂��D���T����<br>
-<font color="#cc88ff">&gt;�T�C�g����������</font><br>
-�����A�T�C�g�͖����ł��B<br>
-�����ō��̖ʓ|�����A�ǂ��������Ȃ炽������̐l�ɓǂ�ł��炢�����̂Ŋ����̑傫�ȃT�C�g�ɑ����Ă��܂����Ƃ����A�R�M�ȍl���������肵�܂��B<br>
+<font size=3 color=#606060>▼ あんたが好きサさん<br>
+<font color="#cc88ff">&gt;サイトをお持ちと</font><br>
+いえ、サイトは無いです。<br>
+自分で作るの面倒だし、どうせ書くならたくさんの人に読んでもらいたいので既存の大きなサイトに送ってしまおうというアコギな考えだったりします。<br>
 <br>
-<font color="#cc88ff">&gt;�j���̗�l</font><br>
-���̍�i��Kanon��DNML�̂��߁A����̃\�t�g���茳�ɂȂ��Ɠǂ߂Ȃ��ł����A�������ł����炨���߂ł��B<br>
-���{��DNML�z�e��<br>
+<font color="#cc88ff">&gt;男装の麗人</font><br>
+この作品はKanonのDNMLのため、原作のソフトが手元にないと読めないですが、お持ちでしたらお勧めです。<br>
+来須川DNMLホテル<br>
 ttp://www.geocities.co.jp/Playtown-Denei/9199/index2.html<br>
-�ɂČ��J�B<br>
-���ƁA���̂ق��ŏ�������ł���G���������A�ٍ삪���Ȃ�C�ɓ����ăt�@���y�[�W������Ă���܂����B(^^;<br>
-ttp://www.h4.dion.ne.jp/~tion/top.html�@�̌f���̃����N����<br>
-ttp://serura.hp.infoseek.co.jp/�@�����ł��B<br>
-������ɂ�DNML�Ƃ�����HTML�ł��f�ڂ��Ē����Ă���܂��B<br>
+にて公開。<br>
+あと、下のほうで書き込んでいるエルラ氏が、拙作がかなり気に入ってファンページを作ってくれました。(^^;<br>
+ttp://www.h4.dion.ne.jp/~tion/top.html　の掲示板のリンクから<br>
+ttp://serura.hp.infoseek.co.jp/　ここです。<br>
+こちらにてDNMLとそれらのHTML版を掲載して頂いております。<br>
 <br>
-<font color="#cc88ff">&gt; �����܂ŕ��̂╵�͋C����������Ă����̂͂������Ȃ��B</font><br>
-�m���ɁA�V���v���ȕ��̂ƃL�����N�^�[�̓��������܂��͂�ł��܂��B<br>
-�c�O�Ȃ��玷�M���ƍŌ�̃l�^�̒񋟂̌�͕r���Ƃ̘A�������Ȃ��Ȃ��Ă���̂ŏڍׂ͕s���ł����A���܂��񎟑n���������r�O�̎����傾�Ǝv���܂��B<br>
+<font color="#cc88ff">&gt; ここまで文体や雰囲気似せられるっていうのはすごいなあ。</font><br>
+確かに、シンプルな文体とキャラクターの特徴をうまく掴んでいます。<br>
+残念ながら執筆許可と最後のネタの提供の後は瓶氏との連絡が取れなくなっているので詳細は不明ですが、うまく二次創作を書ける腕前の持ち主だと思います。<br>
 <br>
-�ł́A���ꂩ��������l�^�������񂾂炱����ɓ��e�������Ǝv���܂��B</font>
+では、これからもいいネタが浮かんだらこちらに投稿したいと思います。</font>
 </td></table>
 </td></tr></table>
 
@@ -93,48 +93,48 @@ ttp://serura.hp.infoseek.co.jp/�@�����ł��B<br>
 <font size=2>[39]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/11 (��) 00:22:35 <strong>��</strong> ���񂽂��D���T </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306113002235&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306113002235"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/11 (水) 00:22:35 <strong>▽</strong> あんたが好きサ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306113002235_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200306113002235"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������A�Ȃ�ƃ��X�����Ă�<br>
-�Ă��������������A�T�C�g���������Ƃ������Ƃ𒲂ׂ����Ȃ���<br>
-�t�@���Ȃ�ĕЕ��̒ɂ����Ƃ������Ă��݂܂���ł����E�E�E�I<br>
+<font size=3 color=#606060>おおおお、なんとレスがついてる<br>
+ていうかげげげげ、サイトをお持ちということを調べもしないで<br>
+ファンなんて片腹の痛いことを言ってすみませんでした・・・！<br>
 <br>
-�j���̗�l���Ƀc�{�ł�<br>
-�Ă������I�b�g�R�O�ȏ��̎q���D���ł��B<br>
-�ł�����s�r�łȂ��Ƃ��E�E�E�Ȃ�Ă����Ō�������܂������B<br>
+男装の麗人非常にツボです<br>
+ていうかオットコ前な女の子が好きです。<br>
+ですからＴＳでなくとも・・・なんてここで言っちゃまずいか。<br>
 <br>
-���ғǂ�ł��܂����B�����܂ŕ��̂╵�͋C����������Ă����̂͂������Ȃ��B<br>
-�y�b�g�{�g���ǂ�ŕ������ϑz�𐳂��������ŏ��؂��Ă�����������ł��B<br>
-���肪���������������B�������m�荇���̍�Ȃ��낵�����`�����������B<br>
+続編読んできました。ここまで文体や雰囲気似せられるっていうのはすごいなあ。<br>
+ペットボトル読んで抱いた妄想を正しい方向で昇華してもらった感じです。<br>
+ありがたいやら嬉しいやら。もしお知り合いの作ならよろしくお伝えください。<br>
 <br>
-�ł́A�����̏��N�������ɕ��A���F��A���ꂩ����撣���Ă��������B</font>
+では、いつかの少年少女文庫復帰を祈りつつ、これからも頑張ってください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> �v�X�ɔ`���Ă݂���c�c</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> 久々に覗いてみたら……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/08 (��) 22:04:47 <strong>��</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON@�v�X</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306080220447&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306080220447"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/08 (日) 22:04:47 <strong>▽</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON@久々</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306080220447_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200306080220447"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�X�ɔ`���Ă݂���X�Ȃ銴�z���I<br>
-�V��������A���񂽂��D���T����A�C�ɓ����Ă��������Ċ������ł��B<br>
-�ł��c�O�Ȃ���TS�l�^�͍��̂Ƃ���l�^�؂�ł��B���ނ���C�͂Ȃ��̂Ńl�^�������ю��掷�M�����Ă��������܂��B<br>
-�ŋߔ��\����DNML�́c�c����ł̒j�L���������͒j���̗�l�������c�c�Ƃ����ݒ肾����TS�Ƃ͂��ƈႤ���B<br>
+<font size=3 color=#606060>久々に覗いてみたら更なる感想が！<br>
+シルルさん、あんたが好きサさん、気に入っていただけて嬉しいです。<br>
+でも残念ながらTSネタは今のところネタ切れです。引退する気はないのでネタが浮かび次第執筆させていただきます。<br>
+最近発表したDNMLは……原作での男キャラが実は男装の麗人だった……という設定だからTSとはちと違うし。<br>
 <br>
-�Ȃ��A�ٍ�y�b�g�{�g�����C�ɓ���A18�ւ̑��҂��������ė~�����Ƃ�����������܂����B<br>
-���̏��N�������ɂł̓|���m�s�䂦�Ɏg���Ȃ������l�^��񋟂̏�ŁA�ʔ����܂Ƃ߂Ă��������܂����B<br>
-�QCH��<br>
-�������z�̏����ɐ��܂�ς������c ����4<br>
-ttp://www2.bbspink.com/test/read.cgi/eroparo/1042164477/l50�ɂāw�r�x�Ƃ����n���h���ɂĘA�ڂ���܂����B<br>
-�X�ɂ̓C���X�g�܂ŕ`���Ă��������܂����B�i�c�O�Ȃ�����������N��͗���Ă��܂��܂������j<br>
-�����܂ŋC�ɓ����Ă��������K���ł��B</font>
+なお、拙作ペットボトルが気に入り、18禁の続編を書かせて欲しいという方が現れました。<br>
+この少年少女文庫ではポルノ不可ゆえに使えなかったネタを提供の上で、面白くまとめていただきました。<br>
+２CHの<br>
+もし理想の女性に生まれ変わったら… その4<br>
+ttp://www2.bbspink.com/test/read.cgi/eroparo/1042164477/l50にて『瓶』というハンドルにて連載されました。<br>
+更にはイラストまで描いていただきました。（残念ながらもうリンク先は流れてしまいましたが）<br>
+ここまで気に入っていただき幸せです。</font>
 </td></table>
 </td></tr></table>
 
@@ -144,46 +144,46 @@ ttp://www2.bbspink.com/test/read.cgi/eroparo/1042164477/l50�ɂāw�r�x�Ƃ����n���
 <font size=2>[37]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/05 (��) 00:17:31 <strong>��</strong> ���񂽂��D���T </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306054001731&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306054001731"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/05 (木) 00:17:31 <strong>▽</strong> あんたが好きサ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306054001731_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200306054001731"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y�b�g�{�g���A���x�ǂݒ����Ă������藈�܂��B<br>
-�L���ō��B�㓙�B<br>
-�ǓƂɋ����������Ă�������A�����Ƃ���͍ō��̐l�����B<br>
+<font size=3 color=#606060>ペットボトル、何度読み直してもじんわり来ます。<br>
+青臭さ最高。上等。<br>
+孤独に脅えず生きていけたら、きっとそれは最高の人生だ。<br>
 <br>
-��t�@���Ȃ�ł����A�������ނȂ�������ł��傤���E�E�E�B</font>
+大ファンなんですが、もう引退なさったんでしょうか・・・。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> �u�b�q���̖����v�ǂ݂܂���</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 「甲子園の魔物」読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/22 (��) 18:16:11 <strong>��</strong> �V���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305224181611&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305224181611"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/22 (木) 18:16:11 <strong>▽</strong> シルル </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305224181611_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200305224181611"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���T�}���J�b�R�ǂ��ł��I<br>
-�I�l�[�T�}�ƌĂ΂��Ă��������B</font>
+<font size=3 color=#606060>誠サマがカッコ良いです！<br>
+オネーサマと呼ばせてください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> Re2:�w�y�b�g�{�g���x�ǂ݂܂���</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> Re2:『ペットボトル』読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/10/16 (��) 20:37:50 <strong>��</strong> �G���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200210163203750&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200210163203750"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/16 (水) 20:37:50 <strong>▽</strong> エルラ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200210163203750_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200210163203750"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�������̕ԓ�</font><br>
-�v���̑���Ȃ������������ƈӊO�ɑf���ɔF�߂Ă܂����B<br>
-�o���A�t���[�̔��z����������Ȃ��Z�ɂȂ̂ŁA���������z���Ɍ�����͎̂d���Ȃ��̂�������܂��񂪁c�c</font>
+<font size=3 color=#606060><font color="#ff88cc">＞教授の返答</font><br>
+思慮の足りない発言だったと意外に素直に認めてました。<br>
+バリアフリーの発想がかけらもない校舎なので、そういう配慮に欠けるのは仕方ないのかもしれませんが……</font>
 <p><a href="http://www.h4.dion.ne.jp/~tion/top.html" target="_top">http://www.h4.dion.ne.jp/~tion/top.html</a>
 </td></table>
 </td></tr></table>
@@ -191,57 +191,57 @@ ttp://www2.bbspink.com/test/read.cgi/eroparo/1042164477/l50�ɂāw�r�x�Ƃ����n���
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> Re:�w�y�b�g�{�g���x�ǂ݂܂���</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> Re:『ペットボトル』読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/10/12 (�y) 12:38:30 <strong>��</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200210126123830&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200210126123830"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/12 (土) 12:38:30 <strong>▽</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200210126123830_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200210126123830"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�G��������ǂ�ł�������ǂ����ł��B<br>
-<font color="#cc88ff">&gt;���ꂽ�t�@���^�W�[�n</font><br>
-�����ȃt�@���^�W�[�͂��܂�D���ł͂Ȃ��ł������������͍̂D���ł��B<br>
-<font color="#cc88ff">&gt;�A�[�J�[�h���̓Z���X��A���N�̕����D���ł��ˁB</font><br>
-�O�҂̓V���A�X�A��҂̓R���f�B�H�@���l�^�͕s���B<br>
-<font color="#cc88ff">&gt; ���z�́c�c�܂����앨�̃l�^�i�ꕾ���肷���j�ŕԗ�Ƃ������ƂŁB</font><br>
-�V��A�y���݂ɂ��Ă܂��B<br>
-<font color="#cc88ff">&gt;������Ƃ�����ւ��n�𑽂��ڂɂ���</font><br>
-�Q���n��ł͂��肪���ł�����ˁc<br>
-<font color="#ff88cc">���ʔ�������</font><br>
-�ɂ��ł�����ǂ�ł݂܂��B<br>
-<font color="#cc88ff">&gt;�䂤��������</font><br>
-�������Ă݂���c�c�Ȃ�قǁA�����l�����Ă��d���Ȃ��ł��ȁB<br>
-<font color="#ff88cc">���b�q��&gt; �w���S�ȓ��̂ɂ́`�`�`�x���N�w</font><br>
-���āA���̋����̕ԓ����C�ɂȂ�܂��B<br>
-�������ʂ����ȁI�@�ƌ�������̂��A�Ȃ�قǁA�Ɣ��Ȃ���̂��c�c�B</font>
+<font size=3 color=#606060>エルラさん読んでくださりどうもです。<br>
+<font color="#cc88ff">&gt;ずれたファンタジー系</font><br>
+純粋なファンタジーはあまり好きではないですがこういうのは好きです。<br>
+<font color="#cc88ff">&gt;アーカードよりはセラスやアルクの方が好きですね。</font><br>
+前者はシリアス、後者はコメディ？　元ネタは不明。<br>
+<font color="#cc88ff">&gt; 感想は……また盗作物のネタ（語弊ありすぎ）で返礼ということで。</font><br>
+新作、楽しみにしてます。<br>
+<font color="#cc88ff">&gt;ここんとこ入れ替わり系を多く目にした</font><br>
+２次創作ではありがちですからね…<br>
+<font color="#ff88cc">＞面白い漫画</font><br>
+暇ができたら読んでみます。<br>
+<font color="#cc88ff">&gt;ゆうきあずさ</font><br>
+検索してみたら……なるほど、引く人がいても仕方ないですな。<br>
+<font color="#ff88cc">＞甲子園&gt; 『健全な肉体には〜〜〜』＞哲学</font><br>
+さて、その教授の返答が気になります。<br>
+屁理屈ぬかすな！　と激高するのか、なるほど、と反省するのか……。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> �w�y�b�g�{�g���x�ǂ݂܂���</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> 『ペットボトル』読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/10/11 (��) 03:44:08 <strong>��</strong> �G���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200210115034408&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200210115034408"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/11 (金) 03:44:08 <strong>▽</strong> エルラ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200210115034408_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200210115034408"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ł͂͂��߂܂��ăG�����ł��B<br>
-�n�k�r�n�m���񂱂����ł����􂳂�Ă�����ł��ˁB���ς�炸�ʔ������̂��c�c�B�����������ꂽ�t�@���^�W�[�n�͍D���ł��B�^���q�ŕ�����Ǝv���܂����B�A�[�J�[�h���̓Z���X��A���N�̕����D���ł��ˁB<br>
-���z�́c�c�܂����앨�̃l�^�i�ꕾ���肷���j�ŕԗ�Ƃ������ƂŁB������Ƃ�����ւ��n�𑽂��ڂɂ����̂ňꔭ����Ă݂悤���ȂƂ��l���Ă܂��B�V���A�X����̃M���O�ŁB<br>
+<font size=3 color=#606060>ここでははじめましてエルラです。<br>
+ＯＬＳＯＮさんこっちでも活躍されていたんですね。相変わらず面白いものを……。こういうずれたファンタジー系は好きです。某雪ん子で分かると思いますが。アーカードよりはセラスやアルクの方が好きですね。<br>
+感想は……また盗作物のネタ（語弊ありすぎ）で返礼ということで。ここんとこ入れ替わり系を多く目にしたので一発やってみようかなとか考えてます。シリアス入りのギャグで。<br>
 <br>
-<font color="#ff88cc">���ʔ�������i�m���Ă������邩�ȁj</font><br>
-�v���̓��i���݂���j�E�����o���p�C�A�̋t�P�i�����j�E�~���g�Ȗl��i�g�Z�j<br>
-�n�k�r�n�m����A���ĂȂ������琥��ǂ����B�����Ɍf�ڂ���Ă���悤�ȍ�i�����D�݂ł����瑽���󂯂�Ǝv���܂���B<br>
+<font color="#ff88cc">＞面白い漫画（知ってらっしゃるかな）</font><br>
+革命の日（つだみきよ）・平成バンパイアの逆襲（浅野りん）・ミントな僕ら（吉住渉）<br>
+ＯＬＳＯＮさん、見てなかったら是非どうぞ。ここに掲載されているような作品がお好みでしたら多分受けると思いますよ。<br>
 <br>
-<font color="#ff88cc">���䂤���܂���</font><br>
-�^�`���b�g�ŉ��̂��Ƃ������炸�u�䂤���������H�v�ƕ����Ԃ�����A�u�������v�Ƃ������܂����i�΁j�B�����܂Ō������Ȃ��Ă��c�c<br>
+<font color="#ff88cc">＞ゆうきまさみ</font><br>
+某チャットで何のことか分からず「ゆうきあずさ？」と聞き返したら、「うげっ」とか言われました（笑）。そこまで嫌悪しなくても……<br>
 <br>
-<font color="#ff88cc">���b�q��</font><br>
-�w���S�ȓ��̂ɂ́`�`�`�x�Ƃ悭�������Ƃł����A�N�w�̋������w�肪���邩��l�Ԃ���̂��H�@����Ƃ��l�Ԃł���䂦�Ɏ�����̂��H�@���N�ǂ��v�������|�[�g���o���ė~�����x�ƌ������Ƃ��ɁA�l�́u����Ȏ肪�Ȃ��l��l�ԂłȂ��ƒ�`����悤�Ȏ���ɂ͓������˂܂��v�ƕԓ����܂����B�����̏펯�I�ϓ_���甭�����錾�t�قǕ|�����̂͂���܂���B�C�����������̂ł��B<br>
+<font color="#ff88cc">＞甲子園</font><br>
+『健全な肉体には〜〜〜』とよく似たことですが、哲学の教授が『手があるから人間たるのか？　それとも人間であるゆえに手をもつのか？　諸君どう思うかレポートを提出して欲しい』と言ったときに、僕は「そんな手がない人を人間でないと定義するような質問には答えかねます」と返答しました。多数の常識的観点から発せられる言葉ほど怖いものはありません。気をつけたいものです。<br>
 <br>
-�c�������Ă�̂��悭�킩��Ȃ��Ȃ�܂������A����ɂĎ���<br>
+…何書いてるのかよくわからなくなりましたが、これにて失礼<br>
 </font>
 <p><a href="http://www.h4.dion.ne.jp/~tion/top.html" target="_top">http://www.h4.dion.ne.jp/~tion/top.html</a>
 </td></table>
@@ -250,89 +250,89 @@ ttp://www2.bbspink.com/test/read.cgi/eroparo/1042164477/l50�ɂāw�r�x�Ƃ����n���
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> �f�ڂƊ��z���肪�Ƃ��������܂��B</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> 掲載と感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/10/06 (��) 22:19:00 <strong>��</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200210060221900&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200210060221900"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/06 (日) 22:19:00 <strong>▽</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200210060221900_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200210060221900"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ǂ�ł������肠�肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>　読んでくださりありがとうございます。<br>
 <br>
-<font color="#ff88cc">���a�J@�Ƃ��炳��</font><br>
-�@���e�G�Ō���Ƃ������ł���炵�����ǂق�Ƃ͂�������Ȃ��āc<br>
-�K���Ɉ��������炸�����Ɍf�ڂ���Ă悩�����ł��B<br>
+<font color="#ff88cc">＞渋谷@家からさん</font><br>
+　＞影絵で見るとえっちでいやらしいけどほんとはそうじゃなくて…<br>
+規制に引っかからず無事に掲載されてよかったです。<br>
 <br>
-�@�����̎q�̖��O����<br>
-�����I�@�V�쎷�M�̍ۂ͊��p�����Ē����܂��B<br>
-<br>
-<br>
-<font color="#ff88cc">���d�g�d������</font><br>
-�@���z���S���b�N<br>
-�@�����Ԓn�̍��}���g��g�ɒ�����z���S�̂��������c�H�@�ƁA�v������Ȃ񂩂̓o��l���̂悤�ł��ˁB<br>
+　＞女の子の名前辞書<br>
+おお！　新作執筆の際は活用させて頂きます。<br>
 <br>
 <br>
-<font color="#ff88cc">����_�����T�C�g�Ǘ��҂���</font><br>
-�@�����t���T<br>
-�@�Ƃ肠�����A����HP�Ŏ������Ǝv���܂��B<br>
+<font color="#ff88cc">＞電波妖精さん</font><br>
+　＞吸血鬼ルック<br>
+　裏が赤地の黒マントを身に着ける吸血鬼のかっこう…？　と、思ったらなんかの登場人物のようですね。<br>
 <br>
 <br>
-<font color="#ff88cc">��Kardy����</font><br>
-�@�����荞�܂ꂽ�ݒ�A�ׂ��������`�ʁE�E�E<br>
-�@�ݒ�́c�������񏑂��グ�Ă���t�����������������ł����c�B�i�k�ЁA�d���`�l�^���c�j<br>
-�@�܂��A����ʂ��؂ł��ȁB���āA�����Ƃ��񂯁B�i��<br>
+<font color="#ff88cc">＞矢治浩平＠サイト管理者さん</font><br>
+　＞名付辞典<br>
+　とりあえず、件のHPで事足りると思われます。<br>
 <br>
 <br>
-<font color="#ff88cc">�����K\����</font><br>
-�@���܂��������܂񂪂Ƃ�!<br>
-�@�z���S�Ȃ��悿���c���������B<br>
-�@���̃}���K���āA�V�R�L�����������̂ŋz���S��������ǂ��Ȃ邱�Ƃ��c�c�B<br>
-<br>
-�@������ς�I������ �o���U�C<br>
-�@���߂͐��̓{�N�����ł����B�G���ƈ�l�̂��d������̂łǂ������w���x�łǂ������w�l�x�ɂ��邩�Ō�܂ŔY�݂܂����B<br>
+<font color="#ff88cc">＞Kardyさん</font><br>
+　＞練り込まれた設定、細かい叙事描写・・・<br>
+　設定は…いったん書き上げてから付け足した物も多いですが…。（震災、Ｅ○Ａネタ等…）<br>
+　まあ、言わぬが華ですな。って、書いとるやんけ。（笑<br>
 <br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U����</font><br>
-�@������͂܂��A�d���񂾂��y���񂾂��킩��Ȃ�<br>
-�@�ߋ��̍�i������ȌX��������܂����B�ǂ���炱�ꂪ���̍앗�̂悤�ł��B<br>
+<font color="#ff88cc">＞メガ\さん</font><br>
+　＞まさかあずまんがとか!<br>
+　吸血鬼なちよちゃん…いいかも。<br>
+　あのマンガって、天然キャラが多いので吸血鬼化したらどうなることやら……。<br>
 <br>
-�@���g�}�g�W���[�X����ł͓f���A�܂�����<br>
-�@�z���S�������z���Ȃ��㏞�Ƀg�}�g�W���[�X�����ނ��Ă̂͂悭����l�^�ł����A������V���A�X�ɂ���Ɓc����Ȃ�ł��܂����B<br>
-�@��Œm��܂�������p�i�ɂ͐ԃ��C��������܂����ˁB�ł��A���̘b�ɂ��Ă͂߂�Ɓc�����N�����{���ɃA�����ɂȂ肩�˂Ȃ����短���ɂȂ�܂���ȁB<br>
-<br>
-�@���䂤���܂���<br>
-�@����c�w�䂤���x�Ƃ����c�������܂����瑬�U�ł����Ȃ�܂����B<br>
+　＞やっぱりオレっ娘 バンザイ<br>
+　初めは千代はボクっ娘でした。秀明と一人称が重複するのでどっちが『俺』でどっちが『僕』にするか最後まで悩みました。<br>
 <br>
 <br>
-<font color="#ff88cc">���������񂳂�</font><br>
-�@����������X�ɗ��S��<br>
-�@���̂�����A�����Ɛ[���@�艺���ď����ׂ��ł����B�ǂ������˂Ȋ��������܂��B<br>
+<font color="#ff88cc">＞ｍｋ８４２６さん</font><br>
+　＞これはまた、重いんだか軽いんだかわかんない<br>
+　過去の作品もそんな傾向がありました。どうやらこれが私の作風のようです。<br>
 <br>
-�@�ł́A�F���񊴑z���肪�Ƃ��������܂����B</font>
+　＞トマトジュース飲んでは吐き、また飲む<br>
+　吸血鬼が血を吸えない代償にトマトジュースを飲むってのはよくあるネタですが、それをシリアスにすると…こんなんできました。<br>
+　後で知りましたが代用品には赤ワインもありましたね。でも、この話にあてはめると…未成年だし本当にアル中になりかねないから洒落になりませんな。<br>
+<br>
+　＞ゆうきまさみ<br>
+　結城…『ゆうき』という苗字が決まったら速攻でこうなりました。<br>
+<br>
+<br>
+<font color="#ff88cc">＞もぐたんさん</font><br>
+　＞それも徐々に恋心が<br>
+　このあたり、もっと深く掘り下げて書くべきでした。どうも唐突な感じもします。<br>
+<br>
+　では、皆さん感想ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> �v�X�����E�E�E�E�E�E</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> 久々だぁ・・・・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/10/05 (�y) 19:56:09 <strong>��</strong> �������� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200210056195609&log=olson">�ԐM</a>�@�폜<input type=checkbox name="target" value="200210056195609"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/05 (土) 19:56:09 <strong>▽</strong> もぐたん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200210056195609_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200210056195609"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�X�ɑ喞�������Ă��������܂����u�y�b�g�{�g���v�ɂ́B<br>
+<font size=3 color=#606060>久々に大満足させていただきました「ペットボトル」には。<br>
 <br>
-�킽���͂����������l�Ԃ̓��ʁA��������X�ɗ��S���E�E�Ƃ����������̂����Ȃ񂷂�B<br>
+わたしはこういった人間の内面、それも徐々に恋心が・・とかそういうのすきなんすよ。<br>
 <br>
-�ł��ł�</font>
+であであ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="olson">
@@ -340,16 +340,16 @@ ttp://www2.bbspink.com/test/read.cgi/eroparo/1042164477/l50�ɂāw�r�x�Ƃ����n���
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="olson">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=olson">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_olson.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

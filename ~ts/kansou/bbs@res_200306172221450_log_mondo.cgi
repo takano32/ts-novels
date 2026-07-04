@@ -1,42 +1,42 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�l�n�m�c�n��i�@���z�f����</title>
+<title>ＭＯＮＤＯ作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�l�n�m�c�n��i�@���z�f����</font>
+<font size=5>ＭＯＮＤＯ作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="mondo">
 <input type=hidden name="nj" value="i2A68cRLrC">
 <input type=hidden name="res" value="61">
-<h4 align=center>�� �L���ԍ� 61 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 61 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� nt����
-&gt; �ʔ��������[�[
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ntさん
+&gt; 面白かったーー
 &gt; 
-&gt; simple is best�ł��ˁB
-&gt; compact�ɗv�f���o���s�����������B
-&gt; �œK��format�Ɗ����܂����B</textarea><br>
+&gt; simple is bestですね。
+&gt; compactに要素を出し尽くした感じ。
+&gt; 最適のformatと感じました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -49,56 +49,56 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[64]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B�i�Q�j</font>
+<font size=2>[64]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。（２）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/25 (��) 21:29:03 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306253212903&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306253212903"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/25 (水) 21:29:03 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306253212903_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306253212903"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���߂��˂����B�������ˁB�����Ɖ������`�`�`<br>
-��simple is best�ł��ˁB<br>
-��compact�ɗv�f���o���s�����������B<br>
-���r���������� ���� ������ ���������I<br>
-��(�����͂����Ƌ�J���܂����ǁc)</font><br>
-�@���肪�Ƃ��������܂��B<br>
-�@�����܂��`���Ƃ�����A���͈�����؂���ōU�߂Ă݂����ƍl���Ă���̂ł����B<br>
-�@�܂��̓��}�g����̌������i�΁j�B<br>
-<font color="#ff88cc">���������납�����ł���[�B</font><br>
-�@�䖳�������Ă��܂��B���ꂩ�����낵�����肢���܂��B<br>
-<font color="#ff88cc">���Ƃ���Ńi�r�d���͂��̂��Ɠ��S������ł����H</font><br>
-�@�c�c��������܂���i�΁j�B</font>
+<font size=3 color=#606060><font color="#ff88cc">＞めがねっ娘。いいすね。もっと会いたいよ〜〜〜<br>
+＞simple is bestですね。<br>
+＞compactに要素を出し尽くした感じ。<br>
+＞Ｓｉｍｐｌｅ ｉｓ ｔｈｅ ｂｅｓｔ！<br>
+＞(作る方はもっと苦労しますけど…)</font><br>
+　ありがとうございます。<br>
+　もしまた描くとしたら、次は違った切り口で攻めてみたいと考えているのですが。<br>
+　まずはヤマトくんの決着を（笑）。<br>
+<font color="#ff88cc">＞おもしろかったですよー。</font><br>
+　御無沙汰しています。これからもよろしくお願いします。<br>
+<font color="#ff88cc">＞ところでナビ妖精はあのあと逃亡したんですか？</font><br>
+　……かもしれません（笑）。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[63]</font> <font size=4 color=#40c0c0> �������납�����ł��[</font>
+<font size=2>[63]</font> <font size=4 color=#40c0c0> おもしろかったですー</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/23 (��) 21:41:39 <strong>��</strong> ���d�F </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306231214139&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306231214139"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/23 (月) 21:41:39 <strong>▽</strong> 八重洲 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306231214139_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306231214139"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�X�̕��ɂւ̏������݂ł��傢�ْ��B���Ă̂͂����Ƃ��āA<br>
-�������납�����ł���[�B<br>
-�Ƃ���Ńi�r�d���͂��̂��Ɠ��S������ł����H</font>
+<font size=3 color=#606060>久々の文庫への書き込みでちょい緊張。ってのはおいといて、<br>
+おもしろかったですよー。<br>
+ところでナビ妖精はあのあと逃亡したんですか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[62]</font> <font size=4 color=#40c0c0> �ǂ݂܂����c����Ȃ��āA���܂����B</font>
+<font size=2>[62]</font> <font size=4 color=#40c0c0> 読みました…じゃなくて、見ました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/18 (��) 19:55:07 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306183195507&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306183195507"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/18 (水) 19:55:07 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306183195507_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306183195507"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�r���������� ���� ������ ���������I<br>
-(�����͂����Ƌ�J���܂����ǁc)</font>
+<font size=3 color=#606060>Ｓｉｍｐｌｅ ｉｓ ｔｈｅ ｂｅｓｔ！<br>
+(作る方はもっと苦労しますけど…)</font>
 <p><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a>
 </td></table>
 </td></tr></table>
@@ -109,15 +109,15 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[61]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/17 (��) 22:14:50 <strong>��</strong> nt </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306172221450&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306172221450"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/17 (火) 22:14:50 <strong>▽</strong> nt </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306172221450_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306172221450"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ʔ��������[�[<br>
+<font size=3 color=#606060>面白かったーー<br>
 <br>
-simple is best�ł��ˁB<br>
-compact�ɗv�f���o���s�����������B<br>
-�œK��format�Ɗ����܂����B<br>
+simple is bestですね。<br>
+compactに要素を出し尽くした感じ。<br>
+最適のformatと感じました。<br>
 <br>
 </font>
 </td></table>
@@ -126,127 +126,127 @@ compact�ɗv�f���o���s�����������B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[60]</font> <font size=4 color=#40c0c0> �v�[���I�v�[���I</font>
+<font size=2>[60]</font> <font size=4 color=#40c0c0> プール！プール！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/16 (��) 21:02:39 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306161210239&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306161210239"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/16 (月) 21:02:39 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306161210239_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306161210239"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�l�n�m�c�n����B�Ղ��`�`��B<br>
+<font size=3 color=#606060>ＭＯＮＤＯさん。ぷぅ〜〜る。<br>
 <br>
-�߂��˂����B�������ˁB�����Ɖ������`�`�`</font>
+めがねっ娘。いいすね。もっと会いたいよ〜〜〜</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[59]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B</font>
+<font size=2>[59]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/16 (��) 19:36:20 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306161193620&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306161193620"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/16 (月) 19:36:20 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306161193620_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306161193620"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�i�r�����F�u����ƌ����܂����I�@�l���̗܂Ɛ��E���̂������I�I�v<br>
-�܌��i���j�F�u�������I�@����ł���ƒj�ɖ߂��c�c���ăh�A�z���I�I�@����͋����̃G�T�ƁA�w�L�����x�̂b�c���������������I�I�v<br>
-�@�c�c����񂿂���<br>
+<font size=3 color=#606060>ナビちゃん：「やっと見つけました！　人魚の涙と世界樹のしずく！！」<br>
+五月（満）：「そうか！　これでやっと男に戻れる……ってドアホっ！！　これは金魚のエサと、『記○樹』のＣＤだあああああっ！！」<br>
+　……ちゃんちゃん♪<br>
 <br>
-�@�����̊��z�A���肪�Ƃ��������܂��B<br>
-�@���Ȃ���i�ł����A�y����ł��������Ċ������ł��B<br>
+　早速の感想、ありがとうございます。<br>
+　つたない作品ですが、楽しんでいただけて嬉しいです。<br>
 <br>
-�@����͂S�R�}�}���K�Ƃ������ƂŁA�}�t���߂��\�Ȍ���U��̂ĂāA�V�`���G�[�V������������Ă݂܂����B<br>
-�@�����͂R�y�[�W�ڂłd�m�c�ɂ���\��ł����B�ł��A���[�Ȉ�ۂ������̂ŁA�������Ƃ��i�H�j�܂ŕ`���Ă݂��ƁB<br>
-�@�ϑz�V�[���́A������Ƌ�����������������܂���i�΁j�B<br>
-�@������Ԃ͂��������Q�T�ԁi�H�j�B�����܂��ȃR�}������l���Ȃ���G��`���A�X�L���i�[�Ŏ�荞��ŏk��������A�S�R�}�̘g�Ƀy�C���g�\�t�g����g���ē\��t���Ă����܂����B<br>
-�@�G�͌��\�g���񂵂Ă��܂��B<br>
-<font color="#ff88cc">�����A�����͉�����Ă񂾁B<br>
-���u�ԓo��i���j�������u�����v�̏o�Ԃ����Ȃ������̂�������ƕs���ƌ����Εs���ł��傤���ˁB<br>
-����舵�������������炵���ł����B<br>
-����͂��̃i�r����i�d������H�j�ł̘b���ǂ݂��������Ɓi�O�O�G�G�G<br>
-�������̏o�Ԃ����Ȃ������̂�������Ƃ��������Ȃ��Ƃ������c�B</font><br>
-�@���̂��H�@���̐l�C���o��H�@�`���C���̂��肾�����̂Ɂi�΁j�B<br>
-�@�����c�c�i�r�����́A�ϐg�̗����i�H�j�Â��ƁA�u������Ƃ₻���Ƃ��ጳ�ɖ߂�Ȃ���`�v�Ƃ������Ƃ�\�����邽�߂̃L�����������̂ł����B<br>
-<font color="#ff88cc">�����̊Ԃɂ��������Ă�܌����ɖG���i*�P���P*�j<br>
-��������j�ɖ߂�񂾁[���I�I��ƌ����������菗�̎q�ɐ��܂��Ă���܌�����񂪂悩�����ł��B<br>
-�������āA���ƌ����Ă��A�Ō�̂S�R�}�́E�E�E����͂�E�E�E�i����́ATS���̂���Ӗ��ŋ��ɂ̂��񑩂̈�ł���ˁ�j</font><br>
-�@���̕����Ɂu���񑩁v��Z�k�c�c���Ƃ��A�Ïk���Ă݂܂����B<br>
-�@���m���[�O�ƊG�̃M���b�v�A�����čŌ�̃R�}�́u���c�c�v�ɏ΂��Ă����������������肩�Ȃ�����B<br>
+　今回は４コママンガということで、枝葉末節を可能な限り振り捨てて、シチュエーションを特化してみました。<br>
+　当初は３ページ目でＥＮＤにする予定でした。でも、半端な印象がしたので、いきつくとこ（？）まで描いてみたと。<br>
+　妄想シーンは、ちょっと強引だったかもしれません（笑）。<br>
+　製作期間はだいたい２週間（？）。おおまかなコマ割りを考えながら絵を描き、スキャナーで取り込んで縮小した後、４コマの枠にペイントソフトを駆使して貼り付けていきました。<br>
+　絵は結構使い回しています。<br>
+<font color="#ff88cc">＞つか、取り説は何やってんだ。<br>
+＞瞬間登場（爆）だった「取り説」の出番が少なかったのがちょっと不満と言えば不満でしょうかね。<br>
+＞取り扱い説明書も可愛らしいですし。<br>
+＞後はこのナビさん（妖精さん？）での話が読みたいぞっと（＾＾；；；<br>
+＞取り説の出番が少なかったのがちょっともったいないというか…。</font><br>
+　何故だ？　何故人気が出る？　チョイ役のつもりだったのに（笑）。<br>
+　取り説……ナビちゃんは、変身の理屈（？）づけと、「ちょっとやそっとじゃ元に戻れないよ〜」ということを表現するためのキャラだったのですが。<br>
+<font color="#ff88cc">＞いつの間にか順応してる五月ﾀｿに萌え（*‾▽‾*）<br>
+＞｢いつか男に戻るんだーっ！！｣と言いつつしっかり女の子に染まっている五月ちゃんがよかったです。<br>
+＞そして、何と言っても、最後の４コマは・・・いやはや・・・（これは、TS物のある意味で究極のお約束の一つですよね♪）</font><br>
+　あの部分に「お約束」を濃縮……もとい、凝縮してみました。<br>
+　モノローグと絵のギャップ、そして最後のコマの「あ……」に笑っていただけたら願ったりかなったり。<br>
 <br>
-�@�V���[�Y���ł����c�c���[�ށB</font>
+　シリーズ化ですか……うーむ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[58]</font> <font size=4 color=#40c0c0> �ǂ܂��Ē����܂���</font>
+<font size=2>[58]</font> <font size=4 color=#40c0c0> 読ませて頂きました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/15 (��) 16:41:29 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306150164129&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306150164129"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/15 (日) 16:41:29 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306150164129_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306150164129"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ł��B<br>
-�S�R�}����ƌ������ƂŁA���ɂł��������`�����ȁ`�E�E�E�Ɠǂݎn�߂܂������A<br>
-���₟�`�A���΂�MONDO�l�A�ƌ����o���ɂȂ��Ă��܂��ˁB<br>
+<font size=3 color=#606060>どうも、夜夢です。<br>
+４コマ漫画と言うことで、文庫でも珍しい形式だな〜・・・と読み始めましたが、<br>
+いやぁ〜、流石はMONDO様、と言う出来になっていますね。<br>
 <br>
-�E�E�E�����āA���ƌ����Ă��A�Ō�̂S�R�}�́E�E�E����͂�E�E�E�i����́ATS���̂���Ӗ��ŋ��ɂ̂��񑩂̈�ł���ˁ�j</font>
+・・・そして、何と言っても、最後の４コマは・・・いやはや・・・（これは、TS物のある意味で究極のお約束の一つですよね♪）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[57]</font> <font size=4 color=#40c0c0> ��������</font>
+<font size=2>[57]</font> <font size=4 color=#40c0c0> すごい♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/15 (��) 13:47:29 <strong>��</strong> <a href="mailto:nigeuma@hotmail.com">�����n</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306150134729&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306150134729"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/15 (日) 13:47:29 <strong>▽</strong> <a href="mailto:nigeuma@hotmail.com">逃げ馬</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306150134729_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306150134729"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����E�E�E�������ł���(^^)�@�G���E����(��)<br>
-�S�R�}�ł��A��������Ƃ���͂�������Ƃ��������Ă��Ċy���߂܂����B<br>
-�����n���A�V���[�Y�����y���݂ɂ��Ă��܂�(^^)/</font>
+<font size=3 color=#606060>うう・・・すごいですね(^^)　萌え殺しだ(笑)<br>
+４コマでも、おさえるところはしっかりとおさえられていて楽しめました。<br>
+逃げ馬も、シリーズ化を楽しみにしています(^^)/</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[56]</font> <font size=4 color=#40c0c0> �́[���A����`�`�I</font>
+<font size=2>[56]</font> <font size=4 color=#40c0c0> はーい、拍手〜〜！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/15 (��) 11:33:01 <strong>��</strong> <a href="mailto:shibuya@dd.iij4u.or.jp">�a�J@�Ƃ���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306150113301&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306150113301"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/15 (日) 11:33:01 <strong>▽</strong> <a href="mailto:shibuya@dd.iij4u.or.jp">渋谷@家から</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306150113301_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306150113301"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���΂炵���ł��B<br>
-������Ƃ������ꗧ���Ă������_��Ԃ������̂ł���<br>
-�����Ƃ͂܂��ɂ��̂��ƁB���肪�Ƃ��������܂����B</font>
+<font size=3 color=#606060>すばらしいです。<br>
+ちょっとささくれ立っていた精神状態だったのですが<br>
+癒しとはまさにこのこと。ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[55]</font> <font size=4 color=#40c0c0> �S�R�}�}���K�I�I</font>
+<font size=2>[55]</font> <font size=4 color=#40c0c0> ４コママンガ！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/06/15 (��) 09:49:54 <strong>��</strong> Zyuka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200306150094954&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200306150094954"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/15 (日) 09:49:54 <strong>▽</strong> Zyuka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200306150094954_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200306150094954"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ʔ���!!<br>
-�y�����ł�!!<br>
-�����ͤ�h���N�G�S�R�}���e���㤂����{�c�ł����c�c</font>
+<font size=3 color=#606060>面白い!!<br>
+楽しいです!!<br>
+自分は､ドラクエ４コマ投稿時代､そうボツでした……</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="mondo">
@@ -254,16 +254,16 @@ compact�ɗv�f���o���s�����������B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="mondo">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=mondo">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_mondo.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

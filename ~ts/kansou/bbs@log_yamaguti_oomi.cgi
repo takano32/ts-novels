@@ -90,7 +90,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】白百合部隊に配属されるパイロットたちは、皆、過去にいろいろあったのです（笑）。<br>
-<a href=http://ts.novels.jp/novel/200407/31143808/lily_h04.htm target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h04.htm</a></font>
+<a href="../../novel/200407/31143808/lily_h04.htm" target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h04.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -140,7 +140,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】戦争は人を簡単に「悪鬼」へと変える……「戦争だ」「軍人だ」というだけで。<br>
-<a href=http://ts.novels.jp/novel/200407/31143808/lily_h04.htm target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h04.htm</a></font>
+<a href="../../novel/200407/31143808/lily_h04.htm" target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h04.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -216,7 +216,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】「ナチスの科学力は世界一〜ッ！！」というお話ではありません（笑）。<br>
-<a href=http://ts.novels.jp/novel/200407/31143808/lily_h03.htm target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h03.htm</a></font>
+<a href="../../novel/200407/31143808/lily_h03.htm" target=_top>http://ts.novels.jp/novel/200407/31143808/lily_h03.htm</a></font>
 </td></table>
 </td></tr></table>
 

@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���N�������ɂ̉^�c�ɂ��Č���</title>
+<title>少年少女文庫の運営について語る会</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >���N�������ɂ̉^�c�ɂ��Č���</font>
+<font size=6 >少年少女文庫の運営について語る会</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>���N�������ɂ̉^�c�ɂ��Ă̋^��A������A���ӌ���A�u�^�c�Ɍg����Ă݂����v�Ƃ����l�́A���Џ�������ŉ������B</font>
+<font color=#608080>少年少女文庫の運営についての疑問、ご質問、ご意見や、「運営に携わってみたい」という人は、ぜひ書き込んで下さい。</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,38 +15,38 @@
 <input type=hidden name="log" value="data2">
 <input type=hidden name="nj" value="UuyA5Ru6v2">
 <input type=hidden name="res" value="238">
-<h4 align=center>�� �L���ԍ� 238 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 238 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�q���FRe:�C�x���g�f���ƁA���̌f���̈ʒu�t���B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �a�`�e����
-&gt; ���l�n�m�c�n����
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:Ｒｅ：Re:イベント掲示板と、この掲示板の位置付け。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ＢＡＦさん
+&gt; ＞ＭＯＮＤＯさん
 &gt; 
-&gt; �����ł��B�Ȍ�̃����[�ɂ��Ă̏������݂̓C�x���g�f���̕��ɏ������܂��Ă��������܂��B
+&gt; 了解です。以後のリレーについての書き込みはイベント掲示板の方に書き込ませていただきます。
 &gt; 
-&gt; ���ȒP�Ɍ����Ă���܂��ˁc�c
+&gt; ＞簡単に言ってくれますね……
 &gt; 
-&gt; ����͐\����Ȃ��B�ȑO�^���ł�������̉��ǔł�������ŊȒP�ɍl���Ă���܂����B
-&gt; ������ł͌��Ă�����������̂ŊǗ����c��ɂȂ�܂��ˁB���O���Ă���܂����B�\����Ȃ������ł��B
+&gt; これは申し訳ない。以前某所でやった物の改良版だったんで簡単に考えておりました。
+&gt; こちらでは見ている方も多いので管理も膨大になりますね。失念しておりました。申し訳なかったです。
 &gt; 
-&gt; �ł͂���ȍ~�̓C�x���g�f���ŁB
+&gt; ではこれ以降はイベント掲示板で。
 &gt; 
 &gt; http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -59,18 +59,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[394]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �������΂���</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[394]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> すこしばかり</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/10 (��) 16:00:56  <a href="mailto:houi@seii.com">�݂�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607101160056&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607101160056"></font>
+<font size=-1 color=#606060> 2006/07/10 (月) 16:00:56  <a href="mailto:houi@seii.com">みや</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607101160056_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607101160056"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�悩�����炨�肢�B<br>
+<font size=4 color=#303030>よかったらお願い。<br>
 <br>
 <a href=http://movie.bbs69.net/ target=_top>http://movie.bbs69.net/</a><br>
 <br>
-�}���Ă܂��A</font>
+マってます、</font>
 <p><div align=left><a href="http://movie.bbs69.net/" target="_top">http://movie.bbs69.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -81,8 +81,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[393]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> Deck The Wall</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/10 (��) 05:38:18  <a href="mailto:ylhwukr@hotmail.com">Deck The Wall</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607101053818&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607101053818"></font>
+<font size=-1 color=#606060> 2006/07/10 (月) 05:38:18  <a href="mailto:ylhwukr@hotmail.com">Deck The Wall</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607101053818_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607101053818"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#303030>Nice site. Thanks.<br>
@@ -99,8 +99,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[392]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> Sleigh King Bed</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/10 (��) 04:11:23  <a href="mailto:eyufxor@hotmail.com">Sleigh King Bed</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607101041123&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607101041123"></font>
+<font size=-1 color=#606060> 2006/07/10 (月) 04:11:23  <a href="mailto:eyufxor@hotmail.com">Sleigh King Bed</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607101041123_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607101041123"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#303030>Cool site. Thank you:-)<br>
@@ -114,52 +114,52 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[359]</font> <font size=4 color=#40c0c0> Re2:�X�g�[���[����̊��z�ɕςȃT�C�g�̐�`���E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[359]</font> <font size=4 color=#40c0c0> Re2:ストーリー道場の感想に変なサイトの宣伝が・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/04 (��) 20:20:01  �_��߂��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607042202001&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607042202001"></font>
+<font size=-1 color=#606060> 2006/07/04 (火) 20:20:01  神城めぐみ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607042202001_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607042202001"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030><font color="#ff88cc">���܂���`�̏������݂Ȃǂ�����΂��񍐂��肢���܂��B</font><br>
+<font size=4 color=#303030><font color="#ff88cc">＞また宣伝の書き込みなどがあればご報告お願いします。</font><br>
 <br>
-���肪�Ƃ��������܂����B m(__)m</font>
+ありがとうございました。 m(__)m</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[348]</font> <font size=4 color=#40c0c0> Re:�X�g�[���[����̊��z�ɕςȃT�C�g�̐�`���E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[348]</font> <font size=4 color=#40c0c0> Re:ストーリー道場の感想に変なサイトの宣伝が・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/07/01 (�y) 20:46:53  ��傤���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607016204653&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607016204653"></font>
+<font size=-1 color=#606060> 2006/07/01 (土) 20:46:53  りょう＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607016204653_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200607016204653"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� �_��߂��݂���<br>
-<font color="#cc88ff">> �킽���̓��e�ɕςȃT�C�g�̐�`���c�B</font><br>
+<font size=4 color=#303030>▼ 神城めぐみさん<br>
+<font color="#cc88ff">> わたしの投稿に変なサイトの宣伝が…。</font><br>
 <br>
-�u���A����E�e�@���j�Փ�//Grenadable=>feast�i�O���l�C�_�u���E�t�B�[�X�g�j�v�ł悩�����ł����H<br>
-�Y���̏������݂��폜���܂����̂ł��m�F�������B<br>
+「南回帰戦線・銃機動祝祭日//Grenadable=>feast（グレネイダブル・フィースト）」でよかったですか？<br>
+該当の書き込みを削除しましたのでご確認下さい。<br>
 <br>
-�܂���`�̏������݂Ȃǂ�����΂��񍐂��肢���܂��B</font>
+また宣伝の書き込みなどがあればご報告お願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[345]</font> <font size=4 color=#40c0c0> �X�g�[���[����̊��z�ɕςȃT�C�g�̐�`���E�E�E</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[345]</font> <font size=4 color=#40c0c0> ストーリー道場の感想に変なサイトの宣伝が・・・</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/06/30 (��) 20:26:46  �_��߂��݂��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200606305202646&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305202646"></font>
+<font size=-1 color=#606060> 2006/06/30 (金) 20:26:46  神城めぐみさん </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200606305202646_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305202646"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�Ђ��A�Ђǂ��I(������)<br>
-�킽���̓��e�ɕςȃT�C�g�̐�`���c�B<br>
-���Ƃ����Ă��������B���肢���܂��B<br>
+<font size=4 color=#303030>ひっ、ひどい！(≧▽≦)<br>
+わたしの投稿に変なサイトの宣伝が…。<br>
+何とかしてください。お願いします。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -167,121 +167,121 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[239]</font> <font size=4 color=#40c0c0> Re3:�C�x���g�f���ƁA���̌f���̈ʒu�t���B</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[239]</font> <font size=4 color=#40c0c0> Re3:イベント掲示板と、この掲示板の位置付け。</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/03/28 (��) 21:59:20  �l�n�m�c�n </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200603282215920&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200603282215920"></font>
+<font size=-1 color=#606060> 2006/03/28 (火) 21:59:20  ＭＯＮＤＯ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200603282215920_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200603282215920"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�@�l�n�m�c�n�ł��B<br>
+<font size=4 color=#303030>　ＭＯＮＤＯです。<br>
 <br>
-<font color="#ff88cc">���a�`�e����<br>
-������͐\����Ȃ��B�ȑO�^���ł�������̉��ǔł�������ŊȒP�ɍl���Ă���܂����B</font><br>
+<font color="#ff88cc">＞ＢＡＦさん<br>
+＞これは申し訳ない。以前某所でやった物の改良版だったんで簡単に考えておりました。</font><br>
 <br>
-�@�u�����̌f���𗘗p�����C�x���g�v�Ƃ����O��ōl���Ă��܂����̂ŁB<br>
-�@�����炱���A�s�^�Ȕ��������Ă��C����������Ă܂���ł��傤���H�@�\���󂠂�܂���ł����B<br>
+　「既存の掲示板を利用したイベント」という前提で考えていましたので。<br>
+　こちらこそ、不躾な発言をしてお気を悪くされてませんでしょうか？　申し訳ありませんでした。<br>
 <br>
-<font color="#ff88cc">����ǎ҂���B<br>
-���C�x���g�̊��ĂȂǂ́A���ɂ̉^�c�ɂ��Ă̘b��ȋC������̂ŁA���̂܂܂�����̕��������C�����܂��B</font><br>
+<font color="#ff88cc">＞一読者さん。<br>
+＞イベントの企画案などは、文庫の運営についての話題な気がするので、このままこちらの方がいい気もします。</font><br>
 <br>
-�@���낻��^�c�ψ��V�K��W�̃A�i�E���X������܂����A��i�̓��e�ɂ��ĊF�l�ɂ��ӌ��������������������Č����������̂ŁA�}���`�i�C�x���g�j�f���֗U�����悤�Ǝv�����킯�ł��B<br>
-�@���ƁA����̘b�����́u�f���C�x���g���݂�ȂŌv�悷��v�C�x���g�Ƃ��l���Ă��܂��B<br>
+　そろそろ運営委員新規募集のアナウンスもありますし、作品の投稿について皆様にご意見をいただきたかった案件もあったので、マルチ（イベント）掲示板へ誘導しようと思ったわけです。<br>
+　あと、今回の話合いは「掲示板イベントをみんなで計画する」イベントとも考えています。<br>
 <br>
-�@����ł͉��߂āA��낵�����肢���܂��B<br>
+　それでは改めて、よろしくお願いします。<br>
 <br>
-�@<a href=http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten</a></font>
+　<a href="../kansou/bbs@log_jiten.cgi" target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[238]</font> <font size=4 color=#40c0c0> �q���FRe:�C�x���g�f���ƁA���̌f���̈ʒu�t���B</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[238]</font> <font size=4 color=#40c0c0> Ｒｅ：Re:イベント掲示板と、この掲示板の位置付け。</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/03/27 (��) 21:47:34  �a�`�e </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200603271214734&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200603271214734"></font>
+<font size=-1 color=#606060> 2006/03/27 (月) 21:47:34  ＢＡＦ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200603271214734_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200603271214734"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030><font color="#ff88cc">���l�n�m�c�n����</font><br>
+<font size=4 color=#303030><font color="#ff88cc">＞ＭＯＮＤＯさん</font><br>
 <br>
-�����ł��B�Ȍ�̃����[�ɂ��Ă̏������݂̓C�x���g�f���̕��ɏ������܂��Ă��������܂��B<br>
+了解です。以後のリレーについての書き込みはイベント掲示板の方に書き込ませていただきます。<br>
 <br>
-<font color="#ff88cc">���ȒP�Ɍ����Ă���܂��ˁc�c</font><br>
+<font color="#ff88cc">＞簡単に言ってくれますね……</font><br>
 <br>
-����͐\����Ȃ��B�ȑO�^���ł�������̉��ǔł�������ŊȒP�ɍl���Ă���܂����B<br>
-������ł͌��Ă�����������̂ŊǗ����c��ɂȂ�܂��ˁB���O���Ă���܂����B�\����Ȃ������ł��B<br>
+これは申し訳ない。以前某所でやった物の改良版だったんで簡単に考えておりました。<br>
+こちらでは見ている方も多いので管理も膨大になりますね。失念しておりました。申し訳なかったです。<br>
 <br>
-�ł͂���ȍ~�̓C�x���g�f���ŁB<br>
+ではこれ以降はイベント掲示板で。<br>
 <br>
-<a href=http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten</a></font>
+<a href="../kansou/bbs@log_jiten.cgi" target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[237]</font> <font size=4 color=#40c0c0> Re:�C�x���g�f���ƁA���̌f���̈ʒu�t���B  </font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[237]</font> <font size=4 color=#40c0c0> Re:イベント掲示板と、この掲示板の位置付け。  </font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/03/27 (��) 20:54:40  �l�n�m�c�n </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200603271205440&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200603271205440"></font>
+<font size=-1 color=#606060> 2006/03/27 (月) 20:54:40  ＭＯＮＤＯ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200603271205440_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200603271205440"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�@�l�n�m�c�n�ł��B<br>
+<font size=4 color=#303030>　ＭＯＮＤＯです。<br>
 <br>
-<font color="#ff88cc">�����������́A�ߋ��̃C�x���g���s���O������Ă����Ă��܂����B</font><br>
+<font color="#ff88cc">＞せっかくの、過去のイベント実行ログも流れていってしまうし。</font><br>
 <br>
-�@���c�c�m���ɁB<br>
-�@���������āA����Ăāu�s�r��엘�v�̃o�b�N�A�b�v����킽���i�΁j�B<br>
-�@�������A�ł���΃}���`�i�C�x���g�j�f���̕��ł���ė~�����Ǝv���܂��B<br>
+　あ……確かに。<br>
+　そう言われて、あわてて「ＴＳ大喜利」のバックアップするわたし（笑）。<br>
+　しかし、できればマルチ（イベント）掲示板の方でやって欲しいと思います。<br>
 <br>
-<font color="#ff88cc">���a�`�e����<br>
-���Ƃ肠�������G�����f���ƃc���[���̌f����p�ӂ���B</font><br>
+<font color="#ff88cc">＞ＢＡＦさん<br>
+＞とりあえずお絵かき掲示板とツリー式の掲示板を用意する。</font><br>
 <br>
-�@�ȒP�Ɍ����Ă���܂��ˁc�c<br>
-�@��ȏ�f��������ƁA�t�ɊǗ����ώG�ɂȂ邩�Ǝv���܂��B<br>
-�@�c���[���̌f�����R��B<br>
-�@�ނ���A�X�g�[���[��i�߂���Ԃ����肵�āi�Ⴆ�΂Ђƌ��Ɉ�T�ԁj�A�̂�������ӌ��⊴�z�ɓ��Ă�Ƃ����̂͂ǂ��ł��傤���H<br>
+　簡単に言ってくれますね……<br>
+　二つ以上掲示板があると、逆に管理が煩雑になるかと思います。<br>
+　ツリー式の掲示板も然り。<br>
+　むしろ、ストーリーを進める期間を限定して（例えばひと月に一週間）、のこりをご意見や感想に当てるというのはどうでしょうか？<br>
 <br>
-<font color="#ff88cc">��������ƍŏ��̏����͌��\��ς�������Ȃ����A��������Ȋ����Ȃ�Ǘ��ɂ͂���قǕ��S���Ȃ��Ǝv���܂��B<br>
-�����������W�J���\�ł͂Ȃ����Ǝv���܂��B</font><br>
+<font color="#ff88cc">＞ちょっと最初の準備は結構大変かもしれないが、多分こんな幹事なら管理にはそれほど負担がないと思います。<br>
+＞複数同時展開も可能ではないかと思います。</font><br>
 <br>
-�@���⌋�\���S�ł����āi�΁j�B���Ȃ��Ƃ��킽���͊��ق��Ăق����c�c�B<br>
-�@�������Ȃ�A�ǂꂩ�ЂƂɍi��܂��傤�B</font>
+　いや結構負担ですって（笑）。少なくともわたしは勘弁してほしい……。<br>
+　もしやるなら、どれかひとつに絞りましょう。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[236]</font> <font size=4 color=#40c0c0> ���X�X�@���肰�Ȃ��l�^����</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[236]</font> <font size=4 color=#40c0c0> 続々々　さりげなくネタ投下</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2006/03/27 (��) 20:01:56  �a�`�e </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200603271200156&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200603271200156"></font>
+<font size=-1 color=#606060> 2006/03/27 (月) 20:01:56  ＢＡＦ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200603271200156_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200603271200156"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�l�n�m�c�n���񂩂�̗U��������܂������A��ǎҁB����̌��ɂ��ꗝ����܂��̂ŁA�����Ȕ��\������܂ł�����ɏ������܂��Ă��������܂����Ƃ����������������B<br>
+<font size=4 color=#303030>ＭＯＮＤＯさんからの誘導がありましたが、一読者。さんの言にも一理ありますので、正式な発表があるまでこちらに書き込ませていただきますことをお許しください。<br>
 <br>
-�����[�p��̈�<br>
+リレー用具体案<br>
 <br>
-�܂��A��{�͕����̌f���������悭�g�����ƂŎ��������鎖�Ƃ���B<br>
-�Ƃ肠�������G�����f���ƃc���[���̌f����p�ӂ���B<br>
-���G�����f���̓L�����C���X�g���e�₻�̑��f�U�C���n�̃R���e�X�g�p�B�G�����̃L�����ݒ��A�C�f�A��W�Ȃǂ��ꉞ�����łƂ���B<br>
-���Ƀc���[���̌f���B���炩���ߓ��t�ɑΉ������X���b�h������Ă����A���̃X���b�h�����L�̕\�̐����ƃ����N�����邱�Ƃɂ���ē��L�������₷���Č��₷�����镨�Ƃ���B<br>
-��{�͈���i��X���b�h�j�ɕt����G�s�\�[�h�̂ݏ������݁B�������A���̃G�s�\�[�h�̊��z�Ȃǂ͕ԐM�Ƃ����`�ŏ����ėǂ����Ƃ���B<br>
-�ꉞ����Ȋ����ŁB������ƍŏ��̏����͌��\��ς�������Ȃ����A��������Ȋ����Ȃ�Ǘ��ɂ͂���قǕ��S���Ȃ��Ǝv���܂��B<br>
+まず、基本は複数の掲示板を効率よく使うことで実現させる事とする。<br>
+とりあえずお絵かき掲示板とツリー式の掲示板を用意する。<br>
+お絵かき掲示板はキャライラスト投稿やその他デザイン系のコンテスト用。絵無しのキャラ設定やアイデア募集なども一応ここでとする。<br>
+次にツリー式の掲示板。あらかじめ日付に対応したスレッドを作っておき、そのスレッドを下記の表の数字とリンクさせることによって日記を書きやすくて見やすくする物とする。<br>
+基本は一日（一スレッド）に付き一エピソードのみ書き込み。ただし、そのエピソードの感想などは返信という形で書いて良い物とする。<br>
+一応こんな感じで。ちょっと最初の準備は結構大変かもしれないが、多分こんな幹事なら管理にはそれほど負担がないと思います。<br>
 <br>
-���ƁA�֑��ł��������ݒ肪���Ƃ����l�����邩������Ȃ����A������Q���ґ����ŏ������݂���Ȃ��ꍇ���l���āA�t�@���^�W�[���E�Ő푈�v�f���g�ݍ��񂾁w�s�����ăi�C�g�i���́j�x��S���X�L�[�ȕ������̂��߂̎�l�������o�[�W�����w�s���n�[�g�f�������e���r�������x�Ȃǂ̕��������W�J���\�ł͂Ȃ����Ǝv���܂��B<br>
+あと、蛇足ですが初期設定が嫌という人がいるかもしれないし、万が一参加者多数で書き込みきれない場合も考えて、ファンタジー世界で戦争要素も組み込んだ『Ｔｓしてナイト（仮称）』や百合スキーな方たちのための主人公女性バージョン『ＴｓハートＧｉｒｌ‘ｓＳｉｄｅ』などの複数同時展開も可能ではないかと思います。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data2">
@@ -289,16 +289,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data2">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data2">�X�V</a>] [<a href="http://ts.novels.jp">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data2.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.</font>
 </td></table></div><br>
 </div>
 <br>

@@ -30,7 +30,7 @@
 <td nowrap align=right><font size=3>　</font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><h1><a href=http://ts.novels.jp/ target=_top>http://ts.novels.jp/</a><br>
+<font size=3 color=#606060><h1><a href="../../index.html" target=_top>http://ts.novels.jp/</a><br>
 少年少女文庫</h1><br>
 少年少女文庫、作品感想用電子掲示板群。<br>
 <br>

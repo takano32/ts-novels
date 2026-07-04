@@ -1,14 +1,14 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�w�ؑタ���V���[�Y�x���z�f����</title>
+<title>『華代ちゃんシリーズ』感想掲示板</title>
 </head>
 <body bgcolor=#bbffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�w�ؑタ���V���[�Y�x���z�f����</font>
+<font size=5>『華代ちゃんシリーズ』感想掲示板</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080><A HREF="http://www.novels.jp/~ts/kansou/bbs.cgi?log=kayo_chan_hunternumber">�n���^�[�E�V���[�Y��p�f����</A>�����B�ڍׂ́A�����N���񂾂�킩��i���j</font>
+<font color=#608080><A HREF="bbs@log_kayo_chan_hunternumber.cgi">ハンター・シリーズ専用掲示板</A>発足。詳細は、リンクを飛んだらわかる（爆）</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
@@ -16,29 +16,29 @@
 <input type=hidden name="log" value="kayo_chan">
 <input type=hidden name="nj" value="jdd19PdiWn">
 <input type=hidden name="res" value="725">
-<h4 align=center>�� �L���ԍ� 725 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 725 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�͂��i�O�O�G�G�G�j"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �ӂ�����
-&gt; ��A�܂�����Ă��܂����ł��A�W�S���ł����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:はう（＾＾；；；）"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ふうさん
+&gt; わ、またやってしまったです、ジゴラでした。
 &gt; 
-&gt; �u�ҁ[�v�͂����Ă��܂��Ă�i^^;;;�j</textarea><br>
+&gt; 「ぴー」はいってしまってる（^^;;;）</textarea><br>
 pre<input type=checkbox name="pre" value="1" checked> 
 link<input type=checkbox name="link" value="1"> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h W4c0dm  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="W4c0dm"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード W4c0dm  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="W4c0dm"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 200 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 200 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -51,20 +51,20 @@ link<input type=checkbox name="link" value="1">
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[733]</font> <font size=4 color=#40c0c0> �d��Ȃ��m�点</font>
+<font size=2>[733]</font> <font size=4 color=#40c0c0> 重大なお知らせ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/18 (��) 22:18:15 <strong>��</strong> �}�R�g���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702180221815&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702180221815"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/18 (日) 22:18:15 <strong>▽</strong> マコト＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702180221815_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200702180221815"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̓x�A�ؑタ���V���[�Y���Ɨ����āA�u�n���^�[�V���[�Y�v�̌����T�C�g���I�[�v���������܂����B���L��URL�̂Ƃ���ł��B<br>
-����ɂƂ��Ȃ��A���V�K�̃V�F�A���[���h�Ƃ��āu�n���^�[�V���[�Y�v��ǉ��������܂��B<br>
-�]���́u�ؑタ���V���[�Y�ԊO�ҁv�Ƃ͈قȂ�A�ʂ̋K��̌���i������Ă����������ƂƂȂ�܂��i�ؑタ���V���[�Y�ԊO�҂Ƃ͊��S�ʌȌ`�ɂȂ�܂��������܂ŉؑタ���V���[�Y�̉�����ɂ���V���[�Y�ł��j�B<br>
-�V�F�A���[���h�̋K����e����̌��A�F�l�̍�i�𓊍e���Ă��������܂��悤���肢�\���グ�܂��B<br>
+<font size=3 color=#606060>この度、華代ちゃんシリーズより独立して、「ハンターシリーズ」の公式サイトがオープンいたしました。下記のURLのとおりです。<br>
+それにともない、半新規のシェアワールドとして「ハンターシリーズ」を追加いたします。<br>
+従来の「華代ちゃんシリーズ番外編」とは異なり、別の規定の元作品を作っていただくこととなります（華代ちゃんシリーズ番外編とは完全別個な形になりますがあくまで華代ちゃんシリーズの延長上にあるシリーズです）。<br>
+シェアワールドの規定内容厳守の元、皆様の作品を投稿してくださいますようお願い申し上げます。<br>
 <br>
-���s�́A���܂ŔԊO�҂Ƃ��ē��e���ꂽ���̂͂��̂܂܂ɁA�ȍ~���e�������̂�������̌`���ɂ��Ă��������悤�ɂȂ�܂��B<br>
-����Ƃ���낵�����肢���܂��ł��B</font>
+現行は、今まで番外編として投稿されたものはそのままに、以降投稿されるものをこちらの形式にしていただくようになります。<br>
+今後ともよろしくお願いしますです。</font>
 <p><a href="http://hunters.nomaki.jp/" target="_top">http://hunters.nomaki.jp/</a>
 </td></table>
 </td></tr></table>
@@ -72,219 +72,219 @@ link<input type=checkbox name="link" value="1">
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[732]</font> <font size=4 color=#40c0c0> ���x��Ă��߂�Ȃ����ł��I�I</font>
+<font size=2>[732]</font> <font size=4 color=#40c0c0> 超遅れてごめんなさいです！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/13 (��) 20:10:46 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">���������^�闢��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612133201046&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612133201046"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/13 (水) 20:10:46 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太＆真城里華</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612133201046_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200612133201046"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����΂�́A�ԓ�����ϒx��Đ\���󂠂�܂���I�@������ł��I<br>
-���؁u�͂��`�A���ς�炸���炵�Ȃ��̂ł��v<br>
-�����A�����̉����o�Ȃ��i�|�|�G�j<br>
-�Ƃ����킯�ŁA�ԐM�X�^�[�g�I<br>
-���؁u�Ȃ̂ł��I�v<br>
+<font size=3 color=#606060>こんばんは、返答が大変遅れて申し訳ありません！　るっちです！<br>
+里華「はぅ〜、相変わらずだらしないのです」<br>
+うぅ、ぐうの音も出ない（−−；）<br>
+というわけで、返信スタート！<br>
+里華「なのです！」<br>
 <br>
 <br>
-<font color="#ff88cc">���p�Y����</font><br>
-���z�A���肪�Ƃ��������܂��ł��I<br>
-�ق��ق��A���b�̖��O�@���I<br>
-�ǂ�Ȃ��̂��C�ɂȂ�܂��ˁc�c�B<br>
-�ŋ߂ł͉��b�̖��O�������Ă��Ă��邽�߁u�v���Y���v�u�����ς���̂��v�u�C�t�v�u�K���p�v�Ȃ�Ē������A�����o�Ă��Ă��܂��B<br>
+<font color="#ff88cc">＞英雄さん</font><br>
+感想、ありがとうございますです！<br>
+ほうほう、怪獣の名前法則！<br>
+どんなものか気になりますね……。<br>
+最近では怪獣の名前も増えてきているため「プリズ魔」「かっぱかわのじ」「イフ」「ガンＱ」なんて珍しい連中も出てきています。<br>
 <br>
-���؁u�݂��A�p�Y����A�n�̕��̎g������_�߂Ă��������A���肪�Ƃ��������܂��Ȃ̂ł��I�v<br>
-����́u����b�����Ɍ���v�Ƃ������̂��Q�l�ɂ��܂�����<br>
-���W�I�̉����݂̂ŁA���b�P����`����Ƃ������e�ŁA����̏����Ɏg���Ȃ����ȁ\�\�ƁB<br>
-����͂�A��i���v�������ׂ���Ƃ������t�͂߂������������ł��i�΁j<br>
+里華「みぃ、英雄さん、地の文の使い方を誉めていただき、ありがとうございますなのです！」<br>
+これは「大怪獣東京に現る」というものを参考にしました♪<br>
+ラジオの音声のみで、怪獣襲来を伝えるという内容で、今回の小説に使えないかな——と。<br>
+いやはや、情景を思い浮かべられるという言葉はめがっさ嬉しいです（笑）<br>
 <br>
-���A�����ߍ�i�ł����H<br>
-���؁u�݂��A������i�������߂���̂́A������O�Ȃ̂ł��v<br>
-�����A�p�Y����ɂ���ȏオ��΂���ƁA�ǂ����Ȃ�����Ȃ����i��<br>
-�V���[�Y�A����΂��Ă��������܂��i�O�O�j<br>
+あ、お勧め作品ですか？<br>
+里華「みぃ、いい作品をお勧めするのは、当たり前なのです」<br>
+うう、英雄さんにこれ以上がんばられると、追いつけないじゃないか（汗<br>
+シリーズ、がんばってくださいませ（＾＾）<br>
 <br>
 <br>
-<font color="#ff88cc">����������</font><br>
-�����A���肪�Ƃ��������܂��ł��I<br>
-�����ł��˂��A�˔@������m�C�Y���Ȃ񂩂��A�G���̂͂��Ȃ̂ɁA�Ȃ����S�n�悩�����肵�܂���ˁ�<br>
+<font color="#ff88cc">＞長束さん</font><br>
+いつも、ありがとうございますです！<br>
+そうですねぇ、突如混じるノイズ音なんかも、雑音のはずなのに、なぜか心地よかったりしますよね♪<br>
 <br>
-���؁u�͂��I�@�ʔ����Ƃ����Ă��������A���肪�Ƃ��������܂��Ȃ̂ł��v<br>
-���ɂ̒��ł��A���Ƀ��Y�����d��������i��a����������ɗ_�߂���Ƃ́A���h�ł��I<br>
+里華「はぅ！　面白いといっていただき、ありがとうございますなのです」<br>
+文庫の中でも、特にリズムを重視した作品を紡ぐ長束さんに誉められるとは、光栄です！<br>
 <br>
-���\�I��ł���K�v���Ȃ��c�c������A�Ȃ�قǁB<br>
-�܂��ɁA�ڂ���؂ł��B<br>
-���҂ɒu�������Ă݂�Ƃ킩��܂����A�W�����[�A���h�����[�X�͉ƒ닳�t�Ƃ����C���[�W������܂���ˁB<br>
-�����ǁA�ޏ��͌����đ卪�Ȃ킯�ł͂Ȃ��A�ނ���ƒ닳�t�Ƃ����𕿂��͂܂肷���Ă���ȊO�l�����Ȃ��B<br>
-������A�ЂƂ̖𕿂����������Ȃ��L�������A��������̋�ʂ葸�d���ׂ����Ǝv���܂���<br>
-���Ƃ��΁A���O�Ƃ��ˁH<br>
-���؁u�݂��A�Ȃ񂩕��G�Ȃ̂ł��c�c�v<br>
-�ł��A���\�L�����ɉ������Ȃ��̈�������Ă�킯�����A����͌ւ镔�����Ǝv����H<br>
-���؁u�ނ��c�c�v<br>
-���܂ꂽ�Ă̂��O�ɂ́A�����������ȁH�i�O�O�G�j<br>
+万能選手である必要がない……うぅん、なるほど。<br>
+まさに、目から鱗です。<br>
+役者に置き換えてみるとわかりますが、ジュリーアンドリュースは家庭教師というイメージがありますよね。<br>
+だけど、彼女は決して大根なわけではなく、むしろ家庭教師という役柄がはまりすぎてそれ以外考えられない。<br>
+だから、ひとつの役柄しか演じられないキャラも、長束さんの仰る通り尊重すべきだと思います♪<br>
+たとえば、お前とかね？<br>
+里華「みぃ、なんか複雑なのです……」<br>
+でも、万能キャラに演じられない領域を演じてるわけだし、それは誇る部分だと思うよ？<br>
+里華「むぅ……」<br>
+生まれたてのお前には、早かったかな？（＾＾；）<br>
 <br>
-���؁u�݂��I�@�{�N�������������Ă��������A���ӊ����Ȃ̂ł��I�v<br>
-��������̐V������y���݂ɂ��Ă��܂��ł��I<br>
+里華「みぃ！　ボクたちを応援していただき、感謝感激なのです！」<br>
+長束さんの新作も超楽しみにしていますです！<br>
 <br>
-�ł́B</font>
+では。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[731]</font> <font size=4 color=#40c0c0> �q�ǁc�c���₳�q�����܂���</font>
+<font size=2>[731]</font> <font size=4 color=#40c0c0> 拝読……いやさ拝聴しました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/09 (�y) 20:52:25 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612096205225&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612096205225"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/09 (土) 20:52:25 <strong>▽</strong> 長束 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612096205225_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200612096205225"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���W�I���Ă�������ł��˂��A��������đ�D���ł��B<br>
+<font size=3 color=#606060>ラジオっていいもんですねえ、情緒があって大好きです。<br>
 <br>
-���Ă��āA����̂��b�͂ƂĂ��ʔ��������ł��B���Y�����������ď΂����O�ʂɉ����o����Ă��āA����ł��Ċ����̃L�����ƐV�K�L�����������荇���ĂЂƂ̕����a�������A�ƁB�܂��Ɂu�������v�Ƃ��Ȃ��Ă��Ă���Z�̍Ⴆ�ƌ����ׂ��ł��傤���B<br>
+さてさて、今回のお話はとても面白かったです。リズム感があって笑いが前面に押し出されていて、それでいて既存のキャラと新規キャラが手を取り合ってひとつの物語を紡ぎだす、と。まさに「持ち味」ともなってきている技の冴えと言うべきでしょうか。<br>
 <br>
-���́A���܂�L�����N�^�[�Ƃ������̂����\�I��ł��肷����K�v���͂Ȃ��̂ł́A�Ƃ����l���������Ă���܂��B�ǂ̏�ʂł���p�ɏ�������A�Ƃ����̂��ЂƂ̌��Ȃ̂ł����A�����łȂ��ǒn��p�̃L�����N�^�[�Ƃ������̂������������V�F�A���[���h�ł͔��ɏd�v�ȃt�@�N�^�[�ƂȂ蓾��̂ł͂Ȃ��ł��傤���B<br>
-�ƁA���炻���Ȃ��Ƃ��ق����A����ł͍ēx�̔ޏ��B�̓o���S���y���݂ɂ����Ă��������܂��B<br>
+私は、あまりキャラクターというものが万能選手でありすぎる必要性はないのでは、という考えを持っております。どの場面でも器用に順応する、というのもひとつの個性なのですが、そうでない局地戦用のキャラクターというものがこういったシェアワールドでは非常に重要なファクターとなり得るのではないでしょうか。<br>
+と、えらそうなことをほざきつつ、それでは再度の彼女達の登場を心より楽しみにさせていただきます。<br>
 <br>
-�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�c�c�ɂρ`��</font>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　……にぱ〜☆</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[730]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��������܂���</font>
+<font size=2>[730]</font> <font size=4 color=#40c0c0> 読ませていただきました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/03 (��) 00:24:44 <strong>��</strong> �p�Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612030002444&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612030002444"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/03 (日) 00:24:44 <strong>▽</strong> 英雄 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612030002444_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200612030002444"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��͉p�Y�ł��B<br>
+<font size=3 color=#606060>こんにちは英雄です。<br>
 <br>
-�����̒��ԁAFM���W�I�ŉ��b�̖��O�@���H�Ȃ�b�肪�o�Ă��܂����B<br>
-�`���Ƃ��`�����Ƃ��Ȃ�Ƃ��A���_�ł���Ƃ��c�Ƃɂ����^�C�����[��<br>
-�b��ŏ΂��Ă��܂��܂����B<br>
-����ɂ��Ă�������n�̕��Ƃ�����@���ʔ����ł��ˁB<br>
-�ǂ��炩�Ƃ����Α�؂Ȃ��Ƃ����]�v�Ȃ��Ƃ������Ă���͂����A<br>
-�ǂݎ�͂��̏�i���v�������ׂ���A�������΂��𔺂��āB<br>
-��΂��Ƃ������͂����������Łu�Ղ��v�Ɛ����o�����b�������Ǝv���܂��B<br>
-������y���݂ɂ��Ă��܂��B<br>
+今日の昼間、FMラジオで怪獣の名前法則？なる話題が出ていました。<br>
+〜ラとか〜モンとかなるとか、濁点であるとか…とにかくタイムリーな<br>
+話題で笑ってしまいました。<br>
+それにしても解説＝地の文という手法が面白いですね。<br>
+どちらかといえば大切なことよりも余計なことを言っているはずが、<br>
+読み手はその情景が思い浮かべられる、しかも笑いを伴って。<br>
+大笑いというよりはそこかしこで「ぷっ」と吹き出すお話だったと思います。<br>
+次回も楽しみにしています。<br>
 <br>
-����<br>
-���̍�i�������߂��������܂��Ă��肪�Ƃ��������܂��B<br>
-����������ɕ����Ȃ��悤�Ɏ�������΂��ď����܂��`</font>
+ｐｓ<br>
+私の作品をお勧めいただきましてありがとうございます。<br>
+流離太さんに負けないように私もがんばって書きます〜</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[729]</font> <font size=4 color=#40c0c0> ����Ȃɂ�������̊��z�A���ӊ����ł���</font>
+<font size=2>[729]</font> <font size=4 color=#40c0c0> こんなにたくさんの感想、感謝感激です♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/01 (��) 20:28:22 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">������&amp;���c�j�R&amp;�^�闢��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612015202822&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612015202822"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/01 (金) 20:28:22 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太&amp;半田ニコ&amp;真城里華</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612015202822_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200612015202822"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂񂱁A���X�x��Ă��߂�Ȃ����̂�����ł��i�|�|�G�j<br>
-����A�{���ɂ��߂�Ȃ����i�y�����j<br>
-�M�d�Ȏ��Ԃ������Ă܂Ŏ��̍�i��ǂ�Œ����A���肪�Ƃ��������܂��I<br>
+<font size=3 color=#606060>はんこ、レス遅れてごめんなさいのるっちです（−−；）<br>
+いや、本当にごめんなさい（土下座）<br>
+貴重な時間を割いてまで私の作品を読んで頂き、ありがとうございます！<br>
 <br>
 <br>
-<font color="#ff88cc">���������񁕂Ȃ��Ȃ����</font><br>
-���������A�����炱�������߂�����������܂���i�O�O�G�j<br>
-���ǂ����܂��傤��<br>
+<font color="#ff88cc">＞高橋さん＆なずなちゃん</font><br>
+いえいえ、こちらこそ言い過ぎたかもしれません（＾＾；）<br>
+仲良くやりましょう♪<br>
 <br>
-�ŁA���ۂ̂Ƃ���ǂ��Ȃ́H<br>
-�u�����v<br>
-�c�c�����ŁA�܂��܂��L�����f�[�ł��H�ׂĂȂ������i�|�|�G�j<br>
-���؁u��������̌����ʂ肾�ƁA�{�N���v���̂ł��B����Ȃ�������A����Ȋ댯�v�z�̎�����������������ȏ�g�����Ǝv��Ȃ��͂��Ȃ̂ł���B�ɂρ`���v<br>
-����A���������b�̊j�ɐG���悤�Șb�͂�߂悤��A�ˁH�i�ꊾ�j<br>
+で、実際のところどうなの？<br>
+「がう」<br>
+……そこで、まきまきキャンデーでも食べてないさい（−−；）<br>
+里華「高橋さんの言う通りだと、ボクも思うのです。じゃなかったら、そんな危険思想の持ち主をるっちもこれ以上使おうと思わないはずなのですよ。にぱ〜☆」<br>
+いや、そういう話の核に触れるような話はやめようよ、ね？（滝汗）<br>
 <br>
-����ɂ��́A���߂܂��ĂȂ��Ȃ����B<br>
-���؁u�݁`�A�L���l�̖��O���炢�A��������`�F�b�N���Ă����̂ł��ˁv<br>
-����`�A����ȉ�����������Ă����킯�Ȃ�������i�΁j<br>
-���āA�����I�@�����łȂ��Ȃ����̃h�W�b�����Ղ�����\�ł���Ƃ́c�c�i��j<br>
-���؁u�͂��`�A�L���O�i�����j���F���ɕԂ����̂ł����H�@���������A�e���|�[�g��ԈႦ�ĂȂ��Ƃ����̂ł��v<br>
-�����I�@����ς萶�͉����悧�I<br>
-���؁u�j�R�����̂������H�@�A�肽�������̂ł����H�v<br>
-�u�����H�v<br>
-�܁A�܂��͈�����c�c���₢��A�����ȁB�T�C�����炩�ȁH<br>
-���؁u������A�Ȃ��Ȃ����ɖ����Ō��ꂵ���̂ł��c�c�����ƁA�n���^�[�̐�y�Ƃ��āA���ꂩ�����낵����낵���Ȃ̂ł���B�ɂρ`���v<br>
-<br>
-<br>
-<font color="#ff88cc">��yuk���񁕂����q����</font><br>
-�����A������ł����W�I�����|���I<br>
-���؁u�݁`�A�m�������̂܂�܂Ȃ̂ł����v<br>
-����A�ԊO�҂݂����Ŗʔ�����ˁi�O�O�j<br>
-�����A���肪�Ƃ��������܂��I<br>
-�����A���������Ă݂����ł���<br>
-�c�c���āAyuk������v�ł����I�H<br>
-���؁u�����q�����̃p���`�������ɓ����āA���킢�����킢���Ȃ̂ł��v<br>
+こんにちは、初めましてなずなちゃん。<br>
+里華「み〜、有名人の名前くらい、るっちもチェックしていたのですね」<br>
+そら〜、こんな可愛い娘を放っておくわけないっしょ（笑）<br>
+って、うぉ！　ここでなずなちゃんのドジッ娘っぷりを堪能できるとは……（悶）<br>
+里華「はぅ〜、キング（ｒｙ）を宇宙に返したのですか？　そっちも、テレポート先間違えてないといいのです」<br>
+くぅ！　やっぱり生は可愛いよぉ！<br>
+里華「ニコちゃんのおうち？　帰りたかったのですか？」<br>
+「あう？」<br>
+ま、まずは握手を……いやいや、早いな。サインからかな？<br>
+里華「るっち、なずなちゃんに夢中で見苦しいのです……えっと、ハンターの先輩として、これからもよろしくよろしくなのですよ。にぱ〜☆」<br>
 <br>
 <br>
-<font color="#ff88cc">���Vࣂ���</font><br>
-�������肪�Ƃ��������܂��ł���<br>
-�c�c�����Ȃ�A�݂������g���I�̂��Ƃ�ɐ����܂����i�΁j<br>
-�u�ǂ��񂪂ǂ��񂪁`��v���āA�ǂꂾ���Q�������񂾂낤�B<br>
-���؁u�����ƁA�X��]����Ȃ��牟���Ԃ��Ă����̂ł����v<br>
-����[�I�I�@���i�|���|�G�j�@�u�ǂ��񂪂ǂ��񂪁`��v�Ɩ���Ȃ��ŁI�I<br>
-<br>
-�ɂ��Ă��A�Vࣂ���݂̂��������v���Ԃ�Ɍ���āA�������Ȃ��i�O�O�j<br>
-���ƁA�����`�̋M�d�Ȃ����t�A���肪�Ƃ��������܂��I<br>
-���������A�A�z�Ȃ��Ƃ���Ă邨�����񂪖{���ɑ�D���ł���<br>
-���ʕ҂������Ă��������A���肪�Ƃ��������܂�����<br>
-���؁u�w�Ȃ̂ł��x�H�@�R���H�v<br>
-�Ⴄ�c�c�Ǝv���B<br>
-<br>
-�l�^�́A�{���ɔ��܂���ˁi���j<br>
-�ł��A�Ⴆ������Ƃ��Ă��A�Vࣂ���̍�i���y���݂Ȃ��Ƃɕς��͂���܂���<br>
-�P�T���̊���Ɋ��Ҋ��ҁ�@�Ȃ̂ł���܂��B<br>
+<font color="#ff88cc">＞yukさん＆いち子さん</font><br>
+おお、こちらでもラジオ生レポが！<br>
+里華「み〜、ノリがそのまんまなのです☆」<br>
+うん、番外編みたいで面白いよね（＾＾）<br>
+承諾、ありがとうございます！<br>
+いつか、実現させてみたいです♪<br>
+……って、yukさん大丈夫ですか！？<br>
+里華「いち子ちゃんのパンチが鳩尾に入って、かわいそかわいそなのです」<br>
 <br>
 <br>
-<font color="#ff88cc">�����肩����</font><br>
-�������肪�Ƃ��������܂��ł���<br>
-������΂����ł��ˁi�O�O�j<br>
-����ɂ͌��l�^������܂��āA�u����b�����Ɍ���v�ł��B<br>
-�T�^�̉��b�ƃg�J�Q�^�̉��b�̐킢���A���W�I�����݂̂œ`������Ƃ������e�Ł�<br>
-�ǂ�����A���ꂾ���ł��̂�`����Ƃ����_�ŋ��ʂ��Ă���̂��ʔ����I<br>
+<font color="#ff88cc">＞天爛さん</font><br>
+いつもありがとうございますです♪<br>
+……いきなり、みそっ娘トリオのやりとりに吹きました（笑）<br>
+「どぅんがどぅんが〜ん」って、どれだけ寝相悪いんだろう。<br>
+里華「きっと、街を転がりながら押しつぶしていくのです☆」<br>
+いやー！！　Σ（−□−；）　「どぅんがどぅんが〜ん」と眠らないで！！<br>
 <br>
-���Ȃ݂ɁA�j�R�̌��l�^�̓��J���J�ł���<br>
-�����z�Ȗ��������ł���ˁ`�i�O�O�j<br>
+にしても、天爛さんのみそっ娘が久しぶりに見れて、嬉しいなぁ（＾＾）<br>
+あと、部下Ａの貴重なお言葉、ありがとうございます！<br>
+こういう、アホなことやってるおっさんが本当に大好きですｗ<br>
+特別編も交えていただき、ありがとうございました♪<br>
+里華「『なのです』？　軍曹？」<br>
+違う……と思う。<br>
 <br>
-���₟�A����͗V�т܂���ł����ˁc�c���ꂩ����A���L���������炩���Ă��������ł���<br>
-���؁u�ނ���A�V�΂�Ă���̂͂������������Ȃ��̂ł����v<br>
-���A�ǂ����H<br>
-���؁u�����ҁc�c�܂��C�Â��Ă���ʂ��v<br>
-���O�c�c�L�������i�ꊾ�j<br>
-<br>
-�����A�\�͂ł����B����͖ܘ_�c�c�i��؁j<br>
+ネタは、本当に被りますよね（汗）<br>
+でも、例え被ったとしても、天爛さんの作品が楽しみなことに変わりはありませんｗ<br>
+１５号の活躍に期待期待♪　なのであります。<br>
 <br>
 <br>
-��ł́A�g���Ȋ��z���肪�Ƃ��������܂����`��</font>
+<font color="#ff88cc">＞きりかさん</font><br>
+いつもありがとうございますです♪<br>
+言われればそうですね（＾＾）<br>
+これには元ネタがありまして、「大怪獣東京に現る」です。<br>
+亀型の怪獣とトカゲ型の怪獣の戦いが、ラジオ放送のみで伝えられるという内容で♪<br>
+どちらも、言語だけでものを伝えるという点で共通しているのが面白い！<br>
+<br>
+ちなみに、ニコの元ネタはムカムカです♪<br>
+無愛想な娘も可愛いですよね〜（＾＾）<br>
+<br>
+いやぁ、今回は遊びまくりでしたね……これからも、自キャラをからかっていきたいです♪<br>
+里華「むしろ、遊ばれているのはるっちかもしれないのです☆」<br>
+え、どこが？<br>
+里華「愚か者……まだ気づいておらぬか」<br>
+お前……キャラが（滝汗）<br>
+<br>
+ああ、能力ですか。それは勿論……（ﾆﾔﾘ）<br>
+<br>
+<br>
+んでは、暖かな感想ありがとうございました〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[728]</font> <font size=4 color=#40c0c0> ����Ă��������</font>
+<font size=2>[728]</font> <font size=4 color=#40c0c0> 乗ってらっしゃる♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/28 (��) 16:45:36 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611282164536&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611282164536"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/28 (火) 16:45:36 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611282164536_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611282164536"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������@������@������Ƃ߂�������A���ƁB<br>
+<font size=3 color=#606060>じごら　じごら　じごらとめかじごら、っと。<br>
 <br>
-�ǂ݂܂����B�ʔ��������ł��B���W�I�́u�������v�̕������āA���͂Ǝ��Ă܂���ˁB���ꂾ���������܂����Ă����Ɖ��b�����ł��΂��Ă����Ȃ��B<br>
+読みました。面白かったです。ラジオの「声だけ」の放送って、文章と似てますよね。これだけ失言しまくってくれると怪獣実況でも笑えていいなあ。<br>
 <br>
-<font color="#ff88cc">���ڂ����ӂĂ����ꂽ�q�ǂ��̂悤�Ɉ���</font><br>
-�����ւ�C�ɓ���܂����B<br>
-<font color="#ff88cc">���̂����ɓo��</font><br>
-�����Ǝ��q���ɂ͂���ȋC�͂Ȃ��̂ł��傤���ǁA�̂����Ɍ�����񂾂��炵�傤���Ȃ���ˁH<br>
+<font color="#ff88cc">＞目つきがふてくされた子どものように悪く</font><br>
+たいへん気に入りました。<br>
+<font color="#ff88cc">＞偉そうに登場</font><br>
+きっと自衛隊にはそんな気はないのでしょうけど、偉そうに見えるんだからしょうがないよね？<br>
 <br>
-�Ƃ��̗V�т������Ăėǂ������ł��B�@���A�\�͂͌��݂Ȃ́H�@������āc�c</font>
+とかの遊びが効いてて良かったです。　え、能力は健在なの？　それって……</font>
 <p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
 </td></table>
 </td></tr></table>
@@ -292,55 +292,55 @@ link<input type=checkbox name="link" value="1">
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[727]</font> <font size=4 color=#40c0c0> ������`����A������`�i��</font>
+<font size=2>[727]</font> <font size=4 color=#40c0c0> じごら〜やっ、じごら〜（笑</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/28 (��) 09:14:34 <strong>��</strong> �V� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611282091434&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611282091434"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/28 (火) 09:14:34 <strong>▽</strong> 天爛 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611282091434_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611282091434"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ��Vࣂł��B<br>
-����`�A�w�W�S��������Ă����x�ʔ��������ł��B<br>
+<font size=3 color=#606060>ども天爛です。<br>
+いや〜、『ジゴラがやってきた』面白かったです。<br>
 <br>
-<font color="#cc88ff">&gt;�݂��g���I</font><br>
-���������o�u�u������`����A������`�@�ǂ��񂪂ǂ��񂪁`��Ɓ@���˂ށ`��v�v<br>
-����u������A��l�Ƃ��~�߂Ă��������B���������w�ǂ��񂪂ǂ��񂪁`��Ɓx���ĂȂ�ł������I�H�@�w�ǂ��񂪂ǂ��񂪁`��Ɓx���āI�I�v<br>
-�@�Ȃ񂩁A����Ȕn���Ȃ��Ƃ肪�������Ă������ł��i��<br>
+<font color="#cc88ff">&gt;みそトリオ</font><br>
+美央＆美登「「じごら〜やっ、じごら〜　どぅんがどぅんが〜んと　おねむ〜♪」」<br>
+美玲「ちょっ、二人とも止めてください。そもそも『どぅんがどぅんが〜んと』ってなんですかっ！？　『どぅんがどぅんが〜んと』って！！」<br>
+　なんか、そんな馬鹿なやりとりが聞こえてきそうです（笑<br>
 <br>
-<font color="#cc88ff">&gt;�{�X</font><br>
-�����u�{�X�A��̉��b�A��Ă��Ă�������v<br>
-�{�X�u�فA�ق�Ƃ��H�v<br>
-�K�`��<br>
-�j�R�u�����v<br>
-�{�X�u�ǁA�ǂ������I�H�v<br>
-�j�R�u�����v<br>
-����u���̎q���W�S���ł��v<br>
-�{�X�u�c�c�}�W�H�v<br>
-���o�u�}�W��v<br>
-�{�X�u�c�c�v<br>
-�j�R�u�����H�v<br>
-�{�X�u���A����Ȃ̉��b����Ȃ��₢���I�v<br>
-�o�^���b<br>
+<font color="#cc88ff">&gt;ボス</font><br>
+美央「ボス、例の怪獣連れてきてやったぜ」<br>
+ボス「ほ、ほんとか？」<br>
+ガチャ<br>
+ニコ「がう」<br>
+ボス「ど、どこだっ！？」<br>
+ニコ「がう」<br>
+美玲「この子がジゴラです」<br>
+ボス「……マジ？」<br>
+美登「マジ♪」<br>
+ボス「……」<br>
+ニコ「あう？」<br>
+ボス「こ、こんなの怪獣じゃないやいっ！」<br>
+バタンッ<br>
 <br>
-���`�u�ŁA�{�X�́H�v<br>
-����u�����Łc�c�v<br>
-���`�u�܂������Ă��肩�v<br>
-�����u����c�c�v<br>
-���`�u�H�v<br>
-���o�u�j�R�Ɖ��b���������Ă���v<br>
-���`�u�́H�v<br>
-����u�Ȃ񂩃j�R�̉��Z���^�ɔ����Ă�Ƃ��Ȃ�Ƃ��ŋC�ɓ����Ă��܂��āc�c�v<br>
-���`�u�c�c�A�Ȃɂ���Ă񂾁B���̂�������́c�c�v<br>
-����u�S�����@�����܂��v<br>
+部Ａ「で、ボスは？」<br>
+美玲「部屋で……」<br>
+部Ａ「まだ引き籠もりか」<br>
+美央「いや……」<br>
+部Ａ「？」<br>
+美登「ニコと怪獣ごっこしてるよ♪」<br>
+部Ａ「は？」<br>
+美玲「なんかニコの演技が真に迫ってるとかなんとかで気に入ってしまわれて……」<br>
+部Ａ「……、なにやってんだ。あのおっさんは……」<br>
+美玲「心中お察しします」<br>
 <br>
-�@�����Ȃ�܂��������`�̍Ō�̃Z���t�ɓVࣂ̃{�X�ɑ΂��銴�z���Ïk����Ă܂��B<br>
-�i��<br>
-�@�ق�ƁA�Ȃɂ���Ă񂾂��B�܂��A���ꂪ�ʔ����ƌ����Ζʔ�����ł����B�i��<br>
+　長くなりましたが部Ａの最後のセリフに天爛のボスに対する感想が凝縮されてます。<br>
+（笑<br>
+　ほんと、なにやってんだか。まあ、それが面白いと言えば面白いんですが。（笑<br>
 <br>
-�@�ł́A�j�R�̍���̊���Ɋ��Ҋ��ҁ�@�Ȃ̂ł���܂��B<br>
+　では、ニコの今後の活躍に期待期待♪　なのであります。<br>
 <br>
-<font color="#cc88ff">&gt;�l�^�������</font><br>
-�����A�Vࣂ��P�T�����������Ǝd�グ�Ȃ��Ɓc�c�i��<br>
+<font color="#cc88ff">&gt;ネタが被った</font><br>
+あっ、天爛も１５号をさっさと仕上げないと……（焦<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -348,38 +348,38 @@ link<input type=checkbox name="link" value="1">
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[726]</font> <font size=4 color=#40c0c0> ���z�Ƃ�������`�Ƃ������c�c</font>
+<font size=2>[726]</font> <font size=4 color=#40c0c0> 感想というか宣伝というか……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/27 (��) 23:10:22 <strong>��</strong> yuk+�����q </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611271231022&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611271231022"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/27 (月) 23:10:22 <strong>▽</strong> yuk+いち子 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611271231022_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611271231022"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">������������</font><br>
-����ڂ���̎�ނł����B<br>
-�ʔ������ł��ˁB���Ȃ茩�Ă݂����C���c�c<br>
+<font size=3 color=#606060><font color="#ff88cc">＞流離太さん</font><br>
+万条目さんの取材ですか。<br>
+面白そうですね。かなり見てみたい気が……<br>
 <br>
-�����q�u�킽����������˂������܂��B�v<br>
+いち子「わたしからもおねがいします。」<br>
 <br>
-��������C��J����v���f���[�T�[����Ԃ����Ă邩��ˁB�C���]���ɂ��������c�c<br>
+さいきん気苦労からプロデューサーさんぶっ壊れてるからね。気分転換にいいかも……<br>
 <br>
-�����q�u���邹�[��I�@���̂�������ˁ[�񂾂�I�@����͎莆�����Ă����Ƃ����I�Ԃ�Ɍ�����I�v<br>
+いち子「うるせーよ！　俺のせいじゃねーんだよ！　文句は手紙送ってくるやつとそれを選ぶやつに言えよ！」<br>
 <br>
-�n���o�Ă�I�@�n���o�Ă�I<br>
+地が出てる！　地が出てる！<br>
 <br>
-�����q�u�����܂���ςȓd�g��M�����݂����ł��B�v<br>
+いち子「すいません変な電波受信したみたいです。」<br>
 <br>
-���ꃉ�W�I����Ȃ���B�����q�������ēd�g�n�H<br>
+これラジオじゃないよ。いち子ちゃんって電波系？<br>
 <br>
-�����q�u�I�I�c�c���A������Ƃ߂܂����c�c�v�iyuk�Ɋ�肩����ӂ肵�ĉ���j<br>
+いち子「！！……あ、ちょっとめまいが……」（yukに寄りかかるふりして殴る）<br>
 <br>
-���́I<br>
+ぐは！<br>
 <br>
-�����q�i�ق���𕥂��āj�u�ӂ��A���͏����������B����ڂ���̎�ފy���݂ɂ��Ă܂��B����ł́A������͂��̎����u�n���^�[���Ǝ됶�����q�ł����肵�܂����B�v<br>
+いち子（ほこりを払って）「ふぅ、悪は消え去った。万条目さんの取材楽しみにしてます。それでは、お相手はこの私ラブハンターこと狩生いち子でお送りしました。」<br>
 <br>
-���u�n���^�[���ă_�T����ˁB<br>
+ラブハンターってダサいよね。<br>
 <br>
-�����q�u������̂Ă߂�����˂����I�I�I�v<br>
+いち子「作ったのてめぇじゃねぇか！！！」<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -387,49 +387,49 @@ link<input type=checkbox name="link" value="1">
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[725]</font> <font size=4 color=#40c0c0> �͂��i�O�O�G�G�G�j</font>
+<font size=2>[725]</font> <font size=4 color=#40c0c0> はう（＾＾；；；）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/27 (��) 22:16:57 <strong>��</strong> �ӂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611271221657&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611271221657"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/27 (月) 22:16:57 <strong>▽</strong> ふう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611271221657_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611271221657"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<pre><font size=3 color=#606060>��A�܂�����Ă��܂����ł��A�W�S���ł����B
+<pre><font size=3 color=#606060>わ、またやってしまったです、ジゴラでした。
 
-�u�ҁ[�v�͂����Ă��܂��Ă�i^^;;;�j</font></pre>
+「ぴー」はいってしまってる（^^;;;）</font></pre>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[724]</font> <font size=4 color=#40c0c0> �Ȃ�قǁA���b�ł����B</font>
+<font size=2>[724]</font> <font size=4 color=#40c0c0> なるほど、怪獣ですか。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/27 (��) 21:34:23 <strong>��</strong> �����Ђ�� with�Ȃ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611271213423&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611271213423"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/27 (月) 21:34:23 <strong>▽</strong> 高樹ひろむ withなずな </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611271213423_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200611271213423"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�X�g�[���[����f���̕��ł͂����f�����|�����܂���������������<br>
+<font size=3 color=#606060>ストーリー道場掲示板の方ではご迷惑をお掛けしました＞流離太さん<br>
 <br>
-�Ȃ�قǁA���܂łɂȂ������p�^�[���ł��ˁB<br>
-�ł�����ρA�W�S�����D���ŊX��j�󓙂��Ă��̂ł͂Ȃ��Ǝv���܂����B<br>
+なるほど、今までになかったパターンですね。<br>
+でもやっぱ、ジゴラも好きで街を破壊等してたのではないと思いますが。<br>
 <br>
-�Ȃ��ȁu���߂�Ȃ����A�}���ŗ������ǊԂɍ���Ȃ������݂����ł��ˁA�Ăւցv<br>
-��H�@�͂����Ăǂ��֍s���Ă��̂��Ȃ��A�Ȃ��Ȃ����B<br>
-�Ȃ��ȁu���̓e���|�[�g����ԈႦ������āA�傫�ȃS��������ƗV��ł܂����v<br>
-���āA���������B�܂�������A�L��(ry<br>
+なずな「ごめんなさい、急いで来たけど間に合わなかったみたいですね、てへへ」<br>
+ん？　はたしてどこへ行ってたのかなぁ、なずなちゃん。<br>
+なずな「実はテレポート先を間違えちゃって、大きなゴリラさんと遊んでました」<br>
+って、おいおい。まさかそれ、キン(ry<br>
 <br>
-�Ȃ��ȁu�W�S������A���킢�����B�����Ƃ������ɋA�肽�������̂ˁc�c<br>
-�@�@�@�@�S��������͉F���ɋA���Ă��������ǁA�W�S������̂������͂ǂ�������H<br>
-�@�@�@�@�Ȃ��Ȃ��݂�ȂƂ�������ɒT���Ă����邩��ˁA�����Ɓv</font>
+なずな「ジゴラさん、かわいそう。きっとおうちに帰りたかったのね……<br>
+　　　　ゴリラさんは宇宙に帰してあげたけど、ジゴラさんのおうちはどこかしら？<br>
+　　　　なずながみんなといっしょに探してあげるからね、きっと」</font>
 <p><a href="http://blunderer.web.fc2.com/" target="_top">http://blunderer.web.fc2.com/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kayo_chan">
@@ -437,16 +437,16 @@ link<input type=checkbox name="link" value="1">
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kayo_chan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kayo_chan">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kayo_chan.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

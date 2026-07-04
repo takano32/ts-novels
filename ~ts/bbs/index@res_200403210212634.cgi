@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >�N���G�[�^�[�Y�E�t���A</font>
+<font size=6 >クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,27 +15,27 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="opy4vbSPHp">
 <input type=hidden name="res" value="433">
-<h4 align=center>�� �L���ԍ� 433 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 433 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�͂��߂܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��ǐ�����
-&gt; ��T�ԑO�ɁA���N�������ɂ𔭌����Ă���A���ӂ̂悤�ɔq�����Ă���܂��B�ÓT�Ɨ��j�W�������̑n����������Ǝv���Ă��܂��B���ɂ̒��ł���ɋ߂����̂�����΋����ĉ������B����ƁA���S�҂̂��߁A���e���闝�z�I�ȕ��@�∳�k�̕��@���悭�킩��܂���B�ȒP�ȕ��@������΋����Ă��������B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:はじめまして"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 雅良生さん
+&gt; 一週間前に、少年少女文庫を発見してから、毎晩のように拝見しております。古典と歴史ジャンルの創作をしたいと思っています。文庫の中でそれに近いものがあれば教えて下さい。それと、初心者のため、投稿する理想的な方法や圧縮の方法がよくわかりません。簡単な方法があれば教えてください。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,17 +48,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[439]</font> <font size=4 color=#50d0d0> ����ƌ������I</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[439]</font> <font size=4 color=#50d0d0> やっと見つけた！</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/29 (��) 21:35:35  <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403291213535">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403291213535"></font>
+<font size=-1 color=#606060> 2004/03/29 (月) 21:35:35  <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403291213535.cgi">返信</a>　削除<input type=checkbox name="target" value="200403291213535"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�v�Ă̘Z�ۂ��񂪌����Ă������ˉ���̃p���f�B�́A����˂�����́u���~����񖟗V�L�v�ł��B<br>
-����Ƒ�q�C����̓앶������́u�����q�C�v������܂��B<br>
-�������Ă݂�ƌ��\���㕨���āA����܂��ˁB<br>
-�䉾�����ƔL��ۑ��ۂ���́u�s�r�Y�����Y�v������܂���B</font>
+<font size=4 color=#000000>思案の六ぽさんが言っていた水戸黄門のパロディは、かわねぎさんの「お梅ちゃん漫遊記」です。<br>
+それと大航海時代の南文堂さんの「処女航海」もあります。<br>
+こうしてみると結構時代物って、ありますね。<br>
+御伽噺だと猫野丸太丸さんの「ＴＳ浦島太郎」もありますよ。</font>
 <p><div align=left><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a></div>
 </td></table>
 </td></tr></table>
@@ -66,58 +66,58 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[438]</font> <font size=4 color=#50d0d0> Re2:�͂��߂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[438]</font> <font size=4 color=#50d0d0> Re2:はじめまして</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/29 (��) 20:40:14  <a href="mailto:garyosei@agate.plala.or.jp">��ǐ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403291204014">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403291204014"></font>
+<font size=-1 color=#606060> 2004/03/29 (月) 20:40:14  <a href="mailto:garyosei@agate.plala.or.jp">雅良生</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403291204014.cgi">返信</a>　削除<input type=checkbox name="target" value="200403291204014"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� �v�Ă̘Z�ۂ���<br>
-<font color="#cc88ff">&gt; �� ��ǐ�����<br>
-&gt; &gt; �ÓT�Ɨ��j�W�������̑n����������Ǝv���Ă��܂��B���ɂ̒��ł���ɋ߂�����</font><br>
+<font size=4 color=#000000>▼ 思案の六ぽさん<br>
+<font color="#cc88ff">&gt; ▼ 雅良生さん<br>
+&gt; &gt; 古典と歴史ジャンルの創作をしたいと思っています。文庫の中でそれに近いもの</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; ��ǐ����񂪂ǂ̎����_���Ă���̂��͂悭�킩��܂��񂪁A���㌀�n���Ȃ�m���A<br>
-&gt; ���ˉ���̃p���f�B�����������悤�ȋC�����܂��B<br>
-&gt; ����삳��u�����Y�̏H�v�͂ǂ��ł��傤���B����͕��������H�̓��{������ł��B<br>
-&gt; �悵��������̏Љ�ꂽ��i�́A��Q�����O��̃h�C�c�H������ł��������B</font><br>
-�L��������܂����B�u�����Y�̏H�v��ǂ݂܂����B���̕���l�^�͍l���ĂȂ������̂ŁA�Q�l�ɂȂ�܂����B</font>
+<font color="#cc88ff">&gt; 雅良生さんがどの時代を狙っているのかはよくわかりませんが、時代劇系統なら確か、<br>
+&gt; 水戸黄門のパロディ物があったような気がします。<br>
+&gt; 日比野さん「清太郎の秋」はどうでしょうか。これは平安中期？の日本が舞台です。<br>
+&gt; よしおかさんの紹介された作品は、第２次大戦前後のドイツ？が舞台でしたっけ。</font><br>
+有難うございました。「清太郎の秋」を読みました。今昔物語ネタは考えてなかったので、参考になりました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[437]</font> <font size=4 color=#50d0d0> Re:�͂��߂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[437]</font> <font size=4 color=#50d0d0> Re:はじめまして</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/28 (��) 23:48:29  �v�Ă̘Z�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403280234829">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403280234829"></font>
+<font size=-1 color=#606060> 2004/03/28 (日) 23:48:29  思案の六ぽ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403280234829.cgi">返信</a>　削除<input type=checkbox name="target" value="200403280234829"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� ��ǐ�����<br>
-<font color="#cc88ff">&gt; �ÓT�Ɨ��j�W�������̑n����������Ǝv���Ă��܂��B���ɂ̒��ł���ɋ߂�����</font><br>
+<font size=4 color=#000000>▼ 雅良生さん<br>
+<font color="#cc88ff">&gt; 古典と歴史ジャンルの創作をしたいと思っています。文庫の中でそれに近いもの</font><br>
 <br>
-��ǐ����񂪂ǂ̎����_���Ă���̂��͂悭�킩��܂��񂪁A���㌀�n���Ȃ�m���A<br>
-���ˉ���̃p���f�B�����������悤�ȋC�����܂��B<br>
-����삳��u�����Y�̏H�v�͂ǂ��ł��傤���B����͕��������H�̓��{������ł��B<br>
-�悵��������̏Љ�ꂽ��i�́A��Q�����O��̃h�C�c�H������ł��������B</font>
+雅良生さんがどの時代を狙っているのかはよくわかりませんが、時代劇系統なら確か、<br>
+水戸黄門のパロディ物があったような気がします。<br>
+日比野さん「清太郎の秋」はどうでしょうか。これは平安中期？の日本が舞台です。<br>
+よしおかさんの紹介された作品は、第２次大戦前後のドイツ？が舞台でしたっけ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[436]</font> <font size=4 color=#50d0d0> Re:�͂��߂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[436]</font> <font size=4 color=#50d0d0> Re:はじめまして</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/28 (��) 18:36:59  <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403280183659">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403280183659"></font>
+<font size=-1 color=#606060> 2004/03/28 (日) 18:36:59  <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403280183659.cgi">返信</a>　削除<input type=checkbox name="target" value="200403280183659"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� ��ǐ�����<br>
-<font color="#ff88cc">���ÓT�Ɨ��j�W�������̑n����������Ǝv���Ă��܂��B���ɂ̒��ł���ɋ߂����̂�������΋����ĉ������B</font><br>
-���}�_����́u�����鎖�͎���ƂƂ��ɂ���v�͂������ł��傤�H���ꂭ�炢�����v�����܂��񂪁E�E�E���߂�Ȃ����ˁB<br>
+<font size=4 color=#000000>▼ 雅良生さん<br>
+<font color="#ff88cc">＞古典と歴史ジャンルの創作をしたいと思っています。文庫の中でそれに近いものがあ＞れば教えて下さい。</font><br>
+ヤマダさんの「生きる事は時代とともにあり」はいかがでしょう？これくらいしか思いつきませんが・・・ごめんなさいね。<br>
 </font>
 <p><div align=left><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a></div>
 </td></table>
@@ -126,19 +126,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[435]</font> <font size=4 color=#50d0d0> Re:�͂��߂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[435]</font> <font size=4 color=#50d0d0> Re:はじめまして</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/26 (��) 10:38:30  <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U�����q�w�k���e�l�J�t�F</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403265103830">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403265103830"></font>
+<font size=-1 color=#606060> 2004/03/26 (金) 10:38:30  <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠小倉駅北口脇ネカフェ</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403265103830.cgi">返信</a>　削除<input type=checkbox name="target" value="200403265103830"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� ��ǐ�����<br>
-<font color="#cc88ff">&gt; ���k�̕��@</font><br>
-���k�Ɖ𓀂̗����̋@�\���������t���[�\�t�g������܂��̂ŁA�����𗘗p����Ă݂Ă͂������ł��傤���B<br>
-���^�N�V�̂������߂́u+Lhaca�i�v���X���J�j�v�Ƃ����\�t�g�ł��B<br>
-����́A�𓀂͈��k�t�@�C�����_�u���N���b�N���邾���A���k�͈��k�������t�@�C�����V���[�g�J�b�g�ɕ��荞�ނ����Ƃ����A���ɑ�����@�̊ȒP�ȃ\�t�g�ł��B<br>
-����́uVector�v�Ȃǂ̃t���[�\�t�g�x���_�[���A�G���̕t�^��CD-ROM�Ȃǂ���s���Ă��������B</font>
+<font size=4 color=#000000>▼ 雅良生さん<br>
+<font color="#cc88ff">&gt; 圧縮の方法</font><br>
+圧縮と解凍の両方の機能を持ったフリーソフトがありますので、それらを利用されてみてはいかがでしょうか。<br>
+ワタクシのおすすめは「+Lhaca（プラスラカ）」というソフトです。<br>
+これは、解凍は圧縮ファイルをダブルクリックするだけ、圧縮は圧縮したいファイルをショートカットに放り込むだけという、非常に操作方法の簡単なソフトです。<br>
+入手は「Vector」などのフリーソフトベンダーか、雑誌の付録のCD-ROMなどから行ってください。</font>
 <p><div align=left><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a></div>
 </td></table>
 </td></tr></table>
@@ -146,101 +146,101 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[434]</font> <font size=4 color=#50d0d0> re:�͂��߂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[434]</font> <font size=4 color=#50d0d0> re:はじめまして</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/25 (��) 23:43:05  starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403254234305">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403254234305"></font>
+<font size=-1 color=#606060> 2004/03/25 (木) 23:43:05  starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403254234305.cgi">返信</a>　削除<input type=checkbox name="target" value="200403254234305"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>��ǐ�����A<br>
+<font size=4 color=#000000>雅良生さん、<br>
 <br>
-RES���x��Đ\���󂠂�܂���B<br>
+RESが遅れて申し訳ありません。<br>
 <br>
-<font color="#ff88cc">�����e���闝�z�I�ȕ��@�∳�k�̕��@���悭�킩��܂���B</font><br>
-�P�D���e�K���Ɂu�W���t�H�[�}�b�g�v������܂��̂ŁA����ɉ����悤�ɂ��Ă��������B<br>
+<font color="#ff88cc">＞投稿する理想的な方法や圧縮の方法がよくわかりません。</font><br>
+１．投稿規程に「標準フォーマット」がありますので、それに沿うようにしてください。<br>
 <br>
-�Q�D�t�@�C���`��<br>
-�@�E�f�ڂ����Ԃ����炷���߂ɂł��邾��HTML�ɂ��Ă��������B<br>
-�@�EHTML�ɂł��Ȃ��Ƃ��́A�e�L�X�g�t�@�C���ł�OK�ł��B<br>
-�@�EMS Word�idoc�t�@�C��)�͎�Ԃ�������̂ŁA�ł���Δ����Ă��������B<br>
-�@�E�摜�́Ajpeg,gif�Ȃǂɂ��ăt�@�C���T�C�Y�����������Ă��������B<br>
+２．ファイル形式<br>
+　・掲載する手間を減らすためにできるだけHTMLにしてください。<br>
+　・HTMLにできないときは、テキストファイルでもOKです。<br>
+　・MS Word（docファイル)は手間がかかるので、できれば避けてください。<br>
+　・画像は、jpeg,gifなどにしてファイルサイズを小さくしてください。<br>
 <br>
-�Q�D���k�t�@�C���́Alzh�Ƃ��Ă��������B<br>
-�@�izip�́A�E�B���X�΍�̂��ߎ󂯎��܂���B�j<br>
+２．圧縮ファイルは、lzhとしてください。<br>
+　（zipは、ウィルス対策のため受け取れません。）<br>
 <br>
-�R�D���e�K���́u���僁�[���̃T���v���@�v�ɂ�����e�����[���{���Ƃ��Ă��������B<br>
+３．投稿規程の「応募メールのサンプル　」にある内容をメール本文としてください。<br>
 </font>
-<p><div align=left><a href="http://ts.novels.jp/boshuu.html" target="_top">http://ts.novels.jp/boshuu.html</a></div>
+<p><div align=left><a href="../../boshuu.html" target="_top">http://ts.novels.jp/boshuu.html</a></div>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[433]</font> <font size=4 color=#50d0d0> �͂��߂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[433]</font> <font size=4 color=#50d0d0> はじめまして</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/21 (��) 21:26:34  <a href="mailto:garyosei@agate.plala.or.jp">��ǐ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403210212634">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403210212634"></font>
+<font size=-1 color=#606060> 2004/03/21 (日) 21:26:34  <a href="mailto:garyosei@agate.plala.or.jp">雅良生</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403210212634.cgi">返信</a>　削除<input type=checkbox name="target" value="200403210212634"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>��T�ԑO�ɁA���N�������ɂ𔭌����Ă���A���ӂ̂悤�ɔq�����Ă���܂��B�ÓT�Ɨ��j�W�������̑n����������Ǝv���Ă��܂��B���ɂ̒��ł���ɋ߂����̂�����΋����ĉ������B����ƁA���S�҂̂��߁A���e���闝�z�I�ȕ��@�∳�k�̕��@���悭�킩��܂���B�ȒP�ȕ��@������΋����Ă��������B</font>
+<font size=4 color=#000000>一週間前に、少年少女文庫を発見してから、毎晩のように拝見しております。古典と歴史ジャンルの創作をしたいと思っています。文庫の中でそれに近いものがあれば教えて下さい。それと、初心者のため、投稿する理想的な方法や圧縮の方法がよくわかりません。簡単な方法があれば教えてください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[432]</font> <font size=4 color=#50d0d0> ����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[432]</font> <font size=4 color=#50d0d0> 無題</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/10 (��) 09:34:25  mulu.w </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403103093425">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403103093425"></font>
+<font size=-1 color=#606060> 2004/03/10 (水) 09:34:25  mulu.w </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403103093425.cgi">返信</a>　削除<input type=checkbox name="target" value="200403103093425"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�i�L-`).���O(cron...)</font>
+<font size=4 color=#000000>（´-`).｡ｏO(cron...)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[431]</font> <font size=4 color=#50d0d0> Re:���O��������</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[431]</font> <font size=4 color=#50d0d0> Re:ログだったら</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/10 (��) 07:36:30  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403103073630">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403103073630"></font>
+<font size=-1 color=#606060> 2004/03/10 (水) 07:36:30  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403103073630.cgi">返信</a>　削除<input type=checkbox name="target" value="200403103073630"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">> ���A�󂫎��ԂɏW�v��������HTML�t�@�C�������Ă����Ƃ����̂́A�����������ׂ͂�����Ȃ��ł��B������ƍl���܂��B</font><br>
-�@Perl�ŉ�̓X�N���v�g�͏o������ł����ǁA������Ƃɉғ������āA���O����点����@���v�����܂���BWindows�Ō����A"�^�X�N"�ɋ߂�������܂����ˁH</font>
+<font size=4 color=#000000><font color="#cc88ff">> あ、空き時間に集計をかけてHTMLファイル化しておくというのは、たいした負荷はかからないです。ちょっと考えます。</font><br>
+　Perlで解析スクリプトは出来たんですけど、一日ごとに稼働させて、ログを作らせる方法が思いつきません。Windowsで言う、"タスク"に近い物ありますかね？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[430]</font> <font size=4 color=#50d0d0> ���O��������</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[430]</font> <font size=4 color=#50d0d0> ログだったら</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/09 (��) 22:23:59  <a href="mailto:yaji@novels.jp">��_��@�Ǘ���</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403092222359">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403092222359"></font>
+<font size=-1 color=#606060> 2004/03/09 (火) 22:23:59  <a href="mailto:yaji@novels.jp">矢治浩平@管理者</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403092222359.cgi">返信</a>　削除<input type=checkbox name="target" value="200403092222359"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�T�[�o�[����ւ���O��������A����HTML�t�@�C���P�ʂ̉{�������W�v���Ă��Ėl�͂��܂Ɍ��Ă��܂����B���͒N�ł����ꂽ�̂ł����A�T�[�o�[����ւ��Ă���͂܂������ƃ��O�W�v�𓮂����Ă��܂���B<br>
-�܂����A���Ă����b��������܂��l���܂��B<br>
+<font size=4 color=#000000>サーバー入れ替える前だったら、実はHTMLファイル単位の閲覧数を集計していて僕はたまに見ていました。実は誰でも見れたのですが、サーバー入れ替えてからはまだちゃんとログ集計を動かしていません。<br>
+またやれ、っていう話だったらまた考えます。<br>
 <br>
-<font color="#cc88ff">&gt;�@�������͂���̂̓T�[�o�ɑ傫�ȕ��S��������Ǝv����ł����ǁB<br>
-&gt; ��A40MB�߂������邵(�m��)�B</font><br>
+<font color="#cc88ff">&gt;　それを解析するのはサーバに大きな負担をかけると思うんですけど。<br>
+&gt; 一つ、40MB近くもあるし(確か)。</font><br>
 <br>
-���A�󂫎��ԂɏW�v��������HTML�t�@�C�������Ă����Ƃ����̂́A�����������ׂ͂�����Ȃ��ł��B������ƍl���܂��B</font>
+あ、空き時間に集計をかけてHTMLファイル化しておくというのは、たいした負荷はかからないです。ちょっと考えます。</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -248,16 +248,16 @@ RES���x��Đ\���󂠂�܂���B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

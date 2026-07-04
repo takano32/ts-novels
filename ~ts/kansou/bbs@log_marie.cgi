@@ -83,7 +83,7 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=3 color=#606060>【推薦文】イマジンシリーズ、ついに最終回です。<br>
 これでＭａｒｉｅさんの未掲載作品は全て掲載し終わりました。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200202/03004409/imagine06.html target=_top>http://ts.novels.jp/novel/200202/03004409/imagine06.html</a></font>
+<a href="../../novel/200202/03004409/imagine06.html" target=_top>http://ts.novels.jp/novel/200202/03004409/imagine06.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -136,7 +136,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】大変長らくお待たせしました。イマジンシリーズ全6回のうち5回目です。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200202/03004409/imagine05.html target=_top>http://ts.novels.jp/novel/200202/03004409/imagine05.html</a></font>
+<a href="../../novel/200202/03004409/imagine05.html" target=_top>http://ts.novels.jp/novel/200202/03004409/imagine05.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -214,7 +214,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】純の女性化が進む部分の描写などは、やはりＭａｒｉｅさん独特の作風を感じさせてくれます。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200202/03004409/imagine04.html target=_top>http://ts.novels.jp/novel/200202/03004409/imagine04.html</a></font>
+<a href="../../novel/200202/03004409/imagine04.html" target=_top>http://ts.novels.jp/novel/200202/03004409/imagine04.html</a></font>
 </td></table>
 </td></tr></table>
 

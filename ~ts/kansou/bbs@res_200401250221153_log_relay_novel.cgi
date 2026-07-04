@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����[�����@���z�f����</title>
+<title>リレー小説　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����[�����@���z�f����</font>
+<font size=5>リレー小説　感想掲示板</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080><B>�����[�����̍�i�f�ڂ�2004/01/10����n�߂܂��B[ <A HREF="http://ts.novels.jp/novel/200305/04184146/title.html">�V���[�Y�^�C�g���͂�����</A> ]</B><br>���ҏW�ӔC�҂͂悵��������ł��B�Ǘ��͏��N�������ɂ��S�����Ă���܂��B<br></font>
+<font color=#608080><B>リレー小説の作品掲載を2004/01/10から始めます。[ <A HREF="../../novel/200305/04184146/title.html">シリーズタイトルはこちら</A> ]</B><br>現編集責任者はよしおかさんです。管理は少年少女文庫が担当しております。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
@@ -15,35 +15,35 @@
 <input type=hidden name="log" value="relay_novel">
 <input type=hidden name="nj" value="fSLGR7OdVy">
 <input type=hidden name="res" value="146">
-<h4 align=center>�� �L���ԍ� 146 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 146 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U�������
-&gt; �����A����͂܂��B
-&gt; ���ɂ܂��`���Ƃ����̂͌��\�e�n�Ɏc����Ă��܂�����A���̂悤�Ȃ��b���ǂ����ɂ��邩������Ȃ��ł��˂��B
-&gt; ����ȂƂ���ɂ�����Ƃ������A�����������Ă݂��肵�āB
-&gt; ���̔߂����������Ȃ��Ȃ��悩�����ł��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６＠自宅さん
+&gt; おお、これはまた。
+&gt; 水にまつわる伝承というのは結構各地に残されていますから、このようなお話もどこかにあるかもしれないですねぇ。
+&gt; そんなところにちょっとしたリアルさを感じてみたりして。
+&gt; もの悲しい結末もなかなかよかったです。
 &gt; 
-&gt; �������A�s���N�F�́i�؂́j�l�����āAe-kara�����ĉ̂��o�������ȋC������̂ł����i���j�B���łɐ��F��΁A���Ȃ񂩂�������Ƃ��i�j���j�B
+&gt; しかし、ピンク色の（鱗の）人魚って、e-kara持って歌い出しそうな気がするのですが（爆）。ついでに水色や緑、紫なんかもいたりとか（核爆）。
 &gt; 
-&gt; ������8426����A���̃����[�͂�����ƕς���Ă��܂��̂ŁA����́A�˘f���邩���E�E�E
-&gt; ���̂Ƃ���A�����[�Ƃ������̓I���j�o�X�Ƃ��������ł��ˁB�ł��A���ꂪ�ŏI�I�ɂ͏W�񂳂�Ă�����ł���ˁH</textarea><br>
+&gt; ＞ｍｋ8426さん、このリレーはちょっと変わっていますので、次回は、戸惑われるかも・・・
+&gt; 今のところ、リレーというよりはオムニバスという感じですね。でも、これが最終的には集約されていくんですよね？</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 20 <strong>�ő�L�^�ێ���</strong> 200 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 20 <strong>最大記録保持数</strong> 200 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -56,19 +56,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[157]</font> <font size=4 color=#40c0c0> �\���󂲂����܂���B</font>
+<font size=2>[157]</font> <font size=4 color=#40c0c0> 申し訳ございません。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/21 (�y) 23:03:23 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402216230323&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402216230323"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/21 (土) 23:03:23 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402216230323_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200402216230323"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����[�ӔC�҂̂悵�����ł��B<br>
-�������X�V�ɒx��Ă���܂����A�܂������܂��B<br>
-�����΂炭���҂����������B�����Ƃ�����������i�����ǂ݂���������Ǝv���܂��B<br>
-���̊����y���݂ɂ��Ă��������Ă������������̂��킩��B�������ł��B<br>
-�i�����āA�킴�Ƃł͂���܂���B������Œx�ꂽ�����ł��j<br>
-���ɐ\���󂲂����܂���B</font>
+<font size=3 color=#606060>リレー責任者のよしおかです。<br>
+すこし更新に遅れておりますが、まだ続きます。<br>
+今しばらくお待ちください。きっとご満足いく作品をお読みいただけると思います。<br>
+この企画を楽しみにしていただいている方がおられるのがわかり。嬉しいです。<br>
+（決して、わざとではありません。諸事情で遅れただけです）<br>
+誠に申し訳ございません。</font>
 <p><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a>
 </td></table>
 </td></tr></table>
@@ -76,88 +76,88 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[156]</font> <font size=4 color=#40c0c0> ���̥��</font>
+<font size=2>[156]</font> <font size=4 color=#40c0c0> あの･･･</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/20 (��) 23:26:45 <strong>��</strong> �����l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402205232645&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402205232645"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/20 (金) 23:26:45 <strong>▽</strong> 無銘人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402205232645_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200402205232645"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����[�����y���݂ɓǂ܂��Ē����Ă��܂��B<br>
-�Ƃ���ŁA�A�ڊJ�n���̍��m�ł́u 1/10����1�T�Ԗ���1�͂��v�Ə�����Ă����̂ł���<br>
-1/31�̑�O�͌f�ڈȍ~�A��O�T�قǎ��̘b���f�ڂ���Ȃ��̂ł����A�Ђ���Ƃ��Ē��f�Ȃ��<br>
-���Ƃ͂Ȃ���ł���ˁH<br>
-���̘b�̌f�ڂ��y���݂ɂ��Ă���̂ł������<br>
-�i���N�ȏ�O�Ɏn��A�ڂ̊J�n�������ŁA�܂���i���o���ĂȂ��Ƃ������ƂȂǂ͂Ȃ��Ǝv���̂ł������<br>
-�����o���܂����������݂Ő\���󂠂�܂���j<br>
-��l�b�̌f�ڊy���݂ɂ��Ă���܂��B</font>
+<font size=3 color=#606060>リレー小説楽しみに読ませて頂いています。<br>
+ところで、連載開始時の告知では「 1/10から1週間毎に1章ずつ」と書かれていたのですが<br>
+1/31の第三章掲載以降、約三週ほど次の話が掲載されないのですが、ひょっとして中断なんて<br>
+ことはないんですよね？<br>
+次の話の掲載を楽しみにしているのですが･･･<br>
+（半年以上前に始り連載の開始した企画で、まだ作品が出来てないということなどはないと思うのですが･･･<br>
+差し出がましい書き込みで申し訳ありません）<br>
+第四話の掲載楽しみにしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[155]</font> <font size=4 color=#40c0c0> �ǂ�ŉ������܂��Ă��肪�Ƃ��������܂�</font>
+<font size=2>[155]</font> <font size=4 color=#40c0c0> 読んで下さいましてありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/05 (��) 19:44:47 <strong>��</strong> <a href="mailto:dattadekoi@hotmail.com">DEKOI</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402054194447&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402054194447"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/05 (木) 19:44:47 <strong>▽</strong> <a href="mailto:dattadekoi@hotmail.com">DEKOI</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402054194447_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200402054194447"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>DEKOI�ł��B<br>
-���A����ڂ����̑�C�x���g�ŏ��X�ْ����܂����B<br>
-���ǂݒ����Ă��肪�Ƃ��������܂����B<br>
+<font size=3 color=#606060>DEKOIです。<br>
+復帰第一作目がこの大イベントで少々緊張しました。<br>
+お読み頂いてありがとうございました。<br>
 <br>
-<font color="#cc88ff">&gt;�v�Ă̘Z�ۂ���</font><br>
-�������ǂ����t������̂��Y�񂾂����Ɋy����ł��������Ă��ꂵ���ł��B<br>
-����������Ƃ͂����Ⴏ���L�����ł����������}���ڂɂ��܂����i����ł��j�B<br>
+<font color="#cc88ff">&gt;思案の六ぽさま</font><br>
+美樹をどう味付けするのか悩んだだけに楽しんでいただいてうれしいです。<br>
+もうちょっとはっちゃけたキャラでしたが少し抑え目にしました（あれでか）。<br>
 <br>
-<font color="#cc88ff">&gt;�����W�S�Q�U�������</font><br>
-��l�����ǂ���炵�Ă��镗�i���������Ƃ��܂������A�F����̑z���ɂ܂����������������낤�Ƃ����l���ƒ��ߐ؂肪���܂��Ă���Ƃ��������I��Q�ׂ̈ɂ����Ėv�ɂ��܂����B<br>
-�I����Ă݂�Ή��~�悢�����������C�����܂��B<br>
+<font color="#cc88ff">&gt;ｍｋ８４２６＠自宅さま</font><br>
+二人が仲良く暮らしている風景も書こうとしましたが、皆さんの想像にまかせた方がいいだろうという考えと締め切りがせまっているという物理的障害の為にあえて没にしました。<br>
+終わってみれば塩梅よい感じだった気もします。<br>
 <br>
-<font color="#cc88ff">&gt;���ׂ̕����V����</font><br>
-�����ł��ˁB����͂��킢�����Ȏ���������������܂���B<br>
-�ނ��ǂ����Ă����Ȃ��Ă��܂����̂��͊����Č��܂��񂪁A�ł����h�������ɂ������̂͊m���ł��B<br>
+<font color="#cc88ff">&gt;風邪の風来坊さま</font><br>
+そうですね。銀樹はかわいそうな事をしたかもしれません。<br>
+彼がどうしてああなってしまったのかは敢えて語りませんが、ですが辛い境遇にあったのは確かです。<br>
 <br>
-�F�l���ǂ݉������܂��Ă��肪�Ƃ��������܂����B<br>
-���ꂩ�����낵�����肢���܂��B</font>
+皆様お読み下さいましてありがとうございました。<br>
+これからもよろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[154]</font> <font size=4 color=#40c0c0> �����͂ނ���E�E�E�B</font>
+<font size=2>[154]</font> <font size=4 color=#40c0c0> 自分はむしろ・・・。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/03 (��) 14:47:25 <strong>��</strong> ���ׂ̕����V </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402032144725&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402032144725"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/03 (火) 14:47:25 <strong>▽</strong> 風邪の風来坊 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402032144725_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200402032144725"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����V���[�Y���L�̃m�X�^���W�b�N�����c���A�Ǝ��̖��Ɏd�オ���Ă��܂��ˁB<br>
-�ł������͓ǂ�ł��āA����̕��ɓ���Ă��܂��܂����B<br>
-��̉����A�ނ����̂悤�ɕς����̂��B<br>
-�����ƁA��قǉ��ꂽ���E�����Ă����̂ł��傤�B<br>
-�����āA�삯�o���̐�˂��A���̘V�ԂȐ��E�Ő����Ă䂭���߂ɂ́A��������̐F�ɐ��܂���Ȃ������B<br>
-������������ۂ��A�s�Ԃ���ǂݎ��܂����B</font>
+<font size=3 color=#606060>お守りシリーズ特有のノスタルジックさを残しつつ、独自の味に仕上がっていますね。<br>
+でも自分は読んでいて、銀樹の方に同情してしまいました。<br>
+一体何が、彼をあのように変えたのか。<br>
+きっと、よほど汚れた世界を見てきたのでしょう。<br>
+そして、駆け出しの青二才が、その老獪な世界で生きてゆくためには、自らもその色に染まるよりなかった。<br>
+そういった印象が、行間から読み取れました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[153]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[153]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/01 (��) 02:32:10 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402010023210&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402010023210"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/01 (日) 02:32:10 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402010023210_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200402010023210"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����[�A���̂ǂ�ł�Ԃ������܂�Ȃ��B<br>
-�����l�Ǝv���Ă������Z�����͈������c�ŁA�������q���Ǝv���Ă������Z�����͒�v���̂������c�������Ȃ�āA���̏�ʂɂȂ�܂ŗ\�z���炵�Ă��܂���ł�����B<br>
-�������A�ŏ������˘f�������������̂̂����Ƃ����Ԃɓ����ł��܂�����������́A���ꂩ��{���ɂ������o�����ɂȂ��ł��傤�˂��B����l����A���K���Ɂ�<br>
-���Z�́A���ʉ���̓T�^��ƌ������ƂŁB</font>
+<font size=3 color=#606060>いやー、このどんでん返しがたまらない。<br>
+いい人と思われていた長兄が実は悪いヤツで、放蕩息子だと思われていた次兄が実は弟思いのいいヤツだったなんて、あの場面になるまで予想すらしていませんでしたよ。<br>
+しかし、最初こそ戸惑いがあったもののあっという間に馴染んでしまった美樹さんは、これから本当にいいお姉ちゃんになるんでしょうねぇ。お二人さん、お幸せに♪<br>
+長兄は、因果応報の典型例と言うことで。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -165,79 +165,79 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[152]</font> <font size=4 color=#40c0c0> ��O�́w�V�����o��x�ǂ݂܂���</font>
+<font size=2>[152]</font> <font size=4 color=#40c0c0> 第三章『新しい姉弟』読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/01 (��) 00:24:42 <strong>��</strong> �v�Ă̘Z�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402010002442&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402010002442"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/01 (日) 00:24:42 <strong>▽</strong> 思案の六ぽ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402010002442_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200402010002442"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����̍�҂��c�d�j�n�h����Ƃ������ƂŁA�O�̓�l�Ƃ͂��Ȃ������W�J�ɂȂ�Ɠ���ł͂��܂������A��͂���Ғʂ�i�������Ғʂ�Ȃ񂾂�����������Ă鎄�ɂ��H�j�ł����B<br>
-����i�������j�̍������Ղ�A����A�؂���Ղ�A���\�����Ă��������܂����B<br>
-�����A��Ă��H���e�[�i���̂��Ƃ��</font>
+<font size=3 color=#606060>今回の作者がＤＥＫＯＩさんということで、前の二人とはかなり違った展開になると踏んではいましたが、やはり期待通り（何が期待通りなんだかこれを書いてる私にも？）でした。<br>
+大樹（＝美樹）の混乱っぷり、いや、切れっぷり、堪能させていただきました。<br>
+ああ、鯛焼き食いテー（何のことやら</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[151]</font> <font size=4 color=#40c0c0> �w�����Ȃ���� - ��O�́w�V�����o��x�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[151]</font> <font size=4 color=#40c0c0> 『小さなお守り - 第三章『新しい姉弟』』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/31 (�y) 19:05:32 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401316190532&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401316190532"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/31 (土) 19:05:32 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401316190532_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401316190532"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z ���x�������̓��{�B���͐l�Ԃ̐��_�����킵�A�l���������킷�B<br>
+<font size=3 color=#606060>【推薦文】 高度成長期の日本。金は人間の精神を狂わし、人生をも狂わす。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200305/04184146/relay3.html target=_top>http://ts.novels.jp/novel/200305/04184146/relay3.html</a></font>
+<a href="../../novel/200305/04184146/relay3.html" target=_top>http://ts.novels.jp/novel/200305/04184146/relay3.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[150]</font> <font size=4 color=#40c0c0> ���z�ǂ������肪�Ƃ��������܂�</font>
+<font size=2>[150]</font> <font size=4 color=#40c0c0> 感想どうもありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/26 (��) 11:23:33 <strong>��</strong> ���Ɏ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401261112333&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401261112333"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/26 (月) 11:23:33 <strong>▽</strong> 愛に死す </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401261112333_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401261112333"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�F�l�A�ǂ������肪�Ƃ��������܂��B<br>
-�y����Œ����Ď����������ł��B<br>
+<font size=3 color=#606060>皆様、どうもありがとうございます。<br>
+楽しんで頂けて私も嬉しいです。<br>
 <br>
-<font color="#cc88ff">&gt; 酉J����<br>
-&gt; ���Ȃ�\���o���Ȃ������ɘb���i��łт�����ł��B<br>
-&gt; ���J�͍Ō�l���ɂȂ��đ����~���čK���������Ǝv���܂��B<br>
-&gt; �ዛ�����т����Ɗ�����Ǝv�����ǌ��J�Ɋ��ӂ����Ȃ��Ⴂ���Ȃ���</font><br>
+<font color="#cc88ff">&gt; 驟雨さん<br>
+&gt; かなり予測出来ない方向に話が進んでびっくりです。<br>
+&gt; 結雨は最後人魚になって村を救って幸せだったと思います。<br>
+&gt; 若魚もさびしいと感じると思うけど結雨に感謝をしなきゃいけないし</font><br>
 <br>
-�����؂Ȃ��Î_���ς������̌����ɂȂ�܂����B<br>
-�ዛ�͍������J�̋A���҂��Ă���̂�������܂���B<br>
+少し切なく甘酸っぱい感じの結末になりました。<br>
+若魚は今も結雨の帰りを待っているのかもしれません。<br>
 <br>
-<font color="#cc88ff">&gt; �����W�S�Q�U����<br>
-&gt; ���ɂ܂��`���Ƃ����̂͌��\�e�n�Ɏc����Ă��܂�����A���̂悤�Ȃ��b���ǂ����ɂ��邩������Ȃ��ł��˂��B<br>
-&gt; ���łɐ��F��΁A���Ȃ񂩂�������Ƃ��i�j���j�B</font><br>
+<font color="#cc88ff">&gt; ｍｋ８４２６さん<br>
+&gt; 水にまつわる伝承というのは結構各地に残されていますから、このようなお話もどこかにあるかもしれないですねぇ。<br>
+&gt; ついでに水色や緑、紫なんかもいたりとか（核爆）。</font><br>
 <br>
-������������A�Ђ�����ƌ�葱�����Ă��镨�ꂪ����̂�������܂���ˁB<br>
-�l���̉̂�x��͉Y�����Y�ȋC���ɂȂ��Č��Ă݂����ł��B<br>
+もしかしたら、ひっそりと語り続けられている物語があるのかもしれませんね。<br>
+人魚の歌や踊りは浦島太郎な気分になって見てみたいです。<br>
 <br>
-<font color="#cc88ff">&gt; �v�Ă̘Z�ۂ���<br>
-&gt; �l���ɂȂ�܂������A���J�N�́B��Ɏc���ꂽ�ዛ�̋C�������āA�}�E�������h�m��x�@���A�R�l��z��҂Ɏ��ȁi�܂��͕v�j�Ɏ��Ă���̂�������܂���ˁB�����߂����Ƃ΂�����͌����Ă����Ȃ��E�E�E�B</font><br>
+<font color="#cc88ff">&gt; 思案の六ぽさん<br>
+&gt; 人魚になりましたか、結雨君は。後に残された若魚の気持ちって、殉職した消防士や警察官、軍人を配偶者に持つ妻（または夫）に似ているのかもしれませんね。ただ悲しいとばっかりは言っていられない・・・。</font><br>
 <br>
-���C�Ȏዛ�͕\�ʏ�͋����U�镑���Ă���ł��傤�B<br>
-�ł��A��l�ɂȂ������ɂӂƎ₵���𖡂���Ă���ł��傤�ˁB<br>
-�l���Ɋւ��`���͔߂������̂��m���ɑ������ł��B<br>
+強気な若魚は表面上は強く振る舞っているでしょう。<br>
+でも、一人になった時にふと寂しさを味わっているでしょうね。<br>
+人魚に関わる伝承は悲しいものが確かに多そうです。<br>
 <br>
-<font color="#cc88ff">&gt; �A�J�g������<br>
-&gt; �����Č����Ε��͋C�Ƃ��l�Ԋ֌W�̕`�����ł��傤���B<br>
-&gt; �l�I�ɂ͂ǂ����Đl���ɂȂ�́H�@�Ƃ��A�M�u�A�b�v����l�H�ċz�܂ł̗���̓G�����j�Ȃ�܂������Ⴂ���̎q���ᖳ�������邾��A�Ƃ����ǂ����Ă��C�ɂȂ��ł����B</font><br>
+<font color="#cc88ff">&gt; アカトリさん<br>
+&gt; 強いて言えば雰囲気とか人間関係の描き方でしょうか。<br>
+&gt; 僕的にはどうして人魚になるの？　とか、ギブアップから人工呼吸までの流れはエロい男ならまだしも若い女の子じゃ無理があるだろ、とかがどうしても気になるんですが。</font><br>
 <br>
-���u�R���Ƃ������ɂȂ�̂ł��傤���B�ق̂ڂ̂Ƃ������������͍D���Ȃ悤�ł��ˁB<br>
-���ɓK�������`�Ƃ����Ɛl�����܂��v�����Ă��܂��܂����ˁB<br>
-���J�Ǝዛ�͗F�B�ȏ���l�����̊֌W�ł��傤���B���J�̎ς��؂�Ȃ��ԓx��<br>
-�ዛ���ϋɓI�ɍs�����悤�Ƃ��������ꂾ�Ǝv���܂��B<br>
-����܂ł̗���Ől���֌W�����܂������\�������ł���悤���i���Ă��������ł��ˁB<br>
+ラブコメという事になるのでしょうか。ほのぼのとした感じが私は好きなようですね。<br>
+水に適応した形というと人魚がまず思いついてしまいましたね。<br>
+結雨と若魚は友達以上恋人未満の関係でしょうか。結雨の煮え切らない態度に<br>
+若魚が積極的に行動しようとしたあらわれだと思います。<br>
+それまでの流れで人物関係をうまく書き表す事ができるよう精進していきたいですね。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -245,34 +245,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[149]</font> <font size=4 color=#40c0c0> Re:�u�����Ȃ���� - ���́v�ǂ݂܂���</font>
+<font size=2>[149]</font> <font size=4 color=#40c0c0> Re:「小さなお守り - 第二章」読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/26 (��) 09:18:54 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401261091854&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401261091854"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/26 (月) 09:18:54 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401261091854_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401261091854"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">> �V���[�Y�^�C�g���̑��͂̍�҂��u�悵�����v����ɂȂ��Ă��܂����B�u���Ɏ����v����̊ԈႢ�ł���ˁH</font><br>
+<font size=3 color=#606060><font color="#cc88ff">> シリーズタイトルの第二章の作者が「よしおか」さんになっていました。「愛に死す」さんの間違いですよね？</font><br>
 <br>
-�@kou@�^�c�ψ��ł��B�������������܂����B<br>
-�@���񍐗L���������܂��B</font>
+　kou@運営委員です。ただ今訂正しました。<br>
+　ご報告有り難うございます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[148]</font> <font size=4 color=#40c0c0> mk����̓˂����݂ɂ��Ȃ�ŁA�w�҂��҂��{�C�X�Ń��C�u�X�^�[�g�I�x</font>
+<font size=2>[148]</font> <font size=4 color=#40c0c0> mkさんの突っ込みにちなんで、『ぴちぴちボイスでライブスタート！』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/25 (��) 23:52:40 <strong>��</strong> <a href="mailto:ymgch@m3.dion.ne.jp">�A�J�g��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401250235240&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401250235240"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/25 (日) 23:52:40 <strong>▽</strong> <a href="mailto:ymgch@m3.dion.ne.jp">アカトリ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401250235240_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401250235240"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ǂ����A�����W�S�Q�U����̓˂����݂Ɍh�ӂ𕥂�������ɂȂ��Ă�A�J�g���ł��B<br>
-�@�ǂ��������Ǝv���܂��B�˂����ݏ��Ƃ��C�ɂȂ鏊���l�I�ɂ͌��\����܂����ǁA�ǂ��������Ǝv���܂��B�c�c���̗ǂ����������ጾ���Ȃ��ł����ǁB�����Č����Ε��͋C�Ƃ��l�Ԋ֌W�̕`�����ł��傤���B<br>
-�@�l�I�ɂ͂ǂ����Đl���ɂȂ�́H�@�Ƃ��A�M�u�A�b�v����l�H�ċz�܂ł̗���̓G�����j�Ȃ�܂������Ⴂ���̎q���ᖳ�������邾��A�Ƃ����ǂ����Ă��C�ɂȂ��ł����B<br>
-�@����ł̓����[�����̊F����A�����C�������Ăǂ����I<br>
+<font size=3 color=#606060>　どうも、ｍｋ８４２６さんの突っ込みに敬意を払ったつもりになってるアカトリです。<br>
+　良い感じだと思います。突っ込み所とか気になる所が僕的には結構ありますけど、良い感じだと思います。……その良い所が口じゃ言えないですけど。強いて言えば雰囲気とか人間関係の描き方でしょうか。<br>
+　僕的にはどうして人魚になるの？　とか、ギブアップから人工呼吸までの流れはエロい男ならまだしも若い女の子じゃ無理があるだろ、とかがどうしても気になるんですが。<br>
+　それではリレー小説の皆さん、次も気合を入れてどうぞ！<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -280,40 +280,40 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[147]</font> <font size=4 color=#40c0c0> �u�����Ȃ���� - ���́v�ǂ݂܂���</font>
+<font size=2>[147]</font> <font size=4 color=#40c0c0> 「小さなお守り - 第二章」読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/25 (��) 22:36:00 <strong>��</strong> �v�Ă̘Z�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401250223600&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401250223600"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/25 (日) 22:36:00 <strong>▽</strong> 思案の六ぽ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401250223600_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401250223600"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�l���ɂȂ�܂������A���J�N�́B��Ɏc���ꂽ�ዛ�̋C�������āA�}�E�������h�m��x�@���A�R�l��z��҂Ɏ��ȁi�܂��͕v�j�Ɏ��Ă���̂�������܂���ˁB�����߂����Ƃ΂�����͌����Ă����Ȃ��E�E�E�B<br>
-���������΁A���ɂ܂��`���́A�����ɔ߂��������������̂������ł��ˁB<br>
+<font size=3 color=#606060>人魚になりましたか、結雨君は。後に残された若魚の気持ちって、殉職した消防士や警察官、軍人を配偶者に持つ妻（または夫）に似ているのかもしれませんね。ただ悲しいとばっかりは言っていられない・・・。<br>
+そういえば、水にまつわる伝説は、現実に悲しい結末を持つものが多いですね。<br>
 <br>
-�o�D�r�D<br>
-�V���[�Y�^�C�g���̑��͂̍�҂��u�悵�����v����ɂȂ��Ă��܂����B�u���Ɏ����v����̊ԈႢ�ł���ˁH</font>
+Ｐ．Ｓ．<br>
+シリーズタイトルの第二章の作者が「よしおか」さんになっていました。「愛に死す」さんの間違いですよね？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[146]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[146]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/25 (��) 22:11:53 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401250221153&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401250221153"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/25 (日) 22:11:53 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401250221153_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401250221153"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A����͂܂��B<br>
-���ɂ܂��`���Ƃ����̂͌��\�e�n�Ɏc����Ă��܂�����A���̂悤�Ȃ��b���ǂ����ɂ��邩������Ȃ��ł��˂��B<br>
-����ȂƂ���ɂ�����Ƃ������A�����������Ă݂��肵�āB<br>
-���̔߂����������Ȃ��Ȃ��悩�����ł��B<br>
+<font size=3 color=#606060>おお、これはまた。<br>
+水にまつわる伝承というのは結構各地に残されていますから、このようなお話もどこかにあるかもしれないですねぇ。<br>
+そんなところにちょっとしたリアルさを感じてみたりして。<br>
+もの悲しい結末もなかなかよかったです。<br>
 <br>
-�������A�s���N�F�́i�؂́j�l�����āAe-kara�����ĉ̂��o�������ȋC������̂ł����i���j�B���łɐ��F��΁A���Ȃ񂩂�������Ƃ��i�j���j�B<br>
+しかし、ピンク色の（鱗の）人魚って、e-kara持って歌い出しそうな気がするのですが（爆）。ついでに水色や緑、紫なんかもいたりとか（核爆）。<br>
 <br>
-<font color="#ff88cc">������8426����A���̃����[�͂�����ƕς���Ă��܂��̂ŁA����́A�˘f���邩���E�E�E</font><br>
-���̂Ƃ���A�����[�Ƃ������̓I���j�o�X�Ƃ��������ł��ˁB�ł��A���ꂪ�ŏI�I�ɂ͏W�񂳂�Ă�����ł���ˁH</font>
+<font color="#ff88cc">＞ｍｋ8426さん、このリレーはちょっと変わっていますので、次回は、戸惑われるかも・・・</font><br>
+今のところ、リレーというよりはオムニバスという感じですね。でも、これが最終的には集約されていくんですよね？</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -321,74 +321,74 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[145]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[145]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/24 (�y) 21:39:51 <strong>��</strong> <a href="mailto:gensan@k8.dion.ne.jp">��iNo.115���߁A酉J</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401246213951&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401246213951"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/24 (土) 21:39:51 <strong>▽</strong> <a href="mailto:gensan@k8.dion.ne.jp">作品No.115改め、驟雨</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401246213951_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401246213951"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ȑO�̂g�m�͍r�炳����肾��������<br>
-酉J�ɕς��܂����B<br>
-�܂��ꌾ�B�������������܂����B<br>
-�v���Ă����W�J�Ƃ͑S���ʂ�<br>
-���Ȃ�\���o���Ȃ������ɘb���i��łт�����ł��B<br>
-���J�͍Ō�l���ɂȂ��đ����~���čK���������Ǝv���܂��B<br>
-�ዛ�����т����Ɗ�����Ǝv�����ǌ��J�Ɋ��ӂ����Ȃ��Ⴂ���Ȃ���<br>
-���G�ł��ˁB��ς������낭�A�����I�ł����B<br>
-��������ꂳ�܂ł��B������撣���Ă��������I�I</font>
+<font size=3 color=#606060>以前のＨＮは荒らされ放題だったため<br>
+驟雨に変えました。<br>
+まず一言。そごく感動しました。<br>
+思っていた展開とは全く別で<br>
+かなり予測出来ない方向に話が進んでびっくりです。<br>
+結雨は最後人魚になって村を救って幸せだったと思います。<br>
+若魚もさびしいと感じると思うけど結雨に感謝をしなきゃいけないし<br>
+複雑ですね。大変おもしろく、感動的でした。<br>
+長文お疲れさまです。今後も頑張ってください！！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[144]</font> <font size=4 color=#40c0c0> �w�����Ȃ���� - ���́w�l���̗܁x�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[144]</font> <font size=4 color=#40c0c0> 『小さなお守り - 第二章『人魚の涙』』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/24 (�y) 21:09:50 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401246210950&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401246210950"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/24 (土) 21:09:50 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401246210950_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401246210950"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �́X�̘̐b�B����̏��ׂŒ����΂͔j�󂳂�悤�Ƃ��Ă����B�����A�����Ŕj������@���A������������B<br>
+<font size=3 color=#606060>【推薦文】 昔々の昔話。悪霊の所為で貯水湖は破壊されようとしていた。だが、それを打破する方法が、一つだけあった。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200305/04184146/relay2.html target=_top>http://ts.novels.jp/novel/200305/04184146/relay2.html</a></font>
+<a href="../../novel/200305/04184146/relay2.html" target=_top>http://ts.novels.jp/novel/200305/04184146/relay2.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[143]</font> <font size=4 color=#40c0c0> ����̓r�b�N���I</font>
+<font size=2>[143]</font> <font size=4 color=#40c0c0> これはビックリ！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/18 (��) 21:42:54 <strong>��</strong> �v�Ă̘Z�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401180214254&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401180214254"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/18 (日) 21:42:54 <strong>▽</strong> 思案の六ぽ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401180214254_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401180214254"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����������āA�Q������]�����o�����Ă��ł��ˁB�������A���������͂��ď��̎q����������������m��Ȃ��B�������A�݂��̑�����v�������ȐS�����]���̈������ɂȂ�Ȃ�āA�������܂��ˁB<br>
-�@���̎���w�i���A�Ȃ��Ȃ��̋��������ł��傤�B���������ł���Ƃ����łB<br>
-�������A�������ʂłȂ��A���̎���͉��ʃ��C�_�[��e��ϐg�q�[���[���S�����ł������B</font>
+<font size=3 color=#606060>たけちゃんって、２回も性転換を経験してるんですね。しかし、けいちゃんはかつて女の子だったたけちゃんを知らない。しかも、互いの相手を思う純粋な心が性転換の引き金になるなんて、泣かせますね。<br>
+　この時代背景も、なかなかの泣かせ所でしょう。私も共感できるところ大でつ。<br>
+ただし、月光仮面でなく、私の時代は仮面ライダーや各種変身ヒーロー物全盛期でしたが。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[142]</font> <font size=4 color=#40c0c0> �ǂ�ł��������āA����܂�����B</font>
+<font size=2>[142]</font> <font size=4 color=#40c0c0> 読んでいただいて、すんまっせん。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/18 (��) 20:55:55 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401180205555&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401180205555"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/18 (日) 20:55:55 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401180205555_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401180205555"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�킽���̐��܂ꂽ����𕑑�ɂ����Ă��������܂����B������������Ȏ���ł����B<br>
+<font size=3 color=#606060>わたしの生まれた時代を舞台にさせていただきました。だいたいこんな時代でした。<br>
 <br>
-<font color="#cc88ff">&gt; �Ƃ���ŁA���̃G�s���[�O�́E�E�E�H<br>
-&gt; �p���������[���h�A�Ƃ����킯�ł͂Ȃ������Ȃ�ł����A����͂��������āu�����j�����v�Ƃ������ƂȂ�ł��傤���H</font><br>
-�����ł��B���m�ɂ́A���̃I�n�i�V�͂�������n�܂��Ă���̂ł��B�i�܂��A�I�}�P�Ƃ������ƂŋC�y�ɓǂ�ł��������j<br>
+<font color="#cc88ff">&gt; ところで、このエピローグは・・・？<br>
+&gt; パラレルワールド、というわけではなさそうなんですが、これはもしかして「女→男→女」ということなんでしょうか？</font><br>
+そうです。正確には、このオハナシはここから始まっているのです。（まあ、オマケということで気楽に読んでください）<br>
 <br>
-����8426����A���̃����[�͂�����ƕς���Ă��܂��̂ŁA����́A�˘f���邩���E�E�E</font>
+ｍｋ8426さん、このリレーはちょっと変わっていますので、次回は、戸惑われるかも・・・</font>
 <p><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a>
 </td></table>
 </td></tr></table>
@@ -396,20 +396,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[141]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[141]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/18 (��) 20:19:09 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401180201909&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401180201909"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/18 (日) 20:19:09 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401180201909_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401180201909"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ӂށB���a30�N��ł����B�Ȃ��Ȃ����������ŃX�g�[���[���i�s���Ă܂��˂��B<br>
-�i�Ƃ͂������^�N�V�����΂ɂ܂����܂�Ă��Ȃ��̂ŁA�u���������v�ȂǂƂ͌����Ȃ���ł����ǂˁj<br>
-�����A�����ɂ܂��X�g�[���[�������o���܂����B�u�������v�͂��ꂩ��ǂ��Ȃ��Ă��܂��̂ł��傤�H<br>
+<font size=3 color=#606060>ふむ。昭和30年代ですか。なかなかいい感じでストーリーが進行してますねぇ。<br>
+（とはいえワタクシも流石にまだ生まれていないので、「懐かしい」などとは言えないんですけどね）<br>
+さあ、お守りにまつわるストーリーが動き出しました。「武ちゃん」はこれからどうなってしまうのでしょう？<br>
 <br>
-�Ƃ���ŁA���̃G�s���[�O�́E�E�E�H<br>
-�p���������[���h�A�Ƃ����킯�ł͂Ȃ������Ȃ�ł����A����͂��������āu�����j�����v�Ƃ������ƂȂ�ł��傤���H<br>
-�܁A������ɂ��Ă����҂��y���݂ł��ˁB</font>
+ところで、このエピローグは・・・？<br>
+パラレルワールド、というわけではなさそうなんですが、これはもしかして「女→男→女」ということなんでしょうか？<br>
+ま、いずれにしても続編が楽しみですね。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -417,16 +417,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[140]</font> <font size=4 color=#40c0c0> �w�����Ȃ���� - ���́w�c�����̑z���ł́c�c�x�x��ǂނɂ͂����̃����N���N���b�N</font>
+<font size=2>[140]</font> <font size=4 color=#40c0c0> 『小さなお守り - 第一章『幼き日の想いでは……』』を読むにはしたのリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/18 (��) 19:06:01 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401180190601&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401180190601"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/18 (日) 19:06:01 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401180190601_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401180190601"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �����Ȏq���͖��׋C�ŁA�[���l���������܂���B<br>
+<font size=3 color=#606060>【推薦文】 小さな子供は無邪気で、深い考えを持ちません。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200305/04184146/relay1.html target=_top>http://ts.novels.jp/novel/200305/04184146/relay1.html</a><br>
+<a href="../../novel/200305/04184146/relay1.html" target=_top>http://ts.novels.jp/novel/200305/04184146/relay1.html</a><br>
 </font>
 </td></table>
 </td></tr></table>
@@ -434,41 +434,41 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[139]</font> <font size=4 color=#40c0c0> �ǂ܂��Ē����܂����B</font>
+<font size=2>[139]</font> <font size=4 color=#40c0c0> 読ませて頂きました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/11 (��) 23:41:04 <strong>��</strong> �p���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401110234104&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401110234104"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/11 (日) 23:41:04 <strong>▽</strong> 角さん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401110234104_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401110234104"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ƃ��Ƃ��n�܂�܂����ˁB<br>
-�������o�g���ɁA�J��L���郊���[�����B<br>
-����́A���̕���̓y��ɂȂ镔���ł��ˁB<br>
-���j����y�n�𕑑�ɁA�ǂ�Ȃ��b�����J��L�����邩�y���݂ł��B<br>
+<font size=3 color=#606060>とうとう始まりましたね。<br>
+お守りをバトンに、繰り広げるリレー小説。<br>
+今回は、その舞台の土台になる部分ですね。<br>
+歴史ある土地を舞台に、どんなお話しが繰り広げられるか楽しみです。<br>
 <br>
-�v�����[�O�̓�l�̏����̊֌W�����\�C�ɂȂ�܂���<br>
-�h�L�h�L�ł�����B<br>
-��l�̊|�����������ɐ̘b������āA����Ȃ���j�����ݍ��߂܂����B<br>
+プロローグの二人の女性の関係も結構気になりますね<br>
+ドキドキでしたよ。<br>
+二人の掛け合いを軸に昔話がされて、すんなり歴史を飲み込めました。<br>
 <br>
-�ł́A����{�҂��y���݂ɂ��Ă��܂��B</font>
+では、次回本編も楽しみにしています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[138]</font> <font size=4 color=#40c0c0> �n�܂�܂���</font>
+<font size=2>[138]</font> <font size=4 color=#40c0c0> 始まりました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/11 (��) 09:12:32 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401110091232&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401110091232"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/11 (日) 09:12:32 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401110091232_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200401110091232"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�Ă̘Z�ۂ���A����8426����B���ǂ݂����������肪�Ƃ��������܂��B<br>
-�Ȃ񂾂��A����l�̊��҂��傫�����āA���ӔC�҂Ƃ��ẮE�E�E���߂�Ȃ����B<br>
-�ʔ����͕̂ۏႵ�܂����A���҂ɉ����邩�ǂ����B<br>
-���͂悵�����܂ŁA�^���A�܎^�́A�X�^�b�t�A�Q����Ƃ̊F�l�A���ɉ^�c�ψ��̕��X�ɂ��肢���܂��B<br>
-���T�́A�킽�����E�E�E�E���`�`�`��|����I�I�I<br>
+<font size=3 color=#606060>思案の六ぽさん、ｍｋ8426さん。お読みいただきありがとうございます。<br>
+なんだか、お二人の期待が大きすぎて、企画責任者としては・・・ごめんなさい。<br>
+面白いのは保障しますが、期待に沿えるかどうか。<br>
+苦情はよしおかまで、賛美、賞賛は、スタッフ、参加作家の皆様、文庫運営委員の方々にお願いします。<br>
+来週は、わたしか・・・ウワ〜〜〜ん怖いよ！！！<br>
 </font>
 <p><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a>
 </td></table>
@@ -476,7 +476,7 @@ link<input type=checkbox name="link" value="1" checked>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="21">
 <input type=hidden name="log" value="relay_novel">
@@ -484,16 +484,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="relay_novel">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=relay_novel">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_relay_novel.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

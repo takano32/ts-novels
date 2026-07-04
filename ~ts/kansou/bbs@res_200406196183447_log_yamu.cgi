@@ -1,57 +1,57 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�閲�����i�@���z�f����</title>
+<title>夜夢さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�閲�����i�@���z�f����</font>
+<font size=5>夜夢さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yamu">
 <input type=hidden name="nj" value="i9UoKXdrEg">
 <input type=hidden name="res" value="231">
-<h4 align=center>�� �L���ԍ� 231 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 231 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�����z���肪�Ƃ��������܂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �閲����
-&gt; �Ђ̂ЂƗl�Amk8426�l�A�����̂����z���肪�Ƃ��������܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ご感想ありがとうございます"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 夜夢さん
+&gt; ひのひと様、mk8426様、早速のご感想ありがとうございます。
 &gt; 
-&gt; &gt;�ԊO�c�c�ԊO�����炠�̐l�X�̖��O���o�Ă����̂ł��傤���B����Ȃ��Ƃ��l���Ȃ�����A�ǂ����������҂��Ă��܂��̂ł��B
-&gt; �ꉞ�A�����ƔԊO���ґ��e�́A�C�[�i���d�҂Ȃ̂ł����c�c
-&gt; ��{�I�ɂ��̘b���I����Ĕ��N����̂��b�ƌ������Ԑݒ�ɂ��Ă���܂��B
-&gt; ���ׁ̈A�~�X�g���X�n�E�X�ɔޏ��B������o���Ă���͓̂��R�Ȃ̂ł����c�c�b�ɂ̓o���o������ł����\��ł��B
+&gt; &gt;番外……番外だからあの人々の名前も出てきたのでしょうか。そんなことを考えながらも、どうもついつい期待してしまうのです。
+&gt; 一応、言うと番外長編第一弾は、イーナ封妖編なのですが……
+&gt; 基本的にあの話が終わって半年程後のお話と言う時間設定にしてあります。
+&gt; その為、ミストレスハウスに彼女達が顔を出しているのは当然なのですが……話にはバリバリ絡んでいく予定です。
 &gt; 
-&gt; �������A�h�N�g����那��i���j
-&gt; ���Ƃ������A���g����̑������ł����ȁi�΁j�B
-&gt; ����ɂ́A���Ǝ������܂��B�����̂��b�Ŏ햾��������邱�Ƃł��傤�B�i���ɕz�΂͒u���Ă���܂����c�c�j
+&gt; ＞おお、ドクトルやるぅ♪（爆）
+&gt; ＞というか、情報拡がるの早すぎですがな（笑）。
+&gt; これには、ちと事情があります。続きのお話で種明かしされることでしょう。（既に布石は置いてありますし……）
 &gt; 
-&gt; &gt;�����͂܂����������΂���B�V���A�X�ɂȂ�̂��A�X���b�v�X�e�B�b�N�ɂȂ�̂��A���͂܂��킩��܂��񂯂ǁA�傫�ȑ����ɂȂ肻���ȗ\�������Ă��܂��B
-&gt; ������ɂ��Ă����ꂩ��ǂ������W�J��������̂����ɋC�ɂȂ�܂��ˁB
-&gt; ���d�҂��͊쌀�I�m���Ői�s������\��ł����A�R���f�B�[�Ə΂��Ă�����W�J�ɂȂ邩�͕s���c�c�i�o��\��̖ʁX���ʁX�Ȃ̂Łc�i�J�n�C�^�����q�j�j
-&gt; ��芸�����A�w�~�X�g���X�n�E�X�̖ʁX�x�i�C�[�i�B�܂ށj�̃o�b�N�A�b�v���󂯂����r�����Ɓu�~�X�g���X�E�O���C�v�̉������󂯂����r�����̂��F�l�B�i�g�B�h�ł��I�j�ɂ��s��ȃf�b�h�q�[�g���c�c�i�����܂ŗ\��ł��B�j
+&gt; &gt;事件はまだ発生したばかり。シリアスになるのか、スラップスティックになるのか、今はまだわかりませんけど、大きな騒動になりそうな予感もしています。
+&gt; ＞それにしてもこれからどういう展開を見せるのか非常に気になりますね。
+&gt; 封妖編よりは喜劇的ノリで進行させる予定ですが、コメディーと笑っていえる展開になるかは不明……（登場予定の面々が面々なので…（カハイタワラヒ））
+&gt; 取り敢えず、『ミストレスハウスの面々』（イーナ達含む）のバックアップを受けた沼池教授と「ミストレス・グレイ」の援助を受けた沼池教授のご友人達（“達”です！）による壮絶なデッドヒートが……（あくまで予定です。）
 &gt; 
-&gt; �Ƃ�����A������y���݂ɂ��Ē�����ƍK���ł��B���X���M���x���x�ꂪ���Ȃ̂ŁA���񂪉������o���邩���s�����ł��B�C���ɑ҂��Ē�����Ƃ��肪�����ł��B
+&gt; ともあれ、次回を楽しみにして頂けると幸いです。少々執筆速度が遅れがちなので、次回が何時頃出来るかが不透明です。気長に待って頂けるとありがたいです。
 &gt; 
-&gt; �Ō�Ɂc�c�~�X�g���X�E�L���N�ƃ~�X�g���X�E�O���C�̌��������ɑ΂��ĒN���˂�����ł���Ȃ������̂͏����₵���C�����鏑����̐S���ł���܂����B�i��΁j
-&gt; �i����ɂ́A�ޏ��B�̎��N�c�i�s�ӂ̍U���j�c�O�n�b!!�c�c�c�j</textarea><br>
+&gt; 最後に……ミストレス・キリクとミストレス・グレイの言い合いに対して誰も突っ込んでくれなかったのは少し寂しい気がする書き手の心境でありました。（苦笑）
+&gt; （あれには、彼女達の実年…（不意の攻撃）…グハッ!!………）</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -64,57 +64,57 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[236]</font> <font size=4 color=#40c0c0> ���ǂݒ������肪�Ƃ��������܂�</font>
+<font size=2>[236]</font> <font size=4 color=#40c0c0> お読み頂きありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/02 (��) 23:19:00 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408021231900&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408021231900"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/02 (月) 23:19:00 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408021231900_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200408021231900"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�[�b�g�l�Amk8426�l�A�����̊��z���肪�Ƃ��������܂��B<br>
-���ATS�L���m���{�[���ɎQ�����Ă���܂��āA���č���ł���܂����E�E�E<br>
+<font size=3 color=#606060>ゼット様、mk8426様、早速の感想ありがとうございます。<br>
+今、TSキャノンボールに参加しておりまして、立て込んでおりました・・・<br>
 <br>
-<font color="#cc88ff">&gt;�ǎ҂Ƃ��ēǂ܂Ȃ��ŁA�����׋����Ȃ���ǂ�ł��܂���(�O�O�G<br>
-&gt;�Ȃ�ƌ������閲����͋ɂ߂Ă܂��ˁH</font><br>
-�E�E�E����Ȃ��ƌ����܂��Ă��E�E�E�����C�s���̐g�̏�ł�����E�E�E�i�Ɓj<br>
+<font color="#cc88ff">&gt;読者として読まないで、小説勉強しながら読んでしまった(＾＾；<br>
+&gt;なんと言うか夜夢さんは極めてますね？</font><br>
+・・・そんなこと言われましても・・・私も修行中の身の上ですから・・・（照）<br>
 <br>
-<font color="#cc88ff">&gt;���[�񂱂��̐l�B�̓z���g�����낢�ł��ȁ`�G�G</font><br>
-����͓��ӂł��B���Ȃ񂼂��I�����������āA�������S���y����ł���܂��B<br>
+<font color="#cc88ff">&gt;うーんここの人達はホント粒ぞろいですな〜；；</font><br>
+それは同意です。私なんぞより巧い方が多くて、私も感心しつつ楽しんでおります。<br>
 <br>
-<font color="#ff88cc">�����Ƃ����ɂ�����܂������A��ǂ���΂��̐��E�̗��j���킩��悤�ɂȂ��Ă܂��˂��B<br>
-�����k���������������E�̈ڂ�ς�肪���ɋ����[���ł��˂��B<br>
-���ǂ������ł��B</font><br>
-�E�E�E�O�`1�́u�|�n�́`�v�ƕ����ēǂނƑ�̗̂��j�̗��ꂪ���@�ł���悤�ɍ��������ł�����E�E�E<br>
+<font color="#ff88cc">＞あとがきにもありましたが、一読すればこの世界の歴史がわかるようになってますねぇ。<br>
+＞お婆が生き抜いた世界の移り変わりが非常に興味深いですねぇ。<br>
+＞良かったです。</font><br>
+・・・外伝1の「鋼馬の〜」と併せて読むと大体の歴史の流れが推察できるように作ったつもりですから・・・<br>
 <br>
-<font color="#ff88cc">������܂����������ł��Ȃ��B����Ϗ��̂ɈڐA�i������ƈႤ���j�͖G���܂��ȁB<br>
-�����̌Z���͍����������炩���Ă��ꂻ���Ȃ̂Ŋy���݂ł��i���j�B</font><br>
-�E�E�E���̓l�^�͏��X����̂ł����A���������邱�ƂɂȂ�܂����E�E�E<br>
-�E�E�E������A������ɂ����\�ł���Ɨǂ��̂ł����E�E�E<br>
+<font color="#ff88cc">＞これまたええ感じですなぁ。やっぱ女体に移植（ちょっと違うが）は萌えますな。<br>
+＞この兄妹は今後も何かやらかしてくれそうなので楽しみです（爆）。</font><br>
+・・・実はネタは少々あるのですが、何時書けることになりますか・・・<br>
+・・・いずれ、こちらにも発表できると良いのですが・・・<br>
 <br>
-�@���Ȃ݂ɁA���̗���i�E�E�E�������Ă���������邱�ƋC�t���Ē����܂����H</font>
+　ちなみに、この両作品・・・競演している方がいること気付いて頂けました？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[235]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��~�Q</font>
+<font size=2>[235]</font> <font size=4 color=#40c0c0> 読んだバイ♪×２</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/31 (�y) 23:57:46 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407316235746&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407316235746"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/31 (土) 23:57:46 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407316235746_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200407316235746"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��C�ɓǂ�ł��܂��܂����B<br>
+<font size=3 color=#606060>一気に読んでしまいました。<br>
 <br>
-�u�e�̋R�m�@�O�`�Q�v<br>
-���Ƃ����ɂ�����܂������A��ǂ���΂��̐��E�̗��j���킩��悤�ɂȂ��Ă܂��˂��B<br>
-���k���������������E�̈ڂ�ς�肪���ɋ����[���ł��˂��B<br>
-�ǂ������ł��B<br>
+「影の騎士　外伝２」<br>
+あとがきにもありましたが、一読すればこの世界の歴史がわかるようになってますねぇ。<br>
+お婆が生き抜いた世界の移り変わりが非常に興味深いですねぇ。<br>
+良かったです。<br>
 <br>
-�u���@���[�[���Ƒ����L�v<br>
-����܂����������ł��Ȃ��B����Ϗ��̂ɈڐA�i������ƈႤ���j�͖G���܂��ȁB<br>
-���̌Z���͍����������炩���Ă��ꂻ���Ȃ̂Ŋy���݂ł��i���j�B</font>
+「ヴァンゼール家騒動記」<br>
+これまたええ感じですなぁ。やっぱ女体に移植（ちょっと違うが）は萌えますな。<br>
+この兄妹は今後も何かやらかしてくれそうなので楽しみです（爆）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -122,97 +122,97 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[234]</font> <font size=4 color=#40c0c0> �E�E�E��肢�I</font>
+<font size=2>[234]</font> <font size=4 color=#40c0c0> ・・・上手い！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/31 (�y) 07:26:23 <strong>��</strong> �[�b�g </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407316072623&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407316072623"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/31 (土) 07:26:23 <strong>▽</strong> ゼット </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407316072623_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200407316072623"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǎ҂Ƃ��ēǂ܂Ȃ��ŁA�����׋����Ȃ���ǂ�ł��܂���(�O�O�G<br>
-�Ȃ�ƌ������閲����͋ɂ߂Ă܂��ˁH<br>
-���[�񂱂��̐l�B�̓z���g�����낢�ł��ȁ`�G�G</font>
+<font size=3 color=#606060>読者として読まないで、小説勉強しながら読んでしまった(＾＾；<br>
+なんと言うか夜夢さんは極めてますね？<br>
+うーんここの人達はホント粒ぞろいですな〜；；</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[233]</font> <font size=4 color=#40c0c0> �w���@���[�[�������L�x������ɂ͉��̃A�h���X���N���b�N�B</font>
+<font size=2>[233]</font> <font size=4 color=#40c0c0> 『ヴァンゼール騒動記』を見るには下のアドレスをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/30 (��) 23:16:54 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407305231654&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407305231654"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/30 (金) 23:16:54 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407305231654_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200407305231654"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�L�[�{�[�h�ɂ������ڂ��Ă��A�g�c���������Ȃ�c�c���āA��������Ȃ����I�i�΁j<br>
-<a href=http://ts.novels.jp/novel/novel/rainbow/ruark.htm target=_top>http://ts.novels.jp/novel/novel/rainbow/ruark.htm</a></font>
+<font size=3 color=#606060>【推薦文】キーボードにお茶こぼしても、ＨＤさえ無事なら……って、そうぢゃないっ！（笑）<br>
+<a href="../../novel/novel/rainbow/ruark.htm" target=_top>http://ts.novels.jp/novel/novel/rainbow/ruark.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[232]</font> <font size=4 color=#40c0c0> �w�e�̋R�m�O�`�g�V�k�̌��閲�h�x������ɂ͉��̃A�h���X���N���b�N�B</font>
+<font size=2>[232]</font> <font size=4 color=#40c0c0> 『影の騎士外伝“老婆の見る夢”』を見るには下のアドレスをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/30 (��) 23:09:17 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407305230917&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407305230917"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/30 (金) 23:09:17 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407305230917_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200407305230917"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�e�̋R�m�V�F�A�i�𓱂����g���؂̂��k�h��ʂ��Č����Ă���A�A�e�B�X�嗤�̗��j�B������@�ɁA���ǂ̕��͖{�҂��ǂ�ł݂Ă��������B<br>
-<a href=http://ts.novels.jp/novel/200112/18123055/shadow-ex2.htm target=_top>http://ts.novels.jp/novel/200112/18123055/shadow-ex2.htm</a></font>
+<font size=3 color=#606060>【推薦文】影の騎士シェアナを導いた“黒鱗のお婆”を通して見えてくる、アティス大陸の歴史。これを機に、未読の方は本編も読んでみてください。<br>
+<a href="../../novel/200112/18123055/shadow-ex2.htm" target=_top>http://ts.novels.jp/novel/200112/18123055/shadow-ex2.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[231]</font> <font size=4 color=#40c0c0> �����z���肪�Ƃ��������܂�</font>
+<font size=2>[231]</font> <font size=4 color=#40c0c0> ご感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/19 (�y) 18:34:47 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406196183447&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406196183447"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/19 (土) 18:34:47 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406196183447_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200406196183447"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ђ̂ЂƗl�Amk8426�l�A�����̂����z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>ひのひと様、mk8426様、早速のご感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�ԊO�c�c�ԊO�����炠�̐l�X�̖��O���o�Ă����̂ł��傤���B����Ȃ��Ƃ��l���Ȃ�����A�ǂ����������҂��Ă��܂��̂ł��B</font><br>
-�ꉞ�A�����ƔԊO���ґ��e�́A�C�[�i���d�҂Ȃ̂ł����c�c<br>
-��{�I�ɂ��̘b���I����Ĕ��N����̂��b�ƌ������Ԑݒ�ɂ��Ă���܂��B<br>
-���ׁ̈A�~�X�g���X�n�E�X�ɔޏ��B������o���Ă���͓̂��R�Ȃ̂ł����c�c�b�ɂ̓o���o������ł����\��ł��B<br>
+<font color="#cc88ff">&gt;番外……番外だからあの人々の名前も出てきたのでしょうか。そんなことを考えながらも、どうもついつい期待してしまうのです。</font><br>
+一応、言うと番外長編第一弾は、イーナ封妖編なのですが……<br>
+基本的にあの話が終わって半年程後のお話と言う時間設定にしてあります。<br>
+その為、ミストレスハウスに彼女達が顔を出しているのは当然なのですが……話にはバリバリ絡んでいく予定です。<br>
 <br>
-<font color="#ff88cc">�������A�h�N�g����那��i���j<br>
-���Ƃ������A���g����̑������ł����ȁi�΁j�B</font><br>
-����ɂ́A���Ǝ������܂��B�����̂��b�Ŏ햾��������邱�Ƃł��傤�B�i���ɕz�΂͒u���Ă���܂����c�c�j<br>
+<font color="#ff88cc">＞おお、ドクトルやるぅ♪（爆）<br>
+＞というか、情報拡がるの早すぎですがな（笑）。</font><br>
+これには、ちと事情があります。続きのお話で種明かしされることでしょう。（既に布石は置いてありますし……）<br>
 <br>
-<font color="#cc88ff">&gt;�����͂܂����������΂���B�V���A�X�ɂȂ�̂��A�X���b�v�X�e�B�b�N�ɂȂ�̂��A���͂܂��킩��܂��񂯂ǁA�傫�ȑ����ɂȂ肻���ȗ\�������Ă��܂��B</font><br>
-<font color="#ff88cc">������ɂ��Ă����ꂩ��ǂ������W�J��������̂����ɋC�ɂȂ�܂��ˁB</font><br>
-���d�҂��͊쌀�I�m���Ői�s������\��ł����A�R���f�B�[�Ə΂��Ă�����W�J�ɂȂ邩�͕s���c�c�i�o��\��̖ʁX���ʁX�Ȃ̂Łc�i�J�n�C�^�����q�j�j<br>
-��芸�����A�w�~�X�g���X�n�E�X�̖ʁX�x�i�C�[�i�B�܂ށj�̃o�b�N�A�b�v���󂯂����r�����Ɓu�~�X�g���X�E�O���C�v�̉������󂯂����r�����̂��F�l�B�i�g�B�h�ł��I�j�ɂ��s��ȃf�b�h�q�[�g���c�c�i�����܂ŗ\��ł��B�j<br>
+<font color="#cc88ff">&gt;事件はまだ発生したばかり。シリアスになるのか、スラップスティックになるのか、今はまだわかりませんけど、大きな騒動になりそうな予感もしています。</font><br>
+<font color="#ff88cc">＞それにしてもこれからどういう展開を見せるのか非常に気になりますね。</font><br>
+封妖編よりは喜劇的ノリで進行させる予定ですが、コメディーと笑っていえる展開になるかは不明……（登場予定の面々が面々なので…（カハイタワラヒ））<br>
+取り敢えず、『ミストレスハウスの面々』（イーナ達含む）のバックアップを受けた沼池教授と「ミストレス・グレイ」の援助を受けた沼池教授のご友人達（“達”です！）による壮絶なデッドヒートが……（あくまで予定です。）<br>
 <br>
-�Ƃ�����A������y���݂ɂ��Ē�����ƍK���ł��B���X���M���x���x�ꂪ���Ȃ̂ŁA���񂪉������o���邩���s�����ł��B�C���ɑ҂��Ē�����Ƃ��肪�����ł��B<br>
+ともあれ、次回を楽しみにして頂けると幸いです。少々執筆速度が遅れがちなので、次回が何時頃出来るかが不透明です。気長に待って頂けるとありがたいです。<br>
 <br>
-�Ō�Ɂc�c�~�X�g���X�E�L���N�ƃ~�X�g���X�E�O���C�̌��������ɑ΂��ĒN���˂�����ł���Ȃ������̂͏����₵���C�����鏑����̐S���ł���܂����B�i��΁j<br>
-�i����ɂ́A�ޏ��B�̎��N�c�i�s�ӂ̍U���j�c�O�n�b!!�c�c�c�j</font>
+最後に……ミストレス・キリクとミストレス・グレイの言い合いに対して誰も突っ込んでくれなかったのは少し寂しい気がする書き手の心境でありました。（苦笑）<br>
+（あれには、彼女達の実年…（不意の攻撃）…グハッ!!………）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[230]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[230]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/16 (��) 17:17:47 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���^��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406163171747&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406163171747"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/16 (水) 17:17:47 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠某所</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406163171747_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200406163171747"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�h�N�g����那��i���j<br>
-�Ƃ������A���g����̑������ł����ȁi�΁j�B<br>
+<font size=3 color=#606060>おお、ドクトルやるぅ♪（爆）<br>
+というか、情報拡がるの早すぎですがな（笑）。<br>
 <br>
-����ɂ��Ă����ꂩ��ǂ������W�J��������̂����ɋC�ɂȂ�܂��ˁB<br>
-���҂����҂��Ă��܂���</font>
+それにしてもこれからどういう展開を見せるのか非常に気になりますね。<br>
+続編を期待しています♪</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -220,63 +220,63 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[229]</font> <font size=4 color=#40c0c0> �ԊO���҂ł���</font>
+<font size=2>[229]</font> <font size=4 color=#40c0c0> 番外長編ですか</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/15 (��) 21:10:23 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406152211023&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406152211023"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/15 (火) 21:10:23 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406152211023_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200406152211023"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ԊO�c�c�ԊO�����炠�̐l�X�̖��O���o�Ă����̂ł��傤���B����Ȃ��Ƃ��l���Ȃ�����A�ǂ����������҂��Ă��܂��̂ł��B<br>
-�����͂܂����������΂���B�V���A�X�ɂȂ�̂��A�X���b�v�X�e�B�b�N�ɂȂ�̂��A���͂܂��킩��܂��񂯂ǁA�傫�ȑ����ɂȂ肻���ȗ\�������Ă��܂��B<br>
-�����̓o�ꂪ�y���݂ł���������܂���B</font>
+<font size=3 color=#606060>番外……番外だからあの人々の名前も出てきたのでしょうか。そんなことを考えながらも、どうもついつい期待してしまうのです。<br>
+事件はまだ発生したばかり。シリアスになるのか、スラップスティックになるのか、今はまだわかりませんけど、大きな騒動になりそうな予感もしています。<br>
+続きの登場が楽しみでしかたありません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[228]</font> <font size=4 color=#40c0c0> �w����!?���r�����̐����@���҂̐΁i�H�j���D�ґ��b�x��ǂނɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[228]</font> <font size=4 color=#40c0c0> 『狂才!?沼池教授の生活　賢者の石（？）争奪編第一話』を読むには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/15 (��) 18:12:25 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406152181225&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406152181225"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/15 (火) 18:12:25 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406152181225_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200406152181225"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z ���̌����́A���҂̐΁B�����_���Ă���l�����B���r�����̋��܂��ЂƂB<br>
+<font size=3 color=#606060>【推薦文】 幻の結晶体、賢者の石。それを狙ってくる人たち。沼池教授の苦難がまたひとつ。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200112/18123055/kenzya01.html target=_top>http://ts.novels.jp/novel/200112/18123055/kenzya01.html</a></font>
+<a href="../../novel/200112/18123055/kenzya01.html" target=_top>http://ts.novels.jp/novel/200112/18123055/kenzya01.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[227]</font> <font size=4 color=#40c0c0> �����z���肪�Ƃ��������܂��B</font>
+<font size=2>[227]</font> <font size=4 color=#40c0c0> ご感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/19 (��) 23:01:17 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405193230117&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405193230117"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/19 (水) 23:01:17 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405193230117_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200405193230117"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>mk8426�l�A�����z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>mk8426様、ご感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;����͂���́A���C�̂����q�ǂ��B�����Ɓi�΁j�B<br>
-&gt;�܂��A���C����Ԃƌ����Ă����܂����B</font><br>
-���C�c�ł����ǁA���C�߂�����Ċ����ł����ǂˁi�΁j<br>
+<font color="#cc88ff">&gt;これはこれは、元気のいい子ども達だこと（笑）。<br>
+&gt;まあ、元気が一番と言っておきますか。</font><br>
+元気…ですけど、元気過ぎるって感じですけどね（笑）<br>
 <br>
-<font color="#cc88ff">&gt;��������N���͂Ƃ΂�������󂯂܂����Ă���悤�ŁA���D���l�ł��Ƃ��������悤���Ȃ��ł��ˁB</font><br>
-�����ł��ˁc��̃t�H�����N�́A�����Ƃ���Ȃ���Ȗ����������󂯑����邱�ƂɂȂ�ł��傤�ˁi�J�n�C�^�����q�j<br>
+<font color="#cc88ff">&gt;しかし弟クンはとばっちりを受けまくっているようで、ご愁傷様ですとしか言いようがないですね。</font><br>
+そうですね…弟のフォルン君は、ずっとこんなそんな役回りを引き受け続けることになるでしょうね（カハイタワラヒ）<br>
 <br>
-<font color="#cc88ff">&gt;���̃V���[�Y�����ɃX�P�[�����ł����̂ŁA�ǂݎ�Ƃ��Ă͔��ɖʔ����ł��B<br>
-&gt;�܂����������ĉ������ˁB</font><br>
-�����e���A���E����́A����̔w�i���ꂪ����܂��̂Łc���̓��A���\�o���邩������܂���̂ŁA�C���ɑ҂��Ē�����ƍK���ł��B</font>
+<font color="#cc88ff">&gt;このシリーズも非常にスケールがでかいので、読み手としては非常に面白いです。<br>
+&gt;またいつか書いて下さいね。</font><br>
+メレテリア世界物語は、幾つかの背景物語がありますので…その内、発表出来るかもしれませんので、気長に待って頂けると幸いです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yamu">
@@ -284,16 +284,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yamu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yamu">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yamu.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

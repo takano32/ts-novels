@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���L�j�����i�A���z�f����</title>
+<title>黒猫男さん作品、感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���L�j�����i�A���z�f����</font>
+<font size=5>黒猫男さん作品、感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kuroneko_otoko">
 <input type=hidden name="nj" value="MPuUhsulq0">
 <input type=hidden name="res" value="16">
-<h4 align=center>�� �L���ԍ� 16 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 16 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�wDouble Cast -�����@��������- ��O�́x��ǂނɂ͉��̃����N���N���b�N"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z ���҂͑傫�ȊԈႢ��Ƃ����I�@�Ȃ�ƁI�@�薼�������Ⴆ���̂��I
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『Double Cast -半魔法少女物語- 第三章』を読むには下のリンクをクリック"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】 著者は大きな間違いを犯した！　なんと！　題名を書き違えたのだ！
 &gt; 
 &gt; http://ts.novels.jp/novel/200211/18204509/double3.html</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,36 +47,36 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> ���̂܂ɁI</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> いつのまに！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/27 (��) 02:33:21 <strong>��</strong> <a href="mailto:haruto11@hotmail.com">���L�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302274023321&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302274023321"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/27 (木) 02:33:21 <strong>▽</strong> <a href="mailto:haruto11@hotmail.com">黒猫男</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302274023321_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302274023321"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���z���肪�Ƃ��������܂�<br>
-���낢�낲�w�E�����������܂����B<br>
-<font color="#ff88cc">���r�n�q�`����<br>
-���Ώە����C���ɒ���ł��ĊC�ʂɗ��������ꍇ�A�C��(�t��)�Ŋg�U���Ă��܂��ċt�ɈЗ͎͂�܂�̂ł�?</font><br>
-���[�A�d�C�Ȃ̐l�Ԃ̕Ȃɓd�C�����Ȃ��̂Łi�Ӗ��s���j<br>
-����������ƍl���ď����΂悩������������Ȃ��ł��Bm(__)m<br>
-���Ȃ�A�m�b�s���ł����B<br>
+<font size=3 color=#606060>感想ありがとうございます<br>
+いろいろご指摘をいただきました。<br>
+<font color="#ff88cc">＞ＳＯＲＡさん<br>
+＞対象物が海中に沈んでいて海面に落雷した場合、海面(付近)で拡散してしまって逆に威力は弱まるのでは?</font><br>
+えー、電気科の人間の癖に電気が苦手なもので（意味不明）<br>
+もうちょっと考えて書けばよかったかもしれないです。m(__)m<br>
+かなり、知恵不足でした。<br>
 <br>
-<font color="#ff88cc">���薼���ԈႦ���B</font><br>
-���ł���E�E�E<br>
-�Ȃ����ԈႦ�Ă��܂��܂�����<br>
+<font color="#ff88cc">＞題名を間違えた。</font><br>
+何でだろ・・・<br>
+なぜか間違えてしまいましたｗ<br>
 <br>
-<font color="#ff88cc">���G�ߊO��</font><br>
-���v�ł��I<br>
-���͂��킹�Č����܂��i��<br>
+<font color="#ff88cc">＞季節外れ</font><br>
+大丈夫です！<br>
+次はあわせて見せます（ぇ<br>
 <br>
 <br>
-���[���ƁA�������t�x�݂ɓ���_���[���Ƃ��������ł���<br>
-�������Ƒ��҂�i�߂Ă��܂��B<br>
-���x������A�Ȃ���ڎw���āI<br>
-��A���l�̖��O��ԏサ�Ă݂��܂���<br>
-���e�������������B�ŏ��l���Ă������e�ƌ��\����Ă��Ă���C������̂ŁB<br>
-�ł�A���ꂩ�����낵�����˂����������܂��B<br>
+えーっと、早くも春休みに入りダラーっとした毎日ですが<br>
+ゆっくりと続編を進めています。<br>
+今度こそ誤植なしを目指して！<br>
+誤植魔人の名前を返上してみせますｗ<br>
+内容も少し見直し。最初考えていた内容と結構ずれてきている気がするので。<br>
+でわ、これからもよろしくおねがいいたします。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -84,39 +84,39 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> 3�͓ǂ񂾂�</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> 3章読んだよ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/27 (��) 02:16:00 <strong>��</strong> �ׂ��Ă� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302274021600&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302274021600"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/27 (木) 02:16:00 <strong>▽</strong> べすてけ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302274021600_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302274021600"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���₟�A�����Ԃ�G�ߊO�ꂾ�B�܂��A�������ǂˁB<br>
-���C�o���̓o��A���񑩂��ˁB���������N����H<br>
+<font size=3 color=#606060>いやぁ、ずいぶん季節外れだ。まあ、いいけどね。<br>
+ライバルの登場、お約束だね。いったい誰だろ？<br>
 <br>
-��������炸��A��������B�ڗ��������̂�<br>
-�]�Z���V��@����C�@�y�с����Ăс@�Ȃǂ��ȁB<br>
-����ƁA���Ԃ̕\�L���A�ꎞ�E11���Ɛ��������ꂳ�ꂸ��<br>
-�g���Ă���̂́A������Â炢�Ǝv���B<br>
+あいかわらず誤植が多いよ。目立ったものは<br>
+転校→天候　大会→大海　及び→お呼び　などかな。<br>
+それと、時間の表記が、一時・11時と数字が統一されずに<br>
+使われているのは、分かりづらいと思う。<br>
 <br>
-���͐��삪��΂��ĉ������B4�͊y���݂ɑ҂��Ă܂��B</font>
+文章制作がんばって下さい。4章楽しみに待ってます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> Re2:�C�������B</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> Re2:修正完了。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/23 (��) 17:14:10 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302230171410&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302230171410"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/23 (日) 17:14:10 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302230171410_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302230171410"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� kou@���f�^�c�ψ�����<br>
-<font color="#cc88ff">&gt; �@�����A�g�U���������Ȃ�������A����������I�Ɍ��E�𒣂�i���j�B</font><br>
+<font size=3 color=#606060>▼ kou@迷惑運営委員さん<br>
+<font color="#cc88ff">&gt; 　もし、拡散させたくなかったら、すごい限定的に結界を張る（爆）。</font><br>
 <br>
-�㔼�g�Ƃ�������_�̂��镔���������ʂɏo�Ă����Ƃ���������������܂��B(^^;<br>
+上半身というか弱点のある部分だけ水面に出ていたという逃げ道もあります。(^^;<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -124,39 +124,39 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> Re:�C�������B</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> Re:修正完了。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/23 (��) 07:45:26 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@���f�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302230074526&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302230074526"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/23 (日) 07:45:26 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@迷惑運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302230074526_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302230074526"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ��傤���^�c�ψ�����<br>
-<font color="#cc88ff">> > �^�c�ψ��͑傫�ȊԈႢ��Ƃ����I�@�Ȃ�ƁI�@���͂̃����N���ԈႦ���̂��I<br>
-> �Ȃ�ƁI�@����ɋC�Â����^�c�ψ��͋}���Ń����N���C�������I</font><br>
-������炨���J�����������I�H�@���A�ς݂܂���ł����I<br>
+<font size=3 color=#606060>▼ りょう＠運営委員さん<br>
+<font color="#cc88ff">> > 運営委員は大きな間違いを犯した！　なんと！　第二章のリンクを間違えたのだ！<br>
+> なんと！　それに気づいた運営委員は急いでリンクを修正した！</font><br>
+うぎゃらおう゛ぇえええっ！？　す、済みませんでした！<br>
 <br>
-<font color="#cc88ff">>�C��(�t��)�Ŋg�U���Ă��܂��ċt�ɈЗ͎͂�܂�̂ł�?</font><br>
-�@���[�ł��ˁB���̒��ł̓`�����͍����ł����ǁA�\�ʂ��傫������g�U����X���ɂ���܂��ˁB�����A�g�U���������Ȃ�������A����������I�Ɍ��E�𒣂�i���j�B</font>
+<font color="#cc88ff">>海面(付近)で拡散してしまって逆に威力は弱まるのでは?</font><br>
+　そーですね。水の中での伝導率は高いですけど、表面が大きいから拡散する傾向にありますね。もし、拡散させたくなかったら、すごい限定的に結界を張る（爆）。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> ��O�͓ǂ݂܂���</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> 第三章読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/23 (��) 05:08:56 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302230050856&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302230050856"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/23 (日) 05:08:56 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302230050856_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302230050856"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[��A���[��A�d�C�n�Ȑl�ȃ��m�Ŕ[�������Ȃ��B(^^;;;<br>
+<font size=3 color=#606060>うーん、うーん、電気系な人なモノで納得いかない。(^^;;;<br>
 <br>
-<font color="#cc88ff">&gt; �����Â��́A�C�̏�ɗ��������B���m�ɂ́A�C�̒��ɒ��񂾂��̉������ɂ��B<br>
-&gt; ���́A�C����`����Đ��S�{�̈З͂ɂȂ��ĉ������ɏP�����������B</font><br>
+<font color="#cc88ff">&gt; いかづちは、海の上に落下した。正確には、海の中に沈んだあの化け物にだ。<br>
+&gt; 雷は、海水を伝わって数百倍の威力になって化け物に襲いかかった。</font><br>
 <br>
-�Ώە����C���ɒ���ł��ĊC�ʂɗ��������ꍇ�A�C��(�t��)�Ŋg�U���Ă��܂��ċt�ɈЗ͎͂�܂�̂ł�?<br>
+対象物が海中に沈んでいて海面に落雷した場合、海面(付近)で拡散してしまって逆に威力は弱まるのでは?<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -164,55 +164,55 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> �C�������B</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> 修正完了。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/23 (��) 01:55:35 <strong>��</strong> ��傤���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302230015535&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302230015535"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/23 (日) 01:55:35 <strong>▽</strong> りょう＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302230015535_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302230015535"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �^�c�ψ��͑傫�ȊԈႢ��Ƃ����I�@�Ȃ�ƁI�@���͂̃����N���ԈႦ���̂��I</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 運営委員は大きな間違いを犯した！　なんと！　第二章のリンクを間違えたのだ！</font><br>
 <br>
-�Ȃ�ƁI�@����ɋC�Â����^�c�ψ��͋}���Ń����N���C�������I<br>
+なんと！　それに気づいた運営委員は急いでリンクを修正した！<br>
 <br>
-�Ƃ����킯�ł����f���������܂����B</font>
+というわけでご迷惑おかけしました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[18]</font> <font size=4 color=#40c0c0> �Ȃ�ƂȂ�</font>
+<font size=2>[18]</font> <font size=4 color=#40c0c0> なんとなく</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/23 (��) 01:22:29 <strong>��</strong> �ʂ肷���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302230012229&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302230012229"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/23 (日) 01:22:29 <strong>▽</strong> 通りすがり </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302230012229_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302230012229"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�^�c�ψ��͑傫�ȊԈႢ��Ƃ����I�@�Ȃ�ƁI�@���͂̃����N���ԈႦ���̂��I</font>
+<font size=3 color=#606060>運営委員は大きな間違いを犯した！　なんと！　第二章のリンクを間違えたのだ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/23 (��) 00:04:54 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302230000454&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302230000454"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/23 (日) 00:04:54 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302230000454_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302230000454"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����[�A���C�o�������̓o��A���񑩂ł��˂��B�����ł��˂��B<br>
-�G�߂͉āI���āA�v��������씼�������i���j�B<br>
-�܂��A����ϊC����͂����ł���A�����B<br>
+<font size=3 color=#606060>いやー、ライバル少女の登場、お約束ですねぇ。いいですねぇ。<br>
+季節は夏！って、思いっきり南半球だし（爆）。<br>
+まあ、やっぱ海物語はいいですよ、ええ。<br>
 <br>
-<font color="#cc88ff">&gt; �{���ɂ������ėL��悤�ɁA���̏����͒m�肠���ł��B</font><br>
-�N���ȁH(^_^)<br>
-�܂��A����ȍ~�̊y���݂Ƃ������ƂŁB<br>
+<font color="#cc88ff">&gt; 本文にも書いて有るように、あの少女は知りあいです。</font><br>
+誰かな？(^_^)<br>
+まあ、次回以降の楽しみということで。<br>
 <br>
-<font color="#cc88ff">&gt; ���҂͑傫�ȊԈႢ��Ƃ����I�@�Ȃ�ƁI�@�薼�������Ⴆ���̂��I</font><br>
-�Ȃ񂶂Ⴛ��(^_^)</font>
+<font color="#cc88ff">&gt; 著者は大きな間違いを犯した！　なんと！　題名を書き違えたのだ！</font><br>
+なんじゃそら(^_^)</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -220,47 +220,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> �wDouble Cast -�����@��������- ��O�́x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> 『Double Cast -半魔法少女物語- 第三章』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/22 (�y) 20:50:17 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302226205017&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302226205017"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/22 (土) 20:50:17 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302226205017_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200302226205017"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z ���҂͑傫�ȊԈႢ��Ƃ����I�@�Ȃ�ƁI�@�薼�������Ⴆ���̂��I<br>
+<font size=3 color=#606060>【推薦文】 著者は大きな間違いを犯した！　なんと！　題名を書き違えたのだ！<br>
 <br>
-<a href=http://ts.novels.jp/novel/200211/18204509/double3.html target=_top>http://ts.novels.jp/novel/200211/18204509/double3.html</a></font>
+<a href="../../novel/200211/18204509/double3.html" target=_top>http://ts.novels.jp/novel/200211/18204509/double3.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/16 (��) 11:15:07 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212161111507&log=kuroneko_otoko">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212161111507"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/16 (月) 11:15:07 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212161111507_log_kuroneko_otoko.cgi">返信</a>　削除<input type=checkbox name="target" value="200212161111507"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����A�Ȃ��Ȃ������ł͂Ȃ��ł����B<br>
-�s�r�Ƃ����_�������΂����������ʂ̖��@�������m�̓W�J�ɉ����Ă܂���˂��B<br>
-�i�f���Ă����܂����A����͂قߌ��t�ł��j<br>
-�퓬�V�[���̕`�ʂ������B<br>
-�ʔ����ł���B<br>
-�F�l��l�ɐ^����b���i�ł��낤�j���񂪊y���݂ł��ˁB<br>
+<font size=3 color=#606060>うん、なかなかいいではないですか。<br>
+ＴＳという点を除けばごくごく普通の魔法少女モノの展開に沿ってますよねぇ。<br>
+（断っておきますが、これはほめ言葉です）<br>
+戦闘シーンの描写も見事。<br>
+面白いですよ。<br>
+友人二人に真実を話す（であろう）次回が楽しみですね。<br>
 <br>
-<font color="#ff88cc">�����̕`�ʂ���肭�s���Ȃ���ł�</font><br>
-�l�I�ɂ͍��̂ł����Ȃ��Ƃ͎v����ł����i�]���Ƀr�W���A���������Ԃ̂Łj�B<br>
-�܂��A���i���Ă��������ȁB<br>
-�܂��͏������̂̈ߕ��̖��̂Ȃ񂩂��}�X�^�[����Ƃ��������ˁB</font>
+<font color="#ff88cc">＞服の描写が上手く行かないんです</font><br>
+個人的には今のでも問題ないとは思うんですが（脳内にビジュアルが浮かぶので）。<br>
+まあ、精進してくださいな。<br>
+まずは女性ものの衣服の名称なんかをマスターするといいかもね。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kuroneko_otoko">
@@ -268,16 +268,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kuroneko_otoko">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kuroneko_otoko">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kuroneko_otoko.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

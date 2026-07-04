@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�C�x���g�f����</title>
+<title>イベント掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�C�x���g�f����</font>
+<font size=5>イベント掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="jiten">
 <input type=hidden name="nj" value="ZkgCN54OlJ">
 <input type=hidden name="res" value="1713">
-<h4 align=center>�� �L���ԍ� 1713 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 1713 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�u��v"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���Y����
-&gt; �����������܂����̂ŏ��߂Ă̓��e�i�������݁j���܂��B
-&gt; �X�������肢���܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:「わ」"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 青太郎さん
+&gt; 血が沸騰しましたので初めての投稿（書き込み）します。
+&gt; 宜しくお願いします。
 &gt; 
-&gt; �u�킽�����܁@����˂�̂ڂ����@�����������v</textarea><br>
+&gt; 「わたしいま　きょねんのぼくを　おもいだす」</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 20 <strong>�ő�L�^�ێ���</strong> 400 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 20 <strong>最大記録保持数</strong> 400 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,21 +48,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1740]</font> <font size=4 color=#40c0c0> �u�Ɓv�u��v</font>
+<font size=2>[1740]</font> <font size=4 color=#40c0c0> 「と」「り」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/05 (��) 22:38:47 <strong>��</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">�앶��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200501053223847&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501053223847"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/05 (水) 22:38:47 <strong>▽</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">南文堂</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200501053223847_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200501053223847"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����܂��Ă��߂łƂ��������܂�<br>
-�@�ʔ������Ȃ̂ŁA�����Q�������Ă��������܂���<br>
+<font size=3 color=#606060>　あけましておめでとうございます<br>
+　面白そうなので、私も参加させていただきます♪<br>
 <br>
-�y�Ɓz�@�u�Ƃ肠�����@������Ă݂�̂��@���Ƃ��ł���v�i�Ƃ肠�����G���Ă݂�̂��j�ł���j<br>
-�y��z�@�u����ς˂Ɓ@�����ȂȂ��݂��@�ނ˂����ށv�i�u���h�ˁv�Ɨc�Ȃ��݂����𝆂ށj<br>
+【と】　「とりあえず　さわってみるのが　おとこでしょ」（とりあえず触ってみるのが男でしょ）<br>
+【り】　「りっぱねと　おさななじみが　むねをもむ」（「立派ね」と幼なじみが胸を揉む）<br>
 <br>
-�@�Ƃ肠�����A�єN�����Ɂu�Ɓv�Ɓu��v��ǂ܂��Ă��������܂�����<br>
-�@�{�N����낵�����肢�������܂��@���i�Q�@�Q�j��<br>
+　とりあえず、酉年だけに「と」と「り」を読ませていただきました♪<br>
+　本年もよろしくお願いいたします　＜（＿　＿）＞<br>
 </font>
 <p><a href="http://minafumi.wb.puresilk.ac/" target="_top">http://minafumi.wb.puresilk.ac/</a>
 </td></table>
@@ -71,132 +71,132 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1738]</font> <font size=4 color=#40c0c0> �u��v</font>
+<font size=2>[1738]</font> <font size=4 color=#40c0c0> 「わ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/03 (��) 01:47:51 <strong>��</strong> kardy </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200501031014751&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501031014751"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/03 (月) 01:47:51 <strong>▽</strong> kardy </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200501031014751_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200501031014751"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�킷��Ă� �킽���ق�Ƃ� ���Ƃ������v<br>
-�i�Y��Ă��I���A�z���g�͒j�����I�j<br>
-���Ђ�`�Q�����ȁA���N��������Ă����炷������L�������񂶂���Ă���B<br>
-�c�Ă��Ƃ́A����H���������ɒj�ɖ߂�Ȃ��Ă������킯����ˁA���B<br>
+<font size=3 color=#606060>「わすれてた わたしほんとは おとこじゃん」<br>
+（忘れてた！私、ホントは男じゃん！）<br>
+うひゃ〜参ったな、半年も女やってたからすっかり記憶から飛んじゃってたよ。<br>
+…てことは、あれ？もう無理に男に戻んなくてもいいわけだよね、私。<br>
 <br>
-�u�킩���Ă� �͂��������̂� �Ȃ݂��ł�v<br>
-(�����Ă�c�͂��������̂ɗ܏o��)<br>
-�i����͐F�X�ȃV�`���G�[�V�������l������Ǝv���܂��B��i�͊F����ŕ⊮���ĉ������B�j</font>
+「わかってる はずだったのに なみだでる」<br>
+(解ってる…はずだったのに涙出る)<br>
+（これは色々なシチュエーションが考えられると思います。情景は皆さんで補完して下さい。）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1737]</font> <font size=4 color=#40c0c0> �u�ȁv�u�Ӂv</font>
+<font size=2>[1737]</font> <font size=4 color=#40c0c0> 「な」「ふ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/31 (��) 10:53:35 <strong>��</strong> �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412315105335&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412315105335"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/31 (金) 10:53:35 <strong>▽</strong> ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412315105335_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412315105335"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�Ȃ������݁@����ȂƂƂ߂�@�݂������ȁ@�i�������@�u�؂�ȁI�v�Ǝ~�߂�@�g�����ȁj�v<br>
-�u�Ԃ炶�Ⴀ���@���ĂƂ��̂��@�킪�������i�u���W���[���@�����ĉ��̂��@�䂪�ӎ��j�v<br>
+<font size=3 color=#606060>「ながいかみ　きるなととめる　みうちかな　（長い髪　「切るな！」と止める　身内かな）」<br>
+「ぶらじゃあを　つけてとおのく　わがいしき（ブラジャーを　着けて遠のく　我が意識）」<br>
 <br>
-<font color="#ff88cc">���S�l��񕗂Ɍ܎��܎����Ȃ�ł����ǁA�}�Y�������c���ȁH</font><br>
-�@���܂��܂���ł��B��̋�Ɖ��̋�ɕ�������u�s�r�S�l���v��������Ȃ��H<br>
+<font color="#ff88cc">＞百人一首風に五七五七七なんですけど、マズかった…かな？</font><br>
+　かまいませんです。上の句と下の句に分けたら「ＴＳ百人一首」も夢じゃない？<br>
 <br>
-<font color="#ff88cc">���P�ɂ܂Ƃ߂ē��e����ׂ��ł��ˁB���݂܂���B</font><br>
-�@���������A�܂��v��������ǂ�ǂ񏑂�����ł��������B<br>
+<font color="#ff88cc">＞１つにまとめて投稿するべきですね。すみません。</font><br>
+　いえいえ、また思いついたらどんどん書き込んでください。<br>
 <br>
-<font color="#ff88cc">������E�B�A����E�F�Ɠǂނ̂��A�����ȁH</font><br>
-�@����ł����܂��傤�B�J�^�J�i�A���_���n�j�ł��B<br>
+<font color="#ff88cc">＞ゐをウィ、ゑをウェと読むのもアリかな？</font><br>
+　ありでいきましょう。カタカナ、濁点もＯＫです。<br>
 <br>
-<font color="#ff88cc">���ł��A�u��v�u��v�̗��E�E�E���ɏo������Ă��ł���ˁE�E�E�i�g�z�z�j</font><br>
-�@���o�̕����ł��A�v��������ǂ�ǂ񏑂�����ł��������B<br>
-�@�ǂ݋傪�������񂠂�ƁA�G�D�̕����C���[�W�����₷���Ǝv���܂��B<br>
+<font color="#ff88cc">＞でも、「ゐ」「ゑ」の欄・・・既に出ちゃってるんですよね・・・（トホホ）</font><br>
+　既出の文字でも、思いついたらどんどん書き込んでください。<br>
+　読み句がたくさんあると、絵札の方もイメージがしやすいと思います。<br>
 <br>
-<font color="#ff88cc">���Ƃɂ����ʂŏ����Ƃ����킯�Łu���`��v�܂ň�C�ɍs���܂��B</font><br>
-�@�����A���������I�@�����������ƃX�g�[���[�ɂȂ��Ă�����I�@�c�c�������ł��B<br>
+<font color="#ff88cc">＞とにかく量で勝負というわけで「い〜ん」まで一気に行きます。</font><br>
+　すっ、すごいっ！　しかもちゃんとストーリーになっているっ！　……さすがです。<br>
 <br>
-�@�N����������A��������ł��������������x�܂Ƃ߂āA�����ŊG�D�̕�W���n�߂Ă��������ƍl���Ă��܂��B<br>
-�@�ǂ݋�̕����A����������W���܂��B<br>
-�@����ł͊F�l�A�悢���N���c�c</font>
+　年が明けたら、書き込んでいただいた句を一度まとめて、そこで絵札の募集も始めていきたいと考えています。<br>
+　読み句の方も、引き続き募集します。<br>
+　それでは皆様、よいお年を……</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1736]</font> <font size=4 color=#40c0c0> �u���`��v</font>
+<font size=2>[1736]</font> <font size=4 color=#40c0c0> 「い〜ん」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/31 (��) 06:06:21 <strong>��</strong> <a href="mailto:jersey-r@keddy.ne.jp">�W���[�W���b�h</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412315060621&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412315060621"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/31 (金) 06:06:21 <strong>▽</strong> <a href="mailto:jersey-r@keddy.ne.jp">ジャージレッド</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412315060621_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412315060621"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�N���̂����A����ɁA�V�N�ɊԂɍ����悤�Ɂu����̓J���^�v�̑S�������l���Ă݂܂����B�ЂƂЂƂ����Ă݂�ƁA�s�r�Ƃ͖��֌W�Ɏv������̂����邩�Ǝv���܂����A�S�̗̂���̂Ȃ��Ō��Ă���������΂���Ȃ�Ɋ�������̂͂��邩�Ǝv���܂��̂ŁA�����Ă��ǂ݂���������ƁA���肪�����ł��B<br>
+<font size=3 color=#606060>年末のご挨拶代わりに、新年に間に合うように「いろはカルタ」の全文字を考えてみました。ひとつひとつを見てみると、ＴＳとは無関係に思えるものもあるかと思いますが、全体の流れのなかで見ていただければそれなりに感じるものはあるかと思いますので、続けてお読みいただけると、ありがたいです。<br>
 <br>
-�Ƃɂ����ʂŏ����Ƃ����킯�Łu���`��v�܂ň�C�ɍs���܂��B<br>
+とにかく量で勝負というわけで「い〜ん」まで一気に行きます。<br>
 <br>
-�y���z�@�u�������ł���@���̂܂ق�����@�����Â��ȁv�@�i�������ł���@���̖��@�w�@�߂Â��ȁj<br>
-�y��z�@�u�������@�݂Ă݂Ȃ����ȁ@���̂����݁v�@�i�_�����@���Ă݂Ȃ����ȁ@���̋��j<br>
-�y�́z�@�u�͂Ăւ񂾁@�����݂̂Ȃ��Ɂ@����Ȃ̂��v�@�i�͂ĕς��@���̒��Ɂ@���̎q�j<br>
-�y�Ɂz�@�u�ɂ�������@�Ƃɂ����ӂ����@�������Ă�v�@�i����������@�Ƃɂ��������@���ւ��Ă�j<br>
-�y�فz�@�u�ق�Ƃ����@�����炠�ӂ����@�ɂ����Ă�v�@�i�{�����@�Z�[���[�����@�������Ă�j<br>
-�y�ցz�@�u�ւ񂵂񂵁@����Ȃ̂��炾�@���܂̂ڂ��v�@�i�ϐg���@���̐g�́@���̖l�j<br>
-�y�Ɓz�@�u�Ƃ�����́@����Ȃނ��߂��@�ق��������v�@�i������́@����Ȗ����@�~���������j<br>
+【い】　「いったでしょ　このまほうじん　ちかづくな」　（言ったでしょ　この魔法陣　近づくな）<br>
+【ろ】　「ろんよりも　みてみなさいな　このかがみ」　（論よりも　見てみなさいな　この鏡）<br>
+【は】　「はてへんだ　かがみのなかに　おんなのこ」　（はて変だ　鏡の中に　女の子）<br>
+【に】　「にあうから　とにかくふくを　きがえてよ」　（似合うから　とにかく服を　着替えてよ）<br>
+【ほ】　「ほんとうだ　せえらあふくが　にあってる」　（本当だ　セーラー服が　似合ってる）<br>
+【へ】　「へんしんし　おんなのからだ　いまのぼく」　（変身し　女の身体　今の僕）<br>
+【と】　「とうさんは　こんなむすめが　ほしかった」　（父さんは　こんな娘が　欲しかった）<br>
 <br>
-�y���z�@�u�����т����@����邩������@����͂����v�@�i���񗧂��@�C�������@����͂����j<br>
-�y��z�@�u��ڂ񂵂ā@���݂��܂Ƃ߂ā@�����Ƃ������v�@�i���{�����ā@�����܂Ƃ߂ā@�����o�Z�j<br>
-�y�ʁz�@�u�ʂ�ʂ�Ɓ@�����ׂɂ��ʂ�@�͂܂�܂��v�@�i�ʂ�ʂ�Ɓ@���g��h��@�͂܂�܂��j<br>
-�y��z�@�u�����Ɓ@�ł��Ƃ̂����ā@���Ƃ��ł��v�@�i���������Ɓ@�f�[�g�̑���@�j�ł��j<br>
-�y���z�@�u�����܂Ă�@���Â����Ƃ���@��������Łv�@�i�����҂Ă�@�C�Â����r�[�@��������Łj<br>
+【ち】　「ちくびたち　すれるかいかん　これはいい」　（乳首立ち　擦れる快感　これはいい）<br>
+【り】　「りぼんして　かみをまとめて　いざとうこう」　（リボンして　髪をまとめて　いざ登校）<br>
+【ぬ】　「ぬりぬりと　くちべにをぬる　はまります」　（ぬりぬりと　口紅を塗る　はまります）<br>
+【る】　「るんるんと　でえとのあいて　おとこです」　（ルンルンと　デートの相手　男です）<br>
+【を】　「をいまてよ　きづいたとたん　おちこんで」　（をい待てよ　気づいた途端　落ち込んで）<br>
 <br>
-�y��z�@�u�킫������@����Ȃ��Ƃ܂Ł@���񂾂ˁv�@�i�e�ђ��@����Ȃ��Ƃ܂Ł@���񂾂ˁj<br>
-�y���z�@�u���炾�܂��@���炩�����ā@����ǂ����v�@�i�g�̋Ȃ��@�_�炩�����ā@�������j<br>
-�y��z�@�u������イ���@���������݂��ā@���������ށv�@�i�~�����@�������E��@���𝆂ށj<br>
-�y���z�@�u�����܂��Ɂ@���܂̂��炾�Ɂ@�����̂����v�@�i�����܂��Ɂ@���̐g�̂Ɂ@�������j<br>
-�y��z�@�u��񂴂�́@�悤�Ȃ��Ԃ����@�ނ˂̂����v�@�i�A�R�́@�悤�ȓ��[���@���̏�j<br>
-�y���z�@�u����Ȃ͂��@�Ȃ��ƂЂĂ����@�ނȂ����āv�@�i����Ȃ͂��@�Ȃ��Ɣے���@�ނȂ����āj<br>
+【わ】　「わきげそり　こんなことまで　やるんだね」　（脇毛剃り　こんなことまで　やるんだね）<br>
+【か】　「からだまげ　やわらかすぎて　かんどうし」　（身体曲げ　柔らかすぎて　感動し）<br>
+【よ】　「よっきゅうが　うごかすみぎて　ちちをもむ」　（欲求が　動かす右手　乳を揉む）<br>
+【た】　「たちまちに　いまのからだに　じゅんのうし」　（たちまちに　今の身体に　順応し）<br>
+【れ】　「れんざんの　ようなちぶさが　むねのうえ」　（連山の　ような乳房が　胸の上）<br>
+【そ】　「そんなはず　ないとひていも　むなしくて」　（そんなはず　ないと否定も　むなしくて）<br>
 <br>
-�y�z�@�u�炢�񂾁@�Ƃ��ɂӂ��߁@�͂炢�����v�@�i�炢�񂾁@���ɓ���ځ@���ɂ��j<br>
-�y�ˁz�@�u�˂������Ɓ@��΂�Ă܂��@����낫���Ɓv�@�i�o�����Ɓ@�Ă΂�Ă܂��@����낫���Ɓj<br>
-�y�ȁz�@�u�Ȃ݂����݁@����Ȃ̂Ԃ����@�Ăɂ��ꂽ�v�@�i�܂��݁@���̕�����@��ɓ��ꂽ�j<br>
-�y��z�@�u������[���@��ł������ł����@�͂񂪂����v�@�i���b�L�[���@���f�B�[�X�f�[���@���z���j<br>
-�y�ށz�@�u�ނ˂��͂�@���������Ԃ��@���܂񂩂��v�@�i���𒣂�@�˂��o�����[�@���������j<br>
+【つ】　「つらいんだ　とくにふつかめ　はらいたい」　（つらいんだ　特に二日目　腹痛い）<br>
+【ね】　「ねえちゃんと　よばれてまわり　きょろきょろと」　（姉ちゃんと　呼ばれてまわり　きょろきょろと）<br>
+【な】　「なみだぐみ　おんなのぶきを　てにいれた」　（涙ぐみ　女の武器を　手に入れた）<br>
+【ら】　「らっきーだ　れでぃいすでいだ　はんがくだ」　（ラッキーだ　レディースデーだ　半額だ）<br>
+【む】　「むねをはり　つきだすちぶさ　じまんかも」　（胸を張り　突き出す乳房　自慢かも）<br>
 <br>
-�y���z�@�u�������܂��@�Ђт����Ղ�́@���炨����v�@�i�̂��܂��@�����\�v���m�@�J���I�P���j<br>
-�y��z�@�u��܂����@�Ђ��傤����Ȃ�@�����܂���v�@�i�s���܂����@�鋫�����@�����Q��j<br>
-�y�́z�@�u�̂��̂����@������Ԃ炶�Ⴀ�@���܂�ǂ�v�@�i���̉��@������u���W���[�@�J�h��j<br>
-�y���z�@�u����Ƃ����@���̂����݂傤�Ɂ@�ɂ���Ȃ��v�@�i���ƌ����@���̐����Ɂ@������Ȃ��j<br>
-�y���z�@�u�������т��@�ނ��������Ђ��@���܂������v�@�i���₵�@�̃R�[�q�[�@���P�[�L�j<br>
-�y��z�@�u����Ƃł��@�ׂ�҂炢�ȁ@����Ȃ̂��v�@�i����Əo���@�֔�炢�ȁ@���̎q�j<br>
-�y�܁z�@�u�܂ق��₭�@���ǂ��̂��ȁ@�̂񂾂Ȃ�v�@�i���@��@�߂��̂��ȁ@���񂾂Ȃ�j<br>
+【う】　「うたいます　ひびくそぷらの　からおけや」　（歌います　響くソプラノ　カラオケ屋）<br>
+【ゐ】　「ゐきますか　ひきょうおんなゆ　いざまいる」　（行きますか　秘境女湯　いざ参る）<br>
+【の】　「のきのした　すけるぶらじゃあ　あまやどり」　（軒の下　透けるブラジャー　雨宿り）<br>
+【お】　「おれという　そのこえみょうに　にあわない」　（俺と言う　その声妙に　似合わない）<br>
+【く】　「くちさびし　むかしこおひい　いまけえき」　（口寂し　昔コーヒー　今ケーキ）<br>
+【や】　「やっとでた　べんぴつらいな　おんなのこ」　（やっと出た　便秘つらいな　女の子）<br>
+【ま】　「まほうやく　もどれるのかな　のんだなら」　（魔法薬　戻れるのかな　飲んだなら）<br>
 <br>
-�y���z�@�u��������́@���߂������łɁ@����߂���v�@�i�����́@�C���[�W���Ɂ@���ł���j<br>
-�y�Ӂz�@�u�ӂ�����ˁ@���������Ă��܁@����Ȃ̂ˁv�@�i�s�@���ˁ@���������č��@�A���Ȃ̂ˁj<br>
-�y���z�@�u�������Ⴄ��@���������ނ��@��������Łv�@�i�������Ⴄ��@���𝆂ނ��@������Łj<br>
-�y���z�@�u������Ȃ��@����ȂƂ������@�ނ˂����v�@�i���������@���F�B�@�������j<br>
-�y�āz�@�u�Ăقǂ����@�����Ă͂Ԃ�@�ق������߁v�@�@�i��قǂ����@�󂯂ď��u���@�z�b�N���߁j<br>
+【け】　「けっこんの　いめえじすでに　およめさん」　（結婚の　イメージ既に　お嫁さん）<br>
+【ふ】　「ふきげんね　もしかしていま　あれなのね」　（不機嫌ね　もしかして今　アレなのね）<br>
+【こ】　「こっちゃうよ　ちちをもむより　かたもんで」　（こっちゃうよ　乳を揉むより　肩揉んで）<br>
+【え】　「えんりょなく　おんなともだち　むねさわる」　（遠慮無く　女友達　胸さわる）<br>
+【て】　「てほどきを　うけてはつぶら　ほっくしめ」　　（手ほどきを　受けて初ブラ　ホック締め）<br>
 <br>
-�y���z�@�u�����͂��@���܂邠���Ắ@�킪���˂��v�@�i�M���n�O�@���鑊��́@�䂪�o���j<br>
-�y���z�@�u���ނ������@��������̂͂��@�Ȃ܂������v�@�i�������@��������̂͂��@�������j<br>
-�y���z�@�u�����������@�͂��Ȃ񂾂��ǁ@�ł����킢�v�@�i�C���������@�͂��Ȃ񂾂��ǁ@�ł��|���j<br>
-�y��z�@�u�䂤�������@�����悩�킢���@��񂶂��肢�v�@�i�E�C�o���@�����悩�킢���@�����W�F���[�j<br>
-�y�߁z�@�u�߂񂸂Ђ�@���Ă��Ȃ��ā@�͂�ɂ˂�v�@�i�����Y�i�@�̂Ă��Ȃ��ā@�͂�Q�N�j<br>
-�y�݁z�@�u�݂邭�̂݁@�����ꂾ�����Ɓ@�ӂƂ������v�@�i�~���N���݁@������o�����Ɓ@�ӂƎv���j<br>
-�y���z�@�u�������Ȃ��@��������邵���@�Ȃ������ˁv�@�i�d���Ȃ��@�󂯓���邵���@�Ȃ������ˁj<br>
+【あ】　「あついはぐ　せまるあいては　わがあねか」　（熱いハグ　迫る相手は　我が姉か）<br>
+【さ】　「さむいあし　それもそのはず　なまあしだ」　（寒い足　それもそのはず　生足だ）<br>
+【き】　「きもちいい　はずなんだけど　でもこわい」　（気持ちいい　はずなんだけど　でも怖い）<br>
+【ゆ】　「ゆうきだし　かうよかわいい　らんじぇりい」　（勇気出し　買うよかわいい　ランジェリー）<br>
+【め】　「めんずひん　すてられなくて　はやにねん」　（メンズ品　捨てられなくて　はや２年）<br>
+【み】　「みるくのみ　いずれだすかと　ふとおもう」　（ミルク飲み　いずれ出すかと　ふと思う）<br>
+【し】　「しかたない　うけいれるしか　ないかもね」　（仕方ない　受け入れるしか　ないかもね）<br>
 <br>
-�y��z�@�u��낢���Ɓ@�ɂ񂵂񂱂킭�@���イ���債�āv�@�i�G�������Ɓ@�D�P�|���@���イ���債�āj<br>
-�y�Ёz�@�u�Ђ߂͂��߁@����Ȃ����ρ@����тȂ̂��v�@�i�P�n�߁@����Ȃ����ρ@����Ȃ̂��j<br>
-�y���z�@�u���ǂ���@�܂ق��Ȃ��̂���@�ڂ��ɂ����v�@�i�߂���@���@�Ȕޏ��@�l�Ɍ����j<br>
-�y���z�@�u�����������@�Ȃ�Ă����̂Ɂ@���܂��炩�v�@�i�����������@����Ă����̂Ɂ@���܂��炩�j<br>
-�y���z�@�u�������߂ā@����񂷂͂����@�����ǂ���v�@�i�������߂ā@�`�����X�͍���@��x����j<br>
+【ゑ】　「ゑろいこと　にんしんこわく　ちゅうちょして」　（エロいこと　妊娠怖く　ちゅうちょして）<br>
+【ひ】　「ひめはじめ　するならやっぱ　しゅびなのか」　（姫始め　するならやっぱ　守備なのか）<br>
+【も】　「もどれるわ　まほうなかのじょ　ぼくにいい」　（戻れるわ　魔法な彼女　僕に言い）<br>
+【せ】　「せっかくさ　なれてきたのに　いまさらか」　（せっかくさ　慣れてきたのに　いまさらか）<br>
+【す】　「すぐきめて　ちゃんすはこんや　いちどきり」　（すぐ決めて　チャンスは今夜　一度きり）<br>
 <br>
-�y��z�@�u���Ȃ�ށ@���ǂ肽���͂��@�������̂Ɂv�@�i���Y�ށ@�߂肽���͂��@�������̂Ɂj<br>
+【ん】　「んんなやむ　もどりたいはず　だったのに」　（んん悩む　戻りたいはず　だったのに）<br>
 <br>
 <br>
-�ȏ�A�������ł����ł��傤���H</font>
+以上、いかがでしたでしょうか？</font>
 <p><a href="http://www.keddy.ne.jp/~jersey-r/" target="_top">http://www.keddy.ne.jp/~jersey-r/</a>
 </td></table>
 </td></tr></table>
@@ -204,43 +204,43 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1735]</font> <font size=4 color=#40c0c0> �u��v�u��v �E�E�E�̐���z����Ă��܂��܂����i���j</font>
+<font size=2>[1735]</font> <font size=4 color=#40c0c0> 「ゐ」「ゑ」 ・・・の先を越されてしまいました（泣）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/29 (��) 23:13:07 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412293231307&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412293231307"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/29 (水) 23:13:07 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412293231307_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412293231307"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�X�ɗ��Č���΁A�ʔ������Ƃ�����Ă��܂��ˁB<br>
-<font color="#cc88ff">&gt; �u���v�u��i���j�v�u��i���j�v�̎O�́A��������̐擪�ɂ��Ȃ��Ă��n�j�ł��B</font><br>
-�E�E�E�Ƃ̌��t�ɂ�����ƍl���Ă݂܂����B<br>
+<font size=3 color=#606060>久々に来て見れば、面白いことをやっていますね。<br>
+<font color="#cc88ff">&gt; 「を」「ゐ（い）」「ゑ（え）」の三つは、文字が句の先頭にこなくてもＯＫです。</font><br>
+・・・との言葉にちょっと考えてみました。<br>
 <br>
-�u���܂���Ɓ@������ޏ��@���̔ށv�i��܂���� �������邩�̂��� �Ƃ��̂���j<br>
-�u�b��{��@�����ԕꌩ��@�����q�v�i��т����� �����Ԃ݂͂͂� ���Ƃނ����j<br>
+「居ませんと　答える彼女　当の彼」（ゐませんと こたえるかのじょ とうのかれ）<br>
+「恵比須顔　浮かぶ母見る　元息子」（ゑびすがお うかぶははみる もとむすこ）<br>
 <br>
-�@TS�����ŗǂ��o�ė������ȃV�`���G�[�V�������Ǝv���܂����E�E�E�@���ł��傤���H<br>
-�i�ł��A�u��v�u��v�̗��E�E�E���ɏo������Ă��ł���ˁE�E�E�i�g�z�z�j�j</font>
+　TS小説で良く出て来そうなシチュエーションだと思いますが・・・如何でしょうか？<br>
+（でも、「ゐ」「ゑ」の欄・・・既に出ちゃってるんですよね・・・（トホホ））</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1733]</font> <font size=4 color=#40c0c0> �u��v�u��v</font>
+<font size=2>[1733]</font> <font size=4 color=#40c0c0> 「ゐ」「ゑ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/28 (��) 09:59:39 <strong>��</strong> ���Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412282095939&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412282095939"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/28 (火) 09:59:39 <strong>▽</strong> 死郎 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412282095939_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412282095939"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �u���v�u��i���j�v�u��i���j�v�̎O�́A��������̐擪�ɂ��Ȃ��Ă��n�j�ł��B</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 「を」「ゐ（い）」「ゑ（え）」の三つは、文字が句の先頭にこなくてもＯＫです。</font><br>
 <br>
-�@����E�B�A����E�F�Ɠǂނ̂��A�����ȁH<br>
+　ゐをウィ、ゑをウェと読むのもアリかな？<br>
 <br>
-�u���i�E�B�j�[�N�f�C�@���q�����Ɂ@㵂��炢�āv<br>
-�u���i�E�F�j���J���Ɓ@�S���̐��E�Ɂ@�U����v<br>
+「ヰ（ウィ）ークデイ　女子制服に　羞じらいて」<br>
+「ヱ（ウェ）ルカムと　百合の世界に　誘われる」<br>
 <br>
-�@����A�Ⴆ�΂���Ȋ����ŁB</font>
+　いや、例えばこんな感じで。</font>
 <p><a href="http://ww36.tiki.ne.jp/~shirou/" target="_top">http://ww36.tiki.ne.jp/~shirou/</a>
 </td></table>
 </td></tr></table>
@@ -248,21 +248,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1732]</font> <font size=4 color=#40c0c0> �u���v�u��v</font>
+<font size=2>[1732]</font> <font size=4 color=#40c0c0> 「ち」「ら」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/27 (��) 02:06:22 <strong>��</strong> kagerou6 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412271020622&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412271020622"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/27 (月) 02:06:22 <strong>▽</strong> kagerou6 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412271020622_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412271020622"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ʔ������Ȋ��ł��ˁi�O�O�j<br>
+<font size=3 color=#606060>面白そうな企画ですね（＾＾）<br>
 <br>
-��<br>
-���������́H���̂���̂Ԃ�������Ƃ���I�i�u�������́H�v�ޏ��̃u���������i����I�j<br>
-��<br>
-�炢�΂邪���̂܂ɂ�炱���тƂɁi���C�o�������̊Ԃɂ����l�Ɂj<br>
+ち<br>
+ちいさいの？かのじょのぶらつけしっとされ！（「小さいの？」彼女のブラ着け嫉妬され！）<br>
+ら<br>
+らいばるがいつのまにやらこいびとに（ライバルがいつの間にやら恋人に）<br>
 <br>
-����Ȃ��̂łǂ��ł��傤�H<br>
+こんなものでどうでしょう？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -270,163 +270,163 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1731]</font> <font size=4 color=#40c0c0> �u�Ɓv</font>
+<font size=2>[1731]</font> <font size=4 color=#40c0c0> 「と」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/26 (��) 14:10:22 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412260141022&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412260141022"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/26 (日) 14:10:22 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412260141022_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412260141022"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ƃ��ɂ������@�Ƃ��ɂ��傤����@��������<br>
-(���ɔR�����@�F�ɍ�������@�G������)<br>
-�P�ɂ܂Ƃ߂ē��e����ׂ��ł��ˁB���݂܂���B</font>
+<font size=3 color=#606060>ともにもえた　ともにきょうから　もえられる<br>
+(共に燃えた　友に今日から　萌えられる)<br>
+１つにまとめて投稿するべきですね。すみません。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1730]</font> <font size=4 color=#40c0c0> �u�āv</font>
+<font size=2>[1730]</font> <font size=4 color=#40c0c0> 「て」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/26 (��) 14:07:36 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412260140736&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412260140736"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/26 (日) 14:07:36 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412260140736_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412260140736"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ă��[�����́@�܂��ǂ���������́@�Ƃ����킴<br>
-(TS�́@�}�b�h�Ȋw�҂́@���ӋZ)<br>
-�v�����łЂƂr��ł݂܂����B</font>
+<font size=3 color=#606060>てぃーえすは　まっどかがくしゃの　とくいわざ<br>
+(TSは　マッド科学者の　得意技)<br>
+思いつきでひとつ詠んでみました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1729]</font> <font size=4 color=#40c0c0> �u���v</font>
+<font size=2>[1729]</font> <font size=4 color=#40c0c0> 「か」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/24 (��) 18:47:43 <strong>��</strong> �悵���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412245184743&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412245184743"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/24 (金) 18:47:43 <strong>▽</strong> よしおか </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412245184743_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412245184743"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���킲����i��߁j���䂪�g�́@�����ɂȂ�<br>
+<font size=3 color=#606060>かわごろも（皮衣）着つつ我が身は　美女になる<br>
 <br>
-�i�āA���ꂶ��A�r�����j</font>
+（て、これじゃ、詠いだ）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1728]</font> <font size=4 color=#40c0c0> �u�ȁv�@�u���v</font>
+<font size=2>[1728]</font> <font size=4 color=#40c0c0> 「な」　「あ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/24 (��) 18:42:47 <strong>��</strong> �悵���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412245184247&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412245184247"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/24 (金) 18:42:47 <strong>▽</strong> よしおか </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412245184247_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412245184247"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�ȁA�Ȃ��I�v�Ƌ��ԋ��̒��̔���<br>
+<font size=3 color=#606060>「な、ない！」と叫ぶ鏡の中の美女<br>
 <br>
-�u���I�v�ƌ��������w�����t�^��<br>
+「あ！」と向き合い指差すフタリ<br>
 <br>
-����Ȋ����ł����ł����H</font>
+こんな感じでいいですか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1725]</font> <font size=4 color=#40c0c0> �u��v</font>
+<font size=2>[1725]</font> <font size=4 color=#40c0c0> 「わ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/23 (��) 07:51:11 <strong>��</strong> ��������[ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412234075111&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412234075111"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/23 (木) 07:51:11 <strong>▽</strong> よっすぃー </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412234075111_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412234075111"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�킪�݂ق�@���ꂶ��܂�Ł@�Ȃ邵���Ɓv<br>
-�i�䂪�g����@���ꂶ��܂�Ł@�i���V�X�g�j<br>
+<font size=3 color=#606060>「わがみほれ　これじゃまるで　なるしすと」<br>
+（我が身惚れ　これじゃまるで　ナルシスト）<br>
 <br>
-�ǂ����Ȃ���l�ɂȂ�Ȃ���ˁB�@�ł������Ɍ��Ƃ�Ă���̂��ċq�ϓI�Ɍ���ƃL�V���C������ˁc</font>
+どうせなら美人にならなきゃね。　でも自分に見とれているのって客観的に見るとキショイだすよね…</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1724]</font> <font size=4 color=#40c0c0> �u�ށv</font>
+<font size=2>[1724]</font> <font size=4 color=#40c0c0> 「む」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/23 (��) 05:35:34 <strong>��</strong> kardy </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412234053534&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412234053534"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/23 (木) 05:35:34 <strong>▽</strong> kardy </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412234053534_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412234053534"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�ނ��������� ���Ƃ��߂̂��� ���Ƃ����イ�v<br>
-�i�̑z�� ���Ƃ��ڂ̐� �j�O�j<br>
+<font size=3 color=#606060>「むかしおもい おとすめのさき をとこしゅう」<br>
+（昔想い 落とす目の先 男衆）<br>
 <br>
-���������΁A�̂̓����[���m�ł��Ńo�J�Ȏ�����Ă������c�B<br>
-����ƁA���������ƕʂ�錈�S���t������B<br>
-��������͖{���̈Ӗ��ŁA���q�����W�c�̈���ɂȂ�񂾁�</font>
+そういえば、昔はヤロー同士でつるんでバカな事やってたっけ…。<br>
+やっと、あっち側と別れる決心が付いたよ。<br>
+今日からは本当の意味で、女子高生集団の一員になるんだ♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1723]</font> <font size=4 color=#40c0c0> �m���n�D�D�D�ł����̂��ȁH</font>
+<font size=2>[1723]</font> <font size=4 color=#40c0c0> ［を］．．．でいいのかな？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/23 (��) 03:04:45 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412234030445&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412234030445"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/23 (木) 03:04:45 <strong>▽</strong> ← </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412234030445_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412234030445"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�����̐g�@�e�ɉB���@���S<br>
-�@�F���J�Ɂ@�v���͂����v<br>
-�i���Ƃ߂̂݁@�����ɂ������@����������<br>
-�@�Ƃ��̂����ȂɁ@�������Ƃǂ����j<br>
+<font size=3 color=#606060>「乙女の身　影に隠れる　恋心<br>
+　友の絆に　思い届かず」<br>
+（をとめのみ　かげにかくれる　こいごころ<br>
+　とものきずなに　おもいとどかず）<br>
 <br>
-�v�킸�֏悵�Ă��܂����c<br>
-�S�l��񕗂Ɍ܎��܎����Ȃ�ł����ǁA�}�Y�������c���ȁH<br>
-�ǂ������炵�܂����B�B�B</font>
+思わず便乗してしまった…<br>
+百人一首風に五七五七七なんですけど、マズかった…かな？<br>
+どうも失礼しました。。。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1722]</font> <font size=4 color=#40c0c0> [��]</font>
+<font size=2>[1722]</font> <font size=4 color=#40c0c0> [ふ]</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/23 (��) 00:35:03 <strong>��</strong> Plantain </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412234003503&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412234003503"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/23 (木) 00:35:03 <strong>▽</strong> Plantain </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412234003503_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412234003503"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂾂��ʔ������Ȃ̂Łc�c�B<br>
-�u�ӂ������Ɂ@�����Ƃ�������@�ӂ��̂����v<br>
-�i�������Ɂ@�����Ɖ�������@���̐��j</font>
+<font size=3 color=#606060>なんだか面白そうなので……。<br>
+「ふくかぜに　そっとおさえる　ふくのすそ」<br>
+（吹く風に　そっと押さえる　服の裾）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1721]</font> <font size=4 color=#40c0c0> [��] �A[��]</font>
+<font size=2>[1721]</font> <font size=4 color=#40c0c0> [つ] 、[き]</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/22 (��) 19:46:50 <strong>��</strong> ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412223194650&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412223194650"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/22 (水) 19:46:50 <strong>▽</strong> 鈴奈 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412223194650_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412223194650"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ł�c�c<br>
+<font size=3 color=#606060>そりでわ……<br>
 <br>
-�u���͂���@���������@����Ȃ��́v<br>
-�i���͂���@���X�����@�����i�̕��j�j<br>
+「つぎはこれ　つぎつぎくるよ　おんなもの」<br>
+（次はこれ　次々来るよ　女物（の服））<br>
 <br>
-����ɁA�����B<br>
+さらに、続き。<br>
 <br>
-�u�����������@���񂾂�@�����Ղꂵ��[�ɂȂ�v<br>
-�i�����ւ����@�i�X�@�R�X�v���V���[�ɂȂ�j<br>
+「きせかえが　だんだん　こすぷれしょーになり」<br>
+（着せ替えが　段々　コスプレショーになり）<br>
 <br>
-�c�c�����A���߂ہB�@|||orz</font>
+……何か、だめぽ。　|||orz</font>
 <p><a href="http://www.h3.dion.ne.jp/~haghag/ura/" target="_top">http://www.h3.dion.ne.jp/~haghag/ura/</a>
 </td></table>
 </td></tr></table>
@@ -434,17 +434,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1720]</font> <font size=4 color=#40c0c0> [��]</font>
+<font size=2>[1720]</font> <font size=4 color=#40c0c0> [ま]</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/22 (��) 10:04:12 <strong>��</strong> DEKOI </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412223100412&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412223100412"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/22 (水) 10:04:12 <strong>▽</strong> DEKOI </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412223100412_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412223100412"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�܂ق������@��������́@�ւ񂵂�@�Ă��[���������v<br>
-�i���@�g���@�ŏ��́@�ϐg�@�s�r�����j<br>
+<font size=3 color=#606060>「まほうつかい　さいしょの　へんしん　てぃーえすかい」<br>
+（魔法使い　最初の　変身　ＴＳかい）<br>
 <br>
-�����l�^�v�����Ȃ����������B</font>
+いいネタ思いつかなかったっす。</font>
 </td></table>
 </td></tr></table>
 
@@ -454,51 +454,51 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[1719]</font> <font size=4 color=#40c0c0> [</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/22 (��) 02:02:21 <strong>��</strong> kardy </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412223020221&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412223020221"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/22 (水) 02:02:21 <strong>▽</strong> kardy </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412223020221_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412223020221"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�悪�����ā@�������݂܂킵�@��߂���Ȃ��v<br>
-�i�邪������ �p���� �w������Ȃ��c(��)�x�j<br>
+<font size=3 color=#606060>「よがあけて　すがたみまわし　ゆめじゃない」<br>
+（夜が明けて 姿見回し 『夢じゃない…(涙)』）<br>
 <br>
-�ϐg��������A�T�ȋC���ɂȂ�͉̂��ł��낤�c�B</font>
+変身直後よりも陰鬱な気分になるのは何でだろう…。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1718]</font> <font size=4 color=#40c0c0> �u�فv</font>
+<font size=2>[1718]</font> <font size=4 color=#40c0c0> 「ほ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/22 (��) 00:30:28 <strong>��</strong> �v�Ă̘Z�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412223003028&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412223003028"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/22 (水) 00:30:28 <strong>▽</strong> 思案の六ぽ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412223003028_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412223003028"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�ق�Ƃ��́@���Ƃ��Ȃ񂾂Ɓ@���傤���傢���v�i�{���́@�j�Ȃ񂾂Ɓ@���������j<br>
+<font size=3 color=#606060>「ほんとうは　おとこなんだと　しょうじょいい」（本当は　男なんだと　少女言い）<br>
 <br>
-�܂����]����ۂ�����</font>
+また字余りっぽいかも</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1717]</font> <font size=4 color=#40c0c0> �Y��Ă��܂����B</font>
+<font size=2>[1717]</font> <font size=4 color=#40c0c0> 忘れていました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/21 (��) 22:25:21 <strong>��</strong> �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412212222521&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412212222521"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/21 (火) 22:25:21 <strong>▽</strong> ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412212222521_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412212222521"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����̏������݁A���肪�Ƃ��������܂��B<br>
-�@�u���v�u��i���j�v�u��i���j�v�̎O�́A��������̐擪�ɂ��Ȃ��Ă��n�j�ł��B</font>
+<font size=3 color=#606060>　早速の書き込み、ありがとうございます。<br>
+　「を」「ゐ（い）」「ゑ（え）」の三つは、文字が句の先頭にこなくてもＯＫです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="21">
 <input type=hidden name="log" value="jiten">
@@ -506,16 +506,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="jiten">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=jiten">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_jiten.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

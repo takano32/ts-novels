@@ -65,7 +65,7 @@ link<input type=checkbox name="link" value="1" checked>
 <td nowrap align=right><font size=3>　<a href="bbs@res_200407191144400_log_mizuki.cgi">返信</a>　削除<input type=checkbox name="target" value="200407191144400"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><a href=http://ts.novels.jp/novel/200407/19082034/refresh.html target=_top>http://ts.novels.jp/novel/200407/19082034/refresh.html</a><br>
+<font size=3 color=#606060><a href="../../novel/200407/19082034/refresh.html" target=_top>http://ts.novels.jp/novel/200407/19082034/refresh.html</a><br>
 <br>
 【推薦文】 夏ばて防止には、運動が一番です。</font>
 </td></table>

@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����������i���z�f����</title>
+<title>水無月さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����������i���z�f����</font>
+<font size=5>水無月さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="minaduki">
 <input type=hidden name="nj" value="GKB4bQlLnX">
 <input type=hidden name="res" value="35">
-<h4 align=center>�� �L���ԍ� 35 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 35 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ݂܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���K\����
-&gt; ��������炸�ł��ˁB
-&gt; ���ɏ���ƐX�̉�b���}�W�������ň����ł����B
-&gt; �ł����ǁA�u�V�I���v�Ɓw�@���̊肢�@�x ���碃W�I����Ƣ�O�t����l���Ă��܂��̂͂킽�������ł���?</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読みました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ メガ\さん
+&gt; あいかわらずですね。
+&gt; 特に松井と森の会話がマジメすぎで圧巻でした。
+&gt; ですけど、「シオン」と『　蒼の願い　』 から｢ジオン｣と｢グフ｣を考えてしまうのはわたしだけですか?</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,84 +47,84 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> �E�E�E�i�O�O�G</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> ・・・（＾＾；</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/25 (��) 00:04:35 <strong>��</strong> ������ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208250000435&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208250000435"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/25 (日) 00:04:35 <strong>▽</strong> 水無月 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208250000435_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200208250000435"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����z�A���肪�Ƃ��������܂��I�@�������ł��I<br>
-��S�b���ɁA�b�c�������悤�Ƃ��Ă���A�����Ȃ��Ă��܂��܂����I<br>
-���̃m���ŁA���̈�l�̂ŏ����Ă���ƁA�Ԃ̕`�ʂ��K���ɂȂ��Ă��܂��c<br>
-���`��c�@���������A�̂�т�Ɛi�߂Ă��������ȁc�H<br>
+<font size=3 color=#606060>ご感想、ありがとうございます！　水無月です！<br>
+第４話中に、ＣＤ発売しようとしてたら、こうなってしまいました！<br>
+雪野のノリで、雪野の一人称で書いていると、間の描写が適当になってしまう…<br>
+う〜ん…　もう少し、のんびりと進めていこうかな…？<br>
 <br>
-<font color="#ff88cc">�������ɗ���</font><br>
-��������Ă񂾂낤�Ȃ��A���i���j<br>
-�ق܂ꂳ��A�����W�S�Q�U����A���w�E���肪�Ƃ��������܂�<br>
-�����́A���߂ł͂Ȃ��U���ł��ˁB�C�����Ă����Ȃ���΁c<br>
-���Ԃ񎄁A���ꏑ���Ȃ���ԉΑ��ł����Ă���ł��ˁi�΁j<br>
-���A���ɂ��ꒅ���Ă݂�����ł���[<br>
-�~�j�X�J�̗��߁�<br>
+<font color="#ff88cc">＞正月に浴衣</font><br>
+↑何やってんだろうなぁ、私（汗）<br>
+ほまれさん、ｍｋ８４２６さん、ご指摘ありがとうございます<br>
+そこは、浴衣ではなく振袖ですね。修正してもらわなければ…<br>
+たぶん私、これ書きながら花火大会でも見てたんですね（笑）<br>
+私、雪野にあれ着せてみたいんですよー<br>
+ミニスカの浴衣♪<br>
 <br>
-�Ƃ���ł��̘b�A���l���܂ł����񂾂낤���c�i���j<br>
+ところでこの話、成人式までいくんだろうか…（汗）<br>
 <br>
-<font color="#ff88cc">���ǂ��ɘA��񂳂ꂽ�̂��A���ɋ����̂���Ƃ���ł��B</font><br>
-���Ȃ���A���߂�Ȃ����I���̂�����A�����Ԃ͂�����Ă��܂��܂����I<br>
-�����������������̘b���A�炪����Ă���O�ɁA�Ȃ�Ƃ�����Ă݂����Ȃ�<br>
-�Ƃ���ŁA�s��̏��̎q���āA�ǂ��s���񂾂낤�c�i���F���͓c�ɂ��́�j<br>
-���͂����炢�ł��傤�ˁ�i�΁j<br>
+<font color="#ff88cc">＞どこに連れ回されたのか、非常に興味のあるところです。</font><br>
+すなさん、ごめんなさい！このあたり、だいぶはしょってしまいました！<br>
+こういうお買い物の話も、顔が売れてくる前に、なんとかやってみたいなぁ<br>
+ところで、都会の女の子って、どこ行くんだろう…（注：私は田舎もの♪）<br>
+雪野はさぞつらいでしょうね♪（笑）<br>
 <br>
-<font color="#ff88cc">���u�V�I���v�Ɓw�@���̊肢�@�x ���碃W�I����Ƣ�O�t����l���Ă��܂��̂͂킽�������ł���?</font><br>
-(��)�I�I<br>
-���K\����A���߂ċC�����܂����I�����ł��ˁI<br>
-���́A�b�c�̃^�C�g���A��Q������������ł���I<br>
-�i���̎��l����C���Ȃ��̂ŁA�C�y�Ȃ���ł��j<br>
-�w �g�������̖�� �x<br>
-�܂����̃^�C�g���́A�g���Ƃ�����A�Sth�V���O��������Ɂc�i�j���b�j<br>
+<font color="#ff88cc">＞「シオン」と『　蒼の願い　』 から｢ジオン｣と｢グフ｣を考えてしまうのはわたしだけですか?</font><br>
+(笑)！！<br>
+メガ\さん、初めて気がつきました！そうですね！<br>
+実は、ＣＤのタイトル、第２候補もあったんですよ！<br>
+（↑歌詞考える気がないので、気楽なもんです）<br>
+『 紅い満月の夜に 』<br>
+まぁこのタイトルは、使うとしたら、４thシングルあたりに…（ニヤッ）<br>
 <br>
-�Ƃ����킯�ŁA���������l�^�ł͂���܂��񂪁A�ꉞ����̓W�J�͍l���Ă���܂�<br>
-�������łȂ��A���ɂ��A���̎q�B�ɃL���[�L���[�����Ă��炢�܂��I�i���Ƃ��A�{�l�����₪�낤�Ƃ���j<br>
-�ŋ߁A�����̊���ŁA���͂���G�c�ɂȂ��Ă��܂��悤�Ȃ̂ŁA�C�����ď����Ă��������Ǝv���܂��B</font>
+というわけで、たいしたネタではありませんが、一応今後の展開は考えてあります<br>
+瞳だけでなく、潤にも、女の子達にキャーキャー言われてもらいます！（たとえ、本人がいやがろうとも♪）<br>
+最近、多少の慣れで、文章が大雑把になってしまうようなので、気をつけて書いていきたいと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/23 (��) 11:10:38 <strong>��</strong> ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208235111038&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208235111038"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/23 (金) 11:10:38 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208235111038_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200208235111038"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���킠�I<br>
-�l�N���}���T�[��s�C�����ŏ���l�����o�Ă����B����͐悪�y���݂��Ȃ��B<br>
-����Ɏ������ő�\�ꂷ�鏁�Ɠ������Ă݂����ȁB���񂤂�A�ł���΂���ė~�����ł��I<br>
-���������o��ň�ʂƂ́c�A���̐�̖ڕW�͂��������B���E�Ƀf�r���[���I<br>
-�����܂����藐���܂����B<br>
-�Ȃɂ��ǂ��Ȃ��Ă�����y���݂ɂ��Ă���܂��̂ŁA����΂��Ă��������B</font>
+<font size=3 color=#606060>うわあ！<br>
+ネクロマンサーを不気味さで上回る人物が出てきた。これは先が楽しみだなあ。<br>
+それに私も生で大暴れする潤と瞳が見てみたいな。うんうん、できればやって欲しいです！<br>
+しかし初登場で一位とは…、この先の目標はいったい。世界にデビューか！<br>
+すいません取り乱しました。<br>
+なにがどうなっても毎回楽しみにしておりますので、がんばってください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/22 (��) 21:45:12 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208224214512&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208224214512"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/22 (木) 21:45:12 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208224214512_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200208224214512"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��͂͂͂͂͂́I<br>
-���ɏ���������ւ��v�攭���ł����ȁi�΁j�B<br>
-����͂����Ɠ������͔��ʘZ�]�̑劈��̂悤�ł��Ȃ��B<br>
-�b�c�̕��������Ȃ悤�ł����A���ꂩ�炪�y���݂ł��B<br>
+<font size=3 color=#606060>わはははははは！<br>
+ついに潤→瞳入れ替え計画発動ですかな（笑）。<br>
+それはそうと瞳ちゃんは八面六臂の大活躍のようですなぁ。<br>
+ＣＤの方も順調なようですし、これからが楽しみです。<br>
 <br>
-<font color="#ff88cc">�������ɗ���</font><br>
-�����A���^�N�V���C�ɂȂ����B�����ɗ��߂ł͊����Ǝv�����i�΁j�B</font>
+<font color="#ff88cc">＞正月に浴衣</font><br>
+ここ、ワタクシも気になった。正月に浴衣では寒いと思うぞ（笑）。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -132,37 +132,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��������܂����B</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 読ませていただきました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/22 (��) 15:56:45 <strong>��</strong> �ق܂� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208224155645&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208224155645"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/22 (木) 15:56:45 <strong>▽</strong> ほまれ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208224155645_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200208224155645"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂��߂܂��āA�ق܂�Ɛ\���܂��B<br>
-���������ʔ����ł��B�ǂ�ł��ĉ��x���΂��Ă��܂��܂����B<br>
+<font size=3 color=#606060>はじめまして、ほまれと申します。<br>
+すっごい面白いです。読んでいて何度も笑ってしまいました。<br>
 <br>
-�ǂ�ł��Ă�����ƋC�ɂȂ������Ƃ�����̂ł����A�wThe voice of ours act.4�x��<br>
-������ɗ��߂𒅂���ꣂƂ����Ƃ��낪����܂����A���߂ł͂Ȃ��U���̊ԈႢ�ł͂Ȃ���<br>
-���傤���H�����A���̂��ƂŋC�������Ȃ��ꂽ�炷�݂܂���B<br>
+読んでいてちょっと気になったことがあるのですが、『The voice of ours act.4』で<br>
+｢正月に浴衣を着せられ｣というところがありますが、浴衣ではなく振袖の間違いではないで<br>
+しょうか？もし、このことで気を悪くなされたらすみません。<br>
 <br>
-���ꂩ����A�������Ă����܂��̂ł���΂��Ă��������B</font>
+これからも、応援していきますのでがんばってください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/22 (��) 02:43:17 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208224024317&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208224024317"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/22 (木) 02:43:17 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208224024317_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200208224024317"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��������炸�ł��ˁB<br>
-���ɏ���ƐX�̉�b���}�W�������ň����ł����B<br>
-�ł����ǁA�u�V�I���v�Ɓw�@���̊肢�@�x ���碃W�I����Ƣ�O�t����l���Ă��܂��̂͂킽�������ł���?</font>
+<font size=3 color=#606060>あいかわらずですね。<br>
+特に松井と森の会話がマジメすぎで圧巻でした。<br>
+ですけど、「シオン」と『　蒼の願い　』 から｢ジオン｣と｢グフ｣を考えてしまうのはわたしだけですか?</font>
 <p><div align=left><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a></div>
 </td></table>
 </td></tr></table>
@@ -170,97 +170,97 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> �ǂ݂܂�����</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> 読みました♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/22 (��) 01:47:58 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208224014758&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208224014758"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/22 (木) 01:47:58 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208224014758_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200208224014758"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�悢�ł��ˁc�����Δ����قǁA�j�ɖ߂�̂������<br>
-���̃W�����}���ǂ��ł��B�Ƃ͂����A�o�q�̃��j�b�g�����ɁA�j�̂ق���<br>
-�ڗ��K�v������͂��E�E�E�B������ւ�̉��o�����゠��΁A����ɂ������낭�Ȃ邩���E�E�E<br>
-���ł̂Ƃ������Ђ������o���Ƃ��E�E�E�����������Ȃ����ǁA<br>
-��������Ζʔ������B<br>
-�Ƃ������A�������낢�b�ł��B��������ҁB���߂ɓǂ߂�̂͊������ˁB</font>
+<font size=3 color=#606060>よいですね…売れれば売れるほど、男に戻るのが難しく♪<br>
+このジレンマが良いです。とはいえ、双子のユニットだけに、男のほうも<br>
+目立つ必要があるはず・・・。そこらへんの演出が今後あれば、さらにおもしろくなるかも・・・<br>
+生でのとっかえひっかえ出演とか・・・難しいかもしれないけど、<br>
+書ききれば面白そう。<br>
+ともかく、おもしろい話です。次回も期待。早めに読めるのは嬉しいね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> �Ȃ�Ƃ��͂�c�B</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> なんともはや…。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/22 (��) 00:39:26 <strong>��</strong> ���Ȃ��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208224003926&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208224003926"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/22 (木) 00:39:26 <strong>▽</strong> すなさん </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208224003926_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200208224003926"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�l�N���}���T�[�̈���q�E�������i��΁j�́A��Ȃ���Ȃ�����e�L�����B�Ɍb�܂�Ď���Ă��K�������B<br>
-�i�T�ڂɂ́B���̍ۖ{�l�̂��Ƃ͂����Ƃ��āc�j<br>
+<font size=3 color=#606060>ネクロマンサーの愛弟子・瞳ちゃん（苦笑）は、一癖も二癖もある脇キャラ達に恵まれて取っても幸せそう。<br>
+（傍目には。この際本人のことはおいといて…）<br>
 <br>
-<font color="#ff88cc">���A�낤�Ƃ������́A��l�Ɉ����~�߂��A���̂܂܂��낢��ȂƂ���֘A��񂳂ꂽ�B</font><br>
-�s�������񂵂ɂāc<br>
-�i���l�͍����s���A��l�́��j<br>
-�ǂ��ɘA��񂳂ꂽ�̂��A���ɋ����̂���Ƃ���ł��B</font>
+<font color="#ff88cc">＞帰ろうとした俺は、二人に引き止められ、そのままいろいろなところへ連れ回された。</font><br>
+市中引き回しにて…<br>
+（当人は獄門台行き、二人は♪♪）<br>
+どこに連れ回されたのか、非常に興味のあるところです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> �wThe voice of ours act.4�x��ǂނɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> 『The voice of ours act.4』を読むには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/21 (��) 21:30:07 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208213213007&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208213213007"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/21 (水) 21:30:07 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208213213007_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200208213213007"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z<i>�w�x����c�q�̊Ð|�����I�x</i>�@���x��I�Ђ��߂��I�����āA�̂������那�`�`!!<br>
-��藐���Ă��܂��܂����i�΁j�BCD�����ł��B�W�J�����ł��B����Ȃ̂ŃX���[���[�V�����œǂނ��Ƃ��I�X�X�����܂��B�Ƃ���ŁA�F����A�������w���̎��̒���e�X�g�A�������ł������H<br>
+<font size=3 color=#606060>【推薦文】<i>『踊る肉団子の甘酢かけ！』</i>　が踊る！ひしめく！そして、のしかかるぅ〜〜!!<br>
+取り乱してしまいました（笑）。CD発売です。展開早いです。それなのでスローモーションで読むことをオススメします。ところで、皆さん、自分が学生の時の定期テスト、いかがでしたか？<br>
 <br>
-<a href=http://ts.novels.jp/novel/200206/20162303/the&#95;voice&#95;of&#95;ours&#95;act-4.html target=_top>http://ts.novels.jp/novel/200206/20162303/the&#95;voice&#95;of&#95;ours&#95;act-4.html</a></font>
+<a href="../../novel/200206/20162303/the_voice_of_ours_act-4.html" target=_top>http://ts.novels.jp/novel/200206/20162303/the&#95;voice&#95;of&#95;ours&#95;act-4.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> Re:�₢�ɂ������������܂��ƁE�E�E</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> Re:問いにお答えいたしますと・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/29 (��) 00:17:19 <strong>��</strong> ������ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207291001719&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207291001719"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/29 (月) 00:17:19 <strong>▽</strong> 水無月 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207291001719_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200207291001719"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �E�E�E������A�ʂɊ���Ă����ł́E�E�E<br>
-&gt; ������ƁA�����Ă��邾���ŁE�E�E�ʂɐl�i������Ă����ł͂Ȃ���ł����ˁE�E�E�i�΁j</font><br>
-�閲����A���炵�܂���(^^�U<br>
-���������L�����Ȃ̂��Ɓc(��)</font>
+<font size=3 color=#606060><font color="#cc88ff">&gt; ・・・いあや、別に割れている訳では・・・<br>
+&gt; ちょっと、分けているだけで・・・別に人格が割れている訳ではないんですがね・・・（笑）</font><br>
+夜夢さん、失礼しました(^^ゞ<br>
+そういうキャラなのかと…(爆)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0> �₢�ɂ������������܂��ƁE�E�E</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0> 問いにお答えいたしますと・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/27 (�y) 20:14:59 <strong>��</strong> �閲 </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207276201459&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207276201459"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/27 (土) 20:14:59 <strong>▽</strong> 夜夢 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207276201459_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200207276201459"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�Ƃ���ŁA�閲����I<br>
-&gt;�閲����́A�l�i������Ă����ł���(��)�H�@�i���Ƃ�[�Ƃɂ����܂���^^�j</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;ところで、夜夢さん！<br>
+&gt;夜夢さんは、人格が割れているんですか(爆)？　（すとれーとにすいません^^）</font><br>
 <br>
-�E�E�E������A�ʂɊ���Ă����ł́E�E�E<br>
-������ƁA�����Ă��邾���ŁE�E�E�ʂɐl�i������Ă����ł͂Ȃ���ł����ˁE�E�E�i�΁j</font>
+・・・いあや、別に割れている訳では・・・<br>
+ちょっと、分けているだけで・・・別に人格が割れている訳ではないんですがね・・・（笑）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="minaduki">
@@ -268,16 +268,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="minaduki">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=minaduki">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_minaduki.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

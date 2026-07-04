@@ -1,72 +1,72 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���՗悳���i���z�f����</title>
+<title>風祭玲さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���՗悳���i���z�f����</font>
+<font size=5>風祭玲さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kazamaturi_rei">
 <input type=hidden name="nj" value="k5oquXJnPO">
 <input type=hidden name="res" value="13">
-<h4 align=center>�� �L���ԍ� 13 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 13 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���z���肪�Ƃ��������܂��B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���՗悳��
-&gt; ���՗�ł��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:感想ありがとうございます。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 風祭玲さん
+&gt; 風祭玲です。
 &gt; 
-&gt; �d�g�d������A�^��I����A�����W�S�Q�U����A�����Ƃ邳��
-&gt; ���T�����h�X�X�g�[���[�ւ̊��z���肪�Ƃ��������܂����B
+&gt; 電波妖精さん、真城悠さん、ｍｋ８４２６さん、西さとるさん
+&gt; ラサランドスストーリーへの感想ありがとうございました。
 &gt; 
-&gt; ���āA����̘b�͐^��I���񂪎w�E�Ȃ���Ă���ʂ�A
-&gt; �l�^�Ƃ��Ă͌��\�̂��玝���Ă��āA
-&gt; ���w�̍��ɂ͂��̌��^���o���オ���Ă��܂����B
+&gt; さて、今回の話は真城悠さんが指摘なされている通り、
+&gt; ネタとしては結構昔から持っていて、
+&gt; 中学の頃にはその原型が出来上がっていました。
 &gt; 
-&gt; ���ꂪ���͂Ƃ����`�ł͂��߂Č��ꂽ�̂��A
-&gt; ���N�������Ɂi������yays�̐��]���̊فj�Ɍf�ڂ��ꂽ�b�Ɏh�����󂯂�
-&gt; �u�患���A�񂶂�A�킽�������̘b�������Ă݂悤�Ɓv
-&gt; �ƃL�[�{�[�h��@���n�߂����̂��A���������̃X�^�[�g�ł������A
-&gt; �����A�����̋Z�ʂł͎����̎v�����Ƃ���ɘb��i�߂邱�Ƃ��o�����A
-&gt; �J�C�����J���_�̐Î~��U��؂��ďo��������������
-&gt; �T�t�@���ɓ]�����������܂ł̋�Ԃ�ł����񂾂Ƃ���Ŏ~�܂��Ă��܂��A
-&gt; ���̌�͏��������������Ă��܂����B
+&gt; それが文章という形ではじめて現れたのが、
+&gt; 少年少女文庫（当時はyaysの性転換の館）に掲載された話に刺激を受けて
+&gt; 「よぅし、んじゃ、わたしもあの話を書いてみようと」
+&gt; とキーボードを叩き始めたものが、そもそものスタートでしたが、
+&gt; ただ、当時の技量では自分の思ったとおりに話を進めることが出来ず、
+&gt; カインがカンダの静止を振り切って出撃した部分から
+&gt; サファンに転生した部分までの区間を打ち込んだところで止まってしまい、
+&gt; その後は少しずつ書き続けてきました。
 &gt; 
-&gt; �����āA���̉āA���Օ��ɂ��R�O�O�����B�����A
-&gt; �܂����ɊJ�݂���R�N���o�߂����̋@��
-&gt; �u���̕���������グ�Ă��܂����v
-&gt; �ƍl���āA��C�ɏ����i�߂��Ƃ����킯�Ȃ�ł��B
+&gt; そして、この夏、風祭文庫が３００物語を達成し、
+&gt; また文庫開設から３年が経過したの機に
+&gt; 「この物語を書き上げてしまおう」
+&gt; と考えて、一気に書き進めたというわけなんです。
 &gt; 
-&gt; �c�ŏ���50KB�`60KB�ʂ̘b��\�肵�Ă����񂾂���
-&gt; �@�����Ă����ɂ�Č��錩��c���ł��܂���
-&gt; �@�o���オ�����Ƃ��ɂ͔{�ȏ��150KB��I�I
-&gt; �@���ꂾ���̘b����C�ɏ������̂͏��߂Ăł�(@_@)�B
+&gt; …最初は50KB〜60KB位の話を予定していたんだけど
+&gt; 　書いていくにつれて見る見る膨らんでしまって
+&gt; 　出来上がったときには倍以上の150KB弱！！
+&gt; 　これだけの話を一気に書いたのは初めてです(@_@)。
 &gt; 
-&gt; ����C�ɂȂ鑱�҂̘b�ł����A
-&gt; �����g�͂��̕���͂���Ŋ��������ƍl���Ă���̂ŁA
-&gt; ���̌�̘b�͏�������͂���܂��񂪁A
-&gt; �����A�C���ς��΂��̉\�������邩���m��܂���c
+&gt; 一方気になる続編の話ですが、
+&gt; 私自身はこの物語はこれで完結したと考えているので、
+&gt; この後の話は書くつもりはありませんが、
+&gt; ただ、気が変わればその可能性もあるかも知れません…
 &gt; 
-&gt; ���ƁA���T�����h�X�̗��b���F�X�Ƃ���܂����A
-&gt; ����͒ǁX�Ƃ������ƂŁc</textarea><br>
+&gt; あと、ラサランドスの裏話も色々とありますが、
+&gt; それは追々ということで…</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -82,17 +82,17 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[15]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/21 (��) 22:53:57 <strong>��</strong> ���՗� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309210225357&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309210225357"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/21 (日) 22:53:57 <strong>▽</strong> 風祭玲 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309210225357_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200309210225357"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���՗�ł��B<br>
-<font color="#ff88cc">�����J�H�v����</font><br>
-�@���z���肪�Ƃ��������܂��B<br>
-�@���͂킽�����o��l�������܂葽���ƍ�������^�C�v�ł��̂ŁA<br>
-�@���̘b�ł͂������Ȃ��悤�ɓo��L�������i�荞�݂܂����B<br>
-�@����Ӗ��A���ꂪ�ǂ������̂�������܂���ˁB<br>
-�@�ł�<br>
+<font size=3 color=#606060>風祭玲です。<br>
+<font color="#ff88cc">＞水谷秋夫さん</font><br>
+　感想ありがとうございます。<br>
+　実はわたしも登場人物があまり多いと混乱するタイプですので、<br>
+　この話ではそうしないように登場キャラを絞り込みました。<br>
+　ある意味、それが良かったのかもしれませんね。<br>
+　では<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -100,64 +100,64 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> ����Ɠǂ߂܂���</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> やっと読めました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/19 (��) 19:54:34 <strong>��</strong> ���J�H�v </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209194195434&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209194195434"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/19 (木) 19:54:34 <strong>▽</strong> 水谷秋夫 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209194195434_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209194195434"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�f���炵�����e�ŁA��ϖʔ��������ł��B<br>
-�@�t�@���^�W�[�͂ǂ��炩�Ƃ����Ƌ��ŁA���ɒn���l�����J�^�J�i���Ɠ����������鎄�ł����A���̍�i�͂���Ȃ��Ƃ��Ȃ��킩��₷������ł��đދ����邱�Ƃ��Ȃ��A�Ō�܂ŋ������Ȃ���ǂݐ؂邱�Ƃ��ł��܂����B��������Ղ���̒n�͂Ƃ������̂ł��傤�B�o��l�������܂葽���Ȃ������̂��K�����������i�΁j�B<br>
-�@����̂���������҂��Ă���܂��B</font>
+<font size=3 color=#606060>　素晴らしい内容で、大変面白かったです。<br>
+　ファンタジーはどちらかというと苦手で、特に地名人名がカタカナだと頭が混乱する私ですが、この作品はそんなこともなくわかりやすくそれでいて退屈することもなく、最後まで興奮しながら読み切ることができました。これも風祭さんの地力というものでしょう。登場人物があまり多くなかったのが幸いしたかも（笑）。<br>
+　今後のご活躍を期待しております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/16 (��) 10:14:54 <strong>��</strong> <a href="mailto:kazematuri@muj.biglobe.ne.jp">���՗�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209161101454&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209161101454"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/16 (月) 10:14:54 <strong>▽</strong> <a href="mailto:kazematuri@muj.biglobe.ne.jp">風祭玲</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209161101454_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209161101454"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���՗�ł��B<br>
+<font size=3 color=#606060>風祭玲です。<br>
 <br>
-�d�g�d������A�^��I����A�����W�S�Q�U����A�����Ƃ邳��<br>
-���T�����h�X�X�g�[���[�ւ̊��z���肪�Ƃ��������܂����B<br>
+電波妖精さん、真城悠さん、ｍｋ８４２６さん、西さとるさん<br>
+ラサランドスストーリーへの感想ありがとうございました。<br>
 <br>
-���āA����̘b�͐^��I���񂪎w�E�Ȃ���Ă���ʂ�A<br>
-�l�^�Ƃ��Ă͌��\�̂��玝���Ă��āA<br>
-���w�̍��ɂ͂��̌��^���o���オ���Ă��܂����B<br>
+さて、今回の話は真城悠さんが指摘なされている通り、<br>
+ネタとしては結構昔から持っていて、<br>
+中学の頃にはその原型が出来上がっていました。<br>
 <br>
-���ꂪ���͂Ƃ����`�ł͂��߂Č��ꂽ�̂��A<br>
-���N�������Ɂi������yays�̐��]���̊فj�Ɍf�ڂ��ꂽ�b�Ɏh�����󂯂�<br>
-�u�患���A�񂶂�A�킽�������̘b�������Ă݂悤�Ɓv<br>
-�ƃL�[�{�[�h��@���n�߂����̂��A���������̃X�^�[�g�ł������A<br>
-�����A�����̋Z�ʂł͎����̎v�����Ƃ���ɘb��i�߂邱�Ƃ��o�����A<br>
-�J�C�����J���_�̐Î~��U��؂��ďo��������������<br>
-�T�t�@���ɓ]�����������܂ł̋�Ԃ�ł����񂾂Ƃ���Ŏ~�܂��Ă��܂��A<br>
-���̌�͏��������������Ă��܂����B<br>
+それが文章という形ではじめて現れたのが、<br>
+少年少女文庫（当時はyaysの性転換の館）に掲載された話に刺激を受けて<br>
+「よぅし、んじゃ、わたしもあの話を書いてみようと」<br>
+とキーボードを叩き始めたものが、そもそものスタートでしたが、<br>
+ただ、当時の技量では自分の思ったとおりに話を進めることが出来ず、<br>
+カインがカンダの静止を振り切って出撃した部分から<br>
+サファンに転生した部分までの区間を打ち込んだところで止まってしまい、<br>
+その後は少しずつ書き続けてきました。<br>
 <br>
-�����āA���̉āA���Օ��ɂ��R�O�O�����B�����A<br>
-�܂����ɊJ�݂���R�N���o�߂����̋@��<br>
-�u���̕���������グ�Ă��܂����v<br>
-�ƍl���āA��C�ɏ����i�߂��Ƃ����킯�Ȃ�ł��B<br>
+そして、この夏、風祭文庫が３００物語を達成し、<br>
+また文庫開設から３年が経過したの機に<br>
+「この物語を書き上げてしまおう」<br>
+と考えて、一気に書き進めたというわけなんです。<br>
 <br>
-�c�ŏ���50KB�`60KB�ʂ̘b��\�肵�Ă����񂾂���<br>
-�@�����Ă����ɂ�Č��錩��c���ł��܂���<br>
-�@�o���オ�����Ƃ��ɂ͔{�ȏ��150KB��I�I<br>
-�@���ꂾ���̘b����C�ɏ������̂͏��߂Ăł�(@_@)�B<br>
+…最初は50KB〜60KB位の話を予定していたんだけど<br>
+　書いていくにつれて見る見る膨らんでしまって<br>
+　出来上がったときには倍以上の150KB弱！！<br>
+　これだけの話を一気に書いたのは初めてです(@_@)。<br>
 <br>
-����C�ɂȂ鑱�҂̘b�ł����A<br>
-�����g�͂��̕���͂���Ŋ��������ƍl���Ă���̂ŁA<br>
-���̌�̘b�͏�������͂���܂��񂪁A<br>
-�����A�C���ς��΂��̉\�������邩���m��܂���c<br>
+一方気になる続編の話ですが、<br>
+私自身はこの物語はこれで完結したと考えているので、<br>
+この後の話は書くつもりはありませんが、<br>
+ただ、気が変わればその可能性もあるかも知れません…<br>
 <br>
-���ƁA���T�����h�X�̗��b���F�X�Ƃ���܂����A<br>
-����͒ǁX�Ƃ������ƂŁc<br>
+あと、ラサランドスの裏話も色々とありますが、<br>
+それは追々ということで…<br>
 </font>
 <p><a href="http://www2u.biglobe.ne.jp/~bell-m/bunko" target="_top">http://www2u.biglobe.ne.jp/~bell-m/bunko</a>
 </td></table>
@@ -166,17 +166,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> Re:���S���܂���</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> Re:感心しました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/15 (��) 22:51:05 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209150225105&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209150225105"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/15 (日) 22:51:05 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209150225105_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209150225105"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����Ƃ邳��<br>
-<font color="#cc88ff">&gt;�����W�S�Q�U����͋C�ɓ���Ȃ��悤�ł����A</font><br>
+<font size=3 color=#606060>▼ 西さとるさん<br>
+<font color="#cc88ff">&gt;ｍｋ８４２６さんは気に入らないようですが、</font><br>
 <br>
-�C�ɓ���Ȃ��Ƃ͈ꌾ�������ĂȂ����i�΁j</font>
+気に入らないとは一言も書いてないヨ（笑）</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -184,15 +184,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> ���S���܂���</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 感心しました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/14 (�y) 21:48:19 <strong>��</strong> <a href="mailto:burltruck376@yahoo.co.jp">�����Ƃ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209146214819&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209146214819"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/14 (土) 21:48:19 <strong>▽</strong> <a href="mailto:burltruck376@yahoo.co.jp">西さとる</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209146214819_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209146214819"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����܂����B�ׂ������������������l�߂邱�ƂƁA�������V�[�������������Ē������邾���ŁA�[�����ƍ�i�Ƃ��ďo�łł������ł��ˁB�^�邳��̌����Ƃ���A���ł����҂���������ł���Ȃ���A�����ɂ�����ƕ���̌��������Ă���̂������B�����W�S�Q�U����͋C�ɓ���Ȃ��悤�ł����A�����炭����ȊO�ɁA�I�`�̂��悤�͂Ȃ������ł��傤�B���X�g�ŃJ�C������x�ڂ̎����}�����Ȃ�A���ꂱ����s����`�ɂȂ��Ă��܂��܂��B<br>
-�@�����ł����A���҂͏����Ȃ��ق���������������܂���B���̘b�̑��҂𑢂�Ƃ�����A�ǂ����Ă��A���T�����h�X�ɐV���Ȋ�@������A�J�C�����ƃT�t�@�����A�V���V�A�ƃR���r��g��ŁA���̊�@�ɍR���Đ키�Ƃ����A�w���܂�ɂ��悭����b�x�ɂȂ炴��𓾂Ȃ�����ł��B<br>
+<font size=3 color=#606060>　驚きました。細かい部分をもう少し詰めることと、いくつかシーンを書き加えて長くするだけで、充分商業作品として出版できそうですね。真城さんの言うとおり、いつでも続編が作れる引きでありながら、同時にきちんと物語の決着をつけているのがいい。ｍｋ８４２６さんは気に入らないようですが、おそらくこれ以外に、オチのつけようはなかったでしょう。ラストでカインが二度目の死を迎えたなら、それこそ御都合主義になってしまいます。<br>
+　私見ですが、続編は書かないほうがいいかもしれません。この話の続編を造るとしたら、どうしても、ラサランドスに新たな危機が迫り、カインことサファンが、シンシアとコンビを組んで、その危機に抗して戦うという、『あまりにもよくある話』にならざるを得ないからです。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -200,19 +200,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 22:09:39 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209102220939&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102220939"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 22:09:39 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209102220939_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102220939"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������E�E�E�B<br>
-�ǂ݂�����������̂ɁA�ǂނ̂���ɂȂ�Ȃ��B<br>
-����ȍ�i�ɂ͖ő��ɂ��ڂɂ�����܂����B�z���g�A���ꂪ���ƃx�[�X����Ȃ����Ă񂾂���A�������������݂̂ł���܂��B<br>
-����ɂ��Ă��A�z���g�Ɏ��R�ȃX�g�[���[�̗���ŁA�ŏ�����Ō�܂ň�C�ɍs���Ă��܂��܂����˂��B�������A�I�`���E�E�E�i�΁j�B<br>
-���^�N�V�����҂��ǂ݂����ł��ˁA�����B<br>
-�����A���z���x���ŗ�ɂȂ��Ă���܂��B�\����Ȃ��B</font>
+<font size=3 color=#606060>すごい・・・。<br>
+読みごたえがあるのに、読むのが苦にならない。<br>
+こんな作品には滅多にお目にかかれませんよ。ホント、これが商業ベースじゃないってんだから、ただただ驚くのみであります。<br>
+それにしても、ホントに自然なストーリーの流れで、最初から最後まで一気に行ってしまいましたねぇ。しかし、オチが・・・（笑）。<br>
+ワタクシも続編が読みたいですね、ええ。<br>
+もう、感想が支離滅裂になっております。申し訳ない。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -220,34 +220,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> �����ւ��̂��m�点</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> 差し替えのお知らせ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 20:47:57 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209102204757&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102204757"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 20:47:57 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209102204757_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102204757"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��҂̕��՗悳��̈ӌ��ɂ��A�ꕔ�̓W�J�Ȃǂ��C�����������łƍ����ւ��܂����B</font>
+<font size=3 color=#606060>作者の風祭玲さんの意向により、一部の展開などを修正した改訂版と差し替えました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 00:59:51 <strong>��</strong> <a href="mailto:kemn@mx6.tiki.ne.jp">�^��@�I</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209102005951&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102005951"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 00:59:51 <strong>▽</strong> <a href="mailto:kemn@mx6.tiki.ne.jp">真城　悠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209102005951_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102005951"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���[��A���ꂾ���̗͍�A����J�l�ł������܂��B<br>
-�@����͕��Ղ��񂪂��ꂱ�����Z���ʂ̍��ɍ\�z�������������������Ɏ��M�����̂ł́H<br>
-�@���ꂾ���̏��ʁB���ꂾ���̌ŗL�����Ɛݒ���P���������Ȃ�Đ����I<br>
+<font size=3 color=#606060>　うーん、これだけの力作、ご苦労様でございます。<br>
+　これは風祭さんがそれこそ高校生位の頃に構想したメモか何かを元に執筆したのでは？<br>
+　それだけの情報量。これだけの固有名詞と設定を１から作ったなんて凄い！<br>
 <br>
-�@�ł����Ċy�`�ɑ��҂�������������E�E�E�ɂ����Ȃ������I<br>
+　でもって楽〜に続編が作れる引きだし・・・にくいなあもお！<br>
 <br>
-�@�ʔ��������ł��B</font>
+　面白かったです。</font>
 <p><a href="http://www.geocities.co.jp./Playtown/7073/" target="_top">http://www.geocities.co.jp./Playtown/7073/</a>
 </td></table>
 </td></tr></table>
@@ -255,23 +255,23 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> ����́E�E�E</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> こりは・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/09 (��) 14:45:42 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209091144542&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209091144542"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/09 (月) 14:45:42 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209091144542_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209091144542"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������낢�ł��B<br>
-�ŏ��̐푈�V�[���ł̔��M�����o�g���E�E�E<br>
-�ޏ�����E�E�E<br>
-�����āA�Ō�̐킢�ƁE�E�E<br>
-���ꂪ���܂��ATS�������Ȃ��n������ł��܂��ˁB<br>
-�J�C���E�E�E�������傢����B<br>
-�t�@���^�W�[�Ȓ��ɂ�������ɉȊw�ȂƂ����<br>
-���͋C�I�ɂ悢�ł��ˁB<br>
+<font size=3 color=#606060>おもしろいです。<br>
+最初の戦争シーンでの白熱したバトル・・・<br>
+巫女さん・・・<br>
+そして、最後の戦いと・・・<br>
+流れがうまく、TSが無理なく溶け込んでいますね。<br>
+カイン・・・かっちょいいよ。<br>
+ファンタジーな中にある微妙に科学なところも<br>
+雰囲気的によいですね。<br>
 <br>
-�Ȃɂ�蒷�҂͂�͂�A�l���`�ʂ��[���Ȃ邱�Ƃ���A�悢�Ǝv���������̂���̓d�g�d���ł����B<br>
+なにより長編はやはり、人物描写が深くなることから、よいと思う今日このごろの電波妖精でした。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -279,22 +279,22 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �w���T�����h�X�E�X�g�[���[�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 『ラサランドス・ストーリー』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/09 (��) 01:47:18 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209091014718&log=kazamaturi_rei">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209091014718"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/09 (月) 01:47:18 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209091014718_log_kazamaturi_rei.cgi">返信</a>　削除<input type=checkbox name="target" value="200209091014718"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�J�C���̓��T�����h�X�����񂪂��߁A���������Ĉ�l�ŃV�E���A�X�ɗ����������B�J�C����҂��󂯂Ă���^���Ƃ́c�c�H<br>
+<font size=3 color=#606060>【推薦文】カインはラサランドスを守らんがため、命をかけて一人でシウリアスに立ち向かう。カインを待ち受けている運命とは……？<br>
 <br>
-<a href=http://ts.novels.jp/novel/200103/11203206/ras.html target=_top>http://ts.novels.jp/novel/200103/11203206/ras.html</a></font>
+<a href="../../novel/200103/11203206/ras.html" target=_top>http://ts.novels.jp/novel/200103/11203206/ras.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kazamaturi_rei">
@@ -302,16 +302,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kazamaturi_rei">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kazamaturi_rei">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kazamaturi_rei.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

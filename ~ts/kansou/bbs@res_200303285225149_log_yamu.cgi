@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�閲�����i�@���z�f����</title>
+<title>夜夢さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�閲�����i�@���z�f����</font>
+<font size=5>夜夢さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yamu">
 <input type=hidden name="nj" value="o0zbP2sdbf">
 <input type=hidden name="res" value="128">
-<h4 align=center>�� �L���ԍ� 128 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 128 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�����̌䊴�z���肪�Ƃ��������܂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �閲����
-&gt; �ǂ����A�閲�ł��B
-&gt; ���̎s��l�Amk8426�l�A�Ђ̂ЂƗl�A�����̌䊴�z���肪�Ƃ��������܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:早速の御感想ありがとうございます"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 夜夢さん
+&gt; どうも、夜夢です。
+&gt; この市場様、mk8426様、ひのひと様、早速の御感想ありがとうございます。
 &gt; 
-&gt; &gt;���b������ɓ���g��ł��܂����ˁB
-&gt; &gt;�I��肪�߂��Ƃ����̂��M�����܂���B
+&gt; &gt;お話がさらに入り組んできましたね。
+&gt; &gt;終わりが近いというのが信じられません。
 &gt; 
-&gt; �����ނށB
-&gt; ���Ȃ񂾂�����g��ŗ��Ă���悤�ȁE�E�E
+&gt; ＞うむむ。
+&gt; ＞なんだか入り組んで来ているような・・・
 &gt; 
-&gt; &gt;���āB�ǂ�ȂƂ���ɂ��b�𗎂Ƃ�����ŗ����邩�����҂��Ă܂��B���������o��l�������͕��G�Ɏv�����������Ă����ł�����ˁB
+&gt; &gt;さて。どんなところにお話を落とし込んで来られるかを期待してます。けっこう登場人物たちは複雑に思いが交錯してそうですからね。
 &gt; 
-&gt; �͂��A���̓���g�񂾕��G�Ȏ��Ԃ�����̍ŏI�b�ɂ����Ď�������E�E�E�\��ł��B�ߓ����ɔ��\�̉^�тƂȂ�܂��̂ŁA���y���݂ɂ��Ă��ĉ������B
+&gt; はい、この入り組んだ複雑な事態が次回の最終話において収束する・・・予定です。近日中に発表の運びとなりますので、お楽しみにしていて下さい。
 &gt; 
-&gt; ���Ƃ���ŁA�����b�Z�����Ĉ�́E�E�E�H
+&gt; ＞ところで、リュッセルって一体・・・？
 &gt; 
-&gt; �t�t�t�E�E�E�i�܏΁j�E�E�E�ނ͂����̗V���̋�V���l�ł���E�E�E
-&gt; �E�E�E���āA�ނ̈ӊO�Ȑ��̂́A����Ŗ��炩�ɂȂ邱�Ƃł��傤�i�΁j
+&gt; フフフ・・・（含笑）・・・彼はただの遊民の吟遊詩人ですよ・・・
+&gt; ・・・って、彼の意外な正体は、次回で明らかになることでしょう（笑）
 &gt; 
-&gt; �E�E�E���ŁA�����łŉ��M���܂����u�w�i�����v�ł����A�ǎ҂̊F�l�͂����ɂȂ��Ă���̂��낤���E�E�E�H
-&gt; �A���ɁE�E�E�F�X�ƕ����炵�������U��΂߂Ēu�����̂ŁA�ǂ�Ŋy����Œ����Ă���Ɨǂ��̂ł����E�E�E
+&gt; ・・・所で、改訂版で加筆しました「背景説明」ですが、読者の皆様はご覧になっているのだろうか・・・？
+&gt; アレに・・・色々と伏線らしき物を散りばめて置いたので、読んで楽しんで頂けていると良いのですが・・・
 &gt; 
-&gt; &gt;���������A���ꂾ���傫�Ȑ��E��n��ꂽ�̂ɁA���ꂪ�I����Ă��܂Ȃ�āA������Ǝ₵���悤�ȋC�����ł��B
+&gt; &gt;せっかく、これだけ大きな世界を創られたのに、物語が終わってしまなんて、ちょっと寂しいような気持ちです。
 &gt; 
-&gt; �E�E�E���S�z�Ȃ����̎s��l�A�u�e�̋R�m�v�̕���ƂȂ郁���e���A���E�̕���́A������\�����Ē����Ă��܂����A����̃X�g�b�N�������ł���B���ɂɌf�ڂ����Ē����Ă��镨�Ƃ��ẮE�E�E
-&gt; �u�e�̋R�m�v����200�N�΂���Ȍ�̕��ꂪ�A�u���̓��̕���v�ł���A
-&gt; �u�e�̋R�m�v����700�N�΂���Ȍ�̕��ꂪ�A�u������l�̓��̓��̕���v�ɂȂ�܂��B
-&gt; ������낵����΁A����ǂ������߂܂��B�i�]�v�Ȃ��߉�Ȃ̂����m��܂��񂪁E�E�E�j
+&gt; ・・・ご心配なくこの市場様、「影の騎士」の舞台となるメレテリア世界の物語は、幾つか発表させて頂いていますし、物語のストックもあるんですよ。文庫に掲載させて頂いている物としては・・・
+&gt; 「影の騎士」から200年ばかり以後の物語が、「虹の瞳の物語」であり、
+&gt; 「影の騎士」から700年ばかり以後の物語が、「もう一人の虹の瞳の物語」になります。
+&gt; もしよろしければ、ご一読をお勧めます。（余計なお節介なのかも知れませんが・・・）
 &gt; 
-&gt; &gt;���āA���񂷂݂܂���A���b�̏d���̋��Ȃ̂ł����c�c�B
-&gt; &gt;&gt;�u�ӂ��A�����c�c�������Ȃ���A�A��Ȃ��Ȃ��B���ƋM���̒��ł͂���܂��񂩁B�v
-&gt; &gt;���̏ꍇ�͕������\�L�́u��Ȃ��v�ł͂Ȃ��ł��傤���B
-&gt; &gt;&gt;�@�����͓�������̈ꎺ�A����㋉�R�m�̎����\�\
-&gt; &gt;&gt;�u�c�c�����Ɍ����Ă���悤���ȁB�v
-&gt; &gt;�u�s���Ă���v�Ȃ����͕������\�L�ł���ˁc�c�B
+&gt; &gt;さて、今回すみません、七話の重箱の隅なのですが……。
+&gt; &gt;&gt;「ふぅ、やれやれ……何時もながら、連れないなぁ。私と貴女の仲ではありませんか。」
+&gt; &gt;この場合は平仮名表記の「つれない」ではないでしょうか。
+&gt; &gt;&gt;　そこは同じ王城の一室、ある上級騎士の私室——
+&gt; &gt;&gt;「……順調に言っているようだな。」
+&gt; &gt;「行っている」ないしは平仮名表記ですよね……。
 &gt; 
-&gt; �E�E�E���J�E�E�E�ꉞ�A�뎚���Ȃ����ڂ�ʂ��Ă������Ȃ�ł����E�E�E�E�E�E</textarea><br>
+&gt; ・・・あ゛・・・一応、誤字がないか目を通していた筈なんですが・・・・・・</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -80,73 +80,73 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[136]</font> <font size=4 color=#40c0c0> Re:�ǂݏI���܂���</font>
+<font size=2>[136]</font> <font size=4 color=#40c0c0> Re:読み終わりました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/06 (��) 16:10:03 <strong>��</strong> �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304060161003&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304060161003"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/06 (日) 16:10:03 <strong>▽</strong> ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304060161003_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200304060161003"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">��[130]���掵�b�ɂȂ��Ă܂��B�����N����B<br>
-���O�̂�R�s�y�������Ă̂��o���o���i�΁j</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞[130]が第七話になってます。リンク先も。<br>
+＞前のやつコピペしたってのがバレバレ（笑）</font><br>
 <br>
-�@�C�����܂����B�ŋ߂��̎�̃~�X�������āc�c�͂��B</font>
+　修正しました。最近この手のミスが多くて……はあ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[135]</font> <font size=4 color=#40c0c0> �䊴�z���肪�Ƃ��������܂�</font>
+<font size=2>[135]</font> <font size=4 color=#40c0c0> 御感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/06 (��) 13:31:24 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304060133124&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304060133124"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/06 (日) 13:31:24 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304060133124_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200304060133124"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ł��B<br>
-�Ђ̂ЂƗl�Amk8426�l�A���̎s��l�A�����̌䊴�z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>どうも、夜夢です。<br>
+ひのひと様、mk8426様、この市場様、早速の御感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;���낢��Ȃ��̂��A���������Ƃ���ɗ��������Ȃ���B<br>
-&gt;�������b�A�܂Ƃ߂�����̂���ςł����ł��傤���ǁA�Ȃɂ͂Ƃ����ꂨ���l�ł����B</font><br>
+<font color="#cc88ff">&gt;いろいろなものが、落ち着くところに落ち着きながら。<br>
+&gt;長いお話、まとめあげるのも大変でしたでしょうけど、なにはともあれお疲れ様でした。</font><br>
 <br>
-<font color="#ff88cc">������[��c�~�B�����ł��˂��B</font><br>
+<font color="#ff88cc">＞いやー大団円。いいですねぇ。</font><br>
 <br>
-<font color="#cc88ff">&gt;�������������A���̕��ꐢ�E�ɂǂ��Ղ�����Ă����������ł��B<br>
-&gt;�ł��A����̂����܂��́A�����ł���ׂ����Ǝv���܂����B</font><br>
+<font color="#cc88ff">&gt;もう少し長く、この物語世界にどっぷりつかっていたかったです。<br>
+&gt;でも、物語のおしまいは、こうであるべきだと思いました。</font><br>
 <br>
-�F�l���肪�Ƃ��������܂��B���̌������C�ɓ����Ē������l�Ŋ��������Ƃł��B<br>
+皆様ありがとうございます。この結末を気に入って頂けた様で嬉しいことです。<br>
 <br>
 <br>
-<font color="#cc88ff">&gt;��̕���͏I���܂������ǁA���������ɐV�������b�̔����J�����̂�҂��Ă������ł��ˁB���̓����B�V�����`���̒a���ɂ܂��������̂Ȃ�A�ƂĂ����������Ƃ�������܂���B</font><br>
+<font color="#cc88ff">&gt;一つの物語は終わりましたけど、あちこちに新しいお話の扉が開かれるのを待っていそうですね。いつの日か。新しい伝説の誕生にまた立ち会えるのなら、とても嬉しいことかもしれません。</font><br>
 <br>
-<font color="#ff88cc">�������ē����E�̂��̘b���̘b�ƁA�����������Ɋւ���Ă����ł��ˁB</font><br>
-����S���s��ȃX�P�[���̂��b�ł��ȁB<br>
+<font color="#ff88cc">＞そして同世界のあの話この話と、そういう風に関わってくるんですね。</font><br>
+いや全く壮大なスケールのお話ですな。<br>
 <br>
-�E�E�E���̏��A�����e���A���E�ɂ́A���삾�́A�傾�́A���^���E�r�[�C���O���́A�d�����E���i�����j������etc�E�E�E�ƕs�V�s���Ⓑ���ȑ��݂���������̂ŁA�����l���������̕���Ɋւ�鎖�������Ȃ��ł���ˁE�E�E<br>
-�i�Ⴆ�΁A�g�e�̋R�m�O�`�h�ɏo�Ă��邠�̕��́A�g���̓��h�̑�l�b�ɏo�ė��邵�A���̑��q�́g���̓��h��g������̓��̓��h�ɏo�Ă��܂����ˁ`�`�j<br>
+・・・実の所、メレテリア世界には、聖霊だの、仙だの、メタル・ビーイングだの、妖精族・竜（亜竜）族だのetc・・・と不老不死や長寿な存在が多くいるので、同じ人物が複数の物語に関わる事が多くなるんですよね・・・<br>
+（例えば、“影の騎士外伝”に出ているあの方は、“虹の瞳”の第四話に出て来るし、その息子は“虹の瞳”や“もう一つの虹の瞳”に出てきますしね〜〜）<br>
 <br>
-�E�E�E���̓����b�Z�����āA�ŏ��͔ށ^�ޏ��̎�쐹��ƂȂ�\����Ȃ��z���̒[���̂���ŏo���������E�E�E���̐ݒ������āA�|�̘r�Ƃ��E�����Ƃ���ݒ肵����A�{���ɔށ^�ޏ��Ƃ����̋��ʓ_�����邱�ƂɋC���t���܂��āE�E�E�i�΁j<br>
+・・・実はリュッセルって、最初は彼／彼女の守護聖霊となる予定もないホンの端役のつもりで出した筈が・・・その設定を練って、弓の腕とか・竜瞳とかを設定したら、本当に彼／彼女とある種の共通点があることに気が付きまして・・・（笑）<br>
 <br>
-���āA���x�͋v�X�Ƀ~�X�g���X�V���[�Y���̍�i���o���\��E�E�E���҂��Ē�����Ί��������E�E�E</font>
+さて、今度は久々にミストレスシリーズ側の作品を出す予定・・・期待して頂ければ嬉しい所・・・</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[134]</font> <font size=4 color=#40c0c0> Re:�ǂݏI���܂���</font>
+<font size=2>[134]</font> <font size=4 color=#40c0c0> Re:読み終わりました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/06 (��) 01:02:03 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304060010203&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304060010203"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/06 (日) 01:02:03 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304060010203_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200304060010203"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���̎s�ꂳ��<br>
-<font color="#cc88ff">&gt; ����ƁA������C�����܂������A�^�c�ψ�����ցB<br>
-&gt; [130]���掵�b�ɂȂ��Ă܂��B�����N����B</font><br>
+<font size=3 color=#606060>▼ この市場さん<br>
+<font color="#cc88ff">&gt; それと、今ごろ気がつきましたが、運営委員さんへ。<br>
+&gt; [130]が第七話になってます。リンク先も。</font><br>
 <br>
-�O�̂�R�s�y�������Ă̂��o���o���i�΁j</font>
+前のやつコピペしたってのがバレバレ（笑）</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -154,37 +154,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[133]</font> <font size=4 color=#40c0c0> �ǂݏI���܂���</font>
+<font size=2>[133]</font> <font size=4 color=#40c0c0> 読み終わりました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/05 (�y) 16:43:37 <strong>��</strong> ���̎s�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304056164337&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304056164337"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/05 (土) 16:43:37 <strong>▽</strong> この市場 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304056164337_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200304056164337"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������������A���̕��ꐢ�E�ɂǂ��Ղ�����Ă����������ł��B<br>
-�ł��A����̂����܂��́A�����ł���ׂ����Ǝv���܂����B<br>
-���΂炭�]�C�ɐZ�邱�Ƃɂ��܂��傤�B<br>
+<font size=3 color=#606060>もう少し長く、この物語世界にどっぷりつかっていたかったです。<br>
+でも、物語のおしまいは、こうであるべきだと思いました。<br>
+しばらく余韻に浸ることにしましょう。<br>
 <br>
-����ƁA������C�����܂������A�^�c�ψ�����ցB<br>
-[130]���掵�b�ɂȂ��Ă܂��B�����N����B</font>
+それと、今ごろ気がつきましたが、運営委員さんへ。<br>
+[130]が第七話になってます。リンク先も。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[132]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[132]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/03 (��) 00:52:44 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304034005244&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304034005244"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/03 (木) 00:52:44 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304034005244_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200304034005244"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����[��c�~�B�����ł��˂��B<br>
-�����ē����E�̂��̘b���̘b�ƁA�����������Ɋւ���Ă����ł��ˁB<br>
-����S���s��ȃX�P�[���̂��b�ł��ȁB<br>
-���񂤂�A�\�蒲�a�Ƃ͂����A�����G���f�B���O�ł����B<br>
-����Ϗ��̎q�Ȃ̂ˁA�q���i�΁j�B</font>
+<font size=3 color=#606060>いやー大団円。いいですねぇ。<br>
+そして同世界のあの話この話と、そういう風に関わってくるんですね。<br>
+いや全く壮大なスケールのお話ですな。<br>
+うんうん、予定調和とはいえ、いいエンディングでした。<br>
+やっぱ女の子なのね、子供（笑）。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -192,16 +192,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[131]</font> <font size=4 color=#40c0c0> �ӂނӂށ@�Ȃ���A�Ȃ���</font>
+<font size=2>[131]</font> <font size=4 color=#40c0c0> ふむふむ　つながる、つながる</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/02 (��) 22:50:06 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304023225006&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304023225006"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/02 (水) 22:50:06 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304023225006_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200304023225006"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���낢��Ȃ��̂��A���������Ƃ���ɗ��������Ȃ���B<br>
-�������b�A�܂Ƃ߂�����̂���ςł����ł��傤���ǁA�Ȃɂ͂Ƃ����ꂨ���l�ł����B<br>
-��̕���͏I���܂������ǁA���������ɐV�������b�̔����J�����̂�҂��Ă������ł��ˁB���̓����B�V�����`���̒a���ɂ܂��������̂Ȃ�A�ƂĂ����������Ƃ�������܂���B<br>
+<font size=3 color=#606060>いろいろなものが、落ち着くところに落ち着きながら。<br>
+長いお話、まとめあげるのも大変でしたでしょうけど、なにはともあれお疲れ様でした。<br>
+一つの物語は終わりましたけど、あちこちに新しいお話の扉が開かれるのを待っていそうですね。いつの日か。新しい伝説の誕生にまた立ち会えるのなら、とても嬉しいことかもしれません。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -209,118 +209,118 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[130]</font> <font size=4 color=#40c0c0> �w�e�̋R�m �掵�b�x������ɂ͉��̃A�h���X���N���b�N�B</font>
+<font size=2>[130]</font> <font size=4 color=#40c0c0> 『影の騎士 第七話』を見るには下のアドレスをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/02 (��) 19:44:27 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304023194427&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304023194427"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/02 (水) 19:44:27 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304023194427_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200304023194427"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�e�̋R�m�c�c�V�F�A�i�c�c�V�F�����X�E���t�g�c�c�S�Ă��q���������A�ЂƂ̕��ꂪ�I���A�����Ďn�܂�c�c<br>
-<a href=http://ts.novels.jp/novel/200112/18123055/shadow08.htm target=_top>http://ts.novels.jp/novel/200112/18123055/shadow08.htm</a></font>
+<font size=3 color=#606060>【推薦文】影の騎士……シェアナ……シェユラス・ロフト……全てが繋がった時、ひとつの物語が終わり、そして始まる……<br>
+<a href="../../novel/200112/18123055/shadow08.htm" target=_top>http://ts.novels.jp/novel/200112/18123055/shadow08.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[129]</font> <font size=4 color=#40c0c0> �I�</font>
+<font size=2>[129]</font> <font size=4 color=#40c0c0> 迂闊</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/29 (�y) 20:45:54 <strong>��</strong> ���̎s�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303296204554&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303296204554"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/29 (土) 20:45:54 <strong>▽</strong> この市場 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303296204554_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200303296204554"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������A���̓��́E�E�E���ǂ�ł܂����B<br>
-�ł��A�����ɂ��������E�̘b�Ƃ͋C���t���Ă��܂���ł����B<br>
-���߂�Ȃ����B<br>
+<font size=3 color=#606060>もちろん、虹の瞳の・・・も読んでました。<br>
+でも、うかつにも同じ世界の話とは気が付いていませんでした。<br>
+ごめんなさい。<br>
 <br>
-���S�N�̊Ԃ��J���Ă��ł��ˁB<br>
-�������j�E�E�E�����������E�ɏo��邩��A<br>
-�t�@���^�W�[��ǂނ̂���߂��Ȃ��̂ł��B</font>
+数百年の間が開いてるんですね。<br>
+長い歴史・・・こういう世界に出会えるから、<br>
+ファンタジーを読むのがやめられないのです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[128]</font> <font size=4 color=#40c0c0> �����̌䊴�z���肪�Ƃ��������܂�</font>
+<font size=2>[128]</font> <font size=4 color=#40c0c0> 早速の御感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/28 (��) 22:51:49 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303285225149&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303285225149"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/28 (金) 22:51:49 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303285225149_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200303285225149"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ł��B<br>
-���̎s��l�Amk8426�l�A�Ђ̂ЂƗl�A�����̌䊴�z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>どうも、夜夢です。<br>
+この市場様、mk8426様、ひのひと様、早速の御感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;���b������ɓ���g��ł��܂����ˁB<br>
-&gt;�I��肪�߂��Ƃ����̂��M�����܂���B</font><br>
+<font color="#cc88ff">&gt;お話がさらに入り組んできましたね。<br>
+&gt;終わりが近いというのが信じられません。</font><br>
 <br>
-<font color="#ff88cc">�����ނށB<br>
-���Ȃ񂾂�����g��ŗ��Ă���悤�ȁE�E�E</font><br>
+<font color="#ff88cc">＞うむむ。<br>
+＞なんだか入り組んで来ているような・・・</font><br>
 <br>
-<font color="#cc88ff">&gt;���āB�ǂ�ȂƂ���ɂ��b�𗎂Ƃ�����ŗ����邩�����҂��Ă܂��B���������o��l�������͕��G�Ɏv�����������Ă����ł�����ˁB</font><br>
+<font color="#cc88ff">&gt;さて。どんなところにお話を落とし込んで来られるかを期待してます。けっこう登場人物たちは複雑に思いが交錯してそうですからね。</font><br>
 <br>
-�͂��A���̓���g�񂾕��G�Ȏ��Ԃ�����̍ŏI�b�ɂ����Ď�������E�E�E�\��ł��B�ߓ����ɔ��\�̉^�тƂȂ�܂��̂ŁA���y���݂ɂ��Ă��ĉ������B<br>
+はい、この入り組んだ複雑な事態が次回の最終話において収束する・・・予定です。近日中に発表の運びとなりますので、お楽しみにしていて下さい。<br>
 <br>
-<font color="#ff88cc">���Ƃ���ŁA�����b�Z�����Ĉ�́E�E�E�H</font><br>
+<font color="#ff88cc">＞ところで、リュッセルって一体・・・？</font><br>
 <br>
-�t�t�t�E�E�E�i�܏΁j�E�E�E�ނ͂����̗V���̋�V���l�ł���E�E�E<br>
-�E�E�E���āA�ނ̈ӊO�Ȑ��̂́A����Ŗ��炩�ɂȂ邱�Ƃł��傤�i�΁j<br>
+フフフ・・・（含笑）・・・彼はただの遊民の吟遊詩人ですよ・・・<br>
+・・・って、彼の意外な正体は、次回で明らかになることでしょう（笑）<br>
 <br>
-�E�E�E���ŁA�����łŉ��M���܂����u�w�i�����v�ł����A�ǎ҂̊F�l�͂����ɂȂ��Ă���̂��낤���E�E�E�H<br>
-�A���ɁE�E�E�F�X�ƕ����炵�������U��΂߂Ēu�����̂ŁA�ǂ�Ŋy����Œ����Ă���Ɨǂ��̂ł����E�E�E<br>
+・・・所で、改訂版で加筆しました「背景説明」ですが、読者の皆様はご覧になっているのだろうか・・・？<br>
+アレに・・・色々と伏線らしき物を散りばめて置いたので、読んで楽しんで頂けていると良いのですが・・・<br>
 <br>
-<font color="#cc88ff">&gt;���������A���ꂾ���傫�Ȑ��E��n��ꂽ�̂ɁA���ꂪ�I����Ă��܂Ȃ�āA������Ǝ₵���悤�ȋC�����ł��B</font><br>
+<font color="#cc88ff">&gt;せっかく、これだけ大きな世界を創られたのに、物語が終わってしまなんて、ちょっと寂しいような気持ちです。</font><br>
 <br>
-�E�E�E���S�z�Ȃ����̎s��l�A�u�e�̋R�m�v�̕���ƂȂ郁���e���A���E�̕���́A������\�����Ē����Ă��܂����A����̃X�g�b�N�������ł���B���ɂɌf�ڂ����Ē����Ă��镨�Ƃ��ẮE�E�E<br>
-�u�e�̋R�m�v����200�N�΂���Ȍ�̕��ꂪ�A�u���̓��̕���v�ł���A<br>
-�u�e�̋R�m�v����700�N�΂���Ȍ�̕��ꂪ�A�u������l�̓��̓��̕���v�ɂȂ�܂��B<br>
-������낵����΁A����ǂ������߂܂��B�i�]�v�Ȃ��߉�Ȃ̂����m��܂��񂪁E�E�E�j<br>
+・・・ご心配なくこの市場様、「影の騎士」の舞台となるメレテリア世界の物語は、幾つか発表させて頂いていますし、物語のストックもあるんですよ。文庫に掲載させて頂いている物としては・・・<br>
+「影の騎士」から200年ばかり以後の物語が、「虹の瞳の物語」であり、<br>
+「影の騎士」から700年ばかり以後の物語が、「もう一人の虹の瞳の物語」になります。<br>
+もしよろしければ、ご一読をお勧めます。（余計なお節介なのかも知れませんが・・・）<br>
 <br>
-<font color="#cc88ff">&gt;���āA���񂷂݂܂���A���b�̏d���̋��Ȃ̂ł����c�c�B<br>
-&gt;&gt;�u�ӂ��A�����c�c�������Ȃ���A�A��Ȃ��Ȃ��B���ƋM���̒��ł͂���܂��񂩁B�v<br>
-&gt;���̏ꍇ�͕������\�L�́u��Ȃ��v�ł͂Ȃ��ł��傤���B<br>
-&gt;&gt;�@�����͓�������̈ꎺ�A����㋉�R�m�̎����\�\<br>
-&gt;&gt;�u�c�c�����Ɍ����Ă���悤���ȁB�v<br>
-&gt;�u�s���Ă���v�Ȃ����͕������\�L�ł���ˁc�c�B</font><br>
+<font color="#cc88ff">&gt;さて、今回すみません、七話の重箱の隅なのですが……。<br>
+&gt;&gt;「ふぅ、やれやれ……何時もながら、連れないなぁ。私と貴女の仲ではありませんか。」<br>
+&gt;この場合は平仮名表記の「つれない」ではないでしょうか。<br>
+&gt;&gt;　そこは同じ王城の一室、ある上級騎士の私室——<br>
+&gt;&gt;「……順調に言っているようだな。」<br>
+&gt;「行っている」ないしは平仮名表記ですよね……。</font><br>
 <br>
-�E�E�E���J�E�E�E�ꉞ�A�뎚���Ȃ����ڂ�ʂ��Ă������Ȃ�ł����E�E�E�E�E�E</font>
+・・・あ゛・・・一応、誤字がないか目を通していた筈なんですが・・・・・・</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[127]</font> <font size=4 color=#40c0c0> �x���Ȃ�܂������A�Z�b�Ǝ��b�@�Ǘ��ł�</font>
+<font size=2>[127]</font> <font size=4 color=#40c0c0> 遅くなりましたが、六話と七話　読了です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/28 (��) 18:21:26 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303285182126&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303285182126"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/28 (金) 18:21:26 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303285182126_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200303285182126"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����c���Ƃ���͌㏭���ł悩�����̂ł���ˁB���āB�ǂ�ȂƂ���ɂ��b�𗎂Ƃ�����ŗ����邩�����҂��Ă܂��B���������o��l�������͕��G�Ɏv�����������Ă����ł�����ˁB�����B�ǂ�Ȃ��ƂɂȂ�܂����B<br>
+<font size=3 color=#606060>もう残すところは後少しでよかったのですよね。さて。どんなところにお話を落とし込んで来られるかを期待してます。けっこう登場人物たちは複雑に思いが交錯してそうですからね。ええ。どんなことになりますやら。<br>
 <br>
-���āA���񂷂݂܂���A���b�̏d���̋��Ȃ̂ł����c�c�B<br>
+さて、今回すみません、七話の重箱の隅なのですが……。<br>
 <br>
-<font color="#cc88ff">&gt;�u�ӂ��A�����c�c�������Ȃ���A�A��Ȃ��Ȃ��B���ƋM���̒��ł͂���܂��񂩁B�v</font><br>
+<font color="#cc88ff">&gt;「ふぅ、やれやれ……何時もながら、連れないなぁ。私と貴女の仲ではありませんか。」</font><br>
 <br>
-���̏ꍇ�͕������\�L�́u��Ȃ��v�ł͂Ȃ��ł��傤���B<br>
+この場合は平仮名表記の「つれない」ではないでしょうか。<br>
 <br>
-<font color="#cc88ff">&gt;�@�����͓�������̈ꎺ�A����㋉�R�m�̎����\�\<br>
-&gt;�u�c�c�����Ɍ����Ă���悤���ȁB�v</font><br>
+<font color="#cc88ff">&gt;　そこは同じ王城の一室、ある上級騎士の私室——<br>
+&gt;「……順調に言っているようだな。」</font><br>
 <br>
-�u�s���Ă���v�Ȃ����͕������\�L�ł���ˁc�c�B<br>
+「行っている」ないしは平仮名表記ですよね……。<br>
 <br>
-���ׂȏ��Ő\���킯����܂���B�����ڂɂ��Ă��܂��܂������̂Łc�c�B<br>
+些細な所で申しわけありません。ついつい目についてしまいましたもので……。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yamu">
@@ -328,16 +328,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yamu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yamu">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yamu.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

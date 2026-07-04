@@ -96,7 +96,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ラストに出てきた名前に激しく反応した貴方っ！　あれのファンですねっ！（笑）<br>
-<a href=http://ts.novels.jp/novel/corrector/foster17.html target=_top>http://ts.novels.jp/novel/corrector/foster17.html</a></font>
+<a href="../../novel/corrector/foster17.html" target=_top>http://ts.novels.jp/novel/corrector/foster17.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -194,7 +194,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 そう、この瞬間、歴史は動いたのだ！<br>
 <br>
-<a href=http://ts.novels.jp/novel/corrector/foster16.html target=_top>http://ts.novels.jp/novel/corrector/foster16.html</a></font>
+<a href="../../novel/corrector/foster16.html" target=_top>http://ts.novels.jp/novel/corrector/foster16.html</a></font>
 </td></table>
 </td></tr></table>
 

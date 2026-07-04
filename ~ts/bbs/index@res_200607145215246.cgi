@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,38 +15,38 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="Q4i1wxq5Pa">
 <input type=hidden name="res" value="1893">
-<h4 align=center>�� �L���ԍ� 1893 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 1893 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�C�x���g�u�s's���g���������v�J�Â̂��m�点"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �l�n�m�c�n@�^�c�ψ�����
-&gt; �@����΂�́B���N�������ɉ^�c�ψ��̂l�n�m�c�n�ł��B
-&gt; �@�������������Ă��܂����A�F�l�ɂ͂܂��܂������h�ɂĂ��߂����̂��ƂƑ����܂��B
-&gt; �@���f�͖{�T�C�g�������ځA�������Ă��������܂��āA�������\���グ�܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:イベント「Ｔ's☆Ｈｅａｒｔ」開催のお知らせ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ＭＯＮＤＯ@運営委員さん
+&gt; 　こんばんは。少年少女文庫運営委員のＭＯＮＤＯです。
+&gt; 　暑い日が続いていますが、皆様にはますますご清栄にてお過ごしのことと存じます。
+&gt; 　平素は本サイトをご愛顧、応援していただきまして、厚く御礼申し上げます。
 &gt; 
-&gt; �@���āA�ȑO������E�������Ă��܂����f���C�x���g�u�s's���g���������v�ł����A�����ɎQ���҂̕�W�����m�������܂��B
-&gt; �@�C�x���g�̓��e�́A�u����̃C�x���g�p�ɐݒ肵���L�����N�^�[����������āA�ˋ�̍��Z�𕑑�ɁA�s�r���������̓���i�H�j�Ƃӂꂠ����`�����X�g�[���[���A�Q���҂݂�ȂŊy���݂Ȃ���i�y���܂��Ȃ���j���グ�Ă����v�Ƃ������̂ł��B
-&gt; �@���킵���́A�u�s's���g���������v���C���y�[�W���������������B
+&gt; 　さて、以前から企画・準備していました掲示板イベント「Ｔ's☆Ｈｅａｒｔ」ですが、ここに参加者の募集を告知いたします。
+&gt; 　イベントの内容は、「今回のイベント用に設定したキャラクターを持ち寄って、架空の高校を舞台に、ＴＳっ娘たちの日常（？）とふれあいを描いたストーリーを、参加者みんなで楽しみながら（楽しませながら）作り上げていく」というものです。
+&gt; 　くわしくは、「Ｔ's☆Ｈｅａｒｔ」メインページをご覧ください。
 &gt; 
-&gt; �@http://ts.novels.jp/novel/200112/20210702/tsheart.htm
+&gt; 　http://ts.novels.jp/novel/200112/20210702/tsheart.htm
 &gt; 
-&gt; �@�Q���҂̕�W�́A�V�^�P�S�i���j�̂Q�Q�F�O�O����A�V�^�Q�V�i�؁j�̂Q�S�F�O�O�܂ł�\�肵�Ă��܂��B
-&gt; �@�F�l�̂��Q�����A�S��肨�҂����Ă���܂��B</textarea><br>
+&gt; 　参加者の募集は、７／１４（金）の２２：００から、７／２７（木）の２４：００までを予定しています。
+&gt; 　皆様のご参加を、心よりお待ちしております。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -62,8 +62,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2236]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> Shestdesyat</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 04:42:15  <a href="mailto:jyfpose@hotmail.com">Shestdesyat</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193044215">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193044215"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 04:42:15  <a href="mailto:jyfpose@hotmail.com">Shestdesyat</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193044215.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193044215"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>Nice site. Thank you.<br>
@@ -78,8 +78,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2235]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> phentermine</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 04:23:33  <a href="mailto:lee972@email.com">Lee</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193042333">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193042333"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 04:23:33  <a href="mailto:lee972@email.com">Lee</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193042333.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193042333"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>Great work! Your web site is helpful, Keep it up!  http://phentermine1us1us.blogspot.com phentermine</font>
@@ -93,8 +93,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2234]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> 401 buy cheap phentermine</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 03:50:43  <a href="mailto:zujlrp@hotmail.com">401 buy cheap phentermine</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193035043">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193035043"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 03:50:43  <a href="mailto:zujlrp@hotmail.com">401 buy cheap phentermine</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193035043.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193035043"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>Good site. Thank you:-)<br>
@@ -111,8 +111,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2233]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> online roulette</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 03:28:31  <a href="mailto:bxmjvz@hotmail.com">online roulette</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193032831">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193032831"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 03:28:31  <a href="mailto:bxmjvz@hotmail.com">online roulette</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193032831.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193032831"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>Good site. Thank you.<br>
@@ -126,18 +126,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2232]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> ���낻��A</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2232]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> そろそろ、</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 03:22:15  <a href="mailto:misa@lung.com">�݂���</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193032215">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193032215"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 03:22:15  <a href="mailto:misa@lung.com">みさえ</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193032215.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193032215"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�ł���ˁB<br>
+<font size=4 color=#000000>ですよね。<br>
 <br>
 <a href=http://movie.bbs69.net/ target=_top>http://movie.bbs69.net/</a><br>
 <br>
-�݂�Ȃ͂ǂ��ł����H�H�H<br>
+みんなはどうですか？？？<br>
 </font>
 <p><div align=left><a href="http://movie.bbs69.net/" target="_top">http://movie.bbs69.net/</a></div>
 </td></table>
@@ -149,8 +149,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2231]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> guitar</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 02:55:06  <a href="mailto:hsrtj@hotmail.com">guitar</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193025506">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193025506"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 02:55:06  <a href="mailto:hsrtj@hotmail.com">guitar</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193025506.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193025506"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>Cool site. Thanks:-)<br>
@@ -165,8 +165,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2230]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> Buy Phentermine</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 02:41:09  <a href="mailto:polina.merina@maill.com">Buy Phentermine</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193024109">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193024109"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 02:41:09  <a href="mailto:polina.merina@maill.com">Buy Phentermine</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193024109.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193024109"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>privet potsani<br>
@@ -182,8 +182,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2229]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> best free online casino</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 02:26:46  <a href="mailto:ifsxt@hotmail.com">best free online casino</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193022646">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193022646"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 02:26:46  <a href="mailto:ifsxt@hotmail.com">best free online casino</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193022646.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193022646"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>Very good site. Thanks:-)<br>
@@ -200,8 +200,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2228]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> titipechashaloya</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 02:15:26  <a href="mailto:jaime.wood@gmail.com">Jaime Wood</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193021526">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193021526"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 02:15:26  <a href="mailto:jaime.wood@gmail.com">Jaime Wood</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193021526.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193021526"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>Cool!.. Nice work...<br>
@@ -216,8 +216,8 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2227]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> &lt;Title&gt;</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/07/19 (��) 00:51:17  <a href="mailto:mmailstyp@yahoo.net">Robert</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200607193005117">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607193005117"></font>
+<font size="-1" color="#606060"> 2006/07/19 (水) 00:51:17  <a href="mailto:mmailstyp@yahoo.net">Robert</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200607193005117.cgi">返信</a>　削除<input type=checkbox name="target" value="200607193005117"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>Hello. nice site! &lt;a href="http://ipoo.org/6z4n"&gt;buy xanax online&lt;/a&gt; [url=<a href=http://ipoo.org/6z4n target=_top>http://ipoo.org/6z4n</a>]buy xanax online[/URL] &lt;a href="http://ipoo.org/1i6s"&gt;buy xanax&lt;/a&gt; [url=<a href=http://ipoo.org/1i6s target=_top>http://ipoo.org/1i6s</a>]buy xanax[/URL] &lt;a href="http://ipoo.org/4ewg"&gt;cheap adipex&lt;/a&gt; [url=<a href=http://ipoo.org/4ewg target=_top>http://ipoo.org/4ewg</a>]cheap adipex[/URL] &lt;a href="http://ipoo.org/5l20"&gt;cheap cialis&lt;/a&gt; [url=<a href=http://ipoo.org/5l20 target=_top>http://ipoo.org/5l20</a>]cheap cialis[/URL] &lt;a href="http://ipoo.org/0mhf"&gt;generic viagra&lt;/a&gt; [url=<a href=http://ipoo.org/0mhf target=_top>http://ipoo.org/0mhf</a>]generic viagra[/URL]</font>
@@ -227,7 +227,7 @@ link<input type=checkbox name="link" value="1" checked>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -235,16 +235,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

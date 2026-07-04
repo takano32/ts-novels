@@ -1,44 +1,44 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���̎s�ꂳ���i�@���z�f����</title>
+<title>この市場さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���̎s�ꂳ���i�@���z�f����</font>
+<font size=5>この市場さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="konoichiba">
 <input type=hidden name="nj" value="SsE27uhgUn">
 <input type=hidden name="res" value="233">
-<h4 align=center>�� �L���ԍ� 233 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 233 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���w�V�čc���̑�`���E���ʕҁx"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �i�E�e����
-&gt; ���C�Ȃ�����̂ЂƃR�}�B�c�c�̂͂��B�͂��Ȃ̂ɁB�Ȃ�ł���Ȃɏ΂����ł�����(^^
-&gt; ���Ȃ��Ƃ��A���ӊ��Ƃ͖��������ŉ����ł��ˁB
-&gt; ���A�ł����z�_���X�p�[�g�i�[���C�ɂȂ邩���B�j���[���Ē��g�ł��������H
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:＞『新米皇女の大冒険・特別編』"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ Ｊ・Ｆさん
+&gt; 何気ない日常のひとコマ。……のはず。はずなのに。なんでこんなに笑えるんでせうか(^^
+&gt; 少なくとも、倦怠期とは無縁そうで何よりですね。
+&gt; あ、でも仮想ダンスパートナーが気になるかも。ニルゼンて長身でしたっけ？
 &gt; 
 &gt; 
-&gt; ����җ\�z
-&gt; �{���E�t���[�t�@�A�΍R�E�G���I���R���A�匊�E�j���[�����ĂƂ��łǂ��ł��傤�i�΁j</textarea><br>
+&gt; ＞作者予想
+&gt; 本命・フラーファ、対抗・エリオン３世、大穴・ニルゼンってとこでどうでしょう（笑）</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -51,35 +51,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[245]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> |�E_�E) ���A����́E�E�E</font>
+<font size=2>[245]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> |・_・) こ、これは・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/21 (��) 05:07:13 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305213050713&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305213050713"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/21 (水) 05:07:13 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305213050713_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305213050713"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ς�A������(�E�́E) ��!!�ȁB<br>
-���̂ق�킩�������C���A���ށB<br>
-�N�I������ɂ����������ƌ�����ƁA�j��͔��Q�ȋC������B<br>
-�ɂ��Ă��A�����̂��ƂȂ���A�d�����{�����D���ȃN�I���������ăE�u�Ȃ̂��E�u����Ȃ��̂������ς�킩���łȁB</font>
+<font size=3 color=#606060>やっぱり、すごく(・∀・) ｲｲ!!な。<br>
+このほんわかすぎる空気が、うむ。<br>
+クオンたんにおじいちゃんと言われると、破壊力抜群な気がする。<br>
+にしても、いつものことながら、妖しい本がお好きなクオンちゃんってウブなのかウブじゃないのかさっぱりわからんでつな。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[244]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ��̃V���[�Y�̑�3��</font>
+<font size=2>[244]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 例のシリーズの第3巻</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/21 (��) 01:17:55 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305213011755&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305213011755"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/21 (水) 01:17:55 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305213011755_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305213011755"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���āA�܂��߂Ȃ̂��A�Ȃ�Ȃ̂��(��)�B<br>
-���ς�炸�A���_�[���C�������Ă��ł��ˁB���[��B<br>
+<font size=3 color=#606060>って、まじめなのやら、なんなのやら(笑)。<br>
+相変わらずアンダーライン引いてるんですね。うーん。<br>
 <br>
-���������B16�΂ł����B�Ⴂ���Ă����Ȃ�(���Ђ���)�B�ł��A16�ł��ꂾ���E�u�Ȃ͉̂ʂ����Ăǂ��Ȃ�ł��傤���B�܂��A�j���[���ւ̈ӎ��������ɕς���Ă��Ă�悤�ł����B����͂���Ō����܂��傤��<br>
-�~�������΁A�j���ł̑����̈ꖋ�������Ă��悩�������Ȃ��A�Ȃ�ĉߓx�Ȋ��҂����Ă��܂��܂������ǁA���������璷���Ȃ��Ă��܂��܂����̂� (^_^;) �B<br>
+そっかぁ。16歳ですか。若いっていいなぁ(おひおひ)。でも、16であれだけウブなのは果たしてどうなんでしょうか。まあ、ニルゼンへの意識も順調に変わってきてるようですし。それはそれで見守りましょう♪<br>
+欲を言えば、祝宴での騒ぎの一幕もあってもよかったかなぁ、なんて過度な期待もしてしまいましたけど、そうしたら長くなってしまいますものね (^_^;) 。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -87,18 +87,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[243]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[243]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/21 (��) 01:03:05 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305213010305&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305213010305"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/21 (水) 01:03:05 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305213010305_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305213010305"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v����ɑ����̊猩�����ɁA�ޏ��̒a�����ɂ������Ă���Ă����A�c���̕���ł��ȁi���j�B<br>
-�܂��A�l������������[�����܂łł����i�΁j�B<br>
-�ł��A�c���Ƒ��̉�b���ق̂ڂ̂��Ă��Ă����ł��˂��B�Ǘ���ɐS�̉��̕����ق�킩�ƒg�����Ȃ�܂�����B<br>
-�N�I���́u�C�ɂȂ�l�v���ł܂��Ă��������ł��ˁB���̂�������Ȍ��������������肷��̂��낤���i������ƃv���b�V���[�������Ă݂�E�E�E�΁j�B<br>
-�悩�����ł��B<br>
+<font size=3 color=#606060>要するに孫娘の顔見たさに、彼女の誕生日にかこつけてやってきた、祖父の物語ですな（爆）。<br>
+まあ、人騒がせっちゃーそこまでですが（笑）。<br>
+でも、祖父と孫の会話がほのぼのしていていいですねぇ。読了後に心の奥の方がほんわかと暖かくなりましたよ。<br>
+クオンの「気になる人」も固まってきた感じですね。そのうち盛大な結婚式があったりするのだろうか（しれっとプレッシャーをかけてみる・・・笑）。<br>
+よかったです。<br>
 </font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
@@ -107,103 +107,103 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[242]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �w�V�čc���̑�`���E���ʕҁ@(2)�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[242]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 『新米皇女の大冒険・特別編　(2)』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/21 (��) 00:40:32 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305213004032&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305213004032"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/21 (水) 00:40:32 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305213004032_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305213004032"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�����Ƃ����ǂ��l�̐e�B�Ƃ���ŃN�I���́u��̖{�v�����������C�ɓ���̂悤�ł���(��)<br>
+<font size=3 color=#606060>【推薦文】魔王といえども人の親。ところでクオンは「例の本」がいたくお気に入りのようですが(笑)<br>
 <br>
-<a href=http://ts.novels.jp/novel/200211/08013548/kuon27.html target=_top>http://ts.novels.jp/novel/200211/08013548/kuon27.html</a></font>
+<a href="../../novel/200211/08013548/kuon27.html" target=_top>http://ts.novels.jp/novel/200211/08013548/kuon27.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[241]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[241]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/17 (�y) 10:28:02 <strong>��</strong> ���̎s�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305176102802&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305176102802"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/17 (土) 10:28:02 <strong>▽</strong> この市場 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305176102802_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305176102802"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">������삳��</font><br>
-�V�čc���̓m�������œ˂���������i�ł��̂ŁA�ʂ��œǂ܂��ƒp���������ł��`(��)<br>
-�A���ɂ��ẮA������l���ɂȂ��Ă��炢�����Ǝv���܂��B<br>
-���̂܂܂ł͖ڂ����Ȃ����Ă��킢�����ŁB</font>
+<font size=3 color=#606060><font color="#ff88cc">＞日比野さま</font><br>
+新米皇女はノリだけで突っ走った作品ですので、通しで読まれると恥ずかしいです〜(汗)<br>
+アルについては、いつか主人公になってもらいたいと思います。<br>
+あのままでは目だたなすぎてかわいそうで。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[240]</font> <font size=4 color=#40c0c0> �O�̍�i����S���ǂ݂܂����B</font>
+<font size=2>[240]</font> <font size=4 color=#40c0c0> 前の作品から全部読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/16 (��) 19:40:05 <strong>��</strong> ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305165194005&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305165194005"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/16 (金) 19:40:05 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305165194005_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305165194005"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�O�X����A���̎s�ꂳ��̍�i�͓ǂ����ǂ����Ǝv���Ă���܂����B<br>
-�Ȃ�Ƃ����Ă��A�����X�s�[�h���n���p����Ȃ��̂͂킩���Ă���܂�������B<br>
-���������Ԃ��Ȃ������B<br>
-�ł��A��������ň�C�ɑS���ǂ݂܂����B<br>
+<font size=3 color=#606060>前々から、この市場さんの作品は読もう読もうと思っておりました。<br>
+なんといっても、書くスピードがハンパじゃないのはわかっておりましたから。<br>
+しかし時間がなかった。<br>
+でも、昨日今日で一気に全部読みました。<br>
 <br>
-�܂��͐V�čc���̑�`���̊��z���B<br>
-���ɂ������������Ƃ��A�ǂ�ł��Ĉ����O���܂���ł����B�~�܂�Ȃ��Ȃ��đ�ςł����B<br>
-�����A�F��ȓW�J���҂��Ă���́A�o��l���̃L��������������̂ŁA��ɏΊ�œǂ�ł���܂����i���X�g�܂ł��j�B<br>
-���₢��A���ꂱ���R���f�B�I���Ďv�����i�ł�����B<br>
-�����Č������Ƃ��Ȃ���ł����A�����Ď��I�ȉ䂪�܂܂������Ƃ�����A�A���ƃN�I���ɂ���������Ɖ��������ė~�����������Ƃł��ˁB<br>
-����A�N�I���͂������D���Ȃ�ł����ǁA�A�����D���ȃL�����ł����̂ŁB<br>
+まずは新米皇女の大冒険の感想を。<br>
+第一にすごかったことが、読んでいて一回も飽きませんでした。止まらなくなって大変でした。<br>
+もう、色んな展開が待っているの、登場人物のキャラがすごいんので、常に笑顔で読んでおりました（ラストまでも）。<br>
+いやいや、これこそコメディ！って思える作品でしたよ。<br>
+しいて言うこともないんですが、敢えて私的な我がままをいうとしたら、アルとクオンにもうちょっと何かあって欲しかったことですね。<br>
+いや、クオンはもちろん好きなんですけど、アルも好きなキャラでしたので。<br>
 <br>
-�V�ď��_�̑�`���́A��������҂�����W�J�ł��ˁB<br>
-�����o���o���S�҂��ɂ��Ă���܂��̂ŁA����΂��Ă��������I</font>
+新米女神の大冒険は、今後を期待させる展開ですね。<br>
+もうバリバリ心待ちにしておりますので、がんばってください！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[239]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[239]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/16 (��) 07:55:49 <strong>��</strong> ���̎s�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305165075549&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305165075549"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/16 (金) 07:55:49 <strong>▽</strong> この市場 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305165075549_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305165075549"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���Ђ̂ЂƂ���</font><br>
-���ꂳ�񂪑S���킩���Ă܂��̂ŁA����ɂł��������Ă��炤���Ƃɂ��܂��傤�B<br>
-�Ƒ��S������΂����ȏ�A�Ƃ��Ǝ����čs�����Ⴆ�Ƃ������\�Ȕ��z�������킯�ł����E�E�E(��)<br>
+<font size=3 color=#606060><font color="#ff88cc">＞ひのひとさま</font><br>
+お母さんが全部わかってますので、次回にでも説明してもらうことにしましょう。<br>
+家族全員が飛ばされる以上、家ごと持って行っちゃえという乱暴な発想だったわけですが・・・(笑)<br>
 <br>
-<font color="#ff88cc">���d�g�d������</font><br>
-���͑O����ł����͂ɂ������肾�����̂ł����B<br>
-�����ł͋C���t���Ȃ������ɕς���Ă��Ă�̂ł��傤���B<br>
-���������̂��Ă��ꂵ���ł��B<br>
+<font color="#ff88cc">＞電波妖精さま</font><br>
+実は前作より固い文章にしたつもりだったのですが。<br>
+自分では気が付かないうちに変わってきてるのでしょうか。<br>
+こういうのってうれしいです。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U����</font><br>
-���e�Ƃ��ِ��E�̏Z�l�Ƃ����킯�ł́E�E�E<br>
-�Е������ł��B<br>
-��N�͏����̒��啨�Ȃ̂ŁA�З؂������Ă���Ă���̂ł��傤�B</font>
+<font color="#ff88cc">＞ｍｋ８４２６さま</font><br>
+両親とも異世界の住人というわけでは・・・<br>
+片方だけです。<br>
+弟君は将来の超大物なので、片鱗を見せてくれているのでしょう。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[238]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[238]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/15 (��) 01:28:06 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305154012806&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305154012806"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/15 (木) 01:28:06 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305154012806_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305154012806"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����Ȃ��A����B<br>
-�Ƒ�����݂ňِ��E���[���A���e�����X�ِ��E�̏Z�l�������Ƃ́E�E�E�B<br>
-�����Ӗ��ŗ��؂�ꂽ�����ł��ˁB���������W�J�́A�D���ł����<br>
-���ɗ�ÂȒ킭�񂪂܂����������o���Ă܂��˂��B</font>
+<font size=3 color=#606060>いいなあ、これ。<br>
+家族ぐるみで異世界っつーか、両親が元々異世界の住人だったとは・・・。<br>
+いい意味で裏切られた感じですね。こういう展開は、好きですよ♪<br>
+妙に冷静な弟くんがまたいい味を出してますねぇ。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -211,39 +211,39 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[237]</font> <font size=4 color=#40c0c0> �ǂ�</font>
+<font size=2>[237]</font> <font size=4 color=#40c0c0> 読んだ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/15 (��) 00:32:26 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305154003226&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305154003226"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/15 (木) 00:32:26 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305154003226_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305154003226"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂Ƃ��Ă��G������B<br>
-���̂���͂Ȃ񂾂����Ȃ�Ă��āA�ǂ݂₷���ɉ����ď_�炩�����łĂ��Ă���C������Ȃ��B<br>
-�ǂ����낤�H</font>
+<font size=3 color=#606060>これはとっても萌え言語。<br>
+このごろはなんだかこなれてきて、読みやすさに加えて柔らかさがでてきている気がするなぁ。<br>
+どうだろう？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[236]</font> <font size=4 color=#40c0c0> �����ƁA�킯������̂�B��Ő��������</font>
+<font size=2>[236]</font> <font size=4 color=#40c0c0> ちゃんと、わけがあるのよ。後で説明するわ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/14 (��) 23:08:58 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200305143230858&log=konoichiba">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305143230858"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/14 (水) 23:08:58 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200305143230858_log_konoichiba.cgi">返信</a>　削除<input type=checkbox name="target" value="200305143230858"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�́[���B����l�B�킭�킭���Ȃ���҂��܂��c�c�c�c���āA�����Ȃ蕑��͑�ړ��ł����I�@�����A���񑩂����̂悤�ɓ{���̂悤�ɏ�݂����Ă���܂����B���|����Ă܂��B�Ƃ��ƈړ��Ƃ����ƁA�ӂƁA�I�Y�̖��@�g�����v�������ׂ�������܂������ǁA����͒P�ɓǎ҂̐��������ł��B<br>
-�Ȃ�ƂȂ��A����l�̃Z���t�̒[�X�ɋC�ɂȂ�L�[���[�h�������B�ꂵ�Ă܂����ǁc�c���͂��܂�]�v�Ȃ��Ƃ��l�����ɁA�f���ɑ������y���݂Ȃ̂ł��B�͂��B<br>
-���s�V�ǂ����đ҂��Ă��܂��B�͂��B<br>
+<font size=3 color=#606060>はーい。お母様。わくわくしながら待ちます…………って、いきなり舞台は大移動ですか！　もう、お約束も嵐のように怒濤のように畳みかけてくれますし。圧倒されてます。家ごと移動というと、ふと、オズの魔法使いを思い浮かべたりもしましたけど、これは単に読者の世迷い言です。<br>
+なんとなく、お母様のセリフの端々に気になるキーワードが見え隠れしてますけど……今はあまり余計なことを考えずに、素直に続きが楽しみなのです。はい。<br>
+お行儀良くして待っています。はい。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="konoichiba">
@@ -251,16 +251,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="konoichiba">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=konoichiba">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_konoichiba.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

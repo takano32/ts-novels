@@ -274,7 +274,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】おそらくテキストでは文庫史上最大の作品——もちろん面白さも一級品！　ひとりひとりが持つ未来の可能性を守るため、魔法少女♪奈里佳に変身＆変心する克哉くん…………に、幸あれ（笑）。<br>
-<a href=http://ts.novels.jp/novel/200102/21223944/narika03.html target=_top>http://ts.novels.jp/novel/200102/21223944/narika03.html</a></font>
+<a href="../../novel/200102/21223944/narika03.html" target=_top>http://ts.novels.jp/novel/200102/21223944/narika03.html</a></font>
 </td></table>
 </td></tr></table>
 

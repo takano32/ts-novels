@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����[�����@�f����</title>
+<title>リレー小説　掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����[�����@�f����</font>
+<font size=5>リレー小説　掲示板</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080><B><FONT SIZE=+1>�����[�����̃��C�^�[�̕�W���A2003.5.30�ɏI���v���܂����B</FONT></B><br>���ҏW�ӔC�҂͂悵��������ł��B�Ǘ��͏��N�������ɂ��S�����Ă���܂��B<br></font>
+<font color=#608080><B><FONT SIZE=+1>リレー小説のライターの募集を、2003.5.30に終了致しました。</FONT></B><br>現編集責任者はよしおかさんです。管理は少年少女文庫が担当しております。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
@@ -15,34 +15,34 @@
 <input type=hidden name="log" value="relay_novel">
 <input type=hidden name="nj" value="Ukni7gyIWF">
 <input type=hidden name="res" value="102">
-<h4 align=center>�� �L���ԍ� 102 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 102 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:����A�Q�������ĉ������I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� snow����
-&gt; �Ԏ�������Ă��܂��A�\���󂠂�܂���B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:是非、参加させて下さい！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ snowさん
+&gt; 返事が送れてしまい、申し訳ありません。
 &gt; 
-&gt; �悵��������A���[�����肪�Ƃ��������܂����B
-&gt; �g������܂��̂������ŁA���S�����܂����B
-&gt; ��낵�����肢�������܂��B
+&gt; よしおかさん、メールありがとうございました。
+&gt; 暖かい励ましのおかげで、決心がつきました。
+&gt; よろしくお願いいたします。
 &gt; 
-&gt; �ԈႦ�āA������i�悵��������̃��A�h�j�ɎQ����]�̃��[���𑗂��Ă��܂��܂����c
-&gt; relaynovels@freeml.com�@�ɁA���߂ă��[�����Ă����܂��B</textarea><br>
+&gt; 間違えて、あちら（よしおかさんのメアド）に参加希望のメールを送ってしまいました…
+&gt; relaynovels@freeml.com　に、改めてメールしておきます。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 20 <strong>�ő�L�^�ێ���</strong> 200 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 20 <strong>最大記録保持数</strong> 200 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -55,33 +55,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[132]</font> <font size=4 color=#40c0c0> �����̃����[�ł���</font>
+<font size=2>[132]</font> <font size=4 color=#40c0c0> ここのリレーですが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/17 (��) 22:17:46 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308170221746&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308170221746"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/17 (日) 22:17:46 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308170221746_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200308170221746"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�T��������������Ɛi��ł��܂��B�ł��A������m���ɐi��ł��܂��̂ŁA���̓��ɂ��A�F�l�̌�O�ɂ������ł���Ǝv���܂��B<br>
-�i�x���Ă��݂܂���B�j</font>
+<font size=3 color=#606060>亀さんよりもゆっくりと進んでいます。でも、一歩ずつ確実に進んでいますので、いつの日にか、皆様の御前にお見せできると思います。<br>
+（遅くてすみません。）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[131]</font> <font size=4 color=#40c0c0> ����</font>
+<font size=2>[131]</font> <font size=4 color=#40c0c0> 続報</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/24 (��) 01:03:57 <strong>��</strong> <a href="mailto:shirou@pc.highway.ne.jp">���Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307244010357&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307244010357"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/24 (木) 01:03:57 <strong>▽</strong> <a href="mailto:shirou@pc.highway.ne.jp">死郎</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307244010357_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200307244010357"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���ɏ������b�ł����A���낻�늮���������Ȋ����B<br>
-�@���O���c��܂����ǁA���A���ɘb���i�s����̂�ǂ��Ă��ق����ʔ��������B�{���͎Q��<br>
-����̂���ԂȂ񂾂��ǁA�c��O�b�̍�����V�K�Q���͗��΂ɕ~�����������ȁc�c�B<br>
-�@�܂������������ꂽ���͎��̘b����ł����C�y�ɂǂ����B�s�r�Șb�ɂȂ�Ƃ͌���܂���<br>
-���B</font>
+<font size=3 color=#606060>　下に書いた話ですが、そろそろ完結しそうな感じ。<br>
+　ログも残りますけど、リアルに話が進行するのを追ってくほうが面白いっす。本当は参加<br>
+するのが一番なんだけど、残り三話の今から新規参入は流石に敷居が高いかな……。<br>
+　まあ興味を持たれた方は次の話からでもお気軽にどうぞ。ＴＳな話になるとは限りません<br>
+が。</font>
 <p><a href="http://home3.highway.ne.jp/~shirou/" target="_top">http://home3.highway.ne.jp/~shirou/</a>
 </td></table>
 </td></tr></table>
@@ -89,23 +89,23 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[130]</font> <font size=4 color=#40c0c0> ���Љ�</font>
+<font size=2>[130]</font> <font size=4 color=#40c0c0> ご紹介</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/02 (��) 04:31:58 <strong>��</strong> <a href="mailto:shirou@pc.highway.ne.jp">���Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307023043158&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307023043158"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/02 (水) 04:31:58 <strong>▽</strong> <a href="mailto:shirou@pc.highway.ne.jp">死郎</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307023043158_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200307023043158"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@������̊��̂ق��͐i��ł��ł��傤���B���O�҂Ȃ̂ł����ς茩���܂��񂪁B�Q��<br>
-�҂̊F�l�A�ǂ����b�����҂��Ă܂��B<br>
+<font size=3 color=#606060>　こちらの企画のほうは進んでるんでしょうか。部外者なのでさっぱり見えませんが。参加<br>
+者の皆様、良いお話を期待してます。<br>
 <br>
-�@���āB�����ɂ́w�����[�����x�ł͂Ȃ���ł����A����ɋ߂����m�̏Љ�Ƃ������ƂŁB<br>
+　さて。厳密には『リレー小説』ではないんですが、それに近いモノの紹介ということで。<br>
 <br>
 <a href=http://homepage2.nifty.com/MyaHome/kampo/baka/BakaStoryOnLine/index.html target=_top>http://homepage2.nifty.com/MyaHome/kampo/baka/BakaStoryOnLine/index.html</a><br>
 <br>
-�@�����Ō��ݐi��ł��邨�b���s�r�b�ɂȂ��Ƃ�܂��B����B�l�����������Â����񂾂��ǁB<br>
-�@�w�o�J����x�̌��ɂȂ��Ă���w�o�J�J�[�h�x�ɂ��Ēm�肽�����́A���̃T�C�g���Q��<br>
-���Ă��������܂��B<br>
+　ここで現在進んでいるお話がＴＳ話になっとります。いや。僕がそう方向づけたんだけど。<br>
+　『バカ物語』の元になっている『バカカード』について知りたい方は、下のサイトを参照<br>
+してくださいませ。<br>
 <br>
 <a href=http://dx.sakura.ne.jp/~yamata/bakacard/ target=_top>http://dx.sakura.ne.jp/~yamata/bakacard/</a></font>
 <p><a href="http://home3.highway.ne.jp/~shirou/" target="_top">http://home3.highway.ne.jp/~shirou/</a>
@@ -115,194 +115,194 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[112]</font> <font size=4 color=#40c0c0> �X�^�b�t��� No.3</font>
+<font size=2>[112]</font> <font size=4 color=#40c0c0> スタッフより No.3</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/30 (��) 07:38:02 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305305073802&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305305073802"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/30 (金) 07:38:02 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305305073802_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305305073802"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@kou�ł��B<br>
+<font size=3 color=#606060>　kouです。<br>
 <br>
-�@���C�^�[�ܐl�����܂����B��莟���񍐂܂Łi���j</font>
+　ライター五人揃いました。取り次ぎ報告まで（汗）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[111]</font> <font size=4 color=#40c0c0> ���悢��4�l�ڂ��E�E�E</font>
+<font size=2>[111]</font> <font size=4 color=#40c0c0> いよいよ4人目が・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/29 (��) 21:32:26 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305294213226&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305294213226"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/29 (木) 21:32:26 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305294213226_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305294213226"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Q����]�̕�������܂����B�c��͂��ƈ�l�E�E�E<br>
-��`��A�ǂ��ǂ����那</font>
+<font size=3 color=#606060>参加希望の方が現れました。残るはあと一人・・・<br>
+わ〜ん、どきどきするぅ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[109]</font> <font size=4 color=#40c0c0> �X�^�b�t��� No.3</font>
+<font size=2>[109]</font> <font size=4 color=#40c0c0> スタッフより No.3</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/28 (��) 22:02:17 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305283220217&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305283220217"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/28 (水) 22:02:17 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305283220217_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305283220217"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@kou�ł��B<br>
+<font size=3 color=#606060>　kouです。<br>
 <br>
-�@�Ȃ񂩁A�ӊO�ɂ����X�Ɛi��ł���܂��B�v�������A�v���ɂ��Ƃ��i�݂܂��i�΁j�B<br>
-�@����͂��Ă����A<FONT SIZE=+4>�c��Q���ł��I</FONT>�B�Q��������]�̕��́A<a href=mailto:relaynovels@freeml.com>relaynovels@freeml.com</a> �ɂ�낵���B</font>
+　なんか、意外にも着々と進んでおります。思ったより、迅速にことが進みます（笑）。<br>
+　それはさておき、<FONT SIZE=+4>残り２名です！</FONT>。参加をご希望の方は、<a href=mailto:relaynovels@freeml.com>relaynovels@freeml.com</a> によろしく。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[108]</font> <font size=4 color=#40c0c0> ���Ԏ����肪�Ƃ��������܂��B</font>
+<font size=2>[108]</font> <font size=4 color=#40c0c0> お返事ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/28 (��) 21:46:48 <strong>��</strong> ����� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305283214648&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305283214648"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/28 (水) 21:46:48 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305283214648_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305283214648"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�悵��������A�ӂ���Ƃ���A���肪�Ƃ��������܂��I<br>
-�������[���𑗂肽���Ǝv���܂��B�悵��������A�X�������肢���܂��B<br>
-�ӂ���Ƃ��񈶂ɂ����[���𑗂炳���Ē����܂��B���������肢���܂��ˁB</font>
+<font size=3 color=#606060>よしおかさん、ふらっとさん、ありがとうございます！<br>
+早速メールを送りたいと思います。よしおかさん、宜しくお願いします。<br>
+ふらっとさん宛にもメールを送らさせて頂きます。ご教授お願いしますね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[107]</font> <font size=4 color=#40c0c0> ����삳��B���v�ł���</font>
+<font size=2>[107]</font> <font size=4 color=#40c0c0> 日比野さん。大丈夫ですよ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/27 (��) 23:56:28 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305272235628&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305272235628"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/27 (火) 23:56:28 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305272235628_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305272235628"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u����(Subject)���������́A�p�����͂�����Ɩ��L����Ă��Ȃ��ꍇ�́A�E�C���X���[���A�������͖��f���[���Ƃ��ď��������̂ŁA�K���L�����Ă��������B�v<br>
+<font size=3 color=#606060>「件名(Subject)が無いもの、用件がはっきりと明記されていない場合は、ウイルスメール、もしくは迷惑メールとして処理されるので、必ず記入してください。」<br>
 <br>
-�Ƃ������ƂŁA�����ƁA�p����������Ă���΁A���v�ł��B�Ƃ������Ƃł���B���S���Ă��������B���Q�����҂����Ă���܂��B</font>
+ということで、件名と、用件を書かれていれば、大丈夫です。ということですよ。安心してください。ご参加お待ちしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[106]</font> <font size=4 color=#40c0c0> Re:����ł��I</font>
+<font size=2>[106]</font> <font size=4 color=#40c0c0> Re:質問です！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/27 (��) 23:54:23 <strong>��</strong> <a href="mailto:flat@zb.wakwak.com">�ӂ����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305272235423&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305272235423"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/27 (火) 23:54:23 <strong>▽</strong> <a href="mailto:flat@zb.wakwak.com">ふらっと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305272235423_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305272235423"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���E�B���X�΍�\�t�g</font><br>
-���[�����O���X�g�̎��𔲂��ɂ��Ă��A����Ă����������ǂ��ł���(��)<br>
-����͂��Ă����B<br>
-���̂Ƃ���͂��Ă���E�B���X�A�A�E�g���b�N�G�L�X�v���X�ɑ΂��Ĕ������镨���قƂ�ǂ̖͗l�ł��B<br>
-�����񂵂��ƒm���i�v���r���[�����Ȃ��A�I舂ɊJ���Ȃ����j��������΁A�e�Ղɔ����邱�Ƃ��ł��܂��B<br>
+<font size=3 color=#606060><font color="#ff88cc">＞ウィルス対策ソフト</font><br>
+メーリングリストの事を抜きにしても、入れておいた方が良いですよ(汗)<br>
+それはさておき。<br>
+今のところ届いているウィルス、アウトルックエキスプレスに対して反応する物がほとんどの模様です。<br>
+きちんしたと知識（プレビューをしない、迂闊に開かない等）さえあれば、容易に避けることができます。<br>
 <br>
-�܂��A�t���[�̃A���`�E�B���X�\�t�g�i���\�����\�j�������Ă݂�̂��ǂ������m��܂���B<br>
-���̓m�Ȃ񂩂�`���Ɠ]�����Ă��܂��B<br>
-�����Ƀ��[����������������A���̕ӂ���������v���܂����c�c�B</font>
+また、フリーのアンチウィルスソフト（結構高性能）を試してみるのも良いかも知れません。<br>
+窓の杜なんかを覗くと転がっています。<br>
+私宛にメールをいただけたら、その辺りもお教え致しますが……。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[105]</font> <font size=4 color=#40c0c0> ����ł��I</font>
+<font size=2>[105]</font> <font size=4 color=#40c0c0> 質問です！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/27 (��) 22:57:25 <strong>��</strong> ����� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305272225725&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305272225725"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/27 (火) 22:57:25 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305272225725_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305272225725"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Q�����Ă݂����ȁ[�A�Ƃ��˂Ă���v���Ă����̂ł����A��肪�����ĔY��ł���܂����B<br>
-����́A�����������ăE�C���X�΍�\�t�g�Ƃ����Ȃ����Ƃł��B<br>
-���߂̍��A���͉Ƒ��̃p�\�R���Ń��[���A�h���X�����J���Ă���܂������A���̂Ƃ��ɃE�C���X���[�����o�R�o�R���Ă��܂��܂����c�c�B<br>
-�Ƒ��̃p�\�R���̓E�C���X�΍􂪂��Ă��艽�Ƃ��Ȃ�܂������A���͎��O�Ȃ̂ł��B<br>
-���Ȃ݂ɉƑ��̃p�\�R���́A���͂����g���܂���B<br>
-�Q������Ȃ�ΊF����ɖ��f�����������Ȃ��ł����A��͂肠����߂邵���Ȃ��̂ł��傤���H</font>
+<font size=3 color=#606060>参加してみたいなー、とかねてから思っていたのですが、問題があって悩んでおりました。<br>
+それは、お金が無くてウイルス対策ソフトとかがないことです。<br>
+初めの頃、私は家族のパソコンでメールアドレスを公開しておりましたが、そのときにウイルスメールがバコバコ来てしまいました……。<br>
+家族のパソコンはウイルス対策がしてあり何とかなりましたが、今は自前なのです。<br>
+ちなみに家族のパソコンは、今はもう使えません。<br>
+参加するならば皆さんに迷惑をかけたくないですし、やはりあきらめるしかないのでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[104]</font> <font size=4 color=#40c0c0> �X�^�b�t���@No.2</font>
+<font size=2>[104]</font> <font size=4 color=#40c0c0> スタッフより　No.2</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/26 (��) 22:55:18 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305261225518&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305261225518"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/26 (月) 22:55:18 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305261225518_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305261225518"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@kou�ł��B<br>
+<font size=3 color=#606060>　kouです。<br>
 <br>
-�@��W�v�������������܂����B��W���Ԃ��������܂����B<br>
+　募集要項を書き換えました。募集期間を延長しました。<br>
 <br>
-�@�c�c�Ƃ����킯�ŁA���݂����C�^�[���X�I�ɕ�W���I�@������������́A<a href=mailto:relaynovels@freeml.com>relaynovels@freeml.com</a>�ɂǂ����I</font>
+　……というわけで、現在もライターを大々的に募集中！　興味がある方は、<a href=mailto:relaynovels@freeml.com>relaynovels@freeml.com</a>にどうぞ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[103]</font> <font size=4 color=#40c0c0> snow����B�������傤�Ԃł���</font>
+<font size=2>[103]</font> <font size=4 color=#40c0c0> snowさん。だいじょうぶですよ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/26 (��) 22:38:29 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305261223829&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305261223829"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/26 (月) 22:38:29 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305261223829_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305261223829"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Q�����Ă��������錏�B�A�����܂����B<br>
-��낵�����肢���܂��B</font>
+<font size=3 color=#606060>参加していただける件。連絡しました。<br>
+よろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[102]</font> <font size=4 color=#40c0c0> ����A�Q�������ĉ������I</font>
+<font size=2>[102]</font> <font size=4 color=#40c0c0> 是非、参加させて下さい！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/26 (��) 22:21:47 <strong>��</strong> <a href="mailto:snow@oni-3.net">snow</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305261222147&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305261222147"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/26 (月) 22:21:47 <strong>▽</strong> <a href="mailto:snow@oni-3.net">snow</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305261222147_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305261222147"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ԏ�������Ă��܂��A�\���󂠂�܂���B<br>
+<font size=3 color=#606060>返事が送れてしまい、申し訳ありません。<br>
 <br>
-�悵��������A���[�����肪�Ƃ��������܂����B<br>
-�g������܂��̂������ŁA���S�����܂����B<br>
-��낵�����肢�������܂��B<br>
+よしおかさん、メールありがとうございました。<br>
+暖かい励ましのおかげで、決心がつきました。<br>
+よろしくお願いいたします。<br>
 <br>
-�ԈႦ�āA������i�悵��������̃��A�h�j�ɎQ����]�̃��[���𑗂��Ă��܂��܂����c<br>
-<a href=mailto:relaynovels@freeml.com>relaynovels@freeml.com</a>�@�ɁA���߂ă��[�����Ă����܂��B</font>
+間違えて、あちら（よしおかさんのメアド）に参加希望のメールを送ってしまいました…<br>
+<a href=mailto:relaynovels@freeml.com>relaynovels@freeml.com</a>　に、改めてメールしておきます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[101]</font> <font size=4 color=#40c0c0> snow����B�悵�����ł�</font>
+<font size=2>[101]</font> <font size=4 color=#40c0c0> snowさん。よしおかです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/26 (��) 06:35:51 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305261063551&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305261063551"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/26 (月) 06:35:51 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305261063551_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305261063551"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �薼�̒ʂ�A���͏������������o�����S�������̂ł����A<br>
-&gt; ����Ȏ��ł��Q������]���Ă���낵���̂ł��傤���H</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 題名の通り、私は小説を書いた経験が全く無いのですが、<br>
+&gt; こんな私でも参加を希望してもよろしいのでしょうか？</font><br>
 <br>
-���o���ł��A��������Ă݂����I�Ƃ��v���ł����犽�}���܂��B�ŏ��͒N�ł����o���ł�����B�킽���������[�������o���ł��B<br>
+未経験でも、何かやってみたい！とお思いでしたら歓迎します。最初は誰でも未経験ですから。わたしもリレー小説未経験です。<br>
 <br>
-��������ɂ��܂��񂩁H<br>
+いっしょにやりませんか？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -310,37 +310,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[100]</font> <font size=4 color=#40c0c0> ���o���҂ł��ǂ��ł����H</font>
+<font size=2>[100]</font> <font size=4 color=#40c0c0> 未経験者でも良いですか？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/26 (��) 00:37:42 <strong>��</strong> <a href="mailto:snow@oni-3.net">snow</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305261003742&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305261003742"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/26 (月) 00:37:42 <strong>▽</strong> <a href="mailto:snow@oni-3.net">snow</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305261003742_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305261003742"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���߂܂��āB<br>
-snow�Ɛ\���܂��B<br>
-�����A���N�������ɂ��y�����q�������Ă�����Ă��܂��B<br>
+<font size=3 color=#606060>初めまして。<br>
+snowと申します。<br>
+いつも、少年少女文庫を楽しく拝見させてもらっています。<br>
 <br>
-�薼�̒ʂ�A���͏������������o�����S�������̂ł����A<br>
-����Ȏ��ł��Q������]���Ă���낵���̂ł��傤���H</font>
+題名の通り、私は小説を書いた経験が全く無いのですが、<br>
+こんな私でも参加を希望してもよろしいのでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[98]</font> <font size=4 color=#40c0c0> �X�^�b�t���B</font>
+<font size=2>[98]</font> <font size=4 color=#40c0c0> スタッフより。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/24 (�y) 00:10:42 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305246001042&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305246001042"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/24 (土) 00:10:42 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305246001042_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305246001042"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�F�l�A�����(��)��(��)�́Bkou@�^�c�ψ��ł��B<br>
+<font size=3 color=#606060>　皆様、こんに(ば)ち(ん)は。kou@運営委員です。<br>
 <br>
-�@�����̂T������A�O�T�ԁA��W�����Ă�����ł����A�Q�������Ē�������́A�������Q���������܂���B<br>
-�@���̂��߁A����̑Ή��ɂ��āA�Q�U���܂ł͕�W���ԉ����Ƃ������j�ōs���܂��B�܂��A���̌�̕��j�́A�Q�U���܂łɌ��肵�A���`�����܂��B<br>
-�@�F�l�̂��Q�����A���҂����Ă��܂��B<br>
+　今月の５日から、三週間、募集をしてきた訳ですが、参加をして頂ける方は、たった２名しかいません。<br>
+　そのため、今後の対応について、２６日までは募集期間延長という方針で行きます。また、その後の方針は、２６日までに決定し、お伝えします。<br>
+　皆様のご参加を、お待ちしています。<br>
 <br>
 <a href=mailto:relaynovels@freeml.com>relaynovels@freeml.com</a></font>
 </td></table>
@@ -349,14 +349,14 @@ snow�Ɛ\���܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[96]</font> <font size=4 color=#40c0c0> �O�ɂ͔O������Ƃ������ƂŁE�E�E</font>
+<font size=2>[96]</font> <font size=4 color=#40c0c0> 念には念を入れろということで・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/23 (��) 06:44:28 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305235064428&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305235064428"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/23 (金) 06:44:28 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305235064428_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305235064428"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ƃ������ƂŁA��W�ɃR�����g����ꂳ���Ă��������܂����B<br>
+<font size=3 color=#606060>ということで、募集にコメントを入れさせていただきました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -364,52 +364,52 @@ snow�Ɛ\���܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[94]</font> <font size=4 color=#40c0c0> �����A�Ȃ�قǁE�E�E</font>
+<font size=2>[94]</font> <font size=4 color=#40c0c0> おお、なるほど・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/17 (�y) 17:50:32 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305176175032&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305176175032"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/17 (土) 17:50:32 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305176175032_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305176175032"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��W�|�X�^�[�ł��ˁB���ށA���݂܂��񔲂��ĂāE�E�ETT)</font>
+<font size=3 color=#606060>募集ポスターですね。うむ、すみません抜けてて・・・TT)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[93]</font> <font size=4 color=#40c0c0> �E�E�E</font>
+<font size=2>[93]</font> <font size=4 color=#40c0c0> ・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/17 (�y) 13:16:36 <strong>��</strong> ���̎s�ꁗ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305176131636&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305176131636"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/17 (土) 13:16:36 <strong>▽</strong> この市場＠嫌われ役 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305176131636_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305176131636"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ȑ厖�ȁu���肢�v���A�����ɏ������ނ����Ȃ̂ł����H<br>
-���ɏ����ׂ��Ƃ��낪����ł��傤�H<br>
-���������炱���ւ́A�����N���͂��Ă��Ȃ��̂ł���H</font>
+<font size=3 color=#606060>そんな大事な「お願い」を、ここに書きこむだけなのですか？<br>
+他に書くべきところがあるでしょう？<br>
+あそこからここへは、リンクがはられていないのですよ？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[92]</font> <font size=4 color=#40c0c0> ���肢�̏C���ł�</font>
+<font size=2>[92]</font> <font size=4 color=#40c0c0> お願いの修正です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/17 (�y) 10:25:21 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305176102521&log=relay_novel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305176102521"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/17 (土) 10:25:21 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305176102521_log_relay_novel.cgi">返信</a>　削除<input type=checkbox name="target" value="200305176102521"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̎s�ꂳ��B�\����Ȃ��B�����ł����B�����Ƃ����_��Y��Ă��܂����B<br>
+<font size=3 color=#606060>この市場さん。申し訳ない。そうでした。件名という点を忘れていました。<br>
 <br>
-�����̋L���̋L����K�����肢�������܂��B</font>
+件名の記入の記入を必ずお願いいたします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="21">
 <input type=hidden name="log" value="relay_novel">
@@ -417,16 +417,16 @@ snow�Ɛ\���܂��B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="relay_novel">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=relay_novel">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_relay_novel.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

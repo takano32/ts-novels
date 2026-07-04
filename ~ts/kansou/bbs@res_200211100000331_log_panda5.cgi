@@ -1,46 +1,46 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�p���_�T�����i�@���z�f����</title>
+<title>パンダ５さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�p���_�T�����i�@���z�f����</font>
+<font size=5>パンダ５さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="panda5">
 <input type=hidden name="nj" value="fiblCoJbIt">
 <input type=hidden name="res" value="31">
-<h4 align=center>�� �L���ԍ� 31 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 31 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�܂��܂��ǂ�ǂ�b�����͑傫���Ȃ�\��E�E�E�B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �ς񂾂T����
-&gt; ���z�����肪�Ƃ��������܂��B
-&gt; �Ђ̂ЂƂ���A���ꂩ��V�L�����������Ăǂ�ǂ񐷂�オ��i�E�E�E�ƁA�������ǁE�E�B�j
-&gt; �̂ŁA���҂��Ȃ��Ŋ��҂��Ă��������B
-&gt; ��������A�l�����ӌ��ł��B
-&gt; �ǂ����Ă��A�����̓��̒����܂��Q�O���I�Ȃ̂ŁE�E�E�B
-&gt; �}���K�Ƃ��ǂގ��ł��A�����̓��̒��ŏ����Â߂̐��D�𓖂Ă͂߂Ă��܂��E�E�E�B
-&gt; �������A�����̉e���Ńq���C���͑��A�ь��߂��݂Ƃ����R�q�������E�E�E�B
-&gt; ���̂܂܂���A���S�ɑO���I�̈╨�Ɖ����Ă��܂��I�I�I
-&gt; ���߂āA�݂�ށ[���炢�]���ϊ��ł���΁E�E�E����ł��A�܂��Â��ł����E�E�E�B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:まだまだどんどん話だけは大きくなる予定・・・。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ぱんだ５さん
+&gt; 感想をありがとうございます。
+&gt; ひのひとさん、これから新キャラも加えてどんどん盛り上がる（・・・と、いいけど・・。）
+&gt; ので、期待しないで期待してください。
+&gt; ｍｋさん、僕も同意見です。
+&gt; どうしても、自分の頭の中がまだ２０世紀なので・・・。
+&gt; マンガとか読む時でも、自分の頭の中で少し古めの声優を当てはめてしまう・・・。
+&gt; しかも、何かの影響でヒロインは大抵、林原めぐみとか横山智佐だし・・・。
+&gt; このままじゃ、完全に前世紀の遺物と化してしまう！！！
+&gt; せめて、みやむーくらい脳内変換できれば・・・それでも、まだ古いですか・・・。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -53,21 +53,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> ���z�����肪�Ƃ��B</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> 感想をありがとう。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/13 (��) 13:33:58 <strong>��</strong> <a href="mailto:panda5@crux.ocn.ne.jp">�ς񂾂T</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200302134133358&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302134133358"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/13 (木) 13:33:58 <strong>▽</strong> <a href="mailto:panda5@crux.ocn.ne.jp">ぱんだ５</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200302134133358_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200302134133358"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�m���ɁA�����W�S�Q�U����̌����Ƃ���A�q���̃L�����A���Ȃ�ς���Ă܂����ˁE�E�E�B<br>
-�ŏ��́A�ςȏ���Ƃɂ܂Ƃ��Ȓq���Ƃ����Δ䂷�邽�߂ɂ�����肪�A���̊Ԃɂ��^�A�j���̖^�q���C�����̂܂܂ɂȂ��Ă��܂����E�E�E�B<br>
+<font size=3 color=#606060>確かに、ｍｋ８４２６さんの言うとおり、智佐のキャラ、かなり変わってましたね・・・。<br>
+最初は、変な小拓とにまともな智佐という対比するためにするつもりが、いつの間にやら某アニメの某ヒロインそのままになってしまった・・・。<br>
 <br>
-���āA����������̂ق����܂Ƃ������E�E�E���Ċ����ɁE�E�E�B<br>
-���̂܂܂���A�X�g�[���[�̐ݒ�I�ɁA�������o���āA������ƃ��o�C�ł��B<br>
+って、いうか小拓のほうがまともじゃん・・・って感じに・・・。<br>
+このままじゃ、ストーリーの設定的に、矛盾が出来て、ちょっとヤバイです。<br>
 <br>
-�����Ȃ�����H���ύX���ăM���O�����ɐ�O���悤���B<br>
-�G�i�\��j�́A�閧���ЃK���g�����g�c�i�Q�P���I�Ƀi�`�X�h�C�c�𕜊��������j���A�����̊Ԕ����ȏW�c�ɂ��āE�E�E�B<br>
+こうなったら路線変更してギャグだけに専念しようか。<br>
+敵（予定）の、秘密結社ガルトラント団（２１世紀にナチスドイツを復活させる会）も、ただの間抜けな集団にして・・・。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -75,17 +75,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/12 (��) 22:52:36 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200302123225236&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302123225236"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/12 (水) 22:52:36 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200302123225236_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200302123225236"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A���ꂵ�͂��������o�Z�i�΁j�B<br>
-��������ؓ�ł͂����܂���˂��B<br>
-�Ƃ������A�q��������ȃL�����������Ȃ�āi���j�B<br>
-���̘b���C�ɂȂ邵�A����Ⴀ�������܂���ȁB</font>
+<font size=3 color=#606060>おお、うれしはずかし初登校（笑）。<br>
+しかし一筋縄ではいきませんねぇ。<br>
+というか、智佐がこんなキャラだったなんて（爆）。<br>
+夢の話も気になるし、こりゃあ見逃せませんな。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -93,49 +93,49 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> �wVS���k��@���̑�؂ȕ��i�O�ҁE���̎g���H���[�����C�̓�j�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> 『VS生徒会　俺の大切な物（前編・俺の使命？ローレライの謎）』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/10 (��) 23:20:37 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200302101232037&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302101232037"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/10 (月) 23:20:37 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200302101232037_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200302101232037"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���Ƀ������̖��O�����肵���I�@�c�c�ǁ[�����ŕ������悤�Ȗ��O�Ȃ�ł����A�C�̂����ł��傤�A������(��)<br>
+<font size=3 color=#606060>【推薦文】ついにレモンの名前が決定した！　……どーっかで聞いたような名前なんですが、気のせいでしょう、きっと(笑)<br>
 <br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smgirls_r04.html target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_r04.html</a></font>
+<a href="../../novel/200209/01010850/smgirls_r04.html" target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_r04.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> �w���̃p���_�T�s�r����x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> 『愛のパンダ５ＴＳ劇場』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/15 (��) 13:38:32 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200212150133832&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212150133832"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/15 (日) 13:38:32 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200212150133832_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200212150133832"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�u�r�l�K�[���Y�Z�N�T�h�[���i�v�V���[�Y�̃��~�b�N�X�o�[�W�����Ƃł��\���܂��傤���B�ǂ����ς�����̂���T���̂��������낢�����B<br>
+<font size=3 color=#606060>【推薦文】「ＳＭガールズセクサドールＪ」シリーズのリミックスバージョンとでも申しましょうか。どこが変わったのかを探すのもおもしろいかも。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smgirls_r01.html target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_r01.html</a><br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smgirls_r02.html target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_r02.html</a><br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smgirls_r03.html target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_r03.html</a></font>
+<a href="../../novel/200209/01010850/smgirls_r01.html" target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_r01.html</a><br>
+<a href="../../novel/200209/01010850/smgirls_r02.html" target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_r02.html</a><br>
+<a href="../../novel/200209/01010850/smgirls_r03.html" target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_r03.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/10 (��) 02:59:26 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211100025926&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211100025926"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/10 (日) 02:59:26 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211100025926_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200211100025926"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�L���X�g�����؂ł���(^^)<br>
-����(�{��)�ɋ߂Â����̎�(?)�͂��������c</font>
+<font size=3 color=#606060>キャストが豪華ですね(^^)<br>
+小拓(本物)に近づく魔の手(?)はいったい…</font>
 <p><div align=left><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a></div>
 </td></table>
 </td></tr></table>
@@ -143,82 +143,82 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> ����������Ȃ̂ꂷ</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> いいかんぢなのれす</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/10 (��) 02:52:22 <strong>��</strong> Kardy�����b���@�A�܂����I�i�s���s�j </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211100025222&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211100025222"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/10 (日) 02:52:22 <strong>▽</strong> Kardy＠武甲正宗、まずっ！（Ｔ▽Ｔ） </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211100025222_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200211100025222"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������������������m�ɂł������������̂ɁA�����I�^�N�̐���E�E�E�B<br>
-����ɂ��Ă��A�܂����������΂���������o���ė��悤�Ƃ́i�P���P;�j<br>
-����t�@���ł����\�Y��Ă�A�������炵���ł��ȁ�����<br>
+<font size=3 color=#606060>せっかく美味い事モノにできそうだったのに、あぁオタクの性よ・・・。<br>
+それにしても、まさか白瀬明石を引っ張り出して来ようとは（‾▽‾;）<br>
+原作ファンでも結構忘れてる連中多いらしいですな＞明石<br>
 <br>
-<font color="#ff88cc">���ǂ����Ă��A�����̓��̒����܂��Q�O���I�Ȃ̂ŁE�E�E�B</font><br>
-����������˂��A�����u�j�����q�H�R�{�����`�H�d�{���q�H�N��˂񂻂�I�v��ԂȂ̂�B<br>
-���ɉ|�{�`�q�Ƃn�c�Î}�̐����ǂ��Ⴄ�̂��A�N�������Ă������Ⴂ�i�s���s�j<br>
+<font color="#ff88cc">＞どうしても、自分の頭の中がまだ２０世紀なので・・・。</font><br>
+おぢさんもねぇ、もう「Ｋ西寛子？山本麻里Ａ？Ｅ本温子？誰やねんそれ！」状態なのよ。<br>
+特に榎本Ａ子とＯ田静枝の声がどう違うのか、誰か教えてくだちゃい（Ｔ▽Ｔ）<br>
 <br>
-<font color="#ff88cc">�����X�g�V�[��</font><br>
-�l�I�i�`�ɑ_��ꂽ�猾���Ă������Ⴂ�i�P���P;�j<br>
-�z���̐ԌR(��)������ď����ɍs���܂�����B</font>
+<font color="#ff88cc">＞ラストシーン</font><br>
+ネオナチに狙われたら言うてくだちゃい（‾▽‾;）<br>
+配下の赤軍(笑)引きつれて助けに行きますから。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> �܂��܂��ǂ�ǂ�b�����͑傫���Ȃ�\��E�E�E�B</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> まだまだどんどん話だけは大きくなる予定・・・。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/10 (��) 00:03:31 <strong>��</strong> <a href="mailto:panda5@crux.ocn.ne.jp">�ς񂾂T</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211100000331&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211100000331"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/10 (日) 00:03:31 <strong>▽</strong> <a href="mailto:panda5@crux.ocn.ne.jp">ぱんだ５</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211100000331_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200211100000331"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���z�����肪�Ƃ��������܂��B<br>
-�Ђ̂ЂƂ���A���ꂩ��V�L�����������Ăǂ�ǂ񐷂�オ��i�E�E�E�ƁA�������ǁE�E�B�j<br>
-�̂ŁA���҂��Ȃ��Ŋ��҂��Ă��������B<br>
-��������A�l�����ӌ��ł��B<br>
-�ǂ����Ă��A�����̓��̒����܂��Q�O���I�Ȃ̂ŁE�E�E�B<br>
-�}���K�Ƃ��ǂގ��ł��A�����̓��̒��ŏ����Â߂̐��D�𓖂Ă͂߂Ă��܂��E�E�E�B<br>
-�������A�����̉e���Ńq���C���͑��A�ь��߂��݂Ƃ����R�q�������E�E�E�B<br>
-���̂܂܂���A���S�ɑO���I�̈╨�Ɖ����Ă��܂��I�I�I<br>
-���߂āA�݂�ށ[���炢�]���ϊ��ł���΁E�E�E����ł��A�܂��Â��ł����E�E�E�B</font>
+<font size=3 color=#606060>感想をありがとうございます。<br>
+ひのひとさん、これから新キャラも加えてどんどん盛り上がる（・・・と、いいけど・・。）<br>
+ので、期待しないで期待してください。<br>
+ｍｋさん、僕も同意見です。<br>
+どうしても、自分の頭の中がまだ２０世紀なので・・・。<br>
+マンガとか読む時でも、自分の頭の中で少し古めの声優を当てはめてしまう・・・。<br>
+しかも、何かの影響でヒロインは大抵、林原めぐみとか横山智佐だし・・・。<br>
+このままじゃ、完全に前世紀の遺物と化してしまう！！！<br>
+せめて、みやむーくらい脳内変換できれば・・・それでも、まだ古いですか・・・。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0> �Ȃ�ł����āH�@�ƈ�ł����āH</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0> なんですって？　独逸ですって？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/09 (�y) 23:33:56 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211096233356&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211096233356"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/09 (土) 23:33:56 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211096233356_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200211096233356"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���B�܂��܂��b�͑傫���Ȃ��Ă��̂ł��ˁB���������ǂ��܂Łc�c<br>
+<font size=3 color=#606060>う。まだまだ話は大きくなってくのですね。いったいどこまで……<br>
 <br>
-��l�͕����荇����A���Ǝv������A��������Ƃ��񑩂̂悤�ȓW�J��(��)�B<br>
-���ς�炸�̗͋Ƃ͂����ł��˂��B�ǂ�ǂ�Ǝ����������Ă܂��ˁB<br>
-���͂ǂ�Ȏd�|���ŗ��邩�y���݂ɂ��Ă܂��B</font>
+二人は分かり合える、かと思ったら、しっかりとお約束のような展開を(笑)。<br>
+相変わらずの力業はいいですねぇ。どんどんと持ち味化してますね。<br>
+次はどんな仕掛けで来るか楽しみにしてます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[29]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/09 (�y) 22:55:52 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211096225552&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211096225552"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/09 (土) 22:55:52 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211096225552_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200211096225552"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂾂��V���A�X�i�΁j�B<br>
-���������ς�炸���l�^���ڂł����ł��ȁB<br>
-����͐��D�l�^���ځi������������ƑO�̃��C���i�b�v�E�E�E�΁j�œǂ݂Ȃ��瓪�̒��ɂ��ꂼ��̐��������Ă܂����i���j�B<br>
-�i�ŋ߂̃A�j���͐��D�̐�����ς���Ė��O���Ă�����܂�L�����ƌ��т��Ȃ��Ă˂��j<br>
-�Ō�̃V�[���Ŗ��ɕs���ȓ����������܂������A���̌�ǂ��������ɓW�J����̂��y���݂ł��˂��B</font>
+<font size=3 color=#606060>なんだかシリアス（笑）。<br>
+しかし相変わらず小ネタ満載でいいですな。<br>
+今回は声優ネタ満載（しかもちょっと前のラインナップ・・・笑）で読みながら頭の中にそれぞれの声が響いてました（爆）。<br>
+（最近のアニメは声優の世代も変わって名前見てもあんまりキャラと結びつかなくてねぇ）<br>
+最後のシーンで妙に不穏な動きが見えましたが、この後どういう風に展開するのか楽しみですねぇ。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -226,22 +226,22 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> �w�r�l�K�[���Y�Z�N�T�h�[���i�@��T�b�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> 『ＳＭガールズセクサドールＪ　第５話』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/09 (�y) 21:49:36 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200211096214936&log=panda5">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211096214936"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/09 (土) 21:49:36 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200211096214936_log_panda5.cgi">返信</a>　削除<input type=checkbox name="target" value="200211096214936"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�������̐g�̂ƂȂ�������͂܂��܂��ǂ��߂���c�c�B�~���̎�͂����ׂ̂���̂��H<br>
+<font size=3 color=#606060>【推薦文】レモンの身体となった小拓はますます追いつめられる……。救いの手はさしのべられるのか？<br>
 <br>
-<a href=http://ts.novels.jp/novel/200209/01010850/smgirls_05.html target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_05.html</a></font>
+<a href="../../novel/200209/01010850/smgirls_05.html" target=_top>http://ts.novels.jp/novel/200209/01010850/smgirls_05.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="panda5">
@@ -249,16 +249,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="panda5">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=panda5">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_panda5.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

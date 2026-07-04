@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���N�������ɂ̉^�c�ɂ��Č���</title>
+<title>少年少女文庫の運営について語る会</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >���N�������ɂ̉^�c�ɂ��Č���</font>
+<font size=6 >少年少女文庫の運営について語る会</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>���N�������ɂ̉^�c�ɂ��Ă̋^��A������A���ӌ���A�u�^�c�Ɍg����Ă݂����v�Ƃ����l�́A���Џ�������ŉ������B</font>
+<font color=#608080>少年少女文庫の運営についての疑問、ご質問、ご意見や、「運営に携わってみたい」という人は、ぜひ書き込んで下さい。</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,31 +15,31 @@
 <input type=hidden name="log" value="data2">
 <input type=hidden name="nj" value="RtA5kOxY5j">
 <input type=hidden name="res" value="150">
-<h4 align=center>�� �L���ԍ� 150 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 150 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���݂܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U�������
-&gt; ��������Ȏ��������Ă��܂��܂����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:すみません"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６＠自宅さん
+&gt; 自分勝手な事を言ってしまいました。
 &gt; 
-&gt; �����E�E�E
+&gt; ただ・・・
 &gt; 
-&gt; �ȑO�Z�����������Ɂu�ǂ߂�Ƃ��ɓǂ߂�͈͂ōD���Ȃ悤�ɓǂ�ł����΁v�Ǝv���Ă����炠���Ƃ����Ԃɖ��Ǎ�i��10�{�ȏ㗭�܂��Ă��܂������Ƃ��������̂ŁA����ȗ��}�s�b�`�̌f�ڂ͋��낵���̂ł��B</textarea><br>
+&gt; 以前忙しかった時に「読めるときに読める範囲で好きなように読んでいけば」と思っていたらあっという間に未読作品が10本以上溜まってしまったことがあったので、それ以来急ピッチの掲載は恐ろしいのです。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -52,34 +52,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[153]</font> <font size=4 color=#40c0c0> re:���̑����@��INDX�y�[�W�ɂ���ԊO�҂��̂P���̂Q�̃����N</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[153]</font> <font size=4 color=#40c0c0> re:夢の続き　のINDXページにある番外編その１その２のリンク</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/11/16 (��) 01:15:09  starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200411162011509&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411162011509"></font>
+<font size=-1 color=#606060> 2004/11/16 (火) 01:15:09  starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200411162011509_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200411162011509"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>���w�E���肪�Ƃ��������܂��B<br>
+<font size=4 color=#303030>ご指摘ありがとうございます。<br>
 <br>
-�X�g�[���[����ɂ�����̂Ƀ����N���Ă��邽�߂���Ă��܂����悤�ł��B<br>
+ストーリー道場にあるものにリンクしているためずれてしまったようです。<br>
 <br>
-�����Ă����܂������A���Ԃ��o�ƁA�܂�����Ă��܂���������܂���B<br>
-�\���󂠂�܂��񂪁A�X�������肢���܂��B</font>
+直しておきましたが、時間が経つと、またずれてしまうかもしれません。<br>
+申し訳ありませんが、宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[152]</font> <font size=4 color=#40c0c0> �͂��߂܂���</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[152]</font> <font size=4 color=#40c0c0> はじめまして</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/11/16 (��) 00:39:33  S </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200411162003933&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411162003933"></font>
+<font size=-1 color=#606060> 2004/11/16 (火) 00:39:33  S </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200411162003933_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200411162003933"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�@������ɏ������ޓ��e�ł͂Ȃ������m��܂��񂪎��炵�܂��B<br>
-TAIKA �l�̍�i�ł���@���̑����@��INDX�y�[�W�ɂ���ԊO�҂��̂P���̂Q�̃����N���ʂ̃y�[�W�ɂȂ����Ă��܂��@�폜�L�[2222<br>
+<font size=4 color=#303030>　こちらに書き込む内容ではないかも知れませんが失礼します。<br>
+TAIKA 様の作品である　夢の続き　のINDXページにある番外編その１その２のリンクが別のページにつながっています　削除キー2222<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -87,42 +87,42 @@ TAIKA �l�̍�i�ł���@���̑����@��INDX�y�[�W�ɂ���ԊO�҂��̂P���̂Q�̃����N����
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[151]</font> <font size=4 color=#40c0c0> ��������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[151]</font> <font size=4 color=#40c0c0> いえいえ</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/11/15 (��) 01:11:37  starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200411151011137&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411151011137"></font>
+<font size=-1 color=#606060> 2004/11/15 (月) 01:11:37  starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200411151011137_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200411151011137"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�����W�S�Q�U����A<br>
+<font size=4 color=#303030>ｍｋ８４２６さん、<br>
 <br>
-���������B���v�ł���B<br>
+いえいえ。大丈夫ですよ。<br>
 <br>
-�킽���̏ꍇ�A�y�[�X�͂P���@�����ƌ��߂Ă͂���̂ł����A<br>
-�������̂�KB���傫����i�͂P�������Čf�ڂ��Ă��������Ǝv���܂��B<br>
+わたしの場合、ペースは１日　数件と決めてはいるのですが、<br>
+続きものでKBが大きい作品は１日おいて掲載していきたいと思います。<br>
 <br>
-����̏ꍇ�A�b�̑����łQ�b�����f�ڂƂ��܂����B<br>
-��҂ɂ��Ă��A�b�̑�����Q�b�����Ɍf�ڂ̗\��ł��B<br>
+今回の場合、話の続きで２話同時掲載としました。<br>
+後編についても、話の続き上２話同時に掲載の予定です。<br>
 <br>
-����Ƃ��A�X�������肢���܂��B</font>
+今後とも、宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[150]</font> <font size=4 color=#40c0c0> ���݂܂���</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[150]</font> <font size=4 color=#40c0c0> すみません</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/11/14 (��) 15:31:55  <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200411140153155&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411140153155"></font>
+<font size=-1 color=#606060> 2004/11/14 (日) 15:31:55  <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200411140153155_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200411140153155"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>��������Ȏ��������Ă��܂��܂����B<br>
+<font size=4 color=#303030>自分勝手な事を言ってしまいました。<br>
 <br>
-�����E�E�E<br>
+ただ・・・<br>
 <br>
-�ȑO�Z�����������Ɂu�ǂ߂�Ƃ��ɓǂ߂�͈͂ōD���Ȃ悤�ɓǂ�ł����΁v�Ǝv���Ă����炠���Ƃ����Ԃɖ��Ǎ�i��10�{�ȏ㗭�܂��Ă��܂������Ƃ��������̂ŁA����ȗ��}�s�b�`�̌f�ڂ͋��낵���̂ł��B</font>
+以前忙しかった時に「読めるときに読める範囲で好きなように読んでいけば」と思っていたらあっという間に未読作品が10本以上溜まってしまったことがあったので、それ以来急ピッチの掲載は恐ろしいのです。</font>
 <p><div align=left><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a></div>
 </td></table>
 </td></tr></table>
@@ -130,39 +130,39 @@ TAIKA �l�̍�i�ł���@���̑����@��INDX�y�[�W�ɂ���ԊO�҂��̂P���̂Q�̃����N����
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[149]</font> <font size=4 color=#40c0c0> �f�ڕp�x</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[149]</font> <font size=4 color=#40c0c0> 掲載頻度</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/11/14 (��) 12:02:04  <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200411140120204&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411140120204"></font>
+<font size=-1 color=#606060> 2004/11/14 (日) 12:02:04  <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200411140120204_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200411140120204"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�ʂɎӂ�قǂ̂��Ƃł͂Ȃ��Ǝv���܂��� �� Starbow����<br>
+<font size=4 color=#303030>別に謝るほどのことではないと思いますよ ＞ Starbowさん<br>
 <br>
-�ʂɒN����C�ɓǂނ��Ƃ�v�����Ă�킯�ł͂Ȃ��ł��傤���B�˂��B<br>
-�ǂ߂�Ƃ��ɓǂ߂�͈͂ōD���Ȃ悤�ɓǂ�ł����Ηǂ������̂��Ƃł��傤�B</font>
+別に誰も一気に読むことを要求してるわけではないでしょうし。ねぇ。<br>
+読めるときに読める範囲で好きなように読んでいけば良いだけのことでしょう。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[148]</font> <font size=4 color=#40c0c0> re:�������I  </font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[148]</font> <font size=4 color=#40c0c0> re:うがぁ！  </font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/11/12 (��) 23:47:14  starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200411125234714&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411125234714"></font>
+<font size=-1 color=#606060> 2004/11/12 (金) 23:47:14  starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200411125234714_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200411125234714"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�����W�S�Q�U����A<br>
+<font size=4 color=#303030>ｍｋ８４２６さん、<br>
 <br>
-�オ�C�ɂȂ�X�g�[���ł��̂ŁA��C�Ɍf�ڂ��܂����B<br>
-�{���́A��Z�b���������̂ł����A����ɂ��x��Ă��܂��܂����B<br>
+後が気になるストーリですので、一気に掲載しました。<br>
+本当は、第六話もだったのですが、事情により遅れてしまいました。<br>
 <br>
-�Ȃ��A��҂ɂ��܂��ẮA�l�I�Ȏ���ŁA<br>
-���������y�[�X�𗎂Ƃ���������܂���B<br>
+なお、後編につきましては、個人的な事情で、<br>
+もう少しペースを落とすかもしれません。<br>
 <br>
-�\���󂠂�܂���ł����B<br>
+申し訳ありませんでした。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -170,14 +170,14 @@ TAIKA �l�̍�i�ł���@���̑����@��INDX�y�[�W�ɂ���ԊO�҂��̂P���̂Q�̃����N����
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[147]</font> <font size=4 color=#40c0c0> �������I</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[147]</font> <font size=4 color=#40c0c0> うがぁ！</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/11/10 (��) 00:49:11  <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200411103004911&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411103004911"></font>
+<font size=-1 color=#606060> 2004/11/10 (水) 00:49:11  <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200411103004911_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200411103004911"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�قژA���Q�b���A�b�v���āA�E���C�����i�΁j�B</font>
+<font size=4 color=#303030>ほぼ連日２話ずつアップって、殺す気かい（笑）。</font>
 <p><div align=left><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a></div>
 </td></table>
 </td></tr></table>
@@ -185,18 +185,18 @@ TAIKA �l�̍�i�ł���@���̑����@��INDX�y�[�W�ɂ���ԊO�҂��̂P���̂Q�̃����N����
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[146]</font> <font size=4 color=#40c0c0> Re:�f�ڂ������x��Ă��܂�</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[146]</font> <font size=4 color=#40c0c0> Re:掲載が少し遅れています</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/10/03 (��) 02:05:30  <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200410030020530&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200410030020530"></font>
+<font size=-1 color=#606060> 2004/10/03 (日) 02:05:30  <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200410030020530_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200410030020530"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� starbow@�^�c�ψ�����<br>
-<font color="#cc88ff">&gt; �^�c�ψ������Z�̂��߁A�f�ڂ������x��Ă��܂��B<br>
-&gt; �\���󂠂�܂��񂪁A�X�������肢���܂��B</font><br>
+<font size=4 color=#303030>▼ starbow@運営委員さん<br>
+<font color="#cc88ff">&gt; 運営委員が多忙のため、掲載が少し遅れています。<br>
+&gt; 申し訳ありませんが、宜しくお願いします。</font><br>
 <br>
-����J�l�ł��B���������ɂ��肢�������܂��ˁB</font>
+ご苦労様です。無理せずにお願いいたしますね。</font>
 <p><div align=left><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a></div>
 </td></table>
 </td></tr></table>
@@ -204,38 +204,38 @@ TAIKA �l�̍�i�ł���@���̑����@��INDX�y�[�W�ɂ���ԊO�҂��̂P���̂Q�̃����N����
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[145]</font> <font size=4 color=#40c0c0> �f�ڂ������x��Ă��܂�</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[145]</font> <font size=4 color=#40c0c0> 掲載が少し遅れています</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/10/01 (��) 01:02:13  starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200410015010213&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200410015010213"></font>
+<font size=-1 color=#606060> 2004/10/01 (金) 01:02:13  starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200410015010213_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200410015010213"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�^�c�ψ������Z�̂��߁A�f�ڂ������x��Ă��܂��B<br>
-�\���󂠂�܂��񂪁A�X�������肢���܂��B</font>
+<font size=4 color=#303030>運営委員が多忙のため、掲載が少し遅れています。<br>
+申し訳ありませんが、宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[144]</font> <font size=4 color=#40c0c0> ���萔���������܂���</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1 color="#aaaaaa">[144]</font> <font size=4 color=#40c0c0> お手数おかけしました</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/18 (��) 01:59:36  <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408183015936&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408183015936"></font>
+<font size=-1 color=#606060> 2004/08/18 (水) 01:59:36  <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408183015936_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200408183015936"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030><font color="#ff88cc">����傤���^�c�ψ�����<br>
-��kou@�^�c�ψ�����</font><br>
-�킴�킴�����܂���ł����B�������ŕ֗�������</font>
+<font size=4 color=#303030><font color="#ff88cc">＞りょう＠運営委員さん<br>
+＞kou@運営委員さん</font><br>
+わざわざすいませんでした。おかげで便利っす♪</font>
 <p><div align=left><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a></div>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data2">
@@ -243,16 +243,16 @@ TAIKA �l�̍�i�ł���@���̑����@��INDX�y�[�W�ɂ���ԊO�҂��̂P���̂Q�̃����N����
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data2">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data2">�X�V</a>] [<a href="http://ts.novels.jp">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data2.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.</font>
 </td></table></div><br>
 </div>
 <br>

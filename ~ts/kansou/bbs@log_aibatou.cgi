@@ -145,7 +145,7 @@ TSならではの恋愛描写ですしね。</font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】理不尽ですっ。こんな理由でＴＳっ娘にされるなんて……<br>
-<a href=http://ts.novels.jp/novel/200510/19213555/koromogae1.htm target=_top>http://ts.novels.jp/novel/200510/19213555/koromogae1.htm</a></font>
+<a href="../../novel/200510/19213555/koromogae1.htm" target=_top>http://ts.novels.jp/novel/200510/19213555/koromogae1.htm</a></font>
 </td></table>
 </td></tr></table>
 

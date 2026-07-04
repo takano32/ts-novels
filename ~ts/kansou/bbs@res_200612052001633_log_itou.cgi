@@ -1,51 +1,51 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���Ƃ������i�@���z�f����</title>
+<title>いとうさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���Ƃ������i�@���z�f����</font>
+<font size=5>いとうさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="itou">
 <input type=hidden name="nj" value="vDSlnDrZ8q">
 <input type=hidden name="res" value="67">
-<h4 align=center>�� �L���ԍ� 67 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 67 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2:��O�b"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���Ƃ�����
-&gt; �����z���肪�Ƃ�������܂��B
-&gt; �c�c����ɂȂ����o�����Ő\���󂠂�܂��񂪁A
-&gt; �Ԏ����x��Ă��܂��Đ\���󂠂�܂���B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2:第三話"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ いとうさん
+&gt; ご感想ありがとう御座います。
+&gt; ……毎回になりつつある出だしで申し訳ありませんが、
+&gt; 返事が遅れてしまって申し訳ありません。
 &gt; 
-&gt; �� �Ђ̂ЂƂ���
-&gt; &gt; ����̃G�s�\�[�h�͌o�ߓ_�̂悤�Ɏv���܂��B�Ȃ̂ŁA�ǂ��ɗ������������y���݂ł��B
-&gt; &gt; ���͂̐l���̊֌W�����炩�ɂȂ����A�������Ȃ��Ƃ���ł��ˁB
+&gt; ▼ ひのひとさん
+&gt; &gt; 今回のエピソードは経過点のように思えます。なので、どこに落ち着くかが楽しみです。
+&gt; &gt; 周囲の人物の関係も明らかになりつつあり、見逃せないところですね。
 &gt; 
-&gt; ���d��̒ʂ�A����̘b�𓥂ݑ�ɂ��āA����A���X�������Ă���܂��B
-&gt; ���͂̐l�������ɂ́A������Ƃ����V�т����Ă���A������Ƃ����p�Y���݂����Ȍ`�ɂȂ��Ă���܂��B���X�񂠂���ň�ʂ��񂪏o�����̂ŁA�l���Ă݂�̂́c�c���Ԃ̖��ʂ�������܂���B
+&gt; ご慧眼の通り、今回の話を踏み台にして、次回、次々回を作っております。
+&gt; 周囲の人物たちには、ちょっとした遊びを入れてあり、ちょっとしたパズルみたいな形になっております。次々回あたりで一通り情報が出揃うので、考えてみるのは……時間の無駄かもしれません。
 &gt; 
-&gt; �x���ŗ�Ȃ���́A������ӂŐ؂�グ�����Ǝv���܂��B
-&gt; ���ǂ݂����������肪�Ƃ�������܂����B</textarea><br>
+&gt; 支離滅裂なお礼は、ここら辺で切り上げたいと思います。
+&gt; お読みいただきありがとう御座いました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 12JdIY  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="12JdIY"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 12JdIY  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="12JdIY"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -58,123 +58,123 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[74]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �����z���肪�Ƃ��������܂��B</font>
+<font size=2>[74]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ご感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/19 (��) 00:13:45 <strong>��</strong> ���Ƃ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702191001345&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702191001345"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/19 (月) 00:13:45 <strong>▽</strong> いとう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702191001345_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200702191001345"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ԏ����x��܂����B�����z���肪�Ƃ�������܂��B<br>
+<font size=3 color=#606060>ご返事が遅れました。ご感想ありがとう御座います。<br>
 <br>
-<font color="#cc88ff">&gt;�p�Y����</font><br>
-���߂܂��āA���Ƃ��ł��B�����z���肪�Ƃ�������܂��B<br>
+<font color="#cc88ff">&gt;英雄さま</font><br>
+初めまして、いとうです。ご感想ありがとう御座います。<br>
 <br>
-<font color="#cc88ff">&gt;�Î_���ς��ЂƂƂ���u�₩�ɒԂ��Ă����Ǝv���܂��B</font><br>
-������������������K���ł��B<br>
-���̐�A�ꂢ�̂��A�h���̂��A�������Î_���ς��̂����p�ӂ����Ă��������Ă܂��B<br>
-��낵����΁A���t���������������B<br>
+<font color="#cc88ff">&gt;甘酸っぱいひとときを爽やかに綴られていたと思います。</font><br>
+ご満足いただけたら幸いです。<br>
+この先、苦いのも、辛いのも、もちろん甘酸っぱいのもご用意させていただいてます。<br>
+よろしければ、お付き合いください。<br>
 <br>
-<font color="#cc88ff">&gt;�Ђ̂ЂƂ���<br>
-&gt;���y���l�ł����B</font><br>
-���e�����܂ł����B���񑩂̔��������Ƃ��낪�A�܂��܂��c���Ă��܂��̂ŁA�ǂ���Ώ����オ���Ă��������B�i�΁j<br>
+<font color="#cc88ff">&gt;ひのひとさま<br>
+&gt;ご馳走様でした。</font><br>
+お粗末さまでした。お約束の美味しいところが、まだまだ残っていますので、良ければ召し上がってください。（笑）<br>
 <br>
-<font color="#cc88ff">&gt;�ς���Ă����֌W�A�ς���Ă����C�����B</font><br>
-�������炢�d�v�ȁA�u�ς��Ȃ����́A����Ȃ��C�����v���������Ă��������\��ł��B<br>
-�悯��΂���������ܖ����������B</font>
+<font color="#cc88ff">&gt;変わっていく関係、変わっていく気持ち。</font><br>
+同じぐらい重要な、「変わらないもの、譲れない気持ち」も書かせていただく予定です。<br>
+よければそちらもご賞味ください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[73]</font> <font size=4 color=#40c0c0> ��ܘb</font>
+<font size=2>[73]</font> <font size=4 color=#40c0c0> 第五話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/17 (�y) 00:55:58 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702176005558&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702176005558"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/17 (土) 00:55:58 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702176005558_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200702176005558"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ς���Ă����֌W�A�ς���Ă����C�����B<br>
-�����ł��˂��B���������ݒ肾���炱���̑�햡�Ƃ������̂ł��B�������w������Ȃ�ł͂́B<br>
-���������Ƃ�����A�����Ɨ������Ă��������Ă��肪�������Ƃł��B���y���l�ł����B</font>
+<font size=3 color=#606060>変わっていく関係、変わっていく気持ち。<br>
+いいですねえ。こういう設定だからこその醍醐味というものです。しかも学生時代ならではの。<br>
+美味しいところを、ちゃんと料理していただいてありがたいことです。ご馳走様でした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[72]</font> <font size=4 color=#40c0c0> �q�ǂ������܂���</font>
+<font size=2>[72]</font> <font size=4 color=#40c0c0> 拝読いたしました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/14 (��) 23:33:29 <strong>��</strong> <a href="mailto:hayato86gt@hotmail.com">�p�Y</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702143233329&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702143233329"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/14 (水) 23:33:29 <strong>▽</strong> <a href="mailto:hayato86gt@hotmail.com">英雄</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702143233329_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200702143233329"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����y�����ǂ܂��Ă��������Ă���܂��B<br>
-�Î_���ς��ЂƂƂ���u�₩�ɒԂ��Ă����Ǝv���܂��B<br>
-�V���[�Y�^�C�g���ɂĐ�X�̑肪�킩���Ă͂�����̂́A����̓W�J���C�ɂȂ���<br>
-���������Ȃ��Ƃ���ł��B�҂��������c�c�B<br>
+<font size=3 color=#606060>いつも楽しく読ませていただいております。<br>
+甘酸っぱいひとときを爽やかに綴られていたと思います。<br>
+シリーズタイトルにて先々の題がわかってはいるものの、今後の展開が気になって<br>
+しかたがないところです。待ち遠しい……。<br>
 <br>
-�ł点�Ă��܂�����\����Ȃ��ł����A������y���݂ɂ��Ă���܂��B</font>
+焦らせてしまったら申し訳ないですが、次回も楽しみにしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[71]</font> <font size=4 color=#40c0c0> �w���N�ȏ�A���������@��ܘb�x������ɂ͉����N���b�N�B</font>
+<font size=2>[71]</font> <font size=4 color=#40c0c0> 『少年以上、少女未満　第五話』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/13 (��) 00:14:12 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702132001412&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702132001412"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/13 (火) 00:14:12 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702132001412_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200702132001412"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�����j�̎q�ł͂Ȃ��r���B���̎q�ɂ͂����ȃq�~�c��������̂ł��B</font>
-<p><a href="http://ts.novels.jp/novel/200504/26204417/lgmb05.html" target="_top">http://ts.novels.jp/novel/200504/26204417/lgmb05.html</a>
+<font size=3 color=#606060>【推薦文】もう男の子ではない睦月。女の子にはいろんなヒミツがあるものです。</font>
+<p><a href="../../novel/200504/26204417/lgmb05.html" target="_top">http://ts.novels.jp/novel/200504/26204417/lgmb05.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[70]</font> <font size=4 color=#40c0c0> Re:��l�b</font>
+<font size=2>[70]</font> <font size=4 color=#40c0c0> Re:第四話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/18 (��) 23:08:18 <strong>��</strong> ���Ƃ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701184230818&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701184230818"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/18 (木) 23:08:18 <strong>▽</strong> いとう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701184230818_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200701184230818"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���x���x�A�����z���肪�Ƃ�������܂��B<br>
-�Ԏ����x��ɒx��Ă��܂��Đ\���󂠂�܂���B<br>
-�N�������X�̒������Ă��܂��āc�c������ł��ˁB<br>
-�d�ˏd�ˁA�\���󂠂�܂���B<br>
+<font size=3 color=#606060>毎度毎度、ご感想ありがとう御座います。<br>
+返事が遅れに遅れてしまって申し訳ありません。<br>
+年明け早々体調崩してしまって……言い訳ですね。<br>
+重ね重ね、申し訳ありません。<br>
 <br>
-<font color="#cc88ff">&gt; �ӎ����Ă��܂�����l�̊֌W�͂ǂ�Ȃ��ƂɁc�c�B</font><br>
-����ɂ����҂��������i�΁j<br>
-�\�z�͗��؂�A���҂͗��؂�Ȃ��ŁA�������Ǝv���Ă܂��B<br>
+<font color="#cc88ff">&gt; 意識してしまった二人の関係はどんなことに……。</font><br>
+次回にご期待ください（笑）<br>
+予想は裏切り、期待は裏切らないで、いこうと思ってます。<br>
 <br>
-<font color="#cc88ff">&gt; �͂�͂�ǂ��ǂ����邵���Ȃ����Ⴀ��܂��񂩂��B</font><br>
-�ꉞ�A�b�S�̂ł̗����ǂ���́u�����v��p�ӂ��Ă���܂��B<br>
-���S�i�H�j���ăh�L�h�L���ĉ������B���҂͗��؂�Ȃ��悤�撣��܂��B</font>
+<font color="#cc88ff">&gt; はらはらどきどきするしかないじゃありませんかぁ。</font><br>
+一応、話全体での落しどころは「王道」を用意しております。<br>
+安心（？）してドキドキして下さい。期待は裏切らないよう頑張ります。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[69]</font> <font size=4 color=#40c0c0> ��l�b</font>
+<font size=2>[69]</font> <font size=4 color=#40c0c0> 第四話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/31 (��) 22:32:45 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612310223245&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612310223245"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/31 (日) 22:32:45 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612310223245_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200612310223245"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���킟�B����͂��낢��Ɗ�Ȃ����ƂɁI<br>
-����Ȍ��f�͂��������ǂ��܂Ŋm�F�����邱�ƂɁc�c�B<br>
-�ӎ����Ă��܂�����l�̊֌W�͂ǂ�Ȃ��ƂɁc�c�B<br>
-�����ăJ�E���g�_�E���̍s����ɂ́c�c�B<br>
-�͂�͂�ǂ��ǂ����邵���Ȃ����Ⴀ��܂��񂩂��B<br>
+<font size=3 color=#606060>うわぁ。今回はいろいろと危ないことに！<br>
+そんな検診はいったいどこまで確認をすることに……。<br>
+意識してしまった二人の関係はどんなことに……。<br>
+そしてカウントダウンの行く手には……。<br>
+はらはらどきどきするしかないじゃありませんかぁ。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -182,77 +182,77 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[68]</font> <font size=4 color=#40c0c0> �w���N�ȏ�A���������@��l�b�x������ɂ͉����N���b�N�B</font>
+<font size=2>[68]</font> <font size=4 color=#40c0c0> 『少年以上、少女未満　第四話』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/26 (��) 01:41:27 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612262014127&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612262014127"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/26 (火) 01:41:27 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612262014127_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200612262014127"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�S�̂Ȃ��ŕς���Ă������̂͂Ȃ�ł��傤�ˁB</font>
-<p><a href="http://ts.novels.jp/novel/200504/26204417/lgmb04.html" target="_top">http://ts.novels.jp/novel/200504/26204417/lgmb04.html</a>
+<font size=3 color=#606060>【推薦文】心のなかで変わっていくものはなんでしょうね。</font>
+<p><a href="../../novel/200504/26204417/lgmb04.html" target="_top">http://ts.novels.jp/novel/200504/26204417/lgmb04.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[67]</font> <font size=4 color=#40c0c0> Re:��O�b</font>
+<font size=2>[67]</font> <font size=4 color=#40c0c0> Re:第三話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/05 (��) 00:16:33 <strong>��</strong> ���Ƃ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612052001633&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612052001633"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/05 (火) 00:16:33 <strong>▽</strong> いとう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612052001633_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200612052001633"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����z���肪�Ƃ�������܂��B<br>
-�c�c����ɂȂ����o�����Ő\���󂠂�܂��񂪁A<br>
-�Ԏ����x��Ă��܂��Đ\���󂠂�܂���B<br>
+<font size=3 color=#606060>ご感想ありがとう御座います。<br>
+……毎回になりつつある出だしで申し訳ありませんが、<br>
+返事が遅れてしまって申し訳ありません。<br>
 <br>
-�� �Ђ̂ЂƂ���<br>
-<font color="#cc88ff">&gt; ����̃G�s�\�[�h�͌o�ߓ_�̂悤�Ɏv���܂��B�Ȃ̂ŁA�ǂ��ɗ������������y���݂ł��B<br>
-&gt; ���͂̐l���̊֌W�����炩�ɂȂ����A�������Ȃ��Ƃ���ł��ˁB</font><br>
+▼ ひのひとさん<br>
+<font color="#cc88ff">&gt; 今回のエピソードは経過点のように思えます。なので、どこに落ち着くかが楽しみです。<br>
+&gt; 周囲の人物の関係も明らかになりつつあり、見逃せないところですね。</font><br>
 <br>
-���d��̒ʂ�A����̘b�𓥂ݑ�ɂ��āA����A���X�������Ă���܂��B<br>
-���͂̐l�������ɂ́A������Ƃ����V�т����Ă���A������Ƃ����p�Y���݂����Ȍ`�ɂȂ��Ă���܂��B���X�񂠂���ň�ʂ��񂪏o�����̂ŁA�l���Ă݂�̂́c�c���Ԃ̖��ʂ�������܂���B<br>
+ご慧眼の通り、今回の話を踏み台にして、次回、次々回を作っております。<br>
+周囲の人物たちには、ちょっとした遊びを入れてあり、ちょっとしたパズルみたいな形になっております。次々回あたりで一通り情報が出揃うので、考えてみるのは……時間の無駄かもしれません。<br>
 <br>
-�x���ŗ�Ȃ���́A������ӂŐ؂�グ�����Ǝv���܂��B<br>
-���ǂ݂����������肪�Ƃ�������܂����B</font>
+支離滅裂なお礼は、ここら辺で切り上げたいと思います。<br>
+お読みいただきありがとう御座いました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[66]</font> <font size=4 color=#40c0c0> ��O�b</font>
+<font size=2>[66]</font> <font size=4 color=#40c0c0> 第三話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/30 (��) 07:57:44 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611304075744&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611304075744"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/30 (木) 07:57:44 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611304075744_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200611304075744"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����̃G�s�\�[�h�͌o�ߓ_�̂悤�Ɏv���܂��B�Ȃ̂ŁA�ǂ��ɗ������������y���݂ł��B<br>
-���͂̐l���̊֌W�����炩�ɂȂ����A�������Ȃ��Ƃ���ł��ˁB</font>
+<font size=3 color=#606060>今回のエピソードは経過点のように思えます。なので、どこに落ち着くかが楽しみです。<br>
+周囲の人物の関係も明らかになりつつあり、見逃せないところですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[65]</font> <font size=4 color=#40c0c0> �w���N�ȏ�A���������@��O�b�x������ɂ͉����N���b�N�B</font>
+<font size=2>[65]</font> <font size=4 color=#40c0c0> 『少年以上、少女未満　第三話』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/28 (��) 01:52:06 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611282015206&log=itou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611282015206"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/28 (火) 01:52:06 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611282015206_log_itou.cgi">返信</a>　削除<input type=checkbox name="target" value="200611282015206"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���X�ɔ����J�n�H�Ƃ������ƂȂ̂�����ǂ��A�r������A��Â����Ȃ����ȁH</font>
-<p><a href="http://ts.novels.jp/novel/200504/26204417/lgmb03.html" target="_top">http://ts.novels.jp/novel/200504/26204417/lgmb03.html</a>
+<font size=3 color=#606060>【推薦文】徐々に反撃開始？ということなのだけれども、睦月くん、冷静すぎないかな？</font>
+<p><a href="../../novel/200504/26204417/lgmb03.html" target="_top">http://ts.novels.jp/novel/200504/26204417/lgmb03.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="itou">
@@ -260,16 +260,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="itou">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=itou">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_itou.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -84,7 +84,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】いえいえ気になりますです。文庫古参のファンとしては。<br>
 　というわけで、突然女の子になっちゃった陽介くんの、新しい生活が始まります。もちろん最初は——<br>
-<a href=http://ts.novels.jp/novel/200608/14075115/allgreen2.html target=_top>http://ts.novels.jp/novel/200608/14075115/allgreen2.html</a><br>
+<a href="../../novel/200608/14075115/allgreen2.html" target=_top>http://ts.novels.jp/novel/200608/14075115/allgreen2.html</a><br>
 　※ 記事投稿の際は、入力コード右側の半角英数字６文字を、その右側のボックスに入力してください。</font>
 </td></table>
 </td></tr></table>
@@ -170,7 +170,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】前向きに生きること、それはとても大事なことなのです。<br>
-<a href=http://ts.novels.jp/novel/200608/14075115/all_green.htm target=_top>http://ts.novels.jp/novel/200608/14075115/all_green.htm</a><br>
+<a href="../../novel/200608/14075115/all_green.htm" target=_top>http://ts.novels.jp/novel/200608/14075115/all_green.htm</a><br>
 　※ 記事投稿の際は、入力コード右側の半角英数字６文字を、その右側のボックスに入力してください。</font>
 </td></table>
 </td></tr></table>

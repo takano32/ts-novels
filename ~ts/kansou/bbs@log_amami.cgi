@@ -158,7 +158,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】終わる騒動、始まる新生活、ご先祖様の祝福。逆に言うと、不幸になったりしたら、ご先祖様に祟られるかもしれない（をひ）<br>
-<a href=http://ts.novels.jp/novel/200307/27055454/mirra5.html target=_top>http://ts.novels.jp/novel/200307/27055454/mirra5.html</a></font>
+<a href="../../novel/200307/27055454/mirra5.html" target=_top>http://ts.novels.jp/novel/200307/27055454/mirra5.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -173,7 +173,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 明かされる凛々の意外な目的。<br>
-<a href=http://ts.novels.jp/novel/200307/27055454/mirra4.html target=_top>http://ts.novels.jp/novel/200307/27055454/mirra4.html</a></font>
+<a href="../../novel/200307/27055454/mirra4.html" target=_top>http://ts.novels.jp/novel/200307/27055454/mirra4.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -188,7 +188,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】美幸が女の子と会話ができるようになって、かえって事態は混迷する。<br>
-<a href=http://ts.novels.jp/novel/200307/27055454/mirra3.html target=_top>http://ts.novels.jp/novel/200307/27055454/mirra3.html</a><br>
+<a href="../../novel/200307/27055454/mirra3.html" target=_top>http://ts.novels.jp/novel/200307/27055454/mirra3.html</a><br>
 <br>
 ※ 記事投稿の際は、入力コード右側の半角英数字６文字を、その右側のボックスに入力してください。</font>
 </td></table>

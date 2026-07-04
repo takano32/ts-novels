@@ -117,7 +117,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】アザーズを統べる巫女服の少女知沙の正体、それは……<br>
-<a href=http://ts.novels.jp/novel/200211/18204509/double4a.htm target=_top>http://ts.novels.jp/novel/200211/18204509/double4a.htm</a></font>
+<a href="../../novel/200211/18204509/double4a.htm" target=_top>http://ts.novels.jp/novel/200211/18204509/double4a.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -172,7 +172,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】季節は既に冬っ！　雅秋くんもすっかり女の子〜っ……てな場合じゃないんです、これが。<br>
-<a href=http://ts.novels.jp/novel/200211/18204509/double4a.htm target=_top>http://ts.novels.jp/novel/200211/18204509/double4a.htm</a></font>
+<a href="../../novel/200211/18204509/double4a.htm" target=_top>http://ts.novels.jp/novel/200211/18204509/double4a.htm</a></font>
 </td></table>
 </td></tr></table>
 

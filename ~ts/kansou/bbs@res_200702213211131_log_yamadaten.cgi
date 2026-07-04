@@ -1,39 +1,39 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�R�c�V�������i�@���z�f����</title>
+<title>山田天授さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�R�c�V�������i�@���z�f����</font>
+<font size=5>山田天授さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yamadaten">
 <input type=hidden name="nj" value="1JP9Z8uCWB">
 <input type=hidden name="res" value="5">
-<h4 align=center>�� �L���ԍ� 5 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 5 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w��s�@��O�́F�肢�x������ɂ͉����N���b�N�B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z�ނ́A�^���^���Ɛ_�l�̑�s���s�����A����ł����̂��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『代行　第三章：願い』を見るには下をクリック。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】彼は、タンタンと神様の代行を行うが、これでいいのか。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 61ppBX  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="61ppBX"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 61ppBX  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="61ppBX"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -46,119 +46,119 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �C�ɂȂ�`</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 気になる〜</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/23 (��) 21:14:18 <strong>��</strong> ���Ⴍ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702235211418&log=yamadaten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702235211418"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/23 (金) 21:14:18 <strong>▽</strong> ぎゃくると </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702235211418_log_yamadaten.cgi">返信</a>　削除<input type=checkbox name="target" value="200702235211418"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�肢��ǂ݂܂����B<br>
-�b�̗��ꂩ��A�Ă����蒉�Y�N�����̎q�ɂ���āA<br>
-���̌��ʁA�z���N�����̎q�ɂȂ������Y�N���C�W�����Ȃ��Ȃ�H<br>
-�����v���Ă܂������A�t��������ł��ˁB<br>
-����ɁA�_�l�ɂ��u�ϐg�̗́v������͂��ł���ˁH<br>
-���ɁA�ǂ�ȗ͂�����̂��C�ɂȂ�܂��B<br>
-�����āA��l���͍���ǂ�ȗ͂𓾂�̂����B<br>
-�Ƃ���ŁA�u�t�r�a�t���V���������v�Ƃ͉�����H<br>
-USB���ĕt���Ă��邩��p�\�R���̕��i�Ȃ̂��ȁH<br>
-���܂�p�\�R���ɂ͏ڂ����Ȃ��̂ŉ���܂��񂯂ǁA<br>
-����A�u�t�r�a�t���V���������v���ǂ̂悤�Ɋւ��Ă���̂����C�ɂȂ�܂��B<br>
+<font size=3 color=#606060>「願い｣読みました。<br>
+話の流れから、てっきり忠雄君が女の子にされて、<br>
+その結果、陽助君が女の子になった忠雄君をイジメられなくなる？<br>
+そう思ってましたが、逆だったんですね。<br>
+それに、神様にも「変身の力」があるはずですよね？<br>
+他に、どんな力があるのか気になります。<br>
+そして、主人公は今後どんな力を得るのかも。<br>
+ところで、「ＵＳＢフ○シュ○モリ」とは何ぞや？<br>
+USBって付いているからパソコンの部品なのかな？<br>
+あまりパソコンには詳しくないので解りませんけど、<br>
+今後、「ＵＳＢフ○シュ○モリ」がどのように関ってくるのかも気になります。<br>
 <br>
-�������A�����킽���ɂ��A�����ɂ���Ȑ_�Ђɍs���@��������Ȃ�A<br>
-�u��������ȓz�����ɕς��āA��������ȏ���j�ɕς��Ă�肽���B�B�B�B�v<br>
-�ƁA����Ă݂����ł��ˁB</font>
+しかし、もしわたしにも、現実にそんな神社に行く機会があったなら、<br>
+「大っ嫌いな奴を女に変えて、大っ嫌いな女を男に変えてやりたい。。。。」<br>
+と、願ってみたいですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �w��s�@��O�́F�肢�x������ɂ͉����N���b�N�B</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 『代行　第三章：願い』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/02/21 (��) 21:11:31 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200702213211131&log=yamadaten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200702213211131"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/02/21 (水) 21:11:31 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200702213211131_log_yamadaten.cgi">返信</a>　削除<input type=checkbox name="target" value="200702213211131"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�ނ́A�^���^���Ɛ_�l�̑�s���s�����A����ł����̂��B</font>
-<p><a href="http://ts.novels.jp/novel/200611/01223326/daikou3.html" target="_top">http://ts.novels.jp/novel/200611/01223326/daikou3.html</a>
+<font size=3 color=#606060>【推薦文】彼は、タンタンと神様の代行を行うが、これでいいのか。</font>
+<p><a href="../../novel/200611/01223326/daikou3.html" target="_top">http://ts.novels.jp/novel/200611/01223326/daikou3.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �w��s�F���͊O�`�w�V���x�x������ɂ͉����N���b�N�B</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 『代行：第二章外伝『天罰』』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/26 (��) 02:14:38 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612262021438&log=yamadaten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612262021438"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/26 (火) 02:14:38 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612262021438_log_yamadaten.cgi">返信</a>　削除<input type=checkbox name="target" value="200612262021438"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���͂̕ʎ��_����̂��b�ł��B</font>
-<p><a href="http://ts.novels.jp/novel/200611/01223326/daikou2_ex.html" target="_top">http://ts.novels.jp/novel/200611/01223326/daikou2_ex.html</a>
+<font size=3 color=#606060>【推薦文】第二章の別視点からのお話です。</font>
+<p><a href="../../novel/200611/01223326/daikou2_ex.html" target="_top">http://ts.novels.jp/novel/200611/01223326/daikou2_ex.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/16 (�y) 12:26:39 <strong>��</strong> �V�A�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612166122639&log=yamadaten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612166122639"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/16 (土) 12:26:39 <strong>▽</strong> シアン </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612166122639_log_yamadaten.cgi">返信</a>　削除<input type=checkbox name="target" value="200612166122639"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A����������̗ǂ���l�����ȁ`�B<br>
-�܂����̕���������X���[�Y�ɐi��œǂ݂₷���̂ŁA�ǂ������m��܂���ˁB<br>
-�Ƃ�����A�s�v�c�ȗ͂���ɓ��ꂽ���̎�l�����A���ꂩ��ǂ�Ȋ���i�H�j�����Ă䂭�̂��y���݂ł��B</font>
+<font size=3 color=#606060>何か、随分物分りの良い主人公だな〜。<br>
+まあその方が物語もスムーズに進んで読みやすいので、良いかも知れませんね。<br>
+ともあれ、不思議な力を手に入れたこの主人公が、これからどんな活躍（？）をしてゆくのか楽しみです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �w��s�F���b�@�@���d���x������ɂ͉����N���b�N�B</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 『代行：第二話　　初仕事』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/12 (��) 00:16:38 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612122001638&log=yamadaten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612122001638"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/12 (火) 00:16:38 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612122001638_log_yamadaten.cgi">返信</a>　削除<input type=checkbox name="target" value="200612122001638"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�ނ̂��d���́A���������Ȃ�Ȃ̂ł��傤���ˁB</font>
-<p><a href="http://ts.novels.jp/novel/200611/01223326/daikou2.html" target="_top">http://ts.novels.jp/novel/200611/01223326/daikou2.html</a>
+<font size=3 color=#606060>【推薦文】彼のお仕事は、いったいなんなのでしょうかね。</font>
+<p><a href="../../novel/200611/01223326/daikou2.html" target="_top">http://ts.novels.jp/novel/200611/01223326/daikou2.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w��s�@���́F�n�܂�x������ɂ͉����N���b�N�B</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『代行　第一章：始まり』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/01 (��) 22:49:22 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611013224922&log=yamadaten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611013224922"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/01 (水) 22:49:22 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611013224922_log_yamadaten.cgi">返信</a>　削除<input type=checkbox name="target" value="200611013224922"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���N�ɐ_�̓����͂���̂ł��傤���H</font>
-<p><a href="http://ts.novels.jp/novel/200611/01223326/daikou1.html" target="_top">http://ts.novels.jp/novel/200611/01223326/daikou1.html</a>
+<font size=3 color=#606060>【推薦文】少年に神の導きはあるのでしょうか？</font>
+<p><a href="../../novel/200611/01223326/daikou1.html" target="_top">http://ts.novels.jp/novel/200611/01223326/daikou1.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yamadaten">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yamadaten">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yamadaten.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

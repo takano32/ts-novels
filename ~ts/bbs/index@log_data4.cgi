@@ -77,7 +77,7 @@ link<input type=checkbox name="link" value="1" checked>
 　さて、夏ごろから文庫ＭＬ（メーリングリスト）に投稿していただいたメールが、ＳＰＡＭ（迷惑メール）フィルタに引っかかることがたびたびありましたので、それを回避するために、投稿規定を一部改定しました。<br>
 　くわしくは投稿規定のページをご覧ください。<br>
 <br>
-<a href=http://ts.novels.jp/boshuu.html target=_top>http://ts.novels.jp/boshuu.html</a><br>
+<a href="../../boshuu.html" target=_top>http://ts.novels.jp/boshuu.html</a><br>
 <br>
 　ご迷惑をおかけしますが、何とぞよろしくお願いします。</font>
 </td></table>

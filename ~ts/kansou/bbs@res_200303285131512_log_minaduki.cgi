@@ -1,51 +1,51 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����������i���z�f����</title>
+<title>水無月さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����������i���z�f����</font>
+<font size=5>水無月さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="minaduki">
 <input type=hidden name="nj" value="6oyUjuBiTz">
 <input type=hidden name="res" value="70">
-<h4 align=center>�� �L���ԍ� 70 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 70 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���z�A���肪�Ƃ��������܂��I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ����������
-&gt; �������z��{���ɂ��肪�Ƃ��������܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:感想、ありがとうございます！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 水無月さん
+&gt; いつも感想を本当にありがとうございます。
 &gt; 
-&gt; &gt; ���W�I�̌㔼��c
-&gt; �݂Ȃ���A����ɂ���Ǝv���Ă���̂ł��傤���c(��)
-&gt; ���݂܂���B�㔼��͂���܂���B���W�I�̘b�͂���ŏI���Ȃ̂ł��B
-&gt; �܂�A�������D�Q�̊w���ՂƓ����Ȃ̂ł��c�B�ςȏI�����ł��߂�Ȃ����B
+&gt; &gt; ラジオの後半戦…
+&gt; みなさん、次回にあると思っているのでしょうか…(汗)
+&gt; すみません。後半戦はありません。ラジオの話はこれで終わりなのです。
+&gt; つまり、ａｃｔ．２の学園祭と同じなのです…。変な終わり方でごめんなさい。
 &gt; 
-&gt; ���݂ɁA�ԊO�҂R�ɂāA�w���Ձi��N�ځj�̘b���o�Ă���\��B��N�ڂɂ��Ȃ��������Ƃ��A����Ă��܂�����ł��I
+&gt; 因みに、番外編３にて、学園祭（二年目）の話が出てくる予定。一年目にやれなかったことを、やってしまうつもりです！
 &gt; 
-&gt; &gt; �ؘa�n�c
-&gt; �����g�A�o��l���͍ŏ����ŗ}�����������̂ł����ǁA�܂�����Ȃ̂𑝂₵�Ă��܂����c�I ����̂��Z�����ł������O�������Ƃ����̂Ɂc(��)
-&gt; �a�n�͐��̂��Ƃ��A�ꉞ�����Ǝv���Ă��܂��B�����v���Ă��鍁�ގ}���ꏏ�ɐ����ɓ�����܂�������B�Ƃ����ݒ�i^^�U
+&gt; &gt; 青木和馬…
+&gt; 私自身、登場人物は最小限で抑えたかったのですけど、また強烈なのを増やしてしまった…！ 健二のお兄ちゃんでさえ名前が無いというのに…(笑)
+&gt; 和馬は雪野のことを、一応女だと思っています。そう思っている香奈枝が一緒に説得に当たりましたから。という設定（^^ゞ
 &gt; 
-&gt; �Ƃ�[���A���̐ؘa�n�̍���̓o��\��́c�c�݂Ȃ���ق����̂ł����H(��)</textarea><br>
+&gt; とゆーか、この青木和馬の今後の登場予定は……みなさんほしいのですか？(笑)</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -58,130 +58,130 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[74]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �܂��S���ǔj���Ă܂���</font>
+<font size=2>[74]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> まだ全部読破してませんが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/13 (��) 17:38:22 <strong>��</strong> ���} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311134173822&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311134173822"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/13 (木) 17:38:22 <strong>▽</strong> 理枝 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311134173822_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200311134173822"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���}�B���������ł��킽���B���܂ŁI<br>
-�ƁA�т����肵���̂ŏ����Ă݂܂����B<br>
-�T���������ǂ܂��Ă��������܂��B</font>
+<font size=3 color=#606060>理枝。同姓同名ですわたし。字まで！<br>
+と、びっくりしたので書いてみました。<br>
+週末ゆっくり読ませていただきます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[73]</font> <font size=4 color=#40c0c0> �I�I</font>
+<font size=2>[73]</font> <font size=4 color=#40c0c0> ！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/03 (��) 07:19:46 <strong>��</strong> ta </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311031071946&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311031071946"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/03 (月) 07:19:46 <strong>▽</strong> ta </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311031071946_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200311031071946"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������I�I�����I�I�b���I�I<br>
-��b����ŐV�̘Z�b�܂ł������ɓǂ܂��Ă��������܂����B<br>
-�e���|���悭�A�ǂ�ǂ�ǂ݂����ł��ˁB<br>
+<font size=3 color=#606060>すごい！！いい！！話だ！！<br>
+一話から最新の六話までいっきに読ませていただきました。<br>
+テンポがよく、どんどん読みたいですね。<br>
 <br>
-�E�E�낭�Ȋ��z�Ő\����Ȃ��ł��E�E�B</font>
+・・ろくな感想で申し訳ないです・・。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[72]</font> <font size=4 color=#40c0c0> ���z�ǁ[���ł��I</font>
+<font size=2>[72]</font> <font size=4 color=#40c0c0> 感想どーもです！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/31 (��) 00:32:06 <strong>��</strong> <a href="mailto:miyachan@mtu.ne.jp">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303311003206&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303311003206"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/31 (月) 00:32:06 <strong>▽</strong> <a href="mailto:miyachan@mtu.ne.jp">水無月</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303311003206_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200303311003206"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������A���z��{���ɂ��肪�Ƃ��������܂��B<br>
-���w�E�̒ʂ�A�����̋����L�����������ł��c(��)<br>
-�{�҂�������Ƃ�肷������������Ȃ��` �Ɗ����Ă����̂ŁA�ԊO�҂͂����̋����L�����͈�؏o���Ȃ��ł������I���������A�b���V���A�X�H���ɌX���悤�I<br>
-�����v���ď����Ă�����A�����Ȃ����i���j<br>
+<font size=3 color=#606060>翁さん、感想を本当にありがとうございます。<br>
+ご指摘の通り、あくの強いキャラが多いです…(汗)<br>
+本編がちょっとやりすぎちゃったかなぁ〜 と感じていたので、番外編はあくの強いキャラは一切出さないでおこう！もう少し、話をシリアス路線に傾けよう！<br>
+そう思って書いていたら、こうなった（爆）<br>
 <br>
-�܂��A����͂���Ŗʔ����������ȂƁA�ŋߎ��͊J�������Ă���܂��B�J������Ȃ��ƁA���M�������܂���I�i�΁j<br>
-�{�҂͍���A�����̋����L�����̏o�Ԃ͂ǂ�ǂ񌸂��Ă䂫�A<br>
-���́A������Ɛ^�ʖڂȘb�֌������Ă����c�c�i�̂�������Ȃ��c�j</font>
+まぁ、これはこれで面白かったかなと、最近私は開き直っております。開き直らないと、執筆が続きません！（笑）<br>
+本編は今後、あくの強いキャラの出番はどんどん減ってゆき、<br>
+雪野は、ちょっと真面目な話へ向かっていく……（のかもしれない…）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[71]</font> <font size=4 color=#40c0c0> �������낢�ł��B</font>
+<font size=2>[71]</font> <font size=4 color=#40c0c0> おもしろいです。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/28 (��) 22:13:18 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303285221318&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303285221318"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/28 (金) 22:13:18 <strong>▽</strong> 翁 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303285221318_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200303285221318"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂��߂܂��āA���̃V���[�Y�̓V���A�X�ƃM���O�̃M���b�v���ʔ����ł��ˁB<br>
-������l���̐�삳�񂪑��̃L�����N�^�ɑ��݊���H���Ă��܂��Ă���̂��C�ɂȂ�܂��B<br>
-���ɕ�e�Ǝ������В��ɁE�E�E��������������Ǝv���܂����B<br>
-����ł͑������y���݂��Ă���܂��B</font>
+<font size=3 color=#606060>はじめまして、このシリーズはシリアスとギャグのギャップが面白いですね。<br>
+ただ主人公の雪野さんが他のキャラクタに存在感を食われてしまっているのが気になります。<br>
+特に母親と事務所社長に・・・あくが強すぎると思いました。<br>
+それでは続きを楽しみしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[70]</font> <font size=4 color=#40c0c0> ���z�A���肪�Ƃ��������܂��I</font>
+<font size=2>[70]</font> <font size=4 color=#40c0c0> 感想、ありがとうございます！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/28 (��) 13:15:12 <strong>��</strong> <a href="mailto:miyachan@mtu.ne.jp">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303285131512&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303285131512"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/28 (金) 13:15:12 <strong>▽</strong> <a href="mailto:miyachan@mtu.ne.jp">水無月</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303285131512_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200303285131512"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������z��{���ɂ��肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>いつも感想を本当にありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt; ���W�I�̌㔼��c</font><br>
-�݂Ȃ���A����ɂ���Ǝv���Ă���̂ł��傤���c(��)<br>
-���݂܂���B�㔼��͂���܂���B���W�I�̘b�͂���ŏI���Ȃ̂ł��B<br>
-�܂�A�������D�Q�̊w���ՂƓ����Ȃ̂ł��c�B�ςȏI�����ł��߂�Ȃ����B<br>
+<font color="#cc88ff">&gt; ラジオの後半戦…</font><br>
+みなさん、次回にあると思っているのでしょうか…(汗)<br>
+すみません。後半戦はありません。ラジオの話はこれで終わりなのです。<br>
+つまり、ａｃｔ．２の学園祭と同じなのです…。変な終わり方でごめんなさい。<br>
 <br>
-���݂ɁA�ԊO�҂R�ɂāA�w���Ձi��N�ځj�̘b���o�Ă���\��B��N�ڂɂ��Ȃ��������Ƃ��A����Ă��܂�����ł��I<br>
+因みに、番外編３にて、学園祭（二年目）の話が出てくる予定。一年目にやれなかったことを、やってしまうつもりです！<br>
 <br>
-<font color="#cc88ff">&gt; �ؘa�n�c</font><br>
-�����g�A�o��l���͍ŏ����ŗ}�����������̂ł����ǁA�܂�����Ȃ̂𑝂₵�Ă��܂����c�I ����̂��Z�����ł������O�������Ƃ����̂Ɂc(��)<br>
-�a�n�͐��̂��Ƃ��A�ꉞ�����Ǝv���Ă��܂��B�����v���Ă��鍁�ގ}���ꏏ�ɐ����ɓ�����܂�������B�Ƃ����ݒ�i^^�U<br>
+<font color="#cc88ff">&gt; 青木和馬…</font><br>
+私自身、登場人物は最小限で抑えたかったのですけど、また強烈なのを増やしてしまった…！ 健二のお兄ちゃんでさえ名前が無いというのに…(笑)<br>
+和馬は雪野のことを、一応女だと思っています。そう思っている香奈枝が一緒に説得に当たりましたから。という設定（^^ゞ<br>
 <br>
-�Ƃ�[���A���̐ؘa�n�̍���̓o��\��́c�c�݂Ȃ���ق����̂ł����H(��)</font>
+とゆーか、この青木和馬の今後の登場予定は……みなさんほしいのですか？(笑)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[69]</font> <font size=4 color=#40c0c0> ���[�A�ʔ��������I</font>
+<font size=2>[69]</font> <font size=4 color=#40c0c0> あー、面白かった！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/26 (��) 23:26:58 <strong>��</strong> ����� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303263232658&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303263232658"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/26 (水) 23:26:58 <strong>▽</strong> 日比野 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303263232658_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200303263232658"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���W�I�ł̈�l������Ƃ��Ă��y���������ł��B<br>
-�ԊO�҂ƃ����N����ƁA���}�����Ɠ���������Ƃ��ɂ́A���łɍ��ގ}�ɂ̓o���Ă���ł��ˁB�Ȃ񂩂��������̂��΂��������ł��B<br>
-�Ƃ���ŁA�d�g�d������Ɠ������؂͐����ǂ������Ǝv���Ă����ł��傤�ˁB����ς菗�ł��傤���i�΁j</font>
+<font size=3 color=#606060>ラジオでの一人二役がとっても楽しかったです。<br>
+番外編とリンクすると、理枝ちゃんと瞳が会ったときには、すでに香奈枝にはバレてたんですね。なんかそういうのも可笑しかったです。<br>
+ところで、電波妖精さんと同じく青木は雪野をどっちだと思っているんでしょうね。やっぱり女でしょうか（笑）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[68]</font> <font size=4 color=#40c0c0> �wThe voice of ours act.6�x�ǂ݂܂���</font>
+<font size=2>[68]</font> <font size=4 color=#40c0c0> 『The voice of ours act.6』読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/26 (��) 02:09:03 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303263020903&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303263020903"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/26 (水) 02:09:03 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303263020903_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200303263020903"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������΂ꂽ�Ƃ͂����A�����̒j���ĂƂ���͂܂��΂�Ă��Ȃ��̂ł��ˁB<br>
-���ꂪ�΂ꂽ�Ƃ��ɂǂ��Ȃ�̂��c�y���݂ł��B:-)<br>
+<font size=3 color=#606060>二役がばれたとはいえ、女装の男ってところはまだばれていないのですね。<br>
+これがばれたときにどうなるのか…楽しみです。:-)<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -189,35 +189,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[67]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[67]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/26 (��) 00:39:56 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303263003956&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303263003956"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/26 (水) 00:39:56 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303263003956_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200303263003956"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����A�������낢�ł��B�L���������������B�����č��ގ}�����ɂ͂�������o�����Ⴄ���A����Ȃ�ł����񂾂낤���B�Ă���������ł�����ς菗�̎q�Ƃ��Č����Ă�����Ă��������i���j<br>
+<font size=3 color=#606060>毎回、おもしろいです。キャラが動く動く。そして香奈枝ちゃんにはあっさりバレちゃうし、こんなんでいいんだろうか。ていうかそれでもやっぱり女の子として見られているっていったい（汗）<br>
 <br>
-����̓��W�I�ԑg�㔼��ł����B���������ǂ��Ȃ�̂��C�ɂȂ�܂��B����΂��Ă��������I<br>
-�ɂ��Ă��A�؂͐��̂��Ƃ��ǂ������Ǝv���Ă���̂��낤���c�B�������c�B</font>
+次回はラジオ番組後半戦ですか。いったいどうなるのか気になります。がんばってください！<br>
+にしても、青木は雪野のことをどっちだと思っているのだろうか…。微妙だ…。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[66]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[66]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/26 (��) 00:27:48 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303263002748&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303263002748"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/26 (水) 00:27:48 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303263002748_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200303263002748"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�ށA�s��Ȉ�l�ŋ��i���j�B<br>
-���������A�ӊO�Ƃ�������o���܂����˂��i�΁j�B<br>
-�܂��A�ςȕ��Ɏv������ł���悤�ł����ǂˁi���j�B<br>
-�ؘa�n�E�E�E�v���Ӑl�����ȁi���΁j�B<br>
-�Ƃ���Ń��W�I�̌㔼�͎���E�E�E�Ȃ̂��ȁH</font>
+<font size=3 color=#606060>うーむ、壮絶な一人芝居（爆）。<br>
+しっかし、意外とあっさりバレましたねぇ（笑）。<br>
+まあ、変な風に思いこんでいるようですけどね（爆）。<br>
+青木和馬・・・要注意人物だな（爆笑）。<br>
+ところでラジオの後半は次回・・・なのかな？</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -225,22 +225,22 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[65]</font> <font size=4 color=#40c0c0> �wThe voice of ours act.6�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[65]</font> <font size=4 color=#40c0c0> 『The voice of ours act.6』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/25 (��) 22:54:03 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303252225403&log=minaduki">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303252225403"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/25 (火) 22:54:03 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303252225403_log_minaduki.cgi">返信</a>　削除<input type=checkbox name="target" value="200303252225403"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z ��l����͖Z�����ł��B���܂��ɁA���̂΂�Ă܂��B��̑��v�ł��傤���c�c�B<br>
+<font size=3 color=#606060>【推薦文】 一人二役は忙しいです。おまけに、正体ばれてます。一体大丈夫でしょうか……。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200206/20162303/the&#95;voice&#95;of&#95;ours&#95;act-6.html target=_top>http://ts.novels.jp/novel/200206/20162303/the&#95;voice&#95;of&#95;ours&#95;act-6.html</a></font>
+<a href="../../novel/200206/20162303/the_voice_of_ours_act-6.html" target=_top>http://ts.novels.jp/novel/200206/20162303/the&#95;voice&#95;of&#95;ours&#95;act-6.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="minaduki">
@@ -248,16 +248,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="minaduki">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=minaduki">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_minaduki.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

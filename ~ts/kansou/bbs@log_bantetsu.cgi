@@ -118,7 +118,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>魔王とヴァルキリーのハイテンションな空中戦が追加されました！<br>
-<a href=http://ts.novels.jp/novel/200606/01233508/darklord4.htm target=_top>http://ts.novels.jp/novel/200606/01233508/darklord4.htm</a></font>
+<a href="../../novel/200606/01233508/darklord4.htm" target=_top>http://ts.novels.jp/novel/200606/01233508/darklord4.htm</a></font>
 </td></table>
 </td></tr></table>
 

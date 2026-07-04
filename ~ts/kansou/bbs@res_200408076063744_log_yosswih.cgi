@@ -1,38 +1,38 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>��������[�����i���z�f����</title>
+<title>よっすぃーさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��������[�����i���z�f����</font>
+<font size=5>よっすぃーさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yosswih">
 <input type=hidden name="nj" value="g6E6rEUl18">
 <input type=hidden name="res" value="86">
-<h4 align=center>�� �L���ԍ� 86 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 86 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�}�C�e�B�W���b�N"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��ǐ�����
-&gt; �}�C�e�B�W���b�N�Ƃ����΁A�܂��K�L�̍��ɖ��ʉ���X�[�p�[�K�[�f���ŁA���f�O��ՂƂ����������ő�W�������A���ɂ��������Ɛe�ɂ����񂾂̂ɂ�Ă����Ă��炦�Ȃ������A�ق�ꂢ�v���o����݂������Ă��܂����B����삪�҂��������ł��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:マイティジャック"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 雅良生さん
+&gt; マイティジャックといえば、まだガキの頃に箕面温泉スーパーガーデンで、放映前夜祭というかたちで大展示会があり、見にいきたいと親にせがんだのにつれていってもらえなかった、ほろ苦い思い出がよみがえってきました。次回作が待ち遠しいです。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -45,35 +45,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[86]</font> <font size=4 color=#40c0c0> �}�C�e�B�W���b�N</font>
+<font size=2>[86]</font> <font size=4 color=#40c0c0> マイティジャック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/07 (�y) 06:37:44 <strong>��</strong> <a href="mailto:garyosei@agate.plala.or.jp">��ǐ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408076063744&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408076063744"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/07 (土) 06:37:44 <strong>▽</strong> <a href="mailto:garyosei@agate.plala.or.jp">雅良生</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408076063744_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408076063744"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�}�C�e�B�W���b�N�Ƃ����΁A�܂��K�L�̍��ɖ��ʉ���X�[�p�[�K�[�f���ŁA���f�O��ՂƂ����������ő�W�������A���ɂ��������Ɛe�ɂ����񂾂̂ɂ�Ă����Ă��炦�Ȃ������A�ق�ꂢ�v���o����݂������Ă��܂����B����삪�҂��������ł��B</font>
+<font size=3 color=#606060>マイティジャックといえば、まだガキの頃に箕面温泉スーパーガーデンで、放映前夜祭というかたちで大展示会があり、見にいきたいと親にせがんだのにつれていってもらえなかった、ほろ苦い思い出がよみがえってきました。次回作が待ち遠しいです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[85]</font> <font size=4 color=#40c0c0> �݂Ȃ��܊��z���肪�Ƃ��������܂����B</font>
+<font size=2>[85]</font> <font size=4 color=#40c0c0> みなさま感想ありがとうございました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/06 (��) 23:53:16 <strong>��</strong> <a href="mailto:yossuli@r4.dion.ne.jp">��������[</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408065235316&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408065235316"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/06 (金) 23:53:16 <strong>▽</strong> <a href="mailto:yossuli@r4.dion.ne.jp">よっすぃー</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408065235316_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408065235316"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����u�ʂɂ��Ԏ����v�Ǝv�����̂ł����A�d��������e�������̂ł܂Ƃ߂Ă��Ԏ������Ă��������B<br>
+<font size=3 color=#606060>当初「個別にお返事を」と思ったのですが、重複する内容も多いのでまとめてお返事させてください。<br>
 <br>
-���Ƃ��Ƃ��̍�i�́u�^���Əo�Łv�ɓ��e�������C�g�m�x���ł��i���������ɖ{1�����Ȃ̂͂��̊֌W�j�B���ʂ͌����v�������̂ŁA���M�C�����ē��e���܂����B���l�̕����u�s�r�v�f�����Ȃ��v�Ǝw�E�����̂́u���Ɂv�I�ɂ͓��R��������܂���B<br>
-�{�������͂s�r�����̐��T�C�g�ł��̂ŁA���e�I�ɁH�@�Ƃ͎v�����̂ł����A�u���������������̂�������̖ڂ������悤�v�Ƃ������R�œ��e�����̂ł��̂�����͂����ق��B<br>
-�ǂ���ɂ��掄�̏ꍇ�u�s�r�v�͓Y�����������Ȋ����ɂȂ�A�b�̖ړI�ł͂Ȃ��l�^�̎�i�Ŏg���Ă���܂��B�܂����̊E�G�ɂ͐��̐��قǕ����������܂��̂ŁA����ȓz���P�l�ʂ��Ă������ł���ˁH<br>
-�l�^�I�ɂ͂��̘b�A�}�N���X�{���}�g�{�K���_���݂����Ȋ����ł��傤���ˁH�@�V���t�B�[�h�̃C���[�W�͒m��l���m��r�e�w�u�}�C�e�B�E�W���b�N�v�̂l�i���ł��B<br>
-�a�f�l�̓r�W���A���o���h�̂͂���A�X�y�N�g�����́u�C���U�E�X�y�[�X�v�𒮂��Ă���������Ɗ���������ł��B<br>
-������Ƙb���E�����܂������A�Ō�܂œǂ�ł��������Ă��肪�Ƃ��������܂����B<br>
+もともとこの作品は「某商業出版」に投稿したライトノベルです（長さが文庫本1冊分なのはその関係）。結果は見事没だったので、加筆修正して投稿しました。幾人の方が「ＴＳ要素が少ない」と指摘されるのは「文庫」的には当然かもしれません。<br>
+本来ここはＴＳ小説の専門サイトですので、内容的に？　とは思ったのですが、「せっかく書いたのだから日の目を見せよう」という理由で投稿したのでそのあたらはご勘弁を。<br>
+どちらにせよ私の場合「ＴＳ」は添え物見たいな感じになり、話の目的ではなくネタの手段で使っております。まぁこの界隈には星の数ほど物書きがいますので、こんな奴が１人位いてもいいですよね？<br>
+ネタ的にはこの話、マクロス＋ヤマト＋ガンダムみたいな感じでしょうかね？　シルフィードのイメージは知る人ぞ知るＳＦＸ「マイティ・ジャック」のＭＪ号です。<br>
+ＢＧＭはビジュアルバンドのはしり、スペクトラムの「インザ・スペース」を聴いていただけると嬉しい限りです。<br>
+ちょっと話が脱線しましたが、最後まで読んでいただいてありがとうございました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -81,83 +81,83 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[84]</font> <font size=4 color=#40c0c0> ���������l�ł��B</font>
+<font size=2>[84]</font> <font size=4 color=#40c0c0> 完結お疲れ様です。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/05 (��) 23:50:46 <strong>��</strong> NHK </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408054235046&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408054235046"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/05 (木) 23:50:46 <strong>▽</strong> NHK </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408054235046_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408054235046"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂��m���Ɋ͑���ɗ͂������TS�v�f�������Ȃ��Ă��܂����A<br>
-���̂�����̍������̓���́A�悭������܂��B<br>
-���́A�����~�X�e�����̂����������̂́A<br>
-TS�v�f�������Ȃ�߂��āA���e����߂����Ƃ�����̂ł��B<br>
-�ł��A���̏������~�X�e�����y���Ƀo�����X�悭�o���Ă����̂ŁA<br>
-�����܂����B<br>
-��͂�A����͍�҂̗͗ʂȂ̂ł��傤�ˁB</font>
+<font size=3 color=#606060>まぁ確かに艦隊戦に力を入れるとTS要素が薄くなってしまうし、<br>
+そのあたりの匙加減の難しさは、よく分かります。<br>
+実は、私もミステリものを書いたものの、<br>
+TS要素が薄くなり過ぎて、投稿を諦めたことがあるのです。<br>
+でも、私の書いたミステリより遥かにバランスよく出来ていたので、<br>
+驚きました。<br>
+やはり、これは作者の力量なのでしょうね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[83]</font> <font size=4 color=#40c0c0> ��`�F���̂��`�݁`��`��</font>
+<font size=2>[83]</font> <font size=4 color=#40c0c0> ♪〜宇宙のう〜み〜わ〜♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/05 (��) 22:47:09 <strong>��</strong> <a href="mailto:radix104@yahoo.co.jp ">���f�B�b�N�X</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408054224709&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408054224709"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/05 (木) 22:47:09 <strong>▽</strong> <a href="mailto:radix104@yahoo.co.jp ">ラディックス</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408054224709_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408054224709"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������l�ł����B�S�̂�ʂ��Ă݂Ă��A�悭�Z�܂�����i���Ǝv���܂��B�񂪂����[�������Ƃ��Ắu���N�������Ɂv�̍�i�Ƃ��Ă݂��ꍇ�A�͑��킪���C���̍�i�Ɏv���Ă��܂��A������Ȃ��v���܂��B�D�󂭂�̃C�W���������L�͂��ꂩ�炪�{�Ԃ���Ȃ��ł��傤���H����Ƃ�����͉����̏��́H��<br>
-�Ƃ�����A�ŏI��Ɋւ��ẮA�p�C���b�g�A�����ʔ������ėǂ��ł��Ȃ��`��������ƁA�D��N�ƂŐF�X�u��ꂻ���v�Ȃ�ł�����ǁ�j�b�N���ǂ��]�Ԃ��ŕς�邩�ȁH��A�C���X�g�����I�ɂ͂���������ƃ}�b�V�����[���J�b�g���Ȃ��Ǝv������ł����A�������邩�I�ł��ˁ`�B��H���������Ό���̑O�ɏ����ߑ��ɒ��ւ�����ł�����ˁH�ނ[���ޏ��������͂ǂ��������p�ɂȂ�����ł��傤���H�������ނ����B<br>
-��ł͎����@�撣���Ă�������</font>
+<font size=3 color=#606060>完結お疲れ様でした。全体を通してみても、よく纏まった作品だと思います。んがしかーしっ私としては「少年少女文庫」の作品としてみた場合、艦隊戦がメインの作品に思えてしまい、物足りなく思います。優希くんのイジラレ騒動記はこれからが本番じゃないでしょうか？それともこれは何かの序章？爆<br>
+ともあれ、最終回に関しては、パイロット連中が面白すぎて良いですなぁ〜ｗこいつらと、優希君とで色々「やれそう」なんですけれど♪ニックがどう転ぶかで変わるかな？後、イラスト自分的にはもうちょっとマッシュルームカットかなぁと思ったんですが、こうくるか！ですね〜。ん？そう言えば決戦の前に勝負衣装に着替えたんでしたよね？彼つーか彼女ｗ決戦後はどういう艶姿になったんでしょうか？説明求むっす。<br>
+んでは次回作　頑張ってください</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[82]</font> <font size=4 color=#40c0c0> ��o���Ă��܂���</font>
+<font size=2>[82]</font> <font size=4 color=#40c0c0> ♪覚えていますか</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/05 (��) 16:08:47 <strong>��</strong> TRACE </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408054160847&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408054160847"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/05 (木) 16:08:47 <strong>▽</strong> TRACE </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408054160847_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408054160847"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���₟�z���g�ʔ��������I�s��ȉF��SF�A�����l�ł����B<br>
-�N���[�����M�𓾂��悤�����A�{���́u���_�v�͊ԈႢ�Ȃ��D��N���ł��傤�I�����ɓI�ɂ��i���j<br>
-�c�c�܊p������D��N���ɂ̓u���b�W�ŉ̂��ė~�������������c�c�܂��Ƀ~�����C�i���������j</font>
+<font size=3 color=#606060>いやぁホント面白かった！壮大な宇宙SF、お疲れ様でした。<br>
+クルーも自信を得たようだし、本当の「女神」は間違いなく優希クンでしょう！当文庫的にも（爆）<br>
+……折角だから優希クンにはブリッジで歌って欲しかったかも……まさにミ○メイ（おいおい）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[81]</font> <font size=4 color=#40c0c0> ���~�}�V�^</font>
+<font size=2>[81]</font> <font size=4 color=#40c0c0> ヨミマシタ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/05 (��) 15:19:29 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408054151929&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408054151929"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/05 (木) 15:19:29 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408054151929_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408054151929"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�߂ł����߂ł���(����)</font>
+<font size=3 color=#606060>めでたしめでたし(爆笑)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[80]</font> <font size=4 color=#40c0c0> �ǂ�ł��o�C��</font>
+<font size=2>[80]</font> <font size=4 color=#40c0c0> 読んでたバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/05 (��) 01:18:12 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408054011812&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408054011812"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/05 (木) 01:18:12 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408054011812_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408054011812"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����[�A���x�ǂ�ł����̐퓬�V�[���͔w�؂��]�N�]�N���܂��˂��B<br>
-�������C���X�g�t���I�����ō��ł��B<br>
-�����ėD��N���i�΁j�B<br>
-�������ă~���L�[�E�G���W�F���̐V�����o�[�͑N��ȃf�r���[���ʂ����܂����Ƃ��i���j�B</font>
+<font size=3 color=#606060>いやー、何度読んでもこの戦闘シーンは背筋がゾクゾクしますねぇ。<br>
+しかもイラスト付き！もう最高です。<br>
+そして優希クン（笑）。<br>
+かくしてミルキー・エンジェルの新メンバーは鮮烈なデビューを果たしましたとさ（爆）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -165,55 +165,55 @@ TS�v�f�������Ȃ�߂��āA���e����߂����Ƃ�����̂ł��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[79]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[79]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/04 (��) 12:20:18 <strong>��</strong> �����낤 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408043122018&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408043122018"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/04 (水) 12:20:18 <strong>▽</strong> いちろう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408043122018_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408043122018"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ɋ����ł��ˁB<br>
-�X�g�[���[�A�L�����N�^�[���ɖ��͓I�ŁA�Ō�܂Ŋy�����ǂނ��Ƃ��ł��܂����B<br>
-����A�Ƃɂ����ǂ������ł��B<br>
-����ɂ��Ă��D��N���͑��ς�炸���Ċ����ł��ˁB�ނ̏������S�z�ł��B�i��</font>
+<font size=3 color=#606060>ついに完結ですね。<br>
+ストーリー、キャラクター共に魅力的で、最後まで楽しく読むことができました。<br>
+いや、とにかく良かったです。<br>
+それにしても優希クンは相変わらずって感じですね。彼の将来が心配です。（ｗ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[78]</font> <font size=4 color=#40c0c0> �w�@���A�C�h���@�~���L�[�E�G���W�F���@�S�x������ɂ͂������N���b�N�B</font>
+<font size=2>[78]</font> <font size=4 color=#40c0c0> 『機動アイドル　ミルキー・エンジェル　４』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/03 (��) 20:08:50 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408032200850&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408032200850"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/03 (火) 20:08:50 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408032200850_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200408032200850"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�Ȃ�ł������܂ŋ��C�ɏo�邱�Ƃ��ł���̂ɁA���������߂Ȃ��̂��낤�H�@�c�c����͂ˁA�D��N�������炾��i�΁j�B<br>
-<a href=http://ts.novels.jp/novel/200308/07074715/m_angel04.htm target=_top>http://ts.novels.jp/novel/200308/07074715/m_angel04.htm</a></font>
+<font size=3 color=#606060>【推薦文】なんであそこまで強気に出ることができるのに、女装を拒めないのだろう？　……それはね、優希クンだからだよ（笑）。<br>
+<a href="../../novel/200308/07074715/m_angel04.htm" target=_top>http://ts.novels.jp/novel/200308/07074715/m_angel04.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[76]</font> <font size=4 color=#40c0c0> �����BGM�̓��}�g�R�œǂ߁I�I</font>
+<font size=2>[76]</font> <font size=4 color=#40c0c0> 今回のBGMはヤマト３で読め！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/23 (��) 20:54:17 <strong>��</strong> ���f�B�b�N�X </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407235205417&log=yosswih">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407235205417"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/23 (金) 20:54:17 <strong>▽</strong> ラディックス </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407235205417_log_yosswih.cgi">返信</a>　削除<input type=checkbox name="target" value="200407235205417"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂��́`���ǂݏI���܂����悧�`������̓��}�g�R�ŁA��p�`�ł����ȁH���łɌ뎚�߂�����͑���̎n�߂ɓG�͑�5��L���܂Őڋ߂Ƃ���܂����A���3���L�����Ă��邩��5���L���̊ԈႢ����ˁ`�H�F���L���������炠�肦��̂��݂��ł�����<br>
-�ŁA����ς茩�Ă܂���������������[����A�l�n�m�c�n���^�c�ψ� ����B�Ƃ������Ƃō���]���⊮�͂��̒������͂̊͒��̓Y�H�[�_�����ł͂Ȃ��āA�x�����[���񑊂������炢���Ȃ��Ƃ��v�����肗�u�`���؂���v�Ƃ����������������X�ɗǂ���������܂���˂��A���Đl������p�N���ƌ����񂾂��Ă΂��B<br>
-�ł��ł�����͗D�󂭂�ƃ~�T�L�̃��u���u�G�b�`�ȃV�[�������Ȃ��Ă�����Ƃ��݂��������肵�܂��B����ϋɌ���Ԃł̔R���オ�郉�u�͊�{�ł��傤�H����y���݂ɂ��Ă���܂����<br>
-�Ƃ����킯�Œ��X�Ǝ��炵�܂����B����y���݂ɂ��Ă���܂��B�V�����[��</font>
+<font size=3 color=#606060>はいは〜い読み終えましたよぉ〜ｗ今回はヤマト３で、銀英伝ですかな？ついでに誤字めっけ♪艦隊戦の始めに敵艦隊5千キロまで接近とありますが、後で3万キロってあるから5万キロの間違いだよね〜？宇宙キロだったらありえるのがみそですがｗ<br>
+で、やっぱり見てましたかｗよっすぃーさん、ＭＯＮＤＯ＠運営委員 さん。ということで今回脳内補完はあの超巨大戦艦の艦長はズォーダ○大帝ではなくて、ベムラー○首相だったらいいなぁとか思ったりｗ「〜だぺちゃ」という語尾つきだったら更に良いかもしれませんねぇ、って人それをパクリと言うんだってばさ。<br>
+でもでも今回は優希くんとミサキのラブラブエッチなシーンが少なくてちょっとさみしかったりします。やっぱ極限状態での燃え上がるラブは基本でしょう？次回楽しみにしておりますよんｗ<br>
+というわけで長々と失礼しました。次回楽しみにしております。シャローム</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yosswih">
@@ -221,16 +221,16 @@ TS�v�f�������Ȃ�߂��āA���e����߂����Ƃ�����̂ł��B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yosswih">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yosswih">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yosswih.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

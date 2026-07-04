@@ -1,71 +1,71 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�閲�����i�@���z�f����</title>
+<title>夜夢さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�閲�����i�@���z�f����</font>
+<font size=5>夜夢さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yamu">
 <input type=hidden name="nj" value="TVODAlGoFg">
 <input type=hidden name="res" value="24">
-<h4 align=center>�� �L���ԍ� 24 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 24 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�����̂����z���肪�Ƃ��������܂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �閲����
-&gt; ����΂�́A�閲�ł��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:早速のご感想ありがとうございます"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 夜夢さん
+&gt; こんばんは、夜夢です。
 &gt; 
-&gt; mk8426�l�A�Ђ̂ЂƗl�A�����̂����z���肪�Ƃ��������܂��B
+&gt; mk8426様、ひのひと様、早速のご感想ありがとうございます。
 &gt; 
-&gt; &gt;�~�X�g���X�n�E�X�J�X�O��̂��b�ɋ���������܂�������˂��B
-&gt; ����͉����ł����B
-&gt; ���̘b�́A�@�����΂����ꏑ���Ă��������Ǝv���Ă����b�ł�������E�E�E����Ӗ��A�҂��Ă������������Ƃ͊���������ł��B
+&gt; &gt;ミストレスハウス開店前夜のお話に興味がありましたからねぇ。
+&gt; それは何よりでした。
+&gt; この話は、機会があればいずれ書いておきたいと思っていた話でしたから・・・ある意味、待っていた方がいたとは嬉しい限りです。
 &gt; 
-&gt; &gt;�������A�F�l������Ȍ`�Ŋ������ނƂ́A����Ӗ��}�b�h�T�C�G���e�B�X�g�ɒʂ�����̂�����܂��˂��B
-&gt; �E�E�E���̒ʂ�ł��B�~�X�g���X�̐��i�͂���Ȃ���ł��B�i�����炱���A���b�Łh�˂��h�������Ȃ����肵����ŁE�E�E�i�΁j�j
+&gt; &gt;しかし、友人をこんな形で巻き込むとは、ある意味マッドサイエンティストに通ずるものがありますねぇ。
+&gt; ・・・その通りです。ミストレスの性格はこんなもんです。（だからこそ、第一話で”ねこ”がああなったりした訳で・・・（笑））
 &gt; 
-&gt; &gt;�Ђ�������āA��J���Ă��񂾂˂��i�΁j�B
-&gt; �E�E�E���̏��A�h�Ђ��h����ς������̂́h�ӂ��h�̕��̋C�����܂����ǁE�E�E
-&gt; ���ƌ����Ă��A�C�₵�ē|�ꂽ�h�Ђ��h��X�ɂ���e�B��́f�j��Ƃ��āA���̏ꏊ�܂ŘA��čs���ĉ��������E�E�E�����C�₷�邩������Ȃ��h�Ђ��h�Ɋ�����Đڋq��S�������󂯂���E�E�E�F�X�Ƒ�ς����Ȃ��Ƃ��������݂����ł�����ˁB
+&gt; &gt;ひぃさんって、苦労してたんだねぇ（笑）。
+&gt; ・・・実の所、”ひぃ”より大変だったのは”ふく”の方の気がしますけど・・・
+&gt; 何と言っても、気絶して倒れた”ひぃ”を店にいる‘唯一の’男手として、あの場所まで連れて行って介抱したり・・・何時気絶するか分からない”ひぃ”に換わって接客を全部引き受けたり・・・色々と大変そうなことがあったみたいですからね。
 &gt; 
-&gt; &gt;�Ƃ���ŁA����͉��N���炢�O�̘b�ɂȂ�񂾂낤�B
-&gt; �E�E�E���z���̒ʂ�ł��i���j�B
-&gt; �i�~�X�g���X�E�h�ӂ��h�E�h�Ђ��h�̎O�l�́A���N��O����̔N��̔{�߂��Ȃ��Ă���Ǝv���܂�����ˁE�E�E�j
+&gt; &gt;ところで、これは何年くらい前の話になるんだろう。
+&gt; ・・・ご想像の通りです（爆）。
+&gt; （ミストレス・”ふく”・”ひぃ”の三人は、実年齢が外見上の年齢の倍近くなっていると思われますからね・・・）
 &gt; 
-&gt; �����Ă��āB��D���Ȃ�ł���A���̃V���[�Y�B�Ȃ�Ă����܂����A�Ƃ���l�̌��t���؂��΁u���N���N���A�݂������]�N�]�N�v�Ƃ��������o�����킦���ł��B
-&gt; �E�E�E����ȕ��ɕ]���Ē����A���h�̎���ł��B
+&gt; ＞さてさて。大好きなんですよ、このシリーズ。なんていいますか、とある人の言葉を借りれば「頭クラクラ、みぞおちゾクゾク」といった感覚が味わえるんです。
+&gt; ・・・こんな風に評して頂き、光栄の至りです。
 &gt; 
-&gt; ������͂ӂ�&amp;�Ђ��̉�����(�H)�鏉�߂Ƀh�L�h�L���̂ł����B���ł͖��G�Ɏv�����l�����߂́c�c����Ȃ������̂ł��ˁB�Ȃ�ď��X������
-&gt; �����Ȃ�ł���ˁB�ޓ������G�Ɍ�����̂́A���̐��i�ƌ����̂�����܂����A�N�̌��i���j�̏��������ł��ˁE�E�E�i�΁j
-&gt; �i���Ȃ݂ɁA���̍��̔ޓ����č��́h�˂��h���炢�̃����N��������ł���ˁE�E�E�j
+&gt; ＞今回はふく&amp;ひぃの怪しい(？)馴初めにドキドキものでした。今では無敵に思える二人も初めは……あんなだったのですね。なんて初々しい♪
+&gt; そうなんですよね。彼等が無敵に見えるのは、根の性格と言うのもありますが、年の功（爆）の所がだいですね・・・（笑）
+&gt; （ちなみに、この頃の彼等って今の”ねこ”ぐらいのランクだったんですよね・・・）
 &gt; 
-&gt; ���ǂ炳��̉���A�������E�������������Ŏv�킸�h�L�����̂ł����B
-&gt; ����́A���������ӂł��B�����ǂ炳��̃C���X�g�̃t�@���̈�l�Ƃ��āA����ɂ͌�����Ă��܂��܂����B
+&gt; ＞どらさんの画も、怪しさ・艶かしさ爆発で思わずドキリものでした。
+&gt; これは、激しく同意です。私もどらさんのイラストのファンの一人として、これには見惚れてしまいました。
 &gt; 
-&gt; ������Ȑ������b�̃V�F�A���[���h���̐S�ӋC�͑f���炵���Ǝv���܂����ǁA�閲����ȊO�ɂ����܂ł̕��͋C�������o����l�����邩�ǂ����S�z�ɂ��Ȃ��Ă��܂��܂��B��ς�������܂��񂯂ǁA���ꂩ������҂��Ă܂��̂ł���΂��ĉ������܂��B
-&gt; �E�E�E���������ĖႦ��̂́A��Ɩ����ɐs���錾�t�ł��E�E�E���肪�Ƃ��������܂��B
-&gt; �i�E�E�E�V�F�A���[���h�Ɋւ��ẮA���t���ĉ���������������Ƃ͌����Ă����܂��B�j
+&gt; ＞こんな凄いお話のシェアワールド化の心意気は素晴らしいと思いますけど、夜夢さん以外にここまでの雰囲気を醸し出せる人がいるかどうか心配にもなってしまいます。大変かもしれませんけど、これからも期待してますのでがんばって下さいませ。
+&gt; ・・・こう言って貰えるのは、作家冥利に尽きる言葉です・・・ありがとうございます。
+&gt; （・・・シェアワールドに関しては、手を付けて下さった方がいるとは言っておきます。）
 &gt; 
-&gt; ���A�������������Ē����Ă��܂��B���߂ɏo����l�ɂ������v���܂��̂ŁA���҂��đ҂��ĉ�����Ȃ�K���ł��B</textarea><br>
+&gt; 今、次回作を書かせて頂いています。早めに出せる様にしたく思いますので、期待して待って下さるなら幸いです。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -78,114 +78,114 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/18 (��) 17:25:02 <strong>��</strong> �閲 </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208180172502&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208180172502"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/18 (日) 17:25:02 <strong>▽</strong> 夜夢 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208180172502_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208180172502"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ł��B<br>
-�m�C���l�A���z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>どうも、夜夢です。<br>
+ノイン様、感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;���z�̎����͂����E�E�E</font><br>
-�E�E�E���������A����Ȃ��Ƃ͂��C�ɂȂ��炸�ɁE�E�E���z�𒸂��邱�Ƃ͊���������ł�����E�E�E<br>
+<font color="#cc88ff">&gt;感想の時期はずし・・・</font><br>
+・・・いえいえ、そんなことはお気になさらずに・・・感想を頂けることは嬉しい限りですから・・・<br>
 <br>
-<font color="#cc88ff">&gt;�Ȃ񂾂���𑝂����Ƃɋ��͂ɂȂ��Ă����܂��˂��B<br>
-&gt;���@�������̒��ł��A���Ȃ�V���A�X�Ȃ̂�������Ȃ��E�E�E�B</font><br>
-�V���A�X�Ȃ�ł��傤���E�E�E�i�b���ٍl�j�E�E�E������������Ȃ��E�E�E<br>
-�����A���̏ꍇ�A�R�~�J���Șb�������Ă���ƁA�V���A�X���_�[�N�Șb�����������Ȃ�݂����Ȃ�ł���ˁB<br>
-�i�ق�A�~�X�g���X�{�҂��Ċ�{�I�ɃR�~�J���Ȑi�s�����Ă��邶��Ȃ��ł����E�E�E�j<br>
+<font color="#cc88ff">&gt;なんだか回を増すごとに強力になっていきますねえ。<br>
+&gt;魔法少女物の中でも、かなりシリアスなのかもしれない・・・。</font><br>
+シリアスなんでしょうか・・・（暫し黙考）・・・そうかもしれない・・・<br>
+ただ、私の場合、コミカルな話を書いていると、シリアスやらダークな話を書きたくなるみたいなんですよね。<br>
+（ほら、ミストレス本編って基本的にコミカルな進行をしているじゃないですか・・・）<br>
 <br>
-����ƁA���d�̃����N�����J�ݒ�ɏƂ炵�Ď����ƁA���o�̂��̂�C-�`C+�ɑ�������ƌ��Ă܂��B�i���ʕ��d�ŁA���Ɂh�����h��h�����h����Ȃ�ł��I�j</font>
+それと、封妖のランクを公開設定に照らして示すと、既出のものでC-〜C+に相当すると見てます。（下位封妖で、既に”こう”や”うさ”より上なんです！）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> ���ɂ�A�ǂ񂾂́B</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> うにょ、読んだの。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/15 (��) 22:16:50 <strong>��</strong> �m�C���i�d�g�d���j </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208154221650&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208154221650"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/15 (木) 22:16:50 <strong>▽</strong> ノイン（電波妖精） </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208154221650_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208154221650"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���z�̎����͂����E�E�E<br>
-�Ȃ񂾂���𑝂����Ƃɋ��͂ɂȂ��Ă����܂��˂��B<br>
-���@�������̒��ł��A���Ȃ�V���A�X�Ȃ̂�������Ȃ��E�E�E�B<br>
-�Ƃ͂����A�G���������ł����ǂˁ�</font>
+<font size=3 color=#606060>感想の時期はずし・・・<br>
+なんだか回を増すごとに強力になっていきますねえ。<br>
+魔法少女物の中でも、かなりシリアスなのかもしれない・・・。<br>
+とはいえ、萌えもあるんですけどね♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> �����̊��z���肪�Ƃ��������܂�</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> 早速の感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/13 (��) 19:17:28 <strong>��</strong> �閲 </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208132191728&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208132191728"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/13 (火) 19:17:28 <strong>▽</strong> 夜夢 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208132191728_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208132191728"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ɂ������܂��B<br>
-mk8426�l�A�Ђ̂ЂƗl�A�����̂����z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>どうも、夜夢にございます。<br>
+mk8426様、ひのひと様、早速のご感想ありがとうございます。<br>
 <br>
-���āA���Ԏ����΁E�E�E<br>
-<font color="#cc88ff">&gt;�������ɂȂ��Ă��Ԃ̎��̃o�b�e���[��j�󂷂�ƁA�����܂ł̑�S���ɂȂ��Ă��܂���ł��˂��B����͊댯���B</font><br>
-�E�E�E����A���́E�E�E�ʂɎ��̏�ԂłȂ��Ă��o�b�e���[���ɂ̓C�[�i�̗]�薂�͂��Q�����Ă���̂ŁA���̎S���͋N���蓾���ł����E�E�E<br>
-�i�E�E�E���̃f�B�X�`���[�W�E���[�h�̎��́A�܂��܂����ȁE�E�E�H�j<br>
+さて、お返事をば・・・<br>
+<font color="#cc88ff">&gt;服が紫になってる状態の時のバッテリーを破壊すると、ここまでの大惨事になってしまうんですねぇ。これは危険だ。</font><br>
+・・・いや、あの・・・別に紫の状態でなくてもバッテリー内にはイーナの余剰魔力が渦巻いているので、あの惨事は起こり得る訳ですが・・・<br>
+（・・・白のディスチャージ・モードの時は、まだましかな・・・？）<br>
 <br>
-<font color="#ff88cc">�����������X�ƕω�������G(����ł������[�H�j</font><br>
-�E�E�E�e���W���c�\�\�V���́A�ϐg�i�����ω��܂ށj�ƌ��������\�͂�����܂����A���ꂾ���ł�����E�E�E�ꉞ���ʂɂȂ��Ă����ł��B�i�΁j<br>
-�Ƃ͌����A�e���W���c�̕��Q���ƌ����̂�����̌����ɂȂ�E�E�E�̂��낤���H�i�T�N�V�����V���Y�^�΁j<br>
+<font color="#ff88cc">＞属性を次々と変化させる敵(それでも下っ端？）</font><br>
+・・・テンジュツ——天戌は、変身（属性変化含む）と言う凄い能力がありますが、それだけですから・・・一応下位になっているんです。（笑）<br>
+とは言え、テンジュツの復讐劇と言うのも次回の見所になる・・・のだろうか？（サクシャモシラズ／笑）<br>
 <br>
-<font color="#cc88ff">&gt;����\���̐����i�΁j�̐l���C�ɂȂ�</font><br>
-<font color="#ff88cc">�����H�@�V�����L�����H</font><br>
-�E�E�E�����A���̎O�l�ڂ̓o��ɂ���āA�C�[�i�B�̐w�c�͏o�������ƂɂȂ�܂��B���̐l���Ƃ́E�E�E�I<br>
-�i��^���̐�������͖̂��ł��傤�E�E�E�j<br>
-�i��^�E�E�E���āA�����ł���ȂɋC����������l�Ȃ��Ƃ�����Ȃ��Ă��E�E�E�j<br>
+<font color="#cc88ff">&gt;次回予告の青い声（笑）の人が気になる</font><br>
+<font color="#ff88cc">＞え？　新しいキャラ？</font><br>
+・・・そう、この三人目の登場によって、イーナ達の陣営は出揃うことになります。その人物とは・・・！<br>
+（夜／この先を言うのは野暮でしょう・・・）<br>
+（暮／・・・って、ここでこんなに気を持たせる様なことを言わなくても・・・）<br>
 <br>
 <br>
-<font color="#ff88cc">���Ƃ���ŁB�A�[���l�ł����B�i���Ⴄ�Ȃ��A�Ƃ͊����܂������ǂ��A����ȏ�܂ł͈ӎ����Ă��܂���ł����B</font><br>
-�Ђ̂ЂƗl���炱�����������������āA�������ł��B<br>
-�A�[���l�̐ݒ菑�������ǂݒ����ƕ�����ł��傤���A�ނ̕��̐��̂������Ă܂���B����́A�P�Ȃ�h�`�̐��h�ł͂Ȃ���ł���ˁB<br>
-�i�E�E�E�ƌ������A�h�`�̐_�h�Ƃ��A�h�`�̈����h�Ƃ������\���̕����ǂ����炢�̕��Ȃ�ł���ˁE�E�E�j<br>
-�E�E�E�ƌ����̂͂Ƃ������A���@�g���̉��l�Ƃ��Ďg�����ƌ������A�Γ����邢�͂���ȏ�̑��݂ł������ł���ˁE�E�E�A�[���l�́E�E�E<br>
-�i�E�E�E�h�ӂ��h��h�Ђ��h�́H�Ɩ���邩���m��܂��񂪁A�ޓ��͏��F�~�X�g���X�ɑn��ꂽ���݂ł����ˁE�E�E�j</font>
+<font color="#ff88cc">＞ところで。アール様ですか。格が違うなぁ、とは感じましたけども、それ以上までは意識していませんでした。</font><br>
+ひのひと様からこう言う反応が頂けて、嬉しいです。<br>
+アール様の設定書きをお読み頂くと分かるでしょうが、彼の方の正体を書いてません。それは、単なる”〜の精”ではないんですよね。<br>
+（・・・と言うか、”〜の神”とか、”〜の悪魔”とか言う表現の方が良いぐらいの方なんですよね・・・）<br>
+・・・と言うのはともかく、魔法使いの下僕として使い魔と言うより、対等あるいはそれ以上の存在でもあるんですよね・・・アール様は・・・<br>
+（・・・”ふく”や”ひぃ”は？と問われるかも知れませんが、彼等は所詮ミストレスに創られた存在ですしね・・・）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0> ���킟�@�}�W�J�ł�</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0> うわぁ　急展開です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/11 (��) 23:25:39 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208110232539&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208110232539"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/11 (日) 23:25:39 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208110232539_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208110232539"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�l�b�ڂɂ��ċ}�W�J�ł��B�������B�������ƂĂ��C�ɂȂ�܂��B���������X�ƕω�������G�Ƃ���(����ł������[�H)�A�|��Ă��܂����C�[�i�̗e�ԂƂ����A��l�̖��@�����̊֌W�ɂ��ω����H�@���H�@�V�����L�����H�@���[��B�C�ɂȂ邱�Ƃ΂���ł�(���)�B<br>
+<font size=3 color=#606060>四話目にして急展開です。ううう。続きがとても気になります。属性を次々と変化させる敵といい(それでも下っ端？)、倒れてしまったイーナの容態といい、二人の魔法少女の関係にも変化が？　え？　新しいキャラ？　うーん。気になることばかりです(苦笑)。<br>
 <br>
-�Ƃ���ŁB�A�[���l�ł����B�i���Ⴄ�Ȃ��A�Ƃ͊����܂������ǂ��A����ȏ�܂ł͈ӎ����Ă��܂���ł����B�Ȃɂ��A���������(���Ăǂ�����ʁc)�ɂ͑a�����̂ł��āc�c�B</font>
+ところで。アール様ですか。格が違うなぁ、とは感じましたけども、それ以上までは意識していませんでした。なにせ、そちら方面(ってどちら方面…)には疎いものでして……。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[29]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/11 (��) 22:19:47 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208110221947&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208110221947"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/11 (日) 22:19:47 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208110221947_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208110221947"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�C�[�i��s���`�I<br>
-�������ɂȂ��Ă��Ԃ̎��̃o�b�e���[��j�󂷂�ƁA�����܂ł̑�S���ɂȂ��Ă��܂���ł��˂��B����͊댯���B<br>
+<font size=3 color=#606060>おお、イーナ大ピンチ！<br>
+服が紫になってる状態の時のバッテリーを破壊すると、ここまでの大惨事になってしまうんですねぇ。これは危険だ。<br>
 <br>
-����\���̐����i�΁j�̐l���C�ɂȂ邍���W�S�Q�U�ł����i���j�B</font>
+次回予告の青い声（笑）の人が気になるｍｋ８４２６でした（爆）。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -193,127 +193,127 @@ mk8426�l�A�Ђ̂ЂƗl�A�����̂����z���肪�Ƃ��������܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> �w�d���̖��@�����G���N�g���b�N�E�C�[�i�@�\�񕕗d�ґ�l�b�x������ɂ͉��̃����N���N���b�N!!</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> 『電光の魔法少女エレクトリック・イーナ　十二封妖編第四話』を見るには下のリンクをクリック!!</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/11 (��) 20:17:35 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208110201735&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208110201735"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/11 (日) 20:17:35 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208110201735_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208110201735"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><a href=http://ts.novels.jp/novel/200112/18123055/e-ena04.htm target=_top>http://ts.novels.jp/novel/200112/18123055/e-ena04.htm</a><br>
+<font size=3 color=#606060><a href="../../novel/200112/18123055/e-ena04.htm" target=_top>http://ts.novels.jp/novel/200112/18123055/e-ena04.htm</a><br>
 <br>
-�y���E���z �@���@�����A�C�[�i�Ɋ�@���K���I�@���̐��ǂ��Ȃ邩�I�H�����̑�l�b�ł��I</font>
+【推薦文】 　魔法少女、イーナに危機が訪れる！　この先やどうなるか！？激白の第四話です！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �~�X�g���X�{�ґ�\�b�Ɋւ��āE�E�E</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> ミストレス本編第十話に関して・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/10 (�y) 12:42:27 <strong>��</strong> �閲 </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208106124227&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208106124227"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/10 (土) 12:42:27 <strong>▽</strong> 夜夢 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208106124227_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208106124227"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�E�E�E�����{��11�b�������n�߂��Ƃ���Ȃ̂ł����E�E�E<br>
-�ӂƎv���΁A�\�b�ŏo�ė����A�[���l�̂��ƁA�N���������Ă���Ă��Ȃ��������Ƃɉ��߂ċC�t���E�E�E<br>
-�܂��A�A�[���l���Ă��̘b�̒��ŖG���̏󋵂ƒ��ڂ�������Ă��Ȃ��󂾂��E�E�E������Ə��������Ă������Ƃ����邩��]��G����Ă��Ȃ��̂����R�Ȃ̂����E�E�E<br>
+<font size=3 color=#606060>・・・只今本編11話を書き始めたところなのですが・・・<br>
+ふと思えば、十話で出て来たアール様のこと、誰も反応してくれていなかったことに改めて気付く・・・<br>
+まぁ、アール様ってあの話の中で萌えの状況と直接かかわっていない訳だし・・・さらっと書き流していたこともあるから余り触れられていないのも当然なのかも・・・<br>
 <br>
-�ނ͂��̃~�X�g���X�V���[�Y�ɓo�ꂷ��t�@�~���A�[�̒��ł��Ȃ���ʂȑ��݂Ȃ�ł����ǁE�E�E�C�t���Ă�������Ă���̂��낤���H</font>
+彼はこのミストレスシリーズに登場するファミリアーの中でかなり特別な存在なんですけど・・・気付いている方っているのだろうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> RE:�����͂��܂�̂��b����</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> RE:あっはじまりのお話しだ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/04 (��) 18:24:59 <strong>��</strong> �閲 </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208040182459&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208040182459"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/04 (日) 18:24:59 <strong>▽</strong> 夜夢 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208040182459_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208040182459"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����΂�́A�閲�ł��B<br>
-�m�C���l���z���肪�Ƃ��������܂��B�y����Œ������悤�ōK���ł��B<br>
+<font size=3 color=#606060>こんばんは、夜夢です。<br>
+ノイン様感想ありがとうございます。楽しんで頂けたようで幸いです。<br>
 <br>
-<font color="#cc88ff">&gt;������ݒ肪��������Ƃ��Ă��邩�炱���Ȃ���Z�Ȃ̂ł��傤�ˁB<br>
-&gt;�������납�����您�B���݂ɂ�����ϑJ�̈�[������ā�</font><br>
-���������ĖႦ��Ƃ͖ʉf���̂ł����E�E�E<br>
-�E�E�E���̘b���̂͂��Ȃ�ȑO����z�N����Ă������̂̈�Ȃ�ŁE�E�E<br>
+<font color="#cc88ff">&gt;これも設定がしっかりとしているからこそなせる技なのでしょうね。<br>
+&gt;おもしろかったよお。現在にいたる変遷の一端が見れて♪</font><br>
+こう言って貰えるとは面映いのですが・・・<br>
+・・・この話自体はかなり以前から想起されていたものの一つなんで・・・<br>
 <br>
-�ݒ肪�������肵�Ă���ƌ������A������x�̐ݒ��p�ӂ��Ă��Ȃ��Ƙb�������Ă���Ȃ������Ƃ������܂��ˁE�E�E���̏ꍇ�E�E�E</font>
+設定がしっかりしていると言うより、ある程度の設定を用意していないと話が動いてくれないだけとも言いますね・・・この場合・・・</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> �����͂��܂�̂��b�����B</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> あっはじまりのお話しだ。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/03 (�y) 12:40:34 <strong>��</strong> �m�C���i�d�g�d���j </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208036124034&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208036124034"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/03 (土) 12:40:34 <strong>▽</strong> ノイン（電波妖精） </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208036124034_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200208036124034"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������ݒ肪��������Ƃ��Ă��邩�炱���Ȃ���Z�Ȃ̂ł��傤�ˁB<br>
-�������납�����您�B���݂ɂ�����ϑJ�̈�[������ā�<br>
-����ɂ��Ă��A���z�̎���������O���Ă��܂����c�ӂ��B<br>
-��������҂ł��B<br>
-���ɃV�F�A�Ȑ��E�Ɋ��҂������Ƃ���E�E�E��̂��ꂪ�E�E�E�B</font>
+<font size=3 color=#606060>これも設定がしっかりとしているからこそなせる技なのでしょうね。<br>
+おもしろかったよお。現在にいたる変遷の一端が見れて♪<br>
+それにしても、感想の時期を二回も外してしまった…ふう。<br>
+次回も期待です。<br>
+特にシェアな世界に期待したいところ・・・一体だれが・・・。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> �����̂����z���肪�Ƃ��������܂�</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> 早速のご感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/31 (��) 19:07:57 <strong>��</strong> �閲 </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207313190757&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207313190757"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/31 (水) 19:07:57 <strong>▽</strong> 夜夢 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207313190757_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200207313190757"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����΂�́A�閲�ł��B<br>
+<font size=3 color=#606060>こんばんは、夜夢です。<br>
 <br>
-mk8426�l�A�Ђ̂ЂƗl�A�����̂����z���肪�Ƃ��������܂��B<br>
+mk8426様、ひのひと様、早速のご感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�~�X�g���X�n�E�X�J�X�O��̂��b�ɋ���������܂�������˂��B</font><br>
-����͉����ł����B<br>
-���̘b�́A�@�����΂����ꏑ���Ă��������Ǝv���Ă����b�ł�������E�E�E����Ӗ��A�҂��Ă������������Ƃ͊���������ł��B<br>
+<font color="#cc88ff">&gt;ミストレスハウス開店前夜のお話に興味がありましたからねぇ。</font><br>
+それは何よりでした。<br>
+この話は、機会があればいずれ書いておきたいと思っていた話でしたから・・・ある意味、待っていた方がいたとは嬉しい限りです。<br>
 <br>
-<font color="#cc88ff">&gt;�������A�F�l������Ȍ`�Ŋ������ނƂ́A����Ӗ��}�b�h�T�C�G���e�B�X�g�ɒʂ�����̂�����܂��˂��B</font><br>
-�E�E�E���̒ʂ�ł��B�~�X�g���X�̐��i�͂���Ȃ���ł��B�i�����炱���A���b�Łh�˂��h�������Ȃ����肵����ŁE�E�E�i�΁j�j<br>
+<font color="#cc88ff">&gt;しかし、友人をこんな形で巻き込むとは、ある意味マッドサイエンティストに通ずるものがありますねぇ。</font><br>
+・・・その通りです。ミストレスの性格はこんなもんです。（だからこそ、第一話で”ねこ”がああなったりした訳で・・・（笑））<br>
 <br>
-<font color="#cc88ff">&gt;�Ђ�������āA��J���Ă��񂾂˂��i�΁j�B</font><br>
-�E�E�E���̏��A�h�Ђ��h����ς������̂́h�ӂ��h�̕��̋C�����܂����ǁE�E�E<br>
-���ƌ����Ă��A�C�₵�ē|�ꂽ�h�Ђ��h��X�ɂ���e�B��́f�j��Ƃ��āA���̏ꏊ�܂ŘA��čs���ĉ��������E�E�E�����C�₷�邩������Ȃ��h�Ђ��h�Ɋ�����Đڋq��S�������󂯂���E�E�E�F�X�Ƒ�ς����Ȃ��Ƃ��������݂����ł�����ˁB<br>
+<font color="#cc88ff">&gt;ひぃさんって、苦労してたんだねぇ（笑）。</font><br>
+・・・実の所、”ひぃ”より大変だったのは”ふく”の方の気がしますけど・・・<br>
+何と言っても、気絶して倒れた”ひぃ”を店にいる‘唯一の’男手として、あの場所まで連れて行って介抱したり・・・何時気絶するか分からない”ひぃ”に換わって接客を全部引き受けたり・・・色々と大変そうなことがあったみたいですからね。<br>
 <br>
-<font color="#cc88ff">&gt;�Ƃ���ŁA����͉��N���炢�O�̘b�ɂȂ�񂾂낤�B</font><br>
-�E�E�E���z���̒ʂ�ł��i���j�B<br>
-�i�~�X�g���X�E�h�ӂ��h�E�h�Ђ��h�̎O�l�́A���N��O����̔N��̔{�߂��Ȃ��Ă���Ǝv���܂�����ˁE�E�E�j<br>
+<font color="#cc88ff">&gt;ところで、これは何年くらい前の話になるんだろう。</font><br>
+・・・ご想像の通りです（爆）。<br>
+（ミストレス・”ふく”・”ひぃ”の三人は、実年齢が外見上の年齢の倍近くなっていると思われますからね・・・）<br>
 <br>
-<font color="#ff88cc">�����Ă��āB��D���Ȃ�ł���A���̃V���[�Y�B�Ȃ�Ă����܂����A�Ƃ���l�̌��t���؂��΁u���N���N���A�݂������]�N�]�N�v�Ƃ��������o�����킦���ł��B</font><br>
-�E�E�E����ȕ��ɕ]���Ē����A���h�̎���ł��B<br>
+<font color="#ff88cc">＞さてさて。大好きなんですよ、このシリーズ。なんていいますか、とある人の言葉を借りれば「頭クラクラ、みぞおちゾクゾク」といった感覚が味わえるんです。</font><br>
+・・・こんな風に評して頂き、光栄の至りです。<br>
 <br>
-<font color="#ff88cc">������͂ӂ�&amp;�Ђ��̉�����(�H)�鏉�߂Ƀh�L�h�L���̂ł����B���ł͖��G�Ɏv�����l�����߂́c�c����Ȃ������̂ł��ˁB�Ȃ�ď��X������</font><br>
-�����Ȃ�ł���ˁB�ޓ������G�Ɍ�����̂́A���̐��i�ƌ����̂�����܂����A�N�̌��i���j�̏��������ł��ˁE�E�E�i�΁j<br>
-�i���Ȃ݂ɁA���̍��̔ޓ����č��́h�˂��h���炢�̃����N��������ł���ˁE�E�E�j<br>
+<font color="#ff88cc">＞今回はふく&amp;ひぃの怪しい(？)馴初めにドキドキものでした。今では無敵に思える二人も初めは……あんなだったのですね。なんて初々しい♪</font><br>
+そうなんですよね。彼等が無敵に見えるのは、根の性格と言うのもありますが、年の功（爆）の所がだいですね・・・（笑）<br>
+（ちなみに、この頃の彼等って今の”ねこ”ぐらいのランクだったんですよね・・・）<br>
 <br>
-<font color="#ff88cc">���ǂ炳��̉���A�������E�������������Ŏv�킸�h�L�����̂ł����B</font><br>
-����́A���������ӂł��B�����ǂ炳��̃C���X�g�̃t�@���̈�l�Ƃ��āA����ɂ͌�����Ă��܂��܂����B<br>
+<font color="#ff88cc">＞どらさんの画も、怪しさ・艶かしさ爆発で思わずドキリものでした。</font><br>
+これは、激しく同意です。私もどらさんのイラストのファンの一人として、これには見惚れてしまいました。<br>
 <br>
-<font color="#ff88cc">������Ȑ������b�̃V�F�A���[���h���̐S�ӋC�͑f���炵���Ǝv���܂����ǁA�閲����ȊO�ɂ����܂ł̕��͋C�������o����l�����邩�ǂ����S�z�ɂ��Ȃ��Ă��܂��܂��B��ς�������܂��񂯂ǁA���ꂩ������҂��Ă܂��̂ł���΂��ĉ������܂��B</font><br>
-�E�E�E���������ĖႦ��̂́A��Ɩ����ɐs���錾�t�ł��E�E�E���肪�Ƃ��������܂��B<br>
-�i�E�E�E�V�F�A���[���h�Ɋւ��ẮA���t���ĉ���������������Ƃ͌����Ă����܂��B�j<br>
+<font color="#ff88cc">＞こんな凄いお話のシェアワールド化の心意気は素晴らしいと思いますけど、夜夢さん以外にここまでの雰囲気を醸し出せる人がいるかどうか心配にもなってしまいます。大変かもしれませんけど、これからも期待してますのでがんばって下さいませ。</font><br>
+・・・こう言って貰えるのは、作家冥利に尽きる言葉です・・・ありがとうございます。<br>
+（・・・シェアワールドに関しては、手を付けて下さった方がいるとは言っておきます。）<br>
 <br>
-���A�������������Ē����Ă��܂��B���߂ɏo����l�ɂ������v���܂��̂ŁA���҂��đ҂��ĉ�����Ȃ�K���ł��B</font>
+今、次回作を書かせて頂いています。早めに出せる様にしたく思いますので、期待して待って下さるなら幸いです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yamu">
@@ -321,16 +321,16 @@ mk8426�l�A�Ђ̂ЂƗl�A�����̂����z���肪�Ƃ��������܂��B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yamu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yamu">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yamu.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

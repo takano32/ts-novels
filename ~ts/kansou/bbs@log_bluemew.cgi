@@ -92,7 +92,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】すっかり忘れ去られていた緑の人。い……生きとったんかい、あんた（笑）。<br>
-<a href=http://ts.novels.jp/novel/200507/03150205/iinjor9.html target=_top>http://ts.novels.jp/novel/200507/03150205/iinjor9.html</a></font>
+<a href="../../novel/200507/03150205/iinjor9.html" target=_top>http://ts.novels.jp/novel/200507/03150205/iinjor9.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -189,7 +189,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】この物語の真のテーマは、「ヒーローと悪はコインの表裏」…………だと思う（笑）。<br>
-<a href=http://ts.novels.jp/novel/200507/03150205/iinjor8.html target=_top>http://ts.novels.jp/novel/200507/03150205/iinjor8.html</a></font>
+<a href="../../novel/200507/03150205/iinjor8.html" target=_top>http://ts.novels.jp/novel/200507/03150205/iinjor8.html</a></font>
 </td></table>
 </td></tr></table>
 

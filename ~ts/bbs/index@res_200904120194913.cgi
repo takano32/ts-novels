@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���Ȑl�A�����Ă����炤�̂��D���Ȑl�̂��߂̈ӌ������{�[�h�ł��B<br>�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな人、つくってもうらうのが好きな人のための意見交換ボードです。<br>ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi" name="F1">
@@ -15,32 +15,32 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="WwK6rexVW3">
 <input type=hidden name="res" value="2537">
-<h4 align=center>�� �L���ԍ� 2537 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 2537 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�X�V��~"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� NATO����
-&gt; �����̊��z�f�����Ɩ��܂��Ă��܂��̂ŁA������ɂ��E�E�E
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:更新停止"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ NATOさん
+&gt; 自分の感想掲示板だと埋まってしまうので、こちらにも・・・
 &gt; 
-&gt; ���z�����Ȃ��Ȃ��Ă��܂����̂ŁA�����ȍ~�̓��e�͂��܂���B
+&gt; 感想が来なくなってしまったので、次回作以降の投稿はしません。
 &gt; 
-&gt; �����Ŏ��͕��ɂ�������܂��B
-&gt; ���ǂ݂����������l�A���肪�Ƃ��������܂����B
+&gt; 今日で私は文庫から消えます。
+&gt; お読みくださった人、ありがとうございました。
 &gt; 
-&gt; �ǐL
-&gt; �ǂ����Ă������⑱�҂�ǂ݂����ꍇ�͘A�����������B
-&gt; �C���������瓊�e���܂��̂ŁB
-&gt; ����ł͂��悤�Ȃ�E�E�E�E</textarea><br>
+&gt; 追伸
+&gt; どうしても続きや続編を読みたい場合は連絡ください。
+&gt; 気が向いたら投稿しますので。
+&gt; それではさようなら・・・・</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h r8tYwL  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="r8tYwL"> <input type=hidden name="hrcode2" size=10 value="&#12354;"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード r8tYwL  <input type=text name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="r8tYwL"> <input type=hidden name="hrcode2" size=10 value="&#12354;"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �L�����e�̍ۂ́A���p�p��6�����̓��̓R�[�h���E���̃{�b�N�X�ɂ��̂܂ܓ��͂��ĉ�����.<br>�� ���̓R�[�h�͊��ɂ���Ă͎����I�ɓ��͂���Ă��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 記事投稿の際は、半角英数6文字の入力コードを右側のボックスにそのまま入力して下さい.<br>※ 入力コードは環境によっては自動的に入力されています.</font>
 </td></table><br>
 </div><Script language=JavaScript>
 <!--
@@ -50,7 +50,7 @@ link<input type=checkbox name="link" value="1" checked>
 <p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -63,16 +63,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2541]</font> <font size=4 color=#50d0d0> �h���C���o�^�Y���Ƃ��낾����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2541]</font> <font size=4 color=#50d0d0> ドメイン登録忘れるところだった</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/05/20 (��) 23:28:38  ���ɊǗ��� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200905203232838">�ԐM</a>�@�폜<input type=checkbox name="target" value="200905203232838"></font>
+<font size="-1" color="#606060"> 2009/05/20 (水) 23:28:38  文庫管理者 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200905203232838.cgi">返信</a>　削除<input type=checkbox name="target" value="200905203232838"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���낻���N�Ɉ�x�̃h���C���X�V�����ł��Bnovels.jp�h���C���̎g�p���́A<br>
-�����ŗ��p�����؂��̂ŁA�X�V�葱�������Ȃ��Ƃ����Ȃ��̂ł����A��������<br>
-�葱����Y���Ƃ���ł����B���ԂȂ����ԂȂ��B<br>
+<font size=4 color=#000000>そろそろ一年に一度のドメイン更新時期です。novels.jpドメインの使用権は、<br>
+今月で利用権が切れるので、更新手続きをしないといけないのですが、うっかり<br>
+手続きを忘れるところでした。あぶないあぶない。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -80,98 +80,98 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2540]</font> <font size=4 color=#50d0d0> ��܂��A���肪�Ƃ��������܂�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2540]</font> <font size=4 color=#50d0d0> 励まし、ありがとうございます</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/04/22 (��) 12:40:23  NATO </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200904223124023">�ԐM</a>�@�폜<input type=checkbox name="target" value="200904223124023"></font>
+<font size="-1" color="#606060"> 2009/04/22 (水) 12:40:23  NATO </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200904223124023.cgi">返信</a>　削除<input type=checkbox name="target" value="200904223124023"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�o���b�g����A��܂����肪�Ƃ��������܂��B<br>
+<font size=4 color=#000000>バレットさん、励ましありがとうございます。<br>
 <br>
-�������Ɋ������������v���͂���܂��B<br>
-�����Ƃ���΁A�c��Q�b�i�\��j�݂̂ł��B<br>
-����Ŋ��z���Ȃ���΂����V����������Ƃ͂Ȃ��ł��傤�B<br>
+たしかに完結させたい思いはあります。<br>
+書くとすれば、残り２話（予定）のみです。<br>
+これで感想こなければもう新作を書くことはないでしょう。<br>
 <br>
-���ɂȂ邩�킩��܂��񂪁A�Ƃ肠�����X�b�𓊍e���邩������܂���B<br>
+いつになるかわかりませんが、とりあえず９話を投稿するかもしれません。<br>
 <br>
-���z�E�E�E�E�{���ɂ��肢���܂��B</font>
+感想・・・・本当にお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2539]</font> <font size=4 color=#50d0d0> �܂��Ă悧�`</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2539]</font> <font size=4 color=#50d0d0> まってよぉ〜</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/04/21 (��) 06:26:27  �o���b�g </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200904212062627">�ԐM</a>�@�폜<input type=checkbox name="target" value="200904212062627"></font>
+<font size="-1" color="#606060"> 2009/04/21 (火) 06:26:27  バレット </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200904212062627.cgi">返信</a>　削除<input type=checkbox name="target" value="200904212062627"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�m�`�s�n����A���ڃR���^�N�g�ł͂͂��߂܂��āA�o���b�g�ł��B<br>
-�@���z�����Ȃ��ł��Ă��݂܂���B�{���ɂ��݂܂���B������A���������Ȃ��Ȃ�Č���Ȃ��ŁA��������܂Œ��߂��ɏ����Ă��������I<br>
-�@�m���ɁA�S�̓I�ɂ��т�����������������̐��̒��ł����A����ɂ߂��Ă͑ʖڂł��B�����Ƃm�`�s�n������������Ă���l���A�����Ȃ��ꏊ�ł����Ƒ��������҂��Ă��܂���B<br>
+<font size=4 color=#000000>　ＮＡＴＯさん、直接コンタクトでははじめまして、バレットです。<br>
+　感想書かないでいてすみません。本当にすみません。だから、もう書かないなんて言わないで、完結するまで諦めずに書いてください！<br>
+　確かに、全体的にさびしい感じがする只今の世の中ですが、それにめげては駄目です。きっとＮＡＴＯさんを応援している人が、見られない場所できっと続きを期待していますよ。<br>
 <br>
-�@�m�`�s�n���񂪂��̋L�������āA�ĂѕM�������Ă���邱�Ƃ��F��܂��B<br>
-�@���z�������Ȃ��⏬�ȑ��݂��ł���΂������Ƃ����������������B<br>
+　ＮＡＴＯさんがこの記事を見て、再び筆を執ってくれることを祈ります。<br>
+　感想を書かない矮小な存在がでしゃばったことをお許しください。<br>
 <br>
-�@����ł́A���炢�����܂��B</font>
+　それでは、失礼いたします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2538]</font> <font size=4 color=#50d0d0> ���̓��̑��ғǂ݂����ł��c�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2538]</font> <font size=4 color=#50d0d0> 虹の瞳の続編読みたいです…</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/04/19 (��) 18:51:56  <a href="mailto:uryutsuno@ezweb.ne.jp">�N���b�N</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200904190185156">�ԐM</a>�@�폜<input type=checkbox name="target" value="200904190185156"></font>
+<font size="-1" color="#606060"> 2009/04/19 (日) 18:51:56  <a href="mailto:uryutsuno@ezweb.ne.jp">クロック</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200904190185156.cgi">返信</a>　削除<input type=checkbox name="target" value="200904190185156"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���傭���傭�ǂ܂��Ē����Ƃ�܂��B���҂Ɋ��҂��Ă܁`���</font>
+<font size=4 color=#000000>ちょくちょく読ませて頂いとります。続編に期待してま〜す</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2537]</font> <font size=4 color=#50d0d0> �X�V��~</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2537]</font> <font size=4 color=#50d0d0> 更新停止</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/04/12 (��) 19:49:13  NATO </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200904120194913">�ԐM</a>�@�폜<input type=checkbox name="target" value="200904120194913"></font>
+<font size="-1" color="#606060"> 2009/04/12 (日) 19:49:13  NATO </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200904120194913.cgi">返信</a>　削除<input type=checkbox name="target" value="200904120194913"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�����̊��z�f�����Ɩ��܂��Ă��܂��̂ŁA������ɂ��E�E�E<br>
+<font size=4 color=#000000>自分の感想掲示板だと埋まってしまうので、こちらにも・・・<br>
 <br>
-���z�����Ȃ��Ȃ��Ă��܂����̂ŁA�����ȍ~�̓��e�͂��܂���B<br>
+感想が来なくなってしまったので、次回作以降の投稿はしません。<br>
 <br>
-�����Ŏ��͕��ɂ�������܂��B<br>
-���ǂ݂����������l�A���肪�Ƃ��������܂����B<br>
+今日で私は文庫から消えます。<br>
+お読みくださった人、ありがとうございました。<br>
 <br>
-�ǐL<br>
-�ǂ����Ă������⑱�҂�ǂ݂����ꍇ�͘A�����������B<br>
-�C���������瓊�e���܂��̂ŁB<br>
-����ł͂��悤�Ȃ�E�E�E�E</font>
+追伸<br>
+どうしても続きや続編を読みたい場合は連絡ください。<br>
+気が向いたら投稿しますので。<br>
+それではさようなら・・・・</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2535]</font> <font size=4 color=#50d0d0> �y���낷�E�����[�ǁz�����T�C�g</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2535]</font> <font size=4 color=#50d0d0> 【くろす・あこーど】公式サイト</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/02/18 (��) 01:54:38  �L�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200902183015438">�ԐM</a>�@�폜<input type=checkbox name="target" value="200902183015438"></font>
+<font size="-1" color="#606060"> 2009/02/18 (水) 01:54:38  猫野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200902183015438.cgi">返信</a>　削除<input type=checkbox name="target" value="200902183015438"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���҂������܂����B�y���낷�E�����[�ǁz�̌����T�C�g�����܂����B<br>
-�v�������`���ł��̂ŁA�Q���҂������X�V�ł��܂��B<br>
-�܂����̌����T�C�g�̂悤�ɐ^�����́A�n�܂����΂���̊��ł����A�ȂɂƂ���낵�����肢���܂��B<br>
-�Q������]�̕��́A�����T�C�g���̌f�����A��i�̊��z�f���ɂ��A���������܂��B<br>
+<font size=4 color=#000000>お待たせしました。【くろす・あこーど】の公式サイトを作りました。<br>
+Ｗｉｋｉ形式ですので、参加者が随時更新できます。<br>
+まだこの公式サイトのように真っ白の、始まったばかりの企画ですが、なにとぞよろしくお願いします。<br>
+参加ご希望の方は、公式サイト内の掲示板か、作品の感想掲示板にご連絡下さいませ。<br>
 <br>
 </font>
 <p><div align=left><a href="http://utanotuki.novels.name/index.php?FrontPage" target="_top">http://utanotuki.novels.name/index.php?FrontPage</a></div>
@@ -181,68 +181,68 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2534]</font> <font size=4 color=#50d0d0> ������w�F�̋L���x�J�Â̂��m�点</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2534]</font> <font size=4 color=#50d0d0> 競作企画『色の記憶』開催のお知らせ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/02/04 (��) 22:23:18  <a href="mailto:minafumi-dou@hkg.odn.ne.jp">�앶��</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200902043222318">�ԐM</a>�@�폜<input type=checkbox name="target" value="200902043222318"></font>
+<font size="-1" color="#606060"> 2009/02/04 (水) 22:23:18  <a href="mailto:minafumi-dou@hkg.odn.ne.jp">南文堂</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200902043222318.cgi">返信</a>　削除<input type=checkbox name="target" value="200902043222318"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@����΂�́@�앶���Ɛ\���܂��B<br>
-�@���̂��сA����e�[�}���ނƂ����������W���āA�݂��ɕ]�����̓_���鋣������J�Â��邱�ƂƂȂ�܂����̂ŁA�Q���ҕ�W�̂��߂ɏ������݂������Ă��������܂��B<br>
+<font size=4 color=#000000>　こんばんは　南文堂と申します。<br>
+　このたび、同一テーマを題材とした小説を募集して、互いに評価し採点する競作企画を開催することとなりましたので、参加者募集のために書き込みをさせていただきます。<br>
 <br>
-�@���̊T�v�͈ȉ��̂Ƃ���ł��B<br>
+　企画の概要は以下のとおりです。<br>
 <br>
-�e�[�}�w�F�x���ނƂ����������W����<br>
-�e�\�I�u���b�N�ŕ]�����̓_���A�\�I�u���b�N���œ_���̈�ԍ�����i���������[�O�ɐi�o<br>
-�������[�O�ɂā@�R�����ɂ��R�����s���@��ԕ]���̍���������i��\������<br>
+テーマ『色』を題材とした小説を募集して<br>
+各予選ブロックで評価し採点し、予選ブロック内で点数の一番高い作品が決勝リーグに進出<br>
+決勝リーグにて　審査員による審査を行い　一番評価の高かった作品を表彰する<br>
 <br>
-���e�[�}�́w�F�x<br>
-��ȓ��e�K���́\�\<br>
-�i�P�j�e�[�}���ނƂ����������������ł��鎖<br>
-�i�Q�j�쒆�ɂP�x�ȏ�A�K�{�L�[���[�h�w�L���x���g�p���鎖<br>
-�i�R�j�P�W�ւł͂Ȃ���<br>
-�i�S�j�e�ʂ̓e�L�X�g�łP�T�O�j�a�ȉ��ł��鎖<br>
-�\�\�ƂȂ��Ă���܂�<br>
-�ڂ����́w�F�̋L���x�����z�[���y�[�W�i<a href=http://minafumi.aki.gs/kikaku/index_iro.htm target=_top>http://minafumi.aki.gs/kikaku/index_iro.htm</a>�j�����Q�Ƃ�������<br>
-��i�̒��ߐ؂�́@�T���P�V���Q�S���@�i���O�G���g���[���ꂽ�ꍇ�@�T���R�P���Q�S���j<br>
+●テーマは『色』<br>
+主な投稿規程は——<br>
+（１）テーマを題材とした完結した小説である事<br>
+（２）作中に１度以上、必須キーワード『記憶』を使用する事<br>
+（３）１８禁ではない事<br>
+（４）容量はテキストで１５０ＫＢ以下である事<br>
+——となっております<br>
+詳しくは『色の記憶』公式ホームページ（<a href=http://minafumi.aki.gs/kikaku/index_iro.htm target=_top>http://minafumi.aki.gs/kikaku/index_iro.htm</a>）をご参照ください<br>
+作品の締め切りは　５月１７日２４時　（事前エントリーされた場合　５月３１日２４時）<br>
 <br>
-�e�\�I�u���b�N��҂ƓǎҐR�����Ƃ̓_�����W�v���@�������[�O�ɐi�o��i�����肢�����܂�<br>
-�������[�O�ł͌����R�����ɂ��R�����s���@��ԕ]���̍���������i��\������<br>
+各予選ブロック作者と読者審査員との点数を集計し　決勝リーグに進出作品を決定いたします<br>
+決勝リーグでは決勝審査員による審査を行い　一番評価の高かった作品を表彰する<br>
 <br>
-���ʔ��\�͂V�����{����W�����{����ɂȂ�Ǝv���܂��i��i�ʂȂǂŕϓ�����\��������܂��j�B<br>
+結果発表は７月中旬から８月初旬ごろになると思われます（作品量などで変動する可能性があります）。<br>
 <br>
-���������Ӂ�����<br>
-���̊��́w���N�������Ɂx�Ƃ͖��֌W�̊��ł��B<br>
-���ꂮ����A�^�c�ψ��Ɏ���̃��[���𑗂�Ȃ��ł��������B<br>
-������Ȃǂ́A�앶���@���Ăɂ��肢���܂��B<br>
+★★★注意★★★<br>
+この企画は『少年少女文庫』とは無関係の企画です。<br>
+くれぐれも、運営委員に質問のメールを送らないでください。<br>
+ご質問などは、南文堂　宛てにお願いします。<br>
 <br>
-���Q���\��<br>
-�@���O�G���g���[�́@�����f�������[���ɂčs���Ă�������<br>
-�@�G���g���[�̒��ߐ؂�͂R���P�T���Q�S���܂łł�<br>
-�@���������Ӂ�����<br>
-�@�Q����҂́@�w�肳�ꂽ��擊�e��i�i�R�`�T��i�j��ǂ݁@���z�ƍ̓_�����Ȃ���΂Ȃ�܂���<br>
-�@���ꂪ�ł�����̂݁@���Q�����������i�R�����Ԃ́@�P�`�Q��������܂��j<br>
+●参加表明<br>
+　事前エントリーは　公式掲示板かメールにて行ってください<br>
+　エントリーの締め切りは３月１５日２４時までです<br>
+　★★★注意★★★<br>
+　参加作者は　指定された企画投稿作品（３〜５作品）を読み　感想と採点をしなければなりません<br>
+　それができる方のみ　ご参加ください（審査期間は　１〜２ヶ月あります）<br>
 <br>
-���\�I�R�����Q����W<br>
-�@�����͏����Ȃ����@�ǂ�ŕ]���͂ł���Ƃ����ǎ҂̊F�l�@�R�����Ƃ��ĎQ�����Ă݂܂��񂩁H<br>
-�@�R�����̏����́@�w�w�肳�ꂽ��擊�e��i�i�R�`�T��i�j��ǂ݁@���z�ƍ̓_���ł���l�x�@�ł�<br>
-�@�R�����Ԃ́@�P�`�Q�����̗]�T������܂�<br>
+●予選審査員参加募集<br>
+　小説は書けないが　読んで評価はできるという読者の皆様　審査員として参加してみませんか？<br>
+　審査員の条件は　『指定された企画投稿作品（３〜５作品）を読み　感想と採点ができる人』　です<br>
+　審査期間は　１〜２ヶ月の余裕があります<br>
 <br>
-�@�\�I�R�����G���g���[�́@���[���Ő\������ł�������<br>
-�i�R���̐�����@���[���ł̂��Ƃ�ɂȂ�܂��̂Ł����[���A�h���X�͑��̐l�ɂ͔���J�ɂ��܂��̂Ł@�����S�����������j<br>
-�@�G���g���[���ߐ؂�͂T���R�P���Q�S���ƂȂ��Ă���܂�<br>
-�@�ʔ������Ǝv�������A���C�y�ɂ��Q����������<br>
+　予選審査員エントリーは　メールで申し込んでください<br>
+（審査の性質上　メールでのやりとりになりますので＜メールアドレスは他の人には非公開にしますので　ご安心ください＞）<br>
+　エントリー締め切りは５月３１日２４時となっております<br>
+　面白そうと思った方、お気軽にご参加ください<br>
 <br>
-�@�ڍׂ͌����y�[�W�����܂����̂Ł@��������������܂������́@���L�̃A�h���X�̃y�[�W�����Q�Ƃ��������B<br>
+　詳細は公式ページを作りましたので　ご興味をもたれました方は　下記のアドレスのページをご参照ください。<br>
 <br>
-�w�F�̋L���x�@�����y�[�W�@<a href=http://minafumi.aki.gs/kikaku/index_iro.htm target=_top>http://minafumi.aki.gs/kikaku/index_iro.htm</a><br>
+『色の記憶』　公式ページ　<a href=http://minafumi.aki.gs/kikaku/index_iro.htm target=_top>http://minafumi.aki.gs/kikaku/index_iro.htm</a><br>
 <br>
-�@���̑��@���s���ȓ_�Ȃǂ�����܂�����@�����y�[�W�̌f���i<a href=http://minafumi.aki.gs/kikaku/bbs/tnote.cgi?book=official_iro target=_top>http://minafumi.aki.gs/kikaku/bbs/tnote.cgi?book=official_iro</a>�j�����[���ɂā@���C�y�ɂ����₭������<br>
+　その他　ご不明な点などがありましたら　公式ページの掲示板（<a href=http://minafumi.aki.gs/kikaku/bbs/tnote.cgi?book=official_iro target=_top>http://minafumi.aki.gs/kikaku/bbs/tnote.cgi?book=official_iro</a>）かメールにて　お気軽にご質問ください<br>
 <br>
-�@�F�l�̂��Q�������҂����Ă���܂�<br>
+　皆様のご参加をお待ちしております<br>
 <br>
-�@�Ō�ɂȂ�܂������A���̌l�I�Ȋ��̍�i��W�̂��߁A�f�������݂����������܂����@���N�������ɂƂ��̉^�c�ψ��̊F�l���Ɋ��Ӑ\���グ�܂��B���肪�Ƃ��������܂��B</font>
+　最後になりましたが、私の個人的な企画の作品募集のため、掲示板をお貸しくださいました　少年少女文庫とその運営委員の皆様方に感謝申し上げます。ありがとうございます。</font>
 <p><div align=left><a href="http://minafumi.aki.gs/kikaku/index_iro.htm" target="_top">http://minafumi.aki.gs/kikaku/index_iro.htm</a></div>
 </td></table>
 </td></tr></table>
@@ -250,19 +250,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2533]</font> <font size=4 color=#50d0d0> �y���낷�E�����[�ǁz�⑫</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2533]</font> <font size=4 color=#50d0d0> 【くろす・あこーど】補足</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/01/24 (�y) 20:08:52  �L�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200901246200852">�ԐM</a>�@�폜<input type=checkbox name="target" value="200901246200852"></font>
+<font size="-1" color="#606060"> 2009/01/24 (土) 20:08:52  猫野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200901246200852.cgi">返信</a>　削除<input type=checkbox name="target" value="200901246200852"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@����΂�́A���Ԃ������Ă���܂��A�L��ۑ��ۂƐ\���܂��B<br>
-�@�ȉ��̐ݒ�ł������΂����񂪎n�߂郊���[�����ɁA�����Q�����Ă���܂��B�������������h�̊w���s�r���̂��`����񂶂�Ȃ����ȂƊ��҂��Ă��܂��B<br>
-�@�ߓ���P�b�����ɂɁi���Ȃ���΁j�f�ڂ���܂��̂ŁA�܂��͂���������ɂȂ��ĉ������B�Q���҂͂ЂƂ�ÂA�����������Ă������ƂɂȂ�܂��B<br>
-�@�Q���̏ꍇ�̘A����i�O���f���j�́A��P�b�f�ڂ���ɂ͍쐬�ł���Ǝv���܂��B<br>
+<font size=4 color=#000000>　こんばんは、ごぶさたしております、猫野丸太丸と申します。<br>
+　以下の設定でおもちばこさんが始めるリレー小説に、私も参加しております。けっこう正統派の学園ＴＳものが描けるんじゃないかなと期待しています。<br>
+　近日第１話が文庫に（問題なければ）掲載されますので、まずはそれをご覧になって下さい。参加者はひとりづつ、続きを書いていくことになります。<br>
+　参加の場合の連絡先（外部掲示板）は、第１話掲載ごろには作成できると思います。<br>
 <br>
-�@����ł͂�낵�����肢�������܂��B���̏�������������Ă��݂܂���ł����B</font>
+　それではよろしくお願いいたします。この場をお騒がせしてすみませんでした。</font>
 <p><div align=left><a href="http://www.lain.ais.ne.jp/~gnekono/" target="_top">http://www.lain.ais.ne.jp/~gnekono/</a></div>
 </td></table>
 </td></tr></table>
@@ -270,32 +270,32 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2532]</font> <font size=4 color=#50d0d0> �����[�����y���낷�E�����[�ǁz�����̂��m�点</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2532]</font> <font size=4 color=#50d0d0> リレー小説【くろす・あこーど】発足のお知らせ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/01/23 (��) 12:17:13  �������΂� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200901235121713">�ԐM</a>�@�폜<input type=checkbox name="target" value="200901235121713"></font>
+<font size="-1" color="#606060"> 2009/01/23 (金) 12:17:13  おもちばこ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200901235121713.cgi">返信</a>　削除<input type=checkbox name="target" value="200901235121713"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�݂Ȃ��܁A����ɂ��́B���߂Ă̕����v���Ԃ�̕����B�������΂��ł��B<br>
-����͎��́u�����[����������Ă݂����v�Ƃ�����]�̂��ƁA�����̎^���҂��W�܂��Ă������������������܂����B<br>
-���̃����[�����𐥔�Q���������Ƃ���������W�������܂��B<br>
-���i�̓��[�����O���X�g�Ƃ�����ňӌ��������s���Ă���(�`���b�g�Ⓖ�ɉ���Ęb�����鎖�����Ă��܂��A�ܘ_�f���ł��n�j!!�j<br>
-��܂��ȃX�g�[���[�ݒ�͑�P�b�Ŏ����������ʂ�ł��B���Ƃ͎��̐l�Ƀo�g���^�b�`���Ă����Ƃ��������ł��B���Ă��ꂪ�����[�����ł��ˁB�ς݂܂���B<br>
-��܂��Ȑݒ�<br>
-�y�^�C�g���z���낷�E�����[��<br>
-�y��l���z�_��e�Y(���񂴂��E�͂����������N)�@�t�R��(�͂�܁E�݂̂適�`�������W���_���R���N)�@����a��(���������E�����ˁ��j����̏���)�̂R�l<br>
-�y��G�c�ȃX�g�[���[�z�����s���̌��ۂɂ���ď��������Ă��܂����e�Y�Ǝ��A����������荇���ĐD�萬���w���R���f�B�B<br>
-�y����z���̌����w�Z�y�т��̎���<br>
-�@���ɂ̃W�������Ƃ��Ė��@�E�_��͎g���Ă��ǂ�����b����̌��ʂɂ��Ă��炢����(�s�r�����͕�)�B<br>
-���݂̎��M�ҋy�шӌ�������<br>
-�E�������΂�<br>
-�E�L�삳��<br>
-�E�o���b�g����<br>
-��Q�b�̍�҂͂������Ɍ��܂��Ă���A�L��ۑ��ۂ���ł��B���������y���݂ɁB<br>
-�݂Ȃ���ɂ��͂�����̂͌��P�y�[�X�łP�l�P�b���l���Ă���܂��������O��҂ɕ������̂ł���΁u��������������܂��v�̂悤�Ȋ����ŏ_��ɑΉ��������Ǝv���܂��B<br>
-�ܘ_�A���ɂɓ��e���������Ȃ����ł��劽�}�ł��̂ł��C�y�ɂ��A�����������܂��B<br>
-�R�l�̏������F���āB����ł́B<br>
+<font size=4 color=#000000>みなさま、こんにちは。初めての方も久しぶりの方も。おもちばこです。<br>
+今回は私の「リレー小説をやってみたい」という希望のもと、少数の賛同者が集まっていただき発足いたしました。<br>
+そのリレー小説を是非参加したいという方を大募集いたします。<br>
+普段はメーリングリストという場で意見交換を行っており(チャットや直に会って話をする事もしています、勿論掲示板でもＯＫ!!）<br>
+大まかなストーリー設定は第１話で私が書いた通りです。あとは次の人にバトンタッチしていくという方式です。ってそれがリレー小説ですね。済みません。<br>
+大まかな設定<br>
+【タイトル】くろす・あこーど<br>
+【主人公】神崎覇雄(かんざき・はお←完璧少年)　葉山実(はやま・みのる←チャレンジ精神欠乏少年)　逢坂和音(おうさか・かずね←男勝りの少女)の３人<br>
+【大雑把なストーリー】原因不明の現象によって女性化してしまった覇雄と実、逢坂も交じり合って織り成す学園コメディ。<br>
+【舞台】詩の月中学校及びその周辺<br>
+　文庫のジャンルとして魔法・神秘は使っても良いが一話限定の効果にしてもらいたい(ＴＳ原因は別)。<br>
+現在の執筆者及び意見交換者<br>
+・おもちばこ<br>
+・猫野さん<br>
+・バレットさん<br>
+第２話の作者はもう既に決まっており、猫野丸太丸さんです。此方もお楽しみに。<br>
+みなさんにお届けするのは月１ペースで１人１話を考えておりますがもし前後編に分かれるのであれば「次回も私が書きます」のような感じで柔軟に対応したいと思います。<br>
+勿論、文庫に投稿した事がない方でも大歓迎ですのでお気軽にご連絡くださいませ。<br>
+３人の将来を祈って。それでは。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -303,23 +303,23 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2531]</font> <font size=4 color=#50d0d0> Re:�₢���킹</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2531]</font> <font size=4 color=#50d0d0> Re:問い合わせ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2009/01/22 (��) 22:52:54  <a href="mailto:admin@ts.novels.jp">�l�n�m�c�n���^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200901224225254">�ԐM</a>�@�폜<input type=checkbox name="target" value="200901224225254"></font>
+<font size="-1" color="#606060"> 2009/01/22 (木) 22:52:54  <a href="mailto:admin@ts.novels.jp">ＭＯＮＤＯ＠運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200901224225254.cgi">返信</a>　削除<input type=checkbox name="target" value="200901224225254"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#ff88cc">���閲����</font><br>
+<font size=4 color=#000000><font color="#ff88cc">＞夜夢さん</font><br>
 <br>
-�@���Ԏ��x���Ȃ��Đ\���󂠂�܂���B<br>
-�@���ׂĂ݂܂������A�͂��Ă��Ȃ��悤�ł��B���萔�ł����A������x�����Ă��������Ȃ��ł��傤���H</font>
+　お返事遅くなって申し訳ありません。<br>
+　調べてみましたが、届いていないようです。お手数ですが、もう一度送っていただけないでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -327,16 +327,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

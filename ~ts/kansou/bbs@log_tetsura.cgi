@@ -133,7 +133,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 子思いと親孝行は、表裏一体。<br>
-<a href=http://ts.novels.jp/novel/200607/08145632/home.htm target=_top>http://ts.novels.jp/novel/200607/08145632/home.htm</a></font>
+<a href="../../novel/200607/08145632/home.htm" target=_top>http://ts.novels.jp/novel/200607/08145632/home.htm</a></font>
 </td></table>
 </td></tr></table>
 

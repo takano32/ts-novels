@@ -122,7 +122,7 @@ yukさん、題名で遊んでしまってすみません。思いついてし�
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 よく知らぬまま『嫌い嫌い』言うより、まずは知ってみることです、というおはなし？<br>
-<a href=http://ts.novels.jp/novel/200702/18234405/dislike6.html target=_top>http://ts.novels.jp/novel/200702/18234405/dislike6.html</a></font>
+<a href="../../novel/200702/18234405/dislike6.html" target=_top>http://ts.novels.jp/novel/200702/18234405/dislike6.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -137,7 +137,7 @@ yukさん、題名で遊んでしまってすみません。思いついてし�
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 ブラックデー……気になるけどそれはさておき、感想板での予告どおりルークの登場です。その性格は、ルークってよりも……<br>
-<a href=http://ts.novels.jp/novel/200702/18234405/dislike5.html target=_top>http://ts.novels.jp/novel/200702/18234405/dislike5.html</a></font>
+<a href="../../novel/200702/18234405/dislike5.html" target=_top>http://ts.novels.jp/novel/200702/18234405/dislike5.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -195,7 +195,7 @@ yukさん、題名で遊んでしまってすみません。思いついてし�
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 キングとクイーン以外は別に性別が決まっているわけではないチェスの駒、少年少女文庫ならば当然……というわけで、予告のビショップちゃん登場です！<br>
-<a href=http://ts.novels.jp/novel/200702/18234405/dislike4.html target=_top>http://ts.novels.jp/novel/200702/18234405/dislike4.html</a><br>
+<a href="../../novel/200702/18234405/dislike4.html" target=_top>http://ts.novels.jp/novel/200702/18234405/dislike4.html</a><br>
 <br>
 ※担当の個人的な事情で、掲載が大幅に遅れましたことをお詫びいたします。</font>
 </td></table>

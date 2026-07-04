@@ -165,7 +165,7 @@ TS＆官能小説を堪能してる日々でしたが（変な意味じゃない
 <font size=3 color=#606060>「キオクノアトサキ」のシリーズタイトルに、第二掲示板に掲載されている番外編へのリンクを追加しました。<br>
 番外編はまだ読んでいなかった、という方はこの機会に是非ご一読を。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200312/05062153/kas&#95;bgl&#95;index.html target=_top>http://ts.novels.jp/novel/200312/05062153/kas&#95;bgl&#95;index.html</a></font>
+<a href="../../novel/200312/05062153/kas_bgl_index.html" target=_top>http://ts.novels.jp/novel/200312/05062153/kas&#95;bgl&#95;index.html</a></font>
 </td></table>
 </td></tr></table>
 

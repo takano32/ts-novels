@@ -1,43 +1,43 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>��e����@��i���z�f����</title>
+<title>城弾さん　作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��e����@��i���z�f����</font>
+<font size=5>城弾さん　作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="johdan">
 <input type=hidden name="nj" value="rcz1nkxLF5">
 <input type=hidden name="res" value="211">
-<h4 align=center>�� �L���ԍ� 211 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 211 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U�������
-&gt; ����͂��́I
-&gt; �Z���̃L�������̂������痧���܂���ł����ł��Ȃ��B
-&gt; �z���g�Ɂu�e���I�v���ČĂ΂�Ă������i���j�B
-&gt; ����͂����ƁA�X�L�[�����ŏI��ł����܂ŉH�ڊO���Ă����񂩂��H�i�΁j
-&gt; �܁A�������i���j�B
-&gt; ��Ŏ���͂������ł����B�����P�N���̂��đ����˂��i��j�B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６＠自宅さん
+&gt; わっはっは！
+&gt; 校長のキャラがのっけから立ちまくりでいいですなぁ。
+&gt; ホントに「親分！」って呼ばれていそう（爆）。
+&gt; それはそうと、スキー教室最終夜でそこまで羽目外していいんかい？（笑）
+&gt; ま、いいか（爆）。
+&gt; んで次回はお正月ですか。何か１年たつのって早いねぇ（違）。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -50,39 +50,39 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[217]</font> <font size=4 color=#40c0c0> Re:�w�����ւ����N�U�@�`�k�ց`�x���z�ق�</font>
+<font size=2>[217]</font> <font size=4 color=#40c0c0> Re:『着せ替え少年６　〜北へ〜』感想ほか</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/04 (��) 02:10:25 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312044021025&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312044021025"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/04 (木) 02:10:25 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312044021025_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200312044021025"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� SORA����<br>
-<font color="#cc88ff">&gt; ���u�R���X���}�i�Ŗ{���ɂ����������܂ł��B:-)</font><br>
+<font size=3 color=#606060>▼ SORAさん<br>
+<font color="#cc88ff">&gt; ラブコメ街道驀進で本当にごちそうさまです。:-)</font><br>
 <br>
-�@�����ˁB������~���z��قǒp�����������̂���낤�Ƃ��܂������B<br>
+　もうね。胸元を掻き毟るほど恥ずかしいものをやろうとしましたが。<br>
 <br>
-<font color="#cc88ff">&gt; ���������Ƃ��Ă��S�z�ł��܂�Ȃ��ł��傤�ˁB</font><br>
+<font color="#cc88ff">&gt; さつきちゃんとしても心配でたまらないでしょうね。</font><br>
 <br>
-<font color="#cc88ff">&gt; �Z�����ǂ����o���Ă���Ƃ������A�j�V�r���Ɉ�u�^TS�l�^�ȍ��������q��i�̍Z�����v���o���Ă��܂��܂����B<br>
-&gt; �����������đ_���Ă܂���? (^^;</font><br>
+<font color="#cc88ff">&gt; 校長も良い味出しているというか、破天荒さに一瞬某TSネタな高橋留美子作品の校長を思い出してしまいました。<br>
+&gt; ＃もしかして狙ってました? (^^;</font><br>
 <br>
-�@�����B�������ɂ���͈Ⴂ�܂��B<br>
-�@�w��򂳂�x�Ȃ炠���Ȃ�ƌ������ƂŁB<br>
+　いえ。さすがにそれは違います。<br>
+　『大沢さん』ならああなると言うことで。<br>
 <br>
-<font color="#cc88ff">&gt; �V�F�A���[���h�ȍ�i�ƃR���{�Ȃ�Ĕ@���ł��傤?<br>
-&gt; ���ؑタ����t�H�X�^�[���肾�Ƃ��Ɖׂ��d����? :-)</font><br>
+<font color="#cc88ff">&gt; シェアワールドな作品とコラボなんて如何でしょう?<br>
+&gt; ＃華代ちゃんやフォスター相手だとちと荷が重いか? :-)</font><br>
 <br>
-�@�e�l�r�͍l������ł����c�����������āw�e�l�r�F���������������@�s�x���B<br>
-�@������������e�l�r�������Ă��܂����A�Ǝv���Ă܂��������{�Ƃ�<br>
-�w�s���āx�w�A���āx���o���̂ł��߂��ȁc�ƁB<br>
+　ＦＭＳは考えたんですが…さしあたって『ＦＭＳ：ｐａｔｔｅｒｎ　Ｔ』か。<br>
+　女性化したらＦＭＳが治ってしまった、と思ってましたがご本家で<br>
+『行って』『帰って』が出たのでだめだな…と。<br>
 <br>
-<font color="#cc88ff">&gt; ���̖���͑��ɂ��Ȃ񂶂Ⴛ���ƌ��������Ȃ�悤�Ȗ��������肾������ł��B(^^;</font><br>
+<font color="#cc88ff">&gt; この漫画は他にもなんじゃそりゃと言いたくなるような魔球が盛りだくさんです。(^^;</font><br>
 <br>
-�@�Ȃ�قǁB<br>
-�@������肪�Ƃ��������܂��B<br>
+　なるほど。<br>
+　解説ありがとうございます。<br>
 <br>
-�@���ǂ݂����������肪�Ƃ��������܂��B</font>
+　お読みいただきありがとうございます。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -90,37 +90,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[216]</font> <font size=4 color=#40c0c0> �w�����ւ����N�U�@�`�k�ց`�x���z�ق�</font>
+<font size=2>[216]</font> <font size=4 color=#40c0c0> 『着せ替え少年６　〜北へ〜』感想ほか</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/03 (��) 06:33:00 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312033063300&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312033063300"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/03 (水) 06:33:00 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312033063300_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200312033063300"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���u�R���X���}�i�Ŗ{���ɂ����������܂ł��B:-)<br>
-���������j�炵�����A�s�[���ł����͂������ǂ݂͂�Ȃ̊ߋ�Ƃ����������������₷���̂ł��傤�ˁB<br>
-���������Ƃ��Ă��S�z�ł��܂�Ȃ��ł��傤�ˁB<br>
-���������Ȃ񂩂�����ƕs�K�Ȃ񂾂��ǌ��Ǎ��̕�����happy�Șb���đ�D���ł��B<br>
-�Z�����ǂ����o���Ă���Ƃ������A�j�V�r���Ɉ�u�^TS�l�^�ȍ��������q��i�̍Z�����v���o���Ă��܂��܂����B<br>
-�����������đ_���Ă܂���? (^^;<br>
+<font size=3 color=#606060>ラブコメ街道驀進で本当にごちそうさまです。:-)<br>
+せっかく男らしさをアピールできたはずが結局はみんなの玩具というあたりも流されやすい故でしょうね。<br>
+さつきちゃんとしても心配でたまらないでしょうね。<br>
+こういうなんかちょっと不幸なんだけど結局根の部分はhappyな話って大好きです。<br>
+校長も良い味出しているというか、破天荒さに一瞬某TSネタな高橋留美子作品の校長を思い出してしまいました。<br>
+＃もしかして狙ってました? (^^;<br>
 <br>
-��e���� wrote:<br>
-<font color="#cc88ff">&gt; �@���C�^�[�}������̃~���[�W���ԊO�҂Ɏh�����󂯂��̂ł��ЂƂ��R���{��]�ł���<br>
-&gt; ����̓s�����l����Ɩ����ɐ\��������ł��܂���̂ő҂��ɓO���܂��B</font><br>
+城弾さん wrote:<br>
+<font color="#cc88ff">&gt; 　ライターマンさんのミラージュ番外編に刺激を受けたのでぜひともコラボ希望ですが<br>
+&gt; 相手の都合を考えると無理に申し入れもできませんので待ちに徹します。</font><br>
 <br>
-�V�F�A���[���h�ȍ�i�ƃR���{�Ȃ�Ĕ@���ł��傤?<br>
-���ؑタ����t�H�X�^�[���肾�Ƃ��Ɖׂ��d����? :-)<br>
+シェアワールドな作品とコラボなんて如何でしょう?<br>
+＃華代ちゃんやフォスター相手だとちと荷が重いか? :-)<br>
 <br>
-�O�̍�i�̘b�ɂȂ�܂����A<br>
+前の作品の話になりますが、<br>
 <br>
-<font color="#cc88ff">&gt; &gt;����ȃl�^������l����̂�? (^^;<br>
-&gt; �@���߂�Ȃ����B���͂킩��܂���ł����B</font><br>
+<font color="#cc88ff">&gt; &gt;＃んなネタ分かる人いるのか? (^^;<br>
+&gt; 　ごめんなさい。実はわかりませんでした。</font><br>
 <br>
-�~���N��Z�͂��̐�(80�N��O��)�����R���R���R�~�b�N�ɘA�ڂ���Ă����w���΂�!���x�Ƃ����싅����ɓo�ꂷ�閂���ł��B<br>
-������ꂽ�X���[�{�[�����r���œˑR�������č������ɕω�����Ƃ��������ł��B<br>
-���̖���͑��ɂ��Ȃ񂶂Ⴛ���ƌ��������Ȃ�悤�Ȗ��������肾������ł��B(^^;<br>
-���O���{�[���ɂ͎q���S�ɏ΂��Ă��܂����Ȃ��B<br>
-�����w�Q�[���Z���^�[���炵�x�Ƃ��w���W�R���{�[�C�x�Ƃ����������Ȃ��c�Ȃ�Ă����ƍ΂��΂�܂��ˁB(^^;;;<br>
+ミラクルZはその昔(80年代前半)月刊コロコロコミックに連載されていた『あばれ!隼』という野球漫画に登場する魔球です。<br>
+投げられたスローボールが途中で突然加速して剛速球に変化するという魔球です。<br>
+この漫画は他にもなんじゃそりゃと言いたくなるような魔球が盛りだくさんです。(^^;<br>
+＃念仏ボールには子供心に笑ってしまったなぁ。<br>
+＃＃『ゲームセンターあらし』とか『ラジコンボーイ』とか懐かしいなぁ…なんていうと歳がばれますね。(^^;;;<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -128,96 +128,96 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[215]</font> <font size=4 color=#40c0c0> �����Ȃ��犴�ӂł��B</font>
+<font size=2>[215]</font> <font size=4 color=#40c0c0> いつもながら感謝です。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/02 (��) 13:58:48 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312022135848&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312022135848"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/02 (火) 13:58:48 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312022135848_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200312022135848"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����W�S�Q�U����<br>
+<font size=3 color=#606060>　ｍｋ８４２６さん<br>
 <br>
-<font color="#cc88ff">&gt;�Z���̃L�������̂������痧���܂���ł����ł��Ȃ��B<br>
-&gt;�z���g�Ɂu�e���I�v���ČĂ΂�Ă������i���j�B</font><br>
+<font color="#cc88ff">&gt;校長のキャラがのっけから立ちまくりでいいですなぁ。<br>
+&gt;ホントに「親分！」って呼ばれていそう（爆）。</font><br>
 <br>
-�@������Ƌ���߂������ȁB<br>
-�@�K�������ċ��t�͓��{�n���̊ēo���҂������Ă܂����Z���͂��̐l�����Ǝv���Ă܂����B<br>
-�@���Ⴀ�����͏�c���񂩂�(��)<br>
+　ちょっと強烈過ぎたかな。<br>
+　幸を除いて教師は日本ハムの監督経験者から取ってますが校長はこの人しかと思ってました。<br>
+　じゃあ教頭は上田さんかな(笑)<br>
 <br>
-<font color="#cc88ff">&gt;����͂����ƁA�X�L�[�����ŏI��ł����܂ŉH�ڊO���Ă����񂩂��H�i�΁j</font><br>
+<font color="#cc88ff">&gt;それはそうと、スキー教室最終夜でそこまで羽目外していいんかい？（笑）</font><br>
 <br>
-�@���C�y�Ȋw�Z�Ȃ�ł�(��)<br>
-�@�Z���搶�����������l�����B<br>
+　お気楽な学校なんです(笑)<br>
+　校長先生がああいう人だし。<br>
 <br>
-�@�y����������<br>
+　土屋紫緒さん<br>
 <br>
-<font color="#cc88ff">&gt;���������c�X�L�[�Œj�炵�����A�s�[���ł����̂ɁB<br>
-&gt;���ǂ́A�݂�Ȃ̒����ւ��I���`���ł����ˁi�΁j</font><br>
+<font color="#cc88ff">&gt;せっかく…スキーで男らしさをアピールできたのに。<br>
+&gt;結局は、みんなの着せ替えオモチャでしたね（笑）</font><br>
 <br>
-�@�O��̓q�[���[�ɂ܂łȂ����̂ɁB�����Ƃ������������Ă܂��񂩂疳�����B<br>
+　前回はヒーローにまでなったのに。もっともさつきしか見てませんから無理か。<br>
 <br>
-<font color="#cc88ff">&gt;���F�ŏ����ɓ�������c�i����A�N�͂������h�ȏ��̎q���I</font><br>
+<font color="#cc88ff">&gt;公認で女湯に入ったり…司くん、君はもう立派な女の子だ！</font><br>
 <br>
-�@���N�Ő����������ς�������̂ł��B<br>
+　半年で随分扱いが変わったものです。<br>
 <br>
-<font color="#cc88ff">&gt;���낻�남�������c�c����ώi����Ȃ�A���l���ɐ��ꒅ�ŗ������ȁi�Ӗ��s���j</font><br>
+<font color="#cc88ff">&gt;そろそろお正月か……やっぱ司くんなら、成人式に晴れ着で乱入だな（意味不明）</font><br>
 <br>
-�@�U���͍\�z�ɂ���܂��B<br>
-�@���ꂳ��ɒ�������̂͂��񑩁B<br>
+　振袖は構想にあります。<br>
+　お母さんに着せられるのはお約束。<br>
 <br>
-�@sana����<br>
+　sanaさん<br>
 <br>
-<font color="#cc88ff">&gt;���ĂȂ�������ł����ǁA���������ăN�E�K�H</font><br>
+<font color="#cc88ff">&gt;見てなかったんですけど、もしかしてクウガ？</font><br>
 <br>
-�@�����ł��B<br>
+　正解です。<br>
 <br>
-<font color="#cc88ff">&gt;�Ō�̕��Ő�R�̃V�[�����`�����ƌ����L�����c�B</font><br>
+<font color="#cc88ff">&gt;最後の方で雪山のシーンをチラリと見た記憶が…。</font><br>
 <br>
-�@�d�o�h�r�n�c�d�S�W����v�̖���ʂł��B<br>
-�@����B�������C�_�[�ň�Ԃ̂��ȁB<br>
+　ＥＰＩＳＯＤＥ４８｢空我」の名場面です。<br>
+　いや。平成ライダーで一番のかな。<br>
 <br>
-<font color="#cc88ff">&gt;�~���g�́A�����ς�ł����c�c�c�O�܁B</font><br>
+<font color="#cc88ff">&gt;ミントは、さっぱりでした……残念賞。</font><br>
 <br>
-�@�㏑���ɏ����ׂ��ł����ˁB���s�B<br>
-�@�u�M�����N�V�[�G���W�F���v�ƌ�����i�̃~���g�E�u���}���V���Ƃ������̎q���������������Ȃ̂ł��B<br>
-�@���Ȃ݂ɐg���P�Q�R�Z���`�œ��ɃE�T�����Ă閺�B<br>
-�@���͖����Ȃ����T�C�g�i���m�ɂ̓��j���[�A�����ꂽ�̂ł����j�̌f����<br>
-�N�E�K�t�@���̕����l���u�f�`�v�D���Ȃ̂𓥂܂��Ă̔������u�����ł̓~���g�̌��t�Řb���v<br>
-�i���l�^�̓N�E�K�̃o���̃^�g�D�̏��Łu�����ł̓����g�̌��t�Řb���v�����g�̌��t�͓��{��Ɖ��߂��Ă�������΁j<br>
-�@������l�^�ɂ����̂��A���ł����B<br>
+　後書きに書くべきでしたね。失敗。<br>
+　「ギャラクシーエンジェル」と言う作品のミント・ブラマンシュという女の子がああいう口調なのです。<br>
+　ちなみに身長１２３センチで頭にウサ耳つけてる娘。<br>
+　今は無くなったサイト（正確にはリニューアルされたのですが）の掲示板で<br>
+クウガファンの方が僕が「ＧＡ」好きなのを踏まえての発言が「ここではミントの言葉で話せ」<br>
+（元ネタはクウガのバラのタトゥの女で「ここではリントの言葉で話せ」リントの言葉は日本語と解釈してくだされば）<br>
+　それをネタにしたのがアレでした。<br>
 <br>
-�@�i�E�e����<br>
+　Ｊ・Ｆさん<br>
 <br>
-<font color="#cc88ff">&gt;���킠�����������A�Z���A�Ȃ�ĕ�����Ղ��I�i���΁j</font><br>
+<font color="#cc88ff">&gt;うわああああああ、校長、なんて分かり易い！（爆笑）</font><br>
 <br>
-�@��������B���̐l�����Ȃ��������B<br>
-�@���������ΈӊO�ɍ]�˂��q�̍Z�����Ă��Ȃ������B<br>
+　いやもう。あの人しかなかったし。<br>
+　そういえば意外に江戸っ子の校長っていないかも。<br>
 <br>
-<font color="#cc88ff">&gt;�u������邩��j���͋��v�B���ꂪ��ԃq�b�g�ł���(^^</font><br>
+<font color="#cc88ff">&gt;「流されるから泳ぎは苦手」。これが一番ヒットでした(^^</font><br>
 <br>
-�@�l���Z����œ��ӂƌ����̂����̂����ł��B<br>
-�@�܂����悤�ɂ��΃`�[���v���C����肭���������ł����B<br>
+　個人競技限定で得意と言うのもそのせいです。<br>
+　まぁ取りようによればチームプレイが上手くいくかもですが。<br>
 <br>
-<font color="#cc88ff">&gt;����͎Q�q�q�̔g�ɗ����ꂽ�肵�āB</font><br>
+<font color="#cc88ff">&gt;次回は参拝客の波に流されたりして。</font><br>
 <br>
-�@����B����������������܂���B<br>
+　それ。いただくかもしれません。<br>
 <br>
-<font color="#cc88ff">&gt;�Ă��A���h����Ă܂����k�C���c�c�c�c����Ȃ����B��������o�X����Ȃ��Ĕ�s�@�g���܂��ˁB</font><br>
+<font color="#cc88ff">&gt;てか、合宿先ってまさか北海道…………じゃないか。だったらバスじゃなくて飛行機使いますね。</font><br>
 <br>
-�@���ꂢ�����B�����Ƃ��Ă͖ʔ����ł��ˁB<br>
-�@�����ɂ͌��߂ĂȂ��ł����ߏ�̂ǂ����Ƃ�������ł��B<br>
-�@����Ƃ��B<br>
+　それいいか。しゃれとしては面白いですね。<br>
+　厳密には決めてないですが近場のどこかというつもりです。<br>
+　水上とか。<br>
 <br>
-�@�Ȃ����́c��s�������Ă܂���i����ǁ`��j<br>
-�@������Ƃ�����Ƃ����e�y�[�X�������������炳�����ɃX�g�b�N�؂�B<br>
+　なお次は…一行も書いてません（ちゅど〜ん）<br>
+　ちょっとここんとこ投稿ペースが速かったからさすがにストック切れ。<br>
 <br>
-�@����Ƃ��łɁB<br>
-�@���C�^�[�}������̃~���[�W���ԊO�҂Ɏh�����󂯂��̂ł��ЂƂ��R���{��]�ł���<br>
-����̓s�����l����Ɩ����ɐ\��������ł��܂���̂ő҂��ɓO���܂��B<br>
-�@�������Q�X�g�ɂ������Ǝg�����Ⴄ�Ȃ�Ă̂͑劽�}�B<br>
+　それとついでに。<br>
+　ライターマンさんのミラージュ番外編に刺激を受けたのでぜひともコラボ希望ですが<br>
+相手の都合を考えると無理に申し入れもできませんので待ちに徹します。<br>
+　もちろんゲストにちょろっと使っちゃうなんてのは大歓迎。<br>
 <br>
 <br>
-�@�F�l�B���ǂ݂����������肪�Ƃ��������܂����B</font>
+　皆様。お読みいただきありがとうございました。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -225,84 +225,84 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[214]</font> <font size=4 color=#40c0c0> ���w�����ւ����N�U�@�`�k�ցB�`�x</font>
+<font size=2>[214]</font> <font size=4 color=#40c0c0> ＞『着せ替え少年６　〜北へ。〜』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/02 (��) 01:10:42 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312022011042&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312022011042"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/02 (火) 01:10:42 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312022011042_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200312022011042"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���킠�����������A�Z���A�Ȃ�ĕ�����Ղ��I�i���΁j<br>
-���O�ł�����Ǝv������A�܂��Ɋ��Ғʂ���I<br>
+<font size=3 color=#606060>うわああああああ、校長、なんて分かり易い！（爆笑）<br>
+名前でもしやと思ったら、まさに期待通りっ！<br>
 <br>
-�l�I�ɂ͐e���̃C���p�N�g������������̂�������Ă܂����A<br>
-��������������͌����ȗ�������Ղ�ł��ˁB<br>
-�u������邩��j���͋��v�B���ꂪ��ԃq�b�g�ł���(^^<br>
-����͎Q�q�q�̔g�ɗ����ꂽ�肵�āB<br>
+個人的には親分のインパクトが主役を押しのけちゃってますが、<br>
+今回もつかっちゃんは見事な流されっぷりですね。<br>
+「流されるから泳ぎは苦手」。これが一番ヒットでした(^^<br>
+次回は参拝客の波に流されたりして。<br>
 <br>
-�Ă��A���h����Ă܂����k�C���c�c�c�c����Ȃ����B��������o�X����Ȃ��Ĕ�s�@�g���܂��ˁB</font>
+てか、合宿先ってまさか北海道…………じゃないか。だったらバスじゃなくて飛行機使いますね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[213]</font> <font size=4 color=#40c0c0> �ǂ݂܂����f�X�B</font>
+<font size=2>[213]</font> <font size=4 color=#40c0c0> 読みましたデス。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/01 (��) 23:31:01 <strong>��</strong> sana </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312011233101&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312011233101"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/01 (月) 23:31:01 <strong>▽</strong> sana </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312011233101_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200312011233101"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������邩��j���̂͋��ȁA���������B<br>
-�Q�����f�̋M���q����A�������܂܂ɋ��t�f�r���[�B<br>
-����ɁA������ď����f�r���`�`�`o(&gt;&lt;o) (o&gt;&lt;)o<br>
-�����ŏ��������ɂ��Ă܂��B��a���Ȃ��I<br>
+<font size=3 color=#606060>流されるから泳ぐのは苦手な、つかっちゃん。<br>
+ゲレンデの貴公子から、流されるままに教師デビュー。<br>
+さらに、流されて女湯デビュ〜〜〜o(&gt;&lt;o) (o&gt;&lt;)o<br>
+女装で女性化が板についてます。違和感なし！<br>
 <br>
-�Ƃ���ŁA<br>
-�u�Ă��ł��I�v�Ɓu�ׂ��߂��I�v<br>
-�c�����Ȃ��B�����Ɉ�g�~�����ł��B<br>
+ところで、<br>
+「てやんでぇ！」と「べらんめぇ！」<br>
+…いいなぁ。うちに一組欲しいです。<br>
 <br>
-<font color="#ff88cc">���u���`�����I�I�I�I�v</font><br>
-���ĂȂ�������ł����ǁA���������ăN�E�K�H<br>
-�Ō�̕��Ő�R�̃V�[�����`�����ƌ����L�����c�B<br>
-�~���g�́A�����ς�ł����c�c�c�O�܁B</font>
+<font color="#ff88cc">＞「語代〜っっ！！！！」</font><br>
+見てなかったんですけど、もしかしてクウガ？<br>
+最後の方で雪山のシーンをチラリと見た記憶が…。<br>
+ミントは、さっぱりでした……残念賞。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[212]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[212]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/01 (��) 22:30:17 <strong>��</strong> �y�率�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312011223017&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312011223017"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/01 (月) 22:30:17 <strong>▽</strong> 土也紫緒 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312011223017_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200312011223017"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������c�X�L�[�Œj�炵�����A�s�[���ł����̂ɁB<br>
-���ǂ́A�݂�Ȃ̒����ւ��I���`���ł����ˁi�΁j<br>
-���F�ŏ����ɓ�������c�i����A�N�͂������h�ȏ��̎q���I<br>
-���낻�남�������c�c����ώi����Ȃ�A���l���ɐ��ꒅ�ŗ������ȁi�Ӗ��s���j</font>
+<font size=3 color=#606060>せっかく…スキーで男らしさをアピールできたのに。<br>
+結局は、みんなの着せ替えオモチャでしたね（笑）<br>
+公認で女湯に入ったり…司くん、君はもう立派な女の子だ！<br>
+そろそろお正月か……やっぱ司くんなら、成人式に晴れ着で乱入だな（意味不明）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[211]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[211]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/30 (��) 17:45:19 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311300174519&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311300174519"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/30 (日) 17:45:19 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311300174519_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200311300174519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂��́I<br>
-�Z���̃L�������̂������痧���܂���ł����ł��Ȃ��B<br>
-�z���g�Ɂu�e���I�v���ČĂ΂�Ă������i���j�B<br>
-����͂����ƁA�X�L�[�����ŏI��ł����܂ŉH�ڊO���Ă����񂩂��H�i�΁j<br>
-�܁A�������i���j�B<br>
-��Ŏ���͂������ł����B�����P�N���̂��đ����˂��i��j�B</font>
+<font size=3 color=#606060>わっはっは！<br>
+校長のキャラがのっけから立ちまくりでいいですなぁ。<br>
+ホントに「親分！」って呼ばれていそう（爆）。<br>
+それはそうと、スキー教室最終夜でそこまで羽目外していいんかい？（笑）<br>
+ま、いいか（爆）。<br>
+んで次回はお正月ですか。何か１年たつのって早いねぇ（違）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -310,77 +310,77 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[210]</font> <font size=4 color=#40c0c0> �w�����ւ����N�U�@�`�k�ց`�x������ɂ͉��̃A�h���X���N���b�N�B</font>
+<font size=2>[210]</font> <font size=4 color=#40c0c0> 『着せ替え少年６　〜北へ〜』を見るには下のアドレスをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/30 (��) 14:38:57 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311300143857&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311300143857"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/30 (日) 14:38:57 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311300143857_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200311300143857"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���₪�����������Ă�ł���I�@������~���g�̌��t�Łc�c����H<br>
-<a href=http://ts.novels.jp/novel/200209/19204751/d_upboy06.htm target=_top>http://ts.novels.jp/novel/200209/19204751/d_upboy06.htm</a></font>
+<font size=3 color=#606060>【推薦文】白銀がつかっちゃんを呼んでいる！　だからミントの言葉で……あれ？<br>
+<a href="../../novel/200209/19204751/d_upboy06.htm" target=_top>http://ts.novels.jp/novel/200209/19204751/d_upboy06.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[209]</font> <font size=4 color=#40c0c0> �Ăъ���</font>
+<font size=2>[209]</font> <font size=4 color=#40c0c0> 再び感謝</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/28 (��) 00:43:00 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311285004300&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311285004300"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/28 (金) 00:43:00 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311285004300_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200311285004300"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�F�l�B���߂܂��Ă��肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>　皆様。改めましてありがとうございます。<br>
 <br>
-�@�r�n�q�`����<br>
+　ＳＯＲＡさん<br>
 <br>
-<font color="#cc88ff">&gt;�㔼�̓{���̉����A�܂�Ŗ����~���N��Z�Ƃ����Ƃ���ł��傤���B</font><br>
+<font color="#cc88ff">&gt;後半の怒涛の加速、まるで魔球ミラクルZというところでしょうか。</font><br>
 <br>
-�@�����B���������̂���ɋ߂��ł��傤���B<br>
-�@�����Ƃ��l�ɂ͂���ȓ��̂����b�͂����܂��񂪁B<br>
+　ある種。推理小説のそれに近いでしょうか。<br>
+　もっとも僕にはそんな頭のいい話はかけませんが。<br>
 <br>
-<font color="#cc88ff">&gt;����ȃl�^������l����̂�? (^^;</font><br>
+<font color="#cc88ff">&gt;＃んなネタ分かる人いるのか? (^^;</font><br>
 <br>
-�@���߂�Ȃ����B���͂킩��܂���ł����B<br>
+　ごめんなさい。実はわかりませんでした。<br>
 <br>
-<font color="#cc88ff">&gt;���̂Ƃ��͂ǂ��������̂��Ƃ��F�X�Ɩϑz���c��݂܂��B(^^;</font><br>
+<font color="#cc88ff">&gt;妹のときはどうだったのかとか色々と妄想が膨らみます。(^^;</font><br>
 <br>
-�@���߂ĂȂ����Ǖ��ʂ������Ƃ͎v���܂��ˁB<br>
+　決めてないけど普通だったとは思いますね。<br>
 <br>
-�@�a�J���Ƃ��炳��<br>
+　渋谷＠家からさん<br>
 <br>
-<font color="#cc88ff">&gt;�q��̓��������ɗ��p�����A�C�f�B�A�ɒE�X�B</font><br>
+<font color="#cc88ff">&gt;子宝の湯を強引に利用したアイディアに脱帽。</font><br>
 <br>
-�@�l�̍�i�B�݂�ȋ����ł�����i�΁j<br>
+　僕の作品。みんな強引ですから（笑）<br>
 <br>
-<font color="#cc88ff">&gt;�^�n�h�\����PS2�Q�[���\�t�g���ӎ����āw�k�ցB�x�Ƃ��ė~���������Ƃ���ł��B</font><br>
+<font color="#cc88ff">&gt;某ハドソンのPS2ゲームソフトを意識して『北へ。』として欲しかったところです。</font><br>
 <br>
-�@�����B���͂������e�����Ⴂ�܂����B�ߓ����Ɍf�ڂ��Ē�����Ǝv���܂����C�������邩�ۂ�B<br>
-�@�������Ɂu�B�v�����̂��߂ɏC���˗����o���܂��񂵁B<br>
+　あう。実はもう投稿しちゃいました。近日中に掲載して頂けると思いますが修正が入るか否や。<br>
+　さすがに「。」だけのために修正依頼も出せませんし。<br>
 <br>
-�@��܂���<br>
+　らまさん<br>
 <br>
-<font color="#cc88ff">&gt;�`�e���������̂ƁA�S�̓I�ɓǓ_�u�A�v�����Ȃ������ǂݐh�������̂��C�ɂȂ�܂�����</font><br>
+<font color="#cc88ff">&gt;形容詞が多いのと、全体的に読点「、」が少なく少し読み辛かったのが気になりましたが</font><br>
 <br>
-�@���ȍޗ��ł��ˁB���̎Q�l�ɂ����Ă��������܂��B<br>
-�i���ǉ��ɏ������Ƃ���u���v�͂������e��������Ă܂����ǁj<br>
+　反省材料ですね。次の参考にさせていただきます。<br>
+（けど下に書いたとおり「次」はもう投稿しちゃってますけど）<br>
 <br>
-<font color="#cc88ff">&gt;�q���̌^���珙�X�ɐ�������Ȃ�āc�s�r�̑�햡�������Ղ芬�\�ł������ł��ˁ`�i�΁j</font><br>
+<font color="#cc88ff">&gt;子供体型から徐々に成長するなんて…ＴＳの醍醐味をたっぷり堪能できそうですね〜（笑）</font><br>
 <br>
-�@��u�ɂ��Đ��l�����B���������Q�̃v���|�[�V�����ɂȂ��Ă��܂��P�[�X����������<br>
-�������Ă݂܂����B<br>
-�@����B����ȍ�i�Ń��A���e�B�ǋ����Ă����傤���Ȃ����Ǐ�������l�̏����̑̂ɂȂ��Ă����ƂȂ�Ƃǂ����ȂƁB<br>
-�@����ł��҃X�s�[�h�ŕω��ł����B<br>
+　一瞬にして成人女性。しかも抜群のプロポーションになってしまうケースが多いから<br>
+こうしてみました。<br>
+　いや。こんな作品でリアリティ追求してもしょうがないけど少しずつ大人の女性の体になっていくとなるとどうかなと。<br>
+　それでも猛スピードで変化ですが。<br>
 <br>
-<font color="#cc88ff">&gt;�o�Y�܂łƂ́c�P�{���ꂽ�܂���^^�G</font><br>
+<font color="#cc88ff">&gt;出産までとは…１本取られたました^^；</font><br>
 <br>
-�@�ϐg�����Ȃ珑���Ȃ������ł��傤�ˁB<br>
-�@�j�ɖ߂邽�߂ɂ͂Ƃ��Ƃ񏗂ɂȂ�Ȃ��Ⴂ���Ȃ��Ƃ����������ʔ��������ƁB<br>
+　変身だけなら書かなかったでしょうね。<br>
+　男に戻るためにはとことん女にならなきゃいけないという矛盾が面白いかもと。<br>
 <br>
-�@�M�d�Ȍ�ӌ��B�Q�l�ɂ����Ă��������܂��B<br>
-�@�Ȃ��N���ɂ͑��b���A�b�v���������Ȃ��Ɓc</font>
+　貴重な御意見。参考にさせていただきます。<br>
+　なお年内には第二話をアップさせたいなぁと…</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -388,24 +388,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[208]</font> <font size=4 color=#40c0c0> �ǂ݂܂�����</font>
+<font size=2>[208]</font> <font size=4 color=#40c0c0> 読みましたｗ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/27 (��) 19:02:35 <strong>��</strong> <a href="mailto:t-hiruma@smile.ocn.ne.jp">���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311274190235&log=johdan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311274190235"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/27 (木) 19:02:35 <strong>▽</strong> <a href="mailto:t-hiruma@smile.ocn.ne.jp">らま</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311274190235_log_johdan.cgi">返信</a>　削除<input type=checkbox name="target" value="200311274190235"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�`�e���������̂ƁA�S�̓I�ɓǓ_�u�A�v�����Ȃ������ǂݐh�������̂��C�ɂȂ�܂������A�b�͂ƂĂ��ʔ��������ł���<br>
-�q���̌^���珙�X�ɐ�������Ȃ�āc�s�r�̑�햡�������Ղ芬�\�ł������ł��ˁ`�i�΁j<br>
-���ꂩ�疅�ɂǂ��V�΂�c����Ȃ��Ďw�������̂��A�y���݂ł�^^<br>
-���c���͎����������悤�Șb�i����l�^�j���l���Ă����̂ł����A�o�Y�܂łƂ́c�P�{���ꂽ�܂���^^�G<br>
+<font size=3 color=#606060>形容詞が多いのと、全体的に読点「、」が少なく少し読み辛かったのが気になりましたが、話はとても面白かったですｗ<br>
+子供体型から徐々に成長するなんて…ＴＳの醍醐味をたっぷり堪能できそうですね〜（笑）<br>
+これから妹にどう遊ばれ…じゃなくて指導されるのか、楽しみです^^<br>
+※…実は自分も似たような話（温泉ネタ）を考えていたのですが、出産までとは…１本取られたました^^；<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="johdan">
@@ -413,16 +413,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="johdan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=johdan">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_johdan.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

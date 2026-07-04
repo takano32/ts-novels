@@ -70,7 +70,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 「大咎人」。その血を引き継ぐ彼は、欲望のままに動く。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200409/04201534/Person_03.html target=_top>http://ts.novels.jp/novel/200409/04201534/Person_03.html</a></font>
+<a href="../../novel/200409/04201534/Person_03.html" target=_top>http://ts.novels.jp/novel/200409/04201534/Person_03.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -194,7 +194,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 衝動。彼は、本能が、欲望が満たされるまで動き続けるのか——？<br>
 <br>
-<a href=http://ts.novels.jp/novel/200409/04201534/Person_02.html target=_top>http://ts.novels.jp/novel/200409/04201534/Person_02.html</a></font>
+<a href="../../novel/200409/04201534/Person_02.html" target=_top>http://ts.novels.jp/novel/200409/04201534/Person_02.html</a></font>
 </td></table>
 </td></tr></table>
 

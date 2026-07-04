@@ -56,7 +56,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ええっと……翔くんには、何か自分も知らない秘密があるようですが……<br>
-<a href=http://ts.novels.jp/novel/200602/19204621/strange04.htm target=_top>http://ts.novels.jp/novel/200602/19204621/strange04.htm</a></font>
+<a href="../../novel/200602/19204621/strange04.htm" target=_top>http://ts.novels.jp/novel/200602/19204621/strange04.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -71,7 +71,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】空が飛べてまわりの人に姿が見えない……某超者さんですか？　何気に怪しい冒頭のやり取りが気になります。<br>
-<a href=http://ts.novels.jp/novel/200602/19204621/strange03.htm target=_top>http://ts.novels.jp/novel/200602/19204621/strange03.htm</a></font>
+<a href="../../novel/200602/19204621/strange03.htm" target=_top>http://ts.novels.jp/novel/200602/19204621/strange03.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -100,7 +100,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】「あきらめない」……亡き母親との誓いが、翔に未知なる力を目覚めさせる！<br>
-<a href=http://ts.novels.jp/novel/200602/19204621/strange02.htm target=_top>http://ts.novels.jp/novel/200602/19204621/strange02.htm</a></font>
+<a href="../../novel/200602/19204621/strange02.htm" target=_top>http://ts.novels.jp/novel/200602/19204621/strange02.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -134,7 +134,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】まだプロローグといったところでしょうか……？　はたして主人公に何が起こるのでしょう？<br>
-<a href=http://ts.novels.jp/novel/200602/19204621/strange01.htm target=_top>http://ts.novels.jp/novel/200602/19204621/strange01.htm</a></font>
+<a href="../../novel/200602/19204621/strange01.htm" target=_top>http://ts.novels.jp/novel/200602/19204621/strange01.htm</a></font>
 </td></table>
 </td></tr></table>
 

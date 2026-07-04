@@ -1,39 +1,39 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>yuk�����i�@���z�f����</title>
+<title>yukさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>yuk�����i�@���z�f����</font>
+<font size=5>yukさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yuk">
 <input type=hidden name="nj" value="YKPxqhVpK2">
 <input type=hidden name="res" value="3">
-<h4 align=center>�� �L���ԍ� 3 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 3 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�wnice assist �鏪����Ɖė������̏ꍇ �x������ɂ͉����N���b�N�B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z�͂�͂�A�h�L�h�L�̓W�J�ł͂Ȃ��āA�Ȃ�ł����Ȃ�́I�ƃc�b�R�~�����Ȃ邨�b�ł��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『nice assist 夜宵さんと夏流ちゃんの場合 』を見るには下をクリック。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】はらはら、ドキドキの展開ではなくて、なんでそうなるの！とツッコミたくなるお話です。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h RAd11T  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="RAd11T"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード RAd11T  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="RAd11T"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -46,21 +46,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> Re:���N���Ƃ������c�c</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> Re:耳年増というか……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/23 (�y) 20:22:07 <strong>��</strong> yuk </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612236202207&log=yuk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612236202207"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/23 (土) 20:22:07 <strong>▽</strong> yuk </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612236202207_log_yuk.cgi">返信</a>　削除<input type=checkbox name="target" value="200612236202207"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;���肩�i�m���</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;きりか進ノ介さん</font><br>
 <br>
-���z�A�����ăA�h�o�C�X���肪�Ƃ��������܂��B<br>
-�ǂ݂ɂ����Ƃ����̂͗F�B�ɂ������܂����B<br>
-���͎����ł������v���Ă��邠����܂��܂��͕s���ł��B<br>
-�ꉞ�L��������ׂ���͓��������Ă����Ȃ̂ł����A�ǂ����Ă��L�����N�^�[�������Ȃ�Ƃ��Ԃ��Ă��܂����̂��c�c<br>
-�����Ēn�̕��Ƃ������̂��ƂĂ����i�j�œI�j�Ȃ̂ŉ�b�΂���ɂȂ��Ă��܂��̂����_�Ȃ񂾂ȁA�Ƃ������Ă܂��B<br>
-�����Ď��͂����������_�𒼂��Đ��������Ǝv���Ă��܂��B<br>
+感想、そしてアドバイスありがとうございます。<br>
+読みにくいというのは友達にも言われました。<br>
+じつは自分でもそう思っているあたりまだまだ力不足です。<br>
+一応キャラしゃべり方は特徴をつけてるつもりなのですが、どうしてもキャラクターが多くなるとかぶってしまうものが……<br>
+そして地の文というものがとても苦手（破滅的）なので会話ばかりになってしまうのも欠点なんだな、とおもってます。<br>
+そして私はそういう欠点を直して生きたいと思っています。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -68,142 +68,142 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> ���N���Ƃ������c�c</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 耳年増というか……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/23 (�y) 16:56:39 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612236165639&log=yuk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612236165639"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/23 (土) 16:56:39 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612236165639_log_yuk.cgi">返信</a>　削除<input type=checkbox name="target" value="200612236165639"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@����ɂ��́[�B�@�V�тɎQ��܂����A���肩�i�m��ł��B�@�i���X�ɂ����Ă��������Ă��邨������˂āA���z�����ɎQ��܂����B�������ۛ��ɂ��肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>　こんにちはー。　遊びに参りました、きりか進ノ介です。　喫茶店にも来ていただいているお礼を兼ねて、感想書きに参りました。いつもご贔屓にありがとうございます。<br>
 <br>
-�@�c�c�����ƂˁA�����Ɍ����܂��āA������Ɠǂ݂ɂ��������B<br>
+　……えっとね、正直に言いまして、ちょっと読みにくかった。<br>
 <br>
-�@���A���݂܂���B�ł��A�o��l���̑���������قƂ�ǉ�b�����ō\��������ĂƂĂ�����ł���ˁH�@�܂������ď����̓ǎ҂͂ǂ�Ȑl���ǂ�Ȋi�D�Řb�����Ă�̂�������Ȃ��B�܂��A�����������Ƃ͋C�ɂ��Ȃ��œǂ�ŁA�Ƃ��������������肾�Ƃ͎v���̂ł�����ǁB����ɂ��Ă��A�����Ƃ��̃Z���t�͒N�̂��Ȃ��A�Ƃ����̂���s���Ƃɍl���l���ǂނ̂͌��\�^�C�w���Ȃ��̂Ȃ̂ŁA����������Ɛe�؂ɏ����Ă����Ɠǎ҂͑�����̂ł͂Ȃ����ƁB�܁A������ƌ����āu�N�X���������v���ĕt����΂����Ƃ����悤�ȊȒP�Ȃ��̂ł��Ȃ��A�Ƃ����̂������̓���Ƃ���ł��傤����ǂ��B<br>
+　す、すみません。でも、登場人物の多い物語をほとんど会話だけで構成するってとても難しいですよね？　まずもって初見の読者はどんな人がどんな格好で話をしてるのか分からない。まあ、そういうことは気にしないで読んで、という書き方もありだとは思うのですけれど。それにしても、えっとこのセリフは誰のかなあ、というのを一行ごとに考え考え読むのは結構タイヘンなものなので、もうちょっと親切に書いてくれると読者は増えるのではないかと。ま、だからと言って「誰々が言った」って付ければいいというような簡単なものでもない、というのが小説の難しいところでしょうけれども。<br>
 <br>
-�@�L�����ɂ͖��͓I�Ȏq�����܂����A�b�̋ؗ��ĂƂ��͂Ȃ��Ȃ��ʔ������ł��B���낢��Ə����Ă������ŁA�ǎ҂ɂ��D���������̃X�^�C���A�Ȃ�Ă̂������Ē����܂��ƁA���̂悤�Ȏ@���̈����҂Ƃ��Ă͊������ȂƎv���܂��B<br>
+　キャラには魅力的な子が居ますし、話の筋立てとかはなかなか面白そうです。いろいろと書いていく中で、読者にも優しい自分のスタイル、なんてのを見つけて頂けますと、私のような察しの悪い者としては嬉しいなと思います。<br>
 <br>
-�@���A�����΂�͂���ꂽ�V�[���ł����H�@�ǂ����낤�A�͂���̖��@�����肩�ȁH<br>
+　え、いちばん力を入れたシーンですか？　どこだろう、はるるんの魔法あたりかな？<br>
 <br>
-<font color="#cc88ff">&gt;�����Ώ����ق�</font><br>
-�@�܂������������Ǝv���܂��B���̃G�l���M�[�A�������Ȃ��B<br>
+<font color="#cc88ff">&gt;書けば書くほど</font><br>
+　まったくそうだと思います。そのエネルギー、すごいなあ。<br>
 <br>
- �@����ł͂܂��I</font>
+ 　それではまた！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> Re:��Ƃ�����āc�c���N���������̂�</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> Re:作家さんって……耳年増が多いので</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/21 (��) 19:43:02 <strong>��</strong> yuk </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612214194302&log=yuk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612214194302"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/21 (木) 19:43:02 <strong>▽</strong> yuk </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612214194302_log_yuk.cgi">返信</a>　削除<input type=checkbox name="target" value="200612214194302"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;��������</font><br>
-�����z���肪�Ƃ��������܂��B<br>
-�u�m���v�͂Ȃ�Ƃ������u�ւ���v�̈�ł��ˁB<br>
-����Ȃ��̂ɗ���Ȃ��Ă͂Ȃ�Ȃ������̘r�ɒp������΂���Ȃ�ł����i��<br>
-�Ƃ肠�������͂͏����Ώ����قǂ悭�Ȃ��Ă����͂��A�Ƃ����̂����̃X�^���X�Ȃ�ł����A�����e���|���悭�Ȃ��Ă���Ƃ��������t�ɂ��̂������S��������܂����B<br>
-�Ȃ������B<br>
-�ƁA�������ƂŁi�Ȃɂ��ƁA�������ƂȂ̂��͉���Ȃ����j���z�{���ɂ��肪�Ƃ��������܂����B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;長束さん</font><br>
+ご感想ありがとうございます。<br>
+「ノリ」はなんというか「禁じ手」の域ですね。<br>
+そんなものに頼らなくてはならない自分の腕に恥じ入るばかりなんですが（笑<br>
+とりあえず文章は書けば書くほどよくなっていくはず、というのが私のスタンスなんですが、質もテンポもよくなっているというお言葉にものすごく心をうたれました。<br>
+なくかも。<br>
+と、いうことで（なにがと、いうことなのかは解らないが）感想本当にありがとうございました。<br>
 <br>
-�c�c�G���B�̂ق��Ƀ~���B�Ƃ��T���B�Ƃ��e���B�Ƃ������邩���i��</font>
+……エリィのほかにミリィとかサリィとかテリィとかもいるかも（笑</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> ��Ƃ�����āc�c���N���������̂�</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 作家さんって……耳年増が多いので</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/20 (��) 22:07:24 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612203220724&log=yuk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612203220724"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/20 (水) 22:07:24 <strong>▽</strong> 長束 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612203220724_log_yuk.cgi">返信</a>　削除<input type=checkbox name="target" value="200612203220724"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ƁA�������ɘR�ꂸ���N��͂��Ƃ���Ȃł��Ȃ������ł��B�܂����肸�Ɍf���ɂ܂ł��ז������Ă��܂��܂����B<br>
-���āA�ǂ�ǂ񎷕M�y�[�X���オ���Ă��Ă��܂��˂��B����ɕt�����Ď����e���|���ǂ��Ȃ��Ă��Ă����ł�����A�܂���������c�c�Ƃ݂ɂ����i�݂͂��̂��炢�ɂ��܂��ĂˁA�ƁB<br>
-�����A�Ƃł��ˈ�ԗ͂��͂����Ă�Ƃ��A�ƌ�����ƂȂ��Ȃ������ł����ǁA���i�̖������̉�b���̐؂肩���������Ȃ�ʔ��������Ƃ���ł��ˁB<br>
-����ɂ��Ă��m�����Ĉ̑�c�c�Ȃ�Ƃł��ǂ��ɂł��Ȃ��Ă��܂������ȋC�����܂�����ˁB���Ă��āA���ꂶ��܂�����ɂ����҂��Ă��܂���[�A���ꂶ��܂��B<br>
-�c�c�ނ��A�ł��}���B�ƃ����B��������Ă��Ƃ͂����ƃG���B���c�c�i�Ӗ��s���j</font>
+<font size=3 color=#606060>と、ご他聞に漏れず実年齢はわりとそんなでもない長束です。また懲りずに掲示板にまでお邪魔をしてしまいました。<br>
+さて、どんどん執筆ペースが上がってきていますねえ。それに付随して質もテンポも良くなってきているんですから羨ましいかぎり……とみにくい妬みはそのくらいにしましてね、と。<br>
+ええ、とですね一番力がはいってるとこ、と言われるとなかなか難しいんですけど、序段の明たちの会話文の切りかえしがかなり面白かったところですね。<br>
+それにしてもノリって偉大……なんとでもどうにでもなってしまいそうな気がしますからね。さてさて、それじゃまた次回にも期待していますよー、それじゃまた。<br>
+……むう、でもマリィとリリィがいるってことはきっとエリィも……（意味不明）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �wnice assist ���N�́s�I�[�p�[�c�t�x������ɂ͉����N���b�N�B</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 『nice assist 明君の《オーパーツ》』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/20 (��) 00:07:36 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612203000736&log=yuk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612203000736"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/20 (水) 00:07:36 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612203000736_log_yuk.cgi">返信</a>　削除<input type=checkbox name="target" value="200612203000736"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���E�̗��œ����Ă���l�����ɂ��s���Ƃ������̂������ł���B���Ԃ�B</font>
-<p><a href="http://ts.novels.jp/novel/200611/07223823/niceassist03.html" target="_top">http://ts.novels.jp/novel/200611/07223823/niceassist03.html</a>
+<font size=3 color=#606060>【推薦文】世界の裏で動いている人たちにも都合というものがあるんですよ。たぶん。</font>
+<p><a href="../../novel/200611/07223823/niceassist03.html" target="_top">http://ts.novels.jp/novel/200611/07223823/niceassist03.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �wnice assist �鏪����Ɖė������̏ꍇ �x������ɂ͉����N���b�N�B</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 『nice assist 夜宵さんと夏流ちゃんの場合 』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/04 (��) 21:54:20 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200612041215420&log=yuk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612041215420"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/04 (月) 21:54:20 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200612041215420_log_yuk.cgi">返信</a>　削除<input type=checkbox name="target" value="200612041215420"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�͂�͂�A�h�L�h�L�̓W�J�ł͂Ȃ��āA�Ȃ�ł����Ȃ�́I�ƃc�b�R�~�����Ȃ邨�b�ł��B</font>
-<p><a href="http://ts.novels.jp/novel/200611/07223823/niceassist02.html" target="_top">http://ts.novels.jp/novel/200611/07223823/niceassist02.html</a>
+<font size=3 color=#606060>【推薦文】はらはら、ドキドキの展開ではなくて、なんでそうなるの！とツッコミたくなるお話です。</font>
+<p><a href="../../novel/200611/07223823/niceassist02.html" target="_top">http://ts.novels.jp/novel/200611/07223823/niceassist02.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �wnice assist ���N�̏ꍇ �x������ɂ͉����N���b�N�B</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 『nice assist 明君の場合 』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/19 (��) 23:19:29 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611190231929&log=yuk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611190231929"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/19 (日) 23:19:29 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611190231929_log_yuk.cgi">返信</a>　削除<input type=checkbox name="target" value="200611190231929"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�V�ā@���N�̊���͂����ɁB</font>
-<p><a href="http://ts.novels.jp/novel/200611/07223823/niceassist01.html" target="_top">http://ts.novels.jp/novel/200611/07223823/niceassist01.html</a>
+<font size=3 color=#606060>【推薦文】新米　明君の活躍はいかに。</font>
+<p><a href="../../novel/200611/07223823/niceassist01.html" target="_top">http://ts.novels.jp/novel/200611/07223823/niceassist01.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �wnice assist ���́x������ɂ͉����N���b�N�B</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『nice assist 序章』を見るには下をクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/07 (��) 22:44:36 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200611072224436&log=yuk">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611072224436"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/07 (火) 22:44:36 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200611072224436_log_yuk.cgi">返信</a>　削除<input type=checkbox name="target" value="200611072224436"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���E���K���ɂ���H���߂ɓ��銈�����Ă���g�D�̕���ł��B</font>
-<p><a href="http://ts.novels.jp/novel/200611/07223823/niceassist00.html" target="_top">http://ts.novels.jp/novel/200611/07223823/niceassist00.html</a>
+<font size=3 color=#606060>【推薦文】世界を幸せにする？ために日夜活動している組織の物語です。</font>
+<p><a href="../../novel/200611/07223823/niceassist00.html" target="_top">http://ts.novels.jp/novel/200611/07223823/niceassist00.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yuk">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yuk">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yuk.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

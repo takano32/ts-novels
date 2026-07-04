@@ -191,7 +191,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 何ともきびしいこの世界。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200504/17193503/yabunirami_02.html target=_top>http://ts.novels.jp/novel/200504/17193503/yabunirami_02.html</a></font>
+<a href="../../novel/200504/17193503/yabunirami_02.html" target=_top>http://ts.novels.jp/novel/200504/17193503/yabunirami_02.html</a></font>
 </td></table>
 </td></tr></table>
 

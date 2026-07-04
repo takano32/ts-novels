@@ -91,7 +91,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】これまた強烈な妹が登場。いろいろ気苦労が多いだろうけど、頑張れモモちゃん！<br>
 <br>
-<a href=http://ts.novels.jp/novel/200112/18230553/novel_3.html target=_top>http://ts.novels.jp/novel/200112/18230553/novel_3.html</a></font>
+<a href="../../novel/200112/18230553/novel_3.html" target=_top>http://ts.novels.jp/novel/200112/18230553/novel_3.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -171,7 +171,7 @@ NOVEL２は戸隠に「甘えるな」を言わせることが表のテーマ、
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】この合宿でモモちゃんはきっと一皮むけたに違いない。それにしても戸隠がいいキャラしてますね。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200112/18230553/novel_2.html target=_top>http://ts.novels.jp/novel/200112/18230553/novel_2.html</a></font>
+<a href="../../novel/200112/18230553/novel_2.html" target=_top>http://ts.novels.jp/novel/200112/18230553/novel_2.html</a></font>
 </td></table>
 </td></tr></table>
 

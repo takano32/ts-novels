@@ -173,7 +173,7 @@ TSの描写も何気に新鮮風味だったし良かったでするYO<br>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】１話目じゃ何ともなかったのに……ここに掲載される時点でＴＳは避けられない運命なのです(笑)。拓実ちゃん、ご愁傷様。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200309/08120139/princess_02.html target=_top>http://ts.novels.jp/novel/200309/08120139/princess_02.html</a></font>
+<a href="../../novel/200309/08120139/princess_02.html" target=_top>http://ts.novels.jp/novel/200309/08120139/princess_02.html</a></font>
 </td></table>
 </td></tr></table>
 

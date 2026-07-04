@@ -107,7 +107,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】完結編ですが、このオーナーならシャバドゥビなベルトも作ってくれそうな気がするｗ　チョーイイネ!<br>
-<a href=http://ts.novels.jp/novel/200802/18212014/bhr4.htm target=_top>http://ts.novels.jp/novel/200802/18212014/bhr4.htm</a></font>
+<a href="../../novel/200802/18212014/bhr4.htm" target=_top>http://ts.novels.jp/novel/200802/18212014/bhr4.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -122,7 +122,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 迷コンビがノリノリで送る第3弾。……自分が変われば世界が変わる。それが、天の道　(^^)<br>
-<a href=http://ts.novels.jp/novel/200802/18212014/bhr3.htm target=_top>http://ts.novels.jp/novel/200802/18212014/bhr3.htm</a></font>
+<a href="../../novel/200802/18212014/bhr3.htm" target=_top>http://ts.novels.jp/novel/200802/18212014/bhr3.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -137,7 +137,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】脇田くんとオーナー、今度はあのヒーローの変身に挑戦です……今、Ｋの力が全開する。（＾＾）<br>
-<a href=http://ts.novels.jp/novel/200802/18212014/bhr2.htm target=_top>http://ts.novels.jp/novel/200802/18212014/bhr2.htm</a></font>
+<a href="../../novel/200802/18212014/bhr2.htm" target=_top>http://ts.novels.jp/novel/200802/18212014/bhr2.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -199,7 +199,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】その某特撮シリーズが好きな担当です。……さあ、お前の萌を数えろ。（＾＾）<br>
-<a href=http://ts.novels.jp/novel/200802/18212014/bhr.htm target=_top>http://ts.novels.jp/novel/200802/18212014/bhr.htm</a></font>
+<a href="../../novel/200802/18212014/bhr.htm" target=_top>http://ts.novels.jp/novel/200802/18212014/bhr.htm</a></font>
 </td></table>
 </td></tr></table>
 

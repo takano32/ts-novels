@@ -102,7 +102,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 才色兼備な人間は考えることが凶悪です（笑）<br>
-<a href=http://ts.novels.jp/novel/200501/24190306/oos.html target=_top>http://ts.novels.jp/novel/200501/24190306/oos.html</a></font>
+<a href="../../novel/200501/24190306/oos.html" target=_top>http://ts.novels.jp/novel/200501/24190306/oos.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -150,7 +150,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】いや〜ＴＳのきっかけってどこにでも転がっているんですねぇ（違）。<br>
-<a href=http://ts.novels.jp/novel/200501/24190306/ftsq.htm target=_top>http://ts.novels.jp/novel/200501/24190306/ftsq.htm</a></font>
+<a href="../../novel/200501/24190306/ftsq.htm" target=_top>http://ts.novels.jp/novel/200501/24190306/ftsq.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -196,7 +196,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】……というわけで、とりあえず萌え〜なイラスト一枚追加です。もう一つ（胸ポロリ〜なあのシーン）は、あむぁいさんのＨＰで見てくださいませ。ｍ（_ _）ｍ<br>
-<a href=http://ts.novels.jp/novel/200501/24190306/jeena.htm target=_top>http://ts.novels.jp/novel/200501/24190306/jeena.htm</a></font>
+<a href="../../novel/200501/24190306/jeena.htm" target=_top>http://ts.novels.jp/novel/200501/24190306/jeena.htm</a></font>
 </td></table>
 </td></tr></table>
 

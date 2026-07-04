@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���N�������ɂ̉^�c�ɂ��Č���</title>
+<title>少年少女文庫の運営について語る会</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >���N�������ɂ̉^�c�ɂ��Č���</font>
+<font size=6 >少年少女文庫の運営について語る会</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>���N�������ɂ̉^�c�ɂ��Ă̋^��A������A���ӌ���A�u�^�c�Ɍg����Ă݂����v�Ƃ����l�́A���Џ�������ŉ������B</font>
+<font color=#608080>少年少女文庫の運営についての疑問、ご質問、ご意見や、「運営に携わってみたい」という人は、ぜひ書き込んで下さい。</font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,28 +15,28 @@
 <input type=hidden name="log" value="data2">
 <input type=hidden name="nj" value="lg2KVDZhmi">
 <input type=hidden name="res" value="16">
-<h4 align=center>�� �L���ԍ� 16 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 16 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�u�����̗��l�v�V���[�Y�^�C�g���̃����N�؂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� VXMAS����
-&gt; ��傤�l�A�d�g�d���l�A2002/7/23�́u�ꕔ����Ȃ��Łv�̌��ł̂��Ԏ��A���肪�Ƃ��������܂��B�������܂������Ă���݂����ł��ˁB(^^;)
-&gt; �Ƃ���ŕ\��̌��ł����A�u�����̗��l�v�̃V���[�Y�^�C�g���ő�P�b���������N�؂�ɂȂ��Ă���܂��B�u���ɉߋ��ژ^�v��u��i�����v������Ό����܂��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:「星屑の旅人」シリーズタイトルのリンク切れ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ VXMASさん
+&gt; りょう様、電波妖精様、2002/7/23の「一部見れない頁」の件でのお返事、ありがとうございます。何だかまた消えているみたいですね。(^^;)
+&gt; ところで表題の件ですが、「星屑の旅人」のシリーズタイトルで第１話だけリンク切れになっております。「文庫過去目録」や「作品検索」をすれば見られます。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -49,15 +49,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[36]</font> <font size=4 color=#40c0c0> �^�u�u���E�U</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[36]</font> <font size=4 color=#40c0c0> タブブラウザ</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/15 (��) 22:29:42  <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208154222942&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208154222942"></font>
+<font size=-1 color=#606060> 2002/08/15 (木) 22:29:42  <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208154222942_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208154222942"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>���^�N�V��MoonBrowser�iIE�R���|�[�l���g�u���E�U�j���g���Ă܂����A�ʒi���͂Ȃ��ł���B<br>
-�������A����Moon�g���Ă�l���Ă���̂��˂��i�΁j�B</font>
+<font size=4 color=#303030>ワタクシはMoonBrowser（IEコンポーネントブラウザ）を使ってますが、別段問題はないですよ。<br>
+しかし、他にMoon使ってる人っているのかねぇ（笑）。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -65,19 +65,19 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[35]</font> <font size=4 color=#40c0c0> �^�u�u���E�U</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[35]</font> <font size=4 color=#40c0c0> タブブラウザ</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/15 (��) 01:54:06  �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208154015406&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208154015406"></font>
+<font size=-1 color=#606060> 2002/08/15 (木) 01:54:06  米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208154015406_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208154015406"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>����̓u���E�U���V�K�^�u���J�����Ɍ��̃^�u�̃����N���Q��(referrer)�������p���ŃT�[�o�[�ɒm�点�邩�Ɉˑ����Ă��܂��B<br>
-�Ⴆ�΁AMozilla�͐V�����^�u���J������referrer�������p���̂Ŗ��͂���܂���B<br>
-Donut,Sleipnir�Ȃǂ�IE�R���|�[�l���g�u���E�U�Ȃ�A�W���ł̓����N�E�N���b�N����u�V�����E�B���h�E���J���v���g����referrer�������p���܂����A�^�u���b�N(�i�r�Q�[�g���b�N)���č��N���b�N���ƈ����p�����J���܂���B(�u���E�U�̎����⃆�[�U�[�̃J�X�^�}�C�Y�ɂ��ˑ�����̂ŏ�ɂ����Ȃ�Ƃ͌���܂���)<br>
-OPERA�͐V�K�^�u�ŊJ�����͈����p���Ȃ��d�l�̂悤�ł��B<br>
+<font size=4 color=#303030>これはブラウザが新規タブを開く時に元のタブのリンク元参照(referrer)を引き継いでサーバーに知らせるかに依存しています。<br>
+例えば、Mozillaは新しいタブを開く時もreferrerを引き継ぐので問題はありません。<br>
+Donut,SleipnirなどのIEコンポーネントブラウザなら、標準ではリンク右クリックから「新しいウィンドウを開く」を使うとreferrerを引き継ぎますが、タブロック(ナビゲートロック)して左クリックだと引き継がず開けません。(ブラウザの実装やユーザーのカスタマイズにも依存するので常にそうなるとは限りませんが)<br>
+OPERAは新規タブで開く時は引き継がない仕様のようです。<br>
 <br>
-�����炭hito�����IE�R���|�[�l���g�u���E�U���g���Ă���Ɛ������܂��̂ŁA�E�N���b�N�́u�V�����E�B���h�E���J���v�ŊJ���Ȃ��������Ă݂Ă��������B</font>
+おそらくhitoさんはIEコンポーネントブラウザを使っていると推測しますので、右クリックの「新しいウィンドウを開く」で開けないか試してみてください。</font>
 </td></table>
 </td></tr></table>
 
@@ -87,15 +87,15 @@ OPERA�͐V�K�^�u�ŊJ�����͈����p���Ȃ��d�l�̂悤�ł��B<br>
 <TABLE><TR><TD bgcolor=#114422><font size=+1>[34]</font> <font size=4 color=#40c0c0> Re:tab browser</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/15 (��) 00:24:15  <a href="mailto:the_best@geocities.co.jp">��傤</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208154002415&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208154002415"></font>
+<font size=-1 color=#606060> 2002/08/15 (木) 00:24:15  <a href="mailto:the_best@geocities.co.jp">りょう</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208154002415_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208154002415"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�� hito����<br>
-<font color="#cc88ff">&gt; �^�u�u���E�U�ł͌����Ȃ��Ȃ����̂��ȁH</font><br>
+<font size=4 color=#303030>▼ hitoさん<br>
+<font color="#cc88ff">&gt; タブブラウザでは見えなくなったのかな？</font><br>
 <br>
-�s��̕񍐂́A���ꂪ�N���������𓯎��ɋL�q����ƌ����𖾂̎肪����ɂȂ�܂��B<br>
-�ł���΂�����̊��������Ă���������Ƃ��肪�����̂ł����B</font>
+不具合の報告は、それが起こった環境を同時に記述すると原因解明の手がかりになります。<br>
+できればそちらの環境を書いていただけるとありがたいのですが。</font>
 </td></table>
 </td></tr></table>
 
@@ -105,31 +105,31 @@ OPERA�͐V�K�^�u�ŊJ�����͈����p���Ȃ��d�l�̂悤�ł��B<br>
 <TABLE><TR><TD bgcolor=#114422><font size=+1>[33]</font> <font size=4 color=#40c0c0> tab browser</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/14 (��) 21:12:19  hito </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208143211219&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208143211219"></font>
+<font size=-1 color=#606060> 2002/08/14 (水) 21:12:19  hito </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208143211219_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208143211219"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>ROM�΂����ł����Bhito�ł��B<br>
+<font size=4 color=#303030>ROMばっかですが。hitoです。<br>
 <br>
-�^�u�u���E�U�ł͌����Ȃ��Ȃ����̂��ȁH<br>
-�ǂ��������炵���ƋC�Â��̂ɂT�����炢���������ˁB<br>
+タブブラウザでは見えなくなったのかな？<br>
+どうもそうらしいと気づくのに５日ぐらいかかったね。<br>
 <br>
-�^�u�u���E�U�Ńo�V�o�V����̂��D���Ȃ̂ŏ����߂���������B</font>
+タブブラウザでバシバシするのが好きなので少し悲しかったり。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[32]</font> <font size=4 color=#40c0c0> ��������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[32]</font> <font size=4 color=#40c0c0> ここ数日</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/12 (��) 02:07:25  <a href="mailto:yaji@novels.jp">� �_��</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208121020725&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208121020725"></font>
+<font size=-1 color=#606060> 2002/08/12 (月) 02:07:25  <a href="mailto:yaji@novels.jp">矢治 浩平</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208121020725_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208121020725"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�A�N�Z�X�������Ă�B<br>
-�R�~�P���A�Ȃ̂������ȁH</font>
+<font size=4 color=#303030>アクセスが減ってる。<br>
+コミケ＆帰省のせいかな？</font>
 <p><div align=left><a href="http://www.novels.jp/~yaji/" target="_top">http://www.novels.jp/~yaji/</a></div>
 </td></table>
 </td></tr></table>
@@ -137,17 +137,17 @@ OPERA�͐V�K�^�u�ŊJ�����͈����p���Ȃ��d�l�̂悤�ł��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[31]</font> <font size=4 color=#40c0c0> Re:���S��ONLY�̃y�[�W�̕�������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[31]</font> <font size=4 color=#40c0c0> Re:初心者ONLYのページの文字化け</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/09 (��) 07:33:43  ���a </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208095073343&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208095073343"></font>
+<font size=-1 color=#606060> 2002/08/09 (金) 07:33:43  七斬 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208095073343_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208095073343"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>���́A���͂�BBS�̃t�H�[���ɃR�s�y�����Ƃ��ɕ����������邱�Ƃ��������܂ɂ���܂��āA���ꂩ�ȂƂ��v�����̂ł����Č������B<br>
-�c�O�B<br>
-���A���Ȃ݂ɂ��Ȃ�̘̂b�ŋL��������ӂ₾�����肵�āB<br>
-����܂���<br>
+<font size=4 color=#303030>実は、文章をBBSのフォームにコピペしたときに文字化けすることがごくたまにありまして、それかなとか思ったのですが再現せず。<br>
+残念。<br>
+あ、ちなみにかなり昔の話で記憶もあやふやだったりして。<br>
+すんません<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -155,49 +155,49 @@ OPERA�͐V�K�^�u�ŊJ�����͈����p���Ȃ��d�l�̂悤�ł��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[28]</font> <font size=4 color=#40c0c0> Re:���S��ONLY�̃y�[�W�̕�������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[28]</font> <font size=4 color=#40c0c0> Re:初心者ONLYのページの文字化け</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/09 (��) 00:17:15  ���a </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208095001715&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208095001715"></font>
+<font size=-1 color=#606060> 2002/08/09 (金) 00:17:15  七斬 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208095001715_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208095001715"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>���傢�Ǝ��������Ă݂܂��B<br>
-������̏o��<br>
-����������̏o�򌒁c�ǂȂ����H<br>
-�c�Ȃ񂩌��N�F��̂ӂ����Ȏ����݂����ł��ȁB</font>
+<font size=4 color=#303030>ちょいと試験をしてみます。<br>
+あそれ体出薬健<br>
+もいっちょ体出薬健…どないだ？<br>
+…なんか健康祈願のふしぎな呪文みたいですな。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[27]</font> <font size=4 color=#40c0c0> Re:���S��ONLY�̃y�[�W�̕�������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[27]</font> <font size=4 color=#40c0c0> Re:初心者ONLYのページの文字化け</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/08 (��) 23:24:07  <a href="mailto:the_best@geocities.co.jp">��傤</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084232407&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084232407"></font>
+<font size=-1 color=#606060> 2002/08/08 (木) 23:24:07  <a href="mailto:the_best@geocities.co.jp">りょう</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084232407_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084232407"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>�Ƃ肠�����A�u�́v�u�o�v�u��v�u���v�Ȃǂ��܂܂�Ă����Ǝv���܂��B<br>
-���{�ꂪ�g���Ȃ����œ��{����܂ރ��[���Ȃǂ��J���Ǝ��̎Q�ƕ����i#�c;�j�ŕ\�����ꂽ�肷��̂ŁA<br>
-�����炭���{��������Ȃ����ŃR�s�[���y�[�X�g���ꂽ���͂��Ⴀ�Ȃ����ȁA�Ǝv���Ă��܂��B<br>
-�i���ꂾ�Ɖ��̂Ђ炪�Ȃ͑��v�������̂��悭������Ȃ���ł����ǂˁj</font>
+<font size=4 color=#303030>とりあえず、「体」「出」「薬」「健」などが含まれていたと思います。<br>
+日本語が使えない環境で日本語を含むメールなどを開くと実体参照文字（#…;）で表示されたりするので、<br>
+おそらく日本語を扱えない環境でコピー＆ペーストされた文章じゃあないかな、と思っています。<br>
+（それだと何故ひらがなは大丈夫だったのかよく分からないんですけどね）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[26]</font> <font size=4 color=#40c0c0> Re:���S��ONLY�̃y�[�W�̕�������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[26]</font> <font size=4 color=#40c0c0> Re:初心者ONLYのページの文字化け</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/08 (��) 20:02:37  ���a </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208084200237&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208084200237"></font>
+<font size=-1 color=#606060> 2002/08/08 (木) 20:02:37  七斬 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208084200237_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208084200237"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>���[��B<br>
-�Ƃ肠�����A�ǂ̊����������Ă������ẮA������܂��H<br>
+<font size=4 color=#303030>うーん。<br>
+とりあえず、どの漢字が化けてたかっての、分かります？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -205,25 +205,25 @@ OPERA�͐V�K�^�u�ŊJ�����͈����p���Ȃ��d�l�̂悤�ł��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=+1>[25]</font> <font size=4 color=#40c0c0> ���S��ONLY�̃y�[�W�̕�������</font></TD><TD></td></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=+1>[25]</font> <font size=4 color=#40c0c0> 初心者ONLYのページの文字化け</font></TD><TD></td></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2002/08/06 (��) 22:54:06  <a href="mailto:starbow@wind.email.ne.jp">starbow</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200208062225406&log=data2">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208062225406"></font>
+<font size=-1 color=#606060> 2002/08/06 (火) 22:54:06  <a href="mailto:starbow@wind.email.ne.jp">starbow</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200208062225406_log_data2.cgi">返信</a>　削除<input type=checkbox name="target" value="200208062225406"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#303030>starbow�ł��B<br>
+<font size=4 color=#303030>starbowです。<br>
 <br>
-���S��ONLY�̃y�[�W�̏������݂ŁA����̊������R�[�h�\���ɂȂ��Ă��܂��Ă��܂��B<br>
-CGI�Ƃ��Ŋ�����NG�Ȃ̂�����̂��ȁH<br>
-����Ƃ��A�������݂̂Ƃ��̕����R�[�h�ɖ�肪����̂��ȁH<br>
+初心者ONLYのページの書き込みで、特定の漢字がコード表示になってしまっています。<br>
+CGIとかで漢字でNGなのがあるのかな？<br>
+それとも、書き込みのときの文字コードに問題があるのかな？<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data2">
@@ -231,16 +231,16 @@ CGI�Ƃ��Ŋ�����NG�Ȃ̂�����̂��ȁH<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data2">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data2">�X�V</a>] [<a href="http://ts.novels.jp">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data2.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

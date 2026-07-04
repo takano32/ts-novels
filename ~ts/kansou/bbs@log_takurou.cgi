@@ -87,7 +87,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】運命を決めてしまう出来事は、いつも唐突に訪れる。主人公、トウこと岡田東宮（とうく）の場合は……<br>
-<a href=http://ts.novels.jp/novel/200508/22033901/touku01.htm target=_top>http://ts.novels.jp/novel/200508/22033901/touku01.htm</a></font>
+<a href="../../novel/200508/22033901/touku01.htm" target=_top>http://ts.novels.jp/novel/200508/22033901/touku01.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -176,7 +176,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】主人公不在の中、怪しげな実験室（？）で怪しげなスパコン（？）を使って何やら怪しげなものを作る二人…………と〜っても怪しいです（笑）。<br>
-<a href=http://ts.novels.jp/novel/200508/22033901/touku00.htm target=_top>http://ts.novels.jp/novel/200508/22033901/touku00.htm</a></font>
+<a href="../../novel/200508/22033901/touku00.htm" target=_top>http://ts.novels.jp/novel/200508/22033901/touku00.htm</a></font>
 </td></table>
 </td></tr></table>
 

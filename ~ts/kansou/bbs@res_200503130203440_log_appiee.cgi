@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�����҂�����@���z�f����</title>
+<title>あっぴぃさん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����҂�����@���z�f����</font>
+<font size=5>あっぴぃさん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="appiee">
 <input type=hidden name="nj" value="SCPJCMnkbQ">
 <input type=hidden name="res" value="57">
-<h4 align=center>�� �L���ԍ� 57 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 57 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U�������
-&gt; ��͂͂͂́I
-&gt; ��Ԃł��˂��B�������܂��A����ׂ����̂��������Ƃ́E�E�E�i�΁j�B
-&gt; �悭����ӂŕ�����������ł����A����ς��̂������Č������̂��ȁi���j�B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６＠自宅さん
+&gt; わはははは！
+&gt; 定番ですねぇ。しかしまあ、恐るべきものが二つもあるとは・・・（笑）。
+&gt; よくぞ一晩で復活したもんですが、やっぱあのお粥って効いたのかな（爆）。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,40 +48,40 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[58]</font> <font size=4 color=#40c0c0> Re:�ǂ񂾃o�C��</font>
+<font size=2>[58]</font> <font size=4 color=#40c0c0> Re:読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/03/15 (��) 15:20:05 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200503152152005&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200503152152005"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/03/15 (火) 15:20:05 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200503152152005_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200503152152005"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����W�S�Q�U�������<br>
-<font color="#cc88ff">&gt; ��͂͂͂́I<br>
-&gt; ��Ԃł��˂��B�������܂��A����ׂ����̂��������Ƃ́E�E�E�i�΁j�B</font><br>
-���H�����͓ǂ܂Ȃ��ق����������Č����̂��A�킩���Ă��������܂������H<br>
+<font size=3 color=#606060>▼ ｍｋ８４２６＠自宅さん<br>
+<font color="#cc88ff">&gt; わはははは！<br>
+&gt; 定番ですねぇ。しかしまあ、恐るべきものが二つもあるとは・・・（笑）。</font><br>
+お食事中は読まないほうがいいって言うのも、わかっていただけましたか？<br>
 <br>
-�ł��A�����ł͂����ɍ��|�����܂����(����)�A�ԈႢ�ł͂Ȃ��\���������o�Ă����悤�ȁE�E�E�B<br>
+でも、中国ではお粥に香酢かけますんで(多分)、間違いではない可能性が半分出てきたような・・・。<br>
 <br>
-<font color="#cc88ff">&gt; �悭����ӂŕ�����������ł����A����ς��̂������Č������̂��ȁi���j�B</font><br>
+<font color="#cc88ff">&gt; よくぞ一晩で復活したもんですが、やっぱあのお粥って効いたのかな（爆）。</font><br>
 <br>
-�����ĂȂ���΁A�����݂����₳���炪���킢�����ł�(��)�B<br>
-�܂��A�����{���̉����������ł��傤�ˁB(����Ҏ��g�������܂��ł��݂܂���)</font>
+効いてなければ、あさみちゃんやさくらがかわいそうです(笑)。<br>
+まあ、お粥＋αの何かがあるんでしょうね。(←作者自身があいまいですみません)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[57]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[57]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/03/13 (��) 20:34:40 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200503130203440&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200503130203440"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/03/13 (日) 20:34:40 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200503130203440_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200503130203440"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��͂͂͂́I<br>
-��Ԃł��˂��B�������܂��A����ׂ����̂��������Ƃ́E�E�E�i�΁j�B<br>
-�悭����ӂŕ�����������ł����A����ς��̂������Č������̂��ȁi���j�B</font>
+<font size=3 color=#606060>わはははは！<br>
+定番ですねぇ。しかしまあ、恐るべきものが二つもあるとは・・・（笑）。<br>
+よくぞ一晩で復活したもんですが、やっぱあのお粥って効いたのかな（爆）。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -89,116 +89,116 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[56]</font> <font size=4 color=#40c0c0> �w���ʂ́��@��T�b�x������ɂ͉��̃A�h���X���N���b�N�B</font>
+<font size=2>[56]</font> <font size=4 color=#40c0c0> 『仮面の♂　第５話』を見るには下のアドレスをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/03/11 (��) 19:27:24 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200503115192724&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200503115192724"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/03/11 (金) 19:27:24 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200503115192724_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200503115192724"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���ׂ������������݂����ɔ���A������ׂ����̂̐��̂Ƃ́c�c�c�c���H�@������ƈႤ�H�i�΁j<br>
-<a href=http://ts.novels.jp/novel/200410/04203258/kamen_ex01.htm target=_top>http://ts.novels.jp/novel/200410/04203258/kamen_ex01.htm</a></font>
+<font size=3 color=#606060>【推薦文】風邪を引いたあさみちゃんに迫る、おそるべきものの正体とは…………え？　ちょっと違う？（笑）<br>
+<a href="../../novel/200410/04203258/kamen_ex01.htm" target=_top>http://ts.novels.jp/novel/200410/04203258/kamen_ex01.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[55]</font> <font size=4 color=#40c0c0> Re:�^�C�g���̌�</font>
+<font size=2>[55]</font> <font size=4 color=#40c0c0> Re:タイトルの件</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/06 (��) 14:17:35 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502060141735&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502060141735"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/06 (日) 14:17:35 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502060141735_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200502060141735"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ��傤���^�c�ψ�����<br>
-���肪�Ƃ��������܂����B�Ȍセ�������Ă��������܂��B</font>
+<font size=3 color=#606060>▼ りょう＠運営委員さん<br>
+ありがとうございました。以後そうさせていただきます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[54]</font> <font size=4 color=#40c0c0> �^�C�g���̌�</font>
+<font size=2>[54]</font> <font size=4 color=#40c0c0> タイトルの件</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/06 (��) 04:54:01 <strong>��</strong> ��傤���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502060045401&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502060045401"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/06 (日) 04:54:01 <strong>▽</strong> りょう＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502060045401_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200502060045401"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��i���Ƃ̃^�C�g���̌��A�C�����Ă����܂����B<br>
+<font size=3 color=#606060>作品ごとのタイトルの件、修正しておきました。<br>
 <br>
-�C���˗��Ȃǂ͂��̊��z�f���ɒ��ڏ����Ă������������ł����\�ł���B</font>
+修正依頼などはこの感想掲示板に直接書いていただくだけでも結構ですよ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[53]</font> <font size=4 color=#40c0c0> Re2:�~�X�^�C�v��</font>
+<font size=2>[53]</font> <font size=4 color=#40c0c0> Re2:ミスタイプ報告</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/04 (��) 14:21:47 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502045142147&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502045142147"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/04 (金) 14:21:47 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502045142147_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200502045142147"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �l�n�m�c�n���^�c�ψ�����<br>
-<font color="#cc88ff">&gt; �@�C�����Ă����܂����B���m�F���������B</font><br>
+<font size=3 color=#606060>▼ ＭＯＮＤＯ＠運営委員さん<br>
+<font color="#cc88ff">&gt; 　修正しておきました。ご確認ください。</font><br>
 <br>
-�x�X���݂܂���ł����B���ɂ���Ď�l���̖��O����A���Ă��܂��܂����B�p������������ł��B�Ȍ�C�����܂��B</font>
+度々すみませんでした。よりによって主人公の名前を誤植してしまいました。恥ずかしい限りです。以後気をつけます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[52]</font> <font size=4 color=#40c0c0> Re:�~�X�^�C�v��</font>
+<font size=2>[52]</font> <font size=4 color=#40c0c0> Re:ミスタイプ報告</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/03 (��) 20:21:26 <strong>��</strong> �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502034202126&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502034202126"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/03 (木) 20:21:26 <strong>▽</strong> ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502034202126_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200502034202126"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�C�����Ă����܂����B���m�F���������B</font>
+<font size=3 color=#606060>　修正しておきました。ご確認ください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[51]</font> <font size=4 color=#40c0c0> Re:�~�X�^�C�v��</font>
+<font size=2>[51]</font> <font size=4 color=#40c0c0> Re:ミスタイプ報告</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/03 (��) 15:41:58 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502034154158&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502034154158"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/03 (木) 15:41:58 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502034154158_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200502034154158"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���K\����<br>
-<font color="#cc88ff">&gt; ��3�b�ɂ̓~�X�^�C�v������܂��ĕ񍐂��Ƃ��܂��B</font><br>
+<font size=3 color=#606060>▼ メガ\さん<br>
+<font color="#cc88ff">&gt; 第3話にはミスタイプがありまして報告しときます。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; ���̑̎��ɂȂ��Ĕ��N�B�j�̂Ƃ��́w�X������x�Ƃ��āA���̂Ƃ��́w���삳����x�Ƃ��Đ������閈���B<br>
-&gt; ���`���̂Ƃ��́w���삠���݁x�Ƃ��ā`</font><br>
+<font color="#cc88ff">&gt; この体質になって半年。男のときは『森下太一』として、女のときは『水野さくら』として生活する毎日。<br>
+&gt; →〜女のときは『水野あさみ』として〜</font><br>
 <br>
-���w�E���肪�Ƃ��������܂����B<br>
-�O��A�ʂ肷���肳��ɂ��w�E���������āA��T�b��������Ē������΂���Ȃ̂ɁA�܂��܂��������Ƃ́B��҂̃~�X���A�����Ă���܂��āA�ƂĂ��ǂ݋ꂵ���Ȃ��Ă��邩�Ǝv���܂��B<br>
-�Ȍ�́A����ɍאS�̒��ӂ𕥂��Ď��M���ĎQ��܂��B</font>
+ご指摘ありがとうございました。<br>
+前回、通りすがりさんにご指摘いただいて、第５話を訂正して頂いたばかりなのに、まだまだあったとは。作者のミスが連発しておりまして、とても読み苦しくなっているかと思います。<br>
+以後は、さらに細心の注意を払って執筆して参ります。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[50]</font> <font size=4 color=#40c0c0> �~�X�^�C�v��</font>
+<font size=2>[50]</font> <font size=4 color=#40c0c0> ミスタイプ報告</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/03 (��) 14:41:04 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502034144104&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502034144104"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/03 (木) 14:41:04 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502034144104_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200502034144104"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��3�b�ɂ̓~�X�^�C�v������܂��ĕ񍐂��Ƃ��܂��B<br>
+<font size=3 color=#606060>第3話にはミスタイプがありまして報告しときます。<br>
 <br>
-���̑̎��ɂȂ��Ĕ��N�B�j�̂Ƃ��́w�X������x�Ƃ��āA���̂Ƃ��́w���삳����x�Ƃ��Đ������閈���B<br>
-���`���̂Ƃ��́w���삠���݁x�Ƃ��ā`<br>
+この体質になって半年。男のときは『森下太一』として、女のときは『水野さくら』として生活する毎日。<br>
+→〜女のときは『水野あさみ』として〜<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -206,27 +206,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[49]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂����B</font>
+<font size=2>[49]</font> <font size=4 color=#40c0c0> ありがとうございました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/31 (��) 13:17:32 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200501311131732&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501311131732"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/31 (月) 13:17:32 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200501311131732_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200501311131732"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����W�S�Q�U����B�l�n�m�c�n����B���肪�Ƃ��������܂����B<br>
-�~�X�R���̌��ʂɊւ��ẮA�w�s�r�������o�ꁁ�D�����������炤�x�̒���ɂ����ċt����Ă݂܂����B�܂��A�_�u���X�ŏ����̎q�̗�ނƑg��ł���Ƃ������Ƃ��������̂ł����ˁB�D�����ăX�J�E�g����ĉƑ���炪�Ă�����Ȃ�Ă̂��l���܂������A�b���c��݂܂���ł����B<br>
+<font size=3 color=#606060>ｍｋ８４２６さん。ＭＯＮＤＯさん。ありがとうございました。<br>
+ミスコンの結果に関しては、『ＴＳっ娘が出場＝優勝をかっさらう』の定説にあえて逆らってみました。まあ、ダブルスで純女の子の麗奈と組んでいるということもあったのですがね。優勝してスカウトされて家族やらがてんやわんやなんてのも考えましたが、話が膨らみませんでした。<br>
 <br>
-<font color="#ff88cc">���i�x�c�l�q����</font><br>
+<font color="#ff88cc">＞ナベツネ子さん</font><br>
 <br>
-����Ɋւ��ẮA���܂ł̖������@�𖳎����܂����B�܁A������l����������Ȃ���������܂��񂯂�ǂ��B�����ȓz�Ƃ������Ƃ����������������̂ŁB�P�l�ɂ͂Ȃ�Ȃ�����(��)�B<br>
+これに関しては、今までの命名方法を無視しました。ま、分かる人しか分からないかもしれませんけれども。嫌味な奴ということを強調したかったので。善人にはならないかも(笑)。<br>
 <br>
-�l�n�m�c�n����B���̃~�X�̏C�������Ē������肪�Ƃ��������܂����B�Ȍケ�̂悤�Ȃ��Ƃ̂Ȃ��l�ɐT�d��(�H)���M���܂��B</font>
+ＭＯＮＤＯさん。私のミスの修正をして頂きありがとうございました。以後このようなことのない様に慎重に(？)執筆します。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="appiee">
@@ -234,16 +234,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="appiee">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=appiee">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_appiee.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

@@ -164,7 +164,7 @@ TOMさん＜<br>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】「魔法少女」になっても、お父さんはいろいろと大変なのです……（笑）。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200206/05220532/leaf01.htm target=_top>http://ts.novels.jp/novel/200206/05220532/leaf01.htm</a></font>
+<a href="../../novel/200206/05220532/leaf01.htm" target=_top>http://ts.novels.jp/novel/200206/05220532/leaf01.htm</a></font>
 </td></table>
 </td></tr></table>
 

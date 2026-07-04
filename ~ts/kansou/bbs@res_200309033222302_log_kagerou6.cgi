@@ -1,42 +1,42 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>kagerou6�����i�@���z�f����</title>
+<title>kagerou6さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>kagerou6�����i�@���z�f����</font>
+<font size=5>kagerou6さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kagerou6">
 <input type=hidden name="nj" value="Va5ICgih7f">
 <input type=hidden name="res" value="50">
-<h4 align=center>�� �L���ԍ� 50 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 50 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ӂ��[���ƁE���ā[��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �l�n�m�c�n����
-&gt; �@�c�c�������̂ɁA���ς�炸���e���e�ł��ȁA���炪�q���C���́i�΁j�B
-&gt; �@���ł�㵒p�S�����Ȃ���̂ĂĂ���i�H�j�^��������������낵���ł��B
-&gt; �@���������݂�A�A�v���[�`�̃x�N�g�����S�R�Ⴄ���B
-&gt; �@�{�l�͍��炭��Ƃ������u���u�ɂȂ肽���̂ɁA���ꂾ���̂��߂ɏ��̎q�ɂȂ����̂Ɂc�c�����͂����Ȃ����̕s�𗝂��i�c�c���΁j�B
-&gt; �@����΂�܂��݂����A����̏�œV�g�l���������Ă��邼�c�c�c�c�H</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ふぁーすと・すてーじ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ＭＯＮＤＯさん
+&gt; 　……だったのに、相変わらずモテモテですな、われらがヒロインは（笑）。
+&gt; 　すでに羞恥心をかなぐり捨てている（？）運動部員たちがよろしいです。
+&gt; 　しかしきみら、アプローチのベクトルが全然違うぞ。
+&gt; 　本人は克也くんとだけラブラブになりたいのに、それだけのために女の子になったのに……そうはいかない世の不条理さ（……失笑）。
+&gt; 　がんばれまさみちゃん、お空の上で天使様も応援しているぞ…………？</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -49,34 +49,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[58]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��i�O�O�j</font>
+<font size=2>[58]</font> <font size=4 color=#40c0c0> 感想ありがとう（＾＾）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/14 (�y) 05:22:57 <strong>��</strong> kagerou6 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402146052257&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402146052257"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/14 (土) 05:22:57 <strong>▽</strong> kagerou6 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402146052257_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200402146052257"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�P�X�b�̂��Ԏ����Ă��Ȃ������i�O�O�G�G�G���߂��m(__)m<br>
+<font size=3 color=#606060>１９話のお返事していなかった（＾＾；；；ごめんねm(__)m<br>
 <br>
-SORA����<br>
-<font color="#ff88cc">�������܂��Ă��߂łƂ��������܂��B<br>
-���������X�Ƀq���C���V��Ƃ͉��N���ǂ��ł��˂��B</font><br>
-���������Ă���������Ə������b�オ����Ƃ������̂ł�<br>
-���N��SORA����ɗǂ��N�ł���܂��悤�Ɂi�O�O�G<br>
+SORAさん<br>
+<font color="#ff88cc">＞あけましておめでとうございます。<br>
+＞正月早々にヒロイン新作とは縁起が良いですねぇ。</font><br>
+そう言っていただけると書いた甲斐があるというものです<br>
+今年もSORAさんに良い年でありますように（＾＾；<br>
 <br>
-��������<br>
-���������z���肪�Ƃ��������܂�m(__)m<br>
-<font color="#ff88cc">���V�R�n������V�R����CM�ɂ͓K���H�i���j</font><br>
-�܂��A�V�R�����{�V�R�V�g�Ȃ��̂Łi�O�O�G<br>
-<font color="#ff88cc">�����ށB�����̍ŏI��ł��ˁB<br>
-���������A�]�Z���ł��ƁH�Ȃ�[�˔�ȁE�E�E�B</font><br>
-�ǂ��ł��E�E�E���������͌��X�c�Ȃ��݂Ȃ�ł�����<br>
-�����񂹂�A���܂ł��e���Ȋ֌W�ƌ������ŏ]�Z��ɁE�E�E�ƁA������<br>
-�a���ł̎����������������킯�Ȃ�ł����ǂˁi�O�O�G�G�G�G<br>
-�������ɂ��Ă��s�v�c�łȂ��֌W�Ƃ������Ƃł��i�O�O�G�G�G�G<br>
+ｍｋさん<br>
+何時も感想ありがとうございますm(__)m<br>
+<font color="#ff88cc">＞天然系だから天然水のCMには適役？（爆）</font><br>
+まあ、天然少女＋天然天使なもので（＾＾；<br>
+<font color="#ff88cc">＞うむ。感動の最終回ですね。<br>
+＞しかし、従兄妹ですと？なんつー突飛な・・・。</font><br>
+どもです・・・正美ちゃんは元々幼なじみなんですけど<br>
+いかんせん、今までより親密な関係と言う事で従兄弟に・・・と、いうか<br>
+病室での事を書きたかったわけなんですけどね（＾＾；；；；<br>
+あそこにいても不思議でない関係ということでさ（＾＾；；；；<br>
 <br>
-<font color="#ff88cc">������ꂳ�܂ł����I</font><br>
-�ǂ��ł��A�Q�N�߂��������������Ă��肪�Ƃ��������܂���m(__)m<br>
+<font color="#ff88cc">＞お疲れさまでした！</font><br>
+どもです、２年近く応援くださってありがとうございましたm(__)m<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -84,19 +84,19 @@ SORA����<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[57]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[57]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/13 (��) 01:16:53 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402135011653&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402135011653"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/13 (金) 01:16:53 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402135011653_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200402135011653"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ށB�����̍ŏI��ł��ˁB<br>
-�������A�]�Z���ł��ƁH�Ȃ�[�˔�ȁE�E�E�B<br>
-���ꂪ�u���Ɠ����悤�ɔނƂ͈ꏏ�ɂ����Ȃ��v�̐^����������ł��˂��B<br>
-�܂��������]�Z���͌����ł��܂�����ˁB�܂��܂��]�݂͂���܂��ˁi�΁j�B<br>
-�����āA���߂͂���ς肱�̌��t�ł��傤�ˁB<br>
-�����l�ł����I</font>
+<font size=3 color=#606060>うむ。感動の最終回ですね。<br>
+しかし、従兄妹ですと？なんつー突飛な・・・。<br>
+これが「今と同じように彼とは一緒にいられない」の真相だったんですねぇ。<br>
+まあしかし従兄妹は結婚できますからね。まだまだ望みはありますね（笑）。<br>
+そして、締めはやっぱりこの言葉でしょうね。<br>
+お疲れ様でした！</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -104,42 +104,42 @@ SORA����<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[56]</font> <font size=4 color=#40c0c0> �w�M���ׂ̈̃q���C���E�@�q���C���Q�Oth�x������ɂ͂������N���b�N�B</font>
+<font size=2>[56]</font> <font size=4 color=#40c0c0> 『貴方の為のヒロイン・　ヒロイン２０th』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/12 (��) 20:26:45 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402124202645&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402124202645"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/12 (木) 20:26:45 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402124202645_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200402124202645"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�h�����A����Ȃ����c�c�܂��݂����̎v���͗h�ꓮ���A�����ā\�\<br>
-�@�q���C����񕔁A���X�̊����I�I<br>
-<a href=http://ts.novels.jp/novel/200206/04234833/the_heroine20.html target=_top>http://ts.novels.jp/novel/200206/04234833/the_heroine20.html</a></font>
+<font size=3 color=#606060>【推薦文】辛い恋、叶わない恋……まさみちゃんの思いは揺れ動き、そして——<br>
+　ヒロイン第二部、堂々の完結！！<br>
+<a href="../../novel/200206/04234833/the_heroine20.html" target=_top>http://ts.novels.jp/novel/200206/04234833/the_heroine20.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[55]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[55]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/01 (��) 19:22:01 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401014192201&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401014192201"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/01 (木) 19:22:01 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401014192201_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200401014192201"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����[�A���ɑS����f�r���[�ł����B<br>
-�V�R�n������V�R����CM�ɂ͓K���H�i���j<br>
-������ɂ��Ă��A����ł܂��݂����̍���͖񑩂���܂����ȁi�΁j�B<br>
-���^�N�V�����̐��A�P�[�X�Ŕ����ă|�X�^�[�Ⴂ�����ł��ȁB<br>
+<font size=3 color=#606060>いやー、ついに全国区デビューですか。<br>
+天然系だから天然水のCMには適役？（爆）<br>
+いずれにしても、これでまさみちゃんの今後は約束されましたな（笑）。<br>
+ワタクシもこの水、ケースで買ってポスター貰いたいですな。<br>
 <br>
-������ƋC�t�������ƁB<br>
-<font color="#ff88cc">�����H��</font><br>
-���ʂ́A�u�s�v�̏ꍇ�́u���H��c���v�Ȃ�ł���ˁB�u���v�ȉ����Ɓu���H��v�B<br>
-�܂��A��O�����X����܂��āA���̎��オ�����������Ȃ񂩂͎s�ɏ��i������H��̂܂܂������肵�܂����A�ꍇ�ɂ���Ă͒��ł����H��c���������肷��Ƃ���i���ꌧ�L�c���Ȃǁj������܂����B<br>
-�܂��A���܂�C�ɂ���K�v���Ȃ��ł����B<br>
+ちょっと気付いたこと。<br>
+<font color="#ff88cc">＞商工会</font><br>
+普通は、「市」の場合は「商工会議所」なんですよね。「町」以下だと「商工会」。<br>
+まあ、例外も多々ありまして、町の時代が長かった所なんかは市に昇格後も商工会のままだったりしますし、場合によっては町でも商工会議所だったりするところ（佐賀県有田町など）もありますし。<br>
+まあ、あまり気にする必要もないですが。<br>
 <br>
-<font color="#ff88cc">���w�b�_�E�t�b�^</font><br>
-�^�c�ψ�����̕t���Y��ł��傤�i�΁j�B</font>
+<font color="#ff88cc">＞ヘッダ・フッタ</font><br>
+運営委員さんの付け忘れでしょう（笑）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -147,124 +147,124 @@ SORA����<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[54]</font> <font size=4 color=#40c0c0> ���[�����΁c</font>
+<font size=2>[54]</font> <font size=4 color=#40c0c0> そーいえば…</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/01 (��) 09:59:31 <strong>��</strong> <a href="mailto:SGU03026@nifty.ne.jp">SORA���A�Ȓ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401014095931&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401014095931"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/01 (木) 09:59:31 <strong>▽</strong> <a href="mailto:SGU03026@nifty.ne.jp">SORA＠帰省中</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401014095931_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200401014095931"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�w�q���C���P�Xth�x�ǂ�ł��ĉ����ςƎv���Ă����̂ł����A�w�b�_�E�t�b�^(���z�͂�����ɓ��̕���)���t���Ă��Ȃ��̂ł��ˁB(^^;;;</font>
+<font size=3 color=#606060>『ヒロイン１９th』読んでいて何か変と思っていたのですが、ヘッダ・フッタ(感想はこちらに等の部分)が付いていないのですね。(^^;;;</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[53]</font> <font size=4 color=#40c0c0> �w�q���C���P�Xth�x�ǂ݂܂���</font>
+<font size=2>[53]</font> <font size=4 color=#40c0c0> 『ヒロイン１９th』読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/01 (��) 09:18:07 <strong>��</strong> <a href="mailto:SGU03026@nifty.ne.jp">SORA���A�Ȓ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401014091807&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401014091807"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/01 (木) 09:18:07 <strong>▽</strong> <a href="mailto:SGU03026@nifty.ne.jp">SORA＠帰省中</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401014091807_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200401014091807"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂��Ă��߂łƂ��������܂��B<br>
-�������X�Ƀq���C���V��Ƃ͉��N���ǂ��ł��˂��B<br>
-�܂��݂����A���ς�炸�̂ڂ����Ղ肪�ǂ��ł��ˁB<br>
-����ɂ��Ă��n���̃A�C�h�������C�ɑS����ł����c�B<br>
-�����A���̂��Ƃǁ[�Ȃ�̂��y���݁B</font>
+<font size=3 color=#606060>あけましておめでとうございます。<br>
+正月早々にヒロイン新作とは縁起が良いですねぇ。<br>
+まさみちゃん、相変わらずのぼけっぷりが良いですね。<br>
+それにしても地元のアイドルから一気に全国区ですか…。<br>
+あぁ、このあとどーなるのか楽しみ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[52]</font> <font size=4 color=#40c0c0> �w�Ղ�[��E�����ǂ�H�@�q���C���P�Xth�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[52]</font> <font size=4 color=#40c0c0> 『ぷれーん・あいどる？　ヒロイン１９th』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/01 (��) 03:28:50 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401014032850&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401014032850"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/01 (木) 03:28:50 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401014032850_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200401014032850"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�Ȃ񂾂��m��ʊԂɃC���[�W�K�[��(�H)�ɂȂ��Ă��܂����܂��݂����ł����c�c�B<br>
+<font size=3 color=#606060>【推薦文】なんだか知らぬ間にイメージガール(？)になってしまったまさみちゃんですが……。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200206/04234833/the_heroine19.html target=_top>http://ts.novels.jp/novel/200206/04234833/the_heroine19.html</a></font>
+<a href="../../novel/200206/04234833/the_heroine19.html" target=_top>http://ts.novels.jp/novel/200206/04234833/the_heroine19.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[51]</font> <font size=4 color=#40c0c0> �ǂ��ǂ��������ӂł��i�O�O�j</font>
+<font size=2>[51]</font> <font size=4 color=#40c0c0> どもどもいつも感謝です（＾＾）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/07 (��) 19:46:47 <strong>��</strong> kagerou6 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309070194647&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309070194647"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/07 (日) 19:46:47 <strong>▽</strong> kagerou6 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309070194647_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200309070194647"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������z���肪�Ƃ��������܂�<br>
-��������<br>
-<font color="#ff88cc">���Ȃ񂩃M���O�ƃV���A�X������������ĂĂ����ł��˂��B</font><br>
-�܂����������̂����܂ɂ͂������ȂƁi�O�O�G<br>
-<font color="#ff88cc">��������@�ɊŌ�w��ڎw�����肵�Ȃ��ł��傤�˂��i�΁j�B</font><br>
-���A�����i�O�O�G�G�G<br>
-�ɂ��Ƃ�����i�O�O�G�G�G�E�E�E���͂܂��݂Ă��Ȃ�ł��E�E�E�Ƃ����i���j<br>
-<font color="#ff88cc">�����āA���^�N�V���w��ł��؂��Ă܂��݂����Ɏ蓖�Ă��Ă��炨�����ȁi���j</font><br>
-���A����ׂ񂵂Ă���`�E�E�E�܂��݂���񂪂܂��{�邶��Ȃ������I<br>
+<font size=3 color=#606060>いつも感想ありがとうございます<br>
+ｍｋさん<br>
+<font color="#ff88cc">＞なんかギャグとシリアスが入り交じってていいですねぇ。</font><br>
+まあこういうのもたまにはいいかなと（＾＾；<br>
+<font color="#ff88cc">＞これを機に看護婦を目指したりしないでしょうねぇ（笑）。</font><br>
+ぎ、ぎく（＾＾；；；<br>
+痛いところを（＾＾；；；・・・今はまだみていなんです・・・とだけ（爆）<br>
+<font color="#ff88cc">＞さて、ワタクシも指先でも切ってまさみちゃんに手当てしてもらおうかな（爆）</font><br>
+か、かんべんしてくれ〜・・・まさみちゃんがまた怒るじゃないかぁ！<br>
 <br>
-MONDO����<br>
-<font color="#ff88cc">�� �ӂ��[���ƁE���ā[���c�c�������̂ɁA���ς�炸���e���e�ł��ȁA���炪�q���C���́i�΁j�B</font><br>
-�����Ȃ�ł���A���������̏�����Ȃ񂾂ɂ˂��i�O�O�G�G�G<br>
-<font color="#ff88cc">�����ł�㵒p�S�����Ȃ���̂ĂĂ���i�H�j�^��������������낵���ł��B<br>
-�����������݂�A�A�v���[�`�̃x�N�g�����S�R�Ⴄ���B</font><br>
-���A�������Ɂi�O�O�G�G�G<br>
-�b��Ƃ���肭�s���Ȃ����������Ȃ񂾂낤���Ȃ��H<br>
-<font color="#ff88cc">������΂�܂��݂����A����̏�œV�g�l���������Ă��邼�c�c�c�c�H</font><br>
-�����ǁA�܂��h�W���ċ�J�������肩���i�O�O�G�G�G�G�G<br>
+MONDOさん<br>
+<font color="#ff88cc">＞ ふぁーすと・すてーじ……だったのに、相変わらずモテモテですな、われらがヒロインは（笑）。</font><br>
+そうなんですよ、せっかくの初舞台なんだにねぇ（＾＾；；；<br>
+<font color="#ff88cc">＞すでに羞恥心をかなぐり捨てている（？）運動部員たちがよろしいです。<br>
+＞しかしきみら、アプローチのベクトルが全然違うぞ。</font><br>
+た、たしかに（＾＾；；；<br>
+恵んとき上手く行かなかった反動なんだろうかなぁ？<br>
+<font color="#ff88cc">＞がんばれまさみちゃん、お空の上で天使様も応援しているぞ…………？</font><br>
+だけど、またドジして苦労させたりかも（＾＾；；；；；<br>
 <br>
-���ꂶ�Ⴀ��������y���݂ɂˁi�O�O�j/</font>
+それじゃあ次回もお楽しみにね（＾＾）/</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[50]</font> <font size=4 color=#40c0c0> �ӂ��[���ƁE���ā[��</font>
+<font size=2>[50]</font> <font size=4 color=#40c0c0> ふぁーすと・すてーじ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/03 (��) 22:23:02 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309033222302&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309033222302"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/03 (水) 22:23:02 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309033222302_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200309033222302"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�c�c�������̂ɁA���ς�炸���e���e�ł��ȁA���炪�q���C���́i�΁j�B<br>
-�@���ł�㵒p�S�����Ȃ���̂ĂĂ���i�H�j�^��������������낵���ł��B<br>
-�@���������݂�A�A�v���[�`�̃x�N�g�����S�R�Ⴄ���B<br>
-�@�{�l�͍��炭��Ƃ������u���u�ɂȂ肽���̂ɁA���ꂾ���̂��߂ɏ��̎q�ɂȂ����̂Ɂc�c�����͂����Ȃ����̕s�𗝂��i�c�c���΁j�B<br>
-�@����΂�܂��݂����A����̏�œV�g�l���������Ă��邼�c�c�c�c�H</font>
+<font size=3 color=#606060>　……だったのに、相変わらずモテモテですな、われらがヒロインは（笑）。<br>
+　すでに羞恥心をかなぐり捨てている（？）運動部員たちがよろしいです。<br>
+　しかしきみら、アプローチのベクトルが全然違うぞ。<br>
+　本人は克也くんとだけラブラブになりたいのに、それだけのために女の子になったのに……そうはいかない世の不条理さ（……失笑）。<br>
+　がんばれまさみちゃん、お空の上で天使様も応援しているぞ…………？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[49]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[49]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/26 (��) 22:13:17 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308262221317&log=kagerou6">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308262221317"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/26 (火) 22:13:17 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308262221317_log_kagerou6.cgi">返信</a>　削除<input type=checkbox name="target" value="200308262221317"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂩃M���O�ƃV���A�X������������ĂĂ����ł��˂��B<br>
-������@�ɊŌ�w��ڎw�����肵�Ȃ��ł��傤�˂��i�΁j�B<br>
-�ł��A���N�싅�̎q�ǂ��B��������Ă���܂��݂����̎p�͖{���ɗD�������o���񂻂̂��̂ł��ˁB<br>
-���āA���^�N�V���w��ł��؂��Ă܂��݂����Ɏ蓖�Ă��Ă��炨�����ȁi���j</font>
+<font size=3 color=#606060>なんかギャグとシリアスが入り交じってていいですねぇ。<br>
+これを機に看護婦を目指したりしないでしょうねぇ（笑）。<br>
+でも、少年野球の子ども達を見守っているまさみちゃんの姿は本当に優しいお姉さんそのものですね。<br>
+さて、ワタクシも指先でも切ってまさみちゃんに手当てしてもらおうかな（爆）</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kagerou6">
@@ -272,16 +272,16 @@ MONDO����<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kagerou6">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kagerou6">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kagerou6.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

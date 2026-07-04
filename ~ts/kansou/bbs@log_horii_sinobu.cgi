@@ -52,7 +52,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】第２部は１８話で終了。歴史上の有名人も、みんなあきあの虜です。<br>
-<a href=http://ts.novels.jp/novel/200011/04033856/mn215.htm target=_top>http://ts.novels.jp/novel/200011/04033856/mn215.htm</a></font>
+<a href="../../novel/200011/04033856/mn215.htm" target=_top>http://ts.novels.jp/novel/200011/04033856/mn215.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -67,7 +67,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】謎キャラ、紫苑の秘密が今明らかに……なるのか？<br>
-<a href=http://ts.novels.jp/novel/200011/04033856/mn214.htm target=_top>http://ts.novels.jp/novel/200011/04033856/mn214.htm</a></font>
+<a href="../../novel/200011/04033856/mn214.htm" target=_top>http://ts.novels.jp/novel/200011/04033856/mn214.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -82,7 +82,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】「二足のわらじ」って言ってますけど、プログラマーで女優で陰陽師で……って、もう三足以上ですやん（笑）。<br>
-<a href=http://ts.novels.jp/novel/200011/04033856/mn213.htm target=_top>http://ts.novels.jp/novel/200011/04033856/mn213.htm</a></font>
+<a href="../../novel/200011/04033856/mn213.htm" target=_top>http://ts.novels.jp/novel/200011/04033856/mn213.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -132,7 +132,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】沙希の行くところ、超常が超常でなくなっていく……<br>
-<a href=http://ts.novels.jp/novel/200011/04033856/mn212.htm target=_top>http://ts.novels.jp/novel/200011/04033856/mn212.htm</a></font>
+<a href="../../novel/200011/04033856/mn212.htm" target=_top>http://ts.novels.jp/novel/200011/04033856/mn212.htm</a></font>
 </td></table>
 </td></tr></table>
 

@@ -56,7 +56,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】戦いが終わり、少女は大切な友人や仲間たちとともに帰還する。桜吹雪が舞い散る中、「ウォーリアー・ガール」完結です。<br>
-<a href=http://ts.novels.jp/novel/201101/08222059/warriorgirl07_c.html target=_top>http://ts.novels.jp/novel/201101/08222059/warriorgirl07_c.html</a></font>
+<a href="../../novel/201101/08222059/warriorgirl07_c.html" target=_top>http://ts.novels.jp/novel/201101/08222059/warriorgirl07_c.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -115,7 +115,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】対峙するのは、互いに力を受け継いだ者。しかし、そこには絶対的な「違い」があった。<br>
 　「ウォーリアー・ガール」、佳境です。<br>
-<a href=http://ts.novels.jp/novel/201101/08222059/warriorgirl07_b.html target=_top>http://ts.novels.jp/novel/201101/08222059/warriorgirl07_b.html</a></font>
+<a href="../../novel/201101/08222059/warriorgirl07_b.html" target=_top>http://ts.novels.jp/novel/201101/08222059/warriorgirl07_b.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -167,7 +167,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ついに始まった妖怪大戦争（違）。互いに譲れないものを抱いて戦う両陣営であったが……そして「序」なのに“急”展開！<br>
-<a href=http://ts.novels.jp/novel/201101/08222059/warriorgirl07_a.html target=_top>http://ts.novels.jp/novel/201101/08222059/warriorgirl07_a.html</a></font>
+<a href="../../novel/201101/08222059/warriorgirl07_a.html" target=_top>http://ts.novels.jp/novel/201101/08222059/warriorgirl07_a.html</a></font>
 </td></table>
 </td></tr></table>
 

@@ -51,7 +51,7 @@ link<input type=checkbox name="link" value="1" checked>
 <td nowrap align=right><font size=3>　<a href="bbs@res_200410122171033_log_olson.cgi">返信</a>　削除<input type=checkbox name="target" value="200410122171033"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><a href=http://ts.novels.jp/novel/200206/25215840/redeye.html target=_top>http://ts.novels.jp/novel/200206/25215840/redeye.html</a><br>
+<font size=3 color=#606060><a href="../../novel/200206/25215840/redeye.html" target=_top>http://ts.novels.jp/novel/200206/25215840/redeye.html</a><br>
 【推薦文】 チームにはこういうものはつきものなのです！<br>
 </font>
 </td></table>

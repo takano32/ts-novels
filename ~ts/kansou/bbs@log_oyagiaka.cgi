@@ -80,7 +80,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 世の中にはたくさんもらえる方もいるのでしょうかね？<br>
-<a href=http://ts.novels.jp/novel/201206/28215101/chokokudasai.html target=_top>http://ts.novels.jp/novel/201206/28215101/chokokudasai.html</a></font>
+<a href="../../novel/201206/28215101/chokokudasai.html" target=_top>http://ts.novels.jp/novel/201206/28215101/chokokudasai.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -137,7 +137,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】わけありの少女、源るい。事故から復学した少年、阿久津零。ふたりを見守る幼馴染、守山さくら。それぞれの想いが交差します……<br>
-<a href=http://ts.novels.jp/novel/201206/28215101/ainokatachi.htm target=_top>http://ts.novels.jp/novel/201206/28215101/ainokatachi.htm</a></font>
+<a href="../../novel/201206/28215101/ainokatachi.htm" target=_top>http://ts.novels.jp/novel/201206/28215101/ainokatachi.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -152,7 +152,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 女心と秋の空、と申します。晴れは続かないし荒れる時はどこまでも暗く激しく……。<br>
-<a href=http://ts.novels.jp/novel/201206/28215101/monomane.htm target=_top>http://ts.novels.jp/novel/201206/28215101/monomane.htm</a></font>
+<a href="../../novel/201206/28215101/monomane.htm" target=_top>http://ts.novels.jp/novel/201206/28215101/monomane.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -228,7 +228,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 他愛もないいたずらですが、主人公のノリがなかなか宜しゅうございます。<br>
-<a href=http://ts.novels.jp/novel/201206/28215101/brother.htm target=_top>http://ts.novels.jp/novel/201206/28215101/brother.htm</a></font>
+<a href="../../novel/201206/28215101/brother.htm" target=_top>http://ts.novels.jp/novel/201206/28215101/brother.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -243,7 +243,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 自分らしさってなんだろう、自分らしく生きるってなんだろう。<br>
-<a href=http://ts.novels.jp/novel/201206/28215101/TheFormOfReal.html target=_top>http://ts.novels.jp/novel/201206/28215101/TheFormOfReal.html</a></font>
+<a href="../../novel/201206/28215101/TheFormOfReal.html" target=_top>http://ts.novels.jp/novel/201206/28215101/TheFormOfReal.html</a></font>
 </td></table>
 </td></tr></table>
 

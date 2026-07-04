@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >�N���G�[�^�[�Y�E�t���A</font>
+<font size=6 >クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,35 +15,35 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="YYtbzRDq68">
 <input type=hidden name="res" value="288">
-<h4 align=center>�� �L���ԍ� 288 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 288 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ƂĂ���؂Ȗ�肾�Ǝv���܂����ǁA���́c�c"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ����삳��
-&gt; �킽���͂ǂ�Ȃ������X�[�p�[�Ȋ��z���������Ƃ��A����l�͋C�ɓ���Ȃ������肷��Ǝv���܂��B
-&gt; ����͈����Ӗ�����Ȃ��āA���������z�����������ǂ����͓ǂ񂾐l�����߂���̂��Ƃ������Ƃł��B
-&gt; ���ՓI�ɂ��������z������킯�Ȃ��ł�����B
-&gt; �������قǕςȒ�������悤�Ȋ��z�łȂ���΁A�����t������l�������Ȃ��Ă������Ȃ��Ďv���l������̂ł͂Ȃ��ł��傤���B����Ȃ���ł���B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:とても大切な問題だと思いますけど、私は……"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 日比野さん
+&gt; わたしはどんなすごいスーパーな感想を書こうとも、ある人は気に入らなかったりすると思います。
+&gt; これは悪い意味じゃなくて、書いた感想がすごいかどうかは読んだ人が決めるものだということです。
+&gt; 普遍的にすごい感想があるわけないですから。
+&gt; だからよほど変な中傷するような感想でなければ、引き付けられる人も書かなくていいかなって思う人もいるのではないでしょうか。そんなもんですよ。
 &gt; 
-&gt; �{��́A�V�X�e���ς�����ǂ����Ƃ����ӌ��ɂ��Ă����X�B
-&gt; ������ւ�͖l�͂悭�킩��Ȃ���ł����ǁA���͊��z���ď����ɂ�����ł����ˁH
-&gt; �����ɗ��Ă܂������󂢂ł����i�Ƃ������C���^�[�l�b�g�g���n�߂��̂��P�N���O���炢�j�A���z�����āw�|�`�b�Ƃȁx���ă{�^�������΂n�j�Ȃ�ĊȒP���Ȃ��Ďv���܂������ǁB
-&gt; ����������肶��Ȃ��Ǝv����ł����A���S�҂Ƃ��Ă̂قق�ƌ���΂���Ȃ��񂶂ł��ˁB</textarea><br>
+&gt; 本題の、システム変えたらどうかという意見についても少々。
+&gt; そこらへんは僕はよくわかんないんですけど、今は感想って書きにくいんですかね？
+&gt; ここに来てまだ日が浅いですが（というよりインターネット使い始めたのが１年半前ぐらい）、感想書いて『ポチッとな』ってボタン押せばＯＫなんて簡単だなって思いましたけど。
+&gt; そういう問題じゃないと思うんですが、初心者としてのほほんと見ればそんなかんじですね。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -56,35 +56,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[293]</font> <font size=4 color=#50d0d0> Re:���܂ɂ́A�����ӌ���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[293]</font> <font size=4 color=#50d0d0> Re:たまには、私も意見を</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/02 (��) 21:52:19  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302020215219">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302020215219"></font>
+<font size=-1 color=#606060> 2003/02/02 (日) 21:52:19  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302020215219.cgi">返信</a>　削除<input type=checkbox name="target" value="200302020215219"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">> >���z���\�ɏo�Ă���Ƃ�����������܂���ˁB�g�b�v�y�[�W�ɏo�Ă���΁A�u�ǂݎ��U���v���z�������邩������܂���<br>
-> �u�ŐV�̊��z�v�̌f�����������Ă��ꂽ��A�ǂ��Ƃ́A�v���܂����A�T�[�o�[�ɕ��S��������܂�����ˁB</font><br>
-�@����A�f���N���Ή����Ă��Ȃ������ł��B��낤�Ƃ���΍��Ȃ����Ƃ͂Ȃ���ł����ǁB<br>
-�i��x����Ď��s�����j<br>
-�@�܂��A�Ăɂł��ă`�������W���܂��B</font>
+<font size=4 color=#000000><font color="#cc88ff">> >感想も表に出てくるといいかもしれませんね。トップページに出てくれば、「読み手を誘う」感想がかけるかもしれません<br>
+> 「最新の感想」の掲示板が復活してくれたら、良いとは、思いますが、サーバーに負担がかかりますからね。</font><br>
+　いや、掲示板君が対応していないだけです。作ろうとすれば作れないことはないんですけど。<br>
+（一度作って失敗した）<br>
+　また、夏にでも再チャレンジします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[292]</font> <font size=4 color=#50d0d0> �����������Ƃ����������Ƃ��ɏ���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[292]</font> <font size=4 color=#50d0d0> 書きたいことを書きたいときに書く</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/02 (��) 04:14:00  �Ђ̂Ђ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302020041400">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302020041400"></font>
+<font size=-1 color=#606060> 2003/02/02 (日) 04:14:00  ひのひと </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302020041400.cgi">返信</a>　削除<input type=checkbox name="target" value="200302020041400"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>������Ď��̊��z�̏��������̂��̂Ȃ�ł��B<br>
-�����B�ׂ������ƂȂ񂩉����l���Ă܂���B��҂̕��ɓ`���������Ƃ����邩�珑���B���ꂾ���ł��B<br>
-�ł��ł��ˁA���ɂ͂�͂肠���ł���B�u���̐l�ɂ͂����Ď����������Ȃ��Ă��A���ɑ����̐l�����������񂹂Ă��邩�炢�����ȁv�Ƃ��A�u���[���o�x�ꂿ����������߂Ă������v�Ƃ��B�����玄�͂ۂ�ۂ�Ƃ��Ƃ����z�������Ă��Ȃ���ł��B�C�̗��������ƂȂ񂩂���������������̂ł��Ȃ��ł����ǁA�ł�����ς�`���������珑���B���ꂾ���ł��B����ō�҂��񂩂炨�Ԏ����������肷��Ɗ������ł����ˁB������ƂȂ�āA���܂�l���Ă܂���B�������C�ɓ�������i�ɏo��āA���������Ƃ�`������ꂪ����A�����珑�������Ȃ�ł��B<br>
-�����炱�ꂩ������͏��������Ƃ��ɏ��������悤�ɏ����B����Ȃ��Ƃ��ۂ�ۂ�Ƒ����Ă��������Ǝv���Ă��܂��B<br>
+<font size=4 color=#000000>それって私の感想の書き方そのものなんです。<br>
+ええ。細かいことなんか何も考えてません。作者の方に伝えたいことがあるから書く。それだけです。<br>
+でもですね、時にはやはりあるんですよ。「この人にはあえて自分が書かなくても、他に多くの人たちが声を寄せているからいいかな」とか、「あーあ出遅れちゃったからやめておこう」とか。だから私はぽつりぽつりとしとか感想を書いていないんです。気の利いたことなんかそうそう言えるものでもないですけど、でもやっぱり伝えたいから書く。それだけです。それで作者さんからお返事があったりすると嬉しいですしね。難しいことなんて、あまり考えてません。自分が気に入った作品に出会えて、感じたことを伝えられる場がある、だから書くだけなんです。<br>
+だからこれからも私は書きたいときに書きたいように書く。そんなことをぽつりぽつりと続けていこうかと思っています。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -92,31 +92,31 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[291]</font> <font size=4 color=#50d0d0> ���p�I�ɍl����Ɓc</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[291]</font> <font size=4 color=#50d0d0> 実用的に考えると…</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/02/01 (�y) 08:14:46  �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200302016081446">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302016081446"></font>
+<font size=-1 color=#606060> 2003/02/01 (土) 08:14:46  電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200302016081446.cgi">返信</a>　削除<input type=checkbox name="target" value="200302016081446"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�܂����z�������ɂȂ����Ⴄ���Ƃ��Ă��邩������܂���ˁB<br>
-�Ƃ肠�������z�����Ƃ��Ă�<br>
-��҂���̑ԓx���͂����肵�Ă���Ə����₷���Ǝv���܂��B<br>
-��]��OK�Ȃ̂��B�������납�����Ƃ������z�������~�����̂��A�ł��B<br>
+<font size=4 color=#000000>まあ感想が億劫になっちゃうことってあるかもしれませんね。<br>
+とりあえず感想書きとしては<br>
+作者さんの態度がはっきりしていると書きやすいと思います。<br>
+批評もOKなのか。おもしろかったという感想だけが欲しいのか、です。<br>
 <br>
-�����������Ŏv���̂ł����A��]�͌����Ƃ�����҂�����Č��\���Ȃ��ł���ˁB<br>
-��]���������Ă����̂͂Ȃ�Ƃ����������̊�̖������I�悳���悤�ȋC�����邩��ł��傤���B���Ȃ��Ƃ������͂���ȗ��R�����]�����₾�Ƃ͏��������Ȃ��Ǝv���Ă܂��B�{�N�̐��_�I����Ă��������ɂ������Ⴂ�ł�����B<br>
+しかしここで思うのですが、批評は嫌だという作者さんって結構少ないですよね。<br>
+批評が嫌だっていうのはなんというか自分の器の無さが露呈されるような気がするからでしょうか。少なくとも自分はそんな理由から批評がいやだとは書きたくないと思ってます。ボクの精神的器ってお猪口並にちっちゃいですから。<br>
 <br>
-�Ƃ���Ŕ�]���ĂȂ�ł��傤�B���\�v����ł����ǁA��]���ꂽ�ꍇ�A���̔�]��[���ᖡ����K�v������ƃ{�N�͎v���܂��B<br>
-�܂�A��]���ꂽ�Ƃ��A���̔�]�ɑ΂��Ĉ��ՂɑS�ʍm�肷��̂ł͂Ȃ���]�ɑ΂��Ă���]�I�ȃX�^���X�łȂ��ƁA�^�ɔ�]�ɑ΂��Đ^���ł͂Ȃ��̂ł͂Ȃ����Ƃ��v�����肵�܂��B<br>
-�������A�������Ƃ��Ă���]�Ƃ́A�ꕔ�Ƃ͂������Ȕے肳���悤�Ȃ��̂ł�����A����I�ȖʂŔ�]�ɑ΂��Ĕے�I�ԓx���Ƃ����̂��ƌ�������\��������܂����A<br>
-���ۂɂ��̂܂ɂ�犴��ʂ������Ă��܂����Ƃ�����܂��̂ŁA<br>
-����Əs�ʂ��āA��]���ᖡ���邱�Ƃ��Č��\����̂ł͂Ȃ����Ƃ��v�����肵�܂��B<br>
-�����Ċ��z�����Ƃ��Ă��A��҂������͈Ⴄ�̂ł͂Ȃ����ƌ����Ă����Ƃ��ɁA�����̈ӌ��ɑ΂��Ă�������x�̐ӔC�������Đڂ���K�v������Ǝv���̂ł����A����ɑ΂��Ă͐����ȂƂ���ʓ|�������Ǝv���Ă��܂����A��q�̂Ƃ��芴��ʂŌ����Ă���񂶂�Ȃ����Ƃ������o���N�����₷���̂ł͂Ȃ��ł��傤���B<br>
+ところで批評ってなんでしょう。結構思うんですけど、批評された場合、その批評を深く吟味する必要があるとボクは思います。<br>
+つまり、批評されたとき、その批評に対して安易に全面肯定するのではなく批評に対しても批評的なスタンスでないと、真に批評に対して真摯ではないのではないかとも思ったりします。<br>
+しかし、そうだとしても批評とは、一部とはいえ自己否定されるようなものですから、感情的な面で批評に対して否定的態度をとったのだと誤解される可能性もありますし、<br>
+実際にいつのまにやら感情面が入ってしまうこともありますので、<br>
+感情と峻別して、批評を吟味することって結構難しいのではないかとも思ったりします。<br>
+そして感想書きとしても、作者がそこは違うのではないかと言ってきたときに、自分の意見に対してある一定程度の責任を持って接する必要があると思うのですが、それに対しては正直なところ面倒くさいと思ってしまうし、先述のとおり感情面で言っているんじゃないかという錯覚を起こしやすいのではないでしょうか。<br>
 <br>
-��]�A�ᔻ�͂��Ȃ�����Ƃł���ˁB��҂ɂƂ��Ă��ǎ҂ɂƂ��Ă��c�B<br>
-������ɂ��Ă�����Ȍ����ł������Ƃ��������ގ��_�ŁA�{�N�̓_���d���ۂ������ˁB<br>
-�Ƃ肠�����A����Ȋ��z�͂������납�������̑S�ʍm�芴�z�Ȃ񂾂낤�Ƃ͎v���d�g�d���ł����B���ꂪ��ԏ����₷�����z����B<br>
+批評、批判はかなり難しい作業ですよね。作者にとっても読者にとっても…。<br>
+いずれにしてもこんな言わんでいいことを書き込む時点で、ボクはダメ妖精ぽいかもね。<br>
+とりあえず、無難な感想はおもしろかった等の全面肯定感想なんだろうとは思う電波妖精でした。これが一番書きやすい感想だよ。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -124,26 +124,26 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[290]</font> <font size=4 color=#50d0d0> ���z�ɂ��āA�q�n�l����B</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[290]</font> <font size=4 color=#50d0d0> 感想について、ＲＯＭ専より。</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/31 (��) 01:19:50  <a href="mailto:july@land.linkclub.or.jp">�i�E�e</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301315011950">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301315011950"></font>
+<font size=-1 color=#606060> 2003/01/31 (金) 01:19:50  <a href="mailto:july@land.linkclub.or.jp">Ｊ・Ｆ</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301315011950.cgi">返信</a>　削除<input type=checkbox name="target" value="200301315011950"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���̕��ɂ�����܂������A<br>
-�u�ǂ������v�u�ʔ��������v�u�G�����v<br>
-�����̈ꌾ�ōς܂��Ă��܂��̂͂��܂�Ɏ��炩�ȁA�Ƃ�������ς��܂���B<br>
+<font size=4 color=#000000>下の方にもありましたが、<br>
+「良かった」「面白かった」「萌えた」<br>
+──の一言で済ませてしまうのはあまりに失礼かな、という先入観がまず一つ。<br>
 <br>
-�ŁA�����C�̗��������Ƃ��P�Q���������悤�Ƃ͎v���Ă��Ă��A<br>
-�Ȃ��Ȃ����͂��܂Ƃ܂�Ȃ��Ă��̂܂܁u�{�v�𓦂��A���X�����Ă��Ȃ��c�c�ƁB<br>
-���ꂪ��Q�̐���ρB<br>
+で、何か気の利いたことを１つ２つ書き加えようとは思っていても、<br>
+なかなか文章がまとまらなくてそのまま「旬」を逃し、今更書いてもなぁ……と。<br>
+これが第２の先入観。<br>
 <br>
-�����I�ɂ́A���̂����肪�ǂɂȂ��āA�ŏI�I�ɂ͕��u�����ƂȂ�P�[�X�������ł��B<br>
-�Ƃ��������ɁA�����́u�ǁv���������ď��������z��<br>
-�u�ꌾ���X�v�ɋ߂����e�����������肷���ł����B<br>
+自分的には、このあたりが壁になって、最終的には放置──となるケースが多いです。<br>
+とか言う割に、これらの「壁」を克服して書いた感想も<br>
+「一言レス」に近い内容が多かったりするんですが。<br>
 <br>
-���N�͐ϋɓI�ɏ����ɍs�������Ƃ͎v���Ă܂��B�����̕��͗͂𖁂��Ӗ��ł��B<br>
+今年は積極的に書きに行きたいとは思ってます。自分の文章力を磨く意味でも。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -151,72 +151,72 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[289]</font> <font size=4 color=#50d0d0> (�m*�K���K*)����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[289]</font> <font size=4 color=#50d0d0> (ノ*゜▽゜*)うん</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/29 (��) 23:17:16  �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301293231716">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301293231716"></font>
+<font size=-1 color=#606060> 2003/01/29 (水) 23:17:16  電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301293231716.cgi">返信</a>　削除<input type=checkbox name="target" value="200301293231716"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���낢��l���܂����B<br>
-���_�͂���Ϗ��������Ƃ��ɏ����B���z����i���B<br>
-����Ɏ������Ă�����ł��傤���B<br>
-���낢��ƍl�������ʂȂ�ł����ǁA�����<br>
-�Ó������p�[�Z���g�Ɠ���������킯����Ȃ��̂��炢�Ƃ���ł����ǁA<br>
-�݂Ȃ���̂�������q�����A�����ă{�N�Ȃ�̌��_�Ƃ��Ă�<br>
-���������������o���̂ł��B</font>
+<font size=4 color=#000000>いろいろ考えました。<br>
+結論はやっぱ書きたいときに書く。感想も作品も。<br>
+これに収束していくんでしょうか。<br>
+いろいろと考えた結果なんですけど、これに<br>
+妥当性何パーセントと答えがあるわけじゃないのがつらいところですけど、<br>
+みなさんのお答えを拝見し、そしてボクなりの結論としては<br>
+こういう答えが出たのです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[288]</font> <font size=4 color=#50d0d0> �ƂĂ���؂Ȗ�肾�Ǝv���܂����ǁA���́c�c</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[288]</font> <font size=4 color=#50d0d0> とても大切な問題だと思いますけど、私は……</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/29 (��) 20:37:22  ����� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301293203722">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301293203722"></font>
+<font size=-1 color=#606060> 2003/01/29 (水) 20:37:22  日比野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301293203722.cgi">返信</a>　削除<input type=checkbox name="target" value="200301293203722"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�킽���͂ǂ�Ȃ������X�[�p�[�Ȋ��z���������Ƃ��A����l�͋C�ɓ���Ȃ������肷��Ǝv���܂��B<br>
-����͈����Ӗ�����Ȃ��āA���������z�����������ǂ����͓ǂ񂾐l�����߂���̂��Ƃ������Ƃł��B<br>
-���ՓI�ɂ��������z������킯�Ȃ��ł�����B<br>
-�������قǕςȒ�������悤�Ȋ��z�łȂ���΁A�����t������l�������Ȃ��Ă������Ȃ��Ďv���l������̂ł͂Ȃ��ł��傤���B����Ȃ���ł���B<br>
+<font size=4 color=#000000>わたしはどんなすごいスーパーな感想を書こうとも、ある人は気に入らなかったりすると思います。<br>
+これは悪い意味じゃなくて、書いた感想がすごいかどうかは読んだ人が決めるものだということです。<br>
+普遍的にすごい感想があるわけないですから。<br>
+だからよほど変な中傷するような感想でなければ、引き付けられる人も書かなくていいかなって思う人もいるのではないでしょうか。そんなもんですよ。<br>
 <br>
-�{��́A�V�X�e���ς�����ǂ����Ƃ����ӌ��ɂ��Ă����X�B<br>
-������ւ�͖l�͂悭�킩��Ȃ���ł����ǁA���͊��z���ď����ɂ�����ł����ˁH<br>
-�����ɗ��Ă܂������󂢂ł����i�Ƃ������C���^�[�l�b�g�g���n�߂��̂��P�N���O���炢�j�A���z�����āw�|�`�b�Ƃȁx���ă{�^�������΂n�j�Ȃ�ĊȒP���Ȃ��Ďv���܂������ǁB<br>
-����������肶��Ȃ��Ǝv����ł����A���S�҂Ƃ��Ă̂قق�ƌ���΂���Ȃ��񂶂ł��ˁB</font>
+本題の、システム変えたらどうかという意見についても少々。<br>
+そこらへんは僕はよくわかんないんですけど、今は感想って書きにくいんですかね？<br>
+ここに来てまだ日が浅いですが（というよりインターネット使い始めたのが１年半前ぐらい）、感想書いて『ポチッとな』ってボタン押せばＯＫなんて簡単だなって思いましたけど。<br>
+そういう問題じゃないと思うんですが、初心者としてのほほんと見ればそんなかんじですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[287]</font> <font size=4 color=#50d0d0> �ւ��ۂ����������Ƃ��Ă��Q�l�܂�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[287]</font> <font size=4 color=#50d0d0> へっぽこ小説書きとしてご参考まで</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/29 (��) 17:39:06  <a href="mailto:redeye2002@mail.goo.ne.jp">�Ԗ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301293173906">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301293173906"></font>
+<font size=-1 color=#606060> 2003/01/29 (水) 17:39:06  <a href="mailto:redeye2002@mail.goo.ne.jp">赤目</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301293173906.cgi">返信</a>　削除<input type=checkbox name="target" value="200301293173906"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�قg�o�Ńt�H�[�����M�`�����g�������z�t�H�[����ݒu���Ă���܂����A<br>
-����������x�A�ڍX�V����Ƃۂۂ��݂��ꎮ�ɑ����ė�����x�ł��B<br>
-�R�����g���͓����Ă����肢�Ȃ�������B<br>
-�ł������Ƃ���ɂ��ƁA���Ԉ�ʂ̏����T�C�g�ł͂��ꂪ���ʁi�Ƃ���<br>
-���A����ł��ǂ����j�炵���ł��B���������S�R���z�Ȃ��Ƃ����Ƃ����<br>
-����悤�ł�����B<br>
-�s�r�����T�C�g�́A�l�^�c�ł���r�I���z�������T�C�g���������񂠂�܂����B<br>
+<font size=4 color=#000000>拙ＨＰでフォーム送信形式を使った感想フォームを設置しておりますが、<br>
+だいたい一度連載更新するとぽつぽつさみだれ式に送られて来る程度です。<br>
+コメント欄は入っていたりいなかったり。<br>
+でも聞くところによると、世間一般の小説サイトではこれが普通（という<br>
+か、これでも良い方）らしいです。何ヶ月も全然感想なしというところも<br>
+あるようですから。<br>
+ＴＳ小説サイトは、個人運営でも比較的感想が多いサイトがたくさんありますが。<br>
 <br>
-�����Ⴆ�Ε��ɂ���ɓ�������ƂȂ�ƁA��҂̃��A�h�̊Ǘ��Ƃ��A�T�[�o<br>
-�̕��ׂ̖����������肵�āA��͂����̂ł͂Ȃ����Ǝv���܂��B�i������<br>
-�l�^�c�ŃA�N�Z�X�������Ȃ��̂ł����Ă�Ǝv���܂��j<br>
+これを例えば文庫さんに導入するとなると、作者のメアドの管理とか、サーバ<br>
+の負荷の問題もあったりして、やはり難しいのではないかと思います。（うちは<br>
+個人運営でアクセス数も少ないのでもってると思います）<br>
 <br>
-�֑��Ȃ���A���[�Ƃ����̂�����܂��āA�ٍ�͈�ʂ̏��������T�C�g�̃V�X<br>
-�e���ɓo�^���Ėʔ����Ǝv�����瓊�[���ĖႤ�悤�ɂ����Ă܂��B�ł������<br>
-���ׂ������A�J�I�p���͔̂N���Œ��~�ɂȂ��Ă��܂��܂����B<br>
+蛇足ながら、投票というのもありまして、拙作は一般の小説検索サイトのシス<br>
+テムに登録して面白いと思ったら投票して貰うようにもしてます。でもこれも<br>
+負荷が高く、カオパラのは年末で中止になってしまいました。<br>
 <br>
-���ז����܂ł����B</font>
+お邪魔さまでした。</font>
 <p><div align=left><a href="http://redeye22.hp.infoseek.co.jp/" target="_top">http://redeye22.hp.infoseek.co.jp/</a></div>
 </td></table>
 </td></tr></table>
@@ -224,21 +224,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[286]</font> <font size=4 color=#50d0d0> ��i�����z��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[286]</font> <font size=4 color=#50d0d0> 作品も感想も</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/29 (��) 16:37:13  <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301293163713">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301293163713"></font>
+<font size=-1 color=#606060> 2003/01/29 (水) 16:37:13  <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301293163713.cgi">返信</a>　削除<input type=checkbox name="target" value="200301293163713"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�Ƃɂ��������B�����ď����ď����܂���B<br>
-�ŏ��̈���𓥂ݏo���̂͗E�C�����邩������Ȃ�����ǁA����ȂɎv���l�߂Ȃ��Ă��B<br>
-�Ƃɂ������������̍�i��ǂ�Ŏv�������Ƃ���҂ɓ`���悤�Ƃ����C����������Α��v�B<br>
-�ŏ��͂ЂƂ��Ƃ����ł���������Ȃ��B<br>
-�����āA���̊��z���Ȃɂ��g��������N��������A�܂��A����𐶂񂾂�A���̎��͑f���Ɏӂ��ăt�H���[����Ȃ�A����������w�͂�����Ȃ肷��΍ςނ��ƁB<br>
-����܂�[���ɍl���邱�Ƃ͂Ȃ��Ǝv����B<br>
+<font size=4 color=#000000>とにかく書く。書いて書いて書きまくる。<br>
+最初の一歩を踏み出すのは勇気がいるかもしれないけれど、そんなに思い詰めなくても。<br>
+とにかく自分がその作品を読んで思ったことを作者に伝えようという気持ちがあれば大丈夫。<br>
+最初はひとことだけでもいいじゃない。<br>
+そして、その感想がなにか波紋を巻き起こしたら、また、誤解を生んだら、その時は素直に謝ってフォローするなり、誤解を解く努力をするなりすれば済むこと。<br>
+あんまり深刻に考えることはないと思うよ。<br>
 <br>
-�Ƃ肠�������z�Ƀ��X���t�������ł������������W�S�Q�U�ł����B</font>
+とりあえず感想にレスが付くだけでも嬉しいｍｋ８４２６でした。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -246,52 +246,52 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[285]</font> <font size=4 color=#50d0d0> ���Ԏ��ł��B</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[285]</font> <font size=4 color=#50d0d0> お返事です。</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/29 (��) 03:02:22  �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301293030222">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301293030222"></font>
+<font size=-1 color=#606060> 2003/01/29 (水) 03:02:22  電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301293030222.cgi">返信</a>　削除<input type=checkbox name="target" value="200301293030222"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�F�l�ɂ��Ԏ��ł���܂��B���X�T���N�X�ł���܂��B<br>
+<font size=4 color=#000000>　皆様にお返事であります。レスサンクスであります。<br>
 <br>
-�@���ǂ̂Ƃ���A�����̊��z�̉e���͂��Ă����͔̂��{�I�ȉ������@���������Ă����̂�������Ƃ����������Ƃ�����<br>
-�@������⊴������̂ł��B����͋��|�Ȃ̂ł��B<br>
-�@�����čD���ȍ�i�̍�҂���̑������������Ă��邩������Ȃ����Ă��Ƃł�����c�B<br>
+　結局のところ、自分の感想の影響力っていうのは抜本的な解決方法が無いっていうのがいかんともしがたいというか<br>
+　もやもや感があるのです。それは恐怖なのです。<br>
+　だって好きな作品の作者さんの足を引っ張っているかもしれないってことですから…。<br>
 <br>
-�{�N�����������͔̂��{�I�ȉ����͖������Ƃ��Ă��A�������������̊��z���}�C�i�X�ɂȂ鋰����ǂ�����Č��炵���炢���̂��Ȃ��Ċ����Ȃ̂ł����A����͎����ōl�����Ƃ���A�w�X�[�p�[�Ȋ��z�x���������炢�����v�����Ȃ�������ł��B<br>
+ボクが言いたいのは抜本的な解決は無理だとしても、そういう自分の感想がマイナスになる恐れをどうやって減らしたらいいのかなって感じなのですが、それは自分で考えたところ、『スーパーな感想』を書くぐらいしか思いつかなかったんです。<br>
 <br>
-�@���Ƃ͒ʂ肷���肳�������������Ă���悤�ɁA���l�̖ڂ��C�ɂ�������Ȃ��������Ƃ����v��������܂����B<br>
-�@����������ƁA�����Ƃ���Ȃ�Ɗ��z��������悤�ȃV�X�e��������̂�������܂���ˁB<br>
-�@�����ے肷��C�͂���܂��񂪁A�����ȂƂ���A�ǂ������ɂ̕ǂ������͋C��q���ɓǎ҂̕�����������Ă���̂ł͂Ȃ��ł��傤���B<br>
-�@����͕��ɂ̗��j�̏W�ςł���܂�����A�꒩��[�ɂ͕ϊv�͓���Ǝv���̂ł��B<br>
-�@�ł��A���z�_�I�Ȍ������ɂȂ��Ă��܂��܂����A���ɂƂ����̂͊�{�I�ɓǎ҂̕����哱�ɂȂ肤��悤�ȃV�X�e���ł���܂����A�ǎ҂���̈ӎ����v���ł���̂ł���΁A���ꂪ��Ԃ����̂ł͂Ȃ����낤���Ǝv���̂ł��B<br>
-�@��҂���ɑ΂��āA�ǂ��������邩�c�B�������邵�Ȃ������̐l����ł����A<br>
-�@�������Ă݂������ǁA�Ȃ�ƂȂ������Ȃ��Ă����̂����邩������܂����ˁB�{�N�������̊��z����҂���ɂƂ��ă}�C�i�X�ɓ����̂�������ł����A����͗����ł���̂ł��B���肫�肳����ʂ肷���肳������|�S������悤�ł����A�ӊO�Ƃ���͕��ՓI�Ȃ񂶂�Ȃ��ł��傤���H�@�������l�ɂ���ău��������A���z�Ȃ�Ď����̈ӌ��������΂����Ƃ�����������̂悤�ȍl����������邨��������������Ƃ͎v���܂����A�命���̐l�͊��z���������Ƃ͂����̗E�C��������̂��Ǝv���܂��B<br>
+　あとは通りすがりさんもおっしゃっているように、他人の目を気にする方がなぜか多いという思いがありました。<br>
+　もしかすると、もっとすんなりと感想を書けるようなシステムがあるのかもしれませんね。<br>
+　現状を否定する気はありませんが、正直なところ、どこか文庫の閉塞した雰囲気を敏感に読者の方が感じ取っているのではないでしょうか。<br>
+　それは文庫の歴史の集積でありますから、一朝一夕には変革は難しいと思うのです。<br>
+　でも、理想論的な言い方になってしまいますが、文庫というのは基本的に読者の方が主導になりうるようなシステムでありますし、読者さんの意識改革ができるのであれば、それが一番いいのではないだろうかと思うのです。<br>
+　作者さんに対して、どう反応するか…。反応するしないもその人次第ですが、<br>
+　反応してみたいけど、なんとなく恐いなっていうのがあるかもしれませんよね。ボクも自分の感想が作者さんにとってマイナスに働くのが恐いんですし、それは理解できるのです。きりきりさんも通りすがりさんも恐怖心があるようですし、意外とこれは普遍的なんじゃないでしょうか？　もちろん人によってブレがあり、感想なんて自分の意見をいえばいいというｍｋさんのような考え方をされるお方もいらっしゃるとは思いますが、大多数の人は感想を書くことはある種の勇気がいるものだと思います。<br>
 <br>
-�@����ŁA���̔����ł͈Öق̂����ɂ��������Ă܂���ł������A�����̈ӌ��𖾎����܂��ƁA�����������|�S���Ȃ��Ȃ�悤�ȍI�����@���������ȂƊF����ɂ����������������̂ł��B<br>
-�@�Ǘ��l����͊��z�������Ă݂����悤�ȍ�i���łĂ���΂悢�̂��B��Ҏ��悾�Ƃ������Ⴂ�܂����B<br>
-�@�m���ɂ��̂悤�ɓǎ҂���̈ӎ���ς���悤�ȁA���邢�̓J���t���܂ɂȂ�悤�Ȗ��삪�o�Ă���̂�҂Ƃ����̂���̎�ł��傤�B�͋Z�݂����Ȃ���ł��B<br>
-�@�ł�������̑��l�̖ڂ̋��|�ɑ΍R����ɂ͂�����ƒǂ����Ȃ���������Ȃ��Ǝv�����Ⴂ�܂��B<br>
-�@��҂ɑ΂��Đ�̗���ɋt�炦�鋛�ɂȂ�Ƃ���������Ă��邾���ŁA��̗����ς��悤�Ƃ����l���ł͂Ȃ��ł���ˁB����̓{�N�̍ŏ��̈ӌ�������ӂ₾���������ł����A���x�͂͂����茾���܂��傤�B<br>
-�@���̐�̗��ꂪ���Ȃ�}�Ȋ��������鍡�̏󋵂͂ǂ�����΂�����ł��傤���H<br>
-�@���ȍ�҂��񂪍�i�Ƃ������̗����Y�ނ̂��}���̐�̂��������\��ςɊ����܂��B<br>
-�@���ꂪ�ɂ₩�łȂ�����ł��B�܂�̓V�X�e���I�ɂ͓Ɨ͂Ŋ撣��Ƃ��������̌��������̂ł��B<br>
-�@����A���ȓǎ҂��񂪊��z�Ƃ������̗����Y�ނ̂��}���̐�̂��������\��ςɊ����܂��B<br>
-�@���ꂪ�ɂ₩�łȂ�����ł��B�܂�V�X�e���I�ɂ͋C���˂Ȃ����z��`���邱�Ƃ��ł��Ȃ��󋵂ɂ��邩��ƌ�����̂ł͂Ȃ��ł��傤���B<br>
+　それで、下の発言では暗黙のうちにしか言ってませんでしたが、自分の意見を明示しますと、そういう恐怖心がなくなるような巧い方法が無いかなと皆さんにうかがいたかったのです。<br>
+　管理人さんは感想を書いてみたいような作品がでてくればよいのだ。作者次第だとおっしゃいました。<br>
+　確かにそのように読者さんの意識を変えるような、あるいはカンフル剤になるような名作が出てくるのを待つというのも一つの手でしょう。力技みたいなもんです。<br>
+　ですが現状の他人の目の恐怖に対抗するにはちょっと追いつかないかもしれないと思っちゃいます。<br>
+　作者に対して川の流れに逆らえる魚になれとおっしゃっているだけで、川の流れを変えようという考えではないですよね。これはボクの最初の意見があやふやだったせいですが、今度ははっきり言いましょう。<br>
+　この川の流れがかなり急な感じがする今の状況はどうすればいいんでしょうか？<br>
+　鮭な作者さんが作品という名の卵を産むのも急流の川のせいか結構大変に感じます。<br>
+　流れが緩やかでないからです。つまりはシステム的には独力で頑張れというだけの厳しいものです。<br>
+　一方、鮭な読者さんが感想という名の卵を産むのも急流の川のせいか結構大変に感じます。<br>
+　流れが緩やかでないからです。つまりシステム的には気兼ねなく感想を伝えることができない状況にあるからと言えるのではないでしょうか。<br>
 <br>
-�@���_�΂����茾���Ă��Ă͂Ȃ�ł��̂ŁA�������l�����q�ׂ܂��B<br>
-�@��̓I�Ȉāi�Ƃ����قǂ̑�w�Ȃ��̂ł͂Ȃ��ł����ǁj�Ŏv���������Ƃ́A���ɂ̃V�X�e����ς��Ă������i��q�̂Ƃ��蕶�ɂ̗��j�I�ȏW�ς̂��ߍ���ł����j�c�B<br>
-�@���邢�́A�����ǎ҂����z�������E�C�����Ƃ����̂��L���Ȏ�i��������܂���B�i��������ɂ̗��j�̏W�ςɎז�����Ă���̂����j<br>
+　問題点ばっかり言っていてはなんですので、自分も考えを述べます。<br>
+　具体的な案（というほどの大層なものではないですけど）で思いついたことは、文庫のシステムを変えていくか（先述のとおり文庫の歴史的な集積のため困難ですが）…。<br>
+　あるいは、ある一読者が感想を書く勇気を持つというのも有効な手段かもしれません。（これも文庫の歴史の集積に邪魔されているのかも）<br>
 <br>
-�@��̐��E������A�����Ď�̐��E�ŏ����Ƃ����s�ׂ͖����̈��݂����Ȃ��̂�����A����̂܂܂ł����Ƃ����l�������邩������܂���B<br>
-�@���͑����A��̗��ꂪ�}���낤���ɂ₩���낤�������Y�ނ�ł��傤�ˁB<br>
+　趣味の世界だから、そして趣味の世界で書くという行為は無償の愛みたいなものだから、現状のままでいいという考えもあるかもしれません。<br>
+　鮭は多分、川の流れが急だろうが緩やかだろうが卵を産むんでしょうね。<br>
 <br>
-�@�ł��A��҂��ǎ҂����傢�Ɣ��C���ȍ����B<br>
-�@�Ȃ񂩂悢���ƂȂ����ȂƓd�g�d���͂܂�����C���ɍl���Ă���̂ł���܂����B<br>
+　でも、作者も読者もちょいと疲れ気味な昨今。<br>
+　なんかよいことないかなと電波妖精はまったり気味に考えているのでありました。<br>
 <br>
-�@�����������܂���B<br>
-�@�Y�ނ����Y��ŁA�����͉�����������l���o���Ȃ��̂ł��B���߂��(T.T)�B<br>
+　ううっすいません。<br>
+　悩むだけ悩んで、自分は何も解決策を考え出せないのです。ごめんよ(T.T)。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -299,24 +299,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[284]</font> <font size=4 color=#50d0d0> ������ӌ���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[284]</font> <font size=4 color=#50d0d0> もう一つ意見を</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/01/29 (��) 02:22:57  ���肫�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200301293022257">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301293022257"></font>
+<font size=-1 color=#606060> 2003/01/29 (水) 02:22:57  きりきり </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200301293022257.cgi">返信</a>　削除<input type=checkbox name="target" value="200301293022257"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">&gt; �^���ŁA�{�N�����z�����Ă��邩��A���z�����Ȃ��Ă�������Ǝv���Ă���l�����邱�Ƃ��������܂����B</font><br>
-�d�g�d������A���܂�C�ɂ��邱�Ƃ́A�Ȃ��Ǝv���܂���B<br>
-���̍l���ł����A���z����������A��������̉e��������̂́A������܂����Ǝv���܂����A���ꂪ�v���X�ɂȂ�Ƃ́A����Ȃ��̂�������O���Ǝv���܂��B<br>
-����ɁA�d�g�d�����񂪁A�������܂Ȃ������Ƃ��Ă��A���̐l���������ނ��ƌ�������A���̉\���͒Ⴂ�Ǝv���܂��B<br>
+<font size=4 color=#000000><font color="#cc88ff">&gt; 某所で、ボクが感想書いているから、感想書かなくてもいいやと思っている人がいることが判明しました。</font><br>
+電波妖精さん、あまり気にすることは、ないと思いますよ。<br>
+私の考えですが、感想を書いたら、何かしらの影響があるのは、あたりまえだと思いますし、それがプラスになるとは、限らないのも当たり前だと思います。<br>
+それに、電波妖精さんが、書き込まなかったとしても、他の人が書き込むかと言ったら、その可能性は低いと思います。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -324,16 +324,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

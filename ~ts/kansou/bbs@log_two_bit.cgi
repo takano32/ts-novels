@@ -258,7 +258,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】それさえもおそらくは平穏な日々……こんな“日常”も、「どこか」ではあたりまえの出来事なのかもしれません。<br>
-<a href=http://ts.novels.jp/novel/200207/19203027/hibikore.html target=_top>http://ts.novels.jp/novel/200207/19203027/hibikore.html</a></font>
+<a href="../../novel/200207/19203027/hibikore.html" target=_top>http://ts.novels.jp/novel/200207/19203027/hibikore.html</a></font>
 </td></table>
 </td></tr></table>
 

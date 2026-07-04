@@ -1,60 +1,60 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�Ԗ�(RED EYE)�����i���z�f����</title>
+<title>赤目(RED EYE)さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�Ԗ�(RED EYE)�����i���z�f����</font>
+<font size=5>赤目(RED EYE)さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="akame_redeye">
 <input type=hidden name="nj" value="gK3YiguTdx">
 <input type=hidden name="res" value="4">
-<h4 align=center>�� �L���ԍ� 4 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 4 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:����Ȃ�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �Ԗڂ���
-&gt; �E�����W�S�Q�U����
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:お礼など"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 赤目さん
+&gt; ・ｍｋ８４２６さん
 &gt; 
-&gt; �܂��ȑO�̃X�g�[���[���o���Ă��ĉ��������悤�ŁA�ƂĂ��������ł��B
-&gt; ���ɂւ̃A�b�v���؂��Ă��邤���ɁA�����̃T�C�g�Ŋ������Ă��܂������̘b�A
-&gt; ������{�`�{�`�܂Ƃ߂ăA�b�v���悤�Ǝv���Ă��܂��B
+&gt; まだ以前のストーリーを覚えていて下さったようで、とても嬉しいです。
+&gt; 文庫へのアップが滞っているうちに、自分のサイトで完結してしまったこの話、
+&gt; 今後もボチボチまとめてアップしようと思っています。
 &gt; 
-&gt; �؎}�͂��̘H�����u���́v�Ƃ������ƂŁc�c���B
-&gt; �H���̃I�o�`�����ɂ��ẮA���΂育�����ł��B���̃C���[�W����L������
-&gt; ������̂ŁA�ǂ����Ȃ�Ɩ��O�������Ă��܂��܂����i�����񂾂낤���H��
+&gt; 華枝はこの路線が「正体」ということで……ｗ。
+&gt; 食堂のオバチャンについては、ずばりご明答です。声のイメージからキャラを
+&gt; 作ったので、どうせならと名前も頂いてしまいました（いいんだろうか？ｗ
 &gt; 
-&gt; ����́A�Y�񂽂����w�Z�֍s���ă}���J�ƑΌ�����u�w�Z�ҁv�i�����̂܂�܁j
-&gt; �ł��B���z�Ɋ��ӂ��܂��B
+&gt; 次回は、雄二たちが学校へ行ってマヤカと対決する「学校編」（←そのまんま）
+&gt; です。感想に感謝します。
 &gt; 
-&gt; �Ekou����
+&gt; ・kouさん
 &gt; 
-&gt; ���ǂݒ����A�L��������܂����B
-&gt; ����ς�؎}�͖\�ꂷ���ł����ˁH���@������A�C�P�C�P�Ȑ��i��������
-&gt; �}������ł��āA���ꂪ�������������ɖ\���c�c�Ƃ��������ŏ����Ă��܂����B
-&gt; �@���ꒆ�ł́A��l�����ɂ�������B���l�̃L�����ɂȂ��Ă����܂����A
-&gt; ����ς��l�͑�l�����Ȃ��ƁA�b���W�J���Â炢�̂ŁB
+&gt; お読み頂き、有難うございました。
+&gt; やっぱり華枝は暴れすぎですかね？ｗ　離婚後、イケイケな性格を自分で
+&gt; 抑えこんでいて、それが酒をきっかけに暴発……という感じで書いていました。
+&gt; 　物語中では、主人公側にいつもいる唯一大人のキャラになっていきますが、
+&gt; やっぱり一人は大人がいないと、話が展開しづらいので。
 &gt; 
-&gt; ����Ƃ��Y��̖\���́i���H�j�����܂���ŁA�܂����ɂȂ�i�ɂ���Ȃ���
-&gt; �v���܂����ǂ��j�ǂ�ł���Ă��������B</textarea><br>
+&gt; 今後とも雄二の暴走は（も？）続きますんで、またお暇なら（暇じゃないと
+&gt; 思いますけどｗ）読んでやってください。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -67,36 +67,36 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> ����Ȃ�</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> お礼など</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/29 (��) 05:44:54 <strong>��</strong> <a href="mailto:redeye2002@mail.goo.ne.jp">�Ԗ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200304292054454&log=akame_redeye">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304292054454"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/29 (火) 05:44:54 <strong>▽</strong> <a href="mailto:redeye2002@mail.goo.ne.jp">赤目</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200304292054454_log_akame_redeye.cgi">返信</a>　削除<input type=checkbox name="target" value="200304292054454"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�E�����W�S�Q�U����<br>
+<font size=3 color=#606060>・ｍｋ８４２６さん<br>
 <br>
-�܂��ȑO�̃X�g�[���[���o���Ă��ĉ��������悤�ŁA�ƂĂ��������ł��B<br>
-���ɂւ̃A�b�v���؂��Ă��邤���ɁA�����̃T�C�g�Ŋ������Ă��܂������̘b�A<br>
-������{�`�{�`�܂Ƃ߂ăA�b�v���悤�Ǝv���Ă��܂��B<br>
+まだ以前のストーリーを覚えていて下さったようで、とても嬉しいです。<br>
+文庫へのアップが滞っているうちに、自分のサイトで完結してしまったこの話、<br>
+今後もボチボチまとめてアップしようと思っています。<br>
 <br>
-�؎}�͂��̘H�����u���́v�Ƃ������ƂŁc�c���B<br>
-�H���̃I�o�`�����ɂ��ẮA���΂育�����ł��B���̃C���[�W����L������<br>
-������̂ŁA�ǂ����Ȃ�Ɩ��O�������Ă��܂��܂����i�����񂾂낤���H��<br>
+華枝はこの路線が「正体」ということで……ｗ。<br>
+食堂のオバチャンについては、ずばりご明答です。声のイメージからキャラを<br>
+作ったので、どうせならと名前も頂いてしまいました（いいんだろうか？ｗ<br>
 <br>
-����́A�Y�񂽂����w�Z�֍s���ă}���J�ƑΌ�����u�w�Z�ҁv�i�����̂܂�܁j<br>
-�ł��B���z�Ɋ��ӂ��܂��B<br>
+次回は、雄二たちが学校へ行ってマヤカと対決する「学校編」（←そのまんま）<br>
+です。感想に感謝します。<br>
 <br>
-�Ekou����<br>
+・kouさん<br>
 <br>
-���ǂݒ����A�L��������܂����B<br>
-����ς�؎}�͖\�ꂷ���ł����ˁH���@������A�C�P�C�P�Ȑ��i��������<br>
-�}������ł��āA���ꂪ�������������ɖ\���c�c�Ƃ��������ŏ����Ă��܂����B<br>
-�@���ꒆ�ł́A��l�����ɂ�������B���l�̃L�����ɂȂ��Ă����܂����A<br>
-����ς��l�͑�l�����Ȃ��ƁA�b���W�J���Â炢�̂ŁB<br>
+お読み頂き、有難うございました。<br>
+やっぱり華枝は暴れすぎですかね？ｗ　離婚後、イケイケな性格を自分で<br>
+抑えこんでいて、それが酒をきっかけに暴発……という感じで書いていました。<br>
+　物語中では、主人公側にいつもいる唯一大人のキャラになっていきますが、<br>
+やっぱり一人は大人がいないと、話が展開しづらいので。<br>
 <br>
-����Ƃ��Y��̖\���́i���H�j�����܂���ŁA�܂����ɂȂ�i�ɂ���Ȃ���<br>
-�v���܂����ǂ��j�ǂ�ł���Ă��������B<br>
+今後とも雄二の暴走は（も？）続きますんで、またお暇なら（暇じゃないと<br>
+思いますけどｗ）読んでやってください。<br>
 </font>
 <p><a href="http://redeye22.hp.infoseek.co.jp/" target="_top">http://redeye22.hp.infoseek.co.jp/</a>
 </td></table>
@@ -105,52 +105,52 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �w�V�Ɋ肢���@���c�ҁi�P�O�`�P�R�b�j�x�Ǘ��B</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 『天に願いを　教団編（１０〜１３話）』読了。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/28 (��) 00:24:29 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200304281002429&log=akame_redeye">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304281002429"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/28 (月) 00:24:29 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200304281002429_log_akame_redeye.cgi">返信</a>　削除<input type=checkbox name="target" value="200304281002429"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@kou@�^�c�ψ��ł��B<br>
+<font size=3 color=#606060>　kou@運営委員です。<br>
 <br>
-�@�����Ԑ̂ɁA�V�Ɋ肢����ǂ񂾊o����������Ƃ�������܂��i�΁j�B�܂��A�^�c�ψ����ᖳ�������ł����ǂˁB<br>
-�@�ŁA�ڂ��ڂ��Ɠǂ݂Ȃ���v���o���Ă�����ǂݏI���̂ɂR�O���B���񂮂炢�A�P�T���œǂ�ł�鎩�M�������ł����B<br>
-��\��b�̉؎}�̑䎌�B<br>
-<font color="#cc88ff">>�\�̃O�����h�Ŕ�ђ��˂ėV��ł��܂���</font><br>
-�@�{�[���݂����ɔ�ђ��˂Ă���Ƃ����z�����Ă��܂��܂����i�R�j�B<br>
+　だいぶ昔に、天に願いをを読んだ覚えがちょっとだけあります（笑）。まだ、運営委員じゃ無かったですけどね。<br>
+　で、ぼちぼちと読みながら思い出していたら読み終わるのに３０分。こんぐらい、１５分で読んでやる自信があるんですが。<br>
+第十一話の華枝の台詞。<br>
+<font color="#cc88ff">>表のグランドで飛び跳ねて遊んでいますわ</font><br>
+　ボールみたいに飛び跳ねているところを想像してしまいました（蹴）。<br>
 <br>
-�@�E�����܂����B���ɖ߂��܂��B<br>
-�@�\��b�̉؎}�̍s���i�ƌ�����茾���j����Ԉ�ۂɎc���Ă��܂��B�����Ŕ���ꂽ���Ƃ����z�A����܂肢�Ȃ��Ǝv���܂��i�΁j�B�����A���d�l�i���A�Ȃ񂩂��Ǝv����ŁA�ǂ����Ȃ�����Ɩ\�������Ă����Ă��������i���΁j�B<br>
-�@�ق�ł����āA�\��b�B<br>
-�@�r���܂ŁA�؎}�̐l�i���C�ɂȂ��Ă������ǁA�Y��N�c�c�c���v�ł����i������ƕs���j�B�����܂Ŗ\������ƌ�߂�o���܂����i�΁j�B�����A�������Ă�肽���ł��B<br>
+　脱線しました。元に戻します。<br>
+　十一話の華枝の行動（と言うより言動）が一番印象に残っています。自分で縛られたいという奴、あんまりいないと思います（笑）。多分、多重人格か、なんかだと思うんで、どうせならもっと暴走させてあげてください（爆笑）。<br>
+　ほんでもって、十二話。<br>
+　途中まで、華枝の人格が気になっていたけど、雄二君………大丈夫ですか（ちょっと不安）。そこまで暴走すると後戻り出来ませんよ（笑）。そう、忠告してやりたいです。<br>
 <br>
-�@����ł́A�Ȃ񂩖�킩��Ȃ����z���ɂȂ��Ă��܂��܂������c�c�B���炢�����܂��B</font>
+　それでは、なんか訳わからない感想文になってしまいましたが……。失礼いたします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/27 (��) 13:48:10 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200304270134810&log=akame_redeye">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304270134810"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/27 (日) 13:48:10 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200304270134810_log_akame_redeye.cgi">返信</a>　削除<input type=checkbox name="target" value="200304270134810"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���͂͂͂͂͂́I<br>
-�㔼�̒e�����Ղ肪�ō��ł��˂��B<br>
-����ɉ؎}����̂��܂�ɂ����L���L�������i�΁j�B<br>
-�قƂ�Ǒ��d�l�i�ɋ߂����̂��������肵�āi���j�B<br>
-����Ⴛ�[�ƐH���̃I�o�`����<br>
-<font color="#cc88ff">&gt; ���c�{���̐����S�ʂ�a����A�ؘa��i�T�Q�j</font><br>
-�I���{���A�p�[�g�Z�l�E��m���^���j�̊炪������ł��܂����i�j���j�B<br>
-����A�Y��̗��e���C�t���Ă��邠����͂������Ƃ������Ȃ�Ƃ������B<br>
-����ɖ��덁�ɂׂ͎Ȃ���̗̂U�f������悤�ł����A�ǂ��Ȃ��Ă��܂��̂��B<br>
-�����}�W�J�B����ǂ��Ȃ邱�Ƃ��B<br>
+<font size=3 color=#606060>あはははははは！<br>
+後半の弾けっぷりが最高ですねぇ。<br>
+それに華枝さんのあまりにも幅広いキャラが（笑）。<br>
+ほとんど多重人格に近いものがあったりして（爆）。<br>
+そりゃそーと食堂のオバチャン<br>
+<font color="#cc88ff">&gt; 教団本部の炊事全般を預かる、青木和代（５２）</font><br>
+オンボロアパート住人・一ノ瀬某女史の顔が浮かんでしまった（核爆）。<br>
+一方、雄二の両親が気付いているあたりはさすがというかなんというか。<br>
+さらに摩耶香には邪なるものの誘惑があるようですが、どうなってしまうのか。<br>
+さあ急展開。次回どうなることやら。<br>
 <br>
-�����^�N�V�͂��̂��b�͂����ł����ǂ�ł��܂���̂ŁA�O�̂��߁B</font>
+※ワタクシはこのお話はここでしか読んでいませんので、念のため。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -158,31 +158,31 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w�V�Ɋ肢���@���c�ҁi�P�O�`�P�R�b�j�x��ǂނɂ͉��̃����N���N���b�N </font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『天に願いを　教団編（１０〜１３話）』を読むには下のリンクをクリック </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/27 (��) 05:57:38 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200304270055738&log=akame_redeye">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304270055738"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/27 (日) 05:57:38 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200304270055738_log_akame_redeye.cgi">返信</a>　削除<input type=checkbox name="target" value="200304270055738"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �Y�񂭂���A���悢�揗�̎q�̐g�̂Ɋ���Ă����݂����ł��B<br>
+<font size=3 color=#606060>【推薦文】 雄二くんも、いよいよ女の子の身体に慣れてきたみたいです。<br>
 </font>
-<p><a href="http://ts.novels.jp/novel/200203/20004846/tenni_b5.htm" target="_top">http://ts.novels.jp/novel/200203/20004846/tenni_b5.htm</a>
+<p><a href="../../novel/200203/20004846/tenni_b5.htm" target="_top">http://ts.novels.jp/novel/200203/20004846/tenni_b5.htm</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="akame_redeye">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=akame_redeye">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_akame_redeye.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

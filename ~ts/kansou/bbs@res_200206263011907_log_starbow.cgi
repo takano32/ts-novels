@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>starbow�����i���z�f����</title>
+<title>starbowさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>starbow�����i���z�f����</font>
+<font size=5>starbowさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="starbow">
 <input type=hidden name="nj" value="TsUscbOJ03">
 <input type=hidden name="res" value="1">
-<h4 align=center>�� �L���ԍ� 1 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 1 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w��Q�{�� ��O�́@�㗝�҂̓�x��ǂނɂ͉��̃����N���N���b�N"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z�쒆�̈����T�����傫���ς�����Ⴂ�܂����B���āA�����������̂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『第２宮家 第三章　代理者の謎』を読むには下のリンクをクリック"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】作中の一日でT氏が大きく変わっちゃいました。さて、何があったのやら。
 &gt; 
 &gt; http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;3.html</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,27 +47,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/01 (��) 23:04:19 <strong>��</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200212010230419&log=starbow">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212010230419"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/01 (日) 23:04:19 <strong>▽</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200212010230419_log_starbow.cgi">返信</a>　削除<input type=checkbox name="target" value="200212010230419"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>starbow�ł��B<br>
+<font size=3 color=#606060>starbowです。<br>
 <br>
-���z�A���肪�Ƃ��������܂��B<br>
-�܂��A�Ԃ������Ă��܂��\���󂠂�܂���ł����B<br>
+感想、ありがとうございます。<br>
+また、間があいてしまい申し訳ありませんでした。<br>
 <br>
-<font color="#cc88ff">&gt;�悵�������܁A</font><br>
-T���{�l�ɂ͈�������ǂ��T���猩��Ɗ쌀�ł�����ˁB<br>
+<font color="#cc88ff">&gt;よしおかさま、</font><br>
+T氏本人には悪いけれども傍から見ると喜劇ですからね。<br>
 <br>
-<font color="#cc88ff">&gt;�����W�S�Q�U���܁A</font><br>
-T���́A�{���ɋ�J�l�ł��ˁB<br>
-�����Ă��āA�C�̓łɂȂ��Ă��܂����B<br>
+<font color="#cc88ff">&gt;ｍｋ８４２６さま、</font><br>
+T氏は、本当に苦労人ですね。<br>
+書いていて、気の毒になってきました。<br>
 <br>
-������́A����ɓ˂�����ŃI�J���g�Ɩ��̘b�ɂȂ�\��ł��B<br>
-����Ƃ��A�X�������肢���܂��B<br>
+次からは、さらに突っ込んでオカルトと夢の話になる予定です。<br>
+今後とも、宜しくお願いします。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -75,17 +75,17 @@ T���́A�{���ɋ�J�l�ł��ˁB<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/01 (��) 22:18:54 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200212010221854&log=starbow">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212010221854"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/01 (日) 22:18:54 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200212010221854_log_starbow.cgi">返信</a>　削除<input type=checkbox name="target" value="200212010221854"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�C���^�[�~�b�V�������[������[������ƌy���b���Ȃ��Ǝv�����猋�\���Ɉ����܂����˂��B<br>
-�s�����Ȃ��Ȃ���J�l�ł���������i���j�B<br>
+<font size=3 color=#606060>インターミッションっつーからもーちょっと軽い話かなぁと思ったら結構次に引きましたねぇ。<br>
+Ｔ氏もなかなか苦労人でいらっしゃる（爆）。<br>
 <br>
-��l���ڋߑ����������Ƃɂ���ĉ����ǂ��ς���Ă����̂��A���Ɋy���݂ł��B</font>
+二人が接近遭遇したことによって何がどう変わっていくのか、非常に楽しみです。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -93,92 +93,92 @@ T���́A�{���ɋ�J�l�ł��ˁB<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �{���ɁA�܂Ȃ��ł́E�E�E</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 本当に、涙なしでは・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/01 (��) 20:29:55 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200212010202955&log=starbow">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212010202955"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/01 (日) 20:29:55 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200212010202955_log_starbow.cgi">返信</a>　削除<input type=checkbox name="target" value="200212010202955"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�΂������炦�Ă����̂ŁA�܂��E�E�E�āA�s���Ɉ������B<br>
-�ł��A���炽�ȏo����������ǂ��������ɂȂ��Ă����̂��B�y���݂ł��B</font>
+<font size=3 color=#606060>笑いをこらえていたので、涙が・・・て、Ｔ氏に悪いか。<br>
+でも、あらたな出来事が今後どういう風になっていくのか。楽しみです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �w��Q�{�� ��l�́@�C���^�[�~�b�V�����x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 『第２宮家 第四章　インターミッション』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/01 (��) 00:53:43 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200212010005343&log=starbow">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212010005343"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/01 (日) 00:53:43 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200212010005343_log_starbow.cgi">返信</a>　削除<input type=checkbox name="target" value="200212010005343"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�悤�₭�ʎi�{�炵���U�镑�����g�ɕt���͂��߂�T���B<br>
-����������́A�܂��܂����w�͂̌��ʂȂ̂ł��B�����A�ق�Ƃɗ܂��܂����c�c(��)<br>
+<font size=3 color=#606060>【推薦文】ようやく玉司宮らしい振る舞いが身に付きはじめたT氏。<br>
+しかしそれは、涙ぐましい努力の結果なのです。そう、ほんとに涙ぐましい……(笑)<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;4.html target=_top>http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;4.html</a></font>
+<a href="../../novel/200203/02172009/2nd_miyake_4.html" target=_top>http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;4.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/06/27 (��) 01:17:04 <strong>��</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200206274011704&log=starbow">�ԐM</a>�@�폜<input type=checkbox name="target" value="200206274011704"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/06/27 (木) 01:17:04 <strong>▽</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200206274011704_log_starbow.cgi">返信</a>　削除<input type=checkbox name="target" value="200206274011704"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>starbow�ł��B<br>
+<font size=3 color=#606060>starbowです。<br>
 <br>
-<font color="#cc88ff">>>�����W�S�Q�U ���܁A<br>
->����Ƃ��Ȃɂ��閧�̕��@�i���荞�݂Ƃ��A�Î��Ƃ��j�������ł��傤���˂��B</font><br>
-�����ł���B���́B<br>
-�����ǁA�閧�ł��B�i���܂�[���l���Ă��Ȃ������肵�āj<br>
+<font color="#cc88ff">>>ｍｋ８４２６ さま、<br>
+>それともなにか秘密の方法（刷り込みとか、暗示とか）があるんでしょうかねぇ。</font><br>
+あるんですよ。実は。<br>
+だけど、秘密です。（あまり深く考えていなかったりして）<br>
 <br>
-<font color="#cc88ff">>���悢��{���̎d�����n�܂����悤�ŁA���ꂩ�炪�y���݂ł��ˁB</font><br>
-����ȍ~�A�����炪���C���X�g�[���ɂȂ�\��ł��B<br>
+<font color="#cc88ff">>いよいよ本来の仕事も始まったようで、これからが楽しみですね。</font><br>
+次回以降、こちらがメインストーリになる予定です。<br>
 <br>
-<font color="#cc88ff">>>�d�g�d�� ���܁A<br>
->�V�����v�[��񂪊�{�Ȃ̂��ȂƎv�����d�g�d���ł����B</font><br>
-�����ł��ˁB��{�݂����ł���B<br>
-���́A���̂悤�Ȃ˂��T���ɐ��������₵�Ă��܂��܂����B�Ӂ[�B<br>
-���Ȃ݂ɁA�Q�l�����́A<br>
- �R�~�b�N�u�R�X���̖��@�v�ق��R�X���{�A�R�X���֌WHP<br>
- �����Q�[���uTrans' �`�l�Ƃ������̋��E���`�v�A�����֌WHP<br>
-�ł��B<br>
+<font color="#cc88ff">>>電波妖精 さま、<br>
+>シャンプー二回が基本なのかなと思った電波妖精でした。</font><br>
+そうですね。基本みたいですよ。<br>
+実は、このようなねた探しに数ヶ月を費やしてしまいました。ふー。<br>
+ちなみに、参考文献は、<br>
+ コミック「コスメの魔法」ほかコスメ本、コスメ関係HP<br>
+ 女装ゲーム「Trans' 〜僕とあたしの境界線〜」、女装関係HP<br>
+です。<br>
 <br>
-<font color="#cc88ff">>���Ɖ�b�������ō\�����ꂽ�ӏ�����������̂��C�ɂȂ�܂����B<br>
->�O�l�̂����ɐ����͂��������Ɨ~�������Ȃ��B</font><br>
-���[�B���񎷕M���́A���P�ł���悤�w�͂��Ă����܂��B<br>
+<font color="#cc88ff">>ちと会話文だけで構成された箇所が多すぎるのが気になりました。<br>
+>三人称だけに説明はもうちっと欲しいかなぁ。</font><br>
+うー。次回執筆時は、改善できるよう努力していきます。<br>
 <br>
-<font color="#cc88ff">>��ȕ����͂ǂ��Ȃ��Ă���̂��c</font><br>
-����ȍ~�A�����炪���C���X�g�[���ɂȂ�\��ł��B<br>
+<font color="#cc88ff">>謎な部分はどうなっているのか…</font><br>
+次回以降、こちらがメインストーリになる予定です。<br>
 <br>
-���z���肪�Ƃ��������܂��B����Ƃ��A�X�������肢���܂��B</font>
+感想ありがとうございます。今後とも、宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> ����A�ǂ񂾁B</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> うん、読んだ。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/06/26 (��) 19:49:06 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200206263194906&log=starbow">�ԐM</a>�@�폜<input type=checkbox name="target" value="200206263194906"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/06/26 (水) 19:49:06 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200206263194906_log_starbow.cgi">返信</a>　削除<input type=checkbox name="target" value="200206263194906"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������������E�E�E����ς菗�̎q�̗��K�̂Ƃ��낪����̃n�C���C�g���E�E�E<br>
-�V�����v�[��񂪊�{�Ȃ̂��ȂƎv�����d�g�d���ł����B<br>
+<font size=3 color=#606060>あうあうあう・・・やっぱり女の子の練習のところが今回のハイライトか・・・<br>
+シャンプー二回が基本なのかなと思った電波妖精でした。<br>
 <br>
-�����A���Ɖ�b�������ō\�����ꂽ�ӏ�����������̂��C�ɂȂ�܂����B<br>
-���ƁA��ȕ����͂ǂ��Ȃ��Ă���̂��c<br>
-�O�l�̂����ɐ����͂��������Ɨ~�������Ȃ��B<br>
-�ς��ς��ς��ς��E�E�E<br>
+ただ、ちと会話文だけで構成された箇所が多すぎるのが気になりました。<br>
+あと、謎な部分はどうなっているのか…<br>
+三人称だけに説明はもうちっと欲しいかなぁ。<br>
+ぱたぱたぱたぱた・・・<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -186,19 +186,19 @@ T���́A�{���ɋ�J�l�ł��ˁB<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/06/26 (��) 06:53:39 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200206263065339&log=starbow">�ԐM</a>�@�폜<input type=checkbox name="target" value="200206263065339"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/06/26 (水) 06:53:39 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200206263065339_log_starbow.cgi">返信</a>　削除<input type=checkbox name="target" value="200206263065339"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂��́B<br>
-�����܂�́u���̎q�̗��K�v�A�����ł��˂��B<br>
-�������A���̌�̂���I�ڂł��ꂾ���ł���Ƃ������Ƃ́A���������ǂ�ȌP�����ǂꂭ�炢������̂��B����Ƃ��Ȃɂ��閧�̕��@�i���荞�݂Ƃ��A�Î��Ƃ��j�������ł��傤���˂��B<br>
-���悢��{���̎d�����n�܂����悤�ŁA���ꂩ�炪�y���݂ł��ˁB<br>
-�Ƃ���łs���i�o�j�A���i�ł����B���̂��Ƃ��s���ɂǂ�ȉe����^�����ł��傤�ˁB<br>
-������������Ɋ��ҁH</font>
+<font size=3 color=#606060>わっはっは。<br>
+おきまりの「女の子の練習」、いいですねぇ。<br>
+しかし、その後のお披露目であれだけできるということは、いったいどんな訓練をどれくらいやったのやら。それともなにか秘密の方法（刷り込みとか、暗示とか）があるんでしょうかねぇ。<br>
+いよいよ本来の仕事も始まったようで、これからが楽しみですね。<br>
+ところでＴ氏（Ｐ）、昇進ですか。このことがＴ氏にどんな影響を与えるんでしょうね。<br>
+こっちも今後に期待？</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -206,31 +206,31 @@ T���́A�{���ɋ�J�l�ł��ˁB<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w��Q�{�� ��O�́@�㗝�҂̓�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『第２宮家 第三章　代理者の謎』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/06/26 (��) 01:19:07 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200206263011907&log=starbow">�ԐM</a>�@�폜<input type=checkbox name="target" value="200206263011907"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/06/26 (水) 01:19:07 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200206263011907_log_starbow.cgi">返信</a>　削除<input type=checkbox name="target" value="200206263011907"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�쒆�̈����T�����傫���ς�����Ⴂ�܂����B���āA�����������̂��B<br>
+<font size=3 color=#606060>【推薦文】作中の一日でT氏が大きく変わっちゃいました。さて、何があったのやら。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;3.html target=_top>http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;3.html</a></font>
+<a href="../../novel/200203/02172009/2nd_miyake_3.html" target=_top>http://ts.novels.jp/novel/200203/02172009/2nd&#95;miyake&#95;3.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="starbow">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=starbow">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_starbow.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

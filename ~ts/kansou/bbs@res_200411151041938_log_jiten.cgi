@@ -1,38 +1,38 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�C�x���g�f����</title>
+<title>イベント掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�C�x���g�f����</font>
+<font size=5>イベント掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="jiten">
 <input type=hidden name="nj" value="9az6KjqEMq">
 <input type=hidden name="res" value="1696">
-<h4 align=center>�� �L���ԍ� 1696 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 1696 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�폜��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��傤���^�c�ψ�����
-&gt; �L���Ɣ��f�������߁A[1691]-[1695]�A[1697]-[1707]�̏������݂��폜���܂����B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:削除報告"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ りょう＠運営委員さん
+&gt; 広告と判断したため、[1691]-[1695]、[1697]-[1707]の書き込みを削除しました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 20 <strong>�ő�L�^�ێ���</strong> 400 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 20 <strong>最大記録保持数</strong> 400 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -45,33 +45,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1716]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u���v</font>
+<font size=2>[1716]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「こ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/21 (��) 00:40:12 <strong>��</strong> ���Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412212004012&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412212004012"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/21 (火) 00:40:12 <strong>▽</strong> 死郎 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412212004012_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412212004012"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ł͒�Ԓ��̒�Ԃ��B<br>
+<font size=3 color=#606060>　では定番中の定番を。<br>
 <br>
-�u���ꂪ�{�N!?�@�����݂̂Ȃ��Ɂ@�т��傤���傪�v<br>
+「これがボク!?　かがみのなかに　びしょうじょが」<br>
 <br>
-�@���炵�܂����B</font>
+　失礼しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1715]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u�v</font>
+<font size=2>[1715]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「つ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/20 (��) 23:35:37 <strong>��</strong> <a href="mailto:IZA00527@nifty.com">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412201233537&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412201233537"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/20 (月) 23:35:37 <strong>▽</strong> <a href="mailto:IZA00527@nifty.com">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412201233537_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412201233537"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u���̂��́@����Ƃ���ȂƁ@����������v�i���̂��́@����Ə��Ɓ@�v���m��j<br>
-�@�����Ȃ肻���������̃l�^�����B</font>
+<font size=3 color=#606060>「つきのもの　くるとおんなと　おもいしる」（月のもの　来ると女と　思い知る）<br>
+　いきなりそっち方向のネタかっ。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -79,34 +79,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1714]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u�Ɂv</font>
+<font size=2>[1714]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「に」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/20 (��) 23:04:40 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412201230440&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412201230440"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/20 (月) 23:04:40 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412201230440_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412201230440"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�ɂ�ۂ��Ł@�Ă��[��������̂́@����ǂ����ȁv<br>
+<font size=3 color=#606060>「にんぽうで　てぃーえすするのは　じゃどうかな」<br>
 <br>
-(�L�[�M�G�j�O������Ɠ���Ȏ��������̂ŏ����Ă݂�e�X�g�B<br>
-������|�����݂ɁB</font>
+(´ー｀；）＾ちょっと難しげな字だったので書いてみるテスト。<br>
+これも掛詞ぎみに。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1713]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u��v</font>
+<font size=2>[1713]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「わ」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/20 (��) 22:55:19 <strong>��</strong> ���Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412201225519&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412201225519"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/20 (月) 22:55:19 <strong>▽</strong> 青太郎 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412201225519_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412201225519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����������܂����̂ŏ��߂Ă̓��e�i�������݁j���܂��B<br>
-�X�������肢���܂��B<br>
+<font size=3 color=#606060>血が沸騰しましたので初めての投稿（書き込み）します。<br>
+宜しくお願いします。<br>
 <br>
-�u�킽�����܁@����˂�̂ڂ����@�����������v<br>
+「わたしいま　きょねんのぼくを　おもいだす」<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -114,70 +114,70 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1712]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u�́v</font>
+<font size=2>[1712]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「は」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/20 (��) 22:52:46 <strong>��</strong> �v�Ă̘Z�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412201225246&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412201225246"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/20 (月) 22:52:46 <strong>▽</strong> 思案の六ぽ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412201225246_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412201225246"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������Ԃɓ���Ă��������B<br>
+<font size=3 color=#606060>私もお仲間に入れてくだせぇ。<br>
 <br>
-�u�͂񂪂��Ɂ@�����邹���ӂ��@�Ȃ�݂̂��ˁv�i�n���K�[�Ɂ@�|���鐧���@�Y�݂̎�j<br>
-���]��ŃX�}�\�B</font>
+「はんがあに　かかるせいふく　なやみのたね」（ハンガーに　掛かる制服　悩みの種）<br>
+字余りでスマソ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1711]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u���v</font>
+<font size=2>[1711]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「か」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/20 (��) 22:47:21 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412201224721&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412201224721"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/20 (月) 22:47:21 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412201224721_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412201224721"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�����݂݂ā@���ꂪ�Ȃ��̂Ɂ@���Â�����v<br>
+<font size=3 color=#606060>「かがみみて　あれがないのに　きづいたよ」<br>
 <br>
-(�L�[�M�G�j�O�|���H</font>
+(´ー｀；）＾掛詞？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1710]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u���v</font>
+<font size=2>[1710]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「す」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/20 (��) 20:23:29 <strong>��</strong> ���̎s�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412201202329&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412201202329"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/20 (月) 20:23:29 <strong>▽</strong> この市場 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412201202329_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412201202329"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�l���n�߂�ƈӊO�ɔY�ނ̂ŁA�f���Ɍ�납���ԖڂŁB<br>
+<font size=3 color=#606060>考え始めると意外に悩むので、素直に後ろから二番目で。<br>
 <br>
-�u�������Ƃ́@�����������邵�@�͂��������v�i�X�J�[�g�́@�X�[�X�[���邵�@�p���������j</font>
+「すかあとは　すうすうするし　はずかしい」（スカートは　スースーするし　恥ずかしい）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1709]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u��v</font>
+<font size=2>[1709]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「ん」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/20 (��) 01:17:25 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412201011725&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412201011725"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/20 (月) 01:17:25 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412201011725_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412201011725"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ł͑������炵�܂��āB<br>
+<font size=3 color=#606060>では早速失礼しまして。<br>
 <br>
-�u��Ȃ��قȁ@�����߂��߂���@����ɂイ�Ƃ́v(��ȃA�z�ȁI�@���ڊo�߂���@�����Ƃ͂�)<br>
+「んなあほな　あさめざめたら　きょにゅうとは」(んなアホな！　朝目覚めたら　巨乳とはっ)<br>
 <br>
-�ӂ���͋C�܂܂Ɋ��z���������Ē����Ă��邾���ł��̂ŁA���܂ɂ͎g���Â炻���Ȍ��t�ŏ����͂��n���Ȃ��Ƃ������Ă������������Ǝv���܂��B<br>
-���n�����łɋ��̂ɂ��c�c�B<br>
+ふだんは気ままに感想を書かせて頂いているだけですので、たまには使いづらそうな言葉で少しはお馬鹿なことをさせていただこうかと思います。<br>
+お馬鹿ついでに狂歌にも……。<br>
 <br>
-�u��ȃA�z�ȁI�@���ڊo�߂���@�����Ƃ͂��@�����o�M�́@�d�ƂƎv���v<br>
+「んなアホな！　朝目覚めたら　巨乳とはっ　多分姉貴の　仕業と思う」<br>
 <br>
 </font>
 </td></table>
@@ -186,146 +186,146 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1708]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �T�O�O���g�����L�O�C�x���g���e</font>
+<font size=2>[1708]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ５００万Ｈｉｔ記念イベント第二弾</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/19 (��) 21:16:24 <strong>��</strong> �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412190211624&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412190211624"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/19 (日) 21:16:24 <strong>▽</strong> ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412190211624_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200412190211624"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���`���`���Q��Ɓ`�A�����`���`��<br>
+<font size=3 color=#606060>　も〜い〜くつ寝ると〜、お正〜月〜♪<br>
 <br>
-�@�c�c���ĂȂ킯�Łi�΁j�A�T�O�O���g�����L�O�C�x���g���e�Ƃ��܂��āA����́w�s�r����͂��邽�x���݂�Ȃō���Ă݂悤�Ǝv���܂��B<br>
-�@�܂��́A���̃C�x���g�f���ŁA�ǂݎD���W���܂��B<br>
-�@�ِ��ϐg杂Ɋ֘A���������A����͎l�\�������ɑΉ������ď�������ł��������B<br>
+　……ってなわけで（笑）、５００万Ｈｉｔ記念イベント第二弾としまして、今回は『ＴＳいろはがるた』をみんなで作ってみようと思います。<br>
+　まずは、このイベント掲示板で、読み札を募集します。<br>
+　異性変身譚に関連した一句を、いろは四十八文字に対応させて書き込んでください。<br>
 <br>
-�@�|��|<br>
-�@���@�c�@���ꂩ���@�{�N�̂߂̂܂��@�{�N������i����ւ��A�{�N�̖ڂ̑O�{�N������j<br>
-�@��@�c�@����肵�傤���Ł@�ނ˂����ށi�_���؋��ŋ������ށj<br>
-�@�́@�c�@�͂Ȃ������܂��@���Ԃ�̂ʂ��ǁi�@���o���܂��A�����̃k�[�h�j<br>
+　−例−<br>
+　い　…　いれかわり　ボクのめのまえ　ボクがいる（入れ替わり、ボクの目の前ボクがいる）<br>
+　ろ　…　ろんよりしょうこで　むねをもむ（論より証拠で胸をもむ）<br>
+　は　…　はなぢだします　じぶんのぬうど（鼻血出します、自分のヌード）<br>
 <br>
-�@����͂̏��ԂłȂ��Ă��A�ǂ̕������珑������ł��������Ă����܂��܂���B<br>
-�@���Y�~�J���Łi�܁E���E�܂łȂ��Ă������ł��j�A�u�G���`�v�Ȉ������肢���܂��i�΁j�B<br>
-�@���������ɕ����̋傪�d�Ȃ��Ă��A����͂���ł��܂�Ȃ��Ǝv���Ă��܂��B�܂��A�����┼�����A�J�^�J�i����n�܂��Ă��n�j�Ƃ��܂��B<br>
-�@������̂��ɂ�����ЂƂ܂Ƃ߂ăA�b�v���A���̎��_�ŊG�t���񂽂�����A�G�D���W���悤�ƍl���Ă��܂��B<br>
+　いろはの順番でなくても、どの文字から書き込んでいただいてもかまいません。<br>
+　リズミカルで（五・七・五でなくてもいいです）、「萌え〜」な一句をお願いします（笑）。<br>
+　同じ文字に複数の句が重なっても、それはそれでかまわないと思っています。また、濁音や半濁音、カタカナから始まってもＯＫとします。<br>
+　しかるのちにそれをひとつまとめてアップし、その時点で絵師さんたちから、絵札を募集しようと考えています。<br>
 <br>
-�@���Ȃ݂Ɂu����͂����v�́A���̒ʂ�ł��B<br>
+　ちなみに「いろはうた」は、次の通りです。<br>
 <br>
-�@����͂ɂقւƁ@����ʂ���@�킩�悽�ꂻ�@�˂Ȃ�ށ@����i���j�̂�����܁@���ӂ����ā@��������߂݂��@��i���j�Ђ������@��<br>
+　いろはにほへと　ちりぬるを　わかよたれそ　つねならむ　うゐ（い）のおくやま　けふこえて　あさきゆめみし　ゑ（え）ひもせす　ん<br>
 <br>
-�@�ǂݎD�̕�W���Ԃ́A�Q�O�O�T�N�̈ꌎ���܂łƂ��܂��B<br>
-�@����ł́A�F�l���̂��Q�������҂����Ă���܂��B</font>
+　読み札の募集期間は、２００５年の一月末までとします。<br>
+　それでは、皆様方のご参加をお待ちしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1696]</font> <font size=4 color=#40c0c0> �폜��</font>
+<font size=2>[1696]</font> <font size=4 color=#40c0c0> 削除報告</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/11/15 (��) 04:19:38 <strong>��</strong> ��傤���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200411151041938&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411151041938"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/11/15 (月) 04:19:38 <strong>▽</strong> りょう＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200411151041938_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200411151041938"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�L���Ɣ��f�������߁A[1691]-[1695]�A[1697]-[1707]�̏������݂��폜���܂����B</font>
+<font size=3 color=#606060>広告と判断したため、[1691]-[1695]、[1697]-[1707]の書き込みを削除しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1690]</font> <font size=4 color=#40c0c0> �폜��</font>
+<font size=2>[1690]</font> <font size=4 color=#40c0c0> 削除報告</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/11/03 (��) 00:26:21 <strong>��</strong> ��傤���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200411033002621&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411033002621"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/11/03 (水) 00:26:21 <strong>▽</strong> りょう＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200411033002621_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200411033002621"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�L���Ɣ��f�������߁A[1689]�̏������݂��폜���܂����B</font>
+<font size=3 color=#606060>広告と判断したため、[1689]の書き込みを削除しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1688]</font> <font size=4 color=#40c0c0> �����Y�ꂽ���t������E�E�E</font>
+<font size=2>[1688]</font> <font size=4 color=#40c0c0> 言い忘れた言葉を幾つか・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/10 (��) 17:54:38 <strong>��</strong> �閲 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409105175438&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409105175438"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/10 (金) 17:54:38 <strong>▽</strong> 夜夢 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409105175438_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409105175438"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�\��ɂ���l�ɁA�����Y�ꂽ���t������E�E�E<br>
-�@TS�L���m���{�[���̎��s�ψ���MONDO����A�Q���҂̊F����A�ǂ��������l�ł����B������MONDO����A���[�X�_�C�W�F�X�g�̍쐬���肪�Ƃ��������܂����B<br>
-�@TRPG�Ɏ������͋C�������ĂƂĂ��y���������ł����B<br>
+<font size=3 color=#606060>　表題にある様に、言い忘れた言葉を幾つか・・・<br>
+　TSキャノンボールの実行委員のMONDOさん、参加者の皆さん、どうもお疲れ様でした。そしてMONDOさん、レースダイジェストの作成ありがとうございました。<br>
+　TRPGに似た雰囲気があってとても楽しい月日でした。<br>
 <br>
-����Ȓ��ŁE�E�E���[�X�ł̔��ȓ_��������ł��E�E�E<br>
-�@����́A�~�X�g���X�V���[�Y�̌���l�𓮂����Ă��܂������Ƃł��ˁB�i�O�����E�}�X�^�[�ƃA�[���ł��j<br>
-�@�A�[���l�͂Ƃ������A�O�����E�}�X�^�[�Ƀ��[�X�����������H�ڂɂȂ�Ƃ́E�E�E�i�J�n�C�^�����q�j<br>
+そんな中で・・・レースでの反省点が一つあるんです・・・<br>
+　それは、ミストレスシリーズの御大二人を動かしてしまったことですね。（グラン・マスターとアールです）<br>
+　アール様はともかく、グラン・マスターにレースを介入させる羽目になるとは・・・（カハイタワラヒ）<br>
 <br>
 <br>
-�@����ƁA���́E�E�ETS�L���m���{�[����m��O�ɂ�����Ƃ΂���l���Ă�����悪�����ł��B<br>
-�@����́A�u�~�X�g���X�n�E�X�v��Ẩ���i�p�[�e�B�[�j�E�E�E�������A�o����闿���́g�����h�����łȂ��A�����l�i�g�����h�̗����̎t���A�~�X�g���X�̒m�l�̐�ρj���ɏo�Ē����A�u�E�B�U�[�Y�n�E�X�v�i�O�����E�}�X�^�[�̓X�j��u�I�t�B�X�E���[���A�v�i�~�X�g���X�E�L���N�̒�q�̓X�j�̖ʁX�����͂��Ė���ẴA�g���N�V�����𐔎�p�ӂ��āE�E�E<br>
-�E�E�E����ȉ���ɕ��ɃL�����B���W�܂��ă��C���C�Ƒ����l�q�������[�������ɕ��ɍ�Ƃ̊F�l�Ə����Ă䂭�E�E�E�ƌ����b���v���t���Ă����̂ł����E�E�E<br>
-�E�E�E����Ȋ��͔@���ł��傤���H<br>
-�i�ȑO�A��������̏��ł���������̏Ă��񂵂ƌ�����ƁA�ے�͏o���Ȃ��̂ł����E�E�E�j</font>
+　それと、実は・・・TSキャノンボールを知る前にちょっとばかり考えていた企画があるんです。<br>
+　それは、「ミストレスハウス」主催の宴会（パーティー）・・・しかも、出される料理は“うさ”だけでなく、庖姐様（“うさ”の料理の師匠、ミストレスの知人の仙狐）等に出て頂き、「ウィザーズハウス」（グラン・マスターの店）や「オフィス・リーリア」（ミストレス・キリクの弟子の店）の面々も協力して貰ってのアトラクションを数種用意して・・・<br>
+・・・そんな宴会に文庫キャラ達が集まってワイワイと騒ぐ様子をリレー小説風に文庫作家の皆様と書いてゆく・・・と言う話を思い付いていたのですが・・・<br>
+・・・こんな企画は如何でしょうか？<br>
+（以前、眠夢さんの所であった宴会の焼き回しと言われると、否定は出来ないのですが・・・）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1687]</font> <font size=4 color=#40c0c0> ����������̘b���B</font>
+<font size=2>[1687]</font> <font size=4 color=#40c0c0> 早くも次回の話を。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/10 (��) 05:30:01 <strong>��</strong> �\�Z�遗�키�O�ɔs�k </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409105053001&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409105053001"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/10 (金) 05:30:01 <strong>▽</strong> 十六夜＠戦う前に敗北 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409105053001_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409105053001"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�A�����e���I���_�P�I���������Ă���������ł�����(��)<br>
-<font color="#ff88cc">�������ł��ˁB����������A�ِ��E�`�����Ȃ񂩂��ǂ��Ǝv���܂��B</font><br>
-�Ƃ���XYZ���܂̈ӌ��𔭓W�����܂��āA�ЂƂl���Ă݂܂����B<br>
-����ȍ�i�̃L�����N�^�[�Ń`�[����g�݁AMMO�̂悤�Ȑ��E�����ɂ͋��͂������A���ɂ͐킢�Ȃ���`�����Ă����I�<br>
+<font size=3 color=#606060>あわわ、連続投稿だ！減点１！･･････ってもういいんでしたね(笑)<br>
+<font color="#ff88cc">＞そうですね。私だったら、異世界冒険物なんかが良いと思います。</font><br>
+というXYZさまの意見を発展させまして、ひとつ考えてみました。<br>
+｢自己作品のキャラクターでチームを組み、MMOのような世界を時には協力し合い、時には戦いながら冒険していく！｣<br>
 <br>
-���������߂��A����ł�TS�L���m���{�[���Ƃ��񂺂�ς��Ȃ�������(��)<br>
-����A�ł��ق�A���@�Ƃ��C�y�ɏo���܂����I�����X�^�[�Ƃ̐킢�̕`�ʂ��\�ł����I<br>
-���E�ς����፬���Ŋy�ł����I����苦�̓v���C�̕����L����܂����I<br>
-�𗬂�[�߂�Ƃ����_�ł͂ƂĂ������Ă��Ǝv����ł���I<br>
+･･････だめだ、これではTSキャノンボールとぜんぜん変わらない･･････(泣)<br>
+いや、でもほら、魔法とか気楽に出せますし！モンスターとの戦いの描写も可能ですし！<br>
+世界観ごちゃ混ぜで楽ですし！何より協力プレイの幅が広がりますし！<br>
+交流を深めるという点ではとてもいい案だと思うんですよ！<br>
 <br>
-���������݂܂���ł����A�o�����Ă��܂��������B</font>
+･･････すみませんでした、出直してきます･･････。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1686]</font> <font size=4 color=#40c0c0> ��̍Ղ�ł��ȁi�΁j</font>
+<font size=2>[1686]</font> <font size=4 color=#40c0c0> 後の祭りですな（笑）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/10 (��) 04:34:13 <strong>��</strong> �\�Z�遗�키�O�ɔs�k </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409105043413&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409105043413"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/10 (金) 04:34:13 <strong>▽</strong> 十六夜＠戦う前に敗北 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409105043413_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409105043413"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��ʓ��܂̕����A�ɂ������s�ꂽ�����A�\�����Ŋ���ɐ�������Ă���B����Ȏ��߁A�X�^�[�g�n�_�߂��ł́B<br>
-�B�u�����������B�\�Z��B<br>
-�\�u�����������B<br>
-���u�ʔ������Ƃ��Ă����ˁA�{���ɁB<br>
-���u����ȂɊ撣���ĐF�X�Z�b�e�B���O�����̂ɥ���B<br>
-�B�u�O��Ń{�[���Ƃ��Ă��̂͂킩�邪�ȁB<br>
-���u���ɂ���čŏI���펩���X�C�b�`�������Ƃ͂˂�����B<br>
-�\�u����������܂���(��)<br>
-�B�E���E���u������������B<br>
-�\�u�ӂ����������B<br>
-�B�u����������������[�I�������A�������[���I�I�I<br>
-[���܂�(�H)�Ԃɍ���Ȃ������Q���\����]<br>
-�y�`�[�����zAmoad�V�l���U���{��<br>
-�y���C���h���C�o�[�z����B<br>
-�y�T�|�[�^�[�Y�z�}�u���m��@���c���@�\�Z��<br>
-�y����}�V���zAmoad RiderK2AI<br>
-�y���ڕ���z���w�ȑ��˃��[�U�[�@�A�g�~�b�N�g�����W�X�^�V�[���h�@�X���[�N�{��TS�@���̑����X�B�������@�����@�\<br>
-�y�o���i�zSwitch!<br>
-�y��ҁz�\�Z��<br>
+<font size=3 color=#606060>上位入賞の方も、惜しくも敗れた方も、表彰式で歓喜に酔いしれている。そんな時節、スタート地点近くでは。<br>
+唯「･･････おい。十六夜。<br>
+十「･･･あい･･･。<br>
+清「面白いことしてくれるね、本当に。<br>
+湊「あんなに頑張って色々セッティングしたのに･･･。<br>
+唯「徹夜でボーっとしてたのはわかるがな。<br>
+清「よりによって最終兵器自爆スイッチを押すとはねえ･･･。<br>
+十「･･････すんません(泣)<br>
+唯・清・湊「･･･････････。<br>
+十「ふぇぇぇぇぇ。<br>
+唯「･･････ちっくしょー！次こそ、次こそーっ！！！<br>
+[おまけ(？)間に合わなかった参加申込書]<br>
+【チーム名】Amoad新人特攻隊＋α<br>
+【メインドライバー】剣崎唯<br>
+【サポーターズ】笠置清ノ介　相田湊　十六夜<br>
+【搭乗マシン】Amoad RiderK2AI<br>
+【搭載兵器】光学科速射レーザー　アトミックトランジスタシールド　スモークボムTS　その他諸々隠し装備　自爆機構<br>
+【登場作品】Switch!<br>
+【作者】十六夜<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -333,125 +333,125 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1685]</font> <font size=4 color=#40c0c0> ���m�点���̂ق��B</font>
+<font size=2>[1685]</font> <font size=4 color=#40c0c0> お知らせそのほか。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/07 (��) 21:41:33 <strong>��</strong> �l�n�m�c�n�����s�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409072214133&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409072214133"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/07 (火) 21:41:33 <strong>▽</strong> ＭＯＮＤＯ＠実行委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409072214133_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409072214133"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B<br>
-�@�u�s�r�L���m���{�[���I�v�̃y�[�W��ҏW�������܂����B<br>
-�@�p�[�e�B���X�^�[�g���̉ߋ����O�A���[�X�_�C�W�F�X�g�A�����ăS�[�����O�`���Ղ̉ߋ����O���܂Ƃ߂Ă���܂��B<br>
-�@�������������B<br>
+<font size=3 color=#606060>　ＭＯＮＤＯです。<br>
+　「ＴＳキャノンボール！」のページを編集し直しました。<br>
+　パーティ＆スタート時の過去ログ、レースダイジェスト、そしてゴール直前〜後夜祭の過去ログをまとめてあります。<br>
+　ご覧ください。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200112/20210702/event01.htm target=_top>http://ts.novels.jp/novel/200112/20210702/event01.htm</a><br>
+<a href="../../novel/200112/20210702/event01.htm" target=_top>http://ts.novels.jp/novel/200112/20210702/event01.htm</a><br>
 <br>
-<font color="#ff88cc">���s�r�����܂Ȃ�A�N���X�^�[����̏��̃`�[�����쌴���Z�A<br>
-���������܂��܂́A���肪�����ȂƂ��낾���Ǘ�ނ���̏��̂s�������@�b���������Ə�e����̏��̃h���t�g�E�s�A<br>
-���^�ʖڃ��[�X�ҏ܂́A���������������U����̏��̉������[�邸���ȁB<br>
-�������āA�閲����̏��̃~�X�g���X�E�h���[���E�`�[���́A�W�Q�H��ҏ܂ŗǂ��Ǝv�����A<br>
-�����x����̏��̘Q�����Z�I�J���g���́A����ς�A�ЊQ�����ҏ܁A<br>
-�������낤����̏��̐������Z�}�l�[�W���[�Y�́A�Y�񂾂���ǂ��A�����ҏ܂����肩�ȁB<br>
-�����ő��s�r���������<br>
-������̓I�J���g�����ȁH�s�r�n����S�����񂾂񂾂���i�΁j</font><br>
+<font color="#ff88cc">＞ＴＳ兵器大賞なら、クラスターさんの所のチーム杉野原高校、<br>
+＞巻き込まれ大賞は、判定が微妙なところだけど鈴奈さんの所のＴｅａｍ　Ｃｅｌｎａと城弾さんの所のドリフト・Ｔ、<br>
+＞真面目レース者賞は、ｋａｇｅｒｏｕ６さんの所の演劇がーるずかな。<br>
+＞続いて、夜夢さんの所のミストレス・ドリーム・チームは、妨害工作者賞で良いと思うし、<br>
+＞干支さんの所の浪国高校オカルト部は、やっぱり、災害発生者賞、<br>
+＞いちろうさんの所の清凰高校マネージャーズは、悩んだけれども、爆走者賞あたりかな。<br>
+＞＞最多ＴＳさせられ大賞<br>
+＞これはオカルト部かな？ＴＳ地雷を全部踏んだんだから（笑）</font><br>
 <br>
-�@�Ȃ�قǁB<br>
-�@���s�ψ��Ƃ��Ăł͂Ȃ��A�l�n�m�c�n�l�Ƃ��Ă͂��̃C�x���g�Œa�������ނ�ɉ�������̏܂������グ�����Ǝv���Ă��܂��B<br>
+　なるほど。<br>
+　実行委員としてではなく、ＭＯＮＤＯ個人としてはこのイベントで誕生した彼らに何かしらの賞を差し上げたいと思っています。<br>
 <br>
-�@�܂��A���J�����q�����������K�p�y�b�g�E�K�[���Y�����̃��[�_�[�ɂ��āA�����Ă���Ƃ��������܍��΂�������֏��ނ���ɁB<br>
-�@��l�ڂ͗①�ɂ���ϐg�������𗧂����C�h���{�̃��C�����ɁB<br>
-�@�����ĎO�l�ڂ́A�Ō�̍Ō�ňӒn�������Ă��ꂽ�A�Ɩ�̒Óc���ɁB<br>
+　まず、メカ耳女子高生部隊メガパペット・ガールズたちのリーダーにして、おだてられるとおぜうさま高笑いをする輪上零奈さんに。<br>
+　二人目は冷蔵庫から変身したお役立ちメイドロボのレイちやんに。<br>
+　そして三人目は、最後の最後で意地を見せてくれた、家鳴りの津田沼に。<br>
 <br>
-�@�����ǂ����Ŕނ�ƍĉ�ł������M���āB</font>
+　いつかどこかで彼らと再会できる日を信じて。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1684]</font> <font size=4 color=#40c0c0> ���̌�ɁE�E�E�i�F����Ɋ��Ӂi�O�O�j</font>
+<font size=2>[1684]</font> <font size=4 color=#40c0c0> 宴の後に・・・（皆さんに感謝（＾＾）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/06 (��) 04:57:05 <strong>��</strong> �������[�邸�����������������U </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409061045705&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409061045705"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/06 (月) 04:57:05 <strong>▽</strong> 演劇がーるず＠ｋａｇｅｒｏｕ６ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409061045705_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409061045705"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060><br>
-���[��A�F���̂܂ɂ��\���܂ŏ�������ł����Ȃ�(;^_^�`<br>
-����ς肫����ƏI��ɂ��Ȃ��ƁE�E�E�E�Ȃ̂���<br>
+うーん、皆いつのまにか表彰まで書きこんでいるよなぁ(;^_^Ａ<br>
+やっぱりきちんと終りにしないと・・・・なのかな<br>
 <br>
-�Ƃ����킯�ŁA�ŏI��(;^_^�`<br>
+というわけで、最終回(;^_^Ａ<br>
 <br>
-��l�͎Ԃ���~��āA�\�����𒭂߂Ă���<br>
-�e�`�[���̑�\���\����ɏオ���āA���Ɏ��U���Ă���<br>
-���̈ꓮ��ɊF���甏�肪�N����A���͋����̒��_�ɒB���Ă���l������<br>
+二人は車から降りて、表彰式を眺めていた<br>
+各チームの代表が表彰台に上がって、廻りに手を振っている<br>
+その一動作に皆から拍手が起こり、会場は興奮の頂点に達している様だった<br>
 <br>
-�b�u�������v<br>
-���u�ǂ��ɁH�v<br>
-�b�u���������v<br>
-���u�Ȃ�ŁH�v<br>
-�b�u�ӂ��E�E�E�C�����͔��邳�A�ł��E�E�E���̐l�B�ƈꏏ����������A���̋C����������񂶂�Ȃ��̂��v<br>
-���u�E�E�E�E�v<br>
-�b�u������Əj�����ׂ����낤�E�E�E�������Ԃ��߂��������̂Ƃ��āE�E�E�v<br>
-���u���ˁE�E�E��������v<br>
+恵「いくぞ」<br>
+直「どこに？」<br>
+恵「あそこさ」<br>
+直「なんで？」<br>
+恵「ふぅ・・・気持ちは判るさ、でも・・・あの人達と一緒だったから、その気持ちもあるんじゃないのか」<br>
+直「・・・・」<br>
+恵「きちんと祝福すべきだろう・・・同じ時間を過ごしたものとして・・・」<br>
+直「だね・・・判ったわ」<br>
 <br>
-��l�͔���̖�~�܂Ȃ����ɕ����o���Ă���<br>
-���������߂������l<br>
-���������߂��������m<br>
-�����̒��ł͂ǂ����ׂ����ǂ��͔���Ȃ�<br>
-�l�g�ɓ����Ă��������ɁA�����͈Â��Ɩ��ɏƂ炳��Ă����Ԃ�U�肩������<br>
+二人は拍手の鳴り止まない会場に歩き出していた<br>
+同じ時を過ごした人<br>
+同じ時を過ごしたモノ<br>
+自分の中ではどうすべきか良くは判らない<br>
+人波に入っていった時に、直美は暗い照明に照らされていた車を振りかえった<br>
 <br>
-�h���߂�ˁE�E�E�����āA���肪�Ƃ��E�E�E�E�h<br>
+”ごめんね・・・そして、ありがとう・・・・”<br>
 <br>
-�����͂ЂƂ�l�ɂȂ��Ă�����<br>
+少女はひとつ大人になっていった<br>
 <br>
-�I��E�E�E�E<br>
+終り・・・・<br>
 <br>
 <br>
-<font color="#ff88cc">���S �������[�邸 �Q�P�P�|�C���g</font><br>
-�O���҂����|�C���g�������Ă��ĂȂ�Ƃ����܂ł��܂�����(;^_^�`<br>
-<font color="#ff88cc">���������[�邸��h�q���̖ʁX�ƗF�B�ɂȂ��</font><br>
-�����ł��ˁA�����炱�����낢��Ƃ����b�ɂȂ�A�܂��y�����H���i�΁j���o�������͊����������ł�(;^_^�`<br>
-<font color="#ff88cc">���l�܂Ƃ�<br>
-���^�ʖڃ��[�X�ҏ܂́A���������������U����̏��̉������[�邸����</font><br>
-���[��A���������Ă��炤�Ɣw�����ނ��ނ����Ă��܂��C���˂�(;^_^A<br>
-�����A�������������Ƃ��v���Ă��Ă����l������̂͊��������Ƃł���<br>
+<font color="#ff88cc">＞４ 演劇がーるず ２１１ポイント</font><br>
+前半稼いだポイントが効いていてなんとか入賞できましたか(;^_^Ａ<br>
+<font color="#ff88cc">＞演劇がーるずや防衛隊の面々と友達になれて</font><br>
+そうですね、こちらこそいろいろとお世話になり、また楽しい食事（笑）が出来た事は嬉しかったです(;^_^Ａ<br>
+<font color="#ff88cc">＞個人賞とか<br>
+＞真面目レース者賞は、ｋａｇｅｒｏｕ６さんの所の演劇がーるずかな</font><br>
+うーん、そう言ってもらうと背中がむずむずしてしまう気がねぇ(;^_^A<br>
+ただ、こう言ったことを思っていてくれる人がいるのは嬉しいことですね<br>
 <br>
-�Ō�ɂȂ�܂������A���E�^�c���ꂽ�l�n�m�c�n����Ɉꌾ<br>
+最後になりましたが、企画・運営されたＭＯＮＤＯさんに一言<br>
 <br>
-�������ԁA�y���܂��Ă��������Ăǂ������肪�Ƃ��������܂���m(__)m<br>
-����ƁA�������[�邸�ƈꏏ�Ƀ��[�X���������e�`�[���̊F���񂠂肪�Ƃ��������܂���m(__)m<br>
+長い期間、楽しませてくださってどうもありがとうございましたm(__)m<br>
+それと、演劇がーるずと一緒にレース下さった各チームの皆さんありがとうございましたm(__)m<br>
 <br>
-�܂����̓����A�ǂ����ł�����܂��傤(^-^)ɼ</font>
+またいつの日か、どこかでお会いしましょう(^-^)ﾉｼ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1683]</font> <font size=4 color=#40c0c0> �\����</font>
+<font size=2>[1683]</font> <font size=4 color=#40c0c0> 表彰式</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/05 (��) 17:51:52 <strong>��</strong> ��ށ��s�������@�b��������  </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409050175152&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409050175152"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/05 (日) 17:51:52 <strong>▽</strong> 鈴奈＠Ｔｅａｍ　Ｃｅｌｎａ  </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409050175152_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409050175152"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��ʂQ�`�[���i���V���w���h�q���A�~�X�g���X�E�h���[���E�`�[���j�̕\�����I���A�Ō�̕\���ƂȂ����s�������@�b���������̓�l�B<br>
-���j���̊����A�A���A�̓��̏�ɔ킹���A�Δ�̊֌W�ő傫�߂Ɍ�����g���t�B�[�́A�A���T�̗��̎�̒��Ɏ��܂����B<br>
+<font size=3 color=#606060>上位２チーム（高天原学園防衛隊、ミストレス・ドリーム・チーム）の表彰を終え、最後の表彰となったＴｅａｍ　Ｃｅｌｎａの二人。<br>
+月桂樹の冠が、アリアの頭の上に被せられ、対比の関係で大きめに見えるトロフィーは、アリサの両の手の中に収まった。<br>
 <br>
-�R�l�̏��̎q�����i�A�[�e�B�A�C���A�ʑ������j���A���䂵���˂��V�����p���V�����[���A�h�q���̕��ɔ��ł����̂��݂āc<br>
-�A���A�F�i�A���T�A��ނ���ɁA�i�V�����p���̌��j����������Ă����H�i�ɂ���j�j<br>
-�A���T�F�i�����A�o�l�Ȃ�B�i�ɂ���j�j<br>
-�A���A�F�i����A������B�j<br>
-�ȂƂƂ����������������Ă���Ƃ́A�S�R�m��Ȃ���ꖼ�ɂ��̌�~���ė���ߌ��H�i�{�l�ȊO�͊쌀�j�͂����Č��܂��c<br>
+３人の女の子たち（アーティ、辰美、玉藻ちゃん）が、制御し損ねたシャンパンシャワーが、防衛隊の方に飛んでいくのをみて…<br>
+アリア：（アリサ、鈴奈さんに、（シャンパンの口）向けちゃっていい？（にたり））<br>
+アリサ：（ええ、姉様なら。（にたり））<br>
+アリア：（じゃ、いくよ。）<br>
+なとという事を言い合っているとは、全然知らない約一名にこの後降って来る悲劇？（本人以外は喜劇）はあえて語るまい…<br>
 <br>
-�\�\�\�\�\�\<br>
-�Y���B<br>
-�Ƃ����킯�ŁA���܂��X�g�[���[�������ɏo�Ă��܂����B<br>
+——————<br>
+戯言。<br>
+というわけで、おまけストーリーを書きに出てきました。<br>
 <br>
-<font color="#ff88cc">���ő��s�r���������</font><br>
-����̓I�J���g�����ȁH�s�r�n����S�����񂾂񂾂���i�΁j</font>
+<font color="#ff88cc">＞最多ＴＳさせられ大賞</font><br>
+これはオカルト部かな？ＴＳ地雷を全部踏んだんだから（笑）</font>
 <p><a href="http://www.h3.dion.ne.jp/~haghag/ura/" target="_top">http://www.h3.dion.ne.jp/~haghag/ura/</a>
 </td></table>
 </td></tr></table>
@@ -459,97 +459,97 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1682]</font> <font size=4 color=#40c0c0> �x���Ȃ�܂������A�݂Ȃ���A�����l�ł����B</font>
+<font size=2>[1682]</font> <font size=4 color=#40c0c0> 遅くなりましたが、みなさん、お疲れ様でした。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/05 (��) 13:25:20 <strong>��</strong> �w�x�y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409050132520&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409050132520"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/05 (日) 13:25:20 <strong>▽</strong> ＸＹＺ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409050132520_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409050132520"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���`���ƁA�x���Ȃ�܂������A�l�n�m�c�n����A�����āA���B�̃`�[���ƈꏏ�Ƀ��[�X�ɎQ�����Ă����������݂Ȃ���A�����l�ł����B<br>
+<font size=3 color=#606060>え〜っと、遅くなりましたが、ＭＯＮＤＯさん、そして、私達のチームと一緒にレースに参加してくださったみなさん、お疲れ様でした。<br>
 <br>
 <br>
-�Ƃ肠�����A�\���V�[���̂ق����B<br>
+とりあえず、表彰シーンのほうを。<br>
 <br>
 <br>
-�������A�ӂ肪�Â��Ȃ������ɁA�\�����͎n�܂����̂ł���B<br>
-���C�g�A�b�v���ꂽ���̒��S�ɂ́A���h�Ȕ����\���䂪�������Ă����̂������B<br>
+日も暮れ、辺りが暗くなった頃に、表彰式は始まったのである。<br>
+ライトアップされた会場の中心には、立派な白い表彰台が鎮座していたのだった。<br>
 <br>
-���V���w���h�q���̃����o�[�̔��l�́A�������ƕ\����ɏ���Ă������̂ł������B<br>
+高天原学園防衛隊のメンバーの八人は、ゆっくりと表彰台に上っていったのであった。<br>
 <br>
-���ꂩ��\������鍂�V���w���h�q���A�~�X�g���X�E�h���[���E�`�[���A�s�������@�b���������̎O�`�[���̃����o�[���\����ɏ��I����ƁA�����āA�����ɕ\�����́A�n�܂����̂ł������B<br>
+これから表彰される高天原学園防衛隊、ミストレス・ドリーム・チーム、Ｔｅａｍ　Ｃｅｌｎａの三チームのメンバーが表彰台に上り終えると、続いて、厳かに表彰式は、始まったのであった。<br>
 <br>
-�܂��A���D����Ƃق̂�����ɂ���ď��X�ɖh�q���̃����o�[�̓��Ɍ��j�����ڂ����Ă����B<br>
-�����āA�����Ɣ����́A���D���񂩂�傫�ȃg���t�B�[���󂯎�����̂������B<br>
+まず、沙織さんとほのかさんによって順々に防衛隊のメンバーの頭に月桂冠が載せられていく。<br>
+続いて、星至と美月は、沙織さんから大きなトロフィーを受け取ったのだった。<br>
 <br>
-�����āA�O�̃`�[���̕\�����I���ƁA��l�́A���̑傫�ȃg���t�B�[��V�����f�����̂������B<br>
-�����āA���肩��́A�\����ɗ��O�̃`�[���ƃ��[�X�ɎQ�����Ă��ꂽ�`�[���̐l�B�̉h�_���]���A�傫�Ȕ��肪�N�������̂ł������B<br>
+そして、三つのチームの表彰が終わると、二人は、その大きなトロフィーを天高く掲げたのだった。<br>
+続いて、周りからは、表彰台に立つ三つのチームとレースに参加してくれたチームの人達の栄誉を讃え、大きな拍手が起こったのであった。<br>
 <br>
-���̏j���̔���Ƌ��ɁA�����āA�����B�̌��ɂ����A�[�e�B�A�C���A�ʑ������B�́A�ق̂����񂩂�󂯎�����V�����p�����J�����̂������B<br>
-�����ǂ��A�V�����p������яo���Ă����B<br>
+その祝福の拍手と共に、続いて、星至達の後ろにいたアーティ、辰美、玉藻ちゃん達は、ほのかさんから受け取ったシャンパンを開けたのだった。<br>
+勢い良く、シャンパンが飛び出していく。<br>
 <br>
-�������A�����Ńg���u���́A�N�������̂������B<br>
-���̎O�l�̏����ȏ����B�ɂƂ��ẮA�V�����p�������o���鎞�̏Ռ��͑傫�������̂������B<br>
-���ʁA�R���g���[�����������V�����p���́A�h�q���݂̂�Ȃɂ������Ă��܂��B<br>
+しかし、ここでトラブルは、起こったのだった。<br>
+その三人の小さな少女達にとっては、シャンパンが噴出する時の衝撃は大きすぎたのだった。<br>
+結果、コントロールを失ったシャンパンは、防衛隊のみんなにかかってしまう。<br>
 <br>
-����Ȕ��΂܂������i�𑼂̃`�[���̐l�B���A�D�����΂��Ȃ��猩����Ă��Ă����B<br>
-�����āA����ɂ́A�傫�Ȗ������Â��ɂ������݁A�܂��A��ꂩ��́A�������ԉ΂��ł��グ���Ă����̂ł������B<br>
-<br>
-<br>
-�E�E�E���ɂ��A�����l�܂���ʏ܂��A����Ƃ�����A�N�ɂǂ�ȕ�������ł��傤���E�E�E�H�����s�ψ����Q���҂̊F�X�l<br>
-<br>
-�����ł��ˁB���̃`�[����������A�ΖW�Q�H��ҏ܁A��Еt����܁A�ő��s�r������܂Ȃǂł��傤���B<br>
-��́A�s�r�����܂Ȃ�A�N���X�^�[����̏��̃`�[�����쌴���Z�A�������܂��܂́A���肪�����ȂƂ��낾���Ǘ�ނ���̏��̂s�������@�b���������Ə�e����̏��̃h���t�g�E�s�A�^�ʖڃ��[�X�ҏ܂́A���������������U����̏��̉������[�邸���ȁB<br>
-�����āA�閲����̏��̃~�X�g���X�E�h���[���E�`�[���́A�W�Q�H��ҏ܂ŗǂ��Ǝv�����A���x����̏��̘Q�����Z�I�J���g���́A����ς�A�ЊQ�����ҏ܁A�����낤����̏��̐������Z�}�l�[�W���[�Y�́A�Y�񂾂���ǂ��A�����ҏ܂����肩�ȁB<br>
-�Ƃ���ŁA�ő��s�r��������܂́A�N���낤���ȁB<br>
+そんな微笑ましい光景を他のチームの人達も、優しく笑いながら見守っていてくれる。<br>
+そして、頭上には、大きな満月が静かにたたずみ、また、会場からは、美しい花火が打ち上げられていたのであった。<br>
 <br>
 <br>
-���݃y�[�W�͂X�������ς��ŕ����܂����A���̃C�x���g�f���͎c���Ă����܂��B<br>
+・・・他にも、何か個人賞や特別賞を、送るとしたら、誰にどんな物があるでしょうか・・・？＜実行委員＆参加者の皆々様<br>
 <br>
-�E�E�E�R�[�X�_�C�W�F�X�g�́A������������Ŏc���Ēu���������L�O�ɂȂ��ėǂ��Ȃ��E�E�E�Ǝv���̂ł����A�@���ł��傤���E�E�E�H<br>
-<br>
-�閲����A�����A�����v���܂��B<br>
-��A�l�n�m�c�n���񂪁A����΂��ĉ�����݂����ł��̂ŁA�����A�e�Ȃ��牞�������Ă��������܂��B<br>
-<br>
-<br>
-���������A�T�O�O���g�����L�O�ɂӂ��킵���Â����v�����ꂽ���́A�����֒�Ă��Ă݂Ă��������B�킽���̕��ŉ^�c�ψ��ɂ͂����Ă݂܂��B<br>
-<br>
-�����ł��ˁB����������A�ِ��E�`�����Ȃ񂩂��ǂ��Ǝv���܂��B<br>
-�Ȃ�ŁA�����Ȃ�`�������Ƃ����ƁA����܂ŏ��N�������ɂ̃C�x���g�ł́A���オ���S�ŁA�ِ��E��A�ߋ��A�����ٕ���Ƃ������̂��Ȃ���������ł��B<br>
-�`�[�������o�[�A�o��l���́A���R�A�Ȃ�ł�����B<br>
-�������A���E�ݒ�ȂǁA�l�߂Ȃ��Ă͂����Ȃ������o�Ă��邾�낤�Ǝv���܂��̂ł��܂茻���I�ł͂Ȃ��ł����c�B<br>
-�l�n�m�c�n����A�ǂ��ł��傤���B<br>
+そうですね。私のチームだったら、対妨害工作者賞、後片付け大賞、最多ＴＳさせ大賞などでしょうか。<br>
+後は、ＴＳ兵器大賞なら、クラスターさんの所のチーム杉野原高校、巻き込まれ大賞は、判定が微妙なところだけど鈴奈さんの所のＴｅａｍ　Ｃｅｌｎａと城弾さんの所のドリフト・Ｔ、真面目レース者賞は、ｋａｇｅｒｏｕ６さんの所の演劇がーるずかな。<br>
+続いて、夜夢さんの所のミストレス・ドリーム・チームは、妨害工作者賞で良いと思うし、干支さんの所の浪国高校オカルト部は、やっぱり、災害発生者賞、いちろうさんの所の清凰高校マネージャーズは、悩んだけれども、爆走者賞あたりかな。<br>
+ところで、最多ＴＳさせられ大賞は、誰だろうかな。<br>
 <br>
 <br>
-�O�\�l���炢�Q���ł���ƌ����Ȃ�A��l�P�L��������Ă̊w���������Ƃ��B<br>
-�������s�r���B���q�Z�ɂ��Ēj�q�Z�ƌ������B<br>
-�V��N���̐ݒ�ɂ���ΗF�B�ɂȂ�n�߂��Ƃ��납�炩���邵�B<br>
-������񉽂ł�����B<br>
-�ϐg�B����ւ���킸�B�ِ��E�̏Z�l�Ƃ����֌W�Ȃ��B<br>
+特設ページは９月いっぱいで閉鎖しますが、このイベント掲示板は残しておきます。<br>
 <br>
-�����^���ł��B<br>
-�����A�L�����́A��l����Ɨǂ����ȁB<br>
-�����āA�搶�B���o�ꂳ������Ɨǂ��񂾂��ǂȁB<br>
-��A�������A�h�q���̃`�[������o���Ƃ�����A����ς�A���������ƃT�C�t�@����񂩂ȁB<br>
-�X�ɁA����́A�����̈ĂƂ����ˍ��킹�āA�ِ��E�������ȁB<br>
-����ɁA���ƉȖڂɂ��A�����o���邵�ˁB<br>
-��Ƃ��ẮA���{�b�g�H�w��A�F���H�w�Ȃǂ���A��ʓI�Ȃ��̂ł͐��w�◝�ȂȂǁA�X�ɂ́A���@���_�A���@���Z�Ȃǂ��������邩�ȁB<br>
+・・・コースダイジェストは、完成させた上で残して置いた方が記念になって良いなぁ・・・と思うのですが、如何でしょうか・・・？<br>
 <br>
-���F���������́A�����̏��̎q�o�[�W�����B�������A����̃��[�X�ł́A�s�r������@��Ȃ��āA�Ђ��肿���i�Ђ��邿���̏��̎q�o�[�W�����j�ƂƂ��ɏo���Ȃ������񂾂�ȁB�i���j<br>
+夜夢さん、私も、そう思います。<br>
+後、ＭＯＮＤＯさんが、かんばって下さるみたいですので、私も、影ながら応援させていただきます。<br>
 <br>
 <br>
-�����ɂ��Ă݂Ă��������[�邸��h�q���̖ʁX�ƗF�B�ɂȂ�Ă悩�������ȂƁB<br>
-�i���Ԃ�݂�ȏ��̎q�ƔF�����Ă�񂶂�j<br>
+もし何か、５００万Ｈｉｔ記念にふさわしい催しを思いつかれた方は、ここへ提案してみてください。わたしの方で運営委員にはかってみます。<br>
 <br>
-�����ł��B��e����B<br>
-�h�q���݂̂�Ȃ��A���������Ƃ��F�B�ɂȂ�Ċ��ł���Ǝv���܂��B<br>
-�܂��A�@���������A�h�q���݂̂�ȂƂ������A�ꏏ�ɂ��H����ł��y���݂܂��傤�B<br>
-�������A���������́A��������łˁB�i�΁j<br>
-��A�h�q���݂̂�Ȃ́A���R�A��������񂪒j�̎q�����Ă��Ƃ͒m���Ă��܂���B<br>
+そうですね。私だったら、異世界冒険物なんかが良いと思います。<br>
+なんで、いきなり冒険物かというと、これまで少年少女文庫のイベントでは、現代が中心で、異世界や、過去、未来ほ舞台としたものがなかったからです。<br>
+チームメンバー、登場人物は、当然、なんでもあり。<br>
+ただし、世界設定など、詰めなくてはいけない所も出てくるだろうと思いますのであまり現実的ではないですが…。<br>
+ＭＯＮＤＯさん、どうでしょうか。<br>
 <br>
 <br>
-���A���x���Ȃ�܂������A����́A����ɂĎ��炳���Ă��������܂��B<br>
-��҂��ƁA�w�x�y���B<br>
+三十人くらい参加できると言うなら、一人１キャラ作っての学園生活をとか。<br>
+もちろんＴＳ娘。女子校にして男子校と言うか。<br>
+新一年生の設定にすれば友達になり始めたところからかけるし。<br>
+もちろん何でもあり。<br>
+変身。入れ替わり問わず。異世界の住人とかも関係なし。<br>
+<br>
+私も賛成です。<br>
+ただ、キャラは、二人作れると良いかな。<br>
+加えて、先生達も登場させられると良いんだけどな。<br>
+後、もしも、防衛隊のチームから出すとしたら、やっぱり、美星ちゃんとサイファちゃんかな。<br>
+更に、舞台は、自分の案とも兼ね合わせて、異世界がいいな。<br>
+それに、授業科目にも、幅が出来るしね。<br>
+例としては、ロボット工学や、宇宙工学などから、一般的なものでは数学や理科など、更には、魔法理論、魔法実技などがあげられるかな。<br>
+<br>
+注：美星ちゃんは、星至の女の子バージョン。しかし、今回のレースでは、ＴＳさせる機会がなくて、ひかりちゃん（ひかるちゃんの女の子バージョン）とともに出せなかったんだよな。（泣）<br>
+<br>
+<br>
+つかさにしてみても演劇がーるずや防衛隊の面々と友達になれてよかったかなと。<br>
+（たぶんみんな女の子と認識してるんじゃ）<br>
+<br>
+私もです。城弾さん。<br>
+防衛隊のみんなも、つかさちゃんとお友達になれて喜んでいると思います。<br>
+また、機会があったら、防衛隊のみんなとゆっくり、一緒にお食事会でも楽しみましょう。<br>
+もちろん、つかさちゃんは、女装ありでね。（笑）<br>
+後、防衛隊のみんなは、当然、つかさちゃんが男の子だってことは知っていますよ。<br>
+<br>
+<br>
+挨拶が遅くなりましたが、今回は、これにて失礼させていただきます。<br>
+作者こと、ＸＹＺより。<br>
 <br>
 <br>
 </font>
@@ -559,76 +559,76 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1681]</font> <font size=4 color=#40c0c0> ���߂āA���肪�Ƃ��������܂����B</font>
+<font size=2>[1681]</font> <font size=4 color=#40c0c0> 改めて、ありがとうございました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/02 (��) 21:27:34 <strong>��</strong> �l�n�m�c�n�����s�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409024212734&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409024212734"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/02 (木) 21:27:34 <strong>▽</strong> ＭＯＮＤＯ＠実行委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409024212734_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409024212734"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�s�r�L���m���{�[���A�{���ɂ���ꂳ�܂ł����B<br>
-�@�܂��A����ȋ@�����܂�����A���ЂƂ��Q�����Ă��������B<br>
+<font size=3 color=#606060>　ＴＳキャノンボール、本当にお疲れさまでした。<br>
+　また、こんな機会がありましたら、ぜひとも参加してください。<br>
 <br>
-<font color="#ff88cc">���E�E�E�ʂ̓_�ŏ܂�Ⴆ��Ƃ���΁A�u�ő��W�Q�H��ҏ܁v�E�E�E�Ȃ�ĕ����Ⴆ����<br>
-�����ȁE�E�E�Ȃ��ƌ㔼��J�n�ӂ肩��v���Ă����閲�ł����E�E�E</font><br>
+<font color="#ff88cc">＞・・・別の点で賞を貰えるとすれば、「最多妨害工作者賞」・・・なんて物が貰えそう<br>
+＞だな・・・なぞと後半戦開始辺りから思っていた夜夢でした・・・</font><br>
 <br>
-�@�m���Ƀ~�X�g���X�`�[���́A���[�X�J�n���ォ�炱��ł����Ƃ΂���ɖW�Q�H��ɑ����Ă܂����ˁi�΁j�B�������Ń��[�X�����낢�됷��オ�����Ǝv���܂��B<br>
-�@���ꂼ��Ɍ��I�ȏ������݂��������񂠂����̂ŁA�l�܂���ʏ܂�I�Ԃ͓̂���ł��B<br>
+　確かにミストレスチームは、レース開始直後からこれでもかとばかりに妨害工作に走ってましたね（笑）。おかげでレースがいろいろ盛り上がったと思います。<br>
+　それぞれに個性的な書き込みがたくさんあったので、個人賞や特別賞を選ぶのは難しいです。<br>
 <br>
-<font color="#ff88cc">���E�E�E�R�[�X�_�C�W�F�X�g�́A������������Ŏc���Ēu���������L�O�ɂȂ��ėǂ��Ȃ��E�E�E�Ǝv���̂ł����A�@���ł��傤���E�E�E�H</font><br>
+<font color="#ff88cc">＞・・・コースダイジェストは、完成させた上で残して置いた方が記念になって良いなぁ・・・と思うのですが、如何でしょうか・・・？</font><br>
 <br>
-�@�Ȃ�Ƃ�����΂��Ă݂܂��B<br>
+　なんとかがんばってみます。<br>
 <br>
-<font color="#ff88cc">���������Ă��Ȃ�y���߂��C�x���g�ł����B<br>
-�������ɂ��Ă݂Ă��������[�邸��h�q���̖ʁX�ƗF�B�ɂȂ�Ă悩�������ȂƁB</font><br>
+<font color="#ff88cc">＞しかしてかなり楽しめたイベントでした。<br>
+＞つかさにしてみても演劇がーるずや防衛隊の面々と友達になれてよかったかなと。</font><br>
 <br>
-�@���������Ă���������ƁA�������ł��B<br>
-�@��������V�����L������X�g�[���[���X�s���I�t���Ă�������ȁ`�ƁA�����Ɋ��҂��Ă���̂ł����B<br>
+　そう言っていただけると、嬉しいです。<br>
+　ここから新しいキャラやストーリーがスピンオフしていったらな〜と、密かに期待しているのですが。<br>
 <br>
-<font color="#ff88cc">�������́A���̕��̃L�����Ɨ��߂āA�ق��Ƃ��Ă���܂��B<br>
-������������Ɨ��݂����������X�����܂������ǂˁc�i���ɖ^�`���b�g�̏�A�n�j</font><br>
+<font color="#ff88cc">＞少しは、他の方のキャラと絡めて、ほっとしております。<br>
+＞もうちょっと絡みたかった方々もいましたけどね…（特に某チャットの常連系）</font><br>
 <br>
-�@�����ł��ˁB�ł��A�s�������@�b�����������^���Ƀ��[�X���Ă����������̂ŁA���̃��X�g�̃f�b�h�q�[�g���������̂��Ǝv���܂��B���肪�Ƃ��������܂����B<br>
+　そうですね。でも、Ｔｅａｍ　Ｃｅｌｎａが真剣にレースしてくださったので、あのラストのデッドヒートがあったのだと思います。ありがとうございました。<br>
 <br>
-<font color="#ff88cc">���܁A����ł��\���y���߂��̂ŎQ�����ėǂ������Ǝv���Ă��܂��B<br>
-�����߂Ȃ��������X�ɂ́A�����܂���ł����B���S�Ɏ��̃l�^�s���ł��B<br>
-���܂�����ȋ@�����ΎQ���������ł��ˁB����܂łɂ̓l�^��L�x�ɁE�E�E�i��</font><br>
+<font color="#ff88cc">＞ま、それでも十分楽しめたので参加して良かったと思っています。<br>
+＞絡めなかった方々には、すいませんでした。完全に私のネタ不足です。<br>
+＞またこんな機会があれば参加したいですね。それまでにはネタを豊富に・・・（ｗ</font><br>
 <br>
-�@�Ō�̍Ō�ł��̃����[�t�J�[�ւ̎v��������āA�l�I�ɂ͂����Ƃ��Ă��܂����B<br>
-�@�܂��A�Q����낵�����肢���܂��B<br>
+　最後の最後であのリリーフカーへの思いが語られて、個人的にはぐっときていました。<br>
+　また、参加よろしくお願いします。<br>
 <br>
-<font color="#ff88cc">����l�P�L��������Ă̊w���������Ƃ��B</font><br>
+<font color="#ff88cc">＞一人１キャラ作っての学園生活をとか。</font><br>
 <br>
-�@�e�[�u���g�[�N�q�o�f�̂悤�ɃL�����𐔒l�����Đݒ肵�A�N�����������񂾃C�x���g�i�����j�ɁA�e�X�ǂ�ȕ��ɂ�������Ă��������������ށc�c�Ȃ�Ă̂��ʔ�����������܂���ˁB</font>
+　テーブルトークＲＰＧのようにキャラを数値化して設定し、誰かが書き込んだイベント（事件）に、各々どんな風にかかわっていくかを書き込む……なんてのも面白いかもしれませんね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1680]</font> <font size=4 color=#40c0c0> �x���Ȃ�܂������A�����l�ł���</font>
+<font size=2>[1680]</font> <font size=4 color=#40c0c0> 遅くなりましたが、お疲れ様でした</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/09/02 (��) 00:23:24 <strong>��</strong> �����낤���������Z�}�l�[�W���[�Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200409024002324&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200409024002324"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/09/02 (木) 00:23:24 <strong>▽</strong> いちろう＠清凰高校マネージャーズ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200409024002324_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200409024002324"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�x���Ȃ����Ⴂ�܂������ǁA�����l�ł����B<br>
-�Ō�͂ق�Ƃ����������ł��ˁB<br>
+<font size=3 color=#606060>遅くなっちゃいましたけど、お疲れ様でした。<br>
+最後はほんとすごかったですね。<br>
 <br>
-�����g�̊��z�́A�Ƃ�����背�[�X�����炸���Ǝv���Ă����̂́A�݂Ȃ���l�^���L�x���Ȃ��`�ƁB<br>
-���͓x�X�l�^�ɍ����Ă܂����B�i���@�����āA���̋N����������i�R�x���j�E�E�E�R�I�B�L�����ɂ͈��������ł��ˁE�E�E�i�������قƂ�ǂ����؂蔭�ԁj�B<br>
-�܁A����ł��\���y���߂��̂ŎQ�����ėǂ������Ǝv���Ă��܂��B<br>
-���߂Ȃ��������X�ɂ́A�����܂���ł����B���S�Ɏ��̃l�^�s���ł��B<br>
-�܂�����ȋ@�����ΎQ���������ł��ˁB����܂łɂ̓l�^��L�x�ɁE�E�E�i��<br>
+私自身の感想は、というよりレース中からずっと思っていたのは、みなさんネタが豊富だなぁ〜と。<br>
+私は度々ネタに困ってました。（ｗ　困って、事故起こさせたり（３度も）・・・由紀達キャラには悪かったですね・・・（しかもほとんどが見切り発車）。<br>
+ま、それでも十分楽しめたので参加して良かったと思っています。<br>
+絡めなかった方々には、すいませんでした。完全に私のネタ不足です。<br>
+またこんな機会があれば参加したいですね。それまでにはネタを豊富に・・・（ｗ<br>
 <br>
-����ł͍���x�A�݂Ȃ���P�����ԁi����ȏォ�H�j�����l�ł����B�����āA���肪�Ƃ��������܂����B</font>
+それでは今一度、みなさん１ヶ月間（それ以上か？）お疲れ様でした。そして、ありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="21">
 <input type=hidden name="log" value="jiten">
@@ -636,16 +636,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="jiten">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=jiten">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_jiten.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

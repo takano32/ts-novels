@@ -1,47 +1,47 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�앶�������i���z�f����</title>
+<title>南文堂さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�앶�������i���z�f����</font>
+<font size=5>南文堂さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="minafumido">
 <input type=hidden name="nj" value="Dq1SGJ17AN">
 <input type=hidden name="res" value="8">
-<h4 align=center>�� �L���ԍ� 8 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 8 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:&quot;��&quot;���g��������́H"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��������
-&gt; �v�X�̐V��A�y���܂��Ă��������܂����B
-&gt; ������l�^�y��ł����������B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:&quot;☆&quot;が使える条件は？"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ そあさん
+&gt; 久々の新作、楽しませていただきました。
+&gt; 今回もネタ炸裂ですごいっす。
 &gt; 
-&gt; ���̋@��ɃV���[�Y�S����ǂݕԂ��Ă݂āA�ӂƋC���t�����̂���R�b�ł̃��C�̃Z���t�B
-&gt; �u���邳���I�Ȃ����P�Ȃ�E�̂��Ȃ����A���̃~�[�i���o�����ɑ̒����S�ł����Ă�͂��Ȃ�����Ȃ��B��l�����ƂŐQ�ĂȂ����I�v
+&gt; この機会にシリーズ全部を読み返してみて、ふと気が付いたのが第３話でのメイのセリフ。
+&gt; 「うるさい！つなぎが単なる・のあなたが、☆のミーナお姉ちゃんに体調万全でも勝てるはずないじゃない。大人しく家で寝てなさい！」
 &gt; 
-&gt; ����H���Ƃ���ƁA�v�����Z�X�E�����[��E�B���O�E�}�R�̗���́H�H
+&gt; あれ？だとすると、プリンセス・ルリーやウィング・マコの立場は？？
 &gt; 
-&gt; �Ђ���Ƃ���Ɓ����g����̂́A�����̓����Ȃ̂����E�E�E�Ƃ������Ă��
-&gt; �}�R����ɎE���ꂻ���Ȃ̂ł��̂ւ�ŁB�i�΁j</textarea><br>
+&gt; ひょっとすると☆を使えるのは、少女の特権なのかも・・・とか言ってると
+&gt; マコさんに殺されそうなのでこのへんで。（笑）</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -54,20 +54,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> re:�ӂƋC�ɂȂ�����ł�����</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> re:ふと気になったんですけど</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/31 (��) 00:20:28 <strong>��</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">�앶��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307314002028&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307314002028"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/31 (木) 00:20:28 <strong>▽</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">南文堂</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307314002028_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307314002028"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���ρ[������@�l</font><br>
-�@�͂��߂܂��āB�����ǂ�ł��������A���肪�Ƃ��������܂��B�y����ł��������Ă���悤�ŉ����ł��B<br>
-�@�w�������@���������Ȃ��̂Ȃ����Ă��܂����x�̎��x�ł����B���Ȃ�Ԃ����܂��Ă���ł��傤�ˁi�΁j�B�\�\�ƁA�܂��A�����Ă��܂������Ƃ���ł����A���́w ���`�̖��@�������͑g���x�͍̎Z�x�O���̑g���ł�����A�����Ȃ��Ă����܂�C�ɂ��Ă��Ȃ��ł��傤�B<br>
-�@�Ƃ͂����A���x������܂���ˁB�Ƃ����킯�ŁA���^���Ă���v���W�F�N�g�c�c�`�[���̖^�L���L�����N�^�[�g�p���́A�ނ�̓E�b�e���o�[�K�[�n�C�g�̒m�荇���ł���ŁA��ڂɌ��Ă��炦��ł��傤�i���Ă���Ȃ���΁A�ڂɂ��̌������邩������܂��񂩂��j�B<br>
-�@���[�U�[�U���q���́A���������߂�Ȃ�΁A���ۓI�ɔF�߂��Ă���Ɨ��������Ƃ̏��i�q���O���ł���j�ɍU���@�𖳒f�Œʉ߂����Ă��鎖����F�߁A�������A������ꂽ�Ƃ͂����A���̍��y�ɖC���܂ł��Ă��邱�Ƃ����\���Ȃ���΂Ȃ�Ȃ��B����͍��ƂƂ��Ă��Ȃ胄�o�C�Ǝv���܂��̂ŁA�����Ȃǋ��߂Ȃ��ł��傤�B�U���q���ł��邱�Ƃ𕚂��Ă��A�j�󂳂ꂽ���R�u���@�����ɖC�����ꂽ�v�ȂǁA������M���Ă���Ȃ��ł��傤�B�Ƃ������A����Ȃ��Ƃ����΁A�n���ɂ���Ă��܂��܂��B�Ƃ����킯�ŁA������������Ȃ��ł��傤�B���̑���A�F�X�Ƃ��_���邩���m��܂��񂪁A�^�՗l������Ȃ�t�Ɂw�Z�p�񋟁x�Ȃǂ������o���Ă��邩������܂���ˁB<br>
-�@�܂��A�����ƂȂ�΁A���̍��̍��ƌ���͎��͑g�����������Ƃ��Ă��ʔ������ł�����@�Ƃ������A��펩�́A�ŏ�����j�]���Ă���̂ő��v�������肵�܂���<br>
-�@����ł́A���ꂩ����@��낵�����肢�������܂��B</font>
+<font size=3 color=#606060><font color="#ff88cc">＞ぱーしおん　様</font><br>
+　はじめまして。いつも読んでいただき、ありがとうございます。楽しんでいただいているようで何よりです。<br>
+　『悪い魔法少女がいないのなら作ってしまえ作戦』の収支ですか。かなり赤く染まっているでしょうね（笑）。——と、まあ、言ってしまいたいところですが、この『 正義の魔法少女協力組合』は採算度外視の組合ですから、そうなってもあまり気にしていないでしょう。<br>
+　とはいえ、限度がありますよね。というわけで、協賛しているプロジェクトＤＤチームの某有名キャラクター使用料は、彼らはウッテンバーガーハイトの知り合いですんで、大目に見てもらえるでしょう（見てくれなければ、目にもの見せられるかもしれませんから♪）。<br>
+　レーザー攻撃衛星は、賠償を求めるならば、国際的に認められている独立した国家の上空（衛星軌道であれ）に攻撃機を無断で通過させている事実を認め、しかも、乗っ取られたとはいえ、その国土に砲撃までしていることを公表しなければならない。これは国家としてかなりヤバイと思われますので、賠償など求めないでしょう。攻撃衛星であることを伏せても、破壊された理由「魔法少女に砲撃された」など、だれも信じてくれないでしょう。というか、そんなこといえば、馬鹿にされてしまいます。というわけで、賠償請求されないでしょう。その代わり、色々とつけ狙われるかも知れませんが、真琴様あたりなら逆に『技術提供』などを持ち出しているかもしれませんね。<br>
+　まあ、いざとなれば、その国の国家元首は実は組合員だったとしても面白そうですし♪　というか、作戦自体、最初から破綻しているので大丈夫だったりします♪<br>
+　それでは、これからも　よろしくお願いいたします。</font>
 <p><a href="http://minafumi.wb.puresilk.ac/" target="_top">http://minafumi.wb.puresilk.ac/</a>
 </td></table>
 </td></tr></table>
@@ -75,36 +75,36 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> �ӂƋC�ɂȂ�����ł�����</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> ふと気になったんですけど</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/24 (��) 17:03:05 <strong>��</strong> <a href="mailto:hyperion@k7.dion.ne.jp">�ρ[������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307244170305&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307244170305"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/24 (木) 17:03:05 <strong>▽</strong> <a href="mailto:hyperion@k7.dion.ne.jp">ぱーしおん</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307244170305_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307244170305"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���߂܂��āB�����y�����q�������đՂ��Ă���܂��B<br>
-��A�̍�i��ǂ�ł��ċC�ɂȂ�����ł����ǁA�w�������@���������Ȃ��̂Ȃ����Ă��܂����x�̎��x�͑��v�Ȃ�ł��傤���H<br>
-���^���Ă���v���W�F�N�g�c�c�`�[���̖^�L���L�����N�^�[�g�p���͓��R�ނ�Ɏx���\�͂Ȃ�ĂȂ����낤����i�΁j���̎x�����͓��R�w����i���O�킩��Ȃ��̂Łj�x�Ɍ��������A���̋��z�́u���@�����v�̔�ł͂Ȃ����낤���E�E�E�B<br>
-�����������̓��[�U�[�U���q��������Ɏg���āA���̔���Ȕ����z�͂ǂ��Ȃ�񂾂낤���āB������{�l�̐��̊��Ɏ��m�̎��������B<br>
-���ǁA���̍��A�j�]�������I�܂��A����͂���Ŗʔ������ǁB<br>
-�����l����Ɨڗ�������Ƃ��^�Ղ���Ƃ��i�z�����j���セ���H�����烉�C�t���C���~�߂�ꂻ���ɂȂ�̂����B�������h�肻�������I</font>
+<font size=3 color=#606060>初めまして。いつも楽しく拝見させて戴いております。<br>
+一連の作品を読んでいて気になったんですけど、『悪い魔法少女がいないのなら作ってしまえ作戦』の収支は大丈夫なんでしょうか？<br>
+協賛しているプロジェクトＤＤチームの某有名キャラクター使用料は当然彼らに支払能力なんてないだろうから（笑）その支払いは当然『協会（名前わかんないので）』に向かうし、その金額は「魔法少女」の比ではないだろうし・・・。<br>
+いつだったかはレーザー攻撃衛星を勝手に使って、その莫大な賠償額はどうなるんだろうって。何しろ本人の正体既に周知の事実だし。<br>
+結局、この作戦、破綻しそう！まあ、それはそれで面白いけど。<br>
+そう考えると瑠璃香さんとか真琴さんとか（陽介さんも）頭弱そう？だからライフライン止められそうになるのかも。金遣い派手そうだし！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> re:�v���Ԃ�Ɋy���܂��Ē����܂����B</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> re:久しぶりに楽しませて頂きました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/19 (�y) 23:11:23 <strong>��</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">�앶��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307196231123&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307196231123"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/19 (土) 23:11:23 <strong>▽</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">南文堂</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307196231123_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307196231123"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">��TOM �l</font><br>
-�@���ǂ݂����������肪�Ƃ��������܂��B�Ԏ����x��Ă����܂���B�������肵�Ă܂����B<br>
-�@�m���ɔ��ގq���������菗�̎q�ł��ˁ`�B�s�r�������ƂȂ񂩁A�����Y�ꂿ����Ă�l�����邩���i�O�O�j�B�ꎞ�I�Ɍ��ɖ߂�b�͍l���Ă���̂ł����ǂ��A���ʂɂ���ẮA�앶���炵���Ȃ��ƌ���ꂻ�������c�c�܂��A�ǂ����ɂ��Ă��A�����Ă�����ގq�͔��ގq�炵���Ď����D���ł���<br>
-�@�w�J���̓V���p���̒��ׁx�Ƃ��A�R�l�^���ڂ͑��ς�炸��@�y����ł���������΁A�l�^������т܂���<br>
+<font size=3 color=#606060><font color="#ff88cc">＞TOM 様</font><br>
+　お読みいただきありがとうございます。返事が遅れてすいません。うっかりしてました。<br>
+　確かに美奈子もすっかり女の子ですね〜。ＴＳしたことなんか、もう忘れちゃってる人もいるかも（＾＾）。一時的に元に戻る話は考えているのですけども、普通にやっては、南文堂らしくないと言われそうだし……まあ、どっちにしても、困っている美奈子は美奈子らしくて私も好きです♪<br>
+　『雨音はショパンの調べ』とか、コネタ満載は相変わらず♪　楽しんでいただければ、ネタ帖も喜びます♪<br>
 </font>
 <p><a href="http://minafumi.wb.puresilk.ac/" target="_top">http://minafumi.wb.puresilk.ac/</a>
 </td></table>
@@ -113,95 +113,95 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> ���A�Y��Ă��B</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> あ、忘れてた。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/13 (��) 17:11:03 <strong>��</strong> TOM </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307130171103&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307130171103"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/13 (日) 17:11:03 <strong>▽</strong> TOM </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307130171103_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307130171103"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�J���̓V���p���̒��ׁA���͌��Ȃ͑�D���ł��B<br>
-���і����o�[�W�����̓C�}�C�`�ł����B<br>
-���ɂ����낢��U��΂��Ă鏬�l�^�������ł��ˁB<br>
-�����������V�т��āA�f��u�^���|�|�v���v���o�����肵��<br>
-���������������ł��B</font>
+<font size=3 color=#606060>雨音はショパンの調べ、私は原曲は大好きです。<br>
+小林麻美バージョンはイマイチですが。<br>
+他にもいろいろ散らばってる小ネタがいいですね。<br>
+こういうお遊びって、映画「タンポポ」を思い出したりして<br>
+すごくいい感じです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> �v���Ԃ�Ɋy���܂��Ē����܂����B</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> 久しぶりに楽しませて頂きました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/13 (��) 17:04:58 <strong>��</strong> TOM </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307130170458&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307130170458"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/13 (日) 17:04:58 <strong>▽</strong> TOM </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307130170458_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307130170458"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060> �����������菗�̎q�Ȕ��ގq�����ł��ˁB<br>
-���t�g����A�����܂ł������蕁�ʂ̏��̎q�ŁA�����j�̎q�ɖ߂ꂽ��<br>
-�t�Ɍ˘f���Ă��܂��̂ł́H�i�΁j<br>
+<font size=3 color=#606060> もうすっかり女の子な美奈子ちゃんですね。<br>
+言葉使いや、物腰まですっかり普通の女の子で、もし男の子に戻れたら<br>
+逆に戸惑ってしまうのでは？（笑）<br>
 <br>
-���Ă������A���낻����j�̎q�ɖ߂��Ă݂�̂��ʔ������B<br>
-�悩�����猟�����Ă݂Ă��������B<br>
-�ŁA��b�̔������炢���点�āA�悤�₭����ė����������<br>
-�܂����̎q�ɖ߂��Ɓi�S�ł��ȁj<br>
-���ގq�̍����Ă�̂���ԉ����Ǝv�����͕ςł����H<br>
+っていうか、そろそろ一回男の子に戻してみるのも面白そう。<br>
+よかったら検討してみてください。<br>
+で、一話の半分くらい困らせて、ようやく慣れて来たあたりで<br>
+また女の子に戻すと（鬼ですな）<br>
+美奈子の困ってるのが一番可愛いと思う私は変ですか？<br>
 <br>
-���ƁA�����[�̕ϐg���Ă��Ȃ��p�����߂Ă��ڂɂ�����܂����ˁB<br>
-�܂����N�ゾ�����Ƃ́B<br>
+あと、リリーの変身していない姿を初めてお目にかかれましたね。<br>
+まさか年上だったとは。<br>
 <br>
-�����̊��Ɉ�C�ɓǂ߂āA���ς�炸�\���̏�肳�ƕ��͂̓ǂ݂₷����<br>
-����܂��ˁB<br>
-�����y���݂ɂ��Ă��܂��B</font>
+長さの割に一気に読めて、相変わらず構成の上手さと文章の読みやすさが<br>
+光りますね。<br>
+次も楽しみにしています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> �~�[�i ��8�b ���z�̂��Ԏ�</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> ミーナ 第8話 感想のお返事</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/10 (��) 18:46:59 <strong>��</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">�앶��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307104184659&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307104184659"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/10 (木) 18:46:59 <strong>▽</strong> <a href="mailto:minafumi-dou@hkg.odn.ne.jp">南文堂</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307104184659_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307104184659"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����W�S�Q�U�l�A�Ђ̂ЂƗl�ARNN�l�ASORA�l�AZyuka�l�A�����l<br>
-�@���ǂ݂�����������Ɋ��z�܂ł��������܂��āA���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>ｍｋ８４２６様、ひのひと様、RNN様、SORA様、Zyuka様、そあ様<br>
+　お読みいただいた上に感想までいただきまして、ありがとうございます。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U�@�l</font><br>
-�@�������Ԃ�����Ă܂ł��ǂ݂��������A���肪�Ƃ��������܂��B���������Ƃ���A�e�ʌ��Ă��߂炤�l�����\�����Ǝv���܂��i�V�b�܂œǂ�ł�l�́u�܂����v�Ǝv������������܂��񂯂ǁi�O�O�G�j�B�ǂ����A��肽���悤�ɏ����Ă�ƒ����Ȃ�X��������̂ŋC�����˂΂Ȃ�܂���ˁB<br>
+<font color="#ff88cc">＞ｍｋ８４２６　様</font><br>
+　睡眠時間を削ってまでお読みいただき、ありがとうございます。おっしゃるとおり、容量見てためらう人が結構いたと思います（７話まで読んでる人は「またか」と思ったかもしれませんけど（＾＾；）。どうも、やりたいように書いてると長くなる傾向があるので気をつけねばなりませんね。<br>
 <br>
-<font color="#ff88cc">���Ђ̂ЂƁ@�l</font><br>
-�@�y����ł����������悤�ŁA���肪�Ƃ��������܂��B<br>
-�@�~�b���[���E�X�E�}�[�`�ł����i�O�O�G�@�l�^�I�ɂǂꂾ���m���Ă���l�����邩�s���������̂ł����ǁA�킩��l�����Ă��ꂵ���ł��B�ł��A�~�[�i�͂���Ȃ̂΂�����ł��ˁi�O�O�G<br>
-�@�u���H�@�����������āA���H�v�Ƃ����̂́A�����ł����L������Ȃ��ł��傤���ǁA���������ɂȂ��Ă��ꂽ�Ȃ炤�ꂵ������ł��B<br>
-�@�S�J�~�[�i�́A�l�^�I�Ɏg�������Ȃ�܂��o�����Ă��炤��������܂��񂯂ǁc�c�������A�����v���Ă���ȏ�ɖ��ɐl�C������܂��ˁA�S�J�~�[�i�B<br>
+<font color="#ff88cc">＞ひのひと　様</font><br>
+　楽しんでいただいたようで、ありがとうございます。<br>
+　ミッ●ー○ウス・マーチですか（＾＾；　ネタ的にどれだけ知っている人がいるか不安だったのですけど、わかる人がいてうれしいです。でも、ミーナはこんなのばっかりですね（＾＾；<br>
+　「え？　里美ちゃんって、え？」というのは、ここでしか有効じゃないでしょうけど、メロメロになってくれたならうれしい限りです。<br>
+　全開ミーナは、ネタ的に使えそうならまた出演してもらうかもしれませんけど……しかし、私が思っている以上に妙に人気がありますね、全開ミーナ。<br>
 <br>
-<font color="#ff88cc">��RNN�@�l</font><br>
-�@���N�V�I�����C�ɓ����Ă��������A���肪�Ƃ��������܂��B������Ƃ����o�Ă��Ȃ��������ǁA�������������L�����͍D���Ȃ�ł��B<br>
+<font color="#ff88cc">＞RNN　様</font><br>
+　ルクシオンを気に入っていただき、ありがとうございます。ちょっとしか出てこなかったけど、私もああいうキャラは好きなんです。<br>
 <br>
-<font color="#ff88cc">��SORA�@�l</font><br>
-�@��Ђɂ͊Ԃɍ����܂����ł��傤���i�O�O�j<br>
-�@���ς�炸�p���f�B�������ς��Ńl�^���킩���Ă���邩�ǂ����s�������ς��ł������A�y����ł����������Ȃ炤�ꂵ������ł��B<br>
-�@�o�K�ɎO�����P��@�킩��܂������i�O�O�j�@�J�Z�b�g�e�[�v���R�[�_�[�������𔭂��Ȃ���f�[�^���[�h�B���̊Ԃɂ����Ȃǂ����ɗ��c�c���ł͐M�����Ȃ�����ł����ˁB�����A�Ȃ�������<br>
-�@�G�N�Z���I���Ƃ��G���g���E���Ȃ�Ă����z�E�L�́A�܂����N�V�I�������C�ɔ�щ���Ă邩�疳����������܂���ˁB���N�V�I�����������œ˂����葱����悤�ɂȂ����Ⴆ�΁A���邢�͏o�Ă��邩���m��܂���i�O�O�j�B<br>
-<font color="#cc88ff">&gt;���������ĉi���Ɏ�͉����Ȃ��킯�ł���? (Y/y)</font><br>
-�@���A�I�������c�c�B����͂���Ƃ��āA���ꂩ��ǂ��Ȃ邩�A��҂͉����l���ĂȂ��̂ŁA�ǂ��Ȃ�ł��傤�ˁH�@�Ƃ������A�~�[�i���ďI����񂾂낤�����ĕs���̕����c�c<br>
+<font color="#ff88cc">＞SORA　様</font><br>
+　会社には間に合いましたでしょうか（＾＾）<br>
+　相変わらずパロディがいっぱいでネタがわかってくれるかどうか不安いっぱいでしたが、楽しんでいただけたならうれしい限りです。<br>
+　出銭に三月魔臼♪　わかりましたか（＾＾）　カセットテープレコーダーが怪音を発しながらデータロード。その間にお茶などを入れに立つ……今では信じられない時代でしたね。ああ、なつかしい♪<br>
+　エクセリオンとかエルトリウムなんていうホウキは、まだルクシオンが元気に飛び回ってるから無いかもしれませんね。ルクシオンが亜光速で突っ走り続けるようになっちゃえば、あるいは出てくるかも知れません（＾＾）。<br>
+<font color="#cc88ff">&gt;＃そうして永遠に呪は解けないわけですね? (Y/y)</font><br>
+　せ、選択肢が……。それはそれとして、これからどうなるか、作者は何も考えてないので、どうなんでしょうね？　というか、ミーナって終われるんだろうかって不安の方が……<br>
 <br>
-<font color="#ff88cc">��Zyuka�@�l</font><br>
-�@���J�߂��������A���肪�Ƃ��������܂��B���@�����Ƃ����Ă��A�����̘A���͂��Ȃ�C���M�����[�Ȃ̂΂���ł����ǂˁ�<br>
-�@�����[�͎��������Ă��Ċy�����L�����N�^�[�̈�l�ŋC�ɓ����Ă����������Ȃ�A���ꂵ���ł��B�i�܂��A�����Ă��Ă��Ȃ�p���������L�����N�^�[�̈�l�ł������ł����ǂˁi��΁j�j<br>
+<font color="#ff88cc">＞Zyuka　様</font><br>
+　お褒めいただき、ありがとうございます。魔法少女といっても、うちの連中はかなりイレギュラーなのばかりですけどね♪<br>
+　リリーは私も書いていて楽しいキャラクターの一人で気に入っていただけたなら、うれしいです。（まあ、書いていてかなり恥ずかしいキャラクターの一人でもあるんですけどね（苦笑））<br>
 <br>
-<font color="#ff88cc">�������@�l</font><br>
-�@���҂����������܂����B�y����ł����������悤�ň���S�ł��B<br>
-�@�ǂݕԂ��Ă���������Ȃ�āA���ӂł��B�������A���������΁A��ߔ��ɂR�b�ł���Ȃ��Ƃ����킹�Ă����ȁc�c�ƍ����ɂȂ��Ďv���o���āA��⊾���c�c<br>
-<font color="#cc88ff">&gt;�Ђ���Ƃ���Ɓ����g����̂́A�����̓����Ȃ̂����E�E�E�Ƃ������Ă��</font><br>
-�@�����������Ƃɂ��Ă����܂��傤�B�����@�c�c�͂��I�@�w��ɎE�C���I<br>
+<font color="#ff88cc">＞そあ　様</font><br>
+　お待たせいたしました。楽しんでいただけたようで一安心です。<br>
+　読み返していただけるなんて、感謝です。しかし、そういえば、芽衣美に３話でそんなことを言わせていたな……と今頃になって思い出して、冷や汗が……<br>
+<font color="#cc88ff">&gt;ひょっとすると☆を使えるのは、少女の特権なのかも・・・とか言ってると</font><br>
+　そういうことにしておきましょう。決定♪　……はっ！　背後に殺気が！<br>
 <br>
-�@����ł�<br>
-�@���炽�߂āA�ǂ�ł����������F�l���A���肪�Ƃ��������܂����B<br>
+　それでは<br>
+　あらためて、読んでいただいた皆様方、ありがとうございました。<br>
 </font>
 <p><a href="http://minafumi.wb.puresilk.ac/" target="_top">http://minafumi.wb.puresilk.ac/</a>
 </td></table>
@@ -210,86 +210,86 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> &quot;��&quot;���g��������́H</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> &quot;☆&quot;が使える条件は？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/07 (��) 21:46:44 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307071214644&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307071214644"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/07 (月) 21:46:44 <strong>▽</strong> そあ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307071214644_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307071214644"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�X�̐V��A�y���܂��Ă��������܂����B<br>
-������l�^�y��ł����������B<br>
+<font size=3 color=#606060>久々の新作、楽しませていただきました。<br>
+今回もネタ炸裂ですごいっす。<br>
 <br>
-���̋@��ɃV���[�Y�S����ǂݕԂ��Ă݂āA�ӂƋC���t�����̂���R�b�ł̃��C�̃Z���t�B<br>
-�u���邳���I�Ȃ����P�Ȃ�E�̂��Ȃ����A���̃~�[�i���o�����ɑ̒����S�ł����Ă�͂��Ȃ�����Ȃ��B��l�����ƂŐQ�ĂȂ����I�v<br>
+この機会にシリーズ全部を読み返してみて、ふと気が付いたのが第３話でのメイのセリフ。<br>
+「うるさい！つなぎが単なる・のあなたが、☆のミーナお姉ちゃんに体調万全でも勝てるはずないじゃない。大人しく家で寝てなさい！」<br>
 <br>
-����H���Ƃ���ƁA�v�����Z�X�E�����[��E�B���O�E�}�R�̗���́H�H<br>
+あれ？だとすると、プリンセス・ルリーやウィング・マコの立場は？？<br>
 <br>
-�Ђ���Ƃ���Ɓ����g����̂́A�����̓����Ȃ̂����E�E�E�Ƃ������Ă��<br>
-�}�R����ɎE���ꂻ���Ȃ̂ł��̂ւ�ŁB�i�΁j</font>
+ひょっとすると☆を使えるのは、少女の特権なのかも・・・とか言ってると<br>
+マコさんに殺されそうなのでこのへんで。（笑）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> Re:�~�[�i ��8�b ���z</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> Re:ミーナ 第8話 感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/05 (�y) 12:22:22 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307056122222&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307056122222"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/05 (土) 12:22:22 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307056122222_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307056122222"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �Ƃ肠�������Ԗ����̂ł��܂͂��ꂾ���Bm(__)m</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; とりあえず時間無いのでいまはこれだけ。m(__)m</font><br>
 <br>
-�����Ƃ��́A��͂�G�N�Z���I���Ƃ��G���g���E���Ȃ�Ă����z�E�L�������肷��̂ł�����?<br>
-�o�K�Ƃ�������ƎO�����P�Ƃ��v���o�����Ⴄ��ł����ǁc���Č����Ă킩��܂����? (^^;<br>
-�������A�΂��΂��B<br>
-�����A�p���f�B���ڂŏ΂��܂���A�x������Ƃ��v���Ȃ���o�ΑO�ɓǂ�ł��܂����B(^^;<br>
+えっとその、やはりエクセリオンとかエルトリウムなんていうホウキもいたりするのでせうか?<br>
+出銭とかいわれると三月魔臼とか思い出しちゃうんですけど…って言ってわかりますよね? (^^;<br>
+＃あぁ、歳がばれる。<br>
+もぉ、パロディ満載で笑いまくり、遅刻するとか思いながら出勤前に読んでいました。(^^;<br>
 <br>
-���₟�A���������A������4/1�Ƃ͂�������Ȃɐl�����҂�����悤�ȃE�\�����Ă͂����܂���˂��B<br>
-�Í����[�h�S�J�̃~�[�i�A�����ł��B�؂�Ă܂��B����Ŗ��͂̐�Ηʂ��傫����΂��������[�ɏ����ڂȂ������c�B<br>
-���������ĉi���Ɏ�͉����Ȃ��킯�ł���? (Y/y)<br>
-���a�v�A�����̍˔\�����ގ��ɂȂ����肵�āB:-)</font>
+いやぁ、里美ちゃん、いくら4/1とはいえそんなに人を期待させるようなウソをついてはいけませんねぇ。<br>
+暗黒モード全開のミーナ、強いです。切れてます。あれで魔力の絶対量が大きければもうリリーに勝ち目なさそう…。<br>
+＃そうして永遠に呪は解けないわけですね? (Y/y)<br>
+＃和久、自分の才能を恨む事になったりして。:-)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> ���@����!!</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 魔法少女!!</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/04 (��) 13:21:57 <strong>��</strong> Zyuka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307045132157&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307045132157"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/04 (金) 13:21:57 <strong>▽</strong> Zyuka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307045132157_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307045132157"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ς胊���[�����͂���!!�ō�!!<br>
-�O���C��!!�~�C����!!�i�ق߂Ă܂��j<br>
+<font size=3 color=#606060>やっぱりリリーちゃんはいい!!最高!!<br>
+グレイと!!ミイラと!!（ほめてます）<br>
 <br>
-���@�����͉��ɂ͈�������Ȃ��L�����A�����܂ł��΂炵�����̂�������͑��h���܂�!!</font>
+魔法少女は俺には扱いきれないキャラ、ここまですばらしいものを作れる方は尊敬します!!</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �~�[�i ��8�b ���z</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> ミーナ 第8話 感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/04 (��) 07:48:50 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307045074850&log=minafumido">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307045074850"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/04 (金) 07:48:50 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307045074850_log_minafumido.cgi">返信</a>　削除<input type=checkbox name="target" value="200307045074850"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�n�`���N��? ���P��? (^^;<br>
-�Ƃ肠�������Ԗ����̂ł��܂͂��ꂾ���Bm(__)m<br>
+<font size=3 color=#606060>ハチロクは? 魔臼は? (^^;<br>
+とりあえず時間無いのでいまはこれだけ。m(__)m<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="minafumido">
@@ -297,16 +297,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="minafumido">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=minafumido">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_minafumido.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

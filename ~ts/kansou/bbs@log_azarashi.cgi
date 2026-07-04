@@ -122,7 +122,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】薄幸のTSッ娘は、やはり薄幸だった！ しかし唯一の救いの手は意外なところから現れたのであった。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200411/16234920/tasu&#95;oka&#95;02.html target=_top>http://ts.novels.jp/novel/200411/16234920/tasu&#95;oka&#95;02.html</a></font>
+<a href="../../novel/200411/16234920/tasu_oka_02.html" target=_top>http://ts.novels.jp/novel/200411/16234920/tasu&#95;oka&#95;02.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -206,7 +206,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ここにまた一人、薄幸のTSッ娘が誕生したのであった。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200411/16234920/tasu&#95;oka&#95;01.html target=_top>http://ts.novels.jp/novel/200411/16234920/tasu&#95;oka&#95;01.html</a></font>
+<a href="../../novel/200411/16234920/tasu_oka_01.html" target=_top>http://ts.novels.jp/novel/200411/16234920/tasu&#95;oka&#95;01.html</a></font>
 </td></table>
 </td></tr></table>
 

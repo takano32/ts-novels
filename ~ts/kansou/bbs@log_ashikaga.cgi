@@ -136,7 +136,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】突然魔物たちの襲撃を受ける天界。猛威を振るう女性化ウィルス『ヴァニシュ』……重要参考人を追う飯田警視に迫る危機。間に合うか！？　幸一郎！！<br>
-<a href=http://ts.novels.jp/novel/200305/24153340/henkaku28.htm target=_top>http://ts.novels.jp/novel/200305/24153340/henkaku28.htm</a></font>
+<a href="../../novel/200305/24153340/henkaku28.htm" target=_top>http://ts.novels.jp/novel/200305/24153340/henkaku28.htm</a></font>
 </td></table>
 </td></tr></table>
 

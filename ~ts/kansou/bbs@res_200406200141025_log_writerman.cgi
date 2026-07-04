@@ -1,51 +1,51 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���C�^�[�}�������i�@���z�f����</title>
+<title>ライターマンさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���C�^�[�}�������i�@���z�f����</font>
+<font size=5>ライターマンさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="writerman">
 <input type=hidden name="nj" value="dVUgYLZeQ9">
 <input type=hidden name="res" value="257">
-<h4 align=center>�� �L���ԍ� 257 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 257 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ݂ɂ����ł��B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��ǎ҂���
-&gt; �����������Ȋ��z���q�ׂ����Ǝv���܂��B
-&gt; �͂����茾���čŒ�ł��I
-&gt; �`���ŉ����̎Y�Ƃ���������Ă��܂����A�����ǂ�ł���ȗ\�������܂����B
-&gt; �t�@���^�W�[�����ɂ��肪���Ȗ��q�}�t�̐����Ɋׂ��Ă��܂��񂶂�Ȃ����ƁB
-&gt; �Ă̒�A�����̌n��������邭����ŁA����A���݂���������ߏ�ɉ������A
-&gt; ��������炸�ɉƌn��z���`���̂��h���Ȃ�܂����B
-&gt; �r���œǂނ̂𓊂��o���Ă��܂��܂����B
-&gt; ���߂āA�n���}�ł�����΂悩������ł����ˁB
-&gt; �ǂݔ�ꂽ���_�ŁA�u���E�U�̃X�N���[���o�[�̈ʒu�����āA
-&gt; ���̒��q�������̂��Ƃ���Ȃ肵�܂����B
-&gt; ���E���ł��������A�I�`���\�z�ł��邾���ɓǎ҂���������H�v������Ȃ��񂶂�Ȃ����Ǝv���܂��B
-&gt; �����炭�A�Ђ�߂������Ńp�\�R���Ɍ������Ď��M���J�n�����̂ł͂Ȃ��ł���?
-&gt; �܂��A���X�Ŕ����Ă��鏤�ƃ��x���̍�i���������ڂ�ʂ���Ă݂Ă͂������ł��傤�B
-&gt; ����̔��W�Ɋ��҂��܂��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読みにくいです。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 一読者さん
+&gt; 厳しい率直な感想を述べたいと思います。
+&gt; はっきり言って最低です！
+&gt; 冒頭で王国の産業が説明されていますが、これを読んでいやな予感がしました。
+&gt; ファンタジー小説にありがちな末子枝葉の説明に陥ってしまうんじゃないかと。
+&gt; 案の定、王国の系譜が語られるくだりで、逐一、こみいった事情が過剰に解説され、
+&gt; メモを取らずに家系を想い描くのが辛くなりました。
+&gt; 途中で読むのを投げ出してしまいました。
+&gt; せめて、系統図でもあればよかったんですがね。
+&gt; 読み疲れた時点で、ブラウザのスクロールバーの位置を見て、
+&gt; この調子が続くのかとげんなりしました。
+&gt; 推薦文でだいたい、オチが予想できるだけに読者を牽引する工夫が足りないんじゃないかと思います。
+&gt; おそらく、ひらめきだけでパソコンに向かって執筆を開始したのではないですか?
+&gt; まず、書店で売られている商業レベルの作品をいくつか目を通されてみてはいかがでしょう。
+&gt; 今後の発展に期待します。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -58,49 +58,49 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[273]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ���܂�̂����Ȏ��A�����Ȃ����ǁc�c</font>
+<font size=2>[273]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> あまり偉そうな事、言えないけど……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/01 (��) 21:54:26 <strong>��</strong> <a href="mailto:mikamo-@nifty.com">�������C��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407014215426&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407014215426"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/01 (木) 21:54:26 <strong>▽</strong> <a href="mailto:mikamo-@nifty.com">かもライン</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407014215426_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200407014215426"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�A�C�f�A���A�����ʂ���Ă���Ƃ������A<br>
-�A�C�f�A���v�����܂܏o���Ă݂܂����A�Ƃ��������ł��傤���B<br>
-���ɒZ�҂Ƃ��ďo�������l����̂Ȃ�A�ǂސl���ǂ��������������i��ׂ��������̂����B<br>
-�ӕ\�������W�J�ɂЂ����肱�݂����̂��A<br>
-�v�킸�A�ۂ�ۂ킟�ƖG�����������̂��A<br>
-��l�������̃Z���t�̉��V�╶�͂̃��Y���ɂ̂������̂��A<br>
-��������ǂ܂��āA���̕��͂̉��ɂ�����̂��������������̂�<br>
-�l�ԃh���}�Ɋ������������̂��A�d�s�r<br>
+<font size=3 color=#606060>アイデアが、文字通り溢れているというか、<br>
+アイデアを思いつくまま出してみました、という感じでしょうか。<br>
+特に短編として出す事を考えるのなら、読む人をどうさせたいかを絞るべきだったのかも。<br>
+意表をついた展開にひきずりこみたいのか、<br>
+思わず、ぽわぽわぁと萌えさせたいのか、<br>
+主人公たちのセリフの応酬や文章のリズムにのせたいのか、<br>
+じっくり読ませて、その文章の奥にあるものを感じさせたいのか<br>
+人間ドラマに感動させたいのか、ＥＴＳ<br>
 <br>
-�t�Ɍ����΁A����ȊO�̗v�f�̂��̂̓o�b�T���؂�̂Ă��������������B<br>
-���������Ȃ��Ǝv������A����͕ʂ̍�i�Ƃ��ď����Ă������Ǝv�����B<br>
+逆に言えば、それ以外の要素のものはバッサリ切り捨てた方がいいかも。<br>
+もったいないと思ったら、それは別の作品として書いてもいいと思うし。<br>
 <br>
-���āA���̖��̖^���ƍ�i�Ȃ�ł����A<br>
-����ς�S�P�W���{�O�g��Ƃ����A�A���ł��傤���B</font>
+さて、その問題の某商業作品なんですが、<br>
+やっぱり全１８巻＋前身作という、アレでしょうか。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[272]</font> <font size=4 color=#40c0c0> Re:������p���ң�ɂ���</font>
+<font size=2>[272]</font> <font size=4 color=#40c0c0> Re:｢王を継ぐ者｣について</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/26 (�y) 08:59:42 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406266085942&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406266085942"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/26 (土) 08:59:42 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406266085942_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406266085942"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���C�^�[�}������<br>
-<font color="#cc88ff">&gt; ���̂�����𖣗͓I�ɏ����Ȃ��Ƃ��낪���̍˔\�̌��E�ł��傤���B<br>
-&gt; ���΂炭�͏����̂��~�߂Ă��̕ӂ���������l���Ă݂悤���Ƃ��v�����̂ł����A����͉���Ȃ�ɏ����Â��Ȃ����ɐi�߂Ȃ��C�����邵�c�c</font><br>
+<font size=3 color=#606060>▼ ライターマンさん<br>
+<font color="#cc88ff">&gt; このあたりを魅力的に書けないところが私の才能の限界でしょうか。<br>
+&gt; しばらくは書くのを止めてその辺をじっくり考えてみようかとも思ったのですが、下手は下手なりに書きつづけなきゃ先に進めない気もするし……</font><br>
 <br>
-�������̃T�C�g�Ŏ��M�r���̂��̂𐏎��f�ڂ���Ă��邱�Ƃ͑����Ă���܂����A���X�q�����Ă���܂��B<br>
-���C�^�[�}������̍앗�́A�������肵���`�ʂɓ���������Ǝv���܂��B����ԈႤ�Ƃ��߂��߂Ƃ������͋C�ɂȂ��Ă��܂������Ȃ��̂ł��A�����Ȃ炸�ɑf���ɓǂ܂��Ă��܂������╨��^�т͂����ƌւ��ėǂ��Ǝv���܂��B<br>
+ご自分のサイトで執筆途中のものを随時掲載されていることは存じておりますし、時々拝見しております。<br>
+ライターマンさんの作風は、あっさりした描写に特徴があると思います。一歩間違うとじめじめとした雰囲気になってしまいそうなものでも、そうならずに素直に読ませてしまう語り口や物語運びはもっと誇られて良いと思います。<br>
 <br>
-�������� (�����Č����Ȃ�w�Ό��x���Ȃ̂ł���) �́A��x�����܂œ��B���ꂽ���_�ł����Ɋ����Ƃ����ɁA�������������x���ȂȂ���e�����Ƃ������@����ꂽ�̂ł͂Ȃ��ł��傤���B<br>
-��Ƃ���̒��ɂ́A��x�����オ�������̂��q�ϓI�ɓǂ߂�悤�ɂȂ�܂ŏ������Ԃ������Ă��������������������Ⴂ�܂��B���C�^�[�}����������̂悤�Ȃ���������l����Ă݂Ă͂������ł��傤���H<br>
+ただ今回 (敢えて言うなら『対決』もなのですが) は、一度結末まで到達された時点ですぐに完成とせずに、そこからもう一度推敲なり改稿されるという方法も取れたのではないでしょうか。<br>
+作家さんの中には、一度書き上がったものを客観的に読めるようになるまで少し期間をおいてから手を入れる方もいらっしゃいます。ライターマンさんもこのようなやり方をご一考されてみてはいかがでしょうか？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -108,28 +108,28 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[271]</font> <font size=4 color=#40c0c0> ������p���ң�ɂ���</font>
+<font size=2>[271]</font> <font size=4 color=#40c0c0> ｢王を継ぐ者｣について</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/26 (�y) 06:53:56 <strong>��</strong> <a href="mailto:kagawa@elf.coara.or.jp">���C�^�[�}��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406266065356&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406266065356"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/26 (土) 06:53:56 <strong>▽</strong> <a href="mailto:kagawa@elf.coara.or.jp">ライターマン</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406266065356_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406266065356"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A���C�^�[�}���ł��B<br>
+<font size=3 color=#606060>どうも、ライターマンです。<br>
 <br>
-���[��A����͔ᔻ�I�ȏ������݂������Ȃ��B<br>
-�ŏ��̍��͌��\�V���b�N��������ł����ǁA�܂����ꂾ���̏������݂��������ƌ������͍�Җ����ɐs���邩�ȁH�@�Ȃ�Ďv�����肵��(�I�C�I�C)�B<br>
+うーん、今回は批判的な書き込みが多いなあ。<br>
+最初の頃は結構ショックだったんですけど、まあこれだけの書き込みがあったと言う事は作者冥利に尽きるかな？　なんて思ったりして(オイオイ)。<br>
 <br>
-�܁A�O�����������S�ɂȂ����͎̂����Ƃ��Ă͎d���Ȃ����ȁH�@�Ƃ��v���Ă܂��B<br>
-�ꉞ�V���A�X���ۂ������Ă���̂ŏȗ�����Ƣ���ł��̒��x�̎��ŏ��ɂȂ�Ȃ���Ȃ�Ȃ��́H��Ƃ����ᔻ���o��Ǝv�����̂ł��B<br>
+ま、前半が説明中心になったのは自分としては仕方ないかな？　とか思ってます。<br>
+一応シリアスっぽく書いているので省略すると｢何でその程度の事で女にならなきゃならないの？｣という批判が出ると思ったのです。<br>
 <br>
-�����A�������邾���łȂ������ʔ���������(���邢�͖G��������)�悤�ȃG�s�\�[�h�𐷂荞�ނׂ����������ȁH�@�Ǝv���܂��B<br>
-�ێ�h�Ɖ��v�h�̑����Ƃ��O�����U�߂Ă������Ƃ����̂ࢉ��Ƃ����Ȃ���Ȃ�Ȃ����Ǒ��ɕ��@���Ȃ������Ԃ��Ȃ���󋵂���肽����������Ȃ�ł����ǁA�s�r�D���̕����猩��Ώ璷�ȕ����ł��������͔ۂ߂Ȃ��ł��傤�B<br>
-���̂�����𖣗͓I�ɏ����Ȃ��Ƃ��낪���̍˔\�̌��E�ł��傤���B<br>
-���΂炭�͏����̂��~�߂Ă��̕ӂ���������l���Ă݂悤���Ƃ��v�����̂ł����A����͉���Ȃ�ɏ����Â��Ȃ����ɐi�߂Ȃ��C�����邵�c�c<br>
+ただ、説明するだけでなく少し面白くさせる(あるいは萌えさせる)ようなエピソードを盛り込むべきだったかな？　と思います。<br>
+保守派と改革派の争いとか外国が攻めてきそうというのも｢何とかしなきゃならないけど他に方法がないし時間もない｣状況を作りたかったからなんですけど、ＴＳ好きの方から見れば冗長な部分であった事は否めないでしょう。<br>
+このあたりを魅力的に書けないところが私の才能の限界でしょうか。<br>
+しばらくは書くのを止めてその辺をじっくり考えてみようかとも思ったのですが、下手は下手なりに書きつづけなきゃ先に進めない気もするし……<br>
 <br>
-������ɂ��Ă��M�d�Ȋ��z�ƈӌ��������������肪�Ƃ��������܂����B<br>
-����ł͂���ɂĎ��炵�܂��B</font>
+いずれにしても貴重な感想と意見をいただきありがとうございました。<br>
+それではこれにて失礼します。</font>
 <p><a href="http://www3.coara.or.jp/~kagawa/writerman/" target="_top">http://www3.coara.or.jp/~kagawa/writerman/</a>
 </td></table>
 </td></tr></table>
@@ -137,22 +137,22 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[270]</font> <font size=4 color=#40c0c0> �w�����p���ҁx �������͂��Ȃ�ǂݔ�΂��܂���</font>
+<font size=2>[270]</font> <font size=4 color=#40c0c0> 『王を継ぐ者』 正直私はかなり読み飛ばしました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/26 (�y) 01:24:53 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406266012453&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406266012453"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/26 (土) 01:24:53 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406266012453_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406266012453"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�O�������͂΂�����ƁB<br>
-�ǂ݂₷���E�ǂ݂ɂ����̔��f��ł͂Ȃ��A�u�ǂ܂Ȃ��Ă��֌W�Ȃ��v�Ǝv��������ł��B�܂�A�Z�҂Ƃ��čl�����ꍇ�A�O���͏璷�ȕ������Ǝv���܂����B<br>
-�����̍���Ƃ��Ă̂��Ƃ��l����ƁA�u�r���œǂނ̂���߂��v�u���Ԃ�ς��ēǂ񂾁v�u�ꕔ��ǂݔ�΂����v�Ƃ������Ƃ��N����̂́A��҂Ƃ��Ắu�����v�ł͂Ȃ��ł��傤���B<br>
+<font size=3 color=#606060>前半部分はばっさりと。<br>
+読みやすい・読みにくいの判断基準ではなく、「読まなくても関係ない」と思ったからです。つまり、短編として考えた場合、前半は冗長な部分だと思いました。<br>
+小説の作り手としてのことを考えると、「途中で読むのをやめた」「順番を変えて読んだ」「一部を読み飛ばした」ということが起きるのは、作者としては「負け」ではないでしょうか。<br>
 <br>
-����̍�i�����ǂ����悤�Ƃ���Ȃ�A���̂悤�Ȃ��Ƃ��l������Ǝv���܂��B<br>
-�Z�҂Ƃ��Ă�������Ƃ܂Ƃ߂�̂Ȃ�A�O���͂���قǒ������K�v�͂Ȃ��ł��傤���A�t�ɑO�������̃G�s�\�[�h�������������̂Ȃ�A�����Ɠ��e��Z�����āA�S�̂̕��ʂ����{���ɖc��܂��������L�p���Ǝv���܂��B<br>
+今回の作品をより良くしようとするなら、次のようなことが考えられると思います。<br>
+短編としてきっちりとまとめるのなら、前半はあれほど長く語る必要はないでしょうし、逆に前半部分のエピソードを活かしたいのなら、もっと内容を濃くして、全体の分量も何倍かに膨らました方が有用だと思います。<br>
 <br>
-���āA���͈�ǎ҂���̈ӌ��́A���e�]�X�����A���̌������𒍈ӂ��ꂽ�����ǂ��̂ł͂Ȃ����Ǝv���܂��B<br>
-��ǎ҂��񂪁A�u�ǂ߂Ȃ������v�Ǝv�������Ƃ��A������Ɨ��R���ĂĐ�������Ă邱�Ƃ͕]�������ׂ��ł��傤�B<br>
+さて、私は一読者さんの意見は、内容云々よりも、その言い方を注意された方が良いのではないかと思います。<br>
+一読者さんが、「読めなかった」と思ったことを、きちんと理由立てて説明されてることは評価されるべきでしょう。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -160,18 +160,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[269]</font> <font size=4 color=#40c0c0> Re2:�����p���ҁ@���z</font>
+<font size=2>[269]</font> <font size=4 color=#40c0c0> Re2:王を継ぐ者　感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/25 (��) 14:14:05 <strong>��</strong> ���} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406255141405&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406255141405"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/25 (金) 14:14:05 <strong>▽</strong> ラマ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406255141405_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406255141405"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����W�S�Q�U�������<br>
-<font color="#cc88ff">&gt; �����ɂ����G��������I�ƌ����Ă݂�e�X�g�i���j</font><br>
+<font size=3 color=#606060>▼ ｍｋ８４２６＠自宅さん<br>
+<font color="#cc88ff">&gt; そこにこそ萌えがある！と言ってみるテスト（爆）</font><br>
 <br>
-�������`�A�������܂��܂��C�s������Ȃ��ȁ[�i�΁j<br>
-���i���˂΁i���j<br>
+そうか〜、自分もまだまだ修行が足りないなー（笑）<br>
+精進せねば（爆）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -179,16 +179,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[268]</font> <font size=4 color=#40c0c0> Re:�����p���ҁ@���z</font>
+<font size=2>[268]</font> <font size=4 color=#40c0c0> Re:王を継ぐ者　感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/24 (��) 23:58:49 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406244235849&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406244235849"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/24 (木) 23:58:49 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406244235849_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406244235849"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ���}����<br>
-<font color="#cc88ff">&gt; �ł��c�T�N�����Ă��j���t�Œj���m�̉�b�݂����ɘb���̂́c������ƈނ��܂����B</font><br>
-�����ɂ����G��������I�ƌ����Ă݂�e�X�g�i���j</font>
+<font size=3 color=#606060>▼ ラマさん<br>
+<font color="#cc88ff">&gt; でも…５年たっても男言葉で男同士の会話みたいに話すのは…ちょっと萎えました。</font><br>
+そこにこそ萌えがある！と言ってみるテスト（爆）</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -196,55 +196,55 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[267]</font> <font size=4 color=#40c0c0> ���~�}�V�^</font>
+<font size=2>[267]</font> <font size=4 color=#40c0c0> ヨミマシタ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/24 (��) 21:44:20 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406244214420&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406244214420"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/24 (木) 21:44:20 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406244214420_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406244214420"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂩂��񑩂ȓW�J�ł������A����Ƃ͕ʂɖʔ������ǂ݂₷�������ł��B</font>
+<font size=3 color=#606060>なんかお約束な展開でしたが、それとは別に面白くかつ読みやすかったです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[266]</font> <font size=4 color=#40c0c0> �����p���ҁ@���z</font>
+<font size=2>[266]</font> <font size=4 color=#40c0c0> 王を継ぐ者　感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/24 (��) 12:25:17 <strong>��</strong> ���} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406244122517&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406244122517"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/24 (木) 12:25:17 <strong>▽</strong> ラマ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406244122517_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406244122517"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ʔ��������ł��B�m���ɁA�r���i�V�k���o���ӂ�j�ŉ��ƂȂ��W�J���ǂ߂�������̂ł����A����ł���i�`�ʂ��������肵�Ă���̂ŁA�b���Ɉ������܂�đf���ɍŌ�܂œǂ߂܂����B���l�n�m�c�n����̊G������������^^<br>
-���܂��Ɋy���܂��Ă��炢�܂����B10�l���Y�ނȂ�Đ����Ƃ�����^^�G<br>
-�ł��c�T�N�����Ă��j���t�Œj���m�̉�b�݂����ɘb���̂́c������ƈނ��܂����B<br>
-�Ƃ�����A�����́u�ǂ߂��i�i�ǂ��Ӗ��Łj�v�������Ǝv���܂��B</font>
+<font size=3 color=#606060>面白かったです。確かに、途中（老婆が出た辺り）で何となく展開が読めちゃったのですが、それでも情景描写がしっかりしているので、話しに引き込まれて素直に最後まで読めました。＊ＭＯＮＤＯさんの絵も可愛かったし^^<br>
+おまけに楽しませてもらいました。10人も産むなんて凄いというか^^；<br>
+でも…５年たっても男言葉で男同士の会話みたいに話すのは…ちょっと萎えました。<br>
+ともあれ、自分は「読める作品（良い意味で）」だったと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[265]</font> <font size=4 color=#40c0c0> �Ό��A��ǂ݂܂����̂Ŋ��z�`</font>
+<font size=2>[265]</font> <font size=4 color=#40c0c0> 対決、を読みましたので感想〜</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/21 (��) 14:26:33 <strong>��</strong> ��_�̌��m </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406211142633&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406211142633"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/21 (月) 14:26:33 <strong>▽</strong> 御神の剣士 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406211142633_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406211142633"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���C�^�[�}������̍�i�A�Ό���ǂ݂܂����̂Ŋ��z�`<br>
+<font size=3 color=#606060>ライターマンさんの作品、対決を読みましたので感想〜<br>
 <br>
-�ʔ�����i�������Ƒf���Ɏv���܂���H�@���́B<br>
-�����������j�����ɂȂ�Ƃ�������i�͍D���ł��i�{�����߂Ă����ɗ��āA���߂ēǂ񂾍�i�Ȃ̂ł������j<br>
-�`���̐������������ĕK�v���Ǝv���܂��B�Q�[���Ȃǂ̌��삪����񎟂r�r�Ȃ�܂������A�I���W�i���̕��͂ɂȂ�Ƃ���Ȃ�ɐ��E�ς̐����͕K�v�ł��傤�B���ꂭ�炢�̋K�͂ŕ���������Ă�����A���ʂ̏����ȂǓǂ߂܂���B<br>
+面白い作品だったと素直に思いますよ？　私は。<br>
+こういった男が女になるとかいう作品は好きです（本日初めてここに来て、初めて読んだ作品なのですがｗ）<br>
+冒頭の説明部分だって必要だと思います。ゲームなどの原作がある二次ＳＳならまだしも、オリジナルの文章になるとそれなりに世界観の説明は必要でしょう。これくらいの規模で文句を言っていたら、普通の小説など読めません。<br>
 <br>
-�ł��A���̍�i��ǂݏI���Ĉ�Ԏv�������ƁB<br>
-���̓�l����������炢����ł����ǁA��l���키�\���Ȃǎ��ۂ͒Ⴍ�A���_�Ƃ��Ắw��l�Ƃ��j�ɐ����Ă����x�\����A�w��l�Ƃ����ɐ����Ă����x�\������������ł��傤�ˁ`��<br>
-�������炻��łǂ��Ȃ��Ă������c�c���@����A�����Ȃ�Ƃg���������@�d�����ŏI���Ȃ��ł��傤���ǂ�<br>
+でも、この作品を読み終えて一番思ったこと。<br>
+この二人が戦ったからいいんですけど、二人が戦う可能性など実際は低く、結論としては『二人とも男に成っていた』可能性や、『二人とも女に成っていた』可能性もあったんでしょうね〜ｗ<br>
+そしたらそれでどうなっていたか……ｗ　いや、そうなるとＨａｐｐｙ　Ｅｎｄで終われないでしょうけどｗ<br>
 <br>
-����ł́`�A���M�撣���Ă�������</font>
+それでは〜、執筆頑張ってください</font>
 <p><a href="http://f19.aaacafe.ne.jp/~nanotan/" target="_top">http://f19.aaacafe.ne.jp/~nanotan/</a>
 </td></table>
 </td></tr></table>
@@ -252,25 +252,25 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[264]</font> <font size=4 color=#40c0c0> ���`��c�c</font>
+<font size=2>[264]</font> <font size=4 color=#40c0c0> う〜ん……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/21 (��) 12:11:56 <strong>��</strong> �� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406211121156&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406211121156"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/21 (月) 12:11:56 <strong>▽</strong> 砕 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406211121156_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200406211121156"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�m���ɃZ���t�͐��������ȋC�����Ȃ��ł�����܂��񂪁c�B<br>
-�ʒi�ǂ݂ɂ����Ƃ����킯�ł��Ȃ��Ǝv���܂���H�@�`���̎Y�Ɛ��������āA�P�Ȃ铱�������ł��傤�B<br>
-�ł��܂��悪�ǂ߂Ă��܂��Ƃ��A������Ɛ������ߏ�ȋC�͂��܂����B<br>
+<font size=3 color=#606060>確かにセリフは説明口調な気がしないでもありませんが…。<br>
+別段読みにくいというわけでもないと思いますよ？　冒頭の産業説明だって、単なる導入部分でしょう。<br>
+でもまあ先が読めてしまうとか、ちょっと説明が過剰な気はしました。<br>
 <br>
-�� ��ǎ҂���<br>
-����܂茾�������͂Ȃ��ł����ǂˁc�A���Ȃ��Ƃ��Ō�܂œǂ�ł����]�͌����Ă��������B</font>
+▼ 一読者さん<br>
+あんまり言いたくはないですけどね…、少なくとも最後まで読んでから批評は言ってください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="writerman">
@@ -278,16 +278,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="writerman">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=writerman">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_writerman.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -56,7 +56,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】帰ってきたＴＳ大好き忍者？少年藤丸和也クン。奥義『陰画移し』を使ってまたまたひと騒動……おや、いつもと様子が──<br>
-<a href=http://ts.novels.jp/novel/200606/27201201/ougi04.html target=_top>http://ts.novels.jp/novel/200606/27201201/ougi04.html</a></font>
+<a href="../../novel/200606/27201201/ougi04.html" target=_top>http://ts.novels.jp/novel/200606/27201201/ougi04.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -167,7 +167,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】２０１１年話題のアニメ、その二次創作がついに「文庫」にも登場。「あれ」の口車に乗って魔法少女を“継いだ”主人公が見た真実と、そして──<br>
-<a href=http://ts.novels.jp/novel/201112/08201419/sayaka.html target=_top>http://ts.novels.jp/novel/201112/08201419/sayaka.html</a></font>
+<a href="../../novel/201112/08201419/sayaka.html" target=_top>http://ts.novels.jp/novel/201112/08201419/sayaka.html</a></font>
 </td></table>
 </td></tr></table>
 

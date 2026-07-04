@@ -100,7 +100,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】性転換システム実験の被験者たちを描いた「アンテナショップ」の姉妹編。城弾さんの「声優」に対する思いと愛が詰まったお話です。<br>
-<a href=http://ts.novels.jp/novel/201212/18232308/angelvoice.htm target=_top>http://ts.novels.jp/novel/201212/18232308/angelvoice.htm</a></font>
+<a href="../../novel/201212/18232308/angelvoice.htm" target=_top>http://ts.novels.jp/novel/201212/18232308/angelvoice.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -268,7 +268,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】元に戻れることが確実ならば、他人（男の子）の身体を使ってあれやこれやをやってみたいっ！　“借りられる”方はたまったもんじゃないですが（笑）。<br>
-<a href=http://ts.novels.jp/novel/201212/18232308/calendargirl.htm target=_top>http://ts.novels.jp/novel/201212/18232308/calendargirl.htm</a></font>
+<a href="../../novel/201212/18232308/calendargirl.htm" target=_top>http://ts.novels.jp/novel/201212/18232308/calendargirl.htm</a></font>
 </td></table>
 </td></tr></table>
 

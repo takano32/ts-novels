@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,36 +15,36 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="VrFy614QLs">
 <input type=hidden name="res" value="456">
-<h4 align=center>�� �L���ԍ� 456 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 456 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2:�ӌ�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��_������
-&gt; �� ������]����
-&gt; &gt; �j�ōK������Ȃ��l���A���ɂȂ��čK���ɂȂ��킯�Ȃ��ł����
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2:意見"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 矢治浩平さん
+&gt; ▼ 匿名希望さん
+&gt; &gt; 男で幸せじゃない人が、女になって幸せになれるわけないですよね
 &gt; 
-&gt; �j���ƕs�K�����ǁA�����ƍK���Ȑl�B
-&gt; �����ƕs�K�����ǁA�j���ƍK���Ȑl�B
-&gt; �j�ł����ł��s�K�ɂȂ�l
-&gt; �j�ł����ł��K���ɂȂ��l
+&gt; 男だと不幸だけど、女だと幸福な人。
+&gt; 女だと不幸だけど、男だと幸福な人。
+&gt; 男でも女でも不幸になる人
+&gt; 男でも女でも幸福になれる人
 &gt; 
-&gt; �����ɂ͑S������ƍl����̂������I�ł��傤�B
-&gt; �t�B�N�V��������鑤�Ƃ��Ă����΁A�o��l�����ǂꂩ�ɓ��Ă͂܂�Ƃ����O��ŏ����܂���ȁB������Ɏ����Ă���̂́A�u�j�ł����ł��K���ɂȂ��l�v��ڎw���킯�ł����B</textarea><br>
+&gt; 現実には全員いると考えるのが合理的でしょう。
+&gt; フィクションを作る側としていえば、登場人物がどれかに当てはまるという前提で書きますわな。主役級に持ってくるのは、「男でも女でも幸福になれる人」を目指すわけですが。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -57,48 +57,48 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[477]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> Re:�E�ӂ����̂�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[477]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> Re:殺意を持つのは</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/30 (��) 01:10:54  NHK </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406303011054">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406303011054"></font>
+<font size=-1 color=#606060> 2004/06/30 (水) 01:10:54  NHK </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406303011054.cgi">返信</a>　削除<input type=checkbox name="target" value="200406303011054"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� ��_������<br>
-<font color="#cc88ff">&gt; ����N�F���́A�u�l�͒N�ł��l���E������̂��Ƃ����z���͂Ɍ����Ă���v�Ƃ����Ӗ��̂��Ƃ��G�b�Z�C�ŏ����Ă��܂����B�̂̂ق����m��Ȃ��Ƃ���Ől������ł��������Ȃ񂶂�Ȃ����Ȃ��B</font><br>
-�@�m���y��s�S���w����z�i[��]�����@�́j�ɏ�L�̂��Ƃ𗠕t����悤�Ȃ��Ƃ������Ă������悤�ȁc�c�B������Ɩ{���茳�ɂȂ��̂Ŋm���߂��Ȃ��B<br>
-<font color="#ff88cc">���Ƃ������̏����ُ̈퐫���N���[�Y�A�b�v�����񂾂��ǁA�l�Ԃ͖{���I�ɂ����������̂��ƍl����΁A�@�����⃂�����Ƃ������̂́A�����������̂�������邽�߂ɂ��񂴂����āA��̂ɐl�Ԃ͖\�͂��������Ƃ����I���������A���Ă��ƂȂ񂾂�ˁB</font><br>
- �m���ɁA���S�K�N�����̎��ɂ��Ă����������ǁA�����Ɉُ�̃��b�e����\�肽����񓹂ɂ́A������ƌ��C�����܂��ˁB���Ȃ݂ɁA���NA�̓��N�^�[���m�̂悤�ȉ����ł͂Ȃ��A��e���D�iMaternal Deprivation�j�Ə����̕s�^�������ŁA���̎������N�����Ă��܂����悤�ł��B<br>
-�@�ł��A���������q�ǂ��͂܂���������g�ɂ��Ă��Ȃ�����q�ǂ��Ȃ񂾂��A�������������͂��ꂩ������X�͋N����񂾂낤�Ȃ��B</font>
+<font size=4 color=#000000>▼ 矢治浩平さん<br>
+<font color="#cc88ff">&gt; 筒井康孝が昔、「人は誰でも人を殺しうるのだという想像力に欠けている」という意味のことをエッセイで書いていました。昔のほうが知らないところで人が死んでいただけなんじゃないかなあ。</font><br>
+　確か【非行心理学入門】（[著]福島　章）に上記のことを裏付けるようなことが書いてあったような……。ちょっと本が手元にないので確かめられない。<br>
+<font color="#ff88cc">＞とかく件の少女の異常性がクローズアップされるんだけど、人間は本質的にそういうものだと考えれば、法整備やモラルというものは、そういうものを回避するためにそんざいして、大昔に人間は暴力を回避するという選択をした、ってことなんだよね。</font><br>
+ 確かに、酒鬼薔薇事件の時にしてもそうだけど、すぐに異常のレッテルを貼りたがる報道には、ちょっと嫌気がしますね。ちなみに、少年Aはレクター博士のような怪物ではなく、母親剥奪（Maternal Deprivation）と少しの不運が原因で、あの事件を起こしてしまったようです。<br>
+　でも、そもそも子どもはまだモラルを身につけていないから子どもなんだし、こういう事件はこれからも時々は起こるんだろうなぁ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[476]</font> <font size=4 color=#50d0d0> ���N�C�G��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[476]</font> <font size=4 color=#50d0d0> レクイエム</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/28 (��) 12:04:40  <a href="mailto:yendolls@docomo.ne.jp">������</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406281120440">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406281120440"></font>
+<font size=-1 color=#606060> 2004/06/28 (月) 12:04:40  <a href="mailto:yendolls@docomo.ne.jp">¥＝＄</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406281120440.cgi">返信</a>　削除<input type=checkbox name="target" value="200406281120440"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�X�y�[�X�V�����[TV�ŁABACK HORN���̂��Ă��邻�̔w�i�ɁA���Ęb��̉f��A�L���V���[�����f���Ă����B�e�[�}�\���O�Ȃ̂��A�C���X�p�C�A���m��Ȃ����ǁA���̉f�����ςė܂��łĂ����B���̉f���̔������I  ���ꂼ���{�����グ�����B�̔��I  �S���E��I  ���̉f����ςė܂𗬂��I</font>
+<font size=4 color=#000000>スペースシャワーTVで、BACK HORNが歌っているその背景に、今夏話題の映画、キャシャーンが映っていた。テーマソングなのか、インスパイアか知らないけど、その映像を観て涙がでてきた。この映像の美しさ！  これぞ日本が作り上げた特撮の美！  全世界よ！  この映画を観て涙を流せ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[475]</font> <font size=4 color=#50d0d0> �E�ӂ����̂�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[475]</font> <font size=4 color=#50d0d0> 殺意を持つのは</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/26 (�y) 10:39:37  ��_�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406266103937">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406266103937"></font>
+<font size=-1 color=#606060> 2004/06/26 (土) 10:39:37  矢治浩平 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406266103937.cgi">返信</a>　削除<input type=checkbox name="target" value="200406266103937"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>����N�F���́A�u�l�͒N�ł��l���E������̂��Ƃ����z���͂Ɍ����Ă���v�Ƃ����Ӗ��̂��Ƃ��G�b�Z�C�ŏ����Ă��܂����B�̂̂ق����m��Ȃ��Ƃ���Ől������ł��������Ȃ񂶂�Ȃ����Ȃ��B�Ƃ������̏����ُ̈퐫���N���[�Y�A�b�v�����񂾂��ǁA�l�Ԃ͖{���I�ɂ����������̂��ƍl����΁A�@�����⃂�����Ƃ������̂́A�����������̂�������邽�߂ɂ��񂴂����āA��̂ɐl�Ԃ͖\�͂��������Ƃ����I���������A���Ă��ƂȂ񂾂�ˁB<br>
-���w���̂Ƃ��A�l�ׂ͗ɍ����Ă��郄�c���J�b�^�[�i�C�t�Ő؂낤�Ǝv�������Ƃ͂����B���Ȃ������͈̂�ɗE�C���Ȃ���������ŁA����ԈႦ�Ă���l���l���h���Ă��������ˁB<br>
+<font size=4 color=#000000>筒井康孝が昔、「人は誰でも人を殺しうるのだという想像力に欠けている」という意味のことをエッセイで書いていました。昔のほうが知らないところで人が死んでいただけなんじゃないかなあ。とかく件の少女の異常性がクローズアップされるんだけど、人間は本質的にそういうものだと考えれば、法整備やモラルというものは、そういうものを回避するためにそんざいして、大昔に人間は暴力を回避するという選択をした、ってことなんだよね。<br>
+小学生のとき、僕は隣に座っているヤツをカッターナイフで切ろうと思ったことはあるよ。やらなかったのは一に勇気がなかったからで、一歩間違えてたら僕も人を刺していたかもね。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -106,111 +106,111 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[474]</font> <font size=4 color=#50d0d0> Re:���x���̈Ⴂ�ł͂Ȃ�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[474]</font> <font size=4 color=#50d0d0> Re:レベルの違いではなく</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/26 (�y) 10:27:01  ��_�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406266102701">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406266102701"></font>
+<font size=-1 color=#606060> 2004/06/26 (土) 10:27:01  矢治浩平 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406266102701.cgi">返信</a>　削除<input type=checkbox name="target" value="200406266102701"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� kardy����<br>
-<font color="#cc88ff">&gt; �܂��P���ɍl���āA���F�̂���̍\���A�܂��Ă�u�v�l�v�̃x�[�X�ɂȂ�<br>
-&gt; �]�̍\�����j���Ō��\�ȈႢ������킯�ŁB</font><br>
+<font size=4 color=#000000>▼ kardyさん<br>
+<font color="#cc88ff">&gt; まぁ単純に考えて、染色体や肉体構造、ましてや「思考」のベースになる<br>
+&gt; 脳の構造も男女で結構な違いがあるわけで。</font><br>
 <br>
-�����A��`�q�\���̍��ɂ��Љ�I�\���̍����r���Ă݂悤�Ƃ��Ă��A���v���Ƃ����m�C�Y���傫�����ĂقƂ�ǔ�r���邾���Ӗ����Ȃ��ł��傤�B�j�Ƃ����Ƃ������܂ł��Ȃ��A�X�ɂ͈Ⴂ������킯�ł��āA�m�́A�̗́A�e�p�A�n�D�Ȃǂ̈Ⴂ�����łɂ���̂ɁA���̒��Œj�Ə��Ƃ����Ⴂ���������グ��͕̂s�v�c�ȋC�����܂��B<br>
-�����A�����̌��ɒj�����Ƃ����̂͑傫�����ւ�����悤�ȋC�����܂����A����͊��v���̂����ł��傤�ˁB</font>
+ただ、遺伝子構造の差による社会的構造の差を比較してみようとしても、環境要因というノイズが大きすぎてほとんど比較するだけ意味がないでしょう。男とか女とか言うまでもなく、個々には違いがあるわけでして、知力、体力、容姿、嗜好などの違いがすでにあるのに、その中で男と女という違いだけを取り上げるのは不思議な気がします。<br>
+ただ、これらの個性に男女差というのは大きく相関があるような気がしますが、これは環境要因のせいでしょうね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[473]</font> <font size=4 color=#50d0d0> ���x���̈Ⴂ�ł͂Ȃ�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[473]</font> <font size=4 color=#50d0d0> レベルの違いではなく</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/24 (��) 22:39:01  kardy </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406244223901">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406244223901"></font>
+<font size=-1 color=#606060> 2004/06/24 (木) 22:39:01  kardy </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406244223901.cgi">返信</a>　削除<input type=checkbox name="target" value="200406244223901"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�������̈Ⴂ����Ȃ��ł��傩�B������<br>
-��̃x�N�g���A�����Ă���W���S�R�Ⴄ���ǃX�J���[�ʂ͈ꏏ�A�݂����ȁB<br>
-�܂��P���ɍl���āA���F�̂���̍\���A�܂��Ă�u�v�l�v�̃x�[�X�ɂȂ�<br>
-�]�̍\�����j���Ō��\�ȈႢ������킯�ŁB<br>
+<font size=4 color=#000000>方向性の違いじゃないでしょか。＞性差<br>
+二つのベクトル、向いてる座標が全然違うけどスカラー量は一緒、みたいな。<br>
+まぁ単純に考えて、染色体や肉体構造、ましてや「思考」のベースになる<br>
+脳の構造も男女で結構な違いがあるわけで。<br>
 <br>
-������u�l�Ԃ̐��ʂ͒P���ȂQ���_�ł͌��Ȃ��v���āA�N�̔����ł��������H<br>
-�m���A�����ŋߏo�Ă����N�w�������Ǝv���̂ł����B</font>
+それより「人間の性別は単純な２元論では語れない」って、誰の発言でしたっけ？<br>
+確か、ごく最近出てきた哲学だったと思うのですが。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[472]</font> <font size=4 color=#50d0d0> Re2:�ŋ߂̎����l�^�����ɂ���TS���m</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[472]</font> <font size=4 color=#50d0d0> Re2:最近の時事ネタを元にしたTSモノ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/21 (��) 02:25:53  x </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406211022553">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406211022553"></font>
+<font size=-1 color=#606060> 2004/06/21 (月) 02:25:53  x </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406211022553.cgi">返信</a>　削除<input type=checkbox name="target" value="200406211022553"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� ��傤���^�c�ψ�����<br>
-<font color="#cc88ff">&gt; ���������[���e�[�}���܂񂾘b�ɂȂ肻���ł��ˁB</font><br>
-�Ƃ͂����A�ŋ߂̏��w�Z�̎�����q��Ă�����e�̗�����悭�킩���Ă��炸�A<br>
-�����Ƃ�����l�b�g�ȂǂŏW�߂��o���҂̑̌��k�Ȃǂ��Q�l�ɂ���<br>
-�z�������ŏ����Ă��܂��̂Ő[���͂Ȃ�Ȃ���������܂���w<br>
-����������͂����͗͂��ア���̂ŁB�C����������ڂ��Ă݂܂��B<br>
-�������J����Ƃ�����A�������̎����l�^�͕���̂Ȃ��ŕ����I�ɂł邾����<br>
-���Ȃ蒷�҂ɂȂ邩���B�����Ƃ�����A�ݒ�͌���Ŏ����o�ɂ�ď��X<br>
-��SF�����Ă����Ƃ������̂��l���Ă��܂�w<br>
+<font size=4 color=#000000>▼ りょう＠運営委員さん<br>
+<font color="#cc88ff">&gt; けっこう深いテーマを含んだ話になりそうですね。</font><br>
+とはいえ、最近の小学校の事情も子育てをする親の立場もよくわかっておらず、<br>
+書くとしたらネットなどで集めた経験者の体験談などを参考にして<br>
+想像だけで書いてしまうので深くはならないかもしれませんw<br>
+しかも国語力も文章力も弱いもので。気が向いたら載せてみます。<br>
+もし公開するとしたら、いくつかの時事ネタは物語のなかで部分的にでるだけで<br>
+かなり長編になるかも。書くとしたら、設定は現代で時が経つにつれて徐々<br>
+にSF化していくというものを考えていますw<br>
 <br>
-<font color="#cc88ff">&gt; ����݂��邳��́u�Ԃ����v�Ƃ�����i�������悤�ȏ󋵂ŁA</font><br>
+<font color="#cc88ff">&gt; 亜希みちるさんの「赤い鳥」という作品が同じような状況で、</font><br>
 <br>
-�ǂ�ł݂܂����B�v���O���~���O�̘b��IT�n�Əo���̂ŋ��R�ɂ�<br>
-�������l���Ă������̂Ɠ����悤�Ȏ�l���ݒ���l���Ă������Ƃɂт�����w<br>
-��l����IT�n�̎d�������Ă���Ƃ����p�^�[���ɂ��悤�Ƃ��Ă����̂ŁB</font>
+読んでみました。プログラミングの話にIT系と出たので偶然にも<br>
+自分が考えていたものと同じような主人公設定を考えていたことにびっくりw<br>
+主人公がIT系の仕事をしているというパターンにしようとしていたので。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[471]</font> <font size=4 color=#50d0d0> Re:�ŋ߂̎����l�^�����ɂ���TS���m</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[471]</font> <font size=4 color=#50d0d0> Re:最近の時事ネタを元にしたTSモノ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/20 (��) 13:56:47  ��傤���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406200135647">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406200135647"></font>
+<font size=-1 color=#606060> 2004/06/20 (日) 13:56:47  りょう＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406200135647.cgi">返信</a>　削除<input type=checkbox name="target" value="200406200135647"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� x����<br>
-<font color="#cc88ff">&gt; �\�͓I�ŕs�ސT�ōڂ���̂̓��o�C�ł��傤���H</font><br>
+<font size=4 color=#000000>▼ xさん<br>
+<font color="#cc88ff">&gt; 暴力的で不謹慎で載せるのはヤバイでしょうか？</font><br>
 <br>
-���������[���e�[�}���܂񂾘b�ɂȂ肻���ł��ˁB<br>
-�����ɓ����������肮�炢����f���i�X�g�[���[����j�ɓ��e���Ă݂āA<br>
-����̔��������Ă݂�Ƃ����̂��A����������܂���B<br>
+けっこう深いテーマを含んだ話になりそうですね。<br>
+試しに導入部あたりぐらいを第二掲示板（ストーリー道場）に投稿してみて、<br>
+周りの反応を見てみるというのもアリかもしれません。<br>
 <br>
-���e�K��ɂ͂������������e�ɂ��Ă̔���͂���܂���̂ŁA�l�I�ɂ͌f��OK���Ǝv���Ă��܂��B<br>
-����݂��邳��́u�Ԃ����v�Ƃ�����i�������悤�ȏ󋵂ŁA�f�ڂ��邩�ǂ����c�_�����̂ł����A<br>
-���ǂ͌f�ڂ��Ă݂Ă݂Ȃ���̈ӌ��𕷂��Ă݂�A�Ƃ����o�߂ɂȂ����ƋL�����Ă��܂��B</font>
+投稿規定にはそういった内容についての縛りはありませんので、個人的には掲載OKだと思っています。<br>
+亜希みちるさんの「赤い鳥」という作品が同じような状況で、掲載するかどうか議論したのですが、<br>
+結局は掲載してみてみなさんの意見を聞いてみる、という経過になったと記憶しています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[470]</font> <font size=4 color=#50d0d0> Re:���̖{�A�m���Ă�I</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[470]</font> <font size=4 color=#50d0d0> Re:この本、知ってる！</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/19 (�y) 17:34:33  <a href="mailto:yumiyumi@uperyard.com">�����񂳂Ƃ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406196173433">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406196173433"></font>
+<font size=-1 color=#606060> 2004/06/19 (土) 17:34:33  <a href="mailto:yumiyumi@uperyard.com">くだんさとり</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406196173433.cgi">返信</a>　削除<input type=checkbox name="target" value="200406196173433"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� �c�c�W����<br>
-<font color="#cc88ff">&gt; �E�˗m��g��������O�ɓǂ�ł��{�ł���B<br>
-&gt; �i��҂��A�������{�ꍂ�Z�̐�y�炵���j</font><br>
+<font size=4 color=#000000>▼ ツツジさん<br>
+<font color="#cc88ff">&gt; 窪塚洋介が身投げする前に読んでた本でしょ。<br>
+&gt; （作者が、県立横須賀高校の先輩らしい）</font><br>
 <br>
-�u���ׂ̌i���v�̂��Ƃ��ˁB<br>
+「無為の景物」のことだね。<br>
 <br>
-�����{�����ǁA���̂��������ʂ���ˁB�y�_���e�B�b�N�Ȃ܂łɁB<br>
-��ɓ���ɂ������ǁA�A�}�]���ɗ��ނ����̉��l�͂����B<br>
+薄い本だけど、ものすごい情報量だよね。ペダンティックなまでに。<br>
+手に入りにくいけど、アマゾンに頼むだけの価値はあるよ。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -218,15 +218,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[469]</font> <font size=4 color=#50d0d0> ���̖{�A�m���Ă�I</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[469]</font> <font size=4 color=#50d0d0> この本、知ってる！</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/18 (��) 22:16:34  <a href="mailto:kyumizu@docomo.ne.jp">�c�c�W</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406185221634">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406185221634"></font>
+<font size=-1 color=#606060> 2004/06/18 (金) 22:16:34  <a href="mailto:kyumizu@docomo.ne.jp">ツツジ</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406185221634.cgi">返信</a>　削除<input type=checkbox name="target" value="200406185221634"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�E�˗m��g��������O�ɓǂ�ł��{�ł���B<br>
-�i��҂��A�������{�ꍂ�Z�̐�y�炵���j<br>
+<font size=4 color=#000000>窪塚洋介が身投げする前に読んでた本でしょ。<br>
+（作者が、県立横須賀高校の先輩らしい）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -234,20 +234,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[468]</font> <font size=4 color=#50d0d0> �����ɂ���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[468]</font> <font size=4 color=#50d0d0> 性差について</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/06/17 (��) 22:40:32  ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200406174224032">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406174224032"></font>
+<font size=-1 color=#606060> 2004/06/17 (木) 22:40:32  匿名 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200406174224032.cgi">返信</a>　削除<input type=checkbox name="target" value="200406174224032"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���j�̑啔���͒j�����ڂ̐��E�ł����B�������ߔN�ɂȂ��āA�j���������������A������`�̉e�����A�j���̖{���ȂǂƂ������̂͂Ȃ��A�Ƃ����l�����Z�����܂����B�������ŋ߁A�����w�I�Ȋϓ_����A�j���ɂ͂͂�����Ƃ�����������ƌ����Ă��܂��B�݂Ȃ���͂ǂ��l���邩�A�����Ă��炦�܂���?</font>
+<font size=4 color=#000000>歴史の大部分は男尊女卑の世界でした。しかし近年になって、男女平等がうたわれ、実存主義の影響か、男女の本質などというものはない、という考えが浸透しました。しかし最近、生物学的な観点から、男女にははっきりとした差があると言われています。みなさんはどう考えるか、教えてもらえませんか?</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -255,16 +255,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

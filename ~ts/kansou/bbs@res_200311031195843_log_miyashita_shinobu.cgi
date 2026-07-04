@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�l�h�d�x�`���� ��i���z�f����</title>
+<title>ＭＩＥＹＡさん 作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�l�h�d�x�`���� ��i���z�f����</font>
+<font size=5>ＭＩＥＹＡさん 作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="miyashita_shinobu">
 <input type=hidden name="nj" value="Wm1cqf36WO">
 <input type=hidden name="res" value="49">
-<h4 align=center>�� �L���ԍ� 49 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 49 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U���d�Ԃ���
-&gt; �Ȃ񂩋v�X�ɂ����ȂƎv������A�����傫�ȓ���������܂��˂��B
-&gt; �����������A����q�����~�b�V�����Ƃ����̂́A�`�[�����[�N���K�v���Ǝv����ł����A���������܂�Ő����킹�̂悤�Ȃ��Ƃł����̂ł��傤���H
-&gt; �Ȃ񂩁A��̓W�J�ɕs��������Ă��܂��������̂���ł��B
-&gt; �Ƃ���ŁA�C�ɂȂ�L�����A�o�Ă��܂����˂��B�ނ��ǂ�����ł���̂��A�y���݂ł��ˁB</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６＠電車さん
+&gt; なんか久々にきたなと思ったら、何か大きな動きがありますねぇ。
+&gt; こういった、命を賭けたミッションというのは、チームワークが必要だと思うんですが、こういうまるで数あわせのようなことでいいのでしょうか？
+&gt; なんか、先の展開に不安を抱いてしまう今日このごろです。
+&gt; ところで、気になるキャラ、出てきましたねぇ。彼がどう絡んでくるのか、楽しみですね。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,17 +48,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[49]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[49]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/03 (��) 19:58:43 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���d��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311031195843&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311031195843"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/03 (月) 19:58:43 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311031195843_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200311031195843"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂩋v�X�ɂ����ȂƎv������A�����傫�ȓ���������܂��˂��B<br>
-�����������A����q�����~�b�V�����Ƃ����̂́A�`�[�����[�N���K�v���Ǝv����ł����A���������܂�Ő����킹�̂悤�Ȃ��Ƃł����̂ł��傤���H<br>
-�Ȃ񂩁A��̓W�J�ɕs��������Ă��܂��������̂���ł��B<br>
-�Ƃ���ŁA�C�ɂȂ�L�����A�o�Ă��܂����˂��B�ނ��ǂ�����ł���̂��A�y���݂ł��ˁB</font>
+<font size=3 color=#606060>なんか久々にきたなと思ったら、何か大きな動きがありますねぇ。<br>
+こういった、命を賭けたミッションというのは、チームワークが必要だと思うんですが、こういうまるで数あわせのようなことでいいのでしょうか？<br>
+なんか、先の展開に不安を抱いてしまう今日このごろです。<br>
+ところで、気になるキャラ、出てきましたねぇ。彼がどう絡んでくるのか、楽しみですね。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -66,30 +66,30 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[48]</font> <font size=4 color=#40c0c0> �f���^�C�g�������܂����B</font>
+<font size=2>[48]</font> <font size=4 color=#40c0c0> 掲示板タイトル直しました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/03 (��) 18:15:48 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311031181548&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311031181548"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/03 (月) 18:15:48 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311031181548_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200311031181548"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂���������܂����炲�A���������B</font>
+<font size=3 color=#606060>また何かありましたらご連絡下さい。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[47]</font> <font size=4 color=#40c0c0> ������������A�Ƃ����ɂ����̂ł́A�ƌ����Ă݂���</font>
+<font size=2>[47]</font> <font size=4 color=#40c0c0> 続き物だから、とっつきにくいのでは、と言ってみたり</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/03 (��) 13:05:51 <strong>��</strong> �l�h�d�x�` </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311031130551&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311031130551"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/03 (月) 13:05:51 <strong>▽</strong> ＭＩＥＹＡ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311031130551_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200311031130551"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������΁A����͓ǂ݂₷���悤�ɁA�������H�v���Ă݂��̂ł����ǂ��ł��傤�H<br>
-��N�O�́A���ʂɑ�������Ό��₷���Ǝv���Ă��ȁc�c<br>
-�ψ���̐l�ɂ͖��f�|������ł����B�i��</font>
+<font size=3 color=#606060>そういえば、今回は読みやすいように、書式を工夫してみたのですがどうでしょう？<br>
+一年前は、無駄に装飾すれば見やすいと思ってたな……<br>
+委員会の人には迷惑掛け捲りでした。（汗</font>
 </td></table>
 </td></tr></table>
 
@@ -99,82 +99,82 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[46]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/03 (��) 12:58:32 <strong>��</strong> �l�h�d�x�` </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311031125832&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311031125832"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/03 (月) 12:58:32 <strong>▽</strong> ＭＩＥＹＡ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311031125832_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200311031125832"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�v���Ԃ�̓��e�ł��c�c�i��<br>
-�{�����̂Ԃ̖��O��ς������Ăl�h�d�x�`�ɕύX�����Ă����������̂ł����c�c<br>
-����́A�{�����̂Ԕł��ˁB�����B<br>
-�������܂����B�l�h�d�x�`�ł��B���߂܂��āA��낵�����肢���܂��B<br>
+<font size=3 color=#606060>どうも、久しぶりの投稿です……（汗<br>
+宮下しのぶの名前を変えたくてＭＩＥＹＡに変更させていただいたのですが……<br>
+これは、宮下しのぶ板ですね。あう。<br>
+改名しました。ＭＩＥＹＡです。改めまして、よろしくお願いします。<br>
 <br>
-�Ƃ���łQ�̑ʟ������āc�c<br>
-�u���c�͖ҁX�����v�Ɓu���낪�{��v����ˁB<br>
-�킩�������ȁH�i���������A��N�O�̘b��������</font>
+ところで２つの駄洒落って……<br>
+「武田は猛々しく」と「猪狩が怒り」だよね。<br>
+わかったかな？（おいおい、一年前の話しっすよ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[45]</font> <font size=4 color=#40c0c0> ]  �w�����@�C���@�[�@��V�b�x��ǂނɂ͂������N���b�N</font>
+<font size=2>[45]</font> <font size=4 color=#40c0c0> ]  『リヴァイヴァー　第７話』を読むにはここをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/03 (��) 11:27:16 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311031112716&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311031112716"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/03 (月) 11:27:16 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311031112716_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200311031112716"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z ��ꕔ�ŏI��̈���O�Ƃ������ƂŁA����オ���Ă��܂��B</font>
-<p><a href="http://ts.novels.jp/novel/200311/02163933/RVV07.htm" target="_top">http://ts.novels.jp/novel/200311/02163933/RVV07.htm</a>
+<font size=3 color=#606060>【推薦文】 第一部最終回の一歩前ということで、盛り上がっています。</font>
+<p><a href="../../novel/200311/02163933/RVV07.htm" target="_top">http://ts.novels.jp/novel/200311/02163933/RVV07.htm</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[44]</font> <font size=4 color=#40c0c0> �Q�̑ʟ����i�q���g�ҁj</font>
+<font size=2>[44]</font> <font size=4 color=#40c0c0> ２つの駄洒落（ヒント編）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/15 (��) 04:35:17 <strong>��</strong> <a href="mailto:abs@io.ocn.ne.jp">�{�����̂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212150043517&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212150043517"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/15 (日) 04:35:17 <strong>▽</strong> <a href="mailto:abs@io.ocn.ne.jp">宮下しのぶ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212150043517_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200212150043517"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���i�E�e����</font><br>
-�O������B<br>
-����ƁA����̌��l�^�́A<br>
-�X�����C�J��A�C�h���ł͂���܂���B�i�唚�j<br>
+<font size=3 color=#606060><font color="#ff88cc">＞Ｊ・Ｆさん</font><br>
+外れっす。<br>
+それと、あれの元ネタは、<br>
+スルメイカやアイドルではありません。（大爆）<br>
 <br>
 <br>
-�Ƃ肠�����A�q���g�҂ł��B<br>
+とりあえず、ヒント編です。<br>
 <br>
-�q���g�P�j<br>
-�u�ӂƂ񂪁A�ӂ��Ƃ񂾁v�n�B<br>
-�q���g�Q�j<br>
-�l���Ɠ����B<br>
-�q���g�R�j<br>
-��́A�Q�y�[�W�ځB������́A�R�y�[�W�ځB<br>
+ヒント１）<br>
+「ふとんが、ふっとんだ」系。<br>
+ヒント２）<br>
+人名と動詞。<br>
+ヒント３）<br>
+一つは、２ページ目。もう一つは、３ページ目。<br>
 <br>
-�c�c����ŁA�����邩�ȁH<br>
+……これで、分かるかな？<br>
 <br>
-���������l�́A�S�̒����Կ���Ă��������B</font>
+分かった人は、心の中でﾆﾔｿしてください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[43]</font> <font size=4 color=#40c0c0> �Q�̑ʟ�������</font>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> ２つの駄洒落って</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/15 (��) 03:30:10 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212150033010&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212150033010"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/15 (日) 03:30:10 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212150033010_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200212150033010"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Е���<br>
-<font color="#ff88cc">���u���ƁA�Ȃ�ČĂׂΗǂ��H�@�鍹���H�@��������H�@��������H�v</font><br>
-�̂�����ł����H�@���l�^�ɐS����A���B<br>
+<font size=3 color=#606060>片方は<br>
+<font color="#ff88cc">＞「えと、なんて呼べば良い？　夜沙音？　よっちゃん？　よっきゅん？」</font><br>
+のあたりですか？　元ネタに心当りアリ。<br>
 <br>
-�{�҂̊��z�ɂȂ��ĂȂ��ł���(^^;<br>
+本編の感想になってないですが(^^;<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -182,86 +182,86 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> �����c�c</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> あう……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/14 (�y) 20:25:19 <strong>��</strong> <a href="mailto:abs@io.ocn.ne.jp">�{�����̂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212146202519&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212146202519"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/14 (土) 20:25:19 <strong>▽</strong> <a href="mailto:abs@io.ocn.ne.jp">宮下しのぶ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212146202519_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200212146202519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�X�����v�C���ȁA�t���̒����B<br>
-����Ȋ����G�߂ɓǂ�ł���āA���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>スランプ気味な、師走の中頃。<br>
+こんな寒い季節に読んでくれて、ありがとうございます。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U����</font><br>
-�V�������ԁA�������B<br>
-�ʂɋ����킯����Ȃ����A��藧�ĂĖڗ��킯�ł��Ȃ��B<br>
-���񂠂���A���̖������Ȃ����ɂ����ȃL�����ł��ˁB�i�΁j<br>
+<font color="#ff88cc">＞ｍｋ８４２６さん</font><br>
+新しい仲間、響ちゃん。<br>
+別に強いわけじゃないし、取り立てて目立つわけでもない。<br>
+次回あたり、何の脈絡もなく死にそうなキャラですね。（笑）<br>
 <br>
-�c�c�΂��Ƃ���A�Ԉ���Ă܂��H<br>
+……笑うところ、間違ってます？<br>
 <br>
-<font color="#ff88cc">���d�g�d������</font><br>
-��������́A�l�I�ɋC�ɓ����Ă�Ăт����ł��B<br>
-��������ƁA�悳�˂���A�ǂ������ǂ��ł��傤�ˁH<br>
-�������́A��ғI�Ɍ���ꂿ�Ⴄ���ȁA�Ȃ�Ďv�����肵�Ă܂����ǁc�c<br>
-�ǂ��Ȃ�ł��傤�ˁH<br>
+<font color="#ff88cc">＞電波妖精さん</font><br>
+よっきゅんは、個人的に気に入ってる呼びかたです。<br>
+よっきゅんと、よさねたん、どっちが良いでしょうね？<br>
+響ちゃんは、作者的に嫌われちゃうかな、なんて思ったりしてますけど……<br>
+どうなんでしょうね？<br>
 <br>
-<font color="#ff88cc">��Mist����</font><br>
-�S���W���ł��B<br>
-�������́A���҂���قǓ����Ȃ��L�����Ȃ̂Łc�c<br>
-�Ȃ񂹁A���̃L�������A�o�g���V�[���ň�ԓ������ɂ��������肵�܂��B<br>
-�c�c�\�́A�ア�̂ŁB<br>
+<font color="#ff88cc">＞Mistさん</font><br>
+全員集合です。<br>
+響ちゃんは、期待するほど動かないキャラなので……<br>
+なんせ、あのキャラが、バトルシーンで一番動かしにくかったりします。<br>
+……能力、弱いので。<br>
 <br>
-�����@�C���@�[���܂Ƃ߂āA���l���ɂ�����Q�O�O�~���炢���낤�ȁA<br>
-����Ȃ��Ƃ��v���܂����A�K�����i�ł��傤���H�i���܂��񂯂ǁj<br>
-�ƁA�������A�N���A���l���Ƃ�������l���Ă���̂ł��傤���H<br>
+リヴァイヴァーをまとめて、同人誌にしたら２００円ぐらいだろうな、<br>
+そんなことを思いますが、適正価格でしょうか？（やりませんけど）<br>
+と、いうか、誰か、同人誌とか作った人っているのでしょうか？<br>
 <br>
-�O�ɁA�����؂炢�V�i���I�A�Q�O�y�[�W���炢���A<br>
-�P�O�O�O�~�Ŕ����Ă����l�����܂����A����͂ڂ������肾�Ǝv���܂��B</font>
+前に、薄っぺらいシナリオ、２０ページぐらいを、<br>
+１０００円で売っていた人がいますが、あれはぼったくりだと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/12 (��) 11:54:03 <strong>��</strong> Mist </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212124115403&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212124115403"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/12 (木) 11:54:03 <strong>▽</strong> Mist </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212124115403_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200212124115403"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����Œ��Ԃ͑S���o��̂悤�ł��ˁB<br>
-���q�����Ɩ鍹������񒇗ǂ��ɂȂ��Ă���悤�ł����B<br>
-���q�����̂��ꂩ��̊�������҂��Ă܂��B<br>
+<font size=3 color=#606060>これで仲間は全員登場のようですね。<br>
+響子ちゃんと夜沙音ちゃん仲良しになっているようですし。<br>
+響子ちゃんのこれからの活躍を期待してます。<br>
 <br>
-�ʔ��������ł��B<br>
-��������҂��Ă܂�</font>
+面白かったです。<br>
+次回を期待してます</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> (((((( ߄t�))))))</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> (((((( ﾟдﾟ))))))</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/11 (��) 10:57:36 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212113105736&log=miyashita_shinobu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212113105736"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/11 (水) 10:57:36 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212113105736_log_miyashita_shinobu.cgi">返信</a>　削除<input type=checkbox name="target" value="200212113105736"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����c�l�呮���c�i�����j�Ƃ������Ƃ́A��������͓y�����������̂��B���[��A�����Ƃ͌����؂�Ȃ����������肻���Ȋ����ł����c�͂Ă��āB<br>
-�Ƃ���ō���̎��������<br>
-�Ȃ�ƂȂ������̕s�Ǐ������Ă킯�ł͂Ȃ������Ȋ����̋������B<br>
-�C�J�X�ˁB�Ȃ�Ƃ������Ō�ɂۂ���Ƃł�コ���悢�Ǝv���܂��B<br>
+<font size=3 color=#606060>ああ…四大属性…（ちが）ということは、よっきゅんは土属性だったのか。うーん、そうとは言い切れない部分もありそうな感じですが…はてさて。<br>
+ところで今回の主役だった<br>
+なんとなくただの不良少女ってわけではなさそうな感じの響ちゃん。<br>
+イカスね。なんというか最後にぽろっとでる弱さがよいと思います。<br>
 <br>
-���͂����Ɉ��肵�Ă��ēǂ݂₷�������ł���B<br>
-�������݌`�����傢��������悤�Ȋ��������������B�����ł����ǂ��ˁB</font>
+文章も非常に安定していて読みやすかったですよ。<br>
+ただ現在形がちょい多すぎるような感じもしたかも。微妙ですけどもね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="miyashita_shinobu">
@@ -269,16 +269,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="miyashita_shinobu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=miyashita_shinobu">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_miyashita_shinobu.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

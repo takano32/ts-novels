@@ -1,39 +1,39 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���C�^�[�}�������i�@���z�f����</title>
+<title>ライターマンさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���C�^�[�}�������i�@���z�f����</font>
+<font size=5>ライターマンさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="writerman">
 <input type=hidden name="nj" value="Frn7UgDgh5">
 <input type=hidden name="res" value="159">
-<h4 align=center>�� �L���ԍ� 159 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 159 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w�c�ސ��E�x������ɂ͂������N���b�N�B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z�������c�c���������킪����ς���Ă����B�c��ł���̂́c�c���E���H�@�����H
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『歪む世界』を見るにはここをクリック。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】少しずつ……少しずつ日常がすり変わっていく。歪んでいるのは……世界か？　俺か？
 &gt; http://ts.novels.jp/novel/200210/28213920/world.htm</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -46,93 +46,93 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[175]</font> <font size=4 color=#40c0c0> Re:�\�Ȃ��</font>
+<font size=2>[175]</font> <font size=4 color=#40c0c0> Re:可能ならば</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/22 (�y) 19:32:00 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311226193200&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311226193200"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/22 (土) 19:32:00 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311226193200_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311226193200"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B<br>
-�@���̃T�[�h�p�[�e�B�ɂ�郍�{�s�q�x�̃R���|���[�V�����B�������Ȃ���ǂ�ł��܂����B<br>
-�@���C�^�[�}������A�����̍��D�����i�܂ދؓ���q�c�c�΁j�𖣗͓I�ɏ����Ă��������A���肪�Ƃ��������܂����B<br>
-�@�܂��@�����΁A������낵�����肢���܂��B<br>
+<font size=3 color=#606060>　ＭＯＮＤＯです。<br>
+　初のサードパーティによるロボＴＲＹのコラポレーション。興奮しながら読んでいました。<br>
+　ライターマンさん、うちの沙織たち（含む筋肉母子……笑）を魅力的に書いていただき、ありがとうございました。<br>
+　また機会があれば、共演よろしくお願いします。<br>
 <br>
-<font color="#ff88cc">�����݂������X�C�Â��Ă͂���悤�ł��ˁB������ǂ�ł���l���ǂ������B</font><br>
+<font color="#ff88cc">＞お互いも薄々気づいてはいるようですね。言いよどんでいる様が良い感じ。</font><br>
 <br>
-�@�����ł��ˁB���̎p�ŉ������A�܂��������΂��������܂��邱�Ƃł��傤�B<br>
+　そうですね。元の姿で会ったら、また乾いた笑いがこだますることでしょう。<br>
 <br>
-<font color="#ff88cc">���݂��ɐ��̂��c�Ȃ̂ɕK���ŏ��̎q�̂ӂ������̂����������āB</font><br>
+<font color="#ff88cc">＞互いに正体が…なのに必死で女の子のふりをするのがおかしくて。</font><br>
 <br>
-�@�킽��������������̃c�{���Ǝv���Ă��܂����B<br>
+　わたしもそこが今回のツボだと思っていました。<br>
 <br>
-<font color="#ff88cc">�������P��������ƁA���t���Ƃ̗��݂͏璷�ł͂Ȃ��������ƁB�W�J���u�{�ҁv�Ƒ卷�Ȃ��������B</font><br>
+<font color="#ff88cc">＞ただ１つ難を言うと、お師匠との絡みは冗長ではなかったかと。展開が「本編」と大差なかったし。</font><br>
 <br>
-�@���������B��͂肱���́u���������܂ƌĂԂ̂���I�I�v�Œ��߂Ă��������Ȃ��Ɓi�΁j�B<br>
+　いえいえ。やはりここは「おじいさまと呼ぶのぢゃ！！」で締めていただかないと（笑）。<br>
 <br>
-<font color="#ff88cc">������D����̎��_��̕�������΂ǂ����ȁc�ƁB<br>
-���l�n�m�c�n����T�C�h���ǂ�ł݂����ƌ����̂͂��߂ł����H</font><br>
+<font color="#ff88cc">＞｢沙織からの視点｣の分もあればどうかな…と。<br>
+＞ＭＯＮＤＯさんサイドも読んでみたいと言うのはだめですか？</font><br>
 <br>
-�@���`��B����Ă݂����ȂƂ����C�����͂���̂ł����c�c</font>
+　う〜ん。やってみたいなという気持ちはあるのですが……</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[174]</font> <font size=4 color=#40c0c0> �~���[�W���ԊO�҃��X�ł�</font>
+<font size=2>[174]</font> <font size=4 color=#40c0c0> ミラージュ番外編レスです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/22 (�y) 09:47:30 <strong>��</strong> <a href="mailto:kagawa@elf.coara.or.jp">���C�^�[�}��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311226094730&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311226094730"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/22 (土) 09:47:30 <strong>▽</strong> <a href="mailto:kagawa@elf.coara.or.jp">ライターマン</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311226094730_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311226094730"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ������C�^�[�}���ł��B���X�x���Ȃ��Ȃ��Đ\����Ȃ��ł��B<br>
+<font size=3 color=#606060>どうもライターマンです。レス遅くなくなって申し訳ないです。<br>
 <br>
-<font color="#cc88ff">&gt;�u�c�c�Ƃ����킯�ŁA�~���[�W���K�[���ɃQ�X�g�o���Ȃ̂ł��������`����I�I�v<br>
-&gt;�u�u�Ȃ�ł��O���d�؂�񂾂��I�I�v�v</font><br>
-��͂͂́A����ȂƂ���܂ŏo�����Ă��Ă�[���I�I<br>
-�㔼�͌��\�ڗ����Ă܂�������˂��B<br>
-<br>
-<br>
-<font color="#cc88ff">&gt;��͂͂͂͂́I<br>
-&gt;�m�����ٗl�Ƀq�[�g�A�b�v���Ă���悤�ȋC������̂͋C�̂������H�i�΁j</font><br>
-���Ԃ�C�̂�������Ȃ��Ǝv���܂�(��)�B<br>
-�y�[�X�͒x���������Ǐ����Ă�Ƃ��̓m�b�Ă܂�������B<br>
-�A�j���l�^����B�l�^���v�����܂܂ɂԂ�����ł��܂��܂���(��)�B<br>
-<br>
-<font color="#cc88ff">&gt;�������܂��A����Łu�~���[�W���K�[���v�Ɓu�炢���v�����ʐ��E���Ƃ������Ƃ��m�肵�܂����ȁi���j�B���A�uP.F.�L�����A�[�v�����i�j���j�B</font><br>
-���͂́A���܂苤�ʐ��E�Ƃ������Ƃōl���Ȃ��������������B<br>
-�����Ă��܂��΂���͢�E���g���}��VS���ʃ��C�_�[��݂����Ȃ���ł�����B(���邢�͢�Q�b�^�[���{�΃O���[�g�}�W���K�[��H)<br>
+<font color="#cc88ff">&gt;「……というわけで、ミラージュガールにゲスト出演なのでああああ〜るっ！！」<br>
+&gt;「「なんでお前が仕切るんだっ！！」」</font><br>
+わははは、こんなところまで出演してきてるーっ！！<br>
+後半は結構目立ってましたからねえ。<br>
 <br>
 <br>
-<font color="#cc88ff">&gt;�������������ɂ͂΂�Ă��܂����悤�ŁB<br>
-&gt;���݂������X�C�Â��Ă͂���悤�ł��ˁB������ǂ�ł���l���ǂ������B</font><br>
-�܁A���̂��t���l�ł�����ˁB<br>
+<font color="#cc88ff">&gt;わははははは！<br>
+&gt;ノリが異様にヒートアップしているような気がするのは気のせいか？（笑）</font><br>
+たぶん気のせいじゃないと思います(笑)。<br>
+ペースは遅かったけど書いてるときはノッてましたから。<br>
+アニメネタや特撮ネタも思いつくままにぶち込んでしまいました(爆)。<br>
+<br>
+<font color="#cc88ff">&gt;しかしまぁ、これで「ミラージュガール」と「らいか」が共通世界だということが確定しましたな（爆）。あ、「P.F.キャリアー」もか（核爆）。</font><br>
+あはは、あまり共通世界ということで考えない方がいいかも。<br>
+言ってしまえばこれは｢ウルトラマンVS仮面ライダー｣みたいなもんですから。(あるいは｢ゲッターロボ対グレートマジンガー｣？)<br>
 <br>
 <br>
-<font color="#cc88ff">&gt;����͂������c�R���{�Ȃ̂ɖ������Ȃ��B</font><br>
-�쐬�ߒ��łl�n�m�c�n����ɕҏW���Ă��炢�܂�������(��)�B<br>
-�ؓ��_���}�����_���S�̃Z���t�̕����͌��\�C��������܂���(��)�B<br>
-���[����f���ŏo���A�C�f�A�Ȃǂ��\�Ȍ����荞��ł݂܂������A������Ă���(��)���߂����܂薳�������ɍs���܂����B<br>
+<font color="#cc88ff">&gt;さすがじじいにはばれてしまったようで。<br>
+&gt;お互いも薄々気づいてはいるようですね。言いよどんでいる様が良い感じ。</font><br>
+ま、あのお師匠様ですからね。<br>
 <br>
-<font color="#cc88ff">&gt;���΂��Ȃ��猩�܂����B<br>
-&gt;����D����̎��_��̕�������΂ǂ����ȁc�ƁB</font><br>
+<br>
+<font color="#cc88ff">&gt;これはすごい…コラボなのに無理がない。</font><br>
+作成過程でＭＯＮＤＯさんに編集してもらいましたから(笑)。<br>
+筋肉ダルマやら肉ダンゴのセリフの部分は結構修正が入りました(汗)。<br>
+メールや掲示板で出たアイデアなどを可能な限り取り込んでみましたが、趣味が似ている(笑)ためかあまり無理せずに行えました。<br>
+<br>
+<font color="#cc88ff">&gt;爆笑しながら見ました。<br>
+&gt;｢沙織からの視点｣の分もあればどうかな…と。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt;�l�n�m�c�n����T�C�h���ǂ�ł݂����ƌ����̂͂��߂ł����H<br>
-&gt;�@�����܂Ŗ]�݂ł����ǂˁB</font><br>
-���[��A�ҏW��C���X�g�ő啪��`���Ă�������̂ł���ȏ㕉�S��������̂͂�����Ɓc�c<br>
+<font color="#cc88ff">&gt;ＭＯＮＤＯさんサイドも読んでみたいと言うのはだめですか？<br>
+&gt;　あくまで望みですけどね。</font><br>
+うーん、編集やイラストで大分手伝ってもらったのでこれ以上負担をかけるのはちょっと……<br>
 <br>
 <br>
-<font color="#cc88ff">&gt;���[�A�S�Ғʂ��Ĕ��΂ƃc�b�R�~���₦�܂���ł���(^^<br>
-&gt;�������Č��Ă݂�Ƃǂ����̐e�q�������悤�Ȋ֌W�Ƃ������A�s�r�E�̋��ʔF���Ƃł������܂��傤���B</font><br>
-�l�A����𢂨�񑩣�ƌ����c�c�Ȃ���āB<br>
-�����Ɍ����΍ŏ��Ƀ~���[�W���K�[���̃v���b�g���Ƃ����D�Ƃ��ꂳ��̊֌W���Q�l�ɂ��Ă܂�������B<br>
-���̎��͂܂������҂��������邱�ƂɂȂ�Ƃ͎v���Ă��݂܂���ł���(��)�B<br>
+<font color="#cc88ff">&gt;えー、全編通して爆笑とツッコミが絶えませんでした(^^<br>
+&gt;こうして見てみるとどっちの親子も似たような関係というか、ＴＳ界の共通認識とでも言いましょうか。</font><br>
+人、それを｢お約束｣と言う……なんつって。<br>
+正直に言えば最初にミラージュガールのプロット作るとき沙織とお母さんの関係を参考にしてましたから。<br>
+あの時はまさか両者が共演することになるとは思ってもみませんでした(笑)。<br>
 <br>
 <br>
-���񂩂Ȃ�y���݂Ȃ����邱�Ƃ��o���܂����B<br>
-���݂̂Ƃ����Q�e�����\��͂Ȃ��̂ł����A�A�C�f�A�������񂾂�܂�����Ă݂����Ǝv���܂��B<br>
+今回かなり楽しみながら作ることが出来ました。<br>
+現在のところ第２弾を作る予定はないのですが、アイデアが浮かんだらまたやってみたいと思います。<br>
 </font>
 <p><a href="http://www3.coara.or.jp/~kagawa/writerman/" target="_top">http://www3.coara.or.jp/~kagawa/writerman/</a>
 </td></table>
@@ -141,25 +141,25 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[173]</font> <font size=4 color=#40c0c0> �\�Ȃ��</font>
+<font size=2>[173]</font> <font size=4 color=#40c0c0> 可能ならば</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/18 (��) 12:42:04 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311182124204&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311182124204"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/18 (火) 12:42:04 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311182124204_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311182124204"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�l�n�m�c�n����T�C�h���ǂ�ł݂����ƌ����̂͂��߂ł����H<br>
-�@�����܂Ŗ]�݂ł����ǂˁB<br>
+<font size=3 color=#606060>ＭＯＮＤＯさんサイドも読んでみたいと言うのはだめですか？<br>
+　あくまで望みですけどね。<br>
 <br>
-�@���C�^�[�}������̃T�C�g�œǂ܂��Ă��������Ă܂����B<br>
-�@�������̍X�V���y���܂��Ă��������܂����B<br>
+　ライターマンさんのサイトで読ませていただいてました。<br>
+　少しずつの更新を楽しませていただきました。<br>
 <br>
-�@�݂��ɐ��̂��c�Ȃ̂ɕK���ŏ��̎q�̂ӂ������̂����������āB<br>
+　互いに正体が…なのに必死で女の子のふりをするのがおかしくて。<br>
 <br>
-�@�����ł��ˁB�l�����݂��Ō�ɐ��̂�m���ĕ�R�Ƃ��邩�ƁB<br>
-�@�w���O���t�@�C�Y�������̂��x�Ƃ��i��j<br>
+　そうですね。僕もお互い最後に正体を知って呆然とするかと。<br>
+　『お前がファイズだったのか』とか（違）<br>
 <br>
-�@�Ƃ���Łc�����l�����C�^�[�}������Ƌ��삵���炫���Ɠ��B�l�^�̃I���p���[�h�ɂȂ�񂶂�Ȃ�����(��)�z�����܂���</font>
+　ところで…もし僕がライターマンさんと協作したらきっと特撮ネタのオンパレードになるんじゃないかと(笑)想像しますが</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -167,47 +167,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[172]</font> <font size=4 color=#40c0c0> ���ނ�</font>
+<font size=2>[172]</font> <font size=4 color=#40c0c0> うむう</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/18 (��) 08:30:33 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311182083033&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311182083033"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/18 (火) 08:30:33 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311182083033_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311182083033"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂������c�R���{�Ȃ̂ɖ������Ȃ��B</font>
+<font size=3 color=#606060>これはすごい…コラボなのに無理がない。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[171]</font> <font size=4 color=#40c0c0> ���w�ϐg��������m�~���[�W���K�[���@�ԊO�ҁx</font>
+<font size=2>[171]</font> <font size=4 color=#40c0c0> ＞『変身美少女戦士ミラージュガール　番外編』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/18 (��) 00:58:54 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311182005854&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311182005854"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/18 (火) 00:58:54 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311182005854_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311182005854"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�A�S�Ғʂ��Ĕ��΂ƃc�b�R�~���₦�܂���ł���(^^<br>
-�������Č��Ă݂�Ƃǂ����̐e�q�������悤�Ȋ֌W�Ƃ������A�s�r�E�̋��ʔF���Ƃł������܂��傤���B<br>
-����Ȍ������ł���̂��A�N���X�I�[�o�[�Ȃ�ł͂ł��ˁB<br>
+<font size=3 color=#606060>えー、全編通して爆笑とツッコミが絶えませんでした(^^<br>
+こうして見てみるとどっちの親子も似たような関係というか、ＴＳ界の共通認識とでも言いましょうか。<br>
+こんな見方ができるのも、クロスオーバーならではですね。<br>
 <br>
-�����P��������ƁA���t���Ƃ̗��݂͏璷�ł͂Ȃ��������ƁB�W�J���u�{�ҁv�Ƒ卷�Ȃ��������B</font>
+ただ１つ難を言うと、お師匠との絡みは冗長ではなかったかと。展開が「本編」と大差なかったし。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[170]</font> <font size=4 color=#40c0c0> ���~�}�V�^</font>
+<font size=2>[170]</font> <font size=4 color=#40c0c0> ヨミマシタ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/17 (��) 15:46:09 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311171154609&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311171154609"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/17 (月) 15:46:09 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311171154609_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311171154609"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���΂��Ȃ��猩�܂����B<br>
-����D����̎��_��̕�������΂ǂ����ȁc�ƁB<br>
+<font size=3 color=#606060>爆笑しながら見ました。<br>
+｢沙織からの視点｣の分もあればどうかな…と。<br>
 </font>
 <p><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a>
 </td></table>
@@ -216,41 +216,41 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[169]</font> <font size=4 color=#40c0c0> �ԊO�ҁF��^���̏o��H��ǂ݂܂���</font>
+<font size=2>[169]</font> <font size=4 color=#40c0c0> 番外編：｢運命の出会い？｣読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/16 (��) 21:23:45 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311160212345&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311160212345"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/16 (日) 21:23:45 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311160212345_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311160212345"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������ł̓^�C�~���O���킵�Ă��܂����̂ł������ŁB(^^;<br>
-�������������ɂ͂΂�Ă��܂����悤�ŁB<br>
-���݂������X�C�Â��Ă͂���悤�ł��ˁB������ǂ�ł���l���ǂ������B<br>
-��������ł�<br>
+<font size=3 color=#606060>向こうではタイミングを逸してしまったのでこっちで。(^^;<br>
+さすがじじいにはばれてしまったようで。<br>
+お互いも薄々気づいてはいるようですね。言いよどんでいる様が良い感じ。<br>
+ただこれでは<br>
 <br>
-<font color="#cc88ff">&gt; ������m���Ȃ̂́A�m���Ă��܂����c�c���邢�͏o����Ă��܂����ȏ�A������ɂ͖߂�Ȃ��Ƃ������Ƃ��B</font><br>
+<font color="#cc88ff">&gt; 一つだけ確かなのは、知ってしまった……あるいは出会ってしまった以上、もう後には戻れないということだ。</font><br>
 <br>
-�ɂ͂�����Ǝア?<br>
-���Ă����肨�݂��m���ĕ�R�Ɓc�Ƃ����W�J��\�z���Ă��܂����B(^^;</font>
+にはちょっと弱い?<br>
+＃てっきりお互い知って呆然と…という展開を予想していました。(^^;</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[168]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[168]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/16 (��) 19:49:23 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311160194923&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311160194923"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/16 (日) 19:49:23 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311160194923_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311160194923"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��͂͂͂͂́I<br>
-�m�����ٗl�Ƀq�[�g�A�b�v���Ă���悤�ȋC������̂͋C�̂������H�i�΁j<br>
-�������܂��A����Łu�~���[�W���K�[���v�Ɓu�炢���v�����ʐ��E���Ƃ������Ƃ��m�肵�܂����ȁi���j�B���A�uP.F.�L�����A�[�v�����i�j���j�B<br>
-�����l����ƁA�Ȃ񂩖����ꒃ�Ȑ��E�Ɏv���Ă����i��<br>
+<font size=3 color=#606060>わははははは！<br>
+ノリが異様にヒートアップしているような気がするのは気のせいか？（笑）<br>
+しかしまぁ、これで「ミラージュガール」と「らいか」が共通世界だということが確定しましたな（爆）。あ、「P.F.キャリアー」もか（核爆）。<br>
+そう考えると、なんか無茶苦茶な世界に思えてきた（ぉ<br>
 <br>
-�ō��ł����I�{�҂ɂ����҂��Ă܂�����<br>
+最高でした！本編にも期待してますよん♪<br>
 </font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
@@ -259,37 +259,37 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[167]</font> <font size=4 color=#40c0c0> �w�ϐg��������m�~���[�W���K�[���@�ԊO�ҁF�^���̏o��H�x������ɂ͂������N���b�N�B</font>
+<font size=2>[167]</font> <font size=4 color=#40c0c0> 『変身美少女戦士ミラージュガール　番外編：運命の出会い？』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/16 (��) 17:43:49 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311160174349&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311160174349"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/16 (日) 17:43:49 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311160174349_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200311160174349"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�u�c�c�Ƃ����킯�ŁA�~���[�W���K�[���ɃQ�X�g�o���Ȃ̂ł��������`����I�I�v<br>
-�u�u�Ȃ�ł��O���d�؂�񂾂��I�I�v�v<br>
-<a href=http://ts.novels.jp/novel/200210/28213920/mirage_ex1.htm target=_top>http://ts.novels.jp/novel/200210/28213920/mirage_ex1.htm</a></font>
+<font size=3 color=#606060>【推薦文】「……というわけで、ミラージュガールにゲスト出演なのでああああ〜るっ！！」<br>
+「「なんでお前が仕切るんだっ！！」」<br>
+<a href="../../novel/200210/28213920/mirage_ex1.htm" target=_top>http://ts.novels.jp/novel/200210/28213920/mirage_ex1.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[166]</font> <font size=4 color=#40c0c0> ���ƁA�⑫�ł����B</font>
+<font size=2>[166]</font> <font size=4 color=#40c0c0> えと、補足ですが。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/10/25 (�y) 13:36:48 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200310256133648&log=writerman">�ԐM</a>�@�폜<input type=checkbox name="target" value="200310256133648"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/25 (土) 13:36:48 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200310256133648_log_writerman.cgi">返信</a>　削除<input type=checkbox name="target" value="200310256133648"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����s�����ۂ��͊����܂������A�ނ��낻�ꂪ���̍�i�́u�́v���ƔF�����Ă܂��̂�<br>
-���C�ɂȂ��炸�B</font>
+<font size=3 color=#606060>説明不足っぽさは感じましたが、むしろそれがこの作品の「肝」だと認識してますので<br>
+お気になさらず。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="writerman">
@@ -297,16 +297,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="writerman">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=writerman">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_writerman.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

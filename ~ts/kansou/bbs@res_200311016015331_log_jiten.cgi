@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�s�r�厫�T����낤�I</title>
+<title>ＴＳ大辞典を作ろう！</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�s�r�厫�T����낤�I</font>
+<font size=5>ＴＳ大辞典を作ろう！</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="jiten">
 <input type=hidden name="nj" value="iijlHIEpEu">
 <input type=hidden name="res" value="18">
-<h4 align=center>�� �L���ԍ� 18 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 18 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�����Ȃ�M���O�ł����܂���I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �鍳�L����
-&gt; ���ŕ����Ėϑz���܂����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:いきなりギャグですいません！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 夜叉猫さん
+&gt; 耳で聞いて妄想しました。
 &gt; 
-&gt; �������k���傹������l
-&gt; ������TS�Z�p�Ȃǂ��J������{�݂��ƂɎx�����鉇�����A�l������Ď󂯎�����艡�̂����肷���TS�@�Ɋ�t�����]���������{����Ă��܂��B�����k���傹���l�Ƃ����Ă���B</textarea><br>
+&gt; 助成金〔じょせいきん〕
+&gt; 国からTS技術などを開発する施設や企業に支払われる援助金、個人が誤って受け取ったり横領したりするとTS法に基付き性転換処理を施されてしまう。女性〔じょせい〕とかけている。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,35 +48,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �s�r�厫�T�u�]�����v��ܔ�</font>
+<font size=2>[31]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ＴＳ大辞典「転辞苑」第五版</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/21 (��) 13:53:46 <strong>��</strong> �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406211135346&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406211135346"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/21 (月) 13:53:46 <strong>▽</strong> ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406211135346_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200406211135346"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B�s�r�厫�T�u�]�����v�̑�ܔł��A�b�v���[�h���܂����B<br>
-�@����́A�u�Q�l��i�v�̏[���ɗ͂����Ă݂܂����B�����Ă����i������܂�����A�����Ă��������B</font>
+<font size=3 color=#606060>　ＭＯＮＤＯです。ＴＳ大辞典「転辞苑」の第五版をアップロードしました。<br>
+　今回は、「参考作品」の充実に力を入れてみました。抜けている作品がありましたら、教えてください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0> �v�������̂�</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0> 思いついたので</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/11 (��) 18:32:02 <strong>��</strong> ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406115183202&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406115183202"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/11 (金) 18:32:02 <strong>▽</strong> 鈴奈 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406115183202_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200406115183202"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�\�y�i���񂷁j<br>
-�i�P�j�ߑ��A�����������܂��Ă����A�ؐ��̔�<br>
-�i�Q�j�s�r���̂���́A�e������܂œ����Ă����g�����N�X�Ƃ���S���������Ă��܂��A�V���[�c�Ƃ����A���ꂢ�ɓ����Ă���<br>
-�i�R�j�ւ�����̉B���ꏊ�Ƃ��āA�œK�i�΁j<br>
+<font size=3 color=#606060>箪笥（たんす）<br>
+（１）衣装、下着等をしまっておく、木製の箱<br>
+（２）ＴＳ娘のそれは、親がそれまで入っていたトランクスとかを全部処分してしまい、ショーツとかが、きれいに入っている<br>
+（３）へそくりの隠し場所として、最適（笑）<br>
 <br>
-<font color="#ff88cc">���m��</font><br>
-����~����D�)�� �߸�߸ �i�΂��Ȃ��l�^�łc�j</font>
+<font color="#ff88cc">＞洋館</font><br>
+⊂⌒~⊃｡Д｡)⊃ ﾋﾟｸﾋﾟｸ （笑えないネタでつ…）</font>
 <p><a href="http://www.h3.dion.ne.jp/~haghag/ura/" target="_top">http://www.h3.dion.ne.jp/~haghag/ura/</a>
 </td></table>
 </td></tr></table>
@@ -84,47 +84,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font size=4 color=#40c0c0> 29���폜���܂����B</font>
+<font size=2>[29]</font> <font size=4 color=#40c0c0> 29を削除しました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/29 (�y) 08:01:43 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405296080143&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405296080143"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/29 (土) 08:01:43 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405296080143_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200405296080143"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>kou�ł��B<br>
-�s�K�؂ȋL���̂��߁A29���폜���܂����B</font>
+<font size=3 color=#606060>kouです。<br>
+不適切な記事のため、29を削除しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> ���̎q����i�l������j</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> 女の子座り（Ｍ字座り）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/02/09 (��) 05:11:06 <strong>��</strong> �I�Z�b�J�C�U�[�d�w </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200402091051106&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200402091051106"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/02/09 (月) 05:11:06 <strong>▽</strong> オセッカイザーＥＸ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200402091051106_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200402091051106"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̎q����i�l������j�̐����Ȗ��̂́u�����i��肴�j�v�A�u��������v�i������j�́u�Α��i�Ƃт����j�v�Ƃ��������ł��i�厫��́u�����v�̍��ɊG����ŏo�Ă���Ƃ��j�B�A���A�u�����v�͑��̍b�����ɂ��A�ܐ������Ɍ����邪�A���̓��������ɂ��A�ܐ�����E�Ɍ�����̂́u�T���i���߂��j�v�Ƃ����̂��Ƃ�<br>
-ttp://www3.ocn.ne.jp/~gthmhk/dskrmnc.html#hanasiwo��薳�f�]�ځ@�폜�L�[ �P�Q�R</font>
+<font size=3 color=#606060>女の子座り（Ｍ字座り）の正式な名称は「割座（わりざ）」、「レレ座り」（横座り）は「鳶足（とびあし）」というそうです（大辞泉の「すわる」の項に絵入りで出ているとか）。但し、「割座」は足の甲を床につけ、つま先を後方に向けるが、足の内側を床につけ、つま先を左右に向けるのは「亀居（かめい）」というのだとか<br>
+ttp://www3.ocn.ne.jp/~gthmhk/dskrmnc.html#hanasiwoより無断転載　削除キー １２３</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> ���łɁO�O�G</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> ついでに＾＾；</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/08 (��) 18:22:14 <strong>��</strong> ���} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401084182214&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401084182214"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/08 (木) 18:22:14 <strong>▽</strong> ラマ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401084182214_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200401084182214"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�V���[�c<br>
-�i�P�j�҉��̂قƂ�ǂȂ������p�̉����B��ʓI�Ƀp���c�A�p���e�B�[���Ƃ��Ă΂��B<br>
-�i�R�j�j���ƈႢ�A�҉��ɂ҂�����Ƒ�������̂ŁA���̊��o�Ɍ˘f���s�r���������B<br>
-�i�Q�j�s�r�����Ă̖��́A�����܂ł̏K���Œj����t���Ă��܂��A���q�X�ߎ����Œp���������Ƃ�����B<br>
+<font size=3 color=#606060>ショーツ<br>
+（１）股下のほとんどない女性用の下着。一般的にパンツ、パンティー等とも呼ばれる。<br>
+（３）男物と違い、股下にぴったりと装着するので、その感覚に戸惑うＴＳ娘も多い。<br>
+（２）ＴＳしたての娘は、つい今までの習慣で男物を付けてしまい、女子更衣室等で恥をかくことがある。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -132,16 +132,16 @@ ttp://www3.ocn.ne.jp/~gthmhk/dskrmnc.html#hanasiwo��薳�f�]�ځ@�폜�L�[ �P�Q�R<
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> �v�X�ɓ��e���Ă݂�</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 久々に投稿してみる</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/08 (��) 18:01:37 <strong>��</strong> ���} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401084180137&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401084180137"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/08 (木) 18:01:37 <strong>▽</strong> ラマ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401084180137_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200401084180137"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u������I�v�k�䎌�l�������L�̒Z���ߖB���ӎ��ɂ��ꂪ�o��ƁA�S�̏��������i�񂾏؂��ł���B<br>
+<font size=3 color=#606060>「きゃっ！」〔台詞〕女性特有の短い悲鳴。無意識にこれが出ると、心の女性化が進んだ証しである。<br>
 <br>
-�u����[���I�v�k�䎌�l�������L�̍b�����ߖB���ӎ��ɂ�����o���Ă��܂��A�S�i���_�j�̏������ɔY�ނs�r���������Ƃ��B<br>
+「きゃーっ！」〔台詞〕女性特有の甲高い悲鳴。無意識にこれを出してしまい、心（精神）の女性化に悩むＴＳ娘も多いとか。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -149,31 +149,31 @@ ttp://www3.ocn.ne.jp/~gthmhk/dskrmnc.html#hanasiwo��薳�f�]�ځ@�폜�L�[ �P�Q�R<
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> �v�����܂����̂Łi�O�O�j</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> 思いつきましたので（＾＾）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/14 (��) 20:11:06 <strong>��</strong> kagerou6 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312140201106&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312140201106"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/14 (日) 20:11:06 <strong>▽</strong> kagerou6 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312140201106_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200312140201106"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ��A���Ђ��ł��i�O�O�j<br>
-�Ȃ�ƂȂ��v�����܂����̂ŁA�悵�ȂɁi�O�O�G<br>
+<font size=3 color=#606060>ども、おひさです（＾＾）<br>
+なんとなく思いつきましたので、よしなに（＾＾；<br>
 <br>
-�e�q���i���񂦂������j<br>
-�P�A��l�������n�Ɋׂ����Ƃ��A�S�Ă��|������q�̐l�i�B�j<br>
-�Q�A��l���i�Ǝ����j���֌W���鎖���S�Ăɂ����čŗD��ɂȂ�l(�B�j<br>
-�R�A��l���ƒ��ǂ��Ȃ�i�����ȊO�́j�l��r������댯�ȓz��I<br>
+親衛隊（しんえいたい）<br>
+１、主人公が窮地に陥ったとき、全てを掛け守る護衛の人（達）<br>
+２、主人公（と自分）が関係する事が全てにおいて最優先になる人(達）<br>
+３、主人公と仲良くなる（自分以外の）人を排除する危険な奴ら！<br>
 <br>
-�ޏ�����i�݂�����j<br>
-�P�A�_�ЂȂǂł��D�Ȃǂ�̔����Ă��鏗��<br>
-�Q�A�_�l�Ɏd���A���̐_�͂�p���Ċ�Ղ��N��������<br>
-�R�A�C�܂܂ɐ_�͂ŗF�B��j�����Ȃǂɕς��Ă��܂���������<br>
-�S�A���X�o�`���������ĔL�Ƃ��ɕς���Ă��܂���������<br>
+巫女さん（みこさん）<br>
+１、神社などでお札などを販売している女性<br>
+２、神様に仕え、その神力を用いて奇跡を起こす女性<br>
+３、気ままに神力で友達を男→女などに変えてしまう困った娘<br>
+４、時々バチが当たって猫とかに変わってしまう事もある<br>
 <br>
-�ዾ�����i�߂��˂����j<br>
-�P�A�ψ����Ƃ��̖�E�H�ɂ���A�h����W�߂鎖������<br>
-�Q�A�T�^�I�h�W�L���������������A�Œ�t�@�����������݂��Ă���<br>
-�R�A�ዾ���O���Ɣ��l�ɕς�邪�A�{�l�͋C�t���Ă��Ȃ��E�E�E���͋����Ȃ���������<br>
+眼鏡っ娘（めがねっこ）<br>
+１、委員長とかの役職？にあり、宿題を集める事が多い<br>
+２、典型的ドジキャラ成分が多く、固定ファンが多数存在している<br>
+３、眼鏡を外すと美人に変わるが、本人は気付いていない・・・廻りは教えない事が多い<br>
 <br>
 </font>
 </td></table>
@@ -182,100 +182,38 @@ ttp://www3.ocn.ne.jp/~gthmhk/dskrmnc.html#hanasiwo��薳�f�]�ځ@�폜�L�[ �P�Q�R<
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> ���ڂ��Ă������ǁA�v�X�̂܂Ƃߏ������̂R</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> さぼっていたけど、久々のまとめ書きその３</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/14 (��) 20:29:04 <strong>��</strong> <a href="mailto:ndcss@mtd.biglobe.ne.jp">���ƂԂ��Ђ���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311145202904&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311145202904"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/14 (金) 20:29:04 <strong>▽</strong> <a href="mailto:ndcss@mtd.biglobe.ne.jp">ことぶきひかる</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311145202904_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200311145202904"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u���U�[�m�Ԃꂴ�[�n<br>
-�y�P�z�w�L�ȂǂɎ����㒅�̂P�B�^���I�肪���̍s�i���ɒ��p���邱�Ƃ������A�w�L�Ɣ�ׂ�ƁA�����A�f�U�C�����f������̂̂��Ƃ������B<br>
-�����ł́A�w���̐����̕����L���B���q�̂��̂́A�u���E�X�A�X�J�[�g�Ƀu���U�[���g�ݍ��킳�ꂽ���m�A���邢�͂���Ƀx�X�g��Z�[�^�[������邱�Ƃ�����B<br>
-�{���A�u���U�[�Ƃ͏㒅���������Ȃ̂����A�u���U�[��g�ݍ��킹�������^�R�X�`���[�����̂��̂��u���U�[�ƌĂԂ��Ƃ�����B<br>
-�y�Q�z�����Ƃ��ĂƂ炦���ꍇ�A�㔼�g�ɂ������Ă����΁A�j���Ԃɂ���قǍ������݂����A�s�r��A�������ǂ��Ȃ������A�����āA�F����x�点�����ꍇ�Ȃǂ́A�Z�[���[���Ȃǔ@���ɂ����q�̕��Ȃǂ��A�L���Ƃ�����B<br>
+<font size=3 color=#606060>ブレザー［ぶれざー］<br>
+【１】背広などに似た上着の１つ。運動選手が大会の行進時に着用することも多く、背広と比べると、多少、デザインが映えるもののことが多い。<br>
+国内では、学生の制服の方が有名。女子のものは、ブラウス、スカートにブレザーが組み合わされたモノ、あるいはこれにベストやセーターが加わることがある。<br>
+本来、ブレザーとは上着部分だけなのだが、ブレザーを組み合わせた制服／コスチュームそのものをブレザーと呼ぶこともある。<br>
+【２】制服としてとらえた場合、上半身にかぎっていえば、男女間にそれほど差が存在せず、ＴＳ後、自分がどうなったか、あえて、認識を遅らせたい場合などは、セーラー服など如何にも女子の服などより、有効といえる。<br>
 <br>
-�d�p�m�悤����n<br>
-�y�P�z���@�̈�킾���A�g�p�҂��A�d�������������������A���������p�t���ŁA�Ƃɂ����u���v�̃C���[�W�������B���ړI�Ȕj����A����𖰂点����A�p��ς�����ƁA�􂢓I�ȕ����������B<br>
-�y�Q�z���q�l�������l�ɂ���Ă��܂�����A��m���x��q�ɂ���Ă��܂����肷��B<br>
-�y�R�z���l�������l�ɂ���Ă��܂����Ƃ́A���܂�Ȃ��B<br>
+妖術［ようじゅつ］<br>
+【１】魔法の一種だが、使用者が、妖怪やら怪しい生き物やら、怪しい魔術師やらで、とにかく「悪」のイメージが強い。直接的な破壊より、相手を眠らせたり、姿を変えたりと、呪い的な部分も強い。<br>
+【２】王子様が王女様にされてしまったり、戦士が踊り子にされてしまったりする。<br>
+【３】王様が女王様にされてしまうことは、あまりない。<br>
 <br>
-�d���m�悤�����n<br>
-�y�P�z�P���g�_�b��k���̓`���ɓo�ꂷ��A�l�ԂƂ͗ǂ������e�p�������Ȃ���A�l�ԂƂ͈قȂ�푰�B���R�Ɩ��ڂȊ֌W�ɂ���_��I�ȗ͂����Ƃ����B�L�����є��b�ȂǁA�����ɐl�ԂƂ͈قȂ�p�����Ă���_�������A�G���t��t�F�A���[�A�s�N�V�[�Ȃǂ��L�������A�S�u������g���[�������̌��^�͗d���ł���B�d���̗ցA�d���̑����ȂǓ��{�ɂ�����Y�����Y�^���{��I�Ȉ�b�������B<br>
-�y�Q�z�ǂ������킯���A�d���͐l�Ԃ̐Ԃ�V��~������Ƃ��������`��������A�e���ڂ𗣂������ɁA�����̐Ԃ�V�Ƃ���ւ��Ă��܂����Ƃ�����B������u���ւ��q�i�`�F���W�����O�j�v�Ƃ����A�e�Ɏ��Ă��Ȃ��q���ɑ΂���A����Γ��{�ɂ�����u�S���q�v�I�ȑ��݂ƂȂ��Ă���B<br>
-�y�R�z��{�͐_�b��`���Ȃǂ���Ȃ̂ŁA���쌠��Ō��͑��݂��Ȃ����A�^���l���Ɋւ��Ă͒��ӂ��K�v�B<br>
-�y�S�z��{�I�ɁA���@���邢�͂���ɏ�������̂ɒʂ��Ă���A��ɏq�ׂ��u�`�F���W�����O�v�ɗ��񂾓���ւ��A���邢�͔ނ�̓{��������Ă��܂��������߂̓��̂̕ϐg�Ȃǂ��N���邱�Ƃ�����B<br>
+妖精［ようせい］<br>
+【１】ケルト神話や北欧の伝承に登場する、人間とは良く似た容姿をもちながら、人間とは異なる種族。自然と密接な関係にあり神秘的な力を持つとされる。有翼多毛半獣など、微妙に人間とは異なる姿をしている点も特徴、エルフやフェアリー、ピクシーなどが有名だが、ゴブリンやトロールもその原型は妖精である。妖精の輪、妖精の草原など日本における浦島太郎／竜宮城的な逸話も多い。<br>
+【２】どういうわけか、妖精は人間の赤ん坊を欲しがるという言い伝えがあり、親が目を離した隙に、自分の赤ん坊とすり替えてしまうことがある。これを「取り替え子（チェンジリング）」といい、親に似ていない子供に対する、いわば日本における「鬼っ子」的な存在となっている。<br>
+【３】基本は神話や伝承などからなので、著作権や版権は存在しないが、某小人族に関しては注意が必要。<br>
+【４】基本的に、魔法あるいはそれに準ずるものに通じており、先に述べた「チェンジリング」に絡んだ入れ替わり、あるいは彼らの怒りをかってしまったがための肉体の変身などが起こることもある。<br>
 <br>
-�m�فm�m�فn<br>
-�y�P�z���m���̌����A�����ɏq�ׂ�Ƃ����疾�����㐼�m�̕�����Z�p��������Č������ꂽ�����A���邢�͂����͕킵�������B<br>
-�y�R�z���A���E�̏Z�l���A�}�b�h�T�C�e�B�X�g���Z��ł���B�W�J��A�l�����ꂽ�R�����Ǔ��ɑ��݂��邱�Ƃ��]�܂����B<br>
-�y�R�z�I舂ɁA���𓥂ݓ����Ƃs�r���C�h����ɂ���Ă��܂��B�Ȃ���C�̃��C�h������s�r�����ł��邱�Ƃ͂����܂ł��Ȃ��B<br>
+洋館［洋館］<br>
+【１】西洋風の建物、厳密に述べるとしたら明治時代西洋の文化や技術を取り入れて建造された建物、あるいはそれを模倣した建物。<br>
+【３】大抵、魔界の住人か、マッドサイティストが住んでいる。展開上、人里離れた山奥か孤島に存在することが望ましい。<br>
+【３】迂闊に、足を踏み入れるとＴＳメイドさんにされてしまう。なお先任のメイドさんもＴＳっ娘であることはいうまでもない。<br>
 <br>
-�����W�F���[�m��񂶂���[�n<br>
-�y�P�z�������������̒��ł��A���p���Ƃ͂قږ��֌W�ȑ������A����t�����A���[�X�Ȃǂ�����������̂��A���ɂ����ď̂���B���������ł��邱�Ƃ������B�u����V���[�c�A�X�L�����e�B�ȂǂɎ~�܂炸�A�L���~�\�[���A�X�g�b�L���O��A�{�f�B�X�[�c�Ȃǂ��܂܂�邱�Ƃ�����B<br>
-�y�Q�z�s�r�����̏ꍇ�A�����̈ӎu�Ŕ����ƌ������A���l�ɖ�������킳�ꂽ���A���邢�͓��l���m��ʊԂɁA�܂��^���X���ɓ����ċ��邱�Ƃ������B���l�ɂƂ��Ă͖��p�̒����̂͂������A��͂肻���͒j�Ƃ��Ă̍D��S���摖���āA�u��x���炢�Ȃ���Ă݂悤���ȁB�v�ȂǂƂ�������g�ɂ��Ă��܂����̂��^�̐s���B�u�����āA�܂񂴂�ł��Ȃ������B�v�Ȃǂƃ|�[�Y���Ƃ�������Ђ����Ă���l���A��������Ɖe���猩�Ă�����e��o���A�c�Ȃ��݂ȂǂɎʐ^�ɎB���A��݂������邱�ƂɂȂ�A��X�A�U�X���炩��ꂽ��A�h����ꂽ�肳���H�ڂɂȂ�B<br>
-</font>
-<p><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_top">http://www2s.biglobe.ne.jp/~ndcss/</a>
-</td></table>
-</td></tr></table>
-
-<hr size=1 noshade width=95%>
-
-<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> ���ڂ��Ă������ǁA�v�X�̂܂Ƃߏ������̂Q</font>
-</td></table>
-<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/14 (��) 20:28:28 <strong>��</strong> <a href="mailto:ndcss@mtd.biglobe.ne.jp">���ƂԂ��Ђ���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311145202828&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311145202828"></font>
-</td></table>
-<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�W�����p�[�X�J�[�g�m�����ρ[�����[�Ɓn<br>
-�����s�[�X�ɗǂ������㔼�g�����ƃX�J�[�g����̂ɂȂ����A���邢�́A������݂��悤�ȃf�U�C���̃n�C�E�G�X�g�X�J�[�g�B<br>
-�������A������ɂ́A�����Ȃ��_�������B<br>
-���̎q�����̕����Ƃ��Ă���ʓI�����A����ŁA�w�Z�̐����Ƃ��Ă��g�p����Ă���B<br>
-�����s�[�X�́A����P�i�Œ��邱�Ƃ��ł���̂ɑ΂��A�W�����p�[�X�J�[�g�́A�Z�[�^�[��V���c�A�g���[�i�[�ȂǂƂ̑g�ݍ��킹�Ē��p���邱�Ƃ��O��ƂȂ��Ă���A���̑g�ݍ��킹�ɂ���āA�C���[�W�����Ȃ�ς���Ă���B<br>
-<br>
-<br>
-�W�c�m���イ����n<br>
-�y�P�z����̖ړI���������A���邢�͍s�����Ƃ�l�Ԃ��邢�͐����̏W�܂�B<br>
-�u�|�|����ւ��v�i�W�c����ւ��j<br>
-�R�l�ȏ�A���ۂɂ͍X�ɑ����̐l�ԓ��m�ŁA�̂ƐS������ւ�邱�ƁB<br>
-����ւ��̖@�����A�P�������Ƃ������̂���A�S���̃����_���܂ő��p�ŁA�ނ����҂̈Ӑ}�ɂ�郂�m�̂��Ƃ������B<br>
-�����̐l�Ԃ����������߂ɁA���ʂ����ł͂Ȃ��A�N���Љ�I����A�g�̔\�͂ȂǁA�ł��邾���قȂ�l�Ԃōs�����Ƃ��]�܂����B<br>
-�u�|�|�߈ˁv�i���イ����Ђ傤���j<br>
-�P�l�̐l�Ԃɑ����̍���ӎ����߈˂��邱�ƁB�Ƃ�����΁A���d�l�i���m�Ǝ����悤�ȓW�J�ɂȂ邽�߁A�����Ƃǂ����ʉ����邩���d�v�ȃ|�C���g�B<br>
-<br>
-�Z�[���[���m���[��[�ӂ��n<br>
-�u���U�[��W�����p�[�X�J�[�g�A�Z�[�^�[�Ȃǂ̏o���ɂ��A�Ő����قǂ̐����Ɛl�C�����Ȃ��Ȃ������̂́A���܂��A���q�w���̐����̒�ԂƂ����鑶�݁B<br>
-������w���̂S���̂P�����𕢂��傫�ȋ݂��ő�̓����ł���A���̓Ɠ��̃f�U�C���Ɓu�Z�[���[�������q�w���̐����Ƃ����C���[�W�v�ɂ��A�s�r�����ɃZ�[���[���𒅂��邱�ƂŁA�����҂́u��A���ŉ����q�̐������Ă�񂾁H�v�ƍ��f���A�ǎ҂́A�u���A�����́A���̎q�ɂȂ����񂾁B�v�Ƒ��[���ł���Ƃ������Ăȃp�^�[���ƂȂ��Ă���B<br>
-<br>
-�ʓ˂��m���܂��n<br>
-�y�P�z�r�����[�h<br>
-�y�Q�z�ԓ����A���đ����ɒǓ˂��邢�͏Փˎ��̂��N�������ƁB<br>
-�y�R�z�W�c�ł̓���ւ�肠�邢�͜߈˂̌`�ԁB��{�I�ɂ́A�`�̐��_�i���j���a�̐g�̂ցA�a�̐��_�i���j���b�̐g�̂ցA�b�̐��_�i���j���c�̐g�̂ցE�E�E�Ƃ������ɁA���_�i���j�Ɛg�̂��P������Ă����悤�ɁA����ւ�肠�邢�͜߈˂�������B���_�I�ɂ́A�S���E�̐l�Ԃ͂��납�{�L��醔n�͂Ă͉F���l�܂Ŋ�������ł̓���ւ�肩�߈˂��\�����A���̏��������Ƃ��ꂾ���̐l����o�ꂳ�����Ӗ����������邱�Ƃ��l������ɁA���ۂɂ͂T�C�U�l�����E�B<br>
-<br>
-���ꐯ�m�Ȃ���ڂ��n<br>
-�y�P�z�F����Ԃ�Y���������A�d�͂ɍ����Ђ���āA�n���̑�C�����Ɉ������荞�܂ꂽ���ʁA��C�Ƃ̖��C�ɂ��R���オ�蔭�����錻�ہB<br>
-�y�Q�z������܂łɁA�R�x�J��Ԃ����Ƃɂ��肢���������Ƃ�����Ȃ��Ƃ��B<br>
-�y�R�z�I舂Ɋ肢��������ƁA���̈Ӗ������剻�ό`���̉��߂���A�s�r�Ƃ������ƂɂȂ�B��P�u�l�C�҂ɂȂ肽���B�v���͓I�Ȕ������ɂ���Ă��܂��B�@��Q�u���������ɂȂ肽���B�v�i�C�X�o�f�B�Ȕ����ɂ���ʂ̗`�B�@��R�u���̎q�ƒ��ǂ��Ȃ肽���B�v���̎q�ɂ��ꓯ���Ƃ��Đe�F�ɁB�@��S�u�s�r��i�̍�ƂɂȂ肽���B�v�m���t�B�N�V������ƂɁB<br>
-<br>
-�p���炢<br>
-�y�P�z�����̎d���Ȃǂ̍s�ׂ�p���Ƒz�����ƁB���邢�́A�����̍s�������Ƃ��A���܂�l�ɂ͒m��ꂽ���Ȃ����Ƃ��������ƂɋC�Â��A�p���������z�����ƁB<br>
-�y�Q�z�s�r�����̏ꍇ�A�����Ƃ��Ă̒p���炢�ƌ������A�j���̈ӎ��Ƃ��āA�������A���̎q�̊i�D�����Ă���l��l�ڂɂ��炷���Ƃւ̒p�����������\�ʂɂłĂ��܂����m�́A���͂̐l�ԓ��ɒj�����A��������̎q�Ƃ��Ă̒p���炢���Ɗ��Ⴂ�A�S���܂ނ����ȃ��m��D���Ă��܂����Ƃ������B<br>
-<br>
-�n�b�s�[�G���h�m�͂��ҁ[����ǁn<br>
-�y�P�z�߂ł����߂ł���<br>
-�y�Q�z�S�����K���A���邢�́A���l�ȊO���S�ĕs�K�ɂȂ�Ȃ��I�����B<br>
-�y�R�z�s�r�����̑唼���j�ɖ߂肽�����Ă��邱�Ƃ��l������ƁA�s�r�������j�ɖ߂�邱�Ƃ��n�b�s�[�G���h�̑�O��Ȃ肻�������A�s�r�������j�ɖ߂邱�Ƃɂ���āA���ɕs�K�ɂȂ��Ă��܂��l���������肵�āA�Ȃ��Ȃ������͂����Ȃ��B<br>
-�y�S�z�u��������Ȃ����B�݂�ȂōK���ɂȂ낤��B�v<br>
-<br>
-�ԊO�ҁm�΂񂪂��ւ�n<br>
-�s�r�Ƃ́A�ꌩ�ւ��̂Ȃ������ȍ�i���A�ԊO�҂��ƁA�s�r�ɂȂ�ꍇ������B<br>
-���ɃL�����N�^�[�║��w�i���m�����Ă��鐢�E�����ɁA�Љ�Ƀy�[�W���₷�K�v���Ȃ��A�܂��{�҂ɉe����^���Ȃ����Ƃ������āA�ǂ�ȏI�����ł��n�j�Ƃ������ƂŁA�s�r�̖ʔ��݂���������Ƌl�ߍ���ł���鎖�������B<br>
-<br>
-�����z���m�Ђ������n<br>
-����ւ���i�Ɋւ��ẮA�ɂ߂ďd�v�ȃ|�C���g�ɂ��ăC�x���g�B����ւ��ɂ́A�Ȃ�炩�̌`�œ��̂̐ڐG���s���ȏꍇ�����������ɁA�����z�����ɂ��A���҂̋������������̂ɂȂ����ꍇ�A�ȍ~�A�v���悤�ɉ���Ƃ��ł��Ȃ��Ȃ�A���ꂾ�����ɖ߂��\�����啝�ɒቺ���邱�ƂɂȂ��Ă��܂��B�n�b�s�[�G���h���O��̏ꍇ�A�����z���̒��O�A�h�����Č��ɖ߂��W�J���������A��΂Ƃ����킯�ł͂Ȃ��B<br>
-���ɖ߂�Ȃ������Q�l���A���ɖ߂��\�����Ђ��������܂ܐ����𑱂��A���̌�ǂ��Ȃ邩�́A����ւ��s�r�ɂ�����d�v�ȃe�[�}�Ƃ�����B<br>
+ランジェリー［らんじぇりー］<br>
+【１】女性向け下着の中でも、実用性とはほぼ無関係な装飾性、柄やフリル、レースなどあしらったものを、特にこう呼称する。勝負下着であることも多い。ブラやショーツ、スキャンティなどに止まらず、キャミソール、ストッキングや、ボディスーツなども含まれることがある。<br>
+【２】ＴＳっ娘の場合、自分の意志で買うと言うより、他人に無理矢理買わされたか、あるいは当人が知らぬ間に、袋やらタンスやらに入って居ることが多い。当人にとっては無用の長物のはずだが、やはりそこは男としての好奇心が先走って、「一度くらいならつけてみようかな。」などとうっかり身につけてしまったのが運の尽き。「俺って、まんざらでもないじゃん。」などとポーズをとりつつ満足をひたっている様を、こっそりと影から見ていた母親や姉妹、幼なじみなどに写真に撮られ、弱みを握られることになり、後々、散々からかわれたり、揺すられたりされる羽目になる。<br>
 </font>
 <p><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_top">http://www2s.biglobe.ne.jp/~ndcss/</a>
 </td></table>
@@ -284,70 +222,132 @@ ttp://www3.ocn.ne.jp/~gthmhk/dskrmnc.html#hanasiwo��薳�f�]�ځ@�폜�L�[ �P�Q�R<
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> ���ڂ��Ă������ǁA�v�X�̂܂Ƃߏ������̂P</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> さぼっていたけど、久々のまとめ書きその２</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/11/14 (��) 20:23:39 <strong>��</strong> <a href="mailto:ndcss@mtd.biglobe.ne.jp">���ƂԂ��Ђ���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200311145202339&log=jiten">�ԐM</a>�@�폜<input type=checkbox name="target" value="200311145202339"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/14 (金) 20:28:28 <strong>▽</strong> <a href="mailto:ndcss@mtd.biglobe.ne.jp">ことぶきひかる</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311145202828_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200311145202828"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��m�����݁n<br>
-�y�P�z�N���������ڗ��܂��Ăł����������r�B<br>
-�y�Q�z�������萅�����񂾂藎�����肷��ƁA���̎q�ɂȂ������F�L�ɂȂ����肷��B<br>
-�y�R�z�Ȃɂ����m�𗎂Ƃ��Ə��_�l���łĂ���ꏊ�B�����ɓ����Ă��E�\�����Ă��A���̎q�ɂȂ�B�^�����B<br>
+<font size=3 color=#606060>ジャンパースカート［じゃんぱーすかーと］<br>
+ワンピースに良く似た上半身部分とスカートが一体になった、あるいは、肩から吊すようなデザインのハイウエストスカート。<br>
+ただし、こちらには、袖がない点が特徴。<br>
+女の子向けの服装としても一般的だが、一方で、学校の制服としても使用されている。<br>
+ワンピースは、それ単品で着ることもできるのに対し、ジャンパースカートは、セーターやシャツ、トレーナーなどとの組み合わせて着用することが前提となっており、その組み合わせによって、イメージもかなり変わってくる。<br>
 <br>
-�r�e�m�������Ӂn<br>
-�y�P�z�Ȋw��z���m�̂��ƁB��z�Ƃ������t�����������悤�ɁA����̉Ȋw�A�𖾂��Ă���m�����Ă�����̂ɏ����������̂Ƃ������A�܂������\���̈���o�Ȃ��Ȋw�E�E�E����ւ̊�]���]�I�Ȃ��̂̏ꍇ�������B<br>
-�y�Q�z�Q�����s���{�b�g�⃌�[�U�[�͌����̂��̂ƂȂ������A���d�͂⃏�[�v�́A�܂����̖��B<br>
-�y�R�z�s�r�Ƃ��ẮA�_�o�M����d�C�I�Ȃ��̂Ɖ��߂�����ł̊��o��_�o�M���̌������L�A�l���l�Ԃւ̔]�ڐA�B�i�m�}�V���ɂ��l�̉����Ȃǂ��l������B<br>
-�u�|�|�l�؁v�m�������ӂ������傤�n<br>
-��{�I�ɂ́A��z���O�񂾂��ɂȂ�ł�����̂r�e�����A����ł��A������x�̉Ȋw�I�����͕K�v�ł���A���̂��߂̒m���w�����ł͂Ȃ��A��ʘ_���܂߂Ă̌����B<br>
-���l��h�点��@�B��A���̎��̓s���łȂ�ł��łĂ���|�P�b�g�Ȃǂ́A��͂�o���Ă͂����Ȃ��B<br>
-���A���܂�ɂ������_�ł̉Ȋw�ɂ������ƁA�܂�Ȃ����A�P�Ȃ邤�񂿂��ɂȂ��Ă��܂��̂Œ��ӂ��K�v�B<br>
 <br>
-�G�v�����m���Ղ��n<br>
-�y�P�z�����Ȃǂ̍�Ǝ��A��������Ȃ��悤�A�d�˒����镞�̈��B<br>
-��{�I�ɂ́A�O�ʁA������G�܂ł𕢂��A���⍘�̕ӂ�ɂĕR�Ȃǂł��Œ肷�郂�m����ʓI�B<br>
-��Ƃ�O��ɂ��Ă��邾���ɁA�{���̓V���v���ȃf�U�C���̂��̂������������A�ߔN�́A���C�h����̉e�����炩�A�t�������̂��̂��l�C������B<br>
-�y�Q�z�����珗���̎��ƌ����Ă��A��͂菗���̃G�v�����p�͒j�S����������B�s�r�������܂��R��B<br>
+集団［しゅうだん］<br>
+【１】特定の目的をもった、あるいは行動をとる人間あるいは生物の集まり。<br>
+「−−入れ替わり」（集団入れ替わり）<br>
+３人以上、実際には更に多数の人間同士で、体と心が入れ替わること。<br>
+入れ替わりの法則も、１つずつずれるというものから、全くのランダムまで多用で、むしろ作者の意図によるモノのことが多い。<br>
+複数の人間を活かすために、性別だけではなく、年齢や社会的立場、身体能力など、できるだけ異なる人間で行うことが望ましい。<br>
+「−−憑依」（しゅうだんひょうい）<br>
+１人の人間に多数の魂や意識が憑依すること。ともすれば、多重人格モノと似たような展開になるため、それらとどう差別化するかが重要なポイント。<br>
 <br>
-���c�q�m�����񂲁n<br>
-�y�P�z�ݕĂ����č�����݁A���邢�͖ݕĂ̕��ɂ����₨���ŗ��������̂�������A���a���Z���`�O��̋���Ɍ`�𐮂������́B����Q���≩���A�S�}����ݖ��_���ɂ܂Ԃ��ĐH�ׂ�B<br>
-�y�Q�z���̗��e�₤�Ȃ��ŁA������������܂Ƃ߂锯�^�B�z��l�b�g�ŕ�������A�܂���x�O�҂݂ɂ�����ŁA���߂Ă܂Ƃ߂�����Ȃǃo���G�[�V�����������B�T�C�Y�I�ɂ��`��I�ɂ��A���c�q�Ƃ�����肨�\���ƌ��������߂��B<br>
-�y�R�z�`���C�i�h���X�⌝�@�ȂǁA���؏����ɂ͌������Ȃ��B<br>
+セーラー服［せーらーふく］<br>
+ブレザーやジャンパースカート、セーターなどの出現により、最盛期ほどの勢いと人気こそなくなったものの、いまだ、女子学生の制服の定番といえる存在。<br>
+肩から背中の４分の１相当を覆う大きな襟が最大の特徴であり、この独特のデザインと「セーラー服＝女子学生の制服というイメージ」により、ＴＳっ娘にセーラー服を着せることで、当事者は「わ、何で俺女子の制服着てるんだ？」と困惑し、読者は、「あ、こいつは、女の子になったんだ。」と即納得できるという明瞭なパターンとなっている。<br>
 <br>
-�I�`�m�����n<br>
-�y�P�z������i�̍Ō�̒��߂�����B<br>
-�y�Q�z�r���ɒ��菄�点���������A������R��ׂ���i�𓥂�ŉ���������邩���A��i�̏o���Ɋւ���Ă��鑼�A��Ƃ̗͗ʂ̏ؖ��Ƃ�������B<br>
-���ʁA���̏ꂻ�̏�Řb�𐷂�グ�邽�߁A�f�^�����ɂԂ����񂾕�����䂪�A���ݖ������������A�͂Ȃ���A�������邱�Ƃ�������A�ǎ҂��A����ȏI����������Ă̓P�`�����悤�ɂ����悤���Ȃ��ȂǂƑz���Ă��܂��悤�ȋ����ȃI�`�����Ȃ��Ȃ��B<br>
-�����ȃI�`�̓T�^�Ƃ��ẮA���I�`�Ȃǂ̑��ϑz�I�`�A��v�l���F�E���I�`�A����I�`�A��x�Ɩ߂��Ă���Ȃ��Ȃ邭�炢�����ւ̗������I�`�Ȃǂ�����B<br>
-�y�R�z���̏o������ŁA��҂̋Z�ʁA���邢�͍�i���ł��؂肩�ǂ������悭������B<br>
+玉突き［たまつき］<br>
+【１】ビリヤード<br>
+【２】車等が、立て続けに追突あるいは衝突事故を起こすこと。<br>
+【３】集団での入れ替わりあるいは憑依の形態。基本的には、Ａの精神（魂）がＢの身体へ、Ｂの精神（魂）がＣの身体へ、Ｃの精神（魂）がＤの身体へ・・・という風に、精神（魂）と身体が１つずつずれていくように、入れ替わりあるいは憑依する方式。理論的には、全世界の人間はおろか鶏猫狗驢馬はては宇宙人まで巻き込んでの入れ替わりか憑依も可能だが、その書き分けとそれだけの人数を登場させた意味をもたせることを考慮するに、実際には５，６人が限界。<br>
 <br>
-���B���m�����ۂ����n<br>
-�y�P�z�G�v�������l�A�������ɐg�ɂ����ƒ��̂P�B�������Ƃ�������ɂȂ��Ă��邽�߁A���ɒ��Ă��镞�̏ォ�璅�邱�Ƃ��ł��鑼�A�G�v�����ƈႢ�A�������邽�߁A���̉��ɒ������̑�������ɂ����Ƃ��������b�g������B<br>
-�y�Q�z�G�v�������A�ƒ�I�ȕ��͋C��C���[�W�������A��͂蔒�����тƂ݂��`�̃o�����[�Z�b�g���]�܂����B<br>
-�y�R�z���̕��̏ォ�������邪�A��͂��{�͘a���ł��낤�B���������ꂾ���ɂ��ڂɂ������@��͊󏭂������肷��B�i�܁j<br>
+流れ星［ながれぼし］<br>
+【１】宇宙空間を漂う物質が、重力に魂をひかれて、地球の大気圏内に引きずり込まれた結果、大気との摩擦により燃え上がり発光する現象。<br>
+【２】消えるまでに、３度繰り返すことにより願い事が叶うとか叶わないとか。<br>
+【３】迂闊に願い事をすると、その意味を巨大化変形合体解釈され、ＴＳということになる。例１「人気者になりたい。」魅力的な美少女にされてしまう。　例２「お金持ちになりたい。」ナイスバディな美女にされ玉の輿。　例３「女の子と仲良くなりたい。」女の子にされ同性として親友に。　例４「ＴＳ作品の作家になりたい。」ノンフィクション作家に。<br>
 <br>
-���o�m���񂩂��n<br>
-��ɁA�܊��E�E�E���o���o�k�o�G�o���o�̂��Ƃ��w���B<br>
-�u�|�|���L�v�m���񂩂����傤�䂤�n<br>
-�P�l�̐l�Ԃ̊��o�𑼂̐l�ԁi�K�������P�l�Ƃ����킯�ł͂Ȃ��B�j�����키���ƁB�g�̂̓������哱���܂ł͋��L�Ƃ����Ȃ����Ƃ������A�����ɂ͂s�r�Ƃ͌����Ȃ��ꍇ�������B<br>
-�u�|�|�����v�m���񂩂���������n<br>
-����l�Ԃƕʂ̐l�Ԃ̊��o�����������Ƃ������́B�����̐g�̂̓����Ƃ���ɔ������o����v���Ȃ����ߋN�����a���i�G�����ɂ��ւ�炸�G��ꂽ���G������B�Ȃǁj���|�C���g�̂P�B��������A�����ɂ͂s�r�Ƃ͌����Ȃ��ꍇ�������B<br>
+恥じらい<br>
+【１】自分の仕草などの行為を恥だと想うこと。あるいは、自分の行ったことが、あまり人には知られたくないことだったことに気づき、恥ずかしく想うこと。<br>
+【２】ＴＳっ娘の場合、女性としての恥じらいと言うより、男性の意識として、自分が、女の子の格好をしている様を人目にさらすことへの恥ずかしさが表面にでてしまうモノの、周囲の人間特に男性が、それを女の子としての恥じらいだと勘違い、心を含むいろんなモノを奪われてしまうことが多い。<br>
 <br>
-���s����`�m���������ガ�n<br>
-���Ղ��Q�Ƃ̂��ƁB<br>
+ハッピーエンド［はっぴーえんど］<br>
+【１】めでたしめでたし<br>
+【２】全員が幸せ、あるいは、悪人以外が全て不幸にならない終わり方。<br>
+【３】ＴＳっ娘の大半が男に戻りたがっていることを考慮すると、ＴＳっ娘が男に戻れることがハッピーエンドの大前提なりそうだが、ＴＳっ娘が男に戻ることによって、他に不幸になってしまう人物がいたりして、なかなかそうはいかない。<br>
+【４】「いいじゃないか。みんなで幸せになろうよ。」<br>
 <br>
-�R���Z�b�g�m���邹���Ɓn<br>
-�y�P�z�w���⍘��ɂ߂��ۂɎg���鋸����B<br>
-�y�Q�z�h���X�Ȃǂ𒅗p����ہA�����̃E�F�X�g���i�荞�ނ��߂Ɏg���鋸�������B<br>
-�y�R�z�s�r�����̏ꍇ�A�����אg�̂��Ƃ��������߁A�s�v�E�E�E�Ƒz��ꂪ�������A��������X�ɍi�荞�ނ̂��R���Z�b�g�̋��낵���Ƃ���ł���B<br>
-�y�S�z�Ƃɂ����A��������߂��邽�߁A�H�ׂ悤�ɂ��A�������ɓ���Ȃ��ƌ������ʁA�H���̃}�i�[�Ɋւ��Ď��s���N����Â炢�Ƃ����������ʂ����B<br>
+番外編［ばんがいへん］<br>
+ＴＳとは、一見関わりのなさそうな作品も、番外編だと、ＴＳになる場合がある。<br>
+既にキャラクターや舞台背景が確立している世界だけに、紹介等にページを費やす必要がなく、また本編に影響を与えないこともあって、どんな終わり方でもＯＫということで、ＴＳの面白みをぎっしりと詰め込んでくれる事が多い。<br>
 <br>
-�ĉ�m���������n<br>
-�y�P�z��x�A�a���ɂȂ����l�Ԃ���������ƁB<br>
-�y�Q�z����ւ������A�����z����d���̓s���őa���ɂȂ��Ă����j�����Ăяo����ƁB�{���̎����̐g�̂ł���ɂ��ւ�炸�A�قȂ�l�i�Ǝ��Ԃɂ���āA�S���ʂ̑��݂ɂȂ��Ă��܂��������Ƃ��琂��|�C���g�̂P�ƌ�����B<br>
-�y�R�z�s�r�������A���Ă̐e�F��c�Ȃ��݂Əo����ƁB����Ɏ����̐��̂��m���Ă��邩�A���邢�͒m��ꂽ��̊֌W���ǂ��Ȃ邩���A�|�C���g�̂P�B<br>
+引っ越し［ひっこし］<br>
+入れ替わり作品に関しては、極めて重要なポイントにしてイベント。入れ替わりには、なんらかの形で肉体の接触が不可欠な場合が多いだけに、引っ越す事により、両者の距離が遠いものになった場合、以降、思うように会うことができなくなり、それだけ元に戻れる可能性が大幅に低下することになってしまう。ハッピーエンドが前提の場合、引っ越しの直前、辛うじて元に戻れる展開が多いが、絶対というわけではない。<br>
+元に戻れなかった２人が、元に戻れる可能性をひきずったまま生活を続け、その後どうなるかは、入れ替わりＴＳにおける重要なテーマといえる。<br>
+</font>
+<p><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_top">http://www2s.biglobe.ne.jp/~ndcss/</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> さぼっていたけど、久々のまとめ書きその１</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/11/14 (金) 20:23:39 <strong>▽</strong> <a href="mailto:ndcss@mtd.biglobe.ne.jp">ことぶきひかる</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200311145202339_log_jiten.cgi">返信</a>　削除<input type=checkbox name="target" value="200311145202339"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>泉［いずみ］<br>
+【１】湧き水が直接溜まってできあがった池。<br>
+【２】うっかり水を飲んだり落ちたりすると、女の子になったり大熊猫になったりする。<br>
+【３】なにかモノを落とすと女神様がでてくる場所。正直に答えてもウソをついても、大抵女の子になる。／される。<br>
+<br>
+ＳＦ［えすえふ］<br>
+【１】科学空想モノのこと。空想という言葉がさし示すように、現代の科学、解明している確立しているものに準拠したものというより、まだ推測予測の域を出ない科学・・・それへの願望や希望的なものの場合が多い。<br>
+【２】２足歩行ロボットやレーザーは現実のものとなったが、反重力やワープは、まだ夢の夢。<br>
+【３】ＴＳとしては、神経信号を電気的なものと解釈した上での感覚や神経信号の交換共有、人造人間への脳移植。ナノマシンによる人体改造などが考えられる。<br>
+「−−考証」［えすえふこうしょう］<br>
+基本的には、空想が前提だけになんでもありのＳＦだが、それでも、ある程度の科学的根拠は必要であり、そのための知識層だけではなく、一般論を含めての検討。<br>
+死人を蘇らせる機械や、その時の都合でなんでもでてくるポケットなどは、やはり出してはいけない。<br>
+尚、あまりにも現時点での科学にこだわると、つまらないか、単なるうんちくになってしまうので注意が必要。<br>
+<br>
+エプロン［えぷろん］<br>
+【１】料理などの作業時、服が汚れないよう、重ね着する服の一種。<br>
+基本的には、前面、胸から膝までを覆い、肩や腰の辺りにて紐などでも固定するモノが一般的。<br>
+作業を前提にしているだけに、本来はシンプルなデザインのものが多かったが、近年は、メイドさんの影響からか、フリルつきのものが人気がある。<br>
+【２】いくら女性蔑視と言われても、やはり女性のエプロン姿は男心をくすぐる。ＴＳっ娘もまた然り。<br>
+<br>
+お団子［おだんご］<br>
+【１】餅米をついて作った餅、あるいは餅米の粉にし水やお湯で練ったものをちぎり、直径数センチ前後の球状に形を整えたもの。主に餡こや黄粉、ゴマだれ醤油ダレにまぶして食べる。<br>
+【２】頭の両脇やうなじで、髪を結ったりまとめる髪型。布やネットで覆ったり、また一度三つ編みにした上で、改めてまとめあげるなどバリエーションも多い。サイズ的にも形状的にも、お団子というよりお饅頭と言う方が近い。<br>
+【３】チャイナドレスや拳法など、中華少女には欠かせない。<br>
+<br>
+オチ［おち］<br>
+【１】物語や作品の最後の締めくくり。<br>
+【２】途中に張り巡らせた伏線や謎、それらを然るべく手段を踏んで解消しきれるかが、作品の出来に関わってくる他、作家の力量の証明ともいえる。<br>
+反面、その場その場で話を盛り上げるため、デタラメにぶちこんだ伏線や謎が、相互矛盾をおこし、はなから、解消することを放棄し、読者が、こんな終わり方をされてはケチをつけようにもつけようがないなどと想ってしまうような強引なオチも少なくない。<br>
+強引なオチの典型としては、夢オチなどの他妄想オチ、主要人物皆殺しオチ、封印オチ、二度と戻ってこれなくなるくらい遠くへの旅立ちオチなどがある。<br>
+【３】この出来次第で、作者の技量、あるいは作品が打ち切りかどうかがよく分かる。<br>
+<br>
+割烹着［かっぽうぎ］<br>
+【１】エプロン同様、調理時に身につける作業着の１つ。ゆったりとした造りになっているため、既に着ている服の上から着ることができる他、エプロンと違い、袖があるため、その下に着た服の袖が汚れにくいというメリットもある。<br>
+【２】エプロンより、家庭的な雰囲気やイメージが強く、やはり白いご飯とみそ汁のバリューセットが望ましい。<br>
+【３】大抵の服の上からも着れるが、やはり基本は和服であろう。しかしそれだけにお目にかかれる機会は希少だったりする。（涙）<br>
+<br>
+感覚［かんかく］<br>
+主に、五感・・・視覚聴覚嗅覚触覚味覚のことを指す。<br>
+「−−共有」［かんかくきょうゆう］<br>
+１人の人間の感覚を他の人間（必ずしも１人というわけではない。）が味わうこと。身体の動かす主導権までは共有といえないことが多く、厳密にはＴＳとは言えない場合も多い。<br>
+「−−交換」［かんかくこうかん］<br>
+ある人間と別の人間の感覚が交換されるというもの。自分の身体の動きとそれに伴う感覚が一致しないため起こる違和感（触ったにも関わらず触られた感触がある。など）がポイントの１つ。こちらも、厳密にはＴＳとは言えない場合が多い。<br>
+<br>
+ご都合主義［ごつごうしゅぎ］<br>
+安易を参照のこと。<br>
+<br>
+コルセット［こるせっと］<br>
+【１】背骨や腰を痛めた際に使われる矯正具。<br>
+【２】ドレスなどを着用する際、女性のウェストを絞り込むために使われる矯正下着。<br>
+【３】ＴＳっ娘の場合、元より細身のことが多いため、不要・・・と想われがちだが、そこから更に絞り込むのがコルセットの恐ろしいところである。<br>
+【４】とにかく、腹部を締めつけるため、食べようにも、何も腹に入らないと言う結果、食事のマナーに関して失敗が起こりづらいという副次効果を持つ。<br>
+<br>
+再会［さいかい］<br>
+【１】一度、疎遠になった人間が会い直すこと。<br>
+【２】入れ替わった後、引っ越しや仕事の都合で疎遠になっていた男女が再び出会うこと。本来の自分の身体であるにも関わらず、異なる人格と時間によって、全く別の存在になってしまった自分との邂逅がポイントの１つと言える。<br>
+【３】ＴＳっ娘が、かつての親友や幼なじみと出会うこと。相手に自分の正体が知られているか、あるいは知られた後の関係がどうなるかが、ポイントの１つ。<br>
 <br>
 </font>
 <p><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_top">http://www2s.biglobe.ne.jp/~ndcss/</a>
@@ -356,7 +356,7 @@ ttp://www3.ocn.ne.jp/~gthmhk/dskrmnc.html#hanasiwo��薳�f�]�ځ@�폜�L�[ �P�Q�R<
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="jiten">
@@ -364,16 +364,16 @@ ttp://www3.ocn.ne.jp/~gthmhk/dskrmnc.html#hanasiwo��薳�f�]�ځ@�폜�L�[ �P�Q�R<
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="jiten">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=jiten">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_jiten.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

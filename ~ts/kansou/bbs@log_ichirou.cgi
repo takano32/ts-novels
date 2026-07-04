@@ -169,7 +169,7 @@ JBBSしたらば買収、イーバンクとの争い<br>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】文武両道ってのは実にタイヘンなものなのです。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200102/23134043/winning_ball12.html target=_top>http://ts.novels.jp/novel/200102/23134043/winning_ball12.html</a></font>
+<a href="../../novel/200102/23134043/winning_ball12.html" target=_top>http://ts.novels.jp/novel/200102/23134043/winning_ball12.html</a></font>
 </td></table>
 </td></tr></table>
 

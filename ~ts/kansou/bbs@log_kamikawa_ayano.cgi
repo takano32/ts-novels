@@ -53,7 +53,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】部活のことで頭を悩ませる雅に、さらなる悩みの種が到来か!?<br>
 <br>
-<a href=http://ts.novels.jp/novel/200104/15172112/angels_19.html target=_top>http://ts.novels.jp/novel/200104/15172112/angels_19.html</a></font>
+<a href="../../novel/200104/15172112/angels_19.html" target=_top>http://ts.novels.jp/novel/200104/15172112/angels_19.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -69,7 +69,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 体調が悪いときに無理することはないのです。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200104/15172112/angels_18.html target=_top>http://ts.novels.jp/novel/200104/15172112/angels_18.html</a></font>
+<a href="../../novel/200104/15172112/angels_18.html" target=_top>http://ts.novels.jp/novel/200104/15172112/angels_18.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -85,7 +85,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 慣れないことには大変だったり。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200104/15172112/angels_17.html target=_top>http://ts.novels.jp/novel/200104/15172112/angels_17.html</a></font>
+<a href="../../novel/200104/15172112/angels_17.html" target=_top>http://ts.novels.jp/novel/200104/15172112/angels_17.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -138,7 +138,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 傍受した犯人は意外にも近い。しかし、今は日中。大胆な行動に出ないだろうと判断した榊原は——。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200104/15172112/angels_16.html target=_top>http://ts.novels.jp/novel/200104/15172112/angels_16.html</a></font>
+<a href="../../novel/200104/15172112/angels_16.html" target=_top>http://ts.novels.jp/novel/200104/15172112/angels_16.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -170,7 +170,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 ロケが行われているという中華街に足を運ぶ雅ら。そのときか、コミュニケータの情報が傍受されていた。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200104/15172112/angels_15.html target=_top>http://ts.novels.jp/novel/200104/15172112/angels_15.html</a></font>
+<a href="../../novel/200104/15172112/angels_15.html" target=_top>http://ts.novels.jp/novel/200104/15172112/angels_15.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -203,7 +203,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 入学直後、どこの学校も大抵は身体測定を行う。勿論、セシリア女学院も例外ではなかった。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200104/15172112/angels_14.html target=_top>http://ts.novels.jp/novel/200104/15172112/angels_14.html</a></font>
+<a href="../../novel/200104/15172112/angels_14.html" target=_top>http://ts.novels.jp/novel/200104/15172112/angels_14.html</a></font>
 </td></table>
 </td></tr></table>
 

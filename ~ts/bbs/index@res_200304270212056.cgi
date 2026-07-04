@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >�N���G�[�^�[�Y�E�t���A</font>
+<font size=6 >クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,27 +15,27 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="rZlMI4SkY2">
 <input type=hidden name="res" value="300">
-<h4 align=center>�� �L���ԍ� 300 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 300 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���`�ƁA�����N���肪�Ƃ��������܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �悵��������
-&gt; ������ł����˂��B�킽���̂Ƃ���݂����ȂƂ��A�����N���Ă��������āE�E�E�i��</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:え〜と、リンクありがとうございました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ よしおかさん
+&gt; いいんですかねぇ。わたしのところみたいなとこ、リンクしていただいて・・・（汗</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,72 +48,72 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[306]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> Re:���Ɠ���b��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[306]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> Re:ちと難しい話題</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/05/14 (��) 19:27:25  �Ԗ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200305143192725">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305143192725"></font>
+<font size=-1 color=#606060> 2003/05/14 (水) 19:27:25  赤目 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200305143192725.cgi">返信</a>　削除<input type=checkbox name="target" value="200305143192725"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">&gt;�L�]�Ј��������ɂȂ��ĕs���Ȉ������󂯁A�ċN��}��</font><br>
+<font size=4 color=#000000><font color="#cc88ff">&gt;有望社員が女性になって不利な扱いを受け、再起を図る</font><br>
 <br>
-���܂菉����i��ǂ߂ĂȂ��̂Ő\����Ȃ��̂ł����A<br>
-�u���v���ő�����p���āc�c�Ƃ����͔̂@���ł��傤�B<br>
+あまり初期作品を読めてないので申し訳ないのですが、<br>
+「女」を最大限利用して……というのは如何でしょう。<br>
 <br>
-�����A���z����Ȃ��猎���݂��Ȃ��B<br>
+ああ、発想が我ながら月並みだなぁ。<br>
 <br>
-������悭�����邱�Ƃł����Љ�I�ȁu���v�Ɛ����w�I�ȁu���v�������āA<br>
-���܂͏����͗������甛���ċꂵ��ł���킯���Ǝv���܂��B�����߁X<br>
-�l�H�q�{�Ől�Ԃ��琬�ł���悤�ɂȂ��āA�������o�Y����J�������ƁA<br>
-�ǂ��Ȃ�̂����ĂƂ���͋����[���Ƃ���ł��B<br>
-�Љ�I�ȁu���v�Ƃ��Ắu�����v�́A�ʒi�����w�I�ȏ������K���������ʂ����Ȃ�<br>
-�Ƃ����Ȃ��킯�ł͂Ȃ��ł��傤����A�悭�L�����A�E�[�}�����ӂƁu����<br>
-���ł��񂪗~�����v�ƌ������肷��̂́i�悭���ǂ����͒m��܂��񂪂��j�A<br>
-����ϐg�̉��̐��b�����Ă���邨��`�����񂪗~�������炶��Ȃ����Ȃ��B<br>
-������A����`�����񃍃{�b�g���o�ꂷ��Ή������Ă��܂��c�c�B<br>
+これもよく言われることですが社会的な「性」と生物学的な「性」があって、<br>
+いまは女性は両方から縛られて苦しんでいるわけだと思います。ただ近々<br>
+人工子宮で人間を育成できるようになって、女性が出産から開放されると、<br>
+どうなるのかってところは興味深いところです。<br>
+社会的な「性」としての「女性」は、別段生物学的な女性が必ず役割を果たさない<br>
+といけないわけではないでしょうから、よくキャリアウーマンがふと「私も<br>
+お嫁さんが欲しい」と言ったりするのは（よくかどうかは知りませんがｗ）、<br>
+やっぱ身の回りの世話をしてくれるお手伝いさんが欲しいからじゃないかなぁ。<br>
+これも、お手伝いさんロボットが登場すれば解決してしまう……。<br>
 <br>
-�����Ƃ��Ắu�������v���Ă��̂��ߖ����ł͑�؂ɂ���邩������܂���B<br>
-�Ƃ���Ƃs�r�q���C���̉ʂ��������͎Љ�I�ɂ��d�v�c�c�Ȃ̂����i�I�H�j�B</font>
+文化としての「女性性」ってものが近未来では大切にされるかもしれません。<br>
+とするとＴＳヒロインの果たす役割は社会的にも重要……なのかも（！？）。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[305]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> ���Ɠ���b��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[305]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> ちと難しい話題</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/05/14 (��) 12:49:22  ��_�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200305143124922">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305143124922"></font>
+<font size=-1 color=#606060> 2003/05/14 (水) 12:49:22  矢治浩平 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200305143124922.cgi">返信</a>　削除<input type=checkbox name="target" value="200305143124922"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�����̉ł���́A�Ȃ��Ȃ����w���ȕ��Ȃ�ł����A����ς肨�d����ł̒j�����̊i�����Ƃ����悭�����Ă܂��B���I�ɂ́A�܂��ɐ�����l�^�����Ɠ����ɁA�኱��Q�ϑz�I�ȂƂ�����������邩�ȁA�Ƃ��B<br>
-�Ƃ͂����A��Бg�D�Ő����čs�����Ǝv������A�����ł��邱�Ƃ��s���ȗv�f�ɂȂ�A���Ă͔̂ۂ߂Ȃ����ȁA�Ƃ����C�͂��Ă܂��B���ɋ����Ă����̂��A�o�Y�ɂ�钆�f�ƈ玙���S�ł����B�P�`�Q�N�̃u�����N����������A���Ă̂͌��݂̒j���ɂ͂��肦�Ȃ��܂���B<br>
-�����܂��A�j���ł���Ƃł��ˁA�����̎����Ă�����A�}�C�i�X�̃o�C�A�X��������ꍇ�ɁA�u�������Ǝ�w�ɂȂ낤�v�Ƃ͂����Ȃ��킯�ł��āA�K���ɃT�����[�}������ēK���ɋ�������Ă鎄�Ƃ���ƁA�����𓾂��i�ɑ΂��ă��X�N��w����Ȃ��Ă������l�����I���ł���A���Ă̂͂����܂������肾�����肵�܂��B�ɒ[�Șb�A�ޏ��͂��N�r�ɂȂ��Ă������킯�ł����A���͂��N�r�ɂȂ�킯�ɂ������Ȃ��킯�ł��B�����͋��҂��ł����A���������v���b�V���[���Ă̂́A�Ƒ��̒��œ����肾���������Ă���񂶂�Ȃ��̂ł��傤���H<br>
+<font size=4 color=#000000>うちの嫁さんは、なかなか高学歴な方なんですが、やっぱりお仕事上での男女差の格差だとかをよく言ってます。私的には、まさに生きるネタ帳だと同時に、若干被害妄想的なところも感じられるかな、とか。<br>
+とはいえ、会社組織で生きて行こうと思ったら、女性であることが不利な要素になる、ってのは否めないかな、という気はしてます。特に挙げていたのが、出産による中断と育児負担でした。１〜２年のブランクを強いられる、ってのは現在の男性にはありえないません。<br>
+ただまあ、男性でいるとですね、自分の持ってる個性が、マイナスのバイアスがかかる場合に、「だから専業主婦になろう」とはいえないわけでして、適当にサラリーマンやって適当に金もらってる私とすると、お金を得る手段に対してリスクを背負わなくてもいい人生が選択できる、ってのはうらやましい限りだったりします。極端な話、彼女はいつクビになってもいいわけですが、私はいつクビになるわけにもいかないわけです。うちは共稼ぎですが、そういうプレッシャーってのは、家族の中で働き手だけが感じているんじゃないのでしょうか？<br>
 <br>
-���ꂩ��A�������ǂ��s�����A�Ƃ����΁A�����ł�����菟���g�ɉ��͓̂���ȁA�Ƃ������Ƃł��B�܂�A�����ł������E�ɂ��Ȃ��A�Ƃ����Ӗ������ł͂Ȃ��āA�����ł������͍������ɂȂ�Ȃ��A���Ă����j���A���X�ŕs���������킯�ł��B<br>
-�ł��A�����g�ɉ�낤�Ƃ��Ȃ���΁A���s���x�𗘗p���Ă���Ȃ�̑ҋ��𓾂邱�Ƃ͉\���낤�A���Ă��Ƃ��v���܂��B���͔ޏ��͂���ł͖����ł��Ȃ����Ƃ��Ǝv���̂ł��B���Ƃ��Ə����g�ɉ�낤�Ǝv���Ă��Ȃ��l�Ƃ���ƁA�����g�ɉ��Ȃ����Ƃ͂��������f�����b�g�ł͂Ȃ������肵�܂��B<br>
+それから、女性がどう不利か、といえば、女性でいる限り勝ち組に回るのは難しいな、ということです。つまり、女性でいる限り職につけない、という意味合いではなくて、女性でいる限りは高給取りになれない、っていうニュアンスで不満をいうわけです。<br>
+でも、勝ち組に回ろうとしなければ、現行制度を利用してそれなりの待遇を得ることは可能だろう、ってことも思います。問題は彼女はそれでは満足できないことだと思うのです。もともと勝ち組に回ろうと思っていない僕とすると、勝ち組に回れないことはたいしたデメリットではなかったりします。<br>
 <br>
-�܁A�ޏ��Ƙb�����Ă��āA�L�]�Ј��������ɂȂ��ĕs���Ȉ������󂯁A�ċN��}��A�Ƃ����X�g�[���[�́A����Ȃ�ɖʔ����ł��������ȁA�Ƃ��v���܂����B�����̏�����i�̓����́A�����ŏ����̍K���������Đ�Ǝ�w�ɂȂ��ăn�b�s�[�G���h�A�Ȃ�ł����A�l�͂��������̂͌����ł��B�����A�l�������Ă���m�����Ƙb�ɐ[�݂��łȂ��̂ŁA������v�f���K�v���Ȃ��B</font>
+ま、彼女と話をしていて、有望社員が女性になって不利な扱いを受け、再起を図る、というストーリーは、それなりに面白くできそうだな、とか思いました。ここの初期作品の特徴は、そこで女性の幸せを見つけて専業主婦になってハッピーエンド、なんですが、僕はそういうのは嫌いです。ただ、僕が持っている知識だと話に深みがでないので、もう一つ要素が必要かなあ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[304]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> �v���t�F</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[304]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> プリフェ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/05/12 (��) 18:52:34  �Ԗ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200305121185234">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305121185234"></font>
+<font size=-1 color=#606060> 2003/05/12 (月) 18:52:34  赤目 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200305121185234.cgi">返信</a>　削除<input type=checkbox name="target" value="200305121185234"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�v�X�ɏ�������ł݂܂��B<br>
+<font size=4 color=#000000>久々に書き込んでみます。<br>
 <br>
-�v���e�B�t�F�C�X�͂���ȑO�ɂ��A���ɂȂ��čD���Ȗ��ƈꏏ�ɕ�炷�Ƃ����A<br>
-�ŏ��̐ݒ肩�炵�āw�V�g�`�x���v�킹����̂ł����ˁB<br>
-��҂͂ǂ����l�b�g���悭�`���Ă���悤�Ȋ����ł����A���R�A�ڂ��n�߂��<br>
-�������Ă͕ҏW�҂Ƃs�r�������������Ǝv���܂��B�ĊO�A������m���Ă��邩���c�c�B</font>
+プリティフェイスはそれ以前にも、女になって好きな娘と一緒に暮らすという、<br>
+最初の設定からして『天使〜』を思わせるものでしたね。<br>
+作者はどうやらネットをよく覗いているような感じですし、当然連載を始めるに<br>
+あたっては編集者とＴＳ物を研究したと思われます。案外、ここを知っているかも……。</font>
 </td></table>
 </td></tr></table>
 
@@ -123,77 +123,77 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[303]</font> <font size=4 color=#50d0d0> -- No Subject --</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/05/11 (��) 00:12:59  �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200305110001259">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305110001259"></font>
+<font size=-1 color=#606060> 2003/05/11 (日) 00:12:59  米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200305110001259.cgi">返信</a>　削除<input type=checkbox name="target" value="200305110001259"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�W�����v�̃v���e�B�t�F�C�X�����āA���̗��ނ��N���Ɏ��Ă�ȂƂ����Ǝv���Ă��̂ł����A�悤�₭�v�����������̂́u�V�g�̂��d���v�̐^�D�ł����B�q���C���̂͂��Ȃ̂ɂ��܂����ڗ����Ȃ��āA�ď��^�����̂悤�Ȓe�����L�����N�^�[�̉A�ɉB��Ă��܂��Ƃ��낪����(��)�B<br>
-��l���̐��̂�m��Ȃ��܂��߂ȗD�����Ƃ����̂́A����ϐ��ʕω����ł͓���L�����N�^�[�Ȃ�ł��傤���ˁB</font>
+<font size=4 color=#000000>ジャンプのプリティフェイスを見て、妹の里奈が誰かに似てるなとずっと思ってたのですが、ようやく思い当たったのは「天使のお仕事」の真織でした。ヒロインのはずなのにいまいち目立たなくて、夏緒／瑞樹のような弾けたキャラクターの陰に隠れてしまうところが特に(笑)。<br>
+主人公の正体を知らないまじめな優等生というのは、やっぱ性別変化物では難しいキャラクターなんでしょうかね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[302]</font> <font size=4 color=#50d0d0> ���ʏW�v�@No.1 �S��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[302]</font> <font size=4 color=#50d0d0> 月別集計　No.1 ４月</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/05/01 (��) 02:12:59  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200305014021259">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305014021259"></font>
+<font size=-1 color=#606060> 2003/05/01 (木) 02:12:59  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200305014021259.cgi">返信</a>　削除<input type=checkbox name="target" value="200305014021259"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>kou@�^�c�ψ��ł��B���ʏW�v���s���Ă݂܂����B<br>
+<font size=4 color=#000000>kou@運営委員です。月別集計を行ってみました。<br>
 <br>
-�S���񑡍�i��:27��i<br>
-�@�S�񑡍�i��:1247��i<br>
+４月寄贈作品数:27作品<br>
+　全寄贈作品数:1247作品<br>
 <br>
-�@�F�l�̂������ŁA�����܂Ő������Ă��܂����B���ꂩ����A�ǂ�����낵���B</font>
+　皆様のおかげで、ここまで成長してきました。これからも、どうぞよろしく。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[301]</font> <font size=4 color=#50d0d0> Re:���`�ƁA�����N���肪�Ƃ��������܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[301]</font> <font size=4 color=#50d0d0> Re:え〜と、リンクありがとうございました</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/04/28 (��) 00:31:13  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200304281003113">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304281003113"></font>
+<font size=-1 color=#606060> 2003/04/28 (月) 00:31:13  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200304281003113.cgi">返信</a>　削除<input type=checkbox name="target" value="200304281003113"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">> ������ł����˂��B�킽���̂Ƃ���݂����ȂƂ��A�����N���Ă��������āE�E�E�i��</font><br>
-�C�ɂ���Ƃ��Ă��B�F����ɂ��A�F�X�ȃT�C�g�����Љ�Ă������ƌ������ƂŁA���܂�[���l���Ȃ��ł��������B</font>
+<font size=4 color=#000000><font color="#cc88ff">> いいんですかねぇ。わたしのところみたいなとこ、リンクしていただいて・・・（汗</font><br>
+気にせんといてぇ。皆さんにも、色々なサイトをご紹介していこうと言うことで、あまり深く考えないでください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[300]</font> <font size=4 color=#50d0d0> ���`�ƁA�����N���肪�Ƃ��������܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[300]</font> <font size=4 color=#50d0d0> え〜と、リンクありがとうございました</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/04/27 (��) 21:20:56  �悵���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200304270212056">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304270212056"></font>
+<font size=-1 color=#606060> 2003/04/27 (日) 21:20:56  よしおか </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200304270212056.cgi">返信</a>　削除<input type=checkbox name="target" value="200304270212056"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>������ł����˂��B�킽���̂Ƃ���݂����ȂƂ��A�����N���Ă��������āE�E�E�i��</font>
+<font size=4 color=#000000>いいんですかねぇ。わたしのところみたいなとこ、リンクしていただいて・・・（汗</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[299]</font> <font size=4 color=#50d0d0> Re:�V���񌎖�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[299]</font> <font size=4 color=#50d0d0> Re:新婚二月目</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/03/30 (��) 23:30:37  <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200303300233037">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303300233037"></font>
+<font size=-1 color=#606060> 2003/03/30 (日) 23:30:37  <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200303300233037.cgi">返信</a>　削除<input type=checkbox name="target" value="200303300233037"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� ��_������<br>
-�����A���߂łƂ��������܂��I<br>
-<font color="#cc88ff">&gt; ������x</font><br>
-���x��TS���ăh���X�Łi���j�B</font>
+<font size=4 color=#000000>▼ 矢治浩平さん<br>
+おお、おめでとうございます！<br>
+<font color="#cc88ff">&gt; もう一度</font><br>
+今度はTSしてドレスで（爆）。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -201,35 +201,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[298]</font> <font size=4 color=#50d0d0> �V���񌎖�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[298]</font> <font size=4 color=#50d0d0> 新婚二月目</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/03/29 (�y) 11:12:47  ��_�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200303296111247">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303296111247"></font>
+<font size=-1 color=#606060> 2003/03/29 (土) 11:12:47  矢治浩平 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200303296111247.cgi">返信</a>　削除<input type=checkbox name="target" value="200303296111247"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�挎�Ɏ��������āA�悤�₭�񌎖ڂɓ˓����܂����B�V�������͂ڂ��ڂ�����Ă܂��B<br>
-�Q���̖�����ɂ��̃T�[�o�[���Ƃ܂��Ă܂������A���͒��x�������̐^���Œ��ŁA�������x��܂����B�܁A�����̃T�C�g�ɂ��������͏o�Ă��܂����A������x���Ƃ�����ƁA�����C�͂������Ȃ��ł��B��ꂽ�您�B</font>
+<font size=4 color=#000000>先月に式を挙げて、ようやく二月目に突入しました。新婚生活はぼちぼちやってます。<br>
+２月の末ごろにこのサーバーがとまってましたが、実は丁度結婚式の真っ最中で、発見が遅れました。ま、ここのサイトにも結婚式は出てきますが、もう一度やれといわれると、多分気力が続かないです。疲れたよお。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[297]</font> <font size=4 color=#50d0d0> �����̈���SPAM</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[297]</font> <font size=4 color=#50d0d0> たちの悪いSPAM</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/03/26 (��) 04:09:24  �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200303263040924">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303263040924"></font>
+<font size=-1 color=#606060> 2003/03/26 (水) 04:09:24  米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200303263040924.cgi">返信</a>　削除<input type=checkbox name="target" value="200303263040924"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�ǂ������v���Ԃ�ł��B�����ɃA�_���g�T�C�g�̍���藧�đ�s�Ȃ镨�𑕂��U�荞�݂�v�����鍼�\���[�����͂��܂����B���̊E�G�̃��[���A�h���X�����W���Ė����ʂɑ�����Ă���̂��Ǝv���܂��B���������悤�ȕ����͂��ĕs���Ȑl��������A�ȑO���炠�邽���̍��\�Ȃ̂łق��Ƃ��Ă����v�ł�(��)�B</font>
+<font size=4 color=#000000>どうもお久しぶりです。うちにアダルトサイトの債権取り立て代行なる物を装い振り込みを要求する詐欺メールが届きました。この界隈のメールアドレスを収集して無差別に送りつけてるものだと思います。もし同じような物が届いて不安な人がいたら、以前からあるただの詐欺なのでほっといても大丈夫です(笑)。</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -237,16 +237,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

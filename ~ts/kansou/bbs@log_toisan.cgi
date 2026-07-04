@@ -205,7 +205,7 @@ mk8426さん＞<br>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】裏に有る世界とは、姉が踏み入れていた土地とは。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200209/13173229/grand_f2.htm target=_top>http://ts.novels.jp/novel/200209/13173229/grand_f2.htm</a></font>
+<a href="../../novel/200209/13173229/grand_f2.htm" target=_top>http://ts.novels.jp/novel/200209/13173229/grand_f2.htm</a></font>
 </td></table>
 </td></tr></table>
 

@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >�N���G�[�^�[�Y�E�t���A</font>
+<font size=6 >クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,35 +15,35 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="OEBp12meb5">
 <input type=hidden name="res" value="319">
-<h4 align=center>�� �L���ԍ� 319 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 319 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���A���i���ǂ��j���Z�싅�l�^"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���d������
-&gt; ���Ђ����Ԃ�ł��c�ƌ����Ă��o���Ă�l�͂��Ȃ��C�����܂����A����͂��Ă����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:リアル（もどき）高校野球ネタ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 豆電球さん
+&gt; おひさしぶりです…と言っても覚えてる人はいない気もしますが、それはさておき。
 &gt; 
-&gt; �����V���̃E�F�u�����Ă���A����ȋL��������܂����B
-&gt; �y�����z���j�z�[�����Ԃ��ԁ@���q�������V�[�g�m�b�N
+&gt; 朝日新聞のウェブを見てたら、こんな記事がありました。
+&gt; 【東京】ユニホームだぶだぶ　女子部員がシートノック
 &gt; http://www2.asahi.com/koshien2003/nanboku/TKY200307180104.html
 &gt; 
-&gt; ���j�z�[���̂��Ԃ��ԋ�������͂��ƂȂ�TS�ȃe�C�X�g��
-&gt; �������o���Ă���܂��āA�����⏭�N�������ɂɂ����Z�싅�l�^
-&gt; �̘b����������������̂��Ǝv���o�����̂ł���܂����B</textarea><br>
+&gt; ユニホームのだぶだぶ具合がそこはかとなくTSなテイストを
+&gt; かもし出しておりまして、そいや少年少女文庫にも高校野球ネタ
+&gt; の話がいくつかあったよのうと思い出したのでありました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -56,15 +56,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[329]</font> <font size=4 color=#50d0d0> �Ă񂾁H</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[329]</font> <font size=4 color=#50d0d0> 呼んだ？</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/08/31 (��) 16:27:11  ���՗� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200308310162711">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308310162711"></font>
+<font size=-1 color=#606060> 2003/08/31 (日) 16:27:11  風祭玲 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200308310162711.cgi">返信</a>　削除<input type=checkbox name="target" value="200308310162711"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#ff88cc">���j�Ղ���Ƃ��ň��������ȋC�����Ȃ��ł��Ȃ��ł����B</font><br>
-�ʂɈ����Ă��ǂ����ǁc�i���Ă��������Ă��܂����j<br>
+<font size=4 color=#000000><font color="#ff88cc">＞Ｋ祭さんとこで扱えそうな気もしないでもないですが。</font><br>
+別に扱っても良いけど…（ってもぅ扱っていますが）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -75,40 +75,40 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[328]</font> <font size=4 color=#50d0d0> -- No Subject --</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/08/30 (�y) 04:18:48  Kardy@��݂���ċC����������ˁ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200308306041848">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308306041848"></font>
+<font size=-1 color=#606060> 2003/08/30 (土) 04:18:48  Kardy@首吊りって気持ちいいよね♪ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200308306041848.cgi">返信</a>　削除<input type=checkbox name="target" value="200308306041848"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#ff88cc">���łߌn�Ƃs�r�e���ĉ����[���񂾂낤���H</font><br>
-�s�r�E�@�B��p�E�Ō`���E�ٌ`�ϐg�B<br>
-�S�A�R���{�����킹��ƍŋ��̕��w�T�C�g���o�������ł��B<br>
+<font size=4 color=#000000><font color="#ff88cc">＞固め系とＴＳＦって縁が深いんだろうか？</font><br>
+ＴＳ・機械手術・固形化・異形変身。<br>
+４連コンボを合わせると最強の文学サイトが出来そうです。<br>
 <br>
-�������A�@�B�����Ă��܂��Ɓu�ϐg�v�̖ʔ��݂���������̂��A<br>
-�@�B���Ƒ��̑����𓯎��Ɉ����T�C�g�͂��������ł��ˁB<br>
-�j�Ղ���Ƃ��ň��������ȋC�����Ȃ��ł��Ȃ��ł����B</font>
+ただし、機械化してしまうと「変身」の面白みが半減するのか、<br>
+機械化と他の属性を同時に扱うサイトはごく少数ですね。<br>
+Ｋ祭さんとこで扱えそうな気もしないでもないですが。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[327]</font> <font size=4 color=#50d0d0> Re:�����N�؂ꔭ��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[327]</font> <font size=4 color=#50d0d0> Re:リンク切れ発見</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/08/26 (��) 01:14:20  <a href="mailto:the_best@geocities.co.jp">��傤���^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200308262011420">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308262011420"></font>
+<font size=-1 color=#606060> 2003/08/26 (火) 01:14:20  <a href="mailto:the_best@geocities.co.jp">りょう＠運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200308262011420.cgi">返信</a>　削除<input type=checkbox name="target" value="200308262011420"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� �������񂳂�<br>
-<font color="#cc88ff">&gt; �u�ؑタ���v�V���[�Y�@�̃V���[�Y�^�C�g������̃����N���؂�Ă��郂�m����ʂɂ���悤�ł��B</font><br>
+<font size=4 color=#000000>▼ もくだんさん<br>
+<font color="#cc88ff">&gt; 「華代ちゃん」シリーズ　のシリーズタイトルからのリンクが切れているモノが大量にあるようです。</font><br>
 <br>
-���w�E���肪�Ƃ��������܂��B<br>
-���������S�ďC�������͂��ł����A�R��Ȃǂ���܂�����񍐂��肢���܂��B<br>
+ご指摘ありがとうございます。<br>
+いちおう全て修正したはずですが、漏れなどありましたら報告お願いします。<br>
 <br>
-�����̃V���[�Y�^�C�g����ҏW�����͎̂����Ȃ̂ŁA<br>
-�������͂ǂ��������ɂ���悤�ȁc�c�H<br>
-���Â��^�C�g�����قڃR�s�y�ňڐA�����͂��Ȃ�ł���(^_^;)<br>
-���ǁ[�������܂���ł����B</font>
+＃あのシリーズタイトルを編集したのは自分なので、<br>
+＃原因はどうも自分にあるような……？<br>
+＃古いタイトルをほぼコピペで移植したはずなんですが(^_^;)<br>
+＃どーもすいませんでした。</font>
 </td></table>
 </td></tr></table>
 
@@ -118,74 +118,74 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[326]</font> <font size=4 color=#50d0d0> -- No Subject --</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/08/24 (��) 23:27:27  �j�d�a�n </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200308240232727">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308240232727"></font>
+<font size=-1 color=#606060> 2003/08/24 (日) 23:27:27  ＫＥＢＯ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200308240232727.cgi">返信</a>　削除<input type=checkbox name="target" value="200308240232727"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#ff88cc">�����͌łߌn�Ƃs�r�e���ĉ����[���񂾂낤��</font><br>
+<font size=4 color=#000000><font color="#ff88cc">＞実は固め系とＴＳＦって縁が深いんだろうか</font><br>
 <br>
-�킽���̂��ƁH�H�H�H�H�H�H�H</font>
+わたしのこと？？？？？？？？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[325]</font> <font size=4 color=#50d0d0> �����N�؂ꔭ��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[325]</font> <font size=4 color=#50d0d0> リンク切れ発見</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/08/22 (��) 21:11:55  �������� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200308225211155">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308225211155"></font>
+<font size=-1 color=#606060> 2003/08/22 (金) 21:11:55  もくだん </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200308225211155.cgi">返信</a>　削除<input type=checkbox name="target" value="200308225211155"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�u�ؑタ���v�V���[�Y�@�̃V���[�Y�^�C�g������̃����N���؂�Ă��郂�m����ʂɂ���悤�ł��B<br>
+<font size=4 color=#000000>「華代ちゃん」シリーズ　のシリーズタイトルからのリンクが切れているモノが大量にあるようです。<br>
 <br>
-�܂��͂��m�F��</font>
+まずはご確認を</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[324]</font> <font size=4 color=#50d0d0> Re:�т�����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[324]</font> <font size=4 color=#50d0d0> Re:びっくり</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/08/18 (��) 22:04:54  ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200308181220454">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308181220454"></font>
+<font size=-1 color=#606060> 2003/08/18 (月) 22:04:54  匿名 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200308181220454.cgi">返信</a>　削除<input type=checkbox name="target" value="200308181220454"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">&gt; �@�}�K�Ђ��犧�s���ꂽ�u���̃g���f���{�v�i�Ɗw��E���j�̒��́u�t�@���^�W�[�n�t�F�`�E�T�C�g�v�̃R�����ŁA�R�{�@�O���񂪁u���ӂс`�v�Ɓu���N�������Ɂv���Љ��Ă��܂����B</font><br>
-�@���������ł��ˁB�ǂ݂܂����B�s�r�e�ƃQ�C�Ƃ̈Ⴂ�ɂ��Ẳ���ɂ͑����٘_�͂���܂����A�悭���̕���𗝉�����Ă��܂��ˁB�܂��A������łߌn�i�Ή��E�X���j�ƕ���ŏЉ��Ă܂��A���͌łߌn�Ƃs�r�e���ĉ����[���񂾂낤���H�i�΁j</font>
+<font size=4 color=#000000><font color="#cc88ff">&gt; 　扶桑社から刊行された「愛のトンデモ本」（と学会・著）の中の「ファンタジー系フェチ・サイト」のコラムで、山本　弘さんが「おふび〜つ」と「少年少女文庫」を紹介されていました。</font><br>
+　すごい情報ですね。読みました。ＴＳＦとゲイとの違いについての解説には多少異論はありますが、よくこの分野を理解されていますね。また、今回も固め系（石化・氷結）と並んで紹介されてます、実は固め系とＴＳＦって縁が深いんだろうか？（笑）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[323]</font> <font size=4 color=#50d0d0> �т�����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[323]</font> <font size=4 color=#50d0d0> びっくり</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/08/16 (�y) 17:16:48  <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n���^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200308166171648">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308166171648"></font>
+<font size=-1 color=#606060> 2003/08/16 (土) 17:16:48  <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ＠運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200308166171648.cgi">返信</a>　削除<input type=checkbox name="target" value="200308166171648"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�}�K�Ђ��犧�s���ꂽ�u���̃g���f���{�v�i�Ɗw��E���j�̒��́u�t�@���^�W�[�n�t�F�`�E�T�C�g�v�̃R�����ŁA�R�{�@�O���񂪁u���ӂс`�v�Ɓu���N�������Ɂv���Љ��Ă��܂����B<br>
-�@���猩�Ă��̂ˁ`����</font>
+<font size=4 color=#000000>　扶桑社から刊行された「愛のトンデモ本」（と学会・著）の中の「ファンタジー系フェチ・サイト」のコラムで、山本　弘さんが「おふび〜つ」と「少年少女文庫」を紹介されていました。<br>
+　あら見てたのね〜っ♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[321]</font> <font size=4 color=#50d0d0> �Ɨ��錾</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[321]</font> <font size=4 color=#50d0d0> 独立宣言</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/08/15 (��) 13:17:07  �Ɨ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200308155131707">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308155131707"></font>
+<font size=-1 color=#606060> 2003/08/15 (金) 13:17:07  独立 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200308155131707.cgi">返信</a>　削除<input type=checkbox name="target" value="200308155131707"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���͓Ɨ���錾���܂�<br>
-���悤�Ȃ�<br>
+<font size=4 color=#000000>私は独立を宣言します<br>
+さようなら<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -193,14 +193,14 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[320]</font> <font size=4 color=#50d0d0> �g�o����܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[320]</font> <font size=4 color=#50d0d0> ＨＰつくりました</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/07/22 (��) 16:08:44  <a href="mailto:cafe@yt.pinoko.jp">����݂���</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200307222160844">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307222160844"></font>
+<font size=-1 color=#606060> 2003/07/22 (火) 16:08:44  <a href="mailto:cafe@yt.pinoko.jp">亜希みちる</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200307222160844.cgi">返信</a>　削除<input type=checkbox name="target" value="200307222160844"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�́A�P�_�V���[�Y�ł����ɏ������Ē����Ă�������݂���ł��B�g�o���܂����B��낵�����肢���܂��B�Ƃ��낪���e�^�̃��C�u�����[������Ƃ���A�ꂪ���ł�����܂����B�ǂȂ������͂��ĉ�������͂����܂��񂩁H���Ɍ����܂������肢�A�}�ɐ��ɂ��݂܂���ł����B����v���܂��B</font>
+<font size=4 color=#000000>昔、姫神シリーズでここに書かせて頂いていた亜希みちるです。ＨＰ作りました。よろしくお願いします。ところが投稿型のライブラリー作ったところ、母が癌でたおれました。どなたか協力して下さる方はおられませんか？誠に厚かましいお願い、急に誠にすみませんでした。失礼致します。</font>
 <p><div align=left><a href="http://cafe.pinoko.jp/" target="_top">http://cafe.pinoko.jp/</a></div>
 </td></table>
 </td></tr></table>
@@ -208,22 +208,22 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[319]</font> <font size=4 color=#50d0d0> ���A���i���ǂ��j���Z�싅�l�^</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[319]</font> <font size=4 color=#50d0d0> リアル（もどき）高校野球ネタ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2003/07/18 (��) 21:38:35  <a href="mailto:kmkm@za2.so-net.ne.jp">���d��</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200307185213835">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307185213835"></font>
+<font size=-1 color=#606060> 2003/07/18 (金) 21:38:35  <a href="mailto:kmkm@za2.so-net.ne.jp">豆電球</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200307185213835.cgi">返信</a>　削除<input type=checkbox name="target" value="200307185213835"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���Ђ����Ԃ�ł��c�ƌ����Ă��o���Ă�l�͂��Ȃ��C�����܂����A����͂��Ă����B<br>
+<font size=4 color=#000000>おひさしぶりです…と言っても覚えてる人はいない気もしますが、それはさておき。<br>
 <br>
-�����V���̃E�F�u�����Ă���A����ȋL��������܂����B<br>
-�y�����z���j�z�[�����Ԃ��ԁ@���q�������V�[�g�m�b�N<br>
+朝日新聞のウェブを見てたら、こんな記事がありました。<br>
+【東京】ユニホームだぶだぶ　女子部員がシートノック<br>
 <a href=http://www2.asahi.com/koshien2003/nanboku/TKY200307180104.html target=_top>http://www2.asahi.com/koshien2003/nanboku/TKY200307180104.html</a><br>
 <br>
-���j�z�[���̂��Ԃ��ԋ�������͂��ƂȂ�TS�ȃe�C�X�g��<br>
-�������o���Ă���܂��āA�����⏭�N�������ɂɂ����Z�싅�l�^<br>
-�̘b����������������̂��Ǝv���o�����̂ł���܂����B<br>
+ユニホームのだぶだぶ具合がそこはかとなくTSなテイストを<br>
+かもし出しておりまして、そいや少年少女文庫にも高校野球ネタ<br>
+の話がいくつかあったよのうと思い出したのでありました。<br>
 <br>
 </font>
 </td></table>
@@ -231,7 +231,7 @@ link<input type=checkbox name="link" value="1" checked>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -239,16 +239,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,28 +15,28 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="LrdXqDROdV">
 <input type=hidden name="res" value="487">
-<h4 align=center>�� �L���ԍ� 487 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 487 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ݒ肠�肪�Ƃ��������܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� kagerou6����
-&gt; �ǂ����R�[�X�ݒ�쐬���Ă��������܂��Ċ��ӂł����i�Q�Q�j��
-&gt; ����Ŏv�������H�킦�܂��i�`�K�E�_��</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:設定ありがとうございました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ kagerou6さん
+&gt; どうもコース設定作成していただきまして感謝ですｍ（＿＿）ｍ
+&gt; これで思う存分？戦えます（チガウダロ</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -49,46 +49,46 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[497]</font> <font size=4 color=#50d0d0> ���I�ɂ́E�E�E</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[497]</font> <font size=4 color=#50d0d0> 私的には・・・</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/30 (��) 04:21:00  �_�̗��l </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408301042100">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408301042100"></font>
+<font size=-1 color=#606060> 2004/08/30 (月) 04:21:00  雲の旅人 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408301042100.cgi">返信</a>　削除<input type=checkbox name="target" value="200408301042100"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�u���N�������Ɂv�Ƃ����l�[�~���O�ɂ́A�j�������N���̐l�ł��y���߂镶�ɁA�Ƃ������z�����߂��Ă��܂��B<br>
-�ƁA���̃T�C�g�̎�|�̃y�[�W�ɂ������Ă���܂����A�����I�ɂ͂��̂܂܂̌��S�ȕ��ɂł����ė~�����Ȃ��Ȃ�Ďv���Ă��܂��i�O�O)</font>
+<font size=4 color=#000000>「少年少女文庫」というネーミングには、男も女も年少の人でも楽しめる文庫、という理想も込められています。<br>
+と、このサイトの主旨のページにも書いてありますし、自分的にはこのままの健全な文庫であって欲しいなぁなんて思っています（＾＾)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[496]</font> <font size=4 color=#50d0d0> Re:18�փR���e���c��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[496]</font> <font size=4 color=#50d0d0> Re:18禁コンテンツは</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/29 (��) 18:20:14  �@y </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408290182014">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408290182014"></font>
+<font size=-1 color=#606060> 2004/08/29 (日) 18:20:14  　y </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408290182014.cgi">返信</a>　削除<input type=checkbox name="target" value="200408290182014"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���{�̃����^���T�[�o�[�ŗL���������킸�A�_���g�R���e���c���K���͂�����֎~���Ă��Ȃ����͊F���ł��B���̓I�����[�ł��������Еz�߂��������܂�����ˁB&lt;br&gt;www.x-beat.com�͊C�O�̃T�[�o�[������A������ŃT�C�g�𗧂��グ�Ă݂ẮH&lt;br&gt;�������A�������������Ă���邩�ǂ����͂܂��ʖ��ł��B&lt;br&gt;���Ƃ��C�O�ɂ��낤�ƁA�Ǘ��҂����{�l�ŁA�R���e���c�����{���̂œ��{��������̃A�N�Z�X��z�肵���ƊŘ􂳂��ƓE���̑Ώۂł��B</font>
+<font size=4 color=#000000>日本のレンタルサーバーで有料無料を問わずアダルトコンテンツを規約上はっきり禁止していない所は皆無です。文章オンリーでも猥褻物頒布罪が成立しますからね。&lt;br&gt;www.x-beat.comは海外のサーバーだから、そちらでサイトを立ち上げてみては？&lt;br&gt;ただし、ｋ刷が見逃してくれるかどうかはまた別問題です。&lt;br&gt;たとえ海外にあろうと、管理者が日本人で、コンテンツが日本語主体で日本国内からのアクセスを想定したと看做されると摘発の対象です。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[495]</font> <font size=4 color=#50d0d0> 18�փR���e���c��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[495]</font> <font size=4 color=#50d0d0> 18禁コンテンツは</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/28 (�y) 17:23:13  kardy </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408286172313">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408286172313"></font>
+<font size=-1 color=#606060> 2004/08/28 (土) 17:23:13  kardy </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408286172313.cgi">返信</a>　削除<input type=checkbox name="target" value="200408286172313"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���̃T�C�g�����d�F����̊Ǘ����ɂ�����������֎~�ł����B<br>
-���R�́A�ŏ��ɂ��̃T�C�g���������a�����G���֎~����������B<br>
-���݂͖����̎I�����؂肵�Ă��ԂȂ̂ŁA�����̏�������ł��傤����<br>
-�u���ɂ̓G�����ցv�Ŋ��ɒ蒅���Ă܂�����ˁc</font>
+<font size=4 color=#000000>このサイトが八重洲さんの管理下にあった頃から禁止でした。<br>
+理由は、最初にこのサイトがあった和塩がエロ禁止だったから。<br>
+現在は矢治さんの鯖をお借りしてる状態なので、矢治さんの承諾次第でしょうけど<br>
+「文庫はエロ厳禁」で既に定着してますからね…</font>
 </td></table>
 </td></tr></table>
 
@@ -98,95 +98,95 @@ link<input type=checkbox name="link" value="1" checked>
 <TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[494]</font> <font size=4 color=#50d0d0> -- No Subject --</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/28 (�y) 07:30:00  �ǎ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408286073000">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408286073000"></font>
+<font size=-1 color=#606060> 2004/08/28 (土) 07:30:00  読者 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408286073000.cgi">返信</a>　削除<input type=checkbox name="target" value="200408286073000"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���ɂɂP�W�փR���e���c���~�����ł��ˁB<br>
+<font size=4 color=#000000>文庫に１８禁コンテンツが欲しいですね。<br>
 <br>
-����ϖ�������ˁB</font>
+やっぱ無理だよね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[493]</font> <font size=4 color=#50d0d0> �s���`�`�I�I</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[493]</font> <font size=4 color=#50d0d0> 行け〜〜！！</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/23 (��) 21:02:10  �悵���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408231210210">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408231210210"></font>
+<font size=-1 color=#606060> 2004/08/23 (月) 21:02:10  よしおか </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408231210210.cgi">返信</a>　削除<input type=checkbox name="target" value="200408231210210"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>kardy����A�s���񂾁I�Q�����悤�I�I<br>
-���[���͂��Ƃ�����Ă���!!!<br>
-(���ӔC���ȁB���Ȃ���^^)</font>
+<font size=4 color=#000000>kardyさん、行くんだ！参加しよう！！<br>
+ルールはあとからついてくる!!!<br>
+(無責任だな。われながら^^)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[492]</font> <font size=4 color=#50d0d0> �G���g���[���悤���ȁc</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[492]</font> <font size=4 color=#50d0d0> エントリーしようかな…</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/22 (��) 21:05:17  kardy </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408220210517">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408220210517"></font>
+<font size=-1 color=#606060> 2004/08/22 (日) 21:05:17  kardy </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408220210517.cgi">返信</a>　削除<input type=checkbox name="target" value="200408220210517"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���[���̊m�F�Ȃ�ł����A���̂悤�ȃl�^�͂n�j�ł��傤���H<br>
+<font size=4 color=#000000>ルールの確認なんですが、次のようなネタはＯＫでしょうか？<br>
 <br>
-�E�S���l�b�g�ԑg�̊��Ƃ��āA�u�����ł���΂郉�C�i�v�̎p����f<br>
-�E���̊֘A�ŁA�ǂ̗\�Z�Ń��J�j�b�N���̑��̃N���[�͈ꗬ�ǂ����A��Ă���<br>
-�E�ԗ��͎s�̎Ԃ̉������f�����g�p���A���̎Ԃɂ͏�荞�ނ̂�Kardy�u�����h�̃L�����̂�<br>
-�E�������u��G���g���[�v�Ƃ��āA���C�i���悹���T�|�[�g�w�����P�@�A��ɃG���g���[�Ԃ̋߂����ё�����<br>
-(���̃w������̖W�Q�H��͈�؍s�킸�A�����܂ł��A������я��`�B�ɓO����)<br>
-�E���̑��̃N���[�y�ы@�ނ̓g���b�N�ňړ�<br>
-�E���̎Ԃɒǂ����܂ł̓l�^�̗ނ͑S�ĕ��󂵁A�����܂ŏ����ɓO����<br>
+・全国ネット番組の企画として、「裏方でがんばるライナ」の姿を放映<br>
+・その関連で、局の予算でメカニックその他のクルーは一流どころを連れてくる<br>
+・車両は市販車の改造モデルを使用し、その車には乗り込むのはKardyブランドのキャラのみ<br>
+・ただし「非エントリー」として、ライナを乗せたサポートヘリが１機、常にエントリー車の近くを飛び続ける<br>
+(このヘリからの妨害工作は一切行わず、あくまでも輸送および情報伝達に徹する)<br>
+・その他のクルー及び機材はトラックで移動<br>
+・他の車に追いつくまではネタの類は全て封印し、あくまで勝利に徹する<br>
 <br>
-������̕���ł���u�A�C�h���̐l�C���l���v���g���ƁA����Ȋ����ɂȂ�̂ł���<br>
-���炩�ɑ��̃`�[���ƖѐF���Ⴄ�̂Łc</font>
+こちらの武器である「アイドルの人気＆人脈」を使うと、こんな感じになるのですが<br>
+明らかに他のチームと毛色が違うので…</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[491]</font> <font size=4 color=#50d0d0> Re:���܂���(�D�M)</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[491]</font> <font size=4 color=#50d0d0> Re:しまった(つД｀)</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/22 (��) 09:11:06  �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408220091106">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408220091106"></font>
+<font size=-1 color=#606060> 2004/08/22 (日) 09:11:06  ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408220091106.cgi">返信</a>　削除<input type=checkbox name="target" value="200408220091106"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#ff88cc">��7��20���̎��_�Łu������ł��v���Ď��́c�����������ɖ��������Q|�P|��<br>
-��Kardy�u�����h�ɂȂ�A���C�_�[�ƃ��J�j�b�N�Ƃr�d�������̂Ɂc</font><br>
+<font size=4 color=#000000><font color="#ff88cc">＞7月20日の時点で「今からでも」って事は…もうさすがに無理っす＿|‾|○<br>
+＞Kardyブランドになら、ライダーとメカニックとＳＥがいたのに…</font><br>
 <br>
-�@������ł��x���Ȃ��ł����I<br>
-�@�����O�����v���́u�n�}�̍��q���E�v�݂����A�Ō�̍Ō�łȂ�̖������Ȃ��J�E���^�b�N�Ŕ�ѓ���G���g���[���Ă��������Ă����\�ł���i�΁j�B<br>
+　今からでも遅くないですっ！<br>
+　公道グランプリの「ハマの黒ヒョウ」みたく、最後の最後でなんの脈絡もなくカウンタックで飛び入りエントリーしていただいても結構ですよ（笑）。<br>
 <br>
-�b��F�u�w�T�[�L�b�g�̘T�x�Ȃ�āc�c�Â��Ȃ����H�v<br>
+甲介：「『サーキットの狼』なんて……古くないか？」<br>
 <br>
-<font color="#ff88cc">���Z�J���h�o�g���Ɋ��ҁc(��)</font><br>
+<font color="#ff88cc">＞セカンドバトルに期待…(涙)</font><br>
 <br>
-�@�͂͂́c�c�ł��邩�ȁH�@�݂Ȃ��񂷂����y�[�X�ŏ������ނ��B<br>
-�@�z�X�g�Ƃ��Ă��낢��s��ۂ�����܂������A�����o���ɂȂ�܂����B<br>
-�@�S�[���͂W�^�R�P�i�΁j�ł��B</font>
+　ははは……できるかな？　みなさんすごいペースで書き込むし。<br>
+　ホストとしていろいろ不手際もありましたが、いい経験になりました。<br>
+　ゴールは８／３１（火）です。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[490]</font> <font size=4 color=#50d0d0> Re:TS���ĂȂ񂾁H</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[490]</font> <font size=4 color=#50d0d0> Re:TSってなんだ？</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/22 (��) 06:27:47  �悵���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408220062747">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408220062747"></font>
+<font size=-1 color=#606060> 2004/08/22 (日) 06:27:47  よしおか </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408220062747.cgi">返信</a>　削除<input type=checkbox name="target" value="200408220062747"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#ff88cc">���g�����X�������ĂȂ񂾁H</font><br>
- ����������A�{���ɂȂ�Ȃ̂ł��傤�ˁB<br>
+<font size=4 color=#000000><font color="#ff88cc">＞トランス小説ってなんだ？</font><br>
+ ¥＝＄さん、本当になんなのでしょうね。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -194,39 +194,39 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[489]</font> <font size=4 color=#50d0d0> TS���ĂȂ񂾁H</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[489]</font> <font size=4 color=#50d0d0> TSってなんだ？</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/22 (��) 02:08:33  ������ </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408220020833">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408220020833"></font>
+<font size=-1 color=#606060> 2004/08/22 (日) 02:08:33  ¥＝＄ </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408220020833.cgi">返信</a>　削除<input type=checkbox name="target" value="200408220020833"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�g�����X�������ĂȂ񂾁H  ���]���V�[���������Ă���΂����̂��H  �G����̂ɂ���΂����̂��H  ���������A�G���ĂȂ񂾁H<br>
-�E�E�E�킩��Ȃ��E�E�E</font>
+<font size=4 color=#000000>トランス小説ってなんだ？  性転換シーンが書いてあればいいのか？  萌を主体にすればいいのか？  そもそも、萌ってなんだ？<br>
+・・・わからない・・・</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[488]</font> <font size=4 color=#50d0d0> ���܂���(�D�M)</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[488]</font> <font size=4 color=#50d0d0> しまった(つД｀)</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/08/19 (��) 02:26:42  kardy </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408194022642">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408194022642"></font>
+<font size=-1 color=#606060> 2004/08/19 (木) 02:26:42  kardy </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408194022642.cgi">返信</a>　削除<input type=checkbox name="target" value="200408194022642"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>����ȃC�x���g����Ă��Ȃ�āA���̍��܂Œm��܂���ł����c�قږ������Ă��̂Ɂc<br>
+<font size=4 color=#000000>こんなイベントやってたなんて、今の今まで知りませんでした…ほぼ毎日来てたのに…<br>
 <br>
-7��20���̎��_�Łu������ł��v���Ď��́c�����������ɖ��������Q|�P|��<br>
-Kardy�u�����h�ɂȂ�A���C�_�[�ƃ��J�j�b�N�Ƃr�d�������̂Ɂc<br>
-�Z�J���h�o�g���Ɋ��ҁc(��)</font>
+7月20日の時点で「今からでも」って事は…もうさすがに無理っす＿|‾|○<br>
+Kardyブランドになら、ライダーとメカニックとＳＥがいたのに…<br>
+セカンドバトルに期待…(涙)</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -234,16 +234,16 @@ Kardy�u�����h�ɂȂ�A���C�_�[�ƃ��J�j�b�N�Ƃr�d�������̂Ɂc<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

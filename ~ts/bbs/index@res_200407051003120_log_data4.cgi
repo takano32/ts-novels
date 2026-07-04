@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���S��ONLY�y�[�W</title>
+<title>初心者ONLYページ</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���S��ONLY�y�[�W</font>
+<font size=5>初心者ONLYページ</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����I�Ȏ���ł�OK�̃t���[�ȏ������݂����C���ɂ����{�[�h�ł��B<br>�ǂ������C�y�ɂ��������݂��������B���ⓙ�����������������B<br>���@����ȊO�̎���A�G�k�̓N���G�[�^�[�Y�t���A�łǂ����B<br></font>
+<font color=#608080>初歩的な質問でもOKのフリーな書き込みをメインにしたボードです。<br>どうぞお気軽にお書き込みください。質問等もお書きください。<br>※　それ以外の質問、雑談はクリエーターズフロアでどうぞ。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,32 +15,32 @@
 <input type=hidden name="log" value="data4">
 <input type=hidden name="nj" value="algKWpYCPl">
 <input type=hidden name="res" value="230">
-<h4 align=center>�� �L���ԍ� 230 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 230 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re2:���[�v�����[�v "><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� starbow@�^�c�ψ�����
-&gt; �g�у��[�U�[����A
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re2:ループ＆ループ "><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ starbow@運営委員さん
+&gt; 携帯ユーザーさん、
 &gt; 
-&gt; �����͕ʂɂǂꂮ�炢�������Ƃ͂����܂��񂪁A
-&gt; �ꉞ�A�T�b�ȏ�ɂȂ�ƁA�V���[�Y�^�C�g���y�[�W��������肵�܂��̂ŁA
-&gt; �P�O�|�Q�O���炢�ł��傤���ˁB</textarea><br>
+&gt; 長さは別にどれぐらいがいいとはいえませんが、
+&gt; 一応、５話以上になると、シリーズタイトルページを作ったりしますので、
+&gt; １０−２０ぐらいでしょうかね。</textarea><br>
 tag<input type=checkbox name="tag" value="1" checked> 
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -53,127 +53,127 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[235]</font> <font size=4 color=#40c0c0> �o�b�N�A�b�v�t�@�C�����󂯎��܂���</font>
+<font size=2>[235]</font> <font size=4 color=#40c0c0> バックアップファイルを受け取りました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/01 (��) 22:08:21 <strong>��</strong> �g���C�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200408010220821&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408010220821"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/01 (日) 22:08:21 <strong>▽</strong> トライン </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200408010220821_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200408010220821"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����_�L�^������ɂ̓��[���ł��`���Ă����܂������A<br>
-�����ɂ��O�̂��߁B</font>
+<font size=3 color=#606060>あき_記録魔さんにはメールでも伝えておきましたが、<br>
+ここにも念のため。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[234]</font> <font size=4 color=#40c0c0> Re:���̓m��ȃo�b�N�A�b�v�ł�낵����΂ǂ���</font>
+<font size=2>[234]</font> <font size=4 color=#40c0c0> Re:私の杜撰なバックアップでよろしければどうぞ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/24 (�y) 22:27:03 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407246222703&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407246222703"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/24 (土) 22:27:03 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407246222703_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200407246222703"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ߋ��̍�i�𔭌@����̂��y���������i�΁j�B<br>
-������ƁA�����G���W����HDD�̒����������Ă݂�����ȁBzip���GCA���LHA�ł��������Ɍł߂Ă��邩��T���̑�ς����ǁi��΁j</font>
+<font size=3 color=#606060>過去の作品を発掘するのも楽しいかも（笑）。<br>
+ちょっと、検索エンジンやHDDの中をあさってみよっかな。zipやらGCAやらLHAでがちがちに固めてあるから探すの大変だけど（苦笑）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[233]</font> <font size=4 color=#40c0c0> ���̓m��ȃo�b�N�A�b�v�ł�낵����΂ǂ���</font>
+<font size=2>[233]</font> <font size=4 color=#40c0c0> 私の杜撰なバックアップでよろしければどうぞ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/20 (��) 01:28:14 <strong>��</strong> <a href="mailto:aki_ml@anet.ne.jp">����_�L�^��</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407202012814&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407202012814"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/20 (火) 01:28:14 <strong>▽</strong> <a href="mailto:aki_ml@anet.ne.jp">あき_記録魔</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407202012814_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200407202012814"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����������ƌ������Ă݂܂����B<br>
-���傤�ǂ��̂��낱�̃T�C�g�ɂ��ǂ蒅���Ă��āA�_�C�����A�b�v���[�U�[�ŏ��߂�web�ɗ�������ł����B���������ł��B<br>
-�������Ђ����炱��bbs�͏d�������B���S�ɕ\�������܂ł�2�����炢�������������悤�ȋC�����܂��B<br>
+<font size=3 color=#606060>私もちょっと検索してみました。<br>
+ちょうどこのころこのサイトにたどり着いていて、ダイヤルアップユーザーで初めてwebに来たころでした。懐かしいです。<br>
+しかしひたすらこのbbsは重かった。完全に表示されるまでに2分ぐらいかかったいたような気がします。<br>
 <br>
-���Ē��w��N��<br>
-�u�Ē��w��N���v�͎n�߂́u�V���������v���ă^�C�g����������ł��ˁB�ł�����1�`3�b�̓��e���̋L�^�͎����Ă܂���ł����B�ł��A�ꉞtsnovel.jp�h���C���Ɉڂ��Ă��ł��ˁA�ǂ������B<br>
-<a href=http://ts.novels.jp/novel/200108/21014120/sai.html target=_top>http://ts.novels.jp/novel/200108/21014120/sai.html</a><br>
+■再中学一年生<br>
+「再中学一年生」は始めは「新しい自分」ってタイトルだったんですね。でも私も1〜3話の投稿時の記録は持ってませんでした。でも、一応tsnovel.jpドメインに移ってるんですね、良かった。<br>
+<a href="../../novel/200108/21014120/sai.html" target=_top>http://ts.novels.jp/novel/200108/21014120/sai.html</a><br>
 <br>
-�Ē��w��N����11�`14�b�ł����A<br>
+再中学一年生第11〜14話ですが、<br>
 <a href=http://web.archive.org/ target=_top>http://web.archive.org/</a><br>
-�Ō����|���܂������A�Â��̂�"Jun 06, 2002"�̃��R�[�h�����c���Ă��炸�A�ŌÂ̂�15�b�����̌@�ł��܂���ł����B<br>
+で検索掛けましたが、古いのは"Jun 06, 2002"のレコードしか残っておらず、最古のは15話しか採掘できませんでした。<br>
 <br>
-���̎����Ă���t�@�C���ł�<br>
-3�E4�E5�E6�E7�E8�E11<br>
-(�Ȃ���9�E10����΂���Ă���B���X�g�H�����t�@�C���̒��Ȃ̂ɁH)<br>
-12�E13/* �ȍ~�͂͌����̃��O�Ɠ��� */<br>
+私の持っているファイルでは<br>
+3・4・5・6・7・8・11<br>
+(なぜか9・10が飛ばされている。ロスト？同じファイルの中なのに？)<br>
+12・13/* 以降はは現存のログと同じ */<br>
 <br>
-�����̐�<br>
-�D����̍�i�ł���ˁH<br>
-���`���ƁA���܂ɖ���ɂȂ��Ă��đ�x�b�Ƃ��ɂȂ��Ă������b�ł���ˁH<br>
-�����t�@�C�����m�F���܂����Ƃ���<br>
-��1��1�`5�b<br>
-��2��1�`10�b<br>
-6�b?<br>
-�ȏ�̂��b��HD�Ɏc����Ă��邱�Ƃ��m�F�ł��܂����B<br>
-4�N�O�̃t�@�C���ł��̂ŁA3*2+2=8�̃��f�B�A�ɕ��U����ĕۑ�����Ă���̂ŁA<br>
-���ƂƉ��h�悪�����ɒn�k�Ȃǂō���Ȃ�������v�ł��傤�B<br>
-���[���𒸂��܂�����A�Y���t�@�C��(�܂Ƃ߂ĂȂ��ďd���f�[�^�����X����܂���)�������肢�����܂����H�ǂ����܂����H&gt;�g���C������</font>
+■第二の性<br>
+優さんの作品ですよね？<br>
+え〜っと、たまに無題になっていて第x話とかになっていたお話ですよね？<br>
+現存ファイルを確認しましたところ<br>
+第1章1〜5話<br>
+第2章1〜10話<br>
+6話?<br>
+以上のお話がHDに残されていることが確認できました。<br>
+4年前のファイルですので、3*2+2=8のメディアに分散されて保存されているので、<br>
+実家と下宿先が同時に地震などで合わない限り大丈夫でしょう。<br>
+メールを頂きましたら、該当ファイル(まとめてなくて重複データが多々ありますが)をお送りいたしますが？どうしますか？&gt;トラインさん</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[232]</font> <font size=4 color=#40c0c0> �{���͏��S�҂���Ȃ�����</font>
+<font size=2>[232]</font> <font size=4 color=#40c0c0> 本当は初心者じゃないけど</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/07 (��) 15:54:02 <strong>��</strong> Rika A. </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407073155402&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407073155402"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/07 (水) 15:54:02 <strong>▽</strong> Rika A. </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407073155402_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200407073155402"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��́B<br>
-�{���͏��S�҂���Ȃ����ǁA�������v���Ԃ�ɗ��Ă݂��炷������l�q���ς���Ă���̂�<br>
-��������o�����A<br>
+<font size=3 color=#606060>こんにちは。<br>
+本当は初心者じゃないけど、すごく久しぶりに来てみたらすっかり様子が変わっているので<br>
+ここから出直し、<br>
 <br>
-���Ă������ӂ���Ɨ�������Ă��܂��������<br>
-������Ɠ����Ă�������������E�E�E<br>
+っていうかふらっと立ち寄ってしまったけれど<br>
+ちょっと逃げてきただけだから・・・<br>
 <br>
-���������݂��邾���ŁA�������B<br>
+ここが存在するだけで、嬉しい。<br>
 <br>
-�܂��������܂��B����ˁB</font>
+またいつか来ます。じゃね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[231]</font> <font size=4 color=#40c0c0> �I�����[�������[�O���[���[</font>
+<font size=2>[231]</font> <font size=4 color=#40c0c0> オンリーロンリーグローリー</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/05 (��) 21:13:34 <strong>��</strong> �g�у��[�U�[ </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407051211334&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407051211334"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/05 (月) 21:13:34 <strong>▽</strong> 携帯ユーザー </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407051211334_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200407051211334"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ԏ��A���肪�Ƃ��������܂��B���ꂩ��͂肫���āA�������낢��i�����܂��B<br>
-�Ƃ���őO��̑薼�́A�����D���ȉ̂ł��B���肾�Ǝ₵�����A�ǂ��������Ȃ��P�肵�����Ǝv���āB����������ł��B</font>
+<font size=3 color=#606060>お返事、ありがとうございます。これからはりきって、おもしろい作品を作ります。<br>
+ところで前回の題名は、俺が好きな歌です。無題だと寂しいし、どうせ書くなら一捻りしたいと思って。今回もそうです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[230]</font> <font size=4 color=#40c0c0> re:���[�v�����[�v </font>
+<font size=2>[230]</font> <font size=4 color=#40c0c0> re:ループ＆ループ </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/05 (��) 00:31:20 <strong>��</strong> starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407051003120&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407051003120"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/05 (月) 00:31:20 <strong>▽</strong> starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407051003120_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200407051003120"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�g�у��[�U�[����A<br>
+<font size=3 color=#606060>携帯ユーザーさん、<br>
 <br>
-�����͕ʂɂǂꂮ�炢�������Ƃ͂����܂��񂪁A<br>
-�ꉞ�A�T�b�ȏ�ɂȂ�ƁA�V���[�Y�^�C�g���y�[�W��������肵�܂��̂ŁA<br>
-�P�O�|�Q�O���炢�ł��傤���ˁB<br>
+長さは別にどれぐらいがいいとはいえませんが、<br>
+一応、５話以上になると、シリーズタイトルページを作ったりしますので、<br>
+１０−２０ぐらいでしょうかね。<br>
 <br>
 </font>
 </td></table>
@@ -182,95 +182,95 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[229]</font> <font size=4 color=#40c0c0> ���[�v�����[�v</font>
+<font size=2>[229]</font> <font size=4 color=#40c0c0> ループ＆ループ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/02 (��) 11:01:26 <strong>��</strong> �g�у��[�U�[ </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200407025110126&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407025110126"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/02 (金) 11:01:26 <strong>▽</strong> 携帯ユーザー </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200407025110126_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200407025110126"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>  �����b���l���Ă��܂��B���͂���Ȃ��āA�A�ڃ��m�Ƃ��āB���ɂł����\����܂����A�ǂ̂��炢�̒��������z�I�ł��傤���H</font>
+<font size=3 color=#606060>  長い話を考えています。文章じゃなくて、連載モノとして。文庫でも結構ありますが、どのくらいの長さが理想的でしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[228]</font> <font size=4 color=#40c0c0> Re:�Ȃ�ق�</font>
+<font size=2>[228]</font> <font size=4 color=#40c0c0> Re:なるほど</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/28 (��) 08:57:42 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200405285085742&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405285085742"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/28 (金) 08:57:42 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200405285085742_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200405285085742"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@kou�ł��B<br>
+<font size=3 color=#606060>　kouです。<br>
 <br>
-<font color="#cc88ff">> ���f���ɂ����i�͐^����ɕۑ��I�Ƃ������Ƃł���<br>
-> (�ڍs��̑��f���̍�i�͍��̂Ƃ���P�������Ă܂��񂪁j</font><br>
+<font color="#cc88ff">> 第二掲示板にある作品は真っ先に保存！ということですね<br>
+> (移行後の第二掲示板の作品は今のところ１つも消えてませんが）</font><br>
 <br>
-�@�ڍs��̓��O���폜���Ȃ��悤�ɐݒ肵�܂����B�������ɖc��ȃT�C�Y�ɂȂ�����l���܂����A���͂��̂܂܂ōs���܂��B</font>
+　移行後はログを削除しないように設定しました。さすがに膨大なサイズになったら考えますが、今はそのままで行きます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[227]</font> <font size=4 color=#40c0c0> �Ȃ�ق�</font>
+<font size=2>[227]</font> <font size=4 color=#40c0c0> なるほど</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/27 (��) 18:46:27 <strong>��</strong> �g���C�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200405274184627&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405274184627"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/27 (木) 18:46:27 <strong>▽</strong> トライン </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200405274184627_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200405274184627"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>kou����A�^�c�ψ�����J�l�ł��B<br>
+<font size=3 color=#606060>kouさん、運営委員ご苦労様です。<br>
 <br>
-<font color="#cc88ff">&gt; �f���̐�����A�ߋ��̍�i�͍폜����Ă��܂��悤�ł�</font><br>
+<font color="#cc88ff">&gt; 掲示板の性質上、過去の作品は削除されてしまうようです</font><br>
 <br>
-�������f����`���Ă݂��̂ł�����i�͖��������̂ō��񂱂���<br>
-�����܂����B���Ƃ͗D����A���̉ɐl����̕��A��҂΂���ł���<br>
-�������܂�TS�����T�C�g�̌f�����ɍŋ߂��̂Q�l�̖��O�������Ƃ������́D�D�D<br>
+私も旧掲示板を覗いてみたのですが作品は無かったので今回ここに<br>
+書きました。あとは優さん、自称暇人さんの復帰を待つばかりですが<br>
+ここを含むTS小説サイトの掲示板等に最近この２人の名前が無いという事は．．．<br>
 <br>
-���f���ɂ����i�͐^����ɕۑ��I�Ƃ������Ƃł���<br>
-(�ڍs��̑��f���̍�i�͍��̂Ƃ���P�������Ă܂��񂪁j<br>
+第二掲示板にある作品は真っ先に保存！ということですね<br>
+(移行後の第二掲示板の作品は今のところ１つも消えてませんが）<br>
 <br>
-�� ���̐����b�̓W���[�W���b�g����̉ߋ��f���ɍڂ��Ă��܂����̂�<br>
-�@����ɂ͓���Ă��܂���ł���</font>
+※ 第二の性第一話はジャージレットさんの過去掲示板に載っていましたので<br>
+　質問には入れていませんでした</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[225]</font> <font size=4 color=#40c0c0> Re:����</font>
+<font size=2>[225]</font> <font size=4 color=#40c0c0> Re:質問</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/27 (��) 17:31:54 <strong>��</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200405274173154&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405274173154"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/27 (木) 17:31:54 <strong>▽</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200405274173154_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200405274173154"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@kou�ł��B<br>
+<font size=3 color=#606060>　kouです。<br>
 <br>
-<font color="#cc88ff">> ���f���ŁA<br>
-> �D����̑��̐����b<br>
-> ���̉ɐl����̍Ē��w��N����11�`14�b</font><br>
+<font color="#cc88ff">> 第二掲示板で、<br>
+> 優さんの第二の性第二話<br>
+> 自称暇人さんの再中学一年生第11〜14話</font><br>
 <br>
-�@�ڍs�O�̃��O�͈ȉ��őS�Ăł��B�f���̐�����A�ߋ��̍�i�͍폜����Ă��܂��悤�ł��B<br>
-�@�ނ��A���������̖��삪�B<br>
-�@���f���F<a href=http://www.novels.jp/~ts/bbs/resbbs4.cgi target=_top>http://www.novels.jp/~ts/bbs/resbbs4.cgi</a><br>
+　移行前のログは以下で全てです。掲示板の性質上、過去の作品は削除されてしまうようです。<br>
+　むう、せっかくの名作が。<br>
+　旧掲示板：<a href="resbbs4.cgi" target=_top>http://www.novels.jp/~ts/bbs/resbbs4.cgi</a><br>
 <br>
-�@�����A���̍�ƃt�@�C���ɂP�P�b�͂�������ł����ǁA�Čf���Ă悢���̂��A������ƍ����Ă��܂��B�̂ŁA�ۗ��B<br>
+　ただ、私の作業ファイルに１１話はあったんですけど、再掲してよいものか、ちょっと困っています。ので、保留。<br>
 <br>
-�@�f���Ƃ���������A���O�͗���₷���Ȃ��Ă���܂��B<br>
-�N���G�[�^�[�Y�t���A�[�A���S��ONLY�A���ɉ^�c�f���́A���O�ۑ���300���A���z�f����100���ƂȂ��Ă��܂��B<br>
-�@�c���Ă����������z�Ȃǂ�����܂�����A���[�J���ɕۑ����Ă����܂��傤�B<br>
+　掲示板という性質上、ログは流れやすくなっております。<br>
+クリエーターズフロアー、初心者ONLY、文庫運営掲示板は、ログ保存は300件、感想掲示板は100件となっています。<br>
+　残しておきたい感想などがありましたら、ローカルに保存しておきましょう。<br>
 <br>
-�������A�Ē��w��N�����ŏ����猩�����ł��i��</font>
+＃私も、再中学一年生を最初から見たいです（汗</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data4">
@@ -278,16 +278,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data4">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data4">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data4.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>Џ‰ђSЋТONLYѓyЃ[ѓW</title>
+<title>е€ќеїѓиЂ…ONLYгѓљгѓјг‚ё</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>Џ‰ђSЋТONLYѓyЃ[ѓW</font>
+<font size=5>е€ќеїѓиЂ…ONLYгѓљгѓјг‚ё</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>Џ‰•а“I‚ИЋї–в‚Е‚аOK‚МѓtѓЉЃ[‚ИЏ‘‚«Ќћ‚Э‚рѓЃѓCѓ“‚Й‚µ‚Ѕѓ{Ѓ[ѓh‚Е‚·ЃB<br>‚З‚¤‚ј‚Ё‹CЊy‚Й‚ЁЏ‘‚«Ќћ‚Э‚­‚ѕ‚і‚ўЃBЋї–в“™‚а‚ЁЏ‘‚«‚­‚ѕ‚і‚ўЃB<br>Ѓ¦Ѓ@‚»‚к€ИЉO‚МЋї–вЃAЋG’k‚НѓNѓЉѓGЃ[ѓ^Ѓ[ѓYѓtѓЌѓA‚Е‚З‚¤‚јЃB<br></font>
+<font color=#608080>е€ќж­©зљ„гЃЄиіЄе•ЏгЃ§г‚‚OKгЃ®гѓ•гѓЄгѓјгЃЄж›ёгЃЌиѕјгЃїг‚’гѓЎг‚¤гѓігЃ«гЃ—гЃџгѓњгѓјгѓ‰гЃ§гЃ™гЂ‚<br>гЃ©гЃ†гЃћгЃЉж°—и»ЅгЃ«гЃЉж›ёгЃЌиѕјгЃїгЃЏгЃ гЃ•гЃ„гЂ‚иіЄе•Џз­‰г‚‚гЃЉж›ёгЃЌгЃЏгЃ гЃ•гЃ„гЂ‚<br>вЂ»гЂЂгЃќг‚Њд»Ґе¤–гЃ®иіЄе•ЏгЂЃй›‘и«‡гЃЇг‚ЇгѓЄг‚Ёгѓјг‚їгѓјг‚єгѓ•гѓ­г‚ўгЃ§гЃ©гЃ†гЃћгЂ‚<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,37 +15,37 @@
 <input type=hidden name="log" value="data4">
 <input type=hidden name="nj" value="1b69r3XDPs">
 <input type=hidden name="res" value="28">
-<h4 align=center>Ѓ¤ ‹LЋ–”ФЌ† 28 ‚Ц‚М•ФђM Ѓ¤</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-–ј‘O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>в–Ѕ иЁдє‹з•ЄеЏ· 28 гЃёгЃ®иї”дїЎ в–Ѕ</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+еђЌе‰Ќ <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-“а—e Ѓ_ ‘и–ј <input type=text name="subject" size=45 maxlength=80 value="Re5:ѓAѓNѓZѓX•s‰В"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>ЃҐ Hitomi‚і‚с
-&gt; ’К‚и‚·‚Є‚и‚і‚ЬЃA‚»‚М‘ј”­Њѕ‚µ‚Д‰є‚і‚Б‚Ѕ‚Э‚И‚і‚Ь‚Ц
+е†…е®№ пјј йЎЊеђЌ <input type=text name="subject" size=45 maxlength=80 value="Re5:г‚ўг‚Їг‚»г‚№дёЌеЏЇ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>в–ј HitomiгЃ•г‚“
+&gt; йЂљг‚ЉгЃ™гЃЊг‚ЉгЃ•гЃѕгЂЃгЃќгЃ®д»–з™єиЁЂгЃ—гЃ¦дё‹гЃ•гЃЈгЃџгЃїгЃЄгЃ•гЃѕгЃё
 &gt; 
-&gt; &gt; Internet Security‚р—§‚їЏг‚°‚ДѓIѓvѓVѓ‡ѓ“‚МInternet Security‚Е
-&gt; &gt; Љg’ЈѓIѓvѓVѓ‡ѓ“‚р‘I‘р‚µWeb‚ЙЃunovels.jpЃv‚рѓTѓCѓg’З‰Б‚µ‚ДЃA
-&gt; &gt; ЋQЏЖЊі‚р‹–‰В‚·‚й‚Ж‘еЏд•v‚Е‚µ‚ЅЃB
-&gt; &gt; ѓvѓ‰ѓCѓoѓVЃ[OFF‚Й‚Н€б‚ў‚И‚ў‚Е‚·‚ЄЃA‚±‚ї‚з‚М•ы‚Є‘е•Є—З‚ў‚М‚Е‚Н‚И‚ў‚©‚ЖЃB
+&gt; &gt; Internet Securityг‚’з«‹гЃЎдёЉгЃ’гЃ¦г‚Єгѓ—г‚·гѓ§гѓігЃ®Internet SecurityгЃ§
+&gt; &gt; ж‹Ўејµг‚Єгѓ—г‚·гѓ§гѓіг‚’йЃёжЉћгЃ—WebгЃ«гЂЊnovels.jpгЂЌг‚’г‚µг‚¤гѓ€иїЅеЉ гЃ—гЃ¦гЂЃ
+&gt; &gt; еЏ‚з…§е…ѓг‚’иЁ±еЏЇгЃ™г‚‹гЃЁе¤§дё€е¤«гЃ§гЃ—гЃџгЂ‚
+&gt; &gt; гѓ—гѓ©г‚¤гѓђг‚·гѓјOFFгЃ«гЃЇйЃ•гЃ„гЃЄгЃ„гЃ§гЃ™гЃЊгЂЃгЃ“гЃЎг‚‰гЃ®ж–№гЃЊе¤§е€†и‰ЇгЃ„гЃ®гЃ§гЃЇгЃЄгЃ„гЃ‹гЃЁгЂ‚
 &gt; 
-&gt; “Ї‚¶‚ж‚¤‚ЙђЭ’и‚µ‚Ѕ‚зЃA‘еЏд•v‚Е‚µ‚Ѕ(kou‚і‚Ь‚М‚ЁЉ©‚Я’К‚иts.novels.jp‚Й‚µ‚Ь‚µ‚Ѕ)ЃB
+&gt; еђЊгЃг‚€гЃ†гЃ«иЁ­е®љгЃ—гЃџг‚‰гЂЃе¤§дё€е¤«гЃ§гЃ—гЃџ(kouгЃ•гЃѕгЃ®гЃЉе‹§г‚ЃйЂљг‚Љts.novels.jpгЃ«гЃ—гЃѕгЃ—гЃџ)гЂ‚
 &gt; 
-&gt; ‚Э‚И‚і‚ЬЃA‚Щ‚с‚Ж‚¤‚Й‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚µ‚ЅЃB</textarea><br>
+&gt; гЃїгЃЄгЃ•гЃѕгЂЃгЃ»г‚“гЃЁгЃ†гЃ«гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ—гЃџгЂ‚</textarea><br>
 tag<input type=checkbox name="tag" value="1" checked> 
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-ЌнЏњѓLЃ[ <input type=password name="pwd" size=10 value=""> <input type=submit value="Џ‘‚«Ќћ‚Ю"><input type=reset value="Џ‘‚«’ј‚µ"><br></td></tr></table>
+е‰Љй™¤г‚­гѓј <input type=password name="pwd" size=10 value=""> <input type=submit value="ж›ёгЃЌиѕјг‚Ђ"><input type=reset value="ж›ёгЃЌз›ґгЃ—"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>Ѓ¦ “ЉЌe‚ЙЌЕ’бЊА•K—v‚ИЌЂ–Ъ‚НЃA–ј‘O‚Ж“а—e‚Е‚·.<br>Ѓ¦ ЌнЏњѓLЃ[‚рђЭ’и‚·‚й‚±‚Ж‚ЕЃAЋ©•Є‚М“ЉЌe‚µ‚Ѕ‹LЋ–‚рЌнЏњ/ЏCђі‚·‚й‚±‚Ж‚Є‚Е‚«‚Ь‚·.<br>Ѓ¦ –ј‘O‹L“ь—“‚р‹у‚Й‚µ‚ДЃuЏ‘‚«Ќћ‚ЮЃv‚р‰џ‚·‚±‚Ж‚ЕѓNѓbѓLЃ[‚рЏБ‹Ћ‚Е‚«‚Ь‚·.<br>Ѓ¦ ‘и–ј‚Ж“а—e‚р‹у‚Й‚µ‚ДЃuЏ‘‚«Ќћ‚ЮЃv‚р‰џ‚·‚±‚Ж‚ЕѓNѓbѓLЃ[‚рЌД”­Ќs‚Е‚«‚Ь‚·.<br></font>
+<font color=#608080>вЂ» жЉ•зЁїгЃ«жњЂдЅЋй™ђеї…и¦ЃгЃЄй …з›®гЃЇгЂЃеђЌе‰ЌгЃЁе†…е®№гЃ§гЃ™.<br>вЂ» е‰Љй™¤г‚­гѓјг‚’иЁ­е®љгЃ™г‚‹гЃ“гЃЁгЃ§гЂЃи‡Єе€†гЃ®жЉ•зЁїгЃ—гЃџиЁдє‹г‚’е‰Љй™¤/дї®ж­ЈгЃ™г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™.<br>вЂ» еђЌе‰ЌиЁе…Ґж¬„г‚’з©єгЃ«гЃ—гЃ¦гЂЊж›ёгЃЌиѕјг‚ЂгЂЌг‚’жЉјгЃ™гЃ“гЃЁгЃ§г‚Їгѓѓг‚­гѓјг‚’ж¶€еЋ»гЃ§гЃЌгЃѕгЃ™.<br>вЂ» йЎЊеђЌгЃЁе†…е®№г‚’з©єгЃ«гЃ—гЃ¦гЂЊж›ёгЃЌиѕјг‚ЂгЂЌг‚’жЉјгЃ™гЃ“гЃЁгЃ§г‚Їгѓѓг‚­гѓјг‚’е†Ќз™єиЎЊгЃ§гЃЌгЃѕгЃ™.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>ђV’…Џ‡</strong> 1 ЃЁ 10 <strong>ЌЕ‘е‹L^•ЫЋќђ”</strong> 100 <!-- ЋАЌsЋћЉФ 0.000 CPU•b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ‚Н3“ъ€И“а‚М‹LЋ–)</small>
+<strong>ж–°зќЂй †</strong> 1 в†’ 10 <strong>жњЂе¤§иЁйЊІдїќжЊЃж•°</strong> 100 <!-- е®џиЎЊж™‚й–“ 0.000 CPUз§’ --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> гЃЇ3ж—Ґд»Ґе†…гЃ®иЁдє‹)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -58,67 +58,67 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[171]</font> <font size=4 color=#40c0c0> ‚Н‚ў</font>
+<font size=2>[171]</font> <font size=4 color=#40c0c0> гЃЇгЃ„</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/09/21 (“y) 23:48:52 <strong>Ѓ¤</strong> –^—dђё </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200209216234852&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200209216234852"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/09/21 (ењџ) 23:48:52 <strong>в–Ѕ</strong> жџђе¦–зІѕ </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200209216234852_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200209216234852"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>Љm‚©‚ЙЋQЌl‚Й‚И‚и‚Ь‚·ЃB‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚µ‚ЅЃB<br>
-‚µ‚©‚µЃA‚±‚¤‚ў‚¤ѓyЃ[ѓW‚©ЃEЃEЃE‚И‚й‚Щ‚ЗЃB<br>
-’К”М‚Н–У“_‚Е‚µ‚ЅЃB</font>
+<font size=3 color=#606060>зўєгЃ‹гЃ«еЏ‚иЂѓгЃ«гЃЄг‚ЉгЃѕгЃ™гЂ‚гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ—гЃџгЂ‚<br>
+гЃ—гЃ‹гЃ—гЂЃгЃ“гЃ†гЃ„гЃ†гѓљгѓјг‚ёгЃ‹гѓ»гѓ»гѓ»гЃЄг‚‹гЃ»гЃ©гЂ‚<br>
+йЂљиІ©гЃЇз›Із‚№гЃ§гЃ—гЃџгЂ‚</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[170]</font> <font size=4 color=#40c0c0> Re:—pЊк</font>
+<font size=2>[170]</font> <font size=4 color=#40c0c0> Re:з”ЁиЄћ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/09/21 (“y) 22:48:21 <strong>Ѓ¤</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow@‰^‰c€П€х</a> </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200209216224821&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200209216224821"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/09/21 (ењџ) 22:48:21 <strong>в–Ѕ</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow@йЃ‹е–¶е§”е“Ў</a> </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200209216224821_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200209216224821"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>–^—dђё‚і‚ЬЃA<br>
+<font size=3 color=#606060>жџђе¦–зІѕгЃ•гЃѕгЂЃ<br>
 <br>
-WebЏг‚Й‚ ‚йЃA’К”МЃAѓЃЃ[ѓJЃ[‚МѓyЃ[ѓW‚М‰ж‘њ‚рЊ©‚й‚М‚аЋи‚ѕ‚ЖЋv‚ў‚Ь‚·ЃB<br>
-‚±‚МЋи‚М—Ю‚НЃA—¬Ќs‚Й‚а‰€‚Б‚Д‚ў‚й‚ЖЋv‚ў‚Ь‚·ЃB<br>
-‚Ь‚ЅЃA’К”М‚МѓJѓ^ѓЌѓO‚Ж‚©‚а‚ў‚ў‚©‚аЃB<br>
+WebдёЉгЃ«гЃ‚г‚‹гЂЃйЂљиІ©гЂЃгѓЎгѓјг‚«гѓјгЃ®гѓљгѓјг‚ёгЃ®з”»еѓЏг‚’и¦‹г‚‹гЃ®г‚‚ж‰‹гЃ гЃЁжЂќгЃ„гЃѕгЃ™гЂ‚<br>
+гЃ“гЃ®ж‰‹гЃ®йЎћгЃЇгЂЃжµЃиЎЊгЃ«г‚‚жІїгЃЈгЃ¦гЃ„г‚‹гЃЁжЂќгЃ„гЃѕгЃ™гЂ‚<br>
+гЃѕгЃџгЂЃйЂљиІ©гЃ®г‚«г‚їгѓ­г‚°гЃЁгЃ‹г‚‚гЃ„гЃ„гЃ‹г‚‚гЂ‚<br>
 <br>
  Cecile  <a href=http://www.cecile.co.jp/ target=_top>http://www.cecile.co.jp/</a><br>
- ѓЏѓRЃ[ѓ‹Ѓ@<a href=http://www.wacoal.co.jp/ target=_top>http://www.wacoal.co.jp/</a><br>
-Ѓ@‚И‚З<br>
+ гѓЇг‚ігѓјгѓ«гЂЂ<a href=http://www.wacoal.co.jp/ target=_top>http://www.wacoal.co.jp/</a><br>
+гЂЂгЃЄгЃ©<br>
 <br>
-‰с“љ‚Й‚И‚Б‚Ѕ‚©‚ИЃH</font>
+е›ћз­”гЃ«гЃЄгЃЈгЃџгЃ‹гЃЄпјџ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[169]</font> <font size=4 color=#40c0c0> —pЊк</font>
+<font size=2>[169]</font> <font size=4 color=#40c0c0> з”ЁиЄћ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/09/21 (“y) 12:44:37 <strong>Ѓ¤</strong> –^—dђё </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200209216124437&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200209216124437"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/09/21 (ењџ) 12:44:37 <strong>в–Ѕ</strong> жџђе¦–зІѕ </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200209216124437_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200209216124437"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>‚і‚и‚°‚Й•`ЋК‚і‚к‚Д‚ ‚йЏ—‚МЋq‚М•ћ‚Є‚в‚Ѕ‚згk–§‚ЙЏ‘‚ў‚Д‚ ‚йЌм•iЃc<br>
-‚Ь‚ ’·‚­‚Д‚а“сЌs’ц“x‚И‚с‚Е‚·‚ЄЃA<br>
-ђі’јЃAЋ©•Є‚МЊ¤‹†•s‘«‚р’ЙЉґ‚µ‚Д‚µ‚Ь‚ў‚Ь‚·ЃB<br>
+<font size=3 color=#606060>гЃ•г‚ЉгЃ’гЃ«жЏЏе†™гЃ•г‚ЊгЃ¦гЃ‚г‚‹еҐігЃ®е­ђгЃ®жњЌгЃЊг‚„гЃџг‚‰з·»еЇ†гЃ«ж›ёгЃ„гЃ¦гЃ‚г‚‹дЅње“ЃвЂ¦<br>
+гЃѕгЃ‚й•·гЃЏгЃ¦г‚‚дєЊиЎЊзЁ‹еє¦гЃЄг‚“гЃ§гЃ™гЃЊгЂЃ<br>
+ж­Јз›ґгЂЃи‡Єе€†гЃ®з ”з©¶дёЌи¶іг‚’з—›ж„џгЃ—гЃ¦гЃ—гЃѕгЃ„гЃѕгЃ™гЂ‚<br>
 <br>
-‚Е‚аЃAѓtѓ@ѓbѓVѓ‡ѓ“ЋGЋЏЃiЏ—•ЁЃj‚р”ѓ‚¤—E‹C‚Є‚ ‚и‚Ь‚№‚сЃB<br>
-Њѕ‚¤‚И‚к‚ОЏ­Џ—ѓRѓ~ѓbѓN‚вѓCѓPѓiѓC–{‚р”ѓ‚¤‚Ж‚«‚МЉґЉo‚Е‚µ‚е‚¤‚©ЃcЃB<br>
-‚±‚с‚И‚Ж‚«ЃA‚З‚¤‚·‚к‚О‚ў‚ў‚ЖЋv‚ў‚Ь‚·‚©ЃH<br>
-Ѓi€к‰ћЊѕ‚Б‚Д‚Ё‚«‚Ь‚·‚ЄЃAѓtѓ@ѓbѓVѓ‡ѓ“ЋGЋЏ‚р”ѓ‚¤•ы–@‚р•·‚ў‚Д‚ў‚й‚н‚Ї‚Е‚Н‚ ‚и‚Ь‚№‚с‚М‚ЕЃA<br>
-‡@Џг‚ЙЏ­”N–џ‰жЃiex ѓWѓѓЃ›ѓv)‚рЌЪ‚№‚к‚О‚О‚Б‚ї‚и‚ѕ‚Ж‚©ЃcЃiѓJѓ‚ѓtѓ‰Ѓ[ѓWѓ…Ѓj<br>
-‡AЃw–…‚ЙЃ›Ѓ›”ѓ‚Б‚Д‚«‚Д‚Ж—Љ‚Ь‚к‚Ѕ‚с‚Е‚·‚Ї‚З‚±‚к‚Е‚ў‚ў‚·‚©ЃHЃx‚Ж‚і‚и‚°‚И‚­Ћ¦Ќґ‚·‚й‚Ж‚©Ѓc<br>
-‡B—МЋыЏ‘‚­‚ѕ‚і‚ў‚Ж—Љ‚Ю‚Ж‚©<br>
-‚»‚¤‚ў‚¤‚±‚Ж‚Е‚Н‚ ‚и‚Ь‚№‚сЃcЃB<br>
-‚Е‚«‚к‚ОЋ‹Љo“I‚Й‚н‚©‚к‚О‚ў‚ў‚И‚ЖЋv‚Б‚Д‚ў‚й‚М‚Е‚·‚Ї‚З‚ЛЃB<br>
-‚в‚Б‚П‚и”ѓ‚¤‚µ‚©‚И‚ў‚М‚©‚И‚џЃcЃiђФ–КЃj<br>
+гЃ§г‚‚гЂЃгѓ•г‚Ўгѓѓг‚·гѓ§гѓій›‘иЄЊпј€еҐіз‰©пј‰г‚’иІ·гЃ†е‹‡ж°—гЃЊгЃ‚г‚ЉгЃѕгЃ›г‚“гЂ‚<br>
+иЁЂгЃ†гЃЄг‚ЊгЃ°е°‘еҐіг‚ігѓџгѓѓг‚Їг‚„г‚¤г‚±гѓЉг‚¤жњ¬г‚’иІ·гЃ†гЃЁгЃЌгЃ®ж„џи¦љгЃ§гЃ—г‚‡гЃ†гЃ‹вЂ¦гЂ‚<br>
+гЃ“г‚“гЃЄгЃЁгЃЌгЂЃгЃ©гЃ†гЃ™г‚ЊгЃ°гЃ„гЃ„гЃЁжЂќгЃ„гЃѕгЃ™гЃ‹пјџ<br>
+пј€дёЂеїњиЁЂгЃЈгЃ¦гЃЉгЃЌгЃѕгЃ™гЃЊгЂЃгѓ•г‚Ўгѓѓг‚·гѓ§гѓій›‘иЄЊг‚’иІ·гЃ†ж–№жі•г‚’иЃћгЃ„гЃ¦гЃ„г‚‹г‚ЏгЃ‘гЃ§гЃЇгЃ‚г‚ЉгЃѕгЃ›г‚“гЃ®гЃ§гЂЃ<br>
+в‘ дёЉгЃ«е°‘е№ґжј«з”»пј€ex г‚ёгѓЈв—‹гѓ—)г‚’иј‰гЃ›г‚ЊгЃ°гЃ°гЃЈгЃЎг‚ЉгЃ гЃЁгЃ‹вЂ¦пј€г‚«гѓўгѓ•гѓ©гѓјг‚ёгѓҐпј‰<br>
+в‘ЎгЂЋе¦№гЃ«в—‹в—‹иІ·гЃЈгЃ¦гЃЌгЃ¦гЃЁй јгЃѕг‚ЊгЃџг‚“гЃ§гЃ™гЃ‘гЃ©гЃ“г‚ЊгЃ§гЃ„гЃ„гЃ™гЃ‹пјџгЂЏгЃЁгЃ•г‚ЉгЃ’гЃЄгЃЏз¤єе”†гЃ™г‚‹гЃЁгЃ‹вЂ¦<br>
+в‘ўй еЏЋж›ёгЃЏгЃ гЃ•гЃ„гЃЁй јг‚ЂгЃЁгЃ‹<br>
+гЃќгЃ†гЃ„гЃ†гЃ“гЃЁгЃ§гЃЇгЃ‚г‚ЉгЃѕгЃ›г‚“вЂ¦гЂ‚<br>
+гЃ§гЃЌг‚ЊгЃ°и¦–и¦љзљ„гЃ«г‚ЏгЃ‹г‚ЊгЃ°гЃ„гЃ„гЃЄгЃЁжЂќгЃЈгЃ¦гЃ„г‚‹гЃ®гЃ§гЃ™гЃ‘гЃ©гЃ­гЂ‚<br>
+г‚„гЃЈгЃ±г‚ЉиІ·гЃ†гЃ—гЃ‹гЃЄгЃ„гЃ®гЃ‹гЃЄгЃЃвЂ¦пј€иµ¤йќўпј‰<br>
 <br>
 </font>
 </td></table>
@@ -127,71 +127,71 @@ WebЏг‚Й‚ ‚йЃA’К”МЃAѓЃЃ[ѓJЃ[‚МѓyЃ[ѓW‚М‰ж‘њ‚рЊ©‚й‚М‚аЋи‚ѕ‚ЖЋv‚ў‚Ь‚·ЃB<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[168]</font> <font size=4 color=#40c0c0> ‚µ‚О‚з‚­‚Ф‚и‚Е‚·‚Є</font>
+<font size=2>[168]</font> <font size=4 color=#40c0c0> гЃ—гЃ°г‚‰гЃЏгЃ¶г‚ЉгЃ§гЃ™гЃЊ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/09/19 (–Ш) 02:07:18 <strong>Ѓ¤</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow@‰^‰c€П€х</a> </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200209194020718&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200209194020718"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/09/19 (жњЁ) 02:07:18 <strong>в–Ѕ</strong> <a href="mailto:starbow@wind.email.ne.jp">starbow@йЃ‹е–¶е§”е“Ў</a> </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200209194020718_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200209194020718"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>starbow‚Е‚·ЃB<br>
+<font size=3 color=#606060>starbowгЃ§гЃ™гЂ‚<br>
 <br>
-Џ‰ђSЋТONLY‚Ж‚ў‚¤‚±‚Ж‚ЕЃA‚ў‚л‚ў‚л‹CЊy‚ЙЏ‘‚«Ќћ‚Э‚µ‚Д‚ў‚Ѕ‚ѕ‚ў‚Д‚n‚j‚Е‚·ЃB<br>
-Ѓ@—pЊк‚Є”»‚з‚И‚ўЃB<br>
-Ѓ@Џ¬ђа‚МЏ‘‚«•ыЃB<br>
-Ѓ@‚±‚с‚И‚±‚Ж‚а‚ ‚Б‚Д‚а—З‚ў‚©‚ЖЋv‚¤‚Ж‚©ЃB<br>
+е€ќеїѓиЂ…ONLYгЃЁгЃ„гЃ†гЃ“гЃЁгЃ§гЂЃгЃ„г‚ЌгЃ„г‚Ќж°—и»ЅгЃ«ж›ёгЃЌиѕјгЃїгЃ—гЃ¦гЃ„гЃџгЃ гЃ„гЃ¦пјЇпј«гЃ§гЃ™гЂ‚<br>
+гЂЂз”ЁиЄћгЃЊе€¤г‚‰гЃЄгЃ„гЂ‚<br>
+гЂЂе°ЏиЄ¬гЃ®ж›ёгЃЌж–№гЂ‚<br>
+гЂЂгЃ“г‚“гЃЄгЃ“гЃЁг‚‚гЃ‚гЃЈгЃ¦г‚‚и‰ЇгЃ„гЃ‹гЃЁжЂќгЃ†гЃЁгЃ‹гЂ‚<br>
 <br>
-‘и–Ъ‚Ж‚µ‚Д‚НЃA<br>
-Ѓ@ђS‚ЙЋc‚йѓVЃ[ѓ“ЃA–јЏк–КЃA<br>
-Ѓ@‚±‚к‚НЏнЋЇЃH<br>
-‚И‚ЗЃB‚ў‚©‚Є‚Е‚µ‚е‚¤‚©ЃH<br>
+йЎЊз›®гЃЁгЃ—гЃ¦гЃЇгЂЃ<br>
+гЂЂеїѓгЃ«ж®‹г‚‹г‚·гѓјгѓігЂЃеђЌе ґйќўгЂЃ<br>
+гЂЂгЃ“г‚ЊгЃЇеёёи­пјџ<br>
+гЃЄгЃ©гЂ‚гЃ„гЃ‹гЃЊгЃ§гЃ—г‚‡гЃ†гЃ‹пјџ<br>
 <br>
 P.S.<br>
-ЌЕ‹ЯЃAЃu‚Ж‚з‚М‚ ‚ИЃv‚Й—§‚їЉс‚Б‚Ѕ‚Ж‚«ЃA<br>
-‚в‚Ф‚¤‚ї—D‚МЃu‚в‚Ф‚¤‚ї—DCLASSICЃv‚рЊ©‚В‚Ї‚Д‚Ь‚µ‚ЅЃB<br>
-‚»‚М‚И‚©‚ЙЃA‚ѕ‚ў‚ФђМЃH‚МЃuЏ­Џ—Џ­”NЃv‚М—\Ќђ•Т‚ЄЊfЌЪ‚і‚к‚Д‚ў‚Ь‚µ‚ЅЃB<br>
-•ґ‚з‚н‚µ‚ў‚Е‚·‚ЄЃA‚±‚к‚Н‚s‚r‚Е‚Н‚И‚­Џ—‘•‚ѕ‚Б‚Ѕ‚и‚µ‚Ь‚·ЃB</font>
+жњЂиї‘гЂЃгЂЊгЃЁг‚‰гЃ®гЃ‚гЃЄгЂЌгЃ«з«‹гЃЎеЇ„гЃЈгЃџгЃЁгЃЌгЂЃ<br>
+г‚„гЃ¶гЃ†гЃЎе„ЄгЃ®гЂЊг‚„гЃ¶гЃ†гЃЎе„ЄCLASSICгЂЌг‚’и¦‹гЃ¤гЃ‘гЃ¦гЃѕгЃ—гЃџгЂ‚<br>
+гЃќгЃ®гЃЄгЃ‹гЃ«гЂЃгЃ гЃ„гЃ¶ж”пјџгЃ®гЂЊе°‘еҐіе°‘е№ґгЂЌгЃ®дє€е‘Љз·ЁгЃЊжЋІиј‰гЃ•г‚ЊгЃ¦гЃ„гЃѕгЃ—гЃџгЂ‚<br>
+зґ›г‚‰г‚ЏгЃ—гЃ„гЃ§гЃ™гЃЊгЂЃгЃ“г‚ЊгЃЇпјґпјігЃ§гЃЇгЃЄгЃЏеҐіиЈ…гЃ гЃЈгЃџг‚ЉгЃ—гЃѕгЃ™гЂ‚</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> Re4:ѓAѓNѓZѓX•s‰В</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> Re4:г‚ўг‚Їг‚»г‚№дёЌеЏЇ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/08/09 (‹а) 23:50:09 <strong>Ѓ¤</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200208095235009&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200208095235009"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/08/09 (й‡‘) 23:50:09 <strong>в–Ѕ</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200208095235009_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200208095235009"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>’К‚и‚·‚Є‚и‚і‚ЬЃA‚»‚М‘ј”­Њѕ‚µ‚Д‰є‚і‚Б‚Ѕ‚Э‚И‚і‚Ь‚Ц<br>
+<font size=3 color=#606060>йЂљг‚ЉгЃ™гЃЊг‚ЉгЃ•гЃѕгЂЃгЃќгЃ®д»–з™єиЁЂгЃ—гЃ¦дё‹гЃ•гЃЈгЃџгЃїгЃЄгЃ•гЃѕгЃё<br>
 <br>
-<font color="#cc88ff">&gt; Internet Security‚р—§‚їЏг‚°‚ДѓIѓvѓVѓ‡ѓ“‚МInternet Security‚Е<br>
-&gt; Љg’ЈѓIѓvѓVѓ‡ѓ“‚р‘I‘р‚µWeb‚ЙЃunovels.jpЃv‚рѓTѓCѓg’З‰Б‚µ‚ДЃA<br>
-&gt; ЋQЏЖЊі‚р‹–‰В‚·‚й‚Ж‘еЏд•v‚Е‚µ‚ЅЃB<br>
-&gt; ѓvѓ‰ѓCѓoѓVЃ[OFF‚Й‚Н€б‚ў‚И‚ў‚Е‚·‚ЄЃA‚±‚ї‚з‚М•ы‚Є‘е•Є—З‚ў‚М‚Е‚Н‚И‚ў‚©‚ЖЃB</font><br>
+<font color="#cc88ff">&gt; Internet Securityг‚’з«‹гЃЎдёЉгЃ’гЃ¦г‚Єгѓ—г‚·гѓ§гѓігЃ®Internet SecurityгЃ§<br>
+&gt; ж‹Ўејµг‚Єгѓ—г‚·гѓ§гѓіг‚’йЃёжЉћгЃ—WebгЃ«гЂЊnovels.jpгЂЌг‚’г‚µг‚¤гѓ€иїЅеЉ гЃ—гЃ¦гЂЃ<br>
+&gt; еЏ‚з…§е…ѓг‚’иЁ±еЏЇгЃ™г‚‹гЃЁе¤§дё€е¤«гЃ§гЃ—гЃџгЂ‚<br>
+&gt; гѓ—гѓ©г‚¤гѓђг‚·гѓјOFFгЃ«гЃЇйЃ•гЃ„гЃЄгЃ„гЃ§гЃ™гЃЊгЂЃгЃ“гЃЎг‚‰гЃ®ж–№гЃЊе¤§е€†и‰ЇгЃ„гЃ®гЃ§гЃЇгЃЄгЃ„гЃ‹гЃЁгЂ‚</font><br>
 <br>
-“Ї‚¶‚ж‚¤‚ЙђЭ’и‚µ‚Ѕ‚зЃA‘еЏд•v‚Е‚µ‚Ѕ(kou‚і‚Ь‚М‚ЁЉ©‚Я’К‚иts.novels.jp‚Й‚µ‚Ь‚µ‚Ѕ)ЃB<br>
+еђЊгЃг‚€гЃ†гЃ«иЁ­е®љгЃ—гЃџг‚‰гЂЃе¤§дё€е¤«гЃ§гЃ—гЃџ(kouгЃ•гЃѕгЃ®гЃЉе‹§г‚ЃйЂљг‚Љts.novels.jpгЃ«гЃ—гЃѕгЃ—гЃџ)гЂ‚<br>
 <br>
-‚Э‚И‚і‚ЬЃA‚Щ‚с‚Ж‚¤‚Й‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚µ‚ЅЃB</font>
+гЃїгЃЄгЃ•гЃѕгЂЃгЃ»г‚“гЃЁгЃ†гЃ«гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ—гЃџгЂ‚</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> Re4:ѓAѓNѓZѓX•s‰В</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> Re4:г‚ўг‚Їг‚»г‚№дёЌеЏЇ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/08/09 (‹а) 07:25:27 <strong>Ѓ¤</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200208095072527&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200208095072527"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/08/09 (й‡‘) 07:25:27 <strong>в–Ѕ</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200208095072527_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200208095072527"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;‘±‚«‚Е‚·ЃB<br>
-&gt;‚ї‚И‚Э‚ЙЃA‘ј‚МѓTѓCѓg‚М•ЁЊк‚Н‚·‚Ч‚ДON‚Е‚аЊ©‚з‚к‚Ь‚·ЃB<br>
-&gt;‚±‚МѓTѓCѓg‚Й‰Ѕ‚©“Б•К‚ИђЭ’и‚Є‚ ‚й‚М‚Е‚µ‚е‚¤‚©ЃH</font><br>
-Ѓ@‚»‚М‚±‚Ж‚Е‚·‚ЄЃA•sђіѓAѓNѓZѓX‚вЃAЌм•i‚р€кЉ‡‚Еѓ_ѓEѓ“ѓЌЃ[ѓh‚·‚йѓЌѓ{ѓbѓg‚Є‘–‚Б‚Д‚ў‚ДЃA‚Ё‚»‚з‚­ЃA‚»‚к‚ЄЊґ€ц‚Е“]‘——К‚ЄѓIЃ[ѓoЃ[‚µ‚Д‚µ‚Ь‚ў‚Ь‚µ‚ЅЃB<br>
-Ѓ@‚»‚к‚ЕЃAѓTЃ[ѓoЃ[‚р€Ъ“®‚µ‚ДЃA“БЋк‚ИђЭ’и‚Й‚µ‚Ѕ‚»‚¤‚Е‚·ЃBЃ@‹LЋ–”ФЌ†Ѓ@25,26‚рЋQЏЖ‚µ‚ДЃAђЭ’и‚рЌs‚Б‚Д‚­‚ѕ‚і‚ў<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;з¶љгЃЌгЃ§гЃ™гЂ‚<br>
+&gt;гЃЎгЃЄгЃїгЃ«гЂЃд»–гЃ®г‚µг‚¤гѓ€гЃ®з‰©иЄћгЃЇгЃ™гЃ№гЃ¦ONгЃ§г‚‚и¦‹г‚‰г‚ЊгЃѕгЃ™гЂ‚<br>
+&gt;гЃ“гЃ®г‚µг‚¤гѓ€гЃ«дЅ•гЃ‹з‰№е€ҐгЃЄиЁ­е®љгЃЊгЃ‚г‚‹гЃ®гЃ§гЃ—г‚‡гЃ†гЃ‹пјџ</font><br>
+гЂЂгЃќгЃ®гЃ“гЃЁгЃ§гЃ™гЃЊгЂЃдёЌж­Јг‚ўг‚Їг‚»г‚№г‚„гЂЃдЅње“Ѓг‚’дёЂж‹¬гЃ§гѓЂг‚¦гѓігѓ­гѓјгѓ‰гЃ™г‚‹гѓ­гѓњгѓѓгѓ€гЃЊиµ°гЃЈгЃ¦гЃ„гЃ¦гЂЃгЃЉгЃќг‚‰гЃЏгЂЃгЃќг‚ЊгЃЊеЋџе› гЃ§и»ўйЂЃй‡ЏгЃЊг‚ЄгѓјгѓђгѓјгЃ—гЃ¦гЃ—гЃѕгЃ„гЃѕгЃ—гЃџгЂ‚<br>
+гЂЂгЃќг‚ЊгЃ§гЂЃг‚µгѓјгѓђгѓјг‚’з§»е‹•гЃ—гЃ¦гЂЃз‰№ж®ЉгЃЄиЁ­е®љгЃ«гЃ—гЃџгЃќгЃ†гЃ§гЃ™гЂ‚гЂЂиЁдє‹з•ЄеЏ·гЂЂ25,26г‚’еЏ‚з…§гЃ—гЃ¦гЂЃиЁ­е®љг‚’иЎЊгЃЈгЃ¦гЃЏгЃ гЃ•гЃ„<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -199,17 +199,17 @@ P.S.<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> Re4:ѓAѓNѓZѓX•s‰В</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> Re4:г‚ўг‚Їг‚»г‚№дёЌеЏЇ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/08/08 (–Ш) 23:59:15 <strong>Ѓ¤</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200208084235915&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200208084235915"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/08/08 (жњЁ) 23:59:15 <strong>в–Ѕ</strong> <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou</a> </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200208084235915_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200208084235915"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;Internet Security‚р—§‚їЏг‚°‚ДѓIѓvѓVѓ‡ѓ“‚МInternet Security‚Е<br>
-&gt;Љg’ЈѓIѓvѓVѓ‡ѓ“‚р‘I‘р‚µWeb‚ЙЃunovels.jpЃv‚рѓTѓCѓg’З‰Б‚µ‚ДЃA<br>
-&gt;ЋQЏЖЊі‚р‹–‰В‚·‚й‚Ж‘еЏд•v‚Е‚µ‚ЅЃB</font><br>
-ts.novels.jp‚М•ы‚Є‚ў‚ў‚ЖЋv‚¤‚Ї‚З‚§ЃH<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;Internet Securityг‚’з«‹гЃЎдёЉгЃ’гЃ¦г‚Єгѓ—г‚·гѓ§гѓігЃ®Internet SecurityгЃ§<br>
+&gt;ж‹Ўејµг‚Єгѓ—г‚·гѓ§гѓіг‚’йЃёжЉћгЃ—WebгЃ«гЂЊnovels.jpгЂЌг‚’г‚µг‚¤гѓ€иїЅеЉ гЃ—гЃ¦гЂЃ<br>
+&gt;еЏ‚з…§е…ѓг‚’иЁ±еЏЇгЃ™г‚‹гЃЁе¤§дё€е¤«гЃ§гЃ—гЃџгЂ‚</font><br>
+ts.novels.jpгЃ®ж–№гЃЊгЃ„гЃ„гЃЁжЂќгЃ†гЃ‘гЃ©гЃ‰пјџ<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -217,39 +217,39 @@ ts.novels.jp‚М•ы‚Є‚ў‚ў‚ЖЋv‚¤‚Ї‚З‚§ЃH<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> Re3:ѓAѓNѓZѓX•s‰В</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> Re3:г‚ўг‚Їг‚»г‚№дёЌеЏЇ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/08/08 (–Ш) 22:30:22 <strong>Ѓ¤</strong> ’К‚и‚·‚Є‚и </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200208084223022&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200208084223022"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/08/08 (жњЁ) 22:30:22 <strong>в–Ѕ</strong> йЂљг‚ЉгЃ™гЃЊг‚Љ </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200208084223022_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200208084223022"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>ђжЏTNorton Internet Security‚р“±“ь‚µ‚Д“Ї‚¶Њ»ЏЫ‚Й‚И‚Б‚ЅЋТ‚И‚М‚Е‚·‚Є<br>
+<font size=3 color=#606060>е…€йЂ±Norton Internet Securityг‚’е°Ће…ҐгЃ—гЃ¦еђЊгЃзЏѕи±ЎгЃ«гЃЄгЃЈгЃџиЂ…гЃЄгЃ®гЃ§гЃ™гЃЊ<br>
 <br>
-<font color="#cc88ff">&gt; ‚Е‚«‚к‚ОЃAOFF‚Й‚Н‚µ‚Ѕ‚­‚И‚ў‚М‚Е‚·‚ЄЃc</font><br>
+<font color="#cc88ff">&gt; гЃ§гЃЌг‚ЊгЃ°гЂЃOFFгЃ«гЃЇгЃ—гЃџгЃЏгЃЄгЃ„гЃ®гЃ§гЃ™гЃЊвЂ¦</font><br>
 <br>
-Internet Security‚р—§‚їЏг‚°‚ДѓIѓvѓVѓ‡ѓ“‚МInternet Security‚Е<br>
-Љg’ЈѓIѓvѓVѓ‡ѓ“‚р‘I‘р‚µWeb‚ЙЃunovels.jpЃv‚рѓTѓCѓg’З‰Б‚µ‚ДЃA<br>
-ЋQЏЖЊі‚р‹–‰В‚·‚й‚Ж‘еЏд•v‚Е‚µ‚ЅЃB<br>
-ѓvѓ‰ѓCѓoѓVЃ[OFF‚Й‚Н€б‚ў‚И‚ў‚Е‚·‚ЄЃA‚±‚ї‚з‚М•ы‚Є‘е•Є—З‚ў‚М‚Е‚Н‚И‚ў‚©‚ЖЃB</font>
+Internet Securityг‚’з«‹гЃЎдёЉгЃ’гЃ¦г‚Єгѓ—г‚·гѓ§гѓігЃ®Internet SecurityгЃ§<br>
+ж‹Ўејµг‚Єгѓ—г‚·гѓ§гѓіг‚’йЃёжЉћгЃ—WebгЃ«гЂЊnovels.jpгЂЌг‚’г‚µг‚¤гѓ€иїЅеЉ гЃ—гЃ¦гЂЃ<br>
+еЏ‚з…§е…ѓг‚’иЁ±еЏЇгЃ™г‚‹гЃЁе¤§дё€е¤«гЃ§гЃ—гЃџгЂ‚<br>
+гѓ—гѓ©г‚¤гѓђг‚·гѓјOFFгЃ«гЃЇйЃ•гЃ„гЃЄгЃ„гЃ§гЃ™гЃЊгЂЃгЃ“гЃЎг‚‰гЃ®ж–№гЃЊе¤§е€†и‰ЇгЃ„гЃ®гЃ§гЃЇгЃЄгЃ„гЃ‹гЃЁгЂ‚</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> Re3:ѓAѓNѓZѓX•s‰В</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> Re3:г‚ўг‚Їг‚»г‚№дёЌеЏЇ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/08/08 (–Ш) 21:04:19 <strong>Ѓ¤</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200208084210419&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200208084210419"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/08/08 (жњЁ) 21:04:19 <strong>в–Ѕ</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200208084210419_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200208084210419"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>kou‚і‚с‚Ц<br>
+<font size=3 color=#606060>kouгЃ•г‚“гЃё<br>
 <br>
-‘±‚«‚Е‚·ЃB<br>
-‚ї‚И‚Э‚ЙЃA‘ј‚МѓTѓCѓg‚М•ЁЊк‚Н‚·‚Ч‚ДON‚Е‚аЊ©‚з‚к‚Ь‚·ЃB<br>
-‚±‚МѓTѓCѓg‚Й‰Ѕ‚©“Б•К‚ИђЭ’и‚Є‚ ‚й‚М‚Е‚µ‚е‚¤‚©ЃH<br>
+з¶љгЃЌгЃ§гЃ™гЂ‚<br>
+гЃЎгЃЄгЃїгЃ«гЂЃд»–гЃ®г‚µг‚¤гѓ€гЃ®з‰©иЄћгЃЇгЃ™гЃ№гЃ¦ONгЃ§г‚‚и¦‹г‚‰г‚ЊгЃѕгЃ™гЂ‚<br>
+гЃ“гЃ®г‚µг‚¤гѓ€гЃ«дЅ•гЃ‹з‰№е€ҐгЃЄиЁ­е®љгЃЊгЃ‚г‚‹гЃ®гЃ§гЃ—г‚‡гЃ†гЃ‹пјџ<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -257,31 +257,31 @@ Internet Security‚р—§‚їЏг‚°‚ДѓIѓvѓVѓ‡ѓ“‚МInternet Security‚Е<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> Re3:ѓAѓNѓZѓX•s‰В</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> Re3:г‚ўг‚Їг‚»г‚№дёЌеЏЇ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>Ѓ¤</strong> 2002/08/08 (–Ш) 21:01:14 <strong>Ѓ¤</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
-<td nowrap align=left><font size=3>Ѓ@<a href="index.cgi?res=200208084210114&log=data4">•ФђM</a>Ѓ@ЌнЏњ<input type=checkbox name="target" value="200208084210114"></font>
+<font size=3 color=#606060><strong>в–Ѕ</strong> 2002/08/08 (жњЁ) 21:01:14 <strong>в–Ѕ</strong> <a href="mailto:h_tomosaka@mbj.nifty.com">Hitomi</a> </font></td>
+<td nowrap align=left><font size=3>гЂЂ<a href="index@res_200208084210114_log_data4.cgi">иї”дїЎ</a>гЂЂе‰Љй™¤<input type=checkbox name="target" value="200208084210114"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>RES‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·ЃB<br>
+<font size=3 color=#606060>RESгЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚<br>
 <br>
-<font color="#cc88ff">&gt; ‚»‚МЏкЌ‡‚НЃAѓgѓbѓvѓyЃ[ѓW‚©‚з‚Е‚аЃA“ь‚к‚И‚ўЏкЌ‡‚НЃANorton Internet securityЃi‚р“±“ь‚µ‚Д‚ў‚йђl‚НЃj‚Мѓvѓ‰ѓCѓoѓVЃ[•ЫЊмЃA‚рOFF‚Й‚·‚й‚ЖЉП——‚Є‰В”\‚Е‚·ЃB</font><br>
+<font color="#cc88ff">&gt; гЃќгЃ®е ґеђ€гЃЇгЂЃгѓ€гѓѓгѓ—гѓљгѓјг‚ёгЃ‹г‚‰гЃ§г‚‚гЂЃе…Ґг‚ЊгЃЄгЃ„е ґеђ€гЃЇгЂЃNorton Internet securityпј€г‚’е°Ће…ҐгЃ—гЃ¦гЃ„г‚‹дєєгЃЇпј‰гЃ®гѓ—гѓ©г‚¤гѓђг‚·гѓјдїќи­·гЂЃг‚’OFFгЃ«гЃ™г‚‹гЃЁи¦іи¦§гЃЊеЏЇиѓЅгЃ§гЃ™гЂ‚</font><br>
 <br>
-OFF‚Й‚µ‚Ѕ‚зЃAЊ©‚й‚±‚Ж‚Є‚Е‚«‚Ь‚µ‚ЅЃB<br>
-‚µ‚©‚µЃANorton Internet Security ‚р“±“ь‚µ‚Ѕ‚М‚Н‹Ћ”N‚М‚P‚QЊЋ‚ЕЃA‚»‚МЉФ‚Й<br>
-ѓ_ѓCѓ„ѓ‹ѓAѓbѓv‚©‚зѓtѓЊѓbѓc‚h‚r‚c‚m‚Й‚Н•ПЌX‚µ‚Ь‚µ‚Ѕ‚ЄЃA<br>
-‘S‚­–в‘и‚И‚­Њ©‚й‚±‚Ж‚Є‚Е‚«‚Ѕ‚М‚Е‚·ЃB<br>
-Norton Internet Security ‚Мѓvѓ‰ѓCѓoѓVЃ[•ЫЊм‚Н‚ў‚¶‚Б‚Д‚ў‚И‚ў‚М‚ЕЃA<br>
-‚И‚є‚И‚с‚Е‚µ‚е‚¤‚©ЃH<br>
-‚Е‚«‚к‚ОЃAOFF‚Й‚Н‚µ‚Ѕ‚­‚И‚ў‚М‚Е‚·‚ЄЃc<br>
+OFFгЃ«гЃ—гЃџг‚‰гЂЃи¦‹г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ—гЃџгЂ‚<br>
+гЃ—гЃ‹гЃ—гЂЃNorton Internet Security г‚’е°Ће…ҐгЃ—гЃџгЃ®гЃЇеЋ»е№ґгЃ®пј‘пј’жњ€гЃ§гЂЃгЃќгЃ®й–“гЃ«<br>
+гѓЂг‚¤гѓ¤гѓ«г‚ўгѓѓгѓ—гЃ‹г‚‰гѓ•гѓ¬гѓѓгѓ„пј©пјіпј¤пј®гЃ«гЃЇе¤‰ж›ґгЃ—гЃѕгЃ—гЃџгЃЊгЂЃ<br>
+е…ЁгЃЏе•ЏйЎЊгЃЄгЃЏи¦‹г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃџгЃ®гЃ§гЃ™гЂ‚<br>
+Norton Internet Security гЃ®гѓ—гѓ©г‚¤гѓђг‚·гѓјдїќи­·гЃЇгЃ„гЃгЃЈгЃ¦гЃ„гЃЄгЃ„гЃ®гЃ§гЂЃ<br>
+гЃЄгЃњгЃЄг‚“гЃ§гЃ—г‚‡гЃ†гЃ‹пјџ<br>
+гЃ§гЃЌг‚ЊгЃ°гЂЃOFFгЃ«гЃЇгЃ—гЃџгЃЏгЃЄгЃ„гЃ®гЃ§гЃ™гЃЊвЂ¦<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>ЌнЏњѓLЃ[ <input type=password name="pwd" size=10 value=""> <input type=submit value="ЌнЏњ"></td></form>
+<td align=center nowrap>е‰Љй™¤г‚­гѓј <input type=password name="pwd" size=10 value=""> <input type=submit value="е‰Љй™¤"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data4">
@@ -289,16 +289,16 @@ Norton Internet Security ‚Мѓvѓ‰ѓCѓoѓVЃ[•ЫЊм‚Н‚ў‚¶‚Б‚Д‚ў‚И‚ў‚М‚ЕЃA<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="Ћџ‚МѓyЃ[ѓW"></td></tr></form><tr>
+<td align=center><input type=submit value="ж¬ЎгЃ®гѓљгѓјг‚ё"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data4">
-<td nowrap>•¶Ћљ—с <input type=text name="search" value="" size=15>
+<td nowrap>ж–‡е­—е€— <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="ЊџЌх"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data4">ЌXђV</a>] [<a href="http://ts.novels.jp/">ЏI—№</a>]</font></strong></td>
+<input type=submit value="ж¤њзґў"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data4.cgi">ж›ґж–°</a>] [<a href="../../index.html">зµ‚дє†</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>Ѓ¦ [ЌнЏњ]ѓ{ѓbѓNѓX‚рѓ`ѓFѓbѓN‚µ‚ДЃA“ЉЌeЋћ‚ЙђЭ’и‚µ‚ЅЌнЏњѓLЃ[‚р“ь—Н‚µ‚Дѓ{ѓ^ѓ“‚р‰џ‚·‚±‚Ж‚ЕЌнЏњ‚Є‚Е‚«‚Ь‚·.<br>Ѓ¦ ЊџЌх•¶Ћљ—с‚НѓXѓyЃ[ѓX‚Е‹жђШ‚й‚±‚Ж‚Е•Ўђ”Ћw’и‚Е‚«‚Ь‚·.<br>Ѓ¦ ЊџЌх•¶Ћљ“ь—Н—“‚ЙЉЗ—ќѓLЃ[‚р“ь—Н‚µ‚ДЃuЊџЌхЃv‚р‰џ‚·‚±‚Ж‚ЕЉЗ—ќѓЃѓjѓ…Ѓ[‚Й€Ъ‚и‚Ь‚·.<br></font>
+<font color=#608080>вЂ» [е‰Љй™¤]гѓњгѓѓг‚Їг‚№г‚’гѓЃг‚§гѓѓг‚ЇгЃ—гЃ¦гЂЃжЉ•зЁїж™‚гЃ«иЁ­е®љгЃ—гЃџе‰Љй™¤г‚­гѓјг‚’е…ҐеЉ›гЃ—гЃ¦гѓњг‚їгѓіг‚’жЉјгЃ™гЃ“гЃЁгЃ§е‰Љй™¤гЃЊгЃ§гЃЌгЃѕгЃ™.<br>вЂ» ж¤њзґўж–‡е­—е€—гЃЇг‚№гѓљгѓјг‚№гЃ§еЊєе€‡г‚‹гЃ“гЃЁгЃ§и¤‡ж•°жЊ‡е®љгЃ§гЃЌгЃѕгЃ™.<br>вЂ» ж¤њзґўж–‡е­—е…ҐеЉ›ж¬„гЃ«з®Ўзђ†г‚­гѓјг‚’е…ҐеЉ›гЃ—гЃ¦гЂЊж¤њзґўгЂЌг‚’жЉјгЃ™гЃ“гЃЁгЃ§з®Ўзђ†гѓЎгѓ‹гѓҐгѓјгЃ«з§»г‚ЉгЃѕгЃ™.<br></font>
 </td></table></div><br>
 </div>
 <br>

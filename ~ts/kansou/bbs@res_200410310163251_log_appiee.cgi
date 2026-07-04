@@ -1,39 +1,39 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����҂�����@���z�f����</title>
+<title>あっぴぃさん　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����҂�����@���z�f����</font>
+<font size=5>あっぴぃさん　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="appiee">
 <input type=hidden name="nj" value="h4krKEtI0m">
 <input type=hidden name="res" value="31">
-<h4 align=center>�� �L���ԍ� 31 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 31 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w���ʂ́��@��S�b�x������ɂ͉��̃A�h���X���N���b�N�B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z���荂����t������A����͎����̂ЂƂƂ��c�c���A�E�F�C�g���X����A���J�ЂƂi�΁j�B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『仮面の♂　第４話』を見るには下のアドレスをクリック。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】香り高い一杯の珈琲、それは至福のひととき……あ、ウェイトレスさん、モカひとつ（笑）。
 &gt; http://ts.novels.jp/novel/200410/04203258/kamen04.htm</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -46,34 +46,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[45]</font> <font size=4 color=#40c0c0> �����Ƌ��k�̊ԂŁB</font>
+<font size=2>[45]</font> <font size=4 color=#40c0c0> 驚きと恐縮の間で。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/06 (��) 14:20:39 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200501064142039&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501064142039"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/06 (木) 14:20:39 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200501064142039_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200501064142039"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������߂��āA�v���Ԃ�ɔ`���Ă݂��琦�����Ƃ�(��)�B<br>
-�a�J���Ƃ��炳��A�ʂ肷���肳��A�����W�S�Q�U�������B���̂��Ƃ����ɂ��Ă̕׋��s���������܂ő傫�Ȗ��(�H)�������N�����Ă��܂��Ƃ́B����͂�X�~�}�Z���̈ꌾ�ł��B<br>
-���N�J�Ấw���E�n�����x�̐�`�̈�Ɂu���{�ł͑��ȗ��R�T�N�Ԃ�̖����J�Áv�Ƃ������̂ł�����L�ۂ݂ɂ��Ă��܂��܂����B���A���ꂾ����`(��)�������ɂ͖����ɑ΂���m�����w�ǖ����̂ł��B����̌����A���ƂɋA�����Ƃ��ɂӂ��Ǝv�����������ł��B�悭�l����ƁA���ȍ~���e�n�ŗl�X�Ȕ��������܂����ˁB���ꂩ��͉I舂Ȕ��������Ȃ��悤�ɂ悭�׋����Ă����i��R�����g������Ă��������Ǝv���܂��B�Ȍ�C�����܂��B</font>
+<font size=3 color=#606060>正月も過ぎて、久しぶりに覗いてみたら凄いことに(汗)。<br>
+渋谷＠家からさん、通りすがりさん、ｍｋ８４２６＠自宅さん。私のあとがきについての勉強不足がここまで大きな問題(？)を巻き起こしてしまうとは。いやはやスミマセンの一言です。<br>
+今年開催の『愛・地球博』の宣伝の一つに「日本では大阪以来３５年ぶりの万博開催」とあったのでそれを鵜呑みにしてしまいました。私、あれだけ宣伝(笑)した割には万博に対する知識が殆ど無いのです。今回の件も、実家に帰ったときにふっと思いついただけです。よく考えると、大阪以降も各地で様々な博覧会がありましたね。これからは迂闊な発言をしないようによく勉強してから作品やコメントを作っていきたいと思います。以後気をつけます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[44]</font> <font size=4 color=#40c0c0> ���̕ӂ��C�ɂȂ��Ē��ׂĂ݂�</font>
+<font size=2>[44]</font> <font size=4 color=#40c0c0> その辺が気になって調べてみた</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/05 (��) 00:42:47 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200501053004247&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501053004247"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/05 (水) 00:42:47 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200501053004247_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200501053004247"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �Ƃ���ŁA��㖜���̌�ɊJ�Â��ꂽ����C�m���A���ΉȊw�����Ƃ����̂�<br>
-&gt; �����ɂ͖�����������ĂȂ��A�Ƃ��������ł�낵���ł���?</font><br>
-�u����������v�ɂ͕��L���e�[�}�́u��ʔ�����v�ƁA���肳�ꂽ�e�[�}�́u���ʔ�����v������A���{�ŊJ�Â��ꂽ�����̂����u��ʔ��v����㖜���ȗ��Ƃ������ƂɂȂ�悤�ŁA���̊ԂɊJ�Â��ꂽ�����͑S�āu���ʔ��v�ɂȂ�悤�ł��B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; ところで、大阪万博の後に開催された沖縄海洋博、つくば科学万博というのは<br>
+&gt; 公式には万博扱いされてない、という理解でよろしいですか?</font><br>
+「万国博覧会」には幅広いテーマの「一般博覧会」と、限定されたテーマの「特別博覧会」があり、日本で開催された万博のうち「一般博」が大阪万博以来ということになるようで、その間に開催された万博は全て「特別博」になるようです。<br>
 <br>
-�i�\�[�X�F <a href=http://www.2005ex-site.net/magazine1/mainreport/1.htm target=_top>http://www.2005ex-site.net/magazine1/mainreport/1.htm</a> �j</font>
+（ソース： <a href=http://www.2005ex-site.net/magazine1/mainreport/1.htm target=_top>http://www.2005ex-site.net/magazine1/mainreport/1.htm</a> ）</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -84,37 +84,37 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[43]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/04 (��) 20:37:53 <strong>��</strong> �ʂ肷���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200501042203753&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501042203753"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/04 (火) 20:37:53 <strong>▽</strong> 通りすがり </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200501042203753_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200501042203753"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �a�J@�Ƃ��炳��<br>
-<font color="#cc88ff">&gt; �Ƃ���ŁA��㖜���̌�ɊJ�Â��ꂽ����C�m���A���ΉȊw�����Ƃ����̂�<br>
-&gt; �����ɂ͖�����������ĂȂ��A�Ƃ��������ł�낵���ł���?</font><br>
-����������1990�N�Ɂu���ۉԂƗ΂̔�����v�Ȃ�Ă��̂�����܂������A������Ăǂ��Ȃ�ł��傤���H</font>
+<font size=3 color=#606060>▼ 渋谷@家からさん<br>
+<font color="#cc88ff">&gt; ところで、大阪万博の後に開催された沖縄海洋博、つくば科学万博というのは<br>
+&gt; 公式には万博扱いされてない、という理解でよろしいですか?</font><br>
+そういえば1990年に「国際花と緑の博覧会」なんてものもありましたが、これってどうなんでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> ����܂���</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> やられました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/03 (��) 20:25:36 <strong>��</strong> <a href="mailto:IZA00527@nifty.com">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200501031202536&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501031202536"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/03 (月) 20:25:36 <strong>▽</strong> <a href="mailto:IZA00527@nifty.com">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200501031202536_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200501031202536"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���͓������l�Ԃ̏��̎q�Ɂc�ƌ����͍̂l���Ă܂����B<br>
-�@������͔L��������̏��̎q�ƗV�Ԃ��߂ɓ������炢�̏��̎q�ɂƌ������̂ł������c�X�P�[�����Ⴄ�B���_�ɂȂ��Ă��܂��Ƃ́B<br>
-�@�E�X�ł��B<br>
+<font size=3 color=#606060>　実は動物が人間の女の子に…と言うのは考えてました。<br>
+　こちらは猫が飼い主の女の子と遊ぶために同じくらいの女の子にと言うものでしたが…スケールが違う。女神になってしまうとは。<br>
+　脱帽です。<br>
 <br>
-�@���������ΐ_�b�ɂ͋t�ɌF�ɂȂ�����Ƒ��q�̘b�������������B<br>
-�@�M���V���_�b���������ȁB<br>
-�@���i���m�ɂ͐����j�ɂȂ����F�����̋t�ŎR�̐_�l���B<br>
-�@�Ȃ񂩂��������ł����B<br>
+　そういえば神話には逆に熊になった母と息子の話があったかも。<br>
+　ギリシャ神話だったかな。<br>
+　星（正確には星座）になった熊たちの逆で山の神様か。<br>
+　なんかいい感じでした。<br>
 <br>
-�@�Ō�ɁA�ٍ�̌�Љ�肪�Ƃ��������܂����B</font>
+　最後に、拙作の御紹介ありがとうございました。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -122,32 +122,32 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> ���~�}�V�^</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> ヨミマシタ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/31 (��) 19:16:00 <strong>��</strong> ���K\ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412315191600&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412315191600"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/31 (金) 19:16:00 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412315191600_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200412315191600"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�F�����̐l�ɂȂ���̂ł��傤���B<br>
-�؍��l�Ƃ��Ă͌������b�ɂ��������X�g�[���[������̂ł��Ȃ�e�����������镨��Ƃ����܂��B</font>
+<font size=3 color=#606060>熊が女の人になるものでしょうか。<br>
+韓国人としては建国説話にそういうストーリーがあるのでかなり親しく感じられる物語といえます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/30 (��) 01:28:06 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412304012806&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412304012806"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/30 (木) 01:28:06 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412304012806_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200412304012806"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�m���ɎR�̐_�l�͏����������ŁB<br>
-�i������g���l���H������ɂ͏��������Ȃ��Ƃ������K���������Ƒ����Ă��������ȁB���R�́A����������ƎR�̐_�l�����i�S���玖�̂������炷���߂Ƃ̂��Ɓj<br>
-����͂����ƁA�R�̐_�l�ɂ���ȃG�s�\�[�h������Ƃ́E�E�E�B<br>
-�Ȃ񂾂��t�@���^�W�[���ۂ��ł��ˁB</font>
+<font size=3 color=#606060>確かに山の神様は女性だそうで。<br>
+（だからトンネル工事現場には女性を入れないという風習が長いこと続いていたそうな。理由は、女性が入ると山の神様が嫉妬心から事故をもたらすためとのこと）<br>
+それはそうと、山の神様にこんなエピソードがあるとは・・・。<br>
+なんだかファンタジーっぽいですね。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -155,76 +155,76 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> ���������Ȃ��_�O�ł���</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> けっこうなお点前でした</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/29 (��) 22:12:19 <strong>��</strong> <a href="mailto:shibuya@dd.iij4u.or.jp">�a�J@�Ƃ���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412293221219&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412293221219"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/29 (水) 22:12:19 <strong>▽</strong> <a href="mailto:shibuya@dd.iij4u.or.jp">渋谷@家から</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412293221219_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200412293221219"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�R�̐_�l�Ƃ����̂͂Ȃ��Ȃ��a�V�ȃA�v���[�`�ł����B<br>
-��������͏b�̂܂�TS���Ăǂ��Ȃ��H�Ǝv���Ă܂���������ʐS�z�������̂ň��S�B<br>
+<font size=3 color=#606060>山の神様というのはなかなか斬新なアプローチでした。<br>
+さいしょは獣のままTSしてどうなるん？と思ってましたがいらぬ心配だったので安心。<br>
 <br>
-�Ƃ���ŁA��㖜���̌�ɊJ�Â��ꂽ����C�m���A���ΉȊw�����Ƃ����̂�<br>
-�����ɂ͖�����������ĂȂ��A�Ƃ��������ł�낵���ł���?</font>
+ところで、大阪万博の後に開催された沖縄海洋博、つくば科学万博というのは<br>
+公式には万博扱いされてない、という理解でよろしいですか?</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> �w�g���x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> 『使命』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/12/29 (��) 17:20:06 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200412293172006&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200412293172006"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/12/29 (水) 17:20:06 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200412293172006_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200412293172006"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �{���ɂ���Ȃӂ��Ɏ���Ă����΂����ł��˂��B<br>
+<font size=3 color=#606060>【推薦文】 本当にこんなふうに守られていけばいいですねぇ。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200410/04203258/shimei.htm target=_top>http://ts.novels.jp/novel/200410/04203258/shimei.htm</a></font>
+<a href="../../novel/200410/04203258/shimei.htm" target=_top>http://ts.novels.jp/novel/200410/04203258/shimei.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> Re:��i�ɂ��Ă̒񌾁B</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> Re:作品についての提言。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/11/18 (��) 09:39:06 <strong>��</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">�����҂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200411184093906&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411184093906"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/11/18 (木) 09:39:06 <strong>▽</strong> <a href="mailto:akito&#95;kakami&#95;19850214@yahoo.co.jp">あっぴぃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200411184093906_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200411184093906"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �n�z����<br>
-���z���肪�Ƃ��������܂��B<br>
-�ЂƂ̈ӌ��Ƃ��ĎQ�l�ɂ����Ă������������Ǝv���܂��B<br>
-����(������)�ɂƂ��āA��؂ȑ��݂ł��邳����ɂ́A�����������Ȃ��Ă͂����܂��񂵁B<br>
-�����A�����Ȃ�o�����Ă͕s���R�����܂����A�T�b�ł͖���������܂����B<br>
-���͑�P�b�œ�N�Ԃ�ǂ��ƌ����Ă����̂ł����A�܂���N�������ĂȂ���(��)�B<br>
-���X�ɕs�R�_���o�Ă���I�ȕ����ł������Ă��������Ǝv���܂��B</font>
+<font size=3 color=#606060>▼ 杵築さん<br>
+感想ありがとうございます。<br>
+ひとつの意見として参考にさせていただきたいと思います。<br>
+太一(あさみ)にとって、大切な存在であるさくらには、いつか明かさなくてはいけませんし。<br>
+ただ、いきなりバラしては不自然すぎますし、５話では無理がありますし。<br>
+実は第１話で二年間を追うと言っていたのですが、まだ一年もたってないし(汗)。<br>
+徐々に不審点が出てくる的な伏線でも張っていきたいと思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> ��i�ɂ��Ă̒񌾁B</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 作品についての提言。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/11/13 (�y) 09:34:55 <strong>��</strong> �n�z </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200411136093455&log=appiee">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411136093455"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/11/13 (土) 09:34:55 <strong>▽</strong> 杵築 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200411136093455_log_appiee.cgi">返信</a>　削除<input type=checkbox name="target" value="200411136093455"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��1�b�����S�b�܂œǂ܂��Ă��������܂����B<br>
-��S�b�͌l�I�ɂ�����i���Ǝv���܂��B��T�b�̌�҂Ɋ��҂��܂��B<br>
-�����܂�����������܂��񂪁A�������񌾂����Ă������������Ǝv���܂��B�����������A���̌��l���̐��̂�ޏ��ł��邳����Ƀo��������l�����܂����A�����҂�����͂ǂ����l���ł��傤���H</font>
+<font size=3 color=#606060>第1話から第４話まで読ませていただきました。<br>
+第４話は個人的にいい作品だと思います。第５話の後編に期待します。<br>
+厚かましいかもしれませんが、すこし提言させていただきたいと思います。こういう時、この後主人公の正体を彼女であるさくらにバラす手も考えられますが、あっぴぃさんはどうお考えでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="appiee">
@@ -232,16 +232,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="appiee">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=appiee">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_appiee.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>Mist�����i�@���z�f����</title>
+<title>Mistさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>Mist�����i�@���z�f����</font>
+<font size=5>Mistさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="mist">
 <input type=hidden name="nj" value="GHwZK6FELo">
 <input type=hidden name="res" value="23">
-<h4 align=center>�� �L���ԍ� 23 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 23 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�wMlchemist�i�B���p�t) ��4�b ���T�C�h�x��ǂނɂ͉��̃����N���N���b�N�ˁB"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z���񂾂�Ə��������i�ށB����ɁA�Ȃ�Ƃ���ȃV�[���܂Łc�c�i�΁j
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『Mlchemist（錬金術師) 第4話 光サイド』を読むには下のリンクをクリックね。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】だんだんと女性化が進む。それに、なんとあんなシーンまで……（笑）
 &gt; 
 &gt; http://ts.novels.jp/novel/200210/11183849/mlchemist4.htm</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,34 +47,34 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[29]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/03 (�y) 20:06:42 <strong>��</strong> �l������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305036200642&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305036200642"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/03 (土) 20:06:42 <strong>▽</strong> Ｍｉｓｔ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305036200642_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200305036200642"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����W�S�Q�U �@����@���z���肪�Ƃ��������܂��B<br>
-���҂́A�K���o���܂��̂Ŋ��҂��đ҂��Ă��Ă��������B<br>
-������������A�S�����Ƃ����̂́�����������Ȃ��ł��ˁB<br>
-�����Ɗw���̏o������A���e�Ƃ̃G�s�\�[�h���`���܂���<br>
-�������肪�Ƃ��������܂��B</font>
+<font size=3 color=#606060>ｍｋ８４２６ 　さん　感想ありがとうございます。<br>
+続編は、必ず出しますので期待して待っていてください。<br>
+もしかしたら、鉄骨落としたのは○○かもしれないですね。<br>
+ちゃんと学園の出来事や、両親とのエピソードも描きますよ<br>
+いつもありがとうございます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/01 (��) 20:06:03 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305014200603&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305014200603"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/01 (木) 20:06:03 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305014200603_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200305014200603"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����܂��Ȃ��Ȃ��ʔ������Ȃ��b�̎n�܂�ł��˂��B<br>
-���������̖ꂳ��A�������񂶂�Ȃ��āA�S�����Ƃ����񂶂�Ȃ���[���Ƌ^���Ă݂�e�X�g�i���j�B<br>
-�܂����͂Ƃ�����A���̖ꂳ��͉��҂��H�Ƃ��A�c����݂Ƃ̊֌W�͂ǂ��Ȃ�̂��H�Ƃ��A���e�̔����́H�Ƃ��A���낢��C�ɂȂ邱�Ƃ�����̂ŁA���҃L�{���k�ƌ����Ă����܂��傤�B</font>
+<font size=3 color=#606060>これまたなかなか面白そうなお話の始まりですねぇ。<br>
+しかしこの爺さん、助けたんじゃなくて、鉄骨落としたんじゃなかろーかと疑ってみるテスト（爆）。<br>
+まあ何はともあれ、この爺さんは何者か？とか、幼馴染みとの関係はどうなるのか？とか、両親の反応は？とか、いろいろ気になることがあるので、続編キボンヌと言っておきましょう。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
@@ -82,43 +82,43 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �wWizard�i���@�g���j �x��ǂނȂ牺�̃����N���N���b�N�B</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> 『Wizard（魔法使い） 』を読むなら下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/05/01 (��) 02:04:52 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200305014020452&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200305014020452"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/01 (木) 02:04:52 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200305014020452_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200305014020452"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z Mist���񂪕��V��i�B�ォ�痎���Ă����S���ɉ����Ԃ��ꂽ�y�B���̎��������i�̂��H�j���V�l�B��́A���̂��V�l�͉��҂Ȃ̂��H<br>
+<font size=3 color=#606060>【推薦文】 Mistさんが放つ新作品。上から落ちてきた鉄骨に押しつぶされた准。その時助けた（のか？）ご老人。一体、このご老人は何者なのか？<br>
 <br>
-<a href=http://ts.novels.jp/novel/200210/11183849/wizard.htm target=_top>http://ts.novels.jp/novel/200210/11183849/wizard.htm</a></font>
+<a href="../../novel/200210/11183849/wizard.htm" target=_top>http://ts.novels.jp/novel/200210/11183849/wizard.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/26 (��) 23:58:04 <strong>��</strong> <a href="mailto:shibatatsu@infoseek.jp">Mist</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212264235804&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212264235804"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/26 (木) 23:58:04 <strong>▽</strong> <a href="mailto:shibatatsu@infoseek.jp">Mist</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212264235804_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200212264235804"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��������@�����W�S�Q�U����@�����ǂ�ł����������肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>あいさん　ｍｋ８４２６さん　いつも読んでいただきありがとうございます。<br>
 <br>
-�˔��q�����������ɑ��点�Ă��܂��܂����B<br>
-��������@�A�����V�[���̑���Ȃǂ͊y���݂ɂ��ĉ������B<br>
-������ɂȂ�Ǝv���܂����A���l�͍�����ł���I<br>
-�����W�S�Q�U����A�������T�C�h�͓����͊w�Z�̕���ł��B<br>
-���ł��Ȃ�F�X�Ƃ���܂����B<br>
-���łɗ��̎�l���̏C��N�T�C�h������܂��̂ŁA��������ǂ�ł���������<br>
-�Ƃ��肪�����ł��B<br>
-�C��N�T�C�h�ł��̍�i�A�n�߂Ă܂Ƃ��Ȑ퓬���s���Ă��܂��B<br>
+突拍子も無く演劇に走らせてしまいました。<br>
+あいさん　、○○シーンの相手などは楽しみにして下さい。<br>
+当分先になると思いますが、恋人は作るつもりですよ！<br>
+ｍｋ８４２６さん、光ちゃんサイドは当分は学校の物語です。<br>
+裏でかなり色々とありますが。<br>
+ついでに裏の主人公の修二君サイドもありますので、そちらも読んでいただける<br>
+とありがたいです。<br>
+修二君サイドでこの作品、始めてまともな戦闘が行われています。<br>
 <br>
-�ꏏ�ɏo�����肾������ł����A�����Ȃ��Ă��܂�����œ�ɕ����܂����B<br>
-�����܂���B<br>
-�T�b�ڂ��t�������Ă���������ƍK���ł��B<br>
+一緒に出すつもりだったんですが、長くなってしまったんで二つに分けました。<br>
+すいません。<br>
+５話目も付き合っていただけると幸いです。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -126,18 +126,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/26 (��) 22:49:53 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212264224953&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212264224953"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/26 (木) 22:49:53 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212264224953_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200212264224953"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂��́B<br>
-�Ȃ񂾂������ł��Ă܂��˂��B<br>
-���̂܂܉������猻���Ɏ����Ă����ׂ��I�i���j<br>
-����͂����ƋC�ɂȂ�I�������B<br>
-���񂪋C�ɂȂ�܂��ȁB</font>
+<font size=3 color=#606060>わっはっは。<br>
+なんだか馴染んできてますねぇ。<br>
+このまま演劇から現実に持っていくべし！（爆）<br>
+それはそうと気になる終わり方だ。<br>
+次回が気になりますな。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -145,53 +145,53 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> ��݂܂���</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> よみました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/25 (��) 16:56:04 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212253165604&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212253165604"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/25 (水) 16:56:04 <strong>▽</strong> あい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212253165604_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200212253165604"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̂܂܂ǂ��܂ŏ��������i�ނ̂��Ƃ�<br>
-���ɂȂ��Ă����̂��Ƃ��A<br>
-���������Ȃ��A�����V�[���̑���́H�Ƃ�<br>
-�y���ݖ��ځi�O�O�j</font>
+<font size=3 color=#606060>このままどこまで女性化が進むのかとか<br>
+恋になっていくのかとか、<br>
+演劇いいなあ、○○シーンの相手は？とか<br>
+楽しみ満載（＾＾）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> �wMlchemist�i�B���p�t) ��4�b ���T�C�h�x��ǂނɂ͉��̃����N���N���b�N�ˁB</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> 『Mlchemist（錬金術師) 第4話 光サイド』を読むには下のリンクをクリックね。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/25 (��) 13:35:06 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212253133506&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212253133506"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/25 (水) 13:35:06 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212253133506_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200212253133506"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���񂾂�Ə��������i�ށB����ɁA�Ȃ�Ƃ���ȃV�[���܂Łc�c�i�΁j<br>
+<font size=3 color=#606060>【推薦文】だんだんと女性化が進む。それに、なんとあんなシーンまで……（笑）<br>
 <br>
-<a href=http://ts.novels.jp/novel/200210/11183849/mlchemist4.htm target=_top>http://ts.novels.jp/novel/200210/11183849/mlchemist4.htm</a></font>
+<a href="../../novel/200210/11183849/mlchemist4.htm" target=_top>http://ts.novels.jp/novel/200210/11183849/mlchemist4.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/25 (��) 23:29:00 <strong>��</strong> Mist </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200211251232900&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211251232900"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/25 (月) 23:29:00 <strong>▽</strong> Mist </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200211251232900_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200211251232900"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>HIKO���񊴑z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>HIKOさん感想ありがとうございます。<br>
 <br>
-���ꂩ��퓬�V�[���𑝂₵�Ă������Ǝv���܂��B<br>
-��l�����g�Ɍ��킹�Ȃ����������Ƃ����̂͊m���ɂ����ł��ˁB<br>
-���Ȃł��B<br>
-���ꂩ���̓W�J���y���݂ɂ��Ă��������B<br>
-���ꂩ������t����������������ƍK���ł��B<br>
+これから戦闘シーンを増やしていこうと思います。<br>
+主人公自身に言わせない方がいいというのは確かにそうですね。<br>
+反省です。<br>
+これから先の展開を楽しみにしてください。<br>
+これからもお付き合いいただけると幸いです。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -199,45 +199,45 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> �ǂ݂܂�����</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> 読みました♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/25 (��) 16:14:02 <strong>��</strong> <a href="mailto:hag01860@ams.odn.ne.jp">HIKO</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200211251161402&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211251161402"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/25 (月) 16:14:02 <strong>▽</strong> <a href="mailto:hag01860@ams.odn.ne.jp">HIKO</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200211251161402_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200211251161402"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���΂炭�Ԃ�̊��z�J�L�R�ł��B<br>
-�@��b����O�b�A�ǂ܂��Ă��������܂����B<br>
-�@�Ȃ��Ȃ��ǂ��ł��˂��B�u�R�i���v�̖`���Ɏ������Ă���悤�ȋC�����܂����A�G���N�T�[�̐ݒ�Ȃ񂩁A�Ȃ��Ȃ��a����@��l�������X�ɏ��������Ă����̂��Ȃ��Ȃ��c�{�ł�����<br>
-�@�l�I�ɂ͐퓬�V�[�����������肵�����Ă�̂��A��╨����Ȃ��C�����܂����E�E�E�B<br>
-�@���Ɓu�͂����茾���Ă߂��Ⴍ���ይ���v�̃R�����g�́A��l�����g�Ɍ��킹�Ȃ����������悤�ȋC�����܂��ˁB�B�l�N���X�̐l�Ԃ��Ă̂́A�Ԉ���Ă��u��������ԋ����v�ȂǂƂ͍l���Ȃ��ł�����B�i�l�������_�ŏ�B�͎~�܂�܂�����j<br>
-�@���N�Ԃ̃^�C�����~�b�g�Ƃ����������t���āA���Ă��̐�ǂꂭ�炢����オ�邩�ȁH<br>
-�@���Ǝ�l���̂�����ƂȂ�̂��ȁH�@�C��N���́H<br>
-�@���̐�y���݂ɂ��Ă܂���</font>
+<font size=3 color=#606060>　しばらくぶりの感想カキコです。<br>
+　一話から三話、読ませていただきました。<br>
+　なかなか良いですねえ。「コナン」の冒頭に似すぎているような気もしますが、エリクサーの設定なんか、なかなか渋い♪　主人公が徐々に女性化していくのもなかなかツボですぞ♪<br>
+　個人的には戦闘シーンがあっさりしすぎてるのが、やや物足りない気もしますが・・・。<br>
+　あと「はっきり言ってめちゃくちゃ強い」のコメントは、主人公自身に言わせない方がいいような気がしますね。達人クラスの人間ってのは、間違っても「自分が一番強い」などとは考えないですから。（考えた時点で上達は止まりますから）<br>
+　半年間のタイムリミットという制限が付いて、さてこの先どれくらい盛り上がるかな？<br>
+　あと主人公のお相手となるのかな？　修二クンは？<br>
+　この先楽しみにしてます♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[20]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[20]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/25 (��) 13:21:02 <strong>��</strong> Mist </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200211251132102&log=mist">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211251132102"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/25 (月) 13:21:02 <strong>▽</strong> Mist </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200211251132102_log_mist.cgi">返信</a>　削除<input type=checkbox name="target" value="200211251132102"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�{�����̂� ���񊴑z���肪�Ƃ��������܂�<br>
+<font size=3 color=#606060>宮下しのぶ さん感想ありがとうございます<br>
 <br>
-���ꂩ���l�Ƃ����낢��Ȍ`�ŗ���ł��܂��B<br>
-�������Ă����������肪�Ƃ��������܂��B<br>
+これから二人ともいろいろな形で絡んできます。<br>
+いつも見ていただきありがとうございます。<br>
 </font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="mist">
@@ -245,16 +245,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="mist">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=mist">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_mist.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

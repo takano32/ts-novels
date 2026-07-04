@@ -234,7 +234,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】しかしなんとも怖い。読み進めるうちにどんどん作中に引きずり込まれていくのが分かります。けれども抜け出せない！　ＫＥＢＯさん渾身のこの作品、あなたも是非。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200112/20002028/vemale.html target=_top>http://ts.novels.jp/novel/200112/20002028/vemale.html</a></font>
+<a href="../../novel/200112/20002028/vemale.html" target=_top>http://ts.novels.jp/novel/200112/20002028/vemale.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -248,7 +248,7 @@ link<input type=checkbox name="link" value="1" checked>
 <td nowrap align=right><font size=3>　<a href="bbs@res_200206112210438_log_kebo.cgi">返信</a>　削除<input type=checkbox name="target" value="200206112210438"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><a href=http://ts.novels.jp/novel/light_light/title.html target=_top>http://ts.novels.jp/novel/light_light/title.html</a></font>
+<font size=3 color=#606060><a href="../../novel/light_light/title.html" target=_top>http://ts.novels.jp/novel/light_light/title.html</a></font>
 </td></table>
 </td></tr></table>
 

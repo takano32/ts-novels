@@ -1,63 +1,63 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�s�v�n�|�a�h�s�����i�@���z�f����</title>
+<title>ＴＷＯ−ＢＩＴさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�s�v�n�|�a�h�s�����i�@���z�f����</font>
+<font size=5>ＴＷＯ−ＢＩＴさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="two_bit">
 <input type=hidden name="nj" value="g3ijG4t8nv">
 <input type=hidden name="res" value="5">
-<h4 align=center>�� �L���ԍ� 5 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 5 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���z���肪�Ƃ��["><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �D������
-&gt; ���ĒÂ���
-&gt; ���������������ɃG�b�`�ł����ˁA�Ƃ����Ȃ�O���Ȋ��z���B
-&gt; �@�����ł����H
-&gt; �@��`�A�f�U�C�A�i����̘b�̂P�W�փo�[�W�����j�Ɣ�ׂ邩��A����܂������Ȃ��i��
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:感想ありがとぉー"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 好風さん
+&gt; □米津さん
+&gt; ＞いつもよりも微妙にエッチでしたね、といきなり外道な感想を。
+&gt; 　そうですか？
+&gt; 　ん〜、デザイア（今回の話の１８禁バージョン）と比べるから、あんまし感じない（汗
 &gt; 
-&gt; ���y�����b��ǂ܂��Ă����čŌ�ɃK�c�[���Ɨ�������C���[�W�������Ȃ邩�ȂƎv���܂����B
-&gt; �@���[�����l�������L��܂����ˁB
-&gt; �@�n�߂���A�`���Ɏ����Ă���ƍl���Ă����̂ŁA���̎�@�͎v�������Ȃ������ł��B
+&gt; ＞楽しい話を読ませておいて最後にガツーンと来る方がイメージが強くなるかなと思いました。
+&gt; 　そーいう考え方も有りましたね。
+&gt; 　始めから、冒頭に持ってくると考えていたので、他の手法は思いもよらなかったです。
 &gt; 
-&gt; ���ł��傤�ˁ`�B�����A�������������H
-&gt; �@���܂����A�܂��i��
+&gt; ＞でしょうね〜。復活、いかがっすか？
+&gt; 　しませんよ、まだ（笑
 &gt; 
-&gt; �������W�S�Q�U����
-&gt; ���������B�������؂Ȃ����b�ł����B
-&gt; �@�؂Ȃ��������Ă���������΁A����������
+&gt; □ｍｋ８４２６さん
+&gt; ＞ううっ。すごく切ないお話でした。
+&gt; 　切なさを感じていただければ、成功っす♪
 &gt; 
-&gt; ����X�̐ݒ蓙�ɂ��Ă͗]��悭�m��Ȃ���ł����ǁA
-&gt; �@�q�a�͂P�����ǂ߂΁A�ݒ�͉���܂���i��
+&gt; ＞種々の設定等については余りよく知らないんですけど、
+&gt; 　ＲＢは１だけ読めば、設定は解りますよ（汗
 &gt; 
-&gt; ������ł����̂��b�͏[���y���߂܂����B
-&gt; �@����̂q�a�́A�o�[�W�������U���Ă��Ȃ��̂ŉ���悤�ɁA���̃V���[�Y�Ƃ͈قȂ�A
-&gt; �q�a��m��Ȃ��q�g�ł��ǂ߂�悤�ɏ����Ă��܂��̂ŁA���������Ă���������ƍK�������B
+&gt; ＞それでもこのお話は充分楽しめました。
+&gt; 　今回のＲＢは、バージョンが振られていないので解るように、他のシリーズとは異なり、
+&gt; ＲＢを知らないヒトでも読めるように書いていますので、そう言っていただけると幸いっす。
 &gt; 
 &gt; 
-&gt; �@���̕������z�������i�v�X�̓��e�Ȃ̂ŁA���z�~�����ł��B
-&gt; �@���ƁA���z��ŁANScripter�ł̌��J�������ς��܂��\�\���āA�I�C�I�i��</textarea><br>
+&gt; 　他の方も感想下さい（久々の投稿なので、感想欲しいです。
+&gt; 　あと、感想第で、NScripter版の公開時期が変わります——って、オイ！（笑</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -70,35 +70,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �s�n�l����A���z�L���������܂�</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> ＴＯＭさん、感想有り難うございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/03 (��) 17:00:05 <strong>��</strong> �D�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209032170005&log=two_bit">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209032170005"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/03 (火) 17:00:05 <strong>▽</strong> 好風 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209032170005_log_two_bit.cgi">返信</a>　削除<input type=checkbox name="target" value="200209032170005"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��TOM����<br>
-�@���X�A�x��Đ\����Ȃ��ł��B<br>
-�@�����������܂�����ƍl���Ă�����ł����ǁA�N������Ȃ��ċ@�𓦂��Ă��܂��܂����B<br>
+<font size=3 color=#606060>□TOMさん<br>
+　レス、遅れて申し訳ないです。<br>
+　もう少し貯まったらと考えていたんですけど、誰からもなくて機を逃してしまいました。<br>
 <br>
-<font color="#ff88cc">��NScript�ɂ��ǂ݈Ղ��������܂��āA�Ō�܂ŃX�g���X�����ǂ߂܂����B</font><br>
-�@���������ĖႦ��Ɗ������ł��ˁB<br>
-�@�v�����ȏ�ɔ������Ȃ��̂Łi��s���J�����Ă����̂������Ȃ�ł����ǁj�A<br>
-������ł͌��J����ׂ�����Ȃ������̂��ȂƁA�v�����肵�Ă܂��i���<br>
-�@�㌎��t���J���āA�������͏������ȁc�c<br>
+<font color="#ff88cc">＞NScriptによる読み易さもあいまって、最後までストレス無く読めました。</font><br>
+　そう言って貰えると嬉しいですね。<br>
+　思った以上に反響がないので（先行公開をしていたのも原因なんですけど）、<br>
+こちらでは公開するべきじゃなかったのかなと、思ったりしてます（苦笑<br>
+　九月一杯公開して、あっちは消すかな……<br>
 <br>
-<font color="#ff88cc">���ŏ������玀�ʂ��Ĕ����Ă�̂́A���ꂾ���Ŗڂ������Ȃ��Ȃ����Ⴂ�܂�����B</font><br>
-�@�s�n�l�����ĒÂ���ɂ́A�o�������̗��o�[�W�����ɂ�����f�U�C�A�̕���<br>
-�����Ă������ȁH<br>
-�@������A�l�b�g�̉������Ō��J����Ƃ͎v���܂��̂ŁA������������ǂ�ł����<br>
-���������B<br>
+<font color="#ff88cc">＞最初っから死ぬって判ってるのは、それだけで目が離せなくなっちゃいますから。</font><br>
+　ＴＯＭさんや米津さんには、Ｐｕｒｅの裏バージョンにあたるデザイアの方が<br>
+合っていたかな？<br>
+　いずれ、ネットの何処かで公開するとは思いますので、縁があったら読んでやって<br>
+ください。<br>
 <br>
-<font color="#ff88cc">���ĒÂ��񂪁A�G�b�`�ł��˂��Č����Ă����܂����A�l�������v���܂��B</font><br>
-�@�����͂��͂��́c�c�ō��̖J�ߌ��t�Ǝ󂯎���Ă܂��i��<br>
+<font color="#ff88cc">＞米津さんが、エッチですねって言っておられますが、僕もそう思います。</font><br>
+　たっはっはっは……最高の褒め言葉と受け取ってます（笑<br>
 <br>
-<font color="#ff88cc">�������y���݁�</font><br>
-�@���c�c�ł����B<br>
-�@���A�ǂȂ����悤���ȁc�c</font>
+<font color="#ff88cc">＞次が楽しみ♪</font><br>
+　次……ですか。<br>
+　次、どないしようかな……</font>
 <p><a href="http://www.geocities.co.jp/Bookend-Ohgai/3530/" target="_top">http://www.geocities.co.jp/Bookend-Ohgai/3530/</a>
 </td></table>
 </td></tr></table>
@@ -106,25 +106,25 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �؂Ȃ��ł��ˁB</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 切ないですね。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/24 (��) 00:00:42 <strong>��</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207243000042&log=two_bit">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207243000042"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/24 (水) 00:00:42 <strong>▽</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207243000042_log_two_bit.cgi">返信</a>　削除<input type=checkbox name="target" value="200207243000042"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060> �o��������b�Ɉ������܂�Ă��܂��܂����B<br>
-NScript�ɂ��ǂ݈Ղ��������܂��āA�Ō�܂ŃX�g���X�����ǂ߂܂����B<br>
-�l�̎��ʘb���āA���ꂾ���ŏՌ��I�����Č����Ȃ̂ł����A����ς�ڋ����ȁi�΁j����<br>
-�v���܂��B�ŏ������玀�ʂ��Ĕ����Ă�̂́A���ꂾ���Ŗڂ������Ȃ��Ȃ����Ⴂ�܂�����B<br>
-�J�ߌ��t���A���Ȃ����t���ǂ����Ȃ񂾂������ł������ς�i��΁j<br>
+<font size=3 color=#606060> 出だしから話に引き込まれてしまいました。<br>
+NScriptによる読み易さもあいまって、最後までストレス無く読めました。<br>
+人の死ぬ話って、それだけで衝撃的すぎて嫌いなのですが、やっぱり卑怯だな（笑）って<br>
+思います。最初っから死ぬって判ってるのは、それだけで目が離せなくなっちゃいますから。<br>
+褒め言葉か、けなし言葉かどっちなんだか自分でもさっぱり（苦笑）<br>
 <br>
-�ĒÂ��񂪁A�G�b�`�ł��˂��Č����Ă����܂����A�l�������v���܂��B<br>
-���Ă䂤���A�ĒÂ���ƁAtwo-bit����́u�G�b�`���v�͎��Ă�Ǝv���܂��B<br>
-���̃l�`�l�`���Ă��Ȃ��A���N�I�ȁu�G�b�`���v�͂s�r���m�����炱���o����<br>
-�������Ǝv���܂��B<br>
+米津さんが、エッチですねって言っておられますが、僕もそう思います。<br>
+ってゆうか、米津さんと、two-bitさんの「エッチさ」は似てると思います。<br>
+このネチネチしていない、健康的な「エッチさ」はＴＳモノだからこそ出せる<br>
+特徴だと思います。<br>
 <br>
-�����y���݁�<br>
+次が楽しみ♪<br>
 <br>
 <br>
 </font>
@@ -134,39 +134,39 @@ NScript�ɂ��ǂ݈Ղ��������܂��āA�Ō�܂ŃX�g���X�����ǂ߂܂����B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��[</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 感想ありがとぉー</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 11:47:30 <strong>��</strong> �D�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210114730&log=two_bit">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210114730"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 11:47:30 <strong>▽</strong> 好風 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210114730_log_two_bit.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210114730"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ĒÂ���<br>
-<font color="#ff88cc">���������������ɃG�b�`�ł����ˁA�Ƃ����Ȃ�O���Ȋ��z���B</font><br>
-�@�����ł����H<br>
-�@��`�A�f�U�C�A�i����̘b�̂P�W�փo�[�W�����j�Ɣ�ׂ邩��A����܂������Ȃ��i��<br>
+<font size=3 color=#606060>□米津さん<br>
+<font color="#ff88cc">＞いつもよりも微妙にエッチでしたね、といきなり外道な感想を。</font><br>
+　そうですか？<br>
+　ん〜、デザイア（今回の話の１８禁バージョン）と比べるから、あんまし感じない（汗<br>
 <br>
-<font color="#ff88cc">���y�����b��ǂ܂��Ă����čŌ�ɃK�c�[���Ɨ�������C���[�W�������Ȃ邩�ȂƎv���܂����B</font><br>
-�@���[�����l�������L��܂����ˁB<br>
-�@�n�߂���A�`���Ɏ����Ă���ƍl���Ă����̂ŁA���̎�@�͎v�������Ȃ������ł��B<br>
+<font color="#ff88cc">＞楽しい話を読ませておいて最後にガツーンと来る方がイメージが強くなるかなと思いました。</font><br>
+　そーいう考え方も有りましたね。<br>
+　始めから、冒頭に持ってくると考えていたので、他の手法は思いもよらなかったです。<br>
 <br>
-<font color="#ff88cc">���ł��傤�ˁ`�B�����A�������������H</font><br>
-�@���܂����A�܂��i��<br>
+<font color="#ff88cc">＞でしょうね〜。復活、いかがっすか？</font><br>
+　しませんよ、まだ（笑<br>
 <br>
-�������W�S�Q�U����<br>
-<font color="#ff88cc">���������B�������؂Ȃ����b�ł����B</font><br>
-�@�؂Ȃ��������Ă���������΁A����������<br>
+□ｍｋ８４２６さん<br>
+<font color="#ff88cc">＞ううっ。すごく切ないお話でした。</font><br>
+　切なさを感じていただければ、成功っす♪<br>
 <br>
-<font color="#ff88cc">����X�̐ݒ蓙�ɂ��Ă͗]��悭�m��Ȃ���ł����ǁA</font><br>
-�@�q�a�͂P�����ǂ߂΁A�ݒ�͉���܂���i��<br>
+<font color="#ff88cc">＞種々の設定等については余りよく知らないんですけど、</font><br>
+　ＲＢは１だけ読めば、設定は解りますよ（汗<br>
 <br>
-<font color="#ff88cc">������ł����̂��b�͏[���y���߂܂����B</font><br>
-�@����̂q�a�́A�o�[�W�������U���Ă��Ȃ��̂ŉ���悤�ɁA���̃V���[�Y�Ƃ͈قȂ�A<br>
-�q�a��m��Ȃ��q�g�ł��ǂ߂�悤�ɏ����Ă��܂��̂ŁA���������Ă���������ƍK�������B<br>
+<font color="#ff88cc">＞それでもこのお話は充分楽しめました。</font><br>
+　今回のＲＢは、バージョンが振られていないので解るように、他のシリーズとは異なり、<br>
+ＲＢを知らないヒトでも読めるように書いていますので、そう言っていただけると幸いっす。<br>
 <br>
 <br>
-�@���̕������z�������i�v�X�̓��e�Ȃ̂ŁA���z�~�����ł��B<br>
-�@���ƁA���z��ŁANScripter�ł̌��J�������ς��܂��\�\���āA�I�C�I�i��</font>
+　他の方も感想下さい（久々の投稿なので、感想欲しいです。<br>
+　あと、感想第で、NScripter版の公開時期が変わります——って、オイ！（笑</font>
 <p><a href="http://www.geocities.co.jp/Bookend-Ohgai/3530/" target="_top">http://www.geocities.co.jp/Bookend-Ohgai/3530/</a>
 </td></table>
 </td></tr></table>
@@ -177,34 +177,34 @@ NScript�ɂ��ǂ݈Ղ��������܂��āA�Ō�܂ŃX�g���X�����ǂ߂܂����B<br>
 <font size=2>[4]</font> <font size=4 color=#40c0c0> Pure</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 03:27:32 <strong>��</strong> �Ē� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210032732&log=two_bit">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210032732"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 03:27:32 <strong>▽</strong> 米津 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210032732_log_two_bit.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210032732"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������������ɃG�b�`�ł����ˁA�Ƃ����Ȃ�O���Ȋ��z���B<br>
+<font size=3 color=#606060>いつもよりも微妙にエッチでしたね、といきなり外道な感想を。<br>
 <br>
-�G�s���[�O�𓪂Ɏ����Ă��Ă��܂����A���̕��͂��Ǝ��̃C���[�W����������Ȃ���y�����b��ǂ܂�������A�y�����b��ǂ܂��Ă����čŌ�ɃK�c�[���Ɨ�������C���[�W�������Ȃ邩�ȂƎv���܂����B<br>
-���Ȃ��Ƃ��ĒÂ̏ꍇ�AEpilogue�����Ɉ����|�����đO����f���ɓǂ߂Ȃ������̂ŁB<br>
+エピローグを頭に持ってきていますが、この文章だと死のイメージをちらつかせながら楽しい話を読ませるよりも、楽しい話を読ませておいて最後にガツーンと来る方がイメージが強くなるかなと思いました。<br>
+少なくとも米津の場合、Epilogueが頭に引っ掛かって前半を素直に読めなかったので。<br>
 <br>
-<font color="#cc88ff">&gt; �������̐�</font><br>
-�ł��傤�ˁ`�B�����A�������������H</font>
+<font color="#cc88ff">&gt; 物書きの性</font><br>
+でしょうね〜。復活、いかがっすか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/19 (��) 23:45:08 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207195234508&log=two_bit">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207195234508"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/19 (金) 23:45:08 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207195234508_log_two_bit.cgi">返信</a>　削除<input type=checkbox name="target" value="200207195234508"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������B�������؂Ȃ����b�ł����B<br>
-���^�N�V�͂���܂�q�a�V���[�Y�͓ǂ񂾂��Ƃ��Ȃ��̂ŁA��X�̐ݒ蓙�ɂ��Ă͗]��悭�m��Ȃ���ł����ǁA����ł����̂��b�͏[���y���߂܂����B<br>
-��x�Ō�܂œǂ�ł���A������x�`���̃V�[���uEpilogue�v��ǂނƈ�w�؂Ȃ��������܂����B<br>
-���΂炵����i�����肪�Ƃ��������܂����B</font>
+<font size=3 color=#606060>ううっ。すごく切ないお話でした。<br>
+ワタクシはあんまりＲＢシリーズは読んだことがないので、種々の設定等については余りよく知らないんですけど、それでもこのお話は充分楽しめました。<br>
+一度最後まで読んでから、もう一度冒頭のシーン「Epilogue」を読むと一層切なさが増しました。<br>
+すばらしい作品をありがとうございました。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -212,30 +212,30 @@ NScript�ɂ��ǂ݈Ղ��������܂��āA�Ō�܂ŃX�g���X�����ǂ߂܂����B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �w�o�������x��ǂނɂ͉��̃����N���N���b�N </font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 『Ｐｕｒｅ』を読むには下のリンクをクリック </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/19 (��) 20:57:23 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207195205723&log=two_bit">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207195205723"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/19 (金) 20:57:23 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207195205723_log_two_bit.cgi">返信</a>　削除<input type=checkbox name="target" value="200207195205723"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><a href=http://ts.novels.jp/novel/200207/19203027/pure_menu.html target=_top>http://ts.novels.jp/novel/200207/19203027/pure_menu.html</a><br>
-�ق�̂킸���̎������q�����Ă��Ȃ��Ă��A���ɐl�Ɛl�Ƃ̂Ȃ���̐[���͌v��m��Ȃ����̂ɂȂ�܂��B��l�̏o��ƕʂ�ƒʂ��āA���Ȃ��͉���������ł��傤���H</font>
+<font size=3 color=#606060><a href="../../novel/200207/19203027/pure_menu.html" target=_top>http://ts.novels.jp/novel/200207/19203027/pure_menu.html</a><br>
+ほんのわずかの時しか繋がっていなくても、時に人と人とのつながりの深さは計り知れないものになります。二人の出会いと別れと通じて、あなたは何を感じるでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="two_bit">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=two_bit">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_two_bit.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

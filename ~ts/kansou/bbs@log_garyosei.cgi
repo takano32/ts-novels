@@ -97,7 +97,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】どうやら、サミアはハイアットよりも一枚上手だったようです。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200404/07211628/arabian_nights09.html target=_top>http://ts.novels.jp/novel/200404/07211628/arabian_nights09.html</a></font>
+<a href="../../novel/200404/07211628/arabian_nights09.html" target=_top>http://ts.novels.jp/novel/200404/07211628/arabian_nights09.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -148,7 +148,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】バイトンの存在は悪だったのか善だったのか、真実はきっと誰にも分からない……。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200404/07211628/baiton_09.html target=_top>http://ts.novels.jp/novel/200404/07211628/baiton_09.html</a></font>
+<a href="../../novel/200404/07211628/baiton_09.html" target=_top>http://ts.novels.jp/novel/200404/07211628/baiton_09.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -164,7 +164,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】グレアムはけっこうなやんちゃ少年だったようです。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200404/07211628/baiton_08.html target=_top>http://ts.novels.jp/novel/200404/07211628/baiton_08.html</a></font>
+<a href="../../novel/200404/07211628/baiton_08.html" target=_top>http://ts.novels.jp/novel/200404/07211628/baiton_08.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -180,7 +180,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ジャニスの周りは、本当にいい人たちばかりだったようです。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200404/07211628/good_life09.html target=_top>http://ts.novels.jp/novel/200404/07211628/good_life09.html</a></font>
+<a href="../../novel/200404/07211628/good_life09.html" target=_top>http://ts.novels.jp/novel/200404/07211628/good_life09.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -196,7 +196,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】ついに明らかになる、ジャニスが「彼」から「彼女」になった理由。そこには、ジャニスなりの信念があったのだ。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200404/07211628/good_life08.html target=_top>http://ts.novels.jp/novel/200404/07211628/good_life08.html</a></font>
+<a href="../../novel/200404/07211628/good_life08.html" target=_top>http://ts.novels.jp/novel/200404/07211628/good_life08.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -212,7 +212,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】感情にまかせて口にしてしまったことって、あとで後悔すること多いですよね。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200404/07211628/arabian_nights08.html target=_top>http://ts.novels.jp/novel/200404/07211628/arabian_nights08.html</a></font>
+<a href="../../novel/200404/07211628/arabian_nights08.html" target=_top>http://ts.novels.jp/novel/200404/07211628/arabian_nights08.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -228,7 +228,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】同じイスラムでも、国の違う二人から見たイスラムの在り方は大きく異なるようだった。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200404/07211628/arabian_nights07.html target=_top>http://ts.novels.jp/novel/200404/07211628/arabian_nights07.html</a></font>
+<a href="../../novel/200404/07211628/arabian_nights07.html" target=_top>http://ts.novels.jp/novel/200404/07211628/arabian_nights07.html</a></font>
 </td></table>
 </td></tr></table>
 

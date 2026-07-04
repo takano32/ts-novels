@@ -95,7 +95,7 @@ MONDOさんにはとても失礼きわまりないのだけども書き続けて
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】学校にいる三人の魔法使い。一人目は彼女、二人目はあの人。……では三人目は？<br>
-<a href=http://ts.novels.jp/novel/200508/13140105/dempa02.htm target=_top>http://ts.novels.jp/novel/200508/13140105/dempa02.htm</a></font>
+<a href="../../novel/200508/13140105/dempa02.htm" target=_top>http://ts.novels.jp/novel/200508/13140105/dempa02.htm</a></font>
 </td></table>
 </td></tr></table>
 

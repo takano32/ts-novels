@@ -435,7 +435,7 @@ JJJJJJJJJ３
 </tr></table><br>
 <hr>
 </center>
-<a href=http://ts.novels.jp/>少年少女文庫へ戻る</A><form method="post" action="bbs.cgi">
+<a href="../../../index.html">少年少女文庫へ戻る</A><form method="post" action="bbs.cgi">
 <input type=hidden name=action value="form">
 
 <P><Font size=-1>　この「第二掲示板・ストーリー道場」は、

@@ -52,7 +52,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 おさかなは見事、変態に出世しました。出世魚だったのか（違）<br>
-<a href=http://ts.novels.jp/novel/200203/23203640/osakana2.html target=_top>http://ts.novels.jp/novel/200203/23203640/osakana2.html</a></font>
+<a href="../../novel/200203/23203640/osakana2.html" target=_top>http://ts.novels.jp/novel/200203/23203640/osakana2.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -102,7 +102,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 よい子のみんな、あの愉快なお歌に乗せて、楽しい楽しいお話の始まりだよ〜<br>
-<a href=http://ts.novels.jp/novel/200203/23203640/osakana.html target=_top>http://ts.novels.jp/novel/200203/23203640/osakana.html</a></font>
+<a href="../../novel/200203/23203640/osakana.html" target=_top>http://ts.novels.jp/novel/200203/23203640/osakana.html</a></font>
 </td></table>
 </td></tr></table>
 

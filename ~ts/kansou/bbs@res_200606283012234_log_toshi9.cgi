@@ -1,49 +1,49 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�����������X�����i�@���z�f����</title>
+<title>ｔｏｓｈｉ９さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����������X�����i�@���z�f����</font>
+<font size=5>ｔｏｓｈｉ９さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="toshi9">
 <input type=hidden name="nj" value="WgOMpA6W70">
 <input type=hidden name="res" value="4">
-<h4 align=center>�� �L���ԍ� 4 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 4 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ�ł��������A���肪�Ƃ��������܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� toshi9����
-&gt; &gt;���َq�����������񂿂��
-&gt; �@��ԏ��ł������A�����ł��ˁB�����Ă��肪�Ƃ��������܂����B
-&gt; �@����͏��N�������ɔłƂ��Ă��������肪�����Ă܂��B��Ԃ͂l�n�m�c�n����̑f�G�ȂQ���̃C���X�g�I�A
-&gt; �@�����ĂQ�Ԃ́u�����ĉ��́c�c�c�c�v�i��
-&gt; �@�Q��ƐQ���̕������āA���\�����ł����C�ɓ���ł��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んでいただき、ありがとうございました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ toshi9さん
+&gt; &gt;お菓子をもったおんちゃん
+&gt; 　一番乗りでしたか、早いですね。そしてありがとうございました。
+&gt; 　今回は少年少女文庫版としてあちこち手が入ってます。一番はＭＯＮＤＯさんの素敵な２枚のイラスト！、
+&gt; 　そして２番は「そして俺は…………」（笑
+&gt; 　寝顔と寝息の部分って、結構自分でもお気に入りです。
 &gt; 
-&gt; &gt;hiji����
-&gt; �@�R�����g���肪�Ƃ��������܂����I
-&gt; �@���̍�i��������ɓ��e���悤�Ǝv���������̂́A�S���Z�\�����̂悤�Ȃ��̂�������ł��B
-&gt; �@�ł����ł��������A�����ł����B
-&gt; �@�����Ɏ�����悤���A�ǂ����悤���A��������ƍl�����ł��B</textarea><br>
+&gt; &gt;hijiさん
+&gt; 　コメントありがとうございました！
+&gt; 　この作品をこちらに投稿しようと思い立ったのは、全く瓢箪から駒のようなものだったんです。
+&gt; 　でも喜んでいただき、何よりでした。
+&gt; 　続きに手をつけようか、どうしようか、今ちょっと考え中です。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -56,55 +56,55 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �w�킦�I�X�E�B�[�g�n�j�B�@��P�b�u�@�����Y�̍Г�v�x������ɂ͂������N���b�N�B</font>
+<font size=2>[10]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 『戦え！スウィートハニィ　第１話「如月光雄の災難」』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/17 (��) 16:33:19 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607171163319&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607171163319"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/17 (月) 16:33:19 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607171163319_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200607171163319"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z��ɓ��ꂽ�w�ւ̕s�v�c�ȗ͂ƁA�����_���ٌ`�̂��̂����B����́A�����������]�񂾂���c�c�H�@����Ƃ��c�c�H<br>
-<a href=http://ts.novels.jp/novel/200606/27201201/honey01.html target=_top>http://ts.novels.jp/novel/200606/27201201/honey01.html</a></font>
+<font size=3 color=#606060>【推薦文】手に入れた指輪の不思議な力と、それを狙う異形のものたち。それは、自分がそう望んだから……？　それとも……？<br>
+<a href="../../novel/200606/27201201/honey01.html" target=_top>http://ts.novels.jp/novel/200606/27201201/honey01.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> Re:���肷�܂����΁I</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> Re:成りすまし万歳！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/05 (��) 22:21:06 <strong>��</strong> toshi9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607053222106&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607053222106"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/05 (水) 22:21:06 <strong>▽</strong> toshi9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607053222106_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200607053222106"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� hiji����<br>
-�@��P�b�ɑ����Ă̊��z�A�ǂ������肪�Ƃ��������܂����B<br>
-<font color="#cc88ff">&gt; ����A�d���̔�ꂪ�ӂ��Ƃ񂾁B</font><br>
-�@���������Ă���������ƁA�������ł��˂��B�ق�Ƃɓ��e�����b�オ����܂����B<br>
-<font color="#cc88ff">&gt; toshi9�����MONDO����ɂ͍ő勉�̊��ӂ̋C������\�����܂��B<br>
-&gt; �����������C�g�ȕ��͋C�̂s�r�����āA�����̍D�݂Ȃ񂾂ȂƎ������܂����B</font><br>
-�l�n�m�c�n����̃C���X�g�A�����u�����Ȃ��v���Ē��߂Ă܂����i��<br>
-�܂��������������瓊�e�������܂���ŁB�ǂ����A�C���ɂ��҂����������B</font>
+<font size=3 color=#606060>▼ hijiさん<br>
+　第１話に続いての感想、どうもありがとうございました。<br>
+<font color="#cc88ff">&gt; うん、仕事の疲れがふっとんだ。</font><br>
+　そう言っていただけると、嬉しいですねえ。ほんとに投稿した甲斐がありました。<br>
+<font color="#cc88ff">&gt; toshi9さんとMONDOさんには最大級の感謝の気持ちを表明します。<br>
+&gt; こういうライトな雰囲気のＴＳ物って、自分の好みなんだなと実感しました。</font><br>
+ＭＯＮＤＯさんのイラスト、私も「いいなあ」って眺めてました（笑<br>
+また続きが書けたら投稿いたしますんで。どうぞ、気長にお待ちください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> ���肷�܂����΁I</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> 成りすまし万歳！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/04 (��) 22:14:23 <strong>��</strong> hiji </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607042221423&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607042221423"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/04 (火) 22:14:23 <strong>▽</strong> hiji </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607042221423_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200607042221423"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���肷�܂��͂����B<br>
-���ɂ����B<br>
-����A�d���̔�ꂪ�ӂ��Ƃ񂾁B<br>
-toshi9�����MONDO����ɂ͍ő勉�̊��ӂ̋C������\�����܂��B<br>
+<font size=3 color=#606060>成りすましはいい。<br>
+実にいい。<br>
+うん、仕事の疲れがふっとんだ。<br>
+toshi9さんとMONDOさんには最大級の感謝の気持ちを表明します。<br>
 <br>
-�����������C�g�ȕ��͋C�̂s�r�����āA�����̍D�݂Ȃ񂾂ȂƎ������܂����B<br>
+こういうライトな雰囲気のＴＳ物って、自分の好みなんだなと実感しました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -112,101 +112,101 @@ toshi9�����MONDO����ɂ͍ő勉�̊��ӂ̋C������\�����܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> �w���`�Q�x������ɂ͂������N���b�N�B</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 『奥義２』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/04 (��) 21:24:46 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607042212446&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607042212446"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/04 (火) 21:24:46 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607042212446_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200607042212446"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���`�u�A��ڂ��v�Ŏʐ^�ɎB�����l���ɕϐg�ł��铡�ۂ���B���b�ő�������ΐ▽�H<br>
-<a href=http://ts.novels.jp/novel/200606/27201201/ougi02.htm target=_top>http://ts.novels.jp/novel/200606/27201201/ougi02.htm</a></font>
+<font size=3 color=#606060>【推薦文】奥義「陰画移し」で写真に撮った人物に変身できる藤丸くん。第二話で早くも絶対絶命？<br>
+<a href="../../novel/200606/27201201/ougi02.htm" target=_top>http://ts.novels.jp/novel/200606/27201201/ougi02.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> Re:���肷�܂������I�I</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> Re:成りすましっ娘！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/07/02 (��) 02:11:39 <strong>��</strong> toshi9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200607020021139&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200607020021139"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/07/02 (日) 02:11:39 <strong>▽</strong> toshi9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200607020021139_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200607020021139"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �l�n�m�c�n����<br>
-<font color="#cc88ff">&gt; �܂���toshi9����A���w�E�̌��A�C�����Ă����܂����B�\���󂠂�܂���B</font><br>
-���������A�����ɑΉ����Ă����������肪�Ƃ��������܂����B<br>
+<font size=3 color=#606060>▼ ＭＯＮＤＯさん<br>
+<font color="#cc88ff">&gt; まずはtoshi9さん、ご指摘の件、修正しておきました。申し訳ありません。</font><br>
+いえいえ、すぐに対応していただきありがとうございました。<br>
 <br>
-<font color="#cc88ff">&gt; ��l���̓��ۂ���A���m�̑��l�ɕϐg�ł���c�c�Ƃ����_�����̍�i�̉t�����Ƃ͈Ⴄ���͂ɂȂ��Ă���Ǝv���܂��B<br>
-&gt; �܂�肩��͕ʂ̐l�ԁi���������̎q�I�j�Ƃ��Ĉ����A���l�͂����܂ł��j�q�̎��_�ł��낢��Ƃ�炩���Ă��邠���肪�A���̍�i�̖ʔ����̃L���ł��ˁB</font><br>
+<font color="#cc88ff">&gt; 主人公の藤丸くん、既知の他人に変身できる……という点が他の作品の可逆っ娘とは違う魅力になっていると思います。<br>
+&gt; まわりからは別の人間（しかも女の子！）として扱われ、当人はあくまでも男子の視点でいろいろとやらかしているあたりが、この作品の面白さのキモですね。</font><br>
 <br>
-���肪�Ƃ��������܂��B���肷�܂��̖ʔ������Ă����������ƂȂ̂�������܂���ˁB<br>
-�a��̐��肷�܂��}�G��������āA��i�ƃp���[�A�b�v�ł�����������܂���B�{���ɂ��肪�Ƃ��������܂����B</font>
+ありがとうございます。成りすましの面白さってそういうことなのかもしれませんね。<br>
+和也の成りすまし挿絵が加わって、一段とパワーアップできたかもしれません。本当にありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> ���肷�܂������I�I</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 成りすましっ娘！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/30 (��) 21:15:51 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606305211551&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606305211551"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/30 (金) 21:15:51 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606305211551_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200606305211551"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B<br>
-�@�܂���toshi9����A���w�E�̌��A�C�����Ă����܂����B�\���󂠂�܂���B<br>
+<font size=3 color=#606060>　ＭＯＮＤＯです。<br>
+　まずはtoshi9さん、ご指摘の件、修正しておきました。申し訳ありません。<br>
 <br>
-�@��l���̓��ۂ���A���m�̑��l�ɕϐg�ł���c�c�Ƃ����_�����̍�i�̉t�����Ƃ͈Ⴄ���͂ɂȂ��Ă���Ǝv���܂��B<br>
-�@�܂�肩��͕ʂ̐l�ԁi���������̎q�I�j�Ƃ��Ĉ����A���l�͂����܂ł��j�q�̎��_�ł��낢��Ƃ�炩���Ă��邠���肪�A���̍�i�̖ʔ����̃L���ł��ˁB<br>
+　主人公の藤丸くん、既知の他人に変身できる……という点が他の作品の可逆っ娘とは違う魅力になっていると思います。<br>
+　まわりからは別の人間（しかも女の子！）として扱われ、当人はあくまでも男子の視点でいろいろとやらかしているあたりが、この作品の面白さのキモですね。<br>
 <br>
-<font color="#ff88cc">���Q��ƐQ���̕������āA���\�����ł����C�ɓ���ł��B</font><br>
+<font color="#ff88cc">＞寝顔と寝息の部分って、結構自分でもお気に入りです。</font><br>
 <br>
-�@���܂����B������`���΂悩�����i�΁j�B</font>
+　しまった。そこを描けばよかった（笑）。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �ǂ�ł��������A���肪�Ƃ��������܂���</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 読んでいただき、ありがとうございました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/28 (��) 01:22:34 <strong>��</strong> toshi9 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606283012234&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606283012234"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/28 (水) 01:22:34 <strong>▽</strong> toshi9 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606283012234_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200606283012234"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;���َq�����������񂿂��</font><br>
-�@��ԏ��ł������A�����ł��ˁB�����Ă��肪�Ƃ��������܂����B<br>
-�@����͏��N�������ɔłƂ��Ă��������肪�����Ă܂��B��Ԃ͂l�n�m�c�n����̑f�G�ȂQ���̃C���X�g�I�A<br>
-�@�����ĂQ�Ԃ́u�����ĉ��́c�c�c�c�v�i��<br>
-�@�Q��ƐQ���̕������āA���\�����ł����C�ɓ���ł��B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;お菓子をもったおんちゃん</font><br>
+　一番乗りでしたか、早いですね。そしてありがとうございました。<br>
+　今回は少年少女文庫版としてあちこち手が入ってます。一番はＭＯＮＤＯさんの素敵な２枚のイラスト！、<br>
+　そして２番は「そして俺は…………」（笑<br>
+　寝顔と寝息の部分って、結構自分でもお気に入りです。<br>
 <br>
-<font color="#cc88ff">&gt;hiji����</font><br>
-�@�R�����g���肪�Ƃ��������܂����I<br>
-�@���̍�i��������ɓ��e���悤�Ǝv���������̂́A�S���Z�\�����̂悤�Ȃ��̂�������ł��B<br>
-�@�ł����ł��������A�����ł����B<br>
-�@�����Ɏ�����悤���A�ǂ����悤���A��������ƍl�����ł��B</font>
+<font color="#cc88ff">&gt;hijiさん</font><br>
+　コメントありがとうございました！<br>
+　この作品をこちらに投稿しようと思い立ったのは、全く瓢箪から駒のようなものだったんです。<br>
+　でも喜んでいただき、何よりでした。<br>
+　続きに手をつけようか、どうしようか、今ちょっと考え中です。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> ���肷�܂��@�o���U�C</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 成りすまし　バンザイ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/27 (��) 22:38:54 <strong>��</strong> hiji </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606272223854&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606272223854"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/27 (火) 22:38:54 <strong>▽</strong> hiji </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606272223854_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200606272223854"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ɍD���ȍ�i�v���A�l�n�m�c�n����̖G���G�������āA�ēo��I<br>
-��낱�΂����΂���ł��B<br>
+<font size=3 color=#606060>非常に好きな作品」が、ＭＯＮＤＯさんの萌え絵を加えて、再登場！<br>
+よろこばしいばかりです。<br>
 <br>
-���������Ό��̃V���[�Y�̑����͖���ł������E�E<br>
-�ĊJ�̗\�肠��ł����H<br>
+そういえば元のシリーズの続きは未定でしたが・・<br>
+再開の予定ありですか？<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -214,65 +214,65 @@ toshi9�����MONDO����ɂ͍ő勉�̊��ӂ̋C������\�����܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �������B1�ԏ��B</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> いえい。1番乗り。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/27 (��) 22:19:19 <strong>��</strong> ���َq�����������񂿂��B </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606272221919&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606272221919"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/27 (火) 22:19:19 <strong>▽</strong> お菓子をもったおんちゃん。 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606272221919_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200606272221919"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂���͉����������b���B<br>
-�܂��l����΁A���z���������ƂȂ������ł����A�ق�̏����y���B<br>
-�l�I�ɂ́A���̑O�ł̓Ƃ荐�������C�ɓ���ł��B<br>
-���񂿂��͐��ɂӂ��Ă�������̂ҁ[���������Ă��܂���ŁB<br>
-�ł������ɂ΂ꂿ�������ł��ˁB<br>
-�������B<br>
-�J�~���Ēn�ł܂�B���̌�A�����ɍD������ɂ���鉴�ȓW�J����]���܂��B<br>
+<font size=3 color=#606060>これはこれは懐かしいお話が。<br>
+まぁ考えれば、感想書いたことなかったですし、ほんの少し軽く。<br>
+個人的には、鏡の前での独り告白がお気に入りです。<br>
+おんちゃんは声にふぇてぃっしゅのぴーくをもっていますんで。<br>
+でも麻美にばれちゃったんですね。<br>
+しかし。<br>
+雨降って地固まる。その後、麻美に好き放題にされる俺な展開を希望します。<br>
 <br>
-�Ƃ���ŁB<br>
-<font color="#ff88cc">�������ĉ��́c�c�c�c</font><br>
-���ł��̌�̕`�ʂ��Ȃ���ł����B���̌オ1�ԑ�؂ȉӏ����Ǝv����ł����ǁB<br>
-����ψ���BP�ET�EA�̂����ł����B<br>
-�\���܂���B������������Ă��������B<br>
-���̂��߂ɔ��]�Ƃ����Z�p�����̒��ɂ���Ǝv����ł����B<br>
+ところで。<br>
+<font color="#ff88cc">＞そして俺は…………</font><br>
+何でこの後の描写がないんですか。この後が1番大切な箇所だと思うんですけど。<br>
+教育委員会。P・T・Aのせいですか。<br>
+構いません。無視しちゃってください。<br>
+何のために反転という技術が世の中にあると思うんですか。<br>
 <br>
-�Q��A�Q���B<br>
-���΂炵���ł��B�����܂����B����ȓ����ɕ�܂�ĐQ�Ă݂����B<br>
-���B������l�̉Ƃɓ����Ă����炢���̂��B<br>
-���񂿂��V�ˁB<br>
-����킯�ŁA������s���Ă��܂��B���{�j����B��ɂ��ė����B<br>
+寝顔、寝息。<br>
+すばらしいです。うらやましい。そんな匂いに包まれて寝てみたい。<br>
+あ。今から人の家に入ってきたらいいのか。<br>
+おんちゃん天才。<br>
+そゆわけで、今から行ってきます。日本男児よ。我について来い。<br>
 <br>
-����ɂ��Ă��A���́B</font>
+それにしても、何故。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w���`�x������ɂ͂������N���b�N�B</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『奥義』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/06/27 (��) 20:18:25 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200606272201825&log=toshi9">�ԐM</a>�@�폜<input type=checkbox name="target" value="200606272201825"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/06/27 (火) 20:18:25 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200606272201825_log_toshi9.cgi">返信</a>　削除<input type=checkbox name="target" value="200606272201825"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�m��l���m�邔���������X����̕��Ƀf�r���[��́A�s�v�c�ȏp���������l���̐��肷�܂��̌��L�B�c�c�Ƃ���ŃA�j���Ō������ʂ��Ă݂Ȃ���m���Ă܂��H�i�u����v�t���̂���Ȃ���c�c�΁j<br>
-<a href=http://ts.novels.jp/novel/200606/27201201/ougi01.htm target=_top>http://ts.novels.jp/novel/200606/27201201/ougi01.htm</a></font>
+<font size=3 color=#606060>【推薦文】知る人ぞ知るｔｏｓｈｉ９さんの文庫デビュー作は、不思議な術を会得した主人公の成りすまし体験記。……ところでアニメ版月光仮面ってみなさん知ってます？（「くん」付きのじゃないよ……笑）<br>
+<a href="../../novel/200606/27201201/ougi01.htm" target=_top>http://ts.novels.jp/novel/200606/27201201/ougi01.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="toshi9">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=toshi9">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_toshi9.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

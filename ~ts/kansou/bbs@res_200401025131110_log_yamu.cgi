@@ -1,52 +1,52 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�閲�����i�@���z�f����</title>
+<title>夜夢さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�閲�����i�@���z�f����</font>
+<font size=5>夜夢さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="yamu">
 <input type=hidden name="nj" value="yTcQWz6KXi">
 <input type=hidden name="res" value="221">
-<h4 align=center>�� �L���ԍ� 221 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 221 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�������߂łƂ��������܂��B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �l�n�m�c�n���^�c�ψ�����
-&gt; �@�ŏI�b�S�����G�t�ł��܂��B
-&gt; �@�u�t�����}���Z�[�I�@�s�r�����J�b�v���}�����[�I�v�ȃm���Ń��X�g�̃C���X�g�`�����̂ł����A�����Ɖ�������͂����Ɛg���������邻���ł��B
-&gt; �@�Ȃɂ͂Ƃ�����A�������߂łƂ��������܂��閲����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:完結おめでとうございます。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ＭＯＮＤＯ＠運営委員さん
+&gt; 　最終話担当＆絵師でおます。
+&gt; 　「可逆っ娘マンセー！　ＴＳっ娘カップルマンせー！」なノリでラストのイラスト描いたのですが、稲生くんと炎香さんはもっと身長差があるそうです。
+&gt; 　なにはともあれ、完結おめでとうございます夜夢さん。
 &gt; 
-&gt; ���ł�����A���݂����g��̂��̋@�\��OFF�ɂ���Ɓc
-&gt; ���@���i���j�~��i���j
-&gt; �������āA�݂��ɂ��̋@�\��ON�ɂ���Ɓc
-&gt; ���@��i���j�~�����i���j
-&gt; ���c�c�ƌ����g�ݍ��킹�ɂȂ�̂ł��I�i���j
+&gt; ＞ですから、お互い装身具のこの機能をOFFにすると…
+&gt; ＞　炎（♂）×稲生（♀）
+&gt; ＞そして、互いにその機能をONにすると…
+&gt; ＞　稲生（♂）×炎香（♀）
+&gt; ＞……と言う組み合わせになるのです！（爆）
 &gt; 
-&gt; �@�u���{�[�Ȑݒ�ł��I�@����ɂ��Ă�������A�L�����N�^�[���u�剻���v���܂����ˁB
-&gt; �@�u��ꂽ�v�ƌ����l�����邩�Ǝv���܂����A�킽���͂����Ă����]�����Ă��������܂��i�΁j�B
-&gt; �@�܂��܂��C�[�i�Z�҂��y���݂Ɂc�c���A���₢��A�{�ƃ~�X�g���X�V���[�Y���҂��Ă܂��B
+&gt; 　ブラボーな設定です！　それにしても炎くん、キャラクターが「大化け」しましたね。
+&gt; 　「壊れた」と言う人もいるかと思いますが、わたしはあえてこう評させていただきます（笑）。
+&gt; 　ますますイーナ短編が楽しみに……あ、いやいや、本家ミストレスシリーズも待ってます。
 &gt; 
-&gt; �@���w�E�̂������V���[�Y�^�C�g���̃����N�~�X�A�C�����Ă����܂����B</textarea><br>
+&gt; 　ご指摘のあったシリーズタイトルのリンクミス、修正しておきました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -59,183 +59,183 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[224]</font> <font size=4 color=#40c0c0> �Ԏ����x��܂������E�E�E</font>
+<font size=2>[224]</font> <font size=4 color=#40c0c0> 返事が遅れましたか・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/07 (��) 17:51:47 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401073175147&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401073175147"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/07 (水) 17:51:47 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401073175147_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401073175147"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ł��B<br>
-�d�g�d���l�����z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>どうも、夜夢です。<br>
+電波妖精様ご感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�Ƃ�����A��̒������b���I������Ƃ������Ƃō�҂���͂����l�ł����B</font><br>
-�����炱���A��i�ւ̊��z���񂹂Ē����āA���肪�Ƃ��������܂��B<br>
+<font color="#cc88ff">&gt;ともあれ、一つの長いお話も終わったということで作者さんはお疲れ様でした。</font><br>
+こちらこそ、作品への感想を寄せて頂けて、ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�����A���M�����o�g���ł����˂��B������悤�₭�I���������āA<br>
-&gt;�ӂށA���̐킢�̓A���o�C�g�Ƃ����킯�ł����B<br>
-&gt;����͂���Ӗ�TS�����ɂƂ��Ă͋��ʂ̎����Ƃ������邩�����ꂸ�A</font><br>
-�c�c�u���̐킢�v�ł����c�i������Ɖs���Ȃ��`�ƌ����v�l���߂���܂����B�j<br>
-�m���ɁATS�����̒�Ԃł����˃A���o�C�g�i�������A�E�F�C�g���X�j�c�ƌ����̂́c�c<br>
+<font color="#cc88ff">&gt;ああ、白熱したバトルでしたねえ。それもようやく終焉を見せて、<br>
+&gt;ふむ、次の戦いはアルバイトというわけですか。<br>
+&gt;これはある意味TS少女にとっては共通の試練とも言えるかもしれず、</font><br>
+……「次の戦い」ですか…（ちょっと鋭いなぁ〜と言う思考が過ぎりました。）<br>
+確かに、TS少女の定番ですかねアルバイト（しかも、ウェイトレス）…と言うのは……<br>
 <br>
-<font color="#cc88ff">&gt;�ԊO�҂Ƃ������ł��傤���B|�E_�E)�O���ɂȂ邫�ɂȂ�`�B</font><br>
-�ԊO�҂͂Ȃ��ł����A���d�Ҏ��̂��ԊO�ғI�ȍ�i�ł�����c�c<br>
-���Ƃ����ɂ��G��܂������A�~�X�g���X�V���[�Y�̕��ŁA�E�F�C�g���X�ƂȂ�����i�C�[�i�j�≊���i�t���C�j�A����ɉ��i�J�[�~���j�̊����`�����Ƃ�����Ǝv���܂��̂ŁA������y���݂ɂ��Ē�����΍K���ł��B</font>
+<font color="#cc88ff">&gt;番外編とかあるんでしょうか。|・_・)＾きになるきになる〜。</font><br>
+番外編はないですが、封妖編自体が番外編的な作品ですから……<br>
+あとがきにも触れましたが、ミストレスシリーズの方で、ウェイトレスとなった稲生（イーナ）や炎香（フレイ）、それに霞（カーミュ）の活躍を描くこともあると思われますので、それを楽しみにして頂ければ幸いです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[223]</font> <font size=4 color=#40c0c0> �Ǘ��ł�</font>
+<font size=2>[223]</font> <font size=4 color=#40c0c0> 読了です</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/05 (��) 08:00:24 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401051080024&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401051080024"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/05 (月) 08:00:24 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401051080024_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401051080024"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ǝ��Ԃ��������Ă��܂��܂������Ǘ��ł��B<br>
-�����A���M�����o�g���ł����˂��B������悤�₭�I���������āA<br>
-�ӂށA���̐킢�̓A���o�C�g�Ƃ����킯�ł����B<br>
-����͂���Ӗ�TS�����ɂƂ��Ă͋��ʂ̎����Ƃ������邩�����ꂸ�A<br>
-�ԊO�҂Ƃ������ł��傤���B|�E_�E)�O���ɂȂ邫�ɂȂ�`�B<br>
-�Ƃ�����A��̒������b���I������Ƃ������Ƃō�҂���͂����l�ł����B</font>
+<font size=3 color=#606060>ちと時間がかかってしまいましたが読了です。<br>
+ああ、白熱したバトルでしたねえ。それもようやく終焉を見せて、<br>
+ふむ、次の戦いはアルバイトというわけですか。<br>
+これはある意味TS少女にとっては共通の試練とも言えるかもしれず、<br>
+番外編とかあるんでしょうか。|・_・)＾きになるきになる〜。<br>
+ともあれ、一つの長いお話も終わったということで作者さんはお疲れ様でした。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[222]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[222]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/04 (��) 23:40:13 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401040234013&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401040234013"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/04 (日) 23:40:13 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401040234013_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401040234013"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ł������܂��B<br>
+<font size=3 color=#606060>どうも、夜夢でございます。<br>
 <br>
-<font color="#cc88ff">&gt; �@�ŏI�b�S�����G�t�ł��܂��B<br>
-&gt; �@�u�t�����}���Z�[�I�@�s�r�����J�b�v���}�����[�I�v�ȃm���Ń��X�g�̃C���X�g�`�����̂ł����A�����Ɖ�������͂����Ɛg���������邻���ł��B<br>
-&gt; �@�Ȃɂ͂Ƃ�����A�������߂łƂ��������܂��閲����B</font><br>
+<font color="#cc88ff">&gt; 　最終話担当＆絵師でおます。<br>
+&gt; 　「可逆っ娘マンセー！　ＴＳっ娘カップルマンせー！」なノリでラストのイラスト描いたのですが、稲生くんと炎香さんはもっと身長差があるそうです。<br>
+&gt; 　なにはともあれ、完結おめでとうございます夜夢さん。</font><br>
 &gt;<br>
-���������A�{��̕ҏW�̑��ɁA�C���X�g��`���Ē����Ă��肪�����v���Ă���܂��B<br>
+いえいえ、本作の編集の他に、イラストを描いて頂けてありがたく思っております。<br>
 <br>
-<font color="#cc88ff">&gt; ���ł�����A���݂����g��̂��̋@�\��OFF�ɂ���Ɓc<br>
-&gt; ���@���i���j�~��i���j<br>
-&gt; �������āA�݂��ɂ��̋@�\��ON�ɂ���Ɓc<br>
-&gt; ���@��i���j�~�����i���j<br>
-&gt; ���c�c�ƌ����g�ݍ��킹�ɂȂ�̂ł��I�i���j</font><br>
+<font color="#cc88ff">&gt; ＞ですから、お互い装身具のこの機能をOFFにすると…<br>
+&gt; ＞　炎（♂）×稲生（♀）<br>
+&gt; ＞そして、互いにその機能をONにすると…<br>
+&gt; ＞　稲生（♂）×炎香（♀）<br>
+&gt; ＞……と言う組み合わせになるのです！（爆）</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �@�u���{�[�Ȑݒ�ł��I�@����ɂ��Ă�������A�L�����N�^�[���u�剻���v���܂����ˁB<br>
-&gt; �@�u��ꂽ�v�ƌ����l�����邩�Ǝv���܂����A�킽���͂����Ă����]�����Ă��������܂��i�΁j�B<br>
-&gt; �@�܂��܂��C�[�i�Z�҂��y���݂Ɂc�c���A���₢��A�{�ƃ~�X�g���X�V���[�Y���҂��Ă܂��B<br>
-&gt; �@���w�E�̂������V���[�Y�^�C�g���̃����N�~�X�A�C�����Ă����܂����B</font><br>
-�c�c�u��ꂽ�v�c�c�Ǝv���Ă���l�̈�l�c�c�������肵�܂��B<br>
-���ǁA�܂����Œ����čK���ł��B<br>
-�ł��A�������Ď������y���݂ɂ��Ē����Ă��܂��̂ŁA�����𑁂߂ɔ��\�ł��܂��悤�撣�邱�Ƃɒv���܂��B<br>
-�c�c���̎��ɂ́A�܂��X�������肢���܂��B</font>
+<font color="#cc88ff">&gt; 　ブラボーな設定です！　それにしても炎くん、キャラクターが「大化け」しましたね。<br>
+&gt; 　「壊れた」と言う人もいるかと思いますが、わたしはあえてこう評させていただきます（笑）。<br>
+&gt; 　ますますイーナ短編が楽しみに……あ、いやいや、本家ミストレスシリーズも待ってます。<br>
+&gt; 　ご指摘のあったシリーズタイトルのリンクミス、修正しておきました。</font><br>
+……「壊れた」……と思っている人の一人……だったりします。<br>
+けど、まぁ喜んで頂けて幸いです。<br>
+でも、こうして次回作を楽しみにして頂いていますので、次回作を早めに発表できますよう頑張ることに致します。<br>
+……その時には、また宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[221]</font> <font size=4 color=#40c0c0> �������߂łƂ��������܂��B</font>
+<font size=2>[221]</font> <font size=4 color=#40c0c0> 完結おめでとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/02 (��) 13:11:10 <strong>��</strong> �l�n�m�c�n���^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401025131110&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401025131110"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/02 (金) 13:11:10 <strong>▽</strong> ＭＯＮＤＯ＠運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401025131110_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401025131110"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ŏI�b�S�����G�t�ł��܂��B<br>
-�@�u�t�����}���Z�[�I�@�s�r�����J�b�v���}�����[�I�v�ȃm���Ń��X�g�̃C���X�g�`�����̂ł����A�����Ɖ�������͂����Ɛg���������邻���ł��B<br>
-�@�Ȃɂ͂Ƃ�����A�������߂łƂ��������܂��閲����B<br>
+<font size=3 color=#606060>　最終話担当＆絵師でおます。<br>
+　「可逆っ娘マンセー！　ＴＳっ娘カップルマンせー！」なノリでラストのイラスト描いたのですが、稲生くんと炎香さんはもっと身長差があるそうです。<br>
+　なにはともあれ、完結おめでとうございます夜夢さん。<br>
 <br>
-<font color="#ff88cc">���ł�����A���݂����g��̂��̋@�\��OFF�ɂ���Ɓc<br>
-���@���i���j�~��i���j<br>
-�������āA�݂��ɂ��̋@�\��ON�ɂ���Ɓc<br>
-���@��i���j�~�����i���j<br>
-���c�c�ƌ����g�ݍ��킹�ɂȂ�̂ł��I�i���j</font><br>
+<font color="#ff88cc">＞ですから、お互い装身具のこの機能をOFFにすると…<br>
+＞　炎（♂）×稲生（♀）<br>
+＞そして、互いにその機能をONにすると…<br>
+＞　稲生（♂）×炎香（♀）<br>
+＞……と言う組み合わせになるのです！（爆）</font><br>
 <br>
-�@�u���{�[�Ȑݒ�ł��I�@����ɂ��Ă�������A�L�����N�^�[���u�剻���v���܂����ˁB<br>
-�@�u��ꂽ�v�ƌ����l�����邩�Ǝv���܂����A�킽���͂����Ă����]�����Ă��������܂��i�΁j�B<br>
-�@�܂��܂��C�[�i�Z�҂��y���݂Ɂc�c���A���₢��A�{�ƃ~�X�g���X�V���[�Y���҂��Ă܂��B<br>
+　ブラボーな設定です！　それにしても炎くん、キャラクターが「大化け」しましたね。<br>
+　「壊れた」と言う人もいるかと思いますが、わたしはあえてこう評させていただきます（笑）。<br>
+　ますますイーナ短編が楽しみに……あ、いやいや、本家ミストレスシリーズも待ってます。<br>
 <br>
-�@���w�E�̂������V���[�Y�^�C�g���̃����N�~�X�A�C�����Ă����܂����B</font>
+　ご指摘のあったシリーズタイトルのリンクミス、修正しておきました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[220]</font> <font size=4 color=#40c0c0> �����䊴�z���肪�Ƃ��������܂�</font>
+<font size=2>[220]</font> <font size=4 color=#40c0c0> 早速御感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/02 (��) 01:27:20 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401025012720&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401025012720"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/02 (金) 01:27:20 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401025012720_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401025012720"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ɂ������܂��B<br>
-mk8426�l�ASORA�l�A�Ђ̂ЂƗl�A�����̌䊴�z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>どうも、夜夢にございます。<br>
+mk8426様、SORA様、ひのひと様、早速の御感想ありがとうございます。<br>
 <br>
-<font color="#cc88ff">&gt;�����I���Ɍ��������܂����ȁI�I<br>
-&gt;�݂�Ȃ��{���ɑS�Ă̗͂��g���ʂ����������Ƃ����̂��Ђ��Ђ��Ɠ`����Ă��܂����B</font><br>
-<font color="#ff88cc">���܂��Ɏ�Ɋ����錃���ł��ˁB</font><br>
-<font color="#cc88ff">&gt;����͂�A�ꎞ�͂ǂ��Ȃ邩�Ǝv���܂������ǁA���G���Ȃ�Ƃ��Ȃ�܂������c</font><br>
-���X�g�̑΃����V����c�c��Ɋ����銴�����\���ł����悤�ŗǂ������ł��B<br>
-�����A�����V�����Ȃ��Ȃ��|��Ȃ��̂ŁA�����|��邩�c�����|��邩�c�ƃn���n�����Ȃ��珑���Ă�����ł��B�i�΁j<br>
+<font color="#cc88ff">&gt;おお！ついに決着がつきましたな！！<br>
+&gt;みんなが本当に全ての力を使い果たした勝利というのがひしひしと伝わってきました。</font><br>
+<font color="#ff88cc">＞まさに手に汗握る激闘ですね。</font><br>
+<font color="#cc88ff">&gt;いやはや、一時はどうなるかと思いましたけど、強敵もなんとかなりましたし…</font><br>
+ラストの対ランシン戦……手に汗握る感じが表現できたようで良かったです。<br>
+正直、ランシンがなかなか倒れないので、何時倒れるか…何時倒れるか…とハラハラしながら書いていたんです。（笑）<br>
 <br>
-<font color="#cc88ff">&gt;����ɂ��Ă��c�c�����Ă邨�X���A���X�����ɁA�Ђ���Ƃ��č���A�����̐��ɂȂ��āA��������͒j���̃J�b�v���Ɂc�c�Ȃ�Ă��Ƃ͂���܂��񂩁B����܂����ˁB���炵�܂����B</font><br>
-�c�܂��A����͂���܂���B�i�J�n�C�^�����q�j<br>
-�i���@�̓X�̏�A�l�ł�����ޏ����ɖ�𐷂�ƌ����̂́A���΂̃~�X�g���X�����Ȃ��ł��傤�B�j<br>
-�ł��A�v���o���ĉ������B<br>
-���́A�y���_���g�̗͂ŉ����ɕϐg���c<br>
-��́A�u���X���b�g�̗͂Œj�̎p�ɕϐg���Ă���ƌ������Ɓc<br>
-�i�ޓ��^�ޏ����̎��ϐg�p�̃A�C�e���́A���]����p���I�v�V�����Ƃ��Ď����Ă����ł��B�j<br>
+<font color="#cc88ff">&gt;それにしても……働いてるお店が、お店だけに、ひょっとして今後、動物の精になって、見かけ上は男女のカップルに……なんてことはありませんか。ありませんよね。失礼しました。</font><br>
+…まぁ、それはありません。（カハイタワラヒ）<br>
+（魔法の店の常連様でもある彼女等に薬を盛ると言うのは、流石のミストレスもやらないでしょう。）<br>
+でも、思い出して下さい。<br>
+炎は、ペンダントの力で炎香に変身し…<br>
+稲生は、ブレスレットの力で男の姿に変身していると言うこと…<br>
+（彼等／彼女等の持つ変身用のアイテムは、性転換作用をオプションとして持っているんです。）<br>
 <br>
-�ł�����A���݂����g��̂��̋@�\��OFF�ɂ���Ɓc<br>
-�@���i���j�~��i���j<br>
-�����āA�݂��ɂ��̋@�\��ON�ɂ���Ɓc<br>
-�@��i���j�~�����i���j<br>
-�c�c�ƌ����g�ݍ��킹�ɂȂ�̂ł��I�i���j<br>
+ですから、お互い装身具のこの機能をOFFにすると…<br>
+　炎（♂）×稲生（♀）<br>
+そして、互いにその機能をONにすると…<br>
+　稲生（♂）×炎香（♀）<br>
+……と言う組み合わせになるのです！（爆）<br>
 <br>
-<font color="#cc88ff">&gt;���݂イ�B�~�X�g���X�n�E�X�ɐV�����E�F�C�g���X���R�l���i�΁j�B<br>
-&gt;�������A���̂Q�l�̊֌W�͈�����ƌ������Ɖ��̎v���Ƃ���ɂȂ肻���ȁi�΁j�B</font><br>
-����́c�c���̒ʂ�ł��傤�ˁB<br>
-����́A���ݒ�I�Ȃ��̂ł����c�c<br>
-�p�_�ƁE�����ƁE�|�Ƃ֑���ꂽ�����ŁA�~�X�g���X�̐����z���ł����z�������̂́A�p�_�Ƃ������ƌ������Ɓc�����āA�����Ƃ͌��\�Ȏ��Y�ƂŐ����z�̎x���ɑ΂��ē��ɒ��y�Ƃ�����̂���Ȃ��̂ł��B<br>
+<font color="#cc88ff">&gt;うみゅう。ミストレスハウスに新しいウェイトレスが３人も（笑）。<br>
+&gt;しかし、この２人の関係は稲生が何と言おうと炎の思うとおりになりそうな（笑）。</font><br>
+それは……その通りでしょうね。<br>
+これは、裏設定的なものですが……<br>
+叢雲家・光風家・青弓家へ送られたうちで、ミストレスの請求額が最も高額だったのは、叢雲家だったと言うこと…そして、光風家は結構な資産家で請求額の支払に対して特に痛痒とするものじゃないのです。<br>
 <br>
-�c�Ȃ̂ɁA���̂����ɉ���������̂��c�H<br>
-����́A�p�_�Ƃւ̐������������肷��ׂɊ���o���Ă���̂ł�!!<br>
-�����āA���̎؂���A�u�g�̂ŕ����ĖႨ���v�ƌ������_���������肵�āc�c�i���j<br>
-�i�c�c�����ŒN�Ɂc���͌����K�v�͂���܂����ˁc�j<br>
+…なのに、何故そこに炎香がいるのか…？<br>
+それは、叢雲家への請求分を肩代わりする為に顔を出しているのです!!<br>
+そして、この借りを、「身体で払って貰おう」と言う魂胆があったりして……（爆）<br>
+（……ここで誰に…かは言う必要はありませんよね…）<br>
 <br>
-<font color="#cc88ff">&gt;�u�Q�N��v�𐥔�Ƃ����Ă݂����i���j�B</font><br>
-<font color="#ff88cc">���ԊO�҂œ�N������Ă݂����Ȃ��ƃ��N�G�X�g���Ă݂�e�X�g�B:-)</font><br>
-�c�c���`��A�����������z���Ԃ��ė���̂͗\�z���Ă��܂���ł����B<br>
-��N��ƌ����̂́A����18�΂ɂȂ�c���Č������ƂŌ��킹���̂ł����c�c<br>
-��̓I�ɂ́A���̎��̏�i���ēz�͂܂�������ŗ��ĂȂ���ł���ˁc<br>
-�C���������珑����������܂���̂ŁA���҂��Ȃ��ő҂��ĖႤ�����Ȃ��ł��傤�i�C�}�m�g�R���n�j�B</font>
+<font color="#cc88ff">&gt;「２年後」を是非とも見てみたい（爆）。</font><br>
+<font color="#ff88cc">＞番外編で二年後を見てみたいなぁとリクエストしてみるテスト。:-)</font><br>
+……う〜ん、こう言う感想が返って来るのは予想していませんでした。<br>
+二年後と言うのは、炎が18歳になる…って言うことで言わせたのですが……<br>
+具体的には、その時の状景って奴はまだ浮かんで来てないんですよね…<br>
+気が向いたら書くかもしれませんので、期待しないで待って貰うしかないでしょう（イマノトコロハ）。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[219]</font> <font size=4 color=#40c0c0> �I������̂ł��ˁc</font>
+<font size=2>[219]</font> <font size=4 color=#40c0c0> 終わったのですね…</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/01 (��) 23:20:08 <strong>��</strong> <a href="mailto:hinohito@yahoo.co.jp">�Ђ̂Ђ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401014232008&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401014232008"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/01 (木) 23:20:08 <strong>▽</strong> <a href="mailto:hinohito@yahoo.co.jp">ひのひと</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401014232008_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401014232008"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��̑傫�Ȃ��b���B<br>
-����͂�A�ꎞ�͂ǂ��Ȃ邩�Ǝv���܂������ǁA���G���Ȃ�Ƃ��Ȃ�܂������A�I�[���X�^�[�E�L���X�g�A���낢�܂������A�Ƃ�������c�~�Ȃ̂ł��B<br>
+<font size=3 color=#606060>一つの大きなお話が。<br>
+いやはや、一時はどうなるかと思いましたけど、強敵もなんとかなりましたし、オールスター・キャスト、そろいましたし、ともかく大団円なのです。<br>
 <br>
-����ɂ��Ă��c�c�����Ă邨�X���A���X�����ɁA�Ђ���Ƃ��č���A�����̐��ɂȂ��āA��������͒j���̃J�b�v���Ɂc�c�Ȃ�Ă��Ƃ͂���܂��񂩁B����܂����ˁB���炵�܂����B<br>
+それにしても……働いてるお店が、お店だけに、ひょっとして今後、動物の精になって、見かけ上は男女のカップルに……なんてことはありませんか。ありませんよね。失礼しました。<br>
 <br>
-�Ƃ��������B��i���A����ꂳ�܂ł����B<br>
+ともかくも。一段落、お疲れさまでした。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -243,34 +243,34 @@ mk8426�l�ASORA�l�A�Ђ̂ЂƗl�A�����̌䊴�z���肪�Ƃ��������܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[218]</font> <font size=4 color=#40c0c0> �C�[�i�ŏI�b���z</font>
+<font size=2>[218]</font> <font size=4 color=#40c0c0> イーナ最終話感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/01 (��) 22:43:17 <strong>��</strong> SORA���A�Ȓ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401014224317&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401014224317"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/01 (木) 22:43:17 <strong>▽</strong> SORA＠帰省中 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401014224317_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401014224317"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂��Ɏ�Ɋ����錃���ł��ˁB<br>
-�ԊO�҂œ�N������Ă݂����Ȃ��ƃ��N�G�X�g���Ă݂�e�X�g�B:-)</font>
+<font size=3 color=#606060>まさに手に汗握る激闘ですね。<br>
+番外編で二年後を見てみたいなぁとリクエストしてみるテスト。:-)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[217]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[217]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/01 (��) 22:25:23 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401014222523&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401014222523"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/01 (木) 22:25:23 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401014222523_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401014222523"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����I���Ɍ��������܂����ȁI�I<br>
-�݂�Ȃ��{���ɑS�Ă̗͂��g���ʂ����������Ƃ����̂��Ђ��Ђ��Ɠ`����Ă��܂����B<br>
-�����āA�����̌�͂��񑩁E�E�E�i�΁j�B<br>
-���݂イ�B�~�X�g���X�n�E�X�ɐV�����E�F�C�g���X���R�l���i�΁j�B<br>
-�������A���̂Q�l�̊֌W�͈�����ƌ������Ɖ��̎v���Ƃ���ɂȂ肻���ȁi�΁j�B<br>
-�u�Q�N��v�𐥔�Ƃ����Ă݂����i���j�B</font>
+<font size=3 color=#606060>おお！ついに決着がつきましたな！！<br>
+みんなが本当に全ての力を使い果たした勝利というのがひしひしと伝わってきました。<br>
+そして、激闘の後はお約束・・・（笑）。<br>
+うみゅう。ミストレスハウスに新しいウェイトレスが３人も（笑）。<br>
+しかし、この２人の関係は稲生が何と言おうと炎の思うとおりになりそうな（笑）。<br>
+「２年後」を是非とも見てみたい（爆）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -278,48 +278,48 @@ mk8426�l�ASORA�l�A�Ђ̂ЂƗl�A�����̌䊴�z���肪�Ƃ��������܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[216]</font> <font size=4 color=#40c0c0> �w�d���̖��@�����G���N�g���b�N�E�C�[�i�@�\�񕕗d�ґ�\��b�x������ɂ͉��̃A�h���X���N���b�N�B</font>
+<font size=2>[216]</font> <font size=4 color=#40c0c0> 『電光の魔法少女エレクトリック・イーナ　十二封妖編第十二話』を見るには下のアドレスをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/01 (��) 21:14:35 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401014211435&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401014211435"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/01 (木) 21:14:35 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401014211435_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200401014211435"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���������ʃ��X�g�o�g������A�{���i�H�j�̃G���f�B���O�܂Ŗڂ������Ȃ������I�I�@�c�c�����ȈӖ��Łi�΁j�B<br>
-<a href=http://ts.novels.jp/novel/200112/18123055/e-ena12.htm target=_top>http://ts.novels.jp/novel/200112/18123055/e-ena12.htm</a></font>
+<font size=3 color=#606060>【推薦文】息もつかせぬラストバトルから、怒濤（？）のエンディングまで目が離せないぞっ！！　……いろんな意味で（笑）。<br>
+<a href="../../novel/200112/18123055/e-ena12.htm" target=_top>http://ts.novels.jp/novel/200112/18123055/e-ena12.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[215]</font> <font size=4 color=#40c0c0> �䊴�z���肪�Ƃ��������܂�</font>
+<font size=2>[215]</font> <font size=4 color=#40c0c0> 御感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/12/25 (��) 17:50:49 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200312254175049&log=yamu">�ԐM</a>�@�폜<input type=checkbox name="target" value="200312254175049"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/12/25 (木) 17:50:49 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp ">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200312254175049_log_yamu.cgi">返信</a>　削除<input type=checkbox name="target" value="200312254175049"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ����A�閲�ł������܂��B<br>
+<font size=3 color=#606060>どうも、夜夢でございます。<br>
 <br>
-�d�g�d���l�A�䊴�z���肪�Ƃ��������܂��B<br>
-<font color="#cc88ff">&gt;���炸�ɕ���ł��@���i߄D�;<br>
-&gt;�����Ɉꖕ�̂͂��Ȃ��U���Ă����悤�ȖG���̉Ԃ��炢�����ۂ��c�c�B</font><br>
-�E�E�E�G���̉Ԃ��炫�܂������E�E�E�i�j�����j<br>
-�E�E�E���������ĉ�����Ƃ́A���h�̎���ł��ˁB�i������Ƃ΂���_���ď����܂����̂ŁE�E�E�j<br>
+電波妖精様、御感想ありがとうございます。<br>
+<font color="#cc88ff">&gt;殴らずに平手打ち　Σ（ﾟДﾟ;<br>
+&gt;そこに一抹のはかなく散っていくような萌えの花が咲いたっぽく……。</font><br>
+・・・萌えの花が咲きましたか・・・（ニヤリ）<br>
+・・・そう言って下さるとは、光栄の至りですね。（ちょっとばかり狙って書きましたので・・・）<br>
 <br>
-<font color="#cc88ff">&gt;����͂����ƍ��񂪃��X�g�̓G���Ƃ������ƂŁA�Ȃ�Ƃ������Ȃ��قǂ̋��G�������łȁB����͂�c�c�ǂ�����ē|���̂���ӁB</font><br>
+<font color="#cc88ff">&gt;それはそうと今回がラストの敵だということで、なんとも言えないほどの強敵さ加減でつな。いやはや……どうやって倒すのだろふ。</font><br>
 <br>
-�E�E�E�������܁A�퓬�V�[�����̓�����M���E�E�E<br>
-�u�{�C�ŁA�R�C�c�|����񂾂낤���H�v�E�E�E�ƁA��Ҏ��g������ł݂��肵�Ă���Œ��������肵�āE�E�E�i�΁j<br>
+・・・ただいま、戦闘シーン其の二を執筆中・・・<br>
+「本気で、コイツ倒せるんだろうか？」・・・と、作者自身が叫んでみたりしている最中だったりして・・・（笑）<br>
 <br>
-�ŏI�b�́A�����Ɏ��M�o���Ă���܂��B�y���݂ɂ��Ē�����΍K���ł��B</font>
+最終話は、順調に執筆出来ております。楽しみにして頂ければ幸いです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="yamu">
@@ -327,16 +327,16 @@ mk8426�l�ASORA�l�A�Ђ̂ЂƗl�A�����̌䊴�z���肪�Ƃ��������܂��B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="yamu">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=yamu">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_yamu.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

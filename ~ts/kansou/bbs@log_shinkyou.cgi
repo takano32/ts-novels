@@ -51,7 +51,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>読みが間違っていたので、新規に作成しておきました。<br>
-<a href=http://www.novels.jp/~ts/kansou/bbs.cgi?log=maki_takashi target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=maki_takashi</a></font>
+<a href="bbs@log_maki_takashi.cgi" target=_top>http://www.novels.jp/~ts/kansou/bbs.cgi?log=maki_takashi</a></font>
 </td></table>
 </td></tr></table>
 

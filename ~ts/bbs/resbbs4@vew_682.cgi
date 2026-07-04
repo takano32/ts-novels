@@ -45,10 +45,10 @@ document.inputform.comment.focus();
 <a href=mailto:kou_sa_to@yahoo.co.jp>kou@運営委員</a>
  さん</font>
  <font size=2>2003年6月3日(火) 20時4分</font>
-<a href=http://ts.novels.jp/ target=_top>HomePage</a>
+<a href="../../index.html" target=_top>HomePage</a>
  <input type=button value=返信 onclick='location.href="resbbs4@vew_682.cgi"'>
 </td></tr><tr><td>
-<ul><br><font size=3>　kou@運営委員です。<br><br>　運営委員内で、第二掲示板という名前は、初心者（初の方）にとっても、とてもわかりにくい、また、第二掲示板は事実上、番外編などの作品を掲載しているということになっているので、名前を変更し、CGIも使いやすいものに変更することになりました。<br><br>新：<a href=http://www.novels.jp/~ts/bbs/2ndbbs/ target=_top>http://www.novels.jp/~ts/bbs/2ndbbs/</a></font></ul>
+<ul><br><font size=3>　kou@運営委員です。<br><br>　運営委員内で、第二掲示板という名前は、初心者（初の方）にとっても、とてもわかりにくい、また、第二掲示板は事実上、番外編などの作品を掲載しているということになっているので、名前を変更し、CGIも使いやすいものに変更することになりました。<br><br>新：<a href="2ndbbs/index.html" target=_top>http://www.novels.jp/~ts/bbs/2ndbbs/</a></font></ul>
 </dl>
 </td></tr></table><br>
 </td></tr></table>

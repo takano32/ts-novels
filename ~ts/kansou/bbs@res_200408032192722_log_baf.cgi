@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>BAF�����i�@���z�f����</title>
+<title>BAFさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>BAF�����i�@���z�f����</font>
+<font size=5>BAFさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="baf">
 <input type=hidden name="nj" value="sYiEwHeukN">
 <input type=hidden name="res" value="97">
-<h4 align=center>�� �L���ԍ� 97 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 97 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���w�[���s���r���`��IV�x"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �i�E�e����
-&gt; �҂��Ă܂����A���̃V���[�Y�I
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:＞『納涼ＴｏＳｉ伝説IV』"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ Ｊ・Ｆさん
+&gt; 待ってました、このシリーズ！
 &gt; 
-&gt; ����̖ڋʂ͂P�P��ł��ˁB���[�A�ǂ�ł݂������i�΁j
-&gt; �d�q�����ăl�b�g�ɗ������琦�����ƂɂȂ肻���ȁH</textarea><br>
+&gt; 今回の目玉は１１夜ですね。あー、読んでみたいっ（笑）
+&gt; 電子化してネットに流したら凄いことになりそうな？</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -51,41 +51,41 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[103]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/29 (��) 04:48:48 <strong>��</strong> �I </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408290044848&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408290044848"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/29 (日) 04:48:48 <strong>▽</strong> 鍼 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408290044848_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408290044848"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���߂܂��āB<br>
-�M���O�I�ȗv�f������A�ʔ��������ł��B<br>
-�u�����Ă������̂��v�ɂ͑�΂����܂����B<br>
-�f���炵���s�r�����ł��B<br>
-����ɂ��Ă��A���h�����������̎q���ĥ�����<br>
+<font size=3 color=#606060>初めまして。<br>
+ギャグ的な要素があり、面白かったです。<br>
+「干してあったのだ」には大笑いしました。<br>
+素晴らしいＴＳ小説です。<br>
+それにしても、名刺を持った女の子って･･････<br>
 <br>
-<font color="#ff88cc">����\�Z�ǎҗl</font><br>
-���̓����`�́y�o�i�p���̕s�C���ȕ��͋C�j�ɕ|�C�Â��p���ԁz��}��A����ȥ��(����)����Ȃǂƍ��ꂵ�Ă����B<br>
-�������Ȃ����Ă܂���ˁH<br>
-�u�p���́v�Ɓu�s�C���ȁv�̊Ԃ̋�Ԃ�������΂悩�����̂ł��ˁB<br>
-���傤�ǂQ�����󂢂Ă��܂��ˁA�u���v����ꂽ��҂�����ł��傤�B<br>
-�ł����̒��x�̊ԈႢ�Ȃ�뎚���炢�̊��o�ŁA���Ȃ��ǂ߂�Ǝv���܂����B</font>
+<font color="#ff88cc">＞九十六読者様</font><br>
+この日もＡは【｛（廃屋の不気味な雰囲気）に怖気づく｝仲間】を嘲り、こんな･･･(中略)･･･などと豪語していた。<br>
+･･････つながってますよね？<br>
+「廃屋の」と「不気味な」の間の空間が無ければよかったのですね。<br>
+ちょうど２字分空いていますね、「持つ」を入れたらぴったりでしょう。<br>
+でもこの程度の間違いなら誤字くらいの感覚で、問題なく読めると思いますが。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[102]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ���������ł��B</font>
+<font size=2>[102]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> おかしいです。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/29 (��) 01:57:45 <strong>��</strong> ��\�Z�ǎ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408290015745&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408290015745"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/29 (日) 01:57:45 <strong>▽</strong> 九十六読者 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408290015745_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408290015745"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��P�V�b<br>
-<font color="#cc88ff">&gt;�����Ă���B���̓����`�͔p���́@�@�s�C���ȕ��͋C�ɕ|�C�Â����Ԃ�����}��A����ȂƂ���͕ʂɂǂ����Ď��͂Ȃ��Ȃǂƍ��ꂵ�Ă����B</font><br>
+<font size=3 color=#606060>第１７話<br>
+<font color="#cc88ff">&gt;嫌われている。この日もＡは廃屋の　　不気味な雰囲気に怖気づく仲間たちを嘲り、こんなところは別にどうって事はないなどと豪語していた。</font><br>
 <br>
-�u�p���́v�̌�̓��{�ꂪ���������Ȃ��ł����H<br>
-�u�s�C���ȕ��͋C�ɕ|�C�Â����Ԃ�����}��A�v�̏q���ƂȂ���܂��񂪁B<br>
-�Œ�ł����e�O�Ɍ������΋C�Â����ł����E�E�E�B<br>
+「廃屋の」の後の日本語がおかしくないですか？<br>
+「不気味な雰囲気に怖気づく仲間たちを嘲り、」の述部とつながりませんが。<br>
+最低でも投稿前に見直せば気づく筈ですが・・・。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -93,17 +93,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[101]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �ʔ����I</font>
+<font size=2>[101]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 面白い！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/28 (�y) 23:20:59 <strong>��</strong> yosioka </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408286232059&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408286232059"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/28 (土) 23:20:59 <strong>▽</strong> yosioka </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408286232059_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408286232059"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>ToSi�`���A�ʔ����ł��B<br>
-�قƂ�ǒm���Ă�����k�Ȃ̂ɂ�����̕����]�N�b�g�����肵�܂��B<br>
-����`�{���͂��������{���̉��k�Ȃ̂��ȁH�i����ɏ΂�����������肵�āj<br>
-BAF����A���N�����肢���܂��ˁI<br>
+<font size=3 color=#606060>ToSi伝説、面白いです。<br>
+ほとんど知っている怪談なのにこちらの方がゾクットしたりします。<br>
+いや〜本当はこっちが本当の怪談なのかな？（それに笑ったりもしたりして）<br>
+BAFさん、来年もお願いしますね！<br>
 </font>
 <p><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a>
 </td></table>
@@ -112,122 +112,122 @@ BAF����A���N�����肢���܂��ˁI<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[100]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �w�[���s���r���`�� �u &amp; VI &amp; VII�x��ǂނɂ͉��̃����N���N���b�N����̂��I</font>
+<font size=2>[100]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 『納涼ＴｏＳｉ伝説 Ｖ &amp; VI &amp; VII』を読むには下のリンクをクリックするのだ！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/28 (�y) 22:21:38 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408286222138&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408286222138"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/28 (土) 22:21:38 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408286222138_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408286222138"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z ���̍��͗������Ȃ��Ă��܂����B���A���������Ȃ�Ȃ��Ƃ͌����؂�Ȃ��I�@�Ȃ�΂��I�@�����ǂ�ŗ������ł͂Ȃ����F�̏O�I<br>
+<font size=3 color=#606060>【推薦文】 この頃は涼しくなってきました。が、もう暑くならないとは言い切れない！　ならばっ！　これを読んで涼もうではないか皆の衆！<br>
 <br>
-<a href=http://ts.novels.jp/novel/200011/15112734/nouryo5.html target=_top>http://ts.novels.jp/novel/200011/15112734/nouryo5.html</a></font>
+<a href="../../novel/200011/15112734/nouryo5.html" target=_top>http://ts.novels.jp/novel/200011/15112734/nouryo5.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[99]</font> <font size=4 color=#40c0c0> ���ǂ݂����������肪�Ƃ��������܂�</font>
+<font size=2>[99]</font> <font size=4 color=#40c0c0> お読みいただきありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/06 (��) 01:30:21 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408065013021&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408065013021"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/06 (金) 01:30:21 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408065013021_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408065013021"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������������̊��z���肪�Ƃ��������܂��B<br>
-��\���̏������ĉ؁Z����񂶂�Ȃ��́H�Ȃ�ē˂����݂����邩�Ǝv���Ă�����ł�������Ȃ����Ƃɂ�����ƃK�b�J���̂a�`�e�ł��i�O�O�G�ǂ������i�Q�j��<br>
+<font size=3 color=#606060>今回もたくさんの感想ありがとうございます。<br>
+第十二夜の少女って華〇ちゃんじゃないの？なんて突っ込みが入るかと思っていたんですが入らないことにちょっとガッカリのＢＡＦです（＾＾；どうもｍ（＿）ｍ<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U�������<br>
-�����ς�炸������Ɨ������Ȃ邨�b�ŁA��������ƖG���Ă��肵�āi���j�B<br>
-������͂܂��܂������ė~�����V���[�Y�ł��ˁB</font><br>
+<font color="#ff88cc">＞ｍｋ８４２６＠自宅さん<br>
+＞相変わらずちょっと涼しくなるお話で、かつちょっと萌えてたりして（爆）。<br>
+＞これはまだまだ続けて欲しいシリーズですね。</font><br>
 <br>
-�G���Ă����������Ƃ͌��h�ł��B<br>
-�l�^�����莟��܂����e�����Ă��������܂��̂ł��肢�������܂��B<br>
+萌えていただけたとは光栄です。<br>
+ネタがあり次第また投稿させていただきますのでお願いいたします。<br>
 <br>
-<font color="#ff88cc">��Kardy����<br>
-�������ā`�I�I<br>
-�����̎񕷂��ā`���I�I</font><br>
+<font color="#ff88cc">＞Kardyさん<br>
+＞聞きて〜！！<br>
+＞牛の首聞きて〜っ！！</font><br>
 <br>
-�����ł��ˁB�����ŏ����Ƃ��ĂȂ�ł����ǂǂ�Ȃ��b�Ȃ񂾂낤�H�i�O�O�j<br>
+そうですね。自分で書いといてなんですけどどんなお話なんだろう？（＾＾）<br>
 <br>
-<font color="#ff88cc">���i�E�e����<br>
-���҂��Ă܂����A���̃V���[�Y�I</font><br>
+<font color="#ff88cc">＞Ｊ・Ｆさん<br>
+＞待ってました、このシリーズ！</font><br>
 <br>
-�ǂ����A�܂����t�������������肠�肪�Ƃ��������܂��B<br>
+どうも、またお付き合いくださりありがとうございます。<br>
 <br>
-<font color="#ff88cc">������̖ڋʂ͂P�P��ł��ˁB���[�A�ǂ�ł݂������i�΁j<br>
-���d�q�����ăl�b�g�ɗ������琦�����ƂɂȂ肻���ȁH</font><br>
+<font color="#ff88cc">＞今回の目玉は１１夜ですね。あー、読んでみたいっ（笑）<br>
+＞電子化してネットに流したら凄いことになりそうな？</font><br>
 <br>
-�����ăl�b�g�Ō������Ȃ��ł��������ˁB���ɂ����낵�����k��ǂ܂���Ă��l�͐ӔC�𕉂����˂܂��̂ŁE�E�E�i�O�O�j<br>
+決してネットで検索しないでくださいね。世にも恐ろしい怪談を読まされても僕は責任を負いかねますので・・・（＾＾）<br>
 <br>
-<font color="#ff88cc">����ǐ�����<br>
-���P�O�邪�ƂĂ���ۓI�ł����B�{���͂ǂ��������񂾂낤�Ƃ��l���������܂����B�P�g���C����A��ĉƓ��ɏo��̂��������킭�Ȃ�܂����B</font><br>
+<font color="#ff88cc">＞雅良生さん<br>
+＞１０夜がとても印象的でした。本当はどうだったんだろうとか考えさせられました。単身赴任から帰宅して家内に出会うのが少しこわくなりました。</font><br>
 <br>
-���������Ƥ������𑕂��Ă����Ǝv���܂��̂ő��v���Ǝv���܂���i�O�O�j</font>
+多分ちゃんと､奥さんを装ってくれると思いますので大丈夫だと思いますよ（＾＾）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[98]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[98]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/04 (��) 06:15:45 <strong>��</strong> <a href="mailto:garyosei@agate.plala.or.jp">��ǐ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408043061545&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408043061545"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/04 (水) 06:15:45 <strong>▽</strong> <a href="mailto:garyosei@agate.plala.or.jp">雅良生</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408043061545_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408043061545"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�P�O�邪�ƂĂ���ۓI�ł����B�{���͂ǂ��������񂾂낤�Ƃ��l���������܂����B�P�g���C����A��ĉƓ��ɏo��̂��������킭�Ȃ�܂����B</font>
+<font size=3 color=#606060>１０夜がとても印象的でした。本当はどうだったんだろうとか考えさせられました。単身赴任から帰宅して家内に出会うのが少しこわくなりました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[97]</font> <font size=4 color=#40c0c0> ���w�[���s���r���`��IV�x</font>
+<font size=2>[97]</font> <font size=4 color=#40c0c0> ＞『納涼ＴｏＳｉ伝説IV』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/03 (��) 19:27:22 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408032192722&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408032192722"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/03 (火) 19:27:22 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408032192722_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408032192722"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�҂��Ă܂����A���̃V���[�Y�I<br>
+<font size=3 color=#606060>待ってました、このシリーズ！<br>
 <br>
-����̖ڋʂ͂P�P��ł��ˁB���[�A�ǂ�ł݂������i�΁j<br>
-�d�q�����ăl�b�g�ɗ������琦�����ƂɂȂ肻���ȁH</font>
+今回の目玉は１１夜ですね。あー、読んでみたいっ（笑）<br>
+電子化してネットに流したら凄いことになりそうな？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[96]</font> <font size=4 color=#40c0c0> ��񂾂��[�́�</font>
+<font size=2>[96]</font> <font size=4 color=#40c0c0> よんだっつーの♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/01 (��) 03:26:13 <strong>��</strong> Kardy </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408010032613&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408010032613"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/01 (日) 03:26:13 <strong>▽</strong> Kardy </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408010032613_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408010032613"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ā`�I�I<br>
-���̎񕷂��ā`���I�I</font>
+<font size=3 color=#606060>聞きて〜！！<br>
+牛の首聞きて〜っ！！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[95]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[95]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/08/01 (��) 00:02:47 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200408010000247&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200408010000247"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/08/01 (日) 00:02:47 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200408010000247_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200408010000247"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A���N���܂����̋G�߂�������ł��˂��i�΁j�B<br>
-���ς�炸������Ɨ������Ȃ邨�b�ŁA��������ƖG���Ă��肵�āi���j�B<br>
-����͂܂��܂������ė~�����V���[�Y�ł��ˁB<br>
-����ɂ��Ă��l�^�������܂��ȁi���j�B</font>
+<font size=3 color=#606060>ああ、今年もまたこの季節が来たんですねぇ（笑）。<br>
+相変わらずちょっと涼しくなるお話で、かつちょっと萌えてたりして（爆）。<br>
+これはまだまだ続けて欲しいシリーズですね。<br>
+それにしてもネタが続きますな（ぉ）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -235,22 +235,22 @@ BAF����A���N�����肢���܂��ˁI<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[94]</font> <font size=4 color=#40c0c0> �w�[���s���r���`��IV�x��ǂނɂ͉��̃����N���N���b�N.</font>
+<font size=2>[94]</font> <font size=4 color=#40c0c0> 『納涼ＴｏＳｉ伝説IV』を読むには下のリンクをクリック.</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/31 (�y) 14:57:22 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407316145722&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407316145722"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/31 (土) 14:57:22 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407316145722_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200407316145722"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �ُ�C�ۂƂ������邱�̏����B�ǁ[�ɂ��Ȃ�񂩂ƒQ���M���ɂ��̈��i�B<br>
+<font size=3 color=#606060>【推薦文】 異常気象とも言えるこの暑さ。どーにかならんかと嘆く貴方にこの一作品。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200011/15112734/nouryo4.html target=_top>http://ts.novels.jp/novel/200011/15112734/nouryo4.html</a></font>
+<a href="../../novel/200011/15112734/nouryo4.html" target=_top>http://ts.novels.jp/novel/200011/15112734/nouryo4.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="baf">
@@ -258,16 +258,16 @@ BAF����A���N�����肢���܂��ˁI<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="baf">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=baf">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_baf.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

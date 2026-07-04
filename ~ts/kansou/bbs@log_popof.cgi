@@ -52,7 +52,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】他の病院や医院とは違うあの独得の金属＋消毒液の匂いが、あなたを恐怖のズンドコに誘うのです（笑）。<br>
-<a href=http://ts.novels.jp/novel/200506/21202425/poan04.htm target=_top>http://ts.novels.jp/novel/200506/21202425/poan04.htm</a></font>
+<a href="../../novel/200506/21202425/poan04.htm" target=_top>http://ts.novels.jp/novel/200506/21202425/poan04.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -67,7 +67,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】謎の「バルキリー計画」とは？　主人公の知らないところで、物語が少しずつ動き出す……<br>
-<a href=http://ts.novels.jp/novel/200506/21202425/poan03.htm target=_top>http://ts.novels.jp/novel/200506/21202425/poan03.htm</a></font>
+<a href="../../novel/200506/21202425/poan03.htm" target=_top>http://ts.novels.jp/novel/200506/21202425/poan03.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -148,7 +148,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】新キャラのセリフ、中○譲治さんの声で読んでしまった……（笑）<br>
-<a href=http://ts.novels.jp/novel/200506/21202425/poan02.htm target=_top>http://ts.novels.jp/novel/200506/21202425/poan02.htm</a></font>
+<a href="../../novel/200506/21202425/poan02.htm" target=_top>http://ts.novels.jp/novel/200506/21202425/poan02.htm</a></font>
 </td></table>
 </td></tr></table>
 

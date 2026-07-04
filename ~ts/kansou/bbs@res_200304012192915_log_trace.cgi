@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�s�q�`�b�d�����i���z�f����</title>
+<title>ＴＲＡＣＥさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�s�q�`�b�d�����i���z�f����</font>
+<font size=5>ＴＲＡＣＥさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="trace">
 <input type=hidden name="nj" value="6Se4TXaYWA">
 <input type=hidden name="res" value="24">
-<h4 align=center>�� �L���ԍ� 24 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 24 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; ���C���X�g����Ȃ���ł����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:-- No Subject --"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; ＞イラスト見れないんですが。
 &gt; 
-&gt; �@�C�����܂����B</textarea><br>
+&gt; 　修正しました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,47 +47,47 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0> ���̏���؂��</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0> この場を借りて</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/23 (��) 01:21:21 <strong>��</strong> TRACE </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304233012121&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304233012121"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/23 (水) 01:21:21 <strong>▽</strong> TRACE </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304233012121_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200304233012121"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��hachikun����<br>
-hachikun���񂩂�͒��ڃ��[���𒸂��܂����B���肪�Ƃ��������܂��B<br>
-���ɖ߂�Ȃ��b�͑�U�b�Ōf�ڗ\��Ȃ̂ł��B������ƃV���A�X�Șb�ł����B<br>
-���`��A���w�E���ꂽ�ӌ��ɂ��ẮA���͖����ɔY��ł���̂ł��B�����ł͏����Ȃ��A�ŏI�b�̃G�s�\�[�h�̂����ŁB<br>
+<font size=3 color=#606060>▼hachikunさん<br>
+hachikunさんからは直接メールを頂きました。ありがとうございます。<br>
+元に戻れない話は第６話で掲載予定なのです。ちょっとシリアスな話ですが。<br>
+う〜ん、ご指摘された意見については、実は未だに悩んでいるのです。ここでは書けない、最終話のエピソードのせいで。<br>
 <br>
-���^�c�ψ��̊F����<br>
-�L���[���߂�Ȃ����A���낢�낲���f���������܂������I�I<br>
+▼運営委員の皆さま<br>
+キャーごめんなさい、いろいろご迷惑おかけしましたっ！！<br>
 <br>
-�����܂�<br>
-�|�j�e�̃��N�X�A�G���`�i��҉�ꂽ�j</font>
+▼おまけ<br>
+ポニテのラクス、萌え〜（作者壊れた）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[29]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/20 (��) 00:36:21 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304200003621&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304200003621"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/20 (日) 00:36:21 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304200003621_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200304200003621"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ĔԊO�҂���ǂ񂶂܂�����i�܁j�B<br>
+<font size=3 color=#606060>って番外編から読んじまったよ（涙）。<br>
 <br>
-�i��R�b�j<br>
-��͂́B�����t�������Ȃ��Ƃ����̂����񑩂ł��ȁB<br>
-�������ǂ�ł�Ɩʔ�����ł����A�r�W���A���Ō������͂Ȃ��ȁi���j�B<br>
-��@�s�ł����܂Ŗ\��Ă�ᐢ�b�Ȃ��ł��ȁB<br>
-�������q�g�C���|���H����΂��Ă��������܂��傤�i���΁j�B<br>
+（第３話）<br>
+わはは。女言葉が抜けないというのもお約束ですな。<br>
+しかし読んでると面白いんですが、ビジュアルで見たくはないな（爆）。<br>
+偵察行でここまで暴れてりゃ世話ないですな。<br>
+毎日女子トイレ掃除？がんばっていただきましょう（爆笑）。<br>
 <br>
-�i�ԊO�ҁj<br>
-�Ƃ񂾃V���f�����ł��Ȃ��i��j�B<br>
-�������A�J���~�܂Ȃ�������Ă����Ȃ胉�u�z�͂����񂼁A����ρi���j�B</font>
+（番外編）<br>
+とんだシンデレラですなぁ（違）。<br>
+しかし、雨が止まないからっていきなりラブホはいかんぞ、やっぱ（爆）。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -95,54 +95,54 @@ hachikun���񂩂�͒��ڃ��[���𒸂��܂����B���肪�Ƃ��������܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> �w�@���d�����q �t���C�g�R�@and �ԊO�ҁx������ɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> 『機動妖精撫子 フライト３　and 番外編』を見るには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/19 (�y) 22:21:20 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304196222120&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304196222120"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/19 (土) 22:21:20 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304196222120_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200304196222120"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><B>�w�@���d�����q �t���C�g3�x</B><br>
-�y���E���z �R�E�T�J���тɌ����n���ꂽ���낵�������B�Ȃ�ƁA���������ɂȂ�ƌ����Ă���悤�Ȃ��̂������c�c�B<br>
-<a href=http://ts.novels.jp/novel/200211/08185457/nadeshiko3.htm target=_top>http://ts.novels.jp/novel/200211/08185457/nadeshiko3.htm</a><br>
+<font size=3 color=#606060><B>『機動妖精撫子 フライト3』</B><br>
+【推薦文】 コウサカ少尉に言い渡された恐ろしき処分。なんと、毎日女性になれと言っているようなものだった……。<br>
+<a href="../../novel/200211/08185457/nadeshiko3.htm" target=_top>http://ts.novels.jp/novel/200211/08185457/nadeshiko3.htm</a><br>
 <br>
-<B>�w�@���d�����q �ԊO�ҁ@�u���ԂɌ��������v�x</B><br>
-�y���E���z ���āA���e�i�΁j������Ă����l���A�R�E�T�J���N�X�g���тł����A����́A���̓�l���c�c�B<br>
-<a href=http://ts.novels.jp/novel/200211/08185457/nadeshiko_ex1.htm target=_top>http://ts.novels.jp/novel/200211/08185457/nadeshiko_ex1.htm</a></font>
+<B>『機動妖精撫子 番外編　「時間に厳しい女」』</B><br>
+【推薦文】 さて、爆弾（笑）を抱えている主人公、コウサカ＝クスト中尉ですが、今回は、あの二人が……。<br>
+<a href="../../novel/200211/08185457/nadeshiko_ex1.htm" target=_top>http://ts.novels.jp/novel/200211/08185457/nadeshiko_ex1.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �������������e���y�X�g���I�I</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> かっこいいぞテンペストっ！！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/02 (��) 20:09:21 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304023200921&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304023200921"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/02 (水) 20:09:21 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304023200921_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200304023200921"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���c�c������A�u�N�~�R���сA�G���`���v�Č���Ȃ���Ȃ��Ƃ���Ȃ̂Ɂc�c�i�΁j�B<br>
-�@�F��䂩����́u�@����m�K���_���O�`�@�|THE BLUE DESTINY�|�v�i����I�j���x�[�X�Ƃ̂��Ƃł����A�u���q�v�̓V�r�A�Ȑ�L�Ƃ��Ă̑��ʂƃR�~�J���ȑ��ʂ����܂��ɋ}�����Ă���Ǝv���܂��B<br>
-�@�e���y�X�g�̃f�U�C�����u�y���������{�u�e�|�P�v�Ƃ����������ŁA�茘���܂Ƃ܂��Ă��܂��ˁB�l�I�ɂ́A�u��s�@����ό`����l�^����͑��b���Ǝ�v�Ƃ�����ۂ�����̂ł����A�퓬�@�ƃ��{�b�g�`�Ԃ������݂Ɏg�������Đ키�Ƃ��낪�g�R���h�ł��B</font>
+<font size=3 color=#606060>　い……いかん、「クミコ少尉、萌え〜っ」て言わなきゃならんところなのに……（笑）。<br>
+　皆川ゆかさんの「機動戦士ガンダム外伝　−THE BLUE DESTINY−」（名作！）がベースとのことですが、「撫子」はシビアな戦記としての側面とコミカルな側面がうまく緩急つけられていると思います。<br>
+　テンペストのデザインも「Ｚｐｌｕｓ＋ＶＦ−１」といった感じで、手堅くまとまっていますね。個人的には、「飛行機から変形する人型兵器は装甲が脆弱」という印象があるのですが、戦闘機とロボット形態をたくみに使い分けて戦うところが“燃え”です。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> ���߂�Ȃ���</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> ごめんなさい</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/02 (��) 00:03:02 <strong>��</strong> starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304023000302&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304023000302"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/02 (水) 00:03:02 <strong>▽</strong> starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304023000302_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200304023000302"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�f�ڂ�S�������Astarbow@�^�c�ψ��ł��B<br>
+<font size=3 color=#606060>掲載を担当した、starbow@運営委員です。<br>
 <br>
-<font color="#cc88ff">>�C���X�g����Ȃ���ł����B</font><br>
-�Ō�̃c�����Â������悤�ł��B<br>
-�\���󂠂�܂���ł����B<br>
+<font color="#cc88ff">>イラスト見れないんですが。</font><br>
+最後のツメが甘かったようです。<br>
+申し訳ありませんでした。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -150,19 +150,19 @@ hachikun���񂩂�͒��ڃ��[���𒸂��܂����B���肪�Ƃ��������܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> �ǂ܂��āE�E�E</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 読ませて・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/01 (��) 21:45:56 <strong>��</strong> <a href="mailto:umagase@am.wakwak.com">alien</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304012214556&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304012214556"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/01 (火) 21:45:56 <strong>▽</strong> <a href="mailto:umagase@am.wakwak.com">alien</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304012214556_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200304012214556"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ܂��Ă������c���Ă܂���(��)<br>
-�r���܂œǂ�łƂ肠�����ꌾ<br>
+<font size=3 color=#606060>読ませていただ…いてません(笑)<br>
+途中まで読んでとりあえず一言<br>
 <br>
-�u���������Ȏ���������r���ĕS�񂾂����!!�v<br>
+「いい加減な事をしたら腕立て百回だからな!!」<br>
 <br>
-�ł����H</font>
+ですか？</font>
 </td></table>
 </td></tr></table>
 
@@ -172,33 +172,33 @@ hachikun���񂩂�͒��ڃ��[���𒸂��܂����B���肪�Ƃ��������܂��B<br>
 <font size=2>[24]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/01 (��) 19:29:15 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304012192915&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304012192915"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/01 (火) 19:29:15 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304012192915_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200304012192915"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���C���X�g����Ȃ���ł����B</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞イラスト見れないんですが。</font><br>
 <br>
-�@�C�����܂����B</font>
+　修正しました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/04/01 (��) 12:03:59 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200304012120359&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200304012120359"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/04/01 (火) 12:03:59 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200304012120359_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200304012120359"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂��i�΁j�B<br>
-���������΂���O�p�֌W�ł��Ȃ��B�O�G�����^���ɋC�t������̔�����������C�ɂȂ�܂��ȁi���j�B<br>
-�퓬�V�[�����X�s�[�f�B�ł��������B<br>
-������y���݂ł��ˁB<br>
+<font size=3 color=#606060>こりゃまた（笑）。<br>
+しっかし笑える三角関係ですなぁ。グエンが真実に気付いた後の反応が今から気になりますな（爆）。<br>
+戦闘シーンもスピーディでいいっす。<br>
+次回も楽しみですね。<br>
 <br>
-�Ƃ���ŁE�E�E<br>
-�C���X�g����Ȃ���ł����B</font>
+ところで・・・<br>
+イラスト見れないんですが。</font>
 <p><div align=left><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a></div>
 </td></table>
 </td></tr></table>
@@ -206,50 +206,50 @@ hachikun���񂩂�͒��ڃ��[���𒸂��܂����B���肪�Ƃ��������܂��B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[22]</font> <font size=4 color=#40c0c0> �w�@���d�����q �t���C�g2�x������ɂ͂������N���b�N�B</font>
+<font size=2>[22]</font> <font size=4 color=#40c0c0> 『機動妖精撫子 フライト2』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/31 (��) 23:11:37 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303311231137&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303311231137"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/31 (月) 23:11:37 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303311231137_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200303311231137"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�N�~�R�ƃN�X�g�A�R�ɂ͕ʐl�Ƃ��ēo�^���ꂽ���A�N�X�g���т̋�J�͑����B</font>
-<p><div align=left><a href="http://ts.novels.jp/novel/200211/08185457/nadeshiko2.html" target="_top">http://ts.novels.jp/novel/200211/08185457/nadeshiko2.html</a></div>
+<font size=3 color=#606060>【推薦文】クミコとクスト、軍には別人として登録されたが、クスト中尉の苦労は続く。</font>
+<p><div align=left><a href="../../novel/200211/08185457/nadeshiko2.html" target="_top">http://ts.novels.jp/novel/200211/08185457/nadeshiko2.html</a></div>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[21]</font> <font size=4 color=#40c0c0> �F���܂��肪�Ƃ�</font>
+<font size=2>[21]</font> <font size=4 color=#40c0c0> 皆さまありがとう</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/19 (��) 18:40:49 <strong>��</strong> TRACE </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200303193184049&log=trace">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303193184049"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/19 (水) 18:40:49 <strong>▽</strong> TRACE </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200303193184049_log_trace.cgi">返信</a>　削除<input type=checkbox name="target" value="200303193184049"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����Ȓt�قȍ�i�����������A���肪�Ƃ��������܂����B<br>
+<font size=3 color=#606060>こんな稚拙な作品をご覧頂き、ありがとうございました。<br>
 <br>
-���d�g�d������<br>
-<font color="#ff88cc">�����̑薼����Ȃ�ƂȂ��퓬�d���ᕗ�Ȃ��i���v���o���܂����B</font><br>
-���̒ʂ�ł��i���j�B��肢�^�C�g�����v�������΂Ȃ�������ŁA�q�؂����Ⴂ�܂����B�N�����̍�i�ɍ��������^�C�g�����v���������A���������������i���j<br>
+▼電波妖精さん<br>
+<font color="#ff88cc">＞この題名からなんとなく戦闘妖精雪風なる作品を思い出しました。</font><br>
+その通りです（汗）。上手いタイトルが思い浮かばなかったんで、拝借しちゃいました。誰かこの作品に合ういいタイトルが思いついた方、お教えください（泣）<br>
 <br>
-<font color="#ff88cc">���퓬�V�[���Łw�n�G�����R�x�Ƃ����L�q������܂������A�n�G���đ����Ǝv���̂ł����A�����Ɉ�a���������܂����B</font><br>
-�m���ɂ�����������܂���B���������Ȃ�u�E�~�K���X�v�̕����ǂ�������������܂���ˁB�E�~�K���X�̔�s�\�͂͒��ނ̒��ł͒Ⴂ���ŁA�^�������ɔ�Ԃ��炢�����o���Ȃ������ł����������āu�E�~�K���X�����R�v���ď����Ă��A��̉��l���s���Ɨ���̂��������B������ɂ���A���w�E���肪�Ƃ��������܂����B<br>
+<font color="#ff88cc">＞戦闘シーンで『ハエも同然』という記述がありましたが、ハエって速いと思うのですが、ここに違和感を感じました。</font><br>
+確かにそうかもしれません。同じ書くなら「ウミガラス」の方が良かったかもしれませんね。ウミガラスの飛行能力は鳥類の中では低い方で、真っ直ぐに飛ぶぐらいしか出来ないそうです･･････って「ウミガラスも同然」って書いても、一体何人がピンと来るのか･･････。いずれにせよ、ご指摘ありがとうございました。<br>
 <br>
-<font color="#ff88cc">���ŁA�ށi���j�͉̂t�H��t�H<br>
-������ɂ��Ă����̍�i���āA���t�I�v�f�Ȃ̂����B</font><br>
-�S�Ă̓t���C�g�Q�Ŗ��炩�ɂȂ�܂��B���͊��Ɏ��M�ς݂ŁA���e����΂��������Ȃ̂ł��B�u��������o����v�ƌ���ꂻ���ł����A��i��d�v�Ȗ������ʂ����t���C�g�R�̎��M����V�������B<br>
+<font color="#ff88cc">＞で、彼（女）のは可逆？非可逆？<br>
+＞それにしてもこの作品って、半可逆的要素なのかぁ。</font><br>
+全てはフライト２で明らかになります。実は既に執筆済みで、投稿すればいいだけなのです。「だったら出せよ」と言われそうですが、作品上重要な役割を果たすフライト３の執筆が難儀･･････。<br>
 <br>
-�R�}�c�R���u���ӁB�������玷�M�̃A�C�f�A�������ԃT�v���ł����܂��H�v<br>
+コマツ軍曹「うふ。だったら執筆のアイデアが浮かぶサプリでも作ります？」<br>
 <br>
-�Ђ��������I�H���C�����ɔC����ƕςȕ���������������A��߂Ă���I</font>
+ひえええっ！？ユイちゃんに任せると変な物混ぜそうだから、やめてくれ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="trace">
@@ -257,16 +257,16 @@ hachikun���񂩂�͒��ڃ��[���𒸂��܂����B���肪�Ƃ��������܂��B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="trace">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=trace">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_trace.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>�� �����������͗��ɊǗ��L�[����͂��āu�����v���������ƂŊǗ����j���[�Ɉڂ�܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br>※ 検索文字入力欄に管理キーを入力して「検索」を押すことで管理メニューに移ります.<br></font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size="6">�N���G�[�^�[�Y�E�t���A</font>
+<font size="6">クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,39 +15,39 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="WlhAZKdNhh">
 <input type=hidden name="res" value="2436">
-<h4 align=center>�� �L���ԍ� 2436 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 2436 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:������w�g�ю��ԁx�@��i���\"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �앶������
-&gt; �@���N�������ɂ݂̂Ȃ��܁@����ɂ��́@�앶���ł�
-&gt; �@���ɔ��N�ȏ�O�ɔ����������ł��Y��ɂȂ��Ă�����������Ǝv���܂����@�����e�[�}�ŃL�[���[�h���܂ޏ��������삷����w�g�ю��ԁx�̓��e��i����ʌ��J���邱�ƂɂȂ�܂����̂Ł@���m�点�������܂�
-&gt; �@�Q����҂P�P���ɂ��͍���������ɂ��y���݂�������
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:競作企画『携帯時間』　作品発表"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 南文堂さん
+&gt; 　少年少女文庫のみなさま　こんにちは　南文堂です
+&gt; 　既に半年以上前に発足した企画でお忘れになっている方が多いと思われますが　同じテーマでキーワードを含む小説を競作する企画『携帯時間』の投稿作品を一般公開することになりましたので　お知らせいたします
+&gt; 　参加作者１１名による力作をご存分にお楽しみください
 &gt; 
-&gt; �w�g�ю��ԁx��i���X�g�@http://minafumi.aki.gs/kikaku/list.htm
+&gt; 『携帯時間』作品リスト　http://minafumi.aki.gs/kikaku/list.htm
 &gt; 
-&gt; �@�R�����ȊO�ł����z�͎󂯕t���Ă���܂��̂Ł@���D���ȍ�i�Ɋ��z����������������
+&gt; 　審査員以外でも感想は受け付けておりますので　お好きな作品に感想をお書きください
 &gt; 
-&gt; �i�Ȃ��@����̓��e��i�́@�s�r���̂����삵���������܂���̂Ł@���炩���߂��������������j
+&gt; （なお　今回の投稿作品は　ＴＳものが数作しかございませんので　あらかじめご了承ください）
 &gt; 
-&gt; �@�Ō�ɂȂ�܂������@���̍��m�ȂǂŁ@���̏�����݂����������܂������N�������ɗl�Ɋ��ӂ������܂��@���肪�Ƃ��������܂���
+&gt; 　最後になりましたが　企画の告知などで　この場をお貸しいただきました少年少女文庫様に感謝いたします　ありがとうございました
 &gt; 
-&gt; �@����ł́@���炢�����܂�</textarea><br>
+&gt; 　それでは　失礼いたします</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h DV5TaJ  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="DV5TaJ"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード DV5TaJ  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="DV5TaJ"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �L�����e�̍ۂ́A���p�p��6�����̓��̓R�[�h���E���̃{�b�N�X�ɂ��̂܂ܓ��͂��ĉ�����.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 記事投稿の際は、半角英数6文字の入力コードを右側のボックスにそのまま入力して下さい.</font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 500 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 500 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -60,121 +60,121 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2444]</font> <font size=4 color=#50d0d0> Re:�X�g�[���[����̃f�[�^�[�j���ɂ��Ă̕�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2444]</font> <font size=4 color=#50d0d0> Re:ストーリー道場のデーター破損についての報告</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/12/09 (�y) 21:21:10  ���� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200612096212110">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612096212110"></font>
+<font size="-1" color="#606060"> 2006/12/09 (土) 21:21:10  長束 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200612096212110.cgi">返信</a>　削除<input type=checkbox name="target" value="200612096212110"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�����A��񕶌ɂւ̓��e�����̗��p�Ƃ�����������������������Ă���g���Ȃ̂ŁA���܂��w�Ȃ��Ƃ͌����Ȃ��Đ\����Ȃ��̂ł����A�����炱�����炾���͌��킹�Ă������������̂ł��B<br>
+<font size=4 color=#000000>いつも、第二文庫への投稿だけの利用という勝手をお許しいただいている身分なので、あまり大層なことは言えなくて申し訳ないのですが、だからこそお礼だけは言わせていただきたいのです。<br>
 <br>
-���܂łɂ��A���f���[���͉��x�����z�f���ɏ������܂�Ă��܂������A����̃`�F�b�N�̂��߂ɂ�����`�����тɁA�O�O�ɉ��x���폜����������Ă������Ƃ́A�����ƋC���t���Ă���܂����B<br>
-�������������͂����炭�Ώ�������A�Z�p�I�ɂ��J�͓I�ɂ���V�Ȃ��ƂƎv���܂��B<br>
-�����āA����ꂽ���̂��߂�Ȃ��Ƃ��������\���ɑz��͂��Ă���܂����B<br>
-�ł�����A�����o���܂������Ə��m�ŁA���̓��e�҂̕��X�̐S����@�����ɐ\���グ�Ă͂܂��ƂəG�z���Ǝv����̂ł����A����ł����l�̐S�����Ƃ��Ắu�����y�������p�����Ă��������Ă��肪�Ƃ��������܂��v�Ƃ����ꌾ�����͂��`�������������̂ł��B<br>
-�����Z�̒��A���������̓��e�҂̂��߂ɘJ��ɂ��܂��ɂ��Ă�������^�c�ψ��̕��ɁA���ꂾ���͂��`�������Ă������������Ǝv���܂����B<br>
-����ł͎��炢�����܂��B</font>
+今までにも、迷惑メールは何度も感想掲示板に書き込まれていましたが、お礼のチェックのためにそこを覗くたびに、丹念に何度も削除処理がされていたことは、ずっと気が付いておりました。<br>
+こういった問題はおそらく対処が難しく、技術的にも労力的にも難儀なことと思われます。<br>
+そして、失われたものが戻らないという事も十分に想定はしておりました。<br>
+ですから、差し出がましい事と承知で、他の投稿者の方々の心情も察せずに申し上げてはまことに僭越だと思われるのですが、それでも私個人の心持ちとしては「いつも楽しく利用させていただいてありがとうございます」という一言だけはお伝えしたかったのです。<br>
+ご多忙の中、いつも多くの投稿者のために労を惜しまずにいてくださる運営委員の方に、それだけはお伝えさせていただきたいと思いました。<br>
+それでは失礼いたします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2443]</font> <font size=4 color=#50d0d0> �X�g�[���[����̃f�[�^�[�j���ɂ��Ă̕�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2443]</font> <font size=4 color=#50d0d0> ストーリー道場のデーター破損についての報告</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/12/08 (��) 19:43:44  kou@�^�c�ψ�(�ꉞ)�Z�p�S�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200612085194344">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612085194344"></font>
+<font size="-1" color="#606060"> 2006/12/08 (金) 19:43:44  kou@運営委員(一応)技術担当 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200612085194344.cgi">返信</a>　削除<input type=checkbox name="target" value="200612085194344"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@kou �ł��B<br>
+<font size=4 color=#000000>　kou です。<br>
 <br>
-�@�X�g�[���[����i�����̑��f���j�ɓ��e���ꂽ��i�̏�����񍐂��܂��B<br>
-�@2006/08/29 17:19:01 ���� 2006/11/19 13:17:36 �̊ԁA�Œ� 23 �����e���Ē�<br>
-������i���������܂����B<br>
-�@�����͕s���ł����A�����炭�f���Ɏg���Ă��� CGI �̐݌v��̌��ׂƎv��<br>
-��܂��B<br>
-�@�܂��A����������i�̕����͈�ؕs�\�ł��B<br>
+　ストーリー道場（旧名称第二掲示板）に投稿された作品の消失を報告します。<br>
+　2006/08/29 17:19:01 から 2006/11/19 13:17:36 の間、最低 23 件投稿して頂<br>
+いた作品が消失しました。<br>
+　原因は不明ですが、おそらく掲示板に使われている CGI の設計上の欠陥と思わ<br>
+れます。<br>
+　また、消失した作品の復旧は一切不能です。<br>
 <br>
-�@�X�p���̓��e�ɂ��A�{���̊��z�̓��e������ɏo���Ȃ���Ԃɂ��邽�߁A12<br>
-�����ɑ΍���s���܂��B<br>
+　スパムの投稿により、本来の感想の投稿が正常に出来ない状態にあるため、12<br>
+月中に対策を行います。<br>
 <br>
-�@�񍐂܂Ŏ��Ԃ�������܂������Ƃ����l�ѐ\���グ�܂�</font>
+　報告まで時間がかかりましたことをお詫び申し上げます</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2442]</font> <font size=4 color=#50d0d0> ���l��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2442]</font> <font size=4 color=#50d0d0> お詫び</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/12/05 (��) 21:54:53  ���̎s�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200612052215453">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612052215453"></font>
+<font size="-1" color="#606060"> 2006/12/05 (火) 21:54:53  この市場 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200612052215453.cgi">返信</a>　削除<input type=checkbox name="target" value="200612052215453"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>���f���Ɋւ��鏑�����݂����Ă����̂ł����A�폜�����Ă��������܂����B<br>
-���炩�S�����̑���Ȃ��������݂����Ă��܂������Ƃ�[�����l�т������܂��B</font>
+<font size=4 color=#000000>第二掲示板に関する書き込みをしていたのですが、削除させていただきました。<br>
+失礼かつ心遣いの足りない書き込みをしてしまったことを深くお詫びいたします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2440]</font> <font size=4 color=#50d0d0> Re:���肪�Ƃ��������܂����A��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2440]</font> <font size=4 color=#50d0d0> Re:ありがとうございました、他</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/11/26 (��) 13:27:23  <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n���^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611260132723">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611260132723"></font>
+<font size="-1" color="#606060"> 2006/11/26 (日) 13:27:23  <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ＠運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611260132723.cgi">返信</a>　削除<input type=checkbox name="target" value="200611260132723"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�l�n�m�c�n�ł��B<br>
-�@���n�e�e�ɂ��W�܂肢���������F���܁A���肪�Ƃ��������܂����B<br>
-�@�܂��@����݂ĊJ�Â����ĂƎv���܂��̂ŁA���̎��͂܂��ӂ���Ă��Q�����������B<br>
+<font size=4 color=#000000>　ＭＯＮＤＯです。<br>
+　大阪ＯＦＦにお集まりいただいた皆さま、ありがとうございました。<br>
+　また機会をみて開催したてと思いますので、その時はまたふるってご参加ください。<br>
 <br>
-�@���āA���f���u�X�g�[���[����v�̍ŐV�y�[�W�������Ă��܂��܂����B<br>
-�@����������������ł�����������҂̊F���܁A�\���󂠂�܂���B<br>
-�@�������킩��Ȃ��̂ŁA�܂����ׂĂ����܂��B</font>
+　さて、第二掲示板「ストーリー道場」の最新ページが消えてしまいました。<br>
+　せっかく書き込んでくださった作者の皆さま、申し訳ありません。<br>
+　原因がわからないので、また調べておきます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2439]</font> <font size=4 color=#50d0d0> ���肪�Ƃ��������܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2439]</font> <font size=4 color=#50d0d0> ありがとうございました</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/11/20 (��) 21:24:40  �L�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611201212440">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611201212440"></font>
+<font size="-1" color="#606060"> 2006/11/20 (月) 21:24:40  猫野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611201212440.cgi">返信</a>　削除<input type=checkbox name="target" value="200611201212440"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�n�e�e��ɎQ���̊F�l�A�����Q�������Ă����������肪�Ƃ��������܂����B<br>
-�����A�W���[�W���b�h����A����͎c�O�ł����A�܂������悯��΂���������ł��B<br>
-���Ȃ݂ɓ��e�͐�����킸<br>
-<font color="#cc88ff">&gt;�@�p�\�R���̘b�A�n��̘b�A�u���Ɂv�̍�i����̘b�A�����J�̏����i�l�^�j�̘b�Ȃ񂩂����C���ɂȂ邩��</font><br>
+<font size=4 color=#000000>ＯＦＦ会に参加の皆様、私も参加させていただきありがとうございました。<br>
+矢治さん、ジャージレッドさん、今回は残念でした、またもしよければお会いしたいです。<br>
+ちなみに内容は寸分違わず<br>
+<font color="#cc88ff">&gt;　パソコンの話、創作の話、「文庫」の作品や企画の話、未公開の小説（ネタ）の話なんかがメインになるかと</font><br>
 <br>
-����ł����B�y�R�� m(__)m</font>
+これでした。ペコリ m(__)m</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2438]</font> <font size=4 color=#50d0d0> �I����Ă��̂ˁB���n�e�e�@�^�@������̌�</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2438]</font> <font size=4 color=#50d0d0> 終わってたのね。大阪ＯＦＦ　／　競作企画の件</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/11/19 (��) 21:22:35  <a href="mailto:jersey-r@keddy.ne.jp">�W���[�W���b�h</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611190212235">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611190212235"></font>
+<font size="-1" color="#606060"> 2006/11/19 (日) 21:22:35  <a href="mailto:jersey-r@keddy.ne.jp">ジャージレッド</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611190212235.cgi">返信</a>　削除<input type=checkbox name="target" value="200611190212235"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�������A����A���łn�e�e��������̂ł��ˁB�C�Â��Ȃ񂾁B<br>
-�ŋ߁A�f���Ƃ��`�F�b�N���ĂȂ��������B<br>
-�ł��܂�������������Ă��邩��A�s���ɍs���Ȃ��������ȁB�͂͂́B�i�������΂��j<br>
+<font size=4 color=#000000>ううう、昨日、大阪でＯＦＦ会があったのですね。気づかなんだ。<br>
+最近、掲示板とかチェックしてなかったし。<br>
+でもまあ資金も底をついているから、行くに行けなかったかな。ははは。（乾いた笑い）<br>
 <br>
-���ꂩ��A��������2437�������Ă���̂́A���n�e�e�����T���Ɗ��Ⴂ���������A���o�J�Ȕ����������������݂�����������ł��B�������炸�B<br>
+それから、書き込み2437が消えているのは、大阪ＯＦＦが来週だと勘違いした私が、おバカな発言をした書き込みを消したからです。あしからず。<br>
 <br>
-���āA����͂����Ɠ앶�����񂩂牺�ɍ��m���������܂�Ă��܂����A������w�g�ю��ԁx�ł����A�������e���Ă��܂��̂ŁA��x�������������B�����Ȃ��s�r���̂ł���B</font>
+さて、それはそうと南文堂さんから下に告知が書き込まれていますが、競作企画『携帯時間』ですが、私も投稿していますので、一度ご覧ください。数少ないＴＳものですよ。</font>
 <p><div align=left><a href="http://www.keddy.ne.jp/~jersey-r/" target="_top">http://www.keddy.ne.jp/~jersey-r/</a></div>
 </td></table>
 </td></tr></table>
@@ -182,26 +182,26 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2436]</font> <font size=4 color=#50d0d0> ������w�g�ю��ԁx�@��i���\</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2436]</font> <font size=4 color=#50d0d0> 競作企画『携帯時間』　作品発表</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/11/19 (��) 11:14:17  �앶�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611190111417">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611190111417"></font>
+<font size="-1" color="#606060"> 2006/11/19 (日) 11:14:17  南文堂 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611190111417.cgi">返信</a>　削除<input type=checkbox name="target" value="200611190111417"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@���N�������ɂ݂̂Ȃ��܁@����ɂ��́@�앶���ł�<br>
-�@���ɔ��N�ȏ�O�ɔ����������ł��Y��ɂȂ��Ă�����������Ǝv���܂����@�����e�[�}�ŃL�[���[�h���܂ޏ��������삷����w�g�ю��ԁx�̓��e��i����ʌ��J���邱�ƂɂȂ�܂����̂Ł@���m�点�������܂�<br>
-�@�Q����҂P�P���ɂ��͍���������ɂ��y���݂�������<br>
+<font size=4 color=#000000>　少年少女文庫のみなさま　こんにちは　南文堂です<br>
+　既に半年以上前に発足した企画でお忘れになっている方が多いと思われますが　同じテーマでキーワードを含む小説を競作する企画『携帯時間』の投稿作品を一般公開することになりましたので　お知らせいたします<br>
+　参加作者１１名による力作をご存分にお楽しみください<br>
 <br>
-�w�g�ю��ԁx��i���X�g�@<a href=http://minafumi.aki.gs/kikaku/list.htm target=_top>http://minafumi.aki.gs/kikaku/list.htm</a><br>
+『携帯時間』作品リスト　<a href=http://minafumi.aki.gs/kikaku/list.htm target=_top>http://minafumi.aki.gs/kikaku/list.htm</a><br>
 <br>
-�@�R�����ȊO�ł����z�͎󂯕t���Ă���܂��̂Ł@���D���ȍ�i�Ɋ��z����������������<br>
+　審査員以外でも感想は受け付けておりますので　お好きな作品に感想をお書きください<br>
 <br>
-�i�Ȃ��@����̓��e��i�́@�s�r���̂����삵���������܂���̂Ł@���炩���߂��������������j<br>
+（なお　今回の投稿作品は　ＴＳものが数作しかございませんので　あらかじめご了承ください）<br>
 <br>
-�@�Ō�ɂȂ�܂������@���̍��m�ȂǂŁ@���̏�����݂����������܂������N�������ɗl�Ɋ��ӂ������܂��@���肪�Ƃ��������܂���<br>
+　最後になりましたが　企画の告知などで　この場をお貸しいただきました少年少女文庫様に感謝いたします　ありがとうございました<br>
 <br>
-�@����ł́@���炢�����܂�</font>
+　それでは　失礼いたします</font>
 <p><div align=left><a href="http://minafumi.aki.gs/kikaku/list.htm" target="_top">http://minafumi.aki.gs/kikaku/list.htm</a></div>
 </td></table>
 </td></tr></table>
@@ -209,51 +209,51 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2435]</font> <font size=4 color=#50d0d0> �n�e�e��</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2435]</font> <font size=4 color=#50d0d0> ＯＦＦ会</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/11/15 (��) 22:39:56  �L�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611153223956">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611153223956"></font>
+<font size="-1" color="#606060"> 2006/11/15 (水) 22:39:56  猫野 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611153223956.cgi">返信</a>　削除<input type=checkbox name="target" value="200611153223956"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�v�X�ɎQ���������ł��B�ǂ�����낵���B<br>
-������Ђ����Ԃ�ł��B�B�B</font>
+<font size=4 color=#000000>久々に参加したいです。どうぞよろしく。<br>
+守口もひさしぶりです。。。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2434]</font> <font size=4 color=#50d0d0> ���O</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2434]</font> <font size=4 color=#50d0d0> 無念</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/11/10 (��) 19:05:19  Kardy@���É��]�Α� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611105190519">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611105190519"></font>
+<font size="-1" color="#606060"> 2006/11/10 (金) 19:05:19  Kardy@名古屋転勤族 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611105190519.cgi">返信</a>　削除<input type=checkbox name="target" value="200611105190519"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>OFF��A�Q����������ł����ǁA�������É��Ńo���h�̃X�^�W�I���K�������Ă��ŁA����͌�����܂��B<br>
-�P���Ƀ��C�u���������ŁA�����\�E�C�����Ă܂�(�DT)</font>
+<font size=4 color=#000000>OFF会、参加したいんですけど、当日名古屋でバンドのスタジオ練習が入ってるんで、今回は見送ります。<br>
+１月にライブがあるもんで、今結構殺気だってます(つДT)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2433]</font> <font size=4 color=#50d0d0> ����i��j�ŗ\�Z�Ă��ʂ邩�ǂ����A���ꂪ��肾</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[2433]</font> <font size=4 color=#50d0d0> 国会（違）で予算案が通るかどうか、それが問題だ</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size="-1" color="#606060"> 2006/11/07 (��) 07:52:45  �^�č� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611072075245">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611072075245"></font>
+<font size="-1" color="#606060"> 2006/11/07 (火) 07:52:45  某監査 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611072075245.cgi">返信</a>　削除<input type=checkbox name="target" value="200611072075245"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>OFF��A��o��������ł����ǁA���s���ė����΂�����ō��z���_�C�G�b�g��������Ă��ŁA�ۗ��ɂ��܂��B<br>
-�C�����I�ɂ͂����ԁw�Q���x�̂ق��ɌX���Ă͂����ł����ǂ˂��c�c</font>
+<font size=4 color=#000000>OFF会、顔出したいんですけど、大阪行って来たばっかりで財布がダイエットしちゃってるんで、保留にします。<br>
+気持ち的にはだいぶ『参加』のほうに傾いてはいるんですけどねぇ……</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -261,16 +261,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

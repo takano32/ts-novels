@@ -1,93 +1,93 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>���肩�i�m����i�@���z�f����</title>
+<title>きりか進ノ介さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���肩�i�m����i�@���z�f����</font>
+<font size=5>きりか進ノ介さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kirika">
 <input type=hidden name="nj" value="0P5Q58z2hu">
 <input type=hidden name="res" value="134">
-<h4 align=center>�� �L���ԍ� 134 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 134 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:��������"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ���肩�i�m���
-&gt; �@�����ɐ\���܂��āA�������قǂɔ��ȓ_�̑�����i���Ȃ��A�ƃE�W�E�W���Ă��邫�肩�ł��B�@�Ȃ̂ɁA�݂Ȃ��ܒg���������t�A�{���ɂ��肪�Ƃ��������܂��B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:うじうじ"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ きりか進ノ介さん
+&gt; 　正直に申しまして、見直すほどに反省点の多い作品だなあ、とウジウジしているきりかです。　なのに、みなさま暖かいお言葉、本当にありがとうございます。
 &gt; 
-&gt; ���p�Y����@�ق�Ƃ��ɂ��肪�Ƃ��������܂��B
+&gt; ▼英雄さん　ほんとうにありがとうございます。
 &gt; 
-&gt; &gt;���ɖ߂�
-&gt; �@���F�̃g���C���̃R���Z�v�g�A���L�͂��ĂȂ��̂ł����u�Q���Ԃ̏��̎q�Ƃ��Ă̖��v�ł��B�@������߂邩�ǂ����͂Ƃ������A�߂��悤�ɂ���̂��p�^�[���Ȗ�Ȃ̂ł����A�j�ɖ߂����V�[���������Ă��܂��Ƒz���̗]�n�������Ȃ��Ă��܂��̂ŁA�O�Q��ł͂����������Ȃ������̂ł��B�i������߂������ǂ������M�҂͒m��܂���j
+&gt; &gt;元に戻る
+&gt; 　虹色のトレイルのコンセプト、明記はしてないのですが「２日間の女の子としての夢」です。　だから戻るかどうかはともかく、戻れるようにするのがパターンな訳なのですが、男に戻ったシーンを書いてしまうと想像の余地が無くなってしまうので、前２作ではここを書かなかったのです。（だから戻ったかどうかも筆者は知りません）
 &gt; 
-&gt; �@�Ƃ��낪����́u���F�̉āv�̃^�C�g�����̂������I����̎ʐ^�W���痈�Ă�킯�ŁA�����������Ȃ���ɂ͍s���Ȃ������B
+&gt; 　ところが今作は「藤色の夏」のタイトル自体が事件終了後の写真集から来てるわけで、ここを書かない訳には行かなかった。
 &gt; 
-&gt; �@���ɂ��Ďv���΂��ꂪ�ԈႢ�̎n�܂�ł��ˁB�@�߂����V�[���ɖ��͂͂��܂�Ȃ��B
+&gt; 　今にして思えばこれが間違いの始まりですね。　戻ったシーンに魅力はあまりない。
 &gt; 
-&gt; �@�������N���C�}�b�N�X����G���f�B���O�ɃX���[�Y�Ɍq���Ȃ��_�Ŕ��ɋ�J���āA���̂��ɖ����̍s�����X�g�ɂȂ�Ȃ������Ƃ����B���炾��ƌ���k�������Ă��������ʂɂ͂Ȃ�Ȃ��A�׋��ɂȂ�܂����B
+&gt; 　しかもクライマックスからエンディングにスムーズに繋げない点で非常に苦労して、そのわりに満足の行くラストにならなかったという。だらだらと後日談を書いてもいい結果にはならない、勉強になりました。
 &gt; 
-&gt; �@�����������Ă��炦���̂͊������ł��B�ނ̍s���͂܂��u���؂�v�Ȃ킯�ŁA����𐳓������邽�߂ɂ��肩�͑����̘J�́i��̓I�ɂ͖����z�ȌO�𖣗͓I�Ɍ����邱�Ɓj�������݂܂����̂ŁB
+&gt; 　拓也を応援してもらえたのは嬉しいです。彼の行動はまあ「裏切り」なわけで、これを正当化するためにきりかは相当の労力（具体的には無愛想な薫を魅力的に見せること）をつぎ込みましたので。
 &gt; 
-&gt; ���|�{�@����A�������肪�Ƃ��������܂��B
+&gt; ▼鋼＋　さん、いつもありがとうございます。
 &gt; 
 &gt; &gt;FUJIYAMA
-&gt; �@���ׂĂ݂܂����B����̍ő���z���U�T�x�������ł��B�ˁH�@�u�����ƂȂ�̕ς����Ȃ��v�ł���H�@����𐶐g�Ŋ��炷�񂾂���܂��{���ɒN���l�����񂾂��B
+&gt; 　調べてみました。これの最大勾配が６５度だそうです。ね？　「垂直となんの変わりもない」でしょ？　それを生身で滑らすんだからまあ本当に誰が考えたんだか。
 &gt; 
-&gt; &gt;�����Ȃ����Ȃ�
-&gt; �@�E�W�E�W�̂Q�_�ڂ͖������̓����B������`�������I�b�`�����̐��E�ł͏o������Ȃ̂ł����ǁA�ł���΂����ł͎g�������Ȃ������B�����ǁB
+&gt; &gt;いざないがない
+&gt; 　ウジウジの２点目は魔道兵の導入。いずれ描きたいオッチャンの世界では出すつもりなのですけど、できればここでは使いたくなかった。だけど。
 &gt; 
-&gt; �c�c�O�������Ȃ���ł��B�G�����Ȃ��ƁB
-&gt; �c�c�ł��G�Ȃ�ĂȂ��Ȃ��A�܂��ăv�[���ɋ�����̂ł͂Ȃ��i������O�j
+&gt; ……薫が動かないんです。敵がいないと。
+&gt; ……でも敵なんてなかなか、ましてプールに居るものではない（当たり前）
 &gt; 
-&gt; �c�c�T���ł������Ηǂ������̂��ȁB���Č��œ|���Ȃ����B
+&gt; ……サメでも放せば良かったのかな。って剣で倒せないし。
 &gt; 
-&gt; �@�~�ނ������A�Ƃ����`�ŏo���āA��������Ƃ������u�����Ȃ��v�Ƃ����Z���͗��Ăŏ������Ƃ��o���Ȃ��Ȃ��āA�Ȃ񂾂��Ȃ��A�Ƃ������ʂɁB
+&gt; 　止むをえず、という形で出して、そうするとここも「いざない」という短い章立てで書くことが出来なくなって、なんだかなあ、という結果に。
 &gt; 
-&gt; &gt;���p��
-&gt; �@��R�b�̂����΂�̎��n�́A����Ə�蕨�̕`�ʂ�����Ȃ�ɓǂ߂��A�Ƃ������z�����������������Ƃł��B����ȍ~�ɂȂ��čs�������ł��ˁB
+&gt; &gt;剣術戦
+&gt; 　第３話のいちばんの収穫は、これと乗り物の描写がそれなりに読めた、という感想をいくつか頂けたことです。次回以降につなげて行きたいですね。
 &gt; 
-&gt; ���Z������@�y�������z�����肪�Ƃ��������܂��I
+&gt; ▼セルさん　楽しい感想をありがとうございます！
 &gt; 
-&gt; &gt;���E
-&gt; �@���₾���Ă�����i�ł���u�e�F�v�B�@��������̊��z���݂�ȈႤ�������u�G�����v���ĕ\�����Ă�B�@�Ȃ��Ȃ����ꂾ�������V�[���𐷂荞�ނ͓̂�����ƁB
+&gt; &gt;推薦
+&gt; 　いやだっていい作品ですよ「親友」。　たくさんの感想がみんな違う部分を「萌えた」って表現してる。　なかなかあれだけいいシーンを盛り込むのは難しいかと。
 &gt; 
-&gt; ���A�e�X�g�׋��͂ق�A��񂭂炢���s�������Ď��Ԃ���i�o�L�B
-&gt; �c�c�Z�������A��������ł��������܂��Ă��肪�Ƃ��������܂��B
+&gt; あ、テスト勉強はほら、一回くらい失敗したって取り返せる（バキィ
+&gt; ……忙しい中、書き込んでいただきましてありがとうございます。
 &gt; 
-&gt; &gt;���������ȓW�J
-&gt; �@�����Ȃ�ł���ˁA����������A�ƌ��������ꂪ���܂�Ȃ���ł���ˁB�@�O���f���Ɏ󂯂Ă����΂���ŗǂ������񂾂��ǁA���̂����ɃI�b�`����������A�ƁB
+&gt; &gt;ラヴラヴな展開
+&gt; 　そうなんですよね、これもいい、と言うかこれがたまらないんですよね。　薫が素直に受けてくれればそれで良かったんだけど、そのかわりにオッチャンが困る、と。
 &gt; 
-&gt; �@�c�c�Ȃ��Ȃ���肭�͍s���Ȃ����̂ŁB
+&gt; 　……なかなか上手くは行かないもので。
 &gt; 
-&gt; �@�Ƃ����킯�ŁA�����͒C��N���i�e�F�F�Z�������j�ƁA�D��N���i�p�Y����̘A��A�ŐV��͕ɂ̖ʉe�j�ɂ��C�����āA�N���͑ގU�������܂��傤�B
+&gt; 　というわけで、そこは辰也クン（親友：セルさん作）と、優希クン（英雄さんの連作、最新作は碧の面影）にお任せして、年寄りは退散いたしましょう。
 &gt; 
-&gt; �@�o���b�g����̃\�������̊�����y���݂ɂ��Ă܂���H
+&gt; 　バレットさんのソラちゃんの活躍も楽しみにしてますよ？
 &gt; 
-&gt; �����Ȃ񂾂��M���O�̂Ȃ����z�Ԃ��ł��݂܂���B
-&gt; �݂Ȃ��܂�낵����ΎG�k�f���@�i���u�u���[�R�X���X�v�ւ��ǂ����B
-&gt; URL�͉��L�ł��B
+&gt; ああなんだかギャグのない感想返しですみません。
+&gt; みなさまよろしければ雑談掲示板　喫茶「ブルーコスモス」へもどうぞ。
+&gt; URLは下記です。
 &gt; 
-&gt; �ł͂܂��I</textarea><br>
+&gt; ではまた！</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 07fhw1  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="07fhw1"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 07fhw1  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="07fhw1"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -100,124 +100,124 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[155]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ���[�ƁA����</font>
+<font size=2>[155]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> えーと、その</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/16 (�y) 00:28:46 <strong>��</strong> �p�Y </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609166002846&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609166002846"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/16 (土) 00:28:46 <strong>▽</strong> 英雄 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609166002846_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200609166002846"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ă������c�c�������ł��˂��B<br>
-�ł�����₩�Ƃ������A�͂�Ƃ������B<br>
-���׋C�ȐF�����j�N�C�Ȃ��Ȃ�Ďv���Ȃ���ǂ܂��Ă��������܂����B<br>
-�������Ȃ�����̗\���ɂ͂��Ⴎ�p�ƁA���̉x�т��͂₭�������Ă��邠���������ɁA���ꂳ��Ȃ炸�Ƃ��ꖕ�̕s�������ڂ����肵�āH<br>
-����ɂ��Ă��F�X�ȋȂ��o�Ă��܂��ˁA����͉���e���Ă����̂ł��傤���H<br>
+<font size=3 color=#606060>何ていうか……えっちですねぇ。<br>
+でもさわやかというか、はつらつというか。<br>
+無邪気な色香がニクイなぁなんて思いながら読ませていただきました。<br>
+しかしながら恋の予感にはしゃぐ姿と、女の悦びをはやくも感じているあずさちゃんに、お母さんならずとも一抹の不安もおぼえたりして？<br>
+それにしても色々な曲が出てきますね、次回は何を弾いてくれるのでしょうか？<br>
 <br>
-�������y���݂ɂ��Ă��܂��B</font>
+続きを楽しみにしています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[154]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ��ÂƏ�M�̊�</font>
+<font size=2>[154]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 冷静と情熱の間</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/15 (��) 09:40:44 <strong>��</strong> <a href="mailto:leoobake@hotmail.com">������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609155094044&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609155094044"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/15 (金) 09:40:44 <strong>▽</strong> <a href="mailto:leoobake@hotmail.com">流離太</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609155094044_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200609155094044"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ��͂񂱁`�A�������ł���<br>
-�u��Ă̗��l���b�v�q�ǂ����Ă��������܂����`��<br>
-�����āA����͋������Ȃ��悤�ɂ��悤�B<br>
-�c�c�`���ł���܂����B<br>
-�����A�y���񂶂Ⴆ�I�i���j<br>
+<font size=3 color=#606060>こんにちはんこ〜、流離太です♪<br>
+「朱夏の恋人第二話」拝読させていただきました〜♪<br>
+さぁて、今回は興奮しないようにしよう。<br>
+……冒頭でやられました。<br>
+もう、楽しんじゃえ！（爆）<br>
 <br>
-�����A���̃^�C�g�����\���悤�ɁA��M�I�Œ��˖Ґi�Ȃ���������񂪂����I<br>
-�v�����񂾂�꒼���I<br>
-������A����꒼���I<br>
-�����A���������V�[���Ȃ�Ė{���ɋْ����������āc�c��Ɋ�����Ƃ́A���̂��Ƃ�������ł��傤�ˁB<br>
-�|��s�A�m���ł��āA���\�|�B�҂Ȃ񂾂Ȃ��i�O�O�j<br>
+もう、このタイトルが表すように、情熱的で猪突猛進なあずさちゃんがいい！<br>
+思い込んだら一直線！<br>
+だから、矢も一直線！<br>
+もう、弦を引くシーンなんて本当に緊張感があって……手に汗握るとは、このことを言うんでしょうね。<br>
+弓やピアノもできて、結構芸達者なんだなあ（＾＾）<br>
 <br>
-�����āA���߂Ẵf�[�g�I<br>
-���ꂳ��̌����ʂ�A�Ȃ񂩈ē��������Ⴗ�܂Ȃ�������<br>
-���c�c�Ƃ��Ȃ񂩈Ⴄ�悤�ȋC�����܂��B<br>
-����ς�A�s�r�����Ƃ��Ăł͂Ȃ��A���̎q�Ƃ��ĔF�߂Ă��ꂽ���߂Ă̑���ɂ͂��Ⴂ�ł�C���B<br>
-���`��A���ꂩ��ǂ��Ȃ��ł��傤�B<br>
-���Ȃ݂ɁA�������������D���ł����ǁA�����l���D���ł��i�O�O�j<br>
-���̃_���e�����Ղ�c�c���������L�������{���Ɏ��͍D���Ł�<br>
+そして、初めてのデート！<br>
+お母さんの言う通り、なんか案内だけじゃすまなさそう♪<br>
+恋……ともなんか違うような気がします。<br>
+やっぱり、ＴＳっ娘としてではなく、女の子として認めてくれた初めての相手にはしゃいでる気が。<br>
+う〜ん、これからどうなるんでしょう。<br>
+ちなみに、あずさちゃんも好きですけど、お父様も好きです（＾＾）<br>
+あのダメ親父っぷり……ああいうキャラが本当に私は好きで♪<br>
 <br>
-����ŁA����͂��Ɨ�ÂɌ��܂����B<br>
-���`�ƁA���̂ł����ǁc�c�{���Ɍ������Ƃ���܂���B<br>
-��ӏ��A��b�����͂���Łu���l�́v���d�����Ă����炢�ł����A�{���ɍ��ׂȉӏ��Ȃ̂ł��ɂȂ�܂���ł����B<br>
-�ނ���A�����������̍Ō�̃C���p�N�g�ɂ܂��������āc�c�i�z���}�ɗ�Â������̂��H�j<br>
+それで、今回はわりと冷静に見ました。<br>
+え〜と、文体ですけど……本当に言うことありません。<br>
+一箇所、会話文をはさんで「旅人は」が重複してたくらいですが、本当に些細な箇所なのできになりませんでした。<br>
+むしろ、あずさちゃんの最後のインパクトにまた興奮して……（ホンマに冷静だったのか？）<br>
 <br>
-��������A�y���܂��Ă��������܂�����<br>
-��ł́A����y���݂ɂ��Ă��܂��ł��I<br>
-����΂��Ă��������܂��`��</font>
+いやもう、楽しませていただきました♪<br>
+んでは、次回楽しみにしていますです！<br>
+がんばってくださいませ〜♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[153]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �X�����O�̎��͋|�I�H</font>
+<font size=2>[153]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> スリングの次は弓！？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/15 (��) 01:46:35 <strong>��</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">�o���b�g</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609155014635&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609155014635"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/15 (金) 01:46:35 <strong>▽</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">バレット</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609155014635_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200609155014635"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����ɛޏ����ɋ|��B�Â��ȋ�C�B�a�̃A���e�~�X�B<br>
-�@�o���b�g�ł��B�o���b�g�ł��B�o���b�g�ł��c�c<br>
+<font size=3 color=#606060>　黒髪に巫女服に弓矢。静かな空気。和のアルテミス。<br>
+　バレットです。バレットです。バレットです……<br>
 <br>
-�@���킢�������������̂Q�ʑ��B�z�Ƃ�����ɂȂ������Ǝv������A�����Ȃ茻�ꂽ���l�Ɉ�ڍ��ꂵ�Ė\���B�A�j�\���t���[�N�i�H�j�̕��e�����݂Ȃ�������ӁB�����Ă��������B<br>
-�@�ł��A�����̎�l���́w�������x�₢�₾�ƑʁX�����˂�̂ɁA���󂿂��Ƃ����A�����������Ƃ����A���̎q��͉����l���Ă���������̂��B<br>
-�@�������A�I�Ղ̂����������A������ƃ��o�����c�c�I<br>
+　かわいいあずさちゃんの２面相。凛とした顔になったかと思ったら、いきなり現れた旅人に一目惚れして暴走。アニソンフリーク（？）の父親を恨みながらも感謝。そしてお買い物。<br>
+　でも、多くの主人公は『買い物』やいやだと駄々をこねるのに、美空ちゃんといい、あずさちゃんといい、この子らは何を考えていらっしゃるのやら。<br>
+　しかも、終盤のあずさちゃん、ちょっとヤバいぞ……！<br>
 <br>
-�@���āA�ǂ��Ȃ�f�[�g�I�@�ǂ������邨������I�@�ǂ��v�����ꂳ��H<br>
-�@�ł��A�a�炪�������ɂȂ������Ƃɑ΂��Ĉ�Ԕ[���̍s���Ȃ��������ꂳ��𖡕��ɂ��Ă��܂��������������́A���킢�����牽������Ȃ��I�@�Ђ����牞�����܂��B<br>
+　さて、どうなるデート！　どうすするおじさん！　どう思うお母さん？<br>
+　でも、和也があずさになったことに対して一番納得の行かなかったお母さんを味方にしてしまったあずさちゃんは、かわいいから何も言わない！　ひたすら応援します。<br>
 <br>
-�@���āA������ǂ��o�Ă��܂����B<br>
-�@����L�ƈ�゠���݂����m��܂���B�L���ł����A���肳��͍����ǂ����ŗ���Ă��܂����A���̂Q�Ȃ�m��Ȃ��l�͂����Ƃ��Ȃ��ł��傤�B�c�c�����H�@����H�@�܂��������B�~�ɂȂ�Ɨ����̂́A�����A���c�a���I�H�@���炵�܂����B<br>
+　さて、今回も局が出てきました。<br>
+　尾崎豊と井上あずみしか知りません。有名ですし、尾崎さんは今もどこかで流れていますし、この２曲を知らない人はきっといないでしょう。……えっ？　いる？　まっさかぁ。冬になると流れるのは、えっ、小田和正！？　失礼しました。<br>
 <br>
-�@����Ă����I</font>
+　そりてぃあ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[152]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �w��Ă̗��l�Q�x������ɂ͉��̃����N���N���b�N</font>
+<font size=2>[152]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 『朱夏の恋人２』を見るには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/14 (��) 01:05:07 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609144010507&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609144010507"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/14 (木) 01:05:07 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609144010507_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200609144010507"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �����ďo�����͖K���B���q�ɏ�����e���̍������Łi�΁j<br>
-<a href=http://ts.novels.jp/novel/200605/05101055/shuka002.htm target=_top>http://ts.novels.jp/novel/200605/05101055/shuka002.htm</a></font>
+<font size=3 color=#606060>【推薦文】 そして出逢いは訪れる。調子に乗った親父の差し金で（笑）<br>
+<a href="../../novel/200605/05101055/shuka002.htm" target=_top>http://ts.novels.jp/novel/200605/05101055/shuka002.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[151]</font> <font size=4 color=#40c0c0> �����ǂ����I</font>
+<font size=2>[151]</font> <font size=4 color=#40c0c0> いつもどうも！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/12 (��) 22:49:13 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609122224913&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609122224913"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/12 (火) 22:49:13 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609122224913_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200609122224913"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Vࣂ���A���z���肪�Ƃ��������܂����A�����炩��x���Ȃ�܂��Ă��݂܂���B<br>
+<font size=3 color=#606060>天爛さん、感想ありがとうございました、こちらから遅くなりましてすみません。<br>
 <br>
-<font color="#ff88cc">���悪�ǂ߂Ȃ�</font><br>
-�M�p���܂���B�i���@�@�Ƃ����܂������ɖ^���œǂ܂�Ă�B�܁A����ł��ʔ����ǂ�Œ�����悤�Ɋ撣���ł�����ǂ��ˁB�Ƃ����킯�ō���̓m�[�q���g�A�܂�������������Ȃ��̂ŏ΂��Ȃ���ǂ�Œ�����΂Ȃɂ�肠�肪�����̂ł��B<br>
+<font color="#ff88cc">＞先が読めない</font><br>
+信用しません。（爆　　といいますか既に某所で読まれてる。ま、それでも面白く読んで頂けるように頑張るんですけれどもね。というわけで今回はノーヒント、まあ推理小説じゃないので笑いながら読んで頂ければなによりありがたいのです。<br>
 <br>
-�c�c�Ƃ����f���ɂ͘b���I���Ȃ��񂾂ȃR�����B�ƂƁA��΂���΂��B<br>
+……といいつつ素直には話が終わらないんだなコレが。とと、やばいやばい。<br>
 <br>
-����ł́B<br>
+それでは。<br>
 </font>
 <p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
 </td></table>
@@ -226,60 +226,60 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[150]</font> <font size=4 color=#40c0c0> �w��ĂP�x�ǂ݂܂����B</font>
+<font size=2>[150]</font> <font size=4 color=#40c0c0> 『朱夏１』読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/04 (��) 19:02:53 <strong>��</strong> <a href="mailto:mst_kg@infoseek.jp">�V�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609041190253&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609041190253"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/04 (月) 19:02:53 <strong>▽</strong> <a href="mailto:mst_kg@infoseek.jp">天爛</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609041190253_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200609041190253"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����Ӗ��Ő悪�ǂ߂Ȃ��c�c�B�i��<br>
+<font size=3 color=#606060>いい意味で先が読めない……。（笑<br>
 <br>
-����A���܂ł̃g���C������݂čŏI�I�ɕʐ��E�s���񂾂�Ȃ����Ă͕̂������ł���H<br>
-�ł��ǂ̗l�ɘb���i��ňِ��E�s�����ɂȂ�̂��S���ǂ߂Ȃ��B<br>
+いや、今までのトレイルからみて最終的に別世界行くんだろなぁってのは分かるんですよ？<br>
+でもどの様に話が進んで異世界行く事になるのか全く読めない。<br>
 <br>
-�܂��A�����Ȃ�s�r���Ă邩��Ջ��i�����j���������ƋC�t���Ă��Ȃ��͂��B<br>
-�ƌ������Ƃ͂����Ȃ���������Ď��ɁB<br>
-�����Ȃ�I�b�`�������o�Ă��Ă��m��Ȃ����Č��������B�i��<br>
+まず、いきなりＴＳしてるから虎球（仮名）が原因だと気付いていないはず。<br>
+と言うことはいざないがし難いって事に。<br>
+いきなりオッチャンが出てきても知んないって言いそう。（笑<br>
 <br>
-��ŁA���܂܂ł̃p�^�[�����炵�ď��̎q���ۂ��s�r�����Ɠ��N��̒j�̎q�̑g�ݍ��킹���Ǝv���B<br>
-�ŁA�^�C�g�����猾���ė��l�ɂȂ邿�イ���ƂŁA�킴�킴�߂�K�v�͔����������ɂȂ��B<br>
+んで、いままでのパターンからして女の子っぽいＴＳっ娘と同年代の男の子の組み合わせだと思う。<br>
+で、タイトルから言って恋人になるちゅうことで、わざわざ戻る必要は発生しそうにない。<br>
 <br>
-�ƌ����킯�œW�J���S���ǂ߂Ȃ��ł��B�i��<br>
-�Ƃ肠�����@�߂��Ⴍ����@���Ҋ��ҁ�@�ł��B<br>
+と言うわけで展開が全く読めないです。（笑<br>
+とりあえず　めちゃくちゃ　期待期待♪　です。<br>
 <br>
 <br>
-�c�c�A�Ȃ񂩋v���Ԃ�Ɂh���ʁh�̋������ꂳ��������C�������Vࣂł�����</font>
+……、なんか久しぶりに”普通”の強いお母さんを見た気がした天爛でしたｗ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[149]</font> <font size=4 color=#40c0c0> �����������̂Ŏ�̘b�����X�B</font>
+<font size=2>[149]</font> <font size=4 color=#40c0c0> 嬉しかったので趣味の話を少々。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/02 (�y) 20:23:28 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609026202328&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609026202328"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/02 (土) 20:23:28 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609026202328_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200609026202328"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����͂��邱�Ƃ��������񂠂��ĕ��͂Ȃ�ď����Ă�ɂ͂Ȃ��͂��A�Ȃ�ł����B�@�c�c�Ԏ��������Ȃ��ƋC��������A�Ȃ̂ŏ����Ă��܂��܂����I<br>
+<font size=3 color=#606060>　今日はすることがたくさんあって文章なんて書いてる暇はないはず、なんですが。　……返事を書かないと気もそぞろ、なので書いてしまいました！<br>
 <br>
-�@�c�c�c�c�B<br>
+　…………。<br>
 <br>
-�@�����z���肪�Ƃ��������܂��B�@���ꂵ���Đ����o�܂���B<br>
-�@�Ȏ��̂𕪂����Ă������������������΂����ȁA���炢�̋C�����ŁA�M�҂̎�S�J�Ŏn�߂��u��Ă̗��l�v�A�܂����Q/�R���u�e����v�����ǂ�ŉ������Ă����Ƃ́B�@�������Ȃ�Ɩ����I�@�{���Ɋ������ł��B<br>
+　ご感想ありがとうございます。　うれしくて声も出ません。<br>
+　曲自体を分かってくださる方がもしいればいいな、くらいの気持ちで、筆者の趣味全開で始めた「朱夏の恋人」、まさか２/３も「弾ける」方が読んで下さっていたとは。　しかもなんと矢治さん！　本当に嬉しいです。<br>
 <br>
-�@���A�s�����ăn�����Ń��}�g��e���Ă�̂��΂�Ă��܂���(�΁B�@�C�Z���A���ȁB<br>
+　あ、不精してハ長調でヤマトを弾いてるのがばれてしまった(笑。　イ短調、かな。<br>
 <br>
-<font color="#ff88cc">�����N�G�X�g�u�N���̂��āv�u��̓��v</font><br>
-�@���Ȃł��ˁB�ǂ�����������́i�����肩�́j���p�[�g���[�ɓ����Ă���܂��B�@����܂łɒ��������z�ɃA�j�\���ւ̔����������悤�ł�������A����͂�߂Ă��������ȁA�Ǝv���Ă����̂ł����A��͂�o�ꂳ���邱�Ƃɂ��܂����B�ł��̂ł��̂Q�Ȃւ̎v������͍쒆�ł������Ɍ�点�܂��ˁB�@�u�N���̂��āv�A���̐V���Ȗ`���̎n�܂��\��������悤�ȑO�t�A�ǂ��ł���ˁI�@���Ȃ݂Ɏ��͖�̑��̃V�[���̃A�����W����D���ł��B<br>
+<font color="#ff88cc">＞リクエスト「君をのせて」「南の虹」</font><br>
+　名曲ですね。どちらもあずさの（＝きりかの）レパートリーに入っております。　これまでに頂いた感想にアニソンへの反応が薄いようでしたから、次回はやめておこうかな、と思っていたのですが、やはり登場させることにしました。ですのでこの２曲への思い入れは作中であずさに語らせますね。　「君をのせて」、あの新たな冒険の始まりを予感させるような前奏、良いですよね！　ちなみに私は夜の凧のシーンのアレンジも大好きです。<br>
 <br>
-�@���ɂ��肩���悭�e���A�j�\���́A�u�󂩂炱�ڂꂽ�X�g�[���[�v(���T��z�[���Y�j�A�u����m�v�i�f��K���_���U�j�A�uLOVE SONG�v�i�k�l�̌��Q�j�Ƃ��A���쌀��ł�����u�����̃}���R�v�u�y���[�k���̂�����v�Ƃ��A�v�Ώ��ł�����u�߂���G�߁v(������̃e�[�}�A���ȁH�j�Ƃ��g�g���́u����ہv�Ƃ��c�c�c�������N���~�߂Ă����I<br>
+　他にきりかがよく弾くアニソンは、「空からこぼれたストーリー」(名探偵ホームズ）、「哀戦士」（映画ガンダムⅡ）、「LOVE SONG」（北斗の拳２）とか、名作劇場でしたら「草原のマルコ」「ペリーヌものがたり」とか、久石譲でしたら「めぐる季節」(魔女宅のテーマ、かな？）とかトトロの「さんぽ」とか………あああ誰か止めてえぇ！<br>
 <br>
-�@���ƁA�L�����A�ł����H�@���ʂɒ����ł��B�@��[�ƂQ�O�N������Ƃ��炢�ł��傤���c�c�H�@�ł����l�l�ɕ������邱�Ƃ�O��ɗ��K���Ă��Ȃ��̂ŁA���񂺂��肶��Ȃ��̂ł����B�@�f���Ȃ̓m�N�^�[���������Ă̓R���s���[�^�Ń��Y���␳���Ă���̂ł��c�c�B<br>
+　えと、キャリアですか？　無駄に長いです。　んーと２０年ちょっとくらいでしょうか……？　でも他人様に聞かせることを前提に練習していないので、ぜんぜん上手じゃないのでした。　掲示曲はノクターンを除いてはコンピュータでリズム補正してあるのです……。<br>
 <br>
-�@�Ƃ����킯�ŁB�@����̕��͎肪�󂫂܂����珑�������ē��e���܂��̂ł������������肻���ł��B�@�F�l�\���󂠂�܂��񂪏��X���҂��������܂��B</font>
+　というわけで。　次回の分は手が空きましたら書き直して投稿しますのでもう少しかかりそうです。　皆様申し訳ありませんが少々お待ち下さいませ。</font>
 <p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
@@ -287,134 +287,134 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[148]</font> <font size=4 color=#40c0c0> ��������ŋߒe���ĂȂ�</font>
+<font size=2>[148]</font> <font size=4 color=#40c0c0> そういや最近弾いてない</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/09/02 (�y) 00:53:24 <strong>��</strong> ��_�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200609026005324&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200609026005324"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/02 (土) 00:53:24 <strong>▽</strong> 矢治浩平 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200609026005324_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200609026005324"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���}�g�̓t�@���t�@�[�����E��őt�łȂ���x�[�X������ł�����ۂ��e���āA�a�������ꂢ�Ɍ��߂�Ƃ���Ȃ�ɕ�������̂ōD���ł��B�����̃s�A�m���͐ݒ��A�j�\���e���Ȃ���ł����A�����g�͂�2/3���炢�Đ��\�ł����B���������Ƃ��Ȃ��͓̂�Ȃ��炢�ł����ˁB<br>
+<font size=3 color=#606060>ヤマトはファンファーレを右手で奏でながらベースを左手でそれっぽく弾いて、和音をきれいに決めるとそれなりに聞こえるので好きです。うちのピアノ娘は設定上アニソン弾かないんですが、私自身はは2/3ぐらい再生可能でした。聞いたことがないのは二曲ぐらいですかね。<br>
 <br>
-�ǁ[����������A�u�N���̂��āv��O�t���Œe���ė~���������肵�܂��B������A�O�t�������񂾂ȁB���ꂩ��A�u��̓��v����̓}�W�����ŁA�悭�O�t����e���Ă܂����B���E���쌀��́A���Ȃ������ł��B<br>
+どーせだったら、「君をのせて」を前奏つきで弾いて欲しかったりします。あれも、前奏がいいんだな。それから、「南の虹」これはマジすきで、よく前奏から弾いてました。世界名作劇場は、名曲が多いです。<br>
 <br>
-���A���[���B�s�A�m�����Ă݂܂����B�Ȃ��Ȃ����܂�����Ȃ������B���\������ł����H</font>
+あ、そーだ。ピアノ聴いてみました。なかなかうまいじゃないすか。結構長いんですか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[147]</font> <font size=4 color=#40c0c0> ��������̂����z���肪�Ƃ��������܂��I</font>
+<font size=2>[147]</font> <font size=4 color=#40c0c0> たくさんのご感想ありがとうございます！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/29 (��) 04:44:54 <strong>��</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">���肩�i�m��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608292044454&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608292044454"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/29 (火) 04:44:54 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608292044454_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200608292044454"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�F�l�A�{���ɂ��肪�Ƃ��������܂��B����Ȃɒ�����Ƃ͂������ӂ̋ɂ݂ł��B<br>
-�u�����A����ɂ��́I�@�������ł��A��낵�����肢���܂��B�v<br>
+<font size=3 color=#606060>皆様、本当にありがとうございます。こんなに頂けるとはもう感謝の極みです。<br>
+「ここ、こんにちは！　あずさです、よろしくお願いします。」<br>
 <br>
 <br>
-������������A�������肪�Ƃ��������܂��I<br>
-<font color="#ff88cc">���n�܂�̏�ʂ���</font><br>
-����Ă��܂��܂����B�����Ȃ�A�ł����B<br>
-�ł����Z���������畁�ʂ͂�邩�ȁA�ƁB�@�ˁA�������B<br>
-�u�������A���́A�킽���ɂӂ�Ȃ��ŗ~������ł����ǁc�c�v<br>
+▼流離太さん、いつもありがとうございます！<br>
+<font color="#ff88cc">＞始まりの場面から</font><br>
+やってしまいました。いきなり、ですが。<br>
+でも高校生だったら普通はやるかな、と。　ね、あずさ。<br>
+「いえっ、あの、わたしにふらないで欲しいんですけど……」<br>
 <br>
-<font color="#ff88cc">�����킢��</font><br>
-�u�����ƁA���A���肪�Ƃ��������܂��I�v<br>
-�ڍׂ͒������񃌃X�̍��ŁB<br>
+<font color="#ff88cc">＞かわいい</font><br>
+「えっと、あ、ありがとうございます！」<br>
+詳細は長束さんレスの項で。<br>
 <br>
-<font color="#ff88cc">���m��Ȃ����y</font><br>
-�m��Ȃ��ł��敁�ʁB�z���g�ɂ��������̂�I��ŏ����Ă݂܂����B����ł��Ȃ�Ƃ��ǂ�Œ�����Ȃ�������̂ł����B<br>
-���Ȃ݂ɂ���܂ł̋L�^�́u�Q�Ȃ���������Ȃ������B�v���̒��ɂ͖{���ɂ������l��������̂ŁA�˂�K.�ɓ�����H<br>
-<br>
-<br>
-���o���b�g������������肪�Ƃ��������܂��I<br>
-<font color="#ff88cc">���Ƃ炽��</font><br>
-�u���āA�Ȃ�ł����H�v<br>
-���߂Ă̂��q����͉����Ǝv���ł��傤���V���[�Y�ʂ��Ă�TS�A�C�e���ł��B����͏o�Ԃ��Ȃ������B<br>
-�Ȃ��Ȃ��̂��Ƃ����Ƃق�A�u���@�N���Ă݂��珗�̎q�������v���Ăǁ[���Ă������Ă݂����āA�ł��ˁB<br>
-<br>
-<font color="#ff88cc">���F�B��</font><br>
-�u���A���́A�킽���Ȃ񂩂ł悯��΂��ЁI�v<br>
-�c�c����܂�ق��ق��t���Ă����̂��ǂ����Ƃ͎v�����ǁB<br>
-�u�ł��ł��A��낵�����肢���܂��I�v<br>
-�Ƃ����킯�ł��̂ł�낵�����Ă���ĉ������B���[�ł����y�͕΂��Ă܂��悱�̖��H<br>
-�u�傫�Ȃ����b�ł��I�v<br>
+<font color="#ff88cc">＞知らない音楽</font><br>
+知らないですよ普通。ホントにそういうのを選んで書いてみました。それでもなんとか読んで頂けるなら嬉しいのですが。<br>
+ちなみにこれまでの記録は「２曲だけ分からなかった。」世の中には本当にすごい人がいるもので、ねえK.伊藤さん？<br>
 <br>
 <br>
-��Kardy����@�ǂ������肪�Ƃ��������܂��I<br>
-�N���G�[�^�[�{�l�������������̂ł����I�@����͑����܂���ł����B���`�������܂��˖{���ɁB<br>
-Kardy����̂��w�E�ʂ�A���쌠��Jasrac�Ɩ��֌W�ɑ��݂���̂ł���ˁB�Q�[���֌W�̉�Ђ̔��f�͉p�f���Ǝv���܂����ǁA��͂�ł���΃A�[�e�B�X�g�̕��Łu�݂�Ȃŉ̂��Ăق�������o�^���܂���v�Ƃ����������~�����Ȃ��A�Ǝv���̂ł��B<br>
+▼バレットさんもいつもありがとうございます！<br>
+<font color="#ff88cc">＞とらたま</font><br>
+「って、なんですか？」<br>
+初めてのお客さんは何かと思うでしょうがシリーズ通してのTSアイテムです。今回は出番がないかも。<br>
+なぜないのかというとほら、「朝　起きてみたら女の子だった」ってどーしても書いてみたくて、ですね。<br>
 <br>
-�u�킽���́A�̂��Ă����݂̂͂�Ȃŉ̂����牿�l������A�Ǝv����ł����ǁB�v<br>
-���s�̒��쌠���Ă̂͌����҂̎���T�O�N�L���Ȃ킯�ł����B<br>
-�u�c�c�����܂Ŏc���Ă�̂��āA�����قƂ�ǂȂ��ł���ˁH�v<br>
-�܂������B<br>
+<font color="#ff88cc">＞友達に</font><br>
+「あ、あの、わたしなんかでよければぜひ！」<br>
+……あんまりほいほい付いていくのもどうかとは思うけど。<br>
+「でもでも、よろしくお願いします！」<br>
+というわけですのでよろしくしてやって下さい。あーでも音楽は偏ってますよこの娘？<br>
+「大きなお世話です！」<br>
 <br>
-����ł��������͂���̂ŁA���̂����g���C���Ŕ���������ď����Ă݂����Ǝv���Ă��܂��B<br>
 <br>
-Kardy���񂪏��N�������ɃC�x���g�ɒ񋟂��Ă��ꂽ�Ȃ�����܂��̂ŁA�܂������ĂȂ����͂��Ђǂ����I�i����ɐ�`�c�c���Ă����ł���ˁH�j<br>
+▼Kardyさん　どうもありがとうございます！<br>
+クリエーター本人からも徴収するのですか！　それは存じませんでした。ムチャいいますね本当に。<br>
+Kardyさんのご指摘通り、著作権はJasracと無関係に存在するのですよね。ゲーム関係の会社の判断は英断だと思いますけど、やはりできればアーティストの方で「みんなで歌ってほしいから登録しません」という動きが欲しいなあ、と思うのです。<br>
+<br>
+「わたしは、歌っていうのはみんなで歌うから価値がある、と思うんですけど。」<br>
+現行の著作権ってのは権利者の死後５０年有効なわけですが。<br>
+「……そこまで残ってる歌って、多分ほとんどないですよね？」<br>
+まったく。<br>
+<br>
+それでもいくつかはあるので、そのうちトレイルで皮肉を交えて書いてみたいと思っています。<br>
+<br>
+Kardyさんが少年少女文庫イベントに提供してくれた曲がありますので、まだ聞いてない方はぜひどうぞ！（勝手に宣伝……していいですよね？）<br>
 <br>
 <a href=http://www.novels.name/tsh/ target=_top>http://www.novels.name/tsh/</a><br>
-�P�Վ��T�A�u�܁v�̍��@�u�^�Ă̏��N���������v�@�����Ȃł���I<br>
+姫琴辞典、「ま」の項　「真夏の少年少女たち」　いい曲ですよ！<br>
 <br>
 <br>
-������������@���肪�Ƃ��������܂��I<br>
-�c�c���z�����������̂Ɏ��Ԃ��Ȃ��Ă��̂܂܂̍�i���������B���łɍ�鎞�Ԃ͐������Ԃ�������܂���B<br>
-���ɍŋ߂̓x�e�����̕����V���������ʔ�����i�������Ă�̂ł����B�u��������Łv�͂���ȍ�i�̂ЂƂA���̂������z�f���ɂ����ז������Ă��������܂��A�����ƁB<br>
+▼いすけさん　ありがとうございます！<br>
+……感想を書きたいのに時間がなくてそのままの作品がいくつも。すでに削る時間は睡眠時間しかありません。<br>
+特に最近はベテランの方も新しい方も面白い作品が続いてるのですが。「眠った後で」はそんな作品のひとつ、そのうち感想掲示板にもお邪魔させていただきます、きっと。<br>
 <br>
-<font color="#ff88cc">����Ă̕ϐl</font><br>
-�u�ς���Ȃ��ł��I�v<br>
-��[�ǂ����Ȃ��A�\���ς���Ă�Ǝv�����ǁB<br>
+<font color="#ff88cc">＞朱夏の変人</font><br>
+「変じゃないです！」<br>
+んーどうかなあ、十分変わってると思うけど。<br>
 <br>
-�W�J���̂͂���قǊ���Ȃ������̂ɂ͂Ȃ�Ȃ��̂ł��A�c�O�Ȃ���B�ł��C�����悭�ǂ�Œ�����悤�撣���ĎQ��܂��B<br>
+展開自体はそれほど奇を衒ったものにはならないのです、残念ながら。でも気持ちよく読んで頂けるよう頑張って参ります。<br>
 <br>
-<font color="#ff88cc">���C�L�i��</font><br>
-�˂��H<br>
-�u���A���̘b�͂������ق��Ă��������c�c�v<br>
-<br>
-<br>
-����������@�����ǂ������肪�Ƃ��������܂��B<br>
-<font color="#ff88cc">�����l�ł��邱�Ƃ�O��t�����Ă���</font><br>
-�����Ă���͖{���͐��������ƂȂ̂ł��B�����ăt�B�N�V�����Ȃ�ł����́A���킢���q�̘b��ǂޕ��������Ɩʔ����B<br>
-�u�c�c���Ⴀ�ǂ����Ă킽���͂���Ȃ�Ȃ�ł������H�v<br>
-��[�M�҂̎�H<br>
-�u�c�c�Ђǂ��ł��B���������v<br>
-<br>
-��k�͂��Ă����B�������͏��̎q�X�����܂�������ɓ˂�����܂�����A�܂������X�[�p�[�A�C�h���Ɏd���ĂĂ��ǂ���ł�����ǂ��A��������Ђ��ނ����Ńn���f�B�����z���Ă����A�݂����Ȏq�̕������͓I�����A�Ƃ����M�҂̓ǂ݂ł��B<br>
-<br>
-�u�c�c�������܂Ȃ��Ă��A������ł��ˁH�v<br>
-���z������΂ˁB<br>
-�u�c�c�c�c�v<br>
-<br>
-�q��^�l����̃��}�g�͕����Ă݂����ł��ˁB�ǂ������ł��B<br>
-���̋Ȃ̓K���_���Ƃ��ƈ���āi�����D���ȕ��͂��݂܂���j�ǂ��o�����ȂȂ̂ŒN���̂��Ă������Ƃ����d�オ��ɂȂ�Ǝv���̂ł��B���؈�Y����ł��x�]���Îq����ł��A���ꂱ�������̓��ӂȐV�����T����Ȃ񂩈ӊO�Ƒf���炵���̂Ɏd�グ�邩������Ȃ��ȁA�Ƃ��B<br>
-<br>
-���A���ꂩ�炻�낻��U���̍ĊJ���ꓯ�S�҂��ɂ������Ă���܂��B���������x���Ȃ���΁c�c�B<br>
+<font color="#ff88cc">＞イキナリ</font><br>
+ねえ？<br>
+「そ、その話はもう勘弁してください……」<br>
 <br>
 <br>
-���Z������A�ǂ������肪�Ƃ��������܂��I<br>
-<font color="#ff88cc">���ݒ�</font><br>
-�ʔ����Ǝv���Ă���������ƍK���ł��B�ӂ��͎��͂ɂ��Ƃ̎p��m���Ă�l�����āA�M���b�v�ɖG������Y�񂾂肷��P�[�X�������Ǝv���̂ł����A�ċx�ݒ��Ƃ����w�i������u���ʂ̏��̎q�ɂȂ����j�̎q�v�������Ă݂悤�A�Ƃ������Ƃł��B���Ă��āA�ǂ��Ȃ�܂����B<br>
+▼長束さん　いつもどうもありがとうございます。<br>
+<font color="#ff88cc">＞美人であることを前提付けられている</font><br>
+そしてそれは本当は正しいことなのです。だってフィクションなんですもの、かわいい子の話を読む方がきっと面白い。<br>
+「……じゃあどうしてわたしはこんなんなんですかっ？」<br>
+んー筆者の趣味？<br>
+「……ひどいです。しくしく」<br>
 <br>
-<font color="#ff88cc">���A�j�\��</font><br>
-����������������q�����Ă��Ƃ��������Ă���������΂���ł����̂ŁA�ǂݔ�΂��Ă��������A�ق�Ƃɂ��݂܂���B<br>
+冗談はさておき。あずさは女の子街道をまっしぐらに突っ走りますから、まあ可愛いスーパーアイドルに仕立てても良いんですけれども、それよりもひたむきさでハンディを乗り越えていく、みたいな子の方が魅力的かも、という筆者の読みです。<br>
 <br>
-�ł��A�s�A�m�ɏ悹���Y��ȋȂ����I���Ă鎩�M�͂������肵�܂��B<br>
+「……落ち込まなくても、いいんですね？」<br>
+乗り越えられればね。<br>
+「…………」<br>
 <br>
-�ŁA��`�B<br>
-�s�A�m�ȁA�������u���Ă݂܂����B�����A��낵��������B<br>
-�u���̂��́A�ł��V���[�g�̓Ƒt�Ȃ�Ė{���ɕ��������񂶂�c�c�v<br>
-�܁A����܂���҂��Ȃ��ŉ������ˁB<br>
+子門真人さんのヤマトは聞いてみたいですね。良さそうです。<br>
+あの曲はガンダムとかと違って（ああ好きな方はすみません）良く出来た曲なので誰が歌ってもきっといい仕上がりになると思うのです。水木一郎さんでも堀江美津子さんでも、それこそ高音の得意な新居昭乃さんなんか意外と素晴らしい歌に仕上げるかもしれないな、とか。<br>
 <br>
-�������̃~���[�W�b�N�{�b�N�X<br>
+あ、それからそろそろ散歩の再開を一同心待ちにいたしております。もし差し支えなければ……。<br>
+<br>
+<br>
+▼セルさん、どうもありがとうございます！<br>
+<font color="#ff88cc">＞設定</font><br>
+面白いと思っていただけると幸いです。ふつうは周囲にもとの姿を知ってる人がいて、ギャップに萌えたり悩んだりするケースが多いと思うのですが、夏休み中という背景もあり「普通の女の子になった男の子」を書いてみよう、ということです。さてさて、どうなりますやら。<br>
+<br>
+<font color="#ff88cc">＞アニソン</font><br>
+いやもうそういう子だってことが分かっていただければそれでいいので、読み飛ばしてください、ほんとにすみません。<br>
+<br>
+でも、ピアノに乗せて綺麗な曲を厳選してる自信はあったりします。<br>
+<br>
+で、宣伝。<br>
+ピアノ曲、いくつか置いてみました。もし、よろしかったら。<br>
+「あのあの、でもシロートの独奏なんて本当に聞けたもんじゃ……」<br>
+ま、あんまり期待しないで下さいね。<br>
+<br>
+あずさのミュージックボックス<br>
 <a href=http://kirika.novels.name/wiki/?%A5%C8%A5%EC%A5%A4%A5%EB%2F%B2%BB%B3%DA%C8%A2 target=_top>http://kirika.novels.name/wiki/?%A5%C8%A5%EC%A5%A4%A5%EB%2F%B2%BB%B3%DA%C8%A2</a><br>
-(�ȑO�ɗ���������̂Ƃ���ɒu�����̂ƕς���Ă���܂��j<br>
+(以前に流離太さんのところに置いたのと変わっております）<br>
 <br>
-����ł́A�܂�������撣��܂��ˁI<br>
+それでは、また次回も頑張りますね！<br>
 </font>
 <p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
 </td></table>
@@ -423,36 +423,36 @@ Kardy���񂪏��N�������ɃC�x���g�ɒ񋟂��Ă��ꂽ�Ȃ�����܂��̂ŁA�܂������ĂȂ��
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[146]</font> <font size=4 color=#40c0c0> ���z�Ȃ̂ł��B</font>
+<font size=2>[146]</font> <font size=4 color=#40c0c0> 感想なのです。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/08/28 (��) 19:57:43 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200608281195743&log=kirika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200608281195743"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/08/28 (月) 19:57:43 <strong>▽</strong> せる </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200608281195743_log_kirika.cgi">返信</a>　削除<input type=checkbox name="target" value="200608281195743"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��������I�@���Ȃ��Ɏ����������܂����I<br>
-�ǂ�������ł��B�܂����Ă��܂��܂����ł��B<br>
+<font size=3 color=#606060>お父さん！　あなたに私も共感しますっ！<br>
+どうもせるです。また来てしまいましたです。<br>
 <br>
-�������āA�ƂĂ��ʔ����ݒ�ł��ˁA����������B<br>
-�s�r�����݂̂Ȃ���͊�{�I�ɂ��Y��ŁA<br>
-���̂����ŁA���̂s�r��������̗F�B���Z����A���͂̐l������<br>
-�W���b�L���[���b�I<br>
-�ȏꍇ���قƂ�ǂȂ̂ɁA����������̏ꍇ�͈���āA���ʂɏ��̎q�B<br>
-�������񂪊y���݂ł��B<br>
-���āA�܂����ʗ��l�i��₩�H�j�͈�̂ǂ�Ȑl�Ȃ̂����H<br>
-����������ɂ͈�̂ǂ�ȉ^�����҂��Ă���̂����H<br>
-���ق̂��������͂ǂ�Ȗ����ŗ���̂����H<br>
-���낢��Ɗy���݂ł��B<br>
-�c�c�ƁA�A�j�\�����قƂ�ǒm��Ȃ��������͂��ꂾ�������ē����܂��B�i��<br>
+珍しくて、とても面白い設定ですね、あずささん。<br>
+ＴＳっ娘のみなさんは基本的にお綺麗で、<br>
+そのせいで、そのＴＳっ娘さんの友達やら兄弟やら、周囲の人たちが<br>
+ジュッキューンッ！<br>
+な場合がほとんどなのに、あずささんの場合は違って、普通に女の子。<br>
+ああ次回が楽しみです。<br>
+さて、まだ見ぬ恋人（候補か？）は一体どんな人なのかっ？<br>
+あずささんには一体どんな運命が待っているのかっ？<br>
+大阪弁のおっちゃんはどんな役回りで来るのかっ？<br>
+いろいろと楽しみです。<br>
+……と、アニソンをほとんど知らなかった私はこれだけ書いて逃げます。（ぇ<br>
 <br>
-����ł͎��Ȃ񂼂͂���Ŏ��炳���Ă��������܂��B<br>
-�ł͂ł́B</font>
+それでは私なんぞはこれで失礼させていただきます。<br>
+ではでは。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kirika">
@@ -460,16 +460,16 @@ Kardy���񂪏��N�������ɃC�x���g�ɒ񋟂��Ă��ꂽ�Ȃ�����܂��̂ŁA�܂������ĂȂ��
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kirika">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kirika">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kirika.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

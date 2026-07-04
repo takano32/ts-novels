@@ -56,7 +56,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 新たな力に目覚めしウィッシュ。ヴィスティアの華やかなコンビネーションとディレイドの旅の軌跡の競演！<br>
-<a href=http://ts.novels.jp/novel/201009/16215412/delayed11.htm target=_top>http://ts.novels.jp/novel/201009/16215412/delayed11.htm</a></font>
+<a href="../../novel/201009/16215412/delayed11.htm" target=_top>http://ts.novels.jp/novel/201009/16215412/delayed11.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -133,7 +133,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 ねじれてもつれた運命に導かれ、翼の変じたつばさはツバサ達と出会う。<br>
-<a href=http://ts.novels.jp/novel/201009/16215412/delayed10.htm target=_top>http://ts.novels.jp/novel/201009/16215412/delayed10.htm</a></font>
+<a href="../../novel/201009/16215412/delayed10.htm" target=_top>http://ts.novels.jp/novel/201009/16215412/delayed10.htm</a></font>
 </td></table>
 </td></tr></table>
 

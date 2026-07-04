@@ -1,42 +1,42 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���a�����i�@���z�f����</title>
+<title>七斬さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���a��i�@���z�f����</font>
+<font size=5>七斬作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="nanagiri">
 <input type=hidden name="nj" value="bGQRSgL2eI">
 <input type=hidden name="res" value="9">
-<h4 align=center>�� �L���ԍ� 9 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 9 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���H�@����Ȃɋ����ł������H"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �Ђ̂ЂƂ���
-&gt; ���������A�}���ɕ����Ƃ��Đ����Ă�Ǝv���܂����ǁc�c�B
-&gt; ��̕��̃V�[���ł����̎��ɐG��Ă܂����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:え？　そんなに強引ですかぁ？"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ひのひとさん
+&gt; けっこう、マメに伏線として生きてると思いますけど……。
+&gt; 後の方のシーンでもその事に触れてますし。
 &gt; 
-&gt; �ޏ�����c�c��������ł����ǁA�א_�������̔���������
-&gt; �l�I�Ƀq�b�g�ł����B����A���ɑ��߂Ȃ���ł���B</textarea><br>
+&gt; 巫女さん……もいいんですけど、邪神官たちの抜け加減が
+&gt; 個人的にヒットでした。いや、妙に憎めないんですよ。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -49,61 +49,61 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂��B</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/18 (��) 08:14:43 <strong>��</strong> ���a </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209183081443&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209183081443"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/18 (水) 08:14:43 <strong>▽</strong> 七斬 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209183081443_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209183081443"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�ł�ǂ낳��</font><br>
-�l�[�~���O�ɂ��ẮA�c�m���ɒ��������ł��ˁB<br>
-�܂��A���O�𒷂����������������ɂ݂��邩�ȂƎv�����肵����ł����A(�ޭ��Ѽޭ���<br>
-���v���΂���������ƒZ�����Ă��悩���������B<br>
-�ł����傤���Ȃ�����ŏI��܂ł��̂܂�܂����܂��B</font>
+<font size=3 color=#606060><font color="#cc88ff">&gt;でんどろさん</font><br>
+ネーミングについては、…確かに長かったですね。<br>
+まあ、名前を長くした方が強そうにみえるかなと思ったりしたんですが、(ｼﾞｭｹﾞﾑｼﾞｭｹﾞﾑ<br>
+今思えばもうちょっと短くしてもよかったかも。<br>
+でもしょうがないから最終回までこのまんまいきます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> �E�Ґ_�i�K�́K�j����!</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> 勇者神（゜∀゜）ｶｺｲｲ!</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/15 (��) 05:38:56 <strong>��</strong> �ł�ǂ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209150053856&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209150053856"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/15 (日) 05:38:56 <strong>▽</strong> でんどろ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209150053856_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209150053856"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ݂܂����`�B<br>
-�X�g���[�g�Ɍ����āA�ʔ��������I�ł��i��͂肱�̊�揑�H�������ăT�����C�n��/�}�e�j<br>
-�����łɂ��Ƃ����Ă��炢�܂�����B�b�̑g�ݗ��ĕ��Ƃ����A�����Ƃ����A�K�x�Ȓ����Ƃ����A�I�`�Ƃ����A��͂莵�a����͂��������l�����B<br>
-�l�n�m�c�n�����̃��C�g�j���O�o�g�����C�i�[�i�Ȃ����j���΂����茈�܂��Ă܂������ˁB<br>
-�������ƃ��{�b�g���`����l�͑��h���Ă��܂��܂��c�E���g�����C�J�[�c���������Ȃ��i�L�[�M�j<br>
-����̃V���A�X�ȓW�J�ɂ����҂��Ă��܂��B�j�����c�j�Ƃ����΂f�o�O�Q�T�C�T�i�}�e</font>
+<font size=3 color=#606060>読みました〜。<br>
+ストレートに言って、面白かった！です（やはりこの企画書？を持ってサンライＯに/マテ）<br>
+随所でにやりとさせてもらいましたよ。話の組み立て方といい、伏線といい、適度な長さといい、オチといい、やはり七斬さんはすごいお人だす。<br>
+ＭＯＮＤＯさん画のライトニングバトルライナー（ながっ）もばっちり決まってましたしね。<br>
+美少女とロボットが描ける人は尊敬してしまいます…ウルトラレイカー…懐かしいなあ（´ー｀）<br>
+次回のシリアスな展開にも期待しています。核かあ…核といえばＧＰ０２サイサ（マテ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> �K�E�I���C�g�j���O�h�����I</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> 必殺！ライトニングドリル！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/14 (�y) 22:58:12 <strong>��</strong> ���a </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209146225812&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209146225812"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/14 (土) 22:58:12 <strong>▽</strong> 七斬 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209146225812_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209146225812"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;ZERO����</font><br>
-�@�������B�悭����Ύ��Ă܂��ȁB<br>
-�@�l�n�m�c�n����Ɏ����玗���Ă���ƒ������������̂��Ƃ͂���B(��<br>
-�@����A�E���g�����C�J�[���āA�������ԃ��{�̒��ł��ł��������Ǝv���̂ł���B<br>
-�@�Ƃ����킯�ŁA���C�g�j���O�o�g�����C�i�[�𗧑̉�����Ƃ��̓E���g�����C�J�[�̉��C�ŁB(��<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;ZEROさん</font><br>
+　おおっ。よく見れば似てますな。<br>
+　ＭＯＮＤＯさんに私から似せてくれと注文しただけのことはある。(ぉ<br>
+　いや、ウルトラレイカーって、数ある列車ロボの中でも最も美しいと思うのですよ。<br>
+　というわけで、ライトニングバトルライナーを立体化するときはウルトラレイカーの改修で。(ｺﾗ<br>
 <br>
-<font color="#cc88ff">&gt;�䂠���݂̂�����</font><br>
-�@�h�����h�����c�����ƁA���܂������I�@�h������Y��Ă܂����I<br>
-�@�Ƃ����킯�Ń��C�g�j���O�o�g�����C�i�[�̕K�E�Z�B���C�g�j���O�h�����B�����߂��B<br>
-�@�ǉ��p�[�c�═���ɂ��ẮA�ЂƂl���Ă���d�|��������܂��B<br>
-�@�܂���ł����A�o�Ă�����A��������̂��Ƃ��ƕ�����Ǝv���܂��ł��B<br>
+<font color="#cc88ff">&gt;ゆあさのみきさん</font><br>
+　ドリルドリル…おっと、しまったぁ！　ドリルを忘れてました！<br>
+　というわけでライトニングバトルライナーの必殺技。ライトニングドリル。今決めた。<br>
+　追加パーツや武装については、ひとつ考えている仕掛けがあります。<br>
+　まだ先ですが、出てきたら、ああこれのことかと分かると思いますです。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -111,90 +111,90 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> �h�����͂Ȃ��́H�@�Ƃ��v������</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> ドリルはないの？　とか思ったり</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/14 (�y) 20:23:45 <strong>��</strong> <a href="mailto:y-miki@xb3.so-net.ne.jp">�䂠���݂̂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209146202345&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209146202345"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/14 (土) 20:23:45 <strong>▽</strong> <a href="mailto:y-miki@xb3.so-net.ne.jp">ゆあさのみき</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209146202345_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209146202345"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ܂��Ă��炢�܂����c�c���₢��A�E�҂ȓW�J�ł��ꂵ���ł��B<br>
-�E�Ґ_�͎O�̂Ƃ������Ƃł������ꂼ�ꂪ���升�̂ŃX�^���X�͓����݂����ł��ˁB<br>
-��Ԃ̑��l�����̂₻�̒ǉ��p�[�c�v���A�����v���͂����̂��ȁH<br>
-���₢�⒆�ՂŎO�E�Ґ_�����̂���Ƃ��i�ʖ��O���[�g���j�c�c�B<br>
-�܂�����Ȑ�̂��Ƃ͂Ƃ������A�y�h���N�T���h���N�͗ǂ��L�����ł��ˁB<br>
-����ɏo�Ԃ��Ȃ������ŏ����c�O�B</font>
+<font size=3 color=#606060>読ませてもらいました……いやいや、勇者な展開でうれしいです。<br>
+勇者神は三体ということですがそれぞれが巨大合体でスタンスは同等みたいですね。<br>
+定番の多人数合体やその追加パーツ要員、武装要員はおらんのかな？<br>
+いやいや中盤で三勇者神が合体するとか（別名グレート化）……。<br>
+まぁそんな先のことはともかく、ペドロ君サンドロ君は良いキャラですね。<br>
+次回に出番がないそうで少し残念。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> ���[��</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> うーむ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/14 (�y) 05:15:09 <strong>��</strong> ZERO </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209146051509&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209146051509"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/14 (土) 05:15:09 <strong>▽</strong> ZERO </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209146051509_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209146051509"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���C�o�[�X�g�̑�T�b�̃C���X�g�E�E�E�E���g�����C�J�[�ł���ˁB<br>
-���ƌ����A���̃G���u�����ƌ����B</font>
+<font size=3 color=#606060>レイバーストの第５話のイラスト・・・ウルトラレイカーですよね。<br>
+肩と言い、胸のエンブレムと言い。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> �݂Ȃ��܁A���ǂ݂����������肪�Ƃ��������܂��`�B</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> みなさま、お読みいただきありがとうございます〜。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/11 (��) 23:37:26 <strong>��</strong> ���a </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209113233726&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209113233726"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/11 (水) 23:37:26 <strong>▽</strong> 七斬 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209113233726_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209113233726"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt;�������C������</font><br>
-�@�}�b�h�Ȃ��������}���g�ɂ��߂Ă݂܂����i��<br>
-�@�������j�݂̂Â��́c���̂Ƃ��돑���\��͂Ȃ��ł��B�����܂���B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt;かもラインさん</font><br>
+　マッドなこだわりをマントにこめてみました（ぉ<br>
+　あしゅら男爵のつづきは…今のところ書く予定はないです。すいません。<br>
 <br>
-<font color="#cc88ff">&gt;�d�g�d������</font><br>
-�@���͂����Ȃ�ł���B<br>
-�@�������]�X�̃G�s�\�[�h�A�����Ă݂��畂���Ă��܂��āA�������̂��Ƃ΂�����폜���悤���Ǝv������ł����A�����Ȃ�Ǝ�l���̏o�Ԃ��قƂ�ǂȂ��Ȃ��Ă��܂������ŁA�ނ���Ȃ��Ă̂����Ă��܂��܂����B<br>
-�@�����ł��A�����Ȋ����͔ۂ߂Ȃ������Ǝv���܂��B<br>
+<font color="#cc88ff">&gt;電波妖精さん</font><br>
+　実はそうなんですよ。<br>
+　左利き云々のエピソード、書いてみたら浮いてしまって、いっそのことばっさり削除しようかと思ったんですが、そうなると主人公の出番がほとんどなくなっていまいそうで、むりやりつなげてのっけてしまいました。<br>
+　自分でも、強引な感じは否めなかったと思います。<br>
 <br>
-<font color="#cc88ff">&gt;�Ђ̂ЂƂ���</font><br>
-�@�����Ƃ��Đ����Ă���Ă܂������B�ǂ������肪�Ƃ��������܂��B<br>
-�@�א_���́A���̓�l�g�ȊO�ɂ����낢����I�Ȃ̂���葵��������ł��B<br>
-�@�c�O�Ȃ���A����̓y�h���ƃT���h���̓�l�g�͂��₷�݂ŁA�g���q���Ə@�E�q��̓�l�Ɋ��􂵂Ă��炢�܂��B<br>
+<font color="#cc88ff">&gt;ひのひとさん</font><br>
+　伏線として生きてくれてましたか。どうもありがとうございます。<br>
+　邪神官は、あの二人組以外にもいろいろ個性的なのを取り揃えたつもりです。<br>
+　残念ながら、次回はペドロとサンドロの二人組はおやすみで、トモヒロと宗右衛門の二人に活躍してもらいます。<br>
 <br>
-<font color="#cc88ff">&gt;�������񂳂�</font><br>
-�@�퓬��͐_�ЂŔӌ�ѐH�ׂĂ��܂��B�i��<br>
-�@�V�����̕��́c��ł��ˁB<br>
-�@�ǂ����ɗE�Ґ_��n���������肵�āB<br>
+<font color="#cc88ff">&gt;もぐたんさん</font><br>
+　戦闘後は神社で晩御飯食べています。（ｫｨ<br>
+　新幹線の方は…謎ですね。<br>
+　どこかに勇者神基地があったりして。<br>
 <br>
-<font color="#cc88ff">&gt;�����W�S�Q�U����</font><br>
-�@�͂��B�Y�o���A��s�@�ł��B�o�������[�Ƃ������X�^�[�������[�c<br>
-�@�G�Ɋւ��ẮA���ꂩ�玟�X�ɃV�����ɂȂ�񂱂Ƃ��ł����Ă����\��ł��B<br>
+<font color="#cc88ff">&gt;ｍｋ８４２６さん</font><br>
+　はい。ズバリ、飛行機です。バル○リーというよりスター○○○ー…<br>
+　敵に関しては、これから次々にシャレにならんことしでかしてくれる予定です。<br>
 <br>
-�ł͂܂��A��Z�b�ŁB</font>
+ではまた、第六話で。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 22:41:12 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209102224112&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102224112"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 22:41:12 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209102224112_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102224112"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��͂͂͂͂͂͂͂͂́I<br>
-�g�����X�t�H�[���[���͂��܂��q�J���A�����i�΁j�B<br>
-�N���}�̎��͂r�k���V�������āE�E�E�B<br>
-���Ⴀ�Ō�̗E�Ґ_�͔�s�@���Ȃ񂩂��ȁH�i�o�������[�E�E�E���j<br>
-����ȓۋC�Șb�Ƃ͗����ɁA�Ȃ񂾂��G����͋��낵����ɑ��肻���ł����B<br>
-�܂��A�Ȃ�ɂ���A���񂪊y���݂ł��ȁB</font>
+<font size=3 color=#606060>わははははははははは！<br>
+トラ○スフォー○ーかはたまたヒカ○アンか（笑）。<br>
+クルマの次はＳＬ＆新幹線って・・・。<br>
+じゃあ最後の勇者神は飛行機かなんかかな？（バル○リー・・・爆）<br>
+そんな呑気な話とは裏腹に、なんだが敵さんは恐ろしい策に走りそうですが。<br>
+まあ、なんにせよ、次回が楽しみですな。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -202,38 +202,38 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> ���[���</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> うーんと</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 20:46:45 <strong>��</strong> �������� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209102204645&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102204645"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 20:46:45 <strong>▽</strong> もぐたん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209102204645_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102204645"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��^��E�E�E�E<br>
+<font size=3 color=#606060>一つ疑問・・・・<br>
 <br>
-�퓬��A�o�g�����C�i�[�͂ǂ��ɋ���̂��낤���H<br>
-�Ԍɂɂ���Ȃ琮�����̐l�́A�m��Ȃ��V���������Ăт����肵�Ă邩���E�E�E�E�E�E�E�E�E<br>
+戦闘後、バトルライナーはどこに居るのだろうか？<br>
+車庫にいるなら整備員の人は、知らない新幹線増えてびっくりしてるかも・・・・・・・・・<br>
 <br>
 <br>
-�ɂ�</font>
+にゅ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> ���H�@����Ȃɋ����ł������H</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> え？　そんなに強引ですかぁ？</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/10 (��) 11:26:45 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209102112645&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209102112645"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/10 (火) 11:26:45 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209102112645_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209102112645"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������A�}���ɕ����Ƃ��Đ����Ă�Ǝv���܂����ǁc�c�B<br>
-��̕��̃V�[���ł����̎��ɐG��Ă܂����B<br>
+<font size=3 color=#606060>けっこう、マメに伏線として生きてると思いますけど……。<br>
+後の方のシーンでもその事に触れてますし。<br>
 <br>
-�ޏ�����c�c��������ł����ǁA�א_�������̔���������<br>
-�l�I�Ƀq�b�g�ł����B����A���ɑ��߂Ȃ���ł���B<br>
+巫女さん……もいいんですけど、邪神官たちの抜け加減が<br>
+個人的にヒットでした。いや、妙に憎めないんですよ。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -241,24 +241,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> �ɂ�</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> にゃ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/09/09 (��) 22:25:14 <strong>��</strong> �d�g�d�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200209091222514&log=nanagiri">�ԐM</a>�@�폜<input type=checkbox name="target" value="200209091222514"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/09/09 (月) 22:25:14 <strong>▽</strong> 電波妖精 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200209091222514_log_nanagiri.cgi">返信</a>　削除<input type=checkbox name="target" value="200209091222514"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ޏ�����̕`�ʂ���Ȃ��āE�E�ESL�̕`�ʂɗ͂������Ă��܂����˂��B<br>
-������G�������Ȃ������̂�������܂���B<br>
-�ł��A�ǂ����̃��{�b�g�A�j���ȓW�J�͔M�������ł��您�B<br>
-����ɂ��Ă��A�`���̃V�[���͈�̂Ȃ񂾂����̂����܂����킩���ł����B<br>
-�������E�E�E���ׂĂ͂��̂��Ƃ̕����������̂��ƁA���Ȃ苭���ɔ[���͂��Ă��܂����ǁB</font>
+<font size=3 color=#606060>巫女さんの描写じゃなくて・・・SLの描写に力が入っていましたねえ。<br>
+だから萌えが少なかったのかもしれません。<br>
+でも、どっかのロボットアニメな展開は熱かったですよお。<br>
+それにしても、冒頭のシーンは一体なんだったのかいまいちわからんでした。<br>
+そうか・・・すべてはあのことの伏線だったのかと、かなり強引に納得はしていますけど。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="nanagiri">
@@ -266,16 +266,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="nanagiri">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=nanagiri">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_nanagiri.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

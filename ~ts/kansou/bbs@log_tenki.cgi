@@ -85,7 +85,7 @@ link<input type=checkbox name="link" value="1" checked>
 　まあ彼女を差し引いても、やはりそれほど違わない……ような、そうでもないような……まあ違う雰囲気だとして、今までの挑戦の成果が現れてるんだとしたら、それはいいことなのかしら？<br>
 <br>
 ※『三枝すぐる』はイベント『T's☆Heart』の登場人物です。T's知らない人は以下で詳細が見れます。<br>
-<a href=http://ts.novels.jp/novel/200112/20210702/tsheart.htm target=_top>http://ts.novels.jp/novel/200112/20210702/tsheart.htm</a><br>
+<a href="../../novel/200112/20210702/tsheart.htm" target=_top>http://ts.novels.jp/novel/200112/20210702/tsheart.htm</a><br>
 <br>
 <br>
 <font color="#cc88ff">&gt; 簡単でしたが本編も期待してます（笑<br>
@@ -326,7 +326,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】バレットさんの『アナログ所さん　電脳大冒険Special』の舞台になったバーチャリティ・オンラインゲーム『ダーク・キングダム』。そこには開発スタッフたちの血と汗と涙が……って君たちィィッ！！　お酒は二十歳（はたち）になってから〜っ！！（笑）<br>
-<a href=http://ts.novels.jp/novel/200512/22203201/analog_cpq0.html target=_top>http://ts.novels.jp/novel/200512/22203201/analog_cpq0.html</a></font>
+<a href="../../novel/200512/22203201/analog_cpq0.html" target=_top>http://ts.novels.jp/novel/200512/22203201/analog_cpq0.html</a></font>
 </td></table>
 </td></tr></table>
 

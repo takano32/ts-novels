@@ -107,7 +107,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】謎の少年の出現で、「更生プログラム」の全容が今、白日のもとに……なるのか？（笑）<br>
-<a href=http://ts.novels.jp/novel/200403/23212423/alacarte04.htm target=_top>http://ts.novels.jp/novel/200403/23212423/alacarte04.htm</a></font>
+<a href="../../novel/200403/23212423/alacarte04.htm" target=_top>http://ts.novels.jp/novel/200403/23212423/alacarte04.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -157,7 +157,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】少しずつ自分の思いに気づいていく季哉くん。悠良との出会いで何が起こるのか？<br>
-<a href=http://ts.novels.jp/novel/200403/23212423/alacarte03.htm target=_top>http://ts.novels.jp/novel/200403/23212423/alacarte03.htm</a></font>
+<a href="../../novel/200403/23212423/alacarte03.htm" target=_top>http://ts.novels.jp/novel/200403/23212423/alacarte03.htm</a></font>
 </td></table>
 </td></tr></table>
 

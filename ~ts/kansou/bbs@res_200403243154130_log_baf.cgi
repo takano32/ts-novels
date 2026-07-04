@@ -1,53 +1,53 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>BAF�����i�@���z�f����</title>
+<title>BAFさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>BAF�����i�@���z�f����</font>
+<font size=5>BAFさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="baf">
 <input type=hidden name="nj" value="qhQxE6Bbm1">
 <input type=hidden name="res" value="86">
-<h4 align=center>�� �L���ԍ� 86 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 86 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:���X�ł����ǂ݂܂�����"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ROY����
-&gt; �}�����ĂȂ�ʔ��d���āA�ʔ��������ł���
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:今更ですが読みました♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ROYさん
+&gt; マリ見てならぬ八重見て、面白かったです♪
 &gt; 
-&gt; �����j�q�Z�o�g�A���[�����w��m��Ȃ������Ƃ��������̎������������肵�܂����i�������
-&gt; �E�`�͐����L��A�`���L��̃J�g���b�N�̃~�b�V�����X�N�[���ŁA�}�����Ēj�q�Z.ver�݂����Ȋw�Z����������Łi���C�Ƀ����A���w�@���Â�㩂��j�A���肪�L�c��������Ńg�����N�X�P���Ƃ��͂��Ȃ����������ˁ[�������߂Ă邾���ő̈狳�����Ɉ��������Ă���Ńo���J���Ŋۊ���ɂ���悤�Ȋw�Z�Ȃ���ł�
+&gt; 俺も男子校出身、っつーか共学を知らなかったという驚愕の事実があったりしますが（だじゃれ
+&gt; ウチは制服有り、伝統有りのカトリックのミッションスクールで、マリ見て男子校.verみたいな学校だったもんで（何気にリリアン学院より古い罠ｗ）、縛りがキツかったんでトランクス１丁とかはいなかったっすねーｗ髪染めてるだけで体育教官室に引っ張ってかれでバリカンで丸刈りにするような学校なもんでｗ
 &gt; 
-&gt; �j�q�Z�����Ă�ƁAAV/�۹ް�Ȃ񂩂����s���Ă܂����ȁB�I�^�N�䗦�����ɍ����X���ł�
+&gt; 男子校いってると、AV/ｴﾛｹﾞｰなんかが横行してましたな。オタク比率が妙に高い傾向でｗ
 &gt; 
-&gt; ��ŁA�E�`�̊w�Z�̏ꍇ�́A�ł����ǁB�g�V��ł�z���ޏ�����z�h�ł����ˁB��Łg�׋��ȊO���ɂȂ������h�Ȃ͓̂���2%���炢�ŁA�g�����Ƃ����\�ǂ��ł��悭�Ȃ��āh����A�����c��̔���(�����̏��w�Z���痈���A������������)�A�X�Ɏc��A�����g�ޏ�ν����Ǐo���������ΗE�C���Ȃ��h�A���ŁA�x�ݎ��Ԃ̓x���Βk���Ă���ăJ���W�̂��U���E�c��S���͎G���ǂ񂾂�Ƃ����Ȃ���
+&gt; んで、ウチの学校の場合は、ですけど。“遊んでる奴＞彼女居る奴”でしたね。んで“勉強以外頭になさそう”なのは同じ2%くらいで、“恋愛とか結構どうでもよくなって”いる連中が残りの半分(公立の小学校から来た連中が多かった)、更に残る連中が“彼女ﾎｽｨけど出会いも無ければ勇気もない”連中で、休み時間の度に猥談してるってカンジのが６割・残り４割は雑誌読んだりとかかなぁｗ
 &gt; 
-&gt; �g�ޏ�ν����Ǐo���������ΗE�C���Ȃ��h�A���̔��R���̓I�^�N���������Ɓi�΁B����z�̓��b�J�[�̒��ɓ��l������Ă邵�A����z�̓Q�[���G�������Ă邵�A���Ăȶݼނ̂�
+&gt; “彼女ﾎｽｨけど出会いも無ければ勇気もない”連中の半３割はオタクだったかと（笑。ある奴はロッカーの中に同人誌入れてるし、ある奴はゲーム雑誌もってるし、ってなｶﾝｼﾞのｗ
 &gt; 
-&gt; ��ł܁[���ƒ��́A�V��ł�z�̑唼�͎��Ƃ��}�g���Ɏ󂯂ĂȂ��āA�I�^�N�̑唼�͎��ƒ��ɏ����ǂ�ł����Ȃ��G��`���Ă�z������������
+&gt; んでまー授業中は、遊んでる奴の大半は授業をマトモに受けてなくて、オタクの大半は授業中に小説読んでたかなｗ絵を描いてる奴もいたかｗｗ
 &gt; 
-&gt; ������Ƃ��̔䗦�́A�o�t�Ёi�A�N�V�����Ƃ�Men's�����O�Ƃ��o���Ă�o�ŎЂˁj����o�Ă閟��w���q�����x�i�哇�i���j�̑�T�����@���ɕ\���Ă܂��ˁB�A�����j�q�Z�ɂ����\���Ă͂܂�i�΁B�Q�C�͊w�N�ɂP�l���炢�o�邩�Ȃ��B�l��̂P�w�N��̓J�b�v���݂����Ȃ̂����܂���������
+&gt; そこんとこの比率は、双葉社（アクションとかMen'sヤングとか出してる出版社ね）から出てる漫画『女子高生』（大島永遠）の第５巻が如実に表してますね。アレが男子校にも結構当てはまる（笑。ゲイは学年に１人くらい出るかなぁ。僕らの１学年上はカップルみたいなのがいましたがｗｗ
 &gt; 
-&gt; �܂��A�Q�l�ɂȂ邩�ǂ����̓T�b�p���ł����ǁA���񋟂̂���ő̌��k�i�H�j�������Ƃ��܂����B���҂̎Q�l�����ɂȂ�΍K���Ƒ����܂��ł���A�����B�΂肷���ĂĂȂ�Ȃ������ł�����ǁi�΁B</textarea><br>
+&gt; まぁ、参考になるかどうかはサッパリですけど、情報提供のつもりで体験談（？）を書いときました。続編の参考資料になれば幸いと存じますですよ、ええ。偏りすぎててならないかもですけれど（笑。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -60,16 +60,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[93]</font> <font size=4 color=#40c0c0> ����͂�A�u�^�Ղ̃f�[�g����v</font>
+<font size=2>[93]</font> <font size=4 color=#40c0c0> いやはや、「真琴のデート大作戦」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/30 (��) 07:48:48 <strong>��</strong> �悵���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405300074848&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405300074848"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/30 (日) 07:48:48 <strong>▽</strong> よしおか </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405300074848_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200405300074848"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̂��o���ܕ��A�u�o���W����v���A�uD�f�B�㗤���v�Ȃ݂̍��i�ߕ��Ɛ��s����g�D���āA�f�[�g���T�|�[�g�������ł��ˁB�u�U������΂��˂����܂�����v�Ȃ�ĂˁB<br>
-���̑O�ɂ��o���܂Ƃ̃f�[�g�H��������Ȃ�y�������@^^�j<br>
-BAF����A��������āA�΂��������đ҂��Ă܁`�`���I</font>
+<font size=3 color=#606060>このお姉さま方、「バルジ大作戦」か、「Dディ上陸作戦」なみの作戦司令部と潜行隊を組織して、デートをサポートしそうですね。「振り向けばおねえさまがいる」なんてね。<br>
+その前にお姉さまとのデート？これもかなり楽しそう　^^）<br>
+BAFさん、腹を抱えて、笑う準備して待ってま〜〜す！</font>
 <p><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a>
 </td></table>
 </td></tr></table>
@@ -77,44 +77,44 @@ BAF����A��������āA�΂��������đ҂��Ă܁`�`���I</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[92]</font> <font size=4 color=#40c0c0> �ǂ�ł����������肪�Ƃ��������܂��B</font>
+<font size=2>[92]</font> <font size=4 color=#40c0c0> 読んでいただきありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/29 (�y) 02:26:35 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405296022635&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405296022635"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/29 (土) 02:26:35 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405296022635_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200405296022635"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���X���x��Đ\���󂠂�܂���B<br>
+<font size=3 color=#606060>レスが遅れて申し訳ありません。<br>
 <br>
-<font color="#ff88cc">�������W�S�Q�U�������<br>
-�����̖͂ʁX�Ɋ��S�ɃI���`���ɂ���Ă���Ƃ��낪�ō��ł��ȁB</font><br>
+<font color="#ff88cc">＞ｍｋ８４２６＠自宅さん<br>
+＞周囲の面々に完全にオモチャにされているところが最高ですな。</font><br>
 <br>
-�����ł��˂��o���܂̌������Ƃ͐�΂ł�����B�ł����o���܂��P�ӂł���Ă�񂾂Ǝv����ł����ǂˁE�E�E�����i�O�O�G<br>
+そうですねお姉さまの言うことは絶対ですから。でもお姉さまも善意でやってるんだと思うんですけどね・・・多分（＾＾；<br>
 <br>
-<font color="#ff88cc">��酉J����<br>
-�����[�Ƌ��낵�����Ƃ΂���̊w�Z�ł��ˁB<br>
-�����������ɂ�����Ƒz�����Ă݂��炻��͂����E�E�i���j</font><br>
+<font color="#ff88cc">＞驟雨さん<br>
+＞えーと恐ろしいことばかりの学校ですね。<br>
+＞私がここにいたらと想像してみたらそれはもう・・（爆）</font><br>
 <br>
-���₠�A�Ƃ肠������N����O�l�����o��΁A���K�ɂȂ�͂��Ȃ�ł����A���Ăǂ��Ȃ邱�Ƃ��H<br>
+いやあ、とりあえず一年から三人妹が出れば、快適になるはずなんですが、さてどうなることやら？<br>
 <br>
-<font color="#ff88cc">���C�邳��<br>
-���^�R�~�b�N�X�́u���q�����Ƃ��D��������I�v�݂����ȋC�������ł����c</font><br>
+<font color="#ff88cc">＞海城さん<br>
+＞某コミックスの「女子高生とか好きだから！」みたいな気がするんですが…</font><br>
 <br>
-���̒ʂ�ł��B���O���_����{���������ł����B���₠�A�N���˂�����ł���Ȃ�������ǂ����悤�Ǝv���Ă�����ł����悩�����B�i�O�O�j</font>
+その通りです。名前も棒が一本多いだけですし。いやあ、誰も突っ込んでくれなかったらどうしようと思っていたんですがよかった。（＾＾）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[91]</font> <font size=4 color=#40c0c0> �{���̌��l�^���āc</font>
+<font size=2>[91]</font> <font size=4 color=#40c0c0> 本村の元ネタって…</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/28 (��) 15:45:48 <strong>��</strong> �C�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405285154548&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405285154548"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/28 (金) 15:45:48 <strong>▽</strong> 海城 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405285154548_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200405285154548"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�^�R�~�b�N�X�́u���q�����Ƃ��D��������I�v�݂����ȋC�������ł����c<br>
+<font size=3 color=#606060>某コミックスの「女子高生とか好きだから！」みたいな気がするんですが…<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -122,32 +122,32 @@ BAF����A��������āA�΂��������đ҂��Ă܁`�`���I</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[90]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[90]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/27 (��) 21:57:58 <strong>��</strong> <a href="mailto:gensan@k8.dion.ne.jp">酉J</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405274215758&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405274215758"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/27 (木) 21:57:58 <strong>▽</strong> <a href="mailto:gensan@k8.dion.ne.jp">驟雨</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405274215758_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200405274215758"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ŋߗ��č���ł܂��āE�E�E�ŐV���ǂ݂̂����Ă��܂����E�E�B<br>
-���[�Ƌ��낵�����Ƃ΂���̊w�Z�ł��ˁB<br>
-���������ɂ�����Ƒz�����Ă݂��炻��͂����E�E�i���j</font>
+<font size=3 color=#606060>最近立て込んでまして・・・最新作を読みのがしていました・・。<br>
+えーと恐ろしいことばかりの学校ですね。<br>
+私がここにいたらと想像してみたらそれはもう・・（爆）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[89]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[89]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/26 (��) 00:42:10 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405263004210&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405263004210"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/26 (水) 00:42:10 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405263004210_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200405263004210"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��͂͂͂́I<br>
-���̖͂ʁX�Ɋ��S�ɃI���`���ɂ���Ă���Ƃ��낪�ō��ł��ȁB<br>
-����͎�����ڂ𗣂��܂���ˁB���A�ō��i���j�B</font>
+<font size=3 color=#606060>わはははは！<br>
+周囲の面々に完全にオモチャにされているところが最高ですな。<br>
+これは次回も目を離せませんね。も、最高（爆）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -155,86 +155,86 @@ BAF����A��������āA�΂��������đ҂��Ă܁`�`���I</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[88]</font> <font size=4 color=#40c0c0> �w���d�F�l���݂Ă�R�x������ɂ͉��̃����N���N���b�N</font>
+<font size=2>[88]</font> <font size=4 color=#40c0c0> 『八重洲様がみてる３』を見るには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/25 (��) 12:42:36 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405252124236&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405252124236"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/25 (火) 12:42:36 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405252124236_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200405252124236"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �f�[�g�͐푈�ł����c�c���o�l���B<br>
+<font size=3 color=#606060>【推薦文】 デートは戦争ですか……お姉様方。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200011/15112734/lookyays_03.html target=_top>http://ts.novels.jp/novel/200011/15112734/lookyays_03.html</a></font>
+<a href="../../novel/200011/15112734/lookyays_03.html" target=_top>http://ts.novels.jp/novel/200011/15112734/lookyays_03.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[87]</font> <font size=4 color=#40c0c0> Re:���X�ł����ǂ݂܂�����</font>
+<font size=2>[87]</font> <font size=4 color=#40c0c0> Re:今更ですが読みました♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/28 (��) 13:40:14 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403280134014&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403280134014"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/28 (日) 13:40:14 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403280134014_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200403280134014"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���X���x��čς݂܂���B<br>
+<font size=3 color=#606060>レスが遅れて済みません。<br>
 <br>
-<font color="#ff88cc">��ROY����</font><br>
+<font color="#ff88cc">＞ROYさん</font><br>
 <br>
-<font color="#ff88cc">���}�����ĂȂ�ʔ��d���āA�ʔ��������ł���</font><br>
+<font color="#ff88cc">＞マリ見てならぬ八重見て、面白かったです♪</font><br>
 <br>
-�y����ł����������̂Ȃ�K���ł��B<br>
-�j�q�Z�̓���A��ώQ�l�ɂȂ�܂����B�������A�~�b�V�����X�N�[���Ƃ����Ƃ��Ȃ茵�l�ȃC���[�W������̂ł����AAV��G���Q�[�Ȃ�ăC���[�W���Ⴂ�܂��ˁi�O�O�j<br>
-��͂�Z���Ƃ��ɂ���Ă��w�Z���̗l�q�͈Ⴄ�̂ł��傤�ˁB�������Q�l�ɂȂ�܂����B���ꂩ��̎Q�l�ɂ����Ă��炢�܂��B�w���q�����x�̕����@�����Γǂ�Ō��܂��ˁB<br>
-�܂��A�ʔ����Ƃ�������̂������Ă��������Ǝv���܂��̂ł��ꂩ�����낵�����肢�������܂��B</font>
+楽しんでいただけたのなら幸いです。<br>
+男子校の内情、大変参考になりました。しかし、ミッションスクールというとかなり厳粛なイメージがあるのですが、AVやエロゲーなんてイメージが違いますね（＾＾）<br>
+やはり校風とかによっても学校内の様子は違うのでしょうね。しかし参考になりました。これからの参考にさせてもらいます。『女子高生』の方も機会があれば読んで見ますね。<br>
+また、面白いといわれるものを書いていきたいと思いますのでこれからもよろしくお願いいたします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[86]</font> <font size=4 color=#40c0c0> ���X�ł����ǂ݂܂�����</font>
+<font size=2>[86]</font> <font size=4 color=#40c0c0> 今更ですが読みました♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/24 (��) 15:41:30 <strong>��</strong> ROY </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403243154130&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403243154130"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/24 (水) 15:41:30 <strong>▽</strong> ROY </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403243154130_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200403243154130"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�}�����ĂȂ�ʔ��d���āA�ʔ��������ł���<br>
+<font size=3 color=#606060>マリ見てならぬ八重見て、面白かったです♪<br>
 <br>
-�����j�q�Z�o�g�A���[�����w��m��Ȃ������Ƃ��������̎������������肵�܂����i�������<br>
-�E�`�͐����L��A�`���L��̃J�g���b�N�̃~�b�V�����X�N�[���ŁA�}�����Ēj�q�Z.ver�݂����Ȋw�Z����������Łi���C�Ƀ����A���w�@���Â�㩂��j�A���肪�L�c��������Ńg�����N�X�P���Ƃ��͂��Ȃ����������ˁ[�������߂Ă邾���ő̈狳�����Ɉ��������Ă���Ńo���J���Ŋۊ���ɂ���悤�Ȋw�Z�Ȃ���ł�<br>
+俺も男子校出身、っつーか共学を知らなかったという驚愕の事実があったりしますが（だじゃれ<br>
+ウチは制服有り、伝統有りのカトリックのミッションスクールで、マリ見て男子校.verみたいな学校だったもんで（何気にリリアン学院より古い罠ｗ）、縛りがキツかったんでトランクス１丁とかはいなかったっすねーｗ髪染めてるだけで体育教官室に引っ張ってかれでバリカンで丸刈りにするような学校なもんでｗ<br>
 <br>
-�j�q�Z�����Ă�ƁAAV/�۹ް�Ȃ񂩂����s���Ă܂����ȁB�I�^�N�䗦�����ɍ����X���ł�<br>
+男子校いってると、AV/ｴﾛｹﾞｰなんかが横行してましたな。オタク比率が妙に高い傾向でｗ<br>
 <br>
-��ŁA�E�`�̊w�Z�̏ꍇ�́A�ł����ǁB�g�V��ł�z���ޏ�����z�h�ł����ˁB��Łg�׋��ȊO���ɂȂ������h�Ȃ͓̂���2%���炢�ŁA�g�����Ƃ����\�ǂ��ł��悭�Ȃ��āh����A�����c��̔���(�����̏��w�Z���痈���A������������)�A�X�Ɏc��A�����g�ޏ�ν����Ǐo���������ΗE�C���Ȃ��h�A���ŁA�x�ݎ��Ԃ̓x���Βk���Ă���ăJ���W�̂��U���E�c��S���͎G���ǂ񂾂�Ƃ����Ȃ���<br>
+んで、ウチの学校の場合は、ですけど。“遊んでる奴＞彼女居る奴”でしたね。んで“勉強以外頭になさそう”なのは同じ2%くらいで、“恋愛とか結構どうでもよくなって”いる連中が残りの半分(公立の小学校から来た連中が多かった)、更に残る連中が“彼女ﾎｽｨけど出会いも無ければ勇気もない”連中で、休み時間の度に猥談してるってカンジのが６割・残り４割は雑誌読んだりとかかなぁｗ<br>
 <br>
-�g�ޏ�ν����Ǐo���������ΗE�C���Ȃ��h�A���̔��R���̓I�^�N���������Ɓi�΁B����z�̓��b�J�[�̒��ɓ��l������Ă邵�A����z�̓Q�[���G�������Ă邵�A���Ăȶݼނ̂�<br>
+“彼女ﾎｽｨけど出会いも無ければ勇気もない”連中の半３割はオタクだったかと（笑。ある奴はロッカーの中に同人誌入れてるし、ある奴はゲーム雑誌もってるし、ってなｶﾝｼﾞのｗ<br>
 <br>
-��ł܁[���ƒ��́A�V��ł�z�̑唼�͎��Ƃ��}�g���Ɏ󂯂ĂȂ��āA�I�^�N�̑唼�͎��ƒ��ɏ����ǂ�ł����Ȃ��G��`���Ă�z������������<br>
+んでまー授業中は、遊んでる奴の大半は授業をマトモに受けてなくて、オタクの大半は授業中に小説読んでたかなｗ絵を描いてる奴もいたかｗｗ<br>
 <br>
-������Ƃ��̔䗦�́A�o�t�Ёi�A�N�V�����Ƃ�Men's�����O�Ƃ��o���Ă�o�ŎЂˁj����o�Ă閟��w���q�����x�i�哇�i���j�̑�T�����@���ɕ\���Ă܂��ˁB�A�����j�q�Z�ɂ����\���Ă͂܂�i�΁B�Q�C�͊w�N�ɂP�l���炢�o�邩�Ȃ��B�l��̂P�w�N��̓J�b�v���݂����Ȃ̂����܂���������<br>
+そこんとこの比率は、双葉社（アクションとかMen'sヤングとか出してる出版社ね）から出てる漫画『女子高生』（大島永遠）の第５巻が如実に表してますね。アレが男子校にも結構当てはまる（笑。ゲイは学年に１人くらい出るかなぁ。僕らの１学年上はカップルみたいなのがいましたがｗｗ<br>
 <br>
-�܂��A�Q�l�ɂȂ邩�ǂ����̓T�b�p���ł����ǁA���񋟂̂���ő̌��k�i�H�j�������Ƃ��܂����B���҂̎Q�l�����ɂȂ�΍K���Ƒ����܂��ł���A�����B�΂肷���ĂĂȂ�Ȃ������ł�����ǁi�΁B</font>
+まぁ、参考になるかどうかはサッパリですけど、情報提供のつもりで体験談（？）を書いときました。続編の参考資料になれば幸いと存じますですよ、ええ。偏りすぎててならないかもですけれど（笑。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[85]</font> <font size=4 color=#40c0c0> Re:�j�q�Z�l�^�Ȃ̂ŁE�E�E </font>
+<font size=2>[85]</font> <font size=4 color=#40c0c0> Re:男子校ネタなので・・・ </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/03 (��) 04:43:44 <strong>��</strong> BAF </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403033044344&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403033044344"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/03 (水) 04:43:44 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403033044344_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200403033044344"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">���^�j�q�Z�o�g�҂���</font><br>
+<font size=3 color=#606060><font color="#ff88cc">＞某男子校出身者さん</font><br>
 <br>
-���肪�Ƃ��������܂��B�������Q�l�ɂȂ�܂����B<br>
-�Ȃ�قǂƚX�炳�����鎖���΂��B<br>
-������Ƃ�����Q�l�ɃV�i���I�������Ă݂܂��ˁB�{���ɂ��肪�Ƃ��������܂����B<br>
+ありがとうございます。すごく参考になりました。<br>
+なるほどと唸らさせられる事しばし。<br>
+ちょっとこれを参考にシナリオを書いてみますね。本当にありがとうございました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -242,25 +242,25 @@ BAF����A��������āA�΂��������đ҂��Ă܁`�`���I</font>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[84]</font> <font size=4 color=#40c0c0> �j�q�Z�l�^�Ȃ̂ŁE�E�E</font>
+<font size=2>[84]</font> <font size=4 color=#40c0c0> 男子校ネタなので・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/01 (��) 11:39:52 <strong>��</strong> �^�j�q�Z�o�g�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403011113952&log=baf">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403011113952"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/01 (月) 11:39:52 <strong>▽</strong> 某男子校出身者 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403011113952_log_baf.cgi">返信</a>　削除<input type=checkbox name="target" value="200403011113952"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y������܂��Ă��������܂����I<br>
-����ROM�������̂ł����A�j�q�Z�l�^�ŁA�o�g�҂��Ȃ��悤�Ȃ̂Ŏv�킸�����Ă��܂��܂���(^^�G<br>
-�����͒j�q�Z�������̂ł����A���ɂ����������Ƃ͖��������͂��ł��B<br>
-���Ԃ́A��ϓI�Ɍ��Ăł����A���\�ɗV��ł�n5%�A���ʂɔޏ�����l1���A�c��̑唼�������Ƃ����\�ǂ��ł��悭�Ȃ��Ă��Ďc��2%�ʂ��׋��ȊO���ɂȂ������E�E�E���Ċ����ł����B�ǂ������������I�ȋ��@�A���k�΂��肾���A������񂿂炩����肾���A�Ă̓g�����N�X�꒚�Ŏ��Ǝ󂯂Ă�l�����\�c�B�ƁA����Ȋ����ł��B<br>
-�ނ��다�w���������w�̂ق��������̎���ɂ�����ۂ��l��������E�E�E(^^;<br>
-������Ɗ֌W�Ȃ��ł����A�n���̂���z���Z�N�V�����̋��@�̕��̘b�ł����A���̐l�͏��q�Z�ɂ�������y�������炵���ł��B�Ȃ�ł��j�q�΂��肾�ƒp���������ĐԖʂ��Ă��܂���ƂɂȂ�Ȃ������Ƃ��E�E�E�B</font>
+<font size=3 color=#606060>楽しくよませていただきました！<br>
+いつもROMだったのですが、男子校ネタで、出身者いないようなので思わず書いてしまいました(^^；<br>
+うちは男子校だったのですが、特にそういうことは無かったはずです。<br>
+実態は、主観的に見てですが、結構に遊んでる系5%、普通に彼女いる人1割、残りの大半が恋愛とか結構どうでもよくなっていて残り2%位が勉強以外頭になさそう・・・って感じでした。良くも悪くも個性的な教諭、生徒ばかりだし、もちろんちらかり放題だし、夏はトランクス一丁で授業受けてる人が結構…。と、そんな感じです。<br>
+むしろ共学だった中学のほうが自分の周りにそれっぽい人がいたり・・・(^^;<br>
+ちょっと関係ないですが、地元のあるホモセクシャルの教諭の方の話ですが、その人は女子校にいる方が楽だったらしいです。なんでも男子ばかりだと恥ずかしくて赤面してあまり授業にならなかったとか・・・。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="baf">
@@ -268,16 +268,16 @@ BAF����A��������āA�΂��������đ҂��Ă܁`�`���I</font>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="baf">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=baf">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_baf.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

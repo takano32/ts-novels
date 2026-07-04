@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>����삳���i���z�f����</title>
+<title>日比野さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>����삳���i���z�f����</font>
+<font size=5>日比野さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="hibino">
 <input type=hidden name="nj" value="3peJwAizto">
 <input type=hidden name="res" value="105">
-<h4 align=center>�� �L���ԍ� 105 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 105 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w�������ȓ]���x������ɂ͉��̃����N���N���b�N"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z �悢�q�݂̂�ȁA���̖����Ȃ��̂ɏ悹�āA�y�����y�������b�̎n�܂肾��`
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『おさかな転換』を見るには下のリンクをクリック"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】 よい子のみんな、あの愉快なお歌に乗せて、楽しい楽しいお話の始まりだよ〜
 &gt; http://ts.novels.jp/novel/200203/23203640/osakana.html</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h jnMfQn  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="jnMfQn"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード jnMfQn  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="jnMfQn"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �܂��L�����e�̍ۂ́A<B>���̓R�[�h�E���̔��p�p�����U�������A���̉E���̃{�b�N�X�ɓ��͂��Ă�������.</B><BR>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,65 +47,65 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[106]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> �u�������ȓ]���v���z</font>
+<font size=2>[106]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 「おさかな転換」感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/09 (��) 23:33:06 <strong>��</strong> �l�n�m�c�n </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701092233306&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701092233306"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/09 (火) 23:33:06 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701092233306_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200701092233306"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����Ȃ�x�̂𔲂���Ă��܂����B�ǁ[�Ȃ�񂾂��̘b�H<br>
-�@��������Z�Z�ƁZ�Z�i���l�^�o���h�~�j�A�Z�Z�i���l�^�o���h�~�j�炵�Ȃ���ǂ������Ă���z�A�Z�Z�i���l�^�o���h�~�j�ǂޏ����A����݂����ȁZ�Z�i���l�^�o���h�~�j���鏭���c�c�������Ȃ�āZ�Z�΂������i�΁j�B<br>
-�@�����Ĉ�ԏ펯�I�H�Ȏ�l�����A��Ԕ�펯�ȑ̎��������Ȃ�Ă����΂������Ȃ��B<br>
-�@���Ȃ݂Ɂu��ڂɂ͂܂�v�̂́A�u�ǂڂɂ͂܂�v���L�c���Ǝv�����i�΁j�B<br>
-�@�����A���҂��Ă��܂��B</font>
+<font size=3 color=#606060>　いきなり度肝を抜かれてしまった。どーなるんだこの話？<br>
+　女装する〇〇と〇〇（←ネタバレ防止）、〇〇（←ネタバレ防止）鳴らしながら追っかけてくる奴、〇〇（←ネタバレ防止）読む少女、漫画みたいな〇〇（←ネタバレ防止）する少女……あああなんて〇〇ばっかし（笑）。<br>
+　そして一番常識的？な主人公が、一番非常識な体質だったなんてもう笑うしかない。<br>
+　ちなみに「るつぼにはまる」のは、「どつぼにはまる」よりキツいと思うぞ（笑）。<br>
+　続き、期待しています。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[105]</font> <font size=4 color=#40c0c0> �w�������ȓ]���x������ɂ͉��̃����N���N���b�N</font>
+<font size=2>[105]</font> <font size=4 color=#40c0c0> 『おさかな転換』を見るには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2007/01/05 (��) 03:08:54 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200701055030854&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200701055030854"></font>
+<font size=3 color=#606060><strong>▽</strong> 2007/01/05 (金) 03:08:54 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200701055030854_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200701055030854"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �悢�q�݂̂�ȁA���̖����Ȃ��̂ɏ悹�āA�y�����y�������b�̎n�܂肾��`<br>
-<a href=http://ts.novels.jp/novel/200203/23203640/osakana.html target=_top>http://ts.novels.jp/novel/200203/23203640/osakana.html</a></font>
+<font size=3 color=#606060>【推薦文】 よい子のみんな、あの愉快なお歌に乗せて、楽しい楽しいお話の始まりだよ〜<br>
+<a href="../../novel/200203/23203640/osakana.html" target=_top>http://ts.novels.jp/novel/200203/23203640/osakana.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[104]</font> <font size=4 color=#40c0c0> �v���Ԃ�ɔ`�����犴�z���c�c�B</font>
+<font size=2>[104]</font> <font size=4 color=#40c0c0> 久しぶりに覗いたら感想が……。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/01/13 (��) 23:45:55 <strong>��</strong> <a href="mailto:kuu_squirrel@yahoo.co.jp">�����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200601135234555&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200601135234555"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/01/13 (金) 23:45:55 <strong>▽</strong> <a href="mailto:kuu_squirrel@yahoo.co.jp">日比野</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200601135234555_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200601135234555"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>satoru irukayama�l�A�s�n�l�l�A������l�A���z�������Ē����Ă��肪�Ƃ��������܂����B�����ċC�Â��Ȃ����������������Ă��������c�c�B</font>
+<font size=3 color=#606060>satoru irukayama様、ＴＯＭ様、鈴忌紫様、感想を書いて頂いてありがとうございました。そして気づかなかった自分を許してください……。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[103]</font> <font size=4 color=#40c0c0> �I�X�X���Ŕq�����܂����B</font>
+<font size=2>[103]</font> <font size=4 color=#40c0c0> オススメで拝見しました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/06/26 (��) 01:32:13 <strong>��</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">��� ��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200506260013213&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200506260013213"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/06/26 (日) 01:32:13 <strong>▽</strong> <a href="mailto:taboo_bell@s8.dion.ne.jp">鈴忌 紫</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200506260013213_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200506260013213"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�s�v�c�ŁA�ł��g�����ĉ��₩�ȗǂ�����ł��ˁB�O�C�O�C�ƈ������܂�āA��C�ɓǂ�ł��܂��܂����B���N�������ɂɂ͂܂��܂����̂悤�ȗǂ���i�������ς������Ă����ł��傤�ˁB���@���y���݂ł��傤���Ȃ��ł��B<br>
+<font size=3 color=#606060>　不思議で、でも暖かくて穏やかな良い物語ですね。グイグイと引き込まれて、一気に読んでしまいました。少年少女文庫にはまだまだこのような良い作品がいっぱい眠っているんでしょうね。発掘が楽しみでしょうがないです。<br>
 <br>
-�@���ƁA�J����Ǝ��J����̓���ւ��ł����A�ǂ񂾈�ۂƂ��Ă͑��q���񂪌����Ă����u�L���r���v����ԃs���Ɨ��܂����B�܂��A���̂�����̏ڍׂ͂ڂ����Ƃ����̂���Ԃ悢�I�������Ɗ����܂������A�ǎ҂��z������]�n���F�X�Ƃ���Ƃ����̂����Ȃ��̂ł��ˁB<br>
+　あと、雨くんと時雨さんの入れ替わりですが、読んだ印象としては息子さんが言っていた「記憶喪失」が一番ピンと来ました。まぁ、そのあたりの詳細はぼかしつつというのが一番よい終わり方だと感じましたが、読者が想像する余地が色々とあるというのもおつなものですね。<br>
 <br>
-�@�f�G�ȕ�������肪�Ƃ��������܂����B�ƂĂ��y���߂܂����B</font>
+　素敵な物語をありがとうございました。とても楽しめました。</font>
 <p><a href="http://www.k2.dion.ne.jp/~amaranth/" target="_top">http://www.k2.dion.ne.jp/~amaranth/</a>
 </td></table>
 </td></tr></table>
@@ -113,67 +113,67 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[102]</font> <font size=4 color=#40c0c0> ���������̏I�����ł����B</font>
+<font size=2>[102]</font> <font size=4 color=#40c0c0> いい感じの終わり方でした。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/11/27 (�y) 20:48:21 <strong>��</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200411276204821&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411276204821"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/11/27 (土) 20:48:21 <strong>▽</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200411276204821_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200411276204821"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����ł����A��C�ɓǂ�ł��܂��܂����B<br>
-�ǂ܂��镶�͂ƁA���񑩂ɗ���Ȃ��I���W�i���e�B�[����W�J�Ɉ������܂�܂����B<br>
-�܂��A�Â��Ȃ��Ă��܂������ȃe�[�}�𖾂邭�A�ǂ݂₷�������������Ƃ����<br>
-�ǂݎ�ւ̔z���ƃX�g�[���[�e���[�Ƃ��Ă̗͂������܂����B<br>
+<font size=3 color=#606060>　今頃ですが、一気に読んでしまいました。<br>
+読ませる文章と、お約束に頼らないオリジナリティーある展開に引き込まれました。<br>
+また、暗くなってしまいそうなテーマを明るく、読みやすく書ききったところに<br>
+読み手への配慮とストーリーテラーとしての力を感じました。<br>
 <br>
-�ǂ񂾌�A�L�삳�񂪐̂悭����������Ă�ꂽ�A�u�n�[�g�t������Č��t��<br>
-�v���o���܂����B�����ĂԂɃs�b�^���ȗǍ삾�Ǝv���܂��B<br>
-�����o�Ă��Ȃ��̂��ȁ[�Ǝv���Ă����W�����̏o����������ł悩�����Ǝv���܂��B<br>
+読んだ後、猫野さんが昔よくおっしゃってられた、「ハートフル｣って言葉を<br>
+思い出しました。そう呼ぶにピッタリな良作だと思います。<br>
+もう出てこないのかなーと思っていたジョンの出し方もこれでよかったと思います。<br>
 <br>
-�Ō�ɂȂ�܂������A�������b�����肪�Ƃ��������܂����B</font>
+最後になりましたが、いいお話をありがとうございました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[101]</font> <font size=4 color=#40c0c0> �̂�т�@�ǂ܂��ā@�����܂���</font>
+<font size=2>[101]</font> <font size=4 color=#40c0c0> のんびり　読まして　頂きました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/11/05 (��) 03:35:18 <strong>��</strong> <a href="mailto:jazzfan@mocha.ocn.ne.jp">satoru irukayama</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200411055033518&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200411055033518"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/11/05 (金) 03:35:18 <strong>▽</strong> <a href="mailto:jazzfan@mocha.ocn.ne.jp">satoru irukayama</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200411055033518_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200411055033518"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����@�́@�����R����@���@�C�ɂȂ�܂����̂�<br>
-���ւ�@���Ă��܂��@�����@�e���@�������@�́@���u�S<br>
-�̏o�@�ł��@���݂́@�����s�Ɂ@�e�@�ƏZ��ł��܂��B<br>
-�{�l�Ɂ@��낵���@���`���������B</font>
+<font size=3 color=#606060>文中　の　入鹿山さん　が　気になりましたので<br>
+お便り　しています　当方　親が　鹿児島　の　日置郡<br>
+の出　です　現在は　延岡市に　親　と住んでいます。<br>
+本人に　よろしく　お伝え下さい。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[99]</font> <font size=4 color=#40c0c0> �����z���肪�Ƃ��������܂��I</font>
+<font size=2>[99]</font> <font size=4 color=#40c0c0> ご感想ありがとうございます！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/10/16 (�y) 12:00:00 <strong>��</strong> <a href="mailto:kuu_squirrel@yahoo.co.jp">�����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200410166120000&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200410166120000"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/10/16 (土) 12:00:00 <strong>▽</strong> <a href="mailto:kuu_squirrel@yahoo.co.jp">日比野</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200410166120000_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200410166120000"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">�������W�S�Q�U�������</font><br>
-�{���ɕ��}�Ȗ������ł���ˁc�c�A�ł�������ӂ��킵���Ǝv���Ē��������Ƃ��ƂĂ��������ł��B�S�b�ʂ��Ă̂����z�A�{���ɂ��肪�Ƃ��������܂����I<br>
+<font size=3 color=#606060><font color="#ff88cc">＞ｍｋ８４２６＠自宅さん</font><br>
+本当に平凡な幕引きですよね……、でもそれをふさわしいと思って頂いたことがとても嬉しいです。全話通してのご感想、本当にありがとうございました！<br>
 <br>
-<font color="#ff88cc">��酉J����</font><br>
-���߂���ǂ�ł��������Č��h�ł��I<br>
-�m���ɂ��̐��̒��������ɂȂ邱�Ƃ������ł���ˁB���}�Ȋ炵�����Ƃ��A�p�b�Ƃ��Ȃ���̏��Ƃ��ɕϐg�A����ւ��Ȃǂ��Ă����������͂Ȃ��͂��Ȃ�ł��傤���ǁB<br>
-�܂Ƃ��Ɋ��������̂͏��߂Ă����ڂ��ł��ˁc�c�B�ŋߒZ�ҏ����Ă��܂������B<br>
-�B�����͂ƂĂ�����܂��I�@�Y��Ȃ��悤�ɂ������ł��ˁB<br>
+<font color="#ff88cc">＞驟雨さん</font><br>
+初めから読んでいただいて光栄です！<br>
+確かにこの世の中美少女になることが多いですよね。平凡な顔した女とか、パッとしない顔の女とかに変身、入れ替わりなどしてもおかしくはないはずなんでしょうけど。<br>
+まともに完結したのは初めてか二回目かですね……。最近短編書いていましたし。<br>
+達成感はとてもあります！　忘れないようにしたいですね。<br>
 <br>
-<font color="#ff88cc">���q�F����</font><br>
-�J�͂����Ƃ��܂蕨���Ɋ֐S�������Ă��Ȃ������񂾂Ǝv���܂��B�ł��q�F����̎v����Ƃ���A�����Ƃǂ����Œg�����ƒ�ɓ���Ă����̂ł́A�Ǝv���܂��ˁB<br>
-���Ȃ݂ɉJ�Ɠ���ւ���Ă��܂������ǂ������킩��Ȃ����J�ł����A���݂͕s���ł������܂��B��������ւ���Ă��邩�ƁB<br>
+<font color="#ff88cc">＞智彦さん</font><br>
+雨はきっとあまり物事に関心を持っていなかったんだと思います。でも智彦さんの思われるとおり、きっとどこかで暖かい家庭に憧れていたのでは、と思いますね。<br>
+ちなみに雨と入れ替わってしまったかどうかもわからない時雨ですが、所在は不明でございます。多分入れ替わっているかと。<br>
 <br>
-�Ō�܂ł����Ȃ����͂ɂ��t���������Ă����������F�l�A�{���ɂ��肪�Ƃ��������܂����B���ꂩ�������΂낤�Ǝv���܂��B</font>
+最後までしがない文章にお付き合いしてくださった皆様、本当にありがとうございました。これからもがんばろうと思います。</font>
 </td></table>
 </td></tr></table>
 
@@ -183,14 +183,14 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[98]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/10/16 (�y) 00:28:50 <strong>��</strong> �q�F </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200410166002850&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200410166002850"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/10/16 (土) 00:28:50 <strong>▽</strong> 智彦 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200410166002850_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200410166002850"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���J�͏\�Z�΂̏��N�J�ɁA�J�͉Ƒ����J�ɓ���Ă������炱���A<br>
-����ւ�����񂾂낤�Ǝv���Ă��܂��B<br>
-�ŏ�����Ō�܂łȂ����悤�ȓW�J���ƂĂ��S�n���悩�����ł��B<br>
-���ꂩ����������Ă��܂�<br>
+<font size=3 color=#606060>時雨は十六歳の少年雨に、雨は家族の絆に憧れていたからこそ、<br>
+入れ替わったんだろうと思っています。<br>
+最初から最後までながれるような展開がとても心地がよかったです。<br>
+これからも応援しています<br>
 <br>
 </font>
 </td></table>
@@ -199,24 +199,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[97]</font> <font size=4 color=#40c0c0> �ǂ܂��Ă��������܂����I</font>
+<font size=2>[97]</font> <font size=4 color=#40c0c0> 読ませていただきました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/10/15 (��) 16:33:01 <strong>��</strong> <a href="mailto:gensan@k8.dion.ne.jp">酉J</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200410155163301&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200410155163301"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/10/15 (金) 16:33:01 <strong>▽</strong> <a href="mailto:gensan@k8.dion.ne.jp">驟雨</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200410155163301_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200410155163301"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ��������ŋ߃J�L�R����������酉J�ł��B<br>
-���͎��͂��ׂēǂ܂��Ă��������Ă����̂ł����A<br>
-�Ȃ��Ȃ����z���܂Ƃ܂炸�A���Ǌ������Ă���ɂ����<br>
-�Ƃ�����������ȗ��R�ł����܂ŗ��Ă��܂��܂����B<br>
-�����ł��ˁB����_���n�߂������ǂ��āA<br>
-�����������ɕς���Ă��܂���l�����������̐��̒�(��)�A<br>
-��������_�Ƃ����̂��ƂĂ��ǂ������̂��Ǝv���܂��B<br>
-���}�ȉƑ��̓��퐶���͂���ς肱���������̂Ȃ񂾂Ȃ���<br>
-�����Ă�����ꂯ���B�i����Ȃӂ��ɂ��Ă��Ă���炵�Ă�����̂��Ȃ��Ƃ����Ì�\���j<br>
-�Ƃɂ����������߂łƂ��������܂��B<br>
-�Ō�ɁA���̒B������Y��Ȃ��ł��������ˁI<br>
+<font size=3 color=#606060>どうもここ最近カキコ数が激減の驟雨です。<br>
+実は実はすべて読ませていただいていたのですが、<br>
+なかなか感想がまとまらず、結局完結してからにしよ♪<br>
+という自分勝手な理由でここまで来てしまいました。<br>
+そうですね。着眼点が始めすごく良くて、<br>
+いつも美少女に変わってしまう主人公が多いこの世の中(笑)、<br>
+違った視点というのがとても良かったのだと思います。<br>
+平凡な家族の日常生活はやっぱりこういうものなんだなぁと<br>
+かくてもあられけるよ。（こんなふうにしていても暮らしていけるのだなぁという古語表現）<br>
+とにかく完結おめでとうございます。<br>
+最後に、この達成感を忘れないでくださいね！<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -224,25 +224,25 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[96]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[96]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/10/14 (��) 00:51:13 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200410144005113&log=hibino">�ԐM</a>�@�폜<input type=checkbox name="target" value="200410144005113"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/10/14 (木) 00:51:13 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200410144005113_log_hibino.cgi">返信</a>　削除<input type=checkbox name="target" value="200410144005113"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ʂ����I<br>
-���}�Ȗ������ł��˂��B<br>
-�ł��A���̕��}�������܂�Ȃ��ł��B���ɂӂ��킵���G���f�B���O�ł͂Ȃ��ł��傤���B<br>
-�����Ƃ��̈�Ƃ͂��ꂩ����K���ɉ߂����Ă�����ł��傤�B<br>
-�����A�����l�ł����I</font>
+<font size=3 color=#606060>ぬぉう！<br>
+平凡な幕引きですねぇ。<br>
+でも、この平凡さがたまらないです。実にふさわしいエンディングではないでしょうか。<br>
+きっとこの一家はこれからも幸せに過ごしていけるでしょう。<br>
+完結、お疲れ様でした！</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="hibino">
@@ -250,16 +250,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="hibino">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=hibino">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_hibino.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

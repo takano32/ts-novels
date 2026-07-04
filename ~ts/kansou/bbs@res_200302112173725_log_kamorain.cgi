@@ -1,41 +1,41 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�������C�������i�@���z�f����</title>
+<title>かもラインさん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�������C�������i�@���z�f����</font>
+<font size=5>かもラインさん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kamorain">
 <input type=hidden name="nj" value="Kx9mBTGuKl">
 <input type=hidden name="res" value="1">
-<h4 align=center>�� �L���ԍ� 1 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 1 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w����̏��x��ǂނɂ͉��̃����N���N���b�N"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z �@���ɋA�����Ƃ��A�ς�������Ƃ���������A���̂��Ƃɒ��ӂ��Ă݂܂��傤�ˁB
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『除夜の鐘』を読むには下のリンクをクリック"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】 　里に帰ったとき、変わったことがあったら、そのことに注意してみましょうね。
 &gt; 
 &gt; http://ts.novels.jp/novel/200302/11172037/jyoyanokane.htm</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -48,16 +48,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> Re:���z���肪�Ƃ��������܂�</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> Re:感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/15 (�y) 23:20:08 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302156232008&log=kamorain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302156232008"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/15 (土) 23:20:08 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302156232008_log_kamorain.cgi">返信</a>　削除<input type=checkbox name="target" value="200302156232008"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �������C������<br>
-<font color="#cc88ff">&gt; �R�̊�����܂ЂƂ�����܂��񂪁A</font><br>
-���A����A�P���ɂ��́u����̏��v��key����̂����킹�ĂR�ځi�Q�D�T���ځH�j�Ƃ������ƂŁB<br>
+<font size=3 color=#606060>▼ かもラインさん<br>
+<font color="#cc88ff">&gt; ３つの基準がいまひとつ分かりませんが、</font><br>
+あ、いや、単純にこの「除夜の鐘」がkeyさんのもあわせて３つ目（２．５こ目？）ということで。<br>
 </font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
@@ -66,42 +66,42 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/14 (��) 23:30:06 <strong>��</strong> <a href="mailto:mikamo-@nifty.com">�������C��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302145233006&log=kamorain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302145233006"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/14 (金) 23:30:06 <strong>▽</strong> <a href="mailto:mikamo-@nifty.com">かもライン</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302145233006_log_kamorain.cgi">返信</a>　削除<input type=checkbox name="target" value="200302145233006"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ђ̂ЂƂ��܁B<br>
-���������̊��z���肪�Ƃ��������܂��B<br>
-�܂����������ǂ�ł��炤�̂ł�����A�C�t�����l����������Ɠ������C���ɂȂꂽ��A�Ǝv���܂��āB<br>
-�܂��A�h�L�h�L�̌��o����悤�Ȃ��̂��A�S�����Ċ撣��܂��B<br>
+<font size=3 color=#606060>ひのひとさま。<br>
+さっそくの感想ありがとうございます。<br>
+まぁせっかく読んでもらうのですから、気付いた人だけちょっと得した気分になれたら、と思いまして。<br>
+また、ドキドキ体験出来るようなものを、心がけて頑張ります。<br>
 <br>
-�������܁B<br>
-�������z���肪�Ƃ��������܂��B<br>
-�R�̊�����܂ЂƂ�����܂��񂪁A<br>
-�s�r�Ƃ����Ӗ��ł́c�c�����A�S�Ăقړ����V�`���G�[�V�������B<br>
-�i���������A�����Ă�����̂��j<br>
-�u���ɂł��v�c�c�����Ƒn��Ɏ��Ԃ�����Ηǂ��̂ł����c�c�B</font>
+ｍｋさま。<br>
+いつも感想ありがとうございます。<br>
+３つの基準がいまひとつ分かりませんが、<br>
+ＴＳという意味では……おお、全てほぼ同じシチュエーションだ。<br>
+（しかも今、書いているものも）<br>
+「文庫でも」……もっと創作に時間が取れれば良いのですが……。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �ǂ�ł��o�C��</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 読んでたバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/12 (��) 23:11:33 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302123231133&log=kamorain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302123231133"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/12 (水) 23:11:33 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302123231133_log_kamorain.cgi">返信</a>　削除<input type=checkbox name="target" value="200302123231133"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A���傱���傱�ς���Ă܂��Ȃ��i�΁j�B<br>
-���Ă������A�������񂢂����������B<br>
-����łR�ځi�Q�D�T���ځH�j�ł����A�����keyswitch����̂��܂߁A�ǂ�����΂炵���ł��B<br>
-�u�₩�Ƃ������A�˂��B��������̍�i�͂���Ȏ����ɂƂ������̂���Ȃ��ł�����A���ꂩ������҂��Ă��܂���B<br>
-�����Ɓu���Ɂv�ł��������ė~������Ƃ���̕M���ł��ˁB</font>
+<font size=3 color=#606060>おお、ちょこちょこ変わってますなぁ（笑）。<br>
+っていうか、かもさんいつもすごすぎ。<br>
+これで３つ目（２．５こ目？）ですが、原作のkeyswitchさんのも含め、どれもすばらしいです。<br>
+爽やかというか、ねぇ。かもさんの作品はそんな次元にとらわれるものじゃないですから、これからも期待していますよ。<br>
+もっと「文庫」でも活動して欲しい作家さんの筆頭ですね。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -109,17 +109,17 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> ���͖^���ł��q�����Ă��܂������ǁc�c</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> 実は某所でも拝見していましたけど……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/11 (��) 19:57:11 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302112195711&log=kamorain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302112195711"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/11 (火) 19:57:11 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302112195711_log_kamorain.cgi">返信</a>　削除<input type=checkbox name="target" value="200302112195711"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����܂������ɋ�C����ς��Ă����܂����ˁB�������ł��B<br>
-���ꂾ���łȂ��A���肰�Ƀf�B�e�B�[���̕ύX�܂ŁI�@���˂��˂������C������͂��Ȃ�̋Z�ʂ����������Ă���Ǝv���Ă��܂������ǂ��A���炽�߂Ċ������Ă��܂��܂��B<br>
+<font size=3 color=#606060>これまた見事に空気感を変えてこられましたね。すごいです。<br>
+それだけでなく、さりげにディティールの変更まで！　かねがねかもラインさんはかなりの技量をお持ちしていると思っていましたけども、あらためて感服してしまいます。<br>
 <br>
-�u�₩�H���ł͂Ȃ����āA����ȁc�c�������傤�Ԃł���B�����܂ŏo����̂ł����́B���̍�i�͂ǂ�ȃh�L�h�L��̌������Ē�����̂ł��傤�H�@�S�҂��ɂ��Ă��܂��B<br>
+爽やか路線ではないって、そんな……だいじょうぶですよ。ここまで出来るのですもの。次の作品はどんなドキドキを体験させて頂けるのでしょう？　心待ちにしています。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -127,31 +127,31 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> �w����̏��x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 『除夜の鐘』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/02/11 (��) 17:37:25 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200302112173725&log=kamorain">�ԐM</a>�@�폜<input type=checkbox name="target" value="200302112173725"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/02/11 (火) 17:37:25 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200302112173725_log_kamorain.cgi">返信</a>　削除<input type=checkbox name="target" value="200302112173725"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �@���ɋA�����Ƃ��A�ς�������Ƃ���������A���̂��Ƃɒ��ӂ��Ă݂܂��傤�ˁB<br>
+<font size=3 color=#606060>【推薦文】 　里に帰ったとき、変わったことがあったら、そのことに注意してみましょうね。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200302/11172037/jyoyanokane.htm target=_top>http://ts.novels.jp/novel/200302/11172037/jyoyanokane.htm</a></font>
+<a href="../../novel/200302/11172037/jyoyanokane.htm" target=_top>http://ts.novels.jp/novel/200302/11172037/jyoyanokane.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kamorain">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kamorain">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kamorain.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

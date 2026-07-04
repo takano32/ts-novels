@@ -1,46 +1,46 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�W���[�W���b�h�����i���z�f����</title>
+<title>ジャージレッドさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�W���[�W���b�h�����i���z�f����</font>
+<font size=5>ジャージレッドさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="jersey_red">
 <input type=hidden name="nj" value="FU6nj6INz9">
 <input type=hidden name="res" value="33">
-<h4 align=center>�� �L���ԍ� 33 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 33 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re3:�d���I���퐶���@��11�b"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U����
-&gt; �� �W���[�W���b�h����
-&gt; &gt; ���[��B�΂������郌�x������Ȃ������̂ˁB
-&gt; ������O�ł�����I�N�����̓W�J�ŏ΂����ł����B��펯�Ȃ��Ƃ�����Ȃ��ŉ�������B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re3:妖精的日常生活　第11話"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６さん
+&gt; ▼ ジャージレッドさん
+&gt; &gt; うーん。笑いを取れるレベルじゃなかったのね。
+&gt; 当たり前ですよっ！誰があの展開で笑えるんですか。非常識なことを言わないで下さいよ。
 &gt; 
-&gt; �� ��K��҂���
-&gt; &gt; �Ō�܂Ŕ��P�����̖��������Ȃ��������炩������܂���B
-&gt; &gt; �r���Ŕ����������鎖���Ȃ��㏸���Ă����č��܂����܂܏I������̂�
-&gt; &gt; ��Ɉ����Ă��ł��傤�B
-&gt; �܂����������ł��B</textarea><br>
+&gt; ▼ 一訪問者さん
+&gt; &gt; 最後まで美姫ちゃんの味方が居なかったからかもしれません。
+&gt; &gt; 途中で反感が下がる事もなく上昇していって高まったまま終わったので
+&gt; &gt; 後に引いてるんでしょう。
+&gt; まったく同感です。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -53,20 +53,20 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> Re:���z����Ȃ��Ă����܂���</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> Re:感想じゃなくてすいません</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/24 (��) 22:16:54 <strong>��</strong> <a href="mailto:jersey-r@mb.i-chubu.ne.jp">�W���[�W���b�h</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207243221654&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207243221654"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/24 (水) 22:16:54 <strong>▽</strong> <a href="mailto:jersey-r@mb.i-chubu.ne.jp">ジャージレッド</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207243221654_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207243221654"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �A�j�}����<br>
-<font color="#cc88ff">&gt; ����Ƃ��u��q�[�Ⴟ���v�̑΍R�n�Ƃ��Ă̔��P�����̕�������肢���܂��B</font><br>
+<font size=3 color=#606060>▼ アニマさん<br>
+<font color="#cc88ff">&gt; 是非とも「坂牧深雪ちゃん」の対抗馬としての美姫ちゃんの物語をお願いします。</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �[�Ⴟ���ɂ��Ă��A���̂܂܂��Ƃ��������Ȃ��Ǝv���̂ł����H</font><br>
+<font color="#cc88ff">&gt; 深雪ちゃんについても、このままだともったいないと思うのですが？</font><br>
 <br>
-�ǂ�ł��������L��������܂��B���P�����A�C�h�����v���W�F�N�g�ł��ˁB���[��B���͂���A���Ɍ|�\�E�Ɋւ���m�����قƂ�ǖ����Ƃ����̂��A�ő�̃l�b�N�Ȃ̂ł��B���������A�|�\�E�̃C���[�W���āA���܂��Ɂu�N���[�~�[�}�~�v�������肵�āc�c�B�ŋ߂́u�������������āv�����邯�ǁA��Ԃ͂�͂�u�N���[�~�[�}�~�v�ł��B�����炱��Ȏ��ɂ͂�����Ɓc�c�B<br>
-�Ȃ��A��q�[�Ⴟ���Ɋւ��ẮA���̂�����������𓾂Ȃ����낤�ȂƎv���Ă܂��B�����炭�ԊO�҂ɂȂ邩�A�Z�҂ɂȂ邩�Ǝv���܂����B</font>
+読んでいただき有難うございます。美姫ちゃんアイドル化プロジェクトですね。うーん。実はそれ、私に芸能界に関する知識がほとんど無いというのが、最大のネックなのです。だいたい、芸能界のイメージって、いまだに「クリーミーマミ」だったりして……。最近は「満月をさがして」もあるけど、一番はやはり「クリーミーマミ」です。だからこんな私にはちょっと……。<br>
+なお、坂牧深雪ちゃんに関しては、そのうち書かざるを得ないだろうなと思ってます。おそらく番外編になるか、短編になるかと思いますが。</font>
 <p><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_top">http://www.i-chubu.ne.jp/~jersey-r/</a>
 </td></table>
 </td></tr></table>
@@ -74,61 +74,61 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> ���z����Ȃ��Ă����܂���</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> 感想じゃなくてすいません</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/24 (��) 02:51:12 <strong>��</strong> �A�j�} </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207243025112&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207243025112"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/24 (水) 02:51:12 <strong>▽</strong> アニマ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207243025112_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207243025112"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�薼�ɂ�����ʂ�A����͊�]�Ȃ�ł����ǁA����Ƃ��u��q�[�Ⴟ���v�̑΍R�n�Ƃ��Ă̔��P�����̕�������肢���܂��B�Ⴆ�Ή��|���L�����y�[���̌��ʂƂ��ă}�X�R�~�ɖ���m��ꂽ�Ƃ��H�K��N���̐S�̊����Ƃ��ʔ������ł����A�[�Ⴟ���ɂ��Ă��A���̂܂܂��Ƃ��������Ȃ��Ǝv���̂ł����H<br>
-���e�ɂ��Ă͉��̕s��������܂���i�����ǂ̂悤�ȓ��e�ɂȂ��Ă��j</font>
+<font size=3 color=#606060>題名にもある通り、これは希望なんですけど、是非とも「坂牧深雪ちゃん」の対抗馬としての美姫ちゃんの物語をお願いします。例えば園芸部キャンペーンの結果としてマスコミに名を知られたとか？幸也クンの心の葛藤とか面白そうですし、深雪ちゃんについても、このままだともったいないと思うのですが？<br>
+内容については何の不満もありません（多分どのような内容になっても）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> �P�P�b�̊��z�ɑ΂���Ԏ��ł��B&lt;(_ _)&gt;</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> １１話の感想に対する返事です。&lt;(_ _)&gt;</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/22 (��) 23:37:28 <strong>��</strong> <a href="mailto:jersey-r@mb.i-chubu.ne.jp">�W���[�W���b�h</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207221233728&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207221233728"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/22 (月) 23:37:28 <strong>▽</strong> <a href="mailto:jersey-r@mb.i-chubu.ne.jp">ジャージレッド</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207221233728_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207221233728"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����32�@��K��� �l��<br>
-�@�Ȃ�قǁc�c�A�Ō�܂Ŕ��P�����̖��������Ȃ���������Ƃ������͂́A�ƂĂ��[�����܂����B�m���ɂ悭�l���Ă݂�ƁA���̓_���P�P�b�ɂ������_�ł��ˁB���ɂP�P�b�͎��̓��̒��ŏI�����Ă܂��̂ŁA���̘b�����������āA�����ւ����e�Ƃ������Ƃ͂��܂��񂪁A����̓W�J�ŁA�t�H���[�o����_�́A�Ȃ�ׂ��t�H���[�������Ǝv���܂��B��w�E�A�L��������܂����B<br>
+<font size=3 color=#606060>発言32　一訪問者 様へ<br>
+　なるほど……、最後まで美姫ちゃんの味方がいなかったからという分析は、とても納得しました。確かによく考えてみると、その点が１１話における弱点ですね。既に１１話は私の頭の中で終了してますので、この話を書き換えて、差し替え投稿ということはしませんが、今後の展開で、フォロー出来る点は、なるべくフォローしたいと思います。御指摘、有難うございました。<br>
 <br>
-�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<br>
+−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−<br>
 <br>
-����33�@�����W�S�Q�U�l��<br>
-�@���̑z��O�������̂́A�����̊F�l���A�d���I���퐶�����A���A���ȕ���Ƃ��ĔF������Ă���Ƃ������Ƃł��ˁB���̓��̒��ł́A���Ȃ��Ƃ����݂܂ł́A�d���I���퐶���̓R���f�B���ƔF�����Ă��܂����̂ŁA�R���f�B�ɂ����ẮA���̂悤�ȏ󋵂ł��΂������邩�ȂƎv���Ă����̂ł��B�Ⴆ�΁u���Ȃ����ؑ叫�v�ɂ����āA���卶�G�傪�o�C�g�œ��������𐼈�ɁA����肳�ꂽ��A����̓M���O�Ƃ��ď΂���ȂƂ����v��������܂������A���Ɏ��̊��o���A�Â������Ƃ������Ƃł��ˁB�m���ɔ�펯�ł��ˁB<br>
-�@���ꂩ��A�d���I���퐶���́A���ɊF�l�́A�R���f�B�ł͂Ȃ��A���A���ȕ���Ƃ��ēǂ�ŉ������Ă���Ƃ������Ƃł��ˁB���̈Ӗ��ł́A�ƂĂ����ꂵ���ł��B<br>
+発言33　ｍｋ８４２６様へ<br>
+　私の想定外だったのは、多くの皆様が、妖精的日常生活を、リアルな物語として認識されているということですね。私の頭の中では、少なくとも現在までは、妖精的日常生活はコメディだと認識していましたので、コメディにおいては、あのような状況でも笑いを取れるかなと思っていたのです。例えば「いなかっぺ大将」において、風大左エ門がバイトで得たお金を西一に、横取りされたら、それはギャグとして笑えるなという思いがありましたが、既に私の感覚が、古かったということですね。確かに非常識ですね。<br>
+　それから、妖精的日常生活は、既に皆様は、コメディではなく、リアルな物語として読んで下さっているということですね。その意味では、とてもうれしいです。<br>
 <br>
-�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<br>
+−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−<br>
 <br>
-����34�@�Ē×l��<br>
-�@�͂��B�V���[�Y���̂ł�����A�S�̂�ʂ��ĕ]�����Ă���������Ƃ����̂́A�L���ł��ˁB��͂�ǂݐ؂�ƈ���āA���݂̕������A���b��Ɏ������Ԃ��Ƃ͂��Ȃ肠��܂�����B<br>
-�@���ꂩ��A�ǂ̂悤�Ȋ��z�������������Ƃ��A���Ɏ��́A����̘H����i�ނ�������܂���B����ȊO�Ƀ��X�g�V�[�����������@���v�����܂��񂩂�c�c�B������񑽏��̏C�����A�Ȍ��<br>
-�b�ɔ��f����邱�Ƃ͂���܂����A�{�҂̊�{�I�ȍ\���͊��ɏo���オ���Ă��܂��̂ŁA�����������\��͂���܂����B����S���������B<br>
+発言34　米津様へ<br>
+　はい。シリーズものですから、全体を通して評価していただけるというのは、有り難いですね。やはり読み切りと違って、現在の伏線が、数話先に実を結ぶことはかなりありますから。<br>
+　それから、どのような感想をいただこうとも、既に私は、既定の路線を進むしかありません。それ以外にラストシーンを書く方法を思いつきませんから……。もちろん多少の修正が、以後の<br>
+話に反映されることはありますが、本編の基本的な構成は既に出来上がっていますので、それをいじる予定はありませんよ。御安心ください。<br>
 <br>
-�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<br>
+−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−<br>
 <br>
-����35�@�����W�S�Q�U�l��<br>
-�@���̃V�`���G�[�V�����ŏ΂������ׂɂ́A���̕���Ƃ��ėd���I���퐶���́A���܂�ɂ��s�K���ł������ƁA���͎v���܂��B�����������F�l���A�d���I���퐶�������A���ȕ���Ƃ��ĔF�����ĉ������Ă��邩�炾�ƁA�L���v���Ă��܂��B<br>
-�@�������܂��A���������Ă�������ł��ˁB�P�W�b�O��ŁA���̌��ɂ��Ă̌�����t�������܂��̂ŁA���̓��e��ǂ�ŉ������B�����̑O�ɏ����B���B<br>
+発言35　ｍｋ８４２６様へ<br>
+　あのシチュエーションで笑いを取る為には、その舞台として妖精的日常生活は、あまりにも不適当であったと、今は思います。それもこれも皆様が、妖精的日常生活をリアルな物語として認識して下さっているからだと、有り難く思っています。<br>
+　しかしまあ、何を言っても言い訳ですね。１８話前後で、この件についての決着を付けさせますので、その内容を読んで下さい。＞その前に書け。私。<br>
 <br>
-�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<br>
+−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−<br>
 <br>
-����36�@��K��җl��<br>
-�@���ɐV�l���Ⴀ��܂���̂ŁA�ǂ̂悤�Ȋ��z��������Ă��A�܂������Ȃ��Ă����M����߂邱�Ƃ͂��܂���̂ŁA���̓_�����͂����S���āA�ǂ�Ȃ����z���������������B<br>
-�@�Ȃ��A���ɁA�P�P�b�̃E�F�C�g���X�Șb�A�P�Q�b�̉��|���Șb�A�����Ă�����d���E�̐킢�ɕ������Ǝ��̂��A�ǎ҂̕�����̊��z���󂯂Ă̓W�J�������肵�܂��B�ł��A��؂͕ς��Ă܂����B<br>
+発言36　一訪問者様へ<br>
+　既に新人じゃありませんので、どのような感想をもらっても、またもらわなくても執筆をやめることはしませんので、その点だけはご安心して、どんなご感想もお書き下さい。<br>
+　なお、既に、１１話のウェイトレスな話、１２話の園芸部な話、そしていずれ妖精界の戦いに赴くこと自体が、読者の方からの感想を受けての展開だったりします。でも、大筋は変えてませんよ。<br>
 <br>
-�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<br>
+−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−<br>
 <br>
-����37�@��ܗl��<br>
-�@�F�X�Ƃ����z��L��������܂��B��ܗl�̂����z���A�������ǎ҂ɋ��ʂ����ʓI�Ȋ��z�ł���Ƃ����Ȃ�΁A��҂Ƃ��Ă͂ƂĂ����ꂵ���ł��ˁB���ɊF�l�A���P������P�Ȃ鏬���ɂ�����ˋ�̎�l���ł͂Ȃ��A���A�����[���h�ɑ��݂���l�ԁi�d���j�̂悤�Ȋ��o�ŁA���P���������Ă���Ƃ������Ƃł���ˁB<br>
-�@�Ȃ�قǁA�����������o�œǂ܂�Ă���̂ł���΁A���̓W�J�ɑ΂��Ĕ�����������ē��R�ł��ˁB���͍�҂Ƃ��������A�ǂ����Ă�����̓t�B�N�V�����ł���Ƃ������o�������Ȃ��̂ł����A��x�A���S�ȓǎ҂̗���Ƃ��āA�d���I���퐶����ǂ�ł݂����Ǝv���܂����B</font>
+発言37　らま様へ<br>
+　色々とご感想を有難うございます。らま様のご感想が、もしも読者に共通する一般的な感想であるとしたならば、作者としてはとてもうれしいですね。既に皆様、美姫ちゃんを単なる小説における架空の主人公ではなく、リアルワールドに存在する人間（妖精）のような感覚で、美姫ちゃんを見ているということですよね。<br>
+　なるほど、そういう感覚で読まれているのであれば、あの展開に対して反感を持たれて当然ですね。私は作者という立場上、どうしてもこれはフィクションであるという感覚が抜けないのですが、一度、完全な読者の立場として、妖精的日常生活を読んでみたいと思いました。</font>
 <p><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_top">http://www.i-chubu.ne.jp/~jersey-r/</a>
 </td></table>
 </td></tr></table>
@@ -136,76 +136,76 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> ��P�P�b���z</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> 第１１話感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/22 (��) 03:30:26 <strong>��</strong> <a href="mailto:t-hiruma@smile.ocn.ne.jp">���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207221033026&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207221033026"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/22 (月) 03:30:26 <strong>▽</strong> <a href="mailto:t-hiruma@smile.ocn.ne.jp">らま</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207221033026_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207221033026"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����ƁA�����v���Ԃ�ɂȂ��Ă��܂��܂������A���P�����̘b�A�ǂ߂ėǂ������ł��B<br>
-���Ղ̉��|���̘b�A����ȍL���y�n�������Ă���w�Z������Ȃ�A�����A������x���Z�����������ł��Ȃ����Ă݂����C�ɂȂ�܂����i�΁j�������A�܂����i�΁j�B<br>
-���Ղ̃E�F�C�g���X�̘b�A�s���葽���̋q�������Ă���X�ł͌g�ѓd�b�͖ܘ_�A�m�[�g�p�\�R����A�g�у��o�C�������������܂��\��������̂ŁA������ƐS�z�ł����B<br>
-�܂��A�d������X�y�V�����ł́A�c���q���͍D��S����������ɉ�����m��Ȃ��̂ŁA���P����񂪍������Ƃ���Ȃ����A���Ȃ�S�z�ł����B<br>
-��ŁA�����怂̌㔼�B����ς莄���C�l�i�y�т��̈��l�j�ɋ��������������܂����B<br>
-�ł���Ԕ����������������́A��͂��K��҂���̌����ʂ�A�u�Ō�܂Ŕ��P�����̖��������Ȃ���������v���Ǝv���܂��B<br>
-���R���A��K��҂���Ɠ����������B<br>
-�ޏ��̐S������鑶�݂������̂͂���܂肾�Ǝv���܂��B<br>
-�������A�Q�X�Ԃ̃W���[�W���b�h����̃J�L�R��<br>
-<font color="#ff88cc">���C�l�̕]���͗�����Ƃ���܂ŗ����āA�񕜂��܂��B���̍ہA���S�ɊC�l�Ɣ��P�����̊֌W���t�]����\��ł��B��͂�A��ǂ�ł�Ԃ���_���Ă܂�����c�c�B</font><br>
-�Ƃ������̂ŁA�������S���܂����B<br>
+<font size=3 color=#606060>えっと、凄く久しぶりになってしまいましたが、美姫ちゃんの話、読めて良かったです。<br>
+序盤の園芸部の話、こんな広い土地を持っている学校があるなら、正直、もう一度高校生活をそこでやりなおしてみたい気になりました（笑）＊ああ羨ましい（笑）。<br>
+中盤のウェイトレスの話、不特定多数の客が入ってくる店では携帯電話は勿論、ノートパソコンや、携帯モバイル等が持ちこまれる可能性があるので、ちょっと心配でした。<br>
+また、妖精さんスペシャルでは、幼い子供は好奇心が強い割りに加減を知らないので、美姫ちゃんが酷いことされないか、かなり心配でした。<br>
+んで、喧喧諤諤の後半。やっぱり私も海斗（及びその愛人）に強い反感を持ちました。<br>
+でも一番反感を持った原因は、やはり一訪問者さんの言う通り、「最後まで美姫ちゃんの味方が居なかったから」だと思います。<br>
+理由も、一訪問者さんと同じく同感。<br>
+彼女の心を癒せる存在が無いのはあんまりだと思います。<br>
+･･ただ、２９番のジャージレッドさんのカキコで<br>
+<font color="#ff88cc">＞海斗の評判は落ちるところまで落ちて、回復します。その際、完全に海斗と美姫ちゃんの関係が逆転する予定です。やはり、大どんでん返しを狙ってますから……。</font><br>
+とあったので、少し安心しました。<br>
 <br>
-���������Ƃ��K�������K���Ɍq����Ƃ͌���Ȃ��̂Ɂi������]��ł����Ȃ�����ł��Ȃ��̂Ɂj�A�����Ђ��܂�Ă�����P�����ł����A�ǂ����A�ޏ��ɍ��܂ł̕s�K�i���S�̏��j�𕥐@�ł���ʂ̍K�����K��邱�Ƃ�؂ɋF��܂��B</font>
+美しいことが必ずしも幸せに繋がるとは限らないのに（それも望んでそうなった訳でもないのに）、随分ひがまれている美姫ちゃんですが、どうか、彼女に今までの不幸（＆心の傷）を払拭できる位の幸せが訪れることを切に祈ります。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> Re4:�d���I���퐶���@��11�b</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> Re4:妖精的日常生活　第11話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 23:27:23 <strong>��</strong> ��K��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210232723&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210232723"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 23:27:23 <strong>▽</strong> 一訪問者 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210232723_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210232723"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �ĒÂ����Ŏ����̏������݂����鎞�ɂ�����ƋC�ɂ����̂́A�A�ڒ��̍�i�ɓr���Ńl�K�e�B�u�Ȋ��z�����邱�Ƃ̉e���������肵�܂��B</font><br>
-����ł���ˁA���̂�����̂��˂������āB<br>
-���M�ӗ~�����킹�Ă��܂����肷��͓̂ǎ҂Ƃ��Ă͈Ӑ}���鏊����Ȃ����ǁA<br>
-���܂�ɉ�����������Ɖ����`�����Ȃ��Ȃ�܂�����B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; 米津が下で自分の書き込みをする時にちょっと気にしたのは、連載中の作品に途中でネガティブな感想をつけることの影響だったりします。</font><br>
+難しいですよね、そのあたりのかねあいって。<br>
+執筆意欲を失わせてしまったりするのは読者としては意図する所じゃないけど、<br>
+あまりに遠慮しすぎると何も伝えられなくなりますから。<br>
 <br>
-<font color="#cc88ff">&gt;�ǎ҂̈ӂ����ނ��܂�ɁA��i�̃X�P�[�����������Ȃ�����r���ł����͂��ɂȂ��Ă��܂�����{�ӂłȂ��Ȃ��A�ƁB</font><br>
-����̓l�K�e�B�u�Ȋ��z�łȂ��Ă�����܂���ˁB<br>
-���҂�v�]����剻�������č�i�ւ̉���ɂȂ�悤�ȃP�[�X�B<br>
+<font color="#cc88ff">&gt;読者の意を汲むあまりに、作品のスケールが小さくなったり途中でちぐはぐになってしまったら本意でないなあ、と。</font><br>
+これはネガティブな感想でなくてもありますよね。<br>
+期待や要望が肥大化しすぎて作品への介入になるようなケース。<br>
 <br>
-�����̂������W�J�͂����܂ŋȂ��Ȃ��M�O�Ƃ������v���C�h�͎����Ă��ė~�����Ǝv���Ȃ�����A<br>
-���҂̈ӌ��𕷂������Ȃ��悤�Ȋ�ł��͎����Ȃ��ŗ~�����Ȃ��c<br>
-���z���������肷��Ƃ��ɂ͂����������ɓ����v���Ă܂��B<br>
-�����̏��������z���Ȃ�炩�̗ƂɂȂ��Ă����Έ�Ԋ��������ł��ˁB</font>
+自分のおもう展開はあくまで曲げない信念というかプライドは持っていて欲しいと思いながらも、<br>
+他者の意見を聞こうしないような頑固さは持たないで欲しいなぁ…<br>
+感想を書いたりするときにはそういう風に日頃思ってます。<br>
+自分の書いた感想がなんらかの糧になってくれれば一番嬉しい事ですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[35]</font> <font size=4 color=#40c0c0> Re4:�d���I���퐶���@��11�b</font>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> Re4:妖精的日常生活　第11話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 22:38:27 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210223827&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210223827"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 22:38:27 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210223827_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210223827"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �ĒÂ���<br>
-���̓W�J���u�΂������郌�x���v�Ȃ�Č����Ă�͔̂�펯�łȂ��ች�ł����H<br>
-���^�N�V�͂��̌��t�łӂ����уJ�`���Ƃ��܂�����B<br>
+<font size=3 color=#606060>▼ 米津さん<br>
+あの展開を「笑いを取れるレベル」なんて言ってるのは非常識でなきゃ何ですか？<br>
+ワタクシはこの言葉でふたたびカチンときましたよ。<br>
 <br>
-�U�E�u���[�n�[�c�̉̂ɁA����Ȉ�߂�����܂����B<br>
-�@�u�ɂ݂͍ŏ��̂��������@����Ă��܂��Α��v�v<br>
-�@����Ȃ��ƌ����邠�Ȃ��́@�q�b�g���[�ɂ��Ȃ�邾�낤<br>
-���̈Ӗ����킩��܂����B<br>
+ザ・ブルーハーツの歌に、こんな一節がありました。<br>
+　「痛みは最初のうちだけ　慣れてしまえば大丈夫」<br>
+　そんなこと言えるあなたは　ヒットラーにもなれるだろう<br>
+この意味がわかりますか。<br>
 <br>
-<font color="#cc88ff">&gt; �����܂ň�G�s�\�[�h</font><br>
-�ɂ��Ă͒��x�����ɍs���������i�Ƃ������v���؂�˂������Ă�j�Ɗ����܂��B</font>
+<font color="#cc88ff">&gt; あくまで一エピソード</font><br>
+にしては程度が非常に行きすぎだ（というより思い切り突き抜けてる）と感じます。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -213,40 +213,40 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[34]</font> <font size=4 color=#40c0c0> Re3:�d���I���퐶���@��11�b</font>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> Re3:妖精的日常生活　第11話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 22:06:37 <strong>��</strong> �Ē� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210220637&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210220637"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 22:06:37 <strong>▽</strong> 米津 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210220637_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210220637"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �����W�S�Q�U����<br>
-���₻�́A����͂Ƃ������A�����_�Ŕ�펯�܂Ō����Ă��܂��Ắc�c�B<br>
-����͂����܂ň�G�s�\�[�h�ŁA�����ɃW���[�W���b�h���񂪍��߂��Ӑ}�ɑ΂��鉿�l���f�͂��ꂩ��̓W�J���܂߂���ł���邱�Ƃ��Ǝv���܂���B<br>
+<font size=3 color=#606060>▼ ｍｋ８４２６さん<br>
+いやその、憤りはともかく、現時点で非常識まで言ってしまっては……。<br>
+これはあくまで一エピソードで、そこにジャージレッドさんが込めた意図に対する価値判断はこれからの展開も含めた上でされることだと思いますよ。<br>
 <br>
-����Ƃ͂�����Ɨ���āA�ĒÂ����Ŏ����̏������݂����鎞�ɂ�����ƋC�ɂ����̂́A�A�ڒ��̍�i�ɓr���Ńl�K�e�B�u�Ȋ��z�����邱�Ƃ̉e���������肵�܂��B�ǎ҂̈ӂ����ނ��܂�ɁA��i�̃X�P�[�����������Ȃ�����r���ł����͂��ɂȂ��Ă��܂�����{�ӂłȂ��Ȃ��A�ƁB�ł�����A�W���[�W���b�h����ɂ͂��������ӌ������邱�Ƃ��m��A�ŏ��ɈӐ}�����W�J�͋Ȃ����Ɋт�������ė~�����Ȃ��Ǝv�����肵�܂��B���Ă����Ƃ���͌��킸�����Ȃł���Ƃ͎v���܂����ǂˁB�Ƃ������Ƃŗ]�v�Ȍ��o�������l�т��Q�i�D�D�j�Q��������҂��Ă���܂��B</font>
+これとはちょっと離れて、米津が下で自分の書き込みをする時にちょっと気にしたのは、連載中の作品に途中でネガティブな感想をつけることの影響だったりします。読者の意を汲むあまりに、作品のスケールが小さくなったり途中でちぐはぐになってしまったら本意でないなあ、と。ですから、ジャージレッドさんにはこういう意見があることも知りつつ、最初に意図した展開は曲げずに貫いちゃって欲しいなあと思ったりします。ってきっとこれは言わずもがなであるとは思いますけどね。ということで余計な口出しをお詫びしつつ＿（．．）＿次回を期待しております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[33]</font> <font size=4 color=#40c0c0> Re2:�d���I���퐶���@��11�b</font>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> Re2:妖精的日常生活　第11話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 20:29:03 <strong>��</strong> <a href="mailto:mk8426@cocoromail.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210202903&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210202903"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 20:29:03 <strong>▽</strong> <a href="mailto:mk8426@cocoromail.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210202903_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210202903"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �W���[�W���b�h����<br>
-<font color="#cc88ff">&gt; ���[��B�΂������郌�x������Ȃ������̂ˁB</font><br>
-������O�ł�����I�N�����̓W�J�ŏ΂����ł����B��펯�Ȃ��Ƃ�����Ȃ��ŉ�������B<br>
+<font size=3 color=#606060>▼ ジャージレッドさん<br>
+<font color="#cc88ff">&gt; うーん。笑いを取れるレベルじゃなかったのね。</font><br>
+当たり前ですよっ！誰があの展開で笑えるんですか。非常識なことを言わないで下さいよ。<br>
 <br>
-�� ��K��҂���<br>
-<font color="#cc88ff">&gt; �Ō�܂Ŕ��P�����̖��������Ȃ��������炩������܂���B<br>
-&gt; �r���Ŕ����������鎖���Ȃ��㏸���Ă����č��܂����܂܏I������̂�<br>
-&gt; ��Ɉ����Ă��ł��傤�B</font><br>
-�܂����������ł��B</font>
+▼ 一訪問者さん<br>
+<font color="#cc88ff">&gt; 最後まで美姫ちゃんの味方が居なかったからかもしれません。<br>
+&gt; 途中で反感が下がる事もなく上昇していって高まったまま終わったので<br>
+&gt; 後に引いてるんでしょう。</font><br>
+まったく同感です。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -254,54 +254,54 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> Re2:���z����юG��</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> Re2:感想および雑感</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 10:51:12 <strong>��</strong> ��K��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210105112&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210105112"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 10:51:12 <strong>▽</strong> 一訪問者 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210105112_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210105112"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �ǂ����A���̗\�z�ȏ�ɁA�C���p�N�g���������悤�ł��ˁB���ꂪ���o�̈Ⴂ�Ȃ�ł��傤���H�@�����g�Ƃ���΁A�C�l��������A������Ɨǂ��ʂ��o���Ă�����肾������ł����c�c�B�܂��A�\�z�O�ł��A�ǎ҂̈ӎ���U����������͍����Ă邩��ǂ��Ƃ��܂����B</font><br>
-���̎��������܂Ŕ����ς����̂����ȕ��͂��Ă݂��̂ł����c�Ō�܂Ŕ��P�����̖��������Ȃ��������炩������܂���B<br>
-�A��̏����B�̒��Ɉ�l���炢�Ԃ߂��܂������ꂽ��߈����������Ă����Ȑl������΁A<br>
-�������K�炪���P�����̌������������Ă���΁A<br>
-���߂̑O�ɂ�������₨�ꂳ�񂪑�l�̍l���ŉ��������Ă���Ă���΂���������ƕς�����ł��傤���B<br>
-��l��������P�����Ɍ����ꂵ�ēǂ�ł���ׁA���̉��z�������������ɂȂ�������Ă܂����B<br>
-�������K�炪�G�ɉ���Ă鎖�����ׂĊC�l�̂����݂����Ɋ������Ⴂ�܂����B<br>
-�r���Ŕ����������鎖���Ȃ��㏸���Ă����č��܂����܂܏I������̂Ō�Ɉ����Ă��ł��傤�B<br>
-�ʂ̘b��ȂǂŃN�b�V�����u���Ă���I����Ă���Ɨ]�C�ɑ傫���������鎖�͂Ȃ������ł��傤���B<br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; どうやら、私の予想以上に、インパクトがあったようですね。これが感覚の違いなんでしょうか？　私自身とすれば、海斗が今回も、ちょっと良い面を出しているつもりだったんですが……。まあ、予想外でも、読者の意識を誘導する方向は合ってるから良しとしますか。</font><br>
+何故私がここまで反感観じたのか自己分析してみたのですが…最後まで美姫ちゃんの味方が居なかったからかもしれません。<br>
+連れの女性達の中に一人くらい慰めや励ましをくれたり罪悪感を感じてそうな人がいれば、<br>
+珠美香や幸也が美姫ちゃんの言い分も聞いていれば、<br>
+締めの前にお父さんやお母さんが大人の考えで何か言ってくれていればもうちょっと変わったでしょうか。<br>
+主人公たる美姫ちゃんに肩入れして読んでいる為、その可哀想さ加減が反感になっちゃってますし。<br>
+珠美香や幸也が敵に回ってる事もすべて海斗のせいみたいに感じちゃいました。<br>
+途中で反感が下がる事もなく上昇していって高まったまま終わったので後に引いてるんでしょう。<br>
+別の話題などでクッション置いてから終わっていると余韻に大きく引きずる事はなかったでしょうが。<br>
 <br>
-�������������̏ꍇ�͂���Ȋ����ł��傤���B</font>
+だいたい自分の場合はこんな感じでしょうか。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> Re:�d���I���퐶���@��11�b</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> Re:妖精的日常生活　第11話</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 07:33:22 <strong>��</strong> <a href="mailto:jersey-r@mb.i-chubu.ne.jp">�W���[�W���b�h</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207210073322&log=jersey_red">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210073322"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 07:33:22 <strong>▽</strong> <a href="mailto:jersey-r@mb.i-chubu.ne.jp">ジャージレッド</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207210073322_log_jersey_red.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210073322"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �ĒÂ���<br>
-<font color="#cc88ff">&gt; �����R�ȉ�ł����ˁ`�B�����āA�������ꌾ�ł܂Ƃ߂�ƁA�d���I���E�ł͏������d�����j�����~�L�����Ƃ����͊֌W�����܂�Ă���A��(��)�B</font><br>
+<font size=3 color=#606060>▼ 米津さん<br>
+<font color="#cc88ff">&gt; 盛り沢山な回でしたね〜。そして、それらを一言でまとめると、妖精的世界では女性≒妖精＞男性＞ミキちゃんという力関係が生まれている、と(笑)。</font><br>
 <br>
-�Ȃ�قǁB�m���ɂ����ł��ˁB�������v��ł����A���ɔ[�����܂����B�G�����������ƂƂ́A���A��l�����ǂ��܂ő��҂ɑ΂��Ďア����ɗ����Ă����̂��Ƃ����ߒ����������Ƃ��Ǝv���Ă��܂��̂ŁA���P�����̗�����ǂ�ǂ�Ǝキ���Ă������̂ł����c�c�B���`��A�Ƃ��Ƃ��Ŏ�ɂȂ��Ă��܂��܂������B�����ď��߂ċC�t���܂����B<br>
+なるほど。確かにそうですね。すごい要約ですが、妙に納得しました。萌えを書くこととは、一種、主人公がどこまで他者に対して弱い立場に落ちていくのかという過程を書くことだと思っていますので、美姫ちゃんの立場をどんどんと弱くしていったのですが……。う〜ん、とうとう最弱になってしまいましたか。言われて初めて気付きました。<br>
 <br>
-<font color="#cc88ff">&gt; ���������̃��X�g�̊C�l�̃V�[���A�c�c�c�c�A�����"���n��"�͑��v���Ȃ��ƐS�z�����Ă��܂��܂����B���̑ԓx���̂܂܂̐l�������Ƃ������͂Ȃ��C�����܂����A����Ă��܂�����������ۂ͂�قǋ����G�s�\�[�h�������Ă��Ȃ��ƂȂ��Ȃ邱�Ƃ͂Ȃ��Ǝv���܂��̂ŁB</font><br>
+<font color="#cc88ff">&gt; 諸説紛糾のラストの海斗のシーン、…………、今後の"失地回復"は大丈夫かなあと心配をしてしまいました。あの態度そのままの人たちだという事はない気がしますが、作ってしまった悪い第一印象はよほど強いエピソードを持ってこないとなくなることはないと思いますので。</font><br>
 <br>
-���́A�_���Ă����Ƃ͂����A�����܂Ŕ����������o��Ƃ͎v���ĂȂ������ł��B�ꉞ�A���P����񎩐g�́A������Ɠ݂����Ƃ�����A��e�d���̓G�ӂނ��o���̊���ɑ΂��āA�܂��˘f�����������Ă܂���B�����A�C�l�ɑ΂��������������o���Ă܂���c�c�A�Ƃ�����������������݈ӎ��ł͎����Ă܂���i���̂����蕚���j�̂ŁA�ޏ��B�̊�������i�Ƃ͗����o���Ȃ��̂ł��B<br>
-���āA����ŁA���̘c�݂������֌W���ǂ����퉻����̂��B�c�c�C�l�Ƃ͐��퉻���܂��B�ł��A�ޏ��B�Ɛ��퉻����̂́A�ǂ����ȁc�c�B�ŏI�b�܂Ŗ�������Ȃ����ȁB�܂��A���̂�����͔��P�����̒S������Ȃ��āA�C�l�̒S���Ȃ̂ŁA�{�҂ŏ������Ƃ͖����̂ł͖������ƁB<br>
-�������A���݂̈�������D�]������G�s�\�[�h�ł����c�c�B�ꉞ�l���Ă邯�ǁA���v���ȁH�@�F�l�̊�������܂ň�������Ƃ́A�v���Ă��݂Ȃ������B���[��B�΂������郌�x������Ȃ������̂ˁB���̃G�s�\�[�h���������ɂ́A�S���˂΁B</font>
+実は、狙っていたとはいえ、ここまで反応が強く出るとは思ってなかったです。一応、美姫ちゃん自身は、ちょっと鈍いこともあり、母親妖精の敵意むき出しの感情に対して、まだ戸惑いしか感じてません。事実、海斗に対する恋愛感情を自覚してません……、というか恋愛感情を顕在意識では持ってません（このあたり伏線）ので、彼女達の感情を嫉妬とは理解出来ないのです。<br>
+さて、それで、この歪みきった関係がどう正常化するのか。……海斗とは正常化します。でも、彼女達と正常化するのは、どうかな……。最終話まで無理じゃないかな。まあ、そのあたりは美姫ちゃんの担当じゃなくて、海斗の担当なので、本編で書くことは無いのでは無いかと。<br>
+しかし、現在の悪感情を好転させるエピソードですか……。一応考えてるけど、大丈夫かな？　皆様の感情がここまで悪化するとは、思ってもみなかった。うーん。笑いを取れるレベルじゃなかったのね。そのエピソードを書く時には、心せねば。</font>
 <p><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_top">http://www.i-chubu.ne.jp/~jersey-r/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="jersey_red">
@@ -309,16 +309,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="jersey_red">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=jersey_red">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_jersey_red.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

@@ -1,49 +1,49 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�p���񂳂��i���z�f����</title>
+<title>角さんさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�p�����i���z�f����</font>
+<font size=5>角さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kakusan">
 <input type=hidden name="nj" value="bBvYfvMKQy">
 <input type=hidden name="res" value="2">
-<h4 align=center>�� �L���ԍ� 2 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 2 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾃o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U����
-&gt; �����[�����������ǖʔ��������`�i�΁j�B
-&gt; �ŁA
-&gt; ���s�r�X�g�[���[�����h�i��ҁj�̑S�Ẳ��ڂ͏I���܂����B
-&gt; ��H
-&gt; ���b�͂܂��r������Ȃ��E�E�E�B
-&gt; ����ւ�����ӂ���͖�̊w�Z�łȂɂ����悤�Ƃ����̂��B
-&gt; �����āA�������ȁi�΁j�T��Ђ̖ʁX�́E�E�E�B
-&gt; ���[��B
-&gt; ���A�������I
-&gt; �����Ɓu�����ҁv������񂾂ˁ�
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６さん
+&gt; ううー長かったけど面白かった〜（笑）。
+&gt; で、
+&gt; ＞ＴＳストーリーランド（後編）の全ての演目は終わりました。
+&gt; ん？
+&gt; お話はまだ途中だよなぁ・・・。
+&gt; 入れ替わったふたりは夜の学校でなにをしようというのか。
+&gt; そして、怪しげな（笑）探偵社の面々は・・・。
+&gt; うーん。
+&gt; あ、そうか！
+&gt; きっと「完結編」があるんだね♪
 &gt; 
-&gt; �Ƃ����킯�ŁA�����A�y���݂ɂ��Ă��܂��`�B</textarea><br>
+&gt; というわけで、続き、楽しみにしています〜。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -56,29 +56,29 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> ���ЂႠ</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> うひゃあ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/07 (��) 18:29:47 <strong>��</strong> �m�C���i�d�g�d���j </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208073182947&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208073182947"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/07 (水) 18:29:47 <strong>▽</strong> ノイン（電波妖精） </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208073182947_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200208073182947"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�O�ҁA��҂Ɠǂ݂܂����B<br>
-�o��l���������������Z���āA�ǂ������ł��B<br>
-�V���A�X�A�M���O�ƃo�����X���Ƃ�Ă���z�u�ł��ˁB<br>
-�邿���Ǝm�Y�̂����������悩�����B�@�q������悩�����B�i�΁j<br>
-��l�����e�������您�E�E�E���ʂ����邹�����ȁB<br>
-�Ƃ͂����A�����₤���߂̈�l�́B���܂��ł��ˁB<br>
-�����āA�b�̓V���A�X�ɐi��ł����āA<br>
-��֐�ւƎ�������藧�Ă��܂����B<br>
-���[�ށA�ق�Ƃɂ������E�E�E�B<br>
-�ŏI�́A�ق�Ƃɑ҂��Ă܂��B<br>
-�������A�C�ɂȂ����̂͑O�҂̂��Ƃ����́E�E�E�����<br>
-�[���b�́E�E�E<br>
-�n�b�s�[�ȃG���h�ɂ͂Ȃ�Ȃ������Ȋ����Ȃ̂ŁA<br>
-�ǂ��Ȃ邩�C�ɂȂ�܂��ˁB<br>
+<font size=3 color=#606060>前編、後編と読みました。<br>
+登場人物がだれもかれも濃くて、良い感じです。<br>
+シリアス、ギャグとバランスがとれている配置ですね。<br>
+鈴ちゃんと士郎のかけあいもよかった。法子さんもよかった。（笑）<br>
+主人公が影うすいよお・・・普通すぎるせいかな。<br>
+とはいえ、それを補うための一人称。うまいですね。<br>
+そして、話はシリアスに進んでいって、<br>
+先へ先へと視線を駆り立てられました。<br>
+うーむ、ほんとにすごい・・・。<br>
+最終章、ほんとに待ってます。<br>
+しかし、気になったのは前編のあとがきの・・・あれと<br>
+ゼロ話の・・・<br>
+ハッピーなエンドにはならなさそうな感じなので、<br>
+どうなるか気になりますね。<br>
 <br>
-�I�}�P���y���������ł���<br>
+オマケも楽しかったです♪<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -86,23 +86,23 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �L�삳��A�ǂ����I</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 猫野さん、どうも！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/28 (��) 20:57:24 <strong>��</strong> <a href="mailto:kausan@mba.nifty.ne.jp">�p����</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207280205724&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207280205724"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/28 (日) 20:57:24 <strong>▽</strong> <a href="mailto:kausan@mba.nifty.ne.jp">角さん</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207280205724_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207280205724"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�x���Ȃ��Ă����܂���I<br>
-���������b�ɂȂ��Ă��܂��B<br>
-�Ȃ��Ȃ������������Ƃ��A�l�ɂ킩��₷���A�Ȃ����킩��ɂ����\������̂��ē���ł���ˁ`<br>
-���m�Y�́A���Ȃ�ς�����l�Ȃ̂ŁA�����ĂĖʔ����ł��ˁI<br>
-���X�A�\�����܂����E�E�E�E<br>
-�������q���A���񂾂��̕����Ƃ������ƂŁA�������܂����B<br>
-���A�������قǕ`���Ȃ��Ă͂Ȃ�Ȃ����I<br>
-����Ȃ���ȂŁA���z���肪�Ƃ��������܂��B<br>
-�ŏI�͂́A�܂��܂����Ԃ�������Ǝv���܂����A�C���ɂ��҂��������B<br>
-����́A�킩��܂���ˁ`</font>
+<font size=3 color=#606060>遅くなってすいません！<br>
+いつもお世話になっています。<br>
+なかなか言いたいことを、人にわかりやすく、なおかつわかりにくく構成するのって難しいですよね〜<br>
+柳士郎は、かなり変わった人なので、書いてて面白いですね！<br>
+時々、暴走しますが・・・・<br>
+恩名音子も、今回だけの復活ということで、復活しました。<br>
+あ、もう一回ほど描かなくてはならないか！<br>
+そんなこんなで、感想ありがとうございます。<br>
+最終章は、まだまだ時間がかかると思いますが、気長にお待ち下さい。<br>
+事情は、わかりますよね〜</font>
 </td></table>
 </td></tr></table>
 
@@ -112,39 +112,39 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[10]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/24 (��) 02:20:35 <strong>��</strong> �L��^ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207243022035&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207243022035"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/24 (水) 02:20:35 <strong>▽</strong> 猫野某 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207243022035_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207243022035"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�x��܂����B�B�B�ǂ񂾂悧�B<br>
-�܂���P�̊��z�B�A�ڎ��ɓǂݓ����Ă��͂��������B�B�B<br>
-�V�ł�10.5�b�ɂ���A�������ĉ��H�@�ɂ���A���X������<br>
-�l���_���Ԃ̂��āA���ɂ҂�����̂������悳�ł��ˁB<br>
-���āA�c��͍ŏI�́B�B�B<br>
-�@���܂��̉��q�����A����ς肢���悧�B</font>
+<font size=3 color=#606060>遅れました。。。読んだよぉ。<br>
+まず第１の感想。連載時に読み逃してた章があった。。。<br>
+新版の10.5話にしろ、現実って何？　にしろ、少々無茶な<br>
+人生論をぶつのって、柳にぴったりのかっこよさですね。<br>
+さて、残るは最終章。。。<br>
+　おまけの音子ちゃん、やっぱりいいよぉ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B </font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。 </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/20 (�y) 17:59:00 <strong>��</strong> <a href="mailto:kausan@mba.nifty.ne.jp">�p����</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207206175900&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207206175900"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/20 (土) 17:59:00 <strong>▽</strong> <a href="mailto:kausan@mba.nifty.ne.jp">角さん</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207206175900_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207206175900"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�܂��܂��A���z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>またまた、感想ありがとうございます。<br>
 <br>
-�m�C������<br>
-���x�͓����܂���̂ŁA�������ǂ�ŉ������ˁI<br>
-���ꂩ��A��������΂��Ă��������ˁI<br>
-��҂ƌ����Ă��A�������Ă܂��񂪁A�悩�����瑱���̊��z�������Ē�������������ł��B<br>
+ノインさん<br>
+今度は逃げませんので、ゆっくり読んで下さいね！<br>
+それから、試験がんばってくださいね！<br>
+後編と言っても、完結してませんが、よかったら続きの感想も書いて頂けたら嬉しいです。<br>
 <br>
-���J����<br>
-���z���肪�Ƃ��������܂��B<br>
-���Ƃ��A��������悤�ɂ���΂�܂��̂ŁA���̎��͂��b�̊��z�������Ă��������ˁI<br>
+水谷さん<br>
+感想ありがとうございます。<br>
+何とか、完結するようにがんばりますので、その時はお話の感想を書いてくださいね！<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -152,103 +152,103 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> ����ꂳ�܂ł���</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> お疲れさまでした</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/19 (��) 20:38:01 <strong>��</strong> ���J�H�v </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207195203801&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207195203801"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/19 (金) 20:38:01 <strong>▽</strong> 水谷秋夫 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207195203801_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207195203801"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@����قǂ̂��b�������i�߂�̂͂���J�������������ƂƎv���܂��B<br>
-�@�ŏI�͍\�z���Ƃ������Ƃł��̂ŁA���z�͊�����ɂ������Ǝv���܂��B�C���ɂ��҂����Ă���܂��B</font>
+<font size=3 color=#606060>　これほどのお話を書き進めるのはご苦労が多かったことと思います。<br>
+　最終章構想中ということですので、感想は完結後にしたいと思います。気長にお待ちしております。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[7]</font> <font size=4 color=#40c0c0> ����́E�E�E</font>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> これは・・・</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/19 (��) 01:36:51 <strong>��</strong> �m�C���i�d�g�d���j </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207195013651&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207195013651"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/19 (金) 01:36:51 <strong>▽</strong> ノイン（電波妖精） </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207195013651_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207195013651"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂���A�������߂������ŁA�S���ǂ߂܂���B�ł����c�v�����z�������Ɏc���Ă����܂��B���͂�����܂œǂނƁE�E�E���������n�[�g�t���Ŋ������܂����B<br>
-�����肭���̂��߂ɐ����Ă����ĂƂ����E�E�E���������[���您��</font>
+<font size=3 color=#606060>すいません、試験が近いせいで、全部読めません。ですが…プレ感想をここに残しておきます。序章あたりまで読むと・・・すっごくハートフルで感動しました。<br>
+当たりくじのために生きてくってとこが・・・すっごく深いよお♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/17 (��) 20:55:36 <strong>��</strong> <a href="mailto:kausan@mba.nifty.ne.jp">�p����</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207173205536&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207173205536"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/17 (水) 20:55:36 <strong>▽</strong> <a href="mailto:kausan@mba.nifty.ne.jp">角さん</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207173205536_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207173205536"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�F����A���z���肪�Ƃ��������܂��B<br>
-�������b������Ȃɑ����ǂ݁A���z������������B<br>
-�����A�k�[�^�다�X�������Ă��܂��B<br>
-�Ƃ肠�����A��҂͂����܂łł����A�ŏI�͈͂ꉞ�l���Ă��܂��B<br>
-���݁A�S�R��t�����ŁA�ǂ��ł���邩�A�����l���Ă܂��񂪁A�C���ɑ҂��Ă��Ă��������B<br>
-�Ȃ񂹁A�O�҂��獡���҂܂Ŗ��N�������Ă��܂�����E�E�E�E<br>
+<font size=3 color=#606060>皆さん、感想ありがとうございます。<br>
+長いお話をこんなに早く読み、感想をいただける。<br>
+相方、北房真庭共々感激しています。<br>
+とりあえず、後編はここまでですが、最終章は一応考えています。<br>
+現在、全然手付かずで、どこでいつやるか、何も考えてませんが、気長に待ってってください。<br>
+なんせ、前編から今回後編まで約二年かかっていますから・・・・<br>
 <br>
-���͂Ƃ�����A���z���肪�Ƃ��������܂����B<br>
-�Ƃ��Ă���݂ɂȂ�A���C���o�Ă��܂����I</font>
+何はともあれ、感想ありがとうございました。<br>
+とっても励みになり、やる気が出てきました！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �����Ҋ�]</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 完結編希望</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/16 (��) 10:55:58 <strong>��</strong> TAKE1 </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207162105558&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207162105558"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/16 (火) 10:55:58 <strong>▽</strong> TAKE1 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207162105558_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207162105558"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���Ă���������Ă��������B�߂����Ɋ��z�����Ȃ��̂ɂ���Ɋւ��Ă͌��������B<br>
-�{���ɖʔ��������ɂ��Ђ����Ƃ����������������ł��B</font>
+<font size=3 color=#606060>　っていうか作ってください。めったに感想書かないのにこれに関しては言いたい。<br>
+本当に面白いだけにぜひちゃんとした結末が見たいです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �ǂ񂾂ł�</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 読んだです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/16 (��) 03:29:33 <strong>��</strong> �V���E </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207162032933&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207162032933"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/16 (火) 03:29:33 <strong>▽</strong> シュウ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207162032933_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207162032933"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���������E�E�E�ł����̕��ʔ��������B<br>
-�����҂͂����ł����H����Ȃ琥��ǂ݂����ł��B</font>
+<font size=3 color=#606060>長かった・・・でもその分面白かった。<br>
+完結編はあるんですか？あるなら是非読みたいです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/16 (��) 01:07:13 <strong>��</strong> <a href="mailto:wondermd@anet.ne.jp">���K\</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207162010713&log=kakusan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207162010713"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/16 (火) 01:07:13 <strong>▽</strong> <a href="mailto:wondermd@anet.ne.jp">メガ\</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207162010713_log_kakusan.cgi">返信</a>　削除<input type=checkbox name="target" value="200207162010713"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������ƒ������[�ȏI���ł����ʔ����ł���</font>
+<font size=3 color=#606060>ちょっと中道半端な終わりですが面白いでした</font>
 <p><div align=left><a href="http://user.chollian.net/~wondermd/" target="_top">http://user.chollian.net/~wondermd/</a></div>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kakusan">
@@ -256,16 +256,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kakusan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kakusan">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kakusan.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

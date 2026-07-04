@@ -1,48 +1,48 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�w�����Ǘ��l�t�H�X�^�[�V���[�Y�x���z�f����</title>
+<title>『次元管理人フォスターシリーズ』感想掲示板</title>
 </head>
 <body bgcolor=#bbffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�w�����Ǘ��l�t�H�X�^�[�V���[�Y�x���z�f����</font>
+<font size=5>『次元管理人フォスターシリーズ』感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="foster">
 <input type=hidden name="nj" value="4Ij5cql7J5">
 <input type=hidden name="res" value="27">
-<h4 align=center>�� �L���ԍ� 27 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 27 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w���C�����O�E�_�C�r���O�x�ǂ݂܂���"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� SORA����
-&gt; �����A�Ȃ�đ��ƁB
-&gt; ������������Ă�����ŏ���������
-&gt; �d�ʌy�����Ă����Ƃ���܂œǂ߂��̂ł����A
-&gt; �w�����x���ĂƂ���܂ł͓ǂ߂܂���ł����B
-&gt; ����l�̏������Ђ�����߂Ă��Ă��Ƃł��ˁB
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『レイリング・ダイビング』読みました"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ SORAさん
+&gt; おぉ、なんて早業。
+&gt; 橋が落ちるってあたりで女性化して
+&gt; 重量軽減っていうところまで読めたのですが、
+&gt; 『少女』ってところまでは読めませんでした。
+&gt; ＃大人の女性もひっくるめてってことですね。
 &gt; 
-&gt; ����ɂ��Ă��A
+&gt; それにしても、
 &gt; 
-&gt; &gt; �u�ł��A����łR�O�N���͒������ł�����B���ꂾ���D�������x���������Łv
+&gt; &gt; 「でも、これで３０年分は長生きできるんや。それだけ優勝を何度も見れるんやで」
 &gt; 
-&gt; �Ճt�@���Ȃ瓖�R�̔������ƁB:-)</textarea><br>
+&gt; 虎ファンなら当然の反応かと。:-)</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -55,22 +55,22 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[36]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂�</font>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/22 (��) 09:49:21 <strong>��</strong> <a href="mailto:kawanegi@ts9.jp">����˂�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309221094921&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309221094921"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/22 (月) 09:49:21 <strong>▽</strong> <a href="mailto:kawanegi@ts9.jp">かわねぎ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309221094921_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309221094921"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���āA�D���M����i�������������Łc�c<br>
+<font size=3 color=#606060>さて、優勝熱も一段落した頃合いで……<br>
 <br>
-�F�l�A���ǂݒ������肪�Ƃ��������܂��B<br>
-�^�c�ψ��l�ɂ��A�r�[���������Ȃ���̑f�����f�ڂ����Ă��������A���肪�Ƃ��������܂��B<br>
+皆様、お読み頂きありがとうございます。<br>
+運営委員様にも、ビールかけしながらの素早い掲載をしていただき、ありがとうございます。<br>
 <br>
-�@��_�̗D�������肵�āA�l�^�����������āA���ږx����̒��p�����Ȃ��珑���Ă����̂ł����A�����̓��ږx��~�c�ł̔M���Ԃ�́A���ꂩ�璩�܂ŃG�X�J���[�g���Ă����悤�ł��ˁB�������Փ}�i�܂��A�\����������t�@�����ڗ������悤�ł����j�B�t�H�X�^�[�ɂ���Q�҂���P�^���Ȃ������悤�ł��B<br>
-�@���܂������̃Z���t�ł����A��ԏ������������̂͂����������肵�܂��B��͂�A�Փ}�݂̂Ȃ��܂͉��x���D�������邽�߂ɂ͔N��ލs�������Ȃ���ł��ˁB�������TS�������āi�΁j�B<br>
+　阪神の優勝が決定して、ネタをいただいて、道頓堀からの中継を見ながら書いていたのですが、現実の道頓堀や梅田での熱狂ぶりは、それから朝までエスカレートしていたようですね。さすが虎党（まぁ、暴走した似非ファンが目立ったようですが）。フォスターによる被害者が一ケタ少なかったようです。<br>
+　おまけ部分のセリフですが、一番書きたかったのはここだったりします。やはり、虎党のみなさまは何度も優勝を見るためには年齢退行も辞さないんですね。もちろんTSしたって（笑）。<br>
 <br>
-�@���āA�p���[�O����l�߂ɓ���A���͓��{�V���[�Y�Ńt�H�X�^�[�̏o���Ȃ邩�B���A�ؑタ���ł����H�@���ЁA�ǂȂ����Ɂ�<br>
+　さて、パリーグも大詰めに入り、次は日本シリーズでフォスターの出動なるか。え、華代ちゃんですか？　ぜひ、どなたかに♪<br>
 <br>
 <br>
 </font>
@@ -84,17 +84,17 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[35]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/22 (��) 09:48:15 <strong>��</strong> daichan </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309221094815&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309221094815"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/22 (月) 09:48:15 <strong>▽</strong> daichan </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309221094815_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309221094815"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@���ނ��A2ch���痈�܂������ǁA�b�ɂЂ˂肠��܂���ł����ˁB<br>
-�@����ƁA�����g�ɏW�cTS�Ƃ���SF�l�^��m��Ȃ������̂��v���I�������̂��B<br>
-�@�F�l�����̌f���ɏ�����<br>
-�@�u���ږx�̐_�͐����т��󂯎��������A���N�͍�_�D���ԈႢ�Ȃ�!!�v<br>
-�@�ƌ���������_�D���֘A�l�^�Ƃ��Ă͗D��Ă���Ǝv���܂��B<br>
-�@���ЁA�����ƂЂ˂��Ă��������B<br>
-�@�̂����ŃX�}�\�B<br>
+<font size=3 color=#606060>　うむう、2chから来ましたけど、話にひねりありませんでしたね。<br>
+　それと、私自身に集団TSというSFネタを知らなかったのが致命的だったのか。<br>
+　友人が私の掲示板に書いた<br>
+　「道頓堀の神は生け贄を受け取ったから、今年は阪神優勝間違いなし!!」<br>
+　と言う方が阪神優勝関連ネタとしては優れていると思います。<br>
+　ぜひ、もっとひねってください。<br>
+　偉そうでスマソ。<br>
 <br>
 <br>
 </font>
@@ -107,35 +107,35 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[32]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/21 (��) 18:14:11 <strong>��</strong> �l����l </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309210181411&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309210181411"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/21 (日) 18:14:11 <strong>▽</strong> 考える人 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309210181411_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309210181411"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���C�����O�E�_�C�r���O�E�E�E�E�E<br>
+<font size=3 color=#606060>レイリング・ダイビング・・・・・<br>
 <br>
-����˂�����A�ƂĂ��ʔ��������ł��B<br>
-��_�D���ƁA�W�c�s�r�Ƃ́A�G�������A�΂����B<br>
-���̍�_�D���l�^�́A�t�H�X�^�[�ȊO�ɂ��A<br>
-�ؑタ���ɂ��g�������ł��ˁB</font>
+かわねぎさん、とても面白かったです。<br>
+阪神優勝と、集団ＴＳとは、萌えたし、笑えた。<br>
+この阪神優勝ネタは、フォスター以外にも、<br>
+華代ちゃんにも使えそうですね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> �ǂ܂��Ē����܂����B</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> 読ませて頂きました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/17 (��) 21:37:31 <strong>��</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">�閲</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309173213731&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309173213731"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/17 (水) 21:37:31 <strong>▽</strong> <a href="mailto:m-yoko@giga.ocn.ne.jp">夜夢</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309173213731_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309173213731"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ꂢ��񂮁E�����т񂮁E�E�E�E�E�E<br>
+<font size=3 color=#606060>れいりんぐ・だいびんぐ・・・・・・<br>
 <br>
-������āA�t�H�X�^�[�������Ǘ��l�Ƃ��Ĉ�Ԃ܂Ƃ��Ȏd�����������b�ƌ����C������̂́E�E�E�E�E�E�C�̏��ׂł��傤���H<br>
-���ہA�ނ�������d����**���́A���������^�ʖڂȎd���ŁE�E�E�E�E�E�Ƒ�����ɂ́A�n�`�����`���Șb�ɂ͈Ⴂ�Ȃ����E�E�E�E�E�E<br>
+今回って、フォスターが次元管理人として一番まともな仕事をしたお話と言う気がするのは・・・・・・気の所為でしょうか？<br>
+実際、彼がやった仕事の**％は、こう言う真面目な仕事で・・・・・・と続けるには、ハチャメチャな話には違いないか・・・・・・<br>
 <br>
-���͂Ƃ�����A�ʔ��������ł��B</font>
+何はともあれ、面白かったです。</font>
 </td></table>
 </td></tr></table>
 
@@ -145,12 +145,12 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[30]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/17 (��) 19:18:09 <strong>��</strong> �s�n�j�h�v�` </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309173191809&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309173191809"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/17 (水) 19:18:09 <strong>▽</strong> ＴＯＫＩＷＡ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309173191809_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309173191809"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��_�D�����߂łƂ��`��I<br>
-�܂�������ȏ��ō�_�l�^������Ƃ̓J�E���^�[��H�炢�܂����B</font>
+<font size=3 color=#606060>阪神優勝おめでとさ〜ん！<br>
+まさかこんな所で阪神ネタがくるとはカウンターを食らいました。</font>
 </td></table>
 </td></tr></table>
 
@@ -160,38 +160,38 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[29]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/17 (��) 00:58:30 <strong>��</strong> Kardy@��݂���ċC����������ˁ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309173005830&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309173005830"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/17 (水) 00:58:30 <strong>▽</strong> Kardy@首吊りって気持ちいいよね♪ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309173005830_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309173005830"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�͂���I�I(߄D�)�����l�^�}���Z�[�I<br>
+<font size=3 color=#606060>はやっ！！(ﾟДﾟ)時事ネタマンセー！<br>
 <br>
-�ǂ����Ȃ�A�~�c�̕��������C�����Ă�����΂悩�����̂Ɂ��t�H�X�^�[<br>
-�^����肠�����̕������o������������ł����B<br>
+どうせなら、梅田の歩道橋も修正してあげればよかったのに＞フォスター<br>
+戎橋よりあっちの方がヤバそうだったんですが。<br>
 <br>
-���āA�䂪�}���[���Y�͂������ܖҋ׃��[�h�������B<br>
-��H�L�H���H�܂Ƃ߂Ă������ė�����S���@�I<br>
-��p���[�O��~���񂹁E�s���s����t���b�e�I</font>
+さて、我がマリーンズはただいま猛禽ロード爆走中。<br>
+鷹？猫？牛？まとめてかかって来いやゴルァ！<br>
+♪パリーグを掻き回せ・行け行け千葉ロッテ！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0>  �w���C�����O�E�_�C�r���O�x���z</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0>  『レイリング・ダイビング』感想</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/17 (��) 00:52:31 <strong>��</strong> <a href="mailto:kenkensa@sea.plala.or.jp">�^��@�I</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309173005231&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309173005231"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/17 (水) 00:52:31 <strong>▽</strong> <a href="mailto:kenkensa@sea.plala.or.jp">真城　悠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309173005231_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309173005231"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ǂ܂��Ă��������܂����B<br>
-�@����[�A�{���ɑ����ł��ˁi^^�B<br>
-�@����ɂ��Ă�����͐�ɗ��Ƃ��ꂽ��ƌ��\�u�Q���v���Ă���t�H�X�^�[�B�Ȃ��Ȃ��ʔ�������ł��ˁB<br>
+<font size=3 color=#606060>　読ませていただきました。<br>
+　いやー、本当に早いですね（^^。<br>
+　それにしても今回は川に落とされたりと結構「参加」しているフォスター。なかなか面白い趣向ですね。<br>
 <br>
-�@����ɂ��Ă�<br>
-<font color="#ff88cc">���u���̂悤�ȗ��j�͎��̃����ɂ͂Ȃ��B�{���̗��j���c��ł���v</font><br>
-�@�Ƃ͎���ȓz�i���j�B���A������������̂��Ƃ��i^^�B</font>
+　それにしても<br>
+<font color="#ff88cc">＞「このような歴史は私のメモにはない。本来の歴史が歪んでいる」</font><br>
+　とは失礼な奴（爆）。あ、橋が落ちる方のことか（^^。</font>
 <p><a href="http://kayochan.com" target="_top">http://kayochan.com</a>
 </td></table>
 </td></tr></table>
@@ -199,72 +199,72 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �w���C�����O�E�_�C�r���O�x�ǂ݂܂���</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> 『レイリング・ダイビング』読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/17 (��) 00:38:24 <strong>��</strong> SORA </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309173003824&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309173003824"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/17 (水) 00:38:24 <strong>▽</strong> SORA </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309173003824_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309173003824"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�Ȃ�đ��ƁB<br>
-������������Ă�����ŏ���������<br>
-�d�ʌy�����Ă����Ƃ���܂œǂ߂��̂ł����A<br>
-�w�����x���ĂƂ���܂ł͓ǂ߂܂���ł����B<br>
-����l�̏������Ђ�����߂Ă��Ă��Ƃł��ˁB<br>
+<font size=3 color=#606060>おぉ、なんて早業。<br>
+橋が落ちるってあたりで女性化して<br>
+重量軽減っていうところまで読めたのですが、<br>
+『少女』ってところまでは読めませんでした。<br>
+＃大人の女性もひっくるめてってことですね。<br>
 <br>
-����ɂ��Ă��A<br>
+それにしても、<br>
 <br>
-<font color="#cc88ff">&gt; �u�ł��A����łR�O�N���͒������ł�����B���ꂾ���D�������x���������Łv</font><br>
+<font color="#cc88ff">&gt; 「でも、これで３０年分は長生きできるんや。それだけ優勝を何度も見れるんやで」</font><br>
 <br>
-�Ճt�@���Ȃ瓖�R�̔������ƁB:-)</font>
+虎ファンなら当然の反応かと。:-)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> ���w���C�����O�E�_�C�r���O�x</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> ＞『レイリング・ダイビング』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/17 (��) 00:14:34 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309173001434&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309173001434"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/17 (水) 00:14:34 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309173001434_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309173001434"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>������A������(�P���P<br>
-����A�������t�H�X�^�[���Г�ł��ˁB<br>
+<font size=3 color=#606060>うっわ、早っΣ(‾□‾<br>
+今回、珍しくフォスターも災難ですね。<br>
 <br>
-<font color="#ff88cc">���u������D���O�b�Y�����������Ȃ��������I�I�v</font><br>
-�Ƃ���ƁA�������ՎȂ������肷���ł��傤���B�����O�b�Y���i�΁j<br>
+<font color="#ff88cc">＞「これも優勝グッズか何かかいなぁぁぁっ！！」</font><br>
+とすると、服装が虎縞だったりするんでしょうか。凄ぇグッズだ（笑）<br>
 <br>
-�c�c���āB<br>
-�}�W�b�N�͂��ƂW���A�撣��V�[���b�N�X�B</font>
+……さて。<br>
+マジックはあと８だ、頑張れシーレックス。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/16 (��) 23:40:48 <strong>��</strong> <a href="mailto:ycoco99@ybb.ne.jp">�����i�n����j�`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309162234048&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309162234048"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/16 (火) 23:40:48 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309162234048_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200309162234048"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ۂɋN����Υ���(ry<br>
-���܂��̃Z���t����_�t�@���Ȃ�łͥ��<br>
+<font size=3 color=#606060>実際に起これば････(ry<br>
+おまけのセリフも阪神ファンならでは･･･<br>
 <br>
-���āA����3�Q�[�������<br>
-��G(�ߓS)�|�ē�(�_�C�G�[)�@�㓡��(����)�|����(�I���b�N�X)�ł��B<br>
-����H�N�������ĂȂ��H<br>
-�撣��A���a���(�����t�@�������킩��Ȃ����낤���)</font>
+さて、ついに3ゲーム差･･･<br>
+岩隈(近鉄)−斉藤(ダイエー)　後藤光(西武)−相木(オリックス)です。<br>
+あれ？誰も聞いてない？<br>
+頑張れ、婿殿･･･(西武ファンしかわからないだろう･･･)</font>
 <p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="foster">
@@ -272,16 +272,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="foster">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=foster">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_foster.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

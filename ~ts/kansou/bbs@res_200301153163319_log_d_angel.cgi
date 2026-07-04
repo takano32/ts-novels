@@ -1,54 +1,54 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�w�_�[�e�B�G���W�F���V���[�Y�x���z�f����</title>
+<title>『ダーティエンジェルシリーズ』感想掲示板</title>
 </head>
 <body bgcolor=#bbffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�w�_�[�e�B�G���W�F���V���[�Y�x���z�f����</font>
+<font size=5>『ダーティエンジェルシリーズ』感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="d_angel">
 <input type=hidden name="nj" value="eGmbsVOUe4">
 <input type=hidden name="res" value="21">
-<h4 align=center>�� �L���ԍ� 21 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 21 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w�����Ă��� �x"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� Sally����
-&gt; �ǂ܂��đՂ��܂����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『愛していた 』"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ Sallyさん
+&gt; 読ませて戴きました。
 &gt; 
-&gt; �S���爤���Ă����l��ˑR�������́A���ꂾ���ł��ς����������Ƃł��B
-&gt; ����񂾁v�ƌ����Ă��A����������̖ڂŊm���߂鎖���o���Ȃ���΁A
-&gt; ���̎������󂯓���邱�Ƃ������ł��傤�B
-&gt; ���b�́u�M����ꂸ�ɒT�����v�ƌ����Ă��܂��B
-&gt; �������āA���������̐l�̖ʉe���L���̕Ћ��ɂ��܂����ގ菕�������Ă���A
-&gt; �Q���󂯓����������󂯓���Đ����Ă��������̑O�ɁA
-&gt; ���ʂ�ς������Ă̗��l�����ꂽ��c
-&gt; �^����m�蓾�Ȃ��܂܂ł́A
-&gt; ��͂芲�b�̂悤�ɑ���𑞂݁A������̂�ł��܂��ł��傤�B
+&gt; 心から愛していた人を突然失う事は、それだけでも耐えがたいことです。
+&gt; ｢死んだ」と言われても、それを自分の目で確かめる事が出来なければ、
+&gt; その事実を受け入れることすら難しいでしょう。
+&gt; 幹恵は「信じられずに探した」と言っています。
+&gt; そうして、月日がその人の面影を記憶の片隅にしまいこむ手助けをしてくれ、
+&gt; 漸く受け入れ難い現実を受け入れて生きてきた自分の前に、
+&gt; 性別を変えたかつての恋人が現れたら…
+&gt; 真実を知り得ないままでは、
+&gt; やはり幹恵のように相手を憎み、自分を蔑んでしまうでしょう。
 &gt; 
-&gt; �u�{�C�ōD���������l�����ԈႦ��悤�Ȃ�A������Ȃ���v
-&gt; �u���Ȃ��͍���������悤�Ɏ��������āA����Y���悤�Ɏ���Y�ꂽ��ł��v
+&gt; 「本気で好きだった人を見間違えるようなら、女じゃないわ」
+&gt; 「あなたは桜を愛するように私を愛して、桜を忘れるように私を忘れたんです」
 &gt; 
-&gt; ���b�̔߂��݂�����ł��܂��B
-&gt; �����Ȃ���̑f���炵����i�A���\�����đՂ��܂����B</textarea><br>
+&gt; 幹恵の悲しみが胸を打ちます。
+&gt; いつもながらの素晴らしい作品、堪能させて戴きました。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -61,15 +61,15 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[32]</font> <font size=4 color=#40c0c0> ��A���</font>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> わ、わわ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/18 (��) 23:39:28 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403184233928&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403184233928"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/18 (木) 23:39:28 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403184233928_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200403184233928"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�݁A�݁A�݂����ɂ����B�ǂ�ł����������̂ł����B�����āA�ʔ����ƁI<br>
-�悩�����A����ň��S���Ē��Q�ł��܂���ł��B�͂��@�O�O�j</font>
+<font size=3 color=#606060>み、み、みずたにしゃん。読んでいただけたのですか。そして、面白いと！<br>
+よかった、これで安心して昼寝できましゅです。はい　＾＾）</font>
 <p><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a>
 </td></table>
 </td></tr></table>
@@ -77,44 +77,44 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[31]</font> <font size=4 color=#40c0c0> �ʔ��������ł�</font>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> 面白かったです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/17 (��) 23:05:33 <strong>��</strong> ���J�H�v </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403173230533&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403173230533"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/17 (水) 23:05:33 <strong>▽</strong> 水谷秋夫 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403173230533_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200403173230533"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���X�g�̖��I�`���悵��������炵���Ǝv���܂����B</font>
+<font size=3 color=#606060>ラストの夢オチもよしおかさんらしいと思いました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[30]</font> <font size=4 color=#40c0c0> �͂�A�ق�A�����A�^���ԁI</font>
+<font size=2>[30]</font> <font size=4 color=#40c0c0> はや、ほや、もう、真っ赤！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/16 (��) 21:47:33 <strong>��</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">�悵����</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403162214733&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403162214733"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/16 (火) 21:47:33 <strong>▽</strong> <a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp">よしおか</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403162214733_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200403162214733"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u�Ȃ񂶂�`�����`�`�B�����A���o������Ȃ߂Ƃ�̂��I�v<br>
-�Ƃ���������𒸂��̂ł͂Ȃ����ƁA���鋰�铊�e�����̂ł�������z�b�ƈ���S�ł��B<br>
+<font size=3 color=#606060>「なんじゃ〜こりゃ〜〜。ワレ、鏡姉さんをなめとんのか！」<br>
+というお叱りを頂くのではないかと、恐る恐る投稿したのですが･･･ホッと一安心です。<br>
 <br>
-�v�Ă̘Z�ۂ���<br>
-<font color="#ff88cc">���Ђ���Ƃ��āA�܂����߂ɂ��Q��̋@���^���Ă����������̂ł��傤���H</font><br>
-�����ł��B�������ė��Ȃ����I(����<br>
-�v�Ă̘Z�ۂ���ɂ́A���ӂ��Ă��܂��B�r���Ŏ~�܂��Ă������̍�i������������ӗ~��^���Ă����������̂ł�����B���肪�Ƃ��������܂����B<br>
+思案の六ぽさん<br>
+<font color="#ff88cc">＞ひょっとして、まだ私めにも参戦の機会を与えてくださったのでしょうか？</font><br>
+そうです。かかって来なさい！(ｳｿｳｿ<br>
+思案の六ぽさんには、感謝しています。途中で止まっていたこの作品を完成させる意欲を与えてくださったのですから。ありがとうございました。<br>
 <br>
-�L�삳��<br>
-<font color="#ff88cc">���g�ѓd�b�͍Ō�Ɍ�����܂ŋC�Â��Ȃ������ȁB</font><br>
-���́A�킽�����C�Â��Ă��Ȃ������̂ł��B������A�Q�ĂĂ��̃Z���t��t����������ł���B(ʽ޶���`�j<br>
+猫野さん<br>
+<font color="#ff88cc">＞携帯電話は最後に言われるまで気づかなかったな。</font><br>
+実は、わたしも気づいていなかったのです。だから、慌ててあのセリフを付け足したんですよ。(ﾊｽﾞｶｼｲ〜）<br>
 <br>
-酉J����<br>
-�J�߂����A�J�߂����I���܂肨���Ă�ƃo�I�o�u�̖؂ɓo���Ă��܂��܂���B<br>
+驟雨さん<br>
+褒めすぎ、褒めすぎ！あまりおだてるとバオバブの木に登ってしまいますよ。<br>
 <br>
-�݂Ȃ��܁A���ǂ݂����������肪�Ƃ��������܂����B���ˍ�����́A��̏����̂܂܂ł����A�V���Ȑ^�����A���x�͂ǂȂ������炩�ɂ����̂��A�y���݂ɂ��Ă��܂��B<br>
-����ł́A�ʂ��I</font>
+みなさま、お読みいただきありがとうございました。鏡桐香さんは、謎の女性のままですが、新たな真実を、今度はどなたが明らかにされるのか、楽しみにしています。<br>
+それでは、ぬた！</font>
 <p><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a>
 </td></table>
 </td></tr></table>
@@ -122,100 +122,100 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[29]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[29]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/16 (��) 20:08:27 <strong>��</strong> <a href="mailto:gensan@k8.dion.ne.jp">酉J</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403162200827&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403162200827"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/16 (火) 20:08:27 <strong>▽</strong> <a href="mailto:gensan@k8.dion.ne.jp">驟雨</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403162200827_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200403162200827"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ܂��Ă��������܂����B<br>
-���̕��͗͂͂������ł��ˁI<br>
-�Ō�̃I�`��������Ƃ₻���Ƃ���z���ł��܂��񂵂ˁB<br>
-�V��A�����Ɋy���܂��Ă��炢�܂����I</font>
+<font size=3 color=#606060>読ませていただきました。<br>
+この文章力はさすがですね！<br>
+最後のオチもちょっとやそっとじゃ想像できませんしね。<br>
+新作、存分に楽しませてもらいました！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[28]</font> <font size=4 color=#40c0c0> ������</font>
+<font size=2>[28]</font> <font size=4 color=#40c0c0> 月光石</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/16 (��) 19:37:40 <strong>��</strong> �L�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403162193740&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403162193740"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/16 (火) 19:37:40 <strong>▽</strong> 猫野 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403162193740_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200403162193740"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�ǂ݂܂����B�c�D�`���v���Ԃ�ł��B����̋t�]���|�C���g�ł��ˁB<br>
-�g�ѓd�b�͍Ō�Ɍ�����܂ŋC�Â��Ȃ������ȁB</font>
+<font size=3 color=#606060>　読みました。Ｄ．Ａも久しぶりです。立場の逆転がポイントですね。<br>
+携帯電話は最後に言われるまで気づかなかったな。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[27]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[27]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/16 (��) 00:33:42 <strong>��</strong> �v�Ă̘Z�� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403162003342&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403162003342"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/16 (火) 00:33:42 <strong>▽</strong> 思案の六ぽ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403162003342_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200403162003342"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v���Ԃ�̂c�`�V���[�Y�̐V�삾���I<br>
-�����ł����A�ˍ���������͌��j�������̂ł����E�E�E<br>
-�Ǝv������A�������̋�z�b�Ƃ����I�`�B<br>
-�Ђ���Ƃ��āA�܂����߂ɂ��Q��̋@���^���Ă����������̂ł��傤���H<br>
-��P�f���ő匩����؂��Ă����Ȃ���A�����̖Z�����ɂ��܂��ĂȂ��Ȃ���������Ȃ��������Ɋ������Ă����������Ɖ��߂��A�n��ɗ�݂����Ɓi�ȉ���</font>
+<font size=3 color=#606060>久しぶりのＤＡシリーズの新作だあ！<br>
+そうですか、桐香さんも実は元男だったのですか・・・<br>
+と思ったら、蒼ちゃんの空想話というオチ。<br>
+ひょっとして、まだ私めにも参戦の機会を与えてくださったのでしょうか？<br>
+第１掲示板で大見得を切っておきながら、私事の忙しさにかまけてなかなか手をつけられなかった私に活を入れてくださったと解釈し、創作に励みたいと（以下略</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[26]</font> <font size=4 color=#40c0c0> �w�c�`��b�E�����΁x������ɂ͂������N���b�N�B</font>
+<font size=2>[26]</font> <font size=4 color=#40c0c0> 『ＤＡ秘話・月光石』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/03/15 (��) 22:50:55 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200403151225055&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403151225055"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/03/15 (月) 22:50:55 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200403151225055_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200403151225055"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�l�̐�����V�������R�ɑ���͂́A�͂����č��̐l�ނɂӂ��킵���㕨�Ȃ̂ł��傤���c�c�H<br>
-<a href=http://ts.novels.jp/novel/dirty/angel_ex.htm target=_top>http://ts.novels.jp/novel/dirty/angel_ex.htm</a></font>
+<font size=3 color=#606060>【推薦文】人の生死や老化を自由に操る力は、はたして今の人類にふさわしい代物なのでしょうか……？<br>
+<a href="../../novel/dirty/angel_ex.htm" target=_top>http://ts.novels.jp/novel/dirty/angel_ex.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[25]</font> <font size=4 color=#40c0c0> ���c����A���z���肪�Ƃ��������܂�</font>
+<font size=2>[25]</font> <font size=4 color=#40c0c0> 原田さん、感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/01/25 (�y) 18:17:58 <strong>��</strong> ���J�H�v </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200301256181758&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301256181758"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/01/25 (土) 18:17:58 <strong>▽</strong> 水谷秋夫 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200301256181758_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200301256181758"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">��D.A.�����C���̘b���������v���Ԃ�Ɍ����C�����܂���</font><br>
-�@D.A.�����ނ���A�ˍ��t������x�ǂ����ŏo���Ă������������A�Ƃ����ӎ�������܂����B�ޏ����o��ƂȂ�ƁA�K�R�I��D.A.�����C���L�����ɂȂ�܂��B<br>
-�@�^���Ƌˍ��A�����m���X���~�̂����́A�����ł��C�ɓ����Ă��܂��B<br>
-<font color="#ff88cc">���Z����؂����G�s�\�[�h�̐ςݏd�˂Č���Ă���������</font><br>
-�@�͗��ĈȑO�́A�����Ă��ē����������܂����i��΁j�B</font>
+<font size=3 color=#606060><font color="#ff88cc">＞D.A.がメインの話をすごく久しぶりに見た気がしますが</font><br>
+　D.A.よりもむしろ、桐香師匠を一度良い役で出してあげたかった、という意識がありました。彼女が出るとなると、必然的にD.A.がメインキャラになります。<br>
+　真澄と桐香、女同士丁々発止のやり取りは、自分でも気に入っています。<br>
+<font color="#ff88cc">＞短く区切ったエピソードの積み重ねて語っていく書き方</font><br>
+　章立て以前は、書いていて頭が混乱しました（苦笑）。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[24]</font> <font size=4 color=#40c0c0> �wD.A.�F�����Ă����x</font>
+<font size=2>[24]</font> <font size=4 color=#40c0c0> 『D.A.：愛していた』</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/01/25 (�y) 02:23:18 <strong>��</strong> ���c���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200301256022318&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301256022318"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/01/25 (土) 02:23:18 <strong>▽</strong> 原田聖也 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200301256022318_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200301256022318"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�q�ǂ��܂����B<br>
-�ƂĂ��ǂ������ł��B<br>
-D.A.�����C���̘b���������v���Ԃ�Ɍ����C�����܂����A��͂�V���[�Y�̎���B�ƂĂ��ǂ݉����������Ãh���}���y���܂��Ă��������܂����B<br>
-���b�̐l������^���Ƃ̊֌W��Z����؂����G�s�\�[�h�̐ςݏd�˂Č���Ă��������������������ʓI�ŏ�肢�Ǝv���܂����B</font>
+<font size=3 color=#606060>拝読しました。<br>
+とても良かったです。<br>
+D.A.がメインの話をすごく久しぶりに見た気がしますが、やはりシリーズの主役。とても読み応えがある医療ドラマを楽しませていただきました。<br>
+幹恵の人物像や真郷との関係を短く区切ったエピソードの積み重ねて語っていく書き方もすごく効果的で上手いと思いました。</font>
 <p><a href="http://www4.plala.or.jp/parallel/d_clinic/index.html" target="_top">http://www4.plala.or.jp/parallel/d_clinic/index.html</a>
 </td></table>
 </td></tr></table>
@@ -223,31 +223,31 @@ D.A.�����C���̘b���������v���Ԃ�Ɍ����C�����܂����A��͂�V���[�Y�̎���B�ƂĂ�
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[23]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��i�Q�j</font>
+<font size=2>[23]</font> <font size=4 color=#40c0c0> 感想ありがとうございます（２）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/01/16 (��) 22:28:08 <strong>��</strong> ���J�H�v </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200301164222808&log=d_angel">�ԐM</a>�@�폜<input type=checkbox name="target" value="200301164222808"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/01/16 (木) 22:28:08 <strong>▽</strong> 水谷秋夫 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200301164222808_log_d_angel.cgi">返信</a>　削除<input type=checkbox name="target" value="200301164222808"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">��Sally����<br>
-�����b�̔߂��݂�����ł��܂�</font><br>
-�@�^���Ȋ��z�����肪�Ƃ��������܂��B<br>
-�u�ǂ����ĉ��͂���ȁA�N���K���ɂȂ�Ȃ������������Ă���񂾂낤�v�ȂǂƎv�������Ă���܂������A���ꂽ�C���������܂����B<br>
+<font size=3 color=#606060><font color="#ff88cc">＞Sallyさん<br>
+＞幹恵の悲しみが胸を打ちます</font><br>
+　真摯な感想をありがとうございます。<br>
+「どうして俺はこんな、誰も幸福にならない小説を書いているんだろう」などと思いつつ書いておりましたが、報われた気がいたしました。<br>
 <br>
-<font color="#ff88cc">���L�삳��<br>
-����Ãh���}�̉�����˂��i�߂΂���Ȃ�D.A���E��</font><br>
-�@����͔��܂����B��Ãh���}�͒m���͂Ƃ������Ƃ��āA�u����Ȃ��Ƃ������Ȃ��v�Ƃ����v���b�V���[���������ł�����B���ɂ��炢�ǎ҂������ƁA���ɂ͒ŊԔw���j�A�̌o���҂����邾�낤���B<br>
-<font color="#ff88cc">�����̂�������������̂��b���l�ߍ��܂�܂�����</font><br>
-�@���C���̘b�������ƒZ�����ď����ɂȂ�Ȃ��̂ł��B�ȑO���玩����b�u�a���ҁv�̖����Ȑݒ�ɂȂ�Ƃ����Ƃ��O���������Ƃ����C�����������āA����Ɨ��߂܂����B<br>
-<font color="#ff88cc">���s�r�̈��</font><br>
-�@����Ɍ��炸�ATS�ɂ͂܂��܂������ꂴ��ʂ����\����Ǝv���܂��B</font>
+<font color="#ff88cc">＞猫野さん<br>
+＞医療ドラマの王道を突き進めばさらなるD.A世界が</font><br>
+　今回は疲れました。医療ドラマは知識はともかくとして、「下手なことを書けない」というプレッシャーがあるもんですから。文庫ぐらい読者が多いと、中には椎間板ヘルニアの経験者もいるだろうし。<br>
+<font color="#ff88cc">＞ものすごくたくさんのお話を詰め込まれましたね</font><br>
+　メインの話だけだと短すぎて小説にならないのです。以前から自作第一話「誕生編」の無茶な設定になんとか落とし前をつけたいという気持ちがあって、これと絡めました。<br>
+<font color="#ff88cc">＞ＴＳの一面</font><br>
+　これに限らず、TSにはまだまだ書かれざる面が結構あると思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="d_angel">
@@ -255,16 +255,16 @@ D.A.�����C���̘b���������v���Ԃ�Ɍ����C�����܂����A��͂�V���[�Y�̎���B�ƂĂ�
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="d_angel">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=d_angel">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_d_angel.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

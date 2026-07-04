@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>���S��ONLY�y�[�W</title>
+<title>初心者ONLYページ</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>���S��ONLY�y�[�W</font>
+<font size=5>初心者ONLYページ</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����I�Ȏ���ł�OK�̃t���[�ȏ������݂����C���ɂ����{�[�h�ł��B<br>�ǂ������C�y�ɂ��������݂��������B���ⓙ�����������������B<br>���@����ȊO�̎���A�G�k��<A HREF="http://www.novels.jp/~ts/bbs/index.cgi">�N���G�[�^�[�Y�t���A</A>�łǂ����B<br></font>
+<font color=#608080>初歩的な質問でもOKのフリーな書き込みをメインにしたボードです。<br>どうぞお気軽にお書き込みください。質問等もお書きください。<br>※　それ以外の質問、雑談は<A HREF="index.cgi">クリエーターズフロア</A>でどうぞ。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,28 +15,28 @@
 <input type=hidden name="log" value="data4">
 <input type=hidden name="nj" value="aXonKiozR6">
 <input type=hidden name="res" value="528">
-<h4 align=center>�� �L���ԍ� 528 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 528 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�����ł����̂��ǂ�������܂��񂪁c�c"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� yuk����
-&gt; �X�g�[���[����ɖ��f�ȃ��X���������Ă���悤�ł�</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:ここでいいのかどうか解りませんが……"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ yukさん
+&gt; ストーリー道場に迷惑なレスが多発しているようです</textarea><br>
 tag<input type=checkbox name="tag" value="1" checked> 
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> ���̓R�[�h 4X9pne  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="4X9pne"> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード 4X9pne  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="4X9pne"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� �L�����e�̍ۂ́A���p�p��6�����̓��̓R�[�h���E���̃{�b�N�X�ɂ��̂܂ܓ��͂��ĉ�����.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 記事投稿の際は、半角英数6文字の入力コードを右側のボックスにそのまま入力して下さい.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -49,86 +49,86 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[531]</font> <font size=4 color=#40c0c0> re:����</font>
+<font size=2>[531]</font> <font size=4 color=#40c0c0> re:質問</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/04 (��) 23:15:20 <strong>��</strong> starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200612041231520&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612041231520"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/04 (月) 23:15:20 <strong>▽</strong> starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200612041231520_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200612041231520"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�匴��R��畐������A<br>
+<font size=3 color=#606060>大原野山城守武里さん、<br>
 <br>
-<font color="#cc88ff">>���i�ɂ�����t�@�C���̗e�ʎႵ���͕��������͍s���Ɍ��x�͂���̂ł��傤���B</font><br>
-�ǂݎ肪��e�ʂ��Ɠǂ݂ɂ������߁A�t�@�C���e�ʂ́A<br>
-�T�O�j�a�܂ł�ڈ��Ƃ��A�P�O�O�j�a���x������Ƃ��Ă��������B<br>
+<font color="#cc88ff">>一作品におけるファイルの容量若しくは文字数又は行数に限度はあるのでしょうか。</font><br>
+読み手が大容量だと読みにくいため、ファイル容量は、<br>
+５０ＫＢまでを目安とし、１００ＫＢ程度を上限としてください。<br>
 <br>
-�����܂Ŗڈ��ł��̂ŁA��i�ɂ���đ����̃I�[�o�[�͋��e�͈͂Ƃ��܂��B<br>
+あくまで目安ですので、作品によって多少のオーバーは許容範囲とします。<br>
 <br>
-�X�������肢���܂��B</font>
+宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[530]</font> <font size=4 color=#40c0c0> ����</font>
+<font size=2>[530]</font> <font size=4 color=#40c0c0> 質問</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/12/04 (��) 00:20:27 <strong>��</strong> �匴��R��畐�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200612041002027&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200612041002027"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/12/04 (月) 00:20:27 <strong>▽</strong> 大原野山城守武里 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200612041002027_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200612041002027"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���i�ɂ�����t�@�C���̗e�ʎႵ���͕��������͍s���Ɍ��x�͂���̂ł��傤���B</font>
+<font size=3 color=#606060>一作品におけるファイルの容量若しくは文字数又は行数に限度はあるのでしょうか。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[529]</font> <font size=4 color=#40c0c0> re:�����ł����̂��ǂ�������܂��񂪁c�c </font>
+<font size=2>[529]</font> <font size=4 color=#40c0c0> re:ここでいいのかどうか解りませんが…… </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/28 (��) 02:14:34 <strong>��</strong> starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611282021434&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611282021434"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/28 (火) 02:14:34 <strong>▽</strong> starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611282021434_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200611282021434"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>yuk����A<br>
+<font size=3 color=#606060>yukさん、<br>
 <br>
-RES���x���\���󂠂�܂���B<br>
+RESが遅く申し訳ありません。<br>
 <br>
-<font color="#cc88ff">>�X�g�[���[����ɖ��f�ȃ��X���������Ă���悤�ł�</font><br>
-�u���V���[�Y�I�I�H�v�ɂ��������̂́A�폜���Ă����܂����B</font>
+<font color="#cc88ff">>ストーリー道場に迷惑なレスが多発しているようです</font><br>
+「何シリーズ！！？」にあったものは、削除しておきました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[528]</font> <font size=4 color=#40c0c0> �����ł����̂��ǂ�������܂��񂪁c�c</font>
+<font size=2>[528]</font> <font size=4 color=#40c0c0> ここでいいのかどうか解りませんが……</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/19 (��) 20:14:53 <strong>��</strong> yuk </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611190201453&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611190201453"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/19 (日) 20:14:53 <strong>▽</strong> yuk </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611190201453_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200611190201453"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�X�g�[���[����ɖ��f�ȃ��X���������Ă���悤�ł�</font>
+<font size=3 color=#606060>ストーリー道場に迷惑なレスが多発しているようです</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[527]</font> <font size=4 color=#40c0c0> ���Ԏ����肪�Ƃ��������܂�</font>
+<font size=2>[527]</font> <font size=4 color=#40c0c0> お返事ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/08 (��) 00:13:12 <strong>��</strong> yuk </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611083001312&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611083001312"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/08 (水) 00:13:12 <strong>▽</strong> yuk </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611083001312_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200611083001312"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����܂���B<br>
-�e�L�X�g�t�@�C����HMTL��<br>
-�Ƃ����̂������킩��܂��񂪁i�ȂɂԂ�׋��s���Łc�c�j<br>
-�����f�������������悤�ł��ˁB<br>
+<font size=3 color=#606060>すいません。<br>
+テキストファイルのHMTL化<br>
+というのが何かわかりませんが（なにぶん勉強不足で……）<br>
+ご迷惑をおかけしたようですね。<br>
 <br>
 </font>
 </td></table>
@@ -137,32 +137,32 @@ RES���x���\���󂠂�܂���B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[526]</font> <font size=4 color=#40c0c0> re:��̃��[���͂����������̂ł��� </font>
+<font size=2>[526]</font> <font size=4 color=#40c0c0> re:受領メールはいただいたのですが </font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/07 (��) 22:04:11 <strong>��</strong> starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611072220411&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611072220411"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/07 (火) 22:04:11 <strong>▽</strong> starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611072220411_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200611072220411"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>yuk����A<br>
+<font size=3 color=#606060>yukさん、<br>
 <br>
-�Ԏ����x���Ȃ�A�\���󂠂�܂���B<br>
-�e�L�X�g�t�@�C����HMTL���Ŏ�Ԃ��|�����Ă��܂��B�����f�ڗ\��ł��B<br>
-�X�������肢���܂��B</font>
+返事が遅くなり、申し訳ありません。<br>
+テキストファイルのHMTL化で手間が掛かっています。今日掲載予定です。<br>
+宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[525]</font> <font size=4 color=#40c0c0> ��̃��[���͂����������̂ł���</font>
+<font size=2>[525]</font> <font size=4 color=#40c0c0> 受領メールはいただいたのですが</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/11/05 (��) 14:31:18 <strong>��</strong> yuk </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200611050143118&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200611050143118"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/11/05 (日) 14:31:18 <strong>▽</strong> yuk </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200611050143118_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200611050143118"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��̃��[�������������Ă����T�Ԉȏソ���܂������T�C�g�Ɍf�ڂ���Ă��܂���<br>
+<font size=3 color=#606060>受領メールをいただいてから一週間以上たちましたがサイトに掲載されていません<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -170,59 +170,59 @@ RES���x���\���󂠂�܂���B<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[523]</font> <font size=4 color=#40c0c0> ���Ԏ����肪�Ƃ��������܂���</font>
+<font size=2>[523]</font> <font size=4 color=#40c0c0> お返事ありがとうございました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/31 (��) 18:29:39 <strong>��</strong> yuk </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200610312182939&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610312182939"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/31 (火) 18:29:39 <strong>▽</strong> yuk </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200610312182939_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200610312182939"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����ɂ���yuk�ł�&lt;br&gt;���x������ɓ����Ă��������Ă��肪�Ƃ��������܂��B&lt;br&gt;���ꂩ��͂�����Ɠ��e�K��������ē��e���悤�Ǝv���̂ł�낵�����肢���܂��B</font>
+<font size=3 color=#606060>こんにちはyukです&lt;br&gt;何度も質問に答えていただいてありがとうございます。&lt;br&gt;これからはきちんと投稿規則を守って投稿しようと思うのでよろしくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[522]</font> <font size=4 color=#40c0c0> re:����Ǝ���</font>
+<font size=2>[522]</font> <font size=4 color=#40c0c0> re:お礼と質問</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/30 (��) 22:36:49 <strong>��</strong> starbow@�^�c�ψ� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200610301223649&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610301223649"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/30 (月) 22:36:49 <strong>▽</strong> starbow@運営委員 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200610301223649_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200610301223649"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>yuk����A<br>
+<font size=3 color=#606060>yukさん、<br>
 <br>
-<font color="#ff88cc">���������e�͉\�Ȃ̂ł��傤���H��͂肻�����d���e�ɓ�����̂ł��傤���H<br>
-�������ł���Ȃ牽���炢�Ȃ狖�e�͈͓��ł��傤���H</font><br>
-�������e�́A��d���e�ɂȂ�܂��B<br>
+<font color="#ff88cc">＞同時投稿は可能なのでしょうか？やはりそれも二重投稿に当たるのでしょうか？<br>
+＞もしできるなら何個ぐらいなら許容範囲内でしょうか？</font><br>
+同時投稿は、二重投稿になります。<br>
 <br>
-�ق��̕��̓��e����܂��̂ŁA��x�ɕ������e����Ă��P�����Ή��ł��܂���B<br>
-�ЂƂÂƂ��Ă��������B<br>
+ほかの方の投稿ありますので、一度に複数投稿されても１つしか対応できません。<br>
+ひとつづつとしてください。<br>
 <br>
-�X�������肢���܂��B</font>
+宜しくお願いします。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[521]</font> <font size=4 color=#40c0c0> ����Ǝ���</font>
+<font size=2>[521]</font> <font size=4 color=#40c0c0> お礼と質問</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2006/10/29 (��) 16:31:24 <strong>��</strong> yuk </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200610290163124&log=data4">�ԐM</a>�@�폜<input type=checkbox name="target" value="200610290163124"></font>
+<font size=3 color=#606060><strong>▽</strong> 2006/10/29 (日) 16:31:24 <strong>▽</strong> yuk </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200610290163124_log_data4.cgi">返信</a>　削除<input type=checkbox name="target" value="200610290163124"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ԏ����肪�Ƃ��������܂����B��̃��[�����������܂����B<br>
+<font size=3 color=#606060>お返事ありがとうございました。受領メールいただきました。<br>
 <br>
-�Ăт̎���ł��B�������e�͉\�Ȃ̂ł��傤���H��͂肻�����d���e�ɓ�����̂ł��傤���H�����ł���Ȃ牽���炢�Ȃ狖�e�͈͓��ł��傤���H���x�������܂��񂪂��ւ񂶂�낵�����肢���܂�</font>
+再びの質問です。同時投稿は可能なのでしょうか？やはりそれも二重投稿に当たるのでしょうか？もしできるなら何個ぐらいなら許容範囲内でしょうか？何度もすいませんがおへんじよろしくお願いします</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="data4">
@@ -230,16 +230,16 @@ RES���x���\���󂠂�܂���B<br>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="data4">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi?log=data4">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index@log_data4.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

@@ -60,7 +60,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>自分的にはこれを一押ししたい。<br>
 「鋼鉄のすーぱーひろいん……？？」（よっすぃーさん）<br>
-<a href=http://ts.novels.jp/novel/200308/07074715/steel_heroine.html target=_top>http://ts.novels.jp/novel/200308/07074715/steel_heroine.html</a><br>
+<a href="../../novel/200308/07074715/steel_heroine.html" target=_top>http://ts.novels.jp/novel/200308/07074715/steel_heroine.html</a><br>
 軽快なテンポで進んでいくこのノリが大好きです。<br>
 ただ、「バトルしおりん」という言葉だけが頭に残って、再度読もうと思った時<br>
 タイトルも著者名も忘れてしまって探すのに苦労した覚えがあります。<br>
@@ -107,7 +107,7 @@ link<input type=checkbox name="link" value="1" checked>
 （リルケ詩集　新潮文庫　富士川英郎　訳）<br>
 <br>
 そんなこんなで、るーふぁすさんのIrregular Girlを紹介。<br>
-<a href=http://ts.novels.jp/novel/200104/23004330/title.html target=_top>http://ts.novels.jp/novel/200104/23004330/title.html</a><br>
+<a href="../../novel/200104/23004330/title.html" target=_top>http://ts.novels.jp/novel/200104/23004330/title.html</a><br>
 そろそろ、前振りというかネタの出し方が強引になってきた気がしますけれど、やはり変身ものはいいものだ、と思わせてくれるそんな作品。<br>
 基本的には現実重視ですね。<br>
 <br>
@@ -130,7 +130,7 @@ link<input type=checkbox name="link" value="1" checked>
 ともあれ、ボクはボクなりに貢献するよ。(´ー｀Ａ）＾戦略方面は他の人が考えて欲しい。実弾こめるぐらいしか能がなくてね。<br>
 <br>
 というわけで、地駆鴉さんの『絶対無敵!?世界征服私隊』を紹介しよう。<br>
-<a href=http://ts.novels.jp/novel/200109/19041522/conquest.htm target=_top>http://ts.novels.jp/novel/200109/19041522/conquest.htm</a><br>
+<a href="../../novel/200109/19041522/conquest.htm" target=_top>http://ts.novels.jp/novel/200109/19041522/conquest.htm</a><br>
 短い中につまっている笑いのツボ。<br>
 今の潮流を創った一人かな。<br>
 ちなみに一つ前の世代がいわゆるジャージレッドさんをはじめとしたＴＳ四姉妹（笑）であり、物語の重視とライトノベル化で揺れた時期がこの次の世代。ボクもこのどちらかに分類されそうな予感。</font>
@@ -167,7 +167,7 @@ link<input type=checkbox name="link" value="1" checked>
 これは心に生じた概念をうまく言葉に置換できる力と考えてよろしいかと思います。<br>
 ボクは作品紹介をしてきた作品群はどれもこれも文章力という点では平均作品を軽く突破しているものばかりですが、あえてここではボクが文庫の中で一番文章がうまいと思っている人をあげましょう。<br>
 それはずばり米津さんです。<br>
-<a href=http://ts.novels.jp/novel/perky_girl/title.html target=_top>http://ts.novels.jp/novel/perky_girl/title.html</a><br>
+<a href="../../novel/perky_girl/title.html" target=_top>http://ts.novels.jp/novel/perky_girl/title.html</a><br>
 ああ、よかった。シリーズタイトルがあって。<br>
 しかし番外編が本編を超過しているとは、なかなか味なつくりです。というか、まぁ番外も本編と遜色ない完成された作品ですから、問題はないですね。<br>
 文章力を強調しているけれど、もちろん、ストーリもキャラクタも問題はなく、よく創りこまれています。</font>
@@ -191,7 +191,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 というわけで。<br>
 真・サルでも書けるＴＳ小説<br>
-<a href=http://ts.novels.jp/novel/200011/03192112/moemoe.html target=_top>http://ts.novels.jp/novel/200011/03192112/moemoe.html</a><br>
+<a href="../../novel/200011/03192112/moemoe.html" target=_top>http://ts.novels.jp/novel/200011/03192112/moemoe.html</a><br>
 原案：丸の内酸性　作：十郎太<br>
 <br>
 メタはもともと難しいジャンルだと言えるわけですけれど、こういうのも好きです。<br>
@@ -217,7 +217,7 @@ link<input type=checkbox name="link" value="1" checked>
 ともあれ光あれ！<br>
 強引な話題展開で、今日は『天使のお仕事 　—— The Angelic Calling ——』<br>
 を紹介。<br>
-<a href=http://ts.novels.jp/novel/200104/20050818/100title.htm target=_top>http://ts.novels.jp/novel/200104/20050818/100title.htm</a><br>
+<a href="../../novel/200104/20050818/100title.htm" target=_top>http://ts.novels.jp/novel/200104/20050818/100title.htm</a><br>
 やっぱ執筆陣が重厚なのがよかったのか。文庫もまだ黎明期で瑞々しさがありよいです。そして本当にリレー小説なのかと思うほど、まとまりのある作品群です。<br>
 ＴＳとしても、文庫の作風にマッチしていて、これぞ王道というタイプ。<br>
 一番の功労者はやはり最終話を書いたゴールドアームさんだろうか。<br>
@@ -249,7 +249,7 @@ link<input type=checkbox name="link" value="1" checked>
 フィーリングで味わいたい作品なんですよね。<br>
 <br>
 というわけで、猫野さんの『いえす　あい　うぃる』<br>
-<a href=http://ts.novels.jp/novel/200107/29145945/i_will.html target=_top>http://ts.novels.jp/novel/200107/29145945/i_will.html</a><br>
+<a href="../../novel/200107/29145945/i_will.html" target=_top>http://ts.novels.jp/novel/200107/29145945/i_will.html</a><br>
 ともかく作品全体がかわいいんですが、何か？<br>
 </font>
 </td></table>
@@ -272,7 +272,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 リリシズムの権化。<br>
 矢治浩平さんのコンチェルトシリーズは、はずせないだろうと思います。<br>
-<a href=http://ts.novels.jp/novel/concerto/concerto_1.html target=_top>http://ts.novels.jp/novel/concerto/concerto_1.html</a></font>
+<a href="../../novel/concerto/concerto_1.html" target=_top>http://ts.novels.jp/novel/concerto/concerto_1.html</a></font>
 </td></table>
 </td></tr></table>
 

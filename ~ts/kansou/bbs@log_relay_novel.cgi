@@ -133,7 +133,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 これにて、リレー小説「小さなお守り」は完結しました。ご声援、ありがとうございました。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200305/04184146/relay7.html target=_top>http://ts.novels.jp/novel/200305/04184146/relay7.html</a></font>
+<a href="../../novel/200305/04184146/relay7.html" target=_top>http://ts.novels.jp/novel/200305/04184146/relay7.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -189,7 +189,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 お守りによって変わってしまった少年。彼は、お守りを知るものと出会う。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200305/04184146/relay6.html target=_top>http://ts.novels.jp/novel/200305/04184146/relay6.html</a><br>
+<a href="../../novel/200305/04184146/relay6.html" target=_top>http://ts.novels.jp/novel/200305/04184146/relay6.html</a><br>
 <br>
 # あわわ、感想早いです（汗。<br>
 </font>
@@ -308,7 +308,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 土曜日、壊れかけの旧校舎で肝試しをすることになった、達也、玲、桂一。彼らはおかっぱの子供と出会う。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200305/04184146/relay5.html target=_top>http://ts.novels.jp/novel/200305/04184146/relay5.html</a></font>
+<a href="../../novel/200305/04184146/relay5.html" target=_top>http://ts.novels.jp/novel/200305/04184146/relay5.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -450,7 +450,7 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=3 color=#606060>【推薦文】 「昔、突然いなくなった友達を捜すために、自分は、一つの小さな町に行ったんだ。もちろん、その友達はいた。でも——」<br>
 <B>【実行委員会より】</B> 掲載の日程が狂ってしまい、この企画を楽しみにしていただいている方には大変迷惑をかけました。申し訳ありません。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200305/04184146/relay4.html target=_top>http://ts.novels.jp/novel/200305/04184146/relay4.html</a></font>
+<a href="../../novel/200305/04184146/relay4.html" target=_top>http://ts.novels.jp/novel/200305/04184146/relay4.html</a></font>
 </td></table>
 </td></tr></table>
 

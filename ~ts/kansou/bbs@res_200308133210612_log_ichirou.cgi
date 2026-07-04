@@ -1,48 +1,48 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�����낤�����i���z�f����</title>
+<title>いちろうさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�����낤�����i���z�f����</font>
+<font size=5>いちろうさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="ichirou">
 <input type=hidden name="nj" value="RWHvsxhHw1">
 <input type=hidden name="res" value="13">
-<h4 align=center>�� �L���ԍ� 13 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 13 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ݂܂����B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����i�n����j�`������
-&gt; ���{�R����A����o�g�ŋ�呲�Ȃ牴�̐�y�Ƃ����\�����E�E�E�i�΁j
-&gt; �Ȃ񂩂悭�킩��܂���ˁA���̌����Ă邱�Ƃ��B�i�΁j
-&gt; �΂��ɂ������͋C�Ȃ�ł����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読みました。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 足利（馬鹿守）義忠さん
+&gt; 小宮山さん、佐賀出身で九大卒なら俺の先輩という可能性も・・・（笑）
+&gt; なんかよくわかりませんね、俺の言ってることが。（笑）
+&gt; 笑いにくい雰囲気なんですが。
 &gt; 
-&gt; ���āA�Ȃ񂩐����Ƃɑ΂��鑞���݂��������悤�Ȋ��������܂����B
-&gt; �ǂ����A���򂨂낵�Ƃ������Ă��������Ȋ����Ȃ񂾂낤�ȁE�E�E�B
-&gt; TS�͂��Ȃ��܂ł��i���Ȃ�����j������ȑ�K�͂ȃe�������������邩���킩��܂���ȁB
+&gt; さて、なんか政治家に対する憎しみが増えたような感じがしました。
+&gt; どうせ、小泉おろしとか言ってるやつらもこんな感じなんだろうな・・・。
+&gt; TSはしないまでも（しないだろ）いつこんな大規模なテロ事件がおきるかもわかりませんな。
 &gt; 
-&gt; ���Ƃ͐S�̉��ɔ�߂Ă����܂��B
+&gt; あとは心の奥に秘めておきます。
 &gt; 
-&gt; ���ꂩ����u�E�C�j���O�{�[���v��u�o�q�n�i�d�b�s�v�����҂��Ă܂��B</textarea><br>
+&gt; これからも「ウイニングボール」や「ＰＲＯＪＥＣＴ」を期待してます。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -55,24 +55,24 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[19]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂��B</font>
+<font size=2>[19]</font> <font size=4 color=#40c0c0> 感想ありがとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/12 (��) 02:20:52 <strong>��</strong> �����낤 </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407121022052&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407121022052"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/12 (月) 02:20:52 <strong>▽</strong> いちろう </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407121022052_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200407121022052"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�x���Ȃ�܂������A���z���肪�Ƃ��������܂��B<br>
+<font size=3 color=#606060>遅くなりましたが、感想ありがとうございます。<br>
 <br>
-<font color="#ff88cc">���e�X�g</font><br>
-���͂��������{���Ă܂����i���j�B���̘b�A�قƂ�ǎ����̎����������Ƃ����Ă��������炢�Ȃ�ł��B���ɐ��w�̐搶�ɂ͖���̗l�ɓ{���Ă��āA�u�S�K�����ׁI�v�Ƃ܂Ō����Ă����炢�ł��E�E�E�B���Ȃ݂Ɏ��͗��n�̂����ɗ��n�Ȗڂ��{���{���ł����`���I<br>
+<font color="#ff88cc">＞テスト</font><br>
+私はすっごい怒られてました（汗）。この話、ほとんど自分の事を書いたといってもいいくらいなんです。特に数学の先生には毎回の様に怒られていて、「４階から飛べ！」とまで言われてたくらいです・・・。ちなみに私は理系のくせに理系科目がボロボロでした〜っ！<br>
 <br>
-<font color="#ff88cc">�����E</font><br>
-�ŋ߂̈ꕔ�̃I�[�i�[�⋅�c��\�̌��t�ɔ��ɕ��������Ă��܂��B���̑I��B���y������悤�Ȕ����͂Ȃ�ł��傤���H �͂����茾���āA���c�������A�I��B�̏�ɗ��l�������悤�ȃZ���t�ł͂���܂��񂵁A�����l�Ԑ�����^���Ă��܂��܂��B<br>
-���E�͂������A�I��B�ɂ���Ďx�����Ă��܂��B�����Ă��̑I��B�̃v���[�ɋ������A��������t�@���B�ɂ���Ă��x�����Ă��܂��B�I��B���y�����鎖�A����͋��E���y�����鎖�Ɍq����A�܂��t�@�����y�����鎖�ɂ��q�����Ă����̂ł��B����Ȑl�B���u���E��ǂ����邽�߁B�v�ƌ��������łƂĂ��M�p�ł��܂���B�݂Ȃ���͂ǂ��ł����H �m���ɁA���c�̂قƂ�ǂ͊�Ƒ̂ɂ���Ďx�����Ă��܂�����A�I�J�l�̘b���o�Ă��Ă��܂��͓̂��R�Ƃ���Γ��R�̎��ł��B�������A�v���X�|�[�c�Ƃ����̂̓I�J�l�ł͉����ł��Ȃ����̂ł͂Ȃ��ł��傤���H �t�@���̓I�J�l�ł͊l���ł��܂���B�I��̑S�̓v���[���I�J�l�ł͔����܂���B�t�@���̋����⊴���A�q�ǂ��̗l�Ɋ�ԑI��̏Ί��I��̗܂��A�������I�J�l�ł͔����܂���B�قƂ�ǂ̃t�@���͍����ɔ��΂��Ă���̂ł��B�I�[�i�[�⋅�c��\�̕��B�ɂ́A������x���̎����悭�l���Ă��炢�����Ǝv���܂��B�{���ɂ��ꂪ���E���W�A����ɐV���ȃt�@���̊l���Ɍq����̂��B�{���ɑI���t�@�����]��ł���̂��B�{���Ɏ������]��ł��鎖�Ȃ̂��B�悭�l�������ʂ�������P���[�O�Ȃ�A�t�@���͉��������܂���B���͌Óc�I���̌����ʂ�A���܂�ɘb���i�݂����Ă��܂��B����������Ƃ��������ގ����A�K�v�Ȃ񂶂�Ȃ��ł��傤���B<br>
+<font color="#ff88cc">＞球界</font><br>
+最近の一部のオーナーや球団代表の言葉に非常に腹が立っています。あの選手達を軽視するような発言はなんでしょうか？ はっきり言って、球団を持ち、選手達の上に立つ人が言うようなセリフではありませんし、もう人間性すら疑ってしまいます。<br>
+球界はもちろん、選手達によって支えられています。そしてその選手達のプレーに興奮し、感動するファン達によっても支えられています。選手達を軽視する事、それは球界を軽視する事に繋がり、またファンを軽視する事にも繋がっていくのです。そんな人達が「球界を良くするため。」と言った所でとても信用できません。みなさんはどうですか？ 確かに、球団のほとんどは企業体によって支えられていますから、オカネの話が出てきてしまうのは当然とすれば当然の事です。しかし、プロスポーツというのはオカネでは解決できないものではないでしょうか？ ファンはオカネでは獲得できません。選手の全力プレーもオカネでは買えません。ファンの興奮や感動、子どもの様に喜ぶ選手の笑顔や選手の涙も、もちろんオカネでは買えません。ほとんどのファンは合併に反対しているのです。オーナーや球団代表の方達には、もう一度この事をよく考えてもらいたいと思います。本当にこれが球界発展、さらに新たなファンの獲得に繋がるのか。本当に選手やファンが望んでいるのか。本当に自分が望んでいる事なのか。よく考えた結果が合併や１リーグなら、ファンは何も言いません。今は古田選手会長の言う通り、あまりに話が進みすぎています。もうちょっとゆっくり歩む事も、必要なんじゃないでしょうか。<br>
 <br>
-�����܂���B���S�Ɋ��z�Ɋ֌W�������΂����菑�����Ⴂ�܂����ˁB<br>
-�ł́A���z���肪�Ƃ��������܂������I</font>
+すいません。完全に感想に関係無い事ばっかり書いちゃいましたね。<br>
+では、感想ありがとうございましたっ！</font>
 </td></table>
 </td></tr></table>
 
@@ -82,59 +82,59 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[18]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/01 (��) 22:43:08 <strong>��</strong> a </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407014224308&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407014224308"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/01 (木) 22:43:08 <strong>▽</strong> a </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407014224308_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200407014224308"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�C���t���΃��C�u�h�A�����������ƂɂȂ��Ă܂��˂��B<br>
-Opera�̔̔����l���ALindows���Q�b�g�ATurboLinux�����A<br>
-JBBS������Δ����A�C�[�o���N�Ƃ̑���<br>
-��肷���ł͂Ƃ��������ł��ˁB<br>
+<font size=3 color=#606060>気が付けばライブドアもすごいことになってますねえ。<br>
+Operaの販売権獲得、Lindowsもゲット、TurboLinux買収、<br>
+JBBSしたらば買収、イーバンクとの争い<br>
+やりすぎではという感じですね。<br>
 <br>
-����ł����C�u�h�A�͔���������肪�Ȃ��b�萫�_�����Ƃ��B<br>
-���C�u�h�A�j���[�X�ɂ���Ȃ��Ƃ������Ă���܂��ˁB<br>
+それでもライブドアは買収するつもりがなく話題性狙いだとか。<br>
+ライブドアニュースにそんなことが書いてありますね。<br>
 <br>
-�ȏ�X��(?)�Ⴂ�ł���</font>
+以上スレ(?)違いでした</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> �ǂ񂾂��[��</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> 読んだっつーの</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/30 (��) 22:18:55 <strong>��</strong> Kardy </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406303221855&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406303221855"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/30 (水) 22:18:55 <strong>▽</strong> Kardy </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406303221855_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200406303221855"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�_���̒Ⴓ�œ{�鋳�t�́AKardy�̍��Z����ɂ͂��܂���ł����ˁB<br>
-�������A��`�����ňꌾ�A�u�����A���ی��K�B�v�Ɛ鍐����܂��āB<br>
-���n�Ȃ̂ɍ��ꂪ��ŏ�Ԃ�����Kardy�A���Ȃ�n�������܂����B<br>
+<font size=3 color=#606060>点数の低さで怒鳴る教師は、Kardyの高校時代にはいませんでしたね。<br>
+ただし、低〜い声で一言、「○○、放課後補習。」と宣告されまして。<br>
+文系なのに国語が壊滅状態だったKardy、かなり地獄を見ますた。<br>
 <br>
-<font color="#ff88cc">���ߓS��������</font><br>
-�����炭�A�^�����}���}�������ɍ������P���[�O�̃V�i���I�������グ�Ă���̂ł��傤�B<br>
-�k���W�c�̒��ɁA��C�ǂ܂��ɂ���ė����]���҂̂悤�Ȉ������ƁB�����C�u�h�A<br>
-�u��ƓI�M�`�v�Ȃ�Č�����ɂ��Ȃ��Ă܂��񂩂�ˁB</font>
+<font color="#ff88cc">＞近鉄買収拒否</font><br>
+おそらく、某ワンマンマンが既に合併→１リーグのシナリオを書き上げているのでしょう。<br>
+談合集団の中に、空気読まずにやって来た余所者のような扱いかと。＞ライブドア<br>
+「企業的信義」なんて言い訳にもなってませんからね。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/30 (��) 16:56:16 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406303165616&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406303165616"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/30 (水) 16:56:16 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406303165616_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200406303165616"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�X�ɗ��܂����˂��B<br>
-�w������̏h���ł�����˂��A�e�X�g�́B<br>
-�܂��A�Ȃ�ɂ��Ă��{�Ƃ����낻���ɂ��Ă͂����Ȃ��Ƃ������b�ł����ˁi��j�B<br>
-�V�W�J�O�̃C���^�[�~�b�V�����Ƃ��������ŁA���ꂩ��̓W�J�����Ɋy���݂ł��B<br>
+<font size=3 color=#606060>久々に来ましたねぇ。<br>
+学生さんの宿命ですからねぇ、テストは。<br>
+まあ、なんにしても本業をおろそかにしてはいけないというお話でしたね（違）。<br>
+新展開前のインターミッションという感じで、これからの展開が非常に楽しみです。<br>
 <br>
-���N���z�[�N�X�͂���Ă����ł��傤�B����ɂ��Ă��ߓS�͂����Ƒf���ɂȂ����ق��������Ǝv�����ǁE�E�E���^��Ƃ���̔�������</font>
+今年もホークスはやってくれるでしょう。それにしても近鉄はもっと素直になったほうがいいと思うけど・・・＞某企業からの買収拒絶</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -142,35 +142,35 @@ JBBS������Δ����A�C�[�o���N�Ƃ̑���<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> �w�E�C�j���O�{�[���P�Q�x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> 『ウイニングボール１２』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/06/28 (��) 20:16:51 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200406281201651&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200406281201651"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/06/28 (月) 20:16:51 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200406281201651_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200406281201651"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�����������Ă͎̂��Ƀ^�C�w���Ȃ��̂Ȃ̂ł��B<br>
+<font size=3 color=#606060>【推薦文】文武両道ってのは実にタイヘンなものなのです。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200102/23134043/winning_ball12.html target=_top>http://ts.novels.jp/novel/200102/23134043/winning_ball12.html</a></font>
+<a href="../../novel/200102/23134043/winning_ball12.html" target=_top>http://ts.novels.jp/novel/200102/23134043/winning_ball12.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/13 (��) 22:12:43 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308133221243&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308133221243"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/13 (水) 22:12:43 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308133221243_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200308133221243"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����A���߂ēǂ�ł݂����ǂ���σ{�����[����������B<br>
-���������A���߂Čf�ڂ��ꂽ���͕�����������Ă�ŋ��������L��������܂��B<br>
+<font size=3 color=#606060>いや、改めて読んでみたけどやっぱボリュームすごいわ。<br>
+そうそう、初めて掲載された時は福岡が舞台ってんで興奮した記憶があります。<br>
 <br>
-���Ȃ݂Ƀ��^�N�V�͕����o�g�ō��呲�ł��i�N�������ĂȂ����āj�B<br>
+ちなみにワタクシは福岡出身で佐大卒です（誰も聞いてないって）。<br>
 <br>
-�E�E�E���z�ɂȂ��ĂȂ��Ȃ��i���j�B</font>
+・・・感想になってないなぁ（爆）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -178,24 +178,24 @@ JBBS������Δ����A�C�[�o���N�Ƃ̑���<br>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> �ǂ݂܂����B</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/13 (��) 21:06:12 <strong>��</strong> <a href="mailto:ycoco99@ybb.ne.jp">�����i�n����j�`��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308133210612&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308133210612"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/13 (水) 21:06:12 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308133210612_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200308133210612"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���{�R����A����o�g�ŋ�呲�Ȃ牴�̐�y�Ƃ����\�����E�E�E�i�΁j<br>
-�Ȃ񂩂悭�킩��܂���ˁA���̌����Ă邱�Ƃ��B�i�΁j<br>
-�΂��ɂ������͋C�Ȃ�ł����B<br>
+<font size=3 color=#606060>小宮山さん、佐賀出身で九大卒なら俺の先輩という可能性も・・・（笑）<br>
+なんかよくわかりませんね、俺の言ってることが。（笑）<br>
+笑いにくい雰囲気なんですが。<br>
 <br>
-���āA�Ȃ񂩐����Ƃɑ΂��鑞���݂��������悤�Ȋ��������܂����B<br>
-�ǂ����A���򂨂낵�Ƃ������Ă��������Ȋ����Ȃ񂾂낤�ȁE�E�E�B<br>
-TS�͂��Ȃ��܂ł��i���Ȃ�����j������ȑ�K�͂ȃe�������������邩���킩��܂���ȁB<br>
+さて、なんか政治家に対する憎しみが増えたような感じがしました。<br>
+どうせ、小泉おろしとか言ってるやつらもこんな感じなんだろうな・・・。<br>
+TSはしないまでも（しないだろ）いつこんな大規模なテロ事件がおきるかもわかりませんな。<br>
 <br>
-���Ƃ͐S�̉��ɔ�߂Ă����܂��B<br>
+あとは心の奥に秘めておきます。<br>
 <br>
-���ꂩ����u�E�C�j���O�{�[���v��u�o�q�n�i�d�b�s�v�����҂��Ă܂��B</font>
+これからも「ウイニングボール」や「ＰＲＯＪＥＣＴ」を期待してます。</font>
 <p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
 </td></table>
 </td></tr></table>
@@ -203,72 +203,72 @@ TS�͂��Ȃ��܂ł��i���Ȃ�����j������ȑ�K�͂ȃe�������������邩���킩��܂���
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> �y���܂��Ă��������܂����B</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> 楽しませていただきました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/13 (��) 20:36:10 <strong>��</strong> �l�h�k </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308133203610&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308133203610"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/13 (水) 20:36:10 <strong>▽</strong> ＭＩＬ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308133203610_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200308133203610"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���M�O���炩�Ȃ�[���Ȃ����Ȃ��ƐV�N�ȋC�����Ŕq�ǂ��鎖���ł��܂����B<br>
-�܂Ƃ߂����ߒ����ɂȂ��Ă���悤�ł����r���Ńe���V�����������邱�ƂȂ��Ō�܂Ŋy���܂��Ă��������܂����B<br>
+<font size=3 color=#606060>加筆前からかなり深くなったなぁと新鮮な気持ちで拝読する事ができました。<br>
+まとめたため長文になっているようですが途中でテンションが落ちることなく最後まで楽しませていただきました。<br>
 <br>
-�㏑���̌��Ɋւ��Ă܂��Ắc���͈Ⴄ�z��������̂ŉ��Ƃ������܂���ˁB<br>
-�����A��J�������v����������̂ŏ������Ă��������܂��B<br>
-�u���a���a�v�Ə����邾���ōs���Ɉڂ��Ȃ����c���ʖڂƂ������A���a�ƌ��ɂ��Ȃ��炻�����瓱�����s�����ςɃY���Ă��郄�c���ʖڂ��Ǝv���܂��B<br>
-���������Ă͂Ȃ�ł�������̃C���N�̎��͂ǂ������큁���ĂƂ����Z���I�ȍl�����܂���ʂ��Ă����悤�ȋC�����܂��B<br>
-���ɃC�f�I���M�[�⊴��I�ȏ��ɍ��������u����v�ɂ��������Ȃ���ł���ˁA���ɓ��{�l�̂����u�푈���΁v�����Ă���ƁB<br>
-�N�X�R����L�сA�`�x�b�g�Ȃǂɑ΂��u�N���v�s�ׂ�u�s�E�v�s�ׂ��s������A�c���ɂ͊j�̏Ə������킹�Ă��钆���ɑ΂��Ắu���{������������������v�Ɖ�������Ȃ����a�����Ƃ��Ă��M�p�Ȃ�܂���B<br>
-���Ƃ��Ă͐푈�ɔ��΂��邩��ɂ́u�S�āv�ɂ������Ĕ��΂���Ƃ����p���ōs���ׂ����Ǝv���Ă܂��B<br>
+後書きの件に関してましては…私は違う想いがあるので何ともいえませんね。<br>
+ただ、一カ所だけ思う所があるので書かせていただきます。<br>
+「平和平和」と唱えるだけで行動に移さないヤツが駄目というより、平和と口にしながらそこから導かれる行動が変にズレているヤツが駄目だと思います。<br>
+こう言ってはなんですが先日のイラクの時はどうも反戦＝反米という短絡的な考えがまかり通っていたような気がします。<br>
+実にイデオロギーや感情的な所に根ざした「反戦」にしか見えないんですよね、特に日本人のいう「戦争反対」を見ていると。<br>
+年々軍事費が伸び、チベットなどに対し「侵略」行為や「虐殺」行為を行ったり、皇居には核の照準を合わせている中国に対しては「日本が悪い事をしたから」と何も言わない平和活動家ってが信用なりません。<br>
+私としては戦争に反対するからには「全て」にたいして反対するという姿勢で行うべきだと思ってます。<br>
 <br>
 <br>
-�c�c�f���̎�|�Ƃ��ꂽ�������݂��������߂Ă��܂��\���󂲂����܂���ł����B<br>
-����̍�i���܂��y���݂ɂ����Ă��������܂��B</font>
+……掲示板の趣旨とずれた書き込みが多くを占めてしまい申し訳ございませんでした。<br>
+今後の作品もまた楽しみにさせていただきます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �w�q�`�h�m�x�@�`�o�������������@�d�������������`�x��ǂނɂ͉��̃����N���N���b�N</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 『ＲＡＩＮＹ　〜Ｐｅｒｆｅｃｔ　Ｅｄｉｔｉｏｎ〜』を読むには下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/13 (��) 12:11:48 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308133121148&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308133121148"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/13 (水) 12:11:48 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308133121148_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200308133121148"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �T�X�y���X���ł��B</font>
-<p><a href="http://ts.novels.jp/novel/200308/13120343/rainy_pe.html" target="_top">http://ts.novels.jp/novel/200308/13120343/rainy_pe.html</a>
+<font size=3 color=#606060>【推薦文】 サスペンス大作です。</font>
+<p><a href="../../novel/200308/13120343/rainy_pe.html" target="_top">http://ts.novels.jp/novel/200308/13120343/rainy_pe.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/03/28 (��) 10:35:00 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200303285103500&log=ichirou">�ԐM</a>�@�폜<input type=checkbox name="target" value="200303285103500"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/03/28 (金) 10:35:00 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200303285103500_log_ichirou.cgi">返信</a>　削除<input type=checkbox name="target" value="200303285103500"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A���ɔ��o�I�ł��˂��B<br>
-�������E�E�E<br>
-<font color="#ff88cc">�� ���̂Ł���������ꂿ���������A�d���Ȃ��H</font><br>
-�����֋傾���Ă΁i���j�B<br>
-�R�I�������ڕW���ł����悤�ŉ����ł��B<br>
+<font size=3 color=#606060>おお、ついに発覚！ですねぇ。<br>
+しかし・・・<br>
+<font color="#ff88cc">＞ 事故で○○○が取れちゃったから、仕方なく？</font><br>
+そりゃ禁句だってば（爆）。<br>
+由紀ちゃんも目標ができたようで何よりです。<br>
 <br>
-�Ƃ���łP����<br>
-<font color="#ff88cc">���u����ȃj�A�~�X����悤����A�����x���܂����B�v</font><br>
-�j�A�~�X���Ĉُ�ڋ߂ł���H<br>
-���̏ꍇ�́u�C�[�W�[�~�X�v��������ƈႤ�C�����邯�ǁu�P�A���X�~�X�v���ǂ������ł́H</font>
+ところで１つだけ<br>
+<font color="#ff88cc">＞「こんなニアミスするようじゃ、私は騙せませんよ。」</font><br>
+ニアミスって異常接近でしょ？<br>
+この場合は「イージーミス」かちょっと違う気もするけど「ケアレスミス」かどっちかでは？</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="ichirou">
@@ -276,16 +276,16 @@ TS�͂��Ȃ��܂ł��i���Ȃ�����j������ȑ�K�͂ȃe�������������邩���킩��܂���
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="ichirou">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=ichirou">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_ichirou.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

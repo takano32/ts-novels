@@ -1,51 +1,51 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>����˂������i���z�f����</title>
+<title>かわねぎさん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>����˂������i���z�f����</font>
+<font size=5>かわねぎさん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kawanegi">
 <input type=hidden name="nj" value="w3L5puJzdQ">
 <input type=hidden name="res" value="4">
-<h4 align=center>�� �L���ԍ� 4 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 4 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ�ł��o�C��"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �����W�S�Q�U����
-&gt; �����A���^�N�V���s�r�X�œǂ�ł܂����̂ŁA���z�͍Ę^�����B
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んでたバイ♪"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ ｍｋ８４２６さん
+&gt; ええ、ワタクシもＴＳ９で読んでましたので、感想は再録っす。
 &gt; 
-&gt; �������I���ɍŏI�b���A�b�v�I�I
-&gt; ���ށB���l�܂�U�h�V�[���Ɨ܂̕ʂ�B���ɓǂ݉���������܂��B
-&gt; �i���ہA���������Ă�e�l�����Ȃ���ǂ�ł���ł����A���傤�ǂ����Ă����肢�̃R�[�i�[�ł����ƕ����Ă����Ŏ����̐��������������E�E�E���j
-&gt; �Y��ȃX�g�[���[�̊����ɂӂ��킵�����b�ł����B
+&gt; おおお！ついに最終話がアップ！！
+&gt; うむ。息詰まる攻防シーンと涙の別れ。実に読み応えがあります。
+&gt; （実際、いつも聞いてるＦＭ聞きながら読んでたんですが、ちょうどあってた星占いのコーナーでちゃんと聞いてるつもりで自分の星座聞き逃した・・・爆）
+&gt; 雄大なストーリーの完結にふさわしいお話でした。
 &gt; 
-&gt; �E�E�E�E�E�E�E
+&gt; ・・・・・・・
 &gt; 
-&gt; �łƂ��ƂƖ߂��ė�������āi�΁j�B
-&gt; ���̗܂̕ʂ�͉��H�Ƃ��A�}�ȓ]�Z���Č����Ă��̂ǂ�����́H�Ƃ��A����Ȃ��Ƃ��]�����悬�����肵�āi���j�B
+&gt; でとっとと戻って来ちゃって（笑）。
+&gt; あの涙の別れは何？とか、急な転校って言ってたのどうすんの？とか、そんなことが脳裏をよぎったりして（爆）。
 &gt; 
-&gt; ���������A�{�Ҋ�������ꂳ�܂ł�����
-&gt; ����͔ԊO�҂Ɋ��ҁI�Ƃ������ƂŁi�΁j�B</textarea><br>
+&gt; そうそう、本編完結お疲れさまでした♪
+&gt; 今後は番外編に期待！ということで（笑）。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -58,48 +58,48 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[6]</font> <font size=4 color=#40c0c0> �������߂łƂ��������܂��B</font>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 完結おめでとうございます。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/12/05 (��) 19:58:56 <strong>��</strong> <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200212054195856&log=kawanegi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200212054195856"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/12/05 (木) 19:58:56 <strong>▽</strong> <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200212054195856_log_kawanegi.cgi">返信</a>　削除<input type=checkbox name="target" value="200212054195856"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B�킽��������˂�����́u�s�r�X�v�œǂ܂��Ă��������Ă܂����B<br>
-�@���߂āA�������߂łƂ��������܂�������ꂳ�܂ł����B<br>
-�@�A�N�V�����A�����ĕʂ�ƍĉ�c�c�V�F���i�𕕈󂵂����Ƃ̗����ƃX�s�i�[�̋ٔ������ӂ���b�ƁA���X�g���O�ł��Ă̎������g�ɂ��u�ʂ�v�������闊������ۓI�ł����B<br>
-�@�V���ȍ�i�ɂ����҂��Ă��܂��B<br>
-�i�Ȃɂ��u����`�Ձv���u���`���Ɓv���R�ꕷ�����Ă��Ă��܂����c�c�΁j<br>
+<font size=3 color=#606060>　ＭＯＮＤＯです。わたしもかわねぎさんの「ＴＳ９」で読ませていただいてました。<br>
+　改めて、完結おめでとうございます＆お疲れさまでした。<br>
+　アクション、そして別れと再会……シェンナを封印したあとの頼香とスピナーの緊迫感あふれる会話と、ラスト直前でかつての自分自身にも「別れ」を告げる頼香が印象的でした。<br>
+　新たな作品にも期待しています。<br>
+（なにやら「しゃ〜ぷ」やら「も〜っと」やら漏れ聞こえてきていますが……笑）<br>
 <br>
-<font color="#ff88cc">���v���΁u�炢������v�V���[�Y���āA���N�������ɂɏo����āA������f�ڍ�i�̒��ł����N���N���Ȃ���ǂ݂�����ł������b�̈�Ȃ�ł��B</font><br>
+<font color="#ff88cc">＞思えば「らいか大作戦」シリーズって、少年少女文庫に出会って、数ある掲載作品の中でもワクワクしながら読みすすんでいたお話の一つなんです。</font><br>
 <br>
-�@�킽�������́u�炢������v�A�v�����ꂪ����܂��B<br>
-�@�Ȃɂ���������C���X�g�`���Ă܂�����B<br>
-�@����˂�����ɂ��^���ŁA�u�O�l�̃r�W���A���C���[�W�����߂Ă��ꂽ�v�ƌ����Ă��炦���̂ŁA�����ʂł��B<br>
-�@���������͐����A�o�g���R�X�`���[���i���`�[�t�͉��N�̐X���痢�B������f���A���̏����m�����̃C���[�W�����߂��Ⴂ�܂����ˁj�A�X�N�[�������A�͂Ắu�ʂ��ǁv�܂ŕ`�����Ⴂ�܂����ˁ`�m���i�΁j�B<br>
-�@�l�I�ɂ́u���������|�D����v�̑Δ�C���X�g�i�ԊO�҂Q�j���C�ɓ����Ă��܂��B<br>
+　わたしもこの「らいか大作戦」、思い入れがあります。<br>
+　なにせたくさんイラスト描いてますから。<br>
+　かわねぎさんにも某所で、「三人のビジュアルイメージを決めてくれた」と言ってもらえたので、感無量です。<br>
+　頼香ちゃんは制服、バトルコスチューム（モチーフは往年の森○千里。これも惑星連合の女性士官服のイメージを決めちゃいましたね）、スクール水着、はては「ぬうど」まで描いちゃいましたね〜確か（笑）。<br>
+　個人的には「来栖ちゃん−優くん」の対比イラスト（番外編２）が気に入っています。<br>
 <br>
-�@����˂�����A���ꂩ�������΂��Ă��������B</font>
+　かわねぎさん、これからもがんばってください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[5]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/30 (�y) 11:34:20 <strong>��</strong> ���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200211306113420&log=kawanegi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211306113420"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/30 (土) 11:34:20 <strong>▽</strong> あい </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200211306113420_log_kawanegi.cgi">返信</a>　削除<input type=checkbox name="target" value="200211306113420"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�u���̋�ɏ��̖������P�����c�v<br>
+<font size=3 color=#606060>「西の空に宵の明星が輝く頃…」<br>
 <br>
-�E���g����m�̈�l�̍Ō�̃A���i�����Ɍ����䎌���`�i�s�s�j<br>
+ウルトラ戦士の一人の最後のアンナ隊員に言う台詞だ〜（ＴＴ）<br>
 <br>
-���ʂꂵ�āA�����ɋA���Ă���̂́A���񑩓I�ȗ���ł����ǁA�ǂ������ł��B<br>
+お別れして、すぐに帰ってくるのは、お約束的な流れですけど、良かったです。<br>
 <br>
-��������ꂳ�܂ł���<br>
+完結お疲れさまでした<br>
 <br>
 </font>
 </td></table>
@@ -108,27 +108,27 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[4]</font> <font size=4 color=#40c0c0> �ǂ�ł��o�C��</font>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 読んでたバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/29 (��) 23:04:17 <strong>��</strong> <a href="mailto:mk8426@dosule.com">�����W�S�Q�U</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200211295230417&log=kawanegi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211295230417"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/29 (金) 23:04:17 <strong>▽</strong> <a href="mailto:mk8426@dosule.com">ｍｋ８４２６</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200211295230417_log_kawanegi.cgi">返信</a>　削除<input type=checkbox name="target" value="200211295230417"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A���^�N�V���s�r�X�œǂ�ł܂����̂ŁA���z�͍Ę^�����B<br>
+<font size=3 color=#606060>ええ、ワタクシもＴＳ９で読んでましたので、感想は再録っす。<br>
 <br>
-�������I���ɍŏI�b���A�b�v�I�I<br>
-���ށB���l�܂�U�h�V�[���Ɨ܂̕ʂ�B���ɓǂ݉���������܂��B<br>
-�i���ہA���������Ă�e�l�����Ȃ���ǂ�ł���ł����A���傤�ǂ����Ă����肢�̃R�[�i�[�ł����ƕ����Ă����Ŏ����̐��������������E�E�E���j<br>
-�Y��ȃX�g�[���[�̊����ɂӂ��킵�����b�ł����B<br>
+おおお！ついに最終話がアップ！！<br>
+うむ。息詰まる攻防シーンと涙の別れ。実に読み応えがあります。<br>
+（実際、いつも聞いてるＦＭ聞きながら読んでたんですが、ちょうどあってた星占いのコーナーでちゃんと聞いてるつもりで自分の星座聞き逃した・・・爆）<br>
+雄大なストーリーの完結にふさわしいお話でした。<br>
 <br>
-�E�E�E�E�E�E�E<br>
+・・・・・・・<br>
 <br>
-�łƂ��ƂƖ߂��ė�������āi�΁j�B<br>
-���̗܂̕ʂ�͉��H�Ƃ��A�}�ȓ]�Z���Č����Ă��̂ǂ�����́H�Ƃ��A����Ȃ��Ƃ��]�����悬�����肵�āi���j�B<br>
+でとっとと戻って来ちゃって（笑）。<br>
+あの涙の別れは何？とか、急な転校って言ってたのどうすんの？とか、そんなことが脳裏をよぎったりして（爆）。<br>
 <br>
-���������A�{�Ҋ�������ꂳ�܂ł�����<br>
-����͔ԊO�҂Ɋ��ҁI�Ƃ������ƂŁi�΁j�B</font>
+そうそう、本編完結お疲れさまでした♪<br>
+今後は番外編に期待！ということで（笑）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -136,26 +136,26 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[3]</font> <font size=4 color=#40c0c0> �������߂łƂ��������܂�</font>
+<font size=2>[3]</font> <font size=4 color=#40c0c0> 完結おめでとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/29 (��) 22:34:46 <strong>��</strong> �Ђ̂Ђ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200211295223446&log=kawanegi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211295223446"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/29 (金) 22:34:46 <strong>▽</strong> ひのひと </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200211295223446_log_kawanegi.cgi">返信</a>　削除<input type=checkbox name="target" value="200211295223446"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ꂩ��A�����ꂳ�܂ł����B<br>
-�ꑫ��ɂ����g�̃T�C�g�œǂ܂��Ē����Ă܂����B�x���Ȃ��Ă��܂��܂������ǁA�ŏI�b�A�y���܂��Ă��������܂����B�O�l���̍Ō�̊���A�ǂ�Ȃ��̂ɂȂ邩�c�c�Ђ�����҂��������̉��l���邨�b�ł����B<br>
-�v���΁u�炢������v�V���[�Y���āA���N�������ɂɏo����āA������f�ڍ�i�̒��ł����N���N���Ȃ���ǂ݂�����ł������b�̈�Ȃ�ł��B���ꂪ�������ăG���f�B���O���}����ꂽ�Ȃ�Č����̂́A�傰����������܂��񂯂Ǌ����ʂȎv�������܂��B����ŎO�l���Ɠ�l�Ɠ�C�̂��b���ЂƂ܂����؂�Ȃ̂ł��ˁB<br>
+<font size=3 color=#606060>それから、おつかれさまでした。<br>
+一足先にご自身のサイトで読ませて頂いてました。遅くなってしまいましたけど、最終話、楽しませていただきました。三人娘の最後の活躍、どんなものになるか……ひたすら待っただけの価値あるお話でした。<br>
+思えば「らいか大作戦」シリーズって、少年少女文庫に出会って、数ある掲載作品の中でもワクワクしながら読みすすんでいたお話の一つなんです。それがこうしてエンディングを迎えられたなんて言うのは、大げさかもしれませんけど感無量な思いがします。これで三人娘と二人と二匹のお話もひとまず一区切りなのですね。<br>
 <br>
-�ŏI�b�Ƃ͂����Ă��A�����g���������̃y�[�W�Ō����Ă���悤�ɁA�܂��܂��ʂ̂��b�����̐�ɂ͑҂��Ă������ł��B�����g�̓X�^�[�g���b�N�ɂ͂���Ȃɏڂ����͂Ȃ�����ǂ��A�[���Ɋy���܂��Ă������������̗��������̐��E�����ꂩ��ǂ�Ȃ��̂ɍL�����Ă����̂��y���݂ɂ����Ă��������܂��B<br>
+最終話とはいっても、ご自身がご自分のページで言われているように、まだまだ別のお話がこの先には待っていそうです。私自身はスタートレックにはそんなに詳しくはないけれども、充分に楽しませていただいたこの頼香たちの世界がこれからどんなものに広がっていくのか楽しみにさせていただきます。<br>
 <br>
-�]�k���̈�B<br>
-�Ђ���Ƃ��āA���C�J�̐V�������C�n�̔C���́c�c�Ȃ�Ėϑz���Ă���A���̂Ƃ���ɂȂ��Ă����肵�܂��āB������ƕ��G�ȐS���������肵�܂��B(���)<br>
+余談その一。<br>
+ひょっとして、ライカの新しい赴任地の任務は……なんて妄想してたら、そのとおりになっていたりしまして。ちょっと複雑な心境だったりします。(苦笑)<br>
 <br>
-�]�k���̓�B<br>
-�ŋ߁A�d������̖{���Ȃ̕��ɂ����삪���^����n�߂Ă܂��ˁB������ōŋߓǂݒ�����������Ă܂����ǁA���������΁A�����������̔��̖т����������A�Ȃ�Ă����G�s�\�[�h���������̂ł��ˁB(�Ȃ񂾂��Ӗ��[���ȃG�s�\�[�h�Ɏ󂯂Ƃ߂Ă��܂��̂͐[�ǂ݂̂������ł��傤���B)<br>
+余談その二。<br>
+最近、妖精さんの本だなの方にも旧作が収録され始めてますね。そちらで最近読み直したりもしてますけど、そういえば、もけが頼香の髪の毛を引き抜く、なんていうエピソードもあったのですね。(なんだか意味深長なエピソードに受けとめてしまうのは深読みのしすぎでしょうか。)<br>
 <br>
-�������炢�����܂����B<br>
+長文失礼いたしました。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -163,53 +163,53 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[2]</font> <font size=4 color=#40c0c0> �炢������P�R������ɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[2]</font> <font size=4 color=#40c0c0> らいか大作戦１３を見るには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/11/29 (��) 22:16:24 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200211295221624&log=kawanegi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200211295221624"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/11/29 (金) 22:16:24 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200211295221624_log_kawanegi.cgi">返信</a>　削除<input type=checkbox name="target" value="200211295221624"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�ŏI��ł��B�����B�̕ʂ�͂ǂ̂悤�ɂȂ�̂ł��傤���B</font>
-<p><a href="http://ts.novels.jp/novel/200101/14013415/raika13.html" target="_top">http://ts.novels.jp/novel/200101/14013415/raika13.html</a>
+<font size=3 color=#606060>【推薦文】最終回です。頼香達の別れはどのようになるのでしょうか。</font>
+<p><a href="../../novel/200101/14013415/raika13.html" target="_top">http://ts.novels.jp/novel/200101/14013415/raika13.html</a>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> ���̊��̉��Ł@��ǂ݂܂�����</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> 紫の旗の下で　を読みました♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/18 (��) 22:54:24 <strong>��</strong> �m�C���i�d�g�d���j </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200207184225424&log=kawanegi">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207184225424"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/18 (木) 22:54:24 <strong>▽</strong> ノイン（電波妖精） </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200207184225424_log_kawanegi.cgi">返信</a>　削除<input type=checkbox name="target" value="200207184225424"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�킨�A����ɂ͎��͋C�Â��Ă��܂���ł����B<br>
-�ŁA�ǂ݂܂�����@�{�N�����̓{�N�ɓV�[��^�������݂ł��B�����[�_���<br>
-�G�����@�V���m��B�@�n���m��B�@�l���m���<br>
-�������싅���ł��Ȃ��Ă��A�����ł���΂�T������񂪂����炵���ł��B<br>
-�������X�[�X�[����Ƃ����`���I�Ȍ��t�Ƃ��E�E<br>
-�s�r�̂��񑩂����荞�܂�Ă��āA�ł���΂����Ƒ������ǂ݂����Ǝv������i�ł���܂����B<br>
-�R���p�N�g�ɂ܂Ƃ܂��Ă���_���悢�ł��B<br>
-����ς�A�{�N�����͊�{�I�ɖG�����E�E�E<br>
-�炢���̃I��������������ł����ǁA��͂舤�炵���A�����炵���̓_�ł̓{�N�����̂ق����ꖇ��肩�B�t�ɂ��ꂪ�A���̎q�ɂ��ւ�炸�A�ϋɓI�ɕ��������Ɗւ��b�Ȃ�I�������̂ق����悢���낤�ȂƎv���܂����B<br>
-�Ƃ�����A����͑������������Ǝv������i�ł���܂���</font>
+<font size=3 color=#606060>わお、これには実は気づいていませんでした。<br>
+で、読みました♪　ボクっ娘はボクに天啓を与えた存在です。あうー神よ♪<br>
+萌えよ♪　天が知る。　地が知る。　人が知る♪<br>
+自分が野球ができなくても、応援でがんばる裕美ちゃんがいじらしいです。<br>
+足元がスースーするという伝説的な言葉とか・・<br>
+ＴＳのお約束も盛り込まれていて、できればもっと続きが読みたいと思った作品でありました。<br>
+コンパクトにまとまっている点もよいです。<br>
+やっぱり、ボクっ娘は基本的に萌えだ・・・<br>
+らいかのオレっ娘もいいんですけど、やはり愛らしさ、いじらしさの点ではボクっ娘のほうが一枚上手か。逆にこれが、女の子にも関わらず、積極的に部員たちと関わる話ならオレっ娘のほうがよいだろうなと思いました。<br>
+ともあれ、これは続きが見たいと思った作品であります♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kawanegi">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kawanegi">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kawanegi.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

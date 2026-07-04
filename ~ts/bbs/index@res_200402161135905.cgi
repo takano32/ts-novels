@@ -1,13 +1,13 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�N���G�[�^�[�Y�E�t���A</title>
+<title>クリエーターズ・フロア</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=6 >�N���G�[�^�[�Y�E�t���A</font>
+<font size=6 >クリエーターズ・フロア</font>
 <table border=0 cellpadding=4 cellspacing=0><tr><td>
-<font color=#608080>�����́A�W���������킸���������̂��D���ȁA�����Ă����炤�̂��l�̂��߂̈ӌ������{�[�h�ł��B�W�������s��A�������v���E�A�}�s��ł��B�n��Ɋւ��b��A����Șb���ǂ݂����ȂǁA��҂Ɠǂݎ�̈ӌ������̏�Ƃ��Ă����g�����������B<br>�Ȃ��A�s�K���ȃR�����g���f�ڂ���Ă����ꍇ�́A�Ǘ��҂̌����ō폜�������܂��B<br></font>
+<font color=#608080>ここは、ジャンルを問わず物語をつくるのが好きな、つくってもうらうのが人のための意見交換ボードです。ジャンル不問、もちろんプロ・アマ不問です。創作に関わる話や、こんな話が読みたいなど、作者と読み手の意見交換の場としてもお使いください。<br>なお、不適当なコメントが掲載されていた場合は、管理者の権限で削除いたします。<br></font>
 </td></tr></table><br>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="index.cgi">
@@ -15,32 +15,32 @@
 <input type=hidden name="log" value="">
 <input type=hidden name="nj" value="Kfili5FqOn">
 <input type=hidden name="res" value="412">
-<h4 align=center>�� �L���ԍ� 412 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 412 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�l�͉�������D�z���ɐZ�肽���̂��˂��B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ������]�Ƃ�����HN�s��������
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:人は何かしら優越感に浸りたいのだねぇ。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 匿名希望というかHN不所持さん
 &gt; &gt;[411]
-&gt; �Ō�̂P�i���Ő����Ă镪�A�M�����������ƑS�R�����x�������Ď������o���܂��傤�B
-&gt; ���ƁA��i��]�͂��ĂȂ��Ƃ������A�������̗���I�ɂ͔�]���鉿�l���疳�����ĕ����߂����ł���B
-&gt; �u�S�̓I�ɓ��{��Ƃ��ĂȂ��ĂȂ��v���Ă̂�����ق�Ƃ������悤�ɁA�ˁB
-&gt; ������ʂł̔�]�͖w�ǖ������ǁA����ɑS�̓I�Ɍ�����悤�Ȏ��Ȃ炿��ق�ڂ��Ă܂���B
-&gt; ���̓_�ɂ��Ă͌��\�^�ʖڂȓ��e�œI�𓾂Ă���Ƃ͎v���̂ł����A�ǂ��ł��傤�H</textarea><br>
+&gt; 最後の１段落で煽ってる分、貴方も向こうと全然同レベルだって事を自覚しましょう。
+&gt; あと、作品批評はしてないというより、向こうの流れ的には批評する価値すら無いって方が近そうですよ。
+&gt; 「全体的に日本語としてなってない」ってのがちらほらとあったように、ね。
+&gt; だから個別での批評は殆ど無いけど、代わりに全体的に言えるような事ならちらほら載ってますよ。
+&gt; その点については結構真面目な内容で的を得ているとは思うのですが、どうでしょう？</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><font></font>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="index.cgi">
 <input type=hidden name="mode" value="remove">
@@ -53,124 +53,124 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[433]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> �͂��߂܂���</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[433]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#50d0d0> はじめまして</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/21 (��) 21:26:34  <a href="mailto:garyosei@agate.plala.or.jp">��ǐ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403210212634">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403210212634"></font>
+<font size=-1 color=#606060> 2004/03/21 (日) 21:26:34  <a href="mailto:garyosei@agate.plala.or.jp">雅良生</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403210212634.cgi">返信</a>　削除<input type=checkbox name="target" value="200403210212634"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>��T�ԑO�ɁA���N�������ɂ𔭌����Ă���A���ӂ̂悤�ɔq�����Ă���܂��B�ÓT�Ɨ��j�W�������̑n����������Ǝv���Ă��܂��B���ɂ̒��ł���ɋ߂����̂�����΋����ĉ������B����ƁA���S�҂̂��߁A���e���闝�z�I�ȕ��@�∳�k�̕��@���悭�킩��܂���B�ȒP�ȕ��@������΋����Ă��������B</font>
+<font size=4 color=#000000>一週間前に、少年少女文庫を発見してから、毎晩のように拝見しております。古典と歴史ジャンルの創作をしたいと思っています。文庫の中でそれに近いものがあれば教えて下さい。それと、初心者のため、投稿する理想的な方法や圧縮の方法がよくわかりません。簡単な方法があれば教えてください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[432]</font> <font size=4 color=#50d0d0> ����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[432]</font> <font size=4 color=#50d0d0> 無題</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/10 (��) 09:34:25  mulu.w </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403103093425">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403103093425"></font>
+<font size=-1 color=#606060> 2004/03/10 (水) 09:34:25  mulu.w </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403103093425.cgi">返信</a>　削除<input type=checkbox name="target" value="200403103093425"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�i�L-`).���O(cron...)</font>
+<font size=4 color=#000000>（´-`).｡ｏO(cron...)</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[431]</font> <font size=4 color=#50d0d0> Re:���O��������</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[431]</font> <font size=4 color=#50d0d0> Re:ログだったら</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/10 (��) 07:36:30  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403103073630">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403103073630"></font>
+<font size=-1 color=#606060> 2004/03/10 (水) 07:36:30  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403103073630.cgi">返信</a>　削除<input type=checkbox name="target" value="200403103073630"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">> ���A�󂫎��ԂɏW�v��������HTML�t�@�C�������Ă����Ƃ����̂́A�����������ׂ͂�����Ȃ��ł��B������ƍl���܂��B</font><br>
-�@Perl�ŉ�̓X�N���v�g�͏o������ł����ǁA������Ƃɉғ������āA���O����点����@���v�����܂���BWindows�Ō����A"�^�X�N"�ɋ߂�������܂����ˁH</font>
+<font size=4 color=#000000><font color="#cc88ff">> あ、空き時間に集計をかけてHTMLファイル化しておくというのは、たいした負荷はかからないです。ちょっと考えます。</font><br>
+　Perlで解析スクリプトは出来たんですけど、一日ごとに稼働させて、ログを作らせる方法が思いつきません。Windowsで言う、"タスク"に近い物ありますかね？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[430]</font> <font size=4 color=#50d0d0> ���O��������</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[430]</font> <font size=4 color=#50d0d0> ログだったら</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/09 (��) 22:23:59  <a href="mailto:yaji@novels.jp">��_��@�Ǘ���</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403092222359">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403092222359"></font>
+<font size=-1 color=#606060> 2004/03/09 (火) 22:23:59  <a href="mailto:yaji@novels.jp">矢治浩平@管理者</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403092222359.cgi">返信</a>　削除<input type=checkbox name="target" value="200403092222359"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�T�[�o�[����ւ���O��������A����HTML�t�@�C���P�ʂ̉{�������W�v���Ă��Ėl�͂��܂Ɍ��Ă��܂����B���͒N�ł����ꂽ�̂ł����A�T�[�o�[����ւ��Ă���͂܂������ƃ��O�W�v�𓮂����Ă��܂���B<br>
-�܂����A���Ă����b��������܂��l���܂��B<br>
+<font size=4 color=#000000>サーバー入れ替える前だったら、実はHTMLファイル単位の閲覧数を集計していて僕はたまに見ていました。実は誰でも見れたのですが、サーバー入れ替えてからはまだちゃんとログ集計を動かしていません。<br>
+またやれ、っていう話だったらまた考えます。<br>
 <br>
-<font color="#cc88ff">&gt;�@�������͂���̂̓T�[�o�ɑ傫�ȕ��S��������Ǝv����ł����ǁB<br>
-&gt; ��A40MB�߂������邵(�m��)�B</font><br>
+<font color="#cc88ff">&gt;　それを解析するのはサーバに大きな負担をかけると思うんですけど。<br>
+&gt; 一つ、40MB近くもあるし(確か)。</font><br>
 <br>
-���A�󂫎��ԂɏW�v��������HTML�t�@�C�������Ă����Ƃ����̂́A�����������ׂ͂�����Ȃ��ł��B������ƍl���܂��B</font>
+あ、空き時間に集計をかけてHTMLファイル化しておくというのは、たいした負荷はかからないです。ちょっと考えます。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[429]</font> <font size=4 color=#50d0d0> Re7:���ɏ��S�҂̎��Ƃ��Ă͓��[�@�\���~����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[429]</font> <font size=4 color=#50d0d0> Re7:文庫初心者の私としては投票機能が欲しい</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/08 (��) 18:21:54  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403081182154">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403081182154"></font>
+<font size=-1 color=#606060> 2004/03/08 (月) 18:21:54  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403081182154.cgi">返信</a>　削除<input type=checkbox name="target" value="200403081182154"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">> >�@���ꂪ��ԊȒP�Ȃ�ł��傤���ǁc�c��������ł����Ȃ�̃��O�ɂȂ邻���ł��B</font><br>
+<font size=4 color=#000000><font color="#cc88ff">> >　これが一番簡単なんでしょうけど……一日だけでもかなりのログになるそうです。</font><br>
 ><br>
-<font color="#cc88ff">> �@�ׂ��ȃ��O��͂Ƃ�����Ȃ��āA�{���������ł�����悤�ɂ��ė~���������B<br>
-> �@�������Ɉ�x���炢�̊����Ŋ��z�ł����邩�Ȃ��Ă��܂ɔ`���ɗ����肷���ł����A������܂߂ČÂ���i�̂قƂ�ǂɊ��z������ł���ˁB<br>
-> �@�ʂɊ��z���������炢�͂�����ł��B�f�ڂ��Ė���������ɐF�X�Ɗ��z��Ղ����肵�Ă܂����B<br>
-> �@�ł��A���߂č����ǂ܂�Ă���̂��ǂ����͒m�肽���Ǝv���܂��ˁB</font><br>
-�@����������Ƃ��҂����������B���AApache�p�Ƀ`���[�j���O���ł��B���Ƃ́A����񂪋����Ē�����΁B</font>
+<font color="#cc88ff">> 　細かなログ解析とかじゃなくて、閲覧数だけでも解るようにして欲しいかも。<br>
+> 　数ヶ月に一度くらいの割合で感想でもあるかなってたまに覗きに来たりするんですが、自作を含めて古い作品のほとんどに感想無いんですよね。<br>
+> 　別に感想が無いくらいはいいんです。掲載して貰った当時に色々と感想を戴いたりしてますし。<br>
+> 　でも、せめて今も読まれているのかどうかは知りたいと思いますね。</font><br>
+　もうちょっとお待ちください。今、Apache用にチューニング中です。あとは、矢治さんが許可して頂ければ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[428]</font> <font size=4 color=#50d0d0> Re6:���ɏ��S�҂̎��Ƃ��Ă͓��[�@�\���~����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[428]</font> <font size=4 color=#50d0d0> Re6:文庫初心者の私としては投票機能が欲しい</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/08 (��) 08:38:38  �ʂ肷������ăR�g�� </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403081083838">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403081083838"></font>
+<font size=-1 color=#606060> 2004/03/08 (月) 08:38:38  通りすがりってコトで </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403081083838.cgi">返信</a>　削除<input type=checkbox name="target" value="200403081083838"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�ǂ��B<br>
-�@�����قǂ̎҂ł͂Ȃ��̂Ŗ����܂��񂪁A����Ȃ�ɌÂ����e�҂ł��B<br>
+<font size=4 color=#000000>　ども。<br>
+　名乗るほどの者ではないので名乗りませんが、それなりに古い投稿者です。<br>
 <br>
-<font color="#cc88ff">&gt;�@���ꂪ��ԊȒP�Ȃ�ł��傤���ǁc�c��������ł����Ȃ�̃��O�ɂȂ邻���ł��B</font><br>
+<font color="#cc88ff">&gt;　これが一番簡単なんでしょうけど……一日だけでもかなりのログになるそうです。</font><br>
 <br>
-�@�ׂ��ȃ��O��͂Ƃ�����Ȃ��āA�{���������ł�����悤�ɂ��ė~���������B<br>
-�@�������Ɉ�x���炢�̊����Ŋ��z�ł����邩�Ȃ��Ă��܂ɔ`���ɗ����肷���ł����A������܂߂ČÂ���i�̂قƂ�ǂɊ��z������ł���ˁB<br>
-�@�ʂɊ��z���������炢�͂�����ł��B�f�ڂ��Ė���������ɐF�X�Ɗ��z��Ղ����肵�Ă܂����B<br>
-�@�ł��A���߂č����ǂ܂�Ă���̂��ǂ����͒m�肽���Ǝv���܂��ˁB<br>
+　細かなログ解析とかじゃなくて、閲覧数だけでも解るようにして欲しいかも。<br>
+　数ヶ月に一度くらいの割合で感想でもあるかなってたまに覗きに来たりするんですが、自作を含めて古い作品のほとんどに感想無いんですよね。<br>
+　別に感想が無いくらいはいいんです。掲載して貰った当時に色々と感想を戴いたりしてますし。<br>
+　でも、せめて今も読まれているのかどうかは知りたいと思いますね。<br>
 <br>
-�@�N���d�˂閈�ɓǂ܂�Ă���������܂��܂�����A���x�f�ڎ��~�߂�\���o�悤���ƍl�������̂��c�c<br>
-�i��i���̂͂���Ȃ�Ɏ��M�������ē��~���Ă����̂ŁA��C�̎���Ƃ��ߋ��̉��_�Ƃ��͌���Ȃ����ǁA���߂āA��i�ƈꏏ�ɏ�����Ă邠�Ƃ��������ł����������ȁc�c����͂������Ɏ��オ�ڂ���������A�Ԗʂ��̂Ȃ񂾂�ˁi����</font>
+　年を重ねる毎に読まれている実感がますます薄れ、何度掲載取り止めを申し出ようかと考えたものか……<br>
+（作品自体はそれなりに自信を持って投降していたので、若気の至りとか過去の汚点とかは言わないけど、せめて、作品と一緒に書かれてるあとがきだけでも消したいな……あれはさすがに時代が移った今じゃ、赤面ものなんだよね（自爆</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[427]</font> <font size=4 color=#50d0d0> �͂��߂܂��āB</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[427]</font> <font size=4 color=#50d0d0> はじめまして。</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/08 (��) 01:15:08  <a href="mailto:doraemonparty@mtj.biglobe.ne.jp">Annabel Lee</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403081011508">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403081011508"></font>
+<font size=-1 color=#606060> 2004/03/08 (月) 01:15:08  <a href="mailto:doraemonparty@mtj.biglobe.ne.jp">Annabel Lee</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403081011508.cgi">返信</a>　削除<input type=checkbox name="target" value="200403081011508"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�͂��߂܂��āB�M�T�C�g�͂��т��єq�����Ă��܂����B<br>
-�@���̃T�C�g�ɐG������āA�������ЂƂu�����̐l���v�Ƃ����b�������Ă݂܂����B�܂��܂����Ȃ��o���ŁA�ǂݕԂ��x�ɂ���΂��肪�ڗ����A�A�b�v�������̂����x�����������Ă����Ԃł����A�����̃T�C�g�ɂ���̂ň�x�ǂ�ňӌ��𕷂����Ă����΂Ǝv���܂��B<br>
-�@�Ō�ɁA���̘b�������ɂ������Ă��̃T�C�g�̏����͔��Ɏh���ƂȂ�܂����B�T��ł����\���グ��Ƌ��ɁA�F����̂܂��܂��̌䌒��������Ă��܂��B</font>
+<font size=4 color=#000000>　はじめまして。貴サイトはたびたび拝見していました。<br>
+　このサイトに触発されて、小生もひとつ「裸足の人魚」という話を書いてみました。まだまだつたない出来で、読み返す度にあらばかりが目立ち、アップしたものを何度も書き直している状態ですが、小生のサイトにあるので一度読んで意見を聞かせてくれればと思います。<br>
+　最後に、この話を書くにあたってこのサイトの小説は非常に刺激となりました。慎んでお礼を申し上げると共に、皆さんのますますの御健闘を願っています。</font>
 <p><div align=left><a href="http://www5b.biglobe.ne.jp/~Annabel/" target="_top">http://www5b.biglobe.ne.jp/~Annabel/</a></div>
 </td></table>
 </td></tr></table>
@@ -178,41 +178,41 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[426]</font> <font size=4 color=#50d0d0> Re5:���ɏ��S�҂̎��Ƃ��Ă͓��[�@�\���~����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[426]</font> <font size=4 color=#50d0d0> Re5:文庫初心者の私としては投票機能が欲しい</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/07 (��) 10:03:48  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@�^�c�ψ�</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403070100348">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403070100348"></font>
+<font size=-1 color=#606060> 2004/03/07 (日) 10:03:48  <a href="mailto:kou&#95;sa&#95;to@yahoo.co.jp">kou@運営委員</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403070100348.cgi">返信</a>　削除<input type=checkbox name="target" value="200403070100348"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�� monooo01 ����<br>
-<font color="#cc88ff">> ���A����͂��Ȃ�̕��S�ł��ˁB kou@�^�c�ψ����܁A�\���󂠂�܂���B�����܂ł̔z��<br>
-> ������܂���ł����B�����葁��(�܂��肢�������@���l���t�����Ƃ��Ȃ���)�ł�����@��<br>
-> ��������Ō��������ł��B</font><br>
-�@���ꂪ��ԊȒP�Ȃ�ł��傤���ǁc�c��������ł����Ȃ�̃��O�ɂȂ邻���ł��B��̓v���O����������āA�g���������������Ă��Ă݂܂��B�i�g���Ȃ������玩���̃T�C�g�Ŏg��(��)�j<br>
+<font size=4 color=#000000>▼ monooo01 さん<br>
+<font color="#cc88ff">> う、それはかなりの負担ですね。 kou@運営委員さま、申し訳ありません。そこまでの配慮<br>
+> がありませんでした。手っ取り早く(つまり上手い解決方法を考え付こうとしないで)できる方法を<br>
+> 書き込んで見ただけです。</font><br>
+　これが一番簡単なんでしょうけど……一日だけでもかなりのログになるそうです。解析プログラムを作って、使えそうだったら提案してみます。（使えなかったら自分のサイトで使う(笑)）<br>
 <br>
-<font color="#cc88ff">> �ߋ��̍�i�ɓ��𓖂Ă���@�́A���[����Ƃ��A���邢�͓��[���ʂ������Ƃ��Ƀ����_����<br>
-> �ߋ��̍�i�ւ̃����N��f���o���悤�ɂ���΂����̂ł͂Ǝv���܂��B<br>
-> �ł��A�v���O�������ǂ������炢���̂��낤�ƁA������ƍl���Ă��܂��܂���ˁB</font><br>
-�@�v���O�������̂͊ȒP�ł��B<br>
-�@int(rand([�f�[�^�[�x�[�X�S��])) Perl�̃����_�����g���ΊȒP�ɏo���܂��B�g�b�v�y�[�W�̃����_���T�[�`�����l�ɂ��Ď������Ă��܂��B<br>
+<font color="#cc88ff">> 過去の作品に日を当てる方法は、投票するとき、あるいは投票結果を示すときにランダムで<br>
+> 過去の作品へのリンクを吐き出すようにすればいいのではと思います。<br>
+> でも、プログラムをどうしたらいいのだろうと、ちょっと考えてしまいますよね。</font><br>
+　プログラム自体は簡単です。<br>
+　int(rand([データーベース全件])) Perlのランダムを使えば簡単に出来ます。トップページのランダムサーチも同様にして実現しています。<br>
 <br>
-<font color="#cc88ff">> �����Ȓm���ł̓��e�����������������B�Ǘ��ψ��l</font><br>
-�@���������B���ł���������A�ӌ����o���Ă���邾���ŁA���l������Ǝv���Ă��܂��̂ŁB<br>
-�@�p���o�������Ă��������B�����ł������Ȃ��Ƃ͓w�͂��܂��B<br>
+<font color="#cc88ff">> 生半可な知識での投稿をお許しください。管理委員様</font><br>
+　いえいえ。何でもいいから、意見を出してくれるだけで、価値があると思っていますので。<br>
+　パンバンだしてください。実現できそうなことは努力します。<br>
 <br>
-�� ��ǎҁB����<br>
-<font color="#cc88ff">> �@�ǎ҂̓��[��A���P�[�g�Ƃ��A���̎�̊�������΂悢�̂ł��傤���A�F�X��肠�肻���ł��ˁB<br>
-> �@�����܂ł������ł����A�ҏW�ψ�����i���ɌÎQ�̕��H�j�̃I�X�X��100�i��������Ȃ�50�ł�10�ł��j�Ƃ�����ƁA�ߋ���i�E�H�b�`�ɂ͖𗧂��Ǝv���܂��B<br>
-> �N�ゲ�ƂɃI�X�X����������Ƃ��H�v������΁A�Â���i�ɂ��Ă��A������x�͔z�����ł���̂ł͂Ȃ��ł��傤���B</font><br>
-�@�^�c�ψ������ɕ��S���������Ă��܂�����A�ǎ҂̒�����u�L��ψ��v�ł�����ē�T�ԂɈ��A�L���������Ă��炤�Ƃ����Ƃ����̂͂ǂ��ł��傤�H�@������x�\�����Ă��n�j�B��]�����B�����A��肪����ꍇ�͌f�ڂ��Ȃ��A�Ƃ����`�ŁB<br>
+▼ 一読者。さん<br>
+<font color="#cc88ff">> 　読者の投票やアンケートとか、その手の企画もあればよいのでしょうが、色々問題ありそうですね。<br>
+> 　あくまでも私見ですが、編集委員さん（特に古参の方？）のオススメ100（多すぎるなら50でも10でも）とかあると、過去作品ウォッチには役立つかと思います。<br>
+> 年代ごとにオススメをあげるとか工夫をすれば、古い作品についても、ある程度は配慮ができるのではないでしょうか。</font><br>
+　運営委員だけに負担がかかってしまうから、読者の中から「広報委員」でも募って二週間に一回、記事を書いてもらうというというのはどうでしょう？　ある程度暴走してもＯＫ。批評も○。ただ、問題がある場合は掲載しない、という形で。<br>
 <br>
-<font color="#cc88ff">> �@��A�V���[�Y�^�C�g�����Ƃ�INDEX�ŁA���������������X�g������ƕ֗����ȂƎv���܂��B</font><br>
-�@�������Ђ炪�Ȃɒ������߂̃V�X�e���͖ʓ|�Ȃ̂ł��B�f�[�^�[�x�[�X��ҏW����ɂ���A���Ɏ��Ԃ��������Ƃɂ͈Ⴂ����܂���B����́A�����\�Ȃ�ł����A��ƂɎ��Ԃ������肷���܂��B<br>
+<font color="#cc88ff">> 　後、シリーズタイトルごとのINDEXで、あいうえお順リストがあると便利かなと思います。</font><br>
+　漢字をひらがなに直すためのシステムは面倒なのです。データーベースを編集するにせよ、非常に時間がかかる作業には違いありません。これは、実現可能なんですが、作業に時間がかかりすぎます。<br>
 <br>
-<font color="#cc88ff">> �@������A�������N��ƌ��Ńq�b�g����΂����Ȃ��Ƃ��v���܂��B</font><br>
-�@2004/1 <- 2004�N1�� �Ƃ����Ӗ��ł��B���t�܂ł��Ă��q�b�g����Ǝv���܂��B�i��:2004/1/25)<br>
-�@�����L�[��S�Ă�I�����A��������L�[���[�h�� ��L�ŏЉ���悤�ȃL�[���[�h����͂��Ă݂Ă��������B�m���Ƀq�b�g����킯�ł͂Ȃ��ł����ǁB<br>
+<font color="#cc88ff">> 　もう一つ、検索が年代と月でヒットすればいいなあとも思います。</font><br>
+　2004/1 <- 2004年1月 という意味です。日付までつけてもヒットすると思います。（例:2004/1/25)<br>
+　検索キーを全てを選択し、検索するキーワードを 上記で紹介したようなキーワードを入力してみてください。確実にヒットするわけではないですけど。<br>
 <br>
 </font>
 </td></table>
@@ -221,49 +221,49 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[425]</font> <font size=4 color=#50d0d0> Re4:���ɏ��S�҂̎��Ƃ��Ă͓��[�@�\���~����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[425]</font> <font size=4 color=#50d0d0> Re4:文庫初心者の私としては投票機能が欲しい</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/07 (��) 00:19:46  monooo01 </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403070001946">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403070001946"></font>
+<font size=-1 color=#606060> 2004/03/07 (日) 00:19:46  monooo01 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403070001946.cgi">返信</a>　削除<input type=checkbox name="target" value="200403070001946"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000><font color="#cc88ff">&gt;�{�����O�Ƃ́AApache�Ƃ����f���o���A�A�N�Z�X���O�̎��ł����H<br>
-&gt;�������͂���̂̓T�[�o�ɑ傫�ȕ��S��������Ǝv����ł����ǁB��A40MB�߂������邵(�m��)�B</font><br>
-���A����͂��Ȃ�̕��S�ł��ˁB kou@�^�c�ψ����܁A�\���󂠂�܂���B�����܂ł̔z��<br>
-������܂���ł����B�����葁��(�܂��肢�������@���l���t�����Ƃ��Ȃ���)�ł�����@��<br>
-��������Ō��������ł��B<br>
+<font size=4 color=#000000><font color="#cc88ff">&gt;閲覧ログとは、Apacheとかが吐き出す、アクセスログの事ですか？<br>
+&gt;それを解析するのはサーバに大きな負担をかけると思うんですけど。一つ、40MB近くもあるし(確か)。</font><br>
+う、それはかなりの負担ですね。 kou@運営委員さま、申し訳ありません。そこまでの配慮<br>
+がありませんでした。手っ取り早く(つまり上手い解決方法を考え付こうとしないで)できる方法を<br>
+書き込んで見ただけです。<br>
 <br>
-�ߋ��̍�i�ɓ��𓖂Ă���@�́A���[����Ƃ��A���邢�͓��[���ʂ������Ƃ��Ƀ����_����<br>
-�ߋ��̍�i�ւ̃����N��f���o���悤�ɂ���΂����̂ł͂Ǝv���܂��B<br>
-�ł��A�v���O�������ǂ������炢���̂��낤�ƁA������ƍl���Ă��܂��܂���ˁB<br>
-���ׂ��\���l�����Ȃ��Ƃ����܂���̂ŁB<br>
-�����Ȓm���ł̓��e�����������������B�Ǘ��ψ��l</font>
+過去の作品に日を当てる方法は、投票するとき、あるいは投票結果を示すときにランダムで<br>
+過去の作品へのリンクを吐き出すようにすればいいのではと思います。<br>
+でも、プログラムをどうしたらいいのだろうと、ちょっと考えてしまいますよね。<br>
+負荷も十分考慮しないといけませんので。<br>
+生半可な知識での投稿をお許しください。管理委員様</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[424]</font> <font size=4 color=#50d0d0> Re3:���ɏ��S�҂̎��Ƃ��Ă͓��[�@�\���~����</font></TD></Tr></TABLE>
+<TABLE><TR><TD bgcolor=#114422><font size=4 color=#aaaaaa>[424]</font> <font size=4 color=#50d0d0> Re3:文庫初心者の私としては投票機能が欲しい</font></TD></Tr></TABLE>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=-1 color=#606060> 2004/03/05 (��) 12:26:23  ��ǎҁB </font></td>
-<td nowrap align=left><font size=3>�@<a href="index.cgi?res=200403055122623">�ԐM</a>�@�폜<input type=checkbox name="target" value="200403055122623"></font>
+<font size=-1 color=#606060> 2004/03/05 (金) 12:26:23  一読者。 </font></td>
+<td nowrap align=left><font size=3>　<a href="index@res_200403055122623.cgi">返信</a>　削除<input type=checkbox name="target" value="200403055122623"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=4 color=#000000>�@�ǎ҂̓��[��A���P�[�g�Ƃ��A���̎�̊�������΂悢�̂ł��傤���A�F�X��肠�肻���ł��ˁB<br>
-�@�����܂ł������ł����A�ҏW�ψ�����i���ɌÎQ�̕��H�j�̃I�X�X��100�i��������Ȃ�50�ł�10�ł��j�Ƃ�����ƁA�ߋ���i�E�H�b�`�ɂ͖𗧂��Ǝv���܂��B�N�ゲ�ƂɃI�X�X����������Ƃ��H�v������΁A�Â���i�ɂ��Ă��A������x�͔z�����ł���̂ł͂Ȃ��ł��傤���B<br>
-�@��A�V���[�Y�^�C�g�����Ƃ�INDEX�ŁA���������������X�g������ƕ֗����ȂƎv���܂��B1500���̍�i������悤�ł����A�V���[�Y�P�ʂ��ƁA���Ԃ񔼕��ȉ��̐��ɂȂ��Č��₷���Ȃ�̂ł͂Ȃ��ł��傤���B<br>
-�@������A�������N��ƌ��Ńq�b�g����΂����Ȃ��Ƃ��v���܂��B<br>
+<font size=4 color=#000000>　読者の投票やアンケートとか、その手の企画もあればよいのでしょうが、色々問題ありそうですね。<br>
+　あくまでも私見ですが、編集委員さん（特に古参の方？）のオススメ100（多すぎるなら50でも10でも）とかあると、過去作品ウォッチには役立つかと思います。年代ごとにオススメをあげるとか工夫をすれば、古い作品についても、ある程度は配慮ができるのではないでしょうか。<br>
+　後、シリーズタイトルごとのINDEXで、あいうえお順リストがあると便利かなと思います。1500超の作品があるようですが、シリーズ単位だと、たぶん半分以下の数になって見やすくなるのではないでしょうか。<br>
+　もう一つ、検索が年代と月でヒットすればいいなあとも思います。<br>
 <br>
-�@�v�������Ƃ΂��菟��ɕ��ׂĂ��߂�Ȃ����B</font>
+　思ったことばかり勝手に並べてごめんなさい。</font>
 </td></table>
 </td></tr></table>
 
 <font></font>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="index.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="">
@@ -271,16 +271,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="index.cgi">
 <input type=hidden name="log" value="">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="index.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br><br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br><br></font>
 </td></table></div><br>
 </div>
 <br>

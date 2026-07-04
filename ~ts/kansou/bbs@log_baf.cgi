@@ -275,7 +275,7 @@ BAFさん、Tーコミさん、ありがとうございました。思い出し�
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】真夏の恒例、ＢＡＦさんの怪奇（？）ショートショート。今回はさらにパワーアップしとります（笑）。<br>
-<a href=http://ts.novels.jp/novel/200011/15112734/nouryo8.html target=_top>http://ts.novels.jp/novel/200011/15112734/nouryo8.html</a></font>
+<a href="../../novel/200011/15112734/nouryo8.html" target=_top>http://ts.novels.jp/novel/200011/15112734/nouryo8.html</a></font>
 </td></table>
 </td></tr></table>
 

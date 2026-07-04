@@ -84,7 +84,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】お待たせしました。少年少女文庫史上最強（２００５年５月時点）のＴＳっ娘・鷹飼優輝が、頼香ちゃんたちと繰り広げる珍騒動第二弾っ！！<br>
-<a href=http://ts.novels.jp/novel/200011/08043229/pf_ex02.html target=_top>http://ts.novels.jp/novel/200011/08043229/pf_ex02.html</a></font>
+<a href="../../novel/200011/08043229/pf_ex02.html" target=_top>http://ts.novels.jp/novel/200011/08043229/pf_ex02.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -153,7 +153,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】文庫はお久しぶりのＨＩＫＯさん。今回はこれまたお久しぶりの優輝たちと、「らいか大作戦」の面々がクロスオーバー！！<br>
-<a href=http://ts.novels.jp/novel/200011/08043229/pf_ex1.html target=_top>http://ts.novels.jp/novel/200011/08043229/pf_ex1.html</a></font>
+<a href="../../novel/200011/08043229/pf_ex1.html" target=_top>http://ts.novels.jp/novel/200011/08043229/pf_ex1.html</a></font>
 </td></table>
 </td></tr></table>
 

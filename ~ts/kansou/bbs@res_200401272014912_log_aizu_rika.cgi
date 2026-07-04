@@ -1,43 +1,43 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>��×��Ԃ����i���z�f����</title>
+<title>会津里花さん作品感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>��×��Ԃ����i���z�f����</font>
+<font size=5>会津里花さん作品感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="aizu_rika">
 <input type=hidden name="nj" value="2r3PtAFKuL">
 <input type=hidden name="res" value="1">
-<h4 align=center>�� �L���ԍ� 1 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 1 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:��������������"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ��×��Ԃ���
-&gt; �݂Ȃ��܁A���v���Ԃ�ł��B������Ƃ͗���������(?)��×��Ԃł��B
-&gt; ����Ȍf���A����Ă���Ă�����ł��ˁB
-&gt; �ŋ߂͉��y�����΂�����ŁA�����̂ق��͂��񂺂�i�܂Ȃ��Ȃ��Ă��܂��܂����B
-&gt; �uSurvival�v�̂Â��̓��A���̎����ł���Ă܂��A�݂����ȁc�c
-&gt; GID�̂ق��̊���������Ă��܂��̂ŁA��������l�͂��Ђ����ł��������ˁ�
-&gt; ��������������l�Ƃ���ł�������y���݂ɂ��@(^^)/~~~</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:せっかくだから"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 会津里花さん
+&gt; みなさま、お久しぶりです。ちょっとは落ち着いた(?)会津里花です。
+&gt; こんな掲示板、作ってくれていたんですね。
+&gt; 最近は音楽活動ばっかりで、小説のほうはぜんぜん進まなくなってしまいました。
+&gt; 「Survival」のつづきはリアルの自分でやってます、みたいな……
+&gt; GIDのほうの活動もやっていますので、興味ある人はぜひおいでくださいね♪
+&gt; いつかここを見る人とお会いできる日を楽しみにしつつ　(^^)/~~~</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.</font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.</font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� �Ō� <strong>�ő�L�^�ێ���</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 最後 <strong>最大記録保持数</strong> 100  <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -50,35 +50,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[1]</font> <font size=4 color=#40c0c0> ��������������</font>
+<font size=2>[1]</font> <font size=4 color=#40c0c0> せっかくだから</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/01/27 (��) 01:49:12 <strong>��</strong> <a href="mailto:jackie-matthews@ezweb.ne.jp">��×���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200401272014912&log=aizu_rika">�ԐM</a>�@�폜<input type=checkbox name="target" value="200401272014912"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/01/27 (火) 01:49:12 <strong>▽</strong> <a href="mailto:jackie-matthews@ezweb.ne.jp">会津里花</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200401272014912_log_aizu_rika.cgi">返信</a>　削除<input type=checkbox name="target" value="200401272014912"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�݂Ȃ��܁A���v���Ԃ�ł��B������Ƃ͗���������(?)��×��Ԃł��B<br>
-����Ȍf���A����Ă���Ă�����ł��ˁB<br>
-�ŋ߂͉��y�����΂�����ŁA�����̂ق��͂��񂺂�i�܂Ȃ��Ȃ��Ă��܂��܂����B<br>
-�uSurvival�v�̂Â��̓��A���̎����ł���Ă܂��A�݂����ȁc�c<br>
-GID�̂ق��̊���������Ă��܂��̂ŁA��������l�͂��Ђ����ł��������ˁ�<br>
-��������������l�Ƃ���ł�������y���݂ɂ��@(^^)/~~~</font>
+<font size=3 color=#606060>みなさま、お久しぶりです。ちょっとは落ち着いた(?)会津里花です。<br>
+こんな掲示板、作ってくれていたんですね。<br>
+最近は音楽活動ばっかりで、小説のほうはぜんぜん進まなくなってしまいました。<br>
+「Survival」のつづきはリアルの自分でやってます、みたいな……<br>
+GIDのほうの活動もやっていますので、興味ある人はぜひおいでくださいね♪<br>
+いつかここを見る人とお会いできる日を楽しみにしつつ　(^^)/~~~</font>
 <p><a href="http://www.jackies.jp/" target="_top">http://www.jackies.jp/</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="aizu_rika">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=aizu_rika">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_aizu_rika.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.</font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
 </td></table></div><br>
 </div>
 <br>

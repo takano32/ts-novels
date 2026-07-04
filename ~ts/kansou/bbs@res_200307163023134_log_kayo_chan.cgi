@@ -1,38 +1,38 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�w�ؑタ���V���[�Y�x���z�f����</title>
+<title>『華代ちゃんシリーズ』感想掲示板</title>
 </head>
 <body bgcolor=#bbffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�w�ؑタ���V���[�Y�x���z�f����</font>
+<font size=5>『華代ちゃんシリーズ』感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="kayo_chan">
 <input type=hidden name="nj" value="c7QZ4J752B">
 <input type=hidden name="res" value="361">
-<h4 align=center>�� �L���ԍ� 361 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 361 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�w�ؑタ���V���[�Y�u�V�l�Ə����v�x��ǂނɂ͉����N���b�N�B"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �^�c�ψ�����
-&gt; �y���E���z ����̉ؑタ���͉����������[�h�����B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『華代ちゃんシリーズ「老人と少女」』を読むには下をクリック。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】 今回の華代ちゃんは可愛い孫娘モードかも。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 200 <!-- ���s���� 0.010 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 200 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -45,94 +45,94 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[371]</font> <font size=4 color=#40c0c0> [���钋������̏��N]</font>
+<font size=2>[371]</font> <font size=4 color=#40c0c0> [ある昼下がりの少年]</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/09/01 (��) 01:29:34 <strong>��</strong> ���Ȃ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200309011012934&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200309011012934"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/01 (月) 01:29:34 <strong>▽</strong> すなさん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200309011012934_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200309011012934"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����������Ă܂��E�E�E�B<br>
+<font size=3 color=#606060>ご無沙汰してます・・・。<br>
 <br>
-�������ǂ�ł��āu�������肵�Ă���v�Ǝv�����̂ł����A<br>
-�@�Ђ���Ƃ��Č����́w�����̖����x���Ȃ���������H<br>
+＠私も読んでいて「あっさりしている」と思ったのですが、<br>
+　ひょっとして原因は『いつもの枕詞』がなかったから？<br>
 <br>
-���u�厖�ȂƂ���̊��v�������悤�ł����A�ꏊ���ꏊ�����ɐi�s���̖����Ȃ�Z�������ՂɒB���Ă���͂��B<br>
-�@�܂������Ղ܂Ő؏�����킯�ɂ͍s���Ȃ����E�E�B<br>
-�@�Ƃ����킯�ł����ŉؑタ���̏o�Ԃ�����Ă��邱�ƂɂȂ�̂ł���<br>
-�@����ɂ��Ă��A�ǂ�����ĉؑタ���͖���i�������l���j�����o���̂ł��傤���H</font>
+＠「大事なところの癌」だったようですが、場所が場所だけに進行癌の末期なら浸潤も骨盤に達しているはず。<br>
+　まさか骨盤まで切除するわけには行かないし・・。<br>
+　というわけでここで華代ちゃんの出番がやってくることになるのですが<br>
+　それにしても、どうやって華代ちゃんは毎回（困った人を）見つけ出すのでしょうか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[370]</font> <font size=4 color=#40c0c0> ���v���Ԃ�ł�</font>
+<font size=2>[370]</font> <font size=4 color=#40c0c0> お久しぶりです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/30 (�y) 01:15:01 <strong>��</strong> <a href="mailto:ayano_chang@hotmail.com">�_�숻�T</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308306011501&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308306011501"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/30 (土) 01:15:01 <strong>▽</strong> <a href="mailto:ayano_chang@hotmail.com">神川綾乃</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308306011501_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200308306011501"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060><br>
-�@���N�������ɂ݂̂Ȃ���A���v���Ԃ�ł��A�_��ł��B<br>
-�@�d���̕�����i�����A�悤�₭�̓��e�ƂȂ�܂����B�ؑタ���V���[�Y�ł̓��e��<br>
-�Q��ڂɂȂ�܂��B<br>
+　少年少女文庫のみなさん、お久しぶりです、神川です。<br>
+　仕事の方が一段落し、ようやくの投稿となりました。華代ちゃんシリーズでの投稿は<br>
+２作目になります。<br>
 <br>
-�@����́A�����ς�Ƃ������e�ɂ��܂����B�s�𗝂��́A�قƂ�ǖ�����������܂���<br>
-���ǁA���������̂��L�肩�ȂƎv���āB<br>
+　今回は、さっぱりとした内容にしました。不条理さは、ほとんど無いかもしれません<br>
+けど、こういうのも有りかなと思って。<br>
 <br>
-�@���āA����̋ߋ��ł����A����Ǝd�����Q�{�I������Ƃ���ŁA�V�����˗������āA<br>
-���݌����̐g�ł��B�V���K�[�G���W�F���X�Ƃ����ٍ쏬�����A�ڂ����Ē����Ă����<br>
-�������ǁA�܂����A���x���Ȃ肻���ł��B<br>
-�@�͂��A�Ȃ񂾂��A�C���[�W���ǂ�ǂ�͂�Ă����悤�Ȗ������߂����Ă��܂��B<br>
+　さて、私情の近況ですが、やっと仕事が２本終わったところで、新しい依頼が来て、<br>
+現在交渉中の身です。シュガーエンジェルスという拙作小説も連載させて頂いておりま<br>
+したけど、まだ復帰が遅くなりそうです。<br>
+　はぁ、なんだか、イメージがどんどん枯れていくような毎日を過ごしています。<br>
 <br>
-�@�Ƃ������ƂŁA�����ł܂�����o�����炨��v���܂��傤�B</font>
+　ということで、次回作でまたお会い出来たらお会い致しましょう。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[369]</font> <font size=4 color=#40c0c0> ���z�`</font>
+<font size=2>[369]</font> <font size=4 color=#40c0c0> 感想〜</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/28 (��) 14:40:58 <strong>��</strong> ��� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308284144058&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308284144058"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/28 (木) 14:40:58 <strong>▽</strong> らま </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308284144058_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200308284144058"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�X�o��̉ؑタ���A���ς�炸�����\�͂ł��ˁ[�O�O�G<br>
-�����A��l����������ɂ��Ă��A�ؑタ��񂪎�l���̊肢���ȉ����A��]���Ă���̂Ƃ͈Ⴄ�`�Ŋ肢�������c�Ƃ����ؑタ���V���[�Y�̕s�𗝂�������Ȃ��悤�ȋC�����܂����B<br>
-���Ⴆ�΁A��l���͂��̊w�Z�̐����i�j�q�j�ɓ���ē��w�������ǁA�a�C�Ŗ����ɂȂ��āA�ؑタ���ɏ����Ă�����Ēʂ���悤�ɂȂ������ǁA�̐S�̐����͏��q�̕��c�Ƃ�^^�G<br>
-����ƁA�`���ɂ����̉ؑタ���̎��ȏЉ�i�H�j�������̂�������Ǝ₵�������ł��B<br>
-�ᔻ�΂���ɂȂ����Ⴂ�܂������A�������肵�Ă��ēǂ݂₷�������ł��B</font>
+<font size=3 color=#606060>久々登場の華代ちゃん、相変わらず凄い能力ですねー＾＾；<br>
+ただ、主人公が助かるにしても、華代ちゃんが主人公の願いを曲解し、希望しているのとは違う形で願いが叶う…という華代ちゃんシリーズの不条理さが足りないような気もしました。<br>
+※例えば、主人公はその学校の制服（男子）に憧れて入学したけど、病気で無理になって、華代ちゃんに助けてもらって通えるようになったけど、肝心の制服は女子の物…とか^^；<br>
+それと、冒頭にいつもの華代ちゃんの自己紹介（？）が無いのがちょっと寂しかったです。<br>
+批判ばかりになっちゃいましたが、あっさりしていて読みやすかったです。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[368]</font> <font size=4 color=#40c0c0> �w���N�x�i�͂����ȁj�ǂ݂܂����B</font>
+<font size=2>[368]</font> <font size=4 color=#40c0c0> 『少年』（はしょるな）読みました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/28 (��) 01:52:27 <strong>��</strong> <a href="mailto:muckret@hotmail.com">�l�t�b�j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308284015227&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308284015227"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/28 (木) 01:52:27 <strong>▽</strong> <a href="mailto:muckret@hotmail.com">ＭＵＣＫ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308284015227_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200308284015227"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����A�Ȃ񂩉ؑタ���J�b�R�C�C�ł��B<br>
-��������Ƃ����ǂ݌��ŁA�r�؂�邱�ƂȂ��Ō�܂œǂ߂܂����B<br>
-�ǌ�͂�������Ƃ��������ŁA�������ɕ�܂�܂����i�O�O<br>
-���āA�������̃��r���[����Ȃ��񂾂���i���j<br>
-�ؑタ���A���X���Ȍv�炢��������̂ł��B<br>
+<font size=3 color=#606060>あぁ、なんか華代ちゃんカッコイイです。<br>
+あっさりとした読み口で、途切れることなく最後まで読めました。<br>
+読後はすっきりとした感じで、清涼感に包まれました（＾＾<br>
+って、飲料水のレビューじゃないんだから（汗）<br>
+華代ちゃん、中々粋な計らいをするものです。<br>
 <br>
-��������Ȃ�΁A�������肵�����Ă��鎖�ł��傤���B<br>
-�m���ɃI�`�܂ł���Ȃ�Ɠǂ߂�̂ł����A���Ɛ���オ��Ɍ�����C�����܂��B<br>
-�ؑタ���̓o��ŁA�����ЂƔg���N�����Ă݂Ă��ǂ������̂ł͂Ȃ��ł��傤���B<br>
-�Ƃ͌����A���́u��������Ƃ��������v������ɂȂ�̂��m���ł����A���̂܂܂̍앗�ōs���Ă݂�̂��ǂ��ł��傤�B<br>
-�܂��A�Q�l���x�Ƃ������ƂŁA�̂����ɐ�������Ă����܂���i--�G<br>
-�_�삳��̎��̂��b���ǂ�ł݂����Ȃ��i�ł����B<br>
+難を言うならば、あっさりしすぎている事でしょうか。<br>
+確かにオチまですんなりと読めるのですが、ちと盛り上がりに欠ける気がします。<br>
+華代ちゃんの登場で、もうひと波乱起こしてみても良かったのではないでしょうか。<br>
+とは言え、この「すっきりとした感じ」が武器になるのも確かですし、このままの作風で行ってみるのも良いでしょう。<br>
+まぁ、参考程度ということで、偉そうに説教たれてすいません（--；<br>
+神川さんの次のお話も読んでみたくなる作品でした。<br>
 <br>
-�l���w�ؑタ���V���[�Y�x�A�����Ă݂悤���Ȃ��c�c�B<br>
+僕も『華代ちゃんシリーズ』、書いてみようかなぁ……。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -140,16 +140,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[367]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[367]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/27 (��) 22:41:46 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308273224146&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308273224146"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/27 (水) 22:41:46 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308273224146_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200308273224146"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���[�݂�B���Ƌ��낵���a�C�Ȃ�ł��傤�E�E�E�B<br>
-���̏ꍇ�͉ؑタ���ɏo����ėǂ������ƌ����ׂ��Ȃ�ł��傤�Ȃ��B<br>
-�������A�ޏ��͈�҂��H�i�΁j</font>
+<font size=3 color=#606060>うーみゅ。何と恐ろしい病気なんでしょう・・・。<br>
+この場合は華代ちゃんに出会って良かったと言うべきなんでしょうなぁ。<br>
+しかし、彼女は医者か？（笑）</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -157,29 +157,29 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[366]</font> <font size=4 color=#40c0c0> �w���钋������̏��N�x������ɂ͂������N���b�N�B</font>
+<font size=2>[366]</font> <font size=4 color=#40c0c0> 『ある昼下がりの少年』を見るにはここをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/27 (��) 21:50:28 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308273215028&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308273215028"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/27 (水) 21:50:28 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308273215028_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200308273215028"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z���N���ޏ��ɏo������̂́A���R�H�@����Ƃ��K�R�������̂ł��傤���H<br>
-<a href=http://ts.novels.jp/novel/kayo_chan/kayo_chan82.html target=_top>http://ts.novels.jp/novel/kayo_chan/kayo_chan82.html</a></font>
+<font size=3 color=#606060>【推薦文】少年が彼女に出会ったのは、偶然？　それとも必然だったのでしょうか？<br>
+<a href="../../novel/kayo_chan/kayo_chan82.html" target=_top>http://ts.novels.jp/novel/kayo_chan/kayo_chan82.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[365]</font> <font size=4 color=#40c0c0> �u�ؑタ���Łv�g��ƃR�s�y</font>
+<font size=2>[365]</font> <font size=4 color=#40c0c0> 「華代ちゃん版」吉野家コピペ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/08/15 (��) 22:12:14 <strong>��</strong> TSF@������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200308155221214&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200308155221214"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/08/15 (金) 22:12:14 <strong>▽</strong> TSF@名無し </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200308155221214_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200308155221214"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�₦������̂a�a�r�Ɂu�ؑタ���Łv�g��ƃR�s�y���������̂ŕ�<br>
+<font size=3 color=#606060>やえすさんのＢＢＳに「華代ちゃん版」吉野家コピペがあったので報告<br>
 <a href=http://jbbs.shitaraba.com/comic/bbs/read.cgi?BBS=100&amp;KEY=1060837967&amp;START=4&amp;END=4&amp;NOFIRST=TRUE target=_top>http://jbbs.shitaraba.com/comic/bbs/read.cgi?BBS=100&amp;KEY=1060837967&amp;START=4&amp;END=4&amp;NOFIRST=TRUE</a></font>
 </td></table>
 </td></tr></table>
@@ -187,35 +187,35 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[364]</font> <font size=4 color=#40c0c0> ���肪�Ƃ��������܂�</font>
+<font size=2>[364]</font> <font size=4 color=#40c0c0> ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/19 (�y) 10:17:53 <strong>��</strong> <a href="mailto:IZA00527@nifty.ne.jp">��e</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307196101753&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307196101753"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/19 (土) 10:17:53 <strong>▽</strong> <a href="mailto:IZA00527@nifty.ne.jp">城弾</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307196101753_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200307196101753"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@������̉ؑタ���V���[�Y�B<br>
-�@�ؑタ��񃏁[���h���Č��ł��Ă����ł��傤���B<br>
+<font size=3 color=#606060>　初挑戦の華代ちゃんシリーズ。<br>
+　華代ちゃんワールドを再現できていたでしょうか。<br>
 <br>
-�@�����W�S�Q�U����<br>
+　ｍｋ８４２６さん<br>
 <br>
-<font color="#cc88ff">&gt;���ށB���ƕٌ�m�͂܂��Ó��ȏ����ł��傤�B<br>
-&gt;�������A�܂����ꂳ��܂łƂ͂ˁB</font><br>
+<font color="#cc88ff">&gt;うむ。孫と弁護士はまあ妥当な処遇でしょう。<br>
+&gt;しかし、まさか爺さんまでとはね。</font><br>
 <br>
-�@���������Ƒ��ƕٌ�m�͌ォ��̎v�����B<br>
-�@�ꂳ��̎��H���������ƂɍD�����肵�����������̂ł������܂����B<br>
+　実を言うと孫と弁護士は後からの思いつき。<br>
+　爺さんの失踪をいいことに好き勝手しそうだったのでこうしました。<br>
 <br>
-<font color="#cc88ff">&gt;�ނ��Ⴍ����|�W�e�B�u�V���L���O�Ȃ��</font><br>
+<font color="#cc88ff">&gt;むちゃくちゃポジティブシンキングなんで</font><br>
 <br>
-�@����͂��ꂪ�e�[�}�ł����̂ŁB<br>
+　今回はこれがテーマでしたので。<br>
 <br>
-�@�a�J���Ƃ��炳��<br>
+　渋谷＠家からさん<br>
 <br>
-<font color="#cc88ff">&gt;���������Z���Y��y�n�Ɖ��Ƃ��ł��������Y�ރ^�C�v����Ȃ�����B</font><br>
+<font color="#cc88ff">&gt;失った金融資産や土地家屋とかでうじうじ悩むタイプじゃないから。</font><br>
 <br>
-�@�܂����������Ŗ��𖳂����Ă������낤���炻��ɂ���ׂ���ƌ������Ƃł��ˁB<br>
+　まぁもう少しで命を無くしていただろうからそれにくらべたらと言うことですね。<br>
 <br>
-�@���ǂ݂����������肪�Ƃ��������܂��B</font>
+　お読みいただきありがとうございます。</font>
 <p><a href="http://homepage3.nifty.com/johdan" target="_top">http://homepage3.nifty.com/johdan</a>
 </td></table>
 </td></tr></table>
@@ -223,42 +223,42 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[363]</font> <font size=4 color=#40c0c0> �V�����l���ɏj������</font>
+<font size=2>[363]</font> <font size=4 color=#40c0c0> 新しい人生に祝福あれ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/17 (��) 01:09:50 <strong>��</strong> <a href="mailto:shibuya@dd.iij4u.or.jp">�a�J@�Ƃ���</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307174010950&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307174010950"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/17 (木) 01:09:50 <strong>▽</strong> <a href="mailto:shibuya@dd.iij4u.or.jp">渋谷@家から</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307174010950_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200307174010950"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#cc88ff">&gt; �ł����̖ꂳ��A�ނ��Ⴍ����|�W�e�B�u�V���L���O�Ȃ��</font><br>
+<font size=3 color=#606060><font color="#cc88ff">&gt; でもこの爺さん、むちゃくちゃポジティブシンキングなんで</font><br>
 <br>
-�����B���������Z���Y��y�n�Ɖ��Ƃ��ł��������Y�ރ^�C�v����Ȃ�����B<br>
-�ǎґS���[���̈�т������̂ł͂Ȃ��ł��傤���B</font>
+同感。失った金融資産や土地家屋とかでうじうじ悩むタイプじゃないから。<br>
+読者全員納得の一篇だったのではないでしょうか。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[362]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[362]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2003/07/16 (��) 08:24:06 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U���d��</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200307163082406&log=kayo_chan">�ԐM</a>�@�폜<input type=checkbox name="target" value="200307163082406"></font>
+<font size=3 color=#606060><strong>▽</strong> 2003/07/16 (水) 08:24:06 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200307163082406_log_kayo_chan.cgi">返信</a>　削除<input type=checkbox name="target" value="200307163082406"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���ށB���ƕٌ�m�͂܂��Ó��ȏ����ł��傤�B<br>
-�������A�܂����ꂳ��܂łƂ͂ˁB<br>
-�ł����̖ꂳ��A�ނ��Ⴍ����|�W�e�B�u�V���L���O�Ȃ�ŁA���Ԃ�\���N��ɂ͂���̏����ƉƂƂ��ăo���o���Ə��������Ȃ��Ă���悤�ȋC������̂̓��^�N�V�����ł͂���܂��B<br>
-�������A�g���ؖ��������Ă邶���B���Ԃ񉮕~�̐l�X�̋L���̏����������I�������炻�̂܂܎󂯂������̂ł́H<br>
-������ɂ��Ă��A�ʔ��������ł��B</font>
+<font size=3 color=#606060>うむ。孫と弁護士はまあ妥当な処遇でしょう。<br>
+しかし、まさか爺さんまでとはね。<br>
+でもこの爺さん、むちゃくちゃポジティブシンキングなんで、たぶん十数年後にはやり手の女実業家としてバリバリと諸事をこなしているような気がするのはワタクシだけではあるまい。<br>
+しかも、身分証明書持ってるじゃん。たぶん屋敷の人々の記憶の書き換えが終了したらそのまま受けいれられるのでは？<br>
+いずれにしても、面白かったです。</font>
 <p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="kayo_chan">
@@ -266,16 +266,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="kayo_chan">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=kayo_chan">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_kayo_chan.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

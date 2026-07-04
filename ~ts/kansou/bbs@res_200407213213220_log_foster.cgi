@@ -1,42 +1,42 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�w�����Ǘ��l�t�H�X�^�[�V���[�Y�x���z�f����</title>
+<title>『次元管理人フォスターシリーズ』感想掲示板</title>
 </head>
 <body bgcolor=#bbffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�w�����Ǘ��l�t�H�X�^�[�V���[�Y�x���z�f����</font>
+<font size=5>『次元管理人フォスターシリーズ』感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="foster">
 <input type=hidden name="nj" value="cidzNlNqdO">
 <input type=hidden name="res" value="43">
-<h4 align=center>�� �L���ԍ� 43 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 43 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ݂܂����I"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� 酉J����
-&gt; �������납�����ł��B
-&gt; �����ꌾ�ł����\�������݂܂���B
-&gt; �r�c�������E�E
-&gt; ���͌��\������������B
-&gt; �V��g���Ă����A�j���E�E�O����Ă��Ȃ��B</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読みました！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 驟雨さん
+&gt; おもしろかったです。
+&gt; ただ一言でしか表せずすみません。
+&gt; 池田屋事件・・
+&gt; 私は結構興味あったり。
+&gt; 新撰組っていうアニメ・・前やってたなぁ。</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -49,62 +49,62 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[46]</font> <font size=4 color=#40c0c0> �����z���肪�Ƃ��������܂�</font>
+<font size=2>[46]</font> <font size=4 color=#40c0c0> ご感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/24 (�y) 20:32:15 <strong>��</strong> <a href="mailto:jeeza@pure.ne.jp">���a</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407246203215&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407246203215"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/24 (土) 20:32:15 <strong>▽</strong> <a href="mailto:jeeza@pure.ne.jp">七斬</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407246203215_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200407246203215"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�݂Ȃ��܁A���ǂ݂��������܂��Ă��肪�Ƃ��������܂��B<br>
-�@����A���܂ɂ͐^���ɗ��j���̂������Ă���悤�Ɍ�����悤�Ȃ��̂������Ă݂����č��܂����B<br>
-�@�i���j���̂��������������킯�ł͂Ȃ����Ă̂��A���ł����j<br>
-�@���́w�`�a�J�b�v�x�̃L���b�`�R�s�[���f��ق̗\���҂ŕ������̂͂P�O�N�ȏ���O�ł��B<br>
-�@���܂�ɂƂ�ł��ˁ[�̂Ńt�H�X�^�[���V�F�A�[�h���[���h������Ĉȗ��A�l�^�ɂ��悤�Ƃ����Ǝv���Ă��܂����B<br>
-�@���N�m�g�j�ŐV�I�g���h���}�����ꂽ�̂͂����@��Ǝv���܂����B<br>
+<font size=3 color=#606060>　みなさま、お読みいただきましてありがとうございます。<br>
+　今回、たまには真剣に歴史ものを書いているように見えるようなものを書いてみたくて作りました。<br>
+　（歴史ものを書きたかったわけではないってのがアレですが）<br>
+　件の『〜Ｂカップ』のキャッチコピーを映画館の予告編で聞いたのは１０年以上も前です。<br>
+　あまりにとんでもねーのでフォスターがシェアードワールド化されて以来、ネタにしようとずっと思っていました。<br>
+　今年ＮＨＫで新選組がドラマ化されたのはいい機会だと思いました。<br>
 <br>
-<font color="#ff88cc">��酉J����</font><br>
-�@�ʔ��������ł����B���肪�Ƃ��������܂��B<br>
-�@�r�c�������ɂ��Ă͂��̓W�J�ɂ��낢���������̂Œ��ׂ�Ɩʔ����ł���B<br>
-<font color="#ff88cc">�������W�S�Q�U�������</font><br>
-�@���͂��̖�������`�̂ق��͈�،��Ă܂���B�ǂ�ł����܂���B<br>
-�@�����Č��Ȃ��悤�ɂ��Ă��܂����B<br>
-<font color="#ff88cc">����ǐ�����</font><br>
-�@�����B�W���[���u���C�h�ł��ȁB<br>
-�@�r�c���Ղ͍��p�`���R�����ƕ����܂������A�Ȃ�قǁB�O�̓}�N�h����������ł��ˁB<br>
+<font color="#ff88cc">＞驟雨さん</font><br>
+　面白かったですか。ありがとうございます。<br>
+　池田屋事件についてはその展開にいろいろ説があるので調べると面白いですよ。<br>
+<font color="#ff88cc">＞ｍｋ８４２６＠自宅さん</font><br>
+　じつはかの幕末純情伝のほうは一切見てません。読んでもいません。<br>
+　あえて見ないようにしていました。<br>
+<font color="#ff88cc">＞雅良生さん</font><br>
+　おお。ジューンブライドですな。<br>
+　池田屋跡は今パチンコ屋だと聞きましたが、なるほど。前はマクドがあったんですね。<br>
 <br>
-�@�ł́A�t�H�X�^�[�͂܂����̂������e����̂ŋC����������ǂ�ł݂Ă��������B</font>
+　では、フォスターはまたそのうち投稿するので気が向いたら読んでみてください。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[45]</font> <font size=4 color=#40c0c0> �ō��ɖʔ��������ł�</font>
+<font size=2>[45]</font> <font size=4 color=#40c0c0> 最高に面白かったです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/22 (��) 13:19:51 <strong>��</strong> <a href="mailto:garyosei@agate.plala.or.jp">��ǐ�</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407224131951&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407224131951"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/22 (木) 13:19:51 <strong>▽</strong> <a href="mailto:garyosei@agate.plala.or.jp">雅良生</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407224131951_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200407224131951"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ō��ɖʔ��������ł��B�Ɠ��ƌ�������Ƃ����r�c���P���̂U���U����I��Ŏ����������������ł����A���܂��Ɍ���̃}�N�h�i���h�i�܂��ʂ̓X�ɑւ����������j�ɑ����^�񂾂��Ƃ͂���܂���B�m�g�j�̑�̓h���}�ł́A�u�i�q�V���������v�����l�^�ɂ��Ă���悤�ł����A���{�莛���������l�^�Ƃ���Ȃ炱��ŗǂ��Ǝv���܂���B</font>
+<font size=3 color=#606060>最高に面白かったです。家内と結婚するときも池田屋襲撃の６月６日を選んで式を挙げた私たちですが、いまだに現場のマクドナルド（また別の店に替わったかしら）に足を運んだことはありません。ＮＨＫの大河ドラマでは、「永倉新八聞き書」を元ネタにしているようですが、西本願寺資料を元ネタとするならこれで良いと思いますよ。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[44]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[44]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/22 (��) 01:10:03 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407224011003&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407224011003"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/22 (木) 01:10:03 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407224011003_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200407224011003"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������̓t�H�X�^�[�i���j�B<br>
-�������₻��ȍ�i������܂����˂��i�΁j�B<br>
-�i�m���f����E�E�E�j<br>
-���͐E��œd�b���r�؂ꂽ���ɂ�������ǂ�ŏ΂������ݎE���Ă��������W�S�Q�U�ł����i�j���j�B</font>
+<font size=3 color=#606060>さすがはフォスター（爆）。<br>
+そういやそんな作品もありましたねぇ（笑）。<br>
+（確か映画も・・・）<br>
+実は職場で電話が途切れた時にこっそり読んで笑いをかみ殺していたｍｋ８４２６でした（核爆）。</font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
 </td></tr></table>
@@ -112,18 +112,18 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[43]</font> <font size=4 color=#40c0c0> �ǂ݂܂����I</font>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> 読みました！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/21 (��) 21:32:20 <strong>��</strong> <a href="mailto:gensan@k8.dion.ne.jp">酉J</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407213213220&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407213213220"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/21 (水) 21:32:20 <strong>▽</strong> <a href="mailto:gensan@k8.dion.ne.jp">驟雨</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407213213220_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200407213213220"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�������납�����ł��B<br>
-�����ꌾ�ł����\�������݂܂���B<br>
-�r�c�������E�E<br>
-���͌��\������������B<br>
-�V��g���Ă����A�j���E�E�O����Ă��Ȃ��B<br>
+<font size=3 color=#606060>おもしろかったです。<br>
+ただ一言でしか表せずすみません。<br>
+池田屋事件・・<br>
+私は結構興味あったり。<br>
+新撰組っていうアニメ・・前やってたなぁ。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -131,61 +131,61 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[42]</font> <font size=4 color=#40c0c0> �w�U�E�t���b�O�E�I�u�E�V���T�[�e�B�x��ǂނɂ͉��̃����N���N���b�N�B</font>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> 『ザ・フラッグ・オブ・シンサーティ』を読むには下のリンクをクリック。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/07/21 (��) 17:54:32 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200407213175432&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200407213175432"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/07/21 (水) 17:54:32 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200407213175432_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200407213175432"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z �����A���̏u�ԁA���j�͓������̂��I<br>
+<font size=3 color=#606060>【推薦文】 そう、この瞬間、歴史は動いたのだ！<br>
 <br>
-<a href=http://ts.novels.jp/novel/corrector/foster16.html target=_top>http://ts.novels.jp/novel/corrector/foster16.html</a></font>
+<a href="../../novel/corrector/foster16.html" target=_top>http://ts.novels.jp/novel/corrector/foster16.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[41]</font> <font size=4 color=#40c0c0> �����z���肪�Ƃ��������܂�</font>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> ご感想ありがとうございます</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/11 (��) 21:03:49 <strong>��</strong> ���J�H�v </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405112210349&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405112210349"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/11 (火) 21:03:49 <strong>▽</strong> 水谷秋夫 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405112210349_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200405112210349"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�悵��������<br>
-<font color="#ff88cc">������͂�A����́A���З��j�w�҂ɓǂ܂������j���ł��ˁB�O�O�j</font><br>
+<font size=3 color=#606060>よしおかさん<br>
+<font color="#ff88cc">＞いやはや、これは、ぜひ歴史学者に読ませたい史実ですね。＾＾）</font><br>
 <br>
-�΂��ēǂ�ł����΂�����ł����ǂˁi��΁j�B<br>
+笑って読んでくれればいいんですけどね（苦笑）。<br>
 <br>
-�i�E�e����<br>
-<font color="#ff88cc">���t�H�X�^�[�E�V���[�Y�ƕ������Ă��Ȃ���A���̏u�Ԃ܂Ńt�H�X�^�[�̑��݂�Y��Ă܂����B</font><br>
+Ｊ・Ｆさん<br>
+<font color="#ff88cc">＞フォスター・シリーズと分かっていながら、その瞬間までフォスターの存在を忘れてました。</font><br>
 <br>
-���肪�Ƃ��������܂��B<br>
-�ЂƂ�ł������ǂ�ł��ꂽ�l��������听���Ǝv���܂��B<br>
+ありがとうございます。<br>
+ひとりでもそう読んでくれた人がいたら大成功と思います。<br>
 <br>
-�����W�S�Q�U����<br>
-<font color="#ff88cc">�����������l�^������܂����ȁ����M������</font><br>
+ｍｋ８４２６さん<br>
+<font color="#ff88cc">＞そういうネタもありましたな＞謙信女性説</font><br>
 <br>
-��������l�^���l�����킯�ł��ˁB<br>
-���͏����ł͂Ȃ������r�����珗���ɂȂ����Ƃ������Ƃɂ��悤�B�����A�M���̒킪�������ɂ��Ă邶��Ȃ����A���߂��߁A�Ƃ����]���ϊ��ł��B</font>
+そこからネタを考えたわけですね。<br>
+実は女性ではないか→途中から女性になったということにしよう。おっ、信玄の弟が討ち死にしてるじゃないか、しめしめ、という脳内変換です。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[40]</font> <font size=4 color=#40c0c0> �ǂ񂾃o�C��</font>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/10 (��) 01:20:21 <strong>��</strong> <a href="mailto:mk8426@infoseek.jp">�����W�S�Q�U������</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405101012021&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405101012021"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/10 (月) 01:20:21 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405101012021_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200405101012021"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����͂܂��E�E�E�i�΁j�B<br>
-���������l�^������܂����ȁ����M������<br>
-�������A���ς�炸�t�H�X�^�[�͓V�R�ł��Ȃ��i���j�B<br>
+<font size=3 color=#606060>これはまた・・・（笑）。<br>
+そういうネタもありましたな＞謙信女性説<br>
+しかし、相変わらずフォスターは天然ですなぁ（爆）。<br>
 </font>
 <p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
 </td></table>
@@ -194,33 +194,33 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[39]</font> <font size=4 color=#40c0c0> ���u�w�u���E�A�[�X�E�A���h�\�\�v</font>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> ＞「ヘブン・アース・アンド——」</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/09 (��) 21:54:00 <strong>��</strong> �i�E�e </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405090215400&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405090215400"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/09 (日) 21:54:00 <strong>▽</strong> Ｊ・Ｆ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405090215400_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200405090215400"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ςݖؕ����A�m���ɁB<br>
-�����V���A�X�ł���΂���قǂ̗������Ă�ł��ˁB<br>
+<font size=3 color=#606060>積み木崩し、確かに。<br>
+元がシリアスであればあるほどの落差ってやつですね。<br>
 <br>
-�t�H�X�^�[�E�V���[�Y�ƕ������Ă��Ȃ���A���̏u�Ԃ܂Ńt�H�X�^�[�̑��݂�Y��Ă܂����B</font>
+フォスター・シリーズと分かっていながら、その瞬間までフォスターの存在を忘れてました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[38]</font> <font size=4 color=#40c0c0> ����͂�A����́A���З��j�w�҂�</font>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> いやはや、これは、ぜひ歴史学者に</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/09 (��) 18:51:25 <strong>��</strong> �悵���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405090185125&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405090185125"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/09 (日) 18:51:25 <strong>▽</strong> よしおか </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405090185125_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200405090185125"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�ǂ܂������j���ł��ˁB�O�O�j<br>
-����ŁA�퍑����̓䂪�ЂƂ𖾂����B<br>
-�i���J����B����w��Ŕ��\�������΂��ł����ˁ@^^;)</font>
+<font size=3 color=#606060>読ませたい史実ですね。＾＾）<br>
+これで、戦国時代の謎がひとつ解明される。<br>
+（水谷さん。これ学会で発表したらやばいですかね　^^;)</font>
 <p><a href="http://fukuoka.cool.ne.jp/ayayakko/" target="_top">http://fukuoka.cool.ne.jp/ayayakko/</a>
 </td></table>
 </td></tr></table>
@@ -228,21 +228,21 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[37]</font> <font size=4 color=#40c0c0> �����Ǘ��l�t�H�X�^�[�E�V���[�Y�u�w�u���E�A�[�X�E�A���h�\�\�v��ǂނɂ͉��̃����N���N���b�N�I</font>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> 次元管理人フォスター・シリーズ「ヘブン・アース・アンド——」を読むには下のリンクをクリック！</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2004/05/09 (��) 10:38:14 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200405090103814&log=foster">�ԐM</a>�@�폜<input type=checkbox name="target" value="200405090103814"></font>
+<font size=3 color=#606060><strong>▽</strong> 2004/05/09 (日) 10:38:14 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200405090103814_log_foster.cgi">返信</a>　削除<input type=checkbox name="target" value="200405090103814"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�t�H�X�^�[�V���[�Y��15��i�ڂɓ˓��ł��B���ς�炸����Ă���܂���A�ށB<br>
-<a href=http://ts.novels.jp/novel/corrector/foster15.htm target=_top>http://ts.novels.jp/novel/corrector/foster15.htm</a></font>
+<font size=3 color=#606060>【推薦文】フォスターシリーズも15作品目に突入です。相変わらずやってくれますよ、彼。<br>
+<a href="../../novel/corrector/foster15.htm" target=_top>http://ts.novels.jp/novel/corrector/foster15.htm</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="foster">
@@ -250,16 +250,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="foster">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=foster">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_foster.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

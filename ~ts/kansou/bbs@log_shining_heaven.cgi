@@ -271,7 +271,7 @@ TS小説である意味があんまりないんじゃないかと。って、す
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 天爛さん初の連載は、爆裂異世界冒険譚。剣士の剣が閃き魔法少女の杖が唸る……って、あれ？<br>
-<a href=http://ts.novels.jp/novel/200607/02124625/galvan_a.htm target=_top>http://ts.novels.jp/novel/200607/02124625/galvan_a.htm</a></font>
+<a href="../../novel/200607/02124625/galvan_a.htm" target=_top>http://ts.novels.jp/novel/200607/02124625/galvan_a.htm</a></font>
 </td></table>
 </td></tr></table>
 

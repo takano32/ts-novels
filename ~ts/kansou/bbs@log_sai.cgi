@@ -106,7 +106,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 ついにレイラの真の姿が！そして新たな人物・・<br>
- <a href=http://ts.novels.jp/novel/200403/06092712/drp06.htm target=_top>http://ts.novels.jp/novel/200403/06092712/drp06.htm</a></font>
+ <a href="../../novel/200403/06092712/drp06.htm" target=_top>http://ts.novels.jp/novel/200403/06092712/drp06.htm</a></font>
 </td></table>
 </td></tr></table>
 
@@ -230,7 +230,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】 長編ものが２つ。作者様はご多忙の中奮戦です！<br>
- <a href=http://ts.novels.jp/novel/200405/08101227/the&#95;half&#95;wing01.htm target=_top>http://ts.novels.jp/novel/200405/08101227/the&#95;half&#95;wing01.htm</a></font>
+ <a href="../../novel/200405/08101227/the_half_wing01.htm" target=_top>http://ts.novels.jp/novel/200405/08101227/the&#95;half&#95;wing01.htm</a></font>
 </td></table>
 </td></tr></table>
 

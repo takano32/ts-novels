@@ -92,7 +92,7 @@ RPG（といっても、個人携帯のロケット推進式榴弾のことで�
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】１年半のブランクを経て、驟雨さんが天使たちとともに帰ってきました。<br>
 異空間での戦いはますます熾烈を極める……優とゼロ、そして愛美たちの運命は！？<br>
-<a href=http://ts.novels.jp/novel/200401/04203552/angel_h08.html target=_top>http://ts.novels.jp/novel/200401/04203552/angel_h08.html</a></font>
+<a href="../../novel/200401/04203552/angel_h08.html" target=_top>http://ts.novels.jp/novel/200401/04203552/angel_h08.html</a></font>
 </td></table>
 </td></tr></table>
 

@@ -1,40 +1,40 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-<title>�l�n�m�c�n��i�@���z�f����</title>
+<title>ＭＯＮＤＯ作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�l�n�m�c�n��i�@���z�f����</font>
+<font size=5>ＭＯＮＤＯ作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="mondo">
 <input type=hidden name="nj" value="lPkBe6AjtX">
 <input type=hidden name="res" value="11">
-<h4 align=center>�� �L���ԍ� 11 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 11 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�ǂ񂾂ł�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� �V���E����
-&gt; �����I�v�X�������ł��ȁI�i�C�X�ɏ΂��܂����I
-&gt; �o�����^�C���̘b�̏�����Z��͕�e�����������肵����ł����ˁH��������Ƃ������̂ǂ�ȁE�E�E�i�΁j
-&gt; �{�҂̑������y���݂ɂ��Ă��܂��I</textarea><br>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:読んだです"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ シュウさん
+&gt; おぉ！久々さおりんですな！ナイスに笑えました！
+&gt; バレンタインの話の女美川兄弟は母親からもらったりしたんですかね？もらったとしたら一体どんな・・・（笑）
+&gt; 本編の続きも楽しみにしています！</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div align=left>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -47,54 +47,54 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[17]</font> <font size=4 color=#40c0c0> ���Ԏ��x���Ȃ�܂����B</font>
+<font size=2>[17]</font> <font size=4 color=#40c0c0> お返事遅くなりました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/08/23 (��) 21:17:27 <strong>��</strong> <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200208235211727&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200208235211727"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/08/23 (金) 21:17:27 <strong>▽</strong> <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200208235211727_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200208235211727"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B���Ԏ����x���Ȃ��Ă��܂��Đ\���󂠂�܂���ł����B<br>
-<font color="#ff88cc">����֐����[�J���ȃl�^��ł���, �ǂ��ɂ�������ł���?!(�{���Ƀ��J���}�Z��) �����Ă�������.</font><br>
-�@���`��A���������΁u���{�g���v�Ŋ֐��l�^�Ƃ����΁A���܍��D���u�Ȃ�ł�ˁ`��v�Ɗ֐��قɂȂ����肷����x�ł��ˁB<br>
-�@�Ⴆ�΁A����Ȃ̂͂ǂ��ł����H<br>
+<font size=3 color=#606060>　ＭＯＮＤＯです。お返事が遅くなってしまって申し訳ありませんでした。<br>
+<font color="#ff88cc">＞｢関西ローカルなネタ｣ですが, どこにあったんですか?!(本当にワカリマセン) 教えてください.</font><br>
+　う〜ん、そういえば「ロボトラ」で関西ネタといえば、時折沙織が「なんでやね〜ん」と関西弁になったりする程度ですね。<br>
+　例えば、こんなのはどうですか？<br>
 <br>
-�ق̂��u�ˁ`������ł�`�����肿��`����i���D�����j�v<br>
-���D�u�c�c�c�c�́A�͂��c�c�i�N�����A�����Ɏ����܂����̂͂��I�I�j�v<br>
-�ق̂��u�������`���A����łȂ��`���A�����ƈ��ނ��`���I�i�ǂڂǂڂ��j�v<br>
-���D�u���`������ȂɈ��߂邩���A�I���͉��˂Ȃ񂾂��I�I�v<br>
-�ق̂��u�c�c�c�c�I���H�v<br>
-���D�u�i���c�c���܂����j�����H�@�ȁA�Ȃ��ɁH�@�ق̂�����H�v<br>
-�ق̂��u�c�c���񂽖{���ɍ��D�����H�i���ڂ������j�v<br>
-���D�u���A������񂠂����͍��D�您�ققققق��v<br>
-�ق̂��u�c�c���Ⴀ�̂��āi�������Ȃ��j�v<br>
-���D�u�ւ��H�v<br>
-�ق̂��u�{���̍��D�����́`���A�֐��o�g������`���A���͖S���w�p���Z�X�x�̂������̂���̂���I�I�@�c�c�������`���`���`���I�i���������������j�v<br>
-���D�u�Ђ����������������`���I�I�v<br>
+ほのか「ね〜ぇ飲んでる〜さおりちゃ〜んっ（←泥酔中）」<br>
+沙織「…………は、はい……（誰だっ、こいつに酒飲ませたのはっ！！）」<br>
+ほのか「うそぉ〜っ、飲んでない〜っ、もっと飲むぅ〜っ！（どぼどぼっ）」<br>
+沙織「だ〜っこんなに飲めるかっ、オレは下戸なんだっ！！」<br>
+ほのか「…………オレ？」<br>
+沙織「（し……しまった）えっ？　な、なあに？　ほのかさん？」<br>
+ほのか「……あんた本当に沙織ちゃん？（←目がすわる）」<br>
+沙織「も、もちろんあたしは沙織よおほほほほほっ」<br>
+ほのか「……じゃあ歌って（←脈絡なし）」<br>
+沙織「へっ？」<br>
+ほのか「本物の沙織ちゃんは〜っ、関西出身だから〜っ、今は亡き『パル〇ス』のうたが歌えるのよっ！！　……さぁう〜た〜え〜っ！（がくがくがくっ）」<br>
+沙織「ひいいいいいいいい〜っ！！」<br>
 <br>
-<font color="#ff88cc">���������̈�Ԃ̃c�{�͐��_�I�ɂ͂����܂Œj�̎q�ł��葱����Ƃ���ł��ˁB<br>
-���t�����͂���ς�ō��ł��B�i���݂��݁j</font><br>
-�@���肪�Ƃ��������܂��s�n�l����B<br>
-�@���ꂩ�������΂�܂���ŁA�ǂ�����낵���B</font>
+<font color="#ff88cc">＞さおりんの一番のツボは精神的にはあくまで男の子であり続けるところですね。<br>
+＞可逆っ娘はやっぱり最高です。（しみじみ）</font><br>
+　ありがとうございますＴＯＭさん。<br>
+　これからもがんばりますんで、どうぞよろしく。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[16]</font> <font size=4 color=#40c0c0> �y�����G����܂����i�΁j</font>
+<font size=2>[16]</font> <font size=4 color=#40c0c0> 楽しく萌えれました（笑）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/28 (��) 17:39:15 <strong>��</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207280173915&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207280173915"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/28 (日) 17:39:15 <strong>▽</strong> <a href="mailto:vyx02541@nifty.com">TOM</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207280173915_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207280173915"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�����y������i�A���肪�Ƃ��������܂��B<br>
-�������̈�Ԃ̃c�{�͐��_�I�ɂ͂����܂Œj�̎q�ł��葱����Ƃ���ł��ˁB<br>
-�t�����͂���ς�ō��ł��B�i���݂��݁j<br>
-���ɃT���^�o�[�W�����͂���10�t���炢���������ł��B<br>
+<font size=3 color=#606060>　いつも楽しい作品、ありがとうございます。<br>
+さおりんの一番のツボは精神的にはあくまで男の子であり続けるところですね。<br>
+可逆っ娘はやっぱり最高です。（しみじみ）<br>
+特にサンタバージョンはご飯10杯くらいいけそうです。<br>
 <br>
-�ł��A�G�ނ����ɂ��G���Ă��܂������^�V���Ĉ�́c�i�����j<br>
+でも、萌奈ちゃんにも萌えてしまったワタシって一体…（自爆）<br>
 <br>
 <br>
 </font>
@@ -104,16 +104,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[15]</font> <font size=4 color=#40c0c0> Re:���z���肪�Ƃ��������܂����B</font>
+<font size=2>[15]</font> <font size=4 color=#40c0c0> Re:感想ありがとうございました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/24 (��) 22:31:42 <strong>��</strong> <a href="mailto:wondermd@anet.ne.jp">���K\</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207243223142&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207243223142"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/24 (水) 22:31:42 <strong>▽</strong> <a href="mailto:wondermd@anet.ne.jp">メガ\</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207243223142_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207243223142"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� �l�n�m�c�n����<br>
-<font color="#cc88ff">&gt; �@�O���̕��ɂ́A�u���Z�p���働�{�b�g�v��u�֐����[�J���ȃl�^�v�Ƃ����̂͂ǂ̂悤�Ɋ�������̂ł��傤���H�@�܂��A�@�����΋����Ă��������B</font><br>
-�� �Ȃ�ƌ������c�l�^���{�b�g��L�������R���ő��삷��̂͂����������I���Ɗ����܂���. �ł�������Z��ɂȂ�Ə������ۂ��Ȃ�܂���(�܂�����Ȃ��̂͂���܂��񂩂�). �������������Ō�����f�ނł���, ��ȃe�[�}�ɂȂ��Ă���̂͂Ȃ��Ȃ��Ȃ������̂ł�������Ȃ����Ǝv���Ă��܂�. �����Ģ�֐����[�J���ȃl�^��ł���, �ǂ��ɂ�������ł���?!(�{���Ƀ��J���}�Z��) �����Ă�������.</font>
+<font size=3 color=#606060>▼ ＭＯＮＤＯさん<br>
+<font color="#cc88ff">&gt; 　外国の方には、「競技用巨大ロボット」や「関西ローカルなネタ」というのはどのように感じられるのでしょうか？　また、機会があれば教えてください。</font><br>
+→ なんと言うか…人型ロボットを有線リモコンで操作するのはすごく現実的だと感じました. ですが｢競技｣になると小説っぽいなりますね(まだそんなものはありませんから). あっちこっちで見られる素材ですが, 主なテーマになっているのはなかなかなかったのでいいじゃないかと思っています. そして｢関西ローカルなネタ｣ですが, どこにあったんですか?!(本当にワカリマセン) 教えてください.</font>
 <p><div align=left><a href="http://user.chollian.net/~wondermd/" target="_top">http://user.chollian.net/~wondermd/</a></div>
 </td></table>
 </td></tr></table>
@@ -121,96 +121,96 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[14]</font> <font size=4 color=#40c0c0> ���z���肪�Ƃ��������܂����B</font>
+<font size=2>[14]</font> <font size=4 color=#40c0c0> 感想ありがとうございました。</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/24 (��) 20:51:02 <strong>��</strong> <a href="mailto:nasuka@df.mbn.or.jp">�l�n�m�c�n</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207243205102&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207243205102"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/24 (水) 20:51:02 <strong>▽</strong> <a href="mailto:nasuka@df.mbn.or.jp">ＭＯＮＤＯ</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207243205102_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207243205102"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�@�l�n�m�c�n�ł��B�u�������Ύ��L�c�c�̑����i�΁j�v�������ł������H<br>
-�@�y����ł��������āA�ƂĂ��������ł��B<br>
+<font size=3 color=#606060>　ＭＯＮＤＯです。「さおりん歳時記……の続き（笑）」いかがでしたか？<br>
+　楽しんでいただけて、とても嬉しいです。<br>
 <br>
-<font color="#ff88cc">������[�A�������G�ߋG�߂ł����ȃl�^���������ł��ˁB�ō��B<br>
-�����̂܂܌���������񂪂łĂ�����E�E�E���܂��񂩁H�l�n�m�c�n����H</font><br>
+<font color="#ff88cc">＞いやー、しかし季節季節でいろんなネタがあるもんですね。最高。<br>
+＞このまま月刊さおりんがでてきたり・・・しませんか？ＭＯＮＤＯさん？</font><br>
 <br>
-�@�ق�Ƃɂ����ł��ˁB�Ă����ł��L�����v��C�����A�ԉΑ��A���Ղ�A���Z�싅�A�����X��X�C�J�̑��H�����c�c�ȂǁA���낢��v�����܂��B<br>
-�@�����������ł����c�c�c�c�������i���j�B<br>
+　ほんとにそうですね。夏だけでもキャンプや海水浴、花火大会、お祭り、高校野球、かき氷やスイカの早食い大会……など、いろいろ思いつきます。<br>
+　月刊さおりんですか…………ううう（汗）。<br>
 <br>
-<font color="#ff88cc">�����A�ЂƂ��Ƃ��������΃l�^�̒����Ƃ�����肮�炢���ȁB<br>
-��������Ƃ������c���ꂽ�������E�E�E</font><br>
+<font color="#ff88cc">＞あ、ひとことだけ言えばネタの調整という問題ぐらいかな。<br>
+＞ちょっとだけ取り残された部分が・・・</font><br>
 <br>
-�@�o�����^�C���̂�����ł��傤���H<br>
-�@�m���ɂ�����ƒ��r���[�����B<br>
+　バレンタインのくだりでしょうか？<br>
+　確かにちょっと中途半端かも。<br>
 <br>
-<font color="#ff88cc">���u���{�s�q�x�v�ɕ������ăL�����A���܂��������H</font><br>
+<font color="#ff88cc">＞「ロボＴＲＹ」に舞香ってキャラ、いましたっけ？</font><br>
 <br>
-�@�V�R�����͏��q���{�s�q�x���̕����ŁA�T�C�R�o�X�i�΁j���w���o�C���P����ɂ��o����Ԃ�i�H�j���̖��ł��B<br>
-�@�|�W�V�����́u�{�P�v�S���B�����ȁi�c�c�j�Y�݂͕n���Ȃ��ƁB<br>
-�@���D��A�����Ɠ����̖^�A�C�h���̂悤�ɂ������ȋ��ɂȂ肽�������ł��i�΁j�B<br>
+　新山舞香は女子ロボＴＲＹ部の部員で、サイコバス（笑）小学生出海正輝くんにお姉さんぶる（？）あの娘です。<br>
+　ポジションは「ボケ」担当。密かな（……）悩みは貧乳なこと。<br>
+　沙織や、自分と同名の某アイドルのようにおっきな胸になりたいそうです（笑）。<br>
 <br>
-<font color="#ff88cc">���������Ȃ���ǂ݂܂����B���������ɖ{�҂��A�b�v�f�[�g�ł���Ȃ炢���ł��ˁB<br>
-�����҂��Ă܂��I</font><br>
+<font color="#ff88cc">＞感動しながら読みました。早いうちに本編もアップデートできるならいいですね。<br>
+＞期待してます！</font><br>
 <br>
-�@���肪�Ƃ��������܂��B<br>
-�@�O���̕��ɂ́A�u���Z�p���働�{�b�g�v��u�֐����[�J���ȃl�^�v�Ƃ����̂͂ǂ̂悤�Ɋ�������̂ł��傤���H�@�܂��A�@�����΋����Ă��������B<br>
+　ありがとうございます。<br>
+　外国の方には、「競技用巨大ロボット」や「関西ローカルなネタ」というのはどのように感じられるのでしょうか？　また、機会があれば教えてください。<br>
 <br>
-<font color="#ff88cc">���C���X�g�����ς��ŁA�Ƃ��Ă����؁`���Ďv���܂����B<br>
-���������͕��i�����{�[�C�b�V��(?)�ł����ȁ[�Ǝv�����ĒÂł���܂����B<br>
-���l�I�ɍD���Ȃ̂͗��w�ȁE�E�E���ĈႤ�B���t�Ȋi�D�������������ł��B</font><br>
+<font color="#ff88cc">＞イラストいっぱいで、とっても豪華〜って思いました。<br>
+＞さおりんは普段着がボーイッシュ(?)でいいなーと思った米津でありました。<br>
+＞個人的に好きなのは裸婦な・・・って違う。ラフな格好をしたさおりんです。</font><br>
 <br>
-�@�����ł���A�L�����b�g�B�c�c�T�X�y���_�[�ɋC�������Ă܂��i�H�j�B<br>
-�@�{���̓������G���ƖG�ނ����̃C���X�g���������̂ł����A���������Ⴂ�܂����B<br>
+　いいでしょ、キュロット。……サスペンダーに気合入ってます（？）。<br>
+　本当はモリモエこと萌奈ちゃんのイラストもあったのですが、見送っちゃいました。<br>
 <br>
-<font color="#ff88cc">��������R�c�́c�c���͂≽�ł�����A�ł��������[��������ꂿ�Ⴄ�Ƃ��낪�f�G�����ł��ˁB<br>
-����Q�f���œǂ�ł鎞�́A�N���X�}�X�̘b�ŕ����ɂق�����Ă��܂�����B��{�I�ɖʓ|���̂����z�ł͂���܂��ˁA���ꂪ����̂��߂ɂȂ��Ă��邩�͂Ƃ�����(��)�B<br>
-���c�c�Ȃɂ��Ɂu�ؓ�����܁v�������l�ɂȂ��Ă��܂��񂩁H</font><br>
+<font color="#ff88cc">＞女美川軍団は……もはや何でもあり、でも無理やり納得させられちゃうところが素敵すぎですね。<br>
+＞第２掲示板で読んでる時は、クリスマスの話で部長にほだされてしまったり。基本的に面倒見のいい奴ではありますね、それが相手のためになっているかはともかく(笑)。<br>
+＞……なにげに「筋肉だるま」がいい人になっていませんか？</font><br>
 <br>
-�@���`��A�����ł��܂��������܂ő剻������Ƃ͎v���Ă����܂���ł����B<br>
-�@�ԊO�҂䂦�́u���ł�����v�Ȗʂ�����ł��傤���A�L�������u�����i�H�j�v���Ă�����ł��ˁB<br>
+　う〜ん、自分でもまさかここまで大化けするとは思っても見ませんでした。<br>
+　番外編ゆえの「何でもあり」な面もあるでしょうが、キャラも「成長（？）」していくんですね。<br>
 <br>
-<font color="#ff88cc">���o�����^�C���̘b�̏�����Z��͕�e�����������肵����ł����ˁH��������Ƃ������̂ǂ�ȁE�E�E</font><br>
+<font color="#ff88cc">＞バレンタインの話の女美川兄弟は母親からもらったりしたんですかね？もらったとしたら一体どんな・・・</font><br>
 <br>
-�@�����炭�A�u��̈��v�Ƃ��`���ꂽ�A�ǂł�������`���R�ł��傤�B<br>
-�@�������̈����o���݂����ɁA����Ă�����悤�ȗނ̂�i�΁j�B<br>
+　おそらく、「母の愛」とか描かれた、どでかい手作りチョコでしょう。<br>
+　結婚式の引き出物みたいに、貰っても困るような類のやつ（笑）。<br>
 <br>
-�@���݁A���}�g����剉�̂d�w�|�S�ƁA���D���������̍�҂��܂̃L�����N�^�[�ƃR���|���[�V��������u�������Ƃ�т�[�Ɓi���j�v�𕽍s���ď����Ă��܂��B<br>
-�@�����҂��������B�����āA���ꂩ�����낵���B<br>
-�i�u���T��R�i���v���_�}�C�N���o�Ă����Ƃ��͂т����肵���B<br>
-�@�c�c�ł��ʂ肷����B�����Ɨ��߂�X�g�[���[�Ɂ`�j</font>
+　現在、ヤマトくん主演のＥＸ−４と、沙織たちが他の作者さまのキャラクターとコラポレーションする「さおりんとりびゅーと（仮）」を平行して書いています。<br>
+　ご期待ください。そして、これからもよろしく。<br>
+（「名探偵コナン」に濱マイクが出てきたときはびっくりした。<br>
+　……でも通りすがり。もっと絡めよストーリーに〜）</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[13]</font> <font size=4 color=#40c0c0> �ǂ݂܂���(^^)</font>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 読みました(^^)</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/23 (��) 20:53:53 <strong>��</strong> ��������[ </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207232205353&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207232205353"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/23 (火) 20:53:53 <strong>▽</strong> よっすぃー </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207232205353_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207232205353"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�v�X�̐V��B�y���܂��Ē����܂����B<br>
-���{�g���͎������ɂ̂q�n�l���n�߂����������̍�i�ł��B���҂��ǂ����ǁA�Ύ��L�̂悤�Ɍ��̗͂𔲂����A�V���[�g�X�g�[���[�����삪��R�����Ă������̂ł��ˁB<br>
-�Ƃ���Łc�c�Ȃɂ��Ɂu�ؓ�����܁v�������l�ɂȂ��Ă��܂��񂩁H</font>
+<font size=3 color=#606060>久々の新作。楽しませて頂きました。<br>
+ロボトラは私が文庫のＲＯＭを始めたきっかけの作品です。長編も良いけど、歳時記のように肩の力を抜いた、ショートストーリーも佳作が沢山あっていいものですね。<br>
+ところで……なにげに「筋肉だるま」がいい人になっていませんか？</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[12]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/22 (��) 22:04:37 <strong>��</strong> BAF </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207221220437&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207221220437"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/22 (月) 22:04:37 <strong>▽</strong> BAF </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207221220437_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207221220437"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���x�ǂݕԂ��Ă��F�򂹂Ȃ����b�΂���ōō��Ɋy���܂��Ă��������܂����B<br>
-����[�A�΂����΂����܂��Ɏ����ł��ˁB<br>
+<font size=3 color=#606060>何度読み返しても色褪せないお話ばかりで最高に楽しませていただきました。<br>
+いやー、笑った笑ったまさに至高ですね。<br>
 <br>
-�S���r�[���Y�͂�͂萫�]���򖡂Ƃ���������ϐg���ł���̂ł��傤���H�i�O�O�j<br>
+百味ビーンズはやはり性転換薬味とかだったら変身もできるのでしょうか？（＾＾）<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -218,67 +218,67 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[11]</font> <font size=4 color=#40c0c0> �ǂ񂾂ł�</font>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 読んだです</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/22 (��) 17:14:27 <strong>��</strong> �V���E </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207221171427&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207221171427"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/22 (月) 17:14:27 <strong>▽</strong> シュウ </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207221171427_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207221171427"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�����I�v�X�������ł��ȁI�i�C�X�ɏ΂��܂����I<br>
-�o�����^�C���̘b�̏�����Z��͕�e�����������肵����ł����ˁH��������Ƃ������̂ǂ�ȁE�E�E�i�΁j<br>
-�{�҂̑������y���݂ɂ��Ă��܂��I</font>
+<font size=3 color=#606060>おぉ！久々さおりんですな！ナイスに笑えました！<br>
+バレンタインの話の女美川兄弟は母親からもらったりしたんですかね？もらったとしたら一体どんな・・・（笑）<br>
+本編の続きも楽しみにしています！</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[10]</font> <font size=4 color=#40c0c0> �G�̊��z�E�E�E�i������ƊG�̊��z���������Ƃɋ����j</font>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> 絵の感想・・・（ちょっと絵の感想を書くことに怯えつつ）</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 23:39:30 <strong>��</strong> �m�C���i�d�g�d���j </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207210233930&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210233930"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 23:39:30 <strong>▽</strong> ノイン（電波妖精） </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207210233930_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210233930"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ύ��L�̊G�E�E�E<br>
-�l�I�ɍD���Ȃ̂͗��w�ȁE�E�E���ĈႤ�B���t�Ȋi�D�������������ł��B<br>
-�Ō�̂�ł��ˁB<br>
+<font size=3 color=#606060>歳時記の絵・・・<br>
+個人的に好きなのは裸婦な・・・って違う。ラフな格好をしたさおりんです。<br>
+最後のやつですね。<br>
 <br>
-�p����̊G�͕����܂��Ƀ��{�s�q�x���Ċ����ł����Ǝv���܂��B<br>
-�l�I�ɂ͔��̂�`�炩�������������Ɨ~�����������ȁB<br>
-�f�l�ڂŌ��Č����邱�Ƃ͂���Ȃ���ł��B��Q�l�ɂ��Ă�����Ȃ�����</font>
+角さんの絵は服がまさにロボＴＲＹって感じでいいと思います。<br>
+個人的には肌のや〜らかさがもうちっと欲しかったかな。<br>
+素人目で見て言えることはこんなもんです。一参考にしておくんなっせ♪</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[9]</font> <font size=4 color=#40c0c0> �������Ύ��L�c�c�̑���</font>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> さおりん歳時記……の続き</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 20:50:41 <strong>��</strong> �Ē� </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207210205041&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210205041"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 20:50:41 <strong>▽</strong> 米津 </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207210205041_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210205041"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��Q�f���œǂ�ł鎞�́A�N���X�}�X�̘b�ŕ����ɂق�����Ă��܂�����B��{�I�ɖʓ|���̂����z�ł͂���܂��ˁA���ꂪ����̂��߂ɂȂ��Ă��邩�͂Ƃ�����(��)�B<br>
-�܂��A�����̘b�͒u���Ƃ��āA�������͕��i�����{�[�C�b�V��(?)�ł����ȁ[�Ǝv�����ĒÂł���܂����B</font>
+<font size=3 color=#606060>第２掲示板で読んでる時は、クリスマスの話で部長にほだされてしまったり。基本的に面倒見のいい奴ではありますね、それが相手のためになっているかはともかく(笑)。<br>
+まあ、部長の話は置いといて、さおりんは普段着がボーイッシュ(?)でいいなーと思った米津でありました。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[8]</font> <font size=4 color=#40c0c0> �ǂ݂܂���</font>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> 読みました</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2002/07/21 (��) 03:46:02 <strong>��</strong> <a href="mailto:wondermd@anet.ne.jp">���K\</a> </font></td>
-<td nowrap align=left><font size=3>�@<a href="bbs.cgi?res=200207210034602&log=mondo">�ԐM</a>�@�폜<input type=checkbox name="target" value="200207210034602"></font>
+<font size=3 color=#606060><strong>▽</strong> 2002/07/21 (日) 03:46:02 <strong>▽</strong> <a href="mailto:wondermd@anet.ne.jp">メガ\</a> </font></td>
+<td nowrap align=left><font size=3>　<a href="bbs@res_200207210034602_log_mondo.cgi">返信</a>　削除<input type=checkbox name="target" value="200207210034602"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>����́c�v���Ԃ�̏��q���{�g���C���ł͂���܂���!<br>
-�������Ȃ���ǂ݂܂����B���������ɖ{�҂��A�b�v�f�[�g�ł���Ȃ炢���ł��ˁB<br>
-���҂��Ă܂��I<br>
+<font size=3 color=#606060>これは…久しぶりの女子ロボトライ部ではありませんか!<br>
+感動しながら読みました。早いうちに本編もアップデートできるならいいですね。<br>
+期待してます！<br>
 </font>
 <p><div align=left><a href="http://user.chollian.net/~wondermd/" target="_top">http://user.chollian.net/~wondermd/</a></div>
 </td></table>
@@ -286,7 +286,7 @@ link<input type=checkbox name="link" value="1" checked>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="mondo">
@@ -294,16 +294,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="mondo">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=mondo">�X�V</a>] [<a href="http://ts.novels.jp/">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_mondo.cgi">更新</a>] [<a href="../../index.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>

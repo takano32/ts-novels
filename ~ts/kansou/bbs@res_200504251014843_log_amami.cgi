@@ -1,62 +1,62 @@
 <html><head>
-<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <META name="robots" content="noindex,nofollow">
-<title>�������������i�@���z�f����</title>
+<title>奄美平次さん作品　感想掲示板</title>
 </head>
 <body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
 <div align=left>
-<font size=5>�������������i�@���z�f����</font>
+<font size=5>奄美平次さん作品　感想掲示板</font>
 <table cellpadding=4 cellspacing=0><tr><td align=left>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="write">
 <input type=hidden name="log" value="amami">
 <input type=hidden name="nj" value="HKUR36mMZR">
 <input type=hidden name="res" value="141">
-<h4 align=center>�� �L���ԍ� 141 �ւ̕ԐM ��</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
-���O <input type=text name="name" size=45 value="" maxlength=64><br>
+<h4 align=center>▽ 記事番号 141 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
 E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
 URL <input type=text name="url" size=45 value="" maxlength=200><br>
 </td></tr>
 <tr><td align=left nowrap>
-���e �_ �薼 <input type=text name="subject" size=45 maxlength=80 value="Re:�A�����܂�"><br>
-<textarea name="value" rows=5 cols=80 wrap=soft>�� ����������
-&gt; ���Ԃ�A�݂�ȐS�̉��ł��O�������܂������Ă񂾂�
-&gt; �����Ă݂�Ȏ����̍앗��ǂ����߂āA���l�̊��z�ɂ����������悭�悵��
-&gt; �����͍H�v�����̂ɂ��ĂƂ���ے肳�ꂽ��A����ŏ����̂߂�ǂ������Ƃ�
-&gt; ����ł��Ō�܂ŏ����Ȃ���Ƃ�
-&gt; ��Ȃ��ƂŉE�������΂��݂ā|�ɐU�镑���Ă�̂�
-&gt; ���܂��������������Ȃ̊֌W�Ȃ��ɂ��񂪂��i���������Ă������Ⴄ�񂾂���
-&gt; ���t�Ă̂͋��L�Ƃ����@�\�ʈȊO�ł����l�����񂾂�
-&gt; ������ǂ̌��ꂪ��Ԉ̂��Ă̂��Ȃ�
-&gt; ���̌���ЂƂЂƂ����l������
-&gt; ���O�̏������̌��t�́A�����̂��߂̌��t����Ȃ��Ǝv��
-&gt; �ł����܂����O������Ă�̂��Ȃ�
-&gt; �Ȃ炻��͉����݂����ȏ����̂��߂̌��t���Ђ��������Đ^��������K�����悤�Ƃ����芮���ɂ��Ȃ��Ă�z
-&gt; ���������̂Ƃ͈Ⴄ���l������񂾂낤�Ȃ���
-&gt; �Ȃ񂩕]�_���Ɍ����΃e�N�X�g�Ƃ�������
-&gt; ���O�̏����̒��̌��t�����łȂ��A�����Ԋu�Ƃ��������������I�Ȃ��̂��������O���咣���Ă���
-&gt; ����͉����ɂƂ��Đ����A�܂����āA���炢�炷��
-&gt; �����畁�ʂ͖����ł���͂��Ȃ̂ɁA�݂�Ȋ��z�������܂�
-&gt; ����Ӗ������ɂ���z�݂�Ȃ��O��̧݂���
-&gt; ���O�ɂ��������t�����Ă��܂���
-&gt; �����C�����ꂿ�܂��񂾂�
-&gt; �܂����̊��z�͂��񂭂炢��
-&gt; ���O�̏����Ƃ����s�����̂��̂Ƃ����e�N�X�g�������𐦂��h���U���
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:連投すまん"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ たけしさん
+&gt; たぶん、みんな心の奥でお前をうらやましがってんだよ
+&gt; だってみんな自分の作風を追い求めて、他人の感想にいちいちくよくよして
+&gt; ここは工夫したのにってとこを否定されたり、それで書くのめんどくせぇとか
+&gt; それでも最後まで書かなきゃとか
+&gt; んなことで右往左往ばかみて−に振る舞ってんのに
+&gt; おまえったらもうそんなの関係なしにがんがん作品書きあげていっちゃうんだもん
+&gt; 言葉てのは共有という機能面以外でも価値をもつんだよ
+&gt; だからどの言語が一番偉いてのもない
+&gt; その言語ひとつひとつが価値をもつんだ
+&gt; お前の小説内の言葉は、小説のための言葉じゃないと思う
+&gt; でもうまくお前を語ってんのかなて
+&gt; ならそれは俺等みたいな小説のための言葉をひっしこいて真似したり習得しようとしたり完璧にこなせてる奴
+&gt; そういうのとは違う価値があるんだろうなって
+&gt; なんか評論風に言えばテクストとか言うの
+&gt; お前の小説の中の言葉だけでなく、書く間隔とかそういう総合的なものが強くお前を主張している
+&gt; それは俺等にとって凄く羨ましくて、いらいらする
+&gt; だから普通は無視できるはずなのに、みんな感想書いちまう
+&gt; ある意味ここにいる奴みんなお前のﾌｧﾝだよ
+&gt; お前にもう引き付けられてたまらんの
+&gt; ついつい気を取られちまうんだよ
+&gt; まあ俺の感想はこんくらいだ
+&gt; お前の書くという行動そのものというテクストが俺等を凄く揺さ振るんだ
 &gt; 
-&gt; �e�N�X�g�̈Ӗ�����˂����ǂȂ�</textarea><br>
+&gt; テクストの意味しらねえけどなｗ</textarea><br>
 pre<input type=checkbox name="pre" value="1"> 
 link<input type=checkbox name="link" value="1" checked> 
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="��������"><input type=reset value="��������"><br></td></tr></table>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
 </td></tr></table><br>
 </form>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� ���e�ɍŒ���K�v�ȍ��ڂ́A���O�Ɠ��e�ł�.<br>�� �폜�L�[��ݒ肷�邱�ƂŁA�����̓��e�����L�����폜/�C�����邱�Ƃ��ł��܂�.<br>�� ���O�L��������ɂ��āu�������ށv���������ƂŃN�b�L�[�������ł��܂�.<br>�� �薼�Ɠ��e����ɂ��āu�������ށv���������ƂŃN�b�L�[���Ĕ��s�ł��܂�.<br></font>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
 </td></table><br>
 </div><p><hr size=4 noshade>
 <div>
 <table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
-<strong>�V����</strong> 1 �� 10 <strong>�ő�L�^�ێ���</strong> 100 <!-- ���s���� 0.000 CPU�b --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> ��3���ȓ��̋L��)</small>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
 </td></tr></table>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="mode" value="remove">
@@ -69,29 +69,29 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[145]</font> <font size=4 color=#40c0c0> ���|��</font>
+<font size=2>[145]</font> <font size=4 color=#40c0c0> お−い</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/05/31 (��) 23:49:42 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200505312234942&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200505312234942"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/05/31 (火) 23:49:42 <strong>▽</strong> たけし </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200505312234942_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200505312234942"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>��₩���ɗ���<br>
-�V��͂܂����H<br>
+<font size=3 color=#606060>冷やかしに来た<br>
+新作はまだか？<br>
 <br>
-������ۂɂȂ肽���Ȃ�w�Ԃ��Ƃ���<br>
-�����̐��E�����瑼�l�ɏ����Ȃ��ች���ł��ˁ|��<br>
-���܂Ƃ����-̎�����������Ƃ��邩�H<br>
-��l�ɏ��̂ł��������̓w�͂����������<br>
-����ɂ��Ă���͎̂����Ɠ����\�͂����l�Ԃ������<br>
-�����߂ɂ͂ǂ������炢����<br>
-�_���w��ŁA�Z���w��ŁA�Ђ�����P�����āA�킸���ȍ��ł����ʂ������˂�<br>
-�܂肻�ꂾ���̍��������邩���Ă��Ƃ����<br>
-�����̽��قłƂ������āA�_��Z�p���w�ڂ��Ƃ��Ȃ��Ȃ�˔\�ȑO�̖�肾���<br>
-���̂��߂ɂ͂P�ł��P�O�ł��A���Ƃ��\�P�O�O���Ƃ��Ă��w�ׂ邾���̂��Ƃ��w�Ԋo�傪�K�v��<br>
-���ꂾ���w��œł��h�{���z�����񂾂��ƁA����Ɛ^���������Ă���񂾂�<br>
-�{�C�Ȃ炻�ꂾ������Ƃ�<br>
-�Ȃ�ƂȂ��ڎw���Ă�Ȃ�d���Ƃ��ی������Ƃ�<br>
+あとﾌﾟﾛになりたいなら学ぶことだな<br>
+競争の世界だから他人に勝たなきゃ何もできね−よ<br>
+喧嘩とかｽﾎﾟ-ﾂの試合やったことあるか？<br>
+一人に勝つのでさえ相当の努力を強いられるよ<br>
+相手にしているのは自分と同じ能力をもつ人間だからな<br>
+勝つためにはどうしたらいいか<br>
+論を学んで、技を学んで、ひたすら訓練して、わずかな差でだしぬくしかねぇ<br>
+つまりそれだけの根性があるかってことだわな<br>
+自分のｽﾀｲﾙでとか言って、論や技術を学ぼうとしないなら才能以前の問題だわな<br>
+そのためには１でも１０でも、たとえ—１００だとしても学べるだけのことを学ぶ覚悟が必要さ<br>
+それだけ学んで毒も栄養も吸い込んだあと、やっと真実が見えてくるんだば<br>
+本気ならそれだけやっとけ<br>
+なんとなく目指してるなら仕事とか保険かけとけ<br>
 <br>
 </font>
 </td></table>
@@ -100,45 +100,45 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[144]</font> <font size=4 color=#40c0c0> Re:�A�����܂�</font>
+<font size=2>[144]</font> <font size=4 color=#40c0c0> Re:連投すまん</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/26 (��) 20:31:43 <strong>��</strong> �������� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504262203143&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504262203143"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/26 (火) 20:31:43 <strong>▽</strong> 奄美平次 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504262203143_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200504262203143"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�� ����������<br>
-<font color="#cc88ff">&gt; ���Ԃ�A�݂�ȐS�̉��ł��O�������܂������Ă񂾂�<br>
-&gt; �����Ă݂�Ȏ����̍앗��ǂ����߂āA���l�̊��z�ɂ����������悭�悵��<br>
-&gt; �����͍H�v�����̂ɂ��ĂƂ���ے肳�ꂽ��A����ŏ����̂߂�ǂ������Ƃ�<br>
-&gt; ����ł��Ō�܂ŏ����Ȃ���Ƃ�<br>
-&gt; ��Ȃ��ƂŉE�������΂��݂ā|�ɐU�镑���Ă�̂�<br>
-&gt; ���܂��������������Ȃ̊֌W�Ȃ��ɂ��񂪂��i���������Ă������Ⴄ�񂾂���<br>
-&gt; ���t�Ă̂͋��L�Ƃ����@�\�ʈȊO�ł����l�����񂾂�<br>
-&gt; ������ǂ̌��ꂪ��Ԉ̂��Ă̂��Ȃ�<br>
-&gt; ���̌���ЂƂЂƂ����l������<br>
-&gt; ���O�̏������̌��t�́A�����̂��߂̌��t����Ȃ��Ǝv��<br>
-&gt; �ł����܂����O������Ă�̂��Ȃ�<br>
-&gt; �Ȃ炻��͉����݂����ȏ����̂��߂̌��t���Ђ��������Đ^��������K�����悤�Ƃ����芮���ɂ��Ȃ��Ă�z<br>
-&gt; ���������̂Ƃ͈Ⴄ���l������񂾂낤�Ȃ���<br>
-&gt; �Ȃ񂩕]�_���Ɍ����΃e�N�X�g�Ƃ�������<br>
-&gt; ���O�̏����̒��̌��t�����łȂ��A�����Ԋu�Ƃ��������������I�Ȃ��̂��������O���咣���Ă���<br>
-&gt; ����͉����ɂƂ��Đ����A�܂����āA���炢�炷��<br>
-&gt; �����畁�ʂ͖����ł���͂��Ȃ̂ɁA�݂�Ȋ��z�������܂�<br>
-&gt; ����Ӗ������ɂ���z�݂�Ȃ��O��̧݂���<br>
-&gt; ���O�ɂ��������t�����Ă��܂���<br>
-&gt; �����C�����ꂿ�܂��񂾂�<br>
-&gt; �܂����̊��z�͂��񂭂炢��<br>
-&gt; ���O�̏����Ƃ����s�����̂��̂Ƃ����e�N�X�g�������𐦂��h���U���</font><br>
+<font size=3 color=#606060>▼ たけしさん<br>
+<font color="#cc88ff">&gt; たぶん、みんな心の奥でお前をうらやましがってんだよ<br>
+&gt; だってみんな自分の作風を追い求めて、他人の感想にいちいちくよくよして<br>
+&gt; ここは工夫したのにってとこを否定されたり、それで書くのめんどくせぇとか<br>
+&gt; それでも最後まで書かなきゃとか<br>
+&gt; んなことで右往左往ばかみて−に振る舞ってんのに<br>
+&gt; おまえったらもうそんなの関係なしにがんがん作品書きあげていっちゃうんだもん<br>
+&gt; 言葉てのは共有という機能面以外でも価値をもつんだよ<br>
+&gt; だからどの言語が一番偉いてのもない<br>
+&gt; その言語ひとつひとつが価値をもつんだ<br>
+&gt; お前の小説内の言葉は、小説のための言葉じゃないと思う<br>
+&gt; でもうまくお前を語ってんのかなて<br>
+&gt; ならそれは俺等みたいな小説のための言葉をひっしこいて真似したり習得しようとしたり完璧にこなせてる奴<br>
+&gt; そういうのとは違う価値があるんだろうなって<br>
+&gt; なんか評論風に言えばテクストとか言うの<br>
+&gt; お前の小説の中の言葉だけでなく、書く間隔とかそういう総合的なものが強くお前を主張している<br>
+&gt; それは俺等にとって凄く羨ましくて、いらいらする<br>
+&gt; だから普通は無視できるはずなのに、みんな感想書いちまう<br>
+&gt; ある意味ここにいる奴みんなお前のﾌｧﾝだよ<br>
+&gt; お前にもう引き付けられてたまらんの<br>
+&gt; ついつい気を取られちまうんだよ<br>
+&gt; まあ俺の感想はこんくらいだ<br>
+&gt; お前の書くという行動そのものというテクストが俺等を凄く揺さ振るんだ</font><br>
 &gt;<br>
-<font color="#cc88ff">&gt; �e�N�X�g�̈Ӗ�����˂����ǂȂ�</font><br>
+<font color="#cc88ff">&gt; テクストの意味しらねえけどなｗ</font><br>
 <br>
-���낢�돑���Ē������̂ł����A�|�W�e�B�u�ɂ͍l���Ă��܂�<br>
-���������{�E�ɂ�����������ł����A�󂠂��ď�������i��<br>
-���e���邱�Ƃ����ł����A�ŏ��͂�߂Ă��܂��������v������<br>
-������܂����B���������Ă��邤���ɂ��������ɏ������܂��<br>
-�悤�w�͂͂��Ă��܂���܂��������Ԃ������邩������܂���<br>
-������i�Ƃ��Ă݂Ă��炦��悤�ȍ�i�𓊍e�������Ǝv���Ă��܂�<br>
+いろいろ書いて頂いたのですが、ポジティブには考えています<br>
+ただこれを本職にしたかったんですが、訳あって書いた作品を<br>
+投稿することしかできず、最初はやめてしまおうかも思うこと<br>
+もありました。書き続けているうちにいい方向に書き込まれる<br>
+よう努力はしています｡まだ少し時間がかかるかもしれません<br>
+いい作品としてみてもらえるような作品を投稿したいと思っています<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -149,152 +149,152 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[142]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/25 (��) 11:28:22 <strong>��</strong> �ʂ肷���� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504251112822&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504251112822"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/25 (月) 11:28:22 <strong>▽</strong> 通りすがり </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504251112822_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200504251112822"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060><font color="#ff88cc">������������</font><br>
-�Ȃ񂩂��Ȃ��̃J�L�R�ɂ�����ƃW�[���Ɨ����Ⴂ�܂����B<br>
+<font size=3 color=#606060><font color="#ff88cc">＞たけしさん</font><br>
+なんかあなたのカキコにちょっとジーンと来ちゃいました。<br>
 <br>
-���Ȃ݂ɁA������������B���͑O����A���Ȃ��̂��́A�Ȃ񂿂�[���A�\����������ǁA�앗���D���ł��B<br>
-�ǂ�œ��e�𗝉�����͓̂���̂ł����ǂˁA�ł��A���ꂪ�Ȃ�[���A�ǂ��ł��B<br>
-�������ꂽ��i���ǂ݂�����΃v���̏�������������ǂ�ł���Ηǂ��̂ł����āA������`���K�v�͂Ȃ��Ȃ��ł�����B<br>
-�v����ł���A�Ȃ񂩂����̊��z���ċZ�p�I�Ȏw�E������l�����������āA���ꂪ�������Ƃ��Ƃ͉]��Ȃ����ǁA���̂����ŁA���\�C�ɓ�������i�������Ă�����҂��񂪂��̑����������Ă���Ȃ��Ȃ邱�Ƃ����X�L������ŁA����ł������͎₵���v��������Ȃ�Ă��Ƃ��ˁA���Ȃ��Ȃ���ł���B<br>
-�Ȃ񂩔����݂����ȁA�[����s�݂����Ȃ��Ƃ΂��������Ă��߂�Ȃ����B</font>
+ちなみに、奄美平次さん。私は前から、あなたのその、なんちゅーか、表現が難しいけど、作風が好きです。<br>
+読んで内容を理解するのは難しいのですけどね、でも、それがなんつーか、良いです。<br>
+完成された作品が読みたければプロの書いた物だけを読んでいれば良いのであって、ここを覗く必要はなくなる訳ですから。<br>
+思うんですよ、なんかここの感想板って技術的な指摘をする人が凄く多くて、それが悪いことだとは云わないけど、そのお蔭で、結構気に入った作品を書いてくれる作者さんがその続きを書いてくれないなることも多々有った訳で、それでこっちは寂しい思いをするなんてこともね、少なくない訳ですわ。<br>
+なんか板汚しみたいな、つーか愚痴みたいなことばっか書いてごめんなさい。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[141]</font> <font size=4 color=#40c0c0> �A�����܂�</font>
+<font size=2>[141]</font> <font size=4 color=#40c0c0> 連投すまん</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/25 (��) 01:48:43 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504251014843&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504251014843"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/25 (月) 01:48:43 <strong>▽</strong> たけし </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504251014843_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200504251014843"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���Ԃ�A�݂�ȐS�̉��ł��O�������܂������Ă񂾂�<br>
-�����Ă݂�Ȏ����̍앗��ǂ����߂āA���l�̊��z�ɂ����������悭�悵��<br>
-�����͍H�v�����̂ɂ��ĂƂ���ے肳�ꂽ��A����ŏ����̂߂�ǂ������Ƃ�<br>
-����ł��Ō�܂ŏ����Ȃ���Ƃ�<br>
-��Ȃ��ƂŉE�������΂��݂ā|�ɐU�镑���Ă�̂�<br>
-���܂��������������Ȃ̊֌W�Ȃ��ɂ��񂪂��i���������Ă������Ⴄ�񂾂���<br>
-���t�Ă̂͋��L�Ƃ����@�\�ʈȊO�ł����l�����񂾂�<br>
-������ǂ̌��ꂪ��Ԉ̂��Ă̂��Ȃ�<br>
-���̌���ЂƂЂƂ����l������<br>
-���O�̏������̌��t�́A�����̂��߂̌��t����Ȃ��Ǝv��<br>
-�ł����܂����O������Ă�̂��Ȃ�<br>
-�Ȃ炻��͉����݂����ȏ����̂��߂̌��t���Ђ��������Đ^��������K�����悤�Ƃ����芮���ɂ��Ȃ��Ă�z<br>
-���������̂Ƃ͈Ⴄ���l������񂾂낤�Ȃ���<br>
-�Ȃ񂩕]�_���Ɍ����΃e�N�X�g�Ƃ�������<br>
-���O�̏����̒��̌��t�����łȂ��A�����Ԋu�Ƃ��������������I�Ȃ��̂��������O���咣���Ă���<br>
-����͉����ɂƂ��Đ����A�܂����āA���炢�炷��<br>
-�����畁�ʂ͖����ł���͂��Ȃ̂ɁA�݂�Ȋ��z�������܂�<br>
-����Ӗ������ɂ���z�݂�Ȃ��O��̧݂���<br>
-���O�ɂ��������t�����Ă��܂���<br>
-�����C�����ꂿ�܂��񂾂�<br>
-�܂����̊��z�͂��񂭂炢��<br>
-���O�̏����Ƃ����s�����̂��̂Ƃ����e�N�X�g�������𐦂��h���U���<br>
+<font size=3 color=#606060>たぶん、みんな心の奥でお前をうらやましがってんだよ<br>
+だってみんな自分の作風を追い求めて、他人の感想にいちいちくよくよして<br>
+ここは工夫したのにってとこを否定されたり、それで書くのめんどくせぇとか<br>
+それでも最後まで書かなきゃとか<br>
+んなことで右往左往ばかみて−に振る舞ってんのに<br>
+おまえったらもうそんなの関係なしにがんがん作品書きあげていっちゃうんだもん<br>
+言葉てのは共有という機能面以外でも価値をもつんだよ<br>
+だからどの言語が一番偉いてのもない<br>
+その言語ひとつひとつが価値をもつんだ<br>
+お前の小説内の言葉は、小説のための言葉じゃないと思う<br>
+でもうまくお前を語ってんのかなて<br>
+ならそれは俺等みたいな小説のための言葉をひっしこいて真似したり習得しようとしたり完璧にこなせてる奴<br>
+そういうのとは違う価値があるんだろうなって<br>
+なんか評論風に言えばテクストとか言うの<br>
+お前の小説の中の言葉だけでなく、書く間隔とかそういう総合的なものが強くお前を主張している<br>
+それは俺等にとって凄く羨ましくて、いらいらする<br>
+だから普通は無視できるはずなのに、みんな感想書いちまう<br>
+ある意味ここにいる奴みんなお前のﾌｧﾝだよ<br>
+お前にもう引き付けられてたまらんの<br>
+ついつい気を取られちまうんだよ<br>
+まあ俺の感想はこんくらいだ<br>
+お前の書くという行動そのものというテクストが俺等を凄く揺さ振るんだ<br>
 <br>
-�e�N�X�g�̈Ӗ�����˂����ǂȂ�</font>
+テクストの意味しらねえけどなｗ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[140]</font> <font size=4 color=#40c0c0> ��</font>
+<font size=2>[140]</font> <font size=4 color=#40c0c0> あ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/25 (��) 01:21:51 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504251012151&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504251012151"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/25 (月) 01:21:51 <strong>▽</strong> たけし </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504251012151_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200504251012151"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�o�J�ɂ��Ă�킯����˂���<br>
-�Ȃ񂩂��O�͂��O�̍�i����葱���Ă�񂾂ȂĎv��������<br>
-�Ȃ�|�����O�̍�i�͖{�����O�̂��Ċ����ŕ��͂Ƃ��ɂ����O�炵����������<br>
-����͈�ʓI�ȏ����Ƃ��Ă݂�Έ����Ă��A���O�̍�i�ƌ���΂��̗B�ꐫ���m�ۂ���Ă�񂾂�<br>
-���͏��������̂�߂��܂������A���������鍪�����Ȃ����A�����Ȃ��������A�I�����Ȃ�����<br>
-�����炨�O�����O�̍�i�����������āA�������񏑂������Ă�̂����ꂵ�����Ă�<br>
-�ŉ����͂���Ȃ��O�ɋ��ɂ����Ȃ��A�h�o�C�X�⒍�ӂ����Ă�킯��<br>
-�ł����ǂ��O�̍�i�đ��ς�炸���O�Ȃ񂾂��<br>
-���ꂪ�΂��āA�΂����Ă��܂�˂���<br>
-�ŁA�������킯��<br>
-����΂���Č������͎̂�������<br>
-�����Ă���΂�ƌ����Ă������ȂƂ����Ă�����Ȃ��Ɗ֌W�����ɂ��O����������񂾂���<br>
-��������Ȃ����܂�</font>
+<font size=3 color=#606060>バカにしてるわけじゃねぇよ<br>
+なんかお前はお前の作品を作り続けてるんだなて思っただけ<br>
+なんつ−かお前の作品は本当お前のって感じで文章とかにもお前らしさがあって<br>
+それは一般的な小説としてみれば悪くても、お前の作品と見ればその唯一性が確保されてるんだよ<br>
+俺は小説書くのやめちまったし、書き続ける根性もないし、個性もなかったし、巧くもなかった<br>
+だからお前がお前の作品を書き続けて、たくさん書き続けてるのがうれしくってな<br>
+で俺等はそんなお前に愚にもつかないアドバイスや注意をしてるわけよ<br>
+でも結局お前の作品て相変わらずお前なんだよな<br>
+それが笑えて、可笑しくてたまんねぇの<br>
+で、嬉しいわけよ<br>
+がんばれって言ったのは取り消すわ<br>
+だってがんばれと言っても書くなといってもそんなこと関係無しにお前書き続けるんだもん<br>
+すげぇよなｗおまえ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[139]</font> <font size=4 color=#40c0c0> ���|��</font>
+<font size=2>[139]</font> <font size=4 color=#40c0c0> う−ん</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/25 (��) 01:10:09 <strong>��</strong> ������ </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504251011009&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504251011009"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/25 (月) 01:10:09 <strong>▽</strong> たけし </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504251011009_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200504251011009"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�Ȃ񂩑��ς�炸����Ȃ�<br>
-����ł�����������̂͐����Ƃ������Ȃ�Ƃ�����<br>
-�m���ɓ˂����݂��ꂽ���Ȃ�قǓǂ݂ɂ������͂Ȃ񂾂��<br>
-�׼�̗��ɏ����Ƃ��݂�����<br>
+<font size=3 color=#606060>なんか相変わらずだよなｗ<br>
+それでも書き続けるのは凄いというかなんというか<br>
+確かに突っ込みいれたくなるほど読みにくい文章なんだよな<br>
+ﾁﾗｼの裏に書いとけみたいな<br>
 <br>
-�܂��ł��A�����U�X�����Ă�������<br>
-���������Ă�̂͂���ς�������<br>
-����f�̊��z<br>
-���������z�ĉ��ɂ��掹�i�S�Ƃ����낢�닭���񂾂�<br>
-�����牺��ȍ�i����Ɛ����o�J�ɂ������Ȃ邵��<br>
-�܂��A�������������킩��Ȃ��Ȃ�������<br>
-�Ȃ񂩐��Ȃ��Ă�̂��킩��Ȃ����ǁA���ς�炸�Ƃ��₠���ς�炸�ȕ��͏����Ă邨�܂�<br>
-��œ������΂��蒍�ӂ��Ă鉴��<br>
-�ǂ����Ƃ��������ł����Ƃ��炵������Ă邯��<br>
-�S�̏X���͂悭�l����Ɠ������<br>
-������C�̍ςނ܂ŏ�����<br>
-���ꂪ����<br>
-���܂��̏������邽�т܂������Ă�̂��Ǝv��������<br>
-����A�悭�킩��Ȃ����Ǎ��͏����Ă������񂶂�ˁH�Ċ���<br>
-�����悭�킩��˂��S��<br>
-�����炻�̂܂܂P�O�O�b�ł��Q�O�O�b�ł��������܂���<br>
-�Ȃ񂩓ǂދC�Ƃ��͋N���Ȃ����ǁA����œǂޓz������<br>
-����ł����񂶂�Ȃ���<br>
-�����ǂ݂ɂ����̂����������w�E������A������肻��܂܂������悗<br>
-�悭�킩��˂�<br>
-����΂ꂗ</font>
+まあでも、俺も散々言ってきたけど<br>
+書き続けてるのはやっぱすげぇわ<br>
+これ素の感想<br>
+小説書く奴て何にせよ嫉妬心とかいろいろ強いんだわ<br>
+だから下手な作品見ると凄くバカにしたくなるしな<br>
+まあ、何言いたいかわかんなくなったけど<br>
+なんか推敲してるのかわからないけど、相変わらずといやあ相変わらずな文章書いてるおまえ<br>
+んで同じ事ばかり注意してる俺等<br>
+どっちともしたり顔でもっともらしく語ってるけど<br>
+心の醜さはよく考えると同じだ罠<br>
+だから気の済むまで書けや<br>
+それがいい<br>
+おまえの小説見るたびまだ書いてるのかと思ったけど<br>
+うん、よくわかんないけど今は書いてもいいんじゃね？て感じ<br>
+俺もよくわかんねぇ心境<br>
+だからそのまま１００話でも２００話でも書いちまえよ<br>
+なんか読む気とかは起きないけど、それで読む奴もいる<br>
+それでいいんじゃないか<br>
+もう読みにくいのもいちいち指摘するより、直すよりそんままがいいよｗ<br>
+よくわかんねｗ<br>
+がんばれｗ</font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[138]</font> <font size=4 color=#40c0c0> �w�C�܂܂ȃT���O���X�@�ŏI�́x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[138]</font> <font size=4 color=#40c0c0> 『気ままなサングラス　最終章』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/04/25 (��) 00:05:00 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200504251000500&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200504251000500"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/04/25 (月) 00:05:00 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200504251000500_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200504251000500"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�����Ɩ@���͗��ɏo��B�����āA���̃T���O���X�̏��������߂�B<br>
+<font size=3 color=#606060>【推薦文】彰正と法香は旅に出る。そして、あのサングラスの処分を決める。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200307/27055454/glass04.html target=_top>http://ts.novels.jp/novel/200307/27055454/glass04.html</a></font>
+<a href="../../novel/200307/27055454/glass04.html" target=_top>http://ts.novels.jp/novel/200307/27055454/glass04.html</a></font>
 </td></table>
 </td></tr></table>
 
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[137]</font> <font size=4 color=#40c0c0> ��݂܃�</font>
+<font size=2>[137]</font> <font size=4 color=#40c0c0> よみまΘ</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/23 (��) 22:04:34 <strong>��</strong> <a href="mailto:gensan@k8.dion.ne.jp">kanao-�i���������[���j</a> </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502233220434&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502233220434"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/23 (水) 22:04:34 <strong>▽</strong> <a href="mailto:gensan@k8.dion.ne.jp">kanao-（金糸雀おーか）</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502233220434_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200502233220434"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���̏�����ǂޏ�ŁA���Ȃ�l���������܂��B<br>
-�ł����A����́A�u���ꂪ���ꂩ��ǂ��Ȃ��Ă����̂��낤�v�ƌ������ɑz�������炷�̂ł͂Ȃ��A�u�����͂ǂ̂悤�ɓǂ񂾂炢���̂��낤�H�v�ƌ����l���������Ԃ̂ł��B�X�g�[���[�͌����Ĉ�������܂��񂪁A���͑S�̂�ʂ��Ăǂ����Ȃ����Ă��Ȃ�������A�ǂޑ��̋C�������l���ĂȂ������肵�Ă��܂��񂩁H<br>
-��҂͂��ꂼ��̔]���Ńr�W���������点�ĕ���𕶏͂ɂ��Ă����̂ł����A����͂����܂Ŏ����̒��ŁA�̂��ƁB�ǂސl�ɂƂ��Ă͑S�����m�̐��E�ɑ��𓥂ݓ���Ă����킯�ł�����A�u�����͂����Ȃ̂ɂȂ�Ŕ����Ă���Ȃ��񂾁v�ȂǂƂ����A��ґ��̈ӌ��͐�΂ɒʂ�Ȃ����Ƃ��o���Ă��������B<br>
+<font size=3 color=#606060>この小説を読む上で、かなり考えさせられます。<br>
+ですが、それは、「物語がこれからどうなっていくのだろう」と言う風に想像を巡らすのではなく、「ここはどのように読んだらいいのだろう？」と言う考えが浮かぶのです。ストーリーは決して悪くありませんが、文章全体を通してどこかつながっていなかったり、読む側の気持ちを考えてなかったりしていませんか？<br>
+作者はそれぞれの脳内でビジョンを巡らせて物語を文章にしていくのですが、それはあくまで自分の中で、のこと。読む人にとっては全く未知の世界に足を踏み入れていくわけですから、「ここはこうなのになんで判ってくれないんだ」などという、作者側の意見は絶対に通らないことを覚えてください。<br>
 </font>
 </td></table>
 </td></tr></table>
@@ -302,16 +302,16 @@ link<input type=checkbox name="link" value="1" checked>
 <hr size=1 noshade width=95%>
 
 <table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
-<font size=2>[136]</font> <font size=4 color=#40c0c0> �w�C�܂܂ȃT���O���X�@��R�́x��ǂނɂ́A���̃����N���N���b�N</font>
+<font size=2>[136]</font> <font size=4 color=#40c0c0> 『気ままなサングラス　第３章』を読むには、下のリンクをクリック</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/02/23 (��) 19:55:41 <strong>��</strong> �^�c�ψ� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200502233195541&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200502233195541"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/02/23 (水) 19:55:41 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200502233195541_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200502233195541"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>�y���E���z�������ϐg���������l�̏��̎q�B���̐��̂̃q���g�͐̂̃A���o���̒��ɂ������B<br>
+<font size=3 color=#606060>【推薦文】彰正が変身するもう一人の女の子。その正体のヒントは昔のアルバムの中にあった。<br>
 <br>
-<a href=http://ts.novels.jp/novel/200307/27055454/glass03.html target=_top>http://ts.novels.jp/novel/200307/27055454/glass03.html</a></font>
+<a href="../../novel/200307/27055454/glass03.html" target=_top>http://ts.novels.jp/novel/200307/27055454/glass03.html</a></font>
 </td></table>
 </td></tr></table>
 
@@ -321,17 +321,17 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=2>[135]</font> <font size=4 color=#40c0c0> Re:-- No Subject --</font>
 </td></table>
 <table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
-<font size=3 color=#606060><strong>��</strong> 2005/01/14 (��) 21:26:14 <strong>��</strong> �������� </font></td>
-<td nowrap align=right><font size=3>�@<a href="bbs.cgi?res=200501145212614&log=amami">�ԐM</a>�@�폜<input type=checkbox name="target" value="200501145212614"></font>
+<font size=3 color=#606060><strong>▽</strong> 2005/01/14 (金) 21:26:14 <strong>▽</strong> 奄美平次 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs@res_200501145212614_log_amami.cgi">返信</a>　削除<input type=checkbox name="target" value="200501145212614"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>���肪�Ƃ��������܂��A�ЂƂ��ꂼ��̊��x������Ǝv���܂��B</font>
+<font size=3 color=#606060>ありがとうございます、ひとそれぞれの感度があると思います。</font>
 </td></table>
 </td></tr></table>
 
 <hr size=4 noshade>
 <p><table cellpadding=2 cellspacing=0><tr>
-<td align=center nowrap>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="page" value="11">
 <input type=hidden name="log" value="amami">
@@ -339,16 +339,16 @@ link<input type=checkbox name="link" value="1" checked>
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="condit" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
 <form method=POST action="bbs.cgi">
 <input type=hidden name="log" value="amami">
-<td nowrap>������ <input type=text name="search" value="" size=15>
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=amami">�X�V</a>] [<a href="http://ts.novels.jp/library.html">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs@log_amami.cgi">更新</a>] [<a href="../../library.html">終了</a>]</font></strong></td>
 </tr></table><p>
 <table border=0 cellpadding=4 cellspacing=0><td>
-<font color=#608080>�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^�����������Ƃō폜���ł��܂�.<br>�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br></font>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
 </td></table></div><br>
 </div>
 <br>
