@@ -1,0 +1,396 @@
+<html><head>
+<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+
+<title>ＯＬＳＯＮさん作品　感想掲示板</title>
+</head>
+<body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
+<div align=left>
+<font size=5>ＯＬＳＯＮさん作品　感想掲示板</font>
+<table cellpadding=4 cellspacing=0><tr><td align=left>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="mode" value="write">
+<input type=hidden name="log" value="olson">
+<input type=hidden name="nj" value="aW7AVHVfge">
+<input type=hidden name="res" value="32">
+<h4 align=center>▽ 記事番号 32 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
+E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
+URL <input type=text name="url" size=45 value="" maxlength=200><br>
+</td></tr>
+<tr><td align=left nowrap>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:掲載と感想ありがとうございます。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ OLSONさん
+&gt; 　読んでくださりありがとうございます。
+&gt; 
+&gt; ＞渋谷@家からさん
+&gt; 　＞影絵で見るとえっちでいやらしいけどほんとはそうじゃなくて…
+&gt; 規制に引っかからず無事に掲載されてよかったです。
+&gt; 
+&gt; 　＞女の子の名前辞書
+&gt; おお！　新作執筆の際は活用させて頂きます。
+&gt; 
+&gt; 
+&gt; ＞電波妖精さん
+&gt; 　＞吸血鬼ルック
+&gt; 　裏が赤地の黒マントを身に着ける吸血鬼のかっこう…？　と、思ったらなんかの登場人物のようですね。
+&gt; 
+&gt; 
+&gt; ＞矢治浩平＠サイト管理者さん
+&gt; 　＞名付辞典
+&gt; 　とりあえず、件のHPで事足りると思われます。
+&gt; 
+&gt; 
+&gt; ＞Kardyさん
+&gt; 　＞練り込まれた設定、細かい叙事描写・・・
+&gt; 　設定は…いったん書き上げてから付け足した物も多いですが…。（震災、Ｅ○Ａネタ等…）
+&gt; 　まあ、言わぬが華ですな。って、書いとるやんけ。（笑
+&gt; 
+&gt; 
+&gt; ＞メガ\さん
+&gt; 　＞まさかあずまんがとか!
+&gt; 　吸血鬼なちよちゃん…いいかも。
+&gt; 　あのマンガって、天然キャラが多いので吸血鬼化したらどうなることやら……。
+&gt; 
+&gt; 　＞やっぱりオレっ娘 バンザイ
+&gt; 　初めは千代はボクっ娘でした。秀明と一人称が重複するのでどっちが『俺』でどっちが『僕』にするか最後まで悩みました。
+&gt; 
+&gt; 
+&gt; ＞ｍｋ８４２６さん
+&gt; 　＞これはまた、重いんだか軽いんだかわかんない
+&gt; 　過去の作品もそんな傾向がありました。どうやらこれが私の作風のようです。
+&gt; 
+&gt; 　＞トマトジュース飲んでは吐き、また飲む
+&gt; 　吸血鬼が血を吸えない代償にトマトジュースを飲むってのはよくあるネタですが、それをシリアスにすると…こんなんできました。
+&gt; 　後で知りましたが代用品には赤ワインもありましたね。でも、この話にあてはめると…未成年だし本当にアル中になりかねないから洒落になりませんな。
+&gt; 
+&gt; 　＞ゆうきまさみ
+&gt; 　結城…『ゆうき』という苗字が決まったら速攻でこうなりました。
+&gt; 
+&gt; 
+&gt; ＞もぐたんさん
+&gt; 　＞それも徐々に恋心が
+&gt; 　このあたり、もっと深く掘り下げて書くべきでした。どうも唐突な感じもします。
+&gt; 
+&gt; 　では、皆さん感想ありがとうございました。</textarea><br>
+pre<input type=checkbox name="pre" value="1"> 
+link<input type=checkbox name="link" value="1" checked> 
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
+</td></tr></table><br>
+</form>
+<table border=0 cellpadding=4 cellspacing=0><td>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
+</td></table><br>
+</div><p><hr size=4 noshade>
+<div>
+<table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
+</td></tr></table>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="mode" value="remove">
+<input type=hidden name="log" value="olson">
+<input type=hidden name="page" value="1">
+<input type=hidden name="all" value="0">
+<input type=hidden name="allhits" value="0">
+<input type=hidden name="search" value="">
+<input type=hidden name="condit" value="">
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> サイトはないですが……</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/11 (水) 22:44:31 <strong>▽</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON@ありゃ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200306113224431&log=olson">返信</a>　削除<input type=checkbox name="target" value="200306113224431"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>▼ あんたが好きサさん<br>
+<font color="#cc88ff">&gt;サイトをお持ちと</font><br>
+いえ、サイトは無いです。<br>
+自分で作るの面倒だし、どうせ書くならたくさんの人に読んでもらいたいので既存の大きなサイトに送ってしまおうというアコギな考えだったりします。<br>
+<br>
+<font color="#cc88ff">&gt;男装の麗人</font><br>
+この作品はKanonのDNMLのため、原作のソフトが手元にないと読めないですが、お持ちでしたらお勧めです。<br>
+来須川DNMLホテル<br>
+ttp://www.geocities.co.jp/Playtown-Denei/9199/index2.html<br>
+にて公開。<br>
+あと、下のほうで書き込んでいるエルラ氏が、拙作がかなり気に入ってファンページを作ってくれました。(^^;<br>
+ttp://www.h4.dion.ne.jp/~tion/top.html　の掲示板のリンクから<br>
+ttp://serura.hp.infoseek.co.jp/　ここです。<br>
+こちらにてDNMLとそれらのHTML版を掲載して頂いております。<br>
+<br>
+<font color="#cc88ff">&gt; ここまで文体や雰囲気似せられるっていうのはすごいなあ。</font><br>
+確かに、シンプルな文体とキャラクターの特徴をうまく掴んでいます。<br>
+残念ながら執筆許可と最後のネタの提供の後は瓶氏との連絡が取れなくなっているので詳細は不明ですが、うまく二次創作を書ける腕前の持ち主だと思います。<br>
+<br>
+では、これからもいいネタが浮かんだらこちらに投稿したいと思います。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/11 (水) 00:22:35 <strong>▽</strong> あんたが好きサ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200306113002235&log=olson">返信</a>　削除<input type=checkbox name="target" value="200306113002235"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>おおおお、なんとレスがついてる<br>
+ていうかげげげげ、サイトをお持ちということを調べもしないで<br>
+ファンなんて片腹の痛いことを言ってすみませんでした・・・！<br>
+<br>
+男装の麗人非常にツボです<br>
+ていうかオットコ前な女の子が好きです。<br>
+ですからＴＳでなくとも・・・なんてここで言っちゃまずいか。<br>
+<br>
+続編読んできました。ここまで文体や雰囲気似せられるっていうのはすごいなあ。<br>
+ペットボトル読んで抱いた妄想を正しい方向で昇華してもらった感じです。<br>
+ありがたいやら嬉しいやら。もしお知り合いの作ならよろしくお伝えください。<br>
+<br>
+では、いつかの少年少女文庫復帰を祈りつつ、これからも頑張ってください。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> 久々に覗いてみたら……</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/08 (日) 22:04:47 <strong>▽</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON@久々</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200306080220447&log=olson">返信</a>　削除<input type=checkbox name="target" value="200306080220447"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>久々に覗いてみたら更なる感想が！<br>
+シルルさん、あんたが好きサさん、気に入っていただけて嬉しいです。<br>
+でも残念ながらTSネタは今のところネタ切れです。引退する気はないのでネタが浮かび次第執筆させていただきます。<br>
+最近発表したDNMLは……原作での男キャラが実は男装の麗人だった……という設定だからTSとはちと違うし。<br>
+<br>
+なお、拙作ペットボトルが気に入り、18禁の続編を書かせて欲しいという方が現れました。<br>
+この少年少女文庫ではポルノ不可ゆえに使えなかったネタを提供の上で、面白くまとめていただきました。<br>
+２CHの<br>
+もし理想の女性に生まれ変わったら… その4<br>
+ttp://www2.bbspink.com/test/read.cgi/eroparo/1042164477/l50にて『瓶』というハンドルにて連載されました。<br>
+更にはイラストまで描いていただきました。（残念ながらもうリンク先は流れてしまいましたが）<br>
+ここまで気に入っていただき幸せです。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/06/05 (木) 00:17:31 <strong>▽</strong> あんたが好きサ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200306054001731&log=olson">返信</a>　削除<input type=checkbox name="target" value="200306054001731"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>ペットボトル、何度読み直してもじんわり来ます。<br>
+青臭さ最高。上等。<br>
+孤独に脅えず生きていけたら、きっとそれは最高の人生だ。<br>
+<br>
+大ファンなんですが、もう引退なさったんでしょうか・・・。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> 「甲子園の魔物」読みました</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/05/22 (木) 18:16:11 <strong>▽</strong> シルル </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200305224181611&log=olson">返信</a>　削除<input type=checkbox name="target" value="200305224181611"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>誠サマがカッコ良いです！<br>
+オネーサマと呼ばせてください。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> Re2:『ペットボトル』読みました</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/16 (水) 20:37:50 <strong>▽</strong> エルラ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200210163203750&log=olson">返信</a>　削除<input type=checkbox name="target" value="200210163203750"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060><font color="#ff88cc">＞教授の返答</font><br>
+思慮の足りない発言だったと意外に素直に認めてました。<br>
+バリアフリーの発想がかけらもない校舎なので、そういう配慮に欠けるのは仕方ないのかもしれませんが……</font>
+<p><a href="http://www.h4.dion.ne.jp/~tion/top.html" target="_top">http://www.h4.dion.ne.jp/~tion/top.html</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> Re:『ペットボトル』読みました</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/12 (土) 12:38:30 <strong>▽</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200210126123830&log=olson">返信</a>　削除<input type=checkbox name="target" value="200210126123830"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>エルラさん読んでくださりどうもです。<br>
+<font color="#cc88ff">&gt;ずれたファンタジー系</font><br>
+純粋なファンタジーはあまり好きではないですがこういうのは好きです。<br>
+<font color="#cc88ff">&gt;アーカードよりはセラスやアルクの方が好きですね。</font><br>
+前者はシリアス、後者はコメディ？　元ネタは不明。<br>
+<font color="#cc88ff">&gt; 感想は……また盗作物のネタ（語弊ありすぎ）で返礼ということで。</font><br>
+新作、楽しみにしてます。<br>
+<font color="#cc88ff">&gt;ここんとこ入れ替わり系を多く目にした</font><br>
+２次創作ではありがちですからね…<br>
+<font color="#ff88cc">＞面白い漫画</font><br>
+暇ができたら読んでみます。<br>
+<font color="#cc88ff">&gt;ゆうきあずさ</font><br>
+検索してみたら……なるほど、引く人がいても仕方ないですな。<br>
+<font color="#ff88cc">＞甲子園&gt; 『健全な肉体には～～～』＞哲学</font><br>
+さて、その教授の返答が気になります。<br>
+屁理屈ぬかすな！　と激高するのか、なるほど、と反省するのか……。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[33]</font> <font size=4 color=#40c0c0> 『ペットボトル』読みました</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/11 (金) 03:44:08 <strong>▽</strong> エルラ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200210115034408&log=olson">返信</a>　削除<input type=checkbox name="target" value="200210115034408"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>ここでははじめましてエルラです。<br>
+ＯＬＳＯＮさんこっちでも活躍されていたんですね。相変わらず面白いものを……。こういうずれたファンタジー系は好きです。某雪ん子で分かると思いますが。アーカードよりはセラスやアルクの方が好きですね。<br>
+感想は……また盗作物のネタ（語弊ありすぎ）で返礼ということで。ここんとこ入れ替わり系を多く目にしたので一発やってみようかなとか考えてます。シリアス入りのギャグで。<br>
+<br>
+<font color="#ff88cc">＞面白い漫画（知ってらっしゃるかな）</font><br>
+革命の日（つだみきよ）・平成バンパイアの逆襲（浅野りん）・ミントな僕ら（吉住渉）<br>
+ＯＬＳＯＮさん、見てなかったら是非どうぞ。ここに掲載されているような作品がお好みでしたら多分受けると思いますよ。<br>
+<br>
+<font color="#ff88cc">＞ゆうきまさみ</font><br>
+某チャットで何のことか分からず「ゆうきあずさ？」と聞き返したら、「うげっ」とか言われました（笑）。そこまで嫌悪しなくても……<br>
+<br>
+<font color="#ff88cc">＞甲子園</font><br>
+『健全な肉体には～～～』とよく似たことですが、哲学の教授が『手があるから人間たるのか？　それとも人間であるゆえに手をもつのか？　諸君どう思うかレポートを提出して欲しい』と言ったときに、僕は「そんな手がない人を人間でないと定義するような質問には答えかねます」と返答しました。多数の常識的観点から発せられる言葉ほど怖いものはありません。気をつけたいものです。<br>
+<br>
+…何書いてるのかよくわからなくなりましたが、これにて失礼<br>
+</font>
+<p><a href="http://www.h4.dion.ne.jp/~tion/top.html" target="_top">http://www.h4.dion.ne.jp/~tion/top.html</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[32]</font> <font size=4 color=#40c0c0> 掲載と感想ありがとうございます。</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/06 (日) 22:19:00 <strong>▽</strong> <a href="mailto:t.kugai@d6.dion.ne.jp">OLSON</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200210060221900&log=olson">返信</a>　削除<input type=checkbox name="target" value="200210060221900"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>　読んでくださりありがとうございます。<br>
+<br>
+<font color="#ff88cc">＞渋谷@家からさん</font><br>
+　＞影絵で見るとえっちでいやらしいけどほんとはそうじゃなくて…<br>
+規制に引っかからず無事に掲載されてよかったです。<br>
+<br>
+　＞女の子の名前辞書<br>
+おお！　新作執筆の際は活用させて頂きます。<br>
+<br>
+<br>
+<font color="#ff88cc">＞電波妖精さん</font><br>
+　＞吸血鬼ルック<br>
+　裏が赤地の黒マントを身に着ける吸血鬼のかっこう…？　と、思ったらなんかの登場人物のようですね。<br>
+<br>
+<br>
+<font color="#ff88cc">＞矢治浩平＠サイト管理者さん</font><br>
+　＞名付辞典<br>
+　とりあえず、件のHPで事足りると思われます。<br>
+<br>
+<br>
+<font color="#ff88cc">＞Kardyさん</font><br>
+　＞練り込まれた設定、細かい叙事描写・・・<br>
+　設定は…いったん書き上げてから付け足した物も多いですが…。（震災、Ｅ○Ａネタ等…）<br>
+　まあ、言わぬが華ですな。って、書いとるやんけ。（笑<br>
+<br>
+<br>
+<font color="#ff88cc">＞メガ\さん</font><br>
+　＞まさかあずまんがとか!<br>
+　吸血鬼なちよちゃん…いいかも。<br>
+　あのマンガって、天然キャラが多いので吸血鬼化したらどうなることやら……。<br>
+<br>
+　＞やっぱりオレっ娘 バンザイ<br>
+　初めは千代はボクっ娘でした。秀明と一人称が重複するのでどっちが『俺』でどっちが『僕』にするか最後まで悩みました。<br>
+<br>
+<br>
+<font color="#ff88cc">＞ｍｋ８４２６さん</font><br>
+　＞これはまた、重いんだか軽いんだかわかんない<br>
+　過去の作品もそんな傾向がありました。どうやらこれが私の作風のようです。<br>
+<br>
+　＞トマトジュース飲んでは吐き、また飲む<br>
+　吸血鬼が血を吸えない代償にトマトジュースを飲むってのはよくあるネタですが、それをシリアスにすると…こんなんできました。<br>
+　後で知りましたが代用品には赤ワインもありましたね。でも、この話にあてはめると…未成年だし本当にアル中になりかねないから洒落になりませんな。<br>
+<br>
+　＞ゆうきまさみ<br>
+　結城…『ゆうき』という苗字が決まったら速攻でこうなりました。<br>
+<br>
+<br>
+<font color="#ff88cc">＞もぐたんさん</font><br>
+　＞それも徐々に恋心が<br>
+　このあたり、もっと深く掘り下げて書くべきでした。どうも唐突な感じもします。<br>
+<br>
+　では、皆さん感想ありがとうございました。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[31]</font> <font size=4 color=#40c0c0> 久々だぁ・・・・・・</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2002/10/05 (土) 19:56:09 <strong>▽</strong> もぐたん </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200210056195609&log=olson">返信</a>　削除<input type=checkbox name="target" value="200210056195609"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>久々に大満足させていただきました「ペットボトル」には。<br>
+<br>
+わたしはこういった人間の内面、それも徐々に恋心が・・とかそういうのすきなんすよ。<br>
+<br>
+であであ</font>
+</td></table>
+</td></tr></table>
+
+<hr size=4 noshade>
+<p><table cellpadding=2 cellspacing=0><tr>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="page" value="11">
+<input type=hidden name="log" value="olson">
+<input type=hidden name="all" value="0">
+<input type=hidden name="allhits" value="0">
+<input type=hidden name="search" value="">
+<input type=hidden name="condit" value="">
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="log" value="olson">
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
+<input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=olson">更新</a>] [<a href="http://ts.novels.jp/library.html">終了</a>]</font></strong></td>
+</tr></table><p>
+<table border=0 cellpadding=4 cellspacing=0><td>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
+</td></table></div><br>
+</div>
+<br>
+<h5 align=center><a href="http://www.rescue.ne.jp/" target="_top">MiniBBS v10</a> / <a href="http://hasunuma.pobox.ne.jp/" target="_top">Crocus v2.42</a> <a href="http://www.kaede.sakura.ne.jp/~nikeno/incm/" target="_top">INCM/CMT</a></h5>
+</body></html>

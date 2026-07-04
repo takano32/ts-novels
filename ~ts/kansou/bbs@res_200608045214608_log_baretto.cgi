@@ -1,0 +1,490 @@
+<html><head>
+<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+
+<META name="robots" content="noindex,nofollow">
+<title>バレットさん感想掲示板</title>
+</head>
+<body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
+<div align=left>
+<font size=5>バレットさん感想掲示板</font>
+<table cellpadding=4 cellspacing=0><tr><td align=left>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="mode" value="write">
+<input type=hidden name="log" value="baretto">
+<input type=hidden name="nj" value="Tz8vPW7Jzv">
+<input type=hidden name="res" value="76">
+<h4 align=center>▽ 記事番号 76 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
+E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
+URL <input type=text name="url" size=45 value="" maxlength=200><br>
+</td></tr>
+<tr><td align=left nowrap>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:『アナログ所さん　電脳大冒険Ｓｐｅｃｉａｌ（前編）』を見るにはここをクリック。"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 運営委員さん
+&gt; 【推薦文】バーチャルオンラインゲームのテストプレイに挑む、インディーくんと愉快な仲間たち（笑）。……え？　君たちが主役じゃないの？&lt;br&gt;http://ts.novels.jp/novel/200512/06000905/anatoko_c01.htm</textarea><br>
+pre<input type=checkbox name="pre" value="1"> 
+link<input type=checkbox name="link" value="1" checked> 
+削除キー <input type=password name="pwd" size=10 value=""> 入力コード olD1Am  <input type=password name="rcode" size=10 value=""> <input type=hidden name="hrcode" size=10 value="olD1Am"> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
+</td></tr></table><br>
+</form>
+<table border=0 cellpadding=4 cellspacing=0><td>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ また記事投稿の際は、<B>入力コード右側の半角英数字６文字を、その右側のボックスに入力してください.</B><BR>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
+</td></table><br>
+</div><p><hr size=4 noshade>
+<div>
+<table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.010 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
+</td></tr></table>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="mode" value="remove">
+<input type=hidden name="log" value="baretto">
+<input type=hidden name="page" value="1">
+<input type=hidden name="all" value="0">
+<input type=hidden name="allhits" value="0">
+<input type=hidden name="search" value="">
+<input type=hidden name="condit" value="">
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[106]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 他称アイドル作家の模索。（４／４）</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/25 (月) 22:41:15 <strong>▽</strong> <a href="mailto:koukei@koukei.org">こうけいas微風ろろみ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609251224115&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609251224115"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060><font color="#ff88cc">＞後編</font><br>
+　ほかの３チームが電脳空間で料理や買い物を楽しむ中、旋くんはひとり深刻に作戦を練っている。そんな彼をリラックスさせ、仲間を信用するようにと説得するルアちゃん。<br>
+　ブラックブレイズこそがこのストーリーの主役で、ほかの三チームはデコレーションなのだということを、最後になってやっと思い知らされた。あたしの注目していた他作品キャラクターの混成チーム、チーム・フルメタルもまた脇役にすぎなかったのだ。<br>
+　そしてピュアハンターズはギャグメーカーに成り下がっていた。<br>
+<br>
+　魔王との最終決戦。前回以上に派手な技が繰り広げられるも、決着は拍子抜け。<br>
+　しかしそんな結果はどうでもよい。重要なことは、はじめまとまりがなかったプレイヤーたちがチームワークを次第に身につけて、ついに魔王を倒すまでに成長したことである。<br>
+　特に旋くんはリーダーの地位を見事に全うした。彼のように自分の世界を構築するのが得意な人間は、それゆえ自己中に陥りやすく、リーダーとしては破綻をきたしがちである。けれども中編でのいくつもの成功体験が彼に自信をつけさせた。だからこそルアちゃんの助言を素直に聞き入れることもできたし、仲間たちを信頼することができたのだろう。<br>
+<br>
+　たかがゲームと蔑んではいけない。ゲームは、特にオンラインＲＰＧは、“チームワーク＝絆”あってのものなのだ。そして、ゲームで得た絆はそこだけのものではない。現実世界に反映することだってできる。<br>
+　この『電脳大冒険Ｓｐｅｃｉａｌ』は、旋くんがゲーム世界の中で“絆”の大切さを身につけ、それを現実世界での生活に反映させていこうとする成長物語だったのだ（もっとも、あの劇的なラストには驚かされたが。『アナとこ』がこんなところでＴＳストーリーとしての顔を見せるとは）。<br>
+　いや、旋くんだけではない。トーマ君も、冬雪ちゃんも、鋼くんも、所博士とインディー君とひとみさんも、絆を信じて新たな一歩を踏み出していった。ピュアハンターズの三人はともかくとして。<br>
+　そして、絆の大切さとは、『電脳大冒険』のみならず『アナとこ』全編にわたる重要なテーマなのだろう。ふだんは所さんの仲間たちの絆が描かれているが、『電脳大冒険』ではより多くの人々の絆を描くことにより、このテーマを一層強調することに成功したのである。<br>
+<br>
+　虚構世界で得たものを現実世界に反映させる。それはゲームだけに当てはまることではない。<br>
+　思い起こせばあたしも、自分の作品中のフレーズに自分自身が動かされ、アイドル作家としての大きな一歩を踏み出した。それ以来、創作には現実世界を変えていく力があると信じている。<br>
+<br>
+　それはともかく、あたしもこのＲＰＧに参加したかったなあと、ちょっとだけ思ってみる。微風ろろみは言葉が武器なだけに、呪文が得意な魔法使いとして「チーム・フルメタル」に参入すればよかったかな？<br>
+　けれども、あたしにはあたし自身で虚構世界をつくる力がある。バレットさんに余計なお手数をかけてまで、こちらの電脳世界にお邪魔する必要などないのだ。そう思い直しつつ、あたしは筆を進めるのであった。<br>
+<br>
+---<br>
+<br>
+ろろみ「……疲れた」<br>
+優一郎「どうしたんだい、旋くんみたいに溜め息吐いちゃって」<br>
+ろろみ「『アナとこ』独自の文体や展開を追っていると、神経使うのよね」<br>
+優一郎「そういうものかい？」<br>
+Ｓ伸一郎「まあそう気張らずに、楽しんで読めばいいじゃないか」<br>
+優一郎「今の、ルアちゃんのセリフみたいだな」<br>
+ろろみ「かもね。じゃ、あと一作がんばるぞー！」<br>
+<br>
+---<br>
+<br>
+<font color="#ff88cc">＞留守番天使</font><br>
+　電脳の中の大冒険を終え、日常のペースに戻った所さんファミリー。けれどもジュディちゃんは男性の所博士、というより男優のジョージ君として中国に出張中。替わりのいじられ役ＴＳ少女として、今回のゲストキャラ、悠里ちゃんが登場する。<br>
+<br>
+　旅の途中、南野の家の得体の知れない機械の爆発に巻き込まれて少女となった悠里ちゃん。旅の経緯や、自分がこれからどうするかについて、かなり気楽に考えているあたり、今風の少年なのかもしれない。あたしの学校の友人にもいるタイプだ。<br>
+　ＴＳ物のお約束、銭湯で入浴といったエピソードの間、インディー君はどうしてか悠里ちゃんを男の子として見ようとする。悠里ちゃんは当人が望んだわけでもなくハプニングで女性化したのだから、インディー君としては彼女を男の子に戻してやりたいと考え、極力男の子として扱おうとするのが理だろう。<br>
+　しかしインディー君のそんな尽力は空回りする。なぜなら、なんとなくではあるが、悠里ちゃん当人に女の子として生きていきたい願望と覚悟があったからである。<br>
+<br>
+　そしてラスト、インディー君と、帰ってきた所博士の理解を得て、悠里ちゃんは自由と責任を伴い新たな旅に出る。けれども所さん一家の“絆”は、悠里ちゃんとも堅くつながっているのだ。<br>
+　気張らずに楽しんで読めるストーリーながら、電波ネコの回と同様、ラストはきれいに、そして感動的にまとめられていた。<br>
+<br>
+　愉快でハチャメチャでありながら、時にはずるいほどに、温かい絆の大切さを教えてくれる所さん一家の大活劇。願わくは、こんな楽しい時がいつまでも続きますように。<br>
+<br>
+---<br>
+<br>
+　以上、長々と『アナとこ』について書評（のようなもの？）を綴ってみた。<br>
+　長文へのお付き合い、恐れ入る次第です。<br>
+<br>
+　こうけいさんの感想掲示板で、バレットさんからこうけいさん（と、あたし）へいただいた身に余る賛辞。<br>
+　そして「オススメ作品」に『微妙存在ろろみ』を挙げてくださったこと。<br>
+　この書評が、それらへの返礼として成立しているのか、あたしには正直言って不安なのだ。恩を仇で返すような真似になっていないことを、ただただ願うのみ。</font>
+<p><a href="http://www.koukei.org" target="_top">http://www.koukei.org</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[105]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 他称アイドル作家の暗中。（３／４）</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/25 (月) 22:38:36 <strong>▽</strong> <a href="mailto:koukei@koukei.org">こうけいas微風ろろみ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609251223836&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609251223836"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060><font color="#ff88cc">＞電脳大冒険Ｓｐｅｃｉａｌ</font><br>
+　唐突にオンラインＲＰＧを始める登場人物たち。そして、他作品や他人の作品から登場する多数のゲストキャラ。<br>
+　インディー君たちはあくまで脇役であり、シリーズ中では番外編の色が濃い。<br>
+　けれども、前編中編後編に分かれたこの三部作にこそ、『アナとこ』の本質が込められているのであった。<br>
+<br>
+<font color="#ff88cc">＞前編</font><br>
+　所さんチームはインディー君、ひとみさん、ジュディちゃん（ジョージ）。ことさら「（ジョージ）」と書いてあるということは、男のジョージ君（所博士）の活躍する機会が多いということか。いや違う。彼（彼女？）は現実世界ではジョージに戻ったのに、早食いバトルに負けたがために、ゲーム内世界ではジュディとしてプレイさせられるのであった。<br>
+　他人作品との混成チーム「チーム・フルメタル」。『落雷』の鋼くんは『戦争茶会』に続いての登板である。トーマ君（『若葉色の怪盗』きりか進ノ介さん）と冬雪ちゃん（『ホーリーメイデンズ』流離太さん）が行動を共にする。<br>
+　ハンター三人のチーム「ピュア・ハンターズ」。登場する４チームの中でも、特に協調性がなさそうなちーむである。<br>
+　そして、今回初登場の「ブラックブレイズ」。「旋」と「ルア」。謎だらけのふたりだ。それも、現実世界では逢ったことのない、ネットだけでのつながりのふたりである。<br>
+　あたしの場合、前編の時点では「チーム・フルメタル」にいちばん興味が向いた。他人様作品との混成チームというところに注目したのである。<br>
+<br>
+　かくしてゲームのプレイが始まる。あたしたち読者も、いきなり仮想のＲＰＧ世界に飛び込むことを余儀なくされる。<br>
+　しかしそんなバーチャルな動揺と混乱の中からストーリーを紐解くのも、また楽しいものである。<br>
+<br>
+　ジュディちゃんが「こんなキャラクターはやはり私ではない！」と、自分がジョージであることを主張しているあたりが、ＴＳストーリーらしさである。<br>
+　オンラインＲＰＧでネカマをやらされているプレイヤーが、男キャラでログインしなおしたいとわめく心理も、こんな調子なのだろうか。いや違うか。<br>
+　おそらく、ジュディちゃんは現実世界（『アナとこ』作品内の）では自分のＴＳを深刻に悩んでいるのだろう（「アナとこ」ストーリー中ではそう深刻には描かれていないけど）。そのような深刻なＴＳが、オンラインＲＰＧでの女キャラプレイに転化される（いや、茶化されるというべきか？）ことにより、笑えるものへと翻訳されているあたり、興味深い。こういう手法を、現実のメタ現実化というのだろう。<br>
+<br>
+<font color="#ff88cc">＞中編</font><br>
+　プロローグで、旋くんがオンラインゲームでルアちゃんと出会うまでが描かれ、旋くんが『電脳大冒険』の主役であることが明白にされた。<br>
+<br>
+　ピュアハンターズ以外の３チームは、荒れた海「ファントムズ・アイ」を渡るという大試練に向き合っていた。「目的地が同じなら、旅の仲間」。この単純明快な理由で、３チームは合同で海を渡ることになる。<br>
+　そこから、旋くんがリーダーシップをとり始めたのである。彼のあまりに真剣すぎる主張は、ほかのプレイヤーからは反感を買いもしたが、結局はプレイヤー全員の同意を得ることができた。旋くんにとっては大きな成功体験であった。<br>
+　演出上の小技としては、次はジョージでエントリーしたいと密かな野望を描くジュディちゃんが微笑ましい。<br>
+<br>
+　激しい技の応酬の末、３チームは見事なチームワークで海を渡りきった。後はチームごとに別行動をとってもよいものだが、彼らはそうはしなかった。より多い人数が結束してのチームワーク。その大切さと美味しさを知ったインディー君たちは、以後も旋くんと共にゴールを目指すのであった。旋くんはここでまた一歩成長した。<br>
+　だからこそ、ピュアハンターズの脱落ぶりが、笑えるほどに情けない。<br>
+<br>
+---<br>
+<br>
+　感想はまだまだ続きます。<br>
+　テレビ番組では「もうすぐ終わり」と同義語なんですけど（笑）</font>
+<p><a href="http://www.koukei.org" target="_top">http://www.koukei.org</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[104]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 他称アイドル作家の錯誤。（２／４）</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/25 (月) 22:37:34 <strong>▽</strong> <a href="mailto:koukei@koukei.org">こうけいas微風ろろみ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609251223734&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609251223734"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060><font color="#ff88cc">＞ＴＨＥ　ＭＯＶＩＥ（嘘）</font><br>
+　冒頭部にスタッフ・キャスト名が表示される演出からしていかにも映画らしい。他の回のように章に分けられてはおらず、映画ということでストーリーはひとつながりになっている。<br>
+　芸能界がメインの舞台となっている回。青年アイドルユニット「ハリケーン」の「アイバーソン」など新顔のタレントが続々と登場する。<br>
+　インディー君の教え子にしてお笑いコンビの相手役・ひとみがアイバーソンに恋をしたため、なんとかひとみの望みをかなえてやりたいジュディちゃんがひと肌脱ぐというストーリーだ。<br>
+　今回はＴＳストーリー色は薄く、ジュディちゃんもずっと女の子のまま。新しいＴＳシーンもなかった。あたしも水の入ったバケツを持って廊下に立ってから、日テレ最上階逝きか。こうけいさんと一緒に。でもバンジージャンプはパスでお願いします。<br>
+<br>
+　そんな回ではあるが、レイザーラモンに恋の相談をしたとき自分の恋のことかと勘違いされて怒った、ジュディちゃんのセリフがかわいらしかった。彼女にも、十歳の少女の心が根付いてきたのだろう。<br>
+<br>
+<font color="#ff88cc">＞戦争茶会</font><br>
+　インディー君のバースデイはただで済むはずがなくコントに相応しいオチ。ケーキへの仕掛け人は、バレットさんの別作品『落雷』のキャラクター「荒野鋼」（落雷獣耳ＴＳっ娘）であった。鋼くん（翼ちゃん）は、いわば作者の代役として『アナとこ』世界に飛び込み、作者の意図どおりに所家をかき回してくれた。<br>
+　続いてピザが届くも、電波ネコ乱入。インディー君は電波ネコと共にジュディちゃんにお仕置きされる。次はカラオケ大会へ。けれども「世界の南野」氏のところにセールスレディの魔の手がのびる？<br>
+　今回もＴＳ色は薄く、ドタバタ色の強いストーリーであった。しかし、今回のメインキャラというべき電波ネコが最後に切ないシチュエーションを見せてくれた。<br>
+　ファンサービスとして、「ＴＨＥ　ＭＯＶＩＥ（嘘）」の別展開バージョンがおまけについている。あたしたちの望んだ展開というか、ひとみさんと雅紀が入れ替わってしまったストーリーだ。ふたりともあっさり相手の体に適応してしまったようで、お幸せに。<br>
+<br>
+　感想は続きます。</font>
+<p><a href="http://www.koukei.org" target="_top">http://www.koukei.org</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[103]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 他称アイドル作家の試行。（１／４）</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/25 (月) 22:36:09 <strong>▽</strong> <a href="mailto:koukei@koukei.org">こうけいas微風ろろみ</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609251223609&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609251223609"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>　『アナログ所さん』シリーズ（バレットさん・作）。<br>
+　テレビ番組『デジタル所さん』の二次創作、ということになってはいる。けれども実際のところ、元ネタを知らなくともこの作品ならではのスピーディなノリについていけたなら、この作品を理解したことになるのだろうか。<br>
+　激しいセリフの応酬。場面の唐突な切り替わりによる、小エピソードの積み重ね。「明言」やら後書きやら「巻末問題」やらの細かな仕掛け。楽屋落ちや語り部のセルフ突っ込みといった、メタフィクション的要素。随所にギャグのちりばめられた、コメディタッチの作品といえよう。<br>
+　申し訳ないけれども、元ネタをよく知らないあたしは読み解くのに難儀した。ストーリーを追っていて、じっくり考えようと思った箇所がギャグで滑ってしまうのだ。作品を形づくる文字列から伝わる激しい熱気には、圧倒されるのだけれども。あたしがバラエティ番組にゲスト出演して、同年代の芸能人の子たちと接したときの違和感が、これに近かったかもしれない。<br>
+　ともかく、あたしは全編を読み通してみた。そして感じたことを率直に言うと。<br>
+　ずるいよ、バレットさん。<br>
+　途中ではギャグやメタフィクションではぐらかされるのに、各話を読み終えたときには感動に胸を揺すられてしまうのだから。ほんと、ずるいほどに見事な構成力を見せ付けられた。<br>
+　あたしは、自分が持っていないものをあらためて確認させられた。そして、『アナログ所さん』がそういうものを十二分に持った、読む価値のある作品であることも。<br>
+<br>
+　では、インディー君と所博士の状況と心境の変化を追いながら、各話を分析してみよう。<br>
+<br>
+<font color="#ff88cc">＞無印</font><br>
+　インディー君はもともとシベリアンハスキー犬（「君」と呼ばれているからにはオスなのだろう――第二話でオス犬と確定する）にして大学教授。所常時博士の発明した若返りの機械で仔犬になるはずが、機械の異常動作で１０歳くらいの人間の美少女になってしまった。<br>
+　ＴＳＦのお約束を踏襲しつつ山田さんたちにいじられたりしながらも、人間の美少女姿をそれなりに気に入っているインディー君。<br>
+　所博士のほうは若返りの機械を壊そうとして大爆発させてしまい、若返りの煙を発生させて街中を大パニックに。博士自身も金髪にメガネの少女・ジュディになってしまった。これは天罰というのだろうか。<br>
+　そして、インディー君とジュディちゃんはふたりいっしょに映画女優デビュー。<br>
+<br>
+　機械の故障でＴＳした主人公がアイドルとして脚光を浴びるという展開には、あたしも共感してしまう。別に、あたしに似たような来歴があるわけではないけれど。<br>
+　仔犬になれるぞとわくわくしていたのに、人間の女性になってしまったインディー君。ストーリー中には描かれていないけれども、おそらくは戸惑いと驚き、そして博士への怒りがあったことだろう。もしかしたら恐怖感にも襲われたかもしれない。<br>
+　しかし同時に彼女には、人間の女性としての生活への好奇心や探究心も芽生えていた。家事に取り組んだり、教え子の女子大生と友人になったりと、大学教授らしく好奇心を前向きに働かせている。そんな前向きの姿勢があるからこそ、天罰的にＴＳしたジュディちゃんまで巻き込んで映画女優として成功できたのだろう。<br>
+<br>
+---<br>
+<br>
+優一郎「譬えて言うなら、スプリッター実験の失敗で、俺まで女性化して、ろろみちゃんとふたりでアイドル小説家デビューした、ってストーリーかな」<br>
+Ｓ伸一郎「で、俺がろろみちゃんとユウをプロデュースする。おおっ、こりゃおもしろい展開になりそうだ」<br>
+優一郎「辻ひとみさんの役は正世編集長がハマりそうだな」<br>
+ろろみ「でもね、スプリッターの話は外部には秘密だから。あたしたちの世界は『アナとこ』のようにはいかないのよね」<br>
+<br>
+---<br>
+<br>
+<font color="#ff88cc">＞Ｅｐｉｓｏｄｅ　Ｃｏｄｅ：Ｆ</font><br>
+　ジュディちゃんとインディー君、またまた映画に出演。その撮影の最中、ジュディちゃんのほうにＴＳＦのお約束が発生した。けれども、赤米を使うことでひとひねり入っている。<br>
+　インディー君のほうのお約束はもう済んだのかしら。<br>
+　あたしは個人的事情もあって、興味津々である。<br>
+<br>
+　インディー君とひとみさんのいたずらで、ジュディちゃんの性格が女性化かつ幼児化したり。キムチ鍋でジュディちゃんが口から火を噴いたり。いきなりインディーくんが宝くじを当ててしまってグループ旅行をしたり。行き先の温泉ではジュディちゃんは嫌がりながらも女風呂に入ったり。ジュディちゃんはインディーくんの大学の講義でレイザーラモンの物真似をさせられたり。そして機械を直して元のジョージに戻るが、すぐにまたジュディちゃんにされてしまったり。<br>
+　あとがきにもあるように、文体は比較的落ち着いていた回だろう。しかし、コメディとしての場面転換の激しさは第一話を上回っているように感じられた。<br>
+<br>
+---<br>
+<br>
+Ｓ伸一郎「個人的事情って……ろろみちゃん、アレまだだったのかい？」<br>
+ろろみ「黙秘しとく。っていうか、こうけいさんが描写しないんだもの」<br>
+優一郎「実を言うと、スプリットした女性体にアレが発生したっていう報告は、学会にもまだないんだ。だから、ろろみちゃんにアレがあったら快挙だよ」<br>
+Ｓ伸一郎「おおっ、楽しみだぞ」<br>
+ろろみ「……あのー、ふたりとも、あたしの身になって考えてくれる？」<br>
+<br>
+　感想は続きます。</font>
+<p><a href="http://www.koukei.org" target="_top">http://www.koukei.org</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[102]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> ねむねむ　その２</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/25 (月) 14:06:39 <strong>▽</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">バレット</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609251140639&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609251140639"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>　うおおお、一気に感想が増えている！<br>
+　バレットです。<br>
+　監査さん、長束さん、感想をありがとうございます！　いやぁ、メッチャクチャうれしいです！　この掲示板では、はじめましてです。<br>
+<br>
+<font color="#ff88cc">＞某監査こと華村さん</font><br>
+<font color="#cc88ff">&gt;Ｋｉｃｋと見比べると</font><br>
+　ありがとうございます。自分ではどうなんだろうと思っているところですが（激戦は過去最悪かとも思っている）、そう言っていただけたなら、今まで９ヶ月間、鋼とインディーの活躍を中心に拙作を投稿してきたことは収穫があったんだと思えます。<br>
+<br>
+<font color="#cc88ff">&gt;でもＴＳには捕らわれてないよネ。</font><br>
+　うーん、Ｋｉｃｋは微妙です。<br>
+　主人公はあくまで美時ですが、トランスの要素を味わうのは、陽介くんでありまして。ちなみに、陽介が消滅したあと、美時はかなり男っぽく、と言うかもっとユニセックスになるはずでした（と裏設定を書き散らす<br>
+　そして、<br>
+<font color="#cc88ff">&gt;良作書くためにＴＳにこだわるひつようはないと</font><br>
+　ありがとうございます。でも、ここは『少年少女文庫』ですので、ここではこだわる必要大有りですね。ストーリ＾道場に投稿するんだとか……　しまった、最近また足を運んでない！<br>
+<br>
+<font color="#cc88ff">&gt;いつぞや</font><br>
+　その節は僕も、人材を貸していただきましてありがとうございました。うまく飛鳥くんを描けていたらよかったですが、いかがでしたでしょうか。<br>
+　ちなみに、華村さんから飛鳥くんを貸していただくまで、ツヴァイハンダーを知ってさえいませんでした（ほぼ同時期にスタートしたはずなのに）。読んでみると、フルミくんと周囲の人々とのやり取りがもうメッチャクチャ面白くて、もう、ハマってしまいました。どうなる勇者フルミの冒険期！？　って、感想掲示板にお邪魔してもいないのでは、僕？<br>
+　続き、待ってま～す。<br>
+<br>
+<font color="#ff88cc">＞長塚さん</font><br>
+<font color="#cc88ff">&gt;軽く</font><br>
+　一番ポップテンポに書いたのは、やっぱり『アナログ所さん』ですね。<br>
+　あれの第１作を見てみれば僕のコメントにもあるとおり、元ねたは、Ｋｉｃｋでも美時が紹介していた『日本テレビアニメ　デジタル所さん』です。<br>
+　デジタル所さんの世界は、曜日別にステージが決められていて、そのステージの中で、ポリゴン所さんとワニ首輪のインディーくんが、バカの極みを炸裂させるという物語です。放送時間はほぼ２～３分。長い話にはなりません。<br>
+　アナログ所さんもそのように、あまりくどくど長いお話にならないように、ショートショート形式で、おバカを連発している感じです。<br>
+　……って、そんな元ネタとかモデルとかはまあさておいて（両手でジェスチャー）、拙作に『軽みの真髄はそこにある』と言ってくださって、ありがとうございます。<br>
+<br>
+<font color="#cc88ff">&gt;可能性の追求</font><br>
+　Ｋｉｃｋ、アナ所・ＭＯＶＩＥのあとがきにも書きましたが、新しいことにどんどんチャレンジしていきたいと思っています。<br>
+<br>
+<font color="#cc88ff">&gt;知るものは好むものに及ばず、さらに楽しむものに及ばず</font><br>
+　深いですねぇ……！<br>
+　多くのことは、好み楽しむ、見たいな感じですか。愛したもの勝ち！<br>
+　その言葉を大切にします。<br>
+<br>
+　もう、頭からシッポまで（シッポねーくせに）感謝の言葉で一杯です。華村さん、長塚さんはもちろん、先の、きりかさんとせるさんも、本当にありがとうございました。僕は流離太さんみたいな立派な言葉は残せませんよ……<br>
+　これからも、多くの人に「面白かったぜ！」といっていただけるようなものを作るために、がんばっていきたいと思います。<br>
+<br>
+　その前に、寝ます。<br>
+　おやすみ～　そろそろぼくも、ね～るよ～（子ども向け番組の挿入歌）<br>
+<br>
+　そりてぃあ！</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[101]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 感想です</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/25 (月) 07:04:55 <strong>▽</strong> 長束 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609251070455&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609251070455"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>　初めて作品を拝見してからずいぶんと時間が経ってしまいましたが、そろそろ感想などというものをつけさせて頂こうかな、と参上した次第です。かなりペースの違う人間の私見が入るのでご勘弁くださいね。<br>
+<br>
+　さて、思うのは「軽く」読ませてくれるなあ、ということで。いえ、悪い意味じゃなくてですね、扱っている題材としてはかなりヘビーなことながら、それを軽快にさばいていくなあと感心しているんですね。「軽み」の真髄というのはまさにそこにあると思いますので、これについては賛同したいなあと。<br>
+<br>
+　ＴＳ性については他の人が言及した通りなのでことさらに私が言うべきことはないでしょうが、やはり可能性の追求ということなのでしょうか。解釈の拡大を迫られた気がしました。<br>
+<br>
+　総論としては……読み手を選ぶ作品なのかな、と。作家さんの顔が直截的に随所に見えてくることを楽しめる人には向いているのかな、といったところですね。<br>
+<br>
+　俗に、知るものは好むものに及ばず、さらに楽しむものに及ばずといいます。<br>
+　楽しみを読み手と共有しながら良い作品を重ねていってください。<br>
+<br>
+</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[100]</font> <font color=#ff0000 size=2><i>New</i></font><font size=4 color=#40c0c0> 今日の格言『ゴキブリはよそうよ、ゴキブリは』</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/25 (月) 00:04:26 <strong>▽</strong> 某監査 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609251000426&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609251000426"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>　どういうわけでか某監査です。<br>
+　初見からもう九ヶ月、おすすめ作品にも載せて貰っていながら、おまえは一体いつまで感想書かない気だ――と社員に怒られたので、感想りにきました。ってか変な動詞だ。<br>
+　いや怒られなかったら感想書かないというわけじゃないんですが。<br>
+<br>
+　バレットさんの作品は、アナログがギャグ路線、他はハートフル路線という感じでしょうか。<br>
+　落雷を見たときは『ちょっと雰囲気が稚拙だけどあったまるなぁ』という印象でした。Ｋｉｃｋと見比べると、おー成長してる成長してる、という感じで……<br>
+<br>
+　でもＴＳには捕らわれてないよネ。<br>
+<br>
+　いつぞやに『バレットさんはメタ作家』と聞いたのは、ひょっとしたらこのことなのかも。あんまり運営指針から離れては文庫は困るでしょうが、良作書くためにＴＳにこだわるひつようはないと思うし。<br>
+<br>
+　なお、美時ちゃんの性格は、なんだか鏡を見ているようでした（ぇ<br>
+<br>
+　アナログ……これは軽快に笑い読むべきかな。さらっと読みました。笑いました。以上（マテ<br>
+<br>
+　いつぞやはうちの副社長も出演させてもらったようで、ってかものの見事にアフォいノリで暴れまくってますね。それでいいのかラスボス――じゃないのか。<br>
+　バレットさんとその作品からは、新芽が息吹くような若々しいパワーを感じます。これからもその調子で頑張ってくださいな。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[99]</font> <font size=4 color=#40c0c0> ネムネム</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/24 (日) 09:41:25 <strong>▽</strong> <a href="mailto:k_saiyuuki@yahoo.co.jp">バレット</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609240094125&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609240094125"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>　今、キムチご飯を食べながらパソコンをにらめっこしているバレットです（長）。<br>
+　セルさん、きりか進ノ助さん（ずっと「進之助」で打っていたので切腹）、感想をありがとうございます。本当にうれしいです。アナログ所さんが進まないです（爆<br>
+<br>
+<font color="#ff88cc">＞せるさん</font><br>
+<font color="#cc88ff">&gt;だる～</font><br>
+　美時のずぼらと僕たちのずぼらは随分と違います。僕たちは何かを放棄するとき、一時的な現実逃避に走るだけだと思います。受験をまじめに考えないのも、朝起きられないのも、本当は少なからず考えているからこそ目を逸らし、布団がぬくくて恋しいから起きたくない。でも美時の場合は、おのが欲望のままに生きています。それは陽介とサッカーと出会ってからも同じで、人生を投げ出すと言ったら投げ出すし、サッカーをやると言ったらとことんまでやり続けます。美時が三日坊主で終わらせたことは、きっと誰かから勧められたことばかりだと思うんです（作者がそんなんでどーする）。<br>
+　いつかは現実と向き合う日が来るのは、僕らも美時も一緒です。向き合って、少しずつ何とかなっていくものです。僕はそう信じています。<br>
+<br>
+<font color="#cc88ff">&gt;悠里ちゃん</font><br>
+　出ます！　お待たせいたしました！　しかも、悠里ちゃんとインディーくんたちでマスケッティアーズ結成！　戦います、バトルものです！<br>
+　次回の話の一部を明かしちゃいましょう。<br>
+<br>
+<font color="#cc88ff">&gt;ネクスト・アナログ所さん</font><br>
+　温泉旅行の夢をかなえた山田さんの次の目標は、日本全国グルメの旅。さすがに全国は無理なので、北海道から沖縄まで、厳選した地域をめぐることに。そこでインディーたちは、久しぶりに悠里と再開する。<br>
+　けれど突如、神話、編年史に出てくるようなモンスターが町を襲撃。インディーとひとみは、特撮ヒーローアイテムでマスケッティアーに変身。モンスターたちを叩く、と言う感じです。当然ギャグをちりばめたいと思っています。<br>
+　……ゲストに、『電脳大冒険』で活躍してくれたトーマくん、冬雪くん、飛鳥くん、そしてうちの鋼を活躍させたいなと思っていたのですけど、さすがに今回はよしておこうと思います。<br>
+　ちなみに、モンスター集団の名前、そしてモンスターの目的は、今はまだ設定中です。<br>
+　そんな感じで、お楽しみに♪<br>
+<br>
+<font color="#ff88cc">＞きりかさん</font><br>
+<font color="#cc88ff">&gt;あえて美時ちゃんの視点で</font><br>
+　主人公はあくまで美時で、最終的に陽介は消滅してしまうことは最初から設定済みでした。自分でも想定外だったのが、桜花高校と旋律高校の試合がパーになったことです。どうしてそうなったのかは、旋律高校サッカー部の監督と、堀江の台詞から読み取ることができます。<br>
+　しかも、一人称の語りは今回が初めてです。……あっ、一度だけありましたね、『落雷』のおまけコーナー。獣医の七原先生が語る、彼女と鋼が遊園地に行ったときの話し。それ以来です。今回は字幕と一緒に、初挑戦です。<br>
+<br>
+<font color="#cc88ff">&gt;字幕　紹介</font><br>
+　字幕は、凝りました。喫茶店の料理長が料理に懲りすぎるぐらい凝りました（笑）<br>
+　サッカーメンバーの紹介は、本当だったら少し読みにくかったかもしれません。表か何かに、担当の委員さんがまとめてくださったものです。<br>
+　でも、そうだとしても結構苦労しました。まず、サッカーのポジション名を調べ、適当に名前を考え、その名前の持ち主のプロフィールも考え。<br>
+　リュウ（中国人）、小谷（キーパー）、有田（萌え）、中村（ガン飛ばし）は、最初からいたら面白いだろうなと思って組んだキャラクターです。<br>
+<br>
+<font color="#cc88ff">&gt;全員を紹介する必要は</font><br>
+　あります（きっぱり！<br>
+　でなきゃ、堀江属する名桜高校の選手のようになっちゃいますから。それに、控えの選手だって出番はほしいです。<br>
+　でも、僕はすぐに名前を考えちゃいますよ。マグカップからさえも名前のヒントをもらいますから。たとえば、目の前にキムチがあるから、キムチから韓国を連想して、韓龍炎（ハン・リュウエン）なんて。……今のは一例です。<br>
+<br>
+<font color="#cc88ff">&gt;お約束に欠ける</font><br>
+　それはいつものことです（ダメだこりゃ！<br>
+　でも、トランス少女、もしくは陽介くんのような子は、他人の女の子に苦労を押し付けられますよ。何で意識を遮断したいってときに、美時の代わりに体を洗わなきゃならないのさ、と本人談。所さんがジュディになったときもまた。<br>
+<br>
+　これからも新しいことにチャレンジしていきたいと思います。投稿するたびするたび、新しいことに少しずつチャレンジしてきたとは思うのですけれど、これからもやっていきます。そのときも、応援をよろしくお願いします。<br>
+<br>
+　そりてぃあ！</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[98]</font> <font size=4 color=#40c0c0> こんばんはー。</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/23 (土) 22:44:42 <strong>▽</strong> <a href="mailto:kirika_4nosuke@yahoo.co.jp">きりか進ノ介</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609236224442&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609236224442"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>　陽介くん視点で書くのが常道なのでしょうが、あえて美時ちゃん視点で書いたのはなかなか面白かった。……まあその分、TS小説としてのお約束に欠けるのは、これはしょうがないですね。生き生きとした美時ちゃんの口調がキャラともよく合っててグーでした。<br>
+<br>
+　字体の変更はやる方はきっと大変でしょうが、読むほうは楽しくていいですね。メンバー紹介のテーブルも読みやすかったです。ただ、全員を紹介する必要性はあるのかな？　とは思いましたが。<br>
+<br>
+　試合展開はなかなか分かりやすくて読みやすかったです。私はサッカーはよく知らないんですけどそれでもボールのつながり方や、今どっちがどう攻めてるかが分かると言うのは文章が上手いからなのでしょう。<br>
+<br>
+　それではまた。</font>
+<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[97]</font> <font size=4 color=#40c0c0> 読ませていただきました。</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2006/09/22 (金) 17:09:53 <strong>▽</strong> せる </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200609225170953&log=baretto">返信</a>　削除<input type=checkbox name="target" value="200609225170953"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>美しい時を生きる少女。いいなぁ。私もこういう風に生きたいなぁ。<br>
+初っ端年寄り臭かった気が。せるです。<br>
+いやぁ、ずぼら。ついつい共感しちゃいました。私もずぼら……というか、超怠け癖習慣病なので。<br>
+本当に何をするにも面倒めんどう。一時期、起きるのさえ面倒だって言ってたことさえありましたからね、私。<br>
+まさに、あるある！ですよ。松本くんとか西川くんとかは関係あるようなないような？（何<br>
+冗談抜きでぼけぇっとするのが好きな私は、よく自室でぼけぇっと、もうぼけぇぼけぇぇぇっとしております。<br>
+それで気が付いたらもう夜で、ぼけぇっとし始めたのはその日の昼頃で……。<br>
+その後自己嫌悪に陥っちゃったりなどなど人に言えないような武勇伝もあったり無かったり。<br>
+何が言いたいんでしょうね、私。すいません……。<br>
+<br>
+<font color="#ff88cc">＞いただくぜ</font><br>
+怖っ。中村さん怖っ。<br>
+<br>
+最期、二人は一緒になれてるといいです。てか、願ってます。神頼みです。なむあみｄ（違<br>
+次回、悠里さんが出るんですねぇ。楽しみです！<br>
+それだけ言って……それでは、乱文失礼しました。<br>
+ではでは。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=4 noshade>
+<p><table cellpadding=2 cellspacing=0><tr>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="page" value="11">
+<input type=hidden name="log" value="baretto">
+<input type=hidden name="all" value="0">
+<input type=hidden name="allhits" value="0">
+<input type=hidden name="search" value="">
+<input type=hidden name="condit" value="">
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="log" value="baretto">
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
+<input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=baretto">更新</a>] [<a href="http://ts.novels.jp/library.html">終了</a>]</font></strong></td>
+</tr></table><p>
+<table border=0 cellpadding=4 cellspacing=0><td>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
+</td></table></div><br>
+</div>
+<br>
+<h5 align=center><a href="http://www.rescue.ne.jp/" target="_top">MiniBBS v10</a> / <a href="http://hasunuma.pobox.ne.jp/" target="_top">Crocus v2.42</a> <a href="http://www.kaede.sakura.ne.jp/~nikeno/incm/" target="_top">INCM/CMT</a></h5>
+</body></html>

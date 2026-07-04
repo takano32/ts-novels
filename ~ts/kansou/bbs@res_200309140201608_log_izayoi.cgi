@@ -1,0 +1,268 @@
+<html><head>
+<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+
+<title>十六夜さん　感想掲示板</title>
+</head>
+<body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
+<div align=left>
+<font size=5>十六夜さん　感想掲示板</font>
+<table cellpadding=4 cellspacing=0><tr><td align=left>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="mode" value="write">
+<input type=hidden name="log" value="izayoi">
+<input type=hidden name="nj" value="sCtRbSOQkK">
+<input type=hidden name="res" value="7">
+<h4 align=center>▽ 記事番号 7 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
+E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
+URL <input type=text name="url" size=45 value="" maxlength=200><br>
+</td></tr>
+<tr><td align=left nowrap>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:皆さんありがとう！"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ 十六夜さん
+&gt; ええ、一応新庄出現予定です。
+&gt; これからもよろしくお願いします！
+&gt; 遅筆乱文ですが…。</textarea><br>
+pre<input type=checkbox name="pre" value="1"> 
+link<input type=checkbox name="link" value="1" checked> 
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
+</td></tr></table><br>
+</form>
+<table border=0 cellpadding=4 cellspacing=0><td>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
+</td></table><br>
+</div><p><hr size=4 noshade>
+<div>
+<table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
+</td></tr></table>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="mode" value="remove">
+<input type=hidden name="log" value="izayoi">
+<input type=hidden name="page" value="1">
+<input type=hidden name="all" value="0">
+<input type=hidden name="allhits" value="0">
+<input type=hidden name="search" value="">
+<input type=hidden name="condit" value="">
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[13]</font> <font size=4 color=#40c0c0> 読みました。</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/27 (土) 14:25:56 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309276142556&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309276142556"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>１話目で話題になってたあいつが新庄だったなんて･･･<br>
+しかも女になって･･･<br>
+鳴海さん((((゜Д ゜)))ガクガクブルブル((((<br>
+<br>
+<font color="#cc88ff">&gt;ホワイトアウト</font><br>
+「地上の星」とかだったら･･･</font>
+<p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[12]</font> <font size=4 color=#40c0c0> お見事！</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/26 (金) 20:12:39 <strong>▽</strong> 十六夜 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309265201239&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309265201239"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>大当たりです！簡単すぎました？</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[11]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/24 (水) 22:24:05 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309243222405&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309243222405"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>わはは、お約束・・・はなかったようですな。残念（爆）。<br>
+しかしまぁ、もう１人出てくるとはねぇ。<br>
+果たして樹ちゃん（笑）が男に戻ることはあるのか？<br>
+「戻るのは痛い」って言ってることだし、このままで行っちゃいましょう（爆）。<br>
+そりゃそうと、３人ともいきなりやってくれちゃってますねぇ。呼び出された職員の皆さんが固まってる様子が目の前に浮かびましたよ、ええ。<br>
+<br>
+<font color="#ff88cc">＞ホワイトアウト</font><br>
+○四ダムだったっけ、あれ。とするとN県・・・と見せかけてT県だな。</font>
+<p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[10]</font> <font size=4 color=#40c0c0> 『Switch!vol.3』を読むには下のリンクをクリック</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/24 (水) 20:36:40 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309243203640&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309243203640"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>【推薦文】 唯。この子は、ただ単に頭の回転が悪いのか、寝ぼけているだけなのか、ただの馬鹿なのか……。わからない。私にはわからない。<br>
+<br>
+<a href=http://ts.novels.jp/novel/200308/14212643/switch_vol3.html target=_top>http://ts.novels.jp/novel/200308/14212643/switch_vol3.html</a></font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[9]</font> <font size=4 color=#40c0c0> 読んだ！！</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/17 (水) 18:04:57 <strong>▽</strong> ワショーイ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309173180457&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309173180457"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>約束通りに読ませて頂きましたよ十六夜さん。…してなかった気もするけど……（笑）<br>
+<br>
+いきなり使い古されたギャグはどうかと思いますが結構面白い……のかな？<br>
+まぁ、それは置いといて、志音さんがまともじゃないし、相田と清ノ介キャラが変！<br>
+もう少しまともなキャラを作ってみては？？　　　ギャグにならないか（汗）<br>
+<br>
+キャラクターの名前は・・・思いつきません。<br>
+<br>
+次回楽しみ？にしてます。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[8]</font> <font size=4 color=#40c0c0> 追記</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/15 (月) 01:10:15 <strong>▽</strong> 十六夜 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309151011015&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309151011015"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>今回の名前募集大会ですが、なるべく皆さん全員分出したいと思いますので<br>
+書き込んでくださったら即使わせていただく可能性大です。<br>
+チョイ役にしかならなくても勘弁してください。<br>
+注意して読んでいると、あなたの考えた名前が出てくるかも？<br>
+という事でお願いします。<br>
+</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[7]</font> <font size=4 color=#40c0c0> 皆さんありがとう！</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/14 (日) 20:16:08 <strong>▽</strong> 十六夜 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309140201608&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309140201608"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>ええ、一応新庄出現予定です。<br>
+これからもよろしくお願いします！<br>
+遅筆乱文ですが…。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[6]</font> <font size=4 color=#40c0c0> 読みました。</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/14 (日) 18:57:40 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309140185740&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309140185740"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>思いっきりギャグ主体ですな･･･<br>
+<br>
+ところで、新庄クンはVol.１でも出て来てたけど、誰？<br>
+Vol.３で出て来ますかね？<br>
+<br>
+名前、「百武鉄人（ひゃくたけ・てつと）」<br>
+ぜひ、百の武勇にも勝る鉄人という感じのキャラで･･･<br>
+<br>
+どうでもいいけど、「一成」と来ると、日ハムの「実松一成」を思い出します。<br>
+人間扇風機･･･(実松ファンの方失礼)</font>
+<p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[5]</font> <font size=4 color=#40c0c0> 単刀直入</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/14 (日) 18:16:17 <strong>▽</strong> ＭＯＮＤＯ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309140181617&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309140181617"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060><font color="#ff88cc">＞「単刀直入に言うとナノマシンの暴走！終わり！」<br>
+＞「副長、本当に短刀を直入しますよ。」</font><br>
+　なんか笑ってしまった。経絡秘孔に入ったようです。<br>
+　鳴海さん、なんか人気出そうなキャラですね。<br>
+　頼りない（？）副長にツッコミを入れ、中学生三人の保護者もせにゃならんし。<br>
+<br>
+　では名前。男キャラで「増岡一成（ますおか・かずなり）」</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[4]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/14 (日) 11:48:41 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠自宅</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309140114841&log=izayoi">返信</a>　削除<input type=checkbox name="target" value="200309140114841"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>おお、第２話来ましたね。<br>
+しかし、変名が前後入れ替えただけってなんか安直ですなぁ（笑）。<br>
+まあかわいい名前だからいいか（爆）。<br>
+というわけで唯ちゃん（笑）、さっそくお風呂でビシビシやられたようですな。<br>
+それはそうと３人とも中学生なんだから、ちゃんと親御さんに連絡したんでしょうな？<br>
+いくら夏休みだからって１ヶ月（？）も黙って寮生活したら大騒ぎになるよ（笑）。<br>
+<br>
+名前ですか。まあ適当にひとつ。『青島　藍美（あおしま　あいみ）』など、いかがでしょう。<br>
+<br>
+ところで、あとがきに出ていた新庄って、誰？</font>
+<p><a href="http://www.mk8426.net/" target="_top">http://www.mk8426.net/</a>
+</td></table>
+</td></tr></table>
+
+<hr size=4 noshade>
+<p><table cellpadding=2 cellspacing=0><tr>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="page" value="11">
+<input type=hidden name="log" value="izayoi">
+<input type=hidden name="all" value="0">
+<input type=hidden name="allhits" value="0">
+<input type=hidden name="search" value="">
+<input type=hidden name="condit" value="">
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="log" value="izayoi">
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
+<input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=izayoi">更新</a>] [<a href="http://ts.novels.jp/library.html">終了</a>]</font></strong></td>
+</tr></table><p>
+<table border=0 cellpadding=4 cellspacing=0><td>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.</font>
+</td></table></div><br>
+</div>
+<br>
+<h5 align=center><a href="http://www.rescue.ne.jp/" target="_top">MiniBBS v10</a> / <a href="http://hasunuma.pobox.ne.jp/" target="_top">Crocus v2.42</a> <a href="http://www.kaede.sakura.ne.jp/~nikeno/incm/" target="_top">INCM/CMT</a></h5>
+</body></html>

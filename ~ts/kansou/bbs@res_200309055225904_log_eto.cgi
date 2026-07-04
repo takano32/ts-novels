@@ -1,0 +1,243 @@
+<html><head>
+<meta http-equiv="Content-type" content="text/html; charset=Shift_JIS">
+
+<title>干支さん作品　感想掲示板</title>
+</head>
+<body bgcolor=#ffffff text=#606080 link=#806060 vlink=#806060 alink=#806060>
+<div align=left>
+<font size=5>干支さん作品　感想掲示板</font>
+<table cellpadding=4 cellspacing=0><tr><td align=left>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="mode" value="write">
+<input type=hidden name="log" value="eto">
+<input type=hidden name="nj" value="Uv5OBYnSXi">
+<input type=hidden name="res" value="35">
+<h4 align=center>▽ 記事番号 35 への返信 ▽</h4><table border=0 cellpadding=2 cellspacing=0><tr><td align=left nowrap>
+名前 <input type=text name="name" size=45 value="" maxlength=64><br>
+E-Mail <input type=text name="email" size=45 value="" maxlength=200><br>
+URL <input type=text name="url" size=45 value="" maxlength=200><br>
+</td></tr>
+<tr><td align=left nowrap>
+内容 ＼ 題名 <input type=text name="subject" size=45 maxlength=80 value="Re:呼ばれたからは出て来ないと・・・（＾＾）"><br>
+<textarea name="value" rows=5 cols=80 wrap=soft>▼ BAFさん
+&gt; 読ませていただきました。ホラーでしたね。
+&gt; オチも良かったです。もうちょいひねっても面白かったかもしれませんがなかなか良いのではないでしょうか。
+&gt; ところで
+&gt; ＞く～る。きっとくる。きっとくる。
+&gt; これは、呪怨じゃなくてリングでは？（＾＾）</textarea><br>
+pre<input type=checkbox name="pre" value="1"> 
+link<input type=checkbox name="link" value="1" checked> 
+削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="書き込む"><input type=reset value="書き直し"><br></td></tr></table>
+</td></tr></table><br>
+</form>
+<table border=0 cellpadding=4 cellspacing=0><td>
+<font color=#608080>※ 投稿に最低限必要な項目は、名前と内容です.<br>※ 削除キーを設定することで、自分の投稿した記事を削除/修正することができます.<br>※ 名前記入欄を空にして「書き込む」を押すことでクッキーを消去できます.<br>※ 題名と内容を空にして「書き込む」を押すことでクッキーを再発行できます.<br></font>
+</td></table><br>
+</div><p><hr size=4 noshade>
+<div>
+<table border=0 width=95% cellpadding=0 cellspacing=0><tr><td>
+<strong>新着順</strong> 1 → 10 <strong>最大記録保持数</strong> 100 <!-- 実行時間 0.000 CPU秒 --> <small>(</small><font color=#ff0000 size=2><i>New</i></font><small> は3日以内の記事)</small>
+</td></tr></table>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="mode" value="remove">
+<input type=hidden name="log" value="eto">
+<input type=hidden name="page" value="1">
+<input type=hidden name="all" value="0">
+<input type=hidden name="allhits" value="0">
+<input type=hidden name="search" value="">
+<input type=hidden name="condit" value="">
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[43]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/18 (土) 11:40:15 <strong>▽</strong> ラマ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200310186114015&log=eto">返信</a>　削除<input type=checkbox name="target" value="200310186114015"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>勧悪懲善…？<br>
+悪が栄えてＨＡＰＰＹ　ＥＮＤ？<br>
+終り方が何とも後味悪かったです。<br>
+＊それだけで人権を否定されがちな人達にも熱い思いがある、というのはまあ、良かったですが…</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[42]</font> <font size=4 color=#40c0c0> -- No Subject --</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/17 (金) 23:03:22 <strong>▽</strong> ＴＯＫＩＷＡ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200310175230322&log=eto">返信</a>　削除<input type=checkbox name="target" value="200310175230322"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>いや～、秋なのに熱いですね～。<br>
+もう暑苦しいぐらい・・・。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[41]</font> <font size=4 color=#40c0c0> 感想・・・です</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/17 (金) 20:37:37 <strong>▽</strong> RIEWE </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200310175203737&log=eto">返信</a>　削除<input type=checkbox name="target" value="200310175203737"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>ええと、始めましてなのですが、干支様の作品を読んでの辛口な感想ですみません。<br>
+<br>
+・・・ぶっちゃけ、この人達すっごいヤダ。読んでていい気分じゃなかったです。<br>
+ドロドロした欲望がすごく表に出ていて、それを最後まで引き摺っているだけという印象を受けてしまいました。<br>
+せめてオチでもうちょっとひねって、それまでの一方的な方向性を思いっきり変えてくださったほうが・・・と思いました。</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[40]</font> <font size=4 color=#40c0c0> 読んだバイ♪</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/17 (金) 18:55:10 <strong>▽</strong> <a href="mailto:mk8426@infoseek.jp">ｍｋ８４２６＠電車</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200310175185510&log=eto">返信</a>　削除<input type=checkbox name="target" value="200310175185510"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>いやー、熱いねぇ（笑）。<br>
+もうそろそろ寒くなろうかというのに、この熱さは最高ですね。<br>
+それにしても、入れ替えの対象者に最初から最後まで見せるというのがなかなか新鮮ですねぇ。<br>
+ただ、入れ替わったあとの「元」彼女はどうなったのか、ちょっと興味が・・・。<br>
+（怖いもの見たさか？）</font>
+<p><a href="http://www.mk8426.net" target="_top">http://www.mk8426.net</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[39]</font> <font size=4 color=#40c0c0> 『熱血！TS野郎選手権！！』を読むには下のリンクをクリック</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/10/17 (金) 18:11:20 <strong>▽</strong> 運営委員 </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200310175181120&log=eto">返信</a>　削除<input type=checkbox name="target" value="200310175181120"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>【推薦文】 夏の海岸のステージで今まさに始まろうとしているコンテストとは……。</font>
+<p><a href="http://ts.novels.jp/novel/200310/17180310/ts_guys.html" target="_top">http://ts.novels.jp/novel/200310/17180310/ts_guys.html</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[38]</font> <font size=4 color=#40c0c0> ほらー</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/09 (火) 18:16:10 <strong>▽</strong> ROY </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309092181610&log=eto">返信</a>　削除<input type=checkbox name="target" value="200309092181610"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>はじめまして。ROYといいますん。<br>
+んで、読みました。。<br>
+<br>
+まぁぶちゃけ怖くはなかったけど(爆)カナリ面白かったです。<br>
+個人的にはもっと萌え萌えな展開のほうが～（趣旨違）</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[37]</font> <font size=4 color=#40c0c0> 読みました。</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/06 (土) 16:10:40 <strong>▽</strong> <a href="mailto:ycoco99@ybb.ne.jp">足利（馬鹿守）義忠</a> </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309066161040&log=eto">返信</a>　削除<input type=checkbox name="target" value="200309066161040"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>少年だったやつが、ばあさんになっているのに萎え(失礼<br>
+本当に失礼ですが、実を言うと、あんまり怖くなかったです。<br>
+最近そういう系のFLASHばっかり見ているせいかもしれない･･･<br>
+<br>
+文化祭ではお化け屋敷をやります。<br>
+出口付近で足を掴みます。誰も聞いてないか･･･</font>
+<p><a href="http://www.geocities.co.jp/HiTeens/5209/" target="_top">http://www.geocities.co.jp/HiTeens/5209/</a>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[36]</font> <font size=4 color=#40c0c0> ahahaja</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/06 (土) 08:10:06 <strong>▽</strong> y.sssss </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309066081006&log=eto">返信</a>　削除<input type=checkbox name="target" value="200309066081006"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>怖かった</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[35]</font> <font size=4 color=#40c0c0> 呼ばれたからは出て来ないと・・・（＾＾）</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/05 (金) 22:59:04 <strong>▽</strong> BAF </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309055225904&log=eto">返信</a>　削除<input type=checkbox name="target" value="200309055225904"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>読ませていただきました。ホラーでしたね。<br>
+オチも良かったです。もうちょいひねっても面白かったかもしれませんがなかなか良いのではないでしょうか。<br>
+ところで<br>
+<font color="#ff88cc">＞く～る。きっとくる。きっとくる。</font><br>
+これは、呪怨じゃなくてリングでは？（＾＾）<br>
+</font>
+</td></table>
+</td></tr></table>
+
+<hr size=1 noshade width=95%>
+
+<table border=0 cellpadding=0 cellspacing=0 width=95%><tr><td><table border=0 cellpadding=1 cellspacing=0 width=100%><td>
+<font size=2>[34]</font> <font size=4 color=#40c0c0> 読みました</font>
+</td></table>
+<table border=0 cellpadding=1 cellspacing=0 width=100%><td nowrap>
+<font size=3 color=#606060><strong>▽</strong> 2003/09/05 (金) 21:15:09 <strong>▽</strong> メガ\ </font></td>
+<td nowrap align=right><font size=3>　<a href="bbs.cgi?res=200309055211509&log=eto">返信</a>　削除<input type=checkbox name="target" value="200309055211509"></font>
+</td></table>
+<table border=0 cellpadding=16 cellspacing=0 width=100%><td>
+<font size=3 color=#606060>オチと解説がなかなかです。</font>
+<p><a href="http://marimo.sakura.ne.jp/~thx4311/wondermd/" target="_top">http://marimo.sakura.ne.jp/~thx4311/wondermd/</a>
+</td></table>
+</td></tr></table>
+
+<hr size=4 noshade>
+<p><table cellpadding=2 cellspacing=0><tr>
+<td align=center nowrap>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="page" value="11">
+<input type=hidden name="log" value="eto">
+<input type=hidden name="all" value="0">
+<input type=hidden name="allhits" value="0">
+<input type=hidden name="search" value="">
+<input type=hidden name="condit" value="">
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
+<form method=POST action="bbs.cgi">
+<input type=hidden name="log" value="eto">
+<td nowrap>文字列 <input type=text name="search" value="" size=15>
+<input type=radio name="condit" value="and" checked>AND <input type=radio name="condit" value="or" >OR
+<input type=submit value="検索"></td></form>
+<td align=center nowrap><strong><font size=+1>[<a href="bbs.cgi?log=eto">更新</a>] [<a href="http://ts.novels.jp/library.html">終了</a>]</font></strong></td>
+</tr></table><p>
+<table border=0 cellpadding=4 cellspacing=0><td>
+<font color=#608080>※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押すことで削除ができます.<br>※ 検索文字列はスペースで区切ることで複数指定できます.<br></font>
+</td></table></div><br>
+</div>
+<br>
+<h5 align=center><a href="http://www.rescue.ne.jp/" target="_top">MiniBBS v10</a> / <a href="http://hasunuma.pobox.ne.jp/" target="_top">Crocus v2.42</a> <a href="http://www.kaede.sakura.ne.jp/~nikeno/incm/" target="_top">INCM/CMT</a></h5>
+</body></html>
