@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>作品検索</title>
+</head>
+<body>
+	<font size=-1><a href="http://ts-novels.jp/library">戻る</a></font>
+	<h1>検索フォーム</h1>
+	<form action="/search" method="POST">
+	<input type="hidden" name="_token" value="5PdROF1T5Cs7Iqnu9eSxwsvG8eiegVr1cQdSqbzv">
+	検索するキーにチェックを入れてください。<br>
+	<input type="checkbox" name="line-0" value="1">タイトル
+	<input type="checkbox" name="line-1" value="3,6">作者
+	<input type="checkbox" name="line-2" value="13">ジャンル
+	<input type="checkbox" name="line-3" value="14">種別
+	<input type="checkbox" name="line-4" value="15">キーワード
+	<input type="checkbox" name="all" value=" checked">全て<br>
+	検索するキーワードを入力してください<br>
+	<input type="text" name="word" value="" size="70">
+	<input type=hidden name="m" value="search">
+	<input type=submit value="検索"><br>
+	AND検索<input type="radio" name="condit" value="and" checked>
+	OR検索<input type="radio" name="condit" value="or"><br>
+	<small>複数のキーワードで検索する際は空白(全角可)で区切ります。<br>
+	andはすべてのキーワードが存在するデーター、orはどれか１つのキーワードが存在するデーターを抽出します。<br>
+	<input type="checkbox" name="c1" value=" checked">大文字小文字を区別する<br>
+	<input type="checkbox" name="c2" value=" checked">全角半角を区別する<br>
+	</small><hr>
+	</form>
+		<b>キーワードを入力してください</b><br>
+		<font size=-1><a href="http://ts-novels.jp/library">戻る</a><br></font>
+</body>
+</html>
