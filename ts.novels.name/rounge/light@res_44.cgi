@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,63 +13,63 @@ function popup(url) {
 }
 // -->
 </script>
-<title>�N���G�C�^�[�Y�E�t���A�i���j</title>
+<title>クリエイターズ・フロア（仮）</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>�N���G�C�^�[�Y�E�t���A�i���j</h1>
+<h1>クリエイターズ・フロア（仮）</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">�g�b�v�ɖ߂�</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">���ӎ���</a>]
-[<a href="./light.cgi?mode=find">���[�h����</a>]
+[<a href="../../index.html" target="_top">トップに戻る</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">留意事項</a>]
+[<a href="light@mode_find.cgi">ワード検索</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">�ߋ����O</a>]
+[<a href="light@mode_past.cgi">過去ログ</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">�Ǘ��p</a>]
+[<a href="admin.cgi">管理用</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>���Ȃ܂�</th>
+	<th>おなまえ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>�d���[��</th>
+	<th>Ｅメール</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>�^�C�g��</th>
+	<th>タイトル</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[44] �ǂȂ��ł������R�ɂ�������������" />
-    	<input type="submit" value="���M����" /><input type="reset" value="���Z�b�g" />
+    	<input type="text" name="sub" size="36" value="Re:[44] どなたでもご自由にお書きください" />
+    	<input type="submit" value="送信する" /><input type="reset" value="リセット" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	���b�Z�[�W<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; &gt; �X�g�[���[����̍�i�ɁA���Ȃ�Ȍ��ł������z��������ł݂܂����B
+    	メッセージ<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; &gt; ストーリー道場の作品に、かなり簡潔ですが感想書き込んでみました。
 &gt; 
-&gt; ���肪�Ƃ��������܂��B
-&gt; �s�s���Ȃǂ���܂���A�ǂȂ��ł������R�ɂ��������������B
+&gt; ありがとうございます。
+&gt; 不都合などありません、どなたでもご自由にお書きください。
 &gt; 
-&gt; �ނ���킽�������悵�ď����Ȃ��Ƃ����Ȃ���ł��傤���ǁA���ߐ؂肪�߂��ĖZ�����c�c</textarea>
+&gt; むしろわたしが率先して書かないといけないんでしょうけど、締め切りが近くて忙しく……</textarea>
 	</th>
 </tr><tr>
-	<th>�Q�Ɛ�</th>
+	<th>参照先</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>�폜�L�[</th>
+	<th>削除キー</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(�p������8�����ȓ�) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> �N�b�L�[�ۑ�
+		(英数字で8文字以内) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> クッキー保存
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>�摜�F��</th>
+	<th>画像認証</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		�i�E�摜�̐�������́j <img src="./captcha.cgi?f8fc947a9bc6c07bacf780bebf39a8ca8747" class="capt" alt="���e�L�[" />
+		（右画像の数字を入力） <img src="captcha@f8fc947a9bc6c07bacf780bebf39a8ca8747.cgi" class="capt" alt="投稿キー" />
 		<input type="hidden" name="str_crypt" value="f8fc947a9bc6c07bacf780bebf39a8ca8747" />
 	</td>
 <!-- captcha_end -->
@@ -80,63 +80,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>44</b>] <strong>�ǂȂ��ł������R�ɂ�������������</strong>
-	���e�ҁF<b>�����炬���ʎ��Ǘ��l</b> ���e���F2015/03/17(Tue) 10:16 &nbsp; [<a href="./light.cgi?res=44">�ԐM</a>]
-	<div class="com"><span style="color:#0000a0">&gt; �X�g�[���[����̍�i�ɁA���Ȃ�Ȍ��ł������z��������ł݂܂����B</span><br /><br />���肪�Ƃ��������܂��B<br />�s�s���Ȃǂ���܂���A�ǂȂ��ł������R�ɂ��������������B<br /><br />�ނ���킽�������悵�ď����Ȃ��Ƃ����Ȃ���ł��傤���ǁA���ߐ؂肪�߂��ĖZ�����c�c</div>
+	[<b>44</b>] <strong>どなたでもご自由にお書きください</strong>
+	投稿者：<b>きさらぎ＠別室管理人</b> 投稿日：2015/03/17(Tue) 10:16 &nbsp; [<a href="light@res_44.cgi">返信</a>]
+	<div class="com"><span style="color:#0000a0">&gt; ストーリー道場の作品に、かなり簡潔ですが感想書き込んでみました。</span><br /><br />ありがとうございます。<br />不都合などありません、どなたでもご自由にお書きください。<br /><br />むしろわたしが率先して書かないといけないんでしょうけど、締め切りが近くて忙しく……</div>
 </div>
 
 <div class="art">
-	[<b>43</b>] <strong>����ɏ�������ł悩�����̂��낤��</strong>
-	���e�ҁF<b>At14</b> ���e���F2015/03/16(Mon) 21:11 &nbsp; [<a href="./light.cgi?res=43">�ԐM</a>]
-	<div class="com">�X�g�[���[����̍�i�ɁA���Ȃ�Ȍ��ł������z��������ł݂܂����B<br /><br />�i���������s�s��������܂�����A�폜���܂��̂ł��m�点���������B�j</div>
+	[<b>43</b>] <strong>勝手に書き込んでよかったのだろうか</strong>
+	投稿者：<b>At14</b> 投稿日：2015/03/16(Mon) 21:11 &nbsp; [<a href="light@res_43.cgi">返信</a>]
+	<div class="com">ストーリー道場の作品に、かなり簡潔ですが感想書き込んでみました。<br /><br />（もし何か不都合がありましたら、削除しますのでお知らせください。）</div>
 </div>
 
 <div class="art">
-	[<b>42</b>] <strong>�A�C�G�G�G�G�I�H�@�i���f�I�H�@����i���f�I�H</strong>
-	���e�ҁF<b>�����炬���ʎ��Ǘ��l</b> ���e���F2015/02/25(Wed) 00:01 &nbsp; [<a href="./light.cgi?res=42">�ԐM</a>]
-	<div class="com">�@�b�ɂ��ƌ��݂̃X�g�[���[����i���j�͂炟���̎���T�[�o�[��ŉ^�p����Ă����炵���̂ł����B<br /><br />�@�c�c�܂�����񂾁H<br />�@��x���Ŕ��N�ɂ��Ȃ镶�ɃT�[�o�[��SOHO�^�p�������炵���ł����B<br /><br />�@���邢��IP���ς�����Ƃ��H<br />�@����������IP���ς�邱�Ƃ͗ǂ������ł����A�����ŃT�[�o�[���^�p���Ă���ƁAIP�ύX���DNS���Ǐ]���Ȃ��Ɛڑ��s�\�ɂȂ����Ⴂ�܂��B<br /><br />�@���[��A����T�[�o�[�͂�͂�F�X��肪�N���܂��˂��B<br />�@�킽�����̂���Ă���ł����A���s���ɒ�~���Ă��܂������Ƃ���x�قǂ���܂����B���ƂȂ��Ă͊Ǘ��̎�ԂƃR�X�g���l�����VPS�؂肽�����y���ɂ��₷���c�c���āA����Ȑ��I�Ȃ��Ɠf�I���Ă����傤���Ȃ����B<br /><br />�@��͂莩���Œu���Ȃ����Ƃɂ͈��J�͗��Ȃ��̂�������܂���˂��B<br />�@������ƃX�N���v�g�T���ĊJ���Ă݂܂��B</div>
+	[<b>42</b>] <strong>アイエエエエ！？　ナンデ！？　道場ナンデ！？</strong>
+	投稿者：<b>きさらぎ＠別室管理人</b> 投稿日：2015/02/25(Wed) 00:01 &nbsp; [<a href="light@res_42.cgi">返信</a>]
+	<div class="com">　話によると現在のストーリー道場（仮）はらぁ氏の自宅サーバー上で運用されていたらしいのですが。<br /><br />　……まさか飛んだ？<br />　一度飛んで半年にもなる文庫サーバーもSOHO運用だったらしいですし。<br /><br />　あるいはIPが変わったとか？<br />　自宅回線だとIPが変わることは良くあるんですが、そこでサーバーを運用していると、IP変更後はDNSが追従しないと接続不能になっちゃいます。<br /><br />　うーん、自宅サーバーはやはり色々問題が起きますねぇ。<br />　わたしも昔やってたんですが、旅行中に停止してしまったことが二度ほどありました。今となっては管理の手間とコストを考えるとVPS借りた方が遥かにやりやすい……って、そんな専門的なこと吐露ってもしょうがないか。<br /><br />　やはり自分で置かないことには安寧は来ないのかもしれませんねぇ。<br />　ちょっとスクリプト探し再開してみます。</div>
 </div>
 
 <div class="art">
-	[<b>41</b>] <strong>����H</strong>
-	���e�ҁF<b>At14</b> ���e���F2015/02/24(Tue) 19:31 &nbsp; [<a href="./light.cgi?res=41">�ԐM</a>]
-	<div class="com">�X�g�[���[����ɃA�N�Z�X�ł��܂���B<br />��T�͕��ʂɃA�N�Z�X�ł����̂Ɂc�c</div>
+	[<b>41</b>] <strong>あれ？</strong>
+	投稿者：<b>At14</b> 投稿日：2015/02/24(Tue) 19:31 &nbsp; [<a href="light@res_41.cgi">返信</a>]
+	<div class="com">ストーリー道場にアクセスできません。<br />先週は普通にアクセスできたのに……</div>
 </div>
 
 <div class="art">
-	[<b>40</b>] <strong>�X�g�[���[����</strong>
-	���e�ҁF<b>��e</b> ���e���F2015/02/24(Tue) 18:43 &nbsp; [<a href="./light.cgi?res=40">�ԐM</a>]
-	<div class="com">�@�Ȃ������˂��܂��B<br />�@���e���悤�Ƃ����當������������ʂŗB�ꕪ����̂��u�d���������v�Ƃ����P��B<br />�@�����́H<br />�@�n�X���[�h�H<br />�@�m�f���[�h�H<br />�@�����Ėl���Ȃ̂��H<br />�@�ǂ��Ȃ�ł��傤���ˁB</div>
+	[<b>40</b>] <strong>ストーリー道場</strong>
+	投稿者：<b>城弾</b> 投稿日：2015/02/24(Tue) 18:43 &nbsp; [<a href="light@res_40.cgi">返信</a>]
+	<div class="com">　なぜか撥ねられます。<br />　投稿しようとしたら文字化けした画面で唯一分かるのが「Ｅｒｒｏｒ」という単語。<br />　原因は？<br />　ハスワード？<br />　ＮＧワード？<br />　そして僕だなのか？<br />　どうなんでしょうかね。</div>
 </div>
 
 <div class="art">
-	[<b>39</b>] <strong>Re:[37] �����ꂳ�܂ł��B</strong>
-	���e�ҁF<b>�����炬���ʎ��Ǘ��l</b> ���e���F2015/02/16(Mon) 13:39 &nbsp; [<a href="./light.cgi?res=39">�ԐM</a>]
-	<div class="com">�@�����ăg�b�v�y�[�W�� library.html �ł͂Ȃ���ʓI�Ȑݒ�i index.html �j�ɖ߂��Ă�̂�Y��Ă��B�B�B<br />�@���������C�����܂����B</div>
+	[<b>39</b>] <strong>Re:[37] おつかれさまです。</strong>
+	投稿者：<b>きさらぎ＠別室管理人</b> 投稿日：2015/02/16(Mon) 13:39 &nbsp; [<a href="light@res_39.cgi">返信</a>]
+	<div class="com">　そしてトップページが library.html ではなく一般的な設定（ index.html ）に戻ってるのを忘れてた。。。<br />　そっちも修正しました。</div>
 </div>
 
 <div class="art">
-	[<b>38</b>] <strong>Re:[37] �����ꂳ�܂ł��B</strong>
-	���e�ҁF<b>�����炬���ʎ��Ǘ��l</b> ���e���F2015/02/16(Mon) 11:03 &nbsp; [<a href="./light.cgi?res=38">�ԐM</a>]
-	<div class="com"><span style="color:#0000a0">&gt; �g�b�v�y�[�W�A�X�g�[���[����̃����N�悪�����ɂȂ��Ă��܂��Ă��܂��B���萔�ł����C�����肢���܂��B</span><br />�@�����܂���A�w�b�h���C������URL�~�X���Ă܂����B<br />�@�C�����܂����B</div>
+	[<b>38</b>] <strong>Re:[37] おつかれさまです。</strong>
+	投稿者：<b>きさらぎ＠別室管理人</b> 投稿日：2015/02/16(Mon) 11:03 &nbsp; [<a href="light@res_38.cgi">返信</a>]
+	<div class="com"><span style="color:#0000a0">&gt; トップページ、ストーリー道場のリンク先がここになってしまっています。お手数ですが修正お願いします。</span><br />　すいません、ヘッドラインだけURLミスってました。<br />　修正しました。</div>
 </div>
 
 <div class="art">
-	[<b>37</b>] <strong>�����ꂳ�܂ł��B</strong>
-	���e�ҁF<b>�l�n�m�c�n���^�c�ψ�</b> ���e���F2015/02/15(Sun) 21:30 &nbsp; [<a href="./light.cgi?res=37">�ԐM</a>]
-	<div class="com">�g�b�v�y�[�W�A�X�g�[���[����̃����N�悪�����ɂȂ��Ă��܂��Ă��܂��B���萔�ł����C�����肢���܂��B</div>
+	[<b>37</b>] <strong>おつかれさまです。</strong>
+	投稿者：<b>ＭＯＮＤＯ＠運営委員</b> 投稿日：2015/02/15(Sun) 21:30 &nbsp; [<a href="light@res_37.cgi">返信</a>]
+	<div class="com">トップページ、ストーリー道場のリンク先がここになってしまっています。お手数ですが修正お願いします。</div>
 </div>
 
 <div class="art">
-	[<b>36</b>] <strong>���m�点�i2015/02/15�j</strong>
-	���e�ҁF<b>�����炬���ʎ��Ǘ��l</b> ���e���F2015/02/15(Sun) 09:49 &nbsp; [<a href="./light.cgi?res=36">�ԐM</a>]
-	<div class="com">�@���Ƀg�b�v�y�[�W�ɁA�炟����񋟂̑��f���i���j�ւ̃����N��\��܂����B<br />�@����������Ĉ�ʊJ�����ĂƂ���ł��傤���B<br /><br /><span style="color:#0000a0">&gt;&gt;�炟����</span><br />�@�g�킹�Ă��������܂���B</div>
+	[<b>36</b>] <strong>お知らせ（2015/02/15）</strong>
+	投稿者：<b>きさらぎ＠別室管理人</b> 投稿日：2015/02/15(Sun) 09:49 &nbsp; [<a href="light@res_36.cgi">返信</a>]
+	<div class="com">　文庫トップページに、らぁさん提供の第二掲示板（仮）へのリンクを貼りました。<br />　これをもって一般開放ってところでしょうか。<br /><br /><span style="color:#0000a0">&gt;&gt;らぁさん</span><br />　使わせていただきましゅ。</div>
 </div>
 
 <div class="art">
-	[<b>35</b>] <strong>����</strong>
-	���e�ҁF<b>�炟</b> ���e���F2015/02/13(Fri) 01:06 &nbsp; [<a href="./light.cgi?res=35">�ԐM</a>]
-	<div class="com">�������炬����<br /><span style="color:#0000a0">&gt; ����z�zCGI�������񂾁I�H</span><br /><span style="color:#0000a0">&gt; ����[�A�T������Ȃ��̂��ƌ�����΂���܂ł����ǁA�S���R�������Ȃ������c�c orz</span><br /><span style="color:#0000a0">&gt; �������z�z���͂��������ꂿ����Ă�̂��낤���c�c</span><br />�͂��A������Ă܂����c<br /><br /><span style="color:#0000a0">&gt; �m�F������ł����Ǘ��p�X���[�h����̃A���ł͂���܂���ł����̂ŁA�ς��Ă��炦��ł��傤���H</span><br />������̃A���ɂȂ����Ǝv���܂��B�Ȃ��ĂȂ�������܂�����񂭂������B<br /><br /><span style="color:#0000a0">&gt; ���z���l�͎����Œu������������B�B�B�X�N���v�g�͂ǂ���������</span><br />�l�b�g�̊C�ɐ���Əo�Ă��܂��c �����Ɍ��\���Ԃ�������܂�������<br /><br />���l�n�m�c�n����<br /><span style="color:#0000a0">&gt; ���邱�Ƃ�����Ă�������Ȃ̂ŁA�܂��f�����ŘA����荇���܂��傤�B</span><br />�͂��A��낵�����肢���܂��B</div>
+	[<b>35</b>] <strong>無題</strong>
+	投稿者：<b>らぁ</b> 投稿日：2015/02/13(Fri) 01:06 &nbsp; [<a href="light@res_35.cgi">返信</a>]
+	<div class="com">＞きさらぎさん<br /><span style="color:#0000a0">&gt; それ配布CGIだったんだ！？</span><br /><span style="color:#0000a0">&gt; うわー、探し足りないのだと言われればそれまでだけど、全っ然見つけられなかった…… orz</span><br /><span style="color:#0000a0">&gt; しかし配布元はもう閉鎖されちゃってるのだろうか……</span><br />はい、閉鎖されてました…<br /><br /><span style="color:#0000a0">&gt; 確認したんですが管理パスワードが例のアレではありませんでしたので、変えてもらえるでしょうか？</span><br />多分例のアレになったと思います。なってなかったらまたご一報ください。<br /><br /><span style="color:#0000a0">&gt; ＃ホンネは自分で置きたかったり。。。スクリプトはどこだぁぁぁ</span><br />ネットの海に潜ると出てきます… 潜水に結構時間がかかりましたがｗ<br /><br />＞ＭＯＮＤＯさん<br /><span style="color:#0000a0">&gt; やれることをやっていくつもりなので、また掲示板等で連絡取り合いましょう。</span><br />はい、よろしくお願いします。</div>
 </div>
 
 
@@ -144,19 +144,19 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-�L��No<input type="text" name="num" size="3" />
-�폜�L�[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="�폜" />
+記事No<input type="text" name="num" size="3" />
+削除キー<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="削除" />
 </form>
 </div>
 

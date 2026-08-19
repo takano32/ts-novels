@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,58 +13,58 @@ function popup(url) {
 }
 // -->
 </script>
-<title>�N���G�C�^�[�Y�E�t���A�i���j</title>
+<title>クリエイターズ・フロア（仮）</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>�N���G�C�^�[�Y�E�t���A�i���j</h1>
+<h1>クリエイターズ・フロア（仮）</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">�g�b�v�ɖ߂�</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">���ӎ���</a>]
-[<a href="./light.cgi?mode=find">���[�h����</a>]
+[<a href="../../index.html" target="_top">トップに戻る</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">留意事項</a>]
+[<a href="light@mode_find.cgi">ワード検索</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">�ߋ����O</a>]
+[<a href="light@mode_past.cgi">過去ログ</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">�Ǘ��p</a>]
+[<a href="admin.cgi">管理用</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>���Ȃ܂�</th>
+	<th>おなまえ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>�d���[��</th>
+	<th>Ｅメール</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>�^�C�g��</th>
+	<th>タイトル</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[195] winofarr zelymir 英数字" />
-    	<input type="submit" value="���M����" /><input type="reset" value="���Z�b�g" />
+    	<input type="text" name="sub" size="36" value="Re:[195] winofarr zelymir 闍ｱ謨ｰ蟄�" />
+    	<input type="submit" value="送信する" /><input type="reset" value="リセット" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	���b�Z�[�W<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; winofarr ベン10アルティメットエイリアンゲーム無料ダウンロードPC</textarea>
+    	メッセージ<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; winofarr 繝吶Φ10繧｢繝ｫ繝�繧｣繝｡繝�繝医お繧､繝ｪ繧｢繝ｳ繧ｲ繝ｼ繝辟｡譁吶ム繧ｦ繝ｳ繝ｭ繝ｼ繝臼C</textarea>
 	</th>
 </tr><tr>
-	<th>�Q�Ɛ�</th>
+	<th>参照先</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>�폜�L�[</th>
+	<th>削除キー</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(�p������8�����ȓ�) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> �N�b�L�[�ۑ�
+		(英数字で8文字以内) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> クッキー保存
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>�摜�F��</th>
+	<th>画像認証</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		�i�E�摜�̐�������́j <img src="./captcha.cgi?fffb96789ec2c07bacf482bebb38afc6844a" class="capt" alt="���e�L�[" />
+		（右画像の数字を入力） <img src="captcha@fffb96789ec2c07bacf482bebb38afc6844a.cgi" class="capt" alt="投稿キー" />
 		<input type="hidden" name="str_crypt" value="fffb96789ec2c07bacf482bebb38afc6844a" />
 	</td>
 <!-- captcha_end -->
@@ -75,63 +75,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>272</b>] <strong>�G�����X�R�s�[</strong>
-	���e�ҁF<b>�n�R�s�[</b> ���e���F2024/02/21(Wed) 17:35 &nbsp; [<a href="./light.cgi?res=272">�ԐM</a>]
-	<div class="com">�G�����X�R�s�[�́A���i���Ȑ��i�Ǝ育��ȉ��i�̑g�ݍ��킹�ɂ��A�t�@�b�V�������D�҂ɍL���x������Ă��܂��B�����I���ŃX�^�C���b�V���ȓ�������o���܂��傤�B<a href="https://www.hacopy.net/hermes" target="_blank">https://www.hacopy.net/hermes</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>272</b>] <strong>エルメスコピー</strong>
+	投稿者：<b>ハコピー</b> 投稿日：2024/02/21(Wed) 17:35 &nbsp; [<a href="light@res_272.cgi">返信</a>]
+	<div class="com">エルメスコピーは、高品質な製品と手ごろな価格の組み合わせにより、ファッション愛好者に広く支持されています。賢い選択でスタイリッシュな日常を演出しましょう。<a href="https://www.hacopy.net/hermes" target="_blank">https://www.hacopy.net/hermes</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>271</b>] <strong>�X�[�p�[�R�s�[�o�b�O�D�ǓX</strong>
-	���e�ҁF<b>�n�R�s�[</b> ���e���F2024/01/19(Fri) 17:24 &nbsp; [<a href="./light.cgi?res=271">�ԐM</a>]
-	<div class="com">hacopy�X�[�p�[�R�s�[�o�b�O���̓����I�ȃR�X�g�p�t�H�[�}���X�Ɛ������ꂽ�f�U�C���́A���ɂ͂Ȃ����͂������Ă��܂��B<a href="https://www.hacopy.net/baggu/" target="_blank">https://www.hacopy.net/baggu/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>271</b>] <strong>スーパーコピーバッグ優良店</strong>
+	投稿者：<b>ハコピー</b> 投稿日：2024/01/19(Fri) 17:24 &nbsp; [<a href="light@res_271.cgi">返信</a>]
+	<div class="com">hacopyスーパーコピーバッグその特徴的なコストパフォーマンスと洗練されたデザインは、他にはない魅力を持っています。<a href="https://www.hacopy.net/baggu/" target="_blank">https://www.hacopy.net/baggu/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>270</b>] <strong>�X�[�p�[�R�s�[ �D�ǃT�C�g</strong>
-	���e�ҁF<b>�A���R�s�[</b> ���e���F2024/01/10(Wed) 10:42 &nbsp; [<a href="./light.cgi?res=270">�ԐM</a>]
-	<div class="com">�����u�����h�̃X�[�p�[�R�s�[�i��T���Ȃ�A�D�ǃT�C�g�𗘗p����̂��������߂ł��B�D�ǃT�C�g�Ȃ�A���i���̃X�[�p�[�R�s�[�i���L�x�ɑ����Ă���A���S���čw���ł��܂��B�܂��A���i�����[�Y�i�u���Ȃ̂ŁA�����Ƀn�C�u�����h�̃A�C�e������ɓ���邱�Ƃ��ł��܂��B<br /><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
+	[<b>270</b>] <strong>スーパーコピー 優良サイト</strong>
+	投稿者：<b>アンコピー</b> 投稿日：2024/01/10(Wed) 10:42 &nbsp; [<a href="light@res_270.cgi">返信</a>]
+	<div class="com">高級ブランドのスーパーコピー品を探すなら、優良サイトを利用するのがおすすめです。優良サイトなら、高品質のスーパーコピー品が豊富に揃っており、安心して購入できます。また、価格もリーズナブルなので、お得にハイブランドのアイテムを手に入れることができます。<br /><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>269</b>] <strong>�X�j�[�J�[ �X�[�p�[�R�s�[ ��������</strong>
-	���e�ҁF<b>�����R�s�[</b> ���e���F2024/01/02(Tue) 11:59 &nbsp; [<a href="./light.cgi?res=269">�ԐM</a>]
-	<div class="com">�X�j�[�J�[ �X�[�p�[�R�s�[ �������� �U�������T�C�g<br />�X�j�[�J�[ �X�[�p�[�R�s�[ �������߁C�X�[�p�[�R�s�[ �X�j�[�J�[ �U���T�C�g�uYayakopi�v,�X�j�[�J�[ �R�s�[ ����N���i�A�X�j�[�J�[�N���u �U��,�u�����h�C�R�s�[ n���U���A���R�~�ō����̃u�����h�R�s�[ �X�j�[�J�[�A���f�B�[�X�A�r�W�l�X�V���[�Y�A�J�W���A���V���[�Y�͑��������A�i���ۏ؁B<br />�X�j�[�J�[ �X�[�p�[�R�s�[ ��������<br /><a href="https://www.yayakopi.org/NIKE/" target="_blank">https://www.yayakopi.org/NIKE/</a><p class="url"><a href="https://www.yayakopi.org" target="_blank">https://www.yayakopi.org</a></p></div>
+	[<b>269</b>] <strong>スニーカー スーパーコピー おすすめ</strong>
+	投稿者：<b>ヤヤコピー</b> 投稿日：2024/01/02(Tue) 11:59 &nbsp; [<a href="light@res_269.cgi">返信</a>]
+	<div class="com">スニーカー スーパーコピー おすすめ 偽物激安サイト<br />スニーカー スーパーコピー おすすめ，スーパーコピー スニーカー 偽物サイト「Yayakopi」,スニーカー コピー 激安N級品、スニーカークラブ 偽物,ブランド靴コピー n級偽物、口コミ最高級のブランドコピー スニーカー、レディース、ビジネスシューズ、カジュアルシューズは送料無料、品質保証。<br />スニーカー スーパーコピー おすすめ<br /><a href="https://www.yayakopi.org/NIKE/" target="_blank">https://www.yayakopi.org/NIKE/</a><p class="url"><a href="https://www.yayakopi.org" target="_blank">https://www.yayakopi.org</a></p></div>
 </div>
 
 <div class="art">
-	[<b>268</b>] <strong>�X�[�p�[�R�s�[ �D�ǃT�C�g</strong>
-	���e�ҁF<b>�A���R�s�[</b> ���e���F2023/12/29(Fri) 13:00 &nbsp; [<a href="./light.cgi?res=268">�ԐM</a>]
-	<div class="com">����̃u�����h�i���A�����Ɏ�ɓ����Ȃ�A�X�[�p�[�R�s�[ �D�ǃT�C�g���`�F�b�N�I<br /><br />���i����N���i���L�x�ɑ����Ă���A���i�����[�Y�i�u���B<br /><br />�͂��܂ł̊��Ԃ������̂ŁA�}���̕������S�ł��B<br />�X�[�p�[�R�s�[ �D�ǃT�C�g:<a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
+	[<b>268</b>] <strong>スーパーコピー 優良サイト</strong>
+	投稿者：<b>アンコピー</b> 投稿日：2023/12/29(Fri) 13:00 &nbsp; [<a href="light@res_268.cgi">返信</a>]
+	<div class="com">憧れのブランド品を、お得に手に入れるなら、スーパーコピー 優良サイトをチェック！<br /><br />高品質なN級品が豊富に揃っており、価格もリーズナブル。<br /><br />届くまでの期間も早いので、急ぎの方も安心です。<br />スーパーコピー 優良サイト:<a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>267</b>] <strong>�X�j�[�J�[ �X�[�p�[�R�s�[ ��������</strong>
-	���e�ҁF<b>bibicopy</b> ���e���F2023/12/29(Fri) 10:58 &nbsp; [<a href="./light.cgi?res=267">�ԐM</a>]
-	<div class="com">�X�j�[�J�[ �X�[�p�[�R�s�[ ��������<br />�X�j�[�J�[ �X�[�p�[�R�s�[�A�X�j�[�J�[ �U���C����<br />�X�[�p�[�R�s�[ �X�j�[�J�[�����ʔ̂ł��BLJR�X�j�[�J�[�A�X�j�[�J�[�N���u,�X�j�[�J�[�_���N�U��N���i���X�uBibicopy�v�C2024�V�� �X�j�[�J�[ �X�[�p�[�R�s�[ �������߁A�X�j�[�J�[ �U���T�C�g�A�u�����h�R�s�[�C�Ȃǂ̃u�����h�R�s�[ �r�W�l�X�V���[�Y�͕i���ۏ؂ŁB<br /><a href="https://www.bibicopy.net/shoes/" target="_blank">https://www.bibicopy.net/shoes/</a><p class="url"><a href="https://www.bibicopy.net" target="_blank">https://www.bibicopy.net</a></p></div>
+	[<b>267</b>] <strong>スニーカー スーパーコピー おすすめ</strong>
+	投稿者：<b>bibicopy</b> 投稿日：2023/12/29(Fri) 10:58 &nbsp; [<a href="light@res_267.cgi">返信</a>]
+	<div class="com">スニーカー スーパーコピー おすすめ<br />スニーカー スーパーコピー、スニーカー 偽物靴激安<br />スーパーコピー スニーカー激安通販です。LJRスニーカー、スニーカークラブ,スニーカーダンク偽物N級品専門店「Bibicopy」，2024新作 スニーカー スーパーコピー おすすめ、スニーカー 偽物サイト、ブランドコピー靴などのブランドコピー ビジネスシューズは品質保証で。<br /><a href="https://www.bibicopy.net/shoes/" target="_blank">https://www.bibicopy.net/shoes/</a><p class="url"><a href="https://www.bibicopy.net" target="_blank">https://www.bibicopy.net</a></p></div>
 </div>
 
 <div class="art">
-	[<b>266</b>] <strong>�i�C�L �X�[�p�[�R�s�[</strong>
-	���e�ҁF<b>tokei365</b> ���e���F2023/12/28(Thu) 12:14 &nbsp; [<a href="./light.cgi?res=266">�ԐM</a>]
-	<div class="com">�i�C�L �X�[�p�[�R�s�[�́A��ɍŐV�̃g�����h�������ꂽ�f�U�C�����L�x�B�t�@�b�V�����V�[���ň����s���X�^�C������ɓ��ꂽ�����ɂ������߂̈ꑫ�ł��B<br />�i�C�L �X�[�p�[�R�s�[:<a href="https://www.tokei365.org/brandcopy-category-83.html" target="_blank">https://www.tokei365.org/brandcopy-category-83.html</a></div>
+	[<b>266</b>] <strong>ナイキ スーパーコピー</strong>
+	投稿者：<b>tokei365</b> 投稿日：2023/12/28(Thu) 12:14 &nbsp; [<a href="light@res_266.cgi">返信</a>]
+	<div class="com">ナイキ スーパーコピーは、常に最新のトレンドを取り入れたデザインが豊富。ファッションシーンで一歩先行くスタイルを手に入れたい方におすすめの一足です。<br />ナイキ スーパーコピー:<a href="https://www.tokei365.org/brandcopy-category-83.html" target="_blank">https://www.tokei365.org/brandcopy-category-83.html</a></div>
 </div>
 
 <div class="art">
-	[<b>265</b>] <strong>�V���l���R�s�[</strong>
-	���e�ҁF<b>�n�R�s�[</b> ���e���F2023/12/27(Wed) 16:38 &nbsp; [<a href="./light.cgi?res=265">�ԐM</a>]
-	<div class="com">�V���l���R�s�[�́A�D��Ő������ꂽ�f�U�C���������ŁA�t�@�b�V�������D�҂̐S�𖣗����܂��B���̍ו��ɂ킽�鍂���N�I���e�B�ƌ|�p�I�ȍH�|�́A�g�����f�B�ŃX�^�C���b�V���Ȉ�ۂ�^���܂��B<a href="https://www.hacopy.net/shaneru" target="_blank">https://www.hacopy.net/shaneru</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>265</b>] <strong>シャネルコピー</strong>
+	投稿者：<b>ハコピー</b> 投稿日：2023/12/27(Wed) 16:38 &nbsp; [<a href="light@res_265.cgi">返信</a>]
+	<div class="com">シャネルコピーは、優雅で洗練されたデザインが特徴で、ファッション愛好者の心を魅了します。その細部にわたる高いクオリティと芸術的な工芸は、トレンディでスタイリッシュな印象を与えます。<a href="https://www.hacopy.net/shaneru" target="_blank">https://www.hacopy.net/shaneru</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>264</b>] <strong>�X�[�p�[�R�s�[���v</strong>
-	���e�ҁF<b>�n�R�s�[</b> ���e���F2023/12/19(Tue) 18:23 &nbsp; [<a href="./light.cgi?res=264">�ԐM</a>]
-	<div class="com">�����b�N�X �U���͎荠�ȉ��i�ō���������ɓ������@�ł��BN���i�T�C�g�ł́A���[�Y�i�u���ȉ��i�Ŗ{���ɋ߂��O�ς�f�U�C������ɓ���邱�Ƃ��ł��܂��B<a href="https://www.hacopy.net/brand_rolex/" target="_blank">https://www.hacopy.net/brand_rolex/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>264</b>] <strong>スーパーコピー時計</strong>
+	投稿者：<b>ハコピー</b> 投稿日：2023/12/19(Tue) 18:23 &nbsp; [<a href="light@res_264.cgi">返信</a>]
+	<div class="com">ロレックス 偽物は手頃な価格で高級感を手に入れる方法です。N級品サイトでは、リーズナブルな価格で本物に近い外観やデザインを手に入れることができます。<a href="https://www.hacopy.net/brand_rolex/" target="_blank">https://www.hacopy.net/brand_rolex/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>263</b>] <strong>2024�N�V��A�C�e�������X�o����܂Ƃ�</strong>
-	���e�ҁF<b>2024�N�V��A�C�e�������X�o����܂Ƃ�</b> ���e���F2023/12/09(Sat) 11:40 &nbsp; [<a href="./light.cgi?res=263">�ԐM</a>]
-	<div class="com">2024�N�V��A�C�e���̏����A�����������͂����܂��B <a href="http://www.image-co.net/common/css/index.php" target="_blank">http://www.image-co.net/common/css/index.php</a><p class="url"><a href="http://www.image-co.net/common/css/index.php" target="_blank">http://www.image-co.net/common/css/index.php</a></p></div>
+	[<b>263</b>] <strong>2024年新作アイテムが続々登場情報まとめ</strong>
+	投稿者：<b>2024年新作アイテムが続々登場情報まとめ</b> 投稿日：2023/12/09(Sat) 11:40 &nbsp; [<a href="light@res_263.cgi">返信</a>]
+	<div class="com">2024年新作アイテムの情報を、いち早くお届けします。 <a href="http://www.image-co.net/common/css/index.php" target="_blank">http://www.image-co.net/common/css/index.php</a><p class="url"><a href="http://www.image-co.net/common/css/index.php" target="_blank">http://www.image-co.net/common/css/index.php</a></p></div>
 </div>
 
 
@@ -139,24 +139,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-�L��No<input type="text" name="num" size="3" />
-�폜�L�[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="�폜" />
+記事No<input type="text" name="num" size="3" />
+削除キー<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="削除" />
 </form>
 </div>
 

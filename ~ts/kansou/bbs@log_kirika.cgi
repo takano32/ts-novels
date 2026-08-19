@@ -141,7 +141,7 @@ link<input type=checkbox name="link" value="1" checked>
 　そのうちに……と言いつつ次回は無理っぽいのです。本編のほうでよろしくです。<br>
 <br>
 　それでは失礼いたします。</font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 
@@ -215,7 +215,7 @@ link<input type=checkbox name="link" value="1" checked>
 　しかし、バレットさんの画力が「ない」だったら、きりかの画力はどうなることやら。<br>
 <br>
 　お二方の感想板にもいずれお邪魔させて頂きます。時間の捻出に少々ください。失礼いたします。</font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 
@@ -289,7 +289,7 @@ link<input type=checkbox name="link" value="1" checked>
 <font color="#ff88cc">＞ポーズとか表情</font><br>
 　いやもう増やしてくださるなら大歓迎です！　（ひとまかせ）<br>
 　……いえいえ。とにかく今ある分をもっとうまく活用できるように、自分でいろいろ工夫してみようと思っています。でも、もし他の人なんかも簡単に主人公をビジュアル化できるとすれば、それはまた面白いのかもしれないと思いますけれどもね。</font>
-<p><a href="http://www.novels.name/tsh2/" target="_top">http://www.novels.name/tsh2/</a>
+<p><a href="../../www.novels.name/tsh2/index.html" target="_top">../../www.novels.name/tsh2/index.html</a>
 </td></table>
 </td></tr></table>
 

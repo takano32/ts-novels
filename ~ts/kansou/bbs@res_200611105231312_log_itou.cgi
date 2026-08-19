@@ -228,7 +228,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 <font color="#cc88ff">&gt;運営委員の方へ</font><br>
 　感想掲示板からの「反魂香」へのリンクが「少年以上、少女未満　第２話」に繋がっているようですよ？</font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 

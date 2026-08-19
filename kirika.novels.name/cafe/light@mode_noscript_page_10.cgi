@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html lang="ja">
 <head>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <META HTTP-EQUIV="Content-Style-Type" content="text/css">
 <META HTTP-EQUIV="Content-Script-Type" content="text/javascript">
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
@@ -12,7 +12,7 @@
 <!--
 body,tr,td,th {
 	font-size:x-small;
-	font-family:"MS UI Gothic","‚l‚r ‚oƒSƒVƒbƒN",Osaka;
+	font-family:"MS UI Gothic","ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯",Osaka;
 }
 .num { font-family:Verdana,Helvetica,Arial; }
 .l { background-color: #666666; color: #ffffff; }
@@ -30,18 +30,18 @@ document.write(fcheck.arguments[1] + fcheck.arguments[2] + fcheck.arguments[0] +
 }
 // -->
 </script>
-<title>‹i’ƒwƒuƒ‹[ƒRƒXƒ‚ƒXx</title></head>
+<title>å–«èŒ¶ã€Žãƒ–ãƒ«ãƒ¼ã‚³ã‚¹ãƒ¢ã‚¹ã€</title></head>
 <body bgcolor="#F5F5F5" text="#000000" link="#0000FF" vlink="#800080" alink="#FF0000">
 <table width="100%"><tr><th bgcolor="#008080">
-  <font color="#FFFFFF">JavaScript‚ð—˜—p‚µ‚½ƒ[ƒ‹ƒAƒhƒŒƒX•\Ž¦‚É‚Â‚¢‚Ä</font>
+  <font color="#FFFFFF">JavaScriptã‚’åˆ©ç”¨ã—ãŸãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹è¡¨ç¤ºã«ã¤ã„ã¦</font>
 </th></tr></table>
 <P><div align="center">
-ƒXƒpƒ€(ˆê•û“I–À˜fƒ[ƒ‹)‚¨‚æ‚ÑƒEƒCƒ‹ƒX‘Îô‚Ì‚½‚ßAJavaScript‚ð—˜—p‚µ‚½ƒ[ƒ‹ƒAƒhƒŒƒX•\Ž¦‚ðÌ—p‚µ‚Ä‚¢‚Ü‚·B<br>
-‚¨Žè”‚ð‚¨‚©‚¯‚µ‚Ü‚·‚ªA“ŠeŽÒ‚Ìƒ[ƒ‹ƒAƒhƒŒƒX‚ð•\Ž¦‚³‚¹‚é‚½‚ß‚É‚ÍAJavaScript‚ð—LŒø‚É‚µ‚Ä‚­‚¾‚³‚¢B<br>
+ã‚¹ãƒ‘ãƒ (ä¸€æ–¹çš„è¿·æƒ‘ãƒ¡ãƒ¼ãƒ«)ãŠã‚ˆã³ã‚¦ã‚¤ãƒ«ã‚¹å¯¾ç­–ã®ãŸã‚ã€JavaScriptã‚’åˆ©ç”¨ã—ãŸãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹è¡¨ç¤ºã‚’æŽ¡ç”¨ã—ã¦ã„ã¾ã™ã€‚<br>
+ãŠæ‰‹æ•°ã‚’ãŠã‹ã‘ã—ã¾ã™ãŒã€æŠ•ç¨¿è€…ã®ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’è¡¨ç¤ºã•ã›ã‚‹ãŸã‚ã«ã¯ã€JavaScriptã‚’æœ‰åŠ¹ã«ã—ã¦ãã ã•ã„ã€‚<br>
 <br>
-<form action="./light.cgi" target="_top">
+<form action="light.cgi" target="_top">
 <input type=hidden name=page value="10">
-<input type=submit value="ŒfŽ¦”Â‚Ö–ß‚é">
+<input type=submit value="æŽ²ç¤ºæ¿ã¸æˆ»ã‚‹">
 </form>
 </div>
 <br><hr>

@@ -225,7 +225,7 @@ HITしましたね。</font>
 <font size=3 color=#606060>　初めてお邪魔いたします。ちょうど折り返し点ですね。前回の遊園地の話もとっても面白かったのですが、今回も良くって、タイトル下くらいの睦月ちゃんの部屋のパートが特に気に入りましたです。<br>
 <br>
 　拙作の紹介、ありがとうございました。失礼ながらこれまで感想は書いていませんでしたけど、今後とも続きを楽しみにしつつ応援しております。</font>
-<p><a href="http://www.novels.name/tsh/" target="_top">http://www.novels.name/tsh/</a>
+<p><a href="../../www.novels.name/tsh/index.html" target="_top">../../www.novels.name/tsh/index.html</a>
 </td></table>
 </td></tr></table>
 

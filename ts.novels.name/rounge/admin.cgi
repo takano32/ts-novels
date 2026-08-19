@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-style-type" content="text/css">
 <style type="text/css">
 <!--
@@ -18,17 +18,17 @@ div.art span, div.art strong { color:green; }
 div.com { margin-left:2em; color:#804000; font-size:90%; }
 -->
 </style>
-<title>“üŽº‰æ–Ê</title>
+<title>å…¥å®¤ç”»é¢</title>
 </head>
 <body>
 <div align="center">
-<form action="./admin.cgi" method="post">
+<form action="admin.cgi" method="post">
 <table width="380" style="margin-top:50px">
 <tr>
 	<td height="40" align="center">
-		<fieldset><legend>ŠÇ—ƒpƒXƒ[ƒh“ü—Í</legend><br>
+		<fieldset><legend>ç®¡ç†ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰å…¥åŠ›</legend><br>
 		<input type="password" name="pass" value="" size="20">
-		<input type="submit" value=" ”FØ "><br><br>
+		<input type="submit" value=" èªè¨¼ "><br><br>
 		</fieldset>
 	</td>
 </tr>

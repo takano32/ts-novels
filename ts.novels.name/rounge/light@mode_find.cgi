@@ -2,29 +2,29 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
-<title>ƒ[ƒhŒŸõ</title>
+<title>ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢</title>
 </head>
 <body>
 
-[<a href="./light.cgi">–ß‚é</a>]
-<div class="obi">ƒ[ƒhŒŸõ</div>
+[<a href="light.cgi">æˆ»ã‚‹</a>]
+<div class="obi">ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢</div>
 
 <ul>
-<li>ŒŸõ‚µ‚½‚¢<b>ƒL[ƒ[ƒh</b>‚ð“ü—Í‚µuŒŸõvƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢B</li>
-<li>ƒL[ƒ[ƒh‚ÍƒXƒy[ƒX‚Å‹æØ‚Á‚Ä•¡”Žw’è‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-<form action="./light.cgi" method="get">
+<li>æ¤œç´¢ã—ãŸã„<b>ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰</b>ã‚’å…¥åŠ›ã—ã€Œæ¤œç´¢ã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ãã ã•ã„ã€‚</li>
+<li>ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã¯ã‚¹ãƒšãƒ¼ã‚¹ã§åŒºåˆ‡ã£ã¦è¤‡æ•°æŒ‡å®šã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
+<form action="light.cgi" method="get">
 <input type="hidden" name="mode" value="find" />
-ƒL[ƒ[ƒh <input type="text" name="word" size="36" value="" />
-ðŒ
+ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ <input type="text" name="word" size="36" value="" />
+æ¡ä»¶
 <select name="cond">
 <option value="1">AND</option>
 <option value="0">OR</option>
 
 </select>
-<input type="submit" value=" ŒŸõ " />
+<input type="submit" value=" æ¤œç´¢ " />
 </form></li>
 </ul>
 

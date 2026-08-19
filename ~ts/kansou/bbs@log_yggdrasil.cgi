@@ -178,7 +178,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 　なんてコムズカシク書きましたが、久しぶりに読めて嬉しかったです。<br>
 　お忙しいでしょうけれども、新作もよろしくお願いいたしますね！</font>
-<p><a href="http://www.novels.name/tsh2/" target="_top">http://www.novels.name/tsh2/</a>
+<p><a href="../../www.novels.name/tsh2/index.html" target="_top">../../www.novels.name/tsh2/index.html</a>
 </td></table>
 </td></tr></table>
 

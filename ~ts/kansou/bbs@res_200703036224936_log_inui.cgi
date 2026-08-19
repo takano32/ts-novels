@@ -90,7 +90,7 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=3 color=#606060>　すみません。第二で読んだし、とか思って油断してました。まさか大増量になっていたとは。旺盛なサービス精神に感謝しつつ、拝読。<br>
 <br>
 　小夜ちゃんもいい子だしお母さんもいい。話の展開もきっちり筋道が立っていて、しかも読みやすくて面白い。いや良かったです。裕香ちゃんの「思いつき」に大いに期待しつつ、また続きも楽しみにさせて頂きます。</font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 

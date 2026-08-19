@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html lang="ja">
 <head>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <META HTTP-EQUIV="Content-Style-Type" content="text/css">
 <META HTTP-EQUIV="Content-Script-Type" content="text/javascript">
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
@@ -12,7 +12,7 @@
 <!--
 body,tr,td,th {
 	font-size:x-small;
-	font-family:"MS UI Gothic","‚l‚r ‚oƒSƒVƒbƒN",Osaka;
+	font-family:"MS UI Gothic","ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯",Osaka;
 }
 .num { font-family:Verdana,Helvetica,Arial; }
 .l { background-color: #666666; color: #ffffff; }
@@ -30,13 +30,13 @@ document.write(fcheck.arguments[1] + fcheck.arguments[2] + fcheck.arguments[0] +
 }
 // -->
 </script>
-<title>‹i’ƒwƒuƒ‹[ƒRƒXƒ‚ƒXx</title></head>
+<title>å–«èŒ¶ã€Žãƒ–ãƒ«ãƒ¼ã‚³ã‚¹ãƒ¢ã‚¹ã€</title></head>
 <body bgcolor="#F5F5F5" text="#000000" link="#0000FF" vlink="#800080" alink="#FF0000">
 <div align="center">
-<h4>ƒpƒXƒ[ƒh‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢</h4>
-<form action="./admin.cgi" method="POST">
-<input type=radio name=mode value=admin checked>‹LŽ–
-<input type=radio name=mode value=setup>Ý’è<br><br>
+<h4>ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„</h4>
+<form action="admin.cgi" method="POST">
+<input type=radio name=mode value=admin checked>è¨˜äº‹
+<input type=radio name=mode value=setup>è¨­å®š<br><br>
 <input type=password name=pass size=8>
-<input type=submit value=" ”FØ "></form></div>
+<input type=submit value=" èªè¨¼ "></form></div>
 </body></html>

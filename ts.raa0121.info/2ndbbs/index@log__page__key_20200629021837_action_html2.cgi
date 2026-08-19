@@ -85,7 +85,7 @@ kyouske
 <td width=10% style=font-size:9pt>ハヤシ</td>
 <td width=15% style=font-size:9pt>■2020-03-02 20:16</td>
 <td style=font-size:9pt width=15%>ID :</td>
-<form method=post action=./index.cgi><th width=12% style=font-size:9pt>PASS<input type=password name=pwd2 size=5 value=>
+<form method=post action="index.cgi"><th width=12% style=font-size:9pt>PASS<input type=password name=pwd2 size=5 value=>
 <input type=hidden name=action value=dele3>
 <input type=hidden name=log value=>
 <input type=hidden name=key value=20200629021837>
@@ -102,7 +102,7 @@ kyouske
 <td width=10% style=font-size:9pt>ハヤシ</td>
 <td width=15% style=font-size:9pt>■2020-03-02 20:15</td>
 <td style=font-size:9pt width=15%>ID :</td>
-<form method=post action=./index.cgi><th width=12% style=font-size:9pt>PASS<input type=password name=pwd2 size=5 value=>
+<form method=post action="index.cgi"><th width=12% style=font-size:9pt>PASS<input type=password name=pwd2 size=5 value=>
 <input type=hidden name=action value=dele3>
 <input type=hidden name=log value=>
 <input type=hidden name=key value=20200629021837>
@@ -119,7 +119,7 @@ kyouske
 <td></td>
 </tr>
 </table>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name=action value=regist2>
 <table border=8>
 <tr>
@@ -175,12 +175,12 @@ E-Mail(任意)
 </td></tr></table></form>
 </center>
 <br><br>
-<a href=./index.cgi?log=&page=>
+<a href="index@log__page_.cgi">
 <<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20200629021837">
 <input type=hidden name="log" value="">
@@ -194,7 +194,7 @@ E-Mail(任意)
 <input type=submit value="管理者用" class=d1>
 </td>
 </form>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name=action value=in>
 <input type=hidden name="num" value="20200629021837">
 <input type=hidden name="log" value="">

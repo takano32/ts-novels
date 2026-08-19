@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,60 +13,60 @@ function popup(url) {
 }
 // -->
 </script>
-<title>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</title>
+<title>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</h1>
+<h1>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">ѓgѓbѓv‚Й–Я‚й</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">—Ї€УЋ–ЌЂ</a>]
-[<a href="./light.cgi?mode=find">ѓЏЃ[ѓhЊџЌх</a>]
+[<a href="../../index.html" target="_top">гѓ€гѓѓгѓ—гЃ«ж€»г‚‹</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">з•™ж„Џдє‹й …</a>]
+[<a href="light@mode_find.cgi">гѓЇгѓјгѓ‰ж¤њзґў</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">‰Я‹ЋѓЌѓO</a>]
+[<a href="light@mode_past.cgi">йЃЋеЋ»гѓ­г‚°</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">ЉЗ—ќ—p</a>]
+[<a href="admin.cgi">з®Ўзђ†з”Ё</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>‚Ё‚И‚Ь‚¦</th>
+	<th>гЃЉгЃЄгЃѕгЃ€</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>‚dѓЃЃ[ѓ‹</th>
+	<th>пјҐгѓЎгѓјгѓ«</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>ѓ^ѓCѓgѓ‹</th>
+	<th>г‚їг‚¤гѓ€гѓ«</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[329] ѓXЃ[ѓpЃ[ѓRѓsЃ[ЋћЊv" />
-    	<input type="submit" value="‘—ђM‚·‚й" /><input type="reset" value="ѓЉѓZѓbѓg" />
+    	<input type="text" name="sub" size="36" value="Re:[329] г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјж™‚иЁ€" />
+    	<input type="submit" value="йЂЃдїЎгЃ™г‚‹" /><input type="reset" value="гѓЄг‚»гѓѓгѓ€" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	ѓЃѓbѓZЃ[ѓW<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ѓXЃ[ѓpЃ[ѓRѓsЃ[ЋћЊv
-&gt; ђўЉEЌЕ‘е‹‰‚Е‚·ѓXЃ[ѓpЃ[ѓRѓsЃ[ЋћЊv‘г‹а€шЉ·N‹‰”М”„ЃyhacopyssЃzЃCѓuѓ‰ѓ“ѓhѓXЃ[ѓpЃ[ѓRѓsЃ[ЋћЊv‘г€ш‚«ЃAѓЌѓЊѓbѓNѓXЃAѓEѓuѓЌЃAIWCЃAѓpѓeѓbѓNN‹‰ѓuѓ‰ѓ“ѓhЋћЊvѓRѓsЃ[ђ»‘ў”М”„,ѓuѓ‰ѓ“ѓhЋћЊvѓRѓsЃ[ђ”•SЋн—Ю—D—З•iЋї‚МЏ¤•iЃIђl‹C‚ЄЌ‚‚ўѓuѓ‰ѓ“ѓh n‹‰•i ЋћЊv ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃC–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!ЌЕЌ‚‹‰ѓЊѓvѓЉѓJЋћЊv‘——ї–і—їЃA•iЋї‚ЄЉ®ашЃI
+    	гѓЎгѓѓг‚»гѓјг‚ё<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјж™‚иЁ€
+&gt; дё–з•ЊжњЂе¤§зґљгЃ§гЃ™г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјж™‚иЁ€д»Јй‡‘еј•жЏ›NзґљиІ©еЈІгЂђhacopyssгЂ‘пјЊгѓ–гѓ©гѓігѓ‰г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјж™‚иЁ€д»Јеј•гЃЌгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№гЂЃг‚¦гѓ–гѓ­гЂЃIWCгЂЃгѓ‘гѓ†гѓѓг‚ЇNзґљгѓ–гѓ©гѓігѓ‰ж™‚иЁ€г‚ігѓ”гѓјиЈЅйЂ иІ©еЈІ,гѓ–гѓ©гѓігѓ‰ж™‚иЁ€г‚ігѓ”гѓјж•°з™ѕзЁ®йЎће„Єи‰Їе“ЃиіЄгЃ®е•†е“ЃпјЃдєєж°—гЃЊй«гЃ„гѓ–гѓ©гѓігѓ‰ nзґље“Ѓ ж™‚иЁ€ г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™пјЊжњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!жњЂй«зґљгѓ¬гѓ—гѓЄг‚«ж™‚иЁ€йЂЃж–™з„Ўж–™гЂЃе“ЃиіЄгЃЊе®Њз’§пјЃ
 &gt; https://hacopyss.com/collections/shoubiao</textarea>
 	</th>
 </tr><tr>
-	<th>ЋQЏЖђж</th>
+	<th>еЏ‚з…§е…€</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>ЌнЏњѓLЃ[</th>
+	<th>е‰Љй™¤г‚­гѓј</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(‰pђ”Ћљ‚Е8•¶Ћљ€И“а) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> ѓNѓbѓLЃ[•Ы‘¶
+		(и‹±ж•°е­—гЃ§8ж–‡е­—д»Ґе†…) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> г‚Їгѓѓг‚­гѓјдїќе­
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>‰ж‘њ”FЏШ</th>
+	<th>з”»еѓЏиЄЌиЁј</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		Ѓi‰E‰ж‘њ‚Мђ”Ћљ‚р“ь—НЃj <img src="./captcha.cgi?ffff957e98c6ce77acf487b6b833a9c08647" class="capt" alt="“ЉЌeѓLЃ[" />
+		пј€еЏіз”»еѓЏгЃ®ж•°е­—г‚’е…ҐеЉ›пј‰ <img src="captcha@ffff957e98c6ce77acf487b6b833a9c08647.cgi" class="capt" alt="жЉ•зЁїг‚­гѓј" />
 		<input type="hidden" name="str_crypt" value="ffff957e98c6ce77acf487b6b833a9c08647" />
 	</td>
 <!-- captcha_end -->
@@ -77,63 +77,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>392</b>] <strong>ѓ‹ѓuѓ^ѓ“ ЊC ѓXЃ[ѓpЃ[ѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓ‹ѓuѓ^ѓ“ ЊC ѓXЃ[ѓpЃ[ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/21(Sat) 19:16 &nbsp; [<a href="./light.cgi?res=392">•ФђM</a>]
-	<div class="com">ѓ‹ѓuѓ^ѓ“ ЊC ѓXЃ[ѓpЃ[ѓRѓsЃ[,ѓ‹ѓuѓ^ѓ“ЊC ѓXѓjЃ[ѓJЃ[N‹‰•i’К”М—D—З“XЃyhacopyssЃz.<br />ѓNѓЉѓXѓ`ѓѓѓ“ѓ‹ѓuѓ^ѓ“ ѓRѓsЃ[ ѓXѓjЃ[ѓJЃ[N‹‰•i’К”М—D—З“X ЃyhacopyssЃz!‹ЖЉEЌЕЌ‚‹‰N•i‚Мѓ‹ѓuѓ^ѓ“ ѓXѓjЃ[ѓJЃ[ ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·,‘еђl‹Cѓ‹ѓuѓ^ѓ“ ѓTѓ“ѓ_ѓ‹ ѓRѓsЃ[‚Є‘еЏWЌ‡ЃI•iЋї‚Н–{•Ё‚Ж“Ї—l‚Е‚·ЃB“ъ–{‘SЌ‘‘——ї–і—ї,ЌL‘е‚И‹q‚рЉЅЊ}‚µ‚Д‚ІЊх—ХЃI<br /><a href="https://hacopyss.com/collections/loubishark-xiezi" target="_blank">https://hacopyss.com/collections/loubishark-xiezi</a></div>
+	[<b>392</b>] <strong>гѓ«гѓ–г‚їгѓі йќґ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ«гѓ–г‚їгѓі йќґ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/21(Sat) 19:16 &nbsp; [<a href="light@res_392.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ«гѓ–г‚їгѓі йќґ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј,гѓ«гѓ–г‚їгѓійќґ г‚№гѓ‹гѓјг‚«гѓјNзґље“ЃйЂљиІ©е„Єи‰Їеє—гЂђhacopyssгЂ‘.<br />г‚ЇгѓЄг‚№гѓЃгѓЈгѓігѓ«гѓ–г‚їгѓі г‚ігѓ”гѓј г‚№гѓ‹гѓјг‚«гѓјNзґље“ЃйЂљиІ©е„Єи‰Їеє— гЂђhacopyssгЂ‘!жҐ­з•ЊжњЂй«зґљNе“ЃгЃ®гѓ«гѓ–г‚їгѓі г‚№гѓ‹гѓјг‚«гѓј г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™,е¤§дєєж°—гѓ«гѓ–г‚їгѓі г‚µгѓігѓЂгѓ« г‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЃе“ЃиіЄгЃЇжњ¬з‰©гЃЁеђЊж§гЃ§гЃ™гЂ‚ж—Ґжњ¬е…Ёе›ЅйЂЃж–™з„Ўж–™,еєѓе¤§гЃЄе®ўг‚’ж­“иїЋгЃ—гЃ¦гЃ”е…‰и‡ЁпјЃ<br /><a href="https://hacopyss.com/collections/loubishark-xiezi" target="_blank">https://hacopyss.com/collections/loubishark-xiezi</a></div>
 </div>
 
 <div class="art">
-	[<b>391</b>] <strong>ѓVѓѓѓlѓ‹iphoneѓPЃ[ѓX ѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓVѓѓѓlѓ‹iphoneѓPЃ[ѓX ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/17(Tue) 17:24 &nbsp; [<a href="./light.cgi?res=391">•ФђM</a>]
-	<div class="com">ѓVѓѓѓlѓ‹iphoneѓPЃ[ѓX ѓRѓsЃ[ ‘г€ш‚«ЃCѓVѓѓѓlѓ‹  ѓXѓ}ѓzѓPЃ[ѓX  ‹U•ЁN‹‰•i’К”М—D—ЗѓTѓCѓgЃujpkopiЃv!<br />ѓVѓѓѓlѓ‹iphoneѓPЃ[ѓX ѓXЃ[ѓpЃ[ѓRѓsЃ[ N‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!ђl‹C‚ЄЌ‚‚ў‘S‹@Ћн‘О‰ћѓVѓѓѓlѓ‹  iphoneѓXѓ}ѓzѓPЃ[ѓX ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ђVЌм,‘еђl‹Cѓ”ѓBѓgѓ“•—ѓXѓ}ѓzѓPЃ[ѓXЃAiphone ѓPЃ[ѓX ѓuѓ‰ѓ“ѓhѓRѓsЃ[ЃAѓeѓbѓNѓAѓNѓZѓTѓЉЃ[ ‹U•Ё‚Є‘еЏWЌ‡ЃIЊыѓRѓ~ЌЕЌ‚‹‰‚МѓVѓѓѓlѓ‹  iphone16ѓPЃ[ѓX‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃBЏ¤•iЋА•Ё‚МЋКђ^•t100%€АђS•ЫЏШЃB<br /><a href="https://www.jpkopi.net/products/smartphonecase/chanlecase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/chanlecase/</a></div>
+	[<b>391</b>] <strong>г‚·гѓЈгѓЌгѓ«iphoneг‚±гѓјг‚№ г‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚·гѓЈгѓЌгѓ«iphoneг‚±гѓјг‚№ г‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/17(Tue) 17:24 &nbsp; [<a href="light@res_391.cgi">иї”дїЎ</a>]
+	<div class="com">г‚·гѓЈгѓЌгѓ«iphoneг‚±гѓјг‚№ г‚ігѓ”гѓј д»Јеј•гЃЌпјЊг‚·гѓЈгѓЌгѓ«  г‚№гѓћгѓ›г‚±гѓјг‚№  еЃЅз‰©Nзґље“ЃйЂљиІ©е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌ!<br />г‚·гѓЈгѓЌгѓ«iphoneг‚±гѓјг‚№ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!дєєж°—гЃЊй«гЃ„е…Ёж©џзЁ®еЇѕеїњг‚·гѓЈгѓЌгѓ«  iphoneг‚№гѓћгѓ›г‚±гѓјг‚№ г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™ж–°дЅњ,е¤§дєєж°—гѓґг‚Јгѓ€гѓійўЁг‚№гѓћгѓ›г‚±гѓјг‚№гЂЃiphone г‚±гѓјг‚№ гѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓјгЂЃгѓ†гѓѓг‚Їг‚ўг‚Їг‚»г‚µгѓЄгѓј еЃЅз‰©гЃЊе¤§й›†еђ€пјЃеЏЈг‚ігѓџжњЂй«зґљгЃ®г‚·гѓЈгѓЌгѓ«  iphone16г‚±гѓјг‚№гЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚е•†е“Ѓе®џз‰©гЃ®е†™зњџд»100%е®‰еїѓдїќиЁјгЂ‚<br /><a href="https://www.jpkopi.net/products/smartphonecase/chanlecase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/chanlecase/</a></div>
 </div>
 
 <div class="art">
-	[<b>390</b>] <strong>ѓRѓR</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:jasper.dwyt@gmail.com">dwyt</a></b> “ЉЌe“ъЃF2025/06/16(Mon) 17:59 &nbsp; [<a href="./light.cgi?res=390">•ФђM</a>]
-	<div class="com">UNICCM is a go-to platform for anyone looking to upskill in construction, engineering, or management. Their site is loaded with accredited courses, professional development options, and UK-recognised qualifications. Whether you&#39;re starting fresh or aiming for promotion, UNICCM gives you the tools to succeed. Highly recommended for learners who value quality and flexibility. ѓRѓR<br /><br /><a href="https://www.uniccm.com/" target="_blank">https://www.uniccm.com/</a></div>
+	[<b>390</b>] <strong>г‚іг‚і</strong>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:jasper.dwyt@gmail.com">dwyt</a></b> жЉ•зЁїж—Ґпјљ2025/06/16(Mon) 17:59 &nbsp; [<a href="light@res_390.cgi">иї”дїЎ</a>]
+	<div class="com">UNICCM is a go-to platform for anyone looking to upskill in construction, engineering, or management. Their site is loaded with accredited courses, professional development options, and UK-recognised qualifications. Whether you&#39;re starting fresh or aiming for promotion, UNICCM gives you the tools to succeed. Highly recommended for learners who value quality and flexibility. г‚іг‚і<br /><br /><a href="https://www.uniccm.com/" target="_blank">https://www.uniccm.com/</a></div>
 </div>
 
 <div class="art">
-	[<b>389</b>] <strong>ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«</b> “ЉЌe“ъЃF2025/06/14(Sat) 13:28 &nbsp; [<a href="./light.cgi?res=389">•ФђM</a>]
-	<div class="com">ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«<br />ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃBѓuѓ‰ѓ“ѓh ѓoѓbѓO ѓRѓsЃ[ Nѓ‰ѓ“ѓN ‘г‹а€шЉ· ’К”МЃCѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO ”ѓ‚Б‚Д‚Э‚Ѕ!ђl‹C‚ЄЌ‚‚ўѓuѓ‰ѓ“ѓh ѓoѓbѓO Њѓ€А ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃBѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓVѓ‡ѓ‹ѓ_Ѓ[ѓoѓbѓOЃAѓgЃ[ѓgѓoѓbѓOЃA‚©‚ІѓoѓbѓO‚И‚Зn‹‰•i‚Ё‚·‚·‚Я’К”МЃB–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!•ЫЏШЏ¤•iЃA•iЋїђM—p‘ж€к ‚И‚М‚Е,“ъ–{‘SЌ‘€к—ҐЌІђм‹}•Ц‘——ї–і—ї,ЃA‚Н•iЋї3”N•ЫЏШ‚ЕЃI<br /><a href="https://www.ncopy.jp/cat/baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/</a></div>
+	[<b>389</b>] <strong>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/06/14(Sat) 13:28 &nbsp; [<a href="light@res_389.cgi">иї”дїЎ</a>]
+	<div class="com">г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌ<br />г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚гѓ–гѓ©гѓігѓ‰ гѓђгѓѓг‚° г‚ігѓ”гѓј Nгѓ©гѓіг‚Ї д»Јй‡‘еј•жЏ› йЂљиІ©пјЊг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚° иІ·гЃЈгЃ¦гЃїгЃџ!дєєж°—гЃЊй«гЃ„гѓ–гѓ©гѓігѓ‰ гѓђгѓѓг‚° жїЂе®‰ г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂ‚г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј г‚·гѓ§гѓ«гѓЂгѓјгѓђгѓѓг‚°гЂЃгѓ€гѓјгѓ€гѓђгѓѓг‚°гЂЃгЃ‹гЃ”гѓђгѓѓг‚°гЃЄгЃ©nзґље“ЃгЃЉгЃ™гЃ™г‚ЃйЂљиІ©гЂ‚жњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!дїќиЁје•†е“ЃгЂЃе“ЃиіЄдїЎз”Ёз¬¬дёЂ гЃЄгЃ®гЃ§,ж—Ґжњ¬е…Ёе›ЅдёЂеѕ‹дЅђе·ќжЂҐдѕїйЂЃж–™з„Ўж–™,гЂЃгЃЇе“ЃиіЄ3е№ґдїќиЁјгЃ§пјЃ<br /><a href="https://www.ncopy.jp/cat/baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/</a></div>
 </div>
 
 <div class="art">
-	[<b>388</b>] <strong>ѓ‹ѓCѓ”ѓBѓgѓ“–XЋqѓXЃ[ѓpЃ[ѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓ‹ѓCѓ”ѓBѓgѓ“–XЋqѓXЃ[ѓpЃ[ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/12(Thu) 14:24 &nbsp; [<a href="./light.cgi?res=388">•ФђM</a>]
-	<div class="com">ѓ‹ѓCѓ”ѓBѓgѓ“–XЋqѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i’К”Мђк–е“XЃyhacopyssЃz!‘еђl‹C‚Мѓ‹ѓCѓ”ѓBѓgѓ“–XЋqѓRѓsЃ[‚Є‘еЏWЌ‡ЃI  ѓЃѓ“ѓYЃAѓЊѓfѓBЃ[ѓX‚Нђl‹Cѓ‹ѓCѓ”ѓBѓgѓ“ѓjѓbѓgѓLѓѓѓbѓv/ѓrЃ[ѓjЃ[ ѓRѓsЃ[‚р–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃB“ъ–{‘SЌ‘‘——ї–і—ї,ЉЅЊ}Ќw“ьЃI<br /><a href="https://hacopyss.com/collections/louis-vuitton-maozi" target="_blank">https://hacopyss.com/collections/louis-vuitton-maozi</a></div>
+	[<b>388</b>] <strong>гѓ«г‚¤гѓґг‚Јгѓ€гѓіеёЅе­ђг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ«г‚¤гѓґг‚Јгѓ€гѓіеёЅе­ђг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/12(Thu) 14:24 &nbsp; [<a href="light@res_388.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ«г‚¤гѓґг‚Јгѓ€гѓіеёЅе­ђг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃйЂљиІ©е°‚й–Ђеє—гЂђhacopyssгЂ‘!е¤§дєєж°—гЃ®гѓ«г‚¤гѓґг‚Јгѓ€гѓіеёЅе­ђг‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЃ  гѓЎгѓіг‚єгЂЃгѓ¬гѓ‡г‚Јгѓјг‚№гЃЇдєєж°—гѓ«г‚¤гѓґг‚Јгѓ€гѓігѓ‹гѓѓгѓ€г‚­гѓЈгѓѓгѓ—/гѓ“гѓјгѓ‹гѓј г‚ігѓ”гѓјг‚’и±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂ‚ж—Ґжњ¬е…Ёе›ЅйЂЃж–™з„Ўж–™,ж­“иїЋиіје…ҐпјЃ<br /><a href="https://hacopyss.com/collections/louis-vuitton-maozi" target="_blank">https://hacopyss.com/collections/louis-vuitton-maozi</a></div>
 </div>
 
 <div class="art">
-	[<b>387</b>] <strong>ѓ‹ѓCѓ”ѓBѓgѓ“iphoneѓPЃ[ѓX ѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓ‹ѓCѓ”ѓBѓgѓ“iphoneѓPЃ[ѓX ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/08(Sun) 20:54 &nbsp; [<a href="./light.cgi?res=387">•ФђM</a>]
-	<div class="com">ѓ‹ѓCѓ”ѓBѓgѓ“iphoneѓPЃ[ѓX ѓRѓsЃ[ ‘г€ш‚«ЃCѓ‹ѓCѓ”ѓBѓgѓ“  ѓXѓ}ѓzѓPЃ[ѓX  ‹U•ЁN‹‰•i’К”М—D—ЗѓTѓCѓgЃujpkopiЃv!<br />ѓ‹ѓCѓ”ѓBѓgѓ“iphoneѓPЃ[ѓX ѓXЃ[ѓpЃ[ѓRѓsЃ[ N‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!ђl‹C‚ЄЌ‚‚ў‘S‹@Ћн‘О‰ћѓ‹ѓCѓ”ѓBѓgѓ“  iphoneѓXѓ}ѓzѓPЃ[ѓX ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ђVЌм,‘еђl‹Cѓ”ѓBѓgѓ“•—ѓXѓ}ѓzѓPЃ[ѓXЃAiphone ѓPЃ[ѓX ѓuѓ‰ѓ“ѓhѓRѓsЃ[ЃAѓeѓbѓNѓAѓNѓZѓTѓЉЃ[ ‹U•Ё‚Є‘еЏWЌ‡ЃIЊыѓRѓ~ЌЕЌ‚‹‰‚Мѓ‹ѓCѓ”ѓBѓgѓ“  iphone16ѓPЃ[ѓX‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃBЏ¤•iЋА•Ё‚МЋКђ^•t100%€АђS•ЫЏШЃB<br /><a href="https://www.jpkopi.net/products/smartphonecase/lvcase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/lvcase/</a></div>
+	[<b>387</b>] <strong>гѓ«г‚¤гѓґг‚Јгѓ€гѓіiphoneг‚±гѓјг‚№ г‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ«г‚¤гѓґг‚Јгѓ€гѓіiphoneг‚±гѓјг‚№ г‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/08(Sun) 20:54 &nbsp; [<a href="light@res_387.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ«г‚¤гѓґг‚Јгѓ€гѓіiphoneг‚±гѓјг‚№ г‚ігѓ”гѓј д»Јеј•гЃЌпјЊгѓ«г‚¤гѓґг‚Јгѓ€гѓі  г‚№гѓћгѓ›г‚±гѓјг‚№  еЃЅз‰©Nзґље“ЃйЂљиІ©е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌ!<br />гѓ«г‚¤гѓґг‚Јгѓ€гѓіiphoneг‚±гѓјг‚№ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!дєєж°—гЃЊй«гЃ„е…Ёж©џзЁ®еЇѕеїњгѓ«г‚¤гѓґг‚Јгѓ€гѓі  iphoneг‚№гѓћгѓ›г‚±гѓјг‚№ г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™ж–°дЅњ,е¤§дєєж°—гѓґг‚Јгѓ€гѓійўЁг‚№гѓћгѓ›г‚±гѓјг‚№гЂЃiphone г‚±гѓјг‚№ гѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓјгЂЃгѓ†гѓѓг‚Їг‚ўг‚Їг‚»г‚µгѓЄгѓј еЃЅз‰©гЃЊе¤§й›†еђ€пјЃеЏЈг‚ігѓџжњЂй«зґљгЃ®гѓ«г‚¤гѓґг‚Јгѓ€гѓі  iphone16г‚±гѓјг‚№гЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚е•†е“Ѓе®џз‰©гЃ®е†™зњџд»100%е®‰еїѓдїќиЁјгЂ‚<br /><a href="https://www.jpkopi.net/products/smartphonecase/lvcase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/lvcase/</a></div>
 </div>
 
 <div class="art">
-	[<b>386</b>] <strong>ѓGѓ‹ѓЃѓX Ќа•z ѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓGѓ‹ѓЃѓX Ќа•z ѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‘г€ш‚«</b> “ЉЌe“ъЃF2025/05/18(Sun) 00:50 &nbsp; [<a href="./light.cgi?res=386">•ФђM</a>]
-	<div class="com">ѓGѓ‹ѓЃѓX Ќа•z ѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‘г€ш‚«<br />ѓGѓ‹ѓЃѓX Ќа•z ѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃBђl‹C‚ЄЌ‚‚ўѓGѓ‹ѓЃѓX ѓxѓAѓ“ ѓXЃ[ѓpЃ[ ѓRѓsЃ[ЃAѓGѓ‹ѓЃѓX ѓxѓAѓ“ѓXѓtѓЊ ‹U•Ё–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃB‘еђl‹CѓGѓ‹ѓЃѓX ѓhѓSѓ“ ѓRѓsЃ[ЃAѓGѓ‹ѓЃѓX ѓRѓ“ѓXѓ^ѓ“ѓX Ќа•z ѓRѓsЃ[‚Є‘еЏWЌ‡ЃIѓGѓ‹ѓЃѓX Ќа•z ‹U•Ё Nѓ‰ѓ“ѓN ’К”МЃAЊыѓRѓ~ЌЕЌ‚‹‰‚МѓGѓ‹ѓЃѓX Ќа•z —D—ЗѓTѓCѓgN‹‰•i‚Н‘——ї–і—їЃBѓuѓ‰ѓ“ѓh•i‚М–{•Ё‚Ж‹U•ЁЊ©•Є‚Ї‚Є‚В‚©‚И‚ў‚Щ‚ЗђёЌI‚ЙЌм‚з‚к‚Д‚ў‚Ь‚·ЃB‘fЌЮ‚в–Dђ»ЃAѓfѓUѓCѓ“‚Ь‚ЕЌЧ•”‚Й‚±‚ѕ‚н‚иЃAЌ‚•iЋї‚рЉy‚µ‚Ю‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃB3”N•iЋї•ЫЏШЃI<br /><a href="https://www.ncopy.jp/cat/saifu/erumesu_saifu/" target="_blank">https://www.ncopy.jp/cat/saifu/erumesu_saifu/</a></div>
+	[<b>386</b>] <strong>г‚Ёгѓ«гѓЎг‚№ иІЎеёѓ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“Ѓд»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚Ёгѓ«гѓЎг‚№ иІЎеёѓ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“Ѓд»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/05/18(Sun) 00:50 &nbsp; [<a href="light@res_386.cgi">иї”дїЎ</a>]
+	<div class="com">г‚Ёгѓ«гѓЎг‚№ иІЎеёѓ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“Ѓд»Јеј•гЃЌ<br />г‚Ёгѓ«гѓЎг‚№ иІЎеёѓ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“Ѓд»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚дєєж°—гЃЊй«гЃ„г‚Ёгѓ«гѓЎг‚№ гѓ™г‚ўгѓі г‚№гѓјгѓ‘гѓј г‚ігѓ”гѓјгЂЃг‚Ёгѓ«гѓЎг‚№ гѓ™г‚ўгѓіг‚№гѓ•гѓ¬ еЃЅз‰©и±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂ‚е¤§дєєж°—г‚Ёгѓ«гѓЎг‚№ гѓ‰г‚ґгѓі г‚ігѓ”гѓјгЂЃг‚Ёгѓ«гѓЎг‚№ г‚ігѓіг‚№г‚їгѓіг‚№ иІЎеёѓ г‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЃг‚Ёгѓ«гѓЎг‚№ иІЎеёѓ еЃЅз‰© Nгѓ©гѓіг‚Ї йЂљиІ©гЂЃеЏЈг‚ігѓџжњЂй«зґљгЃ®г‚Ёгѓ«гѓЎг‚№ иІЎеёѓ е„Єи‰Їг‚µг‚¤гѓ€Nзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚гѓ–гѓ©гѓігѓ‰е“ЃгЃ®жњ¬з‰©гЃЁеЃЅз‰©и¦‹е€†гЃ‘гЃЊгЃ¤гЃ‹гЃЄгЃ„гЃ»гЃ©зІѕе·§гЃ«дЅњг‚‰г‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚зґ жќђг‚„зё«иЈЅгЂЃгѓ‡г‚¶г‚¤гѓігЃѕгЃ§зґ°йѓЁгЃ«гЃ“гЃ г‚Џг‚ЉгЂЃй«е“ЃиіЄг‚’жҐЅгЃ—г‚ЂгЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚3е№ґе“ЃиіЄдїќиЁјпјЃ<br /><a href="https://www.ncopy.jp/cat/saifu/erumesu_saifu/" target="_blank">https://www.ncopy.jp/cat/saifu/erumesu_saifu/</a></div>
 </div>
 
 <div class="art">
-	[<b>385</b>] <strong>ѓvѓ‰ѓ_ ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓvѓ‰ѓ_ ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«</b> “ЉЌe“ъЃF2025/05/16(Fri) 16:22 &nbsp; [<a href="./light.cgi?res=385">•ФђM</a>]
-	<div class="com">ѓvѓ‰ѓ_ ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«<br />ѓvѓ‰ѓ_ ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃBN‹‰•iђl‹C‚ЄЌ‚‚ўѓvѓ‰ѓ_ ѓgЃ[ѓgѓoѓbѓO ‹U•Ё–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃA‘еђl‹Cѓvѓ‰ѓ_ ѓoѓbѓO ђVЌмЃAѓvѓ‰ѓ_ ѓЉѓiѓCѓЌѓ“ѓgЃ[ѓg ѓRѓsЃ[‚Є‘еЏWЌ‡ЃIЌЕЌ‚‹‰ѓvѓ‰ѓ_ ѓoѓbѓO ‹U•Ё Nѓ‰ѓ“ѓN ‘г‹а€шЉ· ’К”МЃAѓvѓ‰ѓ_‚©‚ІѓoѓbѓOЋGЋЏ•t^‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃB–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!•ЫЏШЏ¤•iЃA•iЋїђM—p‘ж€к ‚И‚МЃA‚Н•iЋї3”N•ЫЏШ‚ЕЃI<br /><a href="https://www.ncopy.jp/cat/baggu/puradabaggu/" target="_blank">https://www.ncopy.jp/cat/baggu/puradabaggu/</a></div>
+	[<b>385</b>] <strong>гѓ—гѓ©гѓЂ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ—гѓ©гѓЂ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/05/16(Fri) 16:22 &nbsp; [<a href="light@res_385.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ—гѓ©гѓЂ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌ<br />гѓ—гѓ©гѓЂ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚Nзґље“Ѓдєєж°—гЃЊй«гЃ„гѓ—гѓ©гѓЂ гѓ€гѓјгѓ€гѓђгѓѓг‚° еЃЅз‰©и±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂЃе¤§дєєж°—гѓ—гѓ©гѓЂ гѓђгѓѓг‚° ж–°дЅњгЂЃгѓ—гѓ©гѓЂ гѓЄгѓЉг‚¤гѓ­гѓігѓ€гѓјгѓ€ г‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЃжњЂй«зґљгѓ—гѓ©гѓЂ гѓђгѓѓг‚° еЃЅз‰© Nгѓ©гѓіг‚Ї д»Јй‡‘еј•жЏ› йЂљиІ©гЂЃгѓ—гѓ©гѓЂгЃ‹гЃ”гѓђгѓѓг‚°й›‘иЄЊд»йЊІгЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚жњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!дїќиЁје•†е“ЃгЂЃе“ЃиіЄдїЎз”Ёз¬¬дёЂ гЃЄгЃ®гЂЃгЃЇе“ЃиіЄ3е№ґдїќиЁјгЃ§пјЃ<br /><a href="https://www.ncopy.jp/cat/baggu/puradabaggu/" target="_blank">https://www.ncopy.jp/cat/baggu/puradabaggu/</a></div>
 </div>
 
 <div class="art">
-	[<b>384</b>] <strong>ѓЌѓGѓx ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓЌѓGѓx ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[‘г€ш‚«</b> “ЉЌe“ъЃF2025/05/14(Wed) 01:08 &nbsp; [<a href="./light.cgi?res=384">•ФђM</a>]
-	<div class="com">ѓЌѓGѓx ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[‘г€ш‚«<br />ѓЌѓGѓx ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃBN‹‰•iђl‹C‚ЄЌ‚‚ўѓЌѓGѓx ѓnѓ“ѓ‚ѓbѓN ‹U•Ё–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃA‘еђl‹CѓЌѓGѓx ‚©‚ІѓoѓbѓO ‹U•ЁЃAѓЌѓGѓx ѓpѓYѓ‹ѓoѓbѓO ‹U•Ё‚Є‘еЏWЌ‡ЃIѓЌѓGѓx ѓoѓbѓO ‹U•Ё Nѓ‰ѓ“ѓN ‘г‹а€шЉ· ’К”МЃAЊыѓRѓ~ЌЕЌ‚‹‰‚МѓЌѓGѓx ѓGѓЊѓtѓ@ѓ“ѓg‹U•ЁЃAѓЉѓ…ѓbѓNЃEѓAѓ}ѓ\ѓiЃEѓgЃ[ѓgЃEѓrѓWѓlѓX ѓoѓbѓO‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃB–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!•ЫЏШЏ¤•iЃA•iЋїђM—p‘ж€к ‚И‚М‚ЕЃA‚Н•iЋї3”N•ЫЏШ‚ЕЃI<br /><a href="https://www.ncopy.jp/cat/baggu/roebe/" target="_blank">https://www.ncopy.jp/cat/baggu/roebe/</a></div>
+	[<b>384</b>] <strong>гѓ­г‚Ёгѓ™ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјд»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ­г‚Ёгѓ™ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјд»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/05/14(Wed) 01:08 &nbsp; [<a href="light@res_384.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ­г‚Ёгѓ™ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјд»Јеј•гЃЌ<br />гѓ­г‚Ёгѓ™ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјд»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚Nзґље“Ѓдєєж°—гЃЊй«гЃ„гѓ­г‚Ёгѓ™ гѓЏгѓігѓўгѓѓг‚Ї еЃЅз‰©и±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂЃе¤§дєєж°—гѓ­г‚Ёгѓ™ гЃ‹гЃ”гѓђгѓѓг‚° еЃЅз‰©гЂЃгѓ­г‚Ёгѓ™ гѓ‘г‚єгѓ«гѓђгѓѓг‚° еЃЅз‰©гЃЊе¤§й›†еђ€пјЃгѓ­г‚Ёгѓ™ гѓђгѓѓг‚° еЃЅз‰© Nгѓ©гѓіг‚Ї д»Јй‡‘еј•жЏ› йЂљиІ©гЂЃеЏЈг‚ігѓџжњЂй«зґљгЃ®гѓ­г‚Ёгѓ™ г‚Ёгѓ¬гѓ•г‚Ўгѓігѓ€еЃЅз‰©гЂЃгѓЄгѓҐгѓѓг‚Їгѓ»г‚ўгѓћг‚ЅгѓЉгѓ»гѓ€гѓјгѓ€гѓ»гѓ“г‚ёгѓЌг‚№ гѓђгѓѓг‚°гЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚жњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!дїќиЁје•†е“ЃгЂЃе“ЃиіЄдїЎз”Ёз¬¬дёЂ гЃЄгЃ®гЃ§гЂЃгЃЇе“ЃиіЄ3е№ґдїќиЁјгЃ§пјЃ<br /><a href="https://www.ncopy.jp/cat/baggu/roebe/" target="_blank">https://www.ncopy.jp/cat/baggu/roebe/</a></div>
 </div>
 
 <div class="art">
-	[<b>383</b>] <strong>ѓVѓѓѓlѓ‹Њѓ€АѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓVѓѓѓlѓ‹Њѓ€АѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«</b> “ЉЌe“ъЃF2025/05/12(Mon) 15:09 &nbsp; [<a href="./light.cgi?res=383">•ФђM</a>]
-	<div class="com">ѓVѓѓѓlѓ‹Њѓ€АѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«<br />ѓVѓѓѓlѓ‹Њѓ€АѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃBѓVѓѓѓlѓ‹ n&amp;#32423;•i ѓRѓsЃ[Џ¤•iЃAѓVѓѓѓlѓ‹ •t^ ѓoѓbѓOђVЌм‘еЏWЌ‡ЃIѓVѓѓѓlѓ‹ ѓoѓbѓO ѓRѓsЃ[ Nѓ‰ѓ“ѓN ‘г‹а€шЉ· ’К”МЃCђl‹C’и”Ф‚МѓVѓѓѓlѓ‹ ѓoѓbѓO €А‚ўЏ‡ЃBЌЕЌ‚‹‰ѓVѓѓѓlѓ‹ ѓoѓbѓO ‹U•Ё–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!•ЫЏШЏ¤•iЃA•iЋїђM—p‘ж€к ‚И‚М‚Е,“ъ–{‘SЌ‘€к—ҐЌІђм‹}•Ц‘——ї–і—ї,ЃA‚Н•iЋї3”N•ЫЏШ‚ЕЃI<br /><a href="https://www.ncopy.jp/cat/baggu/shaneru_baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/shaneru_baggu/</a><br />www.ncopy.jp/<p class="url"><a href="https://www.ncopy.jp/cat/baggu/shaneru_baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/shaneru_baggu/</a></p></div>
+	[<b>383</b>] <strong>г‚·гѓЈгѓЌгѓ«жїЂе®‰гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚·гѓЈгѓЌгѓ«жїЂе®‰гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/05/12(Mon) 15:09 &nbsp; [<a href="light@res_383.cgi">иї”дїЎ</a>]
+	<div class="com">г‚·гѓЈгѓЌгѓ«жїЂе®‰гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌ<br />г‚·гѓЈгѓЌгѓ«жїЂе®‰гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚г‚·гѓЈгѓЌгѓ« n&amp;#32423;е“Ѓ г‚ігѓ”гѓје•†е“ЃгЂЃг‚·гѓЈгѓЌгѓ« д»йЊІ гѓђгѓѓг‚°ж–°дЅње¤§й›†еђ€пјЃг‚·гѓЈгѓЌгѓ« гѓђгѓѓг‚° г‚ігѓ”гѓј Nгѓ©гѓіг‚Ї д»Јй‡‘еј•жЏ› йЂљиІ©пјЊдєєж°—е®љз•ЄгЃ®г‚·гѓЈгѓЌгѓ« гѓђгѓѓг‚° е®‰гЃ„й †гЂ‚жњЂй«зґљг‚·гѓЈгѓЌгѓ« гѓђгѓѓг‚° еЃЅз‰©жњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!дїќиЁје•†е“ЃгЂЃе“ЃиіЄдїЎз”Ёз¬¬дёЂ гЃЄгЃ®гЃ§,ж—Ґжњ¬е…Ёе›ЅдёЂеѕ‹дЅђе·ќжЂҐдѕїйЂЃж–™з„Ўж–™,гЂЃгЃЇе“ЃиіЄ3е№ґдїќиЁјгЃ§пјЃ<br /><a href="https://www.ncopy.jp/cat/baggu/shaneru_baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/shaneru_baggu/</a><br />www.ncopy.jp/<p class="url"><a href="https://www.ncopy.jp/cat/baggu/shaneru_baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/shaneru_baggu/</a></p></div>
 </div>
 
 
@@ -141,24 +141,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-‹LЋ–No<input type="text" name="num" size="3" />
-ЌнЏњѓLЃ[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="ЌнЏњ" />
+иЁдє‹No<input type="text" name="num" size="3" />
+е‰Љй™¤г‚­гѓј<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="е‰Љй™¤" />
 </form>
 </div>
 

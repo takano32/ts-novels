@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,64 +13,64 @@ function popup(url) {
 }
 // -->
 </script>
-<title>�N���G�C�^�[�Y�E�t���A�i���j</title>
+<title>クリエイターズ・フロア（仮）</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>�N���G�C�^�[�Y�E�t���A�i���j</h1>
+<h1>クリエイターズ・フロア（仮）</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">�g�b�v�ɖ߂�</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">���ӎ���</a>]
-[<a href="./light.cgi?mode=find">���[�h����</a>]
+[<a href="../../index.html" target="_top">トップに戻る</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">留意事項</a>]
+[<a href="light@mode_find.cgi">ワード検索</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">�ߋ����O</a>]
+[<a href="light@mode_past.cgi">過去ログ</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">�Ǘ��p</a>]
+[<a href="admin.cgi">管理用</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>���Ȃ܂�</th>
+	<th>おなまえ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>�d���[��</th>
+	<th>Ｅメール</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>�^�C�g��</th>
+	<th>タイトル</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[209] winaliy simeamativa 英数字" />
-    	<input type="submit" value="���M����" /><input type="reset" value="���Z�b�g" />
+    	<input type="text" name="sub" size="36" value="Re:[209] winaliy simeamativa 闍ｱ謨ｰ蟄�" />
+    	<input type="submit" value="送信する" /><input type="reset" value="リセット" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	���b�Z�[�W<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ツーリストバスシミュレータアクティベーションコード[クラックシリアルキー You can also generate output within various formats such as TXT, CSV or HTML if you need to do so.
+    	メッセージ<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; 繝�繝ｼ繝ｪ繧ｹ繝医ヰ繧ｹ繧ｷ繝溘Η繝ｬ繝ｼ繧ｿ繧｢繧ｯ繝�繧｣繝吶�ｼ繧ｷ繝ｧ繝ｳ繧ｳ繝ｼ繝閏繧ｯ繝ｩ繝�繧ｯ繧ｷ繝ｪ繧｢繝ｫ繧ｭ繝ｼ You can also generate output within various formats such as TXT, CSV or HTML if you need to do so.
 &gt; You are also permitted to create a dictionary in any.zip archive downloaded to get the most out of it. If you want to explore the tool further, you are also invited to share your feedback.
 &gt; 
 &gt; SlaTool.exe
 &gt; 
-&gt; The SlaTool is a modified version of the original Sla authoring tool for creating and styling floor graphics. &quot;Sla� https://www.herbariovaa.org/checklists/checklist.php?clid=11279
+&gt; The SlaTool is a modified version of the original Sla authoring tool for creating and styling floor graphics. &quot;Sla�ｿｽ https://www.herbariovaa.org/checklists/checklist.php?clid=11279
 &gt;  cde4edac5b winaliy</textarea>
 	</th>
 </tr><tr>
-	<th>�Q�Ɛ�</th>
+	<th>参照先</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>�폜�L�[</th>
+	<th>削除キー</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(�p������8�����ȓ�) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> �N�b�L�[�ۑ�
+		(英数字で8文字以内) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> クッキー保存
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>�摜�F��</th>
+	<th>画像認証</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		�i�E�摜�̐�������́j <img src="./captcha.cgi?f8fb907c9cc0cd7bacf483b0be3fa2c78d4c" class="capt" alt="���e�L�[" />
+		（右画像の数字を入力） <img src="captcha@f8fb907c9cc0cd7bacf483b0be3fa2c78d4c.cgi" class="capt" alt="投稿キー" />
 		<input type="hidden" name="str_crypt" value="f8fb907c9cc0cd7bacf483b0be3fa2c78d4c" />
 	</td>
 <!-- captcha_end -->
@@ -81,63 +81,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>277</b>] <strong>CHROME HEARTS�R�s�[�u�����h vogvip.com/brand-2-c0.html �N�����n�[�c�U���u�����h</strong>
-	���e�ҁF<b>�N�����n�[�c�U���u�����h</b> ���e���F2024/05/07(Tue) 21:08 &nbsp; [<a href="./light.cgi?res=277">�ԐM</a>]
-	<div class="com">�ō��i���̃u�����h�R�s�[���X vogvip.com �R�s�[�u�����h T�V���c 3�F�I 2024�ċG �l�ڂ��䂭�f�U�C�� �N�����n�[�c CHROME HEARTS�X�[�p�[�R�s�[�T�C�g ����T�V���c ����t�V���c �z���� ������ 3�F�I CHROME HEARTS�R�s�[�u�����h vogvip.com/brand-2-c0.html �N�����n�[�c�U���u�����h<br />�{���i�����@�@�i�s�� [�L�����y��] �S�X���i20%����<br />���i�ԍ��Fvogvip2024NXZ-CHR025<br />�݌ɏ󋵁F 50 ������i�F5600�~<br />���i�u�����h�F�N�����n�[�c CHROME HEARTS<br />�o�i���ԁF2024-03-19 ���i�J�e�S���F����T�V���c<br />�N�����n�[�c�R�s�[ �u�����h vogvip.com/goods-13051.html CHROME HEARTS�u�����h�R�s�[<br />vogvip.com���X(�N�����n�[�c�V���o�[ �A�N�Z�T���[�u�����h �R�s�[ �̔�):2024�ďt����s���� �N���� �n�[�c�V���o�[ �A�N�Z�T���[���X�B���E���̗L���l��t�@���𗸂ɂ���N�����n�[�c �X�[�p�[�R�s�[�iCHROME HEARTS�j�B �V���o�[�A�N�Z�T���[�̍����W���G���[�u�����h�B���E���ň��|�I���݊�������Ă��܂��B�{�X�ł̓N�����n�[�c �U���u�����h�ō����i���̃A�C�e����L�x�Ɏ�葵���܂��B�N���� �n�[�c �l�b�N���X �R�s�[��N���� �n�[�c �����O �R�s�[�Ȃǂ� �V���o�[�A�N�Z�T���[�𒆐S�ɁA�N�����n�[�c �o�b�O �R�s�[�A�N�����n�[�c ���z �R�s�[�A�N���� �n�[�c �p�[�J�[�R�s�[�A�C�A�T���O���X�A�Y�{���A�X�q�A�W���P�b�g�A�x���g�Aiphone �P�[�X �J�o�[�Ȃǂ̃N�����n�[�c �R�s�[�u�����h��񋟂��Ă���܂��B�i���ۏ؂ň��S���Ă��w����������! CHROME HEARTS�u�����h �U�� �ʔ� vogvip.com/brand-2-c0.html �N�����n�[�c�u�����h�X�[�p�[�R�s�[</div>
+	[<b>277</b>] <strong>CHROME HEARTSコピーブランド vogvip.com/brand-2-c0.html クロムハーツ偽物ブランド</strong>
+	投稿者：<b>クロムハーツ偽物ブランド</b> 投稿日：2024/05/07(Tue) 21:08 &nbsp; [<a href="light@res_277.cgi">返信</a>]
+	<div class="com">最高品質のブランドコピー専門店 vogvip.com コピーブランド Tシャツ 3色可選 2024夏季 人目を惹くデザイン クロムハーツ CHROME HEARTSスーパーコピーサイト 半袖Tシャツ 半袖tシャツ 配いろ 涼しい 3色可選 CHROME HEARTSコピーブランド vogvip.com/brand-2-c0.html クロムハーツ偽物ブランド<br />本商品只今　　進行中 [キャンペン] 全店商品20%割引<br />商品番号：vogvip2024NXZ-CHR025<br />在庫状況： 50 会員価格：5600円<br />商品ブランド：クロムハーツ CHROME HEARTS<br />出品時間：2024-03-19 商品カテゴリ：半袖Tシャツ<br />クロムハーツコピー ブランド vogvip.com/goods-13051.html CHROME HEARTSブランドコピー<br />vogvip.com専門店(クロムハーツシルバー アクセサリーブランド コピー 販売):2024夏春物先行発売 クロム ハーツシルバー アクセサリー専門店。世界中の有名人やファンを虜にするクロムハーツ スーパーコピー（CHROME HEARTS）。 シルバーアクセサリーの高級ジュエリーブランド。世界中で圧倒的存在感を放っています。本店ではクロムハーツ 偽物ブランド最高級品質のアイテムを豊富に取り揃えます。クロム ハーツ ネックレス コピーやクロム ハーツ リング コピーなどの シルバーアクセサリーを中心に、クロムハーツ バッグ コピー、クロムハーツ 財布 コピー、クロム ハーツ パーカーコピー、靴、サングラス、ズボン、帽子、ジャケット、ベルト、iphone ケース カバーなどのクロムハーツ コピーブランドを提供しております。品質保証で安心してご購入ください! CHROME HEARTSブランド 偽物 通販 vogvip.com/brand-2-c0.html クロムハーツブランドスーパーコピー</div>
 </div>
 
 <div class="art">
-	[<b>276</b>] <strong>�J���e�B�G���v �R�s�[</strong>
-	���e�ҁF<b>�J���e�B�G���v �R�s�[</b> ���e���F2024/03/26(Tue) 11:51 &nbsp; [<a href="./light.cgi?res=276">�ԐM</a>]
-	<div class="com">���E�ꗬ �J���e�B�G���v �R�s�[ N�� ����� �D�ǓX�yhacopyss�z �I �J���e�B�G �X�[�p�[�R�s�[ ���R�~���S�ȃT�C�g�J���e�B�G �� ���v���戵���Ă��܂��B��l�C�̃J���e�B�G���v�R�s�[����W���I �ō����J���e�B�G�U�������l�C�̔���!�X�[�p�[�R�s�[���v�̔��X�A�ő勉�K�̓J���e�B�G���v�R�s�[.�l�X�ȃu�����h���v�� �o�c���Ă��܂�.���{�S����������,���}�w���I <br /><a href="https://hacopyss.com/collections/cartier" target="_blank">https://hacopyss.com/collections/cartier</a></div>
+	[<b>276</b>] <strong>カルティエ時計 コピー</strong>
+	投稿者：<b>カルティエ時計 コピー</b> 投稿日：2024/03/26(Tue) 11:51 &nbsp; [<a href="light@res_276.cgi">返信</a>]
+	<div class="com">世界一流 カルティエ時計 コピー N級 代引き 優良店【hacopyss】 ！ カルティエ スーパーコピー 口コミ安全なサイトカルティエ 風 時計を取扱っています。大人気のカルティエ時計コピーが大集合！ 最高級カルティエ偽物激安人気販売中!スーパーコピー時計販売店、最大級規模カルティエ時計コピー.様々なブランド時計を 経営しています.日本全国送料無料,歓迎購入！ <br /><a href="https://hacopyss.com/collections/cartier" target="_blank">https://hacopyss.com/collections/cartier</a></div>
 </div>
 
 <div class="art">
-	[<b>275</b>] <strong>�X�[�p�[�R�s�[���z</strong>
-	���e�ҁF<b>tokei365gh</b> ���e���F2024/03/11(Mon) 18:52 &nbsp; [<a href="./light.cgi?res=275">�ԐM</a>]
-	<div class="com">�X�[�p�[�R�s�[���z�́A���i���ȑf�ނƐ��I�Ȏ�H�|�p��g�ݍ��킹�āA�����u�����h�̃I���W�i���ɒ����ȃf�U�C�����Č��������i�ł��B���̌��o�����i���ƍו��ւ̂������́A�I���W�i���Ƃ̂قƂ�ǌ����������Ȃ��قǂ̊����x���������Ă��܂��B�n�������E�l�����ɂ���č��ꂽ�X�[�p�[�R�s�[���z�́A�ϋv���ɗD��A�������p���邱�Ƃ��ł��܂��B����ɁA���̎荠�ȉ��i�́A�����̐l�X�ɍ������ƃX�^�C������ɓ����@���񋟂��Ă��܂��B�X�[�p�[�R�s�[���z�́A�G���K���g�Ő������ꂽ���C�t�X�^�C�������߂�l�X�ɂƂ��āA���z�I�ȑI�����ł��B<br />�X�[�p�[�R�s�[���z�F<a href="https://www.tokei365.org/wallet.html" target="_blank">https://www.tokei365.org/wallet.html</a></div>
+	[<b>275</b>] <strong>スーパーコピー財布</strong>
+	投稿者：<b>tokei365gh</b> 投稿日：2024/03/11(Mon) 18:52 &nbsp; [<a href="light@res_275.cgi">返信</a>]
+	<div class="com">スーパーコピー財布は、高品質な素材と精巧な手工芸術を組み合わせて、高級ブランドのオリジナルに忠実なデザインを再現した製品です。その傑出した品質と細部へのこだわりは、オリジナルとのほとんど見分けがつかないほどの完成度を実現しています。熟練した職人たちによって作られたスーパーコピー財布は、耐久性に優れ、長く愛用することができます。さらに、その手頃な価格は、多くの人々に高級感とスタイルを手に入れる機会を提供しています。スーパーコピー財布は、エレガントで洗練されたライフスタイルを求める人々にとって、理想的な選択肢です。<br />スーパーコピー財布：<a href="https://www.tokei365.org/wallet.html" target="_blank">https://www.tokei365.org/wallet.html</a></div>
 </div>
 
 <div class="art">
-	[<b>274</b>] <strong>�f�B�I�[�� �o�b�O ����</strong>
-	���e�ҁF<b>totecopy151</b> ���e���F2024/03/11(Mon) 18:50 &nbsp; [<a href="./light.cgi?res=274">�ԐM</a>]
-	<div class="com">�������ȗ��s���荠�ȉ��i�Ŋ�����Ȃ�A�f�B�I�[�� �o�b�O �������œK�ł��B�����Ȃ�������i���Ńf�U�C�����L���ȃg�[�g�o�b�O�́A���̂����Ƃ��Ă����łȂ��A�t�@�b�V���i�u���ȊX�����ɂ��s�b�^���ł��B<br />�f�B�I�[�� �o�b�O �����F<a href="https://www.totecopy.com/copyn-123-b0.html" target="_blank">https://www.totecopy.com/copyn-123-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
+	[<b>274</b>] <strong>ディオール バッグ 激安</strong>
+	投稿者：<b>totecopy151</b> 投稿日：2024/03/11(Mon) 18:50 &nbsp; [<a href="light@res_274.cgi">返信</a>]
+	<div class="com">おしゃれな旅行を手頃な価格で叶えるなら、ディオール バッグ 激安が最適です。激安ながらも高品質でデザイン性豊かなトートバッグは、旅のお供としてだけでなく、ファッショナブルな街歩きにもピッタリです。<br />ディオール バッグ 激安：<a href="https://www.totecopy.com/copyn-123-b0.html" target="_blank">https://www.totecopy.com/copyn-123-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>273</b>] <strong>�o�����V�A�K �p�[�J�[ �R�s�[</strong>
-	���e�ҁF<b>�A���R�s�[</b> ���e���F2024/02/22(Thu) 16:58 &nbsp; [<a href="./light.cgi?res=273">�ԐM</a>]
-	<div class="com">�o�����V�A�K �p�[�J�[ �R�s�[�ŁA�X�g���[�g�t�@�b�V�������J�b�R�悭�L����B�g�����h���̂���f�U�C���ŁA����ƍ������悤�B<a href="https://www.ankopi.com/bapaka/" target="_blank">https://www.ankopi.com/bapaka/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
+	[<b>273</b>] <strong>バレンシアガ パーカー コピー</strong>
+	投稿者：<b>アンコピー</b> 投稿日：2024/02/22(Thu) 16:58 &nbsp; [<a href="light@res_273.cgi">返信</a>]
+	<div class="com">バレンシアガ パーカー コピーで、ストリートファッションをカッコよくキメる。トレンド感のあるデザインで、周りと差をつけよう。<a href="https://www.ankopi.com/bapaka/" target="_blank">https://www.ankopi.com/bapaka/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>272</b>] <strong>�G�����X�R�s�[</strong>
-	���e�ҁF<b>�n�R�s�[</b> ���e���F2024/02/21(Wed) 17:35 &nbsp; [<a href="./light.cgi?res=272">�ԐM</a>]
-	<div class="com">�G�����X�R�s�[�́A���i���Ȑ��i�Ǝ育��ȉ��i�̑g�ݍ��킹�ɂ��A�t�@�b�V�������D�҂ɍL���x������Ă��܂��B�����I���ŃX�^�C���b�V���ȓ�������o���܂��傤�B<a href="https://www.hacopy.net/hermes" target="_blank">https://www.hacopy.net/hermes</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>272</b>] <strong>エルメスコピー</strong>
+	投稿者：<b>ハコピー</b> 投稿日：2024/02/21(Wed) 17:35 &nbsp; [<a href="light@res_272.cgi">返信</a>]
+	<div class="com">エルメスコピーは、高品質な製品と手ごろな価格の組み合わせにより、ファッション愛好者に広く支持されています。賢い選択でスタイリッシュな日常を演出しましょう。<a href="https://www.hacopy.net/hermes" target="_blank">https://www.hacopy.net/hermes</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>271</b>] <strong>�X�[�p�[�R�s�[�o�b�O�D�ǓX</strong>
-	���e�ҁF<b>�n�R�s�[</b> ���e���F2024/01/19(Fri) 17:24 &nbsp; [<a href="./light.cgi?res=271">�ԐM</a>]
-	<div class="com">hacopy�X�[�p�[�R�s�[�o�b�O���̓����I�ȃR�X�g�p�t�H�[�}���X�Ɛ������ꂽ�f�U�C���́A���ɂ͂Ȃ����͂������Ă��܂��B<a href="https://www.hacopy.net/baggu/" target="_blank">https://www.hacopy.net/baggu/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>271</b>] <strong>スーパーコピーバッグ優良店</strong>
+	投稿者：<b>ハコピー</b> 投稿日：2024/01/19(Fri) 17:24 &nbsp; [<a href="light@res_271.cgi">返信</a>]
+	<div class="com">hacopyスーパーコピーバッグその特徴的なコストパフォーマンスと洗練されたデザインは、他にはない魅力を持っています。<a href="https://www.hacopy.net/baggu/" target="_blank">https://www.hacopy.net/baggu/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>270</b>] <strong>�X�[�p�[�R�s�[ �D�ǃT�C�g</strong>
-	���e�ҁF<b>�A���R�s�[</b> ���e���F2024/01/10(Wed) 10:42 &nbsp; [<a href="./light.cgi?res=270">�ԐM</a>]
-	<div class="com">�����u�����h�̃X�[�p�[�R�s�[�i��T���Ȃ�A�D�ǃT�C�g�𗘗p����̂��������߂ł��B�D�ǃT�C�g�Ȃ�A���i���̃X�[�p�[�R�s�[�i���L�x�ɑ����Ă���A���S���čw���ł��܂��B�܂��A���i�����[�Y�i�u���Ȃ̂ŁA�����Ƀn�C�u�����h�̃A�C�e������ɓ���邱�Ƃ��ł��܂��B<br /><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
+	[<b>270</b>] <strong>スーパーコピー 優良サイト</strong>
+	投稿者：<b>アンコピー</b> 投稿日：2024/01/10(Wed) 10:42 &nbsp; [<a href="light@res_270.cgi">返信</a>]
+	<div class="com">高級ブランドのスーパーコピー品を探すなら、優良サイトを利用するのがおすすめです。優良サイトなら、高品質のスーパーコピー品が豊富に揃っており、安心して購入できます。また、価格もリーズナブルなので、お得にハイブランドのアイテムを手に入れることができます。<br /><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>269</b>] <strong>�X�j�[�J�[ �X�[�p�[�R�s�[ ��������</strong>
-	���e�ҁF<b>�����R�s�[</b> ���e���F2024/01/02(Tue) 11:59 &nbsp; [<a href="./light.cgi?res=269">�ԐM</a>]
-	<div class="com">�X�j�[�J�[ �X�[�p�[�R�s�[ �������� �U�������T�C�g<br />�X�j�[�J�[ �X�[�p�[�R�s�[ �������߁C�X�[�p�[�R�s�[ �X�j�[�J�[ �U���T�C�g�uYayakopi�v,�X�j�[�J�[ �R�s�[ ����N���i�A�X�j�[�J�[�N���u �U��,�u�����h�C�R�s�[ n���U���A���R�~�ō����̃u�����h�R�s�[ �X�j�[�J�[�A���f�B�[�X�A�r�W�l�X�V���[�Y�A�J�W���A���V���[�Y�͑��������A�i���ۏ؁B<br />�X�j�[�J�[ �X�[�p�[�R�s�[ ��������<br /><a href="https://www.yayakopi.org/NIKE/" target="_blank">https://www.yayakopi.org/NIKE/</a><p class="url"><a href="https://www.yayakopi.org" target="_blank">https://www.yayakopi.org</a></p></div>
+	[<b>269</b>] <strong>スニーカー スーパーコピー おすすめ</strong>
+	投稿者：<b>ヤヤコピー</b> 投稿日：2024/01/02(Tue) 11:59 &nbsp; [<a href="light@res_269.cgi">返信</a>]
+	<div class="com">スニーカー スーパーコピー おすすめ 偽物激安サイト<br />スニーカー スーパーコピー おすすめ，スーパーコピー スニーカー 偽物サイト「Yayakopi」,スニーカー コピー 激安N級品、スニーカークラブ 偽物,ブランド靴コピー n級偽物、口コミ最高級のブランドコピー スニーカー、レディース、ビジネスシューズ、カジュアルシューズは送料無料、品質保証。<br />スニーカー スーパーコピー おすすめ<br /><a href="https://www.yayakopi.org/NIKE/" target="_blank">https://www.yayakopi.org/NIKE/</a><p class="url"><a href="https://www.yayakopi.org" target="_blank">https://www.yayakopi.org</a></p></div>
 </div>
 
 <div class="art">
-	[<b>268</b>] <strong>�X�[�p�[�R�s�[ �D�ǃT�C�g</strong>
-	���e�ҁF<b>�A���R�s�[</b> ���e���F2023/12/29(Fri) 13:00 &nbsp; [<a href="./light.cgi?res=268">�ԐM</a>]
-	<div class="com">����̃u�����h�i���A�����Ɏ�ɓ����Ȃ�A�X�[�p�[�R�s�[ �D�ǃT�C�g���`�F�b�N�I<br /><br />���i����N���i���L�x�ɑ����Ă���A���i�����[�Y�i�u���B<br /><br />�͂��܂ł̊��Ԃ������̂ŁA�}���̕������S�ł��B<br />�X�[�p�[�R�s�[ �D�ǃT�C�g:<a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
+	[<b>268</b>] <strong>スーパーコピー 優良サイト</strong>
+	投稿者：<b>アンコピー</b> 投稿日：2023/12/29(Fri) 13:00 &nbsp; [<a href="light@res_268.cgi">返信</a>]
+	<div class="com">憧れのブランド品を、お得に手に入れるなら、スーパーコピー 優良サイトをチェック！<br /><br />高品質なN級品が豊富に揃っており、価格もリーズナブル。<br /><br />届くまでの期間も早いので、急ぎの方も安心です。<br />スーパーコピー 優良サイト:<a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
 </div>
 
 
@@ -145,24 +145,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-�L��No<input type="text" name="num" size="3" />
-�폜�L�[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="�폜" />
+記事No<input type="text" name="num" size="3" />
+削除キー<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="削除" />
 </form>
 </div>
 

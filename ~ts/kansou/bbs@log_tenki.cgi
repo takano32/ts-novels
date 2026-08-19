@@ -94,7 +94,7 @@ link<input type=checkbox name="link" value="1" checked>
 　でも他の優先事項が多くて、本編再開はだいぶ先になりそう……（汗）<br>
 <br>
 　まあ、日進月歩を合言葉に、ちょこちょこ頑張って行きますので、見捨てないでいてくれると幸い。</font>
-<p><a href="http://www.novels.name/tsh/" target="_top">http://www.novels.name/tsh/</a>
+<p><a href="../../www.novels.name/tsh/index.html" target="_top">../../www.novels.name/tsh/index.html</a>
 </td></table>
 </td></tr></table>
 
@@ -178,7 +178,7 @@ link<input type=checkbox name="link" value="1" checked>
 <font color="#cc88ff">&gt; では、ちゃんと続きを書いてくださいませ。本編もお待ちしてますからね？</font><br>
 　長いブランクでしたが、これからは頑張って描きたいと思うので、今後ともよろしくです。<br>
 　……暇が増えたわけじゃないのだけれど、時間の扱い方は少しはうまくなったかなー。</font>
-<p><a href="http://www.novels.name/tsh/" target="_top">http://www.novels.name/tsh/</a>
+<p><a href="../../www.novels.name/tsh/index.html" target="_top">../../www.novels.name/tsh/index.html</a>
 </td></table>
 </td></tr></table>
 
@@ -244,7 +244,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 　こうしてみると反省点多いな。<br>
 　不安な点を残しつつも、VTSはもう少し置いといて次回に続きます。乞うご期待？</font>
-<p><a href="http://www.novels.name/tsh/" target="_top">http://www.novels.name/tsh/</a>
+<p><a href="../../www.novels.name/tsh/index.html" target="_top">../../www.novels.name/tsh/index.html</a>
 </td></table>
 </td></tr></table>
 

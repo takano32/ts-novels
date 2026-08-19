@@ -132,7 +132,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 　でも短い文が偉いと言うわけでもないので……難しいですよね。<br>
 　偉そうにすみません。ではまた。</font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 
@@ -236,7 +236,7 @@ link<input type=checkbox name="link" value="1" checked>
 　しかし上手いですねえ。描写が綺麗で会話も好テンポ、シーンの見せ方も上手。なにより感服するのが、練習シーンから入って回想、予選、幕間、危機を絡めたクライマックス、そしてお約束のいちゃいちゃシーンへと繋ぐ構成力……。好みかそうでないかということはあるのでしょうが、私はほんとに楽しく読みました。<br>
 <br>
 　というわけで続きを楽しみにしています。ぜひシリーズタイトルも作ってくださいませ。</font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 

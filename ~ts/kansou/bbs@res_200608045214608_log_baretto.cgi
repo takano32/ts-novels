@@ -429,7 +429,7 @@ link<input type=checkbox name="link" value="1" checked>
 　試合展開はなかなか分かりやすくて読みやすかったです。私はサッカーはよく知らないんですけどそれでもボールのつながり方や、今どっちがどう攻めてるかが分かると言うのは文章が上手いからなのでしょう。<br>
 <br>
 　それではまた。</font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 

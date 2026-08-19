@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,61 +13,61 @@ function popup(url) {
 }
 // -->
 </script>
-<title>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</title>
+<title>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</h1>
+<h1>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">ѓgѓbѓv‚Й–Я‚й</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">—Ї€УЋ–ЌЂ</a>]
-[<a href="./light.cgi?mode=find">ѓЏЃ[ѓhЊџЌх</a>]
+[<a href="../../index.html" target="_top">гѓ€гѓѓгѓ—гЃ«ж€»г‚‹</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">з•™ж„Џдє‹й …</a>]
+[<a href="light@mode_find.cgi">гѓЇгѓјгѓ‰ж¤њзґў</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">‰Я‹ЋѓЌѓO</a>]
+[<a href="light@mode_past.cgi">йЃЋеЋ»гѓ­г‚°</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">ЉЗ—ќ—p</a>]
+[<a href="admin.cgi">з®Ўзђ†з”Ё</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>‚Ё‚И‚Ь‚¦</th>
+	<th>гЃЉгЃЄгЃѕгЃ€</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>‚dѓЃЃ[ѓ‹</th>
+	<th>пјҐгѓЎгѓјгѓ«</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>ѓ^ѓCѓgѓ‹</th>
+	<th>г‚їг‚¤гѓ€гѓ«</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[317]  ѓЌѓЊѓbѓNѓX  ЋћЊv ѓRѓsЃ[‚МђVЌм‚Є“ћ’…‚µ‚Ь‚µ‚ЅЃI" />
-    	<input type="submit" value="‘—ђM‚·‚й" /><input type="reset" value="ѓЉѓZѓbѓg" />
+    	<input type="text" name="sub" size="36" value="Re:[317]  гѓ­гѓ¬гѓѓг‚Їг‚№  ж™‚иЁ€ г‚ігѓ”гѓјгЃ®ж–°дЅњгЃЊе€°зќЂгЃ—гЃѕгЃ—гЃџпјЃ" />
+    	<input type="submit" value="йЂЃдїЎгЃ™г‚‹" /><input type="reset" value="гѓЄг‚»гѓѓгѓ€" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	ѓЃѓbѓZЃ[ѓW<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ѓIѓVѓѓѓЊ‚ИЉF‚і‚сЃA ѓЌѓЊѓbѓNѓX  ЋћЊv ѓRѓsЃ[‚МђVЌм‚Є“ћ’…‚µ‚Ь‚µ‚ЅЃB–{•Ё‚ЖЊ©•Є‚Ї‚Є‚В‚©‚И‚ўЋїЉґ‚р‚ЁЉy‚µ‚Э‚­‚ѕ‚і‚ўЃBЏЪ‚µ‚­‚Н‚±‚ї‚зѓXЃ[ѓpЃ[ѓRѓsЃ[—D—ЗѓTѓCѓg https://www.yoyotokei.com
-&gt; ‘ј‚М ѓЌѓЊѓbѓNѓX  ЋћЊv ѓRѓsЃ[Џ¤•i‚а‚І——‚­‚ѕ‚і‚ў ѓЌѓЊѓbѓNѓX   ѓRѓsЃ[  www.yoyotokei.com/rolex
-&gt;  ѓЌѓЊѓbѓNѓX  ЋћЊv ѓRѓsЃ[ѓRѓЊѓNѓVѓ‡ѓ“‚НЊ©“¦‚№‚Ь‚№‚с ѓЌѓЊѓbѓNѓX   ЋћЊv ѓRѓsЃ[  www.yoyotokei.com/rolex/watch
-&gt; ЌЎ‚·‚®‚±‚М‘fђ°‚з‚µ‚ўѓAѓCѓeѓЂ‚рЋи‚Й“ь‚к‚Ь‚µ‚е‚¤www.yoyotokei.com/416.html</textarea>
+    	гѓЎгѓѓг‚»гѓјг‚ё<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; г‚Єг‚·гѓЈгѓ¬гЃЄзљ†гЃ•г‚“гЂЃ гѓ­гѓ¬гѓѓг‚Їг‚№  ж™‚иЁ€ г‚ігѓ”гѓјгЃ®ж–°дЅњгЃЊе€°зќЂгЃ—гЃѕгЃ—гЃџгЂ‚жњ¬з‰©гЃЁи¦‹е€†гЃ‘гЃЊгЃ¤гЃ‹гЃЄгЃ„иіЄж„џг‚’гЃЉжҐЅгЃ—гЃїгЃЏгЃ гЃ•гЃ„гЂ‚и©ігЃ—гЃЏгЃЇгЃ“гЃЎг‚‰г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓје„Єи‰Їг‚µг‚¤гѓ€ https://www.yoyotokei.com
+&gt; д»–гЃ® гѓ­гѓ¬гѓѓг‚Їг‚№  ж™‚иЁ€ г‚ігѓ”гѓје•†е“Ѓг‚‚гЃ”и¦§гЃЏгЃ гЃ•гЃ„ гѓ­гѓ¬гѓѓг‚Їг‚№   г‚ігѓ”гѓј  www.yoyotokei.com/rolex
+&gt;  гѓ­гѓ¬гѓѓг‚Їг‚№  ж™‚иЁ€ г‚ігѓ”гѓјг‚ігѓ¬г‚Їг‚·гѓ§гѓігЃЇи¦‹йЂѓгЃ›гЃѕгЃ›г‚“ гѓ­гѓ¬гѓѓг‚Їг‚№   ж™‚иЁ€ г‚ігѓ”гѓј  www.yoyotokei.com/rolex/watch
+&gt; д»ЉгЃ™гЃђгЃ“гЃ®зґ ж™ґг‚‰гЃ—гЃ„г‚ўг‚¤гѓ†гѓ г‚’ж‰‹гЃ«е…Ґг‚ЊгЃѕгЃ—г‚‡гЃ†www.yoyotokei.com/416.html</textarea>
 	</th>
 </tr><tr>
-	<th>ЋQЏЖђж</th>
+	<th>еЏ‚з…§е…€</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>ЌнЏњѓLЃ[</th>
+	<th>е‰Љй™¤г‚­гѓј</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(‰pђ”Ћљ‚Е8•¶Ћљ€И“а) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> ѓNѓbѓLЃ[•Ы‘¶
+		(и‹±ж•°е­—гЃ§8ж–‡е­—д»Ґе†…) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> г‚Їгѓѓг‚­гѓјдїќе­
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>‰ж‘њ”FЏШ</th>
+	<th>з”»еѓЏиЄЌиЁј</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		Ѓi‰E‰ж‘њ‚Мђ”Ћљ‚р“ь—НЃj <img src="./captcha.cgi?f2f89d7c9bc4ca77acf487b1bd3ea3cb8048" class="capt" alt="“ЉЌeѓLЃ[" />
+		пј€еЏіз”»еѓЏгЃ®ж•°е­—г‚’е…ҐеЉ›пј‰ <img src="captcha@f2f89d7c9bc4ca77acf487b1bd3ea3cb8048.cgi" class="capt" alt="жЉ•зЁїг‚­гѓј" />
 		<input type="hidden" name="str_crypt" value="f2f89d7c9bc4ca77acf487b1bd3ea3cb8048" />
 	</td>
 <!-- captcha_end -->
@@ -79,62 +79,62 @@ function popup(url) {
 
 <div class="art">
 	[<b>403</b>] <strong>vogvip.com</strong>
-	“ЉЌeЋТЃF<b>GIVENCHYѓuѓ‰ѓ“ѓhѓXЃ[ѓpЃ[ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/08/29(Fri) 02:20 &nbsp; [<a href="./light.cgi?res=403">•ФђM</a>]
-	<div class="com">2025•iЋї•ЫЏШ€А‚ў ѓWѓoѓ“ѓVѓB ѓRѓsЃ[ ”ј‘іTѓVѓѓѓc 2ђF‰В‘I €к”Фђl‹C‚МђVЌм‚Н‚±‚к ѓWѓoѓ“ѓVѓB‚МђEђlѓ`Ѓ[ѓЂ‚Н‚·‚Ч‚Д‚МЌH’ц‚рЊµ‚µ‚­ЉЗ—ќ‚µЃAђ¶’n‚М‘I•К‚©‚зЉ®ђ¬•i‚М•п‘•‚ЙЋЉ‚й‚Ь‚Еѓuѓ‰ѓ“ѓh•i‚МЉоЏЂ‚Й‘Ґ‚и‚Ь‚·ЃBѓVѓ“ѓvѓ‹‚ИѓRѓbѓgѓ“TѓVѓѓѓc‚Е‚·‚ЄЃA68”N‚Й‚н‚Ѕ‚йѓuѓ‰ѓ“ѓh‚М‹ZЏp‚Є‹ГЏk‚і‚к‚Д‚ў‚Ь‚·ЃBGIVENCHY‹U•Ёѓuѓ‰ѓ“ѓh vogvip.com/brand-8-c0.html ѓWѓoѓ“ѓVѓBѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш “ъЏн‚М’К‹О‚Е‚а‹x“ъ‚МѓЊѓWѓѓЃ[‚Е‚аЃAЊ»‘г‚М’jђ«‚М—D‰л‚і‚ЖѓZѓ“ѓX‚рЉ®аш‚Й•\Њ»‚·‚й‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃBѓXЃ[ѓpЃ[ѓRѓsЃ[ Њѓ€А’К”МѓTѓCѓg vogvip.com ѓXЃ[ѓpЃ[ѓRѓsЃ[ Њѓ€А<br />–{Џ¤•i‘ьЌЎЃ@Ѓ@ђiЌs’† [ѓLѓѓѓ“ѓyѓ“] ‘S“XЏ¤•i20%Љ„€ш<br />Џ¤•i”ФЌ†ЃFvogvip2025NXZ-GVC042<br />ЌЭЊЙЏу‹µЃF 50 ‰п€х‰їЉiЃF9200‰~<br />Џ¤•iѓuѓ‰ѓ“ѓhЃFѓWѓoѓ“ѓVѓB GIVENCHY<br />Џo•iЋћЉФЃF2025-03-26 Џ¤•iѓJѓeѓSѓЉЃFѓЃѓ“ѓY ”ј‘іTѓVѓѓѓc<br />ѓWѓoѓ“ѓVѓBѓXЃ[ѓpЃ[ѓRѓsЃ[ Њѓ€А vogvip.com/goods-29736.html GIVENCHYѓuѓ‰ѓ“ѓhѓXЃ[ѓpЃ[ѓRѓsЃ[</div>
+	жЉ•зЁїиЂ…пјљ<b>GIVENCHYгѓ–гѓ©гѓігѓ‰г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/08/29(Fri) 02:20 &nbsp; [<a href="light@res_403.cgi">иї”дїЎ</a>]
+	<div class="com">2025е“ЃиіЄдїќиЁје®‰гЃ„ г‚ёгѓђгѓіг‚·г‚Ј г‚ігѓ”гѓј еЌЉиў–Tг‚·гѓЈгѓ„ 2и‰ІеЏЇйЃё дёЂз•Єдєєж°—гЃ®ж–°дЅњгЃЇгЃ“г‚Њ г‚ёгѓђгѓіг‚·г‚ЈгЃ®иЃ·дєєгѓЃгѓјгѓ гЃЇгЃ™гЃ№гЃ¦гЃ®е·ҐзЁ‹г‚’еЋігЃ—гЃЏз®Ўзђ†гЃ—гЂЃз”џењ°гЃ®йЃёе€ҐгЃ‹г‚‰е®Њж€ђе“ЃгЃ®еЊ…иЈ…гЃ«и‡іг‚‹гЃѕгЃ§гѓ–гѓ©гѓігѓ‰е“ЃгЃ®еџєжє–гЃ«е‰‡г‚ЉгЃѕгЃ™гЂ‚г‚·гѓігѓ—гѓ«гЃЄг‚ігѓѓгѓ€гѓіTг‚·гѓЈгѓ„гЃ§гЃ™гЃЊгЂЃ68е№ґгЃ«г‚ЏгЃџг‚‹гѓ–гѓ©гѓігѓ‰гЃ®жЉЂиЎ“гЃЊе‡ќзё®гЃ•г‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚GIVENCHYеЃЅз‰©гѓ–гѓ©гѓігѓ‰ vogvip.com/brand-8-c0.html г‚ёгѓђгѓіг‚·г‚Јг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј• ж—ҐеёёгЃ®йЂље‹¤гЃ§г‚‚дј‘ж—ҐгЃ®гѓ¬г‚ёгѓЈгѓјгЃ§г‚‚гЂЃзЏѕд»ЈгЃ®з”·жЂ§гЃ®е„Єй›…гЃ•гЃЁг‚»гѓіг‚№г‚’е®Њз’§гЃ«иЎЁзЏѕгЃ™г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј жїЂе®‰йЂљиІ©г‚µг‚¤гѓ€ vogvip.com г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј жїЂе®‰<br />жњ¬е•†е“ЃеЏЄд»ЉгЂЂгЂЂйЂІиЎЊдё­ [г‚­гѓЈгѓігѓљгѓі] е…Ёеє—е•†е“Ѓ20%е‰Іеј•<br />е•†е“Ѓз•ЄеЏ·пјљvogvip2025NXZ-GVC042<br />ењЁеє«зЉ¶жіЃпјљ 50 дјље“ЎдѕЎж јпјљ9200е††<br />е•†е“Ѓгѓ–гѓ©гѓігѓ‰пјљг‚ёгѓђгѓіг‚·г‚Ј GIVENCHY<br />е‡єе“Ѓж™‚й–“пјљ2025-03-26 е•†е“Ѓг‚«гѓ†г‚ґгѓЄпјљгѓЎгѓіг‚є еЌЉиў–Tг‚·гѓЈгѓ„<br />г‚ёгѓђгѓіг‚·г‚Јг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј жїЂе®‰ vogvip.com/goods-29736.html GIVENCHYгѓ–гѓ©гѓігѓ‰г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</div>
 </div>
 
 <div class="art">
 	[<b>402</b>] <strong>https://www.saikopi.com/products/167.html</strong>
-	“ЉЌeЋТЃF<b>ѓ‹ѓCѓ”ѓBѓgѓ“ ѓoѓbѓO ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/08/27(Wed) 18:14 &nbsp; [<a href="./light.cgi?res=402">•ФђM</a>]
-	<div class="com"><br />Ќ‚•iЋї ђl‹C ѓGѓЂѓVЃ[ѓGѓЂ ѓRѓsЃ[ ЌЧ•”‚Й‚±‚ѕ‚н‚Б‚Ѕѓ^ѓCѓv –И“ь‚к 2ђF‰В‘I<br />“с”N€И“а‚Йђl“I”j‰у‚Е‚И‚ўЊМЏб‚Н–і—ї‚ЕЏC—ќ‚р‚µ‚Ь‚·ЃBѓ‹ѓCѓ”ѓBѓgѓ“ ђVЌм ѓRѓsЃ[ www.saikopi.com/louisvuittonbag/   ѓ‹ѓCѓ”ѓBѓgѓ“ ђVЌм ѓRѓsЃ[<br />ђі‹K•i‚Ж“Ї“™•iЋї‚МѓRѓsЃ[•i‚р’б‰ї‚Е‚Ё‹q—l‚Й’с‹џ‚µ‚Ь‚·ЃB ѓ‹ѓCѓ”ѓBѓgѓ“ ѓRѓsЃ[ •iЋї <a href="https://www.saikopi.com/brand/louisvuitton/" target="_blank">https://www.saikopi.com/brand/louisvuitton/</a> ѓ‹ѓCѓ”ѓBѓgѓ“ ѓRѓsЃ[ •iЋї<br />€АђS‚µ‚ДЌw“ь‚µ‚Д‰є‚і‚ўЃBѓ‹ѓCѓ”ѓBѓgѓ“ ѓoѓbѓO ѓRѓsЃ[  www.saikopi.com/  ѓ‹ѓCѓ”ѓBѓgѓ“ ѓoѓbѓO ѓRѓsЃ[<br />Ћ©ђg‚ЄЋg—p‚·‚й‚ѕ‚Ї‚Е‚И‚­ЃA“ьЉwЃA‘І‹ЖЃA’aђ¶“ъЃA Њ‹ЌҐ‚М‚ЁЏj‚ў“™‚МѓMѓtѓg‚Й‚а‚І——p‚­‚ѕ‚і‚ўЃBѓ‹ѓCѓ”ѓBѓgѓ“  ѓRѓsЃ[ n‹‰  www.saikopi.com/products/167.html ѓ‹ѓCѓ”ѓBѓgѓ“  ѓRѓsЃ[ n‹‰</div>
+	жЉ•зЁїиЂ…пјљ<b>гѓ«г‚¤гѓґг‚Јгѓ€гѓі гѓђгѓѓг‚° г‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/08/27(Wed) 18:14 &nbsp; [<a href="light@res_402.cgi">иї”дїЎ</a>]
+	<div class="com"><br />й«е“ЃиіЄ дєєж°— г‚Ёгѓ г‚·гѓјг‚Ёгѓ  г‚ігѓ”гѓј зґ°йѓЁгЃ«гЃ“гЃ г‚ЏгЃЈгЃџг‚їг‚¤гѓ— з¶їе…Ґг‚Њ 2и‰ІеЏЇйЃё<br />дєЊе№ґд»Ґе†…гЃ«дєєзљ„з ґеЈЉгЃ§гЃЄгЃ„ж•…йљњгЃЇз„Ўж–™гЃ§дї®зђ†г‚’гЃ—гЃѕгЃ™гЂ‚гѓ«г‚¤гѓґг‚Јгѓ€гѓі ж–°дЅњ г‚ігѓ”гѓј www.saikopi.com/louisvuittonbag/   гѓ«г‚¤гѓґг‚Јгѓ€гѓі ж–°дЅњ г‚ігѓ”гѓј<br />ж­Ји¦Џе“ЃгЃЁеђЊз­‰е“ЃиіЄгЃ®г‚ігѓ”гѓје“Ѓг‚’дЅЋдѕЎгЃ§гЃЉе®ўж§гЃ«жЏђдѕ›гЃ—гЃѕгЃ™гЂ‚ гѓ«г‚¤гѓґг‚Јгѓ€гѓі г‚ігѓ”гѓј е“ЃиіЄ <a href="https://www.saikopi.com/brand/louisvuitton/" target="_blank">https://www.saikopi.com/brand/louisvuitton/</a> гѓ«г‚¤гѓґг‚Јгѓ€гѓі г‚ігѓ”гѓј е“ЃиіЄ<br />е®‰еїѓгЃ—гЃ¦иіје…ҐгЃ—гЃ¦дё‹гЃ•гЃ„гЂ‚гѓ«г‚¤гѓґг‚Јгѓ€гѓі гѓђгѓѓг‚° г‚ігѓ”гѓј  www.saikopi.com/  гѓ«г‚¤гѓґг‚Јгѓ€гѓі гѓђгѓѓг‚° г‚ігѓ”гѓј<br />и‡Єиє«гЃЊдЅїз”ЁгЃ™г‚‹гЃ гЃ‘гЃ§гЃЄгЃЏгЂЃе…Ґе­¦гЂЃеЌ’жҐ­гЂЃиЄ•з”џж—ҐгЂЃ зµђе©љгЃ®гЃЉзҐќгЃ„з­‰гЃ®г‚®гѓ•гѓ€гЃ«г‚‚гЃ”е€©з”ЁгЃЏгЃ гЃ•гЃ„гЂ‚гѓ«г‚¤гѓґг‚Јгѓ€гѓі  г‚ігѓ”гѓј nзґљ  www.saikopi.com/products/167.html гѓ«г‚¤гѓґг‚Јгѓ€гѓі  г‚ігѓ”гѓј nзґљ</div>
 </div>
 
 <div class="art">
 	[<b>401</b>] <strong>ai machine</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:adelesarah087@gmail.com">sarahadele</a></b> “ЉЌe“ъЃF2025/08/14(Thu) 18:47 &nbsp; [<a href="./light.cgi?res=401">•ФђM</a>]
-	<div class="com">The importance of AI literacy extends beyond the technology sector. Knowledge of ai machine tools benefits fields such as marketing, logistics, and public services. The College of Contract ManagementЃfs diploma programme bridges these diverse applications. The learning journey includes both collaborative projects and independent study. Such versatility enhances long-term career prospects. ѓNѓЉ<p class="url"><a href="http://www.uniccm.com/course/professional-diploma-in-ai-and-machine-learning" target="_blank">http://www.uniccm.com/course/professional-diploma-in-ai-and-machine-learning</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:adelesarah087@gmail.com">sarahadele</a></b> жЉ•зЁїж—Ґпјљ2025/08/14(Thu) 18:47 &nbsp; [<a href="light@res_401.cgi">иї”дїЎ</a>]
+	<div class="com">The importance of AI literacy extends beyond the technology sector. Knowledge of ai machine tools benefits fields such as marketing, logistics, and public services. The College of Contract ManagementвЂ™s diploma programme bridges these diverse applications. The learning journey includes both collaborative projects and independent study. Such versatility enhances long-term career prospects. г‚ЇгѓЄ<p class="url"><a href="http://www.uniccm.com/course/professional-diploma-in-ai-and-machine-learning" target="_blank">http://www.uniccm.com/course/professional-diploma-in-ai-and-machine-learning</a></p></div>
 </div>
 
 <div class="art">
 	[<b>400</b>] <strong>adult social</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:adelesarah087@gmail.com">sarahadele</a></b> “ЉЌe“ъЃF2025/08/14(Thu) 15:46 &nbsp; [<a href="./light.cgi?res=400">•ФђM</a>]
-	<div class="com">Quality assurance is necessary to maintain high standards in care. The course teaches how to monitor and evaluate service effectiveness. Knowledge of adult social care ensures that improvements are based on accurate assessments. The College of Contract Management equips learners with the tools to manage quality effectively. This leads to consistent and reliable services.<br />ѓNѓЉ<p class="url"><a href="http://www.uniccm.com/course/nqual-level-3-diploma-in-adult-care" target="_blank">http://www.uniccm.com/course/nqual-level-3-diploma-in-adult-care</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:adelesarah087@gmail.com">sarahadele</a></b> жЉ•зЁїж—Ґпјљ2025/08/14(Thu) 15:46 &nbsp; [<a href="light@res_400.cgi">иї”дїЎ</a>]
+	<div class="com">Quality assurance is necessary to maintain high standards in care. The course teaches how to monitor and evaluate service effectiveness. Knowledge of adult social care ensures that improvements are based on accurate assessments. The College of Contract Management equips learners with the tools to manage quality effectively. This leads to consistent and reliable services.<br />г‚ЇгѓЄ<p class="url"><a href="http://www.uniccm.com/course/nqual-level-3-diploma-in-adult-care" target="_blank">http://www.uniccm.com/course/nqual-level-3-diploma-in-adult-care</a></p></div>
 </div>
 
 <div class="art">
-	[<b>399</b>] <strong>vog.agvol.comѓuѓ‰ѓ“ѓh ѓRѓsЃ[ —D—З“X</strong>
-	“ЉЌeЋТЃF<b>vog.agvol.comѓuѓ‰ѓ“ѓh ѓRѓsЃ[ —D—З“X</b> “ЉЌe“ъЃF2025/08/13(Wed) 20:05 &nbsp; [<a href="./light.cgi?res=399">•ФђM</a>]
-	<div class="com"> CHROME HEARTSѓuѓ‰ѓ“ѓh •i ѓRѓsЃ[vog.agvol.com/brand-17-c0.htmlѓNѓЌѓЂѓnЃ[ѓcѓRѓsЃ[ ’К”МCHROME HEARTSѓpЃ[ѓJЃ[ѓXЃ[ѓpЃ[ ѓRѓsЃ[ •i,CHROME HEARTSѓXЃ[ѓpЃ[ €АђS,ѓpЃ[ѓJЃ[ѓXЃ[ѓpЃ[ €АђS vog.agvol.com/goods-149201.html ”љ”­“Iђl‹C‘Ѓ‚ўЋТЏџ‚їCHROME HEARTSѓXЃ[ѓpЃ[ ѓRѓsЃ[  ѓpЃ[ѓJЃ[ ЌЭЊЙђ”ЊА’иђ”—КЊА’иѓpЃ[ѓJЃ[CHROME HEARTSЊѓ€А ’К”М ѓuѓ‰ѓ“ѓh <p class="url"><a href="https://vog.agvol.com/goods-149201.html" target="_blank">https://vog.agvol.com/goods-149201.html</a></p></div>
+	[<b>399</b>] <strong>vog.agvol.comгѓ–гѓ©гѓігѓ‰ г‚ігѓ”гѓј е„Єи‰Їеє—</strong>
+	жЉ•зЁїиЂ…пјљ<b>vog.agvol.comгѓ–гѓ©гѓігѓ‰ г‚ігѓ”гѓј е„Єи‰Їеє—</b> жЉ•зЁїж—Ґпјљ2025/08/13(Wed) 20:05 &nbsp; [<a href="light@res_399.cgi">иї”дїЎ</a>]
+	<div class="com"> CHROME HEARTSгѓ–гѓ©гѓігѓ‰ е“Ѓ г‚ігѓ”гѓјvog.agvol.com/brand-17-c0.htmlг‚Їгѓ­гѓ гѓЏгѓјгѓ„г‚ігѓ”гѓј йЂљиІ©CHROME HEARTSгѓ‘гѓјг‚«гѓјг‚№гѓјгѓ‘гѓј г‚ігѓ”гѓј е“Ѓ,CHROME HEARTSг‚№гѓјгѓ‘гѓј е®‰еїѓ,гѓ‘гѓјг‚«гѓјг‚№гѓјгѓ‘гѓј е®‰еїѓ vog.agvol.com/goods-149201.html з€†з™єзљ„дєєж°—ж—©гЃ„иЂ…е‹ќгЃЎCHROME HEARTSг‚№гѓјгѓ‘гѓј г‚ігѓ”гѓј  гѓ‘гѓјг‚«гѓј ењЁеє«ж•°й™ђе®љж•°й‡Џй™ђе®љгѓ‘гѓјг‚«гѓјCHROME HEARTSжїЂе®‰ йЂљиІ© гѓ–гѓ©гѓігѓ‰ <p class="url"><a href="https://vog.agvol.com/goods-149201.html" target="_blank">https://vog.agvol.com/goods-149201.html</a></p></div>
 </div>
 
 <div class="art">
-	[<b>398</b>] <strong>ѓuѓ‰ѓ“ѓh Ќа•zѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓuѓ‰ѓ“ѓh Ќа•zѓRѓsЃ[</b> “ЉЌe“ъЃF2025/08/05(Tue) 18:20 &nbsp; [<a href="./light.cgi?res=398">•ФђM</a>]
-	<div class="com">2025‘еђl‹C‚Мѓuѓ‰ѓ“ѓh Ќа•zѓRѓsЃ[Џ¤•i‚Н”­”„ЃAЌЕЌ‚•iЋї‚МѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‚рЉCЉOЊѓ€А’К”МЃyhacopyssЃzЃIѓXЃ[ѓpЃ[ѓRѓsЃ[Ќа•z,ѓuѓ‰ѓ“ѓhЌа•zѓRѓsЃ[,ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓuѓ‰ѓ“ѓh,’jЏ—‚МЌа•zђ”•SЋн—Ю—D—З•iЋї‚МЏ¤•i,ѓXЃ[ѓpЃ[ѓRѓsЃ[n‹‰•i—D—ЗѓTѓCѓg‚ї‚б‚с‚Ж“Н‚­ѓuѓ‰ѓ“ѓhѓRѓsЃ[‘г€ш‚«‚Ё‚·‚·‚ЯЃBѓOѓbѓ`Ќа•z ѓRѓsЃ[,ѓ‹ѓCѓ”ѓBѓgѓ“Ќа•zѓRѓsЃ[,ѓVѓѓѓlѓ‹Ќа•zѓRѓsЃ[,ѓfѓBѓIЃ[ѓ‹Ќа•zѓRѓsЃ[,ѓSѓ„Ѓ[ Ќа•z ѓRѓsЃ[,ѓNѓЌѓЂѓnЃ[ѓcЌа•z ѓXЃ[ѓpЃ[ѓRѓsЃ[,ѓGѓ‹ѓЃѓX Ќа•z ѓRѓsЃ[,ѓvѓ‰ѓ_ Ќа•z ѓRѓsЃ[‚И‚З‚МЊѓ€А•i‚рЏW‚Я‚Д‚Э‚ЅЃIЊыѓRѓ~ЌЕЌ‚‹‰‚МѓXЃ[ѓpЃ[ѓRѓsЃ[ ’·Ќа•zЃAђЬ‚и‚Ѕ‚Ѕ‚ЭЌа•z‚И‚З‘——ї–і—їЃB‘SЏ¤•i‚рЉi€А‰їЉi‚Е”М”„‚µ‚Д‚ў‚Ь‚·ЃB<br /><a href="https://hacopyss.com/collections/qianbao" target="_blank">https://hacopyss.com/collections/qianbao</a></div>
+	[<b>398</b>] <strong>гѓ–гѓ©гѓігѓ‰ иІЎеёѓг‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ–гѓ©гѓігѓ‰ иІЎеёѓг‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/08/05(Tue) 18:20 &nbsp; [<a href="light@res_398.cgi">иї”дїЎ</a>]
+	<div class="com">2025е¤§дєєж°—гЃ®гѓ–гѓ©гѓігѓ‰ иІЎеёѓг‚ігѓ”гѓје•†е“ЃгЃЇз™єеЈІгЂЃжњЂй«е“ЃиіЄгЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓг‚’жµ·е¤–жїЂе®‰йЂљиІ©гЂђhacopyssгЂ‘пјЃг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјиІЎеёѓ,гѓ–гѓ©гѓігѓ‰иІЎеёѓг‚ігѓ”гѓј,г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓ–гѓ©гѓігѓ‰,з”·еҐігЃ®иІЎеёѓж•°з™ѕзЁ®йЎће„Єи‰Їе“ЃиіЄгЃ®е•†е“Ѓ,г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјnзґље“Ѓе„Єи‰Їг‚µг‚¤гѓ€гЃЎг‚ѓг‚“гЃЁе±ЉгЃЏгѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓјд»Јеј•гЃЌгЃЉгЃ™гЃ™г‚ЃгЂ‚г‚°гѓѓгѓЃиІЎеёѓ г‚ігѓ”гѓј,гѓ«г‚¤гѓґг‚Јгѓ€гѓіиІЎеёѓг‚ігѓ”гѓј,г‚·гѓЈгѓЌгѓ«иІЎеёѓг‚ігѓ”гѓј,гѓ‡г‚Јг‚Єгѓјгѓ«иІЎеёѓг‚ігѓ”гѓј,г‚ґгѓ¤гѓј иІЎеёѓ г‚ігѓ”гѓј,г‚Їгѓ­гѓ гѓЏгѓјгѓ„иІЎеёѓ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј,г‚Ёгѓ«гѓЎг‚№ иІЎеёѓ г‚ігѓ”гѓј,гѓ—гѓ©гѓЂ иІЎеёѓ г‚ігѓ”гѓјгЃЄгЃ©гЃ®жїЂе®‰е“Ѓг‚’й›†г‚ЃгЃ¦гЃїгЃџпјЃеЏЈг‚ігѓџжњЂй«зґљгЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј й•·иІЎеёѓгЂЃжЉг‚ЉгЃџгЃџгЃїиІЎеёѓгЃЄгЃ©йЂЃж–™з„Ўж–™гЂ‚е…Ёе•†е“Ѓг‚’ж је®‰дѕЎж јгЃ§иІ©еЈІгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚<br /><a href="https://hacopyss.com/collections/qianbao" target="_blank">https://hacopyss.com/collections/qianbao</a></div>
 </div>
 
 <div class="art">
 	[<b>397</b>] <strong>chat cpd</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:yongdorable@gmail.com">smitten</a></b> “ЉЌe“ъЃF2025/07/15(Tue) 20:05 &nbsp; [<a href="./light.cgi?res=397">•ФђM</a>]
-	<div class="com">A variety of industry topics are covered in the College of Contract Management&#39;s accessible and reasonably priced online Continuing Professional Development (CPD) sessions.  There are free monthly LinkedIn Live sessions available.  Following ѓ`ѓѓѓbѓg chat cpd can help you learn new things and improve your abilities.  Get your CPD certification by creating a free Moodle account, watching past free recordings, and gaining access to recordings.  <br /><br /><a href="https://www.uniccm.com/course/free-cpd-talk" target="_blank">https://www.uniccm.com/course/free-cpd-talk</a><p class="url"><a href="https://www.uniccm.com/course/free-cpd-talk" target="_blank">https://www.uniccm.com/course/free-cpd-talk</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:yongdorable@gmail.com">smitten</a></b> жЉ•зЁїж—Ґпјљ2025/07/15(Tue) 20:05 &nbsp; [<a href="light@res_397.cgi">иї”дїЎ</a>]
+	<div class="com">A variety of industry topics are covered in the College of Contract Management&#39;s accessible and reasonably priced online Continuing Professional Development (CPD) sessions.  There are free monthly LinkedIn Live sessions available.  Following гѓЃгѓЈгѓѓгѓ€ chat cpd can help you learn new things and improve your abilities.  Get your CPD certification by creating a free Moodle account, watching past free recordings, and gaining access to recordings.  <br /><br /><a href="https://www.uniccm.com/course/free-cpd-talk" target="_blank">https://www.uniccm.com/course/free-cpd-talk</a><p class="url"><a href="https://www.uniccm.com/course/free-cpd-talk" target="_blank">https://www.uniccm.com/course/free-cpd-talk</a></p></div>
 </div>
 
 <div class="art">
-	[<b>396</b>] <strong>ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«</b> “ЉЌe“ъЃF2025/07/01(Tue) 19:46 &nbsp; [<a href="./light.cgi?res=396">•ФђM</a>]
-	<div class="com">ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«<br />ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃB•K‚ё“Н‚­ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z ”ѓ‚Б‚Д‚Э‚ЅЃIN‹‰•iђl‹C‚ЄЌ‚‚ўѓRѓsЃ[ѓuѓ‰ѓ“ѓhЌа•z Њѓ€А–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃA‘еђl‹CѓWѓbѓsЃ[ѓEѓHѓЊѓbѓg ‹U•ЁЃAѓ|ѓ‹ѓgѓtѓHѓCѓ†ѓNѓЊѓA ‹U•Ё‚Є‘еЏWЌ‡ЃIѓuѓ‰ѓ“ѓhЌа•z‹U•Ё Nѓ‰ѓ“ѓN ’К”МЃCЌЕЌ‚‹‰‚МѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z ѓЃѓ“ѓYЃEѓЊѓfѓBЃ[ѓX‚Мѓ~ѓjЌа•zЃA’·Ќа•zЃAђЬ‚и‚Ѕ‚Ѕ‚ЭЌа•z‚НЊыѓRѓ~‚Є‚ў‚ўЃBѓuѓ‰ѓ“ѓh•i‚М–{•Ё‚Ж‹U•ЁЊ©•Є‚Ї‚Є‚В‚©‚И‚ў‚Щ‚ЗђёЌI‚ЙЌм‚з‚к‚Д‚ў‚Ь‚·ЃB‘fЌЮ‚в–Dђ»ЃAѓfѓUѓCѓ“‚Ь‚ЕЌЧ•”‚Й‚±‚ѕ‚н‚иЃAЌ‚•iЋї‚рЉy‚µ‚Ю‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃB‘——ї–і—їЃA3”N•iЋї•ЫЏШЃI<br /><a href="https://www.ncopy.jp/cat/saifu/" target="_blank">https://www.ncopy.jp/cat/saifu/</a><br />www.ncopy.jp/</div>
+	[<b>396</b>] <strong>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/07/01(Tue) 19:46 &nbsp; [<a href="light@res_396.cgi">иї”дїЎ</a>]
+	<div class="com">г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌ<br />г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚еї…гЃље±ЉгЃЏг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓ иІ·гЃЈгЃ¦гЃїгЃџпјЃNзґље“Ѓдєєж°—гЃЊй«гЃ„г‚ігѓ”гѓјгѓ–гѓ©гѓігѓ‰иІЎеёѓ жїЂе®‰и±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂЃе¤§дєєж°—г‚ёгѓѓгѓ”гѓјг‚¦г‚©гѓ¬гѓѓгѓ€ еЃЅз‰©гЂЃгѓќгѓ«гѓ€гѓ•г‚©г‚¤гѓ¦г‚Їгѓ¬г‚ў еЃЅз‰©гЃЊе¤§й›†еђ€пјЃгѓ–гѓ©гѓігѓ‰иІЎеёѓеЃЅз‰© Nгѓ©гѓіг‚Ї йЂљиІ©пјЊжњЂй«зґљгЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓ гѓЎгѓіг‚єгѓ»гѓ¬гѓ‡г‚Јгѓјг‚№гЃ®гѓџгѓ‹иІЎеёѓгЂЃй•·иІЎеёѓгЂЃжЉг‚ЉгЃџгЃџгЃїиІЎеёѓгЃЇеЏЈг‚ігѓџгЃЊгЃ„гЃ„гЂ‚гѓ–гѓ©гѓігѓ‰е“ЃгЃ®жњ¬з‰©гЃЁеЃЅз‰©и¦‹е€†гЃ‘гЃЊгЃ¤гЃ‹гЃЄгЃ„гЃ»гЃ©зІѕе·§гЃ«дЅњг‚‰г‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚зґ жќђг‚„зё«иЈЅгЂЃгѓ‡г‚¶г‚¤гѓігЃѕгЃ§зґ°йѓЁгЃ«гЃ“гЃ г‚Џг‚ЉгЂЃй«е“ЃиіЄг‚’жҐЅгЃ—г‚ЂгЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚йЂЃж–™з„Ўж–™гЂЃ3е№ґе“ЃиіЄдїќиЁјпјЃ<br /><a href="https://www.ncopy.jp/cat/saifu/" target="_blank">https://www.ncopy.jp/cat/saifu/</a><br />www.ncopy.jp/</div>
 </div>
 
 <div class="art">
-	[<b>395</b>] <strong>ѓЌѓЊѓbѓNѓXЋћЊvѓRѓsЃ[‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓЌѓЊѓbѓNѓXЋћЊvѓRѓsЃ[‘г€ш‚«</b> “ЉЌe“ъЃF2025/06/29(Sun) 14:21 &nbsp; [<a href="./light.cgi?res=395">•ФђM</a>]
-	<div class="com">ѓЌѓЊѓbѓNѓXЋћЊvѓRѓsЃ[‘г€ш‚«ЃCѓЌѓЊѓbѓNѓX ѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‹U•Ё’К”Мђк–е“XЃujpkopiЃv!<br />ѓЌѓЊѓbѓNѓXЋћЊv ѓXЃ[ѓpЃ[ѓRѓsЃ[ N‹‰•i€А‘SЊг•Ґ‚ў‚Ё‚·‚·‚Я’К”МЃujpkopiЃv!“–“X‚Нђl‹C‚ЄЌ‚‚ўѓЌѓЊѓbѓNѓX ЋћЊvѓRѓsЃ[‚Є‘еЏWЌ‡ЃCЌЕЌ‚‹‰‚МN•iѓЌѓЊѓbѓNѓX ѓfѓCѓgѓi ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓfѓCѓgѓWѓѓѓXѓg ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓTѓuѓ}ѓЉЃ[ѓiЃ[ ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓ€ѓbѓgѓ}ѓXѓ^Ѓ[ ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓfѓCѓfѓCѓg ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX gmtѓ}ѓXѓ^Ѓ[2ѓRѓsЃ[‚И‚ЗRolexѓXЃ[ѓpЃ[ѓRѓsЃ[‚МrЋћЊvЋж€µ‚Б‚Д‚ў‚Ь‚·ЃBѓЌѓЊѓbѓNѓX‹U•ЁN‹‰•i‘SЌ‘‘——ї–і—їЃA•iЋї3”N•ЫЏШ‚ЕЃA‘SЋА•ЁЏ¤•iЋКђ^‚Е‚·ЃB<br /><a href="https://www.jpkopi.net/products/watch/rolex/" target="_blank">https://www.jpkopi.net/products/watch/rolex/</a></div>
+	[<b>395</b>] <strong>гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€г‚ігѓ”гѓјд»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€г‚ігѓ”гѓјд»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/06/29(Sun) 14:21 &nbsp; [<a href="light@res_395.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€г‚ігѓ”гѓјд»Јеј•гЃЌпјЊгѓ­гѓ¬гѓѓг‚Їг‚№ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃеЃЅз‰©йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј Nзґље“Ѓе®‰е…ЁеѕЊж‰•гЃ„гЃЉгЃ™гЃ™г‚ЃйЂљиІ©гЂЊjpkopiгЂЌ!еЅ“еє—гЃЇдєєж°—гЃЊй«гЃ„гѓ­гѓ¬гѓѓг‚Їг‚№ ж™‚иЁ€г‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЊжњЂй«зґљгЃ®Nе“Ѓгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ€гѓЉ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ€г‚ёгѓЈг‚№гѓ€ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ г‚µгѓ–гѓћгѓЄгѓјгѓЉгѓј г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓЁгѓѓгѓ€гѓћг‚№г‚їгѓј г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ‡г‚¤гѓ€ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ gmtгѓћг‚№г‚їгѓј2г‚ігѓ”гѓјгЃЄгЃ©Rolexг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгЃ®и…•ж™‚иЁ€еЏ–ж‰±гЃЈгЃ¦гЃ„гЃѕгЃ™гЂ‚гѓ­гѓ¬гѓѓг‚Їг‚№еЃЅз‰©Nзґље“Ѓе…Ёе›ЅйЂЃж–™з„Ўж–™гЂЃе“ЃиіЄ3е№ґдїќиЁјгЃ§гЂЃе…Ёе®џз‰©е•†е“Ѓе†™зњџгЃ§гЃ™гЂ‚<br /><a href="https://www.jpkopi.net/products/watch/rolex/" target="_blank">https://www.jpkopi.net/products/watch/rolex/</a></div>
 </div>
 
 <div class="art">
-	[<b>394</b>] <strong>DSQUARED2ѓuѓ‰ѓ“ѓh ѓRѓsЃ[ vogvip.com/brand-11-c0.html ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓhѓRѓsЃ[ ѓuѓ‰ѓ“ѓh</strong>
-	“ЉЌeЋТЃF<b>ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓhѓuѓ‰ѓ“ѓhѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/28(Sat) 01:48 &nbsp; [<a href="./light.cgi?res=394">•ФђM</a>]
-	<div class="com">2025•iЋї•ЫЏШЌ‚•iЋї ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓh DSQUARED2 ѓuѓ‰ѓ“ѓhѓXЃ[ѓpЃ[ѓRѓsЃ[ ’ґ–Ъ‹К ”ј‘іTѓVѓѓѓc 2ђF‰В‘I DSQUARED2 2025‰Д‚МђaЋm•ћ‚МѓRѓЊѓNѓVѓ‡ѓ“‚Н‘S‚­ђV‚µ‚ўѓJѓWѓ…ѓAѓ‹‚И”ј‘і‚МTѓVѓѓѓc‚рЋќ‚Б‚Д‚«‚ДЃAѓCѓ^ѓЉѓAЋ®‚Мђёгk‚ИЌHЊ|‚Е“sЋsЊ^Љi‚р‰рЋЯ‚µ‚Ь‚·ЃBђё‘I‚і‚к‚Ѕ‹ЙЌЧЉC“‡–ИЌ¬–aђ¶’n‚НЃA1•Ѕ•ыѓCѓ“ѓ`‚ ‚Ѕ‚и32–{‚М“сЏdЋ…‚Е•Т‚Ь‚кЃA’К‹Cђ«‚р40%Ќ‚‚Я‚И‚Є‚зђ¶’n‚М’Ј‚и‚р•Ы‚ї‚Ь‚·ЃBЉvђV“I‚ИѓnѓjѓJѓЂ•Т‚Э‚Жe‚М—§‘МѓJѓbѓg‚р‘g‚ЭЌ‡‚н‚№ЃA360“x‚М‹у‹CЏzЉВѓVѓXѓeѓЂ‚рЋАЊ»‚µ‚Ь‚µ‚ЅЃBDSQUARED2ѓuѓ‰ѓ“ѓh ѓRѓsЃ[ vogvip.com/brand-11-c0.html ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓhѓRѓsЃ[ ѓuѓ‰ѓ“ѓh ‹Ь‚НЋO–{ђj•в‹­ЌH–@‚рЌМ—p‚µЃA200‰с‚Мђф‘уѓeѓXѓg‚рЊo‚Д‚аЊґЊ^‚р€ЫЋќ‚µ‚Д‚ў‚Ь‚·ЃB”w’†‚М€Г‚ў–д—l‚МѓWѓѓѓJЃ[ѓhЌHЊ|‚Нѓuѓ‰ѓ“ѓh‚МЊo“TD2‚МѓЌѓS‚рЊ»‚µ‚ДЃA“Б’и‚МЉp“x‚ЕЊ©‚¦‰B‚к‚·‚й‚ѕ‚Ї‚Е‚·ЃBђћ‚М‘O‚Н’Z‚­‚ДЊг‚Н’·‚ўЊК‚МђЭЊvЃAЉ®аш‚ЙЉeЋн—Ю‚МѓYѓ{ѓ“‚М•ћ‘•‚М‘g‚ЭЌ‡‚н‚№‚Й“K‰ћ‚µ‚Ь‚·ЃBѓ~ѓbѓhѓiѓCѓgѓuѓ‹Ѓ[ЃAѓTѓ“ѓhѓOѓЊЃ[ЃA“Б‹–Ћж“ѕЌП‚Э‚МЃuѓxѓjѓXѓ~ѓXѓgЃv‚М3Ћн—Ю‚МЊА’иђF‚р—p€У‚µЃA‚»‚к‚ј‚к72‰с‚Мђ…ђф‚ўЌH’ц‚рЊo‚Д“Ж“Б‚МЋїЉґ‚р‰‰Џo‚µ‚Д‚ў‚Ь‚·ЃBЉщђ»•ћ‚МЏd‚і‚р180ѓOѓ‰ѓЂ‚Й—}‚¦ЃAђlЉФЌHЉw‚ЙЉо‚Г‚ў‚Ѕ—§‘МЌЩ’f‚Є“®‚«‚рЋ©—R‚Й‚µ‚Д‚­‚к‚Ь‚·ЃB“Б•К‚ЙЉJ”­‚і‚к‚Ѕѓiѓm‹‰‚МuvѓJѓbѓgѓRЃ[ѓeѓBѓ“ѓO‚НUPF50+•ЫЊм“™‹‰‚Й’B‚µЃA“ъЏД‚Ї–hЋ~ЋћЉФ‚Н8ЋћЉФ‚Е‚·ЃBѓXЃ[ѓpЃ[ѓRѓsЃ[ѓTѓCѓg vogvip.com VOGѓRѓsЃ[ ’…’EЋ®ѓ}ѓOѓlѓbѓgѓoѓbѓWѓAѓNѓZѓTѓЉЃ[‚Є•t‘®‚µ‚Д‚Ё‚иЃAЌ¶‹№‚в‘іЊы‚М€К’u‚ЙЋ©—R‚Й‘g‚ЭЌ‡‚н‚№‚й‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃB“а–D‚ўѓ‰ѓxѓ‹‚Н–іЉґ”M“]ЋК‹ZЏp‚рЌМ—p‚µЃAЏ]—€‚Мѓ‰ѓxѓ‹‚М•s‰хЉґ‚©‚зЉ®‘S‚Й’E‹p‚µ‚Ь‚·ЃBЌЎ‹G‚Нѓ~ѓ‰ѓmЊ¤‹†ЏЉ‚ЕЉJ”­‚і‚к‚ЅѓGѓRЉ€ђ«ђх—ї‚ЕЃA50‰с‚Мђф‘уЊг‚а95%‚МЊS“x‚рЉm•Ы‚µ‚Д‚ў‚Ь‚·ЃBѓIѓtѓBѓX‚©‚зѓrЃ[ѓ`ѓЉѓ]Ѓ[ѓg‚Ь‚ЕЃA‘S“VЊуѓVЃ[ѓ“‚МђШ‚и‘Ц‚¦‚Й‘О‰ћ‚·‚йѓXѓ}Ѓ[ѓgѓЃѓ“ѓYѓAѓCѓeѓЂ‚Е‚·ЃB<br />–{Џ¤•i‘ьЌЎЃ@Ѓ@ђiЌs’† [ѓLѓѓѓ“ѓyѓ“] ‘S“XЏ¤•i20%Љ„€ш<br />Џ¤•i”ФЌ†ЃFvogvip2025NXZ-DS021<br />ЌЭЊЙЏу‹µЃF 50 ‰п€х‰їЉiЃF5800‰~<br />Џ¤•iѓuѓ‰ѓ“ѓhЃFѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓh DSQUARED2<br />Џo•iЋћЉФЃF2025-03-25 Џ¤•iѓJѓeѓSѓЉЃFѓЃѓ“ѓY ”ј‘іTѓVѓѓѓc<br />DSQUARED2ѓRѓsЃ[ vogvip.com/goods-29480.html ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓhѓuѓ‰ѓ“ѓhѓRѓsЃ[</div>
+	[<b>394</b>] <strong>DSQUARED2гѓ–гѓ©гѓігѓ‰ г‚ігѓ”гѓј vogvip.com/brand-11-c0.html гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰г‚ігѓ”гѓј гѓ–гѓ©гѓігѓ‰</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰гѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/28(Sat) 01:48 &nbsp; [<a href="light@res_394.cgi">иї”дїЎ</a>]
+	<div class="com">2025е“ЃиіЄдїќиЁјй«е“ЃиіЄ гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰ DSQUARED2 гѓ–гѓ©гѓігѓ‰г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј и¶…з›®зЋ‰ еЌЉиў–Tг‚·гѓЈгѓ„ 2и‰ІеЏЇйЃё DSQUARED2 2025е¤ЏгЃ®зґіеЈ«жњЌгЃ®г‚ігѓ¬г‚Їг‚·гѓ§гѓігЃЇе…ЁгЃЏж–°гЃ—гЃ„г‚«г‚ёгѓҐг‚ўгѓ«гЃЄеЌЉиў–гЃ®Tг‚·гѓЈгѓ„г‚’жЊЃгЃЈгЃ¦гЃЌгЃ¦гЂЃг‚¤г‚їгѓЄг‚ўејЏгЃ®зІѕз·»гЃЄе·ҐиЉёгЃ§йѓЅеё‚ећ‹ж јг‚’и§Јй‡€гЃ—гЃѕгЃ™гЂ‚зІѕйЃёгЃ•г‚ЊгЃџжҐµзґ°жµ·еі¶з¶їж··зґЎз”џењ°гЃЇгЂЃ1е№іж–№г‚¤гѓігѓЃгЃ‚гЃџг‚Љ32жњ¬гЃ®дєЊй‡ЌзіёгЃ§з·ЁгЃѕг‚ЊгЂЃйЂљж°—жЂ§г‚’40%й«г‚ЃгЃЄгЃЊг‚‰з”џењ°гЃ®ејµг‚Љг‚’дїќгЃЎгЃѕгЃ™гЂ‚йќ©ж–°зљ„гЃЄгѓЏгѓ‹г‚«гѓ з·ЁгЃїгЃЁи„‡гЃ®з«‹дЅ“г‚«гѓѓгѓ€г‚’зµ„гЃїеђ€г‚ЏгЃ›гЂЃ360еє¦гЃ®з©єж°—еѕЄз’°г‚·г‚№гѓ†гѓ г‚’е®џзЏѕгЃ—гЃѕгЃ—гЃџгЂ‚DSQUARED2гѓ–гѓ©гѓігѓ‰ г‚ігѓ”гѓј vogvip.com/brand-11-c0.html гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰г‚ігѓ”гѓј гѓ–гѓ©гѓігѓ‰ иЎїгЃЇдё‰жњ¬й‡ќиЈњеј·е·Ґжі•г‚’жЋЎз”ЁгЃ—гЂЃ200е›ћгЃ®жґ—жїЇгѓ†г‚№гѓ€г‚’зµЊгЃ¦г‚‚еЋџећ‹г‚’з¶­жЊЃгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚иѓЊдё­гЃ®жљ—гЃ„зґ‹ж§гЃ®г‚ёгѓЈг‚«гѓјгѓ‰е·ҐиЉёгЃЇгѓ–гѓ©гѓігѓ‰гЃ®зµЊе…ёD2гЃ®гѓ­г‚ґг‚’зЏѕгЃ—гЃ¦гЂЃз‰№е®љгЃ®и§’еє¦гЃ§и¦‹гЃ€йљ г‚ЊгЃ™г‚‹гЃ гЃ‘гЃ§гЃ™гЂ‚иЈѕгЃ®е‰ЌгЃЇзџ­гЃЏгЃ¦еѕЊгЃЇй•·гЃ„еј§гЃ®иЁ­иЁ€гЂЃе®Њз’§гЃ«еђ„зЁ®йЎћгЃ®г‚єгѓњгѓігЃ®жњЌиЈ…гЃ®зµ„гЃїеђ€г‚ЏгЃ›гЃ«йЃ©еїњгЃ—гЃѕгЃ™гЂ‚гѓџгѓѓгѓ‰гѓЉг‚¤гѓ€гѓ–гѓ«гѓјгЂЃг‚µгѓігѓ‰г‚°гѓ¬гѓјгЂЃз‰№иЁ±еЏ–еѕ—жё€гЃїгЃ®гЂЊгѓ™гѓ‹г‚№гѓџг‚№гѓ€гЂЌгЃ®3зЁ®йЎћгЃ®й™ђе®љи‰Іг‚’з”Ёж„ЏгЃ—гЂЃгЃќг‚ЊгЃћг‚Њ72е›ћгЃ®ж°ґжґ—гЃ„е·ҐзЁ‹г‚’зµЊгЃ¦з‹¬з‰№гЃ®иіЄж„џг‚’жј”е‡єгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚ж—ўиЈЅжњЌгЃ®й‡ЌгЃ•г‚’180г‚°гѓ©гѓ гЃ«жЉ‘гЃ€гЂЃдєєй–“е·Ґе­¦гЃ«еџєгЃҐгЃ„гЃџз«‹дЅ“иЈЃж–­гЃЊе‹•гЃЌг‚’и‡Єз”±гЃ«гЃ—гЃ¦гЃЏг‚ЊгЃѕгЃ™гЂ‚з‰№е€ҐгЃ«й–‹з™єгЃ•г‚ЊгЃџгѓЉгѓЋзґљгЃ®uvг‚«гѓѓгѓ€г‚ігѓјгѓ†г‚Јгѓіг‚°гЃЇUPF50+дїќи­·з­‰зґљгЃ«йЃ”гЃ—гЂЃж—Ґз„јгЃ‘йІж­ўж™‚й–“гЃЇ8ж™‚й–“гЃ§гЃ™гЂ‚г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјг‚µг‚¤гѓ€ vogvip.com VOGг‚ігѓ”гѓј зќЂи„±ејЏгѓћг‚°гѓЌгѓѓгѓ€гѓђгѓѓг‚ёг‚ўг‚Їг‚»г‚µгѓЄгѓјгЃЊд»е±ћгЃ—гЃ¦гЃЉг‚ЉгЂЃе·¦иѓёг‚„иў–еЏЈгЃ®дЅЌзЅ®гЃ«и‡Єз”±гЃ«зµ„гЃїеђ€г‚ЏгЃ›г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚е†…зё«гЃ„гѓ©гѓ™гѓ«гЃЇз„Ўж„џз†±и»ўе†™жЉЂиЎ“г‚’жЋЎз”ЁгЃ—гЂЃеѕ“жќҐгЃ®гѓ©гѓ™гѓ«гЃ®дёЌеї«ж„џгЃ‹г‚‰е®Ње…ЁгЃ«и„±еЌґгЃ—гЃѕгЃ™гЂ‚д»Ље­ЈгЃЇгѓџгѓ©гѓЋз ”з©¶ж‰ЂгЃ§й–‹з™єгЃ•г‚ЊгЃџг‚Ёг‚іжґ»жЂ§жџ“ж–™гЃ§гЂЃ50е›ћгЃ®жґ—жїЇеѕЊг‚‚95%гЃ®е …з‰ўеє¦г‚’зўєдїќгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚г‚Єгѓ•г‚Јг‚№гЃ‹г‚‰гѓ“гѓјгѓЃгѓЄг‚ѕгѓјгѓ€гЃѕгЃ§гЂЃе…Ёе¤©еЂ™г‚·гѓјгѓігЃ®е€‡г‚Љж›їгЃ€гЃ«еЇѕеїњгЃ™г‚‹г‚№гѓћгѓјгѓ€гѓЎгѓіг‚єг‚ўг‚¤гѓ†гѓ гЃ§гЃ™гЂ‚<br />жњ¬е•†е“ЃеЏЄд»ЉгЂЂгЂЂйЂІиЎЊдё­ [г‚­гѓЈгѓігѓљгѓі] е…Ёеє—е•†е“Ѓ20%е‰Іеј•<br />е•†е“Ѓз•ЄеЏ·пјљvogvip2025NXZ-DS021<br />ењЁеє«зЉ¶жіЃпјљ 50 дјље“ЎдѕЎж јпјљ5800е††<br />е•†е“Ѓгѓ–гѓ©гѓігѓ‰пјљгѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰ DSQUARED2<br />е‡єе“Ѓж™‚й–“пјљ2025-03-25 е•†е“Ѓг‚«гѓ†г‚ґгѓЄпјљгѓЎгѓіг‚є еЌЉиў–Tг‚·гѓЈгѓ„<br />DSQUARED2г‚ігѓ”гѓј vogvip.com/goods-29480.html гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰гѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓј</div>
 </div>
 
 
@@ -142,24 +142,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-‹LЋ–No<input type="text" name="num" size="3" />
-ЌнЏњѓLЃ[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="ЌнЏњ" />
+иЁдє‹No<input type="text" name="num" size="3" />
+е‰Љй™¤г‚­гѓј<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="е‰Љй™¤" />
 </form>
 </div>
 

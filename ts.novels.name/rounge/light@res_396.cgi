@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,61 +13,61 @@ function popup(url) {
 }
 // -->
 </script>
-<title>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</title>
+<title>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</h1>
+<h1>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">ѓgѓbѓv‚Й–Я‚й</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">—Ї€УЋ–ЌЂ</a>]
-[<a href="./light.cgi?mode=find">ѓЏЃ[ѓhЊџЌх</a>]
+[<a href="../../index.html" target="_top">гѓ€гѓѓгѓ—гЃ«ж€»г‚‹</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">з•™ж„Џдє‹й …</a>]
+[<a href="light@mode_find.cgi">гѓЇгѓјгѓ‰ж¤њзґў</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">‰Я‹ЋѓЌѓO</a>]
+[<a href="light@mode_past.cgi">йЃЋеЋ»гѓ­г‚°</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">ЉЗ—ќ—p</a>]
+[<a href="admin.cgi">з®Ўзђ†з”Ё</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>‚Ё‚И‚Ь‚¦</th>
+	<th>гЃЉгЃЄгЃѕгЃ€</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>‚dѓЃЃ[ѓ‹</th>
+	<th>пјҐгѓЎгѓјгѓ«</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>ѓ^ѓCѓgѓ‹</th>
+	<th>г‚їг‚¤гѓ€гѓ«</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[396] ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«" />
-    	<input type="submit" value="‘—ђM‚·‚й" /><input type="reset" value="ѓЉѓZѓbѓg" />
+    	<input type="text" name="sub" size="36" value="Re:[396] г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌ" />
+    	<input type="submit" value="йЂЃдїЎгЃ™г‚‹" /><input type="reset" value="гѓЄг‚»гѓѓгѓ€" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	ѓЃѓbѓZЃ[ѓW<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«
-&gt; ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃB•K‚ё“Н‚­ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z ”ѓ‚Б‚Д‚Э‚ЅЃIN‹‰•iђl‹C‚ЄЌ‚‚ўѓRѓsЃ[ѓuѓ‰ѓ“ѓhЌа•z Њѓ€А–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃA‘еђl‹CѓWѓbѓsЃ[ѓEѓHѓЊѓbѓg ‹U•ЁЃAѓ|ѓ‹ѓgѓtѓHѓCѓ†ѓNѓЊѓA ‹U•Ё‚Є‘еЏWЌ‡ЃIѓuѓ‰ѓ“ѓhЌа•z‹U•Ё Nѓ‰ѓ“ѓN ’К”МЃCЌЕЌ‚‹‰‚МѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z ѓЃѓ“ѓYЃEѓЊѓfѓBЃ[ѓX‚Мѓ~ѓjЌа•zЃA’·Ќа•zЃAђЬ‚и‚Ѕ‚Ѕ‚ЭЌа•z‚НЊыѓRѓ~‚Є‚ў‚ўЃBѓuѓ‰ѓ“ѓh•i‚М–{•Ё‚Ж‹U•ЁЊ©•Є‚Ї‚Є‚В‚©‚И‚ў‚Щ‚ЗђёЌI‚ЙЌм‚з‚к‚Д‚ў‚Ь‚·ЃB‘fЌЮ‚в–Dђ»ЃAѓfѓUѓCѓ“‚Ь‚ЕЌЧ•”‚Й‚±‚ѕ‚н‚иЃAЌ‚•iЋї‚рЉy‚µ‚Ю‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃB‘——ї–і—їЃA3”N•iЋї•ЫЏШЃI
+    	гѓЎгѓѓг‚»гѓјг‚ё<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌ
+&gt; г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚еї…гЃље±ЉгЃЏг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓ иІ·гЃЈгЃ¦гЃїгЃџпјЃNзґље“Ѓдєєж°—гЃЊй«гЃ„г‚ігѓ”гѓјгѓ–гѓ©гѓігѓ‰иІЎеёѓ жїЂе®‰и±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂЃе¤§дєєж°—г‚ёгѓѓгѓ”гѓјг‚¦г‚©гѓ¬гѓѓгѓ€ еЃЅз‰©гЂЃгѓќгѓ«гѓ€гѓ•г‚©г‚¤гѓ¦г‚Їгѓ¬г‚ў еЃЅз‰©гЃЊе¤§й›†еђ€пјЃгѓ–гѓ©гѓігѓ‰иІЎеёѓеЃЅз‰© Nгѓ©гѓіг‚Ї йЂљиІ©пјЊжњЂй«зґљгЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓ гѓЎгѓіг‚єгѓ»гѓ¬гѓ‡г‚Јгѓјг‚№гЃ®гѓџгѓ‹иІЎеёѓгЂЃй•·иІЎеёѓгЂЃжЉг‚ЉгЃџгЃџгЃїиІЎеёѓгЃЇеЏЈг‚ігѓџгЃЊгЃ„гЃ„гЂ‚гѓ–гѓ©гѓігѓ‰е“ЃгЃ®жњ¬з‰©гЃЁеЃЅз‰©и¦‹е€†гЃ‘гЃЊгЃ¤гЃ‹гЃЄгЃ„гЃ»гЃ©зІѕе·§гЃ«дЅњг‚‰г‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚зґ жќђг‚„зё«иЈЅгЂЃгѓ‡г‚¶г‚¤гѓігЃѕгЃ§зґ°йѓЁгЃ«гЃ“гЃ г‚Џг‚ЉгЂЃй«е“ЃиіЄг‚’жҐЅгЃ—г‚ЂгЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚йЂЃж–™з„Ўж–™гЂЃ3е№ґе“ЃиіЄдїќиЁјпјЃ
 &gt; https://www.ncopy.jp/cat/saifu/
 &gt; www.ncopy.jp/</textarea>
 	</th>
 </tr><tr>
-	<th>ЋQЏЖђж</th>
+	<th>еЏ‚з…§е…€</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>ЌнЏњѓLЃ[</th>
+	<th>е‰Љй™¤г‚­гѓј</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(‰pђ”Ћљ‚Е8•¶Ћљ€И“а) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> ѓNѓbѓLЃ[•Ы‘¶
+		(и‹±ж•°е­—гЃ§8ж–‡е­—д»Ґе†…) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> г‚Їгѓѓг‚­гѓјдїќе­
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>‰ж‘њ”FЏШ</th>
+	<th>з”»еѓЏиЄЌиЁј</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		Ѓi‰E‰ж‘њ‚Мђ”Ћљ‚р“ь—НЃj <img src="./captcha.cgi?faf4967c90c7cb79acf484b3bd3daecb844b" class="capt" alt="“ЉЌeѓLЃ[" />
+		пј€еЏіз”»еѓЏгЃ®ж•°е­—г‚’е…ҐеЉ›пј‰ <img src="captcha@faf4967c90c7cb79acf484b3bd3daecb844b.cgi" class="capt" alt="жЉ•зЁїг‚­гѓј" />
 		<input type="hidden" name="str_crypt" value="faf4967c90c7cb79acf484b3bd3daecb844b" />
 	</td>
 <!-- captcha_end -->
@@ -78,63 +78,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>425</b>] <strong>the rowѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>the rowѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</b> “ЉЌe“ъЃF2025/12/10(Wed) 17:58 &nbsp; [<a href="./light.cgi?res=425">•ФђM</a>]
-	<div class="com">the rowѓRѓsЃ[ѓoѓbѓO‘г€ш‚«ЃCѓUѓЌѓEѓoѓbѓO‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />the rowѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚Мthe rowѓUѓЌѓEѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO N‹‰•i‚НЌD•]”М”„’†ЃC‘еђl‹Cthe rowѓCѓbѓZѓCѓ~ѓ„ѓPѓoѓbѓO‹U•ЁЃAthe rowѓCѓbѓZѓCѓ~ѓ„ѓPѓgЃ[ѓgѓoѓbѓOЃEѓVѓ‡ѓ‹ѓ_Ѓ[ѓoѓbѓOЃEѓЉѓ…ѓbѓNѓRѓsЃ[‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃBЌЕЌ‚‹‰the rowѓoѓbѓO‘——ї–і—їЃA•iЋї‚ЄЉ®ашЃI<br /><a href="https://www.jpkopi.net/products/bag/therowbag/" target="_blank">https://www.jpkopi.net/products/bag/therowbag/</a></div>
+	[<b>425</b>] <strong>the rowг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>the rowг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/12/10(Wed) 17:58 &nbsp; [<a href="light@res_425.cgi">иї”дїЎ</a>]
+	<div class="com">the rowг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌпјЊг‚¶гѓ­г‚¦гѓђгѓѓг‚°еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />the rowг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®the rowг‚¶гѓ­г‚¦г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚° Nзґље“ЃгЃЇеҐЅи©•иІ©еЈІдё­пјЊе¤§дєєж°—the rowг‚¤гѓѓг‚»г‚¤гѓџгѓ¤г‚±гѓђгѓѓг‚°еЃЅз‰©гЂЃthe rowг‚¤гѓѓг‚»г‚¤гѓџгѓ¤г‚±гѓ€гѓјгѓ€гѓђгѓѓг‚°гѓ»г‚·гѓ§гѓ«гѓЂгѓјгѓђгѓѓг‚°гѓ»гѓЄгѓҐгѓѓг‚Їг‚ігѓ”гѓјгЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚жњЂй«зґљthe rowгѓђгѓѓг‚°йЂЃж–™з„Ўж–™гЂЃе“ЃиіЄгЃЊе®Њз’§пјЃ<br /><a href="https://www.jpkopi.net/products/bag/therowbag/" target="_blank">https://www.jpkopi.net/products/bag/therowbag/</a></div>
 </div>
 
 <div class="art">
 	[<b>424</b>] <strong>lsm99</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:mybacc.service@gmail.com">lsm99</a></b> “ЉЌe“ъЃF2025/12/05(Fri) 03:05 &nbsp; [<a href="./light.cgi?res=424">•ФђM</a>]
-	<div class="com">ѓVѓѓѓlѓ‹ ѓRѓsЃ[ ѓ{ѓgѓЂѓX‘г€ш‚«ЃCѓVѓѓѓlѓ‹ ‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />ѓVѓѓѓlѓ‹ ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓ{ѓgѓЂѓX‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚МѓVѓѓѓlѓ‹ ѓ{ѓgѓЂѓX‹U•Ё N‹‰•i‹U•Ё‚Є‘еЏWЌ‡‚НЌD•]”М”„’†ЃC ЌЕЌ‚•iЋї‚М&amp;#8203;ѓVѓѓѓlѓ‹ ѓVѓ‡Ѓ[ѓc ѓRѓsЃ[ЃAѓVѓѓѓlѓ‹ѓWЃ[ѓ“ѓY‹U•Ё‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃC–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!<p class="url"><a href="https://lsmonesports.net" target="_blank">https://lsmonesports.net</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:mybacc.service@gmail.com">lsm99</a></b> жЉ•зЁїж—Ґпјљ2025/12/05(Fri) 03:05 &nbsp; [<a href="light@res_424.cgi">иї”дїЎ</a>]
+	<div class="com">г‚·гѓЈгѓЌгѓ« г‚ігѓ”гѓј гѓњгѓ€гѓ г‚№д»Јеј•гЃЌпјЊг‚·гѓЈгѓЌгѓ« еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />г‚·гѓЈгѓЌгѓ« г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓњгѓ€гѓ г‚№д»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®г‚·гѓЈгѓЌгѓ« гѓњгѓ€гѓ г‚№еЃЅз‰© Nзґље“ЃеЃЅз‰©гЃЊе¤§й›†еђ€гЃЇеҐЅи©•иІ©еЈІдё­пјЊ жњЂй«е“ЃиіЄгЃ®&amp;#8203;г‚·гѓЈгѓЌгѓ« г‚·гѓ§гѓјгѓ„ г‚ігѓ”гѓјгЂЃг‚·гѓЈгѓЌгѓ«г‚ёгѓјгѓіг‚єеЃЅз‰©гЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™пјЊжњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!<p class="url"><a href="https://lsmonesports.net" target="_blank">https://lsmonesports.net</a></p></div>
 </div>
 
 <div class="art">
-	[<b>423</b>] <strong>ѓVѓѓѓlѓ‹ ѓRѓsЃ[ ѓ{ѓgѓЂѓX‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓVѓѓѓlѓ‹ ѓRѓsЃ[ ѓ{ѓgѓЂѓX‘г€ш‚«</b> “ЉЌe“ъЃF2025/12/04(Thu) 20:09 &nbsp; [<a href="./light.cgi?res=423">•ФђM</a>]
-	<div class="com"> <br />ѓVѓѓѓlѓ‹ ѓRѓsЃ[ ѓ{ѓgѓЂѓX‘г€ш‚«ЃCѓVѓѓѓlѓ‹ ‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />ѓVѓѓѓlѓ‹ ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓ{ѓgѓЂѓX‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚МѓVѓѓѓlѓ‹ ѓ{ѓgѓЂѓX‹U•Ё N‹‰•i‹U•Ё‚Є‘еЏWЌ‡‚НЌD•]”М”„’†ЃC ЌЕЌ‚•iЋї‚М&amp;#8203;ѓVѓѓѓlѓ‹ ѓVѓ‡Ѓ[ѓc ѓRѓsЃ[ЃAѓVѓѓѓlѓ‹ѓWЃ[ѓ“ѓY‹U•Ё‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃC–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!<br /><a href="https://www.jpkopi.net/products/bottoms/chanlebottoms/" target="_blank">https://www.jpkopi.net/products/bottoms/chanlebottoms/</a></div>
+	[<b>423</b>] <strong>г‚·гѓЈгѓЌгѓ« г‚ігѓ”гѓј гѓњгѓ€гѓ г‚№д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚·гѓЈгѓЌгѓ« г‚ігѓ”гѓј гѓњгѓ€гѓ г‚№д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/12/04(Thu) 20:09 &nbsp; [<a href="light@res_423.cgi">иї”дїЎ</a>]
+	<div class="com"> <br />г‚·гѓЈгѓЌгѓ« г‚ігѓ”гѓј гѓњгѓ€гѓ г‚№д»Јеј•гЃЌпјЊг‚·гѓЈгѓЌгѓ« еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />г‚·гѓЈгѓЌгѓ« г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓњгѓ€гѓ г‚№д»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®г‚·гѓЈгѓЌгѓ« гѓњгѓ€гѓ г‚№еЃЅз‰© Nзґље“ЃеЃЅз‰©гЃЊе¤§й›†еђ€гЃЇеҐЅи©•иІ©еЈІдё­пјЊ жњЂй«е“ЃиіЄгЃ®&amp;#8203;г‚·гѓЈгѓЌгѓ« г‚·гѓ§гѓјгѓ„ г‚ігѓ”гѓјгЂЃг‚·гѓЈгѓЌгѓ«г‚ёгѓјгѓіг‚єеЃЅз‰©гЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™пјЊжњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!<br /><a href="https://www.jpkopi.net/products/bottoms/chanlebottoms/" target="_blank">https://www.jpkopi.net/products/bottoms/chanlebottoms/</a></div>
 </div>
 
 <div class="art">
 	[<b>422</b>] <strong>lsm99 login</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:lsm99dna.service@gmail.com">lsm99 login</a></b> “ЉЌe“ъЃF2025/12/04(Thu) 15:24 &nbsp; [<a href="./light.cgi?res=422">•ФђM</a>]
-	<div class="com">ѓrѓWѓlѓXѓXѓ^ѓCѓ‹‚Ж‘g‚ЭЌ‡‚н‚№‚к‚ОЏг•i‚И’†‚Й‚аЊВђ«‚рЉґ‚¶‚і‚№ЃAѓJѓWѓ…ѓAѓ‹‚И‘•‚ў‚Й‚а€УЉO‚И‚Щ‚З‚ж<p class="url"><a href="https://lsm999dna.com/login" target="_blank">https://lsm999dna.com/login</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:lsm99dna.service@gmail.com">lsm99 login</a></b> жЉ•зЁїж—Ґпјљ2025/12/04(Thu) 15:24 &nbsp; [<a href="light@res_422.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ“г‚ёгѓЌг‚№г‚№г‚їг‚¤гѓ«гЃЁзµ„гЃїеђ€г‚ЏгЃ›г‚ЊгЃ°дёЉе“ЃгЃЄдё­гЃ«г‚‚еЂ‹жЂ§г‚’ж„џгЃгЃ•гЃ›гЂЃг‚«г‚ёгѓҐг‚ўгѓ«гЃЄиЈ…гЃ„гЃ«г‚‚ж„Џе¤–гЃЄгЃ»гЃ©г‚€<p class="url"><a href="https://lsm999dna.com/login" target="_blank">https://lsm999dna.com/login</a></p></div>
 </div>
 
 <div class="art">
-	[<b>421</b>] <strong>ѓЃѓ]ѓ“ѓ}ѓ‹ѓWѓFѓ‰ѓRѓsЃ[ N‹‰•i</strong>
-	“ЉЌeЋТЃF<b>aaakopi</b> “ЉЌe“ъЃF2025/12/01(Mon) 18:47 &nbsp; [<a href="./light.cgi?res=421">•ФђM</a>]
-	<div class="com">ѓЃѓ]ѓ“ѓ}ѓ‹ѓWѓFѓ‰‚М“Ж‘n“I‚ИѓfѓUѓCѓ“‚д‚¦‚ЙЃA—lЃX‚ИѓXѓ^ѓCѓЉѓ“ѓO‚рЉiЏг‚°‚·‚йЊш‰К‚Є‚ ‚и‚Ь‚·ЃBѓrѓWѓlѓXѓXѓ^ѓCѓ‹‚Ж‘g‚ЭЌ‡‚н‚№‚к‚ОЏг•i‚И’†‚Й‚аЊВђ«‚рЉґ‚¶‚і‚№ЃAѓJѓWѓ…ѓAѓ‹‚И‘•‚ў‚Й‚а€УЉO‚И‚Щ‚З‚ж‚­’Іa‚µ‚Ь‚·ЃB“Б‚Й–й‚МѓtѓHЃ[ѓ}ѓ‹‚ИЏк–К‚Е‚НЃA‚±‚МѓsѓAѓX‚ЄЋе–р‚Ж‚И‚иЃAѓVѓ“ѓvѓ‹‚ИѓhѓЊѓX‚вѓwѓAѓXѓ^ѓCѓ‹‚р€к‹C‚Й€ш‚«’ч‚Я‚Д‚­‚к‚Ь‚·ЃB<br /><br /><a href="https://www.aaakopi.com/brand-113-c0.html" target="_blank">https://www.aaakopi.com/brand-113-c0.html</a> ѓЃѓ]ѓ“ѓ}ѓ‹ѓWѓFѓ‰ѓRѓsЃ[ N‹‰•i<br />www.aaakopi.com/bnew-4273.html ѓAѓEѓ‰ ѓCѓ”ѓ@ѓ“ЃEѓ”ѓ@ѓЊѓ“ѓeѓBѓ“ ѓRѓsЃ[<br />www.aaakopi.com/category-1-b0.html ѓЃѓ“ѓYѓtѓ@ѓbѓVѓ‡ѓ“ ѓXЃ[ѓpЃ[ѓRѓsЃ[<br />tblo.tennis365.net/aaakopidefen/</div>
+	[<b>421</b>] <strong>гѓЎг‚ѕгѓігѓћгѓ«г‚ёг‚§гѓ©г‚ігѓ”гѓј Nзґље“Ѓ</strong>
+	жЉ•зЁїиЂ…пјљ<b>aaakopi</b> жЉ•зЁїж—Ґпјљ2025/12/01(Mon) 18:47 &nbsp; [<a href="light@res_421.cgi">иї”дїЎ</a>]
+	<div class="com">гѓЎг‚ѕгѓігѓћгѓ«г‚ёг‚§гѓ©гЃ®з‹¬е‰µзљ„гЃЄгѓ‡г‚¶г‚¤гѓіг‚†гЃ€гЃ«гЂЃж§гЂ…гЃЄг‚№г‚їг‚¤гѓЄгѓіг‚°г‚’ж јдёЉгЃ’гЃ™г‚‹еЉ№жћњгЃЊгЃ‚г‚ЉгЃѕгЃ™гЂ‚гѓ“г‚ёгѓЌг‚№г‚№г‚їг‚¤гѓ«гЃЁзµ„гЃїеђ€г‚ЏгЃ›г‚ЊгЃ°дёЉе“ЃгЃЄдё­гЃ«г‚‚еЂ‹жЂ§г‚’ж„џгЃгЃ•гЃ›гЂЃг‚«г‚ёгѓҐг‚ўгѓ«гЃЄиЈ…гЃ„гЃ«г‚‚ж„Џе¤–гЃЄгЃ»гЃ©г‚€гЃЏиЄїе’ЊгЃ—гЃѕгЃ™гЂ‚з‰№гЃ«е¤њгЃ®гѓ•г‚©гѓјгѓћгѓ«гЃЄе ґйќўгЃ§гЃЇгЂЃгЃ“гЃ®гѓ”г‚ўг‚№гЃЊдё»еЅ№гЃЁгЃЄг‚ЉгЂЃг‚·гѓігѓ—гѓ«гЃЄгѓ‰гѓ¬г‚№г‚„гѓг‚ўг‚№г‚їг‚¤гѓ«г‚’дёЂж°—гЃ«еј•гЃЌз· г‚ЃгЃ¦гЃЏг‚ЊгЃѕгЃ™гЂ‚<br /><br /><a href="https://www.aaakopi.com/brand-113-c0.html" target="_blank">https://www.aaakopi.com/brand-113-c0.html</a> гѓЎг‚ѕгѓігѓћгѓ«г‚ёг‚§гѓ©г‚ігѓ”гѓј Nзґље“Ѓ<br />www.aaakopi.com/bnew-4273.html г‚ўг‚¦гѓ© г‚¤гѓґг‚Ўгѓігѓ»гѓґг‚Ўгѓ¬гѓігѓ†г‚Јгѓі г‚ігѓ”гѓј<br />www.aaakopi.com/category-1-b0.html гѓЎгѓіг‚єгѓ•г‚Ўгѓѓг‚·гѓ§гѓі г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј<br />tblo.tennis365.net/aaakopidefen/</div>
 </div>
 
 <div class="art">
-	[<b>420</b>] <strong>ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</b> “ЉЌe“ъЃF2025/12/01(Mon) 16:10 &nbsp; [<a href="./light.cgi?res=420">•ФђM</a>]
-	<div class="com">ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«ЃCѓuѓ‰ѓ“ѓhѓoѓbѓO‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />ѓuѓ‰ѓ“ѓhѓoѓbѓO ѓRѓsЃ[‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚МѓXЃ[ѓpЃ[ѓRѓsЃ[ѓuѓ‰ѓ“ѓh ѓoѓbѓO N‹‰•i‚НЌD•]”М”„’†ЃBѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓVѓ‡ѓ‹ѓ_Ѓ[ѓoѓbѓOЃAѓgЃ[ѓgѓoѓbѓOЃA‚©‚ІѓoѓbѓO‚И‚Зn‹‰•i‚Ё‚·‚·‚Я’К”МЃCЏ¤•iЋА•Ё‚МЋКђ^•t100%€АђS•ЫЏШЃBЌЕЌ‚‹‰ѓuѓ‰ѓ“ѓhѓoѓbѓO ‹U•Ё‘——ї–і—їЃA•iЋї•ЫЏШЃI<br /><a href="https://www.jpkopi.net/products/bag/" target="_blank">https://www.jpkopi.net/products/bag/</a></div>
+	[<b>420</b>] <strong>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/12/01(Mon) 16:10 &nbsp; [<a href="light@res_420.cgi">иї”дїЎ</a>]
+	<div class="com">г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌпјЊгѓ–гѓ©гѓігѓ‰гѓђгѓѓг‚°еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />гѓ–гѓ©гѓігѓ‰гѓђгѓѓг‚° г‚ігѓ”гѓјд»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓ–гѓ©гѓігѓ‰ гѓђгѓѓг‚° Nзґље“ЃгЃЇеҐЅи©•иІ©еЈІдё­гЂ‚г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј г‚·гѓ§гѓ«гѓЂгѓјгѓђгѓѓг‚°гЂЃгѓ€гѓјгѓ€гѓђгѓѓг‚°гЂЃгЃ‹гЃ”гѓђгѓѓг‚°гЃЄгЃ©nзґље“ЃгЃЉгЃ™гЃ™г‚ЃйЂљиІ©пјЊе•†е“Ѓе®џз‰©гЃ®е†™зњџд»100%е®‰еїѓдїќиЁјгЂ‚жњЂй«зґљгѓ–гѓ©гѓігѓ‰гѓђгѓѓг‚° еЃЅз‰©йЂЃж–™з„Ўж–™гЂЃе“ЃиіЄдїќиЁјпјЃ<br /><a href="https://www.jpkopi.net/products/bag/" target="_blank">https://www.jpkopi.net/products/bag/</a></div>
 </div>
 
 <div class="art">
 	[<b>419</b>] <strong>87511515</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:elouiserocher@yahoo.com">HU88</a></b> “ЉЌe“ъЃF2025/11/28(Fri) 04:49 &nbsp; [<a href="./light.cgi?res=419">•ФђM</a>]
-	<div class="com">HU88 v&amp;#7899;i h&amp;#7879; th&amp;#7889;ng trт ch&amp;#417;i phong phъ nh&amp;#432; cб c&amp;#432;&amp;#7907;c th&amp;#7875; thao, card game, b&amp;#7855;n cб s&amp;#259;n th&amp;#432;&amp;#7903;ng <br />cщng hаng lo&amp;#7841;t game &amp;#273;&amp;#7863;c s&amp;#7855;c.<p class="url"><a href="https://mpo39.jp.net/" target="_blank">https://mpo39.jp.net/</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:elouiserocher@yahoo.com">HU88</a></b> жЉ•зЁїж—Ґпјљ2025/11/28(Fri) 04:49 &nbsp; [<a href="light@res_419.cgi">иї”дїЎ</a>]
+	<div class="com">HU88 v&amp;#7899;i h&amp;#7879; th&amp;#7889;ng trпїЅ ch&amp;#417;i phong phпїЅ nh&amp;#432; cпїЅ c&amp;#432;&amp;#7907;c th&amp;#7875; thao, card game, b&amp;#7855;n cпїЅ s&amp;#259;n th&amp;#432;&amp;#7903;ng <br />cо›Љg hзЂџg lo&amp;#7841;t game &amp;#273;&amp;#7863;c s&amp;#7855;c.<p class="url"><a href="https://mpo39.jp.net/" target="_blank">https://mpo39.jp.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>418</b>] <strong>ѓVѓ…ѓvѓЉЃ[ѓЂѓRѓsЃ[ ’К”М</strong>
-	“ЉЌeЋТЃF<b>W22</b> “ЉЌe“ъЃF2025/11/22(Sat) 17:08 &nbsp; [<a href="./light.cgi?res=418">•ФђM</a>]
-	<div class="com">ѓVѓ…ѓvѓЉЃ[ѓЂ‚М–Н—l‚НЃAЊх‘т‚М‚ ‚йѓuѓ‰ѓbѓNѓЊѓUЃ[‚Й—§‘М“I‚И‰A‰e‚рђ¶‚ЭЏo‚µЃA‚Ь‚й‚ЕђЇ‹у‚М‚ж‚¤‚И‹P‚«‚р‰‰ЏoЃB“Б‚ЙђVЌм‚Е‚НЃA“БЋк‚ИЊх‘тѓRЃ[ѓeѓBѓ“ѓO‚рЌМ—p‚µЃAЊх‚М“–‚Ѕ‚и•ы‚Й‚ж‚Б‚Д‚Н‚Б‚«‚и‚Ж–Н—l‚Є•‚‚©‚СЏг‚Є‚йЋd—l‚Й‚И‚Б‚Д‚ў‚Ь‚·ЃB<br /><br />ѓAѓ‹ѓoѓЂ‚МURLЃF <br /><a href="https://www.levelkopi.jp/b-kopi_supreme.html" target="_blank">https://www.levelkopi.jp/b-kopi_supreme.html</a> ѓVѓ…ѓvѓЉЃ[ѓЂѓRѓsЃ[ ’К”М<br />www.forkopi.jp/brand/stone-island-copy/ ѓXѓgЃ[ѓ“ѓAѓCѓ‰ѓ“ѓh ѓRѓsЃ[<br />www.levelkopi.jp/ ѓuѓ‰ѓ“ѓhѓXЃ[ѓpЃ[ѓRѓsЃ[Њѓ€А’К”М<br />aaakopicareful.amamin.jp/<p class="url"><a href="https://www.levelkopi.jp/b-kopi_supreme.html" target="_blank">https://www.levelkopi.jp/b-kopi_supreme.html</a></p></div>
+	[<b>418</b>] <strong>г‚·гѓҐгѓ—гѓЄгѓјгѓ г‚ігѓ”гѓј йЂљиІ©</strong>
+	жЉ•зЁїиЂ…пјљ<b>W22</b> жЉ•зЁїж—Ґпјљ2025/11/22(Sat) 17:08 &nbsp; [<a href="light@res_418.cgi">иї”дїЎ</a>]
+	<div class="com">г‚·гѓҐгѓ—гѓЄгѓјгѓ гЃ®жЁЎж§гЃЇгЂЃе…‰жІўгЃ®гЃ‚г‚‹гѓ–гѓ©гѓѓг‚Їгѓ¬г‚¶гѓјгЃ«з«‹дЅ“зљ„гЃЄй™°еЅ±г‚’з”џгЃїе‡єгЃ—гЂЃгЃѕг‚‹гЃ§жџз©єгЃ®г‚€гЃ†гЃЄијќгЃЌг‚’жј”е‡єгЂ‚з‰№гЃ«ж–°дЅњгЃ§гЃЇгЂЃз‰№ж®ЉгЃЄе…‰жІўг‚ігѓјгѓ†г‚Јгѓіг‚°г‚’жЋЎз”ЁгЃ—гЂЃе…‰гЃ®еЅ“гЃџг‚Љж–№гЃ«г‚€гЃЈгЃ¦гЃЇгЃЈгЃЌг‚ЉгЃЁжЁЎж§гЃЊжµ®гЃ‹гЃідёЉгЃЊг‚‹д»•ж§гЃ«гЃЄгЃЈгЃ¦гЃ„гЃѕгЃ™гЂ‚<br /><br />г‚ўгѓ«гѓђгѓ гЃ®URLпјљ <br /><a href="https://www.levelkopi.jp/b-kopi_supreme.html" target="_blank">https://www.levelkopi.jp/b-kopi_supreme.html</a> г‚·гѓҐгѓ—гѓЄгѓјгѓ г‚ігѓ”гѓј йЂљиІ©<br />www.forkopi.jp/brand/stone-island-copy/ г‚№гѓ€гѓјгѓіг‚ўг‚¤гѓ©гѓігѓ‰ г‚ігѓ”гѓј<br />www.levelkopi.jp/ гѓ–гѓ©гѓігѓ‰г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјжїЂе®‰йЂљиІ©<br />aaakopicareful.amamin.jp/<p class="url"><a href="https://www.levelkopi.jp/b-kopi_supreme.html" target="_blank">https://www.levelkopi.jp/b-kopi_supreme.html</a></p></div>
 </div>
 
 <div class="art">
 	[<b>417</b>] <strong>Re:[400] adult social</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:nylaharper.rae@gmail.com">nylaharper</a></b> “ЉЌe“ъЃF2025/11/20(Thu) 20:00 &nbsp; [<a href="./light.cgi?res=417">•ФђM</a>]
-	<div class="com">The what is mrics is a key gateway for non-accredited degree holders to join the RICS membership route. The College of Contract Management offers targeted guidance to help candidates compile detailed work experience and present it effectively. This step is crucial to proving your eligibility for the APC process. With professional mentoring, your submission can stand out with clarity and structure.ѓ‹<br /><span style="color:#0000a0">&gt; ѓNѓЉ</span><p class="url"><a href="http://www.uniccm.com/blog/mrics-the-package-to-be-with-rics" target="_blank">http://www.uniccm.com/blog/mrics-the-package-to-be-with-rics</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:nylaharper.rae@gmail.com">nylaharper</a></b> жЉ•зЁїж—Ґпјљ2025/11/20(Thu) 20:00 &nbsp; [<a href="light@res_417.cgi">иї”дїЎ</a>]
+	<div class="com">The what is mrics is a key gateway for non-accredited degree holders to join the RICS membership route. The College of Contract Management offers targeted guidance to help candidates compile detailed work experience and present it effectively. This step is crucial to proving your eligibility for the APC process. With professional mentoring, your submission can stand out with clarity and structure.гѓ«<br /><span style="color:#0000a0">&gt; г‚ЇгѓЄ</span><p class="url"><a href="http://www.uniccm.com/blog/mrics-the-package-to-be-with-rics" target="_blank">http://www.uniccm.com/blog/mrics-the-package-to-be-with-rics</a></p></div>
 </div>
 
 <div class="art">
-	[<b>416</b>] <strong>1”Nђ¶‚М—рЋj</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:lillieland799@gmail.com">blooms</a></b> “ЉЌe“ъЃF2025/11/20(Thu) 17:28 &nbsp; [<a href="./light.cgi?res=416">•ФђM</a>]
-	<div class="com">1”Nђ¶‚М—рЋj - Ensuring a grasp of How to tell historical stories and Significant national figures, the UNICCM Year 1 History online course helps children to Solve basic historical puzzles and Develop effective listening skills through structured activities; the steps to a brighter future are easy by completing Subscribe to the course, gaining full Course access to all live sessions and tasks, and tracking Progression through simple assessments; the course provides valuable support including Fun digital activity sheets and Clear texts about the past for consistent and easy reinforcement of Historical vocabulary.<p class="url"><a href="http://www.uniccm.com/year-1-history/england" target="_blank">http://www.uniccm.com/year-1-history/england</a></p></div>
+	[<b>416</b>] <strong>1е№ґз”џгЃ®ж­ґеЏІ</strong>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:lillieland799@gmail.com">blooms</a></b> жЉ•зЁїж—Ґпјљ2025/11/20(Thu) 17:28 &nbsp; [<a href="light@res_416.cgi">иї”дїЎ</a>]
+	<div class="com">1е№ґз”џгЃ®ж­ґеЏІ - Ensuring a grasp of How to tell historical stories and Significant national figures, the UNICCM Year 1 History online course helps children to Solve basic historical puzzles and Develop effective listening skills through structured activities; the steps to a brighter future are easy by completing Subscribe to the course, gaining full Course access to all live sessions and tasks, and tracking Progression through simple assessments; the course provides valuable support including Fun digital activity sheets and Clear texts about the past for consistent and easy reinforcement of Historical vocabulary.<p class="url"><a href="http://www.uniccm.com/year-1-history/england" target="_blank">http://www.uniccm.com/year-1-history/england</a></p></div>
 </div>
 
 
@@ -142,24 +142,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-‹LЋ–No<input type="text" name="num" size="3" />
-ЌнЏњѓLЃ[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="ЌнЏњ" />
+иЁдє‹No<input type="text" name="num" size="3" />
+е‰Љй™¤г‚­гѓј<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="е‰Љй™¤" />
 </form>
 </div>
 

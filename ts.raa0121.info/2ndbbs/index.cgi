@@ -71,7 +71,7 @@ A{TEXT-DECORATION:NONE};
 </font>
 </th>
 </tr>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name="log" value="">
 <input type=hidden name=action value="html4">
 <tr><th colspan=7>
@@ -89,7 +89,7 @@ A{TEXT-DECORATION:NONE};
 <input type=submit value=リスト表示 class="d1">
 </th>
 </form>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name="log" value="">
 <input type=hidden name=action value="html5">
 <th>
@@ -97,7 +97,7 @@ A{TEXT-DECORATION:NONE};
 <input type=submit value=検索 class="d1">
 </th>
 </form>
-<form method=post action=./index.cgi><th colspan=4>
+<form method=post action="index.cgi"><th colspan=4>
 <input type=hidden name=log value=>
 条件を指定して整頓<br><select name=sort>
 <option value=0>
@@ -121,7 +121,7 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="それは突然に" href="./index.cgi?log=&page=&key=20161020113556&action=html2">
+<a title="それは突然に" href="index@log__page__key_20161020113556_action_html2.cgi">
 第二次性徴変性症　２</a>
 </font>
 </td>
@@ -136,7 +136,7 @@ kyouske
 6138
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20161020113556&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20161020113556_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -145,7 +145,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="とりあえずベタなモノで" href="./index.cgi?log=&page=&key=20160908233512&action=html2">
+<a title="とりあえずベタなモノで" href="index@log__page__key_20160908233512_action_html2.cgi">
 第二次性徴変性症　１</a>
 </font>
 </td>
@@ -160,7 +160,7 @@ kyosuke
 5644
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20160908233512&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20160908233512_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -169,7 +169,7 @@ kyosuke
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="復活する伝説" href="./index.cgi?log=&page=&key=20160313010933&action=html2">
+<a title="復活する伝説" href="index@log__page__key_20160313010933_action_html2.cgi">
 性別変更　8</a>
 </font>
 </td>
@@ -184,7 +184,7 @@ kyouske
 7100
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20160313010933&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20160313010933_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -193,7 +193,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="着せ替えは誰でもしたい♪" href="./index.cgi?log=&page=&key=20160116210323&action=html2">
+<a title="着せ替えは誰でもしたい♪" href="index@log__page__key_20160116210323_action_html2.cgi">
 Ｂ→maＧic　６　（半分）</a>
 </font>
 </td>
@@ -208,7 +208,7 @@ At14
 4645
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20160116210323&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20160116210323_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -217,7 +217,7 @@ At14
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="お待たせしました、魔法少女も登場します（オイつ）" href="./index.cgi?log=&page=&key=20160104230135&action=html2">
+<a title="お待たせしました、魔法少女も登場します（オイつ）" href="index@log__page__key_20160104230135_action_html2.cgi">
 性別変更　７</a>
 </font>
 </td>
@@ -232,7 +232,7 @@ kyouske
 <b>11k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20160104230135&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20160104230135_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -241,7 +241,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="下里と４人の女子とのお泊りだよ！" href="./index.cgi?log=&page=&key=20151124231355&action=html2">
+<a title="下里と４人の女子とのお泊りだよ！" href="index@log__page__key_20151124231355_action_html2.cgi">
 Ｂ→maＧic　５</a>
 </font>
 </td>
@@ -256,7 +256,7 @@ At14
 6073
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20151124231355&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20151124231355_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -265,7 +265,7 @@ At14
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="" href="./index.cgi?log=&page=&key=20151026220756&action=html2">
+<a title="" href="index@log__page__key_20151026220756_action_html2.cgi">
 性転換双六</a>
 </font>
 </td>
@@ -280,7 +280,7 @@ At14
 4300
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20151026220756&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20151026220756_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -289,7 +289,7 @@ At14
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="" href="./index.cgi?log=&page=&key=20151026220630&action=html2">
+<a title="" href="index@log__page__key_20151026220630_action_html2.cgi">
 性変症</a>
 </font>
 </td>
@@ -304,7 +304,7 @@ At14
 4205
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20151026220630&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20151026220630_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -313,7 +313,7 @@ At14
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="遺伝子組み換えし作物は気を付けていても意外な”モノ”に使われる……かもしれない" href="./index.cgi?log=&page=&key=20150927220439&action=html2">
+<a title="遺伝子組み換えし作物は気を付けていても意外な”モノ”に使われる……かもしれない" href="index@log__page__key_20150927220439_action_html2.cgi">
 遺伝子組み換え作物の恐怖</a>
 </font>
 </td>
@@ -328,7 +328,7 @@ kyosuke
 <b>11k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150927220439&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150927220439_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -337,7 +337,7 @@ kyosuke
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="" href="./index.cgi?log=&page=&key=20150916211220&action=html2">
+<a title="" href="index@log__page__key_20150916211220_action_html2.cgi">
 不思議な腕輪</a>
 </font>
 </td>
@@ -352,7 +352,7 @@ kyosuke
 4788
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150916211220&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150916211220_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -361,7 +361,7 @@ kyosuke
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="隠された事実" href="./index.cgi?log=&page=&key=20150907020654&action=html2">
+<a title="隠された事実" href="index@log__page__key_20150907020654_action_html2.cgi">
 性別変更　６</a>
 </font>
 </td>
@@ -376,7 +376,7 @@ kyouske
 8496
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150907020654&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150907020654_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -385,7 +385,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="ス～パ～ヒィーロォータイムもＴＳが絡むとこうなる♪" href="./index.cgi?log=&page=&key=20150828020246&action=html2">
+<a title="ス～パ～ヒィーロォータイムもＴＳが絡むとこうなる♪" href="index@log__page__key_20150828020246_action_html2.cgi">
 性別変更　5</a>
 </font>
 </td>
@@ -400,7 +400,7 @@ kyouske
 <b>10k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150828020246&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150828020246_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -409,7 +409,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="女の子になったばかりの下里に対する、春原の提案とは？" href="./index.cgi?log=&page=&key=20150818131828&action=html2">
+<a title="女の子になったばかりの下里に対する、春原の提案とは？" href="index@log__page__key_20150818131828_action_html2.cgi">
 Ｂ→maＧic　３＆４</a>
 </font>
 </td>
@@ -424,7 +424,7 @@ At14
 5336
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150818131828&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150818131828_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -433,7 +433,7 @@ At14
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="４人の女子に囲まれて" href="./index.cgi?log=&page=&key=20150803234027&action=html2">
+<a title="４人の女子に囲まれて" href="index@log__page__key_20150803234027_action_html2.cgi">
 Ｂ→maＧic　２</a>
 </font>
 </td>
@@ -448,7 +448,7 @@ At14
 5562
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150803234027&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150803234027_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -457,7 +457,7 @@ At14
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="動き始める計画、巻き込まれる者達" href="./index.cgi?log=&page=&key=20150725212223&action=html2">
+<a title="動き始める計画、巻き込まれる者達" href="index@log__page__key_20150725212223_action_html2.cgi">
 性別変更　４</a>
 </font>
 </td>
@@ -472,7 +472,7 @@ kyouske
 7707
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150725212223&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150725212223_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -481,7 +481,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="昼休みに突然女子に話しかけられて……" href="./index.cgi?log=&page=&key=20150718201456&action=html2">
+<a title="昼休みに突然女子に話しかけられて……" href="index@log__page__key_20150718201456_action_html2.cgi">
 Ｂ→maＧic　１</a>
 </font>
 </td>
@@ -496,7 +496,7 @@ At14
 2690
 </td>
 <td align=right>
-<a title=" 〔逃げ馬〕 " href="./index.cgi?log=&page=&key=20150718201456&action=html2#res"><b>1</b></a>
+<a title=" 〔逃げ馬〕 " href="index@log__page__key_20150718201456_action_html2.cgi"><b>1</b></a>
 </td>
 <td align=right>
 <a title=" 〔30点×1〕 "><font color=blue>30</font></a>
@@ -505,7 +505,7 @@ At14
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="医療ミスは絶対にあってはならない……とは限らない。" href="./index.cgi?log=&page=&key=20150702020340&action=html2">
+<a title="医療ミスは絶対にあってはならない……とは限らない。" href="index@log__page__key_20150702020340_action_html2.cgi">
 再生医療のリスク</a>
 </font>
 </td>
@@ -520,7 +520,7 @@ kyouske
 8151
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150702020340&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150702020340_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -529,7 +529,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="それは日本人と言う種を守る為の準備" href="./index.cgi?log=&page=&key=20150626012121&action=html2">
+<a title="それは日本人と言う種を守る為の準備" href="index@log__page__key_20150626012121_action_html2.cgi">
 性別変更　３</a>
 </font>
 </td>
@@ -544,7 +544,7 @@ kyosuke
 4746
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150626012121&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150626012121_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -553,7 +553,7 @@ kyosuke
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="スク水とくれば……次はアレですよね（意味深）" href="./index.cgi?log=&page=&key=20150624123508&action=html2">
+<a title="スク水とくれば……次はアレですよね（意味深）" href="index@log__page__key_20150624123508_action_html2.cgi">
 性別変更　２</a>
 </font>
 </td>
@@ -568,7 +568,7 @@ kyosuke
 <b>10k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150624123508&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150624123508_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -577,7 +577,7 @@ kyosuke
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="この様な少年用水着は本当に存在します。" href="./index.cgi?log=&page=&key=20150518014328&action=html2">
+<a title="この様な少年用水着は本当に存在します。" href="index@log__page__key_20150518014328_action_html2.cgi">
 性別変更　１</a>
 </font>
 </td>
@@ -593,7 +593,7 @@ kyouske
 </td>
 <td align=right>
 <a title=" 〔猫〕 
- 〔Gyophry〕 " href="./index.cgi?log=&page=&key=20150518014328&action=html2#res"><b>2</b></a>
+ 〔Gyophry〕 " href="index@log__page__key_20150518014328_action_html2.cgi"><b>2</b></a>
 </td>
 <td align=right>
 <a title=" 〔30点×2〕 "><font color=blue>60</font></a>
@@ -602,7 +602,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="" href="./index.cgi?log=&page=&key=20150407210247&action=html2">
+<a title="" href="index@log__page__key_20150407210247_action_html2.cgi">
 姉妹から兄弟へ</a>
 </font>
 </td>
@@ -617,7 +617,7 @@ kyouske
 4562
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150407210247&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150407210247_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -626,7 +626,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="" href="./index.cgi?log=&page=&key=20150407193315&action=html2">
+<a title="" href="index@log__page__key_20150407193315_action_html2.cgi">
 奇祭</a>
 </font>
 </td>
@@ -641,7 +641,7 @@ kyouske
 3823
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150407193315&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150407193315_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -650,7 +650,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="これは「女性化法」によって女になるために施設へ入所した少年達の２年間の記録である。" href="./index.cgi?log=&page=&key=20150315202023&action=html2">
+<a title="これは「女性化法」によって女になるために施設へ入所した少年達の２年間の記録である。" href="index@log__page__key_20150315202023_action_html2.cgi">
 女性化施設</a>
 </font>
 </td>
@@ -665,7 +665,7 @@ kyouske
 4092
 </td>
 <td align=right>
-<a title=" 〔At14〕 " href="./index.cgi?log=&page=&key=20150315202023&action=html2#res"><b>1</b></a>
+<a title=" 〔At14〕 " href="index@log__page__key_20150315202023_action_html2.cgi"><b>1</b></a>
 </td>
 <td align=right>
 <a title=" 〔30点×1〕 "><font color=blue>30</font></a>
@@ -674,7 +674,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="培養器に入ってデトックス 設定です" href="./index.cgi?log=&page=&key=20150210004229&action=html2">
+<a title="培養器に入ってデトックス 設定です" href="index@log__page__key_20150210004229_action_html2.cgi">
 全身デトックス装置</a>
 </font>
 </td>
@@ -689,7 +689,7 @@ kyouske
 979
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20150210004229&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20150210004229_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -698,13 +698,13 @@ kyouske
 </tr></table>
 </center><p>
 <table border=5 cellspacing=5 align=center><tr>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name=action value="home">
 <td>
 <input type=submit value=" HOME " class="d1">
 </td>
 </form>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name=action value="form">
 <td>
 <input type=submit value=" 新規投稿 " class="d1">
@@ -713,7 +713,7 @@ kyouske
 </tr></table><br>
 <hr>
 </center>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name="action" value="sentaku">
 <input type=hidden name="log" value="">
 PASSWORD <input type=password name="pwd" size=10>

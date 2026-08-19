@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,58 +13,58 @@ function popup(url) {
 }
 // -->
 </script>
-<title>ƒNƒŠƒGƒCƒ^[ƒYEƒtƒƒAi‰¼j</title>
+<title>ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼ã‚ºãƒ»ãƒ•ãƒ­ã‚¢ï¼ˆä»®ï¼‰</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>ƒNƒŠƒGƒCƒ^[ƒYEƒtƒƒAi‰¼j</h1>
+<h1>ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼ã‚ºãƒ»ãƒ•ãƒ­ã‚¢ï¼ˆä»®ï¼‰</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">ƒgƒbƒv‚É–ß‚é</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">—¯ˆÓŽ–€</a>]
-[<a href="./light.cgi?mode=find">ƒ[ƒhŒŸõ</a>]
+[<a href="../../index.html" target="_top">ãƒˆãƒƒãƒ—ã«æˆ»ã‚‹</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">ç•™æ„äº‹é …</a>]
+[<a href="light@mode_find.cgi">ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">‰ß‹ŽƒƒO</a>]
+[<a href="light@mode_past.cgi">éŽåŽ»ãƒ­ã‚°</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">ŠÇ——p</a>]
+[<a href="admin.cgi">ç®¡ç†ç”¨</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>‚¨‚È‚Ü‚¦</th>
+	<th>ãŠãªã¾ãˆ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>‚dƒ[ƒ‹</th>
+	<th>ï¼¥ãƒ¡ãƒ¼ãƒ«</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>ƒ^ƒCƒgƒ‹</th>
+	<th>ã‚¿ã‚¤ãƒˆãƒ«</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[297] ƒpƒlƒ‰ƒC ƒRƒs[ ŒƒˆÀ" />
-    	<input type="submit" value="‘—M‚·‚é" /><input type="reset" value="ƒŠƒZƒbƒg" />
+    	<input type="text" name="sub" size="36" value="Re:[297] ãƒ‘ãƒãƒ©ã‚¤ ã‚³ãƒ”ãƒ¼ æ¿€å®‰" />
+    	<input type="submit" value="é€ä¿¡ã™ã‚‹" /><input type="reset" value="ãƒªã‚»ãƒƒãƒˆ" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	ƒƒbƒZ[ƒW<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ŒƒˆÀ‚Åw“ü‚Å‚«‚éƒpƒlƒ‰ƒC ƒRƒs[ŽžŒv‚ÍA³‹K•i‚É—ò‚ç‚È‚¢ŠOŠÏ‚Æ«”\‚ðŽ‚¿A‘½‚­‚ÌÁ”ïŽÒ‚É‘I‚Î‚ê‚Ä‚¢‚Ü‚·B‰¿Ši‚Æ•iŽ¿‚Ìƒoƒ‰ƒ“ƒX‚ª—Ç‚¢‚½‚ßAƒRƒXƒgƒpƒtƒH[ƒ}ƒ“ƒX‚É—D‚ê‚½‘I‘ðŽˆ‚Æ‚µ‚Äl‹C‚Å‚·Bhttps://www.burando777.com/panerai/</textarea>
+    	ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; æ¿€å®‰ã§è³¼å…¥ã§ãã‚‹ãƒ‘ãƒãƒ©ã‚¤ ã‚³ãƒ”ãƒ¼æ™‚è¨ˆã¯ã€æ­£è¦å“ã«åŠ£ã‚‰ãªã„å¤–è¦³ã¨æ€§èƒ½ã‚’æŒã¡ã€å¤šãã®æ¶ˆè²»è€…ã«é¸ã°ã‚Œã¦ã„ã¾ã™ã€‚ä¾¡æ ¼ã¨å“è³ªã®ãƒãƒ©ãƒ³ã‚¹ãŒè‰¯ã„ãŸã‚ã€ã‚³ã‚¹ãƒˆãƒ‘ãƒ•ã‚©ãƒ¼ãƒžãƒ³ã‚¹ã«å„ªã‚ŒãŸé¸æŠžè‚¢ã¨ã—ã¦äººæ°—ã§ã™ã€‚https://www.burando777.com/panerai/</textarea>
 	</th>
 </tr><tr>
-	<th>ŽQÆæ</th>
+	<th>å‚ç…§å…ˆ</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>íœƒL[</th>
+	<th>å‰Šé™¤ã‚­ãƒ¼</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(‰p”Žš‚Å8•¶ŽšˆÈ“à) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> ƒNƒbƒL[•Û‘¶
+		(è‹±æ•°å­—ã§8æ–‡å­—ä»¥å†…) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> ã‚¯ãƒƒã‚­ãƒ¼ä¿å­˜
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>‰æ‘œ”FØ</th>
+	<th>ç”»åƒèªè¨¼</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		i‰E‰æ‘œ‚Ì”Žš‚ð“ü—Íj <img src="./captcha.cgi?fdfd97729bc1ca77acf487b6b833abc18049" class="capt" alt="“ŠeƒL[" />
+		ï¼ˆå³ç”»åƒã®æ•°å­—ã‚’å…¥åŠ›ï¼‰ <img src="captcha@fdfd97729bc1ca77acf487b6b833abc18049.cgi" class="capt" alt="æŠ•ç¨¿ã‚­ãƒ¼" />
 		<input type="hidden" name="str_crypt" value="fdfd97729bc1ca77acf487b6b833abc18049" />
 	</td>
 <!-- captcha_end -->
@@ -75,63 +75,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>392</b>] <strong>ƒ‹ƒuƒ^ƒ“ ŒC ƒX[ƒp[ƒRƒs[</strong>
-	“ŠeŽÒF<b>ƒ‹ƒuƒ^ƒ“ ŒC ƒX[ƒp[ƒRƒs[</b> “Še“úF2025/06/21(Sat) 19:16 &nbsp; [<a href="./light.cgi?res=392">•ÔM</a>]
-	<div class="com">ƒ‹ƒuƒ^ƒ“ ŒC ƒX[ƒp[ƒRƒs[,ƒ‹ƒuƒ^ƒ“ŒC ƒXƒj[ƒJ[N‹‰•i’Ê”Ì—D—Ç“Xyhacopyssz.<br />ƒNƒŠƒXƒ`ƒƒƒ“ƒ‹ƒuƒ^ƒ“ ƒRƒs[ ƒXƒj[ƒJ[N‹‰•i’Ê”Ì—D—Ç“X yhacopyssz!‹ÆŠEÅ‚‹‰N•i‚Ìƒ‹ƒuƒ^ƒ“ ƒXƒj[ƒJ[ ƒRƒs[–L•x‚É‘µ‚¦‚Ä‚¨‚è‚Ü‚·,‘ål‹Cƒ‹ƒuƒ^ƒ“ ƒTƒ“ƒ_ƒ‹ ƒRƒs[‚ª‘åW‡I•iŽ¿‚Í–{•¨‚Æ“¯—l‚Å‚·B“ú–{‘S‘‘——¿–³—¿,L‘å‚È‹q‚ðŠ½Œ}‚µ‚Ä‚²Œõ—ÕI<br /><a href="https://hacopyss.com/collections/loubishark-xiezi" target="_blank">https://hacopyss.com/collections/loubishark-xiezi</a></div>
+	[<b>392</b>] <strong>ãƒ«ãƒ–ã‚¿ãƒ³ é´ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒ«ãƒ–ã‚¿ãƒ³ é´ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2025/06/21(Sat) 19:16 &nbsp; [<a href="light@res_392.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒ«ãƒ–ã‚¿ãƒ³ é´ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼,ãƒ«ãƒ–ã‚¿ãƒ³é´ ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼Nç´šå“é€šè²©å„ªè‰¯åº—ã€hacopyssã€‘.<br />ã‚¯ãƒªã‚¹ãƒãƒ£ãƒ³ãƒ«ãƒ–ã‚¿ãƒ³ ã‚³ãƒ”ãƒ¼ ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼Nç´šå“é€šè²©å„ªè‰¯åº— ã€hacopyssã€‘!æ¥­ç•Œæœ€é«˜ç´šNå“ã®ãƒ«ãƒ–ã‚¿ãƒ³ ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚³ãƒ”ãƒ¼è±Šå¯Œã«æƒãˆã¦ãŠã‚Šã¾ã™,å¤§äººæ°—ãƒ«ãƒ–ã‚¿ãƒ³ ã‚µãƒ³ãƒ€ãƒ« ã‚³ãƒ”ãƒ¼ãŒå¤§é›†åˆï¼å“è³ªã¯æœ¬ç‰©ã¨åŒæ§˜ã§ã™ã€‚æ—¥æœ¬å…¨å›½é€æ–™ç„¡æ–™,åºƒå¤§ãªå®¢ã‚’æ­“è¿Žã—ã¦ã”å…‰è‡¨ï¼<br /><a href="https://hacopyss.com/collections/loubishark-xiezi" target="_blank">https://hacopyss.com/collections/loubishark-xiezi</a></div>
 </div>
 
 <div class="art">
-	[<b>391</b>] <strong>ƒVƒƒƒlƒ‹iphoneƒP[ƒX ƒRƒs[</strong>
-	“ŠeŽÒF<b>ƒVƒƒƒlƒ‹iphoneƒP[ƒX ƒRƒs[</b> “Še“úF2025/06/17(Tue) 17:24 &nbsp; [<a href="./light.cgi?res=391">•ÔM</a>]
-	<div class="com">ƒVƒƒƒlƒ‹iphoneƒP[ƒX ƒRƒs[ ‘ãˆø‚«CƒVƒƒƒlƒ‹  ƒXƒ}ƒzƒP[ƒX  ‹U•¨N‹‰•i’Ê”Ì—D—ÇƒTƒCƒgujpkopiv!<br />ƒVƒƒƒlƒ‹iphoneƒP[ƒX ƒX[ƒp[ƒRƒs[ N‹‰•iŒƒˆÀ’Ê”Ìê–å“Xujpkopiv!l‹C‚ª‚‚¢‘S‹@Ží‘Î‰žƒVƒƒƒlƒ‹  iphoneƒXƒ}ƒzƒP[ƒX ƒRƒs[–L•x‚É‘µ‚¦‚Ä‚¨‚è‚Ü‚·Vì,‘ål‹Cƒ”ƒBƒgƒ“•—ƒXƒ}ƒzƒP[ƒXAiphone ƒP[ƒX ƒuƒ‰ƒ“ƒhƒRƒs[AƒeƒbƒNƒAƒNƒZƒTƒŠ[ ‹U•¨‚ª‘åW‡IŒûƒRƒ~Å‚‹‰‚ÌƒVƒƒƒlƒ‹  iphone16ƒP[ƒX‚È‚Ç‚ÌƒX[ƒp[ƒRƒs[N‹‰•i‚Í‘——¿–³—¿B¤•iŽÀ•¨‚ÌŽÊ^•t100%ˆÀS•ÛØB<br /><a href="https://www.jpkopi.net/products/smartphonecase/chanlecase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/chanlecase/</a></div>
+	[<b>391</b>] <strong>ã‚·ãƒ£ãƒãƒ«iphoneã‚±ãƒ¼ã‚¹ ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ã‚·ãƒ£ãƒãƒ«iphoneã‚±ãƒ¼ã‚¹ ã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2025/06/17(Tue) 17:24 &nbsp; [<a href="light@res_391.cgi">è¿”ä¿¡</a>]
+	<div class="com">ã‚·ãƒ£ãƒãƒ«iphoneã‚±ãƒ¼ã‚¹ ã‚³ãƒ”ãƒ¼ ä»£å¼•ãï¼Œã‚·ãƒ£ãƒãƒ«  ã‚¹ãƒžãƒ›ã‚±ãƒ¼ã‚¹  å½ç‰©Nç´šå“é€šè²©å„ªè‰¯ã‚µã‚¤ãƒˆã€Œjpkopiã€!<br />ã‚·ãƒ£ãƒãƒ«iphoneã‚±ãƒ¼ã‚¹ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ Nç´šå“æ¿€å®‰é€šè²©å°‚é–€åº—ã€Œjpkopiã€!äººæ°—ãŒé«˜ã„å…¨æ©Ÿç¨®å¯¾å¿œã‚·ãƒ£ãƒãƒ«  iphoneã‚¹ãƒžãƒ›ã‚±ãƒ¼ã‚¹ ã‚³ãƒ”ãƒ¼è±Šå¯Œã«æƒãˆã¦ãŠã‚Šã¾ã™æ–°ä½œ,å¤§äººæ°—ãƒ´ã‚£ãƒˆãƒ³é¢¨ã‚¹ãƒžãƒ›ã‚±ãƒ¼ã‚¹ã€iphone ã‚±ãƒ¼ã‚¹ ãƒ–ãƒ©ãƒ³ãƒ‰ã‚³ãƒ”ãƒ¼ã€ãƒ†ãƒƒã‚¯ã‚¢ã‚¯ã‚»ã‚µãƒªãƒ¼ å½ç‰©ãŒå¤§é›†åˆï¼å£ã‚³ãƒŸæœ€é«˜ç´šã®ã‚·ãƒ£ãƒãƒ«  iphone16ã‚±ãƒ¼ã‚¹ãªã©ã®ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“ã¯é€æ–™ç„¡æ–™ã€‚å•†å“å®Ÿç‰©ã®å†™çœŸä»˜100%å®‰å¿ƒä¿è¨¼ã€‚<br /><a href="https://www.jpkopi.net/products/smartphonecase/chanlecase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/chanlecase/</a></div>
 </div>
 
 <div class="art">
-	[<b>390</b>] <strong>ƒRƒR</strong>
-	“ŠeŽÒF<b><a href="mailto:jasper.dwyt@gmail.com">dwyt</a></b> “Še“úF2025/06/16(Mon) 17:59 &nbsp; [<a href="./light.cgi?res=390">•ÔM</a>]
-	<div class="com">UNICCM is a go-to platform for anyone looking to upskill in construction, engineering, or management. Their site is loaded with accredited courses, professional development options, and UK-recognised qualifications. Whether you&#39;re starting fresh or aiming for promotion, UNICCM gives you the tools to succeed. Highly recommended for learners who value quality and flexibility. ƒRƒR<br /><br /><a href="https://www.uniccm.com/" target="_blank">https://www.uniccm.com/</a></div>
+	[<b>390</b>] <strong>ã‚³ã‚³</strong>
+	æŠ•ç¨¿è€…ï¼š<b><a href="mailto:jasper.dwyt@gmail.com">dwyt</a></b> æŠ•ç¨¿æ—¥ï¼š2025/06/16(Mon) 17:59 &nbsp; [<a href="light@res_390.cgi">è¿”ä¿¡</a>]
+	<div class="com">UNICCM is a go-to platform for anyone looking to upskill in construction, engineering, or management. Their site is loaded with accredited courses, professional development options, and UK-recognised qualifications. Whether you&#39;re starting fresh or aiming for promotion, UNICCM gives you the tools to succeed. Highly recommended for learners who value quality and flexibility. ã‚³ã‚³<br /><br /><a href="https://www.uniccm.com/" target="_blank">https://www.uniccm.com/</a></div>
 </div>
 
 <div class="art">
-	[<b>389</b>] <strong>ƒX[ƒp[ƒRƒs[ ƒoƒbƒO‘ãˆø‚«</strong>
-	“ŠeŽÒF<b>ƒX[ƒp[ƒRƒs[ ƒoƒbƒO‘ãˆø‚«</b> “Še“úF2025/06/14(Sat) 13:28 &nbsp; [<a href="./light.cgi?res=389">•ÔM</a>]
-	<div class="com">ƒX[ƒp[ƒRƒs[ ƒoƒbƒO‘ãˆø‚«ƒX[ƒp[ƒRƒs[ ƒoƒbƒO‘ãˆø‚«<br />ƒX[ƒp[ƒRƒs[ ƒoƒbƒO‘ãˆø‚«ŒƒˆÀ2025Vì—D—Ç“XuncopyvBƒuƒ‰ƒ“ƒh ƒoƒbƒO ƒRƒs[ Nƒ‰ƒ“ƒN ‘ã‹àˆøŠ· ’Ê”ÌCƒX[ƒp[ƒRƒs[ ƒoƒbƒO ”ƒ‚Á‚Ä‚Ý‚½!l‹C‚ª‚‚¢ƒuƒ‰ƒ“ƒh ƒoƒbƒO ŒƒˆÀ ƒRƒs[–L•x‚É‘µ‚¦‚Ä‚¨‚è‚Ü‚·BƒX[ƒp[ƒRƒs[ ƒVƒ‡ƒ‹ƒ_[ƒoƒbƒOAƒg[ƒgƒoƒbƒOA‚©‚²ƒoƒbƒO‚È‚Çn‹‰•i‚¨‚·‚·‚ß’Ê”ÌB–{•¨‚Æ“¯—l‚Ì‘fÞ‚ðŒµ‘I‚µA×•”‚É‚í‚½‚è’‰ŽÀ‚ÉÄŒ»‚µ‚Ä‚¢‚Ü‚·B¤•iŽÊ^‚Í100%ŽÀ•¨ŽB‰e‚Å‚·!•ÛØ¤•iA•iŽ¿M—p‘æˆê ‚È‚Ì‚Å,“ú–{‘S‘ˆê—¥²ì‹}•Ö‘——¿–³—¿,A‚Í•iŽ¿3”N•ÛØ‚ÅI<br /><a href="https://www.ncopy.jp/cat/baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/</a></div>
+	[<b>389</b>] <strong>ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãƒãƒƒã‚°ä»£å¼•ã</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãƒãƒƒã‚°ä»£å¼•ã</b> æŠ•ç¨¿æ—¥ï¼š2025/06/14(Sat) 13:28 &nbsp; [<a href="light@res_389.cgi">è¿”ä¿¡</a>]
+	<div class="com">ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãƒãƒƒã‚°ä»£å¼•ãã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãƒãƒƒã‚°ä»£å¼•ã<br />ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãƒãƒƒã‚°ä»£å¼•ãæ¿€å®‰2025æ–°ä½œå„ªè‰¯åº—ã€Œncopyã€ã€‚ãƒ–ãƒ©ãƒ³ãƒ‰ ãƒãƒƒã‚° ã‚³ãƒ”ãƒ¼ Nãƒ©ãƒ³ã‚¯ ä»£é‡‘å¼•æ› é€šè²©ï¼Œã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãƒãƒƒã‚° è²·ã£ã¦ã¿ãŸ!äººæ°—ãŒé«˜ã„ãƒ–ãƒ©ãƒ³ãƒ‰ ãƒãƒƒã‚° æ¿€å®‰ ã‚³ãƒ”ãƒ¼è±Šå¯Œã«æƒãˆã¦ãŠã‚Šã¾ã™ã€‚ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ã‚·ãƒ§ãƒ«ãƒ€ãƒ¼ãƒãƒƒã‚°ã€ãƒˆãƒ¼ãƒˆãƒãƒƒã‚°ã€ã‹ã”ãƒãƒƒã‚°ãªã©nç´šå“ãŠã™ã™ã‚é€šè²©ã€‚æœ¬ç‰©ã¨åŒæ§˜ã®ç´ æã‚’åŽ³é¸ã—ã€ç´°éƒ¨ã«ã‚ãŸã‚Šå¿ å®Ÿã«å†ç¾ã—ã¦ã„ã¾ã™ã€‚å•†å“å†™çœŸã¯100%å®Ÿç‰©æ’®å½±ã§ã™!ä¿è¨¼å•†å“ã€å“è³ªä¿¡ç”¨ç¬¬ä¸€ ãªã®ã§,æ—¥æœ¬å…¨å›½ä¸€å¾‹ä½å·æ€¥ä¾¿é€æ–™ç„¡æ–™,ã€ã¯å“è³ª3å¹´ä¿è¨¼ã§ï¼<br /><a href="https://www.ncopy.jp/cat/baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/</a></div>
 </div>
 
 <div class="art">
-	[<b>388</b>] <strong>ƒ‹ƒCƒ”ƒBƒgƒ“–XŽqƒX[ƒp[ƒRƒs[</strong>
-	“ŠeŽÒF<b>ƒ‹ƒCƒ”ƒBƒgƒ“–XŽqƒX[ƒp[ƒRƒs[</b> “Še“úF2025/06/12(Thu) 14:24 &nbsp; [<a href="./light.cgi?res=388">•ÔM</a>]
-	<div class="com">ƒ‹ƒCƒ”ƒBƒgƒ“–XŽqƒX[ƒp[ƒRƒs[N‹‰•i’Ê”Ìê–å“Xyhacopyssz!‘ål‹C‚Ìƒ‹ƒCƒ”ƒBƒgƒ“–XŽqƒRƒs[‚ª‘åW‡I  ƒƒ“ƒYAƒŒƒfƒB[ƒX‚Íl‹Cƒ‹ƒCƒ”ƒBƒgƒ“ƒjƒbƒgƒLƒƒƒbƒv/ƒr[ƒj[ ƒRƒs[‚ð–L•x‚É‘µ‚¦‚Ä‚¨‚è‚Ü‚·B“ú–{‘S‘‘——¿–³—¿,Š½Œ}w“üI<br /><a href="https://hacopyss.com/collections/louis-vuitton-maozi" target="_blank">https://hacopyss.com/collections/louis-vuitton-maozi</a></div>
+	[<b>388</b>] <strong>ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³å¸½å­ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³å¸½å­ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2025/06/12(Thu) 14:24 &nbsp; [<a href="light@res_388.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³å¸½å­ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“é€šè²©å°‚é–€åº—ã€hacopyssã€‘!å¤§äººæ°—ã®ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³å¸½å­ã‚³ãƒ”ãƒ¼ãŒå¤§é›†åˆï¼  ãƒ¡ãƒ³ã‚ºã€ãƒ¬ãƒ‡ã‚£ãƒ¼ã‚¹ã¯äººæ°—ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³ãƒ‹ãƒƒãƒˆã‚­ãƒ£ãƒƒãƒ—/ãƒ“ãƒ¼ãƒ‹ãƒ¼ ã‚³ãƒ”ãƒ¼ã‚’è±Šå¯Œã«æƒãˆã¦ãŠã‚Šã¾ã™ã€‚æ—¥æœ¬å…¨å›½é€æ–™ç„¡æ–™,æ­“è¿Žè³¼å…¥ï¼<br /><a href="https://hacopyss.com/collections/louis-vuitton-maozi" target="_blank">https://hacopyss.com/collections/louis-vuitton-maozi</a></div>
 </div>
 
 <div class="art">
-	[<b>387</b>] <strong>ƒ‹ƒCƒ”ƒBƒgƒ“iphoneƒP[ƒX ƒRƒs[</strong>
-	“ŠeŽÒF<b>ƒ‹ƒCƒ”ƒBƒgƒ“iphoneƒP[ƒX ƒRƒs[</b> “Še“úF2025/06/08(Sun) 20:54 &nbsp; [<a href="./light.cgi?res=387">•ÔM</a>]
-	<div class="com">ƒ‹ƒCƒ”ƒBƒgƒ“iphoneƒP[ƒX ƒRƒs[ ‘ãˆø‚«Cƒ‹ƒCƒ”ƒBƒgƒ“  ƒXƒ}ƒzƒP[ƒX  ‹U•¨N‹‰•i’Ê”Ì—D—ÇƒTƒCƒgujpkopiv!<br />ƒ‹ƒCƒ”ƒBƒgƒ“iphoneƒP[ƒX ƒX[ƒp[ƒRƒs[ N‹‰•iŒƒˆÀ’Ê”Ìê–å“Xujpkopiv!l‹C‚ª‚‚¢‘S‹@Ží‘Î‰žƒ‹ƒCƒ”ƒBƒgƒ“  iphoneƒXƒ}ƒzƒP[ƒX ƒRƒs[–L•x‚É‘µ‚¦‚Ä‚¨‚è‚Ü‚·Vì,‘ål‹Cƒ”ƒBƒgƒ“•—ƒXƒ}ƒzƒP[ƒXAiphone ƒP[ƒX ƒuƒ‰ƒ“ƒhƒRƒs[AƒeƒbƒNƒAƒNƒZƒTƒŠ[ ‹U•¨‚ª‘åW‡IŒûƒRƒ~Å‚‹‰‚Ìƒ‹ƒCƒ”ƒBƒgƒ“  iphone16ƒP[ƒX‚È‚Ç‚ÌƒX[ƒp[ƒRƒs[N‹‰•i‚Í‘——¿–³—¿B¤•iŽÀ•¨‚ÌŽÊ^•t100%ˆÀS•ÛØB<br /><a href="https://www.jpkopi.net/products/smartphonecase/lvcase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/lvcase/</a></div>
+	[<b>387</b>] <strong>ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³iphoneã‚±ãƒ¼ã‚¹ ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³iphoneã‚±ãƒ¼ã‚¹ ã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2025/06/08(Sun) 20:54 &nbsp; [<a href="light@res_387.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³iphoneã‚±ãƒ¼ã‚¹ ã‚³ãƒ”ãƒ¼ ä»£å¼•ãï¼Œãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³  ã‚¹ãƒžãƒ›ã‚±ãƒ¼ã‚¹  å½ç‰©Nç´šå“é€šè²©å„ªè‰¯ã‚µã‚¤ãƒˆã€Œjpkopiã€!<br />ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³iphoneã‚±ãƒ¼ã‚¹ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ Nç´šå“æ¿€å®‰é€šè²©å°‚é–€åº—ã€Œjpkopiã€!äººæ°—ãŒé«˜ã„å…¨æ©Ÿç¨®å¯¾å¿œãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³  iphoneã‚¹ãƒžãƒ›ã‚±ãƒ¼ã‚¹ ã‚³ãƒ”ãƒ¼è±Šå¯Œã«æƒãˆã¦ãŠã‚Šã¾ã™æ–°ä½œ,å¤§äººæ°—ãƒ´ã‚£ãƒˆãƒ³é¢¨ã‚¹ãƒžãƒ›ã‚±ãƒ¼ã‚¹ã€iphone ã‚±ãƒ¼ã‚¹ ãƒ–ãƒ©ãƒ³ãƒ‰ã‚³ãƒ”ãƒ¼ã€ãƒ†ãƒƒã‚¯ã‚¢ã‚¯ã‚»ã‚µãƒªãƒ¼ å½ç‰©ãŒå¤§é›†åˆï¼å£ã‚³ãƒŸæœ€é«˜ç´šã®ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³  iphone16ã‚±ãƒ¼ã‚¹ãªã©ã®ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“ã¯é€æ–™ç„¡æ–™ã€‚å•†å“å®Ÿç‰©ã®å†™çœŸä»˜100%å®‰å¿ƒä¿è¨¼ã€‚<br /><a href="https://www.jpkopi.net/products/smartphonecase/lvcase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/lvcase/</a></div>
 </div>
 
 <div class="art">
-	[<b>386</b>] <strong>ƒGƒ‹ƒƒX à•z ƒX[ƒp[ƒRƒs[N‹‰•i‘ãˆø‚«</strong>
-	“ŠeŽÒF<b>ƒGƒ‹ƒƒX à•z ƒX[ƒp[ƒRƒs[N‹‰•i‘ãˆø‚«</b> “Še“úF2025/05/18(Sun) 00:50 &nbsp; [<a href="./light.cgi?res=386">•ÔM</a>]
-	<div class="com">ƒGƒ‹ƒƒX à•z ƒX[ƒp[ƒRƒs[N‹‰•i‘ãˆø‚«<br />ƒGƒ‹ƒƒX à•z ƒX[ƒp[ƒRƒs[N‹‰•i‘ãˆø‚«ŒƒˆÀ2025Vì—D—Ç“XuncopyvBl‹C‚ª‚‚¢ƒGƒ‹ƒƒX ƒxƒAƒ“ ƒX[ƒp[ ƒRƒs[AƒGƒ‹ƒƒX ƒxƒAƒ“ƒXƒtƒŒ ‹U•¨–L•x‚É‘µ‚¦‚Ä‚¨‚è‚Ü‚·B‘ål‹CƒGƒ‹ƒƒX ƒhƒSƒ“ ƒRƒs[AƒGƒ‹ƒƒX ƒRƒ“ƒXƒ^ƒ“ƒX à•z ƒRƒs[‚ª‘åW‡IƒGƒ‹ƒƒX à•z ‹U•¨ Nƒ‰ƒ“ƒN ’Ê”ÌAŒûƒRƒ~Å‚‹‰‚ÌƒGƒ‹ƒƒX à•z —D—ÇƒTƒCƒgN‹‰•i‚Í‘——¿–³—¿Bƒuƒ‰ƒ“ƒh•i‚Ì–{•¨‚Æ‹U•¨Œ©•ª‚¯‚ª‚Â‚©‚È‚¢‚Ù‚Ç¸I‚Éì‚ç‚ê‚Ä‚¢‚Ü‚·B‘fÞ‚â–D»AƒfƒUƒCƒ“‚Ü‚Å×•”‚É‚±‚¾‚í‚èA‚•iŽ¿‚ðŠy‚µ‚Þ‚±‚Æ‚ª‚Å‚«‚Ü‚·B3”N•iŽ¿•ÛØI<br /><a href="https://www.ncopy.jp/cat/saifu/erumesu_saifu/" target="_blank">https://www.ncopy.jp/cat/saifu/erumesu_saifu/</a></div>
+	[<b>386</b>] <strong>ã‚¨ãƒ«ãƒ¡ã‚¹ è²¡å¸ƒ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“ä»£å¼•ã</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ã‚¨ãƒ«ãƒ¡ã‚¹ è²¡å¸ƒ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“ä»£å¼•ã</b> æŠ•ç¨¿æ—¥ï¼š2025/05/18(Sun) 00:50 &nbsp; [<a href="light@res_386.cgi">è¿”ä¿¡</a>]
+	<div class="com">ã‚¨ãƒ«ãƒ¡ã‚¹ è²¡å¸ƒ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“ä»£å¼•ã<br />ã‚¨ãƒ«ãƒ¡ã‚¹ è²¡å¸ƒ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“ä»£å¼•ãæ¿€å®‰2025æ–°ä½œå„ªè‰¯åº—ã€Œncopyã€ã€‚äººæ°—ãŒé«˜ã„ã‚¨ãƒ«ãƒ¡ã‚¹ ãƒ™ã‚¢ãƒ³ ã‚¹ãƒ¼ãƒ‘ãƒ¼ ã‚³ãƒ”ãƒ¼ã€ã‚¨ãƒ«ãƒ¡ã‚¹ ãƒ™ã‚¢ãƒ³ã‚¹ãƒ•ãƒ¬ å½ç‰©è±Šå¯Œã«æƒãˆã¦ãŠã‚Šã¾ã™ã€‚å¤§äººæ°—ã‚¨ãƒ«ãƒ¡ã‚¹ ãƒ‰ã‚´ãƒ³ ã‚³ãƒ”ãƒ¼ã€ã‚¨ãƒ«ãƒ¡ã‚¹ ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ è²¡å¸ƒ ã‚³ãƒ”ãƒ¼ãŒå¤§é›†åˆï¼ã‚¨ãƒ«ãƒ¡ã‚¹ è²¡å¸ƒ å½ç‰© Nãƒ©ãƒ³ã‚¯ é€šè²©ã€å£ã‚³ãƒŸæœ€é«˜ç´šã®ã‚¨ãƒ«ãƒ¡ã‚¹ è²¡å¸ƒ å„ªè‰¯ã‚µã‚¤ãƒˆNç´šå“ã¯é€æ–™ç„¡æ–™ã€‚ãƒ–ãƒ©ãƒ³ãƒ‰å“ã®æœ¬ç‰©ã¨å½ç‰©è¦‹åˆ†ã‘ãŒã¤ã‹ãªã„ã»ã©ç²¾å·§ã«ä½œã‚‰ã‚Œã¦ã„ã¾ã™ã€‚ç´ æã‚„ç¸«è£½ã€ãƒ‡ã‚¶ã‚¤ãƒ³ã¾ã§ç´°éƒ¨ã«ã“ã ã‚ã‚Šã€é«˜å“è³ªã‚’æ¥½ã—ã‚€ã“ã¨ãŒã§ãã¾ã™ã€‚3å¹´å“è³ªä¿è¨¼ï¼<br /><a href="https://www.ncopy.jp/cat/saifu/erumesu_saifu/" target="_blank">https://www.ncopy.jp/cat/saifu/erumesu_saifu/</a></div>
 </div>
 
 <div class="art">
-	[<b>385</b>] <strong>ƒvƒ‰ƒ_ ƒoƒbƒO ƒX[ƒp[ƒRƒs[ ‘ãˆø‚«</strong>
-	“ŠeŽÒF<b>ƒvƒ‰ƒ_ ƒoƒbƒO ƒX[ƒp[ƒRƒs[ ‘ãˆø‚«</b> “Še“úF2025/05/16(Fri) 16:22 &nbsp; [<a href="./light.cgi?res=385">•ÔM</a>]
-	<div class="com">ƒvƒ‰ƒ_ ƒoƒbƒO ƒX[ƒp[ƒRƒs[ ‘ãˆø‚«<br />ƒvƒ‰ƒ_ ƒoƒbƒO ƒX[ƒp[ƒRƒs[ ‘ãˆø‚«ŒƒˆÀ2025Vì—D—Ç“XuncopyvBN‹‰•il‹C‚ª‚‚¢ƒvƒ‰ƒ_ ƒg[ƒgƒoƒbƒO ‹U•¨–L•x‚É‘µ‚¦‚Ä‚¨‚è‚Ü‚·A‘ål‹Cƒvƒ‰ƒ_ ƒoƒbƒO VìAƒvƒ‰ƒ_ ƒŠƒiƒCƒƒ“ƒg[ƒg ƒRƒs[‚ª‘åW‡IÅ‚‹‰ƒvƒ‰ƒ_ ƒoƒbƒO ‹U•¨ Nƒ‰ƒ“ƒN ‘ã‹àˆøŠ· ’Ê”ÌAƒvƒ‰ƒ_‚©‚²ƒoƒbƒOŽGŽ•t˜^‚ÌƒX[ƒp[ƒRƒs[N‹‰•i‚Í‘——¿–³—¿B–{•¨‚Æ“¯—l‚Ì‘fÞ‚ðŒµ‘I‚µA×•”‚É‚í‚½‚è’‰ŽÀ‚ÉÄŒ»‚µ‚Ä‚¢‚Ü‚·B¤•iŽÊ^‚Í100%ŽÀ•¨ŽB‰e‚Å‚·!•ÛØ¤•iA•iŽ¿M—p‘æˆê ‚È‚ÌA‚Í•iŽ¿3”N•ÛØ‚ÅI<br /><a href="https://www.ncopy.jp/cat/baggu/puradabaggu/" target="_blank">https://www.ncopy.jp/cat/baggu/puradabaggu/</a></div>
+	[<b>385</b>] <strong>ãƒ—ãƒ©ãƒ€ ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•ã</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒ—ãƒ©ãƒ€ ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•ã</b> æŠ•ç¨¿æ—¥ï¼š2025/05/16(Fri) 16:22 &nbsp; [<a href="light@res_385.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒ—ãƒ©ãƒ€ ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•ã<br />ãƒ—ãƒ©ãƒ€ ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•ãæ¿€å®‰2025æ–°ä½œå„ªè‰¯åº—ã€Œncopyã€ã€‚Nç´šå“äººæ°—ãŒé«˜ã„ãƒ—ãƒ©ãƒ€ ãƒˆãƒ¼ãƒˆãƒãƒƒã‚° å½ç‰©è±Šå¯Œã«æƒãˆã¦ãŠã‚Šã¾ã™ã€å¤§äººæ°—ãƒ—ãƒ©ãƒ€ ãƒãƒƒã‚° æ–°ä½œã€ãƒ—ãƒ©ãƒ€ ãƒªãƒŠã‚¤ãƒ­ãƒ³ãƒˆãƒ¼ãƒˆ ã‚³ãƒ”ãƒ¼ãŒå¤§é›†åˆï¼æœ€é«˜ç´šãƒ—ãƒ©ãƒ€ ãƒãƒƒã‚° å½ç‰© Nãƒ©ãƒ³ã‚¯ ä»£é‡‘å¼•æ› é€šè²©ã€ãƒ—ãƒ©ãƒ€ã‹ã”ãƒãƒƒã‚°é›‘èªŒä»˜éŒ²ã®ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“ã¯é€æ–™ç„¡æ–™ã€‚æœ¬ç‰©ã¨åŒæ§˜ã®ç´ æã‚’åŽ³é¸ã—ã€ç´°éƒ¨ã«ã‚ãŸã‚Šå¿ å®Ÿã«å†ç¾ã—ã¦ã„ã¾ã™ã€‚å•†å“å†™çœŸã¯100%å®Ÿç‰©æ’®å½±ã§ã™!ä¿è¨¼å•†å“ã€å“è³ªä¿¡ç”¨ç¬¬ä¸€ ãªã®ã€ã¯å“è³ª3å¹´ä¿è¨¼ã§ï¼<br /><a href="https://www.ncopy.jp/cat/baggu/puradabaggu/" target="_blank">https://www.ncopy.jp/cat/baggu/puradabaggu/</a></div>
 </div>
 
 <div class="art">
-	[<b>384</b>] <strong>ƒƒGƒx ƒoƒbƒO ƒX[ƒp[ƒRƒs[‘ãˆø‚«</strong>
-	“ŠeŽÒF<b>ƒƒGƒx ƒoƒbƒO ƒX[ƒp[ƒRƒs[‘ãˆø‚«</b> “Še“úF2025/05/14(Wed) 01:08 &nbsp; [<a href="./light.cgi?res=384">•ÔM</a>]
-	<div class="com">ƒƒGƒx ƒoƒbƒO ƒX[ƒp[ƒRƒs[‘ãˆø‚«<br />ƒƒGƒx ƒoƒbƒO ƒX[ƒp[ƒRƒs[‘ãˆø‚«ŒƒˆÀ2025Vì—D—Ç“XuncopyvBN‹‰•il‹C‚ª‚‚¢ƒƒGƒx ƒnƒ“ƒ‚ƒbƒN ‹U•¨–L•x‚É‘µ‚¦‚Ä‚¨‚è‚Ü‚·A‘ål‹CƒƒGƒx ‚©‚²ƒoƒbƒO ‹U•¨AƒƒGƒx ƒpƒYƒ‹ƒoƒbƒO ‹U•¨‚ª‘åW‡IƒƒGƒx ƒoƒbƒO ‹U•¨ Nƒ‰ƒ“ƒN ‘ã‹àˆøŠ· ’Ê”ÌAŒûƒRƒ~Å‚‹‰‚ÌƒƒGƒx ƒGƒŒƒtƒ@ƒ“ƒg‹U•¨AƒŠƒ…ƒbƒNEƒAƒ}ƒ\ƒiEƒg[ƒgEƒrƒWƒlƒX ƒoƒbƒO‚È‚Ç‚ÌƒX[ƒp[ƒRƒs[N‹‰•i‚Í‘——¿–³—¿B–{•¨‚Æ“¯—l‚Ì‘fÞ‚ðŒµ‘I‚µA×•”‚É‚í‚½‚è’‰ŽÀ‚ÉÄŒ»‚µ‚Ä‚¢‚Ü‚·B¤•iŽÊ^‚Í100%ŽÀ•¨ŽB‰e‚Å‚·!•ÛØ¤•iA•iŽ¿M—p‘æˆê ‚È‚Ì‚ÅA‚Í•iŽ¿3”N•ÛØ‚ÅI<br /><a href="https://www.ncopy.jp/cat/baggu/roebe/" target="_blank">https://www.ncopy.jp/cat/baggu/roebe/</a></div>
+	[<b>384</b>] <strong>ãƒ­ã‚¨ãƒ™ ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ä»£å¼•ã</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒ­ã‚¨ãƒ™ ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ä»£å¼•ã</b> æŠ•ç¨¿æ—¥ï¼š2025/05/14(Wed) 01:08 &nbsp; [<a href="light@res_384.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒ­ã‚¨ãƒ™ ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ä»£å¼•ã<br />ãƒ­ã‚¨ãƒ™ ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ä»£å¼•ãæ¿€å®‰2025æ–°ä½œå„ªè‰¯åº—ã€Œncopyã€ã€‚Nç´šå“äººæ°—ãŒé«˜ã„ãƒ­ã‚¨ãƒ™ ãƒãƒ³ãƒ¢ãƒƒã‚¯ å½ç‰©è±Šå¯Œã«æƒãˆã¦ãŠã‚Šã¾ã™ã€å¤§äººæ°—ãƒ­ã‚¨ãƒ™ ã‹ã”ãƒãƒƒã‚° å½ç‰©ã€ãƒ­ã‚¨ãƒ™ ãƒ‘ã‚ºãƒ«ãƒãƒƒã‚° å½ç‰©ãŒå¤§é›†åˆï¼ãƒ­ã‚¨ãƒ™ ãƒãƒƒã‚° å½ç‰© Nãƒ©ãƒ³ã‚¯ ä»£é‡‘å¼•æ› é€šè²©ã€å£ã‚³ãƒŸæœ€é«˜ç´šã®ãƒ­ã‚¨ãƒ™ ã‚¨ãƒ¬ãƒ•ã‚¡ãƒ³ãƒˆå½ç‰©ã€ãƒªãƒ¥ãƒƒã‚¯ãƒ»ã‚¢ãƒžã‚½ãƒŠãƒ»ãƒˆãƒ¼ãƒˆãƒ»ãƒ“ã‚¸ãƒã‚¹ ãƒãƒƒã‚°ãªã©ã®ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼Nç´šå“ã¯é€æ–™ç„¡æ–™ã€‚æœ¬ç‰©ã¨åŒæ§˜ã®ç´ æã‚’åŽ³é¸ã—ã€ç´°éƒ¨ã«ã‚ãŸã‚Šå¿ å®Ÿã«å†ç¾ã—ã¦ã„ã¾ã™ã€‚å•†å“å†™çœŸã¯100%å®Ÿç‰©æ’®å½±ã§ã™!ä¿è¨¼å•†å“ã€å“è³ªä¿¡ç”¨ç¬¬ä¸€ ãªã®ã§ã€ã¯å“è³ª3å¹´ä¿è¨¼ã§ï¼<br /><a href="https://www.ncopy.jp/cat/baggu/roebe/" target="_blank">https://www.ncopy.jp/cat/baggu/roebe/</a></div>
 </div>
 
 <div class="art">
-	[<b>383</b>] <strong>ƒVƒƒƒlƒ‹ŒƒˆÀƒoƒbƒO ƒX[ƒp[ƒRƒs[ ‘ãˆø‚«</strong>
-	“ŠeŽÒF<b>ƒVƒƒƒlƒ‹ŒƒˆÀƒoƒbƒO ƒX[ƒp[ƒRƒs[ ‘ãˆø‚«</b> “Še“úF2025/05/12(Mon) 15:09 &nbsp; [<a href="./light.cgi?res=383">•ÔM</a>]
-	<div class="com">ƒVƒƒƒlƒ‹ŒƒˆÀƒoƒbƒO ƒX[ƒp[ƒRƒs[ ‘ãˆø‚«<br />ƒVƒƒƒlƒ‹ŒƒˆÀƒoƒbƒO ƒX[ƒp[ƒRƒs[ ‘ãˆø‚«ŒƒˆÀ2025Vì—D—Ç“XuncopyvBƒVƒƒƒlƒ‹ n&amp;#32423;•i ƒRƒs[¤•iAƒVƒƒƒlƒ‹ •t˜^ ƒoƒbƒOVì‘åW‡IƒVƒƒƒlƒ‹ ƒoƒbƒO ƒRƒs[ Nƒ‰ƒ“ƒN ‘ã‹àˆøŠ· ’Ê”ÌCl‹C’è”Ô‚ÌƒVƒƒƒlƒ‹ ƒoƒbƒO ˆÀ‚¢‡BÅ‚‹‰ƒVƒƒƒlƒ‹ ƒoƒbƒO ‹U•¨–{•¨‚Æ“¯—l‚Ì‘fÞ‚ðŒµ‘I‚µA×•”‚É‚í‚½‚è’‰ŽÀ‚ÉÄŒ»‚µ‚Ä‚¢‚Ü‚·B¤•iŽÊ^‚Í100%ŽÀ•¨ŽB‰e‚Å‚·!•ÛØ¤•iA•iŽ¿M—p‘æˆê ‚È‚Ì‚Å,“ú–{‘S‘ˆê—¥²ì‹}•Ö‘——¿–³—¿,A‚Í•iŽ¿3”N•ÛØ‚ÅI<br /><a href="https://www.ncopy.jp/cat/baggu/shaneru_baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/shaneru_baggu/</a><br />www.ncopy.jp/<p class="url"><a href="https://www.ncopy.jp/cat/baggu/shaneru_baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/shaneru_baggu/</a></p></div>
+	[<b>383</b>] <strong>ã‚·ãƒ£ãƒãƒ«æ¿€å®‰ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•ã</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ã‚·ãƒ£ãƒãƒ«æ¿€å®‰ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•ã</b> æŠ•ç¨¿æ—¥ï¼š2025/05/12(Mon) 15:09 &nbsp; [<a href="light@res_383.cgi">è¿”ä¿¡</a>]
+	<div class="com">ã‚·ãƒ£ãƒãƒ«æ¿€å®‰ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•ã<br />ã‚·ãƒ£ãƒãƒ«æ¿€å®‰ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•ãæ¿€å®‰2025æ–°ä½œå„ªè‰¯åº—ã€Œncopyã€ã€‚ã‚·ãƒ£ãƒãƒ« n&amp;#32423;å“ ã‚³ãƒ”ãƒ¼å•†å“ã€ã‚·ãƒ£ãƒãƒ« ä»˜éŒ² ãƒãƒƒã‚°æ–°ä½œå¤§é›†åˆï¼ã‚·ãƒ£ãƒãƒ« ãƒãƒƒã‚° ã‚³ãƒ”ãƒ¼ Nãƒ©ãƒ³ã‚¯ ä»£é‡‘å¼•æ› é€šè²©ï¼Œäººæ°—å®šç•ªã®ã‚·ãƒ£ãƒãƒ« ãƒãƒƒã‚° å®‰ã„é †ã€‚æœ€é«˜ç´šã‚·ãƒ£ãƒãƒ« ãƒãƒƒã‚° å½ç‰©æœ¬ç‰©ã¨åŒæ§˜ã®ç´ æã‚’åŽ³é¸ã—ã€ç´°éƒ¨ã«ã‚ãŸã‚Šå¿ å®Ÿã«å†ç¾ã—ã¦ã„ã¾ã™ã€‚å•†å“å†™çœŸã¯100%å®Ÿç‰©æ’®å½±ã§ã™!ä¿è¨¼å•†å“ã€å“è³ªä¿¡ç”¨ç¬¬ä¸€ ãªã®ã§,æ—¥æœ¬å…¨å›½ä¸€å¾‹ä½å·æ€¥ä¾¿é€æ–™ç„¡æ–™,ã€ã¯å“è³ª3å¹´ä¿è¨¼ã§ï¼<br /><a href="https://www.ncopy.jp/cat/baggu/shaneru_baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/shaneru_baggu/</a><br />www.ncopy.jp/<p class="url"><a href="https://www.ncopy.jp/cat/baggu/shaneru_baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/shaneru_baggu/</a></p></div>
 </div>
 
 
@@ -139,24 +139,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-‹LŽ–No<input type="text" name="num" size="3" />
-íœƒL[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="íœ" />
+è¨˜äº‹No<input type="text" name="num" size="3" />
+å‰Šé™¤ã‚­ãƒ¼<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="å‰Šé™¤" />
 </form>
 </div>
 

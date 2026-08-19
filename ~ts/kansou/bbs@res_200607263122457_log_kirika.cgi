@@ -196,7 +196,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 それでは。<br>
 </font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 
@@ -257,7 +257,7 @@ link<input type=checkbox name="link" value="1" checked>
 　えと、キャリアですか？　無駄に長いです。　んーと２０年ちょっとくらいでしょうか……？　でも他人様に聞かせることを前提に練習していないので、ぜんぜん上手じゃないのでした。　掲示曲はノクターンを除いてはコンピュータでリズム補正してあるのです……。<br>
 <br>
 　というわけで。　次回の分は手が空きましたら書き直して投稿しますのでもう少しかかりそうです。　皆様申し訳ありませんが少々お待ち下さいませ。</font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 
@@ -335,7 +335,7 @@ Kardyさんのご指摘通り、著作権はJasracと無関係に存在するの
 <br>
 Kardyさんが少年少女文庫イベントに提供してくれた曲がありますので、まだ聞いてない方はぜひどうぞ！（勝手に宣伝……していいですよね？）<br>
 <br>
-<a href=http://www.novels.name/tsh/ target=_top>http://www.novels.name/tsh/</a><br>
+<a href=../../www.novels.name/tsh/index.html target=_top>../../www.novels.name/tsh/index.html</a><br>
 姫琴辞典、「ま」の項　「真夏の少年少女たち」　いい曲ですよ！<br>
 <br>
 <br>
@@ -388,12 +388,12 @@ Kardyさんが少年少女文庫イベントに提供してくれた曲があり
 ま、あんまり期待しないで下さいね。<br>
 <br>
 あずさのミュージックボックス<br>
-<a href=http://kirika.novels.name/wiki/?%A5%C8%A5%EC%A5%A4%A5%EB%2F%B2%BB%B3%DA%C8%A2 target=_top>http://kirika.novels.name/wiki/?%A5%C8%A5%EC%A5%A4%A5%EB%2F%B2%BB%B3%DA%C8%A2</a><br>
+<a href=../../kirika.novels.name/wiki/index@A5C8A5ECA5A4A5EB2FB2BBB3DAC8A2.html target=_top>../../kirika.novels.name/wiki/index@A5C8A5ECA5A4A5EB2FB2BBB3DAC8A2.html</a><br>
 (以前に流離太さんのところに置いたのと変わっております）<br>
 <br>
 それでは、また次回も頑張りますね！<br>
 </font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 

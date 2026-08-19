@@ -174,7 +174,7 @@ TS小説である意味があんまりないんじゃないかと。って、す
 <br>
 んーでも続きを楽しみにしています♪<br>
 </font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 

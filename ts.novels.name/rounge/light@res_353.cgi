@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,73 +13,73 @@ function popup(url) {
 }
 // -->
 </script>
-<title>�N���G�C�^�[�Y�E�t���A�i���j</title>
+<title>クリエイターズ・フロア（仮）</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>�N���G�C�^�[�Y�E�t���A�i���j</h1>
+<h1>クリエイターズ・フロア（仮）</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">�g�b�v�ɖ߂�</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">���ӎ���</a>]
-[<a href="./light.cgi?mode=find">���[�h����</a>]
+[<a href="../../index.html" target="_top">トップに戻る</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">留意事項</a>]
+[<a href="light@mode_find.cgi">ワード検索</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">�ߋ����O</a>]
+[<a href="light@mode_past.cgi">過去ログ</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">�Ǘ��p</a>]
+[<a href="admin.cgi">管理用</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>���Ȃ܂�</th>
+	<th>おなまえ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>�d���[��</th>
+	<th>Ｅメール</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>�^�C�g��</th>
+	<th>タイトル</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[353] vogvip.com �u�����h �U�� �ʔ�" />
-    	<input type="submit" value="���M����" /><input type="reset" value="���Z�b�g" />
+    	<input type="text" name="sub" size="36" value="Re:[353] vogvip.com ブランド 偽物 通販" />
+    	<input type="submit" value="送信する" /><input type="reset" value="リセット" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	���b�Z�[�W<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; BALENCIAGA�X�[�p�[�R�s�[������2022 �p�[�J�[ ���l�C�Ȑ��X �o�����V�A�K�U���u�����h Balenciaga�A�t�@�b�V�����ƊE�̐�N�����A��ɑ�_�Ŋv�V�I�ȃf�U�C���Ő��l��k�������܂��B���̃t�[�h�t���p�[�J�[�́A���̃��j�[�N�ȃX�^�C����[�I�ɕ\���Ă��܂��B�^�j��ȃp�[�J�[�̌`�Ԃł��B���ׂĂ̌��Ǝ��R���ݍ��ނ悤�ɂ������Ƃ����T�C�Y�ŁA�c���̔䗦���֒�����A����ȃC���p�N�g�������o���Ă��܂��B�t�[�h�t���̃f�U�C���͂ƂĂ����F�������āA�[���čL���X�q�̌^�A���߉\�ȂЂ��ƍ��킹�āA�_��ƃJ�W���A�����������������łȂ��āA�X��1��̃t�@�b�V�����̐錾�̂悤�ł��B�ו��Ƀu�����h�̃A�o���M�����h�ȃR���Z�v�g��\�����Ă��܂��B�q�߂̕\���邢�͗��͂����u�����h�̏ے��I�Ȓ�����̃v�����g���邢�͎h&amp;#32353;�̃��S������āA�l�ڂ������Ėڗ������āA�]���Ƃ���Ȃ��u�����h�̐g���������Ă��܂��B�D���ڂ͑@�ׂœƓ��ŁA�����F�⑾�����̃R���g���X�g���̗p���邱�Ƃ��ł��A�V���v�����̒��ŕ��G�ȃf�U�C���̐S���ۗ������܂��B�R�̐�̃f�U�C���ɂ��H�v������A����ȋ�������v���X�`�b�N���̃p�[�c�����Ă��邱�Ƃ�����A���Ȃꊴ�Ƃ�����ꂳ���v���X���Ă��܂��B���n�I�тł́A�����Ɖ��K���̃o�����X���d�����Ă��܂��B�����͍��i���̖Ȃ̐��n��I��ŁA���̏_�炩���Ĕ��ɂ₳�����āA�ʋC�����ǂ��āA���ɋC�����悭�ċz�����邱�Ƃ��ł��܂��B���n�͓���ȏ������o�āA���̍R���퐫�Ƒϋv���������āA���Ƃ����񒅗p���Đ��󂵂Ă��A�ˑR�Ƃ��ėǍD�ȔŌ^�ƊO�ς��ێ����邱�Ƃ��ł��āA���p�҂Ɏ����I�Ȑ�N�̃t�@�b�V�����̌���񋟂��܂��B�܂Ƃ߂Č����΁ABalenciaga�t�[�h�t���̃p�[�J�[�͂��̓Ɠ��ȔŌ^�A��_�ȍו��̐݌v�Ə㎿�Ȑ��n�ɂ���āA�t�@�b�V�����̐�N�B�ɂȂ��Ē�����ǂ������āA�Ӑ��̕K�{�A�C�e����\�����āA�u�����h�̃t�@�b�V��������̋����m��Ȃ��T���Ƒ�z�ȃ��[�h��[�����߂��Ă��܂��B
-&gt; �u�����h�R�s�[ vogvip.com/brand-13-c0.html BALENCIAGA�u�����h�R�s�[
-&gt; ���i�ԍ��Fvogvip2022BAL-WT024
-&gt; �݌ɏ󋵁F 50
-&gt; ������i�F8800�~
-&gt; ���i�u�����h�F�o�����V�A�K BALENCIAGA
-&gt; �o�i���ԁF2022-10-10
-&gt; ���i�J�e�S���F�W���P�b�g �p�[�J�[ �Z�[�^�[ �R�[�g
-&gt; BALENCIAGA�u�����h �U�� �ʔ� vogvip.com/goods-4802.html �o�����V�A�K�u�����h�R�s�[
-&gt; �X�[�p�[�R�s�[ n���i ������� vogvip.com VOG �R�s�[ �u�����h
-&gt; VOGVIP.COM �ւ悤�����B
-&gt; ���V�K����o�^���ꂽ���ɐF�X�Ȋ����T�[�r�X�������グ�܂��B
-&gt; �����X�ł͂����������痂�c�Ɠ��܂łɓ��X��肨�q�l���ĂɕK���������̂��烁�[���E�������m�F���[���𑗐M�����Ē����Ă���܂��B
-&gt; �����X���[���A�h���X���͂��Ă��Ȃ����q�l�̒��ɂ́A�T�[�o�[�ɂĖ��f���[���Ɣ��f����A���f���[���t�H���_�Ƀ��[�����́B
-&gt; �������{���ɓ͂��Ȃ������ꍇ�ɂ�buy@vogvip.com�܂ł��A�����������܂��B
-&gt; vogvip.com���X(�o�����V�A�K �u�����h�� �R�s�[):�m���x������balenciaga�u�����h �U�� �ʔ́i�o�����V�A�K�X�[�p�[�R�s�[�j�B�ō����o�����V�A�K �p���f�B�ʔ̂ł��B�u�����h �o�����V�A�K �R�s�[ ��o�����V�A�K�̃u�����h �� �R�s�[ �����𒆐S�Ƃ��ď��i��W�J���Ă���ق��A�g�[�g�o�b�N��V�����_�[�o�b�O�Ȃǂ̃o�����V�A�K �o�b�O �R�s�[�A�o�����V�A�K�u�����h ���z �R�s�[�A�o�����V�A�K ����T�V���c �R�s�[�A�o�����V�A�K ����T�V���c �R�s�[�A�T���_���Ȃǂ̃o�����V�A�K �C �R�s�[�A�o�����V�A�K �W�[���Y�R�s�[ �u�����h �����̃A�C�e����񋟂��Ă���܂��B�o�����V�A�K�X�[�p�[�R�s�[�ʔ̈��S�B�i���ۏ؂ň��S���Ă��w����������! �o�����V�A�K �u�����h�� �R�s�[ vogvip.com/brand-13-c0.html �o�����V�A�K�X�j�[�J�[ �u�����h�R�s�[</textarea>
+    	メッセージ<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; BALENCIAGAスーパーコピー超激得2022 パーカー 超人気な専門店 バレンシアガ偽物ブランド Balenciaga、ファッション業界の先鋒巨擘、常に大胆で革新的なデザインで世人を震撼させます。このフード付きパーカーは、そのユニークなスタイルを端的に表しています。型破りなパーカーの形態です。すべての個性と自由を包み込むようにゆったりとしたサイズで、縦横の比率が誇張され、強烈なインパクトを醸し出しています。フード付きのデザインはとても特色があって、深くて広い帽子の型、調節可能なひもと合わせて、神秘とカジュアル感を加えただけでなくて、更に1種のファッションの宣言のようです。細部にブランドのアバンギャルドなコンセプトを表現しています。衛衣の表あるいは里はいつもブランドの象徴的な超特大のプリントあるいは刺&amp;#32353;のロゴが現れて、人目を引いて目立たせて、余すところなくブランドの身分を示しています。縫い目は繊細で独特で、強い色や太い線のコントラストを採用することができ、シンプルさの中で復雑なデザインの心を際立たせます。紐の先のデザインにも工夫があり、特殊な金属製やプラスチック製のパーツがついていることもあり、こなれ感とおしゃれさをプラスしています。生地選びでは、質感と快適さのバランスを重視しています。多くは高品質の綿の生地を選んで、その柔らかくて肌にやさしくて、通気性が良くて、肌に気持ちよく呼吸させることができます。生地は特殊な処理を経て、一定の抗しわ性と耐久性を持って、たとえ何回着用して洗濯しても、依然として良好な版型と外観を維持することができて、着用者に持続的な先鋒のファッション体験を提供します。まとめて言えば、Balenciagaフード付きのパーカーはその独特な版型、大胆な細部の設計と上質な生地によって、ファッションの先鋒達になって潮流を追いかけて、箇性の必須アイテムを表現して、ブランドのファッション分野の恐れを知らない探求と卓越なリードを深く解釈しています。
+&gt; ブランドコピー vogvip.com/brand-13-c0.html BALENCIAGAブランドコピー
+&gt; 商品番号：vogvip2022BAL-WT024
+&gt; 在庫状況： 50
+&gt; 会員価格：8800円
+&gt; 商品ブランド：バレンシアガ BALENCIAGA
+&gt; 出品時間：2022-10-10
+&gt; 商品カテゴリ：ジャケット パーカー セーター コート
+&gt; BALENCIAGAブランド 偽物 通販 vogvip.com/goods-4802.html バレンシアガブランドコピー
+&gt; スーパーコピー n級品 代金引換 vogvip.com VOG コピー ブランド
+&gt; VOGVIP.COM へようこそ。
+&gt; ▲新規会員登録された方に色々な割引サービスを差し上げます。
+&gt; ▲当店ではご注文日から翌営業日までに当店よりお客様宛てに必ずご注文のお礼メール・ご注文確認メールを送信させて頂いております。
+&gt; ▲当店メールアドレスが届いていないお客様の中には、サーバーにて迷惑メールと判断され、迷惑メールフォルダにメールが届。
+&gt; ▲もし本当に届かなかった場合にはbuy@vogvip.comまでご連絡くださいませ。
+&gt; vogvip.com専門店(バレンシアガ ブランド服 コピー):知名度が高いbalenciagaブランド 偽物 通販（バレンシアガスーパーコピー）。最高級バレンシアガ パロディ通販です。ブランド バレンシアガ コピー やバレンシアガのブランド 服 コピー 激安を中心として商品を展開しているほか、トートバックやショルダーバッグなどのバレンシアガ バッグ コピー、バレンシアガブランド 財布 コピー、バレンシアガ 半袖Tシャツ コピー、バレンシアガ 長袖Tシャツ コピー、サンダルなどのバレンシアガ 靴 コピー、バレンシアガ ジーンズコピー ブランド 激安のアイテムを提供しております。バレンシアガスーパーコピー通販安全。品質保証で安心してご購入ください! バレンシアガ ブランド服 コピー vogvip.com/brand-13-c0.html バレンシアガスニーカー ブランドコピー</textarea>
 	</th>
 </tr><tr>
-	<th>�Q�Ɛ�</th>
+	<th>参照先</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>�폜�L�[</th>
+	<th>削除キー</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(�p������8�����ȓ�) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> �N�b�L�[�ۑ�
+		(英数字で8文字以内) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> クッキー保存
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>�摜�F��</th>
+	<th>画像認証</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		�i�E�摜�̐�������́j <img src="./captcha.cgi?f2fa967e9fc0cd79acf485beb738a9c3834c" class="capt" alt="���e�L�[" />
+		（右画像の数字を入力） <img src="captcha@f2fa967e9fc0cd79acf485beb738a9c3834c.cgi" class="capt" alt="投稿キー" />
 		<input type="hidden" name="str_crypt" value="f2fa967e9fc0cd79acf485beb738a9c3834c" />
 	</td>
 <!-- captcha_end -->
@@ -90,63 +90,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>439</b>] <strong>����g���p�ɑI�񂾃��C���B�g��</strong>
-	���e�ҁF<b>������</b> ���e���F2026/05/13(Wed) 18:53 &nbsp; [<a href="./light.cgi?res=439">�ԐM</a>]
-	<div class="com">���p�i�Ƃ��ĂȂ�A�K���������K�i�ɂ������Ȃ��Ă��������ȂƎv���Ă��܂��B<br />Totecopy�Ŕ��������C���B�g���̃o�b�O�͑z���ȏ�ɍ�肪�ǂ��A�J�̓��◷�s�p�Ƃ��ċC�y�Ɏg���Ă��܂��B<br />�Q�l�܂łɁB<br /><a href="https://www.totecopy.com/copyn-20-b0.html" target="_blank">https://www.totecopy.com/copyn-20-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
+	[<b>439</b>] <strong>日常使い用に選んだルイヴィトン</strong>
+	投稿者：<b>たしろ</b> 投稿日：2026/05/13(Wed) 18:53 &nbsp; [<a href="light@res_439.cgi">返信</a>]
+	<div class="com">実用品としてなら、必ずしも正規品にこだわらなくてもいいかなと思っています。<br />Totecopyで買ったルイヴィトンのバッグは想像以上に作りが良く、雨の日や旅行用として気楽に使えています。<br />参考までに。<br /><a href="https://www.totecopy.com/copyn-20-b0.html" target="_blank">https://www.totecopy.com/copyn-20-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
 </div>
 
 <div class="art">
 	[<b>438</b>] <strong>lsm99</strong>
-	���e�ҁF<b><a href="mailto:lsm99dna.service@gmail.com">lsm99</a></b> ���e���F2026/05/04(Mon) 06:28 &nbsp; [<a href="./light.cgi?res=438">�ԐM</a>]
-	<div class="com">[�g�b�v�ɖ߂�] [�X���b�h�\��] [�g�s�b�N�\��] [�A���o��] [���ӎ���] [���[�h����] [�Ǘ��p]<p class="url"><a href="https://lsm999dna.online" target="_blank">https://lsm999dna.online</a></p></div>
+	投稿者：<b><a href="mailto:lsm99dna.service@gmail.com">lsm99</a></b> 投稿日：2026/05/04(Mon) 06:28 &nbsp; [<a href="light@res_438.cgi">返信</a>]
+	<div class="com">[トップに戻る] [スレッド表示] [トピック表示] [アルバム] [留意事項] [ワード検索] [管理用]<p class="url"><a href="https://lsm999dna.online" target="_blank">https://lsm999dna.online</a></p></div>
 </div>
 
 <div class="art">
-	[<b>437</b>] <strong>�r�r�R�s�[ N���i�������߁I</strong>
-	���e�ҁF<b>BiBicopy</b> ���e���F2026/04/23(Thu) 18:41 &nbsp; [<a href="./light.cgi?res=437">�ԐM</a>]
-	<div class="com">BiBicopy(�r�r�R�s�[) �̓X�[�p�[�R�s�[�D�ǃT�C�g�����L���O NO.1�A2026�N�V��̃u�����h�R�s�[N���i�������߁A�ő勉�n�C�u�����h�U���������R�~�ʔ́A���������A�i���ۏ؁I   <a href="https://www.bibicopy.net/" target="_blank">https://www.bibicopy.net/</a><p class="url"><a href="https://www.bibicopy.net/" target="_blank">https://www.bibicopy.net/</a></p></div>
+	[<b>437</b>] <strong>ビビコピー N級品おすすめ！</strong>
+	投稿者：<b>BiBicopy</b> 投稿日：2026/04/23(Thu) 18:41 &nbsp; [<a href="light@res_437.cgi">返信</a>]
+	<div class="com">BiBicopy(ビビコピー) はスーパーコピー優良サイトランキング NO.1、2026年新作のブランドコピーN級品おすすめ、最大級ハイブランド偽物激安口コミ通販、送料無料、品質保証！   <a href="https://www.bibicopy.net/" target="_blank">https://www.bibicopy.net/</a><p class="url"><a href="https://www.bibicopy.net/" target="_blank">https://www.bibicopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>436</b>] <strong>���@�V�������R���X�^���^���X�[�p�[�R�s�[</strong>
-	���e�ҁF<b>���@�V�������R���X�^���^���X�[�p�[�R�s�[</b> ���e���F2026/04/09(Thu) 18:58 &nbsp; [<a href="./light.cgi?res=436">�ԐM</a>]
-	<div class="com">���@�V�������R���X�^���^���X�[�p�[�R�s�[�����,���@�V�������R���X�^���^�� ���v�R�s�[N���i�������ߗD�ǓX�ujpkopi�v!<br />��l�C���@�V�������R���X�^���^�����v�X�[�p�[�R�s�[ n���i��������S�㕥���ʔ̃T�C�g�ujpkopi�v!���R�~�ō����̃��@�V�������R���X�^���^���X�[�p�[�R�s�[�����ʔ́B��l�C�̃��@�V�������R���X�^���^�����v�R�s�[����W���I�{���Ɠ��l�̑f�ނ����I���A�ו��ɂ킽�蒉���ɍČ����Ă��܂��C�S�������i�ʐ^�ł����@�V�������R���X�^���^��N���i�U���V��͓��{�����ł̑����������ɂȂ�܂��A�i��3�N�ۏ؂ŁB<br /><a href="https://www.jpkopi.net/products/watch/vacheron-constsntin/" target="_blank">https://www.jpkopi.net/products/watch/vacheron-constsntin/</a></div>
+	[<b>436</b>] <strong>ヴァシュロンコンスタンタンスーパーコピー</strong>
+	投稿者：<b>ヴァシュロンコンスタンタンスーパーコピー</b> 投稿日：2026/04/09(Thu) 18:58 &nbsp; [<a href="light@res_436.cgi">返信</a>]
+	<div class="com">ヴァシュロンコンスタンタンスーパーコピー代引き,ヴァシュロンコンスタンタン 時計コピーN級品おすすめ優良店「jpkopi」!<br />大人気ヴァシュロンコンスタンタン時計スーパーコピー n級品代引き安全後払い通販サイト「jpkopi」!口コミ最高級のヴァシュロンコンスタンタンスーパーコピー激安通販。大人気のヴァシュロンコンスタンタン時計コピーが大集合！本物と同様の素材を厳選し、細部にわたり忠実に再現しています，全実物商品写真ですヴァシュロンコンスタンタンN級品偽物新作は日本国内での送料が無料になります、品質3年保証で。<br /><a href="https://www.jpkopi.net/products/watch/vacheron-constsntin/" target="_blank">https://www.jpkopi.net/products/watch/vacheron-constsntin/</a></div>
 </div>
 
 <div class="art">
-	[<b>435</b>] <strong>IWC �X�[�p�[�R�s�[�����</strong>
-	���e�ҁF<b>IWC �X�[�p�[�R�s�[�����</b> ���e���F2026/04/01(Wed) 12:26 &nbsp; [<a href="./light.cgi?res=435">�ԐM</a>]
-	<div class="com">IWC �X�[�p�[�R�s�[�����,IWC ���v�R�s�[N���i�������ߗD�ǓX�ujpkopi�v!<br />��l�CIWC ���v�X�[�p�[�R�s�[ n���i��������S�㕥���ʔ̃T�C�g�ujpkopi�v!���R�~�ō�����IWC�X�[�p�[�R�s�[�����ʔ́B��l�C��IWC���v�R�s�[����W���I�{���Ɠ��l�̑f�ނ����I���A�ו��ɂ킽�蒉���ɍČ����Ă��܂��C�S�������i�ʐ^�ł�iwcN���i�U���V��͓��{�����ł̑����������ɂȂ�܂��A�i��3�N�ۏ؂ŁB<br /><a href="https://www.jpkopi.net/products/watch/iwc/" target="_blank">https://www.jpkopi.net/products/watch/iwc/</a></div>
+	[<b>435</b>] <strong>IWC スーパーコピー代引き</strong>
+	投稿者：<b>IWC スーパーコピー代引き</b> 投稿日：2026/04/01(Wed) 12:26 &nbsp; [<a href="light@res_435.cgi">返信</a>]
+	<div class="com">IWC スーパーコピー代引き,IWC 時計コピーN級品おすすめ優良店「jpkopi」!<br />大人気IWC 時計スーパーコピー n級品代引き安全後払い通販サイト「jpkopi」!口コミ最高級のIWCスーパーコピー激安通販。大人気のIWC時計コピーが大集合！本物と同様の素材を厳選し、細部にわたり忠実に再現しています，全実物商品写真ですiwcN級品偽物新作は日本国内での送料が無料になります、品質3年保証で。<br /><a href="https://www.jpkopi.net/products/watch/iwc/" target="_blank">https://www.jpkopi.net/products/watch/iwc/</a></div>
 </div>
 
 <div class="art">
-	[<b>434</b>] <strong>FENDI�U���u�����h vogvip.com/brand-10-c0.html �t�F���f�B�X�[�p�[�R�s�[ ���</strong>
-	���e�ҁF<b>�t�F���f�B�X�[�p�[�R�s�[ ����</b> ���e���F2026/03/25(Wed) 02:21 &nbsp; [<a href="./light.cgi?res=434">�ԐM</a>]
-	<div class="com">2026�t�ċG���l�C �t�F���f�B FENDI�R�s�[�u�����h WTFEN018 �p�[�J�[ �����Ƃ������l�C���ւ� �W���P�b�g�̃t�����g�ɂ̓A�V�����g���[�ȃW�b�v���̗p���A�`���I�ȑΏ̔��w��ł��j��A�s㱂̃t�@�b�V�����ԓx��\�����Ă��܂��BFENDI�U���u�����h vogvip.com/brand-10-c0.html �t�F���f�B�X�[�p�[�R�s�[ ��� �t�@�X�i�[�̎������\���ŁA�X���[�Y�Ɉ��������āA�S�̂̃f�U�C���Ƀn�[�h�ȍH�ƕ����v���X���܂��B����ɉ����āA���ɂ�FENDI ��Ԃ�logo �̗v�f���U��΂߂��Ă��܂��B�X�[�p�[�R�s�[ vogvip.com VOG�X�[�p�[�R�s�[ ������logo �͓Ɠ��ȕ��@�ŕ\������A�h�J�H�|���̗p������A�v�����g�f�U�C�����̗p�����肵�āA�u�����h�̃A�C�f���e�B�e�B����������Ɠ����ɁA�W���P�b�g�Ƀt�@�b�V���i�u���ȃ|�C���g���v���X���܂��B<br />�{���i�����@�@�i�s�� [�L�����y��] �S�X���i20%����<br />���i�ԍ��Fvogvip2026WT-FEN018<br />�݌ɏ󋵁F 50 ������i�F18800�~<br />���i�u�����h�F�t�F���f�B FENDI<br />�o�i���ԁF2026-03-17 ���i�J�e�S���F�W���P�b�g �p�[�J�[ �Z�[�^�[ �R�[�g<br />�t�F���f�B�X�[�p�[�R�s�[ ���� vogvip.com/goods-41324.html �t�F���f�B�u�����h �R�s�[</div>
+	[<b>434</b>] <strong>FENDI偽物ブランド vogvip.com/brand-10-c0.html フェンディスーパーコピー 代引</strong>
+	投稿者：<b>フェンディスーパーコピー 激安</b> 投稿日：2026/03/25(Wed) 02:21 &nbsp; [<a href="light@res_434.cgi">返信</a>]
+	<div class="com">2026春夏季超人気 フェンディ FENDIコピーブランド WTFEN018 パーカー もっとも高い人気を誇る ジャケットのフロントにはアシンメトリーなジップを採用し、伝統的な対称美学を打ち破り、不羈のファッション態度を表現しています。FENDI偽物ブランド vogvip.com/brand-10-c0.html フェンディスーパーコピー 代引 ファスナーの質感が十分で、スムーズに引っ張って、全体のデザインにハードな工業風をプラスします。それに加えて、服にはFENDI 定番のlogo の要素が散りばめられています。スーパーコピー vogvip.com VOGスーパーコピー これらのlogo は独特な方法で表現され、刺繍工芸を採用したり、プリントデザインを採用したりして、ブランドのアイデンティティを強調すると同時に、ジャケットにファッショナブルなポイントをプラスします。<br />本商品只今　　進行中 [キャンペン] 全店商品20%割引<br />商品番号：vogvip2026WT-FEN018<br />在庫状況： 50 会員価格：18800円<br />商品ブランド：フェンディ FENDI<br />出品時間：2026-03-17 商品カテゴリ：ジャケット パーカー セーター コート<br />フェンディスーパーコピー 激安 vogvip.com/goods-41324.html フェンディブランド コピー</div>
 </div>
 
 <div class="art">
-	[<b>433</b>] <strong>���l�� �R�s�[ �D�ǓX</strong>
-	���e�ҁF<b>�V���l�� �R�s�[�l�C</b> ���e���F2026/03/03(Tue) 10:23 &nbsp; [<a href="./light.cgi?res=433">�ԐM</a>]
-	<div class="com">2026�N �V�� ��l�C �ō������N  www.saikopi.com/products/5025.html �V���l�� �R�s�[ �D�ǓX<br />���i�͂���Ă��܂����i���ƒቿ�i�Œ񋟁C100%�i���ۏ�  www.saikopi.com/brand/chanel/ �V���l�� �R�s�[�l�C <br />���M�p���A�ǂ��i���A�ቿ�i�́B�L��ȋq�����}���Ĕ����܂��I<br />�����������i���{�S��) �����������҂��Ă��܂�!  www.saikopi.com/chanelbag/ �V���l�� �o�b�O �X�[�p�[�R�s�[<br />�� �Ŋւ̖v�����鏤�i�͍ēx�����ɂ��Ĕ������܂� <a href="https://www.saikopi.com/" target="_blank">https://www.saikopi.com/</a>  �V���l�� �R�s�[ �㕥��</div>
+	[<b>433</b>] <strong>ャネル コピー 優良店</strong>
+	投稿者：<b>シャネル コピー人気</b> 投稿日：2026/03/03(Tue) 10:23 &nbsp; [<a href="light@res_433.cgi">返信</a>]
+	<div class="com">2026年 新作 大人気 最高ランク  www.saikopi.com/products/5025.html シャネル コピー 優良店<br />製品はされています高品質と低価格で提供，100%品質保証  www.saikopi.com/brand/chanel/ シャネル コピー人気 <br />★信用第一、良い品質、低価格は。広大な客を歓迎して買います！<br />★送料無料（日本全国) ご注文を期待しています!  www.saikopi.com/chanelbag/ シャネル バッグ スーパーコピー<br />★ 税関の没収する商品は再度無料にして発送します <a href="https://www.saikopi.com/" target="_blank">https://www.saikopi.com/</a>  シャネル コピー 後払い</div>
 </div>
 
 <div class="art">
 	[<b>432</b>] <strong>Re:[400] adult social</strong>
-	���e�ҁF<b><a href="mailto:elowen.morrison@gmail.com">Elowen</a></b> ���e���F2026/03/03(Tue) 00:49 &nbsp; [<a href="./light.cgi?res=432">�ԐM</a>]
-	<div class="com">RICS���O�C���ɂ�����ł����H�܂��́ARICS�A�J�E���g�ɐv�������S�ɃA�N�Z�X������@�������炸���Y�݂ł����HUNICCM�ł́A���O�C���葱�������M�������Đi�߂���悤�A��I�ȃX�e�b�v�o�C�X�e�b�v�̃K�C�h��񋟂��Ă��܂��B<br /><br />RICS���O�C���������I�Ɋ���������@���m�F���A������UNICCM�ƂƂ��ɁA���Ȃ��̃v���t�F�b�V���i���ȃL�����A�Ǘ��̎��̈���𓥂ݏo���܂��傤�B</div>
+	投稿者：<b><a href="mailto:elowen.morrison@gmail.com">Elowen</a></b> 投稿日：2026/03/03(Tue) 00:49 &nbsp; [<a href="light@res_432.cgi">返信</a>]
+	<div class="com">RICSログインにお困りですか？または、RICSアカウントに迅速かつ安全にアクセスする方法が分からずお悩みですか？UNICCMでは、ログイン手続きを自信を持って進められるよう、包括的なステップバイステップのガイドを提供しています。<br /><br />RICSログインを効率的に完了する方法を確認し、今すぐUNICCMとともに、あなたのプロフェッショナルなキャリア管理の次の一歩を踏み出しましょう。</div>
 </div>
 
 <div class="art">
-	[<b>431</b>] <strong>���G�x �R�s�[</strong>
-	���e�ҁF<b>aaa</b> ���e���F2026/02/09(Mon) 17:42 &nbsp; [<a href="./light.cgi?res=431">�ԐM</a>]
-	<div class="com">���G�x�����x�̍�������N���i�Ƃ������t���b��ɏ�邱�Ƃ����邪�A����͒��ړx�̗��Ԃ��ɂ����Ȃ��B�{����N���i�ł͂Ȃ����K�i�����炱���A�f�ނ�D���̍��͖��m�ŁA���̉��l�͒��p����قǂɎ����ł���B���i�т���������ƌ����Ĉ����ł͂Ȃ����A�����x�Ƒϋv�����l������΁A�����ڂŌ��Č����Ɗ�����l���������낤�B�ׂ����C���̈ꕔ�Ƀu���[���������ނ��ƂŁA�S�̂Ɍy�₩�ŗ����̂����ۂ��v���X���Ă���B<br /><br /><a href="https://www.aaakopi.com/brand-82-c0.html" target="_blank">https://www.aaakopi.com/brand-82-c0.html</a> ���G�x �R�s�[<br />www.levelkopi.jp/b-kopi_burberry.html �o�[�o���[ �R�s�[ ����<br />www.forkopi.jp/brand/cartier-copy/  �J���e�B�G �R�s�[<br />aaakopiobserve.yoka-yoka.jp/<p class="url"><a href="https://www.aaakopi.com/brand-82-c0.html" target="_blank">https://www.aaakopi.com/brand-82-c0.html</a></p></div>
+	[<b>431</b>] <strong>ロエベ コピー</strong>
+	投稿者：<b>aaa</b> 投稿日：2026/02/09(Mon) 17:42 &nbsp; [<a href="light@res_431.cgi">返信</a>]
+	<div class="com">ロエベ完成度の高さからN級品という言葉が話題に上ることもあるが、それは注目度の裏返しにすぎない。本来のN級品ではない正規品だからこそ、素材や縫製の差は明確で、その価値は着用するほどに実感できる。価格帯だけを見ると決して安価ではないが、完成度と耐久性を考慮すれば、長い目で見て激安と感じる人も多いだろう。細いラインの一部にブルーを差し込むことで、全体に軽やかで涼感のある印象をプラスしている。<br /><br /><a href="https://www.aaakopi.com/brand-82-c0.html" target="_blank">https://www.aaakopi.com/brand-82-c0.html</a> ロエベ コピー<br />www.levelkopi.jp/b-kopi_burberry.html バーバリー コピー 激安<br />www.forkopi.jp/brand/cartier-copy/  カルティエ コピー<br />aaakopiobserve.yoka-yoka.jp/<p class="url"><a href="https://www.aaakopi.com/brand-82-c0.html" target="_blank">https://www.aaakopi.com/brand-82-c0.html</a></p></div>
 </div>
 
 <div class="art">
-	[<b>430</b>] <strong>����g���p�ɑI�񂾃��C���B�g��</strong>
-	���e�ҁF<b>������</b> ���e���F2026/01/27(Tue) 18:08 &nbsp; [<a href="./light.cgi?res=430">�ԐM</a>]
-	<div class="com">���p�i�Ƃ��ĂȂ�A�K���������K�i�ɂ������Ȃ��Ă��������ȂƎv���Ă��܂��B<br />Totecopy�Ŕ��������C���B�g���̃o�b�O�͑z���ȏ�ɍ�肪�ǂ��A�J�̓��◷�s�p�Ƃ��ċC�y�Ɏg���Ă��܂��B<br />�Q�l�܂łɁB<br /><a href="https://www.totecopy.com/copyn-20-b0.html" target="_blank">https://www.totecopy.com/copyn-20-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
+	[<b>430</b>] <strong>日常使い用に選んだルイヴィトン</strong>
+	投稿者：<b>たくみ</b> 投稿日：2026/01/27(Tue) 18:08 &nbsp; [<a href="light@res_430.cgi">返信</a>]
+	<div class="com">実用品としてなら、必ずしも正規品にこだわらなくてもいいかなと思っています。<br />Totecopyで買ったルイヴィトンのバッグは想像以上に作りが良く、雨の日や旅行用として気楽に使えています。<br />参考までに。<br /><a href="https://www.totecopy.com/copyn-20-b0.html" target="_blank">https://www.totecopy.com/copyn-20-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
 </div>
 
 
@@ -154,24 +154,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-�L��No<input type="text" name="num" size="3" />
-�폜�L�[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="�폜" />
+記事No<input type="text" name="num" size="3" />
+削除キー<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="削除" />
 </form>
 </div>
 

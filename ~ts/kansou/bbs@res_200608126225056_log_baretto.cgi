@@ -358,7 +358,7 @@ link<input type=checkbox name="link" value="1" checked>
 　ドレッドノートさんを書くのに苦労されたのかな、と見受けられました。ＲＰＧのボスというのはなんらかの主張を持っててくれないと戦いにくいと思うのですが、んー遊びでなんとなくというのも一つの理由ではあるのだろうけれども。<br>
 <br>
 　楽しく読ませて頂きました。舞とルアに楽しい学校生活が待っていますように。</font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 

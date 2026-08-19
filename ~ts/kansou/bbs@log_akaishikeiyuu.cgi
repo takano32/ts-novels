@@ -166,7 +166,7 @@ link<input type=checkbox name="link" value="1" checked>
 　もちろんカヤちゃんも可愛いし、ヌシ様の前の耀くんも可愛いのですけれどもね。<br>
 <br>
 　それでは。</font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 

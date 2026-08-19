@@ -114,7 +114,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 　というわけでミキちゃんの次の活躍にも期待期待。って、お暇になってからで良いですよ？<br>
 </font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 

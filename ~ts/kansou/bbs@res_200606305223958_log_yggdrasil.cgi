@@ -131,7 +131,7 @@ link<input type=checkbox name="link" value="1" checked>
 　……しなかったりして？　それは、あまりにも悲しいかも。<br>
 <br>
 　ゆっくりと、楽しみに次回を待たせていただきます。</font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 
@@ -250,7 +250,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 <font color="#ff88cc">＞最後の一行</font><br>
 　次回がまた今から楽しみです。執筆頑張ってくださいませ。</font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 

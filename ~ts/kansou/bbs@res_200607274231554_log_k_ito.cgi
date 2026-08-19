@@ -279,10 +279,10 @@ link<input type=checkbox name="link" value="1" checked>
 ま、シロートの曲だからあんまり期待しないで欲しいんですが。<br>
 「テーマソング『ＦＵＬＬ　ＡＸＥＬ』　一応　Ｋ．伊藤さん公認です。」<br>
 <br>
-<a href=http://kirika.novels.name/wiki/?%A5%C8%A5%EC%A5%A4%A5%EB%2F%B2%BB%B3%DA%C8%A2 target=_top>http://kirika.novels.name/wiki/?%A5%C8%A5%EC%A5%A4%A5%EB%2F%B2%BB%B3%DA%C8%A2</a><br>
+<a href=../../kirika.novels.name/wiki/index@A5C8A5ECA5A4A5EB2FB2BBB3DAC8A2.html target=_top>../../kirika.novels.name/wiki/index@A5C8A5ECA5A4A5EB2FB2BBB3DAC8A2.html</a><br>
 に掲示してみました。　もしよろしければ皆様お試しください。<br>
 </font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 

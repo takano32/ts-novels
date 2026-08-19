@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html lang="ja">
 <head>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=Shift_JIS">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <META HTTP-EQUIV="Content-Style-Type" content="text/css">
 <META HTTP-EQUIV="Content-Script-Type" content="text/javascript">
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
@@ -12,7 +12,7 @@
 <!--
 body,tr,td,th {
 	font-size:x-small;
-	font-family:"MS UI Gothic","‚l‚r ‚oƒSƒVƒbƒN",Osaka;
+	font-family:"MS UI Gothic","ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯",Osaka;
 }
 .num { font-family:Verdana,Helvetica,Arial; }
 .l { background-color: #666666; color: #ffffff; }
@@ -30,24 +30,24 @@ document.write(fcheck.arguments[1] + fcheck.arguments[2] + fcheck.arguments[0] +
 }
 // -->
 </script>
-<title>‹i’ƒwƒuƒ‹[ƒRƒXƒ‚ƒXx</title></head>
+<title>å–«èŒ¶ã€Žãƒ–ãƒ«ãƒ¼ã‚³ã‚¹ãƒ¢ã‚¹ã€</title></head>
 <body bgcolor="#F5F5F5" text="#000000" link="#0000FF" vlink="#800080" alink="#FF0000">
-<form action="./light.cgi">
-<input type=submit value="ŒfŽ¦”Â‚É–ß‚é"></form>
+<form action="light.cgi">
+<input type=submit value="æŽ²ç¤ºæ¿ã«æˆ»ã‚‹"></form>
 <ul>
-<li>ŒŸõ‚µ‚½‚¢<b>ƒL[ƒ[ƒh</b>‚ð“ü—Í‚µAuðŒvu•\Ž¦v‚ð‘I‘ð‚µ‚ÄuŒŸõvƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Ä‰º‚³‚¢B
-<li>ƒL[ƒ[ƒh‚Í”¼ŠpƒXƒy[ƒX‚Å‹æØ‚Á‚Ä•¡”Žw’è‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+<li>æ¤œç´¢ã—ãŸã„<b>ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰</b>ã‚’å…¥åŠ›ã—ã€ã€Œæ¡ä»¶ã€ã€Œè¡¨ç¤ºã€ã‚’é¸æŠžã—ã¦ã€Œæ¤œç´¢ã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ä¸‹ã•ã„ã€‚
+<li>ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã¯åŠè§’ã‚¹ãƒšãƒ¼ã‚¹ã§åŒºåˆ‡ã£ã¦è¤‡æ•°æŒ‡å®šã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
 </ul>
 <table><tr>
-<td><form action="./light.cgi" method="POST">
+<td><form action="light.cgi" method="POST">
 <input type=hidden name=mode value="find">
-ƒL[ƒ[ƒh <input type=text name=word size=35 value=""> ðŒ <select name=cond> &nbsp; <option value="AND" selected>AND
+ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ <input type=text name=word size=35 value=""> æ¡ä»¶ <select name=cond> &nbsp; <option value="AND" selected>AND
 <option value="OR">OR
-</select> •\Ž¦ <select name=view>
-<option value="10" selected>10Œ
-<option value="15">15Œ
-<option value="20">20Œ
-<option value="25">25Œ
-<option value="30">30Œ
-</select> <input type=submit value=' ŒŸõ '></td></form></tr></table>
+</select> è¡¨ç¤º <select name=view>
+<option value="10" selected>10ä»¶
+<option value="15">15ä»¶
+<option value="20">20ä»¶
+<option value="25">25ä»¶
+<option value="30">30ä»¶
+</select> <input type=submit value=' æ¤œç´¢ '></td></form></tr></table>
 </body></html>

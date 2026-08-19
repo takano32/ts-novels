@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,60 +13,60 @@ function popup(url) {
 }
 // -->
 </script>
-<title>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</title>
+<title>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</h1>
+<h1>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">ѓgѓbѓv‚Й–Я‚й</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">—Ї€УЋ–ЌЂ</a>]
-[<a href="./light.cgi?mode=find">ѓЏЃ[ѓhЊџЌх</a>]
+[<a href="../../index.html" target="_top">гѓ€гѓѓгѓ—гЃ«ж€»г‚‹</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">з•™ж„Џдє‹й …</a>]
+[<a href="light@mode_find.cgi">гѓЇгѓјгѓ‰ж¤њзґў</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">‰Я‹ЋѓЌѓO</a>]
+[<a href="light@mode_past.cgi">йЃЋеЋ»гѓ­г‚°</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">ЉЗ—ќ—p</a>]
+[<a href="admin.cgi">з®Ўзђ†з”Ё</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>‚Ё‚И‚Ь‚¦</th>
+	<th>гЃЉгЃЄгЃѕгЃ€</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>‚dѓЃЃ[ѓ‹</th>
+	<th>пјҐгѓЎгѓјгѓ«</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>ѓ^ѓCѓgѓ‹</th>
+	<th>г‚їг‚¤гѓ€гѓ«</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[395] ѓЌѓЊѓbѓNѓXЋћЊvѓRѓsЃ[‘г€ш‚«" />
-    	<input type="submit" value="‘—ђM‚·‚й" /><input type="reset" value="ѓЉѓZѓbѓg" />
+    	<input type="text" name="sub" size="36" value="Re:[395] гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€г‚ігѓ”гѓјд»Јеј•гЃЌ" />
+    	<input type="submit" value="йЂЃдїЎгЃ™г‚‹" /><input type="reset" value="гѓЄг‚»гѓѓгѓ€" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	ѓЃѓbѓZЃ[ѓW<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ѓЌѓЊѓbѓNѓXЋћЊvѓRѓsЃ[‘г€ш‚«ЃCѓЌѓЊѓbѓNѓX ѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‹U•Ё’К”Мђк–е“XЃujpkopiЃv!
-&gt; ѓЌѓЊѓbѓNѓXЋћЊv ѓXЃ[ѓpЃ[ѓRѓsЃ[ N‹‰•i€А‘SЊг•Ґ‚ў‚Ё‚·‚·‚Я’К”МЃujpkopiЃv!“–“X‚Нђl‹C‚ЄЌ‚‚ўѓЌѓЊѓbѓNѓX ЋћЊvѓRѓsЃ[‚Є‘еЏWЌ‡ЃCЌЕЌ‚‹‰‚МN•iѓЌѓЊѓbѓNѓX ѓfѓCѓgѓi ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓfѓCѓgѓWѓѓѓXѓg ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓTѓuѓ}ѓЉЃ[ѓiЃ[ ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓ€ѓbѓgѓ}ѓXѓ^Ѓ[ ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓfѓCѓfѓCѓg ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX gmtѓ}ѓXѓ^Ѓ[2ѓRѓsЃ[‚И‚ЗRolexѓXЃ[ѓpЃ[ѓRѓsЃ[‚МrЋћЊvЋж€µ‚Б‚Д‚ў‚Ь‚·ЃBѓЌѓЊѓbѓNѓX‹U•ЁN‹‰•i‘SЌ‘‘——ї–і—їЃA•iЋї3”N•ЫЏШ‚ЕЃA‘SЋА•ЁЏ¤•iЋКђ^‚Е‚·ЃB
+    	гѓЎгѓѓг‚»гѓјг‚ё<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€г‚ігѓ”гѓјд»Јеј•гЃЌпјЊгѓ­гѓ¬гѓѓг‚Їг‚№ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃеЃЅз‰©йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!
+&gt; гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј Nзґље“Ѓе®‰е…ЁеѕЊж‰•гЃ„гЃЉгЃ™гЃ™г‚ЃйЂљиІ©гЂЊjpkopiгЂЌ!еЅ“еє—гЃЇдєєж°—гЃЊй«гЃ„гѓ­гѓ¬гѓѓг‚Їг‚№ ж™‚иЁ€г‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЊжњЂй«зґљгЃ®Nе“Ѓгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ€гѓЉ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ€г‚ёгѓЈг‚№гѓ€ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ г‚µгѓ–гѓћгѓЄгѓјгѓЉгѓј г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓЁгѓѓгѓ€гѓћг‚№г‚їгѓј г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ‡г‚¤гѓ€ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ gmtгѓћг‚№г‚їгѓј2г‚ігѓ”гѓјгЃЄгЃ©Rolexг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгЃ®и…•ж™‚иЁ€еЏ–ж‰±гЃЈгЃ¦гЃ„гЃѕгЃ™гЂ‚гѓ­гѓ¬гѓѓг‚Їг‚№еЃЅз‰©Nзґље“Ѓе…Ёе›ЅйЂЃж–™з„Ўж–™гЂЃе“ЃиіЄ3е№ґдїќиЁјгЃ§гЂЃе…Ёе®џз‰©е•†е“Ѓе†™зњџгЃ§гЃ™гЂ‚
 &gt; https://www.jpkopi.net/products/watch/rolex/</textarea>
 	</th>
 </tr><tr>
-	<th>ЋQЏЖђж</th>
+	<th>еЏ‚з…§е…€</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>ЌнЏњѓLЃ[</th>
+	<th>е‰Љй™¤г‚­гѓј</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(‰pђ”Ћљ‚Е8•¶Ћљ€И“а) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> ѓNѓbѓLЃ[•Ы‘¶
+		(и‹±ж•°е­—гЃ§8ж–‡е­—д»Ґе†…) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> г‚Їгѓѓг‚­гѓјдїќе­
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>‰ж‘њ”FЏШ</th>
+	<th>з”»еѓЏиЄЌиЁј</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		Ѓi‰E‰ж‘њ‚Мђ”Ћљ‚р“ь—НЃj <img src="./captcha.cgi?f9f9937f9ec2ce7bacf484beb83baaca8c47" class="capt" alt="“ЉЌeѓLЃ[" />
+		пј€еЏіз”»еѓЏгЃ®ж•°е­—г‚’е…ҐеЉ›пј‰ <img src="captcha@f9f9937f9ec2ce7bacf484beb83baaca8c47.cgi" class="capt" alt="жЉ•зЁїг‚­гѓј" />
 		<input type="hidden" name="str_crypt" value="f9f9937f9ec2ce7bacf484beb83baaca8c47" />
 	</td>
 <!-- captcha_end -->
@@ -77,63 +77,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>428</b>] <strong>ѓGѓ‹ѓЃѓX ѓoѓbѓO ѓRѓsЃ[‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓGѓ‹ѓЃѓX ѓoѓbѓO ѓRѓsЃ[‘г€ш‚«</b> “ЉЌe“ъЃF2025/12/23(Tue) 17:18 &nbsp; [<a href="./light.cgi?res=428">•ФђM</a>]
-	<div class="com">ѓGѓ‹ѓЃѓX ѓoѓbѓO ѓRѓsЃ[‘г€ш‚«ЃCѓGѓ‹ѓЃѓXѓoЃ[ѓLѓ“ ‹U•ЁЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />ѓGѓ‹ѓЃѓX ѓoѓbѓO ѓXЃ[ѓpЃ[ѓRѓsЃ[‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚Мѓ”ѓ@ѓЊѓ“ѓeѓBѓmѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO N‹‰•i‚НЌD•]”М”„’†ЃCђl‹C‚ЄЌ‚‚ўѓGѓ‹ѓЃѓX ѓoЃ[ѓLѓ“ ‹U•ЁЃAѓGѓ‹ѓЃѓX ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃA‘еђl‹CѓGѓ‹ѓЃѓX ѓsѓRѓ^ѓ“ ‹U•ЁЃAѓNѓЌѓRѓ_ѓCѓ‹ ѓqѓ}ѓ‰ѓ„ ‹U•ЁЃAѓЌѓfѓIѓ`ѓѓЃ[ѓЂ ‹U•Ё‚Є‘еЏWЌ‡ЃIЌЕЌ‚•iЋї‚МѓGѓ‹ѓЃѓX ѓKЃ[ѓfѓ“ѓpЃ[ѓeѓBЃAѓoЃ[ѓLѓ“ЃAѓPѓЉЃ[ЃAѓ{ѓЉЃ[ѓhЃAѓGѓ”ѓЉѓ“‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃB<br /><a href="https://www.jpkopi.net/products/bag/hermesbag/" target="_blank">https://www.jpkopi.net/products/bag/hermesbag/</a></div>
+	[<b>428</b>] <strong>г‚Ёгѓ«гѓЎг‚№ гѓђгѓѓг‚° г‚ігѓ”гѓјд»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚Ёгѓ«гѓЎг‚№ гѓђгѓѓг‚° г‚ігѓ”гѓјд»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/12/23(Tue) 17:18 &nbsp; [<a href="light@res_428.cgi">иї”дїЎ</a>]
+	<div class="com">г‚Ёгѓ«гѓЎг‚№ гѓђгѓѓг‚° г‚ігѓ”гѓјд»Јеј•гЃЌпјЊг‚Ёгѓ«гѓЎг‚№гѓђгѓјг‚­гѓі еЃЅз‰©жїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />г‚Ёгѓ«гѓЎг‚№ гѓђгѓѓг‚° г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјд»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®гѓґг‚Ўгѓ¬гѓігѓ†г‚ЈгѓЋг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚° Nзґље“ЃгЃЇеҐЅи©•иІ©еЈІдё­пјЊдєєж°—гЃЊй«гЃ„г‚Ёгѓ«гѓЎг‚№ гѓђгѓјг‚­гѓі еЃЅз‰©гЂЃг‚Ёгѓ«гѓЎг‚№ г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂЃе¤§дєєж°—г‚Ёгѓ«гѓЎг‚№ гѓ”г‚іг‚їгѓі еЃЅз‰©гЂЃг‚Їгѓ­г‚ігѓЂг‚¤гѓ« гѓ’гѓћгѓ©гѓ¤ еЃЅз‰©гЂЃгѓ­гѓ‡г‚ЄгѓЃгѓЈгѓјгѓ  еЃЅз‰©гЃЊе¤§й›†еђ€пјЃжњЂй«е“ЃиіЄгЃ®г‚Ёгѓ«гѓЎг‚№ г‚¬гѓјгѓ‡гѓігѓ‘гѓјгѓ†г‚ЈгЂЃгѓђгѓјг‚­гѓігЂЃг‚±гѓЄгѓјгЂЃгѓњгѓЄгѓјгѓ‰гЂЃг‚ЁгѓґгѓЄгѓігЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚<br /><a href="https://www.jpkopi.net/products/bag/hermesbag/" target="_blank">https://www.jpkopi.net/products/bag/hermesbag/</a></div>
 </div>
 
 <div class="art">
-	[<b>427</b>] <strong>ѓXЃ[ѓpЃ[ѓRѓsЃ[ ђM—p‚Е‚«‚йѓTѓCѓg</strong>
-	“ЉЌeЋТЃF<b>ѓXЃ[ѓpЃ[ѓRѓsЃ[ ђM—p‚Е‚«‚йѓTѓCѓg</b> “ЉЌe“ъЃF2025/12/21(Sun) 16:01 &nbsp; [<a href="./light.cgi?res=427">•ФђM</a>]
-	<div class="com">ѓXЃ[ѓpЃ[ѓRѓsЃ[ ђM—p‚Е‚«‚йѓTѓCѓg,ѓuѓ‰ѓ“ѓhѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‘г‹а€шЉ·—D—ЗѓTѓCѓg!<br />ѓnѓCѓuѓ‰ѓ“ѓh ѓXЃ[ѓpЃ[ѓRѓsЃ[ ‘г€ш‚«ЃEЊг•Ґ‚ўђM—p‚Е‚«‚йN‹‰•iѓTѓCѓgЃujpkopiЃv,ђl‹C‚ЄЌ‚‚ўN‹‰•i‚МЋћЊvЃAѓoѓbѓOЃAЌа•zЃAЊCЃA•ћЃAѓWѓ…ѓGѓЉЃ[‚И‚ЗЃA‘ЅЌК‚ИѓAѓCѓeѓЂ‚Є‘µ‚Б‚Д‚ў‚Ь‚·ЃB‘S‚Д‚Мѓuѓ‰ѓ“ѓhѓRѓsЃ[Џ¤•i‚НЋА•ЁЋКђ^‚Ж100%€к’v‚·‚й‚±‚Ж‚р•ЫЏШ‚µ‚Д‚ў‚Ь‚·•iЋї‚Є Љ®аш‚Е‚·‚µЃA’l’i‚ЄЊѓ€А‚Е‚·!“ъ–{‘SЌ‘‘——ї–і—ї,ЌL‘е‚И‹q‚рЉЅЊ}‚µ‚Д‚ІЊх—ХЃI<br /><a href="https://www.jpkopi.net/" target="_blank">https://www.jpkopi.net/</a></div>
+	[<b>427</b>] <strong>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј дїЎз”ЁгЃ§гЃЌг‚‹г‚µг‚¤гѓ€</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј дїЎз”ЁгЃ§гЃЌг‚‹г‚µг‚¤гѓ€</b> жЉ•зЁїж—Ґпјљ2025/12/21(Sun) 16:01 &nbsp; [<a href="light@res_427.cgi">иї”дїЎ</a>]
+	<div class="com">г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј дїЎз”ЁгЃ§гЃЌг‚‹г‚µг‚¤гѓ€,гѓ–гѓ©гѓігѓ‰г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“Ѓд»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€!<br />гѓЏг‚¤гѓ–гѓ©гѓігѓ‰ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј д»Јеј•гЃЌгѓ»еѕЊж‰•гЃ„дїЎз”ЁгЃ§гЃЌг‚‹Nзґље“Ѓг‚µг‚¤гѓ€гЂЊjpkopiгЂЌ,дєєж°—гЃЊй«гЃ„Nзґље“ЃгЃ®ж™‚иЁ€гЂЃгѓђгѓѓг‚°гЂЃиІЎеёѓгЂЃйќґгЂЃжњЌгЂЃг‚ёгѓҐг‚ЁгѓЄгѓјгЃЄгЃ©гЂЃе¤љеЅ©гЃЄг‚ўг‚¤гѓ†гѓ гЃЊжЏѓгЃЈгЃ¦гЃ„гЃѕгЃ™гЂ‚е…ЁгЃ¦гЃ®гѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓје•†е“ЃгЃЇе®џз‰©е†™зњџгЃЁ100%дёЂи‡ґгЃ™г‚‹гЃ“гЃЁг‚’дїќиЁјгЃ—гЃ¦гЃ„гЃѕгЃ™е“ЃиіЄгЃЊ е®Њз’§гЃ§гЃ™гЃ—гЂЃеЂ¤ж®µгЃЊжїЂе®‰гЃ§гЃ™!ж—Ґжњ¬е…Ёе›ЅйЂЃж–™з„Ўж–™,еєѓе¤§гЃЄе®ўг‚’ж­“иїЋгЃ—гЃ¦гЃ”е…‰и‡ЁпјЃ<br /><a href="https://www.jpkopi.net/" target="_blank">https://www.jpkopi.net/</a></div>
 </div>
 
 <div class="art">
-	[<b>426</b>] <strong>ѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</b> “ЉЌe“ъЃF2025/12/14(Sun) 16:34 &nbsp; [<a href="./light.cgi?res=426">•ФђM</a>]
-	<div class="com">ѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«ЃCѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓoѓbѓO‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />ѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚Мѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO N‹‰•i‚НЌD•]”М”„’†ЃC‘еђl‹Cѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓCѓbѓZѓCѓ~ѓ„ѓPѓoѓbѓO‹U•ЁЃAѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓCѓbѓZѓCѓ~ѓ„ѓPѓgЃ[ѓgѓoѓbѓOЃEѓVѓ‡ѓ‹ѓ_Ѓ[ѓoѓbѓOЃEѓЉѓ…ѓbѓNѓRѓsЃ[‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃBЌЕЌ‚‹‰ѓ”ѓ@ѓЊѓNѓXѓgѓ‰ѓoѓbѓO‘——ї–і—їЃA•iЋї‚ЄЉ®ашЃI<br /><a href="https://www.jpkopi.net/products/bag/valekstrabag/" target="_blank">https://www.jpkopi.net/products/bag/valekstrabag/</a></div>
+	[<b>426</b>] <strong>гѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©г‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©г‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/12/14(Sun) 16:34 &nbsp; [<a href="light@res_426.cgi">иї”дїЎ</a>]
+	<div class="com">гѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©г‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌпјЊгѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©гѓђгѓѓг‚°еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />гѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®гѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©гѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚° Nзґље“ЃгЃЇеҐЅи©•иІ©еЈІдё­пјЊе¤§дєєж°—гѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©г‚¤гѓѓг‚»г‚¤гѓџгѓ¤г‚±гѓђгѓѓг‚°еЃЅз‰©гЂЃгѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©г‚¤гѓѓг‚»г‚¤гѓџгѓ¤г‚±гѓ€гѓјгѓ€гѓђгѓѓг‚°гѓ»г‚·гѓ§гѓ«гѓЂгѓјгѓђгѓѓг‚°гѓ»гѓЄгѓҐгѓѓг‚Їг‚ігѓ”гѓјгЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚жњЂй«зґљгѓґг‚Ўгѓ¬г‚Їг‚№гѓ€гѓ©гѓђгѓѓг‚°йЂЃж–™з„Ўж–™гЂЃе“ЃиіЄгЃЊе®Њз’§пјЃ<br /><a href="https://www.jpkopi.net/products/bag/valekstrabag/" target="_blank">https://www.jpkopi.net/products/bag/valekstrabag/</a></div>
 </div>
 
 <div class="art">
-	[<b>425</b>] <strong>the rowѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>the rowѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</b> “ЉЌe“ъЃF2025/12/10(Wed) 17:58 &nbsp; [<a href="./light.cgi?res=425">•ФђM</a>]
-	<div class="com">the rowѓRѓsЃ[ѓoѓbѓO‘г€ш‚«ЃCѓUѓЌѓEѓoѓbѓO‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />the rowѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚Мthe rowѓUѓЌѓEѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO N‹‰•i‚НЌD•]”М”„’†ЃC‘еђl‹Cthe rowѓCѓbѓZѓCѓ~ѓ„ѓPѓoѓbѓO‹U•ЁЃAthe rowѓCѓbѓZѓCѓ~ѓ„ѓPѓgЃ[ѓgѓoѓbѓOЃEѓVѓ‡ѓ‹ѓ_Ѓ[ѓoѓbѓOЃEѓЉѓ…ѓbѓNѓRѓsЃ[‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃBЌЕЌ‚‹‰the rowѓoѓbѓO‘——ї–і—їЃA•iЋї‚ЄЉ®ашЃI<br /><a href="https://www.jpkopi.net/products/bag/therowbag/" target="_blank">https://www.jpkopi.net/products/bag/therowbag/</a></div>
+	[<b>425</b>] <strong>the rowг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>the rowг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/12/10(Wed) 17:58 &nbsp; [<a href="light@res_425.cgi">иї”дїЎ</a>]
+	<div class="com">the rowг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌпјЊг‚¶гѓ­г‚¦гѓђгѓѓг‚°еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />the rowг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®the rowг‚¶гѓ­г‚¦г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚° Nзґље“ЃгЃЇеҐЅи©•иІ©еЈІдё­пјЊе¤§дєєж°—the rowг‚¤гѓѓг‚»г‚¤гѓџгѓ¤г‚±гѓђгѓѓг‚°еЃЅз‰©гЂЃthe rowг‚¤гѓѓг‚»г‚¤гѓџгѓ¤г‚±гѓ€гѓјгѓ€гѓђгѓѓг‚°гѓ»г‚·гѓ§гѓ«гѓЂгѓјгѓђгѓѓг‚°гѓ»гѓЄгѓҐгѓѓг‚Їг‚ігѓ”гѓјгЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚жњЂй«зґљthe rowгѓђгѓѓг‚°йЂЃж–™з„Ўж–™гЂЃе“ЃиіЄгЃЊе®Њз’§пјЃ<br /><a href="https://www.jpkopi.net/products/bag/therowbag/" target="_blank">https://www.jpkopi.net/products/bag/therowbag/</a></div>
 </div>
 
 <div class="art">
 	[<b>424</b>] <strong>lsm99</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:mybacc.service@gmail.com">lsm99</a></b> “ЉЌe“ъЃF2025/12/05(Fri) 03:05 &nbsp; [<a href="./light.cgi?res=424">•ФђM</a>]
-	<div class="com">ѓVѓѓѓlѓ‹ ѓRѓsЃ[ ѓ{ѓgѓЂѓX‘г€ш‚«ЃCѓVѓѓѓlѓ‹ ‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />ѓVѓѓѓlѓ‹ ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓ{ѓgѓЂѓX‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚МѓVѓѓѓlѓ‹ ѓ{ѓgѓЂѓX‹U•Ё N‹‰•i‹U•Ё‚Є‘еЏWЌ‡‚НЌD•]”М”„’†ЃC ЌЕЌ‚•iЋї‚М&amp;#8203;ѓVѓѓѓlѓ‹ ѓVѓ‡Ѓ[ѓc ѓRѓsЃ[ЃAѓVѓѓѓlѓ‹ѓWЃ[ѓ“ѓY‹U•Ё‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃC–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!<p class="url"><a href="https://lsmonesports.net" target="_blank">https://lsmonesports.net</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:mybacc.service@gmail.com">lsm99</a></b> жЉ•зЁїж—Ґпјљ2025/12/05(Fri) 03:05 &nbsp; [<a href="light@res_424.cgi">иї”дїЎ</a>]
+	<div class="com">г‚·гѓЈгѓЌгѓ« г‚ігѓ”гѓј гѓњгѓ€гѓ г‚№д»Јеј•гЃЌпјЊг‚·гѓЈгѓЌгѓ« еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />г‚·гѓЈгѓЌгѓ« г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓњгѓ€гѓ г‚№д»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®г‚·гѓЈгѓЌгѓ« гѓњгѓ€гѓ г‚№еЃЅз‰© Nзґље“ЃеЃЅз‰©гЃЊе¤§й›†еђ€гЃЇеҐЅи©•иІ©еЈІдё­пјЊ жњЂй«е“ЃиіЄгЃ®&amp;#8203;г‚·гѓЈгѓЌгѓ« г‚·гѓ§гѓјгѓ„ г‚ігѓ”гѓјгЂЃг‚·гѓЈгѓЌгѓ«г‚ёгѓјгѓіг‚єеЃЅз‰©гЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™пјЊжњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!<p class="url"><a href="https://lsmonesports.net" target="_blank">https://lsmonesports.net</a></p></div>
 </div>
 
 <div class="art">
-	[<b>423</b>] <strong>ѓVѓѓѓlѓ‹ ѓRѓsЃ[ ѓ{ѓgѓЂѓX‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓVѓѓѓlѓ‹ ѓRѓsЃ[ ѓ{ѓgѓЂѓX‘г€ш‚«</b> “ЉЌe“ъЃF2025/12/04(Thu) 20:09 &nbsp; [<a href="./light.cgi?res=423">•ФђM</a>]
-	<div class="com"> <br />ѓVѓѓѓlѓ‹ ѓRѓsЃ[ ѓ{ѓgѓЂѓX‘г€ш‚«ЃCѓVѓѓѓlѓ‹ ‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />ѓVѓѓѓlѓ‹ ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓ{ѓgѓЂѓX‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚МѓVѓѓѓlѓ‹ ѓ{ѓgѓЂѓX‹U•Ё N‹‰•i‹U•Ё‚Є‘еЏWЌ‡‚НЌD•]”М”„’†ЃC ЌЕЌ‚•iЋї‚М&amp;#8203;ѓVѓѓѓlѓ‹ ѓVѓ‡Ѓ[ѓc ѓRѓsЃ[ЃAѓVѓѓѓlѓ‹ѓWЃ[ѓ“ѓY‹U•Ё‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃC–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!<br /><a href="https://www.jpkopi.net/products/bottoms/chanlebottoms/" target="_blank">https://www.jpkopi.net/products/bottoms/chanlebottoms/</a></div>
+	[<b>423</b>] <strong>г‚·гѓЈгѓЌгѓ« г‚ігѓ”гѓј гѓњгѓ€гѓ г‚№д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚·гѓЈгѓЌгѓ« г‚ігѓ”гѓј гѓњгѓ€гѓ г‚№д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/12/04(Thu) 20:09 &nbsp; [<a href="light@res_423.cgi">иї”дїЎ</a>]
+	<div class="com"> <br />г‚·гѓЈгѓЌгѓ« г‚ігѓ”гѓј гѓњгѓ€гѓ г‚№д»Јеј•гЃЌпјЊг‚·гѓЈгѓЌгѓ« еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />г‚·гѓЈгѓЌгѓ« г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓњгѓ€гѓ г‚№д»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®г‚·гѓЈгѓЌгѓ« гѓњгѓ€гѓ г‚№еЃЅз‰© Nзґље“ЃеЃЅз‰©гЃЊе¤§й›†еђ€гЃЇеҐЅи©•иІ©еЈІдё­пјЊ жњЂй«е“ЃиіЄгЃ®&amp;#8203;г‚·гѓЈгѓЌгѓ« г‚·гѓ§гѓјгѓ„ г‚ігѓ”гѓјгЂЃг‚·гѓЈгѓЌгѓ«г‚ёгѓјгѓіг‚єеЃЅз‰©гЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™пјЊжњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!<br /><a href="https://www.jpkopi.net/products/bottoms/chanlebottoms/" target="_blank">https://www.jpkopi.net/products/bottoms/chanlebottoms/</a></div>
 </div>
 
 <div class="art">
 	[<b>422</b>] <strong>lsm99 login</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:lsm99dna.service@gmail.com">lsm99 login</a></b> “ЉЌe“ъЃF2025/12/04(Thu) 15:24 &nbsp; [<a href="./light.cgi?res=422">•ФђM</a>]
-	<div class="com">ѓrѓWѓlѓXѓXѓ^ѓCѓ‹‚Ж‘g‚ЭЌ‡‚н‚№‚к‚ОЏг•i‚И’†‚Й‚аЊВђ«‚рЉґ‚¶‚і‚№ЃAѓJѓWѓ…ѓAѓ‹‚И‘•‚ў‚Й‚а€УЉO‚И‚Щ‚З‚ж<p class="url"><a href="https://lsm999dna.com/login" target="_blank">https://lsm999dna.com/login</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:lsm99dna.service@gmail.com">lsm99 login</a></b> жЉ•зЁїж—Ґпјљ2025/12/04(Thu) 15:24 &nbsp; [<a href="light@res_422.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ“г‚ёгѓЌг‚№г‚№г‚їг‚¤гѓ«гЃЁзµ„гЃїеђ€г‚ЏгЃ›г‚ЊгЃ°дёЉе“ЃгЃЄдё­гЃ«г‚‚еЂ‹жЂ§г‚’ж„џгЃгЃ•гЃ›гЂЃг‚«г‚ёгѓҐг‚ўгѓ«гЃЄиЈ…гЃ„гЃ«г‚‚ж„Џе¤–гЃЄгЃ»гЃ©г‚€<p class="url"><a href="https://lsm999dna.com/login" target="_blank">https://lsm999dna.com/login</a></p></div>
 </div>
 
 <div class="art">
-	[<b>421</b>] <strong>ѓЃѓ]ѓ“ѓ}ѓ‹ѓWѓFѓ‰ѓRѓsЃ[ N‹‰•i</strong>
-	“ЉЌeЋТЃF<b>aaakopi</b> “ЉЌe“ъЃF2025/12/01(Mon) 18:47 &nbsp; [<a href="./light.cgi?res=421">•ФђM</a>]
-	<div class="com">ѓЃѓ]ѓ“ѓ}ѓ‹ѓWѓFѓ‰‚М“Ж‘n“I‚ИѓfѓUѓCѓ“‚д‚¦‚ЙЃA—lЃX‚ИѓXѓ^ѓCѓЉѓ“ѓO‚рЉiЏг‚°‚·‚йЊш‰К‚Є‚ ‚и‚Ь‚·ЃBѓrѓWѓlѓXѓXѓ^ѓCѓ‹‚Ж‘g‚ЭЌ‡‚н‚№‚к‚ОЏг•i‚И’†‚Й‚аЊВђ«‚рЉґ‚¶‚і‚№ЃAѓJѓWѓ…ѓAѓ‹‚И‘•‚ў‚Й‚а€УЉO‚И‚Щ‚З‚ж‚­’Іa‚µ‚Ь‚·ЃB“Б‚Й–й‚МѓtѓHЃ[ѓ}ѓ‹‚ИЏк–К‚Е‚НЃA‚±‚МѓsѓAѓX‚ЄЋе–р‚Ж‚И‚иЃAѓVѓ“ѓvѓ‹‚ИѓhѓЊѓX‚вѓwѓAѓXѓ^ѓCѓ‹‚р€к‹C‚Й€ш‚«’ч‚Я‚Д‚­‚к‚Ь‚·ЃB<br /><br /><a href="https://www.aaakopi.com/brand-113-c0.html" target="_blank">https://www.aaakopi.com/brand-113-c0.html</a> ѓЃѓ]ѓ“ѓ}ѓ‹ѓWѓFѓ‰ѓRѓsЃ[ N‹‰•i<br />www.aaakopi.com/bnew-4273.html ѓAѓEѓ‰ ѓCѓ”ѓ@ѓ“ЃEѓ”ѓ@ѓЊѓ“ѓeѓBѓ“ ѓRѓsЃ[<br />www.aaakopi.com/category-1-b0.html ѓЃѓ“ѓYѓtѓ@ѓbѓVѓ‡ѓ“ ѓXЃ[ѓpЃ[ѓRѓsЃ[<br />tblo.tennis365.net/aaakopidefen/</div>
+	[<b>421</b>] <strong>гѓЎг‚ѕгѓігѓћгѓ«г‚ёг‚§гѓ©г‚ігѓ”гѓј Nзґље“Ѓ</strong>
+	жЉ•зЁїиЂ…пјљ<b>aaakopi</b> жЉ•зЁїж—Ґпјљ2025/12/01(Mon) 18:47 &nbsp; [<a href="light@res_421.cgi">иї”дїЎ</a>]
+	<div class="com">гѓЎг‚ѕгѓігѓћгѓ«г‚ёг‚§гѓ©гЃ®з‹¬е‰µзљ„гЃЄгѓ‡г‚¶г‚¤гѓіг‚†гЃ€гЃ«гЂЃж§гЂ…гЃЄг‚№г‚їг‚¤гѓЄгѓіг‚°г‚’ж јдёЉгЃ’гЃ™г‚‹еЉ№жћњгЃЊгЃ‚г‚ЉгЃѕгЃ™гЂ‚гѓ“г‚ёгѓЌг‚№г‚№г‚їг‚¤гѓ«гЃЁзµ„гЃїеђ€г‚ЏгЃ›г‚ЊгЃ°дёЉе“ЃгЃЄдё­гЃ«г‚‚еЂ‹жЂ§г‚’ж„џгЃгЃ•гЃ›гЂЃг‚«г‚ёгѓҐг‚ўгѓ«гЃЄиЈ…гЃ„гЃ«г‚‚ж„Џе¤–гЃЄгЃ»гЃ©г‚€гЃЏиЄїе’ЊгЃ—гЃѕгЃ™гЂ‚з‰№гЃ«е¤њгЃ®гѓ•г‚©гѓјгѓћгѓ«гЃЄе ґйќўгЃ§гЃЇгЂЃгЃ“гЃ®гѓ”г‚ўг‚№гЃЊдё»еЅ№гЃЁгЃЄг‚ЉгЂЃг‚·гѓігѓ—гѓ«гЃЄгѓ‰гѓ¬г‚№г‚„гѓг‚ўг‚№г‚їг‚¤гѓ«г‚’дёЂж°—гЃ«еј•гЃЌз· г‚ЃгЃ¦гЃЏг‚ЊгЃѕгЃ™гЂ‚<br /><br /><a href="https://www.aaakopi.com/brand-113-c0.html" target="_blank">https://www.aaakopi.com/brand-113-c0.html</a> гѓЎг‚ѕгѓігѓћгѓ«г‚ёг‚§гѓ©г‚ігѓ”гѓј Nзґље“Ѓ<br />www.aaakopi.com/bnew-4273.html г‚ўг‚¦гѓ© г‚¤гѓґг‚Ўгѓігѓ»гѓґг‚Ўгѓ¬гѓігѓ†г‚Јгѓі г‚ігѓ”гѓј<br />www.aaakopi.com/category-1-b0.html гѓЎгѓіг‚єгѓ•г‚Ўгѓѓг‚·гѓ§гѓі г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј<br />tblo.tennis365.net/aaakopidefen/</div>
 </div>
 
 <div class="art">
-	[<b>420</b>] <strong>ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«</b> “ЉЌe“ъЃF2025/12/01(Mon) 16:10 &nbsp; [<a href="./light.cgi?res=420">•ФђM</a>]
-	<div class="com">ѓXЃ[ѓpЃ[ѓRѓsЃ[ѓoѓbѓO‘г€ш‚«ЃCѓuѓ‰ѓ“ѓhѓoѓbѓO‹U•ЁN‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!<br />ѓuѓ‰ѓ“ѓhѓoѓbѓO ѓRѓsЃ[‘г‹а€шЉ·—D—ЗѓTѓCѓgЃujpkopiЃvЃBЊыѓRѓ~ЌЕЌ‚‹‰‚МѓXЃ[ѓpЃ[ѓRѓsЃ[ѓuѓ‰ѓ“ѓh ѓoѓbѓO N‹‰•i‚НЌD•]”М”„’†ЃBѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓVѓ‡ѓ‹ѓ_Ѓ[ѓoѓbѓOЃAѓgЃ[ѓgѓoѓbѓOЃA‚©‚ІѓoѓbѓO‚И‚Зn‹‰•i‚Ё‚·‚·‚Я’К”МЃCЏ¤•iЋА•Ё‚МЋКђ^•t100%€АђS•ЫЏШЃBЌЕЌ‚‹‰ѓuѓ‰ѓ“ѓhѓoѓbѓO ‹U•Ё‘——ї–і—їЃA•iЋї•ЫЏШЃI<br /><a href="https://www.jpkopi.net/products/bag/" target="_blank">https://www.jpkopi.net/products/bag/</a></div>
+	[<b>420</b>] <strong>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/12/01(Mon) 16:10 &nbsp; [<a href="light@res_420.cgi">иї”дїЎ</a>]
+	<div class="com">г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓђгѓѓг‚°д»Јеј•гЃЌпјЊгѓ–гѓ©гѓігѓ‰гѓђгѓѓг‚°еЃЅз‰©Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />гѓ–гѓ©гѓігѓ‰гѓђгѓѓг‚° г‚ігѓ”гѓјд»Јй‡‘еј•жЏ›е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌгЂ‚еЏЈг‚ігѓџжњЂй«зґљгЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгѓ–гѓ©гѓігѓ‰ гѓђгѓѓг‚° Nзґље“ЃгЃЇеҐЅи©•иІ©еЈІдё­гЂ‚г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј г‚·гѓ§гѓ«гѓЂгѓјгѓђгѓѓг‚°гЂЃгѓ€гѓјгѓ€гѓђгѓѓг‚°гЂЃгЃ‹гЃ”гѓђгѓѓг‚°гЃЄгЃ©nзґље“ЃгЃЉгЃ™гЃ™г‚ЃйЂљиІ©пјЊе•†е“Ѓе®џз‰©гЃ®е†™зњџд»100%е®‰еїѓдїќиЁјгЂ‚жњЂй«зґљгѓ–гѓ©гѓігѓ‰гѓђгѓѓг‚° еЃЅз‰©йЂЃж–™з„Ўж–™гЂЃе“ЃиіЄдїќиЁјпјЃ<br /><a href="https://www.jpkopi.net/products/bag/" target="_blank">https://www.jpkopi.net/products/bag/</a></div>
 </div>
 
 <div class="art">
 	[<b>419</b>] <strong>87511515</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:elouiserocher@yahoo.com">HU88</a></b> “ЉЌe“ъЃF2025/11/28(Fri) 04:49 &nbsp; [<a href="./light.cgi?res=419">•ФђM</a>]
-	<div class="com">HU88 v&amp;#7899;i h&amp;#7879; th&amp;#7889;ng trт ch&amp;#417;i phong phъ nh&amp;#432; cб c&amp;#432;&amp;#7907;c th&amp;#7875; thao, card game, b&amp;#7855;n cб s&amp;#259;n th&amp;#432;&amp;#7903;ng <br />cщng hаng lo&amp;#7841;t game &amp;#273;&amp;#7863;c s&amp;#7855;c.<p class="url"><a href="https://mpo39.jp.net/" target="_blank">https://mpo39.jp.net/</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:elouiserocher@yahoo.com">HU88</a></b> жЉ•зЁїж—Ґпјљ2025/11/28(Fri) 04:49 &nbsp; [<a href="light@res_419.cgi">иї”дїЎ</a>]
+	<div class="com">HU88 v&amp;#7899;i h&amp;#7879; th&amp;#7889;ng trпїЅ ch&amp;#417;i phong phпїЅ nh&amp;#432; cпїЅ c&amp;#432;&amp;#7907;c th&amp;#7875; thao, card game, b&amp;#7855;n cпїЅ s&amp;#259;n th&amp;#432;&amp;#7903;ng <br />cо›Љg hзЂџg lo&amp;#7841;t game &amp;#273;&amp;#7863;c s&amp;#7855;c.<p class="url"><a href="https://mpo39.jp.net/" target="_blank">https://mpo39.jp.net/</a></p></div>
 </div>
 
 
@@ -141,24 +141,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-‹LЋ–No<input type="text" name="num" size="3" />
-ЌнЏњѓLЃ[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="ЌнЏњ" />
+иЁдє‹No<input type="text" name="num" size="3" />
+е‰Љй™¤г‚­гѓј<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="е‰Љй™¤" />
 </form>
 </div>
 

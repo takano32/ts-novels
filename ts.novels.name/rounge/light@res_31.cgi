@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,59 +13,59 @@ function popup(url) {
 }
 // -->
 </script>
-<title>�N���G�C�^�[�Y�E�t���A�i���j</title>
+<title>クリエイターズ・フロア（仮）</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>�N���G�C�^�[�Y�E�t���A�i���j</h1>
+<h1>クリエイターズ・フロア（仮）</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">�g�b�v�ɖ߂�</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">���ӎ���</a>]
-[<a href="./light.cgi?mode=find">���[�h����</a>]
+[<a href="../../index.html" target="_top">トップに戻る</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">留意事項</a>]
+[<a href="light@mode_find.cgi">ワード検索</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">�ߋ����O</a>]
+[<a href="light@mode_past.cgi">過去ログ</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">�Ǘ��p</a>]
+[<a href="admin.cgi">管理用</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>���Ȃ܂�</th>
+	<th>おなまえ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>�d���[��</th>
+	<th>Ｅメール</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>�^�C�g��</th>
+	<th>タイトル</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[31] �����b�N�X�R�s�[��" />
-    	<input type="submit" value="���M����" /><input type="reset" value="���Z�b�g" />
+    	<input type="text" name="sub" size="36" value="Re:[31] ロレックスコピーは" />
+    	<input type="submit" value="送信する" /><input type="reset" value="リセット" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	���b�Z�[�W<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ���܂Ń����b�N�X�R�s�[�͂��ׂē��{�̍ł����s���Ă���u�����h�A�ł���v�Ȍ������i�����M���ł��āA��v�ł���Ȃ̂ł��BTOKEIWD�̃����b�N�X�X�[�p�[�R�s�[�͕i�������ł͂Ȃ����̗ǂ��Ă��̏�A�����M�p�I
+    	メッセージ<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; 今までロレックスコピーはすべて日本の最も流行っているブランド、最も主要な原因が品質が信頼できて、丈夫であるなのです。TOKEIWDのロレックススーパーコピーは品質だけではないがの良くてその上、高い信用！
 &gt; www.tokeiwd.com/</textarea>
 	</th>
 </tr><tr>
-	<th>�Q�Ɛ�</th>
+	<th>参照先</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>�폜�L�[</th>
+	<th>削除キー</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(�p������8�����ȓ�) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> �N�b�L�[�ۑ�
+		(英数字で8文字以内) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> クッキー保存
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>�摜�F��</th>
+	<th>画像認証</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		�i�E�摜�̐�������́j <img src="./captcha.cgi?fcfe95799cc0c97aacf586b5bf3ba3cb844d" class="capt" alt="���e�L�[" />
+		（右画像の数字を入力） <img src="captcha@fcfe95799cc0c97aacf586b5bf3ba3cb844d.cgi" class="capt" alt="投稿キー" />
 		<input type="hidden" name="str_crypt" value="fcfe95799cc0c97aacf586b5bf3ba3cb844d" />
 	</td>
 <!-- captcha_end -->
@@ -76,63 +76,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>84</b>] <strong>makigarl jaydin 英数字</strong>
-	���e�ҁF<b>makigarl</b> ���e���F2022/01/25(Tue) 07:39 &nbsp; [<a href="./light.cgi?res=84">�ԐM</a>]
-	<div class="com">ツーリストバスシミュレータアクティベーションコード[クラックシリアルキー makigarl fe98829e30 <a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCQ8ZP7CgwLEgZDb3Vyc2UYgIDAkKiZlgsMCxIIQWN0aXZpdHkYgIDA0MDsjwgMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCQ8ZP7CgwLEgZDb3Vyc2UYgIDAkKiZlgsMCxIIQWN0aXZpdHkYgIDA0MDsjwgMogEQNTcyODg4NTg4Mjc0ODkyOA</a><p class="url"><a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCA2LvVCwwLEgZDb3Vyc2UYgIDAwLbUyAoMCxIIQWN0aXZpdHkYgIDA4M-v0goMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCA2LvVCwwLEgZDb3Vyc2UYgIDAwLbUyAoMCxIIQWN0aXZpdHkYgIDA4M-v0goMogEQNTcyODg4NTg4Mjc0ODkyOA</a></p></div>
+	[<b>84</b>] <strong>makigarl jaydin 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>makigarl</b> 投稿日：2022/01/25(Tue) 07:39 &nbsp; [<a href="light@res_84.cgi">返信</a>]
+	<div class="com">繝�繝ｼ繝ｪ繧ｹ繝医ヰ繧ｹ繧ｷ繝溘Η繝ｬ繝ｼ繧ｿ繧｢繧ｯ繝�繧｣繝吶�ｼ繧ｷ繝ｧ繝ｳ繧ｳ繝ｼ繝閏繧ｯ繝ｩ繝�繧ｯ繧ｷ繝ｪ繧｢繝ｫ繧ｭ繝ｼ makigarl fe98829e30 <a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCQ8ZP7CgwLEgZDb3Vyc2UYgIDAkKiZlgsMCxIIQWN0aXZpdHkYgIDA0MDsjwgMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCQ8ZP7CgwLEgZDb3Vyc2UYgIDAkKiZlgsMCxIIQWN0aXZpdHkYgIDA0MDsjwgMogEQNTcyODg4NTg4Mjc0ODkyOA</a><p class="url"><a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCA2LvVCwwLEgZDb3Vyc2UYgIDAwLbUyAoMCxIIQWN0aXZpdHkYgIDA4M-v0goMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCA2LvVCwwLEgZDb3Vyc2UYgIDAwLbUyAoMCxIIQWN0aXZpdHkYgIDA4M-v0goMogEQNTcyODg4NTg4Mjc0ODkyOA</a></p></div>
 </div>
 
 <div class="art">
-	[<b>83</b>] <strong>alapla betsia 英数字</strong>
-	���e�ҁF<b>alapla</b> ���e���F2022/01/25(Tue) 07:10 &nbsp; [<a href="./light.cgi?res=83">�ԐM</a>]
-	<div class="com">alapla アカウントのパスワードクラッカー<p class="url"><a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgIC__a7uCgwLEgZDb3Vyc2UYgICA34vH0wgMCxIIQWN0aXZpdHkYgIDAsJb9zwoMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgIC__a7uCgwLEgZDb3Vyc2UYgICA34vH0wgMCxIIQWN0aXZpdHkYgIDAsJb9zwoMogEQNTcyODg4NTg4Mjc0ODkyOA</a></p></div>
+	[<b>83</b>] <strong>alapla betsia 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>alapla</b> 投稿日：2022/01/25(Tue) 07:10 &nbsp; [<a href="light@res_83.cgi">返信</a>]
+	<div class="com">alapla 繧｢繧ｫ繧ｦ繝ｳ繝医�ｮ繝代せ繝ｯ繝ｼ繝峨け繝ｩ繝�繧ｫ繝ｼ<p class="url"><a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgIC__a7uCgwLEgZDb3Vyc2UYgICA34vH0wgMCxIIQWN0aXZpdHkYgIDAsJb9zwoMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgIC__a7uCgwLEgZDb3Vyc2UYgICA34vH0wgMCxIIQWN0aXZpdHkYgIDAsJb9zwoMogEQNTcyODg4NTg4Mjc0ODkyOA</a></p></div>
 </div>
 
 <div class="art">
-	[<b>82</b>] <strong>�u�����h �R�s�[vog.agvol.com/brand-69-c0.html STUSSY�u�����h �R�s�[</strong>
-	���e�ҁF<b><a href="mailto:buy@agvol.com">MCM�X�[�p�[�R�s�[ ���</a></b> ���e���F2022/01/24(Mon) 12:50 &nbsp; [<a href="./light.cgi?res=82">�ԐM</a>]
-	<div class="com">�u�����h�R�s�[vog.agvol.com/brand-28-c0.html BALLY�u�����h�R�s�[ �����N���[�� MONCLER �����Y �_�E���W���P�b�g �l�C�r�[vog.agvol.com/goods-10903.html �����N���[�� MONCLER �����Y �_�E���W���P�b�g �l�C�r�[�W�~�[�`���E�u�����h �R�s�[vog.agvol.com/�W�~�[�`���E�u�����h �R�s�[<p class="url"><a href="http://vog.agvol.com/brand-15-c0.html" target="_blank">http://vog.agvol.com/brand-15-c0.html</a></p></div>
+	[<b>82</b>] <strong>ブランド コピーvog.agvol.com/brand-69-c0.html STUSSYブランド コピー</strong>
+	投稿者：<b><a href="mailto:buy@agvol.com">MCMスーパーコピー 代引</a></b> 投稿日：2022/01/24(Mon) 12:50 &nbsp; [<a href="light@res_82.cgi">返信</a>]
+	<div class="com">ブランドコピーvog.agvol.com/brand-28-c0.html BALLYブランドコピー モンクレール MONCLER メンズ ダウンジャケット ネイビーvog.agvol.com/goods-10903.html モンクレール MONCLER メンズ ダウンジャケット ネイビージミーチュウブランド コピーvog.agvol.com/ジミーチュウブランド コピー<p class="url"><a href="http://vog.agvol.com/brand-15-c0.html" target="_blank">http://vog.agvol.com/brand-15-c0.html</a></p></div>
 </div>
 
 <div class="art">
-	[<b>81</b>] <strong>kaysha amrytan 英数字</strong>
-	���e�ҁF<b>kaysha</b> ���e���F2022/01/24(Mon) 05:26 &nbsp; [<a href="./light.cgi?res=81">�ԐM</a>]
-	<div class="com">パーティションアシスタントプロフェッショナルエディション5.1クラック kaysha 7383628160 <a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCg4aD9CgwLEgZDb3Vyc2UYgIDA4KX3kQkMCxIIQWN0aXZpdHkYgIDAoLG1tQsMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCg4aD9CgwLEgZDb3Vyc2UYgIDA4KX3kQkMCxIIQWN0aXZpdHkYgIDAoLG1tQsMogEQNTcyODg4NTg4Mjc0ODkyOA</a><p class="url"><a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgID_hOLJCgwLEgZDb3Vyc2UYgIDAwKXNwgkMCxIIQWN0aXZpdHkYgIDAkJqj0AgMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgID_hOLJCgwLEgZDb3Vyc2UYgIDAwKXNwgkMCxIIQWN0aXZpdHkYgIDAkJqj0AgMogEQNTcyODg4NTg4Mjc0ODkyOA</a></p></div>
+	[<b>81</b>] <strong>kaysha amrytan 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>kaysha</b> 投稿日：2022/01/24(Mon) 05:26 &nbsp; [<a href="light@res_81.cgi">返信</a>]
+	<div class="com">繝代�ｼ繝�繧｣繧ｷ繝ｧ繝ｳ繧｢繧ｷ繧ｹ繧ｿ繝ｳ繝医�励Ο繝輔ぉ繝�繧ｷ繝ｧ繝翫Ν繧ｨ繝�繧｣繧ｷ繝ｧ繝ｳ5.1繧ｯ繝ｩ繝�繧ｯ kaysha 7383628160 <a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCg4aD9CgwLEgZDb3Vyc2UYgIDA4KX3kQkMCxIIQWN0aXZpdHkYgIDAoLG1tQsMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMCg4aD9CgwLEgZDb3Vyc2UYgIDA4KX3kQkMCxIIQWN0aXZpdHkYgIDAoLG1tQsMogEQNTcyODg4NTg4Mjc0ODkyOA</a><p class="url"><a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgID_hOLJCgwLEgZDb3Vyc2UYgIDAwKXNwgkMCxIIQWN0aXZpdHkYgIDAkJqj0AgMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgID_hOLJCgwLEgZDb3Vyc2UYgIDAwKXNwgkMCxIIQWN0aXZpdHkYgIDAkJqj0AgMogEQNTcyODg4NTg4Mjc0ODkyOA</a></p></div>
 </div>
 
 <div class="art">
-	[<b>80</b>] <strong>seaper jamund 英数字</strong>
-	���e�ҁF<b>seaper</b> ���e���F2022/01/21(Fri) 09:12 &nbsp; [<a href="./light.cgi?res=80">�ԐM</a>]
-	<div class="com">ダウンロードウィルコムデコスタジオe2クラックメガ seaper a8cc6d31e7 <a href="https://coub.com/stories/2674411-better-download-sygic-gps-navigation-amp-maps-20-4-11-unlocked-mod-dlpure-com" target="_blank">https://coub.com/stories/2674411-better-download-sygic-gps-navigation-amp-maps-20-4-11-unlocked-mod-dlpure-com</a><p class="url"><a href="https://coub.com/stories/2710432-cs-cart-multi-vendor-4-nulled-upd-cracking" target="_blank">https://coub.com/stories/2710432-cs-cart-multi-vendor-4-nulled-upd-cracking</a></p></div>
+	[<b>80</b>] <strong>seaper jamund 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>seaper</b> 投稿日：2022/01/21(Fri) 09:12 &nbsp; [<a href="light@res_80.cgi">返信</a>]
+	<div class="com">繝繧ｦ繝ｳ繝ｭ繝ｼ繝峨え繧｣繝ｫ繧ｳ繝繝�繧ｳ繧ｹ繧ｿ繧ｸ繧ｪe2繧ｯ繝ｩ繝�繧ｯ繝｡繧ｬ seaper a8cc6d31e7 <a href="https://coub.com/stories/2674411-better-download-sygic-gps-navigation-amp-maps-20-4-11-unlocked-mod-dlpure-com" target="_blank">https://coub.com/stories/2674411-better-download-sygic-gps-navigation-amp-maps-20-4-11-unlocked-mod-dlpure-com</a><p class="url"><a href="https://coub.com/stories/2710432-cs-cart-multi-vendor-4-nulled-upd-cracking" target="_blank">https://coub.com/stories/2710432-cs-cart-multi-vendor-4-nulled-upd-cracking</a></p></div>
 </div>
 
 <div class="art">
-	[<b>79</b>] <strong>latnebr oxleah 英数字</strong>
-	���e�ҁF<b>latnebr</b> ���e���F2022/01/21(Fri) 08:38 &nbsp; [<a href="./light.cgi?res=79">�ԐM</a>]
-	<div class="com">latnebr のシリアル番号と認証コード<p class="url"><a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMDAtMeQCwwLEgZDb3Vyc2UYgIDAwIfZ6QgMCxIIQWN0aXZpdHkYgIDAoOLHhQkMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMDAtMeQCwwLEgZDb3Vyc2UYgIDAwIfZ6QgMCxIIQWN0aXZpdHkYgIDAoOLHhQkMogEQNTcyODg4NTg4Mjc0ODkyOA</a></p></div>
+	[<b>79</b>] <strong>latnebr oxleah 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>latnebr</b> 投稿日：2022/01/21(Fri) 08:38 &nbsp; [<a href="light@res_79.cgi">返信</a>]
+	<div class="com">latnebr 縺ｮ繧ｷ繝ｪ繧｢繝ｫ逡ｪ蜿ｷ縺ｨ隱崎ｨｼ繧ｳ繝ｼ繝�<p class="url"><a href="https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMDAtMeQCwwLEgZDb3Vyc2UYgIDAwIfZ6QgMCxIIQWN0aXZpdHkYgIDAoOLHhQkMogEQNTcyODg4NTg4Mjc0ODkyOA" target="_blank">https://www.cloudschool.org/activities/ahFzfmNsb3Vkc2Nob29sLWFwcHI5CxIEVXNlchiAgMDAtMeQCwwLEgZDb3Vyc2UYgIDAwIfZ6QgMCxIIQWN0aXZpdHkYgIDAoOLHhQkMogEQNTcyODg4NTg4Mjc0ODkyOA</a></p></div>
 </div>
 
 <div class="art">
-	[<b>78</b>] <strong>rahepal falline 英数字</strong>
-	���e�ҁF<b>rahepal</b> ���e���F2022/01/21(Fri) 08:27 &nbsp; [<a href="./light.cgi?res=78">�ԐM</a>]
-	<div class="com">rahepal ベン10アルティメットエイリアンゲーム無料ダウンロードPC<p class="url"><a href="https://coub.com/stories/2814940-armor-guide-hypixel-skyblock" target="_blank">https://coub.com/stories/2814940-armor-guide-hypixel-skyblock</a></p></div>
+	[<b>78</b>] <strong>rahepal falline 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>rahepal</b> 投稿日：2022/01/21(Fri) 08:27 &nbsp; [<a href="light@res_78.cgi">返信</a>]
+	<div class="com">rahepal 繝吶Φ10繧｢繝ｫ繝�繧｣繝｡繝�繝医お繧､繝ｪ繧｢繝ｳ繧ｲ繝ｼ繝辟｡譁吶ム繧ｦ繝ｳ繝ｭ繝ｼ繝臼C<p class="url"><a href="https://coub.com/stories/2814940-armor-guide-hypixel-skyblock" target="_blank">https://coub.com/stories/2814940-armor-guide-hypixel-skyblock</a></p></div>
 </div>
 
 <div class="art">
-	[<b>77</b>] <strong>talstar harmonie 英数字</strong>
-	���e�ҁF<b>talstar</b> ���e���F2022/01/20(Thu) 16:41 &nbsp; [<a href="./light.cgi?res=77">�ԐM</a>]
-	<div class="com">のシリアル番号と認証コード talstar 90f3619eba <a href="https://coub.com/stories/2787632-free-the-cinema-hall-marathi-movie-free-download-kickas-fanno-topografica-ba" target="_blank">https://coub.com/stories/2787632-free-the-cinema-hall-marathi-movie-free-download-kickas-fanno-topografica-ba</a><p class="url"><a href="https://coub.com/stories/2794818-sudoku-4x4-easy-with-answers-yarjan" target="_blank">https://coub.com/stories/2794818-sudoku-4x4-easy-with-answers-yarjan</a></p></div>
+	[<b>77</b>] <strong>talstar harmonie 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>talstar</b> 投稿日：2022/01/20(Thu) 16:41 &nbsp; [<a href="light@res_77.cgi">返信</a>]
+	<div class="com">縺ｮ繧ｷ繝ｪ繧｢繝ｫ逡ｪ蜿ｷ縺ｨ隱崎ｨｼ繧ｳ繝ｼ繝� talstar 90f3619eba <a href="https://coub.com/stories/2787632-free-the-cinema-hall-marathi-movie-free-download-kickas-fanno-topografica-ba" target="_blank">https://coub.com/stories/2787632-free-the-cinema-hall-marathi-movie-free-download-kickas-fanno-topografica-ba</a><p class="url"><a href="https://coub.com/stories/2794818-sudoku-4x4-easy-with-answers-yarjan" target="_blank">https://coub.com/stories/2794818-sudoku-4x4-easy-with-answers-yarjan</a></p></div>
 </div>
 
 <div class="art">
-	[<b>76</b>] <strong>zindbern otilah 英数字</strong>
-	���e�ҁF<b>zindbern</b> ���e���F2022/01/20(Thu) 09:37 &nbsp; [<a href="./light.cgi?res=76">�ԐM</a>]
-	<div class="com">アイビームソフトフォン無料ダウンロードライセンスキー付き zindbern ba0249fdb3 <a href="https://wakelet.com/wake/9owSs3b4oRiNylM6EMRDl" target="_blank">https://wakelet.com/wake/9owSs3b4oRiNylM6EMRDl</a><p class="url"><a href="https://wakelet.com/wake/iNHjyOu0RVV2mAov3nzCT" target="_blank">https://wakelet.com/wake/iNHjyOu0RVV2mAov3nzCT</a></p></div>
+	[<b>76</b>] <strong>zindbern otilah 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>zindbern</b> 投稿日：2022/01/20(Thu) 09:37 &nbsp; [<a href="light@res_76.cgi">返信</a>]
+	<div class="com">繧｢繧､繝薙�ｼ繝繧ｽ繝輔ヨ繝輔か繝ｳ辟｡譁吶ム繧ｦ繝ｳ繝ｭ繝ｼ繝峨Λ繧､繧ｻ繝ｳ繧ｹ繧ｭ繝ｼ莉倥″ zindbern ba0249fdb3 <a href="https://wakelet.com/wake/9owSs3b4oRiNylM6EMRDl" target="_blank">https://wakelet.com/wake/9owSs3b4oRiNylM6EMRDl</a><p class="url"><a href="https://wakelet.com/wake/iNHjyOu0RVV2mAov3nzCT" target="_blank">https://wakelet.com/wake/iNHjyOu0RVV2mAov3nzCT</a></p></div>
 </div>
 
 <div class="art">
-	[<b>75</b>] <strong>jantame fiannah 英数字</strong>
-	���e�ҁF<b>jantame</b> ���e���F2022/01/20(Thu) 09:28 &nbsp; [<a href="./light.cgi?res=75">�ԐM</a>]
-	<div class="com">jantame デルファイ自動診断ソフトウェア急流のダウンロード<p class="url"><a href="https://wakelet.com/wake/8_RisPHtGmzgXzYWFom7r" target="_blank">https://wakelet.com/wake/8_RisPHtGmzgXzYWFom7r</a></p></div>
+	[<b>75</b>] <strong>jantame fiannah 闍ｱ謨ｰ蟄�</strong>
+	投稿者：<b>jantame</b> 投稿日：2022/01/20(Thu) 09:28 &nbsp; [<a href="light@res_75.cgi">返信</a>]
+	<div class="com">jantame 繝�繝ｫ繝輔ぃ繧､閾ｪ蜍戊ｨｺ譁ｭ繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢諤･豬√�ｮ繝繧ｦ繝ｳ繝ｭ繝ｼ繝�<p class="url"><a href="https://wakelet.com/wake/8_RisPHtGmzgXzYWFom7r" target="_blank">https://wakelet.com/wake/8_RisPHtGmzgXzYWFom7r</a></p></div>
 </div>
 
 
@@ -140,21 +140,21 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-�L��No<input type="text" name="num" size="3" />
-�폜�L�[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="�폜" />
+記事No<input type="text" name="num" size="3" />
+削除キー<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="削除" />
 </form>
 </div>
 

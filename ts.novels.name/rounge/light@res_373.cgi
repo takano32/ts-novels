@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,71 +13,71 @@ function popup(url) {
 }
 // -->
 </script>
-<title>ƒNƒŠƒGƒCƒ^[ƒYEƒtƒƒAi‰¼j</title>
+<title>ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼ã‚ºãƒ»ãƒ•ãƒ­ã‚¢ï¼ˆä»®ï¼‰</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>ƒNƒŠƒGƒCƒ^[ƒYEƒtƒƒAi‰¼j</h1>
+<h1>ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼ã‚ºãƒ»ãƒ•ãƒ­ã‚¢ï¼ˆä»®ï¼‰</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">ƒgƒbƒv‚É–ß‚é</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">—¯ˆÓŽ–€</a>]
-[<a href="./light.cgi?mode=find">ƒ[ƒhŒŸõ</a>]
+[<a href="../../index.html" target="_top">ãƒˆãƒƒãƒ—ã«æˆ»ã‚‹</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">ç•™æ„äº‹é …</a>]
+[<a href="light@mode_find.cgi">ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">‰ß‹ŽƒƒO</a>]
+[<a href="light@mode_past.cgi">éŽåŽ»ãƒ­ã‚°</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">ŠÇ——p</a>]
+[<a href="admin.cgi">ç®¡ç†ç”¨</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>‚¨‚È‚Ü‚¦</th>
+	<th>ãŠãªã¾ãˆ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>‚dƒ[ƒ‹</th>
+	<th>ï¼¥ãƒ¡ãƒ¼ãƒ«</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>ƒ^ƒCƒgƒ‹</th>
+	<th>ã‚¿ã‚¤ãƒˆãƒ«</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[373] vogvip.com ƒuƒ‰ƒ“ƒh ‹U•¨ ’Ê”Ì" />
-    	<input type="submit" value="‘—M‚·‚é" /><input type="reset" value="ƒŠƒZƒbƒg" />
+    	<input type="text" name="sub" size="36" value="Re:[373] vogvip.com ãƒ–ãƒ©ãƒ³ãƒ‰ å½ç‰© é€šè²©" />
+    	<input type="submit" value="é€ä¿¡ã™ã‚‹" /><input type="reset" value="ãƒªã‚»ãƒƒãƒˆ" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	ƒƒbƒZ[ƒW<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ƒRƒs[ ƒuƒ‰ƒ“ƒh vogvip.com/brand-4-c0.html MONCLERƒRƒs[ ƒuƒ‰ƒ“ƒh ‰‚Í–³‚­ MONCLERƒRƒs[ 3F‰Â‘I ƒ_ƒEƒ“ƒWƒƒƒPƒbƒg ƒ‚ƒ“ƒNƒŒ[ƒ‹ƒRƒs[ ã•i &amp;#26497;•i “ú–{l‹CƒX[ƒp[ƒRƒs[ƒuƒ‰ƒ“ƒh vogvip.com VOGƒX[ƒp[ƒRƒs[ ‘ãˆø
-&gt; ¤•i”Ô†Fvogvip22823
-&gt; ÝŒÉó‹µF 100
-&gt; ‰ïˆõ‰¿ŠiF24000‰~
-&gt; ¤•iƒuƒ‰ƒ“ƒhFƒ‚ƒ“ƒNƒŒ[ƒ‹ MONCLER
-&gt; o•iŽžŠÔF2022-07-07
-&gt; ¤•iƒJƒeƒSƒŠF’j«—pƒ_ƒEƒ“ƒWƒƒƒPƒbƒg
-&gt; MONCLERƒX[ƒp[ƒRƒs[ vogvip.com/goods-763.html ƒ‚ƒ“ƒNƒŒ[ƒ‹ƒRƒs[ ƒuƒ‰ƒ“ƒh
-&gt; vogvip.com ‚Ö‚æ‚¤‚±‚»B
-&gt; £V‹K‰ïˆõ“o˜^‚³‚ê‚½•û‚ÉFX‚ÈŠ„ˆøƒT[ƒrƒX‚ð·‚µã‚°‚Ü‚·B
-&gt; £“–“X‚Å‚Í‚²’•¶“ú‚©‚ç—‚‰c‹Æ“ú‚Ü‚Å‚É“–“X‚æ‚è‚¨‹q—lˆ¶‚Ä‚É•K‚¸‚²’•¶‚Ì‚¨—çƒ[ƒ‹E‚²’•¶Šm”Fƒ[ƒ‹‚ð‘—M‚³‚¹‚Ä’¸‚¢‚Ä‚¨‚è‚Ü‚·B
-&gt; £“–“Xƒ[ƒ‹ƒAƒhƒŒƒX‚ª“Í‚¢‚Ä‚¢‚È‚¢‚¨‹q—l‚Ì’†‚É‚ÍAƒT[ƒo[‚É‚Ä–À˜fƒ[ƒ‹‚Æ”»’f‚³‚êA–À˜fƒ[ƒ‹ƒtƒHƒ‹ƒ_‚Éƒ[ƒ‹‚ª“ÍB
-&gt; £‚à‚µ–{“–‚É“Í‚©‚È‚©‚Á‚½ê‡‚É‚Íbuy@vogvip.com‚Ü‚Å‚²˜A—‚­‚¾‚³‚¢‚Ü‚¹B
-&gt; vogvip.comê–å“X(ƒ‚ƒ“ƒNƒŒ[ƒ‹ ƒp[ƒJ[ Å‚•iŽ¿‚Ìƒuƒ‰ƒ“ƒhƒRƒs[ê–å“X):2025ƒ‚ƒ“ƒNƒŒ[ƒ‹‚‹‰Š´‚ ‚éƒ{ƒŠƒ…[ƒ€‚Ìƒ_ƒEƒ“ƒWƒƒƒPƒbƒg‚ª“oêIƒ‚ƒ“ƒNƒŒ[ƒ‹(MONCLER)ƒ‚ƒ“ƒNƒŒ[ƒ‹ƒX[ƒp[ƒRƒs[ ‹U•¨ ’Ê”Ì‚‹‰ƒ_ƒEƒ“ƒWƒƒƒPƒbƒgl‹Cƒ‰ƒ“ƒLƒ“ƒOŒƒˆÀ’Ê”ÌB‚‹@”\‚Å’…‚«S’n‚à—ÇDƒ‚ƒ“ƒNƒŒ[ƒ‹ƒ_ƒEƒ“ƒRƒs[A’·”N‚É‚í‚½‚è¢ŠE’†‚ÌlX‚ð–£—¹‚µ‘±‚¯‚Ä‚¢‚Ü‚·BŠúŠÔŒÀ’èƒZ[ƒ‹‚¨“¾ƒ‚ƒ“ƒNƒŒ[ƒ‹ ƒX[ƒp[ƒRƒs[ ƒƒ“ƒY•žAMONCLER ƒRƒs[ ƒ_ƒEƒ“Aƒ‚ƒ“ƒNƒŒ[ƒ‹ ƒ_ƒEƒ“ƒŒƒfƒB[ƒXƒRƒs[‚È‚Ç‚Ìƒ‚ƒ“ƒNƒŒ[ƒ‹ƒX[ƒp[ƒRƒs[ƒgƒbƒvƒXBƒRƒs[ƒuƒ‰ƒ“ƒhI‚±‚Ì‹@‰ï‚Éƒ`ƒFƒbƒNIƒ‚ƒ“ƒNƒŒ[ƒ‹ ƒXƒEƒFƒbƒgƒVƒƒƒc ƒRƒs[Aƒ‚ƒ“ƒNƒŒ[ƒ‹ ’j«—pƒ_ƒEƒ“ƒWƒƒƒPƒbƒg ƒRƒs[Aƒ‚ƒ“ƒNƒŒ[ƒ‹ —«—pƒ_ƒEƒ“ƒWƒƒƒPƒbƒg ƒRƒs[Aƒ‚ƒ“ƒNƒŒ[ƒ‹ ƒWƒƒƒPƒbƒg ƒRƒs[Aƒ‚ƒ“ƒNƒŒ[ƒ‹ ƒZ[ƒ^[ ƒRƒs[Aƒ‚ƒ“ƒNƒŒ[ƒ‹ ”¼‘³TƒVƒƒƒc ƒRƒs[Aƒ‚ƒ“ƒNƒŒ[ƒ‹ ’·‘³TƒVƒƒƒc ƒRƒs[Aƒ‚ƒ“ƒNƒŒ[ƒ‹ƒp[ƒJ[ƒRƒs[‚È‚Ç‚Ìl‹CF‚ð’ñ‹Ÿ‚µ‚Ä‚¨‚è‚Ü‚·Bƒ‚ƒ“ƒNƒŒ[ƒ‹ƒRƒs[ƒEƒFƒA‚Í•iŽ¿•ÛØ‚ÅˆÀS‚µ‚Ä‚²w“ü‚­‚¾‚³‚¢! ƒ‚ƒ“ƒNƒŒ[ƒ‹ ƒW[ƒ“ƒY ƒX[ƒp[ƒRƒs[ ‹U•¨ ’Ê”Ì vogvip.com/brand-4-c0.html ƒ‚ƒ“ƒNƒŒ[ƒ‹ ƒƒ“ƒYƒR[ƒgƒX[ƒp[ƒRƒs[</textarea>
+    	ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; ã‚³ãƒ”ãƒ¼ ãƒ–ãƒ©ãƒ³ãƒ‰ vogvip.com/brand-4-c0.html MONCLERã‚³ãƒ”ãƒ¼ ãƒ–ãƒ©ãƒ³ãƒ‰ è‰¶ã¯ç„¡ã MONCLERã‚³ãƒ”ãƒ¼ 3è‰²å¯é¸ ãƒ€ã‚¦ãƒ³ã‚¸ãƒ£ã‚±ãƒƒãƒˆ ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«ã‚³ãƒ”ãƒ¼ ä¸Šå“ &amp;#26497;å“ æ—¥æœ¬äººæ°—ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ãƒ–ãƒ©ãƒ³ãƒ‰ vogvip.com VOGã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•
+&gt; å•†å“ç•ªå·ï¼švogvip22823
+&gt; åœ¨åº«çŠ¶æ³ï¼š 100
+&gt; ä¼šå“¡ä¾¡æ ¼ï¼š24000å††
+&gt; å•†å“ãƒ–ãƒ©ãƒ³ãƒ‰ï¼šãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« MONCLER
+&gt; å‡ºå“æ™‚é–“ï¼š2022-07-07
+&gt; å•†å“ã‚«ãƒ†ã‚´ãƒªï¼šç”·æ€§ç”¨ãƒ€ã‚¦ãƒ³ã‚¸ãƒ£ã‚±ãƒƒãƒˆ
+&gt; MONCLERã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ vogvip.com/goods-763.html ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«ã‚³ãƒ”ãƒ¼ ãƒ–ãƒ©ãƒ³ãƒ‰
+&gt; vogvip.com ã¸ã‚ˆã†ã“ãã€‚
+&gt; â–²æ–°è¦ä¼šå“¡ç™»éŒ²ã•ã‚ŒãŸæ–¹ã«è‰²ã€…ãªå‰²å¼•ã‚µãƒ¼ãƒ“ã‚¹ã‚’å·®ã—ä¸Šã’ã¾ã™ã€‚
+&gt; â–²å½“åº—ã§ã¯ã”æ³¨æ–‡æ—¥ã‹ã‚‰ç¿Œå–¶æ¥­æ—¥ã¾ã§ã«å½“åº—ã‚ˆã‚ŠãŠå®¢æ§˜å®›ã¦ã«å¿…ãšã”æ³¨æ–‡ã®ãŠç¤¼ãƒ¡ãƒ¼ãƒ«ãƒ»ã”æ³¨æ–‡ç¢ºèªãƒ¡ãƒ¼ãƒ«ã‚’é€ä¿¡ã•ã›ã¦é ‚ã„ã¦ãŠã‚Šã¾ã™ã€‚
+&gt; â–²å½“åº—ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ãŒå±Šã„ã¦ã„ãªã„ãŠå®¢æ§˜ã®ä¸­ã«ã¯ã€ã‚µãƒ¼ãƒãƒ¼ã«ã¦è¿·æƒ‘ãƒ¡ãƒ¼ãƒ«ã¨åˆ¤æ–­ã•ã‚Œã€è¿·æƒ‘ãƒ¡ãƒ¼ãƒ«ãƒ•ã‚©ãƒ«ãƒ€ã«ãƒ¡ãƒ¼ãƒ«ãŒå±Šã€‚
+&gt; â–²ã‚‚ã—æœ¬å½“ã«å±Šã‹ãªã‹ã£ãŸå ´åˆã«ã¯buy@vogvip.comã¾ã§ã”é€£çµ¡ãã ã•ã„ã¾ã›ã€‚
+&gt; vogvip.comå°‚é–€åº—(ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ãƒ‘ãƒ¼ã‚«ãƒ¼ æœ€é«˜å“è³ªã®ãƒ–ãƒ©ãƒ³ãƒ‰ã‚³ãƒ”ãƒ¼å°‚é–€åº—):2025ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«é«˜ç´šæ„Ÿã‚ã‚‹ãƒœãƒªãƒ¥ãƒ¼ãƒ ã®ãƒ€ã‚¦ãƒ³ã‚¸ãƒ£ã‚±ãƒƒãƒˆãŒç™»å ´ï¼ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«(MONCLER)ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ å½ç‰© é€šè²©é«˜ç´šãƒ€ã‚¦ãƒ³ã‚¸ãƒ£ã‚±ãƒƒãƒˆäººæ°—ãƒ©ãƒ³ã‚­ãƒ³ã‚°æ¿€å®‰é€šè²©ã€‚é«˜æ©Ÿèƒ½ã§ç€ãå¿ƒåœ°ã‚‚è‰¯å¥½ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«ãƒ€ã‚¦ãƒ³ã‚³ãƒ”ãƒ¼ã€é•·å¹´ã«ã‚ãŸã‚Šä¸–ç•Œä¸­ã®äººã€…ã‚’é­…äº†ã—ç¶šã‘ã¦ã„ã¾ã™ã€‚æœŸé–“é™å®šã‚»ãƒ¼ãƒ«ãŠå¾—ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãƒ¡ãƒ³ã‚ºæœã€MONCLER ã‚³ãƒ”ãƒ¼ ãƒ€ã‚¦ãƒ³ã€ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ãƒ€ã‚¦ãƒ³ãƒ¬ãƒ‡ã‚£ãƒ¼ã‚¹ã‚³ãƒ”ãƒ¼ãªã©ã®ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ãƒˆãƒƒãƒ—ã‚¹ã€‚ã‚³ãƒ”ãƒ¼ãƒ–ãƒ©ãƒ³ãƒ‰ï¼ã“ã®æ©Ÿä¼šã«ãƒã‚§ãƒƒã‚¯ï¼ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ã‚¹ã‚¦ã‚§ãƒƒãƒˆã‚·ãƒ£ãƒ„ ã‚³ãƒ”ãƒ¼ã€ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ç”·æ€§ç”¨ãƒ€ã‚¦ãƒ³ã‚¸ãƒ£ã‚±ãƒƒãƒˆ ã‚³ãƒ”ãƒ¼ã€ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« å¥³æ€§ç”¨ãƒ€ã‚¦ãƒ³ã‚¸ãƒ£ã‚±ãƒƒãƒˆ ã‚³ãƒ”ãƒ¼ã€ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ã‚¸ãƒ£ã‚±ãƒƒãƒˆ ã‚³ãƒ”ãƒ¼ã€ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ã‚»ãƒ¼ã‚¿ãƒ¼ ã‚³ãƒ”ãƒ¼ã€ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« åŠè¢–Tã‚·ãƒ£ãƒ„ ã‚³ãƒ”ãƒ¼ã€ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« é•·è¢–Tã‚·ãƒ£ãƒ„ ã‚³ãƒ”ãƒ¼ã€ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«ãƒ‘ãƒ¼ã‚«ãƒ¼ã‚³ãƒ”ãƒ¼ãªã©ã®äººæ°—è‰²ã‚’æä¾›ã—ã¦ãŠã‚Šã¾ã™ã€‚ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ«ã‚³ãƒ”ãƒ¼ã‚¦ã‚§ã‚¢ã¯å“è³ªä¿è¨¼ã§å®‰å¿ƒã—ã¦ã”è³¼å…¥ãã ã•ã„! ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ã‚¸ãƒ¼ãƒ³ã‚º ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ å½ç‰© é€šè²© vogvip.com/brand-4-c0.html ãƒ¢ãƒ³ã‚¯ãƒ¬ãƒ¼ãƒ« ãƒ¡ãƒ³ã‚ºã‚³ãƒ¼ãƒˆã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼</textarea>
 	</th>
 </tr><tr>
-	<th>ŽQÆæ</th>
+	<th>å‚ç…§å…ˆ</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>íœƒL[</th>
+	<th>å‰Šé™¤ã‚­ãƒ¼</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(‰p”Žš‚Å8•¶ŽšˆÈ“à) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> ƒNƒbƒL[•Û‘¶
+		(è‹±æ•°å­—ã§8æ–‡å­—ä»¥å†…) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> ã‚¯ãƒƒã‚­ãƒ¼ä¿å­˜
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>‰æ‘œ”FØ</th>
+	<th>ç”»åƒèªè¨¼</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		i‰E‰æ‘œ‚Ì”Žš‚ð“ü—Íj <img src="./captcha.cgi?faf4947f9ccecd7facf485beb738aac2844d" class="capt" alt="“ŠeƒL[" />
+		ï¼ˆå³ç”»åƒã®æ•°å­—ã‚’å…¥åŠ›ï¼‰ <img src="captcha@faf4947f9ccecd7facf485beb738aac2844d.cgi" class="capt" alt="æŠ•ç¨¿ã‚­ãƒ¼" />
 		<input type="hidden" name="str_crypt" value="faf4947f9ccecd7facf485beb738aac2844d" />
 	</td>
 <!-- captcha_end -->
@@ -88,63 +88,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>439</b>] <strong>“úíŽg‚¢—p‚É‘I‚ñ‚¾ƒ‹ƒCƒ”ƒBƒgƒ“</strong>
-	“ŠeŽÒF<b>‚½‚µ‚ë</b> “Še“úF2026/05/13(Wed) 18:53 &nbsp; [<a href="./light.cgi?res=439">•ÔM</a>]
-	<div class="com">ŽÀ—p•i‚Æ‚µ‚Ä‚È‚çA•K‚¸‚µ‚à³‹K•i‚É‚±‚¾‚í‚ç‚È‚­‚Ä‚à‚¢‚¢‚©‚È‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B<br />Totecopy‚Å”ƒ‚Á‚½ƒ‹ƒCƒ”ƒBƒgƒ“‚ÌƒoƒbƒO‚Í‘z‘œˆÈã‚Éì‚è‚ª—Ç‚­A‰J‚Ì“ú‚â—·s—p‚Æ‚µ‚Ä‹CŠy‚ÉŽg‚¦‚Ä‚¢‚Ü‚·B<br />ŽQl‚Ü‚Å‚ÉB<br /><a href="https://www.totecopy.com/copyn-20-b0.html" target="_blank">https://www.totecopy.com/copyn-20-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
+	[<b>439</b>] <strong>æ—¥å¸¸ä½¿ã„ç”¨ã«é¸ã‚“ã ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãŸã—ã‚</b> æŠ•ç¨¿æ—¥ï¼š2026/05/13(Wed) 18:53 &nbsp; [<a href="light@res_439.cgi">è¿”ä¿¡</a>]
+	<div class="com">å®Ÿç”¨å“ã¨ã—ã¦ãªã‚‰ã€å¿…ãšã—ã‚‚æ­£è¦å“ã«ã“ã ã‚ã‚‰ãªãã¦ã‚‚ã„ã„ã‹ãªã¨æ€ã£ã¦ã„ã¾ã™ã€‚<br />Totecopyã§è²·ã£ãŸãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³ã®ãƒãƒƒã‚°ã¯æƒ³åƒä»¥ä¸Šã«ä½œã‚ŠãŒè‰¯ãã€é›¨ã®æ—¥ã‚„æ—…è¡Œç”¨ã¨ã—ã¦æ°—æ¥½ã«ä½¿ãˆã¦ã„ã¾ã™ã€‚<br />å‚è€ƒã¾ã§ã«ã€‚<br /><a href="https://www.totecopy.com/copyn-20-b0.html" target="_blank">https://www.totecopy.com/copyn-20-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
 </div>
 
 <div class="art">
 	[<b>438</b>] <strong>lsm99</strong>
-	“ŠeŽÒF<b><a href="mailto:lsm99dna.service@gmail.com">lsm99</a></b> “Še“úF2026/05/04(Mon) 06:28 &nbsp; [<a href="./light.cgi?res=438">•ÔM</a>]
-	<div class="com">[ƒgƒbƒv‚É–ß‚é] [ƒXƒŒƒbƒh•\Ž¦] [ƒgƒsƒbƒN•\Ž¦] [ƒAƒ‹ƒoƒ€] [—¯ˆÓŽ–€] [ƒ[ƒhŒŸõ] [ŠÇ——p]<p class="url"><a href="https://lsm999dna.online" target="_blank">https://lsm999dna.online</a></p></div>
+	æŠ•ç¨¿è€…ï¼š<b><a href="mailto:lsm99dna.service@gmail.com">lsm99</a></b> æŠ•ç¨¿æ—¥ï¼š2026/05/04(Mon) 06:28 &nbsp; [<a href="light@res_438.cgi">è¿”ä¿¡</a>]
+	<div class="com">[ãƒˆãƒƒãƒ—ã«æˆ»ã‚‹] [ã‚¹ãƒ¬ãƒƒãƒ‰è¡¨ç¤º] [ãƒˆãƒ”ãƒƒã‚¯è¡¨ç¤º] [ã‚¢ãƒ«ãƒãƒ ] [ç•™æ„äº‹é …] [ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢] [ç®¡ç†ç”¨]<p class="url"><a href="https://lsm999dna.online" target="_blank">https://lsm999dna.online</a></p></div>
 </div>
 
 <div class="art">
-	[<b>437</b>] <strong>ƒrƒrƒRƒs[ N‹‰•i‚¨‚·‚·‚ßI</strong>
-	“ŠeŽÒF<b>BiBicopy</b> “Še“úF2026/04/23(Thu) 18:41 &nbsp; [<a href="./light.cgi?res=437">•ÔM</a>]
-	<div class="com">BiBicopy(ƒrƒrƒRƒs[) ‚ÍƒX[ƒp[ƒRƒs[—D—ÇƒTƒCƒgƒ‰ƒ“ƒLƒ“ƒO NO.1A2026”NVì‚Ìƒuƒ‰ƒ“ƒhƒRƒs[N‹‰•i‚¨‚·‚·‚ßAÅ‘å‹‰ƒnƒCƒuƒ‰ƒ“ƒh‹U•¨ŒƒˆÀŒûƒRƒ~’Ê”ÌA‘——¿–³—¿A•iŽ¿•ÛØI   <a href="https://www.bibicopy.net/" target="_blank">https://www.bibicopy.net/</a><p class="url"><a href="https://www.bibicopy.net/" target="_blank">https://www.bibicopy.net/</a></p></div>
+	[<b>437</b>] <strong>ãƒ“ãƒ“ã‚³ãƒ”ãƒ¼ Nç´šå“ãŠã™ã™ã‚ï¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>BiBicopy</b> æŠ•ç¨¿æ—¥ï¼š2026/04/23(Thu) 18:41 &nbsp; [<a href="light@res_437.cgi">è¿”ä¿¡</a>]
+	<div class="com">BiBicopy(ãƒ“ãƒ“ã‚³ãƒ”ãƒ¼) ã¯ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼å„ªè‰¯ã‚µã‚¤ãƒˆãƒ©ãƒ³ã‚­ãƒ³ã‚° NO.1ã€2026å¹´æ–°ä½œã®ãƒ–ãƒ©ãƒ³ãƒ‰ã‚³ãƒ”ãƒ¼Nç´šå“ãŠã™ã™ã‚ã€æœ€å¤§ç´šãƒã‚¤ãƒ–ãƒ©ãƒ³ãƒ‰å½ç‰©æ¿€å®‰å£ã‚³ãƒŸé€šè²©ã€é€æ–™ç„¡æ–™ã€å“è³ªä¿è¨¼ï¼   <a href="https://www.bibicopy.net/" target="_blank">https://www.bibicopy.net/</a><p class="url"><a href="https://www.bibicopy.net/" target="_blank">https://www.bibicopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>436</b>] <strong>ƒ”ƒ@ƒVƒ…ƒƒ“ƒRƒ“ƒXƒ^ƒ“ƒ^ƒ“ƒX[ƒp[ƒRƒs[</strong>
-	“ŠeŽÒF<b>ƒ”ƒ@ƒVƒ…ƒƒ“ƒRƒ“ƒXƒ^ƒ“ƒ^ƒ“ƒX[ƒp[ƒRƒs[</b> “Še“úF2026/04/09(Thu) 18:58 &nbsp; [<a href="./light.cgi?res=436">•ÔM</a>]
-	<div class="com">ƒ”ƒ@ƒVƒ…ƒƒ“ƒRƒ“ƒXƒ^ƒ“ƒ^ƒ“ƒX[ƒp[ƒRƒs[‘ãˆø‚«,ƒ”ƒ@ƒVƒ…ƒƒ“ƒRƒ“ƒXƒ^ƒ“ƒ^ƒ“ ŽžŒvƒRƒs[N‹‰•i‚¨‚·‚·‚ß—D—Ç“Xujpkopiv!<br />‘ål‹Cƒ”ƒ@ƒVƒ…ƒƒ“ƒRƒ“ƒXƒ^ƒ“ƒ^ƒ“ŽžŒvƒX[ƒp[ƒRƒs[ n‹‰•i‘ãˆø‚«ˆÀ‘SŒã•¥‚¢’Ê”ÌƒTƒCƒgujpkopiv!ŒûƒRƒ~Å‚‹‰‚Ìƒ”ƒ@ƒVƒ…ƒƒ“ƒRƒ“ƒXƒ^ƒ“ƒ^ƒ“ƒX[ƒp[ƒRƒs[ŒƒˆÀ’Ê”ÌB‘ål‹C‚Ìƒ”ƒ@ƒVƒ…ƒƒ“ƒRƒ“ƒXƒ^ƒ“ƒ^ƒ“ŽžŒvƒRƒs[‚ª‘åW‡I–{•¨‚Æ“¯—l‚Ì‘fÞ‚ðŒµ‘I‚µA×•”‚É‚í‚½‚è’‰ŽÀ‚ÉÄŒ»‚µ‚Ä‚¢‚Ü‚·C‘SŽÀ•¨¤•iŽÊ^‚Å‚·ƒ”ƒ@ƒVƒ…ƒƒ“ƒRƒ“ƒXƒ^ƒ“ƒ^ƒ“N‹‰•i‹U•¨Vì‚Í“ú–{‘“à‚Å‚Ì‘——¿‚ª–³—¿‚É‚È‚è‚Ü‚·A•iŽ¿3”N•ÛØ‚ÅB<br /><a href="https://www.jpkopi.net/products/watch/vacheron-constsntin/" target="_blank">https://www.jpkopi.net/products/watch/vacheron-constsntin/</a></div>
+	[<b>436</b>] <strong>ãƒ´ã‚¡ã‚·ãƒ¥ãƒ­ãƒ³ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¿ãƒ³ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒ´ã‚¡ã‚·ãƒ¥ãƒ­ãƒ³ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¿ãƒ³ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2026/04/09(Thu) 18:58 &nbsp; [<a href="light@res_436.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒ´ã‚¡ã‚·ãƒ¥ãƒ­ãƒ³ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¿ãƒ³ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ä»£å¼•ã,ãƒ´ã‚¡ã‚·ãƒ¥ãƒ­ãƒ³ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¿ãƒ³ æ™‚è¨ˆã‚³ãƒ”ãƒ¼Nç´šå“ãŠã™ã™ã‚å„ªè‰¯åº—ã€Œjpkopiã€!<br />å¤§äººæ°—ãƒ´ã‚¡ã‚·ãƒ¥ãƒ­ãƒ³ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¿ãƒ³æ™‚è¨ˆã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ nç´šå“ä»£å¼•ãå®‰å…¨å¾Œæ‰•ã„é€šè²©ã‚µã‚¤ãƒˆã€Œjpkopiã€!å£ã‚³ãƒŸæœ€é«˜ç´šã®ãƒ´ã‚¡ã‚·ãƒ¥ãƒ­ãƒ³ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¿ãƒ³ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼æ¿€å®‰é€šè²©ã€‚å¤§äººæ°—ã®ãƒ´ã‚¡ã‚·ãƒ¥ãƒ­ãƒ³ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¿ãƒ³æ™‚è¨ˆã‚³ãƒ”ãƒ¼ãŒå¤§é›†åˆï¼æœ¬ç‰©ã¨åŒæ§˜ã®ç´ æã‚’åŽ³é¸ã—ã€ç´°éƒ¨ã«ã‚ãŸã‚Šå¿ å®Ÿã«å†ç¾ã—ã¦ã„ã¾ã™ï¼Œå…¨å®Ÿç‰©å•†å“å†™çœŸã§ã™ãƒ´ã‚¡ã‚·ãƒ¥ãƒ­ãƒ³ã‚³ãƒ³ã‚¹ã‚¿ãƒ³ã‚¿ãƒ³Nç´šå“å½ç‰©æ–°ä½œã¯æ—¥æœ¬å›½å†…ã§ã®é€æ–™ãŒç„¡æ–™ã«ãªã‚Šã¾ã™ã€å“è³ª3å¹´ä¿è¨¼ã§ã€‚<br /><a href="https://www.jpkopi.net/products/watch/vacheron-constsntin/" target="_blank">https://www.jpkopi.net/products/watch/vacheron-constsntin/</a></div>
 </div>
 
 <div class="art">
-	[<b>435</b>] <strong>IWC ƒX[ƒp[ƒRƒs[‘ãˆø‚«</strong>
-	“ŠeŽÒF<b>IWC ƒX[ƒp[ƒRƒs[‘ãˆø‚«</b> “Še“úF2026/04/01(Wed) 12:26 &nbsp; [<a href="./light.cgi?res=435">•ÔM</a>]
-	<div class="com">IWC ƒX[ƒp[ƒRƒs[‘ãˆø‚«,IWC ŽžŒvƒRƒs[N‹‰•i‚¨‚·‚·‚ß—D—Ç“Xujpkopiv!<br />‘ål‹CIWC ŽžŒvƒX[ƒp[ƒRƒs[ n‹‰•i‘ãˆø‚«ˆÀ‘SŒã•¥‚¢’Ê”ÌƒTƒCƒgujpkopiv!ŒûƒRƒ~Å‚‹‰‚ÌIWCƒX[ƒp[ƒRƒs[ŒƒˆÀ’Ê”ÌB‘ål‹C‚ÌIWCŽžŒvƒRƒs[‚ª‘åW‡I–{•¨‚Æ“¯—l‚Ì‘fÞ‚ðŒµ‘I‚µA×•”‚É‚í‚½‚è’‰ŽÀ‚ÉÄŒ»‚µ‚Ä‚¢‚Ü‚·C‘SŽÀ•¨¤•iŽÊ^‚Å‚·iwcN‹‰•i‹U•¨Vì‚Í“ú–{‘“à‚Å‚Ì‘——¿‚ª–³—¿‚É‚È‚è‚Ü‚·A•iŽ¿3”N•ÛØ‚ÅB<br /><a href="https://www.jpkopi.net/products/watch/iwc/" target="_blank">https://www.jpkopi.net/products/watch/iwc/</a></div>
+	[<b>435</b>] <strong>IWC ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ä»£å¼•ã</strong>
+	æŠ•ç¨¿è€…ï¼š<b>IWC ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ä»£å¼•ã</b> æŠ•ç¨¿æ—¥ï¼š2026/04/01(Wed) 12:26 &nbsp; [<a href="light@res_435.cgi">è¿”ä¿¡</a>]
+	<div class="com">IWC ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ä»£å¼•ã,IWC æ™‚è¨ˆã‚³ãƒ”ãƒ¼Nç´šå“ãŠã™ã™ã‚å„ªè‰¯åº—ã€Œjpkopiã€!<br />å¤§äººæ°—IWC æ™‚è¨ˆã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ nç´šå“ä»£å¼•ãå®‰å…¨å¾Œæ‰•ã„é€šè²©ã‚µã‚¤ãƒˆã€Œjpkopiã€!å£ã‚³ãƒŸæœ€é«˜ç´šã®IWCã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼æ¿€å®‰é€šè²©ã€‚å¤§äººæ°—ã®IWCæ™‚è¨ˆã‚³ãƒ”ãƒ¼ãŒå¤§é›†åˆï¼æœ¬ç‰©ã¨åŒæ§˜ã®ç´ æã‚’åŽ³é¸ã—ã€ç´°éƒ¨ã«ã‚ãŸã‚Šå¿ å®Ÿã«å†ç¾ã—ã¦ã„ã¾ã™ï¼Œå…¨å®Ÿç‰©å•†å“å†™çœŸã§ã™iwcNç´šå“å½ç‰©æ–°ä½œã¯æ—¥æœ¬å›½å†…ã§ã®é€æ–™ãŒç„¡æ–™ã«ãªã‚Šã¾ã™ã€å“è³ª3å¹´ä¿è¨¼ã§ã€‚<br /><a href="https://www.jpkopi.net/products/watch/iwc/" target="_blank">https://www.jpkopi.net/products/watch/iwc/</a></div>
 </div>
 
 <div class="art">
-	[<b>434</b>] <strong>FENDI‹U•¨ƒuƒ‰ƒ“ƒh vogvip.com/brand-10-c0.html ƒtƒFƒ“ƒfƒBƒX[ƒp[ƒRƒs[ ‘ãˆø</strong>
-	“ŠeŽÒF<b>ƒtƒFƒ“ƒfƒBƒX[ƒp[ƒRƒs[ ŒƒˆÀ</b> “Še“úF2026/03/25(Wed) 02:21 &nbsp; [<a href="./light.cgi?res=434">•ÔM</a>]
-	<div class="com">2026t‰Ä‹G’´l‹C ƒtƒFƒ“ƒfƒB FENDIƒRƒs[ƒuƒ‰ƒ“ƒh WTFEN018 ƒp[ƒJ[ ‚à‚Á‚Æ‚à‚‚¢l‹C‚ðŒÖ‚é ƒWƒƒƒPƒbƒg‚Ìƒtƒƒ“ƒg‚É‚ÍƒAƒVƒ“ƒƒgƒŠ[‚ÈƒWƒbƒv‚ðÌ—p‚µA“`““I‚È‘ÎÌ”üŠw‚ð‘Å‚¿”j‚èA•sã±‚Ìƒtƒ@ƒbƒVƒ‡ƒ“‘Ô“x‚ð•\Œ»‚µ‚Ä‚¢‚Ü‚·BFENDI‹U•¨ƒuƒ‰ƒ“ƒh vogvip.com/brand-10-c0.html ƒtƒFƒ“ƒfƒBƒX[ƒp[ƒRƒs[ ‘ãˆø ƒtƒ@ƒXƒi[‚ÌŽ¿Š´‚ª\•ª‚ÅAƒXƒ€[ƒY‚Éˆø‚Á’£‚Á‚ÄA‘S‘Ì‚ÌƒfƒUƒCƒ“‚Éƒn[ƒh‚ÈH‹Æ•—‚ðƒvƒ‰ƒX‚µ‚Ü‚·B‚»‚ê‚É‰Á‚¦‚ÄA•ž‚É‚ÍFENDI ’è”Ô‚Ìlogo ‚Ì—v‘f‚ªŽU‚è‚Î‚ß‚ç‚ê‚Ä‚¢‚Ü‚·BƒX[ƒp[ƒRƒs[ vogvip.com VOGƒX[ƒp[ƒRƒs[ ‚±‚ê‚ç‚Ìlogo ‚Í“Æ“Á‚È•û–@‚Å•\Œ»‚³‚êAŽhJHŒ|‚ðÌ—p‚µ‚½‚èAƒvƒŠƒ“ƒgƒfƒUƒCƒ“‚ðÌ—p‚µ‚½‚è‚µ‚ÄAƒuƒ‰ƒ“ƒh‚ÌƒAƒCƒfƒ“ƒeƒBƒeƒB‚ð‹­’²‚·‚é‚Æ“¯Žž‚ÉAƒWƒƒƒPƒbƒg‚Éƒtƒ@ƒbƒVƒ‡ƒiƒuƒ‹‚Èƒ|ƒCƒ“ƒg‚ðƒvƒ‰ƒX‚µ‚Ü‚·B<br />–{¤•i‘ü¡@@is’† [ƒLƒƒƒ“ƒyƒ“] ‘S“X¤•i20%Š„ˆø<br />¤•i”Ô†Fvogvip2026WT-FEN018<br />ÝŒÉó‹µF 50 ‰ïˆõ‰¿ŠiF18800‰~<br />¤•iƒuƒ‰ƒ“ƒhFƒtƒFƒ“ƒfƒB FENDI<br />o•iŽžŠÔF2026-03-17 ¤•iƒJƒeƒSƒŠFƒWƒƒƒPƒbƒg ƒp[ƒJ[ ƒZ[ƒ^[ ƒR[ƒg<br />ƒtƒFƒ“ƒfƒBƒX[ƒp[ƒRƒs[ ŒƒˆÀ vogvip.com/goods-41324.html ƒtƒFƒ“ƒfƒBƒuƒ‰ƒ“ƒh ƒRƒs[</div>
+	[<b>434</b>] <strong>FENDIå½ç‰©ãƒ–ãƒ©ãƒ³ãƒ‰ vogvip.com/brand-10-c0.html ãƒ•ã‚§ãƒ³ãƒ‡ã‚£ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼•</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒ•ã‚§ãƒ³ãƒ‡ã‚£ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ æ¿€å®‰</b> æŠ•ç¨¿æ—¥ï¼š2026/03/25(Wed) 02:21 &nbsp; [<a href="light@res_434.cgi">è¿”ä¿¡</a>]
+	<div class="com">2026æ˜¥å¤å­£è¶…äººæ°— ãƒ•ã‚§ãƒ³ãƒ‡ã‚£ FENDIã‚³ãƒ”ãƒ¼ãƒ–ãƒ©ãƒ³ãƒ‰ WTFEN018 ãƒ‘ãƒ¼ã‚«ãƒ¼ ã‚‚ã£ã¨ã‚‚é«˜ã„äººæ°—ã‚’èª‡ã‚‹ ã‚¸ãƒ£ã‚±ãƒƒãƒˆã®ãƒ•ãƒ­ãƒ³ãƒˆã«ã¯ã‚¢ã‚·ãƒ³ãƒ¡ãƒˆãƒªãƒ¼ãªã‚¸ãƒƒãƒ—ã‚’æŽ¡ç”¨ã—ã€ä¼çµ±çš„ãªå¯¾ç§°ç¾Žå­¦ã‚’æ‰“ã¡ç ´ã‚Šã€ä¸ç¾ˆã®ãƒ•ã‚¡ãƒƒã‚·ãƒ§ãƒ³æ…‹åº¦ã‚’è¡¨ç¾ã—ã¦ã„ã¾ã™ã€‚FENDIå½ç‰©ãƒ–ãƒ©ãƒ³ãƒ‰ vogvip.com/brand-10-c0.html ãƒ•ã‚§ãƒ³ãƒ‡ã‚£ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ä»£å¼• ãƒ•ã‚¡ã‚¹ãƒŠãƒ¼ã®è³ªæ„ŸãŒååˆ†ã§ã€ã‚¹ãƒ ãƒ¼ã‚ºã«å¼•ã£å¼µã£ã¦ã€å…¨ä½“ã®ãƒ‡ã‚¶ã‚¤ãƒ³ã«ãƒãƒ¼ãƒ‰ãªå·¥æ¥­é¢¨ã‚’ãƒ—ãƒ©ã‚¹ã—ã¾ã™ã€‚ãã‚Œã«åŠ ãˆã¦ã€æœã«ã¯FENDI å®šç•ªã®logo ã®è¦ç´ ãŒæ•£ã‚Šã°ã‚ã‚‰ã‚Œã¦ã„ã¾ã™ã€‚ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ vogvip.com VOGã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ã“ã‚Œã‚‰ã®logo ã¯ç‹¬ç‰¹ãªæ–¹æ³•ã§è¡¨ç¾ã•ã‚Œã€åˆºç¹å·¥èŠ¸ã‚’æŽ¡ç”¨ã—ãŸã‚Šã€ãƒ—ãƒªãƒ³ãƒˆãƒ‡ã‚¶ã‚¤ãƒ³ã‚’æŽ¡ç”¨ã—ãŸã‚Šã—ã¦ã€ãƒ–ãƒ©ãƒ³ãƒ‰ã®ã‚¢ã‚¤ãƒ‡ãƒ³ãƒ†ã‚£ãƒ†ã‚£ã‚’å¼·èª¿ã™ã‚‹ã¨åŒæ™‚ã«ã€ã‚¸ãƒ£ã‚±ãƒƒãƒˆã«ãƒ•ã‚¡ãƒƒã‚·ãƒ§ãƒŠãƒ–ãƒ«ãªãƒã‚¤ãƒ³ãƒˆã‚’ãƒ—ãƒ©ã‚¹ã—ã¾ã™ã€‚<br />æœ¬å•†å“åªä»Šã€€ã€€é€²è¡Œä¸­ [ã‚­ãƒ£ãƒ³ãƒšãƒ³] å…¨åº—å•†å“20%å‰²å¼•<br />å•†å“ç•ªå·ï¼švogvip2026WT-FEN018<br />åœ¨åº«çŠ¶æ³ï¼š 50 ä¼šå“¡ä¾¡æ ¼ï¼š18800å††<br />å•†å“ãƒ–ãƒ©ãƒ³ãƒ‰ï¼šãƒ•ã‚§ãƒ³ãƒ‡ã‚£ FENDI<br />å‡ºå“æ™‚é–“ï¼š2026-03-17 å•†å“ã‚«ãƒ†ã‚´ãƒªï¼šã‚¸ãƒ£ã‚±ãƒƒãƒˆ ãƒ‘ãƒ¼ã‚«ãƒ¼ ã‚»ãƒ¼ã‚¿ãƒ¼ ã‚³ãƒ¼ãƒˆ<br />ãƒ•ã‚§ãƒ³ãƒ‡ã‚£ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ æ¿€å®‰ vogvip.com/goods-41324.html ãƒ•ã‚§ãƒ³ãƒ‡ã‚£ãƒ–ãƒ©ãƒ³ãƒ‰ ã‚³ãƒ”ãƒ¼</div>
 </div>
 
 <div class="art">
-	[<b>433</b>] <strong>ƒƒƒlƒ‹ ƒRƒs[ —D—Ç“X</strong>
-	“ŠeŽÒF<b>ƒVƒƒƒlƒ‹ ƒRƒs[l‹C</b> “Še“úF2026/03/03(Tue) 10:23 &nbsp; [<a href="./light.cgi?res=433">•ÔM</a>]
-	<div class="com">2026”N Vì ‘ål‹C Å‚ƒ‰ƒ“ƒN  www.saikopi.com/products/5025.html ƒVƒƒƒlƒ‹ ƒRƒs[ —D—Ç“X<br />»•i‚Í‚³‚ê‚Ä‚¢‚Ü‚·‚•iŽ¿‚Æ’á‰¿Ši‚Å’ñ‹ŸC100%•iŽ¿•ÛØ  www.saikopi.com/brand/chanel/ ƒVƒƒƒlƒ‹ ƒRƒs[l‹C <br />šM—p‘æˆêA—Ç‚¢•iŽ¿A’á‰¿Ši‚ÍBL‘å‚È‹q‚ðŠ½Œ}‚µ‚Ä”ƒ‚¢‚Ü‚·I<br />š‘——¿–³—¿i“ú–{‘S‘) ‚²’•¶‚ðŠú‘Ò‚µ‚Ä‚¢‚Ü‚·!  www.saikopi.com/chanelbag/ ƒVƒƒƒlƒ‹ ƒoƒbƒO ƒX[ƒp[ƒRƒs[<br />š ÅŠÖ‚Ì–vŽû‚·‚é¤•i‚ÍÄ“x–³—¿‚É‚µ‚Ä”­‘—‚µ‚Ü‚· <a href="https://www.saikopi.com/" target="_blank">https://www.saikopi.com/</a>  ƒVƒƒƒlƒ‹ ƒRƒs[ Œã•¥‚¢</div>
+	[<b>433</b>] <strong>ãƒ£ãƒãƒ« ã‚³ãƒ”ãƒ¼ å„ªè‰¯åº—</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ã‚·ãƒ£ãƒãƒ« ã‚³ãƒ”ãƒ¼äººæ°—</b> æŠ•ç¨¿æ—¥ï¼š2026/03/03(Tue) 10:23 &nbsp; [<a href="light@res_433.cgi">è¿”ä¿¡</a>]
+	<div class="com">2026å¹´ æ–°ä½œ å¤§äººæ°— æœ€é«˜ãƒ©ãƒ³ã‚¯  www.saikopi.com/products/5025.html ã‚·ãƒ£ãƒãƒ« ã‚³ãƒ”ãƒ¼ å„ªè‰¯åº—<br />è£½å“ã¯ã•ã‚Œã¦ã„ã¾ã™é«˜å“è³ªã¨ä½Žä¾¡æ ¼ã§æä¾›ï¼Œ100%å“è³ªä¿è¨¼  www.saikopi.com/brand/chanel/ ã‚·ãƒ£ãƒãƒ« ã‚³ãƒ”ãƒ¼äººæ°— <br />â˜…ä¿¡ç”¨ç¬¬ä¸€ã€è‰¯ã„å“è³ªã€ä½Žä¾¡æ ¼ã¯ã€‚åºƒå¤§ãªå®¢ã‚’æ­“è¿Žã—ã¦è²·ã„ã¾ã™ï¼<br />â˜…é€æ–™ç„¡æ–™ï¼ˆæ—¥æœ¬å…¨å›½) ã”æ³¨æ–‡ã‚’æœŸå¾…ã—ã¦ã„ã¾ã™!  www.saikopi.com/chanelbag/ ã‚·ãƒ£ãƒãƒ« ãƒãƒƒã‚° ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼<br />â˜… ç¨Žé–¢ã®æ²¡åŽã™ã‚‹å•†å“ã¯å†åº¦ç„¡æ–™ã«ã—ã¦ç™ºé€ã—ã¾ã™ <a href="https://www.saikopi.com/" target="_blank">https://www.saikopi.com/</a>  ã‚·ãƒ£ãƒãƒ« ã‚³ãƒ”ãƒ¼ å¾Œæ‰•ã„</div>
 </div>
 
 <div class="art">
 	[<b>432</b>] <strong>Re:[400] adult social</strong>
-	“ŠeŽÒF<b><a href="mailto:elowen.morrison@gmail.com">Elowen</a></b> “Še“úF2026/03/03(Tue) 00:49 &nbsp; [<a href="./light.cgi?res=432">•ÔM</a>]
-	<div class="com">RICSƒƒOƒCƒ“‚É‚¨¢‚è‚Å‚·‚©H‚Ü‚½‚ÍARICSƒAƒJƒEƒ“ƒg‚Év‘¬‚©‚ÂˆÀ‘S‚ÉƒAƒNƒZƒX‚·‚é•û–@‚ª•ª‚©‚ç‚¸‚¨”Y‚Ý‚Å‚·‚©HUNICCM‚Å‚ÍAƒƒOƒCƒ“Žè‘±‚«‚ðŽ©M‚ðŽ‚Á‚Äi‚ß‚ç‚ê‚é‚æ‚¤A•ïŠ‡“I‚ÈƒXƒeƒbƒvƒoƒCƒXƒeƒbƒv‚ÌƒKƒCƒh‚ð’ñ‹Ÿ‚µ‚Ä‚¢‚Ü‚·B<br /><br />RICSƒƒOƒCƒ“‚ðŒø—¦“I‚ÉŠ®—¹‚·‚é•û–@‚ðŠm”F‚µA¡‚·‚®UNICCM‚Æ‚Æ‚à‚ÉA‚ ‚È‚½‚ÌƒvƒƒtƒFƒbƒVƒ‡ƒiƒ‹‚ÈƒLƒƒƒŠƒAŠÇ—‚ÌŽŸ‚Ìˆê•à‚ð“¥‚Ýo‚µ‚Ü‚µ‚å‚¤B</div>
+	æŠ•ç¨¿è€…ï¼š<b><a href="mailto:elowen.morrison@gmail.com">Elowen</a></b> æŠ•ç¨¿æ—¥ï¼š2026/03/03(Tue) 00:49 &nbsp; [<a href="light@res_432.cgi">è¿”ä¿¡</a>]
+	<div class="com">RICSãƒ­ã‚°ã‚¤ãƒ³ã«ãŠå›°ã‚Šã§ã™ã‹ï¼Ÿã¾ãŸã¯ã€RICSã‚¢ã‚«ã‚¦ãƒ³ãƒˆã«è¿…é€Ÿã‹ã¤å®‰å…¨ã«ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹æ–¹æ³•ãŒåˆ†ã‹ã‚‰ãšãŠæ‚©ã¿ã§ã™ã‹ï¼ŸUNICCMã§ã¯ã€ãƒ­ã‚°ã‚¤ãƒ³æ‰‹ç¶šãã‚’è‡ªä¿¡ã‚’æŒã£ã¦é€²ã‚ã‚‰ã‚Œã‚‹ã‚ˆã†ã€åŒ…æ‹¬çš„ãªã‚¹ãƒ†ãƒƒãƒ—ãƒã‚¤ã‚¹ãƒ†ãƒƒãƒ—ã®ã‚¬ã‚¤ãƒ‰ã‚’æä¾›ã—ã¦ã„ã¾ã™ã€‚<br /><br />RICSãƒ­ã‚°ã‚¤ãƒ³ã‚’åŠ¹çŽ‡çš„ã«å®Œäº†ã™ã‚‹æ–¹æ³•ã‚’ç¢ºèªã—ã€ä»Šã™ãUNICCMã¨ã¨ã‚‚ã«ã€ã‚ãªãŸã®ãƒ—ãƒ­ãƒ•ã‚§ãƒƒã‚·ãƒ§ãƒŠãƒ«ãªã‚­ãƒ£ãƒªã‚¢ç®¡ç†ã®æ¬¡ã®ä¸€æ­©ã‚’è¸ã¿å‡ºã—ã¾ã—ã‚‡ã†ã€‚</div>
 </div>
 
 <div class="art">
-	[<b>431</b>] <strong>ƒƒGƒx ƒRƒs[</strong>
-	“ŠeŽÒF<b>aaa</b> “Še“úF2026/02/09(Mon) 17:42 &nbsp; [<a href="./light.cgi?res=431">•ÔM</a>]
-	<div class="com">ƒƒGƒxŠ®¬“x‚Ì‚‚³‚©‚çN‹‰•i‚Æ‚¢‚¤Œ¾—t‚ª˜b‘è‚Éã‚é‚±‚Æ‚à‚ ‚é‚ªA‚»‚ê‚Í’–Ú“x‚Ì— •Ô‚µ‚É‚·‚¬‚È‚¢B–{—ˆ‚ÌN‹‰•i‚Å‚Í‚È‚¢³‹K•i‚¾‚©‚ç‚±‚»A‘fÞ‚â–D»‚Ì·‚Í–¾Šm‚ÅA‚»‚Ì‰¿’l‚Í’…—p‚·‚é‚Ù‚Ç‚ÉŽÀŠ´‚Å‚«‚éB‰¿Ši‘Ñ‚¾‚¯‚ðŒ©‚é‚ÆŒˆ‚µ‚ÄˆÀ‰¿‚Å‚Í‚È‚¢‚ªAŠ®¬“x‚Æ‘Ï‹v«‚ðl—¶‚·‚ê‚ÎA’·‚¢–Ú‚ÅŒ©‚ÄŒƒˆÀ‚ÆŠ´‚¶‚él‚à‘½‚¢‚¾‚ë‚¤B×‚¢ƒ‰ƒCƒ“‚Ìˆê•”‚Éƒuƒ‹[‚ð·‚µž‚Þ‚±‚Æ‚ÅA‘S‘Ì‚ÉŒy‚â‚©‚Å—ÁŠ´‚Ì‚ ‚éˆóÛ‚ðƒvƒ‰ƒX‚µ‚Ä‚¢‚éB<br /><br /><a href="https://www.aaakopi.com/brand-82-c0.html" target="_blank">https://www.aaakopi.com/brand-82-c0.html</a> ƒƒGƒx ƒRƒs[<br />www.levelkopi.jp/b-kopi_burberry.html ƒo[ƒoƒŠ[ ƒRƒs[ ŒƒˆÀ<br />www.forkopi.jp/brand/cartier-copy/  ƒJƒ‹ƒeƒBƒG ƒRƒs[<br />aaakopiobserve.yoka-yoka.jp/<p class="url"><a href="https://www.aaakopi.com/brand-82-c0.html" target="_blank">https://www.aaakopi.com/brand-82-c0.html</a></p></div>
+	[<b>431</b>] <strong>ãƒ­ã‚¨ãƒ™ ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>aaa</b> æŠ•ç¨¿æ—¥ï¼š2026/02/09(Mon) 17:42 &nbsp; [<a href="light@res_431.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒ­ã‚¨ãƒ™å®Œæˆåº¦ã®é«˜ã•ã‹ã‚‰Nç´šå“ã¨ã„ã†è¨€è‘‰ãŒè©±é¡Œã«ä¸Šã‚‹ã“ã¨ã‚‚ã‚ã‚‹ãŒã€ãã‚Œã¯æ³¨ç›®åº¦ã®è£è¿”ã—ã«ã™ãŽãªã„ã€‚æœ¬æ¥ã®Nç´šå“ã§ã¯ãªã„æ­£è¦å“ã ã‹ã‚‰ã“ãã€ç´ æã‚„ç¸«è£½ã®å·®ã¯æ˜Žç¢ºã§ã€ãã®ä¾¡å€¤ã¯ç€ç”¨ã™ã‚‹ã»ã©ã«å®Ÿæ„Ÿã§ãã‚‹ã€‚ä¾¡æ ¼å¸¯ã ã‘ã‚’è¦‹ã‚‹ã¨æ±ºã—ã¦å®‰ä¾¡ã§ã¯ãªã„ãŒã€å®Œæˆåº¦ã¨è€ä¹…æ€§ã‚’è€ƒæ…®ã™ã‚Œã°ã€é•·ã„ç›®ã§è¦‹ã¦æ¿€å®‰ã¨æ„Ÿã˜ã‚‹äººã‚‚å¤šã„ã ã‚ã†ã€‚ç´°ã„ãƒ©ã‚¤ãƒ³ã®ä¸€éƒ¨ã«ãƒ–ãƒ«ãƒ¼ã‚’å·®ã—è¾¼ã‚€ã“ã¨ã§ã€å…¨ä½“ã«è»½ã‚„ã‹ã§æ¶¼æ„Ÿã®ã‚ã‚‹å°è±¡ã‚’ãƒ—ãƒ©ã‚¹ã—ã¦ã„ã‚‹ã€‚<br /><br /><a href="https://www.aaakopi.com/brand-82-c0.html" target="_blank">https://www.aaakopi.com/brand-82-c0.html</a> ãƒ­ã‚¨ãƒ™ ã‚³ãƒ”ãƒ¼<br />www.levelkopi.jp/b-kopi_burberry.html ãƒãƒ¼ãƒãƒªãƒ¼ ã‚³ãƒ”ãƒ¼ æ¿€å®‰<br />www.forkopi.jp/brand/cartier-copy/  ã‚«ãƒ«ãƒ†ã‚£ã‚¨ ã‚³ãƒ”ãƒ¼<br />aaakopiobserve.yoka-yoka.jp/<p class="url"><a href="https://www.aaakopi.com/brand-82-c0.html" target="_blank">https://www.aaakopi.com/brand-82-c0.html</a></p></div>
 </div>
 
 <div class="art">
-	[<b>430</b>] <strong>“úíŽg‚¢—p‚É‘I‚ñ‚¾ƒ‹ƒCƒ”ƒBƒgƒ“</strong>
-	“ŠeŽÒF<b>‚½‚­‚Ý</b> “Še“úF2026/01/27(Tue) 18:08 &nbsp; [<a href="./light.cgi?res=430">•ÔM</a>]
-	<div class="com">ŽÀ—p•i‚Æ‚µ‚Ä‚È‚çA•K‚¸‚µ‚à³‹K•i‚É‚±‚¾‚í‚ç‚È‚­‚Ä‚à‚¢‚¢‚©‚È‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B<br />Totecopy‚Å”ƒ‚Á‚½ƒ‹ƒCƒ”ƒBƒgƒ“‚ÌƒoƒbƒO‚Í‘z‘œˆÈã‚Éì‚è‚ª—Ç‚­A‰J‚Ì“ú‚â—·s—p‚Æ‚µ‚Ä‹CŠy‚ÉŽg‚¦‚Ä‚¢‚Ü‚·B<br />ŽQl‚Ü‚Å‚ÉB<br /><a href="https://www.totecopy.com/copyn-20-b0.html" target="_blank">https://www.totecopy.com/copyn-20-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
+	[<b>430</b>] <strong>æ—¥å¸¸ä½¿ã„ç”¨ã«é¸ã‚“ã ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãŸãã¿</b> æŠ•ç¨¿æ—¥ï¼š2026/01/27(Tue) 18:08 &nbsp; [<a href="light@res_430.cgi">è¿”ä¿¡</a>]
+	<div class="com">å®Ÿç”¨å“ã¨ã—ã¦ãªã‚‰ã€å¿…ãšã—ã‚‚æ­£è¦å“ã«ã“ã ã‚ã‚‰ãªãã¦ã‚‚ã„ã„ã‹ãªã¨æ€ã£ã¦ã„ã¾ã™ã€‚<br />Totecopyã§è²·ã£ãŸãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³ã®ãƒãƒƒã‚°ã¯æƒ³åƒä»¥ä¸Šã«ä½œã‚ŠãŒè‰¯ãã€é›¨ã®æ—¥ã‚„æ—…è¡Œç”¨ã¨ã—ã¦æ°—æ¥½ã«ä½¿ãˆã¦ã„ã¾ã™ã€‚<br />å‚è€ƒã¾ã§ã«ã€‚<br /><a href="https://www.totecopy.com/copyn-20-b0.html" target="_blank">https://www.totecopy.com/copyn-20-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
 </div>
 
 
@@ -152,24 +152,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-‹LŽ–No<input type="text" name="num" size="3" />
-íœƒL[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="íœ" />
+è¨˜äº‹No<input type="text" name="num" size="3" />
+å‰Šé™¤ã‚­ãƒ¼<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="å‰Šé™¤" />
 </form>
 </div>
 

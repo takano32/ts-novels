@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,58 +13,58 @@ function popup(url) {
 }
 // -->
 </script>
-<title>ƒNƒŠƒGƒCƒ^[ƒYEƒtƒƒAi‰¼j</title>
+<title>ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼ã‚ºãƒ»ãƒ•ãƒ­ã‚¢ï¼ˆä»®ï¼‰</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>ƒNƒŠƒGƒCƒ^[ƒYEƒtƒƒAi‰¼j</h1>
+<h1>ã‚¯ãƒªã‚¨ã‚¤ã‚¿ãƒ¼ã‚ºãƒ»ãƒ•ãƒ­ã‚¢ï¼ˆä»®ï¼‰</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">ƒgƒbƒv‚É–ß‚é</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">—¯ˆÓŽ–€</a>]
-[<a href="./light.cgi?mode=find">ƒ[ƒhŒŸõ</a>]
+[<a href="../../index.html" target="_top">ãƒˆãƒƒãƒ—ã«æˆ»ã‚‹</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">ç•™æ„äº‹é …</a>]
+[<a href="light@mode_find.cgi">ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">‰ß‹ŽƒƒO</a>]
+[<a href="light@mode_past.cgi">éŽåŽ»ãƒ­ã‚°</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">ŠÇ——p</a>]
+[<a href="admin.cgi">ç®¡ç†ç”¨</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>‚¨‚È‚Ü‚¦</th>
+	<th>ãŠãªã¾ãˆ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>‚dƒ[ƒ‹</th>
+	<th>ï¼¥ãƒ¡ãƒ¼ãƒ«</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>ƒ^ƒCƒgƒ‹</th>
+	<th>ã‚¿ã‚¤ãƒˆãƒ«</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[244] ƒtƒBƒŠƒbƒvƒvƒŒƒCƒ“ŒƒˆÀ ’Ê”Ì ƒuƒ‰ƒ“ƒhvog.agvol.com/brand-29-c0.html" />
-    	<input type="submit" value="‘—M‚·‚é" /><input type="reset" value="ƒŠƒZƒbƒg" />
+    	<input type="text" name="sub" size="36" value="Re:[244] ãƒ•ã‚£ãƒªãƒƒãƒ—ãƒ—ãƒ¬ã‚¤ãƒ³æ¿€å®‰ é€šè²© ãƒ–ãƒ©ãƒ³ãƒ‰vog.agvol.com/brand-29-c0.html" />
+    	<input type="submit" value="é€ä¿¡ã™ã‚‹" /><input type="reset" value="ãƒªã‚»ãƒƒãƒˆ" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	ƒƒbƒZ[ƒW<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; ‘ål‚Ì‚¨‚µ‚á‚ê‚É ƒtƒBƒŠƒbƒvƒvƒŒƒCƒ“ PHILIPP PLEIN ƒX[ƒp[ƒRƒs[ 2022t‰Ä ”¼‘³TƒVƒƒƒc ƒWƒƒƒPTƒVƒƒƒc ƒƒ“ƒY ”¼‘³ tƒVƒƒƒc –³’n 2F‰Â‘Ivog.agvol.com/goods-121259.html ‘ål‚Ì‚¨‚µ‚á‚ê‚É ƒtƒBƒŠƒbƒvƒvƒŒƒCƒ“ PHILIPP PLEIN ƒX[ƒp[ƒRƒs[ 2022t‰Ä ”¼‘³TƒVƒƒƒc ƒWƒƒƒPTƒVƒƒƒc ƒƒ“ƒY ”¼‘³ tƒVƒƒƒc –³’n  2F‰Â‘I  PHILIPP PLEINŒƒˆÀ ’Ê”Ì ƒuƒ‰ƒ“ƒhvog.agvol.com/brand-29-c0.htmlƒtƒBƒŠƒbƒvƒvƒŒƒCƒ“ƒX[ƒp[ ƒRƒs[ ƒuƒ‰ƒ“ƒh ‘ål‚Ì‚¨‚µ‚á‚ê‚É ƒtƒBƒŠƒbƒvƒvƒŒƒCƒ“ PHILIPP PLEIN ƒX[ƒp[ƒRƒs[ 2022t‰Ä ”¼‘³TƒVƒƒƒc ƒWƒƒƒPTƒVƒƒƒc ƒƒ“ƒY ”¼‘³ tƒVƒƒƒc –³’n  2F‰Â‘I </textarea>
+    	ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; å¤§äººã®ãŠã—ã‚ƒã‚Œã« ãƒ•ã‚£ãƒªãƒƒãƒ—ãƒ—ãƒ¬ã‚¤ãƒ³ PHILIPP PLEIN ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ 2022æ˜¥å¤ åŠè¢–Tã‚·ãƒ£ãƒ„ ã‚¸ãƒ£ã‚±Tã‚·ãƒ£ãƒ„ ãƒ¡ãƒ³ã‚º åŠè¢– tã‚·ãƒ£ãƒ„ ç„¡åœ° 2è‰²å¯é¸vog.agvol.com/goods-121259.html å¤§äººã®ãŠã—ã‚ƒã‚Œã« ãƒ•ã‚£ãƒªãƒƒãƒ—ãƒ—ãƒ¬ã‚¤ãƒ³ PHILIPP PLEIN ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ 2022æ˜¥å¤ åŠè¢–Tã‚·ãƒ£ãƒ„ ã‚¸ãƒ£ã‚±Tã‚·ãƒ£ãƒ„ ãƒ¡ãƒ³ã‚º åŠè¢– tã‚·ãƒ£ãƒ„ ç„¡åœ°  2è‰²å¯é¸  PHILIPP PLEINæ¿€å®‰ é€šè²© ãƒ–ãƒ©ãƒ³ãƒ‰vog.agvol.com/brand-29-c0.htmlãƒ•ã‚£ãƒªãƒƒãƒ—ãƒ—ãƒ¬ã‚¤ãƒ³ã‚¹ãƒ¼ãƒ‘ãƒ¼ ã‚³ãƒ”ãƒ¼ ãƒ–ãƒ©ãƒ³ãƒ‰ å¤§äººã®ãŠã—ã‚ƒã‚Œã« ãƒ•ã‚£ãƒªãƒƒãƒ—ãƒ—ãƒ¬ã‚¤ãƒ³ PHILIPP PLEIN ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ 2022æ˜¥å¤ åŠè¢–Tã‚·ãƒ£ãƒ„ ã‚¸ãƒ£ã‚±Tã‚·ãƒ£ãƒ„ ãƒ¡ãƒ³ã‚º åŠè¢– tã‚·ãƒ£ãƒ„ ç„¡åœ°  2è‰²å¯é¸ </textarea>
 	</th>
 </tr><tr>
-	<th>ŽQÆæ</th>
+	<th>å‚ç…§å…ˆ</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>íœƒL[</th>
+	<th>å‰Šé™¤ã‚­ãƒ¼</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(‰p”Žš‚Å8•¶ŽšˆÈ“à) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> ƒNƒbƒL[•Û‘¶
+		(è‹±æ•°å­—ã§8æ–‡å­—ä»¥å†…) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> ã‚¯ãƒƒã‚­ãƒ¼ä¿å­˜
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>‰æ‘œ”FØ</th>
+	<th>ç”»åƒèªè¨¼</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		i‰E‰æ‘œ‚Ì”Žš‚ð“ü—Íj <img src="./captcha.cgi?f9fe9d7f9acfca77acf482bebb38afc48146" class="capt" alt="“ŠeƒL[" />
+		ï¼ˆå³ç”»åƒã®æ•°å­—ã‚’å…¥åŠ›ï¼‰ <img src="captcha@f9fe9d7f9acfca77acf482bebb38afc48146.cgi" class="capt" alt="æŠ•ç¨¿ã‚­ãƒ¼" />
 		<input type="hidden" name="str_crypt" value="f9fe9d7f9acfca77acf482bebb38afc48146" />
 	</td>
 <!-- captcha_end -->
@@ -75,63 +75,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>272</b>] <strong>ƒGƒ‹ƒƒXƒRƒs[</strong>
-	“ŠeŽÒF<b>ƒnƒRƒs[</b> “Še“úF2024/02/21(Wed) 17:35 &nbsp; [<a href="./light.cgi?res=272">•ÔM</a>]
-	<div class="com">ƒGƒ‹ƒƒXƒRƒs[‚ÍA‚•iŽ¿‚È»•i‚ÆŽè‚²‚ë‚È‰¿Ši‚Ì‘g‚Ý‡‚í‚¹‚É‚æ‚èAƒtƒ@ƒbƒVƒ‡ƒ“ˆ¤DŽÒ‚ÉL‚­ŽxŽ‚³‚ê‚Ä‚¢‚Ü‚·BŒ«‚¢‘I‘ð‚ÅƒXƒ^ƒCƒŠƒbƒVƒ…‚È“úí‚ð‰‰o‚µ‚Ü‚µ‚å‚¤B<a href="https://www.hacopy.net/hermes" target="_blank">https://www.hacopy.net/hermes</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>272</b>] <strong>ã‚¨ãƒ«ãƒ¡ã‚¹ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2024/02/21(Wed) 17:35 &nbsp; [<a href="light@res_272.cgi">è¿”ä¿¡</a>]
+	<div class="com">ã‚¨ãƒ«ãƒ¡ã‚¹ã‚³ãƒ”ãƒ¼ã¯ã€é«˜å“è³ªãªè£½å“ã¨æ‰‹ã”ã‚ãªä¾¡æ ¼ã®çµ„ã¿åˆã‚ã›ã«ã‚ˆã‚Šã€ãƒ•ã‚¡ãƒƒã‚·ãƒ§ãƒ³æ„›å¥½è€…ã«åºƒãæ”¯æŒã•ã‚Œã¦ã„ã¾ã™ã€‚è³¢ã„é¸æŠžã§ã‚¹ã‚¿ã‚¤ãƒªãƒƒã‚·ãƒ¥ãªæ—¥å¸¸ã‚’æ¼”å‡ºã—ã¾ã—ã‚‡ã†ã€‚<a href="https://www.hacopy.net/hermes" target="_blank">https://www.hacopy.net/hermes</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>271</b>] <strong>ƒX[ƒp[ƒRƒs[ƒoƒbƒO—D—Ç“X</strong>
-	“ŠeŽÒF<b>ƒnƒRƒs[</b> “Še“úF2024/01/19(Fri) 17:24 &nbsp; [<a href="./light.cgi?res=271">•ÔM</a>]
-	<div class="com">hacopyƒX[ƒp[ƒRƒs[ƒoƒbƒO‚»‚Ì“Á’¥“I‚ÈƒRƒXƒgƒpƒtƒH[ƒ}ƒ“ƒX‚Æô—û‚³‚ê‚½ƒfƒUƒCƒ“‚ÍA‘¼‚É‚Í‚È‚¢–£—Í‚ðŽ‚Á‚Ä‚¢‚Ü‚·B<a href="https://www.hacopy.net/baggu/" target="_blank">https://www.hacopy.net/baggu/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>271</b>] <strong>ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ãƒãƒƒã‚°å„ªè‰¯åº—</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2024/01/19(Fri) 17:24 &nbsp; [<a href="light@res_271.cgi">è¿”ä¿¡</a>]
+	<div class="com">hacopyã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ãƒãƒƒã‚°ãã®ç‰¹å¾´çš„ãªã‚³ã‚¹ãƒˆãƒ‘ãƒ•ã‚©ãƒ¼ãƒžãƒ³ã‚¹ã¨æ´—ç·´ã•ã‚ŒãŸãƒ‡ã‚¶ã‚¤ãƒ³ã¯ã€ä»–ã«ã¯ãªã„é­…åŠ›ã‚’æŒã£ã¦ã„ã¾ã™ã€‚<a href="https://www.hacopy.net/baggu/" target="_blank">https://www.hacopy.net/baggu/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>270</b>] <strong>ƒX[ƒp[ƒRƒs[ —D—ÇƒTƒCƒg</strong>
-	“ŠeŽÒF<b>ƒAƒ“ƒRƒs[</b> “Še“úF2024/01/10(Wed) 10:42 &nbsp; [<a href="./light.cgi?res=270">•ÔM</a>]
-	<div class="com">‚‹‰ƒuƒ‰ƒ“ƒh‚ÌƒX[ƒp[ƒRƒs[•i‚ð’T‚·‚È‚çA—D—ÇƒTƒCƒg‚ð—˜—p‚·‚é‚Ì‚ª‚¨‚·‚·‚ß‚Å‚·B—D—ÇƒTƒCƒg‚È‚çA‚•iŽ¿‚ÌƒX[ƒp[ƒRƒs[•i‚ª–L•x‚É‘µ‚Á‚Ä‚¨‚èAˆÀS‚µ‚Äw“ü‚Å‚«‚Ü‚·B‚Ü‚½A‰¿Ši‚àƒŠ[ƒYƒiƒuƒ‹‚È‚Ì‚ÅA‚¨“¾‚ÉƒnƒCƒuƒ‰ƒ“ƒh‚ÌƒAƒCƒeƒ€‚ðŽè‚É“ü‚ê‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B<br /><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
+	[<b>270</b>] <strong>ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ å„ªè‰¯ã‚µã‚¤ãƒˆ</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ã‚¢ãƒ³ã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2024/01/10(Wed) 10:42 &nbsp; [<a href="light@res_270.cgi">è¿”ä¿¡</a>]
+	<div class="com">é«˜ç´šãƒ–ãƒ©ãƒ³ãƒ‰ã®ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼å“ã‚’æŽ¢ã™ãªã‚‰ã€å„ªè‰¯ã‚µã‚¤ãƒˆã‚’åˆ©ç”¨ã™ã‚‹ã®ãŒãŠã™ã™ã‚ã§ã™ã€‚å„ªè‰¯ã‚µã‚¤ãƒˆãªã‚‰ã€é«˜å“è³ªã®ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼å“ãŒè±Šå¯Œã«æƒã£ã¦ãŠã‚Šã€å®‰å¿ƒã—ã¦è³¼å…¥ã§ãã¾ã™ã€‚ã¾ãŸã€ä¾¡æ ¼ã‚‚ãƒªãƒ¼ã‚ºãƒŠãƒ–ãƒ«ãªã®ã§ã€ãŠå¾—ã«ãƒã‚¤ãƒ–ãƒ©ãƒ³ãƒ‰ã®ã‚¢ã‚¤ãƒ†ãƒ ã‚’æ‰‹ã«å…¥ã‚Œã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚<br /><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>269</b>] <strong>ƒXƒj[ƒJ[ ƒX[ƒp[ƒRƒs[ ‚¨‚·‚·‚ß</strong>
-	“ŠeŽÒF<b>ƒ„ƒ„ƒRƒs[</b> “Še“úF2024/01/02(Tue) 11:59 &nbsp; [<a href="./light.cgi?res=269">•ÔM</a>]
-	<div class="com">ƒXƒj[ƒJ[ ƒX[ƒp[ƒRƒs[ ‚¨‚·‚·‚ß ‹U•¨ŒƒˆÀƒTƒCƒg<br />ƒXƒj[ƒJ[ ƒX[ƒp[ƒRƒs[ ‚¨‚·‚·‚ßCƒX[ƒp[ƒRƒs[ ƒXƒj[ƒJ[ ‹U•¨ƒTƒCƒguYayakopiv,ƒXƒj[ƒJ[ ƒRƒs[ ŒƒˆÀN‹‰•iAƒXƒj[ƒJ[ƒNƒ‰ƒu ‹U•¨,ƒuƒ‰ƒ“ƒhŒCƒRƒs[ n‹‰‹U•¨AŒûƒRƒ~Å‚‹‰‚Ìƒuƒ‰ƒ“ƒhƒRƒs[ ƒXƒj[ƒJ[AƒŒƒfƒB[ƒXAƒrƒWƒlƒXƒVƒ…[ƒYAƒJƒWƒ…ƒAƒ‹ƒVƒ…[ƒY‚Í‘——¿–³—¿A•iŽ¿•ÛØB<br />ƒXƒj[ƒJ[ ƒX[ƒp[ƒRƒs[ ‚¨‚·‚·‚ß<br /><a href="https://www.yayakopi.org/NIKE/" target="_blank">https://www.yayakopi.org/NIKE/</a><p class="url"><a href="https://www.yayakopi.org" target="_blank">https://www.yayakopi.org</a></p></div>
+	[<b>269</b>] <strong>ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãŠã™ã™ã‚</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒ¤ãƒ¤ã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2024/01/02(Tue) 11:59 &nbsp; [<a href="light@res_269.cgi">è¿”ä¿¡</a>]
+	<div class="com">ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãŠã™ã™ã‚ å½ç‰©æ¿€å®‰ã‚µã‚¤ãƒˆ<br />ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãŠã™ã™ã‚ï¼Œã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ å½ç‰©ã‚µã‚¤ãƒˆã€ŒYayakopiã€,ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚³ãƒ”ãƒ¼ æ¿€å®‰Nç´šå“ã€ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ã‚¯ãƒ©ãƒ– å½ç‰©,ãƒ–ãƒ©ãƒ³ãƒ‰é´ã‚³ãƒ”ãƒ¼ nç´šå½ç‰©ã€å£ã‚³ãƒŸæœ€é«˜ç´šã®ãƒ–ãƒ©ãƒ³ãƒ‰ã‚³ãƒ”ãƒ¼ ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ã€ãƒ¬ãƒ‡ã‚£ãƒ¼ã‚¹ã€ãƒ“ã‚¸ãƒã‚¹ã‚·ãƒ¥ãƒ¼ã‚ºã€ã‚«ã‚¸ãƒ¥ã‚¢ãƒ«ã‚·ãƒ¥ãƒ¼ã‚ºã¯é€æ–™ç„¡æ–™ã€å“è³ªä¿è¨¼ã€‚<br />ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãŠã™ã™ã‚<br /><a href="https://www.yayakopi.org/NIKE/" target="_blank">https://www.yayakopi.org/NIKE/</a><p class="url"><a href="https://www.yayakopi.org" target="_blank">https://www.yayakopi.org</a></p></div>
 </div>
 
 <div class="art">
-	[<b>268</b>] <strong>ƒX[ƒp[ƒRƒs[ —D—ÇƒTƒCƒg</strong>
-	“ŠeŽÒF<b>ƒAƒ“ƒRƒs[</b> “Še“úF2023/12/29(Fri) 13:00 &nbsp; [<a href="./light.cgi?res=268">•ÔM</a>]
-	<div class="com">“²‚ê‚Ìƒuƒ‰ƒ“ƒh•i‚ðA‚¨“¾‚ÉŽè‚É“ü‚ê‚é‚È‚çAƒX[ƒp[ƒRƒs[ —D—ÇƒTƒCƒg‚ðƒ`ƒFƒbƒNI<br /><br />‚•iŽ¿‚ÈN‹‰•i‚ª–L•x‚É‘µ‚Á‚Ä‚¨‚èA‰¿Ši‚àƒŠ[ƒYƒiƒuƒ‹B<br /><br />“Í‚­‚Ü‚Å‚ÌŠúŠÔ‚à‘‚¢‚Ì‚ÅA‹}‚¬‚Ì•û‚àˆÀS‚Å‚·B<br />ƒX[ƒp[ƒRƒs[ —D—ÇƒTƒCƒg:<a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
+	[<b>268</b>] <strong>ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ å„ªè‰¯ã‚µã‚¤ãƒˆ</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ã‚¢ãƒ³ã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2023/12/29(Fri) 13:00 &nbsp; [<a href="light@res_268.cgi">è¿”ä¿¡</a>]
+	<div class="com">æ†§ã‚Œã®ãƒ–ãƒ©ãƒ³ãƒ‰å“ã‚’ã€ãŠå¾—ã«æ‰‹ã«å…¥ã‚Œã‚‹ãªã‚‰ã€ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ å„ªè‰¯ã‚µã‚¤ãƒˆã‚’ãƒã‚§ãƒƒã‚¯ï¼<br /><br />é«˜å“è³ªãªNç´šå“ãŒè±Šå¯Œã«æƒã£ã¦ãŠã‚Šã€ä¾¡æ ¼ã‚‚ãƒªãƒ¼ã‚ºãƒŠãƒ–ãƒ«ã€‚<br /><br />å±Šãã¾ã§ã®æœŸé–“ã‚‚æ—©ã„ã®ã§ã€æ€¥ãŽã®æ–¹ã‚‚å®‰å¿ƒã§ã™ã€‚<br />ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ å„ªè‰¯ã‚µã‚¤ãƒˆ:<a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a><p class="url"><a href="https://www.ankopi.com/" target="_blank">https://www.ankopi.com/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>267</b>] <strong>ƒXƒj[ƒJ[ ƒX[ƒp[ƒRƒs[ ‚¨‚·‚·‚ß</strong>
-	“ŠeŽÒF<b>bibicopy</b> “Še“úF2023/12/29(Fri) 10:58 &nbsp; [<a href="./light.cgi?res=267">•ÔM</a>]
-	<div class="com">ƒXƒj[ƒJ[ ƒX[ƒp[ƒRƒs[ ‚¨‚·‚·‚ß<br />ƒXƒj[ƒJ[ ƒX[ƒp[ƒRƒs[AƒXƒj[ƒJ[ ‹U•¨ŒCŒƒˆÀ<br />ƒX[ƒp[ƒRƒs[ ƒXƒj[ƒJ[ŒƒˆÀ’Ê”Ì‚Å‚·BLJRƒXƒj[ƒJ[AƒXƒj[ƒJ[ƒNƒ‰ƒu,ƒXƒj[ƒJ[ƒ_ƒ“ƒN‹U•¨N‹‰•iê–å“XuBibicopyvC2024Vì ƒXƒj[ƒJ[ ƒX[ƒp[ƒRƒs[ ‚¨‚·‚·‚ßAƒXƒj[ƒJ[ ‹U•¨ƒTƒCƒgAƒuƒ‰ƒ“ƒhƒRƒs[ŒC‚È‚Ç‚Ìƒuƒ‰ƒ“ƒhƒRƒs[ ƒrƒWƒlƒXƒVƒ…[ƒY‚Í•iŽ¿•ÛØ‚ÅB<br /><a href="https://www.bibicopy.net/shoes/" target="_blank">https://www.bibicopy.net/shoes/</a><p class="url"><a href="https://www.bibicopy.net" target="_blank">https://www.bibicopy.net</a></p></div>
+	[<b>267</b>] <strong>ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãŠã™ã™ã‚</strong>
+	æŠ•ç¨¿è€…ï¼š<b>bibicopy</b> æŠ•ç¨¿æ—¥ï¼š2023/12/29(Fri) 10:58 &nbsp; [<a href="light@res_267.cgi">è¿”ä¿¡</a>]
+	<div class="com">ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãŠã™ã™ã‚<br />ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ã€ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ å½ç‰©é´æ¿€å®‰<br />ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼æ¿€å®‰é€šè²©ã§ã™ã€‚LJRã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ã€ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ã‚¯ãƒ©ãƒ–,ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ãƒ€ãƒ³ã‚¯å½ç‰©Nç´šå“å°‚é–€åº—ã€ŒBibicopyã€ï¼Œ2024æ–°ä½œ ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ ãŠã™ã™ã‚ã€ã‚¹ãƒ‹ãƒ¼ã‚«ãƒ¼ å½ç‰©ã‚µã‚¤ãƒˆã€ãƒ–ãƒ©ãƒ³ãƒ‰ã‚³ãƒ”ãƒ¼é´ãªã©ã®ãƒ–ãƒ©ãƒ³ãƒ‰ã‚³ãƒ”ãƒ¼ ãƒ“ã‚¸ãƒã‚¹ã‚·ãƒ¥ãƒ¼ã‚ºã¯å“è³ªä¿è¨¼ã§ã€‚<br /><a href="https://www.bibicopy.net/shoes/" target="_blank">https://www.bibicopy.net/shoes/</a><p class="url"><a href="https://www.bibicopy.net" target="_blank">https://www.bibicopy.net</a></p></div>
 </div>
 
 <div class="art">
-	[<b>266</b>] <strong>ƒiƒCƒL ƒX[ƒp[ƒRƒs[</strong>
-	“ŠeŽÒF<b>tokei365</b> “Še“úF2023/12/28(Thu) 12:14 &nbsp; [<a href="./light.cgi?res=266">•ÔM</a>]
-	<div class="com">ƒiƒCƒL ƒX[ƒp[ƒRƒs[‚ÍAí‚ÉÅV‚ÌƒgƒŒƒ“ƒh‚ðŽæ‚è“ü‚ê‚½ƒfƒUƒCƒ“‚ª–L•xBƒtƒ@ƒbƒVƒ‡ƒ“ƒV[ƒ“‚Åˆê•àæs‚­ƒXƒ^ƒCƒ‹‚ðŽè‚É“ü‚ê‚½‚¢•û‚É‚¨‚·‚·‚ß‚Ìˆê‘«‚Å‚·B<br />ƒiƒCƒL ƒX[ƒp[ƒRƒs[:<a href="https://www.tokei365.org/brandcopy-category-83.html" target="_blank">https://www.tokei365.org/brandcopy-category-83.html</a></div>
+	[<b>266</b>] <strong>ãƒŠã‚¤ã‚­ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>tokei365</b> æŠ•ç¨¿æ—¥ï¼š2023/12/28(Thu) 12:14 &nbsp; [<a href="light@res_266.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒŠã‚¤ã‚­ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ã¯ã€å¸¸ã«æœ€æ–°ã®ãƒˆãƒ¬ãƒ³ãƒ‰ã‚’å–ã‚Šå…¥ã‚ŒãŸãƒ‡ã‚¶ã‚¤ãƒ³ãŒè±Šå¯Œã€‚ãƒ•ã‚¡ãƒƒã‚·ãƒ§ãƒ³ã‚·ãƒ¼ãƒ³ã§ä¸€æ­©å…ˆè¡Œãã‚¹ã‚¿ã‚¤ãƒ«ã‚’æ‰‹ã«å…¥ã‚ŒãŸã„æ–¹ã«ãŠã™ã™ã‚ã®ä¸€è¶³ã§ã™ã€‚<br />ãƒŠã‚¤ã‚­ ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼:<a href="https://www.tokei365.org/brandcopy-category-83.html" target="_blank">https://www.tokei365.org/brandcopy-category-83.html</a></div>
 </div>
 
 <div class="art">
-	[<b>265</b>] <strong>ƒVƒƒƒlƒ‹ƒRƒs[</strong>
-	“ŠeŽÒF<b>ƒnƒRƒs[</b> “Še“úF2023/12/27(Wed) 16:38 &nbsp; [<a href="./light.cgi?res=265">•ÔM</a>]
-	<div class="com">ƒVƒƒƒlƒ‹ƒRƒs[‚ÍA—D‰ë‚Åô—û‚³‚ê‚½ƒfƒUƒCƒ“‚ª“Á’¥‚ÅAƒtƒ@ƒbƒVƒ‡ƒ“ˆ¤DŽÒ‚ÌS‚ð–£—¹‚µ‚Ü‚·B‚»‚Ì×•”‚É‚í‚½‚é‚‚¢ƒNƒIƒŠƒeƒB‚ÆŒ|p“I‚ÈHŒ|‚ÍAƒgƒŒƒ“ƒfƒB‚ÅƒXƒ^ƒCƒŠƒbƒVƒ…‚ÈˆóÛ‚ð—^‚¦‚Ü‚·B<a href="https://www.hacopy.net/shaneru" target="_blank">https://www.hacopy.net/shaneru</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>265</b>] <strong>ã‚·ãƒ£ãƒãƒ«ã‚³ãƒ”ãƒ¼</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2023/12/27(Wed) 16:38 &nbsp; [<a href="light@res_265.cgi">è¿”ä¿¡</a>]
+	<div class="com">ã‚·ãƒ£ãƒãƒ«ã‚³ãƒ”ãƒ¼ã¯ã€å„ªé›…ã§æ´—ç·´ã•ã‚ŒãŸãƒ‡ã‚¶ã‚¤ãƒ³ãŒç‰¹å¾´ã§ã€ãƒ•ã‚¡ãƒƒã‚·ãƒ§ãƒ³æ„›å¥½è€…ã®å¿ƒã‚’é­…äº†ã—ã¾ã™ã€‚ãã®ç´°éƒ¨ã«ã‚ãŸã‚‹é«˜ã„ã‚¯ã‚ªãƒªãƒ†ã‚£ã¨èŠ¸è¡“çš„ãªå·¥èŠ¸ã¯ã€ãƒˆãƒ¬ãƒ³ãƒ‡ã‚£ã§ã‚¹ã‚¿ã‚¤ãƒªãƒƒã‚·ãƒ¥ãªå°è±¡ã‚’ä¸Žãˆã¾ã™ã€‚<a href="https://www.hacopy.net/shaneru" target="_blank">https://www.hacopy.net/shaneru</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>264</b>] <strong>ƒX[ƒp[ƒRƒs[ŽžŒv</strong>
-	“ŠeŽÒF<b>ƒnƒRƒs[</b> “Še“úF2023/12/19(Tue) 18:23 &nbsp; [<a href="./light.cgi?res=264">•ÔM</a>]
-	<div class="com">ƒƒŒƒbƒNƒX ‹U•¨‚ÍŽè ‚È‰¿Ši‚Å‚‹‰Š´‚ðŽè‚É“ü‚ê‚é•û–@‚Å‚·BN‹‰•iƒTƒCƒg‚Å‚ÍAƒŠ[ƒYƒiƒuƒ‹‚È‰¿Ši‚Å–{•¨‚É‹ß‚¢ŠOŠÏ‚âƒfƒUƒCƒ“‚ðŽè‚É“ü‚ê‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B<a href="https://www.hacopy.net/brand_rolex/" target="_blank">https://www.hacopy.net/brand_rolex/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
+	[<b>264</b>] <strong>ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼æ™‚è¨ˆ</strong>
+	æŠ•ç¨¿è€…ï¼š<b>ãƒã‚³ãƒ”ãƒ¼</b> æŠ•ç¨¿æ—¥ï¼š2023/12/19(Tue) 18:23 &nbsp; [<a href="light@res_264.cgi">è¿”ä¿¡</a>]
+	<div class="com">ãƒ­ãƒ¬ãƒƒã‚¯ã‚¹ å½ç‰©ã¯æ‰‹é ƒãªä¾¡æ ¼ã§é«˜ç´šæ„Ÿã‚’æ‰‹ã«å…¥ã‚Œã‚‹æ–¹æ³•ã§ã™ã€‚Nç´šå“ã‚µã‚¤ãƒˆã§ã¯ã€ãƒªãƒ¼ã‚ºãƒŠãƒ–ãƒ«ãªä¾¡æ ¼ã§æœ¬ç‰©ã«è¿‘ã„å¤–è¦³ã‚„ãƒ‡ã‚¶ã‚¤ãƒ³ã‚’æ‰‹ã«å…¥ã‚Œã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚<a href="https://www.hacopy.net/brand_rolex/" target="_blank">https://www.hacopy.net/brand_rolex/</a><p class="url"><a href="https://www.hacopy.net/" target="_blank">https://www.hacopy.net/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>263</b>] <strong>2024”NVìƒAƒCƒeƒ€‚ª‘±X“oêî•ñ‚Ü‚Æ‚ß</strong>
-	“ŠeŽÒF<b>2024”NVìƒAƒCƒeƒ€‚ª‘±X“oêî•ñ‚Ü‚Æ‚ß</b> “Še“úF2023/12/09(Sat) 11:40 &nbsp; [<a href="./light.cgi?res=263">•ÔM</a>]
-	<div class="com">2024”NVìƒAƒCƒeƒ€‚Ìî•ñ‚ðA‚¢‚¿‘‚­‚¨“Í‚¯‚µ‚Ü‚·B <a href="http://www.image-co.net/common/css/index.php" target="_blank">http://www.image-co.net/common/css/index.php</a><p class="url"><a href="http://www.image-co.net/common/css/index.php" target="_blank">http://www.image-co.net/common/css/index.php</a></p></div>
+	[<b>263</b>] <strong>2024å¹´æ–°ä½œã‚¢ã‚¤ãƒ†ãƒ ãŒç¶šã€…ç™»å ´æƒ…å ±ã¾ã¨ã‚</strong>
+	æŠ•ç¨¿è€…ï¼š<b>2024å¹´æ–°ä½œã‚¢ã‚¤ãƒ†ãƒ ãŒç¶šã€…ç™»å ´æƒ…å ±ã¾ã¨ã‚</b> æŠ•ç¨¿æ—¥ï¼š2023/12/09(Sat) 11:40 &nbsp; [<a href="light@res_263.cgi">è¿”ä¿¡</a>]
+	<div class="com">2024å¹´æ–°ä½œã‚¢ã‚¤ãƒ†ãƒ ã®æƒ…å ±ã‚’ã€ã„ã¡æ—©ããŠå±Šã‘ã—ã¾ã™ã€‚ <a href="http://www.image-co.net/common/css/index.php" target="_blank">http://www.image-co.net/common/css/index.php</a><p class="url"><a href="http://www.image-co.net/common/css/index.php" target="_blank">http://www.image-co.net/common/css/index.php</a></p></div>
 </div>
 
 
@@ -139,24 +139,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-‹LŽ–No<input type="text" name="num" size="3" />
-íœƒL[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="íœ" />
+è¨˜äº‹No<input type="text" name="num" size="3" />
+å‰Šé™¤ã‚­ãƒ¼<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="å‰Šé™¤" />
 </form>
 </div>
 

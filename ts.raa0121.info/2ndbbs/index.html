@@ -71,7 +71,7 @@ A{TEXT-DECORATION:NONE};
 </font>
 </th>
 </tr>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name="log" value="">
 <input type=hidden name=action value="html4">
 <tr><th colspan=7>
@@ -86,7 +86,7 @@ A{TEXT-DECORATION:NONE};
 <input type=submit value=リスト表示 class="d1">
 </th>
 </form>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name="log" value="">
 <input type=hidden name=action value="html5">
 <th>
@@ -94,7 +94,7 @@ A{TEXT-DECORATION:NONE};
 <input type=submit value=検索 class="d1">
 </th>
 </form>
-<form method=post action=./index.cgi><th colspan=4>
+<form method=post action="index.cgi"><th colspan=4>
 <input type=hidden name=log value=>
 条件を指定して整頓<br><select name=sort>
 <option value=0>
@@ -118,7 +118,7 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="その時は来る" href="./index.cgi?log=&page=&key=20220105225152&action=html2">
+<a title="その時は来る" href="index@log__page__key_20220105225152_action_html2.cgi">
 第二次性徴変性症　21（編集中です</a>
 </font>
 </td>
@@ -133,7 +133,7 @@ kyouske
 <b>13k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20220105225152&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20220105225152_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -142,7 +142,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="一族を担う者" href="./index.cgi?log=&page=&key=20211226120449&action=html2">
+<a title="一族を担う者" href="index@log__page__key_20211226120449_action_html2.cgi">
 第二次性徴変性症　18</a>
 </font>
 </td>
@@ -157,7 +157,7 @@ kyouske
 <b>89k</b>
 </td>
 <td align=right>
-<a title=" 〔ハヤシ(2)〕 " href="./index.cgi?log=&page=&key=20211226120449&action=html2#res"><b>2</b></a>
+<a title=" 〔ハヤシ(2)〕 " href="index@log__page__key_20211226120449_action_html2.cgi"><b>2</b></a>
 </td>
 <td align=right>
 <a title=" 〔50点×2〕 "><font color=blue>100</font></a>
@@ -166,7 +166,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="一族の繋がり" href="./index.cgi?log=&page=&key=20211226092747&action=html2">
+<a title="一族の繋がり" href="index@log__page__key_20211226092747_action_html2.cgi">
 第二次性徴変性症　17</a>
 </font>
 </td>
@@ -181,7 +181,7 @@ kyousuke
 <b>38k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211226092747&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211226092747_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -190,7 +190,7 @@ kyousuke
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="夏の狂乱" href="./index.cgi?log=&page=&key=20211218020236&action=html2">
+<a title="夏の狂乱" href="index@log__page__key_20211218020236_action_html2.cgi">
 第二次性徴変性症　16</a>
 </font>
 </td>
@@ -205,7 +205,7 @@ kyousuke
 <b>77k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211218020236&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211218020236_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -214,7 +214,7 @@ kyousuke
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="可愛いければ元男性も関係ありません" href="./index.cgi?log=&page=&key=20211217063432&action=html2">
+<a title="可愛いければ元男性も関係ありません" href="index@log__page__key_20211217063432_action_html2.cgi">
 第二次性徴変性症　１５</a>
 </font>
 </td>
@@ -229,7 +229,7 @@ kyouske
 <b>60k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211217063432&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211217063432_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -238,7 +238,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="何かを失うと何かを得る" href="./index.cgi?log=&page=&key=20211216084245&action=html2">
+<a title="何かを失うと何かを得る" href="index@log__page__key_20211216084245_action_html2.cgi">
 第二次性徴変性症　14</a>
 </font>
 </td>
@@ -253,7 +253,7 @@ kyouske
 <b>19k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211216084245&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211216084245_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -262,7 +262,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="国益の守り方" href="./index.cgi?log=&page=&key=20211215012355&action=html2">
+<a title="国益の守り方" href="index@log__page__key_20211215012355_action_html2.cgi">
 第二次性徴変性症　13</a>
 </font>
 </td>
@@ -277,7 +277,7 @@ kyouske
 <b>39k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211215012355&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211215012355_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -286,7 +286,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="復帰へ" href="./index.cgi?log=&page=&key=20211215010504&action=html2">
+<a title="復帰へ" href="index@log__page__key_20211215010504_action_html2.cgi">
 第二次性徴変性症１２</a>
 </font>
 </td>
@@ -301,7 +301,7 @@ kyouske
 <b>14k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211215010504&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211215010504_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -310,7 +310,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="変性症患者不遇世代への救済策" href="./index.cgi?log=&page=&key=20211215004619&action=html2">
+<a title="変性症患者不遇世代への救済策" href="index@log__page__key_20211215004619_action_html2.cgi">
 第二次性徴変性症１１</a>
 </font>
 </td>
@@ -325,7 +325,7 @@ kyouske
 <b>19k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211215004619&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211215004619_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -334,7 +334,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="蠢く闇と輝かしい光" href="./index.cgi?log=&page=&key=20211215003124&action=html2">
+<a title="蠢く闇と輝かしい光" href="index@log__page__key_20211215003124_action_html2.cgi">
 第二次性徴変性症１０</a>
 </font>
 </td>
@@ -349,7 +349,7 @@ kyouske
 <b>11k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211215003124&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211215003124_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -358,7 +358,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="学校は社会の縮図" href="./index.cgi?log=&page=&key=20211215002613&action=html2">
+<a title="学校は社会の縮図" href="index@log__page__key_20211215002613_action_html2.cgi">
 第二次性徴変性症９</a>
 </font>
 </td>
@@ -373,7 +373,7 @@ kyouske
 <b>15k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211215002613&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211215002613_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -382,7 +382,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="恋のと世間の眼" href="./index.cgi?log=&page=&key=20211215001430&action=html2">
+<a title="恋のと世間の眼" href="index@log__page__key_20211215001430_action_html2.cgi">
 第二次性徴変性症８</a>
 </font>
 </td>
@@ -397,7 +397,7 @@ kyouske
 <b>15k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211215001430&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211215001430_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -406,7 +406,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="出合いは突然に" href="./index.cgi?log=&page=&key=20211214002422&action=html2">
+<a title="出合いは突然に" href="index@log__page__key_20211214002422_action_html2.cgi">
 第二次性徴変性症７</a>
 </font>
 </td>
@@ -421,7 +421,7 @@ kyouske
 <b>31k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211214002422&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211214002422_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -430,7 +430,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="例外的変性症狂想曲" href="./index.cgi?log=&page=&key=20211213235650&action=html2">
+<a title="例外的変性症狂想曲" href="index@log__page__key_20211213235650_action_html2.cgi">
 第二次性徴変性症６</a>
 </font>
 </td>
@@ -445,7 +445,7 @@ kyouske
 <b>12k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211213235650&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211213235650_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -454,7 +454,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="例外もある" href="./index.cgi?log=&page=&key=20211213213555&action=html2">
+<a title="例外もある" href="index@log__page__key_20211213213555_action_html2.cgi">
 第二次性徴変性症５</a>
 </font>
 </td>
@@ -469,7 +469,7 @@ kyouske
 8281
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211213213555&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211213213555_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -478,7 +478,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="周囲の反応" href="./index.cgi?log=&page=&key=20211213020424&action=html2">
+<a title="周囲の反応" href="index@log__page__key_20211213020424_action_html2.cgi">
 第二次性徴変性症４</a>
 </font>
 </td>
@@ -493,7 +493,7 @@ kyouske
 <b>15k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211213020424&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211213020424_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -502,7 +502,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="セカンドバースディ" href="./index.cgi?log=&page=&key=20211213015551&action=html2">
+<a title="セカンドバースディ" href="index@log__page__key_20211213015551_action_html2.cgi">
 第二次性徴変性症　３</a>
 </font>
 </td>
@@ -517,7 +517,7 @@ kyouske
 8381
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211213015551&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211213015551_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -526,7 +526,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="変わりゆく周囲" href="./index.cgi?log=&page=&key=20211213014847&action=html2">
+<a title="変わりゆく周囲" href="index@log__page__key_20211213014847_action_html2.cgi">
 第二次性徴変性症　２</a>
 </font>
 </td>
@@ -541,7 +541,7 @@ kyouske
 <b>11k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211213014847&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211213014847_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -550,7 +550,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="フラグは何時の間にか出る" href="./index.cgi?log=&page=&key=20211210015819&action=html2">
+<a title="フラグは何時の間にか出る" href="index@log__page__key_20211210015819_action_html2.cgi">
 第二次性徴変性症　20</a>
 </font>
 </td>
@@ -565,7 +565,7 @@ kyouske
 <b>166k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20211210015819&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20211210015819_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -574,7 +574,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="第二ラウンドはホーム" href="./index.cgi?log=&page=&key=20210318133311&action=html2">
+<a title="第二ラウンドはホーム" href="index@log__page__key_20210318133311_action_html2.cgi">
 第二次性徴変性症　19</a>
 </font>
 </td>
@@ -589,7 +589,7 @@ kyouske
 <b>78k</b>
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20210318133311&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20210318133311_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -598,7 +598,7 @@ kyouske
 <tr id="tr3">
 <th width=50%>
 <font onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a title="訪れた少年の終焉" href="./index.cgi?log=&page=&key=20181103011940&action=html2">
+<a title="訪れた少年の終焉" href="index@log__page__key_20181103011940_action_html2.cgi">
 第二次性徴変性症　１</a>
 </font>
 </td>
@@ -613,7 +613,7 @@ kyouske
 4870
 </td>
 <td align=right>
-<a title="" href="./index.cgi?log=&page=&key=20181103011940&action=html2#res"><b>0</b></a>
+<a title="" href="index@log__page__key_20181103011940_action_html2.cgi"><b>0</b></a>
 </td>
 <td align=right>
 <a title="">0</a>
@@ -622,13 +622,13 @@ kyouske
 </tr></table>
 </center><p>
 <table border=5 cellspacing=5 align=center><tr>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name=action value="home">
 <td>
 <input type=submit value=" HOME " class="d1">
 </td>
 </form>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name=action value="form">
 <td>
 <input type=submit value=" 新規投稿 " class="d1">
@@ -637,7 +637,7 @@ kyouske
 </tr></table><br>
 <hr>
 </center>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name="action" value="sentaku">
 <input type=hidden name="log" value="">
 PASSWORD <input type=password name="pwd" size=10>

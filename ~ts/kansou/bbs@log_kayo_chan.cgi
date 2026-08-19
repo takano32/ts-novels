@@ -364,7 +364,7 @@ link<input type=checkbox name="link" value="1" checked>
 きっと自衛隊にはそんな気はないのでしょうけど、偉そうに見えるんだからしょうがないよね？<br>
 <br>
 とかの遊びが効いてて良かったです。　え、能力は健在なの？　それって……</font>
-<p><a href="http://kirika.novels.name/cafe/" target="_top">http://kirika.novels.name/cafe/</a>
+<p><a href="../../kirika.novels.name/cafe/index.html" target="_top">../../kirika.novels.name/cafe/index.html</a>
 </td></table>
 </td></tr></table>
 

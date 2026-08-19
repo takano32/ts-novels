@@ -221,7 +221,7 @@ link<input type=checkbox name="link" value="1" checked>
 　と、自分のことは遥かに高い棚の上。勝手を書いてすみません。<br>
 　……許してね?<br>
 </font>
-<p><a href="http://kirika.novels.name/cafe/light.cgi" target="_top">http://kirika.novels.name/cafe/light.cgi</a>
+<p><a href="../../kirika.novels.name/cafe/light.cgi" target="_top">../../kirika.novels.name/cafe/light.cgi</a>
 </td></table>
 </td></tr></table>
 

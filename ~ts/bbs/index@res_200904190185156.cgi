@@ -164,7 +164,7 @@ link<input type=checkbox name="link" value="1" checked>
 参加ご希望の方は、公式サイト内の掲示板か、作品の感想掲示板にご連絡下さいませ。<br>
 <br>
 </font>
-<p><div align=left><a href="http://utanotuki.novels.name/index.php?FrontPage" target="_top">http://utanotuki.novels.name/index.php?FrontPage</a></div>
+<p><div align=left><a href="../../utanotuki.novels.name/index@FrontPage.php" target="_top">../../utanotuki.novels.name/index@FrontPage.php</a></div>
 </td></table>
 </td></tr></table>
 

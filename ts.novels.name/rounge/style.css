@@ -21,7 +21,7 @@ td.small {
 	font-size: 70%;
 }
 
-/* ‹L– */
+/* è¨˜äº‹ */
 div.art {
 	border-top: 1px solid #888;
 	padding: 6px;
@@ -39,7 +39,7 @@ div.note p {
 	margin-left: 2em;
 }
 
-/* “ŠeƒtƒH[ƒ€ */
+/* æŠ•ç¨¿ãƒ•ã‚©ãƒ¼ãƒ  */
 table.regfm {
 	margin: 1em 0;
 }
@@ -64,7 +64,7 @@ img.capt {
 	text-align: center;
 }
 
-/* —¯ˆÓ–€ */
+/* ç•™æ„äº‹é … */
 div.obi {
 	text-align: center;
 	padding: 2px;
@@ -88,7 +88,7 @@ p.msg {
 	color: green;
 }
 
-/* •Â‚¶‚éƒ{ƒ^ƒ“ */
+/* é–‰ã˜ã‚‹ãƒœã‚¿ãƒ³ */
 p.close {
 	text-align: center;
 	margin-top: 3em;
@@ -97,7 +97,7 @@ p.close input {
 	width: 80px;
 }
 
-/* ƒAƒNƒZƒX§ŒÀF“üº‰æ–Ê */
+/* ã‚¢ã‚¯ã‚»ã‚¹åˆ¶é™ï¼šå…¥å®¤ç”»é¢ */
 table.enter {
 	margin: 80px auto;
 	width: 400px;
@@ -129,7 +129,7 @@ div.enter-btn input[type="submit"] {
 	height: 30px;
 }
 
-/* ƒGƒ‰[ */
+/* ã‚¨ãƒ©ãƒ¼ */
 div.err-box {
 	width: 400px;
 	margin: 3em auto;
@@ -142,8 +142,8 @@ p.err {
 }
 
 /*
-	ƒy[ƒW‘—‚è
-	Ql: http://css-happylife.com/template/page_nav/
+	ãƒšãƒ¼ã‚¸é€ã‚Š
+	å‚è€ƒ: http://css-happylife.com/template/page_nav/
 */
 ul.pager {
 	margin: 0 0 10px;

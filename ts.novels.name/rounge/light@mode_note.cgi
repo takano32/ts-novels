@@ -2,30 +2,30 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
-<title>—Ї€УЋ–ЌЂ</title>
+<title>з•™ж„Џдє‹й …</title>
 </head>
 <body>
 
-<div class="obi">—Ї€УЋ–ЌЂ</div>
+<div class="obi">з•™ж„Џдє‹й …</div>
 
 <div class="ta-c">
 <div class="note">
-<p>- “ЉЌe‚·‚йЏг‚Е‚М’Ќ€УЋ–ЌЂ -</p>
+<p>- жЉ•зЁїгЃ™г‚‹дёЉгЃ§гЃ®жіЁж„Џдє‹й … -</p>
 <ul>
-<li>“ЉЌe‚·‚йЏг‚Е‚М•Kђ{“ь—НЌЂ–Ъ‚Н<b>Ѓu‚Ё‚И‚Ь‚¦Ѓv‚ЖЃuѓЃѓbѓZЃ[ѓWЃv</b>‚Е‚·ЃB‚»‚М‘ј‚МЌЂ–Ъ‚Н”C€У‚Ж‚И‚и‚Ь‚·ЃB</li>
-<li>Љщ‘¶‚М‹LЋ–‚ЙЉИ’P‚Й<b>Ѓu•ФђMЃv</b>‚·‚й‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃBЉe‹LЋ–‚Й‚ ‚й<b>Ѓu•ФђMЃv</b>‚МѓЉѓ“ѓN•”‚р‰џ‚·‚Ж“ЉЌeѓtѓHЃ[ѓЂ‚Є•ФђM—p‚Ж‚И‚и‚Ь‚·ЃB</li>
-<li>“ЉЌeЋћ‚Й<b>ЃuЌнЏњѓLЃ[Ѓv</b>‚р“ь—Н‚µ‚Д‚Ё‚­‚ЖЃA‚»‚МЌнЏњѓLЃ[‚рЋg‚Б‚ДЋ©•Є‚М‹LЋ–‚рЌнЏњ‚·‚й‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃB</li>
-<li>“ЉЌe‚·‚йЏг‚ЕЃA<b>HTMLѓ^ѓO‚МЋg—p‚Н‚Е‚«‚Ь‚№‚сЃB</b></li>
-<li>ЉЗ—ќЋТ‚Є’‚µ‚­•s“K“–‚Ж”»’f‚·‚й‹LЋ–‚вЃA‘јђl‚р”ожЋ’†Џќ‚·‚й‹LЋ–‚Н—\Ќђ‚И‚­ЌнЏњ‚·‚й‚±‚Ж‚Є‚ ‚и‚Ь‚·ЃB</li>
+<li>жЉ•зЁїгЃ™г‚‹дёЉгЃ§гЃ®еї…й €е…ҐеЉ›й …з›®гЃЇ<b>гЂЊгЃЉгЃЄгЃѕгЃ€гЂЌгЃЁгЂЊгѓЎгѓѓг‚»гѓјг‚ёгЂЌ</b>гЃ§гЃ™гЂ‚гЃќгЃ®д»–гЃ®й …з›®гЃЇд»»ж„ЏгЃЁгЃЄг‚ЉгЃѕгЃ™гЂ‚</li>
+<li>ж—ўе­гЃ®иЁдє‹гЃ«з°ЎеЌгЃ«<b>гЂЊиї”дїЎгЂЌ</b>гЃ™г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚еђ„иЁдє‹гЃ«гЃ‚г‚‹<b>гЂЊиї”дїЎгЂЌ</b>гЃ®гѓЄгѓіг‚ЇйѓЁг‚’жЉјгЃ™гЃЁжЉ•зЁїгѓ•г‚©гѓјгѓ гЃЊиї”дїЎз”ЁгЃЁгЃЄг‚ЉгЃѕгЃ™гЂ‚</li>
+<li>жЉ•зЁїж™‚гЃ«<b>гЂЊе‰Љй™¤г‚­гѓјгЂЌ</b>г‚’е…ҐеЉ›гЃ—гЃ¦гЃЉгЃЏгЃЁгЂЃгЃќгЃ®е‰Љй™¤г‚­гѓјг‚’дЅїгЃЈгЃ¦и‡Єе€†гЃ®иЁдє‹г‚’е‰Љй™¤гЃ™г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚</li>
+<li>жЉ•зЁїгЃ™г‚‹дёЉгЃ§гЂЃ<b>HTMLг‚їг‚°гЃ®дЅїз”ЁгЃЇгЃ§гЃЌгЃѕгЃ›г‚“гЂ‚</b></li>
+<li>з®Ўзђ†иЂ…гЃЊи‘—гЃ—гЃЏдёЌйЃ©еЅ“гЃЁе€¤ж–­гЃ™г‚‹иЁдє‹г‚„гЂЃд»–дєєг‚’иЄ№и¬—дё­е‚·гЃ™г‚‹иЁдє‹гЃЇдє€е‘ЉгЃЄгЃЏе‰Љй™¤гЃ™г‚‹гЃ“гЃЁгЃЊгЃ‚г‚ЉгЃѕгЃ™гЂ‚</li>
 </ul>
 </div>
 
 <p class="close">
-<input type="button" value="•В‚¶‚й" onclick="javascript:window.close()" />
+<input type="button" value="й–‰гЃг‚‹" onclick="javascript:window.close()" />
 </p>
 </div>
 </body>

@@ -1,1 +1,1 @@
-<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander?res=269"}</script></head></html>
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="../lander@res_269.html"}</script></head></html>
