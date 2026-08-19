@@ -1,0 +1,433 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
+</head>
+<body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
+<div align="right">[<a href="noteky.cgi?c=notebase&f=0&ff=on" >新しく話題をつくる</a>] 
+[<a href="noteky.cgi?c=noteidx&f=0&ff=on&ca=r">最新の情報に更新</a>] 
+[<a href="noteky.cgi?&ff=on" >ノート一覧にもどる</a>]</div>
+<font size="+2" color="#008080">文庫作品感想(2001.10.1-)</font>
+<blockquote>少年少女文庫の作品で、良かったと思った作品にコメントを。</blockquote>
+<table width="100%" border="0">
+<tr bgcolor="#00CCFF">
+<th align="center" width="1%" nowrap>No.</th>
+<th align="center">題名</th>
+<th align="center" width="1%" nowrap>最終更新日</th>
+<th align="center">最新発言内容</th>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1021568041mxtfao&ff=on" >1</a></td>
+<td align="center" nowrap>華代ちゃんシリーズ　感想掲示板</td>
+<td align="center" nowrap>2002/05/22 00:01:05</td>
+<td nowrap>＞夢の配達人さん</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1021330879qlgse&ff=on" >2</a></td>
+<td align="center" nowrap>逃げ馬さん作品　感想掲示板</td>
+<td align="center" nowrap>2002/05/29 09:08:46</td>
+<td nowrap>占い師面白い、こんな話し大好きです、ぜひ...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1021299364bgjgp&ff=on" >3</a></td>
+<td align="center" nowrap>WATARU1024さん作品　感想掲示板</td>
+<td align="center" nowrap>2002/07/09 14:40:25</td>
+<td nowrap>逝ってよし</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1021163197qlgse&ff=on" >4</a></td>
+<td align="center" nowrap>ｈ．ｈｏｋｕｒａさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/05/14 21:55:48</td>
+<td nowrap>【精霊戦記シルフィールド序章】</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1020689407suqlv&ff=on" >5</a></td>
+<td align="center" nowrap>Westさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/05/17 12:36:49</td>
+<td nowrap>ノインさん、夢の配達人さん、ｍｋさん、あ...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1020527372pthjdb&ff=on" >6</a></td>
+<td align="center" nowrap>ＴＳ男爵さん作品　感想掲示板</td>
+<td align="center" nowrap>2002/05/27 20:34:26</td>
+<td nowrap>おお～～これは面白そうな作品になりそうな...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1020098452bwakmt&ff=on" >7</a></td>
+<td align="center" nowrap>佐藤由衣さん作品　感想掲示板</td>
+<td align="center" nowrap>2002/05/13 16:15:47</td>
+<td nowrap>すばらしい、実にすばらしい</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1020009622olgmey&ff=on" >8</a></td>
+<td align="center" nowrap>須堂　奈津紀さん作品　感想掲示板</td>
+<td align="center" nowrap>2002/05/11 19:26:20</td>
+<td nowrap>すばらいし、実にすばらしい</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1019042428etdgtp&ff=on" >9</a></td>
+<td align="center" nowrap>ヤマダさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/04/20 00:08:27</td>
+<td nowrap>『三度目の悲劇』</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1017832344qlgse&ff=on" >10</a></td>
+<td align="center" nowrap>Ｚｙｕｋａさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/11/01 17:50:31</td>
+<td nowrap>【幽霊屋敷のお姉ちゃん】</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1017410802skbapma&ff=on" >11</a></td>
+<td align="center" nowrap>ライターマンさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/06/30 00:46:46</td>
+<td nowrap>天使の携帯端末(前編)</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1017357066qlgse&ff=on" >12</a></td>
+<td align="center" nowrap>Ｔ・Ｈさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/08/03 15:53:55</td>
+<td nowrap>『不思議な少女』</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1016884143doerpm&ff=on" >13</a></td>
+<td align="center" nowrap>日比野さん作品　感想掲示板</td>
+<td align="center" nowrap>2002/06/09 09:27:56</td>
+<td nowrap>感想掲示板が新しくなりました。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1016554140etdgtp&ff=on" >14</a></td>
+<td align="center" nowrap>ふらっとさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/04/28 01:36:06</td>
+<td nowrap>ぼるさん</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1016552681gvggy&ff=on" >15</a></td>
+<td align="center" nowrap>赤目(RED EYE)さん作品　感想掲示板</td>
+<td align="center" nowrap>2002/06/11 00:50:51</td>
+<td nowrap>感想掲示板のURLが変わります。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1016116999etdgtp&ff=on" >16</a></td>
+<td align="center" nowrap>ノインさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/04/01 03:11:35</td>
+<td nowrap>詳しい解説どうもです。;)</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1015776932dxfwax&ff=on" >17</a></td>
+<td align="center" nowrap>自称暇人さん作品　感想掲示板</td>
+<td align="center" nowrap>2002/03/25 01:18:27</td>
+<td nowrap>ｍｋ８４２６さん、ノインさん、沙紀さん、...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1015771746mssewfx&ff=on" >18</a></td>
+<td align="center" nowrap>島くじらさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/04/20 12:30:58</td>
+<td nowrap>すなさん、ノインさん、神速さん、感想あり...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1015767350sywtjkr&ff=on" >19</a></td>
+<td align="center" nowrap>ＡＺＹさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/06/10 23:28:08</td>
+<td nowrap>感想掲示板のURLが変わります。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1015682054kubgku&ff=on" >20</a></td>
+<td align="center" nowrap>未熟王女</td>
+<td align="center" nowrap>2002/03/13 15:43:49</td>
+<td nowrap>らま様、読んで下さった上に御感想まで下さ...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1015516232njxkwhq&ff=on" >21</a></td>
+<td align="center" nowrap>盗まれた味～TS版～</td>
+<td align="center" nowrap>2002/03/08 23:42:22</td>
+<td nowrap>ここへ書き込むのは初めてです。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1015301018iaqcym&ff=on" >22</a></td>
+<td align="center" nowrap>fit…</td>
+<td align="center" nowrap>2002/03/07 21:35:47</td>
+<td nowrap>凄く面白かったです。本当に、凄いアイディ...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1014982899sywtjkr&ff=on" >23</a></td>
+<td align="center" nowrap>第２宮家</td>
+<td align="center" nowrap>2002/03/13 01:48:12</td>
+<td nowrap>神速感想のｍｋ８４２６さま、</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1014900214etdgtp&ff=on" >24</a></td>
+<td align="center" nowrap>俺の女子高生な日々</td>
+<td align="center" nowrap>2002/03/28 12:05:07</td>
+<td nowrap>第二掲示板の方にちょっと冒頭部分書き出し...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1014567923byada&ff=on" >25</a></td>
+<td align="center" nowrap>少女の時</td>
+<td align="center" nowrap>2002/03/01 23:49:37</td>
+<td nowrap>一気に読んでしまった・・・。かなりおもし...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1013930745quqpx&ff=on" >26</a></td>
+<td align="center" nowrap>ＴＷＩＮ　ＭＩＮＤＳ（前）</td>
+<td align="center" nowrap>2002/06/21 23:58:58</td>
+<td nowrap>やっと見に来れた・・・・</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1013689808etdgtp&ff=on" >27</a></td>
+<td align="center" nowrap>くの一探偵</td>
+<td align="center" nowrap>2002/03/02 12:41:47</td>
+<td nowrap>訂正、ありがとうございます。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1013474462gsxoa&ff=on" >28</a></td>
+<td align="center" nowrap>野良猫放浪記（No.2）</td>
+<td align="center" nowrap>2002/02/25 13:18:30</td>
+<td nowrap>短くない話にも関わらず、読んで下さった上...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1013436545sdnny&ff=on" >29</a></td>
+<td align="center" nowrap>ブラックバス</td>
+<td align="center" nowrap>2002/02/17 23:11:07</td>
+<td nowrap>猫野さん、すなさん、感想をありがとうござ...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1012830403numay&ff=on" >30</a></td>
+<td align="center" nowrap>荒れ果てた海</td>
+<td align="center" nowrap>2002/02/08 18:29:41</td>
+<td nowrap>感想を本当にありがとうございます。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1012665145esjgle&ff=on" >31</a></td>
+<td align="center" nowrap>Ｍａｒｉｅさん作品　感想掲示板</td>
+<td align="center" nowrap>2002/04/02 10:13:45</td>
+<td nowrap>読んだバイ♪</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1012572007xwhvgbh&ff=on" >32</a></td>
+<td align="center" nowrap>ラスカル☆ミーナ感想掲示板（No.３）</td>
+<td align="center" nowrap>2002/04/29 00:15:52</td>
+<td nowrap>返事が遅くなってすいません。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1012553605etdgtp&ff=on" >33</a></td>
+<td align="center" nowrap>LET’S　ぺったんこ座り</td>
+<td align="center" nowrap>2002/06/17 22:58:52</td>
+<td nowrap>この作品は実におもしろかつたです、これか...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1012551355sdnny&ff=on" >34</a></td>
+<td align="center" nowrap>急な出張にRB</td>
+<td align="center" nowrap>2002/02/10 08:13:25</td>
+<td nowrap>感想どうもありがとうございます。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1012189341etdgtp&ff=on" >35</a></td>
+<td align="center" nowrap>カラオケ♪</td>
+<td align="center" nowrap>2002/02/02 20:16:38</td>
+<td nowrap>短さに誘われて読んだ作品ですが、ほう！！...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1012052938bxogju&ff=on" >36</a></td>
+<td align="center" nowrap>禁じられた神殿</td>
+<td align="center" nowrap>2002/01/29 23:40:29</td>
+<td nowrap>どうも、ライターマンです。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1011968147kdvhrob&ff=on" >37</a></td>
+<td align="center" nowrap>Irregular　Girl(s)　No．4</td>
+<td align="center" nowrap>2003/06/24 00:35:04</td>
+<td nowrap>お久しぶりです、板見てくれるかな？</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1011704996qxjsp&ff=on" >38</a></td>
+<td align="center" nowrap>美少女勇者リバガイガー（Ｎｏ．３）</td>
+<td align="center" nowrap>2003/04/06 22:43:21</td>
+<td nowrap>【第１１話】</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1011537387sdnny&ff=on" >39</a></td>
+<td align="center" nowrap>吸血姫的日常生活</td>
+<td align="center" nowrap>2002/06/28 14:53:56</td>
+<td nowrap>あ・・・わざわざどうも、流れ水…たしかど...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1011504778etdgtp&ff=on" >40</a></td>
+<td align="center" nowrap>捨人拾人</td>
+<td align="center" nowrap>2002/02/10 20:06:04</td>
+<td nowrap>すなさん様、読んで下さった上に御感想下さ...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1011022277dmrsd&ff=on" >41</a></td>
+<td align="center" nowrap>Irregular　Girl(s)　No．4</td>
+<td align="center" nowrap>2002/02/07 18:05:33</td>
+<td nowrap>【第四回】なんか、ホントにありそうな話で...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1010990944vqnpjma&ff=on" >42</a></td>
+<td align="center" nowrap>華代ちゃんシリーズ</td>
+<td align="center" nowrap>2002/08/10 13:00:59</td>
+<td nowrap>『卒業旅行』</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1010799434etdgtp&ff=on" >43</a></td>
+<td align="center" nowrap>プリンセスライダー</td>
+<td align="center" nowrap>2002/03/30 19:21:26</td>
+<td nowrap>このたび、かわねぎさんのHPにプリンセスラ...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1010168334sywtjkr&ff=on" >44</a></td>
+<td align="center" nowrap>少女として</td>
+<td align="center" nowrap>2002/01/14 01:49:20</td>
+<td nowrap>神速感想のｍｋ８４２６さん、匿名氏さん、...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1010122447etdgtp&ff=on" >45</a></td>
+<td align="center" nowrap>状体変化</td>
+<td align="center" nowrap>2002/01/14 01:48:26</td>
+<td nowrap>美和さん、もぐたんさん、神速感想のｍｋ８...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1010060291sywtjkr&ff=on" >46</a></td>
+<td align="center" nowrap>ＳＡＫＥ</td>
+<td align="center" nowrap>2002/04/22 02:13:38</td>
+<td nowrap>適度な順応具合と適度な反発具合がなんとも...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1009883150kbxry&ff=on" >47</a></td>
+<td align="center" nowrap>らいか大作戦第５掲示板</td>
+<td align="center" nowrap>2002/06/11 19:30:49</td>
+<td nowrap>【第12話】</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1009820934isebia&ff=on" >48</a></td>
+<td align="center" nowrap>PROJECT</td>
+<td align="center" nowrap>2002/04/14 21:07:06</td>
+<td nowrap>読んだバイ♪</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1009370911isnjhh&ff=on" >49</a></td>
+<td align="center" nowrap>聖霊戦隊ホーリーレンジャー</td>
+<td align="center" nowrap>2002/01/19 20:40:52</td>
+<td nowrap>戦隊物といえば、たしかに○○色ってのが名...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1009296261epamw&ff=on" >50</a></td>
+<td align="center" nowrap>神 -God- </td>
+<td align="center" nowrap>2002/01/12 06:46:58</td>
+<td nowrap>読んだバイ♪</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1008775554xlqfgq&ff=on" >51</a></td>
+<td align="center" nowrap>秘湯～夢蛾はここにいる～</td>
+<td align="center" nowrap>2001/12/30 20:00:40</td>
+<td nowrap>黄色い闇も読みました。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1008695398isebia&ff=on" >52</a></td>
+<td align="center" nowrap>超装甲機動兵器ライトニング</td>
+<td align="center" nowrap>2002/05/02 01:41:30</td>
+<td nowrap>司令官的モノの考え方。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1008684552ogjsdw&ff=on" >53</a></td>
+<td align="center" nowrap>Ｌｅｔ'ｓ　オーバーヒート♪</td>
+<td align="center" nowrap>2002/03/20 20:19:45</td>
+<td nowrap>ども、龍酒です。私の駄文に感想を下さって...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1008646676lnpowq&ff=on" >54</a></td>
+<td align="center" nowrap>ミストレスと奇妙な仲間達</td>
+<td align="center" nowrap>2002/06/03 21:11:23</td>
+<td nowrap>＞本編で登場人物――だかどうだかはおいて...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1008071617etdgtp&ff=on" >55</a></td>
+<td align="center" nowrap>絶対無敵！？　世界征服私隊</td>
+<td align="center" nowrap>2002/01/13 15:06:45</td>
+<td nowrap>読んで下さった上に御感想、ありがとうござ...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1008035562vvanpbe&ff=on" >56</a></td>
+<td align="center" nowrap>星屑の旅人　-TSバージョン-</td>
+<td align="center" nowrap>2002/05/26 01:31:46</td>
+<td nowrap>[4話]</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1007739186romjdy&ff=on" >57</a></td>
+<td align="center" nowrap>無の魔力</td>
+<td align="center" nowrap>2002/04/25 21:51:41</td>
+<td nowrap>すなさん様、感想ありがとう御座います。</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1007312870kgexnyk&ff=on" >58</a></td>
+<td align="center" nowrap>月の光の下で</td>
+<td align="center" nowrap>2001/12/30 22:59:27</td>
+<td nowrap>はじめましてぼいすの缶詰工場のみんみんで...</td>
+</tr>
+<tr bgcolor="#CCFFFF">
+<td align="center">
+<a href="noteky.cgi?c=noteread&f=0&id=1007024872ncrdoap&ff=on" >59</a></td>
+<td align="center" nowrap>あの頃の記憶</td>
+<td align="center" nowrap>2002/03/24 15:38:31</td>
+<td nowrap>はい、それでは自分のイメージで描かせてい...</td>
+</tr>
+</table><p>[<a href="noteky.cgi?&ff=on" >ノート一覧にもどる</a>]</p></body></html>

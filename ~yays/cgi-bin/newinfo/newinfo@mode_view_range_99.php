@@ -1,0 +1,34 @@
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=Shift_JIS">
+<meta HTTP-EQUIV="pragma" CONTENT="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<STYLE TYPE="text/css"></STYLE>
+<TITLE>～ 萌え暦 ～</TITLE></HEAD>
+<BODY text="#FFFFFF" vLink="#F0E080" link="#44FF44" bgColor="#00A000">
+<TABLE BORDER=0 BGCOLOR="#00B000">
+<TR>
+<TD><SMALL>[<A HREF="../../index.html">サイト</A>] &nbsp;</SMALL></TD>
+<TD><SMALL>[<A HREF="../resbbs2/resbbs2.cgi">BBS</A>] &nbsp;</SMALL></TD>
+<TD>[暦表示] &nbsp;</TD>
+<TD><SMALL>[<A HREF="newinfo.php?mode=form">新規投稿</A>] &nbsp;</SMALL></TD>
+<TD><SMALL>[<A HREF="newinfo.php?mode=admin">管理モード</A>] &nbsp;</SMALL></TD>
+</TR></TABLE><BR>
+<H3>～ 萌え暦 ～</H3>
+<TABLE BORDER=1>
+<TR><TD WIDTH=60 ALIGN=middle>9 月</TD>
+<TD>
+
+<TABLE BORDER=1 WIDTH="100%" CELLSPACING=0>
+<TR><TD WIDTH=48 ALIGN=middle>--</TD><TD>&nbsp;<A HREF="newinfo.php?mode=examine&id=1378024699">やる夫のトランスセクシャルRe </A></TD><TD NOWRAP WIDTH=48 ALIGN="CENTER">&nbsp;&nbsp;</TD><TD WIDTH=80 ALIGN="CENTER"><SMALL>[<A HREF="newinfo.php?mode=edit&id=1378024699">編集</A>]&nbsp;[<FONT COLOR="GRAY">寸評</FONT>]</SMALL></TD></TR>
+</TABLE>
+
+</TD></TR>
+</TABLE>
+
+<SMALL><A HREF="newinfo.html">▼</A>デフォルト表示</SMALL><BR><BR>
+<SMALL>最終更新日時：2013-09-01 17:38:19</SMALL><BR>
+<BR>[<A HREF="newinfo.php?mode=form">新規投稿</A>]<BR>
+<!--err-->
+<BR><HR><BR>
+<div ALIGN="center"><SMALL>//presented by <A HREF="http://www14.big.or.jp/yays/">yays Media Research</A>//</SMALL></div>
+</BODY></HTML>
