@@ -1,75 +1,75 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�A���P�[�g�t���Ŏv���o���܂�����>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:アンケート葉書で思い出しましたが>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1279>
 <input type=hidden name=ress value=1300>
-<input type=submit value=�A���P�[�g�t���Ŏv���o���܂������֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=アンケート葉書で思い出しましたがへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1300>
-<font color=#6A5ACD>RE:�A���P�[�g�t���Ŏv���o���܂�����</font></a>
+<font color=#6A5ACD>RE:アンケート葉書で思い出しましたが</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N11��14��(��) 2��31��</font>
+八重洲
+ さん</font>
+ <font size=2>2001年11月14日(水) 2時31分</font>
 <a href=http://www.sakuranet.or.jp/~tenbu/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1300">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+<a href="resbbs4@vew_1300.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���Ƃ����ڂ̑��҂͖����ɂ���A���]���l�^�͂�����߂悤�A�ȂǂƂ����ӂ��ɂ͎v���Ăق����Ȃ��ł�����ˁB<br>��i���u�Â��v�ɂȂ��Ă��ɂ��ւ�炸�����\���ɍ�҂���̌䖼�O���Ȃ������̂́A�X�P�W���[���̓s���ƁA�A���P�[�g���ʂ̗l�q���ŊԂ������Ă�̂��ȁA�ȂǂƐ����B<br>�A���P�[�g�̌��ʂ͂������ɏo�Ă邾�낤����A�����_�ō�҂���̃y�[�W�ŃA�i�E���X���Ȃ��Ƃ����݂�ƁA���҂͔����Ȃ̂��Ȃ��Ƃ��v���܂��B���ۂ̂Ƃ��͂ǂ��Ȃ�ł��傤�ˁH</font></ul>
+<ul><br><font size=3>たとえ直接の続編は無理にしろ、性転換ネタはもうやめよう、などというふうには思ってほしくないですもんね。<br>作品が「つづく」になってたにも関わらず次号予告に作者さんの御名前がなかったのは、スケジュールの都合と、アンケート結果の様子見で間をあけてるのかな、などと推測。<br>アンケートの結果はもう既に出てるだろうから、現時点で作者さんのページでアナウンスがないとこをみると、続編は微妙なのかなあとも思います。実際のとこはどうなんでしょうね？</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

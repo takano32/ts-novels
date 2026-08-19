@@ -1,109 +1,109 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�s�r�e���s�f�J�[�j�o��>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:ＴＳＦ＆ＴＧカーニバル>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=82428><BR>
-<img SRC="out.png?31682428"> ����4���̐����𔼊p�����œ��͂��Ă�������: <input type="text" size=8 name="captcha"><br> <br>
-���܋C�ɂȂ�
+<img SRC="out@31682428.png"> 左の4桁の数字を半角数字で入力してください: <input type="text" size=8 name="captcha"><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2756>
 <input type=hidden name=ress value=2756>
-<input type=submit value=�s�r�e���s�f�J�[�j�o���֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=ＴＳＦ＆ＴＧカーニバルへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2756>
-<font color=#6A5ACD>�s�r�e���s�f�J�[�j�o��</font></a>
+<font color=#6A5ACD>ＴＳＦ＆ＴＧカーニバル</font></a>
 <font color=#303030>
-�\���߂���
- ����</font>
- <font size=2>2006�N4��19��(��) 7��38��</font>
+能瀬めぐみ
+ さん</font>
+ <font size=2>2006年4月19日(水) 7時38分</font>
 <a href=http://wiki.livedoor.jp/nose_megumi/d/FrontPage target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2756">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>ARIA</b>�z</font>
+<a href="resbbs4@vew_2756.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ARIA</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���]�����m�̃E�B�L���ĂȂ��̂��ȂƎv���Ă��ꂱ��T�������A������Ȃ������̂ŁA�����ō���Ă݂܂����B<br>�s�r�e���m�̍�i�̏Љ�E�B�L�ɂ������Ǝv���Ă܂��B<br>���]�����m�ȊO�ɂ������A�j���A�t�^�i�����������ɍ쐬���Ă��܂��B<br>�����Ԃ������猩�Ă��������B�����A�悩�����珑�����݂��Ă��������B<br></font></ul>
+<ul><br><font size=3>性転換モノのウィキってないのかなと思ってあれこれ探したが、見つからなかったので、自分で作ってみました。<br>ＴＳＦモノの作品の紹介ウィキにしたいと思ってます。<br>性転換モノ以外にも女装、男装、フタナリ等も同時に作成しています。<br>お時間あったら見てください。もし、よかったら書きこみしてください。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2757>
-<font color=#6A5ACD>�������E�ESNS�i�\�[�V�����l�b�g���[�N�j</font></a>
+<font color=#6A5ACD>同じく・・SNS（ソーシャルネットワーク）</font></a>
 <font color=#303030>
 <a href=mailto:ts8989@yahoo.co.jp>byuno</a>
- ����</font>
- <font size=2>2006�N6��10��(�y) 20��49��</font>
+ さん</font>
+ <font size=2>2006年6月10日(土) 20時49分</font>
 <a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2757">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@TSF�nSNS���ĂȂ��̂��ȂƎv���āA�����ō���Ă݂܂����B<br>�s�r�e�D���������W�܂�\�[�V�����l�b�g���[�N�ɂ������Ǝv���Ă܂��B<br>�����Ԃ�������Q�����������B�i�v�I�����ł��B<br>�@�Q���҂��Q���҂��L�߂Ă����āATSF�E�ɍݐЂ���l���吨�W�܂�����<br>�����ȂƎv���Ă��܂��B<br><br>���\�[�V�����l�b�g���[�N�Ƃ͈ȉ��݂����ȃT�C�g�ŕ׋����ĂˁB<br><a href=http://bb.watch.impress.co.jp/column/socialn/2004/10/28/ target=_top>http://bb.watch.impress.co.jp/column/socialn/2004/10/28/</a><br></font></ul>
+<a href="resbbs4@vew_2757.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　TSF系SNSってないのかなと思って、自分で作ってみました。<br>ＴＳＦ好きが多く集まるソーシャルネットワークにしたいと思ってます。<br>お時間あったら参加ください。永久的無料です。<br>　参加者が参加者を広めていって、TSF界に在籍する人が大勢集まったら<br>いいなと思っています。<br><br>※ソーシャルネットワークとは以下みたいなサイトで勉強してね。<br><a href=http://bb.watch.impress.co.jp/column/socialn/2004/10/28/ target=_top>http://bb.watch.impress.co.jp/column/socialn/2004/10/28/</a><br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2758>
-<font color=#6A5ACD>RE:�������E�ESNS�i�\�[�V�����l�b�g���[�N�j</font></a>
+<font color=#6A5ACD>RE:同じく・・SNS（ソーシャルネットワーク）</font></a>
 <font color=#303030>
-�т��
- ����</font>
- <font size=2>2006�N7��2��(��) 0��39��</font>
-<a href="resbbs4.cgi?vew=2758">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���̌f���̊Ǘ���gori.sh���ɂ��Q�����Ē����܂����B���d�F���╶�ɂ�<br>���X�A�x�l�q�̃��X�g�ɍv�����ꂽ�i���ގ��A�܂��A�t�r���C���A�^�P<br>���j�����āA�s�r�e�������Ă�܂Ȃ����X�̂��ׂĂɎQ�����Ē��������Ɗ�<br>���Ă܂��B<br>�����E���E�G�E�{�C�h���ȂǕ�����킸�A�s�r�e����������X�S�Ă��W<br>�܂�s�r�e�ő勉�̃l�b�g���[�N�\�z�ł��B<br><br>Trans Mixi : <a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>http://www.dragonrjp.or.tv/claft/index.html</a><br>�@�����ŃV�X�e���Ȃ��߁A�L������ɓ����Ă܂����Ƃ����l�т��܂��B<br><br>���s�r�e�n�T�C�g�̖K��҂Ɖ^�c�҂��A�C�����Ɋ��z��𗬂��\�ł��B<br>���S�Q���҂����L��R�~���j�e�B�𗧂��グ��������A�{�����\�ł��B<br>���ߏ��ɂ���s�r�e�D���̕��X�������܂��B�@<br>�܂��܂��A���낢��ȉ\��������Ǝv���Ă܂��B<br><br>�@���݁A�Q�V���O��̎Q���҂ł��B�܂��܂��s�r�e�E�̐l���͂���Ȃ���<br>�ł͂���܂���B<br><br>�@���̃T�C�gclaft�ɂĎQ���҂����U������t�H�[����ݒu���Ă���܂�<br>���A���ɎQ���ς݂̕��Ȃ�ǂȂ��ł��Q�����F�ł���V�X�e���ł��̂ŁA<br>�����I�ɂ͂����ȃT�C�g����Q�����\�ɂȂ邱�Ƃ��肢�܂��B<br><br>�@<a href=http://www.dragonrjp.or.tv/claft/transnet/transmix.htm target=_top>http://www.dragonrjp.or.tv/claft/transnet/transmix.htm</a>�@<br>���ꕔ�t���[���[��������Ȃ��悤�ł��B���ڃ��[���ł����܂��܂���B<br><br></font></ul>
+びゅの
+ さん</font>
+ <font size=2>2006年7月2日(日) 0時39分</font>
+<a href="resbbs4@vew_2758.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>この掲示板の管理者gori.sh氏にも参加して頂きました。八重洲氏や文庫の<br>方々、ＹＭＲのリストに貢献された（ちむ氏、まつ氏、フビライ氏、真輝<br>氏）そして、ＴＳＦを愛してやまない方々のすべてに参加して頂きたいと願<br>ってます。<br>小説・情報・絵・ボイドラなど分野を問わず、ＴＳＦを愛する方々全てが集<br>まるＴＳＦ最大級のネットワーク構想です。<br><br>Trans Mixi : <a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>http://www.dragonrjp.or.tv/claft/index.html</a><br>　無料版システムなため、広告が上に入ってますことをお詫びします。<br><br>○ＴＳＦ系サイトの訪問者と運営者が、気さくに感想や交流が可能です。<br>○全参加者が日記やコミュニティを立ち上げあげたり、閲覧が可能です。<br>○近所にいるＴＳＦ好きの方々が増えます。　<br>まだまだ、いろいろな可能性があると思ってます。<br><br>　現在、２７名前後の参加者です。まだまだＴＳＦ界の人口はこんなもの<br>ではありません。<br><br>　私のサイトclaftにて参加者をお誘いするフォームを設置しております<br>が、既に参加済みの方ならどなたでも参加承認できるシステムですので、<br>将来的にはいろんなサイトから参加が可能になることを願います。<br><br>　<a href=http://www.dragonrjp.or.tv/claft/transnet/transmix.htm target=_top>http://www.dragonrjp.or.tv/claft/transnet/transmix.htm</a>　<br>※一部フリーメールが送れないようです。直接メールでもかまいません。<br><br></font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2777>
-<font color=#6A5ACD>RE:�s�r�e���s�f�J�[�j�o��</font></a>
+<font color=#6A5ACD>RE:ＴＳＦ＆ＴＧカーニバル</font></a>
 <font color=#303030>
-���L��
- ����</font>
- <font size=2>2006�N9��24��(��) 21��56��</font>
-<a href="resbbs4.cgi?vew=2777">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�E�C�b�`�u���C�h</b>�z</font>
-<ul><font size=3>�b�͒E������̂ł����A�E�B�L�ƌ����΍ŋ߃E�B�L�y�f�B�A�ɁuTSF�v�Ƃ������ڂ��o���܂������܂��܂����g���[��������]�n�����肻���ł��B<br><br><a href=http://ja.wikipedia.org/wiki/TSF target=_top>http://ja.wikipedia.org/wiki/TSF</a></font></ul>
+書記長
+ さん</font>
+ <font size=2>2006年9月24日(日) 21時56分</font>
+<a href="resbbs4@vew_2777.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>ウイッチブレイド</b>】</font>
+<ul><font size=3>話は脱線するのですが、ウィキと言えば最近ウィキペディアに「TSF」という項目が出来ましたがまだまだ中身を充実させる余地がありそうです。<br><br><a href=http://ja.wikipedia.org/wiki/TSF target=_top>http://ja.wikipedia.org/wiki/TSF</a></font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

@@ -1,101 +1,101 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���d�q�`��>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:超電子～♪>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1444>
 <input type=hidden name=ress value=1445>
-<input type=submit value=���d�q�`��֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=超電子～♪へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1445>
-<font color=#6A5ACD>RE:���d�q�`��</font></a>
+<font color=#6A5ACD>RE:超電子～♪</font></a>
 <font color=#303030>
 yays
- ����</font>
- <font size=2>2002�N5��26��(��) 15��25��</font>
-<a href="resbbs4.cgi?vew=1445">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2002年5月26日(日) 15時25分</font>
+<a href="resbbs4@vew_1445.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>����A�o�[�b�ƃo�C�I�����ė��܂����B<br>�����̓q�J���A���Ƃ҂��e�����\��^�悳��Ă�E�E�E���B<br>�ŋ߈�T�ԂƂ��Ƌ󂯂邱�Ƃ�������ŁA���d�o�f�ɂ��^��\�񊈗p���Ă܂��B<br>�O�N�ۏ؂ɓ����Ă��Ń\�j�[�^�C�}�[�����S�ł���I�i�΁j</font></ul>
+<ul><br><font size=3>先日、バーッとバイオ買って来ました。<br>今頃はヒカリアンとぴたテンが予約録画されてる・・・筈。<br>最近一週間とか家空けることが多いんで、ｉＥＰＧによる録画予約活用してます。<br>三年保証に入ってるんでソニータイマーも安心ですよ！（笑）</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1447>
-<font color=#6A5ACD>RE:���d�q�`��</font></a>
+<font color=#6A5ACD>RE:超電子～♪</font></a>
 <font color=#303030>
 yays
- ����</font>
- <font size=2>2002�N5��26��(��) 15��52��</font>
-<a href="resbbs4.cgi?vew=1447">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�A�j���G���R�ɂ͂܂�Ȃ��悤�C�����悤�E�E�E</b>�z</font>
-<ul><font size=3>���łŃ_�C�i�}�����Ă��Ƃ͂m�d�b�̃m�[�g���ƃ��C�u�}���E�E�E�H�@���Ƃ������B<br><br>���ł�����A�����̂s�u�^����̘b�������B<br>�r�n�m�x�̂g�c�c���R�[�_�[�b�k�h�o�|�n�m���֗������������񂾂��ǁAHDD�e�ʂ�c�u�c�ɏĂ����֐����l����Gigapocket���ڂ̂u�`�h�n��I�т܂����B�É��E�R���p�N�g��JX�V���[�Y�B<br>���ł�HDDDVD��̘^��@RD-X2�͓X���ɂȂ������̂ƁA���쎞�̃��X�|���X���S�z��������ō���̓p�X���܂����B�ł��������I��łĂ������Ȃ����������B<br>�n�C�r�W����TV�̓����͌���������ŁAD-VHS�@�����\����Ȃ��B�������܂̘^����ŁA�ɂȂƂ���HDD�ɂ��܂ݐH���Đ�������ۂǋC�ɓ��������̈ȊO�A�����[����f�[�^�����A�Ƃ����s�u�����ɂȂ肻���ł��B<br>����ɂ��Ă�MPEG2�r�b�g���[�g4Mbps���炢���ƃo�X�P��T�b�J�[�݂����ȃX�|�[�c���p�ł̓u���b�N�m�C�Y�ł܂���ł��ˁ[�B</font></ul>
+ さん</font>
+ <font size=2>2002年5月26日(日) 15時52分</font>
+<a href="resbbs4@vew_1447.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>アニメエンコにはまらないよう気をつけよう・・・</b>】</font>
+<ul><font size=3>東芝でダイナマンってことはＮＥＣのノートだとライブマン・・・？　ちときついか。<br><br>ついでだから、うちのＴＶ録画環境の話を少し。<br>ＳＯＮＹのＨＤＤレコーダーＣＬＩＰ－ＯＮが便利そうだったんだけど、HDD容量やＤＶＤに焼く利便性を考えてGigapocket搭載のＶＡＩＯを選びました。静音・コンパクトなJXシリーズ。<br>東芝のHDDDVD一体録画機RD-X2は店頭になかったのと、操作時のレスポンスが心配だったんで今回はパスしました。でもこっち選んでても悪くなかったかも。<br>ハイビジョンTVの導入は見送ったんで、D-VHS機導入予定もなし。当分いまの録画環境で、暇なときにHDDによるつまみ食い再生→よっぽど気に入ったもの以外、見た端からデータ消去、というＴＶ生活になりそうです。<br>それにしてもMPEG2ビットレート4Mbpsくらいだとバスケやサッカーみたいなスポーツ中継ではブロックノイズでまくりですねー。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1451>
-<font color=#6A5ACD>RE:���d�q�`��</font></a>
+<font color=#6A5ACD>RE:超電子～♪</font></a>
 <font color=#303030>
 <a href=mailto:aoki@gori.sh>Gori</a>
- ����</font>
- <font size=2>2002�N5��27��(��) 23��44��</font>
+ さん</font>
+ <font size=2>2002年5月27日(月) 23時44分</font>
 <a href=http://www.gori.sh/tifra/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1451">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�s���N�X�i�C�p�[�ǂݕԂ�</b>�z</font>
-<ul><font size=3>�J�V�I�Ȃ̂Ńt�@�C�o�}���E�E�E���肻���B<br><br>�����̓d��������ςȃ}�V���͒��É��Ȃ���K6-3/400�Ȏ���}�V���Ȃ�ŁA�L���v�`���ɂ͕͗s���B<br>�����͂ӂ[�̃r�f�I�f�b�L��������܂���B�����Ȃ��g�c�c�ۑ��B<br></font></ul>
+<a href="resbbs4@vew_1451.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ピンクスナイパー読み返し</b>】</font>
+<ul><font size=3>カシオなのでファイバマン・・・ありそう。<br><br>うちの電源入れっぱなマシンは超静音ながらK6-3/400な自作マシンなんで、キャプチャには力不足。<br>当分はふつーのビデオデッキが手放せません。いいなぁＨＤＤ保存。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1455>
-<font color=#6A5ACD>RE:���d�q�`��</font></a>
+<font color=#6A5ACD>RE:超電子～♪</font></a>
 <font color=#303030>
-<a href=mailto:cai03080@pop17.odn.ne.jp>�����E</a>
- ����</font>
- <font size=2>2002�N6��2��(��) 19��49��</font>
+<a href=mailto:cai03080@pop17.odn.ne.jp>名高忍</a>
+ さん</font>
+ <font size=2>2002年6月2日(日) 19時49分</font>
 <a href=http://mypage.odn.ne.jp/home/nataka target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1455">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�O���X�n�[�g�̐V��</b>�z</font>
-<ul><font size=3>�o�b���[�J�Ńo�C�I�}����_�C�i�}���Ƃ́c�΂킹�Ă��炢�܂����B<br>�����t�@�C�o�ł��B<br>�������s���N��(��)<br><br>�n�[�h�f�B�X�N���R�[�_�̓��N���N���g���Ă��܂��B<br>�ł��d���X�C�b�`���n�e�e�ł��t�@��������Ĕς��̂ŕ��i�͂u�g�r�B<br></font></ul>
+<a href="resbbs4@vew_1455.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>グラスハートの新刊</b>】</font>
+<ul><font size=3>ＰＣメーカでバイオマンやダイナマンとは…笑わせてもらいました。<br>私もファイバです。<br>しかもピンクの(爆)<br><br>ハードディスクレコーダはロクラクを使っています。<br>でも電源スイッチがＯＦＦでもファンが回って煩いので普段はＶＨＳ。<br></font></ul>
 <HR>
 </ul>
 </ul>
@@ -103,7 +103,7 @@ yays
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

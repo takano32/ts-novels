@@ -1,147 +1,147 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�A�j���͖����ł����H>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:アニメは無いですか？>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1824>
 <input type=hidden name=ress value=1824>
-<input type=submit value=�A�j���͖����ł����H�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=アニメは無いですか？へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1824>
-<font color=#6A5ACD>�A�j���͖����ł����H</font></a>
+<font color=#6A5ACD>アニメは無いですか？</font></a>
 <font color=#303030>
-�l������܂т���
- ����</font>
- <font size=2>2003�N5��11��(��) 16��55��</font>
-<a href="resbbs4.cgi?vew=1824">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�Ȃ񂾂낤�H</b>�z</font>
+Ｍａｘやまびこ号
+ さん</font>
+ <font size=2>2003年5月11日(日) 16時55分</font>
+<a href="resbbs4@vew_1824.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>なんだろう？</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�P�W�ւɂ����āA�`�u�ł��s�r�l�^�͌��\����ƌ������Ă��܂��B�������A�P�W�փA�j���łs�r�Y���̍�i�͍����f�������Ƃ�����܂���B�����m�̕��C�܂��͏�������Ă�����̏������肢�v���܂��B</font></ul>
+<ul><br><font size=3>１８禁において、ＡＶでもＴＳネタは結構あると見解しています。しかし、１８禁アニメでＴＳ該当の作品は今だ伺ったことがありません。ご存知の方，または所持されている方の情報をお願い致します。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1825>
-<font color=#6A5ACD>RE:�A�j���͖����ł����H</font></a>
+<font color=#6A5ACD>RE:アニメは無いですか？</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F</a>
- ����</font>
- <font size=2>2003�N5��11��(��) 17��44��</font>
-<a href="resbbs4.cgi?vew=1825">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���ƂȂ��Ă͂����\�ܔN���炢�̂�OVA�ł����A�u�߈ˁv�D���ɂ̓o�C�u���Ƃ܂Ő��߂��Ă��i����܂���B<br>�u�{�f�B�W���b�N�v���č�i�Ȃ�ł����AR�w��ł�18�֔łœ��e���������ƁA������Ƃ�₱�����ł��B����ȑO�Ɍ��݂��ƁA���Ɏ�ɓ���ɂ����󋵂ł����c�c�B<br>�ڂ����͂����⑼�T�C�g����̃f�[�^�x�[�X���������Ă݂Ă��������B<br></font></ul>
+<a href=mailto:yays@geocities.co.jp>八重洲</a>
+ さん</font>
+ <font size=2>2003年5月11日(日) 17時44分</font>
+<a href="resbbs4@vew_1825.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>今となってはもう十五年ぐらい昔のOVAですが、「憑依」好きにはバイブルとまで崇められてる作品ありますよ。<br>「ボディジャック」って作品なんですが、R指定版と18禁版で内容が違ったりと、ちょっとややこしいです。それ以前に現在だと、非常に手に入りにくい状況ですが……。<br>詳しくはうちや他サイトさんのデータベースをあたってみてください。<br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=1826>
-<font color=#6A5ACD>RE:�A�j���͖����ł����H</font></a>
+<font color=#6A5ACD>RE:アニメは無いですか？</font></a>
 <font color=#303030>
-�e����
- ����</font>
- <font size=2>2003�N5��11��(��) 17��49��</font>
-<a href="resbbs4.cgi?vew=1826">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�P�W�ւ��āE�E�E�B<br>�@�E�����������@�c�u�c�i�A�C��MANIAX 1�`�R���^�j<br>�@�E���V�C�N���j�b�N�@���Ɓ��̉�������ׁ@OVA<br>�@�E�͌��Ƃ̈ꑰ�E���@OVA<br>�@�E���~�J�G���w���Y���L�㉺�@OVA��DVD<br>�@�E�����2�@�@�p�j���E�p����<br>�@�E�Q���̌��N�D�ǎ���3�b<br>�@�E�o���o���o<br>�@�E�{�f�B�W���b�N�@�y�����H�̗��E�@<br>�@�E�������H�H���<br>�@�E��\�T��~�R�@�􂢂̃y���_���g<br>�^���X�g�����ŁE�E����Ȃ��E�E�B���ǌ��e����g�@�Ȃǂ̊Y����̃V���[�Y�ɂ��Ђ����Ɋ��ҁE�E�B</font></ul>
+影武者
+ さん</font>
+ <font size=2>2003年5月11日(日) 17時49分</font>
+<a href="resbbs4@vew_1826.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>１８禁って・・・。<br>　・淫魔制服狩り　ＤＶＤ（アイルMANIAX 1～３収録）<br>　・お天気クリニック　♂と♀の快感くらべ　OVA<br>　・河原家の一族・下　OVA<br>　・聖ミカエラ学園漂流記上下　OVA＆DVD<br>　・ちゅっ2　　パニラ・パメラ<br>　・嘆きの健康優良児第3話<br>　・バラバンバ<br>　・ボディジャック　楽しい幽体離脱　<br>　・美しい？？麗令<br>　・霊能探偵ミコ　呪いのペンダント<br>某リストだけで・・こんなけ・・。けど月影炎や紅蓮などの該当作のシリーズにもひそかに期待・・。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1827>
-<font color=#6A5ACD>�Q�O�O�O�N�ȍ~�ł́H</font></a>
+<font color=#6A5ACD>２０００年以降では？</font></a>
 <font color=#303030>
-�l������܂т���
- ����</font>
- <font size=2>2003�N5��12��(��) 12��1��</font>
-<a href="resbbs4.cgi?vew=1827">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�J�i</b>�z</font>
-<ul><font size=3>���̂��񋟁C���ɂ��肪�Ƃ��������܂��B�ł���΁A�Q�O�O�O�N�ȍ~�ӂ�̃����^���P�W�փA�j����i�ł����m�ł�����A������̏����������������B�X�������肢���܂��B</font></ul>
+Ｍａｘやまびこ号
+ さん</font>
+ <font size=2>2003年5月12日(月) 12時1分</font>
+<a href="resbbs4@vew_1827.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>カナ</b>】</font>
+<ul><font size=3>情報のご提供，誠にありがとうございます。できれば、２０００年以降辺りのレンタル１８禁アニメ作品でご存知でしたら、こちらの情報もお教え下さい。宜しくお願いします。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1828>
-<font color=#6A5ACD>RE:�A�j���͖����ł����H</font></a>
+<font color=#6A5ACD>RE:アニメは無いですか？</font></a>
 <font color=#303030>
-�e���҇U�i�剉�E���c�D��i�������̈ꕗ�j
- ����</font>
- <font size=2>2003�N5��12��(��) 20��9��</font>
-<a href="resbbs4.cgi?vew=1828">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3><br>�@�E�����������@�c�u�c�i�A�C��MANIAX 1�`�R���^�j�@����<br>�@�E���V�C�N���j�b�N�@���Ɓ��̉�������ׁ@OVA�@�@�@����<br>�@�E�͌��Ƃ̈ꑰ�E���@OVA�@�@�@�@�@�@�@�@�@�@�@�@�@����<br>�@�E���~�J�G���w���Y���L�㉺�@OVA��DVD�@�@�@�@�@�@�@����<br>�@�E�����2�@�@�p�j���E�p�����@�@�@�@�@�@�@�@�@�@�@����<br>�@�E�Q���̌��N�D�ǎ���3�b�@�@�@�@�@�@�@�@�@�@�@�@�@����<br>�@�E�o���o���o�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@����<br>�@�E�{�f�B�W���b�N�@�y�����H�̗��E�@�@�@�@�@�@�@�@���~<br>�@�E�������H�H��߁@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@����<br>�@�E��\�T��~�R�@�􂢂̃y���_���g�@�@�@�@�@�@�@�@����<br><br>��2000�N�ȍ~�ŁA���ʂɃ����^���r�f�I�̃G���A�j���R�[�i�[�Ō�����B<br>��2000�N�ȑO���Ǝv���B<br>�����̃����^���r�f�I���ɒu���Ă���B<br>�����Ȃ�l�̃����^���r�f�I�������Ãr�f�I������Ō����邩�ȁH<br>�~�`���I�c�u���Ă��郌���^���r�f�I�����񂠂�����A�_�̏̍���^���Ă�<br>�@���������B</font></ul>
+影武者Ⅱ（主演・松田優作（♀化くの一風）
+ さん</font>
+ <font size=2>2003年5月12日(月) 20時9分</font>
+<a href="resbbs4@vew_1828.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3><br>　・淫魔制服狩り　ＤＶＤ（アイルMANIAX 1～３収録）　←◎<br>　・お天気クリニック　♂と♀の快感くらべ　OVA　　　←○<br>　・河原家の一族・下　OVA　　　　　　　　　　　　　←◎<br>　・聖ミカエラ学園漂流記上下　OVA＆DVD　　　　　　　←○<br>　・ちゅっ2　　パニラ・パメラ　　　　　　　　　　　←△<br>　・嘆きの健康優良児第3話　　　　　　　　　　　　　←△<br>　・バラバンバ　　　　　　　　　　　　　　　　　　←△<br>　・ボディジャック　楽しい幽体離脱　　　　　　　　←×<br>　・美しい？？麗令　　　　　　　　　　　　　　　　←○<br>　・霊能探偵ミコ　呪いのペンダント　　　　　　　　←◎<br><br>◎2000年以降で、普通にレンタルビデオのエロアニメコーナーで見つかる。<br>↓2000年以前だと思う。<br>○大抵のレンタルビデオ屋に置いてある。<br>△かなり個人のレンタルビデオ屋か中古ビデオ屋さんで見つかるかな？<br>×伝説的…置いてあるレンタルビデオ屋さんあったら、神の称号を与えても<br>　いいかも。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1830>
-<font color=#6A5ACD>�{�f�B�V�K���b�N</font></a>
+<font color=#6A5ACD>ボディシ゜ャック</font></a>
 <font color=#303030>
-�ԃ}���g
- ����</font>
- <font size=2>2003�N5��12��(��) 21��34��</font>
-<a href="resbbs4.cgi?vew=1830">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ���E���킳�́A<b>�ĂɃ��[���C���񂪁E�E�E�S�z���S�z��</b>�z</font>
-<ul><font size=3>���Ă͂āu�{�f�B�W���b�N�v�̘b���ł���Ƃ肠�����o�ꂵ�Ƃ��Ȃ���B<br>�s���ł̏��Ƃ��Ă͐V�h�̃c�^���ƍ��~���ƒ���Ԃɂ���r�f�I���Ŋm�F���Ă܂��B<br>�ŋ߂̓��t�[�I�[�N�V�����Ȃǂł����܂Ɍ������܂��B<br>�Ȃ�ɂ���߈˃A�j���̂�͂�ō�����Ȃ̂ł��Ђ����ȕ��݂͂Ă��Ăق�����i�ł�</font></ul>
+赤マント
+ さん</font>
+ <font size=2>2003年5月12日(月) 21時34分</font>
+<a href="resbbs4@vew_1830.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる情報・うわさは、<b>夏にユーレイくんが・・・ゴホンゴホン</b>】</font>
+<ul><font size=3>さてはて「ボディジャック」の話がでたらとりあえず登場しとかなきゃ。<br>都内での情報としては新宿のツタヤと高円寺と中野間にあるビデオ屋で確認してます。<br>最近はヤフーオークションなどでもたまに見かけます。<br>なんにせよ憑依アニメのやはり最高傑作なのでぜひすきな方はみていてほしい一品です</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1831>
-<font color=#6A5ACD>RE:�{�f�B�V�K���b�N</font></a>
+<font color=#6A5ACD>RE:ボディシ゜ャック</font></a>
 <font color=#303030>
-���ނ���
- ����</font>
- <font size=2>2003�N5��12��(��) 23��54��</font>
-<a href="resbbs4.cgi?vew=1831">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�s���ł���΁A�����̃r�f�I�V�e�B�ł��m�F���Ă܂�</font></ul>
+えむえむ
+ さん</font>
+ <font size=2>2003年5月12日(月) 23時54分</font>
+<a href="resbbs4@vew_1831.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>都内であれば、葛西のビデオシティでも確認してます</font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=1835>
-<font color=#6A5ACD>����܂����I</font></a>
+<font color=#6A5ACD>ありました！</font></a>
 <font color=#303030>
-�l������܂т���
- ����</font>
- <font size=2>2003�N5��14��(��) 15��2��</font>
-<a href="resbbs4.cgi?vew=1835">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�J�i</b>�z</font>
-<ul><font size=3>�����C�؂�ɍs���܂����B�w�쌴��Ƃ̈ꑰ�x�����āC�������܂����I���肪�Ƃ��������܂��B���ɁC����������ϐg���C�ɓ���܂����B�����X������΁C�쌴��Ɓ`�̂悤�ɁA���̎q�ɂȂ��Ă����p��������s�r�Y����i�i�A�j���P�W�ցE���)�C�����^���r�f�I�Ŏ؂������̂������m�ł�����C������̏����X�������肢���܂��B<br><br>�Ƃ���ŁA�쌴��Ƃŏr��Ƃ������N���Y���ł������A�Ȃ�����������\�͂������Ă����̂ł��傤���H�H<br></font></ul>
+Ｍａｘやまびこ号
+ さん</font>
+ <font size=2>2003年5月14日(水) 15時2分</font>
+<a href="resbbs4@vew_1835.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>カナ</b>】</font>
+<ul><font size=3>早速，借りに行きました。『川原崎家の一族』を見て，感動しました！ありがとうございます。特に，女性化する変身が気に入りました。もし宜しければ，川原崎家～のように、女の子になっていく姿が見られるＴＳ該当作品（アニメ１８禁・一般)，レンタルビデオで借りられるものをご存知でしたら，こちらの情報も宜しくお願いします。<br><br>ところで、川原崎家で俊介という少年が該当でしたが、なぜ女性化する能力を持っていたのでしょうか？？<br></font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

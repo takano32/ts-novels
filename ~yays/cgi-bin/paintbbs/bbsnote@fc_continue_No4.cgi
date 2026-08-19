@@ -1,6 +1,6 @@
 <HTML><HEAD>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=x-sjis">
-<TITLE>�G���[</TITLE>
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+<TITLE>エラー</TITLE>
 <STYLE type="text/css">
 <!--
 .button { background: #0099CC;  color: #FFFFFF; font-size: 10pt;border:1;border-color:#FFFFDD;border-style: dotted}
@@ -9,8 +9,8 @@
 
 
 </HEAD><BODY bgcolor="#D0E8FF" text="#0066CC" link="#333399" vlink="#003366" alink="#FF1111"><CENTER><BR><BR><HR>
-<H1>�G���[</H1><BR>�w�肳�ꂽNo�͌�����܂���ł���<BR>
+<H1>エラー</H1><BR>指定されたNoは見つかりませんでした<BR>
 
-<P><CENTER><fONT SIZE=2>[<a TITLE="�߂�" href="./bbsnote.cgi">BACK</a>]</FONT></CENTER>
+<P><CENTER><fONT SIZE=2>[<a TITLE="戻る" href="bbsnote.cgi">BACK</a>]</FONT></CENTER>
 
-<HR><DIV ALIGN="RIGHT"><SMALL><A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)���������(shi-cyan)</A> </SMALL></DIV></BODY></HTML>
+<HR><DIV ALIGN="RIGHT"><SMALL><A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)しぃちゃん(shi-cyan)</A> </SMALL></DIV></BODY></HTML>

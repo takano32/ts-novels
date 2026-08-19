@@ -1,121 +1,121 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���`��>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:う～む>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2060>
 <input type=hidden name=ress value=2063>
-<input type=submit value=���`�ނ֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=う～むへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2063>
-<font color=#6A5ACD>���`��</font></a>
+<font color=#6A5ACD>う～む</font></a>
 <font color=#303030>
-<a href=mailto:ndcss@mtd.biglobe.ne.jp>���ƂԂ��Ђ���</a>
- ����</font>
- <font size=2>2003�N11��26��(��) 20��19��</font>
+<a href=mailto:ndcss@mtd.biglobe.ne.jp>ことぶきひかる</a>
+ さん</font>
+ <font size=2>2003年11月26日(水) 20時19分</font>
 <a href=http://www2s.biglobe.ne.jp/~ndcss/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2063">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�{�N�͔ޏ��A���񂪊y���݂��B</b>�z</font>
+<a href="resbbs4@vew_2063.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ボクは彼女、次回が楽しみだ。</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�q�o�f�c�N�[���Ɍ��炸�A�I�����C���Ŕz�z���Ă���<br>�s�r�n��̃Q�[�����āA���Ȃ菭�Ȃ��ł���ˁB<br>�܂�ŁA�m��Ȃ��󂶂�Ȃ����ǁA���Ԃ��Ă����<br>�݂��ɋC�܂������ƂɂȂ肻�������B<br><br>����Ƃ���͒m���Ă��邭�炢�������Ă��炦�Ȃ��ł����ˁB<br></font></ul>
+<ul><br><font size=3>ＲＰＧツクールに限らず、オンラインで配布している<br>ＴＳ系主体ゲームって、かなり少ないですよね。<br>まるで、知らない訳じゃないけど、かぶっていると<br>互いに気まずいことになりそうだし。<br><br>これとこれは知っているくらいを書いてもらえないですかね。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2064>
-<font color=#6A5ACD>RE:���`��</font></a>
+<font color=#6A5ACD>RE:う～む</font></a>
 <font color=#303030>
 shin
- ����</font>
- <font size=2>2003�N11��27��(��) 14��53��</font>
-<a href="resbbs4.cgi?vew=2064">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���f���Ɍf�ڂ���Ă����wThe Milky Way�x�����m��܂���B<br></font></ul>
+ さん</font>
+ <font size=2>2003年11月27日(木) 14時53分</font>
+<a href="resbbs4@vew_2064.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>情報掲示板に掲載されていた『The Milky Way』しか知りません。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2066>
-<font color=#6A5ACD>�񂶂�΂܂�</font></a>
+<font color=#6A5ACD>んじゃばまあ</font></a>
 <font color=#303030>
-<a href=mailto:ndcss@mtd.biglobe.ne.jp>���ƂԂ��Ђ���</a>
- ����</font>
- <font size=2>2003�N11��27��(��) 19��53��</font>
+<a href=mailto:ndcss@mtd.biglobe.ne.jp>ことぶきひかる</a>
+ さん</font>
+ <font size=2>2003年11月27日(木) 19時53分</font>
 <a href=http://www2s.biglobe.ne.jp/~ndcss/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2066">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�M���i�U���A�����͌f�ڂ���邩�ȁH</b>�z</font>
-<ul><font size=3>�q�o�f�c�N�[���Ƃ������ƂȂ�<br><br>�uSECRET��EMOTION�v<br><br>�Ȃ�Ăǂ��ł����ˁB<br><br>���q�N���g�́A�����̉ԉőI�т̕�����̖�A<br>�H�ׂ������ɂ������Ă������@�ŁA���̐g�̂ɁB<br><br>�����̎������ʌp���������f�����������Ƃ������Ƃ�<br>�c�Ȃ��݂����ƁA�������n�߂�̂����E�E�E<br><br>���ڃ����N�����Ă������񂩊m�F�ł��Ȃ������̂ŁA<br>���t�[������ŁA<br><br>�uSECRET��EMOTION�v<br><br>�Ō��������Ă݂Ă��������B<br>����ł��_���Ȃ�A�I�C�����Ń��[�����������B<br>�܂�Ԃ��A�t�q�k�A�����܂��B<br><br>�Ȃ��A���O�ɁA�q�o�f�c�N�[���Q�O�O�R�����^�C���p�b�P�[�W��<br>�C���X�g�[�����K�v�B<br><br>��ɂ���āA�G���^�[�u���C���̂g�o����_�E�����[�h���Ă��������B<br></font></ul>
+<a href="resbbs4@vew_2066.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ギルナザン、今月は掲載されるかな？</b>】</font>
+<ul><font size=3>ＲＰＧツクールということなら<br><br>「SECRET☆EMOTION」<br><br>なんてどうですかね。<br><br>王子クルトは、自分の花嫁選びの舞踏会の夜、<br>食べた料理にかけられていた魔法で、女の身体に。<br><br>自分の次ぐ王位継承権を持つ叔父が怪しいということで<br>幼なじみたちと、調査を始めるのだが・・・<br><br>直接リンク張っていいもんか確認できなかったので、<br>ヤフーあたりで、<br><br>「SECRET☆EMOTION」<br><br>で検索かけてみてください。<br>それでもダメなら、オイラ宛でメールください。<br>折り返し、ＵＲＬ連絡します。<br><br>なお、事前に、ＲＰＧツクール２００３ランタイムパッケージの<br>インストールが必要。<br><br>例によって、エンターブレインのＨＰからダウンロードしてください。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2067>
-<font color=#6A5ACD>RE:�񂶂�΂܂�</font></a>
+<font color=#6A5ACD>RE:んじゃばまあ</font></a>
 <font color=#303030>
 shin
- ����</font>
- <font size=2>2003�N11��28��(��) 12��49��</font>
-<a href="resbbs4.cgi?vew=2067">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���肪�Ƃ��������܂��B<br>��������Ă݂܂��B�@�܂��L��悤�ł�����A���肢���܂��B</font></ul>
+ さん</font>
+ <font size=2>2003年11月28日(金) 12時49分</font>
+<a href="resbbs4@vew_2067.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ありがとうございます。<br>早速やってみます。　まだ有るようでしたら、お願いします。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2068>
-<font color=#6A5ACD>RE:�񂶂�΂܂�</font></a>
+<font color=#6A5ACD>RE:んじゃばまあ</font></a>
 <font color=#303030>
 shin
- ����</font>
- <font size=2>2003�N11��28��(��) 13��28��</font>
-<a href="resbbs4.cgi?vew=2068">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���肪�Ƃ��������܂��B<br>��������Ă݂܂��B�@�܂��L��悤�ł�����A���肢���܂��B</font></ul>
+ さん</font>
+ <font size=2>2003年11月28日(金) 13時28分</font>
+<a href="resbbs4@vew_2068.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ありがとうございます。<br>早速やってみます。　まだ有るようでしたら、お願いします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2069>
-<font color=#6A5ACD>RE:�񂶂�΂܂�</font></a>
+<font color=#6A5ACD>RE:んじゃばまあ</font></a>
 <font color=#303030>
 shin
- ����</font>
- <font size=2>2003�N11��28��(��) 13��30��</font>
-<a href="resbbs4.cgi?vew=2069">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����܂���B����čX�V�{�^���iF5)�������Ă��܂��܂����B</font></ul>
+ さん</font>
+ <font size=2>2003年11月28日(金) 13時30分</font>
+<a href="resbbs4@vew_2069.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>すいません。誤って更新ボタン（F5)を押してしまいました。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -124,7 +124,7 @@ shin
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

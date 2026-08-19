@@ -1,55 +1,55 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&id=1004721056ifxobad&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_id_1004721056ifxobad_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�s�r�厫�T����낤�I(2)</font><br>
+<font size="+2" color="#0000FF">ＴＳ大辞典を作ろう！(2)</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002023656ucmwd&ff=on" target="_blank">�s�r�厫�T����낤�I(1)�ւ͂������N���b�N</a></strong>  <i>2001/11/03 02:10:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_1_id_1002023656ucmwd_ff_on.cgi" target="_blank">ＴＳ大辞典を作ろう！(1)へはここをクリック</a></strong>  <i>2001/11/03 02:10:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004721056ifxobad&id2=1004721056ifxobad&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004721056ifxobad_id2_1004721056ifxobad_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ЂƂ�ł������̕��̎Q�������҂����Ă���܂��B(starbow@�^�c�ψ����K)<BR>
+ひとりでも多くの方の参加をお待ちしております。(starbow@運営委員見習)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2001/11/03 10:41:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2001/11/03 10:41:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004751713yifxhfk&id2=1004721056ifxobad&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004751713yifxhfk_id2_1004721056ifxobad_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̌f���V�X�e�����ő�R�����g�ǉ����t�o�������Ƃ����m���킷��Ă܂����B�ibig.or.jp��̃{�[�h�̂݁j<BR>�O�̃{�[�h�ł܂��P�O�O�������P�T�O�������܂œ��e�ł���͂��Ȃ̂ŁA���ʑO�̃{�[�h�������������p���Ă���ĉ������B<BR><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002935486txgjk&ff=on" target="_blank">http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002935486txgjk&ff=on</a><BR><BR>���������Ă����܂���B
+この掲示板システムが最大コメント追加数ＵＰしたことを告知しわすれてました。（big.or.jp上のボードのみ）<BR>前のボードでまだ１００件だか１５０件だかまで投稿できるはずなので、当面前のボードを引き続き利用してやって下さい。<BR><a href="noteky@c_noteread_f_1_id_1002935486txgjk_ff_on.cgi" target="_blank">noteky@c_noteread_f_1_id_1002935486txgjk_ff_on.cgi</a><BR><BR>混乱させてすいません。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="1004721056ifxobad">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

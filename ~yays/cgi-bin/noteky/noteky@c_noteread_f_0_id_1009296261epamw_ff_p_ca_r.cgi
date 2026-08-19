@@ -1,105 +1,105 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1009296261epamw&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1009296261epamw_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�_ -God- </font><br>
+<font size="+2" color="#0000FF">神 -God- </font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/26010215/god.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/12/26 01:04:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/26010215/god.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/12/26 01:04:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009296261epamw&id2=1009296261epamw&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009296261epamw_id2_1009296261epamw_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂�łǂ����̖��b�Ƃ��đ��݂������ȁA�s�v�c�ȋ�C�ł܂ꂽ��i�ł��B���}�_����Ɠ��̃^�b�`�������Ă��܂��B
+まるでどこかの民話として存在しそうな、不思議な空気でつつまれた作品です。ヤマダさん独特のタッチが生きています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/26 06:46:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/26 06:46:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009316809milnnqt&id2=1009296261epamw&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009316809milnnqt_id2_1009296261epamw_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށB�������͋C�ł��B�������A�_�l���Č��\���������ȕ������Ȃ�ł��ˁi�΁j�B<BR>�V�����N�́A���_�������������O�Ƃ��ꂩ��̐l�����C�ɂȂ�Ȃ��B<BR>���e�̒Q���̐�����������悤���i���j�B
+読んだバイ♪<BR>うーむ。いい雰囲気です。しかし、神様って結構いい加減な方たちなんですね（笑）。<BR>シラルクの、女神からもらった名前とこれからの人生が気になるなあ。<BR>父親の嘆きの声が聞こえるようだ（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/12/28 12:05:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/12/28 12:05:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009508747qvvdmc&id2=1009296261epamw&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009508747qvvdmc_id2_1009296261epamw_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ�قǁA�t�����X���������̖|��̕��͋C�ł��ˁA���ԏ��������݂����ȁB�����֔����O���̃o�J�b��Z�������܂������B�V�����N�N�̐��i���D�݂Ȃ̂ŁA�����ɑ���҂ł��B���������āA�����h��y�Ɓc�c�H
+なるほど、フランス児童小説の翻訳の雰囲気ですね、風車小屋だよりみたいな。そこへ白髪三千丈のバカ話を融合させましたか。シラルク君の性格が好みなので、続きに代期待です。もしかして、モンド先輩と……？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���[��������</strong>  <i>2001/12/30 19:43:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>おーきすさん</strong>  <i>2001/12/30 19:43:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009709018qvrcrq&id2=1009296261epamw&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009709018qvrcrq_id2_1009296261epamw_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�l�B�̂���������Ԃ肪�ʔ����ł��B<BR>�āA����H�V�����N�N�͍Ō�ɏ��̎q�ɂȂ����̂��ȁH<BR>���`��A�������C�ɂȂ�܂��B<BR>�����Đ_�l�B
+神様達のいいかげんぶりが面白いです。<BR>て、あれ？シラルク君は最後に女の子になったのかな？<BR>う～ん、続きが気になります。<BR>教えて神様。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/01/06 19:25:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/01/06 19:25:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010312714uxebjk&id2=1009296261epamw&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010312714uxebjk_id2_1009296261epamw_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�����������A�{���ɂ��肪�Ƃ��������܂��B<BR>�S��芴�ӂ��Ă���܂��B<BR>��i�̔��W�Ɍ����āA�V���ȔN�z���Ƌ��ɁA<BR>�撣���čs�������Ǝv���܂��B
+感想をいただき、本当にありがとうございます。<BR>心より感謝しております。<BR>作品の発展に向けて、新たな年越せと共に、<BR>頑張って行きたいと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/26010215/god02.html" target="_blank">�V�`�P�Q�b��ǂނɂ͂������N���b�N</a></strong>  <i>2002/01/12 00:52:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/26010215/god02.html" target="_blank">７～１２話を読むにはここをクリック</a></strong>  <i>2002/01/12 00:52:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010764354ekxohix&id2=1009296261epamw&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010764354ekxohix_id2_1009296261epamw_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�V�����N�A�悤�₭�̂��ƂŃp���ɒH�蒅���܂��B���̐�҂��󂯂Ă���^�����A�_�͉ʂ����Ēm���Ă���̂��낤���H
+【推薦文】シラルク、ようやくのことでパリに辿り着きます。この先待ち受けている運命を、神は果たして知っているのだろうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/12 06:46:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/12 06:46:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010785618sotfvh&id2=1009296261epamw&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010785618sotfvh_id2_1009296261epamw_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[��A�V�����N�N�E�E�E����Ȃ����������e�X�����A�����I<BR>�ӎu�̗͂Ƃ����̂͂����낵�����̂ł��˂��B<BR>�����A�p���ł̔ޏ��̕�炵���n�܂�i�H�j�킯�ł����A���ꂩ��ǂ��Ȃ��ł��傤���B���Ɋy���݂ł��B<BR>�Ƃ���ŁE�E�E�B������Ԃ͂����񂼁i�΁j�B
+読んだバイ♪<BR>うーん、シラルク君・・・じゃなかったモンテスちゃん、強い！<BR>意志の力というのはおそろしいものですねぇ。<BR>さあ、パリでの彼女の暮らしが始まる（？）わけですが、これからどうなるんでしょうか。非常に楽しみです。<BR>ところで・・・。無賃乗車はいかんぞ（笑）。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1009296261epamw">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

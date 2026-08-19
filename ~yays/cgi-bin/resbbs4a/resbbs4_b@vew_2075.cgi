@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�ŋ߂̂��C�ɓ���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:最近のお気に入り>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2075>
 <input type=hidden name=ress value=2075>
-<input type=submit value=�ŋ߂̂��C�ɓ���֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=最近のお気に入りへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2075>
-<font color=#6A5ACD>�ŋ߂̂��C�ɓ���</font></a>
+<font color=#6A5ACD>最近のお気に入り</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N12��3��(��) 3��1��</font>
-<a href="resbbs4_b.cgi?vew=2075">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2003年12月3日(水) 3時1分</font>
+<a href="resbbs4_b@vew_2075.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�\�z�ʂ�A�N���ɂ����ĖZ�����Ȃ��ăl�b�g�Ɋ炾���Ȃ��Ȃ���锪�d�F�ł��B<br>����͂��Ă����A<br>�ŋ߃R�~�b�N�n�Łu������I�v�Ǝv������i�ɂ��āB<br><br>�w�ӂ����V�Z�E�����J�`�x�E�E�E�����ł��˂���B�q���C���Ƃ������i�Ǝv����j�N���A�퓬�Ő_�ʗ͂��g���x�ɏ��̎p�ɂȂ�Ƃ����ݒ�I<br>�u�݂����蔼����ʊق������D�R�X�v�ɂĘA�ڊJ�n�́u�{�N�̓J�m�W���v�c�c�����I�@����^�|�搶�A�c�{��S�������I�ȂS�R�}�A��ł����B����N�����ɕς���Ă��܂��āA���h���^����Ɏn�߂��̂������̏����Ŋ��\������N�ǁ��o�b�Ɏ�荞�݂Ƃ���������A�^�Q�����˂�̎���o�b�p�[�c�i���������ȁH�j�ɂ���u���N���ď��̎q�ɂȂ��Ă���v�Ƃ����X���b�h��f�i�Ƃ�����W�J�Ŗʔ��������ł��B<br><br>�w�t�@�j�[�g���������~�r���������_�[�����x�E�E�E�i���_�݂��فE���a�o�Łj���������G�b�`�R�~�b�N�ł����i��������ƌĂԂɂ̓G�������i�΁j�j�B������҂̍�i�ł����A�j������ւ�蕨�Ƃ��ẮA���Ȃ�G���ʔ����o���ł��B�l�I�ɃO�b�Ƃ����̂��u�T�C���y���I�H�v�̂�����B<br><br>�`�����s�I���q�d�c�ŘA�ډ������u���L�c�l���܂łb�����I�v���ǂ��ł��B<br>���̂ق��A�^�����g����́w�d�x�Ȃ񂩂��A�قږ���q���C���ɒj���L�������߈˂�����������ݒ�ł��B</font></ul>
+<ul><br><font size=3>予想通り、年末にかけて忙しくなってネットに顔ださなくなりつつある八重洲です。<br>それはさておき、<br>最近コミック系で「あたり！」と思った作品について。<br><br>『ふしぎ遊技・玄武開伝』・・・いいですねこれ。ヒロインとくっつく（と思われる）青年が、戦闘で神通力を使う度に女の姿になるという設定！<br>「みこすり半劇場別館ｖｏｌ．３９」にて連載開始の「ボクはカノジョ」……いい！　荻野真弓先生、ツボを心得すぎ！な４コマ連作でした。童貞青年が女に変わってしまって、動揺しつつ真っ先に始めたのが自分の女声で官能小説を朗読→ＰＣに取り込みというあたり、某２ちゃんねるの自作ＰＣパーツ板（だったかな？）にある「朝起きて女の子になってたら」というスレッドを彷彿とさせる展開で面白かったです。<br><br>『ファニーＨｏｎｅｙ×Ｓｗｅｅｔダーリン』・・・（瑞垣みずほ・平和出版）少女向けエッチコミックでした（少女漫画と呼ぶにはエロすぎ（笑））。女性作者の作品ですが、男女入れ替わり物としては、かなりエロ面白い出来です。個人的にグッときたのが「サインペン！？」のくだり。<br><br>チャンピオンＲＥＤで連載化した「おキツネさまでＣｈｕ！」も良いです。<br>そのほか、真東砂波さんの『妖』なんかも、ほぼ毎回ヒロインに男性キャラが憑依する美味しい設定です。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

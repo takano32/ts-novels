@@ -1,355 +1,355 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&ff=p&id=1004719694edbetas&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_ff_p_id_1004719694edbetas_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���ɉ^�c��傢�Ɍ���(2)</font><br>
+<font size="+2" color="#0000FF">文庫運営を大いに語る会(2)</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002935486txgjk&ff=on" target="_blank">���ɉ^�c��傢�Ɍ���(1)�ւ͂������N���b�N</a></strong>  <i>2001/11/03 01:48:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_1_id_1002935486txgjk_ff_on.cgi" target="_blank">文庫運営を大いに語る会(1)へはここをクリック</a></strong>  <i>2001/11/03 01:48:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004719694edbetas&id2=1004719694edbetas&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004719694edbetas_id2_1004719694edbetas_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɂ̉^�c�ɂ��ĕ������f�p�ȋ^��Ȃǂ͂�����ւ��肢�������܂��B(starbow@�^�c�ψ����K)<BR>
+文庫の運営について抱いた素朴な疑問などはこちらへお願いいたします。(starbow@運営委員見習)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/11/03 02:26:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/11/03 02:26:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004721974nucsuuu&id2=1004719694edbetas&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004721974nucsuuu_id2_1004719694edbetas_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������ĂȂ��̂ɂ���Ȃ��Ƃ𕷂��̂͂Ȃ�ł����A<BR>�������e���Ă������̂ł��傤���H<BR>�V������i���A�b�v����Ă��܂����̂Łc�c�B<BR>
+立候補もしてないのにこんなことを聞くのはなんですが、<BR>もう投稿してもいいのでしょうか？<BR>新しい作品がアップされていましたので……。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>2001/11/03 10:32:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>2001/11/03 10:32:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004751174cixpuu&id2=1004719694edbetas&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004751174cixpuu_id2_1004719694edbetas_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͂悭�킩��Ȃ��̂ł����A����www.novels.jp���C���^�[�l�b�g����ؒf����Ă��܂��B�㗬�̃v���o�C�_�ɓd�b�������悤�Ǝv���āA�z�[���y�[�W���J���Ă������Ȃ��̂ŁA�����炭�v���o�C�_�ŏ�Q�����������Ǝv���܂��B<BR><BR>����������A�i�E���X�����܂��̂ł���܂ł́A<BR><BR>�E��i�̓��e<BR>�E�^�c�ψ�ML�ւ̋L���̓��e<BR><BR>�͂�߂Ă��������B
+原因はよくわからないのですが、現在www.novels.jpがインターネットから切断されています。上流のプロバイダに電話をかけようと思って、ホームページを開いてもあかないので、おそらくプロバイダで障害が発生したと思われます。<BR><BR>復旧したらアナウンスをしますのでそれまでは、<BR><BR>・作品の投稿<BR>・運営委員MLへの記事の投稿<BR><BR>はやめてください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2001/11/03 10:38:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2001/11/03 10:38:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004751537oixresj&id2=1004719694edbetas&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004751537oixresj_id2_1004719694edbetas_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̌f���V�X�e�����ő�R�����g�ǉ����t�o�������Ƃ����m���킷��Ă܂����B�ibig.or.jp��̃{�[�h�̂݁j<BR>�O�̃{�[�h�ł܂��P�O�O�������P�T�O�������܂œ��e�ł���͂��Ȃ̂ŁA���ʑO�̃{�[�h�������������p���Ă���ĉ������B<BR><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002935486txgjk&ff=on" target="_blank">http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002935486txgjk&ff=on</a><BR><BR>���������Ă����܂���B<BR>�n���낳������̃R�����g�͓]�ڂ��Ă����܂��B
+この掲示板システムが最大コメント追加数ＵＰしたことを告知しわすれてました。（big.or.jp上のボードのみ）<BR>前のボードでまだ１００件だか１５０件だかまで投稿できるはずなので、当面前のボードを引き続き利用してやって下さい。<BR><a href="noteky@c_noteread_f_1_id_1002935486txgjk_ff_on.cgi" target="_blank">noteky@c_noteread_f_1_id_1002935486txgjk_ff_on.cgi</a><BR><BR>混乱させてすいません。<BR>地駆鴉さん矢治さんのコメントは転載しておきます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:saibara@big.or.jp" target="_blank">�T�C�o��</a></strong>  <i>2001/11/03 22:57:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:saibara@big.or.jp" target="_blank">サイバラ</a></strong>  <i>2001/11/03 22:57:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004795840knyljqw&id2=1004719694edbetas&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004795840knyljqw_id2_1004719694edbetas_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����΂��A�͂��߂܂��āB�T�C�o���ƌ����܂��B<BR><BR>���󂵂��Ⴂ�܂����A���͂��Ȃ�O���炱���̕��ɂɂ͂����b�ɂȂ��Ă܂���(��)�ł����z�Ƃ����Ă��������ĉ��������Ȃ��Ȃ��Ă��܂����̂ŁE�E�E<BR>�^�c�ψ���W�Ƃ������ŁA����Ȏ��ł��͂ɂȂ��΂Ǝv���A�����Ă݂܂��B�����A�����ȂƂ���A�d�������Z�ɂȂ肷���Ă��܂��Ɖ����ł��Ȃ������������肷�邩������܂���B(���ہA���̕�W�̎����̂�2�T�ԂقǑO���猩�Ēm���Ă����̂ł����A�����܂ŉ����o���Ȃ������Ƃ������炢�ł��̂ŁE�E�E)<BR><BR>����Ȏ��ł����A�����o���鎖�͂���܂��ł��傤���B<BR><BR>�ꉞ�A�z�[���y�[�W���Љ�Ă����܂��ˁB�`���b�gCGI�͎��̎���ł��Ȃ莩�M�͂���̂ł����Aperl�ł͂Ȃ��I�[��C�ł��B<BR><BR><a href="http://www.big.or.jp/~saibara/index-j.html" target="_blank">http://www.big.or.jp/~saibara/index-j.html</a><BR>
+こんばんわ、はじめまして。サイバラと言います。<BR><BR>白状しちゃいますが、実はかなり前からここの文庫にはお世話になってました(汗)でも感想といってもかえって何も書けなくなってしまうもので・・・<BR>運営委員募集という事で、こんな私でも力になれればと思い、書いてみます。ただ、正直なところ、仕事が多忙になりすぎてしまうと何もできない事があったりするかもしれません。(実際、この募集の事自体も2週間ほど前から見て知っていたのですが、今日まで何も出来なかったというくらいですので・・・)<BR><BR>こんな私ですが、何か出来る事はありますでしょうか。<BR><BR>一応、ホームページも紹介しておきますね。チャットCGIは私の自作でかなり自信はあるのですが、perlではなくオールCです。<BR><BR><a href="http://www.big.or.jp/~saibara/index-j.html" target="_blank">http://www.big.or.jp/~saibara/index-j.html</a><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/03 23:19:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004797151ulhmtwe&id2=1004719694edbetas&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004797151ulhmtwe_id2_1004719694edbetas_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�T�C�o������̏������݂�(1)�̕��ɓ]�ڂ��Ă����܂����B<BR>�܂��AHP����̃����N��(1)�̕��ɖ߂��Ă����܂����B
+サイバラさんの書き込みを(1)の方に転載しておきました。<BR>また、HPからのリンクも(1)の方に戻しておきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤</strong>  <i>2001/12/11 11:45:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう</strong>  <i>2001/12/11 11:45:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008038713liari&id2=1004719694edbetas&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008038713liari_id2_1004719694edbetas_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�N���G�C�^�[�Y�t���A�ŁA�ߋ���i�p�̊��z�f������邱�ƂɊւ���b�肪�o�܂����B<BR><BR>���ɂ��b�f�h������ȑO�̍�i�ɂ́A���z�������X�y�[�X�����݂��Ȃ����̂�����܂��B<BR>������������i�Ɋ��z�������ɂ́A��҂��񂪌��J���Ă���A�h���X���Ƀ��[����������������܂���B<BR>���������ɂ̓A�h���X�����J���Ă��Ȃ��A�������̓A�h���X���ς������������A����ł͊��z�������̂������Ԃɂ���܂��B<BR>�����ŁA��p�̊��z�f�������݂���΁A�ߋ���i�ɂ����z���������̂ł͂Ȃ����A�Ǝv���̂ł��B<BR><BR>�l�̌l�I�ȈĂƂ��ẮA<BR>�E�P�X�X�W�N�x�A�P�X�X�X�N�x�Ƃ������悤�ɁA�N�ʂɍ�i���z�𕪂���<BR>�E���R�A�g�b�v�y�[�W������킩��₷�������N���͂�B<BR>�ł��B<BR>���݂��̒��x�̂��Ƃ������܂��Ă��܂���̂ŁA������āE�ӌ��Ȃǂ�����܂������낵�����肢���܂��B
+クリエイターズフロアで、過去作品用の感想掲示板を作ることに関する話題が出ました。<BR><BR>文庫がＣＧＩ化する以前の作品には、感想を書くスペースが存在しないものがあります。<BR>そういった作品に感想を書くには、作者さんが公開しているアドレス宛にメールを書くしかありません。<BR>しかし中にはアドレスを公開していない、もしくはアドレスが変わった方もおり、現状では感想を書くのが難しい状態にあります。<BR>そこで、専用の感想掲示板が存在すれば、過去作品にも感想が書かれるのではないか、と思うのです。<BR><BR>僕の個人的な案としては、<BR>・１９９８年度、１９９９年度といったように、年別に作品感想を分ける<BR>・当然、トップページからもわかりやすいリンクをはる。<BR>です。<BR>現在この程度のことしか決まっていませんので、何か提案・意見などがありましたらよろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/12/11 11:54:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/12/11 11:54:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008039256sosbae&id2=1004719694edbetas&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008039256sosbae_id2_1004719694edbetas_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f���h���ł��B<BR>������ς����b�ɂȂ��Ă��܂��B�i�c�b�Ȃ����������āE�E�E�j<BR>���̍��v���̂ł����A�������f�ڂ����Ă�����Ă����i�͂��������āA���̕��ɂ̎�|����O��Ă���̂ł��傤���H<BR>�ŋ߂͂��܂�s�r�炵���Ȃ��b�ɂ��Ȃ��Ă��Ă܂����B<BR>�ψ���̃`�F�b�N��ʂ��Ă���̂�������͂Ȃ��Ƃ͎v���̂ł����ˁB������ƕs���ɂȂ�܂��āE�E�E�B<BR>�����͂s�r���ɂ̃T�C�g�Ȃ̂�����A�����Ɠ��e�ɂs�r�I�v�f�����Ȃ��ƑʖڂȂ�ł��傤���B<BR>���o�K�C�K�[�͕��ɂ̖�莙�H
+デンドロです。<BR>いつも大変お世話になっています。（ＤＣなせいもあって・・・）<BR>この頃思うのですが、自分が掲載させてもらっている作品はもしかして、この文庫の趣旨から外れているのでしょうか？<BR>最近はあまりＴＳらしくない話にもなってきてますし。<BR>委員会のチェックを通っているのだから問題はないとは思うのですがね。ちょっと不安になりまして・・・。<BR>ここはＴＳ文庫のサイトなのだから、もっと内容にＴＳ的要素を入れないと駄目なんでしょうか。<BR>リバガイガーは文庫の問題児？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/12 01:18:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008087539thumwr&id2=1004719694edbetas&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008087539thumwr_id2_1004719694edbetas_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����A�f�ڂ�S�����܂���starbow�ł��B<BR><BR>�f���h���r�E�����܁A<BR><BR>�킽���Ƃ��ẮA�X�g�[���̎�l�����ATS�Ɋ֘A���Ă���΁A<BR>����ł悢�Ǝv���܂��B<BR><BR>�V���[�Y�̏ꍇ�A���TS�̏�ʂ��o���̂̓X�g�[���W�J�����ƍl���܂��B���̂��߁ATS��������l���̎���̃n�v�j���O�ATS�Ȃ�ł͂̃X�g�[���W�J�ATS�l�^������΂悢�̂ł́B<BR><BR>���ꂩ����A���o�K�C�K�[���������f�ڂ��������Ǝv���܂��B<BR>
+数回、掲載を担当しましたstarbowです。<BR><BR>デンドロビウムさま、<BR><BR>わたしとしては、ストーリの主人公が、TSに関連していれば、<BR>それでよいと思います。<BR><BR>シリーズの場合、常にTSの場面を出すのはストーリ展開上難しいと考えます。そのため、TS化した主人公の周りのハプニング、TSならではのストーリ展開、TSネタがあればよいのでは。<BR><BR>これからも、リバガイガーを応援＆掲載しきたいと思います。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/12 01:21:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008087704wxvnhag&id2=1004719694edbetas&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008087704wxvnhag_id2_1004719694edbetas_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��傤���܁A<BR><BR>�ߋ���i�p�̊��z�f���̌��A�N��ʂɕ�����̂ł����Ǝv���܂����A<BR>�V���[�Y�͂܂Ƃ߂��ق���������������܂���B�i�T���̂ɋ�J�������ł��̂ŁB�j
+りょうさま、<BR><BR>過去作品用の感想掲示板の件、年代別に分けるのでいいと思いますが、<BR>シリーズはまとめたほうがいいかもしれません。（探すのに苦労しそうですので。）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:yaji@novels.jp" target="_blank">��_�����^�c�ψ���Z�p�S�� �� ���e���</a></strong>  <i>2001/12/12 12:01:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:yaji@novels.jp" target="_blank">矢治浩平＠運営委員会技術担当 兼 投稿作家</a></strong>  <i>2001/12/12 12:01:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008126092ybmyfql&id2=1004719694edbetas&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008126092ybmyfql_id2_1004719694edbetas_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̍��v���̂ł����A�������f�ڂ����Ă�����Ă����i�͂�����<BR>�����āA���̕��ɂ̎�|����O��Ă���̂ł��傤���H<BR><BR>�O��Ă�����A�l�����̎�Ōf�ڂ��~�߂Ă��܂��B<BR>�u����Ȃ��ƂŎ����葱���̎�Ԃ𑝂₳����ȁv�Ƃ����x�����[�������Ȃ������͑��v�B<BR><BR>�����o�K�C�K�[�͕��ɂ̖�莙�H <BR><BR>�ω��̉ߒ���`���͔̂�r�I���₷�����A�ω��̌��ʂ�`���͈̂ȊO�ɓ���A�Ƃ������Ƃł��B���ہA�ω���̎����ɒ��ڂ��ĕ`���Ă����i�͕��ɂ̒��ł����Ȃ�̏����h�ɂȂ�܂��B���ɁA���̃^�C�v�̍�i�݂̂��c���ƂȂ�ƁA���ɂɎc�������i�͑啝���ƂȂ�܂��B����܂ł̕��ɂ���������e���Ă����񂾂���A�O�삪�Ƃ₩�����������͂Ȃ��ł��傤�B<BR><BR>�����t�����������Ă��炦�΁A�u���I�ω��ɉ��̎v������������Ȃ��l���ǂ񂾏ꍇ�A�쒆�ɐ��I�ω����o�ꂷ�邱�ƂɈӖ����������Ȃ������ɁA���I�ω��ȊO�ɂȂ�̓������Ȃ��Ƃ�����i���Ȃ������Â���̂��H�v�Ƃ��́A�������̍�i��ǂ�œ��S�v���Ă��܂��B�����A���Ⴀ�u�����̂���߂�v�ƃ��[�����o�����ƌ����Ώo���Ȃ��ł����ǂˁB��i���������Ƃ��̂��̂͌l�̗̈悾���A�����ǂ�Ŋy���ނ̂������ł�����B<BR><BR>&gt;�V���[�Y�͂܂Ƃ߂��ق���������������܂���B<BR><BR>�l�̕��́A�S����̌f���ɂ܂Ƃ߂Ăق����ȁB
+＞この頃思うのですが、自分が掲載させてもらっている作品はもしか<BR>＞して、この文庫の趣旨から外れているのでしょうか？<BR><BR>外れていたら、僕がこの手で掲載を止めています。<BR>「こんなことで事務手続きの手間を増やさせるな」という警告メールがこないうちは大丈夫。<BR><BR>＞リバガイガーは文庫の問題児？ <BR><BR>変化の過程を描くのは比較的たやすいが、変化の結果を描くのは以外に難しい、ということです。実際、変化後の事件に着目して描いている作品は文庫の中でもかなりの少数派になります。仮に、このタイプの作品のみを残すとなると、文庫に残存する作品は大幅減となります。これまでの文庫がそれを許容してきたんだから、外野がとやかくいう権利はないでしょう。<BR><BR>ただ付け加えさせてもらえば、「性的変化に何の思い入れを持たない人が読んだ場合、作中に性的変化が登場することに意味が感じられないうえに、性的変化以外になんの特徴もないという作品をなぜ書きつづけるのか？」とかは、いくつかの作品を読んで内心思っています。ただ、じゃあ「書くのをやめろ」とメールを出すかと言えば出さないですけどね。作品を書くことそのものは個人の領域だし、それを読んで楽しむのも同じですから。<BR><BR>&gt;シリーズはまとめたほうがいいかもしれません。<BR><BR>僕の分は、全部一つの掲示板にまとめてほしいな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/12/12 22:34:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/12/12 22:34:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008164078ivvadr&id2=1004719694edbetas&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008164078ivvadr_id2_1004719694edbetas_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;&gt;�V���[�Y�͂܂Ƃ߂��ق���������������܂���B<BR>&gt;�l�̕��́A�S����̌f���ɂ܂Ƃ߂Ăق����ȁB<BR>��i�ʂłȂ��A��ҕʂ̌f���i�X���b�h�j�Ƃ����������܂��ˁB
+&gt;&gt;シリーズはまとめたほうがいいかもしれません。<BR>&gt;僕の分は、全部一つの掲示板にまとめてほしいな。<BR>作品別でなく、作者別の掲示板（スレッド）という手もありますね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤</strong>  <i>2001/12/12 23:45:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう</strong>  <i>2001/12/12 23:45:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008168312ylodgn&id2=1004719694edbetas&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008168312ylodgn_id2_1004719694edbetas_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����i�ʂłȂ��A��ҕʂ̌f���i�X���b�h�j�Ƃ����������܂��ˁB <BR>�����Ȃ�ł��B<BR>�X���b�h���̐ߖ�Ƃ������ƂŌ��݂̍�i�ʂ����ҕʂɕς����炢���̂ł͂Ȃ����A�ƑO�X����l���Ă���̂ł����A�����̋�؂���ǂ����邩�A�ߋ��̍�i�ʌf�����ǂ����邩�A�V�F�A���[���h��i�͂ǂ��������A�Ȃǂ�����ǂ����邩�����Ă��܂��B<BR><BR>�ǂ��@��ł����A������̕����b��i�߂Ă�����΂����ȂƎv���܂��B<BR>��҂�ǎ҂݂̂Ȃ���̈ӌ������Е��������ł��B
+＞作品別でなく、作者別の掲示板（スレッド）という手もありますね。 <BR>そうなんです。<BR>スレッド数の節約ということで現在の作品別から作者別に変えたらいいのではないか、と前々から考えているのですが、導入の区切りをどうするか、過去の作品別掲示板をどうするか、シェアワールド作品はどう扱うか、などがありどうするか迷っています。<BR><BR>良い機会ですし、こちらの方も話を進めていければいいなと思います。<BR>作者や読者のみなさんの意見もぜひ聞きたいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/12/13 09:43:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/12/13 09:43:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008204238xidpe&id2=1004719694edbetas&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008204238xidpe_id2_1004719694edbetas_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�l�A��_���l�A���ԓ����肪�Ƃ��������܂��B��(_ _)��<BR>�x���̃��[���E�E�E�Ⴄ�����Ȃ��悤�ɂ���΂�܂��B<BR>�s�r�l�^���ĐF�X�v���t�����ǁA�������ɂ��悤�Ƃ���ƈȊO�Ɠ���E�E�E�����B�ł��A����Ă�邳���`�B(&gt;-&lt;)"<BR><BR>&gt;�f����<BR>�����ɂ͓�����Ă悭����Ȃ��b�ł��E�E�E�d�g�݂Ƃ����B<BR>��͂�c�b�́B(--;<BR>��҂��Ƃɕ�����̂͂����Ǝv���܂����ǁB
+starbow様、矢治浩平様、ご返答ありがとうございます。ｍ(_ _)ｍ<BR>警告のメール・・・貰う事がないようにがんばります。<BR>ＴＳネタって色々思い付くけど、いざ文にしようとすると以外と難しい・・・かも。でも、やってやるさぁ～。(&gt;-&lt;)"<BR><BR>&gt;掲示板<BR>自分には難しすぎてよく解らない話です・・・仕組みとかが。<BR>やはりＤＣは。(--;<BR>作者ごとに分けるのはいいと思いますけど。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�D��</strong>  <i>2001/12/16 00:17:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>好風</strong>  <i>2001/12/16 00:17:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008429471khtedj&id2=1004719694edbetas&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008429471khtedj_id2_1004719694edbetas_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ��A<BR>�@�Ɓ[�肷����ɂĂ��Ɓ[�ȃR�g�ʂ����Ă͖��ӔC�ɋ����Ă����D�������i��<BR><BR>�@�s�n�o�ɂ���A���ޕʃC���f�b�N�X���āA���낻���������ǂ��ł����ˁH<BR>�@�����ł��鍡�A�����K�v�Ȃ��C���c�c���ꂩ�A�X�V���Ă���Ȃ����ȁ`�c�c��ҕʃC���f�b�N�X���i��<BR>�@��i�������������ǁA�ꗗ�Ō�����̂��܂��ꋻ�Ȃ�ł���ˁi��
+　ども、<BR>　とーりすがりにてきとーなコトぬかしては無責任に去っていく好風っす（爆<BR><BR>　ＴＯＰにある、分類別インデックスって、そろそろ消したらどうですかね？<BR>　検索できる今、もう必要ない気も……それか、更新してくれないかな～……作者別インデックスも（爆<BR>　作品検索もいいけど、一覧で見えるのもまた一興なんですよね（爆
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2001/12/16 23:18:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2001/12/16 23:18:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008512327mdctwyf&id2=1004719694edbetas&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008512327mdctwyf_id2_1004719694edbetas_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����i�ʂłȂ��A��ҕʂ̌f����<BR>�X���b�h���̐ߖ�����邱�ƂȂ���A��ƓI�ɂ��V�K�X���b�h���쐬���邱�Ƃ������Ă����Ԋy�ɂȂ邩������܂���ˁB
+＞作品別でなく、作者別の掲示板<BR>スレッド数の節約もさることながら、作業的にも新規スレッドを作成することが減ってだいぶ楽になるかもしれませんね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2001/12/16 23:40:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2001/12/16 23:40:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008513654hoccjds&id2=1004719694edbetas&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008513654hoccjds_id2_1004719694edbetas_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����n�T�C�g�Ƃ̑��݃����N����������Ƃ����v�������Ă��܂��B<BR><BR>���̑��n�쏬���T�C�g�Ƃ̑��݃����N�A�n��n�E�F�u�����O�ւ̉����ɂ���āA�V�K�̓ǎ҂����҂�����J�񂷂���Ă̂͂ǂ��ł��傤�B<BR>�����ɁA���ɂŊ��􂵂Ă��҂��񂪁A���ɈȊO�̏�ł��L�����͂𔭊����邫�������ɂȂ�΂Ǝv���܂��B<BR><BR>���܂̕��ɂ��ĉ^�c�ɂ��낢��ȓ������Ȃ�����A���ΓI�ɂ݂�΁A���{�̓��e�n�����T�C�g�̒��ł͂��Ȃ�D�G�Ƃ����������x�̍����^�c�`�ԂɂȂ����Ǝv����ł���i�ЂƂ��ɉ^�c�ψ��̊F����̂������ł����j�B���ɑS�N������T�C�g�Ƃ��ẮA���Ȃ�D�G�ȏW�q�͂������Ă܂��ˁB<BR>�ق��̓��e�n�����T�C�g�ɉ^�c�`�Ԃ̂���{�������A���ɂ��D�ꂽ�T�C�g������΂����̒������������Ƃ�������ɊO��������W�J����̂������̂ł͂Ȃ��ł��傤���B<BR>�܂���{�I�ɂ͐��ω��n�n��̐��E�ɐV�����l�ނ̗����𑣂��������Ă������S�������ł����ǂˁB<BR><BR>�����^�c�ψ���̂ق�����ϔC���Ă��炦��Ȃ�A�������������O�������i�Ƃ肠���������N�E�����O�̋����j�̉������Ƃ��Ă������ƍl���Ă܂��B�Ƃ͂����A���ۂɓ�����̂͗��N�t��ɂȂ肻���ł����B<BR>���ӌ�������΂��肢���܂��B
+小説系サイトとの相互リンクを強化するというプランを提案します。<BR><BR>他の大手創作小説サイトとの相互リンク、創作系ウェブリングへの加入によって、新規の読者さん作者さんを開拓するってのはどうでしょう。<BR>同時に、文庫で活躍してる作者さんが、文庫以外の場でも広く実力を発揮するきっかけになればと思います。<BR><BR>いまの文庫って運営にいろいろな難を抱えながらも、相対的にみれば、日本の投稿系小説サイトの中ではかなり優秀というか完成度の高い運営形態になりつつあると思うんですよ（ひとえに運営委員の皆さんのおかげですが）。特に全年齢向けサイトとしては、かなり優秀な集客力をもってますね。<BR>ほかの投稿系小説サイトに運営形態のお手本を見せつつ、他により優れたサイトがあればそこの長所を取り入れるといった具合に外交活動を展開するのもいいのではないでしょうか。<BR>まあ基本的には性変化系創作の世界に新しい人材の流入を促したいっていう下心があるんですけどね。<BR><BR>もし運営委員会のほうから委任してもらえるなら、私がそういう外交活動（とりあえずリンク・リングの強化）の音頭をとってもいいと考えてます。とはいえ、実際に動けるのは来年春先になりそうですが。<BR>ご意見があればお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://fictionfreaks.com/" target="_blank">West</a></strong>  <i>2001/12/17 23:48:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008600530irexc&id2=1004719694edbetas&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008600530irexc_id2_1004719694edbetas_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����d�F���񁕈ψ��̕��X�����̑��݂̂Ȃ���<BR>������͂����f�����������܂����i���j�B<BR>�������A�������v�����ł��ˁB<BR><BR>�������n�T�C�g�Ƃ̑��݃����N����������Ƃ���<BR>���悢��O�E�Ƃ̍����ł����H<BR>���������d�F���񎩂特��������ĉ������Ă��������Ȃ�āB<BR><BR>�����ΓI�ɂ݂�΁A���{�̓��e�n�����T�C�g�̒��ł�<BR>�����Ȃ�D�G�Ƃ����������x�̍����^�c�`�ԂɂȂ�����<BR><BR>����͖{�����Ǝv���܂��B<BR>Sunset���g���e���𓱓����Ă��܂����A�������ɗ��j�ɂ���Đ�������Ă������ɂ̃V�X�e���ɂ͓���H�蒅���Ȃ����̂������Ă��܂�����<BR><BR>���܂���{�I�ɂ͐��ω��n�n��̐��E�ɐV�����l�ނ̗�����<BR>�������������Ă������S�������ł����ǂˁB<BR><BR>�����ł��ˁB�W�������Ƃ��Ă͐F�X�ɕ�����܂����ǁA�n�삻�̂��̂ɂ͕ǂ͂Ȃ����̂Ǝv���Ă܂��B<BR>TS�Ƃ������t�ɐ���ςŔ��f�����A�t�B�N�V�������y���ޓ��m�A���Ԃ���������������ł���ˁB<BR><BR>��͂Ȃ��炤��(Sunset Illusion)�����͂����Ē����܂��B<BR>��ʃT�C�g�Ƃ̌𗬂͂����ɂƂ��Ă��ߊ�Ȃ̂ŁB<BR>�ł͂܂��B
+▽八重洲さん＆委員の方々＆その他のみなさま<BR>いつぞやはご迷惑をおかけしました（汗）。<BR>しかし、すごいプランですね。<BR><BR>＞小説系サイトとの相互リンクを強化するという<BR>いよいよ外界との合流ですか？<BR>しかも八重洲さん自ら音頭を取って下さってもいいだなんて。<BR><BR>＞相対的にみれば、日本の投稿系小説サイトの中では<BR>＞かなり優秀というか完成度の高い運営形態になりつつあると<BR><BR>これは本当だと思います。<BR>Sunset自身投稿制を導入していますが、さすがに歴史によって洗練されてきた文庫のシステムには到底辿り着けないものを感じていますから<BR><BR>＞まあ基本的には性変化系創作の世界に新しい人材の流入を<BR>＞促したいっていう下心があるんですけどね。<BR><BR>そうですね。ジャンルとしては色々に分かれますけど、創作そのものには壁はないものと思ってます。<BR>TSという言葉に先入観で判断せず、フィクションを楽しむ同士、仲間が増えたら嬉しいですよね。<BR><BR>非力ながらうち(Sunset Illusion)も協力させて頂きます。<BR>一般サイトとの交流はうちにとっても悲願なので。<BR>ではまた。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤</strong>  <i>2001/12/18 00:45:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう</strong>  <i>2001/12/18 00:45:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008603905nlnjoj&id2=1004719694edbetas&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008603905nlnjoj_id2_1004719694edbetas_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ҕʊ��z�{�[�h�ł����A���傤�ǃL���������̂ŁA���e��t���ĊJ�������_����i�������͐V�N����j����������ǂ����ȂƎv���܂��B<BR>�i�ĊJ�܂łɂ͂����đS��i���f�ڂł��邩�ǂ����c(^^;)�j<BR><BR>���ߋ��̍�i�ʌf�����ǂ����邩�A�V�F�A���[���h��i�͂ǂ��������A<BR>�ɂ��Ăł����A��i���͂��Ό��ǐV�����{�[�h���P�쐬����킯�ł���ŁA�u�ȑO�̃{�[�h�v�{�u��ҕʃ{�[�h�v�Ƃ��Ă����΂����Ǝv���܂��B<BR>�V���[�Y���̂̏ꍇ�͈ȑO�̃{�[�h�𗬗p���A���ꂪ�����ς��ɂȂ�΍�ҕʃ{�[�h�Ɉڍs����A�ƁB<BR>�V�F�A���[���h��i�ł����A�ؑタ����D.A.�Ȃǂ̊��z�{�[�h�𒲂ׂ��Ƃ���A�K�������P�̃{�[�h�ɓ��ꂳ��Ă���킯�ł͂Ȃ��悤�ł��B<BR>�ł��̂ŁA���������ҕʃ{�[�h�ɂ܂Ƃ߂Ă��܂��΂����̂ł͂Ȃ����Ǝv���܂��B<BR><BR><BR>�ߋ���i��p���z�{�[�h�͂܂��܂��A�C�f�A���W���ł��B<BR>�i���ۂɂ͎��ԓI�]�T�����܂�Ȃ��̂ł��Ƃ܂킵�j
+作者別感想ボードですが、ちょうどキリがいいので、投稿受付を再開した時点から（もしくは新年から）導入したらどうかなと思います。<BR>（再開までにはたして全作品を掲載できるかどうか…(^^;)）<BR><BR>＞過去の作品別掲示板をどうするか、シェアワールド作品はどう扱うか、<BR>についてですが、作品が届けば結局新しいボードを１つ作成するわけですんで、「以前のボード」＋「作者別ボード」としていけばいいと思います。<BR>シリーズものの場合は以前のボードを流用し、それがいっぱいになれば作者別ボードに移行する、と。<BR>シェアワールド作品ですが、華代ちゃんやD.A.などの感想ボードを調べたところ、必ずしも１つのボードに統一されているわけではないようです。<BR>ですので、こちらも作者別ボードにまとめてしまえばいいのではないかと思います。<BR><BR><BR>過去作品専用感想ボードはまだまだアイデアを募集中です。<BR>（実際には時間的余裕があまりないのであとまわし）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤</strong>  <i>2001/12/18 00:57:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう</strong>  <i>2001/12/18 00:57:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008604664vdbhqbn&id2=1004719694edbetas&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008604664vdbhqbn_id2_1004719694edbetas_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���d�F����G<BR>�������n�T�C�g�Ƃ̑��݃����N����������Ƃ����v�������Ă��܂��B<BR><BR>�^�c�ψ�������Ă��āA�������ɕ��ɈȊO�̃T�C�g�Ɛڂ���@�����܂�Ȃ��ȁA�Ǝv���܂��ˁB<BR>���܂ɃE�F�u�����O�̂��U���Ȃǂ���������x�ł��傤���B<BR>���Ȃ��Ƃ������炩��A�v���[�`���������̂́i�l���ւ���Ă���Ԃ́j�m��܂���B<BR><BR>�������^�c�ψ���̂ق�����ϔC���Ă��炦��Ȃ�A<BR>�����_�ł́A���R�ɓ�����^�c�ψ����񂪂��Ȃ菭�Ȃ��Ǝv���܂��B<BR>�����Astarbow����E�l�n�m�c�n����E�l�E�{�����Ōf�ڂ������Ȃ��Ă��邽�߁A���\���т��������肵�܂��B<BR>�istarbow����͓��ɕ��ׂ������肷���ł͂Ȃ����ȁA�ƐS�z���Ă��܂��B�j<BR><BR>�Ƃ����󋵂ł��̂ŁA<BR>���������������O�������i�Ƃ肠���������N�E�����O�̋����j�̉������Ƃ��Ă������ƍl���Ă܂��B<BR>�ɂ͑叕����ł��B<BR>�l�͂��肢�������Ǝv���܂��B
+八重洲さん；<BR>＞小説系サイトとの相互リンクを強化するというプランを提案します。<BR><BR>運営委員をやっていて、たしかに文庫以外のサイトと接する機会があんまりないな、と思いますね。<BR>たまにウェブリングのお誘いなどをうける程度でしょうか。<BR>少なくともこちらからアプローチをかけたのは（僕が関わっている間は）知りません。<BR><BR>＞もし運営委員会のほうから委任してもらえるなら、<BR>現時点では、自由に動ける運営委員さんがかなり少ないと思われます。<BR>実質、starbowさん・ＭＯＮＤＯさん・僕・＋数名で掲載をおこなっているため、結構きびしかったりします。<BR>（starbowさんは特に負荷がかかりすぎではないかな、と心配しています。）<BR><BR>という状況ですので、<BR>＞私がそういう外交活動（とりあえずリンク・リングの強化）の音頭をとってもいいと考えてます。<BR>には大助かりです。<BR>僕はお願いしたいと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2001/12/18 02:17:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2001/12/18 02:17:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008609439ditwah&id2=1004719694edbetas&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008609439ditwah_id2_1004719694edbetas_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ȃ�D�G�Ƃ����������x�̍����^�c�`�ԂɂȂ�����<BR><BR>���C�o���̍ŉE���͂��ꂶ��Ȃ��ł��傤���B<BR><a href="http://www2s.biglobe.ne.jp/~yasuu/anthologys.html" target="_blank">http://www2s.biglobe.ne.jp/~yasuu/anthologys.html</a><BR>�uanthologys�v�Ƃ���CGI�B<BR>���������������Ɖ��ǂ�����A��y�ɕ��Ƀ��C�N�ȓ��e�T�C�g���\�z�ł���悤�ɂȂ邩���B<BR>��̃T�C�g�̃g�b�v�y�[�W�͂�����B<BR><a href="http://www2s.biglobe.ne.jp/~yasuu/cgi.html" target="_blank">http://www2s.biglobe.ne.jp/~yasuu/cgi.html</a><BR><BR>�� ���Ȃ݂ɁB<BR>�� ���ɉ^�c���ꌩ�X���[�Y�Ɍ�����̂́A���̂Ԃ񗠂ŉ^�c�ψ����񂽂����撣���Ă邩��ł��B<BR>�� �F�X�^�c�Ɋւ�����͎R�ς݂Ȃ�ł����ǂˁB
+＞かなり優秀というか完成度の高い運営形態になりつつあると<BR><BR>ライバルの最右翼はこれじゃないでしょうか。<BR><a href="http://www2s.biglobe.ne.jp/~yasuu/anthologys.html" target="_blank">http://www2s.biglobe.ne.jp/~yasuu/anthologys.html</a><BR>「anthologys」というCGI。<BR>これをもうちょっと改良したら、手軽に文庫ライクな投稿サイトを構築できるようになるかも。<BR>上のサイトのトップページはこちら。<BR><a href="http://www2s.biglobe.ne.jp/~yasuu/cgi.html" target="_blank">http://www2s.biglobe.ne.jp/~yasuu/cgi.html</a><BR><BR>＃ ちなみに。<BR>＃ 文庫運営が一見スムーズに見えるのは、そのぶん裏で運営委員さんたちが頑張ってるからです。<BR>＃ 色々運営に関する難題は山積みなんですけどね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/18 08:36:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008632190idvogy&id2=1004719694edbetas&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008632190idvogy_id2_1004719694edbetas_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>���d�F���܁A<BR>&gt;�����^�c�ψ���̂ق�����ϔC���Ă��炦��Ȃ�A�������������O�������i�Ƃ肠���������N�E�����O�̋����j�̉������Ƃ��Ă������ƍl���Ă܂��B<BR><BR>�����Ǝv���܂��B<BR>
+starbowです。<BR><BR>八重洲さま、<BR>&gt;もし運営委員会のほうから委任してもらえるなら、私がそういう外交活動（とりあえずリンク・リングの強化）の音頭をとってもいいと考えてます。<BR><BR>いいと思います。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>2001/12/25 02:23:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>2001/12/25 02:23:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009214606fwjya&id2=1004719694edbetas&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009214606fwjya_id2_1004719694edbetas_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ȃ�D�G�Ƃ����������x�̍����^�c�`�ԂɂȂ�����<BR>���v����ł���<BR><BR>�l�Ƃ����J�[�h����ɂ����̂́A���ɂɂƂ��ăv���X�������̂��A�}�C�i�X�������̂��̔��f�͑��ɔC���܂����A���̉^�c�`�Ԃ��ێ��ł��Ă��Ȃ��̂͂܂��ԈႢ�Ȃ��ł��傤�B<BR><BR>��Sunset���g���e���𓱓����Ă��܂����A�������ɗ��j�ɂ����<BR>����������Ă������ɂ̃V�X�e���ɂ͓���H�蒅���Ȃ����̂���<BR>�����Ă��܂�����<BR><BR>����͕����Ă���^�����g�̍��ł��傤�B<BR><BR>�^�c�ψ��o���҂͂��łɓ񌅂ɂ��Ȃ�܂��B���^�c�ψ��ł����Ƃ��̑�Ȑl����������A�Ƃ����ΕĒÂ���������܂����A�ނ��Ԃ��������g���u���ƁA�\�z�����P�[�X�X�^�f�B�͐��m�ꂸ�B<BR>�i���łɎw�E�����o�O�Ƌ@�\�ǉ��v�]�������j<BR>�ł��A���݂������m�炸�̓��e�T�C�g�̓ǎ҂����ŗ����グ�����āA�u�G���̏O�v�ɂȂ�Ȃ������̂͊�ՂƂ����Ă����Ǝv���܂��B
+＞かなり優秀というか完成度の高い運営形態になりつつあると<BR>＞思うんですよ<BR><BR>僕というカードを手にしたのは、文庫にとってプラスだったのか、マイナスだったのかの判断は他に任せますが、今の運営形態が維持できていないのはまず間違いないでしょう。<BR><BR>＞Sunset自身投稿制を導入していますが、さすがに歴史によって<BR>＞洗練されてきた文庫のシステムには到底辿り着けないものを感<BR>＞じていますから<BR><BR>これは抱えているタレントの差でしょう。<BR><BR>運営委員経験者はすでに二桁にもなります。歴代運営委員でもっとも偉大な人物を挙げよ、といえば米津さんをあげますが、彼がつぶした初期トラブルと、構築したケーススタディは数知れず。<BR>（ついでに指摘したバグと機能追加要望も多い）<BR>でも、お互い見ず知らずの投稿サイトの読者だけで立ち上げをして、「烏合の衆」にならなかったのは奇跡といっていいと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2002/02/24 18:57:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2002/02/24 18:57:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1014544628jsmubr&id2=1004719694edbetas&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1014544628jsmubr_id2_1004719694edbetas_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����ƁA�^�c�ψ����񂪂��܂ǂ������󋵂��A������Â炭�Ȃ��Ă���̂ł��q�˂��܂��i���e���Ă���Ε������ł����ǂˁj�B<BR>�@�ψ������o�[�́A�r�s�`�q�a�n�v����E�l�n�m�c�n����E�����E��傤����ł��傤���B���d�F����͂����ƖZ������ł���ˁB�l��́A����Ă܂��H<BR>�@�����Ԃ���������A�܂��u�����v�Ȃǂŋߋ��������Ă��������ˁB�@
+　ええと、運営委員さんがいまどういう状況か、分かりづらくなっているのでお尋ねします（投稿していれば分かるんですけどね）。<BR>　委員メンバーは、ＳＴＡＲＢＯＷさん・ＭＯＮＤＯさん・矢治さん・りょうさんでしょうか。八重洲さんはきっと忙しいんですよね。人手は、足りてます？<BR>　お時間があったら、また「日誌」などで近況を教えてくださいね。　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow@�^�c�ψ�</a></strong>  <i>2002/03/11 00:52:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow@運営委員</a></strong>  <i>2002/03/11 00:52:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1015775525booflsv&id2=1004719694edbetas&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1015775525booflsv_id2_1004719694edbetas_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L�삳�܁A<BR><BR>�Ԏ�������Đ\���󂠂�܂���B<BR>&gt;�ψ������o�[�́A<BR>���݂́A�l�n�m�c�n����A��傤����A�~�����L����A�i�d�x����Astarbow���^�c�ψ��ƂȂ��Ă��܂��B<BR>����Ƃ͕ʂɁA��\�ӔC�ҁ@���d�F����A�Z�p�S���@����񂪂��܂��B<BR><BR>&gt;�l��́A����Ă܂��H<BR>�P�O�����_�ɔ�ׂ�Α����͉��P����Ă��܂����A�܂��A�l��͑���܂���B<BR>
+猫野さま、<BR><BR>返事が送れて申し訳ありません。<BR>&gt;委員メンバーは、<BR>現在は、ＭＯＮＤＯさん、りょうさん、ミュラキさん、ＪＥＹさん、starbowが運営委員となっています。<BR>それとは別に、代表責任者　八重洲さん、技術担当　矢治さんがいます。<BR><BR>&gt;人手は、足りてます？<BR>１０月時点に比べれば多少は改善されていますが、まだ、人手は足りません。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2002/03/16 01:44:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2002/03/16 01:44:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016210656kiaivm&id2=1004719694edbetas&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016210656kiaivm_id2_1004719694edbetas_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Z�����Ƃ��남�Ԏ����肪�Ƃ��ł��B<BR>
+お忙しいところお返事ありがとうです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2002/03/20 00:54:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2002/03/20 00:54:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016553296yapaoih&id2=1004719694edbetas&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016553296yapaoih_id2_1004719694edbetas_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[���T�[�o�[�̒��g�����ĂďC���҂��Ȃ̂ŁA�������������[���̑��M���ł��Ȃ��悤�ł��B<BR>����ɂ�����ɏ������݂܂��B<BR><BR>�ǂ����B���d�F�ł��B<BR><BR>&gt; <BR>&gt; CGI�{�̂������Ă�������͔̂��d�F���񂾂Ǝv���̂ł����A<BR>&gt; ������ւ�ǂ��Ȃ̂ł��傤���H<BR><BR>NOTE/KY��CGI�X�N���v�g�������Ăق����Ƃ̌��ł����A����҂ɖ��f�Ŕz�z�ł�����̂ł�<BR>�Ȃ��̂ŁA�c�O�Ȃ��炨���肷�邱�Ƃ͓�����ł��B<BR><BR>���Ƃ������e�����[���������������ɕԐM���Ă����Ă��������Ȃ��ł��傤���B<BR>���݂܂��񂪂�낵�����肢�������܂��B���ψ��̊F�l
+メールサーバーの中身が壊れてて修復待ちなので、向こう数日メールの送信ができないようです。<BR>代わりにこちらに書き込みます。<BR><BR>どうも。八重洲です。<BR><BR>&gt; <BR>&gt; CGI本体を持ってらっしゃるのは八重洲さんだと思うのですが、<BR>&gt; ここらへんどうなのでしょうか？<BR><BR>NOTE/KYのCGIスクリプトを譲ってほしいとの件ですが、著作者に無断で配布できるものでは<BR>ないので、残念ながらお譲りすることは難しそうです。<BR><BR>↑という内容をメール下さったかたに返信しておいていただけないでしょうか。<BR>すみませんがよろしくお願いいたします。＞委員の皆様
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤</strong>  <i>2002/03/20 02:08:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう</strong>  <i>2002/03/20 02:08:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016557691tdfjhg&id2=1004719694edbetas&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016557691tdfjhg_id2_1004719694edbetas_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂��ܔ`���Ă݂�Ɓc�^�C�~���O���悩�����݂����ł��B<BR><BR>�����Ƃ������e�����[���������������ɕԐM���Ă����Ă��������Ȃ��ł��傤���B<BR>�����݂܂��񂪂�낵�����肢�������܂��B���ψ��̊F�l <BR><BR>�������܂����B
+たまたま覗いてみると…タイミングがよかったみたいです。<BR><BR>＞↑という内容をメール下さったかたに返信しておいていただけないでしょうか。<BR>＞すみませんがよろしくお願いいたします。＞委員の皆様 <BR><BR>了解しました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤</strong>  <i>2002/03/20 02:15:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう</strong>  <i>2002/03/20 02:15:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016558131caxuhk&id2=1004719694edbetas&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016558131caxuhk_id2_1004719694edbetas_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A���ƈꌏ�A���ɂ���у��f�B�A���T�[�`�Ƀ����N�𒣂肽���Ɛ\���o�Ă���ꂽ�������܂����A������͖��Ȃ��ł��傤���H<BR><BR>����Ƃ��T�C�g�̂ǂ����Ƀ����N�t���[�̎|�ȂǏ����Ă��܂����ł��傤���H
+あ、あと一件、文庫およびメディアリサーチにリンクを張りたいと申し出てこられた方がいますが、こちらは問題ないでしょうか？<BR><BR>それともサイトのどこかにリンクフリーの旨など書いていましたでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kou_sa_to@yahoo.co.jp" target="_blank">kou</a></strong>  <i>2002/05/30 20:39:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022758789nyrwi&id2=1004719694edbetas&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022758789nyrwi_id2_1004719694edbetas_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���݂܂���B�@���`�ƕ��ɊǗ��̂���`�����������̂ł����A���[���𑗂��Ă��������S���Ȃ��̂ł����ɏ������Ă��������܂��B<BR><BR>���ɊǗ��̂���`���͂ǂ�Ȏd�����L��̂ł��傤���H�����Ă��������B
+　すみません。　え～と文庫管理のお手伝いをしたいのですが、メールを送っても応答が全くないのでここに書かせていただきます。<BR><BR>文庫管理のお手伝いはどんな仕事が有るのでしょうか？教えてください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:the_best@geocities.co.jp" target="_blank">��傤���^�c�ψ�</a></strong>  <i>2002/05/31 21:21:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:the_best@geocities.co.jp" target="_blank">りょう＠運営委員</a></strong>  <i>2002/05/31 21:21:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022847676sxhfvm&id2=1004719694edbetas&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022847676sxhfvm_id2_1004719694edbetas_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-kou����A�͂��߂܂��āB<BR>���݉^�c�ψ�������Ă����傤�Ɛ\���܂��B<BR>�^�c�ψ��̗����A���肪�Ƃ��������܂��B<BR><BR>�����[���𑗂��Ă��������S���Ȃ��̂ł����ɏ������Ă��������܂��B<BR>���炵�܂����B<BR>����ML�̕��ɂ͓͂��Ă����̂ł����A���Ԏ����ł������܂��ł����B<BR><BR>��̓I�ȉ^�c�ψ��̎d���ł����A���C���͍�i�̎�́E�ҏW�E�f�ڂł��B<BR>���킵����<BR><a href="http://ts.novels.jp/library/instruction.html" target="_blank">http://ts.novels.jp/library/instruction.html</a><BR>���Q�Ƃ��Ă��������B<BR><BR>�f�ڍ�Ƃ�FTP�ł͂Ȃ�CGI���g�������̂ł��̂ŁA���قǂ�₱�����͂Ȃ��Ǝv���܂��B<BR>�t�H�[���ɂ��������ĕK�v��������͂��Ă����`���ł��̂ŁA���񂩗��K����΂��������ł��傤�B<BR><BR><BR>����ł͂��ꂩ���낵�����肢���܂��B
+kouさん、はじめまして。<BR>現在運営委員をやっているりょうと申します。<BR>運営委員の立候補、ありがとうございます。<BR><BR>＞メールを送っても応答が全くないのでここに書かせていただきます。<BR>失礼しました。<BR>文庫MLの方には届いていたのですが、お返事ができずじまいでした。<BR><BR>具体的な運営委員の仕事ですが、メインは作品の受領・編集・掲載です。<BR>くわしくは<BR><a href="../../../library/instruction.html" target="_blank">http://ts.novels.jp/library/instruction.html</a><BR>を参照してください。<BR><BR>掲載作業はFTPではなくCGIを使ったものですので、さほどややこしくはないと思います。<BR>フォームにしたがって必要事項を入力していく形式ですので、何回か練習すればすぐ慣れるでしょう。<BR><BR><BR>それではこれからよろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kou_sa_to@yahoo.co.jp" target="_blank">kou</a></strong>  <i>2002/05/31 21:43:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022848983ffjdgp&id2=1004719694edbetas&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022848983ffjdgp_id2_1004719694edbetas_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�킩��܂����B<BR><BR>����ł͂���΂��čs�������Ǝv���܂��B�Ƃ���Ńt�H�[���̃A�h���X�Ȃǂ𑗂��Ă��������Ȃ��ł��傤���H<BR><BR>���[���A�h���X�́@kou_sa_to@yahoo.co.jp�@�ł��肢���܂��B<BR>
+わかりました。<BR><BR>それではがんばって行きたいと思います。ところでフォームのアドレスなどを送っていただけないでしょうか？<BR><BR>メールアドレスは　kou_sa_to@yahoo.co.jp　でお願いします。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="1004719694edbetas">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

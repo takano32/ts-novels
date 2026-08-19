@@ -1,5 +1,5 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>“FƒŠƒŒ[¬àƒ{[ƒh</title><style type="text/css"><!--
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>æ¡ƒè‰²ãƒªãƒ¬ãƒ¼å°èª¬ãƒœãƒ¼ãƒ‰</title><style type="text/css"><!--
 a{TEXT-DECORATION:NONE}
 pre{ font: 10pt/9pt }
 --></style></head>
@@ -7,39 +7,39 @@ pre{ font: 10pt/9pt }
 input ,textarea {background-color: #FFFFFF ;border-style: solid;border-color: #FFFFFF #FFFFFF #E0E0E0 #E0E0E0; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 1px}
 -->
 <body bgcolor="#ffffff" text="#888888" link="#0066ff" alink="#0066ff" vlink="#0066ff">
-<center><h2>“FƒŠƒŒ[¬àƒ{[ƒh</h2><a
-href="treebbs.cgi?new=1">V‹K”­Œ¾</a> b <a
-href="treebbs.cgi">ˆê——</a> b <a
-href="treebbs.cgi?newlogs=1">ÅV‹LŽ–</a> b <a
+<center><h2>æ¡ƒè‰²ãƒªãƒ¬ãƒ¼å°èª¬ãƒœãƒ¼ãƒ‰</h2><a
+href="treebbs@new_1.cgi">æ–°è¦ç™ºè¨€</a> ï½œ <a
+href="treebbs.cgi">ä¸€è¦§</a> ï½œ <a
+href="treebbs@newlogs_1.cgi">æœ€æ–°è¨˜äº‹</a> ï½œ <a
 
-href="treebbs.cgi?seek=+&setu=1">ŒŸõ</a> b <a
-href="http://www2.tomato.ne.jp/~ezpe/yasai/archives.html">‚g‚n‚l‚d</a>
+href="treebbs@seek___setu_1.cgi">æ¤œç´¢</a> ï½œ <a
+href="../../../~ezpe/yasai/archives.html">ï¼¨ï¼¯ï¼­ï¼¥</a>
 </center><hr size=1>
 
-<form method=GET action='treebbs.cgi'><pre><blockquote>¥Å‹ß‚Ì‹LŽ–‚ðŒŸõF<input
-type=text size=20 name=seek><input type=submit value=' ŒŸõ '><br
->„ <br
->„¥<a href="treebbs.cgi?all=12&s=12">Ÿ</a>12:<a href="treebbs.cgi?log=12">ƒTƒCƒLƒbƒNƒtƒH[ƒX‚Á‚Ä•ª‚©‚éH</a> [–¤“°] 12/13 23:15<br
->„ „¤ž13:<a href="treebbs.cgi?log=13">‚¿‚È‚Ý‚Éƒo[ƒ“‚ÌƒƒCƒh˜b‚Á‚·</a> [–¤“°] 12/13 23:40<br
->„ @„¤ž14:<a href="treebbs.cgi?log=14">‚²Žål—l‚ÍŽÐ’·‚Åô</a> [–¤“°] 12/14 00:15<b><font color="#888888">&lt;-last</font></b><br
->„ <br
->„¥<a href="treebbs.cgi?all=3&s=3">Ÿ</a>3:<a href="treebbs.cgi?log=3">“‡‘ºì‚Ì‰Ø—í‚Èˆê“úiƒTƒCƒ{[ƒO‚O‚O‚Xj</a> [ƒ€ƒbƒVƒ…[”ªdF] 12/08 22:47<br
->„ „¤ž4:<a href="treebbs.cgi?log=4">ƒZ[ƒ‰[•žcc</a> [ƒ€ƒbƒVƒ…[] 12/08 22:48<br
->„ @„¤ž5:<a href="treebbs.cgi?log=5">“‡‘º‰Æ‚Ì’©‚ÌŒõŒi</a> [ƒ€ƒbƒVƒ…[] 12/08 22:49<br
->„ @@„¤ž6:<a href="treebbs.cgi?log=6">ƒg[ƒXƒg‚­‚í‚¦‚Ä</a> [ƒ€ƒbƒVƒ…[] 12/08 22:49<br
->„ @@@„¤ž7:<a href="treebbs.cgi?log=7">‚O‚O‚SH</a> [ƒ€ƒbƒVƒ…[] 12/08 22:50<br
->„ @@@@„¤ž8:<a href="treebbs.cgi?log=8">Že”L‚¿‚á‚ñ</a> [ƒ€ƒbƒVƒ…[] 12/08 22:51<br
->„ @@@@@„¤ž9:<a href="treebbs.cgi?log=9">ƒnƒCƒ“ƒŠƒq‚É’D‚í‚ê‚¿‚á‚¢‚Ü‚µ‚½</a> [ƒ€ƒbƒVƒ…[] 12/08 22:52<br
->„ @@@@@@„¤ž10:<a href="treebbs.cgi?log=10">‚¢‚¢‚©‚°‚ñ‚É‚µ‚ëI</a> [ƒ€ƒbƒVƒ…[] 12/08 22:53<br
->„ @@@@@@@„¤ž11:<a href="treebbs.cgi?log=11">‚Ç‚±‚ÅƒIƒ`‚½‚¢HiŠ®j</a> [ƒ€ƒbƒVƒ…[] 12/08 22:54<b><font color="#888888">&lt;-last</font></b><br
->„ <br
->„¤<a href="treebbs.cgi?all=1&s=1">Ÿ</a>1:<a href="treebbs.cgi?log=1">‚±‚ê‚ÍƒeƒXƒg‚Å‚·‚Å‚·</a> [Œ¢Š¢ƒnƒ€‘¾] 12/08 16:14<br
->@„¤ž2:<a href="treebbs.cgi?log=2">“`à‚ÌŒ•</a> [Œ¢Š¢ƒnƒ€‘¾] 12/08 16:15<b><font color="#888888">&lt;-last</font></b><br
+<form method=GET action='treebbs.cgi'><pre><blockquote>â–¼æœ€è¿‘ã®è¨˜äº‹ã‚’æ¤œç´¢ï¼š<input
+type=text size=20 name=seek><input type=submit value=' æ¤œç´¢ '><br
+>â”‚<br
+>â”œ<a href="treebbs@all_12_s_12.cgi">â—†</a>12:<a href="treebbs@log_12.cgi">ã‚µã‚¤ã‚­ãƒƒã‚¯ãƒ•ã‚©ãƒ¼ã‚¹ã£ã¦åˆ†ã‹ã‚‹ï¼Ÿ</a> [å·³å ‚] 12/13 23:15<br
+>â”‚â””â—‡13:<a href="treebbs@log_13.cgi">ã¡ãªã¿ã«ãƒãƒ¼ãƒ³ã®ãƒ¡ã‚¤ãƒ‰è©±ã£ã™</a> [å·³å ‚] 12/13 23:40<br
+>â”‚ã€€â””â—‡14:<a href="treebbs@log_14.cgi">ã”ä¸»äººæ§˜ã¯ç¤¾é•·ã§â™ª</a> [å·³å ‚] 12/14 00:15<b><font color="#888888">&lt;-last</font></b><br
+>â”‚<br
+>â”œ<a href="treebbs@all_3_s_3.cgi">â—†</a>3:<a href="treebbs@log_3.cgi">å³¶æ‘å¬¢ã®è¯éº—ãªä¸€æ—¥ï¼ˆã‚µã‚¤ãƒœãƒ¼ã‚°ï¼ï¼ï¼™ï¼‰</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼å…«é‡æ´²] 12/08 22:47<br
+>â”‚â””â—‡4:<a href="treebbs@log_4.cgi">ã‚»ãƒ¼ãƒ©ãƒ¼æœâ€¦â€¦</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼] 12/08 22:48<br
+>â”‚ã€€â””â—‡5:<a href="treebbs@log_5.cgi">å³¶æ‘å®¶ã®æœã®å…‰æ™¯</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼] 12/08 22:49<br
+>â”‚ã€€ã€€â””â—‡6:<a href="treebbs@log_6.cgi">ãƒˆãƒ¼ã‚¹ãƒˆãã‚ãˆã¦</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼] 12/08 22:49<br
+>â”‚ã€€ã€€ã€€â””â—‡7:<a href="treebbs@log_7.cgi">ï¼ï¼ï¼”ï¼Ÿ</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼] 12/08 22:50<br
+>â”‚ã€€ã€€ã€€ã€€â””â—‡8:<a href="treebbs@log_8.cgi">ä»”çŒ«ã¡ã‚ƒã‚“</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼] 12/08 22:51<br
+>â”‚ã€€ã€€ã€€ã€€ã€€â””â—‡9:<a href="treebbs@log_9.cgi">ãƒã‚¤ãƒ³ãƒªãƒ’ã«å¥ªã‚ã‚Œã¡ã‚ƒã„ã¾ã—ãŸ</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼] 12/08 22:52<br
+>â”‚ã€€ã€€ã€€ã€€ã€€ã€€â””â—‡10:<a href="treebbs@log_10.cgi">ã„ã„ã‹ã’ã‚“ã«ã—ã‚ï¼</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼] 12/08 22:53<br
+>â”‚ã€€ã€€ã€€ã€€ã€€ã€€ã€€â””â—‡11:<a href="treebbs@log_11.cgi">ã©ã“ã§ã‚ªãƒãŸã„ï¼Ÿï¼ˆå®Œï¼‰</a> [ãƒ ãƒƒã‚·ãƒ¥ãƒ¼] 12/08 22:54<b><font color="#888888">&lt;-last</font></b><br
+>â”‚<br
+>â””<a href="treebbs@all_1_s_1.cgi">â—†</a>1:<a href="treebbs@log_1.cgi">ã“ã‚Œã¯ãƒ†ã‚¹ãƒˆã§ã™ã§ã™</a> [çŠ¬ç“¦ãƒãƒ å¤ª] 12/08 16:14<br
+>ã€€â””â—‡2:<a href="treebbs@log_2.cgi">ä¼èª¬ã®å‰£</a> [çŠ¬ç“¦ãƒãƒ å¤ª] 12/08 16:15<b><font color="#888888">&lt;-last</font></b><br
 > <br
 ></pre></form><hr size=1 width=80%><p align=right><form method=POST action="treebbs.cgi"><tt>
 No<input type=text size=4 name=log><input
-type=submit value="ˆÚ“®">@ 
+type=submit value="ç§»å‹•">ã€€ 
  No/Pass:<input type=text size=3 name=del><input type=password size=9 name=pass value=""><input
-type=submit value="íœ"> <input type=checkbox name=cookie value=pwd>•Û‘¶</form>
+type=submit value="å‰Šé™¤"> <input type=checkbox name=cookie value=pwd>ä¿å­˜</form>
 </blockquote>
 <hr size=1><tt><p align=right><a href="http://cgiroom.nu" target=_blank>CGIROOM</a></body></html><!-- 3.14 -->

@@ -1,138 +1,138 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入�->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　�->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�n�E�X�e���{�X�����y�[�W��asx��\��܂��B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:ハウステンボス公式ページのasxを貼ります。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2206>
 <input type=hidden name=ress value=2206>
-<input type=submit value=�n�E�X�e���{�X�����y�[�W��asx��\��܂��B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=ハウステンボス公式ページのasxを貼ります。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2206>
-<font color=#6A5ACD>�n�E�X�e���{�X�����y�[�W��asx��\��܂��B</font></a>
+<font color=#6A5ACD>ハウステンボス公式ページのasxを貼ります。</font></a>
 <font color=#303030>
-���茧��
- ����</font>
- <font size=2>2004�N4��17��(�y) 8��41��</font>
-<a href="resbbs4_b.cgi?vew=2206">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�₭��V���[�Y</b>�z</font>
+長崎県民
+ さん</font>
+ <font size=2>2004年4月17日(土) 8時41分</font>
+<a href="resbbs4_b@vew_2206.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>鳴鯛くんシリーズ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>ttp://bb.huistenbosch.co.jp/cm/cm_change.asx <br>�n�E�X�e���{�X�ϐg���s�u�b�l <br><br>���������G���܂����B <br></font></ul>
+<ul><br><font size=3>ttp://bb.huistenbosch.co.jp/cm/cm_change.asx <br>ハウステンボス変身中ＴＶＣＭ <br><br>けっこう萌えますた。 <br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2208>
-<font color=#6A5ACD>RE:�n�E�X�e���{�X�����y�[�W��asx��\��܂��B</font></a>
+<font color=#6A5ACD>RE:ハウステンボス公式ページのasxを貼ります。</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2004�N4��17��(�y) 23��48��</font>
-<a href="resbbs4_b.cgi?vew=2208">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����Ȃ���ł����ǁE�E�E<br>Winap��</font></ul>
+無灯火
+ さん</font>
+ <font size=2>2004年4月17日(土) 23時48分</font>
+<a href="resbbs4_b@vew_2208.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>見れないんですけど・・・<br>Winapで</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2209>
-<font color=#6A5ACD>RE:�n�E�X�e���{�X�����y�[�W��asx��\��܂��B</font></a>
+<font color=#6A5ACD>RE:ハウステンボス公式ページのasxを貼ります。</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2004�N4��18��(��) 0��0��</font>
-<a href="resbbs4_b.cgi?vew=2209">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����Ȃ���ł����ǁE�E�E<br>Winap��</font></ul>
+無灯火
+ さん</font>
+ <font size=2>2004年4月18日(日) 0時0分</font>
+<a href="resbbs4_b@vew_2209.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>見れないんですけど・・・<br>Winapで</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2213>
-<font color=#6A5ACD>RE:�n�E�X�e���{�X�����y�[�W��asx��\��܂��B</font></a>
+<font color=#6A5ACD>RE:ハウステンボス公式ページのasxを貼ります。</font></a>
 <font color=#303030>
-�E�E�E
- ����</font>
- <font size=2>2004�N4��18��(��) 2��43��</font>
-<a href="resbbs4_b.cgi?vew=2213">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>��������ǂ���<br>ttp://bb.huistenbosch.co.jp/<br></font></ul>
+・・・
+ さん</font>
+ <font size=2>2004年4月18日(日) 2時43分</font>
+<a href="resbbs4_b@vew_2213.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ここからどうぞ<br>ttp://bb.huistenbosch.co.jp/<br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=2214>
-<font color=#6A5ACD>RE:�n�E�X�e���{�X�����y�[�W��asx��\��܂��B</font></a>
+<font color=#6A5ACD>RE:ハウステンボス公式ページのasxを貼ります。</font></a>
 <font color=#303030>
-��˂���
- ����</font>
- <font size=2>2004�N4��18��(��) 12��0��</font>
-<a href="resbbs4_b.cgi?vew=2214">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����܂����B�����ƃg�b�v�y�[�W����s���Ȃ���<br>�����A�v���P�[�V�����G���[���ƌ������Ƃ炵���B</font></ul>
+よねくら
+ さん</font>
+ <font size=2>2004年4月18日(日) 12時0分</font>
+<a href="resbbs4_b@vew_2214.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>見えますた。ちゃんとトップページから行かないと<br>内部アプリケーションエラーだと言うことらしい。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2215>
-<font color=#6A5ACD>RE:�n�E�X�e���{�X�����y�[�W��asx��\��܂��B</font></a>
+<font color=#6A5ACD>RE:ハウステンボス公式ページのasxを貼ります。</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2004�N4��20��(��) 23��10��</font>
-<a href="resbbs4_b.cgi?vew=2215">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���ŋ��݂����ɁA�f���I�ɂ����摜���\������Ȃ��͖̂l�����ł����H<br>�X���[�Y�ɍĐ�����Ȃ���ł��B</font></ul>
+無灯火
+ さん</font>
+ <font size=2>2004年4月20日(火) 23時10分</font>
+<a href="resbbs4_b@vew_2215.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>紙芝居みたいに、断続的にしか画像が表示されないのは僕だけですか？<br>スムーズに再生されないんです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2217>
-<font color=#6A5ACD>RE:�n�E�X�e���{�X�����y�[�W��asx��\��܂��B</font></a>
+<font color=#6A5ACD>RE:ハウステンボス公式ページのasxを貼ります。</font></a>
 <font color=#303030>
-�ЂƂ݂�
- ����</font>
- <font size=2>2004�N4��22��(��) 23��5��</font>
-<a href="resbbs4_b.cgi?vew=2217">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ǂ̔ԑg�̃X�|���T�[�ł����H�݂����݂���</font></ul>
+ひとみん
+ さん</font>
+ <font size=2>2004年4月22日(木) 23時5分</font>
+<a href="resbbs4_b@vew_2217.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>どの番組のスポンサーですか？みたいみたい</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2218>
-<font color=#6A5ACD>RE:�n�E�X�e���{�X�����y�[�W��asx��\��܂��B</font></a>
+<font color=#6A5ACD>RE:ハウステンボス公式ページのasxを貼ります。</font></a>
 <font color=#303030>
-���
- ����</font>
- <font size=2>2004�N4��23��(��) 15��34��</font>
-<a href="resbbs4_b.cgi?vew=2218">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>��_�^�C�K�[�X�ł͂���܂���B</b>�z</font>
-<ul><font size=3>�l�́A�P�����R�����I�������̂b�l�Ō������܂����B���Ȃ݂ɖl�́A���l�ł��B�n�悲�ƂɃX�|���T�[���Ⴄ��������܂��񂪁E�E�E�B</font></ul>
+阪南
+ さん</font>
+ <font size=2>2004年4月23日(金) 15時34分</font>
+<a href="resbbs4_b@vew_2218.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>阪神タイガースではありません。</b>】</font>
+<ul><font size=3>僕は、ケロロ軍曹が終わった後のＣＭで見かけました。ちなみに僕は、大阪人です。地域ごとにスポンサーが違うかもしれませんが・・・。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -141,7 +141,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

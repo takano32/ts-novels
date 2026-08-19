@@ -1,31 +1,31 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?&ff=on">�m�[�g�ꗗ</a>] 
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">��˒[�t�H�[����</a>] 
+[<a href="noteky@_ff_on.cgi">ノート一覧</a>] 
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">井戸端フォーラム</a>] 
 </div>
-<font size="+2" color="#008080">�m�[�g���j���[</font>
+<font size="+2" color="#008080">ノートメニュー</font>
 <hr>
-<p>�܂��͕K�v�ȏ�����͂��܂��B
+<p>まずは必要な情報を入力します。
 <form action="noteky.cgi" method="post" >
 <input type="hidden" name="id" value="1009344362mlbnk">
 <input type="hidden" name="id2" value="1002023656ucmwd">
 <input type="hidden" name="f" value="1">
 <table border="0">
 <tr>
-<td>���O:</td>
+<td>名前:</td>
 <td><input type="text" name="name" size="40" maxlength="40" value=""></td>
 </tr>
 <tr>
-<td>���[���A�h���X:</td>
+<td>メールアドレス:</td>
 <td><input type="text" name="mail" size="40" maxlength="40" value=""></td>
 </tr>
 <tr>
-<td>�m�F�L�[:</td>
+<td>確認キー:</td>
 <td><input type="text" name="ckey" size="40" maxlength="10" value=""></td>
 </tr>
 
@@ -40,16 +40,16 @@
 <tr>
 <td colspan="2">
 <input type="checkbox" name="set" value="on" checked>
- �Ȍ�X�e�[�^�X�����u���E�U�ɕۑ�����(cookie)
+ 以後ステータス情報をブラウザに保存する(cookie)
 </td>
 </tr>
 </table>
 
 <input type="hidden" name="ff" value="on">
-<p><small>���[���A�h���X�͐��m�ɓ��͂��Ă��������B�m�F�L�[���킩��Ȃ��ꍇ�͔������������ޑO�ɁA�������񃁁[���A�h���X�������͂���WRITE�{�^���������Ă��������B</small></p>
-<font size="+1" color="#0000FF">�����̍폜</font>
-<p>�Ǘ��҂͂��̋L�����폜���邱�Ƃ��ł��܂��B���[���A�h���X�Ɗm�F�L�[����͂��Ă��������B</p>
-<p><input type="submit" name="c" value="DELETE"> �����폜</p>
+<p><small>メールアドレスは正確に入力してください。確認キーがわからない場合は発言を書き込む前に、いったんメールアドレスだけ入力してWRITEボタンを押してください。</small></p>
+<font size="+1" color="#0000FF">発言の削除</font>
+<p>管理者はこの記事を削除することができます。メールアドレスと確認キーを入力してください。</p>
+<p><input type="submit" name="c" value="DELETE"> 発言削除</p>
 </form>
 </body>
 </html>

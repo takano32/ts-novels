@@ -1,75 +1,75 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�G����̗J�T>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:萌え暦の憂鬱>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=13159><BR>
-<img SRC="out.png?35313159"> ����4���̐����𔼊p�����œ��͂��Ă�������: <input type="text" size=8 name="captcha"><br> <br>
-���܋C�ɂȂ�
+<img SRC="out@35313159.png"> 左の4桁の数字を半角数字で入力してください: <input type="text" size=8 name="captcha"><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2785>
 <input type=hidden name=ress value=2818>
-<input type=submit value=�G����̗J�T�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=萌え暦の憂鬱へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2818>
-<font color=#6A5ACD>RE:�G����̗J�T</font></a>
+<font color=#6A5ACD>RE:萌え暦の憂鬱</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2007�N11��28��(��) 1��13��</font>
-<a href="resbbs4.cgi?vew=2818">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�����͂��ɂȂ�̂��Ȃ��E�E�E�E</b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2007年11月28日(水) 1時13分</font>
+<a href="resbbs4@vew_2818.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>驚愕はいつになるのかなぁ・・・・</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>KOJI����A����ɂ��́B�s��̌����͂����ƕ�������{�I�Ȏ����������Ƃ��Ă邩��Ȃ񂾂Ǝv���܂��B�׋��s���̂܂܃v���O�����������Ă��܂������̂ŁB<br>�������肽���Ǝv���Ă�i�v���Ă邾���̂܂܈�N�߂��o�߂��Ă܂����j���z�f���ƖG����̓��������s����ۂɂ́A�ēx�s��̏C�������݂Ă݂܂��B</font></ul>
+<ul><br><font size=3>KOJIさん、こんにちは。不具合の原因はきっと物凄い基本的な事項を見落としてるからなんだと思います。勉強不足のままプログラムを書いてしまったもので。<br>いずれやりたいと思ってる（思ってるだけのまま一年近く経過してますが）感想掲示板と萌え暦の統合を実行する際には、再度不具合の修正を試みてみます。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

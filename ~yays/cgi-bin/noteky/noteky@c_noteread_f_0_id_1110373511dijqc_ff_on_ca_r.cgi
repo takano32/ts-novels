@@ -1,51 +1,51 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>•¶ŒÉì•iŠ´‘z(2001.10.1-)/Š´‘zƒ{[ƒh</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)/æ„Ÿæƒ³ãƒœãƒ¼ãƒ‰</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">V‚µ‚­˜b‘è‚ð‚Â‚­‚é</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">æ–°ã—ãè©±é¡Œã‚’ã¤ãã‚‹</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1110373511dijqc&ff=on&ca=r">ÅV‚Ìî•ñ‚ÉXV</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">•¶ŒÉì•iŠ´‘z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1110373511dijqc_ff_on_ca_r.cgi">æœ€æ–°ã®æƒ…å ±ã«æ›´æ–°</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">ŒöŠJƒqƒ‚¶Šˆ</font><br>
+<font size="+2" color="#0000FF">å…¬é–‹ãƒ’ãƒ¢ç”Ÿæ´»</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://blog.3or2.net/" target="_blank">ƒRƒ]ƒE</a></strong>  <i>2005/03/09 22:05:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://blog.3or2.net/" target="_blank">ã‚³ã‚¾ã‚¦</a></strong>  <i>2005/03/09 22:05:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1110373511dijqc&id2=1110373511dijqc&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1110373511dijqc_id2_1110373511dijqc_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚¨‹à‚ð‚©‚¯‚¸‚É”Þ—‚Æƒf[ƒgH‚¨¬Œ­‚¢‚à–á‚¦‚¿‚á‚¤I<BR>•n–R–³EƒtƒŠ[ƒ^[‚ªA‚»‚ñ‚Èƒqƒ‚¶Šˆ‚ðƒEƒFƒuã‚Å‘åŒöŠJI<BR>ƒqƒ‚¶Šˆ‚ðˆÛŽ‚Å‚«‚éƒmƒEƒnƒE“™‚àŒfÚ’†BŽQl‚É‚µ‚Ä‚ËI<BR><BR><a href="http://blog.3or2.net/" target="_blank">http://blog.3or2.net/</a>
+ãŠé‡‘ã‚’ã‹ã‘ãšã«å½¼å¥³ã¨ãƒ‡ãƒ¼ãƒˆï¼ŸãŠå°é£ã„ã‚‚è²°ãˆã¡ã‚ƒã†ï¼<BR>è²§ä¹ç„¡è·ãƒ•ãƒªãƒ¼ã‚¿ãƒ¼ãŒã€ãã‚“ãªãƒ’ãƒ¢ç”Ÿæ´»ã‚’ã‚¦ã‚§ãƒ–ä¸Šã§å¤§å…¬é–‹ï¼<BR>ãƒ’ãƒ¢ç”Ÿæ´»ã‚’ç¶­æŒã§ãã‚‹ãƒŽã‚¦ãƒã‚¦ç­‰ã‚‚æŽ²è¼‰ä¸­ã€‚å‚è€ƒã«ã—ã¦ã­ï¼<BR><BR><a href="http://blog.3or2.net/" target="_blank">http://blog.3or2.net/</a>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>ƒƒbƒZ[ƒWF</b><br>
+<form action="noteky.cgi" method="post" >
+<b>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼š</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1110373511dijqc">
 <P></P>
-<b>‚¨–¼‘OF</b><br>
+<b>ãŠåå‰ï¼š</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>ƒ[ƒ‹ƒAƒhƒŒƒXF</b><br>
+<b>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ï¼š</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>¦ mailto:‚ðhttp://‚É’¼‚¹‚ÎURL‚ð“ü—Í‚Å‚«‚Ü‚·B</font>
+<font size=-1>â€» mailto:ã‚’http://ã«ç›´ã›ã°URLã‚’å…¥åŠ›ã§ãã¾ã™ã€‚</font>
 <P>
-<input type="submit" value="‘‚«ž‚Ý"><br>
+<input type="submit" value="æ›¸ãè¾¼ã¿"><br>
 <font size=-1>
-¦‘‚«ž‚ÝŒã‚ÍAƒuƒ‰ƒEƒU‚Ìu–ß‚évƒ{ƒ^ƒ“‚Å–ß‚Á‚Ä‰º‚³‚¢B<br>
+â€»æ›¸ãè¾¼ã¿å¾Œã¯ã€ãƒ–ãƒ©ã‚¦ã‚¶ã®ã€Œæˆ»ã‚‹ã€ãƒœã‚¿ãƒ³ã§æˆ»ã£ã¦ä¸‹ã•ã„ã€‚<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">•¶ŒÉì•iŠ´‘z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)</a>]<br>
 
 </p>
 </body>

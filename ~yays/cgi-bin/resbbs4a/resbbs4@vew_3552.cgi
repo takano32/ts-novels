@@ -1,75 +1,75 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•Ž¦‚·‚éƒ^ƒCƒgƒ‹‚ðŽ©—R‚É‹L“ü-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«ä¾®ï½¦ã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>‘‡ŒfŽ¦”Â</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>ç·åˆæŽ²ç¤ºæ¿</font></td></tr></table>
 	</center></div>
 
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚ÉƒƒbƒZ[ƒW‚ª@@•Ž¦‚³‚ê‚é-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒã€€ã€€ä¾®ï½¦ã•ã‚Œã‚‹-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[—˜—p‹K–ñ]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[åˆ©ç”¨è¦ç´„]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>‚¨–¼‘O:</td><td><input type=text size=20 name=name value=>
+<td align=right>ãŠåå‰:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>‘è–¼:</td><td>
-<input type=text size=48 name=subject value=RE:’´SƒNƒ‰ƒX—D—Ç“Xplalashop@>
+<tr><td align=right>é¡Œå:</td><td>
+<input type=text size=48 name=subject value=RE:è¶…Sã‚¯ãƒ©ã‚¹å„ªè‰¯åº—plalashopã€€>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=46080><BR>
-<img SRC="out.png?1646080"> ¶‚Ì4Œ…‚Ì”Žš‚ð”¼Šp”Žš‚Å“ü—Í‚µ‚Ä‚­‚¾‚³‚¢: <input type="text" size=8 name="captcha"><br> <br>
-‚¢‚Ü‹C‚É‚È‚é
+<img SRC="out@1646080.png"> å·¦ã®4æ¡ã®æ•°å­—ã‚’åŠè§’æ•°å­—ã§å…¥åŠ›ã—ã¦ãã ã•ã„: <input type="text" size=8 name="captcha"><br> <br>
+ã„ã¾æ°—ã«ãªã‚‹
 <SELECT NAME="genre" size=1>
-<option value="novel">¬à@
-<option value="comic">ƒRƒ~ƒbƒN
-<option value="movie">‰f‘œì•i
-<option value="game">ƒQ[ƒ€
-<option value="character">ƒLƒƒƒ‰ƒNƒ^[
-<option value="author">ì‰Æ
-<option value="rumor">î•ñE‚¤‚í‚³
-<option value="site">ƒz[ƒ€ƒy[ƒW
-<option value="something">‰½‚©
-</SELECT> ‚Í 
+<option value="novel">å°èª¬ã€€
+<option value="comic">ã‚³ãƒŸãƒƒã‚¯
+<option value="movie">æ˜ åƒä½œå“
+<option value="game">ã‚²ãƒ¼ãƒ 
+<option value="character">ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼
+<option value="author">ä½œå®¶
+<option value="rumor">æƒ…å ±ãƒ»ã†ã‚ã•
+<option value="site">ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸
+<option value="something">ä½•ã‹
+</SELECT> ã¯ 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=3552>
 <input type=hidden name=ress value=3552>
-<input type=submit value=’´SƒNƒ‰ƒX—D—Ç“Xplalashop@‚Ö•ÔM>
-<input type=reset value=‘‚«’¼‚µ>
+<input type=submit value=è¶…Sã‚¯ãƒ©ã‚¹å„ªè‰¯åº—plalashopã€€ã¸è¿”ä¿¡>
+<input type=reset value=æ›¸ãç›´ã—>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=3552>
-<font color=#6A5ACD>’´SƒNƒ‰ƒX—D—Ç“Xplalashop@</font></a>
+<font color=#6A5ACD>è¶…Sã‚¯ãƒ©ã‚¹å„ªè‰¯åº—plalashopã€€</font></a>
 <font color=#303030>
-<a href=mailto:plalashop@yahoo.co.jp>@—æ–Ø@”üœ¨</a>
- ‚³‚ñ</font>
- <font size=2>2009”N12ŒŽ26“ú(“y) 20Žž33•ª</font>
-<a href="resbbs4.cgi?vew=3552">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+<a href=mailto:plalashop@yahoo.co.jp>ã€€çŽ²æœ¨ã€€ç¾Žæƒ </a>
+ ã•ã‚“</font>
+ <font size=2>2009å¹´12æœˆ26æ—¥(åœŸ) 20æ™‚33åˆ†</font>
+<a href="resbbs4@vew_3552.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 </td></tr><tr><td>
-<ul><br><font size=3>’´SƒNƒ‰ƒX—D—Ç“Xplalashop <br> <br>y’´l‹CŽ¿‰®z‘S¤•i‘——¿–³—¿ D•]ŽÀŽ{’†.<br> <br>A‹‰,,S‹‰ ƒ”ƒBƒgƒ“AƒVƒƒƒlƒ‹AƒOƒbƒ`Aà•zAƒoƒbƒOB<br> <br>‚‹‰˜rŽžŒvƒƒŒƒbƒNƒX,ƒuƒ‹ƒKƒŠ,ƒVƒƒƒlƒ‹,ƒGƒ‹ƒƒX,ƒJƒ‹ƒeƒBƒG,ƒIƒƒK,ƒ”ƒBƒgƒ“<br>,IWC,FRANCK MULLER‚È‚ÇŠeŽí <br> <br> <br>¡¤•i‚Ì”—Ê‚Í‘½‚¢A•iŽ¿‚Í‚æ‚¢A‰¿Ši‚Í’á‚¢AŒ»•¨ŽÊ^I<br> <br>¡–{“–‚ÌˆÓ–¡‚Å‚ÌƒnƒCƒŒƒv‚ª‚Ù‚µ‚¢•û‚É‚¨Š©‚ß‚Å‚·<br> <br>¡Œo‰c•ûj: •iŽ¿‚ðdŽ‹A”[Šú‚àŒµŽçAM—p‘æˆê‚Í“–ŽÐ‚Ì•ûj‚Å‚·B <br><br>¡”­slFplalashop ’S“–ŽÒ —æ–Ø ”üœ¨<br><br>¡˜A—æF <a href=mailto:plalashop@tom.com>plalashop@tom.com</a> or  <a href=mailto:plalashop@yahoo.co.jp>plalashop@yahoo.co.jp</a><br><br>¡URLF<a href=http://www.plalashop.com target=_top>http://www.plalashop.com</a><br> <br>™š™„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª„ª™š™<br></font></ul>
+<ul><br><font size=3>è¶…Sã‚¯ãƒ©ã‚¹å„ªè‰¯åº—plalashop <br> <br>ã€è¶…äººæ°—è³ªå±‹ã€‘å…¨å•†å“é€æ–™ç„¡æ–™ å¥½è©•å®Ÿæ–½ä¸­.<br> <br>Aç´š,,Sç´š ãƒ´ã‚£ãƒˆãƒ³ã€ã‚·ãƒ£ãƒãƒ«ã€ã‚°ãƒƒãƒã€è²¡å¸ƒã€ãƒãƒƒã‚°ã€‚<br> <br>é«˜ç´šè…•æ™‚è¨ˆãƒ­ãƒ¬ãƒƒã‚¯ã‚¹,ãƒ–ãƒ«ã‚¬ãƒª,ã‚·ãƒ£ãƒãƒ«,ã‚¨ãƒ«ãƒ¡ã‚¹,ã‚«ãƒ«ãƒ†ã‚£ã‚¨,ã‚ªãƒ¡ã‚¬,ãƒ´ã‚£ãƒˆãƒ³<br>,IWC,FRANCK MULLERãªã©å„ç¨® <br> <br> <br>â– å•†å“ã®æ•°é‡ã¯å¤šã„ã€å“è³ªã¯ã‚ˆã„ã€ä¾¡æ ¼ã¯ä½Žã„ã€ç¾ç‰©å†™çœŸï¼<br> <br>â– æœ¬å½“ã®æ„å‘³ã§ã®ãƒã‚¤ãƒ¬ãƒ—ãŒã»ã—ã„æ–¹ã«ãŠå‹§ã‚ã§ã™<br> <br>â– çµŒå–¶æ–¹é‡: å“è³ªã‚’é‡è¦–ã€ç´æœŸã‚‚åŽ³å®ˆã€ä¿¡ç”¨ç¬¬ä¸€ã¯å½“ç¤¾ã®æ–¹é‡ã§ã™ã€‚ <br><br>â– ç™ºè¡Œäººï¼šplalashop æ‹…å½“è€… çŽ²æœ¨ ç¾Žæƒ <br><br>â– é€£çµ¡å…ˆï¼š <a href=mailto:plalashop@tom.com>plalashop@tom.com</a> or  <a href=mailto:plalashop@yahoo.co.jp>plalashop@yahoo.co.jp</a><br><br>â– URLï¼š<a href=http://www.plalashop.com target=_top>http://www.plalashop.com</a><br> <br>â˜†â˜…â˜†â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â˜†â˜…â˜†<br></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=‹LŽ–íœ>
+<input type=submit name=button value=è¨˜äº‹å‰Šé™¤>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

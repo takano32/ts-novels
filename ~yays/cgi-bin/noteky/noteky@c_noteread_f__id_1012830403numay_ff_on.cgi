@@ -1,142 +1,142 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&ff=on&id=1012830403numay&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_ff_on_id_1012830403numay_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�r��ʂĂ��C</font><br>
+<font size="+2" color="#0000FF">荒れ果てた海</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/04224116/ocean.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2002/02/04 22:46:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/04224116/ocean.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2002/02/04 22:46:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012830403numay&id2=1012830403numay&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012830403numay_id2_1012830403numay_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�푈�ɂ��j���s�����钆�A���{�͒����̑Ώ۔N������������邪�c�B
+【推薦文】戦争により男が不足する中、政府は徴兵の対象年齢を引き下げるが…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://kobe.cool.ne.jp/yosioka_fan/" target="_blank">�悵����</a></strong>  <i>2002/02/05 06:41:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://kobe.cool.ne.jp/yosioka_fan/" target="_blank">よしおか</a></strong>  <i>2002/02/05 06:41:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012858890akusw&id2=1012830403numay&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012858890akusw_id2_1012830403numay_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�l����������b�ł��ˁB<BR>���ꂾ���̎������������B�ł��A�펀�����͂��̑��q�̐S�ɐ��܂ꂽ���̂́E�E�E<BR>�Ȃ񂾂��߂����������v�킹��b�ł��ˁB<BR>
+考えさせられる話ですね。<BR>これだけの事をした総理。でも、戦死したはずの息子の心に生まれたものは・・・<BR>なんだか悲しい結末を思わせる話ですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2002/02/05 08:17:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2002/02/05 08:17:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012864676umotne&id2=1012830403numay&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012864676umotne_id2_1012830403numay_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɓǌ㊴�̈������b�ł��ˁi����͗_�ߌ��t�I�j<BR>���N�����̌������Ȍ��ɂ����`����Ă��Ȃ����A�Ō�̌����҂����̈��ӂɂ��߂��i���∫�ӂ��̂��̂��H�j�}�΂��X�g���[�g�ɓ`����ė����ł���ˁB<BR>�Ƃ����������҂̊F������ʂɍD���ł���Ă�킯�ł͂Ȃ��̂����m��Ȃ��ƌ�����]���኱����܂����A���ɂ͈��ӂƂ����ǂ݂Ƃ�܂���ł����E�E�E<BR>����I�ȋ��|�����X�g���[�g�Ȉ��ӂ̕��������Ƃ����D��i�H�j�ł��ˁB<BR>���Ȃ݂ɂ��̌�������������Ȃ�ΑO���ɍs�����N�����͌P�������w�̂����Ƀx�e�����������̋L�����u�����������āv�A���t������񂾂낤���E�E�E�ȂǂƎv������I<BR>�ł�<BR>
+非常に読後感の悪いお話ですね（これは誉め言葉！）<BR>少年たちの結末が簡潔にしか描かれていない分、最後の研究者たちの悪意にも近い（いや悪意そのものか？）嘲笑がストレートに伝わって来るんですよね。<BR>というか研究者の皆さんも別に好きでやってるわけではないのかも知れないと言う希望が若干ありますが、私には悪意としか読みとれませんでした・・・<BR>超常的な恐怖よりもストレートな悪意の方が恐いという好例（？）ですね。<BR>ちなみにこの研究が成功するならば前線に行く少年たちは訓練中座学のかわりにベテラン兵たちの記憶を「多少消去して」植え付けられるんだろうか・・・などと思ったり！<BR>では<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/02/05 09:29:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/02/05 09:29:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012868941socqo&id2=1012830403numay&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012868941socqo_id2_1012830403numay_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��@<BR>�s�r�͎��ۂɂ͂����Ȃ��ĂȂ��񂶂�Ȃ����Ȃ��E�E�E�E�E<BR>����ȕ��Ɏv�����B<BR><BR>���������̂��D���͍D���Ȃ񂷂��ǁA�E�E�E�E�E<BR>�Ƃ肠���������Ƃ��ẮA���\�ǂ��ł��Ă�Ǝv�����ǁA<BR>�܂��A�u���ۂɂs�r���Ă��邼�v�Ƃ����V�[�����~���������łӁB
+うーん　<BR>ＴＳは実際にはおこなわれてないんじゃないかなぁ・・・・・<BR>そんな風に思った。<BR><BR>こういうのも好きは好きなんすけど、・・・・・<BR>とりあえず小説としては、結構良くできてると思うけど、<BR>まあ、「実際にＴＳしているぞ」というシーンも欲しかったでふ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/05 17:01:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/05 17:01:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012896088nvwrv&id2=1012830403numay&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012896088nvwrv_id2_1012830403numay_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ō�̌����҂̑䎌<BR>�́A��X�����Ɍ�����ꂽ���̂Ȃ̂ł��傤���H<BR>���邢�͂�����������A������b�̑��q��<BR>TS���邱�ƂȂ��A�L����������Ď���ł���������<BR>�Ȃ̂��Ǝv���܂����B�����炭�͑O�҂��������Ƃ�<BR>�v���܂����A���f����������ł��B<BR>���ꂪ�A�܂����̍�i�̃_�[�N�����������Ă�<BR>����N�����Ă����i�Ƃ��āA�ō��̉��o������Ă���Ǝv���܂����B<BR>
+最後の研究者の台詞<BR>は、我々国民に向けられたものなのでしょうか？<BR>あるいはもしかしたら、総理大臣の息子は<BR>TSすることなく、記憶を消されて死んでいっただけ<BR>なのかと思いました。おそらくは前者が正解だとは<BR>思いますが、判断が難しかったです。<BR>それが、またこの作品のダークさを強調してて<BR>問題提起をしている作品として、最高の演出がされていると思いました。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/05 21:19:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/05 21:19:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012911598ckloys&id2=1012830403numay&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012911598ckloys_id2_1012830403numay_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��i���Əo�x��j<BR>�m���Ɍ㖡�̗ǂ��Ȃ���i�ł����ˁi�ꉞ�قߌ��t�̂���E�E�E���j�B<BR>�����̑��q�́E�E�E����ςs�r���ĂȂ��悤�ȋC�����܂��B<BR>���������}�_����E�E�E�Ƃ������i�ł��ˁB
+読んだバイ♪（ちと出遅れ）<BR>確かに後味の良くない作品でしたね（一応ほめ言葉のつもり・・・汗）。<BR>総理の息子は・・・やっぱＴＳしてないような気がします。<BR>さすがヤマダさん・・・といえる作品ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/02/05 21:31:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/02/05 21:31:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012912282jtkmman&id2=1012830403numay&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012912282jtkmman_id2_1012830403numay_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���[��B�_�[�N�ł��B�����̏o���Ƃ��Ă������炭��낵���̂ł��傤�B�ǂ�ł��āA���ɍl����������|�C���g�����X������e�ł����̂Łc�c�B���X�g���F�X�ȃp�^�[�����l�����Ă�������Ɣ�䍏o������̂ł����B<BR>�@�������A�Ȃ܂��o�����ǂ������ɁA�ǂ����Ă��C�ɂȂ��Ă��܂��|�C���g���P����̂ł��B����͉����ƌ����ƁA�푈�����ł��B���ꂪ�܂������ِ̈��E�̕���ł���̂Ȃ�A�����͋C�ɂȂ�Ȃ��̂ł����A�Ȃ���Ȃ�ɂ��������E�Ƀ����N�������E�𕑑�Ƃ��Ă���̂ł�����A�Ȃ��ČR�Ɠ��{�́A�����Ɛ푈�����Ȃ��Ă͂����Ȃ��̂��H�@���̗��R������ӂ�Ȃ܂܂ł́A�ǂ����Ă����̓_�������Ȉ�a���ƂȂ�A�C�ɂȂ��Ă��܂��̂ł��B<BR>�@��i���E�̐ݒ�̍����Ɋւ�邱�Ƃł�����A�����o���܂����Ƃ͎v���܂������A�ꌾ�A���킹�Ă��������܂����B�ǂ������݂܂���ł����B
+　うーん。ダークです。小説の出来としてもおそらくよろしいのでしょう。読んでいて、非常に考えさせられるポイントが多々ある内容でしたので……。ラストも色々なパターンが考えられてじっくりと反芻出来るものでした。<BR>　しかし、なまじ出来が良いだけに、どうしても気になってしまうポイントが１つあるのです。それは何かと言うと、戦争原因です。これがまったくの異世界の物語であるのなら、そうは気にならないのですが、曲がりなりにも現実世界にリンクした世界を舞台としているのですから、なぜ米軍と日本は、中国と戦争をしなくてはいけないのか？　その理由があやふやなままでは、どうしてもその点が微妙な違和感となり、気になってしまうのです。<BR>　作品世界の設定の根幹に関わることですから、差し出がましいとは思いましたが、一言、言わせていただきました。どうもすみませんでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/02/06 01:12:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/02/06 01:12:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012925548wggcsj&id2=1012830403numay&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012925548wggcsj_id2_1012830403numay_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�푈�����E�w�����̎��T�x�I����F<BR>�@�P�Ɂu�T��N�̉䂪�ԁv�Ɓu�Q�S�N�̉䂪�ԁv���Փ˂����A�Ƃ��������̂��Ƃł́H<BR><BR>���ʁE�Ȋw�҂̚}�΁F<BR>�@�쒆�Łu�팱�҂̋L�����ڂ��v�Ƃ���܂��̂ŁA<BR>�@�����A�ڂ����̂͋L�������ō����ڂ����킯�ł͂Ȃ��񂾂ȁA�ƁB<BR>
+戦争原因・『悪魔の辞典』的解説：<BR>　単に「５千年の我が儘」と「２百年の我が儘」が衝突した、というだけのことでは？<BR><BR>結果・科学者の嘲笑：<BR>　作中で「被験者の記憶を移す」とありますので、<BR>　ああ、移したのは記憶だけで魂が移ったわけではないんだな、と。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2002/02/06 22:26:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>美和</strong>  <i>2002/02/06 22:26:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013001994pyuvat&id2=1012830403numay&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013001994pyuvat_id2_1012830403numay_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ȃ��Ƃ��N������A�|���ł��ˁB<BR>�����������z�������܂����B
+そんなことが起ったら、怖いですね。<BR>そう言う感想を持ちました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/02/08 18:29:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/02/08 18:29:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013160581vgncm&id2=1012830403numay&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013160581vgncm_id2_1012830403numay_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z��{���ɂ��肪�Ƃ��������܂��B<BR>����ς��i�Ƃ������͎����̈�Ԑ������Ǝv�����\���������A�����̎v�z��\�ʉ���������̂ł��B<BR>���������ꂪ�K�������������Ƃ͌���Ȃ��̂������ł��B���̂��߂ɑ�O�ғI�Ȑl������i��]�����銴�z������Ǝ��͎v���܂��B<BR>�����Ă��̊��z���ӂ��ɗ��p���čs�����c�A���ꂪ���z��ǂ񂾍�҂̖{���̈Ӌ`���Ǝ��͎v���܂��B<BR>���W�Ɍ����Ċ撣���čs�������Ǝv���܂��B<BR>
+感想を本当にありがとうございます。<BR>やっぱり作品という物は自分の一番正しいと思った表現をつかい、自分の思想を表面化させるものです。<BR>しかしそれが必ずしも正しいとは限らないのが現実です。そのために第三者的な人物が作品を評価する感想があると私は思います。<BR>そしてその感想を意かに利用して行くか…、それが感想を読んだ作者の本当の意義だと私は思います。<BR>発展に向けて頑張って行きたいと思います。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1012830403numay">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

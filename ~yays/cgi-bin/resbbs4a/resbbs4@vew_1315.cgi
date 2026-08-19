@@ -1,74 +1,74 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:��䏊�ɂȂ�܂����c�c>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:大御所になりました……>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1307>
 <input type=hidden name=ress value=1315>
-<input type=submit value=��䏊�ɂȂ�܂����c�c�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=大御所になりました……へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1315>
-<font color=#6A5ACD>RE:��䏊�ɂȂ�܂����c�c</font></a>
+<font color=#6A5ACD>RE:大御所になりました……</font></a>
 <font color=#303030>
-���Ɓ[��[����
- ����</font>
- <font size=2>2001�N11��19��(��) 6��12��</font>
-<a href="resbbs4.cgi?vew=1315">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+さとーゆーいち
+ さん</font>
+ <font size=2>2001年11月19日(月) 6時12分</font>
+<a href="resbbs4@vew_1315.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�@����΂��A���܂ň�Ӓ���𒭂߂����āA�����Ɩ�X�������Ă��܂����B<br>�����m�ł��傤���H���Ɓ[��[�����Ɛ\���܂��B���S�҂ł��B<br>���̓q�G�����L�[�ɂ��Ă͑��݂��Ă��Ă��S�R�C�ɂ��܂���B<br>�F������͂̂�����΂���ŁA�����炪���k���Ă��܂��Ă���A�Ƃ����̂�����Ȃ̂ł�����B<br>����΂���́A�����炪�w�͂��邵������܂���B���߂ɉ��Ƃ��������̂ł����c�i��΁j�B<br>����ɂ����́A�����܂Ŕr����`�ɂׂ͊��Ă��Ȃ��C������̂ł��B<br>�V�����l�����ĉ�b������B���̂悤�ȉ��������Ă��Ȃ��l�Ԃ̏������݂ɂ�����������B<br>���ꂾ���ł��債�����̂��Ǝv���܂��B�F���񂷂΂炵���������΂���ł���A����͕ۏ؂��܂��B<br>�@�A�b�g�z�[�����A�����łȂ����́A�K�̖͂�肪�傫���Ǝv���܂��B<br>�����A�����Ȑl������ւ�藧��������Ă��āA<br>�S���Ɛe�����X�̘b��Œ����l�́A�����ƈʂ̂��̂ł��傤�B<br>���̐����Ƃɂ��Ă��A�啔���̐l�ɂ͖��邭���U��Ȃ���A����I�Ɏ咣��`���邾���ł��B<br>�l�Ƃ��ẴL���p�V�e�B�[���z�������̐l�ԂɑΉ�����ɂ́A�܂Ƃ߂Ĉ�ƍl���邵������܂���B<br>�m��Ȃ��l�����A���Ă��Ă��΂��Ĉ��A����A���ꂭ�炢�̐_�o���K�v�ł��B<br>�l�ԁA������������Ȃ���Α��v�B���M�̂Ȃ����݂����z�I�A�Ɛ\���܂��傤�B<br>�@�A�b�g�z�[���ȕ��͋C����ɓ����ɂ́A��͂����J���֌f���̐ݗ��ł��傤���A<br>�������A����͂����ɂ������@�Ƃ������P�R�l�ψ���Ƃ������B<br>�@�����A�t�ɂǂ����ɏ��S�҂����ʘb�ɉԂ��炩���Ă���f�����������炢�������A�Ƃ��v���܂��B<br><br>�@���~���ɋF��܂����B<br>���E�̐l�X���K���ɂȂ�܂��悤�ɁA��ȍ��ʂ�h����`����������܂��悤�ɁA<br>TS����������S�Ă̐l�X���K���ɂȂ�܂��悤�ɁA�����ς�TS��i���o�Ă��܂��悤�ɁA<br>���ɂ́A�o����ΔN���̕󂭂��łR���~������܂��悤�Ɂi�΁j�A<br>�����āA����͊�]�ł����A�^�Ђ̐V�슴���n�Q�[����TS���ł���܂��悤�ɁB</font></ul>
+<ul><br><font size=3>　こんばんわ、今まで一晩中空を眺めたくて、ずっと夜更かししていました。<br>ご存知でしょうか？さとーゆーいちと申します。初心者です。<br>私はヒエラルキーについては存在していても全然気にしません。<br>皆さん実力のある方ばかりで、こちらが恐縮してしまっている、というのが実情なのですから。<br>こればかりは、こちらが努力するしかありません。早めに何とかしたいのですが…（苦笑）。<br>それにここは、そこまで排他主義には陥っていない気がするのです。<br>新しい人がいて会話がある。私のような何も書いていない人間の書き込みにも反応がある。<br>それだけでも大したものだと思います。皆さんすばらしい方たちばかりですよ、それは保証します。<br>　アットホームか、そうでないかは、規模の問題が大きいと思います。<br>正直、いろんな人が入れ替わり立ち代りやってきて、<br>全員と親しく個々の話題で喋れる人は、政治家位のものでしょう。<br>その政治家にしても、大部分の人には明るく手を振りながら、一方的に主張を伝えるだけです。<br>個人としてのキャパシティーを越えた数の人間に対応するには、まとめて一つと考えるしかありません。<br>知らない人が挨拶してきても笑って挨拶する、それくらいの神経が必要です。<br>人間、謙虚さを失わなければ大丈夫。自信のない現在が理想的、と申せましょう。<br>　アットホームな雰囲気を手に入れるには、やはり非公開内輪掲示板の設立でしょうか、<br>しかし、これはいかにも枢密院というか１３人委員会というか。<br>　ただ、逆にどこかに初心者が無駄話に花を咲かせている掲示板があったらいいかも、とも思います。<br><br>　星降る夜に祈りました。<br>世界の人々が幸せになりますように、奇妙な差別や派閥主義が消え去りますように、<br>TS物を愛する全ての人々が幸せになりますように、いっぱいTS作品が出てきますように、<br>私には、出来れば年末の宝くじで３億円当たりますように（笑）、<br>そして、これは希望ですが、某社の新作感動系ゲームがTS物でありますように。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

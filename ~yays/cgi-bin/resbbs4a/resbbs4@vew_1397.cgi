@@ -1,85 +1,85 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•Ž¦‚·‚éƒ^ƒCƒgƒ‹‚ðŽ©—R‚É‹L“ü@-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«ä¾®ï½¦ã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥ã€€-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>‘‡ŒfŽ¦”Â</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>ç·åˆæŽ²ç¤ºæ¿</font></td></tr></table>
 	</center></div>
 
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚ÉƒƒbƒZ[ƒW‚ª@@•Ž¦‚³‚ê‚é@@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒã€€ã€€ä¾®ï½¦ã•ã‚Œã‚‹ã€€ã€€-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[—˜—p‹K–ñ]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[åˆ©ç”¨è¦ç´„]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>‚¨–¼‘O:</td><td><input type=text size=20 name=name value=>
+<td align=right>ãŠåå‰:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>‘è–¼:</td><td>
-<input type=text size=48 name=subject value=RE:‘¼‚É‘‚«ž‚Ý‚ª–³‚¢‚æ‚¤‚Å‚·‚ª>
+<tr><td align=right>é¡Œå:</td><td>
+<input type=text size=48 name=subject value=RE:ä»–ã«æ›¸ãè¾¼ã¿ãŒç„¡ã„ã‚ˆã†ã§ã™ãŒ>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-‚¢‚Ü‹C‚É‚È‚é
+ã„ã¾æ°—ã«ãªã‚‹
 <SELECT NAME="genre" size=1>
-<option value="novel">¬à@
-<option value="comic">ƒRƒ~ƒbƒN
-<option value="movie">‰f‘œì•i
-<option value="game">ƒQ[ƒ€
-<option value="character">ƒLƒƒƒ‰ƒNƒ^[
-<option value="author">ì‰Æ
-<option value="rumor">î•ñE‚¤‚í‚³
-<option value="site">ƒz[ƒ€ƒy[ƒW
-<option value="something">‰½‚©
-</SELECT> ‚Í 
+<option value="novel">å°èª¬ã€€
+<option value="comic">ã‚³ãƒŸãƒƒã‚¯
+<option value="movie">æ˜ åƒä½œå“
+<option value="game">ã‚²ãƒ¼ãƒ 
+<option value="character">ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼
+<option value="author">ä½œå®¶
+<option value="rumor">æƒ…å ±ãƒ»ã†ã‚ã•
+<option value="site">ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸
+<option value="something">ä½•ã‹
+</SELECT> ã¯ 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1397>
 <input type=hidden name=ress value=1397>
-<input type=submit value=‘¼‚É‘‚«ž‚Ý‚ª–³‚¢‚æ‚¤‚Å‚·‚ª‚Ö•ÔM>
-<input type=reset value=‘‚«’¼‚µ>
+<input type=submit value=ä»–ã«æ›¸ãè¾¼ã¿ãŒç„¡ã„ã‚ˆã†ã§ã™ãŒã¸è¿”ä¿¡>
+<input type=reset value=æ›¸ãç›´ã—>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1397>
-<font color=#6A5ACD>‘¼‚É‘‚«ž‚Ý‚ª–³‚¢‚æ‚¤‚Å‚·‚ª</font></a>
+<font color=#6A5ACD>ä»–ã«æ›¸ãè¾¼ã¿ãŒç„¡ã„ã‚ˆã†ã§ã™ãŒ</font></a>
 <font color=#303030>
 ALO
- ‚³‚ñ</font>
- <font size=2>2002”N2ŒŽ20“ú(…) 14Žž35•ª</font>
-<a href="resbbs4.cgi?vew=1397">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+ ã•ã‚“</font>
+ <font size=2>2002å¹´2æœˆ20æ—¥(æ°´) 14æ™‚35åˆ†</font>
+<a href="resbbs4@vew_1397.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 </td></tr><tr><td>
-<ul><br><font size=3>”ªdFMR@‚P‚W‚O–œhit(30+150)<br>­”N­—•¶ŒÉ@‚Q‚O‚O–œ‚ˆit(125+75)@‚¨‚ß‚Å‚Æ‚¤‚²‚´‚¢‚Ü‚·B</font></ul>
+<ul><br><font size=3>å…«é‡æ´²MRã€€ï¼‘ï¼˜ï¼ä¸‡hit(30+150)<br>å°‘å¹´å°‘å¥³æ–‡åº«ã€€ï¼’ï¼ï¼ä¸‡ï½ˆit(125+75)ã€€ãŠã‚ã§ã¨ã†ã”ã–ã„ã¾ã™ã€‚</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1398>
-<font color=#6A5ACD>RE:‘¼‚É‘‚«ž‚Ý‚ª–³‚¢‚æ‚¤‚Å‚·‚ª</font></a>
+<font color=#6A5ACD>RE:ä»–ã«æ›¸ãè¾¼ã¿ãŒç„¡ã„ã‚ˆã†ã§ã™ãŒ</font></a>
 <font color=#303030>
-‚Ñ‚ã‚Ì
- ‚³‚ñ</font>
- <font size=2>2002”N2ŒŽ20“ú(…) 17Žž48•ª</font>
-<a href="resbbs4.cgi?vew=1398">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>‚·‚²‚¢‚Ë‚¥‚·‚²‚¢‚Ë‚¥EE‚±‚Ì¨‚¢‚ÅEEî•ñCGIŒv‰æ‚ði”šj<br>‚Ü‚½–Z‚µ‚­‚È‚ç‚ê‚½‚Ý‚½‚¢‚Å‚·‚ËiEEGj<br></font></ul>
+ã³ã‚…ã®
+ ã•ã‚“</font>
+ <font size=2>2002å¹´2æœˆ20æ—¥(æ°´) 17æ™‚48åˆ†</font>
+<a href="resbbs4@vew_1398.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>ã™ã”ã„ã­ã‡ã™ã”ã„ã­ã‡ãƒ»ãƒ»ã“ã®å‹¢ã„ã§ãƒ»ãƒ»æƒ…å ±CGIè¨ˆç”»ã‚’ï¼ˆçˆ†ï¼‰<br>ã¾ãŸå¿™ã—ããªã‚‰ã‚ŒãŸã¿ãŸã„ã§ã™ã­ï¼ˆãƒ»ãƒ»ï¼›ï¼‰<br></font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=‹LŽ–íœ>
+<input type=submit name=button value=è¨˜äº‹å‰Šé™¤>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

@@ -1,156 +1,156 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1020527372pthjdb&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1020527372pthjdb_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�s�r�j�݂����i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">ＴＳ男爵さん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="����A��V����A�����TS���Ȃ��́H�@�c�c�ĂȂ킯�Ŏ��񂪑傢�ɋC�ɂȂ�܂����I" target="_blank">�u�t�H�[���E�G���W�F���@�V���t�F�@���́v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/05/05 00:49:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="あれ、雅之くん、今回はTSしないの？　……てなわけで次回が大いに気になりますっ！" target="_blank">「フォール・エンジェル　シルフェ　序章」を読むにはここをクリック</a></strong>  <i>2002/05/05 00:49:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020527372pthjdb&id2=1020527372pthjdb&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020527372pthjdb_id2_1020527372pthjdb_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����A��V����A�����TS���Ȃ��́H�@�c�c�ĂȂ킯�Ŏ��񂪑傢�ɋC�ɂȂ�܂����I
+【推薦文】あれ、雅之くん、今回はTSしないの？　……てなわけで次回が大いに気になりますっ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200205/05003714/fallen_angel01.html" target="_blank">�u�t�H�[���E�G���W�F���@�V���t�F�@���́v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/05/05 00:51:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200205/05003714/fallen_angel01.html" target="_blank">「フォール・エンジェル　シルフェ　序章」を読むにはここをクリック</a></strong>  <i>2002/05/05 00:51:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020527470tnihyy&id2=1020527372pthjdb&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020527470tnihyy_id2_1020527372pthjdb_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̃����N��͖����ł��̂ŁA���������Ă��������܂��B���炵�܂����B
+↑のリンク先は無効ですので、訂正させていただきます。失礼しました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/05/05 01:11:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/05/05 01:11:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020528661fbhskkx&id2=1020527372pthjdb&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020528661fbhskkx_id2_1020527372pthjdb_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�m���ɂ���͋C�ɂȂ�c<BR><BR>�@�Ȃ��������c���{�l�̓��Z�ł��B�ǂ�ǂ�K�����Ă����܂��傤�B(�΁j<BR>�@�t�H�[���G���W�F���Ƃ́c����܂��c���[����{��ɖ󂷂Ɓc�V�g�������肵�āc<BR><BR>�@�Ƃ�����X�g�[���[���Z���āA�����݂ǂ��낪���Ȃ��̂ŁA����̕������}�ɑn���邱�Ƃ�����Ă���܂��B
+　確かにこれは気になる…<BR><BR>　なしくずし…日本人の特技です。どんどん習得していきましょう。(笑）<BR>　フォールエンジェルとは…これまた…うーん日本語に訳すと…堕天使だったりして…<BR><BR>　ともあれストーリーが短くて、つっこみどころが少ないので、次回の分が早急に創られることを願っております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/05/05 03:23:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/05/05 03:23:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020536586ljaih&id2=1020527372pthjdb&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020536586ljaih_id2_1020527372pthjdb_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`��A���̐܂ꂽ�V�g�A�ł����c<BR>�����C�ɂȂ�B<BR>�^�V�g�̏ꍇ�u�����͓����Ȃ��������ɓV�g�̂��d�������Ă���v�Ƃ��������˂Ȃ��c�B<BR>���̃P�[�X�͂ǂ��Ȃ�̂ł��傤���H<BR><BR>�ė������V�g�FFalled (a) angel<BR>�V�g�F(a) Angel Dust<BR><BR>�ł��B
+う～ん、翼の折れた天使、ですか…<BR>凄く気になる。<BR>某天使の場合「自分は動けないから代わりに天使のお仕事をしてくれ」とか言いかねない…。<BR>このケースはどうなるのでしょうか？<BR><BR>墜落した天使：Falled (a) angel<BR>堕天使：(a) Angel Dust<BR><BR>です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/05 04:53:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/05 04:53:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020541991ouwcyw&id2=1020527372pthjdb&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020541991ouwcyw_id2_1020527372pthjdb_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�قق��B���ꂩ��ǂ̂悤�ɓW�J���Ă����̂��y���݂ł��˂��B<BR>���Ȃ��Ƃ��u�����̐܂ꂽ�G���W�F���i�΁j�v���^���s�Ȑl�̂悤�Ƀg���u�����[�J�[�Ȃ̂͊ԈႢ�̂Ȃ��Ƃ���ł��傤�ȁi���j�B<BR>��V�N���A���D���l�i�΁j�B
+読んだバイ♪<BR>ほほう。これからどのように展開していくのか楽しみですねぇ。<BR>少なくとも「♪翼の折れたエンジェル（笑）」が某平行な人のようにトラブルメーカーなのは間違いのないところでしょうな（爆）。<BR>雅之クン、ご愁傷様（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/05/05 07:43:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/05/05 07:43:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020552238pnhmfx&id2=1020527372pthjdb&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020552238pnhmfx_id2_1020527372pthjdb_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���@����̂���������Ă���ufalled�v���āE�E�E<BR>���[��A���̊��p�Ȃ񂾂낤�cfall����<BR><BR>�V�g���ăG���W�F���_�X�g���Č����񂾁A�c�Ȃ񂩂̃o���h���ɂ������悤�ȁc���Ă��񂺂񂨘b�Ɗ֌W����܂��񂪁A�׋��ɂȂ�܂��ˁB<BR><BR>�ca fallen anfgel�ł��A���V�g���Č�����ł����(�ė�����Ȃ��ł���j�B���̏ꍇ�A���V�g�A�����Ƃ��ɂȂ��čڂ��Ă܂��B�������đV�g����Ȃ���̂������Ƃ����Ȃ������Ƃ��c���V�g���V�g�Ƃ͂܂��Ⴄ�̂��ȁc�����̂悤�ȋC�����邯�ǁB�Ƃ肠�����A���V�g�̗�̓j���[�J���b�W�ƃA���J�[�Ŕ����B�W�[�j�A�X�ł͑��̗�ōڂ��Ă������߂Ȃ������ł��B<BR><BR>�܂��B�Ƃ�����c����TS���Ă���邱�Ƃ��肤�΂���ł�(�΁j<BR>�d�g�d���̓g���u���ȓV�g�̂��Ƃ����͂₨�񑩓I�ɍD���ł��B
+すなさん　さんのおっしゃっている「falled」って・・・<BR>うーん、何の活用なんだろう…fallかな<BR><BR>堕天使ってエンジェルダストって言うんだ、…なんかのバンド名にあったような…ってぜんぜんお話と関係ありませんが、勉強になりますね。<BR><BR>…a fallen anfgelでも、堕落天使って言うんですよね(墜落じゃないですよ）。この場合、堕落天使、悪魔とかになって載ってます。悪魔って堕天使からなるものもいたとかいなかったとか…堕落天使＝堕天使とはまた違うのかな…同じのような気もするけど。とりあえず、堕落天使の例はニューカレッジとアンカーで発見。ジーニアスでは他の例で載っていたためなかったです。<BR><BR>まあ。ともあれ…早くTSしてくれることを願うばかりです(笑）<BR>電波妖精はトラブルな天使のことがもはやお約束的に好きです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�w�K�w�K�w�K</strong>  <i>2002/05/05 12:13:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヘ゜ヘ゜ヘ゜</strong>  <i>2002/05/05 12:13:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020568411jckaab&id2=1020527372pthjdb&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020568411jckaab_id2_1020527372pthjdb_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�t�H�[���E�G���W�F���@�V���t�F�@���́z<BR>�w�K���l�[���J�J�C�C�l
+【フォール・エンジェル　シルフェ　序章】<BR>ヘ゜ンネームカ゛イイネ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������񁗒ʂ肪����</strong>  <i>2002/05/05 21:17:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>名無しさん＠通りがかり</strong>  <i>2002/05/05 21:17:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020601029xricfa&id2=1020527372pthjdb&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020601029xricfa_id2_1020527372pthjdb_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�^EXCEED�p�a���T��angel dust��������u�V�g�̕�, �G���W�F���_�X�g ((���o��))�v���čڂ��Ă��i���j�B<BR>���Ȃ݂�fallen angel�́u�i�V����ǂ�ꂽ�j���V�g�v�������ŁB
+某EXCEED英和辞典でangel dust引いたら「天使の粉, エンジェルダスト ((幻覚剤))」って載ってた（爆）。<BR>ちなみにfallen angelは「（天国を追われた）堕落天使」だそうで。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�r�j��</strong>  <i>2002/05/05 23:06:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＴＳ男爵</strong>  <i>2002/05/05 23:06:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020607610tkgrjdi&id2=1020527372pthjdb&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020607610tkgrjdi_id2_1020527372pthjdb_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�݂Ȃ��񂲊��z���肪�ǂ��������܂��B<BR>�@�t�H�[���E�G���W�F���̈Ӗ��ł����ǁA�t�H�[���iFall�j�́A���̈�̒P��ł́A�u�����v�Ƃ����Ӗ���\���܂��B�����ăG���W�F���i�`�m�f�d�k�j�́A�����܂ł��Ȃ��u�V�g�v�ł��B<BR>�@�F����ɂ́A�ȏ�̒P��𒼐ړǂ�ŁA�������Ă���������Ό����Ǝv���܂��B�v����ɁA�u�����V�g�v�Ƃ����A�Ӗ��ɉ��߂��Ă��������B<BR>�����g���A����i�K�Łu�����V�g�v�Ƃ����A�Z�J���h�l�[����t���Ă��܂����B<BR>�@�ł́A����Ƃ��t�H�[���E�G���W�F�����X�A���u�s�r�j�݁v����낵�����肢���܂��B
+　みなさんご感想ありがどうございます。<BR>　フォール・エンジェルの意味ですけど、フォール（Fall）は、この一つの単語では、「落下」という意味を表します。そしてエンジェル（ＡＮＧＥＬ）は、言うまでもなく「天使」です。<BR>　皆さんには、以上の単語を直接読んで、理解していただければ言いと思います。要するに、「落下天使」という、意味に解釈してください。<BR>私自身も、制作段階で「落下天使」という、セカンドネームを付けていました。<BR>　では、今後ともフォール・エンジェル共々、私「ＴＳ男爵」をよろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/06 08:17:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/06 08:17:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020640644norqiiy&id2=1020527372pthjdb&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020640644norqiiy_id2_1020527372pthjdb_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��
+すばらしい、実にすばらしい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ǌR��</strong>  <i>2002/05/09 20:51:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>相良軍曹</strong>  <i>2002/05/09 20:51:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020945090xkfjn&id2=1020527372pthjdb&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020945090xkfjn_id2_1020527372pthjdb_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ł�����ł��s�r����΂����ƌ����킯�ł͂Ȃ����c�܂��A�����҂Ƃ��悤�B<BR>�؂͈����Ȃ��B<BR>���������҂���B<BR><BR><BR><BR>
+何でもかんでもＴＳすればいいと言うわけではないが…まあ、次回を待つとしよう。<BR>筋は悪くない。<BR>健闘を期待する。<BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kou_sa_to@yahoo.co.jp" target="_blank">kou</a></strong>  <i>2002/05/27 20:34:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022499266ydcwfw&id2=1020527372pthjdb&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022499266ydcwfw_id2_1020527372pthjdb_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����`�`�@����͖ʔ������ȍ�i�ɂȂ肻���ȗ\�����I<BR>�܂����ǌR�����񂪌����悤�ɉ��ł�TS����Ηǂ����ł͖����Ǝv���ȁ@�؂������Ă���ɍ��킹��悤�ɏ����Ηǂ��̂ł͂Ȃ����ƁB<BR>���������ė����V�g���`�@�y���������I<BR><BR>�s�r�j�݂���A������y���݂ɑ҂��Ă��܂�!<BR>
+　おお～～　これは面白そうな作品になりそうな予感だ！<BR>まあ相良軍曹さんが言うように何でもTSすれば良い物では無いと思うな　筋があってそれに合わせるように書けば良いのではないかと。<BR>おっこって来た天使か～　楽しそうだ！<BR><BR>ＴＳ男爵さん、次作を楽しみに待っています!<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1020527372pthjdb">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

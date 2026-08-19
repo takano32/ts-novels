@@ -1,99 +1,99 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�A������肽���̂ł����c�c�B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:連絡を取りたいのですが……。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2140>
 <input type=hidden name=ress value=2142>
-<input type=submit value=�A������肽���̂ł����c�c�B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=連絡を取りたいのですが……。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2142>
-<font color=#6A5ACD>RE:�A������肽���̂ł����c�c�B</font></a>
+<font color=#6A5ACD>RE:連絡を取りたいのですが……。</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2004�N2��6��(��) 22��44��</font>
-<a href="resbbs4.cgi?vew=2142">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2004年2月6日(金) 22時44分</font>
+<a href="resbbs4@vew_2142.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�ǂ��A���v���Ԃ�ł��F�j<br><a href=mailto:yays@geocities.co.jp>yays@geocities.co.jp</a>�̓W�I�V�e�B�[�Y�̃t���[���[���T�[�r�X�I���ɂƂ��Ȃ��ď��ł����Ⴂ�܂����B<br>�Ƃ����킯�ŁA����p�ӂ����΂���̐V�����A�h���X���烁�[�����点�Ă��炢�܂��ˁB<br>���X���҂����c�c�B</font></ul>
+<ul><br><font size=3>ども、お久しぶりです：）<br><a href=mailto:yays@geocities.co.jp>yays@geocities.co.jp</a>はジオシティーズのフリーメールサービス終了にともなって消滅しちゃいました。<br>というわけで、先日用意したばかりの新しいアドレスからメール送らせてもらいますね。<br>少々お待ちを……。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2153>
-<font color=#6A5ACD>�����M����ɐH�ׂ��Ă��܂��܂�</font></a>
+<font color=#6A5ACD>黒ヤギさんに食べられてしまいます</font></a>
 <font color=#303030>
 <a href=mailto:yays_mdr@yahoo.co.jp>yays</a>
- ����</font>
- <font size=2>2004�N2��24��(��) 9��16��</font>
-<a href="resbbs4.cgi?vew=2153">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�V�������[���A�h���X�Ƃ��Ďb��I�Ȃ��̂ł����A�ȉ���p�ӂ��܂����B<br><a href=mailto:yays_mdr@yahoo.co.jp>yays_mdr@yahoo.co.jp</a><br>�������A���X���Z�̂��ߓ��ʂ̓��[�������������Ă��w�ǂ��Ԏ��ł��Ȃ���������܂���B<br>�i���܂�p�ɂɂ̓`�F�b�N���Ă��܂���j<br>�d�v�ȗp���Ń��[���𑗂���Ƃ��͓����ɂ��̌f����ł����[���𑗂����|�����Ă��炦��΁A�Ȃ�ׂ����[���ɖڂ�ʂ��悤�ɂ��܂��B</font></ul>
+ さん</font>
+ <font size=2>2004年2月24日(火) 9時16分</font>
+<a href="resbbs4@vew_2153.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>新しいメールアドレスとして暫定的なものですが、以下を用意しました。<br><a href=mailto:yays_mdr@yahoo.co.jp>yays_mdr@yahoo.co.jp</a><br>ただし、諸々多忙のため当面はメールをいただいても殆どお返事できないかもしれません。<br>（あまり頻繁にはチェックしていません）<br>重要な用件でメールを送られるときは同時にこの掲示板上でもメールを送った旨書いてもらえれば、なるべくメールに目を通すようにします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2155>
-<font color=#6A5ACD>RE:�����M����ɐH�ׂ��Ă��܂��܂�</font></a>
+<font color=#6A5ACD>RE:黒ヤギさんに食べられてしまいます</font></a>
 <font color=#303030>
 mulu.w
- ����</font>
- <font size=2>2004�N2��24��(��) 18��19��</font>
-<a href="resbbs4.cgi?vew=2155">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����(ts-f.net)�̃��[���A�J�E���g�ŗǂ���΍��܂���B<br>�����K�v�Ȃ�ts-f.net��webmastar�Ƀ��[���������B</font></ul>
+ さん</font>
+ <font size=2>2004年2月24日(火) 18時19分</font>
+<a href="resbbs4@vew_2155.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>うち(ts-f.net)のメールアカウントで良ければ作りますよ。<br>もし必要ならts-f.netのwebmastarにメール下さい。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2157>
-<font color=#6A5ACD>RE:�����M����ɐH�ׂ��Ă��܂��܂�</font></a>
+<font color=#6A5ACD>RE:黒ヤギさんに食べられてしまいます</font></a>
 <font color=#303030>
 yays
- ����</font>
- <font size=2>2004�N2��26��(��) 3��40��</font>
-<a href="resbbs4.cgi?vew=2157">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>mulu����ǂ����ł��I<br>�`���b�g���ł͌䖳�������c�c<br>�Ƃ���ŃA�J�E���g�̌��ł����A���ʂ�yahoo�t���[���[���ŌŒ肵�悤���Ǝv���Ă܂��B�̂ŁA���Ȃ��Ƃ����܂̂Ƃ���͐V�A�J�E���g���\��͂Ȃ��ł��B<br>�ł����\���o���肪�Ƃ��������܂��I</font></ul>
+ さん</font>
+ <font size=2>2004年2月26日(木) 3時40分</font>
+<a href="resbbs4@vew_2157.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>muluさんどうもです！<br>チャット等では御無沙汰を……<br>ところでアカウントの件ですが、当面はyahooフリーメールで固定しようかと思ってます。ので、少なくともいまのところは新アカウント取る予定はないです。<br>でもお申し出ありがとうございます！</font></ul>
 <HR>
 </ul>
 </ul>
@@ -101,7 +101,7 @@ yays
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

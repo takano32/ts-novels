@@ -1,74 +1,74 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:��䏊�ɂȂ�܂����c�c>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:大御所になりました……>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1307>
 <input type=hidden name=ress value=1319>
-<input type=submit value=��䏊�ɂȂ�܂����c�c�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=大御所になりました……へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1319>
-<font color=#6A5ACD>RE:��䏊�ɂȂ�܂����c�c</font></a>
+<font color=#6A5ACD>RE:大御所になりました……</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N11��20��(��) 6��35��</font>
-<a href="resbbs4.cgi?vew=1319">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2001年11月20日(火) 6時35分</font>
+<a href="resbbs4@vew_1319.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�i�G���V������Q�N�O�̎����̔����𔭌��j<br>��<br>�ŋ߁A���ʕω��t�B�N�V�������ӎ��I�Ɏ�舵�����C���^�[�l�b�g�T�C�g���A���Ȃ葝�����Ă����悤���B�܂��͊�΂������Ƃł���B�P�N�قǑO�܂ł͂��̂悤�ȃT�C�g�͕Ў�Ő���������x�̐������Ȃ��������Ƃ��l����ƁA���̂悤�Șb�ł͂Ȃ����B<br>�����A�ꕔ�̗�O�������āA���ʕω��t�B�N�V�����n�̃T�C�g�S�̂��R�~���j�e�B���`�����Ă���Ƃ������A���u�������v���Ă���悤�Ȉ�ۂ͎󂯂�B������A�����N��H���Ă����Ə��菄���Č��̃y�[�W�ɖ߂��Ă��܂��A�Ƃ��������Ƃ��ǂ�����B<br>�����_�ł́u�������v�͂���ȂɈ������Ƃł͂Ȃ��Ǝv�����A�K�R���̂��錻�ۂ��Ƃ͎v���B�����A�߂������ɂ����ẮA�Ȃ܂��A�܂Ƃ܂����R�~���j�e�B���`�����Ă��邱�Ƃ��}�C�i�X�̉e���������炵�Ă��܂��ǖʂ��o�Ă��邱�Ƃ����邾�낤�B�֘A�T�C�g���C���^�[�l�b�g��ɂ��܂�ɋǍ݂��Ă��邱�Ƃɂ���āA�u��͂萫�ʕω��t�B�N�V�����Ƃ́w����ȁx�W�������Ȃ̂��v�ƌ��Ȃ���Ă��܂��悤�Ȏ��Ԃ͔��������Ƃ��낾�B�����A���ʕω��t�B�N�V�����������Ă���֘A�T�C�g�Q���Q�b�g�[�̂悤�Ɍ�����̂́A�����҂Ȃ�N�����]�܂Ȃ����낤�B�����Ȃ�Ȃ����߂ɂ��A��͂�u�����̊O�v�ɖڂ������Ă��邱�Ƃ��K�v�ɂȂ��Ă���Ǝv���B�R�~���j�e�B���̃T�C�g���m�Œ��ǂ�����̂͗ǂ����Ƃ��������b�g�����邪�A����Ɠ����ȏ�ɁA���̃T�C�g�Ƃ�킯�t�B�N�V��������舵���T�C�g�Ƃ̌𗬂�ϋɓI�ɐi�߂Ă����ׂ��ł͂Ȃ��낤���B</font></ul>
+<ul><br><font size=3>（萌え之譜から２年前の自分の発言を発見）<br>↓<br>最近、性別変化フィクションを意識的に取り扱ったインターネットサイトが、かなり増加してきたようだ。まずは喜ばしいことである。１年ほど前まではそのようなサイトは片手で数えられる程度の数しかなかったことを考えると、夢のような話ではないか。<br>ただ、一部の例外を除いて、性別変化フィクション系のサイト全体がコミュニティを形成しているというか、一種「ムラ化」しているような印象は受ける。だから、リンクを辿っていくと巡り巡って元のページに戻ってしまう、といったことが良くある。<br>現時点では「ムラ化」はそんなに悪いことではないと思うし、必然性のある現象だとは思う。ただ、近い将来においては、なまじ、まとまったコミュニティを形成していることがマイナスの影響をもたらしてしまう局面が出てくることもあるだろう。関連サイトがインターネット上にあまりに局在していることによって、「やはり性別変化フィクションとは『特殊な』ジャンルなのだ」と見なされてしまうような事態は避けたいところだ。何か、性別変化フィクションを扱っている関連サイト群がゲットーのように見られるのは、当事者なら誰しも望まないだろう。そうならないためにも、やはり「ムラの外」に目を向けていることが必要になってくると思う。コミュニティ内のサイト同士で仲良くするのは良いことだしメリットもあるが、それと同等以上に、他のサイトとりわけフィクションを取り扱うサイトとの交流を積極的に進めていくべきではなかろうか。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

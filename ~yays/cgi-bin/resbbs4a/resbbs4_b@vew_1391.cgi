@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�ǂ�[��>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:どりー夢>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1385>
 <input type=hidden name=ress value=1391>
-<input type=submit value=�ǂ�[���֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=どりー夢へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1391>
-<font color=#6A5ACD>RE:�ǂ�[��</font></a>
+<font color=#6A5ACD>RE:どりー夢</font></a>
 <font color=#303030>
 Silent
- ����</font>
- <font size=2>2002�N2��11��(��) 1��7��</font>
-<a href="resbbs4_b.cgi?vew=1391">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2002年2月11日(月) 1時7分</font>
+<a href="resbbs4_b@vew_1391.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�͂��߂܂��āB�r�����������Ƃ������܂��B���X�����Ă��������܂��B<br><br>�����d�F����<br>�������債�Ă݂����ȁ[�A�Ǝv�������Ƃ�����܂���<br>��͂莞�Ԃ̂�肭�肪����ł��ˁB<br>���e�A���Ђ���΂��Ă��������B<br>���Ƃł�����K��Ȃǂ��g�o�ȂǂŔ��\���Ă�����������������ł��B<br><br>���l�`�r�`�s�n����<br>�������������Ă��܂������g�����X�v�����Z�X<br>�������̂̂悤�ł����A�͂₭���҂��o���Ăق����ł��ˁB�y���݂ł��B<br><br>�����؂���<br>�w���d�`�@������L�̏����t�@�����x�̃t�^�i�����̂̍��<br>����f�ꂳ��͂��̍�i�Ńf�r���[����܂����B<br>�Ƃ������Ƃ́A�t�^�i�������Ăn�j�Ȃ��炢�Ȃ񂾂���<br>�\���g�ȓ��e�ł���΂s�r�ł����v�ł͂Ȃ����Ǝ��͍l���Ă��܂��B<br>�܂��A�s�r�̓t�^�i���ɂ���ׂĂ܂�����قǃ��W���[�ł͂���܂��񂯂ǁB<br>�Ȃ��񎟌��h���[���m�x���Y����͗��J�V�[���������ĂȂ��ƃ_�����Ƃ����b��<br>�ȑO�ǂ����ŕ������Ǝv���܂��B<br>������ɓ��e�����̂ł���΂��������V�[�������Ƃ��������������ƁB<br>�����s�r�̍�i�͂��Гǂ�ł݂����̂ł���΂��Ă��������B<br><br>�ȏ�A����ł���Ȃ��璷�X�Ƃ������X�Ŏ��炵�܂����B<br>����ł́B<br></font></ul>
+<ul><br><font size=3>はじめまして。Ｓｉｌｅｎｔともうします。レスさせていただきます。<br><br>＞八重洲さん<br>私も応募してみたいなー、と思ったことがありますが<br>やはり時間のやりくりが難しいですね。<br>投稿、ぜひがんばってください。<br>あとできたら習作などをＨＰなどで発表していただけたら嬉しいです。<br><br>＞ＭＡＳＡＴＯさん<br>私も今日買ってきました＜トランスプリンセス<br>続きもののようですが、はやく続編を出してほしいですね。楽しみです。<br><br>＞月華さん<br>『淫妖伝　両性具有の女教師　綾香』のフタナリものの作者<br>結城映一さんはこの作品でデビューされました。<br>ということは、フタナリだってＯＫなぐらいなんだから<br>十分Ｈな内容であればＴＳでも大丈夫ではないかと私は考えています。<br>まあ、ＴＳはフタナリにくらべてまだそれほどメジャーではありませんけど。<br>なお二次元ドリームノベルズさんは凌辱シーンが入ってないとダメだという話を<br>以前どこかで聞いたと思います。<br>こちらに投稿されるのであればそういうシーンを入れといた方がいいかと。<br>私もＴＳの作品はぜひ読んでみたいのでがんばってください。<br><br>以上、初顔でありながら長々としたレスで失礼しました。<br>それでは。<br></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

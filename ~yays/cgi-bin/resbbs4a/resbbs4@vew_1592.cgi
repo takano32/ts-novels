@@ -1,74 +1,74 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���̏ꍇ��>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:私の場合は>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1589>
 <input type=hidden name=ress value=1592>
-<input type=submit value=���̏ꍇ�͂֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=私の場合はへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1592>
-<font color=#6A5ACD>RE:���̏ꍇ��</font></a>
+<font color=#6A5ACD>RE:私の場合は</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N11��17��(��) 23��25��</font>
-<a href="resbbs4.cgi?vew=1592">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2002年11月17日(日) 23時25分</font>
+<a href="resbbs4@vew_1592.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���[�A�ǂ��B���������P�[�X�ł͂�����ŋC�Â����Ƃ��ɃT�N�b�ƍ폜���Ă��܂������Ȃ̂ŁA�Ȃ�ׂ���������Ȃ��ł��������B<br>�˔��I�ɃX�g���X�����ŏ������񂾂��A������̔������y���݂ɂ��Ă�����Ƃ��A�ǂ��炩���Ǝv���܂��̂ŁA������ɂ���܂Ƃ��ɔ��_���Ă��ǂ����Ƃ͂���܂���̂ŁB<br><br>�������݂ɐ����������Ɍf����������Ă�ȏ�A�l�b�g�l���������������ł́A�Ƃ��ǂ������������Y����������Ă��܂��̂́A�~�߂悤���Ȃ��Ǝv����ł���B<br>������A�f���𗘗p���鎄�����̑����A���Y�����ɑ΂���Ɖu�����邵���Ȃ���ł���ˁB<br>�Ƃ����킯�ŁA�命���̗��p�҂̊F����A���������P�[�X�ɍۂ��Ă͂��������������Ȃ��A�Ƃ����匴���ł̑Ώ����Ǘ��l�E�T�C�g��Ɏ҂Ƃ��Ă��肢���܂��B<br><br>�������C������A�i�삵�Ă��������Ċ��ӂ��܂��B<br>�����܂������悤�ȃJ�L�R���������Ƃ��́A�Ȃ�ׂ��������ł��肢���܂��ˁB<br>�䋦�͂����Ӂ����肢�������܂��B<br>�i���邢�͕ʂȘb��̃X���b�h�Ƀ��X�����āA���̂���X���b�h��ڗ����Ȃ�������A�Ȃ�Ă����Ώ����A�����Ǝv���܂��j</font></ul>
+<ul><br><font size=3>あー、ども。こういうケースではこちらで気づいたときにサクッと削除してしまうだけなので、なるべく相手をしないでください。<br>突発的にストレス解消で書き込んだか、こちらの反応を楽しみにしてる愉快犯か、どちらかだと思いますので、いずれにせよまともに反論しても良いことはありませんので。<br><br>書き込みに制限をつけずに掲示板を解放してる以上、ネット人口が増えた昨今では、ときどきこういう悪戯書きをされてしまうのは、止めようがないと思うんですよ。<br>だから、掲示板を利用する私たちの側が、悪戯書きに対する免疫をつけるしかないんですよね。<br>というわけで、大多数の利用者の皆さん、こういうケースに際してはいちいち反応しない、という大原則での対処を管理人・サイト主宰者としてお願いします。<br><br>かもラインさん、擁護していただいて感謝します。<br>もしまた似たようなカキコがあったときは、なるべく無反応でお願いしますね。<br>御協力を感謝＆お願いいたします。<br>（あるいは別な話題のスレッドにレスをつけて、問題のあるスレッドを目立たなくさせる、なんていう対処もアリかと思います）</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

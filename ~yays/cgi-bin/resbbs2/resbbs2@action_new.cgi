@@ -1,42 +1,42 @@
 <html><head>
-<meta http-equiv="content-type" content="text/html;charset=Shift_JIS">
-<title>î•ñŒfŽ¦”Â</title></head>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<title>æƒ…å ±æŽ²ç¤ºæ¿</title></head>
 <body bgcolor=#98B8E8 text=#000000 link=#6060D0 vlink=#506060 alink=#FFEEDD background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•\Ž¦‚·‚éƒ^ƒCƒgƒ‹‚ðŽ©—R‚É‹L“ü@-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«è¡¨ç¤ºã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥ã€€-->
 	<div align=center><center>
 	<table border=4><tr><td>
-	<font size=6 color=#506060><b>î•ñŒfŽ¦”Â</b></font>
+	<font size=6 color=#506060><b>æƒ…å ±æŽ²ç¤ºæ¿</b></font>
 	</td></tr></table>
-<!--’Ç‰Á‚µ‚½html‚±‚±‚©‚ç-->
+<!--è¿½åŠ ã—ãŸhtmlã“ã“ã‹ã‚‰-->
 	<br>
-	«“]Š·ƒlƒ^‚Ì‚ ‚é–Ÿ‰æA¬àAƒQ[ƒ€‚È‚ñ‚Å‚à”­Œ©‚µ‚½î•ñ‚ª‚ ‚ê‚Î‘‚«ž‚ñ‚Å‚­‚¾‚³‚¢B<BR>
-	‚ ‚é’ö“x‚Ìƒlƒ^ƒoƒŒ‚ðŠÜ‚Þ‘‚«ž‚Ý‚ª‚ ‚è‚Ü‚·‚Ì‚ÅAŠy‚µ‚Ý‚ðŽ×–‚‚³‚ê‚½‚­‚È‚¢l‚ÍAƒ^ƒCƒgƒ‹‚¾‚¯‚ðE‚¢“Ç‚Þ‚æ‚¤‚É‚µ‚Ü‚µ‚å‚¤B<BR>
+	æ€§è»¢æ›ãƒã‚¿ã®ã‚ã‚‹æ¼«ç”»ã€å°èª¬ã€ã‚²ãƒ¼ãƒ ãªã‚“ã§ã‚‚ç™ºè¦‹ã—ãŸæƒ…å ±ãŒã‚ã‚Œã°æ›¸ãè¾¼ã‚“ã§ãã ã•ã„ã€‚<BR>
+	ã‚ã‚‹ç¨‹åº¦ã®ãƒã‚¿ãƒãƒ¬ã‚’å«ã‚€æ›¸ãè¾¼ã¿ãŒã‚ã‚Šã¾ã™ã®ã§ã€æ¥½ã—ã¿ã‚’é‚ªé­”ã•ã‚ŒãŸããªã„äººã¯ã€ã‚¿ã‚¤ãƒˆãƒ«ã ã‘ã‚’æ‹¾ã„èª­ã‚€ã‚ˆã†ã«ã—ã¾ã—ã‚‡ã†ã€‚<BR>
 	<BR>
-	| <a href="http://www14.big.or.jp/~yays/bbs_notice.html"><b>¡ ‚²—˜—p‚ÉÛ‚µ‚Ä‚Ì‚¨Šè‚¢ ¡</b></a> |<BR>
-	| <a href="http://www14.big.or.jp/~yays/">”ªdFƒƒfƒBƒAƒŠƒT[ƒ`‚Ö–ß‚é</a>
-	 | <A HREF="http://www14.big.or.jp/~yays/cgi-bin/newinfo/newinfo.html">–G‚¦—ï</A> |<BR><BR>
-<!--’Ç‰Á‚µ‚½html‚±‚±‚Ü‚Å-->
+	| <a href="../../bbs_notice.html"><b>â–  ã”åˆ©ç”¨ã«éš›ã—ã¦ã®ãŠé¡˜ã„ â– </b></a> |<BR>
+	| <a href="../../index.html">å…«é‡æ´²ãƒ¡ãƒ‡ã‚£ã‚¢ãƒªã‚µãƒ¼ãƒã¸æˆ»ã‚‹</a>
+	 | <A HREF="../newinfo/newinfo.html">èŒãˆæš¦</A> |<BR><BR>
+<!--è¿½åŠ ã—ãŸhtmlã“ã“ã¾ã§-->
 	</center></div>
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚É’a¶ÎA‰ÔŒ¾—t‚ª•\Ž¦‚³‚ê‚é@@-->
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«èª•ç”ŸçŸ³ã€èŠ±è¨€è‘‰ãŒè¡¨ç¤ºã•ã‚Œã‚‹ã€€ã€€-->
 
 <div align=center><center>
-<form action=resbbs2.cgi method=POST>
+<form action="resbbs2.cgi" method=POST>
 <input type=hidden name=action value=search>
-| <a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi?action=new">V‹K“Še</a> | <input type=text size=18 name=key value=>
-<input type=submit name=button value=ƒL[ƒ[ƒhŒŸõ>
+| <a href="resbbs2@action_new.cgi">æ–°è¦æŠ•ç¨¿</a> | <input type=text size=18 name=key value=>
+<input type=submit name=button value=ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢>
 </form>
 <div align=center><center>
-<form name=inputform action=resbbs2.cgi method=POST>
+<form name=inputform action="resbbs2.cgi" method=POST>
 <input type=hidden name=action value=regist>
 <input type=hidden name=res value=>
 <table border=0>
-<tr><td align=right>‚¨–¼‘O:</td><td><input type=text size=35 name=name value=></td></tr>
+<tr><td align=right>ãŠåå‰:</td><td><input type=text size=35 name=name value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=35 name=email value=></td></tr>
 <tr><td align=right>HomePage:</td><td><input type=text size=60 name=HP value=></td></tr>
-<tr><td align=right>•ñì•i–¼:</td><td><input type=text size=60 name=subject></td></tr>
+<tr><td align=right>å ±å‘Šä½œå“å:</td><td><input type=text size=60 name=subject></td></tr>
 </tr>
 </table>
-<textarea name=comment rows=4 cols=80></textarea><br><input type=submit value=‘‚«ž‚Ý>
+<textarea name=comment rows=4 cols=80></textarea><br><input type=submit value=æ›¸ãè¾¼ã¿>
 </form>
 </center></div>
 </center></div>

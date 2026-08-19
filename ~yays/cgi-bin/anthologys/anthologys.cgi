@@ -2,39 +2,39 @@
 <head>
 <STYLE TYPE="text/css">
 <!--
-/*˜g‚Ì’è‹`*/
+/*æž ã®å®šç¾©*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #B8B8DC}
-/*ˆê——‚Ì•‘è‚Ì’è‹`*/
+/*ä¸€è¦§ã®èˆžé–§ï¾Œå®šç¾©*/
 TR#tr2 {background-color: #aaaaaa}
-/*ˆê——‚Ì‹LŽ–—“‚Ì’è‹`*/
+/*ä¸€è¦§ã®è¨˜äº‹æ¬„ã®å®šç¾©*/
 TR#tr3 {background-color: #eeeeee}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX‚Ì’è‹`*/
+/*FORM INPUT BOXã®å®šç¾©*/
 INPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX‚Ì’è‹`*/
+/*FORM SELECT BOXã®å®šç¾©*/
 SELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMITƒ{ƒ^ƒ“‚Ì’è‹`*/
+/*FORM SUBMITãƒœã‚¿ãƒ³ã®å®šç¾©*/
 .d1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMITƒ{ƒ^ƒ“‚Ì’è‹`*/
+/*FORM SUBMITãƒœã‚¿ãƒ³ã®å®šç¾©*/
 .d2 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ff00ff;font-weight: bolder; border-width:thick;cursor:hand}
-/*FORM RADIO CHECK BOX‚Ì’è‹`*/
+/*FORM RADIO CHECK BOXã®å®šç¾©*/
 .d3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*“ŠeFORM‚Ìˆê•”‚Ì’è‹`*/
+/*æŠ•ç¨¿FORMã®ä¸€éƒ¨ã®å®šç¾©*/
 .d4 {background-color: #999999; font-size:13pt}
-/*ì•iƒ^ƒCƒgƒ‹•Ž¦‚Ì’è‹`(ƒ^ƒCƒgƒ‹‚É”wŒiF‚ð“ü‚ê‚È‚¢ê‡Abackground-color:#eeeeee‚ðíœ)*/
+/*ä½œå“ã‚¿ã‚¤ãƒˆãƒ«ä¾®ï½¦ã®å®šç¾©(ã‚¿ã‚¤ãƒˆãƒ«ã«èƒŒæ™¯è‰²ã‚’å…¥ã‚Œãªã„å ´åˆã€background-color:#eeeeeeã‚’å‰Šé™¤)*/
 .d5 {font-size:30pt;font-weight:bold;background-color:#eeeeee}
-/*ì•i“à—e‚Ì•Ž¦’è‹`*/
+/*ä½œå“å†…å®¹ã®ä¾®ï½¦å®šç¾©*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA‚Ì’è‹`*/
+/*FORM TEXTAREAã®å®šç¾©*/
 TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL(./textbg.gif)}
-/*ƒŠƒ“ƒNF‚ÌÝ’è*/
+/*ãƒªãƒ³ã‚¯è‰²ã®è¨­å®š*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -43,24 +43,24 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>“F•¶ŒÉ</title>
+<title>æ¡ƒè‰²æ–‡åº«</title>
 </head>
-<body BACKGROUND="./back.gif" BGCOLOR="#F9E5EF" TEXT="#CC3399" LINK="#3366CC" VLINK="#6060F0">
+<body BACKGROUND="back.gif" BGCOLOR="#F9E5EF" TEXT="#CC3399" LINK="#3366CC" VLINK="#6060F0">
 <center>
 <font style="font-size:30pt;font-weight:bold">
-“F•¶ŒÉ
+æ¡ƒè‰²æ–‡åº«
 </font>
 </center><br>
-E‚Ð‚»‚©‚É—‘Ì–G‚¦‚È–Ï‘z‚ð‚¨Ž‚¿‚Ì•ûA‚º‚Ð‚º‚Ðì•i‚ð‚¨Šñ‚¹‰º‚³‚¢‚Ü‚¹B<BR>
-E–œˆêA‹êŽè‚ÈƒWƒƒƒ“ƒ‹‚âƒJƒbƒvƒŠƒ“ƒOA•`ŽÊ‚ª‚ ‚è‚Ü‚µ‚½‚ç’P‚É<B>Œ©‚È‚©‚Á‚½‚±‚Æ</B>‚É‚µ‚Ä‰º‚³‚¢BŒ–‰Ü‹ÖŽ~B<BR>
-E‚±‚Ìƒy[ƒW‚Ö‚Ì’¼ÚƒŠƒ“ƒN‚àƒtƒŠ[‚Æ‚µ‚Ü‚·‚Ì‚ÅAì•iƒAƒbƒvƒ[ƒ_‚Æ‚µ‚Ä‚àŒäŠˆ—p‰º‚³‚¢BiƒTƒCƒgŽïŽ|‚Í‘¸d‚µ‚Ä‚­‚¾‚³‚¢j<BR>
-ECGI‚ð—˜—p‚µ‚Ä‚²Ž©—R‚É“Še‚µ‚Ä‚­‚¾‚³‚¢B‚½‚¾‚µ—«ìŽÒ—lŒÀ’èBi“½–¼‚Å‚à–â‘è‚È‚¢‚Å‚·j<BR>
-EƒpƒXƒ[ƒh‚Å“ŠeŒã‚ÌC³ì‹Æ‚à‚Å‚«‚Ü‚·B<BR>
-E–@—¥‚ÉG‚ê‚é‚à‚ÌAƒTƒCƒg‚É‘Š‰ž‚µ‚­‚È‚¢ì•i‚ÍŠÇ—l”»’f‚Åíœ‚µ‚Ü‚·B<BR>
-E‘¼l‚Ìì•i‚Ì–³’f“]Ú“™‚Í’˜ìŒ –@‚ÉG‚ê‚Ü‚·B<BR>
-E‚È‚é‚×‚­Œ´ì‚ª•ª‚©‚é‚æ‚¤‚Èƒ^ƒCƒgƒ‹‚Å‚¨Šè‚¢‚µ‚Ü‚·B<BR>
-E‚Å‚«‚ê‚Î„§”N—îAƒJƒbƒvƒŠƒ“ƒO“™‚ð–{•¶–`“ª‚É‚¨‘‚«“Y‚¦‰º‚³‚¢B<BR>
-i„§”N—î[Rate]F‚f...‘S”N—î@‚q...‚P‚T‹Ö@‚w...‚P‚W‹Ö@‚w‚w‚w...“Á‚É‰ßŒƒ‚È«•`ŽÊEŽc“•`ŽÊ—L‚èj<BR>
+ãƒ»ã²ãã‹ã«å¥³ä½“èŒãˆãªå¦„æƒ³ã‚’ãŠæŒã¡ã®æ–¹ã€ãœã²ãœã²ä½œå“ã‚’ãŠå¯„ã›ä¸‹ã•ã„ã¾ã›ã€‚<BR>
+ãƒ»ä¸‡ä¸€ã€è‹¦æ‰‹ãªã‚¸ãƒ£ãƒ³ãƒ«ã‚„ã‚«ãƒƒãƒ—ãƒªãƒ³ã‚°ã€æå†™ãŒã‚ã‚Šã¾ã—ãŸã‚‰å˜ã«<B>è¦‹ãªã‹ã£ãŸã“ã¨</B>ã«ã—ã¦ä¸‹ã•ã„ã€‚å–§å˜©ç¦æ­¢ã€‚<BR>
+ãƒ»ã“ã®ãƒšãƒ¼ã‚¸ã¸ã®ç›´æŽ¥ãƒªãƒ³ã‚¯ã‚‚ãƒ•ãƒªãƒ¼ã¨ã—ã¾ã™ã®ã§ã€ä½œå“ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ€ã¨ã—ã¦ã‚‚å¾¡æ´»ç”¨ä¸‹ã•ã„ã€‚ï¼ˆã‚µã‚¤ãƒˆè¶£æ—¨ã¯å°Šé‡ã—ã¦ãã ã•ã„ï¼‰<BR>
+ãƒ»CGIã‚’åˆ©ç”¨ã—ã¦ã”è‡ªç”±ã«æŠ•ç¨¿ã—ã¦ãã ã•ã„ã€‚ãŸã ã—å¥³æ€§ä½œè€…æ§˜é™å®šã€‚ï¼ˆåŒ¿åã§ã‚‚å•é¡Œãªã„ã§ã™ï¼‰<BR>
+ãƒ»ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã§æŠ•ç¨¿å¾Œã®ä¿®æ­£ä½œæ¥­ã‚‚ã§ãã¾ã™ã€‚<BR>
+ãƒ»æ³•å¾‹ã«è§¦ã‚Œã‚‹ã‚‚ã®ã€ã‚µã‚¤ãƒˆã«ç›¸å¿œã—ããªã„ä½œå“ã¯ç®¡ç†äººåˆ¤æ–­ã§å‰Šé™¤ã—ã¾ã™ã€‚<BR>
+ãƒ»ä»–äººã®ä½œå“ã®ç„¡æ–­è»¢è¼‰ç­‰ã¯è‘—ä½œæ¨©æ³•ã«è§¦ã‚Œã¾ã™ã€‚<BR>
+ãƒ»ãªã‚‹ã¹ãåŽŸä½œãŒåˆ†ã‹ã‚‹ã‚ˆã†ãªã‚¿ã‚¤ãƒˆãƒ«ã§ãŠé¡˜ã„ã—ã¾ã™ã€‚<BR>
+ãƒ»ã§ãã‚Œã°æŽ¨å¥¨å¹´é½¢ã€ã‚«ãƒƒãƒ—ãƒªãƒ³ã‚°ç­‰ã‚’æœ¬æ–‡å†’é ­ã«ãŠæ›¸ãæ·»ãˆä¸‹ã•ã„ã€‚<BR>
+ï¼ˆæŽ¨å¥¨å¹´é½¢[Rate]ï¼šï¼§...å…¨å¹´é½¢ã€€ï¼²...ï¼‘ï¼•ç¦ã€€ï¼¸...ï¼‘ï¼˜ç¦ã€€ï¼¸ï¼¸ï¼¸...ç‰¹ã«éŽæ¿€ãªæ€§æå†™ãƒ»æ®‹é…·æå†™æœ‰ã‚Šï¼‰<BR>
 <center>
 <table cellspacing=3 width=100% bgcolor=#B8B8DC>
 <tr>
@@ -68,7 +68,7 @@ A{TEXT-DECORATION:NONE};
 <table align=center id=id1>
 <tr id=tr3>
 <th>
-ÅVì•iW
+æœ€æ–°ä½œå“é›†
 </th>
 </tr>
 </table>
@@ -77,50 +77,50 @@ A{TEXT-DECORATION:NONE};
 <tr>
 <th colspan=5>
 <font style="font-size:13pt">
-“ŠeLIST [ Œ»Ý 13 ì•iŒöŠJ’† ]
+æŠ•ç¨¿LIST [ ç¾åœ¨ 13 ä½œå“å…¬é–‹ä¸­ ]
 </font>
 </th>
 </tr>
-<form method=post action=http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi>
+<form method=post action="anthologys.cgi">
 <input type=hidden name=action value="html4">
 <input type=hidden name="log" value="">
 <tr><th>
- ìŽÒ‚ðŒÀ’è‚µ‚Ä’Šo 
+ ä½œè€…ã‚’é™å®šã—ã¦æŠ½å‡º 
 <select name=sakusha>
-<option value=0>ìŽÒ‚ð‘I‘ð
-<option value="‚­‚èŽq">‚­‚èŽq
-<option value="ƒ€ƒbƒVƒ…[">ƒ€ƒbƒVƒ…[
-<option value="ƒ€ƒbƒVƒ…[•ƒnƒ€‘¾">ƒ€ƒbƒVƒ…[•ƒnƒ€‘¾
-<option value="ƒ€ƒbƒVƒ…[”ªdF">ƒ€ƒbƒVƒ…[”ªdF
-<option value="“Á•ÊƒQƒXƒg">“Á•ÊƒQƒXƒg
-<option value="–¤“°">–¤“°
+<option value=0>ä½œè€…ã‚’é¸æŠž
+<option value="ãã‚Šå­">ãã‚Šå­
+<option value="ãƒ ãƒƒã‚·ãƒ¥ãƒ¼">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼
+<option value="ãƒ ãƒƒã‚·ãƒ¥ãƒ¼ï¼†ãƒãƒ å¤ª">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼ï¼†ãƒãƒ å¤ª
+<option value="ãƒ ãƒƒã‚·ãƒ¥ãƒ¼å…«é‡æ´²">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼å…«é‡æ´²
+<option value="ç‰¹åˆ¥ã‚²ã‚¹ãƒˆ">ç‰¹åˆ¥ã‚²ã‚¹ãƒˆ
+<option value="å·³å ‚">å·³å ‚
 </select>
-<input type=submit value=" ƒŠƒXƒg•\Ž¦ " class="d1">
+<input type=submit value=" ãƒªã‚¹ãƒˆè¡¨ç¤º " class="d1">
 </th>
 </form>
-<form method=post action=http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi>
+<form method=post action="anthologys.cgi">
 <input type=hidden name=action value="html5">
 <input type=hidden name="log" value="">
 <th colspan=4>
- Œê‹å‚ðŽw’è‚µ‚Ä’Šo 
+ èªžå¥ã‚’æŒ‡å®šã—ã¦æŠ½å‡º 
 <input type=text name=serch size=16>
-<input type=submit value=" ŒŸõ " class="d1">
+<input type=submit value=" æ¤œç´¢ " class="d1">
 </th></tr>
 </form>
-<tr ID="tr2"><th>Title</th><th>NAME</th><th>“Še“ú</th><th>RES</th>
+<tr ID="tr2"><th>Title</th><th>NAME</th><th>æŠ•ç¨¿æ—¥</th><th>RES</th>
 <th>POINT</th>
 </tr>
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20020111101939">
-ƒXƒ^ƒCƒ‹”²ŒQ‚ÈŽÐ’·i—V‹Y‰¤j</a>
+<a href="anthologys@action_html2_key_20020111101939.cgi">
+ã‚¹ã‚¿ã‚¤ãƒ«æŠœç¾¤ãªç¤¾é•·ï¼ˆéŠæˆ¯çŽ‹ï¼‰</a>
 </font>
 </th>
 <td>
-“Á•ÊƒQƒXƒg
+ç‰¹åˆ¥ã‚²ã‚¹ãƒˆ
 </td>
-<td id=td1>2002”N01ŒŽ11“ú(‹à) 10Žž19•ª39•b</td>
+<td id=td1>2002å¹´01æœˆ11æ—¥(é‡‘) 10æ™‚19åˆ†39ç§’</td>
 <td align=right>
 0
 </td>
@@ -130,14 +130,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20020111101207">
-Š—V‹Y‚‰‚ŽDUELi—V‹Y‰¤j</a>
+<a href="anthologys@action_html2_key_20020111101207.cgi">
+â™€éŠæˆ¯ï½‰ï½ŽDUELï¼ˆéŠæˆ¯çŽ‹ï¼‰</a>
 </font>
 </th>
 <td>
-“Á•ÊƒQƒXƒg
+ç‰¹åˆ¥ã‚²ã‚¹ãƒˆ
 </td>
-<td id=td1>2002”N01ŒŽ11“ú(‹à) 10Žž12•ª07•b</td>
+<td id=td1>2002å¹´01æœˆ11æ—¥(é‡‘) 10æ™‚12åˆ†07ç§’</td>
 <td align=right>
 0
 </td>
@@ -147,14 +147,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011230083907">
-ƒNƒ‰ƒsƒJ‚Ì‚Ð‚Ý‚Â</a>
+<a href="anthologys@action_html2_key_20011230083907.cgi">
+ã‚¯ãƒ©ãƒ”ã‚«ã®ã²ã¿ã¤</a>
 </font>
 </th>
 <td>
-“Á•ÊƒQƒXƒg
+ç‰¹åˆ¥ã‚²ã‚¹ãƒˆ
 </td>
-<td id=td1>2001”N12ŒŽ30“ú(“ú) 09Žž46•ª29•b</td>
+<td id=td1>2001å¹´12æœˆ30æ—¥(æ—¥) 09æ™‚46åˆ†29ç§’</td>
 <td align=right>
 7
 </td>
@@ -164,14 +164,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011226233742">
-“‡‘ºƒWƒ‡[‚‰‚ŽƒƒCƒh•ž (ƒTƒCƒ{[ƒO009)</a>
+<a href="anthologys@action_html2_key_20011226233742.cgi">
+å³¶æ‘ã‚¸ãƒ§ãƒ¼ï½‰ï½Žãƒ¡ã‚¤ãƒ‰æœ (ã‚µã‚¤ãƒœãƒ¼ã‚°009)</a>
 </font>
 </th>
 <td>
-‚­‚èŽq
+ãã‚Šå­
 </td>
-<td id=td1>2001”N12ŒŽ26“ú(…) 23Žž37•ª42•b</td>
+<td id=td1>2001å¹´12æœˆ26æ—¥(æ°´) 23æ™‚37åˆ†42ç§’</td>
 <td align=right>
 0
 </td>
@@ -181,14 +181,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011225154134">
-ƒTƒCƒLƒbƒNƒtƒH[ƒXˆÙà(1)</a>
+<a href="anthologys@action_html2_key_20011225154134.cgi">
+ã‚µã‚¤ã‚­ãƒƒã‚¯ãƒ•ã‚©ãƒ¼ã‚¹ç•°èª¬(1)</a>
 </font>
 </th>
 <td>
-<a href="mailto:mailto:suama70@hotmail.com">–¤“°</a>
+<a href="mailto:mailto:suama70@hotmail.com">å·³å ‚</a>
 </td>
-<td id=td1>2001”N12ŒŽ25“ú(‰Î) 15Žž41•ª34•b</td>
+<td id=td1>2001å¹´12æœˆ25æ—¥(ç«) 15æ™‚41åˆ†34ç§’</td>
 <td align=right>
 0
 </td>
@@ -198,14 +198,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011221015940">
-ƒNƒŠƒXƒ}ƒXEƒLƒƒƒƒ‹iƒTƒCƒ{[ƒO009j</a>
+<a href="anthologys@action_html2_key_20011221015940.cgi">
+ã‚¯ãƒªã‚¹ãƒžã‚¹ãƒ»ã‚­ãƒ£ãƒ­ãƒ«ï¼ˆã‚µã‚¤ãƒœãƒ¼ã‚°009ï¼‰</a>
 </font>
 </th>
 <td>
-ƒ€ƒbƒVƒ…[
+ãƒ ãƒƒã‚·ãƒ¥ãƒ¼
 </td>
-<td id=td1>2001”N12ŒŽ21“ú(‹à) 01Žž59•ª40•b</td>
+<td id=td1>2001å¹´12æœˆ21æ—¥(é‡‘) 01æ™‚59åˆ†40ç§’</td>
 <td align=right>
 1
 </td>
@@ -215,14 +215,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011217023130">
-–‚‚É•ù‚°‚é‰ÔŠ¥EŒã•Ò</a>
+<a href="anthologys@action_html2_key_20011217023130.cgi">
+é­”ã«æ§ã’ã‚‹èŠ±å† ãƒ»å¾Œç·¨</a>
 </font>
 </th>
 <td>
-<a href="mailto:yays@geocities.co.jp">ƒ€ƒbƒVƒ…[</a>
+<a href="mailto:yays@geocities.co.jp">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼</a>
 </td>
-<td id=td1>2001”N12ŒŽ17“ú(ŒŽ) 02Žž31•ª30•b</td>
+<td id=td1>2001å¹´12æœˆ17æ—¥(æœˆ) 02æ™‚31åˆ†30ç§’</td>
 <td align=right>
 5
 </td>
@@ -232,14 +232,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011217022823">
-–‚‚É•ù‚°‚é‰ÔŠ¥E‘O•Ò</a>
+<a href="anthologys@action_html2_key_20011217022823.cgi">
+é­”ã«æ§ã’ã‚‹èŠ±å† ãƒ»å‰ç·¨</a>
 </font>
 </th>
 <td>
-<a href="mailto:yays@geocities.co.jp">ƒ€ƒbƒVƒ…[</a>
+<a href="mailto:yays@geocities.co.jp">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼</a>
 </td>
-<td id=td1>2001”N12ŒŽ17“ú(ŒŽ) 02Žž28•ª23•b</td>
+<td id=td1>2001å¹´12æœˆ17æ—¥(æœˆ) 02æ™‚28åˆ†23ç§’</td>
 <td align=right>
 0
 </td>
@@ -249,14 +249,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011215230046">
-’N‚ª‚½‚ß‚ÉƒVƒ“ƒfƒŒƒ‰iƒTƒCƒ{[ƒO009j</a>
+<a href="anthologys@action_html2_key_20011215230046.cgi">
+èª°ãŒãŸã‚ã«ã‚·ãƒ³ãƒ‡ãƒ¬ãƒ©ï¼ˆã‚µã‚¤ãƒœãƒ¼ã‚°009ï¼‰</a>
 </font>
 </th>
 <td>
-<a href="mailto:yays@geocities.co.jp">ƒ€ƒbƒVƒ…[</a>
+<a href="mailto:yays@geocities.co.jp">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼</a>
 </td>
-<td id=td1>2001”N12ŒŽ16“ú(“ú) 01Žž46•ª06•b</td>
+<td id=td1>2001å¹´12æœˆ16æ—¥(æ—¥) 01æ™‚46åˆ†06ç§’</td>
 <td align=right>
 1
 </td>
@@ -266,14 +266,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011215153415">
-“ƒ‚Ì•PŒNi”š‘–ŒZ’íƒŒƒbƒc•ƒS[‚l‚`‚wj</a>
+<a href="anthologys@action_html2_key_20011215153415.cgi">
+å¡”ã®å§«å›ï¼ˆçˆ†èµ°å…„å¼Ÿãƒ¬ãƒƒãƒ„ï¼†ã‚´ãƒ¼ï¼­ï¼¡ï¼¸ï¼‰</a>
 </font>
 </th>
 <td>
-<a href="mailto:yays@geocities.co.jp">ƒ€ƒbƒVƒ…[</a>
+<a href="mailto:yays@geocities.co.jp">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼</a>
 </td>
-<td id=td1>2001”N12ŒŽ15“ú(“y) 15Žž34•ª15•b</td>
+<td id=td1>2001å¹´12æœˆ15æ—¥(åœŸ) 15æ™‚34åˆ†15ç§’</td>
 <td align=right>
 2
 </td>
@@ -283,14 +283,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011208031138">
-“‡‘ºìEŠë‹@ˆê”¯IiƒTƒCƒ{[ƒO009j</a>
+<a href="anthologys@action_html2_key_20011208031138.cgi">
+å³¶æ‘å¬¢ãƒ»å±æ©Ÿä¸€é«ªï¼ï¼ˆã‚µã‚¤ãƒœãƒ¼ã‚°009ï¼‰</a>
 </font>
 </th>
 <td>
-<a href="mailto:yays@geocities.co.jp">ƒ€ƒbƒVƒ…[•ƒnƒ€‘¾</a>
+<a href="mailto:yays@geocities.co.jp">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼ï¼†ãƒãƒ å¤ª</a>
 </td>
-<td id=td1>2001”N12ŒŽ08“ú(“y) 05Žž25•ª06•b</td>
+<td id=td1>2001å¹´12æœˆ08æ—¥(åœŸ) 05æ™‚25åˆ†06ç§’</td>
 <td align=right>
 1
 </td>
@@ -300,14 +300,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011208030820">
-ƒAƒLƒ‰‚ÌŽ–îEƒpƒ‰ƒŒƒ‹END iƒqƒJƒ‹‚ÌŒéj</a>
+<a href="anthologys@action_html2_key_20011208030820.cgi">
+ã‚¢ã‚­ãƒ©ã®äº‹æƒ…ãƒ»ãƒ‘ãƒ©ãƒ¬ãƒ«END ï¼ˆãƒ’ã‚«ãƒ«ã®ç¢ï¼‰</a>
 </font>
 </th>
 <td>
-<a href="mailto:yays@geocities.co.jp">ƒ€ƒbƒVƒ…[”ªdF</a>
+<a href="mailto:yays@geocities.co.jp">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼å…«é‡æ´²</a>
 </td>
-<td id=td1>2001”N12ŒŽ08“ú(“y) 03Žž08•ª20•b</td>
+<td id=td1>2001å¹´12æœˆ08æ—¥(åœŸ) 03æ™‚08åˆ†20ç§’</td>
 <td align=right>
 2
 </td>
@@ -317,14 +317,14 @@ A{TEXT-DECORATION:NONE};
 <tr id="tr3">
 <th width=50%>
 <font style="font-weight:bold" onMouseOver="this.className='on'" onMouseOut="this.className='off'">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?action=html2&key=20011208030539">
-“ƒ–îƒAƒLƒ‰‚ÌŽ–îiƒqƒJƒ‹‚ÌŒéj</a>
+<a href="anthologys@action_html2_key_20011208030539.cgi">
+å¡”çŸ¢ã‚¢ã‚­ãƒ©ã®äº‹æƒ…ï¼ˆãƒ’ã‚«ãƒ«ã®ç¢ï¼‰</a>
 </font>
 </th>
 <td>
-<a href="mailto:yays@geocities.co.jp">ƒ€ƒbƒVƒ…[</a>
+<a href="mailto:yays@geocities.co.jp">ãƒ ãƒƒã‚·ãƒ¥ãƒ¼</a>
 </td>
-<td id=td1>2001”N12ŒŽ08“ú(“y) 03Žž05•ª39•b</td>
+<td id=td1>2001å¹´12æœˆ08æ—¥(åœŸ) 03æ™‚05åˆ†39ç§’</td>
 <td align=right>
 1
 </td>
@@ -334,28 +334,28 @@ A{TEXT-DECORATION:NONE};
 </tr></table>
 </center><p>
 <table border=5 cellspacing=5 align=center><tr>
-<form method="post" action="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi">
+<form method="post" action="anthologys.cgi">
 <input type=hidden name=action value="home">
 <td>
 <input type=submit value=" HOME " class="d1">
 </td>
 </form>
-<form method="post" action="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi">
+<form method="post" action="anthologys.cgi">
 <input type=hidden name=action value="form">
 <td>
-<input type=submit value=" V‹K“Še " class="d1">
+<input type=submit value=" æ–°è¦æŠ•ç¨¿ " class="d1">
 </td>
 </form>
 <th bgcolor=#ffffff>
-ì•i‚Í‚±‚±‚Ü‚Å‚Å‚·B
+ä½œå“ã¯ã“ã“ã¾ã§ã§ã™ã€‚
 </th>
 </tr></table><br>
 <hr>
 </center>
-<form method="post" action="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi">
+<form method="post" action="anthologys.cgi">
 <input type=hidden name="action" value="sentaku">
 <input type=hidden name="log" value="">
 PASSWORD <input type=password name="pwd" size=10>
-<input type=submit value="ŠÇ—ŽÒ—p" class="d1"></form>
+<input type=submit value="ç®¡ç†è€…ç”¨" class="d1"></form>
 <div align=right><address><font size=3><a href="http://www2s.biglobe.ne.jp/~yasuu/cgi.html" target="_top">Anthologys V2.3  Script by YASUU!!</a></font></address></div>
 </body></html>

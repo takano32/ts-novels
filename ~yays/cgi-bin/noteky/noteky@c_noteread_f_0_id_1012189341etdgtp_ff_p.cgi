@@ -1,156 +1,156 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1012189341etdgtp&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1012189341etdgtp_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�J���I�P��</font><br>
+<font size="+2" color="#0000FF">カラオケ♪</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/01/28 12:42:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/01/28 12:42:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012189341etdgtp&id2=1012189341etdgtp&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012189341etdgtp_id2_1012189341etdgtp_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/28125742/karaoke.htm" target="_blank">��i��ǂނɂ͂������N���b�N </a></strong>  <i>2002/01/28 18:44:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/28125742/karaoke.htm" target="_blank">作品を読むにはここをクリック </a></strong>  <i>2002/01/28 18:44:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012211083nendmb&id2=1012189341etdgtp&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012211083nendmb_id2_1012189341etdgtp_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ȃ}�X�N����������ȁ`�i��]�j�@��(^_^;)
+そんなマスクがあったらな～（願望）　σ(^_^;)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2002/01/28 20:19:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2002/01/28 20:19:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012216793qvsyx&id2=1012189341etdgtp&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012216793qvsyx_id2_1012189341etdgtp_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ӂ��`����B�������낢�B��񂵂��g���Ȃ��}�X�N�Ȃ�Ă��������Ȃ����ǁA�����ق����Ȃ��B<BR>�}�X�N�ő̌`���ς��Ȃ�āE�E�E<BR>���̃}�X�N�V���[�Y�B�����܂���ˁB�����Ƃ����Ȑl�̎g�p����݂����Ȃ��B
+さいふぁ～さん。おもしろい。一回しか使えないマスクなんてもったいないけど、私もほしいなぁ。<BR>マスクで体形も変わるなんて・・・<BR>このマスクシリーズ。続きますよね。もっといろんな人の使用例をみたいなあ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2002/01/28 20:41:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>美和</strong>  <i>2002/01/28 20:41:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012218087rjjhxa&id2=1012189341etdgtp&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012218087rjjhxa_id2_1012189341etdgtp_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�g�J�Q�l�Ԃ��Č������Ƃ���ł����H���̂��b�́B<BR>�E����J��Ԃ��Ă������Ŗ{�Ƃ̎����̐���������Ȃ������ɂȂ���<BR>���܂�����A���\�ʔ��������B�����Ăق�Ƃ͒j�Ȃ́H���Ȃ́H<BR>�l�͂ق�Ƃ͏��Ȃ́H����Ƃ��j�H���Č��������B
+トカゲ人間って言ったところですか？このお話は。<BR>脱皮を繰り返していく中で本との自分の性が分からない感じになって<BR>しまったら、結構面白いかも。私ってほんとは男なの？女なの？<BR>僕はほんとは女なの？それとも男？って言う感じ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ђ�</strong>  <i>2002/01/28 20:43:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ひな</strong>  <i>2002/01/28 20:43:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012218202qjlhaov&id2=1012189341etdgtp&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012218202qjlhaov_id2_1012189341etdgtp_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʂ����[�[�I�I�T�C�t�@�[���񂶂�Ȃ��ł����I<BR>�J���I�P�A�ʔ��������ł���B<BR>�����Ɣ�l�^���c
+ぬぅぁーー！！サイファーさんじゃないですか！<BR>カラオケ、面白かったですよ。<BR>もっと皮ネタを…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/28 20:59:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/28 20:59:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012219161wihgcvk&id2=1012189341etdgtp&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012219161wihgcvk_id2_1012189341etdgtp_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́I<BR>�Z���̂ɂ���ȂɔZ���Ƃ͋����B<BR>���ɖʔ��������ł��B<BR>���̃J�b�v���A����ǂ��Ȃ��Ă��܂��̂ł��傤�˂��B<BR>�Ȃ��Ȃ��̉�������肪�Ƃ��������܂����B
+読んだバイ♪<BR>わっはっは！<BR>短いのにこんなに濃いとは驚き。<BR>実に面白かったです。<BR>このカップル、今後どうなってしまうのでしょうねぇ。<BR>なかなかの怪作をありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:fukidamari@kigurumi.net" target="_blank">�܂�</a></strong>  <i>2002/01/28 23:19:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:fukidamari@kigurumi.net" target="_blank">まり</a></strong>  <i>2002/01/28 23:19:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012227566oelha&id2=1012189341etdgtp&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012227566oelha_id2_1012189341etdgtp_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ������ǒZ���I�@�����`�A�����Ɠǂ݂����悧�`�`���I<BR>����͂���ς�V���[�Y���H�I�i�O�O�G�j
+面白いけど短い！　あぅ～、もっと読みたいよぉ～～っ！<BR>これはやっぱりシリーズ化？！（＾＾；）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/01/29 23:41:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/01/29 23:41:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012315304ljhqmmu&id2=1012189341etdgtp&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012315304ljhqmmu_id2_1012189341etdgtp_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v�`�u�d�Q�H�H<BR><BR>�ꔭ�|�I�@�Z�䂢�I<BR><BR>�ϑ��҂̎��_������ӂ�A���\��߂ď����Ă܂���H
+ＷＡＶＥ２？？<BR><BR>一発芸！　濃ゆい！<BR><BR>観測者の視点がある辺り、結構冷めて書いてません？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����Ƃ�</strong>  <i>2002/01/30 22:03:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>西さとる</strong>  <i>2002/01/30 22:03:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012395827jdksesk&id2=1012189341etdgtp&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012395827jdksesk_id2_1012189341etdgtp_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�T�C�t�@�[�����悵��������́w�畨�x�����͌��\�ǂ܂��Ă�����Ă��܂��B�ł���΁A�j�����̔�𒅂鏬���΂���łȂ��A�����^��T�̔�𒅂鏬���������Ă݂Ă��炦�Ȃ��ł��傤���H<BR>
+　サイファーさんやよしおかさんの『皮物』小説は結構読ませてもらっています。できれば、男が女の皮を着る小説ばかりでなく、女が豹や狼の皮を着る小説も書いてみてもらえないでしょうか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�T�C�t�@�[</strong>  <i>2002/01/30 22:37:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>サイファー</strong>  <i>2002/01/30 22:37:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012397840ekiuicb&id2=1012189341etdgtp&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012397840ekiuicb_id2_1012189341etdgtp_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ƃ邳��˃i�C�X�˂����݁I���̎q�ɕϐg���邱�Ƃ΂�����l���ĂāA�������������ɂ��ĉ����l���Ă܂���ł����B�����������낻���c���̃z�[���y�[�W�̍�i�ŁA�o�ꂳ�������ȁB<BR>ALL�˂݂Ȃ���A���z���肪�Ƃ��������܂��B����ȍ�i�ł��݂Ȃ���Ɋ��ł��炦�Ė{���ǂ������ł��B
+さとるさん⇒ナイス突っ込み！女の子に変身することばっかり考えてて、そういう方向について何も考えてませんでした。何かおもしろそう…私のホームページの作品で、登場させたいな。<BR>ALL⇒みなさん、感想ありがとうございます。こんな作品でもみなさんに喜んでもらえて本当良かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����Ƃ�</strong>  <i>2002/01/31 20:04:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>西さとる</strong>  <i>2002/01/31 20:04:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012475066sgwhndg&id2=1012189341etdgtp&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012475066sgwhndg_id2_1012189341etdgtp_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�T�C�t�@�[����ւ̒ǐL<BR><BR>�@���́y�ؑタ���V���[�Y�@���b�f��z�́A���̃A�C�f�A�̃o���G�[�V�����̈�ł��B�ł���Γǂ�ł݂Ă��������B<BR>
+サイファーさんへの追伸<BR><BR>　私の【華代ちゃんシリーズ　怪獣映画】は、このアイデアのバリエーションの一つです。できれば読んでみてください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Β�</strong>  <i>2002/02/02 20:16:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>石塚</strong>  <i>2002/02/02 20:16:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012648598cbglq&id2=1012189341etdgtp&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012648598cbglq_id2_1012189341etdgtp_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Z���ɗU���ēǂ񂾍�i�ł����A�ق��I�I�Ɛ�����тłė���悤�ȓ��e�ɋ����܂����B<BR><BR>�o���Z�̂̂悤�ɒZ���̒��ɋ����𒍂����񂾂��̍�i�́A�{���ɂ悩�����ł�
+短さに誘われて読んだ作品ですが、ほう！！と声が飛びでて来るような内容に驚きました。<BR><BR>俳句や短歌のように短さの中に驚きを注ぎ込んだこの作品は、本当によかったです
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1012189341etdgtp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

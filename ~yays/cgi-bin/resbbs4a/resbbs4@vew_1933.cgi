@@ -1,110 +1,110 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�����L�̓T�C�g���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:国内有力サイト情報>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1931>
 <input type=hidden name=ress value=1933>
-<input type=submit value=�����L�̓T�C�g���֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=国内有力サイト情報へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1933>
-<font color=#6A5ACD>RE:�����L�̓T�C�g���</font></a>
+<font color=#6A5ACD>RE:国内有力サイト情報</font></a>
 <font color=#303030>
-���d�F���Ǘ��l
- ����</font>
- <font size=2>2003�N8��21��(��) 0��22��</font>
-<a href="resbbs4.cgi?vew=1933">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲＠管理人
+ さん</font>
+ <font size=2>2003年8月21日(木) 0時22分</font>
+<a href="resbbs4@vew_1933.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����N����܂������Ƃ͊m�F���ĂȂ���ł����A�X�L�����摜�̓��e�Ƃ��������łǂ����Ă��A���܂肨�����҂�ɂ͌��J�ł��Ȃ��T�C�g�Ȃ񂶂�Ȃ��ł��傤���B<br>�l�I�ɂ͂��܂苳����`�I�Ȃ��Ƃ��₩�܂�������������Ȃ���ł����A���̃T�C�g�̉^�c��|�I�ɁA�Ȃ�ׂ��u�������҂�ɂł��Ȃ��v�v�f�͔r���āAYahoo!�݂����ȃl�b�g�Љ�̕\�̑��Ɏ󂯓������T�C�g�^�c��ڎw���Ă�Ƃ�������������肵�܂��B<br>����ŁA�������炳��̎w�E���Ă�悤�Ȍf�����p�K������݂��Ă�킯�ł��B<br>���̂ւ񂲗�������������seta����<br>���łɂ����ƁA����̃P�[�X�̏ꍇ�A�����N���ꂽ�������܂�悭�v��Ȃ���������܂���ˁBURL���s�p�ӂɍL���o����Ă��܂����Ƃɂ�镾�Q�������ł��傤����B<br><br>�ʏ�̎�i�ł̓��肪��]�I�ȍ�i�Ɋւ��āA�l�b�g��ʂ��ăX�L�����摜�����ł��������Ǝv���̂͐l�̎��R�Ȋ���Ǝv���܂����A����ɂ͐F�X�Ɠ����肪���ĉ��̂������ł��B</font></ul>
+<ul><br><font size=3>リンク先をまだちゃんとは確認してないんですが、スキャン画像の投稿という部分でどうしても、あまりおおっぴらには公開できないサイトなんじゃないでしょうか。<br>個人的にはあまり教条主義的なことをやかましく言うつもりもないんですが、このサイトの運営趣旨的に、なるべく「おおっぴらにできない」要素は排して、Yahoo!みたいなネット社会の表の側に受け入れられるサイト運営を目指してるという事情があったりします。<br>それで、せうけらさんの指摘してるような掲示板利用規約も存在してるわけです。<br>このへんご理解ください＞setaさん<br>ついでにいうと、今回のケースの場合、リンクされた側もあまりよく思わないかもしれませんね。URLが不用意に広く出回ってしまうことによる弊害も多いでしょうから。<br><br>通常の手段での入手が絶望的な作品に関して、ネットを通じてスキャン画像だけでも見たいと思うのは人の自然な感情だと思いますが、それには色々と難しい問題がついて回るのも事実です。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1934>
-<font color=#6A5ACD>RE:�����L�̓T�C�g���</font></a>
+<font color=#6A5ACD>RE:国内有力サイト情報</font></a>
 <font color=#303030>
 seta
- ����</font>
- <font size=2>2003�N8��21��(��) 0��55��</font>
-<a href="resbbs4.cgi?vew=1934">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���p�K���݂܂����B<br>�����܂����肠��΍폜���ĉ������B<br>�摜�͂܂����ł������TS�A�ڍ�i�ɂ���<br>���z���ŏ�����ǂ߂�̂ŏЉ�܂����B<br>����TS��i�Ŗ��T�̊��z���X�L�����摜���������Ă�<br>�z�[���y�[�W�����Ă��̂Ŗ�肠��Ƃ͎v���܂���ł����B<br>�Ȍ�C�����܂�<br><br></font></ul>
+ さん</font>
+ <font size=2>2003年8月21日(木) 0時55分</font>
+<a href="resbbs4@vew_1934.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>利用規約よみました。<br>すいません問題あれば削除して下さい。<br>画像はまずいですが一つのTS連載作品について<br>感想が最初から読めるので紹介しました。<br>あるTS作品で毎週の感想をスキャン画像を実況してる<br>ホームページを見てたので問題あるとは思いませんでした。<br>以後気をつけます<br><br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1935>
-<font color=#6A5ACD>RE:�����L�̓T�C�g���</font></a>
+<font color=#6A5ACD>RE:国内有力サイト情報</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N8��21��(��) 23��58��</font>
-<a href="resbbs4.cgi?vew=1935">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���X���肪�Ƃ��������܂��B<br>URL�̏Љ����`�ړI�ȂǂłȂ��P�ӂł̏Љ�����̂�����A������Ƃ��Ă͂܂���������Ȃ����Ⴂ���Ȃ��ł���ˁB<br><br>�܂��A�摜�̖�������d�ȂƂ�����܂��B<br>�����̃T�C�g�ł���Ă鏑�]�R�[�i�[���A�����ȁu���p�v�Ƃ��Ă̗v���𖞂����Ă�Ƃ����O��ŉ摜�𗘗p���Ă邯�ǁA�������G�Ȓ��쌠�@�̏𕶂̑S�Ă��ꕔ�̌����Ȃ��N���A�[���Ă�Ƃ������M�͂Ȃ��ł��B������o�ŎЂȂ��҂���Ȃ�Ɂu����͒��쌠�N�Q�ł���v�Ǝw�E���ꂽ�ꍇ�A�u���p�v�̌��������ɑ������́A���݂܂���ł����Ɖ摜����艺����ق���I�ԂƎv���܂��B<br>����Ȃ킯�ŗ]���l�̉^�c���Ă�T�C�g�Ƃ��Ȃ�ƁA�摜�̉^�p����肠�邩�Ȃ����𔻒f����̂����J���A�Ƃ����̂��{���̂Ƃ���ł��B<br>��i�S�҂̏ڍׂȃX�L�������ڂ����Ă��肵����͂�����A�E�g�Ƃ������f�͂��܂����ǂˁB<br>�ł����č���͂Ƃ肠�����u���f�ۗ��v�Ƃ������Ƃɂ����Ă��������B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年8月21日(木) 23時58分</font>
+<a href="resbbs4@vew_1935.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>レスありがとうございます。<br>URLの紹介も宣伝目的などでなく善意での紹介だったのだから、こちらとしてはまず御礼を言わなくちゃいけないですよね。<br><br>まあ、画像の問題も紙一重なとこあります。<br>うちのサイトでやってる書評コーナーも、正当な「引用」としての要件を満たしてるという前提で画像を利用してるけど、正直複雑な著作権法の条文の全てを一部の隙もなくクリアーしてるという自信はないです。万が一出版社なり作者さんなりに「それは著作権侵害である」と指摘された場合、「引用」の権利を盾に争うよりは、すみませんでしたと画像を取り下げるほうを選ぶと思います。<br>そんなわけで余所様の運営してるサイトともなると、画像の運用が問題あるかないかを判断するのも一苦労だ、というのが本当のところです。<br>作品全編の詳細なスキャンを載っけてたりしたらはっきりアウトという判断はつきますけどね。<br>でもって今回はとりあえず「判断保留」ということにさせてください。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1946>
-<font color=#6A5ACD>RE:�����L�̓T�C�g���</font></a>
+<font color=#6A5ACD>RE:国内有力サイト情報</font></a>
 <font color=#303030>
-<a href=mailto:fragile@bg.mbn.or.jp>�܂�</a>
- ����</font>
- <font size=2>2003�N8��29��(��) 1��6��</font>
+<a href=mailto:fragile@bg.mbn.or.jp>まな</a>
+ さん</font>
+ <font size=2>2003年8月29日(金) 1時6分</font>
 <a href=http://www.rhizome.to/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1946">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ǂ��ARhizome�̊Ǘ��l�����Ă�A�܂ȂƐ\���܂��B<br>�Ȃ񂩁A���낢��Ƌc�_�ɂȂ��Ă��悤�Ȃ̂ŁA�����̌f���ł�<br>�x���������Ƃ��܂����B�l�I�ɂ͉摜���������ƂŁA���̍�i��<br>���ۂɍw������l�������āA��҂�o�ŎЂɗ��v���Ҍ������΂�����<br>�v����ł����ǁA�Â����Ȃ��E�E�E<br><br>���ƁA�����f�ɂȂ�Ȃ��̂ł���΃����N�͂����R�ɂǂ����B</font></ul>
+<a href="resbbs4@vew_1946.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ども、Rhizomeの管理人をしてる、まなと申します。<br>なんか、いろいろと議論になってたようなので、うちの掲示板でも<br>警告文をつけときました。個人的には画像を見たことで、その作品を<br>実際に購入する人が増えて、作者や出版社に利益が還元されればいいと<br>思うんですけど、甘いかなぁ・・・<br><br>あと、ご迷惑にならないのであればリンクはご自由にどうぞ。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1948>
-<font color=#6A5ACD>RE:�����L�̓T�C�g���</font></a>
+<font color=#6A5ACD>RE:国内有力サイト情報</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N8��30��(�y) 15��33��</font>
-<a href="resbbs4.cgi?vew=1948">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�܂Ȃ���A����ɂ��́I�Ǘ��l�̔��d�F�ł��B<br><br>���X���������Ă��̂ɋC�t���Ȃ����Ă��Ԏ��x��Ă��݂܂���ł����B<br>Rhizome����̂ق������ƌ��ĂȂ������ɐF�X�������ĂāA�ꕔ����Ȃ��Ƃ������Ă��܂����݂܂���ł����B���܂Ȃ���<br><br>���l�I�ɂ͉摜���������ƂŁA���̍�i�����ۂɍw������l�������āA<br>����҂�o�ŎЂɗ��v���Ҍ�������<br><br>Rhizome����̂Ƃ��͂����������͋C�����Ă����ł���ˁB<br>���ꂩ����^�c�撣���Ă��������A�������Ă܂��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年8月30日(土) 15時33分</font>
+<a href="resbbs4@vew_1948.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>まなさん、こんにちは！管理人の八重洲です。<br><br>レスいただいてたのに気付かなくってお返事遅れてすみませんでした。<br>Rhizomeさんのほうちゃんと見てないうちに色々発言してて、一部失礼なことも言ってしまいすみませんでした。＞まなさん<br><br>＞個人的には画像を見たことで、その作品を実際に購入する人が増えて、<br>＞作者や出版社に利益が還元されれば<br><br>Rhizomeさんのとこはそういう雰囲気あっていいですよね。<br>これからも運営頑張ってください、応援してます。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -113,7 +113,7 @@ seta
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

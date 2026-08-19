@@ -1,119 +1,119 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�ˑR�Ő\����Ȃ��̂ł���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:突然で申し訳ないのですが>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1221>
 <input type=hidden name=ress value=1221>
-<input type=submit value=�ˑR�Ő\����Ȃ��̂ł����֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=突然で申し訳ないのですがへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1221>
-<font color=#6A5ACD>�ˑR�Ő\����Ȃ��̂ł���</font></a>
+<font color=#6A5ACD>突然で申し訳ないのですが</font></a>
 <font color=#303030>
 GREEN
- ����</font>
- <font size=2>2001�N9��10��(��) 17��42��</font>
-<a href="resbbs4.cgi?vew=1221">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2001年9月10日(月) 17時42分</font>
+<a href="resbbs4@vew_1221.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3><a href=http://members.tripod.co.jp/efamoby/links/exchg/exchg.jpg target=_top>http://members.tripod.co.jp/efamoby/links/exchg/exchg.jpg</a><br>���̃Q�[���ɂ��ďڍׂ������m�̕��͂�������Ⴂ�܂���ł��傤���H<br>�������ꂽ�̂Ȃ�Ύ�ɓ��ꂽ���Ǝv���Ă���̂ł����c�c�B</font></ul>
+<ul><br><font size=3><a href=http://members.tripod.co.jp/efamoby/links/exchg/exchg.jpg target=_top>http://members.tripod.co.jp/efamoby/links/exchg/exchg.jpg</a><br>このゲームについて詳細をご存知の方はいらっしゃいませんでしょうか？<br>発売されたのならば手に入れたいと思っているのですが……。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1222>
-<font color=#6A5ACD>����܂��Â����̂��E�E�E</font></a>
+<font color=#6A5ACD>これまた古いものを・・・</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2001�N9��10��(��) 22��48��</font>
-<a href="resbbs4.cgi?vew=1222">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����͂d�|�k�n�f�h�m�n���Q���i�P�X�X�T�N�P�P�����j�̋L���ł��B<br>�c�O�Ȃ��甭������܂���ł����B<br>�G���Q�[�ƊE�͊J�����~��|�Y�͂�����܂��Ȃ�ŁB</font></ul>
+徳則
+ さん</font>
+ <font size=2>2001年9月10日(月) 22時48分</font>
+<a href="resbbs4@vew_1222.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>これはＥ－ＬＯＧＩＮ創刊２号（１９９５年１１月号）の記事です。<br>残念ながら発売されませんでした。<br>エロゲー業界は開発中止や倒産はあたりまえなんで。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1223>
-<font color=#6A5ACD>RE:����܂��Â����̂��E�E�E</font></a>
+<font color=#6A5ACD>RE:これまた古いものを・・・</font></a>
 <font color=#303030>
 GREEN
- ����</font>
- <font size=2>2001�N9��11��(��) 9��16��</font>
-<a href="resbbs4.cgi?vew=1223">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����A�����Ȃ̂ł����c�c�c�O�ł��B<br>�킴�킴�ǂ������肪�Ƃ��������܂����B<br>����ɂ��Ă������Ƃ��߂������܂��恛�����A<br>���������Q�[���̌��������Ă����Ƃ́c�c�B</font></ul>
+ さん</font>
+ <font size=2>2001年9月11日(火) 9時16分</font>
+<a href="resbbs4@vew_1223.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ああ、そうなのですか……残念です。<br>わざわざどうもありがとうございました。<br>それにしても今をときめくあ○まきよ○こが、<br>こういうゲームの原画をやっていたとは……。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1225>
-<font color=#6A5ACD>RE:����܂��Â����̂��E�E�E</font></a>
+<font color=#6A5ACD>RE:これまた古いものを・・・</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2001�N9��12��(��) 13��37��</font>
-<a href="resbbs4.cgi?vew=1225">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����A�P�X�X�T�N�P�P�������đn�����ł����B<br>����Ȃ킯�ŁA����͑n�����̋L���ł��B<br>&gt;�����܂��恛��<br>�����@���̌�������Ă����Ȃ񂷂��I�H<br>�������ɏ���Ȃ񂩁@��݂��ۂ����ǁc�c</font></ul>
+徳則
+ さん</font>
+ <font size=2>2001年9月12日(水) 13時37分</font>
+<a href="resbbs4@vew_1225.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>失礼、１９９５年１１月号って創刊号でした。<br>そんなわけで、これは創刊号の記事です。<br>&gt;あ○まきよ○こ<br>えっ　序の口譲二ってそうなんすか！？<br>たしかに女医なんか　よみっぽいけど……</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1226>
-<font color=#6A5ACD>RE:����܂��Â����̂��E�E�E</font></a>
+<font color=#6A5ACD>RE:これまた古いものを・・・</font></a>
 <font color=#303030>
-�т��
- ����</font>
- <font size=2>2001�N9��12��(��) 17��30��</font>
-<a href="resbbs4.cgi?vew=1226">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�Ȃ񂩔�������Ă���AXchange�ɕ���TSF��i�ɂȂ�����������Ȃ��̂ɂ˂��E�E<br>�c�O�I�I</font></ul>
+びゅの
+ さん</font>
+ <font size=2>2001年9月12日(水) 17時30分</font>
+<a href="resbbs4@vew_1226.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>なんか発売されてたら、Xchangeに並ぶTSF作品になったかもしれないのにねぇ・・<br>残念！！</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1229>
-<font color=#6A5ACD>���̌��E�E�B</font></a>
+<font color=#6A5ACD>序の口・・。</font></a>
 <font color=#303030>
-�ԃ}���g
- ����</font>
- <font size=2>2001�N9��12��(��) 19��25��</font>
-<a href="resbbs4.cgi?vew=1229">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b></b>�z</font>
-<ul><font size=3>�����ł���A�����܂��恛�����ł��B<br>���������N�R�~�b�N�X�����̖��O�ŏo�Ă��܂���B<br><br>���Ɗ֌W�Ȃ����ǂ����܂񂪁����̓��l���̔��ʖ@�B<br>�\�����u��v�A�u�_�y�v�̏ꍇ���N����<br>�\�����u����v�A�u���v�̏ꍇ�M���O�{�Ƃ����������l�I���z�Ȃ��瑽���Ǝv���B<br><br></font></ul>
+赤マント
+ さん</font>
+ <font size=2>2001年9月12日(水) 19時25分</font>
+<a href="resbbs4@vew_1229.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b></b>】</font>
+<ul><font size=3>そうですよ、あ○まきよ○こ氏です。<br>たしか成年コミックスもこの名前で出ていますよ。<br><br>あと関係ないけどあ○まんが○王の同人誌の判別法。<br>表紙が「榊」、「神楽」の場合成年向け<br>表紙が「ちよ」、「大阪」の場合ギャグ本という割合が個人的感想ながら多いと思う。<br><br></font></ul>
 <HR>
 </ul>
 </ul>
@@ -121,7 +121,7 @@ GREEN
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

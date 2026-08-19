@@ -1,7 +1,7 @@
 <Html Lang="ja">
 <Head>
 <Title>1GBレンタルサーバー・プロバイダー Amusement BiG-NET | www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002023656ucmwd&ff=on</Title>
-<Meta Http-equiv="content-type" Content="text/html; charset=utf-8">
+<Meta Http-equiv="content-type" Content="text/html; charset=UTF-8">
 <LINK href="/styles.css" rel=stylesheet type=text/css>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
@@ -19,7 +19,7 @@
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = "("'https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -53,7 +53,7 @@
 いつも弊社ユーザーのページにアクセスをして頂きましてありがとうございます。
 <BR>
 <BR>
-<Font Class="topics">http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002023656ucmwd&ff=on</FONT>
+<Font Class="topics">noteky@c_noteread_f_1_id_1002023656ucmwd_ff_on.cgi</FONT>
 <Br>
 <FONT COLOR=RED Size="+2" Class="error18">500 Server error</FONT><Br><FONT COLOR=RED Class="error">(何らかのエラーです)</FONT>
 <Br>

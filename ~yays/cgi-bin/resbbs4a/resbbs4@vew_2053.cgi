@@ -1,108 +1,108 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:����́A�ǂ����ȁH���Ȃ薢�m�肾��>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:これは、どうかな？かなり未確定だが>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2053>
 <input type=hidden name=ress value=2053>
-<input type=submit value=����́A�ǂ����ȁH���Ȃ薢�m�肾���֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=これは、どうかな？かなり未確定だがへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2053>
-<font color=#6A5ACD>����́A�ǂ����ȁH���Ȃ薢�m�肾��</font></a>
+<font color=#6A5ACD>これは、どうかな？かなり未確定だが</font></a>
 <font color=#303030>
-<a href=mailto:ndcss@mtd.biglobe.ne.jp>���ƂԂ��Ђ���</a>
- ����</font>
- <font size=2>2003�N11��18��(��) 20��45��</font>
+<a href=mailto:ndcss@mtd.biglobe.ne.jp>ことぶきひかる</a>
+ さん</font>
+ <font size=2>2003年11月18日(火) 20時45分</font>
 <a href=http://www2s.biglobe.ne.jp/~ndcss/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2053">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>���^�����L�X�A�ʂ����đ�R�b�ŏI���Ȃ̂��H</b>�z</font>
+<a href="resbbs4@vew_2053.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>メタモ☆キス、果たして第３話で終わりなのか？</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�l�����a���i���C�r�[�j�\�t�g����A<br>���N�Q�����ɔ����\��́u�ւ񂵁`��I�v<br>�^�C�g�����炵�āA�͂���̉\�������ґ�ł����A<br>�ꉞ�A��l���́A�L�̉��Ԃ��ŕϐg�\�͂�^������Ƃ������Ƃł��B<br><br><br><br>���ǁA�܂������Ȃ��Љ�b�f���ƁA���������ƁA�l�O�̃��m�ւ�<br>�ϐg�̉\�����B<br></font></ul>
+<ul><br><font size=3>ＭａｙＢｅ（メイビー）ソフトから、<br>来年２月頃に発売予定の「へんし～ん！」<br>タイトルからして、はずれの可能性が期待大ですが、<br>一応、主人公は、猫の恩返しで変身能力を与えられるということです。<br><br><br><br>けど、まだ数少ない紹介ＣＧだと、下手をすると、人外のモノへと<br>変身の可能性も。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2071>
-<font color=#6A5ACD>RE:����́A�ǂ����ȁH���Ȃ薢�m�肾��</font></a>
+<font color=#6A5ACD>RE:これは、どうかな？かなり未確定だが</font></a>
 <font color=#303030>
-�܂�
- ����</font>
- <font size=2>2003�N12��1��(��) 2��14��</font>
-<a href="resbbs4.cgi?vew=2071">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�삭��ɏ��_�̏j�����Q</b>�z</font>
-<ul><font size=3>����ق�ƎG���f�ڕ����o�Ă��Ă܂��B�Љ�ǂނƔ񐶕��̕ϐg���C�����ۂ��̂ł���....�B<br>�p�\�p��(P176)�̂̓u���W���[�ɕϐg���Ă�̂��A�����l�ԂȂ̂���Ȃ̂��ǂ��킩��܂���ˁB�������Ə��o�Ȃ��Ɣ��f�ł��Ȃ��Ȃ��B<br></font></ul>
+まさ
+ さん</font>
+ <font size=2>2003年12月1日(月) 2時14分</font>
+<a href="resbbs4@vew_2071.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>護くんに女神の祝福を２</b>】</font>
+<ul><font size=3>ちらほらと雑誌掲載分が出てきてます。紹介文読むと非生物の変身メインっぽいのですが....。<br>パソパラ(P176)のはブラジャーに変身してるのか、透明人間なのか手なのか良くわかりませんね。もちっと情報出ないと判断できないなぁ。<br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=2128>
-<font color=#6A5ACD>RE:����́A�ǂ����ȁH���Ȃ薢�m�肾��</font></a>
+<font color=#6A5ACD>RE:これは、どうかな？かなり未確定だが</font></a>
 <font color=#303030>
-<a href=mailto:ndcss@mtd.biglobe.ne.jp>���ƂԂ��Ђ���</a>
- ����</font>
- <font size=2>2004�N1��16��(��) 21��17��</font>
+<a href=mailto:ndcss@mtd.biglobe.ne.jp>ことぶきひかる</a>
+ さん</font>
+ <font size=2>2004年1月16日(金) 21時17分</font>
 <a href=http://www2s.biglobe.ne.jp/~ndcss/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2128">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�ߏ�ƌ������ƂŁA�����˗l�łb�g�t</b>�z</font>
-<ul><font size=3>���C�r�[�\�t�g�̂g�o<br><br><a href=http://www.lievre.jp/ target=_top>http://www.lievre.jp/</a><br><br>�X�V���āA�悤�₭�����J���n�܂����킯�ł����A<br>��͂�Ƃ����ׂ����A�񐶖��̂ւ̕ϐg�i�A�C�X�Ƃ���тƂ��j��<br>���C���̂悤�ł��B<br><br>���l�^�ł���������A�s�r�������Ă���Ȃ�����<br>�������܂������ҁB</font></ul>
+<a href="resbbs4@vew_2128.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>近場と言うことで、おきつね様でＣＨＵ</b>】</font>
+<ul><font size=3>メイビーソフトのＨＰ<br><br><a href=http://www.lievre.jp/ target=_top>http://www.lievre.jp/</a><br><br>更新して、ようやく情報公開が始まったわけですが、<br>やはりというべきか、非生命体への変身（アイスとか包帯とか）が<br>メインのようです。<br><br>小ネタでもいいから、ＴＳが入ってくれないかと<br>未練がましく期待。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2139>
-<font color=#6A5ACD>�T���v���b�f</font></a>
+<font color=#6A5ACD>サンプルＣＧ</font></a>
 <font color=#303030>
-<a href=mailto:ndcss@mtd.biglobe.ne.jp>���ƂԂ��Ђ���</a>
- ����</font>
- <font size=2>2004�N2��3��(��) 20��0��</font>
+<a href=mailto:ndcss@mtd.biglobe.ne.jp>ことぶきひかる</a>
+ さん</font>
+ <font size=2>2004年2月3日(火) 20時0分</font>
 <a href=http://www2s.biglobe.ne.jp/~ndcss/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2139">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>��y�Ƃڂ��@�\�񂵂Ă��܂����B</b>�z</font>
-<ul><font size=3>�T���v���b�f�̂����Ă݂���<br>�E���ォ��T�i�ڂɂāA�Ȃ񂩃o�[�r�[���̐l�`�ƃA���R���E�E<br>�Ȃ�ăV�[��������܂����B<br>�l�`���Ƃs�r�Ƃ����̂͂�����Ƌꂵ�����ȁE�E�E<br></font></ul>
+<a href="resbbs4@vew_2139.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>先輩とぼく　予約してきました。</b>】</font>
+<ul><font size=3>サンプルＣＧのぞいてみたら<br>右側上から５段目にて、なんかバービー風の人形とアレコレ・・<br>なんてシーンがありました。<br>人形だとＴＳというのはちょっと苦しいかな・・・<br></font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

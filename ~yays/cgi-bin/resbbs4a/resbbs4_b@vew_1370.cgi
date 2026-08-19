@@ -1,95 +1,95 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�Ƃ肠�����T�C�g��|�Ƃ͂���܂���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:とりあえずサイト趣旨とはずれますが>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1370>
 <input type=hidden name=ress value=1370>
-<input type=submit value=�Ƃ肠�����T�C�g��|�Ƃ͂���܂����֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=とりあえずサイト趣旨とはずれますがへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1370>
-<font color=#6A5ACD>�Ƃ肠�����T�C�g��|�Ƃ͂���܂���</font></a>
+<font color=#6A5ACD>とりあえずサイト趣旨とはずれますが</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N1��22��(��) 8��55��</font>
-<a href="resbbs4_b.cgi?vew=1370">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�~�X�t���̙\�ۂ��񏗂̎q��</b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2002年1月22日(火) 8時55分</font>
+<a href="resbbs4_b@vew_1370.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>ミスフルの兔丸たん女の子化</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>��T�ԂԂ�̃W�����v�B<br>�~�X�t���̙\�ۂ���G�ց`�`�I�@��҂̎v���c�{�ƒm��G��<br>������������A�t���o�̍g�t����Ƃ����\�L�����͂������������I</font></ul>
+<ul><br><font size=3>二週間ぶりのジャンプ。<br>ミスフルの兔丸たん萌へ～～！　作者の思うツボと知りつつ萌え<br>あああんもう、フルバの紅葉たんといい兔キャラはおいしすぎっ！</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1371>
-<font color=#6A5ACD>RE:�Ƃ肠�����T�C�g��|�Ƃ͂���܂���</font></a>
+<font color=#6A5ACD>RE:とりあえずサイト趣旨とはずれますが</font></a>
 <font color=#303030>
 MASATO
- ����</font>
- <font size=2>2002�N1��23��(��) 1��33��</font>
-<a href="resbbs4_b.cgi?vew=1371">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�Q�����G���Q�[�̖^�X��</b>�z</font>
-<ul><font size=3>�E�����łł����C����͉߂��܂������H<br>����̃��[���̌��́{�P�`�Qweek�ɂȂ肻���ł�<br></font></ul>
+ さん</font>
+ <font size=2>2002年1月23日(水) 1時33分</font>
+<a href="resbbs4_b@vew_1371.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>２ｃｈエロゲー板の某スレ</b>】</font>
+<ul><font size=3>脱線ついでですが修羅場は過ぎましたか？<br>先日のメールの件は＋１～２weekになりそうです<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1372>
-<font color=#6A5ACD>RE:�Ƃ肠�����T�C�g��|�Ƃ͂���܂���</font></a>
+<font color=#6A5ACD>RE:とりあえずサイト趣旨とはずれますが</font></a>
 <font color=#303030>
 yays
- ����</font>
- <font size=2>2002�N1��23��(��) 7��48��</font>
-<a href="resbbs4_b.cgi?vew=1372">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>&gt; �E�����łł���<br><br>�e�ۂ���G���ۂƂ������Ă鐸�_�󋵂���@���Ă�����Ȃ����܂��B<br>����ƁA�������̃��[���������̂͐�����ɂȂ肻���ł��B</font></ul>
+ さん</font>
+ <font size=2>2002年1月23日(水) 7時48分</font>
+<a href="resbbs4_b@vew_1372.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>&gt; 脱線ついでですが<br><br>兎丸たん萌えぽとかいってる精神状況から察しておくんなさいまし。<br>それと、自分宛のメールを見れるのは数日後になりそうです。</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

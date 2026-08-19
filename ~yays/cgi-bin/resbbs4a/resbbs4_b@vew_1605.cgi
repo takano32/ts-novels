@@ -1,115 +1,115 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���f��������>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:お伺いしたい>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1605>
 <input type=hidden name=ress value=1605>
-<input type=submit value=���f���������֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=お伺いしたいへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1605>
-<font color=#6A5ACD>���f��������</font></a>
+<font color=#6A5ACD>お伺いしたい</font></a>
 <font color=#303030>
-����@�׉�
- ����</font>
- <font size=2>2002�N11��24��(��) 16��43��</font>
-<a href="resbbs4_b.cgi?vew=1605">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�m��</b>�z</font>
+野口　泰嘉
+ さん</font>
+ <font size=2>2002年11月24日(日) 16時43分</font>
+<a href="resbbs4_b@vew_1605.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>Ｎ氏</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�Ȃ�ł��w�����������x�I�s�r�}���K���A�T���`�����s�����������Ƃ͎v�����A�ڂ��Ă���ƕ������B�P�s�{�����o�邩�A�ǂȂ��������m�������ˁH</font></ul>
+<ul><br><font size=3>なんでも『いっこく堂』的ＴＳマンガが、週刊チャンピョンだったとは思うが連載していると聞いた。単行本がいつ出るか、どなたかご存知無いかね？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1606>
-<font color=#6A5ACD>RE:���f��������</font></a>
+<font color=#6A5ACD>RE:お伺いしたい</font></a>
 <font color=#303030>
 IWANORI
- ����</font>
- <font size=2>2002�N11��25��(��) 0��42��</font>
-<a href="resbbs4_b.cgi?vew=1606">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���Ԃ񂻂�̓T���f�[�A�ڂ́u�����̓��X�v�̂��Ƃł͂Ȃ����Ǝv���܂����c<br>����͂s�r�ł͂Ȃ��ł��B<br>�q���C���̔��������͂��钩�ڂ����߂���X�L�Ȑl�̉E��ɂȂ��Ă��A�Ƃ���<br>�b�ŁA�ޏ��͌����珗�̎q�ł��B<br><br>�c���A�Y��Ă܂����B�n�W���}�V�e�B</font></ul>
+ さん</font>
+ <font size=2>2002年11月25日(月) 0時42分</font>
+<a href="resbbs4_b@vew_1606.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>たぶんそれはサンデー連載の「美鳥の日々」のことではないかと思いますが…<br>あれはＴＳではないです。<br>ヒロインの美鳥ちゃんはある朝目がさめたらスキな人の右手になってた、という<br>話で、彼女は元から女の子です。<br><br>…あ、忘れてました。ハジメマシテ。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1607>
-<font color=#6A5ACD>RE:���f��������</font></a>
+<font color=#6A5ACD>RE:お伺いしたい</font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2002�N11��25��(��) 7��58��</font>
-<a href="resbbs4_b.cgi?vew=1607">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�ł̐��Q</b>�z</font>
-<ul><font size=3>�������͋M���̂ЂƁH<br>�Ƃ肠�����l�ɂ��̂�q�˂�Ƃ��͂��̌��������߂����������Ǝv����B</font></ul>
+通りすがり
+ さん</font>
+ <font size=2>2002年11月25日(月) 7時58分</font>
+<a href="resbbs4_b@vew_1607.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>闇の声２</b>】</font>
+<ul><font size=3>野口さんは貴族のひと？<br>とりあえず人にものを尋ねるときはその口調を改めた方がいいと思うよ。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1608>
-<font color=#6A5ACD>RE:���f��������</font></a>
+<font color=#6A5ACD>RE:お伺いしたい</font></a>
 <font color=#303030>
-�m��
- ����</font>
- <font size=2>2002�N11��25��(��) 18��0��</font>
-<a href="resbbs4_b.cgi?vew=1608">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�H</b>�z</font>
-<ul><font size=3>�Ȃ�قǁE�E�E�B�܂��A�P�s�{�̂ق��͏o�Ȃ��Ƃ��������B�h�v�`�m�n�q�h��,���@�̂���,���Ɋ��ӂ���I<br><br>�ʂ肷���莁�A���̌������M���̋C����ł��ꂽ�̂Ȃ�,�\���󖳂��B����,���͂��̂悤�Ȍ����ŕ��͂���邱�Ƃ������B����,�������Ē��������B�����A�ܘ_���̕��őf���炵���s�r��񂪓�������A�����Ɍ�f�����悤�B</font></ul>
+Ｎ氏
+ さん</font>
+ <font size=2>2002年11月25日(月) 18時0分</font>
+<a href="resbbs4_b@vew_1608.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>？</b>】</font>
+<ul><font size=3>なるほど・・・。まだ、単行本のほうは出ないという事か。ＩＷＡＮＯＲＩ氏,除法のご提供,誠に感謝する！<br><br>通りすがり氏、私の口調が貴方の気分を毒されたのなら,申し訳無い。何分,私はこのような口調で文章を語ることが多い。何卒,分かって頂きたい。ああ、勿論私の方で素晴らしいＴＳ情報が入ったら、すぐに御掲示しよう。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1609>
-<font color=#6A5ACD>RE:���f��������</font></a>
+<font color=#6A5ACD>RE:お伺いしたい</font></a>
 <font color=#303030>
-�����������₫
- ����</font>
- <font size=2>2002�N11��26��(��) 10��20��</font>
-<a href="resbbs4_b.cgi?vew=1609">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�\����Ȃ��Ƃ����Ȃ�A���߂܂��傤��B<br>��V�Ƃ����̂͑�؂ł���B�������������ŏ������݂����Ȃ�<br>���������̂��W�܂��Ă��ł��ׂ����Ǝv���܂���B<br><br>���������A���͂������ɕς����c�c</font></ul>
+おせっかいやき
+ さん</font>
+ <font size=2>2002年11月26日(火) 10時20分</font>
+<a href="resbbs4_b@vew_1609.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>申し訳ないというなら、改めましょうよ。<br>礼儀というのは大切ですよ。そういう口調で書き込みたいなら<br>そういうのが集まってる場でやるべきだと思いますよ。<br><br>だいたい、文章が微妙に変だし……</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

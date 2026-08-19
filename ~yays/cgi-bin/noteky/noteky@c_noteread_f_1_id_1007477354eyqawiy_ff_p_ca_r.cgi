@@ -1,85 +1,85 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&id=1007477354eyqawiy&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_id_1007477354eyqawiy_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���߉�Ă��̃y�[�W</font><br>
+<font size="+2" color="#0000FF">お節介焼きのページ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/12/04 23:49:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/12/04 23:49:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007477354eyqawiy&id2=1007477354eyqawiy&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007477354eyqawiy_id2_1007477354eyqawiy_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������ƂŁi���j�B<BR>�u���S�҂n�m�k�x�y�[�W�v�Ɍ��o�����������߉�Ă��݂̂Ȃ���A�����𗘗p���Ă��������i�΁j�B<BR>���S�҂݂̂Ȃ���A�����̃X���b�h�͎Q�l�ɂȂ�u�����v����܂���i���j�B���܂ɂ͔`���Ă��������ˁB
+そういうことで（爆）。<BR>「初心者ＯＮＬＹページ」に口出ししたいお節介焼きのみなさん、ここを利用してください（笑）。<BR>初心者のみなさん、ここのスレッドは参考になる「かも」しれません（爆）。たまには覗いてくださいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/12/04 23:56:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/12/04 23:56:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007477812iygaao&id2=1007477354eyqawiy&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007477812iygaao_id2_1007477354eyqawiy_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������ł����A�u���S�ҁv����A�l�R����̃J�L�R�B<BR><BR>��������ƊF����ɕ����������Ƃ��A����܂��āB<BR>������͂ƌ����ƁA�����Ȃ񂩂��������ɂǂ������\�t�g���g���ā�����̂�������Ƌ���������܂��āB<BR>���@�����͈ꑾ�Y�iATOK�j�����p���Ă��܂����A�F����͂ǂ��Ȃ�ł��傤�H<BR>���@�����������ɂ͂��ꂪ��Ԃ��Č����̂͂����ł��傤���H <BR><BR>���^�N�V�͂g�o���쐬���Ă��邽�߁A���͏����̓l�b�g�ɃA�b�v���邱�Ƃ�O��ɂ��Ă��܂��B<BR>����āA�g�p�\�t�g�͂g�o�쐬�\�t�g���uFront Page Express 2.0�v�AIME�́uATOK11�v�ƂȂ��Ă��܂��B<BR>�uFPE�v�͈ȑO��Microsoft�̂g�o����_�E�����[�h�ł����̂ł����A���͒u���Ă��Ȃ��悤�ł��B�̂�IE�ɂ͓�������Ă�����ł����ǂˁ[�B<BR>�uATOK11�v�́u�ꑾ�Y�W�v�̕��Ȃ̂ł����A�{�̂ł���u�ꑾ�Y�W�v�͑S���ƌ����Ă����قǎg�p���Ă���܂���B<BR>����Ȋ����ł����A�������ł����H<BR>���݂̂Ȃ���͂ǂ̂悤�Ȋ��ō�i���M���s���Ă�����̂��A����������܂��ˁ[�B
+さっそくですが、「初心者」から、Ｍ３さんのカキコ。<BR><BR>＞ちょっと皆さんに聞きたいことが、ありまして。<BR>＞それはと言うと、小説なんかを書く時にどういうソフトを使って＞いるのかちょっと興味がありまして。<BR>＞　自分は一太郎（ATOK）を愛用していますが、皆さんはどうなんでしょう？<BR>＞　文書を書くにはこれが一番って言うのはあるんでしょうか？ <BR><BR>ワタクシはＨＰを作成しているため、文章書きはネットにアップすることを前提にしています。<BR>よって、使用ソフトはＨＰ作成ソフトが「Front Page Express 2.0」、IMEは「ATOK11」となっています。<BR>「FPE」は以前はMicrosoftのＨＰからダウンロードできたのですが、今は置いていないようです。昔のIEには同梱されていたんですけどねー。<BR>「ATOK11」は「一太郎８」の分なのですが、本体である「一太郎８」は全くと言っていいほど使用しておりません。<BR>こんな感じですが、いかがですか？<BR>他のみなさんはどのような環境で作品執筆を行っておられるのか、興味がありますねー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2001/12/09 20:23:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2001/12/09 20:23:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007896987hdwrv&id2=1007477354eyqawiy&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007896987hdwrv_id2_1007477354eyqawiy_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ǂ̂悤�Ȋ��ō�i���M���s���Ă�����̂�<BR><BR>�@�Ƃ����킯�ŁA���̏ꍇ�B<BR>�@�Ƃ肠�����AMicrosoft Word�ŏ����܂��B�����I�������A�ꉞ�A�\�t�g�̕��͍Z���������āA�v�����g�A�E�g�B���̏�ł̍Z���Ɛ��Ȃ��I�������A��������ƂɃt�@�C���̕��͏C���B�}�N���ŉ��s�����a�q���̃^�O�ɒu�����āA�������œ��e�p�̐��^���J���āA�����Ƀ��[�h����R�s�[�œ\��t���A�^�C�g���C���╶���̑傫���ύX�A�摜�̓\��t�������āAMicrosoft Internet Explorer�Ŋm�F���āA���e�ł��B<BR>�@���{��ϊ��͂h�l�d�̂܂܂ł��B�Ƃ�ł��Ȃ��ϊ����ꔭ�ڂɕ��C�Ŏ����Ă��Ă����A�Ɓ[���Ă��M�p�ɂȂ�Ȃ��㕨�Ȃ̂ŁA������p�ɂɈ����܂��B����ɏ������ƐM�p�������Ď����Ȃǈ����Ȃ��Ȃ鉡�����̂̎��ɂ́A�����������Č��t���o����Ӗ��ł��ꂪ���傤�ǂ����̂�������܂���B<BR>�@����Ȃ���ł�����ł����ˁH
+＞どのような環境で作品執筆を行っておられるのか<BR><BR>　というわけで、私の場合。<BR>　とりあえず、Microsoft Wordで書きます。書き終わったら、一応、ソフトの文章校正をかけて、プリントアウト。紙の上での校正と推敲が終わったら、それをもとにファイルの文章修正。マクロで改行を＜ＢＲ＞のタグに置換して、メモ帳で投稿用の雛型を開いて、そこにワードからコピーで貼り付け、タイトル修正や文字の大きさ変更、画像の貼り付けをして、Microsoft Internet Explorerで確認して、投稿です。<BR>　日本語変換はＩＭＥのままです。とんでもない変換を一発目に平気で持ってきてくれる、とーっても信用にならない代物なので、辞書を頻繁に引きます。下手に小賢いと信用しきって辞書など引かなくなる横着ものの私には、辞書を引いて言葉を覚える意味でこれがちょうどいいのかもしれません。<BR>　こんなもんでいいんですかね？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/09 23:28:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007908093kgxqjch&id2=1007477354eyqawiy&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007908093kgxqjch_id2_1007477354eyqawiy_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>���̌f�������邱�ƂɁA���܂ŋC�����܂���ł����B<BR><BR>���ꂩ����A�u���S�҂n�m�k�x�y�[�W�v�̏������݂ɑ΂���RES��<BR>�X�������肢���܂��B<BR><BR><BR>
+starbowです。<BR><BR>この掲示板があることに、今まで気がつきませんでした。<BR><BR>これからも、「初心者ＯＮＬＹページ」の書き込みに対するRESを<BR>宜しくお願いします。<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2001/12/28 17:44:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2001/12/28 17:44:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009529046sitppj&id2=1007477354eyqawiy&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009529046sitppj_id2_1007477354eyqawiy_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��i������z�̂��b�ł����ˁB<BR>���[�ƁA���͌���TXT�t�@�C���ŏ����������AHP����\�t�g�̃h���[���E�F�[�o�[�̋@�\�̈�u�e�L�X�g�t�@�C���Ƃ��Ē���t����v�Ƃ����̂��g���āA�x�[�X�ƂȂ�HTML�t�@�C���Ƀy�[�X�g���Ă܂��B<BR>�@�܂����̂����̗ǂ��_�́A���M���Ă���i�K�ł̓t�@�C�����d���Ȃ肷���Ȃ��Ƃ������B<BR>�@�ǂ������[�v���\�t�g���ƁA�����Ȃ�ƃ������[�s���ɂȂ��āA�܂Ƃ��ɍ�Ƃł��Ȃ��̂ŁA�G�f�B�^�[�i�y�ʂ̃e�L�X�g�t�@�C���쐬�\�t�g�Ǝv���˂��j�ŏ����Ă���ƌ����킯�ł��B
+【作品制作環境】のお話でしたね。<BR>えーと、私は現在TXTファイルで書いた物を、HP制作ソフトのドリームウェーバーの機能の一つ「テキストファイルとして張り付ける」というのを使って、ベースとなるHTMLファイルにペーストしてます。<BR>　まあこのやり方の良い点は、執筆している段階ではファイルが重くなりすぎないという事。<BR>　どうもワープロソフトだと、長くなるとメモリー不足になって、まともに作業できないので、エディター（軽量のテキストファイル作成ソフトと思いねえ）で書いていると言うわけです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="1007477354eyqawiy">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

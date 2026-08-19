@@ -1,108 +1,108 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/ target=_top>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../index.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�˂��˂���������>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:ねぇねぇおしえて>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1129>
 <input type=hidden name=ress value=1131>
-<input type=submit value=�˂��˂��������Ă֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=ねぇねぇおしえてへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1131>
-<font color=#6A5ACD>RE:�˂��˂���������</font></a>
+<font color=#6A5ACD>RE:ねぇねぇおしえて</font></a>
 <font color=#303030>
-�т��
- ����</font>
- <font size=2>2001�N4��27��(��) 21��39��</font>
-<a href="resbbs4.cgi?vew=1131">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+びゅの
+ さん</font>
+ <font size=2>2001年4月27日(金) 21時39分</font>
+<a href="resbbs4@vew_1131.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>������A���ɂȂ���������L��A�L�����ƃq���C������̃h�^�o�^�M���N�ł��B<br>���[�Ƒ̈�ōX�ߎ��Ŋy���񂾂�A�X�P�Ԃɂ�����ꂽ��A�N���X�̒j�ɗ��l<br>�ɂȂ�Ƃ���ꂽ��A���Ƃ��ƒj�Ȃ̂ŁE�E�E�E�E�������Ō�̕��̘b�ł́A<br>�j�ɂȂ��Ă��܂��������̎q�̂����݂����Ƃ��o�Ă��܂��B<br><br>�Ƃ肠����<br>�@����𓖎��������ƂŁA���̐��E�ɓ������l����䏊�ɂ���ق�ƁE�E�E<br>�A�g���E�}�ɂȂ��Ă���A�����ɗܗ܂̐l������ق�ƁE�E�E�E�E�E�E�E�E<br>�@�H�H�H�ɂ��Ă̓��X���Ȃ��ˁHGW���ɂ͂���̃��X���h�o�[�Ƃ��̂��ȁH<br>�B�ǂ��Ŏ�ɓ����ꂽ�̂�������܂��񂪁A�����̐؂蔲����S�������Ă���Ƃ����l��TS�l���ł͎��̒m�����ł͐��l�������Ȃ����ƁE�E�E�E�E�E�E�E�E�B<br><br>�Ƃ肠�����A���A�����đS�b�����ׂē��肷��͕̂s�\�Ƃ���ꂽ��i���A<br>���育�뉿�i�Ŕ���������ł��B</font></ul>
+<ul><br><font size=3>ある日、女になっちゃった広印アキラことヒロインくんのドタバタギャクです。<br>えーと体育で更衣室で楽しんだり、スケ番にさそわれたり、クラスの男に恋人<br>になれといわれたり、もともと男なので・・・・・しかも最後の方の話では、<br>男になってしまった元女の子のしげみちゃんとか出てきます。<br><br>とりあえず<br>①これを当時見たことで、この世界に入った人が大御所にちらほらと・・・<br>②トラウマになっており、発売に涙涙の人もちらほらと・・・・・・・・・<br>　？？？にしてはレス少ないね？GW中にはこれのレスがドバーとつくのかな？<br>③どこで手に入れられたのか分かりませんが、当時の切り抜きを全部持っているという人がTS人口では私の知る限りでは数人しかいないこと・・・・・・・・・。<br><br>とりあえず、レアすぎて全話をすべて入手するのは不可能といわれた作品が、<br>お手ごろ価格で発売されるんです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1134>
-<font color=#6A5ACD>RE:�˂��˂���������</font></a>
+<font color=#6A5ACD>RE:ねぇねぇおしえて</font></a>
 <font color=#303030>
-�܂�
- ����</font>
- <font size=2>2001�N4��28��(�y) 2��24��</font>
-<a href="resbbs4.cgi?vew=1134">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@�܂ł��A����ƃR�~�b�N�X�ɂȂ�܂����ˁO�O<br>�܂��ނ�搶�̕����R�~�b�N�ɂȂ�Ȃ����ȁ[</font></ul>
+まつ
+ さん</font>
+ <font size=2>2001年4月28日(土) 2時24分</font>
+<a href="resbbs4@vew_1134.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　まつです、やっとコミックスになりましたね＾＾<br>まきむら先生の方もコミックにならないかなー</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1136>
-<font color=#6A5ACD>RE:�˂��˂���������</font></a>
+<font color=#6A5ACD>RE:ねぇねぇおしえて</font></a>
 <font color=#303030>
 ALO
- ����</font>
- <font size=2>2001�N4��30��(��) 14��58��</font>
-<a href="resbbs4.cgi?vew=1136">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ���E���킳�́A<b>�������ǂ����̉̎�i�̎��6�N�j��TV�ɏo�Ă܂����B�G�G�G</b>�z</font>
-<ul><font size=3>&gt;�g���E�}�ɂȂ��Ă���A�����ɗܗ܂̐l������ق�ƁE�E�E�E�E�E�E�E�E<br>&gt;�H�H�H�ɂ��Ă̓��X���Ȃ��ˁHGW���ɂ͂���̃��X���h�o�[�Ƃ��̂��ȁH<br><br>�薼�����͒m���Ă܂����A'80�N���́w�Ă�т���x�ɘA�ڂ���Ă���<br>��i�ł�����A������������������l�͂��Ȃ菭�Ȃ��Ǝv���܂���B</font></ul>
+ さん</font>
+ <font size=2>2001年4月30日(月) 14時58分</font>
+<a href="resbbs4@vew_1136.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる情報・うわさは、<b>女装こども演歌歌手（歌手歴6年）がTVに出てました。；；；</b>】</font>
+<ul><font size=3>&gt;トラウマになっており、発売に涙涙の人もちらほらと・・・・・・・・・<br>&gt;？？？にしてはレス少ないね？GW中にはこれのレスがドバーとつくのかな？<br><br>題名だけは知られてますが、'80年頃の『てれびくん』に連載されていた<br>作品ですから、実物を見た事がある人はかなり少ないと思いますよ。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1137>
-<font color=#6A5ACD>RE:�˂��˂���������</font></a>
+<font color=#6A5ACD>RE:ねぇねぇおしえて</font></a>
 <font color=#303030>
-�܂�
- ����</font>
- <font size=2>2001�N5��1��(��) 3��6��</font>
-<a href="resbbs4.cgi?vew=1137">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�܂ł��B���́u�q���C������v�����̌f�ڎ����e���r���񂾂������ߌ��e��<br>�Ō`������Ă���悤�ł��A���̂��ߍ���̒P�s�{�ł͂��Ȃ�R�}�ɏC����<br>�����Ă��܂��O�O�@��̓I�ɂ͈�R�}�������Ă����肵�܂��B<br>�@�悵����搶�����l�ł�_o_</font></ul>
+まつ
+ さん</font>
+ <font size=2>2001年5月1日(火) 3時6分</font>
+<a href="resbbs4@vew_1137.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>まつです。この「ヒロインくん」当時の掲載誌がテレビくんだったため原稿の<br>版形が違っているようです、そのため今回の単行本ではかなりコマに修正が<br>入っています＾＾　具体的には一コマずつ増えていたりします。<br>　よしかわ先生お疲れ様です_o_</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1138>
-<font color=#6A5ACD>RE:�˂��˂���������</font></a>
+<font color=#6A5ACD>RE:ねぇねぇおしえて</font></a>
 <font color=#303030>
 MASATO
- ����</font>
- <font size=2>2001�N5��1��(��) 13��28��</font>
-<a href="resbbs4.cgi?vew=1138">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>���[���A���</b>�z</font>
-<ul><font size=3>�ǂ����I�q�T�ł�<br>�������g���E�}�g�Ȃ̂ŏo�Ă��܂����B<br><br>&gt;��̓I�ɂ͈�R�}�������Ă����肵�܂��B<br><br>�Ȃ�ƂȂ������Ă�����a���̐��̂��킩��܂����i�΁j<br>�ł�20�N�O�Ɩw�Ǖς��Ȃ��^�b�`�Œǉ��ł���̂������ł��ˁB</font></ul>
+ さん</font>
+ <font size=2>2001年5月1日(火) 13時28分</font>
+<a href="resbbs4@vew_1138.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>メール連絡乞う</b>】</font>
+<ul><font size=3>どうもオヒサです<br>自分もトラウマ組なので出てきました。<br><br>&gt;具体的には一コマずつ増えていたりします。<br><br>なんとなく感じていた違和感の正体がわかりました（笑）<br>でも20年前と殆ど変わらないタッチで追加できるのが凄いですね。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -110,7 +110,7 @@ MASATO
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

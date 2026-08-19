@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入�->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　�->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:��ɂ̃E�b�t�������W�F�j�[>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:戦慄のウッフン美女ジェニー>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2249>
 <input type=hidden name=ress value=2253>
-<input type=submit value=��ɂ̃E�b�t�������W�F�j�[�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=戦慄のウッフン美女ジェニーへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2253>
-<font color=#6A5ACD>RE:��ɂ̃E�b�t�������W�F�j�[</font></a>
+<font color=#6A5ACD>RE:戦慄のウッフン美女ジェニー</font></a>
 <font color=#303030>
-�Ǘ��l
- ����</font>
- <font size=2>2004�N7��19��(��) 4��25��</font>
-<a href="resbbs4_b.cgi?vew=2253">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+管理人
+ さん</font>
+ <font size=2>2004年7月19日(月) 4時25分</font>
+<a href="resbbs4_b@vew_2253.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����f���m���̗��\�ȏ������݂��������̂ō폜�����Ă��炢�܂����B<br><br>���g�I������<br><br>�ŏ��̓��e�̐^�ӂ͂悭�킩��Ȃ��ł����A���e���̂͂���Ȃɖڂ����痧�Ă邱�Ƃ���Ȃ��Ǝv���܂���B<br>�������P2P�ő��l�̍�i�����Ȃ����ʂ�����s�ׂ́A�@�I�ɖ�肠��Ƃ͎v���܂���B�����A���̌f����ł��Ƃ肵�Ă��łȂ��ȏ�A���܂�ߕq�ɔ������ĂȂ�ł�����ł������폜���Ă����̂��A���₩����Ȃ��ł�����B<br><br>�W�F�j�[�ɂ���R�R�i�b�c�ɂ���A���܂ƂȂ��Ă͐��K�̎�i�Ŏ�ɓ����̂����ɓ����i�ł���ˁB����������i���Ȃ�Ƃ����@�I�Ȍ`�Ńl�b�g�𗘗p���ė��ʂł���悤�ɂȂ����炢����ł����ǂˁB</font></ul>
+<ul><br><font size=3>匿名掲示板ノリの乱暴な書き込みがあったので削除させてもらいました。<br><br>＞トオリさん<br><br>最初の投稿の真意はよくわかんないですが、投稿自体はそんなに目くじら立てることじゃないと思いますよ。<br>もちろんP2Pで他人の作品を許可なく流通させる行為は、法的に問題あるとは思いますよ。ただ、この掲示板上でやりとりしてるんでない以上、あまり過敏に反応してなんでもかんでもすぐ削除っていうのも、穏やかじゃないですから。<br><br>ジェニーにしろココナッツにしろ、いまとなっては正規の手段で手に入れるのが非常に難しい作品ですよね。そういう作品がなんとか合法的な形でネットを利用して流通できるようになったらいいんですけどね。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

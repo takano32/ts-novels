@@ -1,141 +1,141 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1015301018iaqcym&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1015301018iaqcym_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">fit�c</font><br>
+<font size="+2" color="#0000FF">fit…</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/05130136/fit.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/05 13:03:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/05130136/fit.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2002/03/05 13:03:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015301018iaqcym&id2=1015301018iaqcym&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015301018iaqcym_id2_1015301018iaqcym_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�l�b�g��ŏE���Ă����������ȃv���O�����ɂ́A���ꂮ������p�S���B�����Ȃ��Ɓc�B
+【推薦文】ネット上で拾ってきた怪しげなプログラムには、くれぐれもご用心を。さもないと…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/03/05 13:41:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/03/05 13:41:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015303280euyvk&id2=1015301018iaqcym&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015303280euyvk_id2_1015301018iaqcym_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂�ɂ��\�z�O�̃��X�g�ɒE�X�ł��B<BR>�Ō�̏I��点�����Y��ł����c
+あまりにも予想外のラストに脱帽です。<BR>最後の終わらせ方が綺麗でした…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i������</strong>  <i>2002/03/05 20:08:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ナモモン</strong>  <i>2002/03/05 20:08:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015326516wyjqk&id2=1015301018iaqcym&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015326516wyjqk_id2_1015301018iaqcym_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����[���ǂ܂��Ă��������܂����B<BR>�X�g�[���[���ǂ������Ă��܂������A���X�g�̂ǂ�ł�Ԃ����ǂ������ł��B
+興味深く読ませていただきました。<BR>ストーリーが良く練られていましたし、ラストのどんでん返しも良かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2002/03/05 20:24:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2002/03/05 20:24:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015327494shjmjs&id2=1015301018iaqcym&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015327494shjmjs_id2_1015301018iaqcym_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v���Ԃ�Ɂw����́I�x�Ǝv����W�J�̂��b��ǂ񂾂悤�ȋC�����܂��B<BR>����A�{���ɖʔ��������ł��B
+久しぶりに『これは！』と思える展開のお話を読んだような気がします。<BR>いや、本当に面白かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/05 22:16:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/05 22:16:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015334188rksmxdc&id2=1015301018iaqcym&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015334188rksmxdc_id2_1015301018iaqcym_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A����͂܂��B<BR>�Ō�̍Ō�ł����Ƌ����܂����B<BR>�Ȃ��Ȃ��悩�����ł��B<BR>�K�N���Ɣ��I�`�����A���K���ɁB
+読んだバイ♪<BR>おお、これはまた。<BR>最後の最後であっと驚きました。<BR>なかなかよかったです。<BR>幸クンと美紀チャン、お幸せに。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/03/05 22:40:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>克美</strong>  <i>2002/03/05 22:40:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015335629shgwvd&id2=1015301018iaqcym&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015335629shgwvd_id2_1015301018iaqcym_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-fit�c�@�ǂ܂��Ă��������܂����B<BR>���X�g�̗c�����̂Q�l�̉�b���ƂĂ��ǂ������ł��B<BR>�Q�l���ꏏ�ɐ���̂́A�K�R�I�������̂ł��ˁB<BR>���ǍŌ�́A�Q�l�Ƃ��s�r����O�̋L�������߂�����ł��ˁB
+fit…　読ませていただきました。<BR>ラストの幼い頃の２人の会話がとても良かったです。<BR>２人が一緒に成るのは、必然的だったのですね。<BR>結局最後は、２人ともＴＳする前の記憶を取り戻した訳ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�d��</strong>  <i>2002/03/07 08:59:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>薪喬</strong>  <i>2002/03/07 08:59:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015459160hojrht&id2=1015301018iaqcym&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015459160hojrht_id2_1015301018iaqcym_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�d���ł��B<BR>�����̌䊴�z���肪�Ƃ��������܂��B<BR>���X�g�̂ǂ�ł�Ԃ��Ɋւ��ẮA���ˉ߂��Ęb���������Ă��܂�<BR>���O���������̂ł����A�y����ł�����������K���ł��B<BR><BR>��������<BR>�����ǍŌ�́A�Q�l�Ƃ��s�r����O�̋L�������߂�����ł��ˁB<BR>���m�Ɍ����ƁA���I��100���߂��A�K��i�K�q�j�Ɋւ��Ă͎�����<BR>�s�r���^���Ȃ�����A���I�Ƃ̍K���ׂ̈ɂ���ȏ�̒ǋ����~�߂�<BR>�ƌ������Ƃ���ł��ˁB<BR><BR>����ł́A����͉ؑタ���V���[�Y�̃V���[�g�V���[�g�ł��ڂ�<BR>�|���肽���Ǝv���܂��B�i���ꏑ�������_�ł͌f�ڂ���Ă��܂��񂪁j
+薪喬です。<BR>早速の御感想ありがとうございます。<BR>ラストのどんでん返しに関しては、唐突過ぎて話しが浮いてしまう<BR>懸念もあったのですが、楽しんでいただけたら幸いです。<BR><BR>克美さん<BR>＞結局最後は、２人ともＴＳする前の記憶を取り戻した訳ですね。<BR>正確に言うと、美紀は100％近く、幸一（幸子）に関しては自分の<BR>ＴＳを疑いながらも、美紀との幸せの為にそれ以上の追求を止めた<BR>と言ったところですね。<BR><BR>それでは、次回は華代ちゃんシリーズのショートショートでお目に<BR>掛かりたいと思います。（これ書いた時点では掲載されていませんが）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�㌎�@�T��</strong>  <i>2002/03/07 11:43:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>上月　乃理</strong>  <i>2002/03/07 11:43:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015469032doyunt&id2=1015301018iaqcym&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015469032doyunt_id2_1015301018iaqcym_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�l�̖ڎw���Ă��������́A�����́u�����`�v���݂��悤�ȋC�����܂��B<BR>�^���Œf�M�錾�����܂������A�����u��M�v�ɐ؂�ւ��Ă������ł��ˁc<BR>���ꂩ�������΂��Ă��������B
+僕の目指していた小説の、ある種の「完成形」をみたような気がします。<BR>某所で断筆宣言をしましたが、もう「絶筆」に切り替えてもいいですね…<BR>これからもがんばってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/03/07 14:01:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/03/07 14:01:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015477307mevgy&id2=1015301018iaqcym&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015477307mevgy_id2_1015301018iaqcym_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR><BR>�������ǂ������ł��B<BR>���ɍŏ��̎q���̍��̃G�s�\�[�h���Ō�Ɏ����Ă����`�ʂ������ł����B<BR>�ݒ肪������������Ă���Ǝv���܂����B<BR><BR>�Ō�A�K�q�̑��݂����������ɔ��I���₵���������āA�V���ɂł����K��ɍK�q�̎v����������������`�ʂ���肭������΁A��������b�ɂ��ł��������Ǝv���܂��B�i�ċA�I�ɕ`�ʂł���Ώ��A�����ł��B�j<BR>�����܂ŁA���̍l���ł����E�E�E�i�����͂��ꂩ���j�@<BR><BR>�������y���݂��Ă��܂��B<BR>����A�������A������i�ł��B
+読みました。<BR><BR>すごく良かったです。<BR>特に最初の子供の頃のエピソードを最後に持っていく描写が見事でした。<BR>設定がしっかり練られていると思いました。<BR><BR>最後、幸子の存在が消えた事に美紀が寂しさを感じて、新たにできた幸一に幸子の思かけを感じさせる描写を上手く加えれば、泣かせる話にもできたかもと思います。（再帰的に描写できれば尚、いいです。）<BR>あくまで、私の考えですが・・・（見当はずれかも）　<BR><BR>次回作も楽しみしています。<BR>いや、しかし、凄い作品です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/03/07 21:35:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/03/07 21:35:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015504547sejtjw&id2=1015301018iaqcym&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015504547sejtjw_id2_1015301018iaqcym_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ʔ��������ł��B�{���ɁA�����A�C�f�B�A�ł��B<BR>���X�g�͂܂������\�z�ł��܂���ł����B�\����`�ʂɁA�ƂĂ��������܂�܂����B<BR>�W�J���Ƃɂ����I���ł��B�f���炵�����b�ł����B
+凄く面白かったです。本当に、凄いアイディアです。<BR>ラストはまったく予想できませんでした。構成や描写に、とても引き込まれました。<BR>展開がとにかく巧いです。素晴らしいお話でした。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1015301018iaqcym">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

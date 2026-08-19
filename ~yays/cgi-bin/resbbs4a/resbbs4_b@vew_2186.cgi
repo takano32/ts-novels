@@ -1,190 +1,190 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入�->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　�->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�͂�>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:はい>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2186>
 <input type=hidden name=ress value=2186>
-<input type=submit value=�͂��֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=はいへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2186>
-<font color=#6A5ACD>�͂�</font></a>
+<font color=#6A5ACD>はい</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2004�N4��9��(��) 13��45��</font>
-<a href="resbbs4_b.cgi?vew=2186">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+かかか
+ さん</font>
+ <font size=2>2004年4月9日(金) 13時45分</font>
+<a href="resbbs4_b@vew_2186.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�n�E�X�e���{�X�̂b�l�͊Y���ł����H</font></ul>
+<ul><br><font size=3>ハウステンボスのＣＭは該当ですか？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2191>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2004�N4��9��(��) 23��25��</font>
-<a href="resbbs4_b.cgi?vew=2191">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�n�E�X�e���{�X��CM</b>�z</font>
-<ul><font size=3>�ǂ������̂ł����H</font></ul>
+無灯火
+ さん</font>
+ <font size=2>2004年4月9日(金) 23時25分</font>
+<a href="resbbs4_b@vew_2191.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>ハウステンボスのCM</b>】</font>
+<ul><font size=3>どういうのですか？</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2192>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
 akuma
- ����</font>
- <font size=2>2004�N4��10��(�y) 0��6��</font>
-<a href="resbbs4_b.cgi?vew=2192">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�h��������</b>�z</font>
-<ul><font size=3>�݂܂�����[�A�����[�ǂ��ł��I</font></ul>
+ さん</font>
+ <font size=2>2004年4月10日(土) 0時6分</font>
+<a href="resbbs4_b@vew_2192.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>ドラえもん</b>】</font>
+<ul><font size=3>みましたよー、すげー良いです！</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2195>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
-�ӂɂ�
- ����</font>
- <font size=2>2004�N4��10��(�y) 12��52��</font>
-<a href="resbbs4_b.cgi?vew=2195">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���n��̃e���r�ǂŗ���Ă܂����H</font></ul>
+ふにゅ
+ さん</font>
+ <font size=2>2004年4月10日(土) 12時52分</font>
+<a href="resbbs4_b@vew_2195.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>何系列のテレビ局で流れてますか？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2197>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
 akuma
- ����</font>
- <font size=2>2004�N4��10��(�y) 15��50��</font>
-<a href="resbbs4_b.cgi?vew=2197">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�y�[�p�[�E�r�X�P�b�g</b>�z</font>
-<ul><font size=3>�e�����n�ł���Ă܂�</font></ul>
+ さん</font>
+ <font size=2>2004年4月10日(土) 15時50分</font>
+<a href="resbbs4_b@vew_2197.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>ペーパー・ビスケット</b>】</font>
+<ul><font size=3>テレ朝系でやってます</font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=2198>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
-�s�U
- ����</font>
- <font size=2>2004�N4��12��(��) 16��54��</font>
-<a href="resbbs4_b.cgi?vew=2198">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>��</b>�z</font>
-<ul><font size=3>�n�E�X�e���{�X�̂b�l<br>�A�b�v���V�[�h���Ԃ�^�悵�Ă�����R�ɂ��Y�����^��ł��Ă܂����B<br>���b�L�[�I�I</font></ul>
+ピザ
+ さん</font>
+ <font size=2>2004年4月12日(月) 16時54分</font>
+<a href="resbbs4_b@vew_2198.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>さ</b>】</font>
+<ul><font size=3>ハウステンボスのＣＭ<br>アップルシード特番を録画してたら偶然にも該当部録画できてました。<br>ラッキー！！</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2199>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
-�p�s�R
- ����</font>
- <font size=2>2004�N4��12��(��) 21��4��</font>
-<a href="resbbs4_b.cgi?vew=2199">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�Ƃ��q����A�f�G�B</font></ul>
+パピコ
+ さん</font>
+ <font size=2>2004年4月12日(月) 21時4分</font>
+<a href="resbbs4_b@vew_2199.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>とし子さん、素敵。</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2201>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
-�Ƃ�܂����I
- ����</font>
- <font size=2>2004�N4��13��(��) 11��48��</font>
-<a href="resbbs4_b.cgi?vew=2201">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����炸����HDD���R�[�f�B���O���Ă����قǎB��܂����I<br>�Z��CM�ł����A�C���p�N�g����܂��ˁB<br>�g�����������̂�����ƃ��A�������B���̃R�����g���΂��܂����B</font></ul>
+とれました！
+ さん</font>
+ <font size=2>2004年4月13日(火) 11時48分</font>
+<a href="resbbs4_b@vew_2201.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>朝からずっとHDDレコーディングしてたら先ほど撮れました！<br>短いCMですが、インパクトありますね。<br>身長が高いものちょっとリアルかも。父のコメントが笑えました。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2202>
-<font color=#6A5ACD>�݂����悧�`</font></a>
+<font color=#6A5ACD>みたいよぉ～</font></a>
 <font color=#303030>
-����TS��
- ����</font>
- <font size=2>2004�N4��13��(��) 19��59��</font>
-<a href="resbbs4_b.cgi?vew=2202">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�n�E�X�e���{�X��CM</b>�z</font>
-<ul><font size=3>�l�^�o���ł������̂ŁA�����ǂ��Ȃ邩�����ł������Ăق����ł��B<br>�ǂ̔ԑg��_���΂��ڂɂ������@����肻���ł��傤���H</font></ul>
+匿名TS課
+ さん</font>
+ <font size=2>2004年4月13日(火) 19時59分</font>
+<a href="resbbs4_b@vew_2202.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>ハウステンボスのCM</b>】</font>
+<ul><font size=3>ネタバレでもいいので、何がどうなるかだけでも教えてほしいです。<br>どの番組を狙えばお目にかかれる機会がありそうでしょうか？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2203>
-<font color=#6A5ACD>RE:�݂����悧�`</font></a>
+<font color=#6A5ACD>RE:みたいよぉ～</font></a>
 <font color=#303030>
-�g�I��
- ����</font>
- <font size=2>2004�N4��13��(��) 22��17��</font>
-<a href="resbbs4_b.cgi?vew=2203">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�|�̘B���p�t</b>�z</font>
-<ul><font size=3>�Ȃ�ƂȂ��ς�Ă��܂������ǁA���ꃊ�A�����]��������c�Q|�P|��<br>�N����ςɔ��Ђ���ĐU���������c�́B</font></ul>
+トオリ
+ さん</font>
+ <font size=2>2004年4月13日(火) 22時17分</font>
+<a href="resbbs4_b@vew_2203.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>鋼の錬金術師</b>】</font>
+<ul><font size=3>なんとなく観れてしまったけど、これリアル性転換じゃんよ…＿|￣|○<br>誰だよ変に尾ひれつけて振れ回ったヤツは。</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2205>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
-�т�����
- ����</font>
- <font size=2>2004�N4��15��(��) 0��41��</font>
-<a href=���� target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=2205">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�{���ɒj���̃��f���������ŁB�����Ƃ͎v���Ȃ����炢���ꂢ��<br>�т�����I�m���Ɋ�̗֊s�Ƃ��͒j���ȂƂ͎v�������ǁB</font></ul>
+びっくり
+ さん</font>
+ <font size=2>2004年4月15日(木) 0時41分</font>
+<a href="じつは" target=_top>HomePage</a>
+<a href="resbbs4_b@vew_2205.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>本当に男性のモデルだそうで。女装とは思えないくらいきれいで<br>びっくり！確かに顔の輪郭とかは男かなとは思ったけど。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2207>
-<font color=#6A5ACD>RE:�͂�</font></a>
+<font color=#6A5ACD>RE:はい</font></a>
 <font color=#303030>
-�E�B���[�E�V�[�h
- ����</font>
- <font size=2>2004�N4��17��(�y) 9��46��</font>
-<a href="resbbs4_b.cgi?vew=2207">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�u�����v�Ȃ�ł����E�E�E�܂��H�A���I�ɂ͂��̗e�e���炵�āw�����H���x�i�z�������E�����E�L���j<br>�͊����������̂Ǝv���Ă܂������E�E�E</font></ul>
+ウィロー・シード
+ さん</font>
+ <font size=2>2004年4月17日(土) 9時46分</font>
+<a href="resbbs4_b@vew_2207.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>「女装」なんですか・・・まだ？、私的にはあの容貌からして『第一期工事』（ホルモン・去勢・豊胸）<br>は完了したものと思ってましたが・・・</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

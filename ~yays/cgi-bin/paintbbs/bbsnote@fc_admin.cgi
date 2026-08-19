@@ -1,4 +1,4 @@
-<HTML><HEAD><TITLE>ŠÇ—ŽÒƒpƒXƒ[ƒh“ü—Í</TITLE>
+<HTML><HEAD><TITLE>ç®¡ç†è€…ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰å…¥åŠ›</TITLE>
 
 <STYLE type="text/css">
 <!--
@@ -9,12 +9,12 @@
 
 </HEAD><BODY bgcolor="#D0E8FF" text="#0066CC" link="#333399" vlink="#003366" alink="#FF1111"><CENTER><BR><BR><HR>
 
-<H3>ŠÇ—ŽÒƒpƒXƒ[ƒh‚ð“ü—Í‚µ‚Ä‰º‚³‚¢</H3>
+<H3>ç®¡ç†è€…ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ä¸‹ã•ã„</H3>
 
-<FORM ACTION="./bbsnote.cgi" METHOD="POST">
+<FORM ACTION="bbsnote.cgi" METHOD="POST">
 <INPUT TYPE="HIDDEN" NAME="fc" VALUE="page">
 <INPUT CLASS="button" TYPE="password" NAME="password" VALUE="" size=30>
-<INPUT CLASS="button" TYPE="SUBMIT" VALUE="‘—M">
-</FORM><CENTER><fONT SIZE=2>[<a TITLE="–ß‚é" href="./bbsnote.cgi">BACK</a>]</FONT></CENTER>
+<INPUT CLASS="button" TYPE="SUBMIT" VALUE="é€ä¿¡">
+</FORM><CENTER><fONT SIZE=2>[<a TITLE="æˆ»ã‚‹" href="bbsnote.cgi">BACK</a>]</FONT></CENTER>
 
-<HR><DIV ALIGN="RIGHT"><SMALL><A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)‚µ‚¡‚¿‚á‚ñ(shi-cyan)</A> </SMALL></DIV></BODY></HTML>
+<HR><DIV ALIGN="RIGHT"><SMALL><A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)ã—ãƒã¡ã‚ƒã‚“(shi-cyan)</A> </SMALL></DIV></BODY></HTML>

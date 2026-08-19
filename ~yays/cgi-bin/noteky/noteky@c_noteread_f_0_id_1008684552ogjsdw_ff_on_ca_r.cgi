@@ -1,231 +1,231 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1008684552ogjsdw&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1008684552ogjsdw_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�k����'���@�I�[�o�[�q�[�g��</font><br>
+<font size="+2" color="#0000FF">Ｌｅｔ'ｓ　オーバーヒート♪</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18230553/over_heat.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/12/18 23:09:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18230553/over_heat.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/12/18 23:09:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008684552ogjsdw&id2=1008684552ogjsdw&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008684552ogjsdw_id2_1008684552ogjsdw_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��A�T���^����ɂ͂�����Ƃ��肢���Ă݂���񂾁B�T���^����A����N�̎��͒S�����c(�j��)<BR>
+うーん、サンタさんにはきちんとお願いしてみるもんだ。サンタさん、文也君の次は担当を…(核爆)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/19 06:08:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/19 06:08:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008709739eenux&id2=1008684552ogjsdw&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008709739eenux_id2_1008684552ogjsdw_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�킟�[����<BR>�����G���ɂs�r�G���A�P���łQ�x����������i�ł��ˁ[�B<BR>�������N��A���Z�����ۂ񂶂Ⴂ���񂼁i�΁j�B<BR>
+読んだバイ♪<BR>わぁーい♪<BR>女装萌えにＴＳ萌え、１粒で２度おいしい作品ですねー。<BR>しかし君ら、高校生が呑んじゃいかんぞ（笑）。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�X�e�C����</strong>  <i>2001/12/19 10:28:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ステイメン</strong>  <i>2001/12/19 10:28:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008725303qcgdktr&id2=1008684552ogjsdw&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008725303qcgdktr_id2_1008684552ogjsdw_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���B(��)<BR>�Ȃ�Ƃ����s�r�������̍����F�B���B<BR>��l�̖����ɍK����c�c�B<BR>
+絶句。(笑)<BR>なんというＴＳ順応性の高い友達だ。<BR>二人の未来に幸あれ……。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/12/21 00:01:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/12/21 00:01:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008860507jfaug&id2=1008684552ogjsdw&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008860507jfaug_id2_1008684552ogjsdw_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���^�B�����w�e�F�G���x�Ƃ����W�������͔p��Ă��܂����̂��Ǝv���Ă��܂������A�����ɕ������Ċ����ł��ˁB<BR>���e���X�g���[�g�Ŗʔ��������ł��B<BR>�Ƃ���ŕ҂݂���݂��Ăǂ�Ȃ��̂Ȃ�ł����H�@�ю��łł����D������݁H
+大絶賛。もう『親友萌え』というジャンルは廃れてしまったのかと思っていましたが、ここに復活って感じですね。<BR>内容もストレートで面白かったです。<BR>ところで編みぐるみってどんなものなんですか？　毛糸でできた縫いぐるみ？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�����a</strong>  <i>2001/12/21 14:36:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>海月日和</strong>  <i>2001/12/21 14:36:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008912996nfcvh&id2=1008684552ogjsdw&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008912996nfcvh_id2_1008684552ogjsdw_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�c���炭��A�����������i�΁j<BR>�����Ď��Ԗ���������āA�肥���������ꂭ��i���j<BR><BR>�������l�Ԃɕ|�����͖̂����A�������l�Ԃ͐F�X�ƕ|���B<BR>�Ƃ�[���Ƃ��悭�킩��܂����i�΁j
+…文也くん、順応早すぎ（笑）<BR>そして時間無いからって、手ぇ早すぎ伶一くん（爆）<BR><BR>酔った人間に怖いものは無く、酔った人間は色々と怖い。<BR>とゆーことがよくわかりました（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/23 16:47:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/23 16:47:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009093646jihli&id2=1008684552ogjsdw&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009093646jihli_id2_1008684552ogjsdw_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������l�Ԃɕ|�����͖̂����A�������l�Ԃ͐F�X�ƕ|���B<BR>���Ƃ�[���Ƃ��悭�킩��܂����i�΁j <BR><BR>���̃V�[�Y���A�铹���ۍ��ŕ����͎̂��E�s�ׂł��B<BR>�����肪�g����̂Ȃ�ʂł����c�i�΂����ł͂Ȃ��j�B
+＞酔った人間に怖いものは無く、酔った人間は色々と怖い。<BR>＞とゆーことがよくわかりました（笑） <BR><BR>今のシーズン、夜道を丸腰で歩くのは自殺行為です。<BR>封じ手が使えるのなら別ですが…（笑い事ではない）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/12/24 02:45:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/12/24 02:45:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009129550hxwxn&id2=1008684552ogjsdw&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009129550hxwxn_id2_1008684552ogjsdw_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���炭��A���݁A�͂��߂����獛��Ă��ˁH<BR>�������A���킢���J���V���āA������Ȃ��i�����j�B
+文也くん、きみ、はじめっから惚れてたね？<BR>しかし、かわいいカレシって、いいよなぁ（おい）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/01/04 01:05:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/01/04 01:05:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010073918jmhcpq&id2=1008684552ogjsdw&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010073918jmhcpq_id2_1008684552ogjsdw_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂ��Ă��܂��c<BR>�ő��Ȃ��Ƃ͌������̂ł͂Ȃ��ł��ˁB<BR><BR>������ӂɉؑタ���̖��h�����ɐ�����āc�B
+それにしてもまあ…<BR>滅多なことは言うものではないですね。<BR><BR>そこら辺に華代ちゃんの名刺が風に吹かれて…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18230553/over_heat2.html" target="_blank">���ELet's �I�[�o�[�q�[�g���ǂނɂ͂������N���b�N</a></strong>  <i>2002/01/31 00:16:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18230553/over_heat2.html" target="_blank">続・Let's オーバーヒート♪を読むにはここをクリック</a></strong>  <i>2002/01/31 00:16:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012403783fdmvte&id2=1008684552ogjsdw&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012403783fdmvte_id2_1008684552ogjsdw_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�o�����^�C���Ƃ����΃`���R���[�g�B���͂����ƃ`���R�����炦���ł���[���H
+【推薦文】バレンタインといえばチョコレート。玲一はちゃんとチョコをもらえるんでしょーか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/31 06:13:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/31 06:13:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012425197bjfmspl&id2=1008684552ogjsdw&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012425197bjfmspl_id2_1008684552ogjsdw_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���ӂӁB<BR>�M���O�̊Ԃɂ��肰�Ȃ�����΂߂�ꂽ�V���A�X���͂��Ƃӂ邪�����ł��˂��B<BR>�ӂ���̈���A�i���ɁB<BR>�������A�T���^���̏������āA�܂����A�^���@�����H�i�΁j
+読んだバイ♪<BR>うふふ。<BR>ギャグの間にさりげなくちりばめられたシリアス＆はぁとふるがいいですねぇ。<BR>ふたりの愛よ、永遠に。<BR>しかし、サンタ服の女性って、まさか、某魔法少女？（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/01 09:18:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/01 09:18:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012522725ngcekl&id2=1008684552ogjsdw&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012522725ngcekl_id2_1008684552ogjsdw_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��ẮA�m�C���ł��B<BR>�M���O�̃Z���X�ɒE�X���܂����E�E�E<BR>�����āA�L�������D���ł��ˁB<BR>�{�N�b���͂���ς肢���Ȃ��Ǝv���܂����B<BR>�����āA�n�[�g�t��<BR>���Ȃ芮���x�̍�����i���Ǝv���܂��B<BR>���̂��ƁA���҂��ł��ł��傤���H<BR>���̂܂܏I���̂͂��������Ȃ��ł��B���X�҂�����]�ł��B<BR>
+はじめましての、ノインです。<BR>ギャグのセンスに脱帽しました・・・<BR>そして、キャラも好きですね。<BR>ボクッ娘はやっぱりいいなあと思いました。<BR>そして、ハートフル<BR>かなり完成度の高い作品だと思います。<BR>このあと、続編がでるんでしょうか？<BR>このまま終わるのはもったいないです。続々編を激希望です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2002/02/02 17:54:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2002/02/02 17:54:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012640077pmkwre&id2=1008684552ogjsdw&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012640077pmkwre_id2_1008684552ogjsdw_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������͋C�ł��ˁB���܂ǂ����̎q�ɂ����Ă��Ȃ����킢�炵���̕��炭��A����΂��Ăق����̂ł��B���u���u�Șb�͋G�ߍs���ɋ����ł�����A��������҂����Ⴂ�܂��B
+ええ雰囲気ですね。いまどき女の子にだっていないかわいらしさの文也くん、がんばってほしいのです。ラブラブな話は季節行事に強いですから、次回を期待しちゃいます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��q</strong>  <i>2002/02/04 10:47:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>弟子</strong>  <i>2002/02/04 10:47:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012787251xqnioa&id2=1008684552ogjsdw&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012787251xqnioa_id2_1008684552ogjsdw_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������肢�̂ł���<BR>
+凄い上手い歌でした<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>nt</strong>  <i>2002/02/08 11:56:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013137006pppenm&id2=1008684552ogjsdw&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013137006pppenm_id2_1008684552ogjsdw_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ɂƂ��āA�u���ɂœǂ݂�����i�v�̓T�^�݂����Ȃ��̂ł��B<BR><BR>���������ق̂ڂ̂��ĂāA����ł��Ė��̂����i�A���ėǂ��ł��ˁB<BR>���ҁi���X�ҁj���ǂ݂����ł��B
+自分にとって、「文庫で読みたい作品」の典型みたいなものです。<BR><BR>こういうほのぼのしてて、それでいて味のある作品、って良いですね。<BR>続編（続々編）も読みたいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18230553/over_heat3.html" target="_blank">���X�ELet's �I�[�o�[�q�[�g���ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/20 04:19:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18230553/over_heat3.html" target="_blank">続々・Let's オーバーヒート♪を読むにはここをクリック</a></strong>  <i>2002/03/20 04:19:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016565580qlqeuu&id2=1008684552ogjsdw&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016565580qlqeuu_id2_1008684552ogjsdw_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����͕��炿��񂪂�����Ɩ\���C���B�������������������̂ł���[���H
+【推薦文】今回は文也ちゃんがちょっと暴走気味。いったい何があったのでしょーか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/20 06:05:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/20 06:05:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016571925hnchlh&id2=1008684552ogjsdw&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016571925hnchlh_id2_1008684552ogjsdw_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>��͂́B�Ԍ��̏C���ꂪ�悭�\������Ă܂��˂��B<BR>���̑���Ȃ̂��A���J�m�ƌ��J�m�̊ԂɏC���ꂪ�Ȃ������ł��ˁi�΁j�B���������B����[�A���ǂ����Ƃ͔������ƁB<BR>����N���i�����H�j�A���񂾂�c���Ȃ��Ă���悤�ȋC���i�΁j�B���o����̗I�I����ƁA���̕��炿���Ƃ��������łȂ��Ȃ��G���`��i���j<BR>�������A���̏����͈�̉�����Ă�ł��傤�˂��i�΁j�B
+読んだバイ♪<BR>わはは。花見の修羅場がよく表現されてますねぇ。<BR>その代わりなのか、元カノと現カノの間に修羅場がなかったですね（笑）。仲いいし。いやー、仲良きことは美しき哉。<BR>文也クン（ちゃん？）、だんだん幼くなっているような気が（笑）。お姉さんの悠紀さんと、妹の文也ちゃんという感じでなかなか萌え～♪（爆）<BR>しかし、かの女性は一体何やってんでしょうねぇ（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�G�����Y</strong>  <i>2002/03/20 10:34:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>萌え太郎</strong>  <i>2002/03/20 10:34:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016588040vpsbno&id2=1008684552ogjsdw&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016588040vpsbno_id2_1008684552ogjsdw_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��R�b�z<BR>�ʔ��������ł��B<BR>�s�ǒB�̑䎌���c�{�ł����B������o���U�C��<BR>���炭��̋��������悩�ł��B<BR><BR>
+【第３話】<BR>面白かったです。<BR>不良達の台詞がツボでした。やられ役バンザイ♪<BR>文也くんの強引さがよかです。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/20 11:06:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/20 11:06:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016589977vgwdgaa&id2=1008684552ogjsdw&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016589977vgwdgaa_id2_1008684552ogjsdw_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������ł��B<BR><BR>��������΂�����A�͂��Ƃӂ邠��ƁA�����ȓ��e�ł����B<BR>���������A�ꏊ�Ƃ�̎��́A�݂�ȋS�ɂȂ���̂ł��ˁc<BR><BR>������y���݂ɂ��Ă܂��B<BR>�C���I�ɂ́A�Œ�ł��w�X�x���Q�O���炢�͂��܂ŁA���҂��~�����Ƃ���ł��B
+いい感じです。<BR><BR>今回もお笑いあり、はぁとふるありと、満腹な内容でした。<BR>しっかし、場所とりの時は、みんな鬼になるものですね…<BR><BR>次回も楽しみにしてます。<BR>気分的には、最低でも『々』が２０個ぐらいはつくまで、続編が欲しいところです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/03/20 20:19:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>龍酒</strong>  <i>2002/03/20 20:19:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016623185yypsfq&id2=1008684552ogjsdw&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016623185yypsfq_id2_1008684552ogjsdw_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��A�����ł��B���̑ʕ��Ɋ��z���������Ċ��ӂ��Ă���܂��B<BR>�����W�S�Q�U����<BR>�����̏����͈�̉�����Ă�ł��傤�˂�<BR>�@���`�ƁD�D�D��������������ł��傤���H���́i���j�����A�{���ɔޏ������̓m���œ����Ă��Ő�l���ĂȂ���ł��B���Ȃ݂ɍ���̍Ō�̕��̃Z���t�͕����ł͂���܂���A���̂Ƃ���͂Ƃ肠����<BR>�G�����Y����<BR>�����炭��̋��������悩�ł�<BR>�@�����ł����A�o�����X��邽�߂ɗ��ɂ������ɂȂ��Ă��炨�����ȁD�D�D<BR>�m�C������<BR>���w�X�x���Q�O���炢�͂��܂�<BR>�@�ɁA�Q�O�����D�D�D����΂炳���Ă��炢�܂�
+ども、龍酒です。私の駄文に感想を下さって感謝しております。<BR>ｍｋ８４２６さん<BR>＞かの女性は一体何やってんでしょうねえ<BR>　え～と．．．何をさせたいんでしょうか？私は（爆）いえ、本当に彼女だけはノリで動いてるんで先考えてないんです。ちなみに今回の最後の方のセリフは伏線ではありません、今のところはとりあえず<BR>萌え太郎さん<BR>＞文也くんの強引さがよかです<BR>　そうですか、バランス取るために玲一にも強引になってもらおうかな．．．<BR>ノインさん<BR>＞『々』が２０個ぐらいはつくまで<BR>　に、２０個すか．．．がんばらさせてもらいます
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1008684552ogjsdw">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���肪�Ƃ��������܂���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:ありがとうございました>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1275>
 <input type=hidden name=ress value=1298>
-<input type=submit value=���肪�Ƃ��������܂����֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=ありがとうございましたへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1298>
-<font color=#6A5ACD>RE:���肪�Ƃ��������܂���</font></a>
+<font color=#6A5ACD>RE:ありがとうございました</font></a>
 <font color=#303030>
-�c������������
- ����</font>
- <font size=2>2001�N11��12��(��) 23��5��</font>
-<a href="resbbs4_b.cgi?vew=1298">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�Ԃ����with������</b>�z</font>
+Ｄｅａｄｅｎｄ
+ さん</font>
+ <font size=2>2001年11月12日(月) 23時5分</font>
+<a href="resbbs4_b@vew_1298.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>花ちゃんwith助さん</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���̓��b�Z�Ȃǂł̈ϑ��̔��ƎG���Ȃǂɍڂ��Ă���ʔ̂Ɋւ��Ă͂悢�Ǝv���܂��B<br>���R�͂�����񂱂��͔̔���ړI�i�قƂ�ǃT�[�N���̍݌ɏ����j�Ƃ��Ă���Ǝv���܂�����B<br>�����ɑ�������͂�����̏��f���ɂ��ߋ���������܂����̂Ŗ��Ȃ��͂��ł��B<br><br>�����T�[�N�����l�̂g�o�Ŕ̔����Ă��镨�ɂ��Ă͕K�����̃T�[�N���̋�������������悢�Ǝv���܂��B��ƂƈႢ�̔����邱�Ƃ���P�ړI�Ƃ��Ȃ��Ƃ���Ȃǂ͏���ɐ�`���ꂽ�肷��̂������Ǝv���邩��ł��B<br><br>������̕��ɂ��Ă̓��C�o����������ƍ���Ƃ��͓��l����~������l���m�Řb�������Ă��炤�Ƃ��āE�E�E�������Ĕ����ɍs���Ă͊Ԃɍ���Ȃ��ł��傤���A�����Ĕ����̂��������ɓ����̂͂��Ȃ����Ȃ镨�ł����瑦����̏��͗~���s���𑝂₷���������m��܂���B<br>�u�m��Ȃ���Ζ����̂Ɠ����v�ƌ����܂����B<br><br>�A�j�B����A�����͎��Ȃ�ɏ��̎�舵���Ɋւ��Ă̊�]���������Ă��炢�܂����̂ŎQ�l�ɂ��Ă��������B����̃J�L�R�~�A������Ǝh�������������炷�݂܂���A�ł��܂��܂��F�X�������肵�܂����B<br><br>���Ƃ��Ă͂s�r�n�̂g�o�������Ă��Ă��銄�ɂ́A���l���E�E�E�ƌ����Ă������W�ł��b�f�W�ł����吧��A�j���E�f��ł��`�Ԃ͂ǂ�ł��ǂ���ł�������Ă�����̌f���ɔ��荞�݂ɂ��Ă����l�������قƂ�ǖ��������c�O�ł��B<br>�T�[�N���E���ꂩ�����̃Q�[���uAnother One -������l�̎�����-�@�̌��Łv���炢�ł��傤��������̌f���ɔ��荞�݂ɂ��ăR�~�P�ɎQ���������́H</font></ul>
+<ul><br><font size=3>私はメッセなどでの委託販売と雑誌などに載っている通販に関してはよいと思います。<br>理由はもちろんこれらは販売を目的（ほとんどサークルの在庫処理）としていると思われますから。<br>これらに属する情報はこちらの情報掲示板にも過去数件ありましたので問題ないはずです。<br><br>ただサークルが個人のＨＰで販売している物については必ずそのサークルの許可を取った方がよいと思います。企業と違い販売することが第１目的としないところなどは勝手に宣伝されたりするのを嫌うと思われるからです。<br><br>即売会の物についてはライバルが増えると困るとかは同人誌を欲しがる人同士で話し合ってもらうとして・・・情報を見て買いに行っては間に合わないでしょうし、そして買いのがしたら手に入れるのはかなり難しくなる物ですから即売会の情報は欲求不満を増やすだけかも知れません。<br>「知らなければ無いのと同じ」と言いますし。<br><br>アニィさん、今日は私なりに情報の取り扱いに関しての希望を書かせてもらいましたので参考にしてください。昨日のカキコミ、ちょっと刺激が強すぎたらすみません、でもまだまだ色々あったりしますが。<br><br>私としてはＴＳ系のＨＰが増えてきている割には、同人誌・・・と言っても小説集でもＣＧ集でも自主制作アニメ・映画でも形態はどれでも良いんですが作ってこちらの掲示板に売り込みにきてくれる人が未だほとんど無い事が残念です。<br>サークル・入れかえ魂のゲーム「Another One -もう一人の自分へ-　体験版」ぐらいでしょうかこちらの掲示板に売り込みにきてコミケに参加した物は？</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

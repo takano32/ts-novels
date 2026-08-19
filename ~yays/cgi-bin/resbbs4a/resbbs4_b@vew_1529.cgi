@@ -1,84 +1,84 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���[��A�ǂ����낤�H>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:うーん、どうだろう？>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1525>
 <input type=hidden name=ress value=1529>
-<input type=submit value=���[��A�ǂ����낤�H�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=うーん、どうだろう？へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1529>
-<font color=#6A5ACD>RE:���[��A�ǂ����낤�H</font></a>
+<font color=#6A5ACD>RE:うーん、どうだろう？</font></a>
 <font color=#303030>
-��������������
- ����</font>
- <font size=2>2002�N10��3��(��) 23��14��</font>
-<a href="resbbs4_b.cgi?vew=1529">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�ŋ߂ł̓L���b�g�������P�Ԃ��ȁH���w���Ƃ����̂����X�����ėǂ����</b>�z</font>
+ｄｅａｄｅｎｄ
+ さん</font>
+ <font size=2>2002年10月3日(木) 23時14分</font>
+<a href="resbbs4_b@vew_1529.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>最近ではキャットリンが１番かな？中学生というのが初々しくて良いよね</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����������Ăǂ��������܂���ł����B<br><br>����Ă����X���ɂ����̕����y�[�W�ڂɂȂ��ă��X���t�����肷����̂ł�����A<br>�]�v�ɑ��������悤�Ɋ����Ă���������ł��܂��܂����B<br>�W���j�[�YJr�̃J�L�R�~�̌�����O�҂������ꍇ�J�L�R�~�����ꂽ�����܂ߔƍߗ\���R�ƂƂ�ꌓ�˂Ȃ��̂ł�H<br>�Ǝv���B������������ł�����������ƌ��t���炸�ł����B<br>���i�͒��ق��Ă���^�C�v�Ȃ̂ł����c�f�����������E���Ƃ����Đ\����Ȃ������ł��B<br><br>�~�J�G���v��A�ŋߒN���������܂Ȃ��̂ł��������蔃���Y�ꂻ���ɂȂ�̂��J��Ԃ��Ă��܂��B<br>�h�g�V�[�������C���̂P�W�֖���Ȃ̂�DISTANCE�搶���߂�A��P�R�b�ł͎��ƃc���V�̃f�[�g�V�[���ɖG���܂����B�h<br>�ƁA�A�_���g����ƎE���̃R�����g���̌f���ɏ������ޗE�C���Ȃ��̂ł����ɍŋ߂̊��z��u�����肵�Ƃ��܂��B<br>�G�̕��ł������j�̖邮�炢�ɃA�b�v�ł���̂ł͂Ȃ����Ǝv���܂��̂ł�낵���B</font></ul>
+<ul><br><font size=3>お騒がせしてどうもすいませんでした。<br><br>流れていくスレにも下の方や二ページ目になってレスが付いたりするものですから、<br>余計に早く流れるように感じてつい書き込んでしまいました。<br>ジャニーズJrのカキコミの件も第三者が見た場合カキコミをされた方を含め犯罪予備軍ととられ兼ねないのでわ？<br>と思い釘を差したつもりでしたがちょっと言葉足らずでした。<br>普段は沈黙しているタイプなのですが…掲示板をすこし殺伐とさせて申し訳なかったです。<br><br>ミカエル計画、最近誰も書き込まないのでついうっかり買い忘れそうになるのを繰り返しています。<br>”Ｈシーンがメインの１８禁漫画なのにDISTANCE先生ごめん、第１３話では雫とツヨシのデートシーンに萌えました。”<br>と、アダルト漫画家殺しのコメントあの掲示板に書き込む勇気がないのでここに最近の感想を置いたりしときます。<br>絵の方ですが日曜の夜ぐらいにアップできるのではないかと思いますのでよろしく。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1530>
-<font color=#6A5ACD>RE:���[��A�ǂ����낤�H</font></a>
+<font color=#6A5ACD>RE:うーん、どうだろう？</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N10��3��(��) 23��54��</font>
-<a href="resbbs4_b.cgi?vew=1530">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�M���i�U��������łȂ��Ȃ����X�����ł���</b>�z</font>
-<ul><font size=3>�ǂ����ł��Adeadend����B<br>���񂴂�f������u�����肵�Ă����������܂�̂����Ȃ��Ƃ͌����Ȃ���ł����ǂˁB<br>�ł�����ς蓯�����p�ғ��m���ƃJ�h�������₷���Ǝv���̂ŁA���㓯�l�̂��Ƃ���������܂��͏��f���̊Ǘ��l���񂩎��Ƀ��[���Ō䑊�k���������B<br>�����̏��f�����Ƃ���j�͂����܂Łu�C�y�ɏ������߂邱�Ɓv�Ȃ�ł��B<br>�d�����⑽���̒E���ɂ͊��e�ɂȂ邱�ƂŁA�����̏������݂��l������B���ꂪ���ʓI�ɂ͋M�d�ȏ��̊l���ɂ��Ȃ��邾�낤�Ƃ����헪�ł��B<br>�K�������������ď��̏��x���グ�悤�Ƃ�������ƁA��̐헪����͊O��Ă��܂����ƂɂȂ�Ǝv����ł���B<br>������ɂ���Adeadend���񂪂悩��Ǝv���ď������݂��Ă��ꂽ�̂͂悭�킩��܂�����A���܂�C�ɂ��Ȃ��ł��������B<br>����́A���f���Ń}�b�^���Ƃ����j���[�g�����ȕ��͋C���Ɍ䋦�͂����肢���܂��B<br>�ȏ�A���̘b��A�I���B<br><br>�~�J�G���v��͔��ɗǍ�ł��ˁB<br>�ߌ��ȃG�������肾���疜�l�ɂ������߂���킯�ɂ͂����Ȃ��ł��傤���ǁA���Ƃ��Ă͕]�������ł��B<br>�����A�ڂ𐶂������L�����̕`�����݂��������o�Ă��܂�����ˁB</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2002年10月3日(木) 23時54分</font>
+<a href="resbbs4_b@vew_1530.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>ギルナザンもあれでなかなか初々しいですぞ</b>】</font>
+<ul><font size=3>どうもです、deadendさん。<br>さんざん掲示板を放置したりしてきた私があまり偉そうなことは言えないんですけどね。<br>でもやっぱり同じ利用者同士だとカドが立ちやすいと思うので、今後同様のことがあったらまずは情報掲示板の管理人さんか私にメールで御相談ください。<br>うちの情報掲示板がとる方針はあくまで「気軽に書き込めること」なんです。<br>重複情報や多少の脱線には寛容になることで、多数の書き込みを獲得する。それが結果的には貴重な情報の獲得にもつながるだろうという戦略です。<br>規律を厳しくして情報の純度を上げようとしすぎると、上の戦略からは外れてしまうことになると思うんですよ。<br>いずれにせよ、deadendさんがよかれと思って書き込みしてくれたのはよくわかりますから、あまり気にしないでください。<br>今後は、情報掲示板でマッタリとしたニュートラルな雰囲気作りに御協力をお願いします。<br>以上、この話題、終了。<br><br>ミカエル計画は非常に良作ですね。<br>過激なエロが売りだから万人におすすめするわけにはいかないでしょうけど、私としては評価高いです。<br>長期連載を生かしたキャラの描き込みが見応え出てきましたよね。</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

@@ -1,129 +1,129 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�~�R�~�ł̊Y���T�[�N�����ɂ���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:冬コミでの該当サークル情報について>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1650>
 <input type=hidden name=ress value=1650>
-<input type=submit value=�~�R�~�ł̊Y���T�[�N�����ɂ��Ă֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=冬コミでの該当サークル情報についてへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1650>
-<font color=#6A5ACD>�~�R�~�ł̊Y���T�[�N�����ɂ���</font></a>
+<font color=#6A5ACD>冬コミでの該当サークル情報について</font></a>
 <font color=#303030>
-<a href=mailto:fusigi_daisuke@hotmail.com>�s�v�c��T�i���������j</a>
- ����</font>
- <font size=2>2002�N12��17��(��) 0��6��</font>
-<a href="resbbs4_b.cgi?vew=1650">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�v���e�E�X�̌[��</b>�z</font>
+<a href=mailto:fusigi_daisuke@hotmail.com>不思議大典（だいすけ）</a>
+ さん</font>
+ <font size=2>2002年12月17日(火) 0時6分</font>
+<a href="resbbs4_b@vew_1650.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>プロテウスの啓示</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�~�R�~�ł̎Q���T�[�N���ɂ���(�������Y�����Ɍ���)���̔ł���肷�邱�Ƃ́A�����̎�|�ɔ����܂����H<br>�����Ȃ��Y���T�[�N���A�o���邾�������K��Ă݂����̂ł��B<br>�T�[�N���J�b�g�ł̍��m��A�����ŊY����i���o���Ă���T�[�N���̏��ȂǁA�F����̂��m�b��q�؂������̂ł����A��낵���ł��傤���B</font></ul>
+<ul><br><font size=3>冬コミでの参加サークルについて(もちろん該当情報に限る)この板でやり取りすることは、ここの趣旨に反しますか？<br>数少ない該当サークル、出来るだけ多く訪れてみたいのです。<br>サークルカットでの告知や、既刊で該当作品を出しているサークルの情報など、皆さんのお知恵を拝借したいのですが、よろしいでしょうか。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1651>
-<font color=#6A5ACD>RE:�~�R�~�ł̊Y���T�[�N�����ɂ���</font></a>
+<font color=#6A5ACD>RE:冬コミでの該当サークル情報について</font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2002�N12��17��(��) 0��16��</font>
-<a href="resbbs4_b.cgi?vew=1651">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ȑO�ɂ�߂Ă����������悢�̂ł͂Ȃ����Ƃ�����|�̔�����������������܂��B<br>�T�[�N������̖{���̎�|��q�w�ƈႤ���łs�r�t�@�����W������Ƃ��̃T�[�N�����D���ōw���������Ǝv�������Ȃǂɂ킽��Ȃ��Ȃ�ƌ����̂���|�������悤�Ɏv���܂��B<br>�������ɔz���Ƃ��Ă����Ƃ��Ȏ��Ƃ��̂Ƃ��͊����܂����B</font></ul>
+通りすがり
+ さん</font>
+ <font size=2>2002年12月17日(火) 0時16分</font>
+<a href="resbbs4_b@vew_1651.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>以前にやめておいた方がよいのではないかという趣旨の発言を見た事があります。<br>サークルさんの本来の趣旨や客層と違う所でＴＳファンが集中するとそのサークルが好きで購入したいと思った方などにわたらなくなると言うのが趣旨だったように思います。<br>たしかに配慮としてもっともな事とそのときは感じました。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1653>
-<font color=#6A5ACD>RE:�~�R�~�ł̊Y���T�[�N�����ɂ���</font></a>
+<font color=#6A5ACD>RE:冬コミでの該当サークル情報について</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N12��17��(��) 0��32��</font>
-<a href="resbbs4_b.cgi?vew=1653">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����ƁA����Ⴂ�̃��X�ł����B<br>�t�H���[���肪�Ƃ��������܂��B<br>�Ƃ肠�����A�Ǘ��l�Ƃ��Ĉꗥ�֎~�����邱�Ƃ͂Ȃ��ł��B<br>�����b�g�ƃf�����b�g�̑o�������邱�Ƃ��Ǝv���܂��̂ŁA�X�l���ƁE�P�[�X���Ƃɐ���̔��f�����Ă��炢�����Ǝv���܂��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2002年12月17日(火) 0時32分</font>
+<a href="resbbs4_b@vew_1653.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>おっと、入れ違いのレスでした。<br>フォローありがとうございます。<br>とりあえず、管理人として一律禁止をすることはないです。<br>メリットとデメリットの双方があることだと思いますので、個々人ごと・ケースごとに是非の判断をしてもらいたいと思います。</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=1652>
-<font color=#6A5ACD>RE:�~�R�~�ł̊Y���T�[�N�����ɂ���</font></a>
+<font color=#6A5ACD>RE:冬コミでの該当サークル情報について</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N12��17��(��) 0��26��</font>
-<a href="resbbs4_b.cgi?vew=1652">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�n�k�ے�</b>�z</font>
-<ul><font size=3>�u�v���e�E�X�̌[���v�͌l�I�ɂ͂��̂������D���ȏ����ł����B<br>�ŁA�{��ł����A<br>�������������l������Ԃ�ɂ́A�܂���������Ȃ��ł���B<br>�������������̓��l���Ȃǂ́A��񂪍L�܂��������߂ɂ������蔄��؂�Ă��܂��i���̂���̏�A�̐l�̎�ɓn��Ȃ��j���Ƃ��L�蓾��̂ŁA���̂ւ�𓥂܂��������ŌX�ɏ������̐���𔻒f�����炢���Ǝv���܂��B<br>�Ƃ肠�������Ƃ��ẮA�f����L�����p���Ă��炦��̂͑劽�}�ł���B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2002年12月17日(火) 0時26分</font>
+<a href="resbbs4_b@vew_1652.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>ＯＬ課長</b>】</font>
+<ul><font size=3>「プロテウスの啓示」は個人的にはものすごく好きな小説でした。<br>で、本題ですが、<br>情報交換したい人がするぶんには、まったく文句ないですよ。<br>ただし少部数の同人誌などは、情報が広まったがためにあっさり売り切れてしまう（＝昔からの常連の人の手に渡らない）ことも有り得るので、そのへんを踏まえたうえで個々に情報交換の是非を判断したらいいと思います。<br>とりあえず私としては、掲示板を有効利用してもらえるのは大歓迎ですよ。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1654>
-<font color=#6A5ACD>RE:�~�R�~�ł̊Y���T�[�N�����ɂ���</font></a>
+<font color=#6A5ACD>RE:冬コミでの該当サークル情報について</font></a>
 <font color=#303030>
-<a href=mailto:fusigi_daisuke@hotmail.com>�s�v�c��T</a>
- ����</font>
- <font size=2>2002�N12��17��(��) 2��23��</font>
-<a href="resbbs4_b.cgi?vew=1654">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�v�������e�Ȃ��Ԏ��A�L��������܂��B<br></font></ul>
+<a href=mailto:fusigi_daisuke@hotmail.com>不思議大典</a>
+ さん</font>
+ <font size=2>2002年12月17日(火) 2時23分</font>
+<a href="resbbs4_b@vew_1654.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>迅速かつ寛容なご返事、有難うございます。<br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=1655>
-<font color=#6A5ACD>RE:�~�R�~�ł̊Y���T�[�N�����ɂ���</font></a>
+<font color=#6A5ACD>RE:冬コミでの該当サークル情報について</font></a>
 <font color=#303030>
-<a href=mailto:fusigi_daisuke@hotmail.com>�s�v�c��T</a>
- ����</font>
- <font size=2>2002�N12��17��(��) 2��58��</font>
-<a href="resbbs4_b.cgi?vew=1655">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�n�k�����J���o�b�N�I</b>�z</font>
-<ul><font size=3>�v�������e�Ȃ��Ԏ��A�L��������܂��B<br>���d�F����̋���Ղ��܂����̂ŁA�����������̕��t�o���đՂ���΍K���ł��B<br>���͊�����񂪖����̂ŁA�T�[�N���J�b�g����T���Ăt�o�������ł��B<br><br>�o�r.�u�v���e�E�X�̌[���v�����ƂĂ��C�ɓ����ĉ��x���ǂݕԂ��Ă��܂��B<br>�����ďa���Z���N�g�������̂ɁA������Ԃ��Ă��������āA������Ƃ��ꂵ���ł��B<br>(���ǂ̕��ցA���̍�i�͐l�ނ̃o�C�I�e�N�m���W�[�����B���āA�����̐��ʂ�ς��邱�Ƃ��A�������I�Ɏ󂯓�����Ă���Љ����Ƃ��������ŁA�s�r�͎��ł͂���܂���B�������r�e�����Ƃ��Ă͌��삾�Ǝv���܂��B)</font></ul>
+<a href=mailto:fusigi_daisuke@hotmail.com>不思議大典</a>
+ さん</font>
+ <font size=2>2002年12月17日(火) 2時58分</font>
+<a href="resbbs4_b@vew_1655.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>ＯＬ部長カムバック！</b>】</font>
+<ul><font size=3>迅速かつ寛容なご返事、有難うございます。<br>八重洲さんの許可を戴きましたので、情報をお持ちの方ＵＰして戴ければ幸いです。<br>私は既刊情報が無いので、サークルカットから探してＵＰするつもりです。<br><br>ＰＳ.「プロテウスの啓示」私もとても気に入って何度か読み返しています。<br>あえて渋いセレクトをしたのに、反応を返していただいて、ちょっとうれしいです。<br>(未読の方へ、この作品は人類のバイオテクノロジーが発達して、自分の性別を変えることが、モラル的に受け入れられている社会が舞台というだけで、ＴＳは主題ではありません。ただしＳＦ小説としては傑作だと思います。)</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1678>
-<font color=#6A5ACD>�������������̂ɐ\����Ȃ��B</font></a>
+<font color=#6A5ACD>お騒がせしたのに申し訳ない。</font></a>
 <font color=#303030>
-�s�v�c��T�i���������j
- ����</font>
- <font size=2>2002�N12��29��(��) 2��38��</font>
-<a href="resbbs4_b.cgi?vew=1678">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�Y���T�[�N��</b>�z</font>
-<ul><font size=3>�N��������񋟂������Ă��A�����Ń`�F�b�N�������̓A�b�v������肾������ł����A���̊��ɋy��ŁA�����̕�����o���Ă܂���B���񂪗L�������́A�����Ƒ�����g�ޗl�ɂ��܂��B</font></ul>
+不思議大典（だいすけ）
+ さん</font>
+ <font size=2>2002年12月29日(日) 2時38分</font>
+<a href="resbbs4_b@vew_1678.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>該当サークル</b>】</font>
+<ul><font size=3>誰からも情報提供が無くても、自分でチェックした分はアップするつもりだったんですが、この期に及んで、自分の分すら出来てません。次回が有った時は、もっと早く取組む様にします。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -131,7 +131,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

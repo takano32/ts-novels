@@ -1,11 +1,11 @@
 
 <HTML>
 <HEAD>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=x-sjis">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <META name="ROBOTS" content="NOINDEX,NOFOLLOW">
 <META http-equiv="Content-Style-Type" content="text/css">
 <META http-equiv="Content-Script-Type" content="text/javascript">
-<TITLE>���C�y���������a�a�r</TITLE>
+<TITLE>お気軽おえかきＢＢＳ</TITLE>
 <script language="JavaScript">
 <!--
 	function showApplet(){
@@ -36,42 +36,42 @@
 <BODY bgcolor="#D0E8FF" text="#0066CC" link="#333399" vlink="#003366" alink="#FF1111">
 
 
-<CENTER><FONT SIZE=+2><B>�� �l�ޏ��̎q���ψ��� ��</B></FONT></CENTER>
+<CENTER><FONT SIZE=+2><B>■ 人類女の子化委員会 ■</B></FONT></CENTER>
 
 <NOSCRIPT>
-<H3>JavaScript���L���łȂ����ߐ���ɓ���v���܂���</H3></NOSCRIPT>
-	[<a TITLE="�g�b�v�y�[�W�ɖ߂�" href="http://www14.big.or.jp/~yays/">�g�b�v</a>]
-	[<a TITLE="�ŐV���ɍX�V" href="./bbsnote.cgi">�X�V</a>]
-	[<a TITLE="�ԐM���ɕ\��" href="./bbsnote.cgi?fc=page&sort=1&page=7">�ԐM��</A>]
-	[<a TITLE="�T���l�C���y�ʕ\��" href="./bbsnote.cgi?fc=page&mode=light&sort=0&page=7">�T���l�C��</A>]
-<!--SKIN_WRITE:begin-->	[<a TITLE="�ʏ폑������" href="./bbsnote.cgi?fc=post">�ʏ�J�L�R</a>]<!--SKIN_WRITE:end-->
-	[<A TITLE="���G�`������(�W���ݒ�)" HREF="./bbsnote.cgi?fc=paint">���G�`��</A>]
-	[<A TITLE="�폜���[�h��" HREF="./bbsnote.cgi?fc=delete&sort=0&page=7">����</A>]
-	[<A TITLE="�Ǘ����[�h" HREF="./bbsnote.cgi?fc=admin">�Ǘ�</a>]
-	[<a TITLE="BBS�ݒ�" href="./bbsnote.cgi?fc=help">�ݒ�</a>]
-	[<a TITLE="���K�y�[�W" href="http://www14.big.or.jp/~yays/cgi-bin/paintbbs2/index.html">���K</a>]
-	<A HREF="#pages" TITLE="�y�[�W�ŉ�����">��</A><BR>
-	<Font Face="Impact" SIZE="2"><FORM NAME="applet"><INPUT CLASS="button" TYPE="Button" VALUE="PAINT" onClick="showApplet()"><INPUT TYPE="HIDDEN" name="mode" value="sii">&nbsp;&nbsp;&nbsp;PALETTE&nbsp;<select CLASS="button" name="palette"><option value="" selected> �f�t�H���g</option><option value="hadairo">���F�n</option>
-<option value="red">�Ԍn</option>
-<option value="yellow">���E��n</option>
-<option value="green">�Όn</option>
-<option value="blue">�n</option>
-<option value="purple">���n</option>
-<option value="brown">�Z�s�A</option>
-<option value="character">�l��</option>
-<option value="pastel">�p�X�e��</option>
-<option value="sougen">�����̑�n</option>
-<option value="moe">�G���T�N��</option>
-<option value="grayscale">���m�N��</option>
-</select>&nbsp;&nbsp;&nbsp;CanvasSize&nbsp;<INPUT CLASS="button" TYPE="TEXT" VALUE="200" NAME="width" SIZE="2" TITLE="��">&nbsp;x&nbsp;<INPUT CLASS="button" TYPE="TEXT" VALUE="200" NAME="height" SIZE="2" TITLE="����"> (800x600�܂Ŏ��R�ɕύX��)</font></FORM>
-	���L�����������������̂ɖG���Ȑa�m�i���̌𗬏�ł����B<br>
-�u���E�U�ł��G�`�����ł��܂����B�A�b�v���[�h���ł����B<br>
-<s>���݂͉{���݂̂œ��e�͕s�ƂȂ��Ă��܂��B</s><br>
+<H3>JavaScriptが有効でないため正常に動作致しません</H3></NOSCRIPT>
+	[<a TITLE="トップページに戻る" href="../../index.html">トップ</a>]
+	[<a TITLE="最新情報に更新" href="bbsnote.cgi">更新</a>]
+	[<a TITLE="返信順に表示" href="bbsnote@fc_page_sort_1_page_7.cgi">返信順</A>]
+	[<a TITLE="サムネイル軽量表示" href="bbsnote@fc_page_mode_light_sort_0_page_7.cgi">サムネイル</A>]
+<!--SKIN_WRITE:begin-->	[<a TITLE="通常書き込み" href="bbsnote@fc_post.cgi">通常カキコ</a>]<!--SKIN_WRITE:end-->
+	[<A TITLE="お絵描きする(標準設定)" HREF="bbsnote@fc_paint.cgi">お絵描き</A>]
+	[<A TITLE="削除モードへ" HREF="bbsnote@fc_delete_sort_0_page_7.cgi">消す</A>]
+	[<A TITLE="管理モード" HREF="bbsnote@fc_admin.cgi">管理</a>]
+	[<a TITLE="BBS設定" href="bbsnote@fc_help.cgi">設定</a>]
+	[<a TITLE="練習ページ" href="../paintbbs2/index.html">練習</a>]
+	<A HREF="#pages" TITLE="ページ最下部へ">▼</A><BR>
+	<Font Face="Impact" SIZE="2"><FORM NAME="applet"><INPUT CLASS="button" TYPE="Button" VALUE="PAINT" onClick="showApplet()"><INPUT TYPE="HIDDEN" name="mode" value="sii">&nbsp;&nbsp;&nbsp;PALETTE&nbsp;<select CLASS="button" name="palette"><option value="" selected> デフォルト</option><option value="hadairo">肌色系</option>
+<option value="red">赤系</option>
+<option value="yellow">黄・橙系</option>
+<option value="green">緑系</option>
+<option value="blue">青系</option>
+<option value="purple">紫系</option>
+<option value="brown">セピア</option>
+<option value="character">人物</option>
+<option value="pastel">パステル</option>
+<option value="sougen">草原の大地</option>
+<option value="moe">萌えサクラ</option>
+<option value="grayscale">モノクロ</option>
+</select>&nbsp;&nbsp;&nbsp;CanvasSize&nbsp;<INPUT CLASS="button" TYPE="TEXT" VALUE="200" NAME="width" SIZE="2" TITLE="幅">&nbsp;x&nbsp;<INPUT CLASS="button" TYPE="TEXT" VALUE="200" NAME="height" SIZE="2" TITLE="高さ"> (800x600まで自由に変更可)</font></FORM>
+	♂キャラを美少女化するのに萌えな紳士淑女の交流場でした。<br>
+ブラウザでお絵描きができました。アップロードも可でした。<br>
+<s>現在は閲覧のみで投稿は不可となっています。</s><br>
 <br>
 <TABLE><TR><TD>
 <FONT SIZE=-1>
-��<a href="http://www14.big.or.jp/~yays/cgi-bin/paintbbs2/index.html">�e�X�g���e�͂�����ŁB</a>�����������K�Ȃǂɂ��B<br>
-�� ���f�]�ڂ͂Ȃ��ł���`�B�K����҂���̋��𓾂ĉ������B<br>
+◆<a href="../paintbbs2/index.html">テスト投稿はこちらで。</a>おえかき練習などにも。<br>
+◆ 無断転載はなしですよ～。必ず作者さんの許可を得て下さい。<br>
 </FONT></TD><TD>
 This was a painting board for fanfiction-and-TG arts.<br>
 You cannot post paintings or comments anymore.Browsing only.<br>
@@ -83,66 +83,66 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.121 �j�ꊪ���� </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F ��������������  / <B>TIME</B> : 2002/05/25 (Sat) 15:51  </Font><BR>
-	<Font size=1></font><BR><IMG SRC="./data/IMG_000113.png" ALIGN="LEFT" BORDER=0 width=450 height=600 ALT="IMG_000113.png ( 64 KB )" TITLE="IMG_000113.png ( 64 KB )"> <Font color="#000066" size="3"> �ŋ߂��C�y�ɕ`�����߂Ȃ����͋C�ɂȂ��Ă���Ȃ��Ǝv���Ă���̂ł����A<BR>�~�J�G���v��ꊪ�����L�O�ƌ������ƂŁc<P>�~�J�G���v����A�ڂW��𐔂��܂������W�b�݂����Șb���D���ł��ˁB<P>�o���A�����т���I�uCOMIC�֓V�v�Ղ�a�a�r�Ɂh��̊G�`������h���P�s�{��`�ɂ��炵�Ă܂��B </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.121 祝一巻発売 </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： ｄｅａｄｅｎｄ  / <B>TIME</B> : 2002/05/25 (Sat) 15:51  </Font><BR>
+	<Font size=1></font><BR><IMG SRC="data/IMG_000113.png" ALIGN="LEFT" BORDER=0 width=450 height=600 ALT="IMG_000113.png ( 64 KB )" TITLE="IMG_000113.png ( 64 KB )"> <Font color="#000066" size="3"> 最近お気軽に描き込めない雰囲気になっているなぁと思っているのですが、<BR>ミカエル計画一巻発売記念と言うことで…<P>ミカエル計画も連載８回を数えましたが８話みたいな話が好きですね。<P>バンアレン帯だよ！「COMIC曼天」祭りＢＢＳに”謎の絵描きさん”が単行本宣伝にいらしてます。 </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ��������  &nbsp; <BR>
+			<NOBR><B>NAME</B> : ○○っち  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/28 (Tue) 23:43  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ���x�b�A���ꂽ��E�E�E 
+			<Font color="#000066" size="3"> ヤベッ、惚れたよ・・・ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/30 (Thu) 18:19  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �������I���ĖG���ł��B<BR>�`�����݂ɂ������͋C������܂����H<BR>�Ǘ��l���񂪂��Z�����݂����ł��̂ŁA����ȏ�̕��S�𑝂₳�Ȃ��悤�ɊF���񂪔z�����ē��e���T���Ă���������̂�������܂���B 
+			<Font color="#000066" size="3"> すごく巧くて萌えです。<BR>描き込みにくい雰囲気がありますか？<BR>管理人さんがお忙しいみたいですので、これ以上の負担を増やさないように皆さんが配慮して投稿を控えていらっしゃるのかもしれません。 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="121">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.119 ���͂ł��B </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F <A HREF="mailto:las232sayaka@mail.goo.ne.jp">�Ћ˂��₩</A> [<A HREF="http://ip.tosp.co.jp/i.asp?i=Las232" target="_blank">HOME</A>] / <B>TIME</B> : 2002/05/21 (Tue) 22:19  </Font><BR>
-	 <Font color="#000066" size="3"> ���]��(������)�ȃl�^��<B><Font color="FF0066" SIZE="+1">�G��</Font></B>��B���������Č˘f�������N(��)<P>�ȁA�y�������A�F�ł킩�������ׂɌg�ѓd�b�p�z�`���y�`�W�ii mode <B><Font color="FF0066">�T�C�g</Font></B>�j�����܂����B<P>���`�����APC��pBBS������Ă���܂��B<P><P> </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.119 おはつです。 </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： <A HREF="mailto:las232sayaka@mail.goo.ne.jp">片桐さやか</A> [<A HREF="http://ip.tosp.co.jp/i.asp?i=Las232" target="_blank">HOME</A>] / <B>TIME</B> : 2002/05/21 (Tue) 22:19  </Font><BR>
+	 <Font color="#000066" size="3"> 性転換(♂→♀)なネタで<B><Font color="FF0066" SIZE="+1">萌え</Font></B>ろ。女性化して戸惑う美少年(笑)<P>な、楽しさを、皆でわかちあう為に携帯電話用ホ～ムペ～ジ（i mode <B><Font color="FF0066">サイト</Font></B>）を作りました。<P>モチロン、PC専用BBSも作ってあります。<P><P> </Font>
 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="119">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.118 �X�y�[�h�̃N�B�[���H </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F nomad2000  / <B>TIME</B> : 2002/05/16 (Thu) 01:29  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=118">��Continue</A></font><BR><IMG SRC="./data/IMG_000111.jpg" ALIGN="LEFT" BORDER=0 width=254 height=260 ALT="IMG_000111.jpg ( 38 KB )" TITLE="IMG_000111.jpg ( 38 KB )"> <Font color="#000066" size="3"> ���ȁH </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.118 スペードのクィーン？ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： nomad2000  / <B>TIME</B> : 2002/05/16 (Thu) 01:29  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_118.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000111.jpg" ALIGN="LEFT" BORDER=0 width=254 height=260 ALT="IMG_000111.jpg ( 38 KB )" TITLE="IMG_000111.jpg ( 38 KB )"> <Font color="#000066" size="3"> かな？ </Font>
 
 		
 
@@ -162,95 +162,95 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/17 (Fri) 17:48  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ����Ȃɉ��炵���Ȃ�������āA�����B(^^)<BR>�����Ńs�n�R���j�ɂȂ��Ă��肵�āi�΁j 
+			<Font color="#000066" size="3"> こんなに可愛らしくなっちゃって、もう。(^^)<BR>反動でピＯコが男になってたりして（笑） 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ���𖳂�  &nbsp; <BR>
+			<NOBR><B>NAME</B> : 名を無し  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/18 (Sat) 05:40  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �ԁ@���q 
+			<Font color="#000066" size="3"> 間　黒子 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="118">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.117 �x��΂��Ȃ��� </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F �������� [<A HREF="http://www3.gateway.ne.jp/~t-chiba/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/05/10 (Fri) 15:07  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=117">��Continue</A></font><BR><IMG SRC="./data/IMG_000110.jpg" ALIGN="LEFT" BORDER=0 width=250 height=250 ALT="IMG_000110.jpg ( 34 KB ) with Shi-cyan applet" TITLE="IMG_000110.jpg ( 34 KB ) with Shi-cyan applet"> <Font color="#000066" size="3"> �O��Ɉ��������āA<BR>���x�͈��Ȃ񂼂��B<P>�u���ꂪ�E�E�E���H<BR>�N�b�N�b�N�c�E�E�E<BR>�n�@�[�b�n�b�n�b�n�b�I�I�v<P>�E�E�E���Ċ����Łi�� </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.117 遅ればせながら </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： あさぎり [<A HREF="http://www3.gateway.ne.jp/~t-chiba/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/05/10 (Fri) 15:07  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_117.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000110.jpg" ALIGN="LEFT" BORDER=0 width=250 height=250 ALT="IMG_000110.jpg ( 34 KB ) with Shi-cyan applet" TITLE="IMG_000110.jpg ( 34 KB ) with Shi-cyan applet"> <Font color="#000066" size="3"> 前回に引き続いて、<BR>今度は庵なんぞを。<P>「これが・・・俺？<BR>クックックツ・・・<BR>ハァーッハッハッハッ！！」<P>・・・って感じで（笑 </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/10 (Fri) 20:03  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �i�C�X�����I(^^)<BR>������A�ϐg��������̔��e�i�i�C�X�o�f�B�Ԃ�j�ɓ��h���B���Ȃ��悤�ł��ˁi�΁j<BR>����͒N������̂��y���݂ł��B 
+			<Font color="#000066" size="3"> ナイスっす！(^^)<BR>庵たん、変身した自らの美貌（ナイスバディぶり）に動揺を隠せないようですね（笑）<BR>次回は誰が来るのか楽しみです。 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : <A HREF="mailto:RX78GP03@lycos.jp">�ł�ǂ�</A>  &nbsp; <BR>
+			<NOBR><B>NAME</B> : <A HREF="mailto:RX78GP03@lycos.jp">でんどろ</A>  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/10 (Fri) 20:33  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ���ꂾ������������΁c�c�˂��H(��)<BR>�j�n�e�Q�O�O�R�ɂ͐��񂱂��(��)<BR>���ɂ��鋞�Ƃj�f�����_�B 
+			<Font color="#000066" size="3"> あれだけ胸板が厚ければ……ねえ？(笑)<BR>ＫＯＦ２００３には是非これで(爆)<BR>下にいる京とＫ’も無論。 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="117">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.116 �����C </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/05/08 (Wed) 23:19  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=116">��Continue</A></font><BR><IMG SRC="./data/IMG_000109.jpg" ALIGN="LEFT" BORDER=0 width=233 height=332 ALT="IMG_000109.jpg ( 36 KB )" TITLE="IMG_000109.jpg ( 36 KB )"> <Font color="#000066" size="3"> ���Ȃ݂ɃI���W�i���́u�ϐg�h�����N�v�ł́A�ϐg���_�ł��񑩂̂����C����Ȃ�����ǑS���ł����ˁB<BR>���Ɓu����ւ����[�v�H�v�ł́A�������i�O�ς̂т��j�͂����C�ɓ��낤�Ƃ��ė��ɂȂ�܂����A�̂т��i�O�ς������j�́A�r���ł������Ɏ~�߂��ďI���܂��B </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.116 お風呂 </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/05/08 (Wed) 23:19  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_116.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000109.jpg" ALIGN="LEFT" BORDER=0 width=233 height=332 ALT="IMG_000109.jpg ( 36 KB )" TITLE="IMG_000109.jpg ( 36 KB )"> <Font color="#000066" size="3"> ちなみにオリジナルの「変身ドリンク」では、変身時点でお約束のお風呂じゃないけれど全裸でしたね。<BR>あと「入れ替えロープ？」では、しずか（外観のびた）はお風呂に入ろうとして裸になりますが、のびた（外観しずか）は、途中でしずかに止められて終わります。 </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/10 (Fri) 19:59  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ������ʂ����ʁI<BR>�̂ё��͂���ς���������ዾ���O���܂���ˁB 
+			<Font color="#000066" size="3"> 入浴場面を激写！<BR>のび太はやっぱり入浴時も眼鏡を外せませんね。 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : nomad2000  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/10 (Fri) 22:40  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �����C�ł̓��K�l�O���Ĕ����������ȂƂ��v������ł����A���ꂾ�ƒN�����킩��Ȃ��Ȃ����Ⴄ�̂Łi�΁j<BR>���������΁A����̖��O��Y��܂������A�������������C�ɓ����Ă���Ƃ��ɁA���̊��G������̊�����Ƃ����̂�����܂����ˁB 
+			<Font color="#000066" size="3"> お風呂ではメガネ外して髪も解くかなとも思ったんですが、それだと誰だかわかんなくなっちゃうので（笑）<BR>そういえば、道具の名前を忘れましたが、しずかがお風呂に入っているときに、その感触だけを体感するというのもありましたね。 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : blue  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/11 (Sat) 07:09  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ����`��A�̂ё�����̃G�b�`�`�I�i�΁j 
+			<Font color="#000066" size="3"> いや～ん、のび太さんのエッチ～！（笑） 
 		
 
 			
@@ -263,30 +263,30 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="116">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.115 �ϐg�� </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/05/08 (Wed) 23:01  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=115">��Continue</A></font><BR><IMG SRC="./data/IMG_000108.gif" ALIGN="LEFT" BORDER=0 width=156 height=322 ALT="IMG_000108.gif ( 166 KB )" TITLE="IMG_000108.gif ( 166 KB )"> <Font color="#000066" size="3"> ���N�G�X�g�ɂ��������ă��[�t�B���O������Č��܂����B </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.115 変身中 </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/05/08 (Wed) 23:01  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_115.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000108.gif" ALIGN="LEFT" BORDER=0 width=156 height=322 ALT="IMG_000108.gif ( 166 KB )" TITLE="IMG_000108.gif ( 166 KB )"> <Font color="#000066" size="3"> リクエストにお応えしてモーフィングを作って見ました。 </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/10 (Fri) 19:59  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ��[���I�@�Җ]�̕ϐg���[�t�B���O���[�B(^^)<BR>�f�����Ή����肪�Ƃ��������܂��B<BR>�������̂��܂��ʂ̑O�œ]���܂���Ă���܂��B<BR>����Ȃ�ł͂̂܂΂������ǂ��ł��ˁ` 
+			<Font color="#000066" size="3"> わーい！　待望の変身モーフィングだー。(^^)<BR>素早い対応ありがとうございます。<BR>嬉しさのあまり画面の前で転げまわっております。<BR>動画ならではのまばたきも良いですね～ 
 		
 
 			
@@ -300,7 +300,7 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : blue  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/11 (Sat) 07:13  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ����`�A�A�j���[�V�����Ō����<BR>��肢�������G���ł��ˁI<BR>�̂ё��ɔ�ׂĂ��������̃X�^�C���ǂ����ƁI 
+			<Font color="#000066" size="3"> いや～、アニメーションで見ると<BR>よりいっそう萌えですね！<BR>のび太に比べてしずちゃんのスタイル良いこと！ 
 		
 
 			
@@ -314,35 +314,35 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : masi  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/13 (Mon) 05:34  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ����ς�̂ё��̕��̊ዾ�͕s�����ł����B<BR>�ዾ���O�����炵���������̉������ځX��<BR>�������肵�āE�E�E�i��<BR>���A�ł��A���ɖ߂�u�Ԃɓ_�ڂɂȂ��Ă�̂�<BR>������E�E�E�i�� 
+			<Font color="#000066" size="3"> やっぱりのび太の方の眼鏡は不透明ですか。<BR>眼鏡を外したらしずちゃん並の可愛いお目々が<BR>あったりして・・・（ｗ<BR>あ、でも、元に戻る瞬間に点目になってるのが<BR>見える・・・（泣 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : nomad2000  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/13 (Mon) 23:33  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �햾��������Ƃł��ˁB<BR>���K�l�͕ʃ��C���[�ɂȂ��Ă��āA���[�t�B���O�̓��K�l�Ȃ��ō���Ă���܂��B<BR>������A�ڂ����񂾂�傫���Ȃ�H�悤�Ȋ����Ȃ�ł�����ǁA���K�l��s�����ɂ�������������ƃ_�[�N�ȃC���[�W���o�Ă������ȂƂ��B<BR>�i�O�O�G�j 
+			<Font color="#000066" size="3"> 種明かしするとですね。<BR>メガネは別レイヤーになっていて、モーフィングはメガネなしで作ってあります。<BR>だから、目がだんだん大きくなる？ような感じなんですけれど、メガネを不透明にした方がちょっとダークなイメージが出ていいかなとか。<BR>（＾＾；） 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="115">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.114 ���ɐG�񂶂�˂��B </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F �{�i���U  / <B>TIME</B> : 2002/05/04 (Sat) 17:11  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=114">��Continue</A></font><BR><IMG SRC="./data/IMG_000107.jpg" ALIGN="LEFT" BORDER=0 width=300 height=500 ALT="IMG_000107.jpg ( 81 KB ) with Shi-cyan applet" TITLE="IMG_000107.jpg ( 81 KB ) with Shi-cyan applet"> <Font color="#000066" size="3"> ���ɋ�����������Ƃ�����ł͂Ȃ��̂ł���<BR>�j�f�����̉����Ă݂܂����B<BR>�c�ɒ����Ă��݂܂���B </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.114 俺に触んじゃねぇ。 </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： ボナンザ  / <B>TIME</B> : 2002/05/04 (Sat) 17:11  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_114.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000107.jpg" ALIGN="LEFT" BORDER=0 width=300 height=500 ALT="IMG_000107.jpg ( 81 KB ) with Shi-cyan applet" TITLE="IMG_000107.jpg ( 81 KB ) with Shi-cyan applet"> <Font color="#000066" size="3"> 下に京が居たからという訳ではないのですが<BR>Ｋ’を女体化してみました。<BR>縦に長くてすみません。 </Font>
 
 		
 
@@ -355,30 +355,30 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/07 (Tue) 17:48  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ����[�A�f�G�������I<BR>�Ƃ����������ꒃ��肢�ł���B<BR>����ȃi�C�X�ȃC���X�g��q���ł���Ȃ�c���͂ނ��됄���������ł��i��Ȃ��Ə���Ɍ����Ă����̂��H�j 
+			<Font color="#000066" size="3"> きゃー、素敵すぎっ！<BR>というか無茶苦茶上手いですよ。<BR>こんなナイスなイラストを拝見できるなら縦長はむしろ推奨したいです（んなこと勝手に言っていいのか？） 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="114">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.113 �N�N�΍ΉԂ���������΁X�N�X�l�������炸 </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F anjoe  / <B>TIME</B> : 2002/04/30 (Tue) 12:21  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=113">��Continue</A></font><BR><IMG SRC="./data/IMG_000106.jpg" ALIGN="LEFT" BORDER=0 width=480 height=480 ALT="IMG_000106.jpg ( 43 KB )" TITLE="IMG_000106.jpg ( 43 KB )"> <Font color="#000066" size="3"> opendice.ne.jp������łւ̃T�|�[�g��<BR>����4/30�������đł��؂�T��I�����C�����݂Ă�<BR>���܂�厖�ɂ��ĖႦ�Ȃ��������z�ȍ�i�������ȁE�E�ƁB<BR>����ł�TS����݂̂��L��܂�����������4���m�Ƃ������ƂŒp�̕`���̂āB<BR>�u�e�j�X�̉����l�v�̕��ɒN���R�����g���Ă����Ă������͂ق��Ƃ��ā@�@(-_-;�@�@�ˁB���u��]! </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.113 年年歳歳花あい似たり歳々年々人同じからず </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： anjoe  / <B>TIME</B> : 2002/04/30 (Tue) 12:21  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_113.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000106.jpg" ALIGN="LEFT" BORDER=0 width=480 height=480 ALT="IMG_000106.jpg ( 43 KB )" TITLE="IMG_000106.jpg ( 43 KB )"> <Font color="#000066" size="3"> opendice.ne.jpが正常版へのサポートを<BR>今日4/30をもって打ち切るサ大オンラインをみても<BR>あまり大事にして貰えなかった可哀想な作品だったな・・と。<BR>それでもTSがらみのも有りましたしここは4同士ということで恥の描き捨て。<BR>「テニスの王女様」の方に誰かコメントしてあげてこっちはほっといて　　(-_-;　　ね。放置希望! </Font>
 
 		
 
@@ -393,14 +393,14 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : anjoe(Attention! I'm japanese)  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/06 (Mon) 10:36  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> I can't use english,sorry.<BR>They're �T�N�����'s characters.<BR>&quot;[�h���R��] �ԑg�ΐ�R�����X�Q&quot;<BR>by SEGA CORPORATION in �Q�O�O�Q/�T/�Q�R<BR>It's including TGepisode, so I painted these characters.<P> 
+			<Font color="#000066" size="3"> I can't use english,sorry.<BR>They're サクラ大戦's characters.<BR>&quot;[ドリコレ] 花組対戦コラムス２&quot;<BR>by SEGA CORPORATION in ２００２/５/２３<BR>It's including TGepisode, so I painted these characters.<P> 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/07 (Tue) 17:47  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �C���X�g����T�N���ΐ�ւ̈����������܂��B(^^)<BR>anjoe����͊G�S������܂��ˁB<P>���C�������肪�Ƃ��������܂��B<BR>�܂��A������́u���K�E�e�X�g�v�p�ł����A�����ŏ����炻�̂���ŋC�y�ɕ`���Ă��܂��̂ŁA���X�Ƃ��͂��܂�C�ɂ��Ȃ��ł���Ă��������B 
+			<Font color="#000066" size="3"> イラストからサクラ対戦への愛が感じられます。(^^)<BR>anjoeさんは絵心がありますね。<P>お気遣いありがとうございます。<BR>まあ、あちらは「練習・テスト」用ですし、私も最初からそのつもりで気軽に描いていますので、レスとかはあまり気にしないでやってください。 
 		
 
 			
@@ -413,22 +413,22 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="113">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.112 �ւ񂵂�`�ǂ�񂭁` </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/04/28 (Sun) 01:11  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=112">��Continue</A></font><BR><IMG SRC="./data/IMG_000105.jpg" ALIGN="LEFT" BORDER=0 width=345 height=297 ALT="IMG_000105.jpg ( 44 KB )" TITLE="IMG_000105.jpg ( 44 KB )"> <Font color="#000066" size="3"> �ŋ߂��������G�s�\�[�h���Ȃ��B </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.112 へんしん～どりんく～ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/04/28 (Sun) 01:11  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_112.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000105.jpg" ALIGN="LEFT" BORDER=0 width=345 height=297 ALT="IMG_000105.jpg ( 44 KB )" TITLE="IMG_000105.jpg ( 44 KB )"> <Font color="#000066" size="3"> 最近こういうエピソードがない。 </Font>
 
 		
 
@@ -450,12 +450,12 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : blue  &nbsp; <BR>
 			<B>TIME</B> : 2002/04/28 (Sun) 07:22  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ���������ɂȂ����̂ё��G���`�I 
+			<Font color="#000066" size="3"> しずちゃんになったのび太萌え～！ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �`�k�k  &nbsp; <BR>
+			<NOBR><B>NAME</B> : ＡＬＬ  &nbsp; <BR>
 			<B>TIME</B> : 2002/04/28 (Sun) 09:12  </Font><BR></NOBR>
 			<Font color="#000066" size="3"> Let's do the effort that writes in Japanese.   
 		
@@ -471,85 +471,85 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : <A HREF="mailto:_kita_@softhome.net">KiTA</A> [<A HREF="http://www.nwinfo.net/~mcantrell/" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/01 (Wed) 04:42  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> US Windows supports copying and pasting Japanese text.  Therefore, you can use a translator and it works.<BR>�č��E�C���h�E�Y�̓R�s�[���\��t������{�̃e�L�X�g���x�����܂��B���������āA�|��҂��g�p���A���{�ꂨ��щp��̗����Řb�����Ƃ͉\�ł��B<P>If you steadfastly refuse to use the translator, please make sure not to misspell any words.  Misspelling and slang makes translations very difficult.<BR>�|��҂��g�p���邱�Ƃ���������Ƌ��₷��ꍇ�́A���t���~�X�X�y�����Ȃ����Ƃ��m���߂Ă��������B�~�X�X�y���Ƒ���͖|�����ɍ���ɂ��܂��B<P>My favorite translator is here:  (It is free.)<BR>���̍D���Ȗ|��҂͂����ɂ��܂�: (����͎��R�ł��B)<P>English edition:  <A HREF="http://www.cafeglobe.com/cafe/wotg/index_en.html" TARGET="_BLANK">http://www.cafeglobe.com/cafe/wotg/index_en.html</A><BR>���{�̔�:  <A HREF="http://www.cafeglobe.com/cafe/wotg/index_ja.html" TARGET="_BLANK">http://www.cafeglobe.com/cafe/wotg/index_ja.html</A> 
+			<Font color="#000066" size="3"> US Windows supports copying and pasting Japanese text.  Therefore, you can use a translator and it works.<BR>米国ウインドウズはコピーし貼り付ける日本のテキストを支援します。したがって、翻訳者を使用し、日本語および英語の両方で話すことは可能です。<P>If you steadfastly refuse to use the translator, please make sure not to misspell any words.  Misspelling and slang makes translations very difficult.<BR>翻訳者を使用することをしっかりと拒絶する場合は、言葉をミススペルしないことを確かめてください。ミススペルと俗語は翻訳を非常に困難にします。<P>My favorite translator is here:  (It is free.)<BR>私の好きな翻訳者はここにいます: (それは自由です。)<P>English edition:  <A HREF="http://www.cafeglobe.com/cafe/wotg/index_en.html" TARGET="_BLANK">http://www.cafeglobe.com/cafe/wotg/index_en.html</A><BR>日本の版:  <A HREF="http://www.cafeglobe.com/cafe/wotg/index_ja.html" TARGET="_BLANK">http://www.cafeglobe.com/cafe/wotg/index_ja.html</A> 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : yan [<A HREF="http://www.microsoft.com/msdownload/iebuild/ime5_win32/en/ime5_win32.htm" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/02 (Thu) 12:08  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �p���Windows������{�����͂���ɂ͈ȉ��̃c�[�����g���Ă��������B<BR>Please use the following tools to input Japanese from the English version Windows.<BR><A HREF="http://www.microsoft.com/msdownload/iebuild/ime5_win32/en/ime5_win32.htm" TARGET="_BLANK">http://www.microsoft.com/msdownload/iebuild/ime5_win32/en/ime5_win32.htm</A> 
+			<Font color="#000066" size="3"> 英語版Windowsから日本語を入力するには以下のツールを使ってください。<BR>Please use the following tools to input Japanese from the English version Windows.<BR><A HREF="http://www.microsoft.com/msdownload/iebuild/ime5_win32/en/ime5_win32.htm" TARGET="_BLANK">http://www.microsoft.com/msdownload/iebuild/ime5_win32/en/ime5_win32.htm</A> 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : <A HREF="mailto:lordllieno@ntlworld.com">Lord Llieno</A> [<A HREF="http://uk.geocities.com/lord_llieno/paradise.htm" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/03 (Fri) 01:29  </Font><BR></NOBR>
-			<Font color="#000066" size="3">  ���͖�҂��g�p�ł�, �p���̑�������<BR>Did that work??? 
+			<Font color="#000066" size="3">  私は訳者を使用でき, 英国の窓がある<BR>Did that work??? 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : webmaster  &nbsp; <BR>
 			<B>TIME</B> : 2002/05/06 (Mon) 04:34  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> to &quot;ALL&quot;<BR>Please do not force others to use japanese language here.<BR>In this forum english comments are officially permitted.<P>&quot;ALL&quot;�����<BR>�Ǘ��l��yays�ł��B<BR>�Ǘ��l�̈ӌ��Ƃ��ĉp��ɂ��L�����e��F�߂Ă܂��̂ŁA�O���̕��ɓ��{��g�p����������i�Ǝ󂯎����悤�ȁj�������݂͍T���ĉ������c�c���݂܂��񂪂��肢�������܂��B 
+			<Font color="#000066" size="3"> to &quot;ALL&quot;<BR>Please do not force others to use japanese language here.<BR>In this forum english comments are officially permitted.<P>&quot;ALL&quot;さんへ<BR>管理人のyaysです。<BR>管理人の意向として英語による記事投稿を認めてますので、外国の方に日本語使用を押しつける（と受け取られるような）書き込みは控えて下さい……すみませんがお願いいたします。 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/07 (Tue) 17:46  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ���̃C���X�g�ǂ��ł��ˁ`<BR>�ϐg�V�[���̃A�j��������]�����Ⴂ�܂��B(^^)<BR><Font color=#3366FF>�����������ɂȂ����̂ё��G���`�I</Font><BR>����ϓ����V�[���͂��񑩂ł��傤���H�i�΁j 
+			<Font color="#000066" size="3"> このイラスト良いですね～<BR>変身シーンのアニメ化を希望しちゃいます。(^^)<BR><Font color=#3366FF>＞しずちゃんになったのび太萌え～！</Font><BR>やっぱ入浴シーンはお約束でしょうか？（笑） 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="112">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.111 �ǂ��ǂ��|���b�`�I�@�W�������s�A </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">���ƂԂ��Ђ���</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/04/21 (Sun) 18:37  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=111">��Continue</A></font><BR><IMG SRC="./data/IMG_000104.jpg" ALIGN="LEFT" BORDER=0 width=400 height=300 ALT="IMG_000104.jpg ( 25 KB )" TITLE="IMG_000104.jpg ( 25 KB )"> <Font color="#000066" size="3"> �s�A�F�u�Ӂ`��A�����n�����Ă���Ȋ����Ȃ񂾁E�E�E���ǁA�{�P�i�X�A�����������h�ȃ��m�����Ă邶��Ȃ��B�v<BR>�W�����F�u����`��A�s�A�B�l�̐g�̂ł���Ȃ��Ƃ��Ȃ��ł����E�E�E���A���������āA����ւ��̖��������R���āA�܂����E�E�E�v<P>�s�r�A���P�[�g��T�����낵���ˁB<BR><A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" TARGET="_BLANK">http://www2s.biglobe.ne.jp/~ndcss/top.htm</A><BR> </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.111 どきどきポヤッチオ　ジャン＆ピア </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">ことぶきひかる</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/04/21 (Sun) 18:37  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_111.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000104.jpg" ALIGN="LEFT" BORDER=0 width=400 height=300 ALT="IMG_000104.jpg ( 25 KB )" TITLE="IMG_000104.jpg ( 25 KB )"> <Font color="#000066" size="3"> ピア：「ふ～ん、立ちＯョンてこんな感じなんだ・・・けど、ボケナス、けっこう立派なモノ持ってるじゃない。」<BR>ジャン：「うわ～ん、ピア。人の身体でそんなことしないでくれよ・・・あ、もしかして、入れ替わりの薬作った理由って、まさか・・・」<P>ＴＳアンケート第５回もよろしくね。<BR><A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" TARGET="_BLANK">http://www2s.biglobe.ne.jp/~ndcss/top.htm</A><BR> </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/07 (Tue) 17:45  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �s�A����A����ȁc<BR>�����Ȃ�����W�����̋t�P�Ɋ��ҁi���j 
+			<Font color="#000066" size="3"> ピアさん、そんな…<BR>こうなったらジャンの逆襲に期待（爆） 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="111">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.110 ���� ���鍳 </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F buyo  / <B>TIME</B> : 2002/04/18 (Thu) 05:59  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=110">��Continue</A></font><BR><IMG SRC="./data/IMG_000103.jpg" ALIGN="LEFT" BORDER=0 width=400 height=400 ALT="IMG_000103.jpg ( 66 KB ) with Shi-cyan applet" TITLE="IMG_000103.jpg ( 66 KB ) with Shi-cyan applet"> <Font color="#000066" size="3"> ���鍳 �� �ޗ� �� ������ �� �����������܂���. ���鍳 �͖�� �� ����I </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.110 少女 犬夜叉 </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： buyo  / <B>TIME</B> : 2002/04/18 (Thu) 05:59  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_110.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000103.jpg" ALIGN="LEFT" BORDER=0 width=400 height=400 ALT="IMG_000103.jpg ( 66 KB ) with Shi-cyan applet" TITLE="IMG_000103.jpg ( 66 KB ) with Shi-cyan applet"> <Font color="#000066" size="3"> 犬夜叉 は 奈落 に 美少女 に 換えさせられました. 犬夜叉 は問題 が ある！ </Font>
 
 		
 
@@ -557,14 +557,14 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : DORA  &nbsp; <BR>
 			<B>TIME</B> : 2002/04/18 (Thu) 23:39  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> �����A�ޗ����Ȃ񂩃J���C�C... 
+			<Font color="#000066" size="3"> うぅ、奈落がなんかカワイイ... 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �܂���� [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : まさやん [<A HREF="http://www4.plala.or.jp/parallel/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/05/07 (Tue) 17:44  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ���鍳���񂩂킦���`<BR>��������m�@���鍳�c<BR>���������ł��i�΁j 
+			<Font color="#000066" size="3"> 犬夜叉たんかわええ～<BR>美少女戦士　犬夜叉…<BR>いいかもです（笑） 
 		
 
 			
@@ -584,22 +584,22 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="110">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>�� <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.109 ���� </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> �F nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/04/14 (Sun) 11:24  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=109">��Continue</A></font><BR><IMG SRC="./data/IMG_000102.jpg" ALIGN="LEFT" BORDER=0 width=241 height=321 ALT="IMG_000102.jpg ( 33 KB )" TITLE="IMG_000102.jpg ( 33 KB )"> <Font color="#000066" size="3"> 10�N�� </Font>
+	<HR>■ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.109 続き </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ： nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/04/14 (Sun) 11:24  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_109.cgi">★Continue</A></font><BR><IMG SRC="data/IMG_000102.jpg" ALIGN="LEFT" BORDER=0 width=241 height=321 ALT="IMG_000102.jpg ( 33 KB )" TITLE="IMG_000102.jpg ( 33 KB )"> <Font color="#000066" size="3"> 10年後 </Font>
 
 		
 
@@ -633,7 +633,7 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : �`�k�k  &nbsp; <BR>
+			<NOBR><B>NAME</B> : ＡＬＬ  &nbsp; <BR>
 			<B>TIME</B> : 2002/04/17 (Wed) 22:13  </Font><BR></NOBR>
 			<Font color="#000066" size="3"> I do not understand English.<BR>Write so that everyone is able to understand.   
 		
@@ -684,7 +684,7 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : webmaster  &nbsp; <BR>
 			<B>TIME</B> : 2002/04/20 (Sat) 12:33  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> I made this notice.<BR>'You can post comments in Japanese or English.'<BR>So, this is the rule.<BR>English comments are welcomed here.<P>Maybe I would consider making japanese only version of this forum some day,but for now, please follow the stated rule and try to be more polite.<P>ALL�����<BR>�O���̂������ꏏ�ɐ���オ���悤�Ȍf���͋M�d���Ǝv���܂��̂ŁA���݂̂Ƃ���Ǘ��l�Ƃ��ĉp�����b�Z�[�W���֎~�������͂Ȃ��ł��B<BR>�����A���{��łӂ��ɐ���オ���TS�C���X�g�f�����~�����Ƃ����ӌ��͕�����܂��̂ŁA�v�]�������悤�ł�����ݒu���l���Ă݂܂��B 
+			<Font color="#000066" size="3"> I made this notice.<BR>'You can post comments in Japanese or English.'<BR>So, this is the rule.<BR>English comments are welcomed here.<P>Maybe I would consider making japanese only version of this forum some day,but for now, please follow the stated rule and try to be more polite.<P>ALLさんへ<BR>外国のかたも一緒に盛り上がれるような掲示板は貴重だと思いますので、現在のところ管理人として英文メッセージを禁止するつもりはないです。<BR>ただ、日本語でふつうに盛り上がれるTSイラスト掲示板が欲しいという意見は分かりますので、要望が多いようでしたら設置を考えてみます。 
 		
 
 			
@@ -697,15 +697,15 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=7><input type="hidden" name="l" value="109">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="�t�����[�p�j�b�N">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="フラワーパニック">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ���X " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;��</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" レス " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;▲</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
@@ -714,9 +714,9 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 	<A NAME="pages"><HR></A><DIV ALIGN="RIGHT"><SMALL>
 	
-	<A HREF="./bbsnote.cgi?fc=page&sort=0&page=6">&lt;&lt; <B>NEXT</B> </A>||<A HREF="./bbsnote.cgi?fc=page&sort=0&page=8"> <B>BACK</B> &gt;&gt;</A><A NAME="pages"> PAGE </A>[<A HREF="./bbsnote.cgi?fc=page&sort=0&page=1">1</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=2">2</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=3">3</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=4">4</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=5">5</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=6">6</A>][<B><Font Style="TEXT-DECORATION:UNDERLINE">7</Font></B>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=8">8</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=9">9</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=10">10</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=11">11</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=12">12</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=13">13</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=14">14</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=15">15</A>]
+	<A HREF="bbsnote@fc_page_sort_0_page_6.cgi">&lt;&lt; <B>NEXT</B> </A>||<A HREF="bbsnote@fc_page_sort_0_page_8.cgi"> <B>BACK</B> &gt;&gt;</A><A NAME="pages"> PAGE </A>[<A HREF="bbsnote@fc_page_sort_0_page_1.cgi">1</A>][<A HREF="bbsnote@fc_page_sort_0_page_2.cgi">2</A>][<A HREF="bbsnote@fc_page_sort_0_page_3.cgi">3</A>][<A HREF="bbsnote@fc_page_sort_0_page_4.cgi">4</A>][<A HREF="bbsnote@fc_page_sort_0_page_5.cgi">5</A>][<A HREF="bbsnote@fc_page_sort_0_page_6.cgi">6</A>][<B><Font Style="TEXT-DECORATION:UNDERLINE">7</Font></B>][<A HREF="bbsnote@fc_page_sort_0_page_8.cgi">8</A>][<A HREF="bbsnote@fc_page_sort_0_page_9.cgi">9</A>][<A HREF="bbsnote@fc_page_sort_0_page_10.cgi">10</A>][<A HREF="bbsnote@fc_page_sort_0_page_11.cgi">11</A>][<A HREF="bbsnote@fc_page_sort_0_page_12.cgi">12</A>][<A HREF="bbsnote@fc_page_sort_0_page_13.cgi">13</A>][<A HREF="bbsnote@fc_page_sort_0_page_14.cgi">14</A>][<A HREF="bbsnote@fc_page_sort_0_page_15.cgi">15</A>]
 
-		<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)���������(shi-cyan)</A> 
+		<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)しぃちゃん(shi-cyan)</A> 
 
 	</SMALL></DIV>
 	

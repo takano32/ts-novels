@@ -1,315 +1,315 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1011968147kdvhrob&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1011968147kdvhrob_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">Irregular�@Girl(s)�@No�D4</font><br>
+<font size="+2" color="#0000FF">Irregular　Girl(s)　No．4</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=994776448jfovsv&ff=on" target="_blank">�ȑO�̌f���͂�����</a></strong>  <i>2002/01/25 23:15:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ezpe/cgi-bin/noteky/noteky@c_noteread_f_11_id_994776448jfovsv_ff_on.cgi" target="_blank">以前の掲示板はこちら</a></strong>  <i>2002/01/25 23:15:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011968147kdvhrob&id2=1011968147kdvhrob&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011968147kdvhrob_id2_1011968147kdvhrob_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Irregular�@Girl(s)�ւ̊��z�͂�����ւ��肢�������܂��B
+Irregular　Girl(s)への感想はこちらへお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/25232258/tsubame.html" target="_blank">�΂ߊG���L������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/25 23:35:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/25232258/tsubame.html" target="_blank">つばめ絵日記を見るにはここをクリック。</a></strong>  <i>2002/01/25 23:35:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011969348gngbhu&id2=1011968147kdvhrob&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011969348gngbhu_id2_1011968147kdvhrob_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����ɗ�����Ă��܂��΂߂������Ƃ��Ă���B����Ȃ��Ƃ����Ă��Ă����̂��ȁH
+【推薦文】周りに流されてしまうつばめちゃんもとい翔くん。こんなことをしていていいのかな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>STW</strong>  <i>2002/01/26 00:51:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011973866bjpllr&id2=1011968147kdvhrob&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011973866bjpllr_id2_1011968147kdvhrob_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����͂��߂܂��āB�r�s�v�Ƃ����҂ł��B<BR>�u�C���M�����[�E�K�[���v�ԊO�҂�q�����܂����B<BR>�����l���Ⴆ�΁A���͋C���Ⴄ���̂ł��ˁB<BR>�ł��A�����U��񂳂�Ă����Ă͔ԊO�҂ł����݂ł��ˁE�E�E�i���j<BR>�������A���͋��낵�����i�ЂƁj���E�E�E�B�i�I�H�j<BR>�����Ƃ��Ă̐����Ɋ���܂����Ă���݂��������E�E�E�B<BR><BR>�{�҂ł͂ǂ��Ȃ�̂��Ȃ��E�E�E�H
+どうもはじめまして。ＳＴＷという者です。<BR>「イレギュラー・ガール」番外編を拝見しました。<BR>書く人が違えば、雰囲気が違うものですね。<BR>でも、いつも振り回されている翔は番外編でも健在ですね・・・（汗）<BR>しかし、雫は恐ろしい女（ひと）だ・・・。（！？）<BR>女性としての生活に慣れまくっているみたいだし・・・。<BR><BR>本編ではどうなんのかなぁ・・・？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/01/26 02:55:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/01/26 02:55:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011981319bxhdt&id2=1011968147kdvhrob&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011981319bxhdt_id2_1011968147kdvhrob_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f�����f�ڂ������悤�Ŋ��ӂł�<BR><BR>�������l���Ⴆ�΁A���͋C���Ⴄ���̂ł��ˁB<BR><BR>���A����������Ȃ������ł�����(^_^;;)<BR>
+素早い掲載だったようで感謝です<BR><BR>＞書く人が違えば、雰囲気が違うものですね。<BR><BR>け、研究が足りなかったですかね(^_^;;)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/26 06:05:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/26 06:05:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011992754ljhibj&id2=1011968147kdvhrob&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011992754ljhibj_id2_1011968147kdvhrob_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����A�Ȃ��Ȃ��悩�����ł���B<BR>�r�s�v����������Ă����܂����A��͂��Ă����͎���ɐU��񂳂�Ă��Ȃ��Ƃˁi�΁j�B<BR>����ɂ��Ă��A����ς莴����͋��낵���i�H�j�ł��ˁB<BR><BR>���������l���Ⴆ�΁A���͋C���Ⴄ���̂ł��ˁB<BR>�����A����������Ȃ������ł�����(^_^;;)<BR>�ʐl�������Ă�񂾂���A������x�d�����Ȃ��̂ł́H<BR>���^�N�V�́A�����Ӗ��ł̌��t���Ǝv���܂���B
+読んだバイ♪<BR>いや、なかなかよかったですよ。<BR>ＳＴＷさんも書いておられますが、やはり翔ちゃんは周りに振り回されていないとね（笑）。<BR>それにしても、やっぱり雫さんは恐ろしい（？）ですね。<BR><BR>＞＞書く人が違えば、雰囲気が違うものですね。<BR>＞け、研究が足りなかったですかね(^_^;;)<BR>別人が書いてるんだから、ある程度仕方がないのでは？<BR>ワタクシは、いい意味での言葉だと思いますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/26 06:06:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/26 06:06:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011992810kfnnio&id2=1011968147kdvhrob&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011992810kfnnio_id2_1011968147kdvhrob_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƃ���ŁA�ǂ����̃X���b�h�Ɋ��z�������炢���̂������܂���ł����H�݂Ȃ���B
+ところで、どっちのスレッドに感想書いたらいいのか迷いませんでした？みなさん。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/01/26 12:09:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/01/26 12:09:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012014574mfjmua&id2=1011968147kdvhrob&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012014574mfjmua_id2_1011968147kdvhrob_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ƃ���ŁA�ǂ����̃X���b�h�Ɋ��z�������炢���̂������܂���ł����H�݂Ȃ���B <BR>�͂��A�����܂���ł����B<BR>������̎�Ⴂ�ŐV�K�Ƀ{�[�h���쐬���Ă��܂��A���ʂQ�ӏ��ɏ������߂�悤�ɂȂ��Ă��܂��܂����B<BR>���c�i�H�jIrregular Girl No.4�f���̃^�C�g���͂��������C�������Ǝv���܂��̂ŁA<BR>������ɓ��ꂷ�邱�ƂɂȂ�Ǝv���܂��i�܂�����ł����j�B<BR><BR>�����f�����������܂����B<BR><BR>�i���b�Ă��ǎ҂���A�U�����肪�Ƃ��������܂��j
+＞ところで、どっちのスレッドに感想書いたらいいのか迷いませんでした？みなさん。 <BR>はい、すいませんでした。<BR>こちらの手違いで新規にボードを作成してしまい、結果２箇所に書き込めるようになってしまいました。<BR>元祖（？）Irregular Girl No.4掲示板のタイトルはもうすぐ修正されると思いますので、<BR>そちらに統一することになると思います（まだ未定ですが）。<BR><BR>ご迷惑をおかけしました。<BR><BR>（世話焼き読者さん、誘導ありがとうございます）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/01/26 14:16:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/01/26 14:16:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012022207vjwmfr&id2=1011968147kdvhrob&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012022207vjwmfr_id2_1011968147kdvhrob_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ɂ��Ă��A����ς莴����͋��낵���i�H�j�ł��ˁB<BR>���I�ɂ͖�_����̃L�����N�^�[���g����߂����Ē������ʂ�����܂��E�E<BR><BR>�E�E��肷���������B
+＞それにしても、やっぱり雫さんは恐ろしい（？）ですね。<BR>私的には矢神雫嬢のキャラクターを拡大解釈させて頂いた面もあります・・<BR><BR>・・やりすぎたかも。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>myunn</strong>  <i>2002/01/26 20:28:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012044519rskliko&id2=1011968147kdvhrob&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012044519rskliko_id2_1011968147kdvhrob_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�E�E����ƈӖ�����܂����E�E���X���b�h���Q<BR>�����g��TOP����̃����N�Ŕ��ł������̂ŁE�E
+・・やっと意味判りました・・＞スレッド＊２<BR>私自身はTOPからのリンクで飛んでいたもので・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/01/26 23:32:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/01/26 23:32:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012055560gggweqw&id2=1011968147kdvhrob&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012055560gggweqw_id2_1011968147kdvhrob_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��myunn����i�݂�񂳂�H�j<BR>���^�N�V�͊�{�I�Ɋ��z�{�[�h�̃C���f�b�N�X���當�ɂɓ���̂ŁA�����������ƂɋC�t�����Ƃ��ł�����ł���B<BR>���������A�ߋ��ɖ{�̂��T�[�o�_�E���i�H�΁j�œ���Ȃ��Ȃ������Ƃ��������̂ŁA�{�̈ȊO�i���z�f���C���f�b�N�X��A��˒[�t�H�[�����A�N���G�C�^�[�Y�E�t���A�A��Q�f���Ȃǁj�Ƀu�b�N�}�[�N��ł��Ă������Ƃ��������߂��܂���B��i�͓ǂ߂Ȃ��Ă��A�󋵁E���̓��肪�ł��܂�����B���������ϓ_�ł́A��˒[�t�H�[�������N���G�C�^�[�Y�E�t���A���������߂ł��傤���ˁB
+＞myunnさん（みゅんさん？）<BR>ワタクシは基本的に感想ボードのインデックスから文庫に入るので、こういうことに気付くことができたんですよ。<BR>そうそう、過去に本体がサーバダウン（？笑）で入れなくなったことがあったので、本体以外（感想掲示板インデックスや、井戸端フォーラム、クリエイターズ・フロア、第２掲示板など）にブックマークを打っておくことをおすすめしますよ。作品は読めなくても、状況・情報の入手ができますから。そういう観点では、井戸端フォーラムかクリエイターズ・フロアがおすすめでしょうかね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/01/27 01:30:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/01/27 01:30:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012062619vonnsl&id2=1011968147kdvhrob&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012062619vonnsl_id2_1011968147kdvhrob_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��myunn����i�݂�񂳂�H�j<BR>�͂��B�ϊ����Y��ł�(���)<BR>�ȑO�ATOP�������Ă����Ƃ���google����'�N���G�C�^�[�Y�t���A'�Ȃ�Č������ĒT�����C���B
+＞myunnさん（みゅんさん？）<BR>はい。変換し忘れです(苦笑)<BR>以前、TOPが落ちていたときはgoogleから'クリエイターズフロア'なんて検索して探した気が。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>STW</strong>  <i>2002/01/31 22:01:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012482115sryxwke&id2=1011968147kdvhrob&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012482115sryxwke_id2_1011968147kdvhrob_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂�񂳂�B���߂�Ȃ����E�E�E�B<BR>���������������܂����E�E�E�B<BR><BR>
+みゅんさん。ごめんなさい・・・。<BR>私が悪うこざいました・・・。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200104/23004330/irr11.html" target="_blank">��P�P���ǂނɂ͂������N���b�N</a></strong>  <i>2002/04/21 00:54:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200104/23004330/irr11.html" target="_blank">第１１回を読むにはここをクリック</a></strong>  <i>2002/04/21 00:54:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019318044uiegtbc&id2=1011968147kdvhrob&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019318044uiegtbc_id2_1011968147kdvhrob_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �Ă���A���x����ςȑ����Ɋ������܂�܂��B��������u�����ҁv�Ƃ��āB
+【推薦文】 翔くん、今度も大変な騒動に巻き込まれます。しっかり「当事者」として。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/21 01:58:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/21 01:58:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019321886ekebsr&id2=1011968147kdvhrob&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019321886ekebsr_id2_1011968147kdvhrob_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��A�������͐e�F�G���̑��l�ҁ�<BR>��������G���ł����B���āA�悭�l������A���͂����ɏ���������̏��߂Ăł����c�͂��߂܂��āc<BR>�����Ɓc�����ƑO����D���ł����i�������j<BR><BR>�Ƃ������A�΂߂����A���Ƃ��Ă����ɐF�����G�a���җ�ɂ悢�L�����ł��B<BR>�������A�Ă����̓{�N�����ŁA�G���͑O�񂾂��c<BR>����́A�w�n�������Ă���l�x�Ƃ����\�����A�}�C�E�t�F�C�o���b�g�ł���܂��B<BR><BR>���̎��ǂ��Ȃ�̂��Ȃ��A�d�g�d���͑҂��Ă܂���
+うーん、さすがは親友萌えの第一人者♪<BR>今回も超萌えでした。って、よく考えたら、私はここに書きこするの初めてでした…はじめまして…<BR>ずっと…ずっと前から好きでした（告白風）<BR><BR>ともかく、つばめちゃん、もとい翔ちゃんに色狂う秀和が猛烈によいキャラです。<BR>もちろん、翔ちゃんはボクっ娘で、萌え力前回だし…<BR>今回は、『溶けかけている僕』という表現が、マイ・フェイバリットであります。<BR><BR>この次どうなるのかなあ、電波妖精は待ってます♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/04/21 08:48:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/04/21 08:48:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019346537mvlouqc&id2=1011968147kdvhrob&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019346537mvlouqc_id2_1011968147kdvhrob_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yIrregular Girl�@�`��P�P��`�z<BR>�ӂނӂށA�o�C�g�҂ł����B�Ȃ񂾂��[�݂ɂ͂܂��Ă����āi�΂߁j����񂪁A����ɉ����ł��ˁB���̂܂܂��邸��Ƃ������Ⴄ��ł��傤�ˁB<BR><BR>���c����Ƃ����G�L�����i�H�j���o�Ă������Ƃ����A����Ɋ��҂��܂��B�������~�[�ł̏����ł����H�@�c�c�����Ƃ������Ƃ�����A�Z�[�^�[�ł�������ŁA�䖝��ׂł�������ǂ����ȁH�@���[��B
+【Irregular Girl　～第１１回～】<BR>ふむふむ、バイト編ですか。なんだか深みにはまっていく翔（つばめ）ちゃんが、哀れに可愛いですね。このままずるずるといっちゃうんでしょうね。<BR><BR>村田さんという敵キャラ（？）も出てきたことだし、今後に期待します。しかし厨房での勝負ですか？　……暑いということだから、セーターでも着込んで、我慢比べでもしたらどうかな？　うーん。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2002/04/21 23:17:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2002/04/21 23:17:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019398672wtkma&id2=1011968147kdvhrob&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019398672wtkma_id2_1011968147kdvhrob_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���AIrregular Girl�̐V�삾�B����̓}�h���X�ɐi�U���Ă�ꍇ�ł͂Ȃ��ȁB<BR>�Ƃ����킯�łP�P�b�ǂ݂܂����B<BR>���ς�炸�A�΂߂���񂪂��킢���B<BR>���ЃE�G�C�g���X�̐����p�����Ă݂����ł��B<BR>���u�R���Ƃ��Ă��������낢�W�J�ɂȂ��Ă��܂��A������y���݂ɂ��Ă��܂��B<BR>�ŋ߂������������ȃ��u�R�������Ȃ�����{���Ɋy���݂ł��B<BR>�Ȃ��Ȃ珑���΂����̂ł����A�W�I���R�l�Ƃ��Ă̋΂߂��c�c�B<BR>�i�Ȃ�̂�������j<BR>���ꂩ�������΂��Ă��������B<BR>
+あ、Irregular Girlの新作だ。これはマドラスに進攻してる場合ではないな。<BR>というわけで１１話読みました。<BR>相変わらず、つばめちゃんがかわいい。<BR>ぜひウエイトレスの制服姿が見てみたいです。<BR>ラブコメとしてもおもしろい展開になってきまし、次回も楽しみにしています。<BR>最近こういう純粋なラブコメが少ないから本当に楽しみです。<BR>ないなら書けばいいのですが、ジオン軍人としての勤めが……。<BR>（なんのこっちゃ）<BR>これからもがんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/22 09:19:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/22 09:19:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019434740pjikor&id2=1011968147kdvhrob&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019434740pjikor_id2_1011968147kdvhrob_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́B�����Ȃ��A�E�G�C�g���X�i���j�B<BR>���������̃`�F�[�����X�g�����ł��킢�������Ƃ����̂��i���j�B<BR>�ǂȂ����C���X�g�`���܂���H�i�j���j<BR><BR>�~�[�͂ق�Ƃɏ����ł���B����A�^�ĂȂ�āu�����v�Ƃ������́u�M���v�ł��ˁB���^�N�V�̏ꍇ�̓X�[�p�[�̑y�؃R�[�i�[��Ē��R�[�i�[�ł̑̌��Ȃ�ł����ǂˁA�N�[���[�͌����܂���ˁA�����B<BR><BR>�Ƃ����<BR>���u���ʔz����������Ă��B�v<BR>���u�ǂ����Ă���A���ʔz�������B�P�����������Ă��B�v<BR>���̏ꍇ�́u���ʎ蓖�v�̕��������̂ł́H�z�����[�ƂȂ񂩁A�˂��i�΁j�B<BR><BR>�����E�E�E�B�Ƃ���ő��c����͉���S�����Ă��ł���H����ɂ���ď����̓��e���ς���Ă���Ǝv����ł����ǂˁB<BR><BR>�Ƃ肠���������̓��e���C�ɂȂ�̂ŁA����͂���Ȃ�ɑ��߂ɃL�z�J���k�B
+読んだバイ♪<BR>わっはっは。いいなぁ、ウエイトレス（爆）。<BR>国道沿いのチェーンレストランでかわいい制服というのが（爆）。<BR>どなたかイラスト描きません？（核爆）<BR><BR>厨房はほんとに暑いですよ。いや、真夏なんて「暑い」というよりは「熱い」ですね。ワタクシの場合はスーパーの惣菜コーナーや焼鳥コーナーでの体験なんですけどね、クーラーは効きませんね、ええ。<BR><BR>ところで<BR>＞「特別配給もあるってさ。」<BR>＞「どうしてだよ、特別配給だぜ。１万もくれるってさ。」<BR>この場合は「特別手当」の方がいいのでは？配給っつーとなんか、ねえ（笑）。<BR><BR>勝負・・・。ところで村田さんは何を担当してるんでしょ？それによって勝負の内容も変わってくると思うんですけどね。<BR><BR>とりあえず勝負の内容が気になるので、次回はそれなりに早めにキホ゛ンヌ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2002/04/23 06:38:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2002/04/23 06:38:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019511528ltkcr&id2=1011968147kdvhrob&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019511528ltkcr_id2_1011968147kdvhrob_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ł����������肪�Ƃ��������܂��B<BR><BR>�m�C���l<BR>�͂��߂܂��Ăł��B<BR>�n�߂������A�e�F�G���Ȃ�Ă��ƑS�R�l���Ė���������ł����ǁA�Ȃ񂾂��b���i�ނɂ�Ă����Ȃ��Ă��܂��܂����i��<BR>���̌���ǂ��Ȃ邱�Ƃ��E�E�E�E�E�i��<BR><BR>�W���[�W���b�h�l<BR>�l������A�ǂ�ǂ�z���g�ɐ[�݂ɂ͂܂��Ă����Ă܂��ˁB<BR>�܂��A�Ăɂ͈������ǂ����Ƃ͂܂��Ă��炤���ɂ��܂��i��<BR><BR>�������@�������l<BR>���ŋ߂������������ȃ��u�R�������Ȃ�����{���Ɋy���݂ł�<BR>�����A������܂��\��O�������̂ł��i��<BR>�P�b�ڂ̎��͒P�Ȃ�R���f�B�[�F�ɂ��悤�Ǝv���Ă����̂ɒ��Ղ���G�a�Ƃ����˂������ă��u�R���F�Ɂi��<BR>�ł��A���̘H���œ˂������Ă��܂��܂��傤�i��<BR><BR>�����W�S�Q�U�l<BR>�����̏ꍇ�́u���ʎ蓖�v�̕��������̂ł́H�z�����[�ƂȂ񂩁A�˂��i�΁j�B<BR>���A�m���ɁE�E�E�E�E�ςł��ˁi��<BR>����͂�A���܂��ɖ��n�҂ł��i��<BR>���ǂȂ����C���X�g�`���܂���H�i�j���j<BR>�ǂȂ����C���X�g�`���Ă���Ȃ��ł��傤���i��<BR>�G�̕��͂܂������_���_���ł��̂ŁA�`���Ă���������Ƃ��ꂵ���̂ł����i��<BR><BR>�Ȃ�ׂ��A�����͑��߂ɏo����悤�ɂ���΂�܂��̂ł�낵�����肢���܂��B<BR>�ł͂ł́E�E�E�E�E
+読んでいただきありがとうございます。<BR><BR>ノイン様<BR>はじめましてです。<BR>始めた当初、親友萌えなんてこと全然考えて無かったんですけど、なんだか話が進むにつれてこうなってしまいました（笑<BR>この後もどうなることやら・・・・・（汗<BR><BR>ジャージレッド様<BR>考えたら、どんどんホントに深みにはまっていってますね。<BR>まぁ、翔には悪いけどもっとはまってもらう事にします（笑<BR><BR>あおき　あきお様<BR>＞最近こういう純粋なラブコメが少ないから本当に楽しみです<BR>うっ、これもまた予定外だったのです（汗<BR>１話目の時は単なるコメディー色にしようと思っていたのに中盤から秀和とかが突っ走ってラブコメ色に（笑<BR>でも、この路線で突っ走ってしまいましょう（爆<BR><BR>ｍｋ８４２６様<BR>＞この場合は「特別手当」の方がいいのでは？配給っつーとなんか、ねえ（笑）。<BR>た、確かに・・・・・変ですね（爆<BR>いやはや、いまだに未熟者です（汗<BR>＞どなたかイラスト描きません？（核爆）<BR>どなたかイラスト描いてくれないでしょうか（爆<BR>絵の方はまったくダメダメですので、描いていただけるとうれしいのですが（笑<BR><BR>なるべく、次回作は早めに出せるようにがんばりますのでよろしくお願いします。<BR>ではでは・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/04/25 00:38:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/04/25 00:38:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019662714crpewl&id2=1011968147kdvhrob&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019662714crpewl_id2_1011968147kdvhrob_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���T���ʔ��������ł��B<BR><BR>�G�a�N���O��������������s�����V�[���A���l�����Ⴀ��܂���ł����i��΁j�B<BR><BR>�Ȃ������I�ɃE�G�C�g���X�̐����𒅂����A��`�ŊX���ɏo�|������ƁA�āi�΂߁j����񂪁A�J�߂��󂯑�����̂��ǂ������ł��B<BR><BR>��������҂��Ă��܂��B<BR>�������A�҂��Ă܂��B
+今週も面白かったです。<BR><BR>秀和君が三回も履歴書を失敗したシーン、他人事じゃありませんでした（苦笑）。<BR><BR>なし崩し的にウエイトレスの制服を着せられ、宣伝で街道に出掛けたりと、翔（つばめ）ちゃんが、辱めを受け続けるのが良かったです。<BR><BR>次回も期待しています。<BR>ゆっくり、待ってます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2002/04/25 18:49:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2002/04/25 18:49:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019728185imvkkj&id2=1011968147kdvhrob&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019728185imvkkj_id2_1011968147kdvhrob_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肫��l<BR>�y����ł��������čK���ł��B<BR>���āA�Ă͂�����������ςȂ���Ԃł����ǁA�������łɔɂ��Ă܂�������ł����Ƃ��܂��傤�i��<BR>�i���̖������̍�i�ł���������������Ă���������Ƃ��ꂵ���ł��B<BR>�ł͂ł́E�E�E�E�E
+きりきり様<BR>楽しんでいただけて幸いです。<BR>さて、翔はもう流されっぱなし状態ですけど、もうすでに板についてますしこれでいいとしましょう（爆<BR>進歩の無い私の作品ですが温かく見守っていただけるとうれしいです。<BR>ではでは・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�r�s�v</strong>  <i>2002/04/25 22:11:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＳＴＷ</strong>  <i>2002/04/25 22:11:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019740264aeimm&id2=1011968147kdvhrob&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019740264aeimm_id2_1011968147kdvhrob_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yIrregular Girl�@�`��P�P��`�z��ǂ݂܂����A�r�s�v�ł��B<BR>�����Œ����Ă��񁕏G�a�N�͂���J�l�ł��B<BR>�Ȃɂ�玟��A�s���ȋ�C�ɕ�܂ꂻ���ȗ\�����E�E�E�B<BR>��������͂����̂ł����A�X�����q�ɖ��f�������Ȃ��悤�ɂƁA�v���Ă���܂��B<BR>���ƁA���ŏ����Ȃ̂����Ƃ��Ă��C�ɂȂ�܂��I<BR>�ł��A����ɑΏۂɂȂ��Ă��Ă��񂪂Ȃ񂾂�����ł��E�E�E�B<BR><BR>�āi�΂߁j�̖����́A�ǂ������I�H
+【Irregular Girl　～第１１回～】を読みました、ＳＴＷです。<BR>暑い最中に翔さん＆秀和君はご苦労様です。<BR>なにやら次回、不穏な空気に包まれそうな予感が・・・。<BR>勝負するはいいのですが、店員＆客に迷惑をかけないようにと、思っております。<BR>あと、何で勝負なのかがとっても気になります！<BR>でも、勝手に対象になってる翔さんがなんだか哀れです・・・。<BR><BR>翔（つばめ）の明日は、どっちだ！？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�r�s�v</strong>  <i>2002/04/25 22:16:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＳＴＷ</strong>  <i>2002/04/25 22:16:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019740595jbxog&id2=1011968147kdvhrob&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019740595jbxog_id2_1011968147kdvhrob_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������͂����̂ł����A�i�ȉ����j<BR>��������̂͂����̂ł����A�i�ȉ����j<BR>�ł��B�뎚�E�E���ɂ͋C�����܂��傤�E�E�E�B
+＞勝負するはいいのですが、（以下略）<BR>勝負するのはいいのですが、（以下略）<BR>です。誤字・脱字には気をつけましょう・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/04/28 23:00:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/04/28 23:00:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020002455vbalcl&id2=1011968147kdvhrob&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020002455vbalcl_id2_1011968147kdvhrob_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ٕ͐����������Ă����������݂��ł��B<BR>�����A�������܂����ł����`�B<BR>������ƐV�W�J�����肻���ȕ��͋C�̂��b�ɂȂ��Ă��܂����ł��ˁB<BR>�����A���̕������z��W���Ă��܂��Ă��炨�l�т��܂��ˁB<BR>�������҂��Ă��܂��[�B
+先日は拙文を書かせていただいたみゅんです。<BR>あぅ、こう来ましたですか～。<BR>ちょっと新展開がありそうな雰囲気のお話になってきましたですね。<BR>もし、私の文が発想を妨げてしまってたらお詫びしますね。<BR>次も期待していますー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/29 02:49:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/29 02:49:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020016146wggcsj&id2=1011968147kdvhrob&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020016146wggcsj_id2_1011968147kdvhrob_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�������菑���Y��Ă���ł����c�݂�񂳂�́u�΂ߊG���L�v�y���񂾃N�`�ł��B�Ȃ񂾂��A�{�҂̃C���M�����[�K�[���Ƃ͂܂���������������āA�悢�ł��ˁB���[�񐅒����f���A�Ă���A���Ƃ��΂߂����̉������悭�`����Ă���Ǝv���܂����ł��B����ł́`<BR>
+　うっかり書き忘れてたんですが…みゅんさんの「つばめ絵日記」楽しんだクチです。なんだか、本編のイレギュラーガールとはまた違った感じがして、よいですね。うーん水着モデル、翔くん、もといつばめちゃんの可愛さもよく描かれていると思いましたです。それでは～<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2002/04/29 11:39:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2002/04/29 11:39:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020047973sjcnxh&id2=1011968147kdvhrob&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020047973sjcnxh_id2_1011968147kdvhrob_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ł��������Ă��肪�Ƃ��������܂��B<BR><BR>�r�s�v�l<BR>�������z�����������Ă��肪�Ƃ��������܂�<BR>���X���x��Đ\���󂠂�܂���i��<BR>���āA�������e�ł����E�E�E�ǂ�����E�E�E��Җ{�l���l���ĂȂ��̂��{���ł��āi��<BR>���܂�Ȃ��ƁA�����Ȃ��ł���ˁi��<BR>���뎚�E�E���ɂ͋C�����܂��傤�E�E�E�B <BR>���A�z���g�ł��ˁB<BR>�ǂݕԂ��Ă͂����̂ł����A�C�Â��Ȃ����������āi��<BR>���ӂ��Ȃ��ƂȂ��E�E�E�C�����܂��B<BR><BR>�݂��l<BR>�������A���̕������z��W���Ă��܂��Ă��炨�l�т��܂��ˁB<BR>����Ȃ��ƑS�R�Ȃ��ł���B<BR>�o�C�g�҂́A�O����̌q���肩�炢���ď����Ȃ��ƕςɂȂ�܂�����A����ɂ݂�񂳂�̍�i�ւ͎��ԓI�ɂ��̌�ɂȂ�܂���ˁB<BR>���Ƃ��ẮA�u�΂ߊG���L�v�̂������ŕ����Օ҂��ʔ����Ȃ肻���ł���i��<BR>���ꂩ�����낵�����肢���܂��B<BR><BR>�ł͂ł́E�E�E�E�E
+読んでいただいてありがとうございます。<BR><BR>ＳＴＷ様<BR>いつも感想をいただいてありがとうございます<BR>レスが遅れて申し訳ありません（汗<BR>さて、勝負内容ですが・・・どうしよ・・・作者本人も考えてないのが本音でして（笑<BR>決まらないと、書けないですよね（汗<BR>＞誤字・脱字には気をつけましょう・・・。 <BR>あ、ホントですね。<BR>読み返してはいたのですが、気づかなかった私って（汗<BR>注意しないとなぁ・・・気をつけます。<BR><BR>みゅん様<BR>＞もし、私の文が発想を妨げてしまってたらお詫びしますね。<BR>そんなこと全然ないですよ。<BR>バイト編は、前からの繋がりからいって書かないと変になりますから、それにみゅんさんの作品へは時間的にこの後になりますよね。<BR>私としては、「つばめ絵日記」のおかげで文化祭編が面白くなりそうですよ（笑<BR>これからもよろしくお願いします。<BR><BR>ではでは・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/04/30 03:18:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/04/30 03:18:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020104284gjybyc&id2=1011968147kdvhrob&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020104284gjybyc_id2_1011968147kdvhrob_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ł��������Ă��肪�Ƃ��������܂��B<BR><BR>�m�C���l<BR>�y���߂Ē����čK���ł��B���͂�����ƒj�ɖ����������Ă����E���E���Ƃ����߂Ă����悤�Ǝv�����炱���Ȃ��Ă��܂��܂����B(^^; <BR><BR>#������Ɛ^�����Ă݂܂��� (^_^;
+読んでいただいてありがとうございます。<BR><BR>ノイン様<BR>楽しめて頂けて幸いです。実はちょっと男に未練が多い翔ををウリウリといじめてあげようと思ったらこうなってしまいました。(^^; <BR><BR>#ちょっと真似してみました (^_^;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2003/06/13 17:21:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>っし</strong>  <i>2003/06/13 17:21:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1055492501acfvhgn&id2=1011968147kdvhrob&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1055492501acfvhgn_id2_1011968147kdvhrob_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����C���M�����[�K�[�������Ȃ���ł����H<BR>�������ǂ݂����ł��B
+もうイレギュラーガール書かないんですか？<BR>続きが読みたいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2003/06/24 00:35:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2003/06/24 00:35:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1056382504bwfpxe&id2=1011968147kdvhrob&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1056382504bwfpxe_id2_1011968147kdvhrob_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���v���Ԃ�ł��A���Ă���邩�ȁH<BR>���ہA�T�O���o���Ă܂��̂ŁA�߁X���e���悤���Ȃƍl���Ă��܂��B<BR>�Z�����āA�P�N�ԓ��e���邱�Ƃ��o���܂���ł����B<BR>�S�҂��ɂ��Ă�����������邱�Ƃ���ς��ꂵ���ł��B<BR><BR>�ł͂ł́E�E�E�E�E
+お久しぶりです、板見てくれるかな？<BR>実際、５０％出来てますので、近々投稿しようかなと考えています。<BR>忙しくて、１年間投稿することが出来ませんでした。<BR>心待ちにしておられる方がいることが大変うれしいです。<BR><BR>ではでは・・・・・
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1011968147kdvhrob">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

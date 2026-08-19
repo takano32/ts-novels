@@ -1,128 +1,128 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:Yahoo�o�^>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:Yahoo登録>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=6185><BR>
-<img SRC="out.png?3166185"> ����4���̐����𔼊p�����œ��͂��Ă�������: <input type="text" size=8 name="captcha"><br> <br>
-���܋C�ɂȂ�
+<img SRC="out@3166185.png"> 左の4桁の数字を半角数字で入力してください: <input type="text" size=8 name="captcha"><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2770>
 <input type=hidden name=ress value=2770>
-<input type=submit value=Yahoo�o�^�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=Yahoo登録へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2770>
-<font color=#6A5ACD>Yahoo�o�^</font></a>
+<font color=#6A5ACD>Yahoo登録</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2006�N8��21��(��) 22��37��</font>
-<a href="resbbs4.cgi?vew=2770">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�V�F�o���G</b>�z</font>
+ごま
+ さん</font>
+ <font size=2>2006年8月21日(月) 22時37分</font>
+<a href="resbbs4@vew_2770.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>シェバリエ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�������ɏ����̂͏��߂Ăł�������͂Ƃ�����<br>���d�F���̔O�肪���Ȃ������Ƃ������ɏj���ď������܂��Ă��������܂�<br>���߂łƂ��f�X</font></ul>
+<ul><br><font size=3>こっちに書くのは初めてですがそれはともかく<br>八重洲氏の念願がかなったことをここに祝して書き込ませていただきます<br>おめでとうデス</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2771>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
-���d�F�ꐬ
- ����</font>
- <font size=2>2006�N8��22��(��) 1��3��</font>
-<a href="resbbs4.cgi?vew=2771">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>���{�n���q</b>�z</font>
-<ul><font size=3>�ȂȂȂ�ƃ}�W�ł����I�H</font></ul>
+八重洲一成
+ さん</font>
+ <font size=2>2006年8月22日(火) 1時3分</font>
+<a href="resbbs4@vew_2771.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>涼宮ハルヒ</b>】</font>
+<ul><font size=3>なななんとマジですか！？</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2772>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
-���d�F�ꐬ
- ����</font>
- <font size=2>2006�N8��22��(��) 1��11��</font>
-<a href="resbbs4.cgi?vew=2772">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�V���t�H�j�A</b>�z</font>
-<ul><font size=3>���܍Q�Ă�Yahoo���m�F���Ă����̂ł����A�T���������������̂��A�c�O�Ȃ��猩����܂���ł����B<br>���[��A�T���ꏊ���Ԉ�����̂�������܂���B</font></ul>
+八重洲一成
+ さん</font>
+ <font size=2>2006年8月22日(火) 1時11分</font>
+<a href="resbbs4@vew_2772.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>シンフォニア</b>】</font>
+<ul><font size=3>いま慌ててYahooを確認してきたのですが、探し方が悪かったのか、残念ながら見つかりませんでした。<br>うーん、探す場所を間違ったのかもしれません。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2773>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2006�N8��22��(��) 7��54��</font>
-<a href="resbbs4.cgi?vew=2773">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>Que�`�G���V�F���g���[�t�̗d���`</b>�z</font>
-<ul><font size=3>�����܂���B���萔������m(__)m yahoo��yays�Ō������������ԏ�ɂ���܂����撼�ڂ̃A�h���X�������Ă����܂��� <a href=http://search.yahoo.co.jp/search target=_top>http://search.yahoo.co.jp/search</a>?p=yays&fr=top_v2&tid=top_v2&search.x=1</font></ul>
+ごま
+ さん</font>
+ <font size=2>2006年8月22日(火) 7時54分</font>
+<a href="resbbs4@vew_2773.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>Que～エンシェントリーフの妖精～</b>】</font>
+<ul><font size=3>すいません。お手数かけてm(__)m yahooでyaysで検索かけたら一番上にありましたよ直接のアドレスも張っておきますね <a href=http://search.yahoo.co.jp/search target=_top>http://search.yahoo.co.jp/search</a>?p=yays&fr=top_v2&tid=top_v2&search.x=1</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2775>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
 <a href=mailto:aoki@gori.sh>gori.sh</a>
- ����</font>
- <font size=2>2006�N8��23��(��) 0��29��</font>
+ さん</font>
+ <font size=2>2006年8月23日(水) 0時29分</font>
 <a href=http://www.gori.sh target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2775">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�������</b>�z</font>
-<ul><font size=3>�E�F�u�����ł͂Ȃ��ăJ�e�S�������̕��ɏ��Ȃ��ƁAyahoo�ɓo�^���ꂽ���Ƃɂ͂Ȃ�Ȃ��Ǝv���܂��`<br><a href=http://dir.yahoo.co.jp/Society_and_Culture/Food_and_Drink/Types_of_Foods/Noodles/Soba/Tachigui/ target=_top>http://dir.yahoo.co.jp/Society_and_Culture/Food_and_Drink/Types_of_Foods/Noodles/Soba/Tachigui/</a><br></font></ul>
+<a href="resbbs4@vew_2775.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>かいわれ</b>】</font>
+<ul><font size=3>ウェブ検索ではなくてカテゴリ検索の方に乗らないと、yahooに登録されたことにはならないと思います～<br><a href=http://dir.yahoo.co.jp/Society_and_Culture/Food_and_Drink/Types_of_Foods/Noodles/Soba/Tachigui/ target=_top>http://dir.yahoo.co.jp/Society_and_Culture/Food_and_Drink/Types_of_Foods/Noodles/Soba/Tachigui/</a><br></font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2776>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2006�N8��23��(��) 7��15��</font>
-<a href="resbbs4.cgi?vew=2776">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�T�����i�C�g�S</b>�z</font>
-<ul><font size=3>�����Ȃ񂾁B�����_���݂܂���ł���</font></ul>
+ごま
+ さん</font>
+ <font size=2>2006年8月23日(水) 7時15分</font>
+<a href="resbbs4@vew_2776.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>サモンナイト４</b>】</font>
+<ul><font size=3>そうなんだ。早合点すみませんでした</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

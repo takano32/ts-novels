@@ -1,56 +1,56 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
+<tr><td align=right>題名:</td><td>
 <input type=text size=48 name=subject value=>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2027>
 <input type=hidden name=ress value=2027>
-<input type=submit value=�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
@@ -58,92 +58,92 @@ document.inputform.comment.focus();
 <font color=#6A5ACD></font></a>
 <font color=#303030>
 pkn
- ����</font>
- <font size=2>2003�N10��29��(��) 13��42��</font>
-<a href="resbbs4.cgi?vew=2027">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2003年10月29日(水) 13時42分</font>
+<a href="resbbs4@vew_2027.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�~�J�G���v��R�����w�����ēǂ݂܂���.�ʔ��������ł�.<br>�݂Ȃ��񂪎v����Ԗʔ��� TSmanga�͉��ł��傤��?<br>���ɂ����߂��Ă�������.�{�̑�ڂ� ISBN�������Ă����΂��肪�����ł�.<br></font></ul>
+<ul><br><font size=3>ミカエル計画３巻を購入して読みました.面白かったです.<br>みなさんが思う一番面白い TSmangaは何でしょうか?<br>私にお勧めしてください.本の題目と ISBNを教えてくれればありがたいです.<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2028>
-<font color=#6A5ACD>�킽���́E�E�E</font></a>
+<font color=#6A5ACD>わたしは・・・</font></a>
 <font color=#303030>
-�ԃ}���g
- ����</font>
- <font size=2>2003�N10��29��(��) 20��58��</font>
-<a href="resbbs4.cgi?vew=2028">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>���̓]��</b>�z</font>
-<ul><font size=3>�C�O�̕��̂悤�Ȃ̂ŁA����Ȃ���C�O�ł͏o����ĂȂ����m��<br><br>�@����<br>ISBN: 4773006145 �@�u������܃��[���C����v�@�߈˂���<br>ISBN: 4773006269 �@�u�q���C������v�@�@�@�@�@�ω�����<br>ISBN: 4877751939 �@�u���N����evolution�v�@�@����ւ��<br>�@�Z��<br>ISBN: 4872333918 �@�u�ɂ߂Ă��������v�@�@�@�@����ւ��<br>ISBN: 4088710207 �@�u�P�O�O���v�@�@�@�@�@�@�@�߈�<br>�@�@�@�@�@<br>�C�O�̕����A���{�̂s�r�}���K����ɓ���邱�Ƃ̓l�b�g������Ƃ͂����A<br>�Ȃ��Ȃ���J�����Ǝv���܂��̂ŁA�͂��Ȃ���̉����ł��B<br></font></ul>
+赤マント
+ さん</font>
+ <font size=2>2003年10月29日(水) 20時58分</font>
+<a href="resbbs4@vew_2028.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>肉体転移</b>】</font>
+<ul><font size=3>海外の方のようなので、名作ながら海外では出回ってないモノを<br><br>　長編<br>ISBN: 4773006145 　「おじゃまユーレイくん」　憑依もの<br>ISBN: 4773006269 　「ヒロインくん」　　　　　変化もの<br>ISBN: 4877751939 　「少年少女evolution」　　入れ替わり<br>　短編<br>ISBN: 4872333918 　「極めてかもしだ」　　　　入れ替わり<br>ISBN: 4088710207 　「１００％」　　　　　　　憑依<br>　　　　　<br>海外の方が、日本のＴＳマンガを手に入れることはネットがあるとはいえ、<br>なかなか苦労されると思いますので、僅かながらの応援です。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2029>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
 pkn
- ����</font>
- <font size=2>2003�N10��30��(��) 0��58��</font>
-<a href="resbbs4.cgi?vew=2029">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�Ԏ����肪�Ƃ��������܂�.  <br>�����đ��̂��̂͂Ȃ��ł��傤��?...�����ɏ����Ă��ꂽ���Ƃ͑啔���ǂ�Ō��܂���.(^.^)</font></ul>
+ さん</font>
+ <font size=2>2003年10月30日(木) 0時58分</font>
+<a href="resbbs4@vew_2029.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>返事ありがとうございます.  <br>そして他のものはないでしょうか?...ここに書いてくれたことは大部分読んで見ました.(^.^)</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2030>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2003�N10��30��(��) 23��26��</font>
-<a href="resbbs4.cgi?vew=2030">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>GUNSLINGER�@GIRL</b>�z</font>
-<ul><font size=3>�ł�pkn���񂪖ʔ����Ǝv���؍��Ǝ���TS��i�������Ă��������B<br>���̏����������T�C�g������Ƃ��肪�����̂ł����B</font></ul>
+通りすがり
+ さん</font>
+ <font size=2>2003年10月30日(木) 23時26分</font>
+<a href="resbbs4@vew_2030.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>GUNSLINGER　GIRL</b>】</font>
+<ul><font size=3>ではpknさんが面白いと思う韓国独自のTS作品を教えてください。<br>その情報を扱ったサイトがあるとありがたいのですが。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2031>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
 pkn
- ����</font>
- <font size=2>2003�N10��31��(��) 1��41��</font>
-<a href="resbbs4.cgi?vew=2031">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�؍��ɂ� TS��i���قƂ�ǂȂ��ł�</font></ul>
+ さん</font>
+ <font size=2>2003年10月31日(金) 1時41分</font>
+<a href="resbbs4@vew_2031.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>韓国には TS作品がほとんどないです</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2032>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2003�N11��1��(�y) 1��11��</font>
-<a href="resbbs4.cgi?vew=2032">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�r�l�d��</b>�z</font>
-<ul><font size=3>�u�قƂ�ǂȂ��v�Ƃ������Ƃ͏����͂����ł���ˁB<br>�ǂ�ȍ��ׂȃl�^�ł����܂��܂���̂ŋ����Ă��������B</font></ul>
+通りすがり
+ さん</font>
+ <font size=2>2003年11月1日(土) 1時11分</font>
+<a href="resbbs4@vew_2032.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>瓶詰妖精</b>】</font>
+<ul><font size=3>「ほとんどない」ということは少しはあるんですよね。<br>どんな些細なネタでもかまいませんので教えてください。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2033>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
 pkn
- ����</font>
- <font size=2>2003�N11��1��(�y) 13��50��</font>
-<a href="resbbs4.cgi?vew=2033">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�؍��� site�� club���x�ł�.�����Ȃ���΂��������܂�.</font></ul>
+ さん</font>
+ <font size=2>2003年11月1日(土) 13時50分</font>
+<a href="resbbs4@vew_2033.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>韓国の siteは club制度です.加入なさればこそ見られます.</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2035>
-<font color=#6A5ACD>��ׂ��A������폜���ȁi�΂�</font></a>
+<font color=#6A5ACD>やべえ、今回も削除だな（笑い</font></a>
 <font color=#303030>
-���{�l
- ����</font>
- <font size=2>2003�N11��1��(�y) 15��0��</font>
-<a href="resbbs4.cgi?vew=2035">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�G�N�X�^�V�[�{�}�[�i���C�m��j</b>�z</font>
-<ul><font size=3>�O�ɂ������������N�n�̂s�r�e��q�˂�����΁A���ؖ|��f���m�`�u�d�q�ɍs����B���N�l�����{�̍�i��q�˂�̂����l�B<br>ttp://bbs.enjoykorea.naver.co.jp/jaction/list.php?id=enjoyjapan_6<br><br>�܂��A����̃g�����X�t�@�C�^�[�i���T���{�j�ƁA�P�O�N�ȏ�̂̎��ʉf��̃`�F���W���A���N��i�ł͊Y������˂��̂��H�B���ꂮ�炢�̂��ƂȂ�Q�����n���O���̏Z�l�ɕ����΋����Ă���邼�E�E�E�E<br>ttp://ex.2ch.net/korea/<br><br>���̍��̂s�r�e��i�i�C�O�ł͂s�fmanga)��m�肽����΁A<br>�\�ɏo�Ă��s�fmanga�}�j�A�̗�́A�u���W���l��A�t�����X�l�Ƀ��[�����o�����炢�����낤�B�Ƃ肠�����|��@���g����B<br>ttp://www.worldlingo.com/wl/Translate<br></font></ul>
+日本人
+ さん</font>
+ <font size=2>2003年11月1日(土) 15時0分</font>
+<a href="resbbs4@vew_2035.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>エクスタシーボマー（松任知基）</b>】</font>
+<ul><font size=3>前にも言ったが朝鮮系のＴＳＦを尋ねたければ、日韓翻訳掲示板ＮＡＶＥＲに行けよ。朝鮮人が日本の作品を尋ねるのも同様。<br>ttp://bbs.enjoykorea.naver.co.jp/jaction/list.php?id=enjoyjapan_6<br><br>まあ、漫画のトランスファイター（ユサンボ）と、１０年以上昔の実写映画のチェンジが、朝鮮作品では該当じゃねえのか？。それぐらいのことなら２ｃｈハングル板の住人に聞けば教えてくれるぞ・・・・<br>ttp://ex.2ch.net/korea/<br><br>他の国のＴＳＦ作品（海外ではＴＧmanga)を知りたければ、<br>噂に出てたＴＧmangaマニアの例の、ブラジル人や、フランス人にメールを出したらいいだろう。とりあえず翻訳機を使えよ。<br>ttp://www.worldlingo.com/wl/Translate<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2058>
-<font color=#6A5ACD>RE:��ׂ��A������폜���ȁi�΂�</font></a>
+<font color=#6A5ACD>RE:やべえ、今回も削除だな（笑い</font></a>
 <font color=#303030>
-�o���o�h�X�ݓ���g��
- ����</font>
- <font size=2>2003�N11��24��(��) 1��1��</font>
-<a href="resbbs4.cgi?vew=2058">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ǂ��ł��������ǁE�E�ŋ߂̕����ɏ���ď����Ɏ����̎�ŏW�܂��Ă��钇�ԂɁu���N�v�u�؍��v�Ƃ������ƂŘI���ȕ\���g���Ȃ�u���{�l�v�B����Ȍ������͕ʂ̏��ł���ĉ������B</font></ul>
+バルバドス在日大使館
+ さん</font>
+ <font size=2>2003年11月24日(月) 1時1分</font>
+<a href="resbbs4@vew_2058.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>どうでもいいけど・・最近の風潮に乗って純粋に自分の趣味で集まっている仲間に「朝鮮」「韓国」ということで露骨な表現使うなよ「日本人」。そんな言い方は別の所でやって下さい。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -153,44 +153,44 @@ pkn
 </ul>
 </ul>
 <input type=checkbox name=delcode value=2078>
-<font color=#6A5ACD>age�Ƃ���B</font></a>
+<font color=#6A5ACD>ageとくよ。</font></a>
 <font color=#303030>
-�c�{
- ����</font>
- <font size=2>2003�N12��5��(��) 22��54��</font>
-<a href="resbbs4.cgi?vew=2078">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>Une�@Femme�@Dans�@La�@Peau�@</b>�z</font>
-<ul><font size=3><a href=http://gimg.yahoo.co.kr/comics/comics/c/10201003.jpg target=_top>http://gimg.yahoo.co.kr/comics/comics/c/10201003.jpg</a><br><br>�؍��̂s�r����u�g�����X�t�@�C�^�[�i��ҁE���T���{�j�v</font></ul>
+田ボ
+ さん</font>
+ <font size=2>2003年12月5日(金) 22時54分</font>
+<a href="resbbs4@vew_2078.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>Une　Femme　Dans　La　Peau　</b>】</font>
+<ul><font size=3><a href=http://gimg.yahoo.co.kr/comics/comics/c/10201003.jpg target=_top>http://gimg.yahoo.co.kr/comics/comics/c/10201003.jpg</a><br><br>韓国のＴＳ漫画「トランスファイター（作者・ユサンボ）」</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2079>
-<font color=#6A5ACD>RE:age�Ƃ���B</font></a>
+<font color=#6A5ACD>RE:ageとくよ。</font></a>
 <font color=#303030>
 pkn
- ����</font>
- <font size=2>2003�N12��6��(�y) 16��31��</font>
-<a href="resbbs4.cgi?vew=2079">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>I have �g�����X�t�@�C�^�[ vol1...but �g�����X�t�@�C�^�[ is be uninteresting...and i have Une�@Femme�@Dans�@La�@Peau vol1~3....</font></ul>
+ さん</font>
+ <font size=2>2003年12月6日(土) 16時31分</font>
+<a href="resbbs4@vew_2079.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>I have トランスファイター vol1...but トランスファイター is be uninteresting...and i have Une　Femme　Dans　La　Peau vol1~3....</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2081>
-<font color=#6A5ACD>RE:age�Ƃ���B</font></a>
+<font color=#6A5ACD>RE:ageとくよ。</font></a>
 <font color=#303030>
-TGmanga���D��
- ����</font>
- <font size=2>2003�N12��7��(��) 3��45��</font>
-<a href="resbbs4.cgi?vew=2081">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>���@���L���[���E�L</b>�z</font>
-<ul><font size=3>pkn����g�����X�t�@�C�^�[��ǂ݂܂������ǁA<br>�s�r�e�Ƃ������A�j������Ƃ��ẮA�y����ł܂���B<br>�A�R���̏I���ŁA�j���̌ҊԂɋ[�Ԃ����\�[�Z�[�W�����ɐH����V�[���́A�΂��܂����B<br><br>���������A�s�r�e�Ƃ����W����������{�ŕ��y���������̃T�C�g�̎�u�l���D�x�������v�͈̑�ł����A���E�ɂ͂s�r�e�i�s�f�����������j�𐢂ɑ�X�I�ɍL�߂��s�r�e�̈̐l���A�O�l���݂��܂��B<br><br>��l�ڂ́A���̓��{�A���̃T�C�g�́u�x����������v<br>��l�ڂ́A�t�����X�l�A�i���O�́A�v���C�o�V�[��A�閧�ɂ��܂��B�j<br>�O�l�ڂ́A�u���W���l�A�i���O�́A�v���C�o�V�[��A�閧�ɂ��܂��B�j<br><br>���̎O�l�́A�܂��Ɉ̐l�Ƃ����ׂ��_�̂悤�ȑ��݂ł��ˁB<br><br>���������uUne�@Femme�@Dans�@La�@Peau �v�́A�u���W���Œm��܂����B<br><br><br></font></ul>
+TGmanga愛好家
+ さん</font>
+ <font size=2>2003年12月7日(日) 3時45分</font>
+<a href="resbbs4@vew_2081.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ヴァルキリーユウキ</b>】</font>
+<ul><font size=3>pknさんトランスファイターを読みましたけど、<br>ＴＳＦというより、男装漫画としては、楽しんでますよ。<br>、３巻の終わりで、男性の股間に擬態したソーセージを犬に食われるシーンは、笑えました。<br><br>そうそう、ＴＳＦというジャンルを日本で普及させたこのサイトの主「Ｍｒ．Ｙａｙｓ」は偉大ですが、世界にはＴＳＦ（ＴＧｍａｎｇａ）を世に大々的に広めたＴＳＦの偉人が、三人存在します。<br><br>一人目は、この日本、このサイトの「Ｙａｙｓさん」<br>二人目は、フランス人、（名前は、プライバシー上、秘密にします。）<br>三人目は、ブラジル人、（名前は、プライバシー上、秘密にします。）<br><br>この三人は、まさに偉人というべき神のような存在ですね。<br><br>そうそう「Une　Femme　Dans　La　Peau 」は、ブラジルで知りました。<br><br><br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2105>
-<font color=#6A5ACD>RE:age�Ƃ���B</font></a>
+<font color=#6A5ACD>RE:ageとくよ。</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2003�N12��19��(��) 21��11��</font>
-<a href="resbbs4.cgi?vew=2105">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�_�i���͊��S���Ȃ��Ȃ��B<br>�J���g�@���݂������B</font></ul>
+くうら
+ さん</font>
+ <font size=2>2003年12月19日(金) 21時11分</font>
+<a href="resbbs4@vew_2105.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>神格化は感心しないなぁ。<br>カルト宗教みたいだ。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -199,17 +199,17 @@ TGmanga���D��
 <font color=#6A5ACD></font></a>
 <font color=#303030>
 Z
- ����</font>
- <font size=2>2003�N12��30��(��) 12��48��</font>
-<a href="resbbs4.cgi?vew=2109">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ���E���킳�́A<b></b>�z</font>
-<ul><font size=3>���������Η�̃t�����X�lTGmanga�T�C�g�������邻���ł��ˁB<br></font></ul>
+ さん</font>
+ <font size=2>2003年12月30日(火) 12時48分</font>
+<a href="resbbs4@vew_2109.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる情報・うわさは、<b></b>】</font>
+<ul><font size=3>そういえば例のフランス人TGmangaサイトが閉鎖するそうですね。<br></font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

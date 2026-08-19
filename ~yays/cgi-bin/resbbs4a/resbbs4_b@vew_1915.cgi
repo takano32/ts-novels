@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�T���Ă��܂��B�N���m���Ă��܂��񂩁H>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:探しています。誰か知っていませんか？>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1899>
 <input type=hidden name=ress value=1915>
-<input type=submit value=�T���Ă��܂��B�N���m���Ă��܂��񂩁H�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=探しています。誰か知っていませんか？へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1915>
-<font color=#6A5ACD>RE:�T���Ă��܂��B�N���m���Ă��܂��񂩁H</font></a>
+<font color=#6A5ACD>RE:探しています。誰か知っていませんか？</font></a>
 <font color=#303030>
-2in1�}�t���[
- ����</font>
- <font size=2>2003�N8��9��(�y) 18��46��</font>
-<a href="resbbs4_b.cgi?vew=1915">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��Ƃ́A<b>�悵��������I�I�I�I�I�I�I�I�I</b>�z</font>
+2in1マフラー
+ さん</font>
+ <font size=2>2003年8月9日(土) 18時46分</font>
+<a href="resbbs4_b@vew_1915.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作家は、<b>よしおかさん！！！！！！！！！</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�悵���������<br><br>���X���肪�Ƃ��������܂��I<br>�����A���܂�L�����肩�ł͂Ȃ��̂ł����S�G�����͖�������]�ˎ���ւ���Ă����̂����[���[�X�P�[�g�i�Â��c�j�𗚂��Ă��ĉz�㉮�݂����Ȉ��l�������Ă����C�����܂��B���̋ߖ�������̒��̃L�Z�����ϐg���铹��Ńq���C���ɕϐg���Ă����Ǝv���܂��B�悵��������̂��������S�G�����̓Q�[���́u����΂�S�G�����v�i������u�k�Ђ̃{���{���ł��ˁB�j�̓G�̃^�R����D������ŕϐg�����ł��B<br>���ƕʂ̘b�ŒK�i���������Ȃ��H�j�����݂������ɕϐg���Ă��܂����B<br><br></font></ul>
+<ul><br><font size=3>よしおかさんへ<br><br>レスありがとうございます！<br>私も、あまり記憶が定かではないのですがゴエモンは未来から江戸時代へやってきたのかローラースケート（古い…）を履いていて越後屋みたいな悪人が驚いていた気がします。その近未来道具の中のキセルが変身する道具でヒロインに変身していたと思います。よしおかさんのおっしゃるゴエモンはゲームの「がんばれゴエモン」（これも講談社のボンボンですね。）の敵のタコから奪った薬で変身するやつです。<br>あと別の話で狸（だったかなぁ？）がおみっちゃんに変身していました。<br><br></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

@@ -1,174 +1,174 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=1&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_1_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=1&id=1129429479jgrix&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">��˒[�t�H�[����</a>]<br>
+[<a href="noteky@c_noteread_f_1_id_1129429479jgrix_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">井戸端フォーラム</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�`�F���W�I�E�E�E�W�����̍ŏ��̎E�l�����I</font><br>
+<font size="+2" color="#0000FF">チェンジ！・・・ジュンの最初の殺人事件！</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2005/10/16 11:24:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2005/10/16 11:24:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129429479jgrix&id2=1129429479jgrix&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129429479jgrix_id2_1129429479jgrix_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̍�i�̊��z�ł����A����͈�̂Ȃ�ł����H�������m���ǂ��H<BR>�T�㏬���t�@���Ƃ��ċ^��Ɋ����܂��B<BR>dragonmagic����͉��L�̂悤�ɋ��Ă܂��B<BR>����{�I�Ɏ������ł�����A�����������o����Ηǂ�<BR>�Ƃ���Ȃ玖���̏ڍׂ�������Ă���͂��ł���ˁB���̕`�ʂ͂ǂ��ɂ���̂ł��傤���H<BR>����́A�ǂ����������́i�ꌬ�Ƃ��A�}���V�����Ɉꎺ���A�z�e���Ȃ̂��A�������Ȃ̂������킩��Ȃ��j�H<BR>��Q�҂͂ǂ�ȕ����̂ǂ������󋵂œ|��Ă����̂��H<BR>���̂Ƃ��̕����́H<BR>�v�����̏��́H<BR>�ƍs�����́H<BR>����͂ǂ̂悤�ɂȂ��Ă����̂��H<BR>�܂��A�s���ȓ_������܂����A�����͈�؂�����Ă���܂���B<BR>����ł́A���h�Ȗ��O�̗������o����Ă��A�o����Ă����̂́A�M�����ŁA�����͂ƕ����ƁA���O������������āA��͈�؂Ȃ��B<BR>����ł́A�ǂ�ȗ����ŁA�ǂ�Ȏp�����Ă��āA�ǂ�Ȗ��Ȃ̂��z������o���܂���B<BR><BR>�������w�E���ꂽ����������͐������ł��B<BR>���̂��Ƃɂ��Ăǂ����l���Ȃ̂ł����H<BR>dragonmagic����̃z�[���y�[�W�̍�i�A���Ƒ�O�̎�����ǂ܂��Ă��������܂������A����������ŁA��L�̕`�ʂ�����܂���B<BR>����𐄗����m�Ƌ�̂ł��傤���H���Ԏ����҂����Ă���܂��B
+この作品の感想ですが、これは一体なんですか？推理モノもどき？<BR>探偵小説ファンとして疑問に感じます。<BR>dragonmagicさんは下記のように仰ってます。<BR>＞基本的に事件物ですから、事件が解決出来れば良い<BR>とするなら事件の詳細が書かれているはずですよね。その描写はどこにあるのでしょうか？<BR>現場は、どういう建物の（一軒家か、マンションに一室か、ホテルなのか、事務所なのかさえわからない）？<BR>被害者はどんな部屋のどういう状況で倒れていたのか？<BR>そのときの服装は？<BR>致命傷の傷は？<BR>犯行時刻は？<BR>凶器はどのようになっていたのか？<BR>まだ、不明な点がありますが、それらは一切かかれてありません。<BR>これでは、立派な名前の料理を出されても、出されてきたのは、皿だけで、料理はと聞くと、名前だけ説明されて、後は一切なし。<BR>これでは、どんな料理で、どんな姿をしていて、どんな味なのか想像すら出来ません。<BR><BR>これらを指摘された嶋草耳さんは正しいです。<BR>このことについてどうお考えなのですか？<BR>dragonmagicさんのホームページの作品、第二と第三の事件を読ませていただきましたが、これも同じで、上記の描写がありません。<BR>これを推理モノと仰るのでしょうか？ご返事お待ちしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��{����</strong>  <i>2005/10/17 11:58:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>基本だぞ</strong>  <i>2005/10/17 11:58:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129517883bmvpf&id2=1129429479jgrix&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129517883bmvpf_id2_1129429479jgrix_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@||�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P�P||<BR>�@|| ���r�炵�͕��u����ԃL���C�B�r�炵�͏�ɒN���̔�����҂��Ă��܂��B<BR>�@|| ���d���X���ɂ͗U�������N��\���ĕ��u�B�E�U�C�Ǝv�����炻�̂܂ܕ��u�B<BR>�@|| �����u���ꂽ�r�炵�͐���⎩�쎩���ł��Ȃ��̃��X��U���܂��B<BR>�@||�@�@�m�Z���ă��X�����炻�̎��_�ł��Ȃ��̕����B<BR>�@|| �������͍r�炵�̎��{�ɂ��ĉh�{�ł���ł���Ԃ��Ƃł��B�r�炵�ɃG�T��<BR>�@||�@�@�^���Ȃ��ŉ������B �@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@ ��_��<BR>�@|| ���͎�����܂ŌǓƂɖ\�ꂳ���Ă����ā@�@ �_�@(�K�D�K,,)�@�L�z���B<BR>�@||�@�@�S�~�����܂�����폜����Ԃł��B�@�@�@�@�@ �@���� |<BR>�@||�Q�Q�Q �� �ȁQ�Q�� �ȁQ�Q�@�� �ȁQ�@�@�@�@�@ |�P�P�P�P|<BR>�@�@�@�@�@�@(�@ �� ��__ (�@�@ �� ��__(�@�@ �� �ȁ@�@�@�@�P�P�P<BR>�@�@�@�@�`�i�Q(�@�@�� �ȁQ (�@ �� �ȁQ (�@�@�� �� �@�́`���A�搶�B<BR>�@�@�@�@�@�@�`�i�Q(�@ �@,,)�`�i�Q(�@ �@,,)�`�i�Q(�@ �@,,)<BR>�@�@�@�@�@�@�@�@�`�i�Q__�m�@�@�`�i�Q__�m �@�@�`�i�Q__�m
+　||￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣||<BR>　|| ○荒らしは放置が一番キライ。荒らしは常に誰かの反応を待っています。<BR>　|| ○重複スレには誘導リンクを貼って放置。ウザイと思ったらそのまま放置。<BR>　|| ○放置された荒らしは煽りや自作自演であなたのレスを誘います。<BR>　||　　ノセられてレスしたらその時点であなたの負け。<BR>　|| ○反撃は荒らしの滋養にして栄養であり最も喜ぶことです。荒らしにエサを<BR>　||　　与えないで下さい。 　　　　　　　　　　　　　　　　 Λ_Λ<BR>　|| ○枯死するまで孤独に暴れさせておいて　　 ＼　(゜Д゜,,)　キホン。<BR>　||　　ゴミが溜まったら削除が一番です。　　　　　 　⊂⊂ |<BR>　||＿＿＿ ∧ ∧＿＿∧ ∧＿＿　∧ ∧＿　　　　　 |￣￣￣￣|<BR>　　　　　　(　 ∧ ∧__ (　　 ∧ ∧__(　　 ∧ ∧　　　　￣￣￣<BR>　　　　～（＿(　　∧ ∧＿ (　 ∧ ∧＿ (　　∧ ∧ 　は～い、先生。<BR>　　　　　　～（＿(　 　,,)～（＿(　 　,,)～（＿(　 　,,)<BR>　　　　　　　　～（＿__ノ　　～（＿__ノ 　　～（＿__ノ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i�i�V�A</strong>  <i>2005/10/17 20:29:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ナナシア</strong>  <i>2005/10/17 20:29:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129548575xbnesk&id2=1129429479jgrix&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129548575xbnesk_id2_1129429479jgrix_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̂悵�����ƌ����̂͐����n�̉��[����m��Ȃ��l�ł��ˁB
+此処のよしおかと言うのは推理系の奥深さを知らない様ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2005/10/17 20:56:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2005/10/17 20:56:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129550181oflmqrl&id2=1129429479jgrix&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129550181oflmqrl_id2_1129429479jgrix_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[���Ƃ͂ǂ��������Ƃł��傤���H<BR>�i�i�V�A����A���������������܂����H<BR>
+奥深さとはどういうことでしょうか？<BR>ナナシアさん、お教えいただけますか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2005/10/17 21:27:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>匿名</strong>  <i>2005/10/17 21:27:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129552034vwkdw&id2=1129429479jgrix&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129552034vwkdw_id2_1129429479jgrix_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��i���̂ɉ��[���������Ȃ��ƌ����Ă�Ƃ���֐����n�S�ʂɂ��Ẳ��[��������Ă��Ӗ������Ǝv���܂��B<BR>����܂�ւ�肽���Ȃ��̂œ����ɂăX�}���B
+作品自体に奥深さを感じないと言ってるところへ推理系全般についての奥深さを語っても意味無いと思います。<BR>あんまり関わりたくないので匿名にてスマン。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�}�b�n774</strong>  <i>2005/10/17 21:30:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>マッハ774</strong>  <i>2005/10/17 21:30:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129552220hvhrm&id2=1129429479jgrix&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129552220hvhrm_id2_1129429479jgrix_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɂ悵�������������n�̉��[����m��Ȃ��̂��Ƃ��Ă��A<BR>���̓��e��i�������s���ł�������A�����̕��̎w�E�̂悤�ɓ��{��╶�͂Ƃ��Ă̌�肪�������͕ς��Ȃ��Ǝv���܂����B<BR><BR>����ƁA���X���e����@����Ƀi�i�V�A���͌��̓��e��i�����[�������n�̏������ƔF�����Ă���̂ł��傤���A<BR>�o����΂ǂ��������ȉ��߂����Ă��̌��_�Ɏ������̂������Ē��������v���܂��B<BR>�l�I�ɂ͏�L�̗��R�ɂ��A���̓��e��i�����������A�����ƌ����Ώ����E���͂̑̂��Ȃ��Ă���Ƃ͎v���Ȃ������̂ŁB
+仮によしおか氏が推理系の奥深さを知らないのだとしても、<BR>件の投稿作品が説明不足であったり、多くの方の指摘のように日本語や文章としての誤りが多い事は変わらないと思いますが。<BR><BR>それと、レス内容から察するにナナシア氏は件の投稿作品を奥深い推理系の小説だと認識しているのでしょうが、<BR>出来ればどういう風な解釈をしてその結論に至ったのか教えて頂きたく思います。<BR>個人的には上記の理由により、件の投稿作品が推理小説、もっと言えば小説・文章の体をなしているとは思えなかったので。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�}�b�n774</strong>  <i>2005/10/17 21:32:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>マッハ774</strong>  <i>2005/10/17 21:32:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129552357eiggsu&id2=1129429479jgrix&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129552357eiggsu_id2_1129429479jgrix_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǋL�y�ђ����B<BR><BR>&gt;6�s��<BR>��F���������A�����ƌ����Ώ����E���͂̑̂��Ȃ��Ă���Ƃ͎v���Ȃ������̂�<BR>���F���[���ȑO�ɐ��������A�����ƌ����Ώ����E���͂̑̂��Ȃ��Ă���Ƃ͎v���Ȃ������̂�
+追記及び訂正。<BR><BR>&gt;6行目<BR>誤：推理小説、もっと言えば小説・文章の体をなしているとは思えなかったので<BR>正：奥深さ以前に推理小説、もっと言えば小説・文章の体をなしているとは思えなかったので
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��s��</strong>  <i>2005/10/17 22:38:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>先行者</strong>  <i>2005/10/17 22:38:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129556320gfbykl&id2=1129429479jgrix&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129556320gfbykl_id2_1129429479jgrix_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F����A�������́u�i�i�V�A�v���Ƃ������́u�������v�����<BR>��������udragonmagic�v���{�l�ł���B
+皆さん、こっちの「ナナシア」氏とあっちの「名無し」さんは<BR>いずれも「dragonmagic」氏本人ですよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>rom</strong>  <i>2005/10/17 22:39:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129556347ejsxa&id2=1129429479jgrix&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129556347ejsxa_id2_1129429479jgrix_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�d��=dragonmagic
+電識=dragonmagic
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ȂȂ��[</strong>  <i>2005/10/17 22:52:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ななしー</strong>  <i>2005/10/17 22:52:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129557148hgkvejh&id2=1129429479jgrix&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129557148hgkvejh_id2_1129429479jgrix_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V�[�b�I<BR>�������������肪���̂��邱�܂��������Ȃ񂾂���<BR>����������Ƃ��悪���Ă�����
+シーッ！<BR>せっかくいじりがいのあるこまったちゃんなんだから<BR>もうちょっとおよがせてあげて
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>ROM</strong>  <i>2005/10/18 11:34:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129602888mdqgmud&id2=1129429479jgrix&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129602888mdqgmud_id2_1129429479jgrix_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���S�`<BR>�悵�����݂����ȃA�z�����邩�炵�΂炭�͉j���ł邾��
+安心汁<BR>よしおかみたいなアホがいるからしばらくは泳いでるだろ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2005/10/18 14:32:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2005/10/18 14:32:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129613542iavhkx&id2=1129429479jgrix&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129613542iavhkx_id2_1129429479jgrix_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͂́A�����ł����B<BR>�A�z�Ɂu���فv�ƌ�����̂��ꋻ�ł��ˁB
+あはは、そうですか。<BR>アホに「あほ」と言われるのも一興ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�V�V�S</strong>  <i>2005/10/20 16:18:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>７７４</strong>  <i>2005/10/20 16:18:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129792719pkmdl&id2=1129429479jgrix&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129792719pkmdl_id2_1129429479jgrix_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǁ[����[���ˁ[�B<BR>�悵�������~�[�łe�`�B
+どーしよーもねー。<BR>よしおかも厨房でＦＡ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ځ`��</strong>  <i>2005/10/21 09:44:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あぼ～ん</strong>  <i>2005/10/21 09:44:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1129855440ftptv&id2=1129429479jgrix&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1129855440ftptv_id2_1129429479jgrix_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���쎩��������̃C���^�[�l�b�g�͂����ł����H
+自作自演し放題のインターネットはここですか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ȂȂ���</strong>  <i>2005/10/24 05:14:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ななっし</strong>  <i>2005/10/24 05:14:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1130098451fixkj&id2=1129429479jgrix&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1130098451fixkj_id2_1129429479jgrix_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-<BR>&gt;�@���N�������ɏZ�l�́A2ch�Z�l�ƈ���čr���ϐ����Ȃ��̂��A���\�ÎQ�̐l�܂ł� <BR>&gt;���ʂ���Ԃ����āA���ʂƂ��Đ���܂����Ă܂�����ˁc�c�B <BR><BR>�R�@�@�m�@�@ �@�@ �M�R r�L�@�@�@�@ �S�@�\ <BR>�@ ~�R�R�@�@ �@ �@�@�t�@�@�@�@ �@/�m <BR>�@�@�@�R�m�@�@�@�@�@_o_ <BR>�@�@ �@�@ �@ �@�@�^===�_ <BR>�@�@�@�@�@ �@ �@.l����_l <BR>-�L�ܓ񁽁@�@(|��| |��||)�@�@����ܘ� <BR>�@�Q�\.�@�@�@ �@|�P���P/�@�@�@�@�@�S_�Q <BR>�@ �@ �@�@ �@ �@ �S:::��::�l <BR>�@�@ �@�@ �@�@�^�L�R'''''''//�� <BR>
+<BR>&gt;　少年少女文庫住人は、2ch住人と違って荒し耐性がないのか、結構古参の人までが <BR>&gt;正面からぶつかって、結果として煽りまくってますからね……。 <BR><BR>ヽ　　ノ　　 　　 ｀ヽ r´　　　　 ヾ　ソ <BR>　 ~ヽヽ　　 　 　　Ｕ　　　　 　/ノ <BR>　　　ヽノ　　　　　_o_ <BR>　　 　　 　 　　／===＼ <BR>　　　　　 　 　.l二二二_l <BR>-´⌒二⊃　　(|＝| |＝||)　　⊂二⌒丶 <BR>　＿ソ.　　　 　|￣し￣/　　　　　ヾ_＿ <BR>　 　 　　 　 　 ヾ:::∀::人 <BR>　　 　　 　　／´ヽ'''''''//丶 <BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i�i�V�A</strong>  <i>2005/10/25 16:52:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ナナシア</strong>  <i>2005/10/25 16:52:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1130226743xbasf&id2=1129429479jgrix&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1130226743xbasf_id2_1129429479jgrix_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 dragonmagic
@@ -176,37 +176,37 @@ dragonmagic
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i�i�V�A</strong>  <i>2005/10/25 16:52:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ナナシア</strong>  <i>2005/10/25 16:52:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1130226778qogaff&id2=1129429479jgrix&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1130226778qogaff_id2_1129429479jgrix_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-dragonmagic���ĒN�ł����H
+dragonmagicって誰ですか？
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="1129429479jgrix">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">��˒[�t�H�[����</a>]<br>
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">井戸端フォーラム</a>]<br>
 
 </p>
 </body>

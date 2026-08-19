@@ -1,312 +1,312 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&ff=on&id=1007739186romjdy&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_ff_on_id_1007739186romjdy_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���̖���</font><br>
+<font size="+2" color="#0000FF">無の魔力</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/08001906/no_magic.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/12/08 00:33:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/08001906/no_magic.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/12/08 00:33:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1007739186romjdy&id2=1007739186romjdy&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1007739186romjdy_id2_1007739186romjdy_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ނ�݂₽��Ɓu��p�v�Ȃ񂩎g������_���ł��A�f�B�[�m�N�B<BR>�������f�B�[�m�N�̏f������A���͂��̂����[���A�u�Ȃ��q�g�������肵�āc�B
+むやみやたらと「秘術」なんか使っちゃダメです、ディーノ君。<BR>しかしディーノ君の叔父さん、実はものすごーくアブないヒトだったりして…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/08 06:10:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/08 06:10:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1007759422prnxtmg&id2=1007739186romjdy&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1007759422prnxtmg_id2_1007739186romjdy_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͖ʔ����ł��ˁ[�B�v�X�ɐ����h�̃t�@���^�W�[���o�Ă����悤�ȋC�����܂��B���A���A����A�܂ނƂ���͉�������܂���̂ł��C�ɂȂ���ʂ悤�i�΁j�B<BR>�����@�B���\�ʔ������ȋZ�ł���܂��B�t�����i���X�j�X�P�x�������Ȃ̂����񑩁i�΁j�B<BR>�������A�����܂���ˁB�y���݂��Ȃ��B
+読んだバイ♪<BR>これは面白いですねー。久々に正統派のファンタジーが出てきたような気がします。え、あ、いや、含むところは何もありませんのでお気になされぬよう（笑）。<BR>合魔法。結構面白そうな技であります。師匠が（少々）スケベじじいなのもお約束（笑）。<BR>もちろん、続きますよね。楽しみだなぁ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2001/12/08 09:27:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2001/12/08 09:27:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1007771244wjcwid&id2=1007739186romjdy&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1007771244wjcwid_id2_1007739186romjdy_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�n�߂܂��āA���肫��ł�<BR><BR>&gt;����͖ʔ����ł��ˁ[�B<BR>��l�ł��A���������Ă���������Ɗ������ł��B<BR>�킽���́A���܂܂Ń������Ă��l�Ԃł������A�C�ɂ�������i���炢�͊��z�������Ȃ����Ⴂ���Ȃ��ȂƎv���܂����B<BR><BR>&gt;�����@�B���\�ʔ������ȋZ�ł���܂��B<BR>���p���܂߂āA���܂ł̖��@����������i�́A�З́i���j�ɏd�_���u����Ă���悤�ȋC�����܂����B�i��������A���݂܂���B�j<BR>�������낻��A�_�̖��@�̋��������������i���o���Ă������ȁA�Ǝv���A�l�������̂ł��B<BR>�����肩�Ǝv���܂����A�����@�̃A�C�f�A�́A���C�_�p�����Ƃ��Ă��܂��B<BR><BR>&gt;�t�����i���X�j�X�P�x�������Ȃ̂����񑩁i�΁j�B<BR>�e�B�[���i�f�B�[�m�j��TS����������ׂ̈����ɁA�ݒ肵�܂����B<BR>�����ł��A���񂿂Ⴍ���Ǝv���܂��B<BR><BR>&gt;�������A�����܂���ˁB�y���݂��Ȃ��B  <BR>�����A���ƂQ��A���e�������Ǝv���܂��B�i���͏I�����́A�����l���Ă��܂��B�j<BR>�M�́A�x���̂ŁA���A���e����܂Ŏ��Ԃ́A������Ǝv���܂��B<BR><BR>���̍�i���o�������A���܂�̌뎚�ׁ̈A�^�c�ψ���̊F�l�ɂ́A���萔���|���Ă��܂��܂����B���l�ђv���܂��B<BR>�����͂�͂�A����Ǝv���������̍��ł��B<BR><BR><BR>
+始めまして、きりきりです<BR><BR>&gt;これは面白いですねー。<BR>一人でも、そう言っていただけると嬉しいです。<BR>わたしは、いままでロムってた人間でしたが、気にいった作品くらいは感想を書かなくちゃいけないなと思いました。<BR><BR>&gt;合魔法。結構面白そうな技であります。<BR>商用も含めて、今までの魔法を扱った作品は、威力（剛）に重点が置かれているような気がしました。（あったら、すみません。）<BR>もうそろそろ、柔の魔法の強さを感じられる作品も出来ていいかな、と思い、考えたものです。<BR>お判りかと思いますが、合魔法のアイデアは、合気柔術を元としています。<BR><BR>&gt;師匠が（少々）スケベじじいなのもお約束（笑）。<BR>ティーラ（ディーノ）をTSさせる口実の為だけに、設定しました。<BR>自分でも、あんちゃくかと思います。<BR><BR>&gt;もちろん、続きますよね。楽しみだなぁ。  <BR>ええ、あと２回、投稿したいと思います。（実は終わり方は、もう考えています。）<BR>筆は、遅いので、次、投稿するまで時間は、かけると思います。<BR><BR>この作品を出した時、あまりの誤字の為、運営委員会の皆様には、お手数を掛けてしまいました。お詫び致します。<BR>文書はやはり、難しいと思う今日この頃です。<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/12/08 09:46:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/12/08 09:46:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1007772386iedvfiv&id2=1007739186romjdy&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1007772386iedvfiv_id2_1007739186romjdy_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ����B�����q�ɍ��f����N����������ʔ������A�����Ȃ�u����ȁA�n���ȗ��R�ŏ��̎q�ɂȂ����́H�v �ƈ�Ԃ܂Ƃ��Ȕ���������~�[�f���A���悢�ł��B<BR>����̓N��������̍��f�Ԃ���y���݂ł����~�[�f���A�̏��F�B�f�B�[������������ς�f�B�[�m�N�������ƋC�Â��ߒ����y���݂ł��B<BR>���H�@�~�[�f���A�������ă��M�����[����Ȃ���ł����H�@����͎c�O�B<BR>�ł��A�f�B�[�m�N�����̎q�Ƃ��Đ������Ă����ߒ��������Ə�����Ă��Ė{���ɖʔ��������ł��B�����h�t�@���^�W�[�ł��萳���h�s�r�X�g�[���[�ł��ˁB�ł��\�����ɓǂ߂�Ƃ��낪��ϗǂ������ł��B<BR>������y���݂ɂ��Ă��܂��B
+面白い。甥っ子に困惑するクリムさんも面白いが、いきなり「そんな、馬鹿な理由で女の子になったの？」 と一番まともな反応をするミーデリアがよいです。<BR>今後はクリムさんの困惑ぶりも楽しみですがミーデリアの女友達ディーラちゃんよりやっぱりディーノ君がいいと気づく過程も楽しみです。<BR>え？　ミーデリアちゃんってレギュラーじゃないんですか？　それは残念。<BR>でも、ディーノ君が女の子として成長していく過程がちゃんと書かれていて本当に面白かったです。正統派ファンタジーであり正統派ＴＳストーリーですね。でも構えずに読めるところが大変良かったです。<BR>次回も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2001/12/08 18:23:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2001/12/08 18:23:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1007803404lauej&id2=1007739186romjdy&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1007803404lauej_id2_1007739186romjdy_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������@���������񊴑z���肪�Ƃ�������܂��B<BR><BR>&gt;�����q�ɍ��f����N����������ʔ���<BR>�킽���́A�N�������A�����܂Ŗ�������L�����ɂȂ�Ƃ́A�����A�v���܂���ł����B<BR>�����̏������L�����ɑ��h���܂��Ƃ́i���j<BR><BR>&gt;�~�[�f���A�̏��F�B�f�B�[������������ς�f�B�[�m�N��������<BR>&gt;�C�Â��ߒ����y���݂ł��B<BR>�~�[�f���A�Ƃ̗����́A�O�b�ڂŏ����グ�����ƍl���Ă��܂��B<BR>�܂��A�\��̒i�K�Ȃ�ł����B<BR><BR>&gt;�~�[�f���A�������ă��M�����[����Ȃ���ł����H<BR>���ꂩ����A�o�������܂��B<BR><BR>&gt;�f�B�[�m�N�����̎q�Ƃ��Đ������Ă����ߒ��������Ə�����Ă���<BR>&gt;�{���ɖʔ��������ł��B<BR>���̕\������肭�o�������H�s���ł����B<BR>�Ƃ肠�����A���S���Ă����̂ł��傤���B�i�΁j<BR>���ꂩ����A�F�X�ȏo�����Ɋ�������p�������`����悤�撣��܂��B<BR><BR>&gt;�����h�t�@���^�W�[�ł��萳���h�s�r�X�g�[���[�ł��ˁB<BR>�ڕW�ł��������̂ŁA���������ĉ�����Ɗ������ł��B<BR>�ł��A�b�������Ȃ肷���Ȃ��悤�C��t�������Ǝv���܂��B<BR><BR>&gt;�ł��\�����ɓǂ߂�Ƃ��낪��ϗǂ������ł��B<BR>�����A�c�t�ȕ������炩���A����܂���B<BR><BR>&gt;������y���݂ɂ��Ă��܂��B <BR>�撣��܂��B<BR>
+あおき　あおきさん感想ありがとう御座います。<BR><BR>&gt;甥っ子に困惑するクリムさんも面白い<BR>わたしは、クリムが、ここまで味があるキャラになるとは、当初、思いませんでした。<BR>自分の書いたキャラに尊敬しまうとは（汗）<BR><BR>&gt;ミーデリアの女友達ディーラちゃんよりやっぱりディーノ君がいいと<BR>&gt;気づく過程も楽しみです。<BR>ミーデリアとの恋愛は、三話目で書き上げたいと考えています。<BR>まだ、予定の段階なんですか。<BR><BR>&gt;ミーデリアちゃんってレギュラーじゃないんですか？<BR>これからも、出演させます。<BR><BR>&gt;ディーノ君が女の子として成長していく過程がちゃんと書かれていて<BR>&gt;本当に面白かったです。<BR>その表現を上手く出来たか？不安でした。<BR>とりあえず、安心していいのでしょうか。（笑）<BR>これからも、色々な出来事に葛藤する姿を可愛く描けるよう頑張ります。<BR><BR>&gt;正統派ファンタジーであり正統派ＴＳストーリーですね。<BR>目標でもあったので、そう書いて下さると嬉しいです。<BR>でも、話が堅くなりすぎないよう気を付けたいと思います。<BR><BR>&gt;でも構えずに読めるところが大変良かったです。<BR>ただ、幼稚な文だからかも、しれません。<BR><BR>&gt;次回も楽しみにしています。 <BR>頑張ります。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/11 02:32:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/11 02:32:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008005545hnjcuno&id2=1007739186romjdy&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008005545hnjcuno_id2_1007739186romjdy_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��݂܂����B<BR>���b�������Ȃ�Ȃ��悤��<BR>���̐S�z�͂Ȃ��悤�ȋC�����܂��B<BR>�t�H�X�^�[�̌��Ȃ���Ȃ��ł����u�ׂ������Ƃ͋C�ɂ��Ȃ��v�ŃK���K�������܂��傤�I<BR><BR>���G�̖��͂������̖��͂ɕϊ�����<BR>���ufun�Efun�H�[�v�i�P���łłĂ��܂��j<BR>�i����͖T���f�Ȗ��@�ł��B�Ȃ��A���ʂ͕ω������j<BR><BR>�������̖��@�������Ďg��<BR>���u���@�g��tai!�v�i�n�u�`�Łj<BR>�i��ʂɂłĂ��܂��B�����l���s�r���āA���炢���ƂɂȂ��Ă܂��j<BR><BR>
+よみました。<BR>＞話が堅くならないように<BR>その心配はないような気がします。<BR>フォスターの口癖じゃないですが「細かいことは気にしない」でガンガンいきましょう！<BR><BR>＠敵の魔力を自分の魔力に変換する<BR>→「fun・fun工房」（１巻ででてきます）<BR>（これは傍迷惑な魔法です。なお、性別は変化無し）<BR><BR>＠複数の魔法を混ぜて使う<BR>→「魔法使いtai!」（ＯＶＡ版）<BR>（大量にでてきます。複数人がＴＳして、えらいことになってます）<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2001/12/12 21:20:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2001/12/12 21:20:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008159645vbisadm&id2=1007739186romjdy&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008159645vbisadm_id2_1007739186romjdy_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���<BR>���z���肪�Ƃ��������܂��B<BR><BR>&gt;�ufun�Efun�H�[�v�i�P���łłĂ��܂��j<BR>����́A�����ł��傤���H<BR>�ł��A���̕���Ɠ������@����舵������i�������ł��ˁB<BR>������Ɖ������ł��B�i�΁j�i���E�͍L���Ŏ��ł��ˁB�j<BR><BR>&gt;�u���@�g��tai!�v�i�n�u�`�Łj<BR>���̃A�j����TS�v�f������Ƃ͒m��܂���ł����B<BR>�����^���r�f�I���ł��ڂɊ|���Ă͂����̂ł����A���܂܂Ŏ肪�L�т܂���ł����B<BR>����ǎ؂�Ă݂悤���Ǝv���܂��B
+すなさん<BR>感想ありがとうございます。<BR><BR>&gt;「fun・fun工房」（１巻ででてきます）<BR>これは、小説でしょうか？<BR>でも、私の物語と同じ魔法を取り扱った作品があるんですね。<BR>ちょっと悔しいです。（笑）（世界は広いで事ですね。）<BR><BR>&gt;「魔法使いtai!」（ＯＶＡ版）<BR>このアニメにTS要素があるとは知りませんでした。<BR>レンタルビデオ屋でお目に掛けてはいたのですが、いままで手が伸びませんでした。<BR>こんど借りてみようかと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/12/12 22:59:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/12/12 22:59:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008165547lrxnc&id2=1007739186romjdy&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008165547lrxnc_id2_1007739186romjdy_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;&gt;�ufun�Efun�H�[�v�i�P���łłĂ��܂��j<BR>&gt;����́A�����ł��傤���H<BR>�R�~�b�N�X�ł��B����ЉԂƂ�߃R�~�b�N�X�B�ŋ߂Q������������܂����i�͂��B���^�N�V�͂܂��m�F���Ă��Ȃ��j�B
+&gt;&gt;「fun・fun工房」（１巻ででてきます）<BR>&gt;これは、小説でしょうか？<BR>コミックスです。白泉社花とゆめコミックス。最近２巻が発売されました（はず。ワタクシはまだ確認していない）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/16 01:05:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/16 01:05:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008432323tpikqp&id2=1007739186romjdy&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008432323tpikqp_id2_1007739186romjdy_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����u���@�g��tai!�v�i�n�u�`�Łj<BR>�����̃A�j����TS�v�f������Ƃ͒m��܂���ł����B<BR><BR>���݂ɂ��̃R�~�b�N�X�ł́A����ɋ��󂾂Ƃ������Ƃ��t�������Ă����܂��B<BR>
+＞＞「魔法使いtai!」（ＯＶＡ版）<BR>＞このアニメにTS要素があるとは知りませんでした。<BR><BR>因みにこのコミックス版は、さらに強烈だということも付け加えておきます。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2001/12/16 13:25:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2001/12/16 13:25:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008476709ecuymr&id2=1007739186romjdy&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008476709ecuymr_id2_1007739186romjdy_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l�A���Ȃ���l�A��񂠂肪�Ƃ�������܂��B<BR>�Ȃ�قǁA�����R�~�b�N�X�ł����B<BR>�Q�l�ɓǂ�ł݂����ł��ˁB<BR>�����A���A�ꉞ�A�j�Ȃ��̂Ŕ����̂��p�������ł��B<BR>�ł��A�G������͔������ł����ǂˁB<BR><BR>�O����v���Ă������Ȃ�ł����A����D���̒j�̎q���s�r���ď���������C���˖��������X�g�[���ŁA������ƖG����悤�ȋC�����܂��B<BR>���ꂪ�����Ă���Ȃ��ł��傤���B�i�����ŏ������āi�΁j�j
+ｍｋ８４２６様、すなさん様、情報ありがとう御座います。<BR>なるほど、少女コミックスですか。<BR>参考に読んでみたいですね。<BR>ただ、私、一応、男なもので買うのが恥かしいです。<BR>でも、エロ漫画は買えるんですけどね。<BR><BR>前から思っていた事なんですが、漫画好きの男の子がＴＳして少女漫画を気がね無く買うストーリで、ちょっと萌えるような気がします。<BR>だれが書いてくれないでしょうか。（自分で書けって（笑））
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/12/16 23:12:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/12/16 23:12:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008511942xjsqlu&id2=1007739186romjdy&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008511942xjsqlu_id2_1007739186romjdy_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ꉞ�A�j�Ȃ��̂Ŕ����̂��p�������ł��B<BR>����܂���A���^�N�V��������ł����Ǖ��C�ŏ����}���K�����Ă܂��B�P�s�{���A�G�����i�΁j�B<BR>�p�������������͍̂ŏ��̂��������B�����ች�Ƃ��v���܂���B
+＞一応、男なもので買うのが恥かしいです。<BR>すんません、ワタクシおっさんですけど平気で少女マンガ買ってます。単行本も、雑誌も（笑）。<BR>恥ずかしかったのは最初のうちだけ。今じゃ何とも思いません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/23 19:37:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/23 19:37:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009103858qebjuo&id2=1007739186romjdy&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009103858qebjuo_id2_1007739186romjdy_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������ች�Ƃ��v���܂���B<BR>����ɂ͂R�N�͊|����悤�ȁc�B<BR><BR>������D���̒j�̎q���c<BR>�u�s�r�Łw�����w���{�[�C�����āI�x�v�̗l�ȃX�g�[���[�ł����H<BR>�@���X�̃X�g�[���[���́A���\�L�Ă��܂��c�B<BR>�@���e�ɂ��ẮA�����ł͊����ĕ����Ă����܂��B<BR>�i�W�p��RMC�ł����A������X�ɍs���Ȃ��Ƃ܂����������ł��B�j<BR>
+＞今じゃ何とも思いません。<BR>それには３年は掛かるような…。<BR><BR>＞漫画好きの男の子が…<BR>「ＴＳ版『メルヘンボーイを撃て！』」の様なストーリーですか？<BR>　元々のストーリー自体、結構キています…。<BR>　内容については、ここでは敢えて伏せておきます。<BR>（集英社RMCですが、漫画専門店に行かないとまず無さそうです。）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2001/12/23 22:04:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2001/12/23 22:04:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009112667mtykf&id2=1007739186romjdy&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009112667mtykf_id2_1007739186romjdy_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�����ች�Ƃ��v���܂���<BR>�����L�肽���ł��ˁB<BR>���͓���ł��B�C�ɂȂ閟��͂������L��̂ł����B<BR>��������������Ŕ������̂́A�l����������܂���B<BR>�ǂ����Ĕ����Ȃ��̂����l����Ə�������ɑ΂���Ό��݂����Ȃ��̂����邩������Ȃ��ȁ`�Ǝv���Ă��܂��B����̖ڂ��C�ɂȂ�̂�����܂����B<BR>�����v���ƁA������ƁA���������ȓz���Ǝv���Ⴂ�܂��B<BR><BR>&gt;�u�s�r�Łw�����w���{�[�C�����āI�x�v�̗l�ȃX�g�[���[�ł����H<BR>���݂܂���B���O���珉�߂Ēm�����̂ŁA����Ȃ��ł��B<BR><BR>&gt;���e�ɂ��ẮA�����ł͊����ĕ����Ă����܂��B<BR>����������ƋC�ɂȂ�܂��ˁB<BR>�ł��A���Ȃ���A���낢��ڂ����ł��ˁB<BR>�Q�l�ɂȂ�܂��B<BR><BR>��T�̓��j�A��͂𓊍e���܂����B<BR>���܂���v���ƁA�^�c�ψ���̕��ɂ͈������������Ǝv���Ă��܂��B<BR>�Z�������A�\���󂠂�܂���ł����B<BR>�f�ڂ́A�������ł����ł��B<BR>��͂̓��e�́A�㖡�������X�g�[�����Ǝv���܂��B<BR>�ł��A�ŏI�I�ɂ́A�n�b�s�[�G���h�ŏI��点�����ł��̂ŁA���̓_�́A���S���Ă��������B<BR><BR>����ł́A���炵�܂��B
+&gt;今じゃ何とも思いません<BR>そう有りたいですね。<BR>私は難しいです。気になる漫画はいくつか有るのですか。<BR>少女漫画を自分で買ったのは、四冊しかありません。<BR>どうして買えないのかを考えると少女漫画に対する偏見みたいなものがあるかもしれないな～と思っています。周りの目が気になるのもありますか。<BR>そう思うと、ちょっと、自分が嫌な奴だと思ちゃいます。<BR><BR>&gt;「ＴＳ版『メルヘンボーイを撃て！』」の様なストーリーですか？<BR>すみません。名前すら初めて知ったので、解らないです。<BR><BR>&gt;内容については、ここでは敢えて伏せておきます。<BR>そう言われると気になりますね。<BR>でも、すなさん、いろいろ詳しいですね。<BR>参考になります。<BR><BR>先週の日曜、二章を投稿しました。<BR>いまから思うと、運営委員会の方には悪い事をしたと思っています。<BR>忙しい中、申し訳ありませんでした。<BR>掲載は、ゆっくりでいいです。<BR>二章の内容は、後味が悪いストーリだと思います。<BR>でも、最終的には、ハッピーエンドで終わらせるつもりですので、その点は、安心してください。<BR><BR>それでは、失礼します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/08001906/no_magic02.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/12/24 18:44:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/08001906/no_magic02.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/12/24 18:44:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009187068vbdxxp&id2=1007739186romjdy&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009187068vbdxxp_id2_1007739186romjdy_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�M���g�����ӂł̉������ȓ��������X�ɖ��炩�ɁB���ꂩ��̓W�J���y���݂��I�I<BR>�c�������f�B�[���N�̍�����v�`�F�b�N(��)
+ギリト国周辺での怪しげな動きが徐々に明らかに。これからの展開が楽しみだ！！<BR>…もちろんディーラ君の今後も要チェック(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/24 22:25:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/24 22:25:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009200325srjexd&id2=1007739186romjdy&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009200325srjexd_id2_1007739186romjdy_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށB������x�ǂ߂Ă����Ƃ͂����A�܂����N������N�G�X�g���s�r��������Ƃ͎v��Ȃ������B���\�h���W�J�ɂȂ肻���ł��ˁB<BR>�f�B�[�������͋؂������悤�ł����A�J�b�Ƃ��đ��l���s�r������̂͂�߂悤�ˁi�΁j�B
+読んだバイ♪<BR>うーむ。ある程度読めていたとはいえ、まさかクリムやクエストがＴＳさせられるとは思わなかった。結構辛い展開になりそうですね。<BR>ディーラちゃんは筋がいいようですが、カッとして他人をＴＳさせるのはやめようね（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/12/25 10:11:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あい</strong>  <i>2001/12/25 10:11:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009242681vopdqhn&id2=1007739186romjdy&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009242681vopdqhn_id2_1007739186romjdy_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v�X�̃t�@���^�W�[���̂��ǂ߂܂�����<BR>�u���㕨�s�r���������ǁA�t�@���^�W�[���̂s�r���ˁ�v<BR><BR>���������ƈ������܂�ēǂ�ł��܂��܂����I<BR><BR>�앗���ǂ��̂Ƃ������t�@���^�W�[�ł���ΖG�����ł��I�{�N��
+久々のファンタジーものが読めました♪<BR>「現代物ＴＳもいいけど、ファンタジーものＴＳもね♪」<BR><BR>ぐいぐいと引き込まれて読んでしまいました！<BR><BR>作風がどうのというよりファンタジーであれば萌えるんです！ボク♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2001/12/25 13:08:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2001/12/25 13:08:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009253335jdprs&id2=1007739186romjdy&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009253335jdprs_id2_1007739186romjdy_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�����z�̂����W�S�Q�U�l�A�����l�A���z���肪�Ƃ�������܂��B<BR><BR>&gt;���\�h���W�J�ɂȂ肻���ł��ˁB<BR>�����ł��ˁB�ł��A�Ō�́A�[���ł���I�����ɂ������ł��B�i�������ł��j<BR><BR>&gt;���������ƈ������܂�ēǂ�ł��܂��܂����I<BR>�Z�p�s���̕����ɁA���������Ē�����ƁA�����������ł��B<BR><BR>&gt;�t�@���^�W�[�ł���ΖG�����ł��I�{�N��<BR>�G���Ă��������܂������A���̓_�́A������ƕs���ł������ǂ������ł��B��l�ł����Ă����΁A���S�ł��B<BR><BR>��O�͂͂Q�����ɓ��e���悤�ƍl���Ă��܂��B<BR>���R�́A�P�������M�Ɏ��g�݂��炢�̂ƁA���ꂩ��̃f�B�[���̐S�̐�����[���l����������ł��B<BR>�i���ƁA���������Z�p���グ�����B�j<BR><BR>�C�ɂȂ鏊�Œx���Ȃ�̂́A���̍�i���C�ɓ����Ă���F�l�ɐS�ꂵ���ł��B
+神速感想のｍｋ８４２６様、あい様、感想ありがとう御座います。<BR><BR>&gt;結構辛い展開になりそうですね。<BR>そうですね。でも、最後は、納得できる終わり方にするつもりです。（私だけでも）<BR><BR>&gt;ぐいぐいと引き込まれて読んでしまいました！<BR>技術不足の文書に、そう言って頂けると、私も嬉しいです。<BR><BR>&gt;ファンタジーであれば萌えるんです！ボク♪<BR>萌えてくださいましたが、その点は、ちょっと不安でしたが良かったです。一人でもいてくれれば、安心です。<BR><BR>第三章は２月末に投稿しようと考えています。<BR>理由は、１月が執筆に取り組みずらいのと、これからのディーラの心の成長を深く考えたいからです。<BR>（あと、もう少し技術を上げたい。）<BR><BR>気になる所で遅くなるのは、この作品を気に入っている皆様に心苦しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/09 17:33:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/09 17:33:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015662814avqjo&id2=1007739186romjdy&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015662814avqjo_id2_1007739186romjdy_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ�ł܂�����iROM����A�����j�܂�����͒u���Ƃ��āi�����̂��c�j���̂��b����������Ё�<BR><BR>�@���ɖ��@�̐������A�ڂ����`�ʂŎ��͍D���ł����B<BR><BR>�@��b�̂ق��ł������񂪎��I�ɂ͑f�G�ȃL�����������񂾂��c<BR>�܂�����������܂���ˁc<BR>����ƁA��b�Ɠ�b�ŁA�����`���ѐF���Ⴄ�悤�ȋC�����Ȃ��ł��Ȃ��ł��ˁB����A�������낳�͕ς��Ȃ��̂ł����ǁB<BR>��͂��b�́c���`��A�Ȃɂ��d���ł��ˁB<BR>���ꂩ��A�f�B�[�����ǂ����z���Ă����̂��A���ꂪ�C�ɂȂ�Ƃ���ł��B<BR><BR>�@�Z�p�I�ȓ_�ɂ��āc�ǂ����x�e�����̕��́A�قƂ�ǒn�̕��ň�}�X�󂯂Ă܂��ˁA������Ƃ������₷���Ȃ�悤�ł��B�Z������a���ł����^�C�v�̕���������A�ʂɋ󂯂�K�v�͂Ȃ��̂ł����A���肫�肳��̕��́A���̂������`�ʂ��т�����Ə����Ă���̂ŁA�����n�߂̕��͈�}�X�󂯂�ƁA��茩�₷���Ȃ�̂ł͂Ȃ��ł��傤���H<BR><BR>�@����ƁA��b���̒��́w�Ō�́x��_���āA�ŋ߂̏����ł́A����Ȃ��悤�Ȃ�ł��B���������Ȃ火�̂悤�Ȋ����ł��B<BR><BR>�u�����Ȃ�ł��B����Ȋ����v<BR><BR>�@���͊w�Z�ł́A��_������ƏK�����̂ł����A�ŋ߂́A���Ȃ��Ă��悢�A���邢�͂��Ȃ��ق����悢�Ƃ���Ă���݂����ł��ˁB<BR>�@�܂��A����͂���܂�S��Ȃ��Ă������ł����ǁA����ς�A������Ƃ������₷���Ȃ�̂��Ȃ��Ǝv���܂��B�������Ŕ�r���Ă��m���߂��������ˁB<BR>�@�ȏ�A�d�g�̋Y���ł����B�����҂��Ă܂��悧�B<BR>
+　読んでました♪（ROMかよ、おい）まあそれは置いといて（いいのか…）このお話しおもしろひ♪<BR><BR>　特に魔法の説明が、詳しい描写で私は好きでした。<BR><BR>　一話のほうでおじさんが私的には素敵なキャラだったんだが…<BR>まあしかたありませんね…<BR>それと、一話と二話で、すこ～し毛色が違うような気がしないでもないですね。いや、おもしろさは変わらないのですけど。<BR>やはり二話は…う～ん、なにやら重いですね。<BR>これから、ディーラがどう乗り越えていくのか、それが気になるところです。<BR><BR>　技術的な点について…どうやらベテランの方は、ほとんど地の文で一マス空けてますね、ちょっとだけ見やすくなるようです。短い文を紡いでいくタイプの文だったら、別に空ける必要はないのですが、きりきりさんの文は、ものすごい描写をびっしりと書いてあるので、書き始めの文は一マス空けると、より見やすくなるのではないでしょうか？<BR><BR>　それと、会話文の中の『最後の』句点って、最近の小説では、いらないようなんです。例をあげるなら↓のような感じです。<BR><BR>「そうなんです。こんな感じ」<BR><BR>　私は学校では、句点をつけろと習ったのですが、最近は、つけなくてもよい、あるいはつけないほうがよいとされているみたいですね。<BR>　まあ、これはあんまり拘らなくてもいいですけど、やっぱり、ちょっとだけ見やすくなるのかなぁと思います。ご自分で比較してお確かめくださいね。<BR>　以上、電波の戯言でした。続き待ってますよぉ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/03/09 21:11:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/03/09 21:11:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015675871kbqlqg&id2=1007739186romjdy&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015675871kbqlqg_id2_1007739186romjdy_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����b���̍Ō�̋�_<BR>���������ƁA��_�ƃJ�M�������i���j���d�Ȃ��Ă��܂���ł���ˁB�����烏�^�N�V����������������Ō�̋�_�͑ł��܂���B<BR>�c������������ł��܂����ǂˁB
+＞会話文の最後の句点<BR>横書きだと、句点とカギかっこ（閉じ）が重なってしまうんですよね。だからワタクシも横書きだったら最後の句点は打ちません。<BR>縦書きだったら打ちますけどね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/03/10 17:05:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/03/10 17:05:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015747544sfjdk&id2=1007739186romjdy&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015747544sfjdk_id2_1007739186romjdy_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C���l�A�����W�S�Q�U�l�A���z���肪�Ƃ�������܂����B<BR><BR>&gt;��b�̂ق��ł������񂪎��I�ɂ͑f�G�ȃL�����������񂾂��c<BR>�������\�A�D���ȃL�����ł����B<BR><BR>&gt;���ɖ��@�̐������A�ڂ����`�ʂŎ��͍D���ł����B<BR>���@�̐퓬�̕`�ʂ́A�ǂސl�ɂȂ�ׂ����ۂɑ̊��ł���悤�ɏ����܂����B<BR>�Ȃ��Ȃ��A��肭�́A�����܂��񂯂ǁB�i�΁j<BR>�����́A�ǂސl�ɓ��̒��ŉf�������Ă��܂������������炢���Ǝv���Ă��܂��B�i�Z�p�ƋC�������������Ȃ��Ɠ�����ȁB�j<BR>�����@�̐����́A�O�b�ő����A�ς�邩������܂���B<BR>���Ȃ�̍��C�̉��߂��A���M�����Ƃ����ԁA�ς���Ă��܂����̂ŁB<BR>�i�{���̍��C�̉��߂́A���ɂ́A�K���Ă��Ă��킩��Ȃ��Ƃ������܂����ǁB�ł��A�ł���͈͂ŏ����Ă݂܂��B�j<BR><BR>&gt;����ƁA��b�Ɠ�b�ŁA�����`���ѐF���Ⴄ�悤�ȋC<BR>��͂�A�����A�������܂����B<BR>�Ȃ�Ƃ��A��b�Ɠ�b���O�b�ŏ�肭�q������΂Ǝv���Ă��܂��B<BR>��b�́A���̐��E�̖��@�g���̋����̊���N�����ɒu���܂����B<BR>��b�́A�M�[�X�̋������N�������g���Ă���킵�܂����B<BR>�N�����ɂ́A�������Ȏ������܂������A�ŏ����猈�߂Ă������Ȃ̂őË��ł��܂���ł����B<BR><BR>&gt;���ꂩ��A�f�B�[�����ǂ����z���Ă����̂��A���ꂪ�C�ɂȂ�Ƃ�<BR>&gt;��ł��B<BR>�����A�������Y�݂Ƃ���ł��B�i���̂����Ŏ��M���x��Ă��܂��B�l���߂��Ȃ̂�������Ȃ��ł����c�j<BR><BR><BR>�m�C���l�Amk�W�S�Q�U�l�A�w�x�̋�_�Ɋւ��ẮA�Q�l�ɂȂ�܂����B<BR>�m���ɕ����ɂ��鏬�����悭������A��_���t���Ă܂���ł����B<BR>����̓��e�ł́A���w�E�̒ʂ�ɂ��܂��B<BR><BR>&gt;���̂������`�ʂ��т�����Ə����Ă���̂ŁA�����n�߂̕��͈�}��<BR>&gt;����ƁA��茩�₷���Ȃ�̂ł͂Ȃ��ł��傤���H<BR>�����ł��ˁB<BR>�c�����Ȃ��{�ł��ˁB�i�������ł���{��������Ȃ��ł��ˁB�j<BR>���񂩂�́A���w�E�̒ʂ�ɂ��܂��B<BR><BR>�Ō�ɁA���z���肪�Ƃ��������܂��B<BR>���̘b�́A�����Â��̂ŁA���z�͗��Ȃ��Ǝv���Ă��܂����B<BR>��ρA���ꂵ���ł��B���C���ł܂��B<BR><BR>���̘b�̎O�b�̌f�ڂ́A�x���Ȃ�Ǝv���܂����A�C���ɂ��҂��������B
+ノイン様、ｍｋ８４２６様、感想ありがとう御座いました。<BR><BR>&gt;一話のほうでおじさんが私的には素敵なキャラだったんだが…<BR>私も結構、好きなキャラでした。<BR><BR>&gt;特に魔法の説明が、詳しい描写で私は好きでした。<BR>魔法の戦闘の描写は、読む人になるべく実際に体感できるように書きました。<BR>なかなか、上手くは、いきませんけど。（笑）<BR>いつかは、読む人に頭の中で映像化してしまう文が書けたらいいと思っています。（技術と気持ちを高くしないと難しいかな。）<BR>合魔法の説明は、三話で多少、変わるかもしれません。<BR>私なりの合気の解釈が、執筆当時とたいぶ、変わってしまったので。<BR>（本当の合気の解釈は、私には、習っていてもわからないとおもいますけど。でも、できる範囲で書いてみます。）<BR><BR>&gt;それと、一話と二話で、すこ～し毛色が違うような気<BR>やはり、そう、おもわれますか。<BR>なんとが、一話と二話を三話で上手く繋げられればと思っています。<BR>一話は、この世界の魔法使いの強さの基準をクリムに置きました。<BR>二話は、ギースの強さをクリムを使ってあらわしました。<BR>クリムには、可愛そうな事をしましたが、最初から決めていた事なので妥協できませんでした。<BR><BR>&gt;これから、ディーラがどう乗り越えていくのか、それが気になるとこ<BR>&gt;ろです。<BR>ええ、そこが悩みところです。（そのせいで執筆が遅れています。考え過ぎなのかもしれないですが…）<BR><BR><BR>ノイン様、mk８４２６様、『』の句点に関しては、参考になりました。<BR>確かに部屋にある小説をよく見たら、句点が付いてませんでした。<BR>次回の投稿では、ご指摘の通りにします。<BR><BR>&gt;ものすごい描写をびっしりと書いてあるので、書き始めの文は一マ空<BR>&gt;けると、より見やすくなるのではないでしょうか？<BR>そうですね。<BR>縦書きなら基本ですね。（横書きでも基本かもしれないですね。）<BR>次回からは、ご指摘の通りにします。<BR><BR>最後に、感想ありがとうございます。<BR>この話は、もう古いので、感想は来ないと思っていました。<BR>大変、うれしいです。やる気もでます。<BR><BR>この話の三話の掲載は、遅くなると思いますが、気長にお待ち下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/08001906/no-magic3.html" target="_blank">��R�͂�ǂނɂ͂������N���b�N</a></strong>  <i>2002/04/24 01:26:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/08001906/no-magic3.html" target="_blank">第３章を読むにはここをクリック</a></strong>  <i>2002/04/24 01:26:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019579219diykbmg&id2=1007739186romjdy&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019579219diykbmg_id2_1007739186romjdy_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�����A���[���搶�����񂾂�Ƃ��񑩂̃L�����Ɂc(��)
+【推薦文】ああ、ルーン先生がだんだんとお約束のキャラに…(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/24 02:16:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/24 02:16:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019582209ldpia&id2=1007739186romjdy&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019582209ldpia_id2_1007739186romjdy_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V���A�X�����c<BR>�@<BR>�@�O���ƌ㔼�����Ȃ�l�q���Ⴂ�܂��ˁB�O���̓R�~�J���ł����A�㔼�͏d���c�������񂪎���ŋ��C�̖ڂ��h���Ă���Ƃ���͌��\�ɂ������Ǝv���܂��B���Ƃ��ẮA����������Ƒ����݂��������ď����Ă��������Ȃ��Ƃ͎v���܂����A���̐��i�Ƃ����֌W����̂ŁA����̓f���P�[�g�ł��ˁB<BR><BR>�@�Ō�̂ق��ł͕��Q�ɔR���āA���m�Ɏu�肵�Ă��܂��܂������c����͂����Ȃ蒷�҂̗\���ł��ˁB�k�R���z�ɂȂ��Ă��܂��܂������A�d�g�d���͎�����҂��Ă܂��B�ꃖ���Ŏ���삪�ǂ߂�Ƃ͂��ꂵ�������<BR><BR>�@������_�A�җ�Ɉق����������̂́c<BR>�@���̍�i�͋��`�̈Ӗ��ł́y���@�����z����Ȃ�����ӂƂ������Ƃł��B�i�΁j�L�`�̈Ӗ��ł͖��@�����Ȃ�ł����ǂˁB<BR>�@���ɂ�[�A�d�g����M����Ƃ�Ȃ��c���ɂ�[��B<BR>�@�Ƃ����킯�ŉ��Ȃ������ɂ��Ԕ��ɋA��܂��A����ł́`��
+シリアスだぁ…<BR>　<BR>　前半と後半がかなり様子が違いますね。前半はコミカルですが、後半は重い…おじさんが死んで狂気の目を宿しているところは結構痛かったと思います。私としては、もうちょっと憎しみを強調して書いてもいいかなあとは思いますが、元の性格とかも関係するので、これはデリケートですね。<BR><BR>　最後のほうでは復讐に燃えて、兵士に志願してしまいましたか…これはいきなり長編の予感ですね。徒然感想になってしまいましたが、電波妖精は次回も待ってます。一ヶ月で次回作が読めるとはうれしい限り♪<BR><BR>　ただ一点、猛烈に異を唱えたいのは…<BR>　この作品は狭義の意味での【魔法少女】じゃないだろふということです。（笑）広義の意味では魔法少女なんですけどね。<BR>　うにょー、電波が受信されとるなぁ…うにょーん。<BR>　というわけで壊れないうちにお花畑に帰ります、それでは～♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/24 06:55:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/24 06:55:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019598945rrqxg&id2=1007739186romjdy&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019598945rrqxg_id2_1007739186romjdy_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�������A�V���A�X�`�B<BR>���ɐ푈�u���B�������A�f�B�[���̂������񎀂񂶂Ⴄ���B<BR>���C�̖ڂ̂�����ł́A�u���������A�����₷�񂾁`�v�Ǝv���Ȃ���ǂ�ł����ǁA���ǃN�[���_�E�����邱�ƂȂ��o�������Ⴂ�܂����E�E�E�B<BR>�����A���ꂩ��ǂ��Ȃ����Ⴄ�̂ł��傤�B
+読んだバイ♪<BR>ううう、シリアス～。<BR>ついに戦争勃発。しかも、ディーラのおじさん死んじゃうし。<BR>狂気の目のくだりでは、「落ち着け、頭を冷やすんだ～」と思いながら読んでたけど、結局クールダウンすることなく出征しちゃいました・・・。<BR>ああ、これからどうなっちゃうのでしょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/04/24 10:24:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あい</strong>  <i>2002/04/24 10:24:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019611466hreyqdy&id2=1007739186romjdy&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019611466hreyqdy_id2_1007739186romjdy_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�w�Z�ł̂����A�y���������ł�(*^o^*)<BR><BR>�f�B�[�������̔ގ��ɂȂ肻���Ȑl�o��ł��ˁI<BR>����Ƃ��A���̐l�������������Ⴄ��ł��傤���E�E�E�H<BR><BR>�V���A�X���낤�ƂȂ񂾂낤�Ɓi���ł������̂��i�΁j�������j<BR>�t�@���^�W�[�͖G����܂��`�_(���܁ށ܁�)�^ ��[��
+学校でのやり取り、楽しかったです(*^o^*)<BR><BR>ディーラちゃんの彼氏になりそうな人登場ですね！<BR>それとも、この人も女性化しちゃうんでしょうか・・・？<BR><BR>シリアスだろうとなんだろうと（何でもいいのか（笑）＞あい）<BR>ファンタジーは萌えれます～＼(●⌒∇⌒●)／ わーい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/04/24 19:20:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/04/24 19:20:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019643633lwrafn&id2=1007739186romjdy&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019643633lwrafn_id2_1007739186romjdy_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�A���肪�Ƃ�������܂��B<BR><BR>&gt;�����A���[���搶�����񂾂�Ƃ��񑩂̃L�����Ɂc(��) <BR>�{���ɂ����ł��ˁB(�΁j<BR>���̕��A�����₷���L�����ł��A����܂��B<BR><BR>&gt;�m�C���l<BR>&gt;�O���ƌ㔼�����Ȃ�l�q���Ⴂ�܂��ˁB<BR>�悭�悭�l������A���܂ŏ��������������ł��ˁB<BR>�����A����͎��̌��Ȃ̂�������Ȃ��ł��B<BR>���ꂪ�ǂ��̂��́A�킩��܂��񂯂ǁi�΁j�B<BR>���̕��́A�����A���Â���肭�g�ݗ��ĂāA�����悤�ɐS�|���Ă��܂��̂Ŏ��R�Ƃ����Ȃ��Ⴄ�̂�������܂���B<BR>���̂����A��Ԃł���N���]���́A�܂������ӎ����Ă��Ȃ��ł��i�ӎ�������A�^�ɂ͂܂��ď�肭�����Ȃ��Ȃ�܂����̂Łj�B<BR><BR>&gt;����������Ƒ����݂��������ď����Ă��������Ȃ��Ƃ�<BR>���`��A�����Ƌ������������A�����ł����B<BR>���������A���ɂȂ�Ȃ��Ƃ����Ȃ��悤�ł��ˁB<BR>������������A�f�B�[�����N������炤��ʂ������ƁA�����Ƃ��΁A�ǂ������̂�������Ȃ��ł��ˁB����������A�f�B�[���̍��ދC�����������Ƌ������ď������������Ȃ��ł��B<BR><BR>&gt;���̐��i�Ƃ����֌W����̂ŁA����̓f���P�[�g�ł��ˁB<BR>�����A�o�����X�����̂́A����ł��B<BR><BR>&gt;�ꃖ���Ŏ���삪�ǂ߂�Ƃ͂��ꂵ�������<BR>�Ȃ�ׂ��A�����Ȃ�悤�撣��܂��B<BR><BR>&gt;���̍�i�͋��`�̈Ӗ��ł́y���@�����z����Ȃ�����ӂƂ������Ƃł�<BR>�����A�����������Ȃ��Ƃ́A�v���Ă��܂����B<BR>�܂��A�R�ł͂Ȃ��Ǝv���܂����A���Ԉ�ʂ̃C���[�W�Ƃ͊|������Ă��܂��˂�ˁB<BR>���̓��e�ł́A�u���@�g���v�ɂ��悤���ȁB<BR><BR>&gt;�_�����z�̂����W�S�Q�U�l<BR>&gt;�f�B�[���̂������񎀂񂶂Ⴄ���B<BR>�����A�����������܂����B<BR><BR>&gt;�u���������A�����₷�񂾁`�v�Ǝv���Ȃ���ǂ�ł�<BR>���A�f�B�[���̊���̉΂������ꂽ��A���Εs�ǂŏI�킿�Ⴂ�܂��̂ŁA����͏o���܂���ł����B<BR>�܂��A�����́A�����₳�Ȃ��Ƃ����Ȃ��ł����ǁB<BR>�������A�̂߂荞��œǂ�ł����������悤�ō�҂Ƃ��Ċ������ł��B<BR><BR>�����l<BR>&gt;�w�Z�ł̂����A�y���������ł�(*^o^*)<BR>�ׂ�������]�����Ă���܂��āA���肪�Ƃ�������܂��B<BR>���\�A���Ԋ|���ď����������ł��L��܂��̂ŁB<BR><BR>&gt;�f�B�[�������̔ގ��ɂȂ肻���Ȑl�o��ł��ˁI<BR>���̊��z�A��҂Ƃ��Ėӓ_�ł����B<BR>�����Ƃ��ď������L�����ł��̂ŁA�܂���������Ȏ��́A�l���Ă܂���ł����B<BR>����̗���ɂ���ẮA�̂ăL�����ɂ��悤�Ƃ��v���Ă��܂������̂Łi���j<BR>�A�C�f�A�A�ǂ����ł��B<BR><BR>&gt;����Ƃ��A���̐l�������������Ⴄ��ł��傤���E�E�E�H<BR>���������̗��ꂵ�����ł��B<BR><BR>&gt;�V���A�X���낤�ƂȂ񂾂낤�Ɓi���ł������̂��i�΁j�������j<BR>�����Ǝv���܂���i�΁j�B<BR>�s�ސT�ł��傤���B<BR><BR>�Ō�ɓǂ�ł����������F�l�A���肪�Ƃ�������܂����B
+感想、ありがとう御座います。<BR><BR>&gt;ああ、ルーン先生がだんだんとお約束のキャラに…(笑) <BR>本当にそうですね。(笑）<BR>その分、書きやすいキャラでも、あります。<BR><BR>&gt;ノイン様<BR>&gt;前半と後半がかなり様子が違いますね。<BR>よくよく考えたら、今まで書いた物もそうですね。<BR>もう、それは私の個性なのかもしれないです。<BR>それが良いのかは、わかりませんけど（笑）。<BR>私の文は、虚実、明暗を上手く組み立てて、書くように心掛けていますので自然とそうなちゃうのかもしれません。<BR>そのかわり、定番である起承転結は、まったく意識していないです（意識したら、型にはまって上手く書けなくなりますもので）。<BR><BR>&gt;もうちょっと憎しみを強調して書いてもいいかなあとは<BR>う～ん、もっと強調した方が、いいですか。<BR>もう少し、非常にならないといけないようですね。<BR>もしかしたら、ディーラがクリムを慕う場面をもっと、書いとけば、良かったのかもしれないですね。そうしたら、ディーラの恨む気持ちをもっと強調して書けたかもしないです。<BR><BR>&gt;元の性格とかも関係するので、これはデリケートですね。<BR>ええ、バランスを取るのは、難しいです。<BR><BR>&gt;一ヶ月で次回作が読めるとはうれしい限り♪<BR>なるべく、そうなるよう頑張ります。<BR><BR>&gt;この作品は狭義の意味での【魔法少女】じゃないだろふということです<BR>うっ、私もそうかなあとは、思っていました。<BR>まあ、嘘ではないと思いますが、世間一般のイメージとは掛け離れていますねよね。<BR>次の投稿では、「魔法使い」にしようかな。<BR><BR>&gt;神速感想のｍｋ８４２６様<BR>&gt;ディーラのおじさん死んじゃうし。<BR>ええ、悪い事をしました。<BR><BR>&gt;「落ち着け、頭を冷やすんだ～」と思いながら読んでた<BR>今、ディーラの感情の火が消されたら、消火不良で終わちゃいますので、それは出来ませんでした。<BR>まあ、いつかは、頭を冷やさないといけないですけど。<BR>しかし、のめり込んで読んでくださったようで作者として嬉しいです。<BR><BR>あい様<BR>&gt;学校でのやり取り、楽しかったです(*^o^*)<BR>細かい所を評価してくれまして、ありがとう御座います。<BR>結構、時間掛けて書いた部分でも有りますので。<BR><BR>&gt;ディーラちゃんの彼氏になりそうな人登場ですね！<BR>この感想、作者として盲点でした。<BR>悪役として書いたキャラですので、まったくそんな事は、考えてませんでした。<BR>物語の流れによっては、捨てキャラにしようとも思っていましたもので（汗）<BR>アイデア、どうもです。<BR><BR>&gt;それとも、この人も女性化しちゃうんでしょうか・・・？<BR>それも物語の流れしたいです。<BR><BR>&gt;シリアスだろうとなんだろうと（何でもいいのか（笑）＞あい）<BR>いいと思いますよ（笑）。<BR>不謹慎でしょうか。<BR><BR>最後に読んでくださった皆様、ありがとう御座いました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/04/25 01:40:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/04/25 01:40:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019666429kdvqp&id2=1007739186romjdy&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019666429kdvqp_id2_1007739186romjdy_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[�R�b]<BR>�E�f�B�[���̊���ɂ���<BR>�@�Ō�ŏo�����Ă��܂����A����ɂ��Ă͑����T�d�Ɉ���Ȃ��ƁA����S�̂�����Ă��܂��܂��B<BR>�@����Ƃ��ẮA���h�X�c�Ȃ̂��ȁH�i��l�����E������I����Ă��܂��c�j<BR><BR>�����̓��e�ł́A�u���@�g���v�ɂ��悤���ȁB<BR>�@���̂܂܂ł��\���A���@�g���̂悤�ȁc
+[３話]<BR>・ディーラの感情について<BR>　最後で出征していますが、感情については相当慎重に扱わないと、物語全体が崩れてしまいます。<BR>　流れとしては、命辛々…なのかな？（主人公を殺したら終わってしまう…）<BR><BR>＞次の投稿では、「魔法使い」にしようかな。<BR>　今のままでも十分、魔法使いのような…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/04/25 21:51:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/04/25 21:51:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019739101esnch&id2=1007739186romjdy&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019739101esnch_id2_1007739186romjdy_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���l�A���z���肪�Ƃ�������܂��B<BR><BR>&gt;�f�B�[���̊���ɂ���<BR>�����A�̂ɖ����Ƃ��܂��B<BR>�΂̎�舵�����ԈႦ�܂�����A���X�̐��ł́A���W�����Ȃ��Ȃ�ꍇ������܂�����ˁB<BR><BR>&gt;����Ƃ��ẮA���h�X�c�Ȃ̂��ȁH<BR>�ǂ��Ȃ�̂ł��傤���ˁi�閧�ł��j�B<BR>����Ȃ�̃n�b�s�[�G���h�ŏI��点�����ł����ǂˁB<BR><BR>&gt;�i��l�����E������I����Ă��܂��c�j<BR>�@�����Ƃ�����Ȃ��Ǝv���܂��B<BR>�@�Ⴆ�b�����܂��ƁA�ǂ�ȍ���ȏꏊ���T���Ί���̒ʂ蓹���������邩������܂���B<BR><BR>&gt;���̂܂܂ł��\���A���@�g���̂悤�ȁc <BR>�@���̕���́A�L�[���[�h���y���@�����z�ł́A�ςł�����A���x�̓��e�ł́A�y���@�g���z�ɂ��悤���Ȃƌ������ł��āB<BR>�@�O�̐��������肾�����悤�ł��݂܂���B<BR><BR>����ł́A���炵�܂��B
+すなさん様、感想ありがとう御座います。<BR><BR>&gt;ディーラの感情について<BR>忠告、肝に命じときます。<BR>火の取り扱いを間違えましたら、少々の水では、収集がつかなくなる場合もありますからね。<BR><BR>&gt;流れとしては、命辛々…なのかな？<BR>どうなるのでしょうかね（秘密です）。<BR>それなりのハッピーエンドで終わらせたいですけどね。<BR><BR>&gt;（主人公を殺したら終わってしまう…）<BR>　そうとも限らないと思います。<BR>　例え話をしますと、どんな困難な場所も探せば幾つかの通り道を見つけられるかもしれません。<BR><BR>&gt;今のままでも十分、魔法使いのような… <BR>　この物語は、キーワードが【魔法少女】では、変ですから、今度の投稿では、【魔法使い】にしようかなと言う事でして。<BR>　前の説明が下手だったようですみません。<BR><BR>それでは、失礼します。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1007739186romjdy">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

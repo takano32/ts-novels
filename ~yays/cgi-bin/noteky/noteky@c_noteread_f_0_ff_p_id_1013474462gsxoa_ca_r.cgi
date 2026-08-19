@@ -1,115 +1,115 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&ff=p&id=1013474462gsxoa&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_ff_p_id_1013474462gsxoa_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">��ǔL���Q�L�iNo.2�j</font><br>
+<font size="+2" color="#0000FF">野良猫放浪記（No.2）</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=1005154088xqfku&ff=on" target="_blank">�ȑO�̌f���͂�����</a></strong>  <i>2002/02/12 09:41:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ezpe/cgi-bin/noteky/noteky@c_noteread_f_11_id_1005154088xqfku_ff_on.cgi" target="_blank">以前の掲示板はこちら</a></strong>  <i>2002/02/12 09:41:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013474462gsxoa&id2=1013474462gsxoa&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013474462gsxoa_id2_1013474462gsxoa_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u��ǔL���Q�L�v�ւ̊��z�͂�����ւ��肢�������܂��B<BR><BR>�Ɩ��A���F���z�t�H�[������̃����N�ύX�����肢�������܂��B<BR>�i���b�Ă��ǎҁj
+「野良猫放浪記」への感想はこちらへお願いいたします。<BR><BR>業務連絡：感想フォームからのリンク変更をお願いいたします。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/02/16 15:53:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/02/16 15:53:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013842424hgutkf&id2=1013474462gsxoa&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013842424hgutkf_id2_1013474462gsxoa_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ǂ�ŉ������āA�܂��A�䊴�z���肪�Ƃ��������܂��B���炪�x��Đ\���󂠂�܂���B<BR>���m�C������<BR>�@����̐����́\�\������Ƃ��߂����ȂƂ��v���܂������A���Œ����Ċ������ł��B�ł��A������Ƃ��߂��ł����ˁi��΁j�B<BR>�@����Ńe�B�����\�\�قƂ�ǎ�l���݂����ȏ����������Ă܂��B�q�|�a���X�A���\�C�ɓ����Ă�L�����Ȃ̂ŁA���������������ɂȂ����Ⴂ�܂����B<BR>�@���͂ǂ�ȁ\�\�ꉞ�閧���Ď��Łi�΁j�B<BR>���_�����z�̂����W�S�Q�U����<BR>�@�O�`�\�\�l���ĂȂ��킯����Ȃ��ł����A�����Ƃ����ۏ؂͂ł��Ȃ��ł��B���݂܂���B�ł��A�e�B���ƃA���i�Ƃq�|�a�j�́A���Ȃ��Ƃ��܂��o�Ă��܂��B<BR>�@�Ԕс\�\�����͏����Ȃ���Ȃ�Ȃ��̂Łi�΁j�B<BR>�@���ꂼ�ꂪ�\�\���肪�Ƃ��������܂��B����͖{���ɐS���`�ʂɔY�܂���܂����̂ŁA���������Ē�����Ɗ������ł��B<BR><BR>����ł͉��߂Č䊴�z���肪�Ƃ��������܂��B���낱��Ɛ��E�ς̕ς��b�ł����A�悯��΂��ꂩ�����낵�����肢�v���܂��B
+早速読んで下さって、また、御感想ありがとうございます。お礼が遅れて申し訳ありません。<BR>＞ノインさま<BR>　今回の水月は――ちょっとやり過ぎかなとも思いましたが、喜んで頂けて嬉しいです。でも、ちょっとやり過ぎでしたね（苦笑）。<BR>　一方でティンが――ほとんど主人公みたいな書き方をしてます。Ｒ－Ｂ共々、結構気に入ってるキャラなので、こういう書き方になっちゃいました。<BR>　次はどんな――一応秘密って事で（笑）。<BR>＞神速感想のｍｋ８４２６さま<BR>　外伝――考えてないわけじゃないですが、書くという保証はできないです。すみません。でも、ティンとアル（とＲ－Ｂ）は、少なくともまた出てきます。<BR>　赤飯――いつかは書かなきゃならないので（笑）。<BR>　それぞれが――ありがとうございます。今回は本当に心理描写に悩まされましたので、そう言って頂けると嬉しいです。<BR><BR>それでは改めて御感想ありがとうございます。ころころと世界観の変わる話ですが、よければこれからもよろしくお願い致します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������]</strong>  <i>2002/02/17 02:10:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>匿名希望</strong>  <i>2002/02/17 02:10:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013879422alxcw&id2=1013474462gsxoa&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013879422alxcw_id2_1013474462gsxoa_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ȑ��E��n��������Ă��Ƃ́A�����̕��ɍ�i�ƃN���X�I�[�o�[����W�J�Ƃ������҂��Ă������ł����H<BR>�ŁA�ʂ̐��E�֍s�����ɋL�����삵���肵��(^^;<BR><BR>�Ƃ���ŁA��������������o��������܂��񂪁A<BR>�u�q�|�a�v���Ė��O�A���l�^�́uRental Body�v�H<BR>
+いろんな世界を渡り歩くってことは、既存の文庫作品とクロスオーバーする展開とかを期待してもいいですか？<BR>で、別の世界へ行く時に記憶操作したりして(^^;<BR><BR>ところで、もしかしたら既出かもしれませんが、<BR>「Ｒ－Ｂ」って名前、元ネタは「Rental Body」？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h��</strong>  <i>2002/02/18 13:47:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロ</strong>  <i>2002/02/18 13:47:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014007676uflacb&id2=1013474462gsxoa&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014007676uflacb_id2_1013474462gsxoa_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ݂܂����B<BR>�ŋ߁A���z�����̂��܂��܂����ɂȂ��Ă��Ă���̂ŁA���܂��͌����܂��񂪁A�ƂĂ��ǂ������ł��B<BR>�@�܂��T�b���Ƃ����̂ɁA�ŏI�b���̊������󂯂܂����B(�O�O�G<BR>�M����ׂ����J�ł͂Ȃ��A�����z���Ȏ��g�̐S���Ă�ł��ˁB�i�l�I��j<BR><BR>&gt;�����̕��ɍ�i�ƃN���X�I�[�o�[<BR>�@�����ł��ˁA����B<BR>�l�I�ɂ͐��E���������Ƃ��A�ꍇ�ɂ���Ă͖^�d�����X�y�[�X�I�y���I�n���X�^�[���c�܂��A�����Ă݂������Ȃ̂œ��ɋC�ɂ��Ȃ��ł��������B
+　読みました。<BR>最近、感想書くのがますます苦手になってきているので、うまくは言えませんが、とても良かったです。<BR>　まだ５話だというのに、最終話並の感動を受けました。(＾＾；<BR>信じるべきは絆ではなく、相手を想う己自身の心ってやつですね。（個人的会見）<BR><BR>&gt;既存の文庫作品とクロスオーバー<BR>　いいですね、それ。<BR>個人的には世界征服私隊とか、場合によっては某妖精やらスペースオペラ的ハムスターやら…まあ、言ってみただけなので特に気にしないでください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/02/18 14:51:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/02/18 14:51:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014011507qkqyr&id2=1013474462gsxoa&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014011507qkqyr_id2_1013474462gsxoa_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ŉ���������Ɍ䊴�z��������A���肪�Ƃ��������܂��B<BR>��������]����<BR>�@�N���X�I�[�o�[�\�\���͕��s���E�I�Ȑݒ�́A������l���Ă̂��̂ł��B<BR>�@�����̉ߋ��̘b�̐��E�ɐ������s�������A�������l���Ă܂��B�\��͖���ł����ǂˁB<BR>�@�L������\�\���̏ꍇ�A�悭�����ʂ̐��E�Ƃ������ɂ���΁A�L������͕K�v�Ȃ��̂ł��B<BR>�@�q�|�a�\�\����́u�q�����������@�a�������v�Ƃ����Ӗ��ł��B�E�T�M���Ƃ������Ȃ̂ł��B<BR>���f���h������<BR>�@���܂��́\�\���Ƃ��ꌾ�ł��A�����ɂ͏\���Ɋ��������z�ł��B<BR>�@�ŏI�b���\�\�Ƃ肠�����u�A�C���z�����̏́v�ꎞ�̊��A�ł�����ˁB<BR>�@�M����ׂ��́\�\�m���Ƀe�B�������͍s������́A�S�����̂Ȃ���Ƃ������܂��ˁB<BR>�@����͂�A���̂悤�Ɏ����̘b�ōl���ĉ�����A���肪�Ƃ��������܂��B<BR>�@�N���X�I�[�o�[�\�\�����Ɍ����ƁA���̐ݒ���l�������A���̊F�l�̍�i�ɂ��ז��ł����炢���ȁA�Ǝv���Ă����܂����B<BR><BR>�Ƃ����킯�ł��̂ŁA������i���E�ɐ��������ז����Ă������A<BR>�������͐������o���Ă������Ƃ������������܂����炲��񉺂����B<BR>�������A�����ȊO�̃L�����ł����v�ł��B<BR>����ł́A���߂Č䊴�z���肪�Ƃ��������܂��B<BR>�܂��܂����n�ł͂���܂����A�悯��΂��ꂩ�����낵�����肢�v���܂��B
+読んで下さった上に御感想も下さり、ありがとうございます。<BR>＞匿名希望さま<BR>　クロスオーバー――実は平行世界的な設定は、それを考えてのものです。<BR>　自分の過去の話の世界に水月が行く事も、いくつか考えてます。予定は未定ですけどね。<BR>　記憶操作――その場合、よく似た別の世界という事にすれば、記憶操作は必要ないのです。<BR>　Ｒ－Ｂ――これは「Ｒａｂｂｉｔ　Ｂａｌｌ」という意味です。ウサギ球という事なのです。<BR>＞デンドロさま<BR>　うまくは――たとえ一言でも、自分には十分に嬉しい感想です。<BR>　最終話並――とりあえず「アインホルンの章」一時の完、ですからね。<BR>　信じるべきは――確かにティンたちは行きずりの、心だけのつながりとも言えますね。<BR>　いやはや、そのように自分の話で考えて下さり、ありがとうございます。<BR>　クロスオーバー――正直に言うと、この設定を考えた時、他の皆様の作品にお邪魔できたらいいな、と思ってもいました。<BR><BR>というわけですので、もし作品世界に水月がお邪魔してもいい、<BR>もしくは水月を出してもいいという方がおられましたらご一報下さい。<BR>もちろん、水月以外のキャラでも大丈夫です。<BR>それでは、改めて御感想ありがとうございます。<BR>まだまだ未熟ではありますが、よければこれからもよろしくお願い致します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/02/24 11:13:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/02/24 11:13:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014516839uflntpa&id2=1013474462gsxoa&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014516839uflntpa_id2_1013474462gsxoa_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ܘb�@�ǂ݂܂����B<BR>�@�׋S�͏o�Ă��܂���ł������A���s���E���܂��ɂ������S�������Ȃ킯�ł�����A�Ȃ��Ȃ��݂����Ȃ��ł��傤�ˁB<BR>�@����͂����ƃe�B���ƃA�������]�����ă��X�g���}�����̂́A���񑩂Ƃ͂����A�Ȃ�����������ƈӊO�ł����B�܂����n���Ƒ�P�R���j�[����̒ǋ��𓦂��ׂƂ������R���o�Ă���Ƃ́c�c�B�m���ɒǂ���̖ڂ�����܂��ɂ́A���]�������ق����ǂ��ł��傤�ˁB���������݂��Ɋ�]���Ă̂��Ƃł͂Ȃ��A���ꂵ�������c�铹���Ȃ��Ƃ������ƂŐ��]���������킯�ł���ˁB�Ȃ񂩂����A���Ȃ��ł��ˁB��͂肱���Ȃ�ƊO�`����]�������ł����A�{�҂̍�����C�ɂȂ�̂ŁA�ǎ҂Ƃ��Ă͔Y�ނƂ���ł��B<BR>�@�Ƃ����킯�ŁA�{�҂��i�s���Ă������Ƃ��A�������ēx���̐��E��K�₵�ĂQ�l��K�˂�W�J����]���܂��B�����ł��ˁA�Q�N����R�N�ギ�炢��ɖK�₷��̂͂ǂ��ł��傤�B�i�����܂ł�����Ȉӌ��ł����j<BR>�@����ɂ��Ă��A�A�C���z�����͂ǂ������D�������̂��낤�B�䂾�B
+第五話　読みました。<BR>　邪鬼は出てきませんでしたが、平行世界をまたにかけた鬼ごっこなわけですから、なかなかみつけられないでしょうね。<BR>　それはそうとティンとアルが性転換してラストを迎えたのは、お約束とはいえ、なぜだかちょっと意外でした。まさか地球と第１コロニーからの追求を逃れる為という理由が出てくるとは……。確かに追っ手の目をくらますには、性転換したほうが良いでしょうね。しかしお互いに希望してのことではなく、それしか生き残る道がないということで性転換をしたわけですよね。なんかこう、せつないですね。やはりこうなると外伝を希望したいですが、本編の今後も気になるので、読者としては悩むところです。<BR>　というわけで、本編が進行していったとき、水月が再度この世界を訪問して２人を訪ねる展開を希望します。そうですね、２年から３年後ぐらい後に訪問するのはどうでしょう。（あくまでも勝手な意見ですが）<BR>　それにしても、アイルホルンはどういう船だったのだろう。謎だ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2002/02/24 14:41:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2002/02/24 14:41:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014529285xmgaab&id2=1013474462gsxoa&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014529285xmgaab_id2_1013474462gsxoa_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������A�e�B���N���\���䂩��c�c<BR>�����O�҂݂Ń����s�[�X�̃e�B���N��z�����邾���ŖG���B�b�ɂ͏o�Ă��Ȃ��Ă��A�A���Ƌt�]�J�b�v���Ŗ��i�����ǂ�����Ă����Ƒz�����ĖG���܂��B<BR>���Ă���A�e�B���N�G���΂���ł���܂��i�̊��z�ɂȂ��ĂȂ���(��)�B
+あああ、ティン君が表舞台から……<BR>金髪三つ編みでワンピースのティン君を想像するだけで萌え。話には出てこなくても、アルと逆転カップルで末永く仲良くやっていくと想像して萌えます。<BR>ってこれ、ティン君萌えばかりであんまり作品の感想になってないや(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/02/25 13:18:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/02/25 13:18:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014610710rkvyly&id2=1013474462gsxoa&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014610710rkvyly_id2_1013474462gsxoa_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Z���Ȃ��b�ɂ��ւ�炸�A�ǂ�ŉ���������Ɍ䊴�z�܂ŉ�����A���肪�Ƃ��������܂��B<BR>���W���[�W���b�h����<BR>�@�׋S�\�\���܂�o�Ă��Ȃ��̂��ς�������Ȃ��̂Łc�c���X�o����x�ɂ͏��������Ǝv���܂��B<BR>�@�ӊO�\�\�����A�}�W�J�߂�����������܂���ˁi���j�B<BR>�@�O�`�\�\�́A�������͂킩��܂��񂪁A���̎O�l�i�q�|�a�܂ށj�́A�܂��K���o�Ă��܂��B����Ȃ��ƁA�A�C���z�����̏͂̈Ӗ�������܂��񂩂�i��΁j�B<BR>�@�A�C���z�����\�\����́A���̃A�C���z�����̏͂ŏ��������Ǝv���Ă��܂��B���������ƌ����_�ł́A�������ΐ��ɗ��邩�n���ɍs�������܂��Ă܂��񂪁i��΁j�B<BR>���ĒÂ���<BR>�@�e�B���\�\���A�A�C���z�������܂��o�Ă��܂��B�O�l���ǂ��������������Ă��邩�A���̎��ɏ�����Ǝv���܂��B<BR>�@�����O�҂݁\�\����l�ӂ����C���[�W���܂����i���j�B<BR><BR>����ł͉��߂āA�䊴�z���肪�Ƃ��������܂��B<BR>�܂��܂����i������Ă��܂��񂪁A�悯��΂��ꂩ�����낵�����肢�v���܂��B
+短くない話にも関わらず、読んで下さった上に御感想まで下さり、ありがとうございます。<BR>＞ジャージレッドさま<BR>　邪鬼――あまり出てこないのも変かもしれないので……時々出る程度には書こうかと思います。<BR>　意外――少し、急展開過ぎたかもしれませんね（汗）。<BR>　外伝――は、書くかはわかりませんが、この三人（Ｒ－Ｂ含む）は、また必ず出てきます。じゃないと、アインホルンの章の意味がありませんから（苦笑）。<BR>　アインホルン――これは、次のアインホルンの章で書こうかと思っています。正直言うと現時点では、水月が火星に来るか地球に行くか決まってませんが（苦笑）。<BR>＞米津さま<BR>　ティン――も、アインホルンもまた出てきます。三人がどういう生活をしているか、その時に書けると思います。<BR>　金髪三つ編み――お嬢様ふうをイメージしました（爆）。<BR><BR>それでは改めて、御感想ありがとうございます。<BR>まだまだ精進が足りていませんが、よければこれからもよろしくお願い致します。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1013474462gsxoa">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

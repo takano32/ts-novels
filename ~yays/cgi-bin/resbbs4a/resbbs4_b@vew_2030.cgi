@@ -1,118 +1,118 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�킽���́E�E�E>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:わたしは・・・>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2027>
 <input type=hidden name=ress value=2030>
-<input type=submit value=�킽���́E�E�E�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=わたしは・・・へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2030>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2003�N10��30��(��) 23��26��</font>
-<a href="resbbs4_b.cgi?vew=2030">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>GUNSLINGER�@GIRL</b>�z</font>
+通りすがり
+ さん</font>
+ <font size=2>2003年10月30日(木) 23時26分</font>
+<a href="resbbs4_b@vew_2030.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>GUNSLINGER　GIRL</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�ł�pkn���񂪖ʔ����Ǝv���؍��Ǝ���TS��i�������Ă��������B<br>���̏����������T�C�g������Ƃ��肪�����̂ł����B</font></ul>
+<ul><br><font size=3>ではpknさんが面白いと思う韓国独自のTS作品を教えてください。<br>その情報を扱ったサイトがあるとありがたいのですが。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2031>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
 pkn
- ����</font>
- <font size=2>2003�N10��31��(��) 1��41��</font>
-<a href="resbbs4_b.cgi?vew=2031">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�؍��ɂ� TS��i���قƂ�ǂȂ��ł�</font></ul>
+ さん</font>
+ <font size=2>2003年10月31日(金) 1時41分</font>
+<a href="resbbs4_b@vew_2031.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>韓国には TS作品がほとんどないです</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2032>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2003�N11��1��(�y) 1��11��</font>
-<a href="resbbs4_b.cgi?vew=2032">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�r�l�d��</b>�z</font>
-<ul><font size=3>�u�قƂ�ǂȂ��v�Ƃ������Ƃ͏����͂����ł���ˁB<br>�ǂ�ȍ��ׂȃl�^�ł����܂��܂���̂ŋ����Ă��������B</font></ul>
+通りすがり
+ さん</font>
+ <font size=2>2003年11月1日(土) 1時11分</font>
+<a href="resbbs4_b@vew_2032.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>瓶詰妖精</b>】</font>
+<ul><font size=3>「ほとんどない」ということは少しはあるんですよね。<br>どんな些細なネタでもかまいませんので教えてください。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2033>
-<font color=#6A5ACD>RE:�킽���́E�E�E</font></a>
+<font color=#6A5ACD>RE:わたしは・・・</font></a>
 <font color=#303030>
 pkn
- ����</font>
- <font size=2>2003�N11��1��(�y) 13��50��</font>
-<a href="resbbs4_b.cgi?vew=2033">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�؍��� site�� club���x�ł�.�����Ȃ���΂��������܂�.</font></ul>
+ さん</font>
+ <font size=2>2003年11月1日(土) 13時50分</font>
+<a href="resbbs4_b@vew_2033.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>韓国の siteは club制度です.加入なさればこそ見られます.</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2035>
-<font color=#6A5ACD>��ׂ��A������폜���ȁi�΂�</font></a>
+<font color=#6A5ACD>やべえ、今回も削除だな（笑い</font></a>
 <font color=#303030>
-���{�l
- ����</font>
- <font size=2>2003�N11��1��(�y) 15��0��</font>
-<a href="resbbs4_b.cgi?vew=2035">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�G�N�X�^�V�[�{�}�[�i���C�m��j</b>�z</font>
-<ul><font size=3>�O�ɂ������������N�n�̂s�r�e��q�˂�����΁A���ؖ|��f���m�`�u�d�q�ɍs����B���N�l�����{�̍�i��q�˂�̂����l�B<br>ttp://bbs.enjoykorea.naver.co.jp/jaction/list.php?id=enjoyjapan_6<br><br>�܂��A����̃g�����X�t�@�C�^�[�i���T���{�j�ƁA�P�O�N�ȏ�̂̎��ʉf��̃`�F���W���A���N��i�ł͊Y������˂��̂��H�B���ꂮ�炢�̂��ƂȂ�Q�����n���O���̏Z�l�ɕ����΋����Ă���邼�E�E�E�E<br>ttp://ex.2ch.net/korea/<br><br>���̍��̂s�r�e��i�i�C�O�ł͂s�fmanga)��m�肽����΁A<br>�\�ɏo�Ă��s�fmanga�}�j�A�̗�́A�u���W���l��A�t�����X�l�Ƀ��[�����o�����炢�����낤�B�Ƃ肠�����|��@���g����B<br>ttp://www.worldlingo.com/wl/Translate<br></font></ul>
+日本人
+ さん</font>
+ <font size=2>2003年11月1日(土) 15時0分</font>
+<a href="resbbs4_b@vew_2035.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>エクスタシーボマー（松任知基）</b>】</font>
+<ul><font size=3>前にも言ったが朝鮮系のＴＳＦを尋ねたければ、日韓翻訳掲示板ＮＡＶＥＲに行けよ。朝鮮人が日本の作品を尋ねるのも同様。<br>ttp://bbs.enjoykorea.naver.co.jp/jaction/list.php?id=enjoyjapan_6<br><br>まあ、漫画のトランスファイター（ユサンボ）と、１０年以上昔の実写映画のチェンジが、朝鮮作品では該当じゃねえのか？。それぐらいのことなら２ｃｈハングル板の住人に聞けば教えてくれるぞ・・・・<br>ttp://ex.2ch.net/korea/<br><br>他の国のＴＳＦ作品（海外ではＴＧmanga)を知りたければ、<br>噂に出てたＴＧmangaマニアの例の、ブラジル人や、フランス人にメールを出したらいいだろう。とりあえず翻訳機を使えよ。<br>ttp://www.worldlingo.com/wl/Translate<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2058>
-<font color=#6A5ACD>RE:��ׂ��A������폜���ȁi�΂�</font></a>
+<font color=#6A5ACD>RE:やべえ、今回も削除だな（笑い</font></a>
 <font color=#303030>
-�o���o�h�X�ݓ���g��
- ����</font>
- <font size=2>2003�N11��24��(��) 1��1��</font>
-<a href="resbbs4_b.cgi?vew=2058">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ǂ��ł��������ǁE�E�ŋ߂̕����ɏ���ď����Ɏ����̎�ŏW�܂��Ă��钇�ԂɁu���N�v�u�؍��v�Ƃ������ƂŘI���ȕ\���g���Ȃ�u���{�l�v�B����Ȍ������͕ʂ̏��ł���ĉ������B</font></ul>
+バルバドス在日大使館
+ さん</font>
+ <font size=2>2003年11月24日(月) 1時1分</font>
+<a href="resbbs4_b@vew_2058.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>どうでもいいけど・・最近の風潮に乗って純粋に自分の趣味で集まっている仲間に「朝鮮」「韓国」ということで露骨な表現使うなよ「日本人」。そんな言い方は別の所でやって下さい。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -122,7 +122,7 @@ pkn
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

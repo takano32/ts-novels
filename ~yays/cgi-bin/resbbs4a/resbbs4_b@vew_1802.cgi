@@ -1,97 +1,97 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�׍��̂s�r�e�f��>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:隣国のＴＳＦ映画>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1802>
 <input type=hidden name=ress value=1802>
-<input type=submit value=�׍��̂s�r�e�f��֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=隣国のＴＳＦ映画へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1802>
-<font color=#6A5ACD>�׍��̂s�r�e�f��</font></a>
+<font color=#6A5ACD>隣国のＴＳＦ映画</font></a>
 <font color=#303030>
-WEB����}�j�A
- ����</font>
- <font size=2>2003�N4��13��(��) 23��10��</font>
+WEB漫画マニア
+ さん</font>
+ <font size=2>2003年4月13日(日) 23時10分</font>
 <a href=http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1802">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>����ł��B��</b>�z</font>
+<a href="resbbs4_b@vew_1802.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>これです。↓</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3><a href=http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg target=_top>http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg</a><br><br><br>�����́A����Ȃ��̂������܂����B<br><br>�o�r�B����̏��f���ł̃f���W���[���X�ȓ��e�́A���݂܂���ł����B<br><br>���ꂩ��̓}�i�[�����悤�ɂ��܂��B</font></ul>
+<ul><br><font size=3><a href=http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg target=_top>http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg</a><br><br><br>今日は、こんなものを見つけました。<br><br>ＰＳ。昨日の情報掲示板でのデンジャーラスな投稿は、すみませんでした。<br><br>これからはマナーを守るようにします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1804>
-<font color=#6A5ACD>�׍��̂sGmanga�u�g�����X�t�@�C�^�[�v</font></a>
+<font color=#6A5ACD>隣国のＴGmanga「トランスファイター」</font></a>
 <font color=#303030>
-WEB����}�j�A
- ����</font>
- <font size=2>2003�N4��19��(�y) 0��57��</font>
+WEB漫画マニア
+ さん</font>
+ <font size=2>2003年4月19日(土) 0時57分</font>
 <a href=http://bbs.enjoyjapan.naver.com/action/read.php?id&eq;enjoyjapan_6&nid&eq;18809&work&eq;list&st&eq;&sw&eq;&cp&eq;1 target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1804">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�׍��̉f��u�`�F���W�v�ƁA����́u�g�����X�t�@�C�^�[�v</b>�z</font>
-<ul><font size=3><a href=http://bbs.enjoyjapan.naver.com/action/read.php target=_top>http://bbs.enjoyjapan.naver.com/action/read.php</a>?id=enjoyjapan_6&nid=18809&work=list&st=&sw=&cp=1<br><br>�Ȃ�ƂȂ��A���܂P/�Q��A�z����Ȃ��i�΂��j�B�e�R���h�[�g���̗��n���Ċ������ˁB</font></ul>
+<a href="resbbs4_b@vew_1804.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>隣国の映画「チェンジ」と、漫画の「トランスファイター」</b>】</font>
+<ul><font size=3><a href=http://bbs.enjoyjapan.naver.com/action/read.php target=_top>http://bbs.enjoyjapan.naver.com/action/read.php</a>?id=enjoyjapan_6&nid=18809&work=list&st=&sw=&cp=1<br><br>なんとなく、らんま１/２を連想するなあ（笑い）。テコンドー使いの乱馬って感じだね。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1805>
-<font color=#6A5ACD>���邨�����猩��Ȃ��Ƃ̋�����܂��āE�E�E</font></a>
+<font color=#6A5ACD>あるお方から見れないとの苦情がありまして・・・</font></a>
 <font color=#303030>
-WEB����}�j�A
- ����</font>
- <font size=2>2003�N4��19��(�y) 1��14��</font>
+WEB漫画マニア
+ さん</font>
+ <font size=2>2003年4月19日(土) 1時14分</font>
 <a href=http://bingoimage.naver.com/ target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1805">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>��ڂ̃����N�����A<br><br>���f��́u�`�F���W�v�́A<br><br><a href=http://bingoimage.naver.com/ target=_top>http://bingoimage.naver.com/</a><br><br>�ɍs���āA�����ŁA���̃T�C�g�ŁA�A�h���X�o�[�ɁA<br><a href=http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg target=_top>http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg</a><br><br>������A�\��t���ĉ������B�����̃��f�B�A���T�[�`�̃T�[�p�[����́A���ڂi�o�f�i�摜�j�́A����Ȃ��ł��B�׍��̃T�C�g�̐�p�T�[�o�[����łȂ��Ɖ摜�́A����܂���B<br><br>������u�g�����X�t�@�C�^�[�v�́A<br><br><a href=http://bbs.enjoyjapan.naver.com/action/read.php target=_top>http://bbs.enjoyjapan.naver.com/action/read.php</a>?id=enjoyjapan_6&nid=18809&work=list&st=&sw=&cp=1<br><br>���f�B�A���T�[�`�̃N���b�N�w��͑S���w�肳��Ȃ��悤�Ȃ̂ŁA�������Ō�́u=&cp=1�v�ȂƂ���܂ŁA�؂����ăA�h���X�o�[�ɓ\��t���Ă��������B<br><br>�o�r�E���d�F�������̏��f���̃J�L�R�̍폜���肪�Ƃ��������܂����B�l�͍ŋ߁A�F�l����s�f���������Ă�����Ă��܂����A�ʂ��c��Ȃ̂ł����A�u�l�b�g�}�i�[��A�l�Ԑ����d�񂶂āE�E�\�ɏo���Ȃ��e�̃T�C�g�́A�l�l�݂̂Ŋy���݂܂��B�v</font></ul>
+<a href="resbbs4_b@vew_1805.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>一つ目のリンクした、<br><br>★映画の「チェンジ」は、<br><br><a href=http://bingoimage.naver.com/ target=_top>http://bingoimage.naver.com/</a><br><br>に行って、そこで、そのサイトで、アドレスバーに、<br><a href=http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg target=_top>http://bingoimage.naver.com/data3/bingo_1/imgbingo_10/01191350090/19501/01191350090_66.jpg</a><br><br>これを、貼り付けて下さい。ここのメディアリサーチのサーパーからは、直接ＪＰＧ（画像）は、見れないです。隣国のサイトの専用サーバーからでないと画像は、見れません。<br><br>★漫画「トランスファイター」は、<br><br><a href=http://bbs.enjoyjapan.naver.com/action/read.php target=_top>http://bbs.enjoyjapan.naver.com/action/read.php</a>?id=enjoyjapan_6&nid=18809&work=list&st=&sw=&cp=1<br><br>メディアリサーチのクリック指定は全部指定されないようなので、正しく最後の「=&cp=1」なところまで、切り取ってアドレスバーに貼り付けてください。<br><br>ＰＳ・八重洲さん先日の情報掲示板のカキコの削除ありがとうございました。僕は最近、友人からＴＧ情報を教えてもらっていますが、量が膨大なのですが、「ネットマナーや、人間性を重んじて・・表に出せない影のサイトは、僕個人のみで楽しみます。」</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

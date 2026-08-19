@@ -1,662 +1,662 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&ff=on&id=1008646676lnpowq&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_ff_on_id_1008646676lnpowq_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�~�X�g���X�Ɗ�Ȓ��ԒB</font><br>
+<font size="+2" color="#0000FF">ミストレスと奇妙な仲間達</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/mistress.html" target="_blank">��i������ɂ͂������N���b�N�B</a></strong>  <i>2001/12/18 12:37:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/mistress.html" target="_blank">作品を見るにはここをクリック。</a></strong>  <i>2001/12/18 12:37:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008646676lnpowq&id2=1008646676lnpowq&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008646676lnpowq_id2_1008646676lnpowq_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂��b�ɂ͗�������H�c�c�N���H����Șb�Ȃ���Ă����������Ă����l�́H
+うまい話には裏がある？……誰だ？こんな話ならついていきたいっていう人は？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/18 20:05:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/18 20:05:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008673543hprqcw&id2=1008646676lnpowq&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008673543hprqcw_id2_1008646676lnpowq_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����ł��ˁ[�B���@�g���̎g�����Ŕ��b�i�H�j�ł����B<BR>�b�����s�r�Ƃ����̂��܂������ł��ˁ[�B<BR>�������납���������B<BR>������Ɨ�������ł����̂ŁA�����C���]���ɂȂ�܂����B���肪�Ƃ��������܂��B
+読んだバイ♪<BR>いいですねー。魔法使いの使い魔で半獣（？）ですか。<BR>獣化＆ＴＳというのがまたいいですねー。<BR>おもしろかったっす。<BR>ちょっと落ち込んでいたので、いい気分転換になりました。ありがとうございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/12/18 22:56:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/12/18 22:56:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008683801fenmg&id2=1008646676lnpowq&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008683801fenmg_id2_1008646676lnpowq_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�閲����̋v���Ԃ�̂��b�B<BR>������t�@���^�W�[�i�b�̂����ĕ������ł͂Ȃ��āA�~�X�g���X�̂������E�E�E�j�̍���̓W�J�ƁA�g���������̊��􂪊y���݁E�E�E<BR>�C�����悤�B�����܂����i���X�B(�ςȕW��j<BR>
+夜夢さんの久しぶりのお話。<BR>無理矢理ファンタジー（話のもって聞き方ではなくて、ミストレスのやり方が・・・）の今後の展開と、使い魔たちの活躍が楽しみ・・・<BR>気をつけよう。いつも閉まった喫茶店。(変な標語）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2001/12/19 22:57:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2001/12/19 22:57:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008770260axqtd&id2=1008646676lnpowq&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008770260axqtd_id2_1008646676lnpowq_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l�A�悵�����l���X�̌䊴�z���肪�Ƃ��������܂��B<BR>TS�n������D���ł����A�b�������Ă̂����̍D���Șb�Ȃ�ŁE�E�E<BR>�ޏ��E�ޓ��̊�����y���݂ɂ��Ē�����Ȃ�K���Ȃ��ƁB<BR><BR>���Ă����Ă��A���̊F����̔������C�ɂȂ鏊�ł��ˁE�E�E<BR>�E�E�E�Ƃ���ŁA�N���ޏ��B�̊G�������Ē����Ȃ����̂ł��傤���ˁE�E�E�H<BR>�i���Ƃ��Ắg�Ђ��h����Ȃ񂩂��E�E�E�i�΁j�j
+ｍｋ８４２６様、よしおか様早々の御感想ありがとうございます。<BR>TS系物語も好きですが、獣化物ってのも私の好きな話なんで・・・<BR>彼女・彼等の活躍を楽しみにして頂けるなら幸いなこと。<BR><BR>さてもさても、他の皆さんの反応が気になる所ですね・・・<BR>・・・ところで、誰ぞ彼女達の絵を書いて頂けないものでしょうかね・・・？<BR>（私としては“ひぃ”さんなんかが・・・（笑））
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/12/21 00:00:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/12/21 00:00:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008860455hurkd&id2=1008646676lnpowq&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008860455hurkd_id2_1008646676lnpowq_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�x���Ȃ�܂������ǂ݂܂����B�`�ʂɂ�������Ă܂��ˁB�i�΁j<BR>�ʔ��������ł��B�O�ɏo��Ɠ����ɂȂ��ł��ˁB���̘b�����y���݂ł��B����΂��Ă��������ˁB<BR>���Ȃ݂Ɏg�����ɘT�͂��Ȃ��̂ł����ˁB�i�΁j
+遅くなりましたが読みました。描写にこだわってますね。（笑）<BR>面白かったです。外に出ると動物になるんですね。その話しが楽しみです。がんばってくださいね。<BR>ちなみに使い魔に狼はいないのですかね。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2001/12/21 22:59:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2001/12/21 22:59:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008943142myivd&id2=1008646676lnpowq&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008943142myivd_id2_1008646676lnpowq_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������l�A���̂Ƃ���T�͋��܂���B�i���̐摱���΂�����E�E�E�H�j<BR>�Ƃ͌����A�`�ʂɂ�����E�E�E���Ă���Č�����̂��ȁH<BR>���������Ē�����ƗL���ł����ǂˁB�i�΁j
+あおき様、今のところ狼は居ません。（この先続けばもしや・・・？）<BR>とは言え、描写にこだわ・・・ってるって言えるのかな？<BR>そう言って頂けると有難いんですけどね。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/23 16:53:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/23 16:53:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009094000omyby&id2=1008646676lnpowq&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009094000omyby_id2_1008646676lnpowq_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̐摱���΁c<BR>���͑l�̓o�ꂩ�ȁH<BR>�ł����āA�l���ɂ��Ă����A�ƁB<BR>
+＞この先続けば…<BR>次は鼠の登場かな？<BR>でもって、鼠娘にしてやられる、と。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�[��</strong>  <i>2001/12/30 10:49:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>骸骨</strong>  <i>2001/12/30 10:49:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009676995amqfuvg&id2=1008646676lnpowq&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009676995amqfuvg_id2_1008646676lnpowq_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�r�r�b�Ƃ��܂����B<BR>�b���Ƀ~�X�g���X�B����Ƀt�@�~���[�Ƃ����̂ŁA�킭�킭�ł��B<BR>������`�̎����ɂƂ��āA����͖����n�ł����B<BR>���Ҋ��҂��Ă��܂��B����΂��Ă��������B<BR>����ł́B
+ビビッときました。<BR>獣化にミストレス。それにファミリーときたので、わくわくです。<BR>逃避主義の自分にとって、これは癒し系でした。<BR>続編期待しています。がんばってください。<BR>それでは。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/01/01 13:53:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/01/01 13:53:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009860828tusean&id2=1008646676lnpowq&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009860828tusean_id2_1008646676lnpowq_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͑l�̓o�ꂩ�ȁH<BR>���́E�E�E������Ƃ����l�^������񂾂��ǂˁE�E�E�i�΁j<BR><BR>������͖����n�ł����B<BR>�E�E�E�����Ȃ�ł����E�E�E�H<BR>�E�E�E�撣��܂��B
+＞次は鼠の登場かな？<BR>実は・・・ちょっとしたネタがあるんだけどね・・・（笑）<BR><BR>＞これは癒し系でした。<BR>・・・そうなんですか・・・？<BR>・・・頑張ります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/mistress2.html" target="_blank">���̂Q������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/15 18:35:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/mistress2.html" target="_blank">その２を見るにはここをクリック。</a></strong>  <i>2002/01/15 18:35:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011087345xfieq&id2=1008646676lnpowq&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011087345xfieq_id2_1008646676lnpowq_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P���m���̏ꍇ�A����􂤂Ƃ��Ɏ��ɐ��͓���Ȃ��̂��낤���c�c�H�f�p�ȋ^��ł����B
+ケモノ耳の場合、髪を洗うときに耳に水は入らないのだろうか……？素朴な疑問でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/15 20:45:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/15 20:45:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011095125ffexue&id2=1008646676lnpowq&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011095125ffexue_id2_1008646676lnpowq_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����[�A���ꂪ�ޏ������́u����v�Ȃ�ł��˂��B<BR>�����������������i�΁j��ł��傤�ˁB<BR>���ւ��V�[���������V�[�����ō��ł����B<BR>���_�A���X�ł́u�V���[�v���i�΁j�B<BR>������y���݂ł��ˁ[�B
+読んだバイ♪<BR>いやー、これが彼女たちの「日常」なんですねぇ。<BR>毎日毎日騒がしい（笑）んでしょうね。<BR>着替えシーンも入浴シーンも最高でした。<BR>無論、お店での「ショー」も（笑）。<BR>次回も楽しみですねー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/15 22:26:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/15 22:26:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011101210irqxv&id2=1008646676lnpowq&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011101210irqxv_id2_1008646676lnpowq_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P��i�H�j�̌뎚�w�E�R�[�i�[�����i���j<BR><BR>�g�����E�聄������or�グ��<BR>�������ꂽ�����ς���ꂽ���H�H�H<BR>����Ȍ������܂Ł�����Ȍ����͍��܂�<BR>�\�z�Œ������\�z�ł���<BR>����̕��ւƈ�������ꂽ�s���������������čs����<BR>���D�̉��ɕ߂܂点�����͂܂点��or���܂点���E�E�E�ǂ����������Ɓu�͂܂����i���܂����j�v�̕����\���Ƃ��Ă͂�������<BR>���ƌ������ɂ͑R���ɔM���Ȃ������ƌ������ɂ͔M���Ȃ��E�E�E�u�R���v���āE�E�E�H<BR><BR><BR>�o�r<BR>�����҂̐�<BR>�n���[�E�|�b�^�[�H�i�΁j
+恒例（？）の誤字指摘コーナーっす（汗）<BR><BR>揚げた右手＞挙げたor上げた<BR>聞き慣れた声が変えられた＞？？？<BR>あんな喧噪今まで＞あんな喧噪は今まで<BR>予想で着た＞予想できた<BR>浴場の方へと引っ張られた行った＞引っ張られて行った<BR>湯船の縁に捕まらせた＞掴まらせたorつかまらせた・・・どっちか言うと「掴ませた（つかませた）」の方が表現としてはいいかも<BR>湯と言う程には然程に熱くなく＞湯と言う程には熱くなく・・・「然程」って・・・？<BR><BR><BR>ＰＳ<BR>＞賢者の石<BR>ハリー・ポッター？（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/01/16 00:16:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/01/16 00:16:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011107812erdqy&id2=1008646676lnpowq&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011107812erdqy_id2_1008646676lnpowq_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������W�S�Q�U����<BR>����̂��ƂȂ��炠�肪�Ƃ��������܂�m(_ _)m<BR><BR>�����D�̉��ɕ߂܂点��<BR>�u���D�̉���͂܂����v���u���D�̉��ɒ͂܂点���v���Ǝv���܂��̂ŁA�����ɋ߂���҂����܂����B<BR><BR>���������{����āA�ق�Ƃɓ���ł��ˁ`�B
+＞ｍｋ８４２６さん<BR>毎回のことながらありがとうございますm(_ _)m<BR><BR>＞湯船の縁に捕まらせた<BR>「湯船の縁を掴ませた」か「湯船の縁に掴まらせた」かと思いますので、原文に近い後者を取りました。<BR><BR>しかし日本語って、ほんとに難しいですね～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/01/16 00:19:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/01/16 00:19:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011107953usttt&id2=1008646676lnpowq&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011107953usttt_id2_1008646676lnpowq_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������҂̐�<BR>���n���[�E�|�b�^�[�H<BR><BR>����A�����ł��傤�B<BR><BR>�w�������I���퐶���x�ł��Ȃ��B<BR>�Ƃ���ƁA�l�^�������ς��c�B<BR><BR>�}�O�l�V�A��"MgO"<BR>���ʂ͑ωΕ��̍������Ɏg���܂����c�B
+＞＞賢者の石<BR>＞ハリー・ポッター？<BR><BR>いや、聖書でしょう。<BR><BR>『動物娘的日常生活』ですなあ。<BR>とすると、ネタがいっぱい…。<BR><BR>マグネシア＝"MgO"<BR>普通は耐火物の混ぜ物に使いますが…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/01/17 00:09:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/01/17 00:09:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011193756mylus&id2=1008646676lnpowq&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011193756mylus_id2_1008646676lnpowq_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;���������{����āA�ق�Ƃɓ���ł��ˁ`�B <BR>����A�z���g�ɁE�E�E�뎚�w�E�ƒ������肪�Ƃ��������܂��B<BR>�i���܂��A���t������K�n�����Ƃ͌����܂���ŁE�E�E�j<BR><BR>&gt;����[�A���ꂪ�ޏ������́u����v�Ȃ�ł��˂��B<BR>&gt;�����������������i�΁j��ł��傤�ˁB<BR>�����ł��ˁE�E�E���₩�Ŋy�������Ƃł��傤�B������A���q������ė���E�E�E�i�΁j<BR><BR>���������҂̐�<BR>�����n���[�E�|�b�^�[�H<BR>������A�����ł��傤�B<BR>&gt;�}�O�l�V�A��"MgO"<BR>&gt;���ʂ͑ωΕ��̍������Ɏg���܂����c�B <BR>���Ȃ���̕��������E�E�E�Ȃ̂��ȁH<BR>���Ȃ݂ɁA�}�O�l�V�A�Ƃ́h���҂̐΁h�̐����̍ۂ̒��Ԑ������̂��ƁE�E�E�炵���ł��B<BR>
+&gt;しかし日本語って、ほんとに難しいですね～。 <BR>いや、ホントに・・・誤字指摘と訂正ありがとうございます。<BR>（いまだ、言葉操りを習熟したとは言えませんで・・・）<BR><BR>&gt;いやー、これが彼女たちの「日常」なんですねぇ。<BR>&gt;毎日毎日騒がしい（笑）んでしょうね。<BR>そうですね・・・賑やかで楽しいことでしょう。だから、お客もやって来る・・・（笑）<BR><BR>＞＞＞賢者の石<BR>＞＞ハリー・ポッター？<BR>＞いや、聖書でしょう。<BR>&gt;マグネシア＝"MgO"<BR>&gt;普通は耐火物の混ぜ物に使いますが…。 <BR>すなさんの方が正解・・・なのかな？<BR>ちなみに、マグネシアとは”賢者の石”の製造の際の中間生成物のこと・・・らしいです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/mistress3.html" target="_blank">���̂R������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/21 00:30:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/mistress3.html" target="_blank">その３を見るにはここをクリック。</a></strong>  <i>2002/01/21 00:30:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011540606pqvdhg&id2=1008646676lnpowq&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011540606pqvdhg_id2_1008646676lnpowq_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ƃ̉^���͂����ɁB�B�B�I�[���L���X�g�ł����肵�܂��B
+凶悪犯の運命はいかに。。。オールキャストでお送りします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/21 06:57:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/21 06:57:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011563839pmjev&id2=1008646676lnpowq&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011563839pmjev_id2_1008646676lnpowq_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����Ⴀ�E�E�E�i�΁j�B<BR>�~�X�g���X�n�E�X�Ȃǂɉ����������A�Ȃ̕s�K���􂤑��͂Ȃ��悤�ł��ȁB<BR>�������E�E�E������L�Ƒl�Ƃ͂����A����Ă��܂��Ƃ́E�E�E�B<BR>�x�@�����̖T��˂��B�u���W�I���C�t�v�ł����ȁi�΁j�B<BR>����͂����ƁA�u�����v�����A�����I�������ɂ��Ȃ����āA���̂��Ƃł����ˁB<BR>���񂩂�́u����v�Ƃ̂��ƂȂ̂ŁA�����܂ł��[���ɂ͂Ȃ�Ȃ��悤�Ȃ̂ŁA����S�B���񂱂�Ȃ̂���A������Ƃˁi�΁j�B<BR><BR>�ł́A�Z�����܂��i�΁j�B<BR>�����̌��t�ɁA�D��Ƃ���g�Ƃ������镗��ŁA�~�X�g�����͖₢������B<BR>�~�X�g���X<BR>�������A�~�X�g���X�B���Ă̒��ɓ���Ēu�����a�l�͂��Ȃ��Ȃ��Ă����B<BR>�~�X�g���X�B��<BR>������Ȕޏ��̊�����m���Ă���̂����Ȃ��̂��A���̓����������ʂ�ɓX�͊J�����B<BR>���̓���<BR>���u�����ǂ���v���Ă̂́A�Ђ炪�Ȃ̕������������i�l�I�Ɂj�B
+読んだバイ♪<BR>こりゃあ・・・（笑）。<BR>ミストレスハウスなどに押し入った、己の不幸を呪う他はないようですな。<BR>しかし・・・いくら猫と鼠とはいえ、喰われてしまうとは・・・。<BR>警察無線の傍受ねぇ。「ラジオライフ」ですかな（笑）。<BR>それはそうと、「うさ」ちゃん、強い！見かけによらないって、このことですかね。<BR>次回からは「日常」とのことなので、ここまでだーくにはならないようなので、一安心。毎回こんなのじゃ、ちょっとね（笑）。<BR><BR>では、校正します（笑）。<BR>＞その言葉に、優雅とか鷹揚とか言える風情で、ミストレルは問いかける。<BR>ミストレス<BR>＞翌朝、ミストレス達は籠の中に入れて置いた溝鼠はいなくなっていた。<BR>ミストレス達が<BR>＞そんな彼女の葛藤を知っているのかいないのか、その日を何時も通りに店は開いた。<BR>その日も<BR>＊「いつもどおり」ってのは、ひらがなの方がいいかも（個人的に）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/01/21 08:44:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011570245nxkiw&id2=1008646676lnpowq&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011570245nxkiw_id2_1008646676lnpowq_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�����z�̂����W�S�Q�U ���܁A<BR><BR>�������w�E�𒸂��A���肪�Ƃ��������܂��B<BR>���w�E�̉ӏ����C�����܂����B<BR>���m�F���������B
+神速感想のｍｋ８４２６ さま、<BR><BR>いつもご指摘を頂き、ありがとうございます。<BR>ご指摘の箇所を修正しました。<BR>ご確認ください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2002/01/21 13:04:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011585867fdhktf&id2=1008646676lnpowq&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011585867fdhktf_id2_1008646676lnpowq_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�R���C���b�ł��ˁB<BR>�˂������A�쐶�ɖڊo�߂Ă��܂����̂ł��傤���B<BR>�����A�l�Y�~���̂܂܂�������A���������ǂ��Ȃ��Ă������ł��傤(�����E�j<BR>�܂��A�~�X�g���X���l�Y�~���ǂ��Ȃ����̂������Ă���Ď��ł���ˁB<BR>���`��B�ł��ʔ��������ł��B<BR><BR>�z�d�ՂŃl�Y�~�̎��[�������̂��v���o���܂����c�f�������B
+コワイお話ですね。<BR>ねこちゃん、野生に目覚めてしまったのでしょうか。<BR>もし、ネズミ娘のままだったら、いったいどうなっていた事でしょう(ワラウ）<BR>また、ミストレスもネズミがどうなったのか判ってるって事ですよね。<BR>う～ん。でも面白かったです。<BR><BR>配電盤でネズミの死骸を見たのを思い出しました…吐きそう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2002/01/21 22:20:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2002/01/21 22:20:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011619202peddwf&id2=1008646676lnpowq&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011619202peddwf_id2_1008646676lnpowq_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ӂ́A�閲�ł��B<BR>���X�̌f�ځA����Ɋ��z���肪�Ƃ��������܂��B<BR><BR>�����񂩂�́u����v�Ƃ̂��ƂȂ̂ŁA�����܂ł��[���ɂ͂Ȃ�Ȃ��悤�Ȃ̂ŁA����S�B���񂱂�Ȃ̂���A������Ƃˁi�΁j�B<BR>����S������mk8426�l�A���ꂪ�����ł��I�i���炭�E�E�E�j<BR>���̐�̂��b�͂��������A�ق�킩�������̂��\�z���Ă���܂��B<BR>�i�^�_�V�A�J�����n�R���O���C�m�_�[�N�i�R�g�������g�L�j�n�����_���E�K�E�E�E�j<BR><BR>������͂����ƁA�u�����v�����A�����I�������ɂ��Ȃ����āA���̂��Ƃł����ˁB<BR>�͂����茾���΁A�i����Ɍ��肷��Δޏ����~�X�g���X�n�E�X�ŋ��ł��傤�B�i�����I��͂��猾���΁A���|�I�Ɂg�ӂ��h�ł����E�E�E�j<BR>�g�˂��h�̒܂ƌ����A�g�Ђ��h�̐�ƌ����A�ӊO�ɏ����w�̕�������g�ݍ����ɂȂ�ƕ|���ł��ˁE�E�E<BR><BR>���������E�E�E������L�Ƒl�Ƃ͂����A����Ă��܂��Ƃ́E�E�E�B<BR>���R���C���b�ł��ˁB<BR>���˂������A�쐶�ɖڊo�߂Ă��܂����̂ł��傤���B<BR>�n�n�n�E�E�E�i�J�n�q�^�����q�j<BR>�쐶�E�E�E�Ȃ̂��ȁE�E�E�H<BR>�i����ς�쐶�E�E�E���E�E�E�j<BR>
+今晩は、夜夢です。<BR>早々の掲載、それに感想ありがとうございます。<BR><BR>＞次回からは「日常」とのことなので、ここまでだーくにはならないようなので、一安心。毎回こんなのじゃ、ちょっとね（笑）。<BR>御安心下さいmk8426様、これが下限です！（恐らく・・・）<BR>この先のお話はもう少し、ほんわかしたものを構想しております。<BR>（タダシ、カレラハコレグライノダークナコトモヤルトキニハヤルダロウガ・・・）<BR><BR>＞それはそうと、「うさ」ちゃん、強い！見かけによらないって、このことですかね。<BR>はっきり言えば、格闘戦に限定すれば彼女がミストレスハウス最強でしょう。（総合的戦力から言えば、圧倒的に“ふく”ですが・・・）<BR>“ねこ”の爪と言い、“ひぃ”の舌と言い、意外に女性陣の方が取っ組み合いになると怖いですね・・・<BR><BR>＞しかし・・・いくら猫と鼠とはいえ、喰われてしまうとは・・・。<BR>＞コワイお話ですね。<BR>＞ねこちゃん、野生に目覚めてしまったのでしょうか。<BR>ハハハ・・・（カハヒタワラヒ）<BR>野生・・・なのかな・・・？<BR>（やっぱり野生・・・か・・・）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ǂ�</strong>  <i>2002/01/27 00:47:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>どら</strong>  <i>2002/01/27 00:47:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012060048wycnuq&id2=1008646676lnpowq&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012060048wycnuq_id2_1008646676lnpowq_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ς�P���͍D���I�I<BR>�^�u���b�g���V�����Ȃ����̂�<BR>�˂�����`���Ă݂܂����`�i�Oo�O�j/<BR><BR><a href="http://ex-dora.cool.ne.jp/nekosan.htm" target="_blank">http://ex-dora.cool.ne.jp/nekosan.htm</a>
+やっぱりケモは好き！！<BR>タブレットも新しくなったので<BR>ねこさん描いてみました～（＾o＾）/<BR><BR><a href="http://ex-dora.cool.ne.jp/nekosan.htm" target="_blank">http://ex-dora.cool.ne.jp/nekosan.htm</a>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/01/27 00:48:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/01/27 00:48:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012060095xmxqar&id2=1008646676lnpowq&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012060095xmxqar_id2_1008646676lnpowq_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O�񂪐����A����͐��镨��c�B<BR><BR>�Ō�Ɂu�������v������Ƃ́A�����ɂ��u�˂��v�����炵���Ȃ��B<BR><BR>���쐶�c�Ȃ̂��ȁc�H<BR>���Ȃ��Ƃ��u�����v�Ȃ̂Ŏ����͂��Ă��Ȃ����ƁB<BR><BR>�i�q�����{���L����񂳂Ǝ����Ă����΁A�ϓd��������ĐV�������~�܂�S�z���Ȃ������H
+前回が聖書、今回は千一夜物語…。<BR><BR>最後に「おいた」をするとは、いかにも「ねこ」ちゃんらしいなあ。<BR><BR>＞野生…なのかな…？<BR>少なくとも「動物」なので自生はしていないかと。<BR><BR>ＪＲ東日本も猫をわんさと飼っておけば、変電所をやられて新幹線が止まる心配がないかも？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/01/29 22:32:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/01/29 22:32:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012311120kwvvxfo&id2=1008646676lnpowq&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012311120kwvvxfo_id2_1008646676lnpowq_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�˂�����`���Ă݂܂����`(^o^)/<BR>���܂����I�J���C�C�ł�!!<BR>�ǂ炳��A���肪�Ƃ��������܂��B����ȊG��`���ĖႦ��Ȃ�Ċ����ł��B<BR>�i�ł��A�h�˂��h�̓��̐F�͌����_�ł̓��^���b�N�O���[���Ȃ̂ł����E�E�E�E�E�E�i�`���Ē����āA���������͎̂��炩������܂��񂪁E�E�E�j�j<BR><BR>&gt;�Ō�Ɂu�������v������Ƃ́A�����ɂ��u�˂��v�����炵���Ȃ��B<BR>�E�E�E�ł��A�ꉞ�����Ɣޏ������̖ʁX�̒��ł����ʂł͂Ȃ���ł����ǁE�E�E�i�R�m�T�L�n�R���C�R�g�j�i���m�f�L���A�Q�E�E�E�j
+&gt;ねこさん描いてみました～(^o^)/<BR>見ました！カワイイです!!<BR>どらさん、ありがとうございます。こんな絵を描いて貰えるなんて感激です。<BR>（でも、”ねこ”の瞳の色は現時点ではメタリックグリーンなのですが・・・・・・（描いて頂いて、こう言うのは失礼かもしれませんが・・・））<BR><BR>&gt;最後に「おいた」をするとは、いかにも「ねこ」ちゃんらしいなあ。<BR>・・・でも、一応言うと彼女があの面々の中でも特別ではないんですけど・・・（コノサキハコワイコトニナルノデキリアゲ・・・）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ǂ�</strong>  <i>2002/01/30 20:24:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>どら</strong>  <i>2002/01/30 20:24:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012389896rhdnv&id2=1008646676lnpowq&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012389896rhdnv_id2_1008646676lnpowq_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;���̐F�͌����_�ł̓��^���b�N�O���[��<BR><BR>���I�@�`�`�`�`���������I�I�I�I<BR>�`���O�Ƀ`�F�b�N��������Łc�c�Y�ꂿ����Ă܂����B<BR>�����܂���@�A�g�Œ����Ƃ��܂��`�B�i�O�O�G<BR>
+&gt;瞳の色は現時点ではメタリックグリーン<BR><BR>あ！　～～～～ぁぁああ！！！！<BR>描く前にチェックしたつもりで……忘れちゃってました。<BR>すいません　アトで直しときます～。（＾＾；<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/02/04 20:34:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/02/04 20:34:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012822465gmlvma&id2=1008646676lnpowq&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012822465gmlvma_id2_1008646676lnpowq_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�A�g�Œ����Ƃ��܂��`�B�i�O�O�G<BR><BR>�ǂ�l�A���肪�Ƃ��������܂��B<BR>�m�F�����Ē����܂����B����ς�C�C�ł��ˁ`�`<BR><BR>���ŁA���̊G����낵����Ύg�킹�Ė���ėǂ��ł����H<BR>
+&gt;アトで直しときます～。（＾＾；<BR><BR>どら様、ありがとうございます。<BR>確認させて頂きました。やっぱりイイですね～～<BR><BR>所で、この絵をよろしければ使わせて貰って良いですか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora.hotmail.com" target="_blank">�ǂ�</a></strong>  <i>2002/02/06 22:33:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora.hotmail.com" target="_blank">どら</a></strong>  <i>2002/02/06 22:33:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013002434ehtmvw&id2=1008646676lnpowq&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013002434ehtmvw_id2_1008646676lnpowq_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��`�i�O�ށO/�@�g���Ă�������΍K���ł��B<BR>-----------------------------------------<BR>���ƁA�ЂƂ���Ȃ�ł����ǁB<BR>�h�ӂ��h����́w���啁x�ł�����ł��傤���H
+ども～（＾∇＾/　使ってくだされば幸いです。<BR>-----------------------------------------<BR>えと、ひとつ質問なんですけど。<BR>”ふく”さんは『白蝙蝠』でいいんでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/02/07 22:01:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/02/07 22:01:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013086914okqjv&id2=1008646676lnpowq&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013086914okqjv_id2_1008646676lnpowq_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�ǂ��`�i�O�ށO/�@�g���Ă�������΍K���ł��B<BR>�ǂ�l�A���肪�Ƃ��������܂��B�ł́A�����Ȃ��E�E�E<BR>�ƁA�������Ƃ������ł��̂ŁA�^�c�ψ��̕��������܂����̂ł��肢�v���܂��B<BR>�i�E�E�E���āA�����ɂ��������ėǂ��̂��H�j<BR><BR>&gt;���ƁA�ЂƂ���Ȃ�ł����ǁB<BR>&gt;�h�ӂ��h����́w���啁x�ł�����ł��傤���H <BR>�����ł��B<BR>�ނ͔��啂̐��ł���A�~�X�g���X�̃t�@�~���A�[�̒��ŁA�ŌÎQ�̈�l�ł��A�ŋ��̃t�@�~���A�[�ł��B�i���i�́E�E�E�A���ł����E�E�E�j<BR>�ڂ����͎��񔭕\�̕�����Q�Ɖ������B
+&gt;ども～（＾∇＾/　使ってくだされば幸いです。<BR>どら様、ありがとうございます。では、遠慮なく・・・<BR>と、言うことだそうですので、運営委員の方許可が取れましたのでお願い致します。<BR>（・・・って、ここにこう書いて良いのか？）<BR><BR>&gt;えと、ひとつ質問なんですけど。<BR>&gt;”ふく”さんは『白蝙蝠』でいいんでしょうか？ <BR>そうです。<BR>彼は白蝙蝠の精であり、ミストレスのファミリアーの中で、最古参の一人でかつ、最強のファミリアーです。（性格は・・・アレですが・・・）<BR>詳しくは次回発表の物を御参照下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/mistress4.html" target="_blank">��S�b������ɂ͂������N���b�N�B</a></strong>  <i>2002/02/16 22:45:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/mistress4.html" target="_blank">第４話を見るにはここをクリック。</a></strong>  <i>2002/02/16 22:45:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013867139scyqi&id2=1008646676lnpowq&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013867139scyqi_id2_1008646676lnpowq_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�閲���񂪁u�~�X�g���X�`�v�̐��ŕs�v�c�Ȓ��Ԃ������V�F�A���[���h�����Ă���܂����I
+【推薦文】夜夢さんが「ミストレス～」の粋で不思議な仲間たちをシェアワールド化してくれました！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/mistress5.html" target="_blank">��T�b������ɂ͂������N���b�N�B</a></strong>  <i>2002/02/16 22:46:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/mistress5.html" target="_blank">第５話を見るにはここをクリック。</a></strong>  <i>2002/02/16 22:46:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013867195veninx&id2=1008646676lnpowq&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013867195veninx_id2_1008646676lnpowq_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�܂ف[����[����Ƀ{�R����ƍߎҁc�c���ꂾ���ɂ͂Ȃ肽���͂Ȃ��i�΁j�B
+【推薦文】まほーしょーじょにボコられる犯罪者……これだけにはなりたくはない（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/16 23:53:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/16 23:53:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013871197ppemif&id2=1008646676lnpowq&ff=on">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013871197ppemif_id2_1008646676lnpowq_ff_on.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�Q�b�܂Ƃ߂Ėʔ������������B<BR>��S�b<BR>���Ƀh�N�g�����g�����������܂����ˁB<BR>�T�ł����B����ɐl���P�����肵�Ȃ��ł��傤�ȁi�΁j�B<BR>��T�b<BR>�����A���@�����I�������t���q�I<BR>�G���܂��Ȃ��i���j�B<BR>�ϐg���͈ٗl�Ƀn�C�e���V�����Ȃ̂����������i�΁j�B<BR><BR>���񂪊y���݂ł��ȁB
+読んだバイ♪<BR>２話まとめて面白かったっす。<BR>第４話<BR>ついにドクトルも使い魔を持ちましたね。<BR>狼ですか。月夜に人を襲ったりしないでしょうな（笑）。<BR>第５話<BR>おお、魔法少女！しかも可逆っ子！<BR>萌えますなぁ（爆）。<BR>変身中は異様にハイテンションなのもいいっす（笑）。<BR><BR>次回が楽しみですな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>nanasi</strong>  <i>2002/02/19 19:10:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014113440xusfd&id2=1008646676lnpowq&ff=on">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014113440xusfd_id2_1008646676lnpowq_ff_on.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂����肵�Ăėǂ��ł��B
+まったりしてて良かです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">�ǂ�</a></strong>  <i>2002/02/19 21:26:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">どら</a></strong>  <i>2002/02/19 21:26:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014121603xftael&id2=1008646676lnpowq&ff=on">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014121603xftael_id2_1008646676lnpowq_ff_on.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�������S�A�T�b�A�o�����^�C���ҁI�i�O-�O<BR><BR>�ӂނӂށA�w���o�����p�A�C�e���x�������<BR>�b���L���肻���ł��ˁB<BR>���Ƃ��΁c���͒��p�p�́h�^���X�}���h<BR>��l�̖��͗e�ʂ␫���ɂ���Ďg�p�ł��鐔�A�L���͈͂�<BR>���������B�c�Ƃ��H<BR>(�h�N�g�����Ƌ������̃`���[�J�[�P�����A�L���͈͐��S���c)
+おぉ、早くも４、５話、バレンタイン編！（＾-＾<BR><BR>ふむふむ、『お出かけ用アイテム』があると<BR>話が広がりそうですね。<BR>たとえば…魔力中継用の”タリスマン”<BR>主人の魔力容量や性質によって使用できる数、有効範囲が<BR>制限される。…とか？<BR>(ドクトルだと狗美さんのチョーカー１個だけ、有効範囲数百ｍ…)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/02/21 22:31:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/02/21 22:31:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014298314aeqve&id2=1008646676lnpowq&ff=on">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014298314aeqve_id2_1008646676lnpowq_ff_on.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����΂�́A�閲�ł������܂��B<BR>mk8426�l�Ananasi�l�A�ǂ�l�A�����̌䊴�z���肪�Ƃ��������܂��B<BR><BR>���T�ł����B����ɐl���P�����肵�Ȃ��ł��傤�ȁi�΁j�B<BR>�E�E�E�P���܂���I�i��΁j�E�E�E����ɂ����Ȃ苭���Ȃ���������Ȃ���ł���ˁi�E�E�E�C�}�m�g�R���E�E�E�j<BR><BR>���܂����肵�Ăėǂ��ł��B <BR>�E�E�E�܂�����E�E�E�ł����H�E�E�E���J�ߒ������l�ł��肪�Ƃ��������܂��B<BR>�E�E�E�������܂�����Ȃ̂��E�E�E�H<BR><BR>���ӂނӂށA�w���o�����p�A�C�e���x�������<BR>���b���L���肻���ł��ˁB<BR>�E�E�E�͂��A����͊y���݂ɂ��ĉ������B<BR><BR>�E�E�E���łǂ炳��A<BR>�����Ƃ��΁c���͒��p�p�́h�^���X�}���h<BR>����l�̖��͗e�ʂ␫���ɂ���Ďg�p�ł��鐔�A�L���͈͂�<BR>�����������B�c�Ƃ��H<BR>����́A�ǂ��������Ƃ�����E�E�E�H�H
+こんばんは、夜夢でございます。<BR>mk8426様、nanasi様、どら様、早速の御感想ありがとうございます。<BR><BR>＞狼ですか。月夜に人を襲ったりしないでしょうな（笑）。<BR>・・・襲いません！（苦笑）・・・それにいきなり強くなったりもしないんですよね（・・・イマノトコロ・・・）<BR><BR>＞まったりしてて良かです。 <BR>・・・まったり・・・ですか？・・・お褒め頂けた様でありがとうございます。<BR>・・・何処がまったりなのか・・・？<BR><BR>＞ふむふむ、『お出かけ用アイテム』があると<BR>＞話が広がりそうですね。<BR>・・・はい、それは楽しみにして下さい。<BR><BR>・・・所でどらさん、<BR>＞たとえば…魔力中継用の”タリスマン”<BR>＞主人の魔力容量や性質によって使用できる数、有効範囲が<BR>＞制限される。…とか？<BR>これは、どう言うことか今一つ・・・？？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">�ǂ�</a></strong>  <i>2002/02/22 01:42:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">どら</a></strong>  <i>2002/02/22 01:42:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014309721fldxxo&id2=1008646676lnpowq&ff=on">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014309721fldxxo_id2_1008646676lnpowq_ff_on.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;���Ƃ��΁c���͒��p�p�́h�^���X�}���h<BR><BR>�^���X�}���F�아�A�����c���m�����Ǝ��̂悤�ȃC���[�W�ł���<BR>�@�@���m�����Ɩ؁A�΁A�������Ŗ��͂�t�^�������_���A����蓙�̃C���[�W�ŗǂ��Ǝv���܂��B<BR><BR>&gt;��l�̖��͗e�ʂ␫���ɂ���Ďg�p�ł��鐔�A�L���͈͂�<BR>&gt;���������B�c�Ƃ��H<BR><BR>�g�������l�^�����Ă��邽�߂ɂ͎�l�̋߂��ɂ��Ė��͂𗘗p���邩<BR>�����̖��͂������Ŏ����Ă���K�v������Ƃ������ɂ��Ăł��ˁB<BR><BR>�჌�x���̎g��������l���痣��Đl�^��ۂ��߂ɂ�<BR>��l�̖��͂𒆌p���邽�߂̃A�C�e�����g�p����B<BR>�A������͎�l���ɂƂ��Ă����͂���ɗ��o�������邱�ƂɂȂ邽��<BR>���S�ɂȂ��Ă��܂��B<BR><BR>   ���E���i�X���j�ł͏���͂͋ɔ��ʁB<BR>   �O�ł͎�l�̖��͒l�ɉ����Ď��͐��P�O���ȓ��Ől���\�B<BR>   �A�C�e���̎g�p�ł��̋����𐔂P�O�{���琔�P�O�O�O�{�ɐL�΂������o����B<BR><BR>���Ƃ���<BR>�h�N�g���̏ꍇ�A���͒l�͒�߂Ȃ̂łP�̂̎g�����ŃA�C�e�����g�p���Ă����P�O�O�������E�B<BR>�C�[�i�̏ꍇ�͖��͒l���傫���̂ŕ����̎g�����������Ƃ��o���邪�A���͂��i���ʂɁj���o����^�C�v�Ȃ̂�<BR>�L�������͔�r�I�Z���B<BR><BR>�~�X�g���X�̓X�ɂ���̂́h�Ђ��h���Ǘ����Ă���P�̂݁B<BR>�������L���͈͂͐��P�O�����A�^���X�}���𒆐S�ɔ��a��P�O���̌��E�����\�͂����邽��<BR>�Q�`�R�l�ŊO�o�ł���B�i���������p�ɒ����������ʂȃA�C�e���j<BR>�P�̗p�̐g�ɂ���^�C�v�Ȃ�S���̕����g����͂������A�h�Ђ��h�ȉ��͖��n�������̂�<BR>�����č���Ă��Ȃ��B<BR>----------------------------------------------------------------<BR>�����܂ŏ����K�v�͂Ȃ��������ȁi�O_�O�G�G�G�A�����܂ŁA�Ⴆ�΂Ƃ������ƂŁE�E�E<BR>----------------------------------------------------------------<BR><BR>���܂ł́h�ӂ��h�ȊO���O�o����ꍇ�h�Ђ��h���������邱�ƂɂȂ��Ă������E�E�E<BR>�E�E�E�h�����h�Ɓh�˂��h�́w�͂��߂Ă̂������x�Ȃ�Ă̂́@�ǂ��ł��傤�i�O�O
+&gt;たとえば…魔力中継用の”タリスマン”<BR><BR>タリスマン：護符、お守り…東洋風だと紙のようなイメージですが<BR>　　西洋風だと木、石、金属製で魔力を付与したメダル、首飾り等のイメージで良いと思います。<BR><BR>&gt;主人の魔力容量や性質によって使用できる数、有効範囲が<BR>&gt;制限される。…とか？<BR><BR>使い魔が人型をしているためには主人の近くにいて魔力を利用するか<BR>相応の魔力を自分で持っている必要があるという事にしてですね。<BR><BR>低レベルの使い魔が主人から離れて人型を保つためには<BR>主人の魔力を中継するためのアイテムを使用する。<BR>但しこれは主人側にとっても魔力を常に流出させられることになるため<BR>負担になってしまう。<BR><BR>   結界内（店内）では消費魔力は極微量。<BR>   外では主人の魔力値に応じて周囲数１０ｍ以内で人化可能。<BR>   アイテムの使用でその距離を数１０倍から数１０００倍に伸ばす事が出来る。<BR><BR>たとえば<BR>ドクトルの場合、魔力値は低めなので１体の使い魔でアイテムを使用しても数１００ｍが限界。<BR>イーナの場合は魔力値が大きいので複数の使い魔を持つことが出来るが、魔力を（無駄に）放出するタイプなので<BR>有効距離は比較的短い。<BR><BR>ミストレスの店にあるのは”ひぃ”が管理している１個のみ。<BR>ただし有効範囲は数１０ｋｍ、タリスマンを中心に半径約１０ｍの結界を作る能力があるため<BR>２～３人で外出できる。（愛が自分用に調整した特別なアイテム）<BR>単体用の身につけるタイプなら全員の分も使えるはずだが、”ひぃ”以下は未熟だったので<BR>あえて作っていない。<BR>----------------------------------------------------------------<BR>ここまで書く必要はなかったかな（＾_＾；；；、あくまで、例えばということで・・・<BR>----------------------------------------------------------------<BR><BR>今までは”ふく”以外が外出する場合”ひぃ”が引率することになっていたが・・・<BR>・・・”うさ”と”ねこ”の『はじめてのおつかい』なんてのは　どうでしょう（＾＾
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/02/22 21:55:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/02/22 21:55:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014382546dpuwf&id2=1008646676lnpowq&ff=on">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014382546dpuwf_id2_1008646676lnpowq_ff_on.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�l�A�킴�킴�̂��Ԏ����肪�Ƃ��������܂��B<BR>���^���X�}���F�아�A�����c���m�����Ǝ��̂悤�ȃC���[�W�ł���<BR>���@�@���m�����Ɩ؁A�΁A�������Ŗ��͂�t�^�������_���A����蓙�̃C���[�W�ŗǂ��Ǝv���܂��B<BR>���͒m���Ă����̂ł����A���͒��p�p�E�E�E���ĉ��𒆌p����̂���u���P���Ă��܂����̂��̂ŁE�E�E<BR><BR>���g�������l�^�����Ă��邽�߂ɂ͎�l�̋߂��ɂ��Ė��͂𗘗p���邩<BR>�������̖��͂������Ŏ����Ă���K�v������Ƃ������ɂ��Ăł��ˁB<BR>�E�E�E�ڂ����͌����Ă܂���ł������A�g�����̐l���͏�L�̌�҂Ɛݒ肵�Ă��܂��B�������A�჉���N�ł��푁���l���\�͂��K������^�C�v�Ƃ����łȂ��^�C�v������Ƒz�肵�Ă��܂��B<BR>�i�Ⴆ�΁A���l�Ԃł���~�X�g���X�n�E�X�̖ʁX�͏����i�K�Ől���\�͂��K�����Ă��܂��i���r���[�Ȕ��b�`�Ԃł����ǁE�E�E�j���A�C�[�i�̎g�����ł��锒�_�i�́[�����j�͔L�Ɨd�b�̍����ł�����l���\�͂�S���K�����Ă��܂���B���Ȃ݂ɔ��_�̃����N��D�E�E�E�j<BR>�E�E�E���Ȃ݂ɁA�g�Ђ��h�͉��̓X�O���ʖڂ��ƌ����ƁA�P�Ɏg�����Ƃ��Ă̔\�͂̏K��������ĂȂ���������E�E�E�i���j<BR>�i�E�E�E�������Ă��Ȃ�������ł͂Ȃ���ł��B�ꉞ�A�d�q�@��֘A�Z�p�̎��ʂɋ}�����������̂ŁE�E�E�i�΁j�E�E�E�����A����ȊO�ɂ��ޏ��ɂ͏����i�K�Œv���I�Ȏ�_���������̂ŁE�E�E�j<BR><BR>�ł�����A�i�~�X�g���X�n�E�X�̖ʁX�́j�w���o�����p�A�C�e���x�́A�g�����̎��l���\�͂̋����E����ׂ̈̕��ŁA�ʂ̏����i�ƌ����`�Ŋe���������Ă��܂��B<BR>�i�E�E�E�ƌ������A��l�̎��ӂł����l���o���Ȃ��ƐF�X�ƕs�ւł�����E�E�E�j<BR><BR>�E�E�E�ƁA��������Ȃ̂ł����E�E�E�E�E�E�ǂ�l�A�[�������܂����ł��傤���E�E�E�H<BR>�i�E�E�E�Ƃ͌����A���E�`���̖��͂𒆌p����^���X�}���Ȃ�āA�X�̉������ɒu���Ă��肻���ł����ǂˁE�E�E�j<BR><BR><BR><BR>�����܂ł́h�ӂ��h�ȊO���O�o����ꍇ�h�Ђ��h���������邱�ƂɂȂ��Ă������E�E�E<BR>���E�E�E�h�����h�Ɓh�˂��h�́w�͂��߂Ă̂������x�Ȃ�Ă̂́@�ǂ��ł��傤�i�O�O  <BR>�E�E�E�ʔ������ł��ˁE�E�E�E�E�E�g�˂��h�̎n�߂Ă̂��g�����Ċ����ŁA������Ƙb������Ă݂܂��B<BR>�i�E�E�E���肰�Ȃ��g�����h�������O�ɂȂ��Ă���͉̂��́E�E�E�H�j
+どら様、わざわざのお返事ありがとうございます。<BR>＞タリスマン：護符、お守り…東洋風だと紙のようなイメージですが<BR>＞　　西洋風だと木、石、金属製で魔力を付与したメダル、首飾り等のイメージで良いと思います。<BR>↑は知っていたのですが、魔力中継用・・・って何を中継するのか一瞬首を捻ってしまったのもので・・・<BR><BR>＞使い魔が人型をしているためには主人の近くにいて魔力を利用するか<BR>＞相応の魔力を自分で持っている必要があるという事にしてですね。<BR>・・・詳しくは言ってませんでしたが、使い魔の人化は上記の後者と設定しています。ただし、低ランクでも逸早く人化能力を習得するタイプとそうでないタイプがいると想定しています。<BR>（例えば、元人間であるミストレスハウスの面々は初期段階で人化能力を習得しています（中途半端な半獣形態ですけど・・・）が、イーナの使い魔である白雲（はーちゃん）は猫と妖獣の混血ですから人化能力を全く習得していません。ちなみに白雲のランクはD・・・）<BR>・・・ちなみに、“ひぃ”は何故店外が駄目かと言うと、単に使い魔としての能力の習得をやってなかったから・・・（爆）<BR>（・・・何もしていなかった訳ではないんです。一応、電子機器関連技術の収斂に急がしかったので・・・（笑）・・・ただ、それ以外にも彼女には初期段階で致命的な弱点があったので・・・）<BR><BR>ですから、（ミストレスハウスの面々の）『お出かけ用アイテム』は、使い魔の持つ人化能力の強化・安定の為の物で、個別の所持品と言う形で各自が持っています。<BR>（・・・と言うか、主人の周辺でしか人化出来ないと色々と不便ですから・・・）<BR><BR>・・・と、言う次第なのですが・・・・・・どら様、納得頂けましたでしょうか・・・？<BR>（・・・とは言え、結界形成の魔力を中継するタリスマンなんて、店の何処かに置いてありそうですけどね・・・）<BR><BR><BR><BR>＞今までは”ふく”以外が外出する場合”ひぃ”が引率することになっていたが・・・<BR>＞・・・”うさ”と”ねこ”の『はじめてのおつかい』なんてのは　どうでしょう（＾＾  <BR>・・・面白そうですね・・・・・・“ねこ”の始めてのお使いって感じで、ちょっと話を練ってみます。<BR>（・・・さりげなく“こう”が員数外になっているのは何故・・・？）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ǂ�</strong>  <i>2002/02/25 20:27:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>どら</strong>  <i>2002/02/25 20:27:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014636451uvvpp&id2=1008646676lnpowq&ff=on">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014636451uvvpp_id2_1008646676lnpowq_ff_on.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[�������܂����ł��傤���E�E�E�H<BR>�͂��i�O�O�@�Ƃ����܂����A<BR>�킽�����l���Ă��̂́w�O�֏o����_���x�Ɓw���o�����A�C�e���x��<BR>�ǂ̕ӂŐ܂荇��������̂��z�����Ă������ł�����B<BR><BR>���g�˂��h�̎n�߂Ă̂��g�����Ċ����ŁA������Ƙb������Ă݂܂��B<BR>�y���݂ɂ��Ă܂����B<BR><BR><BR>���i�E�E�E���肰�Ȃ��g�����h�������O�ɂȂ��Ă���͉̂��́E�E�E�H�j <BR><BR>��͂�A�����̎q�̂ق����������肵�Ă�������Ȃ��ł����B<BR>�w�͂��߂Ă̂������x�́A������ƃI�}�k�P�Ȃق����������ȁc�Ɓi�O-�O�G
+＞納得頂けましたでしょうか・・・？<BR>はい（＾＾　といいますか、<BR>わたしが考えてたのは『外へ出ちゃダメ』と『お出かけアイテム』を<BR>どの辺で折り合いをつけるのか想像してただけですから。<BR><BR>＞“ねこ”の始めてのお使いって感じで、ちょっと話を練ってみます。<BR>楽しみにしてますぅ。<BR><BR><BR>＞（・・・さりげなく“こう”が員数外になっているのは何故・・・？） <BR><BR>やはり、元女の子のほうがしっかりしてそうじゃないですか。<BR>『はじめてのおつかい』は、ちょっとオマヌケなほうが可愛いかな…と（＾-＾；
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/03/03 11:58:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/03/03 11:58:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015124316bifvxg&id2=1008646676lnpowq&ff=on">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015124316bifvxg_id2_1008646676lnpowq_ff_on.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������A�X�V���������v���܂����A�ꉞ�����Ă݂��̂ł�����ƍڂ��Ēu���܂��B<BR>�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<BR>�@�E�p�_�@��i�G���N�g���b�N�E�C�[�i�j<BR>�@�Ƃ���X�̖^�������Z1�N�̒j�q�w���A�ƌ����͉̂��̎p�i�΁j�E�E�E���̐��̂́A�d����Z�����`�i�Ȃ̂��H�{���ɂ����Ȃ̂��H�j�̖��@�����G���N�g���b�N�E�C�[�i���̐l�ł���B���i�͏����w�̒Ⴂ���̂̐����Ȕ��N�i���N�H�j�����A�l�X�̊�@���@�m�����\�ΑO��̈��炵�������ւƕϐg���ʂ����A�u�ϐg�v�̊|�����̌�ɋ����ɍ��n�ɋ��̉����̂��ꂽ�ߑ���Z���Ė��@�����ɕϐg����B<BR>�@���Ă͕��}�Ȏ������Z���i���j�ł��������A���ʂ̎���ɂ��i�E�E�E�i���΁j�j���̎p�ƂȂ�i�ڂ����͑�ܘb�ɂāj�B���@�����C�[�i�ƂȂ�ƁA���̐��i�����`�̖��@�����炵���i�H�j��ς��Ă��܂����Ƃɏ��Ȃ���ʋ�Y�������ƂɂȂ��Ă���l���B<BR>�@��X������y�o���Ă����p�_�Ƃ̌���F�Z���󂯌p���ł����̖��͈͂ٗl�Ȃ܂łɍ����B���ׁ̈A���̐���ׂ̈������ăC�[�i�ɂ̓��X�g���N�V�����E���[�h�i�ߑ������̏�ԁA�w��̃}�W�J���E�o�b�e���[�ɂ�薂�͂��z���E���E������j�A�`���[�W�E���[�h�i�ߑ������̏�ԁA�w��̃}�W�J���E�o�b�e���[�����͂��z������j�A�f�B�X�`���[�W�E���[�h�i�ߑ������̂��锒�̏�ԁA�w��̃}�W�J���E�o�b�e���[�����͂���o����j�̎O�`�Ԃ����B�f�B�X�`���[�W�E���[�h���ɕ��K�E�Z�̃C�[�i�E���C�g�j���O�͍ő�o��1,000Gw�̈З͂��ւ�B<BR>����\�͓��F���E�d�C�E�d�g���Ɋւ��閂�@�i���̈З͂͋��낵���܂łɍ��o�́E�E�E�j<BR>���Z�F�����A�̈�S�ʁE�E�E��<BR><BR>�@�E���_�i�́[�����j<BR>�@�p�_�Ƃ̃y�b�g�ł��锒�L�A�ƌ����͉̂��̎p�i�΁j�E�E�E���̐��̂͑p�_�ƂɎg�����Ƃ��Ďd���闋�L�ł���B���݂̓C�[�i���ƈ�Ɏd���Ă���B<BR>�@���i�͕��ʂ̔L�̐U������Ă��邪�A��c�ɑ�d�Ə̂��ꂽ���b�����邱�Ƃ��ւ�Ɏv���Ă���B���̎��������āA�g�́[�����h�ƌĂ΂��̂͂��Ȃ�S�O�Ȃ��Ƃ炵���B<BR>����\�͓��F�d���U���A�������s�A�󒆕��s�A������A�Î��\�́A�l���b���A�p�_�Ƃ̐l�Ԃ̋��ꏊ��m�铙�X�E�E�E<BR>���Z�F�H�i�E�E�E�L�ł��̂ŁE�E�E�j<BR>�����N�FD<BR>�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<BR>�ƁA����ȕ��ł��B<BR>��芸�����A�C�[�i�҂̍\�z���o���ė������Ƃ����E�E�E���̂����A�{�ҁA�h�N�g���ҁA�C�[�i�ҁA���ꂼ��o���čs�����Ǝv���Ă��܂��B
+いずれ、更新させたく思いますが、一応書いてみたのでちょっと載せて置きます。<BR>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<BR>　・叢雲　稲生（エレクトリック・イーナ）<BR>　とある街の某私立高校1年の男子学生、と言うのは仮の姿（笑）・・・その正体は、電光を纏う正義（なのか？本当にそうなのか？）の魔法少女エレクトリック・イーナその人である。普段は少し背の低いものの精悍な美青年（少年？）だが、人々の危機を察知するや十歳前後の愛らしい少女へと変身を果たし、「変身」の掛け声の後に金髪に黒地に金の縁取りのされた衣装を纏って魔法少女に変身する。<BR>　かつては平凡な私立高校生（♂）であったが、諸般の事情により（・・・（高笑））この姿となる（詳しくは第五話にて）。魔法少女イーナとなると、その性格が正義の魔法少女らしく（？）一変してしまうことに少なからぬ苦悩を持つことになっている様だ。<BR>　代々魔女を輩出してきた叢雲家の血を色濃く受け継いでかその魔力は異様なまでに高い。その為、その制御の為もあってイーナにはリストリクション・モード（衣装が黒の状態、背後のマジカル・バッテリーにより魔力を吸収・相殺させる）、チャージ・モード（衣装が紫の状態、背後のマジカル・バッテリーが魔力を吸収する）、ディスチャージ・モード（衣装が青味のある白の状態、背後のマジカル・バッテリーが魔力を放出する）の三形態をもつ。ディスチャージ・モード時に放つ必殺技のイーナ・ライトニングは最大出力1,000Gwの威力を誇る。<BR>特殊能力等：雷・電気・電波等に関する魔法（その威力は恐ろしいまでに高出力・・・）<BR>特技：剣道、体育全般・・・等<BR><BR>　・白雲（はーちゃん）<BR>　叢雲家のペットである白猫、と言うのは仮の姿（笑）・・・その正体は叢雲家に使い魔として仕える雷猫である。現在はイーナこと稲生に仕えている。<BR>　普段は普通の猫の振りをしているが、先祖に大妖と称された雷獣がいることを誇りに思っている。その事もあって、“はーちゃん”と呼ばれるのはかなり心外なことらしい。<BR>特殊能力等：電撃攻撃、高速走行、空中歩行、超跳躍、暗視能力、人語を話す、叢雲家の人間の居場所を知る等々・・・<BR>特技：？（・・・猫ですので・・・）<BR>ランク：D<BR>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<BR>と、こんな物です。<BR>取り敢えず、イーナ編の構想も出来て来たことだし・・・そのうち、本編、ドクトル編、イーナ編、それぞれ出して行こうと思っています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">�ǂ�</a></strong>  <i>2002/03/14 00:02:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">どら</a></strong>  <i>2002/03/14 00:02:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016031723lbcbxa&id2=1008646676lnpowq&ff=on">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016031723lbcbxa_id2_1008646676lnpowq_ff_on.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ꉞ�A�����̊G�ł��ƂȂ��ڂɕ`���Ă݂܂����B<BR>�i���g�����āA�ڂ������炩���j<BR><a href="http://ex-dora.cool.ne.jp/ena-ss01.jpg" target="_blank">http://ex-dora.cool.ne.jp/ena-ss01.jpg</a>
+一応、自分の絵でおとなし目に描いてみました。<BR>（頭身さげて、目つきをやわらかく）<BR><a href="http://ex-dora.cool.ne.jp/ena-ss01.jpg" target="_blank">http://ex-dora.cool.ne.jp/ena-ss01.jpg</a>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/mistress6.html" target="_blank">��Z�b������ɂ͂������N���b�N�B</a></strong>  <i>2002/04/04 01:47:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/mistress6.html" target="_blank">第六話を見るにはここをクリック。</a></strong>  <i>2002/04/04 01:47:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017852457tdhmcht&id2=1008646676lnpowq&ff=on">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017852457tdhmcht_id2_1008646676lnpowq_ff_on.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z"�˂�"�����̂��o�����E�������҂ł��B�������A���񑩂Ȃ��炻���܂Ŗ|�M����邩�B
+【推薦文】"ねこ"ちゃんのお出かけ・買い物編です。しかし、お約束ながらそこまで翻弄されるか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/04 12:41:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/04 12:41:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017891704gagkqj&id2=1008646676lnpowq&ff=on">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017891704gagkqj_id2_1008646676lnpowq_ff_on.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-ROM���Ă܂����c�\����Ȃ��c<BR>�Ƃ����킯�Ŋ��z�ł��B<BR><BR>���I�ɂ����Ȃ��Ǝv�����̂́A�Q�b�̂����C�ƂT�b�̖��@�����ł����B�Q�b�A�h�˂��h����񂪂����ӂ����Ă���̂��悢�ł��ˁB��͂��{�Ȃ̂��c����ɁA������Ɩ��t���Ƃ��āA���ɂȂ��������ƁA���̊֘A����������Ă���A�������납�����ł��B<BR><BR>�T�b�c�����Ȃ��c�Ȃɂ������ȂƂ͂��܂������܂��񂪁A���킢������Ƃ������R�Ŗ��@�����Ƃ����̂������ȁc�C�[�i�c<BR><BR>�R�b�c������Ƃтт����c����ς�A���́A������������ł��傤���c<BR><BR>�U�b�c�����́h�ӂ��h�̗͂������̂��A�[���ł��B�܂�����͂�������A�ƂɋA���Ă���́h�˂��h�����̃t�@�b�V�����V���[�������Əڍׂɐ������Ăق������������c<BR><BR>�ǂ炳��̃C���X�g�c�����ł��ˁB���킢�炵���āA��[�炩���������łĂ܂��B���[��C�C��<BR><BR>�d�g�d����ROM���Ă܂����c
+ROMってました…申し訳ない…<BR>というわけで感想です。<BR><BR>私的にいいなあと思ったのは、２話のお風呂と５話の魔法少女でした。２話、”ねこ”ちゃんがあたふたしているのがよいですね。やはり基本なのか…それに、ちょっと味付けとして、元になった動物と、水の関連性が書かれてあり、おもしろかったです。<BR><BR>５話…いいなあ…なにがいいなとはうまく言えませんが、かわいいからという理由で魔法少女というのがいいな…イーナ…<BR><BR>３話…ちょっとびびった…やっぱり、その、やっちゃったんでしょうか…<BR><BR>６話…福引は”ふく”の力だったのか、納得です。まあ今回はそれよりも、家に帰ってからの”ねこ”ちゃんのファッションショーをもっと詳細に説明してほしかったかも…<BR><BR>どらさんのイラスト…いいですね。かわいらしくて、やーらかい感じがでてます。うーんイイ♪<BR><BR>電波妖精はROMってました…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/04 21:31:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/04 21:31:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017923486iqysiar&id2=1008646676lnpowq&ff=on">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017923486iqysiar_id2_1008646676lnpowq_ff_on.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́I���񑩂̃t�@�b�V�����V���[�ł��i�΁j�B<BR>�ӊO�������̂́A�R�X�v���ɑ���Ȃ�������ɁA�X�[�c�ȂǂƂ����^�ʖڂȂ��̂܂Œ��Ă����ƁA���ȁi���j�B<BR>�ŁA�������B���������i�΁j�B<BR>���X�̐l�A���킢�����ɁE�E�E�B
+読んだバイ♪<BR>わっはっは！お約束のファッションショーです（笑）。<BR>意外だったのは、コスプレに走らなかった上に、スーツなどという真面目なものまで着てたこと、かな（爆）。<BR>で、福引き。反則だぁ（笑）。<BR>お店の人、かわいそうに・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/04/04 22:46:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/04/04 22:46:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017927977vliomh&id2=1008646676lnpowq&ff=on">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017927977vliomh_id2_1008646676lnpowq_ff_on.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C���l�Amk8426�l�A�����̂����z���肪�Ƃ��������܂��B<BR><BR>�����I�ɂ����Ȃ��Ǝv�����̂́A�Q�b�̂����C�ƂT�b�̖��@�����ł����B<BR>�����ł����A�ʔ����ƌ�����̂͗�݂ɂȂ�܂��B�C�[�i�҂͏�����悪�o���܂����̂ŁA�߂����ɂ����\�ł��邩�Ǝv���܂��B<BR><BR>���܂�����͂�������A�ƂɋA���Ă���́h�˂��h�����̃t�@�b�V�����V���[�������Əڍׂɐ������Ăق������������c<BR>�E�E�E�E�E�E�i�J�n�C�^�����q�j<BR>�W�c�n�A��������������̋C�͂������Ȃ������ƌ������E�E�E�E�E�E������ƃL���h�C�b�ɂȂ肻���Ȃ̂ŁA�F�l�̌�z���ɂ��C�����悤���ȁE�E�E�Ǝv���܂��ĂˁB�i��΁j<BR><BR>���ǂ炳��̃C���X�g�c�����ł��ˁB���킢�炵���āA��[�炩���������łĂ܂��B���[��C�C��<BR>�����ł���ˁI�l�������v���܂��B�����ł���ˁB<BR>�ǂ炳��̃C���X�g�ɂ́A�{���ɂ��肪�������̂ł��B<BR><BR>���ӊO�������̂́A�R�X�v���ɑ���Ȃ�������ɁA�X�[�c�ȂǂƂ����^�ʖڂȂ��̂܂Œ��Ă����ƁA���ȁi���j�B<BR>�E�E�E�ƌ������A�~�X�g���X�̃t�@�~���A�̖ʁX�́A���̎p���̂��R�X�v������Ȃ��ł����B�X�[�c�Ƃ��̐^�ʖڂȈߑ��͉���g����@������邱�Ƃł��傤�ˁB<BR><BR>���ŁA�������B���������i�΁j�B<BR>�����X�̐l�A���킢�����ɁE�E�E�B <BR>�E�E�E�{���ɁE�E�E<BR>�ł��A���̔\�͂������h�ӂ��h���eB+�f���鏊�Ȃł����ˁB�i�g�����Ƃ��ẮA������čŋ��̔\�͂ƌ�����ł��傤�H�j
+ノイン様、mk8426様、早速のご感想ありがとうございます。<BR><BR>＞私的にいいなあと思ったのは、２話のお風呂と５話の魔法少女でした。<BR>そうですか、面白いと言われるのは励みになります。イーナ編は少し企画が出来ましたので、近い内にも発表できるかと思います。<BR><BR>＞まあ今回はそれよりも、家に帰ってからの”ねこ”ちゃんのファッションショーをもっと詳細に説明してほしかったかも…<BR>・・・・・・（カハイタワラヒ）<BR>ジツハ、それを欠くだけの気力が続かなかったと言うか・・・・・・ちょっとキワドイ話になりそうなので、皆様の御想像にお任せしようかな・・・と思いましてね。（苦笑）<BR><BR>＞どらさんのイラスト…いいですね。かわいらしくて、やーらかい感じがでてます。うーんイイ♪<BR>そうですよね！僕もそう思います。いいですよね。<BR>どらさんのイラストには、本当にありがたいものです。<BR><BR>＞意外だったのは、コスプレに走らなかった上に、スーツなどという真面目なものまで着てたこと、かな（爆）。<BR>・・・と言うか、ミストレスのファミリアの面々は、その姿自体がコスプレじゃないですか。スーツとかの真面目な衣装は何れ使われる機会もあることでしょうね。<BR><BR>＞で、福引き。反則だぁ（笑）。<BR>＞お店の人、かわいそうに・・・。 <BR>・・・本当に・・・<BR>でも、この能力こそが”ふく”が‘B+’たる所以ですしね。（使い魔としては、これって最強の能力と言えるでしょう？）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">��</a></strong>  <i>2002/04/05 20:58:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">ど</a></strong>  <i>2002/04/05 20:58:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018007935vccrkb&id2=1008646676lnpowq&ff=on">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018007935vccrkb_id2_1008646676lnpowq_ff_on.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;���ǂ炳��̃C���X�g�c�����ł��ˁB���킢�炵���āA��[�炩���������łĂ܂��B���[��C�C��<BR>&gt;�����ł���ˁI�l�������v���܂��B�����ł���ˁB<BR><BR>���肪�Ƃ��������܂����i�Oo�O/<BR>�x�M�ł����ǁA�ۂ��ۂ��`���܂��̂ł�낵���ł��B<BR><BR>-----------------------<BR>����͔����Ɂh�Ђ��h�����C���̂悤�ȁc<BR>�`���b�g���������i�O�O
+&gt;＞どらさんのイラスト…いいですね。かわいらしくて、やーらかい感じがでてます。うーんイイ♪<BR>&gt;そうですよね！僕もそう思います。いいですよね。<BR><BR>ありがとうございますぅ（＾o＾/<BR>遅筆ですけど、ぽちぽち描きますのでよろしくです。<BR><BR>-----------------------<BR>今回は微妙に”ひぃ”がメインのような…<BR>チョット可愛いかも（＾＾
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">�閲</a></strong>  <i>2002/04/11 20:10:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-yoko@giga.ocn.ne.jp" target="_blank">夜夢</a></strong>  <i>2002/04/11 20:10:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018523411mrtiqg&id2=1008646676lnpowq&ff=on">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018523411mrtiqg_id2_1008646676lnpowq_ff_on.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�x�M�ł����ǁA�ۂ��ۂ��`���܂��̂ł�낵���ł��B<BR>�ǂ�l���肪�Ƃ��������܂��B����ł́A�y���݂ɑ҂����Ē����܂��B<BR><BR>&gt;����͔����Ɂh�Ђ��h�����C���̂悤�ȁc<BR>�E�E�E���������E�E�E�������܂��ˁB�����Ă��鎞�́A����ȂɈӎ����Ȃ���������ǁE�E�E��͂�A�g�Ђ��h�ɂ͂�����ƈ�������܂�����ˁB�i�΁j<BR><BR><BR>���āA�b��ς��āE�E�E<BR>TS�L�����̓]����̐��i�p�^�[���̏��l�@���E�E�E<BR>�܂��傫�������ċ��ی^�Ǝ�e�^�ɕ�������Ǝv���܂��B�ȒP�Ɍ����āE�E�E<BR>�@���ی^���]���̎�����ے肷��B<BR>�@��e�^���]���̎������m�肷��B<BR>�E�E�E�Ŏ�e�^�𕪂����<BR>�@�@�K�x�����^�������I�Ȑ��i�ɓK�x�ɕω����铙<BR>�@�A�K���r��^���ω��������ƂɌ˘f������Ԃɂ��铙<BR>�@�B�ߏ�K���^���ٗl�ɏ��炵���Ȃ��Ă��܂���<BR>�@�C�K�����ی^���ω����Ă��邱�Ƃ͔F�߂Ă��A�����܂Ō��̐��ɍS�铙<BR>�@�D���z�^�i�H�j�����炵�������ł͂Ȃ����A���̐��ɍS���ł��Ȃ��B<BR>�E�E�E�ƁA����ʂ��v���t���܂��B�i�Ƃ͌����A�����͏����ω����Ă��������Ƃ͎v���܂����E�E�E�s���S�ȕ��ނ��Ǝv���܂����ǂˁE�E�E�j<BR>���̕��ɂ̓o��l���͇A��C�̃p�^�[���������悤�Ɏv���܂��ˁB�@�Ƃ��D���Ɓe�G���f���ʂ��p�ӂ�����ł����ȁE�E�E<BR><BR>�~�X�g���X�`�ł́A�h�˂��h���A�A�h�����h���B�A�h�����h���ꉞ�C�̈���ƌ�������ŏ����Ă��܂��B<BR>�g�Ђ��h��g�ӂ��h�͂����Č����·D�Ȃ̂��ȁE�E�E�H<BR>�F����̖ڂɂ͂ǂ��f���Ă��܂��H
+&gt;遅筆ですけど、ぽちぽち描きますのでよろしくです。<BR>どら様ありがとうございます。それでは、楽しみに待たせて頂きます。<BR><BR>&gt;今回は微妙に”ひぃ”がメインのような…<BR>・・・そうかも・・・そう取れますね。書いている時は、そんなに意識しなかったけれど・・・やはり、“ひぃ”にはちょっと愛着ありますからね。（笑）<BR><BR><BR>さて、話を変えて・・・<BR>TSキャラの転換後の性格パターンの小考察を・・・<BR>まず大きく分けて拒否型と受容型に分けられると思います。簡単に言って・・・<BR>　拒否型→転換の事実を否定する。<BR>　受容型→転換の事実を肯定する。<BR>・・・で受容型を分けると<BR>　①適度順応型→女性的な性格に適度に変化する等<BR>　②適応途上型→変化したことに戸惑った状態にある等<BR>　③過剰適応型→異様に女らしくなってしまう等<BR>　④適応拒否型→変化していることは認めても、あくまで元の性に拘る等<BR>　⑤超越型（？）→女らしくする訳ではないが、元の性に拘る訳でもない。<BR>・・・と、これ位が思い付きます。（とは言え、これらは順次変化していく物だとは思いますし・・・不完全な分類だと思いますけどね・・・）<BR>この文庫の登場人物は②や④のパターンが多いように思いますね。①とか⑤だと‘萌え’る場面が用意し難そうですしな・・・<BR><BR>ミストレス～では、”ねこ”が②、”うさ”が③、”こう”が一応④の亜種と言うつもりで書いています。<BR>“ひぃ”や“ふく”はしいて言えば⑤なのかな・・・？<BR>皆さんの目にはどう映っています？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/mistress7.htm" target="_blank">���̂V������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/05 09:02:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/mistress7.htm" target="_blank">その７を見るにはここをクリック。</a></strong>  <i>2002/05/05 09:02:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020556933xyxmag&id2=1008646676lnpowq&ff=on">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020556933xyxmag_id2_1008646676lnpowq_ff_on.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�V���ĂԁI�@�n���ĂԁI�@�l���ĂԁI�@����|���Ɓc�c�c�c���A����A�����u�d�C�n�v�̃q�g������i�΁j�B
+【推薦文】天が呼ぶ！　地が呼ぶ！　人が呼ぶ！　悪を倒せと…………あ、いや、同じ「電気系」のヒトだから（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/mistress8.htm" target="_blank">���̂W������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/05 09:07:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/mistress8.htm" target="_blank">その８を見るにはここをクリック。</a></strong>  <i>2002/05/05 09:07:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020557244ngimr&id2=1008646676lnpowq&ff=on">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020557244ngimr_id2_1008646676lnpowq_ff_on.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�c�c������̍��A�������́i�܂�܂ł����c�c�΁j�B
+【推薦文】……一方その頃、狗美さんは（まんまですやん……笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/05/05 12:57:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/05/05 12:57:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020571027khietn&id2=1008646676lnpowq&ff=on">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020571027khietn_id2_1008646676lnpowq_ff_on.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������c�C�[�i���B<BR>�h�W�����Ŗ��@�����c���񑩂Ɏv�킸�ɂ��Ƃ������Ă��܂��܂��B<BR>���[��B�ϐg���͂��܂��āA�g�C���ɋ삯���ނƂ���Ƃ����G��T�ł����B<BR><BR>���̂W�̂ق��́A�������c�X�N�[�^�[�Ƃ��ߒ����āc<BR>�Ȃ�Ă������񂾁c<BR><BR>�ǂ�����U�Ɗ֌W�������āA�Ȃ񂩂��������̂��Ă����ł��ˁB<BR>�������납�����ł��B
+うおおお…イーナだ。<BR>ドジっ娘で魔法少女…お約束に思わずにやりとさせられてしまいます。<BR>うーん。変身がはじまって、トイレに駆け込むところとかが秀逸Tでした。<BR><BR>その８のほうは、狗美さん…スクーターとため張って…<BR>なんてすごいんだ…<BR><BR>どちらも６と関係があって、なんかこういうのっていいですね。<BR>おもしろかったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/05 21:34:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/05 21:34:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020602089fneaim&id2=1008646676lnpowq&ff=on">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020602089fneaim_id2_1008646676lnpowq_ff_on.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��͂��́I<BR><BR>�s�r�̑O�G�ꂪ����܂����B����Ȃ�O�o���ł����S�i�����H�j�B<BR>�������͂������A�������́B�X�[�p�[�}�[�P�b�g�Ζ��̃��^�N�V������A�����x�������߂܂������������x�@�ɘA�����Ĉ����n�����΂���ł�����˂��B<BR>�������́A���̓X�̏]�ƈ��̘J���𖳂ɂ���A�ڗ�ȍs�ׂł��B<BR>���Əꍇ�ɉ��������@�̎g�������s����ȃC�[�i����񂪂��킢���i���j�B<BR><BR>�T�����͎����U�O�����ȏ�ő���܂����i�΁j�B�������B<BR>�}��n��i���ɑ喴�c�ߕӁj�ł̓X�N�[�^�[���g�����Ђ������肪�p�����Ă���A�܂��Ɛl����������Ă��Ȃ���ł���B����ǋ������ɂ����J�肢�܂��傤���E�E�E�Ȃ�Ăˁi���j�B<BR>�f�p�[�g�̕������E�E�E�܂�������ȃI�`���������Ȃ�āi�΁j�B
+読んだバイ♪<BR>わっはっはっは！<BR><BR>ＴＳの前触れがありますか。それなら外出中でも安心（何が？）。<BR>万引きはいかんよ、万引きは。スーパーマーケット勤務のワタクシも先日、私服警備員が捕まえた万引きを警察に連絡して引き渡したばかりですからねぇ。<BR>万引きは、その店の従業員の労働を無にする、卑劣な行為です。<BR>時と場合に応じた魔法の使い方が不得手なイーナちゃんがかわいい（爆）。<BR><BR>狼少女は時速６０ｋｍ以上で走れますか（笑）。さすが。<BR>筑後地区（特に大牟田近辺）ではスクーターを使ったひったくりが頻発しており、まだ犯人が検挙されていないんですよ。こんど狗美さんにご足労願いましょうか・・・なんてね（爆）。<BR>デパートの福引き・・・まさかこんなオチがあったなんて（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/06 08:16:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/06 08:16:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020640577norqiiy&id2=1008646676lnpowq&ff=on">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020640577norqiiy_id2_1008646676lnpowq_ff_on.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��
+すばらしい、実にすばらしい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2002/05/06 10:36:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2002/05/06 10:36:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020648986sfjoxy&id2=1008646676lnpowq&ff=on">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020648986sfjoxy_id2_1008646676lnpowq_ff_on.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C���l�Amk8426�l�A���̔z�B�l�l�A�����̊��z���肪�Ƃ��������܂��B<BR><BR>�����[��B�ϐg���͂��܂��āA�g�C���ɋ삯���ނƂ���Ƃ����G��ł����B<BR>���s�r�̑O�G�ꂪ����܂����B����Ȃ�O�o���ł����S�i�����H�j�B<BR>�������J�n����I���܂ł�����x�̎��ԍ�������̂ŁA���̊Ԃɐl�ڂɕt���Ȃ����ցE�E�E<BR>�E�E�E�ƌ����̂��A�C�[�i�̎���Ȗ�ł����E�E�E�f�p�[�g���Ől�ڂɂ��Ȃ������ĉ���??�Ǝ��M���ɖ����Ă��肵�܂����B�i���j<BR><BR>�����Əꍇ�ɉ��������@�̎g�������s����ȃC�[�i����񂪂��킢���i���j�B<BR>�E�E�E�ƌ������A�ޏ��̏ꍇ�E�E�E�h������h�ƌ�������m��Ȃ����ɖ�肪���肻���ł����ǂˁE�E�E�i�J�n�C�^�����q�j<BR>�i��^�����ł������ł��S�͓������āE�E�E�ǂ������ł���ˁE�E�E����ɋZ�̃��p�[�g���[���܂����Ȃ����E�E�E�j<BR><BR>�����̂W�̂ق��́A�������c�X�N�[�^�[�Ƃ��ߒ����āc<BR>���Ȃ�Ă������񂾁c<BR>���T�����͎����U�O�����ȏ�ő���܂����i�΁j�B�������B<BR>�E�E�E�i�J�n�C�^�����q�j<BR>�E�E�E�ق�A�ݒ�W�ɏ����Ă��邶��Ȃ��ł����h�������s�h�\�͎҂����āE�E�E<BR>�Ƃ͌����A���ꂾ�����Ⴀ�A�ǐՂ͓�������ł��傤�B�����Ɏc�邨���̏L�Ղ������Ă̂��̒ǐՌ��ł���B<BR><BR>���Ȃ݂ɁA�T�͓����𐔓��ԒǐՂ��āi�ƌ������ǂ��񂵂āj��J���ނ����Ƃ����߂܂���ƌ�����̎d�������܂��B<BR>����̃X�N�[�^�[�j�͋������̓����Ɖ����Ă����̂ł���B�i���j
+ノイン様、mk8426様、夢の配達人様、早速の感想ありがとうございます。<BR><BR>＞うーん。変身がはじまって、トイレに駆け込むところとかが秀逸でした。<BR>＞ＴＳの前触れがありますか。それなら外出中でも安心（何が？）。<BR>女性化開始から終了まである程度の時間差があるので、その間に人目に付かない所へ・・・<BR>・・・と言うのが、イーナの事情な訳ですが・・・デパート内で人目につかない所って何処??と執筆中に迷ってたりしました。（爆）<BR><BR>＞時と場合に応じた魔法の使い方が不得手なイーナちゃんがかわいい（爆）。<BR>・・・と言うか、彼女の場合・・・”手加減”と言う物を知らない所に問題がありそうですけどね・・・（カハイタワラヒ）<BR>（暮／何時でも何処でも全力投球って・・・良し悪しですよね・・・それに技のレパートリーもまだ少ないし・・・）<BR><BR>＞その８のほうは、狗美さん…スクーターとため張って…<BR>＞なんてすごいんだ…<BR>＞狼少女は時速６０ｋｍ以上で走れますか（笑）。さすが。<BR>・・・（カハイタワラヒ）<BR>・・・ほら、設定集に書いてあるじゃないですか”高速走行”能力者だって・・・<BR>とは言え、それだけじゃあ、追跡は難しかったでしょう。微かに残るお肉の臭跡もあってのあの追跡劇ですよ。<BR><BR>ちなみに、狼は得物を数日間追跡して（と言うか追い回して）疲労困憊したところを捕まえると言う狩の仕方をします。<BR>今回のスクーター男は狗美さんの得物と化していたのですよ。（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/18123055/e-ena01.htm" target="_blank">�\�񕕗d�ґ��b������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/15 19:59:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/18123055/e-ena01.htm" target="_blank">十二封妖編第一話を見るにはここをクリック。</a></strong>  <i>2002/05/15 19:59:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021460347ebpot&id2=1008646676lnpowq&ff=on">APPEND 50</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021460347ebpot_id2_1008646676lnpowq_ff_on.cgi">APPEND 50</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�d�C�n���@�����̃V���[�Y���X�^�[�g�I�@�������A�C�[�i����񂪕��ʂɖ��@�������Ă�c�c�i�΁j�B
+【推薦文】電気系魔法少女のシリーズがスタート！　おおっ、イーナちゃんが普通に魔法少女してる……（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/15 21:47:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/15 21:47:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021466872kospn&id2=1008646676lnpowq&ff=on">APPEND 51</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021466872kospn_id2_1008646676lnpowq_ff_on.cgi">APPEND 51</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A���Ɂu�C�[�i�v���Ɨ���������Ƃ��ē����o���܂����ˁB<BR>�܂�Łu�v���e�B�T���[�v���Ă��i���j�B<BR><BR>����͒u���Ƃ��āB<BR><BR>�������͂������łȂ��Ȃ����͓I�ȃX�g�[���[�ł��˂��B������ꂽ�\��̂́u���d�v�̍ĕ���ł����B������y���݂ł��ˁB<BR>��P�b�����ɂ��������ŏI����Ă܂����ˁB����ᑱ�����҂���������B
+読んだバイ♪<BR>おお、ついに「イーナ」が独立した物語として動き出しましたね。<BR>まるで「プ○ティサ○ー」ってか（爆）。<BR><BR>それは置いといて。<BR><BR>こっちはこっちでなかなか魅力的なストーリーですねぇ。解放された十二体の「封妖」の再封印ですか。今から楽しみですね。<BR>第１話も実にいい感じで終わってますしね。こりゃ続きが待ち遠しいや。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/05/15 22:55:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/05/15 22:55:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021470955eisqi&id2=1008646676lnpowq&ff=on">APPEND 52</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021470955eisqi_id2_1008646676lnpowq_ff_on.cgi">APPEND 52</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�C�[�i�ō���<BR>�����c���̃m���́c�����������薂�@�����c<BR>���ꂱ���������Ȗ��@�������Ǝ��͎v���܂����ł��B<BR><BR>�������A���@�����Ƃ����W�������ɂ͈ʒu���Ȃ�����A�I���W�i���e�B������܂��ˁB<BR>���@�̎g�������A�N�Z���g�������Ă��Ă����Ȃ��B<BR>�����������n�����g���Ȃ��Ƃ����Ƃ��낪���ʂ̖��@�����Ƃ͈���Ă悢�ł��B����͓d�g�d���̍D�݂ȍ�i�ł��B���݂�B
+イーナ最高♪<BR>ああ…このノリは…おもいっきり魔法少女…<BR>これこそが完璧な魔法少女だと私は思いましたです。<BR><BR>しかし、魔法少女というジャンルには位置しながらも、オリジナリティもありますね。<BR>魔法の使い方もアクセントが効いていていいなあ。<BR>だいたい雷系しか使えないというところが普通の魔法少女とは違ってよいです。これは電波妖精の好みな作品です。うみゅ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�u���e�B�b�V���t�F�C�X</strong>  <i>2002/05/16 00:15:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ブリティッシュフェイス</strong>  <i>2002/05/16 00:15:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021475748tnfmu&id2=1008646676lnpowq&ff=on">APPEND 53</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021475748tnfmu_id2_1008646676lnpowq_ff_on.cgi">APPEND 53</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�G���N�g���b�N�E�C�[�i���b�z<BR>�Z���̂œǂ݂₷�������c��ł����Ėʔ��������ł���B<BR>�~�X�g���X�͓ǂ�ł܂��񂯂ǁB<BR>����A�����͌���}���Ă����ׂ����B�Ƃ������A�Q�b�Ɋ��҂��Ă܂��B���@�������΁I<BR>���C�{�E�̓|�����Ƃ��A�C�f�A���悩�����ł��B�ł�
+【エレクトリック・イーナ第一話】<BR>短いので読みやすかった…んでもって面白かったですよ。<BR>ミストレスは読んでませんけど。<BR>いや、ここは元を抑えておくべきか。ともかく、２話に期待してます。魔法少女万歳！<BR>ライボウの倒し方とかアイデアもよかったです。では
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�u���e�B�b�V���t�F�C�X�Q</strong>  <i>2002/05/16 00:28:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ブリティッシュフェイス２</strong>  <i>2002/05/16 00:28:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021476495mggelad&id2=1008646676lnpowq&ff=on">APPEND 54</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021476495mggelad_id2_1008646676lnpowq_ff_on.cgi">APPEND 54</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̂V<BR>�ނށc�c�ǂ��������Ƙb��k��Ȃ��ƈ������Ƃ��C�[�i�a���ɂ͗�����Ȃ��̂��B�������C�[�i�����A�L�~�́c�c�����ȁB<BR>�ǂ炳��̊G���v���`�C�����B���͂�����ˁc���́B(����)<BR>�Ƃ����킯�ŉɂ��݂đk���ēǂ�ł݂܂��B�ł�<BR>
+その７<BR>むむ……どうやらもっと話を遡らないと稲生くんもといイーナ誕生には立ち会えないのか。しかしイーナちゃん、キミは……可愛いな。<BR>どらさんの絵もプリチイだし。黒はいいよね…黒は。(強調)<BR>というわけで暇をみて遡って読んでみます。では<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/16 06:09:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/16 06:09:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021496999jfmixry&id2=1008646676lnpowq&ff=on">APPEND 55</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021496999jfmixry_id2_1008646676lnpowq_ff_on.cgi">APPEND 55</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>���΂炵�����x���c�Q
+すばらしい、実にすばらしい<BR>すばらしいレベル…２
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2002/05/17 22:20:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2002/05/17 22:20:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021641640gtvxycy&id2=1008646676lnpowq&ff=on">APPEND 56</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021641640gtvxycy_id2_1008646676lnpowq_ff_on.cgi">APPEND 56</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����΂�́A�閲�Ō�����܂��B<BR>mk8426�l�A�m�C���l�A�v���e�B�V���t�F�C�X�l�A���̔z�B�l���܁A�����̂����z���肪�Ƃ�������܂��B<BR><BR>�ƁE�E�E�F�l�ւ̂��Ԏ��̂��̑O�ɁE�E�E<BR>���������A�C�[�i����񂪕��ʂɖ��@�������Ă�c�c�i�΁j�B <BR>�E�E�E�����v�����l���l�ʂ���񂾂낤�E�E�E�H<BR>�@�C�[�i���āA���͂����L��]��قǂ����ɁA��������o���ĂȂ�����A�l����ɉ�������ƁE�E�E�i���j<BR>�i�����Ƃ��ẮA�t�����^�̑��ǌR���̗l�Ȋ������낤���E�E�E�H�i�R�m�^�g�G�A���J�b�e�N�����q�g�n�i���j���C���m�_���E�H�j�j<BR><BR>�E�E�E�Ƃ�����A���z�̂��Ԏ����΁E�E�E<BR><BR>���܂�Łu�v���e�B�T���[�v���Ă��i���j�B<BR>�E�E�E���̗Ⴆ�A���ꗝ���ł��ĂȂ���ł����ǁE�E�E<BR>���������͂������łȂ��Ȃ����͓I�ȃX�g�[���[�ł��˂��B������ꂽ�\��̂́u���d�v�̍ĕ���ł����B������y���݂ł��ˁB<BR>����P�b�����ɂ��������ŏI����Ă܂����ˁB����ᑱ�����҂���������B <BR>�y���݂ɂ��ĉ������B�\��̂̕��d�ƃC�[�i�E�E�E�����āA�������⁖����������������X���~�̕���������肷��\��ł�����E�E�E�I<BR>�i�l�^�o���̋��ꂪ����ׁA�ꕔ�������g�p���Ă���܂��E�E�E�j<BR><BR>�������c���̃m���́c�����������薂�@�����c<BR>�����ꂱ���������Ȗ��@�������Ǝ��͎v���܂����ł��B<BR>�������������n�����g���Ȃ��Ƃ����Ƃ��낪���ʂ̖��@�����Ƃ͈���Ă悢�ł��B����͓d�g�d���̍D�݂ȍ�i�ł��B���݂�B <BR>�E�E�E���������ĖႦ��ƁA�{���Ɍ��h�̎���ł��B�i�[��j<BR><BR>���Z���̂œǂ݂₷�������c��ł����Ėʔ��������ł���B<BR>�E�E�E���肪�Ƃ��������܂��B<BR>���~�X�g���X�͓ǂ�ł܂��񂯂ǁB<BR>�E�E�E�i�J�n�q�^�����q�j<BR>�����C�{�E�̓|�����Ƃ��A�C�f�A���悩�����ł��B<BR>�E�E�E����́A�ق����Ēu���Ɛ����ɂȂ�Ȃ��`�Ǝv���āA����P��܂�����B�i�΁j<BR>�j�����Ƃ�������o���ɂȂ��Ă����̂Ȃ�A����������E�E�E<BR><BR>���ǂ炳��̊G���v���`�C�����B���͂�����ˁc���́B(����)<BR>�E�E�E�E�E�E���́g���́h���Ă̂́A�ǂ�Ȋ܈ӂ�����̂��A�`�g�C�ɂȂ�܂��ˁE�E�E�i�J�n�C�^�����q�j<BR>���Ƃ����킯�ŉɂ��݂đk���ēǂ�ł݂܂��B<BR>�E�E�E�ǂ�ł܂��y����Œ�����Ɨǂ��̂ł����E�E�E<BR><BR>���͂Ƃ�����A���߂Č��ǑՂ��܂��āA���肪�Ƃ��������܂��B
+こんばんは、夜夢で御座います。<BR>mk8426様、ノイン様、プリティシュフェイス様、夢の配達人さま、早速のご感想ありがとう御座います。<BR><BR>と・・・皆様へのお返事のその前に・・・<BR>＞おおっ、イーナちゃんが普通に魔法少女してる……（笑）。 <BR>・・・こう思った人何人位いるんだろう・・・？<BR>　イーナって、魔力だけ有り余るほどある上に、手加減を覚えてないから、人相手に何かすると・・・（汗）<BR>（感じとしては、フルメタの相良軍曹の様な感じだろうか・・・？（コノタトエ、ワカッテクレルヒトハナンニンイルノダロウ？））<BR><BR>・・・ともあれ、感想のお返事をば・・・<BR><BR>＞まるで「プ○ティサ○ー」ってか（爆）。<BR>・・・この例え、今一理解できてないんですけど・・・<BR>＞こっちはこっちでなかなか魅力的なストーリーですねぇ。解放された十二体の「封妖」の再封印ですか。今から楽しみですね。<BR>＞第１話も実にいい感じで終わってますしね。こりゃ続きが待ち遠しいや。 <BR>楽しみにして下さい。十二体の封妖とイーナ・・・そして、＊＊＊や＊＊＊も加わった丁々発止の物語をお送りする予定ですから・・・！<BR>（ネタバレの恐れがある為、一部伏字を使用しております・・・）<BR><BR>＞ああ…このノリは…おもいっきり魔法少女…<BR>＞これこそが完璧な魔法少女だと私は思いましたです。<BR>＞だいたい雷系しか使えないというところが普通の魔法少女とは違ってよいです。これは電波妖精の好みな作品です。うみゅ。 <BR>・・・こう言って貰えると、本当に光栄の至りです。（深礼）<BR><BR>＞短いので読みやすかった…んでもって面白かったですよ。<BR>・・・ありがとうございます。<BR>＞ミストレスは読んでませんけど。<BR>・・・（カハヒタワラヒ）<BR>＞ライボウの倒し方とかアイデアもよかったです。<BR>・・・あれは、ほおって置くと千日手になるなぁ～と思って、頭を捻りましたよ。（笑）<BR>ニヤリとさせられる出来になっていたのなら、嬉しい限り・・・<BR><BR>＞どらさんの絵もプリチイだし。黒はいいよね…黒は。(強調)<BR>・・・・・・この“黒は”ってのは、どんな含意があるのか、チト気になりますね・・・（カハイタワラヒ）<BR>＞というわけで暇をみて遡って読んでみます。<BR>・・・読んでまた楽しんで頂けると良いのですが・・・<BR><BR>何はともあれ、改めて御一読戴きまして、ありがとうございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/05/17 23:39:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/05/17 23:39:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021646396iwvcx&id2=1008646676lnpowq&ff=on">APPEND 57</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021646396iwvcx_id2_1008646676lnpowq_ff_on.cgi">APPEND 57</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����܂�Łu�v���e�B�T���[�v���Ă��i���j�B<BR>���E�E�E���̗Ⴆ�A���ꗝ���ł��ĂȂ���ł����ǁE�E�E<BR>���A����A���Ƃ��Ɓu�V�n���p�I�v�Ƃ���OVA�V���[�Y�̔ԊO�ғI���݂������u�v���e�B�T�~�[�v�����̊Ԃɂ��ЂƂ̓Ɨ�������i�ɂȂ��Ă������l���A����́u�~�X�g���X�E�E�E�v�Ɓu�C�[�i�v�̊֌W�Ɏ��Ă���ȂƁB<BR>���ꂾ���ł��B�悭�킩���Ⴆ�������o���āA�\����Ȃ��i���j�B
+＞＞まるで「プ○ティサ○ー」ってか（爆）。<BR>＞・・・この例え、今一理解できてないんですけど・・・<BR>あ、いや、もともと「天地無用！」というOVAシリーズの番外編的存在だった「プリティサミー」がいつの間にやらひとつの独立した作品になっていった様が、今回の「ミストレス・・・」と「イーナ」の関係に似ているなと。<BR>それだけです。よくわからん例えを持ち出して、申し訳ない（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kou_sa_to@yahoo.co.jp" target="_blank">kou</a></strong>  <i>2002/05/27 20:24:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022498666xlrxrb&id2=1008646676lnpowq&ff=on">APPEND 58</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022498666xlrxrb_id2_1008646676lnpowq_ff_on.cgi">APPEND 58</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F����A���߂܂��ā�<BR>�@�����I�@�v���Ԃ�Ɍ��Ă݂���Ȃ񂩂��b���Ɨ����Ă���H<BR>�ŏ��A�����w���������̐��ɂȂ��Ă��܂��ĂȂ͂��������̂ɁH<BR>�ނ��B�@�b�͂ǂ�ǂ�ς���Ă����Ȃ�<BR>�ݒ�͂ƂĂ��ǂ��Ǝv���܂��B�@���������������Ă��镨�Ȃ񂩁A���ƒ��Ƀe�L�g�[�Ɏv�����e�L�g�[�ɏ����Ă��镨�ł�����E�E�E�E�O�`�����Ă���܂���B<BR><BR>�@���ɓ����̐��@�Ƃ��Ƃ����ݒ肪�ǂ��ł��ˁ`<BR>���Ȃ�āE�E�E�E�@�~�߂܂��傤�B<BR><BR>�Ƃɂ����閲����A���ꂩ�������΂��ď����Ă����Ă��������I
+皆さん、初めまして♪<BR>　おお！　久しぶりに見てみたらなんかお話が独立している？<BR>最初、ある大学生が動物の精になってしまってなはずだったのに？<BR>むう。　話はどんどん変わっていくなあ<BR>設定はとても良いと思います。　もう私が今書いている物なんか、授業中にテキトーに思いつきテキトーに書いている物ですから・・・・グチいってすんません。<BR><BR>　特に動物の精　とかという設定が良いですね～<BR>私なんて・・・・　止めましょう。<BR><BR>とにかく夜夢さん、これからもがんばって書いていってください！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2002/05/31 20:30:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2002/05/31 20:30:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022844625asrpbyc&id2=1008646676lnpowq&ff=on">APPEND 59</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022844625asrpbyc_id2_1008646676lnpowq_ff_on.cgi">APPEND 59</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-kou�l�A�����z���X���肪�Ƃ��������܂��B<BR>���@�����I�@�v���Ԃ�Ɍ��Ă݂���Ȃ񂩂��b���Ɨ����Ă���H<BR>���ŏ��A�����w���������̐��ɂȂ��Ă��܂��ĂȂ͂��������̂ɁH<BR>���ނ��B�@�b�͂ǂ�ǂ�ς���Ă����Ȃ� <BR>�E�E�E�͂��A�ς���Ă��܂��ˁB<BR>�{�҂Ƃ��āA�h�˂��h�𒆐S�Ƃ����b��W�J���Ă���̂ɂ͕ς��͂Ȃ��̂ł����E�E�E<BR>�E�E�E���́u�~�X�g���X�Ɗ�Ȓ��ԒB�v�͎�l������肵�Ȃ�����ŏ����Ă��܂�����A���̂����ɎG���Ȋ񂹏W�߂Ɖ����čs�������ƁE�E�E�i���ɂ����Ȃ��Ă���Ƃ��������H�^�΁j
+kou様、ご感想等々ありがとうございます。<BR>＞　おお！　久しぶりに見てみたらなんかお話が独立している？<BR>＞最初、ある大学生が動物の精になってしまってなはずだったのに？<BR>＞むう。　話はどんどん変わっていくなあ <BR>・・・はい、変わっていますね。<BR>本編として、”ねこ”を中心とした話を展開しているのには変わりはないのですが・・・<BR>・・・この「ミストレスと奇妙な仲間達」は主人公を特定しないつもりで書いていますから、そのうちに雑多な寄せ集めと化して行こうかと・・・（既にそうなっているとも言うか？／笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kou_sa_to@yahoo.co.jp" target="_blank">kou</a></strong>  <i>2002/06/02 07:16:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022969813mcdvr&id2=1008646676lnpowq&ff=on">APPEND 60</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022969813mcdvr_id2_1008646676lnpowq_ff_on.cgi">APPEND 60</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�{�҂Ƃ��āA�h�˂��h�𒆐S�Ƃ����b��W�J���Ă���̂ɂ͕ς��͂Ȃ��̂ł����E�E�E<BR>&gt;�E�E�E���́u�~�X�g���X�Ɗ�Ȓ��ԒB�v�͎�l������肵�Ȃ�����ŏ����Ă��܂�����A���̂����ɎG���Ȋ񂹏W�߂Ɖ����čs�������ƁE�E�E�i���ɂ����Ȃ��Ă���Ƃ��������H�^�΁j <BR>���Ă������Ƃ́A�{�҂œo��l���\�\�����ǂ������͂����ā\�\���V�����o�ꂷ��Ƃ��ꂪ���������ēƗ������b�ɂȂ��Ă����ƁB<BR>����ɂǂ����̕����ɓ]�����Ă��������킩��Ȃ��ƁB<BR><BR>�ł��y���݂ȍ�i�Ȃ̂ő҂��܂��i�΁j<BR>���ꂶ�Ⴀ����΂��ď����Ă��������I�@
+&gt;本編として、”ねこ”を中心とした話を展開しているのには変わりはないのですが・・・<BR>&gt;・・・この「ミストレスと奇妙な仲間達」は主人公を特定しないつもりで書いていますから、そのうちに雑多な寄せ集めと化して行こうかと・・・（既にそうなっているとも言うか？／笑） <BR>っていうことは、本編で登場人物――だかどうだかはおいて――が新しく登場するとそれがもしかして独立した話になっていくと。<BR>さらにどっちの方向に転がっていくかもわからないと。<BR><BR>でも楽しみな作品なので待ちます（笑）<BR>それじゃあがんばって書いてください！　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2002/06/03 21:11:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2002/06/03 21:11:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1023106283jdcdp&id2=1008646676lnpowq&ff=on">APPEND 61</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1023106283jdcdp_id2_1008646676lnpowq_ff_on.cgi">APPEND 61</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���{�҂œo��l���\�\�����ǂ������͂����ā\�\���V�����o�ꂷ��Ƃ��ꂪ���������ēƗ������b�ɂȂ��Ă����ƁB<BR>������ɂǂ����̕����ɓ]�����Ă��������킩��Ȃ��ƁB<BR>�E�E�E�͂��A�����Ȃ�܂��ˁB<BR>���̏��́A�{�ҁE�C�[�i�ҁi�Z�ҁE�\�񕕗d�ҁj�E�h�N�g���҂̎O�킵������܂��񂪁E�E�E<BR>�@���̕ȂƂ��āA�o��l���̐ݒ���l���Ȃ��珑���Ă���ƁA�e���̐l��������ƂȂ�b���v���t�����Ƃ��A�ǂ�����܂����̂ŁE�E�E
+＞本編で登場人物――だかどうだかはおいて――が新しく登場するとそれがもしかして独立した話になっていくと。<BR>＞さらにどっちの方向に転がっていくかもわからないと。<BR>・・・はい、そうなりますね。<BR>今の所は、本編・イーナ編（短編・十二封妖編）・ドクトル編の三種しかありませんが・・・<BR>　私の癖として、登場人物の設定を考えながら書いていると、脇役の人物を主役となる話を思い付くことが、良くありますもので・・・
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1008646676lnpowq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

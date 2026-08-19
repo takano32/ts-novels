@@ -1,5 +1,5 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>“FƒŠƒŒ[¬àƒ{[ƒh</title><style type="text/css"><!--
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>æ¡ƒè‰²ãƒªãƒ¬ãƒ¼å°èª¬ãƒœãƒ¼ãƒ‰</title><style type="text/css"><!--
 a{TEXT-DECORATION:NONE}
 pre{ font: 10pt/9pt }
 --></style></head>
@@ -7,74 +7,74 @@ pre{ font: 10pt/9pt }
 input ,textarea {background-color: #FFFFFF ;border-style: solid;border-color: #FFFFFF #FFFFFF #E0E0E0 #E0E0E0; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 1px}
 -->
 <body bgcolor="#ffffff" text="#888888" link="#0066ff" alink="#0066ff" vlink="#0066ff">
-<center><h2>“FƒŠƒŒ[¬àƒ{[ƒh</h2><a
-href="treebbs.cgi?new=1">V‹K”­Œ¾</a> b <a
-href="treebbs.cgi">ˆê——</a> b <a
-href="treebbs.cgi?newlogs=1">ÅV‹LŽ–</a> b <a
+<center><h2>æ¡ƒè‰²ãƒªãƒ¬ãƒ¼å°èª¬ãƒœãƒ¼ãƒ‰</h2><a
+href="treebbs@new_1.cgi">æ–°è¦ç™ºè¨€</a> ï½œ <a
+href="treebbs.cgi">ä¸€è¦§</a> ï½œ <a
+href="treebbs@newlogs_1.cgi">æœ€æ–°è¨˜äº‹</a> ï½œ <a
 
-href="treebbs.cgi?seek=+&setu=1">ŒŸõ</a> b <a
-href="http://www2.tomato.ne.jp/~ezpe/yasai/archives.html">‚g‚n‚l‚d</a>
+href="treebbs@seek___setu_1.cgi">æ¤œç´¢</a> ï½œ <a
+href="../../../~ezpe/yasai/archives.html">ï¼¨ï¼¯ï¼­ï¼¥</a>
 </center><hr size=1>
 
 <table width="100%">
  <tr>
   <td bgcolor="#E0E0E0">
-   <b><font size=4>No.2@ “`à‚ÌŒ•</font></b>
+   <b><font size=4>No.2ã€€ ä¼èª¬ã®å‰£</font></b>
   </td>
  </tr>
 </table>
 
 <tt>
 
-”­Œ¾ŽÒF<b> Œ¢Š¢ƒnƒ€‘¾</b></a><br>
-”­Œ¾“úF<b> 2001 12/08 16:15</b>
+ç™ºè¨€è€…ï¼š<b> çŠ¬ç“¦ãƒãƒ å¤ª</b></a><br>
+ç™ºè¨€æ—¥ï¼š<b> 2001 12/08 16:15</b>
 <blockquote>
-‚µ‚©‚µI<br>
-ŠC…‚É’·”NZ‚©‚Á‚Ä‚¢‚½Œ•‚Íƒ{ƒƒ{ƒ‚ÅŽg‚¢•¨‚É‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B
+ã—ã‹ã—ï¼<br>
+æµ·æ°´ã«é•·å¹´æµ¸ã‹ã£ã¦ã„ãŸå‰£ã¯ãƒœãƒ­ãƒœãƒ­ã§ä½¿ã„ç‰©ã«ãªã‚Šã¾ã›ã‚“ã§ã—ãŸã€‚
 </blockquote>
 <a href="" target="_blank"></a>
 
 <hr size=1>
-<pre><a name=ka>¥ŠÖ˜A”­Œ¾</a><br
->„ <br
->„¤<a href="treebbs.cgi?all=1&s=1">Ÿ</a>1:<a href="treebbs.cgi?log=1">‚±‚ê‚ÍƒeƒXƒg‚Å‚·‚Å‚·</a> [Œ¢Š¢ƒnƒ€‘¾] 12/08 16:14<br
->@„¤<a href="treebbs.cgi?all=1&s=2">Ÿ</a>2:<b>“`à‚ÌŒ•</b> [Œ¢Š¢ƒnƒ€‘¾] 12/08 16:15<b><font color="#888888">&lt;-last</font></b></pre><hr size=1><table>
+<pre><a name=ka>â–¼é–¢é€£ç™ºè¨€</a><br
+>â”‚<br
+>â””<a href="treebbs@all_1_s_1.cgi">â—†</a>1:<a href="treebbs@log_1.cgi">ã“ã‚Œã¯ãƒ†ã‚¹ãƒˆã§ã™ã§ã™</a> [çŠ¬ç“¦ãƒãƒ å¤ª] 12/08 16:14<br
+>ã€€â””<a href="treebbs@all_1_s_2.cgi">â—†</a>2:<b>ä¼èª¬ã®å‰£</b> [çŠ¬ç“¦ãƒãƒ å¤ª] 12/08 16:15<b><font color="#888888">&lt;-last</font></b></pre><hr size=1><table>
  <tr>
   <td>
   <form action="treebbs.cgi" method=POST>
-  <input type=hidden name=ha value=ha><a name=re>@ •ÔMƒtƒH[ƒ€</a>@<tt>[<a href='treebbs.cgi?log=2&hens=1#re'>ˆø—p</a>]</tt>
+  <input type=hidden name=ha value=ha><a name=re>ã€€ è¿”ä¿¡ãƒ•ã‚©ãƒ¼ãƒ </a>ã€€<tt>[<a href='treebbs@log_2_hens_1.cgi'>å¼•ç”¨</a>]</tt>
   <table>
    <input type=hidden name=s value="1">
    <input type=hidden name=re value=2>
    <tr>
-    <td bgcolor="#E0E0E0">–¼@‘O</td><td><input type=text size=30 name=name  VCARD_NAME="vCard.name">
-     <tt><input type=checkbox name=cookie value=ON>•Û‘¶</tt></td>
+    <td bgcolor="#E0E0E0">åã€€å‰</td><td><input type=text size=30 name=name  VCARD_NAME="vCard.name">
+     <tt><input type=checkbox name=cookie value=ON>ä¿å­˜</tt></td>
    </tr>
    <tr>
-    <td bgcolor="#E0E0E0">‘è@–¼</td><td><input type=text size=40 name=dai value='Re:“`à‚ÌŒ•'></td>
+    <td bgcolor="#E0E0E0">é¡Œã€€å</td><td><input type=text size=40 name=dai value='Re:ä¼èª¬ã®å‰£'></td>
    </tr>
    <tr>
-    <td bgcolor="#E0E0E0">ƒ[ƒ‹</td><td><input type=text size=30 name=email VCARD_NAME="vCard.Email" ><tt>È—ª‰Â</tt></td>
+    <td bgcolor="#E0E0E0">ãƒ¡ãƒ¼ãƒ«</td><td><input type=text size=30 name=email VCARD_NAME="vCard.Email" ><tt>çœç•¥å¯</tt></td>
    </tr>
    <tr>
-    <td valign=top bgcolor="#E0E0E0">”­@Œ¾</td><td><textarea name=t rows=10 cols=60></textarea></td>
+    <td valign=top bgcolor="#E0E0E0">ç™ºã€€è¨€</td><td><textarea name=t rows=10 cols=60></textarea></td>
    </tr>
    <tr>
-    <td bgcolor="#E0E0E0">‚t‚q‚k</td>
-     <td><input type=text size=30 name=url value="" VCARD_NAME="vCard.Homepage"><tt>È—ª‰Â</tt></td>
+    <td bgcolor="#E0E0E0">ï¼µï¼²ï¼¬</td>
+     <td><input type=text size=30 name=url value="" VCARD_NAME="vCard.Homepage"><tt>çœç•¥å¯</tt></td>
    </tr>
 
 <tr><td bgcolor="#E0E0E0">PASSWORD</td><td><input type=password size=12 name=pw value=""></td></tr>
    <tr>
-    <td bgcolor="#E0E0E0" nowrap>‘‚«ž‚Þ</td><td><input type=submit value="@‘‚«ž‚Þ@"><input type=reset value="@‘‚«’¼‚µ@"></td>
+    <td bgcolor="#E0E0E0" nowrap>æ›¸ãè¾¼ã‚€</td><td><input type=submit value="ã€€æ›¸ãè¾¼ã‚€ã€€"><input type=reset value="ã€€æ›¸ãç›´ã—ã€€"></td>
    </tr>
   </table>
   </form><tt>
-ž‘è–¼‚ÍA’Z‚­‚í‚©‚è‚â‚·‚­‘‚¢‚Ä‚­‚¾‚³‚¢B<br>
-ž‚Ð‚Æ‚Â‚ÌƒcƒŠ[‚É“Še‚Å‚«‚é‹LŽ–‚ÍÅ‘å60Œ‚Ü‚Å‚ÆŒˆ‚Ü‚Á‚Ä‚¢‚Ü‚·B<br>
-žÅ‘å20ŠK‘w‚Ü‚Å‚µ‚©”­Œ¾‚Å‚«‚Ü‚¹‚ñB<br>
-žƒcƒŠ[‹LŽ–”‚âŠK‘w‚Ì[‚³§ŒÀ‚É‚Ð‚Á‚©‚©‚Á‚½‚Æ‚«‚ÍA‘±•Ò‚Æ‚È‚éƒcƒŠ[‚ðV‚½‚É—§‚Ä‚Ä‚­‚¾‚³‚¢B<br>
-žŠÇ—l‚Ì”»’f‚É‚æ‚è‚â‚Þ‚ð“¾‚¸“Še‚Ííœ‚³‚¹‚Ä‚¢‚½‚¾‚­ê‡‚ª‚ ‚è‚Ü‚·B<br>
+â—‡é¡Œåã¯ã€çŸ­ãã‚ã‹ã‚Šã‚„ã™ãæ›¸ã„ã¦ãã ã•ã„ã€‚<br>
+â—‡ã²ã¨ã¤ã®ãƒ„ãƒªãƒ¼ã«æŠ•ç¨¿ã§ãã‚‹è¨˜äº‹ã¯æœ€å¤§60ä»¶ã¾ã§ã¨æ±ºã¾ã£ã¦ã„ã¾ã™ã€‚<br>
+â—‡æœ€å¤§20éšŽå±¤ã¾ã§ã—ã‹ç™ºè¨€ã§ãã¾ã›ã‚“ã€‚<br>
+â—‡ãƒ„ãƒªãƒ¼è¨˜äº‹æ•°ã‚„éšŽå±¤ã®æ·±ã•åˆ¶é™ã«ã²ã£ã‹ã‹ã£ãŸã¨ãã¯ã€ç¶šç·¨ã¨ãªã‚‹ãƒ„ãƒªãƒ¼ã‚’æ–°ãŸã«ç«‹ã¦ã¦ãã ã•ã„ã€‚<br>
+â—‡ç®¡ç†äººã®åˆ¤æ–­ã«ã‚ˆã‚Šã‚„ã‚€ã‚’å¾—ãšæŠ•ç¨¿ã¯å‰Šé™¤ã•ã›ã¦ã„ãŸã ãå ´åˆãŒã‚ã‚Šã¾ã™ã€‚<br>
 </tt>
 
   </td>
@@ -83,5 +83,5 @@ href="http://www2.tomato.ne.jp/~ezpe/yasai/archives.html">‚g‚n‚l‚d</a>
 <hr size=1><p align=right><form method=POST action="treebbs.cgi"><tt>
 <input type=hidden name=del value=2>
 Pass<input type=password size=9 name=pass value=""><input
-type=submit value="íœ"> <input type=checkbox name=cookie value=pwd>•Û‘¶</form></p>
+type=submit value="å‰Šé™¤"> <input type=checkbox name=cookie value=pwd>ä¿å­˜</form></p>
 <hr size=1><tt><p align=right><a href="http://cgiroom.nu" target=_blank>CGIROOM</a></body></html><!-- 3.14 -->

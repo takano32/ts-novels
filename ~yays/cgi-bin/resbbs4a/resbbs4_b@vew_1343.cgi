@@ -1,84 +1,84 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�����n���̐l>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:私も地方の人>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1343>
 <input type=hidden name=ress value=1343>
-<input type=submit value=�����n���̐l�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=私も地方の人へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1343>
-<font color=#6A5ACD>�����n���̐l</font></a>
+<font color=#6A5ACD>私も地方の人</font></a>
 <font color=#303030>
-��������������
- ����</font>
- <font size=2>2001�N12��3��(��) 22��50��</font>
-<a href="resbbs4_b.cgi?vew=1343">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�Ԃ����with������</b>�z</font>
+ｄｅａｄｅｎｄ
+ さん</font>
+ <font size=2>2001年12月3日(月) 22時50分</font>
+<a href="resbbs4_b@vew_1343.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>花ちゃんwith助さん</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>����ƙ֓V�A��ɓ���܂����c�ƌ����������������������ł����B������Ő���オ����ƒn���͐h���ł��ˁc�ł��ǂ������ł��ˍ����B���ɂ���l���B<br>�������ǎ҃R�[�i�[�������ł��˃����V�[����̐E�����p�̂悤�ȋC�����܂���i�΁j<br>����̓~�J�G���v��̂��߂ł͂Ȃ������V�[����̂��߂ɗt�����o���Ȃ��ẮI<br><br>���f���ɃJ�L�R���Ă�����@���Y����e��Ƃ͎��̃��[�����C�g�̋e��Ђ΂肾�Ǝv���܂��B��b�̖`���ɂ��o�Ă���L�����ł����\���̏��ɏ����Ă��邱�Ƃ͂��܂�C�ɂ��Ȃ��ėǂ��Ǝv���܂��B<br><br>���C�y���������a�a�r��No.36�ɎO�Y�R���搶�̃��X���t���Ă��܂����G���Ǝ�łb�f�������Ă��鎄�ɂƂ��Ĉ�Ԋ����������t�ł����B</font></ul>
+<ul><br><font size=3>やっと曼天、手に入りました…と言うか今日が正式発売日ですが。早売りで盛り上がられると地方は辛いですね…でも良かったですね今号。特にお母様が。<br>しかし読者コーナーが凄いですねメルシーさんの職権乱用のような気がしますよ（笑）<br>これはミカエル計画のためではなくメルシーさんのために葉書を出さなくては！<br><br>情報掲示板にカキコしてた多喜　丙郎さん菊川とは雫のルームメイトの菊川ひばりだと思います。二話の冒頭にも出ているキャラですが予告の所に書いてあることはあまり気にしなくて良いと思います。<br><br>お気軽おえかきＢＢＳのNo.36に三浦由香先生のレスが付いていました萌えと趣味でＣＧを書いている私にとって一番嬉しいお言葉でした。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1344>
-<font color=#6A5ACD>RE:�����n���̐l</font></a>
+<font color=#6A5ACD>RE:私も地方の人</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N12��5��(��) 0��3��</font>
-<a href="resbbs4_b.cgi?vew=1344">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�֓V���~�J�G���v��Ղ�A�n�߂܂����B<br>�i�g�b�v�y�[�W�Q�Ƃ��Ă��������ˁj</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2001年12月5日(水) 0時3分</font>
+<a href="resbbs4_b@vew_1344.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>曼天＆ミカエル計画祭り、始めました。<br>（トップページ参照してくださいね）</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

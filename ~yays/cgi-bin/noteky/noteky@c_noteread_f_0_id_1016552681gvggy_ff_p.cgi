@@ -1,306 +1,306 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1016552681gvggy&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1016552681gvggy_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�Ԗ�(RED EYE)�����i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">赤目(RED EYE)さん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/03/20 00:44:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/03/20 00:44:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016552681gvggy&id2=1016552681gvggy&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016552681gvggy_id2_1016552681gvggy_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!(������)
+Now Printing!(準備中)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/20004846/tenni1.htm" target="_blank">�V�Ɋ肢���i�P�`�R�b�j��ǂނɂ͂������N���b�N�B</a></strong>  <i>2002/03/20 00:59:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/20004846/tenni1.htm" target="_blank">天に願いを（１～３話）を読むにはここをクリック。</a></strong>  <i>2002/03/20 00:59:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016553578nbcxtn&id2=1016552681gvggy&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016553578nbcxtn_id2_1016552681gvggy_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �n���̂ǂ����ŁE�E�E����̂��ȁH�i��j
+【推薦文】 地球のどこかで・・・あるのかな？（謎）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/20 06:41:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/20 06:41:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016574097ebtee&id2=1016552681gvggy&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016574097ebtee_id2_1016552681gvggy_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށA�䂾�炯�i�΁j�B<BR>���c����̉����������ł���̂��A���ꂩ��̓W�J�����Ɋy���݂ł��ˁB<BR>�܂��A�Ō�ɓo�ꂵ�������i�H�j�C�N�̃Z���t�����ɋC�ɂȂ�܂��ˁB<BR>������ɂ���A���҂Ɋ��ҁI�ł��ˁB
+読んだバイ♪<BR>うーむ、謎だらけ（笑）。<BR>教団が一体何をたくらんでいるのか、これからの展開が非常に楽しみですね。<BR>また、最後に登場した少女（？）イクのセリフも非常に気になりますね。<BR>いずれにせよ、続編に期待！ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���邾</strong>  <i>2002/03/20 10:47:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ぞるだ</strong>  <i>2002/03/20 10:47:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016588878bfhvmv&id2=1016552681gvggy&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016588878bfhvmv_id2_1016552681gvggy_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Y��N�̂���Ă��Ղ肪�悩�����ł��B<BR>�C�N����񂪉��҂����C�ɂȂ�܂��ˁ`<BR>�Z�����ǂ݂₷�������ł��B�S�b�ȍ~�����҂��Ă܂��B
+雄二君のあわてっぷりがよかったです。<BR>イクちゃんが何者かも気になりますね～<BR>短い分読みやすかったです。４話以降も期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/20 10:51:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/20 10:51:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016589119eddbu&id2=1016552681gvggy&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016589119eddbu_id2_1016552681gvggy_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����́c�����Q�[�I�W�J���Ȃ��Ǝv���Ȃ���ǂ�ł܂����B<BR>�ǂ���猳�̑̂̐l���̂��l�݂����ł悩�����ł��˂��i���j<BR><BR>�i���ȃV�[���͂������납�����ł��B<BR>�Ƃ������V�N�Ȋ����ł��ˁB���҂Ɋ��҂ł��B<BR>�ǂ��ł��������c�V�Ɋ肢�����āA���Ɋ肢�����`�[�t�ɂ��Ƃ�̂��낤���c
+どっかの…○○ゲー的展開だなぁと思いながら読んでました。<BR>どうやら元の体の人が偉い人みたいでよかったですねぇ（爆）<BR><BR>ナルなシーンはおもしろかったです。<BR>ともかく新鮮な感じですね。続編に期待です。<BR>どうでもいいが…天に願いをって、星に願いをモチーフにしとるのだろうか…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:redeye2002@mail.goo.ne.jp" target="_blank">�Ԗ�(RED EYE)</a></strong>  <i>2002/03/20 17:04:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:redeye2002@mail.goo.ne.jp" target="_blank">赤目(RED EYE)</a></strong>  <i>2002/03/20 17:04:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016611487nxwkrc&id2=1016552681gvggy&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016611487nxwkrc_id2_1016552681gvggy_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̂����z�����肪�Ƃ��������܂��B<BR><BR>�_�����z�̂����W�S�Q�U����<BR><BR>���܂�A����̔w�i�̐������Ȃ��āA�����܂���B�䂾�炯�ł����A�����<BR>���̂�����͖��炩�ɂȂ�܂��̂ŁA��낵���ł��B�`���̕����̓T�N�b��<BR>�I��点����肪�A�Ȃ񂩖c���ł��܂��܂����B����̓C�N�̔閧��<BR>���炩�Ɂc�c :)<BR><BR>���邾����<BR><BR>���܂����b���𕪂��߂��Ƃ�����������܂����i�{���A���̕��̕��ʂ���<BR>����ƁA�P�Ȃ�P�b�ł��ˁj�A�T�u�^�C�g���ŗV��ł邤���ɁA����Ȃ�<BR>�Ȃ��Ă��܂��܂����B�ł��A�ǂ݂₷���Ǝf���ĂЂƈ��S�ł��B<BR><BR>�m�C���i�d�g�d���j����<BR><BR>�Q�[���ł����B�Q�l�ɂ����胂�`�[�t�ɂ������̂́A���ɂȂ��̂ł����A<BR>���������΃m���͂���Ȋ����ł��ˁi���ƂŋC�t�����̂ł����A�����<BR>���u�R���ł�����܂����c�c�j�B���҂͂�����񂠂�܂��B�Ƃ������A<BR>���ܓ��̒��͂��̕���̖ϑz�ň�t�ł� :) �������߂Ȃ��Ɓc�c<BR><BR>����ł͊F���܁A����Ƃ���낵���ł��B���z�����������āA�ƂĂ����<BR>�ɂȂ�܂����B<BR>
+早速のご感想をありがとうございます。<BR><BR>神速感想のｍｋ８４２６さん<BR><BR>あまり、物語の背景の説明がなくて、すいません。謎だらけですが、次回で<BR>そのあたりは明らかになりますので、よろしくです。冒頭の部分はサクッと<BR>終わらせるつもりが、なんか膨らんでしまいました。次回はイクの秘密も<BR>明らかに…… :)<BR><BR>ぞるださん<BR><BR>こまかく話数を分け過ぎという説もありますが（本来、他の方の分量から<BR>すると、単なる１話ですね）、サブタイトルで遊んでるうちに、こんなに<BR>なってしまいました。でも、読みやすいと伺ってひと安心です。<BR><BR>ノイン（電波妖精）さん<BR><BR>ゲームですか。参考にしたりモチーフにしたものは、特にないのですが、<BR>そういえばノリはそんな感じですね（あとで気付いたのですが、これは<BR>ラブコメでもありました……）。続編はもちろんあります。というか、<BR>いま頭の中はこの物語の妄想で一杯です :) 書き留めないと……<BR><BR>それでは皆さま、今後ともよろしくです。感想をいただいて、とても励み<BR>になりました。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/20004846/tenni2.html" target="_blank">�w�V�Ɋ肢���x�i�S�`�U�b�j������ɂ͂������N���b�N�B</a></strong>  <i>2002/03/26 01:19:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/20004846/tenni2.html" target="_blank">『天に願いを』（４～６話）を見るにはここをクリック。</a></strong>  <i>2002/03/26 01:19:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017073152ynruou&id2=1016552681gvggy&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017073152ynruou_id2_1016552681gvggy_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�B���ꂽ�l�i�ɖ|�M�����Y��ł������B
+【推薦文】隠された人格に翻弄される雄二であった。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/26 02:41:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/26 02:41:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017078066gobcofb&id2=1016552681gvggy&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017078066gobcofb_id2_1016552681gvggy_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�C�N�l���c�C�N�l�����c�c<BR>TS���Ă����Ƃ����ȂƎv�����������̍��ł����B<BR><BR>���덁�̂Ȃ��ɖ���A���u�R���l�i�Ƃ����������납�����ł��B<BR>�Ȃ�قǁA�C�N�����͋������Ă����̂ł��ˁB<BR>�������A������҂�V�X�R�������Ă܂��B���������ł��B<BR><BR>���C�̃V�[�������������厲�ɕ`����Ă܂��ˁB������ăC�N����񂪎�l���������̂��i^^�G�j�@�Ƃ��v�����Ⴂ�܂����B<BR>���������E���悢�ł���<BR><BR>�X�g�[���[���A�K�x�ɕs�v�c�ŁA�K�x�Ɍ����������тĂ��Ă悢�ł��B<BR><BR>�\���ł��܂��Ȃ��Ǝv�����̂́A<BR>�ŏ��̂ق��́c<BR>���̎q�ɂȂ������Ƃ��A�u�悭���邱�Ɓv���ƌ����؂����B�Y�񂭂񁁖��덁�����@�Ɉ�[�ł���<BR><BR>����ƁA���C���O��<BR>�w���Ⴀ�I���̃{�f�B�􂢂�낵���x�Ƃ����Ƃ����<BR>�@�{�f�B�􂢂Ƃ����\�����Ȃ񂩃C�C�ł��ˁB<BR>�@���Ɍy�������łāA�L�����̂��������Ƃ����l�q���`����Ă��܂����B<BR><BR>���ɂ�c�Ȃɂ��Ƃ�Ƃ߂̂Ȃ����z�ł����c<BR>�d�g�d���̓C�N�����TS�����ɂȂ��Ă���邱�ƂɈ�[���ꂽ���C���ł��B�i^^�G�j�P�Ȃ�肢�ł�����A�����͂��Ȃ��ł����ł��悧��<BR><BR><BR>
+イク様が…イク様がぁ……<BR>TSしてくれるといいなと思った今日この頃でした。<BR><BR>摩耶香のなかに眠る、ラブコメ人格とかもおもしろかったです。<BR>なるほど、イクちゃんは強がっていたのですね。<BR>しかも、ちょっぴりシスコン入ってます。いい感じです。<BR><BR>風呂のシーンもそっちを主軸に描かれてますね。これってイクちゃんが主人公だったのか（^^；）　とか思っちゃいました。<BR>怪しい世界がよいです♪<BR><BR>ストーリーも、適度に不思議で、適度に現実味をおびていてよいです。<BR><BR>表現でうまいなぁと思ったのは、<BR>最初のほうの…<BR>女の子になったことを、「よくあること」だと言い切った。雄二くん＝摩耶香ちゃん　に一票です♪<BR><BR>それと、風呂直前で<BR>『じゃあオレのボディ洗いよろしく』というところで<BR>　ボディ洗いという表現がなんかイイですね。<BR>　文に軽快さがでて、キャラのいきいきとした様子が伝わってきました。<BR><BR>うにゅ…なにかとりとめのない感想ですが…<BR>電波妖精はイクちゃんがTS少女になってくれることに一票入れたい気分です。（^^；）単なる願いですから、無理はしないでいいですよぉ♪<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/26 09:48:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/26 09:48:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017103704pqnheoo&id2=1016552681gvggy&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017103704pqnheoo_id2_1016552681gvggy_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>��͂͂͂́I�C�N�����j�̎q�������̂ˁi�΁j�B<BR>�����Ȃ����為�ЂƂ��ޏ��i�΁j�̛ޏ��p�����Ă݂����i���j�B<BR>�s�r���Ȃ��Ă���������A�s�u�p�������ā`�i�j���j�B<BR>�i�꒍�F�s�u�E�E�E�ِ����j<BR>�Ȃ񂾂���l�Řa�C���������Ȃ�ł����ǁi�΁j�B<BR>��̈ꕔ�����������Ƃ���ŁA�g���̗\���B����܂����񂪊y���݂ł��˂��B<BR>�������E�E�E�B����̃��C���͂���ϓ����V�[���������̂��ȁi���j�B
+読んだバイ♪<BR>わはははは！イクちゃん男の子だったのね（笑）。<BR>こうなったらぜひとも彼女（笑）の巫女姿を見てみたい（爆）。<BR>ＴＳしなくてもいいから、ＴＶ姿を見せて～（核爆）。<BR>（語注：ＴＶ・・・異性装）<BR>なんだか二人で和気あいあいなんですけど（笑）。<BR>謎の一部が判明したところで、波乱の予感。これまた次回が楽しみですねぇ。<BR>しかし・・・。今回のメインはやっぱ入浴シーンだったのかな（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="redeye2002@mail.goo.ne.jp" target="_blank">�Ԗ�(RED EYE)</a></strong>  <i>2002/03/26 21:18:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="redeye2002@mail.goo.ne.jp" target="_blank">赤目(RED EYE)</a></strong>  <i>2002/03/26 21:18:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017145126tsabr&id2=1016552681gvggy&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017145126tsabr_id2_1016552681gvggy_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���m�C���i�d�g�d���j����<BR><BR>�܂��܂����z�����肪�Ƃ��������܂��B�����ł��ʔ����������p�[�g<BR>�ł����̂ŁA�����C�ɓ����Ē������̂ł�����������ł��B<BR><BR>�����ĂāA��Ԃ�����b��̂���̂��C�N�������肵�܂��B���ꂩ���<BR>�d�v�Ȗ������ɂȂ��܂����A���\���C���̂悤�ɂȂ��Ă��܂�<BR>�����A�ł��B<BR>���̓C�N�̂s�r�͑��҂Łc�c�Ɩϑz���Ă��܂����i���ʒK�̔�Z�p�j�A<BR>�ł��C�N�͂��ƂŒj�̎q�̂܂܁c�c���t�t :)<BR><BR>�V�X�R���̌��͓ǂ܂�Ă܂��ˁi���j�B����������ɂȂ邩���c�c�B<BR><BR>�\���͂܂��܂��t�قȂƂ��낪������������܂��񂪁A����Ƃ����i<BR>�������ł��B<BR><BR>�ł�����ρA�����C�̃V�[���͏����ĂĊy�����ł��ˁ[�B<BR><BR>���_�����z�̂����W�S�Q�U����<BR><BR>���z�����肪�Ƃ��������܂��B�s�u�ł����B���S�ɓǂ܂�Ă܂��ˁc�c<BR>���Ď����F�߂Ă��܂��ƃl�^�o�������i�A�Z�A�Z�j�B<BR>�ł��C�N�̏����͂����������������V�[���̂ЂƂł��B�ǂ�ȃV�`��<BR>�G�[�V�����ɂȂ邩�́A���b�̌㔼���炢�Ɂi��������ʒK�ł��c�c�j�B<BR><BR>�����A���̃p�[�g�𑁂����������Ȃ��� :)<BR>
+◆ノイン（電波妖精）さん<BR><BR>またまた感想をありがとうございます。自分でも面白く書いたパート<BR>でしたので、もし気に入って頂けたのでしたら嬉しいです。<BR><BR>書いてて、一番いじり甲斐のあるのがイクだったりします。これからも<BR>重要な役割をにないますし、結構メインのようになってしまう<BR>かも、です。<BR>実はイクのＴＳは続編で……と妄想していますが（取らぬ狸の皮算用）、<BR>でもイクはあとで男の子のまま……ムフフ :)<BR><BR>シスコンの件は読まれてますね（汗）。これも伏線になるかも……。<BR><BR>表現はまだまだ稚拙なところが多いかもしれませんが、今後とも精進<BR>したいです。<BR><BR>でもやっぱ、お風呂のシーンは書いてて楽しいですねー。<BR><BR>◆神速感想のｍｋ８４２６さん<BR><BR>感想をありがとうございます。ＴＶですか。完全に読まれてますね……<BR>って私が認めてしまうとネタバレかも（アセアセ）。<BR>でもイクの女装はぜったい書きたいシーンのひとつです。どんなシチュ<BR>エーションになるかは、お話の後半くらいに（これも取らぬ狸です……）。<BR><BR>うっ、次のパートを早く完成させないと :)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2002/04/11 00:10:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ろむ</strong>  <i>2002/04/11 00:10:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018451442pqunp&id2=1016552681gvggy&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018451442pqunp_id2_1016552681gvggy_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V�Ɋ肢���i�S�`�U�b�j<BR><BR>  ���̂܂܏��̎q�Ƃ��āA�j�ɂȂ����Y�񂳂�ƈꏏ�ɂȂ���<BR>�{���̋��c�ɕς��čs�����Ă̂��ǂ��ł��B
+天に願いを（４～６話）<BR><BR>  このまま女の子として、男になった雄二さんと一緒になって<BR>本来の教団に変えて行くってのが良いです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ԗ�(RED EYE)</strong>  <i>2002/04/11 16:13:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>赤目(RED EYE)</strong>  <i>2002/04/11 16:13:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018509193dkpxy&id2=1016552681gvggy&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018509193dkpxy_id2_1016552681gvggy_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ނ���A���z�L���������܂��B<BR>�͂��A�Y��̓o��ŁA���c�Ƃ����덁�͕K�R�I�ɕς���Ă䂭<BR>�Ǝv���܂��B�܂��l�^�o���ł����A���덁�̂����V�[�������X�g<BR>�ɂ���܂��̂ŁB����܂ő����΁i���@��낵�����t�������������B<BR>
+ろむさん、感想有り難うございます。<BR>はい、雄二の登場で、教団とか摩耶香は必然的に変わってゆく<BR>と思います。またネタバレですが、摩耶香のいいシーンもラスト<BR>にありますので。それまで続けば（汗　よろしくお付き合い下さい。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/20004846/tenni3.htm" target="_blank">�w�V�Ɋ肢���x�i�V�`�W�b�j������ɂ͂������N���b�N�B</a></strong>  <i>2002/04/12 22:23:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/20004846/tenni3.htm" target="_blank">『天に願いを』（７～８話）を見るにはここをクリック。</a></strong>  <i>2002/04/12 22:23:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018617800voqrik&id2=1016552681gvggy&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018617800voqrik_id2_1016552681gvggy_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�V�L�����N�^�[����݂����o��B�Y��i���덁�j�́u���u�R���l�i�v����D���i�H�j�B�C�N�����A���݂��C��J���₦�Ȃ��ˁc�c�i�΁j�B
+【推薦文】新キャラクターあゆみちゃん登場。雄二（摩耶香）の「ラブコメ人格」も絶好調（？）。イクちゃん、きみも気苦労が絶えないね……（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/04/13 00:02:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>島くじら</strong>  <i>2002/04/13 00:02:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018623744swojsb&id2=1016552681gvggy&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018623744swojsb_id2_1016552681gvggy_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����`�B����V�[���̗Y��̃Z���t���ʔ�������������B�΂����܂��܂����B�����R���AOK���B�V�Ɋ肢���V���[�Y�撣���ď����ĉ������B
+いや～。除霊シーンの雄二のセリフが面白かったっすよ。笑っちまいました。ロリコン、OKさ。天に願いをシリーズ頑張って書いて下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/13 00:55:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/13 00:55:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018626904ooitvhn&id2=1016552681gvggy&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018626904ooitvhn_id2_1016552681gvggy_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́B<BR>�Ȃ񂿂イ�����B<BR>(C)Walt Disney�Ƃ�������ł��[�񂩂ȁH�i���j<BR>�������A�u���u�R���Y��v�i���j�B<BR>�������̉��Z�����邤���ɂ͂܂��Ă������ȁB<BR>����͂����ƁA�Ȃɂ���\�͂��o�Ă��܂����ȁB�����̓A�������ǁi�΁j�B<BR>�������ɐ_�Ђ̑��q���������āA�f�{�͂������A�Ƃ������Ƃ��ȁB���ꂪ�A���덁�̐g�̂ɓ����āA���ۂɔ��������Ƃ����Ƃ���ł��傤���B<BR>����݂����Ƃ̗��݂��܂߁A����͎���ȍ~���y���݂ł��ȁB
+読んだバイ♪<BR>わっはっは。<BR>なんちゅう呪文。<BR>(C)Walt Disneyとか書かんでいーんかな？（爆）<BR>しかし、「ラブコメ雄二」（爆）。<BR>女性化の演技をするうちにはまってきたかな。<BR>それはそうと、なにやら霊能力が出てきましたな。呪文はアレだけど（笑）。<BR>さすがに神社の息子だけあって、素養はあった、ということかな。それが、摩耶香の身体に入って、実際に発現したというところでしょうか。<BR>あゆみちゃんとの絡みも含め、これは次回以降が楽しみですな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�d�g�d����</strong>  <i>2002/04/13 01:33:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>電波妖精♪</strong>  <i>2002/04/13 01:33:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018629194trfbvk&id2=1016552681gvggy&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018629194trfbvk_id2_1016552681gvggy_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�C�Â����c<BR>���������A���˂ɂƂ������A�V�[�ł����B<BR>�����c<BR>�c<BR>���덁����ƁA�C�N�����́A���̓I�ɂ�<BR>���o��Ȋ֌W�������̂ł��B�i���ӂȂ��c���ӂȂ��c���ӂȂ��j<BR><BR>����͂�`�悢���Ȃ悢���ȁB�킵���o�툤��<BR><BR>����ɂ��Ă��A���덁���o���܂̈��̑O�ɁA�C�N����񂽂������A����݂��������������B<BR><BR>�Ă��c����́c�������Ԃ��炫����������A����Ɋ��ҁ�i���Ă����̂��j<BR>�u�t�@�[�X�g�L�X�ł����v���āc����͌��܂�̑䎌�ł���<BR>�����A�������B�P�O���P�O��u���v�����ꏊ�ցc<BR>���āA�������Ă���񂾂낤�A�����̃{�N�͓d�g�������݂������c�����Q�����B�Ƃ����ꑱ�����������́�<BR><BR><BR><BR><BR>
+気づいた…<BR>そりゃもう、唐突にというか、天啓でした。<BR>そう…<BR>…<BR>摩耶香さんと、イクちゃんは、肉体的には<BR>ご姉弟な関係だったのです。（他意なし…他意なし…他意なし）<BR><BR>いやはや～よいかなよいかな。麗しき姉弟愛♪<BR><BR>それにしても、摩耶香お姉さまの愛の前に、イクちゃんたじたじ、あゆみちゃんもたじたじ。<BR><BR>てか…あれは…白いお花が咲きそうだから、今後に期待♪（っていいのか）<BR>「ファーストキスでした」って…これは決まりの台詞ですな<BR>さあ、逝こう。１０を１０回「合」した場所へ…<BR>って、何書いているんだろう、今日のボクは電波だったみたいだ…こりゃ参った。ともあれ続きが見たいの♪<BR><BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ԗ�(RED EYE)</strong>  <i>2002/04/13 21:00:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>赤目(RED EYE)</strong>  <i>2002/04/13 21:00:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018699253quxkkxv&id2=1016552681gvggy&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018699253quxkkxv_id2_1016552681gvggy_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ԗڂł��B�F���܊��z���������܂��ėL��ł��B<BR><BR>���������炳��<BR><BR>�����͂����̃M���O�ɂȂ��Ă��܂��܂��āA�ł��E�P�Ē�����<BR>�悤�Ŋ������ł��B�͂��A���b���r���ŏI������肵�Ȃ��悤<BR>���ނ΂�܂����B<BR><BR>���_�����z�̂����W�S�Q�U����<BR><BR>���񂾂�A�Y��̏��������i�s���Ă��܂����A����ς�ӎ��͒j<BR>�̂܂܂ŏ����̐g�̂ɂȂ����l�A��`�ʂ���͓̂���ł��ˁB<BR>�y�Ȃ̂ł��񂾂񏗐��������Ă���i��<BR>�Y��̗�\�͂̐����͎���ȍ~�Ƃ������ƂŁc�c�i��<BR>����̎����́A���������ʂ�f�B�Y�j�[�f�悩��̃p�N���ł����B<BR>�Y��̎����͂��ׂăp�N���ɂȂ�\��ł��i���v���H<BR><BR>���d�g�d���􂳂�<BR><BR>���덁�ƃC�N�̊֌W�ł����B�C�N�͎o�Ɉ���I�ɓ���Ă���悤�ł����A<BR>���덁���ǂ��v���Ă��邩�͓�c�ł��B���̂���������Ԃ񃉃X�g�Łi�ƁA<BR>���摗����<BR>�Ƃ���ŁA�S���͂킩��܂������ǁA�u�\���\��c�c�v���āB���������܂�<BR>�����Ǐo�Ă��܂���ł����i���@���w�Ȃ������ɂ��������������B�u�W��<BR>�e�[���v���Ă��Ƃł����H�i�Ⴄ�悤��<BR>�l������A�Y��E����݂̊֌W���S�����������͔����ȂƂ���ł����B<BR>
+赤目です。皆さま感想を下さいまして有難うです。<BR><BR>◆島くじらさん<BR><BR>呪文はただのギャグになってしまいまして、でもウケて頂いた<BR>ようで嬉しいです。はい、お話が途中で終わったりしないよう<BR>がむばりまっす。<BR><BR>◆神速感想のｍｋ８４２６さん<BR><BR>だんだん、雄二の女性化が進行していますが、やっぱり意識は男<BR>のままで女性の身体になった人、を描写するのは難しいですね。<BR>楽なのでだんだん女性化させてたり（爆<BR>雄二の霊能力の説明は次回以降ということで……（ｗ<BR>今回の呪文は、おっしゃる通りディズニー映画からのパクリでした。<BR>雄二の呪文はすべてパクリになる予定です（大丈夫か？<BR><BR>◆電波妖精♪さん<BR><BR>摩耶香とイクの関係ですか。イクは姉に一方的に憧れているようですが、<BR>摩耶香がどう思っているかは謎…です。このあたりもたぶんラストで（と、<BR>問題先送りやつｗ<BR>ところで、百合はわかりましたけど、「十を十回……」って。検索猿しまし<BR>たけど出てきませんでした（爆　無学なあちきにお教えください。「ジュ<BR>テーム」ってことですか？（違うような<BR>考えたら、雄二・あゆみの関係が百合かロリかは微妙なところでした。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�d�g�d��</strong>  <i>2002/04/13 21:29:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>電波妖精</strong>  <i>2002/04/13 21:29:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018700996atgrj&id2=1016552681gvggy&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018700996atgrj_id2_1016552681gvggy_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɂ�[��<BR>�P�O���P�O�񂽂�����c�ǂ��Ȃ邩�c<BR>�Ƃ����A�Ƃ񂿂��ۂ������������̂ł��B<BR>������Ɂu���v���ď����Ă���̂��~�\��������B<BR>���Ă������A�P�������Ɍ����Ɓc�S����������c<BR>���߂�ɂ�c���ڂ���������̂��p�������������̂ł���܂��i�ۂ��j
+うにょーん<BR>１０を１０回たしたら…どうなるか…<BR>という、とんちっぽい感じだったのです。<BR>うしろに「合」って書いてあるのがミソだったり。<BR>っていうか、単刀直入に言うと…百合だったり…<BR>ごめんにゃ…直接それを言うのが恥ずかしかったのであります（ぽっ）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ԗ�</strong>  <i>2002/04/14 08:35:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>赤目</strong>  <i>2002/04/14 08:35:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018740929jiuaoy&id2=1016552681gvggy&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018740929jiuaoy_id2_1016552681gvggy_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�Ȃ�قǁB���͂܂��Ă�����A�\���\���<BR>�u�W���i�\�j�e�[���iTEN=�\�@�Ȃ܂��Ă�H�j�v���Ǝv���܂����B<BR>���S�n�̕S���͂܂��\���̂��镪��ł͂Ȃ��ł��傤���B���߂�<BR>�₨���n���x�ɂ̓��W���[�ɂȂ��Ă������悤�Ɏv���܂��B<BR>�ł́A�܂��V�p�[�g����ɂ������݂܂��B<BR>
+ああ、なるほど。私はまたてっきり、十を十回で<BR>「ジュ（十）テーム（TEN=十　なまってる？）」かと思いました。<BR>健全系の百合はまだ可能性のある分野ではないでしょうか。せめて<BR>やおい系程度にはメジャーになってもいいように思います。<BR>では、また新パート製作にいそしみます。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/20004846/tenni_b4.htm" target="_blank">�w�V�Ɋ肢���x�i�X�b�j������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/17 20:08:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/20004846/tenni_b4.htm" target="_blank">『天に願いを』（９話）を見るにはここをクリック。</a></strong>  <i>2002/05/17 20:08:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021633690mdlbbjv&id2=1016552681gvggy&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021633690mdlbbjv_id2_1016552681gvggy_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����ɖ\�����郉�u�R���l�i�B�c�c�C�N�����A����ς�N���Ō�̗ǐS�����i�΁j�B
+【推薦文】さらに暴走するラブコメ人格。……イクちゃん、やっぱり君が最後の良心だっ（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/17 22:01:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/17 22:01:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021640493mxmdfgx&id2=1016552681gvggy&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021640493mxmdfgx_id2_1016552681gvggy_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A���������Y��I�Ȃ�ċ��͂ȗ�\�͂Ȃ񂾁E�E�E�Ǝv������A����ς���ȃI�`���i�΁j�B<BR>�i���H�j�l�ȋ���ׂ��i���j�B<BR>�Ƃ���ŁE�E�E�B<BR>��M�̊W���āA�@���������񂶂�Ȃ����������H<BR>�ǂ�����čēx�W�����񂾂낤�H<BR><BR>�ŁA�Ȃ񂩎���\���������[���ł��˂��B���񂪊y���݂ł���B
+読んだバイ♪<BR>おお、すごいぞ雄二！なんて強力な霊能力なんだ・・・と思ったら、やっぱあんなオチが（笑）。<BR>（元？）人妻恐るべし（爆）。<BR>ところで・・・。<BR>酒樽の蓋って、叩き割ったんじゃなかったっけ？<BR>どうやって再度蓋したんだろう？<BR><BR>で、なんか次回予告も興味深いですねぇ。次回が楽しみですよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/05/18 00:10:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/05/18 00:10:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021648218qhvodt&id2=1016552681gvggy&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021648218qhvodt_id2_1016552681gvggy_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@������y���ȃe���|�ŏ΂킹�Ă���܂��B�C�N�����ƗY�񂭂񂪃A��������������Ȃ�āc�c�i���o�C�\���������ӂȂ��j<BR>�@�Ƃ�����A�Ȃ񂩗Y�񂭂�A�ǂ�ǂ�\�����Ă���悤�ȁc�v���΁A�ŏ��̍S������Ă������낪���������ł��i�΁j<BR><BR>�@�����A���̒��q�ł����ƁA�����͊����鋰�ꂠ��悤�ȋC���c�낤���낤���A�ł��������낢�̂ł���ł����ė~�����ȁB
+　今回も軽快なテンポで笑わせてくれます。イクちゃんと雄二くんがアレをしちゃったなんて……（ヤバイ表現だが他意なし）<BR>　ともあれ、なんか雄二くん、どんどん暴走しているような…思えば、最初の拘束されていたころが懐かしいです（笑）<BR><BR>　呪文、この調子でいくと、いつか枯渇する恐れあるような気が…危うい危うい、でもおもしろいのでこれでいって欲しいな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/18 06:36:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/18 06:36:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021671386jfmixry&id2=1016552681gvggy&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021671386jfmixry_id2_1016552681gvggy_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>���΂炵�����x���c�Q
+すばらしい、実にすばらしい<BR>すばらしいレベル…２
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://isweb42.infoseek.co.jp/novel/redeye22/" target="_blank">�Ԗ�</a></strong>  <i>2002/05/18 17:58:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://isweb42.infoseek.co.jp/novel/redeye22/" target="_blank">赤目</a></strong>  <i>2002/05/18 17:58:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021712299inqnt&id2=1016552681gvggy&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021712299inqnt_id2_1016552681gvggy_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ��܁A�ق������Ɋ��z�𒸂��܂��ėL���������܂����B<BR><BR>���_�����z�̂����W�S�Q�U����<BR><BR>�V���A�X�i�H�j�ȃV�[���́A�����܂Ń��u�R���̂�������Ă��ƂŁi��<BR>�P�ɁA�[���Șb�������Ȃ������ł����B<BR>��M�ł����A���������ʂ��x����Ă���̂ł����A�ĂъW������<BR>�����g���܂��Ă���i�H�j�̂ŁA���܂��n�}���Ă��Ƃ͕R�ŌŒ�<BR>�ł����A�Ƃ��������ŏ����Ă��܂����B�������ł��傤���H<BR>�{���͂��̑O�ɁA��l�M�Ȃ�Ă���������l�Ŏ����オ��Ȃ���<BR>�ł����ǂˁi��<BR><BR>�����҂ɉ����邩�͂킩��܂��񂪁A������R���f�B���Ă����Ł[���B<BR><BR>���m�C���i�d�g�d���j����<BR><BR>�C�N�ƗY��̂���ł����A�ŏ��̃v���b�g�ł͗\��ɂȂ������̂ł����A<BR>���ǃL�������\�����Ă��܂��܂����i���@�\�������ƍ�҂���n����<BR>��ςł����A������ꋻ�A���������Ȃ��ƂȂ����㖡�����̂ŕs�v�c�ł���ˁB<BR><BR>�����ł����A�悭���˂�����ł���܂����i���@�g�j�[�J�A�V���p������<BR>�i�����R�~�b�N�V���E�j�A�P�[��̏��Ԃł����A����͖��ˎt�̃M���O�V<BR>���[�Y�ł����B<BR>�P�[��́u���F�b�v�Ƃ�����̐��͕\�L���ނ��������Ёc�c�B<BR>������ςȎ����͏o��Ǝv���܂��̂ŁA�܂��˂�����ł��������܂��[�B<BR><BR>�����̔z�B�l����<BR><BR>���΂炵�����z��L���������܂��i��<BR><BR>���y���E���z����<BR><BR>�|�j��̃��X�ł����c�c�B�{���ɃC�N�����̃L�����ɓ˂����܂Ȃ�������<BR>���b�͔j�ŏ�Ԃł��B����̓W�J�̓C�N����ł��i��H�j��<BR>
+みなさま、拙い小説に感想を頂きまして有り難うございました。<BR><BR>◆神速感想のｍｋ８４２６さん<BR><BR>シリアス（？）なシーンは、あくまでラブコメのお飾りってことで（ｗ<BR>単に、深刻な話が書けないだけですが。<BR>酒樽ですが、おっしゃる通り一度割れているのですが、再び蓋をする<BR>時中身がつまっている（？）ので、うまくハマってあとは紐で固定<BR>できた、という感じで書いていました。いかがでしょうか？<BR>本当はその前に、二斗樽なんてそうそう一人で持ち上がらないの<BR>ですけどね（ｗ<BR><BR>ご期待に沿えるかはわかりませんが、次回もコメディしてるつもりでーす。<BR><BR>◆ノイン（電波妖精）さん<BR><BR>イクと雄二のあれですが、最初のプロットでは予定になかったのですが、<BR>結局キャラが暴走してしまいました（ｗ　暴走されると作者も後始末が<BR>大変ですが、それも一興、そうさせないとなぜか後味悪いので不思議ですよね。<BR><BR>呪文ですが、よくぞ突っ込んでくれました（ｗ　トニー谷、ショパン猪狩<BR>（東京コミックショウ）、鳳啓介の順番ですが、今回は漫才師のギャグシ<BR>リーズでした。<BR>鳳啓介の「ヴェッ」という例の声は表記がむずかしいひ……。<BR>今後も変な呪文は出ると思いますので、また突っ込んでくださいませー。<BR><BR>◆夢の配達人さん<BR><BR>すばらしい感想を有り難うございます（ｗ<BR><BR>◆【推薦文】さん<BR><BR>掟破りのレスですが……。本当にイクが他のキャラに突っ込まなかったら<BR>お話は破滅状態です。今後の展開はイク次第です（ん？）ｗ<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/05/23 03:20:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/05/23 03:20:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022091638unxlwi&id2=1016552681gvggy&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022091638unxlwi_id2_1016552681gvggy_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[vol.9]<BR>�@����������l�M�̊W�́H<BR>�u�\�ߗp�ӂ��������̐����i���́j��ɓn���A��ł��΂����v<BR>�c�Ǝ��͍l���Ă��܂��B<BR>�@�Ȃ��Ȃ�A��l�M�͈�x�����������ƊW���o���Ȃ����ɂȂ��Ă��邩��ł��B<BR><BR>�@�������܂��A���͎��M���͎��̓m���m���������肵�āi�������A��������c�j�B<BR><BR>�@�����͂������܂������B�u���v�����Ɂc�B<BR>
+[vol.9]<BR>叩き割った二斗樽の蓋は？<BR>「予め用意した数枚の杉板を（穴の）上に渡し、縄でしばいた」<BR>…と私は考えています。<BR>　なぜなら、二斗樽は一度鏡割りをすると蓋が出来ない作りになっているからです。<BR><BR>　しかしまあ、実は執筆時は実はノリノリだったりして（呪文がアレだから…）。<BR><BR>　落ちはそうきましたか。「酒」だけに…。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ԗ�</strong>  <i>2002/05/23 21:11:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>赤目</strong>  <i>2002/05/23 21:11:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022155868lkuilv&id2=1016552681gvggy&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022155868lkuilv_id2_1016552681gvggy_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���A�������������ӂ��܂��B<BR>���̊W���čė��p�ł��Ȃ������̂ł����B����Ă��܂��܂����B<BR>�܂��M���M���A�ēx�W�������A�Ƃ��������̋L�q�Ȃ̂ŁA�D�F�ł���<BR>�F�l��ڂɌ��Ē����邩�ȁA�Ɓc�c�i��<BR><BR>����Ƃ���낵�����t���������������B<BR>
+すなさん、お教え頂き感謝します。<BR>あの蓋って再利用できなかったのですか。やってしまいました。<BR>まあギリギリ、再度蓋をした、という感じの記述なので、灰色ですが<BR>皆様大目に見て頂けるかな、と……（ｗ<BR><BR>今後ともよろしくお付き合いください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=akame_redeye" target="_blank">�^�c�ψ�</a></strong>  <i>2002/06/11 00:50:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ts/kansou/bbs@log_akame_redeye.cgi" target="_blank">運営委員</a></strong>  <i>2002/06/11 00:50:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1023724251qerqnkj&id2=1016552681gvggy&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1023724251qerqnkj_id2_1016552681gvggy_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�f����URL���ς��܂��B<BR>�V�������z�f���͂�����ł��B<BR><BR><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=akame_redeye" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=akame_redeye</a>
+感想掲示板のURLが変わります。<BR>新しい感想掲示板はこちらです。<BR><BR><a href="../../../~ts/kansou/bbs@log_akame_redeye.cgi" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=akame_redeye</a>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1016552681gvggy">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

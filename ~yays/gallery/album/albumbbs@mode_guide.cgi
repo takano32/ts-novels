@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <HTML lang="ja">
 <HEAD>
-<TITLE>�M�������[���N���� (TG Illustrations and Captions)</TITLE>
+<TITLE>ギャラリー少年少女 (TG Illustrations and Captions)</TITLE>
 <LINK REV="MADE" HREF="mailto:beppuk@pb3.so-net.ne.jp"> 
 <STYLE TYPE="text/css">
 <!--
@@ -29,50 +29,50 @@ A:active { color:yellow; text-decoration:none }
 <BODY>
 
 <DIV STYLE="text-align:left;margin-left:50">
-<A HREF="javascript: void history.back()">[�f���ɖ߂�]</A>
+<A HREF="javascript: void history.back()">[掲示板に戻る]</A>
 </DIV>
-<DIV CLASS=use>�u�A���o���f���v�̎g����</DIV><BR>
+<DIV CLASS=use>「アルバム掲示板」の使い方</DIV><BR>
 <TABLE summary="user's guide">
 <TBODY><TR><TD CLASS=top><BR>
-�� �t�@�C���T�C�Y�� <SPAN>80 KB�ȉ��A�g���q��.jpg�A.jpeg�A.png�A.gif �̉摜</SPAN> �����ɂ���A�b�v���[�h�ł��܂��B<BR>
-�� ���@�i�c�E���̒����j�̐����͂���܂���B<BR>
-�� ��<SPAN>200</SPAN>�s�N�Z���A�c<SPAN>150</SPAN>�s�N�Z���𒴂���ƁA����ȉ��̐��@��<SPAN>�k���\��</SPAN>����܂��B<BR>
-�� �摜���N���b�N����ƁA<SPAN>�V�����E�B���h�E������A������̉摜���\������܂��B</SPAN><BR>
-�� <SPAN>[�Q��]</SPAN>���N���b�N���A�p�\�R�����̉摜�t�@�C����T���ă_�u���N���b�N����ƁA�p�X�����͂���܂��B<BR>
-�� �K�v�������L���� <SPAN>[ �A�b�v���[�h ]</SPAN> ���N���b�N����Ɖ摜���L���Ɠ����ɃA�b�v���[�h�A�\������܂��B<BR>
-�� ���̐l�̓��e�ɕԎ��������܂��B<SPAN>[�L���ǉ�(Reply)]</SPAN> ���N���b�N����Ɓu�Ԏ����e���v������܂��B<BR>
-�� ���̂ق��ɂ���L���ł��A�Ԏ������ƃg�b�v�Ɋi�グ����܂��B<BR>
-��<SPAN> �Ԏ��ɂ��摜�����邱�Ƃ��ł��܂��B</SPAN>�Ԏ��̉摜���e�L���̉摜�Ɠ��l�Ɉ����܂��B<BR>
-�� ���e���ɂ͕K��<SPAN>���p�p����6��������8�����܂ł́u�p�X���[�h�v</SPAN>����͂��Ă��������B�L���̍폜�ɕK�v�ł��B<BR>
-�� �������̋L�����폜����Ƃ��ɂ͊e�L���̉E��ɂ��� <SPAN CLASS=black>��</SPAN> ���`�F�b�N���āA�udelete�v���N���b�N���܂��B<BR>
-�� �Ԏ��͌ʂɍ폜�ł��܂����A<SPAN>�e�L�����폜����ƕԎ��������ɍ폜����܂��B</SPAN><BR>
-�@�@���̐l����̕Ԏ����폜���Ȃ��悤�ɁA���s�����V�K���e�L���́A�Ԏ������O�ɍ폜���Ă����܂��傤�B<BR>
-�� ����b�Z�[�W����͗���<SPAN>�ʏ��HTML�^�O���g���ĕ����T�C�Y�A�����F�A�����Ȃǂ��w�肷�邱�Ƃ��ł��܂��B</SPAN><BR>
-�� IMG�AMETA�AEMBED�APRE�AFORM�ATABLE�AFRAME�^�O�g���܂���B<BR>
-�� �܂��ASSI��JavaScript���܂ރv���O���~���O(�X�N���v�e�B���O)������g�p�ł��܂���B�B<BR>
-�� �ꕔ�̃^�O���g����̂͢���b�Z�[�W����͗������ł��B�u�����O�v�u�^�C�g���v�ȂǁA���̗��ɂ͎g���܂���B<BR>
-�� �u���b�Z�[�W�v�� http�܂���ftp�Ŏn�܂�URL���������܂��ƁA<SPAN>�����I�Ƀ����N���쐬</SPAN>����܂��B<BR>
-�� �u���E�U�̢�X�V��i�ēǂݍ��݁j�������Ɠ�d���e�ɂȂ邱�Ƃ�����܂��B<SPAN>[�����[�h] �{�^��</SPAN>�����g�����������B<BR>
-�� �e�q���v�̑���<SPAN>300</SPAN>�����L�^�ł��A�e�y�[�W�ɂ͐e�L��<FONT COLOR="#FF0000">7</FONT>���Ƃ����ւ̕Ԏ����\������܂��B<BR>
-�@�@(�Ƃ��ɊǗ��ҕύX��)</FONT>
+■ ファイルサイズが <SPAN>80 KB以下、拡張子が.jpg、.jpeg、.png、.gif の画像</SPAN> を一回につき一個アップロードできます。<BR>
+■ 寸法（縦・横の長さ）の制限はありません。<BR>
+■ 横<SPAN>200</SPAN>ピクセル、縦<SPAN>150</SPAN>ピクセルを超えると、これ以下の寸法で<SPAN>縮小表示</SPAN>されます。<BR>
+■ 画像をクリックすると、<SPAN>新しいウィンドウが現れ、原寸大の画像が表示されます。</SPAN><BR>
+■ <SPAN>[参照]</SPAN>をクリックし、パソコン内の画像ファイルを探してダブルクリックすると、パスが入力されます。<BR>
+■ 必要事項を記入後 <SPAN>[ アップロード ]</SPAN> をクリックすると画像が記事と同時にアップロード、表示されます。<BR>
+■ 他の人の投稿に返事がつけられます。<SPAN>[記事追加(Reply)]</SPAN> をクリックすると「返事投稿欄」が現れます。<BR>
+■ 後ろのほうにある記事でも、返事がつくとトップに格上げされます。<BR>
+■<SPAN> 返事にも画像をつけることができます。</SPAN>返事の画像も親記事の画像と同様に扱われます。<BR>
+■ 投稿時には必ず<SPAN>半角英数字6文字から8文字までの「パスワード」</SPAN>を入力してください。記事の削除に必要です。<BR>
+■ ご自分の記事を削除するときには各記事の右上にある <SPAN CLASS=black>□</SPAN> をチェックして、「delete」をクリックします。<BR>
+■ 返事は個別に削除できますが、<SPAN>親記事を削除すると返事も同時に削除されます。</SPAN><BR>
+　　他の人からの返事を削除しないように、失敗した新規投稿記事は、返事がつく前に削除しておきましょう。<BR>
+■ ｢メッセージ｣入力欄で<SPAN>通常のHTMLタグを使って文字サイズ、文字色、太字などを指定することができます。</SPAN><BR>
+■ IMG、META、EMBED、PRE、FORM、TABLE、FRAMEタグ使えません。<BR>
+■ また、SSIやJavaScriptを含むプログラミング(スクリプティング)言語も使用できません。。<BR>
+■ 一部のタグが使えるのは｢メッセージ｣入力欄だけです。「お名前」「タイトル」など、他の欄には使えません。<BR>
+■ 「メッセージ」に httpまたはftpで始まるURLが書き込まれると、<SPAN>自動的にリンクが作成</SPAN>されます。<BR>
+■ ブラウザの｢更新｣（再読み込み）を押すと二重投稿になることがあります。<SPAN>[リロード] ボタン</SPAN>をお使いください。<BR>
+■ 親子合計の総数<SPAN>300</SPAN>件が記録でき、各ページには親記事<FONT COLOR="#FF0000">7</FONT>件とそれらへの返事が表示されます。<BR>
+　　(ともに管理者変更可)</FONT>
 </TD></TR>
 <TR><TD CLASS=middle>
-�� ���̃T�C�g���烊���N���ĉ摜��\�����邱�Ƃ͂ł��܂���B���̌f���̃A�b�v���[�h�@�\�����g�����������B<BR>
-�� �摜���Ȃ��Ă��A�L�������̓��e���ł��A���ʂ̌f���Ƃ��Ă������܂��B<BR>
-�� �������s���܂���̂ŁA�K���ȂƂ���ł̓L�[�{�[�h�� Enter (Return) �L�[�������Ă��������B<BR><BR>
+○ 他のサイトからリンクして画像を表示することはできません。この掲示板のアップロード機能をお使いください。<BR>
+○ 画像がなくても、記事だけの投稿もでき、普通の掲示板としてもつかえます。<BR>
+○ 自動改行しませんので、適当なところではキーボードの Enter (Return) キーを押してください。<BR><BR>
 <DIV STYLE="color:crimson">
-�� �A�b�v�O���[�h�̂��ߢ�A���o���f���£�̎d�l���ύX�����ꍇ������܂��B���̍ہA�V�o�[�W������<BR>
-�Â��f�[�^���g���Ȃ��Ȃ邱�Ƃ����肦�܂��B</DIV><BR>
+● アップグレードのため｢アルバム掲示板｣の仕様が変更される場合があります。その際、新バージョンで<BR>
+古いデータが使えなくなることもありえます。</DIV><BR>
 </TBODY></TABLE><BR><BR>
-<DIV CLASS=warn>���ӎ���</DIV><BR>
+<DIV CLASS=warn>注意事項</DIV><BR>
 <TABLE summary="user's guide -- addition">
 <TR><TD CLASS=bottom>
-<BR><SPAN>*</SPAN> ����ȊO�̉摜�ŁA���쌠�ȂǂɊւ��ē����҂�����o��\����������̎g�p�͈�ؔ����Ă��������B<BR><BR>
-<SPAN>*</SPAN> ��L�̖�������Ǒ��ᔽ�Ɋւ��āA�܂��͊Ǘ��ғƎ��̔��f�ŁA�\���Ȃ����e���폜���邱�Ƃ�����܂��B<BR><BR>
-<SPAN>*</SPAN> ������̏ꍇ���A���O�ɂ�����ɂ��폜���R�͐������܂���̂ŁA���炩���߂����m���������B<BR><BR>
+<BR><SPAN>*</SPAN> 自作以外の画像で、著作権などに関して当事者から苦情が出る可能性があるもの使用は一切避けてください。<BR><BR>
+<SPAN>*</SPAN> 上記の問題や公序良俗違反に関して、または管理者独自の判断で、予告なく投稿を削除することがあります。<BR><BR>
+<SPAN>*</SPAN> いずれの場合も、事前にも事後にも削除理由は説明しませんので、あらかじめご承知ください。<BR><BR>
 </TD></TR>
 </TBODY></TABLE>
 <BR><BR><BR>
 <DIV STYLE="text-align:right;margin-right:50">
-<A HREF="javascript: void history.back()">[�f���ɖ߂�]</A>
+<A HREF="javascript: void history.back()">[掲示板に戻る]</A>
 </DIV><BR><BR>

@@ -1,155 +1,155 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���܂����B���@���L���[���E�L�̒���y�[�W�B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:作りました。ヴァルキリーユウキの超訳ページ。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1803>
 <input type=hidden name=ress value=1803>
-<input type=submit value=���܂����B���@���L���[���E�L�̒���y�[�W�B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=作りました。ヴァルキリーユウキの超訳ページ。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1803>
-<font color=#6A5ACD>���܂����B���@���L���[���E�L�̒���y�[�W�B</font></a>
+<font color=#6A5ACD>作りました。ヴァルキリーユウキの超訳ページ。</font></a>
 <font color=#303030>
-<a href=mailto:jersey-r@mb.i-chubu.ne.jp>�W���[�W���b�h</a>
- ����</font>
- <font size=2>2003�N4��17��(��) 23��47��</font>
+<a href=mailto:jersey-r@mb.i-chubu.ne.jp>ジャージレッド</a>
+ さん</font>
+ <font size=2>2003年4月17日(木) 23時47分</font>
 <a href=http://www.i-chubu.ne.jp/~jersey-r/ target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1803">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>������b�̂���I</b>�z</font>
+<a href="resbbs4_b@vew_1803.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>総理大臣のえる！</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�܂��A��P�b���܂ł����󂵂Ă��܂��񂪁A�Ƃ肠�������񍐂��܂��B<br>���@���L���[���E�L�̉p�����{��ɒ��Ӗ󂵂Ă݂悤�Ƃ������ŁA�y�[�W������Ă��܂��܂����B�A�h���X�͈ȉ��ɓ\���Ă����܂��B<br><br><a href=http://www.keddy.jp/~jersey-r/V.Y.wayaku/V.Y.wayaku00.htm target=_top>http://www.keddy.jp/~jersey-r/V.Y.wayaku/V.Y.wayaku00.htm</a><br><br>����҂�Kittyhawk�l�ɂ́A���[���𑗂�A�����ɋ�������Ă���܂��̂Œ��쌠��̖��̓N���A���Ă��܂��B�A������͖|��̐��m����ۏ؂�����̂ł͂���܂���c�c�B���Ȃ݂Ƀ��@���L���[���E�L�̃g�b�v�y�[�W�ɂ���Kittyhawk����̓��L�́A2003�N4��4���� 1:30:59 PM�@�̕����Ɏ��̂��Ƃ�������Ă��܂��B�܂��ythe link to the translations�z�̕����̕����ɏ�L�y�[�W�ւ̃����N���\���Ă���܂��B���Ӂ�<br><br>�Ƃ����킯�ŁA�����ł��肢�ł��B���w�����x���̉p��͂Ȃ��̂ł�����A�ςȖ|�󂪂��Ă��邩������Ȃ��̂ŁA��낵����ΒN���Y�킵�Ă��������Bm(_ _)m<br></font></ul>
+<ul><br><font size=3>まだ、第１話分までしか訳していませんが、とりあえずご報告します。<br>ヴァルキリーユウキの英語を日本語に超意訳してみようという企画で、ページを作ってしまいました。アドレスは以下に貼っておきます。<br><br><a href=http://www.keddy.jp/~jersey-r/V.Y.wayaku/V.Y.wayaku00.htm target=_top>http://www.keddy.jp/~jersey-r/V.Y.wayaku/V.Y.wayaku00.htm</a><br><br>原作者のKittyhawk様には、メールを送り、正式に許可も取ってありますので著作権上の問題はクリアしています。但しそれは翻訳の正確さを保証するものではありません……。ちなみにヴァルキリーユウキのトップページにあるKittyhawkさんの日記の、2003年4月4日の 1:30:59 PM　の部分に私のことが書かれています。また【the link to the translations】の文字の部分に上記ページへのリンクも貼ってあります。感謝♪<br><br>というわけで、ここでお願いです。中学生レベルの英語力なものですから、変な翻訳がしてあるかもしれないので、よろしければ誰か添削してください。m(_ _)m<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1806>
-<font color=#6A5ACD>RE:���܂����B���@���L���[���E�L�̒���y�[�W�B</font></a>
+<font color=#6A5ACD>RE:作りました。ヴァルキリーユウキの超訳ページ。</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2003�N4��19��(�y) 9��32��</font>
-<a href="resbbs4_b.cgi?vew=1806">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�f���炵���ł��I<br>�������撣���ĉ������B<br><br>�Ƃ肠�����A�C�t�����Ƃ���ł����A�i�Ӗ�̕������������j<br>17P�̍Ō�A�u��������v�ƌ����ăw���w����ԂŁuDespite what magical girl anime has taught me�v�𕜏����Ă�����̂Ǝv���܂��B<br>19P�̍Ō�A�u�I���������傤�Ǒr���������瓯����Ⴄ��v���Ă����Ӗ��Ȃ�ł��傤���H���M����܂��񂪁B<br>26P��13�s�ځA�u�z�[���i�L�ԁj���~��āA�䏊�ɍs���΁c�v</font></ul>
+匿名
+ さん</font>
+ <font size=2>2003年4月19日(土) 9時32分</font>
+<a href="resbbs4_b@vew_1806.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>素晴らしいです！<br>続きも頑張って下さい。<br><br>とりあえず、気付いたところですが、（意訳の方がいいかも）<br>17Pの最後、「復唱しろ」と言われてヘロヘロ状態で「Despite what magical girl anime has taught me」を復唱しているものと思われます。<br>19Pの最後、「オレも今ちょうど喪失中だから同情しちゃうよ」っていう意味なんでしょうか？自信ありませんが。<br>26Pの13行目、「ホール（広間）を降りて、台所に行けば…」</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1808>
-<font color=#6A5ACD>���w�E���肪�Ƃ��������܂��B</font></a>
+<font color=#6A5ACD>ご指摘ありがとうございます。</font></a>
 <font color=#303030>
-<a href=mailto:jersey-r@mb.i-chubu.ne.jp>�W���[�W���b�h</a>
- ����</font>
- <font size=2>2003�N4��19��(�y) 15��11��</font>
+<a href=mailto:jersey-r@mb.i-chubu.ne.jp>ジャージレッド</a>
+ さん</font>
+ <font size=2>2003年4月19日(土) 15時11分</font>
 <a href=http://www.i-chubu.ne.jp/~jersey-r/ target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1808">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>������b�̂���I</b>�z</font>
-<ul><font size=3>���Ȃ��|�󕶏͂�Y�킵�Ă��������܂��āA���肪�Ƃ��������܂��B         ���w�E���󂯂čl���Ă݂܂������A��P�̂��w�E�ӏ��ƁA��R�̂��w�E�ӏ��ɂ��ẮA�S�����̒ʂ�ł��ˁB���������������܂����B<br><br>��P�̉ӏ��́A�w�����[�h�̃Z���t�̈ꕔ���i�W����Łj���肩�������܂��B<br>��R�̉ӏ��ɂ��ẮA�ȉ��̂悤�ɂ��܂��B<br><br>�H�ו��H�@���ꂾ������A�g��������I�h�@���Ԃ��~��āc�c�A�g���������I�h�@�䏊�ɍs���΁c�c<br><br>�������ł��傤�H<br><br>���ɑ�Q�̂��w�E�̕����ɂ��ẮA�����|�󂷂鎞�ɖ������ӏ��ł��̂ŁA���̖|�󕶏͂ł͂������肱�Ȃ��Ƃ������Ƃ������Ă��܂��B�����Ă��܂����A���I�m�ȕ��͂��v�����Ȃ��̂Ō���ł͕ۗ��ł��B<br><br>��������̂��w�E�̂悤�ɁA�u�I���������傤�Ǒr���������瓯����Ⴄ��v�Ƃ����Z���t�ł��ǂ��̂ł����A���ꂾ�ƃ��E�L�̕\��Ɖ����Ⴄ�悤�ȋC������̂ł��B�Ƃ����킯�ŁA���̉ӏ��ɂ��Ă͂��������l�������Ă��������B��낵�����肢�������܂��B </font></ul>
+<a href="resbbs4_b@vew_1808.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>総理大臣のえる！</b>】</font>
+<ul><font size=3>つたない翻訳文章を添削していただきまして、ありがとうございます。         ご指摘を受けて考えてみましたが、第１のご指摘箇所と、第３のご指摘箇所については、全くその通りですね。早速訂正いたしました。<br><br>第１の箇所は、ヘルモードのセリフの一部を（標準語で）くりかえさせます。<br>第３の箇所については、以下のようにします。<br><br>食べ物？　それだったら、“ああんっ！”　居間を降りて……、“ううっっ！”　台所に行けば……<br><br>いかがでしょう？<br><br>次に第２のご指摘の部分については、私も翻訳する時に迷った箇所ですので、この翻訳文章ではしっくりこないということを感じています。感じていますが、より的確な文章を思いつかないので現状では保留です。<br><br>匿名さんのご指摘のように、「オレも今ちょうど喪失中だから同情しちゃうよ」というセリフでも良いのですが、それだとユウキの表情と何か違うような気がするのです。というわけで、この箇所についてはもう少し考えさせてください。よろしくお願いいたします。 </font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1809>
-<font color=#6A5ACD>��������</font></a>
+<font color=#6A5ACD>いえいえ</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2003�N4��20��(��) 0��30��</font>
-<a href="resbbs4_b.cgi?vew=1809">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�|����ē���ł��ˁB<br>�l�C�e�B�u�Ȑl�Ƀj���A���X�𕷂��Ă݂����ł��B</font></ul>
+匿名
+ さん</font>
+ <font size=2>2003年4月20日(日) 0時30分</font>
+<a href="resbbs4_b@vew_1809.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>翻訳って難しいですね。<br>ネイティブな人にニュアンスを聞いてみたいです。</font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=1810>
-<font color=#6A5ACD>RE:���܂����B���@���L���[���E�L�̒���y�[�W�B</font></a>
+<font color=#6A5ACD>RE:作りました。ヴァルキリーユウキの超訳ページ。</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F</a>
- ����</font>
- <font size=2>2003�N4��20��(��) 17��7��</font>
-<a href="resbbs4_b.cgi?vew=1810">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����ɂ��́A�W���[�W���b�h����B<br>SGVY�̒���y�[�W�̂����ɂ����Ă��܂����B<br>�����Ȋ��z�́A�u������A��z���ꂽ���I�������I�v�ł��B���͎����قƂ�Ǔ����悤�Ȋ��l���Ă܂����B<br>�ł��l���Ă݂���A�^�i����{�^���`�Ƃ͂܂��ɂ��̂��ƂŁA�W���[�W���b�h�����̂悤�Ɏ��т̂���l�����E�L����y�[�W�^�c���Ă����񂾂��������芐������ł��B<br>�������͂Ȃ��炨��`���ł��邱�Ƃ�����΁A�͂ɂȂ肽���Ǝv���܂��B<br>�Ȃɂ͂Ƃ�����A����ł�葽���̓��{�l�Ƀ��E�L�̖��͂�m���Ă��炦��Ƃ������ƂŁA�߂ł������Ƃł��B</font></ul>
+<a href=mailto:yays@geocities.co.jp>八重洲</a>
+ さん</font>
+ <font size=2>2003年4月20日(日) 17時7分</font>
+<a href="resbbs4_b@vew_1810.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>こんにちは、ジャージレッドさん。<br>SGVYの超訳ページのぞきにいってきました。<br>正直な感想は、「うわっ、先越されたっ！悔しい！」です。じつは私もほとんど同じような企画考えてました。<br>でも考えてみたら、タナからボタモチとはまさにこのことで、ジャージレッドさかのように実績のある人がユウキ超訳ページ運営してくれるんだから願ったり叶ったりです。<br>私も微力ながらお手伝いできることがあれば、力になりたいと思います。<br>なにはともあれ、これでより多くの日本人にユウキの魅力を知ってもらえるということで、めでたいことです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1812>
-<font color=#6A5ACD>���d�F�l�A�G�z�Ȃ����点�Ă��������܂����B(^_^;)</font></a>
+<font color=#6A5ACD>八重洲様、僭越ながら作らせていただきました。(^_^;)</font></a>
 <font color=#303030>
-<a href=mailto:jersey-r@mb.i-chubu.ne.jp>�W���[�W���b�h</a>
- ����</font>
- <font size=2>2003�N4��20��(��) 18��7��</font>
+<a href=mailto:jersey-r@mb.i-chubu.ne.jp>ジャージレッド</a>
+ さん</font>
+ <font size=2>2003年4月20日(日) 18時7分</font>
 <a href=http://www.i-chubu.ne.jp/~jersey-r/ target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1812">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>������b�̂���I</b>�z</font>
-<ul><font size=3>  ���݂܂���B����z�����Ⴂ�܂����i�΁j�B���₠�A���ł��������Ă��肪��������ł��B<br><br>  �O�X����A�r�f�u�x�̖|��y�[�W���ǂȂ���������Ă�������Ȃ����Ȃ��B�ƁA�v���Ă����̂ł����A�Ȃ��Ȃ��ǂȂ�������Ă�������Ȃ��l�q�Ȃ̂ŁA�������͎̂����ō�����Ⴈ���Ƃ������ƂŁA����̍쐬�Ɏ������킯�ł��B<br><br>�@���ꂩ��A���̃z�[���y�[�W�ŉғ����Ă����f���̂P�𒴖�y�[�W�p�Ƀ��j���[�A���������܂����̂ŁA��낵����΁A�Y��≽���̃A�h�o�C�X���������܂�����A���̌f���ɏ�������ł���������΂Ǝv���܂��B�i�����N�͒���y�[�W�̃g�b�v����\���Ă���܂��j</font></ul>
+<a href="resbbs4_b@vew_1812.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>総理大臣のえる！</b>】</font>
+<ul><font size=3>  すみません。先を越しちゃいました（笑）。いやあ、喜んでいただけてありがたい限りです。<br><br>  前々から、ＳＧＶＹの翻訳ページをどなたかが作ってくださらないかなあ。と、思っていたのですが、なかなかどなたも作ってくださらない様子なので、無いものは自分で作っちゃおうということで、今回の作成に至ったわけです。<br><br>　それから、私のホームページで稼働していた掲示板の１つを超訳ページ用にリニューアルいたしましたので、よろしければ、添削や何かのアドバイスがございましたら、その掲示板に書き込んでいただければと思います。（リンクは超訳ページのトップから貼ってあります）</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=1813>
-<font color=#6A5ACD>RE:���܂����B���@���L���[���E�L�̒���y�[�W�B</font></a>
+<font color=#6A5ACD>RE:作りました。ヴァルキリーユウキの超訳ページ。</font></a>
 <font color=#303030>
-�����߂݂̂�
- ����</font>
- <font size=2>2003�N4��21��(��) 0��31��</font>
-<a href="resbbs4_b.cgi?vew=1813">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>������Ȗ�Ȏ�����Ў�ɋ�J���Ė󂵂Ċy����ł��܂����̂ŁA�������<br>�T�C�g�͎����̗����ł��Ȃ������Ƃ����₤��Ŕ��ɏ�����܂��B<br>�w�����[�h�̌����͎����Ȃ��������قɖ|�󂵂��Ⴂ�܂����B<br><br>Which would mean something if I had panties instead of a thong...<br>�͊G���������ł́A�ӂ�ǂ���ԂɂȂ��Ă��邱�Ƃ��w���̂��ȁH<br>���܂����{��ɂ��ɂ����ł��ˁB<br><br>�|����҂��Ă��܂��B</font></ul>
+すずめのみや
+ さん</font>
+ <font size=2>2003年4月21日(月) 0時31分</font>
+<a href="resbbs4_b@vew_1813.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>私も夜な夜な辞書を片手に苦労して訳して楽しんでいましたので、こちらの<br>サイトは自分の理解できなかったところを補う上で非常に助かります。<br>ヘルモードの口調は私もなぜだか大阪弁に翻訳しちゃいました。<br><br>Which would mean something if I had panties instead of a thong...<br>は絵を見る限りでは、ふんどし状態になっていることを指すのかな？<br>うまく日本語にしにくいですね。<br><br>翻訳期待しています。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1814>
-<font color=#6A5ACD>RE:���܂����B���@���L���[���E�L�̒���y�[�W�B</font></a>
+<font color=#6A5ACD>RE:作りました。ヴァルキリーユウキの超訳ページ。</font></a>
 <font color=#303030>
-�`�k�n
- ����</font>
- <font size=2>2003�N4��21��(��) 19��34��</font>
-<a href="resbbs4_b.cgi?vew=1814">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>Which would mean something if I had panties instead of a thong...<br>���̃q���̂悤�Ȃ��̂��{���Ƀp���e�B�[�����Č�����Ȃ�l...<br>(���X������ۂ��A��⎩�s�I�W���[�N���܂߂āw�Ȃ�ăX�S�C�R�p���Ȃ񂾂낤�x�I�Ӗ��j<br><br>����ȈӖ��̌����񂵂��Ǝv���Ă��ł����c   �@�Ⴄ���Ȃ�^^</font></ul>
+ＡＬＯ
+ さん</font>
+ <font size=2>2003年4月21日(月) 19時34分</font>
+<a href="resbbs4_b@vew_1814.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>Which would mean something if I had panties instead of a thong...<br>このヒモのようなものが本当にパンティーだって言うんならネ...<br>(少々皮肉っぽく、やや自虐的ジョークも含めて『なんてスゴイ紐パンなんだろう』的意味）<br><br>こんな意味の言い回しだと思ってるんですが…   　違うかなぁ^^</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1817>
-<font color=#6A5ACD>�����߂݂̂�l�A�`�k�n�l�A���肪�Ƃ��������܂��B</font></a>
+<font color=#6A5ACD>すずめのみや様、ＡＬＯ様、ありがとうございます。</font></a>
 <font color=#303030>
-<a href=mailto:jersey-r@mb.i-chubu.ne.jp>�W���[�W���b�h</a>
- ����</font>
- <font size=2>2003�N4��21��(��) 21��42��</font>
+<a href=mailto:jersey-r@mb.i-chubu.ne.jp>ジャージレッド</a>
+ さん</font>
+ <font size=2>2003年4月21日(月) 21時42分</font>
 <a href=http://www.i-chubu.ne.jp/~jersey-r/ target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1817">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>������b�̂���I</b>�z</font>
-<ul><font size=3>�܂��A�����߂݂̂�l�A�Ȃ�قǁA�ӂ�ǂ���Ԃł����B�ӂ�ǂ��ƌ����ΕR�A������R�p���B�Ƃ������Ƃł��ˁB���A�������݂�ǂ�ł��炸���ƍl���Ă��܂������A�R�p���Ƃ������t�Ŗ|�󂵒����̂͗ǂ��ł��ˁB<br><br>�c�c�ƁA�v���Ă��܂�����A�`�k�n�l�̏������݂��c�c�B�Ȃ�قǁA���s�M���O�ł����B<br>���̃q���̂悤�Ȃ��̂��{���Ƀp���e�B�[�����Č�����Ȃ�ˁx<br>�Ȃ�قǁA�Ȃ��Ȃ��ǂ������񂵂̂悤�ȋC�����܂��B<br><br>�������A�O�̕��͂ƂȂ���ƁA���̂悤�ɂȂ�̂ł͂Ȃ��ł��傤���H�@����l�̈ӌ��ɐG������āA���̂悤�Ȓ�����v�����܂����B<br><br>�����@Which would mean something if I had panties instead of a thong...<br>�󕶁@�ł��A����ȃq���݂����ȃp���e�B�[�Ȃ񂩁A�͂��ĂĂ��Ӗ������悤�ȁc�c<br><br>�������ł��傤���B�Ƃ肠�����A���̂悤�ɏC�����Ă݂܂����B���m�F���������B�Ȃ��A�Y��֌W�ł�����A����y�[�W�ɐݒu���Ă���f�������g�����������B��낵�����肢���܂��B</font></ul>
+<a href="resbbs4_b@vew_1817.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>総理大臣のえる！</b>】</font>
+<ul><font size=3>まず、すずめのみや様、なるほど、ふんどし状態ですか。ふんどしと言えば紐、だから紐パン。ということですね。朝、書き込みを読んでからずっと考えていましたが、紐パンという言葉で翻訳し直すのは良いですね。<br><br>……と、思っていましたら、ＡＬＯ様の書き込みが……。なるほど、自虐ギャグですか。<br>このヒモのようなものが本当にパンティーだって言うんならね』<br>なるほど、なかなか良い言い回しのような気がします。<br><br>しかし、前の文章とつなげると、次のようになるのではないでしょうか？　お二人の意見に触発されて、次のような超訳を思いつきました。<br><br>原文　Which would mean something if I had panties instead of a thong...<br>訳文　でも、こんなヒモみたいなパンティーなんか、はいてても意味無いような……<br><br>いかがでしょうか。とりあえず、このように修正してみました。ご確認ください。なお、添削関係でしたら、超訳ページに設置してある掲示板もお使いください。よろしくお願いします。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -157,7 +157,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

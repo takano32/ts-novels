@@ -1,233 +1,233 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>•¶ŒÉì•iŠ´‘z(2001.10.1-)/Š´‘zƒ{[ƒh</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)/æ„Ÿæƒ³ãƒœãƒ¼ãƒ‰</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">V‚µ‚­˜b‘è‚ğ‚Â‚­‚é</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">æ–°ã—ãè©±é¡Œã‚’ã¤ãã‚‹</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1020098452bwakmt&ff=on&ca=r">ÅV‚Ìî•ñ‚ÉXV</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">•¶ŒÉì•iŠ´‘z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1020098452bwakmt_ff_on_ca_r.cgi">æœ€æ–°ã®æƒ…å ±ã«æ›´æ–°</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">²“¡—Rˆß‚³‚ñì•i@Š´‘zŒf¦”Â</font><br>
+<font size="+2" color="#0000FF">ä½è—¤ç”±è¡£ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æ²ç¤ºæ¿</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200204/30012101/grandfather01.html" target="_blank">Am I a grandfather!? The 1st story</a></strong>  <i>2002/04/30 01:40:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200204/30012101/grandfather01.html" target="_blank">Am I a grandfather!? The 1st story</a></strong>  <i>2002/04/30 01:40:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020098452bwakmt&id2=1020098452bwakmt&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020098452bwakmt_id2_1020098452bwakmt_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-y„‘E•¶z‚à‚µ‚©‚µ‚½‚ç­”N­—•¶ŒÉ‰‚Æ‚È‚é‰pŒêì•i‚©‚à‚µ‚ê‚Ü‚¹‚ñB‚±‚Ìì•i‚Ì“ú–{Œê”Å‚ÍŸ‚ÌƒŠƒ“ƒN‚©‚ç‚Ç‚¤‚¼B<BR>This may be the first English work in this library. To read Japanese version, visit the site below.<BR><BR><a href="http://www.yuna.net/yui.html" target="_blank">http://www.yuna.net/yui.html</a>
+ã€æ¨è–¦æ–‡ã€‘ã‚‚ã—ã‹ã—ãŸã‚‰å°‘å¹´å°‘å¥³æ–‡åº«åˆã¨ãªã‚‹è‹±èªä½œå“ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚ã“ã®ä½œå“ã®æ—¥æœ¬èªç‰ˆã¯æ¬¡ã®ãƒªãƒ³ã‚¯ã‹ã‚‰ã©ã†ãã€‚<BR>This may be the first English work in this library. To read Japanese version, visit the site below.<BR><BR><a href="http://www.yuna.net/yui.html" target="_blank">http://www.yuna.net/yui.html</a>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ƒ„ƒ}ƒ_</strong>  <i>2002/04/30 06:32:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ãƒ¤ãƒãƒ€</strong>  <i>2002/04/30 06:32:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020115953hmlilr&id2=1020098452bwakmt&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020115953hmlilr_id2_1020098452bwakmt_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-¡“ú‚Íƒqƒgƒ‰[‚Ì©E‚µ‚½“ú‚Å‚·B<BR>o—ˆ‚ê‚Î‰pŒê‚Å‚Í‚È‚­ƒhƒCƒcŒê‚Å‘‚¢‚Ä‚Ù‚µ‚©‚Á‚½cB
+ä»Šæ—¥ã¯ãƒ’ãƒˆãƒ©ãƒ¼ã®è‡ªæ®ºã—ãŸæ—¥ã§ã™ã€‚<BR>å‡ºæ¥ã‚Œã°è‹±èªã§ã¯ãªããƒ‰ã‚¤ãƒ„èªã§æ›¸ã„ã¦ã»ã—ã‹ã£ãŸâ€¦ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">_‘¬Š´‘z‚Ì‚‚‹‚W‚S‚Q‚UiVery fast comment writerj</a></strong>  <i>2002/04/30 07:11:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ç¥é€Ÿæ„Ÿæƒ³ã®ï½ï½‹ï¼˜ï¼”ï¼’ï¼–ï¼ˆVery fast comment writerï¼‰</a></strong>  <i>2002/04/30 07:11:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020118314yirqyl&id2=1020098452bwakmt&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020118314yirqyl_id2_1020098452bwakmt_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-“Ç‚ñ‚¾ƒoƒCô<BR>‘æˆêˆóÛ‚Íu‰pŒêIvB<BR>Šw¶‘ã‚Ìˆ«–²‚ª‚æ‚İ‚ª‚¦‚é‚©‚Æv‚¢‚Ü‚µ‚½‚æiÎjB<BR>‚µ‚©‚àŠ´‘z‚à‰pŒê‚Æ“ú–{Œê‚Å‘‚¯‚Æ‚¢‚¤‚±‚Æ‚¾‚Á‚½‚Ì‚ÅAÅ‰‚ÍŠ´‘z‚ğ‘‚©‚È‚¢‚Å‚¨‚±‚¤‚©‚Æv‚¢‚Ü‚µ‚½i”šjB<BR>‚µ‚©‚µA‚»‚ê‚Å‚ÍŠ´‘z‘‚«‚ğ©”F‚·‚é‚‚‹‚W‚S‚Q‚U‚Ì–¼‚ª‚·‚½‚é‚Æv‚¢A–³—¿–|–óƒT[ƒrƒX‚Ì•‚¯‚ğØ‚è‚ÄAŠ´‘z‚ğ‘‚¢‚Ä‚¢‚Ü‚·B<BR>‚È‚©‚È‚©–Ê”’‚¢‚¨˜b‚Å‚·‚ËB‚±‚ê‚©‚ç“ñl‚ª‚Ç‚¤‚È‚Á‚Ä‚¢‚­‚Ì‚©A”ñí‚É‹»–¡‚ª‚ ‚è‚Ü‚·B<BR>Ÿ‰ñ‚àŠy‚µ‚İ‚É‚µ‚Ä‚¢‚Ü‚·‚æB<BR><BR>It read. <BR>The first impression is "English." <BR>I thought whether the nightmare of its school days would revive. <BR>And I thought whether it would set without writing comment at first, since it was that comment should also write in English and Japanese. <BR>However, it thinks that the name of mk8426 which then acknowledges comment writing goes out of use, the help of free translation service is borrowed, and comment are written. <BR>Is it a very much interesting talk? It is very interested in what two persons become after this. <BR>I am also looking forward to it next time. <BR><BR>„ƒ„ƒ}ƒ_‚³‚ñ<BR>‚ ‚È‚½æ“ú‚àuƒqƒgƒ‰[‚Ì¶‚Ü‚ê‚½“úEEEv‚Æ‚©‘‚¢‚Ä‚¢‚Ü‚µ‚½‚ªAƒqƒgƒ‰[D‚«‚È‚ñ‚Å‚·‚©H<BR>‚ ‚Ü‚è•\‚Éo‚³‚È‚¢•û‚ª‚¢‚¢‚Å‚·‚æA‚»‚êB‚±‚±‚ªƒhƒCƒc‚¾‚Á‚½‚ç‚Ç‚¤‚È‚Á‚Ä‚¢‚é‚±‚Æ‚©B
+èª­ã‚“ã ãƒã‚¤â™ª<BR>ç¬¬ä¸€å°è±¡ã¯ã€Œè‹±èªï¼ã€ã€‚<BR>å­¦ç”Ÿæ™‚ä»£ã®æ‚ªå¤¢ãŒã‚ˆã¿ãŒãˆã‚‹ã‹ã¨æ€ã„ã¾ã—ãŸã‚ˆï¼ˆç¬‘ï¼‰ã€‚<BR>ã—ã‹ã‚‚æ„Ÿæƒ³ã‚‚è‹±èªã¨æ—¥æœ¬èªã§æ›¸ã‘ã¨ã„ã†ã“ã¨ã ã£ãŸã®ã§ã€æœ€åˆã¯æ„Ÿæƒ³ã‚’æ›¸ã‹ãªã„ã§ãŠã“ã†ã‹ã¨æ€ã„ã¾ã—ãŸï¼ˆçˆ†ï¼‰ã€‚<BR>ã—ã‹ã—ã€ãã‚Œã§ã¯æ„Ÿæƒ³æ›¸ãã‚’è‡ªèªã™ã‚‹ï½ï½‹ï¼˜ï¼”ï¼’ï¼–ã®åãŒã™ãŸã‚‹ã¨æ€ã„ã€ç„¡æ–™ç¿»è¨³ã‚µãƒ¼ãƒ“ã‚¹ã®åŠ©ã‘ã‚’å€Ÿã‚Šã¦ã€æ„Ÿæƒ³ã‚’æ›¸ã„ã¦ã„ã¾ã™ã€‚<BR>ãªã‹ãªã‹é¢ç™½ã„ãŠè©±ã§ã™ã­ã€‚ã“ã‚Œã‹ã‚‰äºŒäººãŒã©ã†ãªã£ã¦ã„ãã®ã‹ã€éå¸¸ã«èˆˆå‘³ãŒã‚ã‚Šã¾ã™ã€‚<BR>æ¬¡å›ã‚‚æ¥½ã—ã¿ã«ã—ã¦ã„ã¾ã™ã‚ˆã€‚<BR><BR>It read. <BR>The first impression is "English." <BR>I thought whether the nightmare of its school days would revive. <BR>And I thought whether it would set without writing comment at first, since it was that comment should also write in English and Japanese. <BR>However, it thinks that the name of mk8426 which then acknowledges comment writing goes out of use, the help of free translation service is borrowed, and comment are written. <BR>Is it a very much interesting talk? It is very interested in what two persons become after this. <BR>I am also looking forward to it next time. <BR><BR>ï¼ãƒ¤ãƒãƒ€ã•ã‚“<BR>ã‚ãªãŸå…ˆæ—¥ã‚‚ã€Œãƒ’ãƒˆãƒ©ãƒ¼ã®ç”Ÿã¾ã‚ŒãŸæ—¥ãƒ»ãƒ»ãƒ»ã€ã¨ã‹æ›¸ã„ã¦ã„ã¾ã—ãŸãŒã€ãƒ’ãƒˆãƒ©ãƒ¼å¥½ããªã‚“ã§ã™ã‹ï¼Ÿ<BR>ã‚ã¾ã‚Šè¡¨ã«å‡ºã•ãªã„æ–¹ãŒã„ã„ã§ã™ã‚ˆã€ãã‚Œã€‚ã“ã“ãŒãƒ‰ã‚¤ãƒ„ã ã£ãŸã‚‰ã©ã†ãªã£ã¦ã„ã‚‹ã“ã¨ã‹ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">‚‚‹‚W‚S‚Q‚U</a></strong>  <i>2002/04/30 07:13:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ï½ï½‹ï¼˜ï¼”ï¼’ï¼–</a></strong>  <i>2002/04/30 07:13:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020118392plnnmhx&id2=1020098452bwakmt&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020118392plnnmhx_id2_1020098452bwakmt_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚ A•Ê‚ÉŠ´‘z‚ğ‰pŒê‚Å‘‚¯‚Æ‚ÍˆêŒ¾‚à‘‚¢‚Ä‚È‚¢‚âi”šjB
+ã‚ã€åˆ¥ã«æ„Ÿæƒ³ã‚’è‹±èªã§æ›¸ã‘ã¨ã¯ä¸€è¨€ã‚‚æ›¸ã„ã¦ãªã„ã‚„ï¼ˆçˆ†ï¼‰ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ƒ„ƒ}ƒ_</strong>  <i>2002/04/30 09:01:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ãƒ¤ãƒãƒ€</strong>  <i>2002/04/30 09:01:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020124862lutkb&id2=1020098452bwakmt&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020124862lutkb_id2_1020098452bwakmt_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-ƒqƒgƒ‰[‚È‚ñ‚©D‚«‚È–ó‚È‚¢‚Å‚µ‚å‚¤B‚ ‚ñ‚È‘ˆå‹`Ò‚Å‘å—Ê‹sE‚ğ‚µ‚½lŠÔ‚È‚ñ‚©B<BR>‚¿‚È‚İ‚ÉŒ¾‚í‚¹‚Ä‚à‚ç‚¤‚ÆAƒqƒgƒ‰[‚ª©E‚µ‚½‚Ì‚Í¡“ú‚Ì‚P‚T‚R‚O•ª‚²‚ëBˆ¤l‚ÌƒGƒ”ƒ@‚àˆê‚É©E‚µ‚Ü‚µ‚½B–¾“ú‚É‚ÍƒQƒbƒyƒ‹ƒX‚ªÈq‹Ÿ‚Æˆê‚É©EA‚»‚µ‚Ä5Œ2“ú@’n‰ºˆ‚ª”­Œ©‚³‚ê‚Ü‚µ‚½B<BR>‚º‚Ğ‰ä‚ª“¬‘ˆ‚ğ“Ç‚ñ‚ÅŒ©‚Ü‚µ‚å‚¤B‚È‚É‚ğ‘‚¢‚Ä‚ ‚é‚Ì‚©‚³‚Á‚Ï‚è—‰ğ‚Å‚«‚È‚¢‚Æv‚¢‚Ü‚·B„‚à‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B
+ãƒ’ãƒˆãƒ©ãƒ¼ãªã‚“ã‹å¥½ããªè¨³ãªã„ã§ã—ã‚‡ã†ã€‚ã‚ã‚“ãªå›½ç²‹ä¸»ç¾©è€…ã§å¤§é‡è™æ®ºã‚’ã—ãŸäººé–“ãªã‚“ã‹ã€‚<BR>ã¡ãªã¿ã«è¨€ã‚ã›ã¦ã‚‚ã‚‰ã†ã¨ã€ãƒ’ãƒˆãƒ©ãƒ¼ãŒè‡ªæ®ºã—ãŸã®ã¯ä»Šæ—¥ã®ï¼‘ï¼•æ™‚ï¼“ï¼åˆ†ã”ã‚ã€‚æ„›äººã®ã‚¨ãƒ´ã‚¡ã‚‚ä¸€ç·’ã«è‡ªæ®ºã—ã¾ã—ãŸã€‚æ˜æ—¥ã«ã¯ã‚²ãƒƒãƒšãƒ«ã‚¹ãŒå¦»å­ä¾›ã¨ä¸€ç·’ã«è‡ªæ®ºã€ãã—ã¦5æœˆ2æ—¥ã€€åœ°ä¸‹å£•ãŒç™ºè¦‹ã•ã‚Œã¾ã—ãŸã€‚<BR>ãœã²æˆ‘ãŒé—˜äº‰ã‚’èª­ã‚“ã§è¦‹ã¾ã—ã‚‡ã†ã€‚ãªã«ã‚’æ›¸ã„ã¦ã‚ã‚‹ã®ã‹ã•ã£ã±ã‚Šç†è§£ã§ããªã„ã¨æ€ã„ã¾ã™ã€‚ç§ã‚‚ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ƒmƒCƒ“(“d”g—d¸j</strong>  <i>2002/04/30 15:08:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ãƒã‚¤ãƒ³(é›»æ³¢å¦–ç²¾ï¼‰</strong>  <i>2002/04/30 15:08:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020146925adpmgl&id2=1020098452bwakmt&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020146925adpmgl_id2_1020098452bwakmt_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚¤‚¨A‰pŒê‚Å‚µ‚½i^^G<BR>‚¢‚â`‚¾‚¢‚Ô‚ñ«‘ˆø‚«‚Ü‚µ‚½‚æB<BR>¬à‚Á‚Ä‚¢‚¤‚Ì‚ÍA•¶–@‚Ç‚¨‚è‚É‘‚¢‚Ä‚½‚çAŒ˜‚­‚È‚Á‚¿‚á‚¤‚©‚à‚µ‚ê‚È‚¢‚Ì‚ÅA‘½­•ö‚ê‚Ä‚¢‚Ä‚à‚¢‚¢‚Ì‚Å‚ÍH@•¶–@“I‚É‚Ü‚¿‚ª‚Á‚Ä‚¢‚é‚©³‚µ‚¢‚Ì‚©A‚í‚©‚ç‚È‚¢„‚ªŒ¾‚¤‚Ì‚à‚È‚ñ‚Å‚·‚¯‚Çc‚Æ‚à‚ ‚êA’PŒê‚ğ‘f“G‚È‚Ù‚Ç«‘‚Åˆø‚¢‚ÄA‚È‚ñ‚Æ‚È‚­‘åˆÓ‚Í‚Â‚©‚ß‚Ü‚µ‚½B‚±‚ê‚Ícu“ü‚ê‘Ö‚í‚èv‚¾‚Æ‚¢‚¤‚±‚Æ‚ª‚í‚©‚Á‚½‚æ‚¤‚Èc<BR><BR>‚â‚Á‚ÏA‰pŒê‚Ì•Ç‚Í‚‚©‚Á‚½c‚Å‚à‚¨‚à‚µ‚ë‚©‚Á‚½‚Ì‚ÅA‘±‚«‚ªŒ©‚½‚¢‚à‚Ì‚Å‚·B
+ã†ãŠã€è‹±èªã§ã—ãŸï¼ˆ^^ï¼›<BR>ã„ã‚„ï½ã ã„ã¶ã‚“è¾æ›¸å¼•ãã¾ã—ãŸã‚ˆã€‚<BR>å°èª¬ã£ã¦ã„ã†ã®ã¯ã€æ–‡æ³•ã©ãŠã‚Šã«æ›¸ã„ã¦ãŸã‚‰ã€å …ããªã£ã¡ã‚ƒã†ã‹ã‚‚ã—ã‚Œãªã„ã®ã§ã€å¤šå°‘å´©ã‚Œã¦ã„ã¦ã‚‚ã„ã„ã®ã§ã¯ï¼Ÿã€€æ–‡æ³•çš„ã«ã¾ã¡ãŒã£ã¦ã„ã‚‹ã‹æ­£ã—ã„ã®ã‹ã€ã‚ã‹ã‚‰ãªã„ç§ãŒè¨€ã†ã®ã‚‚ãªã‚“ã§ã™ã‘ã©â€¦ã¨ã‚‚ã‚ã‚Œã€å˜èªã‚’ç´ æ•µãªã»ã©è¾æ›¸ã§å¼•ã„ã¦ã€ãªã‚“ã¨ãªãå¤§æ„ã¯ã¤ã‹ã‚ã¾ã—ãŸã€‚ã“ã‚Œã¯â€¦ã€Œå…¥ã‚Œæ›¿ã‚ã‚Šã€ã ã¨ã„ã†ã“ã¨ãŒã‚ã‹ã£ãŸã‚ˆã†ãªâ€¦<BR><BR>ã‚„ã£ã±ã€è‹±èªã®å£ã¯é«˜ã‹ã£ãŸâ€¦ã§ã‚‚ãŠã‚‚ã—ã‚ã‹ã£ãŸã®ã§ã€ç¶šããŒè¦‹ãŸã„ã‚‚ã®ã§ã™ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ƒmƒCƒ“(“d”g—d¸j</strong>  <i>2002/04/30 18:56:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ãƒã‚¤ãƒ³(é›»æ³¢å¦–ç²¾ï¼‰</strong>  <i>2002/04/30 18:56:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020160581xbprkx&id2=1020098452bwakmt&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020160581xbprkx_id2_1020098452bwakmt_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-–³’m‚³‚ğN‚·‚æ‚¤‚ÅA‚¿‚å‚Á‚Ò‚è’p‚¸‚©‚µ‚¢‚ñ‚Å‚·‚¯‚Çc–`“ª•t‹ß‚Ìƒpƒ\ƒRƒ“‚ª‚È‚ñ‚½‚ç‚Ì•”•ª‚Ì’¼Œã‚Åc<BR><BR>"I think that it is usually."<BR><BR>‚±‚ÌˆÓ–¡‚Á‚Äcy‚»‚ê‚Í‚¢‚Â‚à‚Ì‚æ‚¤‚¾‚Æ„‚Ív‚¤Bz‚Å‚¢‚¢‚ñ‚Å‚µ‚å‚¤‚©H@‚à‚µ‚©‚µ‚Ä‚àA‚à‚µ‚©‚µ‚Ä‚È‚ñ‚Å‚·‚ªcusefulH‚Ì‚Ü‚¿‚ª‚¢H<BR>‘O‚Ì•¶‚ª‚È‚É‚â‚çAV‚µ‚¢ÅVŒ^‚Ìƒpƒ\ƒRƒ“‚Ì‚±‚Æ‚ğ‘‚¢‚Ä‚ ‚é‚İ‚½‚¢‚È‚ñ‚ÅA‚»‚¤‚©‚È‚ ‚Æ‚©v‚Á‚¿‚á‚¢‚Ü‚µ‚½B<BR><BR>‚»‚ê‚ÆA‚‚‹‚W‚S‚Q‚U‚³‚ñ‚ÌŠ´‘zc<BR>“Ç‚ñ‚¾ƒoƒCô‚Á‚ÄAit read@‚É‚È‚é‚ñ‚Å‚·‚©H@‚à‚µ‚©‚µ‚Äc<BR>I read H@‚Æ‚©v‚Á‚¿‚á‚¢‚Ü‚µ‚½Bˆá‚Á‚½‚ç‚²‚ß‚ñ‚È‚³‚¢c<BR><BR>‰pŒê‚ğw“E‚·‚é‚Ì‚Í—E‹C‚ª‚¢‚è‚Ü‚·BiOOGGG<BR>
+ç„¡çŸ¥ã•ã‚’æ™’ã™ã‚ˆã†ã§ã€ã¡ã‚‡ã£ã´ã‚Šæ¥ãšã‹ã—ã„ã‚“ã§ã™ã‘ã©â€¦å†’é ­ä»˜è¿‘ã®ãƒ‘ã‚½ã‚³ãƒ³ãŒãªã‚“ãŸã‚‰ã®éƒ¨åˆ†ã®ç›´å¾Œã§â€¦<BR><BR>"I think that it is usually."<BR><BR>ã“ã®æ„å‘³ã£ã¦â€¦ã€ãã‚Œã¯ã„ã¤ã‚‚ã®ã‚ˆã†ã ã¨ç§ã¯æ€ã†ã€‚ã€‘ã§ã„ã„ã‚“ã§ã—ã‚‡ã†ã‹ï¼Ÿã€€ã‚‚ã—ã‹ã—ã¦ã‚‚ã€ã‚‚ã—ã‹ã—ã¦ãªã‚“ã§ã™ãŒâ€¦usefulï¼Ÿã®ã¾ã¡ãŒã„ï¼Ÿ<BR>å‰ã®æ–‡ãŒãªã«ã‚„ã‚‰ã€æ–°ã—ã„æœ€æ–°å‹ã®ãƒ‘ã‚½ã‚³ãƒ³ã®ã“ã¨ã‚’æ›¸ã„ã¦ã‚ã‚‹ã¿ãŸã„ãªã‚“ã§ã€ãã†ã‹ãªã‚ã¨ã‹æ€ã£ã¡ã‚ƒã„ã¾ã—ãŸã€‚<BR><BR>ãã‚Œã¨ã€ï½ï½‹ï¼˜ï¼”ï¼’ï¼–ã•ã‚“ã®æ„Ÿæƒ³â€¦<BR>èª­ã‚“ã ãƒã‚¤â™ªã£ã¦ã€it readã€€ã«ãªã‚‹ã‚“ã§ã™ã‹ï¼Ÿã€€ã‚‚ã—ã‹ã—ã¦â€¦<BR>I read ï¼Ÿã€€ã¨ã‹æ€ã£ã¡ã‚ƒã„ã¾ã—ãŸã€‚é•ã£ãŸã‚‰ã”ã‚ã‚“ãªã•ã„â€¦<BR><BR>è‹±èªã‚’æŒ‡æ‘˜ã™ã‚‹ã®ã¯å‹‡æ°—ãŒã„ã‚Šã¾ã™ã€‚ï¼ˆï¼¾ï¼¾ï¼›ï¼›ï¼›<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">‚‚‹‚W‚S‚Q‚U</a></strong>  <i>2002/04/30 22:18:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ï½ï½‹ï¼˜ï¼”ï¼’ï¼–</a></strong>  <i>2002/04/30 22:18:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020172723fkffaxt&id2=1020098452bwakmt&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020172723fkffaxt_id2_1020098452bwakmt_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚ê‚·‚ê‚·<BR>„ƒ„ƒ}ƒ_‚³‚ñ<BR>„ƒqƒgƒ‰[‚È‚ñ‚©D‚«‚È–ó‚È‚¢‚Å‚µ‚å‚¤B‚ ‚ñ‚È‘ˆå‹`Ò‚Å‘å—Ê‹sE‚ğ‚µ‚½lŠÔ‚È‚ñ‚©B<BR>‚¾‚Á‚½‚ç‚ ‚ñ‚È‚±‚Æ‘‚«‚È‚³‚ñ‚ÈB‚ ‚ê‚¶‚á‚Ç‚¤l‚¦‚Ä‚àƒlƒIƒiƒ`‚Ìå’£‚Å‚·‚æB<BR>­‚µ‚ÍĞ‰ïí¯‚Æ‚¢‚¤‚à‚Ì‚ğ‚í‚«‚Ü‚¦‚½‚ç‚¢‚©‚ª‚Å‚·H<BR>Œµ‚µ‚¢Œ¾‚¢•û‚Ì‚æ‚¤‚Å‚·‚ªA¢‚Ì’†‚Í‚à‚Á‚ÆŒµ‚µ‚¢‚Ì‚Å‚·B’†“r”¼’[‚È’m¯‚ğU‚è‰ñ‚·‚Ì‚Í‚Í‚Á‚«‚èŒ¾‚Á‚Ä–³’m‚æ‚è•|‚¢‚Ì‚Å‚·‚æB<BR><BR>„ƒmƒCƒ“‚³‚ñ<BR>„“Ç‚ñ‚¾ƒoƒCô‚Á‚ÄAit read@‚É‚È‚é‚ñ‚Å‚·‚©H<BR>‚Ü‚³‚©u“Ç‚ñ‚¾ƒoƒCôv‚»‚Ì‚Ü‚Ü‚Å–|–ó‚Å‚«‚é‚í‚¯‚Í‚È‚¢‚ñ‚ÅA‚±‚±‚¾‚¯‚Íu“Ç‚İ‚Ü‚µ‚½v‚Å–|–ó‚©‚¯‚Ü‚µ‚½B‚»‚ÌŒ‹‰Ê‚ªuIt read.v‚¾‚Á‚½‚Æ‚¢‚¤‚í‚¯‚Å‚·B<BR>‚¿‚È‚İ‚É—˜—p‚µ‚½–|–óƒT[ƒrƒX‚ÍƒJƒLƒR‚µ‚½–|–óƒTƒCƒg‚Å‚Í‚È‚­AIE‚ÉDL‚µ‚½Infoseekƒc[ƒ‹ƒo[‚Ì–|–ó‹@”\‚Å‚·B
+ã‚Œã™ã‚Œã™<BR>ï¼ãƒ¤ãƒãƒ€ã•ã‚“<BR>ï¼ãƒ’ãƒˆãƒ©ãƒ¼ãªã‚“ã‹å¥½ããªè¨³ãªã„ã§ã—ã‚‡ã†ã€‚ã‚ã‚“ãªå›½ç²‹ä¸»ç¾©è€…ã§å¤§é‡è™æ®ºã‚’ã—ãŸäººé–“ãªã‚“ã‹ã€‚<BR>ã ã£ãŸã‚‰ã‚ã‚“ãªã“ã¨æ›¸ããªã•ã‚“ãªã€‚ã‚ã‚Œã˜ã‚ƒã©ã†è€ƒãˆã¦ã‚‚ãƒã‚ªãƒŠãƒã®ä¸»å¼µã§ã™ã‚ˆã€‚<BR>å°‘ã—ã¯ç¤¾ä¼šå¸¸è­˜ã¨ã„ã†ã‚‚ã®ã‚’ã‚ãã¾ãˆãŸã‚‰ã„ã‹ãŒã§ã™ï¼Ÿ<BR>å³ã—ã„è¨€ã„æ–¹ã®ã‚ˆã†ã§ã™ãŒã€ä¸–ã®ä¸­ã¯ã‚‚ã£ã¨å³ã—ã„ã®ã§ã™ã€‚ä¸­é€”åŠç«¯ãªçŸ¥è­˜ã‚’æŒ¯ã‚Šå›ã™ã®ã¯ã¯ã£ãã‚Šè¨€ã£ã¦ç„¡çŸ¥ã‚ˆã‚Šæ€–ã„ã®ã§ã™ã‚ˆã€‚<BR><BR>ï¼ãƒã‚¤ãƒ³ã•ã‚“<BR>ï¼èª­ã‚“ã ãƒã‚¤â™ªã£ã¦ã€it readã€€ã«ãªã‚‹ã‚“ã§ã™ã‹ï¼Ÿ<BR>ã¾ã•ã‹ã€Œèª­ã‚“ã ãƒã‚¤â™ªã€ãã®ã¾ã¾ã§ç¿»è¨³ã§ãã‚‹ã‚ã‘ã¯ãªã„ã‚“ã§ã€ã“ã“ã ã‘ã¯ã€Œèª­ã¿ã¾ã—ãŸã€ã§ç¿»è¨³ã‹ã‘ã¾ã—ãŸã€‚ãã®çµæœãŒã€ŒIt read.ã€ã ã£ãŸã¨ã„ã†ã‚ã‘ã§ã™ã€‚<BR>ã¡ãªã¿ã«åˆ©ç”¨ã—ãŸç¿»è¨³ã‚µãƒ¼ãƒ“ã‚¹ã¯ã‚«ã‚­ã‚³ã—ãŸç¿»è¨³ã‚µã‚¤ãƒˆã§ã¯ãªãã€IEã«DLã—ãŸInfoseekãƒ„ãƒ¼ãƒ«ãƒãƒ¼ã®ç¿»è¨³æ©Ÿèƒ½ã§ã™ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ƒmƒCƒ“(“d”g—d¸j</strong>  <i>2002/04/30 22:23:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ãƒã‚¤ãƒ³(é›»æ³¢å¦–ç²¾ï¼‰</strong>  <i>2002/04/30 22:23:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020172984ytrxsk&id2=1020098452bwakmt&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020172984ytrxsk_id2_1020098452bwakmt_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚Ù‚¤A‚È‚é‚Ù‚Çc‚‚‹‚W‚S‚Q‚U‚³‚ñA‚³‚ñ‚­‚·ô<BR>“Ç‚İ‚Ü‚µ‚½BƒCƒbƒgƒŠ[ƒhô@‚È‚ñ‚¾‚©‚©‚Á‚±‚¢‚¢‚Ìô<BR>cccc<BR>‚·‚¢‚Ü‚¹‚ñAl—l‚ÌŒf¦”Â‚Å‚Í‚µ‚á‚¢‚Åc‚»‚ê‚Å‚Í`ô<BR>
+ã»ã†ã€ãªã‚‹ã»ã©â€¦ï½ï½‹ï¼˜ï¼”ï¼’ï¼–ã•ã‚“ã€ã•ã‚“ãã™â™ª<BR>èª­ã¿ã¾ã—ãŸã€‚ã‚¤ãƒƒãƒˆãƒªãƒ¼ãƒ‰â™ªã€€ãªã‚“ã ã‹ã‹ã£ã“ã„ã„ã®â™ª<BR>â€¦â€¦â€¦â€¦<BR>ã™ã„ã¾ã›ã‚“ã€äººæ§˜ã®æ²ç¤ºæ¿ã§ã¯ã—ã‚ƒã„ã§â€¦ãã‚Œã§ã¯ï½â™ª<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ƒ„ƒ}ƒ_</strong>  <i>2002/05/01 06:29:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ãƒ¤ãƒãƒ€</strong>  <i>2002/05/01 06:29:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020202185vaikw&id2=1020098452bwakmt&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020202185vaikw_id2_1020098452bwakmt_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-ˆê‚ÂA_‘¬Š´‘z—l‚ÖB<BR>ƒlƒIƒiƒ`‚Æ‚Íƒqƒgƒ‰[ƒtƒ@ƒ“ƒNƒ‰ƒu‚Å‚Í‚ ‚è‚Ü‚¹‚ñB‚ ‚¢‚Â‚ç‚Ì–Úw‚·—‘z‚Æ‚ÍŠO‘l‚ğƒˆ[ƒƒbƒp‚©‚ç”rË‚·‚é–‚ÅA‚à‚¿‚ë‚ñ„‚½‚¿‰©Flí‚àŠÜ‚Ü‚ê‚Ä‚¨‚è‚Ü‚·B‚¾‚©‚ç“ú–{l‚ªƒlƒIƒiƒ`‚Æ‚¢‚¤v‘z‚Íª–{“I‚É¶‚Ü‚ê‚È‚¢‚Æ„‚Íl‚¦‚Ä‚¨‚è‚Ü‚·B<BR>_‘¬Š´‘z—l‚àˆê”Êí¯‚Æ‚µ‚Äˆê‚Â’m‚Á‚Ä‚¨‚«‚Ü‚µ‚å‚¤
+ä¸€ã¤ã€ç¥é€Ÿæ„Ÿæƒ³æ§˜ã¸ã€‚<BR>ãƒã‚ªãƒŠãƒã¨ã¯ãƒ’ãƒˆãƒ©ãƒ¼ãƒ•ã‚¡ãƒ³ã‚¯ãƒ©ãƒ–ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚ã‚ã„ã¤ã‚‰ã®ç›®æŒ‡ã™ç†æƒ³ã¨ã¯å¤–å›½äººã‚’ãƒ¨ãƒ¼ãƒ­ãƒƒãƒ‘ã‹ã‚‰æ’æ–¥ã™ã‚‹äº‹ã§ã€ã‚‚ã¡ã‚ã‚“ç§ãŸã¡é»„è‰²äººç¨®ã‚‚å«ã¾ã‚Œã¦ãŠã‚Šã¾ã™ã€‚ã ã‹ã‚‰æ—¥æœ¬äººãŒãƒã‚ªãƒŠãƒã¨ã„ã†æ€æƒ³ã¯æ ¹æœ¬çš„ã«ç”Ÿã¾ã‚Œãªã„ã¨ç§ã¯è€ƒãˆã¦ãŠã‚Šã¾ã™ã€‚<BR>ç¥é€Ÿæ„Ÿæƒ³æ§˜ã‚‚ä¸€èˆ¬å¸¸è­˜ã¨ã—ã¦ä¸€ã¤çŸ¥ã£ã¦ãŠãã¾ã—ã‚‡ã†
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ƒ„ƒ}ƒ_</strong>  <i>2002/05/01 06:54:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ãƒ¤ãƒãƒ€</strong>  <i>2002/05/01 06:54:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020203672oblpo&id2=1020098452bwakmt&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020203672oblpo_id2_1020098452bwakmt_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚ ‚Æ¢‚Ì’†‚ğŒµ‚µ‚¢‚ÆŒ©‚él‚¦‚Í„‚Í‘åŒ™‚¢‚Å‚·BŠm‚©‚ÉŒ»İ‚ÌŒoÏó‘Ô‚©‚çlŠÔŠÖŒW‚É‚¨‚¯‚é‚Ü‚ÅA’ê–³‚µÀ‚Ì‚²‚Æ‚­â–]“I‚Èó‘Ô‚Å‚·B<BR>‚µ‚©‚µ¢‚Ì’†‚ğ‚¢‚©‚ÉŠ´‚¶‚é‚©‚ÍlŠÔ‚»‚Ì‚à‚Ì‚Ì“w—Í‚ÆŠ´î‚Å‚·B<BR>‚»‚ê‚ğª‚Á‚©‚ç”Û’è‚·‚é‚æ‚¤‚ÉwŒµ‚µ‚¢x‚Æ‚¢‚¤‚Ì‚ÍA‚Í‚Á‚«‚è‚¢‚Á‚Ä©•ª‚©‚çl¶‚ğ”j‰ó‚·‚é‚æ‚¤‚È‚à‚Ì‚Å‚µ‚å‚¤B<BR>—ğj‚ğŒ©‚Ä‚­‚¾‚³‚¢BƒhƒCƒc‘–¯‚Í‚½‚¾Ğ‰ï‚ğŒµ‚µ‚¢‚à‚Ì‚¾‚Æv‚¢‚İA‹~¢å“I‚Èƒqƒgƒ‰[‚É•‚¯‚ğ‚à‚Æ‚ß‚Ä‚µ‚Ü‚Á‚½‚Ì‚Å‚·B<BR>‚»‚ÌŒ‹‰Ê‚ÍŒ¾‚¤‚Ü‚Å‚à‚È‚¢‚Å‚µ‚å‚¤
+ã‚ã¨ä¸–ã®ä¸­ã‚’å³ã—ã„ã¨è¦‹ã‚‹è€ƒãˆã¯ç§ã¯å¤§å«Œã„ã§ã™ã€‚ç¢ºã‹ã«ç¾åœ¨ã®çµŒæ¸ˆçŠ¶æ…‹ã‹ã‚‰äººé–“é–¢ä¿‚ã«ãŠã‘ã‚‹ã¾ã§ã€åº•ç„¡ã—æ²¼ã®ã”ã¨ãçµ¶æœ›çš„ãªçŠ¶æ…‹ã§ã™ã€‚<BR>ã—ã‹ã—ä¸–ã®ä¸­ã‚’ã„ã‹ã«æ„Ÿã˜ã‚‹ã‹ã¯äººé–“ãã®ã‚‚ã®ã®åŠªåŠ›ã¨æ„Ÿæƒ…ã§ã™ã€‚<BR>ãã‚Œã‚’æ ¹ã£ã‹ã‚‰å¦å®šã™ã‚‹ã‚ˆã†ã«ã€å³ã—ã„ã€ã¨ã„ã†ã®ã¯ã€ã¯ã£ãã‚Šã„ã£ã¦è‡ªåˆ†ã‹ã‚‰äººç”Ÿã‚’ç ´å£Šã™ã‚‹ã‚ˆã†ãªã‚‚ã®ã§ã—ã‚‡ã†ã€‚<BR>æ­´å²ã‚’è¦‹ã¦ãã ã•ã„ã€‚ãƒ‰ã‚¤ãƒ„å›½æ°‘ã¯ãŸã ç¤¾ä¼šã‚’å³ã—ã„ã‚‚ã®ã ã¨æ€ã„è¾¼ã¿ã€æ•‘ä¸–ä¸»çš„ãªãƒ’ãƒˆãƒ©ãƒ¼ã«åŠ©ã‘ã‚’ã‚‚ã¨ã‚ã¦ã—ã¾ã£ãŸã®ã§ã™ã€‚<BR>ãã®çµæœã¯è¨€ã†ã¾ã§ã‚‚ãªã„ã§ã—ã‚‡ã†
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>‘æOÒ</strong>  <i>2002/05/01 08:39:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ç¬¬ä¸‰è€…</strong>  <i>2002/05/01 08:39:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020209970qycrr&id2=1020098452bwakmt&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020209970qycrr_id2_1020098452bwakmt_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Š´‘zŒf¦”Â‚Æ‚¢‚¤ê‚Åï|‚ÆˆÙ‚È‚é˜b‘è‚ğ‘±‚¯‚é‚Ì‚Í‚¢‚©‚ª‚©‚Æv‚¢‚Ü‚·‚ªB<BR>‚»‚ê‚¼‚êå’£‚âŒ¾‚¢‚½‚¢–‚ª‚ ‚é‚È‚çêŠ‚ğˆÚ‚³‚ê‚Ä‚Í‚¢‚©‚ª‚Å‚·H<BR>‚±‚ê‚Å‚ÍŠ´‘z‚ğ‘‚«‚ß‚é‚æ‚¤‚È•µˆÍ‹C‚¶‚á‚È‚¢‚Å‚·‚æB
+æ„Ÿæƒ³æ²ç¤ºæ¿ã¨ã„ã†å ´ã§è¶£æ—¨ã¨ç•°ãªã‚‹è©±é¡Œã‚’ç¶šã‘ã‚‹ã®ã¯ã„ã‹ãŒã‹ã¨æ€ã„ã¾ã™ãŒã€‚<BR>ãã‚Œãã‚Œä¸»å¼µã‚„è¨€ã„ãŸã„äº‹ãŒã‚ã‚‹ãªã‚‰å ´æ‰€ã‚’ç§»ã•ã‚Œã¦ã¯ã„ã‹ãŒã§ã™ï¼Ÿ<BR>ã“ã‚Œã§ã¯æ„Ÿæƒ³ã‚’æ›¸ãè¾¼ã‚ã‚‹ã‚ˆã†ãªé›°å›²æ°—ã˜ã‚ƒãªã„ã§ã™ã‚ˆã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">‚‚‹‚W‚S‚Q‚U</a></strong>  <i>2002/05/01 22:27:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ï½ï½‹ï¼˜ï¼”ï¼’ï¼–</a></strong>  <i>2002/05/01 22:27:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020259622exiamf&id2=1020098452bwakmt&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020259622exiamf_id2_1020098452bwakmt_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚»‚ê‚Å‚ÍAƒ„ƒ}ƒ_‚³‚ñA‚±‚¿‚ç‚ÖB<BR><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1020259565ohguyb&ff=on" target="_blank">http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1020259565ohguyb&ff=on</a><BR><BR>‘¼‚Ì•ûXA‚²–À˜f‚ğ‚¨‚©‚¯‚µ‚Ü‚µ‚½B
+ãã‚Œã§ã¯ã€ãƒ¤ãƒãƒ€ã•ã‚“ã€ã“ã¡ã‚‰ã¸ã€‚<BR><a href="noteky@c_noteread_f_1_id_1020259565ohguyb_ff_on.cgi" target="_blank">noteky@c_noteread_f_1_id_1020259565ohguyb_ff_on.cgi</a><BR><BR>ä»–ã®æ–¹ã€…ã€ã”è¿·æƒ‘ã‚’ãŠã‹ã‘ã—ã¾ã—ãŸã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>‚·‚È‚³‚ñ</strong>  <i>2002/05/02 01:13:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ã™ãªã•ã‚“</strong>  <i>2002/05/02 01:13:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020269599pxbpxqd&id2=1020098452bwakmt&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020269599pxbpxqd_id2_1020098452bwakmt_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-ŠÕ˜b‹x‘èB<BR><BR>ŠÔˆá‚¢‚É‚Â‚¢‚ÄB<BR>‹C‚É‚·‚é‚¾‚¯‘¹‚Å‚·Bi•ÙŒìm‚Ìƒz[ƒ€ƒy[ƒW‚É‚àŒ‹\ŠÔˆá‚¢‚ª‚ ‚Á‚½‚è‚µ‚Ü‚·‚©‚çj<BR><BR>‰p•¶‚ÌŠÔˆá‚¢‚æ‚è‚à<BR>uFront  Pagev‚ª©“®¶¬‚·‚éƒ^ƒO‚Æ—v‘f‚Ì•û‚É–â‘è‚ª‘½‚¢‚æ‚¤‚ÈcB<BR><BR>‰p•¶‚Ì•û‚ÍA‚Æ‚¢‚¤‚Æc‘å‚«‚ÈA•¶–¬‚ª—‚ê‚é‚æ‚¤‚ÈŠÔˆá‚¢‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B<BR>i‚Q‚P¢‹I¨A.D. 21th centuryj<BR> À‚É×‚©‚¢‚±‚Æ‚Å‹°k‚Å‚·‚ªA<BR>uŒ´‘¥‚Æ‚µ‚Ä“¯‚¶’i—“à‚Å‚Í§‚Íˆê’v‚³‚¹‚év‚Æ‚¢‚¤‚Ì‚ÆA<BR>uåŒê‚ª’·‚¢•¶‚ÍŒ™‚í‚ê‚é‚Ì‚ÅAuitv‚ğg‚Á‚ÄåŒê‚Ég‚¢‚½‚©‚Á‚½•”•ª‚ÍqŒê‚É‚·‚év‚±‚Æ‚Æ‚©A<BR>u“ú–{Œê‚Å‚Íwc‚µ‚½x‚Å‚à‰p•¶‚Å‚ÍŒ»‘ãŒ^‚ÌƒP[ƒX‚ª–w‚Çv‚¾‚Æ‚©A<BR>‚»‚Ì’ö“x‚Å‚·B
+é–‘è©±ä¼‘é¡Œã€‚<BR><BR>é–“é•ã„ã«ã¤ã„ã¦ã€‚<BR>æ°—ã«ã™ã‚‹ã ã‘æã§ã™ã€‚ï¼ˆå¼è­·å£«ã®ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸ã«ã‚‚çµæ§‹é–“é•ã„ãŒã‚ã£ãŸã‚Šã—ã¾ã™ã‹ã‚‰ï¼‰<BR><BR>è‹±æ–‡ã®é–“é•ã„ã‚ˆã‚Šã‚‚<BR>ã€ŒFront  Pageã€ãŒè‡ªå‹•ç”Ÿæˆã™ã‚‹ã‚¿ã‚°ã¨è¦ç´ ã®æ–¹ã«å•é¡ŒãŒå¤šã„ã‚ˆã†ãªâ€¦ã€‚<BR><BR>è‹±æ–‡ã®æ–¹ã¯ã€ã¨ã„ã†ã¨â€¦å¤§ããªã€æ–‡è„ˆãŒä¹±ã‚Œã‚‹ã‚ˆã†ãªé–“é•ã„ã¯ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸã€‚<BR>ï¼ˆï¼’ï¼‘ä¸–ç´€â†’A.D. 21th centuryï¼‰<BR> å®Ÿã«ç´°ã‹ã„ã“ã¨ã§æç¸®ã§ã™ãŒã€<BR>ã€ŒåŸå‰‡ã¨ã—ã¦åŒã˜æ®µè½å†…ã§ã¯æ™‚åˆ¶ã¯ä¸€è‡´ã•ã›ã‚‹ã€ã¨ã„ã†ã®ã¨ã€<BR>ã€Œä¸»èªãŒé•·ã„æ–‡ã¯å«Œã‚ã‚Œã‚‹ã®ã§ã€ã€Œitã€ã‚’ä½¿ã£ã¦ä¸»èªã«ä½¿ã„ãŸã‹ã£ãŸéƒ¨åˆ†ã¯è¿°èªã«ã™ã‚‹ã€ã“ã¨ã¨ã‹ã€<BR>ã€Œæ—¥æœ¬èªã§ã¯ã€â€¦ã—ãŸã€ã§ã‚‚è‹±æ–‡ã§ã¯ç¾ä»£å‹ã®ã‚±ãƒ¼ã‚¹ãŒæ®†ã©ã€ã ã¨ã‹ã€<BR>ãã®ç¨‹åº¦ã§ã™ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="‚™‚‚“‚‰‚‚‹‚|‚…‚‰‚‹‚‚“‚•—‚‚–‚ˆD‚‚‚‰‚‡‚Œ‚‚‚‚…D‚‚…D‚Š‚" target="_blank">‚æ‚µ‚¨‚©</a></strong>  <i>2002/05/04 07:02:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="ï½™ï½ï½“ï½‰ï½ï½‹ï½ï¼ï½…ï½‰ï½‹ï½ï½“ï½•ï¼ ï½ï½–ï½ˆï¼ï½‚ï½‰ï½‡ï½Œï½ï½‚ï½…ï¼ï½ï½…ï¼ï½Šï½" target="_blank">ã‚ˆã—ãŠã‹</a></strong>  <i>2002/05/04 07:02:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020463366fetmu&id2=1020098452bwakmt&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020463366fetmu_id2_1020098452bwakmt_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-²“¡‚³‚ñA‚·‚İ‚Ü‚¹‚ñB–{“–‚ÍAu‚í‚½‚µ‚ªA‚¨‚¶‚¢‚¿‚á‚ñIHv‚ÌŠ´‘z‚ğ‘‚­‚×‚«‚È‚Ì‚Å‚µ‚å‚¤‚ªA‚ ‚Ü‚è‚É‰ù‚©‚µ‚¢ì•i‚ğŒ©‚³‚¹‚Ä‚¢‚½‚¾‚¢‚½‚à‚Ì‚ÅEEE<BR>‚â‚Í‚èu‚í‚½‚µ‚ª‚¨‚Î‚ ‚¿‚á‚ñIHv‚ÍA‚ ‚ê‚ÅŠ®Œ‹‚Å‚·‚©B‰‚ß‚Ä“Ç‚Ü‚¹‚Ä‚¢‚½‚¾‚¢‚½‚Æ‚«A‚È‚ñ‚¾‚©Aâ‚µ‚¢‹C‚¿‚É‚È‚Á‚½‚Ì‚ğv‚¢o‚µ‚Ü‚µ‚½B‚»‚µ‚ÄA‚¨‚Î‚ ‚¿‚á‚ñ‚É‚È‚Á‚½—R”üq‚ª‚Ç‚¤‚È‚é‚Ì‚©B‚¨•·‚«‚µ‚½‚±‚Æ‚à‰ù‚©‚µ‚­v‚¢o‚µ‚Ä‚¢‚Ü‚·B<BR>‚Å‚«‚ê‚ÎA‚Ü‚½A²“¡‚³‚ñ‚Ìì•i‚ğA“Ç‚Ü‚¹‚Ä‚­‚¾‚³‚¢B‚æ‚ë‚µ‚­‚¨Šè‚¢‚¢‚½‚µ‚Ü‚·B
+ä½è—¤ã•ã‚“ã€ã™ã¿ã¾ã›ã‚“ã€‚æœ¬å½“ã¯ã€ã€Œã‚ãŸã—ãŒã€ãŠã˜ã„ã¡ã‚ƒã‚“ï¼ï¼Ÿã€ã®æ„Ÿæƒ³ã‚’æ›¸ãã¹ããªã®ã§ã—ã‚‡ã†ãŒã€ã‚ã¾ã‚Šã«æ‡ã‹ã—ã„ä½œå“ã‚’è¦‹ã•ã›ã¦ã„ãŸã ã„ãŸã‚‚ã®ã§ãƒ»ãƒ»ãƒ»<BR>ã‚„ã¯ã‚Šã€Œã‚ãŸã—ãŒãŠã°ã‚ã¡ã‚ƒã‚“ï¼ï¼Ÿã€ã¯ã€ã‚ã‚Œã§å®Œçµã§ã™ã‹ã€‚åˆã‚ã¦èª­ã¾ã›ã¦ã„ãŸã ã„ãŸã¨ãã€ãªã‚“ã ã‹ã€å¯‚ã—ã„æ°—æŒã¡ã«ãªã£ãŸã®ã‚’æ€ã„å‡ºã—ã¾ã—ãŸã€‚ãã—ã¦ã€ãŠã°ã‚ã¡ã‚ƒã‚“ã«ãªã£ãŸç”±ç¾å­ãŒã©ã†ãªã‚‹ã®ã‹ã€‚ãŠèãã—ãŸã“ã¨ã‚‚æ‡ã‹ã—ãæ€ã„å‡ºã—ã¦ã„ã¾ã™ã€‚<BR>ã§ãã‚Œã°ã€ã¾ãŸã€ä½è—¤ã•ã‚“ã®ä½œå“ã‚’ã€èª­ã¾ã›ã¦ãã ã•ã„ã€‚ã‚ˆã‚ã—ããŠé¡˜ã„ã„ãŸã—ã¾ã™ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>²“¡—Rˆß</strong>  <i>2002/05/05 22:42:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ä½è—¤ç”±è¡£</strong>  <i>2002/05/05 22:42:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020606143jqadbjx&id2=1020098452bwakmt&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020606143jqadbjx_id2_1020098452bwakmt_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Š´‘z‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü`‚·<BR>‰pŒê‰»‚É‚Â‚¢‚Ä‚ÍA‚Q`‚R“ú‚©‚¯‚Äì¬‚µ‚Ä‚¢‚Ü‚·B<BR>”½‘Î‚ÉA“ú–{Œê–ñ‚Ì•\‹Lì•i‚Í•ÛŠÇ‚µ‚Ä‚¢‚Ü‚¹‚ñB<BR><BR>Ì‚Ì˜b‚ªo‚Ä‚«‚½‚Ì‚Å— ˜b‚ğEEE<BR><BR>u‚í‚½‚µ‚ª‚¨‚Î‚ ‚¿‚á‚ñIHv‚ÍŠ®Œ‹‚Å‚Í‚ ‚è‚Ü‚¹‚ñB<BR>‚ ‚ÌŠúA‚ ‚é‚±‚Æ‚ª–â‘è‚ÅŒfÚ‚ğ‚â‚ß‚½‚Ì‚Å‚·B<BR>‚»‚Ì ‚Ì“ÇÒ‚Ì•û‚È‚ç‚½‚Ô‚ñ–î‚ª‚í‚©‚é‚©‚Æv‚¢‚Ü‚·B<BR><BR>‚³‚ÄŒ´ì‚Å‚·‚ªA–{•Ò‚Í‘æ‚P‚O˜bA”ÔŠO•Ò‚Í‘æ‚T˜b‚Ü‚Å‚Ì\‘z‚ªŠ®—¹‚µ‚Ä‚¢‚Ü‚µ‚½B<BR>‚Å‚àã‚Ì–î‚ÅA‘æ‚U˜b‚Å‹}‚«‚åŠ®Œ‹‚µ‚½‚µ‚¾‚¢‚Å‚·B<BR><BR>Œ´ì‘æ‚V˜bˆÈ~A”ÔŠO•Ò‘æ‚R˜bˆÈ~‚É‚Â‚«‚Ü‚µ‚Ä‚ÍA­‚µ‚¸‚Â‚Å‚·‚ªŒfÚ‚Å‚«‚é‚æ‚¤‚É‚µ‚Ä‚¢‚«‚½‚¢‚Æv‚¢‚Ü‚·B
+æ„Ÿæƒ³ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ï½ã™<BR>è‹±èªåŒ–ã«ã¤ã„ã¦ã¯ã€ï¼’ï½ï¼“æ—¥ã‹ã‘ã¦ä½œæˆã—ã¦ã„ã¾ã™ã€‚<BR>åå¯¾ã«ã€æ—¥æœ¬èªç´„ã®è¡¨è¨˜ä½œå“ã¯ä¿ç®¡ã—ã¦ã„ã¾ã›ã‚“ã€‚<BR><BR>æ˜”ã®è©±ãŒå‡ºã¦ããŸã®ã§è£è©±ã‚’ãƒ»ãƒ»ãƒ»<BR><BR>ã€Œã‚ãŸã—ãŒãŠã°ã‚ã¡ã‚ƒã‚“ï¼ï¼Ÿã€ã¯å®Œçµã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚<BR>ã‚ã®æ™‚æœŸã€ã‚ã‚‹ã“ã¨ãŒå•é¡Œã§æ²è¼‰ã‚’ã‚„ã‚ãŸã®ã§ã™ã€‚<BR>ãã®é ƒã®èª­è€…ã®æ–¹ãªã‚‰ãŸã¶ã‚“äº‹æƒ…ãŒã‚ã‹ã‚‹ã‹ã¨æ€ã„ã¾ã™ã€‚<BR><BR>ã•ã¦åŸä½œã§ã™ãŒã€æœ¬ç·¨ã¯ç¬¬ï¼‘ï¼è©±ã€ç•ªå¤–ç·¨ã¯ç¬¬ï¼•è©±ã¾ã§ã®æ§‹æƒ³ãŒå®Œäº†ã—ã¦ã„ã¾ã—ãŸã€‚<BR>ã§ã‚‚ä¸Šã®äº‹æƒ…ã§ã€ç¬¬ï¼–è©±ã§æ€¥ãã‚‡å®Œçµã—ãŸã—ã ã„ã§ã™ã€‚<BR><BR>åŸä½œç¬¬ï¼—è©±ä»¥é™ã€ç•ªå¤–ç·¨ç¬¬ï¼“è©±ä»¥é™ã«ã¤ãã¾ã—ã¦ã¯ã€å°‘ã—ãšã¤ã§ã™ãŒæ²è¼‰ã§ãã‚‹ã‚ˆã†ã«ã—ã¦ã„ããŸã„ã¨æ€ã„ã¾ã™ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>–²‚Ì”z’Bl</strong>  <i>2002/05/11 19:25:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>å¤¢ã®é…é”äºº</strong>  <i>2002/05/11 19:25:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021112717njpdt&id2=1020098452bwakmt&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021112717njpdt_id2_1020098452bwakmt_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚·‚Î‚ç‚µ‚¢AÀ‚É‚·‚Î‚ç‚µ‚¢<BR>‘f°‚ç‚µ‚¢ƒŒƒxƒ‹cH
+ã™ã°ã‚‰ã—ã„ã€å®Ÿã«ã™ã°ã‚‰ã—ã„<BR>ç´ æ™´ã‚‰ã—ã„ãƒ¬ãƒ™ãƒ«â€¦ï¼Ÿ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200204/30012101/grandfather02.html" target="_blank">Am I a grandfather!? The 2nd story</a></strong>  <i>2002/05/13 02:21:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200204/30012101/grandfather02.html" target="_blank">Am I a grandfather!? The 2nd story</a></strong>  <i>2002/05/13 02:21:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021224117hbbkap&id2=1020098452bwakmt&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021224117hbbkap_id2_1020098452bwakmt_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-y„‘E•¶z—R”üq‚É“ü‚ê‘Ö‚í‚Á‚Ä‰‚ß‚Ä‚ÌŠwZB‚¨‚¶‚¢‚¿‚á‚ñA‰‚ß‚Ä‚¾‚¯‚Ç‘åä•vH
+ã€æ¨è–¦æ–‡ã€‘ç”±ç¾å­ã«å…¥ã‚Œæ›¿ã‚ã£ã¦åˆã‚ã¦ã®å­¦æ ¡ã€‚ãŠã˜ã„ã¡ã‚ƒã‚“ã€åˆã‚ã¦ã ã‘ã©å¤§ä¸ˆå¤«ï¼Ÿ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ƒmƒCƒ“i“d”g—d¸j</strong>  <i>2002/05/13 03:34:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ãƒã‚¤ãƒ³ï¼ˆé›»æ³¢å¦–ç²¾ï¼‰</strong>  <i>2002/05/13 03:34:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021228448ajlan&id2=1020098452bwakmt&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021228448ajlan_id2_1020098452bwakmt_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚±‚ê‚Í‚Ü‚½c‰pŒê‚©c<BR>‚Æ‚à‚ ‚ê‚È‚ñ‚Æ‚©“Ç‚İ‚Ü‚µ‚½B‚Ç‚¤‚â‚ç‘åˆÓ‚Íw„‚ª‚¨‚Î‚ ‚¿‚á‚ñIHx‚Æ•Ï‚í‚è‚È‚¢‚æ‚¤‚Å‚·‚ÈB‚Ä‚¢‚¤‚©ˆá‚¢‚ª‚æ‚­‚Í‚í‚©‚ç‚ñ‚©‚Á‚½‚Å‚·Bi^^G<BR><BR>‚È‚ñ‚¾‚©ŠÔˆá‚Á‚Ä‚¢‚Ä•|‚¢‚Å‚·‚¯‚Çc<BR>‚¨‚¶‚¢‚¿‚á‚ñ‚Ù‚ê‚¿‚á‚Á‚½‚Ì‚©cƒ^ƒJƒV‚­‚ñ‚Éc<BR>I had gotten to like him after I became Yumiko.<BR>‚±‚ê‚ª‚»‚ê‚Á‚Û‚¢i^^G<BR><BR>‚»‚ê‚ÆA„‚ª‚¨‚Î‚ ‚¿‚á‚ñIH<BR>‚Ì‚Ù‚¤‚Å‚·‚ªA‚±‚¿‚ç‚ÍTS‚Å‚±‚»‚È‚¢‚Å‚·‚ªA‚¨‚à‚µ‚ë‚©‚Á‚½‚Å‚·B<BR>
+ã“ã‚Œã¯ã¾ãŸâ€¦è‹±èªã‹â€¦<BR>ã¨ã‚‚ã‚ã‚Œãªã‚“ã¨ã‹èª­ã¿ã¾ã—ãŸã€‚ã©ã†ã‚„ã‚‰å¤§æ„ã¯ã€ç§ãŒãŠã°ã‚ã¡ã‚ƒã‚“ï¼ï¼Ÿã€ã¨å¤‰ã‚ã‚Šãªã„ã‚ˆã†ã§ã™ãªã€‚ã¦ã„ã†ã‹é•ã„ãŒã‚ˆãã¯ã‚ã‹ã‚‰ã‚“ã‹ã£ãŸã§ã™ã€‚ï¼ˆ^^ï¼›<BR><BR>ãªã‚“ã ã‹é–“é•ã£ã¦ã„ã¦æ€–ã„ã§ã™ã‘ã©â€¦<BR>ãŠã˜ã„ã¡ã‚ƒã‚“ã»ã‚Œã¡ã‚ƒã£ãŸã®ã‹â€¦ã‚¿ã‚«ã‚·ãã‚“ã«â€¦<BR>I had gotten to like him after I became Yumiko.<BR>ã“ã‚ŒãŒãã‚Œã£ã½ã„ï¼ˆ^^ï¼›<BR><BR>ãã‚Œã¨ã€ç§ãŒãŠã°ã‚ã¡ã‚ƒã‚“ï¼ï¼Ÿ<BR>ã®ã»ã†ã§ã™ãŒã€ã“ã¡ã‚‰ã¯TSã§ã“ããªã„ã§ã™ãŒã€ãŠã‚‚ã—ã‚ã‹ã£ãŸã§ã™ã€‚<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">_‘¬Š´‘z‚Ì‚‚‹‚W‚S‚Q‚U</a></strong>  <i>2002/05/13 09:08:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ç¥é€Ÿæ„Ÿæƒ³ã®ï½ï½‹ï¼˜ï¼”ï¼’ï¼–</a></strong>  <i>2002/05/13 09:08:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021248514qxbvrh&id2=1020098452bwakmt&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021248514qxbvrh_id2_1020098452bwakmt_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-“Ç‚ñ‚¾ƒoƒCô<BR>‚¤[‚ŞA‚¨‚¶‚¢‚¿‚á‚ñ’j‚Ìq‚É›‚ê‚¿‚á‚¢‚©‚ñ‚æ‚§i”šjB<BR>‚ÜA‚s‚rŒã‚É“oZ‚µ‚ÄŠwZ‚Å‚¢‚ë‚¢‚ë‚Æ‚¢‚¤ƒV[ƒ“‚Í‰½“x“Ç‚ñ‚Å‚à‚¢‚¢‚Å‚·‚È‚ŸB<BR>‚µ‚©‚µA‚±‚±‚Ü‚Å‚Ìá•Ô‚èiHj‚Æ‚¢‚¤‚Ì‚à‚·‚²‚¢‚Å‚·‚Ë‚¥B”¼¢‹I‘OŒã‚Ìá•Ô‚è‚Å‚·‚©‚ç‚Ë‚¥iÎjB<BR><BR>”¡‰ñ‚Í‰pŒê‚È‚µiŠj”šj
+èª­ã‚“ã ãƒã‚¤â™ª<BR>ã†ãƒ¼ã‚€ã€ãŠã˜ã„ã¡ã‚ƒã‚“ç”·ã®å­ã«æƒšã‚Œã¡ã‚ƒã„ã‹ã‚“ã‚ˆã‰ï¼ˆçˆ†ï¼‰ã€‚<BR>ã¾ã€ï¼´ï¼³å¾Œã«ç™»æ ¡ã—ã¦å­¦æ ¡ã§ã„ã‚ã„ã‚ã¨ã„ã†ã‚·ãƒ¼ãƒ³ã¯ä½•åº¦èª­ã‚“ã§ã‚‚ã„ã„ã§ã™ãªãã€‚<BR>ã—ã‹ã—ã€ã“ã“ã¾ã§ã®è‹¥è¿”ã‚Šï¼ˆï¼Ÿï¼‰ã¨ã„ã†ã®ã‚‚ã™ã”ã„ã§ã™ã­ã‡ã€‚åŠä¸–ç´€å‰å¾Œã®è‹¥è¿”ã‚Šã§ã™ã‹ã‚‰ã­ã‡ï¼ˆç¬‘ï¼‰ã€‚<BR><BR>ï¼ƒä»Šå›ã¯è‹±èªãªã—ï¼ˆæ ¸çˆ†ï¼‰
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>–²‚Ì”z’Bl</strong>  <i>2002/05/13 16:15:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>å¤¢ã®é…é”äºº</strong>  <i>2002/05/13 16:15:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021274147vpcirx&id2=1020098452bwakmt&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021274147vpcirx_id2_1020098452bwakmt_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚·‚Î‚ç‚µ‚¢AÀ‚É‚·‚Î‚ç‚µ‚¢<BR>‚æ‚­‚â‚é‚È‚ŸƒŒƒxƒ‹c‚T
+ã™ã°ã‚‰ã—ã„ã€å®Ÿã«ã™ã°ã‚‰ã—ã„<BR>ã‚ˆãã‚„ã‚‹ãªããƒ¬ãƒ™ãƒ«â€¦ï¼•
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.stfc-isc.org/" target="_blank">online casinos</a></strong>  <i>2004/09/23 12:26:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1095909999riomabl&id2=1020098452bwakmt&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1095909999riomabl_id2_1020098452bwakmt_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 In your free time, check some relevant pages dedicated to &lt;h1 style="font-size:1px; LINE-HEIGHT:1pt; margin:0px; padding:0px;"&gt;&lt;A HREF="<a href="http://www.stfc-isc.org/"&gt;" target="_blank">http://www.stfc-isc.org/"&gt;</a> online casinos &lt;/A&gt; |  online casinos  | &lt;A HREF="<a href="http://www.stfc-isc.org/"&gt;http://www.stfc-isc.org/&lt;/A&gt;" target="_blank">http://www.stfc-isc.org/"&gt;http://www.stfc-isc.org/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.thorcarlson.com/"&gt;" target="_blank">http://www.thorcarlson.com/"&gt;</a> poker game &lt;/A&gt; |  poker game  | &lt;A HREF="<a href="http://www.thorcarlson.com/"&gt;http://www.thorcarlson.com/&lt;/A&gt;" target="_blank">http://www.thorcarlson.com/"&gt;http://www.thorcarlson.com/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://phentermine.waylandenterprises.co.uk/"&gt;" target="_blank">http://phentermine.waylandenterprises.co.uk/"&gt;</a> phentermine &lt;/A&gt; |  phentermine  | &lt;A HREF="<a href="http://phentermine.waylandenterprises.co.uk/"&gt;http://phentermine.waylandenterprises.co.uk/&lt;/A&gt;" target="_blank">http://phentermine.waylandenterprises.co.uk/"&gt;http://phentermine.waylandenterprises.co.uk/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.uk-virtual-office-solutions.com/"&gt;" target="_blank">http://www.uk-virtual-office-solutions.com/"&gt;</a> casino gambling &lt;/A&gt; |  casino gambling  | &lt;A HREF="<a href="http://www.uk-virtual-office-solutions.com/"&gt;http://www.uk-virtual-office-solutions.com/&lt;/A&gt;" target="_blank">http://www.uk-virtual-office-solutions.com/"&gt;http://www.uk-virtual-office-solutions.com/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.paisleydevelopmentassociation.org/"&gt;" target="_blank">http://www.paisleydevelopmentassociation.org/"&gt;</a> online internet casinos &lt;/A&gt; |  online internet casinos  | &lt;A HREF="<a href="http://www.paisleydevelopmentassociation.org/"&gt;http://www.paisleydevelopmentassociation.org/&lt;/A&gt;" target="_blank">http://www.paisleydevelopmentassociation.org/"&gt;http://www.paisleydevelopmentassociation.org/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.nancyflowerswilson.com/"&gt;" target="_blank">http://www.nancyflowerswilson.com/"&gt;</a> diet pill &lt;/A&gt; |  diet pill  | &lt;A HREF="<a href="http://www.nancyflowerswilson.com/"&gt;http://www.nancyflowerswilson.com/&lt;/A&gt;" target="_blank">http://www.nancyflowerswilson.com/"&gt;http://www.nancyflowerswilson.com/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.kyfarmhouse.org/"&gt;" target="_blank">http://www.kyfarmhouse.org/"&gt;</a> diet pills &lt;/A&gt; |  diet pills  | &lt;A HREF="<a href="http://www.kyfarmhouse.org/"&gt;http://www.kyfarmhouse.org/&lt;/A&gt;" target="_blank">http://www.kyfarmhouse.org/"&gt;http://www.kyfarmhouse.org/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.kinggimp.org/"&gt;" target="_blank">http://www.kinggimp.org/"&gt;</a> casinos &lt;/A&gt; |  casinos  | &lt;A HREF="<a href="http://www.kinggimp.org/"&gt;http://www.kinggimp.org/&lt;/A&gt;" target="_blank">http://www.kinggimp.org/"&gt;http://www.kinggimp.org/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.myrtlejones.com/"&gt;" target="_blank">http://www.myrtlejones.com/"&gt;</a> cheap tramadol &lt;/A&gt; |  cheap tramadol  | &lt;A HREF="<a href="http://www.myrtlejones.com/"&gt;http://www.myrtlejones.com/&lt;/A&gt;" target="_blank">http://www.myrtlejones.com/"&gt;http://www.myrtlejones.com/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.online-poker-555.com/"&gt;" target="_blank">http://www.online-poker-555.com/"&gt;</a> online poker &lt;/A&gt; |  online poker  | &lt;A HREF="<a href="http://www.online-poker-555.com/"&gt;http://www.online-poker-555.com/&lt;/A&gt;" target="_blank">http://www.online-poker-555.com/"&gt;http://www.online-poker-555.com/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.mbgeezers.com/"&gt;" target="_blank">http://www.mbgeezers.com/"&gt;</a> texas hold em poker &lt;/A&gt; |  texas hold em poker  | &lt;A HREF="<a href="http://www.mbgeezers.com/"&gt;http://www.mbgeezers.com/&lt;/A&gt;" target="_blank">http://www.mbgeezers.com/"&gt;http://www.mbgeezers.com/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.mystify2001.com/"&gt;" target="_blank">http://www.mystify2001.com/"&gt;</a> play poker &lt;/A&gt; |  play poker  | &lt;A HREF="<a href="http://www.mystify2001.com/"&gt;http://www.mystify2001.com/&lt;/A&gt;" target="_blank">http://www.mystify2001.com/"&gt;http://www.mystify2001.com/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.bestonline-shopping.com/"&gt;" target="_blank">http://www.bestonline-shopping.com/"&gt;</a> online pharmacy &lt;/A&gt; |  online pharmacy  | &lt;A HREF="<a href="http://www.bestonline-shopping.com/"&gt;http://www.bestonline-shopping.com/&lt;/A&gt;" target="_blank">http://www.bestonline-shopping.com/"&gt;http://www.bestonline-shopping.com/&lt;/A&gt;</a> | &lt;br/&gt; &lt;/h1&gt;...
@@ -237,7 +237,7 @@ In your free time, check some relevant pages dedicated to &lt;h1 style="font-siz
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.celebrex-top-pharmacy.net/" target="_blank">click here</a></strong>  <i>2004/10/07 02:00:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1097082032whpbaq&id2=1020098452bwakmt&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1097082032whpbaq_id2_1020098452bwakmt_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 Please check some helpful info dedicated to &lt;h1 style="font-size:1px; LINE-HEIGHT:1pt; margin:0px; padding:0px;"&gt;&lt;A HREF="<a href="http://www.vioxx-top-pharmacy.net/"&gt;" target="_blank">http://www.vioxx-top-pharmacy.net/"&gt;</a> room &lt;/A&gt; |  room  | &lt;A HREF="<a href="http://www.vioxx-top-pharmacy.net/"&gt;http://www.vioxx-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.vioxx-top-pharmacy.net/"&gt;http://www.vioxx-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.claritin-top-pharmacy.net/"&gt;" target="_blank">http://www.claritin-top-pharmacy.net/"&gt;</a> for that &lt;/A&gt; |  for that  | &lt;A HREF="<a href="http://www.claritin-top-pharmacy.net/"&gt;http://www.claritin-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.claritin-top-pharmacy.net/"&gt;http://www.claritin-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.party-poker-top-casino.net/"&gt;" target="_blank">http://www.party-poker-top-casino.net/"&gt;</a> everywhere &lt;/A&gt; |  everywhere  | &lt;A HREF="<a href="http://www.party-poker-top-casino.net/"&gt;http://www.party-poker-top-casino.net/&lt;/A&gt;" target="_blank">http://www.party-poker-top-casino.net/"&gt;http://www.party-poker-top-casino.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.canada-pharmacy-top-pharmacy.net/"&gt;" target="_blank">http://www.canada-pharmacy-top-pharmacy.net/"&gt;</a> whereever &lt;/A&gt; |  whereever  | &lt;A HREF="<a href="http://www.canada-pharmacy-top-pharmacy.net/"&gt;http://www.canada-pharmacy-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.canada-pharmacy-top-pharmacy.net/"&gt;http://www.canada-pharmacy-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.online-poker-top-casino.net/"&gt;" target="_blank">http://www.online-poker-top-casino.net/"&gt;</a> link &lt;/A&gt; |  link  | &lt;A HREF="<a href="http://www.online-poker-top-casino.net/"&gt;http://www.online-poker-top-casino.net/&lt;/A&gt;" target="_blank">http://www.online-poker-top-casino.net/"&gt;http://www.online-poker-top-casino.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.on-line-pharmacy-top-pharmacy.net/"&gt;" target="_blank">http://www.on-line-pharmacy-top-pharmacy.net/"&gt;</a> come here &lt;/A&gt; |  come here  | &lt;A HREF="<a href="http://www.on-line-pharmacy-top-pharmacy.net/"&gt;http://www.on-line-pharmacy-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.on-line-pharmacy-top-pharmacy.net/"&gt;http://www.on-line-pharmacy-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.diflucan-top-pharmacy.net/"&gt;" target="_blank">http://www.diflucan-top-pharmacy.net/"&gt;</a> that site &lt;/A&gt; |  that site  | &lt;A HREF="<a href="http://www.diflucan-top-pharmacy.net/"&gt;http://www.diflucan-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.diflucan-top-pharmacy.net/"&gt;http://www.diflucan-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.internet-pharmacy-top-pharmacy.net/"&gt;" target="_blank">http://www.internet-pharmacy-top-pharmacy.net/"&gt;</a> each site &lt;/A&gt; |  each site  | &lt;A HREF="<a href="http://www.internet-pharmacy-top-pharmacy.net/"&gt;http://www.internet-pharmacy-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.internet-pharmacy-top-pharmacy.net/"&gt;http://www.internet-pharmacy-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.buy-ambien-online-top-pharmacy.net/"&gt;" target="_blank">http://www.buy-ambien-online-top-pharmacy.net/"&gt;</a> home &lt;/A&gt; |  home  | &lt;A HREF="<a href="http://www.buy-ambien-online-top-pharmacy.net/"&gt;http://www.buy-ambien-online-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.buy-ambien-online-top-pharmacy.net/"&gt;http://www.buy-ambien-online-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.famvir-top-pharmacy.net/"&gt;" target="_blank">http://www.famvir-top-pharmacy.net/"&gt;</a> every link &lt;/A&gt; |  every link  | &lt;A HREF="<a href="http://www.famvir-top-pharmacy.net/"&gt;http://www.famvir-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.famvir-top-pharmacy.net/"&gt;http://www.famvir-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.Weight-Loss-diet-Pill-top-pharmacy.net/"&gt;" target="_blank">http://www.Weight-Loss-diet-Pill-top-pharmacy.net/"&gt;</a> this link &lt;/A&gt; |  this link  | &lt;A HREF="<a href="http://www.Weight-Loss-diet-Pill-top-pharmacy.net/"&gt;http://www.Weight-Loss-diet-Pill-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.Weight-Loss-diet-Pill-top-pharmacy.net/"&gt;http://www.Weight-Loss-diet-Pill-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt;&lt;A HREF="<a href="http://www.zyprexa-top-pharmacy.net/"&gt;" target="_blank">http://www.zyprexa-top-pharmacy.net/"&gt;</a> zimmer &lt;/A&gt; |  zimmer  | &lt;A HREF="<a href="http://www.zyprexa-top-pharmacy.net/"&gt;http://www.zyprexa-top-pharmacy.net/&lt;/A&gt;" target="_blank">http://www.zyprexa-top-pharmacy.net/"&gt;http://www.zyprexa-top-pharmacy.net/&lt;/A&gt;</a> | &lt;br/&gt; &lt;/h1&gt;- Tons of interesdting stuff!!!
@@ -247,7 +247,7 @@ Please check some helpful info dedicated to &lt;h1 style="font-size:1px; LINE-HE
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.thorcarlson.com/" target="_blank">online poker</a></strong>  <i>2004/11/28 00:01:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1101567717lkovifq&id2=1020098452bwakmt&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1101567717lkovifq_id2_1020098452bwakmt_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
  &lt;h1&gt;Please check out the sites about&lt;A HREF="online poker"&gt; <a href="http://www.thorcarlson.com/" target="_blank">http://www.thorcarlson.com/</a> &lt;/A&gt;  <a href="http://www.thorcarlson.com/" target="_blank">http://www.thorcarlson.com/</a>  &lt;A HREF="online poker"&gt;online poker&lt;/A&gt; &lt;br/&gt;&lt;A HREF="online poker"&gt; <a href="http://www.valeofglamorganconservatives.org/" target="_blank">http://www.valeofglamorganconservatives.org/</a> &lt;/A&gt;  <a href="http://www.valeofglamorganconservatives.org/" target="_blank">http://www.valeofglamorganconservatives.org/</a>  &lt;A HREF="online poker"&gt;online poker&lt;/A&gt; &lt;br/&gt;&lt;A HREF="online poker"&gt; <a href="http://www.online-deals99.com/" target="_blank">http://www.online-deals99.com/</a> &lt;/A&gt;  <a href="http://www.online-deals99.com/" target="_blank">http://www.online-deals99.com/</a>  &lt;A HREF="online poker"&gt;online poker&lt;/A&gt; &lt;br/&gt;... &lt;/h1&gt;
@@ -257,7 +257,7 @@ Please check some helpful info dedicated to &lt;h1 style="font-size:1px; LINE-HE
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.woodyracing.co.uk/" target="_blank">auto insurance</a></strong>  <i>2004/12/16 07:31:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1103149911gyfnee&id2=1020098452bwakmt&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1103149911gyfnee_id2_1020098452bwakmt_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
  &lt;h1&gt;You can also check some helpful info about&lt;A HREF="texas hold em"&gt; <a href="http://www.edmontgomeryministries.org/" target="_blank">http://www.edmontgomeryministries.org/</a> &lt;/A&gt;  <a href="http://www.edmontgomeryministries.org/" target="_blank">http://www.edmontgomeryministries.org/</a>  &lt;A HREF="texas hold em"&gt;texas hold em&lt;/A&gt; &lt;br/&gt;&lt;A HREF="texas holdem"&gt; <a href="http://www.mrgoicoechea.com/" target="_blank">http://www.mrgoicoechea.com/</a> &lt;/A&gt;  <a href="http://www.mrgoicoechea.com/" target="_blank">http://www.mrgoicoechea.com/</a>  &lt;A HREF="texas holdem"&gt;texas holdem&lt;/A&gt; &lt;br/&gt;&lt;A HREF="phentermine"&gt; <a href="http://www.kapsociety.org/" target="_blank">http://www.kapsociety.org/</a> &lt;/A&gt;  <a href="http://www.kapsociety.org/" target="_blank">http://www.kapsociety.org/</a>  &lt;A HREF="phentermine"&gt;phentermine&lt;/A&gt; &lt;br/&gt;&lt;A HREF="online casino"&gt; <a href="http://www.pocketsound.org/" target="_blank">http://www.pocketsound.org/</a> &lt;/A&gt;  <a href="http://www.pocketsound.org/" target="_blank">http://www.pocketsound.org/</a>  &lt;A HREF="online casino"&gt;online casino&lt;/A&gt; &lt;br/&gt;&lt;A HREF="texas hold em"&gt; <a href="http://www.maloylawn.com/" target="_blank">http://www.maloylawn.com/</a> &lt;/A&gt;  <a href="http://www.maloylawn.com/" target="_blank">http://www.maloylawn.com/</a>  &lt;A HREF="texas hold em"&gt;texas hold em&lt;/A&gt; &lt;br/&gt;&lt;A HREF="online forex trading"&gt; <a href="http://www.online-forex-trading-4u.info/" target="_blank">http://www.online-forex-trading-4u.info/</a> &lt;/A&gt;  <a href="http://www.online-forex-trading-4u.info/" target="_blank">http://www.online-forex-trading-4u.info/</a>  &lt;A HREF="online forex trading"&gt;online forex trading&lt;/A&gt; &lt;br/&gt;&lt;A HREF="commodity trading"&gt; <a href="http://www.commodity-trading-4u.info/" target="_blank">http://www.commodity-trading-4u.info/</a> &lt;/A&gt;  <a href="http://www.commodity-trading-4u.info/" target="_blank">http://www.commodity-trading-4u.info/</a>  &lt;A HREF="commodity trading"&gt;commodity trading&lt;/A&gt; &lt;br/&gt;&lt;A HREF="forex trading"&gt; <a href="http://www.forex-trading-4u.info/" target="_blank">http://www.forex-trading-4u.info/</a> &lt;/A&gt;  <a href="http://www.forex-trading-4u.info/" target="_blank">http://www.forex-trading-4u.info/</a>  &lt;A HREF="forex trading"&gt;forex trading&lt;/A&gt; &lt;br/&gt;&lt;A HREF="forex"&gt; <a href="http://www.forex-4u.info/" target="_blank">http://www.forex-4u.info/</a> &lt;/A&gt;  <a href="http://www.forex-4u.info/" target="_blank">http://www.forex-4u.info/</a>  &lt;A HREF="forex"&gt;forex&lt;/A&gt; &lt;br/&gt;&lt;A HREF="auto insurance"&gt; <a href="http://www.woodyracing.co.uk/" target="_blank">http://www.woodyracing.co.uk/</a> &lt;/A&gt;  <a href="http://www.woodyracing.co.uk/" target="_blank">http://www.woodyracing.co.uk/</a>  &lt;A HREF="auto insurance"&gt;auto insurance&lt;/A&gt; &lt;br/&gt;&lt;A HREF="online gambling"&gt; <a href="http://www.1stincomeracing.co.uk/" target="_blank">http://www.1stincomeracing.co.uk/</a> &lt;/A&gt;  <a href="http://www.1stincomeracing.co.uk/" target="_blank">http://www.1stincomeracing.co.uk/</a>  &lt;A HREF="online gambling"&gt;online gambling&lt;/A&gt; &lt;br/&gt;&lt;A HREF="car rental"&gt; <a href="http://www.sicarrow.co.uk/" target="_blank">http://www.sicarrow.co.uk/</a> &lt;/A&gt;  <a href="http://www.sicarrow.co.uk/" target="_blank">http://www.sicarrow.co.uk/</a>  &lt;A HREF="car rental"&gt;car rental&lt;/A&gt; &lt;br/&gt;&lt;A HREF="viagra"&gt; <a href="http://www.sedonaretreat.org/" target="_blank">http://www.sedonaretreat.org/</a> &lt;/A&gt;  <a href="http://www.sedonaretreat.org/" target="_blank">http://www.sedonaretreat.org/</a>  &lt;A HREF="viagra"&gt;viagra&lt;/A&gt; &lt;br/&gt;&lt;A HREF="diamonds"&gt; <a href="http://www.vonormytexas.us/" target="_blank">http://www.vonormytexas.us/</a> &lt;/A&gt;  <a href="http://www.vonormytexas.us/" target="_blank">http://www.vonormytexas.us/</a>  &lt;A HREF="diamonds"&gt;diamonds&lt;/A&gt; &lt;br/&gt;&lt;A HREF="diamond rings"&gt; <a href="http://www.superdolphins.org/" target="_blank">http://www.superdolphins.org/</a> &lt;/A&gt;  <a href="http://www.superdolphins.org/" target="_blank">http://www.superdolphins.org/</a>  &lt;A HREF="diamond rings"&gt;diamond rings&lt;/A&gt; &lt;br/&gt;&lt;A HREF="tax"&gt; <a href="http://www.texasproptax.com/" target="_blank">http://www.texasproptax.com/</a> &lt;/A&gt;  <a href="http://www.texasproptax.com/" target="_blank">http://www.texasproptax.com/</a>  &lt;A HREF="tax"&gt;tax&lt;/A&gt; &lt;br/&gt;&lt;A HREF="travel"&gt; <a href="http://www.hermosa.us/" target="_blank">http://www.hermosa.us/</a> &lt;/A&gt;  <a href="http://www.hermosa.us/" target="_blank">http://www.hermosa.us/</a>  &lt;A HREF="travel"&gt;travel&lt;/A&gt; &lt;br/&gt;&lt;A HREF="las vegas"&gt; <a href="http://www.academyofmusic.us/" target="_blank">http://www.academyofmusic.us/</a> &lt;/A&gt;  <a href="http://www.academyofmusic.us/" target="_blank">http://www.academyofmusic.us/</a>  &lt;A HREF="las vegas"&gt;las vegas&lt;/A&gt; &lt;br/&gt;&lt;A HREF="texas holdem"&gt; <a href="http://www.ourtownhelps.org/" target="_blank">http://www.ourtownhelps.org/</a> &lt;/A&gt;  <a href="http://www.ourtownhelps.org/" target="_blank">http://www.ourtownhelps.org/</a>  &lt;A HREF="texas holdem"&gt;texas holdem&lt;/A&gt; &lt;br/&gt;&lt;A HREF="health insurance"&gt; <a href="http://www.berwickfoundation.org/" target="_blank">http://www.berwickfoundation.org/</a> &lt;/A&gt;  <a href="http://www.berwickfoundation.org/" target="_blank">http://www.berwickfoundation.org/</a>  &lt;A HREF="health insurance"&gt;health insurance&lt;/A&gt; &lt;br/&gt;&lt;A HREF="debt consolidation"&gt; <a href="http://www.acrs.us/" target="_blank">http://www.acrs.us/</a> &lt;/A&gt;  <a href="http://www.acrs.us/" target="_blank">http://www.acrs.us/</a>  &lt;A HREF="debt consolidation"&gt;debt consolidation&lt;/A&gt; &lt;br/&gt;&lt;A HREF="ebay"&gt; <a href="http://www.alphacarolinas.org/" target="_blank">http://www.alphacarolinas.org/</a> &lt;/A&gt;  <a href="http://www.alphacarolinas.org/" target="_blank">http://www.alphacarolinas.org/</a>  &lt;A HREF="ebay"&gt;ebay&lt;/A&gt; &lt;br/&gt;&lt;A HREF="flowers"&gt; <a href="http://www.monavaletoys.com/" target="_blank">http://www.monavaletoys.com/</a> &lt;/A&gt;  <a href="http://www.monavaletoys.com/" target="_blank">http://www.monavaletoys.com/</a>  &lt;A HREF="flowers"&gt;flowers&lt;/A&gt; &lt;br/&gt;&lt;A HREF="vintage watches"&gt; <a href="http://www.vintage-watces-4u.info/" target="_blank">http://www.vintage-watces-4u.info/</a> &lt;/A&gt;  <a href="http://www.vintage-watces-4u.info/" target="_blank">http://www.vintage-watces-4u.info/</a>  &lt;A HREF="vintage watches"&gt;vintage watches&lt;/A&gt; &lt;br/&gt;&lt;A HREF="currency converter"&gt; <a href="http://www.currency-converter-4u.info/" target="_blank">http://www.currency-converter-4u.info/</a> &lt;/A&gt;  <a href="http://www.currency-converter-4u.info/" target="_blank">http://www.currency-converter-4u.info/</a>  &lt;A HREF="currency converter"&gt;currency converter&lt;/A&gt; &lt;br/&gt;&lt;A HREF="currency trading"&gt; <a href="http://www.currency-trading-4u.info/" target="_blank">http://www.currency-trading-4u.info/</a> &lt;/A&gt;  <a href="http://www.currency-trading-4u.info/" target="_blank">http://www.currency-trading-4u.info/</a>  &lt;A HREF="currency trading"&gt;currency trading&lt;/A&gt; &lt;br/&gt;&lt;A HREF="currency exchange"&gt; <a href="http://www.currency-exchange-4u.info/" target="_blank">http://www.currency-exchange-4u.info/</a> &lt;/A&gt;  <a href="http://www.currency-exchange-4u.info/" target="_blank">http://www.currency-exchange-4u.info/</a>  &lt;A HREF="currency exchange"&gt;currency exchange&lt;/A&gt; &lt;br/&gt;&lt;A HREF="forex trading system"&gt; <a href="http://www.forex-trading-system-4u.info/" target="_blank">http://www.forex-trading-system-4u.info/</a> &lt;/A&gt;  <a href="http://www.forex-trading-system-4u.info/" target="_blank">http://www.forex-trading-system-4u.info/</a>  &lt;A HREF="forex trading system"&gt;forex trading system&lt;/A&gt; &lt;br/&gt;&lt;A HREF="forex market"&gt; <a href="http://www.forex-market-4u.info/" target="_blank">http://www.forex-market-4u.info/</a> &lt;/A&gt;  <a href="http://www.forex-market-4u.info/" target="_blank">http://www.forex-market-4u.info/</a>  &lt;A HREF="forex market"&gt;forex market&lt;/A&gt; &lt;br/&gt;&lt;A HREF="antique watches"&gt; <a href="http://www.handmade2000.co.uk/" target="_blank">http://www.handmade2000.co.uk/</a> &lt;/A&gt;  <a href="http://www.handmade2000.co.uk/" target="_blank">http://www.handmade2000.co.uk/</a>  &lt;A HREF="antique watches"&gt;antique watches&lt;/A&gt; &lt;br/&gt;&lt;A HREF="watches"&gt; <a href="http://www.philippestarckwatches.co.uk/" target="_blank">http://www.philippestarckwatches.co.uk/</a> &lt;/A&gt;  <a href="http://www.philippestarckwatches.co.uk/" target="_blank">http://www.philippestarckwatches.co.uk/</a>  &lt;A HREF="watches"&gt;watches&lt;/A&gt; &lt;br/&gt;&lt;A HREF="wine"&gt; <a href="http://www.fortisenterprises.co.uk/" target="_blank">http://www.fortisenterprises.co.uk/</a> &lt;/A&gt;  <a href="http://www.fortisenterprises.co.uk/" target="_blank">http://www.fortisenterprises.co.uk/</a>  &lt;A HREF="wine"&gt;wine&lt;/A&gt; &lt;br/&gt;&lt;A HREF="credit cards"&gt; <a href="http://www.kardtoons.co.uk/" target="_blank">http://www.kardtoons.co.uk/</a> &lt;/A&gt;  <a href="http://www.kardtoons.co.uk/" target="_blank">http://www.kardtoons.co.uk/</a>  &lt;A HREF="credit cards"&gt;credit cards&lt;/A&gt; &lt;br/&gt;&lt;A HREF="dvd"&gt; <a href="http://www.slatersdvds.co.uk/" target="_blank">http://www.slatersdvds.co.uk/</a> &lt;/A&gt;  <a href="http://www.slatersdvds.co.uk/" target="_blank">http://www.slatersdvds.co.uk/</a>  &lt;A HREF="dvd"&gt;dvd&lt;/A&gt; &lt;br/&gt;&lt;A HREF="Jewelry"&gt; <a href="http://www.wayshell.co.uk/" target="_blank">http://www.wayshell.co.uk/</a> &lt;/A&gt;  <a href="http://www.wayshell.co.uk/" target="_blank">http://www.wayshell.co.uk/</a>  &lt;A HREF="Jewelry"&gt;Jewelry&lt;/A&gt; &lt;br/&gt;... &lt;/h1&gt;
@@ -267,7 +267,7 @@ Please check some helpful info dedicated to &lt;h1 style="font-size:1px; LINE-HE
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://meridia.hk.fidelityfunding.net/" target="_blank">meridia</a></strong>  <i>2005/01/09 19:21:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1105266080qvbpwu&id2=1020098452bwakmt&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1105266080qvbpwu_id2_1020098452bwakmt_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
  &lt;h1&gt;Please visit the pages in the field of&lt;A HREF="<a href="http://online-poker.tk.oiline.com/"&gt;" target="_blank">http://online-poker.tk.oiline.com/"&gt;</a> online poker &lt;/A&gt;  online poker  &lt;A HREF="<a href="http://online-poker.tk.oiline.com/"&gt;http://online-poker.tk.oiline.com/&lt;/A&gt;" target="_blank">http://online-poker.tk.oiline.com/"&gt;http://online-poker.tk.oiline.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://phentermine.cd.sportsparent.com/"&gt;" target="_blank">http://phentermine.cd.sportsparent.com/"&gt;</a> phentermine &lt;/A&gt;  phentermine  &lt;A HREF="<a href="http://phentermine.cd.sportsparent.com/"&gt;http://phentermine.cd.sportsparent.com/&lt;/A&gt;" target="_blank">http://phentermine.cd.sportsparent.com/"&gt;http://phentermine.cd.sportsparent.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://debt-consolidation.sr.fidelityfunding.net/"&gt;" target="_blank">http://debt-consolidation.sr.fidelityfunding.net/"&gt;</a> debt consolidation &lt;/A&gt;  debt consolidation  &lt;A HREF="<a href="http://debt-consolidation.sr.fidelityfunding.net/"&gt;http://debt-consolidation.sr.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://debt-consolidation.sr.fidelityfunding.net/"&gt;http://debt-consolidation.sr.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://diet-pills.le.canadianlabels.net/"&gt;" target="_blank">http://diet-pills.le.canadianlabels.net/"&gt;</a> diet pills &lt;/A&gt;  diet pills  &lt;A HREF="<a href="http://diet-pills.le.canadianlabels.net/"&gt;http://diet-pills.le.canadianlabels.net/&lt;/A&gt;" target="_blank">http://diet-pills.le.canadianlabels.net/"&gt;http://diet-pills.le.canadianlabels.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://valium.be.fidelityfunding.net/"&gt;" target="_blank">http://valium.be.fidelityfunding.net/"&gt;</a> valium &lt;/A&gt;  valium  &lt;A HREF="<a href="http://valium.be.fidelityfunding.net/"&gt;http://valium.be.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://valium.be.fidelityfunding.net/"&gt;http://valium.be.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://meridia.hk.fidelityfunding.net/"&gt;" target="_blank">http://meridia.hk.fidelityfunding.net/"&gt;</a> meridia &lt;/A&gt;  meridia  &lt;A HREF="<a href="http://meridia.hk.fidelityfunding.net/"&gt;http://meridia.hk.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://meridia.hk.fidelityfunding.net/"&gt;http://meridia.hk.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://gambling.bj.onlinegamingassociation.com/"&gt;" target="_blank">http://gambling.bj.onlinegamingassociation.com/"&gt;</a> gambling &lt;/A&gt;  gambling  &lt;A HREF="<a href="http://gambling.bj.onlinegamingassociation.com/"&gt;http://gambling.bj.onlinegamingassociation.com/&lt;/A&gt;" target="_blank">http://gambling.bj.onlinegamingassociation.com/"&gt;http://gambling.bj.onlinegamingassociation.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://viagra.cn.mediavisor.com/"&gt;" target="_blank">http://viagra.cn.mediavisor.com/"&gt;</a> viagra &lt;/A&gt;  viagra  &lt;A HREF="<a href="http://viagra.cn.mediavisor.com/"&gt;http://viagra.cn.mediavisor.com/&lt;/A&gt;" target="_blank">http://viagra.cn.mediavisor.com/"&gt;http://viagra.cn.mediavisor.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://acne.gb.canadianlabels.net/"&gt;" target="_blank">http://acne.gb.canadianlabels.net/"&gt;</a> acne &lt;/A&gt;  acne  &lt;A HREF="<a href="http://acne.gb.canadianlabels.net/"&gt;http://acne.gb.canadianlabels.net/&lt;/A&gt;" target="_blank">http://acne.gb.canadianlabels.net/"&gt;http://acne.gb.canadianlabels.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://top-tax.uk.911easymoney.com/"&gt;" target="_blank">http://top-tax.uk.911easymoney.com/"&gt;</a> turbo tax &lt;/A&gt;  turbo tax  &lt;A HREF="<a href="http://top-tax.uk.911easymoney.com/"&gt;http://top-tax.uk.911easymoney.com/&lt;/A&gt;" target="_blank">http://top-tax.uk.911easymoney.com/"&gt;http://top-tax.uk.911easymoney.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://online-casinos.eu.popwow.com/"&gt;" target="_blank">http://online-casinos.eu.popwow.com/"&gt;</a> online casinos &lt;/A&gt;  online casinos  &lt;A HREF="<a href="http://online-casinos.eu.popwow.com/"&gt;http://online-casinos.eu.popwow.com/&lt;/A&gt;" target="_blank">http://online-casinos.eu.popwow.com/"&gt;http://online-casinos.eu.popwow.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://texas-hold-em.us.8gold.com/"&gt;" target="_blank">http://texas-hold-em.us.8gold.com/"&gt;</a> texas hold em &lt;/A&gt;  texas hold em  &lt;A HREF="<a href="http://texas-hold-em.us.8gold.com/"&gt;http://texas-hold-em.us.8gold.com/&lt;/A&gt;" target="_blank">http://texas-hold-em.us.8gold.com/"&gt;http://texas-hold-em.us.8gold.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://home-equity-loan.ch.houseofsevengables.com/"&gt;" target="_blank">http://home-equity-loan.ch.houseofsevengables.com/"&gt;</a> home equity loan &lt;/A&gt;  home equity loan  &lt;A HREF="<a href="http://home-equity-loan.ch.houseofsevengables.com/"&gt;http://home-equity-loan.ch.houseofsevengables.com/&lt;/A&gt;" target="_blank">http://home-equity-loan.ch.houseofsevengables.com/"&gt;http://home-equity-loan.ch.houseofsevengables.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://weight-loss.it.crepesuzette.com/"&gt;" target="_blank">http://weight-loss.it.crepesuzette.com/"&gt;</a> weight loss &lt;/A&gt;  weight loss  &lt;A HREF="<a href="http://weight-loss.it.crepesuzette.com/"&gt;http://weight-loss.it.crepesuzette.com/&lt;/A&gt;" target="_blank">http://weight-loss.it.crepesuzette.com/"&gt;http://weight-loss.it.crepesuzette.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://cialis.be.uaeecommerce.com/"&gt;" target="_blank">http://cialis.be.uaeecommerce.com/"&gt;</a> cialis &lt;/A&gt;  cialis  &lt;A HREF="<a href="http://cialis.be.uaeecommerce.com/"&gt;http://cialis.be.uaeecommerce.com/&lt;/A&gt;" target="_blank">http://cialis.be.uaeecommerce.com/"&gt;http://cialis.be.uaeecommerce.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://mortgage-loans.se.debt-help-bill-consolidation-elimination.com/"&gt;" target="_blank">http://mortgage-loans.se.debt-help-bill-consolidation-elimination.com/"&gt;</a> mortgage loans &lt;/A&gt;  mortgage loans  &lt;A HREF="<a href="http://mortgage-loans.se.debt-help-bill-consolidation-elimination.com/"&gt;http://mortgage-loans.se.debt-help-bill-consolidation-elimination.com/&lt;/A&gt;" target="_blank">http://mortgage-loans.se.debt-help-bill-consolidation-elimination.com/"&gt;http://mortgage-loans.se.debt-help-bill-consolidation-elimination.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://casino.ro.onlinegamingassociation.com/"&gt;" target="_blank">http://casino.ro.onlinegamingassociation.com/"&gt;</a> casino &lt;/A&gt;  casino  &lt;A HREF="<a href="http://casino.ro.onlinegamingassociation.com/"&gt;http://casino.ro.onlinegamingassociation.com/&lt;/A&gt;" target="_blank">http://casino.ro.onlinegamingassociation.com/"&gt;http://casino.ro.onlinegamingassociation.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://tramadol.pk.mediavisor.com/"&gt;" target="_blank">http://tramadol.pk.mediavisor.com/"&gt;</a> tramadol &lt;/A&gt;  tramadol  &lt;A HREF="<a href="http://tramadol.pk.mediavisor.com/"&gt;http://tramadol.pk.mediavisor.com/&lt;/A&gt;" target="_blank">http://tramadol.pk.mediavisor.com/"&gt;http://tramadol.pk.mediavisor.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://cash.pl.fidelityfunding.net/"&gt;" target="_blank">http://cash.pl.fidelityfunding.net/"&gt;</a> cash &lt;/A&gt;  cash  &lt;A HREF="<a href="http://cash.pl.fidelityfunding.net/"&gt;http://cash.pl.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://cash.pl.fidelityfunding.net/"&gt;http://cash.pl.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://weight-loss-pill.sp.fidelityfunding.net/"&gt;" target="_blank">http://weight-loss-pill.sp.fidelityfunding.net/"&gt;</a> weight loss pill &lt;/A&gt;  weight loss pill  &lt;A HREF="<a href="http://weight-loss-pill.sp.fidelityfunding.net/"&gt;http://weight-loss-pill.sp.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://weight-loss-pill.sp.fidelityfunding.net/"&gt;http://weight-loss-pill.sp.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://texas-holdem-poker.tr.fidelityfunding.net/"&gt;" target="_blank">http://texas-holdem-poker.tr.fidelityfunding.net/"&gt;</a> texas holdem poker &lt;/A&gt;  texas holdem poker  &lt;A HREF="<a href="http://texas-holdem-poker.tr.fidelityfunding.net/"&gt;http://texas-holdem-poker.tr.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://texas-holdem-poker.tr.fidelityfunding.net/"&gt;http://texas-holdem-poker.tr.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://carisoprodol.de.fidelityfunding.net/"&gt;" target="_blank">http://carisoprodol.de.fidelityfunding.net/"&gt;</a> carisoprodol &lt;/A&gt;  carisoprodol  &lt;A HREF="<a href="http://carisoprodol.de.fidelityfunding.net/"&gt;http://carisoprodol.de.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://carisoprodol.de.fidelityfunding.net/"&gt;http://carisoprodol.de.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://ambien.eg.fidelityfunding.net/"&gt;" target="_blank">http://ambien.eg.fidelityfunding.net/"&gt;</a> ambien &lt;/A&gt;  ambien  &lt;A HREF="<a href="http://ambien.eg.fidelityfunding.net/"&gt;http://ambien.eg.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://ambien.eg.fidelityfunding.net/"&gt;http://ambien.eg.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://student-credit-cards.jp.fidelityfunding.net/"&gt;" target="_blank">http://student-credit-cards.jp.fidelityfunding.net/"&gt;</a> student credit cards &lt;/A&gt;  student credit cards  &lt;A HREF="<a href="http://student-credit-cards.jp.fidelityfunding.net/"&gt;http://student-credit-cards.jp.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://student-credit-cards.jp.fidelityfunding.net/"&gt;http://student-credit-cards.jp.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://forex.gd.fidelityfunding.net/"&gt;" target="_blank">http://forex.gd.fidelityfunding.net/"&gt;</a> forex &lt;/A&gt;  forex  &lt;A HREF="<a href="http://forex.gd.fidelityfunding.net/"&gt;http://forex.gd.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://forex.gd.fidelityfunding.net/"&gt;http://forex.gd.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://discover-credit-card.at.debt-help-bill-consolidation-elimination.com/"&gt;" target="_blank">http://discover-credit-card.at.debt-help-bill-consolidation-elimination.com/"&gt;</a> discover credit card &lt;/A&gt;  discover credit card  &lt;A HREF="<a href="http://discover-credit-card.at.debt-help-bill-consolidation-elimination.com/"&gt;http://discover-credit-card.at.debt-help-bill-consolidation-elimination.com/&lt;/A&gt;" target="_blank">http://discover-credit-card.at.debt-help-bill-consolidation-elimination.com/"&gt;http://discover-credit-card.at.debt-help-bill-consolidation-elimination.com/&lt;/A&gt;</a> &lt;br/&gt;&lt;A HREF="<a href="http://personal-loan.ca.fidelityfunding.net/"&gt;" target="_blank">http://personal-loan.ca.fidelityfunding.net/"&gt;</a> personal loan &lt;/A&gt;  personal loan  &lt;A HREF="<a href="http://personal-loan.ca.fidelityfunding.net/"&gt;http://personal-loan.ca.fidelityfunding.net/&lt;/A&gt;" target="_blank">http://personal-loan.ca.fidelityfunding.net/"&gt;http://personal-loan.ca.fidelityfunding.net/&lt;/A&gt;</a> &lt;br/&gt;... &lt;/h1&gt;
@@ -275,27 +275,27 @@ Please check some helpful info dedicated to &lt;h1 style="font-size:1px; LINE-HE
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>ƒƒbƒZ[ƒWF</b><br>
+<form action="noteky.cgi" method="post" >
+<b>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼š</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1020098452bwakmt">
 <P></P>
-<b>‚¨–¼‘OF</b><br>
+<b>ãŠåå‰ï¼š</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>ƒ[ƒ‹ƒAƒhƒŒƒXF</b><br>
+<b>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ï¼š</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>¦ mailto:‚ğhttp://‚É’¼‚¹‚ÎURL‚ğ“ü—Í‚Å‚«‚Ü‚·B</font>
+<font size=-1>â€» mailto:ã‚’http://ã«ç›´ã›ã°URLã‚’å…¥åŠ›ã§ãã¾ã™ã€‚</font>
 <P>
-<input type="submit" value="‘‚«‚İ"><br>
+<input type="submit" value="æ›¸ãè¾¼ã¿"><br>
 <font size=-1>
-¦‘‚«‚İŒã‚ÍAƒuƒ‰ƒEƒU‚Ìu–ß‚évƒ{ƒ^ƒ“‚Å–ß‚Á‚Ä‰º‚³‚¢B<br>
+â€»æ›¸ãè¾¼ã¿å¾Œã¯ã€ãƒ–ãƒ©ã‚¦ã‚¶ã®ã€Œæˆ»ã‚‹ã€ãƒœã‚¿ãƒ³ã§æˆ»ã£ã¦ä¸‹ã•ã„ã€‚<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">•¶ŒÉì•iŠ´‘z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)</a>]<br>
 
 </p>
 </body>

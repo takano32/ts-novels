@@ -1,11 +1,11 @@
 
 <HTML>
 <HEAD>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=x-sjis">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <META name="ROBOTS" content="NOINDEX,NOFOLLOW">
 <META http-equiv="Content-Style-Type" content="text/css">
 <META http-equiv="Content-Script-Type" content="text/javascript">
-<TITLE>‚Ё‹CЊy‚Ё‚¦‚©‚«‚a‚a‚r</TITLE>
+<TITLE>гЃЉж°—и»ЅгЃЉгЃ€гЃ‹гЃЌпјўпјўпјі</TITLE>
 <script language="JavaScript">
 <!--
 	function showApplet(){
@@ -36,42 +36,42 @@
 <BODY bgcolor="#D0E8FF" text="#0066CC" link="#333399" vlink="#003366" alink="#FF1111">
 
 
-<CENTER><FONT SIZE=+2><B>ЃЎ ђl—ЮЏ—‚МЋq‰»€П€х‰п ЃЎ</B></FONT></CENTER>
+<CENTER><FONT SIZE=+2><B>в–  дєєйЎћеҐігЃ®е­ђеЊ–е§”е“Ўдјљ в– </B></FONT></CENTER>
 
 <NOSCRIPT>
-<H3>JavaScript‚Є—LЊш‚Е‚И‚ў‚Ѕ‚ЯђіЏн‚Й“®Ќм’v‚µ‚Ь‚№‚с</H3></NOSCRIPT>
-	[<a TITLE="ѓgѓbѓvѓyЃ[ѓW‚Й–Я‚й" href="http://www14.big.or.jp/~yays/">ѓgѓbѓv</a>]
-	[<a TITLE="ЌЕђVЏо•с‚ЙЌXђV" href="./bbsnote.cgi">ЌXђV</a>]
-	[<a TITLE="•ФђMЏ‡‚Й•\Ћ¦" href="./bbsnote.cgi?fc=page&sort=1&page=3">•ФђMЏ‡</A>]
-	[<a TITLE="ѓTѓЂѓlѓCѓ‹Њy—К•\Ћ¦" href="./bbsnote.cgi?fc=page&mode=light&sort=0&page=3">ѓTѓЂѓlѓCѓ‹</A>]
-<!--SKIN_WRITE:begin-->	[<a TITLE="’КЏнЏ‘‚«Ќћ‚Э" href="./bbsnote.cgi?fc=post">’КЏнѓJѓLѓR</a>]<!--SKIN_WRITE:end-->
-	[<A TITLE="‚ЁЉG•`‚«‚·‚й(•WЏЂђЭ’и)" HREF="./bbsnote.cgi?fc=paint">‚ЁЉG•`‚«</A>]
-	[<A TITLE="ЌнЏњѓ‚Ѓ[ѓh‚Ц" HREF="./bbsnote.cgi?fc=delete&sort=0&page=3">ЏБ‚·</A>]
-	[<A TITLE="ЉЗ—ќѓ‚Ѓ[ѓh" HREF="./bbsnote.cgi?fc=admin">ЉЗ—ќ</a>]
-	[<a TITLE="BBSђЭ’и" href="./bbsnote.cgi?fc=help">ђЭ’и</a>]
-	[<a TITLE="—ыЏKѓyЃ[ѓW" href="http://www14.big.or.jp/~yays/cgi-bin/paintbbs2/index.html">—ыЏK</a>]
-	<A HREF="#pages" TITLE="ѓyЃ[ѓWЌЕ‰є•”‚Ц">ЃҐ</A><BR>
-	<Font Face="Impact" SIZE="2"><FORM NAME="applet"><INPUT CLASS="button" TYPE="Button" VALUE="PAINT" onClick="showApplet()"><INPUT TYPE="HIDDEN" name="mode" value="sii">&nbsp;&nbsp;&nbsp;PALETTE&nbsp;<select CLASS="button" name="palette"><option value="" selected> ѓfѓtѓHѓ‹ѓg</option><option value="hadairo">”§ђFЊn</option>
-<option value="red">ђФЊn</option>
-<option value="yellow">‰©ЃEћтЊn</option>
-<option value="green">—ОЊn</option>
-<option value="blue">ђВЊn</option>
-<option value="purple">Ћ‡Њn</option>
-<option value="brown">ѓZѓsѓA</option>
-<option value="character">ђl•Ё</option>
-<option value="pastel">ѓpѓXѓeѓ‹</option>
-<option value="sougen">‘ђЊґ‚М‘е’n</option>
-<option value="moe">–G‚¦ѓTѓNѓ‰</option>
-<option value="grayscale">ѓ‚ѓmѓNѓЌ</option>
-</select>&nbsp;&nbsp;&nbsp;CanvasSize&nbsp;<INPUT CLASS="button" TYPE="TEXT" VALUE="200" NAME="width" SIZE="2" TITLE="•ќ">&nbsp;x&nbsp;<INPUT CLASS="button" TYPE="TEXT" VALUE="200" NAME="height" SIZE="2" TITLE="Ќ‚‚і"> (800x600‚Ь‚ЕЋ©—R‚Й•ПЌX‰В)</font></FORM>
-	Ѓ‰ѓLѓѓѓ‰‚р”ьЏ­Џ—‰»‚·‚й‚М‚Й–G‚¦‚ИђaЋmЏiЏ—‚МЊр—¬Џк‚Е‚µ‚ЅЃB<br>
-ѓuѓ‰ѓEѓU‚Е‚ЁЉG•`‚«‚Є‚Е‚«‚Ь‚µ‚ЅЃBѓAѓbѓvѓЌЃ[ѓh‚а‰В‚Е‚µ‚ЅЃB<br>
-<s>Њ»ЌЭ‚Н‰{——‚М‚Э‚Е“ЉЌe‚Н•s‰В‚Ж‚И‚Б‚Д‚ў‚Ь‚·ЃB</s><br>
+<H3>JavaScriptгЃЊжњ‰еЉ№гЃ§гЃЄгЃ„гЃџг‚Ѓж­ЈеёёгЃ«е‹•дЅњи‡ґгЃ—гЃѕгЃ›г‚“</H3></NOSCRIPT>
+	[<a TITLE="гѓ€гѓѓгѓ—гѓљгѓјг‚ёгЃ«ж€»г‚‹" href="../../index.html">гѓ€гѓѓгѓ—</a>]
+	[<a TITLE="жњЂж–°жѓ…е ±гЃ«ж›ґж–°" href="bbsnote.cgi">ж›ґж–°</a>]
+	[<a TITLE="иї”дїЎй †гЃ«иЎЁз¤є" href="bbsnote@fc_page_sort_1_page_3.cgi">иї”дїЎй †</A>]
+	[<a TITLE="г‚µгѓ гѓЌг‚¤гѓ«и»Ѕй‡ЏиЎЁз¤є" href="bbsnote@fc_page_mode_light_sort_0_page_3.cgi">г‚µгѓ гѓЌг‚¤гѓ«</A>]
+<!--SKIN_WRITE:begin-->	[<a TITLE="йЂљеёёж›ёгЃЌиѕјгЃї" href="bbsnote@fc_post.cgi">йЂљеёёг‚«г‚­г‚і</a>]<!--SKIN_WRITE:end-->
+	[<A TITLE="гЃЉзµµжЏЏгЃЌгЃ™г‚‹(жЁ™жє–иЁ­е®љ)" HREF="bbsnote@fc_paint.cgi">гЃЉзµµжЏЏгЃЌ</A>]
+	[<A TITLE="е‰Љй™¤гѓўгѓјгѓ‰гЃё" HREF="bbsnote@fc_delete_sort_0_page_3.cgi">ж¶€гЃ™</A>]
+	[<A TITLE="з®Ўзђ†гѓўгѓјгѓ‰" HREF="bbsnote@fc_admin.cgi">з®Ўзђ†</a>]
+	[<a TITLE="BBSиЁ­е®љ" href="bbsnote@fc_help.cgi">иЁ­е®љ</a>]
+	[<a TITLE="з·ґзї’гѓљгѓјг‚ё" href="../paintbbs2/index.html">з·ґзї’</a>]
+	<A HREF="#pages" TITLE="гѓљгѓјг‚ёжњЂдё‹йѓЁгЃё">в–ј</A><BR>
+	<Font Face="Impact" SIZE="2"><FORM NAME="applet"><INPUT CLASS="button" TYPE="Button" VALUE="PAINT" onClick="showApplet()"><INPUT TYPE="HIDDEN" name="mode" value="sii">&nbsp;&nbsp;&nbsp;PALETTE&nbsp;<select CLASS="button" name="palette"><option value="" selected> гѓ‡гѓ•г‚©гѓ«гѓ€</option><option value="hadairo">и‚Њи‰Ізі»</option>
+<option value="red">иµ¤зі»</option>
+<option value="yellow">й»„гѓ»ж©™зі»</option>
+<option value="green">з·‘зі»</option>
+<option value="blue">йќ’зі»</option>
+<option value="purple">зґ«зі»</option>
+<option value="brown">г‚»гѓ”г‚ў</option>
+<option value="character">дєєз‰©</option>
+<option value="pastel">гѓ‘г‚№гѓ†гѓ«</option>
+<option value="sougen">иЌ‰еЋџгЃ®е¤§ењ°</option>
+<option value="moe">иђЊгЃ€г‚µг‚Їгѓ©</option>
+<option value="grayscale">гѓўгѓЋг‚Їгѓ­</option>
+</select>&nbsp;&nbsp;&nbsp;CanvasSize&nbsp;<INPUT CLASS="button" TYPE="TEXT" VALUE="200" NAME="width" SIZE="2" TITLE="е№…">&nbsp;x&nbsp;<INPUT CLASS="button" TYPE="TEXT" VALUE="200" NAME="height" SIZE="2" TITLE="й«гЃ•"> (800x600гЃѕгЃ§и‡Єз”±гЃ«е¤‰ж›ґеЏЇ)</font></FORM>
+	в™‚г‚­гѓЈгѓ©г‚’зѕЋе°‘еҐіеЊ–гЃ™г‚‹гЃ®гЃ«иђЊгЃ€гЃЄзґіеЈ«ж·‘еҐігЃ®дє¤жµЃе ґгЃ§гЃ—гЃџгЂ‚<br>
+гѓ–гѓ©г‚¦г‚¶гЃ§гЃЉзµµжЏЏгЃЌгЃЊгЃ§гЃЌгЃѕгЃ—гЃџгЂ‚г‚ўгѓѓгѓ—гѓ­гѓјгѓ‰г‚‚еЏЇгЃ§гЃ—гЃџгЂ‚<br>
+<s>зЏѕењЁгЃЇй–Іи¦§гЃ®гЃїгЃ§жЉ•зЁїгЃЇдёЌеЏЇгЃЁгЃЄгЃЈгЃ¦гЃ„гЃѕгЃ™гЂ‚</s><br>
 <br>
 <TABLE><TR><TD>
 <FONT SIZE=-1>
-Ѓџ<a href="http://www14.big.or.jp/~yays/cgi-bin/paintbbs2/index.html">ѓeѓXѓg“ЉЌe‚Н‚±‚ї‚з‚ЕЃB</a>‚Ё‚¦‚©‚«—ыЏK‚И‚З‚Й‚аЃB<br>
-Ѓџ –і’f“]ЌЪ‚Н‚И‚µ‚Е‚·‚жЃ`ЃB•K‚ёЌмЋТ‚і‚с‚М‹–‰В‚р“ѕ‚Д‰є‚і‚ўЃB<br>
+в—†<a href="../paintbbs2/index.html">гѓ†г‚№гѓ€жЉ•зЁїгЃЇгЃ“гЃЎг‚‰гЃ§гЂ‚</a>гЃЉгЃ€гЃ‹гЃЌз·ґзї’гЃЄгЃ©гЃ«г‚‚гЂ‚<br>
+в—† з„Ўж–­и»ўиј‰гЃЇгЃЄгЃ—гЃ§гЃ™г‚€пЅћгЂ‚еї…гЃљдЅњиЂ…гЃ•г‚“гЃ®иЁ±еЏЇг‚’еѕ—гЃ¦дё‹гЃ•гЃ„гЂ‚<br>
 </FONT></TD><TD>
 This was a painting board for fanfiction-and-TG arts.<br>
 You cannot post paintings or comments anymore.Browsing only.<br>
@@ -83,8 +83,8 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.172 T–‚–@Џ­Џ— </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2003/01/12 (Sun) 21:25  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=172">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000161.jpg" ALIGN="LEFT" BORDER=0 width=304 height=313 ALT="IMG_000161.jpg ( 48 KB )" TITLE="IMG_000161.jpg ( 48 KB )"> <Font color="#000066" size="3"> ‚Ь‚Ѕ‚Ь‚ЅЃAѓxѓ‹ѓ‹ѓ`ѓJ‚Мѓlѓ^‚Е‚·‚Є </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.172 з‹јй­”жі•е°‘еҐі </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2003/01/12 (Sun) 21:25  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_172.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000161.jpg" ALIGN="LEFT" BORDER=0 width=304 height=313 ALT="IMG_000161.jpg ( 48 KB )" TITLE="IMG_000161.jpg ( 48 KB )"> <Font color="#000066" size="3"> гЃѕгЃџгЃѕгЃџгЂЃгѓ™гѓ«гѓ«гѓЃг‚«гЃ®гѓЌг‚їгЃ§гЃ™гЃЊ </Font>
 
 		
 
@@ -98,22 +98,22 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="172">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.171 ’n‹…ЉВ‹«‚рЋз‚й‚Ѕ‚Я </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2003/01/05 (Sun) 22:07  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=171">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000160.jpg" ALIGN="LEFT" BORDER=0 width=219 height=291 ALT="IMG_000160.jpg ( 27 KB )" TITLE="IMG_000160.jpg ( 27 KB )"> <Font color="#000066" size="3"> Ћ©‚зDNA‚р’Ќ“ь‚µ‚Д•Пђg...ЃH<P>Happy New Year! </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.171 ењ°зђѓз’°еўѓг‚’е®€г‚‹гЃџг‚Ѓ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2003/01/05 (Sun) 22:07  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_171.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000160.jpg" ALIGN="LEFT" BORDER=0 width=219 height=291 ALT="IMG_000160.jpg ( 27 KB )" TITLE="IMG_000160.jpg ( 27 KB )"> <Font color="#000066" size="3"> и‡Єг‚‰DNAг‚’жіЁе…ҐгЃ—гЃ¦е¤‰иє«...пјџ<P>Happy New Year! </Font>
 
 		
 
@@ -148,58 +148,58 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="171">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.170 ѓhѓ‰‚а‚¦ЃEЃEЃEѓ“‚ЁђіЊЋѓ”ѓ@Ѓ[ѓWѓ‡ѓ“ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">‚±‚Ж‚Ф‚«‚Р‚©‚й</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">HOME</A>] / <B>TIME</B> : 2003/01/01 (Wed) 17:07  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=170">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000159.jpg" ALIGN="LEFT" BORDER=0 width=240 height=480 ALT="IMG_000159.jpg ( 47 KB )" TITLE="IMG_000159.jpg ( 47 KB )"> <Font color="#000066" size="3"> ‚ЁђіЊЋЊь‚Ї‚Ж‚ў‚¤‚±‚Ж‚ЕЃA<BR>ѓhѓ‰‚а‚¦ѓ“a•ћ”ЕЃ`<P>ѓhѓ‰‚а‚¦ЃEЃEЃEѓ“‚НЃA‚Q‚O‚O‚R”N“x‚а’¦‚и‚ё‚Й<BR>‘±‚«‚Ь‚·ЃB<P><A HREF="http://www2s.biglobe.ne.jp/~ndcss/" TARGET="_BLANK">http://www2s.biglobe.ne.jp/~ndcss/</A><BR> </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.170 гѓ‰гѓ©г‚‚гЃ€гѓ»гѓ»гѓ»гѓігЃЉж­Јжњ€гѓґг‚Ўгѓјг‚ёгѓ§гѓі </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">гЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">HOME</A>] / <B>TIME</B> : 2003/01/01 (Wed) 17:07  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_170.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000159.jpg" ALIGN="LEFT" BORDER=0 width=240 height=480 ALT="IMG_000159.jpg ( 47 KB )" TITLE="IMG_000159.jpg ( 47 KB )"> <Font color="#000066" size="3"> гЃЉж­Јжњ€еђ‘гЃ‘гЃЁгЃ„гЃ†гЃ“гЃЁгЃ§гЂЃ<BR>гѓ‰гѓ©г‚‚гЃ€гѓіе’ЊжњЌз‰€пЅћ<P>гѓ‰гѓ©г‚‚гЃ€гѓ»гѓ»гѓ»гѓігЃЇгЂЃпј’пјђпјђпј“е№ґеє¦г‚‚ж‡Іг‚ЉгЃљгЃ«<BR>з¶љгЃЌгЃѕгЃ™гЂ‚<P><A HREF="http://www2s.biglobe.ne.jp/~ndcss/" TARGET="_BLANK">http://www2s.biglobe.ne.jp/~ndcss/</A><BR> </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚v‚d‚a–џ‰жѓ}ѓjѓA  &nbsp; <BR>
+			<NOBR><B>NAME</B> : пј·пјҐпјўжј«з”»гѓћгѓ‹г‚ў  &nbsp; <BR>
 			<B>TIME</B> : 2003/01/09 (Thu) 22:34  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> <Font color=#3366FF>Ѓ„‚±‚Ж‚Ф‚«‚Р‚©‚й‚і‚с</Font><P>ѓhѓ‰‚а‚¦ѓ“ЃEЃEЃEЃE<P>Љy‚µ‚ў‚Е‚·‚ЛЃB‚»‚к‚ЕЃA–{‰Ж‚Мѓhѓ‰‚¦‚а‚с‚М“№‹пѓlѓ^‚рЃA‚s‚r‚Мѓlѓ^‚ЙЌ¬‚є‚Д‚ў‚­‚М‚Е‚ ‚к‚ОЃA<P>‚‡‚Џ‚Џ‚‡‚Њ‚…‚ЕЊ©‚В‚Ї‚Ѕ‚с‚Е‚·‚Є<P>ѓhѓ‰‚¦‚а‚сѓfЃ[ѓ^Ѓ[ѓxЃ[ѓX‚Ж‚ў‚¤“ЎЋq‚e•s“с—Yѓtѓ@ѓ“ѓyЃ[ѓW‚Є‚ў‚ў‚ЖЋv‚ў‚Ь‚·ЃB‚µ‚©‚а‚»‚Мѓhѓ‰‚¦‚а‚сѓfЃ[ѓ^Ѓ[ѓxЃ[ѓX‚Н‚©‚И‚иЉ®аш‚Ж‚ў‚¦‚Ь‚·ЃBѓTѓCѓg‚МЉЗ—ќЋТ‚Є“ъ–{€к‚Мѓhѓ‰‚¦‚а‚сѓfЃ[ѓ^ѓxЃ[ѓX‚р–ЪЋw‚µ‚Д‚ў‚й‚Ж‚©<P>Ћ„‚Н‚s‚rѓlѓ^‚ЖЃA“Ї‚¶‚­‚з‚ўѓhѓ‰‚¦‚а‚с“№‹пѓlѓ^‚ЄЌD‚«‚Е‚·ЃB<P>‚±‚МѓTѓCѓg‚НЃAЋ„‚Ж‚НЉЦЊW–і‚µ‚Е‚·‚ЄЃA‚Д‚д‚¤‚©‚ЛЃB‹ф‘R‚Й‚‡‚Џ‚Џ‚‡‚Њ‚…‚ЕЊ©‚В‚Ї‚ЅѓTѓCѓg‚Б‚·ЃB<P>‚±‚Ж‚Ф‚«‚Р‚©‚й‚і‚с‚МЃAѓhѓ‰‚а‚¦ѓ“‚Мђ»Ќм‚ЙЃAЊ®‚Й‚И‚к‚О‚И‚ЖЃAЋv‚ў’m‚з‚№‚Й‚«‚Ь‚µ‚ЅЃB<P><A HREF="http://home.att.ne.jp/yellow/ikemasa/doraemon/" TARGET="_BLANK">http://home.att.ne.jp/yellow/ikemasa/doraemon/</A><P>ѓhѓ‰‚а‚¦ѓ“‚МђV“WЉJЉъ‘Т‚µ‚Ь‚·‚жЃB‚Р‚©‚й‚і‚с 
+			<Font color="#000066" size="3"> <Font color=#3366FF>пјћгЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹гЃ•г‚“</Font><P>гѓ‰гѓ©г‚‚гЃ€гѓігѓ»гѓ»гѓ»гѓ»<P>жҐЅгЃ—гЃ„гЃ§гЃ™гЃ­гЂ‚гЃќг‚ЊгЃ§гЂЃжњ¬е®¶гЃ®гѓ‰гѓ©гЃ€г‚‚г‚“гЃ®йЃ“е…·гѓЌг‚їг‚’гЂЃпјґпјігЃ®гѓЌг‚їгЃ«ж··гЃњгЃ¦гЃ„гЃЏгЃ®гЃ§гЃ‚г‚ЊгЃ°гЂЃ<P>пЅ‡пЅЏпЅЏпЅ‡пЅЊпЅ…гЃ§и¦‹гЃ¤гЃ‘гЃџг‚“гЃ§гЃ™гЃЊ<P>гѓ‰гѓ©гЃ€г‚‚г‚“гѓ‡гѓјг‚їгѓјгѓ™гѓјг‚№гЃЁгЃ„гЃ†и—¤е­ђпј¦дёЌдєЊй›„гѓ•г‚Ўгѓігѓљгѓјг‚ёгЃЊгЃ„гЃ„гЃЁжЂќгЃ„гЃѕгЃ™гЂ‚гЃ—гЃ‹г‚‚гЃќгЃ®гѓ‰гѓ©гЃ€г‚‚г‚“гѓ‡гѓјг‚їгѓјгѓ™гѓјг‚№гЃЇгЃ‹гЃЄг‚Ље®Њз’§гЃЁгЃ„гЃ€гЃѕгЃ™гЂ‚г‚µг‚¤гѓ€гЃ®з®Ўзђ†иЂ…гЃЊж—Ґжњ¬дёЂгЃ®гѓ‰гѓ©гЃ€г‚‚г‚“гѓ‡гѓјг‚їгѓ™гѓјг‚№г‚’з›®жЊ‡гЃ—гЃ¦гЃ„г‚‹гЃЁгЃ‹<P>з§ЃгЃЇпјґпјігѓЌг‚їгЃЁгЂЃеђЊгЃгЃЏг‚‰гЃ„гѓ‰гѓ©гЃ€г‚‚г‚“йЃ“е…·гѓЌг‚їгЃЊеҐЅгЃЌгЃ§гЃ™гЂ‚<P>гЃ“гЃ®г‚µг‚¤гѓ€гЃЇгЂЃз§ЃгЃЁгЃЇй–ўдї‚з„ЎгЃ—гЃ§гЃ™гЃЊгЂЃгЃ¦г‚†гЃ†гЃ‹гЃ­гЂ‚еЃ¶з„¶гЃ«пЅ‡пЅЏпЅЏпЅ‡пЅЊпЅ…гЃ§и¦‹гЃ¤гЃ‘гЃџг‚µг‚¤гѓ€гЃЈгЃ™гЂ‚<P>гЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹гЃ•г‚“гЃ®гЂЃгѓ‰гѓ©г‚‚гЃ€гѓігЃ®иЈЅдЅњгЃ«гЂЃйЌµгЃ«гЃЄг‚ЊгЃ°гЃЄгЃЁгЂЃжЂќгЃ„зџҐг‚‰гЃ›гЃ«гЃЌгЃѕгЃ—гЃџгЂ‚<P><A HREF="http://home.att.ne.jp/yellow/ikemasa/doraemon/" TARGET="_BLANK">http://home.att.ne.jp/yellow/ikemasa/doraemon/</A><P>гѓ‰гѓ©г‚‚гЃ€гѓігЃ®ж–°е±•й–‹жњџеѕ…гЃ—гЃѕгЃ™г‚€гЂ‚гЃІгЃ‹г‚‹гЃ•г‚“ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚Ь‚і‚в‚с [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃѕгЃ•г‚„г‚“ [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2003/01/25 (Sat) 02:10  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> a•ћЋp‚Мѓhѓ‰‚а‚¦ѓ“‚а‚·‚І‚­–G‚¦‚Е‚·ЃB<BR>‚±‚к‚Н‚Q‚O‚O‚R”N‚а–Ъ‚Є—Ј‚№‚Ь‚№‚с‚ЛЃB 
+			<Font color="#000066" size="3"> е’ЊжњЌе§їгЃ®гѓ‰гѓ©г‚‚гЃ€гѓіг‚‚гЃ™гЃ”гЃЏиђЊгЃ€гЃ§гЃ™гЂ‚<BR>гЃ“г‚ЊгЃЇпј’пјђпјђпј“е№ґг‚‚з›®гЃЊй›ўгЃ›гЃѕгЃ›г‚“гЃ­гЂ‚ 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="170">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.169 ѓ|ѓЉѓWѓ…Ѓ[ѓX‚Е•Пђg </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/28 (Sat) 23:47  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=169">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000158.jpg" ALIGN="LEFT" BORDER=0 width=217 height=245 ALT="IMG_000158.jpg ( 33 KB )" TITLE="IMG_000158.jpg ( 33 KB )"> <Font color="#000066" size="3"> ’x‚·‚¬Ѓib‘и‚Й‚В‚ў‚ДЌs‚Б‚Д‚ў‚И‚ўЃjЃI </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.169 гѓќгѓЄг‚ёгѓҐгѓјг‚№гЃ§е¤‰иє« </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/28 (Sat) 23:47  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_169.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000158.jpg" ALIGN="LEFT" BORDER=0 width=217 height=245 ALT="IMG_000158.jpg ( 33 KB )" TITLE="IMG_000158.jpg ( 33 KB )"> <Font color="#000066" size="3"> йЃ…гЃ™гЃЋпј€и©±йЎЊгЃ«гЃ¤гЃ„гЃ¦иЎЊгЃЈгЃ¦гЃ„гЃЄгЃ„пј‰пјЃ </Font>
 
 		
 
@@ -213,44 +213,44 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="169">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.168 ‚Q‚ѓ‚€‚©‚з—€‚Ѕѓ~ѓJѓGѓ‹—l </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF zurisandare  / <B>TIME</B> : 2002/12/26 (Thu) 04:17  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=168">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000157.jpg" ALIGN="LEFT" BORDER=0 width=200 height=200 ALT="IMG_000157.jpg ( 27 KB ) with Shi-cyan applet" TITLE="IMG_000157.jpg ( 27 KB ) with Shi-cyan applet"> <Font color="#000066" size="3"> Ѓ@Ѓ@<BR>Ѓ@Ѓ@Ѓ@Ѓ@Ѓ@Ѓ@Ѓ@Ѓ@Ѓ@‚¤‚Б‚«Ѓ`Ѓ`Ѓ`Ѓ`ЃIЃIЃIЃIЃI<P><BR>Ѓ@Ѓ@Ѓ@‚НЃ`Ѓ@ѓXѓbѓLѓЉ‚µ‚Ѕ<P>Ѓ@‚Т‚ТЃ@‚Х‚Т‚Т‚ТЃ@‚Х‚Т‚Х‚Т </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.168 пј’пЅѓпЅ€гЃ‹г‚‰жќҐгЃџгѓџг‚«г‚Ёгѓ«ж§ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ zurisandare  / <B>TIME</B> : 2002/12/26 (Thu) 04:17  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_168.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000157.jpg" ALIGN="LEFT" BORDER=0 width=200 height=200 ALT="IMG_000157.jpg ( 27 KB ) with Shi-cyan applet" TITLE="IMG_000157.jpg ( 27 KB ) with Shi-cyan applet"> <Font color="#000066" size="3"> гЂЂгЂЂ<BR>гЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЂЂгЃ†гЃЈгЃЌпЅћпЅћпЅћпЅћпјЃпјЃпјЃпјЃпјЃ<P><BR>гЂЂгЂЂгЂЂгЃЇпЅћгЂЂг‚№гѓѓг‚­гѓЄгЃ—гЃџ<P>гЂЂгЃґгЃґгЂЂгЃ·гЃґгЃґгЃґгЂЂгЃ·гЃґгЃ·гЃґ </Font>
 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="168">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.167 Ѓuѓhѓ‰‚а‚¦ЃEЃEЃEѓ“Ѓv”ФЉO•Т‚»‚М‚Q </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">‚±‚Ж‚Ф‚«‚Р‚©‚й</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/23 (Mon) 22:14  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=167">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000156.jpg" ALIGN="LEFT" BORDER=0 width=360 height=450 ALT="IMG_000156.jpg ( 46 KB )" TITLE="IMG_000156.jpg ( 46 KB )"> <Font color="#000066" size="3"> —б‚Й‚ж‚Б‚ДЃAѓhѓ‰‚¦‚а‚с‚©‚зѓhѓ‰‚а‚¦ѓ“‚Ц‚М•Пђg‚©‚з<BR>ЋY‚Ь‚к‚Ѕ”ФЉO•ТЃB<P>‚©‚И‚иѓxѓ^ѓxѓ^‚ѕ‚Ї‚ЗЃA‚В‚Б‚±‚с‚¶‚б‚ѕ‚Я‚жЃB<P>ѓnѓCѓyЃ[ѓX‚Й‚И‚Б‚Ѕ‚М‚НЃAђVЏt‚Й‚Ю‚Ї‚Ѕ‚b‚f<BR>‚»‚л‚»‚л•`‚©‚И‚ў‚ЖЉФ‚ЙЌ‡‚н‚И‚ў‚©‚зЃ`‚sЃQ‚sЃj<P> </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.167 гЂЊгѓ‰гѓ©г‚‚гЃ€гѓ»гѓ»гѓ»гѓігЂЌз•Єе¤–з·ЁгЃќгЃ®пј’ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">гЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/23 (Mon) 22:14  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_167.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000156.jpg" ALIGN="LEFT" BORDER=0 width=360 height=450 ALT="IMG_000156.jpg ( 46 KB )" TITLE="IMG_000156.jpg ( 46 KB )"> <Font color="#000066" size="3"> дѕ‹гЃ«г‚€гЃЈгЃ¦гЂЃгѓ‰гѓ©гЃ€г‚‚г‚“гЃ‹г‚‰гѓ‰гѓ©г‚‚гЃ€гѓігЃёгЃ®е¤‰иє«гЃ‹г‚‰<BR>з”ЈгЃѕг‚ЊгЃџз•Єе¤–з·ЁгЂ‚<P>гЃ‹гЃЄг‚Љгѓ™г‚їгѓ™г‚їгЃ гЃ‘гЃ©гЂЃгЃ¤гЃЈгЃ“г‚“гЃг‚ѓгЃ г‚Ѓг‚€гЂ‚<P>гѓЏг‚¤гѓљгѓјг‚№гЃ«гЃЄгЃЈгЃџгЃ®гЃЇгЂЃж–°жҐгЃ«г‚ЂгЃ‘гЃџпјЈпј§<BR>гЃќг‚ЌгЃќг‚ЌжЏЏгЃ‹гЃЄгЃ„гЃЁй–“гЃ«еђ€г‚ЏгЃЄгЃ„гЃ‹г‚‰пЅћпјґпјїпјґпј‰<P> </Font>
 
 		
 
@@ -263,30 +263,30 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚Ь‚і‚в‚с [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃѕгЃ•г‚„г‚“ [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/12/24 (Tue) 18:17  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ЌЎ“x‚Нѓhѓ‰‚¦‚а‚сѓXЃ[ѓc‚Е‚·‚©ЃB<BR>ђg‘М‚ЙѓtѓBѓbѓg‚µ‚Д‚ДЃA•Ѓ’i‚МѓЃѓCѓh•ћ‚Е‚Н‚¤‚©‚Є‚¤‚±‚Ж‚М‚Е‚«‚И‚ў•”•Є‚аЉЬ‚Я‚ДѓiѓCѓXѓoѓfѓBЃ[‚р‹­’І‚і‚№‚Д‚Ь‚·‚ЛЃB(^^ 
+			<Font color="#000066" size="3"> д»Љеє¦гЃЇгѓ‰гѓ©гЃ€г‚‚г‚“г‚№гѓјгѓ„гЃ§гЃ™гЃ‹гЂ‚<BR>иє«дЅ“гЃ«гѓ•г‚Јгѓѓгѓ€гЃ—гЃ¦гЃ¦гЂЃж™®ж®µгЃ®гѓЎг‚¤гѓ‰жњЌгЃ§гЃЇгЃ†гЃ‹гЃЊгЃ†гЃ“гЃЁгЃ®гЃ§гЃЌгЃЄгЃ„йѓЁе€†г‚‚еђ«г‚ЃгЃ¦гѓЉг‚¤г‚№гѓђгѓ‡г‚Јгѓјг‚’еј·иЄїгЃ•гЃ›гЃ¦гЃѕгЃ™гЃ­гЂ‚(^^ 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="167">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.166 ‹Ц’f‚МЌ°“ь‚к‘Ц‚¦Џp </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/22 (Sun) 00:49  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=166">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000155.gif" ALIGN="LEFT" BORDER=0 width=240 height=160 ALT="IMG_000155.gif ( 99 KB )" TITLE="IMG_000155.gif ( 99 KB )"> <Font color="#000066" size="3"> ‚±‚к‚рЉo‚¦‚Д‚ў‚йђl‚НЏ­‚И‚ў‚©‚И‚ЖЋv‚ў‚И‚Є‚з...<P>‘oЋq‚М“ь‚к‘г‚н‚и‚Е‚·‚ЄЃA‚а‚µЃAЋo‚М•ы‚ЙЋе“±Њ ‚Є‚ ‚Б‚Ѕ‚зЃA‚±‚¤‚ў‚¤•—‚Й‚И‚й‚М‚©‚И‚Ж‚ў‚¤ђ}‚Е‚·ЃB<BR>‚ё‚ў‚Ф‚сЊo‚ї‚Ь‚·‚Ї‚к‚З’PЌs–{Џo‚Ь‚№‚с‚ЛЃ` </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.166 з¦Ѓж–­гЃ®й­‚е…Ґг‚Њж›їгЃ€иЎ“ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/22 (Sun) 00:49  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_166.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000155.gif" ALIGN="LEFT" BORDER=0 width=240 height=160 ALT="IMG_000155.gif ( 99 KB )" TITLE="IMG_000155.gif ( 99 KB )"> <Font color="#000066" size="3"> гЃ“г‚Њг‚’и¦љгЃ€гЃ¦гЃ„г‚‹дєєгЃЇе°‘гЃЄгЃ„гЃ‹гЃЄгЃЁжЂќгЃ„гЃЄгЃЊг‚‰...<P>еЏЊе­ђгЃ®е…Ґг‚Њд»Јг‚Џг‚ЉгЃ§гЃ™гЃЊгЂЃг‚‚гЃ—гЂЃе§‰гЃ®ж–№гЃ«дё»е°ЋжЁ©гЃЊгЃ‚гЃЈгЃџг‚‰гЂЃгЃ“гЃ†гЃ„гЃ†йўЁгЃ«гЃЄг‚‹гЃ®гЃ‹гЃЄгЃЁгЃ„гЃ†е›ігЃ§гЃ™гЂ‚<BR>гЃљгЃ„гЃ¶г‚“зµЊгЃЎгЃѕгЃ™гЃ‘г‚ЊгЃ©еЌиЎЊжњ¬е‡єгЃѕгЃ›г‚“гЃ­пЅћ </Font>
 
 		
 
@@ -299,9 +299,9 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚Ь‚і‚в‚с [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃѕгЃ•г‚„г‚“ [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/12/24 (Tue) 18:15  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‰В€¤‚ў‚Е‚·Ѓ`ЃBЌR‹c‚µ‚Д‚й•\Џо‚аЃB(^^)<BR>Ћ„‚а’PЌs–{‰»Љу–]‚Е‚·ЃB<BR>ѓJѓЃѓ‰ѓЏЃ[ѓN‚ЕЊА‚з‚к‚Ѕ‰ж–К‚рЊш‰К“I‚ЙЋg‚Б‚Д‚Ь‚·‚ЛЃ`<BR>‚і‚·‚Є‚Б‚·ЃB 
+			<Font color="#000066" size="3"> еЏЇж„›гЃ„гЃ§гЃ™пЅћгЂ‚жЉ—и­°гЃ—гЃ¦г‚‹иЎЁжѓ…г‚‚гЂ‚(^^)<BR>з§Ѓг‚‚еЌиЎЊжњ¬еЊ–еёЊжњ›гЃ§гЃ™гЂ‚<BR>г‚«гѓЎгѓ©гѓЇгѓјг‚ЇгЃ§й™ђг‚‰г‚ЊгЃџз”»йќўг‚’еЉ№жћњзљ„гЃ«дЅїгЃЈгЃ¦гЃѕгЃ™гЃ­пЅћ<BR>гЃ•гЃ™гЃЊгЃЈгЃ™гЂ‚ 
 		
 
 			
@@ -315,7 +315,7 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/12/25 (Wed) 00:04  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> <Font color=#3366FF>>ALL</Font><BR>Thanks for replies!<P>‚Ь‚і‚в‚с‚і‚сЃA‚ў‚В‚а‚ЗЃ[‚а‚Е‚·ЃB<BR>’PЌs–{‚Й‚·‚й‚Й‚Н’Z‚·‚¬‚й‚Ж‚©Њѕ‚¤‚±‚Ж‚з‚µ‚ў‚Е‚·ЃB<BR>ѓ~ѓ‹ѓ‚‚М’PЌs–{‚ЙЋы^‚і‚к‚й‚±‚Ж‚Н–і‚ў‚ж‚¤‚Е‚·ЃB 
+			<Font color="#000066" size="3"> <Font color=#3366FF>>ALL</Font><BR>Thanks for replies!<P>гЃѕгЃ•г‚„г‚“гЃ•г‚“гЂЃгЃ„гЃ¤г‚‚гЃ©гѓјг‚‚гЃ§гЃ™гЂ‚<BR>еЌиЎЊжњ¬гЃ«гЃ™г‚‹гЃ«гЃЇзџ­гЃ™гЃЋг‚‹гЃЁгЃ‹иЁЂгЃ†гЃ“гЃЁг‚‰гЃ—гЃ„гЃ§гЃ™гЂ‚<BR>гѓџгѓ«гѓўгЃ®еЌиЎЊжњ¬гЃ«еЏЋйЊІгЃ•г‚Њг‚‹гЃ“гЃЁгЃЇз„ЎгЃ„г‚€гЃ†гЃ§гЃ™гЂ‚ 
 		
 
 			
@@ -328,80 +328,80 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="166">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.165 ѓhѓ‰‚а‚¦ЃEЃEЃEѓ“”ФЉO•Т‚»‚М‚P </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">‚±‚Ж‚Ф‚«‚Р‚©‚й</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/19 (Thu) 22:40  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=165">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000154.jpg" ALIGN="LEFT" BORDER=0 width=280 height=480 ALT="IMG_000154.jpg ( 39 KB )" TITLE="IMG_000154.jpg ( 39 KB )"> <Font color="#000066" size="3"> ѓhѓ‰‚¦‚а‚с‚©‚зѓhѓ‰‚а‚¦ѓ“‚Ц‚М•ПђgѓVЃ[ѓ“‚Ж‚ў‚¤‚±‚Ж‚©‚зЃA•›ЋY•Ё“I‚ЙЋY‚Ь‚к‚Ѕ‚М‚Є‚±‚МЌм•iЃB<BR>€к‰ћЃAѓpѓWѓѓѓ}‚р€УЋЇ‚µ‚Д‚ў‚й‚М‚ЕЃA‚±‚к‚Ь‚Е‚М‚а‚М‚Ж‚НЃA‚ ‚ї‚±‚ї”ч–­‚И‚Ж‚±‚л‚р•П‚¦‚Д‚Э‚Ь‚µ‚ЅЃB<BR>‚З‚зЏД‚«ѓNѓbѓVѓ‡ѓ“‚НЃA•П‚И‚±‚ѕ‚н‚и‚ѕ‚Б‚Ѕ‚и‚µ‚Ь‚·ЃB<P>ЌЎ‰с‚НЃAѓLѓѓѓ‰‚Н‚Pђl‚ѕ‚µЃA”wЊiЋи”І‚«‚ѕ‚µЃAѓtѓЉѓ‹•`‚©‚И‚­‚Д‚ў‚ў‚µ‚ЕЃA‘Ѓ‚Я‚МЉ®ђ¬‚Е‚·ЃB<P> </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.165 гѓ‰гѓ©г‚‚гЃ€гѓ»гѓ»гѓ»гѓіз•Єе¤–з·ЁгЃќгЃ®пј‘ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">гЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/19 (Thu) 22:40  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_165.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000154.jpg" ALIGN="LEFT" BORDER=0 width=280 height=480 ALT="IMG_000154.jpg ( 39 KB )" TITLE="IMG_000154.jpg ( 39 KB )"> <Font color="#000066" size="3"> гѓ‰гѓ©гЃ€г‚‚г‚“гЃ‹г‚‰гѓ‰гѓ©г‚‚гЃ€гѓігЃёгЃ®е¤‰иє«г‚·гѓјгѓігЃЁгЃ„гЃ†гЃ“гЃЁгЃ‹г‚‰гЂЃе‰Їз”Јз‰©зљ„гЃ«з”ЈгЃѕг‚ЊгЃџгЃ®гЃЊгЃ“гЃ®дЅње“ЃгЂ‚<BR>дёЂеїњгЂЃгѓ‘г‚ёгѓЈгѓћг‚’ж„Џи­гЃ—гЃ¦гЃ„г‚‹гЃ®гЃ§гЂЃгЃ“г‚ЊгЃѕгЃ§гЃ®г‚‚гЃ®гЃЁгЃЇгЂЃгЃ‚гЃЎгЃ“гЃЎеѕ®е¦™гЃЄгЃЁгЃ“г‚Ќг‚’е¤‰гЃ€гЃ¦гЃїгЃѕгЃ—гЃџгЂ‚<BR>гЃ©г‚‰з„јгЃЌг‚Їгѓѓг‚·гѓ§гѓігЃЇгЂЃе¤‰гЃЄгЃ“гЃ г‚Џг‚ЉгЃ гЃЈгЃџг‚ЉгЃ—гЃѕгЃ™гЂ‚<P>д»Ље›ћгЃЇгЂЃг‚­гѓЈгѓ©гЃЇпј‘дєєгЃ гЃ—гЂЃиѓЊж™Їж‰‹жЉњгЃЌгЃ гЃ—гЂЃгѓ•гѓЄгѓ«жЏЏгЃ‹гЃЄгЃЏгЃ¦гЃ„гЃ„гЃ—гЃ§гЂЃж—©г‚ЃгЃ®е®Њж€ђгЃ§гЃ™гЂ‚<P> </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚Ь‚і‚в‚с [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃѕгЃ•г‚„г‚“ [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/12/24 (Tue) 18:15  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‚ѕ‚Ъ‚ѕ‚Ъ‚Б‚Ж‚µ‚Ѕѓhѓ‰‚¦‚а‚сѓpѓWѓѓѓ}‚Є‰В€¤‚з‚µ‚ў‚Е‚·‚ЛЃB<BR>‚ ‚Ж‚±‚МЋ‹ђьЃA‚·‚І‚­—З‚ўЉґ‚¶‚Е‚·ЃB 
+			<Font color="#000066" size="3"> гЃ гЃјгЃ гЃјгЃЈгЃЁгЃ—гЃџгѓ‰гѓ©гЃ€г‚‚г‚“гѓ‘г‚ёгѓЈгѓћгЃЊеЏЇж„›г‚‰гЃ—гЃ„гЃ§гЃ™гЃ­гЂ‚<BR>гЃ‚гЃЁгЃ“гЃ®и¦–з·љгЂЃгЃ™гЃ”гЃЏи‰ЇгЃ„ж„џгЃгЃ§гЃ™гЂ‚ 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="165">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.164 Ѓuѓhѓ‰‚а‚¦ЃEЃEЃEѓ“Ѓv‚»‚М‚Q </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">‚±‚Ж‚Ф‚«‚Р‚©‚й</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/14 (Sat) 23:18  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=164">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000153.jpg" ALIGN="LEFT" BORDER=0 width=467 height=267 ALT="IMG_000153.jpg ( 43 KB )" TITLE="IMG_000153.jpg ( 43 KB )"> <Font color="#000066" size="3"> Ѓuѓhѓ‰‚а‚¦ѓ“Ѓv<BR>ЋА‚НЃAѓ}ѓjѓAЊь‚ЇЏЬ•i‚М”„‚кЋc‚иЏ€•Є•i‚ЕЃAЊМ‚ЙЃAѓЃѓCѓh‚Ж‚Н‘z‚¦‚И‚ў‚Щ‚З‚МѓhѓW‚Б–єЃB<BR>‰Ѕ‚а‚И‚ў‚Ж‚±‚л‚ЕЏRзT‚­ЃB“Є‚МЏг‚МѓЃѓKѓl‚р‘{‚µ‚Д‚Ь‚н‚йЃBЌ»“њ‚Ж‰–‚рЉФ€б‚¦‚й‚И‚ЗЃA–G‚¦–G‚¦‚Й‚µ‚Дѓxѓ^ѓxѓ^‚ИѓhѓW‹@”\‚р–ћЌЪ‚µ‚Д‚ў‚йЃB<P>Ѓu‰„Ѓ@ђL‘ѕЃv<BR>‰ЖЉ›‘т‘еЉw‚М‚Q”Nђ¶ЃB<BR>Њ€‚µ‚ДЃAѓoѓJ‚Е‚а–і”\‚Е‚а‚И‚ў‚ЄЃA€У—~‚Ж‚©”e‹C‚ЖЊ€’f—Н‚Ж‚©‚ЙЊ‡‚Ї‚йђ«Љi‚М‚Ѕ‚ЯЃA‚И‚Й‚©‚Й‚В‚Ї‘јђl‚вЏу‹µ‚Й—¬‚і‚к‚в‚·‚­ЃA‚»‚МЊ‹‰К‚Ж‚µ‚ДЃA•sЌK‚Й‚И‚й‚±‚Ж‚Є‘Ѕ‚ўЃB<BR>“Б‚ЙЃAЏ—‰^‚М€«‚і‚НђЬ‚иЋ†•t‚«‚ЕЃA‚±‚М‚±‚Ж‚ЄЊґ€ц‚Е‚ ‚й•sЌK‚ЙЊ©•‘‚н‚к‚йЋq‘·‚ЄЃA–ў—€‚©‚зѓhѓ‰‚а‚¦ѓ“‚р”hЊ­‚·‚й‚±‚Ж‚Й‚И‚й‚М‚ѕ‚Б‚ЅЃB <P>‚»‚к‚И‚и‚ЙЌD•]ЃiЃHЃj‚М‚ж‚¤‚И‚М‚Е<BR>ЌД‚С•`‚ў‚Д‚Э‚Ь‚µ‚ЅЃAѓhѓ‰‚а‚¦ЃEЃEЃEѓ“<BR>‚ї‚е‚Б‚ЖЉФ‚Є‚ ‚ў‚Ѕ‚М‚НЃA<BR>–^ЏWЊv‚р‚µ‚Д‚ў‚Ѕ‚Ѕ‚Я‚ЖЃA<BR>–^ЏЉ‚М‚b‚f‚Й•‚‹C‚р‚µ‚Д‚ў‚Ѕ‚Ѕ‚Я‚ЖЃA<BR>ѓLѓѓѓ‰‚Є‚Qђl•Є‚Й‚И‚Б‚Ѕ‚Ѕ‚Я‚ЖЃA<BR>Ћи”І‚«‚И‚Є‚з€к‰ћ”wЊi‚р•`‚ў‚Ѕ‚Ѕ‚Я‚Е‚·ЃB<P>ЌЕЏ‰‚М—\’и‚ж‚и‘е‚«‚ИЉG‚Й‚И‚Б‚Д‚µ‚Ь‚ўЃA<BR>ѓtѓ@ѓCѓ‹ѓTѓCѓY‚ЄЏ¬‚і‚ў‚Ж‚Н‚ў‚¦‚И‚­‚И‚Б‚Д‚µ‚Ь‚Б‚Ѕ‚М‚ЕЃA<BR>ЏkЏ¬”Е‚рѓAѓbѓvЃB<P>‚И‚с‚©ЃAѓLѓѓѓ‰‚МђЭ’и‚рЌl‚¦‚Д‚ў‚й‚¤‚ї‚Й<BR>–К”’‚­‚И‚Б‚Д‚«‚Ѕ‚М‚ЕЃAѓhѓ‰‚а‚¦ѓ“ѓVѓЉЃ[ѓY‚Н<BR>‚ ‚ї‚±‚ї‚ЙЉс‚и“№‚µ‚И‚Є‚з‘±‚­—\’иЃB<P><A HREF="http://www2s.biglobe.ne.jp/~ndcss/" TARGET="_BLANK">http://www2s.biglobe.ne.jp/~ndcss/</A><BR> </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.164 гЂЊгѓ‰гѓ©г‚‚гЃ€гѓ»гѓ»гѓ»гѓігЂЌгЃќгЃ®пј’ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">гЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/14 (Sat) 23:18  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_164.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000153.jpg" ALIGN="LEFT" BORDER=0 width=467 height=267 ALT="IMG_000153.jpg ( 43 KB )" TITLE="IMG_000153.jpg ( 43 KB )"> <Font color="#000066" size="3"> гЂЊгѓ‰гѓ©г‚‚гЃ€гѓігЂЌ<BR>е®џгЃЇгЂЃгѓћгѓ‹г‚ўеђ‘гЃ‘иіће“ЃгЃ®еЈІг‚Њж®‹г‚Ље‡¦е€†е“ЃгЃ§гЂЃж•…гЃ«гЂЃгѓЎг‚¤гѓ‰гЃЁгЃЇжѓігЃ€гЃЄгЃ„гЃ»гЃ©гЃ®гѓ‰г‚ёгЃЈеЁгЂ‚<BR>дЅ•г‚‚гЃЄгЃ„гЃЁгЃ“г‚ЌгЃ§и№ґиє“гЃЏгЂ‚й ­гЃ®дёЉгЃ®гѓЎг‚¬гѓЌг‚’жЌњгЃ—гЃ¦гЃѕг‚Џг‚‹гЂ‚з ‚зі–гЃЁеЎ©г‚’й–“йЃ•гЃ€г‚‹гЃЄгЃ©гЂЃиђЊгЃ€иђЊгЃ€гЃ«гЃ—гЃ¦гѓ™г‚їгѓ™г‚їгЃЄгѓ‰г‚ёж©џиѓЅг‚’жєЂиј‰гЃ—гЃ¦гЃ„г‚‹гЂ‚<P>гЂЊе»¶гЂЂдјёе¤ЄгЂЌ<BR>е®¶йґЁжІўе¤§е­¦гЃ®пј’е№ґз”џгЂ‚<BR>ж±єгЃ—гЃ¦гЂЃгѓђг‚«гЃ§г‚‚з„ЎиѓЅгЃ§г‚‚гЃЄгЃ„гЃЊгЂЃж„Џж¬ІгЃЁгЃ‹и¦‡ж°—гЃЁж±єж–­еЉ›гЃЁгЃ‹гЃ«ж¬ гЃ‘г‚‹жЂ§ж јгЃ®гЃџг‚ЃгЂЃгЃЄгЃ«гЃ‹гЃ«гЃ¤гЃ‘д»–дєєг‚„зЉ¶жіЃгЃ«жµЃгЃ•г‚Њг‚„гЃ™гЃЏгЂЃгЃќгЃ®зµђжћњгЃЁгЃ—гЃ¦гЂЃдёЌе№ёгЃ«гЃЄг‚‹гЃ“гЃЁгЃЊе¤љгЃ„гЂ‚<BR>з‰№гЃ«гЂЃеҐійЃ‹гЃ®ж‚ЄгЃ•гЃЇжЉг‚Љзґ™д»гЃЌгЃ§гЂЃгЃ“гЃ®гЃ“гЃЁгЃЊеЋџе› гЃ§гЃ‚г‚‹дёЌе№ёгЃ«и¦‹и€ћг‚Џг‚Њг‚‹е­ђе­«гЃЊгЂЃжњЄжќҐгЃ‹г‚‰гѓ‰гѓ©г‚‚гЃ€гѓіг‚’жґѕйЃЈгЃ™г‚‹гЃ“гЃЁгЃ«гЃЄг‚‹гЃ®гЃ гЃЈгЃџгЂ‚ <P>гЃќг‚ЊгЃЄг‚ЉгЃ«еҐЅи©•пј€пјџпј‰гЃ®г‚€гЃ†гЃЄгЃ®гЃ§<BR>е†ЌгЃіжЏЏгЃ„гЃ¦гЃїгЃѕгЃ—гЃџгЂЃгѓ‰гѓ©г‚‚гЃ€гѓ»гѓ»гѓ»гѓі<BR>гЃЎг‚‡гЃЈгЃЁй–“гЃЊгЃ‚гЃ„гЃџгЃ®гЃЇгЂЃ<BR>жџђй›†иЁ€г‚’гЃ—гЃ¦гЃ„гЃџгЃџг‚ЃгЃЁгЂЃ<BR>жџђж‰ЂгЃ®пјЈпј§гЃ«жµ®ж°—г‚’гЃ—гЃ¦гЃ„гЃџгЃџг‚ЃгЃЁгЂЃ<BR>г‚­гѓЈгѓ©гЃЊпј’дєєе€†гЃ«гЃЄгЃЈгЃџгЃџг‚ЃгЃЁгЂЃ<BR>ж‰‹жЉњгЃЌгЃЄгЃЊг‚‰дёЂеїњиѓЊж™Їг‚’жЏЏгЃ„гЃџгЃџг‚ЃгЃ§гЃ™гЂ‚<P>жњЂе€ќгЃ®дє€е®љг‚€г‚Ље¤§гЃЌгЃЄзµµгЃ«гЃЄгЃЈгЃ¦гЃ—гЃѕгЃ„гЂЃ<BR>гѓ•г‚Ўг‚¤гѓ«г‚µг‚¤г‚єгЃЊе°ЏгЃ•гЃ„гЃЁгЃЇгЃ„гЃ€гЃЄгЃЏгЃЄгЃЈгЃ¦гЃ—гЃѕгЃЈгЃџгЃ®гЃ§гЂЃ<BR>зё®е°Џз‰€г‚’г‚ўгѓѓгѓ—гЂ‚<P>гЃЄг‚“гЃ‹гЂЃг‚­гѓЈгѓ©гЃ®иЁ­е®љг‚’иЂѓгЃ€гЃ¦гЃ„г‚‹гЃ†гЃЎгЃ«<BR>йќўз™ЅгЃЏгЃЄгЃЈгЃ¦гЃЌгЃџгЃ®гЃ§гЂЃгѓ‰гѓ©г‚‚гЃ€гѓіг‚·гѓЄгѓјг‚єгЃЇ<BR>гЃ‚гЃЎгЃ“гЃЎгЃ«еЇ„г‚ЉйЃ“гЃ—гЃЄгЃЊг‚‰з¶љгЃЏдє€е®љгЂ‚<P><A HREF="http://www2s.biglobe.ne.jp/~ndcss/" TARGET="_BLANK">http://www2s.biglobe.ne.jp/~ndcss/</A><BR> </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚Ь‚і‚в‚с [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃѕгЃ•г‚„г‚“ [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/12/24 (Tue) 18:14  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ђL‘ѕ‚­‚с‚Є”ьЊ`‚Е‚·‚ЛЃ`ЃiЏОЃj<BR>ѓhѓ‰‚а‚¦ѓ“‚МѓhѓW‚БЋq‚Ф‚и‚Є•¶Ћљ’К‚и–G‚¦‚Е‚·ЃB 
+			<Font color="#000066" size="3"> дјёе¤ЄгЃЏг‚“гЃЊзѕЋеЅўгЃ§гЃ™гЃ­пЅћпј€з¬‘пј‰<BR>гѓ‰гѓ©г‚‚гЃ€гѓігЃ®гѓ‰г‚ёгЃЈе­ђгЃ¶г‚ЉгЃЊж–‡е­—йЂљг‚ЉиђЊгЃ€гЃ§гЃ™гЂ‚ 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="164">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.163 –^CM‚©‚з </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/08 (Sun) 12:01  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=163">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000152.jpg" ALIGN="LEFT" BORDER=0 width=237 height=314 ALT="IMG_000152.jpg ( 22 KB )" TITLE="IMG_000152.jpg ( 22 KB )"> <Font color="#000066" size="3"> On going TV commercial film in Japan<P>A young businessman visited the strange shop and tried to put the eye-glasses for sale.<BR>Suddenly he became a female wrestler in the university gym. </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.163 жџђCMгЃ‹г‚‰ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/08 (Sun) 12:01  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_163.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000152.jpg" ALIGN="LEFT" BORDER=0 width=237 height=314 ALT="IMG_000152.jpg ( 22 KB )" TITLE="IMG_000152.jpg ( 22 KB )"> <Font color="#000066" size="3"> On going TV commercial film in Japan<P>A young businessman visited the strange shop and tried to put the eye-glasses for sale.<BR>Suddenly he became a female wrestler in the university gym. </Font>
 
 		
 
@@ -416,156 +416,156 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : nomad2000  &nbsp; <BR>
 			<B>TIME</B> : 2002/12/13 (Fri) 23:01  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> Hi MorphKitty,<BR>The Chinese characters are just the name of university.<BR>Though I haven't read that story,<BR>This TV CF is frequently seen now on Japanese TV.<P>‚±‚МCMђl‹C‚Є‚ ‚й‚М‚©ЃA€И‘O‚ж‚и‚а•p“x‚Є‘ќ‚¦‚Ѕ‚ж‚¤‚ИЃB 
+			<Font color="#000066" size="3"> Hi MorphKitty,<BR>The Chinese characters are just the name of university.<BR>Though I haven't read that story,<BR>This TV CF is frequently seen now on Japanese TV.<P>гЃ“гЃ®CMдєєж°—гЃЊгЃ‚г‚‹гЃ®гЃ‹гЂЃд»Ґе‰Ќг‚€г‚Љг‚‚й »еє¦гЃЊеў—гЃ€гЃџг‚€гЃ†гЃЄгЂ‚ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚Ь‚і‚в‚с [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃѕгЃ•г‚„г‚“ [<A HREF="http://www4.plala.or.jp/parallel/sense/index.html" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/12/24 (Tue) 18:14  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‚±‚М‚b‚lЊ©‚Ѕ‚±‚Ж‚И‚ў‚Е‚·ЃiЊ©—Ћ‚µ‚Д‚ў‚й‚М‚©‚ИЃ^ЉѕЃj<BR>‚Е‚а‚±‚МѓCѓ‰ѓXѓg‚Н‘f“G‚Е‚·Ѓ`ЃB<BR>ѓЊѓXѓЉѓ“ѓO‚ѕ‚Ї‚Й‚±‚МЊг‚Й‚НѓnЃ[ѓh‚И“WЉJ‚Є‘Т‚Б‚Д‚ў‚»‚¤‚Е‚·ЃB 
+			<Font color="#000066" size="3"> гЃ“гЃ®пјЈпј­и¦‹гЃџгЃ“гЃЁгЃЄгЃ„гЃ§гЃ™пј€и¦‹иђЅгЃ—гЃ¦гЃ„г‚‹гЃ®гЃ‹гЃЄпјЏж±—пј‰<BR>гЃ§г‚‚гЃ“гЃ®г‚¤гѓ©г‚№гѓ€гЃЇзґ ж•µгЃ§гЃ™пЅћгЂ‚<BR>гѓ¬г‚№гѓЄгѓіг‚°гЃ гЃ‘гЃ«гЃ“гЃ®еѕЊгЃ«гЃЇгѓЏгѓјгѓ‰гЃЄе±•й–‹гЃЊеѕ…гЃЈгЃ¦гЃ„гЃќгЃ†гЃ§гЃ™гЂ‚ 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="163">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.162 Ѓu•ЫЌЄђмЃ@‘f‰№ЏЏЃv </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">‚±‚Ж‚Ф‚«‚Р‚©‚й</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/04 (Wed) 21:52  </Font><BR>
-	<Font size=1><A HREF="./bbsnote.cgi?fc=continue&No=162">ЃљContinue</A></font><BR><IMG SRC="./data/IMG_000151.jpg" ALIGN="LEFT" BORDER=0 width=360 height=360 ALT="IMG_000151.jpg ( 47 KB )" TITLE="IMG_000151.jpg ( 47 KB )"> <Font color="#000066" size="3"> ѓhѓ‰‚а‚¦ѓ“Ѓ@ѓVѓЉЃ`ѓY‚»‚М‚Q<P>Ѓu‚ Ѓ`‚зЃA‰„‚­‚сЃA—Љ‚с‚Е‚Ё‚ў‚ЅѓЊѓ|Ѓ`ѓg‚Е‚«‚Д‚ў‚й‚©‚µ‚зЃB‚»‚¤‚»‚¤ЃA‚ ‚Ѕ‚­‚µЃA‚±‚к‚©‚з‚ї‚е‚Б‚ЖЏo‚©‚Ї‚Д‚«‚Ь‚·‚©‚зЃAЌu‹`‚МѓmЃ`ѓgЃA‚ї‚б‚с‚Ж‚Ж‚Б‚Д‚Ё‚ў‚ДѓlЃBЃv<P>Ѓu•ЫЌЄђмЃ@‘f‰№ЏЏЃv<BR>’nЊі‚Е‚Н‚»‚±‚»‚±<B><Font color="FF6699">’m</Font></B>‚з‚к‚ЅЉй‹ЖЃu•ЫЌЄђмѓOѓ‹Ѓ`ѓvЃvЋР’·‚М€кђl–єЃB<BR>ѓ^ѓJѓsЃ`‚Й‚µ‚Дь–ќ‚Й‚µ‚ДЃAЃuѓhЃv‚Є‚В‚­‰д‚ЄФЃB<BR>Ѓu‰„Ѓ@ђL‘ѕЃv‚МЏ—‰^‚М€«‚і‚рЊ»‚·‘г•\Љi‚М‚PђlЃB<BR>‚И‚Й‚©‚Й‚В‚ЇЃA<B><Font color="CC3399">Ћ©•Є</Font></B>‚Є€к”Ф‚Е‚И‚ў‚Ж‹C‚ЄЌП‚Ь‚И‚ўђ«Љi‚ѕ‚ЄЃA‚»‚М‚Ѕ‚Я‚Й“w<Font color="FF66FF">—Н</Font>‚·‚й‹C‚И‚З–С“Є‚И‚­ЃA‚а‚Б‚П‚зЃA<B><Font color="6600FF">‘јђl</Font></B>‚рЏR—Ћ‚Ж‚·‚±‚Ж‚©ЃA–WЉQЌHЌм‚Й‚О‚©‚иЃA€У—~‚р”R‚в‚µ‚Д‚ў‚йЃB<BR>Ѓu‰„Ѓ@ђL‘ѕЃv‚НЃAЌЭЉw’†‚Н‚а‚ї‚л‚с‚М‚±‚ЖЃAЏAђEђж‚ЄЃAЃu•ЫЌЄђмѓOѓ‹Ѓ`ѓvЃv‚М‰єђї‚Ї‚ѕ‚Б‚Ѕ‚±‚Ж‚©‚зЃA<Font color="6600CC">ЋЂ</Font>‚К‚Ь‚ЕЃA‚±‚«Ћg‚н‚к‚й‚±‚Ж‚Й‚И‚йЃB<BR> </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.162 гЂЊдїќж №е·ќгЂЂзґ йџіз·’гЂЌ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">гЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] / <B>TIME</B> : 2002/12/04 (Wed) 21:52  </Font><BR>
+	<Font size=1><A HREF="bbsnote@fc_continue_No_162.cgi">в…Continue</A></font><BR><IMG SRC="data/IMG_000151.jpg" ALIGN="LEFT" BORDER=0 width=360 height=360 ALT="IMG_000151.jpg ( 47 KB )" TITLE="IMG_000151.jpg ( 47 KB )"> <Font color="#000066" size="3"> гѓ‰гѓ©г‚‚гЃ€гѓігЂЂг‚·гѓЄпЅћг‚єгЃќгЃ®пј’<P>гЂЊгЃ‚пЅћг‚‰гЂЃе»¶гЃЏг‚“гЂЃй јг‚“гЃ§гЃЉгЃ„гЃџгѓ¬гѓќпЅћгѓ€гЃ§гЃЌгЃ¦гЃ„г‚‹гЃ‹гЃ—г‚‰гЂ‚гЃќгЃ†гЃќгЃ†гЂЃгЃ‚гЃџгЃЏгЃ—гЂЃгЃ“г‚ЊгЃ‹г‚‰гЃЎг‚‡гЃЈгЃЁе‡єгЃ‹гЃ‘гЃ¦гЃЌгЃѕгЃ™гЃ‹г‚‰гЂЃи¬›зѕ©гЃ®гѓЋпЅћгѓ€гЂЃгЃЎг‚ѓг‚“гЃЁгЃЁгЃЈгЃ¦гЃЉгЃ„гЃ¦гѓЌгЂ‚гЂЌ<P>гЂЊдїќж №е·ќгЂЂзґ йџіз·’гЂЌ<BR>ењ°е…ѓгЃ§гЃЇгЃќгЃ“гЃќгЃ“<B><Font color="FF6699">зџҐ</Font></B>г‚‰г‚ЊгЃџдјЃжҐ­гЂЊдїќж №е·ќг‚°гѓ«пЅћгѓ—гЂЌз¤ѕй•·гЃ®дёЂдєєеЁгЂ‚<BR>г‚їг‚«гѓ”пЅћгЃ«гЃ—гЃ¦е‚Іж…ўгЃ«гЃ—гЃ¦гЂЃгЂЊгѓ‰гЂЌгЃЊгЃ¤гЃЏж€‘гЃЊе„гЂ‚<BR>гЂЊе»¶гЂЂдјёе¤ЄгЂЌгЃ®еҐійЃ‹гЃ®ж‚ЄгЃ•г‚’зЏѕгЃ™д»ЈиЎЁж јгЃ®пј‘дєєгЂ‚<BR>гЃЄгЃ«гЃ‹гЃ«гЃ¤гЃ‘гЂЃ<B><Font color="CC3399">и‡Єе€†</Font></B>гЃЊдёЂз•ЄгЃ§гЃЄгЃ„гЃЁж°—гЃЊжё€гЃѕгЃЄгЃ„жЂ§ж јгЃ гЃЊгЂЃгЃќгЃ®гЃџг‚ЃгЃ«еЉЄ<Font color="FF66FF">еЉ›</Font>гЃ™г‚‹ж°—гЃЄгЃ©жЇ›й ­гЃЄгЃЏгЂЃг‚‚гЃЈгЃ±г‚‰гЂЃ<B><Font color="6600FF">д»–дєє</Font></B>г‚’и№ґиђЅгЃЁгЃ™гЃ“гЃЁгЃ‹гЂЃе¦Ёе®іе·ҐдЅњгЃ«гЃ°гЃ‹г‚ЉгЂЃж„Џж¬Іг‚’з‡ѓг‚„гЃ—гЃ¦гЃ„г‚‹гЂ‚<BR>гЂЊе»¶гЂЂдјёе¤ЄгЂЌгЃЇгЂЃењЁе­¦дё­гЃЇг‚‚гЃЎг‚Ќг‚“гЃ®гЃ“гЃЁгЂЃе°±иЃ·е…€гЃЊгЂЃгЂЊдїќж №е·ќг‚°гѓ«пЅћгѓ—гЂЌгЃ®дё‹и«‹гЃ‘гЃ гЃЈгЃџгЃ“гЃЁгЃ‹г‚‰гЂЃ<Font color="6600CC">ж­»</Font>гЃ¬гЃѕгЃ§гЂЃгЃ“гЃЌдЅїг‚Џг‚Њг‚‹гЃ“гЃЁгЃ«гЃЄг‚‹гЂ‚<BR> </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚Ь‚і‚в‚с  &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃѕгЃ•г‚„г‚“  &nbsp; <BR>
 			<B>TIME</B> : 2002/12/07 (Sat) 04:55  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‚Ё‚ЁЃA‚·‚Л‚ї‚б‚ЬЃ`ЃiЏОЃj<BR>ѓSЃ[ѓWѓѓѓX‚И•µ€Н‹C‚Є‚И‚с‚Ж‚аЃB<BR>ѓWѓѓѓCЃ›ѓ“‚·‚зЏ]‚¦‚Д‚»‚¤‚Е‚·‚ЛЃB 
+			<Font color="#000066" size="3"> гЃЉгЃЉгЂЃгЃ™гЃ­гЃЎг‚ѓгЃѕпЅћпј€з¬‘пј‰<BR>г‚ґгѓјг‚ёгѓЈг‚№гЃЄй›°е›Іж°—гЃЊгЃЄг‚“гЃЁг‚‚гЂ‚<BR>г‚ёгѓЈг‚¤в—‹гѓігЃ™г‚‰еѕ“гЃ€гЃ¦гЃќгЃ†гЃ§гЃ™гЃ­гЂ‚ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ђГ‰Є‰®–•’ѓ  &nbsp; <BR>
+			<NOBR><B>NAME</B> : йќ™еІЎе±‹жЉ№иЊ¶  &nbsp; <BR>
 			<B>TIME</B> : 2002/12/07 (Sat) 23:33  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> Њ©‚Ѕ–Ъ‚Жђ«Љi‚Єѓsѓbѓ^ѓЉ‚Б‚·Ѓ`<BR>Њ€‚Я‘дЋЊ‚НЃu‰„‚­‚с‚М‚­‚№‚Йђ¶€У‹C‚Е‚·‚нЃ`Ѓv‚Ж‚©ЃH 
+			<Font color="#000066" size="3"> и¦‹гЃџз›®гЃЁжЂ§ж јгЃЊгѓ”гѓѓг‚їгѓЄгЃЈгЃ™пЅћ<BR>ж±єг‚ЃеЏ°и©ћгЃЇгЂЊе»¶гЃЏг‚“гЃ®гЃЏгЃ›гЃ«з”џж„Џж°—гЃ§гЃ™г‚ЏпЅћгЂЌгЃЁгЃ‹пјџ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : MaSaMi  &nbsp; <BR>
 			<B>TIME</B> : 2002/12/08 (Sun) 01:32  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‚ЕЃA‚±‚М’ІЋq‚ЕЃu‹Ѕ“c‚Ѕ‚ЇЃvЃu–м”дђLЋqЃvЃuЏo—€ђ™ЏG‘гЃv‚Б‚Д‘±‚­‚с‚Е‚µ‚е‚¤‚ЛЃEЃEЃEЃEЃEЃE–G‚¦‚й‚ЖЊѕ‚¤‚ж‚и‹№ЏД‚Ї‚µ‚»‚¤‚И‹C‚Є‚·‚йЃBЃ@(°°;;;) 
+			<Font color="#000066" size="3"> гЃ§гЂЃгЃ“гЃ®иЄїе­ђгЃ§гЂЊйѓ·з”°гЃџгЃ‘гЂЌгЂЊй‡ЋжЇ”дјёе­ђгЂЌгЂЊе‡єжќҐжќ‰з§Ђд»ЈгЂЌгЃЈгЃ¦з¶љгЃЏг‚“гЃ§гЃ—г‚‡гЃ†гЃ­гѓ»гѓ»гѓ»гѓ»гѓ»гѓ»иђЊгЃ€г‚‹гЃЁиЁЂгЃ†г‚€г‚Љиѓёз„јгЃ‘гЃ—гЃќгЃ†гЃЄж°—гЃЊгЃ™г‚‹гЂ‚гЂЂ(пЅ°пЅ°;;;) 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚і‚Б‚«Ѓ[  &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃ•гЃЈгЃЌгѓј  &nbsp; <BR>
 			<B>TIME</B> : 2002/12/08 (Sun) 03:53  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‰„Ѓ@ђL‘ѕ‚Є‚ў‚й‚©‚з–м”дђLЋq‚Н‚З‚¤‚©‚И‚ Ѓc<BR>ЃuЊ№Ѓ@ђГ—YЃv‚Б‚Д”ьЏ­”NѓLѓѓѓ‰‚Є‚Е‚Д‚«‚Ѕ‚з<BR>ђL‘ѕ‚Жѓ{Ѓ[ѓCѓY“I‚ИѓVѓ`ѓ…ѓGЃ[ѓVѓ‡ѓ“‚а‰ВЃH<BR> 
+			<Font color="#000066" size="3"> е»¶гЂЂдјёе¤ЄгЃЊгЃ„г‚‹гЃ‹г‚‰й‡ЋжЇ”дјёе­ђгЃЇгЃ©гЃ†гЃ‹гЃЄгЃ‚вЂ¦<BR>гЂЊжєђгЂЂйќ™й›„гЂЌгЃЈгЃ¦зѕЋе°‘е№ґг‚­гѓЈгѓ©гЃЊгЃ§гЃ¦гЃЌгЃџг‚‰<BR>дјёе¤ЄгЃЁгѓњгѓјг‚¤г‚єзљ„гЃЄг‚·гѓЃгѓҐг‚Ёгѓјг‚·гѓ§гѓіг‚‚еЏЇпјџ<BR> 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">‚±‚Ж‚Ф‚«‚Р‚©‚й</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">гЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/top.htm" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/12/09 (Mon) 20:17  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> –м”дђLЋq‚Е‚НЃA‚ї‚е‚Б‚Ж‚Ь‚с‚Ь‚·‚¬‚й‚М‚ЕЃA<BR>‚»‚М‚Ь‚ЬЋg‚¤‚М‚НЃA‚И‚Ї‚И‚µ‚Мѓvѓ‰ѓCѓh‚Є‹–‚і‚И‚ўЃI<P>‚Ж‚ў‚¤‚±‚Ж‚ЕЃA‰„Ѓ@ђL‘ѕ‚­‚с‚ЄЃAѓhѓ‰‚а‚¦ѓ“‚Й‚ж‚Б‚Д<BR>‚s‚r‚і‚к‚ї‚б‚Б‚ЅЊг‚М–ј‘O‚рЃAЊњ–Ѕ‚ЙЊџ“ў’†‚ѕ‚Б‚Ѕ‚и‚·‚йЃB<P>‚µ‚ё‚©‚ї‚б‚с‚НЃA‹MЏd‚ИЏ—‚МЋqѓLѓѓѓ‰‚ѕ‚Ї‚Й<BR>ЃiѓWѓѓѓCЋq‚рЃA‚З‚¤€µ‚¦‚Ж‚ў‚¤‚М‚©ЃHЃIЃj<BR>‰Iи€‚И‚s‚r‚НЃA–ЅЋж‚и‚ѕ‚µЃB<P>ѓWѓѓѓCѓAѓ“‚М–{–ј‚НЃA‚З‚¤‚Й‚а—Ћ‚ї’…‚©‚И‚©‚Б‚Ѕ‚и‚·‚йЃB<BR> 
+			<Font color="#000066" size="3"> й‡ЋжЇ”дјёе­ђгЃ§гЃЇгЂЃгЃЎг‚‡гЃЈгЃЁгЃѕг‚“гЃѕгЃ™гЃЋг‚‹гЃ®гЃ§гЂЃ<BR>гЃќгЃ®гЃѕгЃѕдЅїгЃ†гЃ®гЃЇгЂЃгЃЄгЃ‘гЃЄгЃ—гЃ®гѓ—гѓ©г‚¤гѓ‰гЃЊиЁ±гЃ•гЃЄгЃ„пјЃ<P>гЃЁгЃ„гЃ†гЃ“гЃЁгЃ§гЂЃе»¶гЂЂдјёе¤ЄгЃЏг‚“гЃЊгЂЃгѓ‰гѓ©г‚‚гЃ€гѓігЃ«г‚€гЃЈгЃ¦<BR>пјґпјігЃ•г‚ЊгЃЎг‚ѓгЃЈгЃџеѕЊгЃ®еђЌе‰Ќг‚’гЂЃж‡ёе‘ЅгЃ«ж¤њиЁЋдё­гЃ гЃЈгЃџг‚ЉгЃ™г‚‹гЂ‚<P>гЃ—гЃљгЃ‹гЃЎг‚ѓг‚“гЃЇгЂЃиІґй‡ЌгЃЄеҐігЃ®е­ђг‚­гѓЈгѓ©гЃ гЃ‘гЃ«<BR>пј€г‚ёгѓЈг‚¤е­ђг‚’гЂЃгЃ©гЃ†ж‰±гЃ€гЃЁгЃ„гЃ†гЃ®гЃ‹пјџпјЃпј‰<BR>иї‚й—ЉгЃЄпјґпјігЃЇгЂЃе‘ЅеЏ–г‚ЉгЃ гЃ—гЂ‚<P>г‚ёгѓЈг‚¤г‚ўгѓігЃ®жњ¬еђЌгЃЇгЂЃгЃ©гЃ†гЃ«г‚‚иђЅгЃЎзќЂгЃ‹гЃЄгЃ‹гЃЈгЃџг‚ЉгЃ™г‚‹гЂ‚<BR> 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="162">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
 
 	<TABLE width=100%><TR><TD>
-	<HR>ЃЎ <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.161 ѓЉѓNѓGѓXѓg </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> ЃF ЌF  / <B>TIME</B> : 2002/11/29 (Fri) 19:04  </Font><BR>
-	 <Font color="#000066" size="3"> Љwѓ‰ѓ“‚М’j‚МЋq‚©‚з‚©‚зЏ—‚МЋq‚Ц‚МѓAѓjѓЃЊ©‚ДЊ©‚Ѕ‚ў‚Е‚·Ѓ`ЃB‚З‚И‚Ѕ‚©‚ЁЉи‚ў‚µ‚Ь‚·ЃIЃIЃI </Font>
+	<HR>в–  <Font color="#333399" size="3"><b> <Font color="#333399" size="3"><b> No.161 гѓЄг‚Їг‚Ёг‚№гѓ€ </b></Font> </b></Font> <Font face="Verdana" color="#337399" size="2"><B>NAME</B> пјљ е­ќ  / <B>TIME</B> : 2002/11/29 (Fri) 19:04  </Font><BR>
+	 <Font color="#000066" size="3"> е­¦гѓ©гѓігЃ®з”·гЃ®е­ђгЃ‹г‚‰гЃ‹г‚‰еҐігЃ®е­ђгЃёгЃ®г‚ўгѓ‹гѓЎи¦‹гЃ¦и¦‹гЃџгЃ„гЃ§гЃ™пЅћгЂ‚гЃ©гЃЄгЃџгЃ‹гЃЉйЎгЃ„гЃ—гЃѕгЃ™пјЃпјЃпјЃ </Font>
 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : –е•”ЏН  &nbsp; <BR>
+			<NOBR><B>NAME</B> : й–ЂйѓЁз«   &nbsp; <BR>
 			<B>TIME</B> : 2002/11/30 (Sat) 20:49  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ѓAѓjѓЃ‚Е‚Н‚ ‚и‚Ь‚№‚с‚ЄЃA‚±‚Ж‚Ф‚«‚і‚с‚М‚Ж‚±‚л‚Е<BR>‚ї‚е‚Б‚ЖЃA‚»‚к‚Й‹Я‚ў‚b‚f‚МЊцЉJ‚Є‚ ‚и‚Ь‚µ‚ЅЃB<BR>ЉъЉФЊА’и‚М‚ж‚¤‚И‚М‚ЕЃAЉФ‚ЙЌ‡‚н‚И‚ў‚©‚а’m‚к‚И‚ў‚Ї‚ЗЃB<P><BR>”ЄЏdЏFѓЃѓfѓBѓAѓЉѓTЃ[ѓ`‚МѓЉѓ“ѓN‚©‚зЌs‚Ї‚й‚Н‚ёЃB<BR>ѓTѓCѓg–ј‚НЃA‚m‚c‚bѓZѓLѓЉѓ…ѓeѓTЃ[ѓrѓX‚Е‚·ЃB<P>‰є‚Й‚аЏ‘‚©‚к‚Д‚Ь‚·‚ЛЃBЃOЃOЃGЃj<P><BR> 
+			<Font color="#000066" size="3"> г‚ўгѓ‹гѓЎгЃ§гЃЇгЃ‚г‚ЉгЃѕгЃ›г‚“гЃЊгЂЃгЃ“гЃЁгЃ¶гЃЌгЃ•г‚“гЃ®гЃЁгЃ“г‚ЌгЃ§<BR>гЃЎг‚‡гЃЈгЃЁгЂЃгЃќг‚ЊгЃ«иї‘гЃ„пјЈпј§гЃ®е…¬й–‹гЃЊгЃ‚г‚ЉгЃѕгЃ—гЃџгЂ‚<BR>жњџй–“й™ђе®љгЃ®г‚€гЃ†гЃЄгЃ®гЃ§гЂЃй–“гЃ«еђ€г‚ЏгЃЄгЃ„гЃ‹г‚‚зџҐг‚ЊгЃЄгЃ„гЃ‘гЃ©гЂ‚<P><BR>е…«й‡ЌжґІгѓЎгѓ‡г‚Јг‚ўгѓЄг‚µгѓјгѓЃгЃ®гѓЄгѓіг‚ЇгЃ‹г‚‰иЎЊгЃ‘г‚‹гЃЇгЃљгЂ‚<BR>г‚µг‚¤гѓ€еђЌгЃЇгЂЃпј®пј¤пјЈг‚»г‚­гѓЄгѓҐгѓ†г‚µгѓјгѓ“г‚№гЃ§гЃ™гЂ‚<P>дё‹гЃ«г‚‚ж›ёгЃ‹г‚ЊгЃ¦гЃѕгЃ™гЃ­гЂ‚пјѕпјѕпј›пј‰<P><BR> 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ЌF  &nbsp; <BR>
+			<NOBR><B>NAME</B> : е­ќ  &nbsp; <BR>
 			<B>TIME</B> : 2002/11/30 (Sat) 22:18  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> Џо•с‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚·ЃI’N‚©‘ј‚Й’j‚©‚зЏ—‚Й•П‚Б‚Д‚ў‚­‚ж‚¤‚ИA‘±‰ж‚Ж‚©‚©‚ў‚Д‚И‚ў‚©‚И‚џЃc 
+			<Font color="#000066" size="3"> жѓ…е ±гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™пјЃиЄ°гЃ‹д»–гЃ«з”·гЃ‹г‚‰еҐігЃ«е¤‰гЃЈгЃ¦гЃ„гЃЏг‚€гЃ†гЃЄйЂЈз¶љз”»гЃЁгЃ‹гЃ‹гЃ„гЃ¦гЃЄгЃ„гЃ‹гЃЄгЃЃвЂ¦ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">‚±‚Ж‚Ф‚«‚Р‚©‚й</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">HOME</A>] &nbsp; <BR>
+			<NOBR><B>NAME</B> : <A HREF="mailto:ndcss@mtd.biglobe.ne.jp">гЃ“гЃЁгЃ¶гЃЌгЃІгЃ‹г‚‹</A> [<A HREF="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/11/30 (Sat) 22:40  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> €«‚ў‚Ї‚ЗЃAЉщ‚ЙЊцЉJ‚НЏI—№<BR>‚Ж‚ў‚¤‚©ЃAђіЋ®‚ЙЊцЉJ‚µ‚Ѕ‚н‚Ї‚¶‚б‚И‚ў‚µЃA<BR>Њµ–§‚Й‚НЃA“°ЃX‚ЖЊцЉJ‚Е‚«‚й‚ж‚¤‚И‚а‚М‚¶‚б‚И‚ўЃB<P>ЌЎ‰с‚НЃA‚ ‚­‚Ь‚Е‚аЃAѓIѓ}ѓP‚ЖЊѕ‚¤€У–Ў‚М<BR>ѓTЃ[ѓrѓX‚Ж‚µ‚ДЊfЌЪ‚ѕ‚Б‚Ѕ‚µЃA<BR>‚»‚М•У‚рЉ„‚иђШ‚Б‚Д‚Ѕ‚©‚зЃAЊцЉJ‚Е‚«‚Ѕ‚Ж‚а‚ў‚¦‚йЃB<P>Џ®ЃAѓAѓjѓЃ‚Ж‚И‚й‚ЖЃAЌЕ’б‚Е‚а‚TЃA‚U–‡<BR>‚»‚к‚И‚и‚МЏo—€‚Й‚·‚й‚Ѕ‚Я‚Й‚НЃA‚P‚O–‡€ИЏг‚М‚b‚f‚Є<BR>•K—vЃBЃiЏкЌ‡‚Й‚ж‚Б‚Д‚Н‚Q‚O–‡ЃI‚рЊy‚­‰z‚¦‚йЃBЃj<BR>ѓOѓ‹Ѓ[ѓv‚Е‚в‚Б‚Ѕ‚Ж‚µ‚Д‚аЃA<BR>ђ§ЌмЋТ‚М•‰’S‚НЃA‚Ж‚Д‚В‚а‚И‚­‘е‚«‚ў‚М‚ЕЃA<BR>€А€Х‚ЙЃA‹Ѓ‚Я‚Д‚Н‚ў‚Ї‚Ь‚№‚сЃB<BR> 
+			<Font color="#000066" size="3"> ж‚ЄгЃ„гЃ‘гЃ©гЂЃж—ўгЃ«е…¬й–‹гЃЇзµ‚дє†<BR>гЃЁгЃ„гЃ†гЃ‹гЂЃж­ЈејЏгЃ«е…¬й–‹гЃ—гЃџг‚ЏгЃ‘гЃг‚ѓгЃЄгЃ„гЃ—гЂЃ<BR>еЋіеЇ†гЃ«гЃЇгЂЃе ‚гЂ…гЃЁе…¬й–‹гЃ§гЃЌг‚‹г‚€гЃ†гЃЄг‚‚гЃ®гЃг‚ѓгЃЄгЃ„гЂ‚<P>д»Ље›ћгЃЇгЂЃгЃ‚гЃЏгЃѕгЃ§г‚‚гЂЃг‚Єгѓћг‚±гЃЁиЁЂгЃ†ж„Џе‘ігЃ®<BR>г‚µгѓјгѓ“г‚№гЃЁгЃ—гЃ¦жЋІиј‰гЃ гЃЈгЃџгЃ—гЂЃ<BR>гЃќгЃ®иѕєг‚’е‰Іг‚Ље€‡гЃЈгЃ¦гЃџгЃ‹г‚‰гЂЃе…¬й–‹гЃ§гЃЌгЃџгЃЁг‚‚гЃ„гЃ€г‚‹гЂ‚<P>е°љгЂЃг‚ўгѓ‹гѓЎгЃЁгЃЄг‚‹гЃЁгЂЃжњЂдЅЋгЃ§г‚‚пј•гЂЃпј–жћљ<BR>гЃќг‚ЊгЃЄг‚ЉгЃ®е‡єжќҐгЃ«гЃ™г‚‹гЃџг‚ЃгЃ«гЃЇгЂЃпј‘пјђжћљд»ҐдёЉгЃ®пјЈпј§гЃЊ<BR>еї…и¦ЃгЂ‚пј€е ґеђ€гЃ«г‚€гЃЈгЃ¦гЃЇпј’пјђжћљпјЃг‚’и»ЅгЃЏи¶ЉгЃ€г‚‹гЂ‚пј‰<BR>г‚°гѓ«гѓјгѓ—гЃ§г‚„гЃЈгЃџгЃЁгЃ—гЃ¦г‚‚гЂЃ<BR>е€¶дЅњиЂ…гЃ®иІ ж‹…гЃЇгЂЃгЃЁгЃ¦гЃ¤г‚‚гЃЄгЃЏе¤§гЃЌгЃ„гЃ®гЃ§гЂЃ<BR>е®‰ж“гЃ«гЂЃж±‚г‚ЃгЃ¦гЃЇгЃ„гЃ‘гЃѕгЃ›г‚“гЂ‚<BR> 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ЌF  &nbsp; <BR>
+			<NOBR><B>NAME</B> : е­ќ  &nbsp; <BR>
 			<B>TIME</B> : 2002/11/30 (Sat) 23:19  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‚»‚Е‚·‚©Ѓc‚Е‚аЏ‘‚ў‚Д‚Щ‚µ‚ўЃI‚¶‚б‚И‚­‚Д‚»Ѓ[‚дЃ[‚М‚Є‚ ‚Б‚Ѕ‚з‹і‚¦‚Д‚Щ‚µ‚ў‚Б‚Д‚±‚Ж‚И‚М‚ЕЃB‚»‚±‚М‚Ж‚±‚рЊл‰р‚µ‚И‚ў‚Е‚­‚ѕ‚і‚ўЃB 
+			<Font color="#000066" size="3"> гЃќгЃ§гЃ™гЃ‹вЂ¦гЃ§г‚‚ж›ёгЃ„гЃ¦гЃ»гЃ—гЃ„пјЃгЃг‚ѓгЃЄгЃЏгЃ¦гЃќгѓјг‚†гѓјгЃ®гЃЊгЃ‚гЃЈгЃџг‚‰ж•™гЃ€гЃ¦гЃ»гЃ—гЃ„гЃЈгЃ¦гЃ“гЃЁгЃЄгЃ®гЃ§гЂ‚гЃќгЃ“гЃ®гЃЁгЃ“г‚’иЄ¤и§ЈгЃ—гЃЄгЃ„гЃ§гЃЏгЃ гЃ•гЃ„гЂ‚ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
 			<NOBR><B>NAME</B> : nomad2000 [<A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/" target="_blank">HOME</A>] &nbsp; <BR>
 			<B>TIME</B> : 2002/12/01 (Sun) 21:51  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‚Ь‚ ЃA‚ ‚Ь‚и‹Г‚Б‚Ѕ‚±‚Ж‚рЌl‚¦‚И‚Ї‚к‚ОЃAѓ‚Ѓ[ѓtѓBѓ“ѓO‚ѕ‚Ї‚Е‚а‚Е‚«‚й‚М‚Е‚·‚ЄЃA<BR><A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/movie/btg.gif" TARGET="_BLANK">http://www.geocities.co.jp/AnimeComic-Cell/3112/movie/btg.gif</A> 
+			<Font color="#000066" size="3"> гЃѕгЃ‚гЂЃгЃ‚гЃѕг‚Ље‡ќгЃЈгЃџгЃ“гЃЁг‚’иЂѓгЃ€гЃЄгЃ‘г‚ЊгЃ°гЂЃгѓўгѓјгѓ•г‚Јгѓіг‚°гЃ гЃ‘гЃ§г‚‚гЃ§гЃЌг‚‹гЃ®гЃ§гЃ™гЃЊгЂЃ<BR><A HREF="http://www.geocities.co.jp/AnimeComic-Cell/3112/movie/btg.gif" TARGET="_BLANK">http://www.geocities.co.jp/AnimeComic-Cell/3112/movie/btg.gif</A> 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ‚Ж‚Ж  &nbsp; <BR>
+			<NOBR><B>NAME</B> : гЃЁгЃЁ  &nbsp; <BR>
 			<B>TIME</B> : 2002/12/01 (Sun) 22:26  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‚в‚Б‚Пnomad2000‚і‚с‚·‚І‚ў‚в 
+			<Font color="#000066" size="3"> г‚„гЃЈгЃ±nomad2000гЃ•г‚“гЃ™гЃ”гЃ„г‚„ 
 		
 
 			
 			<HR><Font face="Verdana" color="#0099CC" size="2">
-			<NOBR><B>NAME</B> : ЌF  &nbsp; <BR>
+			<NOBR><B>NAME</B> : е­ќ  &nbsp; <BR>
 			<B>TIME</B> : 2002/12/01 (Sun) 23:26  </Font><BR></NOBR>
-			<Font color="#000066" size="3"> ‚·‚І‚ўЃIЃIЃI‚Е‚«‚к‚О‘O‚рЊь‚ў‚Д‚Щ‚µ‚©‚Б‚Ѕ‚Ї‚ЗЃBЃBЃB‚Ї‚З‚·‚І‚ўЃIЃIЋиЉФ‚Є‚©‚©‚Б‚Ѕ‚М‚Е‚НЃH 
+			<Font color="#000066" size="3"> гЃ™гЃ”гЃ„пјЃпјЃпјЃгЃ§гЃЌг‚ЊгЃ°е‰Ќг‚’еђ‘гЃ„гЃ¦гЃ»гЃ—гЃ‹гЃЈгЃџгЃ‘гЃ©гЂ‚гЂ‚гЂ‚гЃ‘гЃ©гЃ™гЃ”гЃ„пјЃпјЃж‰‹й–“гЃЊгЃ‹гЃ‹гЃЈгЃџгЃ®гЃ§гЃЇпјџ 
 		
 
 		
 	</TD></TR>
 	<TR><TD>
-		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="./bbsnote.cgi">
+		<DIV ALIGN="RIGHT"><TABLE><TR><form method="post" action="bbsnote.cgi">
 			<TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><input type="hidden" name="fc" value="write"><input name=mode type=hidden value=><input name=sort type=hidden value=0><input name=page type=hidden value=3><input type="hidden" name="l" value="161">NAME <input CLASS="button" type="text" size="10" name="name" value="" tabindex="1" style="ime-mode:active;"></TD>
 			<TD rowspan=2 nowrap><Font size=2><textarea CLASS="button" rows="3" name="mesg" cols="40" wrap="soft" tabindex="8" style="ime-mode:active;"></textarea></TD>
-			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="ѓtѓ‰ѓЏЃ[ѓpѓjѓbѓN">FLOWER</TD></TR>
+			<TD nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2><INPUT TYPE="checkbox" name="flower" VALUE="1" title="гѓ•гѓ©гѓЇгѓјгѓ‘гѓ‹гѓѓг‚Ї">FLOWER</TD></TR>
 			<TR><TD align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>MAIL <input class="button" type="text" size=10 name="mail" value="" style="ime-mode:inactive"></TD>
 			<TD></TD></TR>
 			<TR><TD colspan=2 align=right nowrap><Font face="Verdana" color="#337399" size="2"><Font size=2>URL <small>http://</small><input class="button" type="text" name="url" size="40" value="" style="ime-mode:inactive">
 			 PASS <input CLASS="button" type="password" size="5" name="password" value="" style="ime-mode:inactive">
-			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" ѓЊѓX " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;ЃЈ</FONT></A></DIV>
+			</TD><TD align=right nowrap><Font size=2><INPUT CLASS="button" TYPE="submit" VALUE=" гѓ¬г‚№ " tabindex=8></TD></TR></TABLE><A HREF="#top"><FONT SIZE="1">&nbsp;в–І</FONT></A></DIV>
 	</TD></FORM></TR></TABLE>
 
 
@@ -574,9 +574,9 @@ Copyright belongs to the respective author (even if it was a fanfic). No reprodu
 
 	<A NAME="pages"><HR></A><DIV ALIGN="RIGHT"><SMALL>
 	
-	<A HREF="./bbsnote.cgi?fc=page&sort=0&page=2">&lt;&lt; <B>NEXT</B> </A>||<A HREF="./bbsnote.cgi?fc=page&sort=0&page=4"> <B>BACK</B> &gt;&gt;</A><A NAME="pages"> PAGE </A>[<A HREF="./bbsnote.cgi?fc=page&sort=0&page=1">1</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=2">2</A>][<B><Font Style="TEXT-DECORATION:UNDERLINE">3</Font></B>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=4">4</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=5">5</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=6">6</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=7">7</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=8">8</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=9">9</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=10">10</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=11">11</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=12">12</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=13">13</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=14">14</A>][<A HREF="./bbsnote.cgi?fc=page&sort=0&page=15">15</A>]
+	<A HREF="bbsnote@fc_page_sort_0_page_2.cgi">&lt;&lt; <B>NEXT</B> </A>||<A HREF="bbsnote@fc_page_sort_0_page_4.cgi"> <B>BACK</B> &gt;&gt;</A><A NAME="pages"> PAGE </A>[<A HREF="bbsnote@fc_page_sort_0_page_1.cgi">1</A>][<A HREF="bbsnote@fc_page_sort_0_page_2.cgi">2</A>][<B><Font Style="TEXT-DECORATION:UNDERLINE">3</Font></B>][<A HREF="bbsnote@fc_page_sort_0_page_4.cgi">4</A>][<A HREF="bbsnote@fc_page_sort_0_page_5.cgi">5</A>][<A HREF="bbsnote@fc_page_sort_0_page_6.cgi">6</A>][<A HREF="bbsnote@fc_page_sort_0_page_7.cgi">7</A>][<A HREF="bbsnote@fc_page_sort_0_page_8.cgi">8</A>][<A HREF="bbsnote@fc_page_sort_0_page_9.cgi">9</A>][<A HREF="bbsnote@fc_page_sort_0_page_10.cgi">10</A>][<A HREF="bbsnote@fc_page_sort_0_page_11.cgi">11</A>][<A HREF="bbsnote@fc_page_sort_0_page_12.cgi">12</A>][<A HREF="bbsnote@fc_page_sort_0_page_13.cgi">13</A>][<A HREF="bbsnote@fc_page_sort_0_page_14.cgi">14</A>][<A HREF="bbsnote@fc_page_sort_0_page_15.cgi">15</A>]
 
-		<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)‚µ‚Ў‚ї‚б‚с(shi-cyan)</A> 
+		<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)гЃ—гЃѓгЃЎг‚ѓг‚“(shi-cyan)</A> 
 
 	</SMALL></DIV>
 	

@@ -1,142 +1,142 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1014982899sywtjkr&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1014982899sywtjkr_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">��Q�{��</font><br>
+<font size="+2" color="#0000FF">第２宮家</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/03/01 20:41:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/03/01 20:41:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014982899sywtjkr&id2=1014982899sywtjkr&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014982899sywtjkr_id2_1014982899sywtjkr_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������c
+準備中…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/02172009/2nd_miyake_1.html" target="_blank">���͂�����ɂ͂������N���b�N�B</a></strong>  <i>2002/03/02 17:26:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/02172009/2nd_miyake_1.html" target="_blank">第一章を見るにはここをクリック。</a></strong>  <i>2002/03/02 17:26:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015057602ibxvb&id2=1014982899sywtjkr&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015057602ibxvb_id2_1014982899sywtjkr_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�^�c�ψ��Ƃ��Ĕ��ʘZ�]�̊���𑱂���starbow����̕��ɏ���i�B�܂��I�[�v�j���O�ł����A���̐悢�����������N����̂����҂̂��Ă邨�b�ł��B
+【推薦文】運営委員として八面六臂の活躍を続けるstarbowさんの文庫初作品。まだオープニングですが、この先いったい何が起こるのか期待のもてるお話です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/03/02 22:19:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/03/02 22:19:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015075169ejvfce&id2=1014982899sywtjkr&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015075169ejvfce_id2_1014982899sywtjkr_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��䂪�����ł��ˁB<BR>�Ȃ񂩒m��Ȃ������ɐ_�l�݂����ȑ��݂ɂȂ���������悤�ł��ˁB<BR>����ɂ��Ă�T����S����c��l���킹��Ɓc�i���j
+うーん謎が多いですね。<BR>なんか知らないうちに神様みたいな存在になっちゃったようですね。<BR>それにしてもT氏とSさん…二人あわせると…（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/03 20:40:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/03 20:40:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015155659hyakf&id2=1014982899sywtjkr&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015155659hyakf_id2_1014982899sywtjkr_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂܂��ʔ������ȓ������ł��˂��B<BR>���҂ɒ����ҁI���ĂƂ��ł��ȁB<BR>��������ς����邵�A����Ƃ����҂����肢���܂���B<BR><BR>�������E�E�E�s���Ƃr������āA���̂܂�܂�񂯁i�΁j�B
+読んだバイ♪<BR>これはまた面白そうな導入部ですねぇ。<BR>続編に超期待！ってとこですな。<BR>謎もいっぱいあるし、是非とも続編をお願いしますよ。<BR><BR>しかし・・・Ｔ氏とＳさんって、そのまんまやんけ（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/03/03 23:11:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015164676lyrwkbi&id2=1014982899sywtjkr&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015164676lyrwkbi_id2_1014982899sywtjkr_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�̏������݂��肪�Ƃ��������܂��B<BR><BR>�m�C������A<BR>&gt;�Ȃ񂩒m��Ȃ������ɐ_�l�݂����ȑ��݂ɂȂ���������悤�ł��ˁB<BR>�����Ȃ�ł���B<BR>�܁[�A���͍ŏ��̗\��ł́A����������ƕ��ʂ̐l�̗\�肾�����̂ł����A�����Ȃ��Ă��܂����̂ł��B<BR><BR>�_�����z�̂����W�S�Q�U����A<BR>&gt;����͂܂��ʔ������ȓ������ł��˂��B<BR>�����������ŁA���̐悪���t�����ł��Ă��Ȃ��̂ł��āA<BR>�i���̂��߁A�ڎ�����HP�Ɍf�ڂ��Ă��܂��B�j<BR>����́A�ŏ��������e�����Ă��������܂����B<BR>�Ȃ�ׂ������������o���悤�ɁA���Ȃ��Ă��܂��B<BR><BR>&gt;T����S����<BR>����́A�Ӑ}�����킯�ł͂Ȃ��A���܂��܂Ȃ�ł���B<BR>�����ď��߂ċC���t���Ă���A��҂ł����B<BR>
+感想の書き込みありがとうございます。<BR><BR>ノインさん、<BR>&gt;なんか知らないうちに神様みたいな存在になっちゃったようですね。<BR>そうなんですよ。<BR>まー、実は最初の予定では、もうちょっと普通の人の予定だったのですが、こうなってしまったのです。<BR><BR>神速感想のｍｋ８４２６さん、<BR>&gt;これはまた面白そうな導入部ですねぇ。<BR>導入部だけで、その先がラフしかできていなものでして、<BR>（そのため、目次だけHPに掲載しています。）<BR>今回は、最初だけ投稿させていただきました。<BR>なるべく早く続きを出すように、推敲しています。<BR><BR>&gt;T氏とSさん<BR>これは、意図したわけではなく、たまたまなんですよ。<BR>言われて初めて気が付いている、作者でした。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����@�ٔ\��</strong>  <i>2002/03/04 19:16:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>次回　異能者</strong>  <i>2002/03/04 19:16:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015236998khdfcsa&id2=1014982899sywtjkr&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015236998khdfcsa_id2_1014982899sywtjkr_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ꂪ�A�䂪�^���i�����߁j�Ȃ�<BR><BR>
+それが、我が運命（さだめ）なら<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/02172009/2nd_miyake_2.html" target="_blank">���͂�ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/11 01:38:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/02172009/2nd_miyake_2.html" target="_blank">第二章を読むにはここをクリック</a></strong>  <i>2002/03/11 01:38:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015778322tlpmqv&id2=1014982899sywtjkr&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015778322tlpmqv_id2_1014982899sywtjkr_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�W�X�Ƙb���i�ވ���A���Ɂu��Q�{�Ɓv�Ƃ͉��Ȃ̂��A���̈�Ђ����炩�ɁB�s��ȓW�J��\�z�����镨��ł��B
+【推薦文】淡々と話が進む一方、ついに「第２宮家」とは何なのか、その一片が明らかに。壮大な展開を予想させる物語です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/11 06:54:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/11 06:54:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015797295rmfner&id2=1014982899sywtjkr&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015797295rmfner_id2_1014982899sywtjkr_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�Ȃ��Ȃ������W�J�ł��˂��B<BR>�؂���������񑊂ƁA���C�ȓV�c�̑Δ䂪�ʔ��������ł��B<BR>���ꂩ��ʎi�{�r���܂Ƃ��ĕ\���E�ɓo�ꂷ��r����̍��オ�y���݂ł��ˁB
+読んだバイ♪<BR>なかなかいい展開ですねぇ。<BR>畏れをいだく首相と、平気な天皇の対比が面白かったです。<BR>これから玉司宮Ｓさまとして表世界に登場するＳさんの今後が楽しみですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/11 09:17:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/11 09:17:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015805850gndqe&id2=1014982899sywtjkr&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015805850gndqe_id2_1014982899sywtjkr_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂶂Ⴑ���`�I�I<BR>�Ƃ����킯�Łc���b���̍ŏ��̕��͂�����҂��ł����B<BR>�㔼�ɂȂ��āA�悤�₭�A�ق�̂�ƕ������Ă������Ċ����ł��B<BR>�s��ȃX�P�[���ł��ˁBSF���Ă����͕̂�����܂����B<BR>����A�ǂ����_�[�N�Ȃ̂��͂�����҂��ł������A���ꂩ��_�[�N�ɂȂ��Ă����̂ł��傤���c
+なんじゃこりゃ～！！<BR>というわけで…お話しの最初の方はちょっぴり謎でした。<BR>後半になって、ようやく、ほんのりと分かってきたって感じです。<BR>壮大なスケールですね。SFっていうのは分かりました。<BR>一方、どこがダークなのかはちょっぴり謎でしたが、これからダークになっていくのでしょうか…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/03/13 01:48:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015951692grxuah&id2=1014982899sywtjkr&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015951692grxuah_id2_1014982899sywtjkr_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�����z�̂����W�S�Q�U���܁A<BR>�m�C���i�d�g�d���j ���܁A<BR><BR>���z���肪�Ƃ��������܂��B<BR><BR>�_�����z�̂����W�S�Q�U���܁A<BR>&gt;�Ȃ��Ȃ������W�J�ł��˂��B<BR>���肪�Ƃ��������܂��B<BR>����̓W�J���A���Ȓ��ł��̂ŁA�����҂ɓY����΂Ǝv���Ă���܂��B<BR><BR>�m�C���i�d�g�d���j ���܁A<BR>&gt;���b���̍ŏ��̕��͂�����҂��ł����B<BR>�����܂���B<BR>���e���J���g�ȓ��e�ɂȂ��Ă��܂��Ă�����������܂���B<BR>�����̕����̓��e�́A�`��SF�Ƃ������ƂŁA�G���@�ł͖����ł����A�I�J���g�˂����猾�t�������Ă��Ă���ʂ�����܂��B�������A����́A�O�u���ł�����A���܂�C�ɂȂ���Ȃ��ł��������B<BR><BR>&gt;�ǂ����_�[�N�Ȃ̂��͂�����҂��ł������A���ꂩ��_�[�N�ɂȂ��Ă����̂ł��傤���c<BR>���[�B���������w�E�ł��B<BR>�_�[�N�Ƃ�����肩�A�I�J���g�Ƃ����ق���������������܂���ˁB<BR>�\��ł́A�S�̂̂��b�̌㔼���_�[�N���Ȃƍl���Ă���܂��B<BR><BR>���́A���͂̓��e����{�ݒ�Ƃ��āA�Ȃɂ����N�G�X�g������܂�����A����̓W�J�ɐ������Ă��������Ǝv���܂��B<BR>���ӌ������������܂��悤�A�X�������肢���܂��B
+神速感想のｍｋ８４２６さま、<BR>ノイン（電波妖精） さま、<BR><BR>感想ありがとうございます。<BR><BR>神速感想のｍｋ８４２６さま、<BR>&gt;なかなかいい展開ですねぇ。<BR>ありがとうございます。<BR>今後の展開も、推敲中ですので、ご期待に添えればと思っております。<BR><BR>ノイン（電波妖精） さま、<BR>&gt;お話しの最初の方はちょっぴり謎でした。<BR>すいません。<BR>内容がカルトな内容になってしまっていたかもしれません。<BR>ここの部分の内容は、伝奇SFということで、エヴァでは無いですが、オカルトねたから言葉をもってきている面があります。しかし、これは、前置きですから、あまり気になさらないでください。<BR><BR>&gt;どこがダークなのかはちょっぴり謎でしたが、これからダークになっていくのでしょうか…<BR>うー。厳しいご指摘です。<BR>ダークというよりか、オカルトとしたほうがいいかもしれませんね。<BR>予定では、全体のお話の後半がダークかなと考えております。<BR><BR>第一章、第二章の内容を基本設定として、なにかリクエストがありましたら、今後の展開に生かしていきたいと思います。<BR>ご意見をいただけますよう、宜しくお願いします。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1014982899sywtjkr">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

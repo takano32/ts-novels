@@ -1,125 +1,125 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&ff=p&id=1015682054kubgku&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_ff_p_id_1015682054kubgku_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���n����</font><br>
+<font size="+2" color="#0000FF">未熟王女</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/09225157/mijuku.html" target="_blank">��i������ɂ͂������N���b�N�B</a></strong>  <i>2002/03/09 22:54:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/09225157/mijuku.html" target="_blank">作品を見るにはここをクリック。</a></strong>  <i>2002/03/09 22:54:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015682054kubgku&id2=1015682054kubgku&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015682054kubgku_id2_1015682054kubgku_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���n�p�Y�v�������ł������A��l������ׂ炸�ɘb���i��ł����A�Ƃ����͓̂Ɠ��̖��킢��������̂ł���B
+「半熟英雄」もそうでしたが、主人公しゃべらずに話が進んでいく、というのは独特の味わいがあるものですよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������[</strong>  <i>2002/03/09 23:49:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よっすぃー</strong>  <i>2002/03/09 23:49:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015685388tqnkf&id2=1015682054kubgku&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015685388tqnkf_id2_1015682054kubgku_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B1�ԏ��`��<BR>���������u���v�X�^�C���Ƃ����̂��Ȃ��Ȃ��B����̃C���[�W���`���Ƃ����Ɩʔ������ł��ˁB���肪�����Ŏ�l�����`�ʂ���̂̓O�b�h�ł����B
+読みました。1番乗り～♪<BR>こういう「劇」スタイルというのもなかなか。舞台のイメージが伝わるともっと面白そうですね。周りが騒いで主人公が描写されのはグッドでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/10 01:37:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/10 01:37:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015691860pifya&id2=1015682054kubgku&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015691860pifya_id2_1015682054kubgku_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ�Ƃ������A���v���q����񂪂��킢����������C���c<BR><BR>����ς肱�̃X�g�[���[�́A��l���͎��́A�~���g�ł͂Ȃ���b�Ȃ񂾂ȁ`�Ƃ��v���A�ǂ�ł܂����B�i�ǂ݂܂����ł͂Ȃ��j<BR><BR>���J��Ō����A�Ɠ��̃i���[�V���������������ł��B�����܂Ō��l�^�𗘗p�s�������b�Ƃ����̂��Ȃ��Ȃ��Ȃ��ł��傤�ˁB<BR>�������A�����̐^���łȂ��A�A�C�f�B�A�����؂���Ă܂��B<BR>�������낢�b�ł����B
+なんというか、リプリヒちゃんがかわいそうすぎる気が…<BR><BR>やっぱりこのストーリーの、主人公は実は、ミルトではなく大臣なんだな～とか思いつつ、読んでました。（読みましたではなく）<BR><BR>丁寧語で語られる、独特のナレーションがいい感じです。ここまで元ネタを利用尽くした話というのもなかなかないでしょうね。<BR>しかも、ただの真似でなく、アイディアが昇華されてます。<BR>おもしろい話でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:RX78GP03@lycos.jp" target="_blank">�f���h��</a></strong>  <i>2002/03/10 17:26:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:RX78GP03@lycos.jp" target="_blank">デンドロ</a></strong>  <i>2002/03/10 17:26:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015748772outqrth&id2=1015682054kubgku&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015748772outqrth_id2_1015682054kubgku_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Ȃ�Ƃ������������Y����i�ł����B���ɂƂ��Ă̔��n�͂P�R�N�O�̂��̂Ȃ̂Łc�����_�[�X���������ĂȂ����B<BR>�u�搶�I�@���肢���܂��I�v�Ȃǂ̑䎌���Ȃ񂩂��A���̏�ʂ��v�������ׂĂ��܂��܂����B<BR>�@�������A�����ς�炸�n���낳��̏����b�͌����B�ƂĂ��y�����ǂ܂��Ă��炢�܂����B�l�I�ɂ̓��v�c���B���g���C�ɓ���܂����B��b��������ۂ������ł��ˁB<BR>�@�b�������Ȃ����R�ɂs�r���Ă���Ƃ���������ł��ˁB���ƁA�n���X�^�[�΃A�[�X�S�[�����̌����ɂ���������܂����B�邩��(?)�S�[����������ł��B������ƍD�������B<BR>�@�����炭�A����͓̂ǂݐ؂��i�Ȃ̂ł��傤���A���ꂩ����n���낳��̏����b�A�y���݂ɂ��Ă��܂��B����΂��Ă��������B<BR>
+　なんとも懐かしさが漂う作品でした。私にとっての半熟は１３年前のものなので…ワンダースワン持ってないし。<BR>「先生！　お願いします！」などの台詞他なんかも、あの場面を思い浮かべてしまいました。<BR>　しかし、相も変わらず地駆鴉さんの書く話は見事。とても楽しく読ませてもらいました。個人的にはリプ…ヴィントが気に入りました。大臣も主役っぽかったですね。<BR>　話が無理なく自然にＴＳしているところもいいですね。あと、ハムスター対アースゴーレムの決着にも驚かされました。秘かに(?)ゴーレムいいやつです。ちょっと好きかも。<BR>　おそらく、今回のは読み切り作品なのでしょうが、これからも地駆鴉さんの書く話、楽しみにしています。がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n�x�`�y�h</strong>  <i>2002/03/10 20:33:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＯＹＡＺＩ</strong>  <i>2002/03/10 20:33:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015760029xdvlio&id2=1015682054kubgku&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015760029xdvlio_id2_1015682054kubgku_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ނ��ށI�@��͂�S�[�����̎�_�͂����łȂ��ẮI<BR>��������ē|���E�E�E�����h�̃S�[�������ˁ[�A�O���͂��ꂾ���i�΁j<BR><BR>���v���q�����A�Ȃ�Ƃ����������Ĕ��������L�������ˁ[�B����ł����邪<BR><BR>���n�͋L���̔ޕ������ǁE�E�E���l�^��Y��ĂĂ��y���߂܂����B
+うむうむ！　やはりゴーレムの弱点はこうでなくては！<BR>ｅを削られて倒れる・・・正統派のゴーレムだねー、外見はあれだが（笑）<BR><BR>リプリヒちゃん、なんというか可愛くて美味しいキャラだねー。哀れでもあるが<BR><BR>半熟は記憶の彼方だけど・・・元ネタを忘れてても楽しめました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/10 20:59:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/10 20:59:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015761588lsrko&id2=1015682054kubgku&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015761588lsrko_id2_1015682054kubgku_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>��͂́B���v���q����񁁉ؑタ���H�i���j<BR>�ƁA��u�v���Ă��܂����i�΁j�B<BR>�Ȃ񂾂����ȃe���|�Ŗʔ��������ł��B<BR>���l�^�͒m��܂��񂪁A�y���߂܂����B
+読んだバイ♪<BR>わはは。リプリヒちゃん＝華代ちゃん？（爆）<BR>と、一瞬思ってしまった（笑）。<BR>なんだか妙なテンポで面白かったです。<BR>元ネタは知りませんが、楽しめました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/03/11 12:32:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/03/11 12:32:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015817566femaxpk&id2=1015682054kubgku&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015817566femaxpk_id2_1015682054kubgku_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ǂ�ŉ�����A�܂��A�䊴�z���肪�Ƃ��������܂��B<BR>����������[����<BR>�@���u�X�^�C���v�\�\���Ȃ̂��A������Ȃ��̂��C�}�C�`�悭�킩��Ȃ��B����Ȋ�����\�����悤�Ƃ��Ă݂܂����B<BR>�@����̃C���[�W�\�\�������荕�q�����������肵�Ă܂����A�i���������킯�ɂ͎Q��܂���i�΁j�B<BR>�@���肪�����Ł\�\���肪�Ƃ��������܂��B����͂�����ƁA�`���ł����̂Łi��΁j�B<BR>���m�C���i�d�g�d���j����<BR>�@���v���q�����\�\�����ē������Ă��������ȁ[�A�Ƃ��v���܂������A�l������ł��R���f�B�ɂȂ邩�ɒ��킵�Ă݂��������̂Łi���j�B<BR>�@���񂾁A�ƌ����Ă��A���v���q�����Ƃ����L�������b���ŖS���Ȃ����A�Ƃ������ł�����i��΁j�B<BR>�@��l���͎��́\�\�����Ă݂�΁c�c�����ł��ˁi��΁j�B<BR>�@���J��\�\���ʂɂ���Ắu���n�v�炵�����o�Ȃ��Ǝv�����̂Łc�c�o�������Ă͖��ł����ǁi��΁j�B<BR>�@���l�^�\�\�������Ă��邩�ȁ[�Ǝv���܂������A���������Ē�����Ɗ������ł��B�ł�����ς�A�A�i�U�[�����X�^�[�Ƃ��A�^���������ł��ˁi��΁j�B<BR>�@�������낢�b�\�\���肪�Ƃ��������܂��B��l�悪��ɂȂ��Ă��Ȃ����A�S�z�ł����̂ŁB<BR>���f���h������<BR>�@���������\�\�������Ȃ�O�ł��ˁB��������̂ɂ��܂������A������Ă��ʔ��������ł��B<BR>�@���̏�ʂ��\�\����Ƃ���ɐ^����������������܂�����ˁi��΁j�B<BR>�@���R�ɂs�r�\�\�c�c�������ł��傤���H�@������Ɩ��������邩�ȂƎv���Ă����̂ł����A���������Ē�����ƈ��S�ł��B<BR>�@�S�[�����\�\�����Ɏ������C�ɓ����Ă܂��i�΁j�B�Ō�̑䎌�̂��߂ɏ����܂����B<BR>�@�ǂݐ؂�\�\����ȏ�A�u�����v�����ƌ����ǁA���₷�킯�ɂ����܂���̂Łi��΁j�B<BR>�@����΂��ā\�\���肪�Ƃ��������܂��B�f���h���r�E�����܂��}�C�y�[�X�ł���΂��Ă��������ˁB���o�K�C�K�[�Ɨd���b�̑����A�҂��Ă܂���B<BR>���n�x�`�y�h����<BR>�@�S�[�����̎�_�\�\���ꂵ���A�n���X�^�[�������R���v�������΂Ȃ������̂ł��B<BR>�@�O���\�\�A�[�X�Ȋ����c�c�ŁA�����Ȃ�܂����i�΁j�B<BR>�@���v���q�����\�\������ƁA���v���q����񃔃B���g�l�^�ɗ��肷�������ȁA�Ǝv���Ă܂������c�c�y����Œ�����΍K���ł��B<BR>�@���l�^��Y��ĂĂ��\�\���肪�Ƃ��������܂��B�^���͂��Ă��A�ɗ̓p���f�B��}��������ł����B<BR>���_�����z�̂����W�S�Q�U����<BR>�@�ؑタ���H�\�\���́c�c�����������Ă鎞�ɁA���Ă�ȂƎv���Ă��Ⴂ�܂����i�����j�B<BR>�@���ȃe���|�\�\����͂�c�c���肪�Ƃ��������܂��B�u���n�v�̃h�^�o�^�e���|��^����������Ȃ̂ł��B<BR>�@���l�^�́\�\���肪�Ƃ��������܂��B���������Ē�����ƁA�{���Ɍ��ׂ̉������v���ł��i��΁j�B
+早速読んで下さり、また、御感想ありがとうございます。<BR>＞よっすぃーさま<BR>　劇「スタイル」――劇なのか、劇じゃないのかイマイチよくわからない。そんな感じを表現しようとしてみました。<BR>　舞台のイメージ――こっそり黒子が走り回ったりしてますが、司会が説明するわけには参りません（笑）。<BR>　周りが騒いで――ありがとうございます。これはちょっと、冒険でしたので（苦笑）。<BR>＞ノイン（電波妖精）さま<BR>　リプリヒちゃん――生きて逃がしてもいいかなー、とも思いましたが、人が死んでもコメディになるかに挑戦してみたかったので（汗）。<BR>　死んだ、と言っても、リプリヒちゃんというキャラが話中で亡くなった、という事ですから（苦笑）。<BR>　主人公は実は――言われてみれば……そうですね（苦笑）。<BR>　丁寧語――普通にやっては「半熟」らしさが出ないと思ったので……出しすぎては問題ですけど（苦笑）。<BR>　元ネタ――似すぎているかなーと思いましたが、そう言って頂けると嬉しいです。でもやっぱり、アナザーモンスターとか、真似しすぎですね（苦笑）。<BR>　おもしろい話――ありがとうございます。一人よがりになっていないか、心配でしたので。<BR>＞デンドロさま<BR>　懐かしさ――もうかなり前ですね。自分も大昔にしましたが、今やっても面白かったです。<BR>　あの場面を――至るところに真似した部分がありますからね（苦笑）。<BR>　自然にＴＳ――……だったでしょうか？　ちょっと無理があるかなと思っていたのですが、そう言って頂けると安心です。<BR>　ゴーレム――密かに自分も気に入ってます（笑）。最後の台詞のために書きました。<BR>　読み切り――これ以上、「私隊」方式と言えど、増やすわけにいきませんので（苦笑）。<BR>　がんばって――ありがとうございます。デンドロビウムさまもマイペースでがんばってくださいね。リバガイガーと妖精話の続き、待ってますよ。<BR>＞ＯＹＡＺＩさま<BR>　ゴーレムの弱点――これしか、ハムスターが勝つ理由が思い浮かばなかったのです。<BR>　外見――アースな感じ……で、こうなりました（笑）。<BR>　リプリヒちゃん――ちょっと、リプリヒちゃんヴィントネタに頼りすぎたかな、と思ってましたが……楽しんで頂ければ幸いです。<BR>　元ネタを忘れてても――ありがとうございます。真似はしても、極力パロディを抑えたつもりでした。<BR>＞神速感想のｍｋ８４２６さま<BR>　華代ちゃん？――実は……自分も書いてる時に、似てるなと思ってちゃいました（自爆）。<BR>　妙なテンポ――いやはや……ありがとうございます。「半熟」のドタバタテンポを真似したつもりなのです。<BR>　元ネタは――ありがとうございます。そう言って頂けると、本当に肩の荷が下りる思いです（苦笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2002/03/11 21:43:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2002/03/11 21:43:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015850631tvsinc&id2=1015682054kubgku&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015850631tvsinc_id2_1015682054kubgku_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>�����܂œO��I�ɏ�Ȃ���l���Ƃ����̂��A����Ӗ��������C�����܂��i�΁j�B����Ȃ̂ŁA���ɏo�đ��v�Ȃ̂ł��傤���H�H�i��΁j<BR>���v���q�����A���ǐ^�̖��O���A��҂ɂ���Ă�ł��炦�Ȃ������̂ł��ˁc�i��΁j�����B<BR>���n�p�Y�c�^�C�g�������͕��������Ƃ�����悤�ȋC�����܂��B<BR>���d���ĂƂ����̂��A�ꕗ�ς���Ă��Ėʔ����y���߂܂����B
+読みました。<BR>こうまで徹底的に情けない主人公というのも、ある意味珍しい気がします（笑）。こんなので、旅に出て大丈夫なのでしょうか？？（苦笑）<BR>リプリヒちゃん、結局真の名前を、作者にすら呼んでもらえなかったのですね…（苦笑）合掌。<BR>半熟英雄…タイトルだけは聞いたことがあるような気がします。<BR>劇仕立てというのも、一風変わっていて面白く楽しめました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/03/13 15:43:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/03/13 15:43:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016001829kdtbvi&id2=1015682054kubgku&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016001829kdtbvi_id2_1015682054kubgku_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ܗl�A�ǂ�ŉ���������Ɍ䊴�z�܂ŉ�����A���肪�Ƃ��������܂��B<BR>��Ȃ���l���\�\�����Ƃ��떳���ł��ˁi��΁j�B<BR>���ɏo�ā\�\��b�����Ă܂�����A�Ȃ�Ƃ����v�Ȃ̂ł��傤�B<BR>��҂ɂ���\�\�n�̕��͍�҂ł͂Ȃ��A�i��҂Ƃ����L�����ł���i�΁j�B<BR>���n�p�Y�\�\���d���ĂȂ̂��A��l���̏�Ȃ�����b���A���̑�������낪���̍�i�̐^���Ȃ̂ł��B<BR>�y���߂��\�\���肪�Ƃ��������܂��B�m���ɂ��Ă���邩�ǂ����s���ł����̂Łi��΁j�B<BR>����ł͉��߂āA�䊴�z���肪�Ƃ��������܂��B
+らま様、読んで下さった上に御感想まで下さり、ありがとうございます。<BR>情けない主人公――いいところ無しですね（苦笑）。<BR>旅に出て――大臣がついてますから、なんとか大丈夫なのでしょう。<BR>作者にすら――地の文は作者ではなく、司会者というキャラですよ（笑）。<BR>半熟英雄――劇仕立てなのも、主人公の情けなさも大臣も、その他もろもろがこの作品の真似なのです。<BR>楽しめた――ありがとうございます。ノリについてこれるかどうか不安でしたので（苦笑）。<BR>それでは改めて、御感想ありがとうございます。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1015682054kubgku">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

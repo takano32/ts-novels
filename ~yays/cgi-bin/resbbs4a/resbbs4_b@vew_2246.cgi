@@ -1,94 +1,94 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--│@┌╠┌╠┌и┐y│[┐W┌л░Ф⌠╙┌и∙▌╕┌╥┌И┐^┐C┐g┐▀┌П▌╘≈R┌и▀L⌠Э│->
+<!--Ц──Ц│⌠Ц│⌠Ц│╚Ц┐ Ц┐╪Ц┌╦Ц│╝Е┘┬И═╜Ц│╚Д╬╝О╫╕Ц│≥Ц┌▀Ц┌©Ц┌╓Ц┐┬Ц┐╚Ц┌▓Х┤╙Г■╠Ц│╚Х╗≤Е┘╔О©╫->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY▄f▌╕■б</font> (<a href="http://www14.big.or.jp/~yays/">√{ ┼ы </a>▄f▌╕■б┌ф▀╓▓й)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERYФ▌╡Г╓╨Ф²©</font> (<a href="../../index.html">Ф°╛ И╓╗ </a>Ф▌╡Г╓╨Ф²©Ц│╗Е┘╠И─ )</td></tr></table>
 	</center></div>
 
-<!--│@┌╠┌╠┌э┌е│@│@┌╠┌л┴╨┌и┐│┐b┐Z│[┐W┌╙│@│@∙▌╕┌Ё┌Й┌И│@│->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--Ц──Ц│⌠Ц│⌠Ц│╬Ц│╖Ц──Ц──Ц│⌠Ц│╝Д╦▀Ц│╚Ц┐║Ц┐┐Ц┌╩Ц┐╪Ц┌╦Ц│▄Ц──Ц──Д╬╝О╫╕Ц│∙Ц┌▄Ц┌▀Ц──О©╫->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>┌╗√╪▒O:</td><td><input type=text size=20 name=name value=>
+<td align=right>Ц│┼Е░█Е┴█:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>▒Х√╪:</td><td>
-<input type=text size=48 name=subject value=RE:▄ц┌╥┌╛│H>
+<tr><td align=right>И║▄Е░█:</td><td>
+<input type=text size=48 name=subject value=RE:Е▐╓Ц│≥Ц│▌О╪÷>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>│y┌╗┼G∙`┌╚BBS┼ж≤A│z </textarea><br> <br>
-┌╒┌э▀C┌и┌х┌И
+<textarea name=comment rows=4 cols=70>Ц─░Ц│┼Г╣╣Ф▐▐Ц│█BBSИ√╒И─ёЦ─▒ </textarea><br> <br>
+Ц│└Ц│╬Ф╟≈Ц│╚Ц│╙Ц┌▀
 <SELECT NAME="genre" size=1>
-<option value="novel">▐╛░Ю│@
-<option value="comic">┐R┐~┐b┐N
-<option value="movie">┴f▒°█Л∙i
-<option value="game">┐Q│[┐─
-<option value="character">┐L┐┐┐┴┐N┐^│[
-<option value="author">█Л┴ф
-<option value="rumor">▐Н∙Я│E┌╓┌М┌Ё
-<option value="site">┐z│[┐─┐y│[┐W
-<option value="something">┴╫┌╘
-</SELECT> ┌м 
+<option value="novel">Е╟▐Х╙╛Ц──
+<option value="comic">Ц┌ЁЦ┐÷Ц┐┐Ц┌╞
+<option value="movie">Ф≤═Е┐▐Д╫°Е⌠│
+<option value="game">Ц┌╡Ц┐╪Ц┐═
+<option value="character">Ц┌╜Ц┐ёЦ┐╘Ц┌╞Ц┌©Ц┐╪
+<option value="author">Д╫°Е╝╤
+<option value="rumor">Ф┐┘Е═╠Ц┐╩Ц│├Ц┌▐Ц│∙
+<option value="site">Ц┐⌡Ц┐╪Ц┐═Ц┐ Ц┐╪Ц┌╦
+<option value="something">Д╫∙Ц│▀
+</SELECT> Ц│╞ 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2246>
 <input type=hidden name=ress value=2246>
-<input type=submit value=▄ц┌╥┌╛│H┌ж∙т░M>
-<input type=reset value=▐▒┌╚▓╪┌╣>
+<input type=submit value=Е▐╓Ц│≥Ц│▌О╪÷Ц│╦Х©■Д©║>
+<input type=reset value=Ф⌡╦Ц│█Г⌡╢Ц│≈>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2246>
-<font color=#6A5ACD>▄ц┌╥┌╛│H</font></a>
+<font color=#6A5ACD>Е▐╓Ц│≥Ц│▌О╪÷</font></a>
 <font color=#303030>
-┌╒┌ф┌х┌ч
- ┌Ё┌Я</font>
- <font size=2>2004■N7▄▌6⌠З(┴н) 19▌·50∙╙</font>
-<a href="resbbs4_b.cgi?vew=2246">[∙т░M]</a><br>
-│@<font size=-1 color=#A08050>│y┌╒┌э▀C┌и┌х┌И▐╛░Ю┌м│A<b></b>│z</font>
+Ц│└Ц│╗Ц│╙Ц┌─
+ Ц│∙Ц┌⌠</font>
+ <font size=2>2004Е╧╢7Ф°┬6Ф≈╔(Г│╚) 19Ф≥┌50Е┬├</font>
+<a href="resbbs4_b@vew_2246.cgi">[Х©■Д©║]</a><br>
+Ц──<font size=-1 color=#A08050>Ц─░Ц│└Ц│╬Ф╟≈Ц│╚Ц│╙Ц┌▀Е╟▐Х╙╛Ц│╞Ц─│<b></b>Ц─▒</font>
 </td></tr><tr><td>
-<ul><br><font size=3>√M▌}┼╝⌠Я┌л█Л∙i┌и│u░╚⌠]┼╥█H▐Й│v┌ф┌╒┌╓█Л∙i┌╙┌═┌И√м≈l│B<br>│╚┌л▄ц√{┴╝┌е▌Ш≤^┌Ё┌Й┌╫▌G▌▐┌╙■┐┌╕┌И┌Г┌╣┌╒┌е┌╥│i√з▌÷│╗░└≈²│╗■т█├61│j│B<br>ttp://www12.ocn.ne.jp/~tateyama/index.html<br><br>▐╨≤a27■N■╜█s┌ф┌╒┌╓┌ф┌д┌б┌Ю┌х┌╜▄ц┌╒▌G▌▐┌е┌╥│c│B</font></ul>
+<ul><br><font size=3>И┌╕Ф·²Е╝▄Д╨▄Ц│╝Д╫°Е⌠│Ц│╚Ц─▄Ф─╖Х╩╒Ф▐⌡Е╥╔Е═╢Ц─█Ц│╗Ц│└Ц│├Д╫°Е⌠│Ц│▄Ц│┌Ц┌▀Ф╗║Ф╖≤Ц─┌<br>Б├⌠Ц│╝Е▐╓Ф°╛Е╠▀Ц│╖Е▐▌И▄╡Ц│∙Ц┌▄Ц│÷И⌡▒Х╙▄Ц│▄Х╡╥Ц│┬Ц┌▀Ц┌┴Ц│≈Ц│└Ц│╖Ц│≥О╪┬Г⌡╝Ф╛║Б├▓Ф▌╗Г░├Б├▓Г∙╙Е▐╥61О╪┴Ц─┌<br>ttp://www12.ocn.ne.jp/~tateyama/index.html<br><br>Ф≤╜Е▓▄27Е╧╢Г≥╨Х║▄Ц│╗Ц│└Ц│├Ц│╗Ц│╕Ц│╓Ц┌┌Ц│╙Ц│▐Е▐╓Ц│└И⌡▒Х╙▄Ц│╖Ц│≥Б─╕Ц─┌</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2247>
-<font color=#6A5ACD>RE:▄ц┌╥┌╛│H</font></a>
+<font color=#6A5ACD>RE:Е▐╓Ц│≥Ц│▌О╪÷</font></a>
 <font color=#303030>
-┌Ф┌╣┌╗┌╘
- ┌Ё┌Я</font>
- <font size=2>2004■N7▄▌9⌠З(▀Ю) 6▌·31∙╙</font>
-<a href="resbbs4_b.cgi?vew=2247">[∙т░M]</a><br>
-│@<font size=-1 color=#A08050>│y┌╒┌э▀C┌и┌х┌И▐╛░Ю┌м│A<b>TS┐L┐┐ищ┐{│[┐▀</b>│z</font>
-<ul><font size=3>▀C┌и┌х┌Х┌э┌╥┌к┌╔│B┌е┌Ю│A▓l▓i┌╙╔╔<br>┌╩┌Й┌ф│A┌╒┌ф┌х┌ч┌Ё┌Я│B█Л▌р√╪┌е┌╥┌╙│A│u√M▌}┼╝⌠Я│v┌╤┌А┌х┌╜┌д│u∙╒√й█Л┴ф│v┌е┌╥┌Ф│B^^)</font></ul>
+Ц┌┬Ц│≈Ц│┼Ц│▀
+ Ц│∙Ц┌⌠</font>
+ <font size=2>2004Е╧╢7Ф°┬9Ф≈╔(И┤▒) 6Ф≥┌31Е┬├</font>
+<a href="resbbs4_b@vew_2247.cgi">[Х©■Д©║]</a><br>
+Ц──<font size=-1 color=#A08050>Ц─░Ц│└Ц│╬Ф╟≈Ц│╚Ц│╙Ц┌▀Е╟▐Х╙╛Ц│╞Ц─│<b>TSЦ┌╜Ц┐ёО╬┴О╬²Ц┐°Ц┐╪Ц┐╚</b>Ц─▒</font>
+<ul><font size=3>Ф╟≈Ц│╚Ц│╙Ц┌┼Ц│╬Ц│≥Ц│╜Ц│┤Ц─┌Ц│╖Ц┌┌Ц─│Е─╓Ф╝╣Ц│▄О╫╔О╫╔<br>Ц│²Ц┌▄Ц│╗Ц─│Ц│└Ц│╗Ц│╙Ц┌─Ц│∙Ц┌⌠Ц─┌Д╫°Х─┘Е░█Ц│╖Ц│≥Ц│▄Ц─│Ц─▄И┌╕Ф·²Е╝▄Д╨▄Ц─█Ц│≤Ц┌┐Ц│╙Ц│▐Ц│╕Ц─▄Х╕├И²╒Д╫°Е╝╤Ц─█Ц│╖Ц│≥Ц┌┬Ц─┌^^)</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2248>
-<font color=#6A5ACD>RE:▄ц┌╥┌╛│H</font></a>
+<font color=#6A5ACD>RE:Е▐╓Ц│≥Ц│▌О╪÷</font></a>
 <font color=#303030>
-≈d┼О┬╓⌠г▌р
- ┌Ё┌Я</font>
- <font size=2>2004■N7▄▌11⌠З(⌠З) 0▌·27∙╙</font>
-<a href="resbbs4_b.cgi?vew=2248">[∙т░M]</a><br>
-│@<font size=-1 color=#A08050>│y┌╒┌э▀C┌и┌х┌И▐╛░Ю┌м│A<b></b>│z</font>
-<ul><font size=3>∙╨▌m┌ф┌╘≤J⌠╜≈м┌и┌╥┌И┌╫┌ъ┌л▐≈│╗▓j┴Э▒╒┌е│A√G┌╕⌠x┐[┐█┌е┌╥│B<br>┌╣┌╘┌Ю░╒┌и┌Ю┌╜┌╬┌Г┌х┌╒░^▒┼┌╙√╬┌Г┌╘┌и┌х┌Х┌э┌╥│B<br>┌©┌х┌щ┌и│A┌╠┌л│u∙╒√й█Л┴ф│v▌│┌м┐G┐█┐O┐█▄n┌л▒й√з┐~┐X┐e┐┼┌П▐▒┌╚┌э┌╜┌а┌╫┌╠┌ф┌е≈L√╪┌х░l┌е┌╥│B</font></ul>
+Е╕√Е╔┤Ф└⌡Х╙╜Х─┘
+ Ц│∙Ц┌⌠</font>
+ <font size=2>2004Е╧╢7Ф°┬11Ф≈╔(Ф≈╔) 0Ф≥┌27Е┬├</font>
+<a href="resbbs4_b@vew_2248.cgi">[Х©■Д©║]</a><br>
+Ц──<font size=-1 color=#A08050>Ц─░Ц│└Ц│╬Ф╟≈Ц│╚Ц│╙Ц┌▀Е╟▐Х╙╛Ц│╞Ц─│<b></b>Ц─▒</font>
+<ul><font size=3>Е┘╣Её╚Ц│╗Ц│▀Е┼╢Е┐█Е┼⌡Ц│╚Ц│≥Ц┌▀Ц│÷Ц┌│Ц│╝Е╔ЁБ├▓Г■╥Ф■╧И─═Ц│╖Ц─│Х░▄Ц│┬Е╨╕Ц┌╪Ц┐╜Ц│╖Ц│≥Ц─┌<br>Ц│≈Ц│▀Ц┌┌Д╦√Ц│╚Ц┌┌Ц│▐Ц│═Ц┌┴Ц│╙Ц│└Г°÷Г⌡╦Ц│▄Ф≤▌Ц┌┴Ц│▀Ц│╚Ц│╙Ц┌┼Ц│╬Ц│≥Ц─┌<br>Ц│║Ц│╙Ц│©Ц│╚Ц─│Ц│⌠Ц│╝Ц─▄Х╕├И²╒Д╫°Е╝╤Ц─█Ф╟▐Ц│╞Ц┌╗Ц┐╜Ц┌╟Ц┐╜ГЁ╩Ц│╝И╖└Г⌡╝Ц┐÷Ц┌╧Ц┐├Ц┐╙Ц┌▓Ф⌡╦Ц│█Ц│╬Ц│▐Ц│ёЦ│÷Ц│⌠Ц│╗Ц│╖Ф°┴Е░█Ц│╙Д╨╨Ц│╖Ц│≥Ц─┌</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=▀L▌√█М▐°>
+<input type=submit name=button value=Х╗≤Д╨▀Е┴┼И≥╓>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

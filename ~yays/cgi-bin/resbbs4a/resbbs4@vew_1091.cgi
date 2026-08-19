@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/ target=_top>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../index.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�ȑO��ɓ��ꂻ���Ȃ����{>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:以前手に入れそこなった本>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1091>
 <input type=hidden name=ress value=1091>
-<input type=submit value=�ȑO��ɓ��ꂻ���Ȃ����{�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=以前手に入れそこなった本へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1091>
-<font color=#6A5ACD>�ȑO��ɓ��ꂻ���Ȃ����{</font></a>
+<font color=#6A5ACD>以前手に入れそこなった本</font></a>
 <font color=#303030>
 ALO
- ����</font>
- <font size=2>2001�N3��14��(��) 13��7��</font>
-<a href="resbbs4.cgi?vew=1091">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2001年3月14日(水) 13時7分</font>
+<a href="resbbs4@vew_1091.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�ȑO�A�����ǂ݂����Ŕ������Ȃ����{�Ȃ̂ł���<br>�^�C�g���A��҂��v���o���܂���B<br>�\���N�O�ł��Ȃ�Â��{�ł����̂œ���Ǝv���܂���<br>�ǂȂ��������m�Ȃ��ł��傤���B<br><br>����A���|�܂񂪌n<br><br>���㌀�ݒ��<br>���R���l�Y�ɍ��݂������A<br>���̔z���Ŗ؋�g���̒j�i�V�哪�j<br>�����i���R�̕��Ⴂ�̖������F�m����Ȃ������B�j<br>��ȓo��l���́A����3�l�B<br><br>��l���X�̎�l��������Đ���𔍂�<br>�����؋�i�����l�`�j�ɔ킹�Ċ�҂����<br>���̒������������A���R�ɑ΂����݂𐰂炻���Ƃ��Ă����B<br><br>�������A��̂̒j�����{�]����ڎw���ƌ��������A<br>�؋�g���͒j�̐���𔍂����A����ƒ�����o���͖̂؋􂾂����B<br>�����ԁA�g���Ă������߈ӎv�������n�߂Ă��܂����炵���B<br><br>�ʂ̎�i���l�������A�؋�̑���Ɏ������g�����Ƃ��v�������B<br>����̒j��؂藎�Ƃ��A���i���R�̖��j�̐���𔍂�����<br>���ɓ��荞�ށB<br>���̎p�ŉ��R�ɋ߂Â����Ƃ������A<br>���ǂ͋����Ƃ��Ď蓢���ɂ���Ă��܂��B<br><br>�����������{�̒���<br>�ڋʂ��}�O���ƌ��������O�̘b���������悤�ɋL�����Ă܂��B<br>�i���̍��݂̐���\��킩��悤�ɂȂ�B�j<br><br>�Ö{�͌��������ɔ���Ȃ��Ƃ����܂���ˁB</font></ul>
+<ul><br><font size=3>以前、立ち読みだけで買い損なった本なのですが<br>タイトル、作者が思い出せません。<br>十数年前でかなり古い本でしたので難しいと思いますが<br>どなたかご存知ないでしょうか。<br><br>怪奇、恐怖まんが系<br><br>時代劇設定で<br>遠山金四郎に恨みを持つ侍、<br>その配下で木偶使いの男（坊主頭）<br>美女（遠山の腹違いの妹だが認知されなかった。）<br>主な登場人物は、この3人。<br><br>役人や大店の主人をさらって生皮を剥ぎ<br>それを木偶（黒い人形）に被せて贋者を作り<br>世の中を混乱させ、遠山に対し恨みを晴らそうとしていた。<br><br>しかし、首領の男が幕府転覆を目指すと言った時、<br>木偶使いは男の生皮を剥がす、すると中から出たのは木偶だった。<br>長い間、使っていたため意思を持ち始めてしまったらしい。<br><br>別の手段を考えた時、木偶の代わりに自分を使うことを思いついた。<br>自らの男を切り落とし、女（遠山の妹）の生皮を剥がして<br>中に入り込む。<br>その姿で遠山に近づこうとしたが、<br>結局は狂女として手討ちにされてしまう。<br><br>たしか同じ本の中に<br>目玉をマグロと交換される板前の話もあったように記憶してます。<br>（魚の恨みの声や表情がわかるようになる。）<br><br>古本は見つけた時に買わないといけませんね。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

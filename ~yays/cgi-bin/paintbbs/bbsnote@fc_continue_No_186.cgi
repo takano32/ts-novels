@@ -1,11 +1,11 @@
 
 <HTML>
 <HEAD>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=x-sjis">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <META name="ROBOTS" content="NOINDEX,NOFOLLOW">
 <META http-equiv="Content-Style-Type" content="text/css">
 <META http-equiv="Content-Script-Type" content="text/javascript">
-<TITLE>‚¨‹CŒy‚¨‚¦‚©‚«‚a‚a‚r</TITLE>
+<TITLE>ãŠæ°—è»½ãŠãˆã‹ãï¼¢ï¼¢ï¼³</TITLE>
 <script language="JavaScript">
 <!--
 	function showApplet(){
@@ -33,20 +33,20 @@
 
 <BODY bgcolor="#D0E8FF" text="#0066CC" link="#333399" vlink="#003366" alink="#FF1111"><CENTER><BR>
 <H2><b>Continue No186</b></H2>
-<IMG SRC="./data/IMG_000173.jpg">
-<FORM ACTION="./bbsnote.cgi" METHOD=POST>
+<IMG SRC="data/IMG_000173.jpg">
+<FORM ACTION="bbsnote.cgi" METHOD=POST>
 <TABLE border=0 cellpadding=5 bgcolor=><TR><TD><font size=2>
 <INPUT TYPE=hidden name=fc VALUE="continue">
 <INPUT TYPE=hidden name=No VALUE="186">
 <SELECT class=button name=mode>
-<OPTION value=jpg>‰æ‘œ‚æ‚è‘±‚«‚ð•`‚­</OPTION>
-</SELECT> <INPUT class=button2 TYPE=SUBMIT VALUE=" •`‚­ "><BR>
-<FONT SIZE=2 color=>‰æ‘œ‚ð<SELECT class=button name=t>
-<OPTION value=new>V‹K“Še</OPTION><OPTION value=rep>·‚µ‘Ö‚¦</OPTION></SELECT>
-<FONT SIZE=2 color=>ƒpƒXƒ[ƒhF<INPUT class=button TYPE=PASSWORD name=password value="" size=8>
-<BR>’: PNG‚Å•Û‘¶EƒAƒjƒ–³‚µ‚Ì‚Æ‚«‚Í‘±‚«‚ð•`‚­‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+<OPTION value=jpg>ç”»åƒã‚ˆã‚Šç¶šãã‚’æã</OPTION>
+</SELECT> <INPUT class=button2 TYPE=SUBMIT VALUE=" æã "><BR>
+<FONT SIZE=2 color=>ç”»åƒã‚’<SELECT class=button name=t>
+<OPTION value=new>æ–°è¦æŠ•ç¨¿</OPTION><OPTION value=rep>å·®ã—æ›¿ãˆ</OPTION></SELECT>
+<FONT SIZE=2 color=>ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ï¼š<INPUT class=button TYPE=PASSWORD name=password value="" size=8>
+<BR>æ³¨: PNGã§ä¿å­˜ãƒ»ã‚¢ãƒ‹ãƒ¡ç„¡ã—ã®ã¨ãã¯ç¶šãã‚’æãã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
 </TD></TR></table></FORM>
-[<A HREF="./bbsnote.cgi">BACK</A>]
+[<A HREF="bbsnote.cgi">BACK</A>]
 </CENTER>
 
 		
@@ -55,7 +55,7 @@
 	
 	
 
-		<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)‚µ‚¡‚¿‚á‚ñ(shi-cyan)</A> 
+		<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)ã—ãƒã¡ã‚ƒã‚“(shi-cyan)</A> 
 
 	</SMALL></DIV>
 	

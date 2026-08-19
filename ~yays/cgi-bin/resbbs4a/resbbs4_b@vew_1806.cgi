@@ -1,96 +1,96 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���܂����B���@���L���[���E�L�̒���y�[�W�B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:作りました。ヴァルキリーユウキの超訳ページ。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1803>
 <input type=hidden name=ress value=1806>
-<input type=submit value=���܂����B���@���L���[���E�L�̒���y�[�W�B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=作りました。ヴァルキリーユウキの超訳ページ。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1806>
-<font color=#6A5ACD>RE:���܂����B���@���L���[���E�L�̒���y�[�W�B</font></a>
+<font color=#6A5ACD>RE:作りました。ヴァルキリーユウキの超訳ページ。</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2003�N4��19��(�y) 9��32��</font>
-<a href="resbbs4_b.cgi?vew=1806">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+匿名
+ さん</font>
+ <font size=2>2003年4月19日(土) 9時32分</font>
+<a href="resbbs4_b@vew_1806.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�f���炵���ł��I<br>�������撣���ĉ������B<br><br>�Ƃ肠�����A�C�t�����Ƃ���ł����A�i�Ӗ�̕������������j<br>17P�̍Ō�A�u��������v�ƌ����ăw���w����ԂŁuDespite what magical girl anime has taught me�v�𕜏����Ă�����̂Ǝv���܂��B<br>19P�̍Ō�A�u�I���������傤�Ǒr���������瓯����Ⴄ��v���Ă����Ӗ��Ȃ�ł��傤���H���M����܂��񂪁B<br>26P��13�s�ځA�u�z�[���i�L�ԁj���~��āA�䏊�ɍs���΁c�v</font></ul>
+<ul><br><font size=3>素晴らしいです！<br>続きも頑張って下さい。<br><br>とりあえず、気付いたところですが、（意訳の方がいいかも）<br>17Pの最後、「復唱しろ」と言われてヘロヘロ状態で「Despite what magical girl anime has taught me」を復唱しているものと思われます。<br>19Pの最後、「オレも今ちょうど喪失中だから同情しちゃうよ」っていう意味なんでしょうか？自信ありませんが。<br>26Pの13行目、「ホール（広間）を降りて、台所に行けば…」</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1808>
-<font color=#6A5ACD>���w�E���肪�Ƃ��������܂��B</font></a>
+<font color=#6A5ACD>ご指摘ありがとうございます。</font></a>
 <font color=#303030>
-<a href=mailto:jersey-r@mb.i-chubu.ne.jp>�W���[�W���b�h</a>
- ����</font>
- <font size=2>2003�N4��19��(�y) 15��11��</font>
+<a href=mailto:jersey-r@mb.i-chubu.ne.jp>ジャージレッド</a>
+ さん</font>
+ <font size=2>2003年4月19日(土) 15時11分</font>
 <a href=http://www.i-chubu.ne.jp/~jersey-r/ target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1808">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>������b�̂���I</b>�z</font>
-<ul><font size=3>���Ȃ��|�󕶏͂�Y�킵�Ă��������܂��āA���肪�Ƃ��������܂��B         ���w�E���󂯂čl���Ă݂܂������A��P�̂��w�E�ӏ��ƁA��R�̂��w�E�ӏ��ɂ��ẮA�S�����̒ʂ�ł��ˁB���������������܂����B<br><br>��P�̉ӏ��́A�w�����[�h�̃Z���t�̈ꕔ���i�W����Łj���肩�������܂��B<br>��R�̉ӏ��ɂ��ẮA�ȉ��̂悤�ɂ��܂��B<br><br>�H�ו��H�@���ꂾ������A�g��������I�h�@���Ԃ��~��āc�c�A�g���������I�h�@�䏊�ɍs���΁c�c<br><br>�������ł��傤�H<br><br>���ɑ�Q�̂��w�E�̕����ɂ��ẮA�����|�󂷂鎞�ɖ������ӏ��ł��̂ŁA���̖|�󕶏͂ł͂������肱�Ȃ��Ƃ������Ƃ������Ă��܂��B�����Ă��܂����A���I�m�ȕ��͂��v�����Ȃ��̂Ō���ł͕ۗ��ł��B<br><br>��������̂��w�E�̂悤�ɁA�u�I���������傤�Ǒr���������瓯����Ⴄ��v�Ƃ����Z���t�ł��ǂ��̂ł����A���ꂾ�ƃ��E�L�̕\��Ɖ����Ⴄ�悤�ȋC������̂ł��B�Ƃ����킯�ŁA���̉ӏ��ɂ��Ă͂��������l�������Ă��������B��낵�����肢�������܂��B </font></ul>
+<a href="resbbs4_b@vew_1808.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>総理大臣のえる！</b>】</font>
+<ul><font size=3>つたない翻訳文章を添削していただきまして、ありがとうございます。         ご指摘を受けて考えてみましたが、第１のご指摘箇所と、第３のご指摘箇所については、全くその通りですね。早速訂正いたしました。<br><br>第１の箇所は、ヘルモードのセリフの一部を（標準語で）くりかえさせます。<br>第３の箇所については、以下のようにします。<br><br>食べ物？　それだったら、“ああんっ！”　居間を降りて……、“ううっっ！”　台所に行けば……<br><br>いかがでしょう？<br><br>次に第２のご指摘の部分については、私も翻訳する時に迷った箇所ですので、この翻訳文章ではしっくりこないということを感じています。感じていますが、より的確な文章を思いつかないので現状では保留です。<br><br>匿名さんのご指摘のように、「オレも今ちょうど喪失中だから同情しちゃうよ」というセリフでも良いのですが、それだとユウキの表情と何か違うような気がするのです。というわけで、この箇所についてはもう少し考えさせてください。よろしくお願いいたします。 </font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1809>
-<font color=#6A5ACD>��������</font></a>
+<font color=#6A5ACD>いえいえ</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2003�N4��20��(��) 0��30��</font>
-<a href="resbbs4_b.cgi?vew=1809">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�|����ē���ł��ˁB<br>�l�C�e�B�u�Ȑl�Ƀj���A���X�𕷂��Ă݂����ł��B</font></ul>
+匿名
+ さん</font>
+ <font size=2>2003年4月20日(日) 0時30分</font>
+<a href="resbbs4_b@vew_1809.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>翻訳って難しいですね。<br>ネイティブな人にニュアンスを聞いてみたいです。</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

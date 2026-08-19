@@ -1,109 +1,109 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•Ž¦‚·‚éƒ^ƒCƒgƒ‹‚ðŽ©—R‚É‹L“ü@-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«ä¾®ï½¦ã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥ã€€-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>‘‡ŒfŽ¦”Â</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>ç·åˆæŽ²ç¤ºæ¿</font></td></tr></table>
 	</center></div>
 
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚ÉƒƒbƒZ[ƒW‚ª@@•Ž¦‚³‚ê‚é@@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒã€€ã€€ä¾®ï½¦ã•ã‚Œã‚‹ã€€ã€€-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[—˜—p‹K–ñ]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[åˆ©ç”¨è¦ç´„]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>‚¨–¼‘O:</td><td><input type=text size=20 name=name value=>
+<td align=right>ãŠåå‰:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>‘è–¼:</td><td>
-<input type=text size=48 name=subject value=RE:­—–Ÿ‰æƒLƒƒƒbƒgƒŠƒ“‚Ìƒtƒ@ƒ“‚Éd‘åƒjƒ…[ƒX‚©‚àH>
+<tr><td align=right>é¡Œå:</td><td>
+<input type=text size=48 name=subject value=RE:å°‘å¥³æ¼«ç”»ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ã®ãƒ•ã‚¡ãƒ³ã«é‡å¤§ãƒ‹ãƒ¥ãƒ¼ã‚¹ã‹ã‚‚ï¼Ÿ>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-‚¢‚Ü‹C‚É‚È‚é
+ã„ã¾æ°—ã«ãªã‚‹
 <SELECT NAME="genre" size=1>
-<option value="novel">¬à@
-<option value="comic">ƒRƒ~ƒbƒN
-<option value="movie">‰f‘œì•i
-<option value="game">ƒQ[ƒ€
-<option value="character">ƒLƒƒƒ‰ƒNƒ^[
-<option value="author">ì‰Æ
-<option value="rumor">î•ñE‚¤‚í‚³
-<option value="site">ƒz[ƒ€ƒy[ƒW
-<option value="something">‰½‚©
-</SELECT> ‚Í 
+<option value="novel">å°èª¬ã€€
+<option value="comic">ã‚³ãƒŸãƒƒã‚¯
+<option value="movie">æ˜ åƒä½œå“
+<option value="game">ã‚²ãƒ¼ãƒ 
+<option value="character">ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼
+<option value="author">ä½œå®¶
+<option value="rumor">æƒ…å ±ãƒ»ã†ã‚ã•
+<option value="site">ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸
+<option value="something">ä½•ã‹
+</SELECT> ã¯ 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1949>
 <input type=hidden name=ress value=1949>
-<input type=submit value=­—–Ÿ‰æƒLƒƒƒbƒgƒŠƒ“‚Ìƒtƒ@ƒ“‚Éd‘åƒjƒ…[ƒX‚©‚àH‚Ö•ÔM>
-<input type=reset value=‘‚«’¼‚µ>
+<input type=submit value=å°‘å¥³æ¼«ç”»ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ã®ãƒ•ã‚¡ãƒ³ã«é‡å¤§ãƒ‹ãƒ¥ãƒ¼ã‚¹ã‹ã‚‚ï¼Ÿã¸è¿”ä¿¡>
+<input type=reset value=æ›¸ãç›´ã—>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1949>
-<font color=#6A5ACD>­—–Ÿ‰æƒLƒƒƒbƒgƒŠƒ“‚Ìƒtƒ@ƒ“‚Éd‘åƒjƒ…[ƒX‚©‚àH</font></a>
+<font color=#6A5ACD>å°‘å¥³æ¼«ç”»ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ã®ãƒ•ã‚¡ãƒ³ã«é‡å¤§ãƒ‹ãƒ¥ãƒ¼ã‚¹ã‹ã‚‚ï¼Ÿ</font></a>
 <font color=#303030>
-‚„‚…‚‚„‚…‚Ž‚„
- ‚³‚ñ</font>
- <font size=2>2003”N8ŒŽ30“ú(“y) 20Žž14•ª</font>
-<a href="resbbs4.cgi?vew=1949">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚éƒRƒ~ƒbƒN‚ÍA<b>”ü­—–‚–@íŽm@ƒLƒƒƒbƒgƒŠƒ“</b>z</font>
+ï½„ï½…ï½ï½„ï½…ï½Žï½„
+ ã•ã‚“</font>
+ <font size=2>2003å¹´8æœˆ30æ—¥(åœŸ) 20æ™‚14åˆ†</font>
+<a href="resbbs4@vew_1949.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹ã‚³ãƒŸãƒƒã‚¯ã¯ã€<b>ç¾Žå°‘å¥³é­”æ³•æˆ¦å£«ã€€ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³</b>ã€‘</font>
 </td></tr><tr><td>
-<ul><br><font size=3>‚¨‹v‚µ‚Ô‚è‚Ì‚„‚…‚‚„‚…‚Ž‚„‚Å‚·^^/<br><br>‚Ç‚¤‚â‚çƒLƒƒƒbƒgƒŠƒ“‚ªI‚í‚è‚»‚¤‚Æ‚¢‚¤î•ñ‚ðƒLƒƒƒbƒ`‚µ‚Ü‚µ‚½B<br><br>”L”L@”Li‚Ë‚±‚Ñ‚å‚¤@‚Ë‚±jæ¶‚ÌŒÂlƒTƒCƒg@y”LŽOˆózi‚Ë‚±‚Ý‚Â‚¶‚é‚µj<br><a href=http://www.aw.wakwak.com/~nekobyou-neko/neko3/index.html target=_top>http://www.aw.wakwak.com/~nekobyou-neko/neko3/index.html</a><br><br>‚Ì“ú‹L‚Q‚O‚O‚R”N‚WŒŽ‚T“ú‚ðŽQÆ‚µ‚Ä‚­‚¾‚³‚¢B<br>ƒAƒ“ƒP[ƒg‚µ‚¾‚¢‚ç‚µ‚¢‚Å‚·‚ªŒµ‚µ‚¢‚»‚¤‚Å‚·B</font></ul>
+<ul><br><font size=3>ãŠä¹…ã—ã¶ã‚Šã®ï½„ï½…ï½ï½„ï½…ï½Žï½„ã§ã™^^/<br><br>ã©ã†ã‚„ã‚‰ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ãŒçµ‚ã‚ã‚Šãã†ã¨ã„ã†æƒ…å ±ã‚’ã‚­ãƒ£ãƒƒãƒã—ã¾ã—ãŸã€‚<br><br>çŒ«çŒ«ã€€çŒ«ï¼ˆã­ã“ã³ã‚‡ã†ã€€ã­ã“ï¼‰å…ˆç”Ÿã®å€‹äººã‚µã‚¤ãƒˆã€€ã€çŒ«ä¸‰å°ã€‘ï¼ˆã­ã“ã¿ã¤ã˜ã‚‹ã—ï¼‰<br><a href=http://www.aw.wakwak.com/~nekobyou-neko/neko3/index.html target=_top>http://www.aw.wakwak.com/~nekobyou-neko/neko3/index.html</a><br><br>ã®æ—¥è¨˜ï¼’ï¼ï¼ï¼“å¹´ï¼˜æœˆï¼•æ—¥ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚<br>ã‚¢ãƒ³ã‚±ãƒ¼ãƒˆã—ã ã„ã‚‰ã—ã„ã§ã™ãŒåŽ³ã—ã„ãã†ã§ã™ã€‚</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1950>
-<font color=#6A5ACD>RE:­—–Ÿ‰æƒLƒƒƒbƒgƒŠƒ“‚Ìƒtƒ@ƒ“‚Éd‘åƒjƒ…[ƒX‚©‚àH</font></a>
+<font color=#6A5ACD>RE:å°‘å¥³æ¼«ç”»ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ã®ãƒ•ã‚¡ãƒ³ã«é‡å¤§ãƒ‹ãƒ¥ãƒ¼ã‚¹ã‹ã‚‚ï¼Ÿ</font></a>
 <font color=#303030>
-”ªdF
- ‚³‚ñ</font>
- <font size=2>2003”N9ŒŽ2“ú(‰Î) 3Žž14•ª</font>
-<a href="resbbs4.cgi?vew=1950">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>ƒLƒƒƒbƒgƒŠƒ“‚ªcc‚¿‚å‚Á‚ÆA‚¢‚â‚©‚È‚èŽc”OB<br>‚Å‚àASUKA‚Å—öˆ¤—v‘f”²‚«‚Ì‚ ‚ ‚¢‚¤‚¨˜b‚Í‚Ç‚¤‚µ‚Ä‚àƒAƒ“ƒP[ƒg“I‚É‚Íh‚­‚È‚Á‚¿‚á‚¤‚Ì‚©‚ÈA‚Æ‚ÍŽv‚¢‚Ü‚·B<br>‚½‚Æ‚¦ƒLƒƒƒbƒgƒŠƒ“‚ª‘±‚©‚È‚­‚Ä‚à”L~‚Ræ¶‚ÌŽŸ‰ñì‚È‚ç“Ç‚ñ‚Å‚Ý‚½‚¢‚Å‚·‚¯‚Ç‚ËB</font></ul>
+å…«é‡æ´²
+ ã•ã‚“</font>
+ <font size=2>2003å¹´9æœˆ2æ—¥(ç«) 3æ™‚14åˆ†</font>
+<a href="resbbs4@vew_1950.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ãŒâ€¦â€¦ã¡ã‚‡ã£ã¨ã€ã„ã‚„ã‹ãªã‚Šæ®‹å¿µã€‚<br>ã§ã‚‚ASUKAã§æ‹æ„›è¦ç´ æŠœãã®ã‚ã‚ã„ã†ãŠè©±ã¯ã©ã†ã—ã¦ã‚‚ã‚¢ãƒ³ã‚±ãƒ¼ãƒˆçš„ã«ã¯è¾›ããªã£ã¡ã‚ƒã†ã®ã‹ãªã€ã¨ã¯æ€ã„ã¾ã™ã€‚<br>ãŸã¨ãˆã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ãŒç¶šã‹ãªãã¦ã‚‚çŒ«Ã—ï¼“å…ˆç”Ÿã®æ¬¡å›žä½œãªã‚‰èª­ã‚“ã§ã¿ãŸã„ã§ã™ã‘ã©ã­ã€‚</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1952>
-<font color=#6A5ACD>RE:­—–Ÿ‰æƒLƒƒƒbƒgƒŠƒ“‚Ìƒtƒ@ƒ“‚Éd‘åƒjƒ…[ƒX‚©‚àH</font></a>
+<font color=#6A5ACD>RE:å°‘å¥³æ¼«ç”»ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ã®ãƒ•ã‚¡ãƒ³ã«é‡å¤§ãƒ‹ãƒ¥ãƒ¼ã‚¹ã‹ã‚‚ï¼Ÿ</font></a>
 <font color=#303030>
-‚â‚ñ
- ‚³‚ñ</font>
- <font size=2>2003”N9ŒŽ7“ú(“ú) 23Žž3•ª</font>
-<a href="resbbs4.cgi?vew=1952">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>‚P‚PŒŽ†‚ÉƒLƒƒƒbƒgƒŠƒ“ŒfÚ‚ªŒfÚ‚³‚ê‚é‚æ‚¤‚Å‚·B<br>“ú‹L‚æ‚èB<br></font></ul>
+ã‚„ã‚“
+ ã•ã‚“</font>
+ <font size=2>2003å¹´9æœˆ7æ—¥(æ—¥) 23æ™‚3åˆ†</font>
+<a href="resbbs4@vew_1952.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>ï¼‘ï¼‘æœˆå·ã«ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³æŽ²è¼‰ãŒæŽ²è¼‰ã•ã‚Œã‚‹ã‚ˆã†ã§ã™ã€‚<br>æ—¥è¨˜ã‚ˆã‚Šã€‚<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1954>
-<font color=#6A5ACD>RE:­—–Ÿ‰æƒLƒƒƒbƒgƒŠƒ“‚Ìƒtƒ@ƒ“‚Éd‘åƒjƒ…[ƒX‚©‚àH</font></a>
+<font color=#6A5ACD>RE:å°‘å¥³æ¼«ç”»ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ã®ãƒ•ã‚¡ãƒ³ã«é‡å¤§ãƒ‹ãƒ¥ãƒ¼ã‚¹ã‹ã‚‚ï¼Ÿ</font></a>
 <font color=#303030>
-‚¿‚ã‚ñ
- ‚³‚ñ</font>
- <font size=2>2003”N9ŒŽ9“ú(‰Î) 9Žž4•ª</font>
-<a href="resbbs4.cgi?vew=1954">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>‚»‚¤‚Å‚·‚©AƒLƒƒƒbƒgƒŠƒ“‚ªŒfÚ‚³‚ê‚Ü‚·‚©H<br>‚P‚OŒŽ†‚Å‚¢‚Á‚½‚ñ”L‚ªI‚í‚Á‚ÄA‚P‚PŒŽ†‚ÅƒLƒƒƒbƒgƒŠƒ“˜AÚ‚©H‚ÆŽv‚Á‚Ä‚¢‚½Žž‚ÉA‘Å‚¿Ø‚è‚Ì˜b‚ð•·‚¢‚Ä—Ž’_‚µ‚Ä‚¢‚½Š‚Å‚µ‚½B@(^¡^)</font></ul>
+ã¡ã‚…ã‚“
+ ã•ã‚“</font>
+ <font size=2>2003å¹´9æœˆ9æ—¥(ç«) 9æ™‚4åˆ†</font>
+<a href="resbbs4@vew_1954.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>ãã†ã§ã™ã‹ã€ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ãŒæŽ²è¼‰ã•ã‚Œã¾ã™ã‹ï¼Ÿ<br>ï¼‘ï¼æœˆå·ã§ã„ã£ãŸã‚“çŒ«ãŒçµ‚ã‚ã£ã¦ã€ï¼‘ï¼‘æœˆå·ã§ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³é€£è¼‰ã‹ï¼Ÿã¨æ€ã£ã¦ã„ãŸæ™‚ã«ã€æ‰“ã¡åˆ‡ã‚Šã®è©±ã‚’èžã„ã¦è½èƒ†ã—ã¦ã„ãŸæ‰€ã§ã—ãŸã€‚ã€€(^ï½¡^)</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1956>
-<font color=#6A5ACD>RE:­—–Ÿ‰æƒLƒƒƒbƒgƒŠƒ“‚Ìƒtƒ@ƒ“‚Éd‘åƒjƒ…[ƒX‚©‚àH</font></a>
+<font color=#6A5ACD>RE:å°‘å¥³æ¼«ç”»ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ã®ãƒ•ã‚¡ãƒ³ã«é‡å¤§ãƒ‹ãƒ¥ãƒ¼ã‚¹ã‹ã‚‚ï¼Ÿ</font></a>
 <font color=#303030>
-‚„‚…‚‚„‚…‚Ž‚„
- ‚³‚ñ</font>
- <font size=2>2003”N9ŒŽ9“ú(‰Î) 20Žž11•ª</font>
-<a href="resbbs4.cgi?vew=1956">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚éƒRƒ~ƒbƒN‚ÍA<b>”ü­—–‚–@íŽm@ƒLƒƒƒbƒgƒŠƒ“</b>z</font>
-<ul><font size=3>“ú‹L‚Å‚È‚­‚Æ‚à‚¨ŽdŽ–‚É‘‚¢‚Ä‚ ‚è‚Ü‚·B<br>ASUKA11ŒŽ†@“ÇØ‚è‚Q‚S‚o@w”ü­—–‚–@íŽmƒLƒƒƒbƒgƒŠƒ“x <br>‚»‚ÌŒfÚ•ª‚ÌƒAƒ“ƒP[ƒgŽŸ‘æ‚Å‘Å‚¿Ø‚è‚Å‚·B<br></font></ul>
+ï½„ï½…ï½ï½„ï½…ï½Žï½„
+ ã•ã‚“</font>
+ <font size=2>2003å¹´9æœˆ9æ—¥(ç«) 20æ™‚11åˆ†</font>
+<a href="resbbs4@vew_1956.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹ã‚³ãƒŸãƒƒã‚¯ã¯ã€<b>ç¾Žå°‘å¥³é­”æ³•æˆ¦å£«ã€€ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³</b>ã€‘</font>
+<ul><font size=3>æ—¥è¨˜ã§ãªãã¨ã‚‚ãŠä»•äº‹ã«æ›¸ã„ã¦ã‚ã‚Šã¾ã™ã€‚<br>ASUKA11æœˆå·ã€€èª­åˆ‡ã‚Šï¼’ï¼”ï¼°ã€€ã€Žç¾Žå°‘å¥³é­”æ³•æˆ¦å£«ã‚­ãƒ£ãƒƒãƒˆãƒªãƒ³ã€ <br>ãã®æŽ²è¼‰åˆ†ã®ã‚¢ãƒ³ã‚±ãƒ¼ãƒˆæ¬¡ç¬¬ã§æ‰“ã¡åˆ‡ã‚Šã§ã™ã€‚<br></font></ul>
 <HR>
 </ul>
 </ul>
@@ -111,7 +111,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=‹LŽ–íœ>
+<input type=submit name=button value=è¨˜äº‹å‰Šé™¤>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

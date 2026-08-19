@@ -1,119 +1,119 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���̎q�̃q�~�c>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:女の子のヒミツ>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1755>
 <input type=hidden name=ress value=1755>
-<input type=submit value=���̎q�̃q�~�c�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=女の子のヒミツへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1755>
-<font color=#6A5ACD>���̎q�̃q�~�c</font></a>
+<font color=#6A5ACD>女の子のヒミツ</font></a>
 <font color=#303030>
-����@�׉�
- ����</font>
- <font size=2>2003�N2��24��(��) 22��19��</font>
-<a href="resbbs4_b.cgi?vew=1755">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�H</b>�z</font>
+野口　泰嘉
+ さん</font>
+ <font size=2>2003年2月24日(月) 22時19分</font>
+<a href="resbbs4_b@vew_1755.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>？</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�w�����Ă���C���X�v���C�����Ă���܂��B�F����̒�����C�������ɃR���v���[�g�������͂�������Ⴂ�܂��񂩁B<br><br>�S���̃��[�g�E�I�����ɂ��Ȃ�������o�Ă���܂��B�U���`�̂g�o��T���Ă���܂����C�ǂȂ��������m�����ł��傤���B�w�����ŒT���I�x�Ƃ͌��킸�ɁC�ǂ����F����̏��̂��񋟂����肢�v���܂��B<br><br>�ǐL�@���������āA�̔����E�ŉ_�ʐM�����A�a�t�f�a�t�f���̎G���ɍU���̋L�q�\��͂���̂ł��傤��(�S�����Ƃ�)�H</font></ul>
+<ul><br><font size=3>購入してから，日々プレイをしております。皆さんの中から，もう既にコンプリートした方はいらっしゃいませんか。<br><br>全員のルート・選択肢にかなり迷いが出ております。攻略形のＨＰを探しておりますが，どなたかご存知無いでしょうか。『自分で探せ！』とは言わずに，どうか皆さんの情報のご提供をお願い致します。<br><br>追伸　もしかして、販売元・闇雲通信さんや、ＢＵＧＢＵＧ等の雑誌に攻略の記述予定はあるのでしょうか(４月号とか)？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1756>
-<font color=#6A5ACD>RE:���̎q�̃q�~�c�@</font></a>
+<font color=#6A5ACD>RE:女の子のヒミツ　</font></a>
 <font color=#303030>
-���T
- ����</font>
- <font size=2>2003�N2��24��(��) 23��56��</font>
-<a href="resbbs4_b.cgi?vew=1756">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�G�N�X�^�V�[�E�{�}�[</b>�z</font>
-<ul><font size=3>�͂��߂܂��āB<br>�U���g�o���͒m��܂��񂪁A�R���v���[�g�͂��������ȒP�ł���B<br>�ł����@�������ɏ����Ă��܂��Ă����̂��͂킩��Ȃ��̂ŁE�E�E�E�E�E<br>�ǂ����܂��傤���H</font></ul>
+ラサ
+ さん</font>
+ <font size=2>2003年2月24日(月) 23時56分</font>
+<a href="resbbs4_b@vew_1756.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>エクスタシー・ボマー</b>】</font>
+<ul><font size=3>はじめまして。<br>攻略ＨＰ等は知りませんが、コンプリートはけっこう簡単ですよ。<br>でも方法をここに書いてしまっていいのかはわからないので・・・・・・<br>どうしましょうか？</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1758>
-<font color=#6A5ACD>RE:���̎q�̃q�~�c</font></a>
+<font color=#6A5ACD>RE:女の子のヒミツ</font></a>
 <font color=#303030>
-����@�׉�
- ����</font>
- <font size=2>2003�N2��25��(��) 19��9��</font>
-<a href="resbbs4_b.cgi?vew=1758">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�d�Ԃłf�n�I�o�q�n�Q</b>�z</font>
-<ul><font size=3>���T����A���L�q���肪�Ƃ��������܂��B�ł���΁A�U�����������肢�����ł����C�������ł��傤���B�s�����̂ł�����C���̎���ɂ������������B�E�E�E�Ƃ������Ƃ̓��T����C�S�ăR���v���[�g�����̂ł����H<br><br>�I��������ɕt���Q����܂����A���ꂪ��T�O�ȏ�A�Ȃ��Ă���B�����ł��f���������̂́C�w�i���ՂȂǃL�����I�ёO�́j�ǂ̑I������I��ł����̘b�ɑ卷������̂��x�Ƃ������Ƃł��B�ŏ��ɂ`�Ƃa�Ƃ����I��������������C�ǂ����I��ł����̘b�ɂȂ�̂��C����Ƃ��e�L�����ւ̍D��ۂȂǂ����U���Ă���̂��E�E�E�B<br><br>�Ȃ�΁A���d�F(�Ǘ��l)����ɂ��f�����܂����C�U���Ȃǂ̋L�q�͋��𒸂���̂ł��傤���H�X�������肢���܂��B</font></ul>
+野口　泰嘉
+ さん</font>
+ <font size=2>2003年2月25日(火) 19時9分</font>
+<a href="resbbs4_b@vew_1758.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>電車でＧＯ！ＰＲＯ２</b>】</font>
+<ul><font size=3>ラサさん、ご記述ありがとうございます。できれば、攻略をお教え願いたいですが，いかがでしょうか。不味いのでしたら，私の質問にお答え下さい。・・・ということはラサさん，全てコンプリートしたのですか？<br><br>選択肢が一つに付き２つありますが、それが約５０以上連なっている。そこでお伺いしたいのは，『（序盤などキャラ選び前は）どの選択肢を選んでも次の話に大差があるのか』ということです。最初にＡとＢという選択肢があったら，どちらを選んでも次の話になるのか，それとも各キャラへの好印象などが勧誘してくるのか・・・。<br><br>ならば、八重洲(管理人)さんにお伺いしますが，攻略などの記述は許可を頂けるのでしょうか？宜しくお願いします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1759>
-<font color=#6A5ACD>RE:���̎q�̃q�~�c</font></a>
+<font color=#6A5ACD>RE:女の子のヒミツ</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F</a>
- ����</font>
- <font size=2>2003�N2��25��(��) 23��17��</font>
-<a href="resbbs4_b.cgi?vew=1759">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�^���_�]��III�@NOCTURNE</b>�z</font>
-<ul><font size=3>&gt; �U���Ȃǂ̋L�q�͋��𒸂���̂ł��傤���H<br><br>��i���z�f���́u���̎q�̃q�~�c�v�X���b�h�ł���Ă���������Ə�����܂��B<br><a href=http://jbbs.shitaraba.com/comic/bbs/read.cgi target=_top>http://jbbs.shitaraba.com/comic/bbs/read.cgi</a>?BBS=100&KEY=1045224782&END=100<br>�������A�l�^�o�����Ăق����Ȃ��l���X���b�h��ǂ�ł邱�Ƃ��\�z�����̂ŁA���̑΍�͍H�v���Ă݂Ă��������B<br>�Ⴆ�΁A�J�L�R�̖`���Ɂy�l�^�o���E�U�����z�ƕ�����₷�����o�������铙�B<br>��낵����肢���܂��B</font></ul>
+<a href=mailto:yays@geocities.co.jp>八重洲</a>
+ さん</font>
+ <font size=2>2003年2月25日(火) 23時17分</font>
+<a href="resbbs4_b@vew_1759.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>真女神転生III　NOCTURNE</b>】</font>
+<ul><font size=3>&gt; 攻略などの記述は許可を頂けるのでしょうか？<br><br>作品感想掲示板の「女の子のヒミツ」スレッドでやっていただけると助かります。<br><a href=http://jbbs.shitaraba.com/comic/bbs/read.cgi target=_top>http://jbbs.shitaraba.com/comic/bbs/read.cgi</a>?BBS=100&KEY=1045224782&END=100<br>ただし、ネタバレしてほしくない人もスレッドを読んでることが予想されるので、その対策は工夫してみてください。<br>例えば、カキコの冒頭に【ネタバレ・攻略情報】と分かりやすく見出しを入れる等。<br>よろしく御願いします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1760>
-<font color=#6A5ACD>RE:���̎q�̃q�~�c</font></a>
+<font color=#6A5ACD>RE:女の子のヒミツ</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F</a>
- ����</font>
- <font size=2>2003�N2��25��(��) 23��19��</font>
+<a href=mailto:yays@geocities.co.jp>八重洲</a>
+ さん</font>
+ <font size=2>2003年2月25日(火) 23時19分</font>
 <a href=http://jbbs.shitaraba.com/comic/bbs/read.cgi?BBS&eq;100&KEY&eq;1045224782&END&eq;100 target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1760">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����N�����܂����f����Ȃ������̂ŁA����URL��<a href=http:// target=_top>http://</a>�𑫂��Ă��������B<br>jbbs.shitaraba.com/comic/bbs/read.cgi?BBS=100&KEY=1045224782&END=100<br><br>���邢�́A���̃��X��[Homepage]�����N���b�N�B</font></ul>
+<a href="resbbs4_b@vew_1760.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>リンクがうまく反映されなかったので、↓のURLに<a href="resbbs4_b@vew_1755.cgi" target=_top>http://</a>を足してください。<br>jbbs.shitaraba.com/comic/bbs/read.cgi?BBS=100&KEY=1045224782&END=100<br><br>あるいは、このレスの[Homepage]欄をクリック。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1761>
-<font color=#6A5ACD>RE:���̎q�̃q�~�c</font></a>
+<font color=#6A5ACD>RE:女の子のヒミツ</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F</a>
- ����</font>
- <font size=2>2003�N2��25��(��) 23��21��</font>
-<a href="resbbs4_b.cgi?vew=1761">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>homepage���N���b�N���Ă����܂��s���Ȃ��݂����ł��ˁA���݂܂���B<br>���̌f����CGI�̓�����A�����N�����m�ɔ��f����Ȃ��݂����ł��A�������炸�B</font></ul>
+<a href=mailto:yays@geocities.co.jp>八重洲</a>
+ さん</font>
+ <font size=2>2003年2月25日(火) 23時21分</font>
+<a href="resbbs4_b@vew_1761.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>homepage欄クリックしてもうまく行かないみたいですね、すみません。<br>この掲示板CGIの特性上、リンクが正確に反映されないみたいです、悪しからず。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -122,7 +122,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

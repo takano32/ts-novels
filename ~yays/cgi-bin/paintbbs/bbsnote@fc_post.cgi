@@ -1,11 +1,11 @@
 
 <HTML>
 <HEAD>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=x-sjis">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <META name="ROBOTS" content="NOINDEX,NOFOLLOW">
 <META http-equiv="Content-Style-Type" content="text/css">
 <META http-equiv="Content-Script-Type" content="text/javascript">
-<TITLE>���C�y���������a�a�r</TITLE>
+<TITLE>お気軽おえかきＢＢＳ</TITLE>
 <script language="JavaScript">
 <!--
 	function showApplet(){
@@ -34,7 +34,7 @@
 
 <script language="JavaScript">
 <!--
-  status="*�͋L���K�{���ڂł�";
+  status="*は記入必須項目です";
 //-->
 </script>
 
@@ -43,7 +43,7 @@
 <BR>
 <!--SKIN:RESMESSAGE-->
 <table BORDER="0" width="400" CELLPADDING="2" cellspacing="0">
-<form method="post" name="CGIFORM" action="./bbsnote.cgi" ENCTYPE="multipart/form-data" target="_self">
+<form method="post" name="CGIFORM" action="bbsnote.cgi" ENCTYPE="multipart/form-data" target="_self">
 <input type="hidden" name="fc" VALUE="write">
 <input name=mode type=hidden value=""><input name=sort type=hidden value=""><input name=page type=hidden value="">
 <tr><td align=left> 
@@ -67,7 +67,7 @@
 </td></tr>
 
 
-	<TR><TD align=left colspan=2><Font Color="#6677AA" Face="Verdana" SIZE="1"> �摜�I��  </Font> <BR><INPUT CLASS="button" TYPE="FILE" NAME="file" VALUE="" SIZE=40><Font Color="#6677AA" Face="Verdana" SIZE="1"> ���t�@�C����I�� </Font></td></tr>
+	<TR><TD align=left colspan=2><Font Color="#6677AA" Face="Verdana" SIZE="1"> 画像選択  </Font> <BR><INPUT CLASS="button" TYPE="FILE" NAME="file" VALUE="" SIZE=40><Font Color="#6677AA" Face="Verdana" SIZE="1"> ←ファイルを選択 </Font></td></tr>
 
 
 <tr><td align=left colspan="2">
@@ -78,20 +78,20 @@
 <Font Color="#6677AA" Face="Verdana" SIZE="1"> PASSWORD </Font> <input CLASS="button" type="password" size="8" name="password" value=""> 
 
 
-<INPUT TYPE="CheckBOX" NAME="flower"  VALUE="1" tabindex="13" title="�t�����[�p�j�b�N" ><Font Color="#7788BB" Face="Verdana" SIZE="2"> FlowerPanic </Font>
+<INPUT TYPE="CheckBOX" NAME="flower"  VALUE="1" tabindex="13" title="フラワーパニック" ><Font Color="#7788BB" Face="Verdana" SIZE="2"> FlowerPanic </Font>
 
 
- <input CLASS="button" type="submit" value=" Submit " tabindex="8" title="���e���������݂܂�">  
-<input CLASS="button" type="reset" value=" Erase " tabindex="11" title="�S���폜���܂�">&nbsp;
+ <input CLASS="button" type="submit" value=" Submit " tabindex="8" title="内容を書きこみます">  
+<input CLASS="button" type="reset" value=" Erase " tabindex="11" title="全文削除します">&nbsp;
 </td></tr>
 <tr><td align=left colspan="2" NOWRAP>
-<Font Color="#6677AA" Face="Verdana" SIZE="1"> * ��M�ł���摜�̍ő�f�[�^�T�C�Y��<B> 200 </B>KB  �܂łł��B(�ő�𑜓x : 800 x 600 )<BR>
-* �摜�t�@�C���ɂ� <B>JPG�EPNG�EGIF�EPCH</B> ���g�p�ł��܂��B<BR></Font>
-<Font Color="#6677AA" Face="Verdana" SIZE="1">* �p�X���[�h�͔��p�p����8�����܂ŗL���ł��B</Font></td></tr>
+<Font Color="#6677AA" Face="Verdana" SIZE="1"> * 受信できる画像の最大データサイズは<B> 200 </B>KB  までです。(最大解像度 : 800 x 600 )<BR>
+* 画像ファイルには <B>JPG・PNG・GIF・PCH</B> が使用できます。<BR></Font>
+<Font Color="#6677AA" Face="Verdana" SIZE="1">* パスワードは半角英数で8文字まで有効です。</Font></td></tr>
 </form>
 </table>
 <BR>
-<CENTER><fONT SIZE=2>[<a TITLE="�߂�" href="./bbsnote.cgi">BACK</a>]</FONT></CENTER>
+<CENTER><fONT SIZE=2>[<a TITLE="戻る" href="bbsnote.cgi">BACK</a>]</FONT></CENTER>
 
 
 
@@ -101,7 +101,7 @@
 	
 	
 
-		<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)���������(shi-cyan)</A> 
+		<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)しぃちゃん(shi-cyan)</A> 
 
 	</SMALL></DIV>
 	

@@ -1,119 +1,119 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�j���[�X����ł�>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:ニュース速報です>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1938>
 <input type=hidden name=ress value=1938>
-<input type=submit value=�j���[�X����ł��֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=ニュース速報ですへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1938>
-<font color=#6A5ACD>�j���[�X����ł�</font></a>
+<font color=#6A5ACD>ニュース速報です</font></a>
 <font color=#303030>
-���d�F���Ǘ��l���i��
- ����</font>
- <font size=2>2003�N8��25��(��) 15��44��</font>
-<a href="resbbs4_b.cgi?vew=1938">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲＠管理人失格風
+ さん</font>
+ <font size=2>2003年8月25日(月) 15時44分</font>
+<a href="resbbs4_b@vew_1938.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����قǁA�_�񂵂Ă郌���^���T�[�o�̗����U�荞�ݓ��������������Ɣ������܂����B<br>�������ɐU�荞�ݎ葱������\��ł����A���t������Ă��甼���قǃT�C�g��~���邩������Ȃ��ł��c�c<br><br>���₠�A���x�̂��ƂƂ͂������p���������c�c��</font></ul>
+<ul><br><font size=3>さきほど、契約してるレンタルサーバの料金振り込み日期限が今日だと判明しました。<br>今日中に振り込み手続きする予定ですが、日付かわってから半日ほどサイト停止するかもしれないです……<br><br>いやあ、毎度のこととはいえお恥ずかしい……ﾃﾍ</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1939>
-<font color=#6A5ACD>RE:�j���[�X����ł�</font></a>
+<font color=#6A5ACD>RE:ニュース速報です</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N8��25��(��) 22��26��</font>
-<a href="resbbs4_b.cgi?vew=1939">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����U�荞��ŁA�Ȃ�Ƃ��������̉c�Ǝ��ԓ��ɐU�荞�ݖ��׏����t�@�N�X�ő��ꂽ��ŁA���Ԃ�~�߂��邱�Ƃ͂Ȃ������Ȍ��ʂ��ł��B<br><br>���܂܂ł͎~�߂��Ă���Q�ĂĂ̐U�荞�݂����������ɁA���N�̉Ă͈�i�i�����܂����I�i���掩�^�j</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年8月25日(月) 22時26分</font>
+<a href="resbbs4_b@vew_1939.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>料金振り込んで、なんとか向こうの営業時間内に振り込み明細書もファクスで送れたんで、たぶん止められることはなさそうな見通しです。<br><br>いままでは止められてから慌てての振り込みだっただけに、今年の夏は一段進歩しました！（自画自賛）</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1940>
-<font color=#6A5ACD>RE:�j���[�X����ł�</font></a>
+<font color=#6A5ACD>RE:ニュース速報です</font></a>
 <font color=#303030>
-�����D��
- ����</font>
- <font size=2>2003�N8��26��(��) 13��27��</font>
-<a href="resbbs4_b.cgi?vew=1940">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����l�ł����I<br></font></ul>
+ｔｓ好き
+ さん</font>
+ <font size=2>2003年8月26日(火) 13時27分</font>
+<a href="resbbs4_b@vew_1940.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>お疲れ様でした！<br></font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=1941>
-<font color=#6A5ACD>RE:�j���[�X����ł�</font></a>
+<font color=#6A5ACD>RE:ニュース速報です</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N8��26��(��) 13��59��</font>
-<a href="resbbs4_b.cgi?vew=1941">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ǂ����[�B<br>���񂺂�Ⴄ�b�Ȃ�ł����A�V�R�[�i�[�p�ɍ���Ă��A�h�x���`���[�Q�[���A�e�L�X�g���������x������������ŁA�������낻��v���g�^�C�v�ł𔭕\�ł���Ǝv���܂��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年8月26日(火) 13時59分</font>
+<a href="resbbs4_b@vew_1941.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>どうもー。<br>ぜんぜん違う話なんですが、新コーナー用に作ってたアドベンチャーゲーム、テキスト部分が昨夜遅く完成したんで、もうそろそろプロトタイプ版を発表できると思います。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1942>
-<font color=#6A5ACD>RE:�j���[�X����ł��{���̃j���[�X����</font></a>
+<font color=#6A5ACD>RE:ニュース速報です本日のニュース速報</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N8��27��(��) 12��50��</font>
-<a href="resbbs4_b.cgi?vew=1942">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>Nscripter�̃e�L�X�g�E�B���h�E�������܂�Ԃ��@�\�����ĂȂ��āA�e�L�X�g�͂ݏo�邾���ŃG���[�o�����ƂɋC�Â��A<b>�L����</b>�B<br>�J���V�E����ۂ�܂��傤�B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年8月27日(水) 12時50分</font>
+<a href="resbbs4_b@vew_1942.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>Nscripterのテキストウィンドウが自動折り返し機能もってなくて、テキストはみ出るだけでエラー出すことに気づき、<b>キレる</b>。<br>カルシウムを摂りましょう。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1943>
-<font color=#6A5ACD>RE:�j���[�X����ł��{���̃j���[�X����</font></a>
+<font color=#6A5ACD>RE:ニュース速報です本日のニュース速報</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N8��27��(��) 13��23��</font>
-<a href="resbbs4_b.cgi?vew=1943">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�L���������<b>�P�Ɏ����̊��Ⴂ</b>���������ƂɋC�Â��j��Ԃ�߂�B<br>�l���R����J����B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年8月27日(水) 13時23分</font>
+<a href="resbbs4_b@vew_1943.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>キレた直後に<b>単に自分の勘違い</b>だったことに気づき頬を赤らめる。<br>人生山あり谷あり。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -121,7 +121,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

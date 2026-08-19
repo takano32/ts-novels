@@ -1,118 +1,118 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
+<tr><td align=right>題名:</td><td>
 <input type=text size=48 name=subject value=>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1700>
 <input type=hidden name=ress value=1700>
-<input type=submit value=�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1700>
 <font color=#6A5ACD></font></a>
 <font color=#303030>
-�v�d�a����}�j�A
- ����</font>
- <font size=2>2003�N1��11��(�y) 1��15��</font>
-<a href=WEB���惊���N�T�C�g���� target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1700">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ＷＥＢ漫画マニア
+ さん</font>
+ <font size=2>2003年1月11日(土) 1時15分</font>
+<a href="WEB漫画リンクサイト発見" target=_top>HomePage</a>
+<a href="resbbs4@vew_1700.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>����͂�A�s�r�l�^�̍��Y�̂v�d�a��������T���Ă��܂����݂���܂���B�Ƃɂ���WEB���惊���N�T�C�g���������̂ŁA������ւ��������܂���܂��B���@���L���[���E�L�Ȋ����ŁA�����Y�̂s�r�l�^�̂v�d�a�����T���܂��B<br><br><a href=http://www.nekocube.net/ocl/ target=_top>http://www.nekocube.net/ocl/</a></font></ul>
+<ul><br><font size=3>いやはや、ＴＳネタの国産のＷＥＢ漫画を日夜探していますがみつかりません。とにかくWEB漫画リンクサイト発見したので、ここらへんをあたりまくります。ヴァルキリーユウキな感じで、純国産のＴＳネタのＷＥＢ漫画を探します。<br><br><a href=http://www.nekocube.net/ocl/ target=_top>http://www.nekocube.net/ocl/</a></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1701>
 <font color=#6A5ACD></font></a>
 <font color=#303030>
-�v�d�a����}�j�A
- ����</font>
- <font size=2>2003�N1��11��(�y) 1��50��</font>
-<a href=WEB���惊���N�T�C�g���� target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1701">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���������u�߈ˁv���m�������ł����̗삾����ȁB<br><a href=http://www.tomoyo.com/kana/4koma.htm target=_top>http://www.tomoyo.com/kana/4koma.htm</a><br></font></ul>
+ＷＥＢ漫画マニア
+ さん</font>
+ <font size=2>2003年1月11日(土) 1時50分</font>
+<a href="WEB漫画リンクサイト発見" target=_top>HomePage</a>
+<a href="resbbs4@vew_1701.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>さっそく「憑依」モノ見っけでも女の霊だからな。<br><a href=http://www.tomoyo.com/kana/4koma.htm target=_top>http://www.tomoyo.com/kana/4koma.htm</a><br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=1702>
 <font color=#6A5ACD></font></a>
 <font color=#303030>
 <a href=mailto:aoki@gori.sh>Gori</a>
- ����</font>
- <font size=2>2003�N1��11��(�y) 2��38��</font>
+ さん</font>
+ <font size=2>2003年1月11日(土) 2時38分</font>
 <a href=http://www.gori.sh target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1702">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�Ƃ��߂������`</b>�z</font>
-<ul><font size=3>���R����͌䑶�m�ł���ˁE�E�E<br><br>�܂����郊�R�[�_�[����<br><a href=http://www.4koma.com/access/ target=_top>http://www.4koma.com/access/</a><br></font></ul>
+<a href="resbbs4@vew_1702.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ときめき水滸伝</b>】</font>
+<ul><font size=3>当然これは御存知ですよね・・・<br><br>まじかるリコーダー結花<br><a href=http://www.4koma.com/access/ target=_top>http://www.4koma.com/access/</a><br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=1704>
 <font color=#6A5ACD></font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2003�N1��12��(��) 12��36��</font>
-<a href="resbbs4.cgi?vew=1704">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����Ȃ̂�����܂��B<br><br>�킵�́�����I�H<br><a href=http://www.geocities.com/Tokyo/Highrise/2118/frame_ja.html target=_top>http://www.geocities.com/Tokyo/Highrise/2118/frame_ja.html</a></font></ul>
+通りすがり
+ さん</font>
+ <font size=2>2003年1月12日(日) 12時36分</font>
+<a href="resbbs4@vew_1704.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>こんなのもあります。<br><br>わしは♀じゃ！？<br><a href=http://www.geocities.com/Tokyo/Highrise/2118/frame_ja.html target=_top>http://www.geocities.com/Tokyo/Highrise/2118/frame_ja.html</a></font></ul>
 <HR>
 <input type=checkbox name=delcode value=1706>
 <font color=#6A5ACD></font></a>
 <font color=#303030>
 bbb
- ����</font>
- <font size=2>2003�N1��12��(��) 22��8��</font>
-<a href="resbbs4.cgi?vew=1706">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�z�[���y�[�W�́A<b>�s�r</b>�z</font>
-<ul><font size=3>bbb�Ə����A�r�[�X���[�����B<br><br>�A�����J��webmanga�Ƃ��̋��僊���N�Ȃ�����Ƃ��邩��<br><br><a href=http://yumpop.keenspace.com/ target=_top>http://yumpop.keenspace.com/</a></font></ul>
+ さん</font>
+ <font size=2>2003年1月12日(日) 22時8分</font>
+<a href="resbbs4@vew_1706.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるホームページは、<b>ＴＳ</b>】</font>
+<ul><font size=3>bbbと書き、ビースリーっす。<br><br>アメリカのwebmangaとかの巨大リンクならもっとあるかも<br><br><a href=http://yumpop.keenspace.com/ target=_top>http://yumpop.keenspace.com/</a></font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

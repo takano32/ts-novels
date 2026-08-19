@@ -1,75 +1,75 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•Ž¦‚·‚éƒ^ƒCƒgƒ‹‚ðŽ©—R‚É‹L“ü-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«ä¾®ï½¦ã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>‘‡ŒfŽ¦”Â</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>ç·åˆæŽ²ç¤ºæ¿</font></td></tr></table>
 	</center></div>
 
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚ÉƒƒbƒZ[ƒW‚ª@@•Ž¦‚³‚ê‚é-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒã€€ã€€ä¾®ï½¦ã•ã‚Œã‚‹-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[—˜—p‹K–ñ]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[åˆ©ç”¨è¦ç´„]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>‚¨–¼‘O:</td><td><input type=text size=20 name=name value=>
+<td align=right>ãŠåå‰:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>‘è–¼:</td><td>
-<input type=text size=48 name=subject value=RE:ƒuƒ‰ƒ“ƒhŒƒˆÀŽsêmixi-shop‘å“Á‰¿@>
+<tr><td align=right>é¡Œå:</td><td>
+<input type=text size=48 name=subject value=RE:ãƒ–ãƒ©ãƒ³ãƒ‰æ¿€å®‰å¸‚å ´mixi-shopå¤§ç‰¹ä¾¡ã€€>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=70519><BR>
-<img SRC="out.png?1670519"> ¶‚Ì4Œ…‚Ì”Žš‚ð”¼Šp”Žš‚Å“ü—Í‚µ‚Ä‚­‚¾‚³‚¢: <input type="text" size=8 name="captcha"><br> <br>
-‚¢‚Ü‹C‚É‚È‚é
+<img SRC="out@1670519.png"> å·¦ã®4æ¡ã®æ•°å­—ã‚’åŠè§’æ•°å­—ã§å…¥åŠ›ã—ã¦ãã ã•ã„: <input type="text" size=8 name="captcha"><br> <br>
+ã„ã¾æ°—ã«ãªã‚‹
 <SELECT NAME="genre" size=1>
-<option value="novel">¬à@
-<option value="comic">ƒRƒ~ƒbƒN
-<option value="movie">‰f‘œì•i
-<option value="game">ƒQ[ƒ€
-<option value="character">ƒLƒƒƒ‰ƒNƒ^[
-<option value="author">ì‰Æ
-<option value="rumor">î•ñE‚¤‚í‚³
-<option value="site">ƒz[ƒ€ƒy[ƒW
-<option value="something">‰½‚©
-</SELECT> ‚Í 
+<option value="novel">å°èª¬ã€€
+<option value="comic">ã‚³ãƒŸãƒƒã‚¯
+<option value="movie">æ˜ åƒä½œå“
+<option value="game">ã‚²ãƒ¼ãƒ 
+<option value="character">ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼
+<option value="author">ä½œå®¶
+<option value="rumor">æƒ…å ±ãƒ»ã†ã‚ã•
+<option value="site">ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸
+<option value="something">ä½•ã‹
+</SELECT> ã¯ 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=3551>
 <input type=hidden name=ress value=3551>
-<input type=submit value=ƒuƒ‰ƒ“ƒhŒƒˆÀŽsêmixi-shop‘å“Á‰¿@‚Ö•ÔM>
-<input type=reset value=‘‚«’¼‚µ>
+<input type=submit value=ãƒ–ãƒ©ãƒ³ãƒ‰æ¿€å®‰å¸‚å ´mixi-shopå¤§ç‰¹ä¾¡ã€€ã¸è¿”ä¿¡>
+<input type=reset value=æ›¸ãç›´ã—>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=3551>
-<font color=#6A5ACD>ƒuƒ‰ƒ“ƒhŒƒˆÀŽsêmixi-shop‘å“Á‰¿@</font></a>
+<font color=#6A5ACD>ãƒ–ãƒ©ãƒ³ãƒ‰æ¿€å®‰å¸‚å ´mixi-shopå¤§ç‰¹ä¾¡ã€€</font></a>
 <font color=#303030>
-<a href=mailto:mixi-shop@tom.com>’†‘º@˜aŽq</a>
- ‚³‚ñ</font>
- <font size=2>2009”N12ŒŽ26“ú(“y) 20Žž33•ª</font>
-<a href="resbbs4.cgi?vew=3551">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+<a href=mailto:mixi-shop@tom.com>ä¸­æ‘ã€€å’Œå­</a>
+ ã•ã‚“</font>
+ <font size=2>2009å¹´12æœˆ26æ—¥(åœŸ) 20æ™‚33åˆ†</font>
+<a href="resbbs4@vew_3551.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 </td></tr><tr><td>
-<ul><br><font size=3>ƒuƒ‰ƒ“ƒhŒƒˆÀŽsêmixi-shop‘å“Á‰¿ <br><br>“–“X‚É‚ÍAƒ‹ƒCƒ”ƒBƒgƒ“AƒVƒƒƒlƒ‹AƒOƒbƒ`AƒR[ƒ`AƒƒŒƒbƒNƒXAƒvƒ‰ƒ_A ƒfƒBƒI[ƒ‹Aƒuƒ‹ƒKƒŠà•z ‚»‚Ì‘¼¬•¨“™A<br><br>ƒuƒ‰ƒ“ƒh•iAAƒ‹ƒCƒEJƒBƒgƒ“APRADAACoachAGUCCIACHANELABVLGARIAƒfƒ…ƒ|ƒ“AROLEXŽžj<br><br><br>”ƒ‚¤‘½‚¢‚Å‚·AŒb‚Ý‚Ì‘½‚¢‚Å‚·A<br><br>ˆê‰ñ’•¶5ŒˆÈãA‘¡’æƒ‹ƒCƒ”ƒBƒgƒ“ƒL[ƒP[ƒX1ŒÂ <br><br>’•¶‹àŠz10000‰~ˆÈã:‘¡’æŒg‘Ñ“d˜b“ê‚PŒÂI <br>’•¶‹àŠz15000‰~ˆÈã:‘¡’æƒ‹ƒCƒ”ƒBƒgƒ“ƒL[ƒP[ƒX1ŒÂI<br>’•¶‹àŠz20000‰~ˆÈã:‘¡’æƒTƒ“ƒOƒ‰ƒX1ŒÂI<br>’•¶‹àŠz25000‰~ˆÈã:‘¡’æà•z1ŒÂI<br>’•¶‹àŠz40000‰~ˆÈã:‘¡’æS•ià•z1ŒÂI<br>’•¶‹àŠz50000‰~ˆÈã:‘¡’æN•ià•z1ŒÂI<br><br>’•¶‚ÍŠú‘Ò‚µ‚Ä‚¢‚Ü‚·BBB<br><br>ŠeŽíŠCŠO—L–¼ƒuƒ‰ƒ“ƒh•i‚ð–L•x‚ÉŽæ‚è‘µ‚¦A‚µ‚©‚à‚¨‹q—l‚ð‘æˆê‚Æl‚¦‚ÄA‹Á‚«‚Ì’á‰¿Ši‚Å’ñ‹Ÿ‚µ‚Ä‚¨‚è‚Ü‚·<br><br>¡ƒXƒ^ƒCƒ‹‚ª‘½‚¢A•iŽ¿‚ª‚æ‚¢A‰¿Ši‚ª’á‚¢I<br>¡ ‘——¿–³—¿(“ú–{‘S‘) ‚²’•¶‚ðŠú‘Ò‚µ‚Ä‚¢‚Ü‚·!<br>¡M—p‘æˆêA—Ç‚¢•iŽ¿A’á‰¿Ši‚Í<br>¡“–ŽÐ‚Ì¤•i‚Íâ‘Î‚ÌŽ©M‚ªŒäÀ‚¢‚Ü‚·B<br><br>ŒƒˆÀAˆÀSAˆÀ‘S‚É‚¨“Í‚¯‚µ‚Ü‚·.•i”–L•x‚È¤<br>¤•i”‚à‘å•‚É‘‚¦A•iŽ¿‚à‘åŽ©M‚Å‚·<br>100%•iŽ¿•ÛØI–ž‘«•ÛáIƒŠƒs[ƒ^[—¦100“!<br><br>¡HPF<a href=http://www.mixi-shop.com target=_top>http://www.mixi-shop.com</a><br>¡“X’·F’†‘º ˜aŽq<br>¡˜A—æ<a href=mailto:Fmixi-shop@tom.com>Fmixi-shop@tom.com</a></font></ul>
+<ul><br><font size=3>ãƒ–ãƒ©ãƒ³ãƒ‰æ¿€å®‰å¸‚å ´mixi-shopå¤§ç‰¹ä¾¡ <br><br>å½“åº—ã«ã¯ã€ãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³ã€ã‚·ãƒ£ãƒãƒ«ã€ã‚°ãƒƒãƒã€ã‚³ãƒ¼ãƒã€ãƒ­ãƒ¬ãƒƒã‚¯ã‚¹ã€ãƒ—ãƒ©ãƒ€ã€ ãƒ‡ã‚£ã‚ªãƒ¼ãƒ«ã€ãƒ–ãƒ«ã‚¬ãƒªè²¡å¸ƒ ãã®ä»–å°ç‰©ç­‰ã€<br><br>ãƒ–ãƒ©ãƒ³ãƒ‰å“ã€ã€ãƒ«ã‚¤ã‚¦ã‚›ã‚£ãƒˆãƒ³ã€PRADAã€Coachã€GUCCIã€CHANELã€BVLGARIã€ãƒ‡ãƒ¥ãƒãƒ³ã€ROLEXæ™‚é‡<br><br><br>è²·ã†å¤šã„ã§ã™ã€æµã¿ã®å¤šã„ã§ã™ã€<br><br>ä¸€å›žæ³¨æ–‡5ä»¶ä»¥ä¸Šã€è´ˆå‘ˆãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³ã‚­ãƒ¼ã‚±ãƒ¼ã‚¹1å€‹ <br><br>æ³¨æ–‡é‡‘é¡10000å††ä»¥ä¸Š:è´ˆå‘ˆæºå¸¯é›»è©±ç¸„ï¼‘å€‹ï¼ <br>æ³¨æ–‡é‡‘é¡15000å††ä»¥ä¸Š:è´ˆå‘ˆãƒ«ã‚¤ãƒ´ã‚£ãƒˆãƒ³ã‚­ãƒ¼ã‚±ãƒ¼ã‚¹1å€‹ï¼<br>æ³¨æ–‡é‡‘é¡20000å††ä»¥ä¸Š:è´ˆå‘ˆã‚µãƒ³ã‚°ãƒ©ã‚¹1å€‹ï¼<br>æ³¨æ–‡é‡‘é¡25000å††ä»¥ä¸Š:è´ˆå‘ˆè²¡å¸ƒ1å€‹ï¼<br>æ³¨æ–‡é‡‘é¡40000å††ä»¥ä¸Š:è´ˆå‘ˆSå“è²¡å¸ƒ1å€‹ï¼<br>æ³¨æ–‡é‡‘é¡50000å††ä»¥ä¸Š:è´ˆå‘ˆNå“è²¡å¸ƒ1å€‹ï¼<br><br>æ³¨æ–‡ã¯æœŸå¾…ã—ã¦ã„ã¾ã™ã€‚ã€‚ã€‚<br><br>å„ç¨®æµ·å¤–æœ‰åãƒ–ãƒ©ãƒ³ãƒ‰å“ã‚’è±Šå¯Œã«å–ã‚Šæƒãˆã€ã—ã‹ã‚‚ãŠå®¢æ§˜ã‚’ç¬¬ä¸€ã¨è€ƒãˆã¦ã€é©šãã®ä½Žä¾¡æ ¼ã§æä¾›ã—ã¦ãŠã‚Šã¾ã™<br><br>â– ã‚¹ã‚¿ã‚¤ãƒ«ãŒå¤šã„ã€å“è³ªãŒã‚ˆã„ã€ä¾¡æ ¼ãŒä½Žã„ï¼<br>â–  é€æ–™ç„¡æ–™(æ—¥æœ¬å…¨å›½) ã”æ³¨æ–‡ã‚’æœŸå¾…ã—ã¦ã„ã¾ã™!<br>â– ä¿¡ç”¨ç¬¬ä¸€ã€è‰¯ã„å“è³ªã€ä½Žä¾¡æ ¼ã¯<br>â– å½“ç¤¾ã®å•†å“ã¯çµ¶å¯¾ã®è‡ªä¿¡ãŒå¾¡åº§ã„ã¾ã™ã€‚<br><br>æ¿€å®‰ã€å®‰å¿ƒã€å®‰å…¨ã«ãŠå±Šã‘ã—ã¾ã™.å“æ•°è±Šå¯Œãªå•†<br>å•†å“æ•°ã‚‚å¤§å¹…ã«å¢—ãˆã€å“è³ªã‚‚å¤§è‡ªä¿¡ã§ã™<br>100%å“è³ªä¿è¨¼ï¼æº€è¶³ä¿éšœï¼ãƒªãƒ”ãƒ¼ã‚¿ãƒ¼çŽ‡100ï¼…!<br><br>â– HPï¼š<a href=http://www.mixi-shop.com target=_top>http://www.mixi-shop.com</a><br>â– åº—é•·ï¼šä¸­æ‘ å’Œå­<br>â– é€£çµ¡å…ˆï¿½<a href=mailto:Fmixi-shop@tom.com>Fmixi-shop@tom.com</a></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=‹LŽ–íœ>
+<input type=submit name=button value=è¨˜äº‹å‰Šé™¤>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

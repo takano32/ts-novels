@@ -1,117 +1,117 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�{�����̃l�`�P�b�g���Ă���܂����H>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:捜し物のネチケットってありますか？>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1905>
 <input type=hidden name=ress value=1905>
-<input type=submit value=�{�����̃l�`�P�b�g���Ă���܂����H�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=捜し物のネチケットってありますか？へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1905>
-<font color=#6A5ACD>�{�����̃l�`�P�b�g���Ă���܂����H</font></a>
+<font color=#6A5ACD>捜し物のネチケットってありますか？</font></a>
 <font color=#303030>
-�꒵����
- ����</font>
- <font size=2>2003�N8��2��(�y) 18��9��</font>
-<a href="resbbs4_b.cgi?vew=1905">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>��������</b>�z</font>
+縄跳佐助
+ さん</font>
+ <font size=2>2003年8月2日(土) 18時9分</font>
+<a href="resbbs4_b@vew_1905.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>くじごじ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�s�r�̑{�����̂̃J�L�R�̃l�`�P�b�g�Ƃ����������Ă���܂����H<br>�������{���Ă�����̂�����̂ł����A�ԓ����Ȃ��ƂփR���ł��܂����̂ł�����B<br>�ǂȂ����A�����ĉ������B<br></font></ul>
+<ul><br><font size=3>ＴＳの捜しもののカキコのネチケットとか書き方ってありますか？<br>いくつか捜しているものがあるのですが、返答がないとへコンでしまうものですから。<br>どなたか、教えて下さい。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1906>
-<font color=#6A5ACD>RE:�{�����̃l�`�P�b�g���Ă���܂����H</font></a>
+<font color=#6A5ACD>RE:捜し物のネチケットってありますか？</font></a>
 <font color=#303030>
-<a href=mailto:ndcss@mtd.biglobe.ne.jp>���ƂԂ��Ђ���</a>
- ����</font>
- <font size=2>2003�N8��2��(�y) 21��34��</font>
+<a href=mailto:ndcss@mtd.biglobe.ne.jp>ことぶきひかる</a>
+ さん</font>
+ <font size=2>2003年8月2日(土) 21時34分</font>
 <a href=http://www2s.biglobe.ne.jp/~ndcss/ target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1906">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�����ăi�C�`���Q�[���i���x�\�񂵂ɂ����Ă��܂��B�j</b>�z</font>
-<ul><font size=3>�l�`�P�b�g�Ƃ����قǃ��m�͂Ȃ��ł��傤���ǁA<br>�Ƃɂ����A�Ȃ�ׂ������̏��A�ǂ�ȍׂ��ȓ_���A�������ނ��Ƃ�<br>�O��ł��傤�B<br>�f�ڎ���^�C�g����Җ���������΁A���߂����J�͂Ȃ��ł��傤����<br>�X�g�|���[�����ł��A�������菑���܂��傤�B<br>��A�f�ڎ��̃T�C�Y�Ƃ��A�����܂��ȊG���ł��A<br>���������Ǝ肪����ƂȂ�܂��B<br><br>��͂�Ƃ����ׂ����A�E�P��^�G������e�Ƃ����̂͌����邾���ɁA<br>��܂��ȓ��e�͎��ʂ������̂������ł�����B<br><br>�Ⴆ�΁A�o��̓���ւ����̂��ƁA<br>�b�g�`�m�f�d�I�i�\�Ёj�������`�񂶁i�x�H�I�j�d�l�a�q�`�b�d�|�j���|�i����j<br>�Ȃ�Ă���܂����B<br><br>���_�A���񋟂���������A�����Ƃ���̏������݂͂��܂��傤�B<br>����ƁA�����R�s�[���܂ލ�i���n�˗��́A�g���u���̌����ɂȂ�₷���̂ŁA<br>�����ɂ͏������܂Ȃ����������Ƒz���܂��B<br><br>��A���񋟂��Ȃ��Ă��A���܂��ܒm���Ă���l�����Ȃ����Ƃ�<br>����̂ŁA���܂艚�܂Ȃ��ł��������ˁB<br></font></ul>
+<a href="resbbs4_b@vew_1906.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>愛してナイチンゲール（今度予約しにいってきます。）</b>】</font>
+<ul><font size=3>ネチケットというほどモノはないでしょうけど、<br>とにかく、なるべく多くの情報、どんな細かな点も、書き込むことが<br>前提でしょう。<br>掲載誌やタイトル作者名が分かれば、初めから苦労はないでしょうから<br>スト－リーだけでも、しっかり書きましょう。<br>後、掲載誌のサイズとか、おおまかな絵柄でも、<br>けっこうと手がかりとなります。<br><br>やはりというべきか、ウケる／萌える内容というのは限られるだけに、<br>大まかな内容は似通ったものも多いですから。<br><br>例えば、姉弟の入れ替わりものだと、<br>ＣＨＡＮＧＥ！（暴威）ちぇえ～んじ（富秋悠）ＥＭＢＲＡＣＥ－桂名－（風鈴）<br>なんてありますし。<br><br>無論、情報提供があったら、ちゃんとお礼の書き込みはしましょう。<br>それと、売買コピーを含む作品譲渡依頼は、トラブルの原因になりやすいので、<br>ここには書き込まない方がいいと想います。<br><br>後、情報提供がなくても、たまたま知っている人がいないことも<br>あるので、あまり凹まないでくださいね。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1910>
-<font color=#6A5ACD>�x���Ȃ��Ă��݂܂���</font></a>
+<font color=#6A5ACD>遅くなってすみません</font></a>
 <font color=#303030>
-�꒵����
- ����</font>
- <font size=2>2003�N8��7��(��) 15��34��</font>
-<a href="resbbs4_b.cgi?vew=1910">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����܂���ł��B�����o���Ńl�b�g����a���ŕԓ����������Ȃ��Ă��܂��܂����B���ƂԂ��Ђ��邳�񂠂肪�Ƃ��������܂��B�G���T�C�Y�Ƃ����͖̂ӓ_�ł����B���h�^�o�^���Ă���̂Ŗ~�x�݂ɂȂ�����T�����̃J�L�R���܂��B</font></ul>
+縄跳佐助
+ さん</font>
+ <font size=2>2003年8月7日(木) 15時34分</font>
+<a href="resbbs4_b@vew_1910.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>すいませんです。只今出張でネットから疎遠で返答がおそくなってしまいました。ことぶきひかるさんありがとうございます。雑誌サイズというのは盲点でした。今ドタバタしているので盆休みになったら探しものカキコします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1911>
-<font color=#6A5ACD>RE:�x���Ȃ��Ă��݂܂���</font></a>
+<font color=#6A5ACD>RE:遅くなってすみません</font></a>
 <font color=#303030>
-�w�E�����l
- ����</font>
- <font size=2>2003�N8��8��(��) 1��21��</font>
-<a href="resbbs4_b.cgi?vew=1911">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b></b>�z</font>
-<ul><font size=3>�ǂ��Ȃ��Ă���̂��킩��Ȃ������̂ł��̂悤�ȃJ�L�R���܂����B<br>���ꂼ�ꎖ�����̂͂��Ⴀ�Ȃ����ǁA�Ԏ����V�J�g����l�����܂�ɂ�<br>�����̂ŁE�E�E�B������󂯂Ȃ��悤����΂��Ă��������B</font></ul>
+指摘した人
+ さん</font>
+ <font size=2>2003年8月8日(金) 1時21分</font>
+<a href="resbbs4_b@vew_1911.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b></b>】</font>
+<ul><font size=3>どうなっているのかわからなかったのであのようなカキコしました。<br>それぞれ事情があるのはしゃあないけど、返事をシカトする人があまりにも<br>多いので・・・。誤解を受けないようがんばってください。</font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=1909>
-<font color=#6A5ACD>RE:�{�����̃l�`�P�b�g���Ă���܂����H</font></a>
+<font color=#6A5ACD>RE:捜し物のネチケットってありますか？</font></a>
 <font color=#303030>
-�Œ���̃G�`�P�b�g��
- ����</font>
- <font size=2>2003�N8��7��(��) 0��48��</font>
-<a href="resbbs4_b.cgi?vew=1909">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�����Ɠǂ�łė~������</b>�z</font>
-<ul><font size=3>����̕Ԏ�����������炻��Ȃ�̑Ή������ׂ��B<br>�ԓ����Ȃ��ƃw�R�ނƌ������l���ԓ����Ȃ��Ƃ́B<br>�l�`�P�b�g�ǂ��̂����̌����ȑO�̘b���Ǝv�����E�E</font></ul>
+最低限のエチケットだ
+ さん</font>
+ <font size=2>2003年8月7日(木) 0時48分</font>
+<a href="resbbs4_b@vew_1909.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>ちゃんと読んでて欲しいな</b>】</font>
+<ul><font size=3>質問の返事をもらったらそれなりの対応をすべき。<br>返答がないとヘコむと言う当人が返答しないとは。<br>ネチケットどうのこうの言う以前の話だと思うが・・</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

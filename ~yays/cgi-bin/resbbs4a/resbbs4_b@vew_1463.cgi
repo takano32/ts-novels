@@ -1,119 +1,119 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���łɏo�Ă���̂ł��傤��>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:すでに出ているのでしょうか>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1463>
 <input type=hidden name=ress value=1463>
-<input type=submit value=���łɏo�Ă���̂ł��傤���֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=すでに出ているのでしょうかへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1463>
-<font color=#6A5ACD>���łɏo�Ă���̂ł��傤��</font></a>
+<font color=#6A5ACD>すでに出ているのでしょうか</font></a>
 <font color=#303030>
 NIS
- ����</font>
- <font size=2>2002�N7��10��(��) 7��48��</font>
-<a href="resbbs4_b.cgi?vew=1463">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2002年7月10日(水) 7時48分</font>
+<a href="resbbs4_b@vew_1463.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�͂��߂܂��āA���̃J�L�R�������Ă��������܂��B<br>�����̖ڊo�܂��e���r�Ō��Ă�����A����łs�r�̃X�g�[���[�̂��̂����J�����悤�ł��B<br>���r�h�q���񂪖�ŏ����ɂȂ������N�j����������Ƃ��E�E�E�E�E<br><br><a href=http://www.ensen100.net/event target=_top>http://www.ensen100.net/event</a>?F_DATA_CD=1757<br><br>�����o�Ă���b��Ȃ̂ł��傤���H<br></font></ul>
+<ul><br><font size=3>はじめまして、初のカキコをさせていただきます。<br>今日の目覚ましテレビで見ていたら、舞台でＴＳのストーリーのものが公開されるようです。<br>小池栄子さんが薬で女性になった中年男性を演じるとか・・・・・<br><br><a href=http://www.ensen100.net/event target=_top>http://www.ensen100.net/event</a>?F_DATA_CD=1757<br><br>もう出ている話題なのでしょうか？<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1464>
-<font color=#6A5ACD>���</font></a>
+<font color=#6A5ACD>情報</font></a>
 <font color=#303030>
-�r�V���b�v
- ����</font>
- <font size=2>2002�N7��10��(��) 20��45��</font>
-<a href="resbbs4_b.cgi?vew=1464">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�m�h�r����A�͂��߂܂��āB<br>���f���̂V���U���u�J�o�[�K�[���Y�v�Ƃ����^�C�g���̂Ƃ���Řb��ɂȂ��Ă܂���B�u���C�A�[�E�K�[���v�Ƃ�������ł��B<br>�����a�r�f�W�^�������������Ȃ�A<br>���̃^�C�g���̕������v�`�F�b�N���Ǝv���܂��B<br>���Ȃ݂Ɏ��͂��̋@�ɁA�ĕ����ɊԂɍ����悤�a�r�f�W�^���Ή��̃e���r���v�������Ĕ������Ⴈ�����Ȃ��Ǝv���Ă�Ƃ���ł��B����ł́B</font></ul>
+ビショップ
+ さん</font>
+ <font size=2>2002年7月10日(水) 20時45分</font>
+<a href="resbbs4_b@vew_1464.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ＮＩＳさん、はじめまして。<br>情報掲示板の７月６日「カバーガールズ」というタイトルのところで話題になってますよ。「ライアー・ガール」という舞台です。<br>もしＢＳデジタル放送が見れるなら、<br>このタイトルの放送も要チェックだと思います。<br>ちなみに私はこの機に、再放送に間に合うようＢＳデジタル対応のテレビを思いきって買っちゃおうかなぁと思ってるところです。それでは。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1484>
-<font color=#6A5ACD>RE:���łɏo�Ă���̂ł��傤��</font></a>
+<font color=#6A5ACD>RE:すでに出ているのでしょうか</font></a>
 <font color=#303030>
-�R���{
- ����</font>
- <font size=2>2002�N8��12��(��) 23��14��</font>
-<a href="resbbs4_b.cgi?vew=1484">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���C�A�[�E�K�[�����Ă��܂����B<br>�P�O���ɃX�J�C�p�[�t�F�N�g�s�u�@�V�A�^�[�E�e���r�W�����@�Q�U�Q�`�����l��<br>�Ńm�[�J�b�g���������邻���ł��B<br>�r�f�I�T�C�O�O�O�~�i�΁j���\��󂯕t���Ă���݂����ł��B<br>�l���P�v�����j���O�@�s�d�k�@03-5469-5280</font></ul>
+コルボ
+ さん</font>
+ <font size=2>2002年8月12日(月) 23時14分</font>
+<a href="resbbs4_b@vew_1484.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ライアー・ガール見てきました。<br>１０月にスカイパーフェクトＴＶ　シアター・テレビジョン　２６２チャンネル<br>でノーカット放送をするそうです。<br>ビデオ５，０００円（笑）も予約受け付けているみたいです。<br>ネルケプランニング　ＴＥＬ　03-5469-5280</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1485>
-<font color=#6A5ACD>RE:���łɏo�Ă���̂ł��傤��</font></a>
+<font color=#6A5ACD>RE:すでに出ているのでしょうか</font></a>
 <font color=#303030>
-�܂�
- ����</font>
- <font size=2>2002�N8��14��(��) 13��19��</font>
-<a href="resbbs4_b.cgi?vew=1485">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>������̕�������Ă��܂����B<br>�S�̓I�ɂ͏����ɂȂ��Ă��܂����Ӗ��̕`���������󔖂Ȃ̂�<br>�I�`�ւ̊֘A�����ア���Ȃ��Ǝv���܂��������C���e�[�}�͂��������<br>�������镑��ł�����^^<br> ���₵�����A���������r�h�q�A�������̂ł��ˁ[�B<br><br></font></ul>
+まつ
+ さん</font>
+ <font size=2>2002年8月14日(水) 13時19分</font>
+<a href="resbbs4_b@vew_1485.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>昨日この舞台を見てきました。<br>全体的には女性になってしまった意味の描き方がやや希薄なのと<br>オチへの関連つけが弱いかなぁと思いましたがメインテーマはしっかりと<br>感じられる舞台でしたよ^^<br> いやしかし、さすが小池栄子、すごい体ですねー。<br><br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1486>
-<font color=#6A5ACD>RE:���łɏo�Ă���̂ł��傤��</font></a>
+<font color=#6A5ACD>RE:すでに出ているのでしょうか</font></a>
 <font color=#303030>
 MASATO
- ����</font>
- <font size=2>2002�N8��14��(��) 14��40��</font>
-<a href="resbbs4_b.cgi?vew=1486">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����ق�ƌ����Ȍ����Łi���Ă��������Ӗ����ᖳ���H�j<br><br>�l�I�ɂ͂�����Ɗԉ��т��Ă邩�ȂƂ͎v���܂��������\�ǂ�����ł����ˁB<br>�������Ԃ̂R�l�Ŋ��\�����ĖႢ�܂����B<br>���d�F����͗\�肪���킸�c�O�ł������ǁA�߂������ɂ܂��V�тɂ����܂��傤�B<br></font></ul>
+ さん</font>
+ <font size=2>2002年8月14日(水) 14時40分</font>
+<a href="resbbs4_b@vew_1486.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>いやほんと見事な肩幅で（ってそういう意味じゃ無い？）<br><br>個人的にはちょっと間延びしてるかなとは思いましたが結構良い舞台でしたね。<br>同窓会状態の３人で堪能させて貰いました。<br>八重洲さんは予定があわず残念でしたけど、近いうちにまた遊びにいきましょう。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1487>
-<font color=#6A5ACD>RE:���łɏo�Ă���̂ł��傤��</font></a>
+<font color=#6A5ACD>RE:すでに出ているのでしょうか</font></a>
 <font color=#303030>
 <a href=mailto:aoki@gori.sh>Gori</a>
- ����</font>
- <font size=2>2002�N8��14��(��) 22��6��</font>
+ さん</font>
+ <font size=2>2002年8月14日(水) 22時6分</font>
 <a href=http://www.gori.sh target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1487">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>���ꂩ����</b>�z</font>
-<ul><font size=3>��������� (^^;<br>����Ȃ킯�ŁA���d�F�������������I�t��̊����R�l�Ō��ɍs���Ă��܂����B<br><br>�I�[�v�j���O�ł����Ȃ茩��������̂Ō������Ȃ��悤�Ɂi���<br><br>���ʌn�̂s�r�e���Đ������Ȃ���ɂقƂ�ǌ������Ƃ����������̂ł����A�\��<br>�[�����y���߂���e�ł����B<br>���r�h�q����̐������鉉�Z�������ł�����B<br>�i�ȍ~�͏��f���̕��ɁE�E�E�j</font></ul>
+<a href="resbbs4_b@vew_1487.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>入れかえ魂</b>】</font>
+<ul><font size=3>同窓会って (^^;<br>そんなわけで、八重洲さんを除く初回オフ会の幹事３人で見に行ってきました。<br><br>オープニングでいきなり見所があるので見逃さないように（苦笑<br><br>実写系のＴＳＦって数が少ない上にほとんど見たことが無かったのですが、十分<br>納得し楽しめる内容でした。<br>小池栄子さんの凄味ある演技が見事でしたよ。<br>（以降は情報掲示板の方に・・・）</font></ul>
 <HR>
 </ul>
 </ul>
@@ -121,7 +121,7 @@ MASATO
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

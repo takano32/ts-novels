@@ -1,156 +1,156 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1021568041mxtfao&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1021568041mxtfao_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�ؑタ���V���[�Y�@���z�f����</font><br>
+<font size="+2" color="#0000FF">華代ちゃんシリーズ　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=0&id=1010990944vqnpjma&ff=on" target="_blank">�ȑO�̌f���͂����� </a></strong>  <i>2002/05/17 01:54:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_0_id_1010990944vqnpjma_ff_on.cgi" target="_blank">以前の掲示板はこちら </a></strong>  <i>2002/05/17 01:54:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021568041mxtfao&id2=1021568041mxtfao&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021568041mxtfao_id2_1021568041mxtfao_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�ؑタ���V���[�Y�v�̊��z�͂�����ւǂ����B
+「華代ちゃんシリーズ」の感想はこちらへどうぞ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/kayo_chan/kayo_chan65.html" target="_blank">�u�q���̓��v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/05/17 19:46:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/kayo_chan/kayo_chan65.html" target="_blank">「子供の日」を読むにはここをクリック</a></strong>  <i>2002/05/17 19:46:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021632401kdsguci&id2=1021568041mxtfao&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021632401kdsguci_id2_1021568041mxtfao_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���������{�Ƃ̉ؑタ���A����Ă���邱�Ƃ��Ⴂ�܂��I(��)
+【推薦文】さすがご本家の華代ちゃん、やってくれることが違います！(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/17 21:39:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/17 21:39:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021639161xvsim&id2=1021568041mxtfao&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021639161xvsim_id2_1021568041mxtfao_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�E�E�E��ɂ���āA�^�邳�񂿂Łi���j�B<BR>�Ƃ����킯�Łi�ȉ����j<BR><BR>�i�O���j<BR>����͂��Ă���<BR>���ς�炸�ؑタ���͉ؑタ���ł��˂��i�΁j�B<BR>�ŋ��i�ŋ��H�j�ł���܂��B<BR>�������A����͖{�҂������Ƃ����̕��������[�������ł��˂��B<BR>�m���ɂ��̕ӂ͂ǂ��Ȃ�ł��傤�˂��B<BR>�Ȃ񂩁A�ˑ����������i�u�炢������v����˂������j�����g���ĉ�b���Ă�̂��Ǝv���܂����i���j�B<BR>�Ȃɂ͂Ƃ�����A�v�X�́u�{�ƔŁv�A�ō��ł����B
+読んだバイ♪<BR>・・・例によって、真城さんちで（爆）。<BR>というわけで（以下略）<BR><BR>（前略）<BR>それはさておき<BR>相変わらず華代ちゃんは華代ちゃんですねぇ（笑）。<BR>最強（最凶？）であります。<BR>しかし、今回は本編よりもあとがきの方が興味深かったですねぇ。<BR>確かにその辺はどうなんでしょうねぇ。<BR>なんか、戸増頼香ちゃん（「らいか大作戦」かわねぎさん作）が分身して会話してるのかと思いました（爆）。<BR>なにはともあれ、久々の「本家版」、最高でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kardy</strong>  <i>2002/05/17 22:54:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021643675ubxahqs&id2=1021568041mxtfao&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021643675ubxahqs_id2_1021568041mxtfao_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���W�c���]���E���̌�<BR>�E�E�E���]�������܂���(or���ꂿ�܂���)�l�́u���̌�v�ɂ��ẮA<BR>����l���ڂ����̂ŁA���̐l�ɔC�����܂��܂��傤�B<BR><BR>�E�E�E�˂��A�����Ԃ������
+＞集団性転換・その後<BR>・・・性転換しちまった(orされちまった)人の「その後」については、<BR>ある人が詳しいので、その人に任せちまいましょう。<BR><BR>・・・ねっ、こ○ぶきさん♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}</strong>  <i>2002/05/17 23:00:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ラマ</strong>  <i>2002/05/17 23:00:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021644034cegro&id2=1021568041mxtfao&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021644034cegro_id2_1021568041mxtfao_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>�ؑタ���A�v�X�̓o��ł����A<BR>�u�o�Ȕԍ�������܂肿���Ɗm�F���Ȃ������񂾂��ǁE�E�E�v<BR>�c���ς�炸�ؑタ���A�v�����݂œ˂�����܂��ˁ[�i��΁j<BR>����͔�Q�҂̊�]�͑S�R���������Ă��Ȃ��̂ɁA<BR>�u����[�A���������������͂Ƃ��Ă��C���������ł��ˁI�v<BR>���Ė������Ă邵�i�΁j<BR><BR>�Ƃ�����A������{�Ɖؑタ���̊���A���҂��đ҂��Ă��܂��B<BR>�����̓��[���h�J�b�v���ȁH�H
+読みました。<BR>華代ちゃん、久々の登場ですが、<BR>「出席番号をあんまりちゃんと確認しなかったんだけど・・・」<BR>…相変わらず華代ちゃん、思い込みで突っ走りますねー（苦笑）<BR>今回は被害者の希望は全然何も叶っていないのに、<BR>「いやー、いい事をした日はとっても気分がいいですね！」<BR>って満足してるし（笑）<BR><BR>ともあれ、今後も本家華代ちゃんの活躍、期待して待っています。<BR>＊次はワールドカップかな？？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/05/17 23:52:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/05/17 23:52:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021647138vkltv&id2=1021568041mxtfao&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021647138vkltv_id2_1021568041mxtfao_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āA�d�g�d�����Ɓc�m�C���ł��B<BR>�ǂ݂܂����B���ꂪ�{����񂩁c<BR>�c�c<BR>�c<BR>�c�Ȃ�āc�Ȃ�ĕs�𗝂Ȃ񂾁B���ɍŌ�̈ꌾ�w����̓T�[�r�X���Ă������Ⴂ�܂����B���ցx�@�Ƃ����̂����܂�܂���B�ؑタ��񂷂���������c�c
+はじめまして、電波妖精こと…ノインです。<BR>読みました。これが本場もんか…<BR>……<BR>…<BR>…なんて…なんて不条理なんだ。特に最後の一言『今回はサービスしてあげちゃいました。えへ』　というのがたまりません。華代ちゃんすごすぎだよ……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^��@�I</strong>  <i>2002/05/18 02:00:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真城　悠</strong>  <i>2002/05/18 02:00:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021654839qwuuxi&id2=1021568041mxtfao&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021654839qwuuxi_id2_1021568041mxtfao_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������W�S�Q�U����<BR>�@���������b�ɂȂ��Ă���܂��i^^�B<BR>�����ς�炸�ؑタ���͉ؑタ���ł��˂��i�΁j�B<BR>�@����͂�S�����̒ʂ�ł��āE�E�E�ł��؂₩�ȋ������Ȃ��A�Ǝv������B���Ȃ݂ɍ���͐E�Ɛ����R���N�V�����݂����Ȃ����Ⴄ�ł��傤�ˁB�����āu�����o�j�[�K�[���ɂȂ肽���v�Ȃ�ď��w���̏��̎q�͂��Ȃ��ł��傤���E�E�E<BR><BR>��kardy����<BR>���E�E�E���]�������܂���(or���ꂿ�܂���)�l�́u���̌�v�ɂ��ẮA����l���ڂ����̂ŁA���̐l�ɔC�����܂��܂��傤�B<BR>���E�E�E�˂��A�����Ԃ������ <BR>�@���A�����Ȃ�ł����H�i�h�L�h�L�j<BR><BR>�����}����<BR>���c���ς�炸�ؑタ���A�v�����݂œ˂�����܂��ˁ[�i��΁j<BR>�@�͂��B�����������Ȃ̂Łi^^;;�B<BR>�@���܂ɂ̓L�`���Ƒ���̊肢�𕷂��Ă�����ؑタ���Ƃ��E�E�E�͂���͖ʔ����Ȃ����i���j<BR><BR>������͔�Q�҂̊�]�͑S�R���������Ă��Ȃ��̂ɁA<BR>�@���ɂ͓K���Ă���P�[�X����������E�E�E�H�H�H<BR>�@���Ȃ݂Ɂu���N����l�̏����v�Ƃ����ϐg�͂��Ȃ�S�{�ȕ��ނł��ˁB��Ȃ���B<BR><BR>�����̓��[���h�J�b�v���ȁH�H <BR>�@����͂ǂȂ����ɂ��C�����܂��傤�i^^�B<BR><BR>���m�C���i�d�g�d���j����<BR>���ǂ݂܂����B���ꂪ�{����񂩁c<BR>���c�c<BR>���c<BR>���c�Ȃ�āc�Ȃ�ĕs�𗝂Ȃ񂾁B<BR>�@�n�b�L�������čō��̖J�ߌ��t�ł��i^^�B<BR>�@�ؑタ���ȂǂƂ����W�����������߂ēǂ񂾕��͗]��̖����ꒃ�ȓ��e�ɖڂ��_�ɂȂ��Ă��������邱�Ƃł��傤�B<BR>�@���Ȃ݂Ɏ��́u�΂������邷�܂�v�̌㔼�́u���ʉ���^�v�̓W�J������܂�D���ł͂���܂���B<BR>�@�u���ɂ������������Ă��Ȃ��l���A���̗��R�������q�h�C�ڂɑ����v���Ă̂��s�𗝂ł����񂶂�Ȃ��ł����I�i�f���I�j<BR><BR>�����ɍŌ�̈ꌾ�w����̓T�[�r�X���Ă������Ⴂ�܂����B���ցx�@�Ƃ����̂����܂�܂���B�ؑタ��񂷂���������c�c<BR>�@����[�A�L��������܂��B<BR>�@���x�ؑタ���h�����č����グ�܂��̂ŉ��ł��Y�݂�ł�����������Ă��������i^^�B
+＞ｍｋ８４２６さん<BR>　いつもお世話になっております（^^。<BR>＞相変わらず華代ちゃんは華代ちゃんですねぇ（笑）。<BR>　いやはや全くその通りでして・・・でも華やかな教室だなあ、と思ったり。ちなみに今回は職業制服コレクションみたくなっちゃうでしょうね。だって「将来バニーガールになりたい」なんて小学生の女の子はいないでしょうし・・・<BR><BR>＞kardyさん<BR>＞・・・性転換しちまった(orされちまった)人の「その後」については、ある人が詳しいので、その人に任せちまいましょう。<BR>＞・・・ねっ、こ○ぶきさん♪ <BR>　そ、そうなんですか？（ドキドキ）<BR><BR>＞ラマさん<BR>＞…相変わらず華代ちゃん、思い込みで突っ走りますねー（苦笑）<BR>　はい。そういう娘なので（^^;;。<BR>　たまにはキチンと相手の願いを聞いてあげる華代ちゃんとか・・・はそれは面白くないか（爆）<BR><BR>＞今回は被害者の希望は全然何も叶っていないのに、<BR>　中には適っているケースもあったり・・・？？？<BR>　ちなみに「少年→大人の女性」という変身はかなり鬼畜な部類ですね。我ながら。<BR><BR>＞次はワールドカップかな？？ <BR>　これはどなたかにお任せしましょう（^^。<BR><BR>＞ノイン（電波妖精）さん<BR>＞読みました。これが本場もんか…<BR>＞……<BR>＞…<BR>＞…なんて…なんて不条理なんだ。<BR>　ハッキリ言って最高の褒め言葉です（^^。<BR>　華代ちゃんなどというジャンルを初めて読んだ方は余りの無茶苦茶な内容に目が点になっていらっしゃることでしょう。<BR>　ちなみに私は「笑うせえるすまん」の後半の「因果応報型」の展開があんまり好きではありません。<BR>　「何にも悪い事をしていない人が、何の理由も無くヒドイ目に遭う」ってのが不条理でいいんじゃないですか！（断言！）<BR><BR>＞特に最後の一言『今回はサービスしてあげちゃいました。えへ』　というのがたまりません。華代ちゃんすごすぎだよ……<BR>　いやー、有難うございます。<BR>　今度華代ちゃん派遣して差し上げますので何でも悩みを打ち明けちゃってください（^^。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/18 06:35:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/18 06:35:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021671334tdxoe&id2=1021568041mxtfao&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021671334tdxoe_id2_1021568041mxtfao_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>���΂炵�����x���c�S
+すばらしい、実にすばらしい<BR>すばらしいレベル…４
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���C�^�[�}��</strong>  <i>2002/05/18 10:00:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ライターマン</strong>  <i>2002/05/18 10:00:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021683629velepf&id2=1021568041mxtfao&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021683629velepf_id2_1021568041mxtfao_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂ă��X�����Ă��炢�܂��B<BR>��΂����Ă��܂��܂����B<BR>�����ʂ��ɓo��A����ɔ[���A�����čŌ�Ɏc��͍̂����Ɖؑタ���̏Ί�̂݁B<BR>�ؑタ���炵���唚���I�I���ĂȊ����ł����B<BR><BR>���ꂩ�炠�Ƃ����ɂ������u�W�c���]���̂��̌�v�Ƃ����̂ɂ����������܂����B<BR>���̂ŋ��t�Ɛ��k���S�������ɂȂ����w�Z�ł̘b�A�Ȃ�đz�������肵�āB<BR>�����A�X�g�[���[�o���܂����狖���̃��[�����o���܂���ŁA���̎��͂�낵���B
+はじめてレスさせてもらいます。<BR>大笑いしてしまいました。<BR>だしぬけに登場、勝手に納得、そして最後に残るのは混乱と華代ちゃんの笑顔のみ。<BR>華代ちゃんらしさ大爆発！！ってな感じでした。<BR><BR>それからあとがきにあった「集団性転換のその後」というのにも興味持ちました。<BR>事故で教師と生徒が全員女性になった学校での話、なんて想像したりして。<BR>もし、ストーリー出来ましたら許可取りのメールを出しますんで、その時はよろしく。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/05/19 15:29:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>龍酒</strong>  <i>2002/05/19 15:29:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021789785lffeyv&id2=1021568041mxtfao&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021789785lffeyv_id2_1021568041mxtfao_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�𗝂Ƃ������̂̈Ӗ��𗝉������Ă��������܂����B<BR>��͂�{�Ƃ͂������ł��ˁB<BR><BR>���A�����<BR>������͏o����T�[�r�X<BR>�o���ł���ˁH�������B��������̂�����D���Ă����܂���<BR>
+不条理というものの意味を理解させていただきました。<BR>やはり本家はすごいですね。<BR><BR>あ、それと<BR>＞今回は出欠大サービス<BR>出血ですよね？たしか。ｍｋさんのお株を奪ってすいません<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���_�h�q�d��</strong>  <i>2002/05/21 12:12:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>拠点防衛妖精</strong>  <i>2002/05/21 12:12:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021950727tvqioe&id2=1021568041mxtfao&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021950727tvqioe_id2_1021568041mxtfao_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�ؑタ���V���[�Y�E�q���̓��z<BR>�ϐg���ׂ̍����`�ʂ��f���炵���ł��ˁB<BR>�������ؑタ���E�E�E���ς�炸�̐Z�o��v�A�����Ă����̖\���H�i��<BR>�ƂĂ��y���߂܂����B<BR>����k�́E�E�E�ǂ��Ȃ�ł��傤�˂��B�ǂ�ł݂����Ƃ͎v���܂����ǁA�����ŏ����͓̂�����ȁi�|�|�G
+【華代ちゃんシリーズ・子供の日】<BR>変身時の細かい描写が素晴らしいですね。<BR>しかし華代ちゃん・・・相変わらずの浸出奇没、そしていつもの暴走？（ｗ<BR>とても楽しめました。<BR>後日談は・・・どうなんでしょうねえ。読んでみたいとは思いますけど、自分で書くのは難しいかな（－－；
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^��@�I</strong>  <i>2002/05/22 00:01:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真城　悠</strong>  <i>2002/05/22 00:01:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021993266fghvu&id2=1021568041mxtfao&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021993266fghvu_id2_1021568041mxtfao_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̔z�B�l����<BR>�����΂炵���A���ɂ��΂炵���@���΂炵�����x���c�S<BR>�@�L��������܂��i^^�B<BR>�@���͂����Ə�̃��x����ڎw���Ċ撣��܂��B<BR><BR>�����C�^�[�}��<BR>�������ʂ��ɓo��A����ɔ[���A�����čŌ�Ɏc��͍̂����Ɖؑタ���̏Ί�̂݁B<BR>���ؑタ���炵���唚���I�I���ĂȊ����ł����B<BR>�@�ނӂӁA�L��������܂��B<BR>�@���\���肻�œo�ꂵ�Ă��Ȃ��������������ł���܂����B<BR><BR>�����ꂩ�炠�Ƃ����ɂ������u�W�c���]���̂��̌�v�Ƃ����̂ɂ����������܂����B���̂ŋ��t�Ɛ��k���S�������ɂȂ����w�Z�ł̘b�A�Ȃ�đz�������肵�āB<BR><BR>�@���A�G����V�`���G�[�V�����ł��˂��i*^^*�B<BR>�@���������Ίw�Z�����]���͂�������イ����Ă܂����i�����j�A�搶�܂ł�������Ƃ͂���܂���ł����B�L�b�J�P��������炩�ȁH<BR><BR>�������A�X�g�[���[�o���܂����狖���̃��[�����o���܂���ŁA���̎��͂�낵���B<BR>�@�u�ԊO�ҁv�Ƃ������ƂɂȂ邩�Ǝv���܂����ǁA�������ł��Ă���������΋����̃��[���Ȃ�ĕs�v�ł���i^^�B<BR>�@�^����ɓǂ݂���������͂��܂����ǁi���j<BR><BR>����������<BR>���s�𗝂Ƃ������̂̈Ӗ��𗝉������Ă��������܂����B<BR>����͂�{�Ƃ͂������ł��ˁB<BR>�@�u�{�Ɓv�Ȃ�Č�����Ɩʉf���ł����o����΂��ꂭ�炢�n�`�����`�����Ƃ����Ȃ��E�E�E�Ƃ͏�Ɏv���Ă���܂��B�n�C�B<BR><BR>�����_�h�q�d������<BR>���ϐg���ׂ̍����`�ʂ��f���炵���ł��ˁB<BR>�@�����ł����H���ɂ��Ă͂��Ȃ肠������ڂ�������ł����ǂˁi^^�B<BR><BR>������k�́E�E�E�ǂ��Ȃ�ł��傤�˂��B�ǂ�ł݂����Ƃ͎v���܂����ǁA�����ŏ����͓̂�����ȁi�|�|�G <BR>�@�����Ȃ��Ă��z�����邾���ł����\�y�����ł���B
+＞夢の配達人さん<BR>＞すばらしい、実にすばらしい　すばらしいレベル…４<BR>　有難うございます（^^。<BR>　次はもっと上のレベルを目指して頑張ります。<BR><BR>＞ライターマン<BR>＞だしぬけに登場、勝手に納得、そして最後に残るのは混乱と華代ちゃんの笑顔のみ。<BR>＞華代ちゃんらしさ大爆発！！ってな感じでした。<BR>　むふふ、有難うございます。<BR>　結構ありそで登場していなかったきっかけでありました。<BR><BR>＞それからあとがきにあった「集団性転換のその後」というのにも興味持ちました。事故で教師と生徒が全員女性になった学校での話、なんて想像したりして。<BR><BR>　を、萌えるシチュエーションですねえ（*^^*。<BR>　そういえば学校中性転換はしょっちゅうやってますが（おい）、先生までやったことはありませんでした。キッカケが難しいからかな？<BR><BR>＞もし、ストーリー出来ましたら許可取りのメールを出しますんで、その時はよろしく。<BR>　「番外編」ということになるかと思いますけど、そう銘打っていただければ許可取りのメールなんて不要ですよ（^^。<BR>　真っ先に読みたかったりはしますけど（爆）<BR><BR>＞龍酒さん<BR>＞不条理というものの意味を理解させていただきました。<BR>＞やはり本家はすごいですね。<BR>　「本家」なんて言われると面映いですが出来ればこれくらいハチャメチャだといいなあ・・・とは常に思っております。ハイ。<BR><BR>＞拠点防衛妖精さん<BR>＞変身時の細かい描写が素晴らしいですね。<BR>　そうですか？私にしてはかなりあっさり目だったんですけどね（^^。<BR><BR>＞後日談は・・・どうなんでしょうねえ。読んでみたいとは思いますけど、自分で書くのは難しいかな（－－； <BR>　書かなくても想像するだけでも結構楽しいですよ。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1021568041mxtfao">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

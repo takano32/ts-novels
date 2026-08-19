@@ -119,7 +119,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 引っ越し前のURI<br>
 <br>
-<a href=http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&amp;f=11&amp;id=972049183tvgrry&amp;ff=on target=_top>http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&amp;f=11&amp;id=972049183tvgrry&amp;ff=on</a><br>
+<a href=../../~ezpe/cgi-bin/noteky/noteky@c_noteread_amp_f_11_amp_id_972049183tvgrry_amp_ff_on.cgi target=_top>../../~ezpe/cgi-bin/noteky/noteky@c_noteread_amp_f_11_amp_id_972049183tvgrry_amp_ff_on.cgi</a><br>
 <br>
 に寄せられたみなさんの読後感想のリキ入っていることも強く印象に残ってます。<br>
 <br>

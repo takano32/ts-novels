@@ -1,166 +1,166 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1011022277dmrsd&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1011022277dmrsd_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">Irregular�@Girl(s)�@No�D4</font><br>
+<font size="+2" color="#0000FF">Irregular　Girl(s)　No．4</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=994776448jfovsv&f" target="_blank">�ȑO�̌f���͂�����</a></strong>  <i>2002/01/15 00:31:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ezpe/cgi-bin/noteky/noteky@c_noteread_f_11_id_994776448jfovsv_f.cgi" target="_blank">以前の掲示板はこちら</a></strong>  <i>2002/01/15 00:31:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011022277dmrsd&id2=1011022277dmrsd&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011022277dmrsd_id2_1011022277dmrsd_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Irregular Girl(s)�ւ̊��z�͂�����ւ��肢�������܂��B<BR><BR>�ԓ����o���Ȃ��Ȃ����̂ō�����Ⴂ�܂������i��[�ӂ����j
+Irregular Girl(s)への感想はこちらへお願いいたします。<BR><BR>返答が出来なくなったので作っちゃいましたｗ（るーふぁす）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2002/01/15 00:36:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2002/01/15 00:36:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011022586qsnjp&id2=1011022277dmrsd&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011022586qsnjp_id2_1011022277dmrsd_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�͂�����ł����̂ł��傤���`�H�����n�߂܂��Ă��Ǝv���܂��B<BR>�ǂ����I�s�E�g�ł��B���z�����������Ă��܂��ˁ`�I�������ł��I<BR>���āA��i�ǂ܂��Ă��������܂����B���܂œǂ�ł��Ȃ������̂ł����A�ԊO�ҁi�H�j���܂߂Ă܂Ƃ߂ēǂ܂��Ă��������܂����I<BR>�Ȃ��Ȃ��������낢�ł��ˁ`�I���������ɋC�ɂȂ�܂��B<BR>���̃}�W�V��������ł����ł��ˁB���ꂩ��̓W�J���ǂ��Ȃ��Ă��܂���ł��傤�H���������҂��Ă���܂��B<BR>
+感想はこちらでいいのでしょうか～？多分始めましてだと思います。<BR>どうも！Ｔ・Ｈです。感想がすごいきていますね～！すごいです！<BR>さて、作品読ませていただきました。今まで読んでいなかったのですが、番外編（？）も含めてまとめて読ませていただきました！<BR>なかなかおもしろいですね～！続きが非常に気になります。<BR>あのマジシャンも謎でいいですね。これからの展開がどうなってしまうんでしょう？続きも期待しております。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2002/01/15 00:49:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2002/01/15 00:49:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011023382oilasf&id2=1011022277dmrsd&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011023382oilasf_id2_1011022277dmrsd_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����E�E�E�Ԉ���Ă�E�E�E�E�E<BR>�������Ȃ��i�O�O�G<BR>�����x���Ȃ��΁A���̂܂܂ł�낵�����肢���܂��B<BR>��������A�폜���Ă��������B<BR>���Ă��ƂŁA������邩������܂��񂪕ԓ����i�O�O�G<BR><BR>�݂Ȃ��܁A�ǂ�ł��������Ă��肪�Ƃ��������܂��B<BR><BR>�������@�������l<BR>���Ƃ肠�������h�ҏI���Ƃ������Ƃł΂߂����Ƃ͂������񂨕ʂ�Ȃ̂��ȁH<BR>�����ł��Ȃ������ł��B�����ɂ����邩������܂���i��<BR>���񂩂�A�G�a�Ƃ̃o�C�g�҂Ȃ̂ło�b�����Ƃ͂��΂炭����Ƃ��o���Ȃ������ł����i�O�O�G<BR><BR>��ܗl<BR>���݂܂���A���҂�����������āi�O�O�G<BR>�ċx�݂́A�o�C�g�҂�����̂ł����������������܂��B<BR>�o�r.���Ă�炵���ł����A�Ƃ肠�����b�ł͓o�ꂵ�ĂȂ��ł��i�O�O�G<BR><BR>�l�����l<BR>�͂́E�E�E���������ƁA�ł��ԈႢ�����ł��ˁE�E�E<BR>�i���Ă��A���ɒ��ő��ł���ˁE�E�E�E�E�j<BR>���ꂩ��́A�C������Ƌ��Ƀ~�X�����Ȃ����Ă����܂��B<BR>�����ւ��ł����A�o���邾�����������ď��������肢���Ă����܂��B<BR>���w�E�A���肪�Ƃ��������܂����B
+ああ・・・間違ってる・・・・・<BR>困ったなあ（＾＾；<BR>差し支えなくば、このままでよろしくお願いします。<BR>あったら、削除してください。<BR>ってことで、消されるかもしれませんが返答を（＾＾；<BR><BR>みなさま、読んでいただいてありがとうございます。<BR><BR>あおき　あきお様<BR>＞とりあえず合宿編終了ということでつばめちゃんとはいったんお別れなのかな？<BR>そうでもないかもです。すぐにあえるかもしれません（笑<BR>次回から、秀和とのバイト編なのでＰＣ部員とはしばらく会うことが出来ないかもですが（＾＾；<BR><BR>らま様<BR>すみません、お待たせしちゃって（＾＾；<BR>夏休みは、バイト編があるのでもう少しだけ続きます。<BR>ＰＳ.来てるらしいですが、とりあえず話では登場してないです（＾＾；<BR><BR>Ｍｉｃ様<BR>はは・・・今見直すと、打ち間違い多いですね・・・<BR>（ってか、文庫中最多ですよね・・・・・）<BR>これからは、気をつけると共にミスを少なくしていきます。<BR>差し替えですが、出来るだけ早く直して少しずつお願いしていきます。<BR>ご指摘、ありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2002/01/15 00:58:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2002/01/15 00:58:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011023938envsolw&id2=1011022277dmrsd&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011023938envsolw_id2_1011022277dmrsd_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�E�g�l<BR>�͂��߂܂��āA�ǂ�ł��������Ă��肪�Ƃ��������܂��B<BR>�����z�����������Ă��܂��ˁ`�I<BR>�����A������ԋ����Ă����肵�Ă܂��i�O�O�G<BR>�F����̊��z��ǂނƁA���������΂��ď��������Ďv���܂���ˁB<BR>�ǎ҂̊F����A�{���ɂ��肪�Ƃ��������܂��B
+Ｔ・Ｈ様<BR>はじめまして、読んでいただいてありがとうございます。<BR>＞感想がすごいきていますね～！<BR>ええ、私が一番驚いていたりしてます（＾＾；<BR>皆さんの感想を読むと、次回もがんばって書くぞって思いますよね。<BR>読者の皆さん、本当にありがとうございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/01/15 04:34:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/01/15 04:34:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011036865yfwfngv&id2=1011022277dmrsd&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011036865yfwfngv_id2_1011022277dmrsd_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�뎚�E���̌��ł����A����`��\��܂ł̏C�����I���܂����B<BR>�i�܂��Ԉ���Ă邼�[���Ăȏꍇ�͉������������Ă��������j<BR><BR>�ҏW�̒i�K�ŋC�t�������̂͏C�������ł����A�E���R�ꂪ���݂��邱�Ƃ����X����܂��i�����܂���j�B<BR>�ԈႢ�ȂǂɋC�t�����Ƃ��͂��̊��z�{�[�h�Ȃǂŋ����Ă����������猋�\���Ǝv���܂��B�C�t�����^�c�ψ����Ώ����܂��B<BR><BR>�ԊO�҂�The past days�̂ق��͂����������҂��������B
+誤字脱字の件ですが、第一回～第十回までの修正が終わりました。<BR>（まだ間違ってるぞーってな場合は遠慮無く言ってください）<BR><BR>編集の段階で気付いたものは修正するんですが、拾い漏れが存在することも多々あります（すいません）。<BR>間違いなどに気付いたときはこの感想ボードなどで挙げてくださったら結構かと思います。気付いた運営委員が対処します。<BR><BR>番外編のThe past daysのほうはもう少しお待ち下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���b�Ă��ǎ�</strong>  <i>2002/01/15 10:10:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>世話焼き読者</strong>  <i>2002/01/15 10:10:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011057015srjuuo&id2=1011022277dmrsd&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011057015srjuuo_id2_1011022277dmrsd_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���^�c�ψ��l<BR>�����̃^�C�g���\�������ł��܂��񂩁H<BR>�C���f�b�N�X�Ō����牽�̍�i���킩��Ȃ������i�΁j�B<BR>
+＞運営委員様<BR>ここのタイトル表示訂正できませんか？<BR>インデックスで見たら何の作品かわからなかった（笑）。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���b�Ă��ǎ�</strong>  <i>2002/01/15 10:14:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>世話焼き読者</strong>  <i>2002/01/15 10:14:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011057295aaikbeb&id2=1011022277dmrsd&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011057295aaikbeb_id2_1011022277dmrsd_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����[�ӂ�������<BR>�u�薼�v�̂Ƃ��낪�X���b�h�̃^�C�g���i�ʏ�͍�i���܂��̓V���[�Y���j�ɂȂ�̂ł���B<BR>�u���O�v�̂Ƃ���ɂ́A�ʏ�u�ȑO�̌f���͂�����v�Ɠ����Ƃ����̂ł��B<BR>�ŁA�uURL�v�ɋ��f���̃A�h���X�𓊂�����ł��ƃ����N�������Ƃ����킯�ł��ˁB<BR>�ł�ł�B
+＞るーふぁすさん<BR>「題名」のところがスレッドのタイトル（通常は作品名またはシリーズ名）になるのですよ。<BR>「名前」のところには、通常「以前の掲示板はこちら」と入れるといいのです。<BR>で、「URL」に旧掲示板のアドレスを投げ込んでやるとリンクが張れるというわけですね。<BR>でわでわ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/01/15 23:23:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/01/15 23:23:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011104625ohsgmh&id2=1011022277dmrsd&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011104625ohsgmh_id2_1011022277dmrsd_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-The past days�A�O�Ҍ�҂Ƃ��C�����I���܂����B<BR><BR>�����b�Ă��ǎ҂���<BR>�������낢��Ƃ��肪�Ƃ��������܂��B<BR>���z�{�[�h�̃^�C�g���̏C���́c��i�f�ڂȂǂ̂b�f�h�Ƃ͕ʕ��Ȃ̂ŁA�^�c�ψ��ł͂����Ȃ���ł���B<BR>�C���ł��邩�ǂ��������˂Ă݂܂��B
+The past days、前編後編とも修正し終わりました。<BR><BR>＞世話焼き読者さん<BR>いつもいろいろとありがとうございます。<BR>感想ボードのタイトルの修正は…作品掲載などのＣＧＩとは別物なので、運営委員ではさわれないんですよ。<BR>修正できるかどうかたずねてみます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2002/01/16 01:45:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2002/01/16 01:45:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011113112ogqafr&id2=1011022277dmrsd&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011113112ogqafr_id2_1011022277dmrsd_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���b�Ă��ǎ҂��܁A�^�c�ψ��̕��X�����f���������Ă��݂܂���<BR>�o�^�̎d��������ƁA�����ł��܂����i�O�O�G<BR>���x�����A�s���@���������C�����܂��B<BR><BR>�ł͂ł́E�E�E
+世話焼き読者さま、運営委員の方々ご迷惑おかけしてすみません<BR>登録の仕方がやっと、理解できました（＾＾；<BR>今度もし、行う機会があったら気をつけます。<BR><BR>ではでは・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/01/24 00:53:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/01/24 00:53:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011801205wavnam&id2=1011022277dmrsd&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011801205wavnam_id2_1011022277dmrsd_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�悤�₭�ǂ݂܂����B<BR>���������ċڍ������A�ČN�̂��Ƃ��D���Ȃ̂��ȁH�@����̊��z�͂���ɂ��܂��B���������āA����̓W�J�Ƃ��ĕS���Ȃ��b���c�c�B�Ɗ��҂��Ă��܂��܂����B
+ようやく読みました。<BR>もしかして芹香ちゃん、翔君のことが好きなのかな？　今回の感想はそれにつきます。もしかして、今後の展開として百合なお話も……。と期待してしまいました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/25232258/tsubame.html" target="_blank">�΂ߊG���L������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/26 00:44:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/25232258/tsubame.html" target="_blank">つばめ絵日記を見るにはここをクリック。</a></strong>  <i>2002/01/26 00:44:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011973470bthlqc&id2=1011022277dmrsd&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011973470bthlqc_id2_1011022277dmrsd_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����ɗ�����Ă��܂��΂߂������Ƃ��Ă���B����Ȃ��Ƃ����Ă��Ă����̂��ȁH 
+【推薦文】周りに流されてしまうつばめちゃんもとい翔くん。こんなことをしていていいのかな？ 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=0&id=1011968147kdvhrob&ff=on" target="_blank">������̃X���b�h�ւ��z��������</a></strong>  <i>2002/01/26 06:08:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_0_id_1011968147kdvhrob_ff_on.cgi" target="_blank">こちらのスレッドへお越し下さい</a></strong>  <i>2002/01/26 06:08:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011992931iquoy&id2=1011022277dmrsd&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011992931iquoy_id2_1011022277dmrsd_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�X���b�h���Q����悤�Ȃ̂ŁA���ꂵ�܂��傤�B<BR>��́A���O�̕������N���b�N���āA���ŉ������B<BR>�i���b�Ă��ǎҁj
+スレッドが２つあるようなので、統一しましょう。<BR>上の、名前の部分をクリックして、飛んで下さい。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�`���R�x�[-</strong>  <i>2002/02/07 18:05:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>チョコベー-</strong>  <i>2002/02/07 18:05:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013072733nckay&id2=1011022277dmrsd&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013072733nckay_id2_1011022277dmrsd_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��l��z�Ȃ񂩁A�z���g�ɂ��肻���Șb�ł��@�@��������A�ǂ��Ȃ����̂��m�肽���ł��I�I�I�@�@�q�����z���g�ɐ��񂾂̂��H�H�H�@�@�j�ɖ߂����̂��@�@�䂾�H�H�H
+【第四回】なんか、ホントにありそうな話です　　ここから、どうなったのか知りたいです！！！　　子供をホントに生んだのか？？？　　男に戻ったのか　　謎だ？？？
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1011022277dmrsd">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,62 +1,62 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=1&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_1_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=1&id=1013912357shtpx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">��˒[�t�H�[����</a>]<br>
+[<a href="noteky@c_noteread_f_1_id_1013912357shtpx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">井戸端フォーラム</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�c��</font><br>
+<font size="+2" color="#0000FF">幼女</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kazuyoshi</strong>  <i>2002/02/17 11:19:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013912357shtpx&id2=1013912357shtpx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013912357shtpx_id2_1013912357shtpx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�c���F�P�c�������A���̎q<BR>�@�@�@�Q�����ɐ��藧�Ă̒j��
+幼女：１幼い少女、女の子<BR>　　　２女性に成り立ての男性
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤</strong>  <i>2002/03/20 02:26:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう</strong>  <i>2002/03/20 02:26:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016558807hrhbh&id2=1013912357shtpx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016558807hrhbh_id2_1013912357shtpx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-TS�厫�T�����낤�I�ւ̏������݂ł��傤���H<BR>����Ȃ�΁A<BR><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002023656ucmwd&ff=on" target="_blank">http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1002023656ucmwd&ff=on</a><BR>������̕��Řb���i��ł��܂��̂ŁA��LURL�̕��ɏ�������ł�������΍K���ł��B<BR><BR><BR>���������܂�Ă�̂Ɉꃖ�����C�t���܂���ł���(^^;)
+TS大辞典をつくろう！への書き込みでしょうか？<BR>それならば、<BR><a href="noteky@c_noteread_f_1_id_1002023656ucmwd_ff_on.cgi" target="_blank">noteky@c_noteread_f_1_id_1002023656ucmwd_ff_on.cgi</a><BR>こちらの方で話が進んでいますので、上記URLの方に書き込んでくだされば幸いです。<BR><BR><BR>＃書き込まれてるのに一ヶ月も気付きませんでした(^^;)
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="1013912357shtpx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">��˒[�t�H�[����</a>]<br>
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">井戸端フォーラム</a>]<br>
 
 </p>
 </body>

@@ -1,105 +1,105 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1015776932dxfwax&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1015776932dxfwax_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���̉ɐl�����i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">自称暇人さん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/03/11 01:15:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/03/11 01:15:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015776932dxfwax&id2=1015776932dxfwax&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015776932dxfwax_id2_1015776932dxfwax_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������ł��B
+準備中です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/11013333/isourou.html" target="_blank">�u����v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/11 01:37:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/11013333/isourou.html" target="_blank">「居候」を読むにはここをクリック</a></strong>  <i>2002/03/11 01:37:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015778245htsrlj&id2=1015776932dxfwax&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015778245htsrlj_id2_1015776932dxfwax_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z��Q�f���Ŋ���Ȃ����Ă��鎩�̉ɐl����̍�i�ł��B<BR>�����������̉Ƃɋ���c���₟�A���Ȃ�T���Ń{�����o�����ł�(��)�B
+【推薦文】第２掲示板で活躍なさっている自称暇人さんの作品です。<BR>自分が自分の家に居候…いやぁ、私なら５分でボロが出そうです(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/11 06:46:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/11 06:46:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015796787vrsqyuv&id2=1015776932dxfwax&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015796787vrsqyuv_id2_1015776932dxfwax_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށA�Ȃ��Ȃ��ʔ����ł��˂��B<BR>���̎����̉Ƃɑ��l�Ƃ��ċ���ł����B�m���Ƀ{�����o�����ł����A���̓x�Ɂu���̐��v��������ł���Ȃ牽�Ƃ��Ȃ邩�ȁi�΁j�B<BR>�Ȃ��Ȃ����͓I�Ȃ��b�ł��B������ǂ�ł݂����ł��ˁB
+読んだバイ♪<BR>うーむ、なかなか面白いですねぇ。<BR>元の自分の家に他人として居候ですか。確かにボロが出そうですが、その度に「あの声」が浮かんでくるなら何とかなるかな（笑）。<BR>なかなか魅力的なお話です。続きを読んでみたいですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/11 09:31:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/11 09:31:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015806707tvxqu&id2=1015776932dxfwax&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015806707tvxqu_id2_1015776932dxfwax_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����<BR>���ꂩ��w���Ɓx���ł��ǂ݂��������Ȃ̂ŁA�������������ł��ˁB<BR>����͂�A����ɂ��Ă���̐����Ĉ�́c<BR>
+読みました♪<BR>これから『あと』が最も読みたい部分なので、続きが見たいですね。<BR>いやはや、それにしても謎の声って一体…<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���I</strong>  <i>2002/03/13 01:00:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>沙紀</strong>  <i>2002/03/13 01:00:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015948821guqgpp&id2=1015776932dxfwax&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015948821guqgpp_id2_1015776932dxfwax_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y����z�������`��I�I�I<BR>�߂��Ⴍ���ᑱ�����C�ɂȂ邶��Ȃ��ł����I�I�I
+【居候】うっそ～ん！！！<BR>めちゃくちゃ続きが気になるじゃないですか！！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�v�[���Y</strong>  <i>2002/03/20 20:20:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>プー太郎</strong>  <i>2002/03/20 20:20:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016623241xsmlhr&id2=1015776932dxfwax&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016623241xsmlhr_id2_1015776932dxfwax_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y����z�������낢�ł��I�I�@���̌�̘b�����ɂȂ�[�[�[�I�I�I�I�I<BR>���Ă����O���Ȃ��I�I�@�@����΂��ĉ������I�I�I
+【居候】おもしろいです！！　この後の話がきになるーーー！！！！！<BR>見ても見飽きない！！　　がんばって下さい！！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̉ɐl</strong>  <i>2002/03/25 01:18:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>自称暇人</strong>  <i>2002/03/25 01:18:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016986708mstdsnj&id2=1015776932dxfwax&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016986708mstdsnj_id2_1015776932dxfwax_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U����A�m�C������A���I����A�v�[���Y����B<BR>�݂Ȃ��񊴑z���肪�Ƃ��������܂����B<BR>�v�����ŏ����Ă݂��̂ŁA��Ҏ��g�̎���������܂�悪�����Ă܂���B<BR>���������̐�A�b���ł܂����瑱���������Ă��������ł��B<BR>
+ｍｋ８４２６さん、ノインさん、沙紀さん、プー太郎さん。<BR>みなさん感想ありがとうございました。<BR>思いつきで書いてみたので、作者自身の自分もあんまり先が見えてません。<BR>もしもこの先、話が固まったら続きを書いていきたいです。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1015776932dxfwax">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,85 +1,85 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1015516232njxkwhq&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1015516232njxkwhq_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���܂ꂽ���`TS�Ł`</font><br>
+<font size="+2" color="#0000FF">盗まれた味～TS版～</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/08004659/stolen.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/08 00:50:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/08004659/stolen.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2002/03/08 00:50:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015516232njxkwhq&id2=1015516232njxkwhq&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015516232njxkwhq_id2_1015516232njxkwhq_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���Ȉ˗����󂯂��u���v���ق���ɑ΂��čs�����s���Ƃ́c�B�����Ӗ��Ō㖡�̈������c��A�Ȃ�Ƃ��_�[�N�ȍ�i�ł��B
+【推薦文】妙な依頼を受けた「俺」が雇い主に対して行った行動とは…。いい意味で後味の悪さが残る、なんともダークな作品です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:shibuya@dd.iij4u.or.jp" target="_blank">�a�J@�Ƃ���</a></strong>  <i>2002/03/08 02:46:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:shibuya@dd.iij4u.or.jp" target="_blank">渋谷@家から</a></strong>  <i>2002/03/08 02:46:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015523194juolsf&id2=1015516232njxkwhq&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015523194juolsf_id2_1015516232njxkwhq_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����E�~�m���ł����E�E�E�Ȃ�قǁB<BR>�n���ɂȂ����j�́A�킽�����ŏ��ɓǂ�TS������������Ȃ��B
+モリ・ミノルですか・・・なるほど。<BR>地球になった男は、わたしが最初に読んだTS小説かもしれない。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/08 06:04:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/08 06:04:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015535053crtmcj&id2=1015516232njxkwhq&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015535053crtmcj_id2_1015516232njxkwhq_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށA����͂܂��E�E�E�B<BR>�����킩��Ȃ��ች�ł��H����������āA��H�i�������܂�����ȁi�΁j�B<BR>�������A�]���ɖ��ߍ��܂ꂽ�����^�̔��M����āA�k���񂠂񂽉F���l�����i�΁j�B
+読んだバイ♪<BR>うーむ、これはまた・・・。<BR>味がわからなきゃ何でも食えるったって、非食品喰っちゃまずいわな（笑）。<BR>しかし、脳髄に埋め込まれた超小型の発信器って、婆さんあんた宇宙人かい（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2002/03/08 21:07:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2002/03/08 21:07:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015589278vlpgqg&id2=1015516232njxkwhq&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015589278vlpgqg_id2_1015516232njxkwhq_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������B����������������Ǝv���Ă܂������B�吙��������ł��������H<BR>���������̎���������̂��B�������܂����B�Ō�܂ł��Ă��܂��܂����B<BR>�Ђ���Ƃ��āA�A�����J�̕ǂ������������A�{�l�ł����H
+そう来たか。私もそれを言おうと思ってましたが。大杉酔狂さんでしたっけ？<BR>そうかこの手もあったのか。恐れ入りました。最後までつられてしまいました。<BR>ひょっとして、アメリカの壁を書いたお方、本人ですか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���傤�����</strong>  <i>2002/03/08 23:42:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しょうちゃん</strong>  <i>2002/03/08 23:42:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015598542aguemr&id2=1015516232njxkwhq&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015598542aguemr_id2_1015516232njxkwhq_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����֏������ނ̂͏��߂Ăł��B<BR>���������̃p���f�B�ł��ˁB�����Ȃ������Ȃ�܂����B<BR>�����Ђ��̖��Ȃ�č�i���Ȃ������`�`<BR>
+ここへ書き込むのは初めてです。<BR>小松左京のパロディですね。ついついなつかしくなりました。<BR>お茶漬けの味なんて作品もなつかしい～～<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1015516232njxkwhq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

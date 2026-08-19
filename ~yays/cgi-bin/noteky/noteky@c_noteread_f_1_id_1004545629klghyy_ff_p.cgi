@@ -1,976 +1,976 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&id=1004545629klghyy&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_id_1004545629klghyy_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���S��ONLY�y�[�W</font><br>
+<font size="+2" color="#0000FF">初心者ONLYページ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ɉ^�c�ψ���</strong>  <i>2001/11/01 01:27:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>文庫運営委員会</strong>  <i>2001/11/01 01:27:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004545629klghyy&id2=1004545629klghyy&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004545629klghyy_id2_1004545629klghyy_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɂ̂ق��̃{�[�h�ł́A���S�҂ɕ~���������Ƃ��A�������ݓ�A�C����Ȃǂ��낢��ƈӌ����łĂ��܂��B�����ŁA���܂܂ł̌o�܂ɂƂ���Ȃ��A�����I�Ȏ���ł�OK�̃t���[�ȏ������݂����C���ɂ����{�[�h�Ƃ��āA���̃{�[�h���J�݂��܂����B�ǂ��ǂ��A�ӌ��̓��e�����Ă����Ă��������B
+文庫のほかのボードでは、初心者に敷居が高いとか、書き込み難い、気難しいなどいろいろと意見がでています。そこで、いままでの経緯にとらわれなく、初歩的な質問でもOKのフリーな書き込みをメインにしたボードとして、このボードを開設しました。どしどし、意見の投稿をしていってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/01 01:31:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004545893vkflr&id2=1004545629klghyy&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004545893vkflr_id2_1004545629klghyy_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̃{�[�h�����܂����A�^�c�ψ����K��starbow�ł��B<BR><BR>�ȂɂԂ�A���K�ł��̂ŁA����Ȃ��_�����邩������܂��񂪁A<BR>�����O�����ɁA����Ă��������Ǝv���܂��̂ŁA<BR>�F�l�̈ӌ��E����Ȃǂ��ǂ��ǂ��A���e���Ă���������΂Ǝv���Ă���܂��B<BR>
+このボードを作りました、運営委員見習のstarbowです。<BR><BR>なにぶん、見習ですので、至らない点があるかもしれませんが、<BR>毎日前向きに、やっていきたいと思いますので、<BR>皆様の意見・質問などをどしどし、投稿していただければと思っております。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">stabow</a></strong>  <i>2001/11/04 23:57:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004885872hpjdln&id2=1004545629klghyy&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004885872hpjdln_id2_1004545629klghyy_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>�����A����Ƃ������ƂŁA�����������ȁH<BR>�Ƃ������ƂŁA<BR>�u����ȃL�����N�^���ق����v<BR>�u����ȃX�g�[���[�������v<BR>�uTSF�̂˂��v<BR>�u���̍D����TSF�v<BR>�ȂǂŁA�������݂���������΂Ǝv���܂��B<BR><BR>�ق��ɂ��A���������e�[�}�������Ƃ�������������܂�����A<BR>�������݂���������΍K���ł��B<BR><BR>�Y�ݒ���starbow�ł����B
+starbowです。<BR><BR>何か、お題ということで、何がいいかな？<BR>ということで、<BR>「こんなキャラクタがほしい」<BR>「こんなストーリーがいい」<BR>「TSFのねた」<BR>「私の好きなTSF」<BR>などで、書き込みいただければと思います。<BR><BR>ほかにも、こういうテーマがいいというかたがありましたら、<BR>書き込みいただければ幸いです。<BR><BR>悩み中のstarbowでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h��</strong>  <i>2001/11/06 00:03:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロ</strong>  <i>2001/11/06 00:03:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004972588wrpyxer&id2=1004545629klghyy&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004972588wrpyxer_id2_1004545629klghyy_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂s�r�ɂȂ�̂��ȁH<BR>�w�˂��ۂ��x�͂��������D���ł����ˁB<BR>�o�b�����ĂȂ�����ł��Ȃ��������ǁE�E�E�i�ʖڂ����j<BR>�ݒ莑���W�͔����܂������B<BR>�܂Ђ�͂��킢���ł��B�j�����ǂˁE�E�E�i���j<BR><BR>����ȂƂ��ŁA�ǂ��ł��傤�B<BR>�G�k�̏�Ȃ�E�E�E�˂��B<BR>���ƁA�ŋ߂́w�V�g�Ȏq���ӋC�x�͌b�����܂�j���ۂ��Ȃ�����l�I�ɂ̓C�}�C�`�E�E�E�i��]����Ȃ��ł���j�Ƃ��B<BR>���������Ƃs�r���͏��̎q�ɂȂ肷���Ă��܂��̂ł��傤���B�����߂����ȁE�E�E�B<BR>�i�����ł͂�����������s�r���S�҂��Ǝv���Ă������ǁA���łɂ���������i�Ɏ����߂āH�����炵���E�E�E�΁j<BR>�������݂�������l�łȂ���΂����ȁ`�A�Ȃ�Ďv������B�i��C�j
+これはＴＳになるのかな？<BR>『ねがぽじ』はけっこう好きでしたね。<BR>ＰＣ持ってないからできなかったけど・・・（駄目じゃん）<BR>設定資料集は買いましたが。<BR>まひるはかわいいです。男だけどね・・・（汗）<BR><BR>こんなとこで、どうでしょう。<BR>雑談の場なら・・・ねぇ。<BR>あと、最近の『天使な子生意気』は恵があまり男っぽくないから個人的にはイマイチ・・・（批評じゃないですよ）とか。<BR>長く続くとＴＳ娘は女の子になりすぎてしまうのでしょうか。少し悲しいな・・・。<BR>（自分ではおもいっきりＴＳ初心者かと思っていたけど、すでにそういう作品に手を染めて？いたらしい・・・笑）<BR>書き込みが自分一人でなければいいな～、なんて思ったり。（弱気）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/06 01:08:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004976522oaefqn&id2=1004545629klghyy&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004976522oaefqn_id2_1004545629klghyy_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>&gt;�w�˂��ۂ��x�͂��������D���ł����ˁB<BR>�X�ɂ���ƁA�C�ɂȂ�̂ł����A�܂��A���́A�l�q���Ŕ����Ă���܂���B<BR>�ǂ��Ȃ̂ł��傤���ˁHTS�ł͂Ȃ��A�����n�̂悤�ȁB<BR>�������A���̍�i�A�s�v�c�ȃG���f�B���O������悤�ł��ˁB<BR><BR>&gt;���ƁA�ŋ߂́w�V�g�Ȏq���ӋC�x�͌b�����܂�j���ۂ��Ȃ�����l�I�ɂ̓C�}�C�`�E�E�E�i��]����Ȃ��ł���j�Ƃ��B<BR>�����ł��ˁB���́A����A�ŋߔ����Ă��܂���B�i���������A�����̂��j<BR><BR>&gt;���������Ƃs�r���͏��̎q�ɂȂ肷���Ă��܂��̂ł��傤���B�����߂����ȁE�E�E�B<BR>����Ƃ���ł��ˁB<BR>
+starbowです。<BR><BR>&gt;『ねがぽじ』はけっこう好きでしたね。<BR>店にあると、気になるのですが、まだ、私は、様子見で買っておりません。<BR>どうなのでしょうかね？TSではなく、女装系のような。<BR>しかし、この作品、不思議なエンディングもあるようですね。<BR><BR>&gt;あと、最近の『天使な子生意気』は恵があまり男っぽくないから個人的にはイマイチ・・・（批評じゃないですよ）とか。<BR>そうですね。私は、これ、最近買っていません。（おいおい、いいのか）<BR><BR>&gt;長く続くとＴＳ娘は女の子になりすぎてしまうのでしょうか。少し悲しいな・・・。<BR>難しいところですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�����a�i���s�C���c�j</strong>  <i>2001/11/10 04:03:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>海月日和（自虐気味…）</strong>  <i>2001/11/10 04:03:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005332607obden&id2=1004545629klghyy&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005332607obden_id2_1004545629klghyy_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̏ꍇ�A�Ȃ��Ȃ����������ӂ񂬂肪���Ȃ��E�E�E�Ƃ䂤�̂��A��ԍ��������m�ł��i�����j<BR><BR>�w�l�^���v���t���A�������͂ɂ��Ă����ƁA�r���ł܂��Ă��܂��A���߂����ŔY�ށA�䎌�������C���[�W�ƍ���Ȃ��A�n�̕��Ɛ��E�ς�����Ȃ��i����ɑË����ł��Ȃ��j�A�������Ă݂���ו��������͂��A�����Ă����x�ɖ��������������o�Ă���Aetc�Aetc�E�E�E�E�E�x<BR><BR>�w�ϋl�܂�����ɋC���]�����ł����A���̂܂ܕ���o���Ă��܂��x<BR><BR>�w�ēx���킵�Ȃ������A��͂�r���ł܂�B�����������悤�ȕ����B�x<BR><BR>�w����Ȃ���ȂŎ��Ȍ����ɂ�������A�M���i�L�[�{�[�h���j������A���͂������グ���ɃS�~���ցE�E�E�E�E�E�x<BR><BR><BR>�E�E�E�����Ō��ĂĒɂ��ł��i�܁j�̌��k�����Ȃ��E�E�E�B<BR>�Ⴆ�ł����Ȃ������������ɂ���̂ł����A���Ă͂܂��Ă��܂����������Ǝv���܂��E�E�E�i���j<BR><BR>�E�E�E���̕��A����Ȃ�O�`����B�Ƃ����ӌ��͂��łɎ�������o�Ă܂��E�E�E�i�Łj
+私の場合、なかなか文を書くふんぎりがつかない・・・とゆうのが、一番困ったモノです（溜息）<BR><BR>『ネタを思い付き、いざ文章にしていくと、途中でつまってしまう、締めかたで悩む、台詞が自分イメージと合わない、地の文と世界観が合わない（それに妥協もできない）、見直してみたら細部がちぐはぐ、直していく度に矛盾した部分が出てくる、etc、etc・・・・・』<BR><BR>『煮詰まった上に気分転換もできず、そのまま放り出してしまう』<BR><BR>『再度挑戦しなおすが、やはり途中でつまる。しかも似たような部分。』<BR><BR>『そんなこんなで自己嫌悪におちいり、筆を（キーボードを）手放し、文章を書き上げずにゴミ箱へ・・・・・・』<BR><BR><BR>・・・自分で見てて痛いです（涙）体験談だしなぁ・・・。<BR>例えでしかない部分が随所にあるのですが、当てはまってしまう方も多いと思われます・・・（泣）<BR><BR>・・・この文、たんなるグチだろ。という意見はすでに自分から出てます・・・（滅）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/13 01:24:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005582267ixiis&id2=1004545629klghyy&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005582267ixiis_id2_1004545629klghyy_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>���������΁A�ŋ�TS�˂��i�ϐg�n�ł����ǂˁB�j�̃Q�[���Ƃ��A�Ȃ��̂ł��傤���ˁB�i�߈˂⏗���ł͂Ȃ��āB�j<BR>Xchange,���Ղ��,Shift!,�y���V���[���J�i����A�������Ă��܂��񂪁A�l�m�ꂸ�o�Ă����肷��̂��ȁH<BR><BR>���������΁A�ŋ�JYB�𒆌ÂŌ�������ł����A<BR>�v���e�N�g���������Ă��āA�G�~�����[�^�ł́A�����Ȃ��ł��ˁB<BR>�Ȃɂ��A�������@�Ȃ����ȁH<BR><BR>�Ƃ���ŁA�킽���́A�n�[�h�r�e���D���ŁA<BR>�L���܂�ڂ���́u�a�n�c�x�v�̂悤�ȁA<BR>�X�g�[�����Ȃ����ƒT���Ă���̂ł����A�Ȃ��Ȃ�����܂���ˁB<BR><BR>�ŋ߁A�b���������Ǝv���Ă��܂����A<BR>�Ȃ��Ȃ��肪�󂩂Ȃ��󋵂ł��B<BR>�������A���݁A�V���[�Y�̑薼�������߂Ă����肵�܂��B<BR>�˂��I�ɂ́A�p���������[���h�Ƃ��A�l�b�g���[�N�Ƃ��ł��B<BR>�Ȃ��Ȃ��A�i��ł��܂��񂪁B�B�B<BR>
+starbowです。<BR><BR>そういえば、最近TSねた（変身系ですけどね。）のゲームとか、ないのでしょうかね。（憑依や女装ではなくて。）<BR>Xchange,そぷらの,Shift!,ペンシラー☆カナから、見かけていませんが、人知れず出ていたりするのかな？<BR><BR>そういえば、最近JYBを中古で見つけたんですが、<BR>プロテクトがかかっていて、エミュレータでは、動かないですね。<BR>なにか、いい方法ないかな？<BR><BR>ところで、わたしは、ハードＳＦが好きで、<BR>猫柳まんぼさんの「ＢＯＤＹ」のような、<BR>ストーリがないかと探しているのですが、なかなかありませんね。<BR><BR>最近、話を書こうと思っていますが、<BR>なかなか手が空かない状況です。<BR>しかし、現在、シリーズの題名だけ決めていたりします。<BR>ねた的には、パラレルワールドとか、ネットワークとかです。<BR>なかなか、進んでいませんが。。。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/14 03:01:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005674474swgpnx&id2=1004545629klghyy&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005674474swgpnx_id2_1004545629klghyy_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>�Ƃ���ŁA<BR>��i�̃^�C�g�����āA�݂Ȃ���ǂ̂悤�Ɍ��߂Ă���̂ł��傤���ˁB<BR><BR>���ɂɌf�ڂ���Ă����i�̃^�C�g��������Ɛ獷���ʂŁA<BR>�����ŏ����Ă݂悤�Ƃ����Ƃ��ɁA<BR>�Y��ł��܂��܂���ˁB<BR><BR>���́A�ς��ƁA�v���������̂��g���̂��肩�ȂƎv���Ă܂��B<BR>�i�^�C�g����������s���Ă���Ƃ������܂����B�j<BR><BR>�ǂ��Ȃ̂ł��傤���ˁH<BR>
+starbowです。<BR><BR>ところで、<BR>作品のタイトルって、みなさんどのように決めているのでしょうかね。<BR><BR>文庫に掲載されている作品のタイトルも見ると千差万別で、<BR>自分で書いてみようとしたときに、<BR>悩んでしまいますよね。<BR><BR>私は、ぱっと、思いついたものを使うのが手かなと思ってます。<BR>（タイトルだけが先行しているともいえますが。）<BR><BR>どうなのでしょうかね？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:haruyo2@clotho.dricas.com" target="_blank">anjoe</a></strong>  <i>2001/11/14 13:46:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005713207twgcbg&id2=1004545629klghyy&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005713207twgcbg_id2_1004545629klghyy_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�撣���Ă܂��ˁE�E��i����file���͑����Ȃ��Ƃ����Ȃ��E�E<BR>�̂��Ȃ�(��)�E�E��������Ǝv���ĕς����Ă��܂���������܂���<BR>�V�т�����ƁA������ƍ��������ɐ��邩���B<BR><BR>�ŋߓǂ�łȂ��Ȃ��A������l�̑����@���܂����������Ǝv���̂ɁB<BR>����ɂ�����ƍl�����Â�����炵���� ��MR�@�̕��̓��l�k�`�ɉ����Ȃ��E�E��Γ���s�\�ȕ��͋L�^�Ƃ��Ďc���A���ꂩ��o��̂�<BR>���s�҂������Ǝ����̍�������l�Ɍւ�������Ă�Ȃ��͕�����<BR>��肾�Ǝv���ċ��܂��̂ŁB�v���~�A�����o���悤�Ƃ����Ƃ͎��ł��Ă��܂��Ǝv���̂ł����E�E<BR><BR>�����@�]�s�@���J�o�[�G�����������ɖ{�@�@���̉��@�ɂ����Ǝv���܂���ł������H�����j���߂������ɍ쒆�ŏ�����Ă��̒j������������<BR>�����ƂЂǂ������ꂽ�̂�?����Ƃ�����������ƁE�E�E�@�ł͂����
+頑張ってますね・・作品名とfile名は揃えないといけない・・<BR>のかなぁ(笑)・・制作日時と思われて変えられてしまうかもしれません<BR>遊びすぎると、ちょっと困った事に成るかも。<BR><BR>最近読んでないなぁ、もう一人の孫悟空　うまい化け方だと思うのに。<BR>それにちょっと考えが古すぎるらしくて ○MR　の方の同人談義に加われない・・絶対入手不可能な物は記録として残し、これから出るのや<BR>発行者がちゃんと自分の作った同人に誇りを持ってるなら後は部数の<BR>問題だと思って居ますので。プレミアを演出しようとする作家は自滅してしまうと思うのですが・・<BR><BR>萩尾　望都　がカバー絵を書いた文庫本　　光の王　惜しいと思われませんでしたか？女→男がめたくそに作中で書かれてたの男→女だったら<BR>もっとひどく書かれたのか?それとももしかすると・・・　ではこれで
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/15 01:08:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005754098jncaw&id2=1004545629klghyy&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005754098jncaw_id2_1004545629klghyy_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>��i�̃C���X�g�Ƃ��͂ǂ�����Ă��܂����H<BR>�킽���́A�^�u���b�g�ŕ`���Ă݂Ă͂���̂ł����A<BR>�Ӑ}�����Ƃ���ɊG�����܂��`�������߂�������܂���B<BR>���ɁA�l���͓���ł��B<BR><BR>�Ȃɂ��A�R�c������̂��ȁH<BR>
+starbowです。<BR><BR>作品のイラストとかはどうされていますか？<BR>わたしは、タブレットで描いてみてはいるのですが、<BR>意図したとおりに絵がうまく描けたためしがありません。<BR>特に、人物は難しいです。<BR><BR>なにか、コツがあるのかな？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/15 01:30:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005755426scofhww&id2=1004545629klghyy&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005755426scofhww_id2_1004545629klghyy_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-anjoe ���܁A<BR><BR>&gt;��i����file���͑����Ȃ��Ƃ����Ȃ��E�E<BR>�����ł��ˁB����́A���낦�Ă����Ȃ��ƁB<BR>���ƁAHTML�Ȃ�Afile�����p���ɂ��Ă����Ȃ��ƁB<BR>�킽���̏ꍇ�A���[�}���΂����肾�����肵�܂����B<BR><BR>&gt;�ŋߓǂ�łȂ��Ȃ��A������l�̑����@���܂����������Ǝv���̂ɁB<BR>&gt;���̉��@�ɂ����Ǝv���܂���ł�����?<BR>�\���󂠂�܂���B�킽���́A���ǂł��B
+anjoe さま、<BR><BR>&gt;作品名とfile名は揃えないといけない・・<BR>そうですね。これは、そろえておかないと。<BR>あと、HTMLなら、file名を英字にしておかないと。<BR>わたしの場合、ローマ字ばっかりだったりしますが。<BR><BR>&gt;最近読んでないなぁ、もう一人の孫悟空　うまい化け方だと思うのに。<BR>&gt;光の王　惜しいと思われませんでしたか?<BR>申し訳ありません。わたしは、未読です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:haruyo2@clotho.dricas.com" target="_blank">anjoe</a></strong>  <i>2001/11/15 05:04:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005768284rkxhari&id2=1004545629klghyy&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005768284rkxhari_id2_1004545629klghyy_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ԏ��ǂ����L��������܂��B<BR>������@�@������l�̑����@�@�͕\���ł��Z�҂�������<BR>������ԉłɉ����Ė߂�Ȃ�����炵���Ƃ����Ă��o����l����ƁE�E<BR><BR>���̉��@�@�̓C���h�_�b�̐_��������n���l�B�̘b�ŃA�o�^�[�ƌ���<BR>���t�������F�������̂́@Habitat��肱���炪��ł����B���j������<BR>�L��܂���̂ŁA���������Ƃ����l�ȊO�͊Ԉ���čw������܂���悤�B�@�@�@�@�G�̎��͑��̐l�̏������݂�҂��܂��A�����@�@�ǂ����B
+お返事どうも有難うございます。<BR>何しろ　　もう一人の孫悟空　　は表題作でも短編だそうで<BR>いくら花嫁に化けて戻れなく成るらしいといっても出費を考えると・・<BR><BR>光の王　　はインド神話の神を演じる地球人達の話でアバターと言う<BR>言葉を私が認識したのは　Habitatよりこちらが先でした。只男→女は<BR>有りませんので、そっちも可という人以外は間違って購入されませんよう。　　　　絵の事は他の人の書き込みを待ちます、さぁ　　どうぞ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/11/16 15:15:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/11/16 15:15:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005891359bplued&id2=1004545629klghyy&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005891359bplued_id2_1004545629klghyy_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����A�s�r���S�҂̃f���h���ł��B<BR><BR>&gt;�C�����a����<BR>�����������悤�Ȃ��̂ł��B<BR>�ł������Ȃ��Ɛi�܂Ȃ����A��B�����Ȃ����B<BR>�l���Ȃ�Ēp�����ăi���{�̂���ł��E�E�E�A�������炵�Ҋo��ŏ����Ă܂�����B<BR>�����Ƃ��܂�������悤�w�͂��܂��E�E�E
+どうも、ＴＳ初心者のデンドロです。<BR><BR>&gt;海月日和さん<BR>自分も似たようなものです。<BR>でも書かないと進まないし、上達もしないし。<BR>人生なんて恥かいてナンボのもんです・・・アレもさらし者覚悟で書いてますから。<BR>もっとうまく書けるよう努力します・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/16 23:26:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005920808nfralj&id2=1004545629klghyy&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005920808nfralj_id2_1004545629klghyy_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>&gt;&gt;�w�˂��ۂ��x�͂��������D���ł����ˁB<BR>&gt;�X�ɂ���ƁA�C�ɂȂ�̂ł����A�܂��A���́A�l�q���Ŕ����Ă���܂���B<BR>�Ƃ��Ƃ��A�����܂����B<BR>�킽���Ƃ��ẮA�Ȃ��̃G���f�B���O�����������킩��悤��<BR>�����ق��������̂ł����B�܂��A����ȊO�̃G���f�B���O��<BR>�e�C�X�g�œ��ꂵ�Ăق����Ƃ���ł��B<BR>
+starbowです。<BR><BR>&gt;&gt;『ねがぽじ』はけっこう好きでしたね。<BR>&gt;店にあると、気になるのですが、まだ、私は、様子見で買っておりません。<BR>とうとう、買いました。<BR>わたしとしては、なぞのエンディングをもう少しわかるように<BR>したほうがいいのですが。また、それ以外のエンディングの<BR>テイストで統一してほしいところです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�����a�@��E�ގ�</strong>  <i>2001/11/17 14:32:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>海月日和　壱・伍式</strong>  <i>2001/11/17 14:32:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005975143mcoka&id2=1004545629klghyy&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005975143mcoka_id2_1004545629klghyy_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���f���h���r�E������<BR>�ق�ƁA�w�͂���ԏd�v�ł���ˁ[�E�E�E�B�i���݂��݁j<BR><BR>�b��������ƕς��܂����A�Ƃ���K���_�����̂̓��l�l�b�g�Q�[���̃T�C�g�̃L�����f���ɂāA���̐l�����������Ă��̂ɉe���󂯂āA�����������n�߂܂����i�΁j<BR>�����āA���ĉ������Ă�F����ɏ[����肢�ƖJ�߂���̂͊������񂾂��ǁA�ǂ����Ă�������ډ����Ă��܂����Ȑ��i�Ȃ̂ŁA���̂܂܈��ݍ��߂Ȃ��ł�����E�E�E�i��΁j<BR>�܂��A���ꂩ����w�͂��āA�����ł��w�ǂ��ł����x�Ǝv����悤�ȏ�����������悤�ɂȂ肽�����̂ł��B
+＞デンドロビウムさん<BR>ほんと、努力が一番重要ですよねー・・・。（しみじみ）<BR><BR>話がちょっと変わりますが、とあるガンダムものの同人ネットゲームのサイトのキャラ掲示板にて、他の人が小説書いてたのに影響受けて、自分も書き始めました（笑）<BR>そして、見て下さってる皆さんに充分上手いと褒められるのは嬉しいんだけど、どうしても自分を卑下してしまう厄介な性格なので、そのまま飲み込めないでいたり・・・（苦笑）<BR>まあ、これからも努力して、自分でも『良くできた』と思えるような小説を書けるようになりたいものです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�Ɓ[�݂���</strong>  <i>2001/11/17 19:13:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>れーとーみかん</strong>  <i>2001/11/17 19:13:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005992001dvcvcl&id2=1004545629klghyy&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005992001dvcvcl_id2_1004545629klghyy_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ����B�s�r���S�҂ł���Ȃ���ҏW�ψ��ɗ���₵���A��[�Ɓ[�݂���ł��B<BR>�@������ƑO�ɁA�N���G�[�^�[�Y�t���A�ŏ��N�������ɂ̘̐b���b��ɏ���Ă���̂����Ă��Ďv������ł����A�u���ƂԂ��EMarie����v��Marie������Ăǂ���l�ł��傤���H���ƂԂ��Ђ����u�S�l�ڂ̎o���v�̌㏑������@����ɂs�r���e��Ƃ��񂾂����悤�ł����A�e���`����������܂��񂵁A�V�Q�҂̎����ɂƂ��Ă͓䂾�炯�ł��B<BR> �ǂȂ����������Ă��炦�܂��񂩁H
+　どうも。ＴＳ初心者でありながら編集委員に立候補した、れーとーみかんです。<BR>　ちょっと前に、クリエーターズフロアで少年少女文庫の昔話が話題に上っているのを見ていて思ったんですが、「ことぶき・Marie時代」のMarieさんってどちら様でしょうか？ことぶきひかる作「４人目の姉妹」の後書きから察するにＴＳ投稿作家さんだったようですが、影も形も見あたりませんし、新参者の自分にとっては謎だらけです。<BR> どなたか説明してもらえませんか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/20 00:41:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006184481dfkvas&id2=1004545629klghyy&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006184481dfkvas_id2_1004545629klghyy_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>Marie����̌��́A�N���G�[�^�[�Y�E�t���A�ɂāA�m�F���ł��B<BR>�\���󂠂�܂��񂪁A���΂炭���҂����������B
+starbowです。<BR><BR>Marieさんの件は、クリエーターズ・フロアにて、確認中です。<BR>申し訳ありませんが、しばらくお待ちください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/20 00:46:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006184800elgkcm&id2=1004545629klghyy&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006184800elgkcm_id2_1004545629klghyy_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>�Ƃ���ŁA���ɂɓo�ꂷ���l���̔N��w�i�O�A��j�́A<BR>���Αオ�A�D�݂Ȃ̂��ȁH<BR><BR>�킽���Ƃ��ẮA�Z�[���[���l�^�ɂȂ�P�O��㔼�ĂƂ��ł��傤���B<BR>�F����A�������ł��傤���H
+starbowです。<BR><BR>ところで、文庫に登場する主人公の年齢層（前、後）は、<BR>何歳代が、好みなのかな？<BR><BR>わたしとしては、セーラー服ネタになる１０代後半てとこでしょうか。<BR>皆さん、いかがでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�Ɓ[�݂���</strong>  <i>2001/11/20 23:01:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>れーとーみかん</strong>  <i>2001/11/20 23:01:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006264917aoivsc&id2=1004545629klghyy&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006264917aoivsc_id2_1004545629klghyy_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��[�Ɓ[�݂���ł��B<BR><BR>starbow����A���肪�Ƃ��������܂��B<BR>�������܂����B�C���ɂ��҂����Ă���܂��ł��B
+れーとーみかんです。<BR><BR>starbowさん、ありがとうございます。<BR>了解しました。気長にお待ちしておりますです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h��</strong>  <i>2001/11/21 23:03:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロ</strong>  <i>2001/11/21 23:03:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006351390fnrqvmm&id2=1004545629klghyy&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006351390fnrqvmm_id2_1004545629klghyy_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�N��w<BR>starbow����A���������ӂł��B<BR>��͂�P�T�`�P�V���l�I�ɂ́B<BR>�b�Ƃ��Ă��w�����͏����₷���ł����B<BR>�˂��ۂ����������ł����B�����Ȃ��B<BR>���̊G�͍D���ł��B<BR><BR>&gt;�C�����a����<BR>�ʔ������ȃT�C�g�ł��ˁB<BR>�s���Ă݂����C�����܂����E�E�E<BR>�h���[���L���X�g�����Q�[���ɂ͎Q���ł��Ȃ����ȁB
+&gt;年齢層<BR>starbowさん、自分も同意です。<BR>やはり１５～１７が個人的には。<BR>話としても学園物は書きやすいですし。<BR>ねがぽじをやったんですか。いいなあ。<BR>あの絵は好きです。<BR><BR>&gt;海月日和さん<BR>面白そうなサイトですね。<BR>行ってみたい気もしますが・・・<BR>ドリームキャストだしゲームには参加できないかな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.1000cp.com/games/msbs/" target="_blank">�C�����a</a></strong>  <i>2001/11/22 18:53:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.1000cp.com/games/msbs/" target="_blank">海月日和</a></strong>  <i>2001/11/22 18:53:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006422825njfkhw&id2=1004545629klghyy&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006422825njfkhw_id2_1004545629klghyy_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�E�E�E�R�l�̂��ē���ł���ˁi��΁j<BR>�Ƃ䂤�����̏ꍇ�A�b�̂Ȃ����̕�������������Ȃ��Ƃ����Ȃ��̂ł����i�j���j<BR><BR>���f���h���r�E������<BR>���v�ł��B<BR>�l�̃��[���A�h���X��������΁A�g�тł��Q���\�ł��i�΁j<BR>�������A���[���̎��������̖��ŁA�g�т̂悤�Ɏ��������Ȃ��Ƃ��Ȃ�ʔ��݂�����܂��B<BR>DC�ł̓��[���֌W���ǂ��Ȃ��Ă�̂������ς�m��Ȃ��̂łȂ�Ƃ������܂��񂯂ǁc�i��΁j<BR><BR>�Ƃ肠�����n���h���̂Ƃ���ɂ��̃Q�[���̃T�C�g�̃A�h���X�������Ă����܂����B<BR>��������������A���Ă݂ĉ������B<BR><BR>�E�E�E����A�����ł���Ă����b��Ȃ̂��^��ł����i���j<BR>���̃T�C�g�̐�`�ɋ߂����E�E�E
+・・・３人称って難しいですよね（苦笑）<BR>とゆうか私の場合、話のつなげ方の方をしっかりやらないといけないのですが（核爆）<BR><BR>＞デンドロビウムさん<BR>大丈夫です。<BR>個人のメールアドレスさえあれば、携帯でも参加可能です（笑）<BR>ただし、メールの字数制限の問題で、携帯のように字数が少ないとかなり面白みが削られます。<BR>DCではメール関係がどうなってるのかさっぱり知らないのでなんとも言えませんけど…（苦笑）<BR><BR>とりあえずハンドルのところにそのゲームのサイトのアドレスを書いておきました。<BR>興味があったら、見てみて下さい。<BR><BR>・・・いや、ここでやっていい話題なのか疑問ですが（汗）<BR>他のサイトの宣伝に近いし・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/28 01:02:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006876962ktbvgb&id2=1004545629klghyy&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006876962ktbvgb_id2_1004545629klghyy_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������Ă���Astarbow�ł��B<BR><BR>�ŋ߁A�߂����菑�����݂����Ȃ��Ȃ�܂����ˁB<BR>�Ȃ����ȁH<BR><BR>����������H�N��������H�����e�X�g�Ƃ������邵�ˁB<BR>�����l�^���Ȃ����A�l���Ă��܂����A�Ȃ��Ȃ��i�C�ł��B<BR><BR>�ŋߓǂ񂾖{�ł́A�X�J�[���b�g�E�B�U�[�h�O�`�ɁA<BR>�r���Ł��ɂȂ�V�g�H���o�Ă��܂��B<BR>����́A���l�^���ȁH<BR>
+ご無沙汰している、starbowです。<BR><BR>最近、めっきり書き込みが少なくなりましたね。<BR>なぜかな？<BR><BR>月末だから？年末だから？期末テストとかもあるしね。<BR>いいネタがないか、考えていますが、なかなかナイです。<BR><BR>最近読んだ本では、スカーレットウィザード外伝に、<BR>途中で♀になる天使？が出てきます。<BR>これは、情報ネタかな？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>shinzato</strong>  <i>2001/11/29 23:20:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007043659sxmmi&id2=1004545629klghyy&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007043659sxmmi_id2_1004545629klghyy_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂���shinzato�Ɛ\���܂��B<BR><BR>&gt;�ŋߓǂ񂾖{�ł́A�X�J�[���b�g�E�B�U�[�h�O�`�ɁA<BR>&gt;�r���Ł��ɂȂ�V�g�H���o�Ă��܂��B<BR>&gt;����́A���l�^���ȁH<BR><BR>�Ƃ̏��ł����A���̍�i�͓�����҂̃f���t�B�j�A��L�i�P�`�P�W�j��ǂ�ł���̂ق�����낵�����Ǝv���܂��B�i�֑��Ő\���󂠂�܂���j<BR>������̍�i��TS�v�f���܂�ł���A��ǂ̉��l����ł���B
+はじめましてshinzatoと申します。<BR><BR>&gt;最近読んだ本では、スカーレットウィザード外伝に、<BR>&gt;途中で♀になる天使？が出てきます。<BR>&gt;これは、情報ネタかな？<BR><BR>との情報ですが、この作品は同じ作者のデルフィニア戦記（１～１８）を読んでからのほうがよろしいかと思います。（蛇足で申し訳ありません）<BR>こちらの作品もTS要素を含んでおり、一読の価値ありですよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/11/30 01:12:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007050352yxjvsf&id2=1004545629klghyy&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007050352yxjvsf_id2_1004545629klghyy_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-shinzato���܁A<BR><BR>&gt;�f���t�B�j�A��L�i�P�`�P�W�j<BR>�������݂��肪�Ƃ��������܂��B<BR><BR>�f���t�B�j�A��L�́A�ȑO�ǂ񂾂��Ƃ�����܂��B<BR>���B���Y���ł���ˁB<BR>���ƁA�������Ă���V�F���Ƃ����o�Ă��܂���ˁB<BR><BR>
+shinzatoさま、<BR><BR>&gt;デルフィニア戦記（１～１８）<BR>書き込みありがとうございます。<BR><BR>デルフィニア戦記は、以前読んだことがあります。<BR>リィが該当ですよね。<BR>あと、女装しているシェラとかも出てきますよね。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:momi-tan@sala.or.jp" target="_blank">�l�R</a></strong>  <i>2001/12/01 21:33:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:momi-tan@sala.or.jp" target="_blank">Ｍ３</a></strong>  <i>2001/12/01 21:33:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007210018hhawdt&id2=1004545629klghyy&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007210018hhawdt_id2_1004545629klghyy_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āB������ɍ�i�𓊍e�����Ă�������l�R�ƌ����܂��B<BR><BR>������ƊF����ɕ����������Ƃ��A����܂��āB<BR>����͂ƌ����ƁA�����Ȃ񂩂��������ɂǂ������\�t�g���g���Ă���̂�������Ƌ���������܂��āB<BR>�@�����͈ꑾ�Y�iATOK�j�����p���Ă��܂����A�F����͂ǂ��Ȃ�ł��傤�H<BR>�@�����������ɂ͂��ꂪ��Ԃ��Č����̂͂����ł��傤���H
+はじめまして。こちらに作品を投稿させてもらったＭ３と言います。<BR><BR>ちょっと皆さんに聞きたいことが、ありまして。<BR>それはと言うと、小説なんかを書く時にどういうソフトを使っているのかちょっと興味がありまして。<BR>　自分は一太郎（ATOK）を愛用していますが、皆さんはどうなんでしょう？<BR>　文書を書くにはこれが一番って言うのはあるんでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/03 01:52:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007311947sphgbq&id2=1004545629klghyy&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007311947sphgbq_id2_1004545629klghyy_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>&gt;�@�����͈ꑾ�Y�iATOK�j�����p���Ă��܂����A�F����͂ǂ��Ȃ�ł��傤�H<BR>�ꑾ�Y�́A�g�������Ƃ��Ȃ��̂ŁA�Ȃ�Ƃ������܂��񂪁A�킽���́A�e�L�X�g�G�f�B�^�ł���A�G�ۂ��g���Ă��܂��B<BR>���ƁA���͂̃`�F�b�N��WORD���g���Ă��܂��B<BR><BR>
+starbowです。<BR><BR>&gt;　自分は一太郎（ATOK）を愛用していますが、皆さんはどうなんでしょう？<BR>一太郎は、使ったことがないので、なんともいえませんが、わたしは、テキストエディタである、秀丸を使っています。<BR>あと、文章のチェックにWORDを使っています。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/05 00:33:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007480015rpkmo&id2=1004545629klghyy&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007480015rpkmo_id2_1004545629klghyy_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>���������΁A���̌f�����P�����o���܂����ˁB<BR>������A���͂Ȃ���A�������݁��t�H���[�����Ă��������Ǝv���܂��B<BR><BR>���N���A�ꃖ����؂�܂����B<BR>�N���Ƃ����΁A��|���A�N�z�����΁A�g���A�h���[���W�����{�Ȃ�<BR>�߂��뉟���ł����A�������l�^�ɂ����A�X�g�[�����n��Ȃ����ȁH<BR>�l����ƁA���낢�날�肻���ł��ˁB<BR><BR>��|�������Ă��炽�o�Ă����B�B�B<BR>�N�z�����΂ɍ������Ă����B�B�B<BR>�g���̕���ŁB�B�B<BR>�h���[���W�����{�ł����������Ƃ́B�B�B<BR><BR>�ȂǁA�ǂ��ł����ˁH
+starbowです。<BR><BR>そういえば、この掲示板も１ヶ月経ちましたね。<BR>今後も、微力ながら、書き込み＆フォローをしていきたいと思います。<BR><BR>今年も、一ヶ月を切りました。<BR>年末といえば、大掃除、年越しそば、紅白、ドリームジャンボなど<BR>めじろ押しですが、これらをネタにした、ストーリが創れないかな？<BR>考えると、いろいろありそうですね。<BR><BR>大掃除をしていらた出てきた。。。<BR>年越しそばに混ざっていた。。。<BR>紅白の舞台で。。。<BR>ドリームジャンボであったたあとの。。。<BR><BR>など、どうですかね？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2001/12/09 00:24:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2001/12/09 00:24:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007825057llmbwv&id2=1004545629klghyy&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007825057llmbwv_id2_1004545629klghyy_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����J�L�R����Ƃm�f�Ȃ̂��ȁi�΁j<BR><BR>&gt;�@�����͈ꑾ�Y�iATOK�j�����p���Ă��܂����A�F����͂ǂ��Ȃ�ł��傤�H<BR>�����炭���낢��Ȃ̂��g���Ă���i�g�������Ă���A�ł͂Ȃ��E�E�E�j�͎̂�����Ԃł��傤�i���j<BR>�P�j��Ђŏ����ꍇ�i�������X�W�p�\�R���j<BR>�l�r�[�v�n�q�c���ꑾ�Y�Ńe�L�X�g�������ă��[�h�p�b�h�Ń`�}�`�}�Ƃ������������܂��B�i��Ђ̂����ɓ����Ă���̂��g���Ă܂��j<BR>�Q�j�Ƃŏ����ꍇ�i�}�b�N�j<BR>�d�f�v�n�q�c�������ł��B���܂Ƀp�X�J�����C�g�Ńe�L�X�g�����������肵�܂��B<BR>���ƁA���܂��܂Ƃ����ҏW�ɁA�l�X�P�̃R���|�[�U�[�g����������܂��B�����p�̃t�@�C���́A�Â��f�n���������ł���낿�����ƍ�����肵�Ă܂��i�v�͎蔲���j<BR><BR>�����͂̃`�F�b�N��WORD���g���Ă��܂��B<BR><BR>����A�̂�����E�E�E�E<BR>���Ȃ񂩂P�񂩂Q��ǂݒ��������ŕ��@�̃`�F�b�N�Ȃ񂩂������ƂȂ��ł���A�{���Ɂi�Ȃ�Ă��������E�E�E�j<BR>�ł́B
+私がカキコするとＮＧなのかな（笑）<BR><BR>&gt;　自分は一太郎（ATOK）を愛用していますが、皆さんはどうなんでしょう？<BR>おそらくいろいろなのを使っている（使い分けている、ではない・・・）のは私が一番でしょう（爆）<BR>１）会社で書く場合（ｗｉｎ９８パソコン）<BR>ＭＳーＷＯＲＤか一太郎でテキストをかいてワードパッドでチマチマとｈｔｍｌ化します。（会社のｐｃに入っているのを使ってます）<BR>２）家で書く場合（マック）<BR>ＥＧＷＯＲＤが多いです。たまにパスカルライトでテキストだけ書いたりします。<BR>あと、ちまちまとした編集に、ネスケのコンポーザー使ったりもします。ｈｐ用のファイルは、古いＧＯｌｉｖｅでちょろちょろっと作ったりしてます（要は手抜き）<BR><BR>＞文章のチェックにWORDを使っています。<BR><BR>いや、偉すぎる・・・・<BR>私なんか１回か２回読み直すだけで文法のチェックなんかしたことないですよ、本当に（なんていい加減・・・）<BR>では。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ӂ����</strong>  <i>2001/12/10 01:14:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ふらっと</strong>  <i>2001/12/10 01:14:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007914468hvailw&id2=1004545629klghyy&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007914468hvailw_id2_1004545629klghyy_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͏��S�҂���ȁB����A�����Ƃ������B��i�A�R�����o���Ă��Ȃ����E�E�E�B<BR><BR>�ʔ������Șb��Ȃ̂ŁA�v�킸�Q�����܂��B<BR>���͕���łƂ��͑��e�L�X�g�B��������WZ EDITOR�Ƃ����\�t�g�ŁA���[�Ƒł��Ă��܂��܂��B<BR>���̌�A�ꑾ�Y�ƃ��[�h�Ɋ��􂵂ĖႢ�A���͍Z���B<BR>�X�Ƀz�[���y�[�W�r���_�[�ɒ���t���āA���s�Ȃǂ̃^�O�����ĖႢ�A<BR>������x�������ɖ߂��ĕs�v�Ȃg�s�l�k�̍폜�Ȃǂ̍ŏI�I�ȕҏW�B<BR><BR>�����Ă݂�Ƃ܂ǂ�����������ł����A����Ȋ����ł��B<BR>�ǂ����A���[�h��ꑾ�Y�̂g�s�l�k�ҏW�@�\���ĐM���ł��Ȃ��āE�E�E�B
+私は初心者だよな。うん、きっとそうだ。作品、３つしか出していないし・・・。<BR><BR>面白そうな話題なので、思わず参加します。<BR>私は文を打つときは大抵テキスト。メモ帳かWZ EDITORというソフトで、だーと打ってしまいます。<BR>その後、一太郎とワードに活躍して貰い、文章校正。<BR>更にホームページビルダーに張り付けて、改行などのタグを入れて貰い、<BR>もう一度メモ帳に戻して不要なＨＴＭＬの削除などの最終的な編集。<BR><BR>書いてみるとまどろっこしそうですが、そんな感じです。<BR>どうも、ワードや一太郎のＨＴＭＬ編集機能って信頼できなくて・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/11 00:00:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007996417knlyj&id2=1004545629klghyy&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007996417knlyj_id2_1004545629klghyy_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӂ���Ƃ��܁A<BR><BR>�����ł��ˁB<BR>���[�v���\�t�g�ō쐬����HTML�́A<BR>��������^�O���t���Ă��āA�Ȃ�ł���Ȃɂ��Ă��邩<BR>�Ǝv�����炢�ł�����ˁB<BR><BR>�킽���́A�G�ۂ��g���Ă��܂��B<BR>���K���\���ŁA�ꊇ�ϊ����ł���̂ŁA�d�󂵂Ă��܂��B
+ふらっとさま、<BR><BR>そうですね。<BR>ワープロソフトで作成したHTMLは、<BR>たくさんタグが付いていて、なんでこんなについているか<BR>と思うぐらいですからね。<BR><BR>わたしは、秀丸を使っています。<BR>正規化表現で、一括変換ができるので、重宝しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ȃ�</strong>  <i>2001/12/21 17:58:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>なし</strong>  <i>2001/12/21 17:58:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008925112qiehki&id2=1004545629klghyy&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008925112qiehki_id2_1004545629klghyy_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�r�e�Ƃ͂Ȃ�̗��Ȃ̂ł��傤���H<BR>�����Ăe�a�h�̐������̂͂Ȃ�Ƃ����̂ł��傤���H<BR>���łɑ嗤�Ԓe���~�T�C���̗��͂Ȃ�Ƃ����̂ł��傤���H<BR>�Ō�Ƀ��{�g�����ĂȂ�Ȃ̂ł��傤���H<BR>�����m���Ă����狳���ĉ������B
+ＳＦとはなんの略なのでしょうか？<BR>そしてＦＢＩの正式名称はなんというのでしょうか？<BR>ついでに大陸間弾道ミサイルの略はなんというのでしょうか？<BR>最後にロボトルってなんなのでしょうか？<BR>もし知っていたら教えて下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/12/21 20:33:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/12/21 20:33:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008934432tcbije&id2=1004545629klghyy&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008934432tcbije_id2_1004545629klghyy_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�E�r�e�F��ʓI�ɂ́u�rcience �eiction�v�̗��B�v����Ɂu�Ȋw��z杁v�̂��ƁB<BR>�������A�s�r�e�Ƃ����Ɓu�srans �rexual �eiction�v�������́u�srans �rexual �eantasy�v�̗��ɂȂ�̂Œ��ӁB<BR>�E�e�a�h�F�u�eederal �aureau of �hnvestigation�v�̗��B�č��A�M�{���ǂ̂��ƁB<BR>�E�嗤�Ԓe���~�T�C���F�h�b�a�l�B�u�hnter�bontinental �aallistic �lissile�v���������́B<BR>�E���{�g���F�E�E�E�͒m��Ȃ��B�ǂȂ����A�o�g���^�b�`�i�΁j
+・ＳＦ：一般的には「Ｓcience Ｆiction」の略。要するに「科学空想譚」のこと。<BR>ただし、ＴＳＦというと「Ｔrans Ｓexual Ｆiction」もしくは「Ｔrans Ｓexual Ｆantasy」の略になるので注意。<BR>・ＦＢＩ：「Ｆederal Ｂureau of Ｉnvestigation」の略。米国連邦捜査局のこと。<BR>・大陸間弾道ミサイル：ＩＣＢＭ。「ＩnterＣontinental Ｂallistic Ｍissile」が正式名称。<BR>・ロボトル：・・・は知らない。どなたか、バトンタッチ（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/12/21 20:34:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/12/21 20:34:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008934483rgifn&id2=1004545629klghyy&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008934483rgifn_id2_1004545629klghyy_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂����B�������ɏ����Ă��܂������i���j
+しまった。こっちに書いてしまったぞ（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/21 23:11:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008943918kltwih&id2=1004545629klghyy&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008943918kltwih_id2_1004545629klghyy_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>�E���{�g���F�R�~�b�N�u���_���b�g�v�łłĂ���A���{�b�g�̃y�b�g"���_���b�g"�ǂ����̃o�g���̂���<BR><BR>�������ł��B<BR><BR>
+starbowです。<BR><BR>・ロボトル：コミック「メダロット」ででてくる、ロボットのペット"メダロット"どうしのバトルのこと<BR><BR>だそうです。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/21 23:20:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1008944458tecyaq&id2=1004545629klghyy&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1008944458tecyaq_id2_1004545629klghyy_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U���܁A<BR><BR>�������݁A���肪�Ƃ��������܂��B<BR><BR>���ꂩ����A�C���t�����_������܂�����A<BR>�T�|�[�g�X�������肢���܂��B
+ｍｋ８４２６さま、<BR><BR>書き込み、ありがとうございます。<BR><BR>これからも、気が付いた点がありましたら、<BR>サポート宜しくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/26 02:45:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009302347ejbknp&id2=1004545629klghyy&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009302347ejbknp_id2_1004545629klghyy_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>�����A�N���ł��ˁB�܂��A�������̋G�߂ɂȂ�܂��ˁB<BR>�������Ƃ�����ŁA�Ȃɂ������l�^����܂����H<BR>
+starbowです。<BR><BR>もう、年末ですね。また、お正月の季節になりますね。<BR>お正月という題で、なにかいいネタありますか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ȃ�</strong>  <i>2001/12/27 07:58:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>なし</strong>  <i>2001/12/27 07:58:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009407508wthjo&id2=1004545629klghyy&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009407508wthjo_id2_1004545629klghyy_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���������A�L�������܂����B<BR>�S���犴�ӂ��Ă���܂��B<BR>�ł����瑱���Ď��₪����̂ł��B<BR>�w�Z�ɂ���o�s�`�Ƃ͂Ȃ�Ȃ̂ł��傤���H<BR>�����ă��K���Ƃ͂Ȃ�̉��b�ł��傤���H<BR>�Ō�Ƀ|�P�M�A���ĂȂ�ł����H
+すばらしいお答え、有難う御座いました。<BR>心から感謝しております。<BR>ですから続けて質問があるのです。<BR>学校にあるＰＴＡとはなんなのでしょうか？<BR>そしてメガロとはなんの怪獣でしょうか？<BR>最後にポケギアってなんですか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/28 00:54:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009468498heesp&id2=1004545629klghyy&ff=p">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009468498heesp_id2_1004545629klghyy_ff_p.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�EPTA�iParent Teachers Association�j<BR>�u�o�s�`�̖ړI�ɂ��ẮA����Ƌ����Ƃ����͂��āA�ƒ�Ɗw�Z�ɂ����鎙���A���N�̍K���Ȑ������͂��邱�Ɓv�������ł��B<BR><BR>�E���K���@�@�S�W���΃��K�� �i�P�X�V�R�j<BR>�������b�u�g���T�T�� �̏d�S���� ��s���x�}�b�n�R �C���ړ����x�U�O�O�m�b�g�@�H���̕����P�O�O�O���^���v�������ł��B<BR><BR>�E�|�P�M�A<BR>�Q�[���{�[�C�p�̃Q�[���@�|�P��������ȍ~�ɏo�Ă��铹��B<BR>���v�A�d�b�A�}�b�v�A���W�I�̋@�\�����邻���ł��B<BR>
+・PTA（Parent Teachers Association）<BR>「ＰＴＡの目的については、父母と教員とが協力して、家庭と学校における児童、青少年の幸福な成長をはかること」だそうです。<BR><BR>・メガロ　　ゴジラ対メガロ （１９７３）<BR>昆虫怪獣「身長５５ｍ 体重４万ｔ 飛行速度マッハ３ 海中移動速度６００ノット　羽根の風速１０００ｍ／ｓ」だそうです。<BR><BR>・ポケギア<BR>ゲームボーイ用のゲーム　ポケモン金銀以降に出てくる道具。<BR>時計、電話、マップ、ラジオの機能があるそうです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ȃ�</strong>  <i>2001/12/28 07:24:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>なし</strong>  <i>2001/12/28 07:24:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009491876eulgbdo&id2=1004545629klghyy&ff=p">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009491876eulgbdo_id2_1004545629klghyy_ff_p.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����܂ŏڂ��������ĉ�����Ƃ́A���ӂ̋C�����ł����ς��ł��B<BR>�ł�������������������Ă��������B<BR>�G�b�t�F�����̊��������N���ĉ��N�Ȃ̂ł��傤���H<BR>���ƃE���g���}���Ń[�b�g���𑀂��Ă����F���l�̖��O�͂Ȃ�ł��傤���H
+ここまで詳しく書いて下さるとは、感謝の気持ちでいっぱいです。<BR>ですからもう一つ質問を許してください。<BR>エッフェル塔の完成した年って何年なのでしょうか？<BR>あとウルトラマンでゼットンを操っていた宇宙人の名前はなんでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2001/12/28 17:55:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2001/12/28 17:55:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009529720umbgf&id2=1004545629klghyy&ff=p">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009529720umbgf_id2_1004545629klghyy_ff_p.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����l�^�z<BR>�@�������ŕϐg�ƌ����ƁA�ߋ��Ɂu���������ʃ|���g�����v�Ƃ����̂�����܂����B<BR>�@���̓��B�ł́A�u���E�}�`�̐_�l�ɑ����āA<BR>���܂��܂��̐_�Ђɗ����������ϐg�\�͂�^�����āA�|���g�����Ƃ��Ĉ��ɗ����������Ƃ����v���e�ł����B<BR>�@�̂��ɂ��̃V�`���G�[�V�����͎󂯌p����A<BR>�u�L�����s�V�X�^�[�Y�@�V���V���g���A���v�Ȃǂ̍�i�����܂�Ă܂��ˁB<BR><BR>�i���F���̃l�^�͑����ҏ����B�g�������l�͂����Ő錾���悤�B�i���j�j
+【正月ネタ】<BR>　お正月で変身と言うと、過去に「美少女仮面ポワトリン」というのがありました。<BR>　この特撮では、「リウマチの神様に代わって、<BR>たまたまその神社に来た少女が変身能力を与えられて、ポワトリンとして悪に立ち向かうという」内容でした。<BR>　のちにこのシチュエーションは受け継がれ、<BR>「有言実行シスターズ　シュシュトリアン」などの作品も生まれてますね。<BR><BR>（注：このネタは早い者勝ち。使いたい人はここで宣言しよう。（爆））
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/28 22:35:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009546516hbpcys&id2=1004545629klghyy&ff=p">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009546516hbpcys_id2_1004545629klghyy_ff_p.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�E�G�b�t�F�����@�@�t�����X�v��100���N���L�O<BR>1889�N3��31���Ɋ��������B<BR><BR>�E�[�b�g���𑀂��Ă����F���l�̖��O<BR>�ϐg���l�@�[�b�g�����l�@�m�g���n�Q���[�g���@�m�̏d�n�U�O�L���O����
+・エッフェル塔　　フランス革命100周年を記念<BR>1889年3月31日に完成した。<BR><BR>・ゼットンを操っていた宇宙人の名前<BR>変身怪人　ゼットン星人　［身長］２メートル　［体重］６０キログラム
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ȃ����߃��}�_</strong>  <i>2001/12/29 20:42:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>なし改めヤマダ</strong>  <i>2001/12/29 20:42:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009626146iplwk&id2=1004545629klghyy&ff=p">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009626146iplwk_id2_1004545629klghyy_ff_p.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�l�A�{���ɗL�������܂����B<BR>�[�b�g���𑀂��Ă���̂��[�b�g�����l�Ƃ́A�܂������m��܂���ł����B�������ɃE���g���}���̍ŏI�b���������āA���b�̖��O���s���ā@���܂����̂ł��傤���B����ɂQ���[�g�����x�łU�O�L���Ƃ�������������Ȑݒ�͂ǂ��Ȃ��Ă���̂ł��傤���B���������X�̓��B������@���ݏo���Ă����~�J�v���l�Ȃ̂ŁA���̒��x�͋������̂�������܂���B<BR>�����Ă������������������Ă��������B���{�l���O���ŉ҂����ꍇ�ŋ��͂��̍��ɁA����Ƃ����{���A�ǂ���ɔ[�߂�̂ł��傤���H
+starbow様、本当に有難う御座いました。<BR>ゼットンを操っているのがゼットン星人とは、まったく知りませんでした。さすがにウルトラマンの最終話だけあって、怪獣の名前が尽きて　しまったのでしょうか。それに２メートル丁度で６０キロといういいかげんな設定はどうなっているのでしょうか。しかし数々の特撮名作を　生み出してきた円谷プロ様なので、この程度は許されるのかもしれません。<BR>そしてもう一つだけ質問を許してください。日本人が外国で稼いだ場合税金はその国に、それとも日本か、どちらに納めるのでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/01/04 17:39:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/01/04 17:39:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1010133588kmgohqn&id2=1004545629klghyy&ff=p">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1010133588kmgohqn_id2_1004545629klghyy_ff_p.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ����߃��}�_�����<BR>�����͂������Œ��ׂĂ݂܂������H<BR>������S�Ȏ��T�A�C���^�[�l�b�g�Ȃǂ𗘗p�����猋�\�Ȕ͈͂Œ��ׂ����܂���B<BR>����ɁA�����Œ��ׂ������m���ɐg�ɕt���܂����B<BR>�ǂ����Ă��킩��Ȃ����́A�����ĉ������B�ǂȂ����������Ă���܂���B���^�N�V���܂߂āB
+なし改めヤマダさんへ<BR>少しはご自分で調べてみましたか？<BR>辞書や百科事典、インターネットなどを利用したら結構な範囲で調べがつきますよ。<BR>それに、自分で調べた方が確実に身に付きますし。<BR>どうしてもわからない時は、聞いて下さい。どなたかが答えてくれますよ。ワタクシも含めて。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/01/05 22:28:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1010237308oxqcve&id2=1004545629klghyy&ff=p">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1010237308oxqcve_id2_1004545629klghyy_ff_p.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>�x��y���Ȃ���A�V�N�����܂��Ă��߂łƂ��������܂��B<BR>���N���A�u���S��ONLY�y�[�W�v���X�������肢���܂��B<BR><BR>�V�N���X�A���ŋ�J���Ă���܂��B<BR><BR>TS�Ɋւ����A�����I�Ȏ���ȂǁA����₱���<BR>�������݂��X�������肢���܂��B<BR><BR>
+starbowです。<BR><BR>遅れ馳せながら、新年明けましておめでとうございます。<BR>今年も、「初心者ONLYページ」を宜しくお願いします。<BR><BR>新年早々、大雪で苦労しております。<BR><BR>TSに関した、初歩的な質問など、あれやこれや<BR>書き込みを宜しくお願いします。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/01/06 19:09:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/01/06 19:09:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1010311798puuxbfg&id2=1004545629klghyy&ff=p">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1010311798puuxbfg_id2_1004545629klghyy_ff_p.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��A���܂�Ӗ��̂Ȃ����Ȏ���ɗ��p���܂����āA�{���ɂ��߂�Ȃ����B<BR>�����������͋L���Ɉ����������I�ȕ����ł������A�����͊w�K�I�Ȗʁc�Ƃ������A���e�����Ă���������i�̎Q�l�Ƃ��Ă̎���ł���܂����B<BR>���̒��ł���ԎQ�l�ɂȂ����̂́A�G�b�t�F�����Ɋւ��鎖�ł����B<BR>����Ɋւ��ẮA�S���犴�ӂ��Ă���܂��B<BR>�ŁA���ł͒��ׂ悤�̂Ȃ��������낵���ł��傤���B<BR>�C���^�[�l�b�g��Ȃǂ̑�j���E�ŕʂ̐��𖼏�鎖�͂s�r�ƌĂ΂��̂ł��傤���H<BR>�悯��΋����Ă������������̂ł��B����́A��ł��w�K�ł��Ȃ��A�V���Ȕ��W�Ɍ����Ă̎���ł������܂��B
+はい、あまり意味のなさげな質問に利用しまくって、本当にごめんなさい。<BR>しかし半分は記憶に引っかかる趣味的な部分でしたが、半分は学習的な面…というか、投稿させていただく作品の参考としての質問でありました。<BR>その中でも一番参考になったのは、エッフェル塔に関する事でした。<BR>これに関しては、心から感謝しております。<BR>で、他では調べようのない質問をよろしいでしょうか。<BR>インターネット上などの第ニ世界で別の性を名乗る事はＴＳと呼ばれるのでしょうか？<BR>よければ教えていただきたいのです。これは、趣味でも学習でもなく、新たな発展に向けての質問でございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/01/06 21:24:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/01/06 21:24:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1010319888dsrgh&id2=1004545629klghyy&ff=p">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1010319888dsrgh_id2_1004545629klghyy_ff_p.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���C���^�[�l�b�g��Ȃǂ̑�j���E�ŕʂ̐��𖼏�鎖�͂s�r�ƌĂ΂��̂ł��傤���H<BR>����͂s�r�ł͂Ȃ��A���[���v���C�iRole Play�F�������Z�j�ł͂Ȃ��ł��傤���ˁB�����܂ł��A�ِ��𑕂��킯�ł�����ˁB<BR>�ȏ�́A�����܂Ń��^�N�V�̍l���ł����ǂˁB
+＞インターネット上などの第ニ世界で別の性を名乗る事はＴＳと呼ばれるのでしょうか？<BR>これはＴＳではなく、ロールプレイ（Role Play：役割演技）ではないでしょうかね。あくまでも、異性を装うわけですからね。<BR>以上は、あくまでワタクシの考えですけどね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/01/06 23:40:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1010328059udmir&id2=1004545629klghyy&ff=p">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1010328059udmir_id2_1004545629klghyy_ff_p.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>&gt;�C���^�[�l�b�g��Ȃǂ̑�j���E�ŕʂ̐��𖼏�鎖�͂s�r�ƌĂ΂��̂ł��傤���H<BR>�����ł��ˁB<BR>���݂̃C���^�[�l�b�g���x���ł́A�����W�S�Q�U����̌���ꂽ���e�ƂȂ�ł��傤�B<BR>����ǂ��A�����Ɛi��ŁA�����郔�@�[�`�����Ȑ��E�ƂȂ�ƁATS�ɂȂ�̂ł͂Ǝv���܂��B<BR>��i���X�g�ɂ���A�u���B�[�i�X�E�V�e�B�v�Ȃǂ��A�Y�����܂��B<BR><BR>�ǂ��ł��傤���ˁH<BR>
+starbowです。<BR><BR>&gt;インターネット上などの第ニ世界で別の性を名乗る事はＴＳと呼ばれるのでしょうか？<BR>そうですね。<BR>現在のインターネットレベルでは、ｍｋ８４２６さんの言われた内容となるでしょう。<BR>けれども、もっと進んで、いわゆるヴァーチャルな世界となると、TSになるのではと思います。<BR>作品リストにある、「ヴィーナス・シティ」などが、該当します。<BR><BR>どうでしょうかね？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/01/19 23:26:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/01/19 23:26:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1011450402udemtao&id2=1004545629klghyy&ff=p">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1011450402udemtao_id2_1004545629klghyy_ff_p.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��i�𑗂������Ƃɗ���^�c�ψ�����̃��[���ɂ͕ԐM�����ق��������̂ł��傤���H<BR>
+作品を送ったあとに来る運営委員さんのメールには返信したほうがいいのでしょうか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/01/20 23:20:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1011536408grdikg&id2=1004545629klghyy&ff=p">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1011536408grdikg_id2_1004545629klghyy_ff_p.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C�����܂ցA<BR><BR>���e�̊m�F�Ȃǂ��ǋL����Ă��Ȃ���΁A�ԐM���K�v�Ƃ����킯�ł͂���܂���B<BR>
+ノインさまへ、<BR><BR>内容の確認などが追記されていなければ、返信が必要というわけではありません。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/01/21 01:45:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/01/21 01:45:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1011545102eresweb&id2=1004545629klghyy&ff=p">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1011545102eresweb_id2_1004545629klghyy_ff_p.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow����A���肪�Ƃ��������܂����B<BR>�ԐM���Ȃ��̂��s�`���ȋC��������ł����A�ԐM����̂����f���ȂƎv�������̂Ŗ����Ă���܂����B<BR>
+starbowさん、ありがとうございました。<BR>返信しないのも不義理な気がしたんですが、返信するのも迷惑かなと思ったもので迷っておりました。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/01/26 00:06:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1011971178hyunduq&id2=1004545629klghyy&ff=p">APPEND 50</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1011971178hyunduq_id2_1004545629klghyy_ff_p.cgi">APPEND 50</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A1�����I���ł��ˁB<BR><BR>�Ƃ���ŁA�ŋ߂��������̍�i�͂Ȃ�ł��傤���ˁH<BR>starbow�Ƃ��ẮA�u�����D���Ȑl�v���������A�u�炢������v�����邵�A<BR>�Ȃ��Ȃ��A�ǂ�Ƃ������Ƃ��ł��܂���B<BR><BR>�ǂ̍�i���A���������ł����H
+もう、1月も終わりですね。<BR><BR>ところで、最近いちおしの作品はなんでしょうかね？<BR>starbowとしては、「俺が好きな人」もいいし、「らいか大作戦」もあるし、<BR>なかなか、どれということができません。<BR><BR>どの作品が、いちおしですか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Β�</strong>  <i>2002/01/31 17:08:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>石塚</strong>  <i>2002/01/31 17:08:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012464513xliqmq&id2=1004545629klghyy&ff=p">APPEND 51</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012464513xliqmq_id2_1004545629klghyy_ff_p.cgi">APPEND 51</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͐̂��炠��^��̌��ɐ��]�����w��ǂ܂��Ē����Ă��܂����B<BR>����͗Ⴆ�Βj���珗�ɕω�����A�Ƃ������]���̂Ȃ��ŁA�g�̓I�ω���\������ƌ������́A���Ȃ̔ے�A�{���̐��ɑ΂���ے�ɂȂ���̂ł͂Ȃ����c�Ǝ��͍l����̂ł��B<BR>���͐��]�����Ȋw�I�ł���Ȃ�����d���ɖ��͂����鑶�݂ƍl���Ă��܂��B����Ă��̃y�[�W�̍�i��ǂ܂��Ē����Ă���̂ł����A�����Ȃ����L�̎��ɂ��ċ^�₪�c�����̂ł��B<BR>����Đ��]�����w�ɂ����鐫�ʂ̈ʒu�Ƃ͖{���ǂ��ɂ���ׂ��Ȃ̂��A���S�҂̎��ɑ΂��ėϗ��I�ʂ��炨�����肦��΍K���ł������܂��B
+私は昔からある疑問の元に性転換文学を読ませて頂いていました。<BR>それは例えば男から女に変化する、という性転換のなかで、身体的変化を表現すると言う事は、自己の否定、本来の性に対する否定につながるのではないか…と私は考えるのです。<BR>私は性転換を非科学的でありながらも重分に魅力がある存在と考えています。よってこのページの作品を読ませて頂いているのですが、少しながら上記の事について疑問が残ったのです。<BR>よって性転換文学における性別の位置とは本来どこにあるべきなのか、初心者の私に対して倫理的面からお答え願えれば幸いでございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/02 14:02:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/02 14:02:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012626172thutwo&id2=1004545629klghyy&ff=p">APPEND 52</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012626172thutwo_id2_1004545629klghyy_ff_p.cgi">APPEND 52</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Β˂����<BR>�ϗ��I�ʂł����c����ł��ˁB���͂Ȃ���l�����ɁA�����������낢����Ƃ������R�ŏ����Ă����ł����B�܂�TS�͂���Ȃ�X�p�C�X�̈��Ȃ̂ł��B���߂ł����˂���ς�B<BR>���Ȃ݂ɁA����͎����ł����ATS�����ɂ����鐫�]���͎��Ȃ̐��̔ے�ł͂Ȃ��A�ނ��됫���ω����悤���u�����͎����ł���̂��v�Ɠ`���鎖�ɂ���̂ł͂Ȃ��ł��傤���B�����ɂȂ������N�͎��肩��W�F���_�[�I�ȋ������󂯂܂��B���̂Ƃ��A���߂ĎЉ�Ƃ������̂��A�ǂ�قǉ�X�ɂ������ċ����͂������Ă�������m��̂ł��B���̂��߁A�t�Ɏ����Ƃ������݂���苭���l����悤�ɂȂ�̂ł͂Ȃ��ł��傤���B����̓����J�����ƌĂ΂���ނ̏����ł͌����ł��ˁB<BR>���S�҂̎�������ȂɈ̂����Ȃ��Ə����Ă����̂��낤���B�i���j<BR><BR><BR>
+石塚さんへ<BR>倫理的面ですか…難しいですね。私はなんも考えずに、ただおもしろいからという理由で書いているんですが。つまりTSはたんなるスパイスの一種なのです。だめですかねやっぱり。<BR>ちなみに、これは私見ですが、TS小説における性転換は自己の性の否定ではなく、むしろ性が変化しようが「自分は自分であるのだ」と伝える事にあるのではないでしょうか。少女になった少年は周りからジェンダー的な強制を受けます。そのとき、初めて社会というものが、どれほど我々にたいして強制力を持っていたかを知るのです。そのため、逆に自分という存在をより強く考えるようになるのではないでしょうか。これはリリカル物と呼ばれる種類の小説では顕著ですね。<BR>初心者の私がこんなに偉そうなこと書いていいのだろうか。（汗）<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Β�</strong>  <i>2002/02/02 20:10:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>石塚</strong>  <i>2002/02/02 20:10:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012648255ryrttx&id2=1004545629klghyy&ff=p">APPEND 53</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012648255ryrttx_id2_1004545629klghyy_ff_p.cgi">APPEND 53</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�{���Ɋ����I�ȉ񓚂ł����B���肪�Ƃ��������܂��B<BR><BR>�����ł�����Ǝ���Ȃ̂ł����w�����J�����x�Ƃ͂ǂ������Ӗ��Ȃ̂ł��傤���H��낵�������狳���ĉ������B
+本当に感動的な回答でした。ありがとうございます。<BR><BR>そこでちょっと質問なのですが『リリカル物』とはどういう意味なのでしょうか？よろしかったら教えて下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/02 21:53:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/02 21:53:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012654390qjcjw&id2=1004545629klghyy&ff=p">APPEND 54</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012654390qjcjw_id2_1004545629klghyy_ff_p.cgi">APPEND 54</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Β˂����<BR>�����J�����Ă������Ƃ̈Ӗ��͑��`�I�Ȃ̂ŁA<BR>������Ɠ`����͓̂���ł��B��{�I�ɂ̓n�[�g�t���i�g���Șb�j�ɋ߂��n���Ǝ��͍l���Ă���̂ł����A����͑��̐l�̈ӌ��������Ă݂����ł��ˁB<BR>���̌n���̍�i�ł͊�{�I�ɁA��l���͏��̎q���ۂ��Ȃ��Ă����̂ł����A�W�F���_�[�ɂ�鋭���ł͂Ȃ��A�����I�ɂƂ�����i�ł��B�����ɒj�Ə��Ƃ��������W���e�[�[����A�����̃J�^���V�X������Ǝv���̂ł����E�E�E�܂����̂킯�킩������𕷂������A���ۂɂ݂Ȃ��܂̑f���炵����i�Q�����Ă݂�̂���낵�����Ǝv���܂���B<BR>�܂��܂��A�V�l�̎�������Ȏ��������Ă����̂��Ǝv���̂ł����B�i���j<BR>���̌���������������Ă�����A�w�E���Ă��������B�ҏȂ��܂��̂ŁB<BR><BR>
+石塚さんへ<BR>リリカルっていうことの意味は多義的なので、<BR>ちょっと伝えるのは難しいです。基本的にはハートフル（暖かな話）に近い系統と私は考えているのですが、これは他の人の意見も聞いてみたいですね。<BR>この系統の作品では基本的に、主人公は女の子っぽくなっていくのですが、ジェンダーによる強制ではなく、自発的にという作品です。そこに男と女という性がジンテーゼされ、ある種のカタルシスがあると思うのですが・・・まあ私のわけわからん解説を聞くよりも、実際にみなさまの素晴らしい作品群を見てみるのがよろしいかと思いますよ。<BR>またまた、新人の私がこんな事を書いていいのかと思うのでした。（汗）<BR>私の見解が激しく違っていたら、指摘してください。猛省しますので。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/03 00:16:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/03 00:16:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012663003jtmeh&id2=1004545629klghyy&ff=p">APPEND 55</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012663003jtmeh_id2_1004545629klghyy_ff_p.cgi">APPEND 55</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǐL<BR>���Ȃ݂ɃM���O�n�ł�<BR>���]�����������ꂽ�j�̎q��<BR>�p��������������A���������肷��p������<BR>�Ƃ����O���ȗ��R�Ŏ��͓ǂ�ł��܂��B<BR>�܂��ATS����������ɂ킽��A�����[���Ƃ������Ƃł��ˁB<BR>����͂��߂Ȃ̂��낤���E�E�E�H<BR>
+追伸<BR>ちなみにギャグ系では<BR>性転換を強制された男の子が<BR>恥ずかしがったり、嫌がったりする姿がいい<BR>という外道な理由で私は読んでいます。<BR>まあ、TS小説も多岐にわたり、奥が深いということですね。<BR>それはだめなのだろうか・・・？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/02/03 00:17:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/02/03 00:17:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012663067rdxux&id2=1004545629klghyy&ff=p">APPEND 56</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012663067rdxux_id2_1004545629klghyy_ff_p.cgi">APPEND 56</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���́w�����J���x���@�w������x�Ǝv���Ă܂����B<BR>���[�񍂑��Ȃ���Łi�e�w�j
+私は『リリカル』＝　『少女趣味』と思ってました。<BR>うーん高卒なもんで（テヘ）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/03 15:27:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/03 15:27:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012717623cbkph&id2=1004545629klghyy&ff=p">APPEND 57</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012717623cbkph_id2_1004545629klghyy_ff_p.cgi">APPEND 57</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��A���`�I�ł��ˁi�΁j<BR>
+うーん、多義的ですね（笑）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/02/03 21:18:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/02/03 21:18:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012738729scdtv&id2=1004545629klghyy&ff=p">APPEND 58</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012738729scdtv_id2_1004545629klghyy_ff_p.cgi">APPEND 58</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����J���ylyrical�z���i�R�j��I<BR>���傶�傤�y�R��E����z�����̊�����q�ו\������<BR><BR>�u�L������ܔŁv�������炱��Ȃ�o�܂������ǁE�E�E�B<BR>�܂��܂��킯�킩���i���j�B
+リリカル【lyrical】叙（抒）情的<BR>じょじょう【抒情・叙情】自分の感情を述べ表すこと<BR><BR>「広辞苑第五版」引いたらこんなん出ましたけど・・・。<BR>ますますわけわからん（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/02/03 23:51:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012747893amgfe&id2=1004545629klghyy&ff=p">APPEND 59</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012747893amgfe_id2_1004545629klghyy_ff_p.cgi">APPEND 59</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��[�Ɓ[�݂��� ���܁A<BR><BR>Marie����̍�i�������A�f�ڂ��邱�ƂɂȂ�܂����B<BR>�܂��A�P��i���f�ڂ���܂����B<BR>���m�F���������B<BR>
+れーとーみかん さま、<BR><BR>Marieさんの作品を順次、掲載することになりました。<BR>まず、１作品が掲載されました。<BR>ご確認ください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/02/04 00:17:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012749465loaogs&id2=1004545629klghyy&ff=p">APPEND 60</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012749465loaogs_id2_1004545629klghyy_ff_p.cgi">APPEND 60</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C�����܁A�������񂳂܁A�����W�S�Q�U���܁A<BR><BR>���낢��ƃ��X�����Ă��������A���肪�Ƃ��������܂��B<BR>�i�����������Ă����Astarbow�ł����B�j<BR><BR>
+ノインさま、もぐたんさま、ｍｋ８４２６さま、<BR><BR>いろいろとレスをしていただき、ありがとうございます。<BR>（ご無沙汰していた、starbowでした。）<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/02/04 00:57:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1012751860lahwxcu&id2=1004545629klghyy&ff=p">APPEND 61</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1012751860lahwxcu_id2_1004545629klghyy_ff_p.cgi">APPEND 61</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>&gt;�����ł�����Ǝ���Ȃ̂ł����w�����J�����x�Ƃ͂ǂ������Ӗ��Ȃ̂ł��傤���H��낵�������狳���ĉ������B<BR>�����J�����́A���_�`�ʏd���̍�i�ŁA������̕ω���@�ׂɕ`�����ƂȂǂ���A�X���I�ɏ����R�~�b�N�E������Ƃ̍�i�Ȃǂɑ���������悤�ł��B�܂��A�]���ď�����I�ȍ앗�S�ʁi�����A�G��A���y�Ȃǁj�������Ă���悤�Ɏv���܂��B<BR>
+starbowです。<BR><BR>&gt;そこでちょっと質問なのですが『リリカル物』とはどういう意味なのでしょうか？よろしかったら教えて下さい。<BR>リリカル物は、精神描写重視の作品で、こころの変化を繊細に描くことなどから、傾向的に少女コミック・女流作家の作品などに多く見られるようです。また、転じて少女趣味的な作風全般（小説、絵画、音楽など）をさしているように思われます。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Β�</strong>  <i>2002/02/10 16:47:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>石塚</strong>  <i>2002/02/10 16:47:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013327241cbswb&id2=1004545629klghyy&ff=p">APPEND 62</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013327241cbswb_id2_1004545629klghyy_ff_p.cgi">APPEND 62</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����J�����̉񓚁A���肪�Ƃ��������܂��B<BR><BR>�����΂���^�₪����̂ł����A���̂悤�ɃC���^�[�l�b�g��ɏ������f�ڂ���̂�ړI�Ƃ��ď��������̈Ӌ`�Ƃ͂Ȃ�Ȃ̂ł��傤���B<BR>�Ⴆ�΃v���̍�ƂȂ�����҂��Ƃ����ړI������Ǝv���܂��B������<BR>�C���^�[�l�b�g�Ɍf�ڂ�������Ƃ����ċ����I���v������Ƃ͍l�����܂���B�ł͂Ȃ������������̂ł��傤���H�����قȂǂɏW�܂�T�[�N���̂悤�Ȃ��̂Ȃ̂ł��傤���B<BR>��������΂������肢�܂��B
+リリカル物の回答、ありがとうございます。<BR><BR>少しばかり疑問があるのですが、このようにインターネット上に小説を掲載するのを目的として書く小説の意義とはなんなのでしょうか。<BR>例えばプロの作家なら金を稼ぐという目的があると思います。しかし<BR>インターネットに掲載したからといって金利的利益があるとは考えられません。ではなぜ小説を書くのでしょうか？公民館などに集まるサークルのようなものなのでしょうか。<BR>もしよれればお答え願います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/02/10 23:23:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/02/10 23:23:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013351026nbnrout&id2=1004545629klghyy&ff=p">APPEND 63</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013351026nbnrout_id2_1004545629klghyy_ff_p.cgi">APPEND 63</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������܂��傤�B<BR>�ꌾ�Ō����Ă��܂��΁u��v�B<BR>���K�I�Ȗ��ł͂Ȃ��A�����P�Ɏ����̏�������i�𑼂̐l�ɓǂ�ł�����āA�Ȃɂ������̔����𓾂�B<BR>���̔������A�����Ȃ�ł��ˁB<BR>����́A��x�o��������킩��Ǝv���܂���B
+お答えしましょう。<BR>一言で言ってしまえば「趣味」。<BR>金銭的な問題ではなく、ただ単に自分の書いた作品を他の人に読んでもらって、なにがしかの反応を得る。<BR>この反応が、快感なんですね。<BR>これは、一度経験したらわかると思いますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�앶��</strong>  <i>2002/02/11 21:11:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>南文堂</strong>  <i>2002/02/11 21:11:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013429469dlhlp&id2=1004545629klghyy&ff=p">APPEND 64</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013429469dlhlp_id2_1004545629klghyy_ff_p.cgi">APPEND 64</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Β˗l�� APPEND 62 �̖₢�ɑ΂��āA���̏ꍇ�ƌ��肵�āA���������܂��傤�B<BR>�@�����������̂��A�C���X�g��`���̂��A�����ړI������킯�ł͂���܂���B�����W�S�Q�U�l�Ɠ����������ł����A�u��v�ł�����B<BR>�@��ƌ����̂́A���琶���Ă�����œ�����Ƃ͎v���Ȃ����ƂɐS���Ƌ��K�A���Ԃ������݁A���l���猩��΃o�J�炵�����ƂɈꏊ�����ɂȂ邱�Ƃł��B�Ȃ��Ȃ����l�ɂ͔[�����������ł��Ȃ����̂ł��傤�B�������A�����œ���ꂽ�ߊ���X�͐l���ɉ؂€�������炵�Ă���A�l�i�ɍʂ��^���Ă����ƐM���Ă܂��B���������Ӗ��Ō����ƁA�l�����y���ނ��߂ɏ����Ă���ƌ����Ȃ����Ȃ��ł��B<BR>�@�Ȃ��A���������Ȃ�̂��Ƃ����ƁA�u����Șb��ǂ�ł݂����B�ł��A�Ȃ��B�Ȃ�A�����ŏ����Ă��܂��v��������A�A�C�f�A���v�����āu���������b�A�ʔ�����������Ȃ��v�Ƃ��A�N���̍�i��ǂ�Ŋ������󂯁u����Șb�����������Ă݂����v�Ǝv������A�l�X���Ǝv���܂��B��҂��ƂɂƂ��������A��i���ƂɁB<BR>�@�����āA���́A���\����̂��ƌ�����ƁA����������͒N���Ɍ��Ă��炢�����Ǝv���̂��l�̐��Ƃ������̂ł��B�ŏ��͋C�p���������̂ł����A��x�A���ݐ؂��Ă��܂��ƃ��~�c�L�ɂȂ��Ă��܂����̂ł���B<BR>
+　石塚様の APPEND 62 の問いに対して、私の場合と限定して、お答えしましょう。<BR>　小説を書くのも、イラストを描くのも、何か目的があるわけではありません。ｍｋ８４２６様と同じ言い方ですが、「趣味」ですから。<BR>　趣味と言うのは、何ら生きていく上で得するとは思えないことに心血と金銭、時間をつぎ込み、他人から見ればバカらしいことに一所懸命になることです。なかなか他人には納得も理解もできないものでしょう。しかし、そこで得られた悲喜交々は人生に華やぎをもたらしてくれ、人格に彩りを与えてくれると信じてます。そういう意味で言うと、人生を楽しむために書いていると言えなくもないです。<BR>　なぜ、書きたくなるのかというと、「こんな話を読んでみたい。でも、ない。なら、自分で書いてしまえ」だったり、アイデアを思いついて「こういう話、面白いかもしれない」とか、誰かの作品を読んで感銘を受け「こんな話を私も書いてみたい」と思ったり、様々だと思います。作者ごとにというよりも、作品ごとに。<BR>　そして、何故、発表するのかと言われると、書いた限りは誰かに見てもらいたいと思うのが人の性というものです。最初は気恥ずかしいのですが、一度、踏み切ってしまうとヤミツキになってしまうものですよ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/11 21:41:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/11 21:41:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013431281vndtu&id2=1004545629klghyy&ff=p">APPEND 65</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013431281vndtu_id2_1004545629klghyy_ff_p.cgi">APPEND 65</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������������A���}�̂Ɉڍs����ׂ̗��K�Ƃ��ď����Ă���l�����邩������܂����B�܂��A�����ɂ͂قƂ�Ǖs�\�ł����c<BR>���Ȃ݂Ɏ��͎�ׂ݂̂̈ɏ����Ă���܂��B
+もしかしたら、紙媒体に移行する為の練習として書いている人もいるかもしれませんよ。まあ、現実にはほとんど不可能ですが…<BR>ちなみに私は趣味のみの為に書いております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/02/12 01:05:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013443506vykytk&id2=1004545629klghyy&ff=p">APPEND 66</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013443506vykytk_id2_1004545629klghyy_ff_p.cgi">APPEND 66</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ł��ˁB<BR><BR>��Ƃ��ď�������A�{�Ƃ̖T�炱�����菑������A�S�̂Ȃ��̊������������邽�߂ɏ�������Ɛl���ꂼ��ł͂Ȃ��ł��傤���B<BR>�܂��A��������������ɁA�v���ɂȂ�l�����邩������܂��񂪁A�Ή������߂ď����Ă���킯�ł͂���܂���B<BR><BR>�l�̎���{�I�ȗ~���A������n���������~����<BR>�l�ɔF�߂Ă��炢�����~�������������Ă���̂ł͂Ȃ��ł��傤���B<BR><BR>
+そうですね。<BR><BR>趣味として書いたり、本業の傍らこっそり書いたり、心のなかの葛藤を消化するために書いたりと人それぞれではないでしょうか。<BR>また、これをきっかけに、プロになる人もいるかもしれませんが、対価を求めて書いているわけではありません。<BR><BR>人の持つ基本的な欲求、何かを創造したい欲求と<BR>人に認めてもらいたい欲求がそうさせているのではないでしょうか。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Β�</strong>  <i>2002/02/12 11:15:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>石塚</strong>  <i>2002/02/12 11:15:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013480125kwginmy&id2=1004545629klghyy&ff=p">APPEND 67</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013480125kwginmy_id2_1004545629klghyy_ff_p.cgi">APPEND 67</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂��{�͎�Ȃ̂ł����B���͂��܂������ł��Ȃ��̂ł����A�l�Ԃ�������Ƃ����Ӌ`�͂Ȃ�̂��߂ɂ���̂ł��傤���B<BR>��Ƃ����킫�����̂��̂ɉ��l�͑��݂��Ȃ��Ƃ��A���ԂƂ������݂ɂ͑���Ȃ鉿�l�����o���܂��B�܂肱�̗l�ɏ����𔭕\���鎖�ɂ���Ĉ̑�Ȃ�킫�����o�ꂷ��킯�Ȃ̂ł��傤���B�����Ă��̎��Ɏ��Ԃ�������Ƃ��Ă��A����Ȃ�̉��l�𓾂���Ƃ����l�����Ȃ肽���Ă���̂ł��傤�ȁB
+つまり基本は趣味なのですか。私はいまだ理解できないのですが、人間が生きるという意義はなんのためにあるのでしょうか。<BR>趣味というわき道そのものに価値は存在しなくとも、時間という存在には多大なる価値を見出します。つまりこの様に小説を発表する事によって偉大なるわき道が登場するわけなのでしょうか。そしてその事に時間を消費したとしても、それなりの価値を得られるという考えがなりたっているのでしょうな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/02/12 13:58:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/02/12 13:58:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013489925bsmfxs&id2=1004545629klghyy&ff=p">APPEND 68</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013489925bsmfxs_id2_1004545629klghyy_ff_p.cgi">APPEND 68</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��Ƃ����̂͂��Ă��đ��̐l�ɂ͗��������������̂ł�����˂��i�΁j�B<BR>���l�ƌ������́A���_�I�Ȗ������ł��傤�ȁB�l���ɏ����������炷���̂ł��ˁB<BR>����܂����l���Ȃ��Ă������Ǝv���܂���B�v����ɁA��肽�����Ƃ�����Ă邾���i���Ȃ��Ƃ����^�N�V�́j�ł�����ˁB
+趣味というのはえてして他の人には理解しがたいものですからねぇ（笑）。<BR>価値と言うよりは、精神的な満足感でしょうな。人生に潤いをもたらすものですね。<BR>あんまり難しく考えなくてもいいと思いますよ。要するに、やりたいことをやってるだけ（少なくともワタクシは）ですからね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/02/12 17:12:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/02/12 17:12:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013501575xexwy&id2=1004545629klghyy&ff=p">APPEND 69</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013501575xexwy_id2_1004545629klghyy_ff_p.cgi">APPEND 69</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���S�҂̍�҂Ƃ��Ĉӌ������Ă��炢�܂��B<BR>���̏ꍇ�A�����œ��e�������R�́A�����̏����������𔭕\�ł��邩��ł��B<BR>�����A���̏������������҂��ׂɏ����Ƃ�����i�����ł����ǂˁj�A�ǎ҂̔������C�ɂ��āA�܂�����������X�g�[���[�ɂ����Ǝv���܂��B<BR>������ɂ���ƕҏW�҂̈ӌ��ɏ]��Ȃ���΂Ȃ�˂��������邵�A�ǎ҂̔����Ŏ����̍l�����X�g�[���[��ύX���Ȃ���΂Ȃ炢��������Ǝv���܂��B�i�������ӌ��ɂȂ�Ƃs�r���́A���肫���肾�Ƃ����邩������܂���B�j<BR>���̕��A���l�ɕ]��������i�͂ł��Ă����Ǝv���܂����A�Z�т���i�ɂȂ��Ă���̂�������܂���B<BR>����͂���Ŏ��́A�ʔ�����i���ǂ߂�̂ł����̂ł����A��Ƃ́A�����̏����������������Ă��Ȃ��̂ł͂Ǝv����������܂��B<BR>���́A�Ƃ�P����̍�i�����d���ēǂސl�ԂɂȂ肽���ł��B<BR><BR>������l����ƁA�����͂s�r�v�f�ƂP�W�ւ̃��[��������΁A�D���ȕ��������܂��B<BR>�Ƃ�P����̏�����ǂ�ł���ĕ]�����Ă����̂ł�����y�����ł��B�i���̕]���ɂ���āA�V�����C���[�W����邫�������ɂȂ邩�������܂���B�j<BR>�����ڂł݂�Ǝ����̍���������c�������ɂ��Ȃ�Ǝv���܂��B<BR>�܂��A�������҂��̂��y���������i������ׂ��܂݂܂��B�j������ׂł��傤����A���ǁA�����Ȃ̂�������܂���ˁB
+初心者の作者として意見させてもらいます。<BR>私の場合、ここで投稿した理由は、自分の書きたい物を発表できるからです。<BR>もし、私の小説をお金を稼ぐ為に書くとしたら（無理ですけどね）、読者の反応を気にして、まったく違ったストーリーにしたと思います。<BR>漫画を例にすると編集者の意向に従わなければならねい時もあるし、読者の反応で自分の考えたストーリーを変更しなければならい時もあると思います。（厳しい意見になるとＴＳ物は、ありきたりだといわれるかもしれません。）<BR>その分、万人に評価される作品はできていくと思いますが、媚びた作品になっているのかもしれません。<BR>それはそれで私は、面白い作品が読めるのでいいのですが、作家は、自分の書きたい物を書いていないのではと思う事もあります。<BR>私は、独り善がりの作品も尊重して読む人間になりたいです。<BR><BR>それを考えると、ここはＴＳ要素と１８禁のルールを入れれば、好きな物を書けます。<BR>独り善がりの小説を読んでくれて評価してくれるのですから楽しいです。（その評価によって、新しいイメージを作るきっかけになるかもししません。）<BR>長い目でみると自分の作った物を残した事にもなると思います。<BR>まあ、お金を稼ぐのも楽しい生活（生きる為も含みます。）をする為でしょうから、結局、同じなのかもしれませんね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��̂�������j�d�a�n�i�S�R�����Ȃ������j</strong>  <i>2002/02/14 15:48:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>謎のおぢさんＫＥＢＯ（全然謎ぢゃないぢゃん）</strong>  <i>2002/02/14 15:48:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1013669320edjiup&id2=1004545629klghyy&ff=p">APPEND 70</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1013669320edjiup_id2_1004545629klghyy_ff_p.cgi">APPEND 70</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂩓N�w�Șb�ɂȂ��Ă�E�E�E<BR><BR>���C���^�[�l�b�g�Ɍf�ڂ�������Ƃ����ċ����I���v������Ƃ͍l�����܂���B�ł͂Ȃ������������̂ł��傤���H<BR>����́A�����ɏ����������̂����邩��ł��B�ʂɃl�b�g���Ȃ��Ă��N�����Ȃ������Ƃ��Ă������ł��傤�ˁA���́B<BR>���l�Ԃ�������Ƃ����Ӌ`�͂Ȃ�̂��߂ɂ���̂ł��傤���B<BR>����Ȃ��̂́A�Ȃ���΂Ȃ��܂܂ł��傤(^^)<BR>������Ӌ`�͐l��l��l�������̂ł����āA�͂��߂��炠����̂ł͂Ȃ��Ǝv���̂ł����E�E�E�E<BR>�i�����ɂȂ��ĂȂ��ˁE�E�E�΁j
+なんか哲学な話になってる・・・<BR><BR>＞インターネットに掲載したからといって金利的利益があるとは考えられません。ではなぜ小説を書くのでしょうか？<BR>それは、そこに書きたいものがあるからです。別にネットがなくても誰も見なかったとしても書くでしょうね、私は。<BR>＞人間が生きるという意義はなんのためにあるのでしょうか。<BR>そんなものは、なければないままでしょう(^^)<BR>生きる意義は人一人一人が作るものであって、はじめからあるものではないと思うのですが・・・・<BR>（答えになってないね・・・笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/02/20 00:29:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1014132545snyupjn&id2=1004545629klghyy&ff=p">APPEND 71</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1014132545snyupjn_id2_1004545629klghyy_ff_p.cgi">APPEND 71</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Q�����㔼�ɂȂ�܂����B<BR>���������t�ł��ˁB<BR><BR>�Ƃ���ŁA�t�Ƃ����Ήԕ��̋G�߂Ƃ������ƂŁA���N�̂��ƂȂ���<BR>�ŋߖڂ��y���Ȃ��āA�@�����ł�Ǐ󂪏o�Ă��܂����B<BR><BR>�Ȃ��Ȃ��A�炢�G�߂ł��B<BR><BR>�F����́A�ǂ̂悤�ɑΏ�����Ă��܂����H
+２月も後半になりました。<BR>もうすぐ春ですね。<BR><BR>ところで、春といえば花粉の季節ということで、毎年のことながら<BR>最近目が痒くなって、鼻水がでる症状が出てきました。<BR><BR>なかなか、つらい季節です。<BR><BR>皆さんは、どのように対処されていますか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/02/28 02:21:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1014830495louwv&id2=1004545629klghyy&ff=p">APPEND 72</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1014830495louwv_id2_1004545629klghyy_ff_p.cgi">APPEND 72</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-HTML�̕��@�`�F�b�N�́A�ǂ̂悤�ɂ���Ă��܂����H<BR><BR>�킽���́AWeb�ɂ���A�uAnother HTML-lint �v���g�p���Ă��܂��B<BR>�F�l�́A�ǂ̂悤�Ƀ`�F�b�N����Ă��܂����H<BR><BR>Another HTML-lint <BR><a href="http://htmllint.itc.keio.ac.jp/htmllint.html" target="_blank">http://htmllint.itc.keio.ac.jp/htmllint.html</a>
+HTMLの文法チェックは、どのようにされていますか？<BR><BR>わたしは、Webにある、「Another HTML-lint 」を使用しています。<BR>皆様は、どのようにチェックされていますか？<BR><BR>Another HTML-lint <BR><a href="http://htmllint.itc.keio.ac.jp/htmllint.html" target="_blank">http://htmllint.itc.keio.ac.jp/htmllint.html</a>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/28 10:32:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/28 10:32:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1014859921bompnx&id2=1004545629klghyy&ff=p">APPEND 73</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1014859921bompnx_id2_1004545629klghyy_ff_p.cgi">APPEND 73</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Ȃ񂩂����Ⴒ���Ⴕ�ĂāA������҂��ł����c<BR>�@�_�E�����[�h���Ă�̂ł����H�@����Ƃ����̃y�[�W�ł��̂܂܂������̕��͂��R�s�y���Ă���������̂ł����H�@<BR>�@�������c������Ǝ��M���Ȃ��Ȃ��Ă��܂����B<BR>�@HTML��m�����̂��R�A�S�����O�c�܂��܂��䂪�����ł��c
+　なんかごちゃごちゃしてて、ちょっぴり謎でした…<BR>　ダウンロードしてるのですか？　それともそのページでそのままご自分の文章をコピペしていらっしゃるのですか？　<BR>　あああ…ちょっと自信がなくなってきました。<BR>　HTMLを知ったのが３、４ヶ月前…まだまだ謎が多いです…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/03/01 00:54:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1014911671gcgdbed&id2=1004545629klghyy&ff=p">APPEND 74</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1014911671gcgdbed_id2_1004545629klghyy_ff_p.cgi">APPEND 74</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C�����܁A<BR><BR>&gt;�Ȃ񂩂����Ⴒ���Ⴕ�ĂāA������҂��ł����c<BR>�`�F�b�N����HTML�̐擪��<BR>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"&gt;<BR><BR>�Ƃ��������Ɣ��ɂ�������G���[���o�Ă��܂��܂��̂ŁA<BR>���̑I���q�ŁAHTML 4.0 Transitional��IE5�̎w������Ă���A<BR>�`�F�b�N�����������������ł��B<BR><BR>&gt;�_�E�����[�h���Ă�̂ł����H�@����Ƃ����̃y�[�W�ł��̂܂܂������̕��͂��R�s�y���Ă���������̂ł����H�@<BR>�f�ڂ��鎞��UP�������ƁAURL�w��Ń`�F�b�N�����Ă��܂��B<BR>���X�A�Y��Ă����肵�܂����ǂ��B<BR><BR>&gt;�������c������Ǝ��M���Ȃ��Ȃ��Ă��܂����B<BR>�킽�����A���߂ă`�F�b�N���������Ƃ��́A�}�C�i�X�̍̓_�ł����B<BR>�i��ɏ�����HTML�̎�ނ̎w�肪�Ȃ��������߂ł����B�j<BR>&gt;HTML��m�����̂��R�A�S�����O�c�܂��܂��䂪�����ł��c<BR>���ꂩ����A����΂��Ă��������B<BR>�K�v�Ȃ̂́A����ł�����B
+ノインさま、<BR><BR>&gt;なんかごちゃごちゃしてて、ちょっぴり謎でした…<BR>チェックするHTMLの先頭に<BR>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"&gt;<BR><BR>とかが無いと非常にたくさんエラーが出てしまいますので、<BR>下の選択子で、HTML 4.0 TransitionalかIE5の指定をしてから、<BR>チェックをかけた方がいいです。<BR><BR>&gt;ダウンロードしてるのですか？　それともそのページでそのままご自分の文章をコピペしていらっしゃるのですか？　<BR>掲載する時にUPしたあと、URL指定でチェックをしています。<BR>時々、忘れていたりしますけども。<BR><BR>&gt;あああ…ちょっと自信がなくなってきました。<BR>わたしも、初めてチェックをかけたときは、マイナスの採点でした。<BR>（上に書いたHTMLの種類の指定がなかったためですが。）<BR>&gt;HTMLを知ったのが３、４ヶ月前…まだまだ謎が多いです…<BR>これからも、がんばってください。<BR>必要なのは、慣れですから。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/03/01 11:46:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/03/01 11:46:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1014950796annsvu&id2=1004545629klghyy&ff=p">APPEND 75</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1014950796annsvu_id2_1004545629klghyy_ff_p.cgi">APPEND 75</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow����A�񓚂ǂ����ł��B<BR>URL�Ń`�F�b�N�ł����c�Ȃ�قǁA����Ȃ�ł������ł��B<BR>
+starbowさん、回答どうもです。<BR>URLでチェックですか…なるほど、これならできそうです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2002/03/05 21:31:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2002/03/05 21:31:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1015331471ykfxd&id2=1004545629klghyy&ff=p">APPEND 76</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1015331471ykfxd_id2_1004545629klghyy_ff_p.cgi">APPEND 76</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���E�E�E�E�E�E<BR>�ځA�ڂ��A�߂����傤�Ƃ��Ă����Ƃł���������<BR>�Ԃ炤���łЂ傤�������Ă݂邾�������������ƂȂ���E�E�E�E<BR><BR>�`�F�b�N��������@���đ��ɂ��������Ȃ�Ă͂��߂Ēm�����i���j
+え・・・・・・<BR>ぼ、ぼく、めもちょうとかてきすとでたぐうって<BR>ぶらうざでひょうじさせてみるだけしかしたことないや・・・・<BR><BR>チェックかける方法って他にもあったなんてはじめて知った（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/03/11 00:59:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1015775998ukplnan&id2=1004545629klghyy&ff=p">APPEND 77</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1015775998ukplnan_id2_1004545629klghyy_ff_p.cgi">APPEND 77</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ƁA�킽���́AHTML���쐬����Ƃ��́A�G�ۂł����Ə����Ă���AFront Page�Ń^�O�����낦(�^�O�̔����������C���j�A<BR>WORD�Ō뎚�`�F�b�N�����āAAnother HTML-lint �ŕ��@�`�F�b�N�����Ă��܂��B<BR><BR>
+あと、わたしは、HTMLを作成するときは、秀丸でざっと書いてから、Front Pageでタグをそろえ(タグの抜けを自動修正）、<BR>WORDで誤字チェックをして、Another HTML-lint で文法チェックをしています。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2002/03/19 23:03:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日比野</strong>  <i>2002/03/19 23:03:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016546593sgqvoer&id2=1004545629klghyy&ff=p">APPEND 78</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016546593sgqvoer_id2_1004545629klghyy_ff_p.cgi">APPEND 78</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āB<BR>�p�\�R���̂��Ƃ��܂������킩��Ȃ��킽�����A�͂���߂���ȕ��œ��e���Ă݂��̂ł����A������ڂ����肷��̂ł��傤���H�����Ă��������B���������ĕ��͂���������ƁA�r�������悤�Ȃ��Ƃ�����̂ł��傤���H���ƁA�݂Ȃ��񂪌����Ă���g�s�l�k���ĂȂ�ł����H�Ȃ񂩂悭�킩��Ȃ��̂ŁA������ł���΋����Ă��������B���肢���܂��B
+初めまして。<BR>パソコンのことをまったくわからないわたしが、はちゃめちゃな文で投稿してみたのですが、いつごろ載ったりするのでしょうか？教えてください。もしかして文章が汚すぎると、排除されるようなことがあるのでしょうか？あと、みなさんが言っているＨＴＭＬってなんですか？なんかよくわからないので、それもできれば教えてください。お願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:the_best@geocities.co.jp" target="_blank">��傤</a></strong>  <i>2002/03/20 00:35:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:the_best@geocities.co.jp" target="_blank">りょう</a></strong>  <i>2002/03/20 00:35:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016552153ijwsme&id2=1004545629klghyy&ff=p">APPEND 79</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016552153ijwsme_id2_1004545629klghyy_ff_p.cgi">APPEND 79</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����삳��A���߂܂��āB<BR>�^�c�ψ�����点�Ă��������Ă����傤�ł��B<BR><BR>��������ڂ����肷��̂ł��傤���H<BR>�ڈ��Ƃ��ẮA���e�����T�Ԉȓ��A�ł��B<BR>��ʂɍ�i���͂����肵���ꍇ�ɂ͌f�ڂ��x�ꂪ���ł����i��҂݂̂Ȃ��񂷂��܂���j�A<BR>������x���Ă��P�O���ȓ��ɂ͌f�ڂł���悤�w�͂��Ă��܂��B<BR><BR>�����������ĕ��͂���������ƁA�r�������悤�Ȃ��Ƃ�����̂ł��傤���H<BR>�뎚�E���ȂǂɊւ��ẮA������Ōf�ڑO�Ƀ`�F�b�N����悤�ɂ��Ă��܂��B<BR>���e�͂Ƃ������Ƃ��āA���̂ɂ���Čf�ځE��f�ڂ����܂邱�Ƃ͂Ȃ��ł��B<BR>���e�ɂ��ẮA���e�K��i<a href="http://www14.big.or.jp/~yays/library/boshuu.html" target="_blank">http://www14.big.or.jp/~yays/library/boshuu.html</a>�j���Q�Ƃ��Ă��������B<BR><BR>���g�s�l�k���ĂȂ�ł����H<BR>HyperText Markup Language�̗��ŁA������z�[���y�[�W�Ƃ��Ď��������{�����Ă���<BR>���̂̂����قƂ�ǂ����̌���i�H�j�ŋL�q����Ă��܂��B<BR>HTML�ɂ��ĉ�����Ă���T�C�g�͂��낢��Ƃ���̂ŁA����������ΒT���Ă݂�̂������Ǝv���܂��B<BR><BR>��i�𓊍e����������HTML�Ȃ�Ăǂ̂悤�ɂ��č��̂�������Ȃ��A�Ƃ������ꍇ�ɂ́A<BR>�e�L�X�g�`���iWindows�Ȃ烁�����Ȃǂō����t�@�C���`���j�œ��e���Ă���������Ό��\�ł��B<BR>������̂ق���HTML�ɕϊ����Čf�ڂ��܂��B
+日比野さん、初めまして。<BR>運営委員をやらせていただいているりょうです。<BR><BR>＞いつごろ載ったりするのでしょうか？<BR>目安としては、投稿から一週間以内、です。<BR>大量に作品が届いたりした場合には掲載が遅れがちですが（作者のみなさんすいません）、<BR>いくら遅くても１０日以内には掲載できるよう努力しています。<BR><BR>＞もしかして文章が汚すぎると、排除されるようなことがあるのでしょうか？<BR>誤字脱字などに関しては、こちらで掲載前にチェックするようにしています。<BR>内容はともかくとして、文体によって掲載・非掲載が決まることはないです。<BR>内容については、投稿規定（<a href="../../../boshuu.html" target="_blank">../../../boshuu.html</a>）を参照してください。<BR><BR>＞ＨＴＭＬってなんですか？<BR>HyperText Markup Languageの略で、いわゆるホームページとして私たちが閲覧している<BR>もののうちほとんどがこの言語（？）で記述されています。<BR>HTMLについて解説しているサイトはいろいろとあるので、興味があれば探してみるのもいいと思います。<BR><BR>作品を投稿したいけどHTMLなんてどのようにして作るのか分からない、といった場合には、<BR>テキスト形式（Windowsならメモ帳などで作られるファイル形式）で投稿していただければ結構です。<BR>こちらのほうでHTMLに変換して掲載します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/20 11:52:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/20 11:52:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016592722ijqjg&id2=1004545629klghyy&ff=p">APPEND 80</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016592722ijqjg_id2_1004545629klghyy_ff_p.cgi">APPEND 80</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`��c<BR>�Ƃ肠�����A�g���Ă���^�O���Ă�<BR>br���قƂ�ǂł��ˁc���s�^�O�ł��B<BR>�݂Ȃ���̍�i���E�N���b�N���ă\�[�X���J���Č����<BR>�ǂ̂悤�ȃ^�O���g���Ă��邩���킩��܂��B<BR>���Ƃ̓^�O���T�Ƃ����Q�Ƃɂ��A���ۂɂǂ̂悤�Ȍ��ʂ�����Ă��邩�����ɂ߂�΁A���\�ȒP�ɕ�����Ǝv���܂��B<BR>����΂��Ă���������
+う～ん…<BR>とりあえず、使っているタグってば<BR>brがほとんどですね…改行タグです。<BR>みなさんの作品を右クリックしてソースを開いて見ると<BR>どのようなタグを使っているかがわかります。<BR>あとはタグ辞典とかを参照にしつつ、実際にどのような効果が現れているかを見極めれば、結構簡単に分かると思います。<BR>がんばってください♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2002/03/20 20:02:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日比野</strong>  <i>2002/03/20 20:02:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016622128endxc&id2=1004545629klghyy&ff=p">APPEND 81</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016622128endxc_id2_1004545629klghyy_ff_p.cgi">APPEND 81</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ƃ��������܂��B�p�\�R�����Ă��낢�����ł��ˁB�Ȃ�Ƃ�����΂��Ă݂����Ǝv���܂��B
+ありがとうございます。パソコンっていろいろ難しいですね。なんとかがんばってみたいと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/03/21 13:33:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1016685213smooop&id2=1004545629klghyy&ff=p">APPEND 82</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1016685213smooop_id2_1004545629klghyy_ff_p.cgi">APPEND 82</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��傤���܁A<BR><BR>���X���肪�Ƃ��������܂��B<BR>�ŋ߁A�ԕ��ǂŃo�e�ĂĂ���starbow�ł����B
+りょうさま、<BR><BR>レスありがとうございます。<BR>最近、花粉症でバテてているstarbowでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2002/04/02 23:56:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日比野</strong>  <i>2002/04/02 23:56:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017759361egljnfm&id2=1004545629klghyy&ff=p">APPEND 83</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017759361egljnfm_id2_1004545629klghyy_ff_p.cgi">APPEND 83</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����܂���B�C���^�[�l�b�g��ڑ����Ă��Ȃ���ԂŁA��i�𑗂낤�Ƃ��Ă��܂����̂ŁA����Ă��Ȃ����A�����ς��s���Ă��܂������̂ǂ������Ȃ�ł���B���f�����������Ă����܂���B�m�F���Ă��������܂��ł��傤���B���Ƃ�������������A�����ł����̂ł����H�S�z�ł��B
+すいません。インターネットを接続していない状態で、作品を送ろうとしてしまったので、送れていないか、いっぱい行ってしまったかのどっちかなんですよ。迷惑をおかけしてすいません。確認していただけますでしょうか。あとこういう質問も、ここでいいのですか？心配です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/04/03 01:07:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017763633bmcfer&id2=1004545629klghyy&ff=p">APPEND 84</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017763633bmcfer_id2_1004545629klghyy_ff_p.cgi">APPEND 84</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>&gt;�m�F���Ă��������܂��ł��傤���B<BR>���[���́A�u����u�́@��O�́v���P���͂��Ă��܂���B<BR><BR>&gt;���Ƃ�������������A�����ł����̂ł����H�S�z�ł��B<BR>�����ł���B<BR>
+starbowです。<BR><BR>&gt;確認していただけますでしょうか。<BR>メールは、「光る丘は　第三章」が１件届いていますよ。<BR><BR>&gt;あとこういう質問も、ここでいいのですか？心配です。<BR>いいですよ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/04/03 15:52:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/04/03 15:52:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017816724okoxtdf&id2=1004545629klghyy&ff=p">APPEND 85</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017816724okoxtdf_id2_1004545629klghyy_ff_p.cgi">APPEND 85</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂��������S�I�Ȏ�������낵���ł��傤���B<BR>�u�^�v���̕����͂悭�^��w�Ƃ��^�Ȃ�Ƃ��Ƃ��A�g�p����܂����A���̈Ӗ��͂��������ǂ������Ӗ��Ȃ̂ł��傤���B<BR>�����ēǂݕ��́u�{�E�v�ł�낵���̂ł��傤���c
+まったく初心的な質問を一つよろしいでしょうか。<BR>「某」この文字はよく某大学とか某なんとかとか、使用されますが、この意味はいったいどういう意味なのでしょうか。<BR>そして読み方は「ボウ」でよろしいのでしょうか…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2002/04/03 17:52:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日比野</strong>  <i>2002/04/03 17:52:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017823958oybkydh&id2=1004545629klghyy&ff=p">APPEND 86</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017823958oybkydh_id2_1004545629klghyy_ff_p.cgi">APPEND 86</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ƃ��������܂��B<BR>����`�A�ł�܂����B����Ȏ���ł����܂���B�ł͂܂��B
+ありがとうございます。<BR>いや～、焦りました。こんな質問ですいません。ではまた。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/04/04 01:02:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017849738xbnop&id2=1004545629klghyy&ff=p">APPEND 87</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017849738xbnop_id2_1004545629klghyy_ff_p.cgi">APPEND 87</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�u�^�v���̕����͂悭�^��w�Ƃ��^�Ȃ�Ƃ��Ƃ��A�g�p����܂����A���̈Ӗ��͂��������ǂ������Ӗ��Ȃ̂ł��傤���B<BR>�厫�ё���(<a href="http://dictionary.goo.ne.jp/cgi-bin/jp-top.cgi)" target="_blank">http://dictionary.goo.ne.jp/cgi-bin/jp-top.cgi)</a>�ɂ��ƁA<BR> <BR>�P�D�i���j����l��ꏊ�E�����Ȃǂ��s���ȏꍇ�A�܂��Ӑ}�I�ɂ���Ƃ͂�����w�������Ă���Ȃ��ꍇ�ɗp�����B�u�����\�v�u�\�����Ɓv�u�\�N�\���v<BR>�Q�D�i��j��l�́B�j����������ւ肭�����Ă�����B���ꂪ���B�����B�u�\�m��h��/���t�����v  <BR><BR>�������ł��B<BR>&gt;�����ēǂݕ��́u�{�E�v�ł�낵���̂ł��傤���c <BR> 1   ���� �y�^�z  <BR> 2   ���ꂪ�� �y�^�z  <BR> 3   ���ꂪ�� �y�^�z  <BR> 4   �Ȃɂ��� �y�^�E���^�z  <BR> 5   �ڂ� �y�^�z  <BR>�������邻���ł��B<BR>���̏ꍇ�́A�u�{�E�v��OK�ł��傤�B
+&gt;「某」この文字はよく某大学とか某なんとかとか、使用されますが、この意味はいったいどういう意味なのでしょうか。<BR>大辞林第二版(<a href="http://dictionary.goo.ne.jp/cgi-bin/jp-top.cgi)" target="_blank">http://dictionary.goo.ne.jp/cgi-bin/jp-top.cgi)</a>によると、<BR> <BR>１．（名）ある人や場所・月日などが不明な場合、また意図的にそれとはっきり指し示していわない場合に用いる語。「中村―」「―政治家」「―年―月」<BR>２．（代）一人称。男性が自らをへりくだっていう語。それがし。やつがれ。「―稽首敬白/明衡往来」  <BR><BR>だそうです。<BR>&gt;そして読み方は「ボウ」でよろしいのでしょうか… <BR> 1   くれ 【某】  <BR> 2   くれがし 【某】  <BR> 3   それがし 【某】  <BR> 4   なにがし 【某・何某】  <BR> 5   ぼう 【某】  <BR>だけあるそうです。<BR>この場合は、「ボウ」でOKでしょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/04/04 16:09:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/04/04 16:09:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017904179axgkpwg&id2=1004545629klghyy&ff=p">APPEND 88</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017904179axgkpwg_id2_1004545629klghyy_ff_p.cgi">APPEND 88</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ƃ��������܂��B<BR>���N�̓䂪����Ɩ��炩�ɂȂ�܂����B
+ありがとうございます。<BR>長年の謎がやっと明らかになりました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/04/04 21:34:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/04/04 21:34:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017923645tufmc&id2=1004545629klghyy&ff=p">APPEND 89</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017923645tufmc_id2_1004545629klghyy_ff_p.cgi">APPEND 89</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����}�_����<BR>������A�ЂƂɕ����O�ɍ��ꎫ�T�����Ȃ������āi��΁j�B
+＞ヤマダさん<BR>だから、ひとに聞く前に国語辞典引きなさいって（苦笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����W�S�Q�U</strong>  <i>2002/04/11 00:39:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｍｋ８４２６</strong>  <i>2002/04/11 00:39:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1018453178fumkn&id2=1004545629klghyy&ff=p">APPEND 90</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1018453178fumkn_id2_1004545629klghyy_ff_p.cgi">APPEND 90</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���^�N�V�������Ɏ���������̂͂ǂ����Ǝv�������ǁB<BR>�ǂ����Ă��݂Ȃ���ɂ��������������Ƃ�����܂��B<BR>�݂Ȃ���́u�]���v�Ɓu����ւ��v���ǂ���ʂ���Ă��܂����B<BR>��̓I�ɂ́A�ߓ����^�N�V�̂g�o�Ɍf�ڂ���keyswitch����́u�ʓ˂��v�A����́u�]���v�Ȃ̂��u����ւ��v�Ȃ̂��B<BR>�݂Ȃ���̂��ӌ������肽���Ǝv���܂��̂ŁA��낵�����肢�������܂��B
+ワタクシがここに質問を書くのはどうかと思ったけど。<BR>どうしてもみなさんにお聞きしたいことがあります。<BR>みなさんは「転生」と「入れ替わり」をどう区別されていますか。<BR>具体的には、過日ワタクシのＨＰに掲載したkeyswitchさんの「玉突き」、これは「転生」なのか「入れ替わり」なのか。<BR>みなさんのご意見を承りたいと思いますので、よろしくお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/04/13 08:34:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/04/13 08:34:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1018654490jxnwq&id2=1004545629klghyy&ff=p">APPEND 91</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1018654490jxnwq_id2_1004545629klghyy_ff_p.cgi">APPEND 91</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�݂Ȃ���́u�]���v�Ɓu����ւ��v���ǂ���ʂ���Ă��܂����B<BR>�u�]���i�։��]���j�v�́A�O�܂ł̋L������ɂ��ĐV���������Ɉڂ�ς�鎖���Ǝv���܂��B<BR>���̏���ȍl���ẮA�����]�����鎞�A�V���������̐��݈ӎ��i���ӎ��j�ɂ��܂܂ł̋L�����R�s�[�����̂��ȂƎv���Ă��܂��B<BR>������A���݈ӎ��i�L�ӎ��j�ɂ́A�Ȃɂ��L������Ă��Ȃ��ׁA�o���Ă��Ȃ��Ƃ������Ƃ��Ǝv���܂��B<BR>�i�ލs�Ö��őO��������ꍇ������݂����ł��B�܂��A�펯�I�ɍl������A���炩�̐̂̐����̏��ƃX�g�[���[���A�Œ��ꒃ�ɓ��ꂳ��Đ��݈ӎ��ɃC���v�b�g����Ă��܂����ׂł��傤���ǂˁj<BR><BR>�u����ւ��v�́A���݈ӎ��i�L�ӎ��j���������邱�Ƃ��Ǝv���܂��B<BR><BR>�ł��̂�keyswitch����́u�ʓ˂��v�́A�u����ւ��v���ȂƎv���܂��B<BR>����keyswitch�l�̂悤�ȃX�g�[�����l����Ƃ�����A�܂��A�u����A�B�����A�i�I���񂪎Ԃ̏Փˎ��̂̃V���b�N�ō�����u�����̂���o�Ă����Ⴂ�܂��B<BR>���̌�A�u�N�͎̑̂���ł���̂Ŏ����ɂƂ��ēK���ȑ̂�B�����̑̂Ƃ��ăL���b�`���܂��B�����āA���̂܂ܜ߈˂����Ⴂ�܂��B<BR>�ŁA�B�����Ȃ�ł����A�u���񎩕��̑̂�苒����Ă��܂����̂ŕʂ̑̂̒T���܂��B���ꂪ�i�I����ł��B�i�I����͂��킢�����ł����A�H��̏�ԂŎc���܂��B<BR>�E�E�E�Ƃ����悤�Ȑݒ�Ɏ��͂��܂��B<BR>�ł��A�߈˂����݈ӎ��ɓ�����������̂�����A�ʖڂł��傤���ˁB<BR>�Ƃ͌����A���̎���A�l����΍l����قǓ���ł��B<BR><BR>�ȏ�ł�<BR>�������ɂȂ��Ă��܂��܂����B���݂܂���B<BR>TS���S�҂̈ӌ��Ƃ��Č��Ă��������B
+&gt;みなさんは「転生」と「入れ替わり」をどう区別されていますか。<BR>「転生（輪廻転生）」は、前までの記憶を空にして新しい生命に移り変わる事だと思います。<BR>私の勝手な考えては、魂が転生する時、新しい生命の潜在意識（無意識）にいままでの記憶がコピーされるのかなと思っています。<BR>だから、顕在意識（有意識）には、なにも記憶されていない為、覚えていないということだと思います。<BR>（退行催眠で前世が判る場合があるみたいです。まあ、常識的に考えたら、何らかの昔の生活の情報とストーリーが、滅茶苦茶に統一されて潜在意識にインプットされてしまった為でしょうけどね）<BR><BR>「入れ替わり」は、顕在意識（有意識）を交換することだと思います。<BR><BR>ですのでkeyswitchさんの「玉突き」は、「入れ替わり」かなと思います。<BR>私がkeyswitch様のようなストーリを考えるとしたら、まず、瞬くん、唯ちゃん、ナオくんが車の衝突事故のショックで魂が一瞬だけ体から出てしちゃいます。<BR>その後、瞬君の体は死んでいるので自分にとって適性な体を唯ちゃんの体としてキャッチします。そして、そのまま憑依しちゃいます。<BR>で、唯ちゃんなんですが、瞬くん自分の体を占拠されてしまったので別の体の探します。それがナオくんです。ナオくんはかわいそうですが、幽霊の状態で残します。<BR>・・・というような設定に私はします。<BR>でも、憑依も潜在意識に働きかけるものだから、駄目でしょうかね。<BR>とは言え、この質問、考えれば考えるほど難しいです。<BR><BR>以上です<BR>長い文になってしまいました。すみません。<BR>TS初心者の意見として見てください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/04/16 00:35:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1018884906yeyayq&id2=1004545629klghyy&ff=p">APPEND 92</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1018884906yeyayq_id2_1004545629klghyy_ff_p.cgi">APPEND 92</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�݂Ȃ���́u�]���v�Ɓu����ւ��v���ǂ���ʂ���Ă��܂����B<BR><BR>���̍�i�́A�u����ւ��v�ł͂Ȃ��ł��傤���H<BR><BR>�u�]���v���ƁA���ƒa��������킯�ł��āA���ԓI�ȍ����ʏ�͔�������Ǝv���܂��B�i�^�C���g���x���˂��́A���O���āB�j<BR><BR>���΃��X�Ő\���󂠂�܂���B<BR>
+&gt;みなさんは「転生」と「入れ替わり」をどう区別されていますか。<BR><BR>この作品は、「入れ替わり」ではないでしょうか？<BR><BR>「転生」だと、死と誕生があるわけでして、時間的な差が通常は発生すると思います。（タイムトラベルねたは、除外して。）<BR><BR>化石レスで申し訳ありません。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1019919476hbnkj&ff=on" target="_blank">���S��ONLY�y�[�W(2)�ւ͂������N���b�N  </a></strong>  <i>2002/04/28 00:01:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_1_id_1019919476hbnkj_ff_on.cgi" target="_blank">初心者ONLYページ(2)へはここをクリック  </a></strong>  <i>2002/04/28 00:01:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1019919685jhkgt&id2=1004545629klghyy&ff=p">APPEND 93</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1019919685jhkgt_id2_1004545629klghyy_ff_p.cgi">APPEND 93</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������P�O�O���ɋ߂��Ȃ�܂����̂ŁA�i�Q�j�̂ق��������p���������B(starbow@�^�c�ψ�)
+件数が１００件に近くなりましたので、（２）のほうをご利用ください。(starbow@運営委員)
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="1004545629klghyy">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

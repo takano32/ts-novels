@@ -1,172 +1,172 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1010799434etdgtp&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1010799434etdgtp_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�v�����Z�X���C�_�[</font><br>
+<font size="+2" color="#0000FF">プリンセスライダー</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/01/12 10:37:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/01/12 10:37:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010799434etdgtp&id2=1010799434etdgtp&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010799434etdgtp_id2_1010799434etdgtp_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/13135214/p_rider01.htm" target="_blank">���b������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/13 14:05:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/13135214/p_rider01.htm" target="_blank">第一話を見るにはここをクリック。</a></strong>  <i>2002/01/13 14:05:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010898319dartp&id2=1010799434etdgtp&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010898319dartp_id2_1010799434etdgtp_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����˂�����̂g�o�Řb��ɂȂ����V�V���[�Y�A���ɓo����I�I<BR>�@�a�f�l�ɂ̂����āA��l���̑䎌�����X�Z���̐��œǂ񂾒S�����āc�c�c�c���o�J�H
+【推薦文】かわねぎさんのＨＰで話題になった新シリーズ、ついに登場っ！！<BR>　ＢＧＭにのせられて、主人公の台詞を佐々〇功の声で読んだ担当って…………おバカ？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2002/01/13 15:05:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2002/01/13 15:05:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010901949dihrdhw&id2=1010799434etdgtp&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010901949dihrdhw_id2_1010799434etdgtp_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�z<BR>�i�C�g���C�_�[�̔������łł��ˁB�{�E���g���}���H<BR>��̓G�̓o��B����オ���Ă܂��ˁB������񂳂�A������҂��Ă܂���B<BR>
+【第一話】<BR>ナイトライダーの美少女版ですね。＋ウルトラマン？<BR>謎の敵の登場。盛り上がってますね。もぐりんさん、続きを待ってますよ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/13 16:45:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/13 16:45:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010907927noeauj&id2=1010799434etdgtp&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010907927noeauj_id2_1010799434etdgtp_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V���A�X�ȕ��͋C�ƃR�~�J���ȃV�[�������܂��������Ă��Ėʔ��������ł��B<BR>���ƁA�ݒ肪�ׂ����Ċi�D�ǂ��Đ����ł��B���������ꂮ�炢�l����ꂽ��c�c�B<BR>���ނ���񂪐��������ł��ˁB���ꂼ�{�N�����I�i���j<BR>�ł���q����������ł��B�C���X�g�̏Ί炪���Ƃ������܂���i���j�B<BR>���Ԑ����^�̋�����Ԃ����ꂩ��ʔ����Ȃ肻���Ȑݒ�Ŋ��҂ł��B<BR>�F�X�Ƒ�ςȂ��l�q�ł����A������y���݂ɂ����Ē����܂��B
+シリアスな雰囲気とコミカルなシーンがうまく混ざっていて面白かったです。<BR>あと、設定が細かくて格好良くて凄いです。自分もこれぐらい考えられたら……。<BR>香奈ちゃんが凄く可愛いですね。これぞボクっ娘！（爆）<BR>でも千尋さんも可愛いです。イラストの笑顔が何とも言えません（爆）。<BR>時間制限型の強化状態もこれから面白くなりそうな設定で期待です。<BR>色々と大変なご様子ですが、次回を楽しみにさせて頂きます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/01/13 18:12:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/01/13 18:12:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010913149yswogj&id2=1010799434etdgtp&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010913149yswogj_id2_1010799434etdgtp_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��b�ɂ��Ă������ł��B����ς荡��̖ڋʂ͂����C�V�[���ɂȂ��ł��傤���ˁA���肰�ɉ��������͋C�����q����Ɋ��ґ�ł��B�������{�N�����̍��ނ���������䂩�����B���̍�i���ꂩ��ǂ��Ȃ邩�y���݂ɂ��Ă܂��B�V���A�X�p�[�g�ɂ������҂ł��I�I
+一話にしてすごいです。やっぱり今回の目玉はお風呂シーンになるんでしょうかね、さりげに怪しい雰囲気を放つ千尋さんに期待大です。もちろんボクっ娘の香奈ちゃんもかわゆかった。この作品これからどうなるか楽しみにしてます。シリアスパートにも激期待です！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/01/13 19:49:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/01/13 19:49:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010918942gmjygdm&id2=1010799434etdgtp&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010918942gmjygdm_id2_1010799434etdgtp_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ����A��������ł��B���߂܂��āB<BR>�@������ςȂ���̑劽�}���ӂ̋ɂ݁B�I<BR>�@������݂ɁA�������Ƒ��b���撣��܂��B<BR>�@�����E�E�E�E�ŋߏ����ł͂Ȃ��A���̐l�̍�i�ɂb�f�`���Ă���̂ł����B�i���j<BR>�@�Ƃ肠�����w�e�B���N����3�b�x�w�d���I���퐶����11�b�x�w���o�C�o���K�[����Q�S�b�x�w���@�������X�J���~�[�i��8�b�x�w�炢������ԊO�ҁi�����߂ɂȂ邩�͂܂�����j�x�Ɏ��̂b�f���g�p�����\��ł��̂łƂ肠�������y���݂ɁB�i�΁j<BR><BR>&gt;�S���l<BR>�Ђǂ������i���j���X�،��̐��́A�Ƃ肠�����w���x�̐����Ď��ŁB<BR>���ނ́E�E�E���[��N���낤�H�Ƃ肠�����ǎ҂̔��f�ɂ܂����B�i���j<BR><BR>���悵�����l<BR>���̂Ƃ���A�����ł��悭�킩��Ȃ��i���j<BR>�����A����������񂠂��肶��Ȃ����Ȃ��H����A�^�������������H<BR>�@�Ƃ肠�������Ԑ����́A�n���f�B�L���b�v���_�������������A<BR>��i�I�ɖʔ����Ǝv���̂ŁA�ݒ肵�Ă݂܂����B<BR><BR>���n���� �l<BR>�@���͐�q�Ȃ�ł����A�ʌ��ŕ`���Ă����b�f���}篂�����ɉ񂵂����ł��B<BR>�@�ł��A���������̂������ł���H�B<BR>�@���Ȃ݂ɂ������̂b�f�ň�ԍŏ��ɕ`�����̂́w�a��x���񂾂����肷��킯�ł��B<BR>�@���A���̍ۂȂ̂ŁA<BR>��q�̏����̐l�ł���w����i���F���i�ʕ�j�x�̓o��V�[���炵�������A<BR>�@���e�ł͑��݂��}���G���p�ӂ��ĕ`�������`���������𔒏󂵂Ă����܂��B�i���j<BR>���m�C���l<BR>�@��q�͐S���獁�ނ̎����v���Ă��Ă����L�����Ȃ�ł��B<BR>�@�ł��E�E�E�E���܂ɖ\�����邯�ǂˁB<BR>�@���b�ł͑����\���V�[���͓���Ȃ����ǁA<BR>��q�̓��ނł���u�炢���v�L�����́w�M�v���D�x����񂪓o�ꂵ�܂��B<BR>�@�������Q�X�g�łȂ��A���M�����[�����܂���ŁA���y���݂ɁB<BR>-----------------------------------------------------------<BR>�y�v�����Z�X���C�_�[���b�\���z�i�{���j<BR>�@�ׂ̊X���w�Z�ɓ]�Z�Ƃ����`�œ��w���鎖�ƂȂ����B<BR>�����ŏo������l�̗F�B�A�w�Ύ����x�w�M�v���D�x�B<BR>�@�����Ĉ����̌N�A�����������k�̉��q�l�w�ˑ������x<BR><BR>����y���b�F�`�[���v�����Z�X���C�_�[�z�����̂��݂ɁB
+　どうも、もぐたんです。初めまして。<BR>　しょっぱなからの大歓迎感謝の極み。！<BR>　これを励みに、がすっと第二話も頑張ります。<BR>　ただ・・・・最近小説ではなく、他の人の作品にＣＧ描いているのですが。（汗）<BR>　とりあえず『ティンクル第3話』『妖精的日常生活第11話』『リバイバルガール第２４話』『魔法少女ラスカルミーナ第8話』『らいか大作戦番外編（いつくめになるかはまだ未定）』に私のＣＧが使用される予定ですのでとりあえずお楽しみに。（笑）<BR><BR>&gt;担当様<BR>ひどいっす（爆）佐々木功の声は、とりあえず『聡』の声って事で。<BR>香奈は・・・うーん誰だろう？とりあえず読者の判断にまかす。（爆）<BR><BR>＞よしおか様<BR>実のところ、自分でもよくわからない（爆）<BR>多分、メルモちゃんあたりじゃないかなぁ？いや、疑似魔女っ娘か？<BR>　とりあえず時間制限は、ハンディキャップや弱点があった方が、<BR>作品的に面白いと思うので、設定してみました。<BR><BR>＞地駆鴉 様<BR>　実は千尋なんですが、別件で描いていたＣＧを急遽こちらに回した物です。<BR>　でも、ああいうのもいいでしょ？。<BR>　ちなみにあそこのＣＧで一番最初に描いたのは『紳二』さんだったりするわけです。<BR>　尚、この際なので、<BR>千尋の初恋の人である『誠二（現：庄司果穂）』の登場シーンらしき物も、<BR>　初稿では存在し挿し絵も用意して描くだけ描いたた事を白状しておきます。（爆）<BR>＞ノイン様<BR>　千尋は心から香奈の事を思っていてくれるキャラなんです。<BR>　でも・・・・たまに暴走するけどね。<BR>　第二話では多分暴走シーンは入らないけど、<BR>千尋の同類である「らいか」キャラの『信夫美優』ちゃんが登場します。<BR>　しかもゲストでなく、レギュラー化しますんで、お楽しみに。<BR>-----------------------------------------------------------<BR>【プリンセスライダー第二話予告】（本物）<BR>　隣の街小学校に転校という形で入学する事となった。<BR>そこで出来た二人の友達、『石室麗夜』『信夫美優』。<BR>　そして愛しの君、日東小女生徒の王子様『戸増頼香』<BR><BR>次回【第二話：チームプリンセスライダー】おたのしみに。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/13 21:00:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/13 21:00:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010923253ckgagc&id2=1010799434etdgtp&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010923253ckgagc_id2_1010799434etdgtp_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���āA���͂��Ȃ�O����������񂳂񂿂œǂ�ł��肵���̂ł����i�΁j�B<BR>�i�ł����z�͕\�����Ă��Ȃ������Ǝv���j<BR><BR>����ρA�u�i�C�g���C�_�[�v���̎q�łƂ����̂��Ó����ȁH����A�ʔ��������ł���B<BR>�Ō�A�ٔ��̓W�J�Łu�Â��v�Ȃ̂��ɂ����ˁ[�i�΁j�B<BR><BR>�������̌N�A�����������k�̉��q�l�w�ˑ������x<BR>�����i�΁j�B
+読んだバイ♪<BR>って、実はかなり前からもぐたんさんちで読んでたりしたのですが（笑）。<BR>（でも感想は表明していなかったと思う）<BR><BR>やっぱ、「ナイトライダー」女の子版というのが妥当かな？うん、面白かったですよ。<BR>最後、緊迫の展開で「つづく」なのがにくいねー（笑）。<BR><BR>＞愛しの君、日東小女生徒の王子様『戸増頼香』<BR>をい（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2002/01/13 23:31:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2002/01/13 23:31:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010932264imrhwm&id2=1010799434etdgtp&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010932264imrhwm_id2_1010799434etdgtp_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͂����C�V�[���c����A�N�V�����������ς��ŃX�s�[�h�����ӂ�ĂĂ悩�����ł��B�����Ƃ���ő����c���񂪊y���݂ł��B<BR><BR>�����q�l�w�ˑ������x<BR><BR>���q�l�āB
+見所はお風呂シーン…いやアクションがいっぱいでスピード感あふれててよかったです。いいところで続く…次回が楽しみです。<BR><BR>＞王子様『戸増頼香』<BR><BR>王子様て。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/01/14 08:31:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/01/14 08:31:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010964678eiebafx&id2=1010799434etdgtp&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010964678eiebafx_id2_1010799434etdgtp_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�z�ǂ݂܂����A���Ȋw�̐��X�͂�͂�f���A���N���Ȃ̂ł��傤���H�@����Ƃ��c�c�B����̓W�J���y���݂ł��B<BR>���}�b�n��<BR>���������˂��B���イ���Ƃ͎����a�񂳂�̂ق��Ɋ��o���߂������イ���Ƃ��ȁH�@�z���C�g�{�f�B�A�}�b�n����@�c�c�����珃���̃g�����U���Ȃ̂��c�c�B�Ƃ������A���Ȋw������ł̐킢���čD���B���N���N����˂��B����������̏ꍇ�A���Ȋw�̏o�����f���A���炵���̂ŁA�ݒ�I�ɂ������͂Ȃ��c�c�A�񂶂�Ȃ����ȁH<BR>
+【第一話】読みました、超科学の数々はやはり惑星連合起源なのでしょうか？　それとも……。今後の展開が楽しみです。<BR>＞マッハ号<BR>懐かしいねえ。ちゅうことは私も紳二さんのほうに感覚が近いっちゅうことかな？　ホワイトボディ、マッハ号♪　……だから純白のトランザムなのか……。ともかく、超科学が絡んでの戦いって好き。ワクワクするねえ。しかも今回の場合、超科学の出所が惑星連合らしいので、設定的にも無理はない……、んじゃないかな？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/01/14 09:43:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/01/14 09:43:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010969022qsmlt&id2=1010799434etdgtp&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010969022qsmlt_id2_1010799434etdgtp_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U �l��<BR>�@���񂤂�B�ł����͔����ȓ_����s���J�łƂ͂��ƂȂ��Ă���̂ł��ɂ�B<BR>�@������������T���̂��y���������B<BR>�@���Ȃ݂Ɂw�����������k�̉��q�l�w�ˑ������x�x�Ɋւ��āA<BR>�@�����͏��̎q�ɐl�C������悤�łӁB�t�@����y�������݂��܂��B<BR>�@����ȑO�ɍ��ނ͂��������������ȏ��̎q�������Ǝv���Ă���͗l�B<BR><BR>�䂠���݂̂� �l��<BR>�@���̎q���Ă͉̂��q�l��҂��Ă��镨���Ď��Łi���j<BR>�@�Ƃ肠���������͗��ł́w���q�l�x�ƌĂ΂�āA�ʐ^�Ƃ�������������Ă���悤�ł��B<BR><BR>�W���[�W���b�h �l��<BR>�@�z���C�g�C�O���b�g2000�́A���O�����u�i�C�g2000�v�n�ł����A<BR>���{�l����������Ƃ�����A�@�\�I�ɂ̓}�b�n���I�ł��B<BR>�@���A�����̃{�f�B�[�J���[�Ɋւ��ẮA�u�A�X���[�_�v�̐����̂Ă��Ȃ��ł��B<BR>�@����ρu�A�X���[�_�v���āu�}�b�n���v+�u�i�C�g2000�v���ċC�����܂���H<BR><BR>�@�u���Ȋw�̏o�����f���A���炵���v<BR>�@�R���ɂ��ẮA����������ł��B<BR>�@�����I�ɂ́u����߂違�����̋��̌��A�ʕ䁄�a��o�R�v�ŋZ�p���`�����Ă܂��B<BR>�@����������͑S�̂̂����ꕔ�B<BR>�@����ȊO�Ɋւ��ẮA����̓Ǝ��J�����A�M�񋟋Z�p��Ǝ����W���������ł��B<BR>�@����Ȋ֌W�������āA�u�I�[���u���[�h���t�F�C�U�[�v���u�I�[�����b�h�v�ɂȂ�ȂǁA<BR>�@�����ȓ_�ō���́u�炢������v�Ƃ͑���_���o�Ă���Ǝv���܂��B<BR><BR>�ł��ł�<BR><BR><BR>
+ｍｋ８４２６ 様＞<BR>　うんうん。でも実は微妙な点が先行公開版とはことなっているのですにょ。<BR>　そういう所を探すのも楽しいかも。<BR>　ちなみに『日東小女生徒の王子様『戸増頼香』』に関して、<BR>　頼香は女の子に人気があるようでふ。ファン倶楽部も存在します。<BR>　それ以前に香奈はああいった活発な女の子を可愛いと思っている模様。<BR><BR>ゆあさのみき 様＞<BR>　女の子ってのは王子様を待っている物って事で（爆）<BR>　とりあえず頼香は裏では『王子様』と呼ばれて、写真とかが取り引きされているようです。<BR><BR>ジャージレッド 様＞<BR>　ホワイトイグレット2000は、名前こそ「ナイト2000」系ですが、<BR>日本人が作ったこともあり、機能的にはマッハ号的です。<BR>　尚、純白のボディーカラーに関しては、「アスラーダ」の線も捨てられないです。<BR>　やっぱ「アスラーダ」って「マッハ号」+「ナイト2000」って気がしません？<BR><BR>　「超科学の出所が惑星連合らしい」<BR>　コレについては、半分当たりです。<BR>　部分的には「からめる＆もけの許可の元、果穂＞紳二経由」で技術が伝えられてます。<BR>　ただしそれは全体のごく一部。<BR>　それ以外に関しては、白鷺の独自開発＆連邦提供技術を独自発展させた物です。<BR>　そんな関係もあって、「オーラブレード＆フェイザー」が「オーラロッド」になるなど、<BR>　微妙な点で今後は「らいか大作戦」とは相違点が出てくると思われます。<BR><BR>であであ<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h��</strong>  <i>2002/01/14 11:20:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロ</strong>  <i>2002/01/14 11:20:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010974812xiqbsc&id2=1010799434etdgtp&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010974812xiqbsc_id2_1010799434etdgtp_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����B<BR>�Ƃ������A�܂����c�b�ł��Ȃ�������Ƃ́B���āA���̃e�[�}�́i�΁j<BR>�������肵���ݒ�Ƃ����A�S�҂�ʂ��ăJ�b�R�悳���`����Ă��܂��ˁB�^�ē��B�Ԃ��v���o���܂����B�āA����i�C�g���C�_�[�ł����ǁi�΁j<BR>�邩�ɁH�@���C�h�͂����ł��ˁE�E�E��͂�Ƃ������B<BR>�C�ɂȂ�Ƃ���łP�b�I���E�E�E�Ȃ�Ƃ����܂��q�����ł��B<BR>�����Ď���\���́E�E�E���q�l�ł����B�i�΁j<BR>�Q�b���y���݂ł��B�҂��Ă܂���B
+読みましたよ。<BR>というか、まさかＤＣでも曲が聞けるとは。って、このテーマは（笑）<BR>しっかりした設定といい、全編を通してカッコよさが伝わってきますね。某米特撮車を思い出しました。て、もろナイトライダーですけど（笑）<BR>秘かに？　メイドはいいですね・・・やはりというか。<BR>気になるところで１話終わり・・・なんともうまい繋げ方です。<BR>そして次回予告の・・・王子様ですか。（笑）<BR>２話が楽しみです。待ってますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/01/22 11:22:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/01/22 11:22:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011666150fwauq&id2=1010799434etdgtp&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011666150fwauq_id2_1010799434etdgtp_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f���h���r�E���i�A�M�̔����z�̎��삻�̂R�j�l��<BR>�@���肪�Ƃ��������܂��B<BR>�@���͕��i���͐ݒ�̎ϋl�߂Ƃ����Ȃ��ŏ����o���p�^�[���������̂ł����A<BR>�@����܂ŁA���̌`�ŁA�Ō�܂ŏ����グ�����������̂ŁA<BR>����͂����������������������Ă݂܂����B<BR>�@�����悻���������������̏ꍇ�A���e�̉��ǂȂǂ́A�v���b�g�̒i�K�ł���Ă��܂��̂ŁA<BR>���ۂɓ��e�������Ƃ��́A���܂���e�̓ǂݕԂ��Ƃ������ɍςނ��Ƃ��ł��A<BR>���\�A���͂̃e���|�Ƃ��ɏW���ł���̂����肪�����ł��ˁB<BR><BR>�@���ƁA���q�l�̌��E�E�E�E�E�E�ǂ��Ȃ�̂��ȁ[�H<BR>�@���͖w�Ǎl���ĂȂ��ł��B<BR><BR>�@���b�����ǁA�����ɓG�̎��ɉ񂵁A�o�Z�҂��O�b�ɂ��ē������J��_���Ƃ����E�E�E�E�E�E
+デンドロビウム（連邦の白い奴の試作その３）様＞<BR>　ありがとうございます。<BR>　実は普段私は設定の煮詰めとかしないで書き出すパターンだったのですが、<BR>　これまで、その形で、最後まで書き上げた事が無いので、<BR>今回はこういった書き方を試してみました。<BR>　おおよそこうした書き方の場合、内容の改良などは、プロットの段階でやってしまうので、<BR>実際に内容を書くときは、あまり内容の読み返しとかせずに済むことができ、<BR>結構、文章のテンポとかに集中できるのがありがたいですね。<BR><BR>　あと、王子様の件・・・・・・どうなんのかなー？<BR>　じつは殆ど考えてないです。<BR><BR>　第二話だけど、純粋に敵の事に回し、登校編を第三話にして同時公開を狙うとかも・・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/03/30 19:21:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/03/30 19:21:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017483686gbntv&id2=1010799434etdgtp&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017483686gbntv_id2_1010799434etdgtp_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̂��сA����˂������HP�Ƀv�����Z�X���C�_�[�̊O�`��<BR>��e���Ă݂܂����B<BR><BR>��낵��������ǂ�ł��������ȁi���j
+このたび、かわねぎさんのHPにプリンセスライダーの外伝を<BR>寄稿してみました。<BR><BR>よろしかったら読んでくださいな（ｗ）
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1010799434etdgtp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

@@ -1,95 +1,95 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/ target=_top>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../index.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�ŋߕ������ꂽ�w�ڂ��̏��̌��xTV�����āI�I>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:最近放送された『ぼくの初体験』TV教えて！！>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1176>
 <input type=hidden name=ress value=1181>
-<input type=submit value=�ŋߕ������ꂽ�w�ڂ��̏��̌��xTV�����āI�I�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=最近放送された『ぼくの初体験』TV教えて！！へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1181>
-<font color=#6A5ACD>RE:�ŋߕ������ꂽ�w�ڂ��̏��̌��xTV�����āI�I</font></a>
+<font color=#6A5ACD>RE:最近放送された『ぼくの初体験』TV教えて！！</font></a>
 <font color=#303030>
-�т��
- ����</font>
- <font size=2>2001�N7��5��(��) 18��0��</font>
-<a href="resbbs4.cgi?vew=1181">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+びゅの
+ さん</font>
+ <font size=2>2001年7月5日(木) 18時0分</font>
+<a href="resbbs4@vew_1181.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�|�����搶�́u�{�N�̏��̌��v�̂��̂܂܃h���}���ł���B����̒P�s�{���̂́A<br>��όÂ��̂ōŏ��͓̂����ł����A�W�����v�Z���N�V�����ƏW�p�Е��ɂ̃~�j�{<br>�ōĔ̂���Ă�̂ł����炪����e�Ղ��Ǝv���܂��B<br><br>�h���Y�����E���āA�l�Y�����ɂ���āA�t�؂̑̂ɔ]�ڐA����܂��B��肠�����A<br>���݂ɂ��Ȃ蒉���ȍČ��ł����A�\�Z�I�Ȃ��̂��������̂��n���ł��B<br>����TSF��i�̂Ȃ��ł͏�ʂɂ���ł��傤�B�ŋ߂ł�CS�ł悭���f�����݂����ł��B</font></ul>
+<ul><br><font size=3>弓月光先生の「ボクの初体験」のそのままドラマ化ですよ。漫画の単行本自体は、<br>大変古いので最初のは入手難ですが、ジャンプセレクションと集英社文庫のミニ本<br>で再販されてるのでそちらが入手容易だと思われます。<br><br>栄太郎が自殺して、人浦教授によって、春菜の体に脳移植されます。取りあえず、<br>現在にかなり忠実な再現ですが、予算的なものがあったのか貧相です。<br>けどTSF作品のなかでは上位にくるでしょう。最近ではCSでよく放映されるみたいです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1184>
-<font color=#6A5ACD>RE:�ŋߕ������ꂽ�w�ڂ��̏��̌��xTV�����āI�I</font></a>
+<font color=#6A5ACD>RE:最近放送された『ぼくの初体験』TV教えて！！</font></a>
 <font color=#303030>
-���V�A���u���[
- ����</font>
- <font size=2>2001�N7��6��(��) 0��43��</font>
-<a href="resbbs4.cgi?vew=1184">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�L�������܂��B<br>�t�������̤�o�Y�V�[���č݂����̂ł��傤���H<br>�X�g�[���\����������A��ʎ��̂Ŏ��񂾋{�c�p���Y���]�ڐA���ꤏt�ނɂȂ�B<br>�t��(�p���Y)������������B<br>�����݂������̂ł�����A���N���N�����������ł��B<br>�ό����肳�����́A����ւ��V�[���ŁA�X�J�[�g�Ɏ������V�[���Ƥ�\���������������̂ŁA�ϑz���Ă��܂����̂ł��B</font></ul>
+ルシアンブルー
+ さん</font>
+ <font size=2>2001年7月6日(金) 0時43分</font>
+<a href="resbbs4@vew_1184.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>有難う御座います。<br>春名ちゃんの､出産シーンて在ったのでしょうか？<br>ストーリ予告を見たら、交通事故で死んだ宮田英太郎が脳移植され､春奈になる。<br>春奈(英太郎)が女性化する。<br>そう在ったものですから、ワクワクしちゃったんです。<br>観月ありさちゃんの、入れ替わりシーンで、スカートに手を入れるシーンと､予告が同じだったので、妄想してしまったのです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1185>
-<font color=#6A5ACD>RE:�ŋߕ������ꂽ�w�ڂ��̏��̌��xTV�����āI�I</font></a>
+<font color=#6A5ACD>RE:最近放送された『ぼくの初体験』TV教えて！！</font></a>
 <font color=#303030>
 byuno
- ����</font>
- <font size=2>2001�N7��6��(��) 2��23��</font>
-<a href="resbbs4.cgi?vew=1185">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b></b>�z</font>
-<ul><font size=3>�o�Y�͂Ȃ��ł��B�����h���Y���D�����������������̂ɉ�A�h���Y�̑̂ɂȂ�̂ƁA�t�؂ɂȂ����h���Y�����������i��ŐS�����ɂȂ�͂��߂邭�炢�܂łł��B<br>���������̕ӂ�܂ł̐i�s�������̂��ȁH</font></ul>
+ さん</font>
+ <font size=2>2001年7月6日(金) 2時23分</font>
+<a href="resbbs4@vew_1185.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b></b>】</font>
+<ul><font size=3>出産はないです。ただ栄太郎を好きだった女性が事故に会い、栄太郎の体になるのと、春菜になった栄太郎が女性化が進んで心が女になりはじめるくらいまでです。<br>当時がその辺りまでの進行だったのかな？</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

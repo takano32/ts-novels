@@ -1,104 +1,104 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/ target=_top>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../index.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�����ăv���[�Y�I>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:教えてプリーズ！>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1189>
 <input type=hidden name=ress value=1189>
-<input type=submit value=�����ăv���[�Y�I�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=教えてプリーズ！へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1189>
-<font color=#6A5ACD>�����ăv���[�Y�I</font></a>
+<font color=#6A5ACD>教えてプリーズ！</font></a>
 <font color=#303030>
-<a href=mailto:it-gocco@mh.0038.net>�ꖡ�Ɓ[���炵</a>
- ����</font>
- <font size=2>2001�N7��18��(��) 1��4��</font>
-<a href="resbbs4.cgi?vew=1189">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+<a href=mailto:it-gocco@mh.0038.net>一味とーがらし</a>
+ さん</font>
+ <font size=2>2001年7月18日(水) 1時4分</font>
+<a href="resbbs4@vew_1189.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����e�ŁA�����Ȃ蒷���Ő\����Ȃ��̂ł����c�B�P�O�N�ʑO�ŁA�^�C�g�����f�ڎ�(�����}�K��)���s���Ȃ̂ł����A�������ŃV���[�Y������Ă��܂����B��҂́u��J�݂͂܁v����B�X�g�[���[�́A��Ђ̓��C�Ȃn�k�ƃo���o���̉c�ƃ}�����w�̊K�i����]�������Đ��_������ւ��A�Ƃ������m�B�������[�ɖ߂肽���Ă��߂ꂸ�A���ǂ��̂܂܌�������(�j�̓��@��̃x�b�h�̏�ł܂łg����̂����Ƃ��c)�q���܂ŎY�܂��Ƃ�[�I�`�ŁA�����u�����܂ŕ`���Ƃ́c�I�v�Ƌ�����񂾋L��������܂�(��)�@��l�̓���ւ���m���Ă���̂́A�n�k�̓���(���Y�Ŕޏ���_���Ă���)�ƒj�̕�e�ʂ������悤�ȁB��(���͎����̑��q)�E�Ƃ̃r�~���`�Ȋ֌W�����Ƃ�������(��)�@�v(���E����)�͉�Ђ̎d���ɂǂ����Ă��Ȃ��߂��A���߂ăQ�C�o�[�ɋ΂߂�悤�ɂȂ�A�Ƃ�[�������X�����I(?)���ȃ@�Ǝv�������̂ł��B�ǂȂ����^�C�g���Ȃǂ������Ȃ炨�����������܂��I�@�P�s�{�ɂ͂Ȃ��ĂȂ���ȃ@�c(��)�@���`���Ƒ{���Ă��ł����ǁA�����^�C�g��������Ȃ����̂Łc�B<br></font></ul>
+<ul><br><font size=3>初投稿で、いきなり長文で申し訳ないのですが…。１０年位前で、タイトルも掲載誌(多分扶桑社)も不明なのですが、女性誌でシリーズ化されていました。作者は「南谷みはま」さん。ストーリーは、会社の内気なＯＬとバリバリの営業マンが駅の階段から転げ落ちて精神が入れ替わる、というモノ。自分の躰に戻りたくても戻れず、結局そのまま結婚して(男の入院先のベッドの上でまでＨするのが何とも…)子供まで産まれるとゆーオチで、当時「ここまで描くとは…！」と驚き喜んだ記憶があります(笑)　二人の入れ替わりを知っているのは、ＯＬの同僚(レズで彼女を狙っていた)と男の母親位だったような。嫁(元は自分の息子)・姑のビミョ～な関係が何ともいえず(笑)　夫(元・女性)は会社の仕事にどうしてもなじめず、辞めてゲイバーに勤めるようになる、とゆー所が中々現実的(?)だなァと思ったものです。どなたかタイトルなどご存じならお教え下さいませ！　単行本にはなってないよなァ…(泣)　ず～っと捜してるんですけど、何せタイトルが判らないもので…。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1190>
-<font color=#6A5ACD>�����Ŗ����Č�ƂȂ����E�E�m���Ă�l�����Ă�͂������E�E</font></a>
+<font color=#6A5ACD>答えで無くて御免なさい・・知ってる人も来てるはずだが・・</font></a>
 <font color=#303030>
-<a href=mailto:2001/9/28�܂�76094292@people.or.jp>anjoe</a>
- ����</font>
- <font size=2>2001�N7��18��(��) 6��23��</font>
-<a href="resbbs4.cgi?vew=1190">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�Q�c�@�I��E�E</b>�z</font>
-<ul><font size=3>ROM���Ƃ��ď��������Ȃ������Ă΂�(^-^)<br>������link����s����A�e�b�c�l�̏��ł���<br>���[���l�́@���J�{���@�˗�No14 �̂܂܂�����Ȃ��E�E<br>�b�̓��e���̂��̂́A����l��Chat�ł����Ȃ��畜������Ίm��o�����������ǁB</font></ul>
+<a href=mailto:2001/9/28まで76094292@people.or.jp>anjoe</a>
+ さん</font>
+ <font size=2>2001年7月18日(水) 6時23分</font>
+<a href="resbbs4@vew_1190.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>参議院選後・・</b>】</font>
+<ul><font size=3>ROM卒業して書いたげなさいってばぁ(^-^)<br>ここのlinkから行ける、テッツ様の所でさえ<br>ちーやん様の　公開捜査　依頼No14 のままだからなぁ・・<br>話の内容そのものは、お二人でChatでもしながら復元すれば確定出来そうだけど。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1191>
-<font color=#6A5ACD>RE:�����ăv���[�Y�I</font></a>
+<font color=#6A5ACD>RE:教えてプリーズ！</font></a>
 <font color=#303030>
-<a href=mailto:jersey-r@i-chubu.ne.jp>�W���[�W���b�h</a>
- ����</font>
- <font size=2>2001�N7��18��(��) 19��28��</font>
-<a href="resbbs4.cgi?vew=1191">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@�����炭���̖���̃^�C�g���́A�w���Ȃ��ɂȂ肽���x���Ǝv���܂��B�f�ڎ��̑薼�́A��������G���́w�����x�ł����B<br>�@�o�ŎЖ��͕�����܂��񂪁A���̎G���ɓ����ɘA�ڂ���Ă����w���D�̃_�b�V���}���x�Ƃ�����i�́A�j�j�x�X�g�Z���[�Y�̂q�h�m�s�n�R�~�b�N�X�Ɏ��^����Ă��܂��B���͂��̍�i���R�~�b�N�X�����ꂽ�̂ŁA�w���Ȃ��ɂȂ肽���x�������ɃR�~�b�N�X������邾�낤�Ǝv���A�G�����̂ĂĂ��܂����̂ł����A���ɂ��Ďv���Α厸�s�ł����B<br>�@���̌�A���̒m�����ł͂q�h�m�s�n�R�~�b�N�X�Ɏ��^���ꂽ�Ƃ������Ƃ��Ȃ��A���̊Ԃɂ������Ă��܂��܂����B<br>�@�����������̎G������������̂Ȃ�A������ɓ��ꂽ����i�ł��B</font></ul>
+<a href=mailto:jersey-r@i-chubu.ne.jp>ジャージレッド</a>
+ さん</font>
+ <font size=2>2001年7月18日(水) 19時28分</font>
+<a href="resbbs4@vew_1191.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　おそらくその漫画のタイトルは、『あなたになりたい』だと思います。掲載紙の題名は、女性漫画雑誌の『かれん』でした。<br>　出版社名は分かりませんが、その雑誌に同時に連載されていた『哀愁のダッシュマン』という作品は、ＫＫベストセラーズのＲＩＮＴＯコミックスに収録されています。実はその作品がコミックス化されたので、『あなたになりたい』もすぐにコミックス化されるだろうと思い、雑誌を捨ててしまったのですが、今にして思えば大失敗でした。<br>　その後、私の知る限りではＲＩＮＴＯコミックスに収録されたということもなく、いつの間にか消えてしまいました。<br>　もしも当時の雑誌が現存するのなら、私も手に入れたい一品です。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1192>
-<font color=#6A5ACD>RE:�����ăv���[�Y�I</font></a>
+<font color=#6A5ACD>RE:教えてプリーズ！</font></a>
 <font color=#303030>
-<a href=mailto:jersey-r@mb.i-chubu.ne.jp>�W���[�W���b�h</a>
- ����</font>
- <font size=2>2001�N7��18��(��) 20��26��</font>
-<a href="resbbs4.cgi?vew=1192">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���[���A�h���X�ԈႦ�Ă܂����B<br>�������́<a href=mailto:Ajersey-r@mb.i-chubu.ne.jp>Ajersey-r@mb.i-chubu.ne.jp</a>�@�ł��B<br>��������܂����炨�₢���킹�������B</font></ul>
+<a href=mailto:jersey-r@mb.i-chubu.ne.jp>ジャージレッド</a>
+ さん</font>
+ <font size=2>2001年7月18日(水) 20時26分</font>
+<a href="resbbs4@vew_1192.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>メールアドレス間違えてました。<br>正しくは�<a href=mailto:Ajersey-r@mb.i-chubu.ne.jp>Ajersey-r@mb.i-chubu.ne.jp</a>　です。<br>何かありましたらお問い合わせ下さい。</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

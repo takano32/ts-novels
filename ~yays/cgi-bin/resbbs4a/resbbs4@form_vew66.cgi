@@ -1,66 +1,66 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<a href="./resbbs4.cgi?form=1">[�V�K�X���b�h���e]</a><br>
-<form action=resbbs4.cgi method=POST>
+<a href="resbbs4@form_1.cgi">[新規スレッド投稿]</a><br>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2756>
-<font color=#6A5ACD>�s�r�e���s�f�J�[�j�o��</font></a>
+<font color=#6A5ACD>ＴＳＦ＆ＴＧカーニバル</font></a>
 <font color=#303030>
-�\���߂���
- ����</font>
- <font size=2>2006�N4��19��(��) 7��38��</font>
+能瀬めぐみ
+ さん</font>
+ <font size=2>2006年4月19日(水) 7時38分</font>
 <a href=http://wiki.livedoor.jp/nose_megumi/d/FrontPage target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2756">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>ARIA</b>�z</font>
+<a href="resbbs4@vew_2756.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ARIA</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���]�����m�̃E�B�L���ĂȂ��̂��ȂƎv���Ă��ꂱ��T�������A������Ȃ������̂ŁA�����ō���Ă݂܂����B<br>�s�r�e���m�̍�i�̏Љ�E�B�L�ɂ������Ǝv���Ă܂��B<br>���]�����m�ȊO�ɂ������A�j���A�t�^�i�����������ɍ쐬���Ă��܂��B<br>�����Ԃ������猩�Ă��������B�����A�悩�����珑�����݂��Ă��������B<br></font></ul>
+<ul><br><font size=3>性転換モノのウィキってないのかなと思ってあれこれ探したが、見つからなかったので、自分で作ってみました。<br>ＴＳＦモノの作品の紹介ウィキにしたいと思ってます。<br>性転換モノ以外にも女装、男装、フタナリ等も同時に作成しています。<br>お時間あったら見てください。もし、よかったら書きこみしてください。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2757>
-<font color=#6A5ACD>�������E�ESNS�i�\�[�V�����l�b�g���[�N�j</font></a>
+<font color=#6A5ACD>同じく・・SNS（ソーシャルネットワーク）</font></a>
 <font color=#303030>
 <a href=mailto:ts8989@yahoo.co.jp>byuno</a>
- ����</font>
- <font size=2>2006�N6��10��(�y) 20��49��</font>
+ さん</font>
+ <font size=2>2006年6月10日(土) 20時49分</font>
 <a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2757">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@TSF�nSNS���ĂȂ��̂��ȂƎv���āA�����ō���Ă݂܂����B<br>�s�r�e�D���������W�܂�\�[�V�����l�b�g���[�N�ɂ������Ǝv���Ă܂��B<br>�����Ԃ�������Q�����������B�i�v�I�����ł��B<br>�@�Q���҂��Q���҂��L�߂Ă����āATSF�E�ɍݐЂ���l���吨�W�܂�����<br>�����ȂƎv���Ă��܂��B<br><br>���\�[�V�����l�b�g���[�N�Ƃ͈ȉ��݂����ȃT�C�g�ŕ׋����ĂˁB<br><a href=http://bb.watch.impress.co.jp/column/socialn/2004/10/28/ target=_top>http://bb.watch.impress.co.jp/column/socialn/2004/10/28/</a><br></font></ul>
+<a href="resbbs4@vew_2757.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　TSF系SNSってないのかなと思って、自分で作ってみました。<br>ＴＳＦ好きが多く集まるソーシャルネットワークにしたいと思ってます。<br>お時間あったら参加ください。永久的無料です。<br>　参加者が参加者を広めていって、TSF界に在籍する人が大勢集まったら<br>いいなと思っています。<br><br>※ソーシャルネットワークとは以下みたいなサイトで勉強してね。<br><a href=http://bb.watch.impress.co.jp/column/socialn/2004/10/28/ target=_top>http://bb.watch.impress.co.jp/column/socialn/2004/10/28/</a><br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2758>
-<font color=#6A5ACD>RE:�������E�ESNS�i�\�[�V�����l�b�g���[�N�j</font></a>
+<font color=#6A5ACD>RE:同じく・・SNS（ソーシャルネットワーク）</font></a>
 <font color=#303030>
-�т��
- ����</font>
- <font size=2>2006�N7��2��(��) 0��39��</font>
-<a href="resbbs4.cgi?vew=2758">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���̌f���̊Ǘ���gori.sh���ɂ��Q�����Ē����܂����B���d�F���╶�ɂ�<br>���X�A�x�l�q�̃��X�g�ɍv�����ꂽ�i���ގ��A�܂��A�t�r���C���A�^�P<br>���j�����āA�s�r�e�������Ă�܂Ȃ����X�̂��ׂĂɎQ�����Ē��������Ɗ�<br>���Ă܂��B<br>�����E���E�G�E�{�C�h���ȂǕ�����킸�A�s�r�e����������X�S�Ă��W<br>�܂�s�r�e�ő勉�̃l�b�g���[�N�\�z�ł��B<br><br>Trans Mixi : <a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>http://www.dragonrjp.or.tv/claft/index.html</a><br>�@�����ŃV�X�e���Ȃ��߁A�L������ɓ����Ă܂����Ƃ����l�т��܂��B<br><br>���s�r�e�n�T�C�g�̖K��҂Ɖ^�c�҂��A�C�����Ɋ��z��𗬂��\�ł��B<br>���S�Q���҂����L��R�~���j�e�B�𗧂��グ��������A�{�����\�ł��B<br>���ߏ��ɂ���s�r�e�D���̕��X�������܂��B�@<br>�܂��܂��A���낢��ȉ\��������Ǝv���Ă܂��B<br><br>�@���݁A�Q�V���O��̎Q���҂ł��B�܂��܂��s�r�e�E�̐l���͂���Ȃ���<br>�ł͂���܂���B<br><br>�@���̃T�C�gclaft�ɂĎQ���҂����U������t�H�[����ݒu���Ă���܂�<br>���A���ɎQ���ς݂̕��Ȃ�ǂȂ��ł��Q�����F�ł���V�X�e���ł��̂ŁA<br>�����I�ɂ͂����ȃT�C�g����Q�����\�ɂȂ邱�Ƃ��肢�܂��B<br><br>�@<a href=http://www.dragonrjp.or.tv/claft/transnet/transmix.htm target=_top>http://www.dragonrjp.or.tv/claft/transnet/transmix.htm</a>�@<br>���ꕔ�t���[���[��������Ȃ��悤�ł��B���ڃ��[���ł����܂��܂���B<br><br></font></ul>
+びゅの
+ さん</font>
+ <font size=2>2006年7月2日(日) 0時39分</font>
+<a href="resbbs4@vew_2758.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>この掲示板の管理者gori.sh氏にも参加して頂きました。八重洲氏や文庫の<br>方々、ＹＭＲのリストに貢献された（ちむ氏、まつ氏、フビライ氏、真輝<br>氏）そして、ＴＳＦを愛してやまない方々のすべてに参加して頂きたいと願<br>ってます。<br>小説・情報・絵・ボイドラなど分野を問わず、ＴＳＦを愛する方々全てが集<br>まるＴＳＦ最大級のネットワーク構想です。<br><br>Trans Mixi : <a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>http://www.dragonrjp.or.tv/claft/index.html</a><br>　無料版システムなため、広告が上に入ってますことをお詫びします。<br><br>○ＴＳＦ系サイトの訪問者と運営者が、気さくに感想や交流が可能です。<br>○全参加者が日記やコミュニティを立ち上げあげたり、閲覧が可能です。<br>○近所にいるＴＳＦ好きの方々が増えます。　<br>まだまだ、いろいろな可能性があると思ってます。<br><br>　現在、２７名前後の参加者です。まだまだＴＳＦ界の人口はこんなもの<br>ではありません。<br><br>　私のサイトclaftにて参加者をお誘いするフォームを設置しております<br>が、既に参加済みの方ならどなたでも参加承認できるシステムですので、<br>将来的にはいろんなサイトから参加が可能になることを願います。<br><br>　<a href=http://www.dragonrjp.or.tv/claft/transnet/transmix.htm target=_top>http://www.dragonrjp.or.tv/claft/transnet/transmix.htm</a>　<br>※一部フリーメールが送れないようです。直接メールでもかまいません。<br><br></font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2777>
-<font color=#6A5ACD>RE:�s�r�e���s�f�J�[�j�o��</font></a>
+<font color=#6A5ACD>RE:ＴＳＦ＆ＴＧカーニバル</font></a>
 <font color=#303030>
-���L��
- ����</font>
- <font size=2>2006�N9��24��(��) 21��56��</font>
-<a href="resbbs4.cgi?vew=2777">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�E�C�b�`�u���C�h</b>�z</font>
-<ul><font size=3>�b�͒E������̂ł����A�E�B�L�ƌ����΍ŋ߃E�B�L�y�f�B�A�ɁuTSF�v�Ƃ������ڂ��o���܂������܂��܂����g���[��������]�n�����肻���ł��B<br><br><a href=http://ja.wikipedia.org/wiki/TSF target=_top>http://ja.wikipedia.org/wiki/TSF</a></font></ul>
+書記長
+ さん</font>
+ <font size=2>2006年9月24日(日) 21時56分</font>
+<a href="resbbs4@vew_2777.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>ウイッチブレイド</b>】</font>
+<ul><font size=3>話は脱線するのですが、ウィキと言えば最近ウィキペディアに「TSF」という項目が出来ましたがまだまだ中身を充実させる余地がありそうです。<br><br><a href=http://ja.wikipedia.org/wiki/TSF target=_top>http://ja.wikipedia.org/wiki/TSF</a></font></ul>
 <HR>
 </ul>
 </dl>
@@ -68,67 +68,67 @@
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2770>
-<font color=#6A5ACD>Yahoo�o�^</font></a>
+<font color=#6A5ACD>Yahoo登録</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2006�N8��21��(��) 22��37��</font>
-<a href="resbbs4.cgi?vew=2770">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�V�F�o���G</b>�z</font>
+ごま
+ さん</font>
+ <font size=2>2006年8月21日(月) 22時37分</font>
+<a href="resbbs4@vew_2770.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>シェバリエ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�������ɏ����̂͏��߂Ăł�������͂Ƃ�����<br>���d�F���̔O�肪���Ȃ������Ƃ������ɏj���ď������܂��Ă��������܂�<br>���߂łƂ��f�X</font></ul>
+<ul><br><font size=3>こっちに書くのは初めてですがそれはともかく<br>八重洲氏の念願がかなったことをここに祝して書き込ませていただきます<br>おめでとうデス</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2771>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
-���d�F�ꐬ
- ����</font>
- <font size=2>2006�N8��22��(��) 1��3��</font>
-<a href="resbbs4.cgi?vew=2771">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>���{�n���q</b>�z</font>
-<ul><font size=3>�ȂȂȂ�ƃ}�W�ł����I�H</font></ul>
+八重洲一成
+ さん</font>
+ <font size=2>2006年8月22日(火) 1時3分</font>
+<a href="resbbs4@vew_2771.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>涼宮ハルヒ</b>】</font>
+<ul><font size=3>なななんとマジですか！？</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2772>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
-���d�F�ꐬ
- ����</font>
- <font size=2>2006�N8��22��(��) 1��11��</font>
-<a href="resbbs4.cgi?vew=2772">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�V���t�H�j�A</b>�z</font>
-<ul><font size=3>���܍Q�Ă�Yahoo���m�F���Ă����̂ł����A�T���������������̂��A�c�O�Ȃ��猩����܂���ł����B<br>���[��A�T���ꏊ���Ԉ�����̂�������܂���B</font></ul>
+八重洲一成
+ さん</font>
+ <font size=2>2006年8月22日(火) 1時11分</font>
+<a href="resbbs4@vew_2772.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>シンフォニア</b>】</font>
+<ul><font size=3>いま慌ててYahooを確認してきたのですが、探し方が悪かったのか、残念ながら見つかりませんでした。<br>うーん、探す場所を間違ったのかもしれません。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2773>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2006�N8��22��(��) 7��54��</font>
-<a href="resbbs4.cgi?vew=2773">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>Que�`�G���V�F���g���[�t�̗d���`</b>�z</font>
-<ul><font size=3>�����܂���B���萔������m(__)m yahoo��yays�Ō������������ԏ�ɂ���܂����撼�ڂ̃A�h���X�������Ă����܂��� <a href=http://search.yahoo.co.jp/search target=_top>http://search.yahoo.co.jp/search</a>?p=yays&fr=top_v2&tid=top_v2&search.x=1</font></ul>
+ごま
+ さん</font>
+ <font size=2>2006年8月22日(火) 7時54分</font>
+<a href="resbbs4@vew_2773.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>Que～エンシェントリーフの妖精～</b>】</font>
+<ul><font size=3>すいません。お手数かけてm(__)m yahooでyaysで検索かけたら一番上にありましたよ直接のアドレスも張っておきますね <a href=http://search.yahoo.co.jp/search target=_top>http://search.yahoo.co.jp/search</a>?p=yays&fr=top_v2&tid=top_v2&search.x=1</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2775>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
 <a href=mailto:aoki@gori.sh>gori.sh</a>
- ����</font>
- <font size=2>2006�N8��23��(��) 0��29��</font>
+ さん</font>
+ <font size=2>2006年8月23日(水) 0時29分</font>
 <a href=http://www.gori.sh target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2775">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�������</b>�z</font>
-<ul><font size=3>�E�F�u�����ł͂Ȃ��ăJ�e�S�������̕��ɏ��Ȃ��ƁAyahoo�ɓo�^���ꂽ���Ƃɂ͂Ȃ�Ȃ��Ǝv���܂��`<br><a href=http://dir.yahoo.co.jp/Society_and_Culture/Food_and_Drink/Types_of_Foods/Noodles/Soba/Tachigui/ target=_top>http://dir.yahoo.co.jp/Society_and_Culture/Food_and_Drink/Types_of_Foods/Noodles/Soba/Tachigui/</a><br></font></ul>
+<a href="resbbs4@vew_2775.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>かいわれ</b>】</font>
+<ul><font size=3>ウェブ検索ではなくてカテゴリ検索の方に乗らないと、yahooに登録されたことにはならないと思います～<br><a href=http://dir.yahoo.co.jp/Society_and_Culture/Food_and_Drink/Types_of_Foods/Noodles/Soba/Tachigui/ target=_top>http://dir.yahoo.co.jp/Society_and_Culture/Food_and_Drink/Types_of_Foods/Noodles/Soba/Tachigui/</a><br></font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2776>
-<font color=#6A5ACD>RE:Yahoo�o�^</font></a>
+<font color=#6A5ACD>RE:Yahoo登録</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2006�N8��23��(��) 7��15��</font>
-<a href="resbbs4.cgi?vew=2776">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�T�����i�C�g�S</b>�z</font>
-<ul><font size=3>�����Ȃ񂾁B�����_���݂܂���ł���</font></ul>
+ごま
+ さん</font>
+ <font size=2>2006年8月23日(水) 7時15分</font>
+<a href="resbbs4@vew_2776.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>サモンナイト４</b>】</font>
+<ul><font size=3>そうなんだ。早合点すみませんでした</font></ul>
 <HR>
 </ul>
 </dl>
@@ -136,101 +136,101 @@
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2774>
-<font color=#6A5ACD>���ɏ����̂͂���Ȃ��</font></a>
+<font color=#6A5ACD>情報板に書くのはあれなんで</font></a>
 <font color=#303030>
-�y���ޕ�
- ����</font>
- <font size=2>2006�N8��22��(��) 22��51��</font>
-<a href="resbbs4.cgi?vew=2774">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>Vegas�@in�@Space</b>�z</font>
+遥か彼方
+ さん</font>
+ <font size=2>2006年8月22日(火) 22時51分</font>
+<a href="resbbs4@vew_2774.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>Vegas　in　Space</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�E�͌n<br>ttp://www.youtube.com/watch?v=grVGfqOREuA <br>�Ƃ��Ă��������������������B</font></ul>
+<ul><br><font size=3>脱力系<br>ttp://www.youtube.com/watch?v=grVGfqOREuA <br>とっても懐かしい匂いがした。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2759>
-<font color=#6A5ACD>���]���̊قɂ���</font></a>
+<font color=#6A5ACD>性転換の館について</font></a>
 <font color=#303030>
-�i�V
- ����</font>
- <font size=2>2006�N7��18��(��) 16��50��</font>
-<a href="resbbs4.cgi?vew=2759">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>���������鏭��</b>�z</font>
+ナシ
+ さん</font>
+ <font size=2>2006年7月18日(火) 16時50分</font>
+<a href="resbbs4@vew_2759.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>時をかける少女</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���]���̊� <br><a href=http://jbbs.livedoor.jp/comic/100/ target=_top>http://jbbs.livedoor.jp/comic/100/</a> <br><br>��������ԂɂȂ��Ă��܂��B�����Ǘ��l���܂͂�����͊Ǘ���<br>���������Ƃ������Ƃł��傤���B����Ȃ炢���������Ă͂ǂ��ł��傤�B</font></ul>
+<ul><br><font size=3>性転換の館 <br><a href=http://jbbs.livedoor.jp/comic/100/ target=_top>http://jbbs.livedoor.jp/comic/100/</a> <br><br>が酷い状態になっています。もう管理人さまはこちらは管理を<br>放棄したということでしょうか。それならいっそ閉鎖してはどうでしょう。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2760>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
 SHO
- ����</font>
- <font size=2>2006�N7��19��(��) 0��6��</font>
-<a href="resbbs4.cgi?vew=2760">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�������</b>�z</font>
-<ul><font size=3>�@���Ɏ蓮�ŊǗ��ł���قǁA�X�p�����e�͊Â����̂ł͂Ȃ��Ȃ��Ă��܂��B<br>�@���炩�̃X�p���΍􂪉\�ƂȂ�܂ŁA��[������Ă͂������ł��傤���B</font></ul>
+ さん</font>
+ <font size=2>2006年7月19日(水) 0時6分</font>
+<a href="resbbs4@vew_2760.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>かいわれ</b>】</font>
+<ul><font size=3>　既に手動で管理できるほど、スパム投稿は甘いものではなくなっています。<br>　何らかのスパム対策が可能となるまで、一端閉鎖されてはいかがでしょうか。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2761>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-�L��
- ����</font>
- <font size=2>2006�N7��19��(��) 0��42��</font>
-<a href="resbbs4.cgi?vew=2761">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���C�u�h�A����̎؂蕨�f��������A�r�o�`�l�����������݃\�t�g�ɑ_���₷���݂����ł��ˁB<br>���̕ӂ̐ݒ�ł������͑Ώ��ł���݂��������ǁc�c�B<br><a href=http://helpguide.livedoor.com/help/jbbs/qa/grp131 target=_top>http://helpguide.livedoor.com/help/jbbs/qa/grp131</a></font></ul>
+猫野
+ さん</font>
+ <font size=2>2006年7月19日(水) 0時42分</font>
+<a href="resbbs4@vew_2761.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ライブドアからの借り物掲示板だから、ＳＰＡＭ自動書きこみソフトに狙われやすいみたいですね。<br>この辺の設定でいくつかは対処できるみたいだけど……。<br><a href=http://helpguide.livedoor.com/help/jbbs/qa/grp131 target=_top>http://helpguide.livedoor.com/help/jbbs/qa/grp131</a></font></ul>
 <HR>
 <input type=checkbox name=delcode value=2762>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-���d�F�ꐬ
- ����</font>
- <font size=2>2006�N7��20��(��) 23��47��</font>
-<a href="resbbs4.cgi?vew=2762">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>big14�ɗe��1GB����MySQL�����ɗ����I</b>�z</font>
-<ul><font size=3>���[�����܂���A�Ǘ��Ӗ��Ő������ƂɂȂ��Ă܂����B<br>����͂��������邵���Ȃ��ł��傤�ˁc�c<br>���z�f���𗘗p���Ă��������Ă����ɂ͖{���ɐ\����Ȃ��Ƃ��������l���Ȃ��ł��B<br>����͍�i�f�[�^�x�[�X�Ɋ��z�R�����g�@�\�𓝍���������ōl���Ă݂܂��B<br><br>&gt;���Ɏ蓮�ŊǗ��ł���قǁA�X�p�����e�͊Â����̂ł͂Ȃ��Ȃ��Ă��܂�<br>�����ł��ˁA��x�ǂ����ɓo�^����Ă��܂��ƌ������͗l�ł��B<br>�����f���n��CGI��SPAM�΍􂪕K�{���Ɗ����܂��B<br>#�����荓���̂����[���ŁA�����ɂ�1��200�ʂ��炢SPAM�����ĂĖ{���ɋ��������ɂȂ�܂��c<br></font></ul>
+八重洲一成
+ さん</font>
+ <font size=2>2006年7月20日(木) 23時47分</font>
+<a href="resbbs4@vew_2762.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>big14に容量1GB化とMySQLが遂に来た！</b>】</font>
+<ul><font size=3>あーすいません、管理怠慢で凄いことになってました。<br>これはもう閉鎖するしかないでしょうね……<br>感想掲示板を利用してくださってた方には本当に申し訳ないとしか言い様がないです。<br>今後は作品データベースに感想コメント機能を統合する方向で考えてみます。<br><br>&gt;既に手動で管理できるほど、スパム投稿は甘いものではなくなっています<br>そうですね、一度どこかに登録されてしまうと厳しい模様です。<br>もう掲示板系のCGIはSPAM対策が必須だと感じます。<br>#それより酷いのがメールで、うちには1日200通ぐらいSPAMがきてて本当に泣きそうになります…<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2763>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
 <a href=mailto:tifra@gori.sh>gori.sh</a>
- ����</font>
- <font size=2>2006�N7��21��(��) 0��52��</font>
-<a href="resbbs4.cgi?vew=2763">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�}���J���@orz</b>�z</font>
-<ul><font size=3>���f���͌��݂P���^�R�����炢�ł��B�m�f���[�h���ĊO�����Ă���l�q�ł��B�܂�12�P�ꂵ������ĂȂ��̂Ɂc<br><br>���[���̓y�[�W�q�b�g���ɂقڔ�Ⴗ���ł��傤���ˁA�킽���̃��C���A�h���X�͌Â�����www�֏o�����ς�̃N�Z��1��15�ʒ��x�ł��B</font></ul>
+ さん</font>
+ <font size=2>2006年7月21日(金) 0時52分</font>
+<a href="resbbs4@vew_2763.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>マヴカレ　orz</b>】</font>
+<ul><font size=3>情報掲示板は現在１件／３日くらいです。ＮＧワードが案外効いている様子です。まだ12単語しか入れてないのに…<br><br>メールはページヒット数にほぼ比例するんでしょうかね、わたしのメインアドレスは古くからwwwへ出ずっぱりのクセに1日15通程度です。</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2764>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-�Ē�
- ����</font>
- <font size=2>2006�N7��21��(��) 3��41��</font>
-<a href="resbbs4.cgi?vew=2764">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>&quot;���w����&quot;�Ǝ��ɂ�����̓���</b>�z</font>
-<ul><font size=3>�����ȊO�ł��ŋ߂����璆�ō������ƂɂȂ��Ă���p��X�p���ɂ�BBQ���L���Ƃ����b������̂ŁA<br>�����ɔL�삳��̃����N���Q�l�ɐݒ肵�Ă݂�̂͂ǂ��ł��傤�H</font></ul>
+米津
+ さん</font>
+ <font size=2>2006年7月21日(金) 3時41分</font>
+<a href="resbbs4@vew_2764.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>&quot;文学少女&quot;と死にたがりの道化</b>】</font>
+<ul><font size=3>ここ以外でも最近そこら中で酷いことになっている英語スパムにはBBQが有効という話もあるので、<br>試しに猫野さんのリンクを参考に設定してみるのはどうでしょう？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2768>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2006�N7��23��(��) 0��45��</font>
-<a href="resbbs4.cgi?vew=2768">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�쑺��������ł��ˁI</b>�z</font>
-<ul><font size=3>�ĒÂ���L�삳��A�h�o�C�X���肪�Ƃ��������܂��B<br>�����������Ă΂���Ŗ{���ɂ����b�ɂȂ��Ă܂��B<br>�Ƃ肠�����őP�Ǝv����ݒ�ɂ��Ă݂܂����B<br>�����Ƒ����������Ă���΂Ǝv���܂��B�������𗘗p���Ă��������Ă����ɂ͌������\����Ȃ������ł��B<br><br>&gt;gori����<br>�A�_���g�T�C�g���Ǝv���Ĉꎞ���Ǝ҂̃f�[�^�x�[�X�ɐ����o�^����Ă��܂����񂶂�Ȃ������ɂ�ł܂��B<br>���[���A�h���X�𒼐ڏo���Ȃ��悤�ɂ�����ł������͂�Ă��΂ɐ��ł��ˁB<br>Becky!�p��SPAM�t�B���^�v���O�C�������ꌈ��łɂȂ�Ȃ����A�{���ɍ�����̂ł��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2006年7月23日(日) 0時45分</font>
+<a href="resbbs4@vew_2768.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>野村美月さんですね！</b>】</font>
+<ul><font size=3>米津さん猫野さんアドバイスありがとうございます。<br>いつも教えられてばかりで本当にお世話になってます。<br>とりあえず最善と思われる設定にしてみました。<br>もっと早くこうしていればと思います。あそこを利用していただいてた方には激しく申し訳なかったです。<br><br>&gt;goriさん<br>アダルトサイトだと思われて一時期業者のデータベースに随分登録されてしまったんじゃないかと睨んでます。<br>メールアドレスを直接出さないようにしたんですがもはや焼け石に水ですね。<br>Becky!用のSPAMフィルタプラグインも今一決定打にならないし、本当に困りものです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2769>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-�Ē�
- ����</font>
- <font size=2>2006�N7��26��(��) 22��31��</font>
-<a href="resbbs4.cgi?vew=2769">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�싅����t�F�C�o���b�g�ł��B���l�Ɋ��߂�̂͊댯�ł���(��)</b>�z</font>
-<ul><font size=3>���p�҂��Ǘ��l���ǂ�������Q�҂Ȃ̂ŋC�y�ɂ����܂��傤�B<br><br>spammer�̓A�h���X���ǂ�ȃy�[�W�ɓ\���Ă��������Ȃ�ď������l���ĂȂ��Ǝv���܂���B<br>�ĒÂ̂Ƃ���ɂ����150�ʂ��炢spam�����܂����A��ɗ���̂͂�����Ō��J������������A�h���X�Ƃ͕ʂŁA<br>�A�_���g�Ƃ͊ԈႦ�悤���Ȃ��T�C�g�ɂ��镨�ł��B<br><br>�X�p�����[���΍��PopFile�����Ȃ�D�G�������Ǝv���܂��Bbecky�̂��̂��x�C�Y���Ǝv���̂ŗD��͕�����܂��񂪁c�c�B<br>�����ݒ肷�鍪���������SpamMailKiller�ł΂�����폜����̂��ŋ����Ǝv���܂����A<br>�ĒÂ͓���߂��A�����i�����삵�Ďg���Ă܂��B</font></ul>
+米津
+ さん</font>
+ <font size=2>2006年7月26日(水) 22時31分</font>
+<a href="resbbs4@vew_2769.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>卓球場もフェイバリットです。他人に勧めるのは危険ですが(笑)</b>】</font>
+<ul><font size=3>利用者も管理人もどっちも被害者なので気楽にいきましょう。<br><br>spammerはアドレスがどんなページに貼ってあったかなんて少しも考えてないと思いますよ。<br>米津のところにも一日150通くらいspamが来ますが、主に来るのはこちらで公開した事があるアドレスとは別で、<br>アダルトとは間違えようもないサイトにある物です。<br><br>スパムメール対策はPopFileがかなり優秀だったと思います。beckyのものもベイズだと思うので優劣は分かりませんが……。<br>こつこつ設定する根性があればSpamMailKillerでばっさり削除するのが最強だと思いますが、<br>米津は馴染めず、相当品を自作して使ってます。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -240,45 +240,45 @@ SHO
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2745>
-<font color=#6A5ACD>���s���뒆�ł�</font></a>
+<font color=#6A5ACD>試行錯誤中です</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2006�N1��30��(��) 4��35��</font>
-<a href="resbbs4.cgi?vew=2745">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2006年1月30日(月) 4時35分</font>
+<a href="resbbs4@vew_2745.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����f���ɊȈՓI��CAPTCHA��t���悤�Ƃ��ĐF�X�M���Ă�Ƃ��ł��B<br>�܂��F�؃V�X�e�������p�ɑς�����̂ł͂Ȃ��̂ŁA��ʂ̕��͂������΂炭���e���������킹���������B</font></ul>
+<ul><br><font size=3>総合掲示板に簡易的なCAPTCHAを付けようとして色々弄ってるとこです。<br>まだ認証システムが実用に耐えるものではないので、一般の方はもうしばらく投稿をお見合わせください。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2747>
-<font color=#6A5ACD>RE:���s���뒆�ł�</font></a>
+<font color=#6A5ACD>RE:試行錯誤中です</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2006�N1��30��(��) 10��34��</font>
-<a href="resbbs4.cgi?vew=2747">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�e�X�g���e���炢�Ȃ�OK�ɂȂ����Ǝv���܂��B<br>�u���E�U�ɃL���b�V�����g�킹�Ȃ����������܂������ĂȂ��̂Ń����[�h���Ȃ���4���̐������킹�����s���邱�Ƃ�����܂��B<br>���̑��A�ԐM�Ŏ��s�������Ƃ̍ē��e�����N���Ԉ���Ă�Ȃǖ�葽���B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2006年1月30日(月) 10時34分</font>
+<a href="resbbs4@vew_2747.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>テスト投稿ぐらいならOKになったと思います。<br>ブラウザにキャッシュを使わせない処理がうまくいってないのでリロードしないと4桁の数字合わせが失敗することがあります。<br>その他、返信で失敗したあとの再投稿リンクが間違ってるなど問題多数。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2750>
-<font color=#6A5ACD>RE:���s���뒆�ł�</font></a>
+<font color=#6A5ACD>RE:試行錯誤中です</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2006�N1��31��(��) 1��55��</font>
-<a href="resbbs4.cgi?vew=2750">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>DS�̈�����h���L����</b>�z</font>
-<ul><font size=3>�Ƃ肠�����ʂ��Ղł����A�������������܂����B<br>�Ǝ҂ɂ��spam���e���Ȃ�ׂ����炷���߂ɁA���e����4���̐������킹���s���悤�ɂ��܂����B�ȒP�Ȏ����v���O�����ɂ��spam���e�͂���Œe���锤�ł��B<br><br>�������u���[�g�t�H�[�X�A�^�b�N�i����������j�������Ƒ����A��u�œ˔j����Ă��܂��܂��B���̂ւ�̑΍�͖����ȍ~�A�ɂ������đΏ����Ă������Ǝv���܂��B�Ƃ������{�C�Ńu���[�g�t�H�[�X��������CGI���דI�ɂ��܂������̂���Ȃ��ł����B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2006年1月31日(火) 1時55分</font>
+<a href="resbbs4@vew_2750.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>DSの悪魔城ドラキュラ</b>】</font>
+<ul><font size=3>とりあえず通り一遍ですが、改造が完了しました。<br>業者によるspam投稿をなるべく減らすために、投稿時に4桁の数字合わせを行うようにしました。簡単な自動プログラムによるspam投稿はこれで弾ける筈です。<br><br>ただしブルートフォースアタック（総当たり作戦）をやられると多分、一瞬で突破されてしまいます。そのへんの対策は明日以降、暇を見つけて対処していこうと思います。というか本気でブルートフォースをやられるとCGI負荷的にたまったものじゃないですが。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2754>
-<font color=#6A5ACD>RE:���s���뒆�ł�</font></a>
+<font color=#6A5ACD>RE:試行錯誤中です</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2006�N2��1��(��) 3��17��</font>
-<a href="resbbs4.cgi?vew=2754">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>��r�I�Z���Ԃ̂������ɓ���IP��4��ȏ㐔���̔F�؂Ɏ��s�����ꍇ�A����IP����̓��e���͂˂�悤�ɉ������Ă݂܂����B�ߋ�10�`20�񕪂̔F�؎��s����IP�𗚗��Ƃ��ċL�^���Ă����A����ƕt�����킹�Ĕ��f����d�g�݂ł��B�i�u���[�g�t�H�[�X�΍�j<br>����Ȍf���ɂ����܂ő΍􂹂�ł��Ƃ����C�����ĂȂ�Ȃ��ł����A�����������̂��y����ł�̂ł悵�Ƃ��܂��B���Ȃ݂ɂ��̉����͑S���K���ȑf�l�̐�m�b�ɂ������Ȃ̂ŁA�悻�l�̎Q�l�ɂȂ�悤�Ȃ��̂ł͂���܂��񈫂����炸�B<br>�Ȃ��֎~IP�Ɏw�肳�ꂽIP���ǂ������^�C�~���O�ŋK����������悤�ɂ��邩�͂܂��������ł��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2006年2月1日(水) 3時17分</font>
+<a href="resbbs4@vew_2754.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>比較的短期間のあいだに同一IPで4回以上数字の認証に失敗した場合、そのIPからの投稿をはねるように改造してみました。過去10～20回分の認証失敗したIPを履歴として記録しておき、それと付き合わせて判断する仕組みです。（ブルートフォース対策）<br>こんな掲示板にそこまで対策せんでもという気がしてならないですが、もう改造自体を楽しんでるのでよしとします。ちなみにこの改造は全部適当な素人の浅知恵による改造なので、よそ様の参考になるようなものではありません悪しからず。<br>なお禁止IPに指定されたIPをどういうタイミングで規制解除するようにするかはまだ検討中です。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -288,45 +288,45 @@ SHO
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2738>
-<font color=#6A5ACD>�ꎞ�I�ɑ����f���𓀌����܂�</font></a>
+<font color=#6A5ACD>一時的に総合掲示板を凍結します</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2005�N10��23��(��) 17��44��</font>
-<a href="resbbs4.cgi?vew=2738">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2005年10月23日(日) 17時44分</font>
+<a href="resbbs4@vew_2738.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�Ǘ��l�̔��d�F�ł��B<br>���܂�ɂ��������p�x��SPAM���e����Ă���̂ŁA�ꎞ�I�ɑ����f���𓀌����܂��B�i�����e�s�ɂ��܂��j<br>SPAM��ߏo���̂ɗL���Ȍf���X�N���v�g�Ȃǂ����m�ł����為�Џ��f���̂ق��ł��m�点���������B<br>���̑��A�����f�����g���Ȃ��������ً͋}����Ƃ��ď��f���̂ق������g�����������B<br>��낵�����肢���܂��B</font></ul>
+<ul><br><font size=3>管理人の八重洲です。<br>あまりにもすごい頻度でSPAM投稿されているので、一時的に総合掲示板を凍結します。（＝投稿不可にします）<br>SPAMを閉め出すのに有効な掲示板スクリプトなどご存知でしたらぜひ情報掲示板のほうでお知らせください。<br>その他、総合掲示板が使えないあいだは緊急避難先として情報掲示板のほうをお使いください。<br>よろしくお願いします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2742>
-<font color=#6A5ACD>RE:�ꎞ�I�ɑ����f���𓀌����܂�</font></a>
+<font color=#6A5ACD>RE:一時的に総合掲示板を凍結します</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2005�N10��23��(��) 18��11��</font>
-<a href="resbbs4.cgi?vew=2742">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>䕂܂��܂�</b>�z</font>
-<ul><font size=3>�������߂Ȃ����e�X�g�e�X�g</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2005年10月23日(日) 18時11分</font>
+<a href="resbbs4@vew_2742.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>苺ましまろ</b>】</font>
+<ul><font size=3>書き込めないかテストテスト</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2743>
-<font color=#6A5ACD>RE:�ꎞ�I�ɑ����f���𓀌����܂�</font></a>
+<font color=#6A5ACD>RE:一時的に総合掲示板を凍結します</font></a>
 <font color=#303030>
-�Ē�
- ����</font>
- <font size=2>2005�N10��23��(��) 19��57��</font>
-<a href="resbbs4.cgi?vew=2743">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>䕂܂��܂�</b>�z</font>
-<ul><font size=3>�{���ɋC�ɂȂ鏬���́F�@�V���̉��̃o�V���C�X<br><br>�������܂��܂�ł����c�c<br><br>����CAPTCHA�ŁA���{�b�g�^���W�Ǝ������e�̃c�[���ɂ͏\�����Ǝv���܂��B<br>�ł��A�����ꂱ�̎�̑΍􂪈�ʓI�ɂȂ�΁A�L�[���[�h�Ή��̓��e�c�[����<br>�L�[���[�h�X�V�T�[�r�X���Ǝ҂��n�߂�C�^�`�������ɂȂ�̂ł��傤�ˁB<br><br>���߂ĕ��ɂɓ��e���������A<br>���[���A�h���X��I�o���郊�X�N�ƃ����b�g���ׂ���ŃT�u�A�h���X�����J���܂������A<br>�ߍ��͈��������20�`30�ʂ�SPAM��ˋ󐿋��A�t�B�b�V���O������Ă��܂��B<br>�����͂���قǂȂ�ӂ�\��Ȃ���������������Ƃ͎v���Ă܂���ł����B<br>���ł͌��J�ɂ�郊�X�N��T�������������b�g�������Ă��܂��Ă�Ǝv���܂��B<br><br>�������ɕĒÂ�JUNET�⑐�̍�BBS�̎���͒m��Ȃ��̂ł����A�e���z����A<br>�܂��P�ӂ�DIY���_�΂���ł��ӂ�Ă����l�b�g�Ŋ����ł����͍̂K�^�������ȂƁA<br>���ɂ��Ďv�����肵�܂��B</font></ul>
+米津
+ さん</font>
+ <font size=2>2005年10月23日(日) 19時57分</font>
+<a href="resbbs4@vew_2743.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>苺ましまろ</b>】</font>
+<ul><font size=3>本当に気になる小説は：　天槍の下のバシレイス<br><br>いちごましまろですか……<br><br>一種のCAPTCHAで、ロボット型収集と自動投稿のツールには十分だと思います。<br>でも、いずれこの手の対策が一般的になれば、キーワード対応の投稿ツールと<br>キーワード更新サービスを業者が始めるイタチごっこになるのでしょうね。<br><br>初めて文庫に投稿をした時、<br>メールアドレスを露出するリスクとメリットを比べた上でサブアドレスを公開しましたが、<br>近頃は一日あたり20～30通のSPAMや架空請求、フィッシングがやってきます。<br>当時はこれほどなりふり構わないやり方が蔓延するとは思ってませんでした。<br>今では公開によるリスクや鬱陶しさがメリットを上回ってしまってると思います。<br><br>さすがに米津もJUNETや草の根BBSの時代は知らないのですが、テレホ時代、<br>まだ善意とDIY精神ばかりであふれていたネットで活動できたのは幸運だったなと、<br>今にして思ったりします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2744>
-<font color=#6A5ACD>RE:�ꎞ�I�ɑ����f���𓀌����܂�</font></a>
+<font color=#6A5ACD>RE:一時的に総合掲示板を凍結します</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2005�N10��23��(��) 22��58��</font>
-<a href="resbbs4.cgi?vew=2744">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>䕂܂��܂�</b>�z</font>
-<ul><font size=3>�ĒÂ���A����ɂ���<br><br>CAPTCHA���ĂȂ񂾂�Ǝv���đ��U��google�搶�ɕ����Ă݂܂����B<br>MSN�������̃A�J���Ƃ�Ƃ��ɓ��͂������邠�̃O�l������ǃv���Z�X�̂��Ƃ�������ł��ˁB�Ȃ�قǂł��B<br>����ɂ��Ă��ĒÂ���̂��������悤�ɁA20���I�̍��̃l�b�g�́A������v���ΑP�ӂ�DIY�Ő��藧���Ă���ł��˂��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2005年10月23日(日) 22時58分</font>
+<a href="resbbs4@vew_2744.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>苺ましまろ</b>】</font>
+<ul><font size=3>米津さん、こんにちは<br><br>CAPTCHAってなんだろと思って速攻でgoogle先生に聞いてみました。<br>MSNか何かのアカをとるときに入力させられるあのグネ文字解読プロセスのことだったんですね。なるほどです。<br>それにしても米津さんのおっしゃるように、20世紀の頃のネットは、今から思えば善意とDIYで成り立ってたんですねぇ。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -336,150 +336,150 @@ SHO
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2614>
-<font color=#6A5ACD>�Ǘ��l�����</font></a>
+<font color=#6A5ACD>管理人さんへ</font></a>
 <font color=#303030>
 ***
- ����</font>
- <font size=2>2005�N9��4��(��) 10��35��</font>
-<a href="resbbs4.cgi?vew=2614">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�Ȃ̂͂`'��</b>�z</font>
+ さん</font>
+ <font size=2>2005年9月4日(日) 10時35分</font>
+<a href="resbbs4@vew_2614.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>なのはＡ'ｓ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����e���Ă���������B<br>���̂a�a�r��������Ȃ��Ȃ��Ă�B</font></ul>
+<ul><br><font size=3>メンテしてくださいよ。<br>何のＢＢＳだか判らなくなってる。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2655>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
 ***
- ����</font>
- <font size=2>2005�N9��19��(��) 15��6��</font>
-<a href="resbbs4.cgi?vew=2655">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�Ȃ̂�A's</b>�z</font>
-<ul><font size=3>�Ǘ��l���񂪃A�N�V�������N�����Ă����܂ŁA�グ�����邵���Ȃ��̂��c<br>�{���ɉ��ł����܂ŕ��u���Ă�́H</font></ul>
+ さん</font>
+ <font size=2>2005年9月19日(月) 15時6分</font>
+<a href="resbbs4@vew_2655.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>なのはA's</b>】</font>
+<ul><font size=3>管理人さんがアクションを起こしてくれるまで、上げ続けるしかないのか…<br>本当に何でここまで放置してるの？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2659>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2005�N9��20��(��) 9��59��</font>
-<a href="resbbs4.cgi?vew=2659">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>GALLERY�̉摜�A�b�v�pBBS���܂��U���ΏۂɂȂ��Ă܂��E�E�E</font></ul>
+通りすがり
+ さん</font>
+ <font size=2>2005年9月20日(火) 9時59分</font>
+<a href="resbbs4@vew_2659.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>GALLERYの画像アップ用BBSもまた攻撃対象になってます・・・</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2665>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
 ***
- ����</font>
- <font size=2>2005�N9��22��(��) 23��32��</font>
-<a href="resbbs4.cgi?vew=2665">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����e�v�]�₯����age</font></ul>
+ さん</font>
+ <font size=2>2005年9月22日(木) 23時32分</font>
+<a href="resbbs4@vew_2665.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>メンテ要望やけくそage</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2666>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
-�A�X�^���X�N
- ����</font>
- <font size=2>2005�N9��23��(��) 6��14��</font>
-<a href="resbbs4.cgi?vew=2666">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���̌f���������Ⴆ�΁H</font></ul>
+アスタリスク
+ さん</font>
+ <font size=2>2005年9月23日(金) 6時14分</font>
+<a href="resbbs4@vew_2666.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>この掲示板閉鎖しちゃえば？</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2667>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
-�ʂ肷�����774��
- ����</font>
- <font size=2>2005�N9��23��(��) 6��25��</font>
-<a href="resbbs4.cgi?vew=2667">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�܂������̊Ǘ��l���́A�Z�������Ă̂��f�t�H�炵������E�E�E<br>#�������Ƃ��ƂƔp��������Ĉӌ��ɂ͎^���B</font></ul>
+通りすがりの774式
+ さん</font>
+ <font size=2>2005年9月23日(金) 6時25分</font>
+<a href="resbbs4@vew_2667.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>まぁここの管理人氏は、忙しいってのがデフォらしいから・・・<br>#ここをとっとと廃棄しろって意見には賛成。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2681>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
-�ʍs�l
- ����</font>
- <font size=2>2005�N9��28��(��) 1��5��</font>
-<a href="resbbs4.cgi?vew=2681">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@���������΁A�W���̃T�[�o�[���p������U�荞�񂾂Ƃ��A�Ȃ�ł��ł�<br>�������������e���Ȃ������̂��Ȃ��E�E�ƂӂƎv�����B<br></font></ul>
+通行人
+ さん</font>
+ <font size=2>2005年9月28日(水) 1時5分</font>
+<a href="resbbs4@vew_2681.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　そういえば、８月のサーバー利用料金を振り込んだとき、なんでついでに<br>こっちをメンテしなかったのかなぁ・・とふと思った。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2704>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
-�ʍs�l
- ����</font>
- <font size=2>2005�N10��2��(��) 17��22��</font>
-<a href="resbbs4.cgi?vew=2704">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���̃y�[�W�ɍs�������������̂�age</font></ul>
+通行人
+ さん</font>
+ <font size=2>2005年10月2日(日) 17時22分</font>
+<a href="resbbs4@vew_2704.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>次のページに行きそうだったのでage</font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=2722>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
 ***
- ����</font>
- <font size=2>2005�N10��6��(��) 23��15��</font>
-<a href="resbbs4.cgi?vew=2722">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>���݂���</b>�z</font>
-<ul><font size=3>�ؗ��age</font></ul>
+ さん</font>
+ <font size=2>2005年10月6日(木) 23時15分</font>
+<a href="resbbs4@vew_2722.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>かみちゅ</b>】</font>
+<ul><font size=3>華麗にage</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2729>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
-�ʍs�l
- ����</font>
- <font size=2>2005�N10��8��(�y) 19��17��</font>
-<a href="resbbs4.cgi?vew=2729">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@�Ȃ񂩁A����Ɋ댯�ɂȂ��Ă����悤�ȁE�E�����܂ŕ��u����̂͂Ȃ��Ȃ�<br>���낤�E�E�H<br></font></ul>
+通行人
+ さん</font>
+ <font size=2>2005年10月8日(土) 19時17分</font>
+<a href="resbbs4@vew_2729.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　なんか、さらに危険になってきたような・・ここまで放置するのはなぜなん<br>だろう・・？<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2731>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
 7743
- ����</font>
- <font size=2>2005�N10��10��(��) 22��4��</font>
-<a href="resbbs4.cgi?vew=2731">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�Ǝ҂��������ɏW�߂ď��f��������Ă���Ƃ�</font></ul>
+ さん</font>
+ <font size=2>2005年10月10日(月) 22時4分</font>
+<a href="resbbs4@vew_2731.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>業者をこっちに集めて情報掲示板を守っているとか</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2730>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
 --
- ����</font>
- <font size=2>2005�N10��9��(��) 8��7��</font>
-<a href="resbbs4.cgi?vew=2730">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�܊�̃V���i</b>�z</font>
-<ul><font size=3>�������̌f�������Ă��Ȃ��̂ł��傤�B<br>���[�����o���Ē��ڑi�������������Ǝv���܂��B</font></ul>
+ さん</font>
+ <font size=2>2005年10月9日(日) 8時7分</font>
+<a href="resbbs4@vew_2730.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>灼眼のシャナ</b>】</font>
+<ul><font size=3>多分この掲示板を見ていないのでしょう。<br>メールを出して直接訴えた方がいいと思います。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2737>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
-�Ǘ��l
- ����</font>
- <font size=2>2005�N10��21��(��) 13��59��</font>
-<a href="resbbs4.cgi?vew=2737">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���낢�낲���f�����S�z���������܂����B<br>�Ƃ肠�����ASPAM�������݂͍폜���܂������A����̂��Ƃɂ��Ă͌������ł��B<br>�̂Ƃ������č��́A�f���X�N���v�g�͎��Ȗh�q���Ȃ��Ƒ�ςȂ��ƂɂȂ��Ă��܂���ł��ˁc�c�B</font></ul>
+管理人
+ さん</font>
+ <font size=2>2005年10月21日(金) 13時59分</font>
+<a href="resbbs4@vew_2737.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>いろいろご迷惑＆ご心配おかけしました。<br>とりあえず、SPAM書き込みは削除しまたしが、今後のことについては検討中です。<br>昔とちがって今は、掲示板スクリプトは自己防衛しないと大変なことになってしまうんですね……。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2741>
-<font color=#6A5ACD>RE:�Ǘ��l�����</font></a>
+<font color=#6A5ACD>RE:管理人さんへ</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2005�N10��23��(��) 18��10��</font>
-<a href="resbbs4.cgi?vew=2741">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>䕂܂��܂�</b>�z</font>
-<ul><font size=3>�����̑ΏۂƂ���䕂܂��܂��ݒ肷��Ə������߂�Ƃ���������������p�ӂ��Ă݂܂������A�ǂ����������̗������Ǝ҂ɗ��p���ꂿ�Ⴄ��ł��傤�˂��c�c�B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2005年10月23日(日) 18時10分</font>
+<a href="resbbs4@vew_2741.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>苺ましまろ</b>】</font>
+<ul><font size=3>興味の対象として苺ましまろを設定すると書き込めるというすごい裏道を用意してみましたが、どうせすぐこの裏道も業者に利用されちゃうんでしょうねぇ……。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -488,46 +488,46 @@ SHO
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2690>
-<font color=#6A5ACD>TS��w</font></a>
+<font color=#6A5ACD>TS大学</font></a>
 <font color=#303030>
-�Y�ꉮ
- ����</font>
- <font size=2>2005�N9��29��(��) 23��55��</font>
-<a href="resbbs4.cgi?vew=2690">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�l�Ɣޏ��́~�~�~</b>�z</font>
+忘れ屋
+ さん</font>
+ <font size=2>2005年9月29日(木) 23時55分</font>
+<a href="resbbs4@vew_2690.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>僕と彼女の×××</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>TS��w��URL�����Ă��������B</font></ul>
+<ul><br><font size=3>TS大学のURL教えてください。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2697>
-<font color=#6A5ACD>RE:TS��w</font></a>
+<font color=#6A5ACD>RE:TS大学</font></a>
 <font color=#303030>
-�Ƃ̂��l
- ����</font>
- <font size=2>2005�N10��1��(�y) 8��37��</font>
-<a href="resbbs4.cgi?vew=2697">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>������f��Ղ̃`�F���W</b>�z</font>
-<ul><font size=3>��������<br><a href=http://ts-f.net/~tsu/ target=_top>http://ts-f.net/~tsu/</a><br>���Ȃ݂ɂ����Q�N�ȏ㒆�g�̍X�V���Ă��܂���</font></ul>
+とのつく人
+ さん</font>
+ <font size=2>2005年10月1日(土) 8時37分</font>
+<a href="resbbs4@vew_2697.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>しんゆり映画祭のチェンジ</b>】</font>
+<ul><font size=3>ここっす<br><a href=http://ts-f.net/~tsu/ target=_top>http://ts-f.net/~tsu/</a><br>ちなみにもう２年以上中身の更新していません</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2698>
-<font color=#6A5ACD>RE:TS��w</font></a>
+<font color=#6A5ACD>RE:TS大学</font></a>
 <font color=#303030>
-���񂱂�
- ����</font>
- <font size=2>2005�N10��1��(�y) 9��59��</font>
-<a href="resbbs4.cgi?vew=2698">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���A�������I<br>�X�V��]�ł�</font></ul>
+こんこん
+ さん</font>
+ <font size=2>2005年10月1日(土) 9時59分</font>
+<a href="resbbs4@vew_2698.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>あ、理事長！<br>更新希望です</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2700>
-<font color=#6A5ACD>RE:TS��w</font></a>
+<font color=#6A5ACD>RE:TS大学</font></a>
 <font color=#303030>
-���̐l
- ����</font>
- <font size=2>2005�N10��2��(��) 0��19��</font>
-<a href="resbbs4.cgi?vew=2700">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���肪�Ƃ��������܂�</font></ul>
+↑の人
+ さん</font>
+ <font size=2>2005年10月2日(日) 0時19分</font>
+<a href="resbbs4@vew_2700.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ありがとうございます</font></ul>
 <HR>
 </ul>
 </dl>
@@ -535,57 +535,57 @@ SHO
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2678>
-<font color=#6A5ACD>�o�`</font></a>
+<font color=#6A5ACD>姉汁</font></a>
 <font color=#303030>
-���C
- ����</font>
- <font size=2>2005�N9��27��(��) 6��56��</font>
-<a href="resbbs4.cgi?vew=2678">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+レイ
+ さん</font>
+ <font size=2>2005年9月27日(火) 6時56分</font>
+<a href="resbbs4@vew_2678.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�A�g���G������̐V��u�o�`�v�����m����܂����B<br>�Y����ł������u���`�v�Ɠ����V�`���G�[�V�����̂悤�Ȃ̂�<br>���҂������Ƃ���ł��B<br></font></ul>
+<ul><br><font size=3>アトリエかぐやの新作「姉汁」が告知されました。<br>該当作であった「妹汁」と同じシチュエーションのようなので<br>期待したいところです。<br></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2670>
-<font color=#6A5ACD>�J���Ȃ�</font></a>
+<font color=#6A5ACD>開かない</font></a>
 <font color=#303030>
-<a href=mailto:mzntknr@infoseek.jp>�I���ǂ�</a>
- ����</font>
- <font size=2>2005�N9��24��(�y) 9��29��</font>
-<a href="resbbs4.cgi?vew=2670">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>NARUTO</b>�z</font>
+<a href=mailto:mzntknr@infoseek.jp>栗もどき</a>
+ さん</font>
+ <font size=2>2005年9月24日(土) 9時29分</font>
+<a href="resbbs4@vew_2670.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>NARUTO</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>������班�N�������ɂ��J���܂���B<br></font></ul>
+<ul><br><font size=3>昨日から少年少女文庫が開きません。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2671>
-<font color=#6A5ACD>RE:�J���Ȃ�</font></a>
+<font color=#6A5ACD>RE:開かない</font></a>
 <font color=#303030>
-�ʂ肷�����774��
- ����</font>
- <font size=2>2005�N9��24��(�y) 9��34��</font>
-<a href="resbbs4.cgi?vew=2671">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�I����������ł����˂��B</font></ul>
+通りすがりの774式
+ さん</font>
+ <font size=2>2005年9月24日(土) 9時34分</font>
+<a href="resbbs4@vew_2671.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>鯖が落ちたんですかねぇ。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2673>
-<font color=#6A5ACD>RE:�J���Ȃ�</font></a>
+<font color=#6A5ACD>RE:開かない</font></a>
 <font color=#303030>
-<a href=mailto:mzntknr@infoseek.jp>�I���ǂ�</a>
- ����</font>
- <font size=2>2005�N9��25��(��) 6��22��</font>
-<a href="resbbs4.cgi?vew=2673">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�������璼���Ă�</font></ul>
+<a href=mailto:mzntknr@infoseek.jp>栗もどき</a>
+ さん</font>
+ <font size=2>2005年9月25日(日) 6時22分</font>
+<a href="resbbs4@vew_2673.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>今見たら直ってた</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

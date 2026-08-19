@@ -2,39 +2,39 @@
 <head>
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #B8B8DC}
-/*�ꗗ�̕��̒�`*/
+/*一覧の舞閧ﾌ定義*/
 TR#tr2 {background-color: #aaaaaa}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #eeeeee}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 INPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 SELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�`*/
+/*FORM SUBMITボタンの定義*/
 .d1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�`*/
+/*FORM SUBMITボタンの定義*/
 .d2 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ff00ff;font-weight: bolder; border-width:thick;cursor:hand}
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .d3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�`*/
+/*投稿FORMの一部の定義*/
 .d4 {background-color: #999999; font-size:13pt}
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#eeeeee���폜)*/
+/*作品タイトル侮ｦの定義(タイトルに背景色を入れない場合、background-color:#eeeeeeを削除)*/
 .d5 {font-size:30pt;font-weight:bold;background-color:#eeeeee}
-/*��i���e�̕����`*/
+/*作品内容の侮ｦ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL(./textbg.gif)}
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -43,120 +43,120 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���F����</title>
+<title>桃色文庫</title>
 </head>
-<body bgcolor="#F9E5EF" background="./bg_a.gif" text="#CC3399" link="#3366CC">
+<body bgcolor="#F9E5EF" background="bg_a.gif" text="#CC3399" link="#3366CC">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
 <font style="color:#000000">
-�N���s�J�̂Ђ݂�
+クラピカのひみつ
 </font>
 </td>
 </tr>
 <tr>
 <td class="d6">
 <font style="color:#000000">
-<img src=http://www14.big.or.jp/~yays/cgi-bin/paintbbs2/data/IMG_000009.jpg width=200 height=200 align=left ALT=�N���s�J���><br><br>���c�������މ��~�ɐ������邽�߁A�������̃��C�h�ɕϑ������N���s�J�B��t��H�ɕϑ������O�Ȃ�����̂ŁA�N���s�J�Ƃ��Ă͓��R�̑I���������B�Ȃ��Ȃ����̂������Ȃ����c����T���Ȃ��烁�C�h�ҋƂɗ�ޓ��X�i�����^�ʖڂ�����c�c�j�B����Ȃ�����A�ʌ��Ő������Ă������I���I�Ɖ��~���ł΂�����B<br><br>���I�u���A�N���s�J���I�@��u�A�i���p�������ɂȂ�������˂����v<br>�N���u�t�b�B���D���Ȃ̂͑��ς�炸���ȁA���I���I�v<br>���I�u���܂��Ȃ��c�c�����J�ɋ��p�b�h�܂œ���₪���āc�c�v<br>�ۂ���B<br>�Ȃɂ��Ȃ��A�N���s�J�̋���G�郌�I���I�B<br>���I�u�I�H�v<br>�N���u���c�c�I�v<br>���I�u�Ȃ񂾂��܂̎艞���c�c�����A�܂����V���R�����ꂽ�̂���I�H�@��p�͂ǂ��̕a�@�Łc�c�ǂ����Ȃ�I���ɂ�点�Ă����΁I�v<br>�N���u����Ȃ��Ƃ������ȁI�@����͓V�R�̃o�X�g���v<br>���I�u�ցH�v<br>�N���u����Ȃ��������H�@�N���^���͌��Ɉ�x�A�t�̐��ɕω�����񂾁v<br>���I�u���Ⴀ���܂̂��܂��́A���́A�S�N���c�c�{���̏��H�v<br>�N���u���ׂĂ݂邩�H�v<br>���I�u���A�����I�@�ǂ��ǂ������g�̌��������Ă��炨�����I�v<br>�킫�킫�B����炵����𓮂����ĕ@�����r�����I���I�B<br>�S�c�b�I<br>�O�̍������I���I�����B<br>���I�u�����v<br>�N���u�c�c���́g�N���h�̎��ɉ��i�Ȑl�Ԃ��������v<br>�v���v���B<br>�N���s�J��A��@���i�i���Ȓ�������̂ЂƂƂ��ł����B<br>
+<img src="../paintbbs2/data/IMG_000009.jpg" width=200 height=200 align=left ALT=クラピカ嬢♪><br><br>旅団員が潜む屋敷に潜入するため、下働きのメイドに変装したクラピカ。受付嬢？に変装した前科もあるので、クラピカとしては当然の選択だった。なかなか正体を見せない旅団員を探しながらメイド稼業に励む日々（根が真面目だから……）。そんなある日、別口で潜入していたレオリオと屋敷内でばったり。<br><br>レオ「く、クラピカか！　一瞬、ナンパしそうになったじゃねぇか」<br>クラ「フッ。女好きなのは相変わらずだな、レオリオ」<br>レオ「おまえなぁ……ご丁寧に胸パッドまで入れやがって……」<br>ぽんっ。<br>なにげなく、クラピカの胸を触るレオリオ。<br>レオ「！？」<br>クラ「っ……！」<br>レオ「なんだいまの手応え……おい、まさかシリコン入れたのかよ！？　手術はどこの病院で……どうせならオレにやらせてくれれば！」<br>クラ「失礼なことを言うな！　これは天然のバストだ」<br>レオ「へ？」<br>クラ「言わなかったか？　クルタ族は月に一度、逆の性に変化するんだ」<br>レオ「じゃあいまのおまえは、その、ゴクリ……本物の女？」<br>クラ「調べてみるか？」<br>レオ「お、おう！　どきどき密着身体検査させてもらおうか！」<br>わきわき。いやらしく手を動かして鼻息も荒いレオリオ。<br>ゴツッ！<br>念の鎖がレオリオ直撃。<br>レオ「ぐえ」<br>クラ「……私は“クモ”の次に下品な人間が嫌いだ」<br>プンプン。<br>クラピカ嬢、御機嫌ナナメな昼下がりのひとときでした。<br>
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <address>
-���ʃQ�X�g
+特別ゲスト
 </address>
-2001�N12��30��(��) 09��46��29�b ���J<br>
+2001年12月30日(日) 09時46分29秒 公開<br>
 <!--156.pool3.ipctokyo.att.ne.jp-->
-�����̍�i�̒��쌠�͓��ʃQ�X�g����ɂ���܂��B���f�]�ڂ͋֎~�ł��B<br>
+■この作品の著作権は特別ゲストさんにあります。無断転載は禁止です。<br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-���c����l���璸�Ղ������N���s�J�̃C���X�g�ɂ��傤���Ȃ��X�g�[���[�i�H�j�����Ă݂܂����B<br>
+原田聖也様から頂戴した女クラピカのイラストにしょうもないストーリー（？）をつけてみました。<br>
 </dl>
 </td></tr></table>
 <hr width=50% align=center>
 <table width=100%><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�ō��ł����B</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td>����</td>
-<td width=20%>��2003-03-26 15:55:15</td>
+<td style=font-size:10pt>最高でした。</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td>蔵実</td>
+<td width=20%>■2003-03-26 15:55:15</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�����c�c��</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td>�s�J�q���r��</td>
-<td width=20%>��2002-12-22 21:27:42</td>
+<td style=font-size:10pt>可愛い……っ</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td>ピカ子ラビュ</td>
+<td width=20%>■2002-12-22 21:27:42</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���������ā`�`�i�؎�</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td>�i�G�L�D�M�jʧʧ���</td>
-<td width=20%>��2002-12-22 14:04:57</td>
+<td style=font-size:10pt>続き書いて～～（切実</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td>（；´Д｀）ﾊｧﾊｧ･･･</td>
+<td width=20%>■2002-12-22 14:04:57</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>�������y���݃f�X�I</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td>�N���s�[�J���C�[</td>
-<td width=20%>��2002-11-04 16:08:09</td>
+<td style=font-size:10pt>続きが楽しみデス！</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td>クラピーカワイー</td>
+<td width=20%>■2002-11-04 16:08:09</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>������H�ȊG����</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td>����LOVE</td>
-<td width=20%>��2002-08-09 11:10:40</td>
+<td style=font-size:10pt>もっとHな絵をｖ</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td>くらLOVE</td>
+<td width=20%>■2002-08-09 11:10:40</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���I���I�Ƃ̗��݃_�C�X�L���������s�J�͏��̎q�Ł�</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td>�N���^������������</td>
-<td width=20%>��2002-08-06 22:33:09</td>
+<td style=font-size:10pt>レオリオとの絡みダイスキ☆もちろんピカは女の子で♪</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td>クルタ娘ラヴっ娘☆</td>
+<td width=20%>■2002-08-06 22:33:09</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>���������������Ă���`</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td>�N���s�J�ӂ���</td>
-<td width=20%>��2002-07-22 08:31:09</td>
+<td style=font-size:10pt>早く続きを書いてくれ～</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td>クラピカふぁん</td>
+<td width=20%>■2002-07-22 08:31:09</td>
 </tr>
-<tr id=tr2><td align=right>���v</td><th>
-<font color=blue>7</font>�_
+<tr id=tr2><td align=right>合計</td><th>
+<font color=blue>7</font>点
 </th><td></td><td></td></tr>
 </table>
-<form method=post action=http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi>
+<form method=post action="anthologys.cgi">
 <input type=hidden name=action value=regist2>
 <table border=8>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <input type=text name=come_r size=80>
 <select name=point>
-<option value="1">�ǂ�����
-<option value="1">�΂���
-<option value="1">�I���I
-<option value="1">���I
-<option value="0">������Ƒ҂���
+<option value="1">良かった
+<option value="1">笑った
+<option value="1">巧い！
+<option value="1">個性的
+<option value="0">ちょっと待った
 </select>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20011230083907">
 <input type=hidden name="num_r" value="20011230083907">
 <input type=hidden name="url" value="">
@@ -169,30 +169,30 @@ E-Mail(�C��)
 </form>
 </center>
 <br><br>
-<a href=http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?log=>
-<<�߂�</a>
+<a href="anthologys@log_.cgi">
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi">
+<form method="post" action="anthologys.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20011230083907">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
-<form method=post action=http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi>
+<form method=post action="anthologys.cgi">
 <input type=hidden name=action value=in>
 <input type=hidden name="num" value="20011230083907">
 <input type=hidden name="log" value="">
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

@@ -1,94 +1,94 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���肪�Ƃ��������܂���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:ありがとうございました>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1957>
 <input type=hidden name=ress value=1957>
-<input type=submit value=���肪�Ƃ��������܂����֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=ありがとうございましたへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1957>
-<font color=#6A5ACD>���肪�Ƃ��������܂���</font></a>
+<font color=#6A5ACD>ありがとうございました</font></a>
 <font color=#303030>
 DISTANCE
- ����</font>
- <font size=2>2003�N9��10��(��) 4��6��</font>
-<a href="resbbs4_b.cgi?vew=1957">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2003年9月10日(水) 4時6分</font>
+<a href="resbbs4_b@vew_1957.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�݂Ȃ���~�J�G�����������Ă��������Ă��肪�Ƃ��������܂���<br>���Ȃ�������܂������A�Ȃ�Ƃ��������邱�Ƃ��ł��܂����B<br>��p�f���܂ō���Ă��������A�ƂĂ������������ł�<br>�i�Ǘ��l�l�Ɋ��ӂł��B�j<br>���G�`���f���ɂR���̕\���𓊍e���܂����̂Ō��Ă���Ă�������<br>�݂Ȃ���{���ɂ��肪�Ƃ��������܂�</font></ul>
+<ul><br><font size=3>みなさんミカエルを応援してくださってありがとうございました<br>かなり迷走しましたが、なんとか完結することができました。<br>専用掲示板まで作っていただき、とても嬉しかったです<br>（管理人様に感謝です。）<br>お絵描き掲示板に３巻の表紙を投稿しましたので見てやってください<br>みなさん本当にありがとうございます</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1958>
-<font color=#6A5ACD>RE:���肪�Ƃ��������܂���</font></a>
+<font color=#6A5ACD>RE:ありがとうございました</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F</a>
- ����</font>
- <font size=2>2003�N9��10��(��) 5��45��</font>
-<a href="resbbs4_b.cgi?vew=1958">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>������A���܂��ܑ����ɋN���ăT�C�g�`�����炷�������Ƃ��B<br>�Ȃɂ͂��Ă����A�A�ڊ�������ꂳ�܂ł����I��DISTANCE�搶<br>���e���Ă����������\���G�͌�قǃg�b�v�y�[�W����̃����N�Ō����悤�ɏ��u���Ă����܂��ˁB<br>����ɂ��Ă��A�������v���[���g�ł�^^<br><br>���T�C�g�Ƃ��Ă̓~�J�G���R���O��I�Ƀv�b�V�����Ă����\��ł��B<br>���r���[�ŏ������Ǝv���Ă܂����ǁA�~�J�G���̍ŏI�b�́A����͖ʔ����I�����ł����B<br><br>���̂悤�Ȓ����K�͌l�T�C�g�ɑ����~�߂Ă��������Ă��肪�Ƃ��������܂��B��DISTANCE�搶<br></font></ul>
+<a href=mailto:yays@geocities.co.jp>八重洲</a>
+ さん</font>
+ <font size=2>2003年9月10日(水) 5時45分</font>
+<a href="resbbs4_b@vew_1958.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>うわわわ、たまたま早朝に起きてサイト覗いたらすごいことが。<br>なにはさておき、連載完結お疲れさまでした！＞DISTANCE先生<br>投稿していただいた表紙絵は後ほどトップページからのリンクで見れるように処置しておきますね。<br>それにしても、嬉しいプレゼントです^^<br><br>当サイトとしてはミカエル３巻徹底的にプッシュしていく予定です。<br>レビューで書こうと思ってますけど、ミカエルの最終話は、あれは面白い終わり方でした。<br><br>このような中小規模個人サイトに足を止めていただいてありがとうございます。＞DISTANCE先生<br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=1959>
-<font color=#6A5ACD>RE:���肪�Ƃ��������܂���</font></a>
+<font color=#6A5ACD>RE:ありがとうございました</font></a>
 <font color=#303030>
-���䗅
- ����</font>
- <font size=2>2003�N9��11��(��) 0��12��</font>
-<a href="resbbs4_b.cgi?vew=1959">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ȁA�Ȃ�ƁI<br>�Ƃ�ł��Ȃ��Q�X�g�����������������̂ł��ȁc</font></ul>
+金比羅
+ さん</font>
+ <font size=2>2003年9月11日(木) 0時12分</font>
+<a href="resbbs4_b@vew_1959.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>な、なんと！<br>とんでもないゲストがいらっしゃったものですな…</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

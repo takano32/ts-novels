@@ -1,131 +1,131 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�}���K>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:マンガ>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1304>
 <input type=hidden name=ress value=1304>
-<input type=submit value=�}���K�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=マンガへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1304>
-<font color=#6A5ACD>�}���K</font></a>
+<font color=#6A5ACD>マンガ</font></a>
 <font color=#303030>
-�ԏ��@�~
- ����</font>
- <font size=2>2001�N11��15��(��) 22��20��</font>
-<a href="resbbs4.cgi?vew=1304">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�Ȃ�����̃R�R�i�b�c</b>�z</font>
+赤譲　淳
+ さん</font>
+ <font size=2>2001年11月15日(木) 22時20分</font>
+<a href="resbbs4@vew_1304.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ないしょのココナッツ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>������΂��ł�<br>�����F�X�Ə����W�ɗ��p�����Ă��������Ă���܂�<br>�ԏ��~�ł�<br>�ŋߌÖ{������Łu�Ȃ�����̃R�R�i�b�c�v������̂𔭌������̂ł���<br>�ڂ�����񂪂킩���Ă���܂���<br>���l�֘A�͗ǂ��̂ł��������}���K�֘A�ɂȂ�Ƒa�����̂ł�����i�΁j<br>���g�m�F�ł��Ȃ��̂łȂ�Ƃ������Ȃ��̂ł����E�E�E<br>����ւ��˂��炵���̂ł���<br>�ǂ�ȃ}���K�Ȃ̂������Ă��炦��΍K���ł�<br>�Ȃ��A�����ɕs�K�؂ȏ������݂Ȃ�폜���Ă�����Ă�<br>���܂��܂���̂ł�낵�����肢���܂�<br>�܂������炩������𗬂������Ǝv���܂�<br>����ł́I</font></ul>
+<ul><br><font size=3>おこんばんわです<br>ここ色々と情報収集に利用させていただいております<br>赤譲淳です<br>最近古本屋さんで「ないしょのココナッツ」成るものを発見したのですが<br>詳しい情報がわかっておりません<br>成人関連は良いのですが少女マンガ関連になると疎いものですから（笑）<br>中身確認できないのでなんとも言えないのですが・・・<br>入れ替わりねたらしいのですが<br>どんなマンガなのか教えてもらえれば幸いです<br>なお、ここに不適切な書き込みなら削除してもらっても<br>かまいませんのでよろしくお願いします<br>またこちらからも情報を流したいと思います<br>それでは！</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1305>
-<font color=#6A5ACD>RE:�}���K</font></a>
+<font color=#6A5ACD>RE:マンガ</font></a>
 <font color=#303030>
-<a href=mailto:tak-hi@ma.neweb.ne.jp>����</a>
- ����</font>
- <font size=2>2001�N11��16��(��) 0��7��</font>
-<a href="resbbs4.cgi?vew=1305">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���w�R�N���ɘA�ڂ���Ă��������}���K�ł�<br>���R�g�͊��҂ł��܂��񂪁A�L�����͗����Ă��Ėʔ����ł���<br>������o���o���ŉ^�����s�ȃR�R������<br>�X�|�[�c���\�ŃZ���X�̗ǂ��i�b�c�N��<br>�����ȕ��ז򂪍������Ĕ������������z����������<br>������݂�����ƍ�������ւ��A�L�X�i�Ƃ����Ă��ق��؂��ł����j�����<br>���Ƃɖ߂���Đݒ�̂��b�ł��B<br>����ւ������̃R�R�̑̂̃i�b�c��������Ċ����Ȃ̂Ō��\�ǂ������ł�<br>�ق̂ڂ̂����W�J�������łȂ���΂����߂̈�i�ł�</font></ul>
+<a href=mailto:tak-hi@ma.neweb.ne.jp>鐸碑</a>
+ さん</font>
+ <font size=2>2001年11月16日(金) 0時7分</font>
+<a href="resbbs4@vew_1305.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>小学３年生に連載されていた児童マンガです<br>当然Ｈは期待できませんが、キャラは立っていて面白いですよ<br>少女趣味バリバリで運動音痴なココちゃんと<br>スポーツ万能でセンスの良いナッツ君が<br>いろんな風邪薬が混ざって発生した煙を吸ったせいで<br>くしゃみをすると魂が入れ替わり、キス（といってもほっぺたですが）すると<br>もとに戻るって設定のお話です。<br>入れ替わった後のココの体のナッツが主役って感じなので結構良い感じです<br>ほのぼのした展開が嫌いでなければお奨めの一品です</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1308>
-<font color=#6A5ACD>RE:�}���K</font></a>
+<font color=#6A5ACD>RE:マンガ</font></a>
 <font color=#303030>
-�ԏ��@�~
- ����</font>
- <font size=2>2001�N11��17��(�y) 18��12��</font>
-<a href="resbbs4.cgi?vew=1308">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���肳��ꂷ���肪�Ƃ��������܂�<br>�����w�����Ă��܂����i���Ȃ݂�190�~�j<br>���\�e���|�ǂ��i��ł���̂������ł���<br>�ق̂ڂ̂Ƃ��Ă��ē���ւ��<br>�ȂƂ��Ă͂������납�����ł���<br>���������������̂͊�Ղ��ȁi�΁j<br>�܂��@��o�������������Ă݂܂����`<br>���X���肪�Ƃ��������܂���</font></ul>
+赤譲　淳
+ さん</font>
+ <font size=2>2001年11月17日(土) 18時12分</font>
+<a href="resbbs4@vew_1308.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>鐸碑さんれすありがとうございます<br>早速購入してきました（ちなみに190円）<br>結構テンポ良く進んでいるのが特徴ですね<br>ほのぼのとしていて入れ替わり<br>なとしてはおもしろかったですね<br>しかし見つかったのは奇跡かな（笑）<br>また掘り出し物をさがしてみますう～<br>レスありがとうございました</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1311>
-<font color=#6A5ACD>RE:�}���K</font></a>
+<font color=#6A5ACD>RE:マンガ</font></a>
 <font color=#303030>
 yays
- ����</font>
- <font size=2>2001�N11��18��(��) 11��27��</font>
-<a href="resbbs4.cgi?vew=1311">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�o�g�V�[���[</b>�z</font>
-<ul><font size=3>��r�I��ɓ���ɂ��������ł���B���肨�߂łƁ[�I(^^)<br>����ւ���ɍ����ł���i�b�c�̂ق����哱���������ł��̘b�A�ʔ����Ǝv���܂��B<br>�N���̌Z��e�ʂ�������ǂ܂��āA���̓��ɖڊo�߂����Ă����Ă��������B�i�΁j<br>�Ȃ�����̃R�R�i�b�c�A�����V���[�Y�͒P�s�{�����^�Ȃ�ł���ˁB�i����}���قœ����̎G�����{���R�s�[���鍄�̎҂����܂��j</font></ul>
+ さん</font>
+ <font size=2>2001年11月18日(日) 11時27分</font>
+<a href="resbbs4@vew_1311.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>バトシーラー</b>】</font>
+<ul><font size=3>比較的手に入りにくい物件ですよ。入手おめでとー！(^^)<br>入れ替わり後に魂♂であるナッツのほうが主導権を握るんでこの話、面白いと思います。<br>年少の兄弟親戚がいたら読ませて、この道に目覚めさせてあげてください。（笑）<br>ないしょのココナッツ、第二期シリーズは単行本未収録なんですよね。（国会図書館で当時の雑誌を閲覧コピーする剛の者もいます）</font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=1312>
-<font color=#6A5ACD>�Ȃ�����̃R�R�i�b�c�c</font></a>
+<font color=#6A5ACD>ないしょのココナッツ…</font></a>
 <font color=#303030>
-�V���C�j���O�E�t�B���K�[�T
- ����</font>
- <font size=2>2001�N11��18��(��) 13��21��</font>
-<a href="resbbs4.cgi?vew=1312">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�}���I�l�b�g�ǌ�Q�͊��Ƃ悩�����Ȃ��B</b>�z</font>
-<ul><font size=3>�����Ö{�������ĒT���Ă����ł����ǂˁ`�A�n��ɂ���Ď�ɓ���₷�����������ɂ��������肷��̂��Ȃ��B�܂���ɓ���Ă��܂���B<br>�l�b�g�I�[�N�V�����Ƃ������Ȃ��̂��Ȃ��B</font></ul>
+シャイニング・フィンガー５
+ さん</font>
+ <font size=2>2001年11月18日(日) 13時21分</font>
+<a href="resbbs4@vew_1312.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>マリオネット症候群は割とよかったなあ。</b>】</font>
+<ul><font size=3>私も古本屋巡って探しているんですけどね～、地域によって手に入りやすかったり入りにくかったりするのかなあ。まだ手に入れていません。<br>ネットオークションとかしかないのかなあ。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1313>
-<font color=#6A5ACD>RE:�Ȃ�����̃R�R�i�b�c�c</font></a>
+<font color=#6A5ACD>RE:ないしょのココナッツ…</font></a>
 <font color=#303030>
-�т��
- ����</font>
- <font size=2>2001�N11��18��(��) 16��2��</font>
-<a href="resbbs4.cgi?vew=1313">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���\���A��I�ŋ߂��̍�҂���A�����R�~�b�N�ŏ������̂�������Ă܂��B���̃f�r���[��ɁE�E�E�^���N���łƂڂ����ƁE�E���ꂪ����ł��傤�B</font></ul>
+びゅの
+ さん</font>
+ <font size=2>2001年11月18日(日) 16時2分</font>
+<a href="resbbs4@vew_1313.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>結構レアよ！最近この作者さん、少女コミックで女装ものを書かれてます。そのデビュー作に・・・某少年誌でとぼそっと・・それがこれでしょう。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1318>
-<font color=#6A5ACD>RE:�Ȃ�����̃R�R�i�b�c�c</font></a>
+<font color=#6A5ACD>RE:ないしょのココナッツ…</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N11��20��(��) 6��32��</font>
-<a href="resbbs4.cgi?vew=1318">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�x���a�q����A�u�n�[�g�Ƀ_���N�v�ł͒j���̏��̎q���`����Ă܂����B<br>�W�F���_�[�t�]�����D���Ȃ�ł��傤�B�i�΁j</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2001年11月20日(火) 6時32分</font>
+<a href="resbbs4@vew_1318.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>富所和子さん、「ハートにダンク」では男装の女の子物描かれてました。<br>ジェンダー逆転がお好きなんでしょう。（笑）</font></ul>
 <HR>
 </ul>
 </ul>
@@ -133,7 +133,7 @@ yays
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

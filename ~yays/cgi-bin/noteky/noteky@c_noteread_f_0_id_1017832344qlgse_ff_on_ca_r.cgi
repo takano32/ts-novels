@@ -1,271 +1,271 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1017832344qlgse&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1017832344qlgse_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�y�������������i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">Ｚｙｕｋａさん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/04/03 20:12:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/04/03 20:12:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017832344qlgse&id2=1017832344qlgse&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017832344qlgse_id2_1017832344qlgse_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������c�c
+準備中……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200204/04201057/m-vamp.htm" target="_blank">�u���^�����E���@���p�C�A�v������ɂ͂������N���b�N�B</a></strong>  <i>2002/04/04 20:15:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200204/04201057/m-vamp.htm" target="_blank">「メタモル・ヴァンパイア」を見るにはここをクリック。</a></strong>  <i>2002/04/04 20:15:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017918935rcuya&id2=1017832344qlgse&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017918935rcuya_id2_1017832344qlgse_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���@���p�C�A�A�ł��ő��B�c�c�����A�ނ�̉��ɏ�������q���B
+【推薦文】ヴァンパイア、闇の眷属。……今宵、彼らの宴に招かざる客が。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/04 21:17:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/04 21:17:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017922624rqkitv&id2=1017832344qlgse&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017922624rqkitv_id2_1017832344qlgse_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A�o���p�C���B<BR>�������A�ނ�̕ϐg�ɂ͂��������d�|�����������̂ˁB<BR>�Ō�A�Ȃ��Ȃ��a���I�����������Ǝv������A���Ƃ������E�E�E�i�΁j�B<BR>���@���p�C�A�E�f�X�g���C�A�̔ނ͌��\�ʔ����z�炵���i���j�B<BR>���ɂ������͋C�i�o���p�C���b�Ƃ��āj�̂��b�ł����i�{�҂͂ˁE�E�E�΁j�B
+読んだバイ♪<BR>おお、バンパイヤ。<BR>そうか、彼らの変身にはそういう仕掛けがあったのね。<BR>最後、なかなか渋い終わり方をしたと思ったら、あとがきが・・・（笑）。<BR>ヴァンパイア・デストロイアの彼は結構面白い奴らしい（爆）。<BR>実にいい雰囲気（バンパイヤ話として）のお話でした（本編はね・・・笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/04 21:33:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/04 21:33:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017923634fayuss&id2=1017832344qlgse&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017923634fayuss_id2_1017832344qlgse_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����H�@����ŏI���Ȃ̂ł��傤���c���҂́H<BR><BR>�Ȃɂ��A�ׂ����ݒ�ł悢�ł��ˁB�z��������ɂ���āA�ϐg���ς��ł����B���܂��g���΁A�����g����\�͂ł��ˁB<BR><BR>���̂��Ɓc�f�X�g���C�A�������������Ȃ悢�Ƃ���ŏI����Ă܂��ˁB<BR>�d�g�d���̓A�N�V�������D���Ȃ̂ŁA���������ʂ����Ă݂����Ȃ��Ǝv���Ă���܂���<BR>
+えっ？　これで終わりなのでしょうか…続編は？<BR><BR>なにやら、細かい設定でよいですね。吸った相手によって、変身が変わるですか。うまく使えば、相当使える能力ですね。<BR><BR>このあと…デストロイアが乱入しそうなよいところで終わってますね。<BR>電波妖精はアクションも好きなので、そっち方面も見てみたいなあと思っております♪<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����E�����E�ǂ񂾁B</strong>  <i>2002/04/04 21:40:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>来た・見た・読んだ。</strong>  <i>2002/04/04 21:40:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017924053dvkie&id2=1017832344qlgse&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017924053dvkie_id2_1017832344qlgse_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�뎚����܂����B<BR><BR>&gt;�������m�̃J�b�v���Ƃ����̂�<BR><BR>�u�����v�ł���ˁH<BR>
+誤字ありました。<BR><BR>&gt;同姓同士のカップルというのは<BR><BR>「同性」ですよね？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤���^�c�ψ�</strong>  <i>2002/04/05 01:31:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう＠運営委員</strong>  <i>2002/04/05 01:31:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017937919bkyetv&id2=1017832344qlgse&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017937919bkyetv_id2_1017832344qlgse_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���뎚����܂����B<BR>���w�E���肪�Ƃ��������܂����B�����C�����܂����B
+＞誤字ありました。<BR>ご指摘ありがとうございました。早速修正しました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/04/05 15:27:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>龍酒</strong>  <i>2002/04/05 15:27:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017988059prfoygt&id2=1017832344qlgse&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017988059prfoygt_id2_1017832344qlgse_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂��Ă����������܂��Ĉꌾ�B<BR>�W���b�N�ō��ł��B<BR>�����B��������܂����Ƃ��I�I�����j�ł����ǂ��ˁI�I�n�b�n�b�n�B<BR>�����āu���^�[���E�I�u�E�W���b�N�E�U�E���b�p�[�v�̓�����܂������������ł��B<BR><BR><BR>
+読ませていただだきまして一言。<BR>ジャック最高です。<BR>ええ。もう惚れましたとも！！自分男ですけどもね！！ハッハッハ。<BR>そして「リターン・オブ・ジャック・ザ・リッパー」の二つ名もまたかっこいいです。<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ƃ�</strong>  <i>2002/04/05 18:49:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>とと</strong>  <i>2002/04/05 18:49:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018000157pkcpsgv&id2=1017832344qlgse&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018000157pkcpsgv_id2_1017832344qlgse_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�z���S�͎��l�Ȃ̂ł����B���͂Ă�����d���̈�킾�ƍl���Ă��܂����B<BR>�������I���������r���[�Șb���Ǝv���܂����B�S�̓I�ȍ\�����ƂĂ��ǂ��d�オ���Ă���̂ŁA�ǂ����Ă������ŏI��点�Ă��܂��̂��c<BR>�l�I�ɂ͎c�O�ł����A�����Ⴒ���Ⴕ���������͑z���̗]�n�������Ă����̂�������܂���B
+吸血鬼は死人なのですか。私はてっきり妖怪の一種だと考えていました。<BR>しかし終わり方が中途半端な話だと思いました。全体的な構成がとても良く仕上がっているので、どうしてあそこで終わらせてしまうのか…<BR>個人的には残念ですが、ごちゃごちゃしい結末よりは想像の余地があっていいのかもしれません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/04/05 20:18:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>島くじら</strong>  <i>2002/04/05 20:18:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018005490nvmidt&id2=1017832344qlgse&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018005490nvmidt_id2_1017832344qlgse_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂��Ă��������܂����B���낢��ƍׂ����ݒ肪�����Đ����ǂ��ł��ˁB�j��_�l�̐��̂��m�肽���ł��˂��B���҂�����΂��ꂵ���̂ł����B<BR>�����ЂƂ̂ق����Ă����̓ǂ�ł݂����ł��ˁB<BR>
+読ませていただきました。いろいろと細かい設定があって凄く良いですね。破壊神様の正体も知りたいですねぇ。続編があればうれしいのですが。<BR>もうひとつのほうっていうの読んでみたいですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://kobe.cool.ne.jp/yosioka_fan/" target="_blank">�悵����</a></strong>  <i>2002/04/05 20:19:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://kobe.cool.ne.jp/yosioka_fan/" target="_blank">よしおか</a></strong>  <i>2002/04/05 20:19:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018005562eweyqt&id2=1017832344qlgse&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018005562eweyqt_id2_1017832344qlgse_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y������������A�ʔ����v�����[�O�ł��ˁA�{�҂̎n�܂���҂��Ă܂��B�i�j�����j<BR>�z���ɂ���`�q�L�^�B�����ł��ˁB���Ђ��̃A�C�f�A�̍�i�������ƌ������ł��B��낵���B
+Ｚｙｕｋａさん、面白いプロローグですね、本編の始まり期待してます。（ニヤリ）<BR>吸血による遺伝子記録。いいですね。ぜひこのアイデアの作品をもっと見たいです。よろしく。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/04/06 00:38:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/04/06 00:38:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018021129docemog&id2=1017832344qlgse&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018021129docemog_id2_1017832344qlgse_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A<BR>�u�G�N�\�V�X�gvs���@���p�C�A�v<BR><BR>�c�Ƃ����Ƃ���ŏI����Ă��܂����i�I�����Ƃ��Ắj����ł悢�̂ł́H<BR><BR>�ł̎҂ɂƂ��Ă̔j��_���āA���́u�ځ��v��u�[���X�v�ƌĂ΂��҂̂悤�ȁH
+さあ、<BR>「エクソシストvsヴァンパイア」<BR><BR>…というところで終わっていますが（終わり方としては）これでよいのでは？<BR><BR>闇の者にとっての破壊神って、じつは「ぼ○つ」や「ゼ○ス」と呼ばれる者のような？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�߂���</strong>  <i>2002/04/07 12:18:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>めける</strong>  <i>2002/04/07 12:18:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018149530vrnuup&id2=1017832344qlgse&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018149530vrnuup_id2_1017832344qlgse_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��`����ł܂��������m�����[�܂�܂����B<BR>�Ƃ���ł���ρA�e�e�ɂ͋�����g���ɂȂ�̂ŁH<BR>����Ƃ��\���˂��Ƃ��������ŁH<BR>���҂܂������܂��B
+わ～これでまた化け物知識が深まりました。<BR>ところでやっぱ、銃弾には銀をお使いになるので？<BR>それとも十字架をとかした物で？<BR>続編まっちょります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�y��������</strong>  <i>2002/05/04 15:08:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｚｙｕｋａ</strong>  <i>2002/05/04 15:08:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020492497jbkqsv&id2=1017832344qlgse&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020492497jbkqsv_id2_1017832344qlgse_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ȃ���l�u�ځ��v�Ƃ́A�����������̂��Ƃł��傤���H<BR><BR>�E�E�E���҂ɓ����邻�̂Q�̓Z�e�B�N���������ĈႤ����ɂȂ��Ă��܂��E�E�E<BR>�\���󂲂����܂���B<BR>
+＞すなさん様「ぼ○つ」とは、いったい何のことでしょうか？<BR><BR>・・・続編に当たるその２はセティ君が強すぎて違う物語になっています・・・<BR>申し訳ございません。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/05/04 19:44:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/05/04 19:44:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020509047xhddn&id2=1017832344qlgse&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020509047xhddn_id2_1017832344qlgse_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�b�̗��ꂩ��l����ɁA��F���c
+話の流れから考えるに、菩薩か…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200204/04201057/m-vamp02.htm" target="_blank">�w���^�������@���p�C�A���̂Q�x������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/08 20:56:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200204/04201057/m-vamp02.htm" target="_blank">『メタモルヴァンパイアその２』を見るにはここをクリック。</a></strong>  <i>2002/05/08 20:56:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020858980aaumrx&id2=1017832344qlgse&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020858980aaumrx_id2_1017832344qlgse_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���@�����̒��A���̂��R���f�B�Ɉ������荞�܂ꂻ���ɂȂ�g�́[����h�ł������c�c�i�΁j�B
+【推薦文】阿鼻叫喚の中、何故かコメディに引きずり込まれそうになる“はーくん”であった……（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200204/04201057/vampmaid.htm" target="_blank">�w�H�쉮�~�̂��o�����x������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/08 20:57:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200204/04201057/vampmaid.htm" target="_blank">『幽霊屋敷のお姉ちゃん』を見るにはここをクリック。</a></strong>  <i>2002/05/08 20:57:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020859046ejgpya&id2=1017832344qlgse&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020859046ejgpya_id2_1017832344qlgse_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������͂����ĕς���āA�|�`���b�ł��c�c�c�c���I�H�@����ł��������炱��Ȗڂɂ����������āH
+こちらはうって変わって、怖～い話です…………え！？　それでもいいからこんな目にあいたいって？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/08 22:09:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/08 22:09:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020863353ntwahbq&id2=1017832344qlgse&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020863353ntwahbq_id2_1017832344qlgse_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�u���^�������@���p�C�����̂Q�v<BR>���[��A����I�ȎE�C�ł��Ȃ��B�����A�ނ�Ɍ��킹��Ɓu�E�C�ł͂Ȃ��v�ƌ�����ȁA��΁B<BR>�������A�V���A�X�`�Ǝv������Ō�͂���ς�I�`������܂����i�΁j�B�l�̎��ƐK���̕t�����D�w���āA�˂��i���j�B<BR>�u�H�쉮�~�̂��o�����v<BR>�z���S�̐H���ɂ���Ă��܂����A���N�̐S�����������C�h�ɖG���i���j�B<BR>�������A�u���̂����v�͂Ƃ������A�u��̂��K�v���Ă̂͂��܂蕷���Ȃ��ł��˂��i�΁j�B�Ȃ񂩕\�����K���X���X���̂悤�ȋC���E�E�E�i���j�B
+読んだバイ♪<BR>「メタモルヴァンパイヤその２」<BR>うーん、一方的な殺戮ですなぁ。ただ、彼らに言わせると「殺戮ではない」と言われるな、絶対。<BR>しかし、シリアス～と思ったら最後はやっぱりオチがありました（笑）。鼠の耳と尻尾の付いた妊婦って、ねぇ（爆）。<BR>「幽霊屋敷のお姉ちゃん」<BR>吸血鬼の食料にされてしまった、少年の心を持ったメイドに萌え（爆）。<BR>しかし、「下のお口」はともかく、「上のお尻」ってのはあまり聞かないですねぇ（笑）。なんか表現が規制スレスレのような気が・・・（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/05/09 00:42:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/05/09 00:42:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020872542kjdwd&id2=1017832344qlgse&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020872542kjdwd_id2_1017832344qlgse_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���^�������@���p�C�A�Q�c<BR>�������c�i���[�V�����̂����݂�����������c<BR>�Ȃ�Ƃ���𓦂ꂽ�悤�ł��ȁB���������̓�̓�������c�ӂށB�ݒ�̖�������ɐ�������Ă������ŁA���҂��邱�Ƒ�ł���܂��B<BR><BR>�u�H�쉮�~�̂��o�����v<BR>��ׁ[�c����́c���o�C�c���₟�c���̂��肬�芴���Ȃ�Ƃ������܂���(�΁j<BR>����ɂ��Ă��A�Ȃ�ĖG���Ȃ񂾁c����͂₷�����A�Ȃ񂾂��ꔭ�l�^���ۂ��̂����������Ȃ��悤�ȋC�����܂��B���ꂪ�������z���S���m�Ȃ̂��c�Q�l�ɂ��悤�c
+メタモルヴァンパイア２…<BR>すごい…ナレーションのつっこみが厳しすぎる…<BR>なんとか難を逃れたようですな。しかもその難の逃れ方が…ふむ。設定の妙が今後に生かされてきそうで、期待すること大であります。<BR><BR>「幽霊屋敷のお姉ちゃん」<BR>やべー…これは…ヤバイ…いやぁ…このぎりぎり感がなんとも言えません(笑）<BR>それにしても、なんて萌えなんだ…いやはやすごい、なんだか一発ネタっぽいのがもったいないような気もします。これが正しい吸血鬼モノなのか…参考にしよう…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�z����␶</strong>  <i>2002/05/09 20:42:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>吸血候補生</strong>  <i>2002/05/09 20:42:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020944575ugdcg&id2=1017832344qlgse&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020944575ugdcg_id2_1017832344qlgse_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�H�쉮�~�̂��o�����z<BR><BR>���[��A�����ȋz���S�ł��ȁB(��)���Ⓙ�����ƌ����ׂ��Ȃ̂��B<BR>�������Ō�̃A���́c�c���o�C�b�X�B(�ꊾ<BR>���^�������@���p�C�A�P����ʂ��ēǂ܂��Ă��炢�܂����B<BR>���������s�r���̂������ł��B�ʔ��������ł��B���Ƃ������悩�����ł��A�����J���}�N��(��)
+【幽霊屋敷のお姉ちゃん】<BR><BR>うーん、既得な吸血鬼ですな。(汗)いや珍しいと言うべきなのか。<BR>しかし最後のアレは……ヤバイッス。(滝汗<BR>メタモルヴァンパイア１から通して読ませてもらいました。<BR>こういうＴＳものもいいです。面白かったです。あとかっこよかったです、白いカルマ君が(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/10 06:01:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/10 06:01:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020978071jfmixry&id2=1017832344qlgse&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020978071jfmixry_id2_1017832344qlgse_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>���΂炵�����x���c�Q
+すばらしい、実にすばらしい<BR>すばらしいレベル…２
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/10 06:05:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/10 06:05:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020978300gyxea&id2=1017832344qlgse&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020978300gyxea_id2_1017832344qlgse_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵���i�H��j<BR>���΂炵�����x���c�R
+すばらしい、実にすばらしい（幽霊）<BR>すばらしいレベル…３
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��-�c</strong>  <i>2002/05/25 17:13:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヴ-ツ</strong>  <i>2002/05/25 17:13:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022314394pwamtv&id2=1017832344qlgse&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022314394pwamtv_id2_1017832344qlgse_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�H�쉮�~�̂��o�����z<BR>�ʔ�����@����
+【幽霊屋敷のお姉ちゃん】<BR>面白いよ　これ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����^��</strong>  <i>2002/11/01 17:50:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>中村真介</strong>  <i>2002/11/01 17:50:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1036140632ttphhw&id2=1017832344qlgse&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1036140632ttphhw_id2_1017832344qlgse_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�H�쉮�~�̂��o�����z
+【幽霊屋敷のお姉ちゃん】
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1017832344qlgse">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

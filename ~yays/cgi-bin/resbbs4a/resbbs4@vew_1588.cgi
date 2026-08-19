@@ -1,85 +1,85 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�]�̐���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:脳の性別>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1588>
 <input type=hidden name=ress value=1588>
-<input type=submit value=�]�̐��ʂ֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=脳の性別へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1588>
-<font color=#6A5ACD>�]�̐���</font></a>
+<font color=#6A5ACD>脳の性別</font></a>
 <font color=#303030>
 DDT
- ����</font>
- <font size=2>2002�N11��17��(��) 9��56��</font>
-<a href="resbbs4.cgi?vew=1588">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2002年11月17日(日) 9時56分</font>
+<a href="resbbs4@vew_1588.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�͂��߂܂��āB<br>�ȑO�b��ɂȂ����{�u�b�𕷂��Ȃ��j�A�n�}��ǂ߂Ȃ����v<br>��ǂ�ł���ƁA���̒���<br>�@���j�]�E���]�e�X�g���@�Ƃ������̂�����A<br>�����̔]�̐��ʂ𔻒�ł��邻���ł��B�R�O�̎���ɉ񓚂��A<br>���̓_���Œj�]���A���]�����킩��܂��B<br>�R�O�O�_���_�ŁA�O�ɋ߂��قǒj�]�A�R�O�O�ɋ߂��قǏ��]�������ł��B<br>�u�j�]�v�ŃT�C�g�����ɂ�����΁A<br>���̃e�X�g���ł���T�C�g���������񂠂�܂��̂ŁA<br>���񎎂��Ă݂Ă��������B<br><br>���Ȃ݂ɁA�����͒j�ł����Q�W�O�ł����B<br>TSF�D���́A���������̂������֌W���Ă�̂ł͂Ȃ����Ǝv���A<br>�J�L�R�����Ă��������܂����B</font></ul>
+<ul><br><font size=3>はじめまして。<br>以前話題になった本「話を聞かない男、地図を読めない女」<br>を読んでいると、その中に<br>　●男脳・女脳テスト●　というものがあり、<br>自分の脳の性別を判定できるそうです。３０の質問に回答し、<br>その点数で男脳か、女脳かがわかります。<br>３００点満点で、０に近いほど男脳、３００に近いほど女脳だそうです。<br>「男脳」でサイト検索にかければ、<br>このテストができるサイトがたくさんありますので、<br>是非試してみてください。<br><br>ちなみに、自分は男ですが２８０でした。<br>TSF好きは、こういうのも多少関係してるのではないかと思い、<br>カキコさせていただきました。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1593>
-<font color=#6A5ACD>RE:�]�̐���</font></a>
+<font color=#6A5ACD>RE:脳の性別</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N11��17��(��) 23��41��</font>
-<a href="resbbs4.cgi?vew=1593">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>GOTT��ES�����o�[</b>�z</font>
-<ul><font size=3>�u�b�𕷂��Ȃ��j�A�n�}��ǂ߂Ȃ����v�ɂ��ẮA���ꂱ���]�ᔻ����ƒ����Ȃ邵�A�T�C�g��|���炸�ꂿ�Ⴄ��ł�߂Ƃ��܂��B<br>�ł��A�j�]�E���]�e�X�g���Ă̂́A�P���ɖʔ����ł���ˁB�ꎞ���[��o���G�e�B�[�̃R�[�i�[�Ȃ񂩂ł悭���������e�X�g����Ă܂����B<br><br>���̍D�݂��ƁA�o���o���̒j�]�̃L�����N�^�[���O���������^���ȏ��̎q�ɂȂ��Ă��܂��悤�Ȃ̂��D���ł��ˁ[�B<br>�킵�̉������X�|�[�c�J�[�����Ƃ΂��Ēn�}���΂�΂�ǂ݂܂���Ƃ��B<br>����Ȃ񂪍D���B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2002年11月17日(日) 23時41分</font>
+<a href="resbbs4@vew_1593.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>GOTTのESメンバー</b>】</font>
+<ul><font size=3>「話を聞かない男、地図を読めない女」については、あれこれ批評批判すると長くなるし、サイト主旨からずれちゃうんでやめときます。<br>でも、男脳・女脳テストってのは、単純に面白いですよね。一時期深夜バラエティーのコーナーなんかでよくこういうテストやってました。<br><br>私の好みだと、バリバリの男脳のキャラクターが外見だけ清楚可憐な女の子になってしまうようなのが好きですねー。<br>麗しの乙女がスポーツカーかっとばして地図をばんばん読みまくるとか。<br>そんなんが好き。</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

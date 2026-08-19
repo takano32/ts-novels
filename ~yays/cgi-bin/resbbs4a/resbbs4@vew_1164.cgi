@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/ target=_top>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../index.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���߂܂��āI�I����ւ��l�^�D���ł�>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:初めまして！！入れ替わりネタ好きです>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1162>
 <input type=hidden name=ress value=1164>
-<input type=submit value=���߂܂��āI�I����ւ��l�^�D���ł��֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=初めまして！！入れ替わりネタ好きですへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1164>
-<font color=#6A5ACD>RE:���߂܂��āI�I����ւ��l�^�D���ł�</font></a>
+<font color=#6A5ACD>RE:初めまして！！入れ替わりネタ好きです</font></a>
 <font color=#303030>
-�����ɂ��
- ����</font>
- <font size=2>2001�N6��22��(��) 4��57��</font>
-<a href="resbbs4.cgi?vew=1164">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b></b>�z</font>
+ちきにゃん
+ さん</font>
+ <font size=2>2001年6月22日(金) 4時57分</font>
+<a href="resbbs4@vew_1164.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�͂��߂܂��Ă����������ʂ��񏗓��m�������Ɯ߈˂���D���Ȃ����ɂ���<br>�����܂��A��낵��<br>���l�I�ɂ́A�]����΂����Ȃ��V�k�̖������A�Ⴍ���������܁i�܂��͉����j�Ɓ�����ւ��b�E�E�E�Ȃ񂩂��������炢���ȁ[�Ǝv���Ă��܂��B<br>�������̘b�͂������炢���ȁ[�Ǝv���Ă��܂��A���͖{��Ŗ{���ɐ\����Ȃ��̂ł���<br>�N�������Ă���Ȃł����ˁB<br>�������悤�Șb�Ȃ��ł����ˁH<br>���̒m���Ă�͈͂ł͉����ł͂Ȃ��ł����u���[�h�X����L�v�ɖ����J�[���������<br>�Y������̂ł͂Ȃ��ł��傤���H<br>�ݒ�͖����J�[���͎���̍����T�[�N���b�g�ɕ������߂����g�ɕt�����҂̐g�̂�<br>�x�z���邱�Ƃ��ł���Ƃ������̂ŏ����̂P���ł͑�n��_�̎i�Ճ��C���A�i�P�U�΂̖��ł��j��<br>�g�̂��x�z���Ă��܂��B<br>�ケ��͐ݒ肾���ł�������e�[�u���g�[�N�Q�[���̃��[���ɂ���A�C�e����<br>�u�������̎�ցv�Ƃ������̂�����܂��A���e�͎�ւ�g�ɂ��Ă���҂����񂾂Ƃ�<br>���̎҂̍��͎�ւɕ��󂳂��A�����Ă��̎��Ɏ�ւ�g�ɂ����҂͎�ւ�<br>���󂳂�A�O�̎�ւ̎�����̍��͎��Ɏ�ւ�g�ɂ����҂̐g�̂ɓ��肻�̐g��<br>����ɓ���邱�Ƃ��ł���A�Ƃ����ݒ�ł��B<br>���̐ݒ�������ΘV�k�̖����ƎႭ�����������Ɠ���ւ��b�����邩���B<br><br></font></ul>
+<ul><br><font size=3>はじめましてうさだ命仮面さん女同士入れ代わりと憑依が大好きなちきにゃんと<br>いいます、よろしく<br>＞個人的には、余命幾ばくもない老婆の魔女が、若く美しい王妃（または王女）と＞入れ替わる話・・・なんかがあったらいいなーと思っています。<br>私もその話はあったらいいなーと思っています、他力本願で本当に申し訳ないのですが<br>誰か書いてくれなですかね。<br>＞似たような話ないですかね？<br>私の知ってる範囲では王女ではないですが「ロードス島戦記」に魔女カーラがそれに<br>該当するのではないでしょうか？<br>設定は魔女カーラは自らの魂をサークレットに封じこめそれを身に付けた者の身体を<br>支配することができるというもので小説の１巻では大地母神の司祭レイリア（１６歳の娘です）の<br>身体を支配しています。<br>後これは設定だけですがあるテーブルトークゲームのルールにあるアイテムで<br>「魂封じの首輪」というものがあります、内容は首輪を身につけている者が死んだとき<br>その者の魂は首輪に封印される、そしてその次に首輪を身につけた者は首輪に<br>封印され、前の首輪の持ち主の魂は次に首輪を身につけた者の身体に入りその身体<br>を手に入れることができる、という設定です。<br>この設定をつかえば老婆の魔女と若く美しい王女と入れ替わる話が作れるかも。<br><br></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

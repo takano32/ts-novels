@@ -1,13 +1,13 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>•¶ŒÉì•iŠ´‘z(2001.10.1-)/Š´‘zƒ{[ƒh</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)/æ„Ÿæƒ³ãƒœãƒ¼ãƒ‰</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <font size="+2" color="#008080">NOTE READ</font>
 <hr>
-<p>ƒtƒ@ƒCƒ‹XV‚Ì‚½‚ßŽw’è‚Ìƒm[ƒg‚ªÁ‚¦‚½‚©AŒÄ‚Ño‚µ‚ÉŽ¸”s‚µ‚Ü‚µ‚½B</p><p>‚¨Žè”‚Å‚·‚ª‚¢‚Á‚½‚ñ<a href="noteky.cgi?c=noteidx&f=0&ff=on&ca=r">‚±‚¿‚ç</a>‚Ü‚Å–ß‚Á‚Ä‚­‚¾‚³‚¢B</p>
-[<a href="noteky.cgi?c=noteidx&f=0&pg=&ff=on">•¶ŒÉì•iŠ´‘z(2001.10.1-)</a>]
- [<a href="noteky.cgi?&ff=on">ƒm[ƒgˆê——‚Ö</a>]
+<p>ãƒ•ã‚¡ã‚¤ãƒ«æ›´æ–°ã®ãŸã‚æŒ‡å®šã®ãƒŽãƒ¼ãƒˆãŒæ¶ˆãˆãŸã‹ã€å‘¼ã³å‡ºã—ã«å¤±æ•—ã—ã¾ã—ãŸã€‚</p><p>ãŠæ‰‹æ•°ã§ã™ãŒã„ã£ãŸã‚“<a href="noteky@c_noteidx_f_0_ff_on_ca_r.cgi">ã“ã¡ã‚‰</a>ã¾ã§æˆ»ã£ã¦ãã ã•ã„ã€‚</p>
+[<a href="noteky@c_noteidx_f_0_pg__ff_on.cgi">æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)</a>]
+ [<a href="noteky@_ff_on.cgi">ãƒŽãƒ¼ãƒˆä¸€è¦§ã¸</a>]
 </p>
 </body></html>

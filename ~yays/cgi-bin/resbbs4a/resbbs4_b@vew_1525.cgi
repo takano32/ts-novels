@@ -1,118 +1,118 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���[��A�ǂ����낤�H>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:うーん、どうだろう？>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1525>
 <input type=hidden name=ress value=1525>
-<input type=submit value=���[��A�ǂ����낤�H�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=うーん、どうだろう？へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1525>
-<font color=#6A5ACD>���[��A�ǂ����낤�H</font></a>
+<font color=#6A5ACD>うーん、どうだろう？</font></a>
 <font color=#303030>
-��������������
- ����</font>
- <font size=2>2002�N10��2��(��) 23��18��</font>
-<a href="resbbs4_b.cgi?vew=1525">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>���ς�炸���[�h�E�N���T�C�g�Ƀ��u��</b>�z</font>
+ｄｅａｄｅｎｄ
+ さん</font>
+ <font size=2>2002年10月2日(水) 23時18分</font>
+<a href="resbbs4_b@vew_1525.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>相変わらずロード・クロサイトにラブ♪</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�܂��Y���삩����Ȃ��̂ł�����Ɂc<br>�P�O���R�����e���r�����n�Łu�m�`�q�t�s�n�|�i���g�|�v���n�܂�܂��ˁB<br>�����̕����q����B�𗸂ɂ����l���l�^�Ɏg��ꂽ�h�����낯�̏p�h�͓o�ꂷ��̂��H������Ɗy���݂ł��B<br><br>�g�b�v���Ȃ��������ł��ˁB�������A�������܍ΔN��������ƍl����ƃu���[�ɂȂ�܂��i���j</font></ul>
+<ul><br><font size=3>まだ該当作か解らないのでこちらに…<br>１０月３日よりテレビ東京系で「ＮＡＲＵＴＯ－ナルト－」が始まりますね。<br>多くの腐女子さん達を虜にし同人誌ネタに使われた”おいろけの術”は登場するのか？ちょっと楽しみです。<br><br>トップがなつかしすぎですね。しかし、自分が五歳年を取ったと考えるとブルーになります（爆）</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1526>
-<font color=#6A5ACD>RE:���[��A�ǂ����낤�H</font></a>
+<font color=#6A5ACD>RE:うーん、どうだろう？</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N10��2��(��) 23��33��</font>
-<a href="resbbs4_b.cgi?vew=1526">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ǂ����ł��B<br>���Սő�̌����Ƃ�������A�����낯�̏p���O�����肵�Ȃ��Ƃ͎v����ł����ǂ˂��B<br>�����t�@���u�b�N�H�@�ł��A�����낯�̏p���W�݂����ȃy�[�W������݂��������B<br>���āA�i���g�̕��f�������炩�I�@�Ƃ̃��R�[�_�[�A�Z�b�g���ĂȂ���B�����͉ƂɋA��Ȃ��Ɓc�c<br><br>�g�b�v�̔z�F�悭����Ȃł���Ă�����ł��B�C���[�W�Ƃ��Ắu�̂̃p�\�R���̃��j�^�[���v�Ȃ�ł����B<br>���Ȃ݂ɍ��̗΂̔w�i�����܂ɃI�t�ŉ�����l�Ƀc�b�R�~������܂����A�O���[���͌l�I�ɗ���������ōD���ł��B�O���[���n�ɔ��͐���݂����ŖڂɗD������ł��I</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2002年10月2日(水) 23時33分</font>
+<a href="resbbs4_b@vew_1526.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>どうもです。<br>序盤最大の見所ともいえる、おいろけの術を外したりしないとは思うんですけどねえ。<br>公式ファンブック？　でも、おいろけの術特集みたいなページがあるみたいだし。<br>って、ナルトの放映明日からか！　家のレコーダー、セットしてないや。明日は家に帰らないと……<br><br>トップの配色よくこんなでやってたもんです。イメージとしては「昔のパソコンのモニター風」なんですが。<br>ちなみに今の緑の背景もたまにオフで会った人にツッコミ入れられますが、グリーンは個人的に落ち着くんで好きです。グリーン地に白は雀卓みたいで目に優しいんです！</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1527>
-<font color=#6A5ACD>RE:���[��A�ǂ����낤�H</font></a>
+<font color=#6A5ACD>RE:うーん、どうだろう？</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N10��2��(��) 23��50��</font>
-<a href="resbbs4_b.cgi?vew=1527">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����A�������B<br>���f���ł̏������݂̂��ƂȂ�ł����A����ς肠��܂茵�����ǋy�����͂�낵���Ȃ��Ǝv����ł���B<br>�������͂̊Ǘ���Gori����ɂ��肢���Ă�킯�ŁA����Ӗ��������ł̌x�@����Gori���񂾂��������Ă���̂ł�����B<br>������x�J�I�e�B�b�N�Ȃ̂͂��̃T�C�g�̓`�����Ǝv���đ�ڂɌ��Ă��������ȁB<br>�i�ߋ��̏������݂�����Ă��܂��Ƃ������ł����A�f���ɏo���L�p�ȏ��͊Ǘ��l���񂪕ʃy�[�W�Ƀ��X�g���Ă��Ă���Ă܂����j<br><br>���i���܂菑�����܂Ȃ��f���ɃJ�L�R������Ă̂͌��\�A�E�C�����邱�Ƃ��Ǝv����ŁA���������E�C���o���ď�������ł��ꂽ�l���u�����Ȃ�{��ꂽ�I�v�Ɗ����ĈӋC��������������炩�킢�����ł���B����ς�C�y�ɏ������߂镵�͋C�ɂ������ł��B<br>�ǂ����Ă��ŉ߂ł��Ȃ����[���ᔽ���������Ƃ��́A�Ǘ��l���񂩎��̂ق��Ƀ��[�����������B�Ώ����K�v�ȂƂ��́A����Ȃ�̑Ώ������܂�����B<br><br>���i��������܂肿���Ə������݂̌�ʐ������ĂȂ��̂�������ł����i���Ԃ񂻂�ŗ]�v��deadend����������������肵�Ă����񂾂Ǝv���܂����j�A����͂���Ƃ��āA����͂ł��邾�����[��Ƃ����C�y�ȕ��͋C����Ɍ䋦�͂����肢������Ȃ񂩂��ėǂ��ł��傤���H</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2002年10月2日(水) 23時50分</font>
+<a href="resbbs4_b@vew_1527.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ああ、そうだ。<br>情報掲示板での書き込みのことなんですが、やっぱりあんまり厳しい追及口調はよろしくないと思うんですよ。<br>あそこはの管理はGoriさんにお願いしてるわけで、ある意味あそこでの警察権はGoriさんだけが持ってるものですから。<br>ある程度カオティックなのはこのサイトの伝統だと思って大目に見てくださいな。<br>（過去の書き込みが流れてしまうという件ですが、掲示板に出た有用な情報は管理人さんが別ページにリストしてってくれてますし）<br><br>普段あまり書き込まない掲示板にカキコするってのは結構、勇気がいることだと思うんで、そういう勇気を出して書き込んでくれた人が「いきなり怒られた！」と感じて意気消沈しちゃったらかわいそうですよ。やっぱり気軽に書き込める雰囲気にしたいです。<br>どうしても看過できないルール違反があったときは、管理人さんか私のほうにメールください。対処が必要なときは、それなりの対処をしますから。<br><br>普段私があんまりちゃんと書き込みの交通整理してないのが悪いんですが（たぶんそれで余計にdeadendさんもそこを肩代わりしてくたんだと思いますが）、それはそれとして、今後はできるだけゆるーりとした気楽な雰囲気造りに御協力をお願いしたりなんかして良いでしょうか？</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1528>
-<font color=#6A5ACD>RE:���[��A�ǂ����낤�H</font></a>
+<font color=#6A5ACD>RE:うーん、どうだろう？</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N10��2��(��) 23��55��</font>
-<a href="resbbs4_b.cgi?vew=1528">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ŁA����ɕ֏悵�Ď��M�Ȃ�ł����B<br>�u�v�J�b�v����I�@�~�J�G���v��Ղ�v�̃y�[�W�p�ɁA�ȑOdeadend���񂪂��G�`���{�[�h�ɕ`���ꂽ�V�Y�N�̃C���X�g��w�i�摜�Ɏg���Ă����ł��傤���H<br>�����O�̃o�[�W�����̂悤�ɋP�x�𗎂Ƃ����o�[�W��������������A����𒸑Ղł���Ƒ�ςɁE���Ɋ������̂ł����B<br>��낵�����������������܂��B<br>�i���i�M�����Ȃ���ŁA����ȏꏊ�ł̕֏�̎��M�ŃX�C�}�Z���j</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2002年10月2日(水) 23時55分</font>
+<a href="resbbs4_b@vew_1528.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>で、さらに便乗して私信なんですが。<br>「Ｗカップだよ！　ミカエル計画祭り」のページ用に、以前deadendさんがお絵描きボードに描かれたシズクのイラストを背景画像に使っていいでしょうか？<br>もし前のバージョンのように輝度を落としたバージョンがあったら、それを頂戴できると大変に・非常に嬉しいのですが。<br>よろしくご検討くださいませ。<br>（普段筆無精なもんで、こんな場所での便乗の私信でスイマセン）</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1529>
-<font color=#6A5ACD>RE:���[��A�ǂ����낤�H</font></a>
+<font color=#6A5ACD>RE:うーん、どうだろう？</font></a>
 <font color=#303030>
-��������������
- ����</font>
- <font size=2>2002�N10��3��(��) 23��14��</font>
-<a href="resbbs4_b.cgi?vew=1529">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�ŋ߂ł̓L���b�g�������P�Ԃ��ȁH���w���Ƃ����̂����X�����ėǂ����</b>�z</font>
-<ul><font size=3>�����������Ăǂ��������܂���ł����B<br><br>����Ă����X���ɂ����̕����y�[�W�ڂɂȂ��ă��X���t�����肷����̂ł�����A<br>�]�v�ɑ��������悤�Ɋ����Ă���������ł��܂��܂����B<br>�W���j�[�YJr�̃J�L�R�~�̌�����O�҂������ꍇ�J�L�R�~�����ꂽ�����܂ߔƍߗ\���R�ƂƂ�ꌓ�˂Ȃ��̂ł�H<br>�Ǝv���B������������ł�����������ƌ��t���炸�ł����B<br>���i�͒��ق��Ă���^�C�v�Ȃ̂ł����c�f�����������E���Ƃ����Đ\����Ȃ������ł��B<br><br>�~�J�G���v��A�ŋߒN���������܂Ȃ��̂ł��������蔃���Y�ꂻ���ɂȂ�̂��J��Ԃ��Ă��܂��B<br>�h�g�V�[�������C���̂P�W�֖���Ȃ̂�DISTANCE�搶���߂�A��P�R�b�ł͎��ƃc���V�̃f�[�g�V�[���ɖG���܂����B�h<br>�ƁA�A�_���g����ƎE���̃R�����g���̌f���ɏ������ޗE�C���Ȃ��̂ł����ɍŋ߂̊��z��u�����肵�Ƃ��܂��B<br>�G�̕��ł������j�̖邮�炢�ɃA�b�v�ł���̂ł͂Ȃ����Ǝv���܂��̂ł�낵���B</font></ul>
+ｄｅａｄｅｎｄ
+ さん</font>
+ <font size=2>2002年10月3日(木) 23時14分</font>
+<a href="resbbs4_b@vew_1529.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>最近ではキャットリンが１番かな？中学生というのが初々しくて良いよね</b>】</font>
+<ul><font size=3>お騒がせしてどうもすいませんでした。<br><br>流れていくスレにも下の方や二ページ目になってレスが付いたりするものですから、<br>余計に早く流れるように感じてつい書き込んでしまいました。<br>ジャニーズJrのカキコミの件も第三者が見た場合カキコミをされた方を含め犯罪予備軍ととられ兼ねないのでわ？<br>と思い釘を差したつもりでしたがちょっと言葉足らずでした。<br>普段は沈黙しているタイプなのですが…掲示板をすこし殺伐とさせて申し訳なかったです。<br><br>ミカエル計画、最近誰も書き込まないのでついうっかり買い忘れそうになるのを繰り返しています。<br>”Ｈシーンがメインの１８禁漫画なのにDISTANCE先生ごめん、第１３話では雫とツヨシのデートシーンに萌えました。”<br>と、アダルト漫画家殺しのコメントあの掲示板に書き込む勇気がないのでここに最近の感想を置いたりしときます。<br>絵の方ですが日曜の夜ぐらいにアップできるのではないかと思いますのでよろしく。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1530>
-<font color=#6A5ACD>RE:���[��A�ǂ����낤�H</font></a>
+<font color=#6A5ACD>RE:うーん、どうだろう？</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2002�N10��3��(��) 23��54��</font>
-<a href="resbbs4_b.cgi?vew=1530">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�M���i�U��������łȂ��Ȃ����X�����ł���</b>�z</font>
-<ul><font size=3>�ǂ����ł��Adeadend����B<br>���񂴂�f������u�����肵�Ă����������܂�̂����Ȃ��Ƃ͌����Ȃ���ł����ǂˁB<br>�ł�����ς蓯�����p�ғ��m���ƃJ�h�������₷���Ǝv���̂ŁA���㓯�l�̂��Ƃ���������܂��͏��f���̊Ǘ��l���񂩎��Ƀ��[���Ō䑊�k���������B<br>�����̏��f�����Ƃ���j�͂����܂Łu�C�y�ɏ������߂邱�Ɓv�Ȃ�ł��B<br>�d�����⑽���̒E���ɂ͊��e�ɂȂ邱�ƂŁA�����̏������݂��l������B���ꂪ���ʓI�ɂ͋M�d�ȏ��̊l���ɂ��Ȃ��邾�낤�Ƃ����헪�ł��B<br>�K�������������ď��̏��x���グ�悤�Ƃ�������ƁA��̐헪����͊O��Ă��܂����ƂɂȂ�Ǝv����ł���B<br>������ɂ���Adeadend���񂪂悩��Ǝv���ď������݂��Ă��ꂽ�̂͂悭�킩��܂�����A���܂�C�ɂ��Ȃ��ł��������B<br>����́A���f���Ń}�b�^���Ƃ����j���[�g�����ȕ��͋C���Ɍ䋦�͂����肢���܂��B<br>�ȏ�A���̘b��A�I���B<br><br>�~�J�G���v��͔��ɗǍ�ł��ˁB<br>�ߌ��ȃG�������肾���疜�l�ɂ������߂���킯�ɂ͂����Ȃ��ł��傤���ǁA���Ƃ��Ă͕]�������ł��B<br>�����A�ڂ𐶂������L�����̕`�����݂��������o�Ă��܂�����ˁB</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2002年10月3日(木) 23時54分</font>
+<a href="resbbs4_b@vew_1530.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>ギルナザンもあれでなかなか初々しいですぞ</b>】</font>
+<ul><font size=3>どうもです、deadendさん。<br>さんざん掲示板を放置したりしてきた私があまり偉そうなことは言えないんですけどね。<br>でもやっぱり同じ利用者同士だとカドが立ちやすいと思うので、今後同様のことがあったらまずは情報掲示板の管理人さんか私にメールで御相談ください。<br>うちの情報掲示板がとる方針はあくまで「気軽に書き込めること」なんです。<br>重複情報や多少の脱線には寛容になることで、多数の書き込みを獲得する。それが結果的には貴重な情報の獲得にもつながるだろうという戦略です。<br>規律を厳しくして情報の純度を上げようとしすぎると、上の戦略からは外れてしまうことになると思うんですよ。<br>いずれにせよ、deadendさんがよかれと思って書き込みしてくれたのはよくわかりますから、あまり気にしないでください。<br>今後は、情報掲示板でマッタリとしたニュートラルな雰囲気作りに御協力をお願いします。<br>以上、この話題、終了。<br><br>ミカエル計画は非常に良作ですね。<br>過激なエロが売りだから万人におすすめするわけにはいかないでしょうけど、私としては評価高いです。<br>長期連載を生かしたキャラの描き込みが見応え出てきましたよね。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -120,7 +120,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

@@ -1,265 +1,265 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1015767350sywtjkr&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1015767350sywtjkr_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�`�y�x�����i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">ＡＺＹさん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/03/10 22:35:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/03/10 22:35:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015767350sywtjkr&id2=1015767350sywtjkr&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015767350sywtjkr_id2_1015767350sywtjkr_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������c
+準備中…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/12200339/dragoon01.html" target="_blank">�g�̑��b���R���E��P�́���Q�͂�����ɂ͂������N���b�N�B</a></strong>  <i>2002/03/12 20:08:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/12200339/dragoon01.html" target="_blank">紅の装甲竜騎兵・第１章＆第２章を見るにはここをクリック。</a></strong>  <i>2002/03/12 20:08:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015931332djmlg&id2=1015767350sywtjkr&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015931332djmlg_id2_1015767350sywtjkr_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�w�ނƔޏ��Ɛ����Ǝ��x�̂`�y�x����̐V��́A�ِ��E�ɖ������񂾏��N�̕���B�ʂ����Ĕނ̉^���́c�c�H
+【推薦文】『彼と彼女と聖剣と私』のＡＺＹさんの新作は、異世界に迷い込んだ少年の物語。果たして彼の運命は……？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/13 06:48:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/13 06:48:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015969719vnpgjs&id2=1015767350sywtjkr&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015969719vnpgjs_id2_1015767350sywtjkr_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A�t�@���^�W�[�I<BR>�������A���ŏ��̎q�ɂ��ꂿ������̂��ȁH<BR>�����N���E�E�E���̓}������񂩁E�E�E�A�ʂ����Č��̐��E�ɖ߂��̂ł��傤���B�����āA���ِ̈��E�łǂ�ȕ��ꂪ�n�܂�̂��A���Ɋy���݂ł��ˁB
+読んだバイ♪<BR>おお、ファンタジー！<BR>しかし、何で女の子にされちゃったのかな？<BR>健太クン・・・今はマヤちゃんか・・・、果たして元の世界に戻れるのでしょうか。そして、この異世界でどんな物語が始まるのか、非常に楽しみですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Milkyway-Vega/1819/" target="_blank">�`�y�x</a></strong>  <i>2002/03/14 12:29:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Milkyway-Vega/1819/" target="_blank">ＡＺＹ</a></strong>  <i>2002/03/14 12:29:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016076561ltcdomc&id2=1015767350sywtjkr&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016076561ltcdomc_id2_1015767350sywtjkr_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z����������ł���Ă��肪�Ƃ��������܂��B<BR><BR>���������A���ŏ��̎q�ɂ��ꂿ������̂��ȁH<BR>���̂�����̂��Ƃ͎��͂Ŗ��炩�ɂȂ�܂��B<BR>������ҁI�Ƃ܂Ō������M�͂Ȃ��ł����A<BR>�����悯��Ύ��͂ɂ��ڂ�ʂ��Ă���Ă��������B
+感想を書き込んでくれてありがとうございます。<BR><BR>＞しかし、何で女の子にされちゃったのかな？<BR>このあたりのことは次章で明らかになります。<BR>乞うご期待！とまで言う自信はないですが、<BR>もしよければ次章にも目を通してやってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">�ǂ�</a></strong>  <i>2002/03/14 23:14:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">どら</a></strong>  <i>2002/03/14 23:14:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016115282ypjwp&id2=1015767350sywtjkr&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016115282ypjwp_id2_1015767350sywtjkr_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂������i�O�ށO<BR>�󂪐��ł��B���Ɩ��@�ł��B<BR>�C�����ǂ������Ȑ��E���ł��B<BR>�������҂ł��B<BR>�҂Ă��ɂR�͂��ǂ�ł����Ⴂ�܂����B<BR><BR>���������đ咷�ҁH
+読みましたあ（＾∇＾<BR>空が青いです。竜と魔法です。<BR>気持ち良さそうな世界感です。<BR>続き期待です。<BR>待てずに３章も読んできちゃいました。<BR><BR>もしかして大長編？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Milkyway-Vega/1819/" target="_blank">�`�y�x</a></strong>  <i>2002/03/15 22:24:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Milkyway-Vega/1819/" target="_blank">ＡＺＹ</a></strong>  <i>2002/03/15 22:24:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016198677xjajwm&id2=1015767350sywtjkr&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016198677xjajwm_id2_1015767350sywtjkr_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ǂ炳��<BR>���z����������ł���Ă��肪�Ƃ��������܂��B<BR><BR>���������҂ł��B<BR>�����҂ɏ����ł���������悤�撣����<BR>�������������Ǝv���܂��B<BR><BR>�����������đ咷�ҁH<BR>�X�g�[���[�̐i�s�y�[�X�́A�����ɒx��Ă���܂��i�΁j�B<BR>�W�͂ł����߂�̂͂��������Ȃ̂͂����Ƃ��āi���j�A<BR>�Ȃ�Ƃ��P�O�͂��炢�ɂ܂Ƃ߂����Ƃ͎v���Ă���܂��B
+＞どらさん<BR>感想を書き込んでくれてありがとうございます。<BR><BR>＞続き期待です。<BR>ご期待に少しでも応えられるよう頑張って<BR>書き続けたいと思います。<BR><BR>＞もしかして大長編？<BR>ストーリーの進行ペースは、順調に遅れております（笑）。<BR>８章でおさめるのはもう無理なのはいいとして（汗）、<BR>なんとか１０章ぐらいにまとめたいとは思っております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/03/17 15:10:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/03/17 15:10:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016345437rparr&id2=1015767350sywtjkr&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016345437rparr_id2_1015767350sywtjkr_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�b�̓W�J�Ƃ��āu�ӊO�v���Ă̂���t�o�Ă������Ŋy���������Ċ����ł��ˁB���\�킭�킭����W�J�ł��������ł��B
+話の展開として「意外」ってのが一杯出てきそうで楽しそうって感じですね。結構わくわくする展開でいい感じです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/12200339/dragoon02.html" target="_blank">�g�̑��b���R���E��R�͂�ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/18 02:26:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/12200339/dragoon02.html" target="_blank">紅の装甲竜騎兵・第３章を読むにはここをクリック</a></strong>  <i>2002/03/18 02:26:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016385984lamgfp&id2=1015767350sywtjkr&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016385984lamgfp_id2_1015767350sywtjkr_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���������E�ƍ����鐢�E�̐ړ_�Ƃ́c�H�@�����ă}���͌��̐��E�ɖ߂��̂��H�@���[��A�������ƂĂ��C�ɂȂ�܂��ł��A�͂��B
+【推薦文】元いた世界と今いる世界の接点とは…？　そしてマヤは元の世界に戻れるのか？　うーん、続きがとても気になりますです、はい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/18 23:24:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/18 23:24:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016461464uvtxyc&id2=1015767350sywtjkr&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016461464uvtxyc_id2_1015767350sywtjkr_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�}���������񕜂��āA���悢��s���J�n�ł��ˁB<BR>�b�����t���ŏ����珗���t���Ȃ��Ǝv���A���̏u�ԁA���������΋�����ꂽ�̂������t�������ȂƎv���o���Ĉ�l�[�����Ă��������ł��i�΁j�B<BR>���āA���܂��܏o��������ɋC�ɓ���ꂽ�}�������B�ޏ��͗��R���ƂȂ��Ă��܂��̂ł��傤���B����Ƃ��E�E�E�H<BR>���[�~�A�����̐S���̕ω��i�H�j�̕`�ʂ��Ȃ��Ȃ��ǂ������ł��B<BR><BR>������y���݂ł��ˁB
+読んだバイ♪<BR>マヤちゃんも回復して、いよいよ行動開始ですね。<BR>話し言葉が最初から女言葉だなぁと思い、次の瞬間、そういえば教えられたのが女言葉だったなと思い出して一人納得していたｍｋです（笑）。<BR>さて、たまたま出会った竜に気に入られたマヤちゃん。彼女は竜騎兵となってしまうのでしょうか。それとも・・・？<BR>ルーミアちゃんの心境の変化（？）の描写もなかなか良かったです。<BR><BR>次回も楽しみですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">�ǂ�</a></strong>  <i>2002/03/20 00:50:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ex_dora@hotmail.com" target="_blank">どら</a></strong>  <i>2002/03/20 00:50:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016553002ofrwmam&id2=1015767350sywtjkr&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016553002ofrwmam_id2_1015767350sywtjkr_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������΁A���̃h���S���́y�S�����s+���z�H<BR>����Ƃ��y�O������+�㎈�łQ�����s�z�H
+そういえば、このドラゴンは【４足歩行+翼】？<BR>それとも【前肢が翼+後肢で２足歩行】？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/03/20 02:05:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/03/20 02:05:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016557536uujhwg&id2=1015767350sywtjkr&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016557536uujhwg_id2_1015767350sywtjkr_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�t�@���^�W�[���̂��n�荞�܂�Ă���A�Ȃ񂩕����΂�΂�Ȋ����ł����c����������t�������Ă����ߒ��������ɕ`����Ă��āA���̃V�[���͍D���ł����B�O�b�́A����͒����ł�����(�΁j<BR>���������ł��B���������΂��Ă��������ȁB
+ファンタジー自体も創り込まれている、なんか伏線ばりばりな感じですが…それよりも言葉を教えていく過程が克明に描かれていて、そのシーンは好きでした。三話は、これは直球でしたね(笑）<BR>いい感じです。次回もがんばってくださいな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�`�y�x</strong>  <i>2002/03/20 03:22:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＡＺＹ</strong>  <i>2002/03/20 03:22:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016562133lmmlp&id2=1015767350sywtjkr&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016562133lmmlp_id2_1015767350sywtjkr_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z����������ł������肠�肪�Ƃ��������܂��B<BR><BR>���݂�񂳂�<BR><BR>���b�̓W�J�Ƃ��āu�ӊO�v���Ă̂���t�o�Ă�������<BR>�����ł͂�����ƃI�[�\�h�b�N�X�����邩�ȂƎv�������炢�Ȃ�ł����A<BR>���������Ă���������Ƃ��肪�����ł��B<BR>�킩��ɂ����Ȃ�Ȃ��悤�ɒ��ӂ��ď����Ă䂫�����Ǝv���܂��B<BR><BR>���_�����z�̂����W�S�Q�U����<BR><BR>���t�������邭����́A�͂����ď����������Ȃ�ł����A<BR>�v�����悤�Ȍ��ʂ����ꂽ���ǂ����E�E�E�B<BR>�u�����ł͒j���t�𒝂��Ă�����肪<BR>����ɂ͏����t�ɕ������Ă���v�Ƃ���<BR>�V�`���G�[�V�������y����ł���������΂Ǝv���܂��B<BR><BR>���ǂ炳��<BR><BR>�ݒ�Ƃ��Ă͈ꉞ��҂ł��B<BR><BR>�t�@���^�W�[�ŗ��Ƃ����Ɛ_�ɋ߂����݂�������<BR>�l�Ԃ̂悤�Ɍ��t�𒝂�����A����ɂ����<BR>���낢�날��悤�ł����A���̕���̗���<BR>�ǂ�ł���������΂킩��Ƃ���A<BR>���܂茫������܂���i�΁j�B<BR>���ꂾ�����c����l�̈ӎu�������S�ʂ�<BR>�o��Ƃ������Ƃł��B<BR><BR>���m�C��(�d�g�d���j����<BR><BR>�����t�������Ă����ߒ������� �ɕ`����Ă��āA���̃V�[���͍D���ł����B<BR>���������Ă���������Ί������ł��B<BR>�͂����ď����������Ȃ̂ŁE�E�E�B<BR><BR>���O�b�́A����͒����ł�����(�΁j<BR>�T�[�r�X�̂���ł��i�΁j�B<BR>�ł�������ƒ���������������܂���i���j�B<BR>�i���A�ŃX�g�[���[�̐i�s���x��Ă��܂����E�E�E�j
+感想を書き込んでくださりありがとうございます。<BR><BR>＞みゅんさん<BR><BR>＞話の展開として「意外」ってのが一杯出てきそうで<BR>自分ではちょっとオーソドックスすぎるかなと思ったぐらいなんですが、<BR>そう言っていただけるとありがたいです。<BR>わかりにくくならないように注意して書いてゆきたいと思います。<BR><BR>＞神速感想のｍｋ８４２６さん<BR><BR>言葉を教えるくだりは、力を入れて書いた部分なんですが、<BR>思ったような効果が現れたかどうか・・・。<BR>「自分では男言葉を喋っているつもりが<BR>相手には女言葉に聞こえている」という<BR>シチュエーションを楽しんでいただければと思います。<BR><BR>＞どらさん<BR><BR>設定としては一応後者です。<BR><BR>ファンタジーで竜というと神に近い存在だったり<BR>人間のように言葉を喋ったり、物語によって<BR>いろいろあるようですが、この物語の竜は<BR>読んでいただければわかるとおり、<BR>あまり賢くありません（笑）。<BR>それだけ操縦する人の意志が強く全面に<BR>出るということです。<BR><BR>＞ノイン(電波妖精）さん<BR><BR>＞言葉を教えていく過程が克明 に描かれていて、そのシーンは好きでした。<BR>そう言っていただければ嬉しいです。<BR>力を入れて書いた部分なので・・・。<BR><BR>＞三話は、これは直球でしたね(笑）<BR>サービスのつもりです（笑）。<BR>でもちょっと長すぎたかもしれません（汗）。<BR>（お陰でストーリーの進行が遅れてしまった・・・）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/03/21 01:53:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/03/21 01:53:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016643194jokdan&id2=1015767350sywtjkr&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016643194jokdan_id2_1015767350sywtjkr_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m���ɂ��܂�b����т�����ƁA�ǎ҂͂킩��Ȃ��ł���ˁB�f�B�e�[�����Ă��������ɐ��܂��Ȃ��Ƒz���ł��Ă��Ȃ��ł����o�b�N�O���E���h�Ȃ񂩐�������Ă�����Ȃ��ł����E�E���I�ɂ��傤�ǂ悩�������Ă��Ƃ�������܂���ł��B
+確かにあまり話が飛びすぎると、読者はわからないですよね。ディテールってあちこちに潜ませないと想像できてこないですしバックグラウンドなんか説明されても判らないですし・・私的にちょうどよかったってことかもしれませんです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/12200339/dragoon03.html" target="_blank">�g�̑��b���R���E��S�͂�ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/25 22:11:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/12200339/dragoon03.html" target="_blank">紅の装甲竜騎兵・第４章を読むにはここをクリック</a></strong>  <i>2002/03/25 22:11:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017061865wwwkoi&id2=1015767350sywtjkr&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017061865wwwkoi_id2_1015767350sywtjkr_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z��������S�͂ɓ˓��I�@�}���͂�͂����������̂��������܂��B
+【推薦文】早くも第４章に突入！　マヤはやはり大空をかけるのが似合います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/25 23:06:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/25 23:06:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017065161wkesyd&id2=1015767350sywtjkr&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017065161wkesyd_id2_1015767350sywtjkr_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����<BR><BR>����̓}������񂪂�����Ƃ�΂����ۂ������ł���<BR>�W���[�g�����͂����l���ۂ��Ă悩�����ł��B<BR><BR>�����āA�Ȃɂ��Ƀ}�����������̐��E�ɗ������R��<BR>����������������A�C�C�����ł��B<BR><BR>�����悢�����ł��˂��c����ς藳�R���ɂȂ�̂��ȁB<BR>�d�g�d���͗��̃s���Ɉ�[����������ł���<BR>
+読みました♪<BR><BR>今回はマヤちゃんがちょっとやばいっぽかったですが<BR>ジュートが実はいい人っぽくてよかったです。<BR><BR>そして、なにげにマヤがこっちの世界に来た理由も<BR>すこしだけ分かり、イイ感じです。<BR><BR>竜がよい感じですねぇ…やっぱり竜騎兵になるのかな。<BR>電波妖精は竜のピムに一票を捧げたいです♪<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/26 10:00:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/26 10:00:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017104442aakaswc&id2=1015767350sywtjkr&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017104442aakaswc_id2_1015767350sywtjkr_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���������I<BR>�Ȃ񂾂��}������񂪗��R���ɂȂ肻���ȗ\���i�΁j�B<BR>�s���Ƃ����R���r�̂悤�ł��ˁB�������A���̋�J���Ȃ�������Ȃ������Ƃ����̂́A���͂��Ȃ肷�������ƂȂ̂ł́H<BR>����ɁA�O��ِ̈��E�����̗��R����������ƌ����Ă����悤�ł����A�Ȃ��Ȃ��ʔ����Ȃ��Ă��܂����B<BR>�W���[�g�N�A���񂽌y���Ȃ񂾂��^�ʖڂȂ񂾂���������i�΁j�B�ł��A�{���͂����l�����Ȃ̂ł�����ƈ��S�B<BR>�ނ͂܂��o�ꂵ�����ł��ˁB<BR>�����܂����񂪊y���݂ł��B<BR>
+読んだバイ♪<BR>おおおお！<BR>なんだかマヤちゃんが竜騎兵になりそうな予感（笑）。<BR>ピムといいコンビのようですね。しかし、何の苦労もなく竜を手なずけたというのは、実はかなりすごいことなのでは？<BR>それに、前回の異世界召喚の理由もうっすらと見えてきたようですし、なかなか面白くなってきました。<BR>ジュート君、あんた軽薄なんだか真面目なんだか分からんよ（笑）。でも、本質はいい人そうなのでちょっと安心。<BR>彼はまた登場しそうですね。<BR>こりゃまた次回が楽しみです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�`�y�x</strong>  <i>2002/03/31 00:39:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＡＺＹ</strong>  <i>2002/03/31 00:39:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017502797frpmd&id2=1015767350sywtjkr&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017502797frpmd_id2_1015767350sywtjkr_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z����������ł������肠�肪�Ƃ��������܂��B<BR>�l�b�g���班���̊ԉ��������Ă����̂ł��Ԏ����x��܂����i���j�B�X�~�}�Z���B<BR><BR>���݂�񂳂�<BR><BR>�����I�ɂ��傤�ǂ悩�������Ă��Ƃ�������܂���ł��B<BR>���̕ӂ̃o�����X�����\�C�������Ƃ���Ȃ�ł���B<BR>���������Ă���������Ə����b�オ����܂��B<BR><BR><BR>���m�C���i�d�g�d���j����<BR><BR>���d�g�d���͗��̃s���Ɉ�[����������ł���<BR>�\�z�O�̑�l�C�ł��˂��i�΁j�B<BR>���ꂩ��s�������􂷂��ʂ�<BR>���₳�Ȃ����Ƃ����܂���ˁB<BR><BR><BR>���_�����z�̂����W�S�Q�U����<BR><BR>���W���[�g�N�A���񂽌y���Ȃ񂾂��^�ʖڂȂ񂾂���������i�΁j�B<BR>���͂��������Ă���������ƈ�Ԃ��肪������ł���B<BR>���������L�����N�^�[�̂���ŏ������̂Łi�΁j�B<BR>�ނ͂��ꂩ������􂷂��ʂ�����܂���B<BR>���y���݂ɁI�i�ƌ�����قǎ��M�͂Ȃ��ł����ǁj
+感想を書き込んでくださりありがとうございます。<BR>ネットから少しの間遠ざかっていたのでお返事が遅れました（汗）。スミマセン。<BR><BR>＞みゅんさん<BR><BR>＞私的にちょうどよかったってことかもしれませんです。<BR>その辺のバランスが結構気をつかうところなんですよ。<BR>そう言っていただけると書き甲斐があります。<BR><BR><BR>＞ノイン（電波妖精）さん<BR><BR>＞電波妖精は竜のピムに一票を捧げたいです♪<BR>予想外の大人気ですねえ（笑）。<BR>これからピムが活躍する場面を<BR>増やさなさいといけませんね。<BR><BR><BR>＞神速感想のｍｋ８４２６さん<BR><BR>＞ジュート君、あんた軽薄なんだか真面目なんだか分からんよ（笑）。<BR>実はそう言っていただけると一番ありがたいんですよ。<BR>そういうキャラクターのつもりで書いたので（笑）。<BR>彼はこれからも活躍する場面がありますよ。<BR>お楽しみに！（と言えるほど自信はないですけど）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/12200339/dragoon04.html" target="_blank">�g�̑��b���R���E��T�͂�ǂނɂ͂������N���b�N</a></strong>  <i>2002/04/01 00:04:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/12200339/dragoon04.html" target="_blank">紅の装甲竜騎兵・第５章を読むにはここをクリック</a></strong>  <i>2002/04/01 00:04:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017587045lsrwns&id2=1015767350sywtjkr&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017587045lsrwns_id2_1015767350sywtjkr_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�}���ƃs���A���̂������R���r�̊���͂����Ă��i�ǂ�ł��H�j�u���ł��I
+【推薦文】マヤとピム、息のあったコンビの活躍はいつ見ても（読んでも？）爽快です！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/01 00:40:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/01 00:40:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017589248ppuci&id2=1015767350sywtjkr&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017589248ppuci_id2_1015767350sywtjkr_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@TS�t�@�������̃V�[���͊m���ɂȂ���������Ȃ����ǁc<BR>�����ɓǂݕ��Ƃ��Ă������낢����OK���Ǝv���܂���B<BR><BR>�@�Ȃɂ����̋��Ƃ��ẴA�u�񑺁B�悢�ł��B<BR>��������Ɩ����ł����̂��悢�ł��ˁB<BR>�܂��A����������Ƃ�����ւ�̃C�x���g���~���������悤�ȋC�����܂����c<BR>�@��͂藳�R���Ƃ��Ă̐킢���l����Ɓc���낻��܂�����͑��Ƃ��Ȃ��Ƃ����Ȃ��̂ł��ˁB�t�@���^�W�[�̂��񑩂ł���܂�����ˁB���́c<BR>�@�����āA���C�o���Ƃ������c�G�̊����̏o���A������ւ񂪃t�@���^�W�[�̑�햡�ł��ˁB����ق�ƁB<BR>�@�Ȃɂ͂Ƃ�����c�d�g�d���͋󂪍D���ł���<BR>
+　TSファン向けのシーンは確かにないかもしんないけど…<BR>純粋に読み物としておもしろいからOKだと思いますよ。<BR><BR>　なによりも故郷としてのアブ二村。よいです。<BR>お父さんと妹ができたのもよいですね。<BR>まあ、もうちょっとそこらへんのイベントが欲しかったような気もしますが…<BR>　やはり竜騎兵としての戦いを考えると…そろそろまったりは卒業しないといけないのですね。ファンタジーのお約束でありますからね。旅は…<BR>　そして、ライバルというか…敵の幹部の出現、ここらへんがファンタジーの醍醐味ですね。いやほんと。<BR>　なにはともあれ…電波妖精は空が好きです♪<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤���{��S��</strong>  <i>2002/04/01 21:26:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう＠本作担当</strong>  <i>2002/04/01 21:26:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017663971hkjfx&id2=1015767350sywtjkr&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017663971hkjfx_id2_1015767350sywtjkr_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��傤�ł��B<BR>�`�y�x����ɖ{��i�̌f�ڊ������[���𑗂����̂ł����AGeocities�̃T�[�r�X���s����Ȃ������A���[����User unknown�Ƃ��ĕԂ��Ă��܂����B<BR>���̏�����؂肵�Čf�ڊ����̎|�����`�����܂��B
+りょうです。<BR>ＡＺＹさんに本作品の掲載完了メールを送ったのですが、Geocitiesのサービスが不安定なせいか、メールがUser unknownとして返ってきました。<BR>この場をお借りして掲載完了の旨をお伝えします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/01 21:47:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/01 21:47:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017665251dnqsy&id2=1015767350sywtjkr&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017665251dnqsy_id2_1015767350sywtjkr_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����႟�A�}�������{���ɗ��R���ɂȂ����Ⴄ�񂾁B<BR>�G���̗��R�����o�ꂵ�āA���ꂩ��̔g�����f�킹��悤�ł��ˁB<BR>�������A���[�~�A�����܂Ő��֍s���ƌ����o���Ƃ́A����͗\�z�O�ł����B<BR>�����A���ɋ삯��o���̕��ꂪ�n�܂�I�E�E�E�̂��ȁH<BR><BR>�Ƃ���ŁA�A��ꏊ���ł������Ă̂́A�����ł��˂��B�������A�`���Ƃ͂����A���e�Ɩ�������B����̓}�������ɂƂ��Ĕ��ɐS�������Ƃł��傤�B
+読んだバイ♪<BR>ありゃぁ、マヤちゃん本当に竜騎兵になっちゃうんだ。<BR>敵国の竜騎兵も登場して、これからの波乱を伺わせるようですね。<BR>しかし、ルーミアちゃんまで戦場へ行くと言い出すとは、これは予想外でした。<BR>さあ、戦場に駆ける姉妹の物語が始まる！・・・のかな？<BR><BR>ところで、帰る場所ができたってのは、いいですねぇ。しかも、義理とはいえ、父親と妹もいる。これはマヤちゃんにとって非常に心強いことでしょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:herige@geocities.co.jp" target="_blank">�`�y�x</a></strong>  <i>2002/04/02 00:37:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:herige@geocities.co.jp" target="_blank">ＡＺＹ</a></strong>  <i>2002/04/02 00:37:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017675437rtshod&id2=1015767350sywtjkr&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017675437rtshod_id2_1015767350sywtjkr_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z����������ł����������肪�Ƃ��������܂��B<BR><BR>���m�C���i�d�g�d���j����<BR><BR>�����낻��܂�����͑���<BR>�����Ȃ�ł���B<BR>���̏����̃^�C�g���́u�g�̑��b���R���v�ł�����ˁB<BR>�����g�A�}�������`�o���̂܂����`�肵��������`���̂�<BR>�y�����āi�΁j�A���������Ȃ��Ă��܂��܂������ǁA<BR>�܂��A�����Ă݂�΂��ꂩ�炪�{�ԂȂ̂ł��B<BR><BR>���_�����z�̂����W�S�Q�U����<BR>��̃m�C������ւ̕Ԏ��Əd�Ȃ�܂����A<BR>���͂��ꂩ�炪�{�Ԃł��B<BR>���Ƃ��Ă��A�^�C�g�����u�}�����o�����ƈꏏ�v�ɂł��ύX����<BR>�`�o���̂ق̂ڂ̂Ƃ����������������������̂͂�܂�܂Ȃ�ł����i�΁j�B<BR><BR>�܂��A���Ȃ��ׂ��_������Ƃ���΁A<BR>�R�͂���T�͂́A�S�̂��猩���o�����X�Ƃ����Ӗ��ł�<BR>��������������������܂���i���j�B<BR><BR>����傤���{��S������<BR>�����ǂ����B<BR>�f�ڊ������[���͂����Ɠ͂��Ă��܂���B<BR>�W�I���[���� smtp ��~�ɔ����āA<BR>��������������悤�ł��ˁB<BR><BR>����ƁA�^�c�ψ���̕��X�͂��Z�����̂ł͂Ȃ����Ǝv���A<BR>�l�I�Ƀ��[���������グ�邱�Ƃ͍����T�����̂ł����A<BR>�ŏ��̎�̃��[���ŁA���̑O��u�ނƔޏ��Ɛ����Ǝ��v��<BR>�y���߂��A�Ƌ��Ă������������Ƃɑ΂��A<BR>���̏���؂�Ďӎ����q�ׂ����Ǝv���܂��B
+感想を書き込んでいただきありがとうございます。<BR><BR>＞ノイン（電波妖精）さん<BR><BR>＞そろそろまったりは卒業<BR>そうなんですよ。<BR>この小説のタイトルは「紅の装甲竜騎兵」ですからね。<BR>私自身、マヤたち義姉妹のまった～りした生活を描くのが<BR>楽しくて（笑）、ついつい長くなってしまいましたけど、<BR>まぁ、いってみればこれからが本番なのです。<BR><BR>＞神速感想のｍｋ８４２６さん<BR>上のノインさんへの返事と重なりますが、<BR>実はこれからが本番です。<BR>私としても、タイトルを「マヤお姉ちゃんと一緒」にでも変更して<BR>義姉妹のほのぼのとした生活を書き続けたいのはやまやまなんですが（笑）。<BR><BR>まあ、反省すべき点があるとすれば、<BR>３章から５章は、全体から見たバランスという意味では<BR>少し長すぎたかもしれません（汗）。<BR><BR>＞りょう＠本作担当さん<BR>いつもどうも。<BR>掲載完了メールはちゃんと届いていますよ。<BR>ジオメールは smtp 停止に伴って、<BR>多少混乱があるようですね。<BR><BR>それと、運営委員会の方々はお忙しいのではないかと思い、<BR>個人的にメールを差し上げることは差し控えたのですが、<BR>最初の受領メールで、私の前作「彼と彼女と聖剣と私」を<BR>楽しめた、と仰っていただいたことに対し、<BR>この場を借りて謝辞を述べたいと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=azy" target="_blank">�^�c�ψ�</a></strong>  <i>2002/06/10 23:28:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ts/kansou/bbs@log_azy.cgi" target="_blank">運営委員</a></strong>  <i>2002/06/10 23:28:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1023719288gbxrtoo&id2=1015767350sywtjkr&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1023719288gbxrtoo_id2_1015767350sywtjkr_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�f����URL���ς��܂��B<BR>�V�������z�f���͂�����ł��B<BR><BR><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=azy" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=azy</a>
+感想掲示板のURLが変わります。<BR>新しい感想掲示板はこちらです。<BR><BR><a href="../../../~ts/kansou/bbs@log_azy.cgi" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=azy</a>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1015767350sywtjkr">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

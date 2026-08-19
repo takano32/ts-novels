@@ -21,7 +21,7 @@
 <td bgcolor="#EEFFEE" align=center colspan=2>
 <font size=4>***** <b>運営委員のWebページ</b> [1件] *****</font></td></tr>
 <tr bgcolor="#FFFFEF"><td width=5%><input type=checkbox name=delm value="0002"></td>
-<td width=95%><font color="#888888"><b>■</b></font> <a href="http://www14.big.or.jp/~yays/" target="_top"><b>− 八重洲メディアリサーチ −</b></a>
+<td width=95%><font color="#888888"><b>■</b></font> <a href="../../~yays/index.html" target="_top"><b>− 八重洲メディアリサーチ −</b></a>
 <br>　<font size=2>八重洲一成さんの、は男の子が女の子に変身するＳＦ・ファンタジー等のフィクション作品を専門的に取り扱ったサイトです。性転換作品全ガイドから、創作小説、情報交換ボード等々。コンテンツは充実。少し前まで、少年少女文庫のオーナー。今は・・・ </font>
 </td></tr>
 <tr><td bgcolor="#FFFFEF" colspan=2 align=right><input type=password name=maskey><input type=submit value="メンテ削除"><br>

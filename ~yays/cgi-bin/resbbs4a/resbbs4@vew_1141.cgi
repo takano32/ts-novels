@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/ target=_top>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../index.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�c�O���O>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:残念無念>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1141>
 <input type=hidden name=ress value=1141>
-<input type=submit value=�c�O���O�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=残念無念へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1141>
-<font color=#6A5ACD>�c�O���O</font></a>
+<font color=#6A5ACD>残念無念</font></a>
 <font color=#303030>
-�j�b�q�b�l
- ����</font>
- <font size=2>2001�N5��4��(��) 0��28��</font>
-<a href="resbbs4.cgi?vew=1141">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b></b>�z</font>
+ＫＣＲＣＭ
+ さん</font>
+ <font size=2>2001年5月4日(金) 0時28分</font>
+<a href="resbbs4@vew_1141.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����ԑO�ɂ����Ō��y�������l����ߣ��]�(���������F��l���t���C����<br>�m���̏��𖂏��ɏ����Ă���������̂́A����������A���C�h�Ƃ��Ďd��<br>�������Ƃ�������)�ł����A�R���̑�����ŁA�T�[�N���𔭌��B<br>��]��̑�����₢���킹�Ă݂��Ƃ���A����΂炭�����\��Ȃ���Ƃ̂�����<br>�ŁA�K�b�J���B<br>�u����Ă����R�s�[����룂ɂ́A���܂ŞB���������t���C�������������ꂽ<br>�Ƃ��̃G�s�\�[�h���f�ڂ���Ă��Ăf�n�n�c�������̂ł����c�c�B<br>���܂œ��l�Ō����������ŁA�I���W�i���n�쐫�]�����Ƃ��ẮA<br>��ʂ̃f�L�Ȃ����ɔ��Ɏc�O�ł��B</font></ul>
+<ul><br><font size=3>だいぶ前にここで言及した同人誌｢令｣｢従｣(聖月堂刊：主人公フレイルが<br>瀕死の所を魔女に助けてもらったものの、女性化され、メイドとして仕え<br>されられるというもの)ですが、３日の即売会で、サークルを発見。<br>｢従｣の続きを問い合わせてみたところ、｢しばらく書く予定なし｣とのお答え<br>で、ガッカリ。<br>置かれていたコピー誌｢零｣には、今まで曖昧だったフレイルが女性化された<br>ときのエピソードが掲載されていてＧＯＯＤだったのですが……。<br>今まで同人で見かけた中で、オリジナル創作性転換物としては、<br>珠玉のデキなだけに非常に残念です。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

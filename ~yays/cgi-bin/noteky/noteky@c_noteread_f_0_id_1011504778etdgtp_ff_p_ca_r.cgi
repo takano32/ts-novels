@@ -1,165 +1,165 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1011504778etdgtp&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1011504778etdgtp_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�̐l�E�l</font><br>
+<font size="+2" color="#0000FF">捨人拾人</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/01/20 14:32:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/01/20 14:32:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011504778etdgtp&id2=1011504778etdgtp&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011504778etdgtp_id2_1011504778etdgtp_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200109/19041522/suteru.html" target="_blank">��i������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/20 22:19:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200109/19041522/suteru.html" target="_blank">作品を見るにはここをクリック。</a></strong>  <i>2002/01/20 22:19:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011532752jxaib&id2=1011504778etdgtp&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011532752jxaib_id2_1011504778etdgtp_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�n���낳��̕s�v�c�ȃV���[�g�V���[�g�B�c�c�Ō�̑䎌�ɁA���Ȃ��͉��������܂����H
+【推薦文】地駆鴉さんの不思議なショートショート。……最後の台詞に、あなたは何を感じますか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/01/20 22:49:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/01/20 22:49:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011534582xunqka&id2=1011504778etdgtp&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011534582xunqka_id2_1011504778etdgtp_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�[���~�P�O�Ƃ������炢�l���������܂����B�����������肠�[�����������ɂȂ���Ƃ͂���͂�f���炵���ł��B�Ō�̑䎌��������Ƃ��܂����B�ł͂ł́c
+深い×１０というぐらい考えさせられました。こういうしりあーすもお書きになられるとはいやはや素晴らしいです。最後の台詞もずしんときました。ではでは…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/20 23:37:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/20 23:37:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011537473vxiwdth&id2=1011504778etdgtp&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011537473vxiwdth_id2_1011504778etdgtp_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂܂��A�Z������ɂƂĂ��[�����ł��ȁB<BR>�Ȃ񂩁A�����A�ǂ߂Γǂނقǂɖ����o�Ă���悤�ȁA����Ȋ��������܂��B<BR>�Ō�̉Ȕ����Ȃ��Ȃ��n�}���Ă��܂��B<BR>���ɗǂ������ł��B
+読んだバイ♪<BR>これはまた、短い代わりにとても深そうですな。<BR>なんか、こう、読めば読むほどに味が出てくるような、そんな感じがします。<BR>最後の科白もなかなかハマっています。<BR>実に良かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2002/01/20 23:49:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>美和</strong>  <i>2002/01/20 23:49:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011538152lrtbbr&id2=1011504778etdgtp&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011538152lrtbbr_id2_1011504778etdgtp_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������Q�ŔY��ł���l�́A���A�j��킸�A���낢��ȂƂ���ɂ���B���̋����搶�ł����̖������グ���ɂ͂����Ȃ���ԁB���������A�j�Ə����ĂȂ񂾂낤�B���ꗎ���Ă���A�����Ƃ��̂܂܂̐��Ŏ�e�ł���l�͍K���A���ꂪ�ł��Ȃ��l�͕s�K���A���A���]������l�����͌��ǂ͋[���I�Ȑ��]���Ŗ������Ă���B���������Ӗ��d�����Ȃ��B���̂����A�S�Ă�ς��邱�Ƃ��ł���΁A�����Ƒ�����̂��낤���H�N�����̂��Ƃ͒m��Ȃ��B<BR>���������󋵂ɂȂ��Ă���̂ł͂Ȃ����낤���H
+性同一障害で悩んでいる人は、女、男問わず、いろいろなところにいる。あの金八先生でもその問題を取り上げずにはいられない状態。いったい、男と女ってなんだろう。生れ落ちてから、ずっとそのままの性で受容できる人は幸せ、それができない人は不幸せ、今、性転換する人たちは結局は擬似的な性転換で満足している。それもある意味仕方がない。そのうち、全てを変えることができれば、もっと増えるのだろうか？誰もそのことは知らない。<BR>そういう状況になっているのではないだろうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/01/21 02:18:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/01/21 02:18:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011547094lhtcbeh&id2=1011504778etdgtp&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011547094lhtcbeh_id2_1011504778etdgtp_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�N�ɂȂ��������͂ǂ��ɍs�����񂾂낤�B�����ɂȂ����N�́A�Ȃ������̐g�̂𖁂��������񂾂낤�B<BR>�@���̎����ɔ[���o�����A������ς������Ǝv���Ă������A���Z�̒n�͖����̂��ȁB���܂ł��������̂悤�ɕY�������Ȃ̂��ȁH<BR>�@���̎������󂯓���邱�Ƃ��o�����҂������A��莩�������߂邱�Ƃɂ���āA���ǂ͎�����ς��邱�Ƃ��o����̂��ȁH<BR>�@�N�ɂȂ����������A�i���ɂ��܂���Ă����C���[�W�ƁA��������Ə����Ƃ��Ă̐��Ɛ��𐶂������Ă����C���[�W���N���܂����B<BR><BR>�@�ǂސl�ɂƂ��āA������b�Ɏ󂯎~�߂���݂����ł��ˁB���ꂾ���l�̐S�̐[���Ƃ���ɑi����͂�����̂ł��傤�B�������낢�b�ƌ��������A���킢�̐[���b�ł����B
+　青年になった少女はどこに行ったんだろう。少女になった青年は、なぜ少女の身体を磨きあげたんだろう。<BR>　今の自分に納得出来ず、自分を変えたいと思っている限り、安住の地は無いのかな。いつまでも浮き草のように漂うだけなのかな？<BR>　今の自分を受け入れることが出来た者だけが、より自分を高めることによって、結局は自分を変えることが出来るのかな？<BR>　青年になった少女が、永遠にさまよっていくイメージと、しっかりと少女としての生と性を生き抜いていくイメージが湧きました。<BR><BR>　読む人にとって、違った話に受け止められるみたいですね。それだけ人の心の深いところに訴える力があるのでしょう。おもしろい話と言うよりも、味わいの深い話でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/21 15:55:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/21 15:55:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011596117muictjs&id2=1011504778etdgtp&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011596117muictjs_id2_1011504778etdgtp_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ǂ݉���������Ɍ䊴�z�܂ŉ�����A���肪�Ƃ��������܂��B<BR>���m�C�� �l<BR>�@�[���~�P�O�\�\���������Ē�����Ɗ������ł��B<BR>�@���肠�[���\�\����͂�A�����͍��܂ł��Ⴎ�΂����菑���Ă܂��̂ł��܂ɂ́i�΁j�B<BR>�������W�S�Q�U �l<BR>�@�Ō�̉Ȕ��\�\���܂��\�����ł������͂킩��܂��񂪁A�v�����āA�ǂ����Ă�����Ă݂��������Z���t�ł��B<BR>�����a �l<BR>�@���������󋵂Ɂ\�\�Ō�̃Z���t�́A�����ے肵�Ă���悤�ɕ��������ł��邩������܂���ˁc�c�\���󂠂�܂���A���t������܂���ł����B<BR>���W���[�W���b�h �l<BR>�@�ǂސl�ɂƂ��ā\�\���Ƃ��������Ƃ����_���Ă����̂Ŋ������ł��B
+お読み下さった上に御感想まで下さり、ありがとうございます。<BR>＞ノイン 様<BR>　深い×１０――そう言って頂けると嬉しいです。<BR>　しりあーす――いやはや、自分は今までぎゃぐばっかり書いてますのでたまには（笑）。<BR>＞ｍｋ８４２６ 様<BR>　最後の科白――うまく表現ができたかはわかりませんが、思いついて、どうしても入れてみたかったセリフです。<BR>＞美和 様<BR>　そういう状況に――最後のセリフは、それを否定しているように聞く事ができるかもしれませんね……申し訳ありません、言葉が足りませんでした。<BR>＞ジャージレッド 様<BR>　読む人にとって――わりとそういうところを狙っていたので嬉しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h��</strong>  <i>2002/01/21 19:55:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロ</strong>  <i>2002/01/21 19:55:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011610526rarsvj&id2=1011504778etdgtp&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011610526rarsvj_id2_1011504778etdgtp_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Z�����ǐ[���A�܂������S�ɓ˂��h������e�ł����B<BR>�����Ŋ��z�����t�ɂ��Ă��܂����A�����̒��ŉ��߈�ĂĂ݂����Ȃ�C�������N���܂����B<BR>�@�āA���ꂶ�Ⴀ���z�f���̈Ӗ����Ȃ���(��)<BR><BR><BR>���������b���m�g�j�̃��W�I�h���}�Ƃ��ł���Ăق����ȁ`�Ƃ��v������B
+　短いけど深く、まっすぐ心に突き刺さる内容でした。<BR>ここで感想を言葉にしてしまうより、自分の中で温め育ててみたくなる気持ちが湧きました。<BR>　て、それじゃあ感想掲示板の意味がないか(汗)<BR><BR><BR>こういう話をＮＨＫのラジオドラマとかでやってほしいな～とか思ったり。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/23 20:02:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/23 20:02:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011783732tacis&id2=1011504778etdgtp&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011783732tacis_id2_1011504778etdgtp_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f���h���r�E���l�A�ǂ�ŉ�����A�܂��A�䊴�z���肪�Ƃ��������܂��B<BR>�܂������S�Ɂ\�\���܂����������ǂ����s���ł������A���������Ē����Ĉ��S���܂����B<BR>�����̒��ŉ��߁\�\���肪�Ƃ��������܂��B���Ɋ������䊴�z�ł��B
+デンドロビウム様、読んで下さり、また、御感想ありがとうございます。<BR>まっすぐ心に――うまく書けたかどうか不安でしたが、そう言って頂けて安心しました。<BR>自分の中で温め――ありがとうございます。非常に嬉しい御感想です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2002/02/02 18:02:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2002/02/02 18:02:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012640531ecdtlst&id2=1011504778etdgtp&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012640531ecdtlst_id2_1011504778etdgtp_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�������g������ꂽ�Ƃ��́A���l�Ƃ̂ӂꂠ���ɂ���Ď��������߂����Ă��Ƃ���ł��傤���B�ӂ���ōK���ɂȂ��Ă����񂶂�Ȃ����ȁA�Ǝv��������ł��B�y���߂܂����B<BR>�@����ւ��s�r��i�Ȃ�ł͂ł��ˁA���̗ǂ��́B���̍�Ƃ���̎��_�̍�i���A���Ă݂������̂ł��B
+　自分自身がこわれたときは、他人とのふれあいによって自分を取り戻すってえところでしょうか。ふたりで幸せになってくれるんじゃないかな、と思った次第です。楽しめました。<BR>　入れ替わりＴＳ作品ならではですね、この良さは。他の作家さんの視点の作品も、見てみたいものです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/02/04 18:31:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/02/04 18:31:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012815080rxpcin&id2=1011504778etdgtp&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012815080rxpcin_id2_1011504778etdgtp_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L��l�A�ǂ�ł�����������Ɍ䊴�z�܂ŉ�����A���肪�Ƃ��������܂��B<BR>���l�Ƃ̂ӂꂠ���\�\���R�Ƃ��̂悤�Ȏ����l���ď����܂����B<BR>�K���\�\�ŏ��̓_�[�N���̂ɂ��悤���Ƃ��v���Ă����̂ł����A��͂�o�b�h�G���h���̂������̂͋��Ȃ̂Łi��΁j�B<BR>�y���߁\�\���肪�Ƃ��������܂��B
+猫野様、読んでくださった上に御感想まで下さり、ありがとうございます。<BR>他人とのふれあい――漠然とそのような事を考えて書きました。<BR>幸せ――最初はダークものにしようかとも思っていたのですが、やはりバッドエンドものを書くのは苦手なので（苦笑）。<BR>楽しめ――ありがとうございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/02/07 08:53:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/02/07 08:53:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013039609eeent&id2=1011504778etdgtp&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013039609eeent_id2_1011504778etdgtp_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������̂Ă��Ⴂ���Ȃ���<BR>�����v���ɁA�����܂ŏI��点���̂͐������ƁB<BR><BR>�u�Ђ炪�ȁv�݂̂ɒ�������΁A�����̋��ȏ��ɂ��g�������ł��B<BR><BR>�����̐������ɏ�������A�����D���ɁB
+＞自分を捨てちゃいけないよ<BR>私が思うに、ここまで終わらせたのは正解かと。<BR><BR>「ひらがな」のみに訂正すれば、道徳の教科書にも使えそうです。<BR><BR>※この先を下手に書いたら、多分泥沼に。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/02/10 20:06:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/02/10 20:06:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013339164rdduqjy&id2=1011504778etdgtp&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013339164rdduqjy_id2_1011504778etdgtp_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���l�A�ǂ�ŉ���������Ɍ䊴�z�����肠�肪�Ƃ��������܂��B���炪�x���Ȃ��Đ\���󂠂�܂���B<BR>�����\�\����͂�c�c���肪�Ƃ��������܂��B<BR>���̐�\�\�Ō�̑䎌�ŏI��点��B�Ƃ������z����l�����̂ŁA���̌�͂��܂�l���Ă܂���i��΁j�B�������Ƃ��Ă��A����ς�ǂ��ŏI��点�邩������ł��ˁB<BR>����ł͉��߂āA�䊴�z���肪�Ƃ��������܂��B
+すなさん様、読んで下さった上に御感想下さりありがとうございます。お礼が遅くなって申し訳ありません。<BR>道徳――いやはや……ありがとうございます。<BR>この先――最後の台詞で終わらせる。という発想から考えたので、この後はあまり考えてません（苦笑）。書いたとしても、やっぱりどこで終わらせるか難しそうですね。<BR>それでは改めて、御感想ありがとうございます。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1011504778etdgtp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

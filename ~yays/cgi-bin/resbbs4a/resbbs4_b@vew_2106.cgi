@@ -1,129 +1,129 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
+<tr><td align=right>題名:</td><td>
 <input type=text size=48 name=subject value=>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2106>
 <input type=hidden name=ress value=2106>
-<input type=submit value=�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2106>
 <font color=#6A5ACD></font></a>
 <font color=#303030>
-�Q����
- ����</font>
- <font size=2>2003�N12��26��(��) 22��33��</font>
-<a href="resbbs4_b.cgi?vew=2106">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+２ｃｈ
+ さん</font>
+ <font size=2>2003年12月26日(金) 22時33分</font>
+<a href="resbbs4_b@vew_2106.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�_�[�N���[�[�X���A�����Ă܂��B <br>�����߈˃��m�́u�t�@�~���X�v���D���������̂ɁE�E�E�E</font></ul>
+<ul><br><font size=3>ダークローゼスが、消えてます。 <br>ああ憑依モノの「ファミレス」が好きだったのに・・・・</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2107>
-<font color=#6A5ACD>�_�[�N���[�[�X</font></a>
+<font color=#6A5ACD>ダークローゼス</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2003�N12��27��(�y) 10��56��</font>
-<a href="resbbs4_b.cgi?vew=2107">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�}�C�s���A�N���[���h�[���E���x���W���[�^�q</b>�z</font>
-<ul><font size=3>������ăW���[�J�[����̃T�C�g����ˁB<br>�������́A�ϐg�A����ւ��A�߈ˁA�ƃW�������ʂɁA<br>�_�[�N�n�̂s�r�e�������[�����Ă��񂾂��A<br>�}�W�ɏ����Ă܂����ˁB����͂s�r�e�}�j�A�Ƃ��āA<br>���Ȃ�w�R�~�܂����B<br></font></ul>
+レモン
+ さん</font>
+ <font size=2>2003年12月27日(土) 10時56分</font>
+<a href="resbbs4_b@vew_2107.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>マイピュアクローンドール・リベンジャー真子</b>】</font>
+<ul><font size=3>それってジョーカーさんのサイトだよね。<br>あそこは、変身、入れ替わり、憑依、とジャンル別に、<br>ダーク系のＴＳＦ小説が充実してたんだが、<br>マジに消えてましたね。これはＴＳＦマニアとして、<br>かなりヘコミました。<br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=2108>
-<font color=#6A5ACD>�{����</font></a>
+<font color=#6A5ACD>本当だ</font></a>
 <font color=#303030>
 shin
- ����</font>
- <font size=2>2003�N12��27��(�y) 17��8��</font>
-<a href="resbbs4_b.cgi?vew=2108">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>���̓]��</b>�z</font>
-<ul><font size=3>������s���Ă��������̂ɂȂ�<br>�c��ȏ��������������炩�炷�����悩�����̂�<br>��������̂ł��傤���H</font></ul>
+ さん</font>
+ <font size=2>2003年12月27日(土) 17時8分</font>
+<a href="resbbs4_b@vew_2108.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>肉体転移</b>】</font>
+<ul><font size=3>何回も行っていたいたのになぁ<br>膨大な小説があったからからすごくよかったのに<br>復活するのでしょうか？</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2110>
 <font color=#6A5ACD></font></a>
 <font color=#303030>
 Z
- ����</font>
- <font size=2>2003�N12��30��(��) 12��53��</font>
-<a href="resbbs4_b.cgi?vew=2110">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�_�[�N���[�[�X�݂����ɂP�W��OK��TSF�����T�C�g�͋M�d�������ȁB<br>�������������͕ϐg�A����ւ��A�߈˂Ǝ�ޕʂɏ[�����Ă�����ȁE�E�E</font></ul>
+ さん</font>
+ <font size=2>2003年12月30日(火) 12時53分</font>
+<a href="resbbs4_b@vew_2110.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ダークローゼスみたいに１８禁OKなTSF小説サイトは貴重だったな。<br>しかもあそこは変身、入れ替わり、憑依と種類別に充実してたからな・・・</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2112>
 <font color=#6A5ACD></font></a>
 <font color=#303030>
-Toshiaki�@Suzuki
- ����</font>
- <font size=2>2003�N12��30��(��) 14��45��</font>
-<a href=�}�W�H target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=2112">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�{���̃R�~�P�b�g�ɏo�W���ꂽTSF���l���̐��X</b>�z</font>
-<ul><font size=3>�ŋ߁A�x�ΎR���ۂ��X�V��~�������T�C�g���A<br>�F�ɕ���������O�Ɏ����I�ɖ��������Ⴊ�����Ă��ˁB<br>�N���O�ɂ��đ����ɋ�TSF�T�C�g������������Ă�ˁB<br>�F���񎩐g��HP�́A�}���ɍX�V���ď��������̊�@��������܂��傤�B<br>����ƗL���T�[�o�[�̏ꍇ�͖Y�ꂸ�v���o�C�_�[�̎g�p�̓�����Y��Ȃ��悤�ɁB<br></font></ul>
+Toshiaki　Suzuki
+ さん</font>
+ <font size=2>2003年12月30日(火) 14時45分</font>
+<a href="マジ？" target=_top>HomePage</a>
+<a href="resbbs4_b@vew_2112.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>本日のコミケットに出展されたTSF同人誌の数々</b>】</font>
+<ul><font size=3>最近、休火山っぽく更新停止だったサイトが、<br>皆に閉鎖を告げる前に自動的に抹消される例が続いてるよね。<br>年末前にたて続けに旧TSFサイトが閉鎖抹消されてるね。<br>皆さん自身のHPは、マメに更新して消去抹消の危機を回避しましょう。<br>それと有料サーバーの場合は忘れずプロバイダーの使用の入金を忘れないように。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2113>
-<font color=#6A5ACD>�}�W�H</font></a>
+<font color=#6A5ACD>マジ？</font></a>
 <font color=#303030>
-Toshiaki�@Suzuki
- ����</font>
- <font size=2>2003�N12��30��(��) 14��53��</font>
-<a href="resbbs4_b.cgi?vew=2113">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�z�[���y�[�W�́A<b>����TSF���l�����R�~�P�b�g�ɏo�W���ꂽTSF�T�C�g���܂̐��X</b>�z</font>
-<ul><font size=3>����̃J�L�R�u�}�W�H�v�Ƒ薼�ɏ������Ƃ�����A<br>HP�̂Ƃ��֊Ԉ���āu�}�W�H�v�ƃJ�L�R���Ă��܂��A<br>�\�����o�O���Ă��܂��܂����B<br></font></ul>
+Toshiaki　Suzuki
+ さん</font>
+ <font size=2>2003年12月30日(火) 14時53分</font>
+<a href="resbbs4_b@vew_2113.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるホームページは、<b>今回TSF同人誌をコミケットに出展されたTSFサイトさまの数々</b>】</font>
+<ul><font size=3>先程のカキコ「マジ？」と題名に書こうとしたら、<br>HPのとこへ間違って「マジ？」とカキコしてしまい、<br>表示がバグってしまいました。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2125>
-<font color=#6A5ACD>RE:�}�W�H</font></a>
+<font color=#6A5ACD>RE:マジ？</font></a>
 <font color=#303030>
 shin
- ����</font>
- <font size=2>2004�N1��9��(��) 11��21��</font>
-<a href="resbbs4_b.cgi?vew=2125">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�������܂����B�A�h���X�͈ȑO�ƕς���Ă���܂���B<br>���ꂵ������ł��B</font></ul>
+ さん</font>
+ <font size=2>2004年1月9日(金) 11時21分</font>
+<a href="resbbs4_b@vew_2125.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>復活しました。アドレスは以前と変わっておりません。<br>うれしい限りです。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -131,7 +131,7 @@ shin
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

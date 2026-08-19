@@ -1,131 +1,131 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���G�`���{�[�h�͂��߂܂���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:お絵描きボードはじめました>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1324>
 <input type=hidden name=ress value=1324>
-<input type=submit value=���G�`���{�[�h�͂��߂܂����֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=お絵描きボードはじめましたへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1324>
-<font color=#6A5ACD>���G�`���{�[�h�͂��߂܂���</font></a>
+<font color=#6A5ACD>お絵描きボードはじめました</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N11��23��(��) 20��52��</font>
-<a href="resbbs4.cgi?vew=1324">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�i���g�E���F�C�̏p�o�[�W����</b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2001年11月23日(金) 20時52分</font>
+<a href="resbbs4@vew_1324.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>ナルト・お色気の術バージョン</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�y���G�`��BBS�֘A�z ����񂳂�Ƃ����y��������������ŁA�����ɂ����G�`���a�a�r��ݒu���Ă݂܂����B<br><a href=http://www14.big.or.jp/~yays/cgi-bin/paintbbs/index.html target=_top>http://www14.big.or.jp/~yays/cgi-bin/paintbbs/index.html</a><br><br>���E���i���Ǝv���j�̃p���f�B����������储�������ł��B<br>��܁A�����Q�[���́��L���������̎q�ɕς��Ă݂悤�I�@�Ƃ����R���Z�v�g�ł��ˁB�^�Q�[���G���̃u���Z���̏��������p�N�����Ƃ������A�Ȃ�Ƃ������B<br>�ЂƂ�����̂́A���d�F�̗~�]���琶�܂ꂽ�i�΁j�a�a�r���Ƃ������Ƃł��B���V���W�Ƃ����N���s�J�Ƃ��D��������I<br><br>������̌f���ŁA���G�`���E�҂��񂽂��ւ̃��N�G�X�g���o���̂������Ǝv���܂���B�i���N�G�X�g���󂯓�����邩�͕�����܂��񂯂ǁc�c�j</font></ul>
+<ul><br><font size=3>【お絵描きBBS関連】 よんよんさんとこが楽しそうだったんで、うちにもお絵描きＢＢＳを設置してみました。<br><a href="../paintbbs/index.html" target=_top>../paintbbs/index.html</a><br><br>世界初（だと思う）のパロディ女性化物専門おえかき板です。<br>つりま、漫画やゲームの♂キャラを女の子に変えてみよう！　というコンセプトですね。某ゲーム雑誌のブリセルの小部屋をパクったというか、なんというか。<br>ひとついえるのは、八重洲の欲望から生まれた（笑）ＢＢＳだということです。女シンジとか女クラピカとか好きだから！<br><br>こちらの掲示板で、お絵描き勇者さんたちへのリクエストを出すのもいいと思いますよ。（リクエストが受け入れられるかは分かりませんけど……）</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1325>
-<font color=#6A5ACD>RE:���G�`���{�[�h�͂��߂܂���</font></a>
+<font color=#6A5ACD>RE:お絵描きボードはじめました</font></a>
 <font color=#303030>
-<a href=mailto:ndcss@mtd.biglobe.ne.jp>���ƂԂ��Ђ���</a>
- ����</font>
- <font size=2>2001�N11��23��(��) 21��35��</font>
+<a href=mailto:ndcss@mtd.biglobe.ne.jp>ことぶきひかる</a>
+ さん</font>
+ <font size=2>2001年11月23日(金) 21時35分</font>
 <a href=http://www2s.biglobe.ne.jp/~ndcss/private.htm target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1325">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�\������i���@�ԊO�҂͂ǂ��Ȃ�̂��Ȃ�</b>�z</font>
-<ul><font size=3>�Ō����m�����E�E�E<br>�`����L�����Ȃ��񂾂�Ȃ��B������<br>�`���ė~�����L�����Ə󋵐ݒ�́A�R�̂悤�ɂ���̂����A<br><br>�Ȃ�ɂ���A�����́A�^�ԉ��ŗ͐s�����̂ŁA�܂������B<br></font></ul>
+<a href="resbbs4@vew_1325.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>能瀬くんＪｒ　番外編はどうなるのかなあ</b>】</font>
+<ul><font size=3>版権モノかあ・・・<br>描けるキャラないんだよなあ。おいら<br>描いて欲しいキャラと状況設定は、山のようにあるのだが、<br><br>なんにしろ、今日は、某花園で力尽きたので、また明日。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1326>
-<font color=#6A5ACD>RE:���G�`���{�[�h�͂��߂܂���</font></a>
+<font color=#6A5ACD>RE:お絵描きボードはじめました</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N11��23��(��) 21��37��</font>
-<a href="resbbs4.cgi?vew=1326">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>&gt; �`���ė~�����L�����Ə󋵐ݒ�́A�R�̂悤�ɂ���̂����A<br><br>����Ȃ�A������Ƀo�V�o�V�A���N�G�X�g�����Ă݂Ă��������ȁB<br>�N�������G�`�����̃q���g�ɂ��Ă��ꂽ�烉�b�L�[�I�@�Ă��ƂŁB</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2001年11月23日(金) 21時37分</font>
+<a href="resbbs4@vew_1326.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>&gt; 描いて欲しいキャラと状況設定は、山のようにあるのだが、<br><br>そんなら、こちらにバシバシ、リクエスト書いてみてくださいな。<br>誰かがお絵描き時のヒントにしてくれたらラッキー！　てことで。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1327>
-<font color=#6A5ACD>RE:���G�`���{�[�h�͂��߂܂���</font></a>
+<font color=#6A5ACD>RE:お絵描きボードはじめました</font></a>
 <font color=#303030>
-<a href=mailto:haruyo2@clotho.dricas.com>����������</a>
- ����</font>
- <font size=2>2001�N11��24��(�y) 15��44��</font>
-<a href="resbbs4.cgi?vew=1327">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>TS���ᖳ�����珑���̍T���܂����A�Җ]�́E�E</b>�z</font>
-<ul><font size=3>�����N���ە�����ł���������Ɩʓ|�ȏ󋵂Ȃ̂ł��̕����Ō䊨�ق��B<br>���̃Z���t����?�ƒQ���߂��ޓ����搶�t�@���̐ϔN�̍���(��)<br>�������@�u��@�@���͖{�莛�ᑐ���ꉻ�v��<br>���@�M���̉�͂��������@�@�_(�P�]�P)�^</font></ul>
+<a href=mailto:haruyo2@clotho.dricas.com>○○○○○</a>
+ さん</font>
+ <font size=2>2001年11月24日(土) 15時44分</font>
+<a href="resbbs4@vew_1327.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>TSじゃ無いから書くの控えますが、待望の・・</b>】</font>
+<ul><font size=3>私が誰か丸分かりですがちょっと面倒な状況なのでこの伏字で御勘弁を。<br>何故セリフだけ?と嘆き悲しむ藤島先生ファンの積年の恨み(笑)<br>女性化　蛍一　　他力本願寺若草物語化計画<br>今　貴方の画力が試される　　＼(￣‐￣)／</font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=1328>
-<font color=#6A5ACD>�e�X�g</font></a>
+<font color=#6A5ACD>テスト</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N11��25��(��) 18��2��</font>
-<a href="resbbs4.cgi?vew=1328">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3><img SRC="../../nuts_s.jpg"><br>IMG�^�O���Ďg���������H�e�X�g</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2001年11月25日(日) 18時2分</font>
+<a href="resbbs4@vew_1328.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3><img SRC="../../nuts_s.jpg"><br>IMGタグって使えたっけ？テスト</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1329>
-<font color=#6A5ACD>RE:�e�X�g</font></a>
+<font color=#6A5ACD>RE:テスト</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N11��25��(��) 18��4��</font>
-<a href="resbbs4.cgi?vew=1329">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���́[�g�����B���p�����Ⴂ���B<br>�ł����G�`���̃C���X�g�ɒ����e�L�X�g��Y�������Ƃ��͉��p�ł������B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2001年11月25日(日) 18時4分</font>
+<a href="resbbs4@vew_1329.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>うはー使えた。悪用しちゃいやん。<br>でもお絵描き板のイラストに長いテキストを添えたいときは応用できそう。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1330>
-<font color=#6A5ACD>RE:�e�X�g</font></a>
+<font color=#6A5ACD>RE:テスト</font></a>
 <font color=#303030>
 <a href=mailto:psobit@netzero.net>Enbreeze</a>
- ����</font>
- <font size=2>2001�N11��26��(��) 8��44��</font>
-<a href="resbbs4.cgi?vew=1330">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2001年11月26日(月) 8時44分</font>
+<a href="resbbs4@vew_1330.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b></b>】</font>
 <ul><font size=3>Oh gosh! That is cute! ^_^ *hugs picture*</font></ul>
 <HR>
 </ul>
@@ -133,7 +133,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

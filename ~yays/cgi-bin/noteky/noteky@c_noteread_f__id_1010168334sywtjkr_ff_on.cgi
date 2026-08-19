@@ -1,122 +1,122 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1010168334sywtjkr&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1010168334sywtjkr_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����Ƃ���</font><br>
+<font size="+2" color="#0000FF">少女として</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/01/05 03:18:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/01/05 03:18:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010168334sywtjkr&id2=1010168334sywtjkr&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010168334sywtjkr_id2_1010168334sywtjkr_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������c
+準備中…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/05032246/syoujyo01.htm" target="_blank">���b������Ȃ炱�����N���b�N�B</a></strong>  <i>2002/01/05 03:37:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/05032246/syoujyo01.htm" target="_blank">第一話を見るならここをクリック。</a></strong>  <i>2002/01/05 03:37:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010169440vfmme&id2=1010168334sywtjkr&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010169440vfmme_id2_1010168334sywtjkr_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �N�ł����`�@������������ĂĂق����Ǝv���Ă���̂́`�i�΁j
+【推薦文】 誰ですか～　自分もそう育ててほしいと思っているのは～（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/05 06:41:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/05 06:41:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010180510owtldtk&id2=1010168334sywtjkr&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010180510owtldtk_id2_1010168334sywtjkr_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A�u���̎q�Ƃ��Ĉ�Ă�ꂽ�v���b�ł��ȁB<BR>����A�u�ޏ��v�̌ːЂ͂ǂ���œo�^����Ă���̂��ȁH<BR>���w�����̎q�Œʂ��Ă�Ƃ������Ƃ́A�ːЂ���u���v�Ȃ̂��ȁB<BR>������ɂ��Ă��A�܂��n�܂����΂���B�������C�ɂȂ�܂��ȁB<BR><BR>�ǂ�ł��邤����West����̖���u�e�v���v���o���܂����B�����悤�Ȑݒ�ł�����ˁB
+読んだバイ♪<BR>おお、「女の子として育てられた」お話ですな。<BR>これ、「彼女」の戸籍はどちらで登録されているのかな？<BR>中学も女の子で通ってるということは、戸籍から「女」なのかな。<BR>いずれにしても、まだ始まったばかり。続きが気になりますな。<BR><BR>読んでいるうちにWestさんの名作「Ｆ」を思い出しました。同じような設定でしたよね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>2002/01/05 20:34:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>匿名氏</strong>  <i>2002/01/05 20:34:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010230456ibnbtm&id2=1010168334sywtjkr&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010230456ibnbtm_id2_1010168334sywtjkr_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ����ǂ܂��Ă��������܂����B�L���ɂ͒j�̏ے�������̓��ɐ���������Ƃ������Ƃł��ˁB����Ȃ�ޏ�?���g�C���ɍs���V�[���ł�������������Ƃ���̐����������Ă��悩�����̂ł͂Ǝv���܂��B�Ȃ񂹒j�Ə��ł͎d�����Ⴄ�̂ł�����B<BR>�@�܁A�̓��ɐ�����������Ă��Ƃ͕��ʂ̒j�̎q�Ƃ͈���Ēj�������s���S�Œ◯�ΊۂŒj�̏ے������ɏ������ĔA�����牺���c�ɗ􂯂čL�����Ă��Ė��ɗ����Ȃ��Ă��Ƃ��l�����܂����B<BR>�@�ޏ�?���P�Ȃ鏗���Ȃ̂��������A�z�Ȃ̂��m�肽���ł��B�P�Ȃ鏗���Ȃ�TS����Ȃ��Ǝv���܂����B<BR>
+　どうも読ませていただきました。有香には男の象徴があり体内に精巣があるということですね。それなら彼女?がトイレに行くシーンでおしっこをするところの説明があってもよかったのではと思います。なんせ男と女では仕方が違うのですから。<BR>　ま、体内に精巣があるってことは普通の男の子とは違って男性化が不完全で停留睾丸で男の象徴も非常に小さくて尿道から下が縦に裂けて広がっていて役に立たないてことも考えられますが。<BR>　彼女?が単なる女装なのか仮性半陰陽なのか知りたいです。単なる女装ならTSじゃないと思いますし。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/01/06 00:57:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/01/06 00:57:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010246225ieljv&id2=1010168334sywtjkr&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010246225ieljv_id2_1010168334sywtjkr_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[Append3]�ւ̃R�����g<BR>���݁A���܂�ĊԂ��Ȃ��Ƃ�����z�������Ö@�������ꍇ�̃f�[�^�͂���܂���B<BR>�]���đz�����邵���Ȃ��̂ł����c�B<BR><BR>�u�̓��ɐ����v������A�u�������U�镑���͏��̎q�̂���v�ɂȂ��Ă���Ƃ���ƁA�u��V�I�j�����A�z�v�̉\������ł��B<BR>���ɁA�����Ŏ~�߂��ꍇ�A�̓��ɐ��z�����������\�͂��Ȃ����߁A����ł��܂��܂��B<BR>����āA���^�͈ꐶ�����邵������܂���B<BR><BR>���R�F�����z�������̓��^�ŁA���t�ł̐��Y�\�͂��~�܂邩��B
+[Append3]へのコメント<BR>現在、生まれて間もないときからホルモン療法をした場合のデータはありません。<BR>従って想像するしかないのですが…。<BR><BR>「体内に精巣」があり、「立ち居振る舞いは女の子のそれ」になっているとすると、「後天的男性半陰陽」の可能性が大です。<BR>仮に、ここで止めた場合、体内に性ホルモンを作る能力がないため、死んでしまいます。<BR>よって、投与は一生続けるしかありません。<BR><BR>理由：女性ホルモンの投与で、副腎での生産能力を止まるから。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/01/06 01:05:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/01/06 01:05:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010246747ijxsgbp&id2=1010168334sywtjkr&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010246747ijxsgbp_id2_1010168334sywtjkr_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���̎q���j�̎q�Ƃ��Ĉ�Ă��A�ْ�ɂ��{���݂�ׂ��p�̈�ĕ��ɖ߂邪�c�v<BR>�Ƃ����̂����ɂŌ������܂����B<BR>���̏ꍇ�̏󋵂͂s�r�Ɠ����ł��B<BR>�Ȃ��A�����ψ���ƒ�ٔ����̖�ڂ���������i�͊F���ł��B<BR><BR>�o�D�r�D����\�F<BR>��F���Y�\�͂��~�܂邩��B<BR>���F���Y�\�͂��~�܂邩��B
+「女の子が男の子として育てられ、裁定により本来在るべき姿の育て方に戻るが…」<BR>というのも文庫で見かけました。<BR>この場合の状況はＴＳと同じです。<BR>なお、民生委員や家庭裁判所の役目を書いた作品は皆無です。<BR><BR>Ｐ．Ｓ．正誤表：<BR>誤：生産能力を止まるから。<BR>正：生産能力が止まるから。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�䂤��</strong>  <i>2002/01/13 04:31:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ゆう☆</strong>  <i>2002/01/13 04:31:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010863886ntuclt&id2=1010168334sywtjkr&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010863886ntuclt_id2_1010168334sywtjkr_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �y���E���z �N�ł����`�@������������ĂĂق����Ǝv���Ă���̂́`�i�΁j<BR><BR>�킽���Ł[���B���͂́c�B<BR><BR>����͂��Ă����A�������납�����ł��B<BR>�������҂��Ă܂����I
+&gt; 【推薦文】 誰ですか～　自分もそう育ててほしいと思っているのは～（笑）<BR><BR>わたしでーす。あはは…。<BR><BR>それはさておき、おもしろかったです。<BR>続き期待してますっ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2002/01/14 01:49:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2002/01/14 01:49:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010940560kmmcd&id2=1010168334sywtjkr&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010940560kmmcd_id2_1010168334sywtjkr_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�����z�̂����W�S�Q�U����A����������A���Ȃ���A�䂤������A<BR>�������݂��肪�Ƃ��������܂��B<BR><BR>���_�����z�̂����W�S�Q�U����<BR><BR>������A�u�ޏ��v�̌ːЂ͂ǂ���œo�^����Ă���̂��ȁH<BR>���w�����̎q�Œʂ��Ă�Ƃ������Ƃ́A�ːЂ���u���v�Ȃ̂��ȁB<BR><BR>�ːЂł����[�B���́A�����܂œ������Ȃ������̂ŁA�ːЂ̐ݒ�͂܂����߂Ă��Ȃ������肵�܂��B<BR>�ł��A���������ꍇ�ːЂ����ɂȂ�̂��ȁ[�H<BR>���e�����Ƃ��Ĉ�ďグ����ɏ����z�������̒��˂܂őł��Ă܂�����ˁ[�B<BR>������ւ�̐ݒ�́A�����Ȃ�ɍl���Ă���A�̂��ɖ{�ғ��ł��̂��Ƃ��o���Ǝv���܂��B<BR><BR>���ǂ�ł��邤����West����̖���u�e�v���v���o���܂����B�����悤�Ȑݒ�ł�����ˁB <BR><BR>�u�e�v�ł����[�B�s�E�g���ǂ�ł݂܂����B<BR>���́A�u�e�v��ǂ񂾂̂����������ł��������b�����Ă݂Ă����肵�܂�(�΁j<BR>�m�����ɂ̕��ɂ�2�͂܂ł������̂ŁA�����ǂ݂����Ǝv���Ă��܂��āc���e�������\�O�Ȃ̂Łc�������o�Ȃ��Ǝv���Ă��܂������A��1�a�a�r��West����̏������݂̂Ƃ���URL����Ƃ񂾂炻�̃y�[�W�Ȃ���F�̑���(�Ƃ������S���j������܂����ˁ`�I<BR>����`�A�悩�����ł��B����ɎQ�l�ɂ����Ă��炢�܂����B(�����West����ց@�p�N��Ƃ�������͂���܂���̂Łj<BR><BR>������������  <BR><BR>���ޏ�?���P�Ȃ鏗���Ȃ̂��������A�z�Ȃ̂��m�肽���ł��B�P�Ȃ鏗���Ȃ�TS����Ȃ��Ǝv���܂����B<BR><BR>����͂ł��ˁA���X�͖{���̒j�̎q(���Ȃ��Ƃ����ʂɈ�Ă��Ă���΂����Ƃ����j�̎q�������j�����ǁA�e�̂��߂ɂ��傤���Ȃ����̐U������Ă���Ƃ̂��ƂȂ̂ŁA�ꉞ�����Ȃ̂��Ǝv���܂��B��Ҏ��g�����͂悭�͂킩���Ă��܂���(^^;<BR>�ł��A��2�͂ł�TS���镔�����o�Ă��܂��̂ł��S�z�Ȃ��I(�ʂɐS�z�͂��Ă��Ȃ��H�j<BR><BR>�����Ȃ���<BR><BR>���u�̓��ɐ����v������A�u�������U�镑���͏��̎q�̂���v�ɂȂ��Ă���Ƃ���ƁA�u��V�I�j�����A�z�v�̉\������ł��B<BR>���ɁA�����Ŏ~�߂��ꍇ�A�̓��ɐ��z�����������\�͂��Ȃ����߁A����ł��܂��܂��B<BR>����āA���^�͈ꐶ�����邵������܂���B<BR><BR>�A�y���h�R�ւƏ����Ă���܂����A�s�E�g��������X���Ă����܂��B<BR>�s�E�g�͒�3�Ȃ̂ŁA��l�̕��Ɣ�ׂĐF�X�킩��Ȃ����Ƃ������̂ŁA���ۂ������Ƃ����玀��ł��܂��Ƃ����悤�Ȃ��Ƃ͂킩��Ȃ������̂ł��̂悤�Ȑݒ�ɂ��Ă���܂����A�Ƃ肠�������ۂ͂�����������܂��񂪁A���̘b���ł͎�l���͎��ȂȂ��Ƃ����ݒ�ɂ����Ă��炢�܂��B<BR>�Ȃ񂾂������Ɖˋ����������ɂ��Ă��܂��Ă���݂����ł��݂܂���B<BR><BR>���䂤������<BR><BR>��&gt; �y���E���z �N�ł����`�@������������ĂĂق����Ǝv���Ă���̂́`�i�΁j<BR>��<BR>���킽���Ł[���B���͂́c�B<BR><BR>���͂s�E�g���Ł`��(�΁j<BR>�܂��s�E�g�����������������Ƃ��l���Ă����̂ł��̍�i���d�オ�����̂��Ǝv���Ă���܂��B<BR><BR>�����̕��́A�����e�ł��邩�͂��܂̂Ƃ���킩��܂���ł��B<BR>�w�����D���Ȑl�x��w�G���G�������̓���x��w���̍��̋L���x�̕����ɓ��e���邩������܂��񂵁A�w��̕ω��x�̕����悩������܂��񂵁B���`��A��i�r���Ŏ~�܂����܂ܐV�����b�o���Ă��܂��Ă���̂ŁA�������̍�i���Ɋ��������邩������܂���B�Ȃ̂ŁA���̍�i�Ɏ��|����Ȃǂ̗��R�̏�ŁA�����͂����e�ł��邩�͂킩��܂��񂪁A��낵����΁A�C���ɑ҂��Ă���������΂Ǝv���Ă���܂��B<BR><BR>P.S�@�����A���̍�i�΂����肪���Ă��ĂȂ��Ȃ����e�ł��Ȃ��悤�Ȃ�A������x�r���܂ł��2BBS�ɍڂ��Ƃ����Ƃ͎v���Ă���܂��B
+神速感想のｍｋ８４２６さん、匿名氏さん、すなさん、ゆう☆さん、<BR>書き込みありがとうございます。<BR><BR>＞神速感想のｍｋ８４２６さん<BR><BR>＞これ、「彼女」の戸籍はどちらで登録されているのかな？<BR>中学も女の子で通ってるということは、戸籍から「女」なのかな。<BR><BR>戸籍ですかー。実は、そこまで頭が回らなかったので、戸籍の設定はまだ決めていなかったりします。<BR>でも、こういう場合戸籍も女になるのかなー？<BR>両親も女として育て上げた上に女性ホルモンの注射まで打ってますからねー。<BR>そこらへんの設定は、自分なりに考えてから、のちに本編内でそのことを出すと思います。<BR><BR>＞読んでいるうちにWestさんの名作「Ｆ」を思い出しました。同じような設定でしたよね。 <BR><BR>「Ｆ」ですかー。Ｔ・Ｈも読んでみました。<BR>実は、「Ｆ」を読んだのがきっかけでこういう話かいてみていたりします(笑）<BR>確か文庫の方には2章までだったので、続き読みたいと思っていまして…投稿日も結構前なので…続きが出ないと思っていましたが、第1ＢＢＳのWestさんの書き込みのとこのURLからとんだらそのページないにFの続き(というか全部）がありましたね～！<BR>いや～、よかったです。勝手に参考にさせてもらいました。(それとWestさんへ　パクるというつもりはありませんので）<BR><BR>＞匿名氏さん  <BR><BR>＞彼女?が単なる女装なのか仮性半陰陽なのか知りたいです。単なる女装ならTSじゃないと思いますし。<BR><BR>これはですね、元々は本当の男の子(少なくとも普通に育てられていればちゃんとした男の子だった）だけど、親のためにしょうがなく女の振りをしているとのことなので、一応女装なのだと思います。作者自身も実はよくはわかっていませんが(^^;<BR>でも、第2章ではTSする部分が出てきますのでご心配なく！(別に心配はしていない？）<BR><BR>＞すなさん<BR><BR>＞「体内に精巣」があり、「立ち居振る舞いは女の子のそれ」になっているとすると、「後天的男性半陰陽」の可能性が大です。<BR>仮に、ここで止めた場合、体内に性ホルモンを作る能力がないため、死んでしまいます。<BR>よって、投与は一生続けるしかありません。<BR><BR>アペンド３へと書いてありますが、Ｔ・Ｈからもレスしておきます。<BR>Ｔ・Ｈは中3なので、大人の方と比べて色々わからないことも多いので、実際だったとしたら死んでしまうというようなことはわからなかったのでこのような設定にしてありますが、とりあえず実際はそうかもしれませんが、この話内では主人公は死なないという設定にさせてもらいます。<BR>なんだか現実と架空をごっちゃにしてしまっているみたいですみません。<BR><BR>＞ゆう☆さん<BR><BR>＞&gt; 【推薦文】 誰ですか～　自分もそう育ててほしいと思っているのは～（笑）<BR>＞<BR>＞わたしでーす。あはは…。<BR><BR>実はＴ・Ｈもで～す(笑）<BR>まあＴ・Ｈも少しこういうことを考えていたのでこの作品が仕上がったのだと思っております。<BR><BR>続きの方は、いつ投稿できるかはいまのところわかりませんです。<BR>『俺が好きな人』や『萌え萌え少女の日常』や『あの頃の記憶』の方を先に投稿するかもしれませんし、『状体変化』の方が先かもしれませんし。う～ん、作品途中で止まったまま新しい話出してしまっているので、いくつかの作品を先に完結させるかもしれません。なので、他の作品に取り掛かるなどの理由の上で、続きはいつ投稿できるかはわかりませんが、よろしければ、気長に待っていただければと思っております。<BR><BR>P.S　もし、他の作品ばっか手がけていてなかなか投稿できないようなら、ある程度途中までを第2BBSに載せとこうとは思っております。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1010168334sywtjkr">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

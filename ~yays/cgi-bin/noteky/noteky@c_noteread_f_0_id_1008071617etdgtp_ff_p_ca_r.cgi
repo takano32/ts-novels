@@ -1,405 +1,405 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1008071617etdgtp&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1008071617etdgtp_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">��Ζ��G�I�H�@���E��������</font><br>
+<font size="+2" color="#0000FF">絶対無敵！？　世界征服私隊</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2001/12/11 20:53:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2001/12/11 20:53:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008071617etdgtp&id2=1008071617etdgtp&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008071617etdgtp_id2_1008071617etdgtp_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200109/19041522/conquest.htm" target="_blank">��i������ɂ͂������N���b�N�B</a></strong>  <i>2001/12/12 20:46:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200109/19041522/conquest.htm" target="_blank">作品を見るにはここをクリック。</a></strong>  <i>2001/12/12 20:46:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008157593kgexnyk&id2=1008071617etdgtp&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008157593kgexnyk_id2_1008071617etdgtp_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���̍��΂��Ɛ��`�̗Y���т��������A�����āu�����v������̂́c�c�B<BR>�@��D���n���낳��̃h�^�o�^�R���f�C�B�������R���r�i�H�j���������o���Ă���܂��B
+【推薦文】悪の高笑いと正義の雄叫びが交差し、そして「泣き」を見るのは……。<BR>　絶好調地駆鴉さんのドタバタコメデイ。美少女コンビ（？）がいい味出しております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g��d��</strong>  <i>2001/12/12 21:58:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>吉井重治</strong>  <i>2001/12/12 21:58:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008161889vcppcbn&id2=1008071617etdgtp&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008161889vcppcbn_id2_1008071617etdgtp_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B�ǂ��ł��B��͂舫�̑g�D�̓`�[�v�Ɍ���I�i�΂��j<BR>�����A�ڂɂȂ�Ζ���u���`�̖����v���ւ��O�㖢���́u�_�[�N�q���C���H�v�����ɂȂ�܂��ˁB
+読みました。良いです。やはり悪の組織はチープに限る！（笑い）<BR>もし連載になれば毎回「正義の味方」が替わる前代未聞の「ダークヒロイン？」小説になりますね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/12 22:56:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/12 22:56:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008165394emlaob&id2=1008071617etdgtp&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008165394emlaob_id2_1008071617etdgtp_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́I�ō��ł��ˁB<BR>���[�i�����A�v�����؂�}�C�y�[�X�����B<BR>�ɂ��ނ炭�͐��炭��̏��̎q���O���Ȃ��������Ƃ��ȁi���j�B<BR>����ς���͑��҂��K�v�ł��傤�i�΁j�B
+読んだバイ♪<BR>わっはっは！最高ですね。<BR>リーナちゃん、思いっ切りマイペースだし。<BR>惜しむらくは正也くんの女の子名前がなかったことかな（爆）。<BR>やっぱこれは続編が必要でしょう（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>H/Q</strong>  <i>2001/12/12 23:39:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008167979trkji&id2=1008071617etdgtp&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008167979trkji_id2_1008071617etdgtp_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v���Ԃ�Ɋ��z�������悤�ȁE�E�E<BR>�՘b�x��<BR>�Z�߂Γs�̃R�X���X䵂̂悤�ȁA�Ԕ����Ȉ��l�Ƀq�[���[�B<BR>����ȁA�Ԕ����Șb���͑�D���ł��B<BR>�R���ŏI���ƌ����̂����X�₵�����̂�����܂��̂ŁA<BR>�����A��������̂ł�����撣���ė~�����Ƃ���ł��ˁB
+久方ぶりに感想を書くような・・・<BR>閑話休題<BR>住めば都のコスモス莊のような、間抜けな悪人にヒーロー。<BR>こんな、間抜けな話しは大好きです。<BR>コレで終わりと言うのも少々寂しいものがありますので、<BR>もし、続けられるのでしたら頑張って欲しいところですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/13 01:17:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/13 01:17:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008173830euleaw&id2=1008071617etdgtp&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008173830euleaw_id2_1008071617etdgtp_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂܂��A�����Z��̂悤�ȑg�D�i�΁j<BR>�g�D�͂�������l�A���[�i���ۂ�Ƃ���̂݁B<BR>���̎q�̐g�̂ƃJ�v�Z�������������璸�Ղ��āc<BR>���̏�ւ���Ă����u���炭��v�������֕��荞�ށB<BR><BR>���̃R���r�A�u���D�v�̈��ɂ��܂��B<BR>�c�u����ꂨ�P�l�v�Ɂu��������l�������Ȃ����̑g�D�v�c�B<BR><BR>�u�ۂ�ۂ����ʂ�����v�́A���ꂶ�Ⴀ�u�D�`�̑g�D�v�����i���j<BR>�u���`�̖����v�ւ̕s�ӑł��Ɏ����ẮA������Ɖ��z�ȁc�B<BR><BR>�c�Ƃ���Łu���̎q�̎����v�͎��̂Ƃ������ƂɂȂ��Ă��܂����A<BR>���̏ꍇ�́u�Y��Ȏ��́v�̊m���́A����Ȃ��󏭂ȋC������c�B<BR>
+これはまた、文化住宅のような組織（笑）<BR>組織はたった一人、リーナがぽつんとあるのみ。<BR>女の子の身体とカプセルを何処かから頂戴して…<BR>その場へやってきた「正也くん」をそこへ放り込む。<BR><BR>このコンビ、「哀愁」の一語につきます。<BR>…「囚われお姫様」に「たった一人しかいない悪の組織」…。<BR><BR>「ぽんぽこたぬきさん」は、これじゃあ「灰汁の組織」だし（爆）<BR>「正義の味方」への不意打ちに至っては、ちょっと可哀想な…。<BR><BR>…ところで「女の子の死因」は事故ということになっていますが、<BR>その場合の「綺麗な死体」の確率は、限りなく希少な気がする…。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�X�e�C����</strong>  <i>2001/12/13 01:20:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ステイメン</strong>  <i>2001/12/13 01:20:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008174015bimyse&id2=1008071617etdgtp&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008174015bimyse_id2_1008071617etdgtp_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӁE�E�E�ʔ������Đ��I���Ȃ����B<BR>�Ƃ肠�����A���Ҋ�]���Ƃ��܂����ǁB<BR>�ł��L�̘b��d���̘b�������ǂ݂�������Ȃ��`(��)<BR>���Ȃ݂Ɏ��͒ʂ肷����̂����̃X�e�C�����B<BR>�����Ăǂ����̋��_�h�q�p�ł͂���܂���E�E�E�ł́B<BR>
+ふ・・・面白すぎて絶句！ぞなもし。<BR>とりあえず、続編希望しときますけど。<BR>でも猫の話や妖精の話も早く読みたいからなあ～(笑)<BR>ちなみに私は通りすがりのただのステイメン。<BR>決してどこかの拠点防衛用ではありません・・・では。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/12/13 03:15:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/12/13 03:15:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008180905aeius&id2=1008071617etdgtp&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008180905aeius_id2_1008071617etdgtp_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̌䊴�z�A�F�l���肪�Ƃ��������܂��B<BR>���g��d���l<BR>�@�u�w����m�v�̍�җl�ɖJ�߂���Ƃ͊����ł��B<BR>�@���`�̖������ւ��c�c�l�^���s���Ȃ�����Ƃ������Ђ������ł��ˁi�΁j�B<BR>���_�����z�̂����W�S�Q�U�l<BR>�@����̏��̎q���O�́A�̂ɂȂ������̎q�̖��O������܂��B<BR>�@�ł����A����͏o���Ƃ�₱�����Ȃ肻���������̂ł����ď����܂���ł����B�ꉞ�A��b�����ł����̂Łc�c�B<BR>��H/Q�l<BR>�@�Z�߂Γs�̃R�X���X���c�c�H�@�����o���͂���悤�ȋC�͂���̂ł����c�c�B<BR>�@�Ԕ����ł����B���肪�Ƃ��������܂��i�΁j�B<BR>�@�b�S�̂̃e���V���������������Ƃ��v�����̂ł����A���Ƃ��Ȃ��Ă���悤�Ńz�b�Ƃ��Ă܂��B<BR>�����Ȃ���l<BR>�@���D�̃R���r�c�c�m���ɂ����ł��ˁB���ꂩ��ǂ�����ƌ����̂ł��傤�H�@���̓�l�i�΁j�B<BR>�@���z�c�c������ƃ`�F�c�c��̃i�C�t�͎~�߂Ƃ��������������Ƃ��l�����̂ł����A<BR>�@�ǂ����Ă��g�_���܁h�Ɓg�`�F�[���\�[�h�Ƃ����l�^�������������̂ł��B<BR>�@����͂����ЂƂA�Ӑ}���ē��ꂽ�p���f�B�I���l�^�ł��B<BR>�@�Y��Ȏ��̂ł����A����͌�ʎ��̂ɑ��������̎q�̉���������Ă���̂ł��B<BR>�@�ł�����A���܂�����j������Ă�����������܂���B<BR>�@�ł����A���[�i�̕��e���i���񂾁j�Đ����u�ɂ���ĉ�����������̂ŁA�Y��ȑ̂ƂȂ��Ă���킯�ł��B<BR>���f�c�c���Ƃ��A�X�e�C�����l<BR>�@�L�̘b��d���̘b�������܂���B�ł�������Ƃ���Ȃ��̂����������Ȃ���������肵�āc�c�i�΁j�B<BR><BR>���҂���]���Ă������肠�肪�Ƃ��������܂��B<BR>���̘b�̃A�C�f�A�́u�X�p���{�v����ł��B����ƁA���q���Y���̏��ƍ�i�u�l�̌����z��Ȃ��Łv��ǂ�ł��鎞�Ɏv�����܂����B���̂��߁A���͎͂v��������u�l�̌��`�v�̉e�����󂯂Ă��܂��B�Ƃ������͐^���Ƃ����Ă����ł��B<BR>�ł��̂ŁA��������Ɍ����������������̂ł����A�p�m�炸�ɂ����҂����������Ǝv���܂��B<BR>�����A���̘b�����M����K�v�e���V�����͐q�킶�Ⴀ��܂���̂ŁA���ɂȂ邩�͂킩��܂���i�΁j�B<BR>����ł́A�ǂ�ł�������A�܂��䊴�z�܂ł������肠�肪�Ƃ��������܂��B���ꂩ�����낵�����肢�v���܂��B
+早速の御感想、皆様ありがとうございます。<BR>＞吉井重治様<BR>　「学園戦士」の作者様に褒められるとは感激です。<BR>　正義の味方が替わる……ネタが尽きない限りとっかえひっかえですね（笑）。<BR>＞神速感想のｍｋ８４２６様<BR>　正也の女の子名前は、体になった女の子の名前があります。<BR>　ですが、今回は出すとややこしくなりそうだったのであえて書きませんでした。一応、一話完結でしたので……。<BR>＞H/Q様<BR>　住めば都のコスモス荘……？　聞き覚えはあるような気はするのですが……。<BR>　間抜けですか。ありがとうございます（笑）。<BR>　話全体のテンションが高すぎかとも思ったのですが、何とかなっているようでホッとしてます。<BR>＞すなさん様<BR>　哀愁のコンビ……確かにそうですね。これからどうすると言うのでしょう？　この二人（笑）。<BR>　可哀想……ちょっとチェ……銀のナイフは止めといた方がいいかとも考えたのですが、<BR>　どうしても“神さま”と“チェーンソー”というネタをしたかったのです。<BR>　これはただひとつ、意図して入れたパロディ的小ネタです。<BR>　綺麗な死体ですが、これは交通事故に遭った女の子の怪我を治しているのです。<BR>　ですから、骨折や内臓破裂もしていたかもしれません。<BR>　ですが、リーナの父親が（盗んだ）再生装置によって怪我を治したので、綺麗な体となっているわけです。<BR>＞デ……もとい、ステイメン様<BR>　猫の話や妖精の話も書きますよ。でもちょっとこんなものが書きたくなっちゃったりして……（笑）。<BR><BR>続編を希望してくださりありがとうございます。<BR>この話のアイデアは「スパロボ」からです。それと、阿智太郎氏の商業作品「僕の血を吸わないで」を読んでいる時に思いつきました。そのため、文章は思いっきり「僕の血～」の影響を受けています。というよりは真似といっていいです。<BR>ですので、送った後に後悔をしたりもしたのですが、恥知らずにも続編を書こうかと思います。<BR>ただ、この話を執筆する必要テンションは尋常じゃありませんので、いつになるかはわかりません（笑）。<BR>それでは、読んでくださり、また御感想までくださりありがとうございます。これからもよろしくお願い致します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/12/13 06:19:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2001/12/13 06:19:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008191954jxcwvg&id2=1008071617etdgtp&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008191954jxcwvg_id2_1008071617etdgtp_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂͂��Ȃ���������ǁA�ɂ�ɂ�΂����~�܂�Ȃ��ǂ݉����ł����B<BR><BR>&gt; ���̘b�����M����K�v�e���V�����͐q�킶�Ⴀ��܂���̂� <BR><BR>�ł��傤�˂��`�B���Ȃ葼��i�Ƃ͕K�v�G�l���M�[���Ⴄ�ł��傤�ˁB�Ȃ��Ȃ������Â炢�Ǝv���܂����A���X�A�����Ă�������<BR>���ꂩ��A�V���[�Y������Ȃ�A���E���������Ɠ����x���Ȑ��`�̖��������C�o���ɂ���ƁA�l�^�ɍ���Ȃ������m��Ȃ��Ǝv���܂����B
+爆笑はしなかったけれど、にやにや笑いが止まらない読み応えでした。<BR><BR>&gt; この話を執筆する必要テンションは尋常じゃありませんので <BR><BR>でしょうねえ～。かなり他作品とは必要エネルギーが違うでしょうね。なかなか書きづらいと思いますが、時々、書いてください<BR>それから、シリーズ化するなら、世界征服私隊と同レベルな正義の味方をライバルにすると、ネタに困らないかも知れないと思いました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/12/14 01:52:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/12/14 01:52:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008262332qelvhfj&id2=1008071617etdgtp&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008262332qelvhfj_id2_1008071617etdgtp_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W���[�W���b�h�l�A�䊴�z���肪�Ƃ��������܂��B<BR>�΂��Ē�����Ί������ł��B�ȂɂԂ�A�A�z�炵���b�ł��̂Łi�΁j�B<BR>���C�o���c�c�ł����B���҂�����Ɠ����悤�ɁA�����Łg���h�Ƃ��Ƃ��悤�ɂ������̂ŁA�͂�����Ƃ������C�o���͑����o���Ȃ��Ǝv���܂��B<BR>���X�c�c�͂��A���X�����܂��B�Ƃ肠�����e���V�����̓e���V�����̍����b������Ώオ��܂��̂ŁA�l�^�������񂾂�ڂ��ڂ��Ɓc�c�i�΁j�B<BR>�Ƃ������āA���̘b�̃l�^�͂���������ł܂����i�΁j�B<BR>�Ƃ肠������Ɂu��ǔL�v�������Ȃ��Ƃ����܂���ˁB
+ジャージレッド様、御感想ありがとうございます。<BR>笑って頂ければ嬉しいです。なにぶん、アホらしい話ですので（笑）。<BR>ライバル……ですか。続編も今回と同じように、そこで“完”ともとれるようにしたいので、はっきりとしたライバルは多分出さないと思います。<BR>時々……はい、時々書きます。とりあえずテンションはテンションの高い話を見れば上がりますので、ネタが浮かんだらぼちぼちと……（笑）。<BR>とか言って、次の話のネタはもう浮かんでますが（笑）。<BR>とりあえず先に「野良猫」を書かないといけませんね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2001/12/15 05:17:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2001/12/15 05:17:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008361036lxxah&id2=1008071617etdgtp&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008361036lxxah_id2_1008071617etdgtp_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�n���낳�񂪂ƂĂ��Ȃ������ōI���Ȃ��Ă����`�B<BR><BR>������Ǝ��肵�������̂���M���O���΂����ł��B���ƍŌ�̈ꌾ���B<BR><BR>�f�[�g�̑���ɂȂ�͂��������ޏ������͈��̑g�D�̉ߌ��ȏ������ŁA<BR>���̂��΂�ė��؂�҈������ꂽ������Ɏv��������<BR>���C�o��������Ă��܂��c�c�݂����ȑ��Ҋ�]�����B
+地駆鴉さんがとてつもない勢いで巧くなっていく～。<BR><BR>きちんと手作りした感じのするギャグが可笑しいです。あと最後の一言も。<BR><BR>デートの相手になるはずだった彼女も実は悪の組織の過激な女幹部で、<BR>正体がばれて裏切り者扱いされた挙げ句に思いっきり<BR>ライバル視されてしまう……みたいな続編希望っす。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2001/12/15 20:39:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2001/12/15 20:39:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008416360ajkys&id2=1008071617etdgtp&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008416360ajkys_id2_1008071617etdgtp_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �n���낳�񂪂ƂĂ��Ȃ������ōI���Ȃ��Ă����`�B<BR><BR>���`�����v���Ă��̎���������Ȃ�������ł��ˁB<BR>�Ǐ��I�ȃe�N�j�b�N�����邱�ƂȂ���A�̐S�̃X�g�[���[�e�����O����肭�Ȃ��Ă�Ǝv���܂��B�������B<BR>����̍�i�A���̔�������D�����q�Ȏ��Ƃ��Ă͊��\�����Ă��������܂����B<BR>�����������܂ł��I
+&gt; 地駆鴉さんがとてつもない勢いで巧くなっていく～。<BR><BR>あ～そう思ってたの私だけじゃなかったんですね。<BR>局所的なテクニックもさることながら、肝心のストーリーテリングが上手くなってると思います。すごい。<BR>今回の作品、悪の美少女大好きっ子な私としては堪能させていただきました。<BR>ごちそうさまです！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/12/16 03:34:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/12/16 03:34:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008441289hfmaaaf&id2=1008071617etdgtp&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008441289hfmaaaf_id2_1008071617etdgtp_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ŉ���������Ɍ䊴�z�܂ŉ����肠�肪�Ƃ��������܂��B<BR>���Ē×l<BR>�@�I���Ȃ��āc�c���܂����B���肪�Ƃ��������܂��B�������ł��I�@���Ǌ��������ʁA���������ł��i��΁j�B<BR>�@����̃M���O�ł����B�����ł��ˁB�����͐�w�Ȃ̂Ńp���f�B���ł���قǒm��������܂���B<BR>�@�����ɂ���ƃl�^���΂��Ă��܂��܂��B�Ȃ̂ŁA����̓��E�ł��i�΁j�B<BR>�@�Ō�̈ꌾ�Ƃ����ƁA�w���̑g�D�͐l�̖��f�`�x�̕����ł��ˁB���肫���肩�ȂƂ��v���܂������A���������Ē����ėǂ������ł��B<BR>�@�f�[�g�̑���c�c�Ȃ�قǁA���R�ƍl���Ă��܂������A����͂����ł��ˁB<BR>�@���������R�ƍl���Ă���񗗔̘b�Ɨ��܂��Ă݂悤���Ǝv���܂��B�����A�����ɂ͂Ȃ�Ȃ����Ɓc�c���݂܂���B<BR>�@���Ȃ݂ɁA�ԉB��؁A���O����ǂ������L�������\�z������������܂���ˁB<BR>�����d�F�l<BR>�@�J�߂Ă��������Ă��肪�Ƃ��������܂��B����͂�A�{���Ɋ������ł��B<BR>�@�ł��A���ɃX�g�[���[�g�ݗ��ĂȂǂ͋C�ɂ��ĂȂ��̂ŁA�e���V�����ɏ���ď������܂��ꓖ���肩���c�c���i���܂��I<BR>�@�T�[�r�X�V�[�������Ȃ������悤�ȋC�����܂����A���ł���ėǂ������ł��B<BR>��H/Q�l<BR>�@�u�Z�߂Γs�̃R�X���X���v�A�{���Ŕ������܂����B���q���Y���̍�i�������̂ł��ˁB<BR>�@�܂��ǂ�ł��܂��񂪁A���̍�Ƃ���ł��̂悤�Șb�Ȃ�A����͂قƂ�ǃp�N���ł��ˁB<BR>�@�{���ɒm��Ȃ������̂ŁA�ǂ������e�͉������B
+読んで下さった上に御感想まで下さりありがとうございます。<BR>＞米津様<BR>　巧くなって……いますか。ありがとうございます。嬉しいです！　けど嬉しい反面、次が恐いです（苦笑）。<BR>　手作りのギャグですか。そうですね。自分は浅学なのでパロディができるほど知識がありません。<BR>　無理にするとネタが偏ってしまいます。なので、手作りの内職です（笑）。<BR>　最後の一言というと、『悪の組織は人の迷惑～』の部分ですね。ありきたりかなとも思いましたが、そう言って頂けて良かったです。<BR>　デートの相手……なるほど、漠然と考えていましたが、それはいいですね。<BR>　同じく漠然と考えている回覧板の話と絡ませてみようかと思います。ただ、幹部にはならないかと……すみません。<BR>　ちなみに、花隠鈴華、名前からどういうキャラか予想がつくかもしれませんね。<BR>＞八重洲様<BR>　褒めてくださってありがとうございます。いやはや、本当に嬉しいです。<BR>　でも、特にストーリー組み立てなどは気にしてないので、テンションに乗って書いたまぐれ当たりかも……精進します！<BR>　サービスシーンが少なかったような気もしますが、喜んでくれて良かったです。<BR>＞H/Q様<BR>　「住めば都のコスモス荘」、本屋で発見しました。阿智太郎氏の作品だったのですね。<BR>　まだ読んでいませんが、この作家さんでこのような話なら、今作はほとんどパクリですね。<BR>　本当に知らなかったので、どうかご容赦下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>H/Q</strong>  <i>2001/12/16 23:52:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008514334qvvwpta&id2=1008071617etdgtp&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008514334qvvwpta_id2_1008071617etdgtp_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂��ǂ�ł��܂��񂪁A���̍�Ƃ���ł��̂悤�Șb�Ȃ�A����͂ف��Ƃ�ǃp�N���ł��ˁB�@�{���ɒm��Ȃ������̂ŁA�ǂ������e�͉��������B <BR>�@����A�ӂ߂Ă���킯�ł͂Ȃ��̂ł����ˁi��΁j�B<BR>�m��Ȃ������̂Ȃ�A�p�N���ɂ͂Ȃ�Ȃ��Ƃ͖����Ǝv���܂���B<BR>���́A���V��i�r�e��ƁA���C���̓V���[�g�V���[�g�j�����i�p�N�b���j���̐悪��������Ȃ�{�����ƌ��������e�̎����A�ǂ����i�m���V���[�g�V���[�g�̍L��̉����ڂ��������j�̂��Ƃ����ɏ����Ă������������悤�ȋC�����邵�B�d�v�Ȃ̂͂��ꂩ��ł���B<BR>�ƁA�����킯�ŁA�������撣���Ă��������B���A���Ȃ݂ɁA���q���Y��i��ǂ�ł���������l�Ȃ̂ŁA�u�Ԕ����v�Ă΂������܂������A�������̂Ƃ���A�_�ߌ��t�̈Ӗ��Ŏg��������Ȃ̂ŁA�C�����Q���ꂽ�Ȃ�X�~�}�Z���B
+＞まだ読んでいませんが、この作家さんでこのような話なら、今作はほ＞とんどパクリですね。　本当に知らなかったので、どうかご容赦下さ＞い。 <BR>　いや、責めているわけではないのですがね（苦笑）。<BR>知らなかったのなら、パクリにはならないとは無いと思いますよ。<BR>かの、星新一（ＳＦ作家、メインはショートショート）御大も（パクッた）その先が続けられるなら本物だと言った内容の事を、どっか（確かショートショートの広場の何巻目だったか）のあとがきに書いていらっしゃったような気もするし。重要なのはこれからですよ。<BR>と、いうわけで、次回作も頑張ってください。あ、ちなみに、阿智太郎作品を読んでいらっしゃる様なので、「間抜け」呼ばわりをしましたが、ご存じのとおり、誉め言葉の意味で使ったつもりなので、気分を害されたならスミマセン。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�@</strong>  <i>2001/12/18 23:19:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>　</strong>  <i>2001/12/18 23:19:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008685175phfpc&id2=1008071617etdgtp&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008685175phfpc_id2_1008071617etdgtp_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Ζ��G�I�H�@���E���������z<BR>�����납�����ł���`��<BR>2�b��]�ł�(^O^)
+【絶対無敵！？　世界征服私隊】<BR>おもろかったですよ～♪<BR>2話希望です(^O^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/12/19 01:52:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/12/19 01:52:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008694345vlcjosq&id2=1008071617etdgtp&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008694345vlcjosq_id2_1008071617etdgtp_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��H/Q�l<BR>�@�d�v�Ȃ̂͂��ꂩ��c�c�ł����B�C�����������ɏ��������Ȃ̂ŁA�����܂ő����܂����ǂ����c�c�B<BR>�@�͂��A�u�Ԕ����v�͖J�ߌ��t���ƍl���Ă���܂��B�j��ō��̖J�ߌ��t�ł��i�΁j�B<BR>���@�i�X�y�[�X�H�j�l<BR>�@�ǂ�ł�����������Ɍ䊴�z���肪�Ƃ��������܂��B<BR>�@�Y�o���A��b�͏����܂���I�@�c�c�ł������͏����܂��B<BR>�@���ł��I������Ǝ󂯎���悤�Șb�̏��������������̂ŁA��b�O�b�Ƃ����������͂��܂���B<BR>�@�u�`�ҁv�Ƃ����ӂ��ɂ��悤���ƍl���Ă��܂��B<BR><BR>�悤�₭�u��ǔL��l�b�v�������I�����̂ŁA������ƕʂg�o�ւ̒Z���b�������Ă��炱�̘b�̑������i���Ԃ�j�����܂��B<BR>����ł͖��ӔC�Ɏ���\����c�c�B<BR><BR>���E������������\��<BR>�����ƂȂ�������͂������Ȃ������̉ƂɏZ�ގ��ɂȂ����B���������̍��A���ɂ��̒j���h��c�c�B<BR>����u�����ҁv�@�����炵�������܂��I
+＞H/Q様<BR>　重要なのはこれから……ですか。気が向いた時に書くだけなので、そこまで続けますかどうか……。<BR>　はい、「間抜け」は褒め言葉だと考えております。史上最高の褒め言葉です（笑）。<BR>＞　（スペース？）様<BR>　読んでくださった上に御感想ありがとうございます。<BR>　ズバリ、二話は書きません！　……でも続きは書きます。<BR>　いつでも終わったと受け取れるような話の書き方をしたいので、二話三話という数え方はしません。<BR>　「～編」というふうにしようかと考えています。<BR><BR>ようやく「野良猫第四話」を書き終えたので、ちょっと別ＨＰへの短い話を書いてからこの話の続きを（たぶん）書きます。<BR>それでは無責任に次回予定を……。<BR><BR>世界征服私隊次回予定<BR>少女となった正也はしかたなく少女の家に住む事になった。しかしその頃、ついにあの男が蘇る……。<BR>次回「復活編」　阿呆らしくいきます！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2001/12/22 09:24:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2001/12/22 09:24:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008980683mclfv&id2=1008071617etdgtp&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008980683mclfv_id2_1008071617etdgtp_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂������i�΁j<BR>�߂����������������B<BR><BR>����D���ł��搢�E�������B<BR>���́u���������Ƃ���R�c�R�c�Ɓv�I�X�^�C���B<BR>�����Ŏv�����B<BR>����ϐe�����񌒍݂̍����āA�u�M������荂����ʔ�v��������ł��傤���H<BR>���āA�����u�g�{���Ɓv�ł��ˁB<BR><BR>���b�A�y���݂ɑ҂��Ă܂��B
+読みましたぁ（笑）<BR>めっさいい感じっす。<BR><BR>いや好きですよ世界征服童。<BR>あの「小さいことからコツコツと」的スタイル。<BR>そこで思った。<BR>やっぱ親父さん健在の頃って、「ギャラより高い交通費」だったんでしょうか？<BR>って、そりゃ「吉本興業」ですね。<BR><BR>第二話、楽しみに待ってます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/12/23 13:10:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/12/23 13:10:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009080614lurija&id2=1008071617etdgtp&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009080614lurija_id2_1008071617etdgtp_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������l�A�ǂ�ŉ�����A�܂��A�䊴�z�܂ŉ����肠�肪�Ƃ��������܂��B<BR>�R�c�R�c�c�c���ƂȂ��A�g�n���h�Ƃ����̂��D���Ȃ̂ŁA�����Ȃ�܂����i�΁j�B<BR>�M�������`�c�c�g�{���Ƃ͂�����Ƃ킩��܂���B���݂܂���B<BR>���b�́c�c�Ƃ����������͌��ݎ��M���ł��B���N���ɂ͉��Ƃ��Ȃ�܂��B
+もぐたん様、読んで下さり、また、御感想まで下さりありがとうございます。<BR>コツコツ……何となく、“地道”というのが好きなので、こうなりました（笑）。<BR>ギャラより～……吉本興業はちょっとわかりません。すみません。<BR>第二話は……というか続きは現在執筆中です。今年中には何とかなります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2001/12/24 11:28:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2001/12/24 11:28:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009160917mhdycew&id2=1008071617etdgtp&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009160917mhdycew_id2_1008071617etdgtp_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������낢�ȁ`�Ǝv���܂����B���`�̖����̕s�тȂ�������������납�����ł���B���̃e���V�����͍D���ł���B�����݂����ł��B
+おもしろいな～と思いました。正義の味方の不毛なやられ方がおもしろかったですよ。このテンションは好きですよ。続きみたいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/12/25 12:00:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/12/25 12:00:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009249211bwhrp&id2=1008071617etdgtp&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009249211bwhrp_id2_1008071617etdgtp_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C���l�A�ǂ�ł��������Ă��肪�Ƃ��������܂��B<BR>�s�тȁc�c�s�ӑł��Ȃ̂ŁA�ǂ����Ă��s�тɂȂ��Ă��܂��܂��i�΁j�B<BR>�e���V�����c�c���肪�Ƃ��������܂��B�ǂ������������e���V���������b�͏�������s���ɂȂ�܂��̂ŁA���������Ē�����Ɗ������ł��B<BR>�����c�c���݂P�O�j�܂łł��Ă܂��B<BR>����ł́A�䊴�z���肪�Ƃ��������܂����B
+ノイン様、読んでくださってありがとうございます。<BR>不毛な……不意打ちなので、どうしても不毛になってしまいます（笑）。<BR>テンション……ありがとうございます。どうもこういうテンション高い話は書いた後不安になりますので、そう言って頂けると嬉しいです。<BR>続き……現在１０Ｋまでできてます。<BR>それでは、御感想ありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2001/12/25 23:07:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2001/12/25 23:07:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009289238qxejijl&id2=1008071617etdgtp&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009289238qxejijl_id2_1008071617etdgtp_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�M������荂����ʔ�c<BR>���������ł��˂��B�n���낳��A���c�L��́A�M�����̈����𝈝����ĉS���Ă�����̂ڂ�̑ւ��̂̂��Ƃł��B<BR>�̎��͂���Ȃ̂ł����B<BR>��M������荂����ʔ�@�傫�������͋g�{�Ɂ`�@�����������͌|�l�Ɂ`�@�ʔ������ɗ���Ă�`��@<BR>�����󂯂Ă����̂ł����ˁB
+ギャラより高い交通費…<BR>懐かしいですねち。地駆鴉さん、島田伸介が昔、ギャラの安さを揶揄して唄っていた鯉のぼりの替え歌のことです。<BR>歌詞はこんなのでした。<BR>♪ギャラより高い交通費　大きいお金は吉本に～　小さいお金は芸人に～　面白そうに流れてる～♪　<BR>当時受けていたのですがね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/12/27 13:51:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/12/27 13:51:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009428717xigmn&id2=1008071617etdgtp&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009428717xigmn_id2_1008071617etdgtp_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�g��d���l�A�킴�킴���肪�Ƃ��������܂��B<BR>�g�{�͂��܂ɂ������Ȃ��̂ŁB���݂܂���B<BR>����ɂ��Ă��A���s�I�ȉ̂ł��ˁi�΁j�B
+吉井重治様、わざわざありがとうございます。<BR>吉本はたまにしか見ないので。すみません。<BR>それにしても、自虐的な歌ですね（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2001/12/28 18:02:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2001/12/28 18:02:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009530131imyexfn&id2=1008071617etdgtp&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009530131imyexfn_id2_1008071617etdgtp_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�A���猌���ł�܂ŉ̂킳���g�{���ƍ����c�B<BR><BR>�Ƃ����l�^������܂����B<BR>�@��������A���̂���̋g�{�|�l�̃l�^�́A<BR>���s�n�����������ł��˂��B<BR>�@����ύ��ł͌������Ȃ��Ȃ����̂́A���������񂾂��炩�ȁH<BR>
+喉から血がでるまで歌わされる吉本興業合唱団。<BR><BR>というネタもありました。<BR>　そういや、あのころの吉本芸人のネタは、<BR>自虐系が多かったですねえ。<BR>　やっぱ今では見かけなくなったのは、初代会長が死んだからかな？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2001/12/30 00:26:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2001/12/30 00:26:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009639603fyfgrr&id2=1008071617etdgtp&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009639603fyfgrr_id2_1008071617etdgtp_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�A���猌���āc�c�B���`��B�悭�͂킩��܂��񂯂ǁA����ς�������̂��|�ɉe���������ł��ˁB
+喉から血って……。う～ん。よくはわかりませんけど、やっぱり会長が代わるのも芸に影響があるんですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200109/19041522/conquest_02.html" target="_blank">��Q�b�@�����҂�ǂނɂ͂������N���b�N</a></strong>  <i>2002/01/03 21:14:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200109/19041522/conquest_02.html" target="_blank">第２話　復活編を読むにはここをクリック</a></strong>  <i>2002/01/03 21:14:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010060085gpbuov&id2=1008071617etdgtp&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010060085gpbuov_id2_1008071617etdgtp_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���������̑g�D�A���E���������͊�������I�I<BR>��l�͐��E�����̂��߂ɁA��l�͌��̎����ɖ߂邽�߂Ɂc�@�Ƃɂ����撣���(��)
+【推薦文】今日も悪の組織、世界征服私隊は活動する！！<BR>一人は世界征服のために、一人は元の自分に戻るために…　とにかく頑張れっ(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/03 22:05:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/03 22:05:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010063113qvcur&id2=1008071617etdgtp&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010063113qvcur_id2_1008071617etdgtp_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́I<BR>�{���̗�ꂪ�Ԃ����ł��Ă����ł��˂��B<BR>����ɑ΂��Đ��炪�s�K�̋ɂ݂Ȃ̂��Ȃ�Ƃ��i���j�B<BR>�ʔ������������B<BR>����A�܂��܂�������ł���ˁi�΁j�B���҂��Ă܂��B
+読んだバイ♪<BR>わっはっは！<BR>本当の鈴緋がぶっ飛んでいていいですねぇ。<BR>それに対して正也が不幸の極みなのもなんとも（爆）。<BR>面白かったっす。<BR>これ、まだまだ続くんですよね（笑）。期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>mogutann</strong>  <i>2002/01/03 22:58:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010066283tnmyqua&id2=1008071617etdgtp&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010066283tnmyqua_id2_1008071617etdgtp_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@�����ҁz
+【第２話　復活編】
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/01/03 22:59:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/01/03 22:59:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010066366ffwbtmx&id2=1008071617etdgtp&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010066366ffwbtmx_id2_1008071617etdgtp_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@�����ҁz<BR><BR>�ނ����E�E�E�E�E�E�E<BR>�Ȃ�ĎS�����X�g�Ȃ񂶂Ⴀ�E�E�E�E�E�E�E�E�E�I�i���΁j<BR>��ꂿ��̂����������F�肳���Ă��������܂��i��
+【第２話　復活編】<BR><BR>むげえ・・・・・・・<BR>なんて惨いラストなんじゃあ・・・・・・・・・！（爆笑）<BR>鈴緋ちんのご冥福をお祈りさせていただきます（爆
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g�^�p</strong>  <i>2002/01/04 01:16:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｈ／Ｑ</strong>  <i>2002/01/04 01:16:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010074566cyuhmg&id2=1008071617etdgtp&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010074566cyuhmg_id2_1008071617etdgtp_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@�����ҁz<BR>���ꂢ�ƁI�I<BR>�ł��܂���舢�q���Y�����ۂ��Ȃ��Ă܂��˂��B�܂��A������ł����B<BR>���ɖ߂�̂����₪�鏗�̎q���E�E�E�V�N�ŗǂ������B<BR>�܁A���̓_���炭�񂪂����ł����B���ꂩ����y���݂Ȃ���撣���ď����Ă��������B�������ʔ����Ǝv�����̂͑�T�̑��l���ʔ����Ǝv���̂ł�����B<BR>
+【第２話　復活編】<BR>ぐれいと！！<BR>でもまえより阿智太郎氏っぽくなってますねぇ。まあ、いいんですが。<BR>元に戻るのをいやがる女の子か・・・新鮮で良いかも。<BR>ま、その点正也くんがあわれですが。これからも楽しみながら頑張って書いてください。自分が面白いと思うものは大概の他人も面白いと思うのですから。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/05 01:19:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/05 01:19:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010161186tjpyjvg&id2=1008071617etdgtp&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010161186tjpyjvg_id2_1008071617etdgtp_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ǂ�ŉ�����A�܂��A�䊴�z�܂ŉ������Ă��肪�Ƃ��������܂��B<BR>���_�����z�̂����W�S�Q�U�l<BR>�@�{���̗��\�\�ȑO����A����ւ������̕������炵���B�Ƃ����l�^���l���Ă����̂ŁA����g���Ă݂܂����B<BR>�@�s�K�̋ɂ݁\�\����̃e�[�}�́u�s�K�v�ł�����i�΁j�B<BR>�@�܂��܂������\�\�����Ɍ��킹�Ă��炤�ƁA�킩��܂���B�ꉞ�A���������ŏI���ɏo���鏑��������������ł�����A���̘b���������ǂ������c�c�ł��A�����͌����Ă��A�����A�����܂��B�f���͏o���܂��񂪁i���j�B<BR>����������l<BR>�@�S�����X�g�\�\���͕󂭂��œ��S�́A�����̑���������h���ׂ̕��@�ł����B���̂����ŗ�ꂪ���ɖ߂��Ȃ��Ă��܂��܂����i�΁j�B<BR>���g�^�p�l<BR>�@���q���Y�����ۂ��\�\���͎����ł������v���܂����B�����邩�ȁA�Ǝv���܂������A�����Ă��܂��܂����ˁB����i������������j����͂����ƃI���W�i���e�B���o����悤�ɂ���΂肽���Ǝv���܂��B<BR>�@���₪�鏗�̎q�\�\�V�X�R���͂��̂��߂̃L�����ł����i�΁j�B<BR>�@�y���݂Ȃ���\�\�����͖{���Ɋy���݂Ȃ��珑�����Ē����Ă܂��B�ƌ������܂邫���S�J�ł��i���j�B<BR><BR>����ł͉��߂āA�䊴�z���肪�Ƃ��������܂����B
+早速読んで下さり、また、御感想まで下さってありがとうございます。<BR>＞神速感想のｍｋ８４２６様<BR>　本当の鈴緋――以前から、入れ替わった後の方が女らしい。というネタを考えていたので、今回使ってみました。<BR>　不幸の極み――今回のテーマは「不幸」ですから（笑）。<BR>　まだまだ続く――正直に言わせてもらうと、わかりません。一応、今回もこれで終わりに出来る書き方をしたつもりですから、次の話を書くかどうかも……でも、そうは言っても、多分、書きます。断言は出来ませんが（汗）。<BR>＞もぐたん様<BR>　惨いラスト――実は宝くじで逃亡は、私隊の隊員増加を防ぐ為の方法でした。そのせいで鈴緋が元に戻り難くなってしまいました（笑）。<BR>＞Ｈ／Ｑ様<BR>　阿智太郎氏っぽく――実は自分でもそう思いました。言われるかな、と思いましたが、言われてしまいましたね。次回（もし書いたら）からはもっとオリジナリティが出せるようにがんばりたいと思います。<BR>　いやがる女の子――シスコンはそのためのキャラでした（笑）。<BR>　楽しみながら――私隊は本当に楽しみながら書かせて頂いてます。と言うかまるきり趣味全開です（汗）。<BR><BR>それでは改めて、御感想ありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����ׂ���</strong>  <i>2002/01/05 11:11:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>おしべくん</strong>  <i>2002/01/05 11:11:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010196704ynqeydj&id2=1008071617etdgtp&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010196704ynqeydj_id2_1008071617etdgtp_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�����Ȃ��B�����B<BR>�ł�����������s�K�ɂȂ�񂾂낤�Ȃ��B<BR>����A�ʂɓ�����]���Ă킯����Ȃ��񂾂��ǂˁB<BR>������΂����ςȂ��̂Q�b�ł����B<BR>�Ƃɂ����ʔ��������A�Ƃ��������܂���B<BR>���z�x�^�Ȃ̂ŁB�ł́`<BR><BR><BR>
+ああ、いいなあ。私隊。<BR>でも入隊したら不幸になるんだろうなぁ。<BR>いや、別に入隊希望ってわけじゃないんだけどね。<BR>今回も笑いっぱなしの２話でした。<BR>とにかく面白かった、としか言えません。<BR>感想ベタなので。では～<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/06 21:05:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/06 21:05:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010318757lxccak&id2=1008071617etdgtp&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010318757lxccak_id2_1008071617etdgtp_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ׂ���l�A�ǂ�ŉ���������Ɍ䊴�z�܂ŉ�����A���肪�Ƃ��������܂��B<BR>�΂����ςȂ��\�\���肪�Ƃ��������܂��B�Ƃɂ������̘b�͏΂����������A�Ƃ����b�Ȃ̂Łi�΁j�B<BR>���z�x�^�\�\�����A�������Ėʔ��������Ə����ĉ����邾���ł��A�����ɂ͐����������䊴�z�ł��B
+おしべくん様、読んで下さった上に御感想まで下さり、ありがとうございます。<BR>笑いっぱなし――ありがとうございます。とにかくこの話は笑うしか無い、という話なので（笑）。<BR>感想ベタ――いえ、こうして面白かったと書いて下さるだけでも、自分には凄く嬉しい御感想です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/01/09 20:35:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/01/09 20:35:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010576101rnwmma&id2=1008071617etdgtp&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010576101rnwmma_id2_1008071617etdgtp_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@�����ҁz<BR>����ς�n���낳��͂��܂��Ȃ��B<BR>�S�̒��̊i���V�[���������납�����ł��B<BR>���������z�͂ł��ˁA�ł͂ł͎���Ɋ��҂����Ă��������܂��B<BR>�ǐL�A�L�̕����d�������҂��Ă܂���`�B
+【第２話　復活編】<BR>やっぱり地駆鴉さんはうまいなあ。<BR>心の中の格闘シーンおもしろかったです。<BR>すごい発想力ですね、ではでは次回に期待させていただきます。<BR>追伸、猫の方も妖精も期待してますよ～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/12 12:38:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/12 12:38:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010806739mayfk&id2=1008071617etdgtp&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010806739mayfk_id2_1008071617etdgtp_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C���l�A���ǂ݉���������Ɍ䊴�z�A���肪�Ƃ��������܂��B���炪�x��Ă��݂܂���B<BR>�S�̒��́\�\����͖{���Ɏv���t���ł����B�Z�Z�������`�Ə����Ă��āA�}�Ɏv���t�����̂ł��B<BR>���������������m��܂��񂪁A���������Ē�����Ɗ������ł��B<BR>�L�̕����d�����\�\���A�撣��܂��B���͂��낻��L�������Ȃ���΁c�c�B<BR>���܂��\�\�����A�S�R���n�҂ł��B
+ノイン様、お読み下さった上に御感想、ありがとうございます。お礼が遅れてすみません。<BR>心の中の――あれは本当に思い付きでした。〇〇が半分～と書いていて、急に思い付いたのです。<BR>分かり難かったかも知れませんが、そう言って頂けると嬉しいです。<BR>猫の方も妖精も――が、頑張ります。次はそろそろ猫を書かなければ……。<BR>うまい――いえ、全然未熟者です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2002/01/12 14:24:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2002/01/12 14:24:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010813087lvmlb&id2=1008071617etdgtp&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010813087lvmlb_id2_1008071617etdgtp_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@�����ҁz<BR>�Ȃ�Ƃ����ԂȂ��Z���ł��Ȃ��B�ɓ������̗�ꂿ���͓����������g���Ă�̂������ăX�j�[�J�[���ɂ́u�o�C�I�����X�E�}�W�J���v�ɏo�Ă����ނ����A�z���܂����B<BR>���܂��Ă�q������Ɨ��̓�l�����킢�����ă}���ł��B���炪��Ԃ�V�[���ŁA���łɐ��ʂ܂ŕς���đg�D�̈���ɂȂ�A�{���̐g�̂܂ŏ��̎q�̗�ꂿ���͂���ɕs�K�ɁA�Ȃ�Ď�����u�z�����Ă܂����B���ǂł����Ȃ����肵�Ȃ����ȁc�c�B
+【第２話　復活編】<BR>なんともあぶない兄妹ですなあ。極道少女の鈴緋ちゃんは同じ漢字を使ってるのもあってスニーカー文庫の「バイオレンス・マジカル」に出てくる緋奈さんを連想しました。<BR>喧嘩してる子供正也と鈴緋の二人がかわいくってマルです。正也が若返るシーンで、ついでに性別まで変わって組織の一員になり、本来の身体まで女の子の鈴緋ちゃんはさらに不幸に、なんて事を一瞬想像してました。後遺症でそうなったりしないかな……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/01/12 15:18:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/01/12 15:18:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010816322avkerw&id2=1008071617etdgtp&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010816322avkerw_id2_1008071617etdgtp_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@�����ҁz<BR> �悤�₭�ǂ݂܂����B�ʔ��������ł���B���΂��邨�����낳�ł͂Ȃ��āA�j���j���������悤�Ȃ������낳�ł����B�Ɠ��̕`�ʂ���ςɖʔ����ł��B<BR>�@���ĂƂ���ŁA����̘b�͉��Ă܂����ˁB����A�b�����Ă����񂶂�Ȃ��āA�o��l�������Ă���Ƃ����̂��������c�c�B��P�b�͏��Ȃ��Ƃ���l�������͂܂Ƃ��������̂ɁA����͎�l��������Ă��Ă���B<BR>�@�ʔ�������ǁA���������M���O���ڂ̂��b�́A�Œ����l�́A���S�ȏ펯�l�����M�����[�ɒu���Ă����Ȃ��ƁA�A�b�Ƃ����Ԃɍ�i���E�����S���󂵂Ă��܂��̂ł����Ӊ������B��펯�Ə펯�̃M���b�v���ʔ�����ł���A��펯�ȃ��M�����[�΂���ł̓M���b�v�������܂���B<BR>�@�܂��Q�b�ڂȂ̂ő��v�ł����A�����������A�ڂ��v�悷��̂Ȃ�΁A���ӂ��ׂ��_�ł��ˁB�Ƃ����킯�ŗ�ꂿ���́A���ʐl�̊��o��Y��Ȃ��悤�ɂ��Ă������������ł��ˁB<BR>�@�ʔ����b�̐ݒ�ł�����A�������������ė~�����ł��B<BR>�@
+【第２話　復活編】<BR> ようやく読みました。面白かったですよ。爆笑するおもしろさではなくて、ニヤニヤが続くようなおもしろさでした。独特の描写が大変に面白いです。<BR>　さてところで、今回の話は壊れてましたね。いや、話が壊れていたんじゃなくて、登場人物が壊れているというのが正解か……。第１話は少なくとも主人公だけはまともだったのに、今回は主人公すら壊れてきている。<BR>　面白いけれど、こういうギャグ満載のお話は、最低限一人は、完全な常識人をレギュラーに置いておかないと、アッという間に作品世界が完全崩壊してしまうのでご注意下さい。非常識と常識のギャップが面白い訳であり、非常識なレギュラーばかりではギャップが生じません。<BR>　まだ２話目なので大丈夫ですが、もしも長期連載を計画するのならば、留意すべき点ですね。というわけで鈴緋ちゃんは、普通人の感覚を忘れないようにしていただきたいですね。<BR>　面白い話の設定ですから、長く書き続けて欲しいです。<BR>　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/13 15:06:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/13 15:06:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010902005lipgnf&id2=1008071617etdgtp&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010902005lipgnf_id2_1008071617etdgtp_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ŉ���������Ɍ䊴�z�A���肪�Ƃ��������܂��B<BR>���Ē×l<BR>�@�o�C�I�����X�`�\�\���`��B�m��Ȃ��ł��B���傤�Ǔǂޖ{��T���Ă����̂ŁA���x�T���Ă݂܂��B<BR>�@���炪�\�\�����̐���͐��i����������̂ŁA�킴�ƃ��M�����[�ɂȂ�Ȃ��悤�ɍ��O���S�����܂����B<BR>�@���ǂŏ��Ɂ\�\���͌����̐���́c�c�����o�ė��Ȃ��\��ł��i���j�B<BR>���W���[�W���b�h�l<BR>�@�j���j���\�\���������Ē����ėǂ������ł��B���炯���邩�ȁA�Ǝv���Ă����̂Łi��΁j�B<BR>�@�Ɠ��̕`�ʁ\�\����́A�v����Ƃ̈��q���Y���̐^���Ȃ̂ł��B�ł�����I���W�i���ł͂Ȃ��̂ł��c�c�B<BR>�@��l�������ā\�\���A���Ă܂������B���`��B��҂����Ă邩��A�L�������S�����Ă��܂��̂����i���j�B<BR>�@����i���������Ȃ�j����͋C�����܂��B<BR>�@�����A�ځ\�\�v�悵�Ă܂���I�@����i�ƌ����Ă��܂����ڂł����j�ŏI��̂���ŏ����Ă܂��B<BR>�@�������������ā\�\��ǔL������܂����A�����A���񏑂����ǂ������ۏ؂��ł��Ȃ��ł��B���݂܂���B
+読んで下さった上に御感想、ありがとうございます。<BR>＞米津様<BR>　バイオレンス～――う～ん。知らないです。ちょうど読む本を探していたので、今度探してみます。<BR>　正也が――元鈴緋の正也は性格が強すぎるので、わざとレギュラーにならないように国外逃亡させました。<BR>　後遺症で女に――実は元鈴緋の正也は……もう出て来ない予定です（爆）。<BR>＞ジャージレッド様<BR>　ニヤニヤ――そう言って頂けて良かったです。しらけられるかな、と思っていたので（苦笑）。<BR>　独特の描写――これは、プロ作家の阿智太郎氏の真似なのです。ですからオリジナルではないのです……。<BR>　主人公も壊れて――こ、壊れてましたか。う～ん。作者が壊れてるから、キャラも全員壊れてしまうのかも（爆）。<BR>　次回（もし書くなら）からは気をつけます。<BR>　長期連載――計画してません！　毎回（と言ってもまだ二回目ですが）最終回のつもりで書いてます。<BR>　長く書き続けて――野良猫もありますし、正直、次回書くかどうかも保証ができないです。すみません。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1008071617etdgtp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

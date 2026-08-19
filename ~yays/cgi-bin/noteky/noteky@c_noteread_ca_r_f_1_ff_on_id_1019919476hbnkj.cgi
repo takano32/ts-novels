@@ -1,211 +1,211 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=1&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_1_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=1&ff=on&id=1019919476hbnkj&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">��˒[�t�H�[����</a>]<br>
+[<a href="noteky@c_noteread_f_1_ff_on_id_1019919476hbnkj_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">井戸端フォーラム</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���S��ONLY�y�[�W(2)</font><br>
+<font size="+2" color="#0000FF">初心者ONLYページ(2)</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1004545629klghyy&ff=on" target="_blank">���S��ONLY�y�[�W(1)�ւ͂������N���b�N  </a></strong>  <i>2002/04/27 23:57:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_1_id_1004545629klghyy_ff_on.cgi" target="_blank">初心者ONLYページ(1)へはここをクリック  </a></strong>  <i>2002/04/27 23:57:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1019919476hbnkj&id2=1019919476hbnkj&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1019919476hbnkj_id2_1019919476hbnkj_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����I�Ȏ���ł�OK�̃t���[�ȏ������݂����C���ɂ����{�[�h�ł��B(starbow@�^�c�ψ�)
+初歩的な質問でもOKのフリーな書き込みをメインにしたボードです。(starbow@運営委員)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/04/28 00:07:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1019920053dtayj&id2=1019919476hbnkj&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1019920053dtayj_id2_1019919476hbnkj_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-5���A�x���n�܂�܂����ˁB<BR>���s����l�A��i�������l�Ȃǂ��낢�뎞�Ԃ��Ƃꂻ���ł��ˁB<BR><BR>�킽���́A�S�̂̑�g�����߂Ă͂���̂ł����A��i�`�ʂɔY��ŁA������ƍ�i�̎��M���~�܂��Ă����肵�܂����A�F�l�͂������ł��傤���H<BR>
+5月連休が始まりましたね。<BR>旅行する人、作品を書く人などいろいろ時間がとれそうですね。<BR><BR>わたしは、全体の大枠を決めてはいるのですが、情景描写に悩んで、ちょっと作品の執筆が止まっていたりしますが、皆様はいかがでしょうか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/28 01:02:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/28 01:02:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1019923350uljia&id2=1019919476hbnkj&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1019923350uljia_id2_1019919476hbnkj_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��b�����^���ƁA�`�ʂ��ȒP���Ǝv���̂ł��B<BR>�t�Ɂc���҂��ƕ`�ʂ�����c<BR>��i�͂���ꍇ�����邵�A����Ȃ��ꍇ������c<BR>���͌��\�ȗ����Ă��邩���c�����Ȃ��ł��ˁc�ӂ��c
+一話完結型だと、描写が簡単だと思うのです。<BR>逆に…長編だと描写が難しい…<BR>情景はいる場合もあるし、いらない場合もある…<BR>私は結構省略しているかも…いけないですね…ふう…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ӂ����</strong>  <i>2002/04/28 01:30:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ふらっと</strong>  <i>2002/04/28 01:30:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1019925021duqteo&id2=1019919476hbnkj&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1019925021duqteo_id2_1019919476hbnkj_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;��i�͂���ꍇ�����邵�A����Ȃ��ꍇ������c<BR>��������ɏ������݂����āA�͂܂�܂����Ă܂�(��)<BR>���[���[���[�ā[�[�[�B
+&gt;情景はいる場合もあるし、いらない場合もある…<BR>いたずらに書き込みすぎて、はまりまくってます(汗)<BR>たーすーけーてーーー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/04/28 22:15:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/04/28 22:15:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1019999737exlof&id2=1019919476hbnkj&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1019999737exlof_id2_1019919476hbnkj_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f�v�͎d���ł����I
+ＧＷは仕事ですっ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:july@land.linkclub.or.jp" target="_blank">�i�E�e</a></strong>  <i>2002/04/29 01:08:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:july@land.linkclub.or.jp" target="_blank">Ｊ・Ｆ</a></strong>  <i>2002/04/29 01:08:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020010101lwovevw&id2=1019919476hbnkj&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020010101lwovevw_id2_1019919476hbnkj_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����i�`�ʂ̘b<BR>�s�r�E��s�r��킸�A�l�^�͊�������ł����ǁA<BR>�l�̏ꍇ�͑䎌�̊|�����������`�ɂȂ��Ă��ŁA���ۂɋN�����ƂȂ��<BR>���̊Ԃ�⊮�����i�i�󋵁H�j�`�ʂɂ܂Â��Ă��܂��܂��ˁB<BR>��ԈႦ����s�q�o�f�̃��v���C�i���j<BR><BR>�f�v�H�@�J�����_�[�ʂ�ɋx��������ł邾���ł���A����(^^;
+＞情景描写の話<BR>ＴＳ・非ＴＳ問わず、ネタは幾つかあるんですけど、<BR>僕の場合は台詞の掛け合いが原形になってるんで、実際に起こすとなると<BR>その間を補完する情景（状況？）描写につまづいてしまいますね。<BR>一つ間違えたらＴＲＰＧのリプレイ（爆）<BR><BR>ＧＷ？　カレンダー通りに休日が並んでるだけですよ、えぇ(^^;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�~�~�~</strong>  <i>2002/05/06 08:36:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>欲欲欲</strong>  <i>2002/05/06 08:36:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020641800rsxpsb&id2=1019919476hbnkj&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020641800rsxpsb_id2_1019919476hbnkj_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ێ��b���Ȓ܍͒}�}�U
+汐杓蒔秒卸淙爪栽筑筑酋
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������[</strong>  <i>2002/05/06 18:49:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よっすぃー</strong>  <i>2002/05/06 18:49:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020678565nrmts&id2=1019919476hbnkj&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020678565nrmts_id2_1019919476hbnkj_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����i�`�ʂ̘b<BR>���e�Ɋւ�炸���܂菑���Ȃ��l������A���͂��f���C�����߂��č����Ă��܂��B�ǂ������΃e���|�d���Ȃ񂾂낤���ǂˁB<BR>�f�v�H�I����Ă��܂��Ί֌W�����ł���B�͂��c�c
+＞情景描写の話<BR>内容に関わらずあまり書かない人だから、文章が素っ気無さ過ぎて困っています。良く言えばテンポ重視なんだろうけどね。<BR>ＧＷ？終わってしまえば関係無いですよ。はぁ……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2002/05/09 21:06:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日比野</strong>  <i>2002/05/09 21:06:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020946002ilslpns&id2=1019919476hbnkj&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020946002ilslpns_id2_1019919476hbnkj_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������i�`��<BR>�݂Ȃ��񂢂낢��l���Ă܂��ˁ`�B���̏ꍇ�͍s��������΂�����Ȃ�ŁA�܂������l���ĂȂǂ���܂����A�͂��́c�B�΂��Ȃ������ˁc�B����ς�C��z�����ق��������̂ł��傤���˂��H�ł��ǂ������̂����������킩��܂��񂵁B���n�Ȏ��͂����炭�A��i�`�ʂȂǂ�������Ɩ�킩��Ȃ��Ȃ����Ⴂ�܂����B�ǂ������炢���񂾁`�I�I<BR><BR>�f�v�͍��Z���Ȃ̂ŁA�����ɑS�Ă��₵�܂����B���Ȃ݂Ɉ��ގ����ł����B���Ȃ��`�B
+＞同じく情景描写<BR>みなさんいろいろ考えてますね～。私の場合は行き当たりばったりなんで、まったく考えてなどおりませんよ、はっは…。笑えないっすね…。やっぱり気を配ったほうがいいのでしょうかねえ？でもどういうのがいいかもわかろませんし。未熟な私はおそらく、情景描写などを加えると訳わかんなくなっちゃいますし。どうしたらいいんだ～！！<BR><BR>ＧＷは高校生なので、部活に全てを費やしました。ちなみに引退試合でした。かなし～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ł�ǂ�</strong>  <i>2002/05/14 17:03:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>でんどろ</strong>  <i>2002/05/14 17:03:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1021363391llmfvp&id2=1019919476hbnkj&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1021363391llmfvp_id2_1019919476hbnkj_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f�v���͌��\�W�����Ď��M���i�݂܂����ˁB<BR>�S��i�͏����܂������c�c���łɌf�ڂ�����Ă܂��ˁB<BR>��i�`�ʂ͎��������Ƃ����Ƃ���Ƃ���ł��B��͂�m���d��(�Ƃ������G�H)�ł�����c�c�B<BR><BR>�ŋߎ���Ńo�^�o�^���Ă���̂ŁA�b���͓��e�Ƃ��͖������ۂ��ł��ˁB�ł������͂����Ƃ��������ł��c�c<BR><BR>&gt;starbow�l<BR>�@�����^�c�ψ��̍�ƁA����J�l�ł��B(���̕��������ł�����(�O�O�G
+ＧＷ中は結構集中して執筆が進みましたね。<BR>４作品は書けましたか……すでに掲載もされてますね。<BR>情景描写は私がもっとも苦手とするところです。やはりノリ重視(というか雑？)ですから……。<BR><BR>最近私情でバタバタしているので、暫くは投稿とかは無理っぽいですね。でも完結はちゃんとさせたいです……<BR><BR>&gt;starbow様<BR>　いつも運営委員の作業、ご苦労様です。(他の方もそうですけど(＾＾；
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/05/14 23:40:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1021387238hdcxlq&id2=1019919476hbnkj&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1021387238hdcxlq_id2_1019919476hbnkj_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f�v�����̍�i���e�̏W�������܂���鍡�����̍��ł��B<BR><BR>&gt;�ł�ǂ낳�܁A<BR>�����炱���B���M�����낤���܂ł��B<BR><BR>&gt;��i�`��<BR>��b�̕����������ƁA�\�w�I�ɂȂ肷���ē��e������Ă��܂����A<BR>�n�̕����������ƁA�Ȃ񂾂��A���ǂ��Ȃ肷����悤�ȋC�����āA<BR>�Ȃ��Ȃ��A�����z���Ȃ��ł��B<BR><BR>���ƁA�o��l���̖��O�����낢��l����ƃL�����Ȃ��ł��ˁB<BR>����܂�A�g�߂Ȓm�荇���̖��O�Ɏ������Ă����邵�A<BR>���Ƃ����āA�Ȃ��Ȃ��L�����ɃW���X�g�~�[�g������̂��o�Ă���킯�ł��Ȃ����B<BR><BR>�Ȃɂ��������@����܂��H<BR>
+ＧＷ明けの作品投稿の集中も収まりつつある今日この頃です。<BR><BR>&gt;でんどろさま、<BR>こちらこそ。執筆ごくろうさまです。<BR><BR>&gt;情景描写<BR>会話の部分だけだと、表層的になりすぎて内容が流れてしまうし、<BR>地の部分が多いと、なんだか、くどくなりすぎるような気がして、<BR>なかなか、いい按配がないです。<BR><BR>あと、登場人物の名前もいろいろ考えるとキリがないですね。<BR>あんまり、身近な知り合いの名前に似すぎても困るし、<BR>かといって、なかなかキャラにジャストミートするものが出てくるわけでもないし。<BR><BR>なにかいい方法あります？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/05/15 15:17:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/05/15 15:17:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1021443430hiekbm&id2=1019919476hbnkj&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1021443430hiekbm_id2_1019919476hbnkj_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ɂc���O�ł����c�{�N�͕ςȂ̂���������c<BR>�Ƃ肠�����́A�Ȃ�炩�̖@�������������Ă݂Ă͂������H
+うに…名前ですか…ボクは変なのが多いから…<BR>とりあえずは、なんらかの法則性を持たせてみてはいかが？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:july@land.linkclub.or.jp" target="_blank">�i�E�e</a></strong>  <i>2002/05/19 23:48:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:july@land.linkclub.or.jp" target="_blank">Ｊ・Ｆ</a></strong>  <i>2002/05/19 23:48:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1021819708rxhrnh&id2=1019919476hbnkj&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1021819708rxhrnh_id2_1019919476hbnkj_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������̖@��<BR>�����葁�����@�Ƃ��āA�d�b���▼�납��K���ɃV���b�t�����Ă݂�Ƃ��B<BR>���邢�́A�O���l�Ȃǂ̃J�^�J�i�l�[����a���Ȗ��O�ɃA�����W���Ă݂�Ƃ��B<BR><BR>�c�c�Ȃ�Ă͔̂@���ł��傤�H
+＞命名の法則<BR>手っ取り早い方法として、電話帳や名簿から適当にシャッフルしてみるとか。<BR>あるいは、外国人などのカタカナネームを和風な名前にアレンジしてみるとか。<BR><BR>……なんてのは如何でしょう？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/05/20 09:30:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/05/20 09:30:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1021854622prpyq&id2=1019919476hbnkj&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1021854622prpyq_id2_1019919476hbnkj_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������ꂱ��<BR>�E�����̎��͂̐l�X����q��<BR>�@�����Ɩ��O�𕪊����āA���낢��g�ݍ��킹��B<BR>�@�܂��͖��������q�؂��āA���O�͕ʂɍl����B<BR>�@���X�B<BR>�E���{�l�̖��O���p�󂵂Ă݂�<BR>�@�i��j<BR>�@�V�쁨�X�J�C�t�B�[���h�E�t�B�[���h�X�J�C<BR>�@���R���n�C�}�E���g�E�n�C�����h<BR>�@���X<BR>
+命名あれこれ<BR>・自分の周囲の人々から拝借<BR>　名字と名前を分割して、いろいろ組み合わせる。<BR>　または名字だけ拝借して、名前は別に考える。<BR>　等々。<BR>・日本人の名前を英訳してみる<BR>　（例）<BR>　天野→スカイフィールド・フィールドスカイ<BR>　高山→ハイマウント・ハイランド<BR>　等々<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:yendolls@ezweb.ne.jp" target="_blank">尃T＝�V�Bｓ�X�a</a></strong>  <i>2002/05/26 00:41:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:yendolls@ezweb.ne.jp" target="_blank">蟆サ�ｼ晢シ。�ｽ難スﾅa</a></strong>  <i>2002/05/26 00:41:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022341264roihf&id2=1019919476hbnkj&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022341264roihf_id2_1019919476hbnkj_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-　情晃b描写？　心の眃Vぃ@見たぃZぃZ紎���D���D����^��Y�D�}倀亃RぃH名前を�[�ねるように〣a<BR>　それはさておき、アフタヌーッEを、めuフタヌーッE七月參Lを�C�Lぁvぃ�、�F��んで。�D�Aぃbそれからぎ���a
+縲諠�譎ッ謠丞�呻ｼ溘蠢�縺ｮ逵シ縺ァ隕九◆縺セ縺セ邏死�玽�聶D��爐膺迚藝颯迎蛟莠コ縺ォ蜷榊燕繧貞ー九�ｭ繧九ｈ縺�縺ｫ縲｣a<BR>縲縺昴ｌ縺ｯ縺輔※縺翫″縲√い繝輔ち繝後�ｼ繝ウ繧偵√ａu繝輔ち繝後�ｼ繝ウ荳�譛亥純L繧定イキ縺」縺ヲ縲∬ェュ繧薙〒縲りゥア縺ッ縺昴ｌ縺九ｉ縺死聰｡a
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/06/10 01:02:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1023638559qflqr&id2=1019919476hbnkj&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1023638559qflqr_id2_1019919476hbnkj_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��L�̏������݂́A���������Ă��܂����A�ǂ���UTF-8�ŏ����ꂽ�悤�ł��B���e���킩������܂����H<BR><BR>�����ꂽ���ցA<BR>SJIS�ŏ������݂����������܂��ł��傤���H<BR>�X�������肢���܂��B
+上記の書き込みは、字が化けていますが、どうもUTF-8で書かれたようです。内容がわかる方いますか？<BR><BR>書かれた方へ、<BR>SJISで書き込みをいただけますでしょうか？<BR>宜しくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/06/10 01:11:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1023639087yduqw&id2=1019919476hbnkj&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1023639087yduqw_id2_1019919476hbnkj_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������Ă���܂��B<BR>starbow�ł��B<BR><BR>���������΁APhotoShop 7.0�������ɂȂ�܂����ˁB<BR>�킽���́A�^�u���b�g�̕t�^��Painter Classic�����܂܂Ŏg���Ă����̂ł����A<BR>�v���؂��āAPhotoShop�𔃂��Ă��܂��܂����B<BR>���C���[�͂���ƕ֗��ł��ˁB�����������邩�ȁB<BR><BR>�F�l�́ACG�������Ƃ��́A�ǂ������\�t�g���g���Ă��܂����H<BR>
+ご無沙汰しております。<BR>starbowです。<BR><BR>そういえば、PhotoShop 7.0が発売になりましたね。<BR>わたしは、タブレットの付録のPainter Classicをいままで使っていたのですが、<BR>思い切って、PhotoShopを買ってしまいました。<BR>レイヤーはあると便利ですね。高いだけあるかな。<BR><BR>皆様は、CGを書くときは、どういうソフトを使われていますか？<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="1019919476hbnkj">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">��˒[�t�H�[����</a>]<br>
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">井戸端フォーラム</a>]<br>
 
 </p>
 </body>

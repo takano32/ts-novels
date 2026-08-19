@@ -1,95 +1,95 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�ς݂܂��񂪁A�������߂Ă���܂��B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:済みませんが、情報を求めております。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1944>
 <input type=hidden name=ress value=1944>
-<input type=submit value=�ς݂܂��񂪁A�������߂Ă���܂��B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=済みませんが、情報を求めております。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1944>
-<font color=#6A5ACD>�ς݂܂��񂪁A�������߂Ă���܂��B</font></a>
+<font color=#6A5ACD>済みませんが、情報を求めております。</font></a>
 <font color=#303030>
-<a href=mailto:tak-hi@ma.neweb.ne.jp>����</a>
- ����</font>
- <font size=2>2003�N8��28��(��) 1��9��</font>
-<a href="resbbs4.cgi?vew=1944">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�����ɌY�n�C�X�N�[���Q</b>�z</font>
+<a href=mailto:tak-hi@ma.neweb.ne.jp>鐸碑</a>
+ さん</font>
+ <font size=2>2003年8月28日(木) 1時9分</font>
+<a href="resbbs4@vew_1944.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>恋愛極刑ハイスクール２</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�@�����Ȃ肱�̗l�Ȃ��肢������̂́A���k�Ȃ̂ł����B�C���^�[�l�b�g��<br>�s�r�n�T�C�g���l�b�g�T�[�t�B�����Ă���r���Ō������l�b�g�����̏��<br>�����߂Ă���܂��B<br>�@�������N�ȓ��Ɍ��J���ꂽ�P�W�֕`�ʂȂ��̒Z�ҍ�i�ŁA�Ȃ񂩂̒����R<br>�I�ȗ͂ɂ���āA��l�����e�F�i�H�j�̗��z�̏��̎q�ɕς����Ă��܂���<br>�����b�ŁA���̐e�F�̗��z���j�̊�]���d�˂��悤�Ȋ����ŁA�吺���o����<br>���悤�ȍT���߂ŁA�����ɑ吺���o���Ƃ������ދ���̎��Ȑg�̂ɂ��ꂽ<br>�@���Ă����b�Ȃ�ł����A��҂��^�C�g�����A�f�ڃT�C�g���Y��Ă��܂�<br>�ēx�ǂގ����o���Ȃ��Ȃ��Ă��܂��܂����B<br><br>�@�ǂȂ����A�����m�̕��������^�C�g����f�ڃT�C�g�������Ă�������<br>��΍K���ł��B</font></ul>
+<ul><br><font size=3>　いきなりこの様なお願いをするのは、恐縮なのですが。インターネットの<br>ＴＳ系サイトをネットサーフィンしている途中で見つけたネット小説の情報<br>を求めております。<br>　ここ半年以内に公開された１８禁描写なしの短編作品で、なんかの超自然<br>的な力によって、主人公が親友（？）の理想の女の子に変えられてしまうと<br>いう話で、その親友の理想が男の願望を重ねたような感じで、大声を出せな<br>いような控えめで、無理に大声を出すとせき込む虚弱体質な身体にされた<br>　っていう話なんですが、作者もタイトルも、掲載サイトも忘れてしまい<br>再度読む事が出来なくなってしまいました。<br><br>　どなたか、ご存知の方が情報をタイトルや掲載サイトを教えていただけ<br>れば幸いです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1945>
-<font color=#6A5ACD>RE:�ς݂܂��񂪁A�������߂Ă���܂��B</font></a>
+<font color=#6A5ACD>RE:済みませんが、情報を求めております。</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N8��29��(��) 0��56��</font>
-<a href="resbbs4.cgi?vew=1945">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�����c�c</b>�z</font>
-<ul><font size=3>�����͍ŋ߂��܂�}���ɃT�C�g��肵�ĂȂ���ŁA������ƕ�����Ȃ��ł��B<br>�N���m���Ă�l�o�Ă���Ƃ����ł��ˁB<br><br>�֌W�Ȃ����ǁA���� ���񂪃����[�f���ŏ�����Ă���i�̑������ǂ�ł݂����ȁ[�c�c<br><br>&gt; �@�����Ȃ肱�̗l�Ȃ��肢������̂́A���k�Ȃ̂ł����B<br><br>���v�ł���A�����������������C�y�ɂǂ����B<br>�N���X�|�X�g�Ƃ��ł�����ɍ\��Ȃ��ł��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年8月29日(金) 0時56分</font>
+<a href="resbbs4@vew_1945.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>眠い……</b>】</font>
+<ul><font size=3>自分は最近あまりマメにサイト回りしてないんで、ちょっと分かんないです。<br>誰か知ってる人出てくるといいですね。<br><br>関係ないけど、鐸碑 さんがリレー掲示板で書かれてた作品の続きも読んでみたいなー……<br><br>&gt; 　いきなりこの様なお願いをするのは、恐縮なのですが。<br><br>大丈夫ですよ、今後も何かあったら気軽にどうぞ。<br>クロスポストとかでも一向に構わないです。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1947>
-<font color=#6A5ACD>RE:�ς݂܂��񂪁A�������߂Ă���܂��B</font></a>
+<font color=#6A5ACD>RE:済みませんが、情報を求めております。</font></a>
 <font color=#303030>
-�V���C�j���O�E�t�B���K�[�T
- ����</font>
- <font size=2>2003�N8��30��(�y) 14��32��</font>
-<a href="resbbs4.cgi?vew=1947">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�c�{��Y�́u�����ւ�������Ⴂ�v�iTS��i����Ȃ��ł��iw</b>�z</font>
-<ul><font size=3>���֌W�Ȃ����ǁA���肳�񂪃����[�f���ŏ�����Ă���i�̑������ǂ�ł݂����ȁ[�c�c<br>�^���ő��肳��ƃ����[�����Q�������đՂ��Ă����҂ł��B�ˑR������������̂ŕۑ������Ă܂���ł���(^_^;�@�����A�����Ȃ�A�����ǂ݂����ł��ˁB</font></ul>
+シャイニング・フィンガー５
+ さん</font>
+ <font size=2>2003年8月30日(土) 14時32分</font>
+<a href="resbbs4@vew_1947.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>田宮二郎の「高原へいらっしゃい」（TS作品じゃないです（w</b>】</font>
+<ul><font size=3>＞関係ないけど、鐸碑さんがリレー掲示板で書かれてた作品の続きも読んでみたいなー……<br>某所で鐸碑さんとリレー小説参加させて戴いていた者です。突然消えちゃったので保存もしてませんでした(^_^;　続き、あるんなら、私も読みたいですね。</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

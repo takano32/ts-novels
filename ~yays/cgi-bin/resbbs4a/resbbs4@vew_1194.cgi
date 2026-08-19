@@ -1,73 +1,73 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/ target=_top>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../index.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�u���Ȃ��ɂȂ肽���v���炷���B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:「あなたになりたい」あらすじ。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1193>
 <input type=hidden name=ress value=1194>
-<input type=submit value=�u���Ȃ��ɂȂ肽���v���炷���B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=「あなたになりたい」あらすじ。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1194>
-<font color=#6A5ACD>�u���Ȃ��ɂȂ肽���v���炷���B</font></a>
+<font color=#6A5ACD>「あなたになりたい」あらすじ。</font></a>
 <font color=#303030>
-<a href=mailto:jersey-r@mb.i-chubu.ne.jp>�W���[�W���b�h</a>
- ����</font>
- <font size=2>2001�N7��20��(��) 0��41��</font>
-<a href="resbbs4.cgi?vew=1194">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+<a href=mailto:jersey-r@mb.i-chubu.ne.jp>ジャージレッド</a>
+ さん</font>
+ <font size=2>2001年7月20日(金) 0時41分</font>
+<a href="resbbs4@vew_1194.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�ꖡ�Ƃ����炵�l�A���[���ł��炵�Ă��������܂��āA�L��������܂����B<br>�ԐM�̃��[���ɂ������܂������A�悭�v���o���Ă݂���A�S���łT�b�ł����B<br>���[���ɂ������炷�����A�����ɂ���������ł����܂��B<br>���̋L���̕s���ȕ����𖄂߂邱�Ƃ��o������A��͗��݂܂��B<br><br>�u���Ȃ��ɂȂ肽���v<br><br>�y���b�z<br>�@�w�̊K�i�ŁA�K�i�����B<br>�@����ւ�邪�A���ɂȂ������j�͖ڊo�߂邪�A<br>�@�j�ɂȂ������͖ڊo�߂Ȃ��B���@�c�c�B<br>�@���i���j�j�́A����Ȃ��g�̂Ő�������B<br><br>�@�i���̂�����L������ӂ�j<br><br>�@�₪�Ă₯�ɂȂ������i���j�j�A<br>�@�ˑR�ڂ��o�܂��Ȃ����̎����̐g�̂�S���ŊK�i�܂ōs���B<br>�@������x�K�i�����i�H�j<br><br>�@�i���̂�������L������ӂ�j<br><br>�@�j�i�����j���ڂ��o�߂邪�A�ˑR�A�Q�l�͓���ւ�����܂܁B<br>�@���ǂQ�l�͌�������B<br><br>�y���b�z<br>�@���������͗ǂ����A�Q�l�̕v�w�����͂��܂������Ȃ��B<br>�@�Ȃ��Ȃ�A�v�͖u�N���Ȃ��̂Łi�΁j�B<br>�@��͂���Ə������炩�H<br>�@�������A�Ȃ͌��j�Ȃ̂ŁA���������������Ă��܂�܂���B<br>�@�Ȃ̓A�_���g�r�f�I���؂�Ă��āA�ꏏ�Ɍ��܂����A<br>�@����ς�v�̃A���͖u���܂���B<br>�@�v�͌����܂��B<br>�@��͂茳�̎�������ɋ����͏o���Ȃ��ƁB<br>�@���āA��Ђł��B<br>�@�j�i�����j�́A�₯�ɂȂ�Ȃ悵�Ă��܂��A�����ɂ��炩���܂��B<br>�@���i���j�j�́A�t�ɒj���ۂ��Ȃ�܂��B<br>�@�����ɁA���Y�̂n�k���A�����Ă��܂��B<br>�@���Y�̂n�k���D���Ȓj���o�Ă��܂��B<br>�@<br>�@�i���̂�����L������ӂ�j<br><br>�@�Ƃ܂ŉ����|���Ă����A���Y�n�k�B<br>�@���̂Ƃ��A����ւ���Ă��邱�Ƃ̓o���Ă��܂��B<br>�@����O�B<br>�@���i���j�j���~�����s�����Ă���̂ŁA���̂܂܎󂯓���܂��B<br>�@�L�X����Q�l�B<br>�@�Ƃ��낪�A�O�o����A���Ă����j�i�����j�Ɍ��������ꂿ�Ⴂ�܂��B�@<br>�@�V���b�N���󂯁A�|��܂��B<br>�@�a�@�ŁA�n���H�@�h�{�����H�@�Ɛf�f����܂��B<br>�@�ȁA�����܂��B<br>�@�u�v�̌��N���݂Ă��Ȃ��Ȃ�āA�Ȏ��i���c�c�v<br>�@�Ԃ߂�v�B<br>�@�������Ă��āA�a�@�̃x�b�h�ł�����Ⴂ�܂��B���Ȃ݂ɋR��ʁB<br><br>�y��O�b�z<br>�@���i���j�j�A�����ŃC���C�����Ă��܂��B<br>�@����A�@�ˑR�A�Ȃ�Ȃ悵�Ă���j�i�����j�A�����̂��炩����<br>�@�G�X�J���[�g���āA�����߂ɂ܂łȂ�܂��B<br>�@��Ђ��яo���H<br>�@<br>�@�i���̂�����L������ӂ�j<br><br>�@�ȁA�䂪�ƂɋA�ҁB<br>�@�Ȃ�Ƃ����ɂ́A�`���C�i�h���X�𒅂��v�̎p���c�c�B<br>�@�u�����������Ȃ��B��Ђ�߂��B�Q�C�o�[�œ����v<br>�@�������炩��Ɠ�����v�B<br><br>�@�i���̂�����L������ӂ�j<br><br>�@�{�����ȁA�v��A��ĉw�̊K�i�ցc�c�B<br>�@�ꏏ�ɗ�����B�ł����ɂ͖߂�Ȃ��B<br>�@�Ȃ͑��̍���܂����B<br>�@�v�͖����B<br>�@�x�b�h�̏�œ{��ȁB�����S�̔�𔍂��v�B������݂�Q�C�o�[�̃}�}�B<br><br>�y��l�b�z<br>�@�i�o���������A�L������ӂ�ƌ������A�L���ɖ����j<br><br>�@�������D�P���Ă��邱�Ƃ�m��ȁB<br>�@���]�c�c�B<br>�@���낢�날��A�َ�p�����ӁB<br>�@��p���A�َ��̌ۓ���������B<br>�@�q���̖��c�c�B<br>�@��p�����Ȃ����Ƃ����ӁB<br>�@�������A�܂����]���Ă���B�ǂ����ėǂ��̂�������Ȃ��B<br><br>�@�i���̂�����L������ӂ�B�}�}���񂪏o�Ă����悤�ȋC������j<br><br>�@�v�A�o��B<br>�@�v�̋��ŋ������Ⴍ��ȁB<br>�@�u�����ɂ͕ꐫ�{�\�Ȃ�Ė����I�v<br>�@�D�P�����s����i����ȁB<br>�@�u�������Ă��邶��Ȃ��v<br>�@�͋����A�Ȃ̕s�����󂯎~�߂�v�B<br><br>�@�i���̉�̃��X�g�A�ǂ�Ȃ��������Y�ꂽ�j<br><br>�y��ܘb�z<br>�@�D�P�܃����̍ȁB�K�i�������̂ɂ����J�B<br>�@�D�����Ȃ̎���Ƃ�v�B<br>�@�Ȃ̓}�^�j�e�B�h���X�B�i�E�F�f�B���O�ȊO�ł́A���X�J�[�g�H�j<br>�@���āA����ȂQ�l�̌��ɁA�v�w���񂩂����Ĕ�яo���Ă���<br>�@�j�i�g�̂̂ق��j�̕�e������Ă���B<br>�@���i���g�͂��̕�e�̎��̑��q�j�́A<br>�@�`�̏�ł͋`��ł����e�ƈꏏ�ɐ�������B<br>�@��ꗿ���̍��������肾�́A�Ȃ񂾂̂Ƃ��邳����B<br>�@�ŁA�Ƃ̊֌W�ɋ�J����ȁB<br>�@�������ׂ̈ɁA�v���΂߂�Q�C�o�[�ɗV�тɍs���B<br>�@�����ł��o���܂����ɂ����܂�������ȁB<br>�@�Ƃɂ��ǂ�A�܂����邳����̏����B<br>�@��i�H�j�A�Ȃƕv�A�ǂ��������񂩂Ƒ��k�B<br>�@���̉�b�𕷂�����A�Q�l������ւ���Ă��邱�Ƃ�m��B<br>�@�u���͖����~���������񂾂�v<br>�@�ƁA��ԕ�B<br>�@���āA�����͗���A���悢�悲�o�Y�B<br>�@���ʎv���ŏo�Y�����ȁA�������݂����Ȃ��ƌ����B<br>�@��Ȃ��q���˂��ƌ�����B<br>�@���X�g�V�[���́A�q���Ɍ������āA<br>�@�ȁu�����}�}�����v<br>�@�v�u�킽�����p�p��v<br>�@�ƁA�������e�����āA�q�����@�H�@�}�[�N�𕂂��ׂĂ���B</font></ul>
+<ul><br><font size=3>一味とうがらし様、メールでお礼していただきまして、有難うございました。<br>返信のメールにも書きましたが、よく思い出してみたら、全部で５話でした。<br>メールにつけたあらすじを、ここにも書き込んでおきます。<br>私の記憶の不備な部分を埋めることが出来る方、後は頼みます。<br><br>「あなたになりたい」<br><br>【第一話】<br>　駅の階段で、階段落ち。<br>　入れ替わるが、女になった元男は目覚めるが、<br>　男になった女は目覚めない。入院……。<br>　女（元男）は、慣れない身体で生活する。<br><br>　（このあたり記憶あやふや）<br><br>　やがてやけになった女（元男）、<br>　依然目を覚まさない元の自分の身体を担いで階段まで行く。<br>　もう一度階段落ち（？）<br><br>　（このあたりも記憶あやふや）<br><br>　男（元女）も目が覚めるが、依然、２人は入れ替わったまま。<br>　結局２人は結婚する。<br><br>【第二話】<br>　結婚したは良いが、２人の夫婦生活はうまくいかない。<br>　なぜなら、夫は勃起しないので（笑）。<br>　やはりもと女だからか？<br>　しかし、妻は元男なので、性生活をしたくてたまりません。<br>　妻はアダルトビデオを借りてきて、一緒に見ますが、<br>　やっぱり夫のアレは勃ちません。<br>　夫は言います。<br>　やはり元の自分相手に興奮は出来ないと。<br>　さて、会社です。<br>　男（元女）は、やけになよなよしてしまい、同僚にからかわれます。<br>　女（元男）は、逆に男っぽくなります。<br>　そこに、レズのＯＬが、迫ってきます。<br>　レズのＯＬを好きな男も出てきます。<br>　<br>　（このあたり記憶あやふや）<br><br>　家まで押し掛けてきた、レズＯＬ。<br>　このとき、入れ替わっていることはバレています。<br>　迫る唇。<br>　女（元男）も欲求が不満しているので、そのまま受け入れます。<br>　キスする２人。<br>　ところが、外出から帰ってきた男（元女）に現場を見られちゃいます。　<br>　ショックを受け、倒れます。<br>　病院で、貧血？　栄養失調？　と診断されます。<br>　妻、泣きます。<br>　「夫の健康をみてやれないなんて、妻失格だ……」<br>　慰める夫。<br>　興奮してきて、病院のベッドでやっちゃいます。ちなみに騎乗位。<br><br>【第三話】<br>　女（元男）、生理でイライラしています。<br>　一方、　依然、なよなよしている男（元女）、同僚のからかいが<br>　エスカレートして、いじめにまでなります。<br>　会社を飛び出す？<br>　<br>　（このあたり記憶あやふや）<br><br>　妻、我が家に帰還。<br>　なんとそこには、チャイナドレスを着た夫の姿が……。<br>　「もうたえられない。会社やめた。ゲイバーで働く」<br>　あっけらかんと答える夫。<br><br>　（このあたり記憶あやふや）<br><br>　怒った妻、夫を連れて駅の階段へ……。<br>　一緒に落ちる。でも元には戻らない。<br>　妻は足の骨を折る怪我。<br>　夫は無傷。<br>　ベッドの上で怒る妻。リンゴの皮を剥く夫。それをみるゲイバーのママ。<br><br>【第四話】<br>　（出だし部分、記憶あやふやと言うか、記憶に無い）<br><br>　自分が妊娠していることを知る妻。<br>　動転……。<br>　いろいろあり、堕胎手術を決意。<br>　手術室、胎児の鼓動を感じる。<br>　子供の命……。<br>　手術をしないことを決意。<br>　しかし、まだ動転している。どうして良いのか分からない。<br><br>　（このあたり記憶あやふや。ママさんが出てきたような気もする）<br><br>　夫、登場。<br>　夫の胸で泣きじゃくる妻。<br>　「自分には母性本能なんて無い！」<br>　妊娠した不安を訴える妻。<br>　「私がついているじゃない」<br>　力強く、妻の不安を受け止める夫。<br><br>　（この回のラスト、どんなだったか忘れた）<br><br>【第五話】<br>　妊娠五ヶ月の妻。階段を下りるのにも一苦労。<br>　優しく妻の手をとる夫。<br>　妻はマタニティドレス。（ウェディング以外では、初スカート？）<br>　さて、そんな２人の元に、夫婦げんかをして飛び出してきた<br>　男（身体のほう）の母親がやってくる。<br>　女（中身はその母親の実の息子）は、<br>　形の上では義母である母親と一緒に生活する。<br>　やれ料理の作り方が下手だの、なんだのとうるさい母。<br>　嫁、姑の関係に苦労する妻。<br>　息抜きの為に、夫が勤めるゲイバーに遊びに行く。<br>　そこでお姉さまがたにうらやましがられる妻。<br>　家にもどり、またうるさい母の小言。<br>　夜（？）、妻と夫、どうしたもんかと相談。<br>　その会話を聞いた母、２人が入れ替わっていることを知る。<br>　「私は娘が欲しかったんだよ」<br>　と、喜ぶ母。<br>　さて、月日は流れ、いよいよご出産。<br>　死ぬ思いで出産した妻、もう生みたくないと言う。<br>　情けない子だねえと言う母。<br>　ラストシーンは、子供に向かって、<br>　妻「俺がママだぞ」<br>　夫「わたしがパパよ」<br>　と、言う両親を見て、子供が　？　マークを浮かべている。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

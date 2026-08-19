@@ -1,140 +1,140 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�Y����i�̏ڍ�>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:該当作品の詳細>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=79885><BR>
-<img SRC="out.png?31679885"> ����4���̐����𔼊p�����œ��͂��Ă�������: <input type="text" size=8 name="captcha"><br> <br>
-���܋C�ɂȂ�
+<img SRC="out@31679885.png"> 左の4桁の数字を半角数字で入力してください: <input type="text" size=8 name="captcha"><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2778>
 <input type=hidden name=ress value=2778>
-<input type=submit value=�Y����i�̏ڍׂ֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=該当作品の詳細へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2778>
-<font color=#6A5ACD>�Y����i�̏ڍ�</font></a>
+<font color=#6A5ACD>該当作品の詳細</font></a>
 <font color=#303030>
 N-Tipe33
- ����</font>
- <font size=2>2006�N10��17��(��) 22��11��</font>
-<a href="resbbs4.cgi?vew=2778">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�o�`</b>�z</font>
+ さん</font>
+ <font size=2>2006年10月17日(火) 22時11分</font>
+<a href="resbbs4@vew_2778.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>姉汁</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���߂܂��āATS�t�@����N-Tipe33�Ɛ\���܂��B<br><br>�A�g���G������ŊY������̂́E�E�E <br>�E���`(��l���@���������@�􂢂ɂ�鏗����) <br>�E�o�`(��l���@����I�@�@�􂢂ɂ�鏗�����j <br>�E�}�W�J���E�B�b�`�A�J�f�~�[(��l���@�c�J�T�E�X�g���r�����g�D�X�@���@�ɂ�鏗����) <br>�E�h�L�h�L���o����(��l���@��ޒq���@OL�ɂԂ����Ĝ߈ˁ@�l�^�Z���j <br><br>����ȊO�ɁA�A�g���G������ŊY����i�͂���܂����ł��傤���H�����́A�X�������肢���܂��B<br></font></ul>
+<ul><br><font size=3>初めまして、TSファンのN-Tipe33と申します。<br><br>アトリエかぐやで該当するのは・・・ <br>・妹汁(主人公　小日向晶　呪いによる女性化) <br>・姉汁(主人公　白川悠　　呪いによる女性化） <br>・マジカルウィッチアカデミー(主人公　ツカサ・ストロビラントゥス　魔法による女性化) <br>・ドキドキお姉さん(主人公　川奈智博　OLにぶつかって憑依　ネタ短い） <br><br>これ以外に、アトリエかぐやで該当作品はありましたでしょうか？ご協力、宜しくお願いします。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2779>
-<font color=#6A5ACD>RE:�Y����i�̏ڍ�</font></a>
+<font color=#6A5ACD>RE:該当作品の詳細</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2006�N10��18��(��) 0��3��</font>
-<a href="resbbs4.cgi?vew=2779">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�G����MySQL�ł��������ғ�</b>�z</font>
-<ul><font size=3>����ɂ��́A�T�C�g��̔��d�F�ł��B<br>�A�g���G���������ŏ��T���Ƃ͒������ł��ˁB<br>���̂Ƃ��뎄�̒m�����Ɗ��ɋ������Ă���^�C�g���ȊO�͎v��������Ȃ��ł��B<br>�A�g���G������ʂ���̏��񋟂�҂������ł��ˁB<br>�Ƃ���Ń}�W�J���E�B�b�`�A�J�f�~�[�̏������C�x���g���ĒP���C�x���g�n�݂̂ŁA���������[�g�͂Ȃ���ł��傤���H</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2006年10月18日(水) 0時3分</font>
+<a href="resbbs4@vew_2779.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>萌え暦MySQL版もうすぐ稼動</b>】</font>
+<ul><font size=3>こんにちは、サイト主の八重洲です。<br>アトリエかぐや限定で情報探索とは珍しいですね。<br>今のところ私の知識だと既に挙がっているタイトル以外は思い当たらないです。<br>アトリエかぐや通からの情報提供を待ちたいですね。<br>ところでマジカルウィッチアカデミーの女性化イベントって単発イベント系のみで、女性化ルートはないんでしょうか？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2780>
-<font color=#6A5ACD>RE:�Y����i�̏ڍ�</font></a>
+<font color=#6A5ACD>RE:該当作品の詳細</font></a>
 <font color=#303030>
-�ʂ肷����̐_���l
- ����</font>
- <font size=2>2006�N10��18��(��) 0��34��</font>
-<a href="resbbs4.cgi?vew=2780">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�����͂��o���܂ɗ����Ă�</b>�z</font>
-<ul><font size=3>�@�l�v�`�{�̂ł͏������̓C�x���g�����������ƋL�����Ă��܂��B<br>�@�ł����A�����ł̃V�����B�A�҂ł͏������C�x���g���G���f�B���O�Ɏ����Ă����Ă���̂ŁA���������[�g���^���̌��ł��܂�(��)�B<br></font></ul>
+通りすがりの神父様
+ さん</font>
+ <font size=2>2006年10月18日(水) 0時34分</font>
+<a href="resbbs4@vew_2780.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>乙女はお姉さまに恋してる</b>】</font>
+<ul><font size=3>　ＭＷＡ本体では女性化はイベント扱いだったと記憶しています。<br>　ですが、小説版のシルヴィア編では女性化イベントがエンディングに持ってこられているので、女性化ルートを疑似体験できます(笑)。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2782>
-<font color=#6A5ACD>�����͂ǂ���H</font></a>
+<font color=#6A5ACD>小説はどちら？</font></a>
 <font color=#303030>
 N-Tipe33
- ����</font>
- <font size=2>2006�N10��18��(��) 19��39��</font>
-<a href="resbbs4.cgi?vew=2782">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�}�W�J���E�B�b�`�A�J�f�~�[</b>�z</font>
-<ul><font size=3>�}�W�J���E�B�b�`�A�J�f�~�[�̏����ł́A�w�����̐����x�Ɓw�������̖��x������܂����A�Y���͂ǂ���ł����H<br><br>�ڍׁA�X�������肢���܂��B</font></ul>
+ さん</font>
+ <font size=2>2006年10月18日(水) 19時39分</font>
+<a href="resbbs4@vew_2782.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>マジカルウィッチアカデミー</b>】</font>
+<ul><font size=3>マジカルウィッチアカデミーの小説では、『少女の誓い』と『水晶樹の夢』がありますが、該当はどちらですか？<br><br>詳細、宜しくお願いします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2783>
-<font color=#6A5ACD>RE:�����͂ǂ���H</font></a>
+<font color=#6A5ACD>RE:小説はどちら？</font></a>
 <font color=#303030>
-�ʂ肷����̐_���l
- ����</font>
- <font size=2>2006�N10��20��(��) 1��0��</font>
-<a href="resbbs4.cgi?vew=2783">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�u�����̐����v�̕��ł��ˁB<br>�@�V�����B�A�͏����ł͂Ȃ�����A�Ǝv���Ă����班���̓c�J�T�������ƌ����f���炵���I�`�ł���܂�(��)�B<br></font></ul>
+通りすがりの神父様
+ さん</font>
+ <font size=2>2006年10月20日(金) 1時0分</font>
+<a href="resbbs4@vew_2783.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>「少女の誓い」の方ですね。<br>　シルヴィアは少女ではないだろ、と思っていたら少女はツカサだったと言う素晴らしいオチであります(殴)。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2784>
-<font color=#6A5ACD>RE:�����͂ǂ���H</font></a>
+<font color=#6A5ACD>RE:小説はどちら？</font></a>
 <font color=#303030>
 N-Tipe33
- ����</font>
- <font size=2>2006�N10��20��(��) 10��18��</font>
-<a href="resbbs4.cgi?vew=2784">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�}�W�J���E�B�b�`�A�J�f�~�[</b>�z</font>
-<ul><font size=3>�����̃��X�A���ӂ��܂��BN-Tipe33�ł��B<br><br>����܂����A�����̐����̂ق��ł��ˁB�����A��i��������w���������Ǝv���܂��B���̂��񋟁A�L��������܂����B</font></ul>
+ さん</font>
+ <font size=2>2006年10月20日(金) 10時18分</font>
+<a href="resbbs4@vew_2784.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>マジカルウィッチアカデミー</b>】</font>
+<ul><font size=3>早速のレス、感謝します。N-Tipe33です。<br><br>判りました、少女の誓いのほうですね。今日、一段落したら購入したいと思います。情報のご提供、有難うございました。</font></ul>
 <HR>
 </ul>
 </ul>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=2781>
-<font color=#6A5ACD>RE:�Y����i�̏ڍ�</font></a>
+<font color=#6A5ACD>RE:該当作品の詳細</font></a>
 <font color=#303030>
 N-Tipe33
- ����</font>
- <font size=2>2006�N10��18��(��) 11��3��</font>
-<a href="resbbs4.cgi?vew=2781">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>���`</b>�z</font>
-<ul><font size=3>����ɂ��́A�����̃��X���ӂ��܂��BN-Tipe33�ł��B<br><br>��_�Y��Ă��܂����B�����A�g���G������ŊY���́E�E�E<br>�E�܂ق���(��l���@���q���u�@�����ɂ��􂢂ŏ������@�{�C�X����)<br>���}�W�J���E�B�b�`�A�J�f�~�[���{�C�X�͖������A�h�L�h�L���o����͂���B<br><br>�����̊Y����i�A���ӂ��܂��B�������A�g���G������ŊY���́E�E�E<br>�E���`(�I�i�j�[�V�[������B���ɃG�s���[�O�ő劈��H�I��Ԃ��C�ɓ���)<br>�E�o�`(�I�i�j�[�V�[���Ȃ��B�E�T�M����̃A�b�v���P�̉����ɖG����I)<br>�E�}�W�J���E�B�b�`�A�J�f�~�[(�V�����B�A�҂ŊY��)<br><br>����ɁA�A�j���ŊY���́E�E�E<br>�E���`�Q��(�Ō�̏I�����ɋ^�₪�c��l������)<br>�E�o�`�H��(���N��12��22����1�����ł܂����A���炭�����łł邩�ȁH�j<br><br>�A�j�����A����ȏ�͊Y�����Ȃ��̂ł��傤���H�H<br><br>&gt;&gt;�ʂ肷����̐_���l���� <br>�}�W�J���E�B�b�`�A�J�f�~�[�̏����ł͂܂����Ă��Ȃ��̂ŁA�����w���������Ǝv���܂��B���L��������܂��B<br><br>&gt;&gt;�Ǘ��l�l<br>�A�g���G������̍�i�ł́A���x���̍���TS�Y����i������������̂ō���Ƃ��`�F�b�N���Ă��������ł��ˁB�ߋ��̍�i�ŁA�Y����i����L�ȊO�ɖ������A���m�荇���̕������܂����炨�肢���܂��B<br><br>��L�ȊO�̊Y����i���A�m���Ă���Ƃ������͐��񂲋��͉������B���肢���܂��B</font></ul>
+ さん</font>
+ <font size=2>2006年10月18日(水) 11時3分</font>
+<a href="resbbs4@vew_2781.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>妹汁</b>】</font>
+<ul><font size=3>こんにちは、早速のレス感謝します。N-Tipe33です。<br><br>一点忘れていました。同じアトリエかぐやで該当は・・・<br>・まほこい(主人公　沙倉誠志　悪魔による呪いで女性化　ボイス無し)<br>＊マジカルウィッチアカデミーもボイスは無いが、ドキドキお姉さんはあり。<br><br>小説の該当作品、感謝します。同じくアトリエかぐやで該当は・・・<br>・妹汁(オナニーシーンあり。特にエピローグで大活躍？！一番お気に入り)<br>・姉汁(オナニーシーンなし。ウサギさんのアップリケの下着に萌えよ！)<br>・マジカルウィッチアカデミー(シルヴィア編で該当)<br><br>さらに、アニメで該当は・・・<br>・妹汁２巻(最後の終わり方に疑問が残る人が多い)<br>・姉汁？巻(今年の12月22日に1巻がでますが、恐らく次巻ででるかな？）<br><br>アニメも、これ以上は該当しないのでしょうか？？<br><br>&gt;&gt;通りすがりの神父様さん <br>マジカルウィッチアカデミーの小説版はまだ見ていないので、早速購入したいと思います。情報有難うございます。<br><br>&gt;&gt;管理人様<br>アトリエかぐやの作品では、レベルの高いTS該当作品が数多くあるので今後ともチェックしていきたいですね。過去の作品で、該当作品が上記以外に無いか、お知り合いの方がいましたらお願いします。<br><br>上記以外の該当作品を、知っているという方は是非ご協力下さい。お願いします。</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

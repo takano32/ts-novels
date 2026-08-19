@@ -1,186 +1,186 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1012665145esjgle&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1012665145esjgle_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�l�������������i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">Ｍａｒｉｅさん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/03004409/career97.html" target="_blank">�L�����A�E�f�C�@�X�V</a></strong>  <i>2002/02/03 00:52:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/03004409/career97.html" target="_blank">キャリア・デイ　９７</a></strong>  <i>2002/02/03 00:52:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012665145esjgle&id2=1012665145esjgle&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012665145esjgle_id2_1012665145esjgle_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���҂������܂����B�l������������̍�i�������e�́u�L�����A�E�f�C�@�X�V�v�ł��B<BR>���ۂ��̍�i�͂l�����������񂪏��߂ĕ��ɂɓ��e�Ȃ�������i�ł�����܂��B<BR>���݂̕��ɍ�i�Q�Ƃ͏��X�ѕ��݂̈������i�ł��A�ǂ������y���݉������B
+お待たせしました。Ｍａｒｉｅさんの作品復活第一弾は「キャリア・デイ　９７」です。<BR>実際この作品はＭａｒｉｅさんが初めて文庫に投稿なさった作品でもあります。<BR>現在の文庫作品群とは少々毛並みの違った作品です、どうぞお楽しみ下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2002/02/03 01:17:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2002/02/03 01:17:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012666632ojtix&id2=1012665145esjgle&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012666632ojtix_id2_1012665145esjgle_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�K�����������������߂�Ƃ́A�Ȃ��Ȃ��|�����b�ł��ˁB<BR>������������A��l���͂��Ƃ��Ɣ��A�z���Ȃɂ��ŏ����������Ƃ��H<BR><BR>����͂Ƃ������A���̂��p���a��݂����Ɏv���܂����B<BR>������������A�l��������������ĕꍑ�ꂪ���{��łȂ��̂����I�H<BR>�i�ԈႢ�ł����玸�炵�܂����j
+適性検査が将来を決めるとは、なかなか怖いお話ですね。<BR>もしかしたら、主人公はもともと半陰陽かなにかで女性だったとか？<BR><BR>それはともかく、文体が英文和訳みたいに思えました。<BR>もしかしたら、Ｍａｒｉｅさんって母国語が日本語でないのかも！？<BR>（間違いでしたら失礼しました）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤���{��S��</strong>  <i>2002/02/03 02:08:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう＠本作担当</strong>  <i>2002/02/03 02:08:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012669693dotewo&id2=1012665145esjgle&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012669693dotewo_id2_1012665145esjgle_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������͂Ƃ������A���̂��p���a��݂����Ɏv���܂����B<BR>�����̏Љ�ɂ��ƁA<BR>�u�A�����J�̃j�t�e�B�̍�i���A�l�����������񂪓Ǝ��ɖ|�Ă��ꂽ��i�v<BR>�Ȃ񂾂����ł��B<BR>�������Ȃ�ƂȂ��p����ۂ��Ȃ��Ǝv�����������������̂ŁA�Ȃ�قǂƎv���܂����B<BR><BR>���Ȃ݂ɁA���䂪�����ς�����u�L�����A�E�f�C�@�Q�O�Q�R�v�Ƃ�����i�����݂��Ă��܂��B<BR>�������قǌf�ڂ��邱�ƂɂȂ�Ǝv���܂��A���҂��������ˁB
+＞それはともかく、文体が英文和訳みたいに思えました。<BR>当時の紹介文によると、<BR>「アメリカのニフティの作品を、Ｍａｒｉｅさんが独自に翻案された作品」<BR>なんだそうです。<BR>自分もなんとなく英訳っぽいなぁと思った部分があったので、なるほどと思いました。<BR><BR>ちなみに、舞台が少し変わった「キャリア・デイ　２０２３」という作品も存在しています。<BR>これも後ほど掲載することになると思います、お待ち下さいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/03 21:04:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/03 21:04:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012737893sltyo&id2=1012665145esjgle&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012737893sltyo_id2_1012665145esjgle_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށB<BR>���K�����������������߂�Ƃ́A�Ȃ��Ȃ��|�����b�ł��ˁB<BR>�����ł��B�������A���̌������ʂ��o�O�������ɂ����̂�������A���S�Ƀz���[�ł��ˁB<BR>������͂Ƃ������A���̂��p���a��݂����Ɏv���܂����B<BR>���^�N�V�������v���܂����B����ς肻����������ł��ˁB<BR><BR>�u�X�V�v�Ƃ������Ƃ́A����ݒ�͂P�X�X�V�N�Ȃ�ł��傤���˂��H<BR>�u�Q�O�Q�R�v���y���݂ł��ˁB
+読んだバイ♪<BR>うーむ。<BR>＞適性検査が将来を決めるとは、なかなか怖いお話ですね。<BR>同感です。しかも、その検査結果がバグか何かによるものだったら、完全にホラーですね。<BR>＞それはともかく、文体が英文和訳みたいに思えました。<BR>ワタクシもそう思いました。やっぱりそうだったんですね。<BR><BR>「９７」ということは、時代設定は１９９７年なんでしょうかねぇ？<BR>「２０２３」も楽しみですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2002/02/03 23:44:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2002/02/03 23:44:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012747497oggkoe&id2=1012665145esjgle&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012747497oggkoe_id2_1012665145esjgle_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���₠�E�E�E�E���������ł��B<BR>���̂��b��D���ł���B��t�e�B�̕����ǂ݂܂����B<BR>�����āA���̂��b���Ȃ������猻�݂̎��͑��݂��Ă��Ȃ��̂ł��B<BR>�Ȃ����āA���ł��Ȃ����̂��b����<BR>�����̕�W��搂����傾����<BR>�u��ʂ邢�I�Ǝv�����A�i�^�v<BR>�́A���ɂƂ��āu��ʂ邢�v���b�������̂ł��B<BR>���̌��ʂł������b���E�E�E�E�����܂ł�����܂���ˁB<BR>���������H���A�����Ƒ����̐l�Ɍ��Ă��炢������<BR>�����Ƒ����̐l�������Ă���Ȃ����Ȃ��Ǝv���������̍��E�E�E<BR>�ł͂܂��B�Ȃ񂩌����n�߂�����E���Ȃ��Ȃ肻��<BR>�i�ǂ��Ӗ��Łj
+いやあ・・・・懐かしいです。<BR>このお話大好きですよ。二フティの方も読みました。<BR>そして、このお話がなかったら現在の私は存在していないのです。<BR>なぜって、他でもないこのお話こそ<BR>当時の募集の謳い文句だった<BR>「手ぬるい！と思ったアナタ」<BR>の、私にとって「手ぬるい」お話だったのです。<BR>その結果できたお話が・・・・言うまでもありませんね。<BR>こういう路線、もっと多くの人に見てもらいたいし<BR>もっと多くの人が書いてくれないかなぁと思う今日この頃・・・<BR>ではまた。なんか言い始めたら収拾つかなくなりそう<BR>（良い意味で）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>Kardy���V�[���J���X</strong>  <i>2002/02/04 01:33:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Kardy＠シーラカンス</strong>  <i>2002/02/04 01:33:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012753982jkfbb&id2=1012665145esjgle&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012753982jkfbb_id2_1012665145esjgle_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��P�e�A���Ď��́A���ꂩ������X��������킯�ł��ˁI<BR>���₟�A�y���݂��Ȃ��E�E�E�i�P���P�j<BR>�i�������v���o���ĉ����ځj
+第１弾、って事は、これからも続々復活するわけですね！<BR>いやぁ、楽しみだなぁ・・・（￣▽￣）<BR>（当時を思い出して遠い目）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/03004409/future.html" target="_blank">�������痈����</a></strong>  <i>2002/02/24 01:00:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/03004409/future.html" target="_blank">未来から来た女</a></strong>  <i>2002/02/24 01:00:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014480014upwqhv&id2=1012665145esjgle&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014480014upwqhv_id2_1012665145esjgle_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���X�Ԃ������܂������A�l�������������i��Q�e�ł��B�ǂ������y���݉������B<BR>���Ԃ����[�v���邠����A�S���͎�ˎ������̍�i�ɂ悭�������͋C�������܂����B
+【推薦文】少々間があきましたが、Ｍａｒｉｅさん作品第２弾です。どうぞお楽しみ下さい。<BR>時間がループするあたり、担当は手塚治虫氏の作品によく似た雰囲気を感じました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/03004409/earring.html" target="_blank">���F�̃C�������O</a></strong>  <i>2002/02/24 01:01:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/03004409/earring.html" target="_blank">虹色のイヤリング</a></strong>  <i>2002/02/24 01:01:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014480072lwampg&id2=1012665145esjgle&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014480072lwampg_id2_1012665145esjgle_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�l������������Ɠ��̐_��I�ȕ��͋C�������悤��i�ł��B
+【推薦文】Ｍａｒｉｅさん独特の神秘的な雰囲気がただよう作品です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2002/02/24 09:46:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2002/02/24 09:46:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014511614nvxvmx&id2=1012665145esjgle&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014511614nvxvmx_id2_1012665145esjgle_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Maie����B�u�������痈�����v�ǂ݂܂����B<BR>����`�A�u�X�[�p�[�A�X�p���v�Ɛ������Y�́u�ߋ��̏��v���v���o���Ă��܂��܂����B������g�ݍ��킹����E�E�E����Ȗʔ�����i�ɂȂ����̂����A�Ƃ��v���ēǂ݂܂����B<BR>�ʔ�����i�����肪�Ƃ��������܂����B<BR>���Ă����̂͂ǂ�Ȃ̂��ȁH<BR>
+Maieさん。「未来から来た女」読みました。<BR>いや～、「スーパーアスパラ」と生島治郎の「過去の女」を思い出してしまいました。これらを組み合わせたら・・・こんな面白い作品になったのかも、とつい思って読みました。<BR>面白い作品をありがとうございました。<BR>さてお次のはどんなのかな？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2002/02/24 09:56:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2002/02/24 09:56:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014512171qsgekg&id2=1012665145esjgle&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014512171qsgekg_id2_1012665145esjgle_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���F�̃C�������O�v�ǂ݂܂����B<BR>�q�[���[���q���C���ɕϐg����̂��Ǝv������A�������v�����Z�X�ɕϐg�B<BR>�Ȃ񂾂��A�t�@���^�W�[�ōD���ł��B<BR>Marie����B�f�G�ȃt�@���^�W�[�����肪�Ƃ��������܂��B<BR>�ӂƁA�ΐX�͑��Y�́u�W�����v���v���o���Ă��܂����B
+「虹色のイヤリング」読みました。<BR>ヒーローがヒロインに変身するのかと思ったら、美しいプリンセスに変身。<BR>なんだか、ファンタジーで好きです。<BR>Marieさん。素敵なファンタジーをありがとうございます。<BR>ふと、石森章太郎の「ジュン」を思い出してしまった。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2002/02/24 12:43:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2002/02/24 12:43:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014522235dlcvqor&id2=1012665145esjgle&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014522235dlcvqor_id2_1012665145esjgle_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�������痈�����v�́A�n�C���C���́u�։�̎ցv�ł�����̂��B<BR>�X�S�C
+「未来から来た女」は、ハイラインの「輪廻の蛇」でもあるのか。<BR>スゴイ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/03004409/pink.html" target="_blank">�s���N�̃����h�Z��</a></strong>  <i>2002/04/02 00:55:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/03004409/pink.html" target="_blank">ピンクのランドセル</a></strong>  <i>2002/04/02 00:55:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017676537bnesy&id2=1012665145esjgle&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017676537bnesy_id2_1012665145esjgle_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�O�삩��ꃖ���ȏ���Ԃ������Ă��܂��܂������A������S�e�ł��B
+【推薦文】前作から一ヶ月以上も間があいてしまいましたが、復活第４弾です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/04/02 01:03:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/04/02 01:03:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017677037lrsiq&id2=1012665145esjgle&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017677037lrsiq_id2_1012665145esjgle_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@������������������Ƃ���TS�ϐg�V�[���Ƃ����̂�<BR>���ۍD���ł��掄�B<BR>�@�܂��A�B��c�O�Ȃ͓̂ǂ݂���炵���_�ł��ˁB<BR>�@�����łȂ����Ȃ��E�E�E�E�E�E�E<BR>�@���Ɋw�Z�҂Ƃ���]�����������ł����B��<BR>
+　こういったじっくりとしたTS変身シーンというのも<BR>実際好きですよ私。<BR>　まあ、唯一残念なのは読みきりらしい点ですね。<BR>　続きでないかなぁ・・・・・・・<BR>　特に学校編とか希望するもぐたんでした。☆<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/02 01:56:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/02 01:56:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017680189gniag&id2=1012665145esjgle&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017680189gniag_id2_1012665145esjgle_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ف`���A����͂���́c<BR>�N��ލs���̂��񑩂𓥏P���Ă܂��ˁB<BR>�׎q�̎��ɕ����ނ����ł��B<BR>�Ȃ�Ƃ��͂�c<BR><BR>�Ȃɂ͂Ƃ�����<BR>�d�g�d���̓��J�����̑��̐l���Ɉ�[�ł��B
+ほ～う、これはこれは…<BR>年齢退行物のお約束を踏襲してますね。<BR>泰子の死に方がむごいです。<BR>なんともはや…<BR><BR>なにはともあれ<BR>電波妖精はリカちゃんの第二の人生に一票です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�������z�̂����W�S�Q�U</a></strong>  <i>2002/04/02 10:13:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">○速感想のｍｋ８４２６</a></strong>  <i>2002/04/02 10:13:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017710025mmrpaa&id2=1012665145esjgle&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017710025mmrpaa_id2_1012665145esjgle_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�u�������痈�����v<BR>���[�ށB�܂�������̏����������痈���������g�������Ƃ́E�E�E�B<BR>�������A�����̐��q�Ɨ��q���󐸂����Ăł���͎̂����̃N���[���̂悤�ȋC������̂ł����i���j�B<BR>�u���F�̃C�������O�v<BR>���[�ށA�N���҂��āA���ł�����Ȃ��̂��Ȃ��i�΁j�B<BR>��@���Ȃ��Ȃ��X�J�����Ȃ̂��E�E�E�i���j�B<BR>�Ƃ���ŁA�쒆�ɂ͋L�q���Ȃ������ł����A�V�X�^�[�E�W�F�[�����Ă���ς茳�́E�E�E�H<BR>�u�s���N�̃����h�Z���v<BR>�f�����Ȃ��Ȃ��}�b�h�ł����A�Ō�ɐ��C�i�H�j�ɖ߂����̂��~�����ȁH�ł��A���ɗl�i�����l�H�j�͂ނ����ł��ȁB<BR>�m���s���s����V�N�o�����玀�S�鍐���o�����ł����A��e�͂����͂��Ȃ�������ł��傤�ˁB<BR>�������A���񂾂̂Ɏ��S�͂��o���Ă��Ȃ��Ƃ����͖̂��炩�ɂ܂����悤�ȋC���E�E�E�i���j�B<BR>�Ō�̃V�[���̃��J�����ɖG���i���j�B<BR><BR>�Ō�ɁA�R��i�Ƃ��ɂ₩�ɐi�ޕϐg�̕`�ʂ������������ł����ł��ˁB����ςs�r�e�̑�햡�͂���Ȃ��ł͂ˁi�΁j�B
+読んだバイ♪<BR>「未来から来た女」<BR>うーむ。まさか相手の女が未来から来た自分自身だったとは・・・。<BR>しかし、自分の精子と卵子を受精させてできるのは自分のクローンのような気がするのですが（爆）。<BR>「虹色のイヤリング」<BR>うーむ、侵略者って、いつでもこんなものかなぁ（笑）。<BR>秘法がなかなかスカ○ロなのが・・・（爆）。<BR>ところで、作中には記述がなかったですが、シスター・ジェーンってやっぱり元は・・・？<BR>「ピンクのランドセル」<BR>叔父がなかなかマッドですが、最後に正気（？）に戻ったのが救いかな？でも、死に様（消え様？）はむごいですな。<BR>確か行方不明後７年経ったら死亡宣告が出せるんですが、母親はそうはしなかったんでしょうね。<BR>しかし、死んだのに死亡届を出していないというのは明らかにまずいような気が・・・（爆）。<BR>最後のシーンのリカちゃんに萌え（爆）。<BR><BR>最後に、３作品とも緩やかに進む変身の描写が克明かつ見事でいいですね。やっぱＴＳＦの醍醐味はこれなしではね（笑）。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1012665145esjgle">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

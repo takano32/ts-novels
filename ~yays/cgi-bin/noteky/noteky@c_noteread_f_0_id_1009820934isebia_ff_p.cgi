@@ -1,186 +1,186 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1009820934isebia&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1009820934isebia_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
 <font size="+2" color="#0000FF">PROJECT</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/01/01 02:48:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/01/01 02:48:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009820934isebia&id2=1009820934isebia&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009820934isebia_id2_1009820934isebia_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������E�E�E
+準備中・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/01033402/project.htm" target="_blank">��i������Ȃ炱�����N���b�N�B</a></strong>  <i>2002/01/01 03:44:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/01033402/project.htm" target="_blank">作品を見るならここをクリック。</a></strong>  <i>2002/01/01 03:44:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009824262ybcai&id2=1009820934isebia&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009824262ybcai_id2_1009820934isebia_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���D�ɕs���R�̃R���e�i�E�E�E�@��������܂��n�܂����E�E�E
+漁船に不自然のコンテナ・・・　ここからまた始まった・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/01 18:58:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/01 18:58:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009879101jwpox&id2=1009820934isebia&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009879101jwpox_id2_1009820934isebia_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�ނނށB�܂��n�܂�܂����ˁB�ŁA���x�̕���́E�E�E���āA�v���āI�H<BR>���͂͂͂́E�E�E�E�E�E�B<BR><BR>���āA�ٔ��̂܂ܑ����Ă��܂��܂����˂��B�ʂ����ėT�������͖����Ȃ̂��H�܂��A�S�ꂭ��͒E�o�ł���̂��H<BR>���Ɋy���݂ł��B
+読んだバイ♪<BR>むむむ。また始まりましたね。で、今度の舞台は・・・って、久留米！？<BR>あはははは・・・・・・。<BR><BR>さて、緊迫のまま続いてしまいましたねぇ。果たして裕美ちゃんは無事なのか？また、祐一くんは脱出できるのか？<BR>非常に楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/01/06 19:35:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/01/06 19:35:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010313338gqnkut&id2=1009820934isebia&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010313338gqnkut_id2_1009820934isebia_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�g�C���ɕ����߂��Ă�̂̓A�����J���A�^���o�����A�A���J�C�_������Ƃ����{���B<BR>�e�����N����̂́A����c�̂������v�z�̌��ɐ��藧���āA���ɑ΂��鑞���݂�{��������\�������ނ��̂��Ǝv���܂��B<BR>���N���߂ēǂ񂾁A�����ւ�f���炵����i�ł����B���肪�Ƃ��������܂��B
+トイレに閉じ込められてるのはアメリカか、タリバンか、アルカイダかそれとも日本か。<BR>テロが起きるのは、ある団体が狭い思想の元に成り立って、他に対する憎しみを倍増させる構造が生むものだと思います。<BR>今年初めて読んだ、たいへん素晴らしい作品でした。ありがとうございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:ymtak@hcc1bai,ne,jp" target="_blank">masataka</a></strong>  <i>2002/01/07 03:54:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010343256endbu&id2=1009820934isebia&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010343256endbu_id2_1009820934isebia_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ϓǂ݂₷���A�h�L�h�L���Ȃ���ǂ݂܂����B<BR>�t�B�N�V�����̗ǂ����������đ��������҂����Ă��������܂��B<BR>
+大変読みやすく、ドキドキしながら読みました。<BR>フィクションの良さをいかして続きを期待させていただきます。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/01/19 12:51:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/01/19 12:51:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011412268nscqj&id2=1009820934isebia&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011412268nscqj_id2_1009820934isebia_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`�ށA�������C�ɂȂ�c����ɂ��Ă��A�Ȃ񂩊�@���銴���̏o���������܂��ł��ˁA����͎������K��Ȃ���΁B
+う～む、続きが気になる…それにしても、なんか危機迫る感じの出し方がうまいですね、これは私も見習わなければ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2002/01/19 22:48:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2002/01/19 22:48:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011448104guyubm&id2=1009820934isebia&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011448104guyubm_id2_1009820934isebia_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�x���Ȃ�܂������A�݂Ȃ��񊴑z���肪�Ƃ��������܂��B<BR><BR>�����W�S�Q�U����<BR><BR>���z���肪�Ƃ��������܂��B<BR>�v���ẮA�O��̋�B�҂��D�]�������̂Ŏg���Ă��܂��܂����i�΁j�B���Č������A�L���ƕ������炢�����n�����킩��܂���i���j�B�v���čݏZ�̕��A�\���󂲂����܂���B�܂��A�v���Ă�����Ƃ��ēo�ꂷ�邱�Ƃ͂��܂�Ȃ��Ǝv���̂ň��S���Ă��������ˁB<BR><BR>���}�_����<BR><BR>���z���肪�Ƃ��������܂��B<BR>�m���Ƀe���̌����͋����v�z�̒��ő����݂�{��������Ƃ����̂����邩������܂���ˁB�������A�d�v�Ȃ̂͂��ꂪ�l�E���̗��R�ɂ͑S���Ȃ�Ȃ��Ƃ������ł��B<BR>���̓^���o������ΓI�Ɉ����Ƃ͎v���Ă��܂���B�^���o���̐l�B�͋Q���Ȃǂɂ���Ē��Ԃ�����ł��������i�����x�����Ă���͂��ł��B���̔߂����⑞���݂Ȃǂ��ςݏd�Ȃ��ăe�����N�������̂��Ǝv���܂��B�������A������ƌ����ăA�����J�̐l�B���E���Ă������̂ł��傤���B�^���o���̐l�B�͐l�����ʔ߂������悭�������Ă���̂ł͂Ȃ��̂ł����H�����A�^���o���̐l�B���A�u�g�������ʂ̂͌������ǁA���l�����ʂ̂͂��������ɂ��܂�Ȃ��B�v�Ƃ����̂Ȃ�A���̓A�����J�ɖ������܂��B<BR>�l�̎��ʔ߂������킩���Ă���̂Ȃ�A����̎����͋N�����Ăق����Ȃ������Ǝv���܂��B<BR><BR>masataka����<BR><BR>���z���肪�Ƃ��������܂��B<BR>���ꂩ����݂Ȃ���̊��҂ɂ���������悤�ȍ�i����ڎw���čs���܂��̂ŁA��낵�����肢���܂��B<BR><BR>�m�C������<BR><BR>���z���肪�Ƃ��������܂��B<BR>��i���A����΂��Ă��������ˁB�������Ă��܂��B<BR><BR>����̃A�����J���������e���͑O��́u�q�`�h�m�x�v����������������ɋN����܂����B����ɂ���Ă��̍�i�̃X�^�[�g���x���Ȃ��Ă��܂��܂����B<BR>�{���Ȃ�΂���������i�͂����������l���Ă��������悩�����̂�������܂��񂪁A�����r�ꂽ���̒������炱���X�^�[�g���鎖�ɂ��܂����B<BR>���̍�i��ǂ�ŁA�l���E�����̏X���A�߂����������ł������Ƃ��Ă��炦����Ǝv���܂��B<BR><BR>
+遅くなりましたが、みなさん感想ありがとうございます。<BR><BR>ｍｋ８４２６さん<BR><BR>感想ありがとうございます。<BR>久留米は、前回の九州編が好評だったので使ってしまいました（笑）。って言うか、広島と福岡ぐらいしか地名がわかりません（爆）。久留米在住の方、申し訳ございません。まぁ、久留米が舞台として登場することはあまりないと思うので安心してくださいね。<BR><BR>ヤマダさん<BR><BR>感想ありがとうございます。<BR>確かにテロの原因は狭い思想の中で憎しみを倍増させるというのもあるかもしれませんね。しかし、重要なのはそれが人殺しの理由には全くならないという事です。<BR>私はタリバンが絶対的に悪いとは思っていません。タリバンの人達は飢えなどによって仲間が死んでいった光景を何度も見ているはずです。その悲しさや憎しみなどが積み重なってテロを起こしたのだと思います。しかし、だからと言ってアメリカの人達を殺してもいいのでしょうか。タリバンの人達は人が死ぬ悲しさをよく理解しているのではないのですか？もし、タリバンの人達が、「身内が死ぬのは嫌だけど、他人が死ぬのはいっこうにかまわない。」というのなら、私はアメリカに味方します。<BR>人の死ぬ悲しさをわかっているのなら、今回の事件は起こしてほしくなかったと思います。<BR><BR>masatakaさん<BR><BR>感想ありがとうございます。<BR>これからもみなさんの期待にこたえられるような作品作りを目指して行きますので、よろしくお願いします。<BR><BR>ノインさん<BR><BR>感想ありがとうございます。<BR>作品作り、がんばってくださいね。応援しています。<BR><BR>今回のアメリカ同時多発テロは前作の「ＲＡＩＮＹ」を完結させた直後に起こりました。それによってこの作品のスタートも遅くなってしまいました。<BR>本当ならばこういう作品はもう少し自粛していた方がよかったのかもしれませんが、今が荒れた世の中だからこそスタートする事にしました。<BR>この作品を読んで、人を殺す事の醜さ、悲しさを少しでも感じとってもらえたらと思います。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/14235027/project02.htm" target="_blank">��Q�b������Ȃ炱�����N���b�N�B </a></strong>  <i>2002/02/15 00:09:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/14235027/project02.htm" target="_blank">第２話を見るならここをクリック。 </a></strong>  <i>2002/02/15 00:09:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013699379jswua&id2=1009820934isebia&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013699379jswua_id2_1009820934isebia_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �ٔ��̋~�o�����̍Œ��ɔE�ъ��L�ł̃K�X�E�E
+【推薦文】 緊迫の救出活動の最中に忍び寄る有毒のガス・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/15 09:58:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/15 09:58:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013734687xeqefs&id2=1009820934isebia&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013734687xeqefs_id2_1009820934isebia_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B���`��ƁA�T���͏�����ꂽ�ƍl���Ă����̂��ȁB<BR>�ӂ��A����Ǝ��񂠂���ɁATS�������ȗ\���ł��ˁB���Ҋ������܂�܂��ł��B<BR>����ɂ��Ă��A����͐^�Ղ��񂪂����������Ă܂��ˁB<BR>�����Ƃ����䎌�����X����܂����B�Ƃ肠�����A�E�o�������߂łƂ���<BR>��ł́B<BR>
+読みました。う～んと、裕美は助けられたと考えていいのかな。<BR>ふう、やっと次回あたりに、TSしそうな予感ですね。期待感が高まりますです。<BR>それにしても、今回は真琴さんがいい味だしてますね。<BR>ぐっときた台詞が多々ありました。とりあえず、脱出成功おめでとう♪<BR>んでは。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/02/15 17:40:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/02/15 17:40:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013762437uriuf&id2=1009820934isebia&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013762437uriuf_id2_1009820934isebia_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���b�A�ƂĂ��悩�����Ǝv���Ă��܂��B<BR>�l���E���l�@�l��������l�@�Ȃɂ��o�����Ɍ��Ă���l<BR>�l�Ԃ͖��𓮂����鑶�݂ł��B�{���ɑ�؂Ȃ͖̂h�����ł��U�ߗ��Ƃ����ł��Ȃ��A�אl�����Ђ�߂邱�Ƃł��B���͎��𒴂��A�����݂�����Ă���銴��ƁA���͐M���Â��Ă��܂��B<BR>�������y���݂ɂ��Ă���܂�
+お話、とてもよかったと思っています。<BR>人を殺す人　人を助ける人　なにも出来ずに見ている人<BR>人間は命を動かせる存在です。本当に大切なのは防ぐ事でも攻め落とす事でもなく、隣人愛をひろめることです。愛は死を超え、憎しみを癒してくれる感情だと、私は信じつづけています。<BR>続きを楽しみにしております
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/15 20:36:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/15 20:36:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013772975oclelw&id2=1009820934isebia&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013772975oclelw_id2_1009820934isebia_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[��B���ɂ̑I���B<BR>�c���ꂽ�҂�����Ƃ킩���Ă��Ȃ���P�ނ�����𓾂Ȃ��~����������Ԑh����ł���ˁB<BR><BR>�Ƃ���ŁE�E�E�B<BR>�������ߑO�X���R�Q��<BR>���ꖼ���~���B�y�сA�����S���̋A�҂��m�F�B<BR>�~�����ꂽ�̂͗S��N���ł��傤�B�Ƃ������Ƃ́A�T�������́E�E�E�B<BR>
+読んだバイ♪<BR>うーん。究極の選択。<BR>残された者がいるとわかっていながら撤退せざるを得ない救助隊員が一番辛いんですよね。<BR><BR>ところで・・・。<BR>＞同日午前９時３２分<BR>＞一名を救助。及び、隊員全員の帰還を確認。<BR>救助されたのは祐一クンでしょう。ということは、裕美ちゃんは・・・。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/14235027/project03.htm" target="_blank">��R�b������ɂ͂������N���b�N�B</a></strong>  <i>2002/04/14 16:08:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/14235027/project03.htm" target="_blank">第３話を見るにはここをクリック。</a></strong>  <i>2002/04/14 16:08:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018768106ijbks&id2=1009820934isebia&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018768106ijbks_id2_1009820934isebia_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z������Ԃ̗T��Ɩ��͊��ɑł��Ђ������^�Ղ�K�ڂɁA���Ԃ͐Â��ɗ���Ă����c�c�B
+【推薦文】昏睡状態の裕一と無力感に打ちひしがれる真琴を尻目に、事態は静かに流れていく……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/14 16:36:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/14 16:36:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018769798hcpsl&id2=1009820934isebia&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018769798hcpsl_id2_1009820934isebia_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͔��ɏd���b�ł��ˁc<BR>�ӂ��A��肫���c<BR>�C���^�[�~�b�V�����Ƃ̂��ƂȂ̂ŁA����̓X�g�[���[�������̂��ȁH<BR>�^�Ղ̌Ï����Ȃɂ��Ȃɂ��ł��B<BR>�Ƃ�����A��l�������������ƁA�T�������񂾂Ɓc<BR>������A������ĕ|���ł��B<BR>���񂪂ǂ��Ȃ�̂��c���҂��Ă܂��B�d���c<BR>
+今回は非常に重い話ですね…<BR>ふう、やりきれん…<BR>インターミッションとのことなので、次回はストーリーが動くのかな？<BR>真琴の古傷がなにやらなにやらです。<BR>ともあれ、主人公がおきたあと、裕美が死んだと…<BR>うわっ、これって怖いです。<BR>次回がどうなるのか…期待してます。重い…<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/04/14 19:07:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/04/14 19:07:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018778833epsbyk&id2=1009820934isebia&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018778833epsbyk_id2_1009820934isebia_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-3�b�ڂ��ǂ܂��Ă��������܂����B�������҂��O��������ēǂނȂ�Ă��̍�i���n�߂Ăł��B����ς葼�Ƃ͈Ⴄ�͂������Ă����i�Ȃ̂ł��傤�ˁB<BR>���̎���͐l�Ԃ̏X�����O��I�ɘI��ɂ���Ă��鎞��ł����A���������҂��đ҂��Ă���܂��B
+3話目も読ませていただきました。私が長編を三作も続けて読むなんてこの作品が始めてです。やっぱり他とは違う力を持っている作品なのでしょうね。<BR>今の時代は人間の醜さが徹底的に露わにされている時代ですが、次回作を期待して待っております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/14 21:07:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/14 21:07:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018786026hjwpbkk&id2=1009820934isebia&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018786026hjwpbkk_id2_1009820934isebia_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�s���s���҂��܂��c���Ă���󋵂ł̑{���ł��؂�B��Ԑh���͍̂s���s���҂̓��e��֌W�҂ł����A���̎��ɐh���̂͌���ő{���Ɍg����Ă�����X�ł͂Ȃ��ł��傤���B<BR>�܂��Ă�A���̂��Ƃ������Ȃ���΂Ȃ�Ȃ��ƂȂ�ƁE�E�E�B<BR>�^�Ղ���̉������A�h���͌v��m��Ȃ��ł��傤�ˁB<BR><BR>����͂�����<BR><BR>�S�ꂭ��A�u����P�v�i���j�B<BR><BR>�^�Ղ���̌Ï����C�ɂȂ�܂��ˁA�z���g�B<BR>��������ґ�A�ł��ˁB<BR><BR>����ł́A�P��u�n�����̂Ԃ₫�v�i�ǂ����Ԃ₫�H�E�E�E���j<BR>���������x�̏��q����<BR>��u�A�������x���q�x�@���̏������Ǝv�����B�Ȃ�ŋv���Ẵe���ɏo���������������q�x�@���ɁA�Ǝv���Ă悭�l������l�̖������ƋC�t�����i�΁j�B<BR>���Ȃ݂Ɂu���q�x�@���v�Ƃ����̂͌����ɂ͑��݂��ĂȂ��A���q�k�x�@���Ə��q��x�@���ɂ킩��Ă��܂��B<BR>�����ꂩ�琔���Ԍ�A�^�Ղ͕��������a�@�̑O�ɂ����B<BR>�ǂ��̌����a�@���ȁ`�H���������̕a�@�͂��������݂��Ă��܂��B���Ȃ݂ɋv���Ă����ԋ߂��̂͌�������a�@�i����s�j�ł��ˁB�ł��A�v���Ă������܂ł̓N���}�Ŗ�P���Ԏサ��������܂���B�܂��Ă␼�S�d�Ԃ̓��}�Ȃ�P�U�`�P�V���ł��B<BR>���Ȃ݂ɂ����̒��w���ォ��̈��F�̃J�~���񂪌�������a�@�Ń��n�r���Z�t����Ă�i����Ă��H�j��ł����ǁA�֌W�Ȃ������ˁi���j�B<BR>���������ɋv���Ďs���ŏ��K�͂ȃe�����������ꍇ�A�����l���^�΂��̂͋v���đ�w��w���t���a�@���A���}���A�a�@�̂����ꂩ�ł��傤�ȁB
+読んだバイ♪<BR>行方不明者がまだ残っている状況での捜索打ち切り。一番辛いのは行方不明者の肉親や関係者ですが、その次に辛いのは現場で捜索に携わっている方々ではないでしょうか。<BR>ましてや、そのことを告げなければならないとなると・・・。<BR>真琴さんの悔しさ、辛さは計り知れないでしょうね。<BR><BR>それはそうと<BR><BR>祐一くん、「眠り姫」（爆）。<BR><BR>真琴さんの古傷も気になりますね、ホント。<BR>次回も期待大、ですね。<BR><BR>それでは、恒例「地元民のつぶやき」（どこがつぶやき？・・・爆）<BR>＞福岡県警の小倉署長<BR>一瞬、福岡県警小倉警察署の署長かと思った。なんで久留米のテロに出動した隊員が小倉警察署に、と思ってよく考えたら人の名字だと気付いた（笑）。<BR>ちなみに「小倉警察署」というのは現実には存在してなく、小倉北警察署と小倉南警察署にわかれています。<BR>＞それから数時間後、真琴は福岡県立病院の前にいた。<BR>どこの県立病院かな～？福岡県立の病院はいくつか存在しています。ちなみに久留米から一番近いのは県立柳川病院（柳川市）ですね。でも、久留米から柳川まではクルマで約１時間弱しかかかりません。ましてや西鉄電車の特急なら１６～１７分です。<BR>ちなみにｍｋの中学時代からの悪友のカミさんが県立柳川病院でリハビリ技師やってる（やってた？）んですけど、関係ないっすね（爆）。<BR>多分現実に久留米市内で小規模なテロがあった場合、けが人が運ばれるのは久留米大学医学部付属病院か、聖マリア病院のいずれかでしょうな。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1009820934isebia">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

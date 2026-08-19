@@ -1,128 +1,128 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���v���Ԃ�ł��B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:お久しぶりです。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2174>
 <input type=hidden name=ress value=2174>
-<input type=submit value=���v���Ԃ�ł��B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=お久しぶりです。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2174>
-<font color=#6A5ACD>���v���Ԃ�ł��B</font></a>
+<font color=#6A5ACD>お久しぶりです。</font></a>
 <font color=#303030>
 nomad2000
- ����</font>
- <font size=2>2004�N3��30��(��) 23��0��</font>
+ さん</font>
+ <font size=2>2004年3月30日(火) 23時0分</font>
 <a href=http://f35.aaacafe.ne.jp/~nomad/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2174">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>��y�Ƃڂ��A�ǂ݂܂���</b>�z</font>
+<a href="resbbs4@vew_2174.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>先輩とぼく、読みました</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�T�N�Ԃ�H�ɓ��{��ł́u�d�C�ѕz��L�v�𕜊������܂����B<br>�e�ʂ��A�b�v�����̂� �ߋ��̃R���e���c��HDD����T���x�[�W���ł��B<br><a href=http://f35.aaacafe.ne.jp/~nomad/ target=_top>http://f35.aaacafe.ne.jp/~nomad/</a></font></ul>
+<ul><br><font size=3>５年ぶり？に日本語版の「電気毛布回廊」を復活させました。<br>容量がアップしたので 過去のコンテンツをHDDからサルベージ中です。<br><a href=http://f35.aaacafe.ne.jp/~nomad/ target=_top>http://f35.aaacafe.ne.jp/~nomad/</a></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2180>
-<font color=#6A5ACD>�҂��Ă܂����I</font></a>
+<font color=#6A5ACD>待ってました！</font></a>
 <font color=#303030>
-�����s�r��
- ����</font>
- <font size=2>2004�N4��6��(��) 23��41��</font>
-<a href="resbbs4.cgi?vew=2180">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�Â��ɑ҂��Ă���܂����B<br>�����Ԃ�ȑO�̎��ʌn�̍�i�܂ōĉ����Ē����A�t�@���̂͂�����Ƃ��Ă͑�ϊ������v���Ă܂��B<br>���ꂩ����撣���Ă��������B</font></ul>
+匿名ＴＳ課
+ さん</font>
+ <font size=2>2004年4月6日(火) 23時41分</font>
+<a href="resbbs4@vew_2180.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>静かに待っておりました。<br>ずいぶん以前の実写系の作品まで再演して頂き、ファンのはしくれとしては大変嬉しく思ってます。<br>これからも頑張ってください。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2184>
-<font color=#6A5ACD>RE:�҂��Ă܂����I</font></a>
+<font color=#6A5ACD>RE:待ってました！</font></a>
 <font color=#303030>
 nomad2000
- ����</font>
- <font size=2>2004�N4��9��(��) 0��21��</font>
-<a href="resbbs4.cgi?vew=2184">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���肪�Ƃ��������܂��B<br>������Ƃ��̍ĉ��Ɏ�Ԏ���Ă��܂����A�C���ɂ��҂��������B</font></ul>
+ さん</font>
+ <font size=2>2004年4月9日(金) 0時21分</font>
+<a href="resbbs4@vew_2184.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ありがとうございます。<br>ちょっとその再演に手間取っていますが、気長にお待ち下さい。</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2185>
-<font color=#6A5ACD>RE:���v���Ԃ�ł��B</font></a>
+<font color=#6A5ACD>RE:お久しぶりです。</font></a>
 <font color=#303030>
-�_�̗��l
- ����</font>
- <font size=2>2004�N4��9��(��) 4��44��</font>
-<a href="resbbs4.cgi?vew=2185">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��Ƃ́A<b>�������[</b>�z</font>
-<ul><font size=3>�T�N�O�͎��͂��̐��E��m��Ȃ������̂ŁA�V�N�Ɋ����܂���<br>nomad����̍�i�D���Ȃ̂ŁA���ꂩ������҂��Ă��܂���<br></font></ul>
+雲の旅人
+ さん</font>
+ <font size=2>2004年4月9日(金) 4時44分</font>
+<a href="resbbs4@vew_2185.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作家は、<b>あだち充</b>】</font>
+<ul><font size=3>５年前は私はこの世界を知らなかったので、新鮮に感じますｗ<br>nomadさんの作品好きなので、これからも期待しています♪<br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=2228>
-<font color=#6A5ACD>RE:���v���Ԃ�ł��B</font></a>
+<font color=#6A5ACD>RE:お久しぶりです。</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2004�N5��12��(��) 1��11��</font>
-<a href="resbbs4.cgi?vew=2228">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���ꂩ�������΂��Ă��������B</font></ul>
+無灯火
+ さん</font>
+ <font size=2>2004年5月12日(水) 1時11分</font>
+<a href="resbbs4@vew_2228.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>これからもがんばってください。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2230>
-<font color=#6A5ACD>���肪�Ƃ��������܂�</font></a>
+<font color=#6A5ACD>ありがとうございます</font></a>
 <font color=#303030>
 nomad2000
- ����</font>
- <font size=2>2004�N5��16��(��) 17��5��</font>
-<a href="resbbs4.cgi?vew=2230">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����΂���A���k���܂��B<br>�Ȃ��Ȃ��A�Â��R���e���c�̃T���x�[�W�ɂ���Ԏ���Ă����<br>�ł͂���܂����A�߁X�A�j���̐V������J�������Ǝv���Ă��܂��B</font></ul>
+ さん</font>
+ <font size=2>2004年5月16日(日) 17時5分</font>
+<a href="resbbs4@vew_2230.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>無灯火さん、恐縮します。<br>なかなか、古いコンテンツのサルベージにも手間取っている状況<br>ではありますが、近々アニメの新作も公開したいと思っています。</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

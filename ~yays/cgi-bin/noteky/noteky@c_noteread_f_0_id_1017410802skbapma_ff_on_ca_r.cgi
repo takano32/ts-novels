@@ -1,191 +1,191 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1017410802skbapma&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1017410802skbapma_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���C�^�[�}�������i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">ライターマンさん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/03/29 23:06:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/03/29 23:06:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017410802skbapma&id2=1017410802skbapma&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017410802skbapma_id2_1017410802skbapma_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������...
+準備中...
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/19020205/angelterm1.html" target="_blank">�V�g�̌g�ђ[��(�O��)������ɂ͂������N���b�N�B</a></strong>  <i>2002/03/29 23:31:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/19020205/angelterm1.html" target="_blank">天使の携帯端末(前編)を見るにはここをクリック。</a></strong>  <i>2002/03/29 23:31:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017412271rhrrdl&id2=1017410802skbapma&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017412271rhrrdl_id2_1017410802skbapma_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���̂ԌN�̉^���₢���ɁB�������A�d�������̂��E�����璍�ӂ��܂��傤�ˁB 
+【推薦文】 しのぶ君の運命やいかに。しかし、妖しいものを拾ったら注意しましょうね。 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2002/03/30 00:07:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017414431nnpgfpu&id2=1017410802skbapma&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017414431nnpgfpu_id2_1017410802skbapma_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���_���ő��J�L�R�i�P���P�j<BR><BR>�Ƃ肠�����A�����̒��́u���̎q�v�ɖڊo�ߎn�߂�(?)���̂ԌN�ɖG��(///��///)<BR><BR>���u���s�Ȑl�v<BR>�܂������O�������I�I�i�P���P���j
+超神速で第一カキコ（￣▽￣）<BR><BR>とりあえず、自分の中の「女の子」に目覚め始めた(?)しのぶ君に萌え(///▽///)<BR><BR>＞「平行な人」<BR>まぁたお前かいっ！！（￣▽￣＃）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/30 00:11:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/30 00:11:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017414666rnwvopp&id2=1017410802skbapma&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017414666rnwvopp_id2_1017410802skbapma_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>�g�тłƂ����A�C�e���ŕς��c<BR>���[��V�N�ł��ˁB�Ȃ񂾂��w���ɂ���ȕ���x���Ċ����ł����B<BR>���ۃ��`�[�t�ɂ��ꂽ�͈̂Ⴄ�Ǝv���܂����c<BR>�s�ǂ������Ă�����������͂܂�܂���ł�������B<BR><BR>����͂����ƁA���̂Ԃ���A�Љ�I�ɏ��̎q�ɂȂ�������āc<BR>�ːЂɋ�J���Ă���A����TS�������A�܂�����ł��傤�ȁB<BR>����͖��@�̃A�C�e���̓����ł�����܂��B<BR><BR>���̘b�ň�Ԃ������납�����Ƃ���͂�͂�c<BR>���l�^�c<BR><BR>�c�������낢�ł��B<BR>��͂菗�̎q�ǂ����́A�y�߂Ɋ댯�ȃX�L���V�b�v���|�C���g���Ɓc<BR><BR>���̂��Ƃ̌�҂��܂������ǂ߂܂���B<BR>�Ă��A��҂�����킩���ĂȂ����āc�i�O�O�G�G�@����΂��Ă��������ˁB<BR><BR>������k�R���z�Ő\����Ȃ��B<BR>�d�g�d���͖^�V�g�̃f�W���u�Ɉ�[������܂���<BR>
+読みました。<BR>携帯でというアイテムで変わる…<BR>うーん新鮮ですね。なんだか『●にも奇妙な物語』って感じでした。<BR>実際モチーフにされたのは違うと思いますが…<BR>不良が消えていったくだりはまんまそれでしたから。<BR><BR>それはそうと、しのぶくん、社会的に女の子になっちゃって…<BR>戸籍に苦労している、他のTS少女が羨ましがるでしょうな。<BR>これは魔法のアイテムの特権でもあります。<BR><BR>この話で一番おもしろかったところはやはり…<BR>胸ネタ…<BR><BR>…おもしろいです。<BR>やはり女の子どおしの、軽めに危険なスキンシップがポイントかと…<BR><BR>このあとの後編がまったく読めません。<BR>てか、作者さんもわかってないって…（＾＾；；　がんばってくださいね。<BR><BR>今回も徒然感想で申し訳ない。<BR>電波妖精は某天使のデジャブに一票を捧げます♪<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/30 00:25:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/30 00:25:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017415508exxyvo&id2=1017410802skbapma&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017415508exxyvo_id2_1017410802skbapma_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́B<BR>�����E�E�E���̂��ȁH�i���j<BR>�������A���̂ԌN�͌��\�������Ă܂��˂��i�΁j�B<BR><BR>�Ƃ���ŁA����ς��̓V�g�́i�΁j�B<BR>�u���s�Ȑl�v�Ɉ�[�I�i���j
+読んだバイ♪<BR>わっはっは。<BR>こりゃ・・・事故かな？（爆）<BR>しかし、しのぶ君は結構順応してますねぇ（笑）。<BR><BR>ところで、やっぱあの天使は（笑）。<BR>「平行な人」に一票！（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/03/31 00:30:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/03/31 00:30:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017502201pgppst&id2=1017410802skbapma&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017502201pgppst_id2_1017410802skbapma_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̂��ȁH�i���j<BR>����A�����ł��傤�i���j�B<BR><BR>��������ł��ˁA���i���B<BR>�ĊO�w�u���s�Ȑl�v�ސ��A������x��t���Ă��肵�āB
+＞事故かな？（爆）<BR>いや、事件でしょう（爆）。<BR><BR>そっくりですね、性格が。<BR>案外『「平行な人」謹製、髪飾り』を付けてたりして。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/03/31 10:02:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>克美</strong>  <i>2002/03/31 10:02:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017536542qnbcg&id2=1017410802skbapma&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017536542qnbcg_id2_1017410802skbapma_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̌g�т́u���s�Ȑl�v�̃A�C�e���Ȃ̂ł��ˁA�����P�O�O���q�b�g����<BR>�Ɉ�[�@���ꂽ���ł��i���j�B�@<BR><BR>�ł��ŏ��́A24���Ԍ�Ɍ��ɖ߂��̂ŁA�Ƃ܂ǂ����L������<BR>���\���̎q�����Ă����̂��A�A�C�e���������Ȃ��ďł邵�̂ԌN<BR>�Ȍ�ނ̉^���́B<BR><BR><BR><BR><BR>
+あの携帯は「平行な人」のアイテムなのですね、私も１００万ヒットさん<BR>に一票　入れたいです（爆）。　<BR><BR>でも最初は、24時間後に元に戻れるので、とまどいも有ったが<BR>結構女の子をしていたのが、アイテムが無くなって焦るしのぶ君<BR>以後彼の運命は。<BR><BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>STW</strong>  <i>2002/04/03 22:01:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017838879pssnga&id2=1017410802skbapma&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017838879pssnga_id2_1017410802skbapma_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��������ł���܂��B�r�s�v�ł��B<BR>�ᏼ����A�\���C���I�H<BR>���A���낵���l���E�E�E�B�i���j<BR>�����ɂ���Ɨ����������ǁA�G�ɂ܂킵����E�E�E�B�i���́H�j<BR><BR>���̂ԌN�A�ߊς��Ă��Ă͂����܂����B�i�N�H�j<BR>�l���y�������Ȃ�����I�I<BR><BR>����ɂ��Ă�����ς肠�̓V�g���āE�E�E�H<BR><BR>
+どうもお初であります。ＳＴＷです。<BR>若松さん、暴走気味！？<BR>お、恐ろしい人だ・・・。（汗）<BR>味方にすると頼もしいけど、敵にまわしたら・・・。（何の？）<BR><BR>しのぶ君、悲観していてはいけませんよ。（誰？）<BR>人生楽しくやらなくちゃ！！<BR><BR>それにしてもやっぱりあの天使って・・・？<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://ts.novels.jp/novel/200112/19020205/angelterm2a.html" target="_blank">�w�V�g�̌g�ђ[���i��ҁE�p�^�[���`�j�x������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/30 19:33:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/19020205/angelterm2a.html" target="_blank">『天使の携帯端末（後編・パターンＡ）』を見るにはここをクリック。</a></strong>  <i>2002/05/30 19:33:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022754802inbvko&id2=1017410802skbapma&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022754802inbvko_id2_1017410802skbapma_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�u�V�g�̌g�ђ[���v��ҁA���������ēo����I�@�����āc�c�c�c����ς肨�O�����I�I�i�΁j
+【推薦文】「天使の携帯端末」後編、満を持して登場っ！　そして…………やっぱりお前かっ！！（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kou_sa_to@yahoo.co.jp" target="_blank">kou</a></strong>  <i>2002/05/30 20:37:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022758642ywbfke&id2=1017410802skbapma&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022758642ywbfke_id2_1017410802skbapma_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_���I�I<BR><BR>�l���K���ɂ���@�B�E�E�E�@����ς�V�g�Ƃ����������ށH<BR>�ʔ����l�^�́@���̋@�B�ł��ˁB����ƁA�y���݂ȍŌ�̌��f�B<BR>�ǎ҂��炷��΂ǂ����̓W�J�����������̂ł��B����΂��ăp�^�[���a�������Ă����������C�^�[�}������I<BR><BR>
+神速！！<BR><BR>人を幸せにする機械・・・　やっぱり天使とかそういう類？<BR>面白いネタは　その機械ですね。それと、楽しみな最後の決断。<BR>読者からすればどっちの展開も見たいものです。がんばってパターンＢを書いてくださいライターマンさん！<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/30 23:28:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/30 23:28:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022768904wvvks&id2=1017410802skbapma&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022768904wvvks_id2_1017410802skbapma_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�Ȃ�₩���ő�c�~�A���Ċ����ł��˂��B<BR>���̂ԌN�i�E�E�E���ƁA�u���̂Ԃ����v���ȁH�j�̗h���S�̕`�ʂ��Ȃ��Ȃ��悩�����ł��B<BR>�y���N�A�N�����Ȃ���΁u�ޏ��v�́E�E�E�B����������i�΁j�B<BR><BR>�u���s�Ȑl�v<BR>����ς�i�΁j�B������<BR>�u������v<BR>�o���i�́u�w�A�o���h�v���o�Ă��Ă邵�i�΁j�B<BR>��̉�����Ă�ł��傤�˂��A�u���s����v�́i���j�B
+読んだバイ♪<BR>なんやかんやで大団円、って感じですねぇ。<BR>しのぶ君（・・・っと、「しのぶちゃん」かな？）の揺れる心の描写がなかなかよかったです。<BR>土屋君、君がいなければ「彼女」は・・・。礼を言うぞ（笑）。<BR><BR>「平行な人」<BR>やっぱり（笑）。しかも<BR>「髪飾り」<BR>姉妹品の「ヘアバンド」が出てきてるし（笑）。<BR>一体何やってんでしょうねぇ、「平行さん」は（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�r�s�v</strong>  <i>2002/05/30 23:28:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＳＴＷ</strong>  <i>2002/05/30 23:28:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022768924ifvacf&id2=1017410802skbapma&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022768924ifvacf_id2_1017410802skbapma_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����A����΂��B�V�g�̌g�ђ[��(��ҁE�p�^�[���`)��ǂ݂܂����A�r�s�v�ł��B<BR>���������f�����܂����ˁB���X���̂ԌN�B�i����񂩁H�j<BR>���Ȃ��̌��f�Ɏ��͐S���甏��𑗂肽���ł��B<BR><BR>�������A�ᏼ������͐l������ɁE�E�E�B�i���낵���l���E�E�E�B�j<BR>�ʃ��@�[�W�����ł͂ǂ��Ȃ�̂ł��傤���H<BR>���C�^�[�}������I�y���݂ɂ��đ҂��Ă���܂��I�I<BR><BR>�o�D�r�p����������A�����Ƒ��l����������ł��������I�H�i���j
+どうも、こんばんわ。天使の携帯端末(後編・パターンＡ)を読みました、ＳＴＷです。<BR>すごい決断をしましたね。高森しのぶ君。（ちゃんか？）<BR>あなたの決断に私は心から拍手を送りたいです。<BR><BR>しかし、若松純さんは人を勝手に・・・。（恐ろしき人だ・・・。）<BR>別ヴァージョンではどうなるのでしょうか？<BR>ライターマンさん！楽しみにして待っております！！<BR><BR>Ｐ．Ｓパラ○ルさん、もっと他人を巻き込んでください！？（汗）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/05/31 01:30:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/05/31 01:30:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022776237seyevb&id2=1017410802skbapma&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022776237seyevb_id2_1017410802skbapma_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V�g�̌g�ђ[��(��ҁE�p�^�[���`)<BR>���ɂႠ�A�^�V�g���񂪖^����������Ă��ē������ɂႠ�A�������K������܂ł��ꂿ����āc����͖^��i�̊O�`�I�Ȃ��b�Ƃ����Ă��悢��������܂���ˁB<BR>�Ō�Ɂ���I������̂͂��͂₨�񑩂Ƃ��āA�Ƃ������d�g�d���͊y���߂܂�����B�Ƃ������n�b�s�[�G���h�ł悩�����悩������
+天使の携帯端末(後編・パターンＡ)<BR>うにゃあ、某天使さんが某道具を持ってきて難題解決にゃあ、しかも幸福測定までされちゃって…これは某作品の外伝的なお話といってもよいかもしれませんね。<BR>最後に○を選択するのはもはやお約束として、ともかく電波妖精は楽しめましたよ。ともかくハッピーエンドでよかったよかった♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:vyx02541@nifty.com" target="_blank">TOM</a></strong>  <i>2002/06/07 16:02:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1023433379fvgksg&id2=1017410802skbapma&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1023433379fvgksg_id2_1017410802skbapma_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V�g�̌g�ђ[��(��ҁE�p�^�[���`)<BR>�@���X�g�V�[���ŕ��ɉߋ���i�̃~�Y�L�q�J�����񒘁u�x�X�g�t�����h�v���v���o���܂����B�i�R��������ł��I�j<BR>�@�j�ɖ߂邩�A���̎q�Ƃ��Đl����S�����邩�̑I���́A���Ȃ苻���[���e�[�}���Ǝv���܂��B<BR>�@�ʃp�^�[�����y���݂ł��B�i���������̂Ƃ͈Ⴄ�̂��ȁH�j<BR>�@���C�^�[�}������̕��͂͂ƂĂ��ǂ݂₷���čD���ł��B<BR>�R�����������΂��ĉ������B
+天使の携帯端末(後編・パターンＡ)<BR>　ラストシーンで文庫過去作品のミズキヒカルさん著「ベストフレンド」を思い出しました。（コレも名作です！）<BR>　男に戻るか、女の子として人生を全うするかの選択は、かなり興味深いテーマだと思います。<BR>　別パターンも楽しみです。（こういうのとは違うのかな？）<BR>　ライターマンさんの文章はとても読みやすくて好きです。<BR>コレからもがんばって下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���m�{�t��</strong>  <i>2002/06/30 00:46:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日ノ本春也</strong>  <i>2002/06/30 00:46:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1025365606ooqhph&id2=1017410802skbapma&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1025365606ooqhph_id2_1017410802skbapma_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V�g�̌g�ђ[��(�O��)<BR>�ʔ��������ł��B�y���N�����̂Ԃ̎����D���ɂȂ����炨�����낢���ȂƎv���܂����B<BR>
+天使の携帯端末(前編)<BR>面白かったです。土屋君がしのぶの事を好きになったらおもしろいかなと思いました。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1017410802skbapma">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

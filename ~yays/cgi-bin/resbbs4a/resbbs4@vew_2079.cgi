@@ -1,96 +1,96 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:age�Ƃ���B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:ageとくよ。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2027>
 <input type=hidden name=ress value=2079>
-<input type=submit value=age�Ƃ���B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=ageとくよ。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2079>
-<font color=#6A5ACD>RE:age�Ƃ���B</font></a>
+<font color=#6A5ACD>RE:ageとくよ。</font></a>
 <font color=#303030>
 pkn
- ����</font>
- <font size=2>2003�N12��6��(�y) 16��31��</font>
-<a href="resbbs4.cgi?vew=2079">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ さん</font>
+ <font size=2>2003年12月6日(土) 16時31分</font>
+<a href="resbbs4@vew_2079.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>I have �g�����X�t�@�C�^�[ vol1...but �g�����X�t�@�C�^�[ is be uninteresting...and i have Une�@Femme�@Dans�@La�@Peau vol1~3....</font></ul>
+<ul><br><font size=3>I have トランスファイター vol1...but トランスファイター is be uninteresting...and i have Une　Femme　Dans　La　Peau vol1~3....</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2081>
-<font color=#6A5ACD>RE:age�Ƃ���B</font></a>
+<font color=#6A5ACD>RE:ageとくよ。</font></a>
 <font color=#303030>
-TGmanga���D��
- ����</font>
- <font size=2>2003�N12��7��(��) 3��45��</font>
-<a href="resbbs4.cgi?vew=2081">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>���@���L���[���E�L</b>�z</font>
-<ul><font size=3>pkn����g�����X�t�@�C�^�[��ǂ݂܂������ǁA<br>�s�r�e�Ƃ������A�j������Ƃ��ẮA�y����ł܂���B<br>�A�R���̏I���ŁA�j���̌ҊԂɋ[�Ԃ����\�[�Z�[�W�����ɐH����V�[���́A�΂��܂����B<br><br>���������A�s�r�e�Ƃ����W����������{�ŕ��y���������̃T�C�g�̎�u�l���D�x�������v�͈̑�ł����A���E�ɂ͂s�r�e�i�s�f�����������j�𐢂ɑ�X�I�ɍL�߂��s�r�e�̈̐l���A�O�l���݂��܂��B<br><br>��l�ڂ́A���̓��{�A���̃T�C�g�́u�x����������v<br>��l�ڂ́A�t�����X�l�A�i���O�́A�v���C�o�V�[��A�閧�ɂ��܂��B�j<br>�O�l�ڂ́A�u���W���l�A�i���O�́A�v���C�o�V�[��A�閧�ɂ��܂��B�j<br><br>���̎O�l�́A�܂��Ɉ̐l�Ƃ����ׂ��_�̂悤�ȑ��݂ł��ˁB<br><br>���������uUne�@Femme�@Dans�@La�@Peau �v�́A�u���W���Œm��܂����B<br><br><br></font></ul>
+TGmanga愛好家
+ さん</font>
+ <font size=2>2003年12月7日(日) 3時45分</font>
+<a href="resbbs4@vew_2081.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ヴァルキリーユウキ</b>】</font>
+<ul><font size=3>pknさんトランスファイターを読みましたけど、<br>ＴＳＦというより、男装漫画としては、楽しんでますよ。<br>、３巻の終わりで、男性の股間に擬態したソーセージを犬に食われるシーンは、笑えました。<br><br>そうそう、ＴＳＦというジャンルを日本で普及させたこのサイトの主「Ｍｒ．Ｙａｙｓ」は偉大ですが、世界にはＴＳＦ（ＴＧｍａｎｇａ）を世に大々的に広めたＴＳＦの偉人が、三人存在します。<br><br>一人目は、この日本、このサイトの「Ｙａｙｓさん」<br>二人目は、フランス人、（名前は、プライバシー上、秘密にします。）<br>三人目は、ブラジル人、（名前は、プライバシー上、秘密にします。）<br><br>この三人は、まさに偉人というべき神のような存在ですね。<br><br>そうそう「Une　Femme　Dans　La　Peau 」は、ブラジルで知りました。<br><br><br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2105>
-<font color=#6A5ACD>RE:age�Ƃ���B</font></a>
+<font color=#6A5ACD>RE:ageとくよ。</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2003�N12��19��(��) 21��11��</font>
-<a href="resbbs4.cgi?vew=2105">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�_�i���͊��S���Ȃ��Ȃ��B<br>�J���g�@���݂������B</font></ul>
+くうら
+ さん</font>
+ <font size=2>2003年12月19日(金) 21時11分</font>
+<a href="resbbs4@vew_2105.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>神格化は感心しないなぁ。<br>カルト宗教みたいだ。</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

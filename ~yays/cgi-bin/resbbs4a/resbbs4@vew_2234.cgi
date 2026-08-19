@@ -1,147 +1,147 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�݂����蔼����E�ʊ�>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:みこすり半劇場・別館>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2234>
 <input type=hidden name=ress value=2234>
-<input type=submit value=�݂����蔼����E�ʊق֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=みこすり半劇場・別館へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2234>
-<font color=#6A5ACD>�݂����蔼����E�ʊ�</font></a>
+<font color=#6A5ACD>みこすり半劇場・別館</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2004�N6��8��(��) 10��3��</font>
-<a href="resbbs4.cgi?vew=2234">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2004年6月8日(火) 10時3分</font>
+<a href="resbbs4@vew_2234.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�l�v�`���[���}�����b�Z�[�W�ɂ���������ł����Ǖ\��̎G�������񂺂����ł��Ȃ��ł��B<br>����ł��Ă�l���܂����H<br>�s���̖{���Ŕ����Ă�{���������狳���Ă��������B<br>����u�b�N�^���[�ł��_���ł�����c�c</font></ul>
+<ul><br><font size=3>ネプチューンマンメッセージにも書いたんですけど表題の雑誌がぜんぜん入手できないです。<br>入手できてる人いますか？<br>都内の本屋で売ってる本屋あったら教えてください。<br>書泉ブックタワーでもダメでしたよ……</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2235>
-<font color=#6A5ACD>RE:�݂����蔼����E�ʊ�</font></a>
+<font color=#6A5ACD>RE:みこすり半劇場・別館</font></a>
 <font color=#303030>
 Arp
- ����</font>
- <font size=2>2004�N6��8��(��) 12��34��</font>
-<a href="resbbs4.cgi?vew=2235">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����ł��Ă��܂�<br>���̏ꍇ�́A���[�\���ōw�����Ă��܂�<br>�����A�\����Ȃ��̂ł������͊֐��ݏZ�Ȃ̂ŁA<br>�֓��łǂ��ɔ����Ă��邩�͔���Ȃ��ł�</font></ul>
+ さん</font>
+ <font size=2>2004年6月8日(火) 12時34分</font>
+<a href="resbbs4@vew_2235.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>入手できています<br>私の場合は、ローソンで購入しています<br>ただ、申し訳ないのですが私は関西在住なので、<br>関東でどこに売っているかは判らないです</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2236>
-<font color=#6A5ACD>RE:�݂����蔼����E�ʊ�</font></a>
+<font color=#6A5ACD>RE:みこすり半劇場・別館</font></a>
 <font color=#303030>
-���s��
- ����</font>
- <font size=2>2004�N6��8��(��) 13��43��</font>
-<a href="resbbs4.cgi?vew=2236">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�܂��֐��̘b�Ő\����Ȃ��ł���<br>���s���ł�����������2�����x�œX��������ł���悤�Ȋ����ł��̂�<br>�G����舵���ɋ����R���r�j�G���X�X�g�A��T���̂��ǂ������m��܂���B<br>�܂��A�ꉞ���񂹂��o����(39�����񂹌o������)�݂����ł��̂�<br>����̏��X�Ŕ����������������񂹂��Ė���āA�Ȍ��u�����ĖႤ�̂�<br>��Ԃ����m��܂���B</font></ul>
+歩行者
+ さん</font>
+ <font size=2>2004年6月8日(火) 13時43分</font>
+<a href="resbbs4@vew_2236.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>また関西の話で申し訳ないですが<br>大阪市内でも発売日から2日程度で店頭から消滅するような感じですので<br>雑誌取り扱いに強いコンビニエンスストアを探すのが良いかも知れません。<br>また、一応取り寄せも出来る(39号取り寄せ経験あり)みたいですので<br>特定の書店で買い逃した分を取り寄せして貰って、以後取置きして貰うのが<br>一番かも知れません。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2237>
-<font color=#6A5ACD>RE:�݂����蔼����E�ʊ�</font></a>
+<font color=#6A5ACD>RE:みこすり半劇場・別館</font></a>
 <font color=#303030>
 S
- ����</font>
- <font size=2>2004�N6��8��(��) 22��11��</font>
-<a href="resbbs4.cgi?vew=2237">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���}��X�C�݉w�אڂ̃R���r�j�i�n��Y��܂����j�Ō��܂����B</font></ul>
+ さん</font>
+ <font size=2>2004年6月8日(火) 22時11分</font>
+<a href="resbbs4@vew_2237.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>京急大森海岸駅隣接のコンビニ（系列忘れました）で見ました。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2238>
-<font color=#6A5ACD>RE:�݂����蔼����E�ʊ�</font></a>
+<font color=#6A5ACD>RE:みこすり半劇場・別館</font></a>
 <font color=#303030>
 <a href=mailto:aoki@gori.sh>gori.sh</a>
- ����</font>
- <font size=2>2004�N6��9��(��) 0��40��</font>
+ さん</font>
+ <font size=2>2004年6月9日(水) 0時40分</font>
 <a href=http://www.gori.sh/tifra/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2238">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��Ƃ́A<b>���邤</b>�z</font>
-<ul><font size=3>����ł��Ă܂���B<br><br>����Ȃ��ƂƂ�����Ă܂��c<br><a href=http://www.gori.sh/manga/4koma/4k2002.htm target=_top>http://www.gori.sh/manga/4koma/4k2002.htm</a><br>�}�C�i�[�S�R�}�G���͔�э��݂ł̍w���͒��߂������ǂ��ł��B�ǂ����̖{���Ŏ��u���𗊂ވȊO�Ɂi�m���ɓ��肷����@�́j�����Ǝv���ėǂ��ł��B<br>�|�C���g��<br>�E�R���r�j�͌n�񂲂Ƃł͂Ȃ��X�܂��Ƃɂ���ē��ׂ��Ⴄ�i����Ă݂����Ȃ�N�y�T�����[�}���̑������Ȓn�悪�ǁj<br>�E���������ׂȂ̂Ŕ������ɔ���؂�邱�Ƃ������i���ɃR���r�j�E�L���X�N�j<br>�E�݂����͓���100�~�H��̔��œ��肵�₷���i�̂Ă��₷������H�j<br>�E�o�Ō��߂��̏��X�ł͓��肵�₷��<br></font></ul>
+<a href="resbbs4@vew_2238.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作家は、<b>樹るう</b>】</font>
+<ul><font size=3>入手できてません。<br><br>こんなこととかやってます…<br><a href=http://www.gori.sh/manga/4koma/4k2002.htm target=_top>http://www.gori.sh/manga/4koma/4k2002.htm</a><br>マイナー４コマ雑誌は飛び込みでの購入は諦めた方が良いです。どっかの本屋で取り置きを頼む以外に（確実に入手する方法は）無いと思って良いです。<br>ポイントは<br>・コンビニは系列ごとではなく店舗ごとによって入荷が違う（よってみこ半なら年輩サラリーマンの多そうな地域が良）<br>・少部数入荷なので発売日に売り切れることが多い（特にコンビニ・キヨスク）<br>・みこ半は特に100円路上販売で入手しやすい（捨てられやすいから？）<br>・出版元近くの書店では入手しやすい<br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=2239>
-<font color=#6A5ACD>RE:�݂����蔼����E�ʊ�</font></a>
+<font color=#6A5ACD>RE:みこすり半劇場・別館</font></a>
 <font color=#303030>
-��
- ����</font>
- <font size=2>2004�N6��10��(��) 0��19��</font>
-<a href="resbbs4.cgi?vew=2239">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�ѓc���w�O�̏��X�ɍ����́H�ł����ȑO�͂���܂�����B<br>�i�w�r���̒��̂��̂ł͂Ȃ����H���񂾉w�O�̃r���ۂ��Ə��X�́B<br>�����܂��񖼑O�Y��܂����B�j</font></ul>
+け
+ さん</font>
+ <font size=2>2004年6月10日(木) 0時19分</font>
+<a href="resbbs4@vew_2239.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>飯田橋駅前の書店に今月は？ですが以前はありましたよ。<br>（駅ビルの中のものではなく道路挟んだ駅前のビル丸ごと書店の。<br>すいません名前忘れました。）</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2240>
-<font color=#6A5ACD>RE:�݂����蔼����E�ʊ�</font></a>
+<font color=#6A5ACD>RE:みこすり半劇場・別館</font></a>
 <font color=#303030>
 hot
- ����</font>
- <font size=2>2004�N6��17��(��) 20��45��</font>
-<a href="resbbs4.cgi?vew=2240">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����Ȃ�ŏI��ł����A�A�A</font></ul>
+ さん</font>
+ <font size=2>2004年6月17日(木) 20時45分</font>
+<a href="resbbs4@vew_2240.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>いきなり最終回でした、、、</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2241>
-<font color=#6A5ACD>RE:�݂����蔼����E�ʊ�</font></a>
+<font color=#6A5ACD>RE:みこすり半劇場・別館</font></a>
 <font color=#303030>
-�ق���
- ����</font>
- <font size=2>2004�N6��19��(�y) 8��47��</font>
-<a href="resbbs4.cgi?vew=2241">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@���̘A�ڊ��Ԃł́A�P�s�{���͂��Ȃ�낤���ł��Ȃ��B</font></ul>
+ほけっ
+ さん</font>
+ <font size=2>2004年6月19日(土) 8時47分</font>
+<a href="resbbs4@vew_2241.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　この連載期間では、単行本化はかなり危ういですなぁ。</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

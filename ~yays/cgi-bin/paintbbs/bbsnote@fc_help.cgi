@@ -1,5 +1,5 @@
 <HTML><HEAD>
-<TITLE>BBS�ݒ�</TITLE>
+<TITLE>BBS設定</TITLE>
 <STYLE TYPE="TEXT/CSS">
 <!--
 TD{color:#2678D2}
@@ -19,17 +19,17 @@ TD{color:#2678D2}
 
 <CENTER><BR>
 <Font Color="">
-<H2>�� ���C�y���������a�a�r ���ݒ� ��</H2></font>
+<H2>▼ お気軽おえかきＢＢＳ 環境設定 ▼</H2></font>
 <table BORDER="0" width="500" CELLPADDING="2" cellspacing="0" BGCOLOR="#3D4B9C">
 <tr><td>
 <table BORDER="0" width="500" CELLPADDING="2" cellspacing="2" BGCOLOR="#FFFFFF">
-<tr><td colspan="2"><Font Color=> ����BBS�͒ʏ�̃e�L�X�g�𓊍e����ȊO�ɉ摜�A�b�v���[�h��<BR>
-�G�����̏�ŕ`���ē��e���鎖���o����f���ł����i�ߋ��`�j�B<BR><BR>
+<tr><td colspan="2"><Font Color=> このBBSは通常のテキストを投稿する以外に画像アップロードと<BR>
+絵をその場で描いて投稿する事が出来る掲示板でした（過去形）。<BR><BR>
 
 
-�����G����Java�A�v���b�g�ɂ́u���G���������f����PaintBBS�v�̂��̂��g�p���Ă��܂��B<BR>
-Java�Ȃ��q�l�IHP <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">http://www.gt.sakura.ne.jp/~ocosama/</A>
-<BR>������FJava1.*���g�����Ƃ̏o����u���E�U�iIE��l�b�g�X�P�[�v���j<BR>
+■お絵かきJavaアプレットには「お絵かきしぃ掲示板PaintBBS」のものを使用しています。<BR>
+Javaなお子様的HP <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">http://www.gt.sakura.ne.jp/~ocosama/</A>
+<BR>動作環境：Java1.*が使うことの出来るブラウザ（IEやネットスケープ等）<BR>
 
 <BR>
 
@@ -37,24 +37,24 @@ Java�Ȃ��q�l�IHP <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">
 
 <BR>
 <HR>
-<TR><td colspan=2> <B>BBS�̐ݒ�</B><BR><font size=2>*�L�����o�X�̍ő�𑜓x�́u<B>�{�����̉摜�̍ő�𑜓x</B>�v�܂łł��B</TD></TR>
-<TR><TD> ���O�ۑ�����</TD><td NOWRAP> 200 ��</TD></TR>
-<TR><TD> ��M����ő啶��</TD><td NOWRAP> 3000 byte </TD></TR>
-<TR><TD> �ԐM�ł���ő勖�e�l</TD><td NOWRAP> 10000 byte </TD></TR>
-<TR><TD> ��M����ő�f�[�^�T�C�Y</TD><td NOWRAP> 200000 byte </TD></TR>
-<TR><TD> ��M����摜�̍ő�𑜓x</TD><td NOWRAP> 800 x 600 </TD></TR>
-<TR><TD> �{�����̉摜�̍ő�𑜓x</TD><td NOWRAP> 600 x 600</TD></TR>
-<TR><td colspan=2> <B>�ȉ��̃^�O���g�p�\�ł��B�����^�O�K�{</B><BR><SMALL>&lt;FONT&gt;&nbsp;&lt;DIV&gt;&nbsp;&lt;SMALL&gt;&nbsp;&lt;BIG&gt;&nbsp;&lt;STRONG&gt;&nbsp;&lt;CENTER&gt;&nbsp;&lt;B&gt;&nbsp;&lt;I&gt;&nbsp;&lt;S&gt;&nbsp;&lt;U&gt;&nbsp;&lt;TT&gt;&nbsp;&lt;DEL&gt;&nbsp;&lt;PRE&gt;&nbsp;</TD></TR>
+<TR><td colspan=2> <B>BBSの設定</B><BR><font size=2>*キャンバスの最大解像度は「<B>閲覧時の画像の最大解像度</B>」までです。</TD></TR>
+<TR><TD> ログ保存件数</TD><td NOWRAP> 200 件</TD></TR>
+<TR><TD> 受信する最大文字</TD><td NOWRAP> 3000 byte </TD></TR>
+<TR><TD> 返信できる最大許容値</TD><td NOWRAP> 10000 byte </TD></TR>
+<TR><TD> 受信する最大データサイズ</TD><td NOWRAP> 200000 byte </TD></TR>
+<TR><TD> 受信する画像の最大解像度</TD><td NOWRAP> 800 x 600 </TD></TR>
+<TR><TD> 閲覧時の画像の最大解像度</TD><td NOWRAP> 600 x 600</TD></TR>
+<TR><td colspan=2> <B>以下のタグが使用可能です。＊閉じタグ必須</B><BR><SMALL>&lt;FONT&gt;&nbsp;&lt;DIV&gt;&nbsp;&lt;SMALL&gt;&nbsp;&lt;BIG&gt;&nbsp;&lt;STRONG&gt;&nbsp;&lt;CENTER&gt;&nbsp;&lt;B&gt;&nbsp;&lt;I&gt;&nbsp;&lt;S&gt;&nbsp;&lt;U&gt;&nbsp;&lt;TT&gt;&nbsp;&lt;DEL&gt;&nbsp;&lt;PRE&gt;&nbsp;</TD></TR>
 </TD></TR></TABLE>
 </TD></TR></TABLE>
 
 
 <BR>
-<CENTER><fONT SIZE=2>[<a TITLE="�߂�" href="./bbsnote.cgi">BACK</a>]</FONT></CENTER>
+<CENTER><fONT SIZE=2>[<a TITLE="戻る" href="bbsnote.cgi">BACK</a>]</FONT></CENTER>
 
 
 <HR><DIV ALIGN="RIGHT"><SMALL>
-<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)���������(shi-cyan)</A> 
+<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)しぃちゃん(shi-cyan)</A> 
 </SMALL></DIV>
 </BODY>
 </HTML>

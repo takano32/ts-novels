@@ -1,74 +1,74 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���[���{�b�N�X�����Ă�>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:メールボックスが壊れてて>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1412>
 <input type=hidden name=ress value=1413>
-<input type=submit value=���[���{�b�N�X�����ĂĂ֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=メールボックスが壊れててへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1413>
-<font color=#6A5ACD>RE:���[���{�b�N�X�����Ă�</font></a>
+<font color=#6A5ACD>RE:メールボックスが壊れてて</font></a>
 <font color=#303030>
 <a href=mailto:aoki@gori.sh>Gori</a>
- ����</font>
- <font size=2>2002�N3��14��(��) 0��16��</font>
+ さん</font>
+ <font size=2>2002年3月14日(木) 0時16分</font>
 <a href=http://www.gori.sh target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1413">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�Ƃ�Ԃ�T�C�G���X</b>�z</font>
+<a href="resbbs4_b@vew_1413.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>とらぶるサイエンス</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�i�C�V���̘b�ɂ���Ӗ��������̂ł������Ł`�B���[�����e�����̂܂ܓ]�ڂ��܂��B<br>�i�����ȏオ�A���l���ɑ�������^�����Ȃ�Ŏ኱��a�����E�E�E�j<br><br>----------------------- Original Message -----------------------<br> From:    "Gori (AokiTakemasa)" &lt;<a href=mailto:aoki@gori.sh>aoki@gori.sh</a>&gt;<br> To:      <a href=mailto:yays@geocities.co.jp>yays@geocities.co.jp</a><br> Date:    Sun, 13 Jan 2002 02:56:09 +0900<br> Subject: �z�[���y�[�W���ړ]���܂��B<br>----<br><br>�f�������ł��B<br><br>�킽���̃z�[���y�[�W<br><a href=http://www.ksky.ne.jp/~gori/ target=_top>http://www.ksky.ne.jp/~gori/</a><br>�փ����N���Ē������肪�Ƃ��������܂��B<br><br>���̂��ѓƎ��Ƀh���C�����擾�A�z�[���y�[�W���ړ]�����������񍐒v���܂��B<br>�V�����A�h���X��<br><a href=http://www.gori.sh target=_top>http://www.gori.sh</a><br>�ł��B<br>�i�����H�����΋I�s�� <a href=http://www.gori.sh/tsoba/ target=_top>http://www.gori.sh/tsoba/</a> �ł��j<br><br>���萔�ł����A�����N�y�[�W��URL�̕ύX����낵�����肢���܂��B<br><br><br><a href=mailto:aoki_mm@gori.sh>aoki_mm@gori.sh</a> �i�A����j<br><a href=http://www.gori.sh/tifra/ target=_top>http://www.gori.sh/tifra/</a> �i�g�b�v�y�[�W�j<br><a href=http://www.gori.sh/tifra/new.htm target=_top>http://www.gori.sh/tifra/new.htm</a> �i�V�E�V������L�j<br>�ɓ��ꂵ�ĉ������B<br>�i�ς��ƌ��A�u�ȑO����̃����N�y�[�W�v�Ɓu���f���֘A�v�̓񃖏�������<br>  �����ł����ǁj<br><br>���Ȃ������m�点�̏C���𗊂񂾂΂���ł�����ƃA���ł��� (^^; ��낵����<br>�肢���܂��`<br><br><br><a href=mailto:aoki@gori.sh>aoki@gori.sh</a><br></font></ul>
+<ul><br><font size=3>ナイショの話にする意味が無いのでこっちで～。メール内容をそのまま転載します。<br>（半分以上が、多人数に送った定型部分なんで若干違和感が・・・）<br><br>----------------------- Original Message -----------------------<br> From:    "Gori (AokiTakemasa)" &lt;<a href=mailto:aoki@gori.sh>aoki@gori.sh</a>&gt;<br> To:      <a href=mailto:yays@geocities.co.jp>yays@geocities.co.jp</a><br> Date:    Sun, 13 Jan 2002 02:56:09 +0900<br> Subject: ホームページを移転します。<br>----<br><br>Ｇｏｒｉです。<br><br>わたしのホームページ<br><a href=http://www.ksky.ne.jp/~gori/ target=_top>http://www.ksky.ne.jp/~gori/</a><br>へリンクして頂きありがとうございます。<br><br>このたび独自にドメインを取得、ホームページを移転した事をご報告致します。<br>新しいアドレスは<br><a href=http://www.gori.sh target=_top>http://www.gori.sh</a><br>です。<br>（立ち食いそば紀行は <a href=http://www.gori.sh/tsoba/ target=_top>http://www.gori.sh/tsoba/</a> です）<br><br>お手数ですが、リンクページのURLの変更をよろしくお願いします。<br><br><br><a href=mailto:aoki_mm@gori.sh>aoki_mm@gori.sh</a> （連絡先）<br><a href=http://www.gori.sh/tifra/ target=_top>http://www.gori.sh/tifra/</a> （トップページ）<br><a href=http://www.gori.sh/tifra/new.htm target=_top>http://www.gori.sh/tifra/new.htm</a> （新・新着情報回廊）<br>に統一して下さい。<br>（ぱっと見、「以前からのリンクページ」と「情報掲示板関連」の二ヶ所だけみ<br>  たいですけど）<br><br>こないだお知らせの修正を頼んだばかりでちょっとアレですが (^^; よろしくお<br>願いします～<br><br><br><a href=mailto:aoki@gori.sh>aoki@gori.sh</a><br></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

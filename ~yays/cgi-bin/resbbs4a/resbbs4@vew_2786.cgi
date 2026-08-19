@@ -1,87 +1,87 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�G����̗J�T>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:萌え暦の憂鬱>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=34792><BR>
-<img SRC="out.png?31634792"> ����4���̐����𔼊p�����œ��͂��Ă�������: <input type="text" size=8 name="captcha"><br> <br>
-���܋C�ɂȂ�
+<img SRC="out@31634792.png"> 左の4桁の数字を半角数字で入力してください: <input type="text" size=8 name="captcha"><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2785>
 <input type=hidden name=ress value=2786>
-<input type=submit value=�G����̗J�T�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=萌え暦の憂鬱へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2786>
-<font color=#6A5ACD>RE:�G����̗J�T</font></a>
+<font color=#6A5ACD>RE:萌え暦の憂鬱</font></a>
 <font color=#303030>
-�����Ђ��
- ����</font>
- <font size=2>2006�N11��20��(��) 18��7��</font>
+高樹ひろむ
+ さん</font>
+ <font size=2>2006年11月20日(月) 18時7分</font>
 <a href=http://blunderer.web.fc2.com/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2786">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+<a href="resbbs4@vew_2786.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����0x5C�i�~�L���E�o�b�N�X���b�V���j���ł́H�@�܂�Shift-JIS�̂Q�o�C�g�ڂ�0x5C�ɂȂ镶���̏ꍇ�ɉ�������ł��B���ɂ��J�^�J�i�́u�\�v�Ȃǂ�������肪����܂��B<br>�Ƃ肠�����������P�����ڂ̎��ɉ~�L���i�t�H���g�ɂ���Ă̓o�b�N�X���b�V���ɂȂ�܂��j������i��F�u�\���v���u�\\���v�j�悤�ɂ���Ή���͂ł���Ǝv���܂����B</font></ul>
+<ul><br><font size=3>それは0x5C（円記号・バックスラッシュ）問題では？　つまりShift-JISの２バイト目が0x5Cになる文字の場合に化ける問題です。他にもカタカナの「ソ」なども同じ問題があります。<br>とりあえず化けた１文字目の次に円記号（フォントによってはバックスラッシュになります）を入れる（例：「表示」→「表\示」）ようにすれば回避はできると思いますが。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2787>
-<font color=#6A5ACD>RE:�G����̗J�T</font></a>
+<font color=#6A5ACD>RE:萌え暦の憂鬱</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2006�N11��20��(��) 21��0��</font>
-<a href="resbbs4.cgi?vew=2787">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>���C�I���ۂf</b>�z</font>
-<ul><font size=3>�����Ђ�ނ���A�A�h�o�C�X���肪�Ƃ��������܂��B<br>���̕����������ۂł����Č���100%�ł͂Ȃ��A����������ł��������艻���Ȃ������肷��̂ł��B<br>\�}�[�N�����Ă��܂��ƁA�����̏ꍇ�͂��ꂪ�u\�v�̂܂ܕ\������Ă��܂��Ǝv���܂��B<br>PHP�v���O�������x���ł͕�����������悤�ȏ����������Ă��Ȃ����i���[�J�������ƕ���������薳���j�Ȃ̂ŁAMySQL�̎��������R�[�h�ϊ��̎��s�Ƃ������������x���̖�肶��Ȃ����Ƌ^���Ă�Ƃ��ł��B�i��������������S�R�����O�ꂩ������܂��񂪁j<br>���̂������Ԃ������ĐF�X���ו������Ă݂悤�Ƃ͎v���Ă܂����A���������������C�Â��̂��Ƃ�����܂����炲��������������Ə�����܂��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2006年11月20日(月) 21時0分</font>
+<a href="resbbs4@vew_2787.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>ライオン丸Ｇ</b>】</font>
+<ul><font size=3>高樹ひろむさん、アドバイスありがとうございます。<br>この文字化け現象ですが再現率100%ではなく、同じ文字列でも化けたり化けなかったりするのです。<br>\マークを入れてしまうと、多くの場合はそれが「\」のまま表示されてしまうと思われます。<br>PHPプログラムレベルでは文字化けするような書き方をしていない筈（ローカル環境だと文字化け問題無し）なので、MySQLの自動文字コード変換の失敗とかそういうレベルの問題じゃないかと疑ってるとこです。（←もしかしたら全然見当外れかもしれませんが）<br>そのうち時間をつくって色々調べ物をしてみようとは思ってますが、引き続き何かお気づきのことがありましたらご助言いただけると助かります。</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

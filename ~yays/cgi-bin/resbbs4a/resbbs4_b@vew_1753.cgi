@@ -1,128 +1,128 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:女性にはできて男性にはできない不思議ポーズ>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1753>
 <input type=hidden name=ress value=1753>
-<input type=submit value=�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=女性にはできて男性にはできない不思議ポーズへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1753>
-<font color=#6A5ACD>�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y</font></a>
+<font color=#6A5ACD>女性にはできて男性にはできない不思議ポーズ</font></a>
 <font color=#303030>
 DoubleD
- ����</font>
- <font size=2>2003�N2��24��(��) 11��38��</font>
-<a href="resbbs4_b.cgi?vew=1753">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>���������̂�`��󕗓`4</b>�z</font>
+ さん</font>
+ <font size=2>2003年2月24日(月) 11時38分</font>
+<a href="resbbs4_b@vew_1753.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>ちきちきのわ～る烈風伝4</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>(����)���̂؂����񂱍��苦���,DoubleD�ł��B<br><br>�O�X��(2/15)��TBS�n USO Japan��<br>�u�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y�v<a href=http://www.tbs.co.jp/usojapan/history/index.html target=_top>http://www.tbs.co.jp/usojapan/history/index.html</a>�Ƃ����l�^������܂���<br><br>��������̂����Ȃ̂ŁAUSO�z�[���y�[�W�̍X�V�҂��Ă��̂ł���<br>�X�V���x�����A���ǂقƂ�ǐ������Ȃ������̂�<br>���̐ق����͂ƁA����ӂ�ȋL���Ő������܂���<br>: ���r�����S�ɕ���������Ԃ��痼���q�ނ悤��<br>: �҂�����Ƃ��낦�ď�̂�|���A<br>: �Ђ��ƂЂ�����������悤�Ɏ��n�ʂɕt���A<br>: �q�ނ悤�ɂ��킹�����̏�ɂ������悹��悤�ɂ��Ă���<br>: �肾���𓮂����ė���𗣂��Ĕw���̌��őg�ށB<br>...���Ă��݂܂���B����ς肤�܂������ł��܂���(T_T;)�B<br><br>�܂��A�u���Ղ̌`���A�j�ɂ͂ł��Ȃ��v�ƌ����Ă����Ȃ���A�ԑg���ŁA<br>(���Ȃ��Ƃ���`�I�ɂ͏����łȂ�)�s�[�R���񂪂ł��Ă���̂ŁA<br>���ǁA�j�ɂ��ł���̂ł����B<br><br># ���Ȃ݂ɓ��ɉ^�����ĂȂ����ʂ̂�������̎���<br># TV���Ȃ������Ă݂��炠������ł��܂����B<br># �u�؂����񂱍���j�v�����ʂȂ�ł�����<br><br>���ہA�����ɂ����ł��Ȃ��|�[�Y�Ƃ����̂͂���̂ł��傤���H<br>�����m�̕����������������狳���Ă�������<br><br># �ƁA�������u���ʂ̏����v�ɂł��Ēj���ɂł��Ȃ��Ƃ������Ƃł��B<br># �������̃L���O�A���W��(�T�[�J�X�����c���ɂ��ӂ�����)�Ƃ��͏����B<br><br>���ׂ��Ƃ���ł͋��Z�̎ˌ��Ȃǂł��������p�������邻���ł���...<br></font></ul>
+<ul><br><font size=3>(自称)漢のぺったんこ座り協会員,DoubleDです。<br><br>前々回(2/15)のTBS系 USO Japanで<br>「女性にはできて男性にはできない不思議ポーズ」<a href=http://www.tbs.co.jp/usojapan/history/index.html target=_top>http://www.tbs.co.jp/usojapan/history/index.html</a>というネタがありました<br><br>説明するのが苦手なので、USOホームページの更新待ってたのですが<br>更新が遅いし、結局ほとんど説明がなかったので<br>私の拙い文章と、あやふやな記憶で説明しますと<br>: 両脚を完全に閉じた正座状態から両手を拝むように<br>: ぴったりとそろえて上体を倒し、<br>: ひじとひざをくっつけるように手を地面に付け、<br>: 拝むようにあわせた掌の上にあごを乗せるようにしてから<br>: 手だけを動かして両手を離して背中の後ろで組む。<br>...ってすみません。やっぱりうまく説明できません(T_T;)。<br><br>まあ、「骨盤の形状上、男にはできない」と言っておきながら、番組中で、<br>(少なくとも遺伝的には女性でない)ピーコさんができているので、<br>結局、男にもできるのですが。<br><br># ちなみに特に運動してない普通のおっさんの私も<br># TV見ながらやってみたらあっさりできました。<br># 「ぺったんこ座り男」が普通ならですけど<br><br>実際、女性にしかできないポーズというのはあるのでしょうか？<br>ご存知の方がいらっしゃったら教えてください<br><br># と、いうか「普通の女性」にできて男性にできないということです。<br># 怪奇大作戦のキングアラジン(サーカス女性団員によるふきかえ)とかは除く。<br><br>調べたところでは競技の射撃などでそういう姿勢があるそうですが...<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1754>
-<font color=#6A5ACD>RE:�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y</font></a>
+<font color=#6A5ACD>RE:女性にはできて男性にはできない不思議ポーズ</font></a>
 <font color=#303030>
-����
- ����</font>
- <font size=2>2003�N2��24��(��) 22��19��</font>
-<a href="resbbs4_b.cgi?vew=1754">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�؂����񂱂����A���͂ł��܂��B<br>�̏_�炩���āA�����^�Ȃ�ł������Ȃ��̂ł����B<br>�ł��Ȃ��|�[�Y���Ă����ł����H</font></ul>
+こん
+ さん</font>
+ <font size=2>2003年2月24日(月) 22時19分</font>
+<a href="resbbs4_b@vew_1754.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ぺったんこずわり、実はできます。<br>体柔らかくて、痩せ型ならできそうなものですが。<br>できないポーズってあるんですか？</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1762>
-<font color=#6A5ACD>RE:�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y</font></a>
+<font color=#6A5ACD>RE:女性にはできて男性にはできない不思議ポーズ</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F</a>
- ����</font>
- <font size=2>2003�N2��25��(��) 23��26��</font>
-<a href="resbbs4_b.cgi?vew=1762">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���̘b����ĂȂ�������I�ɌJ��Ԃ�����ł���ˁB<br>�j�̂؂����񂱍��肪�s�\�Ƃ����͉̂�U�w�I�ɉ]�X�ł͂Ȃ��A�P�ɒj�����̃|�[�Y���Ƃ邱�Ƃ͔��I�Ɂu�����Ă͂����Ȃ��v�����A�Ƃ����w�������ݗL�͂ł��B</font></ul>
+<a href=mailto:yays@geocities.co.jp>八重洲</a>
+ さん</font>
+ <font size=2>2003年2月25日(火) 23時26分</font>
+<a href="resbbs4_b@vew_1762.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>この話題ってなぜか定期的に繰り返されるんですよね。<br>男のぺったんこ座りが不可能というのは解剖学的に云々ではなく、単に男がそのポーズをとることは美的に「あってはいけない」だけ、という学説が現在有力です。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1764>
-<font color=#6A5ACD>RE:�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y</font></a>
+<font color=#6A5ACD>RE:女性にはできて男性にはできない不思議ポーズ</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F</a>
- ����</font>
- <font size=2>2003�N2��28��(��) 22��23��</font>
-<a href="resbbs4_b.cgi?vew=1764">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>��̎����̃��X�ǂݕԂ��Ă݂���Ȃ񂩓{���Ă�݂����ł����A����Ȃ���͑S�R�Ȃ��ł��A�O�̂��߁B<br>���������̃R�~���j�P�[�V�����͎��X�j���A���X���`���Ȃ��ċC�g���܂��B</font></ul>
+<a href=mailto:yays@geocities.co.jp>八重洲</a>
+ さん</font>
+ <font size=2>2003年2月28日(金) 22時23分</font>
+<a href="resbbs4_b@vew_1764.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>上の自分のレス読み返してみたらなんか怒ってるみたいですが、そんなつもりは全然ないです、念のため。<br>文字だけのコミュニケーションは時々ニュアンスが伝わらなくて気使います。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1769>
-<font color=#6A5ACD>RE:�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y</font></a>
+<font color=#6A5ACD>RE:女性にはできて男性にはできない不思議ポーズ</font></a>
 <font color=#303030>
 MIO
- ����</font>
- <font size=2>2003�N3��2��(��) 21��0��</font>
-<a href="resbbs4_b.cgi?vew=1769">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�S�r�A�g���̐V��A�j��</b>�z</font>
-<ul><font size=3>�Ƃ������Ƃ͉�U�w�I�Ƃ�������<br>�ǂ��炩�Ƃ����΃W�F���_�[�̖��ɋ߂��̂����m��܂���ˁB</font></ul>
+ さん</font>
+ <font size=2>2003年3月2日(日) 21時0分</font>
+<a href="resbbs4_b@vew_1769.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>鉄腕アトムの新作アニメ</b>】</font>
+<ul><font size=3>ということは解剖学的というよりは<br>どちらかといえばジェンダーの問題に近いのかも知れませんね。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1771>
-<font color=#6A5ACD>RE:�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y</font></a>
+<font color=#6A5ACD>RE:女性にはできて男性にはできない不思議ポーズ</font></a>
 <font color=#303030>
-�ʂ肷����
- ����</font>
- <font size=2>2003�N3��3��(��) 3��20��</font>
-<a href="resbbs4_b.cgi?vew=1771">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>Bartoncore�@Athlon+3000</b>�z</font>
-<ul><font size=3>���̒��w������̐�y��<br>�u��̍b���̎�񓯎m���������A�����ɕI�̗�������������v<br>�Ƃ����A�т�����l�Ԋ畉���̏������������������̂�<br>���˂Ɏv���o���܂����i�O�O�G</font></ul>
+通りすがり
+ さん</font>
+ <font size=2>2003年3月3日(月) 3時20分</font>
+<a href="resbbs4_b@vew_1771.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>Bartoncore　Athlon+3000</b>】</font>
+<ul><font size=3>私の中学生時代の先輩に<br>「手の甲側の手首同士をくっつけ、同時に肘の裏側もくっつける」<br>という、びっくり人間顔負けの女性がいらっしゃったのを<br>唐突に思い出しました（＾＾；</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1772>
-<font color=#6A5ACD>RE:�����ɂ͂ł��Ēj���ɂ͂ł��Ȃ��s�v�c�|�[�Y</font></a>
+<font color=#6A5ACD>RE:女性にはできて男性にはできない不思議ポーズ</font></a>
 <font color=#303030>
-�p�s�R
- ����</font>
- <font size=2>2003�N3��3��(��) 22��2��</font>
-<a href="resbbs4_b.cgi?vew=1772">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�X�C�~���O�Z���^�[�ŁA�̂̏_�炩�����ꂳ�񂪋��܂����B<br>���������΁A���j���̑I��āA����ȃ|�[�Y�����܂��񂩁H</font></ul>
+パピコ
+ さん</font>
+ <font size=2>2003年3月3日(月) 22時2分</font>
+<a href="resbbs4_b@vew_1772.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>スイミングセンターで、体の柔らかいお爺さんが居ました。<br>そういえば、平泳ぎの選手て、そんなポーズを取りませんか？</font></ul>
 <HR>
 </ul>
 </ul>
@@ -131,7 +131,7 @@ MIO
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

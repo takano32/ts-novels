@@ -1,125 +1,125 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&ff=p&id=1009883150kbxry&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_ff_p_id_1009883150kbxry_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�炢�������T�f����</font><br>
+<font size="+2" color="#0000FF">らいか大作戦第５掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=997187601wuhoi&ff=on" target="_blank">��S�f���ւ͂������N���b�N</a></strong>  <i>2002/01/01 20:05:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ezpe/cgi-bin/noteky/noteky@c_noteread_f_11_id_997187601wuhoi_ff_on.cgi" target="_blank">第４掲示板へはここをクリック</a></strong>  <i>2002/01/01 20:05:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009883150kbxry&id2=1009883150kbxry&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009883150kbxry_id2_1009883150kbxry_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�炢������v�ւ̊��z�͂�����ւ��肢�������܂��B<BR><BR>�Ɩ��A���F���z�t�H�[������̃����N��������֏C���肢�܂��B<BR>�i���b�Ă��ǎҁj
+「らいか大作戦」への感想はこちらへお願いいたします。<BR><BR>業務連絡：感想フォームからのリンクをこちらへ修正願います。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200109/14221933/raika_kaho_01.html" target="_blank">�ʕ䂿�����������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/12 01:20:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200109/14221933/raika_kaho_01.html" target="_blank">果穂ちゃん大作戦を見るにはここをクリック。</a></strong>  <i>2002/01/12 01:20:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010766057dfuiob&id2=1009883150kbxry&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010766057dfuiob_id2_1009883150kbxry_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�X�e���I���񂩂�ʕ䂿���̃C���X�g���͂��܂����I�I<BR>�Ƃ����킯�ō����ւ��łł��B
+ステレオさんから果穂ちゃんのイラストが届きました！！<BR>というわけで差し替え版です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/01/12 07:12:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/01/12 07:12:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010787142ufbrdt&id2=1009883150kbxry&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010787142ufbrdt_id2_1009883150kbxry_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āA���̏���؂�Č��\���グ�܂��B<BR>�X�e���I�l�A�Ƃ��Ă������ʕ䂿���̃C���X�g��`���Ă��������܂��āA��ϗL��������܂��B��������ƌ��Ă��܂��ƁA���̂�����̂܂��邢���������̎q���咣���Ă��ėǂ��ł��ˁB<BR>����͎��ׂ̈ɂ킴�킴�Ԃ��u���}�ɐԂ����C���̓������̑����p�̉ʕ䂿���ɂ��ĉ������܂��āA�����ƂƂ��ɁA�኱�̒p���������������Ă���܂��B�����������ł��B
+改めまして、この場を借りて御礼申し上げます。<BR>ステレオ様、とっても可愛い果穂ちゃんのイラストを描いてくださいまして、大変有難うございます。じっくりと見ていますと、腰のあたりのまあるい感じが女の子を主張していて良いですね。<BR>今回は私の為にわざわざ赤いブルマに赤いラインの入った体操服姿の果穂ちゃんにして下さいまして、感激とともに、若干の恥ずかしさを感じております。嬉しかったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/14013415/raika12.html" target="_blank">�炢������P�Q������ɂ͂������N���b�N�B</a></strong>  <i>2002/02/12 00:34:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/14013415/raika12.html" target="_blank">らいか大作戦１２を見るにはここをクリック。</a></strong>  <i>2002/02/12 00:34:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013441656jraeaxi&id2=1009883150kbxry&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013441656jraeaxi_id2_1009883150kbxry_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���肪���킽�������Ȃ��Ă��܂����B���̂��Ƃǂ������W�J�ɂȂ�̂��H
+【推薦文】周りがあわただしくなってきました。このあとどういう展開になるのか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/12 06:58:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/12 06:58:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013464700yprtisa&id2=1009883150kbxry&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013464700yprtisa_id2_1009883150kbxry_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�E�E�ETS9�Łi���j�B<BR>�Ƃ����킯�ŁA��ɂ���ė�̂��Ƃ��i�΁j�B<BR><BR>���A���悢��ŏI�b�E�E�E�Ǝv������O�҂������i�΁j�B<BR>�V���A�X�ȓW�J�ł��ˁB�܁A�M���O�ɂȂ�킯�͂Ȃ��ȁi��������O�j�B<BR>�X�s�i�[���ēo�ꂵ���Ƃ���ō���͏I���B�܂����������Ď��񂪊y���݁B<BR>�������A���������Ƃ͎v��Ȃ񂾁B<BR><BR>�����傤�ǂP�R�b<BR>�P�R�b�����傤�ǂƊ����銴�o����Ȃ��狰�낵���i�΁j�B������u�P�i�����j�N�[���v�ł��ȁi���j�B<BR>�������A�ߔN�͂P�N�[���ŏI������̂͐l�C�̂Ȃ���i�ł���A�����Ă��͂Q�N�[���i�Q�U�b�j���W���b���ł���ˁB<BR>�ڎw���I�Q�N�[���i�����ӔC�j�B
+読んだバイ♪<BR>・・・TS9で（爆）。<BR>というわけで、例によって例のごとく（笑）。<BR><BR>お、いよいよ最終話・・・と思ったら前編だった（笑）。<BR>シリアスな展開ですね。ま、ギャグになるわけはないな（←当たり前）。<BR>スピナーが再登場したところで今回は終了。まったくもって次回が楽しみ。<BR>しかし、来栖が勝つとは思わなんだ。<BR><BR>＞ちょうど１３話<BR>１３話をちょうどと感じる感覚が我ながら恐ろしい（笑）。いわゆる「１（ワン）クール」ですな（爆）。<BR>しかし、近年は１クールで終了するのは人気のない作品であり、たいていは２クール（２６話）が標準話数ですよね。<BR>目指せ！２クール（←無責任）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/02/12 21:13:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/02/12 21:13:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013515990xjfpgl&id2=1009883150kbxry&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013515990xjfpgl_id2_1009883150kbxry_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������񂶂₟�E�E�E<BR>�Ƃɂ��������̋����ɋ����E�E�E�E�E�E�ł��ڗ��ĂȂ��̂���Ȃ��B<BR><BR>���������񂵂��Ȃ��̂ɁA����Ȃɖc��񂾃X�g�[���[�́A<BR>�����������ނ�������̂��낤���B<BR><BR>����ɑ���҂Ȃ̂ł����B
+ええかんじやぁ・・・<BR>とにかく来栖の強さに驚き・・・・・・でも目立てないのだよなあ。<BR><BR>しかし後一回しかないのに、こんなに膨らんだストーリーは、<BR>無事結末をむかえられるのだろうか。<BR><BR>次回に大期待なのでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2002/02/24 16:08:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2002/02/24 16:08:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014534484kyorky&id2=1009883150kbxry&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014534484kyorky_id2_1009883150kbxry_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ƃ肵�����͋C���悢�����B�炢���Ƒ��̓�l�̕ʗ��͂Ƃ������A���̂��Ƃ͑�~�k�ɂȂ肻���Ȋ����ł��ˁB<BR><BR>����~�k�������Ō�����ڂ��ĂȂ��c�c�B���ʂ̌��t����Ȃ��̂��ȁc�c�B
+しっとりした雰囲気がよいっす。らいかと他の二人の別離はともかく、他のことは大円談になりそうな感じですね。<BR><BR>＃大円談を辞書で見たら載ってない……。普通の言葉じゃないのかな……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2002/02/24 18:35:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2002/02/24 18:35:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014543353whqvwl&id2=1009883150kbxry&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014543353whqvwl_id2_1009883150kbxry_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�v��ʂƂ���ő�c�~���������ƒm��܂����B�ł�WEB�Ō���������A��~�k�������������B���Ԃ�(��)�B
+あれれ、思わぬところで大団円が正しいと知りました。でもWEBで検索したら、大円談をいくつも発見。仲間だ(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�[��</strong>  <i>2002/06/11 19:30:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ゼロ</strong>  <i>2002/06/11 19:30:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1023791449vosidth&id2=1009883150kbxry&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1023791449vosidth_id2_1009883150kbxry_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��12�b�z<BR>�G�������ł���<BR>���ɂ��́E�E�E�ォ��2�Ԗڂ́E�E�E<BR>���ꂢ�ɏo���Ă܂��I<BR>���������I
+【第12話】<BR>絵が可愛いですっ<BR>特にあの・・・上から2番目の・・・<BR>きれいに出来てます！<BR>可愛いっす！
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1009883150kbxry">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

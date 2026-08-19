@@ -1,76 +1,76 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•Ž¦‚·‚éƒ^ƒCƒgƒ‹‚ðŽ©—R‚É‹L“ü-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«ä¾®ï½¦ã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>‘‡ŒfŽ¦”Â</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>ç·åˆæŽ²ç¤ºæ¿</font></td></tr></table>
 	</center></div>
 
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚ÉƒƒbƒZ[ƒW‚ª@@•Ž¦‚³‚ê‚é-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒã€€ã€€ä¾®ï½¦ã•ã‚Œã‚‹-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[—˜—p‹K–ñ]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[åˆ©ç”¨è¦ç´„]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>‚¨–¼‘O:</td><td><input type=text size=20 name=name value=>
+<td align=right>ãŠåå‰:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>‘è–¼:</td><td>
-<input type=text size=48 name=subject value=RE:CHANELyƒVƒƒƒlƒ‹-J12z—¬sŒo“T˜rŽžŒv@09”N12ŒŽÅV“ü‰×II>
+<tr><td align=right>é¡Œå:</td><td>
+<input type=text size=48 name=subject value=RE:CHANELã€ã‚·ãƒ£ãƒãƒ«-J12ã€‘æµè¡ŒçµŒå…¸è…•æ™‚è¨ˆã€€09å¹´12æœˆæœ€æ–°å…¥è·ï¼ï¼>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=57579><BR>
-<img SRC="out.png?1657579"> ¶‚Ì4Œ…‚Ì”Žš‚ð”¼Šp”Žš‚Å“ü—Í‚µ‚Ä‚­‚¾‚³‚¢: <input type="text" size=8 name="captcha"><br> <br>
-‚¢‚Ü‹C‚É‚È‚é
+<img SRC="out@1657579.png"> å·¦ã®4æ¡ã®æ•°å­—ã‚’åŠè§’æ•°å­—ã§å…¥åŠ›ã—ã¦ãã ã•ã„: <input type="text" size=8 name="captcha"><br> <br>
+ã„ã¾æ°—ã«ãªã‚‹
 <SELECT NAME="genre" size=1>
-<option value="novel">¬à@
-<option value="comic">ƒRƒ~ƒbƒN
-<option value="movie">‰f‘œì•i
-<option value="game">ƒQ[ƒ€
-<option value="character">ƒLƒƒƒ‰ƒNƒ^[
-<option value="author">ì‰Æ
-<option value="rumor">î•ñE‚¤‚í‚³
-<option value="site">ƒz[ƒ€ƒy[ƒW
-<option value="something">‰½‚©
-</SELECT> ‚Í 
+<option value="novel">å°èª¬ã€€
+<option value="comic">ã‚³ãƒŸãƒƒã‚¯
+<option value="movie">æ˜ åƒä½œå“
+<option value="game">ã‚²ãƒ¼ãƒ 
+<option value="character">ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼
+<option value="author">ä½œå®¶
+<option value="rumor">æƒ…å ±ãƒ»ã†ã‚ã•
+<option value="site">ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸
+<option value="something">ä½•ã‹
+</SELECT> ã¯ 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=3547>
 <input type=hidden name=ress value=3547>
-<input type=submit value=CHANELyƒVƒƒƒlƒ‹-J12z—¬sŒo“T˜rŽžŒv@09”N12ŒŽÅV“ü‰×II‚Ö•ÔM>
-<input type=reset value=‘‚«’¼‚µ>
+<input type=submit value=CHANELã€ã‚·ãƒ£ãƒãƒ«-J12ã€‘æµè¡ŒçµŒå…¸è…•æ™‚è¨ˆã€€09å¹´12æœˆæœ€æ–°å…¥è·ï¼ï¼ã¸è¿”ä¿¡>
+<input type=reset value=æ›¸ãç›´ã—>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=3547>
-<font color=#6A5ACD>CHANELyƒVƒƒƒlƒ‹-J12z—¬sŒo“T˜rŽžŒv@09”N12ŒŽÅV“ü‰×II</font></a>
+<font color=#6A5ACD>CHANELã€ã‚·ãƒ£ãƒãƒ«-J12ã€‘æµè¡ŒçµŒå…¸è…•æ™‚è¨ˆã€€09å¹´12æœˆæœ€æ–°å…¥è·ï¼ï¼</font></a>
 <font color=#303030>
-<a href=mailto:sssyahoo@188.com>’·’Jì@_</a>
- ‚³‚ñ</font>
- <font size=2>2009”N12ŒŽ23“ú(…) 22Žž26•ª</font>
-<a href=http://www.sss-yahoo.com@ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=3547">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+<a href=mailto:sssyahoo@188.com>é•·è°·å·ã€€æµ©</a>
+ ã•ã‚“</font>
+ <font size=2>2009å¹´12æœˆ23æ—¥(æ°´) 22æ™‚26åˆ†</font>
+<a href=http://www.sss-yahoo.comã€€ target=_top>HomePage</a>
+<a href="resbbs4@vew_3547.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 </td></tr><tr><td>
-<ul><br><font size=3>CHANELyƒVƒƒƒlƒ‹-J12z—¬sŒo“T˜rŽžŒv@09”N12ŒŽÅV“ü‰×!!<br><br>Ÿƒuƒ‰ƒ“ƒhŒƒˆÀŽsê-(ƒ‹ƒC ƒ”ƒBƒgƒ“’¼‰c“X)-sss-yahoo<br><a href=http://www.sss-yahoo.com/lvb5-1.htm target=_top>http://www.sss-yahoo.com/lvb5-1.htm</a><br><br>ŸA‹‰AS‹‰—¬s˜rŽžŒv@‚‚¢•iŽ¿A’á‚¢‰¿Ši<br><br>ŸN‹‰•i‚Í–{•¨‚Æ–w‚Ç“¯‚¶ƒŒƒxƒ‹A“–“X“Æè”Ì”„’†c<br><br>ŸÝŒÉ¤•i‚Í’¼Œa‚Å@‘åA’†A¬ƒTƒCƒY‚Å‹æ•Ê‚µ‚Ü‚·B<br><br>ŸƒX[ƒp[¸”ü‚Å’j«‚Ì•—–eA—«‚Ì–£—Í‚ð”z•z‚µ‚Ü‚·B<br><br>Ÿ¤•i‚Í‘S‘–³—¿”­‘—A‘Û¤”„‚ÌŽžA‘î”z‚µ‚Ü‚·B<br><br>¡yƒ”ƒBƒgƒ“ŒƒˆÀà•zVìA ƒoƒbƒN 2 0 0 9 ”N V•i“ü‰×z<br><a href=http://www.sss-yahoo.com/s-rolex1.htm target=_top>http://www.sss-yahoo.com/s-rolex1.htm</a><br><br>¡–{“X‚Ìƒz[ƒ€ƒy[ƒW‚É‚Í‰½Žž‚à¤•iXV‚ð‚µ‚Ä‚¢‚Ü‚·B<br><br>¡–{“X‚Å‚Í“Á•Ê‚É—^‚¦‚éŠˆ“®‚à‚µ‚Ä‚¨‚èA‘½‚­”ƒ‚¦‚ÎA‘½‚­ƒvƒŒƒ[ƒ“ƒg‚ð‚µ‚Ä‚¢‚Ü‚·<br><br>¡“–“X‚Å‚Í‰µ”„‚è‚ÆA¬”„‚à‚µ‚Ä‚¢‚Ü‚·B<br><br>Ÿ‚²—ˆ“X‚ðS‚©‚çŠ´ŽÓ\‚µã‚°‚Ü‚·B<br>ŸHPF<a href=http://www.sss-yahoo.com target=_top>http://www.sss-yahoo.com</a> y‰µ”„‚èA¬”„‚È‚ÇŠ½Œ}z<br><br>Ÿ‘ŽÐ’·: ’·’Jì _<br><br>Ÿ˜A—æ<a href=mailto:Fsssyahoo@188.com>Fsssyahoo@188.com</a><br><br></font></ul>
+<ul><br><font size=3>CHANELã€ã‚·ãƒ£ãƒãƒ«-J12ã€‘æµè¡ŒçµŒå…¸è…•æ™‚è¨ˆã€€09å¹´12æœˆæœ€æ–°å…¥è·!!<br><br>â—†ãƒ–ãƒ©ãƒ³ãƒ‰æ¿€å®‰å¸‚å ´-(ãƒ«ã‚¤ ãƒ´ã‚£ãƒˆãƒ³ç›´å–¶åº—)-sss-yahoo<br><a href=http://www.sss-yahoo.com/lvb5-1.htm target=_top>http://www.sss-yahoo.com/lvb5-1.htm</a><br><br>â—†Aç´šã€Sç´šæµè¡Œè…•æ™‚è¨ˆã€€é«˜ã„å“è³ªã€ä½Žã„ä¾¡æ ¼<br><br>â—†Nç´šå“ã¯æœ¬ç‰©ã¨æ®†ã©åŒã˜ãƒ¬ãƒ™ãƒ«ã€å½“åº—ç‹¬å è²©å£²ä¸­â€¦<br><br>â—†åœ¨åº«å•†å“ã¯ç›´å¾„ã§ã€€å¤§ã€ä¸­ã€å°ã‚µã‚¤ã‚ºã§åŒºåˆ¥ã—ã¾ã™ã€‚<br><br>â—†ã‚¹ãƒ¼ãƒ‘ãƒ¼ç²¾ç¾Žã§ç”·æ€§ã®é¢¨è²Œã€å¥³æ€§ã®é­…åŠ›ã‚’é…å¸ƒã—ã¾ã™ã€‚<br><br>â—†å•†å“ã¯å…¨å›½ç„¡æ–™ç™ºé€ã€å›½éš›å•†å£²ã®æ™‚ã€å®…é…ã—ã¾ã™ã€‚<br><br>â– ã€ãƒ´ã‚£ãƒˆãƒ³æ¿€å®‰è²¡å¸ƒæ–°ä½œã€ ãƒãƒƒã‚¯ 2 0 0 9 å¹´ æ–°å“å…¥è·ã€‘<br><a href=http://www.sss-yahoo.com/s-rolex1.htm target=_top>http://www.sss-yahoo.com/s-rolex1.htm</a><br><br>â– æœ¬åº—ã®ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸ã«ã¯ä½•æ™‚ã‚‚å•†å“æ›´æ–°ã‚’ã—ã¦ã„ã¾ã™ã€‚<br><br>â– æœ¬åº—ã§ã¯ç‰¹åˆ¥ã«ä¸Žãˆã‚‹æ´»å‹•ã‚‚ã—ã¦ãŠã‚Šã€å¤šãè²·ãˆã°ã€å¤šããƒ—ãƒ¬ã‚¼ãƒ³ãƒˆã‚’ã—ã¦ã„ã¾ã™<br><br>â– å½“åº—ã§ã¯å¸å£²ã‚Šã¨ã€å°å£²ã‚‚ã—ã¦ã„ã¾ã™ã€‚<br><br>â—†ã”æ¥åº—ã‚’å¿ƒã‹ã‚‰æ„Ÿè¬ç”³ã—ä¸Šã’ã¾ã™ã€‚<br>â—†HPï¼š<a href=http://www.sss-yahoo.com target=_top>http://www.sss-yahoo.com</a> ã€å¸å£²ã‚Šã€å°å£²ãªã©æ­“è¿Žã€‘<br><br>â—†ç·ç¤¾é•·: é•·è°·å· æµ©<br><br>â—†é€£çµ¡å…ˆï¿½<a href=mailto:Fsssyahoo@188.com>Fsssyahoo@188.com</a><br><br></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=‹LŽ–íœ>
+<input type=submit name=button value=è¨˜äº‹å‰Šé™¤>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

@@ -1,125 +1,125 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&id=1020259565ohguyb&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_id_1020259565ohguyb_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">Net���_��</font><br>
+<font size="+2" color="#0000FF">Net討論会</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/05/01 22:26:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/05/01 22:26:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020259565ohguyb&id2=1020259565ohguyb&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020259565ohguyb_id2_1020259565ohguyb_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-<a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=0&id=1020098452bwakmt&ff=on" target="_blank">http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=0&id=1020098452bwakmt&ff=on</a><BR>�ł̓��_�͂�����ֈړ����čs���܂��傤�B
+<a href="noteky@c_noteread_f_0_id_1020098452bwakmt_ff_on.cgi" target="_blank">noteky@c_noteread_f_0_id_1020098452bwakmt_ff_on.cgi</a><BR>での討論はこちらへ移動して行いましょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/05/01 22:36:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/05/01 22:36:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020260173qmmvv&id2=1020259565ohguyb&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020260173qmmvv_id2_1020259565ohguyb_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���l�I�i�`<BR>�q�g���[�̎v�z���󂯌p���ҋ��̏W�c�ł��傤���B<BR>���̍ۉ��F�l�킪�ǂ��̂����̂Ƃ����͕̂ʖ��B<BR>��������̖ڎw�����z�Ƃ͊O���l�����[���b�p����r�˂��鎖�ŁA������񎄂������F�l����܂܂�Ă���܂��B��������{�l���l�I�i�`�Ƃ����v�z�͍��{�I�ɐ��܂�Ȃ�<BR>�v�͎�������O���l��r�˂��悤�Ƃ����v�z�ƍl����΁A���{�ł����h�ɐ������邵�A���ɂ��������A�������݂��邶��Ȃ��ł����B<BR>�l�I�i�`�ƌĂ΂Ȃ��Ă��A�����l�D�ʎv�z�E�O���l�r�ˎv�z�Ƃ����v�z�̍����͈ꏏ�ł���ˁB<BR><BR>�����̒����������ƌ���<BR>���̒��͌��������̂ł��B���������Ȃ��l�͎��͂ɊÂ₩����Ă邾���ł��B<BR>�����̒��������Ɋ����邩�͐l�Ԃ��̂��̂̓w�͂Ɗ���ł��B�������������ے肷��悤�Ɂw�������x�Ƃ����̂́A�͂����肢���Ď�������l����j�󂷂�悤�Ȃ��̂ł��傤�B<BR>���̒����������Ƃ݂邱�Ƃ͎����̐l����j�󂵂Ă܂����B����Ȃ��Ƃ͂Ȃ��ł��傤�B<BR>���Ƀ��^�N�V�͂����Ǝ����̐l���𐶂��Ă��܂���A�����B<BR>�����݂̌o�Ϗ�Ԃ���l�Ԋ֌W�ɂ�����܂ŁA�ꖳ�����̂��Ƃ���]�I�ȏ�Ԃł��B<BR>���������Ӗ��Łu���̒��͌������v�ƌ������킯�ł͂���܂���B
+＞ネオナチ<BR>ヒトラーの思想を受け継ぐ者共の集団でしょうが。<BR>この際黄色人種がどうのこうのというのは別問題。<BR>＞あいつらの目指す理想とは外国人をヨーロッパから排斥する事で、もちろん私たち黄色人種も含まれております。だから日本人がネオナチという思想は根本的に生まれない<BR>要は自国から外国人を排斥しようという思想と考えれば、日本でも立派に成立するし、現にそういう連中も存在するじゃないですか。<BR>ネオナチと呼ばなくても、自国人優位思想・外国人排斥思想という思想の根元は一緒ですよね。<BR><BR>＞世の中を厳しいと見る<BR>世の中は厳しいものです。そう感じない人は周囲に甘やかされてるだけです。<BR>＞世の中をいかに感じるかは人間そのものの努力と感情です。それを根っから否定するように『厳しい』というのは、はっきりいって自分から人生を破壊するようなものでしょう。<BR>世の中を厳しいとみることは自分の人生を破壊してますか。そんなことはないでしょう。<BR>現にワタクシはちゃんと自分の人生を生きていますよ、ええ。<BR>＞現在の経済状態から人間関係におけるまで、底無し沼のごとく絶望的な状態です。<BR>そういう意味で「世の中は厳しい」と言ったわけではありません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2002/05/02 00:09:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2002/05/02 00:09:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020265789qmcjxx&id2=1020259565ohguyb&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020265789qmcjxx_id2_1020259565ohguyb_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�q�b�g���[���ǂ��l���邩�ɂ��Ă��A�u���ԁv�̉��߂ɂ��Ă��A�����ł��c�_���ׂ��ł͂Ȃ��ƒ������܂��B<BR>��LURL�̋c�_�̖��_�́A�N�������ǂ��v�����A���ꂪ���������ȂǂƂ����Ƃ���ɂ͂Ȃ��A���z�f���A���N�������ɂƂ����g�g�݂���E�������͂����X�q�������Ƃ�����_�ɐs���܂��B�����œ����c�_�A���������J��Ԃ��͔̂����Ă��������B<BR><BR>�����������ݍ��ނȂ�A���̌��Ɋւ��鎄�̍l���͎��̒ʂ�ł��B<BR><BR>���}�_����͈�x���x�Ȃ�Ƃ������A���ꂩ������݂̃y�[�X�Ńi�`�Y���̉��߂����\�����������ł�����A����ɓK�؂ȃT�C�g��T���������g�ŗ����グ�Ă��������B�ŏ�����l������ꏊ�Ŏ��_������̂͊y�ł����A���N�������ɂ͐��ʕω���i���y���ޑ����̐l���w�͂𕥂��Ĉێ����Ă���ꏊ�ł��B�F���S���ł����`�ɂ悶�o���čՂ�ɖ��֌W���h���F�̋����������n�߂�悤�Ȏ��͂�߂Ă��������B<BR>���́i�����炭�����W�S�Q�U����Ɠ������j���p�҂̈�l�Ƃ��āA���}�_����́i�Ӑ}���Ă������łȂ����͂킩��܂��񂪁j���l����������t�Ȃł���l���̖���������ȂǁA���������̗v�f�����������鏑�����݂ɂ͋������O���o���܂����A��߂ė~�����ƍl���Ă��܂��B<BR><BR>�����W�S�Q�U����ɑ΂��Ă��A���͂��̌����傫���Ȃ錴���ƂȂ���2002/04/30 22:18:43�̏������݂͎Љ�o����w�i�ɂ����Ј��A����𑽕��Ɋ܂ށu�Γ��łȂ��v�A����������������΁u���}�_����Ɏ���ȁv���͂��Ɗ����܂��B�����g�ŗ�ÂɂȂ��ēǂݕԂ��Ă݂鎖�������߂��܂��B<BR><BR>�����čŌ�ɁA���ɂ̒��ł��̘b�̗�����p��������ׂ��łȂ��ƁA�d�˂ĕ\�����܂��B
+ヒットラーをどう考えるかについても、「世間」の解釈についても、ここでも議論すべきではないと忠告します。<BR>上記URLの議論の問題点は、誰が何をどう思うか、それが正しいかなどというところにはなく、感想掲示板、少年少女文庫という枠組みを逸脱した文章が延々繋がったという一点に尽きます。ここで同じ議論、同じ事を繰り返すのは避けてください。<BR><BR>もう少し踏み込むなら、この件に関する私の考えは次の通りです。<BR><BR>ヤマダさんは一度や二度ならともかく、これからも現在のペースでナチズムの解釈を公表し続けるつもりでしたら、それに適切なサイトを探すかご自身で立ち上げてください。最初から人がいる場所で持論を説くのは楽ですが、少年少女文庫は性別変化作品を楽しむ多くの人が努力を払って維持している場所です。皆が担いでいる御輿によじ登って祭りに無関係かつ刺激色の強い演説を始めるような事はやめてください。<BR>私は（おそらくｍｋ８４２６さんと同じく）利用者の一人として、ヤマダさんの（意図してかそうでないかはわかりませんが）他人を試したり逆なでする人物の名をあげるなど、いわゆる煽りの要素を感じさせる書き込みには強い懸念を覚えますし、やめて欲しいと考えています。<BR><BR>ｍｋ８４２６さんに対しても、私はこの件が大きくなる原因となった2002/04/30 22:18:43の書き込みは社会経験を背景にした威圧、煽りを多分に含む「対等でない」、きつい言い方をすれば「ヤマダさんに失礼な」文章だと感じます。ご自身で冷静になって読み返してみる事をお勧めします。<BR><BR>そして最後に、文庫の中でこの話の流れを継続させるべきでないと、重ねて表明します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/05/02 06:41:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/05/02 06:41:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020289267kexopk&id2=1020259565ohguyb&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020289267kexopk_id2_1020259565ohguyb_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�\���󂠂�܂���ł����B<BR>����ꂽ�ʂ��z���E�ł��̎���b�������Ă��n�܂�܂���B<BR>���ӎ��I����̉���Ƃ́A���̐��E�ł͋����I�ȑ��݂��ƌ������𗝉����Ă����ׂ����Ǝ��o����Ɠ����ɁA�C���^�[�l�b�g��͍ō��̖ϑz�I�G��ł���A�܂��ɓx�Ȍ��������̂Ȃ��ɑ��݂��Ă���ƌ��������A��������ƐS�ɏ����Ƃ߂Ă����ׂ��ł����B<BR>����̎v�z�̌����́A�������E�ɂ�����1200�l�𑊎�Ƃ������͂ɂ����Ă������Ă������������Ƃ������܂��B<BR>�ł͖c��Ȃ鋕���̔��W������āc
+申し訳ありませんでした。<BR>言われた通り空想世界でこの事を話し合っても始まりません。<BR>他意識的自我の解放とは、この世界では虚像的な存在だと言う事を理解しておくべきだと自覚すると同時に、インターネット上は最高の妄想的絵画であり、また極度な現実逃避のなかに存在していると言う事を、しっかりと心に書きとめておくべきでした。<BR>今回の思想の決着は、現実世界における1200人を相手とした文章においてつけさせていただきたいとおもいます。<BR>では膨大なる虚像の発展を願って…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������񁗒ʂ肪����</strong>  <i>2002/05/02 09:12:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>名無しさん＠通りがかり</strong>  <i>2002/05/02 09:12:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020298328lpcyj&id2=1020259565ohguyb&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020298328lpcyj_id2_1020259565ohguyb_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���킯�킩���E�E�E
+↑わけわからん・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/05/02 10:11:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/05/02 10:11:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020301895pofpv&id2=1020259565ohguyb&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020301895pofpv_id2_1020259565ohguyb_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂�����ƉߔM���������悤�ŁA�\���󂠂�܂���ł����B<BR>�b��̗��ꂩ�痈��E���͌f���̏h���Ƃ͌����A������ƊO�ꂷ���܂����ˁB<BR>�����E�E�E<BR>��2002/04/30 22:18:43�̏������݂͎Љ�o����w�i�ɂ����Ј��A����𑽕��Ɋ܂ށu�Γ��łȂ��v�A����������������΁u���}�_����Ɏ���ȁv����<BR>����ȂɈЈ��E����������܂����H�������g�ł͂���ł��}�����ق��Ȃ�ł����ǁE�E�E�B<BR>���Ƃ�����A���ꂩ�狭�߂̕��͏����Ȃ��Ȃ��E�E�E�B<BR>�������g�ŗ�ÂɂȂ��ēǂݕԂ��Ă݂鎖�������߂��܂��B<BR>���ʂ���͖����ł��傤�B��p�ɂ͔��Ɏ��Ԃ�������܂��́B<BR>���̂Ƃ���́A���炽�߂ēǂ�ł��A���������Ȃ��B<BR>�Ƃ������A���C�ł��̂悤�ȃJ�L�R�i�q�g���[�Ȃǁj��������ɑ΂��ẮA����ł�����Ȃ����炢���Ǝv���Ă��܂��E�E�E�i���j�B<BR><BR>�����ƁA�܂��܂��D���ɁE�E�E�B<BR>���̂��炢�Ŏ~�߂Ȃ��ƁB<BR><BR>���炽�߂āA�\���󂠂�܂���ł����B<BR>���̘b��͂������Ƃ������ƂŁB�Ȃ�Ȃ�X���b�h���Ɩ������Ă��������Ă��\���܂���B
+今回はちょっと過熱しすぎたようで、申し訳ありませんでした。<BR>話題の流れから来る脱線は掲示板の宿命とは言え、ちょっと外れすぎましたね。<BR>ただ・・・<BR>＞2002/04/30 22:18:43の書き込みは社会経験を背景にした威圧、煽りを多分に含む「対等でない」、きつい言い方をすれば「ヤマダさんに失礼な」文章<BR>そんなに威圧・煽りを感じますか？自分自身ではこれでも抑えたほうなんですけど・・・。<BR>だとしたら、これから強めの文は書けないなぁ・・・。<BR>＞ご自身で冷静になって読み返してみる事をお勧めします。<BR>当面それは無理でしょう。冷却には非常に時間がかかります故。<BR>今のところは、あらためて読んでも、何も感じない。<BR>というか、平気であのようなカキコ（ヒトラーなど）をする方に対しては、これでも足りないくらいだと思ってしまう・・・（爆）。<BR><BR>おっと、ますます泥沼に・・・。<BR>このくらいで止めないと。<BR><BR>あらためて、申し訳ありませんでした。<BR>この話題はこれ限りということで。なんならスレッドごと抹消していただいても構いません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/05/02 16:57:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/05/02 16:57:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020326238wwwct&id2=1020259565ohguyb&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020326238wwwct_id2_1020259565ohguyb_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v�����z�l�ɂ��ӂ�Ȃ���΂Ȃ�܂���B<BR>�v�����z�l�ɂƂ��ăC���^�[�l�b�g�̐��E�͋����ł͂Ȃ��A�����̉ƒ�̂悤�ȑ��݂��ƌ��������A��������Ǝ��o���Ă����ׂ��ł����B<BR>�@���ɂƂ��ăC���^�[�l�b�g�͋����ł����āA���ׂĂ̎����������鎖���\�ȏꏊ���Ǝv���Ă���܂����B������A�����̐��̒��Ŏ��́w�q�g���[�x�̎��Ȃǈ�،��ɂ͏o���Ȃ����A����Ȃ�̏펯���킫�܂�����ł��ׂčs�������Ă���܂��B������w�����̓q�g���[�̒a�����x�Ƃ������Ȃ�Đ�΂Ɍ����܂���B<BR>�����炱�̐��E�ŗ~�����������Ă����킯�ł��B<BR>�v�����z�l�ɂ́A���̐��E�����̒��̈ꕔ���ƌ��������A�ǂ����Ď��͑����C�����Ȃ������̂ł��傤�B<BR>�d�C����������΂Ȃ��Ȃ��Ă��܂��悤�Ȃ��Ȃ��̐��̒��ł��A���͑��d���Â��܂��B
+迅速感想様にも謝らなければなりません。<BR>迅速感想様にとってインターネットの世界は虚像ではなく、自分の家庭のような存在だと言う事を、しっかりと自覚しておくべきでした。<BR>　私にとってインターネットは虚像であって、すべての自我を解放する事が可能な場所だと思っておりました。だから、現実の世の中で私は『ヒトラー』の事など一切口には出さないし、それなりの常識をわきまえた上ですべて行動をしております。だから『今日はヒトラーの誕生日』という事なんて絶対に言えません。<BR>だからこの世界で欲求を解決していたわけです。<BR>迅速感想様には、この世界も世の中の一部だと言う事を、どうして私は早く気がつかなかったのでしょう。<BR>電気さえ消えればなくなってしまうようなあなたの世の中でも、私は尊重しつづけます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2002/05/03 00:26:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2002/05/03 00:26:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1020353179jykyexf&id2=1020259565ohguyb&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1020353179jykyexf_id2_1020259565ohguyb_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͂��̌��ɂ��Ă͒P�Ȃ��O�҂ł����炨����̌��_�Ɍ������ގ��͂��܂���B<BR>�Ō�Ɉ�_�����B<BR>�C���^�[�l�b�g�͓d�b�Ⓖ�ڂ̑Θb�Ɠ������R�~���j�P�[�V������i�̈�ɂ����܂���B��i�ɘf�킳��A�����̖{�����l�Ԋ֌W�ɂ��鎖��������Ȃ��悤���肢���܂��B
+私はこの件については単なる第三者ですからお二方の結論に口を挟む事はしません。<BR>最後に一点だけ。<BR>インターネットは電話や直接の対話と同じくコミュニケーション手段の一つにすぎません。手段に惑わされ、物事の本質が人間関係にある事を見失わないようお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��</strong>  <i>2004/08/04 02:36:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>こ</strong>  <i>2004/08/04 02:36:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1091554610ljfyw&id2=1020259565ohguyb&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1091554610ljfyw_id2_1020259565ohguyb_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����
+うん
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="1020259565ohguyb">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

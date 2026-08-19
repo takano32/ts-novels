@@ -1,87 +1,87 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:TS�̂��傢�l�^�B>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:TSのちょいネタ。>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=1384><BR>
-<img SRC="out.png?3161384"> ����4���̐����𔼊p�����œ��͂��Ă�������: <input type="text" size=8 name="captcha"><br> <br>
-���܋C�ɂȂ�
+<img SRC="out@3161384.png"> 左の4桁の数字を半角数字で入力してください: <input type="text" size=8 name="captcha"><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2814>
 <input type=hidden name=ress value=2814>
-<input type=submit value=TS�̂��傢�l�^�B�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=TSのちょいネタ。へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2814>
-<font color=#6A5ACD>TS�̂��傢�l�^�B</font></a>
+<font color=#6A5ACD>TSのちょいネタ。</font></a>
 <font color=#303030>
-���ꂩ�ł��Ȃ�
- ����</font>
- <font size=2>2007�N9��23��(��) 21��7��</font>
-<a href="resbbs4.cgi?vew=2814">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+だれかでもない
+ さん</font>
+ <font size=2>2007年9月23日(日) 21時7分</font>
+<a href="resbbs4@vew_2814.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�@��i�̏��ł͂Ȃ��̂ł����A������ɁB<br><br>�@goo�̃A���P�[�g�Łu�悭�������邯�ǈӖ����킩��Ȃ��C���^�[�l�b�g�p�ꃉ���L���O�v��5�ʂɁuTS�ATSF�v�������N�C�������͗l�ł��B<br>����͐��ԓI�ɔF�m����Ă�̂�����Ė����̂��A�Ȃ�Ƃ����f�ɍ���Ƃ���ł����Ƃ肠���������N�C�������悤�ł���A�Ƃ����b��ł����B<br><br><a href=http://ranking.goo.ne.jp/ranking/092/netword_2007/&f target=_top>http://ranking.goo.ne.jp/ranking/092/netword_2007/&f</a>=news&LID=news</font></ul>
+<ul><br><font size=3>　作品の情報ではないのですが、こちらに。<br><br>　gooのアンケートで「よく見かけるけど意味がわからないインターネット用語ランキング」の5位に「TS、TSF」がランクインした模様です。<br>これは世間的に認知されてるのかされて無いのか、なんとも判断に困るところですがとりあえずランクインしたようですよ、という話題でした。<br><br><a href=http://ranking.goo.ne.jp/ranking/092/netword_2007/&f target=_top>http://ranking.goo.ne.jp/ranking/092/netword_2007/&f</a>=news&LID=news</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2815>
-<font color=#6A5ACD>�⑫</font></a>
+<font color=#6A5ACD>補足</font></a>
 <font color=#303030>
-���ꂩ�ł��Ȃ�
- ����</font>
- <font size=2>2007�N9��23��(��) 21��8��</font>
+だれかでもない
+ さん</font>
+ <font size=2>2007年9月23日(日) 21時8分</font>
 <a href=http://ranking.goo.ne.jp/ranking/092/netword_2007/&f&eq;news&LID&eq;news target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2815">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@�A�h���X���r���Ő؂�Ă��܂����̂ŁA�Ƃ肠����Home�p�̃A�h���X���͗��ɊY���y�[�W�̃A�h���X�����Ă����܂��B�A������B</font></ul>
+<a href="resbbs4@vew_2815.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　アドレスが途中で切れてしまったので、とりあえずHome用のアドレス入力欄に該当ページのアドレスを入れておきます。連投失礼。</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

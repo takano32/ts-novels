@@ -1,152 +1,152 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1020009622olgmey&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1020009622olgmey_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�{���@�ޒËI�����i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">須堂　奈津紀さん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/04/29 01:00:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/04/29 01:00:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020009622olgmey&id2=1020009622olgmey&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020009622olgmey_id2_1020009622olgmey_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ 
+準備中 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200204/29010217/tenseiki.html" target="_blank">�]���P������ɂ͂������N���b�N�B</a></strong>  <i>2002/04/29 01:15:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200204/29010217/tenseiki.html" target="_blank">転生姫を見るにはここをクリック。</a></strong>  <i>2002/04/29 01:15:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020010536kkeov&id2=1020009622olgmey&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020010536kkeov_id2_1020009622olgmey_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���̂���ɂƂ��āA���̃G���f�B���O�̓n�b�s�[�G���h�Ȃ́H
+【推薦文】星歌くんにとって、このエンディングはハッピーエンドなの？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/29 02:28:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/29 02:28:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020014920mdgji&id2=1020009622olgmey&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020014920mdgji_id2_1020009622olgmey_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ق��Ƃ���A�悢��i�ł��B<BR>�m���ɏ��S���ׂ����`����Ă��܂����B���̍�i��ǂ�ŁA�܂������ɘA�z�����̂́c����Ō����΁A��������̃T�X�y���X�Ƃ��z���[�Ȗ���ł��B�Ȃ񂾂������ɋ߂����͋C������悤�Ɏv���܂����B<BR><BR>�@�����āA���̍�i�͍ŏI�I�ɂ̓n�b�s�[�G���h�ł悩�����Ȃ��Ǝv���܂��B���S�����̂�TS�̎􂢂��������ɁA�s�V�s�����������ڗ����܁B���񂽂͈̂��i���j<BR>�@�Ƃ����̂͏�k�ŁA�܂��s�V�s�����Ă����̂��Ȃ񂾂��������ł����ˁB�l���^�̈Ӗ��Ő����邽�߂ɂ́A���͂������ʂƂ����^�����K�v�Ȃ̂��ȂƎv���܂����B<BR><BR>
+　ほろりとくる、よい作品です。<BR>確かに女心が細かく描かれていました。この作品を読んで、まっさきに連想したのは…漫画で言えば、少女漫画のサスペンスとかホラーな漫画です。なんだかそれらに近い雰囲気があるように思いました。<BR><BR>　そして、この作品は最終的にはハッピーエンドでよかったなぁと思います。感心したのはTSの呪いを解かずに、不老不死だけ解く瑠璃さま。あんたは偉い（爆）<BR>　というのは冗談で、まあ不老不死っていうのもなんだかきつそうですしね。人が真の意味で生きるためには、実はいつか死ぬという運命が必要なのかなと思いました。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/29 09:19:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/29 09:19:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020039563gptdpy&id2=1020009622olgmey&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020039563gptdpy_id2_1020009622olgmey_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�`���A�������ォ��͂��܂����̂Łu���A���j���̂��H�v�Ǝv���Ă�����A�����Ƃ����ԂɂP�O�O�O�N�o�߂��܂����Ƃ��i�΁j�B<BR>������҂ɐ旧���ꂽ�߂��݂̂��܂�A���C���h���ڗ��P�B�ߌ��̐l�i�H�j�ł���܂��B<BR>���̂Ƃ΂�����i�H�j���󂯁A���ɂ���ĂP�O�O�O�N���̊Ԑ����Ă��Ȃ���΂Ȃ�Ȃ��������́B�����������Ӗ��ߌ��̐l�ł���܂��ȁB<BR>�ŏ��A���̂��P�O�O�O�N�Ԑ���������̂ɂ܂����ڗ��P�Ɠ����悤�Ȃ��Ƃ��K�v�Ȃ̂ł͂Ǝv���Ă������ǁA������͏����ɗڗ��P�̎􂢂łP�O�O�O�N���������Ă�����ł��ˁB<BR>�������A�P�O�O�O�N�ԏ��̎q���Ă����ɂ��ւ�炸�A�܂��j�̐��_���c���Ă����Ƃ͋����i�΁j�B���ꂾ���ڗ��P�ւ̏�O������������ł��傤�ˁB<BR><BR>�����S�����̂�TS�̎􂢂��������ɁA�s�V�s�����������ڗ����܁B���񂽂͈̂��i���j<BR>�����i�΁j<BR><BR>���܂��s�V�s�����Ă����̂��Ȃ񂾂��������ł����ˁB<BR>���̕ӂ͍��������q�́u�l���V���[�Y�v�ɂ��`����Ă��܂����˂��B<BR><BR>���΂炵�����͋C�̍�i�ł����B�m���ɏ����}���K�ŏH�����X�����肩��o�Ă��Ă����������͂Ȃ��ł��ˁB<BR><BR>���̂����A���K���Ɂi�΁j�B
+読んだバイ♪<BR>冒頭、平安時代からはじまったので「お、歴史ものか？」と思っていたら、あっという間に１０００年経過しましたとさ（笑）。<BR>愛する者に先立たれた悲しみのあまり、狂気を宿す瑠璃姫。悲劇の人（？）であります。<BR>そのとばっちり（？）を受け、女にされて１０００年もの間生きてこなければならなかった星歌。こちらもある意味悲劇の人でありますな。<BR>最初、星歌が１０００年間生き続けるのにまさか瑠璃姫と同じようなことが必要なのではと思っていたけど、こちらは純粋に瑠璃姫の呪いで１０００年生き続けてきたんですね。<BR>しかし、１０００年間女の子してきたにも関わらず、まだ男の精神が残っていたとは驚き（笑）。それだけ瑠璃姫への情念が強かったんでしょうね。<BR><BR>＞感心したのはTSの呪いを解かずに、不老不死だけ解く瑠璃さま。あんたは偉い（爆）<BR>同感（笑）<BR><BR>＞まあ不老不死っていうのもなんだかきつそうですしね。<BR>この辺は高橋留美子の「人魚シリーズ」にも描かれていましたねぇ。<BR><BR>すばらしい雰囲気の作品でした。確かに少女マンガで秋○書店あたりから出ていてもおかしくはないですね。<BR><BR>星歌ちゃん、お幸せに（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�{���@�ޒËI</strong>  <i>2002/04/29 18:51:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>須堂　奈津紀</strong>  <i>2002/04/29 18:51:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020073883nqldqw&id2=1020009622olgmey&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020073883nqldqw_id2_1020009622olgmey_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�{���@�ޒËI�ł��B<BR>���z���肪�Ƃ��������܂���m(__)m<BR><BR>�����̍�i��ǂ�ŁA�܂������ɘA�z�����̂́c����Ō����΁A��������̃T�X�y���X�Ƃ��z���[�Ȗ���ł�<BR>�����ł��ˁB���̂�����̃W�������ł���ˁB<BR>�ł��{���͎��A�z���[�ɂ������ア��ł��B<BR>���܂����~�ł���ςȂ̂ɁB<BR>�悭�������Ǝv���܂��i�΁j<BR>���܂�z���[�n�͓ǂ�łȂ��̂ł���<BR>���̂�����̂��̂ɊԈႢ�Ǝv���܂��B<BR><BR>�������āA���̍�i�͍ŏI�I�ɂ̓n�b�s�[�G���h�ł悩�����Ȃ��Ǝv���܂��B<BR>�����v���Ă��������܂���?�������ł��B<BR>���E���Ƀn�b�s�[�G���h�Ȃ́H���ď�����Ă����̂�<BR>���̌����͏����I�v�l�̌����Ȃ̂��ȂƂ��v�����̂ł����B<BR>��͂�j�����ƈႤ�����ɂȂ�̂ł��傤��?<BR><BR>�����S�����̂�TS�̎􂢂��������ɁA�s�V�s�����������ڗ����܁B���񂽂͈̂��i���j<BR>����͂������l�����̂ł���<BR>���ǂ��̌`�ɗ��������܂����B<BR>���̂͐S���j�Ə��̂͂��܂ł�ꂽ�܂�<BR>1�l��1000�N�����Ă��Đ��_�I�ɂ܂����Ă���Ǝv���܂��āB<BR>���Ƃ��Č������}���܂���������͓N������������ł��B<BR>���_�I�ɂ܂����Ă������̂��x������͔̂ނ������Ȃ���<BR>�ڗ����܎v�����킯�ŁB<BR>���̂��D���ȔނȂ�c�ƁB<BR>���̂��炷��Ǝ��������Ă����l���ق���������ł��ˁB<BR>���Ƃ��j�Ƃ��ǂ��ł��ǂ��āw�v�����́x�Ƃ��Ă̎������B<BR>���̂̂��Ƃ�^���Ɏv���ނƏo��������Ƃŏ��Ƃ��Ă����߂Ď��o���A�ڊo�߂�킯�ł��B<BR>�s�V�s���͍�ғI�ɐh���������̂Łi�΁j<BR>�����������������ȋC�����āB<BR>��A�I��肪���邩�琸��t��������Ǝv��������ł��B<BR><BR>���������A�P�O�O�O�N�ԏ��̎q���Ă����ɂ��ւ�炸�A�܂��j�̐��_���c���Ă����Ƃ͋����i�΁j�B���ꂾ���ڗ��P�ւ̏�O������������ł��傤�ˁB<BR>���̂͏�ɂ������܂����Ƃ���A�����ƒj�Ə��̂͂��܂ł�ꂽ�܂�<BR>�ł����B<BR>������������ʂ�A����ł����̂ق��֓]�΂Ȃ������̂�<BR>�ڗ��ւ̍��݂�������������ł��B<BR>�ڗ���|���������ɂȂ������̂�<BR>1000�N�����Ă����Ƃ��Đ������ɏ��̂ӂ������<BR>�₵���Ă��N�ɂ����炸�A�����Ă����̂ł��B<BR>������ڕW���B����ꂽ�i�{���͈Ⴄ�̂ł����c�j���A<BR>���̐S�̕ǂ͎�蕥���A����Ə��ɂȂꂽ�Ƃ������߂Ȃ̂ł����B<BR><BR>�������Ƃ����ԂɂP�O�O�O�N�o�߂��܂����Ƃ��i�΁j�B<BR>�����Ƃ����Ԃ�1000�N�������͎̂��̒��ׂ��̕s�\���Ȃ����ł��i���j<BR>�܂������ى��̗]�n�͂������܂���B<BR><BR>����i�̑�ϖ��n�Ȃ��̂Ɋ��z�𒸂��܂���<BR>���肪�Ƃ��������܂����B<BR>�����ƕ׋����Ă������̏�����悤�撣��܂��B<BR>��������̂����t�ƂĂ��׋��ɂȂ�܂���m(__)m<BR><BR><BR><BR>
+須堂　奈津紀です。<BR>感想ありがとうございましたm(__)m<BR><BR>＞この作品を読んで、まっさきに連想したのは…漫画で言えば、少女漫画のサスペンスとかホラーな漫画です<BR>そうですね。そのあたりのジャンルですよね。<BR>でも本当は私、ホラーにすごく弱いんです。<BR>おまけ屋敷でも大変なのに。<BR>よく書いたと思います（笑）<BR>あまりホラー系は読んでないのですが<BR>そのあたりのものに間違いと思います。<BR><BR>＞そして、この作品は最終的にはハッピーエンドでよかったなぁと思います。<BR>そう思っていただけますか?嬉しいです。<BR>推薦文にハッピーエンドなの？って書かれていたので<BR>私の結末は女性的思考の結末なのかなとか思ったのですが。<BR>やはり男性だと違う結末になるのでしょうか?<BR><BR>＞感心したのはTSの呪いを解かずに、不老不死だけ解く瑠璃さま。あんたは偉い（爆）<BR>これはすごく考えたのですが<BR>結局この形に落ち着きました。<BR>星歌は心が男と女のはざまでゆれたまま<BR>1人で1000年生きてきて精神的にまいっていると思いまして。<BR>女として結末を迎えましたがこれは哲平がいたからです。<BR>精神的にまいっていた星歌を支えられるのは彼しかいないと<BR>瑠璃さま思ったわけで。<BR>星歌が好きな彼なら…と。<BR>星歌からすると自分を見てくれる人がほしかったんですね。<BR>女とか男とかどうでも良くて『久音星歌』としての自分を。<BR>星歌のことを真剣に思う彼と出会ったことで女としても改めて自覚し、目覚めるわけです。<BR>不老不死は作者的に辛かったもので（笑）<BR>何かすごく可愛そうな気がして。<BR>後、終わりが来るから精一杯生きられると思ったからです。<BR><BR>＞しかし、１０００年間女の子してきたにも関わらず、まだ男の精神が残っていたとは驚き（笑）。それだけ瑠璃姫への情念が強かったんでしょうね。<BR>星歌は上にも書きましたとおり、ずっと男と女のはざまでゆれたまま<BR>でした。<BR>おっしゃった通り、それでも女のほうへ転ばなかったのは<BR>瑠璃への恨みが強かったからです。<BR>瑠璃を倒すしか頭になかったので<BR>1000年生きても女として生きずに女のふりをして<BR>寂しくても誰にも頼らず、生きてきたのです。<BR>だから目標が達せられた（本当は違うのですが…）時、<BR>その心の壁は取り払われ、やっと女になれたという解釈なのですが。<BR><BR>＞あっという間に１０００年経過しましたとさ（笑）。<BR>あっという間に1000年たったのは私の調べもの不十分なせいです（汗）<BR>まったく弁解の余地はございません。<BR><BR>初作品の大変未熟なものに感想を頂きまして<BR>ありがとうございました。<BR>もっと勉強していいもの書けるよう頑張ります。<BR>たくさんのお言葉とても勉強になりましたm(__)m<BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���՗�</strong>  <i>2002/04/29 20:51:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>風祭玲</strong>  <i>2002/04/29 20:51:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020081097eequinh&id2=1020009622olgmey&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020081097eequinh_id2_1020009622olgmey_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��A���՗�ł������܂��B<BR><BR>�����Ђ႟�����I�I�c����z����Ă��܂��Ƃ́I<BR>�i�����[����E�_�E�_���Ă��Ȃ��ŃT�b�T�Ə����΂悩�����̂Ɂj<BR>��Ȃ��ƌ��������āI�I<BR>�i���̂�т肵�Ă��邨�O�������j<BR><BR>�R�z���i����j<BR>�v�킸��藐���Ă��܂����̂́A<BR>���͎��̕��ŏ�����i�߂Ă����b�ƁA<BR>�o�����������������Ă��Ă�����Ɠ��h���Ă��܂��܂����B<BR><BR>���āA���b�ǂ܂��Ă��炢�܂����B<BR>���̘b�A�ꌩ�A���̂̃X�g�[���[�̂悤�Ɍ����܂����A<BR>�{�؂͗ڗ��̘b�Ȃ�ł��ˁi����j�B<BR>�ł��A�Ō�ɂ͗ڗ��������̌��ɋC�Â���<BR>���������W�J�ɂȂ����̂͂悩�����Ǝv���܂��B<BR>�������A�ڗ������̂ɑގ������W�J��������c<BR>����͂�����ƃC����������������܂���ˁB<BR>
+ども、風祭玲でございます。<BR><BR>うっひゃぁぁぁ！！…先を越されてしまうとは！<BR>（＜だーからウダウダしていないでサッサと書けばよかったのに）<BR>んなこと言ったって！！<BR>（＜のんびりしているお前が悪い）<BR><BR>コホン（失礼）<BR>思わず取り乱してしまったのは、<BR>実は私の方で準備を進めていた話と、<BR>出だし部分が酷似していてちょっと動揺してしまいました。<BR><BR>さて、お話読ませてもらいました。<BR>この話、一見、星歌のストーリーのように見えますが、<BR>本筋は瑠璃の話なんですね（うん）。<BR>でも、最後には瑠璃が自分の誤りに気づいて<BR>自決した展開になったのはよかったと思います。<BR>もしも、瑠璃が星歌に退治される展開だったら…<BR>これはちょっとイヤだったかもしれませんね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�{���@�ޒËI</strong>  <i>2002/04/29 21:19:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>須堂　奈津紀</strong>  <i>2002/04/29 21:19:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020082793tjiwas&id2=1020009622olgmey&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020082793tjiwas_id2_1020009622olgmey_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���՗悳��A���z���肪�Ƃ��������܂��B<BR><BR>�����͎��̕��ŏ�����i�߂Ă����b�ƁA�o�����������������Ă��Ă�����Ɠ��h���Ă��܂��܂����B<BR>���������������Ɨǂ�����܂���B<BR>�l�ԍl���邱�Ƃ������Ȃ񂾂��Ă悭�����Ă��܂��i�΁j<BR><BR>�����̘b�A�ꌩ�A���̂̃X�g�[���[�̂悤�Ɍ����܂����A�{�؂͗ڗ��̘b�Ȃ�ł��ˁi����j�B<BR>���̂�����̂��肪�����Ȃ�܂����i�΁j<BR>�Ȃ̂Ŏ���͗ڗ����܂ł��B<BR>���Ȃ�̃~�X���Ă��܂��܂����������׋��ɂ͂Ȃ����Ǝv���Ă��܂��B<BR><BR>���ł��A�Ō�ɂ͗ڗ��������̌��ɋC�Â��Ď��������W�J�ɂȂ����̂͂悩�����Ǝv���܂��B<BR>������������Y�񂾂�ł��B<BR>�ŁA���ǂ�����ɂȂ�܂����B<BR><BR>���z���肪�Ƃ��������܂���m(__)m
+風祭玲さん、感想ありがとうございます。<BR><BR>＞実は私の方で準備を進めていた話と、出だし部分が酷似していてちょっと動揺してしまいました。<BR>私もそういうこと良くありますよ。<BR>人間考えることが同じなんだってよく泣いています（笑）<BR><BR>＞この話、一見、星歌のストーリーのように見えますが、本筋は瑠璃の話なんですね（うん）。<BR>星歌が主役のつもりがそうなりました（笑）<BR>なので主役は瑠璃さまです。<BR>かなりのミスしてしまいましたがいい勉強にはなったと思っています。<BR><BR>＞でも、最後には瑠璃が自分の誤りに気づいて自決した展開になったのはよかったと思います。<BR>これもすごく悩んだんです。<BR>で、結局こちらになりました。<BR><BR>感想ありがとうございましたm(__)m
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://meny.g-7.ne.jp/" target="_blank">�݂�݂�</a></strong>  <i>2002/04/29 21:47:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://meny.g-7.ne.jp/" target="_blank">みんみん</a></strong>  <i>2002/04/29 21:47:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020084430uujhwg&id2=1020009622olgmey&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020084430uujhwg_id2_1020009622olgmey_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̍�i�@���S�̐^�����������́B�B�B<BR>���삭��̑䎌��҂��Ă���I�I��<BR>�j�������@���S�����ݎ���Ă��������܂��ˁi�΁j<BR><BR>�{�C�X�h���}�҂́@�܂��@������Ɠ��e���قȂ��Ă��܂��̂�<BR>���y���݂��������邩�Ǝv���܂�<BR><BR><BR>
+この作品　女心の真髄をついたもの。。。<BR>日野くんの台詞を待っている！！笑<BR>男性諸氏　女心を汲み取ってくださいませね（笑）<BR><BR>ボイスドラマ編は　また　ちょっと内容が異なっていますので<BR>お楽しみいただけるかと思います<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2002/05/05 15:00:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2002/05/05 15:00:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020578421sqxuyho&id2=1020009622olgmey&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020578421sqxuyho_id2_1020009622olgmey_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āH�ł��ˁB�]���P�̍�҂̕��Ƃ��ẮE�E�E<BR>������j�̂��߂ɕs���̎҂ƂȂ����ڗ��P�B�����ǂ����߂Ɏ��ꂵ�g�̂Ő��������́B�Ȃ��ɁA�ڗ��P�́A���̂𐶂������̂��B�ޏ��͈�l�Ő����邱�Ƃɔ��Ă����̂����E�E�E<BR>�ޏ��́A���̂̒��ɁA���΂��A����A���΂������������������̂�������܂���ˁB<BR>�����āA�����̍��Ηl�i�N���j�𓾂����̂ɁA���Ηl�Əo���������̎������d�˂��̂����E�E�E<BR>�ڗ��P�́A����̎��ɂ���āA���ꂵ�g���򉻂��A���̂̒��ɂ��̂���̎������ڂ����̂����E�E�E<BR>�ȂǂƎv�����肵�āB����̎��ɂ���āA����܂ł̍߂��������Ƃ͎v���܂��񂪁A�ڗ��P�̈��炬���F��܂��B<BR>�{������B���Ă��ȕ�������肪�Ƃ��������܂����B
+はじめまして？ですね。転生姫の作者の方としては・・・<BR>愛する男のために不死の者となった瑠璃姫。それを追うために呪われし身体で生きた星歌。なぜに、瑠璃姫は、星歌を生かしたのか。彼女は一人で生きることに疲れていたのかも・・・<BR>彼女は、星歌の中に、桜火を、いや、桜火を失った自分を見たのかもしれませんね。<BR>そして、自分の桜火様（哲平）を得た星歌に、桜火様と出会ったころの自分を重ねたのかも・・・<BR>瑠璃姫は、自らの死によって、呪われし身を浄化し、星歌の中にあのころの自分を移したのかも・・・<BR>などと思ったりして。自らの死によって、これまでの罪を許されるとは思いませんが、瑠璃姫の安らぎを祈ります。<BR>須堂さん。すてきな物語をありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�{���@�ޒËI</strong>  <i>2002/05/06 23:51:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>須堂　奈津紀</strong>  <i>2002/05/06 23:51:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020696678dbwbkv&id2=1020009622olgmey&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020696678dbwbkv_id2_1020009622olgmey_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂�m(__)m<BR><BR>�݂�݂񂳂񂱂̂��т͑�ς����b�ɂȂ�܂����B<BR>�����@������肪�Ƃ��������܂����B<BR><BR>�悵��������<BR>�ꉞ�����ł͏��߂܂��Ăł�m(__)m<BR><BR>�P�l�Ő�����̂��Ď₵���Ǝv������ł��B<BR>������͗ǂ��Ȃ����ǁB<BR>���̑��h���閟�悳��A����Ƃ���ɂ��̂悤�ȍ�i������A<BR>���̂悤�Ȏv���Ɏ����A<BR>���̍�i�Ŏ��R�ɏo�Ă��܂����B<BR><BR>�悵��������̂��������ʂ�<BR>���ɂ���đS�Ă��������킯���Ȃ��̂ł���<BR>�����Ă��̃��X�g�ɒv���܂����B<BR>��������䂦�ɂł��傤���B<BR><BR>���z�{���ɂ��肪�Ƃ��������܂����B
+感想ありがとうございますm(__)m<BR><BR>みんみんさんこのたびは大変お世話になりました。<BR>いい機会をありがとうございました。<BR><BR>よしおかさま<BR>一応ここでは初めましてですm(__)m<BR><BR>１人で生きるのって寂しいと思ったんです。<BR>道ずれは良くないけど。<BR>私の尊敬する漫画さん、劇作家さんにそのような作品があり、<BR>そのような思いに囚われ、<BR>この作品で自然に出てきました。<BR><BR>よしおかさんのおっしゃる通り<BR>死によって全てが許されるわけがないのですが<BR>あえてあのラストに致しました。<BR>これも女ゆえにでしょうか。<BR><BR>感想本当にありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/11 19:26:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/11 19:26:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021112780brrxnw&id2=1020009622olgmey&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021112780brrxnw_id2_1020009622olgmey_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炢���A���ɂ��΂炵��<BR>���΂炵�����x���c�R
+すばらいし、実にすばらしい<BR>すばらしいレベル…３
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1020009622olgmey">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

@@ -175,7 +175,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 まなちゃん　様へ<br>
 部分変身するっていうのは、文庫では珍しいかもですね。ただ、この小説は、少年少女ギャラリーの中にあります、<br>
-みるく聖姫様の「なりかけっ！魔法少女」　<a href=http://www14.big.or.jp/~yays/gallery/art61.html target=_top>http://www14.big.or.jp/~yays/gallery/art61.html</a><br>
+みるく聖姫様の「なりかけっ！魔法少女」　<a href=../../~yays/gallery/art61.html target=_top>../../~yays/gallery/art61.html</a><br>
 を元ネタにしておりますので、克哉君は、常に（魔法）少女に【なりかけ】なんです。中途半端なんです。という訳で彼が完全に彼女になったときがシリーズの終わりかなあ〜と。<br>
 <br>
 ……次回は、本当にいつになるんでしょうね。だいたい２話と３話のインターバルが４年だし。</font>

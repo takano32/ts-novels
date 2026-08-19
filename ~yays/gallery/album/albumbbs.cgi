@@ -1,12 +1,12 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <HTML lang="ja">
 <HEAD>
-<TITLE>ƒMƒƒƒ‰ƒŠ[­”N­— (TG Illustrations and Captions)</TITLE>
+<TITLE>ã‚®ãƒ£ãƒ©ãƒªãƒ¼å°‘å¹´å°‘å¥³ (TG Illustrations and Captions)</TITLE>
 <LINK REV="MADE" HREF="mailto:beppuk@pb3.so-net.ne.jp"> 
 <STYLE TYPE="text/css">
 <!--
-BODY { background:#B0C4DE url(http://www14.big.or.jp/~yays/gallery/album/back.gif);font-size:10pt }
-BODY.reply { background:#E6E6FA url(http://www14.big.or.jp/~yays/gallery/album/reply.gif);font-size:10pt }
+BODY { background:#B0C4DE url(back.gif);font-size:10pt }
+BODY.reply { background:#E6E6FA url(reply.gif);font-size:10pt }
 BODY.error { background-color:#F5DEB3;font-size:10pt }
 TD { font-size:10pt }
 H1 { font-size:24pt }
@@ -85,10 +85,10 @@ function makeNewWindow(image,width,height) {
 	newWindow.document.close();
 
 	if (isNN) {
-		newWindow.document.photo.document.images[0].src = image;
+		newWindow.document.photo.document.images[0].src = "image;"
 	} 
 	if (isIE) {
-		newWindow.document.images[0].src = image;
+		newWindow.document.images[0].src = "image;"
 	}
 
 	newWindow.focus();
@@ -97,59 +97,59 @@ function makeNewWindow(image,width,height) {
 </SCRIPT>
 <DIV STYLE="text-align:center">
 <TABLE summary="menu" CELLPADDING=10>
-<TBODY><TR><TD><A HREF="#post"><STRONG>“Še‚·‚é</STRONG> (Post)</A></TD>
-<TD><A HREF="#album"><STRONG>“Še ‚ğŒ©‚é</STRONG> (View)</A></TD>
-<TD><A HREF="http://www14.big.or.jp/~yays/gallery/main.html"><STRONG>­”N­—ƒMƒƒƒ‰ƒŠ[ ( Gallery Shounen-Shoujo )</STRONG></A></TD>
+<TBODY><TR><TD><A HREF="#post"><STRONG>æŠ•ç¨¿ã™ã‚‹</STRONG> (Post)</A></TD>
+<TD><A HREF="#album"><STRONG>æŠ•ç¨¿ ã‚’è¦‹ã‚‹</STRONG> (View)</A></TD>
+<TD><A HREF="../main.html"><STRONG>å°‘å¹´å°‘å¥³ã‚®ãƒ£ãƒ©ãƒªãƒ¼ ( Gallery Shounen-Shoujo )</STRONG></A></TD>
 </TR></TBODY></TABLE>
 <DIV STYLE="background-color:#E0FFFF;color:#008080;font-size:18pt;;font-weight:bold;width:400">
-<A NAME="top">-- •ÔM‹@”\•t‚«ƒAƒbƒvƒ[ƒhBBS --</A></DIV>
-<H1 STYLE="color:#006400;font-size:28pt">ƒMƒƒƒ‰ƒŠ[­”N­— (TG Illustrations and Captions)</H1>
+<A NAME="top">-- è¿”ä¿¡æ©Ÿèƒ½ä»˜ãã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰BBS --</A></DIV>
+<H1 STYLE="color:#006400;font-size:28pt">ã‚®ãƒ£ãƒ©ãƒªãƒ¼å°‘å¹´å°‘å¥³ (TG Illustrations and Captions)</H1>
 </DIV>
 <DIV STYLE="text-align:center">
 <TABLE summary="notice"><TBODY>
 <TR><TD STYLE="color:#C71585;font-size:10pt;font-weight:bold;text-align:center">
-ô ¬‚³‚È‰æ‘œ‚ğƒNƒŠƒbƒN‚·‚é“x‚É•ÊƒEƒBƒ“ƒhƒE‚ÅŒ´‰æ‚ª•\¦‚³‚ê‚Ü‚· ô<BR>  *  Click thumbnails to view original images  *</TD></TR>
+â™ª å°ã•ãªç”»åƒã‚’ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹åº¦ã«åˆ¥ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã§åŸç”»ãŒè¡¨ç¤ºã•ã‚Œã¾ã™ â™ª<BR>  *  Click thumbnails to view original images  *</TD></TR>
 </TBODY></TABLE><BR>
-<FORM METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi"><TABLE summary="buttons" WIDTH=250><TBODY><TR VALIGN="top">
-<TD><INPUT CLASS=button TYPE="button" VALUE="g‚¢•û(How to Use)" onClick="location='http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi?mode=guide'" onKeyPress="location='http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi?mode=guide'"></TD>
-<TD><INPUT CLASS=button TYPE="button" VALUE="ƒŠƒ[ƒh(Reload)" onClick="location='http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi'" onKeyPress="location='http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi'"></TD>
-<TD><INPUT CLASS=button TYPE="button" VALUE=" –ß‚é (Return)" onClick="parent.location='http://www14.big.or.jp/~yays/gallery/'" onKeyPress="parent.location='http://www14.big.or.jp/~yays/gallery/'"></TD></TR>
-<TR VALIGN="top"><TD COLSPAN=3 STYLE="color:red;font-size:8pt">@@@[•K‚¸‚¨“Ç‚İ‚­‚¾‚³‚¢]<BR> Please read before posting</TD>
+<FORM METHOD="POST" ACTION="albumbbs.cgi"><TABLE summary="buttons" WIDTH=250><TBODY><TR VALIGN="top">
+<TD><INPUT CLASS=button TYPE="button" VALUE="ä½¿ã„æ–¹(How to Use)" onClick="location='albumbbs@mode_guide.cgi'" onKeyPress="location='albumbbs@mode_guide.cgi'"></TD>
+<TD><INPUT CLASS=button TYPE="button" VALUE="ãƒªãƒ­ãƒ¼ãƒ‰(Reload)" onClick="location='albumbbs.cgi'" onKeyPress="location='albumbbs.cgi'"></TD>
+<TD><INPUT CLASS=button TYPE="button" VALUE=" æˆ»ã‚‹ (Return)" onClick="parent.location='../index.html'" onKeyPress="parent.location='../index.html'"></TD></TR>
+<TR VALIGN="top"><TD COLSPAN=3 STYLE="color:red;font-size:8pt">ã€€ã€€ã€€[å¿…ãšãŠèª­ã¿ãã ã•ã„]<BR> Please read before posting</TD>
 </TR></TBODY></TABLE></FORM>
-<FORM METHOD="POST" ENCTYPE="multipart/form-data" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM METHOD="POST" ENCTYPE="multipart/form-data" ACTION="albumbbs.cgi">
 <DIV STYLE="background-color:#FFFFFF;width:100%;padding:5">
-(<SPAN STYLE="color:#FF0000">*</SPAN>) <A NAME="post">‚ª•t‚¢‚Ä‚¢‚é€–Ú‚Í•K‚¸‹L“ü‚µ‚Ä‚­‚¾‚³‚¢B  Box marked with (*) must be filled.</A>
+(<SPAN STYLE="color:#FF0000">*</SPAN>) <A NAME="post">ãŒä»˜ã„ã¦ã„ã‚‹é …ç›®ã¯å¿…ãšè¨˜å…¥ã—ã¦ãã ã•ã„ã€‚  Box marked with (*) must be filled.</A>
 </DIV>
 <TABLE summary="main posting table" WIDTH=100% CELLPADDING=5 BGCOLOR="#D3D3D3" BORDER=0>
 <TBODY><TR><TD CLASS=main WIDTH=150 BGCOLOR="#FF69B4">
 <INPUT TYPE="hidden" NAME="mode" value="write">
-<STRONG>‰æ‘œƒtƒ@ƒCƒ‹</STRONG>(Image File) </TD>
+<STRONG>ç”»åƒãƒ•ã‚¡ã‚¤ãƒ«</STRONG>(Image File) </TD>
 <TD CLASS=main COLSPAN=3 WIDTH=70% BGCOLOR="#FF69B4">
 <SPAN STYLE="font-size:12pt"><INPUT CLASS=text TYPE=file NAME="image" SIZE=24></SPAN>
-<SPAN STYLE="color:#FFFFFF;font-size:10pt;font-weight:bold"> ‰æ‘œ‚ğ‘I‚ñ‚Å‚­‚¾‚³‚¢</SPAN>(Select the Target File)</TD></TR>
-<TR><TD CLASS=main WIDTH=150><SPAN STYLE="color:red;font-size:8pt">”¼Šp‰p”š 6-8 •¶š</SPAN><BR>
+<SPAN STYLE="color:#FFFFFF;font-size:10pt;font-weight:bold"> ç”»åƒã‚’é¸ã‚“ã§ãã ã•ã„</SPAN>(Select the Target File)</TD></TR>
+<TR><TD CLASS=main WIDTH=150><SPAN STYLE="color:red;font-size:8pt">åŠè§’è‹±æ•°å­— 6-8 æ–‡å­—</SPAN><BR>
 <SPAN CLASS=main><STRONG>PASSWORD</STRONG>(6-8 char.) </SPAN></TD>
 <TD WIDTH=100><INPUT CLASS=pass TYPE=password NAME="pass" size=10 value=""></TD>
-<TD CLASS=main WIDTH=100><STRONG>‰æ‘œ‚Ì‘è–¼</STRONG>(Image Title) </TD>
+<TD CLASS=main WIDTH=100><STRONG>ç”»åƒã®é¡Œå</STRONG>(Image Title) </TD>
 <TD CLASS=main COLSPAN=2 WIDTH=200><INPUT CLASS=text TYPE="text" NAME="caption" VALUE="" SIZE=23></TD></TR>
 
-<TR><TD CLASS=main WIDTH=150><STRONG>‚¨–¼‘O</STRONG>(Name) (<SPAN STYLE="color:#FF0000">*</SPAN>)</TD>
+<TR><TD CLASS=main WIDTH=150><STRONG>ãŠåå‰</STRONG>(Name) (<SPAN STYLE="color:#FF0000">*</SPAN>)</TD>
 <TD CLASS=main COLSPAN=2 WIDTH=200><INPUT CLASS=text TYPE="text" NAME="hname" SIZE=23 VALUE=""></TD>
 <TD CLASS=main WIDTH=200><INPUT TYPE="radio" NAME="cookie" VALUE="on" CHECKED>
-<SPAN STYLE="font-size:8pt">ƒpƒXA‚¨–¼‘OAƒ[ƒ‹AURL‚ğ•Û‘¶</SPAN>(Use Cookie)</TD></TR>
-<TR><TD CLASS=main  WIDTH=150><STRONG>ƒ[ƒ‹</STRONG>(E-mail) </TD>
+<SPAN STYLE="font-size:8pt">ãƒ‘ã‚¹ã€ãŠåå‰ã€ãƒ¡ãƒ¼ãƒ«ã€URLã‚’ä¿å­˜</SPAN>(Use Cookie)</TD></TR>
+<TR><TD CLASS=main  WIDTH=150><STRONG>ãƒ¡ãƒ¼ãƒ«</STRONG>(E-mail) </TD>
 <TD CLASS=main COLSPAN=2 WIDTH=200><INPUT CLASS=text TYPE="text" NAME="email"  SIZE=23 VALUE=""></TD>
 <TD CLASS=main WIDTH=200><INPUT TYPE="radio" NAME="cookie" VALUE="off">
-<SPAN STYLE="font-size:8pt">ƒNƒbƒL[‚ğíœ</SPAN>(Delete Cookie)
-<SPAN STYLE="color:mediumvioletred;font-size:8pt"> i‘—M’¼Œã‚ÉÀsj</SPAN></TD></TR>
+<SPAN STYLE="font-size:8pt">ã‚¯ãƒƒã‚­ãƒ¼ã‚’å‰Šé™¤</SPAN>(Delete Cookie)
+<SPAN STYLE="color:mediumvioletred;font-size:8pt"> ï¼ˆé€ä¿¡ç›´å¾Œã«å®Ÿè¡Œï¼‰</SPAN></TD></TR>
 <TR><TD CLASS=main WIDTH=150><STRONG>URL</STRONG> </TD>
 <TD CLASS=main COLSPAN=2 WIDTH=200><INPUT CLASS=text TYPE="text" NAME="url"  SIZE=28 VALUE=""></TD>
 <TD CLASS=main WIDTH=200 ALIGN="center"><SPAN STYLE="font-size:10pt"><INPUT CLASS=button TYPE=reset value="[Reset]"></SPAN>
-@<SPAN STYLE="font-size:10pt"><INPUT CLASS=button TYPE="button" VALUE="[Reload]" onClick="location='http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi'" onKeyPress="location='http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi'"></SPAN></TD></TR>
-<TR><TD CLASS=main WIDTH=150><STRONG>ƒ^ƒCƒgƒ‹</STRONG>(Subject) </TD>
+ã€€<SPAN STYLE="font-size:10pt"><INPUT CLASS=button TYPE="button" VALUE="[Reload]" onClick="location='albumbbs.cgi'" onKeyPress="location='albumbbs.cgi'"></SPAN></TD></TR>
+<TR><TD CLASS=main WIDTH=150><STRONG>ã‚¿ã‚¤ãƒˆãƒ«</STRONG>(Subject) </TD>
 <TD CLASS=main COLSPAN=2 WIDTH=200><INPUT CLASS=text TYPE="text" NAME="subject" VALUE=""  SIZE=23> </TD>
 <TD CLASS=main WIDTH=200 ALIGN="center"><SPAN STYLE="font-size:12pt"><!--INPUT CLASS=button TYPE="submit" VALUE="[Upload]" STYLE="font-weight:bold;color:red"--></SPAN></TD></TR>
-<TR><TD COLSPAN=4 CLASS=main WIDTH=95% ALIGN="center"><STRONG>ƒƒbƒZ[ƒW</STRONG>(Message) (<SPAN STYLE="color:#FF0000">*</SPAN>)<BR><BR>
+<TR><TD COLSPAN=4 CLASS=main WIDTH=95% ALIGN="center"><STRONG>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸</STRONG>(Message) (<SPAN STYLE="color:#FF0000">*</SPAN>)<BR><BR>
 <TEXTAREA CLASS=area NAME="message" ROWS=8 COLS=70></TEXTAREA>
 </TD></TR>
 </TBODY></TABLE></FORM>
@@ -157,28 +157,28 @@ function makeNewWindow(image,width,height) {
 <HR SIZE=1 WIDTH=100% ALIGN="center"><BR>
 <DIV STYLE="text-align:center">
 <DIV STYLE="color:#800080;width:100%">
-<A NAME="album">Šeƒy[ƒW</A>‚É‚Íe‹L–”‚Å<SPAN STYLE="color:red">7</SPAN>Œ‚¸‚Â•\¦‚³‚ê‚Ä‚¢‚Ü‚·B
-‹L˜^‚Å‚«‚é‹L–‚Ì‘”‚Íeq‡Œv‚Å<SPAN STYLE="color:red">300</SPAN>Œ‚Å‚·B<BR>
+<A NAME="album">å„ãƒšãƒ¼ã‚¸</A>ã«ã¯è¦ªè¨˜äº‹æ•°ã§<SPAN STYLE="color:red">7</SPAN>ä»¶ãšã¤è¡¨ç¤ºã•ã‚Œã¦ã„ã¾ã™ã€‚
+è¨˜éŒ²ã§ãã‚‹è¨˜äº‹ã®ç·æ•°ã¯è¦ªå­åˆè¨ˆã§<SPAN STYLE="color:red">300</SPAN>ä»¶ã§ã™ã€‚<BR>
 The recent <SPAN STYLE="color:red">300</SPAN> posts are recorded.
 </DIV><BR>
 </DIV>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <HR SIZE=10 WIDTH=10>
 <TABLE summary="parent posting with image (delete outside)" BGCOLOR="#F0FFF0" WIDTH=100% CELLPADDING=0 STYLE="margin-top:0">
 <TR><TD>
 <SPAN STYLE="color:green">[41913]</SPAN> 
- <SPAN STYLE="color:#00008B"><STRONG>buy valium</STRONG></SPAN>@ 
+ <SPAN STYLE="color:#00008B"><STRONG>buy valium</STRONG></SPAN>ã€€ 
 <INPUT TYPE="hidden" NAME="mode" VALUE="delete">
 <INPUT CLASS=pass TYPE="password"  NAME="pass" SIZE=10 VALUE=""><INPUT TYPE="checkbox" NAME="pick" value="41913">
 <INPUT CLASS=button TYPE="submit" VALUE="delete" STYLE="font-size:8pt">
 </TD></TR>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <TR><TD>
-Name: <a href="mailto:buyvalium@hotmail.com"><STRONG>buy valium</STRONG></A>   <A HREF="http://www.asianave.com/valium-12/" TARGET="_blank"><IMG ALT="http://www.asianave.com/valium-12/" SRC="http://www14.big.or.jp/~yays/gallery/album/home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 10:45</TD>
+Name: <a href="mailto:buyvalium@hotmail.com"><STRONG>buy valium</STRONG></A>   <A HREF="http://www.asianave.com/valium-12/" TARGET="_blank"><IMG ALT="http://www.asianave.com/valium-12/" SRC="home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 10:45</TD>
 <TD ALIGN="right"><INPUT TYPE="hidden" NAME="mode" VALUE="reply">
 <INPUT TYPE="hidden" NAME="order" VALUE="41913">
-<INPUT CLASS=button TYPE="submit" VALUE="‹L–’Ç‰Á(Reply)">
+<INPUT CLASS=button TYPE="submit" VALUE="è¨˜äº‹è¿½åŠ (Reply)">
 </TD></TR>
 <TR VALIGN=top BGCOLOR="#E0FFFF"><TD COLSPAN=2><SPAN STYLE="color:#0000CD">
 Aloha! <a href="http://www.asianave.com/alprazolam-12/">alprazolam</a> <a href="http://www.asianave.com/valium-12/">buy valium</a>
@@ -186,23 +186,23 @@ Aloha! <a href="http://www.asianave.com/alprazolam-12/">alprazolam</a> <a href="
 
 </SPAN></TD></TR></TABLE>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <HR SIZE=10 WIDTH=10>
 <TABLE summary="parent posting with image (delete outside)" BGCOLOR="#F0FFF0" WIDTH=100% CELLPADDING=0 STYLE="margin-top:0">
 <TR><TD>
 <SPAN STYLE="color:green">[41912]</SPAN> 
- <SPAN STYLE="color:#00008B"><STRONG>buy lorazepam</STRONG></SPAN>@ 
+ <SPAN STYLE="color:#00008B"><STRONG>buy lorazepam</STRONG></SPAN>ã€€ 
 <INPUT TYPE="hidden" NAME="mode" VALUE="delete">
 <INPUT CLASS=pass TYPE="password"  NAME="pass" SIZE=10 VALUE=""><INPUT TYPE="checkbox" NAME="pick" value="41912">
 <INPUT CLASS=button TYPE="submit" VALUE="delete" STYLE="font-size:8pt">
 </TD></TR>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <TR><TD>
-Name: <a href="mailto:buylorazep@hotmail.com"><STRONG>buy lorazepam</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~buy_lorazepam10" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~buy_lorazepam10" SRC="http://www14.big.or.jp/~yays/gallery/album/home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 09:11</TD>
+Name: <a href="mailto:buylorazep@hotmail.com"><STRONG>buy lorazepam</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~buy_lorazepam10" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~buy_lorazepam10" SRC="home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 09:11</TD>
 <TD ALIGN="right"><INPUT TYPE="hidden" NAME="mode" VALUE="reply">
 <INPUT TYPE="hidden" NAME="order" VALUE="41912">
-<INPUT CLASS=button TYPE="submit" VALUE="‹L–’Ç‰Á(Reply)">
+<INPUT CLASS=button TYPE="submit" VALUE="è¨˜äº‹è¿½åŠ (Reply)">
 </TD></TR>
 <TR VALIGN=top BGCOLOR="#E0FFFF"><TD COLSPAN=2><SPAN STYLE="color:#0000CD">
 Aloha! <a href="http://wiki.openqa.org/display/~buy_alprazolam81">buy alprazolam</a> <a href="http://wiki.openqa.org/display/~alprazolam_without_pre17">alprazolam without prescription</a> <a href="http://wiki.openqa.org/display/~lorazepam_without_pres11">lorazepam without prescription</a> <a href="http://wiki.openqa.org/display/~buy_lorazepam10">buy lorazepam</a> <a href="http://wiki.openqa.org/display/~alprazolam_online12">buy alprazolam online</a>
@@ -210,23 +210,23 @@ Aloha! <a href="http://wiki.openqa.org/display/~buy_alprazolam81">buy alprazolam
 
 </SPAN></TD></TR></TABLE>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <HR SIZE=10 WIDTH=10>
 <TABLE summary="parent posting with image (delete outside)" BGCOLOR="#F0FFF0" WIDTH=100% CELLPADDING=0 STYLE="margin-top:0">
 <TR><TD>
 <SPAN STYLE="color:green">[41911]</SPAN> 
- <SPAN STYLE="color:#00008B"><STRONG>azithromycin</STRONG></SPAN>@ 
+ <SPAN STYLE="color:#00008B"><STRONG>azithromycin</STRONG></SPAN>ã€€ 
 <INPUT TYPE="hidden" NAME="mode" VALUE="delete">
 <INPUT CLASS=pass TYPE="password"  NAME="pass" SIZE=10 VALUE=""><INPUT TYPE="checkbox" NAME="pick" value="41911">
 <INPUT CLASS=button TYPE="submit" VALUE="delete" STYLE="font-size:8pt">
 </TD></TR>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <TR><TD>
-Name: <a href="mailto:azithromyc@hotmail.com"><STRONG>azithromycin</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~azithromycin_online_97" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~azithromycin_online_97" SRC="http://www14.big.or.jp/~yays/gallery/album/home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 06:45</TD>
+Name: <a href="mailto:azithromyc@hotmail.com"><STRONG>azithromycin</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~azithromycin_online_97" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~azithromycin_online_97" SRC="home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 06:45</TD>
 <TD ALIGN="right"><INPUT TYPE="hidden" NAME="mode" VALUE="reply">
 <INPUT TYPE="hidden" NAME="order" VALUE="41911">
-<INPUT CLASS=button TYPE="submit" VALUE="‹L–’Ç‰Á(Reply)">
+<INPUT CLASS=button TYPE="submit" VALUE="è¨˜äº‹è¿½åŠ (Reply)">
 </TD></TR>
 <TR VALIGN=top BGCOLOR="#E0FFFF"><TD COLSPAN=2><SPAN STYLE="color:#0000CD">
 Aloha! <a href="http://wiki.openqa.org/display/~acomplia_online_17">acomplia</a> <a href="http://wiki.openqa.org/display/~azithromycin_online_97">azithromycin</a> <a href="http://wiki.openqa.org/display/~hydrocodone_online_46">hydrocodone</a> <a href="http://wiki.openqa.org/display/~finasteride_online_29">finasteride</a> <a href="http://wiki.openqa.org/display/~vicodin_online_35">vicodin no rx</a>
@@ -234,23 +234,23 @@ Aloha! <a href="http://wiki.openqa.org/display/~acomplia_online_17">acomplia</a>
 
 </SPAN></TD></TR></TABLE>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <HR SIZE=10 WIDTH=10>
 <TABLE summary="parent posting with image (delete outside)" BGCOLOR="#F0FFF0" WIDTH=100% CELLPADDING=0 STYLE="margin-top:0">
 <TR><TD>
 <SPAN STYLE="color:green">[41910]</SPAN> 
- <SPAN STYLE="color:#00008B"><STRONG>lorazepam</STRONG></SPAN>@ 
+ <SPAN STYLE="color:#00008B"><STRONG>lorazepam</STRONG></SPAN>ã€€ 
 <INPUT TYPE="hidden" NAME="mode" VALUE="delete">
 <INPUT CLASS=pass TYPE="password"  NAME="pass" SIZE=10 VALUE=""><INPUT TYPE="checkbox" NAME="pick" value="41910">
 <INPUT CLASS=button TYPE="submit" VALUE="delete" STYLE="font-size:8pt">
 </TD></TR>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <TR><TD>
-Name: <a href="mailto:lorazepam@hotmail.com"><STRONG>lorazepam</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~lorazepam_online_57" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~lorazepam_online_57" SRC="http://www14.big.or.jp/~yays/gallery/album/home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 06:32</TD>
+Name: <a href="mailto:lorazepam@hotmail.com"><STRONG>lorazepam</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~lorazepam_online_57" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~lorazepam_online_57" SRC="home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 06:32</TD>
 <TD ALIGN="right"><INPUT TYPE="hidden" NAME="mode" VALUE="reply">
 <INPUT TYPE="hidden" NAME="order" VALUE="41910">
-<INPUT CLASS=button TYPE="submit" VALUE="‹L–’Ç‰Á(Reply)">
+<INPUT CLASS=button TYPE="submit" VALUE="è¨˜äº‹è¿½åŠ (Reply)">
 </TD></TR>
 <TR VALIGN=top BGCOLOR="#E0FFFF"><TD COLSPAN=2><SPAN STYLE="color:#0000CD">
 Aloha! <a href="http://wiki.openqa.org/display/~lorazepam_online_57">lorazepam</a> <a href="http://wiki.openqa.org/display/~alprazolam_online_45">alprazolam</a> <a href="http://wiki.openqa.org/display/~klonopin_online_16">buy klonopin</a> <a href="http://wiki.openqa.org/display/~clonazepam_online_13">clonazepam</a> <a href="http://wiki.openqa.org/display/~zolpidem_online_17">zolpidem</a>
@@ -258,23 +258,23 @@ Aloha! <a href="http://wiki.openqa.org/display/~lorazepam_online_57">lorazepam</
 
 </SPAN></TD></TR></TABLE>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <HR SIZE=10 WIDTH=10>
 <TABLE summary="parent posting with image (delete outside)" BGCOLOR="#F0FFF0" WIDTH=100% CELLPADDING=0 STYLE="margin-top:0">
 <TR><TD>
 <SPAN STYLE="color:green">[41909]</SPAN> 
- <SPAN STYLE="color:#00008B"><STRONG>buy vicodin online</STRONG></SPAN>@ 
+ <SPAN STYLE="color:#00008B"><STRONG>buy vicodin online</STRONG></SPAN>ã€€ 
 <INPUT TYPE="hidden" NAME="mode" VALUE="delete">
 <INPUT CLASS=pass TYPE="password"  NAME="pass" SIZE=10 VALUE=""><INPUT TYPE="checkbox" NAME="pick" value="41909">
 <INPUT CLASS=button TYPE="submit" VALUE="delete" STYLE="font-size:8pt">
 </TD></TR>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <TR><TD>
-Name: <a href="mailto:buyvicodin@hotmail.com"><STRONG>buy vicodin online</STRONG></A>   <A HREF="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=18275727&as=6690" TARGET="_blank"><IMG ALT="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=18275727&as=6690" SRC="http://www14.big.or.jp/~yays/gallery/album/home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 05:39</TD>
+Name: <a href="mailto:buyvicodin@hotmail.com"><STRONG>buy vicodin online</STRONG></A>   <A HREF="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=18275727&as=6690" TARGET="_blank"><IMG ALT="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=18275727&as=6690" SRC="home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 05:39</TD>
 <TD ALIGN="right"><INPUT TYPE="hidden" NAME="mode" VALUE="reply">
 <INPUT TYPE="hidden" NAME="order" VALUE="41909">
-<INPUT CLASS=button TYPE="submit" VALUE="‹L–’Ç‰Á(Reply)">
+<INPUT CLASS=button TYPE="submit" VALUE="è¨˜äº‹è¿½åŠ (Reply)">
 </TD></TR>
 <TR VALIGN=top BGCOLOR="#E0FFFF"><TD COLSPAN=2><SPAN STYLE="color:#0000CD">
 Aloha! <a href="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=18275707&as=6690">ciprofloxacin</a> <a href="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=18275701&as=6690">tamoxifen</a> <a href="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=18275719&as=6690">hydrocodone</a> <a href="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=18275727&as=6690">buy vicodin online</a>
@@ -282,23 +282,23 @@ Aloha! <a href="http://my.wsbtv.com/service/displayKickPlace.kickAction?u=182757
 
 </SPAN></TD></TR></TABLE>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <HR SIZE=10 WIDTH=10>
 <TABLE summary="parent posting with image (delete outside)" BGCOLOR="#F0FFF0" WIDTH=100% CELLPADDING=0 STYLE="margin-top:0">
 <TR><TD>
 <SPAN STYLE="color:green">[41908]</SPAN> 
- <SPAN STYLE="color:#00008B"><STRONG>lorazepam without prescription</STRONG></SPAN>@ 
+ <SPAN STYLE="color:#00008B"><STRONG>lorazepam without prescription</STRONG></SPAN>ã€€ 
 <INPUT TYPE="hidden" NAME="mode" VALUE="delete">
 <INPUT CLASS=pass TYPE="password"  NAME="pass" SIZE=10 VALUE=""><INPUT TYPE="checkbox" NAME="pick" value="41908">
 <INPUT CLASS=button TYPE="submit" VALUE="delete" STYLE="font-size:8pt">
 </TD></TR>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <TR><TD>
-Name: <a href="mailto:lorazepamw@hotmail.com"><STRONG>lorazepam without prescription</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~lorazepam_without_pres938" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~lorazepam_without_pres938" SRC="http://www14.big.or.jp/~yays/gallery/album/home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 05:01</TD>
+Name: <a href="mailto:lorazepamw@hotmail.com"><STRONG>lorazepam without prescription</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~lorazepam_without_pres938" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~lorazepam_without_pres938" SRC="home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 05:01</TD>
 <TD ALIGN="right"><INPUT TYPE="hidden" NAME="mode" VALUE="reply">
 <INPUT TYPE="hidden" NAME="order" VALUE="41908">
-<INPUT CLASS=button TYPE="submit" VALUE="‹L–’Ç‰Á(Reply)">
+<INPUT CLASS=button TYPE="submit" VALUE="è¨˜äº‹è¿½åŠ (Reply)">
 </TD></TR>
 <TR VALIGN=top BGCOLOR="#E0FFFF"><TD COLSPAN=2><SPAN STYLE="color:#0000CD">
 Aloha! <a href="http://wiki.openqa.org/display/~lorazepam_without_pres938">lorazepam without prescription</a>
@@ -306,23 +306,23 @@ Aloha! <a href="http://wiki.openqa.org/display/~lorazepam_without_pres938">loraz
 
 </SPAN></TD></TR></TABLE>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <HR SIZE=10 WIDTH=10>
 <TABLE summary="parent posting with image (delete outside)" BGCOLOR="#F0FFF0" WIDTH=100% CELLPADDING=0 STYLE="margin-top:0">
 <TR><TD>
 <SPAN STYLE="color:green">[41907]</SPAN> 
- <SPAN STYLE="color:#00008B"><STRONG>adipex no prescription</STRONG></SPAN>@ 
+ <SPAN STYLE="color:#00008B"><STRONG>adipex no prescription</STRONG></SPAN>ã€€ 
 <INPUT TYPE="hidden" NAME="mode" VALUE="delete">
 <INPUT CLASS=pass TYPE="password"  NAME="pass" SIZE=10 VALUE=""><INPUT TYPE="checkbox" NAME="pick" value="41907">
 <INPUT CLASS=button TYPE="submit" VALUE="delete" STYLE="font-size:8pt">
 </TD></TR>
 </FORM>
-<FORM  METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM  METHOD="POST" ACTION="albumbbs.cgi">
 <TR><TD>
-Name: <a href="mailto:adipexnopr@hotmail.com"><STRONG>adipex no prescription</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~adipex_no_prescription52" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~adipex_no_prescription52" SRC="http://www14.big.or.jp/~yays/gallery/album/home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 03:14</TD>
+Name: <a href="mailto:adipexnopr@hotmail.com"><STRONG>adipex no prescription</STRONG></A>   <A HREF="http://wiki.openqa.org/display/~adipex_no_prescription52" TARGET="_blank"><IMG ALT="http://wiki.openqa.org/display/~adipex_no_prescription52" SRC="home.gif" WIDTH=25 HEIGHT=25 BORDER=0></A> 2010/1/25/(Mon) 03:14</TD>
 <TD ALIGN="right"><INPUT TYPE="hidden" NAME="mode" VALUE="reply">
 <INPUT TYPE="hidden" NAME="order" VALUE="41907">
-<INPUT CLASS=button TYPE="submit" VALUE="‹L–’Ç‰Á(Reply)">
+<INPUT CLASS=button TYPE="submit" VALUE="è¨˜äº‹è¿½åŠ (Reply)">
 </TD></TR>
 <TR VALIGN=top BGCOLOR="#E0FFFF"><TD COLSPAN=2><SPAN STYLE="color:#0000CD">
 Aloha! <a href="http://wiki.openqa.org/display/~adipex_without_prescri10">buy adipex without prescription</a> <a href="http://wiki.openqa.org/display/~adipex_no_prescription52">adipex no prescription</a> <a href="http://wiki.openqa.org/display/~adipex_no_rx13">buy adipex no rx</a> <a href="http://wiki.openqa.org/display/~adipex_without_rx86">adipex without prescription</a> <a href="http://wiki.openqa.org/display/~ativan_online33">buy ativan online without a prescription</a>
@@ -331,21 +331,21 @@ Aloha! <a href="http://wiki.openqa.org/display/~adipex_without_prescri10">buy ad
 </SPAN></TD></TR></TABLE>
 </FORM>
 <HR SIZE=1 WIDTH=100% ALIGN="center"><BR>
-<FORM METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM METHOD="POST" ACTION="albumbbs.cgi">
 <DIV STYLE="text-align:center">
 <INPUT TYPE="hidden" NAME="page_start" VALUE="8">
 <INPUT CLASS=button TYPE=submit value="Next Page">
 </DIV>
 </FORM>
-<FORM METHOD="POST" ACTION="http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi">
+<FORM METHOD="POST" ACTION="albumbbs.cgi">
 <DIV STYLE="text-align:center">
-<INPUT CLASS=button TYPE="button" VALUE=" Reload" onClick="location='http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi'" onKeyPress="location='http://www14.big.or.jp/~yays/gallery/album/albumbbs.cgi'">
+<INPUT CLASS=button TYPE="button" VALUE=" Reload" onClick="location='albumbbs.cgi'" onKeyPress="location='albumbbs.cgi'">
 </DIV>
 </FORM>
 <DIV STYLE="text-align:center">
 <DIV STYLE="color:#800080;width:100%">
-Šeƒy[ƒW‚É‚Íe‹L–”‚Å<SPAN STYLE="color:red">7</SPAN>Œ‚¸‚Â•\¦‚³‚ê‚Ä‚¢‚Ü‚·B
-‹L˜^‚Å‚«‚é‹L–‚Ì‘”‚Íeq‡Œv‚Å<SPAN STYLE="color:red">300</SPAN>Œ‚Å‚·B<BR>
+å„ãƒšãƒ¼ã‚¸ã«ã¯è¦ªè¨˜äº‹æ•°ã§<SPAN STYLE="color:red">7</SPAN>ä»¶ãšã¤è¡¨ç¤ºã•ã‚Œã¦ã„ã¾ã™ã€‚
+è¨˜éŒ²ã§ãã‚‹è¨˜äº‹ã®ç·æ•°ã¯è¦ªå­åˆè¨ˆã§<SPAN STYLE="color:red">300</SPAN>ä»¶ã§ã™ã€‚<BR>
 The recent <SPAN STYLE="color:red">300</SPAN> posts are recorded.
 </DIV><BR>
 </DIV>

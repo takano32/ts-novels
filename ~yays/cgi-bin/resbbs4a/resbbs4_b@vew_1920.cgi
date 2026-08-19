@@ -1,96 +1,96 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERY�f����</font> (<a href="http://www14.big.or.jp/~yays/">�{ �� </a>�f���Ƌ���)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERY掲示板</font> (<a href="../../index.html">本 館 </a>掲示板と共通)</td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�ăR�~���Q���I>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:夏コミ初参加！>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>�y���G�`��BBS�֘A�z </textarea><br> <br>
-���܋C�ɂȂ�
+<textarea name=comment rows=4 cols=70>【お絵描きBBS関連】 </textarea><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1920>
 <input type=hidden name=ress value=1920>
-<input type=submit value=�ăR�~���Q���I�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=夏コミ初参加！へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1920>
-<font color=#6A5ACD>�ăR�~���Q���I</font></a>
+<font color=#6A5ACD>夏コミ初参加！</font></a>
 <font color=#303030>
-���Ɏ���
- ����</font>
- <font size=2>2003�N8��14��(��) 22��23��</font>
+愛に死す
+ さん</font>
+ <font size=2>2003年8月14日(木) 22時23分</font>
 <a href=http://shizuoka.cool.ne.jp/mugenkan/comike2.html target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1920">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+<a href="resbbs4_b@vew_1920.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�R�~�b�N�}�[�P�b�g�U�S�ɂĂW���P�V���i���j���j<br>���l���u�����فv��̔������Ē����܂��B<br>�u�^��̏�v�̐^��@�I����̓��l���ƈꏏ�ɔ̔����Ē����鎖�ɂȂ�܂����B<br>�u�[�X�ݒu�ꏊ�́A���n��s-�T�S���u�^��̏�v�ɂȂ�܂��B<br>�a�T�I�t�Z�b�g����łQ�O�O�y�[�W�I�@���i�̓s�b�^���P�O�O�O�~�ł��B<br>���ׂP�W�l�̍�Ƃ���A�G�t���񂪎Q�����Ă��܂��B<br>����q�͎��Ƃӂ���Ƃ��񂪂��Ă���͂��ł��B<br>�F����A����V�тɗ��ĉ������ˁ`��</font></ul>
+<ul><br><font size=3>コミックマーケット６４にて８月１７日（日曜日）<br>同人誌「夢幻館」を販売させて頂きます。<br>「真城の城」の真城　悠さんの同人誌と一緒に販売して頂ける事になりました。<br>ブース設置場所は、東地区ピ-５４ｂ「真城の城」になります。<br>Ｂ５オフセット印刷で２００ページ！　価格はピッタリ１０００円です。<br>延べ１８人の作家さん、絵師さんが参加しています。<br>売り子は私とふらっとさんがしているはずです。<br>皆さん、是非遊びに来て下さいね～♪</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1921>
-<font color=#6A5ACD>RE:�ăR�~���Q���I</font></a>
+<font color=#6A5ACD>RE:夏コミ初参加！</font></a>
 <font color=#303030>
-�܂�
- ����</font>
- <font size=2>2003�N8��14��(��) 22��47��</font>
-<a href="resbbs4_b.cgi?vew=1921">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>����ɂ��́A�܂ł��B<br>���񔃂��ɂ��������܂�^^<br><br>p.s<br>���͂Q���ځA���{�������������i�L�n�[���Y�j�ɂ���Ǝv���܂��B</font></ul>
+まつ
+ さん</font>
+ <font size=2>2003年8月14日(木) 22時47分</font>
+<a href="resbbs4_b@vew_1921.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>こんにちは、まつです。<br>是非買いにうかがいます^^<br><br>p.s<br>私は２日目、日本ワルワル同盟（有馬啓太郎）にいると思います。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1927>
-<font color=#6A5ACD>RE:�ăR�~���Q���I</font></a>
+<font color=#6A5ACD>RE:夏コミ初参加！</font></a>
 <font color=#303030>
-���Ɏ���
- ����</font>
- <font size=2>2003�N8��18��(��) 19��3��</font>
+愛に死す
+ さん</font>
+ <font size=2>2003年8月18日(月) 19時3分</font>
 <a href=http://shizuoka.cool.ne.jp/mugenkan/comike2.html target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1927">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���A�l�ő吷���ł����B�F�l�A�����l�ł��B<br>�ǂ������肪�Ƃ��������܂����I</font></ul>
+<a href="resbbs4_b@vew_1927.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>お陰様で大盛況でした。皆様、お疲れ様です。<br>どうもありがとうございました！</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

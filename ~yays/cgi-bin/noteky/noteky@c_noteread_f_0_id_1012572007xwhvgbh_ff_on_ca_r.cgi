@@ -1,191 +1,191 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1012572007xwhvgbh&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1012572007xwhvgbh_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���X�J�����~�[�i���z�f���iNo.�R�j</font><br>
+<font size="+2" color="#0000FF">ラスカル☆ミーナ感想掲示板（No.３）</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=990302782yqejoc&ff=on" target="_blank">�ȑO�̌f���͂�����</a></strong>  <i>2002/02/01 23:00:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ezpe/cgi-bin/noteky/noteky@c_noteread_f_11_id_990302782yqejoc_ff_on.cgi" target="_blank">以前の掲示板はこちら</a></strong>  <i>2002/02/01 23:00:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012572007xwhvgbh&id2=1012572007xwhvgbh&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012572007xwhvgbh_id2_1012572007xwhvgbh_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���@�������X�J�����~�[�i�v�ւ̊��z�͂�����ւ��肢�������܂��B<BR><BR>�Ɩ��A���F���z�t�H�[������̃����N�̕ύX�����肢�������܂��B<BR>�i���b�Ă��ǎҁj
+「魔法少女ラスカル☆ミーナ」への感想はこちらへお願いいたします。<BR><BR>業務連絡：感想フォームからのリンクの変更をお願いいたします。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/02/02 17:09:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/02/02 17:09:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012637398vbeuts&id2=1012572007xwhvgbh&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012637398vbeuts_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������ł��B<BR><BR>���Ƀ~�[�i���l���搶�̃A�������Č�����p�́A�Ȃ��Ȃ��ǂ������ł��B<BR><BR>�l���q���̍��́A���ɐ���̂��|�������̂Ōb�����̋C�����́A�悭����܂��B<BR>�X�C�~���O�X�N�[���ɒʂ��Ă��Ȃ��Ȃ������ł��܂���ł����B<BR>����ł����Ƃ̉ɂȎ��ɒE�����Đ��ƗV��ł����炾�񂾂񊵂�Ă��܂����B�i�q���̎��Ƃ͂����A�搶�ɂ͈����������Ă��܂����B�j<BR>���������킯�Ŕ��ގq�B���l���ɂȂ��ėV�񂾂̂́A�����|�ǂ̌b�ɂƂ��āA�����Ă����̖��@�̂悤�ȋC�����܂��B<BR><BR>���ƁA����Ȃ�ł����A���䂿���́A���̗��h�̌��@���Ȃ���Ă���̂ł����H<BR>���@�D���̖l�ɂƂ��ẮA�C�ɂȂ鏊�ł��B�i�K���Ă͂��Ȃ��ł����ǁj<BR><BR>����ł͎�������҂��Ă��܂��B
+面白かったです。<BR><BR>特にミーナが浜松先生のアレを見て嫌がる姿は、なかなか良かったです。<BR><BR>僕も子供の頃は、水に潜るのが怖がったので恵ちゃんの気持ちは、よく判ります。<BR>スイミングスクールに通ってもなかなか克服できませんでした。<BR>それでも授業の暇な時に脱線して水と遊んでいたらだんだん慣れてきました。（子供の時とはいえ、先生には悪い事をしていました。）<BR>そう言うわけで美奈子達が人魚になって遊んだのは、水恐怖症の恵にとって、もってこいの魔法のような気がします。<BR><BR>あと、質問なんですが、美穂ちゃんは、何の流派の拳法をならっているのですか？<BR>拳法好きの僕にとっては、気になる所です。（習ってはいないですけど）<BR><BR>それでは次回も期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/02/03 03:30:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/02/03 03:30:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012674617vdfpg&id2=1012572007xwhvgbh&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012674617vdfpg_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�j���Ȃ񂾂�l���ɂ��Ă܂��I�v<BR>�Ƃ΂���ɐl���ɂȂ��Ă��܂����A���ۖ��Ƃ��āA<BR>�u�v�[���̐����͉�������艘���v�Ƃ������Ƃ����܂�m���Ă��Ȃ��c�B<BR>����āA�l���ɂȂ����ꍇ�A�ʂ̈Ӗ��ŋꂵ�ނ̂ł́H<BR>
+「泳げなんだら人魚にしてまえ！」<BR>とばかりに人魚になっていますが、実際問題として、<BR>「プールの水質は下水道より汚い」ということをあまり知られていない…。<BR>よって、人魚になった場合、別の意味で苦しむのでは？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/02/05 09:36:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/02/05 09:36:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012869401ucqdfy&id2=1012572007xwhvgbh&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012869401ucqdfy_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�w�����l�i�M���}���j�łȂ��l���i�}�[���C�h�j�ł��Ȃ�<BR>�����l�i�_�S���j�x�Ƃ��l���Ă��܂�����B<BR><BR>�@�ł�ł�
+『半魚人（ギルマン）でなく人魚（マーメイド）でもなく<BR>水棲人（ダゴン）』とか考えてしまったよ。<BR><BR>　でわでわ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�앶��</strong>  <i>2002/02/06 00:19:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>南文堂</strong>  <i>2002/02/06 00:19:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012922352vedgknh&id2=1012572007xwhvgbh&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012922352vedgknh_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Ԏ����x���Ȃ�܂��āA���ɐ\���󂠂�܂���B<BR>�@�F�l�A���ʂɒ����b�ɂ��ւ�炸�A���ǂ݂��������A���̏�Ɋ��z�܂ł��������܂��āA���肪�Ƃ��������܂��B<BR><BR>���_�����z�̂����W�S�Q�U �l<BR>�i���X�J�����~�[�i���z�f����No.2 APPEND 42���j<BR><BR>�@�����A�������݁A���肪�Ƃ��������܂��B<BR>�@�ŋ߁A���͖��ɃX�|���Șb���C�ɓ����Ă���悤�ō��胂�m�ł����A���C�ɏ����ꂽ�悤�ŁA�K���ł��B�����g�͐��j�͑�̋��ŁA�ڂ������Ȃ��̂ł����A���͋C�͏o�Ă��ł��傤���H<BR>�@�X�ߎ��̂���ꂠ���́A���񑩂��Ď��Ł�@���������ƁA���̃V�[���̂��߂ɔ��䂿���𕐏p�̒B�l�Ɛݒ肵�Ă����̂ŁA����ƁA�����Ċ������ł��B<BR>�@�j�q���k�����̏����l�^������Ă݂����l�^�ł͂���܂��ˁB����͂܂��A���Â�Ƃ������ƂŁA���y���݂Ɂi�΁j�B<BR>�@����Ƃ���낵�����肢�������܂��B<BR><BR>�����b�Ă��ǎҁ@�l<BR>�i���X�J�����~�[�i���z�f����No.2 APPEND 43���j<BR><BR>�@�����A��Ƃ����Ă��������A���肪�Ƃ��������܂��B<BR>�@����Ƃ���낵�����肢�������܂��B<BR><BR>��2002/02/02 22:05:00�@�ɏ������܂ꂽ��<BR>�i���X�J�����~�[�i���z�f����No.2 APPEND 44 ���j<BR><BR>��&gt;���������΁A�F���N�����j�͓��ӂł������̂ˁv<BR>��?  <BR><BR>�@���[�ƁA�����ŉ��́A�F���N�̖��O���o�Ă���̂��Ƃ������Ƃł��傤���H�@�����܂���B����ɂ��ẮA�܂��������܂���̂ŁA�����ق��������܂��B<BR>�@����Ƃ��A��낵�����肢�������܂��B<BR><BR>���W���[�W�A �l<BR>�i���X�J�����~�[�i���z�f����No.2  APPEND 45�@���j <BR><BR>�@���y���݂��������A����������ł��B<BR>�@�p�������������ł����c�c�܂��A����܂���ˁB�p������������Ȃ炠���ł����i�΁j�A�����܂ŋC�����܂���ł����B���[��A���������̂�����Ɩʔ�����������܂���ˁB<BR>�@����Ƃ���낵�����肢�������܂��B<BR><BR>�����肫�� �l<BR><BR>�@���y���݂��������A�z�b�Ƃ��Ă���܂��B<BR>�@�����|�ǂ̍����̎d���͉��Ƃ͂Ȃ��ɁA�������ł������A���������Ă���������ƁA�Ȃ񂾂����M���o�܂��B���\�A���̕��������������Ǝv���ċC�ɂȂ��Ă����̂ŁA�^�����Ă��������������ł��B<BR>�@���䂿���̕��p�́A�͂�����Ƃ͌��߂Ă��Ȃ��̂ł����A��{�I�ɂ͑哌�����C�_�p�݂����ȑ㕨�ł��B�ޏ��̎t���ł��邨��������񂪐F�X�ȕ��p���z�����ĉ��ǂ��Ă���Ƃ������ƂŁA�͂�����Ƃ������h�͂Ȃ��ƌ����������ł��B�쒆�ŏo�Ă����u���A�����v�͑��Ɍ���Ȃ񂩂̉������d�v�����錝�@����z�������Ƃ����ݒ�ł��B���܂�ڂ����Ȃ��̂ŁA����ӂ�ł����܂���B<BR>�@����Ƃ���낵�����肢�������܂��B<BR><BR>�����Ȃ��� �l<BR><BR>�@�Ȃ�قǁB�C���łȂ���������łȂ��A����������������ꂵ�������̂��B�l���̏Z�ފC�ɒ��ڃ����N���Đ����ł����ˁB�K���ɏ������̂ɁA��t���ŗ��R�����̂͊������ł��B<BR>�@����Ƃ���낵�����肢�������܂��B<BR><BR>���������� �l<BR><BR>�@�����l�i�_�S���j�ł����c�c�����̐_�b�ɏo�Ă������Ȏ푰�ł��ˁB�������A�����܂Ŏv�����Ȃ������B�앶���A��΂̕s�o�B<BR>�@����Ƃ���낵�����肢�������܂��B<BR>
+　返事が遅くなりまして、誠に申し訳ありません。<BR>　皆様、無駄に長い話にも関わらず、お読みいただき、その上に感想までいただきまして、ありがとうございます。<BR><BR>＞神速感想のｍｋ８４２６ 様<BR>（ラスカル☆ミーナ感想掲示板No.2 APPEND 42より）<BR><BR>　早速、書き込み、ありがとうございます。<BR>　最近、私は妙にスポ根な話が気に入っているようで困りモノですが、お気に召されたようで、幸いです。私自身は水泳は大の苦手で、詳しくもないのですが、雰囲気は出てたでしょうか？<BR>　更衣室のじゃれあいは、お約束って事で♪　実を言うと、このシーンのために美穂ちゃんを武術の達人と設定していたので、やっと、書けて嬉しいです。<BR>　男子生徒たちの女装ネタもやってみたいネタではありますね。それはまた、いづれということで、お楽しみに（笑）。<BR>　今後ともよろしくお願いいたします。<BR><BR>＞世話焼き読者　様<BR>（ラスカル☆ミーナ感想掲示板No.2 APPEND 43より）<BR><BR>　いつも、作業をしていただき、ありがとうございます。<BR>　今後ともよろしくお願いいたします。<BR><BR>＞2002/02/02 22:05:00　に書き込まれた方<BR>（ラスカル☆ミーナ感想掲示板No.2 APPEND 44 より）<BR><BR>＞&gt;そう言えば、皆瀬君も水泳は得意でしたものね」<BR>＞?  <BR><BR>　えーと、ここで何故、皆瀬君の名前が出てくるのかということでしょうか？　すいません。これについては、まだ答えられませんので、ご勘弁くださいませ。<BR>　今後とも、よろしくお願いいたします。<BR><BR>＞ジョージア 様<BR>（ラスカル☆ミーナ感想掲示板No.2  APPEND 45　より） <BR><BR>　お楽しみいただき、嬉しい限りです。<BR>　恥ずかしい呪文ですか……まだ、ありませんね。恥ずかしい口上ならあるんですが（笑）、そこまで気が回りませんでした。うーん、そういうのもあると面白いかもしれませんね。<BR>　今後ともよろしくお願いいたします。<BR><BR>＞きりきり 様<BR><BR>　お楽しみいただき、ホッとしております。<BR>　水恐怖症の克服の仕方は何とはなしに、こじつけでしたが、そう言っていただけると、なんだか自信が出ます。結構、その部分がこじつけだと思って気になっていたので、賛同していただき嬉しいです。<BR>　美穂ちゃんの武術は、はっきりとは決めていないのですが、基本的には大東流合気柔術みたいな代物です。彼女の師匠であるおじいちゃんが色々な武術を吸収して改良しているということで、はっきりとした流派はないと言った感じです。作中で出てきた「沾連随走」は太極拳やなんかの化勁を重要視する拳法から吸収したという設定です。あまり詳しくないので、あやふやですいません。<BR>　今後ともよろしくお願いいたします。<BR><BR>＞すなさん 様<BR><BR>　なるほど。海水でなかったからでなく、水が汚かったから苦しかったのか。人魚の住む海に直接リンクして正解でしたね。適当に書いたのに、後付けで理由がつくのは嬉しいです。<BR>　今後ともよろしくお願いいたします。<BR><BR>＞もぐたん 様<BR><BR>　水棲人（ダゴン）ですか……何かの神話に出てきそうな種族ですね。しかし、そこまで思いつかなかった。南文堂、一笑の不覚。<BR>　今後ともよろしくお願いいたします。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/02/06 01:35:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/02/06 01:35:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012926919exqsnrs&id2=1012572007xwhvgbh&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012926919exqsnrs_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ȑO�̂��b����ǂݕԂ��Ă݂���ł����ǁB�������ʔ����ł��ˁB<BR>�Ȃ񂩍��܂ŋC���t���܂���ł����i���߂�Ȃ����j<BR>���ގq�����̐��i���f���Ɏd���Ȃ����Ԃ��ĂČ����Ȃ��ł��B(^_^;<BR>����������ȉ����S�E�E�i�H)<BR>
+以前のお話から読み返してみたんですけど。すごく面白いですね。<BR>なんか今まで気が付きませんでした（ごめんなさい）<BR>美奈子ちゃんの性格も素直に仕方なく悪ぶってて嫌味ないです。(^_^;<BR>これも微妙な乙女心・・（？)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2002/02/09 06:41:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2002/02/09 06:41:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013204463lfnnt&id2=1012572007xwhvgbh&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013204463lfnnt_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂��l<BR>�@���ǂ݂��������܂��Ă��肪�Ƃ��������܂��B�y����ł����������悤�ŁA�����ł��B<BR>�@���ގq�̐��i�����J�߂��������āA������Ƃ��Ċ���������ł��B���ꂩ��������ȉ����S�i�΁j�������Ă��������Ǝv���Ă��܂��̂ŁA����Ƃ���낵�����肢�������܂��B<BR><BR>
+みゅん様<BR>　お読みいただきましてありがとうございます。楽しんでいただけたようで、何よりです。<BR>　美奈子の性格もお褒めいただいて、書き手として嬉しい限りです。これからも微妙な乙女心（笑）を書いていきたいと思っていますので、今後ともよろしくお願いいたします。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2002/02/11 21:22:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2002/02/11 21:22:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013430132cbnrp&id2=1012572007xwhvgbh&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013430132cbnrp_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�� �l<BR>�i���X�J�����~�[�i���z�f����No.2 APPEND 46 ���j<BR><BR>�@���ǂ݂��������܂��āA���肪�Ƃ��������܂��B<BR>���c�`���b�J�}�������̃r�[���T�[�x�����āc��͂��n�́c�H<BR>�@�����ł���@���ۍ��̂Ȃ�A���΃}�������K�X�o�[�i�[�̂ق������₷���ł��傤���ǂˁB�ł��A��n�̔ނ�������i��ŁA�����ƕ��͉~���^�ł��i�΁j�B<BR><BR>���Ƃ������͂��̃A�T�K�I��o���A���c�H  <BR>�@���邩������܂���ˁB�t�Αf�̔������鎩��������l�`���c�c<BR>�@����Ƃ���낵�����肢�������܂��B
+矢 様<BR>（ラスカル☆ミーナ感想掲示板No.2 APPEND 46 より）<BR><BR>　お読みくださいまして、ありがとうございます。<BR>＞…チャッカマン改造のビームサーベルって…やはり樋渡の…？<BR>　正解です♪　実際作るのなら、着火マンよりもガスバーナーのほうが作りやすいでしょうけどね。でも、樋渡の彼よりも一歩進んで、ちゃんと柄は円柱型です（笑）。<BR><BR>＞という事はあのアサガオやバリアも…？  <BR>　いるかもしれませんね。葉緑素の反応する自動草刈り人形も……<BR>　今後ともよろしくお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��</strong>  <i>2002/02/25 14:58:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢</strong>  <i>2002/02/25 14:58:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014616724rsbclo&id2=1012572007xwhvgbh&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014616724rsbclo_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�b�q����̕��e�ɂ͊��҂������ł��ˁB�i������ƈႤ���ȁj<BR>���͔�n��TS�����҂��������B�i�����͂���܂������j<BR>��������҂��܂��B
+恵子さんの父親には期待したいですね。（ちょっと違うかな）<BR>実は樋渡でTSを期待した自分。（女装はありましたが）<BR>今後も期待します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�W���[�W�A</strong>  <i>2002/03/03 07:02:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ジョージア</strong>  <i>2002/03/03 07:02:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015106552freev&id2=1012572007xwhvgbh&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015106552freev_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�搶���A�V��͂܂��ł����H<BR>���҂����Ⴂ�܂��B
+先生っ、新作はまだですか？<BR>期待しちゃいます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2002/03/24 17:08:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2002/03/24 17:08:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016957314oksjori&id2=1012572007xwhvgbh&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016957314oksjori_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ē� �l<BR>�i���X�J�����~�[�i���z�f����No.2 APPEND 47 ���j<BR>�@�����܂���B�����Ƃ��Ă܂���m(_ _)m�B<BR>�@�X�����_�[�ɂȂ锐���搶�̃V�[���̓J�b�g�����Ⴂ�܂����B���w�Z�̎��̓X�����_�[�ŋ��������Ȃ����󂵂Ă܂ň��݂܂����āA�����������������ʔ̂ɂ܂ł����񂾂��Ă����b��������ł����A�\�����ꂷ���ăJ�b�g�ɂȂ��Ă��܂��܂����B�c�O�ł��B�ǂ����Ŏg���Ȃ����ȁH�Ȃǂƍl���Ă����肵�Ă܂��B<BR><BR>��@�l<BR>�@�b�q�̂�������͍���̏o�Ԃ͖���ł����A���̐��i�Ȃ�A�o�Ă��Ă����������Ȃ��ł��傤�ˁB���҂����ɂ��҂���������΍K���ł��B<BR><BR>�W���[�W�A�@�l<BR>�@���[�ƁA���̘b���o��l�����������āi���Ǝ����j�A���b�̐������S�R���Ă܂���̂ŁA�܂��܂�������Ǝv���܂��B�C���ɂ��҂���������Ί������ł��B
+米津 様<BR>（ラスカル☆ミーナ感想掲示板No.2 APPEND 47 より）<BR>　すいません。見落としてましたm(_ _)m。<BR>　スレンダーになる柏原先生のシーンはカットしちゃいました。中学校の時はスレンダーで牛乳をおなかが壊してまで飲みまくって、お小遣いを怪しい通販にまでつぎ込んだっていう話だったんですが、暴走されすぎてカットになってしまいました。残念です。どこかで使えないかな？などと考えていたりしてます。<BR><BR>矢　様<BR>　恵子のお父さんは今後の出番は未定ですが、あの性格なら、出てきてもおかしくないでしょうね。期待せずにお待ちくだされば幸いです。<BR><BR>ジョージア　様<BR>　えーと、次の話も登場人物が多すぎて（自業自得）、お話の整理が全然ついてませんので、まだまだかかると思います。気長にお待ちくだされば嬉しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2002/04/05 21:58:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2002/04/05 21:58:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018011520mfdeqe&id2=1012572007xwhvgbh&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018011520mfdeqe_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�A�}�N�`�@�l<BR>�i���X�J�����~�[�i���z�f����No.2 APPEND 48 ���j<BR><BR>�@�S�͂���C�ɓǂ܂�A�����l�ł����B<BR>�@�΂��Ă���������̂��A�R���f�B�������Ă�҂Ƃ��ẮA�������������ł��B���������z�������������Ȃ�A�K���̋ɂ݂ł��B���ꂩ������������ɂǂ�����������ŉ������B<BR>�@���̘b�́A���ݍ\�z���ŁA�܂��S�R�i��ł��Ȃ��̂ŁA�S�ꂵ���̂ł����A�̂�т肨�҂�����������Ɗ������ł��i�O�O�G�B<BR>�@����ł́@����Ƃ���낵�����肢�������܂��B
+アマクチ　様<BR>（ラスカル☆ミーナ感想掲示板No.2 APPEND 48 より）<BR><BR>　全章を一気に読まれ、お疲れ様でした。<BR>　笑っていただけるのが、コメディを書いてる者としては、何よりも嬉しいです。しかも感想をいただけたなら、幸福の極みです。これからも遠慮無しにどうぞ書き込んで下さい。<BR>　次の話は、現在構想中で、まだ全然進んでいないので、心苦しいのですが、のんびりお待ちいただけると嬉しいです（＾＾；。<BR>　それでは　今後ともよろしくお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������[</strong>  <i>2002/04/23 13:45:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>民日月書房</strong>  <i>2002/04/23 13:45:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019537106tgcnoj&id2=1012572007xwhvgbh&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019537106tgcnoj_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������O�ɂł����A���́u���X�J�����~�[�i�v�ɏo���<BR>�G����m�邱�Ƃ��o���܂����B<BR>���ގq����񂪌����ɂ����炨�ł���ɂ������I�Ƃ����ϑz���\��������ł����A����͂������ɂȂ������Ȃ̂ŁA<BR>���e�N�ɂ͂��ЂƂ��撣���Ă������<BR>���ގq���������Ƃ��čK���ɂ��Ă����ė~�����ł��B<BR>�������y���݂ɂ��Ă���܂��B<BR>�����n�������炵�܂����B
+つい数日前にですが、この「ラスカル☆ミーナ」に出会えて<BR>萌えを知ることが出来ました。<BR>美奈子ちゃんが現実にいたらお嫁さんにしたい！という妄想が暴走かげんですが、それはさすがになさそうなので、<BR>西脇君にはぜひとも頑張ってもらって<BR>美奈子ちゃんを女として幸せにしてあげて欲しいです。<BR>続きを楽しみにしております。<BR>乱文馬鹿文失礼しました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/26 12:52:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/26 12:52:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019793169gweuos&id2=1012572007xwhvgbh&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019793169gweuos_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���X�J�����~�[�i�͂ЂƂ̖G�����T�Ƃ������܂��ˁ`<BR>�����ȖG���̌`���񎦂���Ă܂��B<BR>����͂ǂ�ȖG�����c���āA�\�z�͂��ł��傤���ˁB�ӂ�<BR><BR><BR>
+ラスカル☆ミーナはひとつの萌え辞典とも言えますね～<BR>いろんな萌えの形が提示されてます。<BR>次回はどんな萌えが…って、予想はつくでしょうがね。ふふ<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2002/04/29 00:15:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2002/04/29 00:15:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020006952fhuljml&id2=1012572007xwhvgbh&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020006952fhuljml_id2_1012572007xwhvgbh_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ԏ����x���Ȃ��Ă����܂���B<BR><BR>���������[ �l<BR>�@���ǂ݂��������āA���z�܂ł��������A���肪�Ƃ��������܂��B<BR>�@�G���c�{�Ƃ������΂��c�{�`�Ƃ�����~�[�i�ł����A�G���Ă��炦���Ȃ�A����������ł��B�����ł��ˁB���ގq�����ۂɂ�����A���ł���ɂ������ł��ˁB<BR>�@�o��l���͂��Ƃ��Ƃ��s�^�̂ł�����A����Ȃ�K���ɂȂ�邩�ǂ����i�΁j�c�c�Ƃ����킯�ŁA���ꂩ������ގq�B���������Ă����Ă��������B<BR>�@����Ƃ���낵�����肢�������܂��B<BR><BR>�m�C���i�d�g�d���j�l<BR>�@���ǂݒ������肪�Ƃ��������܂��B�G���͏��Ȃ���i�Ǝv���Ă����̂ŁA���������Ă���������ƁA�Ȃ񂾂��������ł��B<BR>�@��{�I�ɓǎ҂̕��X�̑z���͂ɂ��C����Ȃ̂ŁA�F�l�ɏ������Ă���܂��B���ꂩ����A��낵�����肢�������܂��B<BR>
+返事が遅くなってすいません。<BR><BR>民日月書房 様<BR>　お読みいただいて、感想までいただき、ありがとうございます。<BR>　萌えツボというより笑いツボ～といわれるミーナですが、萌えてもらえたなら、嬉しい限りです。そうですね。美奈子が実際にいたら、お嫁さんにしたいですね。<BR>　登場人物はことごとく不運のですから、すんなり幸せになれるかどうか（笑）……というわけで、これからも美奈子達を応援してあげてください。<BR>　今後ともよろしくお願いいたします。<BR><BR>ノイン（電波妖精）様<BR>　お読み頂きありがとうございます。萌えは少ない作品と思っていたので、そう言っていただけると、なんだか嬉しいです。<BR>　基本的に読者の方々の想像力にお任せ♪なので、皆様に助けられております。これからも、よろしくお願いいたします。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1012572007xwhvgbh">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

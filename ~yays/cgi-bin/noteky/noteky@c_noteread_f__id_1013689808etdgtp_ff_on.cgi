@@ -1,142 +1,142 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1013689808etdgtp&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1013689808etdgtp_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���̈�T��</font><br>
+<font size="+2" color="#0000FF">くの一探偵</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/02/14 21:30:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/02/14 21:30:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013689808etdgtp&id2=1013689808etdgtp&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013689808etdgtp_id2_1013689808etdgtp_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/14213330/kunoititantei.htm" target="_blank">���̈�T�������ɂ͂������N���b�N�B</a></strong>  <i>2002/02/14 22:31:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/14213330/kunoititantei.htm" target="_blank">くの一探偵を見るにはここをクリック。</a></strong>  <i>2002/02/14 22:31:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013693467uordsv&id2=1013689808etdgtp&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013693467uordsv_id2_1013689808etdgtp_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �p�ӎ����ȕ�e���ȁA���O��j���g���閼�O������Ƃ́i�΁j
+【推薦文】 用意周到な母親だな、名前を男女使える名前をつけるとは（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/14 23:15:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/14 23:15:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013696124uhjqpj&id2=1013689808etdgtp&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013696124uhjqpj_id2_1013689808etdgtp_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���ށB����ɐ�����E�҂����̊���B�Ȃ��Ȃ��ʔ��������ł���B<BR>�������A�^���c�̂��Ă܂����A�O���[�����[�X�H�i�΁j<BR><BR>����͂����ƁA�ꌾ���B<BR>�뎚���������B���ɑ��_�E�����_�̂��ԈႢ�������ł��ˁB<BR>�����グ�Ă���A���Ȃ��Ƃ��P���u���āA�ǂݕԂ��B������A�����ǂނ̂ł͂Ȃ��A�P���P����������Ǝ��Ԃ������ēǂށB���̍�Ƃ����邾���ŁA���̎�̌뎚�͂��Ȃ茸�点��͂��ł��B<BR>�뎚�E���Ƃ����̂͂��������I�ȃ~�X�ł��̂ŁA�ł��邾�����炷�悤�ɂ��܂��傤�B
+読んだバイ♪<BR>うむ。現代に生きる忍者たちの活躍。なかなか面白かったですよ。<BR>しかし、某環境団体ってまさか、グ○ーン○ース？（笑）<BR><BR>それはそうと、苦言を。<BR>誤字が多すぎ。特に濁点・半濁点のつけ間違いが多いですね。<BR>書き上げてから、少なくとも１日置いて、読み返す。それも、ただ読むのではなく、１字１字じっくりと時間をかけて読む。この作業をするだけで、この手の誤字はかなり減らせるはずです。<BR>誤字脱字というのはごく初歩的なミスですので、できるだけ減らすようにしましょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/15 10:34:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/15 10:34:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013736886icgnya&id2=1013689808etdgtp&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013736886icgnya_id2_1013689808etdgtp_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�͂��߂܂��āA�m�C���Ɛ\���܂��B<BR>�@�����W�S�Q�U���񂪎w�E�Ȃ���Ă���悤�ɁA�����뎚���������邩�ȂƎv���܂����B�������A���͓I�ȃX�g�[���[�A�����ăL�����N�^�[���A��������Ă��܂肠��Ǝv���܂��B���������҂��������ɂȂ��邨����ł�����A���͂���������ƔE�ғI�Ȋ�������Ă݂����ł��ˁB�Ⴆ�΁A�ǂ����̉�ЂɐN���Ƃ��������ł��傤���B<BR><BR>
+　はじめまして、ノインと申します。<BR>　ｍｋ８４２６さんが指摘なされているように、少し誤字が多すぎるかなと思いました。しかし、魅力的なストーリー、そしてキャラクターが、それを補ってあまりあると思います。もしも続編をお書きになられるおつもりでしたら、次はもうちょっと忍者的な活躍を見てみたいですね。例えば、どっかの会社に侵入とかいかがでしょうか。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/02/15 22:03:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/02/15 22:03:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013778193wkytcw&id2=1013689808etdgtp&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013778193wkytcw_id2_1013689808etdgtp_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l�A�m�C���l�A���z���肪�Ƃ�������܂��B<BR><BR>&gt;�ǂ�ŉ��������ǎҗl��<BR>�뎚�E���ŁA�s���Ȏv���������Ă��܂��Đ\���󂠂�܂���ł����B<BR><BR>�����W�S�Q�U�l�̂������ʂ�A�ꎚ�ꎚ�A�m�F���Ȃ���A�C������肽���Ǝv���܂��B<BR><BR>------------------------------------------------------------<BR>�^�c�ψ���̕��ɂ�����ł����A�C���́AMONDON�l�[�Ăɑ���΁A��낵���̂ł��傤���H<BR>����Ƃ��A�ē��e���Ȃ��Ƃ����Ȃ��̂ł��傤���H<BR>^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<BR><BR>���́A�X�g�[���[���l����̂́A�D���ł����A�����������́A���Ō����ȍ���҂ł��B<BR>���ɑ��_�A�����_�́A���ł��B<BR>�΍�Ƃ��āA���x���玫���̓����Ȃǂ̊��p�\���݂Ȃ��珑���Ă������Ǝv���܂��B<BR><BR>&gt;�����W�S�Q�U�l��<BR><BR>&gt;�^���c�̂��Ă܂����A�O���[�����[�X�H�i�΁j<BR>�Ⴄ�ƌ������ɂ��Ēu���ĉ������B<BR>�Ȃ�ہA�O���[�����[�X�ł��A�������܂ł͂��Ȃ��Ǝv���܂����B<BR>�ł��A�ǂ�Ȃɔ��Ή^�����Ă����j��͐i�ގ�������܂��̂ŁA�����ŏ������悤�Ȓc�̂��A�ł��邩������Ȃ��Ƃ͎v���܂��B<BR><BR>&gt;�m�C���l��<BR><BR>&gt;���͓I�ȃX�g�[���[�A�����ăL�����N�^�[���A��������Ă��܂肠<BR>&gt;��Ǝv���܂��B<BR>���肪�Ƃ�������܂��B<BR>�����A�������ʔ����Ǝv���X�g�[���[�������Ă���̂ŁA���������Ē�����ƁA���̊����ɖ������Ă���Ă���悤�Ŋ������ł��B<BR><BR>&gt;�E�ғI�Ȋ�������Ă݂����ł��ˁB<BR>����́A�E�҂ƌ��@�Ƃ̐퓬�������Ă݂����ׂ����ɏ��������ł��̂ŁA�̐S�̔E�ҐF���A�����Ȃ��Ă��܂����̂�������܂���ˁB<BR>�����A�ڗ����Ȃ����ŔE�҂̍s��������������ł����B<BR>�ł��A���Ԃ�A�킩��Ȃ��ł���ˁB�i�l�I�ɂ́A����Ȃ��ł��A�����Ǝv���܂��B���ƂȂ������Ƃ��Ă����΁A�����ł��B�j<BR><BR>&gt;�Ⴆ�΁A�ǂ����̉�ЂɐN���Ƃ��������ł��傤���B<BR>���A�����Ƃ�����A������l���Ă��܂��B<BR>�ŋ߁A�Ö{���ŃX�p�C�H��̖{�𔃂����̂ŁA������Q�l�ɂ��ď����Ă݂悤���ȁB�i�΁j<BR><BR>����ł́A�ق�����ǂ�Œ������肪�Ƃ�������܂����B
+ｍｋ８４２６様、ノイン様、感想ありがとう御座います。<BR><BR>&gt;読んで下さった読者様へ<BR>誤字脱字で、不快な思いをさせてしまって申し訳ありませんでした。<BR><BR>ｍｋ８４２６様のおしゃる通り、一字一字、確認しながら、修正板を作りたいと思います。<BR><BR>------------------------------------------------------------<BR>運営委員会の方にご質問ですが、修正板は、MONDON様充てに送れば、よろしいのでしょうか？<BR>それとも、再投稿しないといけないのでしょうか？<BR>^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<BR><BR>私は、ストーリーを考えるのは、好きですが、文を書く事は、苦手で嫌いな困り者です。<BR>特に濁点、半濁点は、苦手です。<BR>対策として、今度から辞書の動詞などの活用表をみながら書いていこうと思います。<BR><BR>&gt;ｍｋ８４２６様へ<BR><BR>&gt;某環境団体ってまさか、グ○ーン○ース？（笑）<BR>違うと言う事にして置いて下さい。<BR>なんぽ、グ○ーン○ースでも、あそこまではしないと思いますし。<BR>でも、どんなに反対運動しても環境破壊は進む事もありますので、小説で書いたような団体が、できるかもしれないとは思います。<BR><BR>&gt;ノイン様へ<BR><BR>&gt;魅力的なストーリー、そしてキャラクターが、それを補ってあまりあ<BR>&gt;ると思います。<BR>ありがとう御座います。<BR>正直、自分が面白いと思うストーリーを書いているので、そう言って頂けると、私の感性に満足してくれているようで嬉しいです。<BR><BR>&gt;忍者的な活躍を見てみたいですね。<BR>今回は、忍者と拳法家の戦闘を書いてみたい為だけに書いた物ですので、肝心の忍者色が、薄くなってしまったのかもしれませんね。<BR>ただ、目立たない所で忍者の行動を書いたつもりですか。<BR>でも、たぶん、わからないですよね。（個人的には、判らなくでも、いいと思います。何となく感じとってくれれば、いいです。）<BR><BR>&gt;例えば、どっかの会社に侵入とかいかがでしょうか。<BR>次、書くとしたら、それも考えています。<BR>最近、古本屋でスパイ工作の本を買ったので、それを参考にして書いてみようかな。（笑）<BR><BR>それでは、拙い文を読んで頂きありがとう御座いました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/02/17 14:10:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/02/17 14:10:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013922643vpptg&id2=1013689808etdgtp&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013922643vpptg_id2_1013689808etdgtp_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;MONDON�l�[�Ă�<BR>�l�n�m�c�n�l�ł����ˁB<BR>�\���󂠂�܂���ł����B<BR>�{���Ɏ��́A�ǂ����悤���Ȃ��ł��B
+&gt;MONDON様充てに<BR>ＭＯＮＤＯ様でしたね。<BR>申し訳ありませんでした。<BR>本当に私は、どうしようもないです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/14213330/kunoititantei.htm" target="_blank">�C���ł�����ɂ͂������N���b�N�B</a></strong>  <i>2002/02/27 20:29:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/14213330/kunoititantei.htm" target="_blank">修正版を見るにはここをクリック。</a></strong>  <i>2002/02/27 20:29:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014809367edxafbe&id2=1013689808etdgtp&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014809367edxafbe_id2_1013689808etdgtp_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�w���̈�T��x�A�C���łɍ����ւ��܂����B<BR>�@���肫�肳��A�x���Ȃ��Đ\���󂠂�܂���ł����B
+『くの一探偵』、修正版に差し替えました。<BR>　きりきりさん、遅くなって申し訳ありませんでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/02/28 22:43:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/02/28 22:43:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014903783ndwqjdd&id2=1013689808etdgtp&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014903783ndwqjdd_id2_1013689808etdgtp_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�C���̍����ւ��A���肪�Ƃ�������܂��B<BR>���萔�����|�����܂����B
+修正板の差し替え、ありがとう御座います。<BR>お手数をお掛けしました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n���^�c�ψ�</strong>  <i>2002/03/01 20:40:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ＠運営委員</strong>  <i>2002/03/01 20:40:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014982853hdoqve&id2=1013689808etdgtp&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014982853hdoqve_id2_1013689808etdgtp_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�C���ł̉摜�\���̕s��A�������܂����B
+　修正版の画像表示の不具合、訂正しました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/03/02 12:41:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/03/02 12:41:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015040507bhhnc&id2=1013689808etdgtp&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015040507bhhnc_id2_1013689808etdgtp_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A���肪�Ƃ��������܂��B
+訂正、ありがとうございます。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1013689808etdgtp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

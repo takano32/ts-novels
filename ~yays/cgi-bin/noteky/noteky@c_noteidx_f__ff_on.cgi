@@ -1,433 +1,433 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>•¶ŒÉì•iŠ´‘z(2001.10.1-)/Š´‘zƒ{[ƒh</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)/æ„Ÿæƒ³ãƒœãƒ¼ãƒ‰</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
-<div align="right">[<a href="noteky.cgi?c=notebase&f=0&ff=on" >V‚µ‚­˜b‘è‚ð‚Â‚­‚é</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on&ca=r">ÅV‚Ìî•ñ‚ÉXV</a>] 
-[<a href="noteky.cgi?&ff=on" >ƒm[ƒgˆê——‚É‚à‚Ç‚é</a>]</div>
-<font size="+2" color="#008080">•¶ŒÉì•iŠ´‘z(2001.10.1-)</font>
-<blockquote>­”N­—•¶ŒÉ‚Ìì•i‚ÅA—Ç‚©‚Á‚½‚ÆŽv‚Á‚½ì•i‚ÉƒRƒƒ“ƒg‚ðB</blockquote>
+<div align="right">[<a href="noteky@c_notebase_f_0_ff_on.cgi" >æ–°ã—ãè©±é¡Œã‚’ã¤ãã‚‹</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on_ca_r.cgi">æœ€æ–°ã®æƒ…å ±ã«æ›´æ–°</a>] 
+[<a href="noteky@_ff_on.cgi" >ãƒŽãƒ¼ãƒˆä¸€è¦§ã«ã‚‚ã©ã‚‹</a>]</div>
+<font size="+2" color="#008080">æ–‡åº«ä½œå“æ„Ÿæƒ³(2001.10.1-)</font>
+<blockquote>å°‘å¹´å°‘å¥³æ–‡åº«ã®ä½œå“ã§ã€è‰¯ã‹ã£ãŸã¨æ€ã£ãŸä½œå“ã«ã‚³ãƒ¡ãƒ³ãƒˆã‚’ã€‚</blockquote>
 <table width="100%" border="0">
 <tr bgcolor="#00CCFF">
 <th align="center" width="1%" nowrap>No.</th>
-<th align="center">‘è–¼</th>
-<th align="center" width="1%" nowrap>ÅIXV“ú</th>
-<th align="center">ÅV”­Œ¾“à—e</th>
+<th align="center">é¡Œå</th>
+<th align="center" width="1%" nowrap>æœ€çµ‚æ›´æ–°æ—¥</th>
+<th align="center">æœ€æ–°ç™ºè¨€å†…å®¹</th>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1021568041mxtfao&ff=on" >1</a></td>
-<td align="center" nowrap>‰Ø‘ã‚¿‚á‚ñƒVƒŠ[ƒY@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1021568041mxtfao_ff_on.cgi" >1</a></td>
+<td align="center" nowrap>è¯ä»£ã¡ã‚ƒã‚“ã‚·ãƒªãƒ¼ã‚ºã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/05/22 00:01:05</td>
-<td nowrap>„–²‚Ì”z’Bl‚³‚ñ</td>
+<td nowrap>ï¼žå¤¢ã®é…é”äººã•ã‚“</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1021330879qlgse&ff=on" >2</a></td>
-<td align="center" nowrap>“¦‚°”n‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1021330879qlgse_ff_on.cgi" >2</a></td>
+<td align="center" nowrap>é€ƒã’é¦¬ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/05/29 09:08:46</td>
-<td nowrap>è‚¢Žt–Ê”’‚¢A‚±‚ñ‚È˜b‚µ‘åD‚«‚Å‚·A‚º‚Ð...</td>
+<td nowrap>å ã„å¸«é¢ç™½ã„ã€ã“ã‚“ãªè©±ã—å¤§å¥½ãã§ã™ã€ãœã²...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1021299364bgjgp&ff=on" >3</a></td>
-<td align="center" nowrap>WATARU1024‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1021299364bgjgp_ff_on.cgi" >3</a></td>
+<td align="center" nowrap>WATARU1024ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/07/09 14:40:25</td>
-<td nowrap>À‚Á‚Ä‚æ‚µ</td>
+<td nowrap>é€ã£ã¦ã‚ˆã—</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1021163197qlgse&ff=on" >4</a></td>
-<td align="center" nowrap>‚ˆD‚ˆ‚‚‹‚•‚’‚‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1021163197qlgse_ff_on.cgi" >4</a></td>
+<td align="center" nowrap>ï½ˆï¼Žï½ˆï½ï½‹ï½•ï½’ï½ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/05/14 21:55:48</td>
-<td nowrap>y¸—ìí‹LƒVƒ‹ƒtƒB[ƒ‹ƒh˜Íz</td>
+<td nowrap>ã€ç²¾éœŠæˆ¦è¨˜ã‚·ãƒ«ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰åºç« ã€‘</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1020689407suqlv&ff=on" >5</a></td>
-<td align="center" nowrap>West‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1020689407suqlv_ff_on.cgi" >5</a></td>
+<td align="center" nowrap>Westã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/05/17 12:36:49</td>
-<td nowrap>ƒmƒCƒ“‚³‚ñA–²‚Ì”z’Bl‚³‚ñA‚‚‹‚³‚ñA‚ ...</td>
+<td nowrap>ãƒŽã‚¤ãƒ³ã•ã‚“ã€å¤¢ã®é…é”äººã•ã‚“ã€ï½ï½‹ã•ã‚“ã€ã‚...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1020527372pthjdb&ff=on" >6</a></td>
-<td align="center" nowrap>‚s‚r’jŽÝ‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1020527372pthjdb_ff_on.cgi" >6</a></td>
+<td align="center" nowrap>ï¼´ï¼³ç”·çˆµã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/05/27 20:34:26</td>
-<td nowrap>‚¨‚¨``‚±‚ê‚Í–Ê”’‚»‚¤‚Èì•i‚É‚È‚è‚»‚¤‚È...</td>
+<td nowrap>ãŠãŠï½žï½žã“ã‚Œã¯é¢ç™½ãã†ãªä½œå“ã«ãªã‚Šãã†ãª...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1020098452bwakmt&ff=on" >7</a></td>
-<td align="center" nowrap>²“¡—Rˆß‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1020098452bwakmt_ff_on.cgi" >7</a></td>
+<td align="center" nowrap>ä½è—¤ç”±è¡£ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/05/13 16:15:47</td>
-<td nowrap>‚·‚Î‚ç‚µ‚¢AŽÀ‚É‚·‚Î‚ç‚µ‚¢</td>
+<td nowrap>ã™ã°ã‚‰ã—ã„ã€å®Ÿã«ã™ã°ã‚‰ã—ã„</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1020009622olgmey&ff=on" >8</a></td>
-<td align="center" nowrap>{“°@“Þ’Ã‹I‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1020009622olgmey_ff_on.cgi" >8</a></td>
+<td align="center" nowrap>é ˆå ‚ã€€å¥ˆæ´¥ç´€ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/05/11 19:26:20</td>
-<td nowrap>‚·‚Î‚ç‚¢‚µAŽÀ‚É‚·‚Î‚ç‚µ‚¢</td>
+<td nowrap>ã™ã°ã‚‰ã„ã—ã€å®Ÿã«ã™ã°ã‚‰ã—ã„</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1019042428etdgtp&ff=on" >9</a></td>
-<td align="center" nowrap>ƒ„ƒ}ƒ_‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1019042428etdgtp_ff_on.cgi" >9</a></td>
+<td align="center" nowrap>ãƒ¤ãƒžãƒ€ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/04/20 00:08:27</td>
-<td nowrap>wŽO“x–Ú‚Ì”ßŒ€x</td>
+<td nowrap>ã€Žä¸‰åº¦ç›®ã®æ‚²åŠ‡ã€</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1017832344qlgse&ff=on" >10</a></td>
-<td align="center" nowrap>‚y‚™‚•‚‹‚‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1017832344qlgse_ff_on.cgi" >10</a></td>
+<td align="center" nowrap>ï¼ºï½™ï½•ï½‹ï½ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/11/01 17:50:31</td>
-<td nowrap>y—H—ì‰®•~‚Ì‚¨Žo‚¿‚á‚ñz</td>
+<td nowrap>ã€å¹½éœŠå±‹æ•·ã®ãŠå§‰ã¡ã‚ƒã‚“ã€‘</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1017410802skbapma&ff=on" >11</a></td>
-<td align="center" nowrap>ƒ‰ƒCƒ^[ƒ}ƒ“‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1017410802skbapma_ff_on.cgi" >11</a></td>
+<td align="center" nowrap>ãƒ©ã‚¤ã‚¿ãƒ¼ãƒžãƒ³ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/06/30 00:46:46</td>
-<td nowrap>“VŽg‚ÌŒg‘Ñ’[––(‘O•Ò)</td>
+<td nowrap>å¤©ä½¿ã®æºå¸¯ç«¯æœ«(å‰ç·¨)</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1017357066qlgse&ff=on" >12</a></td>
-<td align="center" nowrap>‚sE‚g‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1017357066qlgse_ff_on.cgi" >12</a></td>
+<td align="center" nowrap>ï¼´ãƒ»ï¼¨ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/08/03 15:53:55</td>
-<td nowrap>w•sŽv‹c‚È­—x</td>
+<td nowrap>ã€Žä¸æ€è­°ãªå°‘å¥³ã€</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1016884143doerpm&ff=on" >13</a></td>
-<td align="center" nowrap>“ú”ä–ì‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1016884143doerpm_ff_on.cgi" >13</a></td>
+<td align="center" nowrap>æ—¥æ¯”é‡Žã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/06/09 09:27:56</td>
-<td nowrap>Š´‘zŒfŽ¦”Â‚ªV‚µ‚­‚È‚è‚Ü‚µ‚½B</td>
+<td nowrap>æ„Ÿæƒ³æŽ²ç¤ºæ¿ãŒæ–°ã—ããªã‚Šã¾ã—ãŸã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1016554140etdgtp&ff=on" >14</a></td>
-<td align="center" nowrap>‚Ó‚ç‚Á‚Æ‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1016554140etdgtp_ff_on.cgi" >14</a></td>
+<td align="center" nowrap>ãµã‚‰ã£ã¨ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/04/28 01:36:06</td>
-<td nowrap>‚Ú‚é‚³‚ñ</td>
+<td nowrap>ã¼ã‚‹ã•ã‚“</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1016552681gvggy&ff=on" >15</a></td>
-<td align="center" nowrap>Ô–Ú(RED EYE)‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1016552681gvggy_ff_on.cgi" >15</a></td>
+<td align="center" nowrap>èµ¤ç›®(RED EYE)ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/06/11 00:50:51</td>
-<td nowrap>Š´‘zŒfŽ¦”Â‚ÌURL‚ª•Ï‚í‚è‚Ü‚·B</td>
+<td nowrap>æ„Ÿæƒ³æŽ²ç¤ºæ¿ã®URLãŒå¤‰ã‚ã‚Šã¾ã™ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1016116999etdgtp&ff=on" >16</a></td>
-<td align="center" nowrap>ƒmƒCƒ“‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1016116999etdgtp_ff_on.cgi" >16</a></td>
+<td align="center" nowrap>ãƒŽã‚¤ãƒ³ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/04/01 03:11:35</td>
-<td nowrap>Ú‚µ‚¢‰ðà‚Ç‚¤‚à‚Å‚·B;)</td>
+<td nowrap>è©³ã—ã„è§£èª¬ã©ã†ã‚‚ã§ã™ã€‚;)</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1015776932dxfwax&ff=on" >17</a></td>
-<td align="center" nowrap>Ž©Ì‰Él‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1015776932dxfwax_ff_on.cgi" >17</a></td>
+<td align="center" nowrap>è‡ªç§°æš‡äººã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/03/25 01:18:27</td>
-<td nowrap>‚‚‹‚W‚S‚Q‚U‚³‚ñAƒmƒCƒ“‚³‚ñA¹‹I‚³‚ñA...</td>
+<td nowrap>ï½ï½‹ï¼˜ï¼”ï¼’ï¼–ã•ã‚“ã€ãƒŽã‚¤ãƒ³ã•ã‚“ã€æ²™ç´€ã•ã‚“ã€...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1015771746mssewfx&ff=on" >18</a></td>
-<td align="center" nowrap>“‡‚­‚¶‚ç‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1015771746mssewfx_ff_on.cgi" >18</a></td>
+<td align="center" nowrap>å³¶ãã˜ã‚‰ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/04/20 12:30:58</td>
-<td nowrap>‚·‚È‚³‚ñAƒmƒCƒ“‚³‚ñA_‘¬‚³‚ñAŠ´‘z‚ ‚è...</td>
+<td nowrap>ã™ãªã•ã‚“ã€ãƒŽã‚¤ãƒ³ã•ã‚“ã€ç¥žé€Ÿã•ã‚“ã€æ„Ÿæƒ³ã‚ã‚Š...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1015767350sywtjkr&ff=on" >19</a></td>
-<td align="center" nowrap>‚`‚y‚x‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1015767350sywtjkr_ff_on.cgi" >19</a></td>
+<td align="center" nowrap>ï¼¡ï¼ºï¼¹ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/06/10 23:28:08</td>
-<td nowrap>Š´‘zŒfŽ¦”Â‚ÌURL‚ª•Ï‚í‚è‚Ü‚·B</td>
+<td nowrap>æ„Ÿæƒ³æŽ²ç¤ºæ¿ã®URLãŒå¤‰ã‚ã‚Šã¾ã™ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1015682054kubgku&ff=on" >20</a></td>
-<td align="center" nowrap>–¢n‰¤—</td>
+<a href="noteky@c_noteread_f_0_id_1015682054kubgku_ff_on.cgi" >20</a></td>
+<td align="center" nowrap>æœªç†ŸçŽ‹å¥³</td>
 <td align="center" nowrap>2002/03/13 15:43:49</td>
-<td nowrap>‚ç‚Ü—lA“Ç‚ñ‚Å‰º‚³‚Á‚½ã‚ÉŒäŠ´‘z‚Ü‚Å‰º‚³...</td>
+<td nowrap>ã‚‰ã¾æ§˜ã€èª­ã‚“ã§ä¸‹ã•ã£ãŸä¸Šã«å¾¡æ„Ÿæƒ³ã¾ã§ä¸‹ã•...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1015516232njxkwhq&ff=on" >21</a></td>
-<td align="center" nowrap>“‚Ü‚ê‚½–¡`TS”Å`</td>
+<a href="noteky@c_noteread_f_0_id_1015516232njxkwhq_ff_on.cgi" >21</a></td>
+<td align="center" nowrap>ç›—ã¾ã‚ŒãŸå‘³ï½žTSç‰ˆï½ž</td>
 <td align="center" nowrap>2002/03/08 23:42:22</td>
-<td nowrap>‚±‚±‚Ö‘‚«ž‚Þ‚Ì‚Í‰‚ß‚Ä‚Å‚·B</td>
+<td nowrap>ã“ã“ã¸æ›¸ãè¾¼ã‚€ã®ã¯åˆã‚ã¦ã§ã™ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1015301018iaqcym&ff=on" >22</a></td>
-<td align="center" nowrap>fitc</td>
+<a href="noteky@c_noteread_f_0_id_1015301018iaqcym_ff_on.cgi" >22</a></td>
+<td align="center" nowrap>fitâ€¦</td>
 <td align="center" nowrap>2002/03/07 21:35:47</td>
-<td nowrap>¦‚­–Ê”’‚©‚Á‚½‚Å‚·B–{“–‚ÉA¦‚¢ƒAƒCƒfƒB...</td>
+<td nowrap>å‡„ãé¢ç™½ã‹ã£ãŸã§ã™ã€‚æœ¬å½“ã«ã€å‡„ã„ã‚¢ã‚¤ãƒ‡ã‚£...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1014982899sywtjkr&ff=on" >23</a></td>
-<td align="center" nowrap>‘æ‚Q‹{‰Æ</td>
+<a href="noteky@c_noteread_f_0_id_1014982899sywtjkr_ff_on.cgi" >23</a></td>
+<td align="center" nowrap>ç¬¬ï¼’å®®å®¶</td>
 <td align="center" nowrap>2002/03/13 01:48:12</td>
-<td nowrap>_‘¬Š´‘z‚Ì‚‚‹‚W‚S‚Q‚U‚³‚ÜA</td>
+<td nowrap>ç¥žé€Ÿæ„Ÿæƒ³ã®ï½ï½‹ï¼˜ï¼”ï¼’ï¼–ã•ã¾ã€</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1014900214etdgtp&ff=on" >24</a></td>
-<td align="center" nowrap>‰´‚Ì—Žq‚¶‚È“úX</td>
+<a href="noteky@c_noteread_f_0_id_1014900214etdgtp_ff_on.cgi" >24</a></td>
+<td align="center" nowrap>ä¿ºã®å¥³å­é«˜ç”Ÿãªæ—¥ã€…</td>
 <td align="center" nowrap>2002/03/28 12:05:07</td>
-<td nowrap>‘æ“ñŒfŽ¦”Â‚Ì•û‚É‚¿‚å‚Á‚Æ–`“ª•”•ª‘‚«o‚µ...</td>
+<td nowrap>ç¬¬äºŒæŽ²ç¤ºæ¿ã®æ–¹ã«ã¡ã‚‡ã£ã¨å†’é ­éƒ¨åˆ†æ›¸ãå‡ºã—...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1014567923byada&ff=on" >25</a></td>
-<td align="center" nowrap>­—‚ÌŽž</td>
+<a href="noteky@c_noteread_f_0_id_1014567923byada_ff_on.cgi" >25</a></td>
+<td align="center" nowrap>å°‘å¥³ã®æ™‚</td>
 <td align="center" nowrap>2002/03/01 23:49:37</td>
-<td nowrap>ˆê‹C‚É“Ç‚ñ‚Å‚µ‚Ü‚Á‚½EEEB‚©‚È‚è‚¨‚à‚µ...</td>
+<td nowrap>ä¸€æ°—ã«èª­ã‚“ã§ã—ã¾ã£ãŸãƒ»ãƒ»ãƒ»ã€‚ã‹ãªã‚ŠãŠã‚‚ã—...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1013930745quqpx&ff=on" >26</a></td>
-<td align="center" nowrap>‚s‚v‚h‚m@‚l‚h‚m‚c‚ri‘Oj</td>
+<a href="noteky@c_noteread_f_0_id_1013930745quqpx_ff_on.cgi" >26</a></td>
+<td align="center" nowrap>ï¼´ï¼·ï¼©ï¼®ã€€ï¼­ï¼©ï¼®ï¼¤ï¼³ï¼ˆå‰ï¼‰</td>
 <td align="center" nowrap>2002/06/21 23:58:58</td>
-<td nowrap>‚â‚Á‚ÆŒ©‚É—ˆ‚ê‚½EEEE</td>
+<td nowrap>ã‚„ã£ã¨è¦‹ã«æ¥ã‚ŒãŸãƒ»ãƒ»ãƒ»ãƒ»</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1013689808etdgtp&ff=on" >27</a></td>
-<td align="center" nowrap>‚­‚Ìˆê’T’ã</td>
+<a href="noteky@c_noteread_f_0_id_1013689808etdgtp_ff_on.cgi" >27</a></td>
+<td align="center" nowrap>ãã®ä¸€æŽ¢åµ</td>
 <td align="center" nowrap>2002/03/02 12:41:47</td>
-<td nowrap>’ù³A‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B</td>
+<td nowrap>è¨‚æ­£ã€ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1013474462gsxoa&ff=on" >28</a></td>
-<td align="center" nowrap>–ì—Ç”L•ú˜Q‹LiNo.2j</td>
+<a href="noteky@c_noteread_f_0_id_1013474462gsxoa_ff_on.cgi" >28</a></td>
+<td align="center" nowrap>é‡Žè‰¯çŒ«æ”¾æµªè¨˜ï¼ˆNo.2ï¼‰</td>
 <td align="center" nowrap>2002/02/25 13:18:30</td>
-<td nowrap>’Z‚­‚È‚¢˜b‚É‚àŠÖ‚í‚ç‚¸A“Ç‚ñ‚Å‰º‚³‚Á‚½ã...</td>
+<td nowrap>çŸ­ããªã„è©±ã«ã‚‚é–¢ã‚ã‚‰ãšã€èª­ã‚“ã§ä¸‹ã•ã£ãŸä¸Š...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1013436545sdnny&ff=on" >29</a></td>
-<td align="center" nowrap>ƒuƒ‰ƒbƒNƒoƒX</td>
+<a href="noteky@c_noteread_f_0_id_1013436545sdnny_ff_on.cgi" >29</a></td>
+<td align="center" nowrap>ãƒ–ãƒ©ãƒƒã‚¯ãƒã‚¹</td>
 <td align="center" nowrap>2002/02/17 23:11:07</td>
-<td nowrap>”L–ì‚³‚ñA‚·‚È‚³‚ñAŠ´‘z‚ð‚ ‚è‚ª‚Æ‚¤‚²‚´...</td>
+<td nowrap>çŒ«é‡Žã•ã‚“ã€ã™ãªã•ã‚“ã€æ„Ÿæƒ³ã‚’ã‚ã‚ŠãŒã¨ã†ã”ã–...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1012830403numay&ff=on" >30</a></td>
-<td align="center" nowrap>r‚ê‰Ê‚Ä‚½ŠC</td>
+<a href="noteky@c_noteread_f_0_id_1012830403numay_ff_on.cgi" >30</a></td>
+<td align="center" nowrap>è’ã‚Œæžœã¦ãŸæµ·</td>
 <td align="center" nowrap>2002/02/08 18:29:41</td>
-<td nowrap>Š´‘z‚ð–{“–‚É‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B</td>
+<td nowrap>æ„Ÿæƒ³ã‚’æœ¬å½“ã«ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1012665145esjgle&ff=on" >31</a></td>
-<td align="center" nowrap>‚l‚‚’‚‰‚…‚³‚ñì•i@Š´‘zŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1012665145esjgle_ff_on.cgi" >31</a></td>
+<td align="center" nowrap>ï¼­ï½ï½’ï½‰ï½…ã•ã‚“ä½œå“ã€€æ„Ÿæƒ³æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/04/02 10:13:45</td>
-<td nowrap>“Ç‚ñ‚¾ƒoƒCô</td>
+<td nowrap>èª­ã‚“ã ãƒã‚¤â™ª</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1012572007xwhvgbh&ff=on" >32</a></td>
-<td align="center" nowrap>ƒ‰ƒXƒJƒ‹™ƒ~[ƒiŠ´‘zŒfŽ¦”ÂiNo.‚Rj</td>
+<a href="noteky@c_noteread_f_0_id_1012572007xwhvgbh_ff_on.cgi" >32</a></td>
+<td align="center" nowrap>ãƒ©ã‚¹ã‚«ãƒ«â˜†ãƒŸãƒ¼ãƒŠæ„Ÿæƒ³æŽ²ç¤ºæ¿ï¼ˆNo.ï¼“ï¼‰</td>
 <td align="center" nowrap>2002/04/29 00:15:52</td>
-<td nowrap>•ÔŽ–‚ª’x‚­‚È‚Á‚Ä‚·‚¢‚Ü‚¹‚ñB</td>
+<td nowrap>è¿”äº‹ãŒé…ããªã£ã¦ã™ã„ã¾ã›ã‚“ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1012553605etdgtp&ff=on" >33</a></td>
-<td align="center" nowrap>LETfS@‚Ø‚Á‚½‚ñ‚±À‚è</td>
+<a href="noteky@c_noteread_f_0_id_1012553605etdgtp_ff_on.cgi" >33</a></td>
+<td align="center" nowrap>LETâ€™Sã€€ãºã£ãŸã‚“ã“åº§ã‚Š</td>
 <td align="center" nowrap>2002/06/17 22:58:52</td>
-<td nowrap>‚±‚Ìì•i‚ÍŽÀ‚É‚¨‚à‚µ‚ë‚©‚Â‚½‚Å‚·A‚±‚ê‚©...</td>
+<td nowrap>ã“ã®ä½œå“ã¯å®Ÿã«ãŠã‚‚ã—ã‚ã‹ã¤ãŸã§ã™ã€ã“ã‚Œã‹...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1012551355sdnny&ff=on" >34</a></td>
-<td align="center" nowrap>‹}‚Èo’£‚ÉRB</td>
+<a href="noteky@c_noteread_f_0_id_1012551355sdnny_ff_on.cgi" >34</a></td>
+<td align="center" nowrap>æ€¥ãªå‡ºå¼µã«RB</td>
 <td align="center" nowrap>2002/02/10 08:13:25</td>
-<td nowrap>Š´‘z‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B</td>
+<td nowrap>æ„Ÿæƒ³ã©ã†ã‚‚ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1012189341etdgtp&ff=on" >35</a></td>
-<td align="center" nowrap>ƒJƒ‰ƒIƒPô</td>
+<a href="noteky@c_noteread_f_0_id_1012189341etdgtp_ff_on.cgi" >35</a></td>
+<td align="center" nowrap>ã‚«ãƒ©ã‚ªã‚±â™ª</td>
 <td align="center" nowrap>2002/02/02 20:16:38</td>
-<td nowrap>’Z‚³‚É—U‚í‚ê‚Ä“Ç‚ñ‚¾ì•i‚Å‚·‚ªA‚Ù‚¤II...</td>
+<td nowrap>çŸ­ã•ã«èª˜ã‚ã‚Œã¦èª­ã‚“ã ä½œå“ã§ã™ãŒã€ã»ã†ï¼ï¼...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1012052938bxogju&ff=on" >36</a></td>
-<td align="center" nowrap>‹Ö‚¶‚ç‚ê‚½_“a</td>
+<a href="noteky@c_noteread_f_0_id_1012052938bxogju_ff_on.cgi" >36</a></td>
+<td align="center" nowrap>ç¦ã˜ã‚‰ã‚ŒãŸç¥žæ®¿</td>
 <td align="center" nowrap>2002/01/29 23:40:29</td>
-<td nowrap>‚Ç‚¤‚àAƒ‰ƒCƒ^[ƒ}ƒ“‚Å‚·B</td>
+<td nowrap>ã©ã†ã‚‚ã€ãƒ©ã‚¤ã‚¿ãƒ¼ãƒžãƒ³ã§ã™ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1011968147kdvhrob&ff=on" >37</a></td>
-<td align="center" nowrap>Irregular@Girl(s)@NoD4</td>
+<a href="noteky@c_noteread_f_0_id_1011968147kdvhrob_ff_on.cgi" >37</a></td>
+<td align="center" nowrap>Irregularã€€Girl(s)ã€€Noï¼Ž4</td>
 <td align="center" nowrap>2003/06/24 00:35:04</td>
-<td nowrap>‚¨‹v‚µ‚Ô‚è‚Å‚·A”ÂŒ©‚Ä‚­‚ê‚é‚©‚ÈH</td>
+<td nowrap>ãŠä¹…ã—ã¶ã‚Šã§ã™ã€æ¿è¦‹ã¦ãã‚Œã‚‹ã‹ãªï¼Ÿ</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1011704996qxjsp&ff=on" >38</a></td>
-<td align="center" nowrap>”ü­——EŽÒƒŠƒoƒKƒCƒK[i‚m‚D‚Rj</td>
+<a href="noteky@c_noteread_f_0_id_1011704996qxjsp_ff_on.cgi" >38</a></td>
+<td align="center" nowrap>ç¾Žå°‘å¥³å‹‡è€…ãƒªãƒã‚¬ã‚¤ã‚¬ãƒ¼ï¼ˆï¼®ï½ï¼Žï¼“ï¼‰</td>
 <td align="center" nowrap>2003/04/06 22:43:21</td>
-<td nowrap>y‘æ‚P‚P˜bz</td>
+<td nowrap>ã€ç¬¬ï¼‘ï¼‘è©±ã€‘</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1011537387sdnny&ff=on" >39</a></td>
-<td align="center" nowrap>‹zŒŒ•P“I“úí¶Šˆ</td>
+<a href="noteky@c_noteread_f_0_id_1011537387sdnny_ff_on.cgi" >39</a></td>
+<td align="center" nowrap>å¸è¡€å§«çš„æ—¥å¸¸ç”Ÿæ´»</td>
 <td align="center" nowrap>2002/06/28 14:53:56</td>
-<td nowrap>‚ EEE‚í‚´‚í‚´‚Ç‚¤‚àA—¬‚ê…c‚½‚µ‚©‚Ç...</td>
+<td nowrap>ã‚ãƒ»ãƒ»ãƒ»ã‚ã–ã‚ã–ã©ã†ã‚‚ã€æµã‚Œæ°´â€¦ãŸã—ã‹ã©...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1011504778etdgtp&ff=on" >40</a></td>
-<td align="center" nowrap>ŽÌlEl</td>
+<a href="noteky@c_noteread_f_0_id_1011504778etdgtp_ff_on.cgi" >40</a></td>
+<td align="center" nowrap>æ¨äººæ‹¾äºº</td>
 <td align="center" nowrap>2002/02/10 20:06:04</td>
-<td nowrap>‚·‚È‚³‚ñ—lA“Ç‚ñ‚Å‰º‚³‚Á‚½ã‚ÉŒäŠ´‘z‰º‚³...</td>
+<td nowrap>ã™ãªã•ã‚“æ§˜ã€èª­ã‚“ã§ä¸‹ã•ã£ãŸä¸Šã«å¾¡æ„Ÿæƒ³ä¸‹ã•...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1011022277dmrsd&ff=on" >41</a></td>
-<td align="center" nowrap>Irregular@Girl(s)@NoD4</td>
+<a href="noteky@c_noteread_f_0_id_1011022277dmrsd_ff_on.cgi" >41</a></td>
+<td align="center" nowrap>Irregularã€€Girl(s)ã€€Noï¼Ž4</td>
 <td align="center" nowrap>2002/02/07 18:05:33</td>
-<td nowrap>y‘æŽl‰ñz‚È‚ñ‚©Aƒzƒ“ƒg‚É‚ ‚è‚»‚¤‚È˜b‚Å...</td>
+<td nowrap>ã€ç¬¬å››å›žã€‘ãªã‚“ã‹ã€ãƒ›ãƒ³ãƒˆã«ã‚ã‚Šãã†ãªè©±ã§...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1010990944vqnpjma&ff=on" >42</a></td>
-<td align="center" nowrap>‰Ø‘ã‚¿‚á‚ñƒVƒŠ[ƒY</td>
+<a href="noteky@c_noteread_f_0_id_1010990944vqnpjma_ff_on.cgi" >42</a></td>
+<td align="center" nowrap>è¯ä»£ã¡ã‚ƒã‚“ã‚·ãƒªãƒ¼ã‚º</td>
 <td align="center" nowrap>2002/08/10 13:00:59</td>
-<td nowrap>w‘²‹Æ—·sx</td>
+<td nowrap>ã€Žå’æ¥­æ—…è¡Œã€</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1010799434etdgtp&ff=on" >43</a></td>
-<td align="center" nowrap>ƒvƒŠƒ“ƒZƒXƒ‰ƒCƒ_[</td>
+<a href="noteky@c_noteread_f_0_id_1010799434etdgtp_ff_on.cgi" >43</a></td>
+<td align="center" nowrap>ãƒ—ãƒªãƒ³ã‚»ã‚¹ãƒ©ã‚¤ãƒ€ãƒ¼</td>
 <td align="center" nowrap>2002/03/30 19:21:26</td>
-<td nowrap>‚±‚Ì‚½‚ÑA‚©‚í‚Ë‚¬‚³‚ñ‚ÌHP‚ÉƒvƒŠƒ“ƒZƒXƒ‰...</td>
+<td nowrap>ã“ã®ãŸã³ã€ã‹ã‚ã­ãŽã•ã‚“ã®HPã«ãƒ—ãƒªãƒ³ã‚»ã‚¹ãƒ©...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1010168334sywtjkr&ff=on" >44</a></td>
-<td align="center" nowrap>­—‚Æ‚µ‚Ä</td>
+<a href="noteky@c_noteread_f_0_id_1010168334sywtjkr_ff_on.cgi" >44</a></td>
+<td align="center" nowrap>å°‘å¥³ã¨ã—ã¦</td>
 <td align="center" nowrap>2002/01/14 01:49:20</td>
-<td nowrap>_‘¬Š´‘z‚Ì‚‚‹‚W‚S‚Q‚U‚³‚ñA“½–¼Ž‚³‚ñA...</td>
+<td nowrap>ç¥žé€Ÿæ„Ÿæƒ³ã®ï½ï½‹ï¼˜ï¼”ï¼’ï¼–ã•ã‚“ã€åŒ¿åæ°ã•ã‚“ã€...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1010122447etdgtp&ff=on" >45</a></td>
-<td align="center" nowrap>ó‘Ì•Ï‰»</td>
+<a href="noteky@c_noteread_f_0_id_1010122447etdgtp_ff_on.cgi" >45</a></td>
+<td align="center" nowrap>çŠ¶ä½“å¤‰åŒ–</td>
 <td align="center" nowrap>2002/01/14 01:48:26</td>
-<td nowrap>”ü˜a‚³‚ñA‚à‚®‚½‚ñ‚³‚ñA_‘¬Š´‘z‚Ì‚‚‹‚W...</td>
+<td nowrap>ç¾Žå’Œã•ã‚“ã€ã‚‚ããŸã‚“ã•ã‚“ã€ç¥žé€Ÿæ„Ÿæƒ³ã®ï½ï½‹ï¼˜...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1010060291sywtjkr&ff=on" >46</a></td>
-<td align="center" nowrap>‚r‚`‚j‚d</td>
+<a href="noteky@c_noteread_f_0_id_1010060291sywtjkr_ff_on.cgi" >46</a></td>
+<td align="center" nowrap>ï¼³ï¼¡ï¼«ï¼¥</td>
 <td align="center" nowrap>2002/04/22 02:13:38</td>
-<td nowrap>“K“x‚È‡‰ž‹ï‡‚Æ“K“x‚È”½”­‹ï‡‚ª‚È‚ñ‚Æ‚à...</td>
+<td nowrap>é©åº¦ãªé †å¿œå…·åˆã¨é©åº¦ãªåç™ºå…·åˆãŒãªã‚“ã¨ã‚‚...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1009883150kbxry&ff=on" >47</a></td>
-<td align="center" nowrap>‚ç‚¢‚©‘åìí‘æ‚TŒfŽ¦”Â</td>
+<a href="noteky@c_noteread_f_0_id_1009883150kbxry_ff_on.cgi" >47</a></td>
+<td align="center" nowrap>ã‚‰ã„ã‹å¤§ä½œæˆ¦ç¬¬ï¼•æŽ²ç¤ºæ¿</td>
 <td align="center" nowrap>2002/06/11 19:30:49</td>
-<td nowrap>y‘æ12˜bz</td>
+<td nowrap>ã€ç¬¬12è©±ã€‘</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1009820934isebia&ff=on" >48</a></td>
+<a href="noteky@c_noteread_f_0_id_1009820934isebia_ff_on.cgi" >48</a></td>
 <td align="center" nowrap>PROJECT</td>
 <td align="center" nowrap>2002/04/14 21:07:06</td>
-<td nowrap>“Ç‚ñ‚¾ƒoƒCô</td>
+<td nowrap>èª­ã‚“ã ãƒã‚¤â™ª</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1009370911isnjhh&ff=on" >49</a></td>
-<td align="center" nowrap>¹—ìí‘àƒz[ƒŠ[ƒŒƒ“ƒWƒƒ[</td>
+<a href="noteky@c_noteread_f_0_id_1009370911isnjhh_ff_on.cgi" >49</a></td>
+<td align="center" nowrap>è–éœŠæˆ¦éšŠãƒ›ãƒ¼ãƒªãƒ¼ãƒ¬ãƒ³ã‚¸ãƒ£ãƒ¼</td>
 <td align="center" nowrap>2002/01/19 20:40:52</td>
-<td nowrap>í‘à•¨‚Æ‚¢‚¦‚ÎA‚½‚µ‚©‚É››F‚Á‚Ä‚Ì‚ª–¼...</td>
+<td nowrap>æˆ¦éšŠç‰©ã¨ã„ãˆã°ã€ãŸã—ã‹ã«â—‹â—‹è‰²ã£ã¦ã®ãŒå...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1009296261epamw&ff=on" >50</a></td>
-<td align="center" nowrap>_ -God- </td>
+<a href="noteky@c_noteread_f_0_id_1009296261epamw_ff_on.cgi" >50</a></td>
+<td align="center" nowrap>ç¥ž -God- </td>
 <td align="center" nowrap>2002/01/12 06:46:58</td>
-<td nowrap>“Ç‚ñ‚¾ƒoƒCô</td>
+<td nowrap>èª­ã‚“ã ãƒã‚¤â™ª</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1008775554xlqfgq&ff=on" >51</a></td>
-<td align="center" nowrap>”é“’`–²‰é‚Í‚±‚±‚É‚¢‚é`</td>
+<a href="noteky@c_noteread_f_0_id_1008775554xlqfgq_ff_on.cgi" >51</a></td>
+<td align="center" nowrap>ç§˜æ¹¯ï½žå¤¢è›¾ã¯ã“ã“ã«ã„ã‚‹ï½ž</td>
 <td align="center" nowrap>2001/12/30 20:00:40</td>
-<td nowrap>‰©F‚¢ˆÅ‚à“Ç‚Ý‚Ü‚µ‚½B</td>
+<td nowrap>é»„è‰²ã„é—‡ã‚‚èª­ã¿ã¾ã—ãŸã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1008695398isebia&ff=on" >52</a></td>
-<td align="center" nowrap>’´‘•b‹@“®•ºŠíƒ‰ƒCƒgƒjƒ“ƒO</td>
+<a href="noteky@c_noteread_f_0_id_1008695398isebia_ff_on.cgi" >52</a></td>
+<td align="center" nowrap>è¶…è£…ç”²æ©Ÿå‹•å…µå™¨ãƒ©ã‚¤ãƒˆãƒ‹ãƒ³ã‚°</td>
 <td align="center" nowrap>2002/05/02 01:41:30</td>
-<td nowrap>Ži—ßŠ¯“Iƒ‚ƒm‚Ìl‚¦•ûB</td>
+<td nowrap>å¸ä»¤å®˜çš„ãƒ¢ãƒŽã®è€ƒãˆæ–¹ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1008684552ogjsdw&ff=on" >53</a></td>
-<td align="center" nowrap>‚k‚…‚”'‚“@ƒI[ƒo[ƒq[ƒgô</td>
+<a href="noteky@c_noteread_f_0_id_1008684552ogjsdw_ff_on.cgi" >53</a></td>
+<td align="center" nowrap>ï¼¬ï½…ï½”'ï½“ã€€ã‚ªãƒ¼ãƒãƒ¼ãƒ’ãƒ¼ãƒˆâ™ª</td>
 <td align="center" nowrap>2002/03/20 20:19:45</td>
-<td nowrap>‚Ç‚àA—´Žð‚Å‚·BŽ„‚Ì‘Ê•¶‚ÉŠ´‘z‚ð‰º‚³‚Á‚Ä...</td>
+<td nowrap>ã©ã‚‚ã€é¾é…’ã§ã™ã€‚ç§ã®é§„æ–‡ã«æ„Ÿæƒ³ã‚’ä¸‹ã•ã£ã¦...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1008646676lnpowq&ff=on" >54</a></td>
-<td align="center" nowrap>ƒ~ƒXƒgƒŒƒX‚ÆŠï–­‚È’‡ŠÔ’B</td>
+<a href="noteky@c_noteread_f_0_id_1008646676lnpowq_ff_on.cgi" >54</a></td>
+<td align="center" nowrap>ãƒŸã‚¹ãƒˆãƒ¬ã‚¹ã¨å¥‡å¦™ãªä»²é–“é”</td>
 <td align="center" nowrap>2002/06/03 21:11:23</td>
-<td nowrap>„–{•Ò‚Å“oêl•¨\\‚¾‚©‚Ç‚¤‚¾‚©‚Í‚¨‚¢‚Ä...</td>
+<td nowrap>ï¼žæœ¬ç·¨ã§ç™»å ´äººç‰©â€•â€•ã ã‹ã©ã†ã ã‹ã¯ãŠã„ã¦...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1008071617etdgtp&ff=on" >55</a></td>
-<td align="center" nowrap>â‘Î–³“GIH@¢ŠEª•žŽ„‘à</td>
+<a href="noteky@c_noteread_f_0_id_1008071617etdgtp_ff_on.cgi" >55</a></td>
+<td align="center" nowrap>çµ¶å¯¾ç„¡æ•µï¼ï¼Ÿã€€ä¸–ç•Œå¾æœç§éšŠ</td>
 <td align="center" nowrap>2002/01/13 15:06:45</td>
-<td nowrap>“Ç‚ñ‚Å‰º‚³‚Á‚½ã‚ÉŒäŠ´‘zA‚ ‚è‚ª‚Æ‚¤‚²‚´...</td>
+<td nowrap>èª­ã‚“ã§ä¸‹ã•ã£ãŸä¸Šã«å¾¡æ„Ÿæƒ³ã€ã‚ã‚ŠãŒã¨ã†ã”ã–...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1008035562vvanpbe&ff=on" >56</a></td>
-<td align="center" nowrap>¯‹û‚Ì—·l@-TSƒo[ƒWƒ‡ƒ“-</td>
+<a href="noteky@c_noteread_f_0_id_1008035562vvanpbe_ff_on.cgi" >56</a></td>
+<td align="center" nowrap>æ˜Ÿå±‘ã®æ—…äººã€€-TSãƒãƒ¼ã‚¸ãƒ§ãƒ³-</td>
 <td align="center" nowrap>2002/05/26 01:31:46</td>
-<td nowrap>[4˜b]</td>
+<td nowrap>[4è©±]</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1007739186romjdy&ff=on" >57</a></td>
-<td align="center" nowrap>–³‚Ì–‚—Í</td>
+<a href="noteky@c_noteread_f_0_id_1007739186romjdy_ff_on.cgi" >57</a></td>
+<td align="center" nowrap>ç„¡ã®é­”åŠ›</td>
 <td align="center" nowrap>2002/04/25 21:51:41</td>
-<td nowrap>‚·‚È‚³‚ñ—lAŠ´‘z‚ ‚è‚ª‚Æ‚¤ŒäÀ‚¢‚Ü‚·B</td>
+<td nowrap>ã™ãªã•ã‚“æ§˜ã€æ„Ÿæƒ³ã‚ã‚ŠãŒã¨ã†å¾¡åº§ã„ã¾ã™ã€‚</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1007312870kgexnyk&ff=on" >58</a></td>
-<td align="center" nowrap>ŒŽ‚ÌŒõ‚Ì‰º‚Å</td>
+<a href="noteky@c_noteread_f_0_id_1007312870kgexnyk_ff_on.cgi" >58</a></td>
+<td align="center" nowrap>æœˆã®å…‰ã®ä¸‹ã§</td>
 <td align="center" nowrap>2001/12/30 22:59:27</td>
-<td nowrap>‚Í‚¶‚ß‚Ü‚µ‚Ä‚Ú‚¢‚·‚ÌŠÊ‹lHê‚Ì‚Ý‚ñ‚Ý‚ñ‚Å...</td>
+<td nowrap>ã¯ã˜ã‚ã¾ã—ã¦ã¼ã„ã™ã®ç¼¶è©°å·¥å ´ã®ã¿ã‚“ã¿ã‚“ã§...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=1007024872ncrdoap&ff=on" >59</a></td>
-<td align="center" nowrap>‚ ‚Ì ‚Ì‹L‰¯</td>
+<a href="noteky@c_noteread_f_0_id_1007024872ncrdoap_ff_on.cgi" >59</a></td>
+<td align="center" nowrap>ã‚ã®é ƒã®è¨˜æ†¶</td>
 <td align="center" nowrap>2002/03/24 15:38:31</td>
-<td nowrap>‚Í‚¢A‚»‚ê‚Å‚ÍŽ©•ª‚ÌƒCƒ[ƒW‚Å•`‚©‚¹‚Ä‚¢...</td>
+<td nowrap>ã¯ã„ã€ãã‚Œã§ã¯è‡ªåˆ†ã®ã‚¤ãƒ¡ãƒ¼ã‚¸ã§æã‹ã›ã¦ã„...</td>
 </tr>
-</table><p>[<a href="noteky.cgi?&ff=on" >ƒm[ƒgˆê——‚É‚à‚Ç‚é</a>]</p></body></html>
+</table><p>[<a href="noteky@_ff_on.cgi" >ãƒŽãƒ¼ãƒˆä¸€è¦§ã«ã‚‚ã©ã‚‹</a>]</p></body></html>

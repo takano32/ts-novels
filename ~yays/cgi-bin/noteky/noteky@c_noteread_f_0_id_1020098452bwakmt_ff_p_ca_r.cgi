@@ -1,245 +1,245 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1020098452bwakmt&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1020098452bwakmt_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�����R�߂����i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">佐藤由衣さん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200204/30012101/grandfather01.html" target="_blank">Am I a grandfather!? The 1st story</a></strong>  <i>2002/04/30 01:40:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200204/30012101/grandfather01.html" target="_blank">Am I a grandfather!? The 1st story</a></strong>  <i>2002/04/30 01:40:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020098452bwakmt&id2=1020098452bwakmt&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020098452bwakmt_id2_1020098452bwakmt_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�����������班�N�������ɏ��ƂȂ�p���i��������܂���B���̍�i�̓��{��ł͎��̃����N����ǂ����B<BR>This may be the first English work in this library. To read Japanese version, visit the site below.<BR><BR><a href="http://www.yuna.net/yui.html" target="_blank">http://www.yuna.net/yui.html</a>
+【推薦文】もしかしたら少年少女文庫初となる英語作品かもしれません。この作品の日本語版は次のリンクからどうぞ。<BR>This may be the first English work in this library. To read Japanese version, visit the site below.<BR><BR><a href="http://www.yuna.net/yui.html" target="_blank">http://www.yuna.net/yui.html</a>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/04/30 06:32:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/04/30 06:32:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020115953hmlilr&id2=1020098452bwakmt&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020115953hmlilr_id2_1020098452bwakmt_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̓q�g���[�̎��E�������ł��B<BR>�o����Ήp��ł͂Ȃ��h�C�c��ŏ����Ăق��������c�B
+今日はヒトラーの自殺した日です。<BR>出来れば英語ではなくドイツ語で書いてほしかった…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�iVery fast comment writer�j</a></strong>  <i>2002/04/30 07:11:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（Very fast comment writer）</a></strong>  <i>2002/04/30 07:11:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020118314yirqyl&id2=1020098452bwakmt&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020118314yirqyl_id2_1020098452bwakmt_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����ۂ́u�p��I�v�B<BR>�w������̈�������݂����邩�Ǝv���܂�����i�΁j�B<BR>���������z���p��Ɠ��{��ŏ����Ƃ������Ƃ������̂ŁA�ŏ��͊��z�������Ȃ��ł��������Ǝv���܂����i���j�B<BR>�������A����ł͊��z���������F���邍���W�S�Q�U�̖���������Ǝv���A�����|��T�[�r�X�̏������؂�āA���z�������Ă��܂��B<BR>�Ȃ��Ȃ��ʔ������b�ł��ˁB���ꂩ���l���ǂ��Ȃ��Ă����̂��A���ɋ���������܂��B<BR>������y���݂ɂ��Ă��܂���B<BR><BR>It read. <BR>The first impression is "English." <BR>I thought whether the nightmare of its school days would revive. <BR>And I thought whether it would set without writing comment at first, since it was that comment should also write in English and Japanese. <BR>However, it thinks that the name of mk8426 which then acknowledges comment writing goes out of use, the help of free translation service is borrowed, and comment are written. <BR>Is it a very much interesting talk? It is very interested in what two persons become after this. <BR>I am also looking forward to it next time. <BR><BR>�����}�_����<BR>���Ȃ�������u�q�g���[�̐��܂ꂽ���E�E�E�v�Ƃ������Ă��܂������A�q�g���[�D���Ȃ�ł����H<BR>���܂�\�ɏo���Ȃ����������ł���A����B�������h�C�c��������ǂ��Ȃ��Ă��邱�Ƃ��B
+読んだバイ♪<BR>第一印象は「英語！」。<BR>学生時代の悪夢がよみがえるかと思いましたよ（笑）。<BR>しかも感想も英語と日本語で書けということだったので、最初は感想を書かないでおこうかと思いました（爆）。<BR>しかし、それでは感想書きを自認するｍｋ８４２６の名がすたると思い、無料翻訳サービスの助けを借りて、感想を書いています。<BR>なかなか面白いお話ですね。これから二人がどうなっていくのか、非常に興味があります。<BR>次回も楽しみにしていますよ。<BR><BR>It read. <BR>The first impression is "English." <BR>I thought whether the nightmare of its school days would revive. <BR>And I thought whether it would set without writing comment at first, since it was that comment should also write in English and Japanese. <BR>However, it thinks that the name of mk8426 which then acknowledges comment writing goes out of use, the help of free translation service is borrowed, and comment are written. <BR>Is it a very much interesting talk? It is very interested in what two persons become after this. <BR>I am also looking forward to it next time. <BR><BR>＞ヤマダさん<BR>あなた先日も「ヒトラーの生まれた日・・・」とか書いていましたが、ヒトラー好きなんですか？<BR>あまり表に出さない方がいいですよ、それ。ここがドイツだったらどうなっていることか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/04/30 07:13:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/04/30 07:13:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020118392plnnmhx&id2=1020098452bwakmt&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020118392plnnmhx_id2_1020098452bwakmt_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�ʂɊ��z���p��ŏ����Ƃ͈ꌾ�������ĂȂ���i���j�B
+あ、別に感想を英語で書けとは一言も書いてないや（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/04/30 09:01:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/04/30 09:01:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020124862lutkb&id2=1020098452bwakmt&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020124862lutkb_id2_1020098452bwakmt_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�q�g���[�Ȃ񂩍D���Ȗ�Ȃ��ł��傤�B����ȍ�����`�҂ő�ʋs�E�������l�ԂȂ񂩁B<BR>���Ȃ݂Ɍ��킹�Ă��炤�ƁA�q�g���[�����E�����͍̂����̂P�T���R�O������B���l�̃G���@���ꏏ�Ɏ��E���܂����B�����ɂ̓Q�b�y���X���Ȏq���ƈꏏ�Ɏ��E�A������5��2���@�n��������������܂����B<BR>���Љ䂪������ǂ�Ō��܂��傤�B�Ȃɂ������Ă���̂������ς藝���ł��Ȃ��Ǝv���܂��B�����ł��܂���ł����B
+ヒトラーなんか好きな訳ないでしょう。あんな国粋主義者で大量虐殺をした人間なんか。<BR>ちなみに言わせてもらうと、ヒトラーが自殺したのは今日の１５時３０分ごろ。愛人のエヴァも一緒に自殺しました。明日にはゲッペルスが妻子供と一緒に自殺、そして5月2日　地下壕が発見されました。<BR>ぜひ我が闘争を読んで見ましょう。なにを書いてあるのかさっぱり理解できないと思います。私もできませんでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/04/30 15:08:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/04/30 15:08:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020146925adpmgl&id2=1020098452bwakmt&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020146925adpmgl_id2_1020098452bwakmt_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�p��ł����i^^�G<BR>����`�����Ԃ񎫏������܂�����B<BR>�������Ă����̂́A���@�ǂ���ɏ����Ă���A�����Ȃ����Ⴄ��������Ȃ��̂ŁA��������Ă��Ă������̂ł́H�@���@�I�ɂ܂������Ă��邩�������̂��A�킩��Ȃ����������̂��Ȃ�ł����ǁc�Ƃ�����A�P���f�G�Ȃقǎ����ň����āA�Ȃ�ƂȂ���ӂ͂��߂܂����B����́c�u����ւ��v���Ƃ������Ƃ��킩�����悤�ȁc<BR><BR>����ρA�p��̕ǂ͍��������c�ł��������납�����̂ŁA���������������̂ł��B
+うお、英語でした（^^；<BR>いや～だいぶん辞書引きましたよ。<BR>小説っていうのは、文法どおりに書いてたら、堅くなっちゃうかもしれないので、多少崩れていてもいいのでは？　文法的にまちがっているか正しいのか、わからない私が言うのもなんですけど…ともあれ、単語を素敵なほど辞書で引いて、なんとなく大意はつかめました。これは…「入れ替わり」だということがわかったような…<BR><BR>やっぱ、英語の壁は高かった…でもおもしろかったので、続きが見たいものです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/04/30 18:56:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/04/30 18:56:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020160581xbprkx&id2=1020098452bwakmt&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020160581xbprkx_id2_1020098452bwakmt_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���m�����N���悤�ŁA������҂�p����������ł����ǁc�`���t�߂̃p�\�R�����Ȃ񂽂�̕����̒���Łc<BR><BR>"I think that it is usually."<BR><BR>���̈Ӗ����āc�y����͂����̂悤���Ǝ��͎v���B�z�ł�����ł��傤���H�@���������Ă��A���������ĂȂ�ł����cuseful�H�̂܂������H<BR>�O�̕����Ȃɂ��A�V�����ŐV�^�̃p�\�R���̂��Ƃ������Ă���݂����Ȃ�ŁA�������Ȃ��Ƃ��v�����Ⴂ�܂����B<BR><BR>����ƁA�����W�S�Q�U����̊��z�c<BR>�ǂ񂾃o�C����āAit read�@�ɂȂ��ł����H�@���������āc<BR>I read �H�@�Ƃ��v�����Ⴂ�܂����B������炲�߂�Ȃ����c<BR><BR>�p����w�E����̂͗E�C������܂��B�i�O�O�G�G�G<BR>
+無知さを晒すようで、ちょっぴり恥ずかしいんですけど…冒頭付近のパソコンがなんたらの部分の直後で…<BR><BR>"I think that it is usually."<BR><BR>この意味って…【それはいつものようだと私は思う。】でいいんでしょうか？　もしかしても、もしかしてなんですが…useful？のまちがい？<BR>前の文がなにやら、新しい最新型のパソコンのことを書いてあるみたいなんで、そうかなあとか思っちゃいました。<BR><BR>それと、ｍｋ８４２６さんの感想…<BR>読んだバイ♪って、it read　になるんですか？　もしかして…<BR>I read ？　とか思っちゃいました。違ったらごめんなさい…<BR><BR>英語を指摘するのは勇気がいります。（＾＾；；；<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/04/30 22:18:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/04/30 22:18:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020172723fkffaxt&id2=1020098452bwakmt&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020172723fkffaxt_id2_1020098452bwakmt_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ꂷ�ꂷ<BR>�����}�_����<BR>���q�g���[�Ȃ񂩍D���Ȗ�Ȃ��ł��傤�B����ȍ�����`�҂ő�ʋs�E�������l�ԂȂ񂩁B<BR>�������炠��Ȃ��Ə����Ȃ���ȁB���ꂶ��ǂ��l���Ă��l�I�i�`�̎咣�ł���B<BR>�����͎Љ�펯�Ƃ������̂��킫�܂����炢�����ł��H<BR>�������������̂悤�ł����A���̒��͂����ƌ������̂ł��B���r���[�Ȓm����U��񂷂̂͂͂����茾���Ė��m���|���̂ł���B<BR><BR>���m�C������<BR>���ǂ񂾃o�C����āAit read�@�ɂȂ��ł����H<BR>�܂����u�ǂ񂾃o�C��v���̂܂܂Ŗ|��ł���킯�͂Ȃ���ŁA���������́u�ǂ݂܂����v�Ŗ|�󂩂��܂����B���̌��ʂ��uIt read.�v�������Ƃ����킯�ł��B<BR>���Ȃ݂ɗ��p�����|��T�[�r�X�̓J�L�R�����|��T�C�g�ł͂Ȃ��AIE��DL����Infoseek�c�[���o�[�̖|��@�\�ł��B
+れすれす<BR>＞ヤマダさん<BR>＞ヒトラーなんか好きな訳ないでしょう。あんな国粋主義者で大量虐殺をした人間なんか。<BR>だったらあんなこと書きなさんな。あれじゃどう考えてもネオナチの主張ですよ。<BR>少しは社会常識というものをわきまえたらいかがです？<BR>厳しい言い方のようですが、世の中はもっと厳しいのです。中途半端な知識を振り回すのははっきり言って無知より怖いのですよ。<BR><BR>＞ノインさん<BR>＞読んだバイ♪って、it read　になるんですか？<BR>まさか「読んだバイ♪」そのままで翻訳できるわけはないんで、ここだけは「読みました」で翻訳かけました。その結果が「It read.」だったというわけです。<BR>ちなみに利用した翻訳サービスはカキコした翻訳サイトではなく、IEにDLしたInfoseekツールバーの翻訳機能です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/04/30 22:23:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/04/30 22:23:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020172984ytrxsk&id2=1020098452bwakmt&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020172984ytrxsk_id2_1020098452bwakmt_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ق��A�Ȃ�قǁc�����W�S�Q�U����A���񂭂���<BR>�ǂ݂܂����B�C�b�g���[�h��@�Ȃ񂾂������������́�<BR>�c�c�c�c<BR>�����܂���A�l�l�̌f���ł͂��Ⴂ�Łc����ł́`��<BR>
+ほう、なるほど…ｍｋ８４２６さん、さんくす♪<BR>読みました。イットリード♪　なんだかかっこいいの♪<BR>…………<BR>すいません、人様の掲示板ではしゃいで…それでは～♪<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/05/01 06:29:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/05/01 06:29:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020202185vaikw&id2=1020098452bwakmt&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020202185vaikw_id2_1020098452bwakmt_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��A�_�����z�l�ցB<BR>�l�I�i�`�Ƃ̓q�g���[�t�@���N���u�ł͂���܂���B������̖ڎw�����z�Ƃ͊O���l�����[���b�p����r�˂��鎖�ŁA������񎄂������F�l����܂܂�Ă���܂��B��������{�l���l�I�i�`�Ƃ����v�z�͍��{�I�ɐ��܂�Ȃ��Ǝ��͍l���Ă���܂��B<BR>�_�����z�l����ʏ펯�Ƃ��Ĉ�m���Ă����܂��傤
+一つ、神速感想様へ。<BR>ネオナチとはヒトラーファンクラブではありません。あいつらの目指す理想とは外国人をヨーロッパから排斥する事で、もちろん私たち黄色人種も含まれております。だから日本人がネオナチという思想は根本的に生まれないと私は考えております。<BR>神速感想様も一般常識として一つ知っておきましょう
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���}�_</strong>  <i>2002/05/01 06:54:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヤマダ</strong>  <i>2002/05/01 06:54:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020203672oblpo&id2=1020098452bwakmt&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020203672oblpo_id2_1020098452bwakmt_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ɛ��̒����������ƌ���l���͎��͑匙���ł��B�m���Ɍ��݂̌o�Ϗ�Ԃ���l�Ԋ֌W�ɂ�����܂ŁA�ꖳ�����̂��Ƃ���]�I�ȏ�Ԃł��B<BR>���������̒��������Ɋ����邩�͐l�Ԃ��̂��̂̓w�͂Ɗ���ł��B<BR>�������������ے肷��悤�Ɂw�������x�Ƃ����̂́A�͂����肢���Ď�������l����j�󂷂�悤�Ȃ��̂ł��傤�B<BR>���j�����Ă��������B�h�C�c�����͂����Љ�����������̂��Ǝv�����݁A�~����I�ȃq�g���[�ɏ��������Ƃ߂Ă��܂����̂ł��B<BR>���̌��ʂ͌����܂ł��Ȃ��ł��傤
+あと世の中を厳しいと見る考えは私は大嫌いです。確かに現在の経済状態から人間関係におけるまで、底無し沼のごとく絶望的な状態です。<BR>しかし世の中をいかに感じるかは人間そのものの努力と感情です。<BR>それを根っから否定するように『厳しい』というのは、はっきりいって自分から人生を破壊するようなものでしょう。<BR>歴史を見てください。ドイツ国民はただ社会を厳しいものだと思い込み、救世主的なヒトラーに助けをもとめてしまったのです。<BR>その結果は言うまでもないでしょう
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��O��</strong>  <i>2002/05/01 08:39:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>第三者</strong>  <i>2002/05/01 08:39:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020209970qycrr&id2=1020098452bwakmt&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020209970qycrr_id2_1020098452bwakmt_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�f���Ƃ�����Ŏ�|�ƈقȂ�b��𑱂���̂͂��������Ǝv���܂����B<BR>���ꂼ��咣�⌾��������������Ȃ�ꏊ���ڂ���Ă͂������ł��H<BR>����ł͊��z���������߂�悤�ȕ��͋C����Ȃ��ł���B
+感想掲示板という場で趣旨と異なる話題を続けるのはいかがかと思いますが。<BR>それぞれ主張や言いたい事があるなら場所を移されてはいかがです？<BR>これでは感想を書き込めるような雰囲気じゃないですよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/05/01 22:27:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/05/01 22:27:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020259622exiamf&id2=1020098452bwakmt&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020259622exiamf_id2_1020098452bwakmt_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ł́A���}�_����A������ցB<BR><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1020259565ohguyb&ff=on" target="_blank">http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1020259565ohguyb&ff=on</a><BR><BR>���̕��X�A�����f�����������܂����B
+それでは、ヤマダさん、こちらへ。<BR><a href="noteky@c_noteread_f_1_id_1020259565ohguyb_ff_on.cgi" target="_blank">noteky@c_noteread_f_1_id_1020259565ohguyb_ff_on.cgi</a><BR><BR>他の方々、ご迷惑をおかけしました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/05/02 01:13:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/05/02 01:13:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020269599pxbpxqd&id2=1020098452bwakmt&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020269599pxbpxqd_id2_1020098452bwakmt_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�՘b�x��B<BR><BR>�ԈႢ�ɂ��āB<BR>�C�ɂ��邾�����ł��B�i�ٌ�m�̃z�[���y�[�W�ɂ����\�ԈႢ���������肵�܂�����j<BR><BR>�p���̊ԈႢ����<BR>�uFront  Page�v��������������^�O�Ɨv�f�̕��ɖ�肪�����悤�ȁc�B<BR><BR>�p���̕��́A�Ƃ����Ɓc�傫�ȁA�����������悤�ȊԈႢ�͂���܂���ł����B<BR>�i�Q�P���I��A.D. 21th century�j<BR> ���ɍׂ������Ƃŋ��k�ł����A<BR>�u�����Ƃ��ē����i�����ł͎����͈�v������v�Ƃ����̂ƁA<BR>�u��ꂪ�������͌�����̂ŁA�uit�v���g���Ď��Ɏg���������������͏q��ɂ���v���ƂƂ��A<BR>�u���{��ł́w�c�����x�ł��p���ł͌���^�̃P�[�X���w�ǁv���Ƃ��A<BR>���̒��x�ł��B
+閑話休題。<BR><BR>間違いについて。<BR>気にするだけ損です。（弁護士のホームページにも結構間違いがあったりしますから）<BR><BR>英文の間違いよりも<BR>「Front  Page」が自動生成するタグと要素の方に問題が多いような…。<BR><BR>英文の方は、というと…大きな、文脈が乱れるような間違いはありませんでした。<BR>（２１世紀→A.D. 21th century）<BR> 実に細かいことで恐縮ですが、<BR>「原則として同じ段落内では時制は一致させる」というのと、<BR>「主語が長い文は嫌われるので、「it」を使って主語に使いたかった部分は述語にする」こととか、<BR>「日本語では『…した』でも英文では現代型のケースが殆ど」だとか、<BR>その程度です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="���������������|���������������������D���������������D�����D����" target="_blank">�悵����</a></strong>  <i>2002/05/04 07:02:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="ｙｏｓｉｏｋａ－ｅｉｋａｓｕ＠ｍｖｈ．ｂｉｇｌｏｂｅ．ｎｅ．ｊｐ" target="_blank">よしおか</a></strong>  <i>2002/05/04 07:02:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020463366fetmu&id2=1020098452bwakmt&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020463366fetmu_id2_1020098452bwakmt_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������A���݂܂���B�{���́A�u�킽�����A�����������I�H�v�̊��z�������ׂ��Ȃ̂ł��傤���A���܂�ɉ���������i���������Ă������������̂ŁE�E�E<BR>��͂�u�킽�������΂������I�H�v�́A����Ŋ����ł����B���߂ēǂ܂��Ă����������Ƃ��A�Ȃ񂾂��A�₵���C�����ɂȂ����̂��v���o���܂����B�����āA���΂������ɂȂ����R���q���ǂ��Ȃ�̂��B�������������Ƃ����������v���o���Ă��܂��B<BR>�ł���΁A�܂��A��������̍�i���A�ǂ܂��Ă��������B��낵�����肢�������܂��B
+佐藤さん、すみません。本当は、「わたしが、おじいちゃん！？」の感想を書くべきなのでしょうが、あまりに懐かしい作品を見させていただいたもので・・・<BR>やはり「わたしがおばあちゃん！？」は、あれで完結ですか。初めて読ませていただいたとき、なんだか、寂しい気持ちになったのを思い出しました。そして、おばあちゃんになった由美子がどうなるのか。お聞きしたことも懐かしく思い出しています。<BR>できれば、また、佐藤さんの作品を、読ませてください。よろしくお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����R��</strong>  <i>2002/05/05 22:42:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>佐藤由衣</strong>  <i>2002/05/05 22:42:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020606143jqadbjx&id2=1020098452bwakmt&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020606143jqadbjx_id2_1020098452bwakmt_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܁`��<BR>�p�ꉻ�ɂ��ẮA�Q�`�R�������č쐬���Ă��܂��B<BR>���΂ɁA���{���̕\�L��i�͕ۊǂ��Ă��܂���B<BR><BR>�̘̂b���o�Ă����̂ŗ��b���E�E�E<BR><BR>�u�킽�������΂������I�H�v�͊����ł͂���܂���B<BR>���̎����A���邱�Ƃ����Ōf�ڂ���߂��̂ł��B<BR>���̍��̓ǎ҂̕��Ȃ炽�Ԃ񎖏�킩�邩�Ǝv���܂��B<BR><BR>���Č���ł����A�{�҂͑�P�O�b�A�ԊO�҂͑�T�b�܂ł̍\�z���������Ă��܂����B<BR>�ł���̎���ŁA��U�b�ŋ}���劮�������������ł��B<BR><BR>�����V�b�ȍ~�A�ԊO�ґ�R�b�ȍ~�ɂ��܂��ẮA�������ł����f�ڂł���悤�ɂ��Ă��������Ǝv���܂��B
+感想ありがとうございま～す<BR>英語化については、２～３日かけて作成しています。<BR>反対に、日本語約の表記作品は保管していません。<BR><BR>昔の話が出てきたので裏話を・・・<BR><BR>「わたしがおばあちゃん！？」は完結ではありません。<BR>あの時期、あることが問題で掲載をやめたのです。<BR>その頃の読者の方ならたぶん事情がわかるかと思います。<BR><BR>さて原作ですが、本編は第１０話、番外編は第５話までの構想が完了していました。<BR>でも上の事情で、第６話で急きょ完結したしだいです。<BR><BR>原作第７話以降、番外編第３話以降につきましては、少しずつですが掲載できるようにしていきたいと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/11 19:25:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/11 19:25:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021112717njpdt&id2=1020098452bwakmt&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021112717njpdt_id2_1020098452bwakmt_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>�f���炵�����x���c�H
+すばらしい、実にすばらしい<BR>素晴らしいレベル…？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200204/30012101/grandfather02.html" target="_blank">Am I a grandfather!? The 2nd story</a></strong>  <i>2002/05/13 02:21:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200204/30012101/grandfather02.html" target="_blank">Am I a grandfather!? The 2nd story</a></strong>  <i>2002/05/13 02:21:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021224117hbbkap&id2=1020098452bwakmt&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021224117hbbkap_id2_1020098452bwakmt_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�R���q�ɓ���ւ���ď��߂Ă̊w�Z�B�����������A���߂Ă����Ǒ��v�H
+【推薦文】由美子に入れ替わって初めての学校。おじいちゃん、初めてだけど大丈夫？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/05/13 03:34:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/05/13 03:34:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021228448ajlan&id2=1020098452bwakmt&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021228448ajlan_id2_1020098452bwakmt_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂܂��c�p�ꂩ�c<BR>�Ƃ�����Ȃ�Ƃ��ǂ݂܂����B�ǂ�����ӂ́w�������΂������I�H�x�ƕς��Ȃ��悤�ł��ȁB�Ă������Ⴂ���悭�͂킩��񂩂����ł��B�i^^�G<BR><BR>�Ȃ񂾂��Ԉ���Ă��ĕ|���ł����ǁc<BR>�����������قꂿ������̂��c�^�J�V����Ɂc<BR>I had gotten to like him after I became Yumiko.<BR>���ꂪ������ۂ��i^^�G<BR><BR>����ƁA�������΂������I�H<BR>�̂ق��ł����A�������TS�ł����Ȃ��ł����A�������납�����ł��B<BR>
+これはまた…英語か…<BR>ともあれなんとか読みました。どうやら大意は『私がおばあちゃん！？』と変わりないようですな。ていうか違いがよくはわからんかったです。（^^；<BR><BR>なんだか間違っていて怖いですけど…<BR>おじいちゃんほれちゃったのか…タカシくんに…<BR>I had gotten to like him after I became Yumiko.<BR>これがそれっぽい（^^；<BR><BR>それと、私がおばあちゃん！？<BR>のほうですが、こちらはTSでこそないですが、おもしろかったです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/13 09:08:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/13 09:08:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021248514qxbvrh&id2=1020098452bwakmt&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021248514qxbvrh_id2_1020098452bwakmt_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށA�����������j�̎q�ɍ��ꂿ�Ⴂ����悧�i���j�B<BR>�܁A�s�r��ɓo�Z���Ċw�Z�ł��낢��Ƃ����V�[���͉��x�ǂ�ł������ł��Ȃ��B<BR>�������A�����܂ł̎�Ԃ�i�H�j�Ƃ����̂��������ł��˂��B�����I�O��̎�Ԃ�ł�����˂��i�΁j�B<BR><BR>������͉p��Ȃ��i�j���j
+読んだバイ♪<BR>うーむ、おじいちゃん男の子に惚れちゃいかんよぉ（爆）。<BR>ま、ＴＳ後に登校して学校でいろいろというシーンは何度読んでもいいですなぁ。<BR>しかし、ここまでの若返り（？）というのもすごいですねぇ。半世紀前後の若返りですからねぇ（笑）。<BR><BR>＃今回は英語なし（核爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/13 16:15:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/13 16:15:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021274147vpcirx&id2=1020098452bwakmt&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021274147vpcirx_id2_1020098452bwakmt_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>�悭���Ȃ����x���c�T
+すばらしい、実にすばらしい<BR>よくやるなぁレベル…５
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1020098452bwakmt">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,11 +1,11 @@
 
 <HTML>
 <HEAD>
-<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=x-sjis">
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
 <META name="ROBOTS" content="NOINDEX,NOFOLLOW">
 <META http-equiv="Content-Style-Type" content="text/css">
 <META http-equiv="Content-Script-Type" content="text/javascript">
-<TITLE>���C�y���������a�a�r</TITLE>
+<TITLE>お気軽おえかきＢＢＳ</TITLE>
 <script language="JavaScript">
 <!--
 	function showApplet(){
@@ -34,9 +34,9 @@
 <Script Language="JavaScript">
 <!--
 function ResizeWin(){
-	alert("���̃u���E�U�ł͎g�p�ł��܂���");return;
-	flag = confirm("�A�v���b�g�T�C�Y���E�C���h�̑傫���ɍ��킹�܂��B\n\n�A�v���b�g�T�C�Y��ύX����ƍ��`����Ă���G�͏����Ă��܂��܂��B\n���s���Ă�낵���ł����H");
-	if (flag) location.href = "./bbsnote.cgi?fc=paint&anime=&width=&height=&palette=&appw="+w+"&apph="+h;
+	alert("このブラウザでは使用できません");return;
+	flag = confirm("アプレットサイズをウインドの大きさに合わせます。\n\nアプレットサイズを変更すると今描かれている絵は消えてしまいます。\n実行してよろしいですか？");
+	if (flag) location.href = "bbsnote@fc_paint_anime__width__height__palette__appw_.cgi"+w+"&apph="+h;
 }
 
 function paintBBSCallback(value){
@@ -94,7 +94,7 @@ function PaletteNew(){
 	s = d.Palette.select
 	Palettes[s.length] = p
 	cutomP++
-	str = prompt("�p���b�g��","�p���b�g " + cutomP)
+	str = prompt("パレット名","パレット " + cutomP)
 	if(str == null || str == ""){cutomP--;return}
 	s.options[s.length] = new Option(str)
 	if(s.length < 30) s.size = s.length
@@ -109,7 +109,7 @@ function PaletteDel(){
 	i = s.selectedIndex
 	if(i == -1)return
 	
-	flag = confirm("�u"+s.options[i].text + "�v���폜���Ă�낵���ł����H")
+	flag = confirm("「"+s.options[i].text + "」を削除してよろしいですか？")
 	if (!flag) return
 	s.options[i] = null
 	while(i<p){
@@ -154,22 +154,22 @@ function PaletteMatrixGet(){
 			if(s.options[n] != null){ t.value = t.value + "\n!"+ s.options[n].text +"\n" + Palettes[n];c++}
 			n++
 		}
-		alert ("�p���b�g���F"+c+"\n�p���b�g�}�g���N�X���擾���܂���");break
+		alert ("パレット数："+c+"\nパレットマトリクスを取得しました");break
 	case 1:
-		alert("���ݎg�p����Ă���p���b�g�����擾���܂���");break
+		alert("現在使用されているパレット情報を取得しました");break
 	}
 		t.value = t.value + "\n!Matrix"
 }
 function PalleteMatrixSet(){
 	m = document.Palette.m_m.selectedIndex;
-	str = "�p���b�g�}�g���N�X���Z�b�g���܂��B"
+	str = "パレットマトリクスをセットします。"
 	switch(m){
 	case 0:default:
-		flag = confirm(str+"\n���݂̑S�p���b�g���͎����܂�����낵���ł����H");break
+		flag = confirm(str+"\n現在の全パレット情報は失われますがよろしいですか？");break
 	case 1:
-		flag = confirm(str+"\n���ݕ�����Ă���p���b�g�ƒu�������܂�����낵���ł����H");break;
+		flag = confirm(str+"\n現在侮ｦしているパレットと置き換えますがよろしいですか？");break;
 	case 2:
-		flag = confirm(str+"\n���݂̃p���b�g���ɒǉ����܂�����낵���ł����H");break
+		flag = confirm(str+"\n現在のパレット情報に追加しますがよろしいですか？");break
 	}
 		if (!flag) return
 	
@@ -178,7 +178,7 @@ function PalleteMatrixSet(){
 	
 }
 function PalleteMatrixHelp(){
-	alert("��PALETTE MATRIX\n�p���b�g�}�g���N�X�Ƃ̓p���b�g����񋓂����e�L�X�g��p���鎖�ɂ��\n���R�ȃp���b�g�ݒ���g�p���鎖���o���܂��B\n\n���}�g���N�X�̎擾\n1)�u�擾�v�{�^�����p���b�g�}�g���N�X���擾���܂��B\n2)�擾���ꂽ��񂪉��̃e�L�X�g�G���A�ɏo�܂��A�����S�ăR�s�[���܂��B\n3)���̃}�g���N�X�����e�L�X�g�Ƃ��ăt�@�C���ɕۑ����Ă����Ȃ肵�܂��傤�B\n\n���}�g���N�X�̃Z�b�g\n1�j�R�s�[�����}�g���N�X�����̃e�L�X�g�G���A�ɓ\��t��(�y�[�X�g)���܂��B\n2)�t�@�C���ɕۑ����Ă���ꍇ�́A������R�s�[���\��t���܂��B\n3)�u�Z�b�g�v�{�^���������Εۑ����ꂽ�p���b�g���g�p�ł��܂��B\n\n�]���ȏ�񂪂���ƃp���b�g���������Z�b�g����܂���̂ł����Ӊ������B");
+	alert("★PALETTE MATRIX\nパレットマトリクスとはパレット情報を列挙したテキストを用いる事により\n自由なパレット設定を使用する事が出来ます。\n\n□マトリクスの取得\n1)「取得」ボタンよりパレットマトリクスを取得します。\n2)取得された情報が下のテキストエリアに出ます、これを全てコピーします。\n3)このマトリクス情報をテキストとしてファイルに保存しておくなりしましょう。\n\n□マトリクスのセット\n1）コピーしたマトリクスを下のテキストエリアに貼り付け(ペースト)します。\n2)ファイルに保存してある場合は、それをコピーし貼り付けます。\n3)「セット」ボタンを押せば保存されたパレットが使用できます。\n\n余分な情報があるとパレットが正しくセットされませんのでご注意下さい。");
 }
 function PaletteSet(){
 	d = document.Palette
@@ -187,7 +187,7 @@ function PaletteSet(){
 	m = d.m_m.selectedIndex;
 	l = se.length
 	if(l<1){
-		alert("�}�g���N�X��񂪂���܂���B");return
+		alert("マトリクス情報がありません。");return
 	}
 		n = 0;o = 0;e = 0
 	switch(m){
@@ -324,16 +324,16 @@ function GradSelC(){
 	}
 	pe = pe.split("\n");
 	for(n=0;n < l;n++){
-		d.p_st.options[n].style.background = ps[n];
+		d.p_st.options[n].style.background = "ps[n];"
 		d.p_st.options[n].style.color = pe[n];
-		d.p_ed.options[n].style.background = ps[n];
+		d.p_ed.options[n].style.background = "ps[n];"
 		d.p_ed.options[n].style.color = pe[n];
 	}
 }
 function GradView(st,ed){
 	d = document
 	if (! d.grad.view.checked)return
-	 html = "<TABLE BGCOLOR=white cellspacing=0 cellpadding=0><TR><TD colspan=2><TT><font color=#4043AA><B>GRADATION</B></TT></TD></TR><TR><TD><TT><font color=#4043AA>START </TT></TD><TD><FONT COLOR="+st+" SIZE=4>��</FONT></TD></TR><TR><TD><font color=#4043AA><TT>END </TT></TD><TD><FONT COLOR="+ed+" SIZE=4>��</FONT></TD></TR></TABLE>";
+	 html = "<TABLE BGCOLOR=white cellspacing=0 cellpadding=0><TR><TD colspan=2><TT><font color=#4043AA><B>GRADATION</B></TT></TD></TR><TR><TD><TT><font color=#4043AA>START </TT></TD><TD><FONT COLOR="+st+" SIZE=4>■</FONT></TD></TR><TR><TD><font color=#4043AA><TT>END </TT></TD><TD><FONT COLOR="+ed+" SIZE=4>■</FONT></TD></TR></TABLE>";
 	  if(d.layers) {
 	     with(d.layers["psft"]){
 	     	left = window.innerWidth - 120
@@ -370,7 +370,7 @@ function showHideLayer() { //v3.0
  }
 }
 //-->
-</Script><NOSCRIPT><H3>JavaScript���L���łȂ����ߐ���ɓ���v���܂���</H3></NOSCRIPT>
+</Script><NOSCRIPT><H3>JavaScriptが有効でないため正常に動作致しません</H3></NOSCRIPT>
 <body bgcolor="#99CCFF" text="#FFFFFF" link="#003399" vlink="#FFFFFF" alink="#11FF11" OnLoad="GetPalette();">
 <CENTER><BR>
 <TABLE><TR><TD> 
@@ -409,35 +409,35 @@ function showHideLayer() { //v3.0
 <param name="poo" value="false">
 
 
-</APPLET></TD><FORM name="Palette"><TD ALIGN="CENTER" VALIGN="top"><BR><BR><BR><BR><BR><TABLE BGCOLOR="#4043AA" CELLPADDING="1" CELLSPACING="0" width=100%><TR><TD><TABLE BGCOLOR="#99CCFF" CELLPADDING="3" CELLSPACING="0" width=100%><TR><TD><FONT SIZE=2><font face="Impact, Arial Black" color="#4043AA" size="2">PALETTE</font> <INPUT CLASS=button TYPE=button VALUE="�ꎞ�ۑ�" OnClick="PaletteSave()"><BR><select name="select" size="13" CLASS=button onChange="setPalette()">
-<option>�ꎞ�ۑ��p���b�g</option>
-<option>���F�n</option>
-<option>�Ԍn</option>
-<option>���E��n</option>
-<option>�Όn</option>
-<option>�n</option>
-<option>���n</option>
-<option>�Z�s�A</option>
-<option>�l��</option>
-<option>�p�X�e��</option>
-<option>�����̑�n</option>
-<option>�G���T�N��</option>
-<option>���m�N��</option>
+</APPLET></TD><FORM name="Palette"><TD ALIGN="CENTER" VALIGN="top"><BR><BR><BR><BR><BR><TABLE BGCOLOR="#4043AA" CELLPADDING="1" CELLSPACING="0" width=100%><TR><TD><TABLE BGCOLOR="#99CCFF" CELLPADDING="3" CELLSPACING="0" width=100%><TR><TD><FONT SIZE=2><font face="Impact, Arial Black" color="#4043AA" size="2">PALETTE</font> <INPUT CLASS=button TYPE=button VALUE="一時保存" OnClick="PaletteSave()"><BR><select name="select" size="13" CLASS=button onChange="setPalette()">
+<option>一時保存パレット</option>
+<option>肌色系</option>
+<option>赤系</option>
+<option>黄・橙系</option>
+<option>緑系</option>
+<option>青系</option>
+<option>紫系</option>
+<option>セピア</option>
+<option>人物</option>
+<option>パステル</option>
+<option>草原の大地</option>
+<option>萌えサクラ</option>
+<option>モノクロ</option>
 </select><BR>
-<INPUT CLASS=button TYPE=button VALUE="�쐬" OnClick="PaletteNew()">
-<INPUT CLASS=button TYPE=button VALUE="�ύX" OnClick="PaletteRenew()">
-<INPUT CLASS=button TYPE=button VALUE="�폜" OnClick="PaletteDel()"><BR>
-<INPUT CLASS=button TYPE=button VALUE="���{" OnClick="P_Effect(10)">
-<INPUT CLASS=button TYPE=button VALUE="���|" OnClick="P_Effect(-10)">
-<INPUT CLASS=button TYPE=button VALUE="���]" OnClick="P_Effect(255)">
+<INPUT CLASS=button TYPE=button VALUE="作成" OnClick="PaletteNew()">
+<INPUT CLASS=button TYPE=button VALUE="変更" OnClick="PaletteRenew()">
+<INPUT CLASS=button TYPE=button VALUE="削除" OnClick="PaletteDel()"><BR>
+<INPUT CLASS=button TYPE=button VALUE="明＋" OnClick="P_Effect(10)">
+<INPUT CLASS=button TYPE=button VALUE="明－" OnClick="P_Effect(-10)">
+<INPUT CLASS=button TYPE=button VALUE="反転" OnClick="P_Effect(255)">
 <HR SIZE=1><font face="Impact, Arial Black" color="#4043AA" size="2">MATRIX</font>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<SELECT name="m_m" CLASS=button>
-<option value=0>�S��</option>
-<option value=1>����</option>
-<option value=2>�ǉ�</option>
+<option value=0>全体</option>
+<option value=1>現在</option>
+<option value=2>追加</option>
 </SELECT><BR>
-<INPUT CLASS=button name="m_g" TYPE=button VALUE="�擾" OnClick="PaletteMatrixGet()">
-<INPUT CLASS=button name="m_s" TYPE=button VALUE="�Z�b�g" OnClick="PalleteMatrixSet()">
+<INPUT CLASS=button name="m_g" TYPE=button VALUE="取得" OnClick="PaletteMatrixGet()">
+<INPUT CLASS=button name="m_s" TYPE=button VALUE="セット" OnClick="PalleteMatrixSet()">
 <INPUT CLASS=button name="m_h" TYPE=button VALUE=" ? " OnClick="PalleteMatrixHelp()"><BR>
 <TEXTAREA CLASS=button rows="1" name="setr" cols="13" onmouseover="this.select()"></TEXTAREA><BR>
 </TD></TR></TABLE></TD></FORM></TR></TABLE>
@@ -485,7 +485,7 @@ function showHideLayer() { //v3.0
 </TD></TR></TABLE></TD></FORM></TR></TABLE>
 <BR><TABLE CELLPADDING="3" CELLSPACING="0" width=100%><TR>
 <FORM name="fit"><TD align=center>
-<INPUT CLASS=button TYPE=button VALUE="�A�v���b�g�t�B�b�g" OnClick="ResizeWin()">
+<INPUT CLASS=button TYPE=button VALUE="アプレットフィット" OnClick="ResizeWin()">
 </TD></FORM></TR></TABLE>
 </TD></TR></TABLE>
 <table BORDER="0" width="400" CELLPADDING="2" cellspacing="0">
@@ -511,8 +511,8 @@ function showHideLayer() { //v3.0
 <textarea CLASS=button rows="8" name="mesg" cols="53" wrap="soft" tabindex="8"></textarea>
 </td></tr>
 <tr><td colspan="2" ALIGN="right">
-<Font face="Verdana" color="#337399" size="2"> PASSWORD <input CLASS=button type="password" size="8" name="password" value=""> <INPUT TYPE="CheckBOX" NAME="flower" VALUE="1" tabindex="13" title="�t�����[�p�j�b�N" ><Font face="Verdana" color="#337399" size="2"> FlowerPanic </Font>
- <input CLASS=button type="reset" value=" Erase " tabindex="11" title="�S���폜���܂�">&nbsp;
+<Font face="Verdana" color="#337399" size="2"> PASSWORD <input CLASS=button type="password" size="8" name="password" value=""> <INPUT TYPE="CheckBOX" NAME="flower" VALUE="1" tabindex="13" title="フラワーパニック" ><Font face="Verdana" color="#337399" size="2"> FlowerPanic </Font>
+ <input CLASS=button type="reset" value=" Erase " tabindex="11" title="全文削除します">&nbsp;
 </td></tr>
 </form>
 </table>
@@ -520,8 +520,8 @@ function showHideLayer() { //v3.0
 <BR>
 
 
-<fONT SIZE=2>[<a TITLE="�߂�" href="./bbsnote.cgi">BACK</a>]</FONT></CENTER>
+<fONT SIZE=2>[<a TITLE="戻る" href="bbsnote.cgi">BACK</a>]</FONT></CENTER>
 
 
 <HR><DIV ALIGN="RIGHT"><SMALL>
-<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)���������(shi-cyan)</A> </DIV></SMALL></BODY></HTML>
+<A TITLE="WonderCatStudio" HREF="http://www.jttk.zaq.ne.jp/wcs2/" TARGET="_blank">BBS NOTE 7.12</A> <SPAN TITLE="Basic Ver.1122"><b>Basic</b></SPAN>&nbsp;<BR>Client Program <A HREF="http://www.gt.sakura.ne.jp/~ocosama/" TARGET="_blank">(C)しぃちゃん(shi-cyan)</A> </DIV></SMALL></BODY></HTML>

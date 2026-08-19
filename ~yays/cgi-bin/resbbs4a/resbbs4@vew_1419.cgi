@@ -1,140 +1,140 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�w�ǂ������ǂ����x>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:『どっちがどっち』>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1419>
 <input type=hidden name=ress value=1419>
-<input type=submit value=�w�ǂ������ǂ����x�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=『どっちがどっち』へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1419>
-<font color=#6A5ACD>�w�ǂ������ǂ����x</font></a>
+<font color=#6A5ACD>『どっちがどっち』</font></a>
 <font color=#303030>
-<a href=mailto:kazematuri@muj.biglobe.ne.jp>���՗�</a>
- ����</font>
- <font size=2>2002�N4��8��(��) 20��12��</font>
+<a href=mailto:kazematuri@muj.biglobe.ne.jp>風祭玲</a>
+ さん</font>
+ <font size=2>2002年4月8日(月) 20時12分</font>
 <a href=http://www2u.biglobe.ne.jp/~bell-m/bunko target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1419">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+<a href="resbbs4@vew_1419.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���̏H�A�m�g�j�Łh����ւ��̂��́h�h���}����邻���ł��B<br>�������ȒP�Ȕԑg�̏Љ�����܂������A<br>�u�]�Z���v�̃V�[�����ӂƉ߂���܂����ˁB<br>�i���T�͂���ρh���ꂪ�����Łc�h���ȁH�j<br><br>�o��l���̔N����w���Ȃ̂�������ƈ���������܂����A<br>�ł��������y���݂ȃh���}�ɂȂ肻���ł��B<br><br>���Ȃ݂ɐ���͖��É������ǂ��Ƃ�<br></font></ul>
+<ul><br><font size=3>この秋、ＮＨＫで”入れ替わりのもの”ドラマをやるそうです。<br>さっき簡単な番組の紹介を見ましたが、<br>「転校生」のシーンがふと過ぎりましたね。<br>（原典はやっぱ”おれがあいつで…”かな？）<br><br>登場人物の年齢が小学生なのがちょっと引っかかりますが、<br>でも放送が楽しみなドラマになりそうです。<br><br>ちなみに製作は名古屋放送局だとか<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1420>
-<font color=#6A5ACD>RE:�w�ǂ������ǂ����x</font></a>
+<font color=#6A5ACD>RE:『どっちがどっち』</font></a>
 <font color=#303030>
-���ɂ��
- ����</font>
- <font size=2>2002�N4��9��(��) 2��50��</font>
-<a href="resbbs4.cgi?vew=1420">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�A�x�m�����@���X�X</b>�z</font>
-<ul><font size=3>���̈ȑO����b��ɂȂ��Ă���w�ǂ������ǂ����I�x�ł����B<br>�ǂ̎��Ԃɂǂ���̋�(����������)�ŕ������ꂽ���̂���������<br>���m�ɋ����Ă��炦�Ȃ��ł��傤���H<br>�킽�������̔Ԑ錩�Ă݂����ł��B</font></ul>
+たにやま
+ さん</font>
+ <font size=2>2002年4月9日(火) 2時50分</font>
+<a href="resbbs4@vew_1420.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>アベノ橋魔法商店街</b>】</font>
+<ul><font size=3>この以前から話題になっている『どっちがどっち！』ですが。<br>どの時間にどちらの局(総合か教育)で放送されたものかもう少し<br>正確に教えてもらえないでしょうか？<br>わたしもその番宣見てみたいです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1425>
-<font color=#6A5ACD>RE:�w�ǂ������ǂ����x</font></a>
+<font color=#6A5ACD>RE:『どっちがどっち』</font></a>
 <font color=#303030>
-���ɂ��
- ����</font>
- <font size=2>2002�N4��21��(��) 22��58��</font>
-<a href="resbbs4.cgi?vew=1425">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�~�����Ń|���I</b>�z</font>
-<ul><font size=3>���̔Ԑ��13���ɂ��������炵���ł����A���͂�ق�<br>�^���Ȃ��̂��Ȃ��Ȃ��߂��肠���܂���B<br><br>������������ƃl�b�g��ł��\�[�X���������łĂ���<br>�݂����ł��B<br>����̏o�ŎЃT�C�g�̏��<br><a href=http://www.rironsha.co.jp/event/event1.html target=_top>http://www.rironsha.co.jp/event/event1.html</a><br>���̎q���̔ѓc���S�̃��b�Z�[�W<br><a href=http://wing.zero.ad.jp/~zbj14871/mmg.html target=_top>http://wing.zero.ad.jp/~zbj14871/mmg.html</a><br></font></ul>
+たにやま
+ さん</font>
+ <font size=2>2002年4月21日(日) 22時58分</font>
+<a href="resbbs4@vew_1425.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>ミルモでポン！</b>】</font>
+<ul><font size=3>この番宣は13日にもあったらしいですが、私はよほど<br>運がないのかなかなかめぐりあえません。<br><br>ただ検索するとネット上でもソースがいくつかでてきた<br>みたいです。<br>原作の出版社サイトの情報<br><a href=http://www.rironsha.co.jp/event/event1.html target=_top>http://www.rironsha.co.jp/event/event1.html</a><br>女の子役の飯田美心のメッセージ<br><a href=http://wing.zero.ad.jp/~zbj14871/mmg.html target=_top>http://wing.zero.ad.jp/~zbj14871/mmg.html</a><br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1426>
-<font color=#6A5ACD>RE:�w�ǂ������ǂ����x</font></a>
+<font color=#6A5ACD>RE:『どっちがどっち』</font></a>
 <font color=#303030>
-�^�Q�p
- ����</font>
- <font size=2>2002�N4��22��(��) 0��24��</font>
-<a href="resbbs4.cgi?vew=1426">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�n�Z�K������o��炵���u�P/�V�Q�@�u�e�|�P�@�o�g���C�h�@�v�Ɩ��������́u�}�X�^�[�O���[�h�@�U�N�e�Q�v</b>�z</font>
-<ul><font size=3>�u�e���r�ł̌���ł�ڎw���A���삵�܂��B�����҂��������I�v�Ƃ���܂��ˁB<br>�ߋ��́u���j�h���}�����h�v��u���ی�v�𓥂܂�����ł̌���łƂ������ł��傤���B�ӋC���݂��������ėǂ��ł��ˁB���҂��܂��傤�B<br><br>����ς�}�M�[�i�Y������ւ��̌����ɂȂ񂩂�̊ւ��������Ă��ł��傤���B</font></ul>
+真ゲＱ
+ さん</font>
+ <font size=2>2002年4月22日(月) 0時24分</font>
+<a href="resbbs4@vew_1426.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>ハセガワから出るらしい「１/７２　ＶＦ－１　バトロイド　」と明日発売の「マスターグレード　ザクＦ２」</b>】</font>
+<ul><font size=3>「テレビ版の決定版を目指し、制作します。ご期待ください！」とありますね。<br>過去の「月曜ドラマランド」や「放課後」を踏まえた上での決定版という事でしょうか。意気込みが感じられて良いですね。期待しましょう。<br><br>やっぱりマギー司郎が入れ替わりの原因になんからの関わりを持ってるんでしょうか。</font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=1421>
-<font color=#6A5ACD>RE:�w�ǂ������ǂ����x</font></a>
+<font color=#6A5ACD>RE:『どっちがどっち』</font></a>
 <font color=#303030>
-�^�Q�p
- ����</font>
- <font size=2>2002�N4��9��(��) 11��59��</font>
-<a href="resbbs4.cgi?vew=1421">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�}�X�^�[�O���[�h�E�V���C�j���O�K���_��</b>�z</font>
-<ul><font size=3>���՗悳�񂪏������܂�Ă��鎞�ԑт���@����ƁA�����e���r�̌ߌ�V�F�T�T�́u�e���}�b�v�v��������܂���B�������A���ɂ��ɂ���Ď��ԑтƓ��e���قȂ�̂ŁA�m�g�j�ɖ₢���킹�Ă݂�̂��ǂ���������܂���ˁB<br><br>�ł��A����T�̓y�j���ɐV�����u�Y�b�R�P�O�l�g�v���n�܂����Ƃ���Ȃ̂ɁA�������̃V���[�Y�̔Ԑ邪��������Ă�Ȃ�đ����ł��ˁB </font></ul>
+真ゲＱ
+ さん</font>
+ <font size=2>2002年4月9日(火) 11時59分</font>
+<a href="resbbs4@vew_1421.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>マスターグレード・シャイニングガンダム</b>】</font>
+<ul><font size=3>風祭玲さんが書き込まれている時間帯から察すると、総合テレビの午後７：５５の「テレマップ」かもしれません。しかし、日にちによって時間帯と内容が異なるので、ＮＨＫに問い合わせてみるのが良いかもしれませんね。<br><br>でも、つい先週の土曜日に新しい「ズッコケ三人組」が始まったところなのに、もう次のシリーズの番宣が放送されてるなんて早いですね。 </font></ul>
 <HR>
 <input type=checkbox name=delcode value=1427>
-<font color=#6A5ACD>RE:�w�ǂ������ǂ����x</font></a>
+<font color=#6A5ACD>RE:『どっちがどっち』</font></a>
 <font color=#303030>
-�V���C�j���O�E�t�B���K�[�T
- ����</font>
- <font size=2>2002�N5��5��(��) 15��25��</font>
-<a href="resbbs4.cgi?vew=1427">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>�������u�ǂ������ǂ����I�v�i�O�O�j</b>�z</font>
-<ul><font size=3>�����l�b�g�ł��낢�댟�����Ă݂���A�w�V���̋L���ɂ��Ɩ𖼂́u��肩�v�Ńo���G�����Ƃ̂��ƁB�܂��A�_���̃V�[��������悤�ŁA���\�ȃZ���t�ɂ��Ɍ҂ł̉��Z�Ƃ����ăt�@���͑傢�ɋC�ɂȂ�Ƃ���ł��B�x���ăR�����g�������܂����B�������ꂾ���Ō�юO�t�i�΁j�B<br></font></ul>
+シャイニング・フィンガー５
+ さん</font>
+ <font size=2>2002年5月5日(日) 15時25分</font>
+<a href="resbbs4@vew_1427.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>もちろん「どっちがどっち！」（＾＾）</b>】</font>
+<ul><font size=3>私もネットでいろいろ検索してみたら、『新聞の記事によると役名は「りりか」でバレエ少女とのこと。また、柔道のシーンもあるようで、乱暴なセリフにがに股での演技とあってファンは大いに気になるところです。』ってコメントを見つけました。もうこれだけで御飯三杯（笑）。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1442>
-<font color=#6A5ACD>RE:�w�ǂ������ǂ����x</font></a>
+<font color=#6A5ACD>RE:『どっちがどっち』</font></a>
 <font color=#303030>
-<a href=mailto:taniyamac@excite.co.jp>���ɂ��</a>
- ����</font>
- <font size=2>2002�N5��25��(�y) 22��25��</font>
+<a href=mailto:taniyamac@excite.co.jp>たにやま</a>
+ さん</font>
+ <font size=2>2002年5月25日(土) 22時25分</font>
 <a href=http://www.geocities.co.jp/Bookend-Hemingway/3972/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1442">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>�W���b�N���W���l�i���[���V��j�̑Җ]�̐V��I</b>�z</font>
-<ul><font size=3><a href=http://www.city.seto.aichi.jp/setomono/kankou/event/topics/2203nhk/ target=_top>http://www.city.seto.aichi.jp/setomono/kankou/event/topics/2203nhk/</a><br>���܂łň�ԏڂ������ł���B�������B���҂͖c��ވ���B<br>�P�Ȃ����ւ���12������������񂾂낤���H�Ǝv����<br>�������ǁA��i�t���Ă̂����Ȃ�ł��ˁB�y���݂Ŏ��ɂ������B</font></ul>
+<a href="resbbs4@vew_1442.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>ジャック＆ジュネ（八房龍之介）の待望の新作！</b>】</font>
+<ul><font size=3><a href=http://www.city.seto.aichi.jp/setomono/kankou/event/topics/2203nhk/ target=_top>http://www.city.seto.aichi.jp/setomono/kankou/event/topics/2203nhk/</a><br>今までで一番詳しい情報ですよ。うおお。期待は膨らむ一方。<br>単なる入れ替わりで12回も引っ張れるんだろうか？と思って<br>いたけど、手品師ってのが鍵なんですね。楽しみで死にそうだ。</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

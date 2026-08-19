@@ -1,75 +1,75 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�Y����i�̏ڍ�>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:該当作品の詳細>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=72409><BR>
-<img SRC="out.png?31672409"> ����4���̐����𔼊p�����œ��͂��Ă�������: <input type="text" size=8 name="captcha"><br> <br>
-���܋C�ɂȂ�
+<img SRC="out@31672409.png"> 左の4桁の数字を半角数字で入力してください: <input type="text" size=8 name="captcha"><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2778>
 <input type=hidden name=ress value=2781>
-<input type=submit value=�Y����i�̏ڍׂ֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=該当作品の詳細へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2781>
-<font color=#6A5ACD>RE:�Y����i�̏ڍ�</font></a>
+<font color=#6A5ACD>RE:該当作品の詳細</font></a>
 <font color=#303030>
 N-Tipe33
- ����</font>
- <font size=2>2006�N10��18��(��) 11��3��</font>
-<a href="resbbs4.cgi?vew=2781">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>���`</b>�z</font>
+ さん</font>
+ <font size=2>2006年10月18日(水) 11時3分</font>
+<a href="resbbs4@vew_2781.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>妹汁</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>����ɂ��́A�����̃��X���ӂ��܂��BN-Tipe33�ł��B<br><br>��_�Y��Ă��܂����B�����A�g���G������ŊY���́E�E�E<br>�E�܂ق���(��l���@���q���u�@�����ɂ��􂢂ŏ������@�{�C�X����)<br>���}�W�J���E�B�b�`�A�J�f�~�[���{�C�X�͖������A�h�L�h�L���o����͂���B<br><br>�����̊Y����i�A���ӂ��܂��B�������A�g���G������ŊY���́E�E�E<br>�E���`(�I�i�j�[�V�[������B���ɃG�s���[�O�ő劈��H�I��Ԃ��C�ɓ���)<br>�E�o�`(�I�i�j�[�V�[���Ȃ��B�E�T�M����̃A�b�v���P�̉����ɖG����I)<br>�E�}�W�J���E�B�b�`�A�J�f�~�[(�V�����B�A�҂ŊY��)<br><br>����ɁA�A�j���ŊY���́E�E�E<br>�E���`�Q��(�Ō�̏I�����ɋ^�₪�c��l������)<br>�E�o�`�H��(���N��12��22����1�����ł܂����A���炭�����łł邩�ȁH�j<br><br>�A�j�����A����ȏ�͊Y�����Ȃ��̂ł��傤���H�H<br><br>&gt;&gt;�ʂ肷����̐_���l���� <br>�}�W�J���E�B�b�`�A�J�f�~�[�̏����ł͂܂����Ă��Ȃ��̂ŁA�����w���������Ǝv���܂��B���L��������܂��B<br><br>&gt;&gt;�Ǘ��l�l<br>�A�g���G������̍�i�ł́A���x���̍���TS�Y����i������������̂ō���Ƃ��`�F�b�N���Ă��������ł��ˁB�ߋ��̍�i�ŁA�Y����i����L�ȊO�ɖ������A���m�荇���̕������܂����炨�肢���܂��B<br><br>��L�ȊO�̊Y����i���A�m���Ă���Ƃ������͐��񂲋��͉������B���肢���܂��B</font></ul>
+<ul><br><font size=3>こんにちは、早速のレス感謝します。N-Tipe33です。<br><br>一点忘れていました。同じアトリエかぐやで該当は・・・<br>・まほこい(主人公　沙倉誠志　悪魔による呪いで女性化　ボイス無し)<br>＊マジカルウィッチアカデミーもボイスは無いが、ドキドキお姉さんはあり。<br><br>小説の該当作品、感謝します。同じくアトリエかぐやで該当は・・・<br>・妹汁(オナニーシーンあり。特にエピローグで大活躍？！一番お気に入り)<br>・姉汁(オナニーシーンなし。ウサギさんのアップリケの下着に萌えよ！)<br>・マジカルウィッチアカデミー(シルヴィア編で該当)<br><br>さらに、アニメで該当は・・・<br>・妹汁２巻(最後の終わり方に疑問が残る人が多い)<br>・姉汁？巻(今年の12月22日に1巻がでますが、恐らく次巻ででるかな？）<br><br>アニメも、これ以上は該当しないのでしょうか？？<br><br>&gt;&gt;通りすがりの神父様さん <br>マジカルウィッチアカデミーの小説版はまだ見ていないので、早速購入したいと思います。情報有難うございます。<br><br>&gt;&gt;管理人様<br>アトリエかぐやの作品では、レベルの高いTS該当作品が数多くあるので今後ともチェックしていきたいですね。過去の作品で、該当作品が上記以外に無いか、お知り合いの方がいましたらお願いします。<br><br>上記以外の該当作品を、知っているという方は是非ご協力下さい。お願いします。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

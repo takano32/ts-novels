@@ -1,136 +1,136 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1008775554xlqfgq&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1008775554xlqfgq_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�铒�`����͂����ɂ���`</font><br>
+<font size="+2" color="#0000FF">秘湯～夢蛾はここにいる～</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/20002028/hitou.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/12/20 00:25:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/20002028/hitou.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/12/20 00:25:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008775554xlqfgq&id2=1008775554xlqfgq&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008775554xlqfgq_id2_1008775554xlqfgq_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ꌩ�Ɨ��������b�̂悤�ł����A���͉��n�������Ƒ��݂��܂��B���̋@��ɓǂ�ł݂ẮH<BR><BR>�y���F���Łz<BR><a href="http://www14.big.or.jp/~yays/library/novel/yellow.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/yellow.html</a><BR>
+一見独立したお話のようですが、実は下地がちゃんと存在します。この機会に読んでみては？<BR><BR>【黄色い闇】<BR><a href="../../../novel/yellow.html" target="_blank">../../../novel/yellow.html</a><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/20 06:45:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/20 06:45:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008798331jwumbt&id2=1008775554xlqfgq&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008798331jwumbt_id2_1008775554xlqfgq_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����[�A�Ȃ��Ȃ��̃T�X�y���X�ł����B<BR>�������A�d���ȏ����]�ƈ��΂���̉���h�A�s���Ă݂����悤�ȁA�݂����Ȃ��悤�ȁi�΁j�B<BR>����i�̕����ǂ�ł݂܂����B<BR>������܂��A�l�����������i�ł����ˁ[�B
+読んだバイ♪<BR>いやー、なかなかのサスペンスでした。<BR>しかし、妖艶な女性従業員ばかりの温泉宿、行ってみたいような、みたくないような（笑）。<BR>元作品の方も読んでみました。<BR>これもまた、考えさせられる作品でしたねー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�X�e�C����</strong>  <i>2001/12/20 08:58:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ステイメン</strong>  <i>2001/12/20 08:58:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008806327firdjfo&id2=1008775554xlqfgq&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008806327firdjfo_id2_1008775554xlqfgq_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A���낵���E�E�E�I<BR>�����܂�����������Ă��Ȃ��I<BR>�Ƃ��������܂���B<BR>���Ƃ��������͓ǂ߂܂������B<BR>������Ď������h���Lo�X������E�E�E�H<BR>�܂������z���[�ł�����B(����������)
+お、恐ろしい・・・！<BR>字がまったく書かれていない！<BR>としか見えません。<BR>あとがきだけは読めましたが。<BR>これって自分がドリキoスだから・・・？<BR>まさしくホラーでしたよ。(ちがうって)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2001/12/20 12:21:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2001/12/20 12:21:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008818507ifvxjtr&id2=1008775554xlqfgq&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008818507ifvxjtr_id2_1008775554xlqfgq_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂ���<BR>�X�e�C�������܁�<BR><a href="http://www.pluto.dti.ne.jp/~kebochin/Return%20of%20the%20yellows.HTML" target="_blank">http://www.pluto.dti.ne.jp/~kebochin/Return%20of%20the%20yellows.HTML</a><BR>���ꂾ�ƌ���܂����H<BR>�ȑO���������̂ł����A���̂������Ǝ��܃h���L���X�Ō���Ȃ��̂�����悤�ł��B<BR>�����́E�E�E�E���ɂ͂킩��܂���i�E�E�E�j<BR>�ꉞ�^�O���������Ă݂܂����B<BR>�������ƃI�b�P�[�Ȃ�ł����E�E�E<BR>�ł́B���݂܂���<BR>
+こんにちは<BR>ステイメンさま＞<BR><a href="http://www.pluto.dti.ne.jp/~kebochin/Return%20of%20the%20yellows.HTML" target="_blank">http://www.pluto.dti.ne.jp/~kebochin/Return%20of%20the%20yellows.HTML</a><BR>これだと見れますか？<BR>以前もあったのですが、私のやり方だと時折ドリキャスで見れないのがあるようです。<BR>原因は・・・・私にはわかりません（・・・）<BR>一応タグをいじってみました。<BR>ｐｃだとオッケーなんですが・・・<BR>では。すみません<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/12/20 21:33:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/12/20 21:33:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008851600yitnsd&id2=1008775554xlqfgq&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008851600yitnsd_id2_1008775554xlqfgq_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ������B���̉��F���ł̉邽�����ӂ����сB<BR>����ς莀��ł��Ȃ������̂��B�ނ�ɘA�����Ȃ��ẮE�E�E
+なつかしい。あの黄色い闇の蛾たちがふたたび。<BR>やっぱり死んでいなかったのか。彼らに連絡しなくては・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/12/21 00:05:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/12/21 00:05:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008860750dewaf&id2=1008775554xlqfgq&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008860750dewaf_id2_1008775554xlqfgq_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ς�ʔ����Ȃ��Ǝv���܂��B�׋��ɂȂ�܂���B<BR>�j�d�a�n����̍�i�͓ǂ񂾌�Ȃɂ��c���ł����ˁB<BR>�����̍�i���y���݂ɂ��Ă��܂��̂ŁA�܂������Ă��������B
+やっぱり面白いなぁと思います。勉強になりますよ。<BR>ＫＥＢＯさんの作品は読んだ後なにか残るんですよんね。<BR>次ぎの作品も楽しみにしていますので、また見せてください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤���{��S��</strong>  <i>2001/12/21 01:03:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう＠本作担当</strong>  <i>2001/12/21 01:03:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008864231oetodgs&id2=1008775554xlqfgq&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008864231oetodgs_id2_1008775554xlqfgq_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�X�e�C��������<BR>�������܂�����������Ă��Ȃ��I<BR>������Ɍf�ڂ��������^�O��ύX���Ă݂܂����B<BR>�����悯��Ό�����悤�ɂȂ������񍐂���������Ɗ������ł��B
+ステイメンさん<BR>＞字がまったく書かれていない！<BR>こちらに掲載した方もタグを変更してみました。<BR>もしよければ見られるようになったか報告いただけると嬉しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�X�e�C����</strong>  <i>2001/12/21 20:09:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ステイメン</strong>  <i>2001/12/21 20:09:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008932984xeaxit&id2=1008775554xlqfgq&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008932984xeaxit_id2_1008775554xlqfgq_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�ψ���l���j�d�a�n�l<BR>�ǂ߂܂�����`�B<BR>�ƂĂ��ʔ��������ł��B<BR>���F���ł��߂������ɓǂ܂˂΁E�E�E�B<BR>����͂�����(��)
+&gt;委員会様＆ＫＥＢＯ様<BR>読めましたよ～。<BR>とても面白かったです。<BR>黄色い闇も近いうちに読まねば・・・。<BR>温泉はいいね(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2001/12/22 00:06:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2001/12/22 00:06:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1008947165ekxdtb&id2=1008775554xlqfgq&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1008947165ekxdtb_id2_1008775554xlqfgq_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂ���<BR><BR>���ǂ񂾃o�C<BR>���₠�A���x�̂��Ƃ������Ȋ��z�𒸂��������܂��B�i�����m�F����O�ł�����ˁE�E�E�j<BR>���̑O�A�i�Ƃ����Ă�������N�ȏ�O�j�����s��������h�́A�݂��؂蕗�C��������̂̂�͂�x�e���������]�ƈ��΂���ł����i�΁j<BR><BR>�悵��������<BR>�t�H�b�t�H�b�t�H�E�E�E�A�����Ă݂邪��낵��<BR>�ނ�����ǂ��ق��č����グ��䂦�̂��A�t�H�b�t�H�b�t�H<BR><BR>�������@����������<BR>����ȂɖJ�߂��Ă������o�܂����i���j<BR>�Ƃ肠�����A�ǂ񂾌�Ɂu������Ȃ��v���c��Ȃ��悤�Ɋ撣��܂��ˁB<BR>�ǂ�����낵��<BR><BR>�X�e�C�������܁�<BR>���̓x�͂��萔�����܂��Đ\����Ȃ��ł��E�E�E<BR>���̉邳��A���F���ł����łȂ��悵��������̂��b�ɂ��o�Ă���̂œǂ܂�Ă݂ĉ������B<BR>������̂��b���ʔ����ł���B�i�E�E�E�E�I�H�j<BR><BR>�ł͂܂�
+こんにちは<BR><BR>＞読んだバイ<BR>いやあ、毎度のごとく光速な感想を頂き恐れ入ります。（私が確認する前ですからね・・・）<BR>この前、（といってももう一年以上前）私が行った温泉宿は、貸し切り風呂があるもののやはりベテラン女性従業員ばかりでした（笑）<BR><BR>よしおかさん＞<BR>フォッフォッフォ・・・連絡してみるがよろしい<BR>彼らも仲良く雇って差し上げるゆえのう、フォッフォッフォ<BR><BR>あおき　あきおさん＞<BR>そんなに褒められても何も出ませんよ（爆）<BR>とりあえず、読んだ後に「物足りない」が残らないように頑張りますね。<BR>どうぞよろしく<BR><BR>ステイメンさま＞<BR>この度はお手数かけまして申し訳ないです・・・<BR>この蛾さん、黄色い闇だけでなくよしおかさんのお話にも出てくるので読まれてみて下さい。<BR>あちらのお話も面白いですよ。（・・・・！？）<BR><BR>ではまた
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�X�e�C����</strong>  <i>2001/12/30 20:00:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ステイメン</strong>  <i>2001/12/30 20:00:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009710040ldayuy&id2=1008775554xlqfgq&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009710040ldayuy_id2_1008775554xlqfgq_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���F���ł��ǂ݂܂����B<BR>����ق�Ɛl�Ԃ��ė~�[��<BR>�L���r���̎�l�������Ƃ����B<BR>�ł�����Ȃ獡��̎��ɂ�����Ȃ��̂��ȁH<BR>�A���Ƃ��A����Ƃ��ˁB<BR>�܂�������́A�ǂ�ł݂����ł��ˁB
+黄色い闇も読みました。<BR>いやほんと人間って欲深♪<BR>記憶喪失の主人公がいとあわれ。<BR>でもこれなら今後の事にも困らないのかな？<BR>アレとか、あれとかね。<BR>また夢蛾もの、読んでみたいですね。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1008775554xlqfgq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -2,39 +2,39 @@
 <head>
 <STYLE TYPE="text/css">
 <!--
-/*�g�̒�`*/
+/*枠の定義*/
 TABLE#id1 {border-style: double; border-color: #999999; background-color: #B8B8DC}
-/*�ꗗ�̕��̒�`*/
+/*一覧の舞閧ﾌ定義*/
 TR#tr2 {background-color: #aaaaaa}
-/*�ꗗ�̋L�����̒�`*/
+/*一覧の記事欄の定義*/
 TR#tr3 {background-color: #eeeeee}
 TH#th1 {font-size:12pt}
 TD#td1 {font-size:9pt}
-/*FORM INPUT BOX�̒�`*/
+/*FORM INPUT BOXの定義*/
 INPUT {border-color:#999999;border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SELECT BOX�̒�`*/
+/*FORM SELECT BOXの定義*/
 SELECT {border-width:midium;background-color: #FFE6FF;
 border-style: solid}
-/*FORM SUBMIT�{�^���̒�`*/
+/*FORM SUBMITボタンの定義*/
 .d1 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ffff00; font-weight: bolder;
  border-width:thick;cursor:hand}
-/*FORM SUBMIT�{�^���̒�`*/
+/*FORM SUBMITボタンの定義*/
 .d2 {background-color: #0000a0;border-style: double; border-color:#555555;
  color: #ff00ff;font-weight: bolder; border-width:thick;cursor:hand}
-/*FORM RADIO CHECK BOX�̒�`*/
+/*FORM RADIO CHECK BOXの定義*/
 .d3 {border-style: double;background-color: #ffff80;border-color:#999999}
-/*���eFORM�̈ꕔ�̒�`*/
+/*投稿FORMの一部の定義*/
 .d4 {background-color: #999999; font-size:13pt}
-/*��i�^�C�g������̒�`(�^�C�g���ɔw�i�F�����Ȃ��ꍇ�Abackground-color:#eeeeee���폜)*/
+/*作品タイトル侮ｦの定義(タイトルに背景色を入れない場合、background-color:#eeeeeeを削除)*/
 .d5 {font-size:30pt;font-weight:bold;background-color:#eeeeee}
-/*��i���e�̕����`*/
+/*作品内容の侮ｦ定義*/
 .d6 {font-size:13pt}
-/*FORM TEXTAREA�̒�`*/
+/*FORM TEXTAREAの定義*/
 TEXTAREA {border-color:#999999;background-color: #FFE6FF;border-style:
  solid;border-width:midium;background-image:URL(./textbg.gif)}
-/*�����N�F�̐ݒ�*/
+/*リンク色の設定*/
 A:link{ color:blue }
 A:visited{ color:gray }
 A:active{ color:green }
@@ -43,90 +43,90 @@ A{TEXT-DECORATION:NONE};
 .off {color: #555555;font-style: normal }
 -->
 </STYLE>
-<title>���F����</title>
+<title>桃色文庫</title>
 </head>
-<body bgcolor="#F9E5EF" background="./bg_f.gif" text="#CC3399" link="#3366CC">
+<body bgcolor="#F9E5EF" background="bg_f.gif" text="#CC3399" link="#3366CC">
 <center>
 <table width=90% cellspacing=10><tr>
 <td align=center class="d5">
 <font style="color:#800040">
-�A�L���̎���E�p������END �i�q�J���̌�j
+アキラの事情・パラレルEND （ヒカルの碁）
 </font>
 </td>
 </tr>
 <tr>
 <td class="d6">
 <font style="color:#800040">
-�i�u����A�L���̎���v�̃p����������������k�ł��j<br><br>�@�Ƃ�����j���B<br>�@���܂₷�����蓃��Ƃ̓���݊�ƂȂ����i�������A�����������ɃA�L���̕����ւƂ������Ă���B<br>�@�q�J���͏��e�ɔ������܂ɕ�܂ꂽ�i��������Ă����B<br>�u�A���L�����I�v<br>�u�m�A�m�b�N���炢����I�v<br>�@���ւ��r���������A�L���́A�u���ɕ�܂ꂽ�����B�����ƃg���[�i�[�������Ɉ����񂹂��B<br>�@�V���c�̉��������̂܂܂��ƃq�J�������������Ȃ��Ƃ����̂ŁA�ŋ߂ɂȂ��Ē�����悤�ɂȂ����u���������B<br>�@�A�L���������t���Ă�̂ɂ��\�킸�A�q�J���͎����Ă����������܂����������ƊJ���B<br>�u�������̔����Ă����񂾁B�����I�v<br>�@���������ăq�J�������o�����̂́A�����̃h���X�������B<br>�@�V�b�N�ȍ��̃h���X�ŁA���n�̃G�v�������킳���Ă���B���Ԉ�ʂł����u�G�v�����h���X�v���邢�́u���C�h����̕��v�ł���B�������A���p���j�S���������邱�Ƃ��d�����ăf�U�C�����ꂽ�G�����C�h���������B<br>�u�i���c�c�Ȃ񂾁A����́H�v<br>�u�v���[���g����B�Ȃ��A���Ă݂āA���Ă݂āv<br>�@�ڂ��P�����ăq�J���͗v������B<br>�@���N���ɂȂ��ăq�J���ɂ��t�F�`�S�Ƃ������������̂����܂��悤�ɂȂ��Ă����̂ł���B�i���C�h�t�F�`�Ȃ̂��I�H�j<br>�u���Ƃ��v<br>�@�₽���p������A�L���B<br>�@���A���̂��炢�ň���������q�J���ł͂Ȃ��B<br>�u���ނ�A�A�L���B���ꒅ�āA�f�[�g�ɂ��������v<br>�u���Ƃ�������A���Ƃ��B����������G�����C�h����Ȃ����I�v<br>�u�Ȃ񂾂�A�������������Ă��Ă�����̂Ɂc�c�����v<br>�u�܂������B����Ƃ�����߂����v<br>�u��������B�����Ȃ�����A�͂Â��ŁI�v<br>�u�ȁI�H�@��A��߂��������������������c�c�v<br>�@<br>�@�ܕ���B<br>�@�ǂ��΂��Ɗi���̖��A�ނ���G�v�����h���X�𒅂���ꂽ�A�L���̎p�������ɂ������B<br>�u���������A�f�[�g�f�[�g�I�v<br>�@��񂽂����C���Ńq�J���������B<br>�u�i���ɂ���Ȋi�D�����͌��������Ȃ������c�c�v<br>�@�G�����C�h�p�̃A�L���͐O�����ށB<br>�u�ȂɌ����Ă�̂��I�@�΂����肾��A�A�L���I�v<br>�@�q�J���Ɏ���������܂܊O�ɘA��o����A���ǂȂ��������Ƀ��C�h���̂܂܃f�[�g�R�[�X�������񂳂ꂽ�A�L���������B<br><br>�@���Ȃ݂ɁA�o��ł��܂��܃A�L�������C�h�o�[�W������ڌ�����������i�i���΁E�Ɛg�j�͂��̏�ő�ʂ̕@���𐁂��ē|�ꂽ�Ƃ����B�ǂ���珏����i�I�ɂ̓G�����C�h���������c�{�������悤�ł���B<br>�@���̌�A������i�͓���A�L���Ƃ̑΋ǂ������������Ƃ���悤�ɂȂ����Ƃ������A����͂܂��ʂȘb�ł���B<br><br>�@���Ȃ݂ɂ��̌�A�q�J�����V�����[���тĂ邤���ɃA�L���������B���Ă��܂��A�q�J���̓G�����C�h�����ĉƂ܂ŋA��͂߂ɂȂ�̂ł����B<br><br>�i���j
+（「塔矢アキラの事情」のパラレルくさい後日談です）<br><br>　とある日曜日。<br>　いまやすっかり塔矢家の馴染み顔となった進藤が挨拶もそこそこにアキラの部屋へとあがってくる。<br>　ヒカルは小脇に買い物袋に包まれた品物を抱えていた。<br>「アっキラぁ！」<br>「ノ、ノックくらいしろ！」<br>　着替え途中だったアキラは、ブラに包まれた胸を隠そうとトレーナーを胸元に引き寄せた。<br>　シャツの下が生乳のままだとヒカルが落ち着かないというので、最近になって着けるようになったブラだった。<br>　アキラが眉を逆立てるのにも構わず、ヒカルは持ってきた買い物袋をがさごさと開く。<br>「いいもの買ってきたんだ。じゃん！」<br>　そう言ってヒカルが取り出したのは、女物のドレスだった。<br>　シックな紺のドレスで、白地のエプロンが被さっている。世間一般でいう「エプロンドレス」あるいは「メイドさんの服」である。しかも、実用より男心をくすぐることを重視してデザインされたエロメイド服だった。<br>「進藤……なんだ、これは？」<br>「プレゼントだよ。なあ、着てみて、着てみて」<br>　目を輝かせてヒカルは要求する。<br>　お年頃になってヒカルにもフェチ心とかそういうものが生まれるようになっていたのである。（メイドフェチなのか！？）<br>「ことわる」<br>　冷たく却下するアキラ。<br>　が、そのくらいで引き下がるヒカルではない。<br>「頼むよ、アキラ。これ着て、デートにいこうぜ」<br>「ことわるったら、ことわる。しかもそれエロメイドじゃないか！」<br>「なんだよ、せっかく買ってきてやったのに……ちぇ」<br>「まったく。やっとあきらめたか」<br>「いいもん。こうなったら、力づくで！」<br>「な！？　や、やめええええええええええ……」<br>　<br>　五分後。<br>　どたばたと格闘の末、むりやりエプロンドレスを着せられたアキラの姿がそこにあった。<br>「さあさっ、デートデート！」<br>　るんたった気分でヒカルが促す。<br>「進藤にこんな格好だけは見せたくなかった……」<br>　エロメイド姿のアキラは唇を噛む。<br>「なに言ってんのさ！　ばっちりだよ、アキラ！」<br>　ヒカルに手を引かれるまま外に連れ出され、結局なしくずしにメイド服のままデートコースを引き回されたアキラだった。<br><br>　ちなみに、出先でたまたまアキラ＠メイドバージョンを目撃した緒方九段（二九歳・独身）はその場で大量の鼻血を吹いて倒れたという。どうやら緒方九段的にはエロメイドが激しくツボだったようである。<br>　その後、緒方九段は塔矢アキラとの対局をたいそう苦手とするようになったというが、それはまた別な話である。<br><br>　ちなみにこの後、ヒカルがシャワー浴びてるうちにアキラが服を隠してしまい、ヒカルはエロメイド服着て家まで帰るはめになるのでした。<br><br>（完）
 </font>
 </td>
 </tr>
 <tr><td align=right>
 <address>
-<a href=mailto:yays@geocities.co.jp>���b�V���[���d�F</a>
+<a href=mailto:yays@geocities.co.jp>ムッシュー八重洲</a>
 </address>
-2001�N12��08��(�y) 03��08��20�b ���J<br>
+2001年12月08日(土) 03時08分20秒 公開<br>
 <!--23.pool0.ipctokyo.att.ne.jp-->
-�����̍�i�̒��쌠�̓��b�V���[���d�F����ɂ���܂��B���f�]�ڂ͋֎~�ł��B<br>
+■この作品の著作権はムッシュー八重洲さんにあります。無断転載は禁止です。<br>
 </td></tr>
 <tr ID=tr3><td>
 <dl>
-<dt><b>����҂���̃��b�Z�[�W</b>
+<dt><b>■作者からのメッセージ</b>
 <dd>
-���[���C�h����ȃA�L�������邱�ƂȂ���A������i���o�������ď������b�Ƃ����\���B
+えーメイドさんなアキラもさることながら、緒方九段を出したくて書いた話という噂も。
 </dl>
 </td></tr></table>
 <hr width=50% align=center>
 <table width=100%><tr id=tr2>
 <th colspan=4>
-���̍�i�̊��z�����񂹂��������B
+この作品の感想をお寄せください。
 </th></tr>
 <tr id=tr3>
-<td style=font-size:10pt>�q�J�������̎q�ɂ��āA�A�L���������ڌ����ĕ����X�L��</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td>�q�J������������</td>
-<td width=20%>��2002-08-06 22:34:58</td>
+<td style=font-size:10pt>ヒカルを女の子にして、アキラがそれを目撃って方がスキ☆</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td>ヒカルラヴっ娘☆</td>
+<td width=20%>■2002-08-06 22:34:58</td>
 </tr>
 <tr id=tr3>
-<td style=font-size:10pt>������N�̃��C�h�R�X�v�����킢���ł��˂��@���̓q�J�������ׂ��R�X�v������Ƃ����̂͂ǂ��ł��傤�H</td>
-<th width=10%><font color=blue>1</font>�_</th>
-<td width=10%><a href=mailto:eringi@geocities.co.jp>�Ƃ˂肱</a></td>
-<td width=20%>��2001-12-18 15:07:04</td>
+<td style=font-size:10pt>あきら君のメイドコスプレかわいいですねｖ　次はヒカルか佐為がコスプレするというのはどうでしょう？</td>
+<th width=10%><font color=blue>1</font>点</th>
+<td width=10%><a href=mailto:eringi@geocities.co.jp>とねりこ</a></td>
+<td width=20%>■2001-12-18 15:07:04</td>
 </tr>
-<tr id=tr2><td align=right>���v</td><th>
-<font color=blue>2</font>�_
+<tr id=tr2><td align=right>合計</td><th>
+<font color=blue>2</font>点
 </th><td></td><td></td></tr>
 </table>
-<form method=post action=http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi>
+<form method=post action="anthologys.cgi">
 <input type=hidden name=action value=regist2>
 <table border=8>
 <tr>
 <td align=center>
-�����O(�K�{) 
+お名前(必須) 
 <input type=text name=name_r size=30 value="">
 </td>
 <td align=center>
-E-Mail(�C��) 
+E-Mail(任意) 
 <input type=text name=mail_r size=40 value="">
 </td>
 </tr>
 <tr>
 <td colspan=2>
-���b�Z�[�W 
+メッセージ 
 <input type=text name=come_r size=80>
 <select name=point>
-<option value="1">�ǂ�����
-<option value="1">�΂���
-<option value="1">�I���I
-<option value="1">���I
-<option value="0">������Ƒ҂���
+<option value="1">良かった
+<option value="1">笑った
+<option value="1">巧い！
+<option value="1">個性的
+<option value="0">ちょっと待った
 </select>
 </td>
 </tr>
 <tr>
 <td colspan=4 align=center>
-<input type=submit value="    ���e    " class="d1">
-<input type=reset value="  ������  " class="d2">
+<input type=submit value="    投稿    " class="d1">
+<input type=reset value="  書直し  " class="d2">
 <input type=hidden name="res" value="20011208030820">
 <input type=hidden name="num_r" value="20011208030820">
 <input type=hidden name="url" value="">
@@ -139,30 +139,30 @@ E-Mail(�C��)
 </form>
 </center>
 <br><br>
-<a href=http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi?log=>
-<<�߂�</a>
+<a href="anthologys@log_.cgi">
+<<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi">
+<form method="post" action="anthologys.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20011208030820">
 <input type=hidden name="log" value="">
 <td>
-���z�L���폜PASSWORD <input type=password name="pwd" size=8>
-<input type=submit value="�Ǘ��җp" class="d1">
+感想記事削除PASSWORD <input type=password name="pwd" size=8>
+<input type=submit value="管理者用" class="d1">
 </td>
 </form>
-<form method=post action=http://www14.big.or.jp/~yays/cgi-bin/anthologys/anthologys.cgi>
+<form method=post action="anthologys.cgi">
 <input type=hidden name=action value=in>
 <input type=hidden name="num" value="20011208030820">
 <input type=hidden name="log" value="">
 <td>
 PASSWORD
 <input type=password name=pwd value="" size=8>
-�ҏW<input type=radio name=type value="form" checked class="d3">
-�폜<input type=radio name=type value="dele" class="d3">
-<input type=submit value="���e�җp" class="d1">
+編集<input type=radio name=type value="form" checked class="d3">
+削除<input type=radio name=type value="dele" class="d3">
+<input type=submit value="投稿者用" class="d1">
 </td>
 </form>
 </tr>

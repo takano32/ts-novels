@@ -1,126 +1,126 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&ff=p&id=1021330879qlgse&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_ff_p_id_1021330879qlgse_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�����n�����i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">逃げ馬さん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/05/14 08:01:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/05/14 08:01:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021330879qlgse&id2=1021330879qlgse&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021330879qlgse_id2_1021330879qlgse_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������c�c
+準備中……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200105/08212223/uranaisi1.html" target="_blank">�肢�t������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/14 08:18:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200105/08212223/uranaisi1.html" target="_blank">占い師を見るにはここをクリック。</a></strong>  <i>2002/05/14 08:18:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021331933bblcm&id2=1021330879qlgse&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021331933bblcm_id2_1021330879qlgse_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�s�v�c�ȘV�l�͂��������N�Ȃ̂��H�Ȃ�ƂȂ��A����������A�z����悤�ȁB
+【推薦文】不思議な老人はいったい誰なのか？なんとなく、○○ちゃんを連想するような。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ƃ��C�_�[����</strong>  <i>2002/05/14 16:44:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>仮免ライダー王蛇</strong>  <i>2002/05/14 16:44:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021362269cnxuu&id2=1021330879qlgse&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021362269cnxuu_id2_1021330879qlgse_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�肢�t<BR><BR>���̘V�l�c�c�m���ɉ؂n�����̂悤�ȁc�c�āA�܂����c���Ƃ�(�I�C<BR>�����̓L�r�V�C�ł�����˂��`�A���⎄���ł����ǁB<BR>���F�N���A�C�����͉��邼�B�j�āc���ɋߏ�ɂ����̘V�l����Ȃ�����(��)<BR>�����݂Ȍ��t�ł����ǁA�悩�����ł��B
+占い師<BR><BR>この老人……確かに華Ｏちゃんのような……て、まさか祖父とか(オイ<BR>現実はキビシイですからねえ～、いや私事ですけど。<BR>勝彦クン、気持ちは解るぞ。嗚呼…内に近場にもこの老人現れないかな(爆)<BR>月並みな言葉ですけど、よかったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/14 22:10:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/14 22:10:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021381856tmfgg&id2=1021330879qlgse&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021381856tmfgg_id2_1021330879qlgse_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�E�E�E�����n����Ƃ��Łi���j�B<BR>�Ƃ����킯�ŁA�����̔@���B<BR><BR>���[��B����H�i�͂Ȃ��Ȃ����������ł���ˁ[�B<BR>���̉A�ł͂����������Ƃ��������Ƃ��Ȃ������Ƃ��E�E�E�i�΁j�B<BR>�Ƃ���ŁA���̐肢�t�̂�������͐_�l���Ȃ񂩂ł����H<BR>�������A���q�吶�͂������ǂ��̌�̏A�E�����������񂶂�Ȃ���[���A�ȂǂƂ悯���Ȃ��Ƃ��l���邍���W�S�Q�U�ł����i���j�B
+読んだバイ♪<BR>・・・逃げ馬さんとこで（爆）。<BR>というわけで、いつもの如し。<BR><BR>うーん。○印食品はなくなっちゃったんですよねー。<BR>その陰ではこういうことがあったとかなかったとか・・・（笑）。<BR>ところで、あの占い師のじいさんは神様かなんかですか？<BR>しかし、女子大生はいいけどその後の就職活動がきついんじゃなかろーか、などとよけいなことを考えるｍｋ８４２６でした（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/05/15 00:43:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/05/15 00:43:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021390981sdybjmc&id2=1021330879qlgse&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021390981sdybjmc_id2_1021330879qlgse_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Q�Q�H�i�i�����j�͉�А��Z�B<BR><BR>�����̌�̏A�E�������c<BR>����́A���сA�v�́A�w���N��ԁx����̗l�ȁc�B<BR>
+＿＿食品（複数）は会社精算。<BR><BR>＞その後の就職活動が…<BR>それは、成績、要領、『健康状態』次第の様な…。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/15 06:16:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/15 06:16:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021410960brrxnw&id2=1021330879qlgse&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021410960brrxnw_id2_1021330879qlgse_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>���΂炵�����x���c�R
+すばらしい、実にすばらしい<BR>すばらしいレベル…３
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/05/15 11:59:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/05/15 11:59:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021431594ddyjra&id2=1021330879qlgse&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021431594ddyjra_id2_1021330879qlgse_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��Ђ��������Ă����̂��A��������^���Ă��Ă����ł��ˁB������Ɖ�������΁A���̉ؑタ���ɂȂ��f�ނƌ��܂����c<BR>�䂾���Ɂc
+会社が牛乳っていうのが、現実味を与えていていいですね。ちょっと改造すれば、第二の華代ちゃんになれる素材と見ました…<BR>謎だけに…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://blue.ribbon.to/~nigeuma/" target="_blank">�����n</a></strong>  <i>2002/05/15 20:07:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://blue.ribbon.to/~nigeuma/" target="_blank">逃げ馬</a></strong>  <i>2002/05/15 20:07:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021460848uevhgf&id2=1021330879qlgse&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021460848uevhgf_id2_1021330879qlgse_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ƃ��C�_�[���ւ���A��������A���Ȃ���A���̔z�B�l����A�m�C������A���z�����肪�Ƃ��������܂��B<BR><BR>�ŋ߂́A������ƌ��ȃj���[�X�������ł����(^^;�@�Ȃ�A������Ƃ̓z�b�Ƃł���X�g�[���[���Ǝv�����̂��A���̍�i�ł��B<BR>�����āA���̂�������́E�E�E�܂��ǂ����Ɍ���邩��(��)<BR>���z���A�ǂ������肪�Ƃ��������܂����B  
+仮免ライダー王蛇さん、ｍｋさん、すなさん、夢の配達人さん、ノインさん、感想をありがとうございます。<BR><BR>最近は、ちょっと嫌なニュースが多いですよね(^^;　なら、ちょっとはホッとできるストーリーをと思ったのが、この作品です。<BR>そして、あのじいさんは・・・またどこかに現れるかも(笑)<BR>感想を、どうもありがとうございました。  
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i�t�m</strong>  <i>2002/05/29 09:08:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＪＵＮ</strong>  <i>2002/05/29 09:08:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1022630926qnnpxfk&id2=1021330879qlgse&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1022630926qnnpxfk_id2_1021330879qlgse_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�肢�t�ʔ����A����Șb����D���ł��A���ЂÂ����A��������<BR>�V���[�Y�����Ăق����B
+占い師面白い、こんな話し大好きです、ぜひつづきを、もしくは<BR>シリーズ化してほしい。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1021330879qlgse">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

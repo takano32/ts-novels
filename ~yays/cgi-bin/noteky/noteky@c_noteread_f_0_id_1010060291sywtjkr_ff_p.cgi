@@ -1,216 +1,216 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1010060291sywtjkr&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1010060291sywtjkr_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�r�`�j�d</font><br>
+<font size="+2" color="#0000FF">ＳＡＫＥ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/01/03 21:18:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/01/03 21:18:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010060291sywtjkr&id2=1010060291sywtjkr&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010060291sywtjkr_id2_1010060291sywtjkr_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������c
+準備中…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/03215118/sake.htm" target="_blank">��i������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/03 21:59:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/03215118/sake.htm" target="_blank">作品を見るにはここをクリック。</a></strong>  <i>2002/01/03 21:59:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010062783uooydx&id2=1010060291sywtjkr&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010062783uooydx_id2_1010060291sywtjkr_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �������ނ̂������Ȃ�G�߂ł��B���݉߂��ɒ��ӂ��܂��傤�i�΁j
+【推薦文】 酒を飲むのが多くなる季節です。飲み過ぎに注意しましょう（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/03 22:12:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/03 22:12:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010063524mohdpk&id2=1010060291sywtjkr&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010063524mohdpk_id2_1010060291sywtjkr_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���������i�΁j�B<BR>���̖������A���̊E�G�ł͍������ꂻ�����Ȃ��i���j�B<BR>�����ɂȂ��Ă��܂����j���Ȃ������킢���āA���̐^�ӂƑΏƓI�Ȃ̂��ʔ��������B<BR><BR>�󌱕׋����ɂ����������K�v�ł��傤�B�P�{��������A�S�@��]����΂��ĉ������ˁB<BR>�t�ɂ͘N�񂪓͂��܂��悤�ɁB
+読んだバイ♪<BR>おいおい（笑）。<BR>この密造酒、この界隈では高く売れそうだなぁ（爆）。<BR>少女になってしまった男がなぜかかわいくて、女の真意と対照的なのが面白かった。<BR><BR>受験勉強中にも息抜きが必要でしょう。１本書いたら、心機一転がんばって下さいね。<BR>春には朗報が届きますように。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/03 23:25:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/03 23:25:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010067954oogxsl&id2=1010060291sywtjkr&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010067954oogxsl_id2_1010060291sywtjkr_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂��Ē����܂����B<BR>�u��������v�Ƃ���������݂����킢�������ł��i���j�B<BR>����ƁA�V���A�X�ɔY�ޏ����ƃM���O�Ɋ�ޏ��Ƃ����M���b�v���ʔ��������ł��B
+読ませて頂きました。<BR>「っくしゅ」というくしゃみがかわいかったです（爆）。<BR>それと、シリアスに悩む少女とギャグに企む女というギャップが面白かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ȃ�</strong>  <i>2002/01/03 23:53:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>なお</strong>  <i>2002/01/03 23:53:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010069591ekbcdmx&id2=1010060291sywtjkr&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010069591ekbcdmx_id2_1010060291sywtjkr_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ҋ�]�A�A�A
+続編希望、、、
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/03215118/sake_02.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2002/02/19 01:59:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/03215118/sake_02.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2002/02/19 01:59:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014051544xlkviwx&id2=1010060291sywtjkr&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014051544xlkviwx_id2_1010060291sywtjkr_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���`���āA����͐����ς������������킢���p�������߂܂�(��)�B�ĂȂ킯�ŁA�Q�t�ڂ��ǂ����`�B
+【推薦文】さ～って、今回は酔っぱらっちゃったかわいい姿がおがめます(爆)。てなわけで、２杯目をどうぞ～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/19 09:59:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/19 09:59:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014080387iyxtk&id2=1010060291sywtjkr&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014080387iyxtk_id2_1010060291sywtjkr_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>��͂́A�����Ȃ��A�����ς炢���q�����i�H�j�B<BR>���āA�����i�΁j�B<BR>���������Ă���́u�����v�i���O�́H�j�����������킢�������B<BR>���̂܂܃R�X�v���V���[�ł����܂����i���j�B<BR>�Ȃ񂾂��܂��܂��������ǂ݂����Ȃ��Ă��܂����B
+読んだバイ♪<BR>わはは、いいなぁ、酔っぱらい女子高生（？）。<BR>って、おい（笑）。<BR>酒が入ってからの「少女」（名前は？）がすごくかわいかった。<BR>このままコスプレショーでもやりますか（爆）。<BR>なんだかまだまだ続きが読みたくなってしまった。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/02/19 23:31:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>克美</strong>  <i>2002/02/19 23:31:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014129073wmfvnsb&id2=1010060291sywtjkr&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014129073wmfvnsb_id2_1010060291sywtjkr_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�r�`�j�d��t��<BR>�f�ʂ̎��Ɛ����Ďd���������̗����ŏ΂��܂����B<BR>��O�b�͐����ς炢���q�����̏��o�Z�H�B<BR><BR><BR>
+ＳＡＫＥ二杯目<BR>素面の時と酔って仕舞った時の落差で笑えました。<BR>第三話は酔っぱらい女子高生の初登校？。<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2002/02/25 02:30:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2002/02/25 02:30:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014571807lrmxo&id2=1010060291sywtjkr&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014571807lrmxo_id2_1010060291sywtjkr_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�r�`�j�d1�b����2�b�ǂ݂܂����I<BR>���������W�J���ǂ��ł��ˁ`�I�������ǂ�ł�����s�E�g���s�r�b�q�������Ă��܂��ƌ����悤�ȓW�J�̘b����肽���Ȃ��Ă��܂��܂����B<BR>�ʂɃp�N��Ƃ�������͂���܂��񂪁A�����s�E�g�����������s�r�b�q���o�Ă���b�ł�����Ă݂悤���ȁ[�H<BR><BR>�r�`�j�d3�t�ځi���H�j�Ɋ��҂��Ă��܂��B
+ＳＡＫＥ1話から2話読みました！<BR>こういう展開も良いですね～！何だか読んでいたらＴ・ＨもＴＳッ子が酔ってしまうと言うような展開の話が作りたくなってしまいました。<BR>別にパクるというつもりはありませんが、いつかＴ・Ｈも酔っ払いＴＳッ子が出てくる話でも作ってみようかなー？<BR><BR>ＳＡＫＥ3杯目（仮？）に期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2002/03/03 13:37:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2002/03/03 13:37:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1015130229worvu&id2=1010060291sywtjkr&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1015130229worvu_id2_1010060291sywtjkr_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������񂶂��[�B<BR>���Ă����߂���`���[�n���ɂȂ邾�낤���Đ���ς͂��肪���ł���ˁB�R���Ƃ�������ɐ������ꂿ�������A�l�Q���Ō�ɂ��ꂿ�������B�ł��A�������������܂����Ⴂ�܂��傤�B���̒��q�ŗ��K���Ă����΁A1�N��ɂ͗��h�ȏ��q�����Ɂi���ӂӁj�B<BR>
+いいかんじだー。<BR>生米いためたらチャーハンになるだろうって先入観はありがちですよね。コメといっしょに生肉入れちゃったり、人参を最後にいれちゃったり。でも、毎日お酒を飲ましちゃいましょう。この調子で練習していけば、1年後には立派な女子高生に（うふふ）。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/03215118/sake_03.html" target="_blank">�u�r�`�j�d�`�O�t�ځ`�v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/04/07 01:16:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/03215118/sake_03.html" target="_blank">「ＳＡＫＥ～三杯目～」を読むにはここをクリック</a></strong>  <i>2002/04/07 01:16:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018109785thkpce&id2=1010060291sywtjkr&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018109785thkpce_id2_1010060291sywtjkr_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����I�@���Z�������{��ۂ񂶂Ⴂ���Ȃ��ł���I�@�c�ł������ς�����p�����킢���̂ŋ������Ⴂ�܂�(��)
+【推薦文】こら！　高校生が日本酒呑んじゃいけないでしょ！　…でも酔っぱらった姿がかわいいので許しちゃいます(爆)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�_�����ۂ��d�g�d��</strong>  <i>2002/04/07 02:33:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>神速っぽい電波妖精</strong>  <i>2002/04/07 02:33:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018114393syyidon&id2=1010060291sywtjkr&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018114393syyidon_id2_1010060291sywtjkr_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�r�`�j�d�P�A�Q�A�R�Ɠǂ݂܂�����<BR>����͂�A����Ŗ��O���Ȃ������肳��ĂāA�悩�����ł��ˁB�������납�����ł���`�B<BR>�Q�A�R�b�Ɓc���v���ȏ����A���Ƃ��R�I����񂪂悩�������B<BR>�M���O�̃m�����������A�������ƂȂ��ł��B<BR>�d�g�d���͑��������҂��Ă��܂���<BR>�l�^�������̂����A������Ƃ����S�z�ł����c
+ＳＡＫＥ１、２、３と読みました♪<BR>いやはや、今回で名前もなぜか決定されてて、よかったですね。おもしろかったですよ～。<BR>２、３話と…激プリな少女、もとい由紀ちゃんがよかったぁ。<BR>ギャグのノリもいいし、言うことなしです。<BR>電波妖精は続きを期待しています♪<BR>ネタが続くのかが、ちょっとだけ心配ですが…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/07 05:17:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/07 05:17:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018124234rcgsue&id2=1010060291sywtjkr&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018124234rcgsue_id2_1010060291sywtjkr_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�R�I�����E�E�E�B�������I�i���j<BR>����̓`���Ȃ񂽂�́A�D�����R�I��A��o�������������񂶂�Ȃ���[���ƁA�����������������邍���ł����B<BR>�������A�𑠂̐l�͗R�I����񂪓ۂނ̂��~�߂Ȃ������̂��H�i�΁j<BR>�܂��A���킢���̂ŋ����I�i���j
+読んだバイ♪<BR>由紀ちゃん・・・。いいっ！（爆）<BR>今回の伝承なんたらは、優美が由紀を連れ出す口実だったんじゃなかろーかと、うがった見方をするｍｋでした。<BR>しかし、酒蔵の人は由紀ちゃんが呑むのを止めなかったのか？（笑）<BR>まあ、かわいいので許す！（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/03215118/sake_04.html" target="_blank">�u�r�`�j�d�`�l�t�ځ`�v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/04/13 03:07:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/03215118/sake_04.html" target="_blank">「ＳＡＫＥ～四杯目～」を読むにはここをクリック</a></strong>  <i>2002/04/13 03:07:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018634839btehcd&id2=1010060291sywtjkr&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018634839btehcd_id2_1010060291sywtjkr_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���`�ėR�I�����͖����j�ɖ߂��̂�!?�@�c���̎q�̂܂܂ł������悤�ȋC�������ł���(��)
+【推薦文】さ～て由紀ちゃんは無事男に戻れるのか!?　…女の子のままでもいいような気もするんですが(爆)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/13 06:51:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/13 06:51:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018648279oulnlb&id2=1010060291sywtjkr&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018648279oulnlb_id2_1010060291sywtjkr_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�Ȃ�Ȃ񂾂�[�ˁi�΁j�B<BR>���ǈꎞ�I�ɒj�ɖ߂��������ŁA�܂��������イ���Ƃł����ȁB<BR>�܁A�����ɂӂ��킵���Ƃ������Ƃł����ˁi���j�B<BR>�������A���l�i�͈�̉��l�����ł���B���̂����u���l�̗R�I�v�Ƃ��ł����肵�āi�΁j�B<BR><BR>���u������D�D�D�v<BR>�Ȃ񂾂��悭�킩��񂯂ǁA�G�����i�΁j�B<BR><BR>���������킯�Łi�ǂ������킯�ŁH�j���Ҋ�]�i���΁j�B
+読んだバイ♪<BR>なんなんだろーね（笑）。<BR>結局一時的に男に戻っただけで、また女っちゅうことですかな。<BR>ま、ここにふさわしいということですかね（爆）。<BR>しかし、他人格は一体何人いるんでしょ。そのうち「○人の由紀」とかできたりして（笑）。<BR><BR>＞「うそん．．．」<BR>なんだかよくわからんけど、萌えた（笑）。<BR><BR>そういうわけで（どういうわけで？）続編希望（爆笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/04/13 10:40:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/04/13 10:40:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018662005auxbsk&id2=1010060291sywtjkr&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018662005auxbsk_id2_1010060291sywtjkr_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ӂc���������<BR>��������̍�i�̂������낳��<BR>��b�̖��ɂ���Ǝv���܂��B<BR>�����ɂ��������\���������ł��ˁB<BR>���ƁA���t�̃L���b�`�{�[�������܂��B<BR><BR>�X�g�[���[�I�ɂ�<BR>������Ȃ����d�l�i���ۂ��R�I�����<BR>���ꂩ��ǂ̂悤�Ȑl������ނ̂��c<BR>�C�ɂȂ�C�ɂȂ�B<BR>�d�g�d���͑��҂���]���ł���
+ふ…おもしろひ<BR>龍酒さんの作品のおもしろさは<BR>会話の妙にあると思います。<BR>微妙にくだけた表現がいいですね。<BR>あと、言葉のキャッチボールがうまい。<BR><BR>ストーリー的には<BR>かぎりなく多重人格っぽい由紀ちゃんが<BR>これからどのような人生を歩むのか…<BR>気になる気になる。<BR>電波妖精は続編を希望中です♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2002/04/21 23:49:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2002/04/21 23:49:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019400595wkarju&id2=1010060291sywtjkr&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019400595wkarju_id2_1010060291sywtjkr_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���D���̖l�ׂ̈ɗL��悤�ȍ�i�ł��������������I�I(^^;<BR>�߂�����y���܂��đՂ��܂����I�I<BR>�������҂�������ł��I�Im(__)m
+酒好きの僕の為に有るような作品ですぅううううっ！！(^^;<BR>めっちゃ楽しませて戴きました！！<BR>次も期待し捲くりです！！m(__)m
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2002/04/22 02:13:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2002/04/22 02:13:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1019409218thpspb&id2=1010060291sywtjkr&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1019409218thpspb_id2_1010060291sywtjkr_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�K�x�ȏ�����ƓK�x�Ȕ�������Ȃ�Ƃ��悤�������܂����B�����āA���ꂱ��TS�R���f�B�̉�������ł���(�����ɂ̓G���h�ł͂Ȃ��ł���)�B�R�I����񂪂Ȃ�ƌ������ƁA�ǎ҂̓n�b�s�[�Ȃ̂ł�(��)�B
+適度な順応具合と適度な反発具合がなんともようございました。そして、これこそTSコメディの王道えんでぃんぐ(厳密にはエンドではないですね)。由紀ちゃんがなんと言おうと、読者はハッピーなのです(笑)。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1010060291sywtjkr">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

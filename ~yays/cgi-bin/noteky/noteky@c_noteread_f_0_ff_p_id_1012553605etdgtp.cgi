@@ -1,146 +1,146 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1012553605etdgtp&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1012553605etdgtp_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">LET�fS�@�؂����񂱍���</font><br>
+<font size="+2" color="#0000FF">LET’S　ぺったんこ座り</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/02/01 17:53:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/02/01 17:53:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012553605etdgtp&id2=1012553605etdgtp&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012553605etdgtp_id2_1012553605etdgtp_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/01175459/lets_petanko.htm" target="_blank">��i��ǂނɂ͂������N���b�N </a></strong>  <i>2002/02/01 18:01:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/01175459/lets_petanko.htm" target="_blank">作品を読むにはここをクリック </a></strong>  <i>2002/02/01 18:01:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012554074agvid&id2=1012553605etdgtp&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012554074agvid_id2_1012553605etdgtp_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �j�ł؂����񂱍���͂ł��Ȃ��̂��I�H
+【推薦文】 男でぺったんこ座りはできないのか！？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Β�</strong>  <i>2002/02/01 18:57:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>石塚</strong>  <i>2002/02/01 18:57:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012557464ctgpf&id2=1012553605etdgtp&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012557464ctgpf_id2_1012553605etdgtp_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ƂĂ�����₷���b�ŁA���ŊȒP�ɗ����ł��܂����B<BR><BR>����̊�b�͒P���ŕ���₷�����Ȃ̂��ƁA�S�̒ꂩ��v���܂����B<BR><BR>�悩�����Ǝv���܂�
+とても分りやすい話で、頭で簡単に理解できました。<BR><BR>物語の基礎は単純で分りやすい事なのだと、心の底から思いました。<BR><BR>よかったと思います
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ȃ�</strong>  <i>2002/02/01 21:02:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>なお</strong>  <i>2002/02/01 21:02:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012564967phmqtbv&id2=1012553605etdgtp&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012564967phmqtbv_id2_1012553605etdgtp_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���H�j���Ă؂����񂱍���ł��Ȃ���ł����H<BR>�m��Ȃ������A�A�A�B���Ⴀ�F�l�̂؂����񂱍���̓j�Z���m�������̂����B
+え？男ってぺったんこ座りできないんですか？<BR>知らなかった、、、。じゃあ友人のぺったんこ座りはニセモノだったのかも。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/01 21:13:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/01 21:13:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012565595rbdtug&id2=1012553605etdgtp&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012565595rbdtug_id2_1012553605etdgtp_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�؂����񂱍���ł����B���͒j�ł��ł���q�g�͂����ς����܂���B<BR>�������A�j���Ƃ��ɂ��̍�����͌Ҋ֐߂���������\��������̂ł��܂肵�Ȃ��ق��������悤�ł��B<BR><BR>���A���z�B<BR><BR>�΂��܂��ˁB�D��N�̂��܂�̒P�����Ɂi�΁j�B<BR>�������A�����������A�z���Ə������݂ɂ؂����񂱍��肪���₷���̂��낤���H�܂��A���Ղ������^�ƍl����Δ[���ł��邩�B<BR>���삳��i����N���H�j�����A�z�Ƃ����̂��ӊO�ƌ����ΈӊO�ł����ˁB<BR>�Ƃ���ŁA�u�D��v�Ƃ������O�A���̂܂܂ł����̎q�Ƃ��Ēʗp���܂��񂩂˂��H�܂��A���������������Ƃ����Ȃ�ʂɂ����ł����ǁB
+読んだバイ♪<BR>ぺったんこ座りですか。実は男でもできるヒトはいっぱいいますよ。<BR>ただし、男女ともにこの座り方は股関節を悪くする可能性があるのであまりしないほうがいいようです。<BR><BR>あ、感想。<BR><BR>笑えますね。優希君のあまりの単純さに（笑）。<BR>しかし、女性仮性半陰陽だと女性並みにぺったんこ座りがやりやすいのだろうか？まあ、骨盤が女性型と考えれば納得できるか。<BR>西野さん（西野君か？）も半陰陽というのが意外と言えば意外でしたね。<BR>ところで、「優希」という名前、そのままでも女の子として通用しませんかねぇ？まあ、改名したかったというなら別にいいですけど。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/02/02 00:21:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/02/02 00:21:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012576888mptuos&id2=1012553605etdgtp&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012576888mptuos_id2_1012553605etdgtp_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肫��ł�<BR><BR>�l���o���܂���B�i�΁j<BR>�l�̏ꍇ�A�_��̑��̈�Ƃ��Ă�鎖������܂��B�i���̎q���肩��Q�鎖���ł��܂��B�j<BR>�˂�����ōς݂܂���B���C���������Ȃ��悤�ɁB<BR><BR>���z�ł�<BR>�P���Ȑݒ�ł����A�ʔ��������ł��B<BR>���̎q������ނɂ��Ēj�Ə��̈Ⴂ��\���������́A�ӊO�Ƃs�r�炵���ݒ�̊�Ղ�������̂ł͎v���܂��B<BR>�܂��A������Ɩ����̂���ݒ肾�Ƃ͎v���܂����ǁi�΁j<BR>�ł��A�ʔ�����΂����Ǝv���܂���B
+きりきりです<BR><BR>僕も出来ますよ。（笑）<BR>僕の場合、柔軟体操の一つとしてやる事もあります。（女の子座りから寝る事もできます。）<BR>突っ込んで済みません。お気を悪くしないように。<BR><BR>感想です<BR>単純な設定ですが、面白かったです。<BR>女の子座りを題材にして男と女の違いを表現した事は、意外とＴＳらしい設定の基盤を作ったのでは思います。<BR>まあ、ちょっと無理のある設定だとは思いますけど（笑）<BR>でも、面白ければいいと思いますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2002/02/02 01:29:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2002/02/02 01:29:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012580948ogbdjg&id2=1012553605etdgtp&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012580948ogbdjg_id2_1012553605etdgtp_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I�s�E�g�ł��B�ǂ�ł����������F����A�����z���肪�Ƃ��������܂��B<BR>�܂��܂����z�͂܂��Ă��܁`���I�Ȃ̂ł����A�Ƃ肠���������܂ł̎��_�ň�U���X���Ă����܂��B<BR><BR>���Β˂���<BR><BR>������̊�b�͒P���ŕ���₷�����Ȃ̂��ƁA�S�̒ꂩ��v���܂����B<BR><BR>�͂��A���肪�Ƃ��������܂��B<BR>�킩��₷�������Ƃ����Ă��炦��Ɗ������ł��B<BR>�w�����D���Ȑl�x��4�͂Ƃ��ł͂��������킩��Â炢�̂�������肵�Ă��܂��܂����̂Łc�B<BR><BR>���Ȃ�����<BR><BR>�����H�j���Ă؂����񂱍���ł��Ȃ���ł����H<BR>���m��Ȃ������A�A�A�B���Ⴀ�F�l�̂؂����񂱍���̓j�Z���m�������̂����B  <BR><BR>���A����͂ł��ˁA�j�̐l�ł��؂����񂱍��肪�ł���l�͂����ł����ǂ�(�����c�j�A���̏ꍇ�͘b�̐ݒ�̏�ł����Ȃ��Ă���ƌ������Ƃł��B���Ⴂ�����Ă��܂����̂Ȃ炷�݂܂���B<BR><BR>���_�����z�̂����W�S�Q�U����<BR><BR>�����삳��i����N���H�j�����A�z�Ƃ����̂��ӊO�ƌ����ΈӊO�ł����ˁB<BR><BR>����͊m���w�����D���Ȑl�x�Ŏ��͂����˂���񂪐̂͒j�������ƌ����l�^�����̂܂܎����Ă����ƌ������A�������g�ŉߋ��̍�i��ǂ�ł����Ƃ��Ɏv���������̂������肵�܂�(^^;<BR>���삳������A�z����������A�D��N�̔��A�z�����j������ł��ˁ`�B<BR><BR>���Ƃ���ŁA�u�D��v�Ƃ������O�A���̂܂܂ł����̎q�Ƃ��Ēʗp���܂��񂩂˂��H�܂��A���������������Ƃ����Ȃ�ʂɂ����ł����ǁB  <BR><BR>�������I���̎肪����܂����ˁB<BR>�����܂Ŏv�����Ȃ������̂ŁA1�ԏ��߂Ɏv�������D�q�ɂ�����ł����ǁc�D��̂܂܂ł��悩������������܂���ˁB<BR><BR>�����肫�肳��<BR><BR>�����̎q������ނɂ��Ēj�Ə��̈Ⴂ��\���������́A�ӊO�Ƃs�r�炵���ݒ�̊�Ղ�������̂ł͎v���܂��B<BR>���܂��A������Ɩ����̂���ݒ肾�Ƃ͎v���܂����ǁi�΁j<BR><BR>�Ⴂ��\���������ł����B�������g�ł͂���܂肻�̂��Ƃ͈ӎ������ɏ����Ă�����ł����A�����Ȃ��Ă���悤�ł��ˁB<BR>�C�t�����Ă��������Ă��肪�Ƃ��������܂��B<BR>�ݒ�ɂ��ẮA�m���ɖ�������������������܂���ˁB<BR><BR>�Ƃ������ƂŊF����B���z�}�W���肪�Ƃ��������܂��I<BR>���ӊ����J�A�����ł�(�Â��c�j<BR>���V�����Ă���̂ł��̂����܂����e�������Ȃ̂ŁA������s�E�g����낵�����肢���܂��I<BR><BR><BR><BR><BR>
+どうも！Ｔ・Ｈです。読んでくださった皆さん、ご感想ありがとうございます。<BR>まだまだ感想はまっていま～す！なのですが、とりあえずここまでの時点で一旦レスしておきます。<BR><BR>＞石塚さん<BR><BR>＞物語の基礎は単純で分りやすい事なのだと、心の底から思いました。<BR><BR>はい、ありがとうございます。<BR>わかりやすかったといってもらえると嬉しいです。<BR>『俺が好きな人』の4章とかではすっごいわかりづらいのを作ったりしてしまいましたので…。<BR><BR>＞なおさん<BR><BR>＞え？男ってぺったんこ座りできないんですか？<BR>＞知らなかった、、、。じゃあ友人のぺったんこ座りはニセモノだったのかも。  <BR><BR>あ、それはですね、男の人でもぺったんこ座りができる人はいるんですけどね(多分…）、この場合は話の設定の上でこうなっていると言うことです。勘違いさせてしまったのならすみません。<BR><BR>＞神速感想のｍｋ８４２６さん<BR><BR>＞西野さん（西野君か？）も半陰陽というのが意外と言えば意外でしたね。<BR><BR>これは確か『俺が好きな人』で実はあかねちゃんが昔は男だったと言うネタをそのまま持ってきたと言うか、自分自身で過去の作品を読んでいたときに思いついたものだったりします(^^;<BR>西野さんも半陰陽だったから、優希君の半陰陽を見破ったんですね～。<BR><BR>＞ところで、「優希」という名前、そのままでも女の子として通用しませんかねぇ？まあ、改名したかったというなら別にいいですけど。  <BR><BR>うぉっ！その手がありましたね。<BR>そこまで思いつかなかったので、1番初めに思いついた優子にしたんですけど…優希のままでもよかったかもしれませんね。<BR><BR>＞きりきりさん<BR><BR>＞女の子座りを題材にして男と女の違いを表現した事は、意外とＴＳらしい設定の基盤を作ったのでは思います。<BR>＞まあ、ちょっと無理のある設定だとは思いますけど（笑）<BR><BR>違いを表現した事ですか。自分自身ではあんまりそのことは意識せずに書いていたんですが、そうなっているようですね。<BR>気付かせていただいてありがとうございます。<BR>設定については、確かに無理があったかもしれませんね。<BR><BR>ということで皆さん。感想マジありがとうございます！<BR>感謝感激雨アラレです(古い…）<BR>今新作作っているのでそのうちまた投稿するつもりなので、今後もＴ・Ｈをよろしくお願いします！<BR><BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�˂��̂�</strong>  <i>2002/02/02 17:02:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ねこのん</strong>  <i>2002/02/02 17:02:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012636938forkdu&id2=1012553605etdgtp&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012636938forkdu_id2_1012553605etdgtp_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Ȃ��������ł��ł��I�I�I�@�s�r�R���O�ɂ���ȍs�����������l�����A���܂����Ă����ł��낤���I�@�ʔ������܂����B�j���؂����񂱍���ł��邩�ǂ����̐^���͂܂��A���}���Ƃ������ƂɁB<BR>�i������h�̔L��j
+　ないすあいであです！！！　ＴＳ３日前にこんな行動を取った主人公が、いまだかつていたであろうか！　面白すぎました。男がぺったんこ座りできるかどうかの真相はまあ、ロマンということに。<BR>（横座り派の猫野）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2002/02/02 20:30:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>美和</strong>  <i>2002/02/02 20:30:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012649408fgphkg&id2=1012553605etdgtp&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012649408fgphkg_id2_1012553605etdgtp_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�؂����񂱍���́A�����Βj�̎q�ł�����l�͂����B<BR>���������l�����͌������Ƃ���܂��B
+ぺったんこ座りは、慣れれば男の子でもやれる人はいるよ。<BR>そう言う人を私は見たことあります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�A���g</strong>  <i>2002/02/04 23:16:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>アルト</strong>  <i>2002/02/04 23:16:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012832215vbvqsdb&id2=1012553605etdgtp&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012832215vbvqsdb_id2_1012553605etdgtp_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ƓW�J�������������悤�ȋC�����܂����A�V���v���œǂ݂₷�������ł��B<BR><BR>�؂����񂱍���c���K�i�_��̑����j����Ώo����悤�ɂȂ�ꍇ������܂��B���̌��ς݁B<BR>�܂��A�G�Ƃ��Ҋ֐߂Ƃ��ɂ��Ȃ�܂����c�i��΁j<BR>���̏_�����������̂ł�������������ƁB
+ちょっと展開が強引だったような気もしますが、シンプルで読みやすかったです。<BR><BR>ぺったんこ座り…練習（柔軟体操等）すれば出来るようになる場合もあります。＊体験済み。<BR>まあ、膝とか股関節とか痛くなりますが…（苦笑）<BR>※昔柔道部だったのでそれもあったかと。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ђ�</strong>  <i>2002/06/17 22:58:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ひろ</strong>  <i>2002/06/17 22:58:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1024322332mlyjul&id2=1012553605etdgtp&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1024322332mlyjul_id2_1012553605etdgtp_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̍�i�͎��ɂ������납���ł��A���ꂩ�������΂��Ă��������B�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@�@���Ȃ݂ɂ؂����񂱍�����Ăǂ�����������ł����B�������瑫��������ƂЂ낰�č��������ƗF�l�͂����Ă���܂������B<BR>�����܂��񂭂���Ȃ�����Ȃǂ��āB<BR>
+この作品は実におもしろかつたです、これからもがんばってください。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ちなみにぺったんこ座りってどういう座り方ですか。正座から足をちょっとひろげて座る座り方と友人はいっておりましたが。<BR>すいませんくだらない質問などして。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1012553605etdgtp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

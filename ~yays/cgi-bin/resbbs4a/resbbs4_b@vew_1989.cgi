@@ -1,97 +1,97 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•Ž¦‚·‚éƒ^ƒCƒgƒ‹‚ðŽ©—R‚É‹L“ü@-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«ä¾®ï½¦ã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥ã€€-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERYŒfŽ¦”Â</font> (<a href="http://www14.big.or.jp/~yays/">–{ ŠÙ </a>ŒfŽ¦”Â‚Æ‹¤’Ê)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERYæŽ²ç¤ºæ¿</font> (<a href="../../index.html">æœ¬ é¤¨ </a>æŽ²ç¤ºæ¿ã¨å…±é€š)</td></tr></table>
 	</center></div>
 
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚ÉƒƒbƒZ[ƒW‚ª@@•Ž¦‚³‚ê‚é@@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒã€€ã€€ä¾®ï½¦ã•ã‚Œã‚‹ã€€ã€€-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>‚¨–¼‘O:</td><td><input type=text size=20 name=name value=>
+<td align=right>ãŠåå‰:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>‘è–¼:</td><td>
-<input type=text size=48 name=subject value=RE:TSFî•ñƒgƒŒƒgƒŒî•ñ‹Ç@YMR“Á•Ê†>
+<tr><td align=right>é¡Œå:</td><td>
+<input type=text size=48 name=subject value=RE:TSFæƒ…å ±ãƒˆãƒ¬ãƒˆãƒ¬æƒ…å ±å±€ã€€YMRç‰¹åˆ¥å·>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>y‚¨ŠG•`‚«BBSŠÖ˜Az </textarea><br> <br>
-‚¢‚Ü‹C‚É‚È‚é
+<textarea name=comment rows=4 cols=70>ã€ãŠçµµæãBBSé–¢é€£ã€‘ </textarea><br> <br>
+ã„ã¾æ°—ã«ãªã‚‹
 <SELECT NAME="genre" size=1>
-<option value="novel">¬à@
-<option value="comic">ƒRƒ~ƒbƒN
-<option value="movie">‰f‘œì•i
-<option value="game">ƒQ[ƒ€
-<option value="character">ƒLƒƒƒ‰ƒNƒ^[
-<option value="author">ì‰Æ
-<option value="rumor">î•ñE‚¤‚í‚³
-<option value="site">ƒz[ƒ€ƒy[ƒW
-<option value="something">‰½‚©
-</SELECT> ‚Í 
+<option value="novel">å°èª¬ã€€
+<option value="comic">ã‚³ãƒŸãƒƒã‚¯
+<option value="movie">æ˜ åƒä½œå“
+<option value="game">ã‚²ãƒ¼ãƒ 
+<option value="character">ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼
+<option value="author">ä½œå®¶
+<option value="rumor">æƒ…å ±ãƒ»ã†ã‚ã•
+<option value="site">ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸
+<option value="something">ä½•ã‹
+</SELECT> ã¯ 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1988>
 <input type=hidden name=ress value=1989>
-<input type=submit value=TSFî•ñƒgƒŒƒgƒŒî•ñ‹Ç@YMR“Á•Ê†‚Ö•ÔM>
-<input type=reset value=‘‚«’¼‚µ>
+<input type=submit value=TSFæƒ…å ±ãƒˆãƒ¬ãƒˆãƒ¬æƒ…å ±å±€ã€€YMRç‰¹åˆ¥å·ã¸è¿”ä¿¡>
+<input type=reset value=æ›¸ãç›´ã—>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1989>
-<font color=#6A5ACD>TSFî•ñƒgƒŒƒgƒŒî•ñ‹Ç@YMR“Á•Ê†</font></a>
+<font color=#6A5ACD>TSFæƒ…å ±ãƒˆãƒ¬ãƒˆãƒ¬æƒ…å ±å±€ã€€YMRç‰¹åˆ¥å·</font></a>
 <font color=#303030>
-‚Ñ‚ã‚Ì
- ‚³‚ñ</font>
- <font size=2>2003”N10ŒŽ10“ú(‹à) 0Žž33•ª</font>
+ã³ã‚…ã®
+ ã•ã‚“</font>
+ <font size=2>2003å¹´10æœˆ10æ—¥(é‡‘) 0æ™‚33åˆ†</font>
 <a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1989">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é‰f‘œì•i‚ÍA<b>“÷‘Ì“]ˆÚ</b>z</font>
+<a href="resbbs4_b@vew_1989.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹æ˜ åƒä½œå“ã¯ã€<b>è‚‰ä½“è»¢ç§»</b>ã€‘</font>
 </td></tr><tr><td>
-<ul><br><font size=3>Žæ‚è‚ ‚¦‚¸AŽïŒü‚É‘S•”‡‚¤‚©‚Í“ä‚Å‚·‚¯‚ê‚ÇAƒNƒ‰ƒtƒg‚ÌƒŠƒXƒg‚©‚çA<br>u–òv‚ÅŒŸõ‚µ‚ÄƒsƒbƒNƒAƒbƒvcÚ×‚ÍŒ©‚É‚«‚Ä‚¯‚êI<br><a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>http://www.dragonrjp.or.tv/claft/index.html</a>@‚­‚ç‚Ó‚Æ<br><br>ƒ­”NƒRƒ~ƒbƒN„<br>“ËŒ‚Iƒpƒbƒpƒ‰‘ài‚WjcƒOƒ[ƒCƒ“ƒAƒbƒv‚µ‚Á‚Æ‘åìí<br>ƒ­—ƒRƒ~ƒbƒN„<br>‚¨¯—l‚É‚¨Šè‚¢I8Šªi“¡è ^jcƒ_ƒCƒ„ƒ‚ƒ“ƒh‚ÈŒN‚Æ–l<br>‚Ç‚ë‚ñi‹|ŒŽŒõjc‚Ç‚ë‚ñ<br>‚Ì‚¼‚Ý‚©‚È‚¦Š”Ž®‰ïŽÐi“c“‡ƒ~ƒ‹ƒNjc10˜bE’j‚Í‚»‚ê‚ð‰ä–‚Å‚«‚È‚¢<br>‚Ù‚Æ‚ñ‚ÇˆÈãâ‘Î–¢–žiŒK“c”T—œŽq@jc‚Ù‚Æ‚ñ‚ÇˆÈãâ‘Î–¢–ž<br>‚ß‚¢‚í‚­‚©‚µ‚ç‚ñi•—ŠÔGŽqjc‚ß‚¢‚í‚­‚©‚µ‚ç‚ñ<br>ƒÂ”NƒRƒ~ƒbƒN„<br>‚ ‚ ‚Á—_‚³‚Ü‚Á ‚XŠªcy‹¹‚¾‚¯z<br>Š´‚¶‚³‚¹‚ÄBABYi‘å“‡ŠxŽjc‚PE‚SE‚TŠª‘¼<br>GOD SAVE THE‚·‚°‚±‚ÜŒN8Šªi‰i–ì‚Ì‚è‚±jc‘S‚SìŠY“–<br>ƒVƒ‡[ƒgƒJƒbƒc1ŠªiŒÃ‰®“eŠÛjcCUT-‚S‚UE‚S‚V@<br>–ãX!!MONJIRO3ŠªiŽRŒû‚©‚Â‚Ýjc‚¨•—˜C‚ÅƒhƒbƒLƒ“‰»gp‚ÌŠª@<br>LASTMAN‚P‚PE‚VŠªi ]ì’B–ç jc¬AI“¯«ˆ¤— ‘¼<br>ƒ¬”NƒRƒ~ƒbƒN„<br>‚ ‚­‚Ä‚¡‚ÔSi‚Ä‚é‚«ŒFjc”‚U@—‚ÌŽq‚Å‚¢‚±‚¤<br>¶æÑŽsêVol.5Cl‘Ì‰ü‘¢i˜±•””]ŠÛjcDogmatic@Doctrinc<br>ƒCƒmƒZƒ“ƒgƒtƒ‹[ƒci‘Š‰HãÄ•äjc^‹Õ‚¿‚á‚ñChangeI<br>‚¤‚ç‚ç‚¿‚á‚ñƒnƒCIiL.C.Poweredjc’¿Ž–<br>ASIAN JAM‡Aijc –º–º‘ä•— <br>‚¨‰Å‚³‚ñ‚É‚È‚è‚½‚¢i‚ä‚«‚¨‚ñjc—ö‚Ì¬’·‘£iÜ@<br>ƒL‚ÍƒLƒmƒR‚ÌƒLiXŽR@“ƒjcƒL‚ÍƒLƒmƒR‚ÌƒL @<br>‹Ö’fˆ¤‡Bi•ì‚ ‚Ã‚³jcˆ¤î‚ª—Ž‚µŒŠ<br>‚±‚Ë‚±ƒRƒ}ƒ“ƒh[iƒ†ƒiƒCƒg‘oŽ™jcPURIPURIšâ—·ŠÙ<br>­—‚Ì–¡Šoi‰e˜T‚Ú‚ª•vjcƒMƒuEƒ~[Eƒn[ƒg<br>‚º‚ñ‚Ô•ø‚«‚µ‚ß‚ÄiŠC¶“ß’q@jcƒƒ^ƒ‚ƒ‹ƒgƒ‰ƒuƒ‹<br>CHANGEI‚PE‚QŠªi‚½‚¢‚ç‚Í‚¶‚ßjcCHANGE<br>ƒgƒ‰ƒCƒAƒ“ƒOƒ‹Eƒ‰ƒvƒ\ƒfƒBi‚c‚’ƒ‰ƒCƒXƒPjc‚¿‚å‚Á‚ÆƒAƒu‚È‚¢“ñl‚ÌŠÖŒW<br>ƒpƒCƒN‚Si²“¡‚¦‚èŽqjcˆ¤î‚ª—Ž‚Æ‚µŒŠ”ÔŠO•Ò<br>”ü­—ƒtƒ‹[ƒcƒJƒNƒeƒ‹i“‡–ì‚ ‚ä‚Ýjc‚e‚’‚‰‚…‚Ž‚„<br>ƒsƒƒ“ƒ^ƒ“‚Q‚Piƒsƒƒ“ƒ^ƒ“jcƒ`ƒFƒ“ƒWƒ“ƒOƒnƒj[™<br>•n“ûŠw‹æiƒKƒrƒ‡•zjc‚¿‚Ñ‚ß‚ª‚ËŒ¤‹†Š<br>MACAROON NO.4iŽR“c•˜Zjc‚Í‚ñ‚Ô‚ñ•sŽv‹c<br>MONKEY@PARKi–ã‹SˆÐ“ó†jc‚c‚’D™“c‚Ìˆ¤‚ÌŒ¤‹†Š@‘æ‚R˜b<br>ƒ‰f‘œ„<br>‚Ü‚¶‚©‚é‚½‚éƒ‹[ƒg‚­‚ñcƒzƒ‹ƒ‚ƒ“ƒK[‚Í—L–¼‚Å‚·‚ËB<br>ƒ‰ƒCƒA[ƒK[ƒ‹<br>ƒWƒLƒ‹”ŽŽm‚Æƒ~ƒXƒnƒCƒh<br>ƒƒQ[ƒ€„<br>WINEXchangeƒVƒŠ[ƒYiCROWDjc“¯lƒQ[‚à‚ ‚éB<br>WINE—‚ÌŽq‚Ìƒqƒ~ƒciˆÅ‰_’ÊMj<br>WINE—ö‚·‚éƒTƒCƒGƒ“ƒXiƒRƒ“ƒvƒŠ[ƒcj<br>WINEShiftIitrash)<br>PC98‚Ì ‚ÌƒQ[ƒ€‚É‚Í‚»‚êŒn‘½‚¢‚Ý‚½‚¢B</font></ul>
+<ul><br><font size=3>å–ã‚Šã‚ãˆãšã€è¶£å‘ã«å…¨éƒ¨åˆã†ã‹ã¯è¬Žã§ã™ã‘ã‚Œã©ã€ã‚¯ãƒ©ãƒ•ãƒˆã®ãƒªã‚¹ãƒˆã‹ã‚‰ã€<br>ã€Œè–¬ã€ã§æ¤œç´¢ã—ã¦ãƒ”ãƒƒã‚¯ã‚¢ãƒƒãƒ—â€¦è©³ç´°ã¯è¦‹ã«ãã¦ã‘ã‚Œï¼<br><a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>http://www.dragonrjp.or.tv/claft/index.html</a>ã€€ãã‚‰ãµã¨<br><br>ï¼œå°‘å¹´ã‚³ãƒŸãƒƒã‚¯ï¼ž<br>çªæ’ƒï¼ãƒ‘ãƒƒãƒ‘ãƒ©éšŠï¼ˆï¼˜ï¼‰â€¦ã‚°ãƒ­ãƒ¼ã‚¤ãƒ³ã‚¢ãƒƒãƒ—ã—ã£ã¨å¤§ä½œæˆ¦<br>ï¼œå°‘å¥³ã‚³ãƒŸãƒƒã‚¯ï¼ž<br>ãŠæ˜Ÿæ§˜ã«ãŠé¡˜ã„ï¼8å·»ï¼ˆè—¤å´Ž çœŸç·’ï¼‰â€¦ãƒ€ã‚¤ãƒ¤ãƒ¢ãƒ³ãƒ‰ãªå›ã¨åƒ•<br>ã©ã‚ã‚“ï¼ˆå¼“æœˆå…‰ï¼‰â€¦ã©ã‚ã‚“<br>ã®ãžã¿ã‹ãªãˆæ ªå¼ä¼šç¤¾ï¼ˆç”°å³¶ãƒŸãƒ«ã‚¯ï¼‰â€¦10è©±ãƒ»ç”·ã¯ãã‚Œã‚’æˆ‘æ…¢ã§ããªã„<br>ã»ã¨ã‚“ã©ä»¥ä¸Šçµ¶å¯¾æœªæº€ï¼ˆæ¡‘ç”°ä¹ƒæ¢¨å­ã€€ï¼‰â€¦ã»ã¨ã‚“ã©ä»¥ä¸Šçµ¶å¯¾æœªæº€<br>ã‚ã„ã‚ãã‹ã—ã‚‰ã‚“ï¼ˆé¢¨é–“å®å­ï¼‰â€¦ã‚ã„ã‚ãã‹ã—ã‚‰ã‚“<br>ï¼œé’å¹´ã‚³ãƒŸãƒƒã‚¯ï¼ž<br>ã‚ã‚ã£å¥³ç¥žã•ã¾ã£ ï¼™å·»â€¦ã€èƒ¸ã ã‘ã€‘<br>æ„Ÿã˜ã•ã›ã¦BABYï¼ˆå¤§å³¶å²³è©©ï¼‰â€¦ï¼‘ãƒ»ï¼”ãƒ»ï¼•å·»ä»–<br>GOD SAVE THEã™ã’ã“ã¾å›8å·»ï¼ˆæ°¸é‡Žã®ã‚Šã“ï¼‰â€¦å…¨ï¼”ä½œè©²å½“<br>ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒ„1å·»ï¼ˆå¤å±‹å…Žä¸¸ï¼‰â€¦CUT-ï¼”ï¼–ãƒ»ï¼”ï¼—ã€€<br>æ‚¶ã€…!!MONJIRO3å·»ï¼ˆå±±å£ã‹ã¤ã¿ï¼‰â€¦ãŠé¢¨å‘‚ã§ãƒ‰ãƒƒã‚­ãƒ³åŒ–èº«è¡“ã®å·»ã€€<br>LASTMANï¼‘ï¼‘ãƒ»ï¼—å·»ï¼ˆ æ±Ÿå·é”ä¹Ÿ ï¼‰â€¦æˆå°±ï¼åŒæ€§æ„›å¥³ ä»–<br>ï¼œæˆå¹´ã‚³ãƒŸãƒƒã‚¯ï¼ž<br>ã‚ãã¦ãƒã¶å¿ƒï¼ˆã¦ã‚‹ãç†Šï¼‰â€¦ï¼ƒï¼–ã€€å¥³ã®å­ã§ã„ã“ã†<br>ç”Ÿè´„å¸‚å ´Vol.5ï¼Œäººä½“æ”¹é€ ï¼ˆäºžéƒ¨è„³ä¸¸ï¼‰â€¦Dogmaticã€€Doctrinc<br>ã‚¤ãƒŽã‚»ãƒ³ãƒˆãƒ•ãƒ«ãƒ¼ãƒ„ï¼ˆç›¸ç¾½ç¿”ç©‚ï¼‰â€¦çœŸç´ã¡ã‚ƒã‚“Changeï¼<br>ã†ã‚‰ã‚‰ã¡ã‚ƒã‚“ãƒã‚¤ï¼ï¼ˆL.C.Poweredï¼‰â€¦çäº‹<br>ASIAN JAMâ‘¡ï¼ˆï¼‰â€¦ å¨˜å¨˜å°é¢¨ <br>ãŠå«ã•ã‚“ã«ãªã‚ŠãŸã„ï¼ˆã‚†ããŠã‚“ï¼‰â€¦æ‹ã®æˆé•·ä¿ƒé€²å‰¤ã€€<br>ã‚­ã¯ã‚­ãƒŽã‚³ã®ã‚­ï¼ˆæ£®å±±ã€€å¡”ï¼‰â€¦ã‚­ã¯ã‚­ãƒŽã‚³ã®ã‚­ ã€€<br>ç¦æ–­æ„›â‘¢ï¼ˆé»’å·ã‚ã¥ã•ï¼‰â€¦æ„›æƒ…ãŒè½ã—ç©´<br>ã“ã­ã“ã‚³ãƒžãƒ³ãƒ‰ãƒ¼ï¼ˆãƒ¦ãƒŠã‚¤ãƒˆåŒå…ï¼‰â€¦PURIPURIå£ºæ—…é¤¨<br>å°‘å¥³ã®å‘³è¦šï¼ˆå½±ç‹¼ã¼ãŒå¤«ï¼‰â€¦ã‚®ãƒ–ãƒ»ãƒŸãƒ¼ãƒ»ãƒãƒ¼ãƒˆ<br>ãœã‚“ã¶æŠ±ãã—ã‚ã¦ï¼ˆæµ·ç”Ÿé‚£æ™ºã€€ï¼‰â€¦ãƒ¡ã‚¿ãƒ¢ãƒ«ãƒˆãƒ©ãƒ–ãƒ«<br>CHANGEï¼ï¼‘ãƒ»ï¼’å·»ï¼ˆãŸã„ã‚‰ã¯ã˜ã‚ï¼‰â€¦CHANGE<br>ãƒˆãƒ©ã‚¤ã‚¢ãƒ³ã‚°ãƒ«ãƒ»ãƒ©ãƒ—ã‚½ãƒ‡ã‚£ï¼ˆï¼¤ï½’ãƒ©ã‚¤ã‚¹ã‚±ï¼‰â€¦ã¡ã‚‡ã£ã¨ã‚¢ãƒ–ãªã„äºŒäººã®é–¢ä¿‚<br>ãƒ‘ã‚¤ã‚¯ï¼”ï¼ˆä½è—¤ãˆã‚Šå­ï¼‰â€¦æ„›æƒ…ãŒè½ã¨ã—ç©´ç•ªå¤–ç·¨<br>ç¾Žå°‘å¥³ãƒ•ãƒ«ãƒ¼ãƒ„ã‚«ã‚¯ãƒ†ãƒ«ï¼ˆå³¶é‡Žã‚ã‚†ã¿ï¼‰â€¦ï¼¦ï½’ï½‰ï½…ï½Žï½„<br>ãƒ”ãƒ­ãƒ³ã‚¿ãƒ³ï¼’ï¼‘ï¼ˆãƒ”ãƒ­ãƒ³ã‚¿ãƒ³ï¼‰â€¦ãƒã‚§ãƒ³ã‚¸ãƒ³ã‚°ãƒãƒ‹ãƒ¼â˜†<br>è²§ä¹³å­¦åŒºï¼ˆã‚¬ãƒ“ãƒ§å¸ƒï¼‰â€¦ã¡ã³ã‚ãŒã­ç ”ç©¶æ‰€<br>MACAROON NO.4ï¼ˆå±±ç”°åŠ©å…­ï¼‰â€¦ã¯ã‚“ã¶ã‚“ä¸æ€è­°<br>MONKEYã€€PARKï¼ˆæ‚¶é¬¼å¨å¼å·ï¼‰â€¦ï¼¤ï½’ï¼Žæ‰ç”°ã®æ„›ã®ç ”ç©¶æ‰€ã€€ç¬¬ï¼“è©±<br>ï¼œæ˜ åƒï¼ž<br>ã¾ã˜ã‹ã‚‹ãŸã‚‹ãƒ«ãƒ¼ãƒˆãã‚“â€¦ãƒ›ãƒ«ãƒ¢ãƒ³ã‚¬ãƒ¼ã¯æœ‰åã§ã™ã­ã€‚<br>ãƒ©ã‚¤ã‚¢ãƒ¼ã‚¬ãƒ¼ãƒ«<br>ã‚¸ã‚­ãƒ«åšå£«ã¨ãƒŸã‚¹ãƒã‚¤ãƒ‰<br>ï¼œã‚²ãƒ¼ãƒ ï¼ž<br>WINãƒ»Xchangeã‚·ãƒªãƒ¼ã‚ºï¼ˆCROWDï¼‰â€¦åŒäººã‚²ãƒ¼ã‚‚ã‚ã‚‹ã€‚<br>WINãƒ»å¥³ã®å­ã®ãƒ’ãƒŸãƒ„ï¼ˆé—‡é›²é€šä¿¡ï¼‰<br>WINãƒ»æ‹ã™ã‚‹ã‚µã‚¤ã‚¨ãƒ³ã‚¹ï¼ˆã‚³ãƒ³ãƒ—ãƒªãƒ¼ãƒ„ï¼‰<br>WINãƒ»Shiftï¼ï¼ˆtrash)<br>PC98ã®é ƒã®ã‚²ãƒ¼ãƒ ã«ã¯ãã‚Œç³»å¤šã„ã¿ãŸã„ã€‚</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1990>
-<font color=#6A5ACD>RE:TSFî•ñƒgƒŒƒgƒŒî•ñ‹Ç@YMR“Á•Ê†</font></a>
+<font color=#6A5ACD>RE:TSFæƒ…å ±ãƒˆãƒ¬ãƒˆãƒ¬æƒ…å ±å±€ã€€YMRç‰¹åˆ¥å·</font></a>
 <font color=#303030>
-‚Ñ‚ã‚Ì
- ‚³‚ñ</font>
- <font size=2>2003”N10ŒŽ10“ú(‹à) 0Žž35•ª</font>
+ã³ã‚…ã®
+ ã•ã‚“</font>
+ <font size=2>2003å¹´10æœˆ10æ—¥(é‡‘) 0æ™‚35åˆ†</font>
 <a href=http://www.dragonrjp.or.tv/claft/index.html target=_top>HomePage</a>
-<a href="resbbs4_b.cgi?vew=1990">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>™X‚É—«‰»‚µ‚Ä‚¢‚­Œn‚Ì‚¾‚¯‚É‚È‚é‚Æ‚à‚Á‚ÆŒ¸‚è‚Ü‚·‚ªcB</font></ul>
+<a href="resbbs4_b@vew_1990.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>å¾ã€…ã«å¥³æ€§åŒ–ã—ã¦ã„ãç³»ã®ã ã‘ã«ãªã‚‹ã¨ã‚‚ã£ã¨æ¸›ã‚Šã¾ã™ãŒâ€¦ã€‚</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1991>
-<font color=#6A5ACD>RE:TSFî•ñƒgƒŒƒgƒŒî•ñ‹Ç@YMR“Á•Ê†</font></a>
+<font color=#6A5ACD>RE:TSFæƒ…å ±ãƒˆãƒ¬ãƒˆãƒ¬æƒ…å ±å±€ã€€YMRç‰¹åˆ¥å·</font></a>
 <font color=#303030>
-ƒjƒP
- ‚³‚ñ</font>
- <font size=2>2003”N10ŒŽ12“ú(“ú) 1Žž59•ª</font>
-<a href="resbbs4_b.cgi?vew=1991">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>‚Å‚«‚ê‚Î™X‚É—«‰»‚à‚¨Šè‚¢‚µ‚Ü‚·‚iDDj‚</font></ul>
+ãƒ‹ã‚±
+ ã•ã‚“</font>
+ <font size=2>2003å¹´10æœˆ12æ—¥(æ—¥) 1æ™‚59åˆ†</font>
+<a href="resbbs4_b@vew_1991.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>ã§ãã‚Œã°å¾ã€…ã«å¥³æ€§åŒ–ã‚‚ãŠé¡˜ã„ã—ã¾ã™ï½ï¼ˆï¼Žï¼Žï¼‰ï½</font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=‹LŽ–íœ>
+<input type=submit name=button value=è¨˜äº‹å‰Šé™¤>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

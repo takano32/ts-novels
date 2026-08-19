@@ -1,105 +1,105 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1021163197qlgse&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1021163197qlgse_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���D�����������������i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">ｈ．ｈｏｋｕｒａさん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2002/05/12 09:26:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2002/05/12 09:26:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021163197qlgse&id2=1021163197qlgse&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021163197qlgse_id2_1021163197qlgse_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������c�c
+準備中……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/11103513/seirei.htm" target="_blank">�w�����L�V���t�B�[���h�@���́x������ɂ͂������N���b�N�B</a></strong>  <i>2002/05/12 14:48:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/11103513/seirei.htm" target="_blank">『精霊戦記シルフィールド　序章』を見るにはここをクリック。</a></strong>  <i>2002/05/12 14:48:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021182485xifhdwx&id2=1021163197qlgse&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021182485xifhdwx_id2_1021163197qlgse_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���D����������������̐V��͋��働�{�b�g���́B���E��H�炤�ٌ`�̈��ӂɗ����������I�@�����I
+【推薦文】ｈ．ｈｏｋｕｒａさんの新作は巨大ロボットもの。世界を食らう異形の悪意に立ち向かえ！　彰っ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/12 21:05:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/12 21:05:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021205136xrwjwcs&id2=1021163197qlgse&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021205136xrwjwcs_id2_1021163197qlgse_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�������������I<BR>����͂��΂炵���t�@���^�W�[�ł��˂��B�ǂ�ł��Ďv���؂��i���E�Ɉ������܂�܂�����B<BR>�`�����ِ��E�������̂ŁA�����񂪂������֍s���̂��Ǝv������A���~�A����ƓG���������֗��Ă��܂�����ł��ˁB<BR>�����߈��߂����AMONDO�攌�̃C���X�g�����܂��Ĕ��ɖG�������i���j�B�܂��A���~�A���񂪗{�싳�@�i�ی����̐搶�j�Ƃ����̂��Ȃ��Ȃ��c�{��˂��Ă��܂��ȁB�Ȃ��Ȃ������V�`���G�[�V�����ł͂Ȃ��ł��傤���i�΁j�B<BR>���ꂩ��ǂ��Ȃ��Ă����̂��A���Ɋy���݂ł��B
+読んだバイ♪<BR>うぉおおおお！<BR>これはすばらしいファンタジーですねぇ。読んでいて思い切り作品世界に引き込まれましたよ。<BR>冒頭が異世界だったので、彰くんがそっちへ行くのかと思いきや、ラミアさんと敵がこっちへ来てしまったんですね。<BR>彰改め亜衣ちゃん、MONDO画伯のイラストも相まって非常に萌えっす（爆）。また、ラミアさんが養護教諭（保健室の先生）というのもなかなかツボを突いていますな。なかなかいいシチュエーションではないでしょうか（笑）。<BR>これからどうなっていくのか、非常に楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/05/13 01:17:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/05/13 01:17:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021220228jsnmrb&id2=1021163197qlgse&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021220228jsnmrb_id2_1021163197qlgse_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����c�e�F���ۂ��F�����Ɖ����؂ꂿ����Ĕ߂����Ƃ��낪���\�c�{�ł��B����͂������������Ă����Ƃ����ȂƎv���܂����B����ɂ��Ă��A�@�_�c���{�b�g�ɏ��Ƃ������͕ϐg����悤�Ȋ����Ȃ̂�������ƐV�N�ł��ˁB�Ƃ͂����A����͊���Ƃ�������Ƃ��Ă����Ǝv���܂��B�Ƃ����킯�ŋ@�_�̐퓬�V�[���������ƌ������ȂƓd�g�d���͎v���܂����B
+うう…親友っぽい友だちと縁が切れちゃって悲しいところが結構ツボです。次回はそこを強調してくれるといいなと思いました。それにしても、機神…ロボットに乗るというよりは変身するような感じなのがちょっと新鮮ですね。とはいえ、今回は割りとあっさりとしていたと思います。というわけで機神の戦闘シーンがもっと見たいなと電波妖精は思いました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/05/13 09:52:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あい</strong>  <i>2002/05/13 09:52:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021251166xaigu&id2=1021163197qlgse&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021251166xaigu_id2_1021163197qlgse_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����H�@�{�N���o�Ă���i�΁j�@���g�����o���Ȃ��̂ɂȁ`�i���j<BR><BR>��k�͂��ꂮ�炢�ɂ��āA(^-^ ) �j�R�b<BR><BR>�Ȃ񂩖����@�_���v��������ł��܂��܂����B<BR>���ƁA�f�K���̃m�[�x����ʖ����v�������т܂����B<BR><BR>�t�@���^�W�[�ƃ��{�b�g���̍��̂��Ċ����ŗǂ������ł��B<BR><BR>�Â����߂���߂���y���݂ł��B
+あれ？　ボクが出ている（笑）　分身した覚えないのにな～（爆）<BR><BR>冗談はこれぐらいにして、(^-^ ) ニコッ<BR><BR>なんか魔装機神が思い浮かんでしまいました。<BR>あと、Ｇガンのノーベル眼駄霧も思い浮かびました。<BR><BR>ファンタジーとロボット物の合体って感じで良かったです。<BR><BR>つづきがめちゃめちゃ楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/13 16:14:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/13 16:14:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021274077qsgrhl&id2=1021163197qlgse&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021274077qsgrhl_id2_1021163197qlgse_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>���΂炵�����x���c�P
+すばらしい、実にすばらしい<BR>すばらしいレベル…１
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�키�l�X</strong>  <i>2002/05/14 21:55:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>戦うＭ９</strong>  <i>2002/05/14 21:55:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021380949acapxh&id2=1021163197qlgse&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021380949acapxh_id2_1021163197qlgse_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����L�V���t�B�[���h�@���́z<BR>��[�����{�b�g���̂��[�B�V���t�B�[�h�A���_��␶�݂����Ȃ̂��ȁB�ݒ�Ȃ񂩂��������肵�ĂāA���ꂩ�炪�y���݂ł��B<BR>���Ƃ��Ă̓p�c�L���̃��~�A����Ɉ�[�B
+【精霊戦記シルフィールド　序章】<BR>わーいロボットものだー。シルフィード、女神候補生みたいなのかな。設定なんかもしっかりしてて、これからが楽しみです。<BR>私としてはパツキンのラミアさんに一票。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1021163197qlgse">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,100 +1,100 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:����>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:動画>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2010>
 <input type=hidden name=ress value=2010>
-<input type=submit value=����֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=動画へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2010>
-<font color=#6A5ACD>����</font></a>
+<font color=#6A5ACD>動画</font></a>
 <font color=#303030>
 nomad2000
- ����</font>
- <font size=2>2003�N10��19��(��) 19��52��</font>
+ さん</font>
+ <font size=2>2003年10月19日(日) 19時52分</font>
 <a href=http://www.geocities.co.jp/AnimeComic-Cell/3112/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=2010">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�R�~�b�N�́A<b>CAT-LING</b>�z</font>
+<a href="resbbs4@vew_2010.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるコミックは、<b>CAT-LING</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�ǁ`���ł��B�v���Ԃ�ɓ�������܂����B<br>�ƌ����Ă��܂��r���܂łł����A�Ƃ肠�������L�̃y�[�W�̉E����T���N���b�N�����QuickTime�̉��o�[�W�����֔�т܂��B<br><a href=http://www.geocities.co.jp/AnimeComic-Cell/3112/project.html target=_top>http://www.geocities.co.jp/AnimeComic-Cell/3112/project.html</a></font></ul>
+<ul><br><font size=3>ど～もです。久しぶりに動画を作りました。<br>と言ってもまだ途中までですが、とりあえず下記のページの右下のTをクリックするとQuickTimeの仮バージョンへ飛びます。<br><a href=http://www.geocities.co.jp/AnimeComic-Cell/3112/project.html target=_top>http://www.geocities.co.jp/AnimeComic-Cell/3112/project.html</a></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2012>
-<font color=#6A5ACD>RE:����</font></a>
+<font color=#6A5ACD>RE:動画</font></a>
 <font color=#303030>
-�����s�r��
- ����</font>
- <font size=2>2003�N10��20��(��) 16��43��</font>
-<a href="resbbs4.cgi?vew=2012">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�҂��Ă܂����I�Ƃ������͎������ł͂Ȃ��Ǝv���܂��B<br><br>�����Ȃ��犮���x�̍�����i�ł����A��������i�ƃX���[�Y�ɂȂ��Ă܂��ˁB<br><br>�����������オ�C�ɂȂ�Ƃ���ł����A����܂ł͖ϑz�������܂������Ă���܂��̂ŁA��������d�グ�Ă�������(^^;</font></ul>
+匿名ＴＳ課
+ さん</font>
+ <font size=2>2003年10月20日(月) 16時43分</font>
+<a href="resbbs4@vew_2012.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>待ってました！という声は私だけではないと思います。<br><br>いつもながら完成度の高い作品ですが、動きが一段とスムーズになってますね。<br><br>早くも完成後が気になるところですが、それまでは妄想をたくましくしておりますので、じっくり仕上げてください(^^;</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2013>
-<font color=#6A5ACD>RE:����</font></a>
+<font color=#6A5ACD>RE:動画</font></a>
 <font color=#303030>
 nomad2000
- ����</font>
- <font size=2>2003�N10��21��(��) 0��27��</font>
-<a href="resbbs4.cgi?vew=2013">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���肪�Ƃ��������܂��B<br>�t���[����⊮���čs���΁A�����ƃX���[�Y�ɂł���̂ł����A�Ƃ�ł��Ȃ����Ԃ����������ŁB<br>���܂ł����邩�킩��܂��񂪁A�C���ɂ��҂������� (^^;;</font></ul>
+ さん</font>
+ <font size=2>2003年10月21日(火) 0時27分</font>
+<a href="resbbs4@vew_2013.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ありがとうございます。<br>フレームを補完して行けば、もっとスムーズにできるのですが、とんでもなく時間がかかるもんで。<br>いつまでかかるかわかりませんが、気長にお待ち下さい (^^;;</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2083>
-<font color=#6A5ACD>RE:����</font></a>
+<font color=#6A5ACD>RE:動画</font></a>
 <font color=#303030>
 nomad2000
- ����</font>
- <font size=2>2003�N12��7��(��) 19��19��</font>
-<a href="resbbs4.cgi?vew=2083">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����Ԃ�Ǝ��Ԃ�������܂������A�Ƃ肠���������ł炵�����̂�UP���܂����B<br>����GIF�A�j�����P���B�������́u��i���́v�ł��B</font></ul>
+ さん</font>
+ <font size=2>2003年12月7日(日) 19時19分</font>
+<a href="resbbs4@vew_2083.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ずいぶんと時間がかかりましたが、とりあえず完成版らしきものをUPしました。<br>あとGIFアニメを１枚。こっちは「手品もの」です。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -102,7 +102,7 @@ nomad2000
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

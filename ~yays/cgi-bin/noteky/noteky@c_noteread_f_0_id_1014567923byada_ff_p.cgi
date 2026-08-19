@@ -1,106 +1,106 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1014567923byada&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1014567923byada_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�����̎�</font><br>
+<font size="+2" color="#0000FF">少女の時</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200110/28050903/syoujinotoki.html" target="_blank">�����̎�������ɂ͂������N���b�N�B</a></strong>  <i>2002/02/25 01:25:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200110/28050903/syoujinotoki.html" target="_blank">少女の時を見るにはここをクリック。</a></strong>  <i>2002/02/25 01:25:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014567923byada&id2=1014567923byada&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014567923byada_id2_1014567923byada_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���̑���������̂��H���������|���B
+【推薦文】この続きがあるのか？香澄ちゃん怖い。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�x��������</strong>  <i>2002/02/25 13:07:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｙｏｕｍａ</strong>  <i>2002/02/25 13:07:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014610035nuhspfy&id2=1014567923byada&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014610035nuhspfy_id2_1014567923byada_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ȃƌ�����ƁA�������Ȃ����Ⴄ�̂��߂������B<BR><BR>�w�Y�o���A�����˂����OverDrive�ł��傤�`�@�i�^�������j�x<BR><BR>����͂Ƃ������A�ق�����ŁA�������C�ɂȂ�܂��B<BR>�܂��Ă܂��̂ł�낵���ł��i�v�j
+するなと言われると、したくなっきゃうのが悲しい性。<BR><BR>『ズバリ、あかねちゃんOverDriveでしょう～　（某○お風）』<BR><BR>そりはともかく、ほんっきで、続きが気になります。<BR>まってますのでよろしくです（Ｗ）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/02/27 17:33:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/02/27 17:33:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014798795xwiudk&id2=1014567923byada&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014798795xwiudk_id2_1014567923byada_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���ɂȂ����b�A�ǂ����Ō������Ƃ��邩������Ȃ��ł����A�ʔ��������ł��B<BR>�@���ɂ����˂����W���[�N���ō��ł����B<BR>�@�X�͂����肩��A������Ə��̎q���ۂ��Ȃ��Ă�̂������ł��ˁB���񂾂񏗂̎q���ۂ��Ȃ��Ă�̂�����ς肢���Ǝv���܂��B<BR>�@���Ƃ��Ă͒�̍L������Ƃ����˂����̂���݂��������낢�Ȃ��Ǝv���܂�����B���[��ō��B<BR>�@�������C�ɂȂ�܂��B<BR>
+　元になった話、どっかで見たことあるかもしれないですが、面白かったです。<BR>　特にあかねちゃんジョークが最高でした。<BR>　９章あたりから、ちょっと女の子っぽくなってるのもいいですね。だんだん女の子っぽくなってるのがやっぱりいいと思います。<BR>　私としては弟の広樹くんとあかねちゃんのからみがおもしろいなあと思いましたよ。うーん最高。<BR>　続きが気になります。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2002/02/27 22:31:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2002/02/27 22:31:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014816689jyesds&id2=1014567923byada&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014816689jyesds_id2_1014567923byada_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�w���x���āw���x�H<BR><BR>�N�C�Y�̓���<BR>�w�Ē��w��N���x
+『蘭』って『欄』？<BR><BR>クイズの答え<BR>『再中学一年生』
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow@�^�c�ψ�</a></strong>  <i>2002/02/28 01:38:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow@運営委員</a></strong>  <i>2002/02/28 01:38:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014827911lnkquw&id2=1014567923byada&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014827911lnkquw_id2_1014567923byada_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�w���x���āw���x�H<BR>�뎚�`�F�b�N�ɘR�ꂪ����A�\���󂠂�܂���ł����B<BR>�������Ă����܂����B
+&gt;『蘭』って『欄』？<BR>誤字チェックに漏れがあり、申し訳ありませんでした。<BR>訂正しておきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�������z�̂����W�S�Q�U</a></strong>  <i>2002/03/01 22:40:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">○速感想のｍｋ８４２６</a></strong>  <i>2002/03/01 22:40:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014990024mmlowd&id2=1014567923byada&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014990024mmlowd_id2_1014567923byada_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�Ȃ񂾂��f�W���u�i�΁j�B<BR>�Ƃ肠�����������ǂ��Ȃ�̂��C�ɂȂ�܂��ˁB<BR><BR>�����z�����̂����W�S�Q�U�ł����B
+読んだバイ♪<BR>なんだかデジャブ（笑）。<BR>とりあえず続きがどうなるのか気になりますね。<BR><BR>引っ越し疲れのｍｋ８４２６でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�H�H�H</strong>  <i>2002/03/01 23:49:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>？？？</strong>  <i>2002/03/01 23:49:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1014994177vpvdex&id2=1014567923byada&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1014994177vpvdex_id2_1014567923byada_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@��C�ɓǂ�ł��܂����E�E�E�B���Ȃ肨�����납�����ł��B<BR>�@���ǂc�c���̂��܂��͔�������Ȃ����ƁB���w�P�N�̏��̎q����܂��l���w�R�O�O���R��Ȃ�đ̗͎����Ȃ����B�B����������Ă邯�ǂ���������������񃌃x���B
+　一気に読んでしまった・・・。かなりおもしろかったです。<BR>　けどＤＤ○のうまさは反則じゃないかと。中学１年の女の子じゃまずＭ○Ｘ３００を３回なんて体力持たないし。。自分もやってるけどせいぜい香澄ちゃんレベル。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1014567923byada">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,132 +1,132 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1012551355sdnny&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1012551355sdnny_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�}�ȏo����RB</font><br>
+<font size="+2" color="#0000FF">急な出張にRB</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ��� </strong>  <i>2002/02/01 17:15:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会 </strong>  <i>2002/02/01 17:15:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012551355sdnny&id2=1012551355sdnny&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012551355sdnny_id2_1012551355sdnny_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j 
+Now Printing!（準備中） 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200202/01171723/rbsyucho.htm" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2002/02/01 17:51:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200202/01171723/rbsyucho.htm" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2002/02/01 17:51:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012553485iegps&id2=1012551355sdnny&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012553485iegps_id2_1012551355sdnny_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ����ȏo������������ōs���ȁ`
+【推薦文】 そんな出張だったら喜んで行くな～
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/02/01 21:03:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/02/01 21:03:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012565015fcrpb&id2=1012551355sdnny&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012565015fcrpb_id2_1012551355sdnny_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���Ђ�Ђ�Ђ�Ђ�Ђ�I<BR>�A�C�h���ɗc���ɗH��H<BR>����[�A�Ȃ��Ȃ��������̌��ł��Ȃ��B<BR>�������A�悭���c���̎p�ŐM�p���ꂽ���񂾁i�΁j�B<BR>�ŁA�I�`������i�΁j�B�ō��ł��ˁB<BR>���҂���������A���̂܂܉��炩�̌����Ō��ɖ߂�Ȃ��Ȃ����肵�������i���j�B
+読んだバイ♪<BR>うひゃひゃひゃひゃひゃ！<BR>アイドルに幼女に幽霊？<BR>いやー、なかなかすごい体験ですなぁ。<BR>しかし、よくぞ幼女の姿で信用されたもんだ（笑）。<BR>で、オチがこれ（笑）。最高ですね。<BR>続編があったら、そのまま何らかの原因で元に戻れなくなったりしそうだ（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/02/02 00:46:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/02/02 00:46:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012578408hacemv&id2=1012551355sdnny&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012578408hacemv_id2_1012551355sdnny_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�c���������߂ł���ؖ��Ɂu�o�[�R�[�h�v�Ɓu�g�ѓd�b�v���g�p�����A<BR>�ƍl����̂������ł��傤�B<BR>���̎���ݒ�ł́A�w�I���W�i���Ƃq�a����������ׂ̎�i�������݂�x���ɂȂ��Ă��܂��̂ŁiRe-mix�Q�Ɓj�B
+幼女が仮初めである証明に「バーコード」と「携帯電話」を使用した、<BR>と考えるのが正解でしょう。<BR>この時代設定では、『オリジナルとＲＢを見分ける為の手段が複数在る』事になっていますので（Re-mix参照）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/02/02 00:53:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/02/02 00:53:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012578833honnob&id2=1012551355sdnny&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012578833honnob_id2_1012551355sdnny_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��[APPEND 1]<BR><BR>�\�\�ƁA��A�̊F����́c�B<BR>��L�R�̑��ɂ������̃p�^�[���͑��X����܂��B<BR>��F�Ō�w�E�w���E�V�k�E�����ƁE���m�c�B<BR>
+＞[APPEND 1]<BR><BR>――と、常連の皆さんは…。<BR>上記３つの他にも女性のパターンは多々あります。<BR>例：看護婦・学生・老婆・舞踏家・兵士…。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2002/02/03 15:25:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012717507qwvix&id2=1012551355sdnny&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012717507qwvix_id2_1012551355sdnny_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
- �ʔ��������ł��B�ŋ߁A���͓I�ɏ����Ă����܂��ˁB<BR>�Z�������b�Ȃ̂ɁA����������������A�ƂĂ��e���|�ǂ��ǂ߂܂����B<BR>������3�̃|�C���g�����ꂼ��o���G�[�V�����ɕx��ł���ɂ�������炸�A���������ꂾ���̒Z�����ɂ܂Ƃ߂Ă���Ƃ���ɍ����M�͂������܂����B<BR> ���ꂩ����A����΂��Ă��������B
+ 面白かったです。最近、精力的に書いておられますね。<BR>忙しいお話なのに、それを感じさせず、とてもテンポ良く読めました。<BR>しかも3つのポイントがそれぞれバリエーションに富んでいるにもかかわらず、たったこれだけの短かさにまとめているところに高い筆力を感じました。<BR> これからも、がんばってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>ZERO</strong>  <i>2002/02/05 01:09:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1012838969ddhuku&id2=1012551355sdnny&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1012838969ddhuku_id2_1012551355sdnny_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������˂��B<BR>��q�l�b�g���[�N�����p������Ă���̘b�ł��˂��B<BR>�������A���ɂS�K�̓]���Ɠ���ւ��ɂ�������Ƃ́E�E�E�E�E�E
+いっすねぇ。<BR>霊子ネットワークが実用化されてからの話ですねぇ。<BR>しかし、日に４階の転送と入れ替えにたえうるとは・・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/index.html" target="_blank">���c����</a></strong>  <i>2002/02/08 17:09:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/index.html" target="_blank">原田聖也</a></strong>  <i>2002/02/08 17:09:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013155747qwerxo&id2=1012551355sdnny&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013155747qwerxo_id2_1012551355sdnny_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���킽�������W�J�ł����A�F��ȃo���G�[�V�����̂s�r���܂��Ă��ĂƂĂ��ʔ��������ł��B�A�C�f�A���ǂ������ł����s�r�I�W�J�Ɍ˘f����l���Ƃ���ɐU��񂳂����͂̐l���̕`�ʂ��܂��ǂ������ł��B<BR>�����������ɑ�Q�f�����̍�i������ɂȂ��Ă���Ɗy�����Ă����ł��ˁB(^^)
+あわただしい展開ですが、色んなバリエーションのＴＳがつまっていてとても面白かったです。アイデアも良かったですがＴＳ的展開に戸惑う主人公とそれに振り回される周囲の人物の描写がまた良かったです。<BR>こういう風に第２掲示板発の作品が盛んになってくると楽しくていいですね。(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���C�^�[�}��</strong>  <i>2002/02/10 08:13:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ライターマン</strong>  <i>2002/02/10 08:13:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1013296405fwrpmgq&id2=1012551355sdnny&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1013296405fwrpmgq_id2_1012551355sdnny_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�ǂ������肪�Ƃ��������܂��B<BR><BR>���̘b�A���̐E��œ����悤�ɋ}�ȏo���v��������A�N���s���邩�Y��ł����Ƃ��ɏo���A�C�f�A�����ɂȂ��Ă��܂��B<BR>(���ۂɂ͏o���͍s�����ɍς񂾂��A�O������ĂȂ��������ǂ�)<BR>�����A���ꂼ��̃G�s�\�[�h�łǂ̂悤�ɃI�`�����邩�A����Ɠo��l�������������̂Ŗ��O���ǂ����悤���Ƃ����̂ɔY�݂܂����B<BR>(���ǁA�o��l���̖��O�̓A�C�h���ȊO�A����V���[�Y�̐��������g�p����)<BR><BR>���\��Y�ȍ�i�ł������A���y���݂�����������K���ł��B
+感想どうもありがとうございます。<BR><BR>この話、私の職場で同じように急な出張要請があり、誰が行けるか悩んでいたときに出たアイデアが元になっています。<BR>(実際には出張は行かずに済んだし、徹夜もしてなかったけどね)<BR>ただ、それぞれのエピソードでどのようにオチをつけるか、それと登場人物が多かったので名前をどうしようかというのに悩みました。<BR>(結局、登場人物の名前はアイドル以外、あるシリーズの姓だけを使用した)<BR><BR>結構難産な作品でしたが、お楽しみいただけたら幸いです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1012551355sdnny">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

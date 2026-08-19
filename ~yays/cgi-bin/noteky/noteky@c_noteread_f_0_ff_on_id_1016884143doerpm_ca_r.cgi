@@ -1,171 +1,171 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&ff=on&id=1016884143doerpm&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_ff_on_id_1016884143doerpm_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">����삳���i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">日比野さん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/23203640/hill_01.html" target="_blank">�u����u�́@���́v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/23 20:49:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/23203640/hill_01.html" target="_blank">「光る丘は　序章」を読むにはここをクリック</a></strong>  <i>2002/03/23 20:49:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016884143doerpm&id2=1016884143doerpm&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016884143doerpm_id2_1016884143doerpm_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���ƒ��̒��Q���ĂȂ�ł���ȂɋC���������񂾂낤�c���Ď����͉������Ă�񂾂�(��)�B���ƌ����A�ʂ����Ăǂ��炪�{���̐��E�Ȃ�ł��傤�ˁc�H
+【推薦文】授業中の昼寝ってなんであんなに気持ちいいんだろう…って自分は何書いてるんだか(笑)。夢と現実、果たしてどちらが本当の世界なんでしょうね…？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/23 21:32:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/23 21:32:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016886724ndfaej&id2=1016884143doerpm&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016886724ndfaej_id2_1016884143doerpm_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����܂��ʔ����Ȃ肻���ȗ\�����i�΁j�B<BR>�����܂������B�����ł��˂��B<BR>�͍O���ߏ͉������̍��オ�y���݂ł��ˁB<BR><BR>���Q�͂����悧�`�i�΁j�B
+読んだバイ♪<BR>これまた面白くなりそうな予感が（笑）。<BR>夢もまた現実。いいですねぇ。<BR>章弘改め章音ちゃんの今後が楽しみですね。<BR><BR>昼寝はいいよぉ～（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/23 21:55:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/23 21:55:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016888149tlxfmq&id2=1016884143doerpm&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016888149tlxfmq_id2_1016884143doerpm_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂�����������������<BR><BR>�N�w�ł������c�c�������낢��Ɠǂ݋������o�����c<BR>�����ɂ͌��E������̂ŁA�l���Ă�������񂱂Ƒ����ł����A<BR>�l����΍l���邾���A�����ɂ�c�Ƃ��v���Ă���܂��B<BR>�l����̂��l�Ԃł�����c<BR><BR>�܂��A����͂���Ƃ��āA�X�g�[���[�ł����A<BR>���Ō����H�@���������Ƃ������E�ŁA���ꂩ��ǂ̂悤�ȃX�g�[���[���W�J�����̂����C�ɂȂ�Ƃ���ł��ˁB<BR><BR>���Ƃ��ẮA����삳�񂪋������������ɂȂ��Ă�����w�N�w�x���X�g�[���[�Ɨ��߂ė~�����ȂƎv���܂��B�N�w�D���Ȃ�ł���˂��B���c<BR>�������A����͋�������Ȃ��̂ŁA�̂т̂тƏ����Ă������邱�Ƃ���Ɋ�]���܂��B���ꂩ�������΂��Ă��������ˁB<BR><BR>�d�g�d���͂���˂����i�ł����̂��ȁj�̂��ꂩ��̊���Ɉ�[������܂���<BR><BR>
+これはかっこいい感じ♪♪♪<BR><BR>哲学ですかぁ……私もいろいろと読み漁った経験が…<BR>理性には限界があるので、考えても分からんこと多いですが、<BR>考えれば考えるだけ、いいにゃ…とか思っております。<BR>考えるのが人間ですから…<BR><BR>まあ、それはそれとして、ストーリーですが、<BR>夢で現実？　夢≒現実という世界で、これからどのようなストーリーが展開されるのかが気になるところですね。<BR><BR>私としては、日比野さんが興味をお持ちになっておられる『哲学』をストーリーと絡めて欲しいなと思います。哲学好きなんですよねぇ。私…<BR>もちろん、これは強制じゃないので、のびのびと書いてくださることを第一に希望します。これからもがんばってくださいね。<BR><BR>電波妖精はあやねちゃん（でいいのかな）のこれからの活躍に一票を捧げます♪<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2002/03/25 17:35:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日比野</strong>  <i>2002/03/25 17:35:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017045339goovx&id2=1016884143doerpm&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017045339goovx_id2_1016884143doerpm_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ��񂠂肪�Ƃ��������܂��B�����Ȃ�ď��������ƂȂ����āA�ςȕ��͂Ő\���󂠂�܂���B���X�ɂ��܂��Ȃ��Ă��������Ǝv���܂��B�m�C������̋�Ƃ���A�����i�͉��c�ł���΁h�����ˁh�Ɠǂ�ł���������΁c�j�̓N�w�_�������ł��ˁA�l�͂��܏͂����肩��o���Ă��������Ǝv���܂��B�ł��A���������̍l���͍Ō�Ƀh�J�b�ƂłĂ���Ǝv���܂���c�B�Ō�ɁA���ꂩ���������낵�����肢���܂��B
+みなさんありがとうございます。小説なんて書いたことなくって、変な文章で申し訳ありません。徐々にうまくなっていきたいと思います。ノインさんの仰るとおり、自分（章音…できれば”あきね”と読んでいただければ…）の哲学論をそうですね、四章か五章あたりから出していきたいと思います。でも、だいたいの考えは最後にドカッとでてくると思いますよ…。最後に、これからも応援よろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/23203640/hill_02.html" target="_blank">�u����u�́@���́v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/27 21:15:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/23203640/hill_02.html" target="_blank">「光る丘は　第二章」を読むにはここをクリック</a></strong>  <i>2002/03/27 21:15:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017231358ibopt&id2=1016884143doerpm&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017231358ibopt_id2_1016884143doerpm_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z��������������W�J�����肾������B���R���񑩂̂��̃V�[�����c�B����ł͑��́A�����Ă݂悤���I
+【推薦文】今回もおいしい展開が盛りだくさん。当然お約束のあのシーンも…。それでは第二章、いってみようっ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/27 23:16:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/27 23:16:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017238566ffhhl&id2=1016884143doerpm&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017238566ffhhl_id2_1016884143doerpm_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂�A���ꂵ�͂��������o�Z��<BR>�ŏ��������ɒj���t�A���ŕςɉ��Z���Ă��Ȃ����A�̂т̂тƂ���Ă܂��ˁB<BR>�������A����Ϗ��ɂȂ��������ɂ͂܂������ł��Ȃ��悤�Łi������O�j�A���̂��Ƃ���������x�ɒp���������Ŏ��_�Ƃ����̂����Ƀ|�C���g�����i�΁j�B<BR>���̎q�Ƙb�����A�j�̎q�Ƙb���������C�y�i����͐����΁E�E�E�΁j�Ƃ����̂��Ȃ��Ȃ������ł��B<BR>�������A�̗͂��j���ォ��ς���Ă��Ȃ����āA�����ł񂪂ȁi�΁j�B���̂܂܂����ƃI�����s�b�N�I��ɂȂ����Ⴂ�����i���j�B<BR>�͉������ւ̕ϐg�̍ۂ̎����A�c�o�ɂ��Ă̐����ȂǁA��ʂ�̂��Ƃ͂킩��܂����B<BR>����\�����Ȃ��Ȃ������ł��B���񂪔��Ɋy���݁B
+読んだバイ♪<BR>いやはや、うれしはずかし初登校♪<BR>最初からもろに男言葉連発で変に演技していない分、のびのびとやってますね。<BR>しかし、やっぱ女になった自分にはまだ馴染んでいないようで（当たり前）、そのことを実感する度に恥ずかしさで失神というのが非常にポイント高い（笑）。<BR>女の子と話すより、男の子と話した方が気楽（相手は正反対・・・笑）というのもなかなかいいです。<BR>しかし、体力が男時代から変わっていないって、反則でんがな（笑）。このままいくとオリンピック選手になっちゃいそう（爆）。<BR>章音ちゃんへの変身の際の事情や、ＤＰについての説明など、一通りのことはわかりました。<BR>次回予告もなかなかいいです。次回が非常に楽しみ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/28 10:46:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/28 10:46:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017279965nigfqq&id2=1016884143doerpm&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017279965nigfqq_id2_1016884143doerpm_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����<BR>���o�Z�c����͂����ȈӖ���<BR>TS���ɂƂ��Ă͏Ռ�������킯�Łc<BR>����̘b�́A�Ƃ܂ǂ��������Ă悩�����ł��ˁB<BR><BR>����ɂ��Ă��A�Ȃ�Ă����d���ȑn��Ȃ�ł��傤�B<BR>�o��l������C�ɑ����āc<BR>�������ADP�Ƃ������A�Ȃ�Ƃ��ׂ����͂̐ݒ�c<BR>�����[������ɂȂ��Ă܂��ˁB<BR><BR>�����L�����ɑ΂��ẮA���܂葽�����Ă����Ă����Ȃ�����<BR>����A�L���������𑝂₵�ė~�����ł��B<BR>�܂��A��v�L�����炵���A�^�I�A��t�A�����ė��i������͂���Ȃ�ɐ[��������܂��ˁB���������đ��̃L�����͂��傢���Ȃ̂��낤���c<BR>���낢��Ƒz�����Ă���܂��B<BR><BR>�d�g�d���͎��_�����Ⴄ�S�������ȏ͉������Ɉ�[�ł��B<BR>
+読みました♪<BR>初登校…それはいろんな意味で<BR>TS娘にとっては衝撃があるわけで…<BR>今回の話は、とまどいがあってよかったですね。<BR><BR>それにしても、なんていう重厚な創りなんでしょう。<BR>登場人物が一気に増えて…<BR>しかも、DPとかいう、なんとも細かい力の設定…<BR>奥が深い物語になってますね。<BR><BR>ただキャラに対しては、あまり多すぎてもついていけないかも<BR>今後、キャラ説明を増やして欲しいです。<BR>まあ、主要キャラらしい、真紀、千春、そして隆司あたりはそれなりに深さがありますね。もしかして他のキャラはちょい役なのだろうか…<BR>いろいろと想像しております。<BR><BR>電波妖精は失神しちゃう心がよわよわな章音ちゃんに一票です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2002/03/28 23:36:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日比野</strong>  <i>2002/03/28 23:36:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017326164cnxjmc&id2=1016884143doerpm&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017326164cnxjmc_id2_1016884143doerpm_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂�A�߂��Ⴍ����Ȑݒ�ł����܂���c�B�������A���̕���͏\���̈ꂭ�炢�m���t�B�N�V�����Ƃ������A�l�͖{���ɗ��㕔�ł��āA���̒��ԒB���ꕶ�����炢�ς���ďo�Ă��Ă����ł��ˁi�΁j�B�ƌ������ƂŁA�l���̑����͊��ق��Ă���Ă��������B�ł��Z�����j�q�̓o��͂��܂�Ȃ��Ǝv���܂��B���̐l�́A�d�v�l���Ƃ��Ă���Ă�������ł��B����ƁA�j�̂Ƃ�����̗͂��ς���Ă��Ȃ��Ă�����̐��E�ł͏����������炢�Ȃ̂ŁA�S�R���v���ƁB�܂��A�����Z�ɂ͕ς��Ȃ��ł����ǁB�b�͕ς��܂����A���ꂩ���w�󌱐��ɂȂ�܂��̂ŃX�g�[���[�̐i�݂��x���Ȃ�Ǝv���܂��B���A��ɂȂ��Ă��܂��Ă���̂ŁA���X�ɂ���Ă����Ǝv���܂��B���ꂩ����X�������肢���܂��B
+いやはや、めちゃくちゃな設定ですいません…。しかし、この物語は十分の一くらいノンフィクションというか、僕は本当に陸上部でして、その仲間達が一文字ぐらい変わって出てきているんですね（笑）。と言うことで、人数の多さは勘弁してやってください。でも短距離男子の登場はあまりないと思います。他の人は、重要人物としていれていくつもりです。それと、男のときから体力が変わっていなくても陸上の世界では少し早いぐらいなので、全然大丈夫かと。まあ、反則技には変わりないですけど。話は変わりますが、これから大学受験生になりますのでストーリーの進みが遅くなると思います。が、趣味になってしまっているので、徐々にやっていくと思います。これからも宜しくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/23203640/hill_03.html" target="_blank">�u����u�́@��O�́v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/04/12 01:58:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/23203640/hill_03.html" target="_blank">「光る丘は　第三章」を読むにはここをクリック</a></strong>  <i>2002/04/12 01:58:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018544283nfuhv&id2=1016884143doerpm&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018544283nfuhv_id2_1016884143doerpm_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����͏͉������ɋ��͂�(�H)�����l���o��B���ꂩ��ǂ������W�J�ɂȂ�̂��A�����ÁX�ł��B
+【推薦文】今回は章音ちゃんに強力な(？)助っ人が登場。これからどういう展開になるのやら、興味津々です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/04/12 10:44:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/04/12 10:44:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018575886geeexj&id2=1016884143doerpm&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018575886geeexj_id2_1016884143doerpm_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����[�I�I�͉������G���`��<BR>����ϐ��_�������̓c�{�ł��˂��i�΁j�B�r�V�r�V�˂���Ă��܂����i���j�B<BR>�ŁA����B�͉������̃��x�������ɍ����̂��悭�킩��܂��ˁB�������A���K�g���n���}�[�H�Ȃ񂩉��������ȁ[�i�΁j�B<BR>���@�����i�H�j���񑩂̏��������o��B�N�[�����\�������i�����Ă���悤�ŁA���オ�y���݁B�Ƃ���ŁA�H�̐��������X�B���܂胊�A���Ȃ̂�z���������͂Ȃ����ȁi���j�B<BR>�����Ƃ���Łu����֑����v�B���A�C�ɂȂ�`�i�΁j�B<BR>�����͓V�g���[�h�͉̏������ɂP�[�i���j�B
+読んだバイ♪<BR>うぉー！！章音ちゃん萌え～♪<BR>やっぱ精神女性化はツボですねぇ（笑）。ビシビシ突かれてしまった（爆）。<BR>で、初戦。章音ちゃんのレベルが非常に高いのがよくわかりますね。しかし、メガトンハンマー？なんか懐かしいなー（笑）。<BR>魔法少女（？）お約束の小動物も登場。クーも結構いい性格をしているようで、今後が楽しみ。ところで、羽の生えたリス。あまりリアルなのを想像したくはないかな（爆）。<BR>いいところで「次回へ続く」。き、気になる～（笑）。<BR>ｍｋは天使モードの章音ちゃんに１票（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:km-neun@mb7.seikyou.ne.jp" target="_blank">�m�C���i�d�g�d���j</a></strong>  <i>2002/04/12 12:35:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:km-neun@mb7.seikyou.ne.jp" target="_blank">ノイン（電波妖精）</a></strong>  <i>2002/04/12 12:35:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018582530gjdemy&id2=1016884143doerpm&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018582530gjdemy_id2_1016884143doerpm_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�N�w�ȕ������������Ȃ���<BR>�Ȃ�قǂȂ��Ǝv���Ƃ���Ƃ��A<BR>���񂤂�A���ӂ����Ƃ���Ƃ��A<BR>����͂���܂蓯�ӂł��Ȃ��Ƃ��A<BR>���낢��ƍl���������܂����B<BR><BR>�������X�g�[���[�I�ɂ��ǂ݂₷���A<BR>�ٔ������悭�łĂ܂����ˁB<BR><BR>���`�ǂ��Ȃ�񂾂낤<BR>�d�g�d���͂������܌���蒆��
+哲学な部分も見逃せない♪<BR>なるほどなあと思うところとか、<BR>うんうん、同意したところとか、<BR>それはあんまり同意できないとか、<BR>いろいろと考えさせられました。<BR><BR>もちろんストーリー的にも読みやすく、<BR>緊迫感がよくでてましたね。<BR><BR>あ～どうなるんだろう<BR>電波妖精はただいま見守り中♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2002/04/12 21:29:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>日比野</strong>  <i>2002/04/12 21:29:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1018614574apigoce&id2=1016884143doerpm&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1018614574apigoce_id2_1016884143doerpm_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������W�S�Q�U����<BR>���H�̐��������X�B<BR>���ۃ��X�������Ă���̂ł����A�߂��Ⴍ���Ⴉ�킢���ł���B�H���Ȃ��Ȃ��������Ǝv�����̂ł����c�B�������͋C�������̂���_�i�n���X�^�[�ȊO�j�Ȃ̂ŁA����������������������o���Ă��������Ǝv���Ă��܂��B
+＞ｍｋ８４２６さん<BR>＞羽の生えたリス。<BR>実際リスを飼っているのですが、めちゃくちゃかわいいですよ。羽もなかなか似合うと思ったのですが…。小動物は気が強いのが難点（ハムスター以外）なので、そういう部分をしっかり出していきたいと思っています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=hibino" target="_blank">����Ȃ킯�ŐV���z�f���͂�����</a></strong>  <i>2002/06/09 09:27:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ts/kansou/bbs@log_hibino.cgi" target="_blank">そんなわけで新感想掲示板はこちら</a></strong>  <i>2002/06/09 09:27:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1023582476vngyhyh&id2=1016884143doerpm&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1023582476vngyhyh_id2_1016884143doerpm_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�f�����V�����Ȃ�܂����B<BR>�V���z�f���͏���N���b�N�I<BR>
+感想掲示板が新しくなりました。<BR>新感想掲示板は上をクリック！<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1016884143doerpm">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

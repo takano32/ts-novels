@@ -1,141 +1,141 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL��-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���]���̊قɂ���>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:性転換の館について>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br>
 <input type=hidden name=idnum value=83223><BR>
-<img SRC="out.png?31683223"> ����4���̐����𔼊p�����œ��͂��Ă�������: <input type="text" size=8 name="captcha"><br> <br>
-���܋C�ɂȂ�
+<img SRC="out@31683223.png"> 左の4桁の数字を半角数字で入力してください: <input type="text" size=8 name="captcha"><br> <br>
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=2759>
 <input type=hidden name=ress value=2759>
-<input type=submit value=���]���̊قɂ��Ă֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=性転換の館についてへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=2759>
-<font color=#6A5ACD>���]���̊قɂ���</font></a>
+<font color=#6A5ACD>性転換の館について</font></a>
 <font color=#303030>
-�i�V
- ����</font>
- <font size=2>2006�N7��18��(��) 16��50��</font>
-<a href="resbbs4.cgi?vew=2759">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>���������鏭��</b>�z</font>
+ナシ
+ さん</font>
+ <font size=2>2006年7月18日(火) 16時50分</font>
+<a href="resbbs4@vew_2759.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>時をかける少女</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���]���̊� <br><a href=http://jbbs.livedoor.jp/comic/100/ target=_top>http://jbbs.livedoor.jp/comic/100/</a> <br><br>��������ԂɂȂ��Ă��܂��B�����Ǘ��l���܂͂�����͊Ǘ���<br>���������Ƃ������Ƃł��傤���B����Ȃ炢���������Ă͂ǂ��ł��傤�B</font></ul>
+<ul><br><font size=3>性転換の館 <br><a href=http://jbbs.livedoor.jp/comic/100/ target=_top>http://jbbs.livedoor.jp/comic/100/</a> <br><br>が酷い状態になっています。もう管理人さまはこちらは管理を<br>放棄したということでしょうか。それならいっそ閉鎖してはどうでしょう。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2760>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
 SHO
- ����</font>
- <font size=2>2006�N7��19��(��) 0��6��</font>
-<a href="resbbs4.cgi?vew=2760">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>�������</b>�z</font>
-<ul><font size=3>�@���Ɏ蓮�ŊǗ��ł���قǁA�X�p�����e�͊Â����̂ł͂Ȃ��Ȃ��Ă��܂��B<br>�@���炩�̃X�p���΍􂪉\�ƂȂ�܂ŁA��[������Ă͂������ł��傤���B</font></ul>
+ さん</font>
+ <font size=2>2006年7月19日(水) 0時6分</font>
+<a href="resbbs4@vew_2760.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>かいわれ</b>】</font>
+<ul><font size=3>　既に手動で管理できるほど、スパム投稿は甘いものではなくなっています。<br>　何らかのスパム対策が可能となるまで、一端閉鎖されてはいかがでしょうか。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=2761>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-�L��
- ����</font>
- <font size=2>2006�N7��19��(��) 0��42��</font>
-<a href="resbbs4.cgi?vew=2761">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���C�u�h�A����̎؂蕨�f��������A�r�o�`�l�����������݃\�t�g�ɑ_���₷���݂����ł��ˁB<br>���̕ӂ̐ݒ�ł������͑Ώ��ł���݂��������ǁc�c�B<br><a href=http://helpguide.livedoor.com/help/jbbs/qa/grp131 target=_top>http://helpguide.livedoor.com/help/jbbs/qa/grp131</a></font></ul>
+猫野
+ さん</font>
+ <font size=2>2006年7月19日(水) 0時42分</font>
+<a href="resbbs4@vew_2761.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ライブドアからの借り物掲示板だから、ＳＰＡＭ自動書きこみソフトに狙われやすいみたいですね。<br>この辺の設定でいくつかは対処できるみたいだけど……。<br><a href=http://helpguide.livedoor.com/help/jbbs/qa/grp131 target=_top>http://helpguide.livedoor.com/help/jbbs/qa/grp131</a></font></ul>
 <HR>
 <input type=checkbox name=delcode value=2762>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-���d�F�ꐬ
- ����</font>
- <font size=2>2006�N7��20��(��) 23��47��</font>
-<a href="resbbs4.cgi?vew=2762">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>big14�ɗe��1GB����MySQL�����ɗ����I</b>�z</font>
-<ul><font size=3>���[�����܂���A�Ǘ��Ӗ��Ő������ƂɂȂ��Ă܂����B<br>����͂��������邵���Ȃ��ł��傤�ˁc�c<br>���z�f���𗘗p���Ă��������Ă����ɂ͖{���ɐ\����Ȃ��Ƃ��������l���Ȃ��ł��B<br>����͍�i�f�[�^�x�[�X�Ɋ��z�R�����g�@�\�𓝍���������ōl���Ă݂܂��B<br><br>&gt;���Ɏ蓮�ŊǗ��ł���قǁA�X�p�����e�͊Â����̂ł͂Ȃ��Ȃ��Ă��܂�<br>�����ł��ˁA��x�ǂ����ɓo�^����Ă��܂��ƌ������͗l�ł��B<br>�����f���n��CGI��SPAM�΍􂪕K�{���Ɗ����܂��B<br>#�����荓���̂����[���ŁA�����ɂ�1��200�ʂ��炢SPAM�����ĂĖ{���ɋ��������ɂȂ�܂��c<br></font></ul>
+八重洲一成
+ さん</font>
+ <font size=2>2006年7月20日(木) 23時47分</font>
+<a href="resbbs4@vew_2762.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>big14に容量1GB化とMySQLが遂に来た！</b>】</font>
+<ul><font size=3>あーすいません、管理怠慢で凄いことになってました。<br>これはもう閉鎖するしかないでしょうね……<br>感想掲示板を利用してくださってた方には本当に申し訳ないとしか言い様がないです。<br>今後は作品データベースに感想コメント機能を統合する方向で考えてみます。<br><br>&gt;既に手動で管理できるほど、スパム投稿は甘いものではなくなっています<br>そうですね、一度どこかに登録されてしまうと厳しい模様です。<br>もう掲示板系のCGIはSPAM対策が必須だと感じます。<br>#それより酷いのがメールで、うちには1日200通ぐらいSPAMがきてて本当に泣きそうになります…<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2763>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
 <a href=mailto:tifra@gori.sh>gori.sh</a>
- ����</font>
- <font size=2>2006�N7��21��(��) 0��52��</font>
-<a href="resbbs4.cgi?vew=2763">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�}���J���@orz</b>�z</font>
-<ul><font size=3>���f���͌��݂P���^�R�����炢�ł��B�m�f���[�h���ĊO�����Ă���l�q�ł��B�܂�12�P�ꂵ������ĂȂ��̂Ɂc<br><br>���[���̓y�[�W�q�b�g���ɂقڔ�Ⴗ���ł��傤���ˁA�킽���̃��C���A�h���X�͌Â�����www�֏o�����ς�̃N�Z��1��15�ʒ��x�ł��B</font></ul>
+ さん</font>
+ <font size=2>2006年7月21日(金) 0時52分</font>
+<a href="resbbs4@vew_2763.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>マヴカレ　orz</b>】</font>
+<ul><font size=3>情報掲示板は現在１件／３日くらいです。ＮＧワードが案外効いている様子です。まだ12単語しか入れてないのに…<br><br>メールはページヒット数にほぼ比例するんでしょうかね、わたしのメインアドレスは古くからwwwへ出ずっぱりのクセに1日15通程度です。</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=2764>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-�Ē�
- ����</font>
- <font size=2>2006�N7��21��(��) 3��41��</font>
-<a href="resbbs4.cgi?vew=2764">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>&quot;���w����&quot;�Ǝ��ɂ�����̓���</b>�z</font>
-<ul><font size=3>�����ȊO�ł��ŋ߂����璆�ō������ƂɂȂ��Ă���p��X�p���ɂ�BBQ���L���Ƃ����b������̂ŁA<br>�����ɔL�삳��̃����N���Q�l�ɐݒ肵�Ă݂�̂͂ǂ��ł��傤�H</font></ul>
+米津
+ さん</font>
+ <font size=2>2006年7月21日(金) 3時41分</font>
+<a href="resbbs4@vew_2764.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>&quot;文学少女&quot;と死にたがりの道化</b>】</font>
+<ul><font size=3>ここ以外でも最近そこら中で酷いことになっている英語スパムにはBBQが有効という話もあるので、<br>試しに猫野さんのリンクを参考に設定してみるのはどうでしょう？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2768>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2006�N7��23��(��) 0��45��</font>
-<a href="resbbs4.cgi?vew=2768">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�쑺��������ł��ˁI</b>�z</font>
-<ul><font size=3>�ĒÂ���L�삳��A�h�o�C�X���肪�Ƃ��������܂��B<br>�����������Ă΂���Ŗ{���ɂ����b�ɂȂ��Ă܂��B<br>�Ƃ肠�����őP�Ǝv����ݒ�ɂ��Ă݂܂����B<br>�����Ƒ����������Ă���΂Ǝv���܂��B�������𗘗p���Ă��������Ă����ɂ͌������\����Ȃ������ł��B<br><br>&gt;gori����<br>�A�_���g�T�C�g���Ǝv���Ĉꎞ���Ǝ҂̃f�[�^�x�[�X�ɐ����o�^����Ă��܂����񂶂�Ȃ������ɂ�ł܂��B<br>���[���A�h���X�𒼐ڏo���Ȃ��悤�ɂ�����ł������͂�Ă��΂ɐ��ł��ˁB<br>Becky!�p��SPAM�t�B���^�v���O�C�������ꌈ��łɂȂ�Ȃ����A�{���ɍ�����̂ł��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2006年7月23日(日) 0時45分</font>
+<a href="resbbs4@vew_2768.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>野村美月さんですね！</b>】</font>
+<ul><font size=3>米津さん猫野さんアドバイスありがとうございます。<br>いつも教えられてばかりで本当にお世話になってます。<br>とりあえず最善と思われる設定にしてみました。<br>もっと早くこうしていればと思います。あそこを利用していただいてた方には激しく申し訳なかったです。<br><br>&gt;goriさん<br>アダルトサイトだと思われて一時期業者のデータベースに随分登録されてしまったんじゃないかと睨んでます。<br>メールアドレスを直接出さないようにしたんですがもはや焼け石に水ですね。<br>Becky!用のSPAMフィルタプラグインも今一決定打にならないし、本当に困りものです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=2769>
-<font color=#6A5ACD>RE:���]���̊قɂ���</font></a>
+<font color=#6A5ACD>RE:性転換の館について</font></a>
 <font color=#303030>
-�Ē�
- ����</font>
- <font size=2>2006�N7��26��(��) 22��31��</font>
-<a href="resbbs4.cgi?vew=2769">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b>�싅����t�F�C�o���b�g�ł��B���l�Ɋ��߂�̂͊댯�ł���(��)</b>�z</font>
-<ul><font size=3>���p�҂��Ǘ��l���ǂ�������Q�҂Ȃ̂ŋC�y�ɂ����܂��傤�B<br><br>spammer�̓A�h���X���ǂ�ȃy�[�W�ɓ\���Ă��������Ȃ�ď������l���ĂȂ��Ǝv���܂���B<br>�ĒÂ̂Ƃ���ɂ����150�ʂ��炢spam�����܂����A��ɗ���̂͂�����Ō��J������������A�h���X�Ƃ͕ʂŁA<br>�A�_���g�Ƃ͊ԈႦ�悤���Ȃ��T�C�g�ɂ��镨�ł��B<br><br>�X�p�����[���΍��PopFile�����Ȃ�D�G�������Ǝv���܂��Bbecky�̂��̂��x�C�Y���Ǝv���̂ŗD��͕�����܂��񂪁c�c�B<br>�����ݒ肷�鍪���������SpamMailKiller�ł΂�����폜����̂��ŋ����Ǝv���܂����A<br>�ĒÂ͓���߂��A�����i�����삵�Ďg���Ă܂��B</font></ul>
+米津
+ さん</font>
+ <font size=2>2006年7月26日(水) 22時31分</font>
+<a href="resbbs4@vew_2769.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b>卓球場もフェイバリットです。他人に勧めるのは危険ですが(笑)</b>】</font>
+<ul><font size=3>利用者も管理人もどっちも被害者なので気楽にいきましょう。<br><br>spammerはアドレスがどんなページに貼ってあったかなんて少しも考えてないと思いますよ。<br>米津のところにも一日150通くらいspamが来ますが、主に来るのはこちらで公開した事があるアドレスとは別で、<br>アダルトとは間違えようもないサイトにある物です。<br><br>スパムメール対策はPopFileがかなり優秀だったと思います。beckyのものもベイズだと思うので優劣は分かりませんが……。<br>こつこつ設定する根性があればSpamMailKillerでばっさり削除するのが最強だと思いますが、<br>米津は馴染めず、相当品を自作して使ってます。</font></ul>
 <HR>
 </ul>
 </ul>
@@ -143,7 +143,7 @@ SHO
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

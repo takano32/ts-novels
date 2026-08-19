@@ -1,171 +1,171 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•¦‚·‚éƒ^ƒCƒgƒ‹‚ğ©—R‚É‹L“ü@-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«ä¾®ï½¦ã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥ã€€-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>GALLERYŒf¦”Â</font> (<a href="http://www14.big.or.jp/~yays/">–{ ŠÙ </a>Œf¦”Â‚Æ‹¤’Ê)</td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>GALLERYæ²ç¤ºæ¿</font> (<a href="../../index.html">æœ¬ é¤¨ </a>æ²ç¤ºæ¿ã¨å…±é€š)</td></tr></table>
 	</center></div>
 
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚ÉƒƒbƒZ[ƒW‚ª@@•¦‚³‚ê‚é@@-->
-<form name=inputform action=resbbs4_b.cgi method=POST>
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒã€€ã€€ä¾®ï½¦ã•ã‚Œã‚‹ã€€ã€€-->
+<form name=inputform action="resbbs4_b.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/gallery/main.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../gallery/main.html" target=_top>[HomePage]</a><br> <br>
+<a href="../resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>‚¨–¼‘O:</td><td><input type=text size=20 name=name value=>
+<td align=right>ãŠåå‰:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>‘è–¼:</td><td>
-<input type=text size=48 name=subject value=RE:Yo,@whaddya@know?>
+<tr><td align=right>é¡Œå:</td><td>
+<input type=text size=48 name=subject value=RE:Yo,ã€€whaddyaã€€know?>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
-<textarea name=comment rows=4 cols=70>y‚¨ŠG•`‚«BBSŠÖ˜Az </textarea><br> <br>
-‚¢‚Ü‹C‚É‚È‚é
+<textarea name=comment rows=4 cols=70>ã€ãŠçµµæãBBSé–¢é€£ã€‘ </textarea><br> <br>
+ã„ã¾æ°—ã«ãªã‚‹
 <SELECT NAME="genre" size=1>
-<option value="novel">¬à@
-<option value="comic">ƒRƒ~ƒbƒN
-<option value="movie">‰f‘œì•i
-<option value="game">ƒQ[ƒ€
-<option value="character">ƒLƒƒƒ‰ƒNƒ^[
-<option value="author">ì‰Æ
-<option value="rumor">î•ñE‚¤‚í‚³
-<option value="site">ƒz[ƒ€ƒy[ƒW
-<option value="something">‰½‚©
-</SELECT> ‚Í 
+<option value="novel">å°èª¬ã€€
+<option value="comic">ã‚³ãƒŸãƒƒã‚¯
+<option value="movie">æ˜ åƒä½œå“
+<option value="game">ã‚²ãƒ¼ãƒ 
+<option value="character">ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼
+<option value="author">ä½œå®¶
+<option value="rumor">æƒ…å ±ãƒ»ã†ã‚ã•
+<option value="site">ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸
+<option value="something">ä½•ã‹
+</SELECT> ã¯ 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1267>
 <input type=hidden name=ress value=1267>
-<input type=submit value=Yo,@whaddya@know?‚Ö•ÔM>
-<input type=reset value=‘‚«’¼‚µ>
+<input type=submit value=Yo,ã€€whaddyaã€€know?ã¸è¿”ä¿¡>
+<input type=reset value=æ›¸ãç›´ã—>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4_b.cgi method=POST>
+<form action="resbbs4_b.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1267>
-<font color=#6A5ACD>Yo,@whaddya@know?</font></a>
+<font color=#6A5ACD>Yo,ã€€whaddyaã€€know?</font></a>
 <font color=#303030>
 <a href=mailto:psobit@netzero.net>Enbreeze</a>
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ10“ú(“y) 255•ª</font>
-<a href="resbbs4_b.cgi?vew=1267">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é‚ÍA<b></b>z</font>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ10æ—¥(åœŸ) 2æ™‚55åˆ†</font>
+<a href="resbbs4_b@vew_1267.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹ã¯ã€<b></b>ã€‘</font>
 </td></tr><tr><td>
 <ul><br><font size=3>Forgive me, I know little Japanese. I'm from the Fictionmania Forum. What a surprise to see my own quote when visiting this forum. I hope whoever quoted that was not thinking I slandered Japanese entertainment!</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1269>
-<font color=#6A5ACD>RE:Yo,@whaddya@know?</font></a>
+<font color=#6A5ACD>RE:Yo,ã€€whaddyaã€€know?</font></a>
 <font color=#303030>
 <a href=mailto:s_is_codename@yahoo.com>es</a>
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ10“ú(“y) 722•ª</font>
-<a href="resbbs4_b.cgi?vew=1269">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ10æ—¥(åœŸ) 7æ™‚22åˆ†</font>
+<a href="resbbs4_b@vew_1269.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 <ul><font size=3>There are no native English speaker, therefore responsive should be slow.  So few day or week.<br>Please wait a long stay.<br>(I wrote this message at the cost of half-hour & dictionaly)<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1270>
-<font color=#6A5ACD>RE:Yo,@whaddya@know?</font></a>
+<font color=#6A5ACD>RE:Yo,ã€€whaddyaã€€know?</font></a>
 <font color=#303030>
 <a href=mailto:s_is_codename@yahoo.com>es</a>
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ10“ú(“y) 729•ª</font>
-<a href="resbbs4_b.cgi?vew=1270">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ10æ—¥(åœŸ) 7æ™‚29åˆ†</font>
+<a href="resbbs4_b@vew_1270.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 <ul><font size=3>Opps, I forgot one message.<br><br>It's not bad quote, freedom from care.<br><br></font></ul>
 <HR>
 <input type=checkbox name=delcode value=1273>
-<font color=#6A5ACD>RE:Yo,@whaddya@know?</font></a>
+<font color=#6A5ACD>RE:Yo,ã€€whaddyaã€€know?</font></a>
 <font color=#303030>
 <a href=mailto:psobit@netzero.net>Enbreeze</a>
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ10“ú(“y) 136•ª</font>
-<a href="resbbs4_b.cgi?vew=1273">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é‚ÍA<b></b>z</font>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ10æ—¥(åœŸ) 13æ™‚6åˆ†</font>
+<a href="resbbs4_b@vew_1273.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹ã¯ã€<b></b>ã€‘</font>
 <ul><font size=3>Gomen nasai... I did not mean to waste your time!</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=1271>
-<font color=#6A5ACD>RE:Yo,@whaddya@know?</font></a>
+<font color=#6A5ACD>RE:Yo,ã€€whaddyaã€€know?</font></a>
 <font color=#303030>
-Webmaster@(Yays)
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ10“ú(“y) 102•ª</font>
-<a href="resbbs4_b.cgi?vew=1271">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+Webmasterã€€(Yays)
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ10æ—¥(åœŸ) 10æ™‚2åˆ†</font>
+<a href="resbbs4_b@vew_1271.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 <ul><font size=3>Welcome to this forum!<br>And don't worry. The thing was quoted just from the interest from the viewpoint of social science.<br>It's always <br>interesting to know how foreign people are feeling about Japanese culture.</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1272>
-<font color=#6A5ACD>Arigato,@minna-san</font></a>
+<font color=#6A5ACD>Arigato,ã€€minna-san</font></a>
 <font color=#303030>
 <a href=mailto:psobit@netzero.net>Enbreeze</a>
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ10“ú(“y) 133•ª</font>
-<a href="resbbs4_b.cgi?vew=1272">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é‚ÍA<b></b>z</font>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ10æ—¥(åœŸ) 13æ™‚3åˆ†</font>
+<a href="resbbs4_b@vew_1272.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹ã¯ã€<b></b>ã€‘</font>
 <ul><font size=3>I will be trying to talk with simple words so it is easier. I am a big fan of TG. I like TG from Anime the most. I like the style Japanese entertainment uses TG in their anime and I find TG less common in many USA television shows. I have visited the BBS before but said nothing. After all, I am gaijin and feel wrong in bothering you.<br><br>Gomen ne.</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1274>
-<font color=#6A5ACD>RE:Arigato,@minna-san</font></a>
+<font color=#6A5ACD>RE:Arigato,ã€€minna-san</font></a>
 <font color=#303030>
 Faceless
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ10“ú(“y) 1921•ª</font>
-<a href="resbbs4_b.cgi?vew=1274">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ10æ—¥(åœŸ) 19æ™‚21åˆ†</font>
+<a href="resbbs4_b@vew_1274.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 <ul><font size=3>Hello Enbreeze-san.<br>There's no 'gaijin' in TG-fan world, I believe. We just love TG fiction and what about little difference in our mother tongue  or skin color or anything like that?<br>I liked the TG episode in STARTREK TNG. Not TV show but SWITCH is one of my favorite too.<br>Which anime did you think impressive for the TG episode?</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1284>
-<font color=#6A5ACD>RE:Arigato,@minna-san</font></a>
+<font color=#6A5ACD>RE:Arigato,ã€€minna-san</font></a>
 <font color=#303030>
 <a href=mailto:s_is_codename@yahoo.com>ES</a>
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ11“ú(“ú) 1648•ª</font>
-<a href="resbbs4_b.cgi?vew=1284">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ11æ—¥(æ—¥) 16æ™‚48åˆ†</font>
+<a href="resbbs4_b@vew_1284.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
 <ul><font size=3>I agree Faceless's opinion.  Yor're not foreigner in TG-fan world.<br><br>There is serious matter ,no responsive to English message.<br><br>You may not belive ...<br><br>Japanese education have wrong system.<br>No talking, learning a few idioms and slangs.<br>Writing is not important as same as reading.<br>Therefore students learn very limited English that are useless to writing or talking.<br><br>Therefore almost Japanese are afraid English conversation.<br><br>I think so.  Yays, Faceless, is it realy? <br><br></font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=1285>
-<font color=#6A5ACD>RE:Yo,@whaddya@know?</font></a>
+<font color=#6A5ACD>RE:Yo,ã€€whaddyaã€€know?</font></a>
 <font color=#303030>
 ES
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ11“ú(“ú) 1718•ª</font>
-<a href="resbbs4_b.cgi?vew=1285">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>‰´‚Ì‰pŒêA‚»‚ë‚»‚ë‰ö‚µ‚­‚È‚Á‚Ä‚«‚½‚Ècc<br><br>-----------(explanation for Japanese)<br>ˆê‰A‰pŒê“Ç‚ß‚È‚¢l‚É‰ğà‚µ‚Ä‚¨‚«‚Ü‚·B<br>i‹Zp‰pŒêå‘Ì‚ÌlŠÔ‚È‚Ì‚ÅAŒûŒê‚Í•s“¾ˆÓ‚Å‚·‚ªj<br><br>”ªdF‚³‚ñ‚Ì 2001”N10Œ21“ú(“ú) 920•ª ‚Ì‘‚«‚İ‚ÅA<br>Fictionmania‚ÌƒtƒH[ƒ‰ƒ€‚©‚ç‚Ì“]Ú•¶‚ª‚ ‚è‚Ü‚·‚ªA<br>‚±‚ê‚ğŒü‚±‚¤‚É‘‚¢‚½‚Ì‚ªEnbreeze‚³‚ñ‚Å‚µ‚½B<br>‚ÅA‘O‚©‚ç‚±‚±‚ğŒ©‚É—ˆ‚Ä‚¢‚é‚Ğ‚Æ‚¾‚Á‚½‚æ‚¤‚ÅA©•ª‚Ì•¶‚ª“Ë‘Rˆø—p‚³‚ê‚Ä<br>‹Á‚¢‚½‚ÆBi“ú–{Œê‚Í­‚µ‚µ‚©•ª‚©‚ç‚È‚¢‚Ì‚ÅA‹Á‚¢‚½‚ÆŒ¾‚¤‚æ‚è‚ÍA‰½‚©<br>ŠÔˆá‚Á‚½‚±‚Æ‘‚¢‚Ä‹Š’e‚³‚ê‚½‚Ì‚©‚ÆS”z‚µ‚½‚æ‚¤‚ÈŠ´‚¶‚©‚Èj<br><br>„‚ª‰pŒêŒ—‚ÌlŠÔˆÈ“à‚©‚çAƒŒƒX‚ª’x‚ê‚é‚Æv‚¤‚¯‚ÇA‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚ËB<br>”ªdF‚³‚ñ‚ªŠOl‚©‚ç‚Ì‹“_‚ÅŒê‚ç‚ê‚½TSiŒü‚±‚¤‚Å‚ÍTGj“ú–{•¶‰»‚Ì<br>‹»–¡[‚¢ƒRƒƒ“ƒg‚È‚ñ‚Åˆø—p‚µ‚½‚ñ‚¾‚æA‚Æ•Ô“šB<br><br>Enbreeze‚³‚ñ‚©‚ç“ú–{®‚Ì‚s‚rì•i‚ÍD‚«‚È‚ñ‚¾‚¯‚ÇA‘O‚É‚±‚±‚É<br>‘‚«‚ñ‚¾‚Æ‚«‚É’N‚©‚ç‚àƒŒƒX‚ª‚È‚©‚Á‚½‚Ì‚ÅAuŠ‘F©•ª‚ÍŠOl‚È‚Ì‚©‚Èv<br>‚Æv‚Á‚½‚Æƒi[ƒoƒX‚É‚È‚Á‚½‚æ‚¤‚È•Ô“šB<br><br>Faceless‚³‚ñ‚ªAŠOl‚¾‚È‚ñ‚Ä‚»‚ñ‚È‚ ‚ñ‚½A‚s‚rD‚«‚É<br>lí‚à‘‹«‚à‚È‚¢‚æ‚Æ•Ô“šB<br><br>„‚ªA•Ô–‚ª‚È‚¢‚Ì‚Í“ú–{‚Ì‹³ˆç§“x‚Ì–â‘è‚ÅA“Ç‚İ‘‚«iÀ¿“Ç‚İ‚¾‚¯j<br>‚µ‚©‹³‚¦‚¸A‰ï˜b‚ğ‚â‚Á‚Ä‚È‚¢‚©‚ç‚È‚ñ‚¾‚æA‚Æ•Ô“šB<br><br><br>‚Æ‚¢‚¤ó‘Ô‚Å‚·B<br></font></ul>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ11æ—¥(æ—¥) 17æ™‚18åˆ†</font>
+<a href="resbbs4_b@vew_1285.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>ä¿ºã®è‹±èªã€ãã‚ãã‚æ€ªã—ããªã£ã¦ããŸãªâ€¦â€¦<br><br>-----------(explanation for Japanese)<br>ä¸€å¿œã€è‹±èªèª­ã‚ãªã„äººã«è§£èª¬ã—ã¦ãŠãã¾ã™ã€‚<br>ï¼ˆæŠ€è¡“è‹±èªä¸»ä½“ã®äººé–“ãªã®ã§ã€å£èªã¯ä¸å¾—æ„ã§ã™ãŒï¼‰<br><br>å…«é‡æ´²ã•ã‚“ã® 2001å¹´10æœˆ21æ—¥(æ—¥) 9æ™‚20åˆ† ã®æ›¸ãè¾¼ã¿ã§ã€<br>Fictionmaniaã®ãƒ•ã‚©ãƒ¼ãƒ©ãƒ ã‹ã‚‰ã®è»¢è¼‰æ–‡ãŒã‚ã‚Šã¾ã™ãŒã€<br>ã“ã‚Œã‚’å‘ã“ã†ã«æ›¸ã„ãŸã®ãŒEnbreezeã•ã‚“ã§ã—ãŸã€‚<br>ã§ã€å‰ã‹ã‚‰ã“ã“ã‚’è¦‹ã«æ¥ã¦ã„ã‚‹ã²ã¨ã ã£ãŸã‚ˆã†ã§ã€è‡ªåˆ†ã®æ–‡ãŒçªç„¶å¼•ç”¨ã•ã‚Œã¦<br>é©šã„ãŸã¨ã€‚ï¼ˆæ—¥æœ¬èªã¯å°‘ã—ã—ã‹åˆ†ã‹ã‚‰ãªã„ã®ã§ã€é©šã„ãŸã¨è¨€ã†ã‚ˆã‚Šã¯ã€ä½•ã‹<br>é–“é•ã£ãŸã“ã¨æ›¸ã„ã¦ç³¾å¼¾ã•ã‚ŒãŸã®ã‹ã¨å¿ƒé…ã—ãŸã‚ˆã†ãªæ„Ÿã˜ã‹ãªï¼‰<br><br>ç§ãŒè‹±èªåœã®äººé–“ä»¥å†…ã‹ã‚‰ã€ãƒ¬ã‚¹ãŒé…ã‚Œã‚‹ã¨æ€ã†ã‘ã©ã€ã¡ã‚‡ã£ã¨å¾…ã£ã¦ã­ã€‚<br>å…«é‡æ´²ã•ã‚“ãŒå¤–äººã‹ã‚‰ã®è¦–ç‚¹ã§èªã‚‰ã‚ŒãŸTSï¼ˆå‘ã“ã†ã§ã¯TGï¼‰æ—¥æœ¬æ–‡åŒ–ã®<br>èˆˆå‘³æ·±ã„ã‚³ãƒ¡ãƒ³ãƒˆãªã‚“ã§å¼•ç”¨ã—ãŸã‚“ã ã‚ˆã€ã¨è¿”ç­”ã€‚<br><br>Enbreezeã•ã‚“ã‹ã‚‰æ—¥æœ¬å¼ã®ï¼´ï¼³ä½œå“ã¯å¥½ããªã‚“ã ã‘ã©ã€å‰ã«ã“ã“ã«<br>æ›¸ãè¾¼ã‚“ã ã¨ãã«èª°ã‹ã‚‰ã‚‚ãƒ¬ã‚¹ãŒãªã‹ã£ãŸã®ã§ã€ã€Œæ‰€è©®è‡ªåˆ†ã¯å¤–äººãªã®ã‹ãªã€<br>ã¨æ€ã£ãŸã¨ãƒŠãƒ¼ãƒã‚¹ã«ãªã£ãŸã‚ˆã†ãªè¿”ç­”ã€‚<br><br>Facelessã•ã‚“ãŒã€å¤–äººã ãªã‚“ã¦ãã‚“ãªã‚ã‚“ãŸã€ï¼´ï¼³å¥½ãã«<br>äººç¨®ã‚‚å›½å¢ƒã‚‚ãªã„ã‚ˆã¨è¿”ç­”ã€‚<br><br>ç§ãŒã€è¿”äº‹ãŒãªã„ã®ã¯æ—¥æœ¬ã®æ•™è‚²åˆ¶åº¦ã®å•é¡Œã§ã€èª­ã¿æ›¸ãï¼ˆå®Ÿè³ªèª­ã¿ã ã‘ï¼‰<br>ã—ã‹æ•™ãˆãšã€ä¼šè©±ã‚’ã‚„ã£ã¦ãªã„ã‹ã‚‰ãªã‚“ã ã‚ˆã€ã¨è¿”ç­”ã€‚<br><br><br>ã¨ã„ã†çŠ¶æ…‹ã§ã™ã€‚<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1287>
-<font color=#6A5ACD>RE:Yo,@whaddya@know?</font></a>
+<font color=#6A5ACD>RE:Yo,ã€€whaddyaã€€know?</font></a>
 <font color=#303030>
 Webmaster
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ11“ú(“ú) 1927•ª</font>
-<a href="resbbs4_b.cgi?vew=1287">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>Dear Enbreeze-san,<br>The fact that anime or other similar Japanese culture (such as manga) matches well with transgender episode, it is interesting and we argued what makes it so. No clear conclusion yet though.<br>Your message was quoted in this context.<br><br>Dear ES-san<br>&gt; Therefore students learn very limited English <br><br>Don't worry. I'm sure he knows how difficult it is to study some completely alien language.<br>But yeah, importance of english ability is relatively less evaluated in Japan compared with other asian countries. <br>cc‚Æ‚±‚ë‚ÅAu’N‚©‚ç‚àƒŒƒX‚ª‚È‚©‚Á‚½v‚Æ‚Í‹Â‚Á‚Ä‚È‚¢‚İ‚½‚¢‚Å‚·‚æB’P‚ÉA‚¢‚Ü‚Ü‚Åƒƒ€‚µ‚Ä‚½‚Æ‚¢‚¤‚±‚Æ‚¾‚Æv‚¢‚Ü‚·B</font></ul>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ11æ—¥(æ—¥) 19æ™‚27åˆ†</font>
+<a href="resbbs4_b@vew_1287.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>Dear Enbreeze-san,<br>The fact that anime or other similar Japanese culture (such as manga) matches well with transgender episode, it is interesting and we argued what makes it so. No clear conclusion yet though.<br>Your message was quoted in this context.<br><br>Dear ES-san<br>&gt; Therefore students learn very limited English <br><br>Don't worry. I'm sure he knows how difficult it is to study some completely alien language.<br>But yeah, importance of english ability is relatively less evaluated in Japan compared with other asian countries. <br>â€¦â€¦ã¨ã“ã‚ã§ã€ã€Œèª°ã‹ã‚‰ã‚‚ãƒ¬ã‚¹ãŒãªã‹ã£ãŸã€ã¨ã¯ä»°ã£ã¦ãªã„ã¿ãŸã„ã§ã™ã‚ˆã€‚å˜ã«ã€ã„ã¾ã¾ã§ãƒ­ãƒ ã—ã¦ãŸã¨ã„ã†ã“ã¨ã ã¨æ€ã„ã¾ã™ã€‚</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1292>
-<font color=#6A5ACD>RE:Yo,@whaddya@know?</font></a>
+<font color=#6A5ACD>RE:Yo,ã€€whaddyaã€€know?</font></a>
 <font color=#303030>
 ES
- ‚³‚ñ</font>
- <font size=2>2001”N11Œ12“ú(Œ) 139•ª</font>
-<a href="resbbs4_b.cgi?vew=1292">[•ÔM]</a><br>
-@<font size=-1 color=#A08050>y‚¢‚Ü‹C‚É‚È‚é¬à‚ÍA<b></b>z</font>
-<ul><font size=3>&gt;‚Æ‚±‚ë‚ÅAu’N‚©‚ç‚àƒŒƒX‚ª‚È‚©‚Á‚½v‚Æ‚Í‹Â‚Á‚Ä‚È‚¢‚İ‚½‚¢‚Å‚·‚æ<br>‚¦H@c‚ A‚»‚Á‚©A¸—ç¸—çB</font></ul>
+ ã•ã‚“</font>
+ <font size=2>2001å¹´11æœˆ12æ—¥(æœˆ) 1æ™‚39åˆ†</font>
+<a href="resbbs4_b@vew_1292.cgi">[è¿”ä¿¡]</a><br>
+ã€€<font size=-1 color=#A08050>ã€ã„ã¾æ°—ã«ãªã‚‹å°èª¬ã¯ã€<b></b>ã€‘</font>
+<ul><font size=3>&gt;ã¨ã“ã‚ã§ã€ã€Œèª°ã‹ã‚‰ã‚‚ãƒ¬ã‚¹ãŒãªã‹ã£ãŸã€ã¨ã¯ä»°ã£ã¦ãªã„ã¿ãŸã„ã§ã™ã‚ˆ<br>ãˆï¼Ÿã€€â€¦ã‚ã€ãã£ã‹ã€å¤±ç¤¼å¤±ç¤¼ã€‚</font></ul>
 <HR>
 </ul>
 </ul>
@@ -173,7 +173,7 @@ ES
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=‹L–íœ>
+<input type=submit name=button value=è¨˜äº‹å‰Šé™¤>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

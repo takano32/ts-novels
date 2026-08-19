@@ -1,159 +1,159 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���d�F�A�j�����|�[�g>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:八重洲アニメリポート>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1695>
 <input type=hidden name=ress value=1695>
-<input type=submit value=���d�F�A�j�����|�[�g�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=八重洲アニメリポートへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1695>
-<font color=#6A5ACD>���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>八重洲アニメリポート</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N1��9��(��) 13��1��</font>
-<a href="resbbs4.cgi?vew=1695">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>���ʃ��C�_�[555�̊�ʂ̂��肦�Ȃ�</b>�z</font>
+八重洲
+ さん</font>
+ <font size=2>2003年1月9日(木) 13時1分</font>
+<a href="resbbs4@vew_1695.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>仮面ライダー555の顔面のありえなさ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���d�F�A�j�����|�[�g�ɂ���<br><br>�E���d�F���ŋߌ����A�j���ɂ��Ăׂ�ׂ璝��܂�<br>�E�T�C�g��|�Ƃ͊֌W��������Ȃ�������<br>�E���̃R�[�i�[��HDD���R�[�_�[�𔃂����V���̗]�g�ɂ���č쐬����Ă��܂�<br>�E�䂦��HDD���R�[�_�[�ɖO�����Ƃ����R�ƏI�����܂�</font></ul>
+<ul><br><font size=3>八重洲アニメリポートについて<br><br>・八重洲が最近見たアニメについてべらべら喋ります<br>・サイト趣旨とは関係あったりなかったり<br>・このコーナーはHDDレコーダーを買った昂奮の余波によって作成されています<br>・ゆえにHDDレコーダーに飽きたとき自然と終了します</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1696>
-<font color=#6A5ACD>RE:���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>RE:八重洲アニメリポート</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N1��9��(��) 13��11��</font>
-<a href="resbbs4.cgi?vew=1696">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�u�ԓc���N�j�v<br>�}�b�h�n�E�X�͂��������Ƃ��Ă܂���<br><br><br>�u�~���E�~���E�v<br>�X�^�W�I�҂���͔E�Ґ�m��e�̍��̂��܂������d�������Ă��c�c�悤�ȋC�����邾���ŋL������������Ă��ł��ˁA���Ԃ�B<br>���~�i�P�Ƃ����~�i�P�Ƃ��B<br><br><br>�u.hack�v<br>�����Ȃ�^�悵�킷��܂����B<br>����͐��ʓ���ւ���Ă����ȃL�������o�Ă�̂��o�ĂȂ��̂��c�c<br><br><br>�u�X�g���g�X�E�t�H�[�v<br>���������Γd���X�g���_5�́u�X�g���_�v���Ăǂ������Ӗ��Ȃ�ł��傤�ˁH</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年1月9日(木) 13時11分</font>
+<a href="resbbs4@vew_1696.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>「花田少年史」<br>マッドハウスはいいしごとしてますね<br><br><br>「ミュウミュウ」<br>スタジオぴえろは忍者戦士飛影の頃のがまだいい仕事をしてた……ような気がするだけで記憶が美化されてるんですね、たぶん。<br>ロミナ姫とかロミナ姫とか。<br><br><br>「.hack」<br>いきなり録画しわすれました。<br>今回は性別入れ替わってそうなキャラが出てるのか出てないのか……<br><br><br>「ストラトス・フォー」<br>そういえば電撃ストラダ5の「ストラダ」ってどういう意味なんでしょうね？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1721>
-<font color=#6A5ACD>RE:���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>RE:八重洲アニメリポート</font></a>
 <font color=#303030>
 Mercurius
- ����</font>
- <font size=2>2003�N1��19��(��) 11��10��</font>
-<a href="resbbs4.cgi?vew=1721">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�Q�[���́A<b>��Q��SRW��</b>�z</font>
-<ul><font size=3>�~���E�~���E�͉�ɂ���ē�����O�ꂪ�傫���ł��B<br>�A�j���͂���ł����APS�̃Q�[���͏o���������ł��B<br>�E�B���L�[�ƃ^�J���������d�����Ă܂��B<br><br>HDD+DVD���R�[�_�[�������E�E�E������D-VHS�ł��B<br>���f�B�A�������΂�̂���_�ł����A�掿�ƃ��f�B�A�̃R�X�g�p�t�H�[�}���X��������ł���ˁB<br>BS�f�W�^���̃n�C�r�W�������������̂܂܋L�^�ł��邵�B</font></ul>
+ さん</font>
+ <font size=2>2003年1月19日(日) 11時10分</font>
+<a href="resbbs4@vew_1721.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるゲームは、<b>第２次SRWα</b>】</font>
+<ul><font size=3>ミュウミュウは回によって当たり外れが大きいです。<br>アニメはあれですが、PSのゲームは出来がいいです。<br>ウィンキーとタカラがいい仕事してます。<br><br>HDD+DVDレコーダーっすか・・・うちはD-VHSです。<br>メディアがかさばるのが難点ですが、画質とメディアのコストパフォーマンスがいいんですよね。<br>BSデジタルのハイビジョン放送がそのまま記録できるし。</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=1697>
-<font color=#6A5ACD>RE:���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>RE:八重洲アニメリポート</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N1��9��(��) 13��17��</font>
-<a href="resbbs4.cgi?vew=1697">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�X�g���g�X�̔���</b>�z</font>
-<ul><font size=3>�ȏ�A���d�F�A�j�����|�[�g����ł����B<br>������Ɨ��y�[�W�ł�邩������Ȃ����ǁA�Ƃ肠���������I�Ɍf���ł���Ă݂܂����B<br>HDD���R�[�_�[�̍V�������߂Ȃ�����A����ɑ����܂��B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年1月9日(木) 13時17分</font>
+<a href="resbbs4@vew_1697.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>ストラトスの美風</b>】</font>
+<ul><font size=3>以上、八重洲アニメリポート第一回でした。<br>いずれ独立ページでやるかもしれないけど、とりあえず実験的に掲示板でやってみました。<br>HDDレコーダーの昂奮が醒めない限り、第二回に続きます。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=1707>
-<font color=#6A5ACD>RE:���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>RE:八重洲アニメリポート</font></a>
 <font color=#303030>
-�����������̌ߌ�
- ����</font>
- <font size=2>2003�N1��12��(��) 23��47��</font>
-<a href="resbbs4.cgi?vew=1707">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>HDD+DVD���R�[�_�[�ł����H<br>DVD���f�B�A��TRANS DISC��(��ͥ)��!<br><a href=http://direct.nagase.co.jp/home/ target=_top>http://direct.nagase.co.jp/home/</a></font></ul>
+名無したちの午後
+ さん</font>
+ <font size=2>2003年1月12日(日) 23時47分</font>
+<a href="resbbs4@vew_1707.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>HDD+DVDレコーダーですか？<br>DVDメディアはTRANS DISCが(･∀･)ｲｲ!<br><a href=http://direct.nagase.co.jp/home/ target=_top>http://direct.nagase.co.jp/home/</a></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1708>
-<font color=#6A5ACD>RE:���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>RE:八重洲アニメリポート</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N1��14��(��) 21��18��</font>
-<a href="resbbs4.cgi?vew=1708">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���f�B�A�͂����΂񂮂̒ʔ̃y�[�W�ł��̂Ƃ������Ȃ��Ă鍑���Y�𔃂��Ă܂��B<br>TRANS DISC�͂�����ƒP�������āc�c</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年1月14日(火) 21時18分</font>
+<a href="resbbs4@vew_1708.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>メディアはあきばんぐの通販ページでそのとき安くなってる国内産を買ってます。<br>TRANS DISCはちょっと単価高くて……</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1716>
-<font color=#6A5ACD>RE:���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>RE:八重洲アニメリポート</font></a>
 <font color=#303030>
 llll
- ����</font>
- <font size=2>2003�N1��16��(��) 22��55��</font>
-<a href="resbbs4.cgi?vew=1716">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�H�t�A�ň��͖^�X��10��780�~�B<br></font></ul>
+ さん</font>
+ <font size=2>2003年1月16日(木) 22時55分</font>
+<a href="resbbs4@vew_1716.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>秋葉、最安は某店で10枚780円。<br></font></ul>
 <HR>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=1709>
-<font color=#6A5ACD>RE:���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>RE:八重洲アニメリポート</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2003�N1��14��(��) 22��54��</font>
-<a href="resbbs4.cgi?vew=1709">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�f����i�́A<b>���ʃ��C�_�[���R�B�̐^�i�B���񂶂�����́H�I</b>�z</font>
-<ul><font size=3>TS�D���̎��_������f���̃A�j����i�𒭂߂Ă݂�Ƃ����R�[�i�[�ł��B<br>�����̐[��A�j���̓t�W�̃L�f�B�E�O���C�h�B<br>���x���l�����J��Ԃ��Ă�G�N���[���B����Ȕޏ��̑f�̂ƂȂ����̂����͂Ƃ���f���̏��N�������c�c�Ȃ�ēW�J�Ȃ�ō��ɐ���オ���ł����B<br>���邢�͈ӕ\�����ă����~�G�[���̑O���i�H�j�����͂����΂����j���������肷��̂�����͂���ŁB</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2003年1月14日(火) 22時54分</font>
+<a href="resbbs4@vew_1709.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる映像作品は、<b>仮面ライダー龍騎。の真司。死んじゃったの？！</b>】</font>
+<ul><font size=3>TS好きの視点から放映中のアニメ作品を眺めてみるというコーナーです。<br>今宵の深夜アニメはフジのキディ・グレイド。<br>何度も人生を繰り返してるエクレール。そんな彼女の素体となったのがじつはとある惑星の少年だった……なんて展開なら最高に盛り上がるんですが。<br>あるいは意表をついてリュミエールの前世（？）がじつはいい歳した男性だったりするのもそれはそれで。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1711>
-<font color=#6A5ACD>RE:���d�F�A�j�����|�[�g</font></a>
+<font color=#6A5ACD>RE:八重洲アニメリポート</font></a>
 <font color=#303030>
-<a href=mailto:yays@geocities.co.jp>���d�F���Ǘ��l</a>
- ����</font>
- <font size=2>2003�N1��16��(��) 0��40��</font>
-<a href="resbbs4.cgi?vew=1711">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�L�����N�^�[�́A<b>�Ƃ��ق��يۏo���̃�������B</b>�z</font>
-<ul><font size=3>�����f���̃L�e�B�O���C�h������ł����A�ǂ����G�N���[���̑O�������Ƃ����̂͂Ȃ������ł��ˁB�i�����Ȃ���ȁc�c�j<br>����͂���Ƃ��ăA���I�E�G���B�Ƃ������Ă݂��肵�āB<br>���āA������.hack�B���i���񖣗����ꂿ�Ⴄ�̊��c�c���ȁB�i���R�~�b�N�łŗ\�K�����j<br></font></ul>
+<a href=mailto:yays@geocities.co.jp>八重洲＠管理人</a>
+ さん</font>
+ <font size=2>2003年1月16日(木) 0時40分</font>
+<a href="resbbs4@vew_1711.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるキャラクターは、<b>とうほぐ弁丸出しのユメたん。</b>】</font>
+<ul><font size=3>昨夜放映分のキティグレイド見たんですが、どうもエクレールの前世が♂というのはなさそうですね。（そりゃないよな……）<br>それはそれとしてアンオウ萌え。とか言ってみたりして。<br>さて、今宵は.hack。レナたん魅了されちゃうの巻……かな。（←コミック版で予習した）<br></font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

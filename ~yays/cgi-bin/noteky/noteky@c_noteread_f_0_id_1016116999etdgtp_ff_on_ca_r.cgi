@@ -1,241 +1,241 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1016116999etdgtp&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_1016116999etdgtp_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�m�C�������i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">ノインさん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2002/03/14 23:43:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2002/03/14 23:43:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016116999etdgtp&id2=1016116999etdgtp&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016116999etdgtp_id2_1016116999etdgtp_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200203/14234618/design_of_my_heart.htm" target="_blank">�uDesign of My Heart�v��ǂނɂ͂������N���b�N</a></strong>  <i>2002/03/15 00:02:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200203/14234618/design_of_my_heart.htm" target="_blank">「Design of My Heart」を読むにはここをクリック</a></strong>  <i>2002/03/15 00:02:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016118150oivdor&id2=1016116999etdgtp&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016118150oivdor_id2_1016116999etdgtp_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �ِ��E�ɍs���Ă݂����ȁ`�i��j
+【推薦文】 異世界に行ってみたいな～（謎）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2002/03/15 00:51:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016121111jwutj&id2=1016116999etdgtp&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016121111jwutj_id2_1016116999etdgtp_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR><BR>�悩�����ł��B�ǂ�ł��āA��i�����������ł��B<BR>���e�I�ɂ́A�t�@���^�W�[�ASF�A�N�w�I�ȕ��͋C������܂��ˁB<BR><BR>�A�G����񂪁A���܂�o�Ԃ͂Ȃ��������ǂ��A���������B<BR>�ǂ�����āA�����ɂȂ����̂��ȁH<BR>
+読みました。<BR><BR>よかったです。読んでいて、情景が見えそうです。<BR>内容的には、ファンタジー、SF、哲学的な雰囲気がありますね。<BR><BR>アエちゃんが、あまり出番はなかったけども、いいかも。<BR>どうやって、女王になったのかな？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/03/15 00:52:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/03/15 00:52:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016121127flcnptv&id2=1016116999etdgtp&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016121127flcnptv_id2_1016116999etdgtp_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A�����Ȃ��B���̕��͋C�B<BR>�Ȃ��Ȃ��ʔ��������ł���B�ِ��E�ł̓��퐶������A�ْ��̍����s�A�����ăV�j�t�B�G�Ƃ̑Λ��A�����Ƃ̑Ό����琁B<BR>�⍓�ȏ��������̊Z��E���̂ĂĂ݂�΁A���킢���A�G�����ŁA�Ȃ��Ȃ��悩�������A�m�]�~���ޏ����₳������ݍ���ł������Ƃ���ȂǁA�������m�ł����B<BR>����̔j�]�́A�ǂ�ł��鎞�ɂ͊����Ȃ������̂ŁA���܂�C�ɂ��Ȃ��Ă������̂ł́B<BR>�����Ȃ�ƁA�Ō�ɂ܂��ʂ̐��E�ɒ���ł������ޏ������̂��b���ǂ݂����ł��ˁB
+読んだバイ♪<BR>ああ、いいなぁ。この雰囲気。<BR>なかなか面白かったですよ。異世界での日常生活から、緊張の作戦実行、そしてシニフィエとの対峙、女王との対決と邂逅。<BR>冷酷な女王もその鎧を脱ぎ捨ててみれば、かわいいアエちゃんで、なかなかよかったし、ノゾミが彼女をやさしく包み込んでいったところなど、感動モノでした。<BR>物語の破綻は、読んでいる時には感じなかったので、あまり気にしなくてもいいのでは。<BR>こうなると、最後にまた別の世界に跳んでいった彼女たちのお話が読みたいですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/03/15 01:49:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>克美</strong>  <i>2002/03/15 01:49:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016124553txksuck&id2=1016116999etdgtp&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016124553txksuck_id2_1016116999etdgtp_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����I<BR>�ŋߖʔ����A�r�e.�t�@���^�V�J-��ǂ�łȂ������̂ŁA�ƂĂ��������܂����B�ِ��E�ɗ���Ƃs�r���Ďd�����Ƃ́A�����ِ��E�Ƃ́A�z�O�̐��E�Ȃ̂ł��ˁB���`����́A���̐��A����Ȋ�����i���j<BR>�N�J��-���g�J���R�J���̃w�K�R����񂪁A���������`<BR>�ł��������E�ł́A�����N�Ȃ񂾂���B<BR><BR>
+読みました！<BR>最近面白い、ＳＦ.ファンタシ゛-を読んでなかったので、とても感動しました。異世界に来るとＴＳして仕舞うとは、そう異世界とは、想念の世界なのですね。青い～お空は、何故青い、そんな感じ♪（爆）<BR>ク゛リ-ント゛ラコ゛ンのヘ゜コちゃんが、可愛かった～<BR>でも現実世界では、博巳君なんだもん。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2002/03/15 10:47:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あい</strong>  <i>2002/03/15 10:47:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016156823okxwv&id2=1016116999etdgtp&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016156823okxwv_id2_1016116999etdgtp_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L���b(^^*))((*^^) �L���b�@�����b�ł����B<BR>
+キャッ(^^*))((*^^) キャッ　いい話でした。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>KOSAKA</strong>  <i>2002/03/15 10:56:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016157414magcp&id2=1016116999etdgtp&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016157414magcp_id2_1016116999etdgtp_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����}�g���b�N�X�����Ă���悤�ȋC�����܂����B<BR>�ł�����͂����ƃm�C������̒��Ƀ}�g���b�N�X�Ɠ����悤��<BR>���݂�F�߂�m���ȐS������̂ł��傤�B<BR>�ǂ��ƂȂ��ǂ��ǂ��ȕ���ł����B
+どこかマトリックスを見ているような気がしました。<BR>でもそれはきっとノインさんの中にマトリックスと同じように<BR>存在を認める確かな心があるのでしょう。<BR>どことなくどきどきな物語でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n�x�`�y�h</strong>  <i>2002/03/15 19:29:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＯＹＡＺＩ</strong>  <i>2002/03/15 19:29:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016188167tssckm&id2=1016116999etdgtp&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016188167tssckm_id2_1016116999etdgtp_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����͋C�ł��ˁ`<BR>�ِ��E�t�@���^�W�[���m�ł����A�ʔ��������ł���B<BR>�F���͂��͂ƂȂ�A�ǂ��A�C�f�B�A���Ǝv���܂��B�ł��A�N�w�����o���ƒ����Ȃ邩�炱��Ŏ~�߂Ƃ��܂��B�i�΁j<BR><BR>�Ō�ɊG�t�l�ɂ����z������Ȃ��ẮE�E�E�O�҂݂��c�{�`�@
+良い雰囲気ですね～<BR>異世界ファンタジーモノですか、面白かったですよ。<BR>認識力が力となる、良いアイディアだと思います。でも、哲学を語り出すと長くなるからこれで止めときます。（笑）<BR><BR>最後に絵師様にも感想を言わなくては・・・三つ編みもツボ～　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/16 00:35:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/16 00:35:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016206511wuaasp&id2=1016116999etdgtp&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016206511wuaasp_id2_1016116999etdgtp_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��B<BR>�@<BR>��starbow����<BR>���`��ƁA�����N�w�́c���ہ[��ȓ��e�ł��B�ꉞ�������{��ǂ݂����܂������A�����炭�܂�����������ł��傤�Ȃ��B���E�ϓI�ɂ͂���܂�t�@���^�W�[���ۂ��Ȃ��ł��ˁBSF�Ƃ����̂͏��߂ċC�Â��܂������c�����������̂ł����c<BR><BR>���_�����z�̂����W�S�Q�U����<BR>�����ł����c�����؂炢�X�g�[���[�ł����A�y����ł����������悤�Ŋ������ł��B���҂͂ǂ��Ȃ��ł��傤�ȁA�͂����茾���ĂȂ�ł��A���̃L�����ɂȂ������������A��������c�ł��B<BR><BR>����������<BR>�����ł����c���肪�Ƃ��������܂��B�ِ��E���z�O�̐��E�ɂȂ����̂́ATS�����邽�߂̍�҂̓s���������Ɋ܂܂�Ă��܂��B�i���j<BR><BR>�؃R�͌��ɖ߂����Ⴂ�܂����ˁB<BR>����͂�c<BR><BR>����������<BR>���ɂ�c�������b�ł����c�Ƃꂿ�Ⴂ�܂��B�����Ă����Ƃ����b���������Ƃ������C�������܂��B���肪�Ƃ��������܂��ł��B<BR><BR>��KOSAKA����<BR>�}�g���b�N�X�ł����B���`��A�܂�������������������̂�������܂���ˁA�w�����ƌ��x�ł����B�w�E����ċC�Â��������āi�܂��܂����j<BR><BR>��OYAZI����<BR>�F�����͂ɂȂ�c�Ȃ񂩂ǂ����Ō����ݒ肾�Ȃ�<BR>�쒆�ɂ͐G����ĂȂ��ł����A�F���ƌ��t���͂ɂȂ�̂����c<BR>��҂̂����ɂ���܂肻����ւ�͍l���ĂȂ��̂ł��B�i�����j<BR>�N�w�͂���ς�w���܂������x�ł���ˁc���ق��Ă��������ȁc
+感想ありがとうございます。<BR>　<BR>＞starbowさん<BR>う～んと、多分哲学は…あぽーんな内容です。一応何冊か本を読みつつ書きましたが、おそらくまちがいもあるでしょうなぁ。世界観的にはあんまりファンタジーっぽくないですね。SFというのは初めて気づきましたが…そうだったのですか…<BR><BR>＞神速感想のｍｋ８４２６さん<BR>感動ですか…薄っぺらいストーリーですが、楽しんでいただけたようで嬉しいです。続編はどうなるんでしょうな、はっきり言ってなんでもアリのキャラになっちゃったから、難しいかも…です。<BR><BR>＞克美さん<BR>感動ですか…ありがとうございます。異世界が想念の世界になったのは、TSさせるための作者の都合が多分に含まれています。（汗）<BR><BR>ぺコは元に戻っちゃいましたね。<BR>いやはや…<BR><BR>＞あいさん<BR>うにゃ…いいお話ですか…照れちゃいます。そしてもっといい話を書こうというやる気がおきます。ありがとうございますです。<BR><BR>＞KOSAKAさん<BR>マトリックスですか。う～ん、まあそういう感じもするのかもしれませんね、『現実と幻』ですか。指摘されて気づいた私って（またまた汗）<BR><BR>＞OYAZIさん<BR>認識が力になる…なんかどっかで見た設定だなぁ<BR>作中には触れられてないですが、認識と言葉が力になるのかも…<BR>作者のくせにあんまりそこらへんは考えてないのです。（激汗）<BR>哲学はやっぱり『激まちがい』ですよね…勘弁してくださいな…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2002/03/16 09:17:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2002/03/16 09:17:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016237872rmwty&id2=1016116999etdgtp&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016237872rmwty_id2_1016116999etdgtp_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������납�����B�m�]�~�͂��ꂩ��A���������̐��E�𔎖��i�y�R�j�ƂƂ��ɓn������Ă����̂��ȁB�e�a�ǂݐ؂�̘A����̂���]�B<BR>�ł��A���̐��E�ŏ��̎q����̂��̂Ă������c�c�B<BR><BR>���ꂩ��F�����͂ɂȂ�̂́A���̐��E���ꏏ�ł���ˁB���݂ɈӖ���^����͎̂������g�̔F�������Ȃ��ł����ˁB<BR><BR>�Ƃ������A�m�]�~�������B�����̒��g���C���X�g�������B<BR>���ꂩ����m�C���l�A�n����l�A����l�Ŋ撣���Ă��������B
+おもしろかった。ノゾミはこれから、あちこちの世界を博巳（ペコ）とともに渡り歩いていくのかな。各和読み切りの連作ものを希望。<BR>でも、元の世界で女の子するのも捨てがたい……。<BR><BR>それから認識が力になるのは、この世界も一緒ですよね。存在に意味を与えるのは自分自身の認識しかないですしね。<BR><BR>ともかく、ノゾミが可愛い。小説の中身もイラストも可愛い。<BR>これからもノイン様、地駆鴉様、お二人で頑張ってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/03/16 10:20:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/03/16 10:20:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016241638fbsfqx&id2=1016116999etdgtp&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016241638fbsfqx_id2_1016116999etdgtp_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�x��΂��Ȃ���A���z�ł��B<BR>�܂��A�t�B������ƃm�]�~�����̃V�[���������Ă܂��ˁB���̎q�炵���Ȃ��Ă����ߒ��������ɕ\������Ă��āA���b���X���[�Y�ɂȂ����Ǝv���܂��B<BR>�s�傩���ɍI���܂Ƃ܂����b���Ǝv���܂��B����ς�m�C�����܂̓A�C�f�B�A�����͂������ł��B<BR>����ł͂��̏�����؂肵�܂��āc�c�B<BR>�n�x�`�y�h���܁A�W���[�W���b�h���܁B�����̊G�ɂ܂ł����t��������A���肪�Ƃ��������܂��B����͗��`���̂���ł����̂ŁA�{���ɂ��p���������ł��B<BR>����ɂ��̏�����؂肵�܂��āc�c�B<BR>�G�̒��Ńm�]�~����񂪔���Ă���X�q�ɏ����ꂽ�u�u�v�̎��B�u���B�N�g���[�v�����������̂ł����i�����j�B
+遅らばせながら、感想です。<BR>まず、フィンさんとノゾミちゃんのシーンが増えてますね。女の子らしくなっていく過程も同時に表現されていて、お話がスムーズになったと思います。<BR>壮大かつ非常に巧くまとまった話だと思います。やっぱりノインさまはアイディアも文章も凄いです。<BR>それではこの場をお借りしまして……。<BR>ＯＹＡＺＩさま、ジャージレッドさま。自分の絵にまでお言葉を下さり、ありがとうございます。これは落描きのつもりでしたので、本当にお恥ずかしいです。<BR>さらにこの場をお借りしまして……。<BR>絵の中でノゾミちゃんが被っている帽子に書かれた「Ｖ」の字。「ヴィクトリー」を示したものでした（自爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/17 00:05:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/17 00:05:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016291152whwxxw&id2=1016116999etdgtp&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016291152whwxxw_id2_1016116999etdgtp_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��B<BR><BR>���W���[�W���b�h����<BR>�e�b�ǂ݂���A�Ȃɂ��X�g�[���[���v�������ׂ΁A�����Č������Ǝv���܂��B����ς蔎������ɂ̓y�b�g�ɖ߂��Ă��炤����Ƃ����̂͂��ڂ낰�Ȃ���l���Ă܂��B<BR><BR>�F�����͂Ɂc�����ł��ˁB���݂͔F����͂ɂ��ė��������A<BR>�����Ă��̂��߂̂����Ƃ������I�ȓ�����t�������̂ł��B�i�Ƃ����ݒ肩�ȁj<BR><BR>���n���낳��<BR>�n���낳��̃A�h�o�C�X�̂������ł��B���낢��ƕt�������Ă܂����A�ǂ���炤�܂��������悤�ŁA�ق��ƈ���S�ł��B<BR><BR>�C���X�g�A�{���ɂ��肪�Ƃ��������܂����B<BR>���܂����E�ςɃ}�b�`����悤�ɏ���������ł����A�ǂ���猋�\���܂��������悤�ŁA�n���낳��̊G���D���Ȏ��Ƃ��ẮA�܂��܂��ق��ƈ���S�ł��B<BR><BR>�X�q�́uV�v�͏�����V�������̂ł��ˁB�K���_������<BR>�ł͂ł�<BR>
+感想ありがとうございます。<BR><BR>＞ジャージレッドさん<BR>各話読みきり、なにかストーリーが思い浮かべば、書いて見たいと思います。やっぱり博巳くんにはペットに戻ってもらうつもりというのはおぼろげながら考えてます。<BR><BR>認識が力に…そうですね。存在は認識を力にして了解される、<BR>そしてそのためのもっとも効率的な道具が言葉だったのです。（という設定かな）<BR><BR>＞地駆鴉さん<BR>地駆鴉さんのアドバイスのおかげです。いろいろと付け足してますが、どうやらうまくいったようで、ほっと一安心です。<BR><BR>イラスト、本当にありがとうございました。<BR>うまく世界観にマッチするように書いたつもりですが、どうやら結構うまくいったようで、地駆鴉さんの絵が好きな私としては、またまたほっと一安心です。<BR><BR>帽子の「V」は勝利のVだったのですね。ガンダムぅ♪<BR>ではでは<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i�E�e</strong>  <i>2002/03/17 00:49:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｊ・Ｆ</strong>  <i>2002/03/17 00:49:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016293795uwcpgr&id2=1016116999etdgtp&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016293795uwcpgr_id2_1016116999etdgtp_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�C���X�g�̔j���(^^;�����邱�ƂȂ���A�������P���̃C���X�g���炱���܂Őݒ肪�o�Ă���̂͂������Ǝv���܂��B<BR>�������܂����Ȃ�ĂƂ�ł��Ȃ��B<BR><BR>���u����ƁA�Ƃ肠�����A������v<BR>�߂��Ă������̂��̑䎌�Łu�͂��߂ĕ���v��A�z���������͂����Ⴍ�Ȃ��ł��ˁi���j
+イラストの破壊力(^^;もさることながら、たった１枚のイラストからここまで設定が出てくるのはすごいと思います。<BR>文がおまけだなんてとんでもない。<BR><BR>＞「よっと、とりあえず、到着♪」<BR>戻ってきた時のこの台詞で「はじめて物語」を連想した自分はもう若くないですね（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Β�</strong>  <i>2002/03/17 09:12:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>石塚</strong>  <i>2002/03/17 09:12:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016323955fomikv&id2=1016116999etdgtp&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016323955fomikv_id2_1016116999etdgtp_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�b�̌��݂ɑ΂��A���͂����ɂ킩��₷���d�オ���Ă���Ǝv���܂����B<BR>�G���f�b�T���ł����Ɠ�������肭�Ƃ炦���Ă��āA�̑S�̂̋ύt���ǂ����ʂ��Ǝv���܂����B<BR>��킩��Ȃ��̂́A�ǂ�����Ē��F�������c�A�Ȃ̂ł����F���M�ł��傤���H
+話の厚みに対し、文章が非常にわかりやすく仕上がっていると思いました。<BR>絵もデッサンでいうと動勢が上手くとらえられていて、体全体の均衡も良い効果だと思いました。<BR>一つわからないのは、どうやって着色したか…、なのですが色鉛筆でしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:hag01860@ams.odn.ne.jp" target="_blank">HIKO</a></strong>  <i>2002/03/17 10:15:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016327733erdmd&id2=1016116999etdgtp&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016327733erdmd_id2_1016116999etdgtp_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
- �ǂ݂܂����E�E�E���Ă�[���A�ǂ�ł��񂾂��Ǌ��z�x��܂����B���߂�Ȃ����A�m�C������B<BR>�@��b�����łT�O�����B�������E�ƈِ��E���s��������u���[�t�@���^�W�[�v�Ƃ��Ă��A�I���܂Ƃ܂��Ă���Ǝv���܂��B�q���~����a���Ȃ����̎q���ۂ��Ȃ��Ă����ے��́A�Ȃ��Ȃ��ǂ��ł��ˁB<BR>�@����ɂ��Ă��A���̒n���낳��̊G�ꖇ����A�悭���ꂾ���̍�i���E�E�E�B�V���[�Y�ɂ��ł���������Ȃ��ł����B<BR>�@���X�Ȃ���A�����Ȃ�ʋZ�ʂł��B�����ꖇ�`���đ��낤������H
+ 読みました・・・ってゆーか、読んでたんだけど感想遅れました。ごめんなさい、ノインさん。<BR>　一話完結で５０ｋｂ。現実世界と異世界を行き来する「ローファンタジー」としても、巧くまとまっていると思います。ヒロミが違和感なく女の子っぽくなっていく課程は、なかなか良いですね。<BR>　それにしても、あの地駆鴉さんの絵一枚から、よくこれだけの作品を・・・。シリーズにもできそうじゃないですか。<BR>　今更ながら、ただならぬ技量です。何か一枚描いて送ろうかしら？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:hag01860@ams.odn.ne.jp" target="_blank">HIKO</a></strong>  <i>2002/03/17 10:17:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016327840kxvky&id2=1016116999etdgtp&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016327840kxvky_id2_1016116999etdgtp_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂�A�m�]�~�������B��{�P�ł��ȁi���j
+ごめん、ノゾミだった。大ボケですな（汗）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/18 00:19:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/18 00:19:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1016378383ubepgum&id2=1016116999etdgtp&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1016378383ubepgum_id2_1016116999etdgtp_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂���<BR><BR>��J�EF����<BR>�ݒ�͓N�w�{��ǂ�ł��ĂȂ�ƂȂ����Ċ����ł��B<BR>����ɂ��Ă��B����ς�T�O���ŋN���]��������̂͂Ȃ��Ȃ���������ł��B����ƃC���X�g����z���͂�~�����Ă���Ƃ����ꍇ�����邩�Ǝv���܂���B�n���낳��̃C���X�g���Ȃ�������A���̂��b���͏o���Ȃ������Ǝv���܂��B<BR><BR>���Β˂���<BR>���b���̌��݁c�c���`��ƁA��b�����łT�O���͂�����Ə��Ȃ����Ȃ��Ǝv���Ă���܂��B�ꉞ�w���C�g�x�ȃt�@���^�W�[�Ȃ̂ŁA���E�ςƂ��͓K���ɗ����Ă���܂����A�e������̂ł����B�i�O�O�G�j<BR>�y����ł����������悤�ōK���ł��B<BR>���Ȃ݂ɃC���X�g�ɂ��Ăł����A�n���낳��ɕς���āA�������������Ă����܂��B���̃C���X�g�͐F���M�ł��B�ł��ŋ߃^�u���b�g�����w�����������ŁACG���ł���悤�ɂȂ����Ƃ��c�{���ɑf���炵�����Ƃł��B<BR><BR>��HIKO����<BR>��a���Ȃ��c�c���`�񂩂�[�������Ƃ΂��Ă܂��ȁB���ꂪ���҂������班�������̎q�ɂ��Ă����񂾂낤���ǁA�܂��Z�҂Ȃ�Ŋ��قł��B<BR>�V���[�Y�c�Z�҂ȍ�i��������o�������ł��ˁB<BR>�G����c�c�C���X�s���[�V�������󂯂�Ƃ����Ӗ��ł̓C���X�g���������ق���SS�͑n��₷���ł��ˁB<BR>�G�𑗂�c���Ԃ���������A����΂��Ă݂����ł��BSS�i���j<BR><BR>
+感想ありがとうございます♪<BR><BR>＞J・Fさん<BR>設定は哲学本を読んでいてなんとなくって感じです。<BR>それにしても。やっぱり５０ｋで起承転結をつけるのはなかなか難しかったです。それとイラストから想像力を掻きたてられるという場合もあるかと思いますよ。地駆鴉さんのイラストがなかったら、このお話しは出来なかったと思います。<BR><BR>＞石塚さん<BR>お話しの厚み……う～んと、一話完結で５０ｋはちょっと少ないかなぁと思っております。一応『ライト』なファンタジーなので、世界観とかは適当に流しておりますし、粗もあるのでした。（＾＾；）<BR>楽しんでいただけたようで幸いです。<BR>ちなみにイラストについてですが、地駆鴉さんに変わって、私がお答えしておきます。あのイラストは色鉛筆です。でも最近タブレットをご購入したそうで、CGもできるようになったとか…本当に素晴らしいことです。<BR><BR>＞HIKOさん<BR>違和感なく……う～んかるーくすっとばしてますな。これが長編だったら少しずつ女の子にしていくんだろうけど、まあ短編なんで勘弁です。<BR>シリーズ…短編な作品だったら出来そうですね。<BR>絵から……インスピレーションを受けるという意味ではイラストがあったほうがSSは創りやすいですね。<BR>絵を送る…時間があったら、がんばってみたいです。SS（汗）<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ԗ�</strong>  <i>2002/03/31 10:38:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>赤目</strong>  <i>2002/03/31 10:38:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017538701mmeduoq&id2=1016116999etdgtp&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017538701mmeduoq_id2_1016116999etdgtp_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������z�������z :)<BR><BR>�N�w�t�@���^�W�[�Ƃ��������̍�i�ł��ˁB�w�i�ɂȂ��Ă���N�w�_��<BR>�Ȃ�ƂȂ����͋C�����ł킩�����C�ɂȂ�܂������A�������l�^��<BR>�������񂠂肻���c�c�B���ꂪ�����Ă��Ȃ�Ɠ��̕��͋C�ŗǂ������ł��B<BR>�������҂ł����琢�E�\���̕����Ƃ��A���������������������ł��傤���B<BR><BR>���̕��������Ă����܂������A�����̌ǓƂƁA������m�]�~���~����<BR>�Ƃ���V�[������ۓI�ł����B<BR>�N�w�ƃt�@���^�W�[�A�Ȃ񂾂��ӊO�ɑ������ǂ���荇�킹�𔭌������C���ł��B<BR>
+今頃感想を書く奴 :)<BR><BR>哲学ファンタジーという感じの作品ですね。背景になっている哲学論は<BR>なんとなく雰囲気だけでわかった気になりましたが、何か元ネタが<BR>たくさんありそう……。これが効いてかなり独特の雰囲気で良かったです。<BR>もし長編でしたら世界構造の部分とか、もう少し説明が増えたでしょうか。<BR><BR>他の方も書いておられましたが、女王の孤独と、それをノゾミが救おう<BR>とするシーンが印象的でした。<BR>哲学とファンタジー、なんだか意外に相性が良い取り合わせを発見した気分です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C���i�d�g�d���j</strong>  <i>2002/03/31 19:04:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン（電波妖精）</strong>  <i>2002/03/31 19:04:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017569051gjvkpn&id2=1016116999etdgtp&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017569051gjvkpn_id2_1016116999etdgtp_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���񂭂���<BR><BR>�N�w�t�@���^�W�[�ł����c���̕����̑O�Ɂw�����x�Ƃ����񕶎����c<BR><BR>���Ȃ�ƂȂ����͋C�����킩�����C��<BR>���������ӂ��ɏ����Ă���܂��c���������Ȃ��A�j�]������Ƃ́A������ւ�̂��Ƃ��w�������Ă���̂ł��B<BR><BR>���E�̍\���Ƃ����Z�҂����ɂ�͂葽���́A�Ȃ��K�v������܂����c<BR>�ِ��E���ۂ����͋C���o���̂����E�������悤�ł��B<BR><BR>�N�w�ƃt�@���^�W�[�c�ӊO�Ȏ�荇�킹�Ǝv�킹�āA���\�ǂ�ȃW�������ł��g�������ł��c�����āA�^�G���@�̉e���Ƃ����󂯂Ă���킯�ł́c�Ȃ��Ǝv���Ă��������c<BR><BR>���l�^�ɂȂ����́c���O<BR>�O�m�[�e�B�E�T�D�g�[�������A���g��m��A�̃M���V����c<BR>�t�B���̉��̖��O�c�A�y�e�C�g�E�X���ӗ~<BR>�����̖��O�����Ď��͐������ł��B�i���̑��ݎ�<BR>�F���̕R�c�r�b�O�o���̏�Ԃ�ێ����Ă���ƌ����Ă���ꏊ�ł��B<BR>���ۂ̒n�����ƌ������̂́c������ƓK���ł����B�u���b�N�z�[���̂��Ƃ�����킵�Ă܂��B�u���b�N�z�[���A���������ݍ��ޏꏊ�B���ۂ̈��ʂ����Ă���ꏊ�Ȃ̂ł��B�܂茴���ƌ��ʂ����т��Ȃ��B���邢�͌��ʂ��猴�������N�����悤�ȁc���̂悤�ȏꏊ�Ƃ��������𖼑O�̈Ӗ��Ƃ��Ă������܂����B<BR><BR>���`�[�t�c<BR>�s�v�c�̍��̃A���X<BR>����̕��͋C���o�����Ƃ����̂ł����c<BR>�^�A�g���G�̃Q�[��<BR>�^���@�R�m�c<BR><BR>���낢��ƃ��`�[�t�ɂ��Ă܂��B<BR>��������ԃC���[�W�̌��ɂȂ����̂͒n���낳��̃C���X�g�ł���܂��B��ł͂��̂ւ�Łc<BR><BR>
+感想さんくす♪<BR><BR>哲学ファンタジーですが…その文字の前に『えせ』という二文字が…<BR><BR>＞なんとなく雰囲気だけわかった気に<BR>そういうふうに書いております…整合性がなく、破綻があるとは、そこらへんのことを指し示しているのです。<BR><BR>世界の構造とか＞短編だけにやはり多少は、省く必要がありました…<BR>異世界っぽい雰囲気を出すのが限界だったようです。<BR><BR>哲学とファンタジー…意外な取り合わせと思わせて、結構どんなジャンルでも使えそうです…決して、某エヴァの影響とかを受けているわけでは…ないと思ってください…<BR><BR>元ネタになったの…名前<BR>グノーティ・サゥトーン＝汝、自身を知れ、のギリシャ語…<BR>フィンの下の名前…アペテイトウス＝意欲<BR>女王の名前＝当て字は正しいです。永遠の存在者<BR>宇宙の紐…ビッグバンの状態を保持していると言われている場所です。<BR>事象の地平線と言ったのは…ちょっと適当ですが。ブラックホールのことをあらわしてます。ブラックホール、光さえ飲み込む場所。事象の因果が壊れている場所なのです。つまり原因と結果が結びつかない。あるいは結果から原因が生起されるような…そのような場所という感じを名前の意味としてもたせました。<BR><BR>モチーフ…<BR>不思議の国のアリス<BR>これの雰囲気を出そうとしたのでした…<BR>某アトリエのゲーム<BR>某魔法騎士…<BR><BR>いろいろとモチーフにしてます。<BR>もちろん一番イメージの元になったのは地駆鴉さんのイラストであります。んではこのへんで…<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ԗ�</strong>  <i>2002/04/01 03:11:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>赤目</strong>  <i>2002/04/01 03:11:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1017598295khdaic&id2=1016116999etdgtp&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1017598295khdaic_id2_1016116999etdgtp_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ڂ�������ǂ����ł��B ;)<BR>�u���͋C�����ł���ʂ�v�̕����́A������񎄂Ɋw���Ȃ�<BR>���炻��ȗ��������ł��Ȃ��킯�Łi��<BR>�M���V������͉Ȋw���N�w�������̂ɁA�ߑ�Ȋw���o�Ă���<BR>���ꗣ��A�ł��܂��Ȋw�͓N�w�ɐڋ߂��Ă܂��ˁB���ꂩ��<BR>�̎���A�t�B�N�V�����̕�����N�w�҂̏o�Ԃ�������Ȃ��ł��B<BR>�E������������i���ցj�A�ł͂��̕ӂŁB<BR>
+詳しい解説どうもです。 ;)<BR>「雰囲気だけでうんぬん」の部分は、もちろん私に学がない<BR>からそんな理解しかできないわけで（汗<BR>ギリシャ時代は科学＝哲学だったのに、近代科学が出てきて<BR>離れ離れ、でもまた科学は哲学に接近してますね。これから<BR>の時代、フィクションの分野も哲学者の出番かもしれないです。<BR>脱線しちゃった（えへ）、ではこの辺で。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1016116999etdgtp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">���ɍ�i���z(2001.10.1-)</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">文庫作品感想(2001.10.1-)</a>]<br>
 
 </p>
 </body>

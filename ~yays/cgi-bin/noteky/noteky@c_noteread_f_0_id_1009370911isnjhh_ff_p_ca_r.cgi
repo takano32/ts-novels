@@ -1,225 +1,225 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1009370911isnjhh&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1009370911isnjhh_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�������z�[���[�����W���[</font><br>
+<font size="+2" color="#0000FF">聖霊戦隊ホーリーレンジャー</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/26214051/holy1.htm" target="_blank">��i������ɂ͂������N���b�N�B(���b)</a></strong>  <i>2001/12/26 21:48:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/26214051/holy1.htm" target="_blank">作品を見るにはここをクリック。(第一話)</a></strong>  <i>2001/12/26 21:48:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009370911isnjhh&id2=1009370911isnjhh&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009370911isnjhh_id2_1009370911isnjhh_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A������̂ł��B�����Ă��̒��Ɉ�l�͕K��������̂Ƃ����΁c�c
+そう、戦隊ものです。そしてその中に一人は必ずいるものといえば……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/26 22:58:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/26 22:58:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009375127knyqik&id2=1009370911isnjhh&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009375127knyqik_id2_1009370911isnjhh_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A������́I���������ΐ���ɂ͈�l�͏��������܂��Ȃ��B<BR>����͈�̂Ȃ�Ȃ�ł����ˁH����ψӖ��������Ă����Ȃ��Ă��ł��傤���H����Ƃ��P�Ȃ�ʂ�ł��傤���H<BR>����͂����ƁA������̂Ńs���N�ɂȂ���������j�A�����ł��˂��[�i���j�B����͂��񑩃V�[�����������o�Ă������Ȃ�ŁA�y���݂ł��B
+読んだバイ♪<BR>おお、戦隊もの！そういえば戦隊には一人は女性がいますなぁ。<BR>あれは一体なんなんですかね？やっぱ意味があってそうなってるんでしょうか？それとも単なる彩りでしょうか？<BR>それはそうと、戦隊ものでピンクになっちゃった男、いいですねぇー（爆）。次回はお約束シーンがいくつも出てきそうなんで、楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���B�Ȑl</strong>  <i>2001/12/27 01:16:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>特撮な人</strong>  <i>2001/12/27 01:16:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009383375wicdoyj&id2=1009370911isnjhh&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009383375wicdoyj_id2_1009370911isnjhh_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܁`���͂���ǂłԂ����`�`�`<BR>���A���߂�B<BR>���v���o���Ă��܂��āB�ł�������̂Ȃ񂾂�Ȃ��B
+ま～っはろっどでぶろろろろ～～～<BR>あ、ごめん。<BR>つい思い出してしまって。でも戦隊ものなんだよなあ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2001/12/27 01:30:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2001/12/27 01:30:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009384208ekvks&id2=1009370911isnjhh&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009384208ekvks_id2_1009370911isnjhh_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����[�����[���`�́[�G�[�W�F���g��<BR>���ꂽ����l�Ńo����������<BR><BR>�c�c���͓ǂ݂Ȃ���AED�̂ق����]��MP3�ōĐ�����Ă܂����B(^^)
+たたーかうー正義のーエージェントぉ<BR>おれたち二人でバロム●ン♪<BR><BR>……私は読みながら、EDのほうが脳内MP3で再生されてました。(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�K�I�S�b�h���Q�b�g�����j�d�a�n�Q���Q</strong>  <i>2001/12/28 00:48:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ガオゴッドをゲットしたＫＥＢＯゲルゲ</strong>  <i>2001/12/28 00:48:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009468131mdgklex&id2=1009370911isnjhh&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009468131mdgklex_id2_1009370911isnjhh_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[�I���剻�n�Ȃ��I�H<BR>�c�w�V���[�Y�y���݂ɂ��Ă��̂Ɂi�����I�j<BR><BR>���Ȃ݂ɐ���ɏ��������Ȃ��Ə��̎q���ꏏ�ɐ���������ŗV�ׂȂ��I�Ƃ����̂������ł����A<BR>�E�`�̎q�́u���߃K�I�����W���[�v�Ɩ�����āu�܂��Ђ炫�W�����v�I�I�v�������Ă���܂��B<BR><BR>�����ƁA���z�������B����n�͒����W�]���厖�ł��I�撣���ĉ������ˁI
+えー！巨大化系なし！？<BR>ＤＸシリーズ楽しみにしてたのに（うそ！）<BR><BR>ちなみに戦隊に女性がいないと女の子が一緒に戦隊ごっこで遊べない！というのが理屈ですが、<BR>ウチの子は「さめガオレンジャー」と名乗って「またひらきジャンプ！！」を見せてくれます。<BR><BR>おっと、感想だった。戦隊系は長期展望が大事です！頑張って下さいね！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>2001/12/30 18:30:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>おしべ</strong>  <i>2001/12/30 18:30:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009704629nvfgq&id2=1009370911isnjhh&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009704629nvfgq_id2_1009370911isnjhh_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������B��b���y���݂ł��B
+面白かった。二話も楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2001/12/31 08:16:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2001/12/31 08:16:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009754211qvlrvj&id2=1009370911isnjhh&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009754211qvlrvj_id2_1009370911isnjhh_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��{�I�ɂ̓V���A�X�ɓW�J�����{�҂̌�ɂ��������\���҂��t���Ă��̂Ŏv�킸�����o���Ă��܂��܂����B�����A���ӂ��h�炢�ł�(��)�B<BR>
+基本的にはシリアスに展開した本編の後にああいう予告編が付いてたので思わず吹き出してしまいました。ああ、決意が揺らいでる(笑)。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/01011816/holy2.htmmailto:" target="_blank">��b�ڂ�����ɂ͂������N���b�N�B</a></strong>  <i>2002/01/01 01:50:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/01011816/holy2.htmmailto:" target="_blank">二話目を見るにはここをクリック。</a></strong>  <i>2002/01/01 01:50:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009817406jfxfoc&id2=1009370911isnjhh&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009817406jfxfoc_id2_1009370911isnjhh_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��q�̎��������������́E�E�E
+怜子の事情をしった光一は・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/01011816/holy2.htm" target="_blank">�z���g�̓�b�͂�����</a></strong>  <i>2002/01/01 18:45:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/01011816/holy2.htm" target="_blank">ホントの二話はこちら</a></strong>  <i>2002/01/01 18:45:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009878316oonbix&id2=1009370911isnjhh&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009878316oonbix_id2_1009370911isnjhh_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��̃����N�̓A�h���X�����ԈႢ�łȂ����Ă��܂���̂ŁA�����炩��ǁ[���B<BR>�i���b�Ă��ǎҁj
+上のリンクはアドレス書き間違いでつながっていませんので、こちらからどーぞ。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/01 18:51:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/01 18:51:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009878681wqcfk&id2=1009370911isnjhh&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009878681wqcfk_id2_1009370911isnjhh_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��͂��͂��́I<BR>����[�A���͂ɉ���������Ă�������N���������Ȃ��B<BR>�ł��A�Ō�͂������莩�����g�Ō��f�������Ă��܂����ˁB���΂炵���B<BR>�����A���悢�搳���Ȃ̂ŁA�������̛ޏ����񂪌���邩�ȁi�΁j�B
+読んだバイ♪<BR>わっはっはっはっは！<BR>いやー、周囲に押し流されていく光一クンがいいなぁ。<BR>でも、最後はきっちり自分自身で決断を下していましたね。すばらしい。<BR>さあ、いよいよ正月なので、光ちゃんの巫女さんが見れるかな（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n����</strong>  <i>2002/01/01 23:46:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地駆鴉</strong>  <i>2002/01/01 23:46:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009896417slycf&id2=1009370911isnjhh&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009896417slycf_id2_1009370911isnjhh_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��b�A��b�A�ǂ܂��Ē����܂����B<BR>�V���A�X�ȃX�g�[���[�̒��ɂ��肰�Ȃ����񑩂�M���O�������Ă��āA�ƂĂ��ʔ��������ł��B<BR>���ƁA�ݒ肪�킩��₷���Ă悩�����ł��B<BR>������񑼂́A�R�������`���B���ꂼ�܂��Ƀq�[���[���̂ł��ˁB
+一話、二話、読ませて頂きました。<BR>シリアスなストーリーの中にさりげなくお約束やギャグが入っていて、とても面白かったです。<BR>あと、設定がわかりやすくてよかったです。<BR>光ちゃん他の、燃え立つ正義感。これぞまさにヒーローものですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���C�^�[�}��</strong>  <i>2002/01/02 00:09:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ライターマン</strong>  <i>2002/01/02 00:09:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1009897753aidkh&id2=1009370911isnjhh&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1009897753aidkh_id2_1009370911isnjhh_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������A���悢�搳���Ȃ̂ŁA�������̛ޏ����񂪌���邩�ȁi�΁j�B<BR>�������Ă݂����B�c�c�ł���҂͊G���`���Ȃ��̂ł������B(T_T)<BR>�d���Ȃ��̂Ŕ����{�Ƌ{���Ԑ_�Ђ��n�V�S���ěޏ���������Ă��܂����B(�n���ȊO�Ӗ��s��(^o^;))<BR>
+＞さあ、いよいよ正月なので、光ちゃんの巫女さんが見れるかな（笑）。<BR>私も見てみたい。……でも作者は絵が描けないのであった。(T_T)<BR>仕方ないので箱○宮と宮○嶽神社をハシゴして巫女さんを見てきました。(地元以外意味不明(^o^;))<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200201/05004202/holyex1.htm" target="_blank">�O�`����1������ɂ͂������N���b�N�B </a></strong>  <i>2002/01/05 00:47:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200201/05004202/holyex1.htm" target="_blank">外伝その1を見るにはここをクリック。 </a></strong>  <i>2002/01/05 00:47:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010159272oixhepl&id2=1009370911isnjhh&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010159272oixhepl_id2_1009370911isnjhh_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ��`��B���w�ɂ����܂������`�I�H
+みなさ～ん。初詣にいきましたか～！？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/05 06:49:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/05 06:49:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010180975jvmpd&id2=1009370911isnjhh&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010180975jvmpd_id2_1009370911isnjhh_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����[���񑩁i�΁j�B<BR>����țޏ����񂪂����烏�^�N�V�����x�ł�����Ń|�P�b�g�������ł����ς��ɂ��������i���j�B<BR>���w�́E�E�E�s���Ă܂���B�d���������̂Łi�܁j�B�N���N�n�͖Z������ł���B�悤�₭�I������Ƃ���ŁE�E�E�B<BR>���d���Ȃ��̂Ŕ����{�Ƌ{���Ԑ_�Ђ��n�V�S���ěޏ���������Ă��܂����B(�n���ȊO�Ӗ��s��(^o^;))<BR>��͂́B���^�N�V�̎��Ƃ͋{���Ԑ_�Ђ�������ĂQ�O���ł���ŁA���ɒn�����ł��B�����A�e���Ȃ�ł���`�B
+読んだバイ♪<BR>いやーお約束（笑）。<BR>こんな巫女さんがいたらワタクシも何度でも並んでポケットをお守りでいっぱいにしそうだ（爆）。<BR>初詣は・・・行ってません。仕事だったので（涙）。年末年始は忙しいんですよ。ようやく終わったところで・・・。<BR>＞仕方ないので箱○宮と宮○嶽神社をハシゴして巫女さんを見てきました。(地元以外意味不明(^o^;))<BR>わはは。ワタクシの実家は宮○嶽神社から歩いて２０分ですんで、非常に地元民です。そう、Ｆ町なんですよ～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2002/01/05 13:39:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2002/01/05 13:39:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010205546rdahufy&id2=1009370911isnjhh&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010205546rdahufy_id2_1009370911isnjhh_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������I�@�ޏ����񂶂�[�I<BR>�����������������Ђ��邿��񃏁[�I�I<BR>���X�����ޏ�����͂����̂��c���āA������Ɖ��Ă܂��B<BR>���͂܂�ċ����o���������ɖG���B<BR>�����̂Ђ���͒͂߂�قǋ�����܂���B�i��<BR><BR>���A�w�E����ӏ��B<BR>�{�i�Ƃ����̂͐_�Ђł����΂�̂��_��̂��ƁB<BR>�����A����N�̂�������ł��鑁�_�搶�������ł��傤�B<BR>��N�O�̌��ꂭ��̗���́A�N��I�Ɍ��H�X(����˂��ƓǂށB�v���i)�Ƃ����͔̂����ȂƂ���Ǝv���̂ŁA���̏��΂ł��傤�ˁB<BR>
+うおおお！　巫女さんじゃー！<BR>あっちもこっちもひかるちゃんワーオ！<BR>初々しい巫女さんはええのう…って、ちょっと壊れてます。<BR>胸掴まれて泣き出す光ちゃんに萌え。<BR>うちのひかるは掴めるほど胸ありません。（ぉ<BR><BR>あ、指摘を一箇所。<BR>宮司というのは神社でいちばん偉い神主のこと。<BR>多分、光一君のお父さんである早雲先生がそうでしょう。<BR>一年前の光一くんの立場は、年齢的に権禰宜(ごんねぎと読む。要資格)というのは微妙なところと思うので、一介の助勤でしょうね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/01/06 00:32:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/01/06 00:32:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010244755ooivwm&id2=1009370911isnjhh&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010244755ooivwm_id2_1009370911isnjhh_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ς莞���l�^�ł��Ȃ��B<BR>�����̖^��A�������t�̉A�Ŋ��ł��邱�Ƃł��傤�B<BR><BR>����ς�A�@���l�^���ĕ|���Ȃ��B
+やっぱり時事ネタですなあ。<BR>ここの某常連氏も草葉の陰で喜んでいることでしょう。<BR><BR>やっぱり、宗教ネタって怖いなあ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���C�^�[�}��</strong>  <i>2002/01/06 01:42:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ライターマン</strong>  <i>2002/01/06 01:42:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010248924qyyna&id2=1009370911isnjhh&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010248924qyyna_id2_1009370911isnjhh_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�ǂ������肪�Ƃ��������܂��B<BR><BR>���a����<BR>���w�E�ǂ������肪�Ƃ��������܂��B<BR>���݂܂���B�_�Ђ̂��Ɖ����m��Ȃ��܂܂ŏ����Ă��܂������̂�����A�_�Ђ̒��̖�E(�H)�Ƃ����Ɓu�ޏ��A�_��A�{�i�v���炢�����v�����Ȃ�������ł��B<BR>�����A���H�X�Ƃ����΂ƌ����Ƃ킩��Ȃ��l�����邩���m��Ȃ��̂Œ�������Ȃ�<BR>�@�u�{�i�v���u�_���`���v<BR>�ɂ��������悢�Ǝv���̂ł����ǂ��ł��傤���H(�����펯��m��Ȃ������Ȃ�ł���)
+感想どうもありがとうございます。<BR><BR>七斬さん<BR>ご指摘どうもありがとうございます。<BR>すみません。神社のこと何も知らないままで書いてしまったものだから、神社の中の役職(？)というと「巫女、神主、宮司」ぐらいしか思いつかなかったんです。<BR>ただ、権禰宜とか助勤と言うとわからない人がいるかも知れないので訂正するなら<BR>　「宮司」→「神主手伝い」<BR>にした方がよいと思うのですがどうでしょうか？(私が常識を知らないだけなんですが)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2002/01/06 04:35:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2002/01/06 04:35:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1010259337rxpxml&id2=1009370911isnjhh&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1010259337rxpxml_id2_1009370911isnjhh_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��A<BR>��`���Ƃ��A���K�������肪�Ó��ł��傤���B<BR>�_��̎��i�𓾂�ɂ͒��w���Ƃ��K�{�Ȃ̂͂͂����肵�Ă��ł����A<BR>���Z�̕׋��Ɨ��������Č�����󂯂���̂��ǂ��������ׂ�����ł͂͂����蕪����Ȃ�������ł���B<BR>���̂ւ�A�ڂ����l�Ɋm�F�����ق���������������܂���ˁB<BR>�i�ł��s�r�����������狳���ĉ��������āc���Ȃ茾���ɂ����j<BR>�Ȃ�ɂ���A���Z���Ő_��𖼏��ɂ́A�ȑO����܂��߂ɐ_�Ђ̎d������`���ĂȂ��Ƃ����Ȃ��͂��ł��B<BR>����N�͂ǂ��Ȃ�ł��傤�ˁB
+うーん、<BR>手伝いとか、見習いあたりが妥当でしょうか。<BR>神主の資格を得るには中学卒業が必須なのははっきりしてるんですが、<BR>高校の勉強と両立させて検定を受けられるのかどうかが調べた限りでははっきり分からなかったんですよ。<BR>そのへん、詳しい人に確認したほうがいいかもしれませんね。<BR>（でもＴＳ小説書くから教えて下さいって…かなり言いにくい）<BR>なんにせよ、高校生で神主を名乗るには、以前からまじめに神社の仕事を手伝ってないといけないはずです。<BR>光一君はどうなんでしょうね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/01/19 20:40:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/01/19 20:40:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1011440452sxbbwm&id2=1009370911isnjhh&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1011440452sxbbwm_id2_1009370911isnjhh_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������Ƃ����΁A�������Ɂ����F���Ă̂����O�ɂ����̂ł����c�܂����z�[���[�s���N�ɂȂ�Ƃ͎v�킸���΂ł����B���ď΂��Ƃ��낶��Ȃ��̂�������܂��񂪁i���j<BR>
+戦隊物といえば、たしかに○○色ってのが名前につきものですが…まさかホーリーピンクになるとは思わず爆笑でした。って笑うところじゃないのかもしれませんが（汗）<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1009370911isnjhh">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

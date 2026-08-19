@@ -1,216 +1,216 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���ɍ�i���z(2001.10.1-)/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>文庫作品感想(2001.10.1-)/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=0&id=1020689407suqlv&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_0_id_1020689407suqlv_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">West�����i�@���z�f����</font><br>
+<font size="+2" color="#0000FF">Westさん作品　感想掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200205/06214505/invisible_section_3.html" target="_blank">�����̈� ��R�͂�ǂނɂ͂������N���b�N</a></strong>  <i>2002/05/06 21:50:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200205/06214505/invisible_section_3.html" target="_blank">透明領域 第３章を読むにはここをクリック</a></strong>  <i>2002/05/06 21:50:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020689407suqlv&id2=1020689407suqlv&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020689407suqlv_id2_1020689407suqlv_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z��̂��̎����͂ǂ��Ɍ������Ă���̂��H�@�����́A�����Čb�������J�����I���̍����!?
+【推薦文】一体この事件はどこに向かっているのか？　黒幕は、そして恵美たちカメレオンの今後は!?
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��(�d�g�d���j</strong>  <i>2002/05/07 00:21:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン(電波妖精）</strong>  <i>2002/05/07 00:21:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020698488qsljvq&id2=1020689407suqlv&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020698488qsljvq_id2_1020689407suqlv_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����c����͒��\�͎҂Ȃ̂��c<BR>�Ƃ肠������b�����܂����B<BR>�ׂ����蒣��ꂽ����������������C�����܂����A�ْ����̕Y������l�̕��̂��Ċ����ł����B����̂��ƂƂ��c�׋��ɂȂ�Ȃ��c�Q�l�ɂ��悤���ƁB����ł́B
+ああ…これは超能力者なのか…<BR>とりあえず一話を見ました。<BR>べったり張られた文が幾分見難かった気もしますが、緊張感の漂った大人の文体って感じでした。武器のこととか…勉強になるなあ…参考にしようっと。それでは。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/07 06:43:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/07 06:43:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020721431norqiiy&id2=1020689407suqlv&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020721431norqiiy_id2_1020689407suqlv_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��
+すばらしい、実にすばらしい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:west@gmx.co.uk" target="_blank">West</a></strong>  <i>2002/05/07 12:39:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020742799flhlnqv&id2=1020689407suqlv&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020742799flhlnqv_id2_1020689407suqlv_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����z���肪�Ƃ��������܂��I<BR><BR>���m�C������<BR>�������c����͒��\�͎҂Ȃ̂��c<BR>����̂��Ƃł����H<BR>��������A�ŋ߂͂���܂蒴�\�̘͂b���Ȃ��Ȃ�܂����ˁB<BR>���@�͕ς�炸����̂ɁB�Ȃ����낤�H<BR><BR>���ׂ����蒣��ꂽ����������������C�����܂����A<BR>���ْ����̕Y������l�̕��̂��Ċ����ł����B<BR>���[��A���ɂ��Ă͒������������Ȃ�����^^;;;;;�B<BR>���̂ɂ��Ă͂����ɂ����Ċ����ɂ������Ă����������ɏ����Ă܂��B<BR><BR>������̂��ƂƂ��c�׋��ɂȂ�� ���c�Q�l�ɂ��悤���ƁB<BR>���肪�Ƃł��B�ꉞ�͖{��l�b�g�Ŏ�ނ����b�゠��܂������ˁB<BR>�T���Əڂ����l�Ƃ����āA���̒m���ɂт�����B<BR><BR>���ԂɂȂ��Ă��܂����̂ŁA�c��̃��X�͂܂����
+ご感想ありがとうございます！<BR><BR>▽ノインさん<BR>＞ああ…これは超能力者なのか…<BR>瑞穂のことですか？<BR>そういや、最近はあんまり超能力の話見なくなりましたね。<BR>魔法は変わらずあるのに。なぜだろう？<BR><BR>＞べったり張られた文が幾分見難かった気もしますが、<BR>＞緊張感の漂った大人の文体って感じでした。<BR>うーん、文については張り方だけじゃないかも^^;;;;;。<BR>文体についてはいかにもって感じにしたくてこういう風に書いてます。<BR><BR>＞武器のこととか…勉強になるな あ…参考にしようっと。<BR>ありがとです。一応は本やネットで取材した甲斐ありましたかね。<BR>探すと詳しい人とかいて、その知識にびっくり。<BR><BR>時間になってしまったので、残りのレスはまた後で
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>West</strong>  <i>2002/05/07 17:57:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020761849iwlrb&id2=1020689407suqlv&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020761849iwlrb_id2_1020689407suqlv_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̔z�B�l����<BR>�����A�����ɂ���������Ⴂ�܂�����^^�B<BR>�����̂������f���S�Ăɖڂ�ʂ���Ă���Ȃ�āA<BR>�Εׂ��ɓ����������Ă��܂��܂��B<BR><BR>�����΂炵���A���ɂ��΂炵��<BR>���肪�Ƃ��ł��B<BR>�S�����������݂͂����ł����ǁA���͂��Ȃ��̌��t��M���܂���^^�B<BR>�ŁA�G�z�Ȃ���A�h�o�C�X�B<BR>���ɂǂ����ɏ������܂�鎞�͂ǂ������Ƃ��낪<BR>�ǂ��������������Ă����ƁA��w��΂��񂶂�Ȃ��ł��傤���B 
+▽夢の配達人さん<BR>おお、ここにもいらっしゃいましたか^^。<BR>動きのあった掲示板全てに目を通されているなんて、<BR>勤勉さに頭が下がってしまいます。<BR><BR>＞すばらしい、実にすばらしい<BR>ありがとうです。<BR>全部が同じ文章みたいですけど、私はあなたの言葉を信じますよ^^。<BR>で、僭越ながらアドバイス。<BR>次にどこかに書き込まれる時はどういうところが<BR>良かったかも書いておくと、一層喜ばれるんじゃないでしょうか。 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/08 23:16:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/08 23:16:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020867400abgnme&id2=1020689407suqlv&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020867400abgnme_id2_1020689407suqlv_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>������ƋC�ɂȂ��āA�P�b����S�b�i�u���Ɂv���f�ځj�܂Œʂ��ēǂ�ł��܂��܂����B<BR>����[�A���̕��͋C������Ȃ��ł��ˁB�������T�X�y���X�B<BR>�z���g�A���ꂩ��ǂ��Ȃ��Ă����̂��A�ڂ������Ȃ��ł��ˁB<BR>�C�ɂȂ�܂��B�C�ɂȂ肷���Ċ���Ȃ��B<BR>���̌����͂��Ȃ炸���ĉ������ˁB<BR><BR>�Ƃ���ŁA�u�J�����I���v�����o�[�̉ߋ����C�ɂȂ�܂��ˁB�{�Ҋ�����ł�����Ŕނ�̉ߋ��b���O�`�ł���Ă��炦�܂��񂩂˂��B<BR>�u�J�����I���v�����o�[�ɂȂ�܂ł̂������Ƃ��A�����o�[�ɂȂ��Ă���ŏ��̎����Ƃ��A���\���낢��ł������ȋC�������ŁB<BR><BR>���񂿂���Ɠǂ����ƌ��ӂ���܂Ŏ��Ԃ��������������W�S�Q�U�ł����i���j�B
+読んだバイ♪<BR>ちょっと気になって、１話から４話（「文庫」未掲載）まで通して読んでしまいました。<BR>いやー、この雰囲気が堪らないですね。すごいサスペンス。<BR>ホント、これからどうなっていくのか、目が離せないですね。<BR>気になります。気になりすぎて堪らない。<BR>この決着はかならずつけて下さいね。<BR><BR>ところで、「カメレオン」メンバーの過去も気になりますね。本編完結後でいいんで彼らの過去話を外伝でやってもらえませんかねぇ。<BR>「カメレオン」メンバーになるまでのいきさつとか、メンバーになってから最初の事件とか、結構いろいろできそうな気がするんで。<BR><BR>今回ちょっと読もうと決意するまで時間がかかったｍｋ８４２６でした（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>West</strong>  <i>2002/05/09 12:29:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1020914978ypmmy&id2=1020689407suqlv&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1020914978ypmmy_id2_1020689407suqlv_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������<BR>�����A�����镪�S���ʂ��ēǂ݂��Ē�������ł����B<BR>�����Ȃ��炨���b�ɂȂ�܂��B<BR><BR>������[�A���̕��͋C������Ȃ��ł��ˁB�������T�X�y���X�B<BR>���z���g�A���ꂩ��ǂ��Ȃ��Ă����̂��A�ڂ������Ȃ��ł��ˁB<BR>�킨�I<BR>���͋C�͂Ȃ�ׂ�������ۂ��������Ɗ撣���Ă��ŁA�������ł��B<BR>��͌��\�ǂ݂ɂ������ނɓ��邩�ȁH<BR>���̐���Q�]�R�]�������Ǝv���܂��̂ł��y���݂ɁB<BR><BR>�����̌����͂��Ȃ炸���ĉ������ˁB<BR>���͂�^^;;;;�B<BR>���āA�܂��͍������Ă�T�͂����Ȃ�����B<BR><BR>���{�Ҋ�����ł�����Ŕނ�̉ߋ��b���O�`��<BR>���͉ߋ��ӂ̍\�z�������肵�܂��B�����̈�ZERO�Ƃ����̂�����B<BR>�b���̓����̂��������ɂȂ������������C���̘b�ł����A<BR>���̑O�ɑ����Ƃ��{�ҏI���Ȃ���^^;;;
+▽ｍｋさん<BR>おお、今ある分全部通して読みして頂けたんですか。<BR>いつもながらお世話になります。<BR><BR>＞いやー、この雰囲気が堪らないですね。すごいサスペンス。<BR>＞ホント、これからどうなっていくのか、目が離せないですね。<BR>わお！<BR>雰囲気はなるべくそれっぽく書こうと頑張ってるんで、嬉しいです。<BR>先は結構読みにくい部類に入るかな？<BR>この先も２転３転が続くと思いますのでお楽しみに。<BR><BR>＞この決着はかならずつけて下さいね。<BR>あはは^^;;;;。<BR>さて、まずは今書いてる５章あげなくちゃ。<BR><BR>＞本編完結後でいいんで彼らの過去話を外伝で<BR>実は過去辺の構想あったりします。透明領域ZEROというのが仮題。<BR>恵美の入隊のきっかけになった事件がメインの話ですが、<BR>その前に早いとこ本編終えなきゃ^^;;;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ʂ肷����̈�ǎ�</strong>  <i>2002/05/12 04:46:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>通りすがりの一読者</strong>  <i>2002/05/12 04:46:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021146408xlaipy&id2=1020689407suqlv&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021146408xlaipy_id2_1020689407suqlv_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����̈�@���́z<BR>�C�ɓ���܂����B�ǂ��ł��B<BR>�ł��A�C�ɂȂ邱�Ƃ�����܂��B<BR>��q�����c���������Ă���͉̂��ł��H<BR>���Ȃ��Łu�w���v���Ƃ킩���ł����ǁA������Ɛ����s�������B<BR>�i����Ƀw�������������ꏊ�́H�r���̏�Ȃ�ł��傤���H�j<BR><BR>�@�n�[�h�{�C���h�ȕ��͋C�̒��Ŋ����ȍׂ��ȕ`�ʂ������Ă�̂�<BR>�����I�ɕ`�ʂ�������ŋC�ɂȂ�܂����B
+【透明領域　第一章】<BR>気に入りました。良いです。<BR>でも、気になることがあります。<BR>千尋が操縦桿を握っているのは何です？<BR>かなり後で「ヘリ」だとわかるんですけど、ちょっと説明不足かも。<BR>（さらにヘリが着陸した場所は？ビルの上なんでしょうか？）<BR><BR>　ハードボイルドな雰囲気の中で感じな細かな描写が活きてるのに<BR>部分的に描写が薄いんで気になりました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ʂ肷����c</strong>  <i>2002/05/12 05:19:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>通りすがり…</strong>  <i>2002/05/12 05:19:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021148368bejevw&id2=1020689407suqlv&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021148368bejevw_id2_1020689407suqlv_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����̈�@���́z<BR><BR>�@�h�㊯�R�Ap.m. 15:00�B�h�@<BR>�ςł���Hp.m.3:00�H15�F00�H<BR>�h���Q�l�Ƃ��h<BR>�@����ς�A�h����l�h���Ȃ��B�Ђ炪�ȂŁu���ӂ���v�̕������������B<BR><BR>�@�ǂ����͂����ɁA�ׂ��ȂƂ��낪�C�ɂȂ�܂��B<BR>�@�܁A���ɕҏW���񂪂����ł��Ȃ���ŁA�d���Ȃ��Ƃ���ł����B<BR><BR>�@���ꂩ��̓W�J�A�y���݂ɂ��Ă��܂��B
+【透明領域　第二章】<BR><BR>　”代官山、p.m. 15:00。”　<BR>変でしょ？p.m.3:00？15：00？<BR>”お２人とも”<BR>　やっぱり、”お二人”かなぁ。ひらがなで「おふたり」の方がいいかも。<BR><BR>　良い文章だけに、細かなところが気になります。<BR>　ま、特に編集さんがいる訳でもないんで、仕方ないところですが。<BR><BR>　これからの展開、楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ʂ肷����E�E�E</strong>  <i>2002/05/12 05:49:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>通りすがり・・・</strong>  <i>2002/05/12 05:49:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021150155xfuqyu&id2=1020689407suqlv&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021150155xfuqyu_id2_1020689407suqlv_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����̈�@��O�́z<BR>������[���[���������B<BR>�ێ�n�̑�c�m�ɂ��܂�}�h�͖{���͂��܂�֌W�����B<BR><BR>�@���ꂾ���̕��͗ʂł��̂��炢�̃~�X�́A���Ȃ��Ǝv���܂��B<BR>�@�ǂމ��l������Ǝv���̂ŁA���X��邾�Ǝv�����w�E������<BR>���������܂����B<BR>
+【透明領域　第三章】<BR>自分を納得納得させた。<BR>保守系の代議士にあまり党派は本当はあまり関係無い。<BR><BR>　これだけの文章量でこのくらいのミスは、少ないと思います。<BR>　読む価値があると思うので、少々野暮だと思いつつも指摘させて<BR>いただきました。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:west@gmx.co.uk" target="_blank">West</a></strong>  <i>2002/05/13 02:03:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021223007cvsvs&id2=1020689407suqlv&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021223007cvsvs_id2_1020689407suqlv_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ʂ肷����̈�ǎ�<BR>�����A�Ȃ񂩂���΂ǂ�ǂ�w�E���ĉ������܂�^^�B<BR>�������A�w���̑��c���͋C�Â��Ȃ������Ȃ��B���w�E���Q�l�ɂ�����ƒ����Ă݂܂��B<BR>�����ɂ��Ă͂��Ă��Ȃ��ő_������点�����肾�������ǁA���ꂾ�ƃ��`���߂��܂��H^^;;;;<BR><BR>��p.m. 15:00<BR>����[^^;;;�B�Ȃ�ăo�J�ȃ~�X^^;;�B<BR>���肪�Ƃ��ł��[�B<BR>���̑��̃~�X�������Ă����Ȃ���^^;;;<BR><BR>���ǂމ��l������Ǝv���̂ŁA<BR>�����X��邾�Ǝv�����w�E�����Ă��������܂����B<BR>�����B���������肪�����ł�^^�B<BR>�܂���������Ή����Ȃ�����������ĉ������ˁB
+▽通りすがりの一読者<BR>いえ、なんかあればどんどん指摘して下さいませ^^。<BR>しかし、ヘリの操縦桿は気づかなかったなぁ。ご指摘を参考にちょっと直してみます。<BR>着陸についてはしていないで狙撃をやらせたつもりだったけど、それだとムチャ過ぎます？^^;;;;<BR><BR>＞p.m. 15:00<BR>うわー^^;;;。なんてバカなミス^^;;。<BR>ありがとうですー。<BR>その他のミスも直しておかないと^^;;;<BR><BR>＞読む価値があると思うので、<BR>＞少々野暮だと思いつつも指摘させていただきました。<BR>いえ。すごくありがたいです^^。<BR>また何かあれば遠慮なくおっしゃって下さいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:west@gmx.co.uk" target="_blank">West</a></strong>  <i>2002/05/13 02:06:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021223164bctdwm&id2=1020689407suqlv&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021223164bctdwm_id2_1020689407suqlv_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���݂܂���A�h�̖Y��܂����iTT<BR>�ʂ肷����̈�ǎ҂���ł����B<BR>
+すみません、敬称忘れました（TT<BR>通りすがりの一読者さんでした。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/05/15 00:57:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/05/15 00:57:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021391871xuikb&id2=1020689407suqlv&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021391871xuikb_id2_1020689407suqlv_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��͌��܂����c�͂ӁB�܂��O�͉͂����ȁc<BR>�Â��ɓ����o�����������Ċ����ł��ˁB�h�肳�͂Ȃ��ł����A�l���`�ʂ��悭�Ȃ���Ă����Ǝv���܂��B���Ȃ�̖��x�ƃ{�����[��������̂ŁA���܂����z���܂Ƃ߂邱�Ƃ��ł��܂��񂪁A���P�����Ƃ͂܂��Ⴄ�悤�ȁA���̐[�����悢�����ł��B���Ɂc
+二章見ました…はふ。まだ三章は遠いな…<BR>静かに動き出した事件って感じですね。派手さはないですが、人物描写がよくなされていたと思います。かなりの密度とボリュームがあるので、うまく感想をまとめることができませんが、勧善懲悪とはまた違うような、この深さがよい感じです。うに…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200205/06214505/invisible_section_4.html" target="_blank">�����̈�@��l�͂�ǂނɂ͂������N���b�N</a></strong>  <i>2002/05/15 00:58:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200205/06214505/invisible_section_4.html" target="_blank">透明領域　第四章を読むにはここをクリック</a></strong>  <i>2002/05/15 00:58:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021391932thsbu&id2=1020689407suqlv&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021391932thsbu_id2_1020689407suqlv_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�V���Ȃ�肪��������Ɏ�����{������b�������B�����������͂܂��܂���₱�����Ȃ�c�c�B
+【推薦文】新たなる手がかりを元に事件を捜査する恵美たち。しかし事件はますますややこしくなり……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���̔z�B�l</strong>  <i>2002/05/15 06:18:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夢の配達人</strong>  <i>2002/05/15 06:18:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021411092jfmixry&id2=1020689407suqlv&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021411092jfmixry_id2_1020689407suqlv_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂炵���A���ɂ��΂炵��<BR>���΂炵�����x���c�Q
+すばらしい、実にすばらしい<BR>すばらしいレベル…２
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/05/15 21:35:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/05/15 21:35:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021466100ecajrt&id2=1020689407suqlv&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021466100ecajrt_id2_1020689407suqlv_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�E�E�E�Ƃ������A���Ȃ����ǂ񂾂�ł����ǁi���j�B
+読んだバイ♪<BR>・・・というか、こないだ読んだんですけど（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C����d�g�d����</strong>  <i>2002/05/16 22:10:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン≪電波妖精≫</strong>  <i>2002/05/16 22:10:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021554608neuxpf&id2=1020689407suqlv&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021554608neuxpf_id2_1020689407suqlv_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O�͓ǂ݂܂����B�ӂ���B�p�\�R���̂��b���Ȃ񂩂������낢�ł��B�i����܂�悭�킩��Ȃ��������ǁj�Ƃ�����A��A�̎����ŁA���ƈ�̃s�[�X���ǂ��͂܂�̂��c�l�͂����悤�B�d�g�d���͓ǂނ̂��x���̂ł��B
+三章読みました。ふわっ。パソコンのお話がなんかおもしろいです。（あんまりよくわからなかったけど）ともあれ、一連の事件で、あと一つのピースがどうはまるのか…四章を見よう。電波妖精は読むのが遅いのです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:west@gmx.co.uk" target="_blank">West</a></strong>  <i>2002/05/17 12:36:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=1021606609ekpani&id2=1020689407suqlv&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_1021606609ekpani_id2_1020689407suqlv_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�C������A���̔z�B�l����A��������A���肪�Ƃ��������܂��B<BR><BR>���E�E�E�Ƃ������A���Ȃ����ǂ񂾂�ł����ǁi���j�B<BR>^^;;;�B���ɃT�C�g�ɂ̂����Ă����i�ł������^^;;;<BR><BR>���Ȃ݂ɐ�q���g���Ă���̂͌����̃n�b�L���O��i�ł��B<BR>���̊֌W�Ńn�b�L���O�n�̖{��HP�𒲂ׂ܂����B<BR>�{�͓��e�̊��Ɉ����̂ł��Ƃт�����B<BR>����ȎQ�l���悩���������Ə����Ă���̂ɂȂ��B<BR><BR>���ƈ�̃s�[�X�A��҂��ǂ��͂߂悤����S���Ă���܂��i��������<BR>���āA�T�͂��グ�Ȃ��ƁB
+ノインさん、夢の配達人さん、ｍｋさん、ありがとうございます。<BR><BR>＞・・・というか、こないだ読んだんですけど（爆）。<BR>^^;;;。既にサイトにのっけてある作品ですもんね^^;;;<BR><BR>ちなみに千尋が使っているのは現実のハッキング手段です。<BR>この関係でハッキング系の本とHPを調べました。<BR>本は内容の割に安いのでちとびっくり。<BR>下手な参考書よかすごいこと書いてあるのになぁ。<BR><BR>あと一つのピース、作者もどうはめようか苦心しております（おいおい<BR>さて、５章を上げないと。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="1020689407suqlv">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

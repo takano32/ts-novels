@@ -1,95 +1,95 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/ target=_top>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../index.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:����͂ǁ[�Ȃ�����ł��傩�H>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:あれはどーなったんでしょか？>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1177>
 <input type=hidden name=ress value=1180>
-<input type=submit value=����͂ǁ[�Ȃ�����ł��傩�H�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=あれはどーなったんでしょか？へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1180>
-<font color=#6A5ACD>RE:����͂ǁ[�Ȃ�����ł��傩�H</font></a>
+<font color=#6A5ACD>RE:あれはどーなったんでしょか？</font></a>
 <font color=#303030>
-�т��
- ����</font>
- <font size=2>2001�N7��5��(��) 17��57��</font>
-<a href="resbbs4.cgi?vew=1180">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+びゅの
+ さん</font>
+ <font size=2>2001年7月5日(木) 17時57分</font>
+<a href="resbbs4@vew_1180.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����������Ƃ��v���Ă��܂��΁E�E�E�E<br>�����L���[�e�B�R�~�b�N�ɍڂ��Ă��A�g�~�b�N�p���`�i�I�[�c�J�q���L �j<br>�i2001�N3���̑�O�b����r�₦��j<br>COMIC ����ɍڂ��Ă����[�X�g�����h�i�L�∟�E�j<br>�i2001�N1���̑�O�b����r�₦��j<br>���ƕ��E�S�����E�E�E�P�s�{�ɑS���ڂ��Ă�킯�łȂ��̂ŁA�����͂��E�E�E<br>���͂��Ȃ񂾂낤���E�E�B<br><br>���Ƃ́A<br>�`�F���W�V���[�Y�Ɩ��𔄂�������ɂ́E�E�E<br>KISS�R���v�e�B�[�N�̂����炵�߂��ݐ搶���ł��~�߂ɂȂ�Ȃ��łق���<br></font></ul>
+<ul><br><font size=3>そういうことを思ってしまえば・・・・<br>月刊キューティコミックに載ってたアトミックパンチ（オーツカヒロキ ）<br>（2001年3月の第三話から途絶える）<br>COMIC 夢雅に載ってたワーストロンド（有坂亜摘）<br>（2001年1月の第三話から途絶える）<br>あと封殺百怪も・・・単行本に全部載ってるわけでないので、続くはず・・・<br>次はいつなんだろうか・・。<br><br>あとは、<br>チェンジシリーズと名を売ったからには・・・<br>KISSコンプティークのいがらしめぐみ先生も打ち止めにならないでほしい<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1183>
-<font color=#6A5ACD>RE:����͂ǁ[�Ȃ�����ł��傩�H</font></a>
+<font color=#6A5ACD>RE:あれはどーなったんでしょか？</font></a>
 <font color=#303030>
-������
- ����</font>
- <font size=2>2001�N7��5��(��) 21��6��</font>
-<a href="resbbs4.cgi?vew=1183">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>���Y����</b>�z</font>
-<ul><font size=3>�b�t�s�h�d�b�n�l�h�b�͋x�����܂�����B</font></ul>
+おさる
+ さん</font>
+ <font size=2>2001年7月5日(木) 21時6分</font>
+<a href="resbbs4@vew_1183.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>松浦亜矢</b>】</font>
+<ul><font size=3>ＣＵＴＩＥＣＯＭＩＣは休刊しましたよ。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1186>
-<font color=#6A5ACD>RE:����͂ǁ[�Ȃ�����ł��傩�H</font></a>
+<font color=#6A5ACD>RE:あれはどーなったんでしょか？</font></a>
 <font color=#303030>
-�т��
- ����</font>
- <font size=2>2001�N7��6��(��) 13��35��</font>
-<a href="resbbs4.cgi?vew=1186">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�Ȃ�قǋx�������E�E�E�iTT)�@�^��i�Ɠ����^���������̂ˁB<br>���[�X�g�����h�͑��v�ł��낤��<br></font></ul>
+びゅの
+ さん</font>
+ <font size=2>2001年7月6日(金) 13時35分</font>
+<a href="resbbs4@vew_1186.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>なるほど休刊かぁ・・・（TT)　某作品と同じ運命だったのね。<br>ワーストロンドは大丈夫であろうか<br></font></ul>
 <HR>
 </ul>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

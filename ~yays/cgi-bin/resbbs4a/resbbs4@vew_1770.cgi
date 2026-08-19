@@ -1,100 +1,100 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>GENERAL BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�����f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>総合掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href="http://www14.big.or.jp/~yays/bbs_notice.html">[���p�K��]</a><br> <br>
-<a href=http://www14.big.or.jp/~yays/>[HomePage]</a><br> <br>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
-<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?ff=on">[BBS #3]</a><br>
+<tr><td rowspan=4><a href="../../bbs_notice.html">[利用規約]</a><br> <br>
+<a href="../../index.html">[HomePage]</a><br> <br>
+<a href="../../../~ezpe/cgi-bin/resbbs2/resbbs2.cgi">[BBS #2]</a><br> <BR>
+<a href="../../../~ezpe/cgi-bin/noteky/noteky@ff_on.cgi">[BBS #3]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:�֌W�Ȃ���������܂��񂪁c>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:関係ないかもしれませんが…>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="novel">�����@
-<option value="comic">�R�~�b�N
-<option value="movie">�f����i
-<option value="game">�Q�[��
-<option value="character">�L�����N�^�[
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="site">�z�[���y�[�W
-<option value="something">����
-</SELECT> �� 
+<option value="novel">小説　
+<option value="comic">コミック
+<option value="movie">映像作品
+<option value="game">ゲーム
+<option value="character">キャラクター
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="site">ホームページ
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=1770>
 <input type=hidden name=ress value=1770>
-<input type=submit value=�֌W�Ȃ���������܂��񂪁c�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=関係ないかもしれませんが…へ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=1770>
-<font color=#6A5ACD>�֌W�Ȃ���������܂��񂪁c</font></a>
+<font color=#6A5ACD>関係ないかもしれませんが…</font></a>
 <font color=#303030>
-�j�P
- ����</font>
- <font size=2>2003�N3��3��(��) 0��31��</font>
-<a href="resbbs4.cgi?vew=1770">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
+ニケ
+ さん</font>
+ <font size=2>2003年3月3日(月) 0時31分</font>
+<a href="resbbs4@vew_1770.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�^�邳��Ƃ̂g�o�ɂs�r�摜������ƒm��A�s���Č����̂ł�������ɏ����Ȏl�p�̐^�񒆂Ɂ~�ƐԂ��\������Č���Ȃ��̂ł����ǂ�������猩��܂����H</font></ul>
+<ul><br><font size=3>真城さんとのＨＰにＴＳ画像があると知り、行って見たのですが左上に小さな四角の真ん中に×と赤く表示されて見れないのですがどうやったら見れますか？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1773>
-<font color=#6A5ACD>RE:�֌W�Ȃ���������܂��񂪁c</font></a>
+<font color=#6A5ACD>RE:関係ないかもしれませんが…</font></a>
 <font color=#303030>
-���܂���
- ����</font>
- <font size=2>2003�N3��3��(��) 23��16��</font>
-<a href="resbbs4.cgi?vew=1773">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�����ƃ}�N�����f�B�A�t���b�V���v���C���[�͓���Ă܂����H<br>�^�邳��Ƃ��̕\���̉��̂Ƃ���ɁA�}�N�����f�B�A�ւ̃����N�i�o�i�[�j��<br>����܂��̂ŁA�����H���ă_�E�����[�h����΃I�b�P�[�ł��B<br></font></ul>
+うましか
+ さん</font>
+ <font size=2>2003年3月3日(月) 23時16分</font>
+<a href="resbbs4@vew_1773.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>ちゃんとマクロメディアフラッシュプレイヤーは入れてますか？<br>真城さんとこの表紙の下のところに、マクロメディアへのリンク（バナー）が<br>ありますので、それを辿ってダウンロードすればオッケーです。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1774>
-<font color=#6A5ACD>RE:�֌W�Ȃ���������܂��񂪁c</font></a>
+<font color=#6A5ACD>RE:関係ないかもしれませんが…</font></a>
 <font color=#303030>
-�j�P
- ����</font>
- <font size=2>2003�N3��4��(��) 0��24��</font>
-<a href="resbbs4.cgi?vew=1774">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>���`����Macromedia Flash���Ă̂ł�����ł����ˁH����Ƃ���͗L���ł����H</font></ul>
+ニケ
+ さん</font>
+ <font size=2>2003年3月4日(火) 0時24分</font>
+<a href="resbbs4@vew_1774.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>え～っとMacromedia Flashってのでいいんですかね？それとこれは有料ですか？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=1775>
-<font color=#6A5ACD>RE:�֌W�Ȃ���������܂��񂪁c</font></a>
+<font color=#6A5ACD>RE:関係ないかもしれませんが…</font></a>
 <font color=#303030>
-<a href=mailto:kenkensa@sea.plala.or.jp>�^��@�I</a>
- ����</font>
- <font size=2>2003�N3��4��(��) 2��12��</font>
+<a href=mailto:kenkensa@sea.plala.or.jp>真城　悠</a>
+ さん</font>
+ <font size=2>2003年3月4日(火) 2時12分</font>
 <a href=http://www.geocities.co.jp/Playtown/7073/00-00-00HomePage.htm target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=1775">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏬���́A<b></b>�z</font>
-<ul><font size=3>�@�����Ă���ʂ薳���ł��B�񂵎҂���Ȃ��̂ŗL���\�t�g�Ȃ�Ďg���܂����i^^�B<br>�@�Ă�[���E�`�̌f���ŕ����Ă����΂����̂ɁE�E�E</font></ul>
+<a href="resbbs4@vew_1775.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる小説は、<b></b>】</font>
+<ul><font size=3>　書いてある通り無料です。回し者じゃないので有料ソフトなんて使いませんよ（^^。<br>　てゆーかウチの掲示板で聞いてくれればいいのに・・・</font></ul>
 <HR>
 </ul>
 </ul>
@@ -102,7 +102,7 @@ document.inputform.comment.focus();
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

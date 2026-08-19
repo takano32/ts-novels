@@ -1,1015 +1,1015 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>��˒[�t�H�[����/���z�{�[�h</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>井戸端フォーラム/感想ボード</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&id=1002023656ucmwd&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_id_1002023656ucmwd_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�s�r�厫�T����낤�I</font><br>
+<font size="+2" color="#0000FF">ＴＳ大辞典を作ろう！</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:nasuka@df.mbn.or.jp" target="_blank">�l�n�m�c�n</a></strong>  <i>2001/10/02 20:54:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:nasuka@df.mbn.or.jp" target="_blank">ＭＯＮＤＯ</a></strong>  <i>2001/10/02 20:54:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002023656ucmwd&id2=1002023656ucmwd&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002023656ucmwd_id2_1002023656ucmwd_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�s�r�厫�T�w�]�����i���j�x<BR><BR>�@��{�I�ɂ́A���L�̌��t�i�p��j�₨�񑩂̑䎌�́u�Ӗ��v��u����v�A�u�]�~�i���񂿂��j�v�Ȃǂ��W���āA�ЂƂɂ܂Ƃ߂�Ƃ����`�ŕҎ[���Ă����܂��B���L�ɂȂ����t��䎌���v������܂�����A���Ђ��̌f���ɁA�w�ǉ��̃L�[���[�h�x�Ɩ��ł��ď�������ł��������B<BR><BR>�y���s�z�u�����c�c���v�^�A�C�e���^�A�C�h���^�����^���F�^�u�������v�^�A���i�i�j�j�^�ڐA�^��`�q�^�]�o���^����ւ��i���_�����A�l�i�]�ځA�Փˁj�^�E�B���X�^�E�F�C�g���X�^���܂ꂩ���i�]���j�^�^���^�G�t�^�G�b�`�^���َq�i�P�[�L�A�Ó}�j�^�c�Ȃ��݁^���񑩁^�I�������^�����j�^����^�����t�^���F�B�^���i�̎q�j���m�^�����^<BR><BR>�y���s�z�K�i�i�|�����j�^�Y����i�i�j�^���^�t�^�w�Z�^�K�j�ҁ^���^������^���^�^�J�����^�g�́i���́j�^����^�u���킢�����v�^���o�^�L�X�i�t�@�[�X�g�L�X�j�^�����ւ��i�t�@�b�V�����V���[�j�^�����^�Z��^�����^�N���[�[�b�g�^�N���[���^�X�ߎ��^���i�|���ς��j�i���сj�^�R�X���^�R�X�v���^�ːЁ^�R���f�B�^�u���ꂪ�{�N�i�I���j�c�c�H�v�^<BR><BR>�y���s�z�Г�^��ҁ^�������^�W�F���_�[�^�������^�u���́c�c�v�^���i�^���b�^�o���^�ʐ^�^��l���^������^���o�i�����j�^���i�q�j���k�^�����i�����j���^�����^�V���[�c�^�V���b�s���O�^�_�Ё^�e�F�^�X�J�[�g�^�p���^�X�N�[�������^�u���[���[����c�c�v�^�X�|�[�c�^�X���[�T�C�Y�^���i�^����^�����^�Z�[���[���^�Ԕс^�Z�N�n���^���F�́^���]�i�Ö��p�j�^���݂̉��ρ^<BR><BR>�y���s�z�̌^�^�̎��^�̑����^�_�[�N�^���Ԃ��ԁ^���^���e�^���Ȋw�^�s�r�^�V�g�^�]�Z���i�]�����j�^�g�C���^<BR><BR>�y�ȍs�z�u�c�c�Ȃ����I�v�^�i�C�e�B�i�p�W���}�j�^�ȂŌ��^���O�^�Ȃ肫��^�u�Ȃ�Ń{�N�i�I���j���c�c�v�^�����i�V�����[�j�^�l���^�k�[�h�^�l�R���i�P���m���j�^�N��ލs�i��Ԃ�j�^�]�V�C�^�]�V�C�ȗ��e�i�Ƒ��j�^�􂢁^<BR><BR>�y�͍s�z�u�c�c�͂��I�H�v�^�p�[�e�B�i������j�^�o�C�I�e�N�m���W�[�^�n�C�q�[���i�p���v�X�j�^�@���^��e�^�o�j�[�K�[���i�E�T���j�^�������^�r�f�I�^�閧�i�Ȃ�����j�^�ߖ^�߈ˁ^�s�𗝁^�u�e�B�b�N�^�ӂƂ����^�u���W���[�^�t�����i�s���N�n�E�X�j�^�����Ձi�w���Ձj�^�؂����񂱍���^�ϐg�^�{�[�C�b�V���^�{�N�����^�|�j�[�e�[���^�z�������^<BR><BR>�y�܍s�z���������i���@�����j�^�}�b�h�T�C�G���e�B�X�g�^���@�^�ۂ݁i�|��тт�j�^�ޏ�����^�~�X�R���^�����i�r�L�j�j�^�~�j�X�J�^���^�����i�|�̖c��݁j�^���C�h����^�ዾ�����^�G���^�͗l�ւ��^<BR><BR>�y��s�z��i�i��j�^���߁^���^�c���^�m���^������^<BR><BR>�y��s�z�����^�����W�F���[�^���{���^�����J���i�n�[�g�t���j�^���I�^�[�h�^���b�X���i���P�A�����j�^<BR><BR>�y��s�z�a���^�����s�[�X�^�u�c�c��H�v�^<BR><BR>�@�Ӗ������̕�W�́w�P�O�O���g�����L�O��i�x�̑�\�l�b���A�b�v���[�h���ꂽ���_�ŊJ�n���܂��B<BR>�@�l�^�̂�����Ȃ�A�ǂȂ��ł��ӂ���Ă��Q�����Ă��������B����̂��̊��͂ЂƂ�ł������̕��ɂ�������Ă������������Ǝv���܂��B<BR>�@�Ҏ[�͂킽���i�l�n�m�c�n�j�̌��ł����Ȃ��܂��̂ŁA�킽���̃A�h���X�ցw�s�r�厫�T�x�Ƒ薼�����Ē��ڃ��[�������������B�܂�Ԃ��A�r���o�߂̂g�s�l�k�𑗂�܂��B<BR>�@��^�ʖڂȁi�����I�ȁj���̂ł��A�w�����̎��T�x�̂悤�Ȕ���ɖ��������̂ł��A�^���́w�V���~���x�̂悤�ȃ��[���A�i�c�b�R�~�j�ɂ��ӂꂽ���̂ł��n�j�ł��B�܂��A���̗p���䎌���g��������i��i����̈��p���ƒ��쌠������ނ̂ŁA�I���W�i���̕��̂ق��������j�Ȃǂ��ڂ��Ă����A���ꂩ��̑n��̎菕���ɂȂ�悤�Ȃ��̂��ł���΂Ǝv���܂��B<BR>�@�ЂƂ̗p��ɕ����̌������ڂ��Ă����̂��\��Ȃ��Ǝv���Ă��܂��B�ł�����A���g�����Ԃ����Ⴄ���ƂȂ񂩋C�ɂ��Ȃ��łǂ��ǂ������Ă��������B<BR>�@���ƁA���T�̃^�C�g������W���܂��B�����̂�����܂����烁�[���������̌f���ŁB<BR><BR>�@�Ȃ��A��i���̂��̂Ɋւ������́A����͌����肽���Ǝv���܂��B<BR>�@�L���ȏ��ƍ�i�i��E�f��w�]�Z���x�j��V�F�A���[���h��i�͂Ƃ������A�w���Ɂx�̊e��i�����グ�Ă����ƁA�c��ȗʂɂȂ邱�Ƃł��傤�B�܂�����̍�i�ɉ�����W��������A�t�ɑS�����グ���Ȃ���i���o�Ă��܂����Ƃ����O����܂��B<BR>�@���l�̗��R�ŁA�L�����N�^�[�̉��������͌����肽���Ǝv���܂��i�c�c��������Ă݂����ł����ǁA�ˁj�B<BR>�@�����A�p��i�䎌�j�̉���ɉ����āu���̍�i���݂�΂悭������v�Ƃ����Ӗ��Łw�Q�l��i�x��񎦂��Ă����̂͂悢���Ǝv���܂��B�܂��A��i���ɏo�Ă���s�r���̃A�C�e���i��E�w�ؑタ���̖��h�x�j�Ȃǂ́A�w�A�C�e���x�w���Ȋw�x�w���@�x�w��i�x���̍��ňꊇ���Ď��グ�悤�Ǝv���܂��B<BR>�i�����͂킽���A�l�n�m�c�n�̈ӌ��ł���A���̒�Ă�����΂��̌f���ɏ�������ł��������j<BR><BR>�@����ł́A��낵�����肢���܂��B�ЂƂ�ł������̕��̎Q�������҂����Ă���܂��B
+　ＴＳ大辞典『転辞苑（仮）』<BR><BR>　基本的には、下記の言葉（用語）やお約束の台詞の「意味」や「解説」、「蘊蓄（うんちく）」などを募集して、ひとつにまとめるという形で編纂していきます。下記にない言葉や台詞を思いつかれましたら、ぜひこの掲示板に、『追加のキーワード』と銘打って書き込んでください。<BR><BR>【あ行】「ああ……っ」／アイテム／アイドル／悪魔／悪友／「あたし」／アレ（ナニ）／移植／遺伝子／従姉妹／入れ替わり（精神交換、人格転移、衝突）／ウィルス／ウェイトレス／生まれかわり（転生）／運命／絵師／エッチ／お菓子（ケーキ、甘党）／幼なじみ／お約束／オレっ娘／女→男／女顔／女言葉／女友達／女（の子）同士／女湯／<BR><BR>【か行】階段（－落ち）／該当作（品）／鏡／可逆／学校／ガニ股／髪／髪飾り／髪型／カメラ／身体（肉体）／加齢／「かわいいっ」／感覚／キス（ファーストキス）／着せ替え（ファッションショー）／強制／兄弟／巨乳／クローゼット／クローン／更衣室／声（－が変わる）（声帯）／コスメ／コスプレ／戸籍／コメディ／「これがボク（オレ）……？」／<BR><BR>【さ行】災難／作者／しぐさ／ジェンダー／試着室／「実は……」／嫉妬／脂肪／姉妹／写真／主人公／少女趣味／初経（生理）／女（子）生徒／女性（少女）化／女装／ショーツ／ショッピング／神社／親友／スカート／姿見／スクール水着／「すーすーする……」／スポーツ／スリーサイズ／性格／性器／制服／セーラー服／赤飯／セクハラ／染色体／洗脳（催眠術）／存在の改変／<BR><BR>【た行】体型／体質／体操服／ダーク／だぶだぶ／魂／父親／超科学／ＴＳ／天使／転校生（転入生）／トイレ／<BR><BR>【な行】「……ないっ！」／ナイティ（パジャマ）／なで肩／名前／なりきり／「なんでボク（オレ）が……」／入浴（シャワー）／人魚／ヌード／ネコ耳（ケモノ娘）／年齢退行（若返り）／脳天気／脳天気な両親（家族）／呪い／<BR><BR>【は行】「……はっ！？」／パーティ（お茶会）／バイオテクノロジー／ハイヒール（パンプス）／鼻血／母親／バニーガール（ウサ耳）／美少女／ビデオ／秘密（ないしょ）／悲鳴／憑依／不条理／ブティック／ふともも／ブラジャー／フリル（ピンクハウス）／文化祭（学園祭）／ぺったんこ座り／変身／ボーイッシュ／ボクっ娘／ポニーテール／ホルモン／<BR><BR>【ま行】魔女っ娘（魔法少女）／マッドサイエンティスト／魔法／丸み（－を帯びる）／巫女さん／ミスコン／水着（ビキニ）／ミニスカ／娘／胸元（－の膨らみ）／メイドさん／眼鏡っ娘／萌え／模様替え／<BR><BR>【や行】薬品（薬）／浴衣／夢／幼女／洋服／横座り／<BR><BR>【ら行】落雷／ランジェリー／リボン／リリカル（ハートフル）／レオタード／レッスン（特訓、調教）／<BR><BR>【わ行】和服／ワンピース／「……ん？」／<BR><BR>　意味や解説の募集は『１００万Ｈｉｔ記念作品』の第十四話がアップロードされた時点で開始します。<BR>　ネタのある方なら、どなたでもふるってご参加してください。今回のこの企画はひとりでも多くの方にかかわっていただきたいと思います。<BR>　編纂はわたし（ＭＯＮＤＯ）の元でおこないますので、わたしのアドレスへ『ＴＳ大辞典』と題名をつけて直接メールをください。折り返し、途中経過のＨＴＭＬを送ります。<BR>　大真面目な（辞書的な）ものでも、『悪魔の辞典』のような皮肉に満ちたものでも、某誌の『シュミ特』のようなユーモア（ツッコミ）にあふれたものでもＯＫです。また、その用語や台詞を使った文例（作品からの引用だと著作権がからむので、オリジナルの文のほうがいい）なども載せていき、これからの創作の手助けになるようなものができればと思います。<BR>　ひとつの用語に複数の見解を載せていくのも構わないと思っています。ですから、中身がかぶっちゃうことなんか気にしないでどしどし送ってください。<BR>　あと、辞典のタイトルも募集します。いいのがありましたらメールｏｒこの掲示板で。<BR><BR>　なお、作品そのものに関する解説は、今回は見送りたいと思います。<BR>　有名な商業作品（例・映画『転校生』）やシェアワールド作品はともかく、『文庫』の各作品を取り上げていくと、膨大な量になることでしょう。また特定の作品に解説が集中したり、逆に全く取り上げられない作品が出てしまうことも懸念されます。<BR>　同様の理由で、キャラクターの解説も今回は見送りたいと思います（……いつかやってみたいですけど、ね）。<BR>　ただ、用語（台詞）の解説に加えて「この作品をみればよく分かる」という意味で『参考作品』を提示しておくのはよいかと思います。また、作品中に出てくるＴＳ化のアイテム（例・『華代ちゃんの名刺』）などは、『アイテム』『超科学』『魔法』『薬品』等の項で一括して取り上げようと思います。<BR>（これらはわたし、ＭＯＮＤＯの意見であり、他の提案があればこの掲示板に書き込んでください）<BR><BR>　それでは、よろしくお願いします。ひとりでも多くの方の参加をお待ちしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/03 01:36:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/03 01:36:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002040590yieaik&id2=1002023656ucmwd&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002040590yieaik_id2_1002023656ucmwd_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂイ�@�y�����z<BR><BR>�J�m�W��������傫�ȃT�C�Y���s�r���̊�l�B
+きょにゅう　【巨乳】<BR><BR>カノジョより一回り大きなサイズがＴＳ娘の基準値。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/03 01:38:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/03 01:38:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002040683qrohamk&id2=1002023656ucmwd&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002040683qrohamk_id2_1002023656ucmwd_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�₭�Ђ�@�y��i�z<BR><BR>�s����ȒI�̏�ɒu���Ă����A�W���[�X�ƈꏏ�ɗ①�ɂɕۑ����Ă����Ȃǂ̎g����������B
+やくひん　【薬品】<BR><BR>不安定な棚の上に置いておく、ジュースと一緒に冷蔵庫に保存しておくなどの使い道がある。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�E�O�Y</strong>  <i>2001/10/03 02:21:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>忍三郎</strong>  <i>2001/10/03 02:21:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002043277aeibj&id2=1002023656ucmwd&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002043277aeibj_id2_1002023656ucmwd_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���F�́@�y���F�́z<BR><BR>�N���Ȃ�ƌ������Ƃw�Ƃx����Ȃ�B�w�w���Ə��A�w�x���ƒj�ł���B<BR>�w�x���w�w�ɂȂ�����A���܂���w�w�������肵���j���́A<BR>���̂�����������̂���ʓI�ł���B<BR>
+染色体　【染色体】<BR><BR>誰がなんと言おうとＸとＹからなる。ＸＸだと女、ＸＹだと男である。<BR>ＸＹがＸＸになったり、生まれつきＸＸだったりした男性は、<BR>肉体が女性化するのが一般的である。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�E�O�Y</strong>  <i>2001/10/03 02:39:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>忍三郎</strong>  <i>2001/10/03 02:39:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002044399slrypc&id2=1002023656ucmwd&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002044399slrypc_id2_1002023656ucmwd_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂��ǂ�������Ă����Ɓy�}�b�h�T�C�G���e�B�X�g�z<BR>�l�̐��ʂ�ς���Z�p���������Ȋw�ҁB<BR>���̎�@�͌`����p�E�]�ڐA�E��i�E�i�m�}�V���E��q�H�w�E���ʗ�����ȂǑ��l�ł���A����炪�������ėp�����邱�Ƃ�����B<BR>�Ȃ��A�t���I�v�f�Ƃ��āA���i���j�]���Ă����蔽�Љ�I�������肷�邱�Ƃ�����B
+まっどさいえんてぃすと【マッドサイエンティスト】<BR>人の性別を変える技術を持った科学者。<BR>その手法は形成手術・脳移植・薬品・ナノマシン・霊子工学・因果律介入など多様であり、これらが複合して用いられることもある。<BR>なお、付随的要素として、性格が破綻していたり反社会的だったりすることもある。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/03 03:25:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/03 03:25:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002047145ijxtk&id2=1002023656ucmwd&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002047145ijxtk_id2_1002023656ucmwd_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����t�z<BR>�����Ȃ菗���t�͖G�������A�Ƃ����i��������Ƃ��Ȃ��Ƃ��B
+【女言葉】<BR>いきなり女言葉は萌え半減、という格言があるとかないとか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2001/10/03 12:25:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2001/10/03 12:25:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002079541olgxaav&id2=1002023656ucmwd&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002079541olgxaav_id2_1002023656ucmwd_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���ׂ��ׁv�E�u���_�сv�E�u�Ȃ߂炩�v<BR>��ʓI�ɁA�畆�i���j�̕ω��̕\�����Ɏg����B<BR>�u�����v<BR>�u���]�v���̒P��ƃZ�b�g�̏ꍇ����<BR><BR>
+「すべすべ」・「ムダ毛」・「なめらか」<BR>一般的に、皮膚（肌）の変化の表現時に使われる。<BR>「改造」<BR>「洗脳」等の単語とセットの場合多し<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>KEBO</strong>  <i>2001/10/03 12:27:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002079667bnesy&id2=1002023656ucmwd&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002079667bnesy_id2_1002023656ucmwd_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u��ˁv<BR>�s�r�Ƃ͎��Ĕ�Ȃ�W�������i�����Ƃ������Ȃ��Ƃ����b�����F�΁j
+「宝塚」<BR>ＴＳとは似て非なるジャンル（ちっとも似いないという話しも：笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/10/03 22:33:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/10/03 22:33:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002116028nokubn&id2=1002023656ucmwd&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002116028nokubn_id2_1002023656ucmwd_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u��i�v�⑫<BR>�①�ɂɂĕۊǂ���ہA�e��̒�Ԃ̓W���[�X���h�{�h�����N�̕r�ł���B
+「薬品」補足<BR>冷蔵庫にて保管する際、容器の定番はジュースか栄養ドリンクの瓶である。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/04 00:34:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/04 00:34:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002123249lbiub&id2=1002023656ucmwd&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002123249lbiub_id2_1002023656ucmwd_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�E�B���X�z<BR>�x���F�̂��w�ɏ�������������V�킪���₽�Ȃ��B
+【ウィルス】<BR>Ｙ染色体をＸに書き換えたがる新種が後を絶たない。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/04 00:38:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/04 00:38:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002123502pvhiv&id2=1002023656ucmwd&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002123502pvhiv_id2_1002023656ucmwd_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�K�i�z<BR>���ɐ_�Ђ̐Βi�B�֌W�Ȃ����̎q����������œ]���藎���悤�Ƃ���v�`�e�������₽�Ȃ��Ƃ��B
+【階段】<BR>特に神社の石段。関係ない女の子を巻き込んで転がり落ちようとするプチテロが後を絶たないとか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���l�̂ӂ�</strong>  <i>2001/10/04 00:47:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>他人のふり</strong>  <i>2001/10/04 00:47:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002124056muvfg&id2=1002023656ucmwd&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002124056muvfg_id2_1002023656ucmwd_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�ی����z<BR>�ڊo�߂����ɐ��ʂ��ς���Ă���ꏊ�B<BR>���ז��h�{�܂Ə̂��Đ��]��������܂����Ƃ���ł�����B
+【保健室】<BR>目覚めた時に性別が変わっている場所。<BR>風邪薬や栄養剤と称して性転換薬を飲まされるところでもある。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���l�̂ӂ� </strong>  <i>2001/10/04 00:55:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>他人のふり </strong>  <i>2001/10/04 00:55:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002124536vbngww&id2=1002023656ucmwd&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002124536vbngww_id2_1002023656ucmwd_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�̂������傭�y�]�ڐA�z<BR><BR>�����ʂ葼�l�̑̂ɔ]���ڐA���邱�ƁB�]���ِ��ɈڐA�����ꍇ�A���_�\�����኱�ω�����炵���B���̓Ɨ����ő哝�̂ɂ��ꂽ�l���́A�D�w�ɈڐA���ꂽ�B
+のういしょく【脳移植】<BR><BR>文字通り他人の体に脳を移植すること。脳を異性に移植した場合、精神構造が若干変化するらしい。自称独立国で大統領にされた人物は、妊婦に移植された。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/04 02:04:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/04 02:04:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002128678tpabqh&id2=1002023656ucmwd&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002128678tpabqh_id2_1002023656ucmwd_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������܂��B<BR>��{�I�Ȃ��Ƃ������Ƃ��Ă܂����B<BR><BR>���@�Ӗ������̕�W�́w�P�O�O���g�����L�O��i�x�̑�\�l�b���A�b�v���[�h���ꂽ���_�ŊJ�n���܂��B<BR><BR>�֌W�҂̊F�l���݂܂���ł������I
+懺悔します。<BR>基本的なことを見落としてました。<BR><BR>＞　意味や解説の募集は『１００万Ｈｉｔ記念作品』の第十四話がアップロードされた時点で開始します。<BR><BR>関係者の皆様すみませんでしたっ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:nasuka@df.mbn.or.jp" target="_blank">�l�n�m�c�n</a></strong>  <i>2001/10/04 06:49:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:nasuka@df.mbn.or.jp" target="_blank">ＭＯＮＤＯ</a></strong>  <i>2001/10/04 06:49:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002145755ldhbddg&id2=1002023656ucmwd&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002145755ldhbddg_id2_1002023656ucmwd_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�^����A�E�O�Y����A�j�d�a�n����A�����W�S�Q�U����A���l�̂ӂ肳��A�����̓��e���肪�Ƃ��������܂����B<BR><BR>���������܂��B��{�I�Ȃ��Ƃ������Ƃ��Ă܂����B<BR><BR>�@���������A�C�ɂȂ��炸�ɁB<BR>�@���̌f���ɏ������ޕ��́A���ł������ł��B<BR>�@�킽���̂Ƃ���֒��ڃ��[���œ��e����̂́A�w�P�O�O���g�����L�O�x����i���������Ƃ������ȁ`�Ǝv��������ł��B<BR><BR>�@�|�ǉ��̌��t�|<BR>�@�����^���ׂ��ׁ^��ˁ^���_�с^�Ȃ߂炩�i�|�Ȕ��j�^�ی����^<BR>�@�w�]�ڐA�x�́w�ڐA�x�̒��Ɋ܂߂܂��B<BR><BR>�@�f���ɃA�h���X���グ�Ă���������΁A�r���o�ߕ��𑗂�܂��B<BR>�@���낢��Ƃ��ӌ������������������B
+　某さん、忍三郎さん、ＫＥＢＯさん、ｍｋ８４２６さん、他人のふりさん、早速の投稿ありがとうございました。<BR><BR>＞懺悔します。基本的なことを見落としてました。<BR><BR>　いえいえ、気になさらずに。<BR>　この掲示板に書き込む分は、いつでもいいです。<BR>　わたしのところへ直接メールで投稿するのは、『１００万Ｈｉｔ記念』が一段落したあとがいいな～と思ったからです。<BR><BR>　－追加の言葉－<BR>　改造／すべすべ／宝塚／ムダ毛／なめらか（－な肌）／保健室／<BR>　『脳移植』は『移植』の中に含めます。<BR><BR>　掲示板にアドレスを上げていただければ、途中経過分を送ります。<BR>　いろいろとご意見おきかせください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/10/04 18:28:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/10/04 18:28:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002187708xercjtm&id2=1002023656ucmwd&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002187708xercjtm_id2_1002023656ucmwd_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ڂ������y�{�N�����z<BR>��l�̂��u�{�N�v�̏��̎q�B��{�I�ɖG���B�m�ތ�n�I������<BR><BR>��������y�I�������z<BR>��l�̂��u�I���v�̏��̎q�B��{�I�ɖG���B�m��n�ˑ������i�炢������j�m�ތ�n�{�N����<BR><BR><BR>����͂t�q�k�łȂ����A�h�����Ă����܂��B
+ぼくっこ【ボクっ娘】<BR>一人称が「ボク」の女の子。基本的に萌え。［類語］オレっ娘<BR><BR>おれっこ【オレっ娘】<BR>一人称が「オレ」の女の子。基本的に萌え。［例］戸増頼香（らいか大作戦）［類語］ボクっ娘<BR><BR><BR>今回はＵＲＬでなくメアドを入れておきます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kebochin@pluto.dti.ne.jp" target="_blank">�j�d�a�n</a></strong>  <i>2001/10/05 08:02:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kebochin@pluto.dti.ne.jp" target="_blank">ＫＥＢＯ</a></strong>  <i>2001/10/05 08:02:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002236530htaom&id2=1002023656ucmwd&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002236530htaom_id2_1002023656ucmwd_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�J�v�Z���v<BR>�g�����X����i��������j���ɑΏێ҂�����i�������j�l�ԑ�̗e��B<BR>���������Ƃ��ăR�[�h�ނ��q�����Ă������i�������Ă����肷��B<BR><BR>�r���o�߂݂��[���I�I�j�d�a�n�ł���
+「カプセル」<BR>トランスする（させられる）時に対象者が入る（入れられる）人間大の容器。<BR>おうおうとしてコード類が繋がっていたり薬品が入っていたりする。<BR><BR>途中経過みたーい！！ＫＥＢＯでした
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/05 22:05:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/05 22:05:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002287151hbmwpw&id2=1002023656ucmwd&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002287151hbmwpw_id2_1002023656ucmwd_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��e�z<BR>��{�I�ɑ��q��薺���ق������Ă���B
+【母親】<BR>基本的に息子より娘をほしがっている。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/05 22:14:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/05 22:14:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002287689qxluggm&id2=1002023656ucmwd&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002287689qxluggm_id2_1002023656ucmwd_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�؂����񂱍���z<BR>���̎q�ɂ̂݉\�Ƃ���鋆�ɂ̍�����B�H�ɒj�ł��ł���Ǝ咣����҂�����邪�A���̃|�[�Y��j���Ƃ邱�Ƃ͗ϗ��I�ɋ�����Ă��Ȃ��B
+【ぺったんこ座り】<BR>女の子にのみ可能とされる究極の座り方。稀に男でもできると主張する者が現れるが、このポーズを男がとることは倫理的に許されていない。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/10/05 23:56:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/10/05 23:56:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002293769waocs&id2=1002023656ucmwd&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002293769waocs_id2_1002023656ucmwd_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂Ƃ��y�Ó}�z<BR>�P�D��{�I�ɏ��̎q�͊Ó}�Ƃ���A���ݕ����R�[�q�[���g�����D�܂��B<BR>�Q�D�s�r���������̗�ɘR��Ȃ��L�����������B<BR>�R�D�������A�����ɂ͍��}�̏��̎q�͐��̐��قǂ���B�u���b�N�R�[�q�[���D�ޏ��̎q���܂��R��B<BR><BR>����[��y�N���[���z<BR>�i�⑫�j�u�Z�p�����W�r��Œj��������̈�`�q��p���Ă������ɂȂ��Ă��܂��v�m���������i�΁j�B<BR><BR>�����y���́z<BR>�i���ڕ⑫�j��l�����������A���̎��Â̌��ʏ��̎q�ɂȂ�Ƃ����A�s�r�̂��������̈�B���Ɍ�ʎ��̂̊����������B<BR><BR>�˂�ꂢ���������y�N��ލs�z<BR>�P�D��Ԃ�B<BR>�Q�D���l�j�����s�r����ꍇ�A����ƃZ�b�g�ɂȂ��Ă��邱�Ƃ������B<BR><BR><BR>�r���o�ߕ��q�����܂����B�Ȃ��Ȃ����ґ�ł��ˁB
+あまとう【甘党】<BR>１．基本的に女の子は甘党とされ、飲み物もコーヒーより紅茶が好まれる。<BR>２．ＴＳっ娘もこの例に漏れないキャラが多い。<BR>３．しかし、現実には左党の女の子は星の数ほどいる。ブラックコーヒーを好む女の子もまた然り。<BR><BR>くろーん【クローン】<BR>（補足）「技術が発展途上で男女いずれの遺伝子を用いても女性になってしまう」確率が高い（笑）。<BR><BR>じこ【事故】<BR>（項目補足）主人公が遭遇し、その治療の結果女の子になるという、ＴＳのきっかけの一つ。特に交通事故の割合が高い。<BR><BR>ねんれいたいこう【年齢退行】<BR>１．若返り。<BR>２．成人男性がＴＳする場合、これとセットになっていることが多い。<BR><BR><BR>途中経過分拝見しました。なかなか期待大ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/10/06 09:48:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/10/06 09:48:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002329338kknwu&id2=1002023656ucmwd&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002329338kknwu_id2_1002023656ucmwd_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǉ��̃L�[���[�h<BR><BR>�y�A�~�o�z<BR>�i�P�j�S�z����ȁB���̔�E�����΂��O�̐��ʂ͏��ɂȂ�I<BR>�i�Q�j��H�܂����������ȁE�E�E
+追加のキーワード<BR><BR>【アミバ】<BR>（１）心配するな。この秘孔をつけばお前の性別は女になる！<BR>（２）ん？まちがったかな・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2001/10/06 21:42:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2001/10/06 21:42:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002372131uijabrr&id2=1002023656ucmwd&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002372131uijabrr_id2_1002023656ucmwd_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�i�m�E�}�V���z<BR>���q�^���q�T�C�Y�̋ɏ��}�V���̑��̂ł���A<BR>���q�\����u�������邱�ƂŁA�Ώۂ̕��̂�<BR>�ʂ̉����ɕω������鎖���\�B<BR><BR>����^�����̂r�e���̂ɂ�����s�r�Ɋւ��ẮA<BR>��i�Ȃǂ��A�Z���Ԃ̕ϐg��i�̕��@�Ƃ���<BR>�����͂��邩������Ȃ��B<BR>
+【ナノ・マシン】<BR>原子／分子サイズの極小マシンの総称であり、<BR>分子構造を置き換えることで、対象の物体を<BR>別の何かに変化させる事も可能。<BR><BR>現代／未来のＳＦものにおけるＴＳに関しては、<BR>薬品などより、短時間の変身手段の方法として<BR>説得力あるかもしれない。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawangei@mse.biglobe.ne.jp" target="_blank">����˂�</a></strong>  <i>2001/10/07 19:04:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawangei@mse.biglobe.ne.jp" target="_blank">かわねぎ</a></strong>  <i>2001/10/07 19:04:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002449093skeaiie&id2=1002023656ucmwd&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002449093skeaiie_id2_1002023656ucmwd_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�ی����̐搶�^�Z��z<BR>�@�s�r�̌��������l�A�܂��͂s�r�������Ƃɗ����������A���͂��Ă����l�B���̏ꍇ�����̏ꍇ�������B�o�䔧�Œj���t���g�����Ƃ��悭�����邪�A���̐l���s�r�҂��ǂ����͕s���ł���B
+【保健室の先生／校医】<BR>　ＴＳの原因を作る人、またはＴＳしたことに理解を示し、協力してくれる人。この場合女性の場合が多い。姉御肌で男言葉を使うこともよく見られるが、この人もＴＳ者かどうかは不明である。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/10/07 23:03:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/10/07 23:03:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002463424mefryyn&id2=1002023656ucmwd&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002463424mefryyn_id2_1002023656ucmwd_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������y�ːЁz<BR>�P�D�@���ŁA�v�w�𒆐S�Ƃ���Ƒ��̖{�Вn�E�Ƒ��֌W�Ȃǂ����邵���������B�i�u�k�Њw�p���Ɂu���ꎫ�T�v���j<BR>�Q�D���Ă��āA�悭�킩��Ȃ����@�Ő��ʂ▼�O�������ւ�����������B
+こせき【戸籍】<BR>１．法律で、夫婦を中心とする家族の本籍地・家族関係などをしるした公文書。（講談社学術文庫「国語辞典」より）<BR>２．えてして、よくわからない方法で性別や名前が書き替えられる公文書。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">����˂�</a></strong>  <i>2001/10/08 09:15:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">かわねぎ</a></strong>  <i>2001/10/08 09:15:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002500138tmffdx&id2=1002023656ucmwd&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002500138tmffdx_id2_1002023656ucmwd_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���������z<BR>�i�P�j��ɏ����p��������Ɏ�舵���X�B�����W�F���[�V���b�v�B<BR>�i�Q�j�s�r�������ߕ��𑵂��鎞�ɍŌ�ɘA��čs�����̂������B�{�l�ɂƂ��Ă͒p�������������ς��̒n�����A�A��̏����ɂ���Ď����I�ɉ����f�U�C���̉�������������B�����Ŏ����̃o�X�g�̐��m�ȃT�C�Y��m�鎖���o����B<BR><BR>�y�����p�����z<BR>�i�P�j�������f�[�g�̎��ɓ��̊֌W�����҂��鎞�ɐg�ɂ��鉺���B���I�ȐF��f�U�C���̏ꍇ�������B���p���́u�H�H�v<BR>�i�Q�j�s�r�������N���X���[�g�̏��̎q�ƈꏏ�ɍs���ƁA�K�����킳��镨�B���R�{�l�͋��ۂ��邪�A���肪�����Ȃ��B���Ȃ݂ɑE�߂�N���X���[�g�͎����Ă��Ȃ����������B
+【下着売り場】<BR>（１）主に女性用下着を専門に取り扱う店。ランジェリーショップ。<BR>（２）ＴＳっ娘が衣服を揃える時に最後に連れて行かれるのがここ。本人にとっては恥ずかしさいっぱいの地だが、連れの女性によって自動的に可愛いデザインの下着が揃えられる。ここで自分のバストの正確なサイズを知る事が出来る。<BR><BR>【勝負用下着】<BR>（１）女性がデートの時に肉体関係を期待する時に身につける下着。扇情的な色やデザインの場合が多い。実用性は「？？」<BR>（２）ＴＳっ娘がクラスメートの女の子と一緒に行くと、必ず買わされる物。当然本人は拒否するが、周りが許さない。ちなみに薦めるクラスメートは持っていない事が多い。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:nasuka@df.mbn.or.jp" target="_blank">�l�n�m�c�n</a></strong>  <i>2001/10/08 16:03:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:nasuka@df.mbn.or.jp" target="_blank">ＭＯＮＤＯ</a></strong>  <i>2001/10/08 16:03:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002524593sqnndq&id2=1002023656ucmwd&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002524593sqnndq_id2_1002023656ucmwd_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ڂ��ڂ��ƌ��t���W�܂��Ă��܂����B�F�l�A���肪�Ƃ��������܂��B<BR><BR>�@�|�ǉ��̌��t�|<BR>�@�A�Z�o�i�O�̂��ߕ����Ă������j�^�J�v�Z���i��̃J�v�Z���ł������j�^�_�l�^���́^���������i�����W�F���[�V���b�v�j�^�����p�����^�i�m�E�}�V���^�ی����̐搶�i�Z��j�^���{�b�g�i�A���h���C�h�j<BR><BR>�@�Ȃ��A�w�]�ڐA�x�͂�͂�Ɨ������p��ɂ��Ă����܂��B<BR>�@���ꂩ��A�w�Z��x�́w�Z��i�Z���A�o��j�x�ƕύX�����Ă��������܂��B
+　ぼちぼちと言葉が集まってきました。皆様、ありがとうございます。<BR><BR>　－追加の言葉－<BR>　ア〇バ（念のため伏せておこう）／カプセル（薬のカプセルでもいい）／神様／事故／下着売り場（ランジェリーショップ）／勝負用下着／ナノ・マシン／保健室の先生（校医）／ロボット（アンドロイド）<BR><BR>　なお、『脳移植』はやはり独立した用語にしておきます。<BR>　それから、『兄弟』は『兄弟（兄妹、姉弟）』と変更させていただきます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/10/11 12:55:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/10/11 12:55:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1002772503tvniv&id2=1002023656ucmwd&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1002772503tvniv_id2_1002023656ucmwd_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����y���́z<BR>�i�⑫�j�������ɋN���������̂ɂ��s�r����P�[�X�������B
+じこ【事故】<BR>（補足）実験中に起こった事故によりＴＳするケースも多い。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������񁗒��R�E</strong>  <i>2001/10/15 23:22:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>名無しさん＠中山忍</strong>  <i>2001/10/15 23:22:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1003155722hghprvm&id2=1002023656ucmwd&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1003155722hghprvm_id2_1002023656ucmwd_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂��܁y�ȁX�z<BR>TS��Y�ɂƂ��āA�ق�ꂢ�v���o�B�l�ɂ���Ắu�v���o���������Ȃ��I�v�ƌ����Č��{���邩���m��Ȃ��̂ŁA�b��ɂ���Ƃ��͒��ӂ��悤�B<BR>�i�gDokiDoki���@�[�W�� ���������� I LOVE YOU�h���j<BR>
+しましま【縞々】<BR>TS野郎にとって、ほろ苦い思い出。人によっては「思い出したくもない！」と言って激怒するかも知れないので、話題にするときは注意しよう。<BR>（“DokiDokiヴァージン もういちど I LOVE YOU”より）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>starbow</strong>  <i>2001/10/16 01:34:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1003163660kfellqn&id2=1002023656ucmwd&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1003163660kfellqn_id2_1002023656ucmwd_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����キ�y���h�z<BR>����̉Ƃ̈ꎺ���؂�邱�ƁB<BR>�Ƃ��ɁA�s�r�����̍D���Ȏq����Ƃ̖��������肷��B<BR><BR>�ق����Ⴙ��y���ː��z<BR>���q�j�����󂷂�Ƃ��ɔ�����d���g�A�ח��q�r�[���̑���<BR>����ɂ��A��`�q�����������邱�Ƃ�����B<BR><BR>�ς����[��ǁy�p���������[���h�z<BR>���̐��E�ƕ���ɑ��݂��Ă���ʂ̐��E<BR>����l���ł����ʂ��قȂ��Ă���ꍇ������B<BR><BR>�����ɂ�y�Ǘ��l�z<BR>�A�p�[�g�⎟���A����A���E���Ǘ�����l<BR>���X�ɂ��Ĕ��l�������肷��B
+げしゅく【下宿】<BR>特定の家の一室を借りること。<BR>ときに、ＴＳっ娘の好きな子が大家の娘だったりする。<BR><BR>ほうしゃせん【放射線】<BR>原子核が崩壊するときに発する電磁波、荷粒子ビームの総称<BR>これにより、遺伝子を書き換えることもある。<BR><BR>ぱられるわーるど【パラレルワールド】<BR>今の世界と並列に存在している別の世界<BR>同一人物でも性別が異なっている場合がある。<BR><BR>かんりにん【管理人】<BR>アパートや次元、時空、世界を管理する人<BR>往々にして美人だったりする。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ƃ�</strong>  <i>2001/10/17 23:53:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>とく</strong>  <i>2001/10/17 23:53:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1003330436iixlbb&id2=1002023656ucmwd&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1003330436iixlbb_id2_1002023656ucmwd_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����тꁄ<BR>�j�ɂ͑��������Ă������ɂȂ�Ƃ���Ȃɂ��т�鍘<BR><BR>
+＜くびれ＞<BR>男には多少あっても女性になるとあんなにくびれる腰<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2001/10/21 21:18:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2001/10/21 21:18:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1003666733ecdjk&id2=1002023656ucmwd&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1003666733ecdjk_id2_1002023656ucmwd_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�X���[�T�C�Y�y�Rsize�z<BR>�j�ɂ͉��̈Ӗ����������A�����ɂƂ��Ă͑�Ϗd�v�ȈӖ��������l�B<BR>�Ȃ��A�s�r����Ǝ����I�Ɂi�w�͂������Ɂj���z�I���l�ɕω�����ꍇ�������A���N��̏����̔����Ǝ��i���������������B<BR><BR>�y�g�C���z<BR>�s�r�����ɂ����炭�ŏ��̎������ۂ��ꏊ�B
+スリーサイズ【３size】<BR>男には何の意味も無いが、女性にとっては大変重要な意味を持つ数値。<BR>なお、ＴＳすると自動的に（努力も無しに）理想的数値に変化する場合が多く、同年代の女性の反感と嫉妬をかう事が多い。<BR><BR>【トイレ】<BR>ＴＳっ娘におそらく最初の試練を課す場所。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2001/10/23 21:32:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2001/10/23 21:32:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1003840352odejafe&id2=1002023656ucmwd&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1003840352odejafe_id2_1002023656ucmwd_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ҁ[���y�����s�[�X�z����<BR>�ꌹ��one-piece dress<BR>�㒅�ƃX�J�[�g�������Ă���w�l�E�q�����B<BR>�s�r�������߂Ē��āu�����A���ꂪ�{�N�H�v�ƌ����ƌ��\�G�����肷��B<BR>���܁u�C���}���K�ł��傤�v�Ȃǂƃk�J�X�ӂĂ���Y������B<BR><BR>���悤�����y�͗l�ւ��z�����E�����T�s�ϊi���p��<BR>�{�l�̈ӎu�Ƃ͊֌W�����A�e�Z��E�F�l����������̕����ɉ������邱�ƁB�p�X�e���s���N�̕ǎ��Ƒ傫�Ȃʂ�����݂͕K���i�ł���B<BR><BR>�u�c�Ȃ��I�v�y�Ȃ��z�`�e��<BR>�s�r�����ɂȂ����Ƃ��ɂ͌ҊԂ��A���ɖ߂������ɂ͋���G���Ĕ����錾�t�B�f��u�]�Z���v�őS���I�ɍL�������B
+わんぴーす【ワンピース】名詞<BR>語源はone-piece dress<BR>上着とスカートが続いている婦人・子供服。<BR>ＴＳ娘が初めて着て「えっ、これがボク？」と言うと結構萌えたりする。<BR>時折「海賊マンガでしょう」などとヌカスふてい野郎がいる。<BR><BR>もようがえ【模様替え】名詞・動詞サ行変格活用他<BR>本人の意志とは関係無く、親兄弟・友人等が少女趣味の部屋に改装すること。パステルピンクの壁紙と大きなぬいぐるみは必需品である。<BR><BR>「…ない！」【ない】形容詞<BR>ＴＳっ娘になったときには股間を、元に戻った時には胸を触って発する言葉。映画「転校生」で全国的に広がった。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>polygon</strong>  <i>2001/10/24 00:10:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1003849850iubhq&id2=1002023656ucmwd&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1003849850iubhq_id2_1002023656ucmwd_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�z�y�͂񂢂�悤�z����<BR>���܂���O����A���B�Ȃǂ̍\���ɒj���A�����̓��������킹��������L�A�܂��͐��ʕs�\�̐g�̓I���������l�̂��Ƃ������B<BR>TS���̂ł́A��ɏ����������A�z�ōŏ��͒j�Ƃ��Đ��܂ꂽ���A�����ƗF�ɏ����Ƃ������Ƃ����o����p�^�[�������ʁB<BR>TS�̗��R�Ɉ�w�I�ȈӖ��t�������ă��A���H���������b����B
+半陰陽【はんいんよう】名詞<BR>生まれつき外性器、性腺などの構造に男性、女性の特徴をあわせもつ両性具有、または性別不能の身体的特徴を持つ人のことをいう。<BR>TSものでは、主に女性仮性半陰陽で最初は男として生まれたが、成長と友に女だということが発覚するパターンが普通。<BR>TSの理由に医学的な意味付けをしてリアル路線を書く話が主。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne,jp" target="_blank">�g��d��</a></strong>  <i>2001/10/24 21:21:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne,jp" target="_blank">吉井重治</a></strong>  <i>2001/10/24 21:21:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1003926093dcwwqs&id2=1002023656ucmwd&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1003926093dcwwqs_id2_1002023656ucmwd_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ȃ����y����z����<BR>�j���ł���Ȃ���A�����I������L�����̎�����B���X�ɂ��ď����ŉؚ��ł���B���������j�����ˑR���ʕω����Ă��A�F���C�t���Ă��ꂸ�A�S���y�����Ȃ��B<BR><BR>��ڂ�y���{���z����<BR>�Ђ̋����A�Ђ���̏���D��z�B�Z���������s�r�������A�����̟T����������������̂ɕ֗��ȃA�C�e���B<BR>���܁A�u�W���Ђ̏����G���ł���v���ƃk�J�X�ӂĂ���Y������B
+おんなかお【女顔】名詞<BR>男性でありながら、女性的特徴を有する顔の持ち主。往々にして小柄で華奢である。こういう男性が突然性別変化しても、皆が気付いてくれず、全く楽しくない。<BR><BR>りぼん【リボン】名詞<BR>巾の狭い、ひも状の飾り織り布。短髪だったＴＳっ娘が、長髪の鬱陶しさを解消するのに便利なアイテム。<BR>時折、「集○社の少女雑誌でしょ」等とヌカスふてい野郎がいる。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">����˂�</a></strong>  <i>2001/10/25 15:50:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">かわねぎ</a></strong>  <i>2001/10/25 15:50:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1003992610jykxa&id2=1002023656ucmwd&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1003992610jykxa_id2_1002023656ucmwd_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���W���[�y�����z<BR>(1)�w�l�p�����̈�B���[���݁A���̌`�𐮂��邽�߂̂��́B�u���B <BR>(2)�s�r�����������̕��𒅂�i��������j���ɁA�^����ɒ��p���@�Ɍ˘f�����B�w���Ɏ���񂵂ăz�b�N�𗯂߂�Ƃ����s�ׂɈ���ꓬ����B<BR>(3)���̏ꍇ�A�t�����g�z�b�N�ȂǂƂ����e�؂ȕ��͌�@�x�ł���B<BR><BR>�V���[�c�y�����z<BR>(1)�҉��̒Z���A�҂����肵�������p�����B�l�X�ȃf�U�C���A�F�̕�������B<BR>(2)�s�r�����͂��߂炢�Ȃ�������p���A���̃t�B�b�g���Ɋ��S����B<BR>(3)���̂����ɐ����p�V���[�c�ɂ����b�ɂȂ��Ă����B<BR>
+ブラジャー【名詞】<BR>(1)婦人用下着の一。乳房を包み、胸の形を整えるためのもの。ブラ。 <BR>(2)ＴＳっ娘が女性の服を着る（着せられる）時に、真っ先に着用方法に戸惑う物。背中に手を回してホックを留めるという行為に悪戦苦闘する。<BR>(3)この場合、フロントホックなどという親切な物は御法度である。<BR><BR>ショーツ【名詞】<BR>(1)股下の短い、ぴったりした女性用下着。様々なデザイン、色の物がある。<BR>(2)ＴＳっ娘はためらいながらも着用し、そのフィット感に感心する。<BR>(3)そのうちに生理用ショーツにお世話になっていく。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2001/10/25 23:33:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2001/10/25 23:33:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004020413hmuqdgu&id2=1002023656ucmwd&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004020413hmuqdgu_id2_1002023656ucmwd_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[���y�_�[�N�z�`�e����<BR>�Â��E�����񂾁E�Í�<BR>�s�r�n�����ł́A��ɋS�{�n�����E�o�C�I�����X�n�ɂ��̏̍����^������B<BR>���܁A�u�L�J���_�[�ňÖ􂷂鈫�̑g�D�ł��傤�v�Ȃǂƃk�J�X�ӂĂ���Y������B<BR>�݂�����y�~�X�R���z����<BR>�~�X�E�R���e�X�g�̗��B���̂��{���̏����������u���āu�o�b�^�����v�̂s�r�������D�����鎖�������B<BR>����i�ȂɁj�y�A���i�i�j�j�z����<BR>����Ȃ���A�����̏�ŏ�����󖳂��ł��傤�I
+だーく【ダーク】形容動詞<BR>暗い・黒ずんだ・暗黒<BR>ＴＳ系小説では、主に鬼畜系小説・バイオレンス系にこの称号が与えられる。<BR>時折、「キカ○ダーで暗躍する悪の組織でしょう」などとヌカスふてい野郎がいる。<BR>みすこん【ミスコン】俗語<BR>ミス・コンテストの略。何故か本物の女性を差し置いて「バッタモン」のＴＳっ娘が優勝する事が多い。<BR>あれ（なに）【アレ（ナニ）】俗語<BR>そんなもん、公共の場で書ける訳無いでしょう！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2001/10/30 00:23:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2001/10/30 00:23:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004369001yperupg&id2=1002023656ucmwd&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004369001yperupg_id2_1002023656ucmwd_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂߂��y�����z(����)<BR>�쒆�ɓo�ꂷ��V�K�Ȗ�i���̋@�B�B�܂��A������n�����鎖�B<BR>�ǂ������Ƃ̔����͎��s���A�������܂ꂽ��l���͏��̎q�ɂȂ�B<BR>���������Ƃ̔����͐������A��l���͏��̎q�ɂ����B<BR><BR>����傤��y�������z(����)<BR>�H�ו��B�܂��͐H�ו�����鎖�B���ł�����ł��G����B<BR>�y���`��z�����A�N�b�L���O�A���َq���<BR><BR>���ׂ���<BR>TS�����̔��̕ω���\���[����B��Ɋ���̍b�A�r�ɑ΂��ėp����B(�΋`��)������<BR><BR>�|�P�b�g�y�����z<BR>�m���ɕt�����܁B�������ɂ͏��Ȃ�����TS�����͍��z�̓����ɍ���B
+はつめい【発明】(名詞)<BR>作中に登場する新規な薬品や謎の機械。また、それらを創造する事。<BR>良い発明家の発明は失敗し、巻き込まれた主人公は女の子になる。<BR>悪い発明家の発明は成功し、主人公は女の子にされる。<BR><BR>おりょうり【お料理】(名詞)<BR>食べ物。または食べ物を作る事。上手でも下手でも萌える。<BR>【同義語】調理、クッキング、お菓子作り<BR><BR>すべすべ<BR>TSっ娘の肌の変化を表す擬音語。主に顔や手の甲、腕に対して用いる。(対義語)ごつごつ<BR><BR>ポケット【名詞】<BR>洋服に付いた袋。女性服には少ないためTSっ娘は財布の入れ場に困る。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2001/10/30 22:10:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2001/10/30 22:10:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004447456kaobn&id2=1002023656ucmwd&ff=p">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004447456kaobn_id2_1002023656ucmwd_ff_p.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������y��ҁz����<BR>�߂̖������N��N�𖳗�������ɂ���A�Ɉ��񓹂̑n����B<BR>����[��y�N���[���z����<BR>���A���̍זE��|�{���A��������ȃR�s�[�����o�����B�l�Ԃ̒j���̃N���[������낤�Ƃ���ƁA���̂������ɂȂ邱�Ƃ������B���̌�̐l�����ӂ݂Ĕޏ��i�ށj���̎����u�N���[�l�v�ƌĂԐl������B
+さくしゃ【作者】名詞<BR>罪の無い少年や青年を無理矢理女性にする、極悪非道の創造主。<BR>くろーん【クローン】名詞<BR>動植物の細胞を培養し、そっくりなコピーを作り出す事。人間の男性のクローンを作ろうとすると、何故か女性になることが多い。その後の人生を鑑みて彼女（彼）等の事を「クロー人」と呼ぶ人もいる。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/10/30 22:57:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/10/30 22:57:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004450267diryyx&id2=1002023656ucmwd&ff=p">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004450267diryyx_id2_1002023656ucmwd_ff_p.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�C�E�C�����z����<BR>�@�J���I�ȉĂ̍s�y�B�s�r�����́A�������Ƃ΂���ɔh��Ȑ����𒅂����āA���̑傫���Ȃǂ��֎����邱�ƂɂȂ�B<BR><BR>�y�L�z����<BR>�@�s�r�����������`�b�N�ȑԓx���Ƃ�Ƃ��ɕ����グ����悵�A���@�����̃y�b�g�Ƃ��ĘA�����悵�A�������l�R�~�~���ɂȂ���悵�B�֗��ȃP�_���m�ł���B<BR>�y�F���l�z����<BR>�@���݂����Ȃ��̂ɂt�e�n�ɐN��������Ă͐��]������B���邢�͉F���l���g���ϐg�\�ł���ꍇ���B
+【海・海水浴】名詞<BR>　開放的な夏の行楽。ＴＳっ娘は、ここぞとばかりに派手な水着を着せられて、胸の大きさなどを誇示することになる。<BR><BR>【猫】名詞<BR>　ＴＳっ娘が乙女チックな態度をとるときに抱き上げるもよし、魔法少女のペットとして連れるもよし、自分がネコミミ娘になるもよし。便利なケダモノである。<BR>【宇宙人】名詞<BR>　頼みもしないのにＵＦＯに青年をさらっては性転換する。あるいは宇宙人自身が変身可能である場合も。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2001/10/31 00:34:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2001/10/31 00:34:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004456076aeaom&id2=1002023656ucmwd&ff=p">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004456076aeaom_id2_1002023656ucmwd_ff_p.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�΂�������y�o�X�^�I���z(����)<BR>���オ��ɑ̂�@�����߂̑�^�̃^�I���B�̂Ɋ����ƃ|�C���g�������B����A���Ɋ����ƒ��ӂ���Ă��܂��B<BR><BR>����΂��Ɓy�A���o�C�g�z(����)<BR>���������̓a���B���X�g�����A�t�@�[�X�g�t�[�h�Ȃǈ��H�X�̐l�C�������B�����I�ȗ�Ƃ��Ă͛ޏ��Ȃǂ���������B<BR>�y���ӓ_�z���C�h�͋��K�̎���𔺂킸�A�A���o�C�g�ɊY�����Ȃ��ꍇ�������B�܂��A�Ō�w�̃A���o�C�g�͖����i��ÂƂȂ邽�ߌ����Ƃ��ċ֎~����Ă���B
+ばすたおる【バスタオル】(名詞)<BR>湯上がりに体を拭くための大型のタオル。体に巻くとポイントが高い。一方、腰に巻くと注意されてしまう。<BR><BR>あるばいと【アルバイト】(名詞)<BR>制服属性の殿堂。レストラン、ファーストフードなど飲食店の人気が高い。非日常的な例としては巫女などが挙げられる。<BR>【注意点】メイドは金銭の授受を伴わず、アルバイトに該当しない場合が多い。また、看護婦のアルバイトは無資格医療となるため原則として禁止されている。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2001/11/01 01:33:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2001/11/01 01:33:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004546033xefnti&id2=1002023656ucmwd&ff=p">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004546033xefnti_id2_1002023656ucmwd_ff_p.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂ʂ���y�}�k�J���z(����)<BR>�����X�̏����X���B���߂Ă̔������ɓo�ꂵ�A��e��F�l�ƂƂ���TS������J�߂��₷�B��i�Ȍ��t�����̔��ʁATS�����ɗL�������킹�ʉ����̋��������B�����X�̃}�k�J����3�T�C�Y��m�炵�߂�Ƃ����d�v�Ȗ����������A�����m���ŏ��̎q�D���ł���B<BR>�y�ދ`��z�R�X���e�B�b�N�A�h�o�C�U�[<BR><BR>�����y���z(����)<BR>�A���R�[�����܂ވ����B�����͒j�����A���R�[���ւ̑ϐ����Ⴂ���߁ATS�����͎�ʂ����s���`�⑛���������B���������N�������ɂł�20�Έȏ�̃L���������Ȃ��A�����̃V�[�����`����鎖�͋H�ł���B<BR>
+まぬかん【マヌカン】(名詞)<BR>服飾店の女性店員。初めての買い物に登場し、母親や友人とともにTSっ娘を褒めそやす。上品な言葉遣いの反面、TSっ娘に有無を言わせぬ押しの強さを持つ。下着店のマヌカンは3サイズを知らしめるという重要な役割を持ち、高い確率で女の子好きである。<BR>【類義語】コスメティックアドバイザー<BR><BR>さけ【酒】(名詞)<BR>アルコールを含む飲料。女性は男性よりアルコールへの耐性が低いため、TSっ娘は酒量を誤りピンチや騒ぎを招く。ただし少年少女文庫では20歳以上のキャラが少なく、それらのシーンが描かれる事は稀である。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2001/11/01 18:40:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2001/11/01 18:40:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004607619shylol&id2=1002023656ucmwd&ff=p">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004607619shylol_id2_1002023656ucmwd_ff_p.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���傤�����y�Z��z����<BR>������ˑR�A�o��E�Z���E�o���ɂȂ��Ă��܂��֌W�B<BR>�܂�������i�܂ق����傤����j�y���������i���@�����j�z����<BR>���R���P���u���@�g���T���[�v���n�c�Ƃ���A���@���g�����[�e�B�[�������̂��ƁB��̏���͂P�T�Β��x�ƍl������B�u�~���L�[�����v�ȍ~�́u��l�̏����ɕϐg�v�Ƃ����v�f���啝�ɋ������ꂽ�B<BR>TS�E�ɂ����ẮA�u��������@�����ɕϐg��������v�u���@�����̕s��ۂɂ���ď����ɕϐg��������v�̂Q�p�^�[���ɑ傫�����ނ����B<BR>�ւ񂵂�y�ϐg�z����<BR>���̕��Ɏp��ς��邱�ƁB�ς�����p�B���R�����ɂȂ邱�Ƃł���B�A���A��������j���ɖ߂�ꍇ���g����B���̍ۑf�����j���ɕ�����ς��Ȃ��ƁA�F����u�ϐl�v�ƌĂ΂�邱�ƂɂȂ�B
+きょうだい【兄弟】名詞<BR>ある日突然、姉弟・兄妹・姉妹になってしまう関係。<BR>まじょっこ（まほうしょうじょ）【魔女っ娘（魔法少女）】名詞<BR>横山光輝著「魔法使いサリー」を始祖とする、魔法を使うローティーン少女のこと。大体上限は１５歳程度と考えられる。「ミンキーモモ」以降は「大人の女性に変身」という要素が大幅に強化された。<BR>TS界においては、「無理矢理魔法少女に変身させられる」「魔法少女の不手際によって少女に変身させられる」の２パターンに大きく分類される。<BR>へんしん【変身】名詞<BR>他の物に姿を変えること。変わった姿。当然女性になることである。但し、女性から男性に戻る場合も使われる。その際素早く男物に服装を変えないと、皆から「変人」と呼ばれることになる。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1004721056ifxobad&ff=on" target="_blank">�厫�T����낤�I�i�Q�j�͂������N���b�N�B</a></strong>  <i>2001/11/03 09:13:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_1_id_1004721056ifxobad_ff_on.cgi" target="_blank">大辞典を作ろう！（２）はここをクリック。</a></strong>  <i>2001/11/03 09:13:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004746410ohhjqer&id2=1002023656ucmwd&ff=p">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004746410ohhjqer_id2_1002023656ucmwd_ff_p.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���̌f���͂��낻�낢���ς��ɂȂ�܂��̂ŁA������ւ��܂�肭�������B<BR>�@���������A��낵�����肢���܂��B�i�^�c�ψ��j
+　この掲示板はそろそろいっぱいになりますので、こちらへおまわりください。<BR>　引き続き、よろしくお願いします。（運営委員）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F������</strong>  <i>2001/11/03 10:44:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲＠裏方</strong>  <i>2001/11/03 10:44:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004751876tpajy&id2=1002023656ucmwd&ff=p">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004751876tpajy_id2_1002023656ucmwd_ff_p.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f���̃p���[�A�b�v�ɂ�肱�̂܂܂P�O�O���i������������P�T�O�������������j�܂ŃR�����g�ǉ��ł���悤�ɂȂ�܂����B<BR>�Ƃ����킯�ŁA�i�Q�j�Ɉڍs����̂͂������΂炭��ł��[���[�ł��B
+掲示板のパワーアップによりこのまま１００件（もしかしたら１５０件だったかも）までコメント追加できるようになりました。<BR>というわけで、（２）に移行するのはもうしばらく後でおーけーです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2001/11/05 15:03:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2001/11/05 15:03:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1004940189bgtfavh&id2=1002023656ucmwd&ff=p">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1004940189bgtfavh_id2_1002023656ucmwd_ff_p.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���݁y�_�z<BR>�@���ɂ���`�͈Ⴄ���A�S�m�S�\�E�l�m�𒴂������݁c�ł���͂����A�s�r���E�ɉ����Ă͎��X���s���邱�Ƃ�����A���̉e���Ő��ʂ��ς���Ă��܂����N������B�܂��A�s�r�����ɗl�X�Ȏ�����^�����������B�Ȃ��A�����̐_�́u���_�v�ƌĂ΂��B<BR><BR>�Ă񂵁y�V�g�z<BR>�ʏ�A�_�̎g���Ƃ���鑶�݁B�s�r���E�̓V�g�́A�قڗ�O�Ȃ����\��<BR>���n�Ȏ҂������A���������Ȑ��N�����̎q�ɕς��đ㗝�l�Ɏd���ďグ�A�C����S�����悤�Ƃ��邱�Ƃ������B<BR>�Ȃ��A��R�V�����s�ɂ��傭���傭����鋐�吶���̂��Ƃł͂Ȃ��B
+かみ【神】<BR>宗教により定義は違うが、全知全能・人知を超えた存在…であるはずが、ＴＳ世界に於いては時々失敗することもあり、その影響で性別が変わってしまう青少年もいる。また、ＴＳっ娘に様々な試練を与えたりもする。なお、女性の神は「女神」と呼ばれる。<BR><BR>てんし【天使】<BR>通常、神の使いとされる存在。ＴＳ世界の天使は、ほぼ例外なく無能か<BR>未熟な者が多く、いたいけな青少年を女の子に変えて代理人に仕立て上げ、任務を全うしようとすることが多い。<BR>なお、第３新東京市にちょくちょく現れる巨大生物のことではない。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�����a</strong>  <i>2001/11/07 20:22:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>海月日和</strong>  <i>2001/11/07 20:22:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005132163svmbm&id2=1002023656ucmwd&ff=p">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005132163svmbm_id2_1002023656ucmwd_ff_p.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�킵�����y�킵�����E�z<BR>�P�l�̂��w�킵�x�ȏ��̎q�B�ӊO�Ɓi�H�j�G����B<BR>�D���Ȑl�͌��\����͂��Ȃ̂����A���̂����Ȃ��s���̑��݁B�������傤�i�΁j
+わしっこ【わしっ娘・】<BR>１人称が『わし』な女の子。意外と（？）萌える。<BR>好きな人は結構いるはずなのだが、何故か少ない不遇の存在。ちくしょう（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:PXU17421@nifty.ne.jp" target="_blank">���Ȃ���</a></strong>  <i>2001/11/10 23:51:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:PXU17421@nifty.ne.jp" target="_blank">すなさん</a></strong>  <i>2001/11/10 23:51:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005403915ijbwyqr&id2=1002023656ucmwd&ff=p">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005403915ijbwyqr_id2_1002023656ucmwd_ff_p.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���e�y���e�z<BR>��T�͎q�ϔY�Ŗ��̎ʐ^���n�r�̕ǎ��Ɏg�����肷��B
+父親【父親】<BR>大概は子煩悩で娘の写真をＯＳの壁紙に使ったりする。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">����˂�</a></strong>  <i>2001/11/12 16:50:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">かわねぎ</a></strong>  <i>2001/11/12 16:50:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005551422sywhhcu&id2=1002023656ucmwd&ff=p">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005551422sywhhcu_id2_1002023656ucmwd_ff_p.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�R�X�v���y�����Ղ�z�����i��������j<BR>(1)�R�X�`���[���E�v���C�̗�<BR>(2)�A�j���[�V�����E�}���K�E�Q�[���Ȃǂ̃L�����N�^�[�₳�܂��܂ȐE�Ƃ̕��������邱�ƁB<BR>(3)�قƂ�ǂ�TS�����͖{�l�̈ӎv�ɂ�����炸�U������āA�܂��͋����I�ɗl�X�Ȉߑ��ŃR�X�v����������B����������̏����i��������Ƒ��j���ʔ������Ē�������̂ł���B<BR>
+コスプレ【こすぷれ】名詞（──する）<BR>(1)コスチューム・プレイの略<BR>(2)アニメーション・マンガ・ゲームなどのキャラクターやさまざまな職業の扮装をすること。<BR>(3)ほとんどのTSっ娘は本人の意思にかかわらず誘導されて、または強制的に様々な衣装でコスプレさせられる。もちろん周りの女性（同級生や家族）が面白がって着させるのである。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/11/14 18:43:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/11/14 18:43:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005731007eebklv&id2=1002023656ucmwd&ff=p">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005731007eebklv_id2_1002023656ucmwd_ff_p.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�т傤����y�a�@�z��ʖ���<BR>�P�j�a�C�����̎g�p�̂��ߗp������{�݂̈�ŁA�������@�̂��߂̐ݔ����p�ӂ���Ă���B<BR>�Q�j��Ɋ��҂����Ⴆ�Ď�p���邱�Ƃ�����B<BR>�R�j�Ɋ�Ɋ��҂̍����A�����o�������ƂŖ߂�ׂ��g�̂��ԈႦ�邱�Ƃ��B<BR><BR>���傤����܂񂪁y��������z��ʖ���<BR>�P�j�͗l�ւ��̍ۂɗp�����镨�̈�ŁA����{�I�ɒu����邱�Ƃ������B�@�������������̖ړI�Ɏg�p�����m���͍����B<BR>�Q�j�������芓�ɔE�΂���āA�Ȃ�䂫�œǂ܂���邱�Ƃ�����B<BR>�R�j�Ȃ��A�j�̎q���厖�����ɕ����Ď��������Ă���Ƃ��͗v���ӂł���B<BR>���֘A�p�ꁄ<BR>���X�E������E���������E�͗l�ւ�<BR><BR>�ӂ���yfun�z�p��E��ʖ���[fanatic�̗�]<BR>�P�j�X�|�[�c�E��̔M�S�Ȉ��D�ҁA��l�B<BR>�}�j�A�Ƃ͈قȂ�A�Ђ�����Ɩ��f���|�����y���ނ̂������B<BR>�Ȃ��A�Ώۂ̕��ނ����@���A�������̏ꍇ�́A<BR>������fanatic�i���t�@�i�e�B�b�N�j�A�܂���cult�i���ɏ@���̏ꍇ�Ō��������j�ƕ\�L�B<BR>�Q�j�s�r���������I�ɏ@�|�ւ��������镨�B<BR><BR>�܂ɂ��ymania�z�p��E��ʖ���<BR>�P�j���C���݂����D�ҁB�t�@���Ƃ͈قȂ�A���͂ɖ��f�������̂������B<BR>�Q�j�߂����l������A����Ȗ��f����̂͂��ł��s�r���B<BR>����͌��t�̒[�X��͗l�ւ���V���b�s���O�ł̍s���ɕ\���B<BR><BR>���߂ɂ񂰂�y�_���l�ԁz��ʖ���<BR>�s�r���ɂƂ��Ă̓V�G�Ƃ����鑶�݁B�K���o��l���̓��P�l�ȏ㋏��B<BR>�Ȃ��A����ȊO�̐l���ɂƂ��Ă͑債�����Ƃ͂Ȃ�Ȃ��̂ŁA�ʔ������Č��Ă���B<BR>���֘A���}�j�A
+びょういん【病院】一般名詞<BR>１）病気や怪我の使用のため用いられる施設の一つで、長期入院のための設備が用意されている。<BR>２）希に患者を取り違えて手術することもある。<BR>３）極希に患者の魂が、抜け出したあとで戻るべき身体を間違えることも。<BR><BR>しょうじょまんが【少女漫画】一般名詞<BR>１）模様替えの際に用いられる物の一つで、机や本棚に置かれることが多い。　少女小説もこの目的に使用される確率は高い。<BR>２）こっそり鞄に忍ばされて、なりゆきで読まされることもあり。<BR>３）なお、男の子が大事そうに抱えて持ち歩いているときは要注意である。<BR>＜関連用語＞<BR>書店・少女趣味・少女小説・模様替え<BR><BR>ふぁん【fun】英語・一般名詞[fanaticの略]<BR>１）スポーツ・趣味の熱心な愛好者、趣味人。<BR>マニアとは異なり、ひっそりと迷惑を掛けず楽しむのが特徴。<BR>なお、対象の分類が＜宗教、政治＞の場合は、<BR>略さずfanatic（＝ファナティック）、またはcult（特に宗教の場合で激しい物）と表記。<BR>２）ＴＳ娘が強制的に宗旨替えさせられる物。<BR><BR>まにあ【mania】英語・一般名詞<BR>１）狂気じみた愛好者。ファンとは異なり、周囲に迷惑を蒔くのが特徴。<BR>２）近しい人物から、多大な迷惑を被るのはいつでもＴＳ娘。<BR>それは言葉の端々や模様替えやショッピングでの行動に表れる。<BR><BR>だめにんげん【ダメ人間】一般名詞<BR>ＴＳ娘にとっての天敵といえる存在。必ず登場人物の内１人以上居る。<BR>なお、それ以外の人物にとっては大したことはならないので、面白がって見ている。<BR>＜関連＞マニア
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2001/11/14 22:00:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2001/11/14 22:00:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005742833gjblsbv&id2=1002023656ucmwd&ff=p">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005742833gjblsbv_id2_1002023656ucmwd_ff_p.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ђ傤���y�߈ˁz����<BR>1�j���炩�̗��R�ŕʂ̐l�i���߂�t���A�̂��x�z���鎖�B<BR>2�j�Â��͌Ϝ߂��A�C�^�R�Ȃǂ��L���ł���B<BR>3�j�o�D�E�����r�񎁂̃j�b�N�l�[���i����̓I�q���C����I�j<BR>��������i�����j�y�K�i�i�����j�z�����E�`�e����<BR>1�j�͂����i�E�����͂�<BR>2�j�K��<BR>3�j�����ɂ���s�r��Y�̐��n�i�j���œ]��������Ɛl�i�]�ڂ��N���鎖�ŗL���ł���j<BR>4�j�i�j���R���Ȃ�łŗ�����Ɗ��c�s�i�ȂɂȂ�B�u���X�I�����܂ŏ����ė����I�v�c���炵�܂����B
+ひょうい【憑依】名詞<BR>1）何らかの理由で別の人格が憑り付き、体を支配する事。<BR>2）古くは狐憑き、イタコなどが有名である。<BR>3）俳優・藤村俊二氏のニックネーム（それはオヒョイさん！）<BR>かいだん（おち）【階段（落ち）】名詞・形容動詞<BR>1）はしご段・きざはし<BR>2）階級<BR>3）尾道にあるＴＳ野郎の聖地（男女で転げ落ちると人格転移が起こる事で有名である）<BR>4）ナニがコレなんでで落ちると鎌田行進曲になる。「ヤス！ここまで昇って来い！」…失礼しました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/11/14 22:45:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/11/14 22:45:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005745543ccojaj&id2=1002023656ucmwd&ff=p">APPEND 50</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005745543ccojaj_id2_1002023656ucmwd_ff_p.cgi">APPEND 50</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ԃ���<BR>�P�j���Ȃǂ��̂��傫���č����Ă��Ȃ����܂�����킷���t�B<BR>�Q�j�����̂s�r�p�^�[���ł͏���������Ɠ����ɑ̂��ЂƂ܂�菬�����Ȃ邽�߁A�s�r�Ɠ����ɒ��߂��ω����Ȃ��ꍇ�͕K���ƌ����Ă����قǂ��̂��Ƃ΂̂����b�ɂȂ�B<BR>�R�j�����������ۂɒ��߂����ł܂��͕��������ꍇ�͎�߂ɂ���j���p�ߕ��𒅗p���邱�Ƃ������A���̍ۂɂ��قڕK�����̂��Ƃ΂̂����b�ɂȂ�B<BR>�S�j�����āA�����͒j�������ЂƂ܂��̂��������Ƃ������Ƃ����������邽�߂̂��Ƃ΂ł���B
+だぶだぶ<BR>１）服などが体より大きくて合っていないさまをあらわす言葉。<BR>２）多くのＴＳパターンでは女性化すると同時に体がひとまわり小さくなるため、ＴＳと同時に着衣が変化しない場合は必ずと言っていいほどこのことばのお世話になる。<BR>３）女性化した際に着衣が消滅または紛失した場合は手近にある男性用衣服を着用することも多く、その際にもほぼ必ずこのことばのお世話になる。<BR>４）総じて、女性は男性よりもひとまわり体が小さいということを実感させるためのことばである。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�A���t�@���t�@</strong>  <i>2001/11/17 19:43:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>アルファルファ</strong>  <i>2001/11/17 19:43:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1005993820tkhlg&id2=1002023656ucmwd&ff=p">APPEND 51</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1005993820tkhlg_id2_1002023656ucmwd_ff_p.cgi">APPEND 51</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ȃ��Ƃ΁y�����t�z����<BR>�����ɂ͒j�Ə��łقƂ�ǌ��t�����ɍ����Ȃ��̂ɁA�ǂ����߂�҂����f���Ȃ��A�s�r�e�E�̃t�@���^�W�[�B
+おんなことば【女言葉】名詞<BR>現実には男と女でほとんど言葉遣いに差がないのに、追い求める者が後を断たない、ＴＳＦ界のファンタジー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/11/18 21:23:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/11/18 21:23:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006086192djuoe&id2=1002023656ucmwd&ff=p">APPEND 52</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006086192djuoe_id2_1002023656ucmwd_ff_p.cgi">APPEND 52</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǉ��ł��B<BR>�m���n<BR>&lt;p&gt;&lt;strong&gt;�A�C�h��&lt;/strong&gt;�k�����ǂ�l&lt;br&gt;<BR>�P�F�m�@�n�����B���q�i�����߂�j���鎖���ւ��Ă���@���������B&lt;br&gt;<BR>�Q�F�m�|�n��L�Ɠ������ʂ�_���āw���l�󂯂���e�p��w�i�D�x�̎҂��|�\�E���肳���A�w��Ƃ���ׂ��x���邽�߂ɗ��p����Ώۂ̂��ƁB�����͈����i��Q��b�N���̎x���z���W�O���~�^�N�ɖ����Ȃ��j�A�g���̂Ă������B<BR>�R�F�����ɓ��ł͐l�q�̋y�΂���͂ɂ��A���N���������A�C�h���ɂ����P�[�X���w�ǂł���B&lt;br&gt;<BR>�Q�ƁFJINN�imissing����j<BR>&lt;/p&gt;<BR>&lt;p&gt;&lt;strong&gt;����&lt;/strong&gt;�k�����܁l&lt;br&gt;<BR>�P�F�l�q�̋y�΂���͂𔭓������钣�{�l�̈�l�B&lt;br&gt;<BR>�Q�F�t�@���^�W�[�ł́A�K�������̑ΏۂɂȂ�B&lt;br&gt;<BR>�R�F�����ɂł́A�w�ǂ̏ꍇ�A��l���ɑ΂��Ė��@���|���������Ŏ���̖��͂��g���ʂ������A�|�������ł������Ƒޏꂷ�邩�ŁA������̏ꍇ���w���u�����x�ƂȂ�i�΁j�B&lt;br&gt;<BR>�S�F�e�����Ƃ�ł��Ȃ����Ƃ����A�s�r�����K�@������������ꍇ�A<BR>�s�r������͂��̐l���ɑ΂��A�w�����x�ƌĂԏꍇ�������B&lt;br&gt;<BR>&lt;/p&gt;<BR>&lt;p&gt;&lt;strong&gt;���F&lt;/strong&gt;�k�����䂤�l&lt;br&gt;<BR>�P�F�w���ꉏ�x�̂��ƁB<BR>�Q�F�k�����|�S�l�̂��ƁB<BR>&lt;/p&gt;<BR>&lt;p&gt;&lt;strong&gt;�u�������v&lt;/strong&gt;�k�䎌�l&lt;br&gt;<BR>�P�F�s�r�����A������P�l�̂̂��Ƃ����������l�Ɏd��������䎌�B<BR>�Q�F���ӎ��̓��ɂs�r�����g���悤�ɂȂ�����A�ő��s�r���ł͂Ȃ��i�����̏��̎q�ł���j�B<BR>&lt;/p&gt;<BR>&lt;p&gt;&lt;strong&gt;�A���̓�&lt;/strong&gt;�k����l&lt;br&gt;<BR>�P�F���o�̂��ƁB���܂�ď��߂Ă̏ꍇ�͏��o�Ƃ����B�P�����ɂP�x�A�T�`�V�����邱�Ƃ��R���B<BR>�Q�F���̎q�ɂ��̘b������������Ă����̂́A�e�����F�l�ƕ�e�A�o���A���ڊւ���Ê֌W�҂݂̂ł���i����ȊO�̎҂��A�b�������������ꍇ�́A�S�ƁI�j�B<BR>�R�F�s�r���̏ꍇ�́A�ԈႢ�Ȃ��u�݂�Ȃ̎N���ҁv�̌Y��H�炤���ƂƂȂ�B&lt;br&gt;&lt;/p&gt;<BR>�m���n<BR>&lt;p&gt;&lt;strong&gt;��`�q&lt;/strong&gt;�k���ł񂵁l&lt;br&gt;<BR>�P�F�g�̂̑S��񂪎��܂��Ă���A�q�����c�����߂Ɏg����R��̃^���p�N���B�זE�j���i�c�m�`�j�ƃ~�g�R���h���A���i�q�m�`�j�ɂ���A�ʏ�A�זE�j�̕����g����B�Ȃ��A�q�m�`�͕���̈�`��񂵂������Ȃ��i�c�m�`�͗��e�̏������j�B�����͓�����`�q�𕡐������Ă���A���̐��ɂ���ĂQ�{�́i�Q����j�A�S�{�́i�S����j�ȂǂƌĂԁi��Ȃ��X�C�J�͂R�{�̂ƂQ�{�̂̊|�����킹�B���R��q���o���Ȃ��j�B<BR>�Q�F�q�g�͒a���̍ۂɐ��̈�`���i�����F�̂����ł͂Ȃ��̂Œ��Ӂj���P�x�����Q�Ƃ����A�a����͐��̈�`���͎Q�Ƃ���Ȃ��B���ʂƂ��Č�V�I�ɍĐ�����ꍇ�͕K�������ɂȂ�B<BR>&lt;/p&gt;<BR>
+追加です。<BR>［あ］<BR>&lt;p&gt;&lt;strong&gt;アイドル&lt;/strong&gt;〔あいどる〕&lt;br&gt;<BR>１：［宗］偶像。崇拝（あがめる）する事を禁じている宗教が多い。&lt;br&gt;<BR>２：［芸］上記と同じ効果を狙って『万人受けする容姿や背格好』の者を芸能界入りさせ、『企業が一儲け』するために利用する対象のこと。給料は安く（障害基礎年金の支給額＝８０万円／年に満たない）、使い捨てが多い。<BR>３：当文庫内では人智の及ばざる力により、少年が美少女アイドルにされるケースが殆どである。&lt;br&gt;<BR>参照：JINN（missingさん）<BR>&lt;/p&gt;<BR>&lt;p&gt;&lt;strong&gt;悪魔&lt;/strong&gt;〔あくま〕&lt;br&gt;<BR>１：人智の及ばざる力を発動させる張本人の一人。&lt;br&gt;<BR>２：ファンタジーでは、必ず征討の対象になる。&lt;br&gt;<BR>３：当文庫では、殆どの場合、主人公に対して魔法を掛けただけで自らの魔力を使い果たすか、掛けただでさっさと退場するかで、いずれの場合も『処置無し』となる（笑）。&lt;br&gt;<BR>４：脇役がとんでもないことをやり、ＴＳ娘が尻拭いをさせられる場合、<BR>ＴＳ娘からはその人物に対し、『悪魔』と呼ぶ場合も多い。&lt;br&gt;<BR>&lt;/p&gt;<BR>&lt;p&gt;&lt;strong&gt;悪友&lt;/strong&gt;〔あくゆう〕&lt;br&gt;<BR>１：『腐れ縁』のこと。<BR>２：〔悪魔－４〕のこと。<BR>&lt;/p&gt;<BR>&lt;p&gt;&lt;strong&gt;「あたし」&lt;/strong&gt;〔台詞〕&lt;br&gt;<BR>１：ＴＳ娘が、無理矢理１人称のことをそう言う様に仕向けられる台詞。<BR>２：無意識の内にＴＳ娘が使うようになったら、最早ＴＳ娘ではない（ただの女の子である）。<BR>&lt;/p&gt;<BR>&lt;p&gt;&lt;strong&gt;アレの日&lt;/strong&gt;〔俗語〕&lt;br&gt;<BR>１：月経のこと。生まれて初めての場合は初経という。１ヶ月に１度、５～７日あることが由来。<BR>２：女の子にこの話題を持ちかけていいのは、親しい友人と母親、姉妹、直接関わる医療関係者のみである（それ以外の者が、話をもちかけた場合は、鉄槌！）。<BR>３：ＴＳ娘の場合は、間違いなく「みんなの晒し者」の刑を食らうこととなる。&lt;br&gt;&lt;/p&gt;<BR>［い］<BR>&lt;p&gt;&lt;strong&gt;遺伝子&lt;/strong&gt;〔いでんし〕&lt;br&gt;<BR>１：身体の全情報が収まっている、子孫を残すために使われる紐状のタンパク質。細胞核中（ＤＮＡ）とミトコンドリア中（ＲＮＡ）にあり、通常、細胞核の物が使われる。なお、ＲＮＡは母方の遺伝情報しか持たない（ＤＮＡは両親の情報を持つ）。生物は同じ遺伝子を複数持っており、その数によって２倍体（２つある）、４倍体（４つある）などと呼ぶ（種なしスイカは３倍体と２倍体の掛け合わせ。当然種子が出来ない）。<BR>２：ヒトは誕生の際に性の遺伝情報（性染色体だけではないので注意）を１度しか参照せず、誕生後は性の遺伝情報は参照されない。結果として後天的に再生する場合は必ず女性になる。<BR>&lt;/p&gt;<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/11/18 21:27:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/11/18 21:27:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006086478yteils&id2=1002023656ucmwd&ff=p">APPEND 53</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006086478yteils_id2_1002023656ucmwd_ff_p.cgi">APPEND 53</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂�Ȃ����I�I<BR><BR>���^�O�t���̂܂܂œ��e���Ă��܂��܂����B<BR>�s�s���ȏꍇ�A�폜���Ă��������B
+ごめんなさい！！<BR><BR>↑タグ付きのままで投稿してしまいました。<BR>不都合な場合、削除してください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="kawanegi@mse.biglobe.ne.jp" target="_blank">����˂�</a></strong>  <i>2001/11/20 09:16:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="kawanegi@mse.biglobe.ne.jp" target="_blank">かわねぎ</a></strong>  <i>2001/11/20 09:16:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006215404ymbshig&id2=1002023656ucmwd&ff=p">APPEND 54</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006215404ymbshig_id2_1002023656ucmwd_ff_p.cgi">APPEND 54</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�]�o���y�����z<BR>(1)���܂��͕�̌Z��E�o���̎q�B<BR>(2)�s�r���������̎����Ƃ̊֌W���������̂��鎖������A�֗��Ȋ֌W�B<BR>(3)�j�q���k���}�ɓ]�o���Ă��̏]�o�����]�����Ă�����A�X�O���̊m���Ŗ{�l���낤�B<BR><BR><BR>�Ԕсy�����z<BR>(1)�������߂������ƂƂ��ɏ���������сB���j���̎��ɗp����B<BR>(2)�����̏ꍇ�͓��ʂȈӖ��������A���o���������̂��j�����Ӗ�����B<BR>(3)�s�r�����ɏ��o���������́A�{�l�̓��f�͖�������A����̏j���i�����炩���j�̒��ŐU�镑����B<BR><BR><BR>���K�l�����y�����z<BR>(1)���K�l�������Ă��鏭���B�{�l�̓R���v���b�N�X�ł��鎖�������B<BR>(2)����l�ɂƂ��Ă͏����̉��炵�����A�b�v�����邽�߂ɕs���ȃA�C�e���B<BR>(3)�s�r�����Ń��K�l�����Ƃ����̂͏��Ȃ����ł���B<BR>(4)�l�R���Ń��K�l����������@�́A�������ē�i�΁j�B<BR><BR>
+従姉妹【名詞】<BR>(1)父または母の兄弟・姉妹の子。<BR>(2)ＴＳっ娘が元の自分との関係をそう詐称する事がある、便利な関係。<BR>(3)男子生徒が急に転出してその従姉妹が転入してきたら、９０％の確率で本人だろう。<BR><BR><BR>赤飯【名詞】<BR>(1)もちごめを小豆とともに蒸したこわ飯。お祝いの時に用いる。<BR>(2)少女の場合は特別な意味を持ち、初経が来た時のお祝いを意味する。<BR>(3)ＴＳっ娘に初経が来た時は、本人の当惑は無視され、周りの祝福（＆からかい）の中で振る舞われる。<BR><BR><BR>メガネっ娘【名詞】<BR>(1)メガネをかけている少女。本人はコンプレックスである事も多い。<BR>(2)見る人にとっては少女の可愛らしさをアップさせるために不可欠なアイテム。<BR>(3)ＴＳっ娘でメガネっ娘というのは少ない方である。<BR>(4)ネコ耳でメガネをかける方法は、今もって謎（笑）。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/11/20 16:20:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/11/20 16:20:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006240809atiueap&id2=1002023656ucmwd&ff=p">APPEND 55</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006240809atiueap_id2_1002023656ucmwd_ff_p.cgi">APPEND 55</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ƃ��y�]�o���z�i�⑫�j�j�q���k�]�o�̍ۂɖ{�l�̂��������Ȃ������ꍇ�A�]�����Ă����]�o�����{�l�ł���m���͂X�X�D�X�X���܂ŏオ��i�΁j
+いとこ【従姉妹】（補足）男子生徒転出の際に本人のあいさつがなかった場合、転入してきた従姉妹が本人である確率は９９．９９％まで上がる（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2001/11/20 20:18:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2001/11/20 20:18:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006255135nopxok&id2=1002023656ucmwd&ff=p">APPEND 56</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006255135nopxok_id2_1002023656ucmwd_ff_p.cgi">APPEND 56</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ƃ��y�]�o���z�i�⑫�̕⑫�j�j�q���k�]�o�̍ۂ̗��R���u�C���h�̎R���ŏC�s����v�������ꍇ�A�]�����Ă����]�o�����{�l�ł���m���͂X�X�D�X�X�X�X���܂Œ��ˏオ��i��΁j
+いとこ【従姉妹】（補足の補足）男子生徒転出の際の理由が「インドの山奥で修行する」だった場合、転入してきた従姉妹が本人である確率は９９．９９９９％まで跳ね上がる（苦笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:novelist_john@hotmail.com" target="_blank">John/��H��</a></strong>  <i>2001/11/20 20:46:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:novelist_john@hotmail.com" target="_blank">John/夜羽根</a></strong>  <i>2001/11/20 20:46:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006256782madfg&id2=1002023656ucmwd&ff=p">APPEND 57</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006256782madfg_id2_1002023656ucmwd_ff_p.cgi">APPEND 57</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƃ�񂭂��y�g�����N�X�z(��ʖ���)<BR><BR>�j���p�����̎�ނ̈�B(��:�u���[�t)<BR>�ӎv�͂̋���TS�����̏ꍇ�A��Ƃ��ď����p���������݁A�R���𒅗p���邱�Ƃ�����\�\���A�����̏ꍇ�k�J�ɏI���B<BR>���X�ɂ��āy�u�J�u�J�z��t�я󋵂Ƃ���B<BR>���I�ɖG����B(��<BR><BR>�������E�ł��H(?)�ɏ��������p���邱�Ƃ͂���B(��:����(^^;))<BR><BR><BR>P.S.�ŋߖZ�����Ċ���o�����A�ǂ����ς݂܂���Bm(__)m<BR>���E�����ō��i���Ă�΁A���낻�땜���c�c�c�H
+とらんくす【トランクス】(一般名詞)<BR><BR>男性用下着の種類の一つ。(他:ブリーフ)<BR>意思力の強いTSっ娘の場合、頑として女性用下着を拒み、コレを着用することもある――が、多くの場合徒労に終わる。<BR>往々にして【ブカブカ】を付帯状況とする。<BR>私的に萌える。(ぉ<BR><BR>現実世界でも稀(?)に女性が着用することはある。(例:自分(^^;))<BR><BR><BR>P.S.最近忙しくて顔を出せず、どうも済みません。m(__)m<BR>推薦入試で合格してれば、そろそろ復活………？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/11/21 00:34:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/11/21 00:34:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006270498utybum&id2=1002023656ucmwd&ff=p">APPEND 58</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006270498utybum_id2_1002023656ucmwd_ff_p.cgi">APPEND 58</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͂�y�Ԕсz�i��ʖ��h�j<BR>�E�⑫<BR>�P�D�u�哤�v�ł͂Ȃ��u��p���i�������j�v��p����ꍇ�������B<BR>�Q�D�u�F�t���Ă�\�ߍ�t�����A���̎��n�������тƂ��A�����p���Đ_�����s���v�𐳎��Ƃ���i�p��Ă��܂��܂������j�B<BR>�R�D�s�r���ɂƂ��ẮA����Ӗ��u���|�̐H���v�Ƃ�������B<BR><BR>���Ƃ��y�]�o���z<BR>�E�⑫<BR>�P�D�j�q���k�̓]�o�悪�u���؁v�u��p�v���̏ꍇ�͂s�r���̊m���͔��ɍ����B<BR>�Q�D�]�o�悪�uFrance�v�uMolocco�v�uThailand�v�uUSA�v���̏ꍇ�͌��������̏ꍇ�����蓾��B
+せきはん【赤飯】（一般名刺）<BR>・補足<BR>１．「大豆」ではなく「大角豆（ささげ）」を用いる場合も多い。<BR>２．「色付き米を予め作付けし、その収穫物を強飯とし、これを用いて神事を行う」を正式とする（廃れてしまいましたが）。<BR>３．ＴＳ娘にとっては、ある意味「恐怖の食物」とも言える。<BR><BR>いとこ【従姉妹】<BR>・補足<BR>１．男子生徒の転出先が「中華」「台湾」等の場合はＴＳ娘の確率は非常に高い。<BR>２．転出先が「France」「Molocco」「Thailand」「USA」等の場合は肩すかしの場合もあり得る。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2001/11/22 22:23:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>こうけい</strong>  <i>2001/11/22 22:23:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006435399kwjoby&id2=1002023656ucmwd&ff=p">APPEND 59</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006435399kwjoby_id2_1002023656ucmwd_ff_p.cgi">APPEND 59</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂����B���̃y�[�W�𒼃������Ă����񂾂���A���̊Ԃɂ��w�V�g�́`�x�\�l�b���A�b�v����Ă����ƂɋC�Â��܂���ł����B<BR>�g�b�v�����܂茩�ĂȂ������킽���������̂ł����A���̌f���ɂ��u������p�������e�n�߂܂��v�Ƃ��ЂƂ��ƘA���ق��������ł��c�B<BR>�ł͂킽�������̂������炽�߂ē��e�����Ă��炢�܂��B
+しまった。このページを直リンしてたもんだから、いつの間にやら『天使の～』十四話がアップされてたことに気づきませんでした。<BR>トップをあまり見てなかったわたしも悪いのですが、この掲示板にも「今から用語解説投稿始めます」とかひとこと連絡ほしかったです…。<BR>ではわたしもそのうちあらためて投稿させてもらいます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">����˂�</a></strong>  <i>2001/11/23 09:08:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">かわねぎ</a></strong>  <i>2001/11/23 09:08:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006474135qxdfrjj&id2=1002023656ucmwd&ff=p">APPEND 60</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006474135qxdfrjj_id2_1002023656ucmwd_ff_p.cgi">APPEND 60</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�X�J�[�g�y�����z<BR>(1)��ɕw�l���ŁA�E�G�X�g���牺���g������������̈ߕ��B�����E�`�Ȃǂɕω��������B�������ے�����Ƃ�������ߕ��ł���A�j��������𒅂鎖�͂܂������B<BR>(2)���R�͂�����Ȃ��s�r�����͒��p����̂����߂炤���A���͂������Ă���Ȃ��B�Z���X�J�[�g��Ƒ����̂��[���[���ɔY�܂���鎖�ɂȂ�B<BR>(3)�Ƃ͂����A�s�v�c�Ƃ��������s�r�������唼�ł���B<BR>(4)���b���h���i���j<BR>
+スカート【名詞】<BR>(1)主に婦人服で、ウエストから下半身をおおう筒状の衣服。長さ・形などに変化が多い。女性を象徴するとも言える衣服であり、男性がこれを着る事はまず無い。<BR>(2)当然はき慣れないＴＳっ娘は着用するのをためらうが、周囲が許してくれない。短いスカート丈と足元のすーすー感に悩まされる事になる。<BR>(3)とはいえ、不思議とすぐ慣れるＴＳっ娘が大半である。<BR>(4)リッ○ドム（爆）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:nasuka@df.mbn.or.jp" target="_blank">�l�n�m�c�n</a></strong>  <i>2001/11/23 10:15:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:nasuka@df.mbn.or.jp" target="_blank">ＭＯＮＤＯ</a></strong>  <i>2001/11/23 10:15:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006478140eldcn&id2=1002023656ucmwd&ff=p">APPEND 61</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006478140eldcn_id2_1002023656ucmwd_ff_p.cgi">APPEND 61</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̌f���ɂ��u������p�������e�n�߂܂��v�Ƃ��ЂƂ��ƘA���ق��������ł��c�B<BR><BR>�@�\���󂠂�܂���ł����B����ł͉��߂܂��āc�c<BR>�@�w�s�r�厫�T�E�]�����i���j�x�̕Ҏ[��{�i�J�n�������܂��B<BR>�@�p��A����A����A�c�b�R�~�i�΁j���𕝍L����W���܂��B<BR>�@�܂��A�u�����܂Ƃ߂�΂����񂶂�Ȃ����v�u�����������ނ�����񂶂�Ȃ����v�u����ȃ^�C�g���ǂ��ł��傤�v�Ȃǂ̈ӌ�������������΂��肪�����ł��B<BR>�@�܂��A�u�Ƃ肠�����r���o�ߕ������Ă݂����v�Ƃ������������́A���萔�ł����킽���̕��ɂ��A�����������Ȃ��ł��傤���B<BR>�@���̌f���ɃA�h���X�グ�Ă��������Ă��n�j�ł��B<BR><BR>�@����ł́A��낵�����肢���܂��B
+＞この掲示板にも「今から用語解説投稿始めます」とかひとこと連絡ほしかったです…。<BR><BR>　申し訳ありませんでした。それでは改めまして……<BR>　『ＴＳ大辞典・転辞苑（仮）』の編纂を本格開始いたします。<BR>　用語、解説、文例、ツッコミ（笑）等を幅広く募集します。<BR>　また、「こうまとめればいいんじゃないか」「こういう分類もあるんじゃないか」「こんなタイトルどうでしょう」などの意見もいただければありがたいです。<BR>　また、「とりあえず途中経過分を見てみたい」とおっしゃられる方は、お手数ですがわたしの方にご連絡いただけないでしょうか。<BR>　この掲示板にアドレス上げていただいてもＯＫです。<BR><BR>　それでは、よろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/11/24 23:33:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/11/24 23:33:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1006612387qilqr&id2=1002023656ucmwd&ff=p">APPEND 62</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1006612387qilqr_id2_1002023656ucmwd_ff_p.cgi">APPEND 62</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����y���傻���z<BR>�P�D�j���������̊i�D�����邱�ƁB<BR>�Q�D�̂����Ēj�̎q�ƌ��ʂ������̎q���A�����Ȃ�u���̎q�̊i�D�v�����āA�P�l�́u����v���u�������v�ɕς����ꍇ�A���X�ɂ��āu�������Ă���v�ȂǂƁA�c����ݓ��Ɍ����鎖���A���X����B<BR>�R�D����āA���͏��̎q���Ă���l�ł��A���������ߋ����������ɂ͋֊��ƂȂ�B<BR><BR>�X�J�[�g�y�������Ɓz<BR>�P�D���߂̈�B�����̍��̖����ߑ��Ɍ�����B���Ɍ���X�J�[�g�ƌĂ�ł��镨�́A�L�����b�g�͋R��p�A����ȊO�͏��тƉ��߂���Ă���B<BR>�Q�D�s�r���⋭���I���������́A���͂ɁA�����炵�����̂�I�΂���A�g�ɕt���������i�ꍇ�ɂ���Ă͏؋��ʐ^���B���A�閧���ɔ̔�����j�鎖�ɂȂ�̂���Ԃł���B<BR><BR>���ւ��y�������z����<BR>�P�D���߂����ւ��邱�ƁB���邢�͂��̒��߁B<BR>�Q�D�A���A��R�҂��p�ӂ���ꍇ�A���߂̓��e�́A������㵒p�S�������̂����蓾��B<BR><BR>���@�y�܂ق��z<BR>�P�D�l�q���z����͂�\�́B<BR>�Q�D���x�ȉȊw�Z�p�Ƒ卷�͂Ȃ��B<BR>�R�D���̔\�͂��g����l�𖂖@�g���ƌĂсA���̓��ł����̎q�̏ꍇ����ɖ��������Ƃ����B<BR><BR>���C�h�ymaid�z�p�E����<BR>�P�D�ƂɎd����G�p�W�̓��A�����̏ꍇ��maid-servant�܂��͒P��maid�ƌĂԁB�����~���߁A�G�F�i���������j�A�����ȂǂƂ������B<BR>�Q�D����̐����ɂ���������m�͑������A�����҂Ɍ��킹��ƁA�u��x�Ƃ�肽���Ȃ��v�����ł���B<BR><BR>���b�X���ylesson�z�p�E����<BR>�������̖ړI�̂��߂ɍs����u�K�A�u�`�A�P�����̂��ƁB���̓��e�ɂ��Ă͖���Ȃ��B
+女装【じょそう】<BR>１．男性が女性の格好をすること。<BR>２．故あって男の子と決別した女の子が、いきなり「女の子の格好」をして、１人称「おれ」を「あたし」に変えた場合、往々にして「女装している」などと、幼馴染み等に言われる事が、多々ある。<BR>３．よって、今は女の子している人でも、そういう過去を持つ女性には禁忌となる。<BR><BR>スカート【すかあと】<BR>１．着衣の一つ。多くの国の民族衣装に見られる。特に現代スカートと呼んでいる物は、キュロットは騎乗用、それ以外は女袴と解釈されている。<BR>２．ＴＳ娘や強制的女装っ娘は、周囲に、より可愛らしいものを選ばされ、身に付けさせられ（場合によっては証拠写真も撮られ、秘密裏に販売され）る事になるのが定番である。<BR><BR>着替え【きがえ】名詞<BR>１．着衣を取り替えること。あるいはその着衣。<BR>２．但し、第３者が用意する場合、着衣の内容は、相当に羞恥心を煽るものもあり得る。<BR><BR>魔法【まほう】<BR>１．人智を越える力や能力。<BR>２．高度な科学技術と大差はない。<BR>３．この能力を使える人を魔法使いと呼び、その内でも女の子の場合を特に魔女っ娘という。<BR><BR>メイド【maid】英・名詞<BR>１．家に仕える雑用係の内、女性の場合をmaid-servantまたは単にmaidと呼ぶ。お屋敷務め、雑色（ぞうしき）、下女などとも言う。<BR>２．これの制服にあこがれる御仁は多いが、実務者に言わせると、「二度とやりたくない」そうである。<BR><BR>レッスン【lesson】英・名詞<BR>ある特定の目的のために行われる講習、講義、訓練等のこと。その内容については問われない。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2001/12/09 17:50:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2001/12/09 17:50:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1007887802kphabu&id2=1002023656ucmwd&ff=p">APPEND 63</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1007887802kphabu_id2_1002023656ucmwd_ff_p.cgi">APPEND 63</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�w�ǉ��L�[���[�h�x<BR>�~�X�^�O�҂݁^�����i���E�j<BR><BR>�݂��y�~�X�z<BR>�P�D�p��ł̖��������̌h�́B�ŋ߂͏������ʂƂ������ƂŎg���Ȃ��Ȃ��Ă��Ă���炵���B<BR>�Q�D���s�B��ʓI�ȃC���[�W�Ƃ��ẮA�\�����ʎ��s�Ƃ��������A�P���Ȏ��s�A��������̎��s���������������B<BR>��Ã~�X�A�����~�X�A���̓~�X�Ȃǂ�����A���ꂪ�����łs�r���邱�Ƃ�����B���̏ꍇ�A�ӔC�̏��݂͖��炩�ɂ���Ȃ��܂܁A����ނ�ɂ���A�����ҁi��Q�ҁj�͊ۂߍ��܂��B<BR>�i��j<BR>�u��̂���͂ǂ��������Ƃ���I�v<BR>�u�ӂށA�ǂ����A����̔z���~�X�炵���B�^�E����1000�ʂ���1000�����ɂȂ��Ă���B�����ő��d�ʂ������͂����v<BR>�u�C�t����A���ꂮ�炢�I�@�����ǁA����Ȃ��ƂŁc�c�v<BR>�u�����A����͂���Ŗʔ��������f�[�^����ꂽ�v<BR>�u�ӂ�����ȁI�@�������ɖ߂��v<BR>�u����͖������v<BR>�u�ȁA�Ȃ񂾂��āH�v<BR>�u�ȒP�ɖ�̌��ʂ�ł������򂪂ł���΁A�N����J�͂��Ȃ��B���������āA���߂�B�������߂�����v<BR>�u���A���߂���āc�c�N�̂����ł����Ȃ����񂾂�I�@����Ȃɂ���������߂�ȁI�v<BR>�u�܂��A���̒��̔����͏������B�ʂɎ��ʂ킯�ł��Ȃ��B�t�ɒj�����������ł���B����ɁA�������s���Ď��ȂȂ����������ł��K�^�Ǝv��Ȃ���΂ȁB�����v���Ƃ��O�͍K�^�̏��_�Ɉ�����Ă�ȁv<BR>�u�����A���������ȁI�@�A���A�����̂ȁv<BR>�u�~�X�t�H�[�`�������B��肢���ƌ����ȁB�R�c�N�A���z�c�ꖇ�v<BR>�u�ӂ����Ă�ꍇ���I�v<BR>�u�ŏ��ɂӂ������̂͂��O����H�@�������A�r����������v<BR>�u�r���ǂ����Ƀg�����X�����񂾂낤��I�v<BR><BR>�݂��݁y�O�҂݁z<BR>���̖т̕҂ݕ��̈�B�I�[�\�h�b�N�X�ł͂��邪�A�����␔�Ȃǂ�ς��邱�Ƃɂ���ăo���G�[�V�����͖L�x�B���w�����͂���Ɗዾ�̃Z�b�g�łȂ���΂Ȃ�Ȃ��ƌ����@���͖������A�s�����ƂȂ����B<BR>�O�҂݂���ɂ͂�����x�̏C�����K�v�ƂȂ邽�߂ɁA�s�r���͂�������鎞�́A�����炭��J���Ă���Ɛ��������B�����āA����Ɋ���Ă���ƁA�u���[���A����ȂɎO�҂݂���肭�Ȃ��Ă��܂����v�ƌȂ̏�������Q�����ƂƂȂ�B<BR><BR>������i�������j�y�����i���E�j�z<BR>�s�r�ɂ��g�����Ⴍ�Ȃ鎖���������߁A���̈Ⴂ�Ɍ˘f���������y�����i�������B�������A���ۂɂ���������ӎ�����̂́A�l�Ƃ̑Ζʂ̎����l���݂ɕ��ꍞ�񂾎��Ȃǂł���Ǝv����B<BR>�P���ɋ^���̌�����ɂ͍a�i���j�ɗ�����΂������A���̏ꍇ�͏����Ɗo�傪�K�v�ƂȂ�B����Ȃ��Ɋ��������Ė�������ꍇ�͓{��Ɖ������ł��ꏊ�łȂ����A���������������A���߂Ă��ꂮ�炢�̎��n��������΂��܂�ɂ��߂������邩������Ȃ��B<BR><BR>�݂�����y�~�X�R���z<BR>���������ɂ��������������R���e�X�g�B�R����͞B���ŕK���ƌ����Ă����قǐ����R�����܂܂�Ă���B<BR>�s�r�L����������ꍇ�A�o��͋����ł���B�������A���₢��Ȃ�����D����~�������Ă������������B���̏o��҂ɂ��Ă݂�΂������f�ł���B<BR>�]�k�����A�~�X�s�r���R���e�X�g��������N���h�����������邩���Ă݂����B<BR><BR>�݂ɂ����[�Ɓy�~�j�X�J�[�g�z<BR>�䂪�G��̃X�J�[�g�B��ʂŌ���������̂̓^�C�g�Ȃ��̂΂��肾���A�C�̂������A�s�r���̓t���A�[�������肷�邱�Ƃ������A���h���ɉ������N���Ēp���������ڂɂ������Ƃ����񑩂���Ă���B���Ȃ݂ɁA�s�r��������i��Œ��p���鎖�͖ő��ɖ����̂ŁA����𒅂��邽�߂ɁA�s�r���̂����b�L�����͎����ǂɒ����Ȃ���΂Ȃ�Ȃ��B<BR><BR>�ۂɁ[�ā[��y�|�j�[�e�[���z<BR>���^�̈�B�㓪���̒��قǂ�����ѕӂ�܂ł̍����Ŕ��̖т���ɂ܂Ƃ߂āA�����ʂ�A�q�n�̐K���̂悤�ɐ��炷���^�B<BR>�����ځA�����Ȉ�ۂ�^�����C�����悭�������锯�^�B�����������Ȉ�ۂ�^����V���[�g�Ƒ傫���قȂ�̂́A���˂Ă���̂������ƃZ�~�����O�������O�w�A�ɂȂ�Ƃ���B<BR>�s�r���������͂̃L�����N�^�[�ɑ����悤�Ɋ�����B<BR><BR>���݁y���z<BR>���̖��ƌ����Ă��邪�A���̊��ɂ͋ߔN�A�E�F��������߂���ƈ������y���B<BR>�s�r���͎��͂ɉ��̂�����؂邱�Ƃ��֎~����A�L�΂����Ƃ����v����鎖�������B�����āA���̈����ŕ���������鎖�������B<BR><BR>�����ӂ��y�����z<BR>�s�r�����w���������ꍇ�A�w�Z�ȊO�ł��A���o�C�g�Ȃǂ�����΁A����@��Ɍb�܂��B<BR>�o���G�[�V�����͖L�x�ł��邪�A����ȐE�Ƃ̂��́i�Ō�w�A�X�`�����[�f�X�A�ޏ��A���W�Ȃǁj�������̂ŁA�����𒅂���͎̂���̋Ƃł���B�Ƃ͂����A�����ɂ��������͂���A�ʐ^�B�e�A�R�X�v���A�ϑ��A�����ւ������A��i�I�j�A�s�𗝂Ȃǂ̕��@������B�A���A���܂�P���ɂ���������ƁA�G�������Ȃ��Ɣ��̋ƂɂȂ肩�˂Ȃ��̂Œ��ӂ��K�v�B<BR><BR>�͂��Ё[��y�n�C�q�[���z<BR>�P�D��񂲁A�������̓�l�Ō������ꂽ�������˃R���r�B<BR>�Q�D�����Ƃ��ׂ������Ȃ��Ă���C�B�r�̔�����������C�����A����ɂ����s�͂������s����ŁA�����̏����ł��ŏ��͋�����������B�s�r���Ȃ珮�X�ł���B<BR>����ɂ́A���̂�낯��̂��G�����ĂыN�����Ƃ������Ă���B<BR><BR>�؂����񂱂����y�؂����񂱍���z<BR>�Ҋ֐߂ƕG�֐߂̏_���v������������B<BR>��{�I�Ƀ����O�X�J�[�g�i�������̓p���c���b�N�j�̎��̍�����ŁA�Ԉ���Ă��Z���X�J�[�g�̎��ɂ����̂ł͂Ȃ��B�����������Ȃ��悤�ɗ����オ��̂́A���܂茾�y����Ă��Ȃ����A�ӊO�ɓ���B<BR><BR>�Ȃ܂��y���O�z<BR>�ϐg�n�̂s�r�L�����͑��A���̖��O��M���ď����i�j���j���ɕύX����邪�A�Ă΂ꂽ���Ɉ�a���������Ȃ��悤�Ɍ��̖��O�̉����d�������ꍇ�������B���Ȃ݂ɁA���̏ꍇ�A�Â������O�������̂͗��s�Ƃ��������A��҂̎�ɂ��Ƃ��낪�����B<BR><BR>��ӂ��y�a���z<BR>���{�̖����ߑ��B�������A�������������ƒ������{�l�͌������Ă���B����ł��������Ղ͒����Ƃ����l�������B<BR>�s�r�ł̓o��͂��Ղ�̗��߂��A���w�̐U�葳���炢�B�������A��ԑ����̂͂s�r���̕��e�����l���̂��߂̐��ꒅ�𔃂��Ă��܂��\���ł̓o�ꂾ�낤�B<BR><BR>��������y��ҁz<BR>���̂�̍����C���N�ɂ��āA�G���̃y���ŕ��͂������l�B<BR>������i�ɋz���Ėڌ��肵�Ă���̂ŁA�����ƌ_�񂵂Ă��A�肢���O���猸�炳���\��������B<BR>��i�ɂ����Ă͐_�̂悤�ȑ��݂Ő����^�D�͎v���̂܂܂Ǝv������A���͌N����x�̑��݁B�������A���N���邱�Ƃ���������̂ŁA�킪�܂܂ȓo��l�������ɐU��񂳂�A�X�g���X�𗭂߂Ă��鎖�������B<BR>����ł��A�����̍D�݂̓o��l�����s�r�ł���Ƃ��������ׂ̈����ɁA����i��ł��̍��ɏA�����̂͌��₽�Ȃ��B<BR>���Ȃ݂ɁA�R���f�B�Ȃǂō쒆�ɓo�ꂷ�鎖�����邪�A�]��p�ɂɏo�Ă���̂̓l�^�؂ꖖ���Ǐ�ł���B<BR><BR>���Ƃ��y�]�o���z(�⑫�̕⑫�֑̎�)<BR>�֗������āA�s�r�e�E�G�ł͕p�ɂɗ��p����A�ǎ҂Ɂu�܂��A�]�o�����v�Ǝv���Ă��܂��B������A�����W���āA������������e�ʂɂ��Ă��ǎ҂ɂƂ��Ắu�܂��]�o�����v�ōς܂���Ă��܂��̂ŁA�Â��Ă��Â�Ȃ��Ă����ʂ͓����ł���B<BR><BR>�������y�ːЁz<BR>���Ȃ�d�v�ȏ��ނɂ�������炸�A�����΂߂̓��e�Ȃǂɂ��A��������Ə�����������Ă��܂����ށB�ߖ�����i�ł̓R���s���[�^�ւ̃n�b�L���O�Ȃǂŏ��������邱�Ƃ�����B<BR>���ۖ��A���������邱�Ƃ�����Ȃ��߂ɁA���̎�i���������������Ă��Ă͔���̂ŁA���s�ł�������ƍς܂��Ă���͔̂閧�ł���B<BR>
+『追加キーワード』<BR>ミス／三つ編み／視線（視界）<BR><BR>みす【ミス】<BR>１．英語での未婚女性の敬称。最近は女性差別ということで使われなくなってきているらしい。<BR>２．失敗。一般的なイメージとしては、予期せぬ失敗というよりも、単純な失敗、うっかりの失敗をさす事が多い。<BR>医療ミス、実験ミス、入力ミスなどがあり、それが原因でＴＳすることがある。その場合、責任の所在は明らかにされないまま、うやむやにされ、当事者（被害者）は丸め込まれる。<BR>（例）<BR>「一体これはどういうことだよ！」<BR>「ふむ、どうやら、試薬の配合ミスらしい。タウ○ン1000μｇが1000ｍｇになっている。道理で総重量が多いはずだ」<BR>「気付けよ、それぐらい！　だけど、そんなことで……」<BR>「だが、これはこれで面白い実験データが取れた」<BR>「ふざけるな！　早く元に戻せ」<BR>「それは無理だ」<BR>「な、なんだって？」<BR>「簡単に薬の効果を打ち消す薬ができれば、誰も苦労はしない。したがって、諦めろ。俺も諦めたから」<BR>「あ、諦めろって……誰のせいでこうなったんだよ！　そんなにあっさり諦めるな！」<BR>「まあ、世の中の半分は女性だ。別に死ぬわけでもなし。逆に男よりも長生きできる。それに、実験失敗して死ななかっただけでも幸運と思わなければな。そう思うとお前は幸運の女神に愛されてるな」<BR>「ああ、そうかもな！　但し、未婚のな」<BR>「ミスフォーチュンか。上手いこと言うな。山田君、座布団一枚」<BR>「ふざけてる場合か！」<BR>「最初にふざけたのはお前だろ？　しかし、Ｓが一つ多いぞ」<BR>「Ｓがどこかにトランスしたんだろうよ！」<BR><BR>みつあみ【三つ編み】<BR>髪の毛の編み方の一つ。オーソドックスではあるが、太さや数などを変えることによってバリエーションは豊富。文学少女はこれと眼鏡のセットでなければならないと言う法律は無いが、不文律となりつつある。<BR>三つ編みするにはある程度の修練が必要となるために、ＴＳ娘はこれをする時は、おそらく苦労していると推測される。そして、それに慣れてくると、「あーあ、こんなに三つ編みが上手くなってしまった」と己の順応性を嘆くこととなる。<BR><BR>しせん（しかい）【視線（視界）】<BR>ＴＳにより身長が低くなる事が多いため、その違いに戸惑う事を言及する作品が多い。しかし、実際にそれを強く意識するのは、人との対面の時か人込みに紛れ込んだ時などであると思われる。<BR>単純に疑似体験するには溝（穴）に落ちればいいが、その場合は準備と覚悟が必要となる。それなしに期せずして味わった場合は怒りと悔しさでそれ所でないが、そういう時こそ、せめてそれぐらいの収穫が無ければあまりにも悲しすぎるかもしれない。<BR><BR>みすこん【ミスコン】<BR>未婚女性による美しさを競うコンテスト。審査基準は曖昧で必ずと言っていいほど水着審査が含まれている。<BR>ＴＳキャラがいる場合、出場は強制である。しかし、いやいやながらも優勝を掻っ攫っていく事が多い。他の出場者にしてみればいい迷惑である。<BR>余談だが、ミスＴＳ娘コンテストをしたら誰が栄冠を勝ち得るか見てみたい。<BR><BR>みにすかーと【ミニスカート】<BR>丈が膝上のスカート。一般で見かけるものはタイトなものばかりだが、気のせいか、ＴＳ娘はフレアーだったりすることが多く、無防備に下着を晒して恥ずかしい目にあうことがお約束されている。ちなみに、ＴＳ娘が自ら進んで着用する事は滅多に無いので、それを着せるために、ＴＳ娘のお世話キャラは手練手管に長じなければならない。<BR><BR>ぽにーてーる【ポニーテール】<BR>髪型の一つ。後頭部の中ほどから旋毛辺りまでの高さで髪の毛を一つにまとめて、文字通り、子馬の尻尾のように垂らす髪型。<BR>見た目、活発な印象を与え元気娘がよくさせられる髪型。同じく活発な印象を与えるショートと大きく異なるのは、束ねているのを解くとセミロングかロングヘアになるところ。<BR>ＴＳ娘よりも周囲のキャラクターに多いように感じる。<BR><BR>かみ【髪】<BR>女の命と言われているが、その割には近年、脱色したり染めたりと扱いが軽い。<BR>ＴＳ娘は周囲に何故か髪を切ることを禁止され、伸ばすことを強要される事が多い。そして、その扱いで文句を言われる事も多い。<BR><BR>せいふく【制服】<BR>ＴＳ娘が学生だった場合、学校以外でもアルバイトなどをすれば、着る機会に恵まれる。<BR>バリエーションは豊富であるが、特殊な職業のもの（看護婦、スチュワーデス、巫女、舞妓など）も多いので、それらを着せるのは至難の業である。とはいえ、何事にも逃げ道はあり、写真撮影、コスプレ、変装、着せ替え競争、趣味（！）、不条理などの方法がある。但し、あまり単純にそれらをすると、萌えが少ないと批難の業になりかねないので注意が必要。<BR><BR>はいひーる【ハイヒール】<BR>１．りんご、ももこの二人で結成された女性漫才コンビ。<BR>２．かかとが細く高くなっている靴。脚の美しく見せる靴だが、それによる歩行はすごく不安定で、生粋の女性でも最初は苦戦を強いられる。ＴＳ娘なら尚更である。<BR>一説には、そのよろけるのが萌えを呼び起こすとも言われている。<BR><BR>ぺったんこすわり【ぺったんこ座り】<BR>股関節と膝関節の柔軟性を要求される座り方。<BR>基本的にロングスカート（もしくはパンツルック）の時の座り方で、間違っても短いスカートの時にやるものではない。下着が見えないように立ち上がるのは、あまり言及されていないが、意外に難しい。<BR><BR>なまえ【名前】<BR>変身系のＴＳキャラは大抵、元の名前を弄って女性（男性）名に変更されるが、呼ばれた時に違和感を感じないように元の名前の音を重視される場合が多い。ちなみに、その場合、凝った名前が多いのは流行というよりも、作者の趣味によるところが多い。<BR><BR>わふく【和服】<BR>日本の民族衣装。しかし、それをきっちりと着れる日本人は激減している。それでも冠婚葬祭は着物という人が多い。<BR>ＴＳでの登場はお祭りの浴衣か、初詣の振り袖ぐらい。しかし、一番多いのはＴＳ娘の父親が成人式のための晴れ着を買ってしまう暴走での登場だろう。<BR><BR>さくしゃ【作者】<BR>おのれの魂をインクにして、萌えのペンで文章を書く人。<BR>魂が作品に吸われて目減りしているので、悪魔と契約しても、願いを三つから減らされる可能性がある。<BR>作品においては神のような存在で生死与奪は思いのままと思いきや、実は君主程度の存在。しかも、名君たることを強いられるので、わがままな登場人物たちに振り回され、ストレスを溜めている事が多い。<BR>それでも、自分の好みの登場人物をＴＳできるという特権の為だけに、自ら進んでその座に就くものは後を絶たない。<BR>ちなみに、コメディなどで作中に登場する事もあるが、余り頻繁に出てくるのはネタ切れ末期症状である。<BR><BR>いとこ【従姉妹】(補足の補足の蛇足)<BR>便利すぎて、ＴＳＦ界隈では頻繁に利用され、読者に「また、従姉妹か」と思われてしまう。これをアレンジして、もう一歩遠い親戚にしても読者にとっては「また従姉妹か」で済まされてしまうので、凝っても凝らなくても結果は同じである。<BR><BR>こせき【戸籍】<BR>かなり重要な書類にもかかわらず、役所勤めの肉親などにより、あっさりと書き換えされてしまう書類。近未来作品ではコンピュータへのハッキングなどで書き換えることもある。<BR>実際問題、書き換えることが困難なために、その手段をいちいち書いていては疲れるので、数行であっさりと済ましているのは秘密である。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200112/20210702/dictionary.htm" target="_blank">���ł�����ɂ͂������N���b�N�B</a></strong>  <i>2001/12/26 14:26:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200112/20210702/dictionary.htm" target="_blank">第一版を見るにはここをクリック。</a></strong>  <i>2001/12/26 14:26:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009344362mlbnk&id2=1002023656ucmwd&ff=p">APPEND 64</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009344362mlbnk_id2_1002023656ucmwd_ff_p.cgi">APPEND 64</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�s�r�厫�T�w�]�����i���j�x�̑��ł��A�b�v���܂����B<BR>�@�p�������ɂ����͂��Ă����������F�l�A���肪�Ƃ��������܂����B<BR>�@��W�͈������������Ȃ��Ă���܂��̂ŁA���ꂩ�����낵�����肢�������܂��B<BR>�@�܂��A�u�����Ă��邼�v�Ƃ������̂�����܂�����A���m�点���������B
+　ＴＳ大辞典『転辞苑（仮）』の第一版をアップしました。<BR>　用語解説等にご協力してくださった皆様、ありがとうございました。<BR>　募集は引き続きおこなっておりますので、これからもよろしくお願いいたします。<BR>　また、「抜けているぞ」というものがありましたら、お知らせください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/12/27 19:32:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/12/27 19:32:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009449154mdlqrmv&id2=1002023656ucmwd&ff=p">APPEND 65</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009449154mdlqrmv_id2_1002023656ucmwd_ff_p.cgi">APPEND 65</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����A�܂Ƃ܂�܂����ˁI�@�Ҏ[�A�����ꂳ�܂ł��[�B�܂�������Ȃ����ځA������ɏ����Ă���낵���ł��傤���B<BR>���i�q�j���k�k����i���j�����Ɓl�F<BR>�@�s�r�����́A���ƈِ��̃N���X���C�g�����B�ޏ������̎x���𓾂��邩���A�s�r�����̊w�Z���������߂�ƌ����悤�B���ꂱ�ꕞ���𒍈ӂ����悤�Ȃ�Q�O�_�A�������ɗU��ꂽ��T�O�_�A�ꏏ�ɂ��������łW�O�_�A�X�ߎ��ł��킳�b�ɉԂ��炩����ꂽ��A�P�O�O�_���_�ł���B
+　おお、まとまりましたね！　編纂、おつかれさまですー。まだ解説がない項目、こちらに書いてもよろしいでしょうか。<BR>女（子）生徒〔じょ（し）せいと〕：<BR>　ＴＳっ娘の、もと異性のクラスメイトたち。彼女たちの支持を得られるかが、ＴＳっ娘の学校生活を決めると言えよう。あれこれ服装を注意されるようなら２０点、演劇部に誘われたら５０点、一緒にお買い物で８０点、更衣室でうわさ話に花を咲かせられたら、１００点満点である。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��</strong>  <i>2001/12/27 21:22:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>尸</strong>  <i>2001/12/27 21:22:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009455769nxfvtq&id2=1002023656ucmwd&ff=p">APPEND 66</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009455769nxfvtq_id2_1002023656ucmwd_ff_p.cgi">APPEND 66</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǉ��̃L�[���[�h<BR><BR>���A���H���c�s�r�̗��R�Ɉ�w�I�E�Ȋw�I�ȈӖ��t�������ď����b�B�i��@���A�z�j<BR>�@�@�@�@�@�@��w�I�E�Ȋw�I�ȈӖ��t���̖����b�i�K�i�����A���@���j���X�[�p�[�n�Ɓc����Ȃ��B<BR><BR>���ݕϐg�c���݂��̐g�̂�����̎p�ɕς�邱�ƁB���X�ɕς���Ă����V�[���͂��Ȃ�_�[�N�ł���B�I����Ă��܂��Ƃ����̓���ւ�ɂȂ�B<BR>�w����ւ�x�̍��Q��<BR><BR>�����ϐg�c�̂̈ꕔ�����ς�邱�ƁB���E�ҁE��Ȃǈꕔ���������ς���Ă���͖̂T���猩��ƁA���ꂵ���B���S�ɕς���ĂĂ��܂��΂����̕ϐg�B<BR>�w�ϐg�x�̍��Q��<BR><BR>���J�L�R�ł����A����Ȃ���łǂ��ł��傤���H
+追加のキーワード<BR><BR>リアル路線…ＴＳの理由に医学的・科学的な意味付けをして書く話。（例　半陰陽）<BR>　　　　　　医学的・科学的な意味付けの無い話（階段落ち、魔法等）をスーパー系と…言わない。<BR><BR>相互変身…お互いの身体が相手の姿に変わること。徐々に変わっていくシーンはかなりダークである。終わってしまうとただの入れ替りになる。<BR>『入れ替り』の項参照<BR><BR>部分変身…体の一部分が変わること。胸・股・顔など一部分だけが変わっているのは傍から見ると、見苦しい。完全に変わっててしまえばただの変身。<BR>『変身』の項参照<BR><BR>初カキコですが、こんなもんでどうでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�A���t�@���t�@</strong>  <i>2001/12/28 20:29:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>アルファルファ</strong>  <i>2001/12/28 20:29:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009538956lskqf&id2=1002023656ucmwd&ff=p">APPEND 67</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009538956lskqf_id2_1002023656ucmwd_ff_p.cgi">APPEND 67</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ȁi�̂��j�ǂ����y���i�̎q�j���m�z<BR>���̎q���D���Ȏ��Ƃ��ẮA���̎q���_�u���łƂĂ��������B<BR>���ǁA�Ȃ����l�C���Ȃ��B
+おんな（のこ）どうし【女（の子）同士】<BR>女の子が好きな私としては、女の子がダブルでとても嬉しい。<BR>けど、なぜか人気がない。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/29 03:07:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/29 03:07:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009562833ripjl&id2=1002023656ucmwd&ff=p">APPEND 68</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009562833ripjl_id2_1002023656ucmwd_ff_p.cgi">APPEND 68</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�e�F[����䂤]<BR>�P�D���i�͑a���ł��������Ƃ��ɂ͋삯���Ă���鑶�݁B<BR>�Q�D�������A�ŋ߂͍������Ƃ��ɑ��k������������Ƃ������Ƃ��Ȃ��Ȃ�ꍇ�ł������ĂԂ��Ƃ�����B<BR>�R�D�s�r�ȑO�͔ގ��ޏ��̊֌W�������͂��������̂Ɂc�B<BR><BR>
+親友[しんゆう]<BR>１．普段は疎遠でも困ったときには駆けつけてくれる存在。<BR>２．ただし、最近は困ったときに相談を持ちかけるとさっさといなくなる場合でもそう呼ぶことがある。<BR>３．ＴＳ以前は彼氏彼女の関係だったはずだったのに…。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2001/12/30 10:11:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2001/12/30 10:11:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1009674698tqlqun&id2=1002023656ucmwd&ff=p">APPEND 69</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1009674698tqlqun_id2_1002023656ucmwd_ff_p.cgi">APPEND 69</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƃ�܂Ƃ߂���ꂳ�܂ł��B����ǉ����܁`���B<BR><BR>�i�C�e�B�k�Ȃ��Ă��l<BR>�P�F�A�Q���ɒ��p����ߗށB<BR>�Q�F�t�������t�����l�O���W�F�̔��G��Ɋ��Ԃ�߂�p�ɖG����B<BR>�R�FT�V���c��Y�V���c�ƃV���[�c�����̖��h���Ȏp�ɂ��G����B<BR>�S�F�Ԃ��Ԃ��̃X�g���C�v���p�W���}(�j����)�̌��N�I�Ȏp�ɂ��G����B<BR>�T�F���ۂ̓X�E�F�b�g�ނ��������A���Ȍ����͂����Ė��������B<BR><BR>�E�F�C�g���X�k�������Ƃꂷ�l<BR>�P�F���H�X�̏����X���B<BR>�Q�FTS�����͉������������������ŏΊ��U��܂����Ƃ����v�����B<BR>�R�F�Ζ����ɂ��K�𕏂ł�ꂽ��X�J�[�g��`�����C�x���g����������B�ƍ߂Ȃ̂Ŏ��ۂɂ���Ă͂����Ȃ��B<BR><BR>�����k����Ȃ�l<BR>�P�F�����p�̌��������{�݁B<BR>�Q�F�j�ɂƂ��Ă͓���̒n�B<BR>�R�FTS�����ɂƂ��Ă͌���y�����ƌ�����p�������������˂��銋���̒n�B<BR><BR>�X�ߎ��k���������l<BR>�P�F�����{�݂ȂǂŒ��ւ��邽�߂̕����B<BR>�Q�FTS�����͉����̕i�]��⋹�̑傫����ׂȂǂ̐���ɑ����B<BR>�R�F���̎q�̌�����ڂ̓�����ɂ��ď����s�M�ɂȂ�ꍇ������B<BR><BR>�閧�k�Ђ݂l<BR>�P�FTS�����͑����̏ꍇ�A���̂�閧�ɂ��Ă���B<BR>�Q�F�V���A�X�nTS�ł́A�F��֌W�����̃X�e�b�v�ɐi�߂邽�߂̃G�b�Z���X�̂ЂƂB<BR>�R�F�M���O�nTS�ł́A�v��������΂ꂻ���ɂȂ�������m�̎�����������Ə΂��̃G�b�Z���X�̂ЂƂB<BR>�S�FTS�������Ƃő���̔閧��m��Ƃ����̂��G���ȓW�J�B���͑����TS�҂������Ƃ����I�`���H�Ɍ�����B<BR><BR>�����ڒǉ�<BR><BR>�]�����u�k�Ă񂻂��������l<BR>�P�F���̂��u���Ɉړ������鑕�u�B<BR>�Q�F�j��l�Ŏg�����ꍇ�A��`�q�ɕψق������ď��̎q�ɂȂ�B<BR>�R�F�j����l�Ŏg�����ꍇ�A�]���̕s��Ő��_������ւ��B<BR>�S�F���������ꍞ�񂾎��́A�]���f�[�^�����M���ăP���m�����ɂȂ�B<BR>
+とりまとめお疲れさまです。解説追加しま～す。<BR><BR>ナイティ〔ないてぃ〕<BR>１：就寝時に着用する衣類。<BR>２：フリルが付いたネグリジェの肌触りに顔を赤らめる姿に萌える。<BR>３：TシャツやYシャツとショーツだけの無防備な姿にも萌える。<BR>４：ぶかぶかのストライプ柄パジャマ(男物可)の健康的な姿にも萌える。<BR>５：実際はスウェット類も多いが、野暮な現実はあえて無視される。<BR><BR>ウェイトレス〔うぇいとれす〕<BR>１：飲食店の女性店員。<BR>２：TSっ娘は可愛さを強調した制服で笑顔を振りまくことを強要される。<BR>３：勤務中にお尻を撫でられたりスカートを覗かれるイベントが発生する。犯罪なので実際にやってはいけない。<BR><BR>女湯〔おんなゆ〕<BR>１：女性用の公共入浴施設。<BR>２：男にとっては憧れの地。<BR>３：TSっ娘にとっては見る楽しさと見られる恥ずかしさが激突する葛藤の地。<BR><BR>更衣室〔こういしつ〕<BR>１：公共施設などで着替えるための部屋。<BR>２：TSっ娘は下着の品評会や胸の大きさ比べなどの洗礼に遭う。<BR>３：女の子の現実を目の当たりにして女性不信になる場合もある。<BR><BR>秘密〔ひみつ〕<BR>１：TSっ娘は多くの場合、正体を秘密にしている。<BR>２：シリアス系TSでは、友情関係を次のステップに進めるためのエッセンスのひとつ。<BR>３：ギャグ系TSでは、思いっきりばれそうになったり周知の事実だったりと笑いのエッセンスのひとつ。<BR>４：TSしたことで相手の秘密を知るというのも萌えな展開。実は相手もTS者だったというオチも稀に見られる。<BR><BR>○項目追加<BR><BR>転送装置〔てんそうそうち〕<BR>１：物体を瞬時に移動させる装置。<BR>２：男一人で使った場合、遺伝子に変異が生じて女の子になる。<BR>３：男女二人で使った場合、転送の不具合で精神が入れ替わる。<BR>４：動物が紛れ込んだ時は、転送データが混信してケモノっ娘になる。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2002/01/06 01:29:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2002/01/06 01:29:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1010248161cflgh&id2=1002023656ucmwd&ff=p">APPEND 70</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1010248161cflgh_id2_1002023656ucmwd_ff_p.cgi">APPEND 70</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[���]���o����Ɖ���̕����@<BR>�P�j���X�g�^�O���g���i�P�j<BR>�@���o����<BR>�@�@�P�F����`�B�Q�F����a�B�c�B<BR><BR>�Q�j�ԍ��t�����X�g�^�O���g��<BR>�@���o����<BR>�@�@1�F����`�B<BR>�@�@2�F����a�B<BR>�@�@...�F�c�B<BR><BR>�R�j�\�`���ɂ���B<BR>�@�Q�Q�Q�Q�Q�Q�Q�Q<BR>�@���o���� | ����B<BR>�@�`�`�`�`�`�`�`�`<BR>�S�j���̂܂܁B
+[提案]見出し語と解説の分離法<BR>１）リストタグを使う（１）<BR>　見出し語<BR>　　１：解説Ａ。２：解説Ｂ。…。<BR><BR>２）番号付きリストタグを使う<BR>　見出し語<BR>　　1：解説Ａ。<BR>　　2：解説Ｂ。<BR>　　...：…。<BR><BR>３）表形式にする。<BR>　＿＿＿＿＿＿＿＿<BR>　見出し語 | 解説。<BR>　～～～～～～～～<BR>４）そのまま。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/01/06 19:47:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/01/06 19:47:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1010314072muyhwk&id2=1002023656ucmwd&ff=p">APPEND 71</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1010314072muyhwk_id2_1002023656ucmwd_ff_p.cgi">APPEND 71</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�K�i�����z<BR>1�F�w�V��g�x���ނƂ����h���}�ɂ�����L���Ȍ�����B<BR>�w�r�c�������x�Ƃ����j���Ɋ�Â��L���V�[���B<BR>2�F�Ώۂ̐l�Ԃ����������Ƃ��A�_�Ђ̊K�i����˂����Ƃ����B<BR>�ʏ́wTS�����x<BR>�@�f��w�]�Z���x�����l�^
+【階段落ち】<BR>1：『新撰組』を題材としたドラマにおける有名な見せ場。<BR>『池田屋騒動』という史実に基づく有名シーン。<BR>2：対象の人間を美少女もろとも、神社の階段から突き落とす事。<BR>通称『TS落し』<BR>　映画『転校生』が元ネタ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2002/01/06 23:46:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2002/01/06 23:46:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1010328411ewntsv&id2=1002023656ucmwd&ff=p">APPEND 72</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1010328411ewntsv_id2_1002023656ucmwd_ff_p.cgi">APPEND 72</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�Z�[���[���z<BR>�P�F�����E���v�E�D�����B�i��낪�l�p���݁˃Z�[���[�J���[�͏W���p�ɍ̗p����Ă���j<BR>�Q�F���q�w���i��Ƃ��Ē��E���Z�B�܂�ɏ��w�Z�E��w������j�̐����B���͐����������{�鍑�����Ȃ����q�̐����ɍ̗p�����B�i�l�݂̊w���������l�ł���j<BR>�R�F�w���q���@�֏e�����ꍇ�̓��U���B<BR>�S�F�ŋ߂͐퓬���ł�����B�˃Z�[�����[���Q��<BR>�T�F�w���̂s�r�����͐������u���U�[�ł����Ă��A�K�����̕�����x�͒���������B
+【セーラー服】<BR>１：水兵・水夫・船員服。（後ろが四角い襟⇒セーラーカラーは集音用に採用されている）<BR>２：女子学生（主として中・高校。まれに小学校・大学もある）の制服。元は水兵服を大日本帝国文部省が女子の制服に採用した。（詰襟の学生服も同様である）<BR>３：婦女子が機関銃を持つ場合の特攻服。<BR>４：最近は戦闘服でもある。⇒セー○ムーン参照<BR>５：学生のＴＳっ娘は制服がブレザーであっても、必ずこの服を一度は着させられる。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2002/02/20 18:02:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2002/02/20 18:02:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1014195739vavlos&id2=1002023656ucmwd&ff=p">APPEND 73</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1014195739vavlos_id2_1002023656ucmwd_ff_p.cgi">APPEND 73</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v�X�ɉ�����E�E�E<BR>���ڐA���F�����̏ꍇ�A�j���ɂȂ����̂��l�ߍ���ŏ����Ɏd�グ��s�ׁB���΂ɓE�o������邱�Ƃ͏��Ȃ��B<BR>���^�����F��҂̓s���ɂ���ĕς��o��l���ɍ~�肩����o���������A�T�ˍs��������͓����������肷��B<BR>��������F�^�J���W�F���k�ƃt�@���̊y�����ЂƂƂ��i�d�J�p��j�F����I�I<BR>�����]���F�팱�҂𐸐_�I�ɔj�󂵁A�V���Ȏ����A���t����s�ׁB�\�͓I�Ȏ�i�̑��ɁA�{�l�̊�]�������o���Ă�����������B�����g�߂Ȏҁi���ɕ�A�o�j�ɂ���čs����ƌ��ʓI�ȏꍇ����B�܂��A�팱�҂��C�t���ʂ����Ɏ{�p�҂̈Ӑ}�ǂ���ɂȂ��Ă��邱�Ƃ�����B<BR>���̎����F�ϐg���Ă��܂����ꍇ�̌�����̏퓅��̈��<BR>���l�����F�j���ł��邱�Ƃ�������Ȃ��㔼�g�l�ԉ����g���̐������B�㔼�g�Ɖ����g���t�̏ꍇ�͋��l�A�Y�̏ꍇ�͔����l�Ƃ�����B<BR>�i�ٍ�u�l���̗܁v�u�C�Ɋ҂���v�j<BR>���r�f�I���F��L���]�̓���Ȃǂɗp��������́B�ŋ߂͂���ɐi�����ĉf�����̂��̂ɂ���Ȃ���ʂ�����΂������E�E�E�E<BR>���s���N�n�E�X���F���Ă̓d�J�t�@���̍s��������ƌ���ꂽ�u�����h�B�G�ɕ`�����悤�ȏ�����̊��ɈӊO�ƍ����B<BR>�����_�с��F�����l���Z���l���s�r����Ɖ��̂��Ȃ��Ȃ��Ă��܂����́B�z���g�͎���ꂪ�ʓ|�Ȃ̂ɁE�E�E<BR><BR>�Ƃ����킯�ň�ǉ���<BR>������n��<BR>�{�l�̈ӎv�Ɋ֌W�Ȃ����l�̈Ӑ}�i�ꍇ�ɂ�舫�Ӂj�ɂ��A�����I�ɕϐg��������b�̃W�������B�{�l���C�t���Ă��Ȃ��ꍇ������B<BR><BR>
+久々に解説を・・・<BR>＜移植＞：多くの場合、男性にないものを詰め込んで女性に仕上げる行為。反対に摘出が語られることは少ない。<BR>＜運命＞：作者の都合によって変わる登場人物に降りかかる出来事だが、概ね行き着く先は同じだったりする。<BR>＜お茶会＞：タカラジェンヌとファンの楽しいひととき（ヅカ用語）：失礼！！<BR>＜洗脳＞：被験者を精神的に破壊し、新たな自我を植え付ける行為。暴力的な手段の他に、本人の願望を引き出してやるやり方もある。ごく身近な者（特に母、姉）によって行われると効果的な場合あり。また、被験者も気付かぬうちに施術者の意図どおりになっていることもある。<BR>＜体質＞：変身してしまった場合の言い訳の常套句の一つ<BR>＜人魚＞：男性であることが許されない上半身人間下半身魚の生き物。上半身と下半身が逆の場合は魚人、雄の場合は半魚人といわれる。<BR>（拙作「人魚の涙」「海に還る日」）<BR>＜ビデオ＞：上記洗脳の道具などに用いられるもの。最近はさらに進化して映像そのものにさらなる効果があるばあいも・・・・<BR>＜ピンクハウス＞：かつてはヅカファンの行き着く先と言われたブランド。絵に描いたような少女趣味の割に意外と高い。<BR>＜ムダ毛＞：薄い人も濃い人もＴＳすると何故かなくなってしまうもの。ホントは手入れが面倒なのに・・・<BR><BR>というわけで一つ追加を<BR>＜やられ系＞<BR>本人の意思に関係なく他人の意図（場合により悪意）により、強制的に変身させられる話のジャンル。本人が気付いていない場合もある。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2002/02/24 23:17:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2002/02/24 23:17:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1014560224jcxtnfq&id2=1002023656ucmwd&ff=p">APPEND 74</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1014560224jcxtnfq_id2_1002023656ucmwd_ff_p.cgi">APPEND 74</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���łɒǋL<BR>�i�����Ă�{�l�������Ȃ���y����ł�E�E�E�j<BR>�����]��<BR>�s�r�̏ꍇ�͐��_�I�j������j��������̓X�|�C�����A��������A���t����s�ׂƂ��čs���邱�Ƃ������B���̏ꍇ�{�����R�ł��邩�Ɋւ�炸�u�{�l�����炩���ߎ����Ă�����]�v�Ȃǂƌ����Ĕ팱�҂̕��͐M�����݁A���̂܂ܓ��̂����������Ă��܂��B�����Ă����������Ă���^�����͂����肵���ꍇ���t�Ɋ�񂾂�A�{�p�҂Ɋ��ӂ��Ă��܂��قǊ��S�ɐ��]����Ă��܂��ꍇ�������B
+ついでに追記<BR>（書いてる本人が書きながら楽しんでる・・・）<BR>＜洗脳＞<BR>ＴＳの場合は精神的男性性を破壊もしくはスポイルし、女性性を植え付ける行為として行われることが多い。大抵の場合本当か嘘であるかに関わらず「本人があらかじめ持っていた願望」などと言われて被験者の方は信じ込み、そのまま肉体も女性化してしまう。そしていい加減してから真相がはっきりした場合も逆に喜んだり、施術者に感謝してしまうほど完全に洗脳されてしまう場合が多い。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2002/03/08 22:42:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2002/03/08 22:42:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1015594956todixq&id2=1002023656ucmwd&ff=p">APPEND 75</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1015594956todixq_id2_1002023656ucmwd_ff_p.cgi">APPEND 75</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�j�d�a�n����F<BR>�������Ă�{�l�������Ȃ���y����ł�E�E�E<BR><BR>�@���������Ă���������Ƃ��肪�����ł��B<BR>�@���낻����ł��A�b�v���[�h�������Ǝv���Ă��܂��̂ŁA�F�l�A�ӂ���Ă��Q�����������B
+　ＫＥＢＯさん：<BR>＞書いてる本人が書きながら楽しんでる・・・<BR><BR>　そう言っていただけるとありがたいです。<BR>　そろそろ第二版をアップロードしたいと思っていますので、皆様、ふるってご参加ください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:s-ike@horae.dti.ne.jp" target="_blank">MC119</a></strong>  <i>2002/03/11 06:13:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1015794837eqngt&id2=1002023656ucmwd&ff=p">APPEND 76</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1015794837eqngt_id2_1002023656ucmwd_ff_p.cgi">APPEND 76</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂ꂩ���m���܂�ς��n<BR><BR>�����́u���񂾂�I���v�BTS�E�́u����ł���n�܂�v<BR><BR><BR>�l�R�m�L�n<BR><BR>�^�\�t�g�В��E�E�E�@�Q�l�F���l�\�t�g�u�w�|�������������O�`�v<BR>
+うまれかわり［生まれ変わり］<BR><BR>現実は「死んだら終わり」。TS界は「死んでから始まり」<BR><BR><BR>ネコ［猫］<BR><BR>某ソフト社長・・・　参考：同人ソフト「Ｘ－ｃｈａｎｇｅ外伝」<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����Ƃ�</strong>  <i>2002/03/28 12:51:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>西さとる</strong>  <i>2002/03/28 12:51:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017287512yggpvm&id2=1002023656ucmwd&ff=p">APPEND 77</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017287512yggpvm_id2_1002023656ucmwd_ff_p.cgi">APPEND 77</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�o�j�[�K�[���z<BR>�@�́A�A�����J�̂Ƃ���i�C�g�N���u�i�`�F�[���X�j�ɂčl�Ă��ꂽ�A���Z�N�V�[�Ȉߑ��𒅂������̂��ƁB�s�o�b�N�ɓ��������n�C���O�A���l�N�^�Cand�J���[�A�E�T�M�̎��Ɣ��������ǂ������肪�����B�ߔN�A���̈ߑ��𒅂����鏗���ƁA�����̔ޏ��ɒ���������j���������Ă���B<BR><BR>�y�~�j�X�J�z<BR>�@�s�r�����Ɏ��͂�������������̂̕M���ŁA��������Ԃő��҂��P�Ocm�ȏ�I�o����X�J�[�g�̂��ƁB���R�Ȃ�����̏ꍇ�A�{�l�͒�������Ȃ��B�s�r�������i��ł���𒅂�悤�ɂȂ�����A���Ƃ��Ă̎����ɖڊo�߂����A�j�ɖ߂邱�Ƃ�������߂��ƌ��ėǂ��B<BR><BR>�y���I�^�[�h�z<BR>�@������p�́A�g�̂ɂ҂�����Ƃ����㉺��̌^�̉^�����B���X�̓o���G�̗��K�����������A���̓����₷������A��ɂ͏��q�̑̑��I�肪�p����悤�ɂȂ����B<BR>�@����Ɛg�̂̐����ی����ɂȂ�Ƃ��납��A�ߔN�͏����̐F�����������邽�߂̈ߑ��Ƃ��ėp�����邱�Ƃ������A������F���ۂ������������߂ɂ���𒅂鏗�������Ȃ��Ȃ��B<BR>
+【バニーガール】<BR>　昔、アメリカのとあるナイトクラブ（チェーン店）にて考案された、超セクシーな衣装を着た女性のこと。Ｔバックに等しい超ハイレグ、蝶ネクタイandカラー、ウサギの耳と尾をかたどった飾りが特徴。近年、この衣装を着たがる女性と、自分の彼女に着せたがる男性が増えている。<BR><BR>【ミニスカ】<BR>　ＴＳっ娘に周囲が着せたがるものの筆頭で、立った状態で太股が１０cm以上露出するスカートのこと。当然ながら大抵の場合、本人は着たがらない。ＴＳっ娘が進んでこれを着るようになったら、女としての自分に目覚めたか、男に戻ることをあきらめたと見て良い。<BR><BR>【レオタード】<BR>　女性専用の、身体にぴったりとした上下一体型の運動着。元々はバレエの練習着だったが、その動きやすさから、後には女子の体操選手が用いるようになった。<BR>　着ると身体の線が丸見えになるところから、近年は女性の色香を強調するための衣装として用いられることが多く、自分を色っぽく見せたいためにこれを着る女性も少なくない。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2002/04/01 22:25:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2002/04/01 22:25:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017667507qfecg&id2=1002023656ucmwd&ff=p">APPEND 78</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017667507qfecg_id2_1002023656ucmwd_ff_p.cgi">APPEND 78</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�r�厫�T�E���ł��A�b�v���[�h���܂����B<BR>�܂��܂��������W���Ă���܂��̂ŁA��낵�����肢���܂��B
+ＴＳ大辞典・第二版をアップロードしました。<BR>まだまだ解説等募集しておりますので、よろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/04/02 13:24:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/04/02 13:24:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017721480gpnvsu&id2=1002023656ucmwd&ff=p">APPEND 79</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017721480gpnvsu_id2_1002023656ucmwd_ff_p.cgi">APPEND 79</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�E�G�b�`�k�������l�����i�u���N�������Ɂv�j�ł͔�I�ł��Ȃ��A�X�g�[���[�W�J�̈�`�ԁi���j�B<BR>�E�����j�k����ȁ����Ƃ��l�{���̓n�b�s�[�G���h�̂͂��Ȃ̂ɁA�����i�u���N�������Ɂv�j�ł͂��܂芽�}����Ȃ��X�g�[���[�W�J�̈�`�ԁi�΁j�B<BR>�E������k���݂�����l�P�D�s�r�����������Ȃ����������ė]���Ă���ƁA���͂̎҂��璅������A�C�e���B�Q�D�s�r�������ِ��ƂȂ����j�̎q���珉�߂Ă��炤�v���[���g�Ƃ��č��m���œo�ꂷ��A�C�e���B�R�D���Ƃ��āA����ȋ@�\�����߂��Ă�����̂�����i�΁j�B�Q�l�����F�u�V�g�̂��d���v<BR>�E�u���킢�����v�k�䎌�l�P�D�s�r�����ɂƂ��āA�����Ă����܂�������Ȃ��Z���t�̂P�i�΁j�B�Q�D�L�����ɂ���ẮA�������炱���������Ƃ�����Z���t�̂P�i���j�B<BR>�E�L�X�k�����l�P�D�ڕ��̂��ƁB�����Â��B�Q�D�s�r�����́A����ނ�̂����ɂ���Ă��܂����Ƃ������B�R�D����ނ�̂����ɂ��ꂽ�ꍇ�A�����ȈӖ��ő���̂��Ƃ�Y����Ȃ��Ȃ��Ă��邱�Ƃ������i�΁j�B<BR>�E�����ւ��k���������l�P�D�u���ւ��v�͔\���I�ȍs�ׂł��邪�A����͎󓮓I�ȍs�ׂł���B�Q�D�u���ւ��v�̎��ȏ��㵒p�I�Ȋi�D���������邱�Ƃ������i�΁j�B���w���ւ��x�̍��Q��<BR>�E�Г�k�����Ȃ�l�i�ǉ��j�V�g�p�������@�Q�l�����u�V�g�̂��d���v<BR>�E���o�k���傯���l�P�D���߂Ă̐����B�����B�Q�D�s�r�������u�����͏��ł���v���ƁA�u�����j�ɂ͖߂�Ȃ��v���Ƃ���������u�ԁB<BR>�E����k�������l�s�r�������]������ɋ��ƂƂ��ɐG��A�u�����Ƃ���ɂ����āA����ׂ����ɖ����v���Ƃ��m�F����̂̊튯�B<BR>�E���݂̉��ρk���񂴂��̂����ւ�l���X�ɂ��āA�s�r�Ɠ����ɋN����i�֗��ȁj���ہB���ꂪ����Ɩ{�l���˘f���A�Ȃ��Ǝ��͂��˘f���i�΁j�B<BR>�E�����k�ɂイ�悭�l�P�D�s�r�����̎����̂ЂƂB����𕁒ʂɂ��Ȃ���悤�ɂȂ�����A���͂╁�ʂ̏��̎q�ł���i�΁j�B�Q�D�s�r��A���߂Ă̓����̍ۂɂ́A��e��o���ƈꏏ�ɓ����āu���̎q�̓����̎d���v�����N�`���[����邱�Ƃ������i�΁j�B<BR>�E�@���k�͂Ȃ��l�P�D�@����̏o���B��������A�@�o���������肷�������ɋN����B�Q�D�s�r�������A���߂ċ��Ŏ����̎p���������ɏo�����Ƃ������B�R�D�s�r�����̒j����̗F�l���A���߂Ĕޏ��̎p���������ɏo�����Ƃ������B<BR>�E�m���k�悤�ӂ��l�P�D���m���̈ߕ��B�i�΋`��j�a���@�Q�D������{�ɂ����āu���v�Ƃ����ƁA�ʏ�͂���̂��Ƃł���B�R�D����āA�s�r�����̕��̓X�J�[�g�Ǝ����I�Ɍ��肷��i�΁j�B<BR><BR>����͑��߂ł��B���ŃA�b�v�L�O�Ƃ������ƂŁi�΁j�B
+・エッチ〔えっち〕ここ（「少年少女文庫」）では披露できない、ストーリー展開の一形態（爆）。<BR>・女→男〔おんな→おとこ〕本当はハッピーエンドのはずなのに、ここ（「少年少女文庫」）ではあまり歓迎されないストーリー展開の一形態（笑）。<BR>・髪飾り〔かみかざり〕１．ＴＳっ娘が長くなった髪を持て余していると、周囲の者から着けられるアイテム。２．ＴＳっ娘が異性となった男の子から初めてもらうプレゼントとして高確立で登場するアイテム。３．時として、特殊な機能が込められているものもある（笑）。参考文献：「天使のお仕事」<BR>・「かわいいっ」〔台詞〕１．ＴＳっ娘にとって、言われてもあまり嬉しくないセリフの１つ（笑）。２．キャラによっては、自分からこう言うこともあるセリフの１つ（爆）。<BR>・キス〔きす〕１．接吻のこと。くちづけ。２．ＴＳっ娘は、うやむやのうちにされてしまうことも多い。３．うやむやのうちにされた場合、いろんな意味で相手のことを忘れられなくなっていることも多い（笑）。<BR>・着せ替え〔きせかえ〕１．「着替え」は能動的な行為であるが、これは受動的な行為である。２．「着替え」の時以上に羞恥的な格好をさせられることが多い（笑）。→『着替え』の項参照<BR>・災難〔さいなん〕（追加）天使パラレル　参考文献「天使のお仕事」<BR>・初経〔しょけい〕１．初めての生理。初潮。２．ＴＳっ娘が「自分は女である」こと、「もう男には戻れない」ことを実感する瞬間。<BR>・性器〔せいき〕ＴＳっ娘が転換直後に胸とともに触り、「無いところにあって、あるべき所に無い」ことを確認する体の器官。<BR>・存在の改変〔そんざいのかいへん〕往々にして、ＴＳと同時に起こる（便利な）事象。これがあると本人が戸惑い、ないと周囲が戸惑う（笑）。<BR>・入浴〔にゅうよく〕１．ＴＳっ娘の試練のひとつ。これを普通にこなせるようになったら、もはや普通の女の子である（笑）。２．ＴＳ後、初めての入浴の際には、母親や姉妹と一緒に入って「女の子の入浴の仕方」をレクチャーされることも多い（笑）。<BR>・鼻血〔はなぢ〕１．鼻からの出血。興奮時や、鼻腔内をいじりすぎた時に起こる。２．ＴＳっ娘が、初めて鏡で自分の姿を見た時に出すことが多い。３．ＴＳっ娘の男時代の友人が、初めて彼女の姿を見た時に出すことも多い。<BR>・洋服〔ようふく〕１．西洋風の衣服。（対義語）和服　２．現代日本において「服」というと、通常はこれのことである。３．よって、ＴＳっ娘の服はスカートと自動的に決定する（笑）。<BR><BR>今回は多めです。第二版アップ記念ということで（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����Ƃ�</strong>  <i>2002/04/03 12:36:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>西さとる</strong>  <i>2002/04/03 12:36:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1017805017xubvh&id2=1002023656ucmwd&ff=p">APPEND 80</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1017805017xubvh_id2_1002023656ucmwd_ff_p.cgi">APPEND 80</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�r�L�j�z<BR>�@�P�X�U�O�N���o�ꂵ���A�����p�㉺�����^�ɏ��ʐϐ����̂��ƁB���X�̌ꌹ�͍ŏ��̐����������s��ꂽ�����m�̃r�L�j�ʂŁA�w�l�ގj�㏉�̏Ռ��I�x�Ƃ����Ӗ��ł����Ă΂ꂽ�炵���B�Z�N�V�[�Ȉߑ��̍ł���\�I�Ȃ��̂Ƃ���A����䂦�O���r�A���f���̈ߑ��̒�ԂƂȂ��Ă���B�������R�łs�r�����̐����͂قƂ�ǂ�����B�܂��A����ɂ����āA�󋵂Ƃ͖��֌W�ɂ��̈ߑ��𒅂����鏗���L�����������B����Ƌ��ɕz�̖ʐς�����X��������A�ߔN�ł͏㉺���킹�Ă��a�m�p�n���J�`�ꖇ�ɖ����Ȃ����Ƃ������B<BR>�y�o�j�[�K�[���z<BR>�@�����̃R�X�v���̒�Ԃ̈�B�e�p�Ɍb�܂ꂽ�����ɂƂ��ẮA�����������҂ł���A���o�C�g�̈�B<BR>
+【ビキニ】<BR>　１９６０年頃登場した、女性用上下分離型極小面積水着のこと。元々の語源は最初の水爆実験が行われた太平洋のビキニ環礁で、『人類史上初の衝撃！』という意味でこう呼ばれたらしい。セクシーな衣装の最も代表的なものとされ、それゆえグラビアモデルの衣装の定番となっている。同じ理由でＴＳっ娘の水着はほとんどがこれ。また、物語において、状況とは無関係にこの衣装を着せられる女性キャラも多い。時代と共に布の面積が減る傾向があり、近年では上下合わせても紳士用ハンカチ一枚に満たないことが多い。<BR>【バニーガール】<BR>　女性のコスプレの定番の一つ。容姿に恵まれた女性にとっては、高収入が期待できるアルバイトの一つ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2002/04/11 13:34:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2002/04/11 13:34:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1018499697ifsir&id2=1002023656ucmwd&ff=p">APPEND 81</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1018499697ifsir_id2_1002023656ucmwd_ff_p.cgi">APPEND 81</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǉ��̃L�[���[�h<BR>�y�����z<BR>���O��A�g���A�A����A���b�Z�[�W�Ȃǂ������ꂽ�����ȃJ�[�h�B<BR>���O�ƃ��b�Z�[�W����������Ă��Ȃ��J�[�h���A�����ȏ��̎q����I舂Ɏ󂯎������A�ǂݏグ���肵�Ă͂����Ȃ��B
+追加のキーワード<BR>【名詞】<BR>名前や、身分、連絡先、メッセージなどが書かれた小さなカード。<BR>名前とメッセージしか書かれていないカードを、小さな女の子から迂闊に受け取ったり、読み上げたりしてはいけない。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/04/11 21:04:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/04/11 21:04:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1018526666wqldifq&id2=1002023656ucmwd&ff=p">APPEND 82</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1018526666wqldifq_id2_1002023656ucmwd_ff_p.cgi">APPEND 82</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���u�����v����Ȃ��A�u���h�v�ł��ˁB<BR>�ϊ��̍ۂ͊m�F���܂��傤�B�p�\�R�������y�����������A�ŋ߂����炱����Ō�ϊ��������悤�ł��B<BR>�����Șb�A���^�N�V�����܊��z�f���ł���Ă���u�Z���v�̂قƂ�ǂ���ϊ��̎w�E�������肵�܂��B<BR>�@������Ƒ҂ā@���̎��ł������@�m��O
+↑「名詞」じゃなく、「名刺」ですね。<BR>変換の際は確認しましょう。パソコンが普及したせいか、最近あちらこちらで誤変換が多いようです。<BR>正直な話、ワタクシが時折感想掲示板でやっている「校正」のほとんどが誤変換の指摘だったりします。<BR>　ちょっと待て　この字でいいか　確定前
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i�E�e</strong>  <i>2002/04/11 23:58:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｊ・Ｆ</strong>  <i>2002/04/11 23:58:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1018537082lerwyqd&id2=1002023656ucmwd&ff=p">APPEND 83</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1018537082lerwyqd_id2_1002023656ucmwd_ff_p.cgi">APPEND 83</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ł����A����Ȃ̂��l���Ă݂܂����B<BR><BR>���t�k�͂񂩂��Ⴍ�l<BR>�E�u�t�v�̈�`�ԁB���ɖ߂邽�߂ɂ͍���ȏ����i��F���E�ɎU��΂�V�̋����ȉ����j���N���A���邩�A�����Ԃ̎��Ԍo�߁i���P�ʈȏ�j��҂����Ȃ���΂Ȃ�Ȃ��B<BR>�E��P�b�łs�r���A�����N���A�̉ߒ��ł̃h�^�o�^�����o�āA�ŏI�b�Ō��ɖ߂�Ƃ����̂��悭����`���B<BR>�E�ŏI�I�Ɍ��ɖ߂炸�i�߂ꂸ�j�ɏI���P�[�X������B<BR>���w�t�x�̍��Q��<BR>�Q�l��i�F�w�V�g�̂��d���x�wOne-Way�x
+造語ですが、こんなのを考えてみました。<BR><BR>半可逆〔はんかぎゃく〕<BR>・「可逆」の一形態。元に戻るためには困難な条件（例：世界に散らばる７つの球を以下略）をクリアするか、長期間の時間経過（月単位以上）を待つかしなければならない。<BR>・第１話でＴＳし、条件クリアの過程でのドタバタ劇を経て、最終話で元に戻るというのがよくある形式。<BR>・最終的に元に戻らず（戻れず）に終わるケースもある。<BR>→『可逆』の項参照<BR>参考作品：『天使のお仕事』『One-Way』
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>MC119</strong>  <i>2002/04/23 01:15:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1019492152dvrnmw&id2=1002023656ucmwd&ff=p">APPEND 84</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1019492152dvrnmw_id2_1002023656ucmwd_ff_p.cgi">APPEND 84</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_��<BR>�E�{���́A�@���{�݁E�E�E�̃n�Y�B
+神社<BR>・本来は、宗教施設・・・のハズ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2002/04/23 20:53:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2002/04/23 20:53:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1019562833oqbknk&id2=1002023656ucmwd&ff=p">APPEND 85</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1019562833oqbknk_id2_1002023656ucmwd_ff_p.cgi">APPEND 85</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�p���k�������݁l�@�S�g���f��c���̋��B�s�r���̎O��̐_��̂ЂƂB<BR>�@���Ƃ̂ӂ��́c�c���āA���ɂ��܂��傤�H<BR><BR>���i�E�e����<BR><BR>�@�w���t�x�́A�w�t�x�̒��Ɋ܂߂܂����B<BR>�T�F���̐��ʂɖ߂邽�߂Ɏ����i��^���E�ɎU��΂鎵�̋����ȉ����j���N���A���邩�A�����Ԃ̎��Ԍo�߁i���P�ʈȏ�j��҂��Ȃ���΂Ȃ�Ȃ����̂�����A�����N���A�̉ߒ��ł̃h�^�o�^�����o�čŏI�b�Ō��ɖ߂�Ƃ����̂����b�̂����Ƃ��Ă悭����p�^�[���B�@�U�F�����A���ǌ��ɖ߂炸�i�߂ꂸ�j�ɏI���P�[�X������B
+姿見〔すがたみ〕　全身が映る縦長の鏡。ＴＳもの三種の神器のひとつ。<BR>　あとのふたつは……さて、何にしましょう？<BR><BR>＞Ｊ・Ｆさん<BR><BR>　『半可逆』は、『可逆』の中に含めました。<BR>５：元の性別に戻るために試練（例／世界に散らばる七つの球を以下略）をクリアするか、長期間の時間経過（月単位以上）を待たなければならないものもあり、条件クリアの過程でのドタバタ劇を経て最終話で元に戻るというのがお話のすじとしてよくあるパターン。　６：だが、結局元に戻らず（戻れず）に終わるケースもある。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2002/05/20 21:33:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2002/05/20 21:33:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1021898033mnotbm&id2=1002023656ucmwd&ff=p">APPEND 86</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1021898033mnotbm_id2_1002023656ucmwd_ff_p.cgi">APPEND 86</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�E�F�C�g���X�v<BR>�m�P�n�s�r�L�����N�^�[�̃o�C�g��̑�\�i<BR>�m�Q�n�����҂̊�]�ƌ��������͂̉A�d��󋵂ɗ�����ĂƂ������Ƃ������B<BR>�m�R�n����ł͒��邱�Ƃ����Ȃ������i���~�j�X�J�A�сA���C�h�A�����ߑ��Ȃǁj���A���@�I���K�R�I�ɒ����邱�Ƃ��ł���Ƃ��������b�g�����B<BR>�m�S�n�m�R�n�⑫�A���ւ��V�[����}�����₷���B<BR><BR>�u���������v<BR>�m�P�n�j���Ə����̓���ւ��̈��œ��̑S�Ăł͂Ȃ��A���̈ꕔ�����������̂������B<BR>�m�Q�n�s�r�Ƃ��ẮA�Œ�ł��A�����ӁA�ł���΁A�����܂ޓ��̑S�̈ȏ�̌������]�܂����B<BR>�m�R�n�����܂ł����������̌����ƁA�������ƂɌ������J��Ԃ��A�ŏI�I�ɓ��̂̑S�Ă����������ƌ����Q�p�^�[���ɕ�������B<BR>�m�S�n���̉ߒ��ɂ��댋�ʂɂ���A�j���̓��̂��c�邱�Ƃɂ��A�j���������̐g�̂ɕς��Ƃ����󋵂�������₷���܂��������₷���Ƃ��������b�g�����B���ʁA�j���̓��̂��c��Ƃ����O���I�ɂ́A�O���e�X�N�Ƃ�������`�ʂɁA�D���������������|�C���g�ł�����B<BR>�m�T�n�s�r�ł͂Ȃ����A�u����������ւ��v�A�u���i��������ւ��v�ȂǁA�G����v�f�͑����B<BR>�m�U�n�r�t�F�`��w�t�F�`�ł�����s�r�t�@���ɂ́A���܂�Ȃ����̂�����B<BR><BR>�u�l�̉����v<BR>�m�P�n���]����p�␮�`��p����肨�������߂����́B<BR>�m�Q�n�����̓x�����ɂ���ẮA�����ȈӖ��ł��l�ԂƂ��Ă̎p�`��ۂĂȂ��Ȃ邽�߁A�s�r�Ƃ͂����Ȃ��ꍇ���B<BR>�m�R�n��{�I�ɂ́A���蕔�ʂ̕ό`�i�������j�A���蕔�ʂ̍폜�i�l���̐ؒf�j�A���蕔�ʂ̕������i�������j�A��l�ԂƂ̗Z���i�b�A峁A�A���A�@�B�Ȃǁj����������B<BR>�m�S�n�Ƃɂ�����l���I�Ȃ̂ŁA�D���������A�͂�����ƕ������B<BR><BR>�u�c�Ȃ��݁v<BR>�m�P�n�s�r�L�����Ƃ́A�e�F�A���l�A���C�o���A�T�|�[�g���ȂǁA�K���ƌ����Ă����قǁA�[���֌W�ɂȂ�A����ɐ[���ւ���Ă���B<BR>�m�Q�n����ւ��y�ќ߈˂��̂ł́A���Ȃ�̊m���ŁA���̓���ւ��^�߈ː�̓��̑ΏۂƂȂ�B<BR>�m�R�n�s�r�L�����̐��̂�m���Ă��邩�ǂ����ŁA���̈������ς���Ă���L�����N�^�[�B�m���Ă����Α��A���o����I����Ńt�H���[�ɂ܂��A�m��Ȃ���΁A�Ȃ����F�l���邢�͗��l�Ƃ��Đe�����Ȃ�B���A�m��Ȃ��ꍇ�A�ǂꂾ�����̂��΂ꂻ���Ȃ��Ƃ����Ă��A�����݂͂��Ă��Ȃ����C�Â��Ȃ��ƌ������Z�����B<BR>
+「ウェイトレス」<BR>［１］ＴＳキャラクターのバイト先の代表格<BR>［２］当事者の希望と言うより周囲の陰謀や状況に流されてということが多い。<BR>［３］日常では着ることが少ない服装（超ミニスカ、袴、メイド、民族衣装など）を、合法的かつ必然的に着せることができるというメリットをもつ。<BR>［４］［３］補足、着替えシーンを挿入しやすい。<BR><BR>「部分交換」<BR>［１］男性と女性の入れ替わりの一種で肉体全てではなく、その一部が交換されるのが特徴。<BR>［２］ＴＳとしては、最低でも、腰周辺、できれば、胸を含む胴体全体以上の交換が望ましい。<BR>［３］あくまでも部分だけの交換と、部分ごとに交換を繰り返し、最終的に肉体の全てが交換されると言う２パターンに分けられる。<BR>［４］その過程にしろ結果にしろ、男性の肉体が残ることにより、男性が女性の身体に変わるという状況を説明しやすくまた強調しやすいというメリットをもつ。反面、男性の肉体が残るという外見的には、グロテスクともいえる描写に、好き嫌いが分かれるポイントでもある。<BR>［５］ＴＳではないが、「声だけ入れ替わり」、「性格だけ入れ替わり」など、萌える要素は多い。<BR>［６］脚フェチや指フェチでもあるＴＳファンには、たまらないものがある。<BR><BR>「人体改造」<BR>［１］性転換手術や整形手術をよりおしすすめたもの。<BR>［２］改造の度合いによっては、厳密な意味でも人間としての姿形を保てなくなるため、ＴＳとはいえない場合も。<BR>［３］基本的には、特定部位の変形（超巨乳）、特定部位の削除（四肢の切断）、特定部位の複数化（多乳化）、非人間との融合（獣、蟲、植物、機械など）があげられる。<BR>［４］とにかく非人道的なので、好き嫌いが、はっきりと分かれる。<BR><BR>「幼なじみ」<BR>［１］ＴＳキャラとは、親友、恋人、ライバル、サポート役など、必ずと言っていいほど、深い関係になり、物語に深く関わってくる。<BR>［２］入れ替わり及び憑依ものでは、かなりの確率で、その入れ替わり／憑依先の肉体対象となる。<BR>［３］ＴＳキャラの正体を知っているかどうかで、その扱いが変わってくるキャラクター。知っているれば大抵、お姉さん的立場でフォローにまわり、知らなければ、なぜか友人あるいは恋人として親しくなる。尚、知らない場合、どれだけ正体がばれそうなことをしても、怪しみはしてもなぜか気づかないと言う特技をもつ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2002/05/22 22:08:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2002/05/22 22:08:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022072914rsdxv&id2=1002023656ucmwd&ff=p">APPEND 87</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022072914rsdxv_id2_1002023656ucmwd_ff_p.cgi">APPEND 87</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�C�����[�W�����v<BR>�m�P�n���e���邢�͌��o�B<BR>�m�Q�n����Z�b�g�Ȃǂ𗘗p��������������ȃ}�W�b�N�B�l�̂����ɉB�����Ƃ��A�o���o���ɂ����Ƃ��A������Ƃ��A�ʂ̐������ω�����Ƃ��A�s�r�Ƃ��ẮA���Ȃ芈�p������B<BR><BR>�u���́v<BR>�m�P�n�l�Ԃ̒j�����A�u�Ȃɂ��v�ƍ����荇�����ƂŁA�l�Ԃ̏������邢�͂���ɋ߂��p�ɕς�邱�ƁB<BR>�m�Q�n�ϐg���̂ƈႢ�A���҂̓�����������A<BR>�m�R�n��\�i�Ƃ��ẮA���L�ƍ��̂��ĔL�������B<BR>�m�S�n���̑Ώۂ������⎓�ł���K�v���͕K�������Ȃ��̂����A��͂舳�|�I�ɂ����炪�����B<BR>�m�T�n�ǂ��炩�Ƃ����΁A���S�ɏ�������藼����L������ꍇ�������A�����s�r�t�@���𗎒_�����邱�Ƃ������B<BR><BR>�u�K�i�v<BR>�m�P�n����ւ��ɂ͕s���Ƃ�������ꏊ�ɂ��Č��z���B<BR>�m�Q�n�R�~�b�N�ȂǂŁA�K�i�߂��ł̌��������Ȃǂ�����ƁA�s�r�t�@���͂������҂��Ă��܂��B<BR>�m�R�n��͂�f�ނ͐΂Ɍ���B<BR><BR>�u���d�v<BR>�m�P�n�d�����i�̌̏�◎���ȂǂŒj���������Ɋ��d�����ꍇ�A����ւ�邱�Ƃ�����B<BR>�m�Q�n���d�����ꍇ�A�H�̗��E���N�������Ƃ�����B<BR>�m�R�n�ꉞ�A�l�Ԃ̐_�o���M���́A�d�C�Ɏ����������������ɁA�r�e�l�؂Ƃ��ẮA�K�i�I�`�������͂�����E�E�E��������Ȃ��B<BR><BR>�u��p�v<BR>�m�P�n�}�W�b�N�̂��ƁB<BR>�m�Q�n�l�̐ؒf��A�l�̏����^�o���̌��ʂƂ��Ăs�r�ɂȂ�ꍇ������B<BR>�m�R�n�s�r�ɂ����ẮA�{���̖��@���邢�͂���ɓ��������݂ł���B<BR><BR>�u�����v<BR>�m�P�n���̓��̔N��邢�͏����S�ʂ̕��ς��傫���T�C�Y�̓��[�B���邢�͂��̏��L�ҁB<BR>�m�Q�n�s�r�̏ꍇ�A�g�̂��������������Ƃ���薾�m�Ɍ��������ꍇ�ɗL���B�������A���������E�Ƃ������̂�����B<BR><BR>�u�����v<BR>�m�P�n������������̎p�́A�Ȃ����A�o�▅�A���邢�͏]���A�������͕�e�̎Ⴂ���ɂ�������Ƃ����ꍇ�������B<BR><BR>�u��i�v<BR>��p���Q��<BR><BR>�u�d���@�v<BR>�m�P�n�Ȃ����A�@�B�̒��Ɏ��̐����������ꍞ��ł��܂��A�j���ƍ��̂����̒j���������ɂ��Ă��܂��B<BR>�m�Q�n���̂��Q�Ƃ̂��ƁB<BR><BR>�u�����v<BR>�m�P�n�������X�ɑ傫�ȓ��[�B�����܂ł���Ƃ��͂�l�Ԃ̎p�Ƃ͂����Ȃ��ꍇ�������A�s�r�ł͎��܂�Ȃ����E�ɂȂ��Ă��܂����Ƃ��قƂ�ǁB<BR><BR>�u�n���v<BR>�m�P�n���̓��̔N��̕��ς�菬�����T�C�Y�̓��[�B���邢�͂��̏��L�ҁB<BR>�m�Q�n�����܂ł��A�����j�ł���Ƃ������Ƃ������������ꍇ�A���[�ȂǁA�����̏ے��Ƃ������镔���𖢔��B�����n�Ƃ��邱�Ƃ͗L���Ȏ�i�Ƃ�����B<BR>�m�R�n�T�C�Y�I�ɂ͏��������̂́A�`��I�ɂ́A�[�������Ă��邱�Ƃ������B<BR><BR>�u�}�W�b�N�v<BR>��p���Q��<BR><BR>�u�}�W�V�����v<BR>�m�P�n��i��}�W�b�N���s���l�B<BR>�m�Q�n�s�r�̏ꍇ�A���^�����̖��p�t�ł��邱�Ƃ������B<BR>�m�R�n�����{�ʂŔނ�Ɋւ��ƁA�Ƃ�ł��Ȃ����ƂɂȂ�B<BR><BR>�u�Z���v<BR>���̂��Q�ƁB<BR><BR>�u�c���v<BR>�m�P�n��`�͐F�X�Ƃ��ƂȂ邪�A�c�t���ɒʂ����̎q�A���邢�͏��w�Z�O�̏��̎q�B<BR>�m�Q�n���̕ω��n�ł́A�����܂Ŏ�Ԃ邱�Ƃ͂قƂ�ǂȂ��A�]���A���邢�͓���ւ���߈˃��m�̕��������B<BR>�m�R�n�u���l�`����̂悤�ɉ��炵���v�N����ɁA�����ւ��l�`�ɂ����x���Q�O�p�[�Z���g�A�b�v�B�i���T�C�g��j<BR>�m�S�n���̔\�͓I�ɂ��Љ�I�n�ʂɂ��Ƃɂ����Ⴍ�キ�A����̑����g�̂����A���ꂾ���ɃM���b�v��ꔭ�t�]�ȂǕ����ʔ����ł���v�f�ɖ����Ă���B<BR>�m�T�n���@�����ł́A��͂菭�������E�ŁA�Ȃ��Ȃ��c���ɂ͂Ȃ�Ȃ��B<BR>�m�U�n�����ȏ��̎q�̐㑫�炸�Ȃ��邢�͕Ќ��̒�����͂��ꂾ���ł���[�����ł���A������ǂ̒��x�������邩���A��i�̏o���Ɋւ���Ă���B<BR>�m�V�n�`�q�i���̔N��t�s�j���ʂ̂s�r�t�@���Ƃ��Ă͏d�v�ȃ|�C���g�B<BR>
+「イリュージョン」<BR>［１］幻影あるいは幻覚。<BR>［２］舞台セットなどを利用したおおがかりなマジック。人体が箱に隠されるとか、バラバラにされるとか、消えるとか、別の生き物変化するとか、ＴＳとしては、かなり活用がある。<BR><BR>「合体」<BR>［１］人間の男性が、「なにか」と混ざり合うことで、人間の女性あるいはそれに近い姿に変わること。<BR>［２］変身ものと違い、両者の特徴や特性が、<BR>［３］代表格としては、雌猫と合体して猫耳少女。<BR>［４］合体対象が女性や雌である必要性は必ずしもないのだが、やはり圧倒的にそちらが多い。<BR>［５］どちらかといえば、完全に女性化より両性具有化する場合が多く、純正ＴＳファンを落胆させることも多い。<BR><BR>「階段」<BR>［１］入れ替わりには不可欠とも言える場所にして建築物。<BR>［２］コミックなどで、階段近くでの言い争いなどがあると、ＴＳファンはついつい期待してしまう。<BR>［３］やはり素材は石に限る。<BR><BR>「感電」<BR>［１］電化製品の故障や落雷などで男女が同時に感電した場合、入れ替わることがある。<BR>［２］感電した場合、幽体離脱を起こすことがある。<BR>［３］一応、人間の神経内信号は、電気に似た性質をもつだけに、ＳＦ考証としては、階段オチより説得力がある・・・かもしれない。<BR><BR>「奇術」<BR>［１］マジックのこと。<BR>［２］人体切断や、人体消失／出現の結果としてＴＳになる場合がある。<BR>［３］ＴＳにおいては、本当の魔法あるいはそれに等しい存在である。<BR><BR>「巨乳」<BR>［１］その肉体年齢あるいは女性全般の平均より大きいサイズの乳房。あるいはその所有者。<BR>［２］ＴＳの場合、身体が女性化したことをより明確に現したい場合に有効。ただし、何事も限界というものがある。<BR><BR>「酷似」<BR>［１］女性化した後の姿は、なぜか、姉や妹、あるいは従妹、もしくは母親の若い頃にそっくりという場合が多い。<BR><BR>「手品」<BR>奇術を参照<BR><BR>「電送機」<BR>［１］なぜか、機械の中に雌の生き物が紛れ込んでしまい、男性と合体しその男性を女性にしてしまう。<BR>［２］合体を参照のこと。<BR><BR>「爆乳」<BR>［１］巨乳より更に大きな乳房。ここまでくるともはや人間の姿とはいえない場合が多く、ＴＳでは収まらない世界になってしまうことがほとんど。<BR><BR>「貧乳」<BR>［１］その肉体年齢の平均より小さいサイズの乳房。あるいはその所有者。<BR>［２］あくまでも、元が男であるということを強調したい場合、乳房など、女性の象徴ともいえる部分を未発達未成熟とすることは有効な手段といえる。<BR>［３］サイズ的には小さいものの、形状的には、充分整っていることが多い。<BR><BR>「マジック」<BR>奇術を参照<BR><BR>「マジシャン」<BR>［１］手品やマジックを行う人。<BR>［２］ＴＳの場合、正真正銘の魔術師であることが多い。<BR>［３］興味本位で彼らに関わると、とんでもないことになる。<BR><BR>「融合」<BR>合体を参照。<BR><BR>「幼女」<BR>［１］定義は色々とことなるが、幼稚園に通う女の子、あるいは小学校前の女の子。<BR>［２］肉体変化系では、ここまで若返ることはほとんどなく、転生、あるいは入れ替わりや憑依モノの方が多い。<BR>［３］「お人形さんのように可愛らしい」年齢だけに、着せ替え人形にされる度数２０パーセントアップ。（当サイト比）<BR>［４］肉体能力的にも社会的地位にもとにかく低く弱く、制約の多い身体だが、それだけにギャップや一発逆転など物語を面白くできる要素に満ちている。<BR>［５］魔法少女では、やはり少女が限界で、なかなか幼女にはならない。<BR>［６］小さな女の子の舌足らずなあるいは片言の喋り方はそれだけできょーあくであり、それをどの程度活かせるかが、作品の出来に関わってくる。<BR>［７］ＡＲ（肉体年齢逆行）方面のＴＳファンとしては重要なポイント。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2002/05/23 20:21:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2002/05/23 20:21:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022152911lpnmt&id2=1002023656ucmwd&ff=p">APPEND 88</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022152911lpnmt_id2_1002023656ucmwd_ff_p.cgi">APPEND 88</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���݂܂���B�u���́v�̕␳<BR>�m�Q�n�ϐg���̂ƈႢ�A���҂̓�����������A���U�I�Ɍ����̂��|�C���g�B<BR><BR>
+すみません。「合体」の補正<BR>［２］変身ものと違い、両者の特徴や特性が、分散的に現れるのがポイント。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>2002/05/25 21:30:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>名無し</strong>  <i>2002/05/25 21:30:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022329832ngrhu&id2=1002023656ucmwd&ff=p">APPEND 89</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022329832ngrhu_id2_1002023656ucmwd_ff_p.cgi">APPEND 89</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[�s�r�e�v�����������@�������������@��������������(���]������t�B�N�V�����j�̗��B<BR>�@�@�������A�l�ɂƂ��ẮA�����������@�������������@�������@����<BR>�@���������i�����ւ̐��]���j�̗��A���邢�͂����������@���������������@���������������i���]������r�e�j�̗��A�ƍl���Ă���ЂƂ�����悤���B�ׂɖ�肪����킯�ł͂Ȃ����B<BR>�@�@
+[ＴＳＦ」ｔｒａｎｓ　ｓｅｘｕａｌ　ｆｉｃｔｉｏｎ(性転換するフィクション）の略。<BR>　　ただし、人にとっては、ｔｒａｎｓ　ｓｅｘｕａｌ　ｆｏｒ　ｆｅ<BR>　ｍａｌｅ（女性への性転換）の略、あるいはｔｒａｎｓ　ｓｃｉｅｎｃｅ　ｆｉｃｔｉｏｎ（性転換するＳＦ）の略、と考えているひともいるようだ。べつに問題があるわけではないが。<BR>　　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2002/05/25 23:05:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2002/05/25 23:05:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022335513lpgbeg&id2=1002023656ucmwd&ff=p">APPEND 90</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022335513lpgbeg_id2_1002023656ucmwd_ff_p.cgi">APPEND 90</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���I�H�v<BR>�m�P�n���ŁA�s�r��̎����̎p�����āA��ꐺ�B<BR><BR>�u�����H�I�v<BR>�m�P�n�z�킸�����Ă��܂��������A�������̎q�̂��̂ɋ����āA��񐺁B<BR><BR>�u�����H�I�E�E�E���I�v<BR>���ۂɎ����̐g�̂�G���Ă݂āA��O���B<BR><BR>�u�d�r�o�v�i�C�[�G�X�s�[�j<BR>�e���p�V�[�ɂ�銴�o�̋��L������A�L���̋��L�ɂ��̌��̍Č��A�܂��e���L�l�V�X�ɂ����̂̕ό`�ƁA�s�r�����������ł���B<BR><BR>�u�E�ݑ��v�i�����݂����j<BR>�m�P�n���҂����܂�΂���ɂ��摖�����s�����Ƃ邱�ƁB<BR>�m�Q�n����炵���W�J��a���Ɋ��҂�����A���̎q���m�̓���ւ�肾�����B���́A���X���̎q���j�̎q�̉��Z�����Ă����B�����̏����^�ϑ��B������L��炾���̐��`�E�E�E�ȂǁB<BR><BR>�u�Z�v�i���Ɂj<BR>�m�P�n�s�r�̌����A���邢�͂��̂��߂̋@�B���𐻑�������ł��邱�Ƃ������B<BR>�m�Q�n�Ȃ񂾂��񂾌����āA�����ł������Ƃ𖧂��Ɋ��ł���B<BR><BR>�u�o�v�i���ˁj<BR>�m�P�n�s�r�̗��R���i�ɂ͂��܂�ւ�邱�Ƃ��Ȃ��B<BR>�m�Q�n�킪���ɂȂ������Ƃ𕽑R�Ǝ󂯂Ƃ߁A�������̂��߂̊��p���悤�ƍl���s�����邱�Ƃ������B<BR><BR>�u���񑩁v�i���₭�����j<BR>���̎��T��ǔj����΁A���̂��ƕ������Ă���B<BR><BR>�u�J�N�e���v�i�����Ă�j<BR>�L����������Ȃ���΁A�����̎�ނ����݂��A���ɂ́A��̂悤�Ȍ��ʂ������̂��E�E�E<BR><BR>�u���������v�i�����������j<BR>�m�P�n���҂����Ă����ē��e�͂����炪���҂��Ă������̂̍ۂǂ��Ƃ���ł͂����Ă������́B<BR>�m�Q�n�E�ݑ����Q�Ƃ̂��ƁB<BR><BR>�u�㎀�Ɉꐶ�v�i���イ���ɂ������傤�j<BR>�����ɁA����ւ�肩�߈ˁB<BR><BR>�u��ʎ��́v�i�����������j<BR>����҂Ɠ���ւ�肩�߈ˁA���S�����ꍇ�͓]���ƁA�s�r�ɂȂ鎖�Ⴊ�A���̎��̂ɏW�񂵂Ă���B<BR><BR>�u�o�Y�v�i���������j<BR>�m�P�n�q�����Y�ނ��ƁB<BR>�m�Q�n�V���������𐶂ݏo�����Ƃ����ɁA���̓��e�͌��ł͌����\���Ȃ������������B��q���ɐ����̊댯�ɎN����邱�ƁE�E�E�ȑO�ɁA�����̋�ɂ������s�ׂł���A�Ȃ͏����ɐ��܂ꂽ���Ƃ�������A�v�͒j�ɐ��܂ꂽ���ƂɈ��g����Ƃ��B����ŁA�j����A�����ŎԂ��^�]���ĕa�@�ɍs�����Ƃ��A���E�`�������B<BR>�m�R�n���S�ɓ��̂������������ꍇ��A����ւ���߈˂Ȃ�΁A�D�P�����ďo�Y���[���ɉ\�Ȃ͂��Ȃ̂����A�D�P����o�Y�Ɏ���܂ł̌o�߂���������ƕ`�ʂ�����i�͋ɂ߂ď��Ȃ��B<BR>�s�r��i�̍�Ƃ��j�����܂߁A�D�P�o�Y�̖��o���҂������Ƃ������Ƃ�����̂��낤�B<BR>�ŋ߂́A�����^���������}���K�ł̂s�r�����������ɁA����̓W�J�Ɋ��ҁB<BR>�m�S�n���ʂ́A�R�E�m�g�����L���x�c���ł��������E�E�E<BR><BR>�u���v�i����j<BR>�m�P�n���ː��A�F�����A��̉������A��������s�r�ɂ͌������Ȃ��B<BR>�m�Q�n�Ȃ����A��������ڂɌ�����B<BR><BR>�u�l�C�ҁv�i�ɂ񂫂��́j<BR>�m�P�n�s�r�L�����N�^�[�́A�j�����킸�A�l�C��Ɛ肷��ꍇ�������B<BR>�m�Q�n��l���ł���ȏ�A�ڗ��̂͂Ƃ�����̂��Ƃł����邪�A�����̐g�̂ɒj���̈ӎ��Ƃ����M���b�v���炭�鑶�݊���s�����A��������͓����ł���Ȃ��玩���B�Ƃ͈قȂ镵�͋C�������݂ւ̓���A�j������ِ͈��ł���Ȃ��玩���B�Ɠ��l�ȉ��l�ς⃁���^���������̂ւ̐e�ߊ��ƂȂ�A���̌��ʁA�C���ł����͂̐l�Ԃ̊֐S��D�ӂ̑ΏۂƂȂ��Ă��܂��B<BR>�m�R�n���ʁA����܂ł̐l�C�҂����̍���ǂ��A���݂𔃂����ƂɂȂ��Ă��܂����s�r�L�����N�^�[�́E�E�E<BR><BR>�u�D�P�v�i�ɂ񂵂�j<BR>�o�Y���Q�Ƃ̂��ƁB<BR><BR>�u�E�@�v�i�ɂ�ۂ��j<BR>�m�P�n���̏������A����ւ��A�߈˂ƁA���@�Ɠ��l�̑��݂ƍl���Ė��Ȃ��B<BR>�m�Q�n�E�@�n�n�̏p�Ƌ��Ԃ̂���V�B<BR>�m�R�n���l��ϐg��������A�������ω��i�ւ񂰁j����^�C�v�������B<BR>�m�S�n�g�p�Ɋւ��Ă͔����Ȃ藋�Ȃǂ̕�����ʂ͌������Ȃ��B<BR><BR>�u�w�����b�g�v�i�ւ�߂��Ɓj<BR>�m�P�n�l�i������������A�����z���o���@�B�B���邢�͂u�q�ł͌��������Ƃ̂ł��Ȃ��p�[�c�B<BR>�m�Q�n�Ƃɂ����A�������R�[�h���`���[�u���p�C�v��炪�Ă񂱐���B<BR><BR>�u�{�[�C�b�V���v�i�ځ[��������j<BR>�m�P�n�{�[�C�Ƃ������t���A�j�ƌ�����菭�N�Ƃ����Ӗ������ł̋������������Ƃ��炵�Ă��A�����P���ɒj�݂����ȏ����Ƃ������A�O�������Ō����Ίm���ɏ��������A���͋C�≽�C�Ȃ��f�U��ɁA���N�A���邢�͂܂���Q���������ɂ����������Ă��Ȃ��j�̎q��z�킹����̂����鏭�����邢�͏����Ƃ��Ă̈Ӗ������������B<BR>�m�Q�n�������邢�͒j�Ƃ����Ƃ��ɍS��Ȃ����̈ӎ����������͂Ƃ�����B<BR>�m�R�n��{�I�ɂ́A�̈�n�����A�����łȂ��Ă��A���Ȃ�̃A�N�e�B�u�����B<BR>�m�S�n�̂́A�V���[�g�̔��^����O�񂾂������ŋ߂ł͒j���⏭�N�̒������������Ȃ����߁A��ΓI�ɂ����Ƃ������Ȃ��B<BR>�m�T�n���̓I�ɂ́A�X�����_�[�^�n���ȂǁA�����炵����ʕ����������A���ꂾ���ŁA�s�r�t�@���y�у{�N�����t�@���������̚��Ăɒǂ����Ă邱�Ƃ����Ȃ��Ȃ��B<BR>
+「あ！？」<BR>［１］鏡で、ＴＳ後の自分の姿を見て、第一声。<BR><BR>「ああ？！」<BR>［１］想わずあげてしまった声が、可愛い女の子のものに驚いて、第二声。<BR><BR>「ああ？！・・・あ！」<BR>実際に自分の身体を触ってみて、第三声。<BR><BR>「ＥＳＰ」（イーエスピー）<BR>テレパシーによる感覚の共有や交換、記憶の共有による体験の再現、またテレキネシスによる肉体の変形と、ＴＳもけっこうできる。<BR><BR>「勇み足」（いさみあし）<BR>［１］期待が高まるばかりについ先走った行動をとること。<BR>［２］それらしい展開や病死に期待したら、女の子同士の入れ替わりだった。実は、元々女の子が男の子の演技をしていた。ただの女装／変装。両性具有や顔だけの整形・・・など。<BR><BR>「兄」（あに）<BR>［１］ＴＳの原因、あるいはそのための機械や薬を製造した主であることが多い。<BR>［２］なんだかんだ言って、妹ができたことを密かに喜んでいる。<BR><BR>「姉」（あね）<BR>［１］ＴＳの理由や手段にはあまり関わることがない。<BR>［２］弟が妹になったことを平然と受けとめ、かつ自分のための活用しようと考え行動することが多い。<BR><BR>「お約束」（おやくそく）<BR>この辞典を読破すれば、おのずと分かってくる。<BR><BR>「カクテル」（かくてる）<BR>有名無名を問わなければ、無数の種類が存在し、中には、薬のような効果をもつものも・・・<BR><BR>「肩すかし」（かたすかし）<BR>［１］期待させておいて内容はこちらが期待していたものの際どいところではずしてくれるもの。<BR>［２］勇み足を参照のこと。<BR><BR>「九死に一生」（きゅうしにいっしょう）<BR>同時に、入れ替わりか憑依。<BR><BR>「交通事故」（こうつうじこ）<BR>同乗者と入れ替わりか憑依、死亡した場合は転生と、ＴＳになる事例が、この事故に集約している。<BR><BR>「出産」（しゅっさん）<BR>［１］子供を産むこと。<BR>［２］新しい生命を生み出すことだけに、その内容は口では言い表せない部分も多い。母子共に生命の危険に晒されること・・・以前に、相当の苦痛が伴う行為であり、妻は女性に生まれたことを後悔し、夫は男に生まれたことに安堵するとか。一方で、破水後、自分で車を運転して病院に行ったとか、武勇伝も多い。<BR>［３］完全に肉体が女性化した場合や、入れ替わりや憑依ならば、妊娠そして出産も充分に可能なはずなのだが、妊娠から出産に至るまでの経過をしっかりと描写した作品は極めて少ない。<BR>ＴＳ作品の作家が男性を含め、妊娠出産の未経験者が多いということもあるのだろう。<BR>最近は、少女／女性向けマンガでのＴＳも多いだけに、今後の展開に期待。<BR>［４］当面は、コウノトリかキャベツ畑でもいいか・・・<BR><BR>「線」（せん）<BR>［１］放射線、宇宙線、謎の怪光線、いずれもＴＳには欠かせない。<BR>［２］なぜか、いずれも目に見える。<BR><BR>「人気者」（にんきもの）<BR>［１］ＴＳキャラクターは、男女を問わず、人気を独占する場合が多い。<BR>［２］主人公である以上、目立つのはとうぜんのことでもあるが、女性の身体に男性の意識というギャップからくる存在感や行動が、女性からは同性でありながら自分達とは異なる雰囲気をもつ存在への憧れ、男性からは異性でありながら自分達と同様な価値観やメンタルをもつものへの親近感となり、その結果、イヤでも周囲の人間の関心や好意の対象となってしまう。<BR>［３］結果、それまでの人気者がその座を追われ、恨みを買うことになってしまったＴＳキャラクターは・・・<BR><BR>「妊娠」（にんしん）<BR>出産を参照のこと。<BR><BR>「忍法」（にんぽう）<BR>［１］肉体女性化、入れ替わり、憑依と、魔法と同様の存在と考えて問題ない。<BR>［２］忍法ＯＯの術と叫ぶのが礼儀。<BR>［３］他人を変身させるより、自分が変化（へんげ）するタイプが多い。<BR>［４］使用に関しては爆煙なり雷などの舞台効果は欠かせない。<BR><BR>「ヘルメット」（へるめっと）<BR>［１］人格を交換したり、魂を吸い出す機械。あるいはＶＲでは欠かすことのできないパーツ。<BR>［２］とにかく、怪しいコードやらチューブやらパイプやらがてんこ盛り。<BR><BR>「ボーイッシュ」（ぼーいっしゅ）<BR>［１］ボーイという言葉が、男と言うより少年という意味合いでの響きが強いことからしても、ただ単純に男みたいな女性というより、外見だけで言えば確かに女性だが、雰囲気や何気ない素振りに、少年、あるいはまだ第２次性徴期にさしかかっていない男の子を想わせるものがある少女あるいは女性としての意味合いが強い。<BR>［２］中性あるいは男とか女とかに拘らないその意識こそが魅力といえる。<BR>［３］基本的には、体育系部活、そうでなくても、かなりのアクティブ少女。<BR>［４］昔は、ショートの髪型が大前提だったが最近では男性や少年の長髪も珍しくないため、絶対的にそうともいえない。<BR>［５］肉体的には、スレンダー／貧乳など、女性らしからぬ部分が多く、それだけで、ＴＳファン及びボクっ娘ファンを混乱の坩堝に追い立てることも少なくない。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kou_sa_to@yahoo.co.jp" target="_blank">kou</a></strong>  <i>2002/05/27 20:38:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022499506fhwsd&id2=1002023656ucmwd&ff=p">APPEND 91</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022499506fhwsd_id2_1002023656ucmwd_ff_p.cgi">APPEND 91</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����I�@����͂��������I�@����Ȃɏ�񂪂���I<BR>��i�̐���̎Q�l�ɂ����Ă��炤���I<BR><BR>�@�T�O���ʂɂ܂Ƃ߂Č��邼�I�@����Ɍ��ӂ��Ă��܂����z�ł����ǁB
+　おお！　これはすごいぞ！　こんなに情報がある！<BR>作品の制作の参考にさせてもらうぞ！<BR><BR>　５０音別にまとめて見るぞ！　勝手に決意してしまった奴ですけど。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kou_sa_to@yahoo.co.jp" target="_blank">kou</a></strong>  <i>2002/05/27 20:40:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022499621ganyte&id2=1002023656ucmwd&ff=p">APPEND 92</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022499621ganyte_id2_1002023656ucmwd_ff_p.cgi">APPEND 92</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ā@����Ɍ��ӂ��Ă��_���ł��ˁB<BR>�l�n�m�c�n����@����`���o���邱�Ƃ͂���܂��񂩁H�H
+って　勝手に決意してもダメですね。<BR>ＭＯＮＤＯさん　お手伝い出来ることはありませんか？？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2002/05/28 20:14:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2002/05/28 20:14:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022584491vgfmh&id2=1002023656ucmwd&ff=p">APPEND 93</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022584491vgfmh_id2_1002023656ucmwd_ff_p.cgi">APPEND 93</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���݂܂���A��ɂ���āA�����ł��B<BR>��͂�A�R�b�v��Ў�ɃL�[�^�C�v������񂶂�Ȃ��ˁB<BR><BR>�u�E�ݑ��v�i�����݂����j<BR>�m�m�Q�n����炵���W�J��a���Ɋ��҂�����i��j������炵���W�J��`�ʂɊ��҂�����i���j<BR><BR>
+すみません、例によって、訂正です。<BR>やはり、コップ酒片手にキータイプするもんじゃないね。<BR><BR>「勇み足」（いさみあし）<BR>［［２］それらしい展開や病死に期待したら（誤）→それらしい展開や描写に期待したら（正）<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2002/05/29 20:18:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2002/05/29 20:18:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022671138adujw&id2=1002023656ucmwd&ff=p">APPEND 94</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022671138adujw_id2_1002023656ucmwd_ff_p.cgi">APPEND 94</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G�b�`�k�������l<BR>�m�P�n�ِ��ɑ΂��āA���ɂ��̓��̂Ɋւ��āA���������A�D��S�������ƁB<BR>�m�Q�n���Փ��A���~���A���{�\�Ɋ�Â����s���C�s�ׁB�������͖ϑz�B<BR>�m�R�n���̓I���������߂邽�߂̍s���A�s�ׁB<BR>�m�S�n�����Ȃ菗���̐g�̂ɂȂ��Ă��܂����j���ɁA���������ȂƂ������������Șb�ł���B<BR>�m�T�n����ȏ㓥�ݍ��񂾐����́A�f�ڂǂ��납�A�Ǘ��҂ɖ��f�������邽�߁A�����ł͍s���Ȃ��B�������A����ɃG�b�`�Ƃ����Ă��A�X�J�[�g�߂���ȂǁA�q���̈��ӂ����Ȃ��Ƃ��A�G�b�`�Ƃ����邱�Ƃ��炵�āA���̐������́A�ɂ߂ĞB��������ł���B<BR>�m�U�n���̍s�ׂ̌��ʁA���̂�������������A�g�̂�����ւ������A�E�ޗ��E������A���ǌ��ɖ߂����肷�邱�Ƃ�����B<BR>�m�V�n���̂��j�����珗���ɕς�������Ƃ𖾊m���G���^�[�e�B�����g�����������ĕ\������ɔ��ɗL���ȕ`�ʕ��@�B�������A�����������ԈႦ��ƁA�s�r�������ꂽ�Ӗ��̂Ȃ��A�����̃G�b�`�ȍ�i�ɂȂ��Ă��܂��댯������߂Ă���B<BR>�m�W�n���̍s�ׂ����ꂽ�^���ꂻ���ɂȂ�����������̉����̌��t�̂P�B���̃A�N�Z���g��C���g�[�l�[�V�����ɂ��A�h�������Ӗ����u�ے�v�u�󓮓I�m��v�u�ϋɓI�m��v�Ȃǂɕω�����B<BR>
+エッチ〔えっち〕<BR>［１］異性に対して、特にその肉体に関して、強い興味、好奇心をもつこと。<BR>［２］性衝動、性欲求、性本能に基づいた行動，行為。もしくは妄想。<BR>［３］肉体的快感を求めるための行動、行為。<BR>［４］いきなり女性の身体になってしまった男性に、これをするなという方が無理な話である。<BR>［５］これ以上踏み込んだ説明は、掲載どころか、管理者に迷惑をかけるため、ここでは行えない。しかし、一口にエッチといっても、スカートめくりなど、子供の悪ふざけなことも、エッチといえることからして、その線引きは、極めて曖昧かつ困難である。<BR>［６］この行為の結果、肉体が女性化したり、身体が入れ替わったり、勇退離脱したり、結局元に戻ったりすることがある。<BR>［７］肉体が男性から女性に変わったことを明確かつエンターティメント性を持たせて表現するに非常に有効な描写方法。ただし、さじ加減を間違えると、ＴＳを取り入れた意味のない、ただのエッチな作品になってしまう危険性も秘めている。<BR>［８］その行為をされた／されそうになった女性からの応答の言葉の１つ。そのアクセントやイントーネーションにより、刺し示す意味が「否定」「受動的肯定」「積極的肯定」などに変化する。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">�����W�S�Q�U</a></strong>  <i>2002/05/29 23:30:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.mk8426.net/" target="_blank">ｍｋ８４２６</a></strong>  <i>2002/05/29 23:30:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022682619oxymu&id2=1002023656ucmwd&ff=p">APPEND 95</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022682619oxymu_id2_1002023656ucmwd_ff_p.cgi">APPEND 95</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G�b�`�k�������l�i�⑫�j<BR>�y�ꌹ�z�ւ񂽂��i�ϑԁj�̃��[�}���\�L�u�g�d�m�s�`�h�v�̓������u�g�v���ꌹ�ƌ����Ă���B
+エッチ〔えっち〕（補足）<BR>【語源】へんたい（変態）のローマ字表記「ＨＥＮＴＡＩ」の頭文字「Ｈ」が語源と言われている。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2002/05/30 21:24:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2002/05/30 21:24:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022761461kvlawpj&id2=1002023656ucmwd&ff=p">APPEND 96</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022761461kvlawpj_id2_1002023656ucmwd_ff_p.cgi">APPEND 96</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���k��߁l<BR>�y�P�z�ۂ��ƂP���s�r��i�����낢�B�}���K�ɏ����A�Q�[���Ɖf����i�Љ�B���̕ω�����ւ��߈˔]�ڐA�u�q�A�������E�E�E�ƑS�W��������ԗ��B�������T�����B<BR>�y�Q�z���i�ɂ���邪�A���ʂQ�����͔������B���́B<BR><BR>��]�k��ڂ��l<BR>�y�P�z�s�r��i�ŉ؁X�����f�r���[�B���R�A�f�r���[��͑�q�b�g�ƂȂ�B���̐����������āA���X�Ƃs�r��i�̃q�b�g���Ƃ΂��A�s�r�Ƃ����W����������ʂɐZ��������ƂƂ��ɁA�������s�r��ƂƂ��Ă̒n�ʂ��m�ł��郂�m�ɂ���B��i���Q�[�����f����������̂́A�I�����C������̓���^�f�ɂ��i�ב����ƂȂ邪�A���̂��Ƃ��������āA�s�r��i���܂߂��m���x�����߂邱�ƂɂȂ�B���n�܂���܂��A�s�r��ƂƂ��Ē��_�ɓo��l�߂���̂́A�}���B����A�t�@����ɂ���Đ_�i������A�`���ƂȂ�B<BR>
+夢〔ゆめ〕<BR>【１】丸ごと１冊ＴＳ作品粒ぞろい。マンガに小説、ゲームと映像作品紹介。肉体変化入れ替わり憑依脳移植ＶＲ、ｅｔｃ・・・と全ジャンルを網羅。もちろん週刊誌。<BR>【２】価格にもよるが、当面２冊ずつは買うぞ。俺は。<BR><BR>野望〔やぼう〕<BR>【１】ＴＳ作品で華々しくデビュー。当然、デビュー作は大ヒットとなる。その勢いをかって、続々とＴＳ作品のヒットをとばし、ＴＳというジャンルを一般に浸透させるとともに、自分もＴＳ作家としての地位を確固たるモノにする。作品がゲーム化映像化するものの、オンラインからの盗作疑惑により訴訟騒ぎとなるが、このことがかえって、ＴＳ作品を含めた知名度を高めることになる。星Ｏ賞を受賞し、ＴＳ作家として頂点に登り詰めるものの、急逝。死後、ファンらによって神格化され、伝説となる。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteread&f=1&id=1004721056ifxobad&ff=on" target="_blank">�厫�T����낤�I�i�Q�j�ւ͂������N���b�N </a></strong>  <i>2002/05/30 23:37:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_1_id_1004721056ifxobad_ff_on.cgi" target="_blank">大辞典を作ろう！（２）へはここをクリック </a></strong>  <i>2002/05/30 23:37:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022769466qnoayi&id2=1002023656ucmwd&ff=p">APPEND 97</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022769466qnoayi_id2_1002023656ucmwd_ff_p.cgi">APPEND 97</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂��Ȃ��P�O�O���Ȃ�ŁA���낻��ڍs���܂��傤���B<BR>���ꂶ��A�����́i�Q�j�ŁB<BR>�i���b�Ă��ǎҁj
+まもなく１００件なんで、そろそろ移行しましょうか。<BR>それじゃ、続きは（２）で。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2002/06/01 09:09:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2002/06/01 09:09:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022890152vwlsod&id2=1002023656ucmwd&ff=p">APPEND 98</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022890152vwlsod_id2_1002023656ucmwd_ff_p.cgi">APPEND 98</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���b�Ă��ǎ҂���A���肪�Ƃ��������܂��B<BR>�@����ł͊F�l�A�i�Q�j�ł�낵���B
+　世話焼き読者さん、ありがとうございます。<BR>　それでは皆様、（２）でよろしく。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2002/06/01 17:14:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2002/06/01 17:14:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=1022919269yfyjfv&id2=1002023656ucmwd&ff=p">APPEND 99</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_1022919269yfyjfv_id2_1002023656ucmwd_ff_p.cgi">APPEND 99</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����z���ƂƂ��ɁA�V�����f�����ғ����܂����B<BR>������ł��肢���܂��B<BR><BR><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten</a>
+引っ越しとともに、新しい掲示板が稼働しました。<BR>こちらでお願いします。<BR><BR><a href="../../../~ts/kansou/bbs@log_jiten.cgi" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=jiten</a>
 </td></tr>
 </table></a><br>
 
