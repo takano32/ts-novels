@@ -1,220 +1,220 @@
-<html><head><title>��������g�����X�E�M�����Y��c��</title></head>
+<html><head><title>生命戦隊トランス・ギャルズ会議室</title></head>
 <body bgcolor="#ffeedd">
 
-	<h1>��������g�����X�E�M�����Y�̉�c��</h1>
+	<h1>生命戦隊トランス・ギャルズの会議室</h1>
 	<ul>
-	<li>��l�ł���Ă�ƑS�R���C���o�Ȃ��̂łƂ肠��������Ȃ̂�����Ă݂܂����B<BR>���C�^�[��]�̐l���҂��Ă��܂��B�ŉ�c�������낤���H<BR>�Ƃ���ŁA���̓��e�i�C���j����A���N���b�N����Ɠ��e�p�t�H�[���Ɉړ����܂��B
+	<li>一人でやってると全然やる気が出ないのでとりあえずこんなのを作ってみました。<BR>ライター希望の人期待しています。闇会議室もつくろうか？<BR>ところで、下の投稿（修正）する、をクリックすると投稿用フォームに移動します。
 	</ul>
 	<p>
 
 <h3><hr size=3>
-�s�ŐV�̋L������20���t
-<FONT SIZE=6>[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=form" >���e(�C��)����</a>]</FONT>
- [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi">�X�V</a>]
-[<a href="http://www2k.meshnet.or.jp/~yaji/" target="_top">�I��</a>]
-[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=rm">�폜</a>]
+《最新の記事から20件》
+<FONT SIZE=6>[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=form" >投稿(修正)する</a>]</FONT>
+ [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi">更新</a>]
+[<a href="http://www2k.meshnet.or.jp/~yaji/" target="_top">終了</a>]
+[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=rm">削除</a>]
 <hr size=3></h3><p>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�ǂ����񂾂�</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��20��(��)00��45��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>どうやるんだろ</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月20日(月)00時45分
 <li><font size=-1>Number:0920004553</font> <!-- p20-dn02gobou.wakayama.ocn.ne.jp -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:138 bytes</font><p>
 </ul><blockquote>
-���X�J�[�g�ɃV�����Ȃ��悤�ɂ���\��B<br>
+＞スカートにシワ寄らないようにする予定。<br>
 <br>
-���܂���������A���̂܂܍̗p�����B<br>
-��C�҂͂��邩��A�C���[�W�C���X�g�Ƃ��ē����Ă������������B<br>
+うまくいったら、そのまま採用かも。<br>
+先任者はいるから、イメージイラストとして投げていただくかも。<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�΁[����񂠂��ՁE�ӂ����Ƃ��I</b></font></td></tr></table>
-<ul><li>by <b>�l�n�m�c�n</b> at 9��19��(��)10��28��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>ばーじょんあっぷ・ふぁいとっ！</b></font></td></tr></table>
+<ul><li>by <b>ＭＯＮＤＯ</b> at 9月19日(日)10時28分
 <li><font size=-1>Number:0919102841</font> <!-- cse9-24.osaka.mbn.or.jp -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows 98) -->
 <font size=-1>Length:191 bytes</font><p>
 </ul><blockquote>
-�@�l�n�m�c�n�ł��B���[�����肪�Ƃ��������܂����B<br>
-�@���݁A��{�̃f�U�C�����C����ς����Ɂu���i�����j�̏ォ�瑕�������v�^�C�v��<br>
-���f�U�C�����Ă���܂��B<br>
-�@�X�J�[�g�ɃV�����Ȃ��悤�ɂ���\��B<br>
+　ＭＯＮＤＯです。メールありがとうございました。<br>
+　現在、基本のデザインラインを変えずに「服（制服）の上から装着した」タイプに<br>
+リデザインしております。<br>
+　スカートにシワ寄らないようにする予定。<br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>���Ȃ�</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��17��(��)00��26��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>乗らない</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月17日(金)00時26分
 <li><font size=-1>Number:0917002647</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:130 bytes</font><p>
 </ul><blockquote>
-���Ă������ǂ����W���ł��Ȃ������ˁB<br>
-�A�j����h���}�����Ȃ��炶��Ȃ��ƍl�������o���Ȃ��݂����B<br>
-BGV�����낢��p�ӂ���Ƃ�����ˁB<br>
+っていうかどうも集中できない感じね。<br>
+アニメやドラマを見ながらじゃないと考え事が出来ないみたい。<br>
+BGVをいろいろ用意せんといかんね。<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>���S</b></font></td></tr></table>
-<ul><li>by <b>�ŘH���Ђ�</b> &lt;<a href="mailto:chihiro@nerimadors.or.jp">chihiro@nerimadors.or.jp</a>&gt; at 9��13��(��)08��55��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>逃亡</b></font></td></tr></table>
+<ul><li>by <b>椎路ちひろ</b> &lt;<a href="mailto:chihiro@nerimadors.or.jp">chihiro@nerimadors.or.jp</a>&gt; at 9月13日(月)08時55分
 <li><font size=-1>Number:0913085350</font> <!-- 210.230.203.151 -->
 <!-- Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt) -->
 <font size=-1>Length:318 bytes</font><p>
 </ul><blockquote>
-&gt;�@�킽���͐ݒ�i��������j��ϐg�V�[���̕`�ʂ���A�����ƃ^�C�g�Ńi�}���ۂ�<br>
-&gt;���̂�z�����Ă��܂����B<br>
+&gt;　わたしは設定（生物兵器）や変身シーンの描写から、もっとタイトでナマっぽい<br>
+&gt;ものを想像していました。<br>
 <br>
-���͎����������Ȃ�ł����A���̕��A�[�}�[���Ă��܂�L���Cor�����Ȃ�Ȃ��E�E�E�B<br>
-�ŁA�b�h�ɓ������Ƃ����E�E�E�B<br>
-�܁[�I�o�̖��ƍ��킹�āA�����������������Ă݂����Ƃ͎v���܂��B<br>
+実は私も同じくなんですが、生体風アーマーってあまりキレイor可愛くならない・・・。<br>
+で、甲冑に逃げたという・・・。<br>
+まー露出の問題と合わせて、もうすこし検討してみたいとは思います。<br>
 <br>
-���Y��Ȗт��H���ł����₷���H<br>
+＃綺麗な毛か羽根でも生やすか？<br>
 <br>
 </pre>
 <p>
 <a href="http://www.nerimadors.or.jp/~chihiro/" target="_blank">http://www.nerimadors.or.jp/~chihiro/</a><p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>��낵���񂶂�Ȃ��ł��傤��</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��12��(��)18��33��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>よろしいんじゃないでしょうか</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月12日(日)18時33分
 <li><font size=-1>Number:0912183359</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:77 bytes</font><p>
 </ul><blockquote>
-���킽�����o�C�I�A�[�}�[�A�`���Ă����ł����H�@�����B<br>
+＞わたしもバイオアーマー、描いていいですか？　矢治さん。<br>
 <br>
-���肢���܂��ł��B<br>
+お願いしますです。<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�o����</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��12��(��)18��29��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>出すよ</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月12日(日)18時29分
 <li><font size=-1>Number:0912182905</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:266 bytes</font><p>
 </ul><blockquote>
-�����A���ꂩ��A�w����x�Ŕ�I�����u��s�i�󒆕��V�j�\�́v�́A<br>
-���{�҂ł��o�ꂷ��̂ł��傤���H<br>
+＞あ、それから、『宴会』で披露した「飛行（空中浮遊）能力」は、<br>
+＞本編でも登場するのでしょうか？<br>
 <br>
-�o����B�����̓K�C�o�[�݂����ȁA�d�͐���ˁB<br>
-���΂炭�n��ɒ���t���Ă�����āA�󒆐������Ă��炤�\��B<br>
-�Ƃ�����Ă���A�܂�Ԃ��̂P�R�b�܂ŃG�s�\�[�h�������������ȁB<br>
+出すよ。方式はガイバーみたいな、重力制御ね。<br>
+しばらく地上に張り付いてもらって、空中戦をやってもらう予定。<br>
+とかやってたら、折り返しの１３話までエピソードがいきそうだな。<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�o�C�I�A�[�}�[�E�f�U�C�����܂���</b></font></td></tr></table>
-<ul><li>by <b>�l�n�m�c�n</b> at 9��12��(��)17��12��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>バイオアーマー・デザイン見ました</b></font></td></tr></table>
+<ul><li>by <b>ＭＯＮＤＯ</b> at 9月12日(日)17時12分
 <li><font size=-1>Number:0912171259</font> <!-- cse12-10.osaka.mbn.or.jp -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows 98) -->
 <font size=-1>Length:550 bytes</font><p>
 </ul><blockquote>
-�@�ǂ����A�l�n�m�c�n�ł��B<br>
-�@�ŘH����̃f�U�C����A���܂����B�b�h�^�C�v�ł��ˁB<br>
-�@���b�g�⌨���A���܂��̑��b���O�l���ꂼ��̌������܂��Ƃ炦�Ă����<br>
-�����܂����B�����������ł��B<br>
-�@�킽���͐ݒ�i��������j��ϐg�V�[���̕`�ʂ���A�����ƃ^�C�g�Ńi�}���ۂ�<br>
-���̂�z�����Ă��܂����B<br>
-�@�c�c���`�ށA�΍R�S���ނ�ނ�ƗN���Ă��܂������B<br>
-�@�ŘH����Ƃ̓A�v���[�`�̎d�����S���Ⴄ�f�U�C���ɂȂ�Ǝv���܂����A<br>
-�킽�����o�C�I�A�[�}�[�A�`���Ă����ł����H�@�����B<br>
-�@���A���ꂩ��A�w����x�Ŕ�I�����u��s�i�󒆕��V�j�\�́v�́A<br>
-�{�҂ł��o�ꂷ��̂ł��傤���H<br>
+　どうも、ＭＯＮＤＯです。<br>
+　椎路さんのデザイン画、見ました。甲冑タイプですね。<br>
+　メットや肩口、腰まわりの装甲が三人それぞれの個性をうまくとらえていると<br>
+感じました。かっこいいです。<br>
+　わたしは設定（生物兵器）や変身シーンの描写から、もっとタイトでナマっぽい<br>
+ものを想像していました。<br>
+　……う～む、対抗心がむらむらと湧いてきましたっ。<br>
+　椎路さんとはアプローチの仕方が全く違うデザインになると思いますが、<br>
+わたしもバイオアーマー、描いていいですか？　矢治さん。<br>
+　あ、それから、『宴会』で披露した「飛行（空中浮遊）能力」は、<br>
+本編でも登場するのでしょうか？<br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>����U��Ԃ��</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��11��(�y)10��27��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>後ろを振り返れば</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月11日(土)10時27分
 <li><font size=-1>Number:0911102710</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:96 bytes</font><p>
 </ul><blockquote>
-���U��Ԃ��Ă݂�ƌ��\�����܂ł��Ă�Ȃ��B<br>
+＞振り返ってみると結構遠くまできてるなぁ。<br>
 <br>
-�͂邩����Ɍ������ʐl�Ƃ����n�[�h���H<br>
-�Ⴄ��(^^;<br>
+はるか後方に見える一般人というハードル？<br>
+違うか(^^;<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�����̉�Ђ������Ă���</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��11��(�y)10��16��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>うちの会社が売っている</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月11日(土)10時16分
 <li><font size=-1>Number:0911101609</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:84 bytes</font><p>
 </ul><blockquote>
-�t�B���^�����O�\�t�g������񂾂��ǁA�Ȃ�Ƃ����͌��Ă͂����Ȃ�<br>
-�y�[�W�炵���B�Ȃ��H<br>
+フィルタリングソフトがあるんだけど、なんとここは見てはいけない<br>
+ページらしい。なぜ？<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�ǁ[���A�ǁ[��</b></font></td></tr></table>
-<ul><li>by <b>�ŘH���Ђ�</b> &lt;<a href="mailto:chihiro@nerimadors.or.jp">chihiro@nerimadors.or.jp</a>&gt; at 9��10��(��)06��49��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>どーも、どーも</b></font></td></tr></table>
+<ul><li>by <b>椎路ちひろ</b> &lt;<a href="mailto:chihiro@nerimadors.or.jp">chihiro@nerimadors.or.jp</a>&gt; at 9月10日(金)06時49分
 <li><font size=-1>Number:0910064900</font> <!-- 210.145.107.188 -->
 <!-- Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt) -->
 <font size=-1>Length:290 bytes</font><p>
 </ul><blockquote>
-�L�������`�������܂����ǂˁB<br>
-��������ƃ��n�r�����Ȃ��ƍŋߐ������ڗ��E�E�E�B<br>
-�Ƃ���ŃA�[�}�[�͈ȑO�ɂ����ƘI�o�������ق����������Č����ĂȂ����������H<br>
+キャラも描き直しますけどね。<br>
+＃ちょっとリハビリしないと最近衰えが目立つ・・・。<br>
+ところでアーマーは以前にもっと露出が多いほうがいいって言ってなかったっけ？<br>
 <br>
-&gt;�ł����z�����Ⴄ�l�A�����ł���ˁB<br>
+&gt;でも乗り越えちゃう人、いるんですよね。<br>
 <br>
-�����͂��܂���z�����Ƃ������o�͂Ȃ��������ǁA<br>
-�U��Ԃ��Ă݂�ƌ��\�����܂ł��Ă�Ȃ��B<br>
+自分はあまり乗り越えたという自覚はなかったけど、<br>
+振り返ってみると結構遠くまできてるなぁ。<br>
 <br>
 </pre>
 <p>
 <a href="http://www.nerimadors.or.jp/~chihiro/" target="_blank">http://www.nerimadors.or.jp/~chihiro/</a><p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>��[��</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��10��(��)03��43��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>わーい</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月10日(金)03時43分
 <li><font size=-1>Number:0910034353</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:121 bytes</font><p>
 </ul><blockquote>
-��http://www.nerimadors.or.jp/~chihiro/Drawings/TGals/index.html<br>
+＞http://www.nerimadors.or.jp/~chihiro/Drawings/TGals/index.html<br>
 <br>
-���̂܂ɂ�����Ȃ̂����Ă�B<br>
-�A�[�}�[�͂��������ł��B<br>
+いつのまにかこんなのかいてる。<br>
+アーマーはいい感じです。<br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>��������n����</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��9��(��)07��48��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>周りを見渡せば</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月9日(木)07時48分
 <li><font size=-1>Number:0909074848</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:156 bytes</font><p>
 </ul><blockquote>
-���^����������Ƃ��ɏ��z�����Ȃ����Ƃ���������c<br>
+＞疑問を持ったときに乗り越えられないことが多いから…<br>
 <br>
-�ł����z�����Ⴄ�l�A�����ł���ˁB<br>
-�l�̏ꍇ�́A�t�ɋ����v�������݂���������������Ȃ��Ǝv���܂��B<br>
+でも乗り越えちゃう人、いるんですよね。<br>
+僕の場合は、逆に強制要因が存在する方が長続きしないと思います。<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>���v���Ԃ�</b></font></td></tr></table>
-<ul><li>by <b>�ŘH���Ђ�</b> &lt;<a href="mailto:chihiro@nerimadors.or.jp">chihiro@nerimadors.or.jp</a>&gt; at 9��9��(��)03��40��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>お久しぶり</b></font></td></tr></table>
+<ul><li>by <b>椎路ちひろ</b> &lt;<a href="mailto:chihiro@nerimadors.or.jp">chihiro@nerimadors.or.jp</a>&gt; at 9月9日(木)03時40分
 <li><font size=-1>Number:0909034056</font> <!-- 210.145.107.180 -->
 <!-- Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt) -->
 <font size=-1>Length:151 bytes</font><p>
 </ul><blockquote>
-�u�w�͂����Ă���ߒ��ł���Ȃ鋻�����N���Ă��āv<br>
-�Ƃ���̂Łu�L�b�J�P�v�����ł͂Ȃ��ł��ˁB<br>
-�����A����Ă邤���ɖʔ����Ȃ��āu�n�}�����v�[�z�ł��ˁB<br>
+「努力をしている過程でさらなる興味が湧いてきて」<br>
+とあるので「キッカケ」だけではないですね。<br>
+所謂、やってるうちに面白くなって「ハマった」つー奴ですね。<br>
 <br>
 </pre>
 <p>
@@ -222,174 +222,174 @@ BGV�����낢��p�ӂ���Ƃ�����ˁB<br>
 </blockquote>
 <hr size=3>
 <table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b></b></font></td></tr></table>
-<ul><li>by <b>�]�@������</b> at 9��9��(��)01��17��
+<ul><li>by <b>秕　麻沙弥</b> at 9月9日(木)01時17分
 <li><font size=-1>Number:0909011706</font> <!-- h076.p041.iij4u.or.jp -->
 <!-- Mozilla/4.61 [en] (WinNT; I) -->
 <font size=-1>Length:361 bytes</font><p>
 </ul><blockquote>
-&gt; ���������͑��K���ŁA�w�͂����Ă���ߒ��ł���Ȃ鋻�����N���Ă��āA<br>
-&gt; �X�Ȃ鍂�݂ցA���Ă����̂���ʐl�̓w�͂̉ߒ����Ǝv���܂��B<br>
+&gt; きっかけは大抵適当で、努力をしている過程でさらなる興味が湧いてきて、<br>
+&gt; 更なる高みへ、っていうのが一般人の努力の過程だと思います。<br>
 <br>
-�@�������������^�C�v����Ȃ�������������<br>
-���܂����������ɂ����Ȃ�<br>
-���������������Ƃǂ����ŕǂɂ�����Ƃ������A<br>
-�^����������Ƃ��ɏ��z�����Ȃ����Ƃ���������c<br>
+　私がそういうタイプじゃないせいもあって<br>
+いまいち理解しにくいなぁ<br>
+きっかけだけだとどこかで壁にあたるというか、<br>
+疑問を持ったときに乗り越えられないことが多いから…<br>
 <br>
-�@�Ƃ����킯�ŁA���������������Ȃ��Ƃ˂�<br>
+　というわけで、もう一つか二つ何かがないとねぇ<br>
 <br>
-�@�ł͂ł�<br>
+　ではでは<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�w�͂̉ߒ�</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��8��(��)07��59��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>努力の過程</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月8日(水)07時59分
 <li><font size=-1>Number:0908075941</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:465 bytes</font><p>
 </ul><blockquote>
-���@�~���ɑf���Ȑl�ԂŁA����ɓ������^�C�v��<br>
-���u���o�J���v�ł��ǂ񂾂����ł��ꂾ���̏C�s�����܂����˂�<br>
+＞　欲求に素直な人間で、さらに頭が回るタイプが<br>
+＞「空手バカ一代」でも読んだだけであれだけの修行をしますかねぇ<br>
 <br>
-����ł��傤�B<br>
-���������͑��K���ŁA�w�͂����Ă���ߒ��ł���Ȃ鋻�����N���Ă��āA<br>
-�X�Ȃ鍂�݂ցA���Ă����̂���ʐl�̓w�͂̉ߒ����Ǝv���܂��B<br>
-�u����p���̓`�L��ǂ�ň�҂ɂȂ錈�S�������v���Ă����̂��������炢<br>
-�o�J�o�J��������ł��B<br>
-�����̌Z���V���w������Ă��܂�����ǂ��A���Ƃ̓��@�͂Ȃɂ��悭<br>
-������܂��񂪁A�O�\�H�𒴂��āA�܂�����Ă��܂��ˁB<br>
+するでしょう。<br>
+きっかけは大抵適当で、努力をしている過程でさらなる興味が湧いてきて、<br>
+更なる高みへ、っていうのが一般人の努力の過程だと思います。<br>
+「野口英世の伝記を読んで医者になる決心をした」っていうのも同じぐらい<br>
+バカバカしいもんです。<br>
+うちの兄も天文学をやっていますけれども、もとの動機はなにやらよく<br>
+分かりませんが、三十路を超えて、まだやっていますね。<br>
 <br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�����̓^�N�V�[�g��Ȃ��ŋA�ꂽ��</b></font></td></tr></table>
-<ul><li>by <b>�]�@������</b> at 9��8��(��)01��11��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>今日はタクシー使わないで帰れたぞ</b></font></td></tr></table>
+<ul><li>by <b>秕　麻沙弥</b> at 9月8日(水)01時11分
 <li><font size=-1>Number:0908011114</font> <!-- h202.p041.iij4u.or.jp -->
 <!-- Mozilla/4.61 [en] (WinNT; I) -->
 <font size=-1>Length:1184 bytes</font><p>
 </ul><blockquote>
-YUKI�����<br>
+YUKIさんゑ<br>
 <br>
-&gt; �P���ȓ��@�ŁA�����ȖڕW�𗧂ĂĂ܂Ƃ��ȓ��e�̏C�Ƃ�����̂��A<br>
-&gt; �~���ɑf���Ȑl�ԂŁA����ɁA�������^�C�v���Ƃ���ƁA<br>
-&gt; ����قǕs���R�ł͂Ȃ��Ǝv���܂��B<br>
+&gt; 単純な動機で、無茶な目標を立ててまともな内容の修業をするのも、<br>
+&gt; 欲求に素直な人間で、さらに、頭が回るタイプだとすると、<br>
+&gt; それほど不自然ではないと思います。<br>
 <br>
-�@�~���ɑf���Ȑl�ԂŁA����ɓ������^�C�v��<br>
-�u���o�J���v�ł��ǂ񂾂����ł��ꂾ���̏C�s�����܂����˂�<br>
-�܂��A�ǂ����Ɏv�������芴���ł�����Εʂł��傤���A<br>
-�������Ƃ��Đ��オ�����̂��Ȃ�<br>
-(1960�N��ȑO�̐��܂�Ȃ�킩�邯��)<br>
+　欲求に素直な人間で、さらに頭が回るタイプが<br>
+「空手バカ一代」でも読んだだけであれだけの修行をしますかねぇ<br>
+まぁ、どこかに思いっきり感動でもすれば別でしょうが、<br>
+現実問題として世代があうのかなぁ<br>
+(1960年代以前の生まれならわかるけど)<br>
 <br>
-��_�������<br>
+矢治浩平さんゑ<br>
 <br>
-&gt; �����݂Ɛ^�Ղɂ��Ă͖���B<br>
+&gt; いさみと真琴については未定。<br>
 <br>
-�@�����݂����͓���ł��傤�˂�<br>
-�j���Ƃ����ӎ������Ȃ蔖�����ł�����B<br>
+　いさみちゃんは難しいでしょうねぇ<br>
+男女という意識がかなり薄そうですから。<br>
 <br>
-�@����ƁA�^�ՌN�͉��Z���Ă���̂����������Ȃ̂�<br>
-��قǂ̂��Ƃ��Ȃ��Ƃ��肦�Ȃ��ł��傤�B<br>
+　それと、真琴君は演技しているのが見え見えなので<br>
+よほどのことがないとありえないでしょう。<br>
 <br>
-&gt; ��������Ă������B<br>
+&gt; こう取られていたか。<br>
 <br>
-�@�m���ɐ�Ηʂ��炷��Ƃ����Ȃ�ł��傤���A<br>
-���Z���Ă���Ƃ����������̕����������Ă��邩��<br>
-����قǋC�ɂȂ�Ȃ��̂ł���B<br>
+　確かに絶対量からするとそうなんでしょうが、<br>
+演技しているという根っこの部分が見えているから<br>
+それほど気にならないのですよ。<br>
 <br>
-&gt; �ނ����o�J�Ɍ����Č��̂ɂ��ނ悤�ȓw�͂����Ă����ł���ˁB<br>
+&gt; 彼もおバカに見えて血のにじむような努力をしているんですよね。<br>
 <br>
-�@�������̕��������ʂ̐l�Ƃ͈Ⴄ�����̂悤�ȋC�����܂��B<br>
-�Ȃ�ŁA�Ⴂ������Ƃ��Ԕ����ŁA�Ⴂ�����Ȃ��Ƃ܂��߂Ɍ�����<br>
-�Ƃ����Ƃ���ł͂Ȃ��ł��傤���B<br>
+　ただその方向が普通の人とは違うだけのような気がします。<br>
+なんで、違いすぎるとお間抜けで、違いが少ないとまじめに見える<br>
+というところではないでしょうか。<br>
 <br>
-�@�Ƃ����킯�ŁA�ǂ����Ă��d�����ȃ��X�g�̑O�ɂ��邾�낤���V�т̉�ŁA<br>
-�Ⴂ�����Ă��Ԕ����Ƃ����̂��ǂ߂�Ƃ��ꂵ�����Ȃ��`���ƁB<br>
-(���X�g�̃��X�g�̃I�`�͈��I�����̖�ڂ�?)<br>
+　というわけで、どう見ても重そうなラストの前にあるだろうお遊びの回で、<br>
+違いすぎてお間抜けというのが読めるとうれしいかなぁ～っと。<br>
+(ラストのラストのオチは亜紀ちゃんの役目か?)<br>
 <br>
-�@�ł͂ł�<br>
+　ではでは<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�ނ�</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��6��(��)22��04��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>彼も</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月6日(月)22時04分
 <li><font size=-1>Number:0906220458</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:229 bytes</font><p>
 </ul><blockquote>
-���^�s�����Ȃ炫���Ƃ��������̂������Ă��Ă����ł��傤�B<br>
+＞真行寺氏ならきっとそういうのを持ってきてくれるでしょう。<br>
 <br>
-�ނ����o�J�Ɍ����Č��̂ɂ��ނ悤�ȓw�͂����Ă����ł���ˁB<br>
-���������G�s�\�[�h���������Ȃ���Ȃ�Ȃ��B�d���e�[�}��@���Ɍy����������<br>
-�����̈�Ԃ̉ۑ肾�����肵�܂��B<br>
+彼もおバカに見えて血のにじむような努力をしているんですよね。<br>
+そういうエピソードも準備しなきゃならない。重いテーマを如何に軽く書くかが<br>
+こいつの一番の課題だったりします。<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>������</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��6��(��)22��03��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>しかし</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月6日(月)22時03分
 <li><font size=-1>Number:0906220314</font> <!-- ajito -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:177 bytes</font><p>
 </ul><blockquote>
-������ɁA�����݂���񂾂����̕��������ɏo�Ă��Ȃ����炿�傤�Ǘǂ���<br>
+＞それに、いさみちゃんだけ私の部分が妙に出てこないからちょうど良いし<br>
 <br>
-��������Ă������B<br>
-����͂܂����ȁB��ғI�ɂ͎������o���Ă���x����<br>
+こう取られていたか。<br>
+これはまずいな。作者的には自分を出している度数は<br>
 <br>
-���I�������݁����^��<br>
+亜紀＞いさみ＞＞真琴<br>
 <br>
-�Ȃ񂾂��ǁB<br>
+なんだけど。<br>
 <br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
-<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>�l�^�΂꒍��</b></font></td></tr></table>
-<ul><li>by <b>��_��</b> at 9��6��(��)09��54��
+<table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b>ネタばれ注意</b></font></td></tr></table>
+<ul><li>by <b>矢治浩平</b> at 9月6日(月)09時54分
 <li><font size=-1>Number:0906095415</font> <!-- proxy01.sts.co.jp -->
 <!-- Mozilla/4.0 (compatible; MSIE 4.01; Windows NT) -->
 <font size=-1>Length:281 bytes</font><p>
 </ul><blockquote>
-�����߂āA�Ǝ��̌����Ȃ���΂˂�<br>
-���Ƃ͂����Ă��A�������ق����b�ɐ[�݂��o�Ă��邩��A�����Ȃ���<br>
-���~�����񂾂��ǁB<br>
+＞せめて、家事の件がなければねぇ<br>
+＞とはいっても、あったほうが話に深みが出てくるから、消さないで<br>
+＞欲しいんだけど。<br>
 <br>
-����͐�̕����Ȃ�ŁA�������Ƃ��Ă��O���킯�ɂ͂�����̂ł���B<br>
-���I��������Ԃ�ԃ��[�h�ɓ˓�������̂͗\��ɓ����Ă���̂ł����ǁA<br>
-�����݂Ɛ^�Ղɂ��Ă͖���B<br>
+あれは先の伏線なんで、こっちとしても外すわけにはいかんのですよ。<br>
+亜紀ちゃんをらぶらぶモードに突入させるのは予定に入っているのですけど、<br>
+いさみと真琴については未定。<br>
 <br>
 </pre>
 <p>
 </blockquote>
 <hr size=3>
 <table width=100% border=0 cellpadding=3 cellspacing=3><tr><td bgcolor=#ffaaaa><font size=+2><b></b></font></td></tr></table>
-<ul><li>by <b>YUKI</b> at 9��6��(��)00��52��
+<ul><li>by <b>YUKI</b> at 9月6日(月)00時52分
 <li><font size=-1>Number:0906005229</font> <!-- fujisawa1-17.m.nttpc.ne.jp -->
 <!-- Mozilla/4.0 (compatible; MSIE 5.0; MSN 2.6; Windows 95) -->
 <font size=-1>Length:564 bytes</font><p>
 </ul><blockquote>
-�����܂�ɂ��܂Ƃ��������ł���A�Z�b�̂����݂����Ƃ������A�C�s��<br>
-�����e���B�܂��A�����݂����ɂȂ��Ă���̎������ł̃m���͂Ȃ�ł����ǁB<br>
+＞あまりにもまともすぎるんですよ、六話のいさみちゃんというか、修行の<br>
+＞内容が。まぁ、いさみちゃんになってからの私生活でのノリはなんですけど。<br>
 <br>
-�@�ڕW�𗧂Ă�Ƃ��ɂ́A�~�����傫����p���A���̖ڕW�̒B���ߒ������߂�ɍ�<br>
-���ẮA������m�����傫����p���܂�����A�P���ȓ��@�ŁA�����ȖڕW�𗧂Ă�<br>
-�܂Ƃ��ȓ��e�̏C�Ƃ�����̂��A�~���ɑf���Ȑl�ԂŁA����ɁA�������^�C�v��<br>
-�Ƃ���ƁA����قǕs���R�ł͂Ȃ��Ǝv���܂��B<br>
-�@���e�ɑ΍R���镐��Ƃ��ďK������K�v���������Ƃ����̂��A�ʔ����Ǝv���܂�<br>
-���A��������ƁA�L�����C���[�W���Â��d���Ȃ��Ă��܂���ł͂Ȃ��ł��傤���H<br>
+　目標を立てるときには、欲求が大きく作用し、その目標の達成過程を決めるに際<br>
+しては、理性や知性が大きく作用しますから、単純な動機で、無茶な目標を立てて<br>
+まともな内容の修業をするのも、欲求に素直な人間で、さらに、頭が回るタイプだ<br>
+とすると、それほど不自然ではないと思います。<br>
+　父親に対抗する武器として習得する必要があったというのも、面白いと思います<br>
+が、そうすると、キャライメージが暗く重くなってしまうんではないでしょうか？<br>
 <br>
 <br>
 </pre>
 <p>
 </blockquote>
-<br><h4><hr size=3>[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=form">���e/�C������</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi">�X�V</a>] [<a href="http://www2k.meshnet.or.jp/~yaji/" target="_top">�I��</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=rm">�폜</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?ff=476">�����̃y�[�W</a>] <hr size=3></h3>
+<br><h4><hr size=3>[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=form">投稿/修正する</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi">更新</a>] [<a href="http://www2k.meshnet.or.jp/~yaji/" target="_top">終了</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=rm">削除</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?ff=476">↓次のページ</a>] <hr size=3></h3>
 <h5 align=right><a href="http://www.rescue.ne.jp/" target="_top"><img src="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=copyright" border=0 alt="MiniBBS2 v1.32"></a></h4>
 </body></html>
 
