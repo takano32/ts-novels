@@ -139,7 +139,7 @@
 <a href="noteky@c_notemenu_f_9_id_999946290njccujb_id2_995106716pmrdn_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-　『少年少女文庫』の作品はどれもこれもみなそれぞれに魅力的なのですが……<BR><BR>『RENTAL BODY Ver3　～微熱風味～』（ＴＷＯ－ＢＩＴ さん ）<BR><a href="../../../novel/rental/rb3.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/rental/rb3.html</a><BR>　「ボディ貸します」という設定がきちんと生かされており、なおかつそれに負けずにキャラクターが“たっている”ところに惹かれます。<BR>　……樹（いつき）くんがいいんですよ。女の子になりきっているようで、「自分」をきちんと持っているあたりが。<BR><BR>『華代ちゃんシリーズ「ナイン」』（水谷秋夫 さん ）<BR><a href="../../../novel/kayo_chan/kayo_chan45.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/kayo_chan/kayo_chan45.html</a><BR>　「高校野球で弱小のチームが強豪相手に、運とめぐり合わせとありったけの実力で五分（ごぶ）の試合を繰り広げる」という、王道なストーリー展開でぐいぐい押していって、そして最後の最後になんの脈絡もなく『華代ちゃん』してしまうという、その落差の大きさが痛快です。<BR><BR>　これからも、「あっ」と驚く楽しい作品を期待しています。
+　『少年少女文庫』の作品はどれもこれもみなそれぞれに魅力的なのですが……<BR><BR>『RENTAL BODY Ver3　～微熱風味～』（ＴＷＯ－ＢＩＴ さん ）<BR><a href="../../../novel/rental/rb3.html" target="_blank">../../../novel/rental/rb3.html</a><BR>　「ボディ貸します」という設定がきちんと生かされており、なおかつそれに負けずにキャラクターが“たっている”ところに惹かれます。<BR>　……樹（いつき）くんがいいんですよ。女の子になりきっているようで、「自分」をきちんと持っているあたりが。<BR><BR>『華代ちゃんシリーズ「ナイン」』（水谷秋夫 さん ）<BR><a href="../../../novel/kayo_chan/kayo_chan45.html" target="_blank">../../../novel/kayo_chan/kayo_chan45.html</a><BR>　「高校野球で弱小のチームが強豪相手に、運とめぐり合わせとありったけの実力で五分（ごぶ）の試合を繰り広げる」という、王道なストーリー展開でぐいぐい押していって、そして最後の最後になんの脈絡もなく『華代ちゃん』してしまうという、その落差の大きさが痛快です。<BR><BR>　これからも、「あっ」と驚く楽しい作品を期待しています。
 </td></tr>
 </table></a><br>
 <BR>

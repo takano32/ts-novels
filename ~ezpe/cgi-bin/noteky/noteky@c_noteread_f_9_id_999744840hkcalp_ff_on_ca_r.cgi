@@ -410,7 +410,7 @@
 <a href="noteky@c_notemenu_f_9_id_1001933764grwwn_id2_999744840hkcalp_ff_on.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-ＴＳ大辞典については&lt;A href="<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=9&id=1001840049pntgog&ff=on"&gt;" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=9&id=1001840049pntgog&ff=on"&gt;</a>こちらをクリック&lt;/A&gt;してください。
+ＴＳ大辞典については&lt;A href="<a href="noteky@c_noteread_f_9_id_1001840049pntgog_ff_on.cgi"&gt;" target="_blank">noteky@c_noteread_f_9_id_1001840049pntgog_ff_on.cgi"&gt;</a>こちらをクリック&lt;/A&gt;してください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">

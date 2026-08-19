@@ -19,7 +19,7 @@
 <a href="noteky@c_notemenu_f_11_id_1006903769mxxjsyn_id2_1006903769mxxjsyn_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-こちらの感想ボードが一杯になったので、今後は新しい場所にスレッドができます。<BR><a href="../../../~yays/cgi-bin/noteky/noteky@c_noteidx_f_0_ff_on.cgi" target="_blank">http://www14.big.or.jp/~yays/cgi-bin/noteky/noteky.cgi?c=noteidx&f=0&ff=on</a>
+こちらの感想ボードが一杯になったので、今後は新しい場所にスレッドができます。<BR><a href="../../../~yays/cgi-bin/noteky/noteky@c_noteidx_f_0_ff_on.cgi" target="_blank">../../../~yays/cgi-bin/noteky/noteky@c_noteidx_f_0_ff_on.cgi</a>
 </td></tr>
 </table></a><br>
 <BR>

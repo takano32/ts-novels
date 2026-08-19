@@ -31,7 +31,7 @@
 <a href="noteky@c_notemenu_f_10_id_941980759gmdyora_id2_941980537ikqugl_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-作品のURL間違ってました。<BR>作品を見るには、&lt;a href="<a href="http://www14.big.or.jp/~yays/library/novel/kayo_chan/extra/kayo_ex04.html"&gt;" target="_blank">http://www14.big.or.jp/~yays/library/novel/kayo_chan/extra/kayo_ex04.html"&gt;</a>ここをクリック&lt;/a&gt;
+作品のURL間違ってました。<BR>作品を見るには、&lt;a href="<a href="../../../novel/kayo_chan/extra/kayo_ex04.html"&gt;" target="_blank">../../../novel/kayo_chan/extra/kayo_ex04.html"&gt;</a>ここをクリック&lt;/a&gt;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">

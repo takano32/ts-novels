@@ -119,7 +119,7 @@
 <a href="noteky@c_notemenu_f_11_id_972929019uumcv_id2_954560228nynaxa_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-（運営委員会より）<BR>ベースノートにある「ここをクリック」はリンク切れしています。<BR>正しくは、以下のURLを参照すると、作品を見ることが出来ます。<BR><BR><a href="../../../novel/virgin_days.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/virgin_days.html</a>
+（運営委員会より）<BR>ベースノートにある「ここをクリック」はリンク切れしています。<BR>正しくは、以下のURLを参照すると、作品を見ることが出来ます。<BR><BR><a href="../../../novel/virgin_days.html" target="_blank">../../../novel/virgin_days.html</a>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">

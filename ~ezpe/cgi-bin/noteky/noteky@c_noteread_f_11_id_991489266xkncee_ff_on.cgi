@@ -511,7 +511,7 @@ Thrk様<BR>はじめまして。<BR>読んで頂いてありがとうござい�
 <a href="noteky@c_notemenu_f_11_id_995631150odkpixn_id2_991489266xkncee_ff_on.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-長くなったので3番目の掲示板を追加いたしました。<BR>以降はこちらにお願いします。<BR>【Irregular Girl(s) No.3】<BR><a href="noteky@c_noteread_f_11_id_995630582farby_ff_on.cgi" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=995630582farby&ff=on</a>
+長くなったので3番目の掲示板を追加いたしました。<BR>以降はこちらにお願いします。<BR>【Irregular Girl(s) No.3】<BR><a href="noteky@c_noteread_f_11_id_995630582farby_ff_on.cgi" target="_blank">noteky@c_noteread_f_11_id_995630582farby_ff_on.cgi</a>
 </td></tr>
 </table></a><br>
 [<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>

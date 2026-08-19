@@ -21,7 +21,7 @@
 <a href="noteky@c_notemenu_f_11_id_995630582farby_id2_995630582farby_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-これより以前の感想はこちら。<BR>&lt;a href="<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on"&gt;" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on"&gt;</a>【No.1】&lt;/a&gt;&lt;a href="<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on"&gt;" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on"&gt;</a>【No.2】&lt;/a&gt;<BR>
+これより以前の感想はこちら。<BR>&lt;a href="<a href="noteky@c_noteread_f_11_id_987955317flhkt_ff_on.cgi"&gt;" target="_blank">noteky@c_noteread_f_11_id_987955317flhkt_ff_on.cgi"&gt;</a>【No.1】&lt;/a&gt;&lt;a href="<a href="noteky@c_noteread_f_11_id_991489266xkncee_ff_on.cgi"&gt;" target="_blank">noteky@c_noteread_f_11_id_991489266xkncee_ff_on.cgi"&gt;</a>【No.2】&lt;/a&gt;<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
@@ -31,7 +31,7 @@
 <a href="noteky@c_notemenu_f_11_id_995630912yiesjhh_id2_995630582farby_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-あちゃー。失敗。気を取り直してやり直し。<BR><BR>以前の感想はこちらにあります。<BR>【No.1】<BR><a href="noteky@c_noteread_f_11_id_987955317flhkt_ff_on.cgi" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on</a><BR>【No.2】<BR><a href="noteky@c_noteread_f_11_id_991489266xkncee_ff_on.cgi" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on</a><BR>
+あちゃー。失敗。気を取り直してやり直し。<BR><BR>以前の感想はこちらにあります。<BR>【No.1】<BR><a href="noteky@c_noteread_f_11_id_987955317flhkt_ff_on.cgi" target="_blank">noteky@c_noteread_f_11_id_987955317flhkt_ff_on.cgi</a><BR>【No.2】<BR><a href="noteky@c_noteread_f_11_id_991489266xkncee_ff_on.cgi" target="_blank">noteky@c_noteread_f_11_id_991489266xkncee_ff_on.cgi</a><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
@@ -41,7 +41,7 @@
 <a href="noteky@c_notemenu_f_11_id_995632922rrbxs_id2_995630582farby_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-あのー、既に第３掲示板、回ってるんですけど・・・。<BR>ちなみにアドレスはこちら。<BR><a href="noteky@c_noteread_f_11_id_994776448jfovsv_ff_on.cgi" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=994776448jfovsv&ff=on</a><BR>（世話焼き読者）
+あのー、既に第３掲示板、回ってるんですけど・・・。<BR>ちなみにアドレスはこちら。<BR><a href="noteky@c_noteread_f_11_id_994776448jfovsv_ff_on.cgi" target="_blank">noteky@c_noteread_f_11_id_994776448jfovsv_ff_on.cgi</a><BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">

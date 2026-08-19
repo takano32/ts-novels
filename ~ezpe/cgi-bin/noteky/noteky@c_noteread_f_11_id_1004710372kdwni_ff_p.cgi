@@ -179,7 +179,7 @@
 <a href="noteky@c_notemenu_f_11_id_1005975297dlmyya_id2_1004710372kdwni_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-あのー・・・。<BR>第４話を読もうとしても、何故かこのアドレス→『<a href="../../../novel/200109/21002626/gakuen_red04.htm" target="_blank">http://www14.big.or.jp/~yays/library/novel/200109/21002626/gakuen_red04.htm</a>』へ飛んでしまって、読めないのですが・・・。<BR>真っ白で文字も何も無いページでした。
+あのー・・・。<BR>第４話を読もうとしても、何故かこのアドレス→『<a href="../../../novel/200109/21002626/gakuen_red04.htm" target="_blank">../../../novel/200109/21002626/gakuen_red04.htm</a>』へ飛んでしまって、読めないのですが・・・。<BR>真っ白で文字も何も無いページでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">

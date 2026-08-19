@@ -15,7 +15,7 @@
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://http://www14.big.or.jp/~yays/gallery/art29.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/09/27 22:45:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://../../../~yays/gallery/art29.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/09/27 22:45:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
 <a href="noteky@c_notemenu_f_10_id_938439941nnojy_id2_938439941nnojy_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
@@ -70,7 +70,7 @@
 <a href="noteky@c_notemenu_f_10_id_938495068vlcdk_id2_938439941nnojy_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-アンミツさん、こんにちは。<BR>管理人の八重洲です。<BR>書き込みどうもです。<BR><BR>さて、掲載の可否に関する問題は、作品の感想とはまた少し違う問題ですので、それを主に論じる場合は私宛のメールか又は&lt;a href="<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2b/resbbs2.cgi?"&gt;" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2b/resbbs2.cgi?"&gt;</a>ギャラリー掲示板&lt;/a&gt;のほうに書くということにしましょう。<BR><BR>アンミツさんの御意見も理解できますし、真沙美さんの御意見も非常に興味深いです。<BR>今はちょっと時間がないので、これらに関してはいずれ掲示板のほうで。
+アンミツさん、こんにちは。<BR>管理人の八重洲です。<BR>書き込みどうもです。<BR><BR>さて、掲載の可否に関する問題は、作品の感想とはまた少し違う問題ですので、それを主に論じる場合は私宛のメールか又は&lt;a href="<a href="../resbbs2b/resbbs2.cgi"&gt;" target="_blank">../resbbs2b/resbbs2.cgi"&gt;</a>ギャラリー掲示板&lt;/a&gt;のほうに書くということにしましょう。<BR><BR>アンミツさんの御意見も理解できますし、真沙美さんの御意見も非常に興味深いです。<BR>今はちょっと時間がないので、これらに関してはいずれ掲示板のほうで。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">

@@ -131,7 +131,7 @@
 <a href="noteky@c_notemenu_f_12_id_993563390rfoox_id2_992701480dlgmfqd_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-【あらすじ】 宇宙、トリガーマンTWO Bees!の働き。今回はルパン５世との続きです<BR>【コメント】 続き書きました（笑） <BR>【推薦文】 「最終回の続き」っていうのも、すごいですねー、ホントに。<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>「最終回の続き」っていうのも、すごいですねー、ホントに。<BR>&lt;a href="<a href="http://www14.big.or.jp/~yays/library/novel/200106/16231634/bees.html"&gt;" target="_blank">http://www14.big.or.jp/~yays/library/novel/200106/16231634/bees.html"&gt;</a>「最終回(又は第一回実は前編)?!」を読むにはここをクリック&lt;/a&gt;
+【あらすじ】 宇宙、トリガーマンTWO Bees!の働き。今回はルパン５世との続きです<BR>【コメント】 続き書きました（笑） <BR>【推薦文】 「最終回の続き」っていうのも、すごいですねー、ホントに。<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>「最終回の続き」っていうのも、すごいですねー、ホントに。<BR>&lt;a href="<a href="../../../novel/200106/16231634/bees.html"&gt;" target="_blank">../../../novel/200106/16231634/bees.html"&gt;</a>「最終回(又は第一回実は前編)?!」を読むにはここをクリック&lt;/a&gt;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
@@ -261,7 +261,7 @@ TOM様<BR>おほめいただいてありがとうございます<BR>せりふそ
 <a href="noteky@c_notemenu_f_12_id_995736705fifotj_id2_992701480dlgmfqd_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-TwoBees!の過去作品の一部修正にともない、リンク先を変更しました。<BR><BR>第１回前編・<a href="../../../novel/200106/16231634/bees.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/200106/16231634/bees.html</a><BR>第１回後編・<a href="../../../novel/200106/16231634/bees2.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/200106/16231634/bees2.html</a><BR>第２回・<a href="../../../novel/200106/16231634/bees3.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/200106/16231634/bees3.html</a> <BR><BR>となっております。よろしくお願いします。
+TwoBees!の過去作品の一部修正にともない、リンク先を変更しました。<BR><BR>第１回前編・<a href="../../../novel/200106/16231634/bees.html" target="_blank">../../../novel/200106/16231634/bees.html</a><BR>第１回後編・<a href="../../../novel/200106/16231634/bees2.html" target="_blank">../../../novel/200106/16231634/bees2.html</a><BR>第２回・<a href="../../../novel/200106/16231634/bees3.html" target="_blank">../../../novel/200106/16231634/bees3.html</a> <BR><BR>となっております。よろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">

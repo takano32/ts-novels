@@ -28,7 +28,7 @@
 <a href="noteky@c_notemenu_f_6_id_979241259fxcnev_id2_979134331dlllcud_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-こんにちは。運営委員の米津です。<BR>ご質問の作品投稿に関しては、こちらを参考にしてください。<BR>文庫募集要項： <a href="../../../boshuu.html" target="_blank">http://www14.big.or.jp/~yays/library/boshuu.html</a><BR><BR>ただしこの要項にありますように、文庫では未成年者の閲覧に相応しくない表現を含む作品は御遠慮いただいています。<BR>そのため、ここでお書きになられているようなポルノ作品の掲載は難しいとお考え下さい。
+こんにちは。運営委員の米津です。<BR>ご質問の作品投稿に関しては、こちらを参考にしてください。<BR>文庫募集要項： <a href="../../../boshuu.html" target="_blank">../../../boshuu.html</a><BR><BR>ただしこの要項にありますように、文庫では未成年者の閲覧に相応しくない表現を含む作品は御遠慮いただいています。<BR>そのため、ここでお書きになられているようなポルノ作品の掲載は難しいとお考え下さい。
 </td></tr>
 </table></a><br>
 <BR>
