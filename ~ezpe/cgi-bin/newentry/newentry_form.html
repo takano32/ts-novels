@@ -1,0 +1,147 @@
+<HTML>
+<HEAD>
+<TITLE>Entry form</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#00A000" TEXT="#FFFFFF" LINK="#44FF44" VLINK="#D0B060">
+<BASEFONT SIZE="3">
+<CENTER><font size=+4><B>−　新作情報登録画面　−</B></font></CENTER>
+<BR>
+<CENTER>
+| <a href="http://www.geocities.co.jp/Playtown/3018/">ホームページ</a> | <a href="newentry_view.html">情報を閲覧する</a> | 情報を書き込む | <a href="select.cgi">編集する</a> |
+</CENTER>
+<br><BR>
+※「タイトル」「ジャンル」のみ省略不可です。<br>
+<FORM ACTION="newentry_add.cgi" METHOD="post">
+
+<TABLE border=3>
+<TR>
+<TD>
+
+<BR>
+<b>タイトル</b>：<input type="text" name="title" size=40>    <BR>
+<BR>
+<b>ジャンル</b>：<SELECT NAME="genre" size=18>
+	<option value="novel_magazine">小説・雑誌掲載作
+	<option value="novel_j">小説（日本人作家）
+	<option value="novel_e">小説（翻訳）
+	<option value="comic_magazine">コミック・雑誌掲載作
+	<option value="comic_boy">コミック・少年
+	<option value="comic_girl">コミック・少女
+	<option value="comic_youth">コミック・青年
+	<option value="comic_lady">コミック・女性
+	<option value="comic_adult">コミック・成年
+	<option value="video_game">ゲーム（家庭用／業務用）
+	<option value="pc_game">ゲーム（ＰＣ）
+	<option value="pc_game_adult">ゲーム（ＰＣ・成年）
+	<option value="tv">ＴＶ番組
+	<option value="video">ビデオ／ＬＤ作品
+	<option value="movie">映画
+	<option value="cd_drama">ＣＤドラマ
+	<option value="myth">神話／民話
+	<option value="others">その他
+	</Select><BR>
+<br>
+<b>作者</b>：<INPUT TYPE="text" name="author" size=40><br>
+<font color=pink size="-1">※ジャンルが小説・コミックの場合のみ</font><br>
+<br>
+<b>発売元</b>：<INPUT TYPE="text" name="publisher" size=40><br>
+<font color=pink size="-1">※書籍の場合は出版社名を記入。ＴＶ番組の場合、放送局名。映画の場合、配給会社。ゲームは、ソフトハウス名。例 「民明書房」</font><br>
+<br>
+<b>レーベル／掲載誌</b>：<INPUT TYPE="text" name="label" size=40>    <br>
+<font color=pink size="-1">※例１「創元推理文庫」　例２「小学二年生　2月号」<br>（雑誌などの掲載作の場合、雑誌名と号数を入力して下さい）</font><br>
+<br>
+<b>ＩＳＢＮ</b>：<INPUT TYPE="text" name="isbn" size=40><br>
+<font color=pink size="-1">※ジャンルが小説・コミックの場合のみ。半角数字で入力して下さい。例「4-87025-443-3」</font><br>
+<br>
+</TD>
+<TD>
+<b>　　発売日</b>：<br>
+<br>
+　　<INPUT TYPE="text" name="pub_year" value="1999" size=10> 年　　　<br>
+<br>
+<!-- month -->
+　　<select name="pub_month" size=1> 月
+	<option value="0">−
+	<option value="1">1
+	<option value="2">2
+	<option value="3">3
+	<option value="4">4
+	<option value="5">5
+	<option value="6">6
+	<option value="7">7
+	<option value="8">8
+	<option value="9">9
+	<option value="10">10
+	<option value="11">11
+	<option value="12">12
+	</select><br>
+<br>
+<!-- day -->
+　　<select name="pub_day" size=1> 日
+	<option value="0">−
+	<option value="1">1
+	<option value="2">2
+	<option value="3">3
+	<option value="4">4
+	<option value="5">5
+	<option value="6">6
+	<option value="7">7
+	<option value="8">8
+	<option value="9">9
+	<option value="10">10
+	<option value="11">11
+	<option value="12">12
+	<option value="13">13
+	<option value="14">14
+	<option value="15">15
+	<option value="16">16
+	<option value="17">17
+	<option value="18">18
+	<option value="19">19
+	<option value="20">20
+	<option value="21">21
+	<option value="22">22
+	<option value="23">23
+	<option value="24">24
+	<option value="25">25
+	<option value="26">26
+	<option value="27">27
+	<option value="28">28
+	<option value="29">29
+	<option value="30">30
+	<option value="31">31
+	</select><br>
+<br>
+</TD>
+</TR>
+
+<TR><TD COLSPAN=2>
+
+<center>
+<br>
+<b>あらすじ／コメント：</b><br>
+<br>
+<!-- textarea -->
+<TEXTAREA name="comment" ROWS=7 COLS=80>
+</textarea><br>
+<br>
+<font color=pink size="-1">※基本的に改行無しで書いていって、最後に"(yourname)"のように署名を入れて下さい。匿名希望の方は"(匿名)"とでもしておいて下さい。コメントを省略した場合は、署名も不要です。また、タグは無効です。</font><br>
+</TD></TR>
+
+<TR><TD COLSPAN=2>
+</center>
+<br>
+<b>編集用パスワード：</b><br>
+<INPUT TYPE="text" name="password" size=10 MAXLENGTH=10><br>
+<font color=pink size="-1">※後日、自分で登録したデータを編集／削除するために必要なパスワードです。省略した場合、登録データの編集／削除はできません。（委員の方の入力は不要です）</font><br>
+
+</TD></TR>
+</TABLE>
+<INPUT TYPE="HIDDEN" NAME="action" VALUE="0">
+<INPUT TYPE="HIDDEN" NAME="item" VALUE="0">
+<BR>
+<INPUT TYPE="submit" VALUE="登録する">
+</FORM>
+</BODY>
+</HTML>
