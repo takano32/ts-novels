@@ -71,7 +71,7 @@ A{TEXT-DECORATION:NONE};
 </font>
 </th>
 </tr>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name="log" value="">
 <input type=hidden name=action value="html4">
 <tr><th colspan=7>
@@ -85,7 +85,7 @@ A{TEXT-DECORATION:NONE};
 <input type=submit value=リスト表示 class="d1">
 </th>
 </form>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name="log" value="">
 <input type=hidden name=action value="html5">
 <th>
@@ -93,7 +93,7 @@ A{TEXT-DECORATION:NONE};
 <input type=submit value=検索 class="d1">
 </th>
 </form>
-<form method=post action=./index.cgi><th colspan=4>
+<form method=post action="index.cgi"><th colspan=4>
 <input type=hidden name=log value=>
 条件を指定して整頓<br><select name=sort>
 <option value=0>
@@ -117,13 +117,13 @@ A{TEXT-DECORATION:NONE};
 </tr></table>
 </center><p>
 <table border=5 cellspacing=5 align=center><tr>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name=action value="home">
 <td>
 <input type=submit value=" HOME " class="d1">
 </td>
 </form>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name=action value="form">
 <td>
 <input type=submit value=" 新規投稿 " class="d1">
@@ -132,7 +132,7 @@ A{TEXT-DECORATION:NONE};
 </tr></table><br>
 <hr>
 </center>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name="action" value="sentaku">
 <input type=hidden name="log" value="">
 PASSWORD <input type=password name="pwd" size=10>

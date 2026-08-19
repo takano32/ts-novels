@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,58 +13,58 @@ function popup(url) {
 }
 // -->
 </script>
-<title>�N���G�C�^�[�Y�E�t���A�i���j</title>
+<title>クリエイターズ・フロア（仮）</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>�N���G�C�^�[�Y�E�t���A�i���j</h1>
+<h1>クリエイターズ・フロア（仮）</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">�g�b�v�ɖ߂�</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">���ӎ���</a>]
-[<a href="./light.cgi?mode=find">���[�h����</a>]
+[<a href="../../index.html" target="_top">トップに戻る</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">留意事項</a>]
+[<a href="light@mode_find.cgi">ワード検索</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">�ߋ����O</a>]
+[<a href="light@mode_past.cgi">過去ログ</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">�Ǘ��p</a>]
+[<a href="admin.cgi">管理用</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>���Ȃ܂�</th>
+	<th>おなまえ</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>�d���[��</th>
+	<th>Ｅメール</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>�^�C�g��</th>
+	<th>タイトル</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[13] �ǂ����B" />
-    	<input type="submit" value="���M����" /><input type="reset" value="���Z�b�g" />
+    	<input type="text" name="sub" size="36" value="Re:[13] 良い情報。" />
+    	<input type="submit" value="送信する" /><input type="reset" value="リセット" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	���b�Z�[�W<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; �������͂��Ȃ����K�v�Ƃ���m�������Ȃ��ɂ���`���������Ǝv���܂��B</textarea>
+    	メッセージ<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; 私たちはあなたが必要とする知識をあなたにお手伝いしたいと思います。</textarea>
 	</th>
 </tr><tr>
-	<th>�Q�Ɛ�</th>
+	<th>参照先</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>�폜�L�[</th>
+	<th>削除キー</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(�p������8�����ȓ�) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> �N�b�L�[�ۑ�
+		(英数字で8文字以内) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> クッキー保存
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>�摜�F��</th>
+	<th>画像認証</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		�i�E�摜�̐�������́j <img src="./captcha.cgi?f2ff967c9fc4ce76acf687bebd3da8cb8c4a" class="capt" alt="���e�L�[" />
+		（右画像の数字を入力） <img src="captcha@f2ff967c9fc4ce76acf687bebd3da8cb8c4a.cgi" class="capt" alt="投稿キー" />
 		<input type="hidden" name="str_crypt" value="f2ff967c9fc4ce76acf687bebd3da8cb8c4a" />
 	</td>
 <!-- captcha_end -->
@@ -75,63 +75,63 @@ function popup(url) {
 
 
 <div class="art">
-	[<b>36</b>] <strong>�o�[�o���[ �o�b�O �R�s�[</strong>
-	���e�ҁF<b>�o�[�o���[ �o�b�O �R�s�[</b> ���e���F2019/05/16(Thu) 11:33 &nbsp; [<a href="./light.cgi?res=36">�ԐM</a>]
-	<div class="com">www.cibbuzz.com/brand-29.html �o�[�o���[ �o�b�O �R�s�[�̓R���p�N�g�ȃT�C�Y�ł����A���������z�A�g�ѓd�b�A�����P�[�X�ȂǕK�p�Ȃ��̂����[�\�ł��B�̑O�ʃ|�P�b�g�ɂ̓t�@�X�i�[�|�P�b�g������Awww.cibbuzz.com/ �u�����h �i ���� �ʔ̋M�d�i�̎��[�ɕ֗��̂��|�C���g�ł��B�����������邪�A�������[�����������܂��B<a href="https://www.rubi.com/pl" target="_blank">https://www.rubi.com/pl</a> �o�����V�A�K �R�s�[</div>
+	[<b>36</b>] <strong>バーバリー バッグ コピー</strong>
+	投稿者：<b>バーバリー バッグ コピー</b> 投稿日：2019/05/16(Thu) 11:33 &nbsp; [<a href="light@res_36.cgi">返信</a>]
+	<div class="com">www.cibbuzz.com/brand-29.html バーバリー バッグ コピーはコンパクトなサイズですが、小さい財布、携帯電話、かぎケースなど必用なものを収納可能です。の前面ポケットにはファスナーポケットがあり、www.cibbuzz.com/ ブランド 品 激安 通販貴重品の収納に便利のがポイントです。小さく見えるが、高い収納性を実現します。<a href="https://www.rubi.com/pl" target="_blank">https://www.rubi.com/pl</a> バレンシアガ コピー</div>
 </div>
 
 <div class="art">
 	[<b>35</b>] <strong>sbobet</strong>
-	���e�ҁF<b><a href="mailto:kontadamon58@hotmail.com">sbobetkaka</a></b> ���e���F2019/05/13(Mon) 19:16 &nbsp; [<a href="./light.cgi?res=35">�ԐM</a>]
-	<div class="com">�܂��A�����̃\�����[�V�����ƍł��l�C�̂���T�b�J�[�X�|�[�c<p class="url"><a href="http://www.antique-shop.com/forums/index.php?topic=19836.0" target="_blank">http://www.antique-shop.com/forums/index.php?topic=19836.0</a></p></div>
+	投稿者：<b><a href="mailto:kontadamon58@hotmail.com">sbobetkaka</a></b> 投稿日：2019/05/13(Mon) 19:16 &nbsp; [<a href="light@res_35.cgi">返信</a>]
+	<div class="com">まず、お金のソリューションと最も人気のあるサッカースポーツ<p class="url"><a href="http://www.antique-shop.com/forums/index.php?topic=19836.0" target="_blank">http://www.antique-shop.com/forums/index.php?topic=19836.0</a></p></div>
 </div>
 
 <div class="art">
 	[<b>34</b>] <strong>kidying</strong>
-	���e�ҁF<b>�N���� �n�[�c �l�b�N���X �R�s�[ </b> ���e���F2019/04/17(Wed) 12:16 &nbsp; [<a href="./light.cgi?res=34">�ԐM</a>]
-	<div class="com">�N�����n�[�c�l�b�N���X�͂ǂ̊p�x���猩�Ă��A��̑ł����̂Ȃ��D��ŏ�i�ȃf�U�C�����ɁA���L�����[�U�[����̎x���𓾂Ă��܂��B��ԃ��`�[�t�̃N���X�V���[�Y����ɐi�����J��Ԃ����܂ꂽ���A�A�C�e���B�N���� �n�[�c �l�b�N���X �R�s�[ <a href="http://www.kidying.com/" target="_blank">http://www.kidying.com/</a> �����ɂ���̂͑S�Ă��������ꂽ�����̈�i�B�R�s�[ �ʔ� golfcopy.com �����ō��������������o���A���������o���Ă���Ēj���I�΂�������l�C�A�C�e���̈�ł��B</div>
+	投稿者：<b>クロム ハーツ ネックレス コピー </b> 投稿日：2019/04/17(Wed) 12:16 &nbsp; [<a href="light@res_34.cgi">返信</a>]
+	<div class="com">クロムハーツネックレスはどの角度から見ても、非の打ち所のない優雅で上品なデザイン性に、幅広いユーザーからの支持を得ています。定番モチーフのクロスシリーズが常に進化を繰り返し生まれたレアアイテム。クロム ハーツ ネックレス コピー <a href="http://www.kidying.com/" target="_blank">http://www.kidying.com/</a> そこにあるのは全てが完成された至高の逸品。コピー 通販 golfcopy.com 肉厚で高級感をかもし出し、可愛さも演出してくれて男女選ばずつけられる人気アイテムの一つです。</div>
 </div>
 
 <div class="art">
-	[<b>33</b>] <strong>�u�����h���R�s�[�ʔ�</strong>
-	���e�ҁF<b>�ŐV�����N���[��</b> ���e���F2019/04/16(Tue) 16:26 &nbsp; [<a href="./light.cgi?res=33">�ԐM</a>]
-	<div class="com">�����g�N���A�N���G�i�܂͂��j�ɑ����āA�����̓����g�N���A�N���I�l�p�f�B���O���Љ�悤�Ƃ��Ă���B�u�����h���R�s�[�A�u�����h �� ���f�B�[�X �R�s�[�A�X�[�p�[�R�s�[�o�b�O�A�X�[�p�[�R�s�[���z�A�u�����h�C�X�[�p�[�R�s�[�A�u�����h�X�[�p�[�R�s�[���A�u�����h�R�s�[�A�ŐV�����N���[���A�u�����h���R�s�[�ʔ́AN�i�ʔ̓��{�l���c�I<br /><a href="https://www.cocobrandshop.jp/" target="_blank">https://www.cocobrandshop.jp/</a><p class="url"><a href="https://www.cocobrandshop.jp/category-18-b0.html" target="_blank">https://www.cocobrandshop.jp/category-18-b0.html</a></p></div>
+	[<b>33</b>] <strong>ブランド服コピー通販</strong>
+	投稿者：<b>最新モンクレール</b> 投稿日：2019/04/16(Tue) 16:26 &nbsp; [<a href="light@res_33.cgi">返信</a>]
+	<div class="com">モントクレアクロエ（爪はい）に続いて、今日はモントクレアクリオ個人パディングを紹介しようとしている。ブランド服コピー、ブランド 服 レディース コピー、スーパーコピーバッグ、スーパーコピー財布、ブランド靴スーパーコピー、ブランドスーパーコピー服、ブランドコピー、最新モンクレール、ブランド服コピー通販、N品通販日本人自営！<br /><a href="https://www.cocobrandshop.jp/" target="_blank">https://www.cocobrandshop.jp/</a><p class="url"><a href="https://www.cocobrandshop.jp/category-18-b0.html" target="_blank">https://www.cocobrandshop.jp/category-18-b0.html</a></p></div>
 </div>
 
 <div class="art">
 	[<b>32</b>] <strong>http://www.kidying.com/</strong>
-	���e�ҁF<b>�N���� �n�[�c �s�A�X �R�s�[</b> ���e���F2019/03/21(Thu) 10:38 &nbsp; [<a href="./light.cgi?res=32">�ԐM</a>]
-	<div class="com">���X�̃V���G�b�g�𑢌`�����l�C�̃N���X�`���[���ł��B�u�����h �N���� �n�[�c �s�A�X �R�s�[ <a href="http://www.kidying.com/" target="_blank">http://www.kidying.com/</a> �������тɗh���N���X���Z�N�V�[�ȃ`���[���ŁA�j����킸�R�[�f�B�l�[�g�ł��܂��B�R�s�[ �ʔ�golfcopy.com �h���b�v���ꂽ�S�V�b�N�ȃX�^�[���u�����h�J���[�������������A��i�ō������̂���l�b�N���X�g�b�v�Ƃ��Ċ��􂵂Ă���܂��B</div>
+	投稿者：<b>クロム ハーツ ピアス コピー</b> 投稿日：2019/03/21(Thu) 10:38 &nbsp; [<a href="light@res_32.cgi">返信</a>]
+	<div class="com">ロスのシルエットを造形した人気のクロスチャームです。ブランド クロム ハーツ ピアス コピー <a href="http://www.kidying.com/" target="_blank">http://www.kidying.com/</a> 動くたびに揺れるクロスがセクシーなチャームで、男女問わずコーディネートできます。コピー 通販golfcopy.com ドロップされたゴシックなスターがブランドカラーを引き立たせ、上品で高級感のあるネックレストップとして活躍してくれます。</div>
 </div>
 
 <div class="art">
-	[<b>31</b>] <strong>����</strong>
-	���e�ҁF<b><a href="mailto:sanockser99@gmail.com">Thisback</a></b> ���e���F2019/02/25(Mon) 14:07 &nbsp; [<a href="./light.cgi?res=31">�ԐM</a>]
-	<div class="com">�������Ǝv���܂����Ȃ��Ȃ��ł������Ԃ����߂��Ă����܂����B����Ȃ��Ƃ��Ǝv���Ă��܂�����낵�����肢���܂��B<p class="url"><a href="http://www.grandvip.net/link-gclub-casino/" target="_blank">http://www.grandvip.net/link-gclub-casino/</a></p></div>
+	[<b>31</b>] <strong>無題</strong>
+	投稿者：<b><a href="mailto:sanockser99@gmail.com">Thisback</a></b> 投稿日：2019/02/25(Mon) 14:07 &nbsp; [<a href="light@res_31.cgi">返信</a>]
+	<div class="com">えたいと思いますがなかなかできず時間だけ過ぎていきました。失礼なことだと思っていますがよろしくお願いします。<p class="url"><a href="http://www.grandvip.net/link-gclub-casino/" target="_blank">http://www.grandvip.net/link-gclub-casino/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>30</b>] <strong>�}���E�W����</strong>
-	���e�ҁF<b><a href="mailto:hoongerk155@hotmail.com">sboglax</a></b> ���e���F2019/02/22(Fri) 12:08 &nbsp; [<a href="./light.cgi?res=30">�ԐM</a>]
-	<div class="com">�قƂ�ǂ̃I�����C���T�b�J�[�X�^�C���̃Q�[��<p class="url"><a href="http://njwa.org/smf/index.php?topic=2216.0" target="_blank">http://njwa.org/smf/index.php?topic=2216.0</a></p></div>
+	[<b>30</b>] <strong>マユ・ジョン</strong>
+	投稿者：<b><a href="mailto:hoongerk155@hotmail.com">sboglax</a></b> 投稿日：2019/02/22(Fri) 12:08 &nbsp; [<a href="light@res_30.cgi">返信</a>]
+	<div class="com">ほとんどのオンラインサッカースタイルのゲーム<p class="url"><a href="http://njwa.org/smf/index.php?topic=2216.0" target="_blank">http://njwa.org/smf/index.php?topic=2216.0</a></p></div>
 </div>
 
 <div class="art">
 	[<b>29</b>] <strong>nettdai</strong>
-	���e�ҁF<b><a href="mailto:nettdai@hotmail.com">nettdai</a></b> ���e���F2019/02/21(Thu) 17:09 &nbsp; [<a href="./light.cgi?res=29">�ԐM</a>]
-	<div class="com">��葽���̐l����������Ƃ� ���Ȃ��͐l�X���o��̂�����ł��傤<p class="url"><a href="https://bit.ly/2GQz6YB" target="_blank">https://bit.ly/2GQz6YB</a></p></div>
+	投稿者：<b><a href="mailto:nettdai@hotmail.com">nettdai</a></b> 投稿日：2019/02/21(Thu) 17:09 &nbsp; [<a href="light@res_29.cgi">返信</a>]
+	<div class="com">より多くの人が検索するとき あなたは人々が登るのを見るでしょう<p class="url"><a href="https://bit.ly/2GQz6YB" target="_blank">https://bit.ly/2GQz6YB</a></p></div>
 </div>
 
 <div class="art">
-	[<b>28</b>] <strong> supreme �p�[�J�[ �R�s�[ </strong>
-	���e�ҁF<b> supreme �p�[�J�[ �R�s�[ </b> ���e���F2019/02/18(Mon) 11:02 &nbsp; [<a href="./light.cgi?res=28">�ԐM</a>]
-	<div class="com">�~�̃E�H�[�~���O�A�b�v����ʊw�܂ŕ��L���g����V���v���[�� �ʔ̂̃R�[�g�����ׂ��܂����B�\�n�ɍ̗p�����������������ւ�f�ނ��A�h�����ƒʋC�����������A�g�̂�g�����ۂꖇ�B�u�����h �R�s�[ ���S www.chenine.com/ �t�[�h�͍��߂̃f�U�C���Ŏ񌳂܂Œg���������܂��B�]�v�ȃf�U�C�����{�����A�@�\�����d�_�ɒu���Ȃ�����X�b�L���Ƃ����V���G�b�g�����L���X�^�C�����O�Ƀ}�b�`���܂��Bsupreme �p�[�J�[ �R�s�[ <a href="http://www.chenine.com/brand-130.html" target="_blank">http://www.chenine.com/brand-130.html</a> ���C������d�˒��܂ŗl�X�Ȓ����Ȃ��ɑΉ�������p���̍����A�C�e���ł��B</div>
+	[<b>28</b>] <strong> supreme パーカー コピー </strong>
+	投稿者：<b> supreme パーカー コピー </b> 投稿日：2019/02/18(Mon) 11:02 &nbsp; [<a href="light@res_28.cgi">返信</a>]
+	<div class="com">冬のウォーミングアップから通学まで幅広く使えるシュプリーム 通販のコートが入荷しました。表地に採用した高い撥水性を誇る素材が、防風性と通気性も発揮し、身体を暖かく保つ一枚。ブランド コピー 安心 www.chenine.com/ フードは高めのデザインで首元まで暖かく覆います。余計なデザインを施さず、機能性を重点に置きながらもスッキリとしたシルエットが幅広いスタイリングにマッチします。supreme パーカー コピー <a href="http://www.chenine.com/brand-130.html" target="_blank">http://www.chenine.com/brand-130.html</a> メインから重ね着まで様々な着こなしに対応する実用性の高いアイテムです。</div>
 </div>
 
 <div class="art">
-	[<b>27</b>] <strong>�u�����h �R�s�[ ���� - KEEVOO </strong>
-	���e�ҁF<b>�u�����h �R�s�[ ���� - KEEVOO </b> ���e���F2019/02/18(Mon) 10:48 &nbsp; [<a href="./light.cgi?res=27">�ԐM</a>]
-	<div class="com"><br /> �y�ʂŕۉ����ɗD�ꂽ�����Y �u�����h �R�s�[ ���� - KEEVOO <a href="http://www.keevoo.com/" target="_blank">http://www.keevoo.com/</a> supreme �X�[�p�[�R�s�[ �W���P�b�g �A�E�^�[ �͑�t�@�b�V������6���S�ŁA�N�X�A�I�V�����ƕۉ��������߂��f�U�C���ƂȂ��Ă���A���[�h����������X����̎x�����X�ɏ㏸���Ă��܂��B<br /> <p class="url"><a href="http://www.keevoo.com/" target="_blank">http://www.keevoo.com/</a></p></div>
+	[<b>27</b>] <strong>ブランド コピー 激安 - KEEVOO </strong>
+	投稿者：<b>ブランド コピー 激安 - KEEVOO </b> 投稿日：2019/02/18(Mon) 10:48 &nbsp; [<a href="light@res_27.cgi">返信</a>]
+	<div class="com"><br /> 軽量で保温性に優れたメンズ ブランド コピー 激安 - KEEVOO <a href="http://www.keevoo.com/" target="_blank">http://www.keevoo.com/</a> supreme スーパーコピー ジャケット アウター は大ファッションな6ロゴで、年々、オシャレと保温性を高めたデザインとなっており、モードを愛する方々からの支持も更に上昇しています。<br /> <p class="url"><a href="http://www.keevoo.com/" target="_blank">http://www.keevoo.com/</a></p></div>
 </div>
 
 
@@ -139,18 +139,18 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-�L��No<input type="text" name="num" size="3" />
-�폜�L�[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="�폜" />
+記事No<input type="text" name="num" size="3" />
+削除キー<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="削除" />
 </form>
 </div>
 

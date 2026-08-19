@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
@@ -13,60 +13,60 @@ function popup(url) {
 }
 // -->
 </script>
-<title>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</title>
+<title>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</title>
 </head>
 <body>
 <div class="ta-c">
-<h1>ѓNѓЉѓGѓCѓ^Ѓ[ѓYЃEѓtѓЌѓAЃi‰јЃj</h1>
+<h1>г‚ЇгѓЄг‚Ёг‚¤г‚їгѓјг‚єгѓ»гѓ•гѓ­г‚ўпј€д»®пј‰</h1>
 <hr width="90%" />
-[<a href="http://ts.novels.jp/" target="_top">ѓgѓbѓv‚Й–Я‚й</a>]
-[<a href="./light.cgi?mode=note" target="note" onclick="popup('./light.cgi?mode=note')">—Ї€УЋ–ЌЂ</a>]
-[<a href="./light.cgi?mode=find">ѓЏЃ[ѓhЊџЌх</a>]
+[<a href="../../index.html" target="_top">гѓ€гѓѓгѓ—гЃ«ж€»г‚‹</a>]
+[<a href="light@mode_note.cgi" target="note" onclick="popup('./light.cgi?mode=note')">з•™ж„Џдє‹й …</a>]
+[<a href="light@mode_find.cgi">гѓЇгѓјгѓ‰ж¤њзґў</a>]
 <!-- past_begin -->
-[<a href="./light.cgi?mode=past">‰Я‹ЋѓЌѓO</a>]
+[<a href="light@mode_past.cgi">йЃЋеЋ»гѓ­г‚°</a>]
 <!-- past_end -->
-[<a href="./admin.cgi">ЉЗ—ќ—p</a>]
+[<a href="admin.cgi">з®Ўзђ†з”Ё</a>]
 <hr width="90%" />
 </div>
 <div class="setback">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="regist" />
 <table class="regfm">
 <tr>
-	<th>‚Ё‚И‚Ь‚¦</th>
+	<th>гЃЉгЃЄгЃѕгЃ€</th>
 	<td><input type="text" name="name" size="28" value="" /></td>
 </tr><tr>
-	<th>‚dѓЃЃ[ѓ‹</th>
+	<th>пјҐгѓЎгѓјгѓ«</th>
 	<td><input type="text" name="email" size="28" value="" /></td>
 </tr><tr>
-	<th>ѓ^ѓCѓgѓ‹</th>
+	<th>г‚їг‚¤гѓ€гѓ«</th>
 	<td>
-    	<input type="text" name="sub" size="36" value="Re:[302] vogvip.com VOGѓXЃ[ѓpЃ[ѓRѓsЃ[ Њѓ€А" />
-    	<input type="submit" value="‘—ђM‚·‚й" /><input type="reset" value="ѓЉѓZѓbѓg" />
+    	<input type="text" name="sub" size="36" value="Re:[302] vogvip.com VOGг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј жїЂе®‰" />
+    	<input type="submit" value="йЂЃдїЎгЃ™г‚‹" /><input type="reset" value="гѓЄг‚»гѓѓгѓ€" />
   </td>
 </tr><tr>
 	<th colspan="2">
-    	ѓЃѓbѓZЃ[ѓW<br />
-    	<textarea name="comment" cols="60" rows="7">&gt; Tiffany&amp;Co‚МѓlѓbѓNѓЊѓX‚НЃAЊ|Џp“I‚ИѓCѓ“ѓXѓsѓЊЃ[ѓVѓ‡ѓ“‚Жђф—ы‚і‚к‚ЅЌHЊ|•i‚М‚ж‚¤‚Е‚·ЃBЋ©‘RЃA•¶‰»ЃAЊ|Џp‚©‚з–L‚©‚ИѓCѓ“ѓXѓsѓЊЃ[ѓVѓ‡ѓ“‚р“ѕ‚ДЃAѓ†ѓjЃ[ѓN‚ИѓfѓUѓCѓ“‚Й•ПЉ·‚µ‚Д‚ў‚Ь‚·ЃBѓlѓbѓNѓЊѓX‚Мђ»Ќм‹ZЏp‚Нђв–­‚ЕЃA‚·‚Ч‚Д‚МЌЧ•”‚Є’Ќ€Уђ[‚­’¤‚з‚к‚Д‚ў‚Ь‚·ЃB•уђО‚НЉФ€б‚ў‚И‚­‚ї‚и‚О‚Я‚з‚кЃA‹а‘®‚НЉЉ‚з‚©‚Й–Ѓ‚©‚к‚Д‚ў‚Ь‚·ЃBѓ†ѓjЃ[ѓN‚ИђF‚М‘g‚ЭЌ‡‚н‚№‚ЖЊ`‚МѓfѓUѓCѓ“‚НЃA‘Ѕ‚­‚МѓlѓbѓNѓЊѓX‚М’†‚ЕЌЫ—§‚Б‚Д‚ў‚Ь‚·ЃBђg‚Й‚В‚Ї‚й‚ЖЃA‚Ь‚й‚Е—¬‚к‚йЊ|Џp•i‚М‚ж‚¤‚ЕЃA–Ј—Н“I‚ЕЌ‚‹M‚И•µ€Н‹C‚Є•Y‚ў‚Ь‚·ЃB
+    	гѓЎгѓѓг‚»гѓјг‚ё<br />
+    	<textarea name="comment" cols="60" rows="7">&gt; Tiffany&amp;CoгЃ®гѓЌгѓѓг‚Їгѓ¬г‚№гЃЇгЂЃиЉёиЎ“зљ„гЃЄг‚¤гѓіг‚№гѓ”гѓ¬гѓјг‚·гѓ§гѓігЃЁжґ—з·ґгЃ•г‚ЊгЃџе·ҐиЉёе“ЃгЃ®г‚€гЃ†гЃ§гЃ™гЂ‚и‡Єз„¶гЂЃж–‡еЊ–гЂЃиЉёиЎ“гЃ‹г‚‰и±ЉгЃ‹гЃЄг‚¤гѓіг‚№гѓ”гѓ¬гѓјг‚·гѓ§гѓіг‚’еѕ—гЃ¦гЂЃгѓ¦гѓ‹гѓјг‚ЇгЃЄгѓ‡г‚¶г‚¤гѓігЃ«е¤‰жЏ›гЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚гѓЌгѓѓг‚Їгѓ¬г‚№гЃ®иЈЅдЅњжЉЂиЎ“гЃЇзµ¶е¦™гЃ§гЂЃгЃ™гЃ№гЃ¦гЃ®зґ°йѓЁгЃЊжіЁж„Џж·±гЃЏеЅ«г‚‰г‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚е®ќзџігЃЇй–“йЃ•гЃ„гЃЄгЃЏгЃЎг‚ЉгЃ°г‚Ѓг‚‰г‚ЊгЂЃй‡‘е±ћгЃЇж»‘г‚‰гЃ‹гЃ«зЈЁгЃ‹г‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚гѓ¦гѓ‹гѓјг‚ЇгЃЄи‰ІгЃ®зµ„гЃїеђ€г‚ЏгЃ›гЃЁеЅўгЃ®гѓ‡г‚¶г‚¤гѓігЃЇгЂЃе¤љгЃЏгЃ®гѓЌгѓѓг‚Їгѓ¬г‚№гЃ®дё­гЃ§йљ›з«‹гЃЈгЃ¦гЃ„гЃѕгЃ™гЂ‚иє«гЃ«гЃ¤гЃ‘г‚‹гЃЁгЂЃгЃѕг‚‹гЃ§жµЃг‚Њг‚‹иЉёиЎ“е“ЃгЃ®г‚€гЃ†гЃ§гЂЃй­…еЉ›зљ„гЃ§й«иІґгЃЄй›°е›Іж°—гЃЊжј‚гЃ„гЃѕгЃ™гЂ‚
 &gt; 
 &gt; https://www.vogvip.com/brand-28-c0.html</textarea>
 	</th>
 </tr><tr>
-	<th>ЋQЏЖђж</th>
+	<th>еЏ‚з…§е…€</th>
 	<td><input type="text" name="url" size="50" value="http://" /></td>
 </tr><tr>
-	<th>ЌнЏњѓLЃ[</th>
+	<th>е‰Љй™¤г‚­гѓј</th>
 	<td class="small">
     	<input type="password" name="pwd" size="8" maxlength="8" />
-		(‰pђ”Ћљ‚Е8•¶Ћљ€И“а) &nbsp;
-		<input type="checkbox" name="cookie" value="1" checked="checked" /> ѓNѓbѓLЃ[•Ы‘¶
+		(и‹±ж•°е­—гЃ§8ж–‡е­—д»Ґе†…) &nbsp;
+		<input type="checkbox" name="cookie" value="1" checked="checked" /> г‚Їгѓѓг‚­гѓјдїќе­
 	</td>
 <!-- captcha_begin -->
 </tr><tr>
-	<th>‰ж‘њ”FЏШ</th>
+	<th>з”»еѓЏиЄЌиЁј</th>
 	<td class="small">
 		<input type="text" name="captcha" size="8" style="ime-mode:inactive" maxlength="8" />
-		Ѓi‰E‰ж‘њ‚Мђ”Ћљ‚р“ь—НЃj <img src="./captcha.cgi?f8fc977399c2c97aacf487b4b632a9c1844b" class="capt" alt="“ЉЌeѓLЃ[" />
+		пј€еЏіз”»еѓЏгЃ®ж•°е­—г‚’е…ҐеЉ›пј‰ <img src="captcha@f8fc977399c2c97aacf487b4b632a9c1844b.cgi" class="capt" alt="жЉ•зЁїг‚­гѓј" />
 		<input type="hidden" name="str_crypt" value="f8fc977399c2c97aacf487b4b632a9c1844b" />
 	</td>
 <!-- captcha_end -->
@@ -78,62 +78,62 @@ function popup(url) {
 
 <div class="art">
 	[<b>397</b>] <strong>chat cpd</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:yongdorable@gmail.com">smitten</a></b> “ЉЌe“ъЃF2025/07/15(Tue) 20:05 &nbsp; [<a href="./light.cgi?res=397">•ФђM</a>]
-	<div class="com">A variety of industry topics are covered in the College of Contract Management&#39;s accessible and reasonably priced online Continuing Professional Development (CPD) sessions.  There are free monthly LinkedIn Live sessions available.  Following ѓ`ѓѓѓbѓg chat cpd can help you learn new things and improve your abilities.  Get your CPD certification by creating a free Moodle account, watching past free recordings, and gaining access to recordings.  <br /><br /><a href="https://www.uniccm.com/course/free-cpd-talk" target="_blank">https://www.uniccm.com/course/free-cpd-talk</a><p class="url"><a href="https://www.uniccm.com/course/free-cpd-talk" target="_blank">https://www.uniccm.com/course/free-cpd-talk</a></p></div>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:yongdorable@gmail.com">smitten</a></b> жЉ•зЁїж—Ґпјљ2025/07/15(Tue) 20:05 &nbsp; [<a href="light@res_397.cgi">иї”дїЎ</a>]
+	<div class="com">A variety of industry topics are covered in the College of Contract Management&#39;s accessible and reasonably priced online Continuing Professional Development (CPD) sessions.  There are free monthly LinkedIn Live sessions available.  Following гѓЃгѓЈгѓѓгѓ€ chat cpd can help you learn new things and improve your abilities.  Get your CPD certification by creating a free Moodle account, watching past free recordings, and gaining access to recordings.  <br /><br /><a href="https://www.uniccm.com/course/free-cpd-talk" target="_blank">https://www.uniccm.com/course/free-cpd-talk</a><p class="url"><a href="https://www.uniccm.com/course/free-cpd-talk" target="_blank">https://www.uniccm.com/course/free-cpd-talk</a></p></div>
 </div>
 
 <div class="art">
-	[<b>396</b>] <strong>ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«</b> “ЉЌe“ъЃF2025/07/01(Tue) 19:46 &nbsp; [<a href="./light.cgi?res=396">•ФђM</a>]
-	<div class="com">ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«<br />ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃB•K‚ё“Н‚­ѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z ”ѓ‚Б‚Д‚Э‚ЅЃIN‹‰•iђl‹C‚ЄЌ‚‚ўѓRѓsЃ[ѓuѓ‰ѓ“ѓhЌа•z Њѓ€А–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃA‘еђl‹CѓWѓbѓsЃ[ѓEѓHѓЊѓbѓg ‹U•ЁЃAѓ|ѓ‹ѓgѓtѓHѓCѓ†ѓNѓЊѓA ‹U•Ё‚Є‘еЏWЌ‡ЃIѓuѓ‰ѓ“ѓhЌа•z‹U•Ё Nѓ‰ѓ“ѓN ’К”МЃCЌЕЌ‚‹‰‚МѓXЃ[ѓpЃ[ѓRѓsЃ[ Ќа•z ѓЃѓ“ѓYЃEѓЊѓfѓBЃ[ѓX‚Мѓ~ѓjЌа•zЃA’·Ќа•zЃAђЬ‚и‚Ѕ‚Ѕ‚ЭЌа•z‚НЊыѓRѓ~‚Є‚ў‚ўЃBѓuѓ‰ѓ“ѓh•i‚М–{•Ё‚Ж‹U•ЁЊ©•Є‚Ї‚Є‚В‚©‚И‚ў‚Щ‚ЗђёЌI‚ЙЌм‚з‚к‚Д‚ў‚Ь‚·ЃB‘fЌЮ‚в–Dђ»ЃAѓfѓUѓCѓ“‚Ь‚ЕЌЧ•”‚Й‚±‚ѕ‚н‚иЃAЌ‚•iЋї‚рЉy‚µ‚Ю‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃB‘——ї–і—їЃA3”N•iЋї•ЫЏШЃI<br /><a href="https://www.ncopy.jp/cat/saifu/" target="_blank">https://www.ncopy.jp/cat/saifu/</a><br />www.ncopy.jp/</div>
+	[<b>396</b>] <strong>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/07/01(Tue) 19:46 &nbsp; [<a href="light@res_396.cgi">иї”дїЎ</a>]
+	<div class="com">г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌ<br />г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓд»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚еї…гЃље±ЉгЃЏг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓ иІ·гЃЈгЃ¦гЃїгЃџпјЃNзґље“Ѓдєєж°—гЃЊй«гЃ„г‚ігѓ”гѓјгѓ–гѓ©гѓігѓ‰иІЎеёѓ жїЂе®‰и±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂЃе¤§дєєж°—г‚ёгѓѓгѓ”гѓјг‚¦г‚©гѓ¬гѓѓгѓ€ еЃЅз‰©гЂЃгѓќгѓ«гѓ€гѓ•г‚©г‚¤гѓ¦г‚Їгѓ¬г‚ў еЃЅз‰©гЃЊе¤§й›†еђ€пјЃгѓ–гѓ©гѓігѓ‰иІЎеёѓеЃЅз‰© Nгѓ©гѓіг‚Ї йЂљиІ©пјЊжњЂй«зґљгЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј иІЎеёѓ гѓЎгѓіг‚єгѓ»гѓ¬гѓ‡г‚Јгѓјг‚№гЃ®гѓџгѓ‹иІЎеёѓгЂЃй•·иІЎеёѓгЂЃжЉг‚ЉгЃџгЃџгЃїиІЎеёѓгЃЇеЏЈг‚ігѓџгЃЊгЃ„гЃ„гЂ‚гѓ–гѓ©гѓігѓ‰е“ЃгЃ®жњ¬з‰©гЃЁеЃЅз‰©и¦‹е€†гЃ‘гЃЊгЃ¤гЃ‹гЃЄгЃ„гЃ»гЃ©зІѕе·§гЃ«дЅњг‚‰г‚ЊгЃ¦гЃ„гЃѕгЃ™гЂ‚зґ жќђг‚„зё«иЈЅгЂЃгѓ‡г‚¶г‚¤гѓігЃѕгЃ§зґ°йѓЁгЃ«гЃ“гЃ г‚Џг‚ЉгЂЃй«е“ЃиіЄг‚’жҐЅгЃ—г‚ЂгЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚йЂЃж–™з„Ўж–™гЂЃ3е№ґе“ЃиіЄдїќиЁјпјЃ<br /><a href="https://www.ncopy.jp/cat/saifu/" target="_blank">https://www.ncopy.jp/cat/saifu/</a><br />www.ncopy.jp/</div>
 </div>
 
 <div class="art">
-	[<b>395</b>] <strong>ѓЌѓЊѓbѓNѓXЋћЊvѓRѓsЃ[‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓЌѓЊѓbѓNѓXЋћЊvѓRѓsЃ[‘г€ш‚«</b> “ЉЌe“ъЃF2025/06/29(Sun) 14:21 &nbsp; [<a href="./light.cgi?res=395">•ФђM</a>]
-	<div class="com">ѓЌѓЊѓbѓNѓXЋћЊvѓRѓsЃ[‘г€ш‚«ЃCѓЌѓЊѓbѓNѓX ѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‹U•Ё’К”Мђк–е“XЃujpkopiЃv!<br />ѓЌѓЊѓbѓNѓXЋћЊv ѓXЃ[ѓpЃ[ѓRѓsЃ[ N‹‰•i€А‘SЊг•Ґ‚ў‚Ё‚·‚·‚Я’К”МЃujpkopiЃv!“–“X‚Нђl‹C‚ЄЌ‚‚ўѓЌѓЊѓbѓNѓX ЋћЊvѓRѓsЃ[‚Є‘еЏWЌ‡ЃCЌЕЌ‚‹‰‚МN•iѓЌѓЊѓbѓNѓX ѓfѓCѓgѓi ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓfѓCѓgѓWѓѓѓXѓg ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓTѓuѓ}ѓЉЃ[ѓiЃ[ ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓ€ѓbѓgѓ}ѓXѓ^Ѓ[ ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX ѓfѓCѓfѓCѓg ѓRѓsЃ[ЃAѓЌѓЊѓbѓNѓX gmtѓ}ѓXѓ^Ѓ[2ѓRѓsЃ[‚И‚ЗRolexѓXЃ[ѓpЃ[ѓRѓsЃ[‚МrЋћЊvЋж€µ‚Б‚Д‚ў‚Ь‚·ЃBѓЌѓЊѓbѓNѓX‹U•ЁN‹‰•i‘SЌ‘‘——ї–і—їЃA•iЋї3”N•ЫЏШ‚ЕЃA‘SЋА•ЁЏ¤•iЋКђ^‚Е‚·ЃB<br /><a href="https://www.jpkopi.net/products/watch/rolex/" target="_blank">https://www.jpkopi.net/products/watch/rolex/</a></div>
+	[<b>395</b>] <strong>гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€г‚ігѓ”гѓјд»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€г‚ігѓ”гѓјд»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/06/29(Sun) 14:21 &nbsp; [<a href="light@res_395.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€г‚ігѓ”гѓјд»Јеј•гЃЌпјЊгѓ­гѓ¬гѓѓг‚Їг‚№ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃеЃЅз‰©йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!<br />гѓ­гѓ¬гѓѓг‚Їг‚№ж™‚иЁ€ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј Nзґље“Ѓе®‰е…ЁеѕЊж‰•гЃ„гЃЉгЃ™гЃ™г‚ЃйЂљиІ©гЂЊjpkopiгЂЌ!еЅ“еє—гЃЇдєєж°—гЃЊй«гЃ„гѓ­гѓ¬гѓѓг‚Їг‚№ ж™‚иЁ€г‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЊжњЂй«зґљгЃ®Nе“Ѓгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ€гѓЉ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ€г‚ёгѓЈг‚№гѓ€ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ г‚µгѓ–гѓћгѓЄгѓјгѓЉгѓј г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓЁгѓѓгѓ€гѓћг‚№г‚їгѓј г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ гѓ‡г‚¤гѓ‡г‚¤гѓ€ г‚ігѓ”гѓјгЂЃгѓ­гѓ¬гѓѓг‚Їг‚№ gmtгѓћг‚№г‚їгѓј2г‚ігѓ”гѓјгЃЄгЃ©Rolexг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгЃ®и…•ж™‚иЁ€еЏ–ж‰±гЃЈгЃ¦гЃ„гЃѕгЃ™гЂ‚гѓ­гѓ¬гѓѓг‚Їг‚№еЃЅз‰©Nзґље“Ѓе…Ёе›ЅйЂЃж–™з„Ўж–™гЂЃе“ЃиіЄ3е№ґдїќиЁјгЃ§гЂЃе…Ёе®џз‰©е•†е“Ѓе†™зњџгЃ§гЃ™гЂ‚<br /><a href="https://www.jpkopi.net/products/watch/rolex/" target="_blank">https://www.jpkopi.net/products/watch/rolex/</a></div>
 </div>
 
 <div class="art">
-	[<b>394</b>] <strong>DSQUARED2ѓuѓ‰ѓ“ѓh ѓRѓsЃ[ vogvip.com/brand-11-c0.html ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓhѓRѓsЃ[ ѓuѓ‰ѓ“ѓh</strong>
-	“ЉЌeЋТЃF<b>ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓhѓuѓ‰ѓ“ѓhѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/28(Sat) 01:48 &nbsp; [<a href="./light.cgi?res=394">•ФђM</a>]
-	<div class="com">2025•iЋї•ЫЏШЌ‚•iЋї ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓh DSQUARED2 ѓuѓ‰ѓ“ѓhѓXЃ[ѓpЃ[ѓRѓsЃ[ ’ґ–Ъ‹К ”ј‘іTѓVѓѓѓc 2ђF‰В‘I DSQUARED2 2025‰Д‚МђaЋm•ћ‚МѓRѓЊѓNѓVѓ‡ѓ“‚Н‘S‚­ђV‚µ‚ўѓJѓWѓ…ѓAѓ‹‚И”ј‘і‚МTѓVѓѓѓc‚рЋќ‚Б‚Д‚«‚ДЃAѓCѓ^ѓЉѓAЋ®‚Мђёгk‚ИЌHЊ|‚Е“sЋsЊ^Љi‚р‰рЋЯ‚µ‚Ь‚·ЃBђё‘I‚і‚к‚Ѕ‹ЙЌЧЉC“‡–ИЌ¬–aђ¶’n‚НЃA1•Ѕ•ыѓCѓ“ѓ`‚ ‚Ѕ‚и32–{‚М“сЏdЋ…‚Е•Т‚Ь‚кЃA’К‹Cђ«‚р40%Ќ‚‚Я‚И‚Є‚зђ¶’n‚М’Ј‚и‚р•Ы‚ї‚Ь‚·ЃBЉvђV“I‚ИѓnѓjѓJѓЂ•Т‚Э‚Жe‚М—§‘МѓJѓbѓg‚р‘g‚ЭЌ‡‚н‚№ЃA360“x‚М‹у‹CЏzЉВѓVѓXѓeѓЂ‚рЋАЊ»‚µ‚Ь‚µ‚ЅЃBDSQUARED2ѓuѓ‰ѓ“ѓh ѓRѓsЃ[ vogvip.com/brand-11-c0.html ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓhѓRѓsЃ[ ѓuѓ‰ѓ“ѓh ‹Ь‚НЋO–{ђj•в‹­ЌH–@‚рЌМ—p‚µЃA200‰с‚Мђф‘уѓeѓXѓg‚рЊo‚Д‚аЊґЊ^‚р€ЫЋќ‚µ‚Д‚ў‚Ь‚·ЃB”w’†‚М€Г‚ў–д—l‚МѓWѓѓѓJЃ[ѓhЌHЊ|‚Нѓuѓ‰ѓ“ѓh‚МЊo“TD2‚МѓЌѓS‚рЊ»‚µ‚ДЃA“Б’и‚МЉp“x‚ЕЊ©‚¦‰B‚к‚·‚й‚ѕ‚Ї‚Е‚·ЃBђћ‚М‘O‚Н’Z‚­‚ДЊг‚Н’·‚ўЊК‚МђЭЊvЃAЉ®аш‚ЙЉeЋн—Ю‚МѓYѓ{ѓ“‚М•ћ‘•‚М‘g‚ЭЌ‡‚н‚№‚Й“K‰ћ‚µ‚Ь‚·ЃBѓ~ѓbѓhѓiѓCѓgѓuѓ‹Ѓ[ЃAѓTѓ“ѓhѓOѓЊЃ[ЃA“Б‹–Ћж“ѕЌП‚Э‚МЃuѓxѓjѓXѓ~ѓXѓgЃv‚М3Ћн—Ю‚МЊА’иђF‚р—p€У‚µЃA‚»‚к‚ј‚к72‰с‚Мђ…ђф‚ўЌH’ц‚рЊo‚Д“Ж“Б‚МЋїЉґ‚р‰‰Џo‚µ‚Д‚ў‚Ь‚·ЃBЉщђ»•ћ‚МЏd‚і‚р180ѓOѓ‰ѓЂ‚Й—}‚¦ЃAђlЉФЌHЉw‚ЙЉо‚Г‚ў‚Ѕ—§‘МЌЩ’f‚Є“®‚«‚рЋ©—R‚Й‚µ‚Д‚­‚к‚Ь‚·ЃB“Б•К‚ЙЉJ”­‚і‚к‚Ѕѓiѓm‹‰‚МuvѓJѓbѓgѓRЃ[ѓeѓBѓ“ѓO‚НUPF50+•ЫЊм“™‹‰‚Й’B‚µЃA“ъЏД‚Ї–hЋ~ЋћЉФ‚Н8ЋћЉФ‚Е‚·ЃBѓXЃ[ѓpЃ[ѓRѓsЃ[ѓTѓCѓg vogvip.com VOGѓRѓsЃ[ ’…’EЋ®ѓ}ѓOѓlѓbѓgѓoѓbѓWѓAѓNѓZѓTѓЉЃ[‚Є•t‘®‚µ‚Д‚Ё‚иЃAЌ¶‹№‚в‘іЊы‚М€К’u‚ЙЋ©—R‚Й‘g‚ЭЌ‡‚н‚№‚й‚±‚Ж‚Є‚Е‚«‚Ь‚·ЃB“а–D‚ўѓ‰ѓxѓ‹‚Н–іЉґ”M“]ЋК‹ZЏp‚рЌМ—p‚µЃAЏ]—€‚Мѓ‰ѓxѓ‹‚М•s‰хЉґ‚©‚зЉ®‘S‚Й’E‹p‚µ‚Ь‚·ЃBЌЎ‹G‚Нѓ~ѓ‰ѓmЊ¤‹†ЏЉ‚ЕЉJ”­‚і‚к‚ЅѓGѓRЉ€ђ«ђх—ї‚ЕЃA50‰с‚Мђф‘уЊг‚а95%‚МЊS“x‚рЉm•Ы‚µ‚Д‚ў‚Ь‚·ЃBѓIѓtѓBѓX‚©‚зѓrЃ[ѓ`ѓЉѓ]Ѓ[ѓg‚Ь‚ЕЃA‘S“VЊуѓVЃ[ѓ“‚МђШ‚и‘Ц‚¦‚Й‘О‰ћ‚·‚йѓXѓ}Ѓ[ѓgѓЃѓ“ѓYѓAѓCѓeѓЂ‚Е‚·ЃB<br />–{Џ¤•i‘ьЌЎЃ@Ѓ@ђiЌs’† [ѓLѓѓѓ“ѓyѓ“] ‘S“XЏ¤•i20%Љ„€ш<br />Џ¤•i”ФЌ†ЃFvogvip2025NXZ-DS021<br />ЌЭЊЙЏу‹µЃF 50 ‰п€х‰їЉiЃF5800‰~<br />Џ¤•iѓuѓ‰ѓ“ѓhЃFѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓh DSQUARED2<br />Џo•iЋћЉФЃF2025-03-25 Џ¤•iѓJѓeѓSѓЉЃFѓЃѓ“ѓY ”ј‘іTѓVѓѓѓc<br />DSQUARED2ѓRѓsЃ[ vogvip.com/goods-29480.html ѓfѓBЃ[ѓXѓNѓGѓAЃ[ѓhѓuѓ‰ѓ“ѓhѓRѓsЃ[</div>
+	[<b>394</b>] <strong>DSQUARED2гѓ–гѓ©гѓігѓ‰ г‚ігѓ”гѓј vogvip.com/brand-11-c0.html гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰г‚ігѓ”гѓј гѓ–гѓ©гѓігѓ‰</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰гѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/28(Sat) 01:48 &nbsp; [<a href="light@res_394.cgi">иї”дїЎ</a>]
+	<div class="com">2025е“ЃиіЄдїќиЁјй«е“ЃиіЄ гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰ DSQUARED2 гѓ–гѓ©гѓігѓ‰г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј и¶…з›®зЋ‰ еЌЉиў–Tг‚·гѓЈгѓ„ 2и‰ІеЏЇйЃё DSQUARED2 2025е¤ЏгЃ®зґіеЈ«жњЌгЃ®г‚ігѓ¬г‚Їг‚·гѓ§гѓігЃЇе…ЁгЃЏж–°гЃ—гЃ„г‚«г‚ёгѓҐг‚ўгѓ«гЃЄеЌЉиў–гЃ®Tг‚·гѓЈгѓ„г‚’жЊЃгЃЈгЃ¦гЃЌгЃ¦гЂЃг‚¤г‚їгѓЄг‚ўејЏгЃ®зІѕз·»гЃЄе·ҐиЉёгЃ§йѓЅеё‚ећ‹ж јг‚’и§Јй‡€гЃ—гЃѕгЃ™гЂ‚зІѕйЃёгЃ•г‚ЊгЃџжҐµзґ°жµ·еі¶з¶їж··зґЎз”џењ°гЃЇгЂЃ1е№іж–№г‚¤гѓігѓЃгЃ‚гЃџг‚Љ32жњ¬гЃ®дєЊй‡ЌзіёгЃ§з·ЁгЃѕг‚ЊгЂЃйЂљж°—жЂ§г‚’40%й«г‚ЃгЃЄгЃЊг‚‰з”џењ°гЃ®ејµг‚Љг‚’дїќгЃЎгЃѕгЃ™гЂ‚йќ©ж–°зљ„гЃЄгѓЏгѓ‹г‚«гѓ з·ЁгЃїгЃЁи„‡гЃ®з«‹дЅ“г‚«гѓѓгѓ€г‚’зµ„гЃїеђ€г‚ЏгЃ›гЂЃ360еє¦гЃ®з©єж°—еѕЄз’°г‚·г‚№гѓ†гѓ г‚’е®џзЏѕгЃ—гЃѕгЃ—гЃџгЂ‚DSQUARED2гѓ–гѓ©гѓігѓ‰ г‚ігѓ”гѓј vogvip.com/brand-11-c0.html гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰г‚ігѓ”гѓј гѓ–гѓ©гѓігѓ‰ иЎїгЃЇдё‰жњ¬й‡ќиЈњеј·е·Ґжі•г‚’жЋЎз”ЁгЃ—гЂЃ200е›ћгЃ®жґ—жїЇгѓ†г‚№гѓ€г‚’зµЊгЃ¦г‚‚еЋџећ‹г‚’з¶­жЊЃгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚иѓЊдё­гЃ®жљ—гЃ„зґ‹ж§гЃ®г‚ёгѓЈг‚«гѓјгѓ‰е·ҐиЉёгЃЇгѓ–гѓ©гѓігѓ‰гЃ®зµЊе…ёD2гЃ®гѓ­г‚ґг‚’зЏѕгЃ—гЃ¦гЂЃз‰№е®љгЃ®и§’еє¦гЃ§и¦‹гЃ€йљ г‚ЊгЃ™г‚‹гЃ гЃ‘гЃ§гЃ™гЂ‚иЈѕгЃ®е‰ЌгЃЇзџ­гЃЏгЃ¦еѕЊгЃЇй•·гЃ„еј§гЃ®иЁ­иЁ€гЂЃе®Њз’§гЃ«еђ„зЁ®йЎћгЃ®г‚єгѓњгѓігЃ®жњЌиЈ…гЃ®зµ„гЃїеђ€г‚ЏгЃ›гЃ«йЃ©еїњгЃ—гЃѕгЃ™гЂ‚гѓџгѓѓгѓ‰гѓЉг‚¤гѓ€гѓ–гѓ«гѓјгЂЃг‚µгѓігѓ‰г‚°гѓ¬гѓјгЂЃз‰№иЁ±еЏ–еѕ—жё€гЃїгЃ®гЂЊгѓ™гѓ‹г‚№гѓџг‚№гѓ€гЂЌгЃ®3зЁ®йЎћгЃ®й™ђе®љи‰Іг‚’з”Ёж„ЏгЃ—гЂЃгЃќг‚ЊгЃћг‚Њ72е›ћгЃ®ж°ґжґ—гЃ„е·ҐзЁ‹г‚’зµЊгЃ¦з‹¬з‰№гЃ®иіЄж„џг‚’жј”е‡єгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚ж—ўиЈЅжњЌгЃ®й‡ЌгЃ•г‚’180г‚°гѓ©гѓ гЃ«жЉ‘гЃ€гЂЃдєєй–“е·Ґе­¦гЃ«еџєгЃҐгЃ„гЃџз«‹дЅ“иЈЃж–­гЃЊе‹•гЃЌг‚’и‡Єз”±гЃ«гЃ—гЃ¦гЃЏг‚ЊгЃѕгЃ™гЂ‚з‰№е€ҐгЃ«й–‹з™єгЃ•г‚ЊгЃџгѓЉгѓЋзґљгЃ®uvг‚«гѓѓгѓ€г‚ігѓјгѓ†г‚Јгѓіг‚°гЃЇUPF50+дїќи­·з­‰зґљгЃ«йЃ”гЃ—гЂЃж—Ґз„јгЃ‘йІж­ўж™‚й–“гЃЇ8ж™‚й–“гЃ§гЃ™гЂ‚г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјг‚µг‚¤гѓ€ vogvip.com VOGг‚ігѓ”гѓј зќЂи„±ејЏгѓћг‚°гѓЌгѓѓгѓ€гѓђгѓѓг‚ёг‚ўг‚Їг‚»г‚µгѓЄгѓјгЃЊд»е±ћгЃ—гЃ¦гЃЉг‚ЉгЂЃе·¦иѓёг‚„иў–еЏЈгЃ®дЅЌзЅ®гЃ«и‡Єз”±гЃ«зµ„гЃїеђ€г‚ЏгЃ›г‚‹гЃ“гЃЁгЃЊгЃ§гЃЌгЃѕгЃ™гЂ‚е†…зё«гЃ„гѓ©гѓ™гѓ«гЃЇз„Ўж„џз†±и»ўе†™жЉЂиЎ“г‚’жЋЎз”ЁгЃ—гЂЃеѕ“жќҐгЃ®гѓ©гѓ™гѓ«гЃ®дёЌеї«ж„џгЃ‹г‚‰е®Ње…ЁгЃ«и„±еЌґгЃ—гЃѕгЃ™гЂ‚д»Ље­ЈгЃЇгѓџгѓ©гѓЋз ”з©¶ж‰ЂгЃ§й–‹з™єгЃ•г‚ЊгЃџг‚Ёг‚іжґ»жЂ§жџ“ж–™гЃ§гЂЃ50е›ћгЃ®жґ—жїЇеѕЊг‚‚95%гЃ®е …з‰ўеє¦г‚’зўєдїќгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚г‚Єгѓ•г‚Јг‚№гЃ‹г‚‰гѓ“гѓјгѓЃгѓЄг‚ѕгѓјгѓ€гЃѕгЃ§гЂЃе…Ёе¤©еЂ™г‚·гѓјгѓігЃ®е€‡г‚Љж›їгЃ€гЃ«еЇѕеїњгЃ™г‚‹г‚№гѓћгѓјгѓ€гѓЎгѓіг‚єг‚ўг‚¤гѓ†гѓ гЃ§гЃ™гЂ‚<br />жњ¬е•†е“ЃеЏЄд»ЉгЂЂгЂЂйЂІиЎЊдё­ [г‚­гѓЈгѓігѓљгѓі] е…Ёеє—е•†е“Ѓ20%е‰Іеј•<br />е•†е“Ѓз•ЄеЏ·пјљvogvip2025NXZ-DS021<br />ењЁеє«зЉ¶жіЃпјљ 50 дјље“ЎдѕЎж јпјљ5800е††<br />е•†е“Ѓгѓ–гѓ©гѓігѓ‰пјљгѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰ DSQUARED2<br />е‡єе“Ѓж™‚й–“пјљ2025-03-25 е•†е“Ѓг‚«гѓ†г‚ґгѓЄпјљгѓЎгѓіг‚є еЌЉиў–Tг‚·гѓЈгѓ„<br />DSQUARED2г‚ігѓ”гѓј vogvip.com/goods-29480.html гѓ‡г‚Јгѓјг‚№г‚Їг‚Ёг‚ўгѓјгѓ‰гѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓј</div>
 </div>
 
 <div class="art">
-	[<b>393</b>] <strong>ѓNѓЌѓЂѓnЃ[ѓc ѓXЃ[ѓpЃ[ѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓ}ѓcѓVѓ}ѓ€ѓEѓi</b> “ЉЌe“ъЃF2025/06/24(Tue) 18:11 &nbsp; [<a href="./light.cgi?res=393">•ФђM</a>]
-	<div class="com">ѓNѓЌѓЂѓnЃ[ѓc‚МѓAѓNѓZ‚Б‚ДѓJѓbѓR‚ж‚­‚Д‚ё‚Б‚Ж“І‚к‚Д‚й‚с‚Е‚·‚Ї‚ЗЃA’l’i‚Є‚©‚И‚иЌ‚‚­‚ДЋи‚ЄЏo‚№‚Ь‚№‚сЃcЃB<br />ЌЕ‹ЯЃuѓNѓЌѓЂѓnЃ[ѓc ѓXЃ[ѓpЃ[ѓRѓsЃ[Ѓv‚Б‚Д‚ў‚¤Њѕ—t‚рѓlѓbѓg‚Е‚ж‚­Њ©‚©‚Ї‚й‚ж‚¤‚Й‚И‚Б‚ДЃAЋАЌЫ‚З‚с‚ИЉґ‚¶‚И‚М‚©‹C‚Й‚И‚Б‚Д‚Ь‚·ЃB<br />Њ©‚Ѕ–Ъ‚вЋїЉґ‚Н–{•Ё‚Й‹Я‚ў‚М‚©‚ИЃHЋќ‚Б‚Д‚йђl‚вЊ©‚Ѕ‚±‚Ж‚ ‚йђl‚ў‚Ѕ‚зЃA•µ€Н‹C‚Ж‚©Ћь‚и‚М”Ѕ‰ћ‚Ж‚©‹і‚¦‚Д‚Щ‚µ‚ў‚Е‚·ЃI<br />ѓNѓЌѓЂѓnЃ[ѓc ѓXЃ[ѓpЃ[ѓRѓsЃ[ЃF<a href="https://www.totecopy.com/copyn-146-b0.html" target="_blank">https://www.totecopy.com/copyn-146-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
+	[<b>393</b>] <strong>г‚Їгѓ­гѓ гѓЏгѓјгѓ„ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓћгѓ„г‚·гѓћгѓЁг‚¦гѓЉ</b> жЉ•зЁїж—Ґпјљ2025/06/24(Tue) 18:11 &nbsp; [<a href="light@res_393.cgi">иї”дїЎ</a>]
+	<div class="com">г‚Їгѓ­гѓ гѓЏгѓјгѓ„гЃ®г‚ўг‚Їг‚»гЃЈгЃ¦г‚«гѓѓг‚іг‚€гЃЏгЃ¦гЃљгЃЈгЃЁж†§г‚ЊгЃ¦г‚‹г‚“гЃ§гЃ™гЃ‘гЃ©гЂЃеЂ¤ж®µгЃЊгЃ‹гЃЄг‚Љй«гЃЏгЃ¦ж‰‹гЃЊе‡єгЃ›гЃѕгЃ›г‚“вЂ¦гЂ‚<br />жњЂиї‘гЂЊг‚Їгѓ­гѓ гѓЏгѓјгѓ„ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјгЂЌгЃЈгЃ¦гЃ„гЃ†иЁЂи‘‰г‚’гѓЌгѓѓгѓ€гЃ§г‚€гЃЏи¦‹гЃ‹гЃ‘г‚‹г‚€гЃ†гЃ«гЃЄгЃЈгЃ¦гЂЃе®џйљ›гЃ©г‚“гЃЄж„џгЃгЃЄгЃ®гЃ‹ж°—гЃ«гЃЄгЃЈгЃ¦гЃѕгЃ™гЂ‚<br />и¦‹гЃџз›®г‚„иіЄж„џгЃЇжњ¬з‰©гЃ«иї‘гЃ„гЃ®гЃ‹гЃЄпјџжЊЃгЃЈгЃ¦г‚‹дєєг‚„и¦‹гЃџгЃ“гЃЁгЃ‚г‚‹дєєгЃ„гЃџг‚‰гЂЃй›°е›Іж°—гЃЁгЃ‹е‘Ёг‚ЉгЃ®еЏЌеїњгЃЁгЃ‹ж•™гЃ€гЃ¦гЃ»гЃ—гЃ„гЃ§гЃ™пјЃ<br />г‚Їгѓ­гѓ гѓЏгѓјгѓ„ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјпјљ<a href="https://www.totecopy.com/copyn-146-b0.html" target="_blank">https://www.totecopy.com/copyn-146-b0.html</a><p class="url"><a href="http://www.totecopy.com/" target="_blank">http://www.totecopy.com/</a></p></div>
 </div>
 
 <div class="art">
-	[<b>392</b>] <strong>ѓ‹ѓuѓ^ѓ“ ЊC ѓXЃ[ѓpЃ[ѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓ‹ѓuѓ^ѓ“ ЊC ѓXЃ[ѓpЃ[ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/21(Sat) 19:16 &nbsp; [<a href="./light.cgi?res=392">•ФђM</a>]
-	<div class="com">ѓ‹ѓuѓ^ѓ“ ЊC ѓXЃ[ѓpЃ[ѓRѓsЃ[,ѓ‹ѓuѓ^ѓ“ЊC ѓXѓjЃ[ѓJЃ[N‹‰•i’К”М—D—З“XЃyhacopyssЃz.<br />ѓNѓЉѓXѓ`ѓѓѓ“ѓ‹ѓuѓ^ѓ“ ѓRѓsЃ[ ѓXѓjЃ[ѓJЃ[N‹‰•i’К”М—D—З“X ЃyhacopyssЃz!‹ЖЉEЌЕЌ‚‹‰N•i‚Мѓ‹ѓuѓ^ѓ“ ѓXѓjЃ[ѓJЃ[ ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·,‘еђl‹Cѓ‹ѓuѓ^ѓ“ ѓTѓ“ѓ_ѓ‹ ѓRѓsЃ[‚Є‘еЏWЌ‡ЃI•iЋї‚Н–{•Ё‚Ж“Ї—l‚Е‚·ЃB“ъ–{‘SЌ‘‘——ї–і—ї,ЌL‘е‚И‹q‚рЉЅЊ}‚µ‚Д‚ІЊх—ХЃI<br /><a href="https://hacopyss.com/collections/loubishark-xiezi" target="_blank">https://hacopyss.com/collections/loubishark-xiezi</a></div>
+	[<b>392</b>] <strong>гѓ«гѓ–г‚їгѓі йќґ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ«гѓ–г‚їгѓі йќґ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/21(Sat) 19:16 &nbsp; [<a href="light@res_392.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ«гѓ–г‚їгѓі йќґ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј,гѓ«гѓ–г‚їгѓійќґ г‚№гѓ‹гѓјг‚«гѓјNзґље“ЃйЂљиІ©е„Єи‰Їеє—гЂђhacopyssгЂ‘.<br />г‚ЇгѓЄг‚№гѓЃгѓЈгѓігѓ«гѓ–г‚їгѓі г‚ігѓ”гѓј г‚№гѓ‹гѓјг‚«гѓјNзґље“ЃйЂљиІ©е„Єи‰Їеє— гЂђhacopyssгЂ‘!жҐ­з•ЊжњЂй«зґљNе“ЃгЃ®гѓ«гѓ–г‚їгѓі г‚№гѓ‹гѓјг‚«гѓј г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™,е¤§дєєж°—гѓ«гѓ–г‚їгѓі г‚µгѓігѓЂгѓ« г‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЃе“ЃиіЄгЃЇжњ¬з‰©гЃЁеђЊж§гЃ§гЃ™гЂ‚ж—Ґжњ¬е…Ёе›ЅйЂЃж–™з„Ўж–™,еєѓе¤§гЃЄе®ўг‚’ж­“иїЋгЃ—гЃ¦гЃ”е…‰и‡ЁпјЃ<br /><a href="https://hacopyss.com/collections/loubishark-xiezi" target="_blank">https://hacopyss.com/collections/loubishark-xiezi</a></div>
 </div>
 
 <div class="art">
-	[<b>391</b>] <strong>ѓVѓѓѓlѓ‹iphoneѓPЃ[ѓX ѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓVѓѓѓlѓ‹iphoneѓPЃ[ѓX ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/17(Tue) 17:24 &nbsp; [<a href="./light.cgi?res=391">•ФђM</a>]
-	<div class="com">ѓVѓѓѓlѓ‹iphoneѓPЃ[ѓX ѓRѓsЃ[ ‘г€ш‚«ЃCѓVѓѓѓlѓ‹  ѓXѓ}ѓzѓPЃ[ѓX  ‹U•ЁN‹‰•i’К”М—D—ЗѓTѓCѓgЃujpkopiЃv!<br />ѓVѓѓѓlѓ‹iphoneѓPЃ[ѓX ѓXЃ[ѓpЃ[ѓRѓsЃ[ N‹‰•iЊѓ€А’К”Мђк–е“XЃujpkopiЃv!ђl‹C‚ЄЌ‚‚ў‘S‹@Ћн‘О‰ћѓVѓѓѓlѓ‹  iphoneѓXѓ}ѓzѓPЃ[ѓX ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ђVЌм,‘еђl‹Cѓ”ѓBѓgѓ“•—ѓXѓ}ѓzѓPЃ[ѓXЃAiphone ѓPЃ[ѓX ѓuѓ‰ѓ“ѓhѓRѓsЃ[ЃAѓeѓbѓNѓAѓNѓZѓTѓЉЃ[ ‹U•Ё‚Є‘еЏWЌ‡ЃIЊыѓRѓ~ЌЕЌ‚‹‰‚МѓVѓѓѓlѓ‹  iphone16ѓPЃ[ѓX‚И‚З‚МѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i‚Н‘——ї–і—їЃBЏ¤•iЋА•Ё‚МЋКђ^•t100%€АђS•ЫЏШЃB<br /><a href="https://www.jpkopi.net/products/smartphonecase/chanlecase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/chanlecase/</a></div>
+	[<b>391</b>] <strong>г‚·гѓЈгѓЌгѓ«iphoneг‚±гѓјг‚№ г‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚·гѓЈгѓЌгѓ«iphoneг‚±гѓјг‚№ г‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/17(Tue) 17:24 &nbsp; [<a href="light@res_391.cgi">иї”дїЎ</a>]
+	<div class="com">г‚·гѓЈгѓЌгѓ«iphoneг‚±гѓјг‚№ г‚ігѓ”гѓј д»Јеј•гЃЌпјЊг‚·гѓЈгѓЌгѓ«  г‚№гѓћгѓ›г‚±гѓјг‚№  еЃЅз‰©Nзґље“ЃйЂљиІ©е„Єи‰Їг‚µг‚¤гѓ€гЂЊjpkopiгЂЌ!<br />г‚·гѓЈгѓЌгѓ«iphoneг‚±гѓјг‚№ г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј Nзґље“ЃжїЂе®‰йЂљиІ©е°‚й–Ђеє—гЂЊjpkopiгЂЌ!дєєж°—гЃЊй«гЃ„е…Ёж©џзЁ®еЇѕеїњг‚·гѓЈгѓЌгѓ«  iphoneг‚№гѓћгѓ›г‚±гѓјг‚№ г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™ж–°дЅњ,е¤§дєєж°—гѓґг‚Јгѓ€гѓійўЁг‚№гѓћгѓ›г‚±гѓјг‚№гЂЃiphone г‚±гѓјг‚№ гѓ–гѓ©гѓігѓ‰г‚ігѓ”гѓјгЂЃгѓ†гѓѓг‚Їг‚ўг‚Їг‚»г‚µгѓЄгѓј еЃЅз‰©гЃЊе¤§й›†еђ€пјЃеЏЈг‚ігѓџжњЂй«зґљгЃ®г‚·гѓЈгѓЌгѓ«  iphone16г‚±гѓјг‚№гЃЄгЃ©гЃ®г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃгЃЇйЂЃж–™з„Ўж–™гЂ‚е•†е“Ѓе®џз‰©гЃ®е†™зњџд»100%е®‰еїѓдїќиЁјгЂ‚<br /><a href="https://www.jpkopi.net/products/smartphonecase/chanlecase/" target="_blank">https://www.jpkopi.net/products/smartphonecase/chanlecase/</a></div>
 </div>
 
 <div class="art">
-	[<b>390</b>] <strong>ѓRѓR</strong>
-	“ЉЌeЋТЃF<b><a href="mailto:jasper.dwyt@gmail.com">dwyt</a></b> “ЉЌe“ъЃF2025/06/16(Mon) 17:59 &nbsp; [<a href="./light.cgi?res=390">•ФђM</a>]
-	<div class="com">UNICCM is a go-to platform for anyone looking to upskill in construction, engineering, or management. Their site is loaded with accredited courses, professional development options, and UK-recognised qualifications. Whether you&#39;re starting fresh or aiming for promotion, UNICCM gives you the tools to succeed. Highly recommended for learners who value quality and flexibility. ѓRѓR<br /><br /><a href="https://www.uniccm.com/" target="_blank">https://www.uniccm.com/</a></div>
+	[<b>390</b>] <strong>г‚іг‚і</strong>
+	жЉ•зЁїиЂ…пјљ<b><a href="mailto:jasper.dwyt@gmail.com">dwyt</a></b> жЉ•зЁїж—Ґпјљ2025/06/16(Mon) 17:59 &nbsp; [<a href="light@res_390.cgi">иї”дїЎ</a>]
+	<div class="com">UNICCM is a go-to platform for anyone looking to upskill in construction, engineering, or management. Their site is loaded with accredited courses, professional development options, and UK-recognised qualifications. Whether you&#39;re starting fresh or aiming for promotion, UNICCM gives you the tools to succeed. Highly recommended for learners who value quality and flexibility. г‚іг‚і<br /><br /><a href="https://www.uniccm.com/" target="_blank">https://www.uniccm.com/</a></div>
 </div>
 
 <div class="art">
-	[<b>389</b>] <strong>ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«</strong>
-	“ЉЌeЋТЃF<b>ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«</b> “ЉЌe“ъЃF2025/06/14(Sat) 13:28 &nbsp; [<a href="./light.cgi?res=389">•ФђM</a>]
-	<div class="com">ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«<br />ѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO‘г€ш‚«Њѓ€А2025ђVЌм—D—З“XЃuncopyЃvЃBѓuѓ‰ѓ“ѓh ѓoѓbѓO ѓRѓsЃ[ Nѓ‰ѓ“ѓN ‘г‹а€шЉ· ’К”МЃCѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓoѓbѓO ”ѓ‚Б‚Д‚Э‚Ѕ!ђl‹C‚ЄЌ‚‚ўѓuѓ‰ѓ“ѓh ѓoѓbѓO Њѓ€А ѓRѓsЃ[–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃBѓXЃ[ѓpЃ[ѓRѓsЃ[ ѓVѓ‡ѓ‹ѓ_Ѓ[ѓoѓbѓOЃAѓgЃ[ѓgѓoѓbѓOЃA‚©‚ІѓoѓbѓO‚И‚Зn‹‰•i‚Ё‚·‚·‚Я’К”МЃB–{•Ё‚Ж“Ї—l‚М‘fЌЮ‚рЊµ‘I‚µЃAЌЧ•”‚Й‚н‚Ѕ‚и’‰ЋА‚ЙЌДЊ»‚µ‚Д‚ў‚Ь‚·ЃBЏ¤•iЋКђ^‚Н100%ЋА•ЁЋB‰e‚Е‚·!•ЫЏШЏ¤•iЃA•iЋїђM—p‘ж€к ‚И‚М‚Е,“ъ–{‘SЌ‘€к—ҐЌІђм‹}•Ц‘——ї–і—ї,ЃA‚Н•iЋї3”N•ЫЏШ‚ЕЃI<br /><a href="https://www.ncopy.jp/cat/baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/</a></div>
+	[<b>389</b>] <strong>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌ</strong>
+	жЉ•зЁїиЂ…пјљ<b>г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌ</b> жЉ•зЁїж—Ґпјљ2025/06/14(Sat) 13:28 &nbsp; [<a href="light@res_389.cgi">иї”дїЎ</a>]
+	<div class="com">г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌ<br />г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚°д»Јеј•гЃЌжїЂе®‰2025ж–°дЅње„Єи‰Їеє—гЂЊncopyгЂЌгЂ‚гѓ–гѓ©гѓігѓ‰ гѓђгѓѓг‚° г‚ігѓ”гѓј Nгѓ©гѓіг‚Ї д»Јй‡‘еј•жЏ› йЂљиІ©пјЊг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј гѓђгѓѓг‚° иІ·гЃЈгЃ¦гЃїгЃџ!дєєж°—гЃЊй«гЃ„гѓ–гѓ©гѓігѓ‰ гѓђгѓѓг‚° жїЂе®‰ г‚ігѓ”гѓји±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂ‚г‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј г‚·гѓ§гѓ«гѓЂгѓјгѓђгѓѓг‚°гЂЃгѓ€гѓјгѓ€гѓђгѓѓг‚°гЂЃгЃ‹гЃ”гѓђгѓѓг‚°гЃЄгЃ©nзґље“ЃгЃЉгЃ™гЃ™г‚ЃйЂљиІ©гЂ‚жњ¬з‰©гЃЁеђЊж§гЃ®зґ жќђг‚’еЋійЃёгЃ—гЂЃзґ°йѓЁгЃ«г‚ЏгЃџг‚Љеї е®џгЃ«е†ЌзЏѕгЃ—гЃ¦гЃ„гЃѕгЃ™гЂ‚е•†е“Ѓе†™зњџгЃЇ100%е®џз‰©ж’®еЅ±гЃ§гЃ™!дїќиЁје•†е“ЃгЂЃе“ЃиіЄдїЎз”Ёз¬¬дёЂ гЃЄгЃ®гЃ§,ж—Ґжњ¬е…Ёе›ЅдёЂеѕ‹дЅђе·ќжЂҐдѕїйЂЃж–™з„Ўж–™,гЂЃгЃЇе“ЃиіЄ3е№ґдїќиЁјгЃ§пјЃ<br /><a href="https://www.ncopy.jp/cat/baggu/" target="_blank">https://www.ncopy.jp/cat/baggu/</a></div>
 </div>
 
 <div class="art">
-	[<b>388</b>] <strong>ѓ‹ѓCѓ”ѓBѓgѓ“–XЋqѓXЃ[ѓpЃ[ѓRѓsЃ[</strong>
-	“ЉЌeЋТЃF<b>ѓ‹ѓCѓ”ѓBѓgѓ“–XЋqѓXЃ[ѓpЃ[ѓRѓsЃ[</b> “ЉЌe“ъЃF2025/06/12(Thu) 14:24 &nbsp; [<a href="./light.cgi?res=388">•ФђM</a>]
-	<div class="com">ѓ‹ѓCѓ”ѓBѓgѓ“–XЋqѓXЃ[ѓpЃ[ѓRѓsЃ[N‹‰•i’К”Мђк–е“XЃyhacopyssЃz!‘еђl‹C‚Мѓ‹ѓCѓ”ѓBѓgѓ“–XЋqѓRѓsЃ[‚Є‘еЏWЌ‡ЃI  ѓЃѓ“ѓYЃAѓЊѓfѓBЃ[ѓX‚Нђl‹Cѓ‹ѓCѓ”ѓBѓgѓ“ѓjѓbѓgѓLѓѓѓbѓv/ѓrЃ[ѓjЃ[ ѓRѓsЃ[‚р–L•x‚Й‘µ‚¦‚Д‚Ё‚и‚Ь‚·ЃB“ъ–{‘SЌ‘‘——ї–і—ї,ЉЅЊ}Ќw“ьЃI<br /><a href="https://hacopyss.com/collections/louis-vuitton-maozi" target="_blank">https://hacopyss.com/collections/louis-vuitton-maozi</a></div>
+	[<b>388</b>] <strong>гѓ«г‚¤гѓґг‚Јгѓ€гѓіеёЅе­ђг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</strong>
+	жЉ•зЁїиЂ…пјљ<b>гѓ«г‚¤гѓґг‚Јгѓ€гѓіеёЅе­ђг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓј</b> жЉ•зЁїж—Ґпјљ2025/06/12(Thu) 14:24 &nbsp; [<a href="light@res_388.cgi">иї”дїЎ</a>]
+	<div class="com">гѓ«г‚¤гѓґг‚Јгѓ€гѓіеёЅе­ђг‚№гѓјгѓ‘гѓјг‚ігѓ”гѓјNзґље“ЃйЂљиІ©е°‚й–Ђеє—гЂђhacopyssгЂ‘!е¤§дєєж°—гЃ®гѓ«г‚¤гѓґг‚Јгѓ€гѓіеёЅе­ђг‚ігѓ”гѓјгЃЊе¤§й›†еђ€пјЃ  гѓЎгѓіг‚єгЂЃгѓ¬гѓ‡г‚Јгѓјг‚№гЃЇдєєж°—гѓ«г‚¤гѓґг‚Јгѓ€гѓігѓ‹гѓѓгѓ€г‚­гѓЈгѓѓгѓ—/гѓ“гѓјгѓ‹гѓј г‚ігѓ”гѓјг‚’и±ЉеЇЊгЃ«жЏѓгЃ€гЃ¦гЃЉг‚ЉгЃѕгЃ™гЂ‚ж—Ґжњ¬е…Ёе›ЅйЂЃж–™з„Ўж–™,ж­“иїЋиіје…ҐпјЃ<br /><a href="https://hacopyss.com/collections/louis-vuitton-maozi" target="_blank">https://hacopyss.com/collections/louis-vuitton-maozi</a></div>
 </div>
 
 
@@ -141,24 +141,24 @@ function popup(url) {
 
 <ul class="pager">
 <li><span>1</span></li>
-<li><a href="./light.cgi?pg=10">2</a></li>
-<li><a href="./light.cgi?pg=20">3</a></li>
-<li><a href="./light.cgi?pg=30">4</a></li>
-<li><a href="./light.cgi?pg=40">5</a></li>
-<li><a href="./light.cgi?pg=50">6</a></li>
-<li><a href="./light.cgi?pg=60">7</a></li>
-<li><a href="./light.cgi?pg=70">8</a></li>
-<li><a href="./light.cgi?pg=80">9</a></li>
-<li><a href="./light.cgi?pg=90">10</a></li>
-<li><a href="./light.cgi?pg=10">&raquo;</a></li>
+<li><a href="light@pg_10.cgi">2</a></li>
+<li><a href="light@pg_20.cgi">3</a></li>
+<li><a href="light@pg_30.cgi">4</a></li>
+<li><a href="light@pg_40.cgi">5</a></li>
+<li><a href="light@pg_50.cgi">6</a></li>
+<li><a href="light@pg_60.cgi">7</a></li>
+<li><a href="light@pg_70.cgi">8</a></li>
+<li><a href="light@pg_80.cgi">9</a></li>
+<li><a href="light@pg_90.cgi">10</a></li>
+<li><a href="light@pg_10.cgi">&raquo;</a></li>
 </ul>
 
 <div class="ta-c">
-<form action="./regist.cgi" method="post">
+<form action="regist.cgi" method="post">
 <input type="hidden" name="mode" value="dellog" />
-‹LЋ–No<input type="text" name="num" size="3" />
-ЌнЏњѓLЃ[<input type="password" name="pwd" size="4" maxlength="8" />
-<input type="submit" value="ЌнЏњ" />
+иЁдє‹No<input type="text" name="num" size="3" />
+е‰Љй™¤г‚­гѓј<input type="password" name="pwd" size="4" maxlength="8" />
+<input type="submit" value="е‰Љй™¤" />
 </form>
 </div>
 

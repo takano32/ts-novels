@@ -83,7 +83,7 @@ kyouske
 感想記事の投稿は現在ありません。
 </th></tr>
 </table>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name=action value=regist2>
 <table border=8>
 <tr>
@@ -139,12 +139,12 @@ E-Mail(任意)
 </td></tr></table></form>
 </center>
 <br><br>
-<a href=./index.cgi?log=&page=>
+<a href="index@log__page_.cgi">
 <<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>
 <tr>
-<form method="post" action="./index.cgi">
+<form method="post" action="index.cgi">
 <input type=hidden name="action" value="sentaku2">
 <input type=hidden name="num" value="20181121130141">
 <input type=hidden name="log" value="">
@@ -158,7 +158,7 @@ E-Mail(任意)
 <input type=submit value="管理者用" class=d1>
 </td>
 </form>
-<form method=post action=./index.cgi>
+<form method=post action="index.cgi">
 <input type=hidden name=action value=in>
 <input type=hidden name="num" value="20181121130141">
 <input type=hidden name="log" value="">
