@@ -1,18 +1,18 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>­”NƒRƒ~ƒbƒN/Ž„‚ÌƒIƒXƒXƒ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>å°‘å¹´ã‚³ãƒŸãƒƒã‚¯/ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?&ff=on">ƒm[ƒgˆê——</a>] 
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">­”NƒRƒ~ƒbƒN</a>] 
+[<a href="noteky@_ff_on.cgi">ãƒŽãƒ¼ãƒˆä¸€è¦§</a>] 
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">å°‘å¹´ã‚³ãƒŸãƒƒã‚¯</a>] 
 </div>
-<font size="+1" color="#008080">V‚µ‚­˜b‘è‚ð‚Â‚­‚é</font>
+<font size="+1" color="#008080">æ–°ã—ãè©±é¡Œã‚’ã¤ãã‚‹</font>
 <form action="noteky.cgi" method="post" >
 <table border="0">
 <tr>
-<td>–¼‘O:</td>
+<td>åå‰:</td>
 <td><input type="text" name="name" size="40" maxlength="40" value=""></td>
 </tr>
 
@@ -27,26 +27,26 @@
 <tr>
 <td colspan="2">
 <input type="checkbox" name="set" value="on" checked>
- ˆÈŒãƒXƒe[ƒ^ƒXî•ñ‚ðƒuƒ‰ƒEƒU‚É•Û‘¶‚·‚é(cookie)
+ ä»¥å¾Œã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹æƒ…å ±ã‚’ãƒ–ãƒ©ã‚¦ã‚¶ã«ä¿å­˜ã™ã‚‹(cookie)
 </td>
 </tr>
 </table>
-<!-- cookie •Û‘¶—p ‚±‚±‚Ìƒf[ƒ^‚ÍƒT[ƒo[‚É•Û‘¶‚µ‚È‚¢ -->
+<!-- cookie ä¿å­˜ç”¨ ã“ã“ã®ãƒ‡ãƒ¼ã‚¿ã¯ã‚µãƒ¼ãƒãƒ¼ã«ä¿å­˜ã—ãªã„ -->
 <input type="hidden" name="mail" value="">
 <input type="hidden" name="ckey" value="">
 
 <input type="hidden" name="ff" value="on">
-<p><small>ƒ[ƒ‹ƒAƒhƒŒƒX‚ðŒöŠJ‚µ‚½‚¢ê‡‚Í URL ‚Ì€–Ú‚Ì http:// ‚ð mailto: ‚É‘‚«‚È‚¨‚µ‚Ä‚­‚¾‚³‚¢B</small></p>
+<p><small>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’å…¬é–‹ã—ãŸã„å ´åˆã¯ URL ã®é …ç›®ã® http:// ã‚’ mailto: ã«æ›¸ããªãŠã—ã¦ãã ã•ã„ã€‚</small></p>
 <br>
-<p>‘è–¼ :<input type="text" name="title" size="40" maxlength="40">
+<p>é¡Œå :<input type="text" name="title" size="40" maxlength="40">
 <br>
-ƒx[ƒXƒm[ƒgƒƒbƒZ[ƒW : <br>
+ãƒ™ãƒ¼ã‚¹ãƒŽãƒ¼ãƒˆãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ : <br>
 <textarea name="text" cols="60" rows="10" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="basenoteenter">
 <input type="hidden" name="f" value="1">
 </p>
 <p>
-<input type="submit" value="WRITE"> ‘‚«ž‚Ý<br>
+<input type="submit" value="WRITE"> æ›¸ãè¾¼ã¿<br>
 </p>
 </form>
 </body>

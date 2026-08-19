@@ -1,112 +1,112 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=955772899wwbda&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_955772899wwbda_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�W���[�N�E�V�e�B</font><br>
+<font size="+2" color="#0000FF">ジャーク・シティ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/mashiro/evilcity.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/04/15 13:28:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/mashiro/evilcity.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/04/15 13:28:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=955772899wwbda&id2=955772899wwbda&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_955772899wwbda_id2_955772899wwbda_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �f��u�_�[�N�E�V�e�B�v�ւ̃I�}�[�W���Łu�W���[�N�E�V�e�B�v�B���܂��ł��ˁB�����ǂ�Ŏ����u�_�[�N�E�V�e�B�v���������Ȃ�܂����B
+【推薦文】 映画「ダーク・シティ」へのオマージュで「ジャーク・シティ」。うまいですね。これを読んで私も「ダーク・シティ」を見たくなりました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�[��</strong>  <i>2000/04/18 00:36:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>骸骨</strong>  <i>2000/04/18 00:36:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=955985818kqelwl&id2=955772899wwbda&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_955985818kqelwl_id2_955772899wwbda_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�������A�߂��Ⴍ����ʔ����ǌ㊴���B<BR>�@���ꂩ�������΂��āA���������؂ꖡ�̂�����i��<BR>�����Ă����Ă���B<BR>�@�������Ă���̂ŁA����΂��āB<BR>�@�i����ɂ��Ă��A�{���ɖʔ��������B�j<BR>�@<BR>
+　すごい、めちゃくちゃ面白い読後感だ。<BR>　これからもがんばって、こういう切れ味のいい作品を<BR>書いていってくれ。<BR>　応援しているので、がんばって。<BR>　（それにしても、本当に面白かった。）<BR>　<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�^��@�I</a></strong>  <i>2000/04/18 21:04:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">真城　悠</a></strong>  <i>2000/04/18 21:04:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=956059440egwavvd&id2=955772899wwbda&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_956059440egwavvd_id2_955772899wwbda_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�L��������܂��B<BR>�@�[������ɂ́u������v�ł����܂𒸂��Ă���܂��āA���k�ł��i�΁j�B<BR>�@�f��I�}�[�W���V���[�Y���Ă��������m��܂���ˁB�Ƃ���Łu�_�[�N�E�V�e�B�v�����ł���B���{���A�j���̃t�@���Ȃ猋�\������Ǝv���܂���B
+　有難うございます。<BR>　骸骨さんには「晶くん」でも激賞を頂いておりまして、恐縮です（笑）。<BR>　映画オマージュシリーズっていいかも知れませんね。ところで「ダーク・シティ」いいですよ。日本製アニメのファンなら結構いけると思いますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">���Ȃ���</a></strong>  <i>2000/04/20 23:40:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">すなさん</a></strong>  <i>2000/04/20 23:40:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=956241600ytxbw&id2=955772899wwbda&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_956241600ytxbw_id2_955772899wwbda_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂܂��A�i�����̔@���j�V���[���Șb�ł��Ȃ��B<BR>�u���ׂĂ̐l���i�������Ƃ��j�̋L�����o���Ă���v<BR>�Ƃ����̂�......���Ȃ茙�����B<BR>
+これはまた、（いつもの如く）シュールな話ですなあ。<BR>「すべての人物（だったとき）の記憶を覚えている」<BR>というのは......かなり嫌かも。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�^��@�I</a></strong>  <i>2000/04/22 02:41:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">真城　悠</a></strong>  <i>2000/04/22 02:41:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=956338887gffyvd&id2=955772899wwbda&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_956338887gffyvd_id2_955772899wwbda_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
- &gt;�u���ׂĂ̐l���i�������Ƃ��j�̋L�����o���Ă���v<BR>�@�m�������������Ƃ������Ă���L�������u�h���S�������X��L�v������ɂ��܂����ȁB<BR>�@���Ȃ݂ɁA����S�̂����̉ԉł̒��̐l�i����点�Ă���ϑz�ł���Ƃ����܂݂�����܂��B�����뉽�̏؋���������ł�����B<BR>
+ &gt;「すべての人物（だったとき）の記憶を覚えている」<BR>　確かそういうことを言っているキャラが「ドラゴンランス戦記」あたりにいましたな。<BR>　ちなみに、物語全体があの花嫁の中の人格が語らせている妄想であるという含みもあります。何しろ何の証拠も無いんですから。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">H.Q���炽�߂v�D�p</a></strong>  <i>2000/04/30 10:08:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">H.QあらためＷ．Ｑ</a></strong>  <i>2000/04/30 10:08:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957056910dexuq&id2=955772899wwbda&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957056910dexuq_id2_955772899wwbda_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ񂾌�ɉf��A���܂����B�������R���R���Ƃ��Ă��܂����o���Ă����ł���ˁB�_�[�N�ŃW���[�N�A�D���ł��B
+　読んだ後に映画、見ました。現実がコロコロとしてしまう感覚っていいですよね。ダークでジャーク、好きです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�^��@�I</a></strong>  <i>2000/04/30 23:13:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">真城　悠</a></strong>  <i>2000/04/30 23:13:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957104018flvmk&id2=955772899wwbda&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957104018flvmk_id2_955772899wwbda_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����ł���H���ꂩ����f��I�}�[�W���V���[�Y�͂��傭���傭��肽���Ǝv���Ă���܂��B�u�g�������v�ȃ^�C�g���̉f��͌��\��R�����ł����A���������̂Ɍ����ĊςĂ��Ȃ�������E�E�E
+　いいでしょ？これからも映画オマージュシリーズはちょくちょくやりたいと思っております。「使えそう」なタイトルの映画は結構沢山あるんですが、そういうのに限って観ていなかったり・・・
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="955772899wwbda">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

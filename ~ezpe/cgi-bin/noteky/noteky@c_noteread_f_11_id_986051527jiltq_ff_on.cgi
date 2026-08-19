@@ -1,102 +1,102 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=986051527jiltq&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_986051527jiltq_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���̊��̉���</font><br>
+<font size="+2" color="#0000FF">紫の旗の下で</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200104/01000611/murasaki.htm" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/04/01 00:12:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200104/01000611/murasaki.htm" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/04/01 00:12:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986051527jiltq&id2=986051527jiltq&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986051527jiltq_id2_986051527jiltq_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z��������ǂ��F�l�Ƃ��J��`������i�����ɂ̃��C���X�g���[���̈�ɂȂ����܂����A�����ɐV���ȍ�i�������܂����B����́A����˂�����̕�Z�ւ̈��������ݏo�����X�g�[���[(��)�B���̐悫���Ƃ����ȃh���}���҂��Ă��邾�낤��l�Ɋ��t�ł��B
+【推薦文】同じ夢を追う友人との絆を描いた作品が文庫のメインストリームの一つになりつつありますが、そこに新たな作品が加わりました。それは、かわねぎさんの母校への愛着が生み出したストーリー(笑)。この先きっといろんなドラマが待っているだろう二人に乾杯です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/04/01 22:01:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/04/01 22:01:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986130096wnglpk&id2=986051527jiltq&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986130096wnglpk_id2_986051527jiltq_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A����˂�����̐V���n�I<BR>���������ǂ݂܂����E�E�E�ƌ��������Ƃ���ł����A���͎��Ԃ������āA����Ȏ��ԂɂȂ�܂����B�������A�N�����z�J�L�R���Ă邾�낤�Ǝv���Ă��̂ɁE�E�E�B�܂��A�g�m�ɏ����t���Ȃ��Ă悩�����i�΁j�B<BR>���₠�A�Ȃ��Ȃ��ʔ��������ł���B���������̂��݂ł���
+おお、かわねぎさんの新境地！<BR>さっそく読みました・・・と言いたいところですが、朝は時間が無くて、こんな時間になりました。しかし、誰か感想カキコしてるだろうと思ってたのに・・・。まあ、ＨＮに傷が付かなくてよかった（笑）。<BR>いやあ、なかなか面白かったですよ。続きがたのしみです♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>Kardy���ߘJ�C��by���</strong>  <i>2001/04/02 23:58:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Kardy＠過労気味by医者</strong>  <i>2001/04/02 23:58:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986223523acmdm&id2=986051527jiltq&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986223523acmdm_id2_986051527jiltq_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�{�N�����āA�������邱�ƂȂ�ł���E�E�E�v<BR>�����I������ł��`�A���[�f�B���O�����������āE�E�E�Ⴄ�ˁB<BR>�������A���ɂȂ�������Ƃ����āA�S���싅�̓��������ꂽ�킯�ł͂Ȃ��ł��B<BR>����̏��q�I�肪�}�E���h�ɏオ�����������邵�B<BR>�䂭�䂭�̓A�W�A���̏����v���I��A�����I<BR><BR>�w�@�ΎR���āE�E�E(�P���P�G)
+「ボクだって、応援することならできる・・・」<BR>そう！今からでもチアリーディング部を結成して・・・違うね。<BR>しかし、女になったからといって、全く野球の道が閉ざされたわけではないです。<BR>東大の女子選手がマウンドに上がった事もあるし。<BR>ゆくゆくはアジア初の女性プロ選手、だっ！<BR><BR>学法石山って・・・(￣▽￣；)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/04/03 01:40:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/04/03 01:40:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986229635nfhsox&id2=986051527jiltq&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986229635nfhsox_id2_986051527jiltq_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���q�I��ɂ��āF<BR>���w���́A�����܂ŏo���܂��B<BR>���̓v���e�X�g�Ɏ󂩂鏗�q���������Ȃ��̂Ŋ��􂵂Ă��Ȃ��ƌ��������̘b�ł��B<BR>���̂Ƃ���A���q���o��ł��Ȃ��̂́u�C���^�[�n�C�̑S�����v�A�v����ɍb�q�������i�\�I�ɂ͏o����j�ł��B<BR>��������A�@���ɍ���A�����̌ł������邩�Ƃ������܂��B
+女子選手について：<BR>中学生は、決勝まで出られます。<BR>実はプロテストに受かる女子が未だいないので活躍していないと言うだけの話です。<BR>今のところ、女子が出場できないのは「インターハイの全国大会」、要するに甲子園だけ（予選には出られる）です。<BR>ここから、如何に高野連が頭の固さが判るかとおもいます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawane2001@yahoo.co.jp" target="_blank">����˂�</a></strong>  <i>2001/04/03 21:20:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawane2001@yahoo.co.jp" target="_blank">かわねぎ</a></strong>  <i>2001/04/03 21:20:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986300432cirhaw&id2=986051527jiltq&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986300432cirhaw_id2_986051527jiltq_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F����A�ǂ�ł�������A���肪�Ƃ��������܂��B<BR><BR>�����W�S�Q�U�l<BR>���܂��A�g�m�ɏ����t���Ȃ��Ă悩�����i�΁j�B<BR>�_���̂����l�ł�����ˁi�΁j<BR>�����₠�A�Ȃ��Ȃ��ʔ��������ł���B���������̂��݂ł��� <BR>���ꂪ�A���̂Ƃ��둱���͍l���Ă��Ȃ��̂ł��B<BR>�i�ł��A�Ă̑��ō��썂(^^)������΂��Ă����΁A���҂��肩���j<BR><BR>Kardy���ߘJ�C��by��� �l<BR>���̂͂��厖�Ɂc�c<BR>�������I������ł��`�A���[�f�B���O�����������āE�E�E�Ⴄ�ˁB<BR>����A������Ɓi���j�B���̌�A�T���̓}�l�[�W���[�Ƃ��Ė싅���Ŋ��􂵂Ă����܂��B<BR>���������A���ɂȂ�������Ƃ����āA�S���싅�̓��������ꂽ�킯�ł͂Ȃ��ł��B<BR>�ł����A�T�������Z�R�N�Ԃ͎��ۂɃv���[���邱�Ƃ͂Ȃ��Ȃ�܂��B<BR>���̌�͂ǂ��Ȃ�܂����ˁB�Y�ꎟ�悩���B<BR><BR>���Ȃ���l<BR>�����̂Ƃ���A���q���o��ł��Ȃ��̂́u�C���^�[�n�C�̑S�����v�A�v�����<BR>���b�q�������i�\�I�ɂ͏o����j�ł��B<BR>�ꉞ�����܂ł͏o����킯�ł����B�ӂނӂށB<BR>�ł�����ς�u�j�̐��E�v�Ȃ�ł���ˁB���Z�싅���āB
+皆さん、読んでくださり、ありがとうございます。<BR><BR>ｍｋ８４２６様<BR>＞まあ、ＨＮに傷が付かなくてよかった（笑）。<BR>神速のｍｋ様ですからね（笑）<BR>＞いやあ、なかなか面白かったですよ。続きがたのしみです♪ <BR>それが、今のところ続きは考えていないのです。<BR>（でも、夏の大会で笹川高(^^)ががんばってくれれば、続編ありかも）<BR><BR>Kardy＠過労気味by医者 様<BR>お体はお大事に……<BR>＞そう！今からでもチアリーディング部を結成して・・・違うね。<BR>いや、ちょっと（汗）。この後、裕美はマネージャーとして野球部で活躍していきます。<BR>＞しかし、女になったからといって、全く野球の道が閉ざされたわけではないです。<BR>ですが、裕美も高校３年間は実際にプレーすることはなくなります。<BR>その後はどうなりますかね。雄一次第かも。<BR><BR>すなさん様<BR>＞今のところ、女子が出場できないのは「インターハイの全国大会」、要するに<BR>＞甲子園だけ（予選には出られる）です。<BR>一応県大会までは出られるわけですか。ふむふむ。<BR>でもやっぱり「男の世界」なんですよね。高校野球って。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/04/03 21:28:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986300934ulhummo&id2=986051527jiltq&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986300934ulhummo_id2_986051527jiltq_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����A�̃h�A�z�Ԃ�ɋƂ��ς₵���^���q���̗�������<BR>���q�݂̂̑�����낤�Ƃ����Ƃ���A<BR>�����̕����Ȃ���N���[�������������ł��B<BR><BR>���̎��̗��R���΂��܂��B<BR>�u���q�����ɂ��싅���́A���݂̂Ƃ���S�����琔�`�[���Ő���邱�ƂɂȂ�B<BR>�@�j�q�͖��N�A���̂ɂ��ނ悤�Ȏv���ōb�q���ւ̃L�b�v����ɂ��Ă���̂�<BR>�@������J������K�v�������Ƃ����̂́A���I�����̊ϓ_����ǂ����Ǝv�����B�v<BR>�E�E�E���ꂶ�ች���H�j�q�Ɠ��������̃`�[�����W�܂�����A���ۂ��闝�R�͂Ȃ��񂾂ȁH<BR>�܂��A�c�b�R�~�ǂ��떞�ڂْ̍�ł����B<BR><BR>�v�������q�ɖ�˂��J�����Ƃ��A�����V��������ȋL�����o���Ă��܂����B<BR>�u���Ƃ���w�I�������Ȃ��Ȃ����Ƃ͂����A�K���O���ɂ�����<BR>�@�싅���Ƃ̐�͂Ƃ��Đ������Ȃ��҂�r�����Ă���ȏ�͐�]�I�B<BR>�@�������A�W���C�i�[�i�̐l�j�N���X�̋r�͂̎�������A<BR>�@�㑖�v���Ƃ��Č_�񂷂�\���͎c����Ă���B�v<BR>���邢�́A�r�͂�����قǕK�v�Ƃ��Ȃ��o���g�v���Ƃ��A�ω������̓���Ƃ��A<BR>���̂����肩��ǂ�˔j���Ăق�������ł��ˁB
+高野連のドアホぶりに業を煮やした某女子高の理事長が<BR>女子のみの大会を作ろうとしたところ、<BR>当時の文部省からクレームがついたそうです。<BR><BR>その時の理由が笑えます。<BR>「女子高生による野球大会は、現在のところ全国から数チームで戦われることになる。<BR>　男子は毎年、血のにじむような思いで甲子園へのキップを手にしているのに<BR>　同じ苦労をする必要が無いというのは、性的平等の観点からどうかと思うが。」<BR>・・・それじゃ何か？男子と同じだけのチームが集まったら、拒否する理由はないんだな？<BR>まぁ、ツッコミどころ満載の裁定でした。<BR><BR>プロが女子に門戸を開いたとき、毎日新聞がこんな記事を出していました。<BR>「たとえ医学的制限がなくなったとはいえ、規約第三条において<BR>　野球興業の戦力として数えられない者を排除している以上は絶望的。<BR>　ただし、ジョイナー（故人）クラスの脚力の持ち主を、<BR>　代走要員として契約する可能性は残されている。」<BR>あるいは、腕力をそれほど必要としないバント要員とか、変化球専門の投手とか、<BR>そのあたりから壁を突破してほしいもんですね。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="986051527jiltq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

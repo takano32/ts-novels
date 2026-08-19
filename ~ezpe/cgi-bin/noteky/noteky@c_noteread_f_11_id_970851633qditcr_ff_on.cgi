@@ -1,102 +1,102 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=970851633qditcr&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_970851633qditcr_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���F�̐���</font><br>
+<font size="+2" color="#0000FF">七色の水晶</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200010/07015728/nanairo.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/10/07 02:00:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200010/07015728/nanairo.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/10/07 02:00:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=970851633qditcr&id2=970851633qditcr&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_970851633qditcr_id2_970851633qditcr_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�a��ő�l�����j�̎q�ƌ��C�ł��ł₩�ȏ��̎q�̃R���g���X�g�ɒ��ځB���̎q�ւ̕ϐg��V�������ւ̓]���_�Ƃ��ĕ`���o�������ł��B
+病弱で大人しい男の子と元気であでやかな女の子のコントラストに注目。女の子への変身を新しい生への転換点として描き出した一作です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/10/08 22:06:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/10/08 22:06:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971010418pcnkdg&id2=970851633qditcr&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971010418pcnkdg_id2_970851633qditcr_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āB<BR>���āA���̍�i�ɏo�Ă��邱�̎q�̗l�ȏ󋵂ɂȂ�����H<BR>�ƍl���Ă݂�Ɓi�Ƃ肠�����A���ʂ����̎q�ɕς�������Ƃ͒u���Ă����j�c�A�@���ɂ͂��Ⴎ���Ƃ��o����̂��������̂��A���ۂɓ��a���������Ă݂�ƕ�����܂��B<BR><BR>�Ƃ���ł���A��������̍�Ƃ��񂪌�����u�l�^�Ɏg�������v�Ƃ������o���l���o�Ă���̂ł́H�i�������������񂾂��́j<BR><BR>�ŋ߁A��N�Ԃ�Ɏd���ɕ��A�������Ȃ�����
+初めまして。<BR>さて、この作品に出てくるこの子の様な状況になったら？<BR>と考えてみると（とりあえず、性別が女の子に変わったことは置いておく）…、如何にはしゃぐことが出来るのが嬉しいのか、実際に闘病生活をしてみると分かります。<BR><BR>ところでこれ、少女漫画の作家さんが見たら「ネタに使いたい」とか言い出す人も出てくるのでは？（凄く美味しいんだもの）<BR><BR>最近、二年ぶりに仕事に復帰したすなさんより
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����n</strong>  <i>2000/10/09 00:07:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>逃げ馬</strong>  <i>2000/10/09 00:07:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971017648nqrri&id2=970851633qditcr&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971017648nqrri_id2_970851633qditcr_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@������ƃt�@���^�W�[�n�̍�i�ł����ˁB��l���̒�(��)���v���C�����ƁA�a�C�̂Ƃ��̒�ƁA���̎q�ɂȂ����Ƃ��̃M���b�v���Ȃ��Ȃ��ǂ������ł��B<BR>�@
+　ちょっとファンタジー系の作品でしたね。主人公の弟(妹)を思う気持ちと、病気のときの弟と、女の子になったときのギャップがなかなか良かったです。<BR>　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�R�A�@���낢�邩</strong>  <i>2000/10/09 22:01:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>山陰　しろいるか</strong>  <i>2000/10/09 22:01:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971096462axvcel&id2=970851633qditcr&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971096462axvcel_id2_970851633qditcr_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��@���܁A�݂Ȃ���̂��l���悤��<BR>�������t�@���^�W�[�ȑ��҂��l���Ă��܂��@�܂��ǂ�ł���������<BR>���܂�@���˂͂Ȃ��ł����ǂ�낵�����肢���܂�
+感想ありがとうございます　いま、みなさんのお考えように<BR>すこしファンタジーな続編を考えています　また読んでくださいね<BR>あまり　文才はないですけどよろしくお願いします
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200010/14134031/yukari_1.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/10/14 13:59:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200010/14134031/yukari_1.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/10/14 13:59:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971499589qnmwix&id2=970851633qditcr&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971499589qnmwix_id2_970851633qditcr_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�R�������`�@���́z<BR>�O�񃉃X�g�̈ꕶ�́A�����������Ƃ������̂��B���낢�邩����̎��I�Ȍ��ɂ��A���܂�ς�����R�����́A�z�������Ȃ���������̂͂��܂�ł��I
+【由香里聖伝　序章】<BR>前回ラストの一文は、そういうことだったのか。しろいるかさんの詩的な語りによる、生まれ変わった由香里の、想像もつかなかった物語のはじまりです！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2000/10/29 09:25:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2000/10/29 09:25:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972779142erjlvk&id2=970851633qditcr&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972779142erjlvk_id2_970851633qditcr_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�R�������`��m�a���z<BR>�y���炷���z �R�����͂���閲�ŏ��_�ɏ������ꂽ�B�_�X�̐�m�Ƃ��Ĉ��������̂Ƃ̐킢���n�߂��c�c
+【由香里聖伝戦士誕生】<BR>【あらすじ】 由香里はある夜夢で女神に召喚された。神々の戦士として悪しきものとの戦いを始めた……
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="970851633qditcr">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

@@ -1,222 +1,222 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=937402227hvhmlo&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_937402227hvhmlo_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���T�E���̎q�̐}</font><br>
+<font size="+2" color="#0000FF">小狼・女の子の図</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art24.html" target="_blank">���d�F�ꐬ</a></strong>  <i>1999/09/15 22:30:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art24.html" target="_blank">八重洲一成</a></strong>  <i>1999/09/15 22:30:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937402227hvhmlo&id2=937402227hvhmlo&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937402227hvhmlo_id2_937402227hvhmlo_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-CC������̏��T�N���ł���b�I(����) ���T�N�������I ��e����̋C���������߂ɂ��I ���܁I �ؗ�Ȃ�ϐg�`�I
+CCさくらの小狼クンですよッ！(興奮) 小狼クンがっ！ 雪兎さんの気を引くためにっ！ いま！ 華麗なる変身～！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>OFFICER</strong>  <i>1999/09/16 16:18:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937466303htgcc&id2=937402227hvhmlo&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937466303htgcc_id2_937402227hvhmlo_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���G�X����̃R�����g����Â��������ĂĂ������낢�ȁ[�B����A�C�����͕�����܂��B(^^;)
+ヤエスさんのコメントが冷静さを失ってておもしろいなー。いや、気持ちは分かります。(^^;)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/tifra/" target="_blank">�r�H�u</a></strong>  <i>1999/09/16 21:15:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/tifra/" target="_blank">Ｓ羽丘</a></strong>  <i>1999/09/16 21:15:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937484105brwnltd&id2=937402227hvhmlo&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937484105brwnltd_id2_937402227hvhmlo_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���T�����CG��<BR>���w�����ۂ��������Ă��܂�Ȃ��悤��<BR>�C���g���Ȃ���`���܂����B<BR><BR>�Ȃ񂩁A�V���^�����̂��锪�d�F����̃c�{���h�����Ă��܂����݂����ł�(��<BR><BR>�ݒ�I�ɂ��肻���Șb���Ǝv�����̂ŊG�ɂ��Ă݂܂����B<BR>���T�N�ɂ͎��ƂɎ��o���吨���܂����A<BR>���̎���m������ʔ������������邩������܂���B<BR>�E�E�E�Ȃǂƍl���B(��<BR><BR>��e����ւ̍����V�[����A<BR>������̋��Ȃ����ɐ�e����ɂ₳��������鏬�T����Ƃ��A<BR>���낢��Ɩϑz���ӂ���݂܂��B(��
+小狼くんのCGは<BR>小学生っぽさが消えてしまわないように<BR>気を使いながら描きました。<BR><BR>なんか、ショタ属性のある八重洲さんのツボを刺激してしまったみたいです(笑<BR><BR>設定的にありそうな話だと思ったので絵にしてみました。<BR>小狼君には実家に実姉が大勢いますが、<BR>この事を知ったら面白い反応をするかもしれません。<BR>・・・などと考えつつ。(笑<BR><BR>雪兎さんへの告白シーンや、<BR>さくらの居ない隙に雪兎さんにやさしくされる小狼くんとか、<BR>いろいろと妄想がふくらみます。(笑
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>1999/09/16 23:46:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>1999/09/16 23:46:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937493189bsxfj&id2=937402227hvhmlo&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937493189bsxfj_id2_937402227hvhmlo_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �Ȃ񂩁A�V���^�����̂��锪�d�F����̃c�{���h�����Ă��܂����݂����ł�(��<BR><BR>�Q�t�Q�t�Q�t�b�I(^^;<BR>�ł��ق�ƁA�{�҂ł�����Ȃ̌������ł���ˁ[�B
+&gt; なんか、ショタ属性のある八重洲さんのツボを刺激してしまったみたいです(笑<BR><BR>ゲフゲフゲフッ！(^^;<BR>でもほんと、本編でもこんなの見たいですよねー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown-Spade/5805/" target="_blank">�L���@��</a></strong>  <i>1999/09/17 03:40:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown-Spade/5805/" target="_blank">広尾　翔</a></strong>  <i>1999/09/17 03:40:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937507235ukakxb&id2=937402227hvhmlo&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937507235ukakxb_id2_937402227hvhmlo_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�r�H�u���񂲖������ł��I�@���̂Ƃ���A��[�₭�����������Ă����L���ł��i�ł��W�b�P���Ƃ��ŁA������Ƃ͂ɂ�[�Ȋ����i�΁j�j�B<BR>�@���[�ł��ˁA���ς�炸�f���炵���G�ł��ˁI�@�������̃V�`���G�[�V�������u�b�b������v�t�@���̖l�Ƃ��Ắ[�A������Ɓu��������v���̂�����܂��[�I�@���[��ł��l�̓}�g���ȓ񎟑n��͂�����ƃj�K�e�Ȃ̂����Ȃ̂ł����[�i�΁j�B<BR>
+　Ｓ羽丘さんご無沙汰です！　このところ、よーやく多少復活してきた広尾です（でもジッケンとかで、ちょっとはにゃーな感じ（笑））。<BR>　いーですね、相変わらず素晴らしい絵ですね！　説明文のシチュエーションも「ＣＣさくら」ファンの僕としてはー、ちょっと「そそられる」ものがありますー！　うーんでも僕はマトモな二次創作はちょっとニガテなのが問題なのですがー（笑）。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/tifra/" target="_blank">�r�H�u</a></strong>  <i>1999/09/18 13:26:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/tifra/" target="_blank">Ｓ羽丘</a></strong>  <i>1999/09/18 13:26:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937628797dtnhn&id2=937402227hvhmlo&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937628797dtnhn_id2_937402227hvhmlo_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ������������ł�(^^)/<BR>���̂ق����A�ăR�~�ɂ����܂�Ă������Ԃ���������<BR>�����Ă����X�V�Ȃǂ���Ăɓ����o���Ă���Ƃ���ł��B<BR>������Ɩ{�Ƃ��Z�����ł����`<BR>���Ȃ݂Ɂu�����v��CG�́A<BR>������܂���K-BOOKS�ŒT�蓖�Ă�����{��<BR>�ЂƃR�}�ɐG������ĕ`�������̂ł��`<BR>�ł͂ł�
+どうもご無沙汰です(^^)/<BR>私のほうも、夏コミにつぎ込まれていた時間が解放されて<BR>凍っていた更新などが一斉に動き出しているところです。<BR>ちょっと本業が忙しいですが～<BR>ちなみに「えっ」のCGは、<BR>いつぞやまつさんがK-BOOKSで探り当てた漫画本の<BR>ひとコマに触発されて描いたものです～<BR>ではでは
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����(�l�n�s�n)</strong>  <i>1999/09/19 23:26:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もと(ＭＯＴＯ)</strong>  <i>1999/09/19 23:26:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937751164mdyayk&id2=937402227hvhmlo&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937751164mdyayk_id2_937402227hvhmlo_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�҂��ɑ҂����Ƃ��������̂r�H�u����̂b�f�ł��ˁB<BR>���T����͂���ς菗�̎q���������܂����(��)���Ȃ݂Ɏ����b�b������ŏ��߂Ĕ������̂͑�P���ł͂Ȃ��A��T���������肵�܂��B�i���R�͂��킩��̒ʂ�ł��n�C�j<BR>�@�Ƃ���ŁA�ăR�~�o�Ă�ꂽ�̂ł����B�m���Ă���{�𔃂��Ɍ������̂ł����c�i�����Ƃg�o���ɂɂ��ĂȂ��̂��o���o�����ȁj
+　待ちに待ったという感じのＳ羽丘さんのＣＧですね。<BR>小狼くんはやっぱり女の子が似合いますよね(爆)ちなみに私がＣＣさくらで初めて買ったのは第１巻ではなく、第５巻だったりします。（理由はおわかりの通りですハイ）<BR>　ところで、夏コミ出てられたのですか。知ってたら本を買いに言ったのですが…（ちゃんとＨＰ見ににってないのがバレバレだな）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/souko/" target="_blank">�r�H�u</a></strong>  <i>1999/09/20 21:05:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/souko/" target="_blank">Ｓ羽丘</a></strong>  <i>1999/09/20 21:05:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937829151vamsco&id2=937402227hvhmlo&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937829151vamsco_id2_937402227hvhmlo_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Q�X�g�Q�����������A����Ɂ����ϊ��n�l�^�ł͂Ȃ������ł��B
+ゲスト参加だったし、それに♂♀変換系ネタではなかったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">���������E�Ăi�ւ��ۂ������j</a></strong>  <i>1999/09/23 23:15:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">いしがき・てつ（へっぽこ曹長）</a></strong>  <i>1999/09/23 23:15:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938096150boane&id2=937402227hvhmlo&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938096150boane_id2_937402227hvhmlo_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʂ͂�!!�r�H�u����A����!!<BR>���񂽁A���l�̐l�Ԃ�������������C���Ⴂ!!�i�����@����j<BR>���A���łɔ��d�F���񂪃��o�C��������ւ�ȁc�B<BR><BR>���₢�₢��A����ȕ��ŃX���}�Z���ł����ˁB<BR>���C�͈ȑO�r�H�u����̕`����Ă����u��j�v<BR>�ň��A�O�r�̐�����Ă��܂������A<BR>�܂����A�܂������Ƃ͎v�������܂ւ�ł�����B���ׂ��B
+ぬはぁ!!Ｓ羽丘さん、反則!!<BR>あんた、何人の人間を失血死させる気じゃい!!（もち鼻血や）<BR>あ、すでに八重洲さんがヤバイかもしれへんな…。<BR><BR>いやいやいや、失礼な文でスンマセンでしたね。<BR>ワイは以前Ｓ羽丘さんの描かれていた「雅史」<BR>で一回、三途の川を見てきましたが、<BR>まさか、またいくとは思いもよりまへんでしたわ。あべし。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/souko/" target="_blank">�r�H�u</a></strong>  <i>1999/09/24 21:18:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/souko/" target="_blank">Ｓ羽丘</a></strong>  <i>1999/09/24 21:18:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938175529llcjn&id2=937402227hvhmlo&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938175529llcjn_id2_937402227hvhmlo_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;���C�͈ȑO�r�H�u����̕`����Ă����u��j�v<BR><BR>��(^^;<BR>���҂�`����������Ȃ��ƌ����Ă����Ȃ��炳���ς�`�����ɕ��u���Ă���<BR>��j�̊G�̑������Ȃ�Ƃ����Ȃ��ƂȂ�܂����(^^;
+&gt;ワイは以前Ｓ羽丘さんの描かれていた「雅史」<BR><BR>う(^^;<BR>続編を描くかもしれないと言っておきながらさっぱり描かずに放置している<BR>雅史の絵の続きもなんとかしないとなりませんね(^^;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:yays@geocities.co.jp" target="_blank">webmaster</a></strong>  <i>1999/10/02 11:20:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938830805ybcvpo&id2=937402227hvhmlo&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938830805ybcvpo_id2_937402227hvhmlo_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�q�T�J�T�ւ̃R�����g�z �Ǘ��l�e�X�g�������݁B���T�N���G���`<BR>
+【子狼憂鬱へのコメント】 管理人テスト書き込み。小狼クン萌え～<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">����</a></strong>  <i>1999/10/04 09:22:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">匿名</a></strong>  <i>1999/10/04 09:22:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938996555fgcjf&id2=937402227hvhmlo&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938996555fgcjf_id2_937402227hvhmlo_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�q�T�J�T�ւ̃R�����g�z <BR>�ʔ�������
+【子狼憂鬱へのコメント】 <BR>面白かった
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/souko/" target="_blank">�r�H�u</a></strong>  <i>1999/10/04 21:18:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/souko/" target="_blank">Ｓ羽丘</a></strong>  <i>1999/10/04 21:18:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939039520ipfljx&id2=937402227hvhmlo&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939039520ipfljx_id2_937402227hvhmlo_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�q�T�J�T�ւ̃R�����g�z<BR>�ǂ݂܂����B<BR>�Ȃ񂩁A�ǂ��ł��˂��B���ɁA��e�ɉ�����Ƃ��̏��T�̐S���`�ʂȂǁB<BR>�Ȗ��͖Y��܂������A������TV�łɂ͂��������V�[���ɂ҂������BGM������̂ŁA<BR>�v�������ׂȂ���ǂނƖG���x�{����������܂���B<BR>
+【子狼憂鬱へのコメント】<BR>読みました。<BR>なんか、良いですねえ。特に、雪兎に会ったときの小狼の心理描写など。<BR>曲名は忘れましたが、たしかTV版にはこういうシーンにぴったりなBGMがあるので、<BR>思い浮かべながら読むと萌え度倍増かもしれません。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="souzi@alles.or.jp" target="_blank">�\�E�W</a></strong>  <i>1999/10/06 07:46:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="souzi@alles.or.jp" target="_blank">ソウジ</a></strong>  <i>1999/10/06 07:46:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939163581ccnwno&id2=937402227hvhmlo&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939163581ccnwno_id2_937402227hvhmlo_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������悩�����ł��I�I�I<BR><BR>�q�T���A���q�X�ߎ��ɘA�ꍞ�܂��Ƃ��Ƃ��A<BR>���̂����̂̕��≺���𒅂�h�L�h�L���A<BR>�y�A���b�N���B�e�������Ă���q�T�A<BR>���̃r�f�I�����Ɏ��X�Ə�����������q�T�E�E�E<BR><BR>����Ȃ̂����҂������ł��B<BR>������ǂ݂����ł��I<BR>
+すっごくよかったです！！！<BR><BR>子狼が、女子更衣室に連れ込まれるとことか、<BR>女のこものの服や下着を着るドキドキ感、<BR>ペアルックを撮影させられている子狼、<BR>そのビデオを盾に次々と女装させられる子狼・・・<BR><BR>そんなのも期待したいです。<BR>次回も読みたいです！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/10/06 19:53:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/10/06 19:53:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939207205vxtysj&id2=937402227hvhmlo&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939207205vxtysj_id2_937402227hvhmlo_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���q�T���A���q�X�ߎ��ɘA�ꍞ�܂��Ƃ��Ƃ��A<BR>�H���̂����̂̕��≺���𒅂�h�L�h�L���A<BR>���y�A���b�N���B�e�������Ă���q�T�A<BR>�����̃r�f�I�����Ɏ��X�Ə�����������q�T�E�E�E<BR>������Ȃ̂����҂������ł��B<BR>��������ǂ݂����ł��I<BR><BR>���҂��Ă�����āA�������킯�Ȃ����A<BR>�Ƃ��イ�ŁA�ǂ��ɂ����E�����Ȃ��Ȃ肻���������̂�<BR>���Ȃ苭���ɏI��点�Ă��܂��A<BR>�����Ȃ�āA�����񂸂���z�����ȁ`���B<BR>����ƁA�ꉞ�A�P�b�f�P�����ƁA���߂Ă��肷��B<BR>����Ȃ킯�ŁA�r�H�u���񂪁A�������ۂ��b�f��`���Ă��ꂽ��<BR>���҂��������Ƃɂ������܂��傤�B<BR>
+＞子狼が、女子更衣室に連れ込まれるとことか、<BR>？女のこものの服や下着を着るドキドキ感、<BR>＞ペアルックを撮影させられている子狼、<BR>＞そのビデオを盾に次々と女装させられる子狼・・・<BR>＞そんなのも期待したいです。<BR>＞次回も読みたいです！<BR><BR>期待してもらって、もうしわけないが、<BR>とちゅうで、どうにも収拾がつかなくなりそうだったので<BR>かなり強引に終わらせてしまい、<BR>続きなんて、ずえんずえん想いつかな～い。<BR>それと、一応、１ＣＧ１小説と、決めてたりする。<BR>そんなわけで、Ｓ羽丘さんが、続きっぽいＣＧを描いてくれたら<BR>続編をかくことにいたしましょう。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��@�ۑ���</strong>  <i>2000/08/27 19:02:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野　丸太丸</strong>  <i>2000/08/27 19:02:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=967370521sgvgbon&id2=937402227hvhmlo&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_967370521sgvgbon_id2_937402227hvhmlo_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���R�Q�b�u������ƃP���Ə��T�Ɓv�z <BR>Cindy����A�҂��Ă܂������I�@�G����Ȃ��ăX�g�[���[�̌f�ڂ�������ł��ˁB����\���̂�����̃Z���t���҂�����ł����A�R�肭��o��Ƃ͂܂����Ԃ����B���Ƃ́A�m���Ɠ��ӌ������F<BR>�@���Ƃ��̂��ɂȂ���������I�@���Ă݂������i�������߂�Ɓj�B
+【裏３２話「さくらとケロと小狼と」】 <BR>Cindyさん、待ってましたっ！　絵じゃなくてストーリーの掲載だったんですね。次回予告のさくらのセリフがぴったりですし、山崎くん登場とはまたしぶいっ。あとは、知世と同意見っす：<BR>　おとこのこになったさくら！　見てみたいっ（自爆こめんと）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�b��������</strong>  <i>2000/08/28 09:54:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｃｉｎｄｙ</strong>  <i>2000/08/28 09:54:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=967424080wernfm&id2=937402227hvhmlo&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_967424080wernfm_id2_937402227hvhmlo_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���R�Q�b�u������ƃP���Ə��T�Ɓv�z<BR>�҂���Ă܂������I�c�c�c�G���I�i�����I�j<BR>����͂��Ă����A�L�삳��R�����g���肪�Ƃ��������܂��B<BR>�P�F�������ƎR��N�́A���Ƃ��Ă��������ł��B�i�΁j
+【裏３２話「さくらとケロと小狼と」】<BR>待たれてましたか！………絵を！（自爆！）<BR>それはさておき、猫野さんコメントありがとうございます。<BR>ケェロちゃんと山崎君は、私としても勝負所です。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/08/28 23:59:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/08/28 23:59:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=967474766kgogomm&id2=937402227hvhmlo&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_967474766kgogomm_id2_937402227hvhmlo_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���R�Q�b�c�z<BR>����ǁ[��I<BR>���������c�i���_�j�B<BR><BR>�����A�]���X���j�~�T�C���őł����܂�܂����c�B<BR><BR>�����������u�䂫�������v������B<BR><BR>�����Ƃ��̂��ɂȂ���������I�@���Ă݂������i�������߂�Ɓj�B <BR><BR>�r�H�u����A�����āI
+【裏３２話…】<BR>ちゅどーん！<BR>もこもこ…（茸雲）。<BR><BR>只今、脳味噌を核ミサイルで打ち込まれました…。<BR><BR>寒い事言う「ゆきうさぎ」が傑作。<BR><BR>＞おとこのこになったさくら！　見てみたいっ（自爆こめんと）。 <BR><BR>Ｓ羽丘さん、書いて！
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="937402227hvhmlo">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

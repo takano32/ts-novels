@@ -1,121 +1,121 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=937913962pjeas&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_937913962pjeas_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�V���C�j���O�E�X�s���b�c�E�u���C���X</font><br>
+<font size="+2" color="#0000FF">シャイニング・スピリッツ・ブレイヴス</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/hakken/title.html" target="_blank">���d�F</a></strong>  <i>1999/09/21 20:39:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/hakken/title.html" target="_blank">八重洲</a></strong>  <i>1999/09/21 20:39:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937913962pjeas&id2=937913962pjeas&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937913962pjeas_id2_937913962pjeas_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���ƂԂ��Ђ��邳��ɂ���͍�iSSB���͂�11�b�B����͉����ɓ����]�����������܂��B���Ȃ݂Ɏ��̂��C�ɓ���͍���o�����遛���N���B�ϐg�オ�����ł��B�`�a�́u�ςȕ����֌������O�Ɂc�v�Ƃ����Z���t���ǂ������ȁ`�B
+【推薦文】 ことぶきひかるさんによる大河作品SSBもはや11話。物語は佳境に入り大転回を見せつつあります。ちなみに私のお気に入りは今回覚醒する○○クン。変身後が可愛いです。義和の「変な方向へ向かう前に…」というセリフも良かったな～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>1999/09/23 04:04:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>1999/09/23 04:04:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938027099nqcqr&id2=937913962pjeas&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938027099nqcqr_id2_937913962pjeas_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�i����m�F����̃R�����g��]�ڂ��܂��j<BR>����C�u���ƂP�l�v�́u�і�v���񂩂Ǝv������u�e���q�v�ł������D<BR>�\�z�͂��Ă��Ȃ��͂Ȃ������̂ł����i�Ƌ������Ă݂�e�X�g�j�C����ϊ��҂���s��������Ɨ\�z������݂܂��Ȃ��i��΁j
+（速沢知彦さんのコメントを転載します）<BR>いや，「あと１人」は「毛野」さんかと思ったら「親兵衛」でしたか．<BR>予想はしていなくはなかったのですが（と強がってみるテスト），やっぱ期待が先行しすぎると予想がくらみますなあ（苦笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>1999/09/23 06:37:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>1999/09/23 06:37:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938036232vrnkqrh&id2=937913962pjeas&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938036232vrnkqrh_id2_937913962pjeas_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ōŏI�b�ƂȂ�̂ł��傤���H<BR><BR>�ӊO�ȍŌ�̐�m�ł���ˁB�o�����\�͂��E�E�E<BR>�������l�A�ނ̔\�͎͂x���^�ł��ˁB<BR>�����܂Ŗڂ������Ȃ��ƌ������ł��B
+次回で最終話となるのでしょうか？<BR><BR>意外な最後の戦士ですよね。出自も能力も・・・<BR>光盾同様、彼の能力は支援型ですね。<BR>結末まで目が離せないと言う所です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ߗR��</strong>  <i>1999/10/20 01:07:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>那由他</strong>  <i>1999/10/20 01:07:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940349250dyqvlkf&id2=937913962pjeas&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940349250dyqvlkf_id2_937913962pjeas_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ꕔ���������l�ł���<BR>��Q���ɂ����҂��Ă܂��̂ł���΂��Ă���������
+第一部完結お疲れ様でした<BR>第２部にも期待してますのでがんばってくださいね
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�B��@�p�m</strong>  <i>1999/10/21 09:31:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>達句　英知</strong>  <i>1999/10/21 09:31:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940465865cfwosh&id2=937913962pjeas&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940465865cfwosh_id2_937913962pjeas_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ꕔ�����߂łƂ��������܂��B<BR>��b����̑��e�L�X�g�ʂ́A�������ɖ{������{�����[���ł��ˁB<BR>
+第一部完おめでとうございます。<BR>一話からの総テキスト量は、薄い文庫本を上回るボリュームですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��×���</strong>  <i>1999/11/08 01:39:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>会津里花</strong>  <i>1999/11/08 01:39:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=941992775susfq&id2=937913962pjeas&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_941992775susfq_id2_937913962pjeas_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�t���I<BR>�����낤���܂ł����`�B<BR>�G�̂��Ă����i�ɂȂ��Ă�����A���������؂₩�������ł��傤�ˁB<BR>��2���ĊJ�A���҂����Ă܁`���B
+師匠！<BR>ごくろうさまでした～。<BR>絵のついている作品になっていたら、さぞかし華やかだったでしょうね。<BR>第2部再開、お待ちしてま～す。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>tomo</strong>  <i>2000/07/15 23:31:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=963671495ofbllo&id2=937913962pjeas&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_963671495ofbllo_id2_937913962pjeas_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������납�����ł��B�Ȃ񂩕���a���̌������݂����Ǝv���܂����B�i�u���̐�m�v��F���ł��琂̏�ʂȂǁj
+おもしろかったです。なんか平井和正の幻魔大戦みたいと思いました。（「光の戦士」や宇宙での邂逅の場面など）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2000/07/16 17:35:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2000/07/16 17:35:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=963736524ibcynd&id2=937913962pjeas&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_963736524ibcynd_id2_937913962pjeas_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�����v�ł����B���l�^�́A�ʂɂ���̂ł����A<BR>�ǂ����ŁA���ӎ��Ɏ�荞��ł���\�����A<BR>���\����܂��B<BR>�ŁA���l�^�́A�Ƃ����ƁA�l�^�΂炵�́A<BR>�܂����܂���B<BR>
+「幻魔」ですか。元ネタは、別にあるのですが、<BR>どこかで、無意識に取り込んでいる可能性も、<BR>結構あります。<BR>で、元ネタは、というと、ネタばらしは、<BR>まだしません。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="937913962pjeas">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

@@ -1,161 +1,161 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=989334681qmxubij&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_989334681qmxubij_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�閧�̃J�J�I�A�C�����h</font><br>
+<font size="+2" color="#0000FF">秘密のカカオアイランド</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200105/09000707/kakao.htm" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/05/09 00:11:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200105/09000707/kakao.htm" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/05/09 00:11:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989334681qmxubij&id2=989334681qmxubij&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989334681qmxubij_id2_989334681qmxubij_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���ɂɋv���Ԃ�̓o��I�I�@���[��B�B�B������ɍs�������Ȃ��Ă����i�{�C�ŁI�I�j
+【推薦文】文庫に久しぶりの登場！！　うーん。。。癒されに行きたくなってきた（本気で！！）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/05/09 00:39:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/05/09 00:39:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989336376wbleai&id2=989334681qmxubij&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989336376wbleai_id2_989334681qmxubij_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>�Ȃ��Ȃ��s�v�c�Ȃ��b�ŁA�悩���������B<BR>�J�J�I�̐��ł����B�Ȃ񂾂������������i���j<BR><BR>�����A���́w�閧�̃J�J�I�A�C�����h�x�h�d�T�D�T�̂ݏc�����ɂȂ�܂��B <BR>�Ȃ����ł���[�H�i�΁j
+読みました。<BR>なかなか不思議なお話で、よかったっす。<BR>カカオの精ですか。なんだかおいしそう（爆）<BR><BR>＞尚、この『秘密のカカオアイランド』ＩＥ５．５のみ縦書きになります。 <BR>なじぇでしょー？（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:hiro-sho@geocities.co.jp" target="_blank">�L���@��</a></strong>  <i>2001/05/09 01:07:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:hiro-sho@geocities.co.jp" target="_blank">広尾　翔</a></strong>  <i>2001/05/09 01:07:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989338032sugxfrg&id2=989334681qmxubij&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989338032sugxfrg_id2_989334681qmxubij_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����΂�́A�ŋ߂��Ȃ�w�^���Ă��Ăq�n�l��Ԃł����L���ł��B<BR>���ǂ݂܂����B<BR>�@�����A�{���ɑf�������z�A�ǂ������肪�Ƃ��������܂����I<BR>���Ȃ��Ȃ��s�v�c�Ȃ��b�ŁA�悩���������B<BR>�@�ǂ����ł��I�@�s�v�c�Șb�ŏI��点�Ȃ��łr�e�i�΁j�ɂȂ���<BR>���܂��͖̂l�̃T�K�����i��΁j�B<BR>���J�J�I�̐��ł����B�Ȃ񂾂������������i���j<BR>�@���͉F���l���T���v����������ɗ������ɁA�����������َq�Ƃ���<BR>�H�ׂ��Ă��܂���ł��c�c�i�E�\�E�\�j�B<BR>���Ȃ����ł���[�H�i�΁j <BR>�@�͂��A�h�d�T�D�T�̂݁A�X�^�C���V�[�g�ŏc�������o���邻���Ȃ�ł��B<BR>�@�ŁA<BR><a href="http://www2u.biglobe.ne.jp/~hitsugu/hmfregam/TATE.LZH" target="_blank">http://www2u.biglobe.ne.jp/~hitsugu/hmfregam/TATE.LZH</a><BR>�@�́A�r�|�i�h�r�e�L�X�g�c�����g�s�l�k�ϊ��R�}���h�A���g���܂����B<BR>�@���̌�̓��[�h�p�b�h�Łi�΁j��C�����܂����B<BR>�@TATE.EXE�́A���񂨂��߂��������A�Ƃ̂��Ƃł��B
+　こんばんは、最近かなりヘタっていてＲＯＭ状態でした広尾です。<BR>＞読みました。<BR>　おお、本当に素早い感想、どうもありがとうございました！<BR>＞なかなか不思議なお話で、よかったっす。<BR>　どうもです！　不思議な話で終わらせないでＳＦ（笑）になって<BR>しまうのは僕のサガかも（苦笑）。<BR>＞カカオの精ですか。なんだかおいしそう（爆）<BR>　実は宇宙人がサンプルを回収しに来た時に、おいしいお菓子として<BR>食べられてしまうんです……（ウソウソ）。<BR>＞なじぇでしょー？（笑） <BR>　はい、ＩＥ５．５のみ、スタイルシートで縦書きが出来るそうなんです。<BR>　で、<BR><a href="http://www2u.biglobe.ne.jp/~hitsugu/hmfregam/TATE.LZH" target="_blank">http://www2u.biglobe.ne.jp/~hitsugu/hmfregam/TATE.LZH</a><BR>　の、Ｓ－ＪＩＳテキスト縦書きＨＴＭＬ変換コマンド、を使いました。<BR>　その後はワードパッドで（笑）手修正しました。<BR>　TATE.EXEは、是非おためし下さい、とのことです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/05/09 02:17:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/05/09 02:17:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989342270vxnmp&id2=989334681qmxubij&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989342270vxnmp_id2_989334681qmxubij_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L������A����ϕ��͂���肢�ł��ˁ[�B�I�`�����Ă��܂��̂́A�r�e�҂̐��ł��傤���B�Ƃ���Łu�Ȃ�����̃R�R�i�b�c�v�A����͂���Ŗ���ł���ˁi�΁j�B
+広尾さん、やっぱ文章が上手いですねー。オチをつけてしまうのは、ＳＦ者の性でしょうか。ところで「ないしょのココナッツ」、あれはあれで名作ですよね（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>2001/05/09 12:35:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>2001/05/09 12:35:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989379350mltxvxg&id2=989334681qmxubij&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989379350mltxvxg_id2_989334681qmxubij_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����<BR>�@�ɂ�[�A�Ȃ��Ȃ��������܂ɂ͎󂩂�Ȃ��̂ŁA�܂��܂��ł��i����΁j�B<BR>����Ə����R���e�X�g�͕��͗͂ɉ����ăX�g�[���[�e�����O�Ƃ����d�v�炵�����X�B<BR>���r�e�҂̐��ł��傤���B<BR>�@�����Ȃ�ł���[�A�Ȃ񂩂r�e�I�Ȑ������Ȃ��ƃ��Ȃ�ł��ˁ[�B���ꂪ�Ȋw�I��<BR>�Ó����͂Ƃ������i��΁j�B<BR>���Ƃ���Łu�Ȃ�����̃R�R�i�b�c�v�A����͂���Ŗ���ł���ˁi�΁j�B <BR>�@�͂��A<B>�ʔ����ł��I</B><BR>�@���w���̃R�R�����ƃi�b�c�N����̂����ō�������ւ��Ƃ����R�~�b�N�Ȃ�<BR>�ł����ǁi���f�B�A���T�[�`�̕��ɐ���������܂��l�j�A�R�R�����ɂȂ����i�b�c�N<BR>���A���ɂf�n�n�c�I�Ȃ̂ł���܂��B�T�t�@�C�A�P�I�n���ɘA�Ȃ��Ă���Ƃ�[���B<BR>�@�ŋ߁A�w�q���C���N�x�\�\���������I�\�\�Ɋ������Ȃ̂ŁA�����悤�Ȋ�����<BR>���l�����݂Łi�΁j�w�Ȃ�����̃R�R�i�b�c�x����������Ȃ����ȁ[�A�Ǝv������B<BR>�@<BR>���w�閧�̃J�J�I�A�C�����h�x�́A�u�R�R�i�b�c�v�t�@���̂����͂��߂��`�`�ȁA<BR>�����e�ł����i�؂��؂��j���ǁA�l�I�ɂ����N��������ւ�胂�m�̍\�z�����́i��΁j<BR>������̂ŁA������܂��B<BR>
+文章<BR>　にゅー、なかなっか小説賞には受からないので、まだまだです（超苦笑）。<BR>それと小説コンテストは文章力に加えてストーリーテリングとかが重要らしいっス。<BR>＞ＳＦ者の性でしょうか。<BR>　そうなんですよー、なんかＳＦ的な説明がないとヤなんですねー。それが科学的に<BR>妥当かはともかく（苦笑）。<BR>＞ところで「ないしょのココナッツ」、あれはあれで名作ですよね（笑）。 <BR>　はい、<B>面白いです！</B><BR>　小学生のココちゃんとナッツ君が薬のせいで魂が入れ替わるというコミックなの<BR>ですけど（メディアリサーチの方に説明がありますネ）、ココちゃんになったナッツ君<BR>が、非常にＧＯＯＤ！なのであります。サファイア姫的系譜に連なっているとゆーか。<BR>　最近、『ヒロイン君』――こりも傑作！――に感動中なので、同じような感じで<BR>同人誌込みで（笑）『ないしょのココナッツ』も復刊されないかなー、と思ったり。<BR>　<BR>＃『秘密のカカオアイランド』は、「ココナッツ」ファンのかたはごめんよ～～な、<BR>＃内容でした（ぺこぺこ）けど、僕的にも少年少女入れ替わりモノの構想だけは（苦笑）<BR>＃あるので、いずれまた。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g�h�x�t�j�h</strong>  <i>2001/05/09 22:18:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＨＩＹＵＫＩ</strong>  <i>2001/05/09 22:18:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989414318qeaeci&id2=989334681qmxubij&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989414318qeaeci_id2_989334681qmxubij_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�������납�����ł��B<BR>�@����Ȃ��Ƃ����ɏ����ėǂ��̂��ǂ���������܂��񂪁A�����Ȋ��z�������܂��B<BR>�@���́A�����̘b�������ėǂ��v���̂ł����A�s�r�������Ă������Ă��ʔ����b���́A�s�r�𖳗��Ɏ听���ɂ��Ȃ������ʔ����Ǝv�����Ƃ�����܂��B<BR>�@�ŁA���̍�i�́A�ʂɎ�l�������j�ł��낤�����ł��낤���b���͑�����������Ǝv���܂����A�s�r�̕�������悢�����ł���Ă܂��̂ŁA�����ǂ������ł��B<BR>�@�T����Ƃ���͍T���āA��������Ƃ���͉������Ă�̂ŁA�N���o�b�N�Ƀv���f���[�T�[�ł�����̂��ȂƊ�����܂����B<BR>�@�ǂ��Ӗ��Ŗ��ʂȕ��͂������A�b���̓W�J�̃e���|���ǂ��̂ŁA���ꂩ����撣���ĉ������B
+　おもしろかったです。<BR>　こんなことここに書いて良いのかどうか分かりませんが、率直な感想を書きます。<BR>　私は、ここの話しを見て良く思うのですが、ＴＳが無くてもあっても面白い話しは、ＴＳを無理に主成分にしない方が面白いと思うことがあります。<BR>　で、この作品は、別に主人公が元男であろうが女であろうが話しは多分成立すると思いますし、ＴＳの部分を程よい加減でいれてますので、凄く良かったです。<BR>　控えるところは控えて、押さえるところは押さえてるので、誰かバックにプロデューサーでもいるのかなと勘ぐりました。<BR>　良い意味で無駄な文章が無く、話しの展開のテンポも良いので、これからも頑張って下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>2001/05/10 01:11:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>2001/05/10 01:11:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989424712kmledp&id2=989334681qmxubij&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989424712kmledp_id2_989334681qmxubij_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������납�����ł��B<BR>�@���肪�Ƃ��������܂����I<BR>���s�r�̕�������悢�����ł���Ă܂��̂ŁA�����ǂ������ł��B<BR>�@���[�ƁA�O�񂪁u���N�����v���ɂȂ�Łi�΁j�B�ł��̐S�ȕ��������Ȃ��������ȁ[�Ƃ�����Ɗ뜜���Ă����̂ŁA���̂悤�Ȋ��z���������āA�Ƃ��Ă����肪�����ł��I<BR>���T����Ƃ���͍T���āA��������Ƃ���͉������Ă�̂ŁA<BR>�@�܁A����͂��́u�G���c�{�v�Ɋւ��ẮA�F����̂��̂��Q�l�ɂ����Ă��������ă}�X�i�΁j�B<BR>���N���o�b�N�Ƀv���f���[�T�[<BR>�@����̓i�C�ł��B���[��A�ł��������ɒN���Ɖ񂵓ǂ݂��Ċ��z�������������肷��ƁA���u�G���x�v�t�o�����肷�邩���A�ł��ˁi�΁j�B<BR>���ǂ��Ӗ��Ŗ��ʂȕ��͂������A�b���̓W�J�̃e���|���ǂ��̂ŁA<BR>�@�ǂ����ł��I<BR>�����ꂩ����撣���ĉ������B <BR>�@�ǂ����ł��I�O�Q�@�Ȃ��Ȃ���i�΁j�Z�҂��������Ԃ��Ƃ�Ȃ��̂ł����A�܂��������������ȂƎv���Ă܂��̂ł�낵���ł��I
+＞おもしろかったです。<BR>　ありがとうございますっ！<BR>＞ＴＳの部分を程よい加減でいれてますので、凄く良かったです。<BR>　えーと、前提が「少年少女」文庫なんで（笑）。でも肝心な部分が少なかったかなーとちょっと危惧していたので、このような感想いただけて、とってもありがたいです！<BR>＞控えるところは控えて、押さえるところは押さえてるので、<BR>　ま、それはその「萌えツボ」に関しては、皆さんのものを参考にさせていただいてマス（笑）。<BR>＞誰かバックにプロデューサー<BR>　それはナイです。うーん、でもたしかに誰かと回し読みして感想を言い合ったりすると、より「萌え度」ＵＰしたりするかも、ですね（笑）。<BR>＞良い意味で無駄な文章が無く、話しの展開のテンポも良いので、<BR>　どうもです！<BR>＞これからも頑張って下さい。 <BR>　どうもです！＾２　なかなか趣味（笑）短編を書く時間がとれないのですが、また何か書こうかなと思ってますのでよろしくです！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/05/10 08:17:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989450234gefab&id2=989334681qmxubij&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989450234gefab_id2_989334681qmxubij_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������ł��B<BR>���������썑�����̖��t���́A���N�������ɂł͏��߂Ăł͂Ȃ������ł��傤���H�ǂ�ł�Ԓ��A�����Ɠ썑���i�����ɕ�����ł��āA���E�ώ��̂��y���߂܂����B<BR><BR>�����A�o��l���ɐ[�݂������A�����؂�Ȋ��������܂����B<BR>�i�R����񂽂��ɂ����ƖG������TOM�Ƃ��Ă͕s���ł��I�i�΁j<BR>���ڂ��C�̂���G���L�����i��������Ă�ȁ`�A���j���A�����������l�������@�艺���ď����Ƃ��A���݊����鐶�������Ƃ����`�ʂ�����΁A�����Ɩ��͓I�ɂȂ������ȁH�Ƃ��v���܂����B<BR><BR>�ł��A���ꂪ���҂̂��߂Ƀl�^������Ă����A�ƍl���Ă̏�������������A�劽�}�ł��B���������킯�ŁA���Б��҂���]���܂��I<BR>�����撣���Ă��������I
+面白かったです。<BR>こういう南国風味の味付けは、少年少女文庫では初めてではなかったでしょうか？読んでる間中、ずっと南国風景が頭に浮かんでいて、世界観自体が楽しめました。<BR><BR>ただ、登場人物に深みが無く、薄っぺらな感じがしました。<BR>ナコちゃんたちにもっと萌えたいTOMとしては不満です！（笑）<BR>茶目っ気のある萌えキャラ（趣味が入ってるな～、俺）等、もうすこし人物像を掘り下げて書くとか、存在感ある生き生きとした描写があれば、もっと魅力的になったかな？とも思いました。<BR><BR>でも、これが続編のためにネタを取っておく、と考えての書き方だったら、大歓迎です。そういうわけで、ぜひ続編を希望します！<BR>次も頑張ってください！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">���c����</a></strong>  <i>2001/05/10 18:37:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">原田聖也</a></strong>  <i>2001/05/10 18:37:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989487448cbbmc&id2=989334681qmxubij&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989487448cbbmc_id2_989334681qmxubij_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�썑���m�A���ɂ͍ō��̃V�`���G�[�V�����ł��B<BR>���̂����ɂ��̓ǂ݉����̂�����e�I<BR>����������̕`�ʂ����ɂ̓c�{�ɂ͂܂�܂���ł�����B<BR>�����������Ɠǂ߂Ċy���߂�Z�҂��A�ƂĂ������ł���ˁB
+南国モノ、私には最高のシチュエーションです。<BR>そのうえにこの読み応えのある内容！<BR>こちら向けの描写も私にはツボにはまりまくりでしたよ。<BR>さくさくっと読めて楽しめる短編も、とてもいいですよね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>2001/05/11 00:20:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>2001/05/11 00:20:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989508005smthxwm&id2=989334681qmxubij&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989508005smthxwm_id2_989334681qmxubij_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@TOM����G<BR>�@���z�ǂ������肪�Ƃ��������܂����ł��B<BR>���ǂ�ł�Ԓ��A�����Ɠ썑���i�����ɕ�����ł��āA���E�ώ��̂��y���߂܂����B<BR>�@�ǂ����ł��I�@���₟�A���s�K�C�h�{�Ƃ��p���t���b�g��ǂ�Ō��������i�΁j�b�オ����܂��B<BR>���i�R����񂽂��ɂ����ƖG������TOM�Ƃ��Ă͕s���ł��I�i�΁j<BR>�@���[�ƁA�i�R�͂��Ƃ��Ɛ����w�I��female�Ƃ����ݒ�ł����A����ȊO�̕��X�͈ꉞ�����G���I�V�`���G�[�V���������Ȏ��������z���Ă�n�Y�Ȃ̂Łc�c�i�΁j<BR>�������A�o��l���ɐ[�݂������A�����؂��<BR>�@�����c�c�l�̕s���̒v���Ƃ���ł��B���̓v���b�g���ɂ̓i�R���n�߂Ƃ��閺�O�i�΁j�͓썑�̐X�̉�����菵������݂����ȃC���[�W�������̂ŁA�������݂�����Ȃ����������A�ł��ˁB<BR>�����������킯�ŁA���Б��҂���]���܂��I<BR>�@���҂������Ɛ錾���Ă��܂��ƁA����܂ł̂��Ƃ�����̂Łi�����j�B�ł��ʂȐݒ�ŉ����܂�������������܂���̂ŋC���ɑ҂��Ă���������΁A���肪����ł��B<BR><BR>�@���c���炳��G<BR>�@�ǂ������z���肪�Ƃ��ł����B<BR>���썑���m�A���ɂ͍ō��̃V�`���G�[�V�����ł��B<BR>�@�l�̏ꍇ�A�Ȃ񂩔�J�����܂�Ɓu���[�A�ǂ����Aꡂ���֍s�������[�v�Ƃ��v���̂��A���Ƃ��Ƃ̔��z�̌��_�����ł��i�΁j�B<BR>���ǂ݉���<BR>�@�ǂ����ł����I<BR>������������̕`��<BR>�@�ǂ����ǂ����ł����I�@����������Ɓu����������v�Ƃ͂ǂ������������ǂ��̂��������˂΂Ȃ�ʁ[�Ǝv���Ă͂���̂ł����ǁi�΁j�B<BR>�������������Ɠǂ߂Ċy���߂�Z�҂��A�ƂĂ������ł���ˁB  <BR>�@�t�H���[���肪�Ƃ��ł����I<BR><BR>�@�Ȃ��Ȃ��K���K�����������łȂ��Ă����܂���ł����A�܂��܂Ƃ܂��Ď��Ԃ��Ƃ�鎞�ɁA�����Z�҂��������Ǝv���Ă��܂��B���̂Ƃ��͂܂��I
+　TOMさん；<BR>　感想どうもありがとうございましたです。<BR>＞読んでる間中、ずっと南国風景が頭に浮かんでいて、世界観自体が楽しめました。<BR>　どうもです！　いやぁ、旅行ガイド本とかパンフレットを読んで研究した（笑）甲斐があります。<BR>＞ナコちゃんたちにもっと萌えたいTOMとしては不満です！（笑）<BR>　えーと、ナコはもともと生物学的にfemaleという設定ですが、それ以外の方々は一応もう萌え的シチュエーション葛藤な時期を乗り越えてるハズなので……（笑）<BR>＞ただ、登場人物に深みが無く、薄っぺらな<BR>　うっ……僕の不徳の致すところです。実はプロット時にはナコを始めとする娘衆（笑）は南国の森の奥から手招く精霊みたいなイメージだったので、書き込みが足りなかったかも、ですね。<BR>＞そういうわけで、ぜひ続編を希望します！<BR>　続編を書くと宣言してしまうと、これまでのことがあるので（超汗）。でも別な設定で何かまた書くかもしれませんので気長に待っていただければ、ありがたやです。<BR><BR>　原田聖也さん；<BR>　どうも感想ありがとうですっ。<BR>＞南国モノ、私には最高のシチュエーションです。<BR>　僕の場合、なんか疲労が溜まると「あー、どっか、遙か南へ行きたいー」とか思うのが、もともとの発想の原点かもです（笑）。<BR>＞読み応え<BR>　どうもですっ！<BR>＞こちら向けの描写<BR>　どうもどうもですっ！　もうちょっと「こちら向け」とはどういう感じが良いのか研究せねばならぬーと思ってはいるのですけど（笑）。<BR>＞さくさくっと読めて楽しめる短編も、とてもいいですよね。  <BR>　フォローありがとうですっ！<BR><BR>　なかなかガンガン書く感じでなくてすいませんですが、またまとまって時間がとれる時に、何か短編を書こうと思っています。そのときはまた！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/05/15 23:00:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/05/15 23:00:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989935227thyad&id2=989334681qmxubij&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989935227thyad_id2_989334681qmxubij_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>�����ȁ[��̓��B�C�󂪈��肵�ĂāA����̎��Ԋ��o���������ɂȂ��ĂāA���̐l�͘N�炩�Łc�c�Ȃ�āA�v�킸�y����z�����Ă��܂��܂����A���ۂ͂����ł��Ȃ���ł���ˁB<BR>�z���ōs�����C���ɂЂ�����Ă̂���Ԉ��S�ł��ˁB���̂��b�͂���ȋC���ɂ����Ă���܂����B
+読みました。<BR>いいなー南の島。気候が安定してて、周りの時間感覚もゆっくりになってて、島の人は朗らかで……なんて、思わず楽園を想像してしまいますが、実際はそうでもないんですよね。<BR>想像で行った気分にひたるってのが一番安全ですね。このお話はそんな気分にさせてくれました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>2001/05/16 01:43:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>2001/05/16 01:43:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989945013jdfeuco&id2=989334681qmxubij&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989945013jdfeuco_id2_989334681qmxubij_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ǂ݂܂����B<BR>�@�ǂ������肪�Ƃ��ł����I<BR>�����ۂ͂����ł��Ȃ���ł���ˁB<BR>�@���A����͊m���Ɂi�΁j�B�W�c�͍L�����A���������Ȃ���B<BR>���z���ōs�����C���ɂЂ�����Ă̂���Ԉ��S�ł��ˁB<BR>�@�������Ɂi�΁j�B�����w�J�J�I�̓��x�ł́A�ِ��̖؂ɂ���ēŃ}���V��n�u��z���q�����Ȃ񂩂��݂�ȐA��������Ă���Ƃ����ݒ���X�B<BR>�@����ɁA�����Ɠ�����o���Ȃ��Ƃ����̂́A�W�c�̓z���[�Ȃ����ウ�[����񂩂��A�ł��l�i�΁j�B<BR>�����̂��b�͂���ȋC���ɂ����Ă���܂����B<BR>�@�ǂ����ł����I�@������A�l���R���������Ă��āu�J���u�C�̃��]�[�g�Ƃ��s�������[�v�C���t�o�ł����i��΁j�\�\�����A���ԂƃJ�l�i����ǁ[��I�j��������΁B<BR>
+＞読みました。<BR>　どうもありがとうですっ！<BR>＞実際はそうでもないんですよね。<BR>　う、それは確かに（笑）。ジツは広尾も、暑さがかなり苦手。<BR>＞想像で行った気分にひたるってのが一番安全ですね。<BR>　たしかに（笑）。そう『カカオの島』では、異星の木によって毒マムシやハブや吸血ヒルや蚊なんかもみんな植物化されているという設定っス。<BR>　それに、ずっと島から出られないというのは、ジツはホラーなしちゅえーしょんかも、ですネ（笑）。<BR>＞このお話はそんな気分にさせてくれました。<BR>　どうもですっ！　そいや、僕もコレを書いていて「カリブ海のリゾートとか行きたいー」気分ＵＰでした（苦笑）――ああ、時間とカネ（ちゅどーん！）さえあれば。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="989334681qmxubij">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

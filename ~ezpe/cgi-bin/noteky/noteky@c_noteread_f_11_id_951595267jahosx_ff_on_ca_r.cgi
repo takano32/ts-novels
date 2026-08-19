@@ -1,23 +1,23 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=951595267jahosx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_951595267jahosx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">����܂Ȃ��̎q��One��Man??Show!!</font><br>
+<font size="+2" color="#0000FF">いんまなあの子がOne☆Man??Show!!</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/perky_girl/perky_girl_ex2.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/02/27 05:01:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/perky_girl/perky_girl_ex2.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/02/27 05:01:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=951595267jahosx&id2=951595267jahosx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_951595267jahosx_id2_951595267jahosx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING!
@@ -27,105 +27,105 @@ NOW PRINTING!
 <tr>
 <td  bgcolor="#00FFCC"><strong>webmaster</strong>  <i>2000/02/27 05:28:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=951596898tudrr&id2=951595267jahosx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_951596898tudrr_id2_951595267jahosx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ������Ɩڂ𗣂������ɍ����N������������A�ӊO�ƃm���m���ł���Ȃ��Ƃ₻��Ȃ��Ƃ����A�Ƃ�����҂ł��ˁB�݂����񂮂���̊G�������܂��āA���邢���F�C�����\�ł��܂���܂��B�ł���΁AFLASH�łŌ��邱�Ƃ��I�X�X�����܂��B�G���N���b�N���ăA�j���[�V�������n�܂����Ƃ��A�����Ɗ������o����͂��ł��B
+【推薦文】 ちょっと目を離した隙に克美クンったらもう、意外とノリノリであんなことやそんなことをぅ、という一編ですね。みっしんぐさんの絵もあいまって、明るいお色気が堪能できまくります。できれば、FLASH版で見ることをオススメします。絵をクリックしてアニメーションが始まったとき、きっと感動を覚えるはずです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">���[����</a></strong>  <i>2000/02/27 15:38:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">ちーさん</a></strong>  <i>2000/02/27 15:38:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=951633513tabcgd&id2=951595267jahosx&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_951633513tabcgd_id2_951595267jahosx_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�ō��I�܂��ǂ�Ŗ������ǁy���΁I�I�z<BR>�ǂ܂Ȃ��Ă���΍ō��I
+もう、最高！まだ読んで無いけど【爆笑！！】<BR>読まなくても絶対最高！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�uK�v</a></strong>  <i>2000/02/27 23:10:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">「K」</a></strong>  <i>2000/02/27 23:10:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=951660627wqriqfe&id2=951595267jahosx&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_951660627wqriqfe_id2_951595267jahosx_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����[�A�}�G(�}����?)���~�S�g�̈ꌾ�ɐs���܂��B<BR>�z���g�������񌩂����Ē����܂����B
+いやー、挿絵(挿動画?)おミゴトの一言に尽きます。<BR>ホントいいもん見させて頂きました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">��_��</a></strong>  <i>2000/03/01 01:17:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">矢治浩平</a></strong>  <i>2000/03/01 01:17:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=951841070mkfhnai&id2=951595267jahosx&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_951841070mkfhnai_id2_951595267jahosx_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������[�A�}�G(�}����?)���~�S�g�̈ꌾ�ɐs���܂��B<BR><BR>���ꂪ�����Ƃ������ꂩ���B<BR>�����Ƃ����������񂩁B
+＞いやー、挿絵(挿動画?)おミゴトの一言に尽きます。<BR><BR>これがいうとったあれかあ。<BR>見事としかいえんやんか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">���Ȃ���</a></strong>  <i>2000/03/02 04:07:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">すなさん</a></strong>  <i>2000/03/02 04:07:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=951937657insvg&id2=951595267jahosx&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_951937657insvg_id2_951595267jahosx_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�e�k�`�r�g�o�[�W������Normal�o�[�W�����̗���������ׂāE�E�E<BR>�b���t���������B<BR>Normal�̕��̑}���G�����Ă����������B�����Ɓu�΂���v�Ǝv���܂��B<BR>FLASH�o�[�W�����̕���Off-Line�Ō���ƁA�ʂ̈Ӗ��Ō��\�y���߂܂��B<BR>������́A����ς�On-Line�Ō�����������̂ł����B<BR><BR>�������A����͊��ݕt����Ȃ��������B�i�����O�܂ł́E�E�E�j<BR>�ǂ���獎���������͊w�K�@�\������炵���B<BR>���̂����A�A���̂��Ƃł�����<BR>�u�����ՂŃ��C�h����v����肻���ȋC�z���E�E�E
+ＦＬＡＳＨバージョンとNormalバージョンの両方を見比べて・・・<BR>甲乙付けがたし。<BR>Normalの方の挿し絵も見てくだあさい。きっと「笑える」と思います。<BR>FLASHバージョンの方はOff-Lineで見ると、別の意味で結構楽しめます。<BR>こちらは、やっぱりOn-Lineで見る方がいいのですが。<BR><BR>そうか、今回は噛み付かれなかったか。（一歩手前までは・・・）<BR>どうやら克美も多少は学習機能があるらしい。<BR>そのうち、連中のことですから<BR>「文化祭でメイドさん」をやりそうな気配が・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�Ē�</a></strong>  <i>2000/03/22 03:52:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">米津</a></strong>  <i>2000/03/22 03:52:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=953664759xorfu&id2=951595267jahosx&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_953664759xorfu_id2_951595267jahosx_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��A��ϒx���Ȃ�܂������A���z���肪�Ƃ��������܂����B<BR><BR>���āc�c�A�������I�@���[�r�[�̊��z�΂����肾�`�I(��)<BR>�����Ƃ��ĒÂ�����ɂ͌��G���������̂ŁA���ɔ[���ł��錋�ʂł��ȁB<BR><BR>&gt;FLASH�o�[�W�����̕���Off-Line�Ō���ƁA�ʂ̈Ӗ��Ō��\�y���߂܂��B<BR>����҂͂�����񐶂̃t�@�C���������Ă��ŁA�����N���邩�m���Ă܂��c�c�B<BR>�������悤�ȁA�������Ȃ��悤�ȁc�c�B<BR>���Ȃ݂ɁAFLASH Player�̊g��(���[�r�[��ŉE�N���b�N����)�ŁA<BR>�����킹���[�ȏ΂݂��A�b�v�ɂ��Ă݂�̂��|�C���g�����ł��B<BR><BR>&gt;�u�����ՂŃ��C�h����v����肻���ȋC�z���E�E�E<BR>���͑��b�̃G���f�B���O�́A"�������t�̊w���ՂŊ��U�R���T�[�g"<BR>�Ƃ����v���b�g�ŏ������Ƃ�����ł����c�c�A�{�c���Ă��܂��܂����ł��B
+ども、大変遅くなりましたが、感想ありがとうございました。<BR><BR>って……、ああっ！　ムービーの感想ばっかりだ～！(爆)<BR>もっとも米津もあれには激萌えだったので、非常に納得できる結果ですな。<BR><BR>&gt;FLASHバージョンの方はOff-Lineで見ると、別の意味で結構楽しめます。<BR>原作者はもちろん生のファイルを持ってるんで、何が起こるか知ってます……。<BR>嬉しいような、嬉しくないような……。<BR>ちなみに、FLASH Playerの拡大(ムービー上で右クリックから)で、<BR>しあわせそーな笑みをアップにしてみるのもポイント高いです。<BR><BR>&gt;「文化祭でメイドさん」をやりそうな気配が・・・<BR>実は第一話のエンディングは、"克美が春の学園祭で勧誘コンサート"<BR>というプロットで書こうとしたんですが……、ボツってしまいましたです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www5a.biglobe.ne.jp/~amraam" target="_blank">�`�`�l</a></strong>  <i>2000/07/14 15:43:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www5a.biglobe.ne.jp/~amraam" target="_blank">ＡＡＭ</a></strong>  <i>2000/07/14 15:43:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=963557013fybrj&id2=951595267jahosx&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_963557013fybrj_id2_951595267jahosx_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[�ށc�c���~�߂̌|�p�ł���(��)<BR>���̒��q�ŃK���K���˂�����������Ă��������B<BR><BR>�˘f���G���A�p���炢�G���A�Ȃ肫��G���A�Ɨ�����c�c<BR>���͍�����G���ł��傤���H(��)<BR>
+うーむ……寸止めの芸術ですね(笑)<BR>この調子でガンガン突っ走っちゃってください。<BR><BR>戸惑い萌え、恥じらい萌え、なりきり萌え、と来たら……<BR>次は惚れられ萌えでしょうか？(爆)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2000/07/16 01:48:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2000/07/16 01:48:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=963679732ohnlub&id2=951595267jahosx&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_963679732ohnlub_id2_951595267jahosx_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���J���玞�Ԃ��o���Ă�����炦�銴�z���ĂȂ񂩊������ł��ˁB<BR>&gt; ���~�߂̌|�p�ł���(��)<BR>�ĒÂ͂���܂ȂŁu�G�b�`�����ǃ����ł͂Ȃ��v�\����ڎw���Ă��ŁA<BR>����͊������قߌ��t�ł��B���肪�Ƃ��������܂��B<BR><BR>&gt;���͍�����G���ł��傤���H(��)<BR>������G���́A�u�~�v�ɂė\�肵�Ă܂��B<BR>�Ƃ͌����Ă��A�j�ɒǂ������􂳂�邢���ɂ��ȃR���f�B����Ȃ��āA���������s���A�Șb�����B<BR>���Ȃ݂Ɏ���u�āv�́A���N����O�ʂɏo�����u�{�[�C�b�V���G���v�̔��ł����c�c�A������ؒ��B�ނ��B
+公開から時間が経ってからもらえる感想ってなんか嬉しいですね。<BR>&gt; 寸止めの芸術ですね(笑)<BR>米津はいんまなで「エッチだけどモロではない」表現を目指してるんで、<BR>これは嬉しいほめ言葉です。ありがとうございます。<BR><BR>&gt;次は惚れられ萌えでしょうか？(爆)<BR>惚れられ萌えは、「冬」にて予定してます。<BR>とは言っても、男に追っかけ廻されるいかにもなコメディじゃなくて、けっこうピュアな話っす。<BR>ちなみに次回「夏」は、少年性を前面に出した「ボーイッシュ萌え」の筈ですが……、未だ停滞中。むぅ。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="951595267jahosx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

@@ -1,45 +1,45 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>成年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=4&id=945812290ugdevcf&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_4_id_945812290ugdevcf_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�s�`�j�d�@�h�s�@�d�`�r�x</font><br>
+<font size="+2" color="#0000FF">ＴＡＫＥ　ＩＴ　ＥＡＳＹ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/12/22 06:38:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/12/22 06:38:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=945812290ugdevcf&id2=945812290ugdevcf&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_945812290ugdevcf_id2_945812290ugdevcf_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�`�j�d�@�h�s�@�d�`�r�x�i�s�t�q�a�n�@�k�n�u�d�q�@�Q�����^�j<BR>���j�}�K�W���Ё@���j�}�K�W���R�~�b�N�X�@�@���������@��<BR>���߂́A���[�V�����̂����ŕϐg�����Ƒz�킹�Ă�����<BR>���͑S�R�֌W�Ȃ��A�Ō�܂ŁA�s�r�̗��R���͂����肵�Ȃ�������<BR>�l�I�ɂ͎ς��؂�Ȃ��񂾂��ǁA<BR>�܂��ǂݐ؂肾���ɁA�ϐg���R�ɂ́A����قǍS��K�v���Ȃ��B<BR>�ϐg��A�{�[�C�b�V���Ȃ񂾂��ǁA�����ŉ������̃R��<BR>�Ȃ��Ă��邠���肪�A�|�C���g�������B<BR>���k����ɂȂ��Ă����F�l���A����������������A<BR>�����ɍS������A�ƁA�d�v�ȓ_���������Ă���Ă��邨�A�ŁA<BR>�Ō�܂ŁA�_���邱�ƂȂ����ς��Ă���Ċ������B<BR>���߉����Ƃ΂���́A<BR>�u�������Ȃ����Ă���������Ȃ��Ȃ����@�v<BR>�u�����j�̑O�ŗ��ɂȂ��ĉ����N���Ȃ���Ȃ����Ă���<BR>���j�Ȃ�킩�邾��v<BR>�̃Z���t�B<BR>�����āA�u�₾�B�|����B�v�u�͔����đ��v������v<BR>�u���O������B�������v<BR>�Ƒ����A�Ō�̍Ō��<BR>�u�ǂ������̂��ȃ{�N�B���̐l�Ƃ�������荡�̕����[�����Ă�v<BR>�ŁA���������I�i�{�N�Ƃ����̂��܂��ǂ��B�j<BR>�Ō�A�����������Ⴄ�̂��A�܂��G����B<BR>���ƝX�˂Ėc���V�[�����B<BR><BR>
+ＴＡＫＥ　ＩＴ　ＥＡＳＹ（ＴＵＲＢＯ　ＬＯＶＥＲ　２巻収録）<BR>ワニマガジン社　ワニマガジンコミックス　　中島初美　作<BR>初めは、ローションのせいで変身したと想わせておいて<BR>実は全然関係なく、最後まで、ＴＳの理由がはっきりしないあたり<BR>個人的には煮え切らないんだけど、<BR>まあ読み切りだけに、変身理由には、それほど拘る必要もない。<BR>変身後、ボーイッシュなんだけど、巨乳で可愛い女のコに<BR>なっているあたりが、ポイントが高い。<BR>相談相手になっていた友人も、裸を見たがったり、<BR>下着に拘ったり、と、重要な点をおさえてくれているお陰で、<BR>最後まで、ダレることなくつっぱしてくれて嬉しい。<BR>だめ押しとばかりの、<BR>「何もしないっていったじゃないないかァ」<BR>「女が男の前で裸になって何も起きない訳ないってこと<BR>元男ならわかるだろ」<BR>のセリフ。<BR>そして、「やだ。怖いよ。」「力抜いて大丈夫だから」<BR>「お前可愛いよ。すごく」<BR>と続き、最後の最後で<BR>「どうしたのかなボク。女の人とした時より今の方が充実してる」<BR>で、もう爆発！（ボクというのがまた良い。）<BR>最後、生理がきちゃうのも、また萌える。<BR>あと拗ねて膨れるシーンも。<BR><BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="4">
 <input type="hidden" name="id" value="945812290ugdevcf">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

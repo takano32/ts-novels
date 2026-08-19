@@ -1,81 +1,81 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=937401541nwgnxj&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_937401541nwgnxj_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�V�A���Z�̂Â�</font><br>
+<font size="+2" color="#0000FF">シアワセのつづき</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/happiness_is/subsequence/subsequence.html" target="_blank">���d�F�ꐬ</a></strong>  <i>1999/09/15 22:19:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/happiness_is/subsequence/subsequence.html" target="_blank">八重洲一成</a></strong>  <i>1999/09/15 22:19:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937401541nwgnxj&id2=937401541nwgnxj&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937401541nwgnxj_id2_937401541nwgnxj_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z �킽���B�̍�����w���՗p�f�擰�X�㉉�B<BR>�y�R�����g�z �u�V�A���Z�̂�����v�ɂÂ��ԊO�ґ�Q�e�ł��B
+【あらすじ】 わたし達の作った学園祭用映画堂々上演。<BR>【コメント】 「シアワセのかけら」につづく番外編第２弾です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>1999/09/17 03:13:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>1999/09/17 03:13:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937505631pkjxlq&id2=937401541nwgnxj&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937505631pkjxlq_id2_937401541nwgnxj_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����I�@���̃^�C�g���͂�(��)<BR><BR>����Ƀ}�X�^�[�̐��̂������܌����Ă����Ƃ������A<BR>�����̐^�l�ԂԂ肪�R�̂悤�ł���(��)<BR><BR>���ǂ�łāAARIEL�̔ԊO�҂�A�z���܂����B<BR>�����ꂪ���l�^�Ȃ̂��ȁc�c�H
+ああ！　あのタイトルはっ(爆)<BR><BR>次第にマスターの正体がかいま見えてきたというか、<BR>初期の真人間ぶりが嘘のようですね(笑)<BR><BR>＃読んでて、ARIELの番外編を連想しました。<BR>＃あれが元ネタなのかな……？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�uK�v</strong>  <i>1999/09/17 06:41:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>「K」</strong>  <i>1999/09/17 06:41:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937518096tnquyei&id2=937401541nwgnxj&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937518096tnquyei_id2_937401541nwgnxj_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ē×l�B<BR>�^�C�g���͕Ē×l���������݂ŏ����ꂽ�̂��g�킹�Ă��������܂����B<BR>�G���h���[���̒��ł͎����C�j�V�������Ԉ���Ă��܂��܂��āA�X�~�}�Z���B<BR>��낵��������A�G���h���[���́u�^�C�g���v�̏��Ɍ䖼�O���؂肵�����̂ł���<BR>�������ł��傤��?<BR>(�^�C�g���E�}�L�v���I�ŃJ�b�R�C�C�ȁA�Ǝv���܂���)
+米津様。<BR>タイトルは米津様が書きこみで書かれたのを使わせていただきました。<BR>エンドロールの中では私がイニシャルを間違ってしまいまして、スミマセン。<BR>よろしかったら、エンドロールの「タイトル」の所に御名前お借りしたいのですが<BR>いかがでしょうか?<BR>(タイトル・マキプロ的でカッコイイな、と思いまして)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>1999/09/18 12:48:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>1999/09/18 12:48:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937626529mobsi&id2=937401541nwgnxj&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937626529mobsi_id2_937401541nwgnxj_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; ���O���؂肵����<BR>�ǂ����ǂ����g���Ă��������ȁB<BR><BR>�ĒÁAYone'z�A�ǂ����ł��������[�ł���B<BR>�������ł�Yone'z�͑S���g���ĂȂ��ł����A<BR>���Ă���̂��������g���Ă���Ă��������B
+&gt; 名前お借りしたい<BR>どうぞどうぞ使ってくださいな。<BR><BR>米津、Yone'z、どっちでもおっけーですよ。<BR>こっちではYone'zは全く使ってないですが、<BR>見てくれのいい方を使ってやってください。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="937401541nwgnxj">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

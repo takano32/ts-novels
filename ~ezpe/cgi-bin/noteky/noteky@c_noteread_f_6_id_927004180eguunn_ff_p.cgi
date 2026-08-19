@@ -1,106 +1,106 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�A�j��/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>アニメ/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=6&id=927004180eguunn&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_6_id_927004180eguunn_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�~�g�Q�ɂ���</font><br>
+<font size="+2" color="#0000FF">ミト２について</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>1999/05/18 14:09:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>1999/05/18 14:09:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=927004180eguunn&id2=927004180eguunn&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_927004180eguunn_id2_927004180eguunn_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�܂ł��B�������̂g�o�Ń~�g�Q�̉\�i�����܂ł��I�j<BR>������Ă��܂��B���N��Ƃ��V������Ƃ��F�X����Ă��܂��B<BR>�����m�l�̃A�j���֌W�҂ɂ͓��R�̂��Ƃ����͂�������`���<BR>�Ă��܂����H�̃A�j���̊�揑�Ȃ�Ă̂����R���ɗ���Ă��܂��B<BR>�~�g�Q���V�����炠��Ȃ炽�Ԃ񗈌������̎G���ɍڂ�ł��傤��<BR>�����Ȃ�����܂�����オ��܂��傤^^;<BR>�@�\�Ȃ�R�قǏ��������񂾂��ǂȂ��A�i�f�}�����荞���^^;)<BR>  �������ĉ��l���炢�ǂ�ł�̂��Ȃ�^^;
+　まつです。いくつかのＨＰでミト２の噂（あくまでも！）<BR>が流れています。半年先とか７月からとか色々流れています。<BR>ただ知人のアニメ関係者には当然のごとく情報はきっちり伝わっ<BR>ていますし秋のアニメの企画書なんてのも当然既に流れています。<BR>ミト２が７月からあるならたぶん来月発売の雑誌に載るでしょうし<BR>そうなったらまた盛り上がりましょう^^;<BR>　噂なら山ほど書きたいんだけどなぁ、（デマも盛り込んで^^;)<BR>  ここって何人くらい読んでるのかなぁ^^;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/18 23:42:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=927038533ukchat&id2=927004180eguunn&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_927038533ukchat_id2_927004180eguunn_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �������̂g�o�Ń~�g�Q�̉\�i�����܂ł��I�j<BR>&gt; ������Ă��܂��B<BR><BR>�����~�g�Q�̉\�͕����Ă܂��B<BR>������ƑO�ł����A����m�l����A�d�b�ŋ����Ă��炢�܂��āB(^^)<BR><BR>&gt; �����Ȃ�����܂�����オ��܂��傤^^;<BR>�����B������������オ��܂��傤�B<BR>���������Ə��̎q�̂܂ܓo�ꂷ��Ƃ����ł��ˁB<BR><BR>&gt; �������ĉ��l���炢�ǂ�ł�̂��Ȃ�^^; <BR><BR>���̔����ւ̔�����ł�����x�����邩������܂���ˁB
+&gt; いくつかのＨＰでミト２の噂（あくまでも！）<BR>&gt; が流れています。<BR><BR>私もミト２の噂は聞いてます。<BR>ちょっと前ですが、さる知人から、電話で教えてもらいまして。(^^)<BR><BR>&gt; そうなったらまた盛り上がりましょう^^;<BR>ええ。そりゃもう盛り上がりましょう。<BR>葵がちゃんと女の子のまま登場するといいですね。<BR><BR>&gt; ここって何人くらい読んでるのかなぁ^^; <BR><BR>この発言への反応具合である程度分かるかもしれませんね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>MASATO</strong>  <i>1999/05/19 00:27:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=927041225fkbpch&id2=927004180eguunn&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_927041225fkbpch_id2_927004180eguunn_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������ł��ˁB<BR>�����͂���m�l���烁�[���ŕ����܂����i^^;<BR>�����ł��r�f�I�𔃂������Ă܂ő҂��Ă���Ƃ��B<BR><BR>�Ƃ���ł��̎��_�Ŕ������g�R�̕��Ƃ��Ԃ鎖�͂Ȃ�<BR>�ł���ˁH�i�����������N�[�����̂��m���̂Łj
+そりゃ奇遇ですね。<BR>自分はさる知人からメールで聞きました（^^;<BR>＃何でもビデオを買い換えてまで待っているとか。<BR><BR>ところでその時点で美少女Ｈ３の方とかぶる事はない<BR>ですよね？（こっちが何クールやるのか知らんので）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Merucurius</strong>  <i>1999/05/19 13:35:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=927088545wfjjvrh&id2=927004180eguunn&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_927088545wfjjvrh_id2_927004180eguunn_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�n���ē�Â̂s�u�ŃX���C���[�Y�����X�g���j�o�[�X�X�^�b�t�̃T�C�g�i�L��ؒ��j������܂��āA<BR>�����̎l�E�𓝂ׂ�`���ɂāu���͉Ă���~�g�E�E�E(,_'���_ �x�L�o�L�v�ƌ����}�X�^�[�̔������E�E�E�B<BR>���Ȃ݂Ƀ~�g�̃R�[�i�[�ɂ͏����̃��t���ꖇ����܂��ł��B
+渡部監督主催のＴＶ版スレイヤーズ＆ロストユニバーススタッフのサイト（猫南蛮亭）がありまして、<BR>そこの四界を統べる伝言板にて「実は夏からミト・・・(,_'☆＼ ベキバキ」と言うマスターの発言が・・・。<BR>ちなみにミトのコーナーには女葵のラフが一枚ありますです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g��</strong>  <i>1999/05/20 00:30:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>トモ</strong>  <i>1999/05/20 00:30:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=927127842okaetqh&id2=927004180eguunn&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_927127842okaetqh_id2_927004180eguunn_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƃ肠�����A�u�������ǂ�ł܂��v�Ƃ䂤��������ɁB(^^;) <BR><BR>�~�g�Q�ł����A����͊y���݁B<BR>�����ǁA����Ă����Ȃ�n��l�b�g�𑝂₵�Ă���Ȃ����ȁH�@���̂Ƃ���͂s�u�����n��͂b�r����łȂ��Ɗς��Ȃ�����B(;_;)<BR><BR><BR><BR>
+とりあえず、「ここも読んでます」とゆう反応代わりに。(^^;) <BR><BR>ミト２ですか、それは楽しみ。<BR>だけど、やってくれるなら系列ネットを増やしてくれないかな？　私のところはＴＶ東京系列はＣＳからでないと観られないから。(;_;)<BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>1999/05/20 09:59:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>1999/05/20 09:59:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=927161979heirxf&id2=927004180eguunn&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_927161979heirxf_id2_927004180eguunn_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂ł��B�܂��ݒ莑�����܂���Ă��܂���i��j<BR>
+まつです。まだ設定資料がまわってきません（謎）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>1999/06/11 12:05:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>1999/06/11 12:05:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=929070325neoasn&id2=927004180eguunn&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_929070325neoasn_id2_927004180eguunn_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂ł��B�ŋ߂܂��A�j���G���Ȃ񂼂𔃂��Ă��܂��Ă��܂��B<BR>�q�������܂��悤�ȎG���Ȃ̂�...<BR>�A�j���[�W���V�����Ƀ~�g�Q�̘b���ڂ��Ă��܂��A���Z�̃u���U<BR>�[�𒅂��������g���k��ŁH�O�b�h�I�ł��B<BR>�ł����͕ێu����Ȃ�ł���^^;
+まつです。最近またアニメ雑誌なんぞを買ってしまっています。<BR>子供をだますような雑誌なのに...<BR>アニメージュ７月号にミト２の話が載っています、高校のブレザ<BR>ーを着た葵が等身も縮んで？グッド！です。<BR>でも声は保志さんなんですよ^^;
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="6">
 <input type="hidden" name="id" value="927004180eguunn">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

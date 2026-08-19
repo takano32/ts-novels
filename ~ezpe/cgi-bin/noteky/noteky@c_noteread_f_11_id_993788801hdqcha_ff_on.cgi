@@ -1,142 +1,142 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=993788801hdqcha&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_993788801hdqcha_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���̒��ɐ�����</font><br>
+<font size="+2" color="#0000FF">夢の中に生きて</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/29130930/sand_roses01.html" target="_blank">��i��ǂނɂ͂������N���b�N�I</a></strong>  <i>2001/06/29 13:26:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/29130930/sand_roses01.html" target="_blank">作品を読むにはここをクリック！</a></strong>  <i>2001/06/29 13:26:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993788801hdqcha&id2=993788801hdqcha&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993788801hdqcha_id2_993788801hdqcha_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z �w�l�x�͖��ӎ����ȊO�̐l�ɂȂ閲������̂��ʗႾ�����B<BR>�����Ă���ӁA���������ɂȂ���g��h�肽���鈫���𖈔ӌ���悤�ɂȂ����B<BR>���̖��̖\�����~�߂邽�߂̖l�̓w�́B�����Ă��̌��ʂ́A�A�A<BR>�y�R�����g�z ���߂ď������ϐg���̂̍�i�ł��B<BR>���ۂ̖����ꕔ�q���g�ɂ��ď����Ă݂܂����B<BR>�y�W�������z ���z �s�� �V���[�g�V���[�g <BR>�y��ʁz ���_���� �������A�z �_�� �l�i�]��<BR>�y�L�[���[�h�z �� ����<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>�y���E���z �u���v�����_�ɂ��Ē�_���肵�Ă���悤�ȗ�O���Ƃ��A�����Ɏʂ�����g�̕`�ʂ��A�c�{�������������A�����������o���Ă��܂��B<BR>���ꂩ�為�ЁA�����̍�i�������Ă������������ł��I
+【あらすじ】 『僕』は毎晩自分以外の人になる夢を見るのが通例だった。<BR>そしてある晩、自分が女になり口紅を塗りたくる悪夢を毎晩見るようになった。<BR>その夢の暴走を止めるための僕の努力。そしてその結果は、、、<BR>【コメント】 初めて書いた変身ものの作品です。<BR>実際の夢を一部ヒントにして書いてみました。<BR>【ジャンル】 幻想 不条理 ショートショート <BR>【種別】 精神同居 仮性半陰陽 神秘 人格転移<BR>【キーワード】 鏡 女装<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>【推薦文】 「鏡」を視点にして定点測定しているような冷徹さとか、そこに写る顔や口紅の描写が、ツボを押さえたリアルさを醸し出しています。<BR>これからぜひ、多くの作品を書いていただきたいです！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/06/29 21:19:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/06/29 21:19:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993817193snyyur&id2=993788801hdqcha&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993817193snyyur_id2_993788801hdqcha_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂�������i�A��Ƃ��񂪂łĂ��܂����ˁB<BR>���̂̊m�����ȂǁA���̗l�q�A���A�����Ȃǂ��΂炵���̈ꌾ�ł��B<BR>�O����ꂽ�P�_�����Ă鎄���A���E���ɏ�����Ă���悤�ɋ��߂�ꂽ��Ƃ���ɊԈႢ����܂���B���ꂩ�瑽��ȍ�i�����҂����Ă��܂��B
+これはすごい作品、作家さんがでてきましたね。<BR>文体の確かさなど、夢の様子、リアルさなどすばらしいの一言です。<BR>飽きられた姫神書いてる私より、推薦文に書かれているように求められた作家さんに間違いありません。これから多大な作品をお待ちしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/29 22:03:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/29 22:03:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993819798yttpj&id2=993788801hdqcha&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993819798yttpj_id2_993788801hdqcha_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂������B���Ɍ��������ł��������ʊ��o�ɏP��ꂽ�B<BR>���΂炵����i�ł��B���ЂƂ��r�`�m�c�@�q�n�r�d�r����̑��̍�i���ǂ�ł݂����ł��ˁB<BR><BR>�����󂳂�<BR>���O����ꂽ�P�_�����Ă鎄���<BR>���Ă��Ƃ�����������ł����B���^�N�V�͌����ĖO���Ă��܂����A�u�P�_�v�B���炻��Ȃ��Ƃ�����������Ă̓V�F�A���[���h�̑��̍�Ƃ���B�Ɏ���ł���B
+読んだバイ♪<BR>これはすごい。特に結末部分でえもいわれぬ感覚に襲われた。<BR>すばらしい作品です。ぜひともＳＡＮＤ　ＲＯＳＥＳさんの他の作品も読んでみたいですね。<BR><BR>＞亜希さん<BR>＞飽きられた姫神書いてる私より<BR>何てことをおっしゃるんですか。ワタクシは決して飽きていませんよ、「姫神」。自らそんなことをおっしゃってはシェアワールドの他の作家さん達に失礼ですよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/29 23:00:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/29 23:00:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993823226fefuk&id2=993788801hdqcha&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993823226fefuk_id2_993788801hdqcha_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�I���Č������A���I�F���ƌ������A�[�w��]�̒B�������u�Ԃł��ˁB���`��T�C�R���`���h�B<BR>�i�S�����Ȃ����B�����Ă�{�l�قƂ�ǈӖ����킩�炸�Ɍ����Ă܂��B�j
+幻想的って言うか、内的宇宙と言うか、深層願望の達成した瞬間ですね。う～んサイコワ～ルド。<BR>（ゴメンなさい。言ってる本人ほとんど意味がわからずに言ってます。）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/30 01:30:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/30 01:30:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993832247aakpuh&id2=993788801hdqcha&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993832247aakpuh_id2_993788801hdqcha_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̐��̂͂Ȃ�Ȃ̂��Ƃ��A���̂��Ǝ�l�����ǂ��Ȃ����Ƃ��l����̂����ɂȂ��Ă��܂��悤�ȁA<BR>�s�v�c�Ȑ��E�Ɉ������荞�܂�Ă��܂������ȍ�i�ł����B<BR>���̂���������Ă��Ė��͓I�ł�����B<BR>���ꂩ��̐V������҂��܂��I
+夢の正体はなんなのかとか、このあと主人公がどうなったとか考えるのが野暮になってしまうような、<BR>不思議な世界に引きずり込まれてしまいそうな作品でした。<BR>文体も洗練されていて魅力的でしたよ。<BR>これからの新作を期待します！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>SAND ROSES</strong>  <i>2001/06/30 09:56:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993862561tcjkqv&id2=993788801hdqcha&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993862561tcjkqv_id2_993788801hdqcha_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āA�F�l�B���z�𒸂����k�ł��A���肪�Ƃ��������܂��B<BR>�ϐg���͎̂����ɂ͏����Ȃ��Ǝv���Ă����̂ŁA���z�𒸂���<BR>�ƂĂ��������ł��B���ꂩ����ǂ�����낵���B
+はじめまして、皆様。感想を頂き恐縮です、ありがとうございます。<BR>変身ものは自分には書けないと思っていたので、感想を頂けて<BR>とても嬉しいです。これからもどうぞよろしく。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�肶�`</strong>  <i>2001/07/03 23:20:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りじ～</strong>  <i>2001/07/03 23:20:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994170001fnvwi&id2=993788801hdqcha&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994170001fnvwi_id2_993788801hdqcha_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���傢�Ɠǂނ̂��x�ꂽ���ǁA���z�B<BR>���̒��̌��z�I�ȕ��͋C���ƂĂ��ǂ������ł��B<BR>��l���̐S���̕`�ʂ��Ɠ��ŁA�ʔ����ǂ߂܂����B<BR>�������A�Z�҂��Ă̂����������ˁB�i�Z�ҍD���j<BR>
+ちょいと読むのが遅れたけど、感想。<BR>夢の中の幻想的な雰囲気がとても良かったです。<BR>主人公の心理の描写も独特で、面白く読めました。<BR>しかも、短編ってのがいいっすね。（短編好き）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>SAND ROSES</strong>  <i>2001/07/06 16:32:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994404737ripung&id2=993788801hdqcha&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994404737ripung_id2_993788801hdqcha_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����z�������������肪�Ƃ��������܂����B<BR>��i�W�������ÂS���ǂ�ł݂����Ǝv���܂����A�Ȃ��Ȃ�<BR>�ʂ��A�ǂ݂�����������ǂݐi�߂܂���B<BR>����́A�������������b���ɒ��킵�����Ǝv���܂��B
+ご感想をいただきありがとうございました。<BR>作品集を少しづつ全部読んでみたいと思いますが、なかなか<BR>量も、読みごたえもあり読み進めません。<BR>次回は、もう少し長い話しに挑戦したいと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/07/20 20:55:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/07/20 20:55:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995630146yoqdfd&id2=993788801hdqcha&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995630146yoqdfd_id2_993788801hdqcha_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Ȃ񂾂낤�B���̍�i�B�������`����Ă���悤�Ȋ����Ȃ񂾂���ǁA���܂����t�ɏo���Ȃ��B<BR>�@���[��A���A���c�c�A���ȁH�@�{���ɂ��肻���Șb�Ȃ񂾁B���̘b�̗��Ԃ��Ƃ��āA���̂������̐l���A�w�{���̎��͒j���Ȃ�ł��x�ƌ����āA����Șb���������|����������Ȃ��B���C����������B<BR>�@�ǂ�ł���Œ��A�Z���b�Ȃ���A�h�L�h�L���ǂ�ł��܂����B<BR>�@���x�͒����b�ɒ��킷��Ƃ������Ƃł����A�������͑厖�ɂ��Ă��������B
+　なんだろう。この作品。何かが伝わってくるような感じなんだけれど、うまく言葉に出来ない。<BR>　うーん、リアル……、かな？　本当にありそうな話なんだ。この話の裏返しとして、肉体が女性の人が、『本来の私は男性なんです』と言って、こんな話を語ったら怖いかもしれない。狂気が感じられる。<BR>　読んでいる最中、短い話ながら、ドキドキしつつ読んでいました。<BR>　今度は長い話に挑戦するということですが、持ち味は大事にしてください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://Sandroses.tripod.co.jp/ZZ/Z1.html" target="_blank">SAND ROSES </a></strong>  <i>2001/07/23 22:57:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995896639rdnxudl&id2=993788801hdqcha&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995896639rdnxudl_id2_993788801hdqcha_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��B���񂩂�̑n��̍ۂ�<BR>���ӌ��͎Q�l�ɂ����Ă��������܂��B<BR>���ꂩ����ǂ�����낵�����肢���܂��B
+感想ありがとうございます。次回からの創作の際に<BR>ご意見は参考にさせていただきます。<BR>これからもどうそよろしくお願いします。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="993788801hdqcha">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

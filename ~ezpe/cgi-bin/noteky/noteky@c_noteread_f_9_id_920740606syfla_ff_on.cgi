@@ -1,72 +1,72 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�G�k�{�[�h/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>雑談ボード/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=9&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_9_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=9&id=920740606syfla&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=9&ff=on">�G�k�{�[�h</a>]<br>
+[<a href="noteky@c_noteread_f_9_id_920740606syfla_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_9_ff_on.cgi">雑談ボード</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�ǂ��󂵂܂����H</font><br>
+<font size="+2" color="#0000FF">どう訳しますか？</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���N�`</strong>  <i>1999/03/07 02:16:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>少年Ａ</strong>  <i>1999/03/07 02:16:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=920740606syfla&id2=920740606syfla&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_920740606syfla_id2_920740606syfla_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; Jack stared in shocking fascination at the beautiful figure in the mirror and a lady starred back, pink lips slightly agape.<BR><BR>�Ƃ�����������܂��B"starred back"�̕������Ăǂ��󂹂΂�����ł��傤�H<BR>"star"���ē����Ō����΁A�u�����t����v�Ƃ��u����ɂ�����v���Ċ�����<BR>�Ӗ��ɂȂ�܂����A�ǁ[���ʂ̈Ӗ�������悤�ȋC�����܂��B<BR><BR>���Ȃ݂ɖ�����󂵂Ă݂����ʁA<BR>�u�W���b�N�͋��̒��̔������p�Ɛ�������΂߂������̌��p�A�������ɊJ�����s���N�̐O�̖��͂ɏՌ����󂯂��B�v<BR>�E�E�E�E�s���R�� (^^; �B<BR><BR>�����͂� Kristen O���� Auto-Closet�̈�߂ł�
+&gt; Jack stared in shocking fascination at the beautiful figure in the mirror and a lady starred back, pink lips slightly agape.<BR><BR>という文があります。"starred back"の部分ってどう訳せばいいんでしょう？<BR>"star"って動詞で言えば、「星印を付ける」とか「主役にさせる」って感じの<BR>意味になりますが、どーも別の意味があるような気がします。<BR><BR>ちなみに無理矢理訳してみた結果、<BR>「ジャックは鏡の中の美しい姿と星をちりばめた少女の後ろ姿、かすかに開いたピンクの唇の魅力に衝撃を受けた。」<BR>・・・・不自然だ (^^; 。<BR><BR>＃文章は Kristen O氏の Auto-Closetの一節です
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F�ꐬ</strong>  <i>1999/03/07 08:23:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲一成</strong>  <i>1999/03/07 08:23:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=920762600smtgbrl&id2=920740606syfla&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_920762600smtgbrl_id2_920740606syfla_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; a lady starred back,<BR><BR>�v����ɁA���̒�����������u���ߕԂ��Ă����v�Ƃ����V�[���ł��B<BR>stare �̉ߋ��`�͖{��stared�Ȃ킯�ł����A���ꂪ�^�C�v�~�X��A�X�y���`�F�b�N���̃~�X�Ō�A���ꂽ���̂ł��傤�B���͍쐬�x���^�̃��[�v�����g���ĕ��͂������Ă�l�̍�i�Ȃ񂩂��ƁA�p�ɂɂ��̎�̏����ȊԈႢ���܂܂�Ă�̂ŁA���̂ւ�̓t�@�W�[�ɓǂ݉����Ă�����K�v������悤�ł��B
+&gt; a lady starred back,<BR><BR>要するに、鏡の中から美女が「見つめ返してきた」というシーンです。<BR>stare の過去形は本来staredなわけですが、これがタイプミスや、スペルチェック時のミスで誤植されたものでしょう。文章作成支援型のワープロを使って文章を書いてる人の作品なんかだと、頻繁にこの手の小さな間違いが含まれてるので、そのへんはファジーに読み解いてあげる必要があるようです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���N�`</strong>  <i>1999/03/07 18:47:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>少年Ａ</strong>  <i>1999/03/07 18:47:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=920800059okbjq&id2=920740606syfla&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_920800059okbjq_id2_920740606syfla_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�v����ɁA���̒�����������u���ߕԂ��Ă����v�Ƃ����V�[���ł��B<BR><BR>���肪�Ƃ��������܂��B<BR>�@stare��start�̊ԈႢ���ȂƂ����C�͂��Ȃ��ł��Ȃ�������ł����ǁA�p��̃`�F�b�N���炢�͂��Ă���<BR>���낤�Ǝv���Ă����̂ŁA����͉��炩�̉B��̗ނł͂Ȃ����ƍl���Ă��܂��܂����B<BR>�����Ƀ��[�v���̃X�y���`�F�b�N�������Ă݂܂������A���̃C�f�B�I���͈���������Ȃ��E�E�E�B<BR>�p��̕��@�`�F�b�N���Č��\�A�o�E�g�Ȃ��̂�������ł��� (^^; �B
+&gt;要するに、鏡の中から美女が「見つめ返してきた」というシーンです。<BR><BR>ありがとうございます。<BR>　stareやstartの間違いかなという気はしないでもなかったんですけど、英語のチェックぐらいはしている<BR>だろうと思っていたので、これは何らかの隠語の類ではないかと考えてしまいました。<BR>試しにワープロのスペルチェックを試してみましたが、このイディオムは引っかからない・・・。<BR>英語の文法チェックって結構アバウトなものだったんですね (^^; 。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="9">
 <input type="hidden" name="id" value="920740606syfla">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=9&ff=on">�G�k�{�[�h</a>]<br>
+[<a href="noteky@c_noteidx_f_9_ff_on.cgi">雑談ボード</a>]<br>
 
 </p>
 </body>

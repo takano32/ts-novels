@@ -1,51 +1,51 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>成年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=4&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_4_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=4&id=913207257tgmhpr&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=4&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_4_id_913207257tgmhpr_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_4_ff_on.cgi">成年コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�v���C�x�[�g�E�s�[�`</font><br>
+<font size="+2" color="#0000FF">プライベート・ピーチ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�o�t�e�e�h�m</strong>  <i>1998/12/09 21:40:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＰＵＦＦＩＮ</strong>  <i>1998/12/09 21:40:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=913207257tgmhpr&id2=913207257tgmhpr&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_913207257tgmhpr_id2_913207257tgmhpr_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���{�@���̍�i�̂Ȃ��Łu�������E���C���E�E�E�I�H�v�������āB<BR>�i�{�̃^�C�g���薼�̂Ƃ���A�t�����X���@�A�R�~�b�N�X���Ɂj<BR>�Q�l�̏��̎q������ɓ����Ă��܂������A���̂����̈�l���u�q��<BR>�̓��v�ɓ���ɍs���܂��āA�o�Ă����炠�����ɃI�`���`�����ɂ�<BR>�����Ɛ����Ă��āA������l�̏��̂��Ƃ���Ă��܂����Ƃ����b�B<BR>���Ƃ����ݒ�ł������ǁA�Ō�ɋC�ɂȂ�G���łĂ��܂��B<BR>�V���{�������j�[�N�ł����E�E�E�E�E<BR>
+蘭宮　涼の作品のなかで「いい旅・夢気分・・・！？」があって。<BR>（本のタイトル題名のとおり、フランス書院、コミックス文庫）<BR>２人の女の子が温泉に入っていましたが、そのうちの一人が「子宝<BR>の湯」に入りに行きまして、出てきたらあそこにオチンチンがにょ<BR>きっと生えてきて、もう一人の女のことやってしまったという話。<BR>夢という設定でしたけど、最後に気になる絵がでています。<BR>シンボルがユニークでした・・・・・<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="4">
 <input type="hidden" name="id" value="913207257tgmhpr">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=4&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_4_ff_on.cgi">成年コミック</a>]<br>
 
 </p>
 </body>

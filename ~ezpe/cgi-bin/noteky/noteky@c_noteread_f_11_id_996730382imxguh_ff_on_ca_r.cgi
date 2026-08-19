@@ -1,141 +1,141 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=996730382imxguh&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_996730382imxguh_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���f�B�E�u�����K�[</font><br>
+<font size="+2" color="#0000FF">レディ・ブリンガー</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2001/08/02 14:33:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2001/08/02 14:33:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996730382imxguh&id2=996730382imxguh&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996730382imxguh_id2_996730382imxguh_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200108/02205840/ladybringer08.html" target="_blank">��i��ǂނɂ͂������N���b�N�B</a></strong>  <i>2001/08/02 21:06:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200108/02205840/ladybringer08.html" target="_blank">作品を読むにはここをクリック。</a></strong>  <i>2001/08/02 21:06:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996753998hxetq&id2=996730382imxguh&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996753998hxetq_id2_996730382imxguh_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�m��l���m�閂���w���f�B�E�u�����K�[�x�̕���A���ɏ��o��ł��B<BR> �w���̓��ƌĂ΂�āx�ł��Ȃ��݁A�閲���񂨓��ӂِ̈��E��杂����y���݂��������B
+【推薦文】　知る人ぞ知る魔剣『レディ・ブリンガー』の物語、文庫初登場です。<BR> 『虹の瞳と呼ばれて』でおなじみ、夜夢さんお得意の異世界奇譚をお楽しみください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/08/02 21:46:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/08/02 21:46:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996756386ckxcri&id2=996730382imxguh&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996756386ckxcri_id2_996730382imxguh_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�m���ɋ~���悤�̂Ȃ������ŁE�E�E�B<BR>����͂����ƁA�P�`�V�b���ǂ݂����Ȃ����B���i���񂿂ł����̂��ȁH
+読んだバイ♪<BR>確かに救いようのない結末で・・・。<BR>それはそうと、１～７話が読みたくなった。庄司さんちでいいのかな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���J�H�v</strong>  <i>2001/08/02 22:01:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>水谷秋夫</strong>  <i>2001/08/02 22:01:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996757302svantkb&id2=996730382imxguh&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996757302svantkb_id2_996730382imxguh_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�閲����A���v���Ԃ�ł��B<BR>���r�݁X�̌����ł��ˁB�f�����ڂɕ����Ԃ悤�ł��B<BR><BR>�ƁA�����킯�ŏ��i���񂿂ւf�������I�i�񂵎ҁj
+夜夢さん、お久しぶりです。<BR>死屍累々の結末ですね。映像が目に浮かぶようです。<BR><BR>と、いうわけで庄司さんちへＧｏだっ！（回し者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/08/03 07:01:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/08/03 07:01:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996789683efxdqa&id2=996730382imxguh&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996789683efxdqa_id2_996730382imxguh_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ꂱ���{���̃t�@���^�W�B�ł���<BR>���܂ł̓ǂ݂ɂ��������Ȃ�܂���<BR>�X�g�[���u�����K�[�Ɗ֌W����̂���<BR>������ɂ���y������i�ł�<BR>
+これこそ本当のファンタジィですね<BR>今までの読みにいきたくなりました<BR>ストームブリンガーと関係あるのかな<BR>いずれにしろ楽しい逸品です<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/03 18:16:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/03 18:16:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996830160llolw&id2=996730382imxguh&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996830160llolw_id2_996730382imxguh_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����A�ݒ茩�ɍs���Ȃ��ł��B�@�H�@�g�o��������Ȃ��ł��ˁB<BR>�Ƃ肠�����ݒ�������Ɋ��z���B<BR>���̂���䂪�����ł��ˁB�ʂ����Đ�m�́A���������Ɛ����𗧂ĂĂ���̂ŏ����������̂��H�@�Ƃ������ɐH���Ȃ����߂ɂs�r����̂��Ƃ��B<BR>�ł��Ȃɂ��t�F�~�j�X�g�Ȍ��ł��ˁB<BR>
+あれ、設定見に行けないです。　？　ＨＰが見つからないですね。<BR>とりあえず設定を見ずに感想を。<BR>味のある謎がいいですね。果たして戦士は、女性を守ると誓いを立てているので助太刀したのか？　とか魔剣に食われないためにＴＳするのかとか。<BR>でもなにかフェミニストな剣ですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ӂ����</strong>  <i>2001/08/04 01:08:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ふらっと</strong>  <i>2001/08/04 01:08:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996854932yqjhyb&id2=996730382imxguh&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996854932yqjhyb_id2_996730382imxguh_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������ł��B<BR>�ݒ茩�Ă��܂����B<BR>�\�[�h���[���h�ł����B����Ȍ����o���āA�Z�b�V��������肽���Ȃ��B<BR>�ł��A�t���Ă��Ă����F�l�A���邩��(��)<BR>�u���[�����C�g�h���[���v�ƕ��p������ǂ��Ȃ��ł��傤�H
+面白かったです。<BR>設定見てきました。<BR>ソードワールドですか。こんな剣を出して、セッションを作りたいなぁ。<BR>でも、付いてきてくれる友人、いるかな(笑)<BR>「ムーンライトドローン」と併用したらどうなるんでしょう？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2001/08/04 20:47:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2001/08/04 20:47:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996925664vbuetc&id2=996730382imxguh&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996925664vbuetc_id2_996730382imxguh_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������������<BR>&gt; ����A�ݒ茩�ɍs���Ȃ��ł��B�@�H�@�g�o��������Ȃ��ł���<BR>�����ƁB<BR>�A�h���X���C�����܂����B�ǂ��������p�������B
+あおきあきおさん<BR>&gt; あれ、設定見に行けないです。　？　ＨＰが見つからないですね<BR>おっと。<BR>アドレスを修正しました。どうぞご利用下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/04 21:59:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/04 21:59:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996929980fqhfkow&id2=996730382imxguh&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996929980fqhfkow_id2_996730382imxguh_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɍs���܂����B�v���Ԃ�ɂk�a��ǂݕԂ��܂����B������_�[�N�ł��ˁB�k�a�A���肪���肾���Ɏv��ʌ��ʂ𐶂񂾂悤�ł��B�ʔ����A�C�f�A�Ȃ̂ł��B
+見に行きました。久しぶりにＬＢを読み返しました。今回もダークですね。ＬＢ、相手が相手だけに思わぬ結果を生んだようです。面白いアイデアなのです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:cmnt0369@try-net.or.jp" target="_blank">�閲</a></strong>  <i>2001/08/05 14:40:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:cmnt0369@try-net.or.jp" target="_blank">夜夢</a></strong>  <i>2001/08/05 14:40:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996990000wycsiu&id2=996730382imxguh&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996990000wycsiu_id2_996730382imxguh_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǁ`���ALB���Ď҂̖閲�ł��B<BR><BR>�F�X�l�ɂ́A�䊴�z���肪�Ƃ��������܂��B<BR>�v���Ԃ�ŏo���̂قǂ͎��M���]��Ȃ�������ł����ǁE�E�E<BR><BR>mk8426�l<BR>�~���悤���Ȃ��ł��傤�ˁE�E�E�S�W�b����Ԗځi���I�ɂ́j�̋~���̂Ȃ����Ǝ������Ă���܂��E�E�E�i�b�e�W�}���f�L�����m�f���i�C�K�E�E�E�j<BR><BR>���J�l<BR>���v���Ԃ�ł��B���z���䋦�͊���!!�i�ƌ�����ŊF�l�A�����ɂɂ������������E�E�E�i�i���e�l�j�j<BR><BR>����l<BR>LB��b�̌㏑���ɏ����܂������A����YES�ł��B<BR>���ꂼ�c�Ƃ́A���h�̋ɂ݂ł��E�E�E<BR><BR>�������l<BR>�����ݒ�͂����ɂȂ�܂������H��肠�����^��̓������E�E�E<BR>�E���̐�m�������������̂́A�ق��Ă����Ă������ɖ߂��Ă���̂��������Ă�����ł��B�i�����̗͂łˁB�j<BR>�E��m�̏������́A����͂����܂Ŋm���_�̖�肾������ł���ˁE�E�E�a�c�n<BR>�E�E�E�ł��A�t�F�j�X�g�Ȍ��E�E�E�ł����H�����Ƃ��Ă͂��������ӎ��͂��قǂ͂Ȃ�������ł����ˁE�E�E<BR><BR>�ӂ���Ɨl<BR>���̃f�[�^�͐ݒ���J����ۂɈ�ڂł��̐��\������o����悤�ɂƏ����Ă݂���ł���B�i�Ƃ͌����A��ł�������Ƃ��q�e�C�f�L�i�C�E�E�E�j�ł��A���[�����C�g�h���[���ł́E�E�E�ǂ��Ȃ�񂾂�H�\�[�T���[�̃V�F�C�v�`�F���W�Ƃ��ł́A���������Ă��j�������������������ǁE�E�E<BR>�E�E�E���Ȃ݂ɂ��̌��A�\�E���`���\���b�h�`��烔�@���`�̓��N���X�̖��������ċC�t���Ă܂����H�i�J���K�G���g�R���C�n�i�V�J���E�E�E�j<BR><BR>�L��l<BR>&gt;���肪����Ȃ����ɁE�E�E<BR>�n�C�A���������̔��b�̃~�\�ł��āE�E�E�i�΁j<BR><BR>���͂��̘b�A�O�b�Ƌ��ʂ��鏊��������ł��B<BR>�@��l�Ԃ̏�����<BR>�@�j������ƂȂ�Ȃ����݁i��j<BR>�@�S�ŃV�i���I�E�E�E<BR>�����āE�E�E<BR>�@���̌�K��邾�낤�Ж�̋K�́E�E�E<BR>�E�E�E���Ƃ��ˁB<BR><BR>���͂Ƃ�����A�F�l�y���܂����̂ɂȂ��Ċ������v���܂��B�i�[��j
+ど～も、LB原案者の夜夢です。<BR><BR>皆々様には、御感想ありがとうございます。<BR>久しぶりで出来のほどは自信も余りなかったんですけど・・・<BR><BR>mk8426様<BR>救いようがないでしょうね・・・全８話中二番目（私的には）の救いのなさだと自負しております・・・（ッテジマンデキルモノデモナイガ・・・）<BR><BR>水谷様<BR>お久しぶりです。感想＆御協力感謝!!（と言う訳で皆様、夢文庫にもお立ち寄りを・・・（ナンテネ））<BR><BR>亜希様<BR>LB一話の後書きに書きましたが、多分YESです。<BR>これぞ…とは、光栄の極みです・・・<BR><BR>あおき様<BR>もう設定はご覧になりましたか？取りあえず疑問の答えを・・・<BR>・あの戦士が助太刀したのは、ほっておいてもそこに戻ってくるのが分かってたからです。（魔剣の力でね。）<BR>・戦士の女性化は、あれはあくまで確率論の問題だったんですよね・・・ヂツハ<BR>・・・でも、フェニストな剣・・・ですか？自分としてはそう言う意識はさほどはなかったんですがね・・・<BR><BR>ふらっと様<BR>あのデータは設定公開する際に一目でその性能を説明出来るようにと書いてみたんですよ。（とは言え、趣味でやったこともヒテイデキナイ・・・）でも、ムーンライトドローンでは・・・どうなるんだろ？ソーサリーのシェイプチェンジとかでは、女性化しても男性扱いだった筈だけど・・・<BR>・・・ちなみにこの剣、ソウル～やらソリッド～やらヴァン～の同クラスの魔剣だって気付いてました？（カンガエルトコワイハナシカモ・・・）<BR><BR>猫野様<BR>&gt;相手が相手なだけに・・・<BR>ハイ、そこがこの八話のミソでして・・・（笑）<BR><BR>実はこの話、三話と共通する所が多いんです。<BR>　非人間の女性化<BR>　男強女弱とならない存在（種）<BR>　全滅シナリオ・・・<BR>そして・・・<BR>　その後訪れるだろう災厄の規模・・・<BR>・・・等とかね。<BR><BR>何はともあれ、皆様楽しまれるものになって嬉しく思います。（深礼）
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="996730382imxguh">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

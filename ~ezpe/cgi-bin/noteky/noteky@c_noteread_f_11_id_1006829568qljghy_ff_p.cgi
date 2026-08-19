@@ -1,515 +1,515 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=1006829568qljghy&&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_1006829568qljghy__ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�������E�҃��o�K�C�K�[�iNo.2�j</font><br>
+<font size="+2" color="#0000FF">美少女勇者リバガイガー（No.2）</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=1004741590imxguh&ff=on" target="_blank">���f���ւ͂������N���b�N</a></strong>  <i>2001/11/27 11:52:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_1004741590imxguh_ff_on.cgi" target="_blank">旧掲示板へはここをクリック</a></strong>  <i>2001/11/27 11:52:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006829568qljghy&id2=1006829568qljghy&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006829568qljghy_id2_1006829568qljghy_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�������E�҃��o�K�C�K�[�v�ւ̊��z�͂�����ւ��肢�������܂��B<BR><BR>�Ɩ��A���F���z�t�H�[������̃����N�ύX�����肢�������܂��B<BR>�i���b�Ă��ǎҁj
+「美少女勇者リバガイガー」への感想はこちらへお願いいたします。<BR><BR>業務連絡：感想フォームからのリンク変更をお願いいたします。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E�������܂����I�뎚���B</strong>  <i>2001/11/29 01:01:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム＠しまった！誤字だ。</strong>  <i>2001/11/29 01:01:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006963318quuswa&id2=1006829568qljghy&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006963318quuswa_id2_1006829568qljghy_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�T�b�ŉ����I���ɓ����𗊂ޏ��́A�w�K�ɑ΂��Ď���`�x���w���ɑ΂��Ď���`�x�ƂȂ��Ă��܂����B<BR>�����ĒN��˂�(�c�b�R�~)�B<BR>�ψ���l�A���萔�ł����C�������肢���܂��B��(_ _)��
+５話で霞が悠美に入部を頼む所の、『幸に対して失礼～』が『透に対して失礼～』となっていました。<BR>透って誰やねん(ツッコミ)。<BR>委員会様、お手数ですが修正をお願いします。ｍ(_ _)ｍ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�^�c�ψ�</strong>  <i>2001/11/29 02:51:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某運営委員</strong>  <i>2001/11/29 02:51:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006969906ubyrp&id2=1006829568qljghy&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006969906ubyrp_id2_1006829568qljghy_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�C���������I�I
+修正完了っ！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200111/03091515/revagaigar06.htm" target="_blank">��U�b������ɂ͂������N���b�N�B</a></strong>  <i>2001/12/02 21:07:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200111/03091515/revagaigar06.htm" target="_blank">第６話を見るにはここをクリック。</a></strong>  <i>2001/12/02 21:07:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007294876daavqjn&id2=1006829568qljghy&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007294876daavqjn_id2_1006829568qljghy_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�E�҃V���[�Y�̂��y���݂̂ЂƂɁA���X�Ɠo�ꂷ�閡���E�҂̑��݂�����܂��B�䓙�����o�K�C�K�[�ɂ��A�S�������ԁi�΁j���c�c�B<BR>�@�Ƃɂ������ɂ���U�b�B�K���v���������̓^���ƍ��킹�Ă��y���݂��������B
+【推薦文】勇者シリーズのお楽しみのひとつに、次々と登場する味方勇者の存在があります。我等がリバガイガーにも、心強き仲間（笑）が……。<BR>　とにもかくにも第６話。ガンプラ部結成の顛末と合わせてお楽しみください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/02 22:37:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/02 22:37:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007300241qnalfh&id2=1006829568qljghy&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007300241qnalfh_id2_1006829568qljghy_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����I�����Ȍ����B<BR>�v���o�[���͈�́E�E�E�H���オ�y���݁B�┯�̏������ˁB<BR>�j�E�K���v���������I�������A���̃A�X�L�[�A�[�g�́i�΁j�B<BR><BR>����͂��ɗ�̃A���ł����i���j�B�������A�f���h���r�E������A�A���̌��샀�[�r�[(MPEG)���茳�ɂ����ł����A�ǂ������瑗��܂��傤���B�����E�E�E�S�l�߂������ł���ˁE�E�E�B
+読んだバイ♪<BR>おお！見事な結末。<BR>プラバーンは一体・・・？今後が楽しみ。銀髪の女性もね。<BR>祝・ガンプラ部結成！しかし、あのアスキーアートは（笑）。<BR><BR>次回はついに例のアレですか（爆）。そうだ、デンドロビウムさん、アレの傑作ムービー(MPEG)が手元にあるんですが、良かったら送りましょうか。ただ・・・４Ｍ近くあるんですよね・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n����</strong>  <i>2001/12/02 22:47:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地駆鴉</strong>  <i>2001/12/02 22:47:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007300860qlgjaq&id2=1006829568qljghy&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007300860qlgjaq_id2_1006829568qljghy_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������قƂ�ǃl�^���킩��Ȃ��I�@�ł��A���ς�炸�̃m���Ŗʔ��������ł��B<BR>�����G�ŐԃU�N�c�c�i�΁j�B���ł̂��Ƃ�ȂǂƂ����A�W�����v�ǎ҂Ȃ�ł��ˁB<BR>�Ƃ���Ŗ`���̃��[�v���u�A�̐S�Ȏ��Ɏg���Ȃ��Ƃ́A�ǂ��Ł��h�A�̂悤�ł��ˁi�΁j�B<BR>�Ȃ񂾂����������i�I�H�j���Ԃ������āA���ꂩ��������͂ǂ��Ȃ�̂ł��傤�H<BR>������y���݂ł��B
+ああっもうほとんどネタがわからない！　でも、相変わらずのノリで面白かったです。<BR>文字絵で赤ザク……（笑）。部でのやりとりなどといい、ジ○ンプ読者なんですね。<BR>ところで冒頭のワープ装置、肝心な時に使えないとは、どこで○ドアのようですね（笑）。<BR>なんだか頼もしい（！？）仲間も増えて、これから霞ちゃんはどうなるのでしょう？<BR>次回も楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�����a</strong>  <i>2001/12/03 13:55:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>海月日和</strong>  <i>2001/12/03 13:55:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007355322nwjfgd&id2=1006829568qljghy&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007355322nwjfgd_id2_1006829568qljghy_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A���ς�炸�̓Ƒ����Ղ肪�f�G���Ȃ��c�c�c�i�����u�₩�Ȗځj<BR><BR>�Ƃ䂤���P�Łi�ǂ�ȃ��P���j�ǂ݂܂����`�B<BR>�O����GvsR�̌����I<BR>�ǂ������ɔM�����Ă�c�c�c�ƁA������Ƒ҂ĉ�����B<BR>����Ȃ����̂̒��Ɂw�h�����x�Ɓw�E�҂̏؁x�͒f�R�n�j�i�΁j�Ƃ��āA�w���ғ����̂ՂɂՂɁx���ĂȂ�ł������I�i���т��Ƃ�����ՁB<BR>������A�����P�Ɏ����m��Ȃ������Ȃ̂�������񂪁i�Łj<BR>��ŁA�G���r�Ő�B�c�܂��ł������������݂̂Ȃ���c�i���j�J���g���@�����Ă��A�������Ƀv�����͕����ł����Ȃ��c�i��΁j<BR>�����ăK���v�������Ɍ����I<BR>�c�c�c�����o�[�ɂ��Ȃ�̖�肪����Ǝv���̂͋C�̂����H�i�΁j<BR>�����A���̊G�������ԃU�N���Ƃ����ɉ���Ȃ��������̓_���ł����H�i���j<BR>�����̉�b�c���l�^�A�قڑS�ĉ����I�C�i�΁j<BR><BR>����́c�w���x���A����Ƃ��wE�x���c�H<BR>�܁A����͊y���݂ɂƂ��Ă����܂��傤�i�΁j
+ああ、相変わらずの独走っぷりが素敵だなぁ………（遠く爽やかな目）<BR><BR>とゆうワケで（どんなワケだ）読みました～。<BR>前半のGvsRの決闘！<BR>良い感じに熱血してる………と、ちょっと待て霞さん。<BR>足りないものの中に『ドリル』と『勇者の証』は断然ＯＫ（笑）として、『太股内側のぷにぷに』ってなんですかい！（ずびしとちょっぷ。<BR>＊いや、ただ単に私が知らないだけなのかもしれんが（滅）<BR>んで、雑魚殲滅戦。…またですか魔女っ娘のみなさん…（泣）カント寺院いっても、さすがにプラモは復活できんよなぁ…（苦笑）<BR>そしてガンプラ部ついに結成！<BR>………メンバーにかなりの問題があると思うのは気のせい？（笑）<BR>だが、あの絵文字が赤ザクだとすぐに解らなかった私はダメですか？（爆）<BR>部内の会話…元ネタ、ほぼ全て解るよオイ（笑）<BR><BR>次回は…『魔』か、それとも『E』か…？<BR>ま、それは楽しみにとっておきましょう（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/12/03 17:20:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/12/03 17:20:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007367639jttic&id2=1006829568qljghy&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007367639jttic_id2_1006829568qljghy_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���l�^�́w�K�K�K�x����ҁB<BR>�������̖��Ŏ�l�����J�̃`�F���W���ł����A���l�\�Z�̒��Ă���������܂�ł��Ȃ��܂܃X�g�[���[�Ō�����������i�B�v�킸�w���C�Y�i�[�x�̍ė����ȂƎv���܂����B<BR>���炭���Ԃł͕]��������i�������̂ł��傤���A�ŏ��̃e���V���������������������A����҂Ŏ��̓����n�����Ȃ��Ȃ��Ă��Č���̂��h�������悤�ɋL�����Ă܂��B<BR>�X�g�[���[��p�I�ɂˁ`�B�e���V�����オ����ςȂ������ł��_���ł��傤�B����ς�g�͂Ȃ��ƁB<BR><BR>�ł͍�i�̊��z���c�c�B<BR>�W���X�e�B�X���[�h�̕����������s���Ă܂��ˁB�i�΁j�@��D���ł��B<BR>���č��񂪑�������́w�]�x�ɒʂ���b���������Ɗ�����̂ł����A�Ȃ񂩍��ׂƂ��Ă��Ă����̃e���V���������ŉ����؂��������c�c�B<BR>���܂�ɂ��l�^�𐮗����������ɍL�������i�l�^�ɗ~����߂��j�B�Ƃ������A���낻��l�^�ɂƂǂ܂炸�A�C�f�A�܂ŏ��؂������w����́I�x�Ƃ��Ȃ��b�����P�b���炢�~�����Ȃ����ґ�ɂ��v���܂��B<BR>�����͐V�͂ł��ˁA���҂��Ă܂��B<BR>���Ȃ�΁A���낻��w�z���_�E�V�e�B�[�x�̃X�P�[���v������n����āc�c�A���̌�̓t���X�N���b�`�Ńr���c�c�A�Ƃ������ʃ��C�_�[�ł͂��񑩂́i�e������Ƃ́j�����V�[����������Ƃ���܂��ˁB�i���j<BR><BR>�Ƃ���Ŏ���͗��Չ��ł��o���ł����i�΁j<BR><BR>����������<BR>�f���h���r�E������ăh���L���X����Ȃ������ł����H�@������ł����h���L���X�Ń��[�r�[�Ƃ��B
+元ネタの『ガガガ』原種編。<BR>視聴率の問題で主人公メカのチェンジができず、厳粛予算の中てこ入れをあまりできないままストーリーで見せきった作品。思わず『レイズナー』の再来だなと思いました。<BR>恐らく世間では評価される作品だったのでしょうが、最初のテンションが高すぎたせいか、原種編で私はメリハリがなくなってきて見るのも辛かったように記憶してます。<BR>ストーリー戦術的にね～。テンション上がりっぱなしだけでもダメでしょう。やっぱり波はないと。<BR><BR>では作品の感想を……。<BR>ジャスティスロードの方が王道を行ってますね。（笑）　大好きです。<BR>さて今回が多分物語の『転』に通じる話しだったと感じるのですが、なんか混沌としていていつものテンションだけで押し切った感が……。<BR>あまりにもネタを整理せず八方に広げすぎ（ネタに欲張り過ぎ）。というか、そろそろネタにとどまらずアイデアまで昇華させた『これは！』とうなれる話しが１話ぐらい欲しいなぁと贅沢にも思います。<BR>次ぎは新章ですね、期待してます。<BR>私ならば、そろそろ『ホンダ・シティー』のスケールプラモを渡されて……、その後はフルスクラッチでビル……、という仮面ライダーではお約束の（親父さんとの）○○シーンをちょっといれますね。（爆）<BR><BR>ところで次回は竜虎王でも出るんですか（笑）<BR><BR>＞ｍｋさん<BR>デンドロビウムさんてドリキャスじゃなかったですか？　動くんですかドリキャスでムービーとか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2001/12/03 19:44:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2001/12/03 19:44:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007376241bkmpdp&id2=1006829568qljghy&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007376241bkmpdp_id2_1006829568qljghy_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��U�b�z<BR>����[�D���ł��A���̃V���[�Y�B<BR>���܎����܂����ĂĕM�̂ق����L���L���ł��ˁB�f���炵���ł��B<BR>���b���猩�Ă�ƃf���h�����񂪕����������ō�҂���Ƃ��Ă̕��i��g�ɒ�������悤�ȋC�����܂��B<BR>�Ƃɂ������̃L���̂����e���|�A�b�^�т͐^�����Đg�ɒ���������̂���Ȃ���ŁA���̘H���̂܂܂��񂪂�˂������ĉ����邱�Ƃ���]���܂��B(^^)<BR><BR>�o�D�r�D<BR>���������΃^�C�g���̂Ƃ����u���o�K�M�K�[�v�ɂȂ��Ă܂�����H
+【第６話】<BR>いやー好きです、このシリーズ。<BR>いま脂乗りまくってて筆のほうもキレキレですね。素晴らしいです。<BR>第一話から見てるとデンドロさんが物凄い勢いで作者さんとしての風格を身に着けつつあるような気がします。<BR>とにかくこのキレのいいテンポ、話運びは真似して身に着けられるものじゃないんで、この路線のままがんがん突っ走って下さることを希望します。(^^)<BR><BR>Ｐ．Ｓ．<BR>そういえばタイトルのとこが「リバガギガー」になってましたよ？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�₦��</strong>  <i>2001/12/03 19:46:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>やえす</strong>  <i>2001/12/03 19:46:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007376368deqppe&id2=1006829568qljghy&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007376368deqppe_id2_1006829568qljghy_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���K���v���E�̂��P�l<BR><BR>�Ȃ񂩖��ɖG����Ȃ����̌����񂵁B<BR>�K���v���Ɉ͂܂�čK�������ɒ��Q���Ă�������������Ƒz���B�G�ւ�B
+＞ガンプラ界のお姫様<BR><BR>なんか妙に萌えるなぁこの言い回し。<BR>ガンプラに囲まれて幸せそうに昼寝してる霞たんをちょっと想像。萌へり。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/12/03 21:29:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/12/03 21:29:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007382563quulsv&id2=1006829568qljghy&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007382563quulsv_id2_1006829568qljghy_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������΃^�C�g���̂Ƃ����u���o�K�M�K�[�v�ɂȂ��Ă܂�����H<BR><BR>�@�Ђ��������������������I�I<BR>�@�A���t�@�x�b�g�̂Ƃ���A�u�f�v������߂�����I<BR>�@���U�C���B�c�c�\���󂠂�܂���ł������B
+＞そういえばタイトルのとこが「リバガギガー」になってましたよ？<BR><BR>　ひいいいいいいいいいっ！！<BR>　アルファベットのところ、「Ｇ」が一個多過ぎるっ！<BR>　速攻修正。……申し訳ありませんでしたっ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����I������ґ㗝</strong>  <i>2001/12/04 10:28:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>村瀬悠美＠作者代理</strong>  <i>2001/12/04 10:28:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007429321cfgfvw&id2=1006829568qljghy&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007429321cfgfvw_id2_1006829568qljghy_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F���񂨂͂悤�������܂��B<BR>�K���v�����E�������A���̖��̗I���ł��B<BR>����͍�Ҕ����E�E�E���Ƃ����x�ݒ��̂��߁A���������ă��X�����܂��B���������������B<BR><BR>&gt;mk8426�l<BR>��҂̃��C���n�[�h�A�h���[���L���X�g�͂���قǐ��\���ǂ��Ȃ��̂ŁA�����Ă�������Ƃ��Ă����炭�Đ��͖������Ǝv���܂��B<BR>�̂��̂n�o�̂悤�ȃ��[�r�[�Ȃ猩�����Ƃ�����Ƃ����Ă܂�����B�킦��炪��n�ҁ`�A�Ƃ��Ȃ�Ƃ��B<BR><BR>&gt;�n����l<BR>���������E�E�E�ł����B���̐�y�͗��������Ƃ������A�₩�܂����ł��B���ɑ����B�n�܂�Ǝ�ɕ����܂���ˁB�ق��Ƃ��܂����ǁB<BR>���o�����͂��ꂩ��܂��܂���J���鎖�ɂȂ�Ǝv���܂���B<BR><BR>&gt;�C�����a�l<BR>�ՂɂՂɁE�E�E�ق�Ɖ������Ă��ł��傤�ˁA�����̎o�́B<BR>�K���v�������ɖ�肠��ł����H���`��A���������Ȃ͓̂��R�Ƃ��Ă��E�E�E���˂��B�܂��A�P��y���炢���Ǝv���܂����ǁB<BR><BR>&gt;�������@�������l<BR>�K�K�K����̘b�A���������v���Ȃ��猩�Ă܂����B<BR>����ς�b�ɂ͔g���v��܂���ˁB����Ȃ̂ɁA�����̍�҂Ƃ�����E�E�E�|���Ȃ���ł���ˁB���̏�Z�p�����˂��Ȃ����B�ӁE�E�E�����Ă������B<BR>�N���G�C�^�[�Y�t���A�̏������݂��ǂ܂��Ă��炢�܂����B<BR>����̓Y�o���E�E�E�����̃w�^����҂ɂ悭�����ĕ������Ă����܂��B<BR>�ł���҂̘b���ƁA���łɂn�n�b�܂łقڊ������Ă���炵���̂ŁA������C������͍̂�������ł��B<BR>�P�O�b�ȍ~����͂Ȃ�Ƃ������܂��E�E�E���B������������B�܁A�������B<BR>���ƁA��҂��u�����Ă������Ă�񂾁I�v�Ȃ�Č�����݂����Ȏ��������Ă܂������ǁA����ς��肠��܂���ˁB�悭�����Ă����܂�����A�ǂ�������ȐS�Ō��Ă���Ă��������B<BR>���������i���������j�������݁i�ӌ��j�͑�ϋM�d�ł�����A��҂������Ǝ󂯎~�߂Ă��邱�Ƃł��傤�B<BR>�W���X�e�B�X���[�h�A�����f�U�C�������Ȃ�D���Ȃ�ł����ǂˁB���g���A���ł�����E�E�E�B<BR><BR>&gt;���d�F�l<BR>�����̍�҂��������b�ɂȂ��Ă�炵���āA�ǂ����B<BR>���H���������āH�����b�����Ă�̂͂l�n�m�c�n�����^�c�ψ��̐l�H����A���d�F����ĉ^�c�ψ��̐l���Ⴀ�E�E�E�H<BR>���A���ƁA�����̍�҂͂���܂�_�߂Ȃ��Ă������ł��B�������q�ɏ��̂ŁB<BR><BR>&gt;�₦���l<BR>��̐l�Ƃ́E�E�E�����Ȃ�ł��B<BR>�����̂��o�����͒��Q���Ȃ���ł���B���̕��邵������Q�Ă�݂����ł��B�Ȃ񂩍ŋߕ����̃K���v�����Еt���Ă��āE�E�E�g����̂�������ł��傤�ˁB�ӂӂӁE�E�E���o����񂪂����C�ɓ����Ă��錄�ɂł��T���Ă����Ɓ�<BR>�֌W�Ȃ��ł����ǁA��҂͐Q�s���炵���ł��B<BR><BR>&gt;�l�n�m�c�n�l<BR>�����������K���v�����̃V���{���}�[�N�����ꂢ�ɏ��������Ē����A���肪�Ƃ��������܂����B<BR>���o�����͔��΂��Ă��݂����ł����ǁA���̃}�[�N�͂���Ō���ł��B<BR><BR>�V�b�ł͕��̎��̂����܂�܂��B���y���݂Ɂ`�B
+皆さんおはようございます。<BR>ガンプラ部・部長兼、霞の妹の悠美です。<BR>今回は作者爆睡・・・もといお休み中のため、私が代わってレスをします。ご了承ください。<BR><BR>&gt;mk8426様<BR>作者のメインハード、ドリームキャストはそれほど性能が良くないので、送ってもらったとしても恐らく再生は無理だと思います。<BR>歌つきのＯＰのようなムービーなら見たことがあるといってましたよ。戦え我らが先Ｏ者～、とかなんとか。<BR><BR>&gt;地駆鴉様<BR>頼もしい・・・ですか。あの先輩は頼もしいというより、やかましいです。特に早口。始まると手に負えませんね。ほっときますけど。<BR>お姉ちゃんはこれからますます苦労する事になると思いますよ。<BR><BR>&gt;海月日和様<BR>ぷにぷに・・・ほんと何言ってるんでしょうね、うちの姉は。<BR>ガンプラ部員に問題ありですか？う～ん、私が部長なのは当然としても・・・問題ねぇ。まあ、善先輩くらいだと思いますけど。<BR><BR>&gt;あおき　あきお様<BR>ガガガ原種の話、私もそう思いながら見てました。<BR>やっぱり話には波が要りますよね。それなのに、うちの作者ときたら・・・芸がないんですよね。その上技術も文才もないし。ふ・・・言ってやったわ。<BR>クリエイターズフロアの書き込みも読ませてもらいました。<BR>あれはズバリ・・・うちのヘタレ作者によく言って聞かせておきます。<BR>でも作者の話だと、すでにＯＯ話までほぼ完成しているらしいので、今から修正するのは困難だそうです。<BR>１０話以降からはなんとかさせます・・・あ。言っちゃった。ま、いっか。<BR>あと、作者が「あえてそうしてるんだ！」なんて言い訳みたいな事も言ってましたけど、やっぱり問題ありますよね。よく言っておきますから、どうか寛大な心で見てやってください。<BR>こういう（ああいう）書き込み（意見）は大変貴重ですから、作者もちゃんと受け止めていることでしょう。<BR>ジャスティスロード、私もデザインだけなら好きなんですけどね。中身がアレですから・・・。<BR><BR>&gt;八重洲様<BR>うちの作者がいつも世話になってるらしくて、どうも。<BR>え？ちがうって？お世話をしてるのはＭＯＮＤＯさんや運営委員の人？あれ、八重洲さんて運営委員の人じゃあ・・・？<BR>あ、あと、うちの作者はあんまり誉めなくてもいいです。すぐ調子に乗るので。<BR><BR>&gt;やえす様<BR>上の人とは・・・いえなんでも。<BR>うちのお姉ちゃんは昼寝しないんですよ。その分夜しっかり寝てるみたいです。なんか最近部屋のガンプラが片付いていて・・・使われるのが恐いんでしょうね。ふふふ・・・お姉ちゃんがお風呂に入っている隙にでも探してやろっと♪<BR>関係ないですけど、作者は寝不足らしいです。<BR><BR>&gt;ＭＯＮＤＯ様<BR>私が書いたガンプラ部のシンボルマークをきれいに書き直して頂き、ありがとうございました。<BR>お姉ちゃんは反対してたみたいですけど、部のマークはあれで決定です。<BR><BR>７話では部の主題歌が決まります。お楽しみに～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200111/03091515/revagaigar_ex1.html" target="_blank">�d�w�G�s�\�[�h�E���̂P������ɂ͂������N���b�N�B</a></strong>  <i>2001/12/11 01:05:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200111/03091515/revagaigar_ex1.html" target="_blank">ＥＸエピソード・その１を見るにはここをクリック。</a></strong>  <i>2001/12/11 01:05:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008000322elwhixd&id2=1006829568qljghy&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008000322elwhixd_id2_1006829568qljghy_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���������B�������̂́A�I�������Ɍ������Ă��܂����B�B�B�d�w�G�s�\�[�h�E���̂P�ł��B
+【推薦文】せっかく隠したものは、悠美ちゃんに見つかってしまった。。。ＥＸエピソード・その１です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n����</strong>  <i>2001/12/11 01:39:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地駆鴉</strong>  <i>2001/12/11 01:39:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008002342lntmfo&id2=1006829568qljghy&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008002342lntmfo_id2_1006829568qljghy_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�d�w�G�s�\�[�h�E���̂P�v�ǂ݂܂����B<BR>�^�C���L�K���_���c�c�f�K���Ƃ͕ʂɂ����ł��ˁi�΁j�B<BR>�_�~�[�̃A�������i�ł���ˁH�j�ɂ͏΂��܂����B�ۂ�ƒu����Ă���Ƃ����z�����Ă݂�ƁA�������Ԕ����ł��ˁi�΁j�B<BR>����ɂ��Ă��ۋC�ȉ������c�c�ՂɂՂɁc�c�B<BR>���͂������Ɠ����œǂ݂₷�������ł��B���̃e���|�̗ǂ������������ł��B<BR>�{�Ҏ��b���y���݂ɂ��Ă��܂��B
+「ＥＸエピソード・その１」読みました。<BR>タイヤキガンダム……Ｇガンとは別にあるんですね（笑）。<BR>ダミーのア○○○（ですよね？）には笑いました。ぽつんと置かれているところを想像してみると、何だか間抜けですね（笑）。<BR>それにしても呑気な霞ちゃん……ぷにぷに……。<BR>文章もいつもと同じで読みやすかったです。このテンポの良さが凄くいいです。<BR>本編七話も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/11 08:38:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/11 08:38:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008027480rodsmw&id2=1006829568qljghy&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008027480rodsmw_id2_1006829568qljghy_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́B�ŏ��̋�J�����̖A�`��<BR>�_�~�[�́u�S���O�v����Ȃ���ł����H���F�̃��O���E�E�E�B<BR>�������A�����Ȃ背�[�_�[�́i�΁j�B<BR>
+読んだバイ♪<BR>わっはっは。最初の苦労も水の泡～♪<BR>ダミーは「ゴｏグ」じゃないんですか？茶色のモグラ・・・。<BR>しかし、いきなりレーダーは（笑）。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2001/12/12 00:49:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2001/12/12 00:49:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008085751emwnu&id2=1006829568qljghy&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008085751emwnu_id2_1006829568qljghy_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āB<BR>���o�K�C�K�[�V���[�Y�A��ʂ�ǂ܂��Ă��炢�܂����B<BR>�Ȃ񂩉���l�^�Ɖ���Ȃ����̂����X�ʂł������A�e���|���ǂ��̂Ō��\�΂��Ȃ���y�����ǂ߂܂����i�΁j�B<BR>���ŋ߂͂s�r�G���ȃV�[�������Ȃ��āA����т��Ǝ₵���C�����܂����c<BR>����͂����ƁA�I�������A���\�䖙�ł��ˁ[�B�����������o�����ɗD�������Ă����ė~�����ł��B��������Ȃ��ƁA�������A�B��̊y���݁i�X�g���X�����@�j�̃K���v�������グ���āA���̂����������؂ꂿ�Ⴄ�񂶂�Ȃ����ƐS�z�ł��B<BR><BR>�c�u�����S�O�O�O�N�̗��j�Ƌ��Ɏp�����������ɂ̃��{�b�g�c�v<BR>�Ȃ񂩌��ȗ\��������̂ł����A�܂����A���i�w��x�̕t���R�����̓z�j�c�Ȃ�ł��傤���H<BR><BR>����ƁA�A�����~�e�b�h�l�^�͏o��\��͖�����ł��傤���H�H
+初めまして。<BR>リバガイガーシリーズ、一通り読ませてもらいました。<BR>なんか解るネタと解らないものが半々位でしたが、テンポが良いので結構笑いながら楽しく読めました（笑）。<BR>＊最近はＴＳ萌えなシーンが少なくて、ちょびっと寂しい気もしますが…<BR>それはそうと、悠美ちゃん、結構我侭ですねー。もう少しお姉ちゃんに優しくしてあげて欲しいです。そうじゃないと、霞ちゃん、唯一の楽しみ（ストレス解消法）のガンプラを取り上げられて、そのうち何かが切れちゃうんじゃないかと心配です。<BR><BR>…「中国４０００年の歴史と共に姿を現した究極のロボット…」<BR>なんか嫌な予感がするのですが、まさかアレ（『先』の付く３文字の奴）…なんでしょうか？<BR><BR>それと、アンリミテッドネタは出る予定は無いんでしょうか？？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/12/12 07:05:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008108311tcbwnm&id2=1006829568qljghy&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008108311tcbwnm_id2_1006829568qljghy_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�ՂɂՂɁ`�v�`�V��ł����B�̂����肪�ō��ɖG���΂킹���܂����B<BR>�Ȃ񂾂����̌�̉������̎����l����ƁA���ӂꂾ���܂��~�܂�܂���i�΁j
+「ぷにぷに～」～遊んでいた。のくだりが最高に萌え笑わせられました。<BR>なんだかこの後の霞ちゃんの事を考えると、あふれだす涙が止まりません（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E����(;~-~A)</strong>  <i>2001/12/12 07:50:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム＠(;~-~A)</strong>  <i>2001/12/12 07:50:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008111017bcaxyw&id2=1006829568qljghy&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008111017bcaxyw_id2_1006829568qljghy_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��B<BR><BR>&gt;�n����l<BR>�_�~�[�̓A�b�K�n�Ő����ł��B�ʂɃN�C�Y����Ȃ���ł����ǂ�(��)<BR>�����̏������͗c�t�ȕ��A�ǂ݂₷���̂����B(������A�܂��ڋ��ɂȂ��Ă邼)<BR><BR>&gt;mk8426�l<BR>�Ƃ����킯�ŁA�n�Y���ł�(��)<BR>�j���[���[�N�s���͒n����l�Ɍ���E�E�E�āA�������������B<BR>���̃��[�_�[�A�����ڂ͖^�Ȃ�Ƃ��{�[����T���A���ł��ˁB<BR><BR>&gt;��ܗl<BR>�l�^���E�E�E�����܂���A���ꂩ��͂�������(��������)����₷�����邢�͉���Ȃ��Ă������ŗ�����悤�w�͂������Ǝv���܂��B<BR>�s�r�G���ȃV�[�������Ȃ��E�E�E���w�E�̒ʂ�ł��B��(_ _)��<BR>��ϗJ�����Ă��܂��⊶�̋ɂ݂ł��ނ�ŎӍ߂̈ӂ�\�������Ē����܂��`�āA������΂������ȃI�C(--;)<BR>�P�O�b�܂ł͋��炭�����Ȃ��Ă��܂��\�����E�E�E���ł�95%�����ς݂Ȃ̂ŁB�\����Ȃ��ł��B<BR>�܂����ɖG���邩�͓ǎҗl�̎��R�Ƒz���̖͂��Ȃ̂ŁA�����炳�܂ɂ��������W�J�ɂȂ邩�ǂ����͉���܂���B(A'-';)"<BR>�I���́A�킪�܂܂ł��E�E�E�ˁB<BR>���[��A�ŏ��͂��������L��������Ȃ������C���B����A�����炱�����B<BR>�N�������L�����Ƃ������A�����߂��q�L���������Ȃ��Ə����h���̂�������܂���B�I���A���̊Ԃɂ��}�n�����񉻂��Ă��Ă܂����E�E�E�B�ł������ڂ̃C���[�W�͂������܂���B(������O)<BR>�����X�g���X���܂��Ĕ����I����b�͂d�w�R�ŏ����\��ł��B�N���X�}�X�l�^�Ȃ̂ŁA����܂łɂ͓��e�������ȁ`�B<BR>������Ƃ͐S���܂邨�b�ɂ������ł��ˁB����΂��Ă݂悤�E�E�E�B<BR>�n�n�ҁE�E�E�����ǂ��ł��傤�B�f�ڂ����܂ł͔閧���Ă��ƂŁB(�o���o������)<BR>�A�����~�l�^�ł����E�E�E�ŋߌ��ĂȂ����̂ŁB(&gt;_&lt;;)�q�G�`<BR>�u���O�ɂӂ��킵���\�G���͌��܂����I�v�݂����ȃl�^���l���Ă͂����̂ł����A���������ɂȂ�܂����B�X�C�}�Z���E�E�E<BR>�Ȃ񂹍�҂͖^�A���^�[�A�j���Ƀn�}����ςȂ��Ȃ��̂ŁB<BR><BR>&gt;TOM�l<BR>�ō��ɖG���܂������A�����ł����`(�z�b)<BR>�������A���̂܂܂��ƃ��o�K�C�K�[�͖G�������p���f�B���S�̓��e�ɂȂ��Ă��������ł��B���[��B<BR>����̘b�͂X�b�{�҂ւƌq����܂��B�Ƃ������A���������ォ�珑������ł����ǂˁB<BR>�{�҂̂s�r�v�f������Ȃ����́A�d�w�ŕ₢�����Ǝv���܂��B�d�w�S���������Ȃ�Ƃ͌����܂��񂪁E�E�E�B<BR>
+感想ありがとうございます。<BR><BR>&gt;地駆鴉様<BR>ダミーはアッガＯで正解です。別にクイズじゃないんですけどね(笑)<BR>自分の書く文は幼稚な分、読みやすいのかも。(いかん、また卑屈になってるぞ)<BR><BR>&gt;mk8426様<BR>というわけで、ハズレです(笑)<BR>ニューヨーク行きは地駆鴉様に決定・・・て、ちがうちがう。<BR>あのレーダー、見た目は某なんとかボールを探すアレですね。<BR><BR>&gt;らま様<BR>ネタが・・・すいません、これからはもう少し(少しかよ)解りやすくあるいは解らなくても勢いで流せるよう努力したいと思います。<BR>ＴＳ萌えなシーンが少ない・・・ご指摘の通りです。ｍ(_ _)ｍ<BR>大変憂慮しています遺憾の極みです謹んで謝罪の意を表明させて頂きます～て、言い訳ばっかだなオイ(--;)<BR>１０話までは恐らくそうなってしまう可能性が・・・すでに95%完成済みなので。申し訳ないです。<BR>まあ何に萌えるかは読者様の自由と想像力の問題なので、あからさまにそういう展開になるかどうかは解りません。(A'-';)"<BR>悠美は、わがままです・・・ね。<BR>うーん、最初はこういうキャラじゃなかった気が。いや、元からこうか。<BR>誰か嫌われキャラというか、いじめっ子キャラがいないと書き辛いのかもしれません。悠美、いつの間にかマＯルさん化してきてますし・・・。でも見た目のイメージはちがいますよ。(当たり前)<BR>霞がストレス溜まって爆発！する話はＥＸ３で書く予定です。クリスマスネタなので、それまでには投稿したいな～。<BR>ちょっとは心温まるお話にしたいですね。がんばってみよう・・・。<BR>ＯＯ者・・・さあどうでしょう。掲載されるまでは秘密ってことで。(バレバレだよ)<BR>アンリミネタですか・・・最近見てないもので。(&gt;_&lt;;)ヒエ～<BR>「お前にふさわしいソエルは決まった！」みたいなネタも考えてはいたのですが、立ち消えになりました。スイマセン・・・<BR>なんせ作者は某アルターアニメにハマりっぱなしなもので。<BR><BR>&gt;TOM様<BR>最高に萌えましたか、そうですか～(ホッ)<BR>しかし、今のままだとリバガイガーは萌えよりもパロディ中心の内容になっていきそうです。うーん。<BR>今回の話は９話本編へと繋がります。というか、こっちを後から書いたんですけどね。<BR>本編のＴＳ要素が足りない分は、ＥＸで補いたいと思います。ＥＸ全部がそうなるとは言えませんが・・・。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200111/03091515/revagaigar07.htm" target="_blank">��V�b������ɂ͂������N���b�N�B</a></strong>  <i>2001/12/15 21:46:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200111/03091515/revagaigar07.htm" target="_blank">第７話を見るにはここをクリック。</a></strong>  <i>2001/12/15 21:46:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008420389vamoybi&id2=1006829568qljghy&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008420389vamoybi_id2_1006829568qljghy_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�������̓��ӋZ�́A�u�ӂƂ����̂ՂɂՂɁv�����ł͂Ȃ��̂ł��i�΁j�B<BR>�@�c�c�Ƃ������킯�ő�V�b�B����𒆍��Ɉڂ��A���o�K�C�K�[��̐▽�H
+【推薦文】霞ちゃんの得意技は、「ふともものぷにぷに」だけではないのです（笑）。<BR>　……といったわけで第７話。舞台を中国に移し、リバガイガー絶体絶命？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200111/03091515/revagaigar_ex2.htm" target="_blank">�d�w�G�s�\�[�h�E���̂Q������ɂ͂������N���b�N�B</a></strong>  <i>2001/12/15 21:47:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200111/03091515/revagaigar_ex2.htm" target="_blank">ＥＸエピソード・その２を見るにはここをクリック。</a></strong>  <i>2001/12/15 21:47:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008420453gaeewe&id2=1006829568qljghy&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008420453gaeewe_id2_1006829568qljghy_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z��炪�K���v���v�����Z�X�i�΁j�������B�ޏ��̌����u����ׂ����́v�Ƃ́c�c�H
+【推薦文】我らがガンプラプリンセス（笑）霞ちゃん。彼女の言う「来るべきもの」とは……？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�_�����z�̂����W�S�Q�U</strong>  <i>2001/12/15 22:52:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>神速感想のｍｋ８４２６</strong>  <i>2001/12/15 22:52:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008424361pumxyv&id2=1006829568qljghy&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008424361pumxyv_id2_1006829568qljghy_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�u��V�b�v<BR>����͂��́I��s�l�I�I�����˂��i�΁j�B<BR>���Ƃ����Ńf���h�����񂪏����Ă����Ȃg�o�͐�s���l�^�ȊO�ɂ�����ȃR���e���c�������̂ł������߂ł��B<BR>�u�d�w�Q�v<BR>���[��A�u���̓��v�l�^�������Ɨ����Ă��܂��邠���肪���������o�K�C�K�[�B���������ʑҖ]�̋@�̂����f��������邩��ƌ����ĐԔт͐����񂾂낤�i�΁j�B<BR><BR>��������|�����m�B�p�[�t�F�N�g�O���[�h�u��s���v�i���j�B<BR><BR>�ŁA����̍Z���i���񑩁j<BR>�����i�d�w�Q���j�E�E�E�����i�������j�ł��傤�B���ꂶ��u��肠���v�ł��ˁB
+読んだバイ♪<BR>「第７話」<BR>わっはっは！先行人！！いいねぇ（笑）。<BR>あとがきでデンドロさんが書いてた侍なＨＰは先行○ネタ以外にも傑作なコンテンツが多いのでおすすめです。<BR>「ＥＸ２」<BR>うーん、「あの日」ネタをさらりと流してしまえるあたりがさすがリバガイガー。しかし普通待望の機体がモデル化されるからと言って赤飯は炊かんだろう（笑）。<BR><BR>あったら怖いモノ。パーフェクトグレード「先行○」（爆）。<BR><BR>で、今回の校正（お約束）<BR>割合（ＥＸ２より）・・・割愛（かつあい）でしょう。これじゃ「わりあい」ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n���S��</strong>  <i>2001/12/16 20:34:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ＠担当</strong>  <i>2001/12/16 20:34:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008502444rpbvwjb&id2=1006829568qljghy&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008502444rpbvwjb_id2_1006829568qljghy_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�C���������܂����B<BR>�@�������������A�V�����p������������������A�K���v���w���̎����ɉ񂹂΂����̂Ɂc�c�B
+　修正完了しました。<BR>　しかし霞ちゃん、シャンパン買うお金あったら、ガンプラ購入の資金に回せばいいのに……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n����</strong>  <i>2001/12/16 23:49:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地駆鴉</strong>  <i>2001/12/16 23:49:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008514162suvptxv&id2=1006829568qljghy&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008514162suvptxv_id2_1006829568qljghy_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�掵�b��ǂ݂܂����B<BR>���[��A��s�l�c�c���؃L���m�����˂܂ł̓��������[�r�[�Ŏv�������ׂ܂����i�΁j�B<BR>���̂l�r���o�Ă���Ƃ͎v���܂���ł����B�Ƃ����Ƃ���ς�m�C�G���c�c�H<BR>�d�w�Q���ǂ݂܂����B<BR>���̓��l�^�ł��ˁB�v���������ŊȒP�ɖY���Ƃ͂���y�ȁc�c�i�΁j�B<BR>�܂��Ă���Ƃ̎��ł����A����ł������������M�ł��ˁB<BR>����Ȃ̂ɎG�ɂȂ��ĂȂ��āA���͂��{���Ƀe���|�ǂ��ēǂ݂₷���ł��B<BR><BR>���C�ɉ�����񂪂��킢���ł��ˁi���j�B<BR>�ǂ��ɂ��u���o�K�C�K�[�v��ǂނƁu���E�����v�����������Ȃ�n����ł����i�΁j�B<BR><BR>
+第七話を読みました。<BR>うーん、先行人……中華キャノン発射までの動きをムービーで思い浮かべました（笑）。<BR>あのＭＳが出てくるとは思いませんでした。というとやっぱりノイエも……？<BR>ＥＸ２も読みました。<BR>あの日ネタですね。プラモ発売で簡単に忘れるとはお手軽な……（笑）。<BR>つまっているとの事ですが、それでも凄く早い執筆ですね。<BR>それなのに雑になってなくて、文章が本当にテンポ良くて読みやすいです。<BR><BR>何気に霞ちゃんがかわいいですね（爆）。<BR>どうにも「リバガイガー」を読むと「世界征服」が書きたくなる地駆鴉でした（笑）。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2001/12/17 00:28:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2001/12/17 00:28:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008516511vtvfkl&id2=1006829568qljghy&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008516511vtvfkl_id2_1006829568qljghy_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肫��Ɛ\���܂��B<BR><BR>���߂Ċ��z�������܂��B<BR>���܂܂ŁA�y����ŁA���̍�i���������Ă��܂����B<BR>�K���v���̎��ɏڂ�����΁A�����Ɗy���߂�ł��傤�ˁB<BR>�ł��A����Ȃ��ł��A�������̋�Y�Ԃ�́A�`���̂ł����ł��B<BR><BR>�ŋ߁A���M���Ă���EX�G�s�\�[�h�A�l�I�ɍD���ł��B<BR>���́ATS�q�����i�̐����ŁA���₪��Ȃ�����i�X�A���̎q�Ƃ��ď������Ă����X�g�[�����D���Ȃ̂ŁA�܂���EX�G�s�\�[�h�́A������W�������ƌ��������ł��B<BR><BR>���ƁA�������M�ɂ́A�����ł��B<BR>������i������Ă��܂����A�M�����ς��ɏ����Ă��ꂽ��A�����I����Ă���ł���ˁB<BR><BR>����ł́A�����܂ł���΂��ĉ������B
+きりきりと申します。<BR><BR>初めて感想を書きます。<BR>いままで、楽しんで、この作品をロムしていました。<BR>ガンプラの事に詳しければ、もっと楽しめるでしょうね。<BR>でも、解らなくでも、霞ちゃんの苦悩ぶりは、伝わるのでいいです。<BR><BR>最近、執筆しているEXエピソード、個人的に好きです。<BR>私は、TS子が普段の生活で、いやがりながらも段々、女の子として順応していくストーリが好きなので、まさにEXエピソードは、それを集結したと言う感じです。<BR><BR>あと、早い執筆には、驚きです。<BR>私も作品を作っていますが、貴方が変わりに書いてくれたら、もう終わっているでしょね。<BR><BR>それでは、完結までかんばって下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E�����V���A��p</strong>  <i>2001/12/17 08:39:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム＠シャア専用</strong>  <i>2001/12/17 08:39:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008545994mhvky&id2=1006829568qljghy&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008545994mhvky_id2_1006829568qljghy_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��B<BR><BR>&gt;mk8426�l<BR>�o�f��s�҂ł����B�v��Ȃ��Ȃ�(��)<BR>�g�f�łȂ甃���܂����ǁB(����)<BR><BR>&gt;MONDO�l<BR>�C���ǂ����X�C�}�Z���B<BR>�����̎g�����E�E�E���������Ƃ��ǂ����Ă��ł��傤�ˁB<BR>�I�����d�؂��Ă���H���肦��B�ʂ����ĉ��̂��������͌�������H<BR><BR>&gt;�n����l<BR>�P�O�b����悪�i�܂Ȃ��āE�E�E���������Ȃ��ƋG�߃l�^���ˁE�E�E�B<BR>�W�b�̓��e�A�ŏI�`�F�b�N���Ă���12���z���Ă��܂��܂����B<BR>�Ƃ����킯�ŁA�Q�S���ȍ~�̓��e�ɂȂ�܂��B<BR>�d�w�R�͂w�}�X�l�^�Ȃ̂ŁA�Ԃɍ����悤�ɑ���܂������B<BR>���낻����E�H�}�^�[���s�������Ȃ��B<BR>���E���������E�E�E���o�K�C�K�[�Ɛ키���Ƃ͈ꐶ�Ȃ��ł��傤�ȁB�F��ȈӖ���(��)<BR><BR>&gt;���肫��l<BR>EX�G�s�\�[�h�E�E�E�ꉞ�s�r�l�^��́H�ɂȂ��Ă�݂����ł��ˁB<BR>�R������ȂƂ��납�ȁB<BR>���낻��X�s�[�h�_�E����������ł����ǂˁB<BR>��������܂ł͂���΂肽���Ǝv���܂��B<BR><BR>�l�^���v���t���Ă��A�e���V�������グ�Ȃ��Ə����܂���B<BR>���������Ӗ��ł́A�^�d���̘b�����������̕����G�l���M�[���g���̂��ȁB<BR>�܁A���C�y�ɂ����܂����B�܂�����ƂˁE�E�E�B
+感想ありがとうございます。<BR><BR>&gt;mk8426様<BR>ＰＧ先行者ですか。要らないなぁ(笑)<BR>ＨＧでなら買いますけど。(おい)<BR><BR>&gt;MONDO様<BR>修正どうもスイマセン。<BR>お金の使い方・・・こずかいとかどうしてるんでしょうね。<BR>悠美が仕切っている？ありえる。果たして霞のこずかいは月いくら？<BR><BR>&gt;地駆鴉様<BR>１０話から先が進まなくて・・・早く書かないと季節ネタがね・・・。<BR>８話の投稿、最終チェックしてたら12時越えてしまいました。<BR>というわけで、２４日以降の投稿になります。<BR>ＥＸ３はＸマスネタなので、間に合うように送りましたが。<BR>そろそろ限界？マターリ行きたいなぁ。<BR>世界征服私隊・・・リバガイガーと戦うことは一生ないでしょうな。色んな意味で(笑)<BR><BR>&gt;きりきり様<BR>EXエピソード・・・一応ＴＳネタ主体？になってるみたいですね。<BR>３もそんなところかな。<BR>そろそろスピードダウンしたいんですけどね。<BR>完結するまではがんばりたいと思います。<BR><BR>ネタが思い付いても、テンションを上げないと書けません。<BR>そういう意味では、某妖精の話よりもこっちの方がエネルギーを使うのかな。<BR>ま、お気楽にいきますか。まったりとね・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/12/17 11:54:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008557663ntfsh&id2=1006829568qljghy&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008557663ntfsh_id2_1006829568qljghy_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��V�b�z<BR>�C�T�N���T�E�E�W�F�l���[�^�[�A�����񂭂�����(��)<BR>��s�҂܂Ńl�^�ɂ��Ă��܂��Ƃ́A������ׂ��A�f���h���r���E������I���؃L���m���̔j��͂͂���������Ɨ~���������ł��B<BR>���ꂩ������҂��Ă܂����A�Z�M�I<BR>
+【第７話】<BR>イサクンサウ・ジェネレーター、うさんくさすぎ(笑)<BR>先行者までネタにしてしまうとは、おそるべし、デンドロビュウムさん！中華キャノンの破壊力はもうちょっと欲しかったです。<BR>これからも期待してますぜ、兄貴！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/17 23:37:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/17 23:37:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008599852wxevbpc&id2=1006829568qljghy&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008599852wxevbpc_id2_1006829568qljghy_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[ex2]<BR>���������l�^�́A����ȋ�Ɂu������Ɓv�����Ă��܂��܂��傤�B<BR><BR>���������炱�킢�uPerfect! ��s�Z�v<BR><BR>�ł��A�{���ɂ������炱�킢�̂�<BR>�u�����Z�v�Ƃ��u�܂فZ�v�̂悤�ȋC������c�B
+[ex2]<BR>こういうネタは、こんな具合に「さらっと」流してしまいましょう。<BR><BR>＞あったらこわい「Perfect! 先行〇」<BR><BR>でも、本当にあったらこわいのは<BR>「ちさ〇」とか「まほ〇」のような気がする…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2001/12/18 00:02:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2001/12/18 00:02:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008601350hvfmgq&id2=1006829568qljghy&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008601350hvfmgq_id2_1006829568qljghy_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�掵�b���d�w�Q�ǂ݂܂����B<BR>����Ȑ�s�ҁc����Ӗ��A�������L�����ł��ˁ`�B�ނ̐^�̔\�͂́A�l���΂����ɂ����邱�Ƃɂ���̂ł́A�Ǝv���܂��i�΁j<BR>���̓��l�^�c�{���Ɂg������Ɓh���Ă�������c�i�΁j�B��������܂荢���ĂȂ��݂��������A�����Ɓg�y���h�̎��Ȃ�ł��傤�B���Ӗ��ʂ��邩�ȁH�H<BR><BR>����A���̐Ԃ��ĂR�{�����g�z�h���o��ł��傤���H�c����A���E�ő��i���́H�j�́g�ށh�ƑΌ����ė~�����c��������܂���i�΁j
+第七話＆ＥＸ２読みました。<BR>巨大な先行者…ある意味、物凄いキャラですね～。彼の真の能力は、人を笑い死にさせることにあるのでは、と思います（笑）<BR>あの日ネタ…本当に“さらっと”してらっしゃる…（笑）。霞もあんまり困ってないみたいだし、きっと“軽い”体質なんでしょう。＊意味通じるかな？？<BR><BR>次回、あの赤くて３倍速い“奴”が登場でしょうか？…是非、世界最速（自称？）の“彼”と対決して欲しい…かもしれません（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E����(-_-)r</strong>  <i>2001/12/19 09:35:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム＠(-_-)r</strong>  <i>2001/12/19 09:35:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008722155pajtsg&id2=1006829568qljghy&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008722155pajtsg_id2_1006829568qljghy_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���ӁI�ł���܂��B<BR><BR>&gt;TOM�l<BR>���؃L���m���̔j��́E�E�E�R�ЂƂ�����΂������ł͕�����Ȃ��Ƃ��������H(��)<BR>���A�u�|�X�`�v�̕��ł����H�܂��A���ی����Ă�����Ȃ���ł��傤�B<BR><BR>&gt;���Ȃ���l<BR>������Ɨ����Ă������B<BR>�ł����͂悭�����ĂȂ�������E�E�E�����炠��Ȃɒ��g�̂Ȃ��b��(��)�B<BR><BR>&gt;��ܗl<BR>�y���̎��ł����B�X�C�}�Z������Ȃ���(TT)<BR>��Ҏ��i�����E�E�E<BR>�Ԃ�"�z"�͏o�܂����A�W�b�Ƀo�g���͂���܂���B<BR>����ɓz�́E�E�E���`��B�閧�ł��B(�Ƃ������A���҂��Ȃ��������������E�E�E�j
+感想感謝！であります。<BR><BR>&gt;TOM様<BR>中華キャノンの破壊力・・・山ひとつ消し飛ばすだけでは物足りないとおっしゃる？(笑)<BR>あ、「ポス～」の方ですか？まあ、実際撃ってもあんなもんでしょう。<BR><BR>&gt;すなさん様<BR>さらっと流してくだい。<BR>でも実はよく解ってなかったり・・・だからあんなに中身のない話に(汗)。<BR><BR>&gt;らま様<BR>軽い体質ですか。スイマセン解らなくて(TT)<BR>作者失格かも・・・<BR>赤い"奴"は出ますが、８話にバトルはありません。<BR>それに奴は・・・う～ん。秘密です。(というか、期待しない方がいいかも・・・）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�����a</strong>  <i>2001/12/21 14:54:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>海月日和</strong>  <i>2001/12/21 14:54:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008914073jrikova&id2=1006829568qljghy&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008914073jrikova_id2_1006829568qljghy_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��V�b�z<BR>�c���A��s�҂��c�B<BR>�\�������Ă����ɂ́A��s�҂��o���Ƃ͑S�R�v��Ȃ������i�΁j<BR>�͂邩����ŃA���ɃR�}�l�`���ꂽ��A�ǂ��Ή����Ă�����炳���ς���炸�A�����ł܂��Ă��܂������ł��펄�́i�΁j<BR>�������A���̋@�̂��o��Ƃ́c�B<BR>���̂����[�t�B�i���j���o��̂��ȁH<BR>�ނ���m�C�G����Q���O�O�⃔�@�����@����i�~�܂�B<BR><BR>��������|�����̃V���[�Y�B<BR><BR>��s�҃O���[�h�A�b�v�p�[�c�i���j<BR><BR>�N�������񂾒N���B<BR><BR>�yEX1�z<BR>�c����Ȃ�A������c�B<BR>�ǂ����Ȃ�肪�o���Ȃ��悤�ȂƂ���ɉB���Ă����΂悩���������c���āA���ꂶ��{���]�|���i��΁j<BR>�h���̘b�́A�{�҂Ŋ������ꂻ���ȋC���c�i���j<BR><BR>�yEX2�z<BR>���̓��l�^�������܂ł��炳��Ɨ����ꂽ�̂͏��߂Č����C���i�΁j<BR>�c�ɂ��Ă��A���������������炩�C�ɂȂ�Ȃ��c�B<BR>����I�ɂ�����ĂȂ��g�Ƃ��Ắi���j<BR>�c���B������������APPP���狋�����o�Ă�̂��I�H�i�΁j<BR><BR>�ł́A������y���݂ɑ҂��Ă܂��B<BR><BR>�c�܂Ƃ߂Ċ��z�����Ƃ���ς蒷���Ȃ�Ȃ��c�����ł������s���p���邵�c�i�Ƃ茾�ɂ��C�ɂ��Ȃ��ł����Ƌg�j
+【第７話】<BR>…せ、先行者か…。<BR>予告を見てた時には、先行者を出すとは全然思わなかった（笑）<BR>はるか頭上でアレにコマネチやられたら、どう対応していいやらさっぱり解らず、白く固まってしまいそうですわ私は（笑）<BR>しかし、あの機体が出るとは…。<BR>そのうちゼフィ（略）も出るのかな？<BR>むしろノイエや青いゲルググやヴァルヴァロや（止まれ。<BR><BR>あったら怖いものシリーズ。<BR><BR>先行者グレードアップパーツ（爆）<BR><BR>誰が買うんだ誰が。<BR><BR>【EX1】<BR>…哀れなり、霞さん…。<BR>どうせなら手が出せないようなところに隠しておけばよかったかも…って、それじゃ本末転倒か（苦笑）<BR>塗装の話は、本編で活かされそうな気が…（爆）<BR><BR>【EX2】<BR>あの日ネタがここまでさらさらと流されたのは初めて見た気が（笑）<BR>…にしても、小遣いが月いくらか気になるなぁ…。<BR>定期的にもらってない身としては（泣）<BR>…あ。もしかしたら、PPPから給料が出てるのか！？（笑）<BR><BR>では、次回を楽しみに待ってます。<BR><BR>…まとめて感想書くとやっぱり長くなるなぁ…ただでさえ改行多用するし…（独り言につき気にしないでおくと吉）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E������l���ꂽ�牽�F�H</strong>  <i>2001/12/21 20:22:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム＠ろ獲されたら何色？</strong>  <i>2001/12/21 20:22:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008933778mlufowk&id2=1006829568qljghy&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008933778mlufowk_id2_1006829568qljghy_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�C�����a�l<BR>��s�҂̃O���[�h�A�b�v�p�[�c�ł���(w<BR>�L�����y�[�����Ԓ��ɂl�f�𔃂��Ƃ��Ă���Ƃ��B<BR>����グ�������肵��(����<BR>���⎩���͔����܂�����(w<BR><BR><BR>���͖���V�Ő���Ă܂��B<BR>���`�񂢂�����˃L�~���Ă΁B<BR><BR>�X�b�A���e�𔼕����ύX���邩���B�P�O�b�Ɏ����Ă͔[���������Ȃ��o���Ȃ̂őS�ʏ������������E�E�E<BR>����������A�y�[�X�͗��������ł��B
+&gt;海月日和様<BR>先行者のグレードアップパーツですか(w<BR>キャンペーン期間中にＭＧを買うとついてくるとか。<BR>売り上げ落ちたりして(おい<BR>いや自分は買いますけど(w<BR><BR><BR>霞は無報酬で戦ってます。<BR>う～んいいやつだねキミってば。<BR><BR>９話、内容を半分程変更するかも。１０話に至っては納得がいかない出来なので全面書き直しかも・・・<BR>いいかげん、ペースは落ちそうです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/12/23 17:04:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/12/23 17:04:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009094692dhtcv&id2=1006829568qljghy&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009094692dhtcv_id2_1006829568qljghy_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���u��s�ҁvUpGrade_Parts<BR>�u�_�C�i�}�C�g�L�����y�[�����ɕt�������P�I�v<BR>����˂��`�I<BR><BR>�����̂�������<BR>���i�́i�K���v���ȊO�́j���ėp�ӂ��Ă��肻���c<BR>�i�A���A���̈ӌ��͈�ؖ��������j<BR>����āA�K�v�Ȃ��̂ł́H
+＞「先行者」UpGrade_Parts<BR>「ダイナマイトキャンペーン中に付きもう１つ！」<BR>いらねえ～！<BR><BR>＞霞のお小遣い<BR>備品は（ガンプラ以外は）総て用意してありそう…<BR>（但し、霞の意見は一切無視される）<BR>よって、必要ないのでは？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200111/03091515/revagaigar_ex3.htm" target="_blank">�d�w�G�s�\�[�h�E���̂R������ɂ͂������N���b�N�B</a></strong>  <i>2001/12/24 23:05:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200111/03091515/revagaigar_ex3.htm" target="_blank">ＥＸエピソード・その３を見るにはここをクリック。</a></strong>  <i>2001/12/24 23:05:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009202717nvimsjo&id2=1006829568qljghy&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009202717nvimsjo_id2_1006829568qljghy_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�N���X�}�X�Ƃ������ƂŁB�ق̂ڂ̂��ȁB
+クリスマスということで。ほのぼのかな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/12/24 23:17:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/12/24 23:17:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009203442ldbmts&id2=1006829568qljghy&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009203442ldbmts_id2_1006829568qljghy_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�N���X�}�X�b�ł��˂��B<BR>�����������Ƃ������Ȃ���ꐫ�����܂�܂������ȁi�΁j�B<BR>�������A�������������m��Ȃ����A�߂̂Ȃ��q�ǂ����G���ɒu������ɂ���̂͂�߂悤�B<BR>�Ƃ���ŁA�P�Q�������̒艿�P�T�O�O�O�~���āA�Ȃ�ł��������BMk-II�͂P�P�����������E�E�E�B
+クリスマス話ですねぇ。<BR>霞ちゃんも何とか言いながら母性が生まれましたかな（笑）。<BR>しかし、何があったか知らないが、罪のない子どもを雑踏に置き去りにするのはやめよう。<BR>ところで、１２月発売の定価１５０００円って、なんでしたっけ。Mk-IIは１１月だったし・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/24 23:49:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009205354judoej&id2=1006829568qljghy&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009205354judoej_id2_1006829568qljghy_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>���肬��A12/24�Ɍf�ڂ��邱�Ƃ��ł��܂����B<BR>�Ԃɍ����āA�悩�����B�B�B<BR><BR>����́A���e���삯���Ă���Ƃ��낪�A�I�`���ȁH<BR><BR>�{�ҁE�ԊO�Ƃ��A�y���݂ɂ��Ă���܂��B<BR>���ꂩ����A����΂��Ă��������B<BR>
+starbowです。<BR><BR>ぎりぎり、12/24に掲載することができました。<BR>間に合って、よかった。。。<BR><BR>今回は、両親が駆けつけてくるところが、オチかな？<BR><BR>本編・番外とも、楽しみにしております。<BR>これからも、がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E�����񊄈����Ȃ�12,000�~�H</strong>  <i>2001/12/25 06:54:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム＠二割引きなら12,000円？</strong>  <i>2001/12/25 06:54:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009230882ffvelv&id2=1006829568qljghy&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009230882ffvelv_id2_1006829568qljghy_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����܂���A����͂P�P���̊ԈႢ�ł����B<BR>mk8426�l�A�w�E���肪�Ƃ��������܂��B<BR>�Ƃ����킯�ŁA�ψ���l�B�C�������肢���܂��B����Ԃ������܂��E�E�E�B<BR>starbow�l�B�͂��A����΂点�Ă��������܂��B�������ƁB
+すいません、あれは１１月の間違いでした。<BR>mk8426様、指摘ありがとうございます。<BR>というわけで、委員会様。修正をお願いします。お手間をかけます・・・。<BR>starbow様。はい、がんばらせていただきます。ゆったりと。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n����</strong>  <i>2001/12/25 13:09:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地駆鴉</strong>  <i>2001/12/25 13:09:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009253356jksulex&id2=1006829568qljghy&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009253356jksulex_id2_1006829568qljghy_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������b�ł����B<BR>���͂�����Ƀe���|�ǂ��ǂ݂₷���Ȃ��Ă���Ǝv���܂��B<BR>���q�̎q���������āA�a���p�[�e�B�[�ɗ��e�̋A��B<BR>�ǂꂩ�ЂƂł��\���������b�Ȃ̂ɁA���ɍ��؂Ŗ{���ɂق̂ڂ̂��܂����B
+いいお話でした。<BR>文章もさらにテンポ良く読みやすくなっていると思います。<BR>迷子の子供を助けて、誕生パーティーに両親の帰宅。<BR>どれかひとつでも十分いいお話なのに、実に豪華で本当にほのぼのしました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:starbow@wind.email.ne.jp" target="_blank">starbow</a></strong>  <i>2001/12/26 02:52:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009302778gdacdt&id2=1006829568qljghy&ff=p">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009302778gdacdt_id2_1006829568qljghy_ff_p.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-starbow�ł��B<BR><BR>&gt;�Ƃ����킯�ŁA�ψ���l�B�C�������肢���܂��B����Ԃ������܂��E�E�E�B<BR>�P�Q�����P�P���ɏC�����Ă����܂����B<BR>���m�F���������B<BR>
+starbowです。<BR><BR>&gt;というわけで、委員会様。修正をお願いします。お手間をかけます・・・。<BR>１２月を１１月に修正しておきました。<BR>ご確認ください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2001/12/26 06:01:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2001/12/26 06:01:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009314068ylamgdc&id2=1006829568qljghy&ff=p">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009314068ylamgdc_id2_1006829568qljghy_ff_p.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂Ƃ߂ēǂ񂾂̂ł܂Ƃ߂Ċ��z��<BR><BR>����Z�b<BR>���f�K���_��<BR>�@�l�I�ɂ̓t�B�M���[�A�ƃv���o�[���́A�Δj��Ԃ�ԓV���������Ă݂��������ł��i��<BR>���u�������ƃK���v�����́w�������Ɓx���A�w�������Ɓx�ɂȂ��Ă邶��Ȃ��̂�<BR>�@�����m�U�N�ɓM���Ƃ�����ł��ȁi��<BR><BR>���d�w�G�s�\�[�h�E���̂P<BR>���_�~�[<BR>�@���O�����ĂƂ��ŃA�b�����Ǝv���܂������A�A�b�����ł������B<BR>�@���߂ăS�b�O�̘r�p�[�c���p�Řr�L�т�悤�ɉ������Ăق����g�R���[<BR><BR>����V�b<BR>���恛��<BR>�@�f���h���������̏Ί�̂Ƃ肱�ɂȂ�܂������B<BR>�@���낢��ȈӖ��ŏՌ��I�ł�������˂�<BR><BR>���d�w�G�s�\�[�h�E���̂Q<BR>���l�f�f�K��<BR>�@���ǂ��炦���̂��B�����Ȃ��B<BR>���f�e�e<BR>�@�������I�@����ᐶ���ɂ����ɂ����ɂ�������ԃi�C�X�ȃj���[�X�ł��ȁB<BR>�@����ϊ��S�ό`���Ăق����g�R���[<BR>�@�i�ǂ������z���j<BR><BR>���d�w�G�s�\�[�h�E���̂R<BR>�@�ق��Ɨ��邢�����b�ł����B<BR><BR>�@�ł��A�������ƗI�������A�����������ďE�����q�������͂��B<BR>�@���e�͓�l�̒a�������ǂ�����Č��߂��̂��Ƃ��A���Ⴀ�I�������̒a�����͂��Ȃ̂��Ƃ��A<BR>�@�������������Ȃ��Ƃ��l���Ă��܂��������͂ǂ����l�Ԏ��i�Ȃ̂ł��傤���B<BR>
+まとめて読んだのでまとめて感想を<BR><BR>＞第六話<BR>＞Ｇガンダム<BR>　個人的にはフィギューアとプラバーンの、石破らぶらぶ天驚拳が見てみたかったです（ぉ<BR>＞「さくっとガンプラ部の『さくっと』が、『ざくっと』になってるじゃないのっ<BR>　さく士ザクに溺れるというやつですな（ぉ<BR><BR>＞ＥＸエピソード・その１<BR>＞ダミー<BR>　モグラってとこでアッ○だと思いましたが、アッ○○でしたか。<BR>　せめてゴッグの腕パーツ流用で腕伸びるように改造してほしいトコロー<BR><BR>＞第７話<BR>＞先○者<BR>　デンドロ氏もあの笑顔のとりこになりましたか。<BR>　いろいろな意味で衝撃的でしたからねえ<BR><BR>＞ＥＸエピソード・その２<BR>＞ＭＧＧガン<BR>　結局もらえたのか。いいなあ。<BR>＞ＧＦＦ<BR>　おおっ！　そりゃ生理痛も歯痛も頭痛も吹き飛ぶナイスなニュースですな。<BR>　やっぱ完全変形してほしいトコロー<BR>　（どこが感想だ）<BR><BR>＞ＥＸエピソード・その３<BR>　ほろりと来るいいお話でした。<BR><BR>　でも、霞ちゃんと悠美ちゃん、たしか揃って拾われっ子だったはず。<BR>　両親は二人の誕生日をどうやって決めたのかとか、じゃあ悠美ちゃんの誕生日はいつなのかとか、<BR>　そういう無粋なことを考えてしまうあっしはどっか人間失格なのでしょうか。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/12/26 20:27:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/12/26 20:27:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009366053paxixcq&id2=1006829568qljghy&ff=p">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009366053paxixcq_id2_1006829568qljghy_ff_p.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�n����l<BR>���ꂾ�����荞�܂Ȃ��ƈ�{�̘b�ɂ��Ă͒Z�����Ă��܂��̂ŁB<BR>�Ƃ������A�ЂƂ̃l�^�ŏ�������r���Ȃ�����Ƃ������܂����B(~-~A)<BR>�ق̂ڂ̂��Ă��������܂������B���������Ă��炦��Ə�����܂��B<BR>�ł����ケ�������̂͂Ȃ������E�E�E�B(?)<BR><BR>&gt;���a�l<BR>�܂Ƃ߂ēǂ񂾂̂ł����B����ꂳ�܂ł����B<BR>�E�E�E�Ȃ��Ȃ����X�ɍ��銴�z�ł��ˁi�΁j�B�c�b�R�~��������Ƃ������E�E�E�f�e�e�̃E�C���O�J�X�^���ł����A���S�ό`�łR�C�U�W�O�G���������ł��B����i���܂������A�Ƃ��Ă������o���ł����B<BR>�����������Ă��邱�Ƃł��傤�B<BR>&gt;�a����<BR>�s���c�b�R�~���ǂ����E�E�E�l���Ă܂���ł���(��)�B<BR>�����Ă��珉�߂ċC�����܂����B<BR>���̃t�H���[�́E�E�E������E�E�E�ł���̂��낤���B<BR>�Ƃ肠�����A�W�b�𓊍e����̂ł���Ŋ��ق��Ă��������B<BR><BR>&gt;starbow�l<BR>�m�F���܂����B<BR>����starbow�l�ɂ͂����b�ɂȂ��Ă܂��B���܂薳�����Ȃ���Ȃ��ł��������ˁB�ق�ƂɁE�E�E
+&gt;地駆鴉様<BR>あれだけ盛り込まないと一本の話にしては短すぎてしまうので。<BR>というか、ひとつのネタで書ききる腕がないからとも言えますが。(~-~A)<BR>ほのぼのしていただけましたか。そういってもらえると助かります。<BR>でも今後こういうのはないかも・・・。(?)<BR><BR>&gt;七斬様<BR>まとめて読んだのですか。お疲れさまでした。<BR>・・・なかなかレスに困る感想ですね（笑）。ツッコミ所が難しいというか・・・ＧＦＦのウイングカスタムですが、完全変形で３，６８０エンだそうです。試作品見ましたが、とってもいい出来でした。<BR>霞も満足していることでしょう。<BR>&gt;誕生日<BR>鋭いツッコミをどうも・・・考えてませんでした(汗)。<BR>言われてから初めて気がつきました。<BR>このフォローは・・・いずれ・・・できるのだろうか。<BR>とりあえず、８話を投稿するのでそれで勘弁してください。<BR><BR>&gt;starbow様<BR>確認しました。<BR>いつもstarbow様にはお世話になってます。あまり無理をなさらないでくださいね。ほんとに・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��W�b������ɂ͂������N���b�N�B</strong>  <i>2002/01/04 14:27:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>第８話を見るにはここをクリック。</strong>  <i>2002/01/04 14:27:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010122033xffeam&id2=1006829568qljghy&ff=p">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010122033xffeam_id2_1006829568qljghy_ff_p.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z��̐����͂��Ă����c�c���݂����A��̑O�̐t�h���}�݂��������A����B
+【推薦文】謎の生物はさておき……きみたち、一昔前の青春ドラマみたいだぞ、それ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200111/03091515/revagaigar08.htm" target="_blank">��W�b������ɂ͂������N���b�N�B</a></strong>  <i>2002/01/04 14:30:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200111/03091515/revagaigar08.htm" target="_blank">第８話を見るにはここをクリック。</a></strong>  <i>2002/01/04 14:30:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010122210fvgoext&id2=1006829568qljghy&ff=p">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010122210fvgoext_id2_1006829568qljghy_ff_p.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����܂���A���s���܂����B��������N���b�N���Ă��������B
+　すいません、失敗しました。こちらをクリックしてください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2002/01/04 17:36:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐたん</strong>  <i>2002/01/04 17:36:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010133403idvkj&id2=1006829568qljghy&ff=p">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010133403idvkj_id2_1006829568qljghy_ff_p.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾓ǂ�<BR><BR>����́u�܂��邳��v�l�^�ł����˂��E�E�E�E�E<BR>�Ƃ肠�������̂����uCC������v�l�^�Ƃ��ǂ�ł݂����̂��B<BR><BR>�ȁ[��āA�����I���z���ł����B�i���j<BR>
+読んだ読んだ<BR><BR>今回は「まさるさん」ネタでしたねえ・・・・・<BR>とりあえずそのうち「CCさくら」ネタとか読んでみたいのぉ。<BR><BR>なーんて、反則的感想文でした。（爆）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">�n����</a></strong>  <i>2002/01/04 17:37:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m.s@circus.ocn.ne.jp" target="_blank">地駆鴉</a></strong>  <i>2002/01/04 17:37:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010133475ihdyxr&id2=1006829568qljghy&ff=p">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010133475ihdyxr_id2_1006829568qljghy_ff_p.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ԉ�a���c�c�Ȃ�ăg�Z�p���ȂЂƁc�c�i�΁j�B<BR>�{��Ƃ݂�Ȃ�����ɏo�邮�炢�����s�r�������ĂȂ񂩗ǂ��ł��ˁi���j�B<BR>����̓p���f�B�I���l�^�����������ł��ˁB���܂茳�l�^�͂킩��܂���ł������A�ʔ��������ł��B<BR>���Ƀ��Q���o�ė��܂������A����\�������Ă݂�Ɖ�����g�����肻���ŁA���񂪊y���݂ł��B
+赤井彗星……なんてト〇パンなひと……（笑）。<BR>怒るとみんなが下手に出るぐらい恐いＴＳっ娘ってなんか良いですね（爆）。<BR>今回はパロディ的小ネタが多かったですね。あまり元ネタはわかりませんでしたが、面白かったです。<BR>ついにモゲも出て来ましたし、次回予告を見てみると何か一波乱ありそうで、次回が楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/04 18:09:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/04 18:09:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010135366gfiab&id2=1006829568qljghy&ff=p">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010135366gfiab_id2_1006829568qljghy_ff_p.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�Ԉ�a���炵���A�u�V�₾���炳�v�Ƃ��������Ǝv���Ă��̂Ɂi���j<BR>�܂�������B�ʔ�����������i�΁j�B<BR>���K���v�����Ƃo�f<BR>�N����l��������ł��ʔ������ȁi�΁j<BR><BR>���o�f�E�l���|II<BR>�����v�X�ɔ����J���āA�E�r��g�݂܂����i�΁j�B
+読んだバイ♪<BR>赤井彗星らしく、「坊やだからさ」とか言うかと思ってたのに（爆）<BR>まあいいや。面白かったから（笑）。<BR>＞ガンプラ部とＰＧ<BR>誰か一人持ち込んでも面白いかな（笑）<BR><BR>＞ＰＧ・Ｍｋ－II<BR>今日久々に箱を開けて、右腕を組みました（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2002/01/05 11:24:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2002/01/05 11:24:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010197481bpwjnk&id2=1006829568qljghy&ff=p">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010197481bpwjnk_id2_1006829568qljghy_ff_p.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��B<BR><BR>&gt;��������l<BR>�b�b��������l�^�ł����B�Ȃ�Ƃ��Ȃ邩�ȁH�A�j���𕜏K���Ă���΂��Ă݂܂��B���܂���҂͂��Ȃ��悤�ɁE�E�E�B<BR><BR>&gt;�n����l<BR>�����ł��A�Ԃ��l�̓g���p���L�����ł����B<BR>���̃L�����ł͖{���̐Ԃ��a�����͋΂܂�܂���ˁB<BR>����E�E�E���`��A������x���e�`�F�b�N���Ȃ��Ƃ����Ȃ������B������ƕs���ł��B<BR><BR>&gt;mk8426�l<BR>�E�r�ł��܂������B(��)����͂Ƃ������B<BR>�V���A�I�ȃZ���t�Ƃ��͑��̃L�������g����������܂���ˁB<BR><BR>�Ӂ[�B���낻��w���̃j�b�J�h�d�r���؂�Ă��܂����B<BR>�[�d�̍������ȁH����ł́B<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+感想ありがとうございます。<BR><BR>&gt;もぐたん様<BR>ＣＣさくたんネタですか。なんとかなるかな？アニメを復習してがんばってみます。あまり期待はしないように・・・。<BR><BR>&gt;地駆鴉様<BR>そうです、赤い人はトレパンキャラでした。<BR>あのキャラでは本物の赤い彗星役は勤まりませんね。<BR>次回・・・う～ん、もう一度内容チェックしないといけないかも。ちょっと不安です。<BR><BR>&gt;mk8426様<BR>右腕できましたか。(笑)それはともかく。<BR>シャア的なセリフとかは他のキャラが使うかもしれませんね。<BR><BR>ふー。そろそろ背中のニッカド電池が切れてきました。<BR>充電の頃合かな？それでは。<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2002/01/06 02:20:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2002/01/06 02:20:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010251219snaumk&id2=1006829568qljghy&ff=p">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010251219snaumk_id2_1006829568qljghy_ff_p.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��W�b�A�ǂ݂܂����B<BR>�悤����Ƃ��̎ʐ^�������������݂����ŁA���͂Ƃ�����ق��Ƃ��܂����B���̎q�i�ꉞ�j�̒p���������ʐ^���l�^�ɋ����A�Ƃ�����肩���ɂ͂ǂ����Ă���������������𓾂Ȃ������̂ŁA���x�̂��Ƃŏ������̂������Ƃꂽ�v���ł��B�������ɂ��������āA�����n���ɗ����āA�ߎS�Ȏ��ɂ����i���E�j���鏗�������Ȃ��炸���邭�炢�ł�����c<BR>���̂�������Â��b��ł����܂���c�B<BR><BR>�c�C����蒼����<BR>�Ԉ�a���c�V���A�X�Ńj�q�����������L�����Ƃ́A�����炭��������Ă܂��ˁ[�i�΁j�搶���������h�ȃK���v���𑢂�Ώ����͌�������邩�ȁH<BR>�u���E���E���E���E�܁v�i�΁j�c�ꂿ���A���������Ăǂ����̂s�r���ł������̂ł��傤���B<BR>���̎��o����L�c�A�����~�e�b�h�̃|�V�F�|�P��A�z���܂����B���͉̂��Ȃ̂ł��傤�H�H<BR><BR>�Ȃ񂾂��o��l���������Ă����̂ŁA������Ɣc���ł��Ȃ��Ȃ��Ă܂��B�ǂ����œo��l���Љ������Ē�����΁A���肪�����̂ł����c
+第８話、読みました。<BR>ようやっとあの写真問題も解決したみたいで、何はともあれほっとしました。女の子（一応）の恥ずかしい写真をネタに脅す、というやりかたにはどうしても反感を持たざるを得なかったので、今度のことで少し胸のつかえがとれた思いです。＊現実にそれをやられて、生き地獄に落ちて、悲惨な死にかた（自殺）する女性も少なからず居るくらいですから…<BR>※のっけから暗い話題ですいません…。<BR><BR>…気を取り直して<BR>赤井彗星…シリアスでニヒルだった元キャラとは、えっらくかけ離れてますねー（笑）先生も何か立派なガンプラを造れば少しは見直されるかな？<BR>「お・じ・い・さ・ま」（笑）…爺ちゃん、もしかしてどこかのＴＳ物でも見たのでしょうか。<BR>物の取り出せる猫…アンリミテッドのポシェポケを連想しました。正体は何なのでしょう？？<BR><BR>なんだか登場人物が増えてきたので、ちょっと把握できなくなってます。どこかで登場人物紹介等をやって頂ければ、ありがたいのですが…
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2002/01/08 03:13:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2002/01/08 03:13:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010427226njxine&id2=1006829568qljghy&ff=p">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010427226njxine_id2_1006829568qljghy_ff_p.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��W�b�z<BR>�ǂ݂܂����B<BR>��������Ă��ז��ɂ����Ȃ�ʂƂ�B<BR>�߂����قǂɃE�U�C�ł��ȁB�Ԉ䐅���B�i����<BR>���A�Ă�����G�L�����Ƃ��ēo�ꂷ��̂��Ǝv�����̂ł����B<BR>
+【第８話】<BR>読みました。<BR>何をやっても邪魔にしかならぬとわ。<BR>悲しいほどにウザイですな。赤井水性。（ちが<BR>つか、てっきり敵キャラとして登場するのかと思ったのですが。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2002/01/09 11:08:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2002/01/09 11:08:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010542099vbjhg&id2=1006829568qljghy&ff=p">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010542099vbjhg_id2_1006829568qljghy_ff_p.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;��ܗl<BR>�o��l���Љ�ł����B�m���ɃL���������Ă��܂����ˁB<BR>�܂��A���C���͌����Ă���Ƃ͎v���܂����E�E�E���`��ꉞ�l���Ă����܂��B<BR><BR>&gt;���a�l<BR>�G�Ƃ��āA������l�̃J�b�R�C�C�Ԃ��a�����o�����Ă����̂������ł��ˁB����ŃA�J�p���ƃK���v���Ό��Ƃ��B<BR><BR>�Ƃ����킯�ŁA���z���肪�Ƃ��������܂����B
+&gt;らま様<BR>登場人物紹介ですか。確かにキャラ増えてきましたね。<BR>まあ、メインは限られてくるとは思いますが・・・う～ん一応考えておきます。<BR><BR>&gt;七斬様<BR>敵として、もう一人のカッコイイ赤い彗星を出すっていうのもいいですね。それでアカパンとガンプラ対決とか。<BR><BR>というわけで、感想ありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2002/01/10 07:09:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2002/01/10 07:09:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010614152avmuvh&id2=1006829568qljghy&ff=p">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010614152avmuvh_id2_1006829568qljghy_ff_p.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��W�b�z<BR>�f���h���r�E������̍�i�͌��邽�тɂ������낭�Ȃ��Ă����Ȃ��Ǝv���܂����B����ɂ��Ă��K�E�Z����K�������čl���鐳�`�̖����ꓯ�A�Ȃ񂾂�����I�ŏ΂��܂����B����ł͎�����撣���Ă��������B<BR>
+【第８話】<BR>デンドロビウムさんの作品は見るたびにおもしろくなっていくなあと思いました。それにしても必殺技名を必死こいて考える正義の味方一同、なんだか日常的で笑えました。それでは次回も頑張ってください。<BR>
 </td></tr>
 </table></a><br>
 

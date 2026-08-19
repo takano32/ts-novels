@@ -1,122 +1,122 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=954445873qybmdu&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_954445873qybmdu_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�l�����m�N�j</font><br>
+<font size="+2" color="#0000FF">ネムリノクニ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/dream_land.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/03/31 04:51:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/dream_land.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/03/31 04:51:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954445873qybmdu&id2=954445873qybmdu&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954445873qybmdu_id2_954445873qybmdu_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@���傶��Ɍ������񌻎��ɐI�܂�Ă������͋C���������ł��B���͂̂���X�g�[���[�e�����O�ł��ˁB�u���v�̕ϖe�Ƃ����A���҂����ɋC�ɂȂ�܂��B
+【推薦文】　じょじょに現実が非現実に蝕まれていく雰囲気がすごいです。迫力のあるストーリーテリングですね。「私」の変貌といい、続編が非常に気になります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�[��</strong>  <i>2000/03/31 22:08:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>骸骨</strong>  <i>2000/03/31 22:08:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954508133qeyod&id2=954445873qybmdu&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954508133qeyod_id2_954445873qybmdu_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��΂ɐ�΂ɑ��҂������Ă���B<BR>�ĂȂǌ��킸�ɂ����ɂ��ǂ݂����B<BR>�{���ɖʔ��������Ȃ̂ŁA���ЂƂ����肢����B<BR>����ɂ��Ă��A���ꂾ���K�b�c�̂����i�͌������B<BR>�{���Ɋy���݂ɂ��Ă�̂ŁA����΂��đ����������Ă���B<BR>����ł́A���̕ӂŁB
+絶対に絶対に続編を書いてくれ。<BR>夏など言わずにすぐにも読みたい。<BR>本当に面白い小説なので、ぜひともお願いする。<BR>それにしても、これだけガッツのある作品は見事だ。<BR>本当に楽しみにしてるので、がんばって続きを書いてくれ。<BR>それでは、この辺で。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�ۂ�</a></strong>  <i>2000/03/31 22:49:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">ぽぽ</a></strong>  <i>2000/03/31 22:49:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954510597tknqhc&id2=954445873qybmdu&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954510597tknqhc_id2_954445873qybmdu_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����̌����ƁA�񌻎��Ƃ��I�[�o�[���b�v���āA<BR>�����Ă����B<BR>���̐�A����N���ǂ��Ȃ��Ă��������ƂĂ��y���݂ł��B<BR>�����������ǂ݂����ł��ˁB<BR>
+日常の現実と、非現実とがオーバーラップして、<BR>こわれていく。<BR>この先、健一君がどうなっていくかがとても楽しみです。<BR>早く続きが読みたいですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ӂ�</strong>  <i>2000/04/02 00:17:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>つぐふみ</strong>  <i>2000/04/02 00:17:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954602246aljcsus&id2=954445873qybmdu&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954602246aljcsus_id2_954445873qybmdu_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӂ��A���͋C�ǂ��Ĉ������܂�܂����A<BR>���˖��΁I�ł��A<BR>�s�r�`�ʂ���i�S�̂ƗZ�����Ęa�ݖG���ł����A<BR>�s�r�������Ǝv����T�u�L�����̍s����<BR>�y���݂ł��A
+ふぁ、雰囲気良くて引き込まれました、<BR>煙突万歳！です、<BR>ＴＳ描写も作品全体と融合して和み萌えでした、<BR>ＴＳ化したと思われるサブキャラの行方が<BR>楽しみです、
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�^��@�I</a></strong>  <i>2000/04/02 04:07:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">真城　悠</a></strong>  <i>2000/04/02 04:07:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954616052gntwh&id2=954445873qybmdu&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954616052gntwh_id2_954445873qybmdu_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���A���������̎ア��ł��E�E�E�B�����A���������ς܂�ł��Ƃ��B������i�̗l�ȉ����Ԃ��ꂻ���Ȃǂ��������́E�E�E<BR>�@�f�r�b�h�E�����`�i���A���}���E�|�����X�L�[�j�ēŉf������]�B
+　私、こういうの弱いんです・・・。いえ、もうずっぱまりですとも。押井守作品の様な押しつぶされそうなどす黒い迫力・・・<BR>　デビッド・リンチ（か、ロマン・ポランスキー）監督で映像化希望。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>MATSU</strong>  <i>2000/04/03 04:22:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954703352ikohw&id2=954445873qybmdu&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954703352ikohw_id2_954445873qybmdu_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ʔ����ł��B�Ȃ�Ƃ������Ȃ����͂���o�镵�͋C���B<BR>���ƁA�񐶏b�ȂƂ�����B
+　面白いです。なんともいえない文章から出る雰囲気が。<BR>あと、寄生獣なところも。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>2000/04/03 21:53:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>こぎと</strong>  <i>2000/04/03 21:53:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954766434ewauax&id2=954445873qybmdu&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954766434ewauax_id2_954445873qybmdu_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ɩʔ��������ł��B<BR>�v�X�Ɉ������ށA�^�C�v�̍�i��ǂ߂āA�����}���]�N<BR><BR>�ł͍Ō�ɁI<BR>[����������`���I]<BR>�S�����i�T�Cm(-_-)m
+えっと面白かったです。<BR>久々に引き込む、タイプの作品を読めて、満足マンゾク<BR><BR>では最後に！<BR>[字ちっちゃ～い！]<BR>ゴメンナサイm(-_-)m
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:norisiro2@hotmail.com" target="_blank">�m���V���Q</a></strong>  <i>2000/04/05 17:00:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:norisiro2@hotmail.com" target="_blank">ノリシロ２</a></strong>  <i>2000/04/05 17:00:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954921647sclwmqu&id2=954445873qybmdu&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954921647sclwmqu_id2_954445873qybmdu_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����ɂ��́A�m���V���Q�ł��B<BR>���낢��Ɗ��z���񂹂��Ă���悤�ŁA��҂Ƃ��Ă͊��ӊ����ł��B���҂ւ̗͂��ӂӂƗN���Ă��܂��B<BR><BR>�@Yays����<BR><BR>�����傶��Ɍ������񌻎��ɐI�܂�Ă������͋C���������ł��B<BR><BR>�@�����͑_���ď����Ă܂��B<BR>�@���������Ē������̂Ȃ炵�߂��߂ł��B<BR><BR>�@�[������<BR>�@<BR>����΂ɐ�΂ɑ��҂������Ă���B<BR>���ĂȂǌ��킸�ɂ����ɂ��ǂ݂����B�@<BR><BR>�@���������͂̂��銴�z���肪�Ƃ��������܂��B<BR>�@���҂͏����\��ł��B<BR>�@�ł��A����ς�Ă��炢�ɂȂ��Ă��܂��Ǝv���܂��B<BR>�@���݁A�A�E�������ɂ����Ԃ��Ƃ�Ȃ��̂��l�b�N�ł��ˁB<BR>�@�Ăɂ͏������͂ł��Ă���Ǝv���̂ŁB<BR><BR><BR>�@�ڂڂ���<BR><BR>�����̐�A����N���ǂ��Ȃ��Ă��������ƂĂ��y���݂ł��B<BR><BR>�@�ނ͂ǂ��Ȃ��Ă��܂��̂��H<BR>�@����͎�����ł��B�փb�փb�ցB<BR>�@�݂Ȃ���̊��҂͗��؂�܂���B<BR><BR>�@ ���ӂ݂���<BR><BR>�����˖��΁I�ł��A<BR><BR>�@���͎��͉��˃}�j�A�������肵�܂��B<BR>�@�K���̉��˂�����Ƃނ��傤�ɓo�肽���Ȃ�܂��B<BR>�@���˃N���u�ł���肽�����炢�ł��B<BR>�@���˂̎ʐ^���B���ďW�߂�܂ł͂����Ă��܂��񂯂ǁB<BR>�@<BR>&gt;�s�r�������Ǝv����T�u�L�����̍s��<BR><BR>�ނ̍s���͂��ꂩ�炢�낢��Ȏ����Ɨ���ōs���\��ł��B<BR>�@���y���݂ɁB<BR><BR>�@�^��I����<BR><BR>��������i�̗l�ȉ����Ԃ��ꂻ���Ȃǂ��������́E�E�E<BR><BR>�@���܂���������̂��A���͂������ƂȂɂ�烂�A���A�Ɣw�ォ��ǂ������ł������Ă��܂��B���ꂪ���͂���R��Ă���̂����B<BR><BR>���f�r�b�h�E�����`�i���A���}���E�|�����X�L�[�j�ēŉf������]�B <BR><BR>�@�e�B���o�[�g���Ȃ񂩂��ǂ���������܂��񂪁A�f���ɕ����邾�낤�Ȃ��B<BR><BR>�@MATSU����<BR><BR>�����ƁA�񐶏b�ȂƂ�����B<BR><BR>�@�w����x�̕��͂͂��̂Ƃ���񐶏b�̃p�N���ł��B<BR>�@���̃}���K��D���Ȃ�ł���ˁB<BR>�@���̂��˂����B<BR>�@���̕��͂����Ȃ肢�낢��ȂƂ��납��p�N���Ă��܂��B<BR>�@ �@<BR>�@�����Ƃ���@<BR><BR>&gt;�v�X�Ɉ������ށA�^�C�v�̍�i��ǂ߂āA�����}���]�N<BR>�@<BR>�@�������Ă��������Ċ������ł��B<BR>�@�}�N�h�̃o�����[�Z�b�gLL�T�C�Y���炢�̏d�ʂ�ڎw���Ă���܂��B���x�͋g�쉮�̓�����ڎw�����B<BR><BR><BR>���ł͍Ō�ɁI<BR>��[����������`���I]<BR>���S�����i�T�Cm(-_-)m <BR>�@<BR>�@���������A�����炱�����߂�Ȃ����B<BR>�@���̃T�C�Y�͌��ɂ����͕̂����Ă����̂ł����A<BR>�@�����Ă��������T�C�Y�ōڂ��Ă��������܂����B<BR>�@峂��͂��Ă���悤�Ȋ����Ɏ���������悤�ɁA<BR>�@�z�u���Ă�����A���͂ƕ��͂̉��s���Ȃ�������A<BR>�@���܂��܂ȕ��@�Ŏ��ȊO�̌��ʂ��o�������Ǝv���܂��āB
+　こんにちは、ノリシロ２です。<BR>いろいろと感想を寄せられているようで、作者としては感謝感激です。続編への力がふつふつと湧いてきます。<BR><BR>　Yaysさん<BR><BR>＞じょじょに現実が非現実に蝕まれていく雰囲気がすごいです。<BR><BR>　ここは狙って書いてます。<BR>　そう感じて頂けたのならしめしめです。<BR><BR>　骸骨さん<BR>　<BR>＞絶対に絶対に続編を書いてくれ。<BR>＞夏など言わずにすぐにも読みたい。　<BR><BR>　すごく迫力のある感想ありがとうございます。<BR>　続編は書く予定です。<BR>　でも、やっぱり夏ぐらいになってしまうと思います。<BR>　現在、就職活動中につき時間がとれないのがネックですね。<BR>　夏には書く環境はできていると思うので。<BR><BR><BR>　ぼぼさん<BR><BR>＞この先、健一君がどうなっていくかがとても楽しみです。<BR><BR>　彼はどうなってしまうのか？<BR>　それは私次第です。へッへッへ。<BR>　みなさんの期待は裏切りません。<BR><BR>　 つぐふみさん<BR><BR>＞煙突万歳！です、<BR><BR>　実は私は煙突マニアだったりします。<BR>　銭湯の煙突を見るとむしょうに登りたくなります。<BR>　煙突クラブでも作りたいぐらいです。<BR>　煙突の写真を撮って集めるまではいっていませんけど。<BR>　<BR>&gt;ＴＳ化したと思われるサブキャラの行方<BR><BR>彼の行方はこれからいろいろな事件と絡んで行く予定です。<BR>　お楽しみに。<BR><BR>　真城悠さん<BR><BR>＞押井守作品の様な押しつぶされそうなどす黒い迫力・・・<BR><BR>　生まれつき腹黒いのか、文章を書くとなにやらモアモアと背後からどす黒い闇が迫ってきます。それが文章から漏れているのかも。<BR><BR>＞デビッド・リンチ（か、ロマン・ポランスキー）監督で映像化希望。 <BR><BR>　ティムバートンなんかも良いかもしれませんが、映像に負けるだろうなあ。<BR><BR>　MATSUさん<BR><BR>＞あと、寄生獣なところも。<BR><BR>　『混種』の文章はそのとおり寄生獣のパクリです。<BR>　あのマンガ大好きなんですよね。<BR>　肉のうねり具合が。<BR>　他の文章もかなりいろいろなところからパクっています。<BR>　 　<BR>　こぎとさん　<BR><BR>&gt;久々に引き込む、タイプの作品を読めて、満足マンゾク<BR>　<BR>　満足していただいて嬉しいです。<BR>　マクドのバリューセットLLサイズぐらいの重量を目指しております。今度は吉野屋の特盛を目指そう。<BR><BR><BR>＞では最後に！<BR>＞[字ちっちゃ～い！]<BR>＞ゴメンナサイm(-_-)m <BR>　<BR>　いえいえ、こちらこそごめんなさい。<BR>　字のサイズは見にくいのは分っていたのですが、<BR>　敢えてああいうサイズで載せていただきました。<BR>　蟲がはっているような感じに字が見えるように、<BR>　配置していたり、文章と文章の改行がなかったり、<BR>　さまざまな方法で字以外の効果を出そうかと思いまして。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="954445873qybmdu">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

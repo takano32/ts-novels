@@ -1,120 +1,120 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>ѓIѓ“ѓ‰ѓCѓ“Ќм•i#2/Ћ„‚МѓIѓXѓXѓЃ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>г‚Єгѓігѓ©г‚¤гѓідЅње“Ѓ#2/з§ЃгЃ®г‚Єг‚№г‚№гѓЎ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=957060740wfbokd&ff=p&ca=r">ЌЕђV‚МЏо•с‚ЙЌXђV</a>] 
+[<a href="noteky@c_noteread_f_11_id_957060740wfbokd_ff_p_ca_r.cgi">жњЂж–°гЃ®жѓ…е ±гЃ«ж›ґж–°</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">ђVЏtѓTЃ[ѓrѓXЃEЉ®‘S”Е</font><br>
+<font size="+2" color="#0000FF">ж–°жҐг‚µгѓјгѓ“г‚№гѓ»е®Ње…Ёз‰€</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/mashiro/new_year/AHujouri01.0.htm" target="_blank">Ќм•i‚рЊ©‚й‚Й‚Н‚±‚±‚рѓNѓЉѓbѓN</a></strong>  <i>2000/04/30 11:12:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/mashiro/new_year/AHujouri01.0.htm" target="_blank">дЅње“Ѓг‚’и¦‹г‚‹гЃ«гЃЇгЃ“гЃ“г‚’г‚ЇгѓЄгѓѓг‚Ї</a></strong>  <i>2000/04/30 11:12:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957060740wfbokd&id2=957060740wfbokd&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957060740wfbokd_id2_957060740wfbokd_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Ѓyђ„‘E•¶Ѓz ‚Ж‚и‚ ‚¦‚ёЃA•KЊ©‚Е‚·ЃBѓeѓLѓXѓg‚ЖЉG‚М€к‘МЉґ‚Й‚©‚Ї‚Д‚НЃA“–•¶ЊЙ‚Е‚Щ‚©‚Й—б‚рЊ©‚И‚ў‚­‚з‚ў‚Е‚·ЃB€И‘O‚МѓeѓLѓXѓgѓIѓ“ѓЉЃ[”Е‚рЊ©‚Ѕ‚±‚Ж‚Є‚ ‚йђl‚а‚И‚ўђl‚аЃA—vѓ`ѓFѓbѓNЃIЃ@Ћ„‚аЃAЃuЋ‹ЉoЊш‰КЃv‚М‘еђШ‚і‚рЌД”FЋЇ‚і‚№‚з‚к‚Ь‚µ‚ЅЃB
+гЂђжЋЁи–¦ж–‡гЂ‘ гЃЁг‚ЉгЃ‚гЃ€гЃљгЂЃеї…и¦‹гЃ§гЃ™гЂ‚гѓ†г‚­г‚№гѓ€гЃЁзµµгЃ®дёЂдЅ“ж„џгЃ«гЃ‹гЃ‘гЃ¦гЃЇгЂЃеЅ“ж–‡еє«гЃ§гЃ»гЃ‹гЃ«дѕ‹г‚’и¦‹гЃЄгЃ„гЃЏг‚‰гЃ„гЃ§гЃ™гЂ‚д»Ґе‰ЌгЃ®гѓ†г‚­г‚№гѓ€г‚ЄгѓігѓЄгѓјз‰€г‚’и¦‹гЃџгЃ“гЃЁгЃЊгЃ‚г‚‹дєєг‚‚гЃЄгЃ„дєєг‚‚гЂЃи¦ЃгѓЃг‚§гѓѓг‚ЇпјЃгЂЂз§Ѓг‚‚гЂЃгЂЊи¦–и¦љеЉ№жћњгЂЌгЃ®е¤§е€‡гЃ•г‚’е†ЌиЄЌи­гЃ•гЃ›г‚‰г‚ЊгЃѕгЃ—гЃџгЂ‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ђ…’JЏH•v</strong>  <i>2000/04/30 17:29:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ж°ґи°·з§‹е¤«</strong>  <i>2000/04/30 17:29:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957083346obcbva&id2=957060740wfbokd&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957083346obcbva_id2_957060740wfbokd_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚¤‚н‚џЃ[ЃA‚±‚к‚Нђ¦‚ў‚Е‚·‚ЛЃB<BR>‚а‚¤Љґ“®‚а‚М‚Е‚·ЃBЉб‚Є‚¤‚й‚¤‚й‚µ‚Д‚«‚Ь‚µ‚ЅЃB
+гЃ†г‚ЏгЃЃгѓјгЂЃгЃ“г‚ЊгЃЇе‡„гЃ„гЃ§гЃ™гЃ­гЂ‚<BR>г‚‚гЃ†ж„џе‹•г‚‚гЃ®гЃ§гЃ™гЂ‚зњјгЃЊгЃ†г‚‹гЃ†г‚‹гЃ—гЃ¦гЃЌгЃѕгЃ—гЃџгЂ‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">ђ^ЏйЃ@—I</a></strong>  <i>2000/04/30 18:51:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">зњџеџЋгЂЂж‚ </a></strong>  <i>2000/04/30 18:51:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957088283bsyra&id2=957060740wfbokd&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957088283bsyra_id2_957060740wfbokd_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Ѓ@ђ…’J‚і‚сЃA—L“п‚¤‚І‚ґ‚ў‚Ь‚·ЃBвь—]‹ИђЬ‚ ‚и‚Ь‚µ‚ДЃAђ‹‚ЙЊfЌЪ‚М‰^‚С‚Ж‚И‚и‚Ь‚µ‚ЅЃB<BR>Ѓ@Њ»Ћћ“_‚Е‚Нђ^Џй‚МЌl‚¦‚йѓrѓWѓ…ѓAѓ‹ѓCѓЃЃ[ѓW‚ЙЌЕ‚а‹Я‚ўЌм•i‚ѕ‚ЖЋv‚ў‚Ь‚·ЃB‚Ж‚Й‚©‚­‚Э‚й‚­‚і‚с‚Й‚НЉґЋУЃBЉґЋУЃB<BR>Ѓ@‚а‚µ‚аЃA‚Э‚й‚­‚і‚с‚Й‚ж‚й‚±‚МѓoѓjЃ[ѓCѓ‰ѓXѓg‚рЏ‰Њ©‚М•ы‚Є‚ў‚з‚Б‚µ‚б‚ў‚Ь‚µ‚Ѕ‚зЌK‰^‚ИЃuѓtѓ@Ѓ[ѓXѓgѓCѓ“ѓvѓЊѓbѓVѓ‡ѓ“Ѓv‚р‚ЁЉy‚µ‚Э‰є‚і‚ўЃB
+гЂЂж°ґи°·гЃ•г‚“гЂЃжњ‰й›ЈгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚зґ†дЅ™ж›ІжЉгЃ‚г‚ЉгЃѕгЃ—гЃ¦гЂЃйЃ‚гЃ«жЋІиј‰гЃ®йЃ‹гЃігЃЁгЃЄг‚ЉгЃѕгЃ—гЃџгЂ‚<BR>гЂЂзЏѕж™‚з‚№гЃ§гЃЇзњџеџЋгЃ®иЂѓгЃ€г‚‹гѓ“г‚ёгѓҐг‚ўгѓ«г‚¤гѓЎгѓјг‚ёгЃ«жњЂг‚‚иї‘гЃ„дЅње“ЃгЃ гЃЁжЂќгЃ„гЃѕгЃ™гЂ‚гЃЁгЃ«гЃ‹гЃЏгЃїг‚‹гЃЏгЃ•г‚“гЃ«гЃЇж„џи¬ќгЂ‚ж„џи¬ќгЂ‚<BR>гЂЂг‚‚гЃ—г‚‚гЂЃгЃїг‚‹гЃЏгЃ•г‚“гЃ«г‚€г‚‹гЃ“гЃ®гѓђгѓ‹гѓјг‚¤гѓ©г‚№гѓ€г‚’е€ќи¦‹гЃ®ж–№гЃЊгЃ„г‚‰гЃЈгЃ—г‚ѓгЃ„гЃѕгЃ—гЃџг‚‰е№ёйЃ‹гЃЄгЂЊгѓ•г‚Ўгѓјг‚№гѓ€г‚¤гѓігѓ—гѓ¬гѓѓг‚·гѓ§гѓігЂЌг‚’гЃЉжҐЅгЃ—гЃїдё‹гЃ•гЃ„гЂ‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mx5.nisiq.net" target="_blank">ѓSЃ[ѓ‹ѓhѓAЃ[ѓЂ</a></strong>  <i>2000/04/30 20:43:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mx5.nisiq.net" target="_blank">г‚ґгѓјгѓ«гѓ‰г‚ўгѓјгѓ </a></strong>  <i>2000/04/30 20:43:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957094991rcbfo&id2=957060740wfbokd&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957094991rcbfo_id2_957060740wfbokd_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚±ЃA‚±‚к‚Н‘fђ°‚з‚µ‚ўЃB<BR>‚g‚o‚И‚з‚Е‚Н‚МЊ©‚№•ы‚Е‚·‚ЛЃ[ЃB<BR>‚ЁЊ©Ћ–ЃI<BR>ѓVѓ‡Ѓ[ѓgѓhѓ‰ѓ}ЃAЉ¬”\‚і‚№‚Д‚ў‚Ѕ‚ѕ‚«‚Ь‚µ‚ЅЃB
+гЃ“гЂЃгЃ“г‚ЊгЃЇзґ ж™ґг‚‰гЃ—гЃ„гЂ‚<BR>пјЁпј°гЃЄг‚‰гЃ§гЃЇгЃ®и¦‹гЃ›ж–№гЃ§гЃ™гЃ­гѓјгЂ‚<BR>гЃЉи¦‹дє‹пјЃ<BR>г‚·гѓ§гѓјгѓ€гѓ‰гѓ©гѓћгЂЃе ЄиѓЅгЃ•гЃ›гЃ¦гЃ„гЃџгЃ гЃЌгЃѕгЃ—гЃџгЂ‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">‚з‚сЃE‚Н‚с</a></strong>  <i>2000/04/30 23:01:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">г‚‰г‚“гѓ»гЃЇг‚“</a></strong>  <i>2000/04/30 23:01:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957103309hvrmv&id2=957060740wfbokd&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957103309hvrmv_id2_957060740wfbokd_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Љґ“®‚µ‚Ь‚µ‚ЅЃB<BR>‚±‚с‚ИЋи–@‚Є‚ ‚Б‚Ѕ‚Ж‚НЃB<BR>ѓVѓ“ѓvѓ‹‚Е”ь‚µ‚ўЃB<BR>•¶ЏН‚ЖѓCѓ‰ѓXѓg‚Мѓoѓ‰ѓ“ѓX‚аЊ©Ћ–‚Е‚·ЃB
+ж„џе‹•гЃ—гЃѕгЃ—гЃџгЂ‚<BR>гЃ“г‚“гЃЄж‰‹жі•гЃЊгЃ‚гЃЈгЃџгЃЁгЃЇгЂ‚<BR>г‚·гѓігѓ—гѓ«гЃ§зѕЋгЃ—гЃ„гЂ‚<BR>ж–‡з« гЃЁг‚¤гѓ©г‚№гѓ€гЃ®гѓђгѓ©гѓіг‚№г‚‚и¦‹дє‹гЃ§гЃ™гЂ‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">ђ^ЏйЃ@—I</a></strong>  <i>2000/04/30 23:08:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">зњџеџЋгЂЂж‚ </a></strong>  <i>2000/04/30 23:08:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957103703gnvexft&id2=957060740wfbokd&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957103703gnvexft_id2_957060740wfbokd_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Ѓ@ѓSЃ[ѓ‹ѓhѓAЃ[ѓЂ‚і‚сЃA‚з‚сЃE‚Н‚с‚і‚с—L“п‚¤‚І‚ґ‚ў‚Ь‚·ЃB<BR>Ѓ@ЋА‚Н‘S‚Д‚МѓCѓ‰ѓXѓg‚НЌЕЊг‚Й“oЏк‚·‚й‚Ѕ‚Б‚Ѕ‚P–‡‚МѓCѓ‰ѓXѓg‚рѓgѓЉѓ~ѓ“ѓO‚µ‚ДЋg‚Б‚Д‚ў‚й‚с‚Е‚·‚жЃB<BR>Ѓ@–Ј—Н“I‚ИѓCѓ‰ѓXѓg‚Є‘тЋR‚М‚Э‚й‚­ђ№•P‚і‚с‚МWEBѓyЃ[ѓW‚Й‚ађҐ”с‚З‚¤‚јЃI
+гЂЂг‚ґгѓјгѓ«гѓ‰г‚ўгѓјгѓ гЃ•г‚“гЂЃг‚‰г‚“гѓ»гЃЇг‚“гЃ•г‚“жњ‰й›ЈгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚<BR>гЂЂе®џгЃЇе…ЁгЃ¦гЃ®г‚¤гѓ©г‚№гѓ€гЃЇжњЂеѕЊгЃ«з™»е ґгЃ™г‚‹гЃџгЃЈгЃџпј‘жћљгЃ®г‚¤гѓ©г‚№гѓ€г‚’гѓ€гѓЄгѓџгѓіг‚°гЃ—гЃ¦дЅїгЃЈгЃ¦гЃ„г‚‹г‚“гЃ§гЃ™г‚€гЂ‚<BR>гЂЂй­…еЉ›зљ„гЃЄг‚¤гѓ©г‚№гѓ€гЃЊжІўе±±гЃ®гЃїг‚‹гЃЏиЃ–е§«гЃ•г‚“гЃ®WEBгѓљгѓјг‚ёгЃ«г‚‚жЇйќћгЃ©гЃ†гЃћпјЃ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ѓWѓѓѓKЉЫ</strong>  <i>2000/05/01 01:30:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>г‚ёгѓЈг‚¬дёё</strong>  <i>2000/05/01 01:30:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957112251jlvft&id2=957060740wfbokd&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957112251jlvft_id2_957060740wfbokd_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚ў‚В‚а‚НROMѓIѓ“ѓЉЃ[‚ѕ‚Б‚Ѕ‚с‚Е‚·‚Є<BR>‚±‚МЌм•i‚Є‚ ‚Ь‚и‚Й‚ж‚©‚Б‚Ѕ‚М‚ЕЃA‚З‚¤‚µ‚Д‚аЉґ‘z‚ЄЊѕ‚ў‚Ѕ‚­‚Д<BR>“ЉЌe‚і‚№‚Д‚а‚з‚ў‚Ь‚µ‚ЅЃB<BR>‚Ж‚Д‚а‚ж‚©‚Б‚Ѕ‚Е‚·ЃB<BR>ђV‘N‚ЕЃAЋaђV‚ЕЃAѓVѓ“ѓvѓ‹‚ѕ‚Ї‚З‚·‚І‚­Њш‰К“I‚Е<BR>‚±‚с‚ИђШ‚иЊы‚Є‚ ‚Б‚Ѕ‚Ж‚НЃB<BR>Љ¬”\‚і‚№‚Д‚а‚з‚ў‚Ь‚µ‚ЅЃB
+гЃ„гЃ¤г‚‚гЃЇROMг‚ЄгѓігѓЄгѓјгЃ гЃЈгЃџг‚“гЃ§гЃ™гЃЊ<BR>гЃ“гЃ®дЅње“ЃгЃЊгЃ‚гЃѕг‚ЉгЃ«г‚€гЃ‹гЃЈгЃџгЃ®гЃ§гЂЃгЃ©гЃ†гЃ—гЃ¦г‚‚ж„џжѓігЃЊиЁЂгЃ„гЃџгЃЏгЃ¦<BR>жЉ•зЁїгЃ•гЃ›гЃ¦г‚‚г‚‰гЃ„гЃѕгЃ—гЃџгЂ‚<BR>гЃЁгЃ¦г‚‚г‚€гЃ‹гЃЈгЃџгЃ§гЃ™гЂ‚<BR>ж–°й®®гЃ§гЂЃж–¬ж–°гЃ§гЂЃг‚·гѓігѓ—гѓ«гЃ гЃ‘гЃ©гЃ™гЃ”гЃЏеЉ№жћњзљ„гЃ§<BR>гЃ“г‚“гЃЄе€‡г‚ЉеЏЈгЃЊгЃ‚гЃЈгЃџгЃЁгЃЇгЂ‚<BR>е ЄиѓЅгЃ•гЃ›гЃ¦г‚‚г‚‰гЃ„гЃѕгЃ—гЃџгЂ‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">Њґ“cђ№–з</a></strong>  <i>2000/05/01 06:10:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">еЋџз”°иЃ–д№џ</a></strong>  <i>2000/05/01 06:10:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957129025mepcjr&id2=957060740wfbokd&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957129025mepcjr_id2_957060740wfbokd_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-ђ¦‚ў‚Е‚·‚ЛЃ`ЃB<BR>ђ^Џй‚і‚с‚М•¶ЏН‚ЙЃA‚Э‚й‚­ђ№•P‚і‚с‚МѓCѓ‰ѓXѓgЃI<BR>‚»‚µ‚Дђф—ы‚і‚к‚ЅЊ©Ћ–‚ИЌ\ђ¬ЃI<BR>ЌЕ‹­ѓ^ѓbѓO‚М“oЏк‚ЙЃAЋџ‰сЌм‚рЉъ‘Т‚№‚ё‚Й‚Н‚ў‚з‚к‚Ь‚№‚сЃB<BR>
+е‡„гЃ„гЃ§гЃ™гЃ­пЅћгЂ‚<BR>зњџеџЋгЃ•г‚“гЃ®ж–‡з« гЃ«гЂЃгЃїг‚‹гЃЏиЃ–е§«гЃ•г‚“гЃ®г‚¤гѓ©г‚№гѓ€пјЃ<BR>гЃќгЃ—гЃ¦жґ—з·ґгЃ•г‚ЊгЃџи¦‹дє‹гЃЄж§‹ж€ђпјЃ<BR>жњЂеј·г‚їгѓѓг‚°гЃ®з™»е ґгЃ«гЂЃж¬Ўе›ћдЅњг‚’жњџеѕ…гЃ›гЃљгЃ«гЃЇгЃ„г‚‰г‚ЊгЃѕгЃ›г‚“гЂ‚<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ѓnЃ[ѓЌѓbѓN”Єђў</strong>  <i>2000/05/01 23:19:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>гѓЏгѓјгѓ­гѓѓг‚Їе…«дё–</strong>  <i>2000/05/01 23:19:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957190794fyfhk&id2=957060740wfbokd&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957190794fyfhk_id2_957060740wfbokd_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚·‚І‚­‚ж‚©‚Б‚ЅЃIЉG‚аЃA•¶‚аЃAЌ\ђ¬‚аЃA<BR>‚·‚Ч‚Д‚Є‚Ч‚Ґ‚и‚ў‚®‚Б‚ЗЃIЃI<BR>‹Я”N‚Ь‚к‚ЙЊ©‚йЊ†ЌмЃI<BR>ЉG—З‚µЃA•¶—З‚µЃA<BR>‚Ь‚і‚ЙЉGЋt‚ЖЌмЋТ‚Мђв–­‚ИѓRѓ“ѓrѓlЃ[ѓVѓ‡ѓ“ЃI<BR>‚І‚ї‚»Ѓ[—l‚Е‚µ‚Ѕ‚БЃIЃI
+гЃ™гЃ”гЃЏг‚€гЃ‹гЃЈгЃџпјЃзµµг‚‚гЂЃж–‡г‚‚гЂЃж§‹ж€ђг‚‚гЂЃ<BR>гЃ™гЃ№гЃ¦гЃЊгЃ№гЃ‡г‚ЉгЃ„гЃђгЃЈгЃ©пјЃпјЃ<BR>иї‘е№ґгЃѕг‚ЊгЃ«и¦‹г‚‹е‚‘дЅњпјЃ<BR>зµµи‰ЇгЃ—гЂЃж–‡и‰ЇгЃ—гЂЃ<BR>гЃѕгЃ•гЃ«зµµеё«гЃЁдЅњиЂ…гЃ®зµ¶е¦™гЃЄг‚ігѓігѓ“гѓЌгѓјг‚·гѓ§гѓіпјЃ<BR>гЃ”гЃЎгЃќгѓјж§гЃ§гЃ—гЃџгЃЈпјЃпјЃ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">‚·‚И‚і‚с</a></strong>  <i>2000/05/02 03:06:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">гЃ™гЃЄгЃ•г‚“</a></strong>  <i>2000/05/02 03:06:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957204362vykqnp&id2=957060740wfbokd&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957204362vykqnp_id2_957060740wfbokd_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-ђ¦‚ўЃI<BR>ѓeѓLѓXѓg‚М”z•Є‚а‚і‚й‚±‚Ж‚И‚Є‚з<BR><BR>Ѓ„ЌЕЊг‚М€к–‡‚МѓgѓЉѓ~ѓ“ѓO<BR><BR>‚»‚¤‚©ЃA‚»‚¤‚ў‚¤Ћи‚Є‚ ‚Б‚Ѕ‚М‚©ЃI<BR>‚ЁЊ©Ћ–ЃA‚Е‚·ЃB<BR>
+е‡„гЃ„пјЃ<BR>гѓ†г‚­г‚№гѓ€гЃ®й…Ќе€†г‚‚гЃ•г‚‹гЃ“гЃЁгЃЄгЃЊг‚‰<BR><BR>пјћжњЂеѕЊгЃ®дёЂжћљгЃ®гѓ€гѓЄгѓџгѓіг‚°<BR><BR>гЃќгЃ†гЃ‹гЂЃгЃќгЃ†гЃ„гЃ†ж‰‹гЃЊгЃ‚гЃЈгЃџгЃ®гЃ‹пјЃ<BR>гЃЉи¦‹дє‹гЂЃгЃ§гЃ™гЂ‚<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><s>–оЌиђЅ€к</s></strong>  <i>2000/05/02 05:51:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><s>зџўеґЋиЄ дёЂ</s></strong>  <i>2000/05/02 05:51:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
 DELETED</td></tr>
 <tr bgcolor="#CCFFFF">
@@ -124,73 +124,73 @@ DELETED
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ђ^ЏйЃ@—I</strong>  <i>2000/05/03 01:36:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>зњџеџЋгЂЂж‚ </strong>  <i>2000/05/03 01:36:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957285406rwixy&id2=957060740wfbokd&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957285406rwixy_id2_957060740wfbokd_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Ѓ„ѓWѓѓѓKЉЫ‚і‚с<BR>Ѓ@—L“п‚¤‚І‚ґ‚ў‚Ь‚·ЃBROMѓIѓ“ѓЉЃ[‚Мђl‚р“®‚©‚µ‚Ѕ‚М‚НЉр‚µ‚ў‚Е‚·‚Л‚¦Ѓi^^<BR><BR>Ѓ„Њґ“c‚і‚с<BR>Ѓ@‚ў‚В‚аЉґ‘z—L“п‚¤‚І‚ґ‚ў‚Ь‚·ЃBѓeѓLѓXѓgѓIѓ“ѓЉЃ[”Е‚Ж‘е•ќ‚Й•¶ЏН‚Є‰ь•П‚і‚к‚Д‚Ё‚и‚Ь‚·ЃB‹C•t‚ў‚Д’ё‚Ї‚Ѕ‚ѕ‚Ї‚Е‚а‚ЁЃEЃEЃE<BR><BR>Ѓ„ѓnЃ[ѓЌѓbѓN”Єђў‚і‚с<BR>Ѓ@‚Ю‚У‚УЃEЃEЃEЉy‚µ‚с‚Е’ё‚Ї‚Д‰Ѕ‚ж‚и‚Е‚·ЃB‚±‚к‚©‚з‚а‚±‚МѓЊѓxѓ‹‚р–ЪЋw‚µ‚ДЉж’Ј‚и‚Ь‚·ЃB<BR><BR>Ѓ„‚·‚И‚і‚с<BR>Ѓ@Ѓ„ЌЕЊг‚М€к–‡‚МѓgѓЉѓ~ѓ“ѓO<BR>Ѓ„‚»‚¤‚©ЃA‚»‚¤‚ў‚¤Ћи‚Є‚ ‚Б‚Ѕ‚М‚©ЃI<BR>Ѓ„‚ЁЊ©Ћ–ЃA‚Е‚·ЃB<BR><BR>Ѓ@‚±‚к‚Н€кЏd‚ЙЊі‚МЉG‚МѓNѓIѓЉѓeѓB‚ЄЌ‚‚©‚Б‚Ѕ‚©‚зЏo—€‚Ѕ‚±‚Ж‚Е‚·ЃB‚ ‚к‚ѕ‚ЇЏ¬‚і‚­ЌЏ‚с‚Е‚а‚P–‡‚МЉG‚Ж‚µ‚ДЊ©‚з‚к‚й‚М‚Е‚·‚©‚зЃB‘Ѕ‚­‚МЉG•`‚«‚і‚с‚НЋ©•Є‚МЉG‚ЄЉg‘е‚і‚к‚й‚±‚Ж‚·‚зЊ™‚Є‚й•ы‚а‘Ѕ‚ў‚Е‚·‚©‚з‚ЛЃB<BR>Ѓ@Ћџ‰сЌм‚ЙЉъ‘Т‚µ‚Д‚­‚ѕ‚і‚ўЃB‚ ‚ЖЃA‚Э‚й‚­ђ№•P‚і‚с‚МWEBѓyЃ[ѓW‚Й‚а‚З‚µ‚З‚µ‚ў‚з‚Б‚µ‚б‚Б‚Д‚­‚ѕ‚і‚ўЉF‚і‚сЃB<BR>
+пјћг‚ёгѓЈг‚¬дёёгЃ•г‚“<BR>гЂЂжњ‰й›ЈгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚ROMг‚ЄгѓігѓЄгѓјгЃ®дєєг‚’е‹•гЃ‹гЃ—гЃџгЃ®гЃЇе¬‰гЃ—гЃ„гЃ§гЃ™гЃ­гЃ€пј€^^<BR><BR>пјћеЋџз”°гЃ•г‚“<BR>гЂЂгЃ„гЃ¤г‚‚ж„џжѓіжњ‰й›ЈгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚гѓ†г‚­г‚№гѓ€г‚ЄгѓігѓЄгѓјз‰€гЃЁе¤§е№…гЃ«ж–‡з« гЃЊж”№е¤‰гЃ•г‚ЊгЃ¦гЃЉг‚ЉгЃѕгЃ™гЂ‚ж°—д»гЃ„гЃ¦й ‚гЃ‘гЃџгЃ гЃ‘гЃ§г‚‚гЃЉгѓ»гѓ»гѓ»<BR><BR>пјћгѓЏгѓјгѓ­гѓѓг‚Їе…«дё–гЃ•г‚“<BR>гЂЂг‚ЂгЃµгЃµгѓ»гѓ»гѓ»жҐЅгЃ—г‚“гЃ§й ‚гЃ‘гЃ¦дЅ•г‚€г‚ЉгЃ§гЃ™гЂ‚гЃ“г‚ЊгЃ‹г‚‰г‚‚гЃ“гЃ®гѓ¬гѓ™гѓ«г‚’з›®жЊ‡гЃ—гЃ¦й ‘ејµг‚ЉгЃѕгЃ™гЂ‚<BR><BR>пјћгЃ™гЃЄгЃ•г‚“<BR>гЂЂпјћжњЂеѕЊгЃ®дёЂжћљгЃ®гѓ€гѓЄгѓџгѓіг‚°<BR>пјћгЃќгЃ†гЃ‹гЂЃгЃќгЃ†гЃ„гЃ†ж‰‹гЃЊгЃ‚гЃЈгЃџгЃ®гЃ‹пјЃ<BR>пјћгЃЉи¦‹дє‹гЂЃгЃ§гЃ™гЂ‚<BR><BR>гЂЂгЃ“г‚ЊгЃЇдёЂй‡ЌгЃ«е…ѓгЃ®зµµгЃ®г‚Їг‚ЄгѓЄгѓ†г‚ЈгЃЊй«гЃ‹гЃЈгЃџгЃ‹г‚‰е‡єжќҐгЃџгЃ“гЃЁгЃ§гЃ™гЂ‚гЃ‚г‚ЊгЃ гЃ‘е°ЏгЃ•гЃЏе€»г‚“гЃ§г‚‚пј‘жћљгЃ®зµµгЃЁгЃ—гЃ¦и¦‹г‚‰г‚Њг‚‹гЃ®гЃ§гЃ™гЃ‹г‚‰гЂ‚е¤љгЃЏгЃ®зµµжЏЏгЃЌгЃ•г‚“гЃЇи‡Єе€†гЃ®зµµгЃЊж‹Ўе¤§гЃ•г‚Њг‚‹гЃ“гЃЁгЃ™г‚‰е«ЊгЃЊг‚‹ж–№г‚‚е¤љгЃ„гЃ§гЃ™гЃ‹г‚‰гЃ­гЂ‚<BR>гЂЂж¬Ўе›ћдЅњгЃ«жњџеѕ…гЃ—гЃ¦гЃЏгЃ гЃ•гЃ„гЂ‚гЃ‚гЃЁгЂЃгЃїг‚‹гЃЏиЃ–е§«гЃ•г‚“гЃ®WEBгѓљгѓјг‚ёгЃ«г‚‚гЃ©гЃ—гЃ©гЃ—гЃ„г‚‰гЃЈгЃ—г‚ѓгЃЈгЃ¦гЃЏгЃ гЃ•гЃ„зљ†гЃ•г‚“гЂ‚<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>‚vЃD‚p</strong>  <i>2000/05/03 12:15:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>пј·пјЋпј±</strong>  <i>2000/05/03 12:15:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957323712gltefj&id2=957060740wfbokd&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957323712gltefj_id2_957060740wfbokd_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Ѓ@•Пђg‚µ‚Ѕ“сђl‚МђF‚ЄЃA‚И‚с‚ѕ‚©‚Ж‚Д‚а‚Ё‚ў‚µ‚»‚¤ЃIЃ@ЊіЃX‚МЉ®ђ¬‚і‚к‚ЅѓCѓЃЃ[ѓW‚ЄѓLѓѓѓ“ѓfѓBѓRЃ[ѓg‚і‚к‚ДЃAЏ[ЋА‚М‚Ё‚ў‚µ‚іЃB‚ЁЊы‚ЙЌL‚Є‚йЉґ‚¶‚ЄЃAЌD‚«‚Е‚·ЃB‚а‚¤€к‰сЃAЌD‚«‚Е‚·ЃiЉGЋt‚і‚с‚М‚Ф‚сЃjЃB
+гЂЂе¤‰иє«гЃ—гЃџдєЊдєєгЃ®и‰ІгЃЊгЂЃгЃЄг‚“гЃ гЃ‹гЃЁгЃ¦г‚‚гЃЉгЃ„гЃ—гЃќгЃ†пјЃгЂЂе…ѓгЂ…гЃ®е®Њж€ђгЃ•г‚ЊгЃџг‚¤гѓЎгѓјг‚ёгЃЊг‚­гѓЈгѓігѓ‡г‚Јг‚ігѓјгѓ€гЃ•г‚ЊгЃ¦гЂЃе……е®џгЃ®гЃЉгЃ„гЃ—гЃ•гЂ‚гЃЉеЏЈгЃ«еєѓгЃЊг‚‹ж„џгЃгЃЊгЂЃеҐЅгЃЌгЃ§гЃ™гЂ‚г‚‚гЃ†дёЂе›ћгЂЃеҐЅгЃЌгЃ§гЃ™пј€зµµеё«гЃ•г‚“гЃ®гЃ¶г‚“пј‰гЂ‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.ops.dti.ne.jp/~milk/" target="_blank">‚Э‚й‚­ђ№•P</a></strong>  <i>2000/05/03 16:34:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.ops.dti.ne.jp/~milk/" target="_blank">гЃїг‚‹гЃЏиЃ–е§«</a></strong>  <i>2000/05/03 16:34:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957339254cudup&id2=957060740wfbokd&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957339254cudup_id2_957060740wfbokd_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚Н‚¶‚Я‚Ь‚µ‚ДЃA‚Э‚й‚­ђ№•P‚Жђ\‚µ‚Ь‚·ЃB<BR>ђЩ‚ўCG•`‚«‚Е‚·‚ЄЃA‚З‚¤‚ј‚ж‚л‚µ‚­‚ЁЉи‚ў‚ў‚Ѕ‚µ‚Ь‚·ЃB<BR><BR>ЌЎ‰сЃAђ^Џй‚і‚с‚М‚ІЌD€У‚Й‚ж‚и‚±‚МЋdЋ–‚р‚і‚№‚Д‚ў‚Ѕ‚ѕ‚­‚±‚Ж‚ЄЏo—€‚Ь‚µ‚ЅЃBЉF—l‚ЙЌD•]‚р”Ћ‚·‚±‚Ж‚Є‚Е‚«ЃAЊ»ЌЭЌK•џЉґ‚р‚©‚Э‚µ‚Я‚Д‚ў‚й‚Ж‚±‚л‚Е‚·ЃBЉF—l‚ЙЃA‚»‚µ‚ДЋ„‚Я‚Й‚±‚М‚ж‚¤‚ИЌK‰^‚И‹@‰п‚р—^‚¦‚Д‚ў‚Ѕ‚ѕ‚ў‚Ѕђ^Џй‚і‚с‚ЙЃA”­•\‚МЏк‚р’с‹џ‚µ‚Д‚ў‚Ѕ‚ѕ‚ў‚Ѕ”ЄЏdЏF‚і‚с‚ЙЃA‚±‚МЏк‚рЋШ‚и‚Д‚Ё—з‚рђ\‚µЏг‚°‚Ь‚·ЃB‚ ‚и‚Є‚Ж‚¤‚І‚ґ‚ў‚Ь‚µ‚ЅЃB
+гЃЇгЃг‚ЃгЃѕгЃ—гЃ¦гЂЃгЃїг‚‹гЃЏиЃ–е§«гЃЁз”ігЃ—гЃѕгЃ™гЂ‚<BR>ж‹™гЃ„CGжЏЏгЃЌгЃ§гЃ™гЃЊгЂЃгЃ©гЃ†гЃћг‚€г‚ЌгЃ—гЃЏгЃЉйЎгЃ„гЃ„гЃџгЃ—гЃѕгЃ™гЂ‚<BR><BR>д»Ље›ћгЂЃзњџеџЋгЃ•г‚“гЃ®гЃ”еҐЅж„ЏгЃ«г‚€г‚ЉгЃ“гЃ®д»•дє‹г‚’гЃ•гЃ›гЃ¦гЃ„гЃџгЃ гЃЏгЃ“гЃЁгЃЊе‡єжќҐгЃѕгЃ—гЃџгЂ‚зљ†ж§гЃ«еҐЅи©•г‚’еЌљгЃ™гЃ“гЃЁгЃЊгЃ§гЃЌгЂЃзЏѕењЁе№ёз¦Џж„џг‚’гЃ‹гЃїгЃ—г‚ЃгЃ¦гЃ„г‚‹гЃЁгЃ“г‚ЌгЃ§гЃ™гЂ‚зљ†ж§гЃ«гЂЃгЃќгЃ—гЃ¦з§Ѓг‚ЃгЃ«гЃ“гЃ®г‚€гЃ†гЃЄе№ёйЃ‹гЃЄж©џдјљг‚’дёЋгЃ€гЃ¦гЃ„гЃџгЃ гЃ„гЃџзњџеџЋгЃ•г‚“гЃ«гЂЃз™єиЎЁгЃ®е ґг‚’жЏђдѕ›гЃ—гЃ¦гЃ„гЃџгЃ гЃ„гЃџе…«й‡ЌжґІгЃ•г‚“гЃ«гЂЃгЃ“гЃ®е ґг‚’еЂџг‚ЉгЃ¦гЃЉз¤јг‚’з”ігЃ—дёЉгЃ’гЃѕгЃ™гЂ‚гЃ‚г‚ЉгЃЊгЃЁгЃ†гЃ”гЃ–гЃ„гЃѕгЃ—гЃџгЂ‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>—ў‰Ф</strong>  <i>2000/05/05 10:25:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>й‡ЊиЉ±</strong>  <i>2000/05/05 10:25:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957489958lhjmwuc&id2=957060740wfbokd&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957489958lhjmwuc_id2_957060740wfbokd_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚«‚б‚џЃ[!!<BR>ѓ^ѓCѓ~ѓ“ѓO‚Є‹CЋќ‚ї‚ў‚ў!!<BR>‚±‚МЃuЉФЃv‚НЃA‚ЁЋЕ‹Џ‚М–Ў‚Й‚а’К‚¶‚й‚М‚©‚ИЃH<BR>ѓIѓ“ѓ‰ѓCѓ“‚М‘зЊн–Ў‚©‚аЃH
+гЃЌг‚ѓгЃЃгѓј!!<BR>г‚їг‚¤гѓџгѓіг‚°гЃЊж°—жЊЃгЃЎгЃ„гЃ„!!<BR>гЃ“гЃ®гЂЊй–“гЂЌгЃЇгЂЃгЃЉиЉќе±…гЃ®е‘ігЃ«г‚‚йЂљгЃг‚‹гЃ®гЃ‹гЃЄпјџ<BR>г‚Єгѓігѓ©г‚¤гѓігЃ®й†Ќй†ђе‘ігЃ‹г‚‚пјџ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>ђ^ЏйЃ@—I</strong>  <i>2000/05/05 22:18:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>зњџеџЋгЂЂж‚ </strong>  <i>2000/05/05 22:18:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957532729qsxbc&id2=957060740wfbokd&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957532729qsxbc_id2_957060740wfbokd_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
- W.Q‚і‚сЃA—L“п‚¤‚І‚ґ‚ў‚Ь‚·ЃB‚З‚¤‚ј‰Ѕ“x‚а‰Ѕ“x‚а‚ЁЉy‚µ‚Э‰є‚і‚ў‚Ь‚№ЃB<BR><BR>Ѓ@—ў‰Ф‚і‚сЃA‚Ё‹v‚µ‚Ф‚и‚Е‚·ЃB<BR>Ѓ@‚±‚к‚©‚з‚аЃuѓIѓ“ѓ‰ѓCѓ“‚М‘зЊн–ЎЃv‚рЉґ‚¶‚з‚к‚й—l‚ИЌм•i‚рЏ‘‚ў‚Д‚ў‚«‚Ь‚·‚ж‚§Ѓ`ЃI
+ W.QгЃ•г‚“гЂЃжњ‰й›ЈгЃ†гЃ”гЃ–гЃ„гЃѕгЃ™гЂ‚гЃ©гЃ†гЃћдЅ•еє¦г‚‚дЅ•еє¦г‚‚гЃЉжҐЅгЃ—гЃїдё‹гЃ•гЃ„гЃѕгЃ›гЂ‚<BR><BR>гЂЂй‡ЊиЉ±гЃ•г‚“гЂЃгЃЉд№…гЃ—гЃ¶г‚ЉгЃ§гЃ™гЂ‚<BR>гЂЂгЃ“г‚ЊгЃ‹г‚‰г‚‚гЂЊг‚Єгѓігѓ©г‚¤гѓігЃ®й†Ќй†ђе‘ігЂЌг‚’ж„џгЃг‚‰г‚Њг‚‹ж§гЃЄдЅње“Ѓг‚’ж›ёгЃ„гЃ¦гЃ„гЃЌгЃѕгЃ™г‚€гЃ‰пЅћпјЃ
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>ѓЃѓbѓZЃ[ѓWЃF</b><br>
+<form action="noteky.cgi" method="post" >
+<b>гѓЎгѓѓг‚»гѓјг‚ёпјљ</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="957060740wfbokd">
 <P></P>
-<b>‚Ё–ј‘OЃF</b><br>
+<b>гЃЉеђЌе‰Ќпјљ</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>ѓЃЃ[ѓ‹ѓAѓhѓЊѓXЃF</b><br>
+<b>гѓЎгѓјгѓ«г‚ўгѓ‰гѓ¬г‚№пјљ</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>Ѓ¦ mailto:‚рhttp://‚Й’ј‚№‚ОURL‚р“ь—Н‚Е‚«‚Ь‚·ЃB</font>
+<font size=-1>вЂ» mailto:г‚’http://гЃ«з›ґгЃ›гЃ°URLг‚’е…ҐеЉ›гЃ§гЃЌгЃѕгЃ™гЂ‚</font>
 <P>
-<input type="submit" value="Џ‘‚«Ќћ‚Э"><br>
+<input type="submit" value="ж›ёгЃЌиѕјгЃї"><br>
 <font size=-1>
-Ѓ¦Џ‘‚«Ќћ‚ЭЊг‚НЃAѓuѓ‰ѓEѓU‚МЃu–Я‚йЃvѓ{ѓ^ѓ“‚Е–Я‚Б‚Д‰є‚і‚ўЃB<br>
+вЂ»ж›ёгЃЌиѕјгЃїеѕЊгЃЇгЂЃгѓ–гѓ©г‚¦г‚¶гЃ®гЂЊж€»г‚‹гЂЌгѓњг‚їгѓігЃ§ж€»гЃЈгЃ¦дё‹гЃ•гЃ„гЂ‚<br>
 </font>
 </form>
 <hr><BR>

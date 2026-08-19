@@ -1,23 +1,23 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=958400796jovxq&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_958400796jovxq_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�u����P�v�̂s�r�ȗ�����</font><br>
+<font size="+2" color="#0000FF">「眠り姫」のＴＳな旅立ち</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>2000/05/15 23:26:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>2000/05/15 23:26:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=958400796jovxq&id2=958400796jovxq&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_958400796jovxq_id2_958400796jovxq_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING !!
@@ -27,55 +27,55 @@ NOW PRINTING !!
 <tr>
 <td  bgcolor="#00FFCC"><strong>webmaster</strong>  <i>2000/05/16 00:07:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=958403235jfatyf&id2=958400796jovxq&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_958403235jfatyf_id2_958400796jovxq_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m���m���A�A�b�v�e���|�ȃV���[�g�M���O��i�ł��B�I�������ȁu�P�v�ɖG�֖G��!!
+ノリノリ、アップテンポなショートギャグ作品です。オレっ娘な「姫」に萌へ萌へ!!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2000/05/17 07:18:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2000/05/17 07:18:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=958515495kdfwqi&id2=958400796jovxq&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_958515495kdfwqi_id2_958400796jovxq_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ƃ��΂Ȃ��Ȑ��E�ςƔ񃁃��w���`�b�N�Ȑ��i�̃L�����B�̑Δ䂪�΂����ł��B<BR>����ς�I���b�q�ȕP�ɖG���`�B
+おっとぎばなしな世界観と非メルヘンチックな性格のキャラ達の対比が可笑しいです。<BR>やっぱりオレッ子な姫に萌え～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����(���Ђ�����)</strong>  <i>2000/07/23 19:00:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花(おひさしっ)</strong>  <i>2000/07/23 19:00:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964346405ffjaefe&id2=958400796jovxq&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964346405ffjaefe_id2_958400796jovxq_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂގ��Ԃ��܂Ƃ߂Ď�ꂸ�A�Z���̂����E���ēǂ�ł����Ԃł��B<BR>�����傤���ł��ˁ[�AWATARU����I<BR>������Ɓu�V�c�^�q�v�̍�i��f�i�Ƃ��Ă��܂��܂���(���u�����X�́E�E�E�v�n)<BR>
+読む時間がまとめて取れず、短いのだけ拾って読んでいる状態です。<BR>おじょうずですねー、WATARUさん！<BR>ちょっと「新田真子」の作品を彷彿としてしまいました(＜「眠れる森の・・・」系)<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="958400796jovxq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

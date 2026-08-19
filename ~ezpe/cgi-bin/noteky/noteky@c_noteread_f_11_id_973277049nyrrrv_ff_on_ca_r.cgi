@@ -1,91 +1,91 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=973277049nyrrrv&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_973277049nyrrrv_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����ˉ_</font><br>
+<font size="+2" color="#0000FF">あかね雲</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/04033856/akane.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/11/04 03:44:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/04033856/akane.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/11/04 03:44:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973277049nyrrrv&id2=973277049nyrrrv&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973277049nyrrrv_id2_973277049nyrrrv_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����ˉ_�E���e�@���́z<BR>�y���E���z���Ђ����Ԃ�̖x��E���񂪑���̂́A����𐶂���u�����v�����A���ɕ`���o������̓h���}�ł��B<BR>
+【あかね雲・改稿　第一章】<BR>【推薦文】おひさしぶりの堀井忍さんが贈るのは、現代を生きる「女性」をリアルに描き出した大河ドラマです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/04033856/akane1.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/11/04 03:46:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/04033856/akane1.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/11/04 03:46:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973277168kwigl&id2=973277049nyrrrv&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973277168kwigl_id2_973277049nyrrrv_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����ˉ_�@���́z<BR>�y���E���z�Í��Ƃ݂���A��l�̎o��ɔ�߂�ꂽ�ߋ��B���ׂĂ̕���͂�������n�܂�܂��B<BR>
+【あかね雲　第二章】<BR>【推薦文】静香とみちる、二人の姉弟に秘められた過去。すべての物語はここから始まります。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/04033856/akane1.html" target="_blank">�^�c�ψ���</a></strong>  <i>2001/04/08 19:48:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/04033856/akane1.html" target="_blank">運営委員会</a></strong>  <i>2001/04/08 19:48:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986726936dbyufw&id2=973277049nyrrrv&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986726936dbyufw_id2_973277049nyrrrv_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�ē��z�����ˉ_�E���͂̏C���ł��A�b�v���܂����B���͂�ǂނɂ͏�́u�^�c�ψ���v���N���b�N���Ă��������B
+【案内】あかね雲・第二章の修正版をアップしました。第二章を読むには上の「運営委員会」をクリックしてください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/04033856/akane2.html" target="_blank">��R�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/04/13 16:42:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/04033856/akane2.html" target="_blank">第３話を読むにはここをクリック</a></strong>  <i>2001/04/13 16:42:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987147739ymspi&id2=973277049nyrrrv&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987147739ymspi_id2_973277049nyrrrv_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�^����c���n�܂�V�����B����͂��������c�c�H�@���ڂ��Ď����҂��܂��傤�B
+【推薦文】疑問を残しつつ始まる新生活。これはいったい……？　刮目して次回を待ちましょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/04/14 06:50:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/04/14 06:50:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987198611rqkcqd&id2=973277049nyrrrv&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987198611rqkcqd_id2_973277049nyrrrv_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>�R�b�ڂ́A�u�H�v�A�܂������A<BR>���^����c���n�܂�V�����B����͂��������c�c�H<BR>�ł��ˁB�i�u���Ԃ�v�����Ȃ̂ł́E�E�E�Ƃ����\���͂���̂ł����j<BR>���񂪊y���݂ł��B
+読みました。<BR>３話目は、「？」、まさしく、<BR>＞疑問を残しつつ始まる新生活。これはいったい……？<BR>ですね。（「たぶん」こうなのでは・・・という予測はあるのですが）<BR>次回が楽しみです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="973277049nyrrrv">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

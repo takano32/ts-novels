@@ -1,132 +1,132 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=999084430imxguh&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_999084430imxguh_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">����ē��l�̉~��</font><br>
+<font size="+2" color="#0000FF">水先案内人の円舞</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2001/08/29 20:27:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2001/08/29 20:27:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999084430imxguh&id2=999084430imxguh&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999084430imxguh_id2_999084430imxguh_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200108/29203431/rondo.htm" target="_blank">��i������ɂ͂������N���b�N�B</a></strong>  <i>2001/08/29 20:40:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200108/29203431/rondo.htm" target="_blank">作品を見るにはここをクリック。</a></strong>  <i>2001/08/29 20:40:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999085203rvmrj&id2=999084430imxguh&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999085203rvmrj_id2_999084430imxguh_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�g��d������̎O��ڂ́A�w�ē��l�x�̃��m���[�O�ŒԂ���Â��ȏ��i�ł��B
+【推薦文】　吉井重治さんの三作目は、『案内人』のモノローグで綴られる静かな小品です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/08/29 21:06:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/08/29 21:06:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999086791gwqpgy&id2=999084430imxguh&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999086791gwqpgy_id2_999084430imxguh_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�ӂށA���������Â��Ȏ��������ł����i�������ł��ȁB<BR>�Ȃ��Ȃ��悩�����ł��B<BR>�Ō�ɁA���_���l���Ă����̂Ƃ͈�����W�J�������ėǂ������ł��B<BR>�~���܂��ˁB<BR><BR>�Ƃ���ŁA�W�����Î����āA�u�h�b�t�v����Ȃ������ł����H<BR>Intensive Care Unit�̗��������Ǝv���܂���B
+読んだバイ♪<BR>ふむ、こういう静かな時を実感できる作品もいいですな。<BR>なかなかよかったです。<BR>最後に、死神が考えていたのとは違った展開があって良かったです。<BR>救われますね。<BR><BR>ところで、集中治療室って、「ＩＣＵ」じゃなかったですか？<BR>Intensive Care Unitの略だったと思いますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">�g��d��</a></strong>  <i>2001/08/29 22:55:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="s-yoshii@pop06.odn.ne.jp" target="_blank">吉井重治</a></strong>  <i>2001/08/29 22:55:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999093325xhdpmf&id2=999084430imxguh&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999093325xhdpmf_id2_999084430imxguh_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�S�������Ⴂ�B�Ԉ���Ă܂����ˁB�@���������������܂��B���w�E�L��������܂��B
+ゴメンちゃい。間違ってましたね。機会があったら訂正します。ご指摘有難うございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/30 09:00:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/30 09:00:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999129656kvymh&id2=999084430imxguh&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999129656kvymh_id2_999084430imxguh_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�r�^�[�e�C�X�g�ȑ�l�̕��͋C�Y����i�ł��ˁB<BR>���_�́A�N���ɗ��؂��Ă��܂��l�Ԃ�M���Ă��Ď�l����h�点���̂ł��傤���B��l���Ɍ��Ȃ�������̏�ʂ��t���b�V���o�b�N���Ă����肵�āc�c�B<BR>���������T�C�h�X�g�[���[��������ł������ł��B<BR>�s�r������l�������_�̏����̑z�������Ȃ��Ă�����B����ȑ������z���ł��܂����B<BR>�����ɂ����҂ł��B<BR>
+ビターテイストな大人の雰囲気漂う作品ですね。<BR>死神は、誰かに裏切られてつつもまだ人間を信じていて主人公を蘇らせたのでしょうか。主人公に語りながらもその場面がフラッシュバックしていたりして……。<BR>そう言うサイドストーリーが浮かんできそうです。<BR>ＴＳした主人公が死神の少女の想いをかなえてあげる。そんな続きが想像できました。<BR>次回作にも期待です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�����a</strong>  <i>2001/08/31 09:51:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>海月日和</strong>  <i>2001/08/31 09:51:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999219064dhbdjro&id2=999084430imxguh&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999219064dhbdjro_id2_999084430imxguh_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Â��ȕ��͋C�������ł��ˁE�E�E�B<BR><BR>�w�����҂��n��������x�A����Ȑ��̒��ł����A�����炱���A�u�ށv�̂悤�Ȑl���̋P���������̂ł��傤�ˁB<BR>�E�E�E�����́A�u�ށv�̂悤�ȍs�����\���낤���H<BR>�u���v�����ꂸ�A����ȂɈ��炩�ɐ������Ƃ��ł��邾�낤���H<BR>�E�E�E�E�E�E�����A�������Ǝv���܂��i�₵���ȋ�΁j
+静かな雰囲気がいいですね・・・。<BR><BR>『正直者が馬鹿を見る』、そんな世の中ですが、だからこそ、「彼」のような人物の輝きが増すのでしょうね。<BR>・・・自分は、「彼」のような行いが可能だろうか？<BR>「死」を恐れず、あんなに安らかに逝くことができるだろうか？<BR>・・・・・・多分、無理だと思います（寂しげな苦笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤���^�c�ψ�</strong>  <i>2001/09/01 01:05:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう＠運営委員</strong>  <i>2001/09/01 01:05:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999273947fubsixv&id2=999084430imxguh&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999273947fubsixv_id2_999084430imxguh_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ƃ���ŁA�W�����Î����āA�u�h�b�t�v����Ȃ������ł����H<BR><BR>�Ƃ������Ƃł��̂ŁA���炷���̕����́uICU�v�ɉ��߂����Ă��������܂����B
+＞ところで、集中治療室って、「ＩＣＵ」じゃなかったですか？<BR><BR>ということですので、あらすじの部分は「ICU」に改めさせていただきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/09/02 16:58:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/09/02 16:58:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999417492kcrlw&id2=999084430imxguh&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999417492kcrlw_id2_999084430imxguh_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̎��_���āA���i�䂪��ł�Ȃ��B<BR>���ɂ䂭�l�Ԃ͂��ׂ��炭��藐���A�����̎���ے肵�Ȃ��Ƃ����Ȃ��񂾂낤���B<BR>�ł����̍�i�����܂ꂽ�Ƃ������Ƃ́A����̓��{�l�̎����ςƂ��ẮA�����̎��ɑ΂��Ď�藐�����肷��̂����ʂƍl���Ă����ł����B�i�g��d������A�Ԉ���Ă���S�����ˁj<BR>�܂��A�m���ɂ��̍l�����������h�ł���ˁB<BR>�ł��A���̍�i�̎�l���̂悤�Ȑl�������h�ɂȂ�Ȃ��Ƃ����Ȃ��Ǝv����ł��B�ł����炱�̎�l���̍s�����܎^����悤�ȓ��e�̍�i�����ꂩ��������ς������Ă��������ˁB�ǎ҂��A���������̎�l���̂悤�ȋC�T�������Ď����}�������Ǝv����悤�ɁB<BR>  <BR>
+この死神って、性格ゆがんでるなあ。<BR>死にゆく人間はすべからく取り乱し、自分の死を否定しないといけないんだろうか。<BR>でもこの作品が生まれたということは、現代の日本人の死生観としては、自分の死に対して取り乱したりするのが普通と考えているんですか。（吉井重治さん、間違ってたらゴメンね）<BR>まあ、確かにその考え方が多数派ですよね。<BR>でも、この作品の主人公のような人が多数派にならないといけないと思うんです。ですからこの主人公の行動を賞賛するような内容の作品をこれからもいっぱい書いてくださいね。読者が、自分もこの主人公のような気概をもって死を迎えたいと思えるように。<BR>  <BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�肶�`</strong>  <i>2001/09/04 00:19:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りじ～</strong>  <i>2001/09/04 00:19:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999530399mpoka&id2=999084430imxguh&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999530399mpoka_id2_999084430imxguh_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��i�ǂ܂��Ē����܂����B<BR>�Â��ȕ��͋C���Ɠ��ł����ł��ˁB<BR>��l��������Ȃ����Ă̂��ς���Ă܂��ˁB<BR>�ł��A�����ĂȂ��̂ɂǂ�Ȑ��i�����͂����肵�ĂāA�������܂��ǂ������ł��B
+作品読ませて頂きました。<BR>静かな雰囲気が独特でいいですね。<BR>主人公が喋らないってのも変わってますね。<BR>でも、喋ってないのにどんな性格だかはっきりしてて、そこがまた良かったです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="999084430imxguh">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

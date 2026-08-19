@@ -1,46 +1,46 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>成年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=4&id=944654227fdcwuu&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_4_id_944654227fdcwuu_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">��}���N</font><br>
+<font size="+2" color="#0000FF">霊媒少年</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/12/08 20:57:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/12/08 20:57:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=944654227fdcwuu&id2=944654227fdcwuu&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_944654227fdcwuu_id2_944654227fdcwuu_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��}���N�i�l�K�e�B�u�����@�[�Y�P���Q���y�ї�}���N�@���^�j<BR>�����O���Ё@�@�L���@��<BR>�G���f�ڎ��́A�����ƋC�Â��Ȃ��������A�P�N�قǑO�ɁA<BR>�����̏����ɑ���ȉe�����y�ڂ��Ă������ƂɋC�Â��B<BR>�ŏ��́A�����̗�Ɏ��߂��ꂽ���ƂŁA���]��������<BR>�z���Ă������A��ɁA���X�A�������A�z�̑̎���<BR>���߂��ꂽ���Ƃ����������ɂ����Ȃ��������Ƃ��������Ă���B<BR>���߂̍��́A���߂��������̗삪���̂̎哱�����������Ƃ����<BR>�G�b�`�V�[���ɓ˓��B<BR>���̂����A�����̐g�̂Ə󋵂Ɋ��ꂽ��l�����A<BR>���̂����A�e�F���D���ɂȂ��Ă��鎩���ɋC�Â��A�����̈ӎu��<BR>�g�̂��d�˂�悤�ɂȂ�Ƃ����W�J�́A������A�g�̂����̃R�Ƃ͂���<BR>�������Ԃ߂�Ȃ�Ƃ������A�j����ɂ��C�ɂ͂Ȃ�ˁ[����<BR>�Ƃ������_���I�݂ɃN���A���Ă���B<BR>�܂��A���̎��_�ł̃C���^�[�o�����A��l���Ƃ��̐e�F��<BR>����̕ω��̂��߂̗P�\���ԂƂȂ��Ă���_���������Ȃ��B<BR>�O���܂ł̖��ӔC�Ƃ������閾�邭�y���G�b�`���A���X�g�܂�<BR>�p�����Ă��ꂽ��悩�����̂����A�ꉞ�̃n�b�s�[�G���h�������Ƃ͂���<BR>�㔼�A���Ȃ�A�_�[�N�ȗ���ɂȂ��Ă��܂������Ƃ��ɂ��܂�ĂȂ�Ȃ��B<BR>
+霊媒少年（ネガティブラヴァーズ１巻２巻及び霊媒少年　収録）<BR>東京三世社　　猫玄　作<BR>雑誌掲載時は、そうと気づかなかったが、１年ほど前に、<BR>自分の小説に多大な影響を及ぼしていたことに気づく。<BR>最初は、女性の霊に取り憑かれたことで、性転換したと<BR>想われていたが、後に、元々、仮性半陰陽の体質で<BR>取り憑かれたことがきっかけにすぎなかったことが判明している。<BR>初めの頃は、取り憑いた女性の霊が肉体の主導権を握ったところで<BR>エッチシーンに突入。<BR>そのうち、自分の身体と状況に慣れた主人公が、<BR>そのうち、親友を好きになっている自分に気づき、自分の意志で<BR>身体を重ねるようになるという展開は、いくら、身体が女のコとはいえ<BR>自分を慰めるならともかく、男相手にやる気にはなれねーだろ<BR>という問題点を巧みにクリアしている。<BR>また、この時点でのインターバルが、主人公とその親友の<BR>感情の変化のための猶予期間となっている点も見逃せない。<BR>前半までの無責任ともいえる明るく軽いエッチが、ラストまで<BR>継続してくれたらよかったのだが、一応のハッピーエンドだったとはいえ<BR>後半、かなり、ダークな流れになってしまったことが惜しまれてならない。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="4">
 <input type="hidden" name="id" value="944654227fdcwuu">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,52 +1,52 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>成年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=4&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_4_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=4&id=945338087vtjdb&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=4&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_4_id_945338087vtjdb_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_4_ff_on.cgi">成年コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�u�h�q�s�t�`�k�@�u�h�b�s�h�l</font><br>
+<font size="+2" color="#0000FF">ＶＩＲＴＵＡＬ　ＶＩＣＴＩＭ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/12/16 18:54:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/12/16 18:54:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=945338087vtjdb&id2=945338087vtjdb&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_945338087vtjdb_id2_945338087vtjdb_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�h�q�s�t�`�k�@�u�h�b�s�h�l�i�g�d�`�q�s�`�b�g�d���^�j<BR>�R�A�}�K�W���@�z�b�g�~���N�R�~�b�N�@�@���L�뗢�@��<BR>�u�q�̐��E�ɂ�����s�r��`������i�B<BR>���܂ł����A�u�q�l�^�͒������Ȃ����A<BR>�p�\�R���Q�[���̐��E�ł��A�u�q�𕑑�ɂ������̂�<BR>�o���悤�ɂȂ����̂��A�������ɂȂ邱�Ƃ��l�������<BR>���Ȃ����I�ȍ�i�Ƃ�����B<BR>�s�r�ł͂Ȃ����̂́A���̍�i�̑O�ɁA�u�q����̂Ƃ���<BR>����ݒ萢�E�̂��̂��P�{�ĕ`����Ă���<BR>�i�������g�d�`�q�s�`�b�g�d���^�j<BR>�����ēǂ߂΁A���Ȃ�A���̐��E�Ɉ�a���Ȃ������Ă�����B<BR>���Ƃ����Ƃ������A�����̃p�\�ʂł��Ƃ�̎��^�̒���<BR>�j�Ə��̔]�̈Ⴂ�ɂ�邤�񂽂炩�񂽂��������Ă��邪�A<BR>�u�q���A�����Ɠ������x���Ŋ������邾���̋Z�p�������<BR>���̕ӂ��Ȃ�Ƃ��ł����ł͂Ȃ��낤���H<BR>���������R���䂾����������A�l�b�g�I�n�}�͂����킯������A<BR>�s�u�y�G�f�B�^�Ȃ񂩂́A���ۏo��邾�낤�Ȃ��B<BR>
+ＶＩＲＴＵＡＬ　ＶＩＣＴＩＭ（ＨＥＡＲＴＡＣＨＥ収録）<BR>コアマガジン　ホットミルクコミック　　末広雅里　作<BR>ＶＲの世界におけるＴＳを描いた作品。<BR>いまでこそ、ＶＲネタは珍しくないが、<BR>パソコンゲームの世界でも、ＶＲを舞台にしたものが<BR>出回るようになったのが、これより後になることを考慮すれば<BR>かなり画期的な作品といえる。<BR>ＴＳではないものの、この作品の前に、ＶＲを主体とした<BR>同一設定世界のものが１本て描かれており<BR>（同じくＨＥＡＲＴＡＣＨＥ収録）<BR>続けて読めば、かなり、この世界に違和感なく入っていける。<BR>あとがきというか、当時のパソ通でやりとりの収録の中で<BR>男と女の脳の違いによるうんたらかんたらも書かれているが、<BR>ＶＲを、現実と同じレベルで感じられるだけの技術があれば<BR>その辺もなんとかできるんではなかろうか？<BR>ｂｐｓが３桁台だった頃から、ネットオＯマはいたわけだから、<BR>ＴＶＺエディタなんかは、実際出回るだろうなあ。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="4">
 <input type="hidden" name="id" value="945338087vtjdb">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=4&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_4_ff_on.cgi">成年コミック</a>]<br>
 
 </p>
 </body>

@@ -1,96 +1,96 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=10&id=939563111phbshu&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_10_id_939563111phbshu_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">Ambivalenz�i�A���r���@�����c�j</font><br>
+<font size="+2" color="#0000FF">Ambivalenz（アンビヴァレンツ）</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/ambivalenz.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/10/10 22:45:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/ambivalenz.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/10/10 22:45:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939563111phbshu&id2=939563111phbshu&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939563111phbshu_id2_939563111phbshu_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �܂�����͏��͂ł����A�{�i�I�Ȃ��̂ɂȂ肻���ȗ\�������܂��ˁB���؈肪�Ȃ���l�����痣��Ă����Ă��܂����̂��c��͐[�܂�΂���Ŏ��񂪊y���݂ł��B
+【推薦文】 まだ物語は序章ですが、本格的なものになりそうな予感がしますね。八木郁がなぜ主人公から離れていってしまったのか…謎は深まるばかりで次回が楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����(J.M.)</strong>  <i>1999/10/12 02:26:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>匿名(J.M.)</strong>  <i>1999/10/12 02:26:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939662810ikmuu&id2=939563111phbshu&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939662810ikmuu_id2_939563111phbshu_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂ��́B��������u�����v����ł��B�i�C���ɂ���Ă܂��ς�邩���j<BR>�Ȃ񂾂��A���A���Șb�ł��ˁ[�B<BR>���̌オ�ƂĂ��y���݂ł����A�t�Ɂu�{���ɂ��̌オ�����̂��H�v�Ƃ��v���Ă��܂��܂��B<BR>���́A�u�ǂ����ǂ������ӂ���TS���̂Ȃ񂾂낤�v�Ƒz������̂��y�����ł��B
+こんにちは。今日から「匿名」くんです。（気分によってまた変わるかも）<BR>なんだか、リアルな話ですねー。<BR>この後がとても楽しみですが、逆に「本当にこの後が続くのか？」とも思ってしまいます。<BR>今は、「どこがどういうふうにTSものなんだろう」と想像するのが楽しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/ambivalenz/ambivalenz2.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/10/14 01:30:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/ambivalenz/ambivalenz2.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/10/14 01:30:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939832226knpcmm&id2=939563111phbshu&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939832226knpcmm_id2_939563111phbshu_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ����ւ��t�@���̊F���񂨑҂����ˁA�ՔV������uAmbivalenz�v��Q�́I �V���A�X�Ńg���C���C�g�ȁA��l�̕��͋C�̂��b�ł��B����ɂ��Ă�������Ƃ����̂��M�����Ȃ��A�������܂�����i�ł��ˁI
+【推薦文】 入れ替わりファンの皆さんお待ちかね、虎之助さん「Ambivalenz」第２章！ シリアスでトワイライトな、大人の雰囲気のお話です。それにしても処女作というのが信じられない、引き締まった作品ですね！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�}�b�h�}�b�N�X</strong>  <i>1999/10/14 09:56:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>マッドマックス</strong>  <i>1999/10/14 09:56:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939862572ynbvxs&id2=939563111phbshu&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939862572ynbvxs_id2_939563111phbshu_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��A�_�[�N���Ȃ��E�E�E<BR><BR>�_�[�N�����͋C���Ղ�Ղ񂵂ĂĂƂĂ��ǂ���i���Ǝv���܂��B
+うーん、ダークだなぁ・・・<BR><BR>ダークが雰囲気がぷんぷんしててとても良い作品だと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����@��N</strong>  <i>1999/10/15 23:29:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>佐藤　育朗</strong>  <i>1999/10/15 23:29:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939997766ytychd&id2=939563111phbshu&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939997766ytychd_id2_939563111phbshu_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�{���A���̍�i�A�v���Ԃ�̃_�[�N�n�̍�i�ł��ˁA�������~�X�e���[<BR>�ŁA��i�̍\�����������ǂ��ł��B<BR>�Ƃ��ɁA�l�i��L���ɂ��ẮA����͂��Ȃ�{�i�I�ł��B<BR>���́A��R�́A�ǂ�ȓW�J�ɂȂ�̂��A�y���݂ł��ˁB<BR>�Ƃ���ō�҂̌ՔV������́A�g�o�͂����ς܂������H<BR>���N�������ɂ̃����N����A���Łu���l�ޕ⊮�ψ���v���A�ՔV������́A�g�o�ł���B������ł́A��R�͂̍���̓W�J �Ȃǂ��Љ�Ă��܂��A���ɐ���i�A�s�r���������J���Ă��܂��B<BR>���ɁA����i�����J���Ă��܂��A<BR>���A��҂�����w��i�̊��z�𑗂��ĉ������x�ƌ����Ă��邩��A�ǂ�ŗǂ������Ǝv������A���͉���ł��A���z�𔪏d�F����̂g�o���l�A�R�����g���ĉ�������
+本当、この作品、久しぶりのダーク系の作品ですね、しかもミステリー<BR>で、作品の構成もすごく良いです。<BR>とくに、人格や記憶についての、解説はかなり本格的です。<BR>つぎは、第３章、どんな展開になるのやら、楽しみですね。<BR>ところで作者の虎之助さんの、ＨＰはもう観ましたか？<BR>少年少女文庫のリンクから、飛んで「裏人類補完委員会」が、虎之助さんの、ＨＰですよ。こちらでは、第３章の今後の展開 などを紹介しています、他に数作品、ＴＳ小説も公開しています。<BR>他に、数作品も公開しています、<BR>又、作者さんも『作品の感想を送って下さい』と言っているから、読んで良かったと思ったら、文章下手でも、感想を八重洲さんのＨＰ同様、コメントして下さいね
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">����</a></strong>  <i>2000/01/29 10:06:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">たこ</a></strong>  <i>2000/01/29 10:06:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=949107992ogjumx&id2=939563111phbshu&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_949107992ogjumx_id2_939563111phbshu_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�S�b�S���ǂ܂��Ă��炢�܂����ATS�֌W��HP�ŐF�X�ȍ�i��ǂ݂܂������A���̍�i�̓X�g�[���[����ϗǂ��ATS�Ɏ��闝�R���Ȃ�قǂƊ��S�������܂����B<BR><BR>�ʔ��������ł��A���ꂩ����ǂ���i�����҂��Ă܂��A�撣���Ă��������B
+４話全部読ませてもらいました、TS関係のHPで色々な作品を読みましたが、この作品はストーリーが大変良く、TSに至る理由がなるほどと感心させられました。<BR><BR>面白かったです、これからも良い作品を期待してます、頑張ってください。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="939563111phbshu">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

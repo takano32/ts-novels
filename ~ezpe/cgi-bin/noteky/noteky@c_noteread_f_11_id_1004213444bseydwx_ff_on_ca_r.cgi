@@ -1,411 +1,411 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=1004213444bseydwx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_1004213444bseydwx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����D���Ȑl</font><br>
+<font size="+2" color="#0000FF">俺が好きな人</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200110/28050903/my_lover01.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/10/28 05:10:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200110/28050903/my_lover01.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/10/28 05:10:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004213444bseydwx&id2=1004213444bseydwx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004213444bseydwx_id2_1004213444bseydwx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������������Ă񂱂���ł��B�L�[���[�h�͂���Ȃ��񂶂ᓞ����̑���܂���B�Œ�ł����ƂP�O�͑����Ȃ��Ắc(��)<BR>
+おいしい部分がてんこもりです。キーワードはこんなもんじゃ到底もの足りません。最低でもあと１０個は足さなくては…(笑)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/10/28 10:30:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/10/28 10:30:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004232612bwolmyw&id2=1004213444bseydwx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004232612bwolmyw_id2_1004213444bseydwx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�E�g�����͏I�����߂łƂ��������܂��B<BR>�I�[�\�h�b�N�X�ȓ���ւ�肩�Ƃ��������₠��ȓW�J�ɂȂ�Ƃ́A�����V�N�ł��B<BR>�܂��A�V�g�͌䈤�g���ĂƂ���ł��ˁB����̕����Ƃ��Ċy���݂ɂ��Ă���܂��B<BR>���N�G�X�g�Ƃ��Ă͌��c�N�i�����˂����j�ɒ����ւ��l�`�ɂ���邠���˂����i���c�N�j�����Ă݂��������ł��B��O�ғI�Ɏ������R�[�f�B�l�[�g����Ƃ�����Ėʔ����������B����ł����˂����i���c�N�j���A���񑩒ʂ�p�����������Ă��ꂽ��ʔ����������낤�ȂȂ�Ďv���܂��B<BR>�ł��A�����˂����i���c�N�j�́A���{�����O���Ă�����܂菗�̎q�̎p�ɒ�R�Ȃ����������ނ肩�ȁB<BR>������y���݂ɂ��Ă���܂��B����΂��Ă��������B<BR>
+Ｔ・Ｈさん一章終了おめでとうございます。<BR>オーソドックスな入れ替わりかとおもいきやあんな展開になるとは、驚き新鮮です。<BR>まあ、天使は御愛嬌ってところですね。今後の伏線として楽しみにしております。<BR>リクエストとしては原田君（あかねちゃん）に着せ替え人形にされるあかねちゃん（原田君）を見てみたかったです。第三者的に自分をコーディネートするところって面白そうだし。それであかねちゃん（原田君）が、お約束通り恥ずかしがってくれたら面白かっただろうななんて思います。<BR>でも、あかねちゃん（原田君）は、リボンを外してもあんまり女の子の姿に抵抗なさそうだしむりかな。<BR>次回を楽しみにしております。がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/10/28 21:25:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/10/28 21:25:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004271930egjcj&id2=1004213444bseydwx&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004271930egjcj_id2_1004213444bseydwx_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�ʔ������������B�������@���������񂪏����Ă�����̂Ƃ��Ԃ�܂����A�z���g�ɁA���肫����̓���ւ�蕨���Ǝv������A����Ȃǂ�ł�Ԃ����������Ȃ�āB<BR>�������A�p�������i�H�j�͂���ȂƂ���ł��Ö􂵂Ă����Ƃ́E�E�E�i�΁j�B<BR>�������y���݂ł��B<BR>�d�������Ő����ς���Ă邍���W�S�Q�U�ł����B
+読んだバイ♪<BR>面白かったっす。あおき　あきおさんが書いておられるのとかぶりますが、ホントに、ありきたりの入れ替わり物かと思ったら、こんなどんでん返しがあったなんて。<BR>しかし、パラ○ル（？）はこんなところでも暗躍していたとは・・・（笑）。<BR>続きが楽しみです。<BR>仕事明けで酔っぱらってるｍｋ８４２６でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/10/29 16:38:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/10/29 16:38:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004341083nbssv&id2=1004213444bseydwx&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004341083nbssv_id2_1004213444bseydwx_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂��Ă��炢�܂����B<BR>�P�O�b����C�ɃA�b�v�Ƃ́B�������œǂނ̂Ɏ��Ԃ�������܂������A�ƂĂ��ʔ��������ł��B<BR>�����ƂȂ�ƁA��͂��l�ɂ͗l�X�ȍ���܂������Ă����ł��傤�ˁB�܂��A���̃p���[�ŉ��Ƃ��Ȃ�̂��ȁH(��)<BR>���̃��{���͕֗��ł��ˁB�������ꂽ��s�r���̕K�{�A�C�e���ɂȂ邩���B�i���ꂾ�ƖG���Ȃ��H��)
+読ませてもらいました。<BR>１０話を一気にアップとは。おかげで読むのに時間がかかりましたが、とても面白かったです。<BR>続くとなると、やはり二人には様々な困難がまちうけているんでしょうね。まあ、愛のパワーで何とかなるのかな？(笑)<BR>あのリボンは便利ですね。発売されたらＴＳ娘の必須アイテムになるかも。（それだと萌えない？笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>T�EH</strong>  <i>2001/11/01 00:32:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>T・H</strong>  <i>2001/11/01 00:32:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004542340kxtss&id2=1004213444bseydwx&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004542340kxtss_id2_1004213444bseydwx_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I��҂̂s�E�g�ł��B<BR>�܂��ڂ��Ă��炿����Ƃ����o���Ă��Ȃ��̂ɁA<BR>�������łɂR�l�̕�����̏������݂Ƃ������ƂŁA<BR>��ϊ��ӂ��Ă���܂��B<BR>�������@����������͂a�a�r�Q�̕��ł���������ł���Ă܂����ˁB<BR>�Ȃ�Ƃ����܂����A���ӂ̋C�����ł����ς��ł��B<BR>�����N�G�X�g�Ƃ��Ă͌��c�N�i�����˂����j�ɒ����ւ��l�`�ɂ���邠���˂����i���c�N�j�����Ă݂��������ł��B����O�ғI�Ɏ������R�[�f�B�l�[�g����Ƃ�����Ėʔ����������B������ł����˂����i���c�N�j���A���񑩒ʂ�p�����������Ă��ꂽ��ʔ����������낤�ȂȂ�Ďv���܂��B<BR>�m���ɁA���̂悤�Ȃ��Ƃ͂������낻���ł��ˁB<BR>�������A���͂������łɑ�Q�͂������グ�Ă��܂��܂����B<BR>�������A�������@����������̃��N�G�X�g�̂悤�Ȃ��Ƃ́A<BR>�c�O�Ȃ�������Ă��܂���ˁ[�E�E�E�i���݂܂���j<BR>��Q�͂��������e�������Ȃ̂ŁA�������y���݂�<BR>�҂��Ă���������Ί�΂����ł��B<BR>�Ō�ɁA�܂��܂���������̊��z�i�������݁j�����҂����Ă���܂��B<BR>�i���������̘b�E�E�E���́A���̘b�͂R�O�b�Ŋ����Ȃ̂ł��E�E�E�j<BR>�i�������A���͂�����R�͂��ł��Ă���̂ł��E�E�E���̂������e���܂��E�E�E�j<BR>
+どうも！作者のＴ・Ｈです。<BR>まだ載ってからちょっとしか経っていないのに、<BR>もうすでに３人の方からの書き込みということで、<BR>大変感謝しております。<BR>あおき　あきおさんはＢＢＳ２の方でも書き込んでくれてましたね。<BR>なんといいますか、感謝の気持ちでいっぱいです。<BR>＞リクエストとしては原田君（あかねちゃん）に着せ替え人形にされるあかねちゃん（原田君）を見てみたかったです。＞第三者的に自分をコーディネートするところって面白そうだし。＞それであかねちゃん（原田君）が、お約束通り恥ずかしがってくれたら面白かっただろうななんて思います。<BR>確かに、そのようなことはおもしろそうですね。<BR>しかし、実はもうすでに第２章を書き上げてしまいました。<BR>しかも、あおき　あきおさんのリクエストのようなことは、<BR>残念ながら入っていませんねー・・・（すみません）<BR>第２章もすぐ投稿するつもりなので、続きを楽しみに<BR>待っていただければ喜ばしいです。<BR>最後に、まだまだたくさんの感想（書き込み）をお待ちしております。<BR>（ここだけの話・・・実は、この話は３０話で完結なのです・・・）<BR>（しかも、実はもう第３章もできているのです・・・そのうち投稿します・・・）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ӂ����</strong>  <i>2001/11/03 23:44:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ふらっと</strong>  <i>2001/11/03 23:44:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004798680scdcax&id2=1004213444bseydwx&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004798680scdcax_id2_1004213444bseydwx_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����I�@�f���ɏ����Ă炵����́A�����łł��ˁI<BR>�F�l������Ă܂����A�܂��������Ȃ�Ƃ́E�E�E�B<BR>���S�Ɉӕ\��˂���܂����B<BR>�������A��Q�́E��R�͂��o���オ���Ă�I�H<BR>�ނށB�f�ڂ�S�҂��ɂ��Ă��܂��I
+おお！　掲示板に書いてらしたやつの、完成版ですね！<BR>皆様書かれてますが、まさかこうなるとは・・・。<BR>完全に意表を突かれました。<BR>しかも、第２章・第３章も出来上がってる！？<BR>むむ。掲載を心待ちにしています！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200110/28050903/my_lover02.htm" target="_blank">��Q�͂�����ɂ͂������N���b�N�B</a></strong>  <i>2001/11/04 00:56:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200110/28050903/my_lover02.htm" target="_blank">第２章を見るにはここをクリック。</a></strong>  <i>2001/11/04 00:56:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004803012xgtwe&id2=1004213444bseydwx&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004803012xgtwe_id2_1004213444bseydwx_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂��܂��A���e�����肾������ɂȂ��Ă��܂��B�������ɓǂ�ł��������B���̌�A�ǂ��Ȃ邩�ڂ������܂���B�������C�ɂȂ�܂��B
+ますます、内容が盛りだくさんになっています。いっきに読んでください。この後、どうなるか目が離せません。続きが気になります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/04 01:10:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/04 01:10:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004803810isombr&id2=1004213444bseydwx&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004803810isombr_id2_1004213444bseydwx_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����傤�Ǐ��N�������ɂ����Ă�����A�������͂܂���2�͂��ڂ��Ă��Ȃ������̂ɍX�V�{�^�����������炢���Ȃ������2�͂��ڂ��Ă����̂ŋ����Ă��܂��܂����i�΁j���傤�ǃ^�C�~���O�������Ă����̂ł����ȁH�Ƃ������ƂŁA��҂̂s�E�g�ł��B����������2�͂��ڂ�����ł����A�O�̎��̏������݂Ō������悤�Ɏ��͂�����3�͂��ł��Ă��܂��B������������ɓ��e�������Ǝv���Ă���܂��B�܂���2�͂̊��z�͒N������Ȃ��i���ڂ����΂��肾���瓖����O�ł���ˁE�E�E�j���ǁA��3�͂��y���݂ɂ��Ă���������΍K���ł��B����ƁA�������@����������A�������łɍ���Ă��܂��Ă������߂ɁA���N�G�X�g�ɓ����邱�Ƃ��ł��Ȃ��Ă��݂܂���ł����B���ꂩ����A�ǂ�ǂ�F��ȍ�i�𓊍e���Ă�������Ȃ̂ŁA������̕��ł��̃��N�G�X�g��������΂ȁ[�E�E�E�ȂǂƂ͎v���Ă���܂��̂ŁB���ɐ\���󂠂�܂���ł����B��҂Ƃ��ẮA��������̏������݂����炦��Ƃ��ꂵ���ł��B��������̏������݂�҂��Ă���܂��B
+今ちょうど少年少女文庫を見ていたら、さっきはまだ第2章が載っていなかったのに更新ボタンを押したらいきなりもう第2章が載っていたので驚いてしまいました（笑）ちょうどタイミングがあっていたのですかな？ということで、作者のＴ・Ｈです。たった今第2章が載った訳ですが、前の時の書き込みで言ったように実はもう第3章もできています。そちらもすぐに投稿したいと思っております。まだ第2章の感想は誰からもない（今載ったばかりだから当たり前ですよね・・・）けど、第3章も楽しみにしていただければ幸いです。それと、あおき　あきおさん、もうすでに作ってしまっていたために、リクエストに答えることができなくてすみませんでした。これからも、どんどん色んな作品を投稿していくつもりなので、そちらの方でそのリクエストを入れられればなー・・・などとは思っておりますので。誠に申し訳ありませんでした。作者としては、たくさんの書き込みがもらえるとうれしいです。たくさんの書き込みを待っております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n����</strong>  <i>2001/11/04 02:13:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地駆鴉</strong>  <i>2001/11/04 02:13:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004807601qicecng&id2=1004213444bseydwx&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004807601qicecng_id2_1004213444bseydwx_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āA���͓ǂ݂܂����B<BR>�ȊO�ȓW�J�ł��B<BR>�ǐS�p���g����N���X���[�g���o�Ă����Ǝv������A<BR>��l�������S�ɂ����˂���񉻂��Ă��܂��܂����B<BR>���ꂩ��R�������͂ǂ̂悤�ɓ�l���t�H���[����̂ł��傤���H<BR>�������y���݂ɂ��Ă��܂��B
+初めまして、第二章読みました。<BR>以外な展開です。<BR>読心術を使えるクラスメートが出てきたと思ったら、<BR>主人公が完全にあかねちゃん化してしまいますし。<BR>これから由香ちゃんはどのように二人をフォローするのでしょうか？<BR>続きを楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/04 03:03:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/04 03:03:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004810583sddxd&id2=1004213444bseydwx&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004810583sddxd_id2_1004213444bseydwx_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��i���ڂ��Ă���܂�����܂�i�������j�����Ă��Ȃ��̂ɁA<BR>�����ǂ�ł��ꂽ�l�������Ȃ�āI�ǂ�ł��������Ă��肪�Ƃ��������܂��B<BR>���ꂩ����F�X��i�𓊍e������A��R�͂����e�������Ȃ̂ŁA<BR>���������y���݂ɑ҂��Ă���������Ί������v���܂��B<BR>�Ƃ肠�����A��������̏������݂��҂����Ă���܂��B
+作品が載ってからまだあんまり（半日も）たっていないのに、<BR>もう読んでくれた人がいたなんて！読んでくださってありがとうございます。<BR>これからも色々作品を投稿したり、第３章も投稿するつもりなので、<BR>そっちも楽しみに待っていただければ嬉しく思います。<BR>とりあえず、たくさんの書き込みお待ちしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/11/04 11:10:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/11/04 11:10:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004839820sqnmww&id2=1004213444bseydwx&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004839820sqnmww_id2_1004213444bseydwx_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̑O�̓��N�G�X�g�Ȃǂ����Ă��܂���ώ��炢�����܂����B<BR>����A�ʔ����A�ʔ�������B�\�z�s�\�ȓW�J�̖ڔ������B�܂������̐��E�̓W�J���o��Ƃ͎v���܂���ł����B����ɂ����˂����̉ߋ��Ɋւ����肪�����Ǝ厲�ɂȂ��Ă���̂������ł��ˁB<BR>�R�������̓o��œV�g�����̏o�Ԃ��s���`�B<BR>�ǂ݂₷���ƓW�J�̖ʔ����s�E�g����Ĉ�̉��ҁi�΁j<BR>�\�z�����Ȃ��W�J���p�ӂ���Ă����Ȃ̂ŁA����y���݂ɂ��đ҂��Ă��܂��B<BR>����΂��Ă��������B<BR>
+この前はリクエストなどをしてしまい大変失礼いたしました。<BR>いや、面白い、面白すぎる。予想不可能な展開の目白押し。まさか夢の世界の展開が出るとは思いませんでした。それにあかねちゃんの過去に関する問題がちゃんと主軸になっているのも憎いですね。<BR>由香ちゃんの登場で天使ちゃんの出番がピンチ。<BR>読みやすさと展開の面白さＴ・Ｈさんて一体何者（笑）<BR>予想がつかない展開が用意されてそうなので、次回楽しみにして待っています。<BR>がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/11/04 11:15:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あい</strong>  <i>2001/11/04 11:15:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004840144qdhxc&id2=1004213444bseydwx&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004840144qdhxc_id2_1004213444bseydwx_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�́z<BR>�h�L�h�L���܂�����<BR>�������܂�āA<BR>�������O�N�ł����˂����ɂȂ��Ă����悤�Ȋ��o�Ɏ����܂���<BR>
+【第２章】<BR>ドキドキしました♪<BR>引き込まれて、<BR>自分が徹君であかねちゃんになっていくような感覚に囚われました<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/11/04 21:37:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/11/04 21:37:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004877476twxwbu&id2=1004213444bseydwx&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004877476twxwbu_id2_1004213444bseydwx_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A����͂������W�J�ɂȂ��Ă��܂��ȁB<BR>���̘b��S���ǂ߂�F�B���������������ǁA�}���Ȑ��_�E�L���̏��������Ƃ����W�J�͗\�z�O�ł����B<BR>�������y���݂ł��I
+読んだバイ♪<BR>おお、これはすごい展開になっていますな。<BR>夢の話や心が読める友達もすごかったけど、急速な精神・記憶の書き換えという展開は予想外でした。<BR>続きが楽しみです！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/04 23:05:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/04 23:05:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004882714sqsfa&id2=1004213444bseydwx&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004882714sqsfa_id2_1004213444bseydwx_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I��҂̂s�E�g�ł��B<BR>�������łɏ������݂����������Ă���F�l���A<BR>���̍�i�ɂ��t���������Ă��������܂��Đ��ɂ��肪�Ƃ��������܂��B<BR><BR>�������@�����������<BR>�����̑O�̓��N�G�X�g�Ȃǂ����Ă��܂���ώ��炢�����܂����B<BR><BR>���������A���炾�Ȃ�Ďv��Ȃ��ł��������B<BR>�\���܂���̂ł����A�����������łɘb���ł��Ă��܂��Ă������߂�<BR>�ł��Ȃ����������ł��̂ŁA���ꂩ����ǂ�ǂ�F�X�ȍ�i��<BR>���e�������܂��̂ŁA������̕��Ń��N�G�X�g�̂悤�ȓW�J��<BR>����悤�Ǝv���Ă���܂��B<BR><BR>����ƁA������R�͂𓊍e���܂����B<BR>���̂����Ɍf�ڂ����Ǝv���܂��B<BR>��͂肱�̍�i�ɂ��܂��ẮA�ӊO�ȓW�J��<BR>�v���Ă���������������悤�ł��ˁB<BR>�����āA��R�͂ł͍X�ɈȊO�Ȃ��Ƃ��N���邩���I�H<BR>�������A�P�ԍŌ�̃��X�g�ł́E�E�E�I�H<BR>�Ƃ肠������R�͂Ŋ����Ȃ̂ł����A���͐V��������<BR>�l���Ă����肵�܂��B��R�͂̂��Ƃ��������Ă��炦��΂킩��܂��B<BR>���ƁA���̍�i���������łɂ������������Ă���܂��̂ŁA<BR>�̂��ɂ���������e���܂��B<BR>���̘b�Ƃ͂܂�������悤�ȕ��͋C�ɂȂ邩������܂��񂪁A<BR>��������ǂ�ł���������΂Ǝv���܂��B<BR>����́A�ǂ�ł����F�l��^�c�ψ��̕��X�Ƃ��ǂ����ӊ��ӂł��B<BR>
+どうも！作者のＴ・Ｈです。<BR>もうすでに書き込みをくださっている皆様方、<BR>私の作品にお付き合いしていただきまして誠にありがとうございます。<BR><BR>あおき　あきおさんへ<BR>＞この前はリクエストなどをしてしまい大変失礼いたしました。<BR><BR>いえいえ、失礼だなんて思わないでください。<BR>構いませんのですが、ただもうすでに話ができてしまっていたために<BR>できなかっただけですので、これからもどんどん色々な作品を<BR>投稿いたしますので、そちらの方でリクエストのような展開を<BR>入れようと思っております。<BR><BR>それと、もう第３章を投稿しました。<BR>そのうちに掲載されると思います。<BR>やはりこの作品につきましては、意外な展開と<BR>思ってくださる方が多いようですね。<BR>そして、第３章では更に以外なことが起こるかも！？<BR>しかも、１番最後のラストでは・・・！？<BR>とりあえず第３章で完結なのですが、実は新しい企画を<BR>考えていたりします。第３章のあとがきを見てもらえればわかります。<BR>あと、他の作品がもうすでにいくつか完成しておりますので、<BR>のちにそちらも投稿します。<BR>この話とはまた違ったような雰囲気になるかもしれませんが、<BR>そちらも読んでいただければと思います。<BR>今回は、読んでくれる皆様や運営委員の方々ともども感謝感謝です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/04 23:39:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/04 23:39:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004884797qwshtf&id2=1004213444bseydwx&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004884797qwshtf_id2_1004213444bseydwx_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂�<BR><BR>�����̓V���[�g�X�g�[���[��������܂���I�H
+おまけ<BR><BR>次回作はショートストーリーかもしれません！？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200110/28050903/my_lover03.htm" target="_blank">��R�͂�����ɂ͂������N���b�N�B</a></strong>  <i>2001/11/05 22:59:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200110/28050903/my_lover03.htm" target="_blank">第３章を見るにはここをクリック。</a></strong>  <i>2001/11/05 22:59:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004968777eduwm&id2=1004213444bseydwx&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004968777eduwm_id2_1004213444bseydwx_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���E���z���e�ʂP�X�T�j�a�ɂ��Ȃ��������A���悢�抮���B�͂����ē���ւ�����܂܂��݂��ɂȂ肫���Ă��܂�����l�́A�ǂ��Ȃ��Ă��܂��̂��H�@��s����Ƃ��ڂ������܂���I
+推薦文】総容量１９５ＫＢにもなった大作も、いよいよ完結。はたして入れ替わったままお互いになりきってしまった二人は、どうなってしまうのか？　一行たりとも目が離せません！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n����</strong>  <i>2001/11/06 00:15:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地駆鴉</strong>  <i>2001/11/06 00:15:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004973315jfwdvat&id2=1004213444bseydwx&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004973315jfwdvat_id2_1004213444bseydwx_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��O�͓ǂ݂܂����B<BR>�Ȃ�Ƃ��g������ȓW�J�ł����B<BR>�������ŏI�I�ɂ͊ۂ������܂�܂����ˁB<BR>�Ȃɂ�畡�G�ȏI�����ł������A�ʔ��������ł��B<BR>�Ƃ���ŗR���҂ł����ǁA���̌�̘b�œ���ւ��Ƃ����̂͂ǂ��ł����H<BR>����͂�A���팾�ł����B�@
+第三章読みました。<BR>なんとも波乱万丈な展開でした。<BR>しかし最終的には丸くおさまりましたね。<BR>なにやら複雑な終わり方でしたが、面白かったです。<BR>ところで由香編ですけど、この後の話で入れ替わるというのはどうですか？<BR>いやはや、たわ言でした。　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/06 01:31:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/06 01:31:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004977875rsgahsx&id2=1004213444bseydwx&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004977875rsgahsx_id2_1004213444bseydwx_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I�s�E�g�ł��B<BR><BR>���n���낳��<BR>���Ƃ���ŗR���҂ł����ǁA���̌�̘b�œ���ւ��Ƃ����̂͂ǂ��ł����H<BR><BR>���́A���̂��ƂȂ̂ł����A��҂ł��鎄�͖����ɂ���Ɠ����悤�Ȃ��Ƃ��l���Ă����肵�܂��B<BR>�Ƃ������Ƃ́I�s�E�g���`�����u�X�g�[���[�i��I�j�A�w�����D���Ȑl�x�i�R���ҁj�ƂȂ��đ�S�͂̓o�ꂩ�I�H<BR>�E�E�E�ł��A��҂ł��鎄�������ɂ��̃A�C�f�B�A�l���Ă��܂������A<BR>�{���ɓo�ꂷ�邩������܂���I�I<BR>��S�͂����݂��邩���Ȃ����́A�F����̈ӌ����悩������܂���B<BR>������S�͂����݂��Ȃ��Ƃ��Ă��A���̍�i�ł���΂点�Ă��������܂��B<BR>����ƁA���̍�i���Q�쓊�e�������܂����B<BR>���̂����f�ڂ����Ǝv���܂��B<BR><BR><BR>
+どうも！Ｔ・Ｈです。<BR><BR>＞地駆鴉さん<BR>＞ところで由香編ですけど、この後の話で入れ替わるというのはどうですか？<BR><BR>実は、そのことなのですが、作者である私は密かにそれと同じようなことを考えていたりします。<BR>ということは！Ｔ・Ｈが描くラブストーリー（謎！）、『俺が好きな人』（由香編）となって第４章の登場か！？<BR>・・・でも、作者である私も密かにこのアイディア考えていましたし、<BR>本当に登場するかもしれません！！<BR>第４章が存在するかしないかは、皆さんの意見次第かもしれません。<BR>もし第４章が存在しないとしても、他の作品でがんばらせていただきます。<BR>それと、他の作品を２作投稿いたしました。<BR>そのうち掲載されると思います。<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>starbow</strong>  <i>2001/11/06 01:50:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004979053fgedlm&id2=1004213444bseydwx&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004979053fgedlm_id2_1004213444bseydwx_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƃ肠�����A�I���܂����ˁB<BR>�P�͂���R�͂܂ŁA����A�������ɓǂ�ł��܂��܂����B<BR>���b�́A�n�b�s�[�G���h�ł��ˁB<BR><BR>���Ƃ́A�u���̒��̂����˂����v�Ɓu�R�������v�������<BR>�X�g�[��������Ƃ��������B<BR>�u�R�������v�̉ߋ��Ƃ��A�u���̒��̂����˂����v�̂��̌�Ƃ��B<BR><BR>�Ō�ɁA�s�E�g���܁A����J���܂ł��B
+とりあえず、終わりましたね。<BR>１章から３章まで、毎回、いっきに読んでしまいました。<BR>お話は、ハッピーエンドですね。<BR><BR>あとは、「夢の中のあかねちゃん」と「由香ちゃん」側からの<BR>ストーリがあるといいかも。<BR>「由香ちゃん」の過去とか、「夢の中のあかねちゃん」のその後とか。<BR><BR>最後に、Ｔ・Ｈさま、ご苦労さまです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>T�EH</strong>  <i>2001/11/06 02:14:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>T・H</strong>  <i>2001/11/06 02:14:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004980488xgeug&id2=1004213444bseydwx&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004980488xgeug_id2_1004213444bseydwx_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����IT�EH�ł��B<BR>starbow����A�������݂��肪�Ƃ��������܂��B<BR>starbow����ɂ́A�^�c�ψ���̐F�X�Ȃ��Ƃ�<BR>�i�Ⴆ�΁A�f�ڂƂ����[���ł̂��m�点�Ƃ��j<BR>�{���ɂ����b�ɂȂ��Ă��܂��A���肪�Ƃ��������܂����B<BR><BR>�����Ƃ́A�u���̒��̂����˂����v�Ɓu�R�������v�������<BR>�X�g�[��������Ƃ��������B<BR>�u�R�������v�̉ߋ��Ƃ��A�u���̒��̂����˂����v�̂��̌�Ƃ��B<BR><BR>�����ł��ˁB�O�̏������݂ŗ\���i�H�j�����A<BR>�R���Ɠ���ւ��i��������Ȃ��j�҂�������Ƃ���΁A<BR>���̘b�ŗR�������̉ߋ��Ƃ��A���̒��̂����˂����̂��̌オ<BR>���邩������܂���B<BR>�ł��A���ꂼ��̑�����ɂł��邩�͂킩��܂��񂪁B<BR>�����ŁA���S���肵�܂��B<BR>�R���҂Ƃ��āA�w�����D���Ȑl�x�̑�S�͂����܂��I�I<BR>��S�͂͂܂����n�߂Ă��Ȃ��̂ŁA<BR>���̘b�łȂ�A�������@����������̃��N�G�X�g��������邩������܂���B<BR>���I�ł��A����͂����˂����ł͂Ȃ��R�������Ɠ���ւ��̂�����A<BR>�����˂����ł͂Ȃ��R�������Ɍ��c�N�������ւ��l�`�ɂ���邩������܂��񂪁H<BR>�ꏏ�ɂȂ��Ċy���ނ����˂����Ȃ�Ă̂�������������܂���ˁI<BR>�ݒ�Ƃ��ẮA����ւ�肪�߂��Ă܂��P�T�Ԃ��o���Ă��Ȃ�������<BR>�R���Ɠ���ւ���Ă��܂��Ƃ����ݒ肩���H<BR>�ł��A���͗R���̉ߋ��A��Ҏ��g�l���Ă��Ȃ������肵�܂��E�E�E�B<BR>���Ȃ�܂���i���������Ă��Ȃ��̂ŁA���e�ɂ���Ă̓��N�G�X�g��<BR>�󂯕t�����邩������܂���B<BR>�V�L�����o��̃��N�G�X�g�ł��\���܂��񂵁A���̑��Ȃ�ł��I<BR>�i�ł�����胊�N�G�X�g�ɂ͂������������܂��j<BR>�Ȃ񂾂����͂��Ȃ����Ȃ��Ă��܂��܂����̂ŁA<BR>����͂��̕ӂŁB
+どうも！T・Hです。<BR>starbowさん、書き込みありがとうございます。<BR>starbowさんには、運営委員会の色々なことで<BR>（例えば、掲載とかメールでのお知らせとか）<BR>本当にお世話になってしまい、ありがとうございました。<BR><BR>＞あとは、「夢の中のあかねちゃん」と「由香ちゃん」側からの<BR>ストーリがあるといいかも。<BR>「由香ちゃん」の過去とか、「夢の中のあかねちゃん」のその後とか。<BR><BR>そうですね。前の書き込みで予告（？）した、<BR>由香と入れ替わる（かもしれない）編を作ったとすれば、<BR>その話で由香ちゃんの過去とか、夢の中のあかねちゃんのその後が<BR>作れるかもしれません。<BR>でも、それぞれの側からにできるかはわかりませんが。<BR>ここで、完全決定します。<BR>由香編として、『俺が好きな人』の第４章を作ります！！<BR>第４章はまだ作り始めていないので、<BR>この話でなら、あおき　あきおさんのリクエストも入れられるかもしれません。<BR>あ！でも、今回はあかねちゃんではなく由香ちゃんと入れ替わるのだから、<BR>あかねちゃんではなく由香ちゃんに原田君が着せ替え人形にされるかもしれませんが？<BR>一緒になって楽しむあかねちゃんなんてのもいいかもしれませんね！<BR>設定としては、入れ替わりが戻ってまだ１週間も経っていないうちに<BR>由香と入れ替わってしまうという設定かも？<BR>でも、実は由香の過去、作者自身考えていなかったりします・・・。<BR>今ならまだ作品が完成していないので、内容によってはリクエストを<BR>受け付けられるかもしれません。<BR>新キャラ登場のリクエストでも構いませんし、その他なんでも！<BR>（できる限りリクエストにはお答えいたします）<BR>なんだか文章がながくなってしまいましたので、<BR>今回はこの辺で。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/11/06 08:42:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/11/06 08:42:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005003739sueslco&id2=1004213444bseydwx&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005003739sueslco_id2_1004213444bseydwx_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���ށA���ׂĂ��ۂ������܂��Ă߂ł����߂ł����i�΁j�B<BR>��������ꂳ�܁E�E�E�Ə������Ǝv������A���������҂̗\�����I<BR>����͊��ґ�B<BR><BR>�������A�����Ɩ��ŕʂ̔ޏ��Ȃ�āA�������������I�O�i�΁j
+読んだバイ♪<BR>うむ、すべてが丸くおさまってめでたしめでたし（笑）。<BR>完結お疲れさま・・・と書こうと思ったら、嬉しい続編の予告が！<BR>これは期待大。<BR><BR>しかし、現実と夢で別の彼女なんて、ぜいたくだぞ！徹（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/11/06 10:29:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あい</strong>  <i>2001/11/06 10:29:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005010180aqaun&id2=1004213444bseydwx&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005010180aqaun_id2_1004213444bseydwx_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̒��ɗ��l���Č����̂͂�����ł����邯��<BR><BR>���̑���������ƌq�����Ă���Č����̂��ґ򂩂���<BR><BR>�ł��h�L�h�L���Ă����b�ł�����
+夢の中に恋人って言うのはいくらでも作れるけど<BR><BR>その相手も現実と繋がってるって言うのは贅沢かも♪<BR><BR>でもドキドキしていい話でした♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/06 17:35:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/06 17:35:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005035718rmswdf&id2=1004213444bseydwx&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005035718rmswdf_id2_1004213444bseydwx_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I�s�E�g�ł��B<BR>�_�����z�̂����W�S�Q�U����A��������A<BR>�������݂��肪�Ƃ��������܂��B<BR>�m���ɁA���c�@�O���ґ򂩂�����܂���ˁI<BR>�������E�E�E��S�͂ł́E�E�E�B<BR>�i���͂܂�����܂�l���Ă��܂��񂪁A�ӊO�ȓW�J�Ƃ����̂��l������΂ȁ[�E�E�E�ȂǂƎv���Ă���܂��j<BR>�Ƃ������ƂŁA��S�͂���邱�Ƃɂ��܂����̂ŁA<BR>��������y���݂ɑ҂��Ă���������΂��肪�����ł��B<BR>���������āA��S�͂͑�T�͂ւƁA�X��<BR>�ǂ�ǂ񑱂����ɂȂ��Ă�����������܂���B<BR>�Ȍ���A�s�E�g�̍�i����낵�����肢���܂��B<BR><BR>�^�c�ψ��̊F�����<BR><BR>�������̏������݂��݂Ă�����A���肢�������̂ł����A<BR>���̊��z�̏ꏊ�̍�i�̃^�C�g�������A�w�����D���Ȑl�x�ł͂Ȃ�<BR>�w���̍D���Ȑl�x�ɂȂ��Ă��邱�ƂɋC�t���܂����B<BR>�����A�������ł���悤�ł�����A������<BR>���肢�ł���ł��傤���H���萔�����܂��B<BR>  <BR>
+どうも！Ｔ・Ｈです。<BR>神速感想のｍｋ８４２６さん、あいさん、<BR>書き込みありがとうございます。<BR>確かに、原田　徹は贅沢かもしれませんね！<BR>しかし・・・第４章では・・・。<BR>（実はまだあんまり考えていませんが、意外な展開というのを考えられればなー・・・などと思っております）<BR>ということで、第４章も作ることにしましたので、<BR>そちらも楽しみに待っていただければありがたいです。<BR>もしかして、第４章は第５章へと、更に<BR>どんどん続き物になっていくかもしれません。<BR>以後も、Ｔ・Ｈの作品をよろしくお願いします。<BR><BR>運営委員の皆さんへ<BR><BR>もしこの書き込みをみていたら、お願いしたいのですが、<BR>この感想の場所の作品のタイトル名が、『俺が好きな人』ではなく<BR>『俺の好きな人』になっていることに気付きました。<BR>もし、訂正ができるようでしたら、訂正を<BR>お願いできるでしょうか？お手数かけます。<BR>  <BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/11/07 13:39:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/11/07 13:39:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005107999euebst&id2=1004213444bseydwx&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005107999euebst_id2_1004213444bseydwx_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��C�ɏ����グ���܂����ˁB�����������ł��B<BR>�ЂƂ܂��������߂łƂ��������܂��B����ŗ������ď����܂���B�i�΁j<BR>�Ō�̃I�`�Ƃ����A�ʔ��������ł��B<BR>�������������L�����N�^�[�̓��ʓI�Șb���D���ł��B���ЊO�`�ł����˂����̘b�������Ă݂����ł��ˁB�͑��O����͑������˂ɂȂ����Ƃ���������˂���񑤂���̎��_�Ō�������̂ł��B<BR>���x�͗R���̘b���������ŁA�y���݂ɂ��Ă��܂��B�R���̓ǐS�\�͂̔閧�����ꂽ�肷��̂��ȁB<BR>���ꂩ�������΂��Ă��������B<BR>
+一気に書き上げられましたね。すごい早さです。<BR>ひとまず完結おめでとうございます。これで落ちついて書けますよ。（笑）<BR>最後のオチといい、面白かったです。<BR>私もこういうキャラクターの内面的な話が好きです。ぜひ外伝であかねちゃんの話しも見てみたいですね。河村徹から河村あかねになったところをあかねちゃん側からの視点で語ったものです。<BR>今度は由香の話しだそうで、楽しみにしています。由香の読心能力の秘密が語られたりするのかな。<BR>これからもがんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/07 18:33:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/07 18:33:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005125625fxpxah&id2=1004213444bseydwx&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005125625fxpxah_id2_1004213444bseydwx_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I�s�E�g�ł��B<BR>�E�E�E�������̏o�����A������݂ɂȂ��Ă���悤�ȋC�����܂��B<BR>�������@����������A�������݂��肪�Ƃ��������܂��B<BR>�����ЊO�`�ł����˂����̘b�������Ă݂����ł��ˁB<BR>���͑��O����͑������˂ɂȂ����Ƃ���������˂���񑤂���̎��_�Ō�������̂ł��B<BR>����̓��N�G�X�g�ƌ��Ȃ��Ă���낵���̂ł��傤���H<BR>�Ƃ������A����Ƀ��N�G�X�g�Ƃ݂Ȃ����Ă��������܂��i^^;<BR>����͂܂������グ�Ă��Ȃ��Ƃ������ƂȂ̂ŁA�ł�����胊�N�G�X�g�ɂ͂��������悤�Ǝv���Ă���܂��B<BR>����ƁA��S�͂ł͐V�L�������o�ꂵ�܂��ˁB<BR>�P�l�́w����@�R�I�x�ƌ����āA�O�ƗR��������ւ���Ă��܂������Ƃ����R�m���Ă��܂��L�����ł��B<BR>�����P�l�́A�w�ԉ��@���D�x�ƌ����āA�����˂����̉ߋ��i�͑��@�O�̂��Ɓj��m���Ă��܂��̂ł����A���͂��̃L�������g�ɂ��ȊO�Ȕ閧���E�E�E���̔閧�Ƃ́I�H<BR>�E�E�E�Ȃ񂾂��\���݂����ɂȂ��Ă��܂��܂����ˁB�i�΁j<BR>���Ȃ�܂��V�L�����Ƃ��̃��N�G�X�g���󂯕t������Ǝv���܂��B<BR>�Ƃ肠�������̂Ƃ���͂��̂Q�l�ł��B<BR>����ƁA�s�E�g�̍�i�̑�Q��ڂ��f�ڂ���܂����B<BR>��������ǂ�ł���������Ί�΂����ł��B<BR>���̂�����R��ڂ��ڂ�Ǝv���܂��B<BR>��R��ڂ͑������Ȃ̂ŁA�������Ɨ������Ă����Ȃ���w�����D���Ȑl�x�̑�S�͂������Ă������Ǝv���܂��̂ŁA����͓��e��<BR>�x���Ȃ��Ă��܂������m��܂���B<BR>�����A�����ł������݂����Ƃ����ӌ��Ȃǂ�����܂��Ȃ�A<BR>��Q�a�a�r�̕��ɏ������炢�͘b���ڂ��悤�Ƃ͎v���Ă���܂��B<BR>�ł́A����͂�����ӂŁB<BR>���܂ŏ������݂��Ă����������F����A���肪�Ƃ��������܂����B<BR>��S�͂⑼�̍�i����낵�����肢���܂��B<BR><BR>
+どうも！Ｔ・Ｈです。<BR>・・・もうこの出だし、お馴染みになっているような気がします。<BR>あおき　あきおさん、書き込みありがとうございます。<BR>＞ぜひ外伝であかねちゃんの話しも見てみたいですね。<BR>＞河村徹から河村あかねになったところをあかねちゃん側からの視点で語ったものです。<BR>これはリクエストと見なしてもよろしいのでしょうか？<BR>というより、勝手にリクエストとみなさせていただきます（^^;<BR>今回はまだ書き上げていないということなので、できる限りリクエストにはお答えしようと思っております。<BR>それと、第４章では新キャラが登場しますね。<BR>１人は『相沢　由紀』と言って、徹と由香が入れ替わってしまったことを偶然知ってしまうキャラです。<BR>もう１人は、『花岡　詩織』と言って、あかねちゃんの過去（河村　徹のこと）を知ってしまうのですが、実はこのキャラ自身にも以外な秘密が・・・その秘密とは！？<BR>・・・なんだか予告みたいになってしまいましたね。（笑）<BR>今ならまだ新キャラとかのリクエストも受け付けられると思います。<BR>とりあえず今のところはこの２人です。<BR>それと、Ｔ・Ｈの作品の第２作目が掲載されました。<BR>そちらも読んでいただければ喜ばしいです。<BR>そのうち第３作目も載ると思います。<BR>第３作目は続き物なので、そっちと両立していきながら『俺が好きな人』の第４章を書いていこうと思いますので、今回は投稿が<BR>遅くなってしまうかも知れません。<BR>もし、少しでも早くみたいという意見などがありますなら、<BR>第２ＢＢＳの方に少しくらいは話を載せようとは思っております。<BR>では、今回はここら辺で。<BR>今まで書き込みしてくださった皆さん、ありがとうございました。<BR>第４章や他の作品もよろしくお願いします。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.scn-net.ne.jp/~ts9/" target="_blank">����˂�</a></strong>  <i>2001/11/08 09:16:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.scn-net.ne.jp/~ts9/" target="_blank">かわねぎ</a></strong>  <i>2001/11/08 09:16:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005178607pblgprf&id2=1004213444bseydwx&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005178607pblgprf_id2_1004213444bseydwx_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�`�R�́A�ǂ݂܂����B<BR>�@���߂̓I�[�\�h�b�N�X�ȓ���ւ�蕨�Ǝv���Ă����̂ł����A�Ȃ��Ȃ��ǂ����ĐF�X�ȓW�J�Ɋy���܂��Ă��������܂����B���c�N�Ƃ����˂����������ɖ߂�ăn�b�s�[�G���h�Ǝv������A�R�������Ő^�̃G���f�B���O�Ȃ̂ł��ˁB<BR>�@���҂��l�����Ă���Ƃ̎��A�y���݂ł��B
+１～３章、読みました。<BR>　初めはオーソドックスな入れ替わり物と思っていたのですが、なかなかどうして色々な展開に楽しませていただきました。原田君とあかねちゃんも無事に戻れてハッピーエンドと思いきや、由香ちゃんで真のエンディングなのですね。<BR>　続編も考えられているとの事、楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/09 00:18:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/09 00:18:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005232716dnnii&id2=1004213444bseydwx&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005232716dnnii_id2_1004213444bseydwx_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I�s�E�g�ł��B<BR>����˂�����A�������݂��肪�Ƃ��������܂��B<BR>����̏������݂����ł��܂��񂪁A���ꂩ���<BR>�s�E�g�̍�i����낵�����肢���܂��B
+どうも！Ｔ・Ｈです。<BR>かわねぎさん、書き込みありがとうございます。<BR>お礼の書き込みしかできませんが、これからも<BR>Ｔ・Ｈの作品をよろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200110/28050903/my_lover04.html" target="_blank">��S�͂�����ɂ͂������N���b�N�B</a></strong>  <i>2001/11/25 02:21:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200110/28050903/my_lover04.html" target="_blank">第４章を見るにはここをクリック。</a></strong>  <i>2001/11/25 02:21:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006622501hsadqgx&id2=1004213444bseydwx&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006622501hsadqgx_id2_1004213444bseydwx_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�X�g�[�����}�W�J���܂����B�������A���̐��E�ŁA�R�^�c�Ƃ݂���Ƃ́B���x���A�������ɓǂނׂ��B
+【推薦文】ストーリが急展開しました。しかし、夢の世界で、コタツとみかんとは。今度も、いっきに読むべし。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n����</strong>  <i>2001/11/26 00:34:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地駆鴉</strong>  <i>2001/11/26 00:34:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006702446oyqowwh&id2=1004213444bseydwx&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006702446oyqowwh_id2_1004213444bseydwx_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B�{�����[�������Ղ�ł��B<BR>�܂����S�Ă�m��҂ȃL�������o�Ă���Ƃ͎v���܂���ł����B<BR>�R�I�����̕��͂����͂������Ȃ��Ă��܂����悤�ł����A���ꂩ��܂�������炩�����肷��̂ł��傤���H<BR>���D�c�c�����H�@�͂��ꂩ����d�v�Ȗ��ɂȂ肻���ł��ˁB<BR>�ʂ����ēO�N�͌��ɖ߂��̂ł��傤���H�@�߂�Ȃ��Ƃ����炠���˂����͂ǂ�����̂ł��傤���H<BR>���񂪋C�ɂȂ�܂��B
+読みました。ボリュームたっぷりです。<BR>まさか全てを知る者なキャラが出てくるとは思いませんでした。<BR>由紀ちゃんの方はもう力が無くなってしまったようですが、これからまた何かやらかしたりするのでしょうか？<BR>詩織……ちゃん？　はこれからも重要な役になりそうですね。<BR>果たして徹君は元に戻れるのでしょうか？　戻れないとしたらあかねちゃんはどうするのでしょうか？<BR>次回が気になります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/11/26 10:36:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/11/26 10:36:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006738581ylyflhc&id2=1004213444bseydwx&ff=on">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006738581ylyflhc_id2_1004213444bseydwx_ff_on.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�E�g����̍�i�ɂ��ẮA����͂킭�킭����т����芴���Ȃ������ł��ˁB<BR>���O�̃l�^�΂炵�̑����ƁA�����̂��߂̘b���A�ݒ�̂��߂̐ݒ�A�����E�ݒ�̂��߂̃L�����łs�E�g����̓��ʂ�����|���Ă����L�����N�^�[�����̎���������������Ă��Ȃ������悤�ȋC�����܂��B<BR>�O��̂s�E�g����̍�i���āA���̍�i�ɂ͂��̃L�����N�^�[���s�����ȁA�Ǝv�킹��قǊ���ړ����₷���`�ʂ����������̂ł���B�����獡��͂��������Ȃ��B<BR>�������ɕ��ʂ������ǂ݂������������āA�y���߂܂����B�ł��A�����ЂƂH������Ȃ��B<BR>���e���ł�߂����̂ł��傤���H<BR>�����Ă��邤���ɋꂵ���Ȃ��ĉ��Ƃ��̍ق𐮂����Ƃ��i�������ӂł��A�΁j<BR>�L�����I�ɖ��͓I�ȃL�����N�^�[�������o�Ă����̂ŁA���͂Ƃ������Ƃł��ꂩ��L�����B�̉ߋ��̂��������Ƃ���𖄂߂�Ή��Ƃ��Ȃ�̂��ȁB<BR>�s�E�g����̍�i�́A�����œǂ܂��̂ł͂Ȃ���������Ɩ��킦����̂Ȃ̂ŏł炸���J�ɗ���Ȃ��珑���΂����Ƃ悢��i�ɂȂ�Ǝv���̂ł����ǂ��ł��傤�H<BR>������y���݂ɂ��Ă��܂��B<BR>
+Ｔ・Ｈさんの作品にしては、今回はわくわく感やびっくり感がなかったですね。<BR>事前のネタばらしの多さと、説明のための話し、設定のための設定、説明・設定のためのキャラでＴ・Ｈさんの内面から語り掛けてくれるキャラクターたちの持ち味が活かされていなかったような気がします。<BR>前回のＴ・Ｈさんの作品って、この作品にはこのキャラクターが不可欠だな、と思わせるほど感情移入しやすい描写が多かったのですよ。だから今回はもったいない。<BR>たしかに分量も多く読みごたえがあって、楽しめました。でも、もうひとつ食い足りない。<BR>投稿を焦り過ぎたのでしょうか？<BR>書いているうちに苦しくなって何とか体裁を整えたとか（私も得意です、笑）<BR>キャラ的に魅力的なキャラクターが多数出てきたので、序章ということでこれからキャラ達の過去のおいしいところを埋めれば何とかなるのかな。<BR>Ｔ・Ｈさんの作品は、勢いで読ますのではなくじっくりと味わえるものなので焦らず丁寧に練りながら書けばもっとよい作品になると思うのですがどうでしょう？<BR>次回を楽しみにしています。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/11/26 22:32:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/11/26 22:32:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006781524rrqmy&id2=1004213444bseydwx&ff=on">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006781524rrqmy_id2_1004213444bseydwx_ff_on.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށA�m���ɂ������@���������񂪏�����Ă���悤�ɁA����̘b�͐������S�ŗ���Ă��܂����˂��B<BR>�������S�̘b�̗���ɂȂ�Ƃǂ����Ă����e�̕����󂭂Ȃ��Ă��܂��܂�����ˁB<BR>�܂��A����̕s���͎���ȍ~�ŉ����ł��邱�Ƃł��傤�B<BR>���҂��Ă��܂���B
+読んだバイ♪<BR>うーむ、確かにあおき　あきおさんが書かれているように、今回の話は説明中心で流れていましたねぇ。<BR>説明中心の話の流れになるとどうしても内容の方が浅くなってしまいますからね。<BR>まあ、今回の不満は次回以降で解消できることでしょう。<BR>期待していますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2001/11/30 00:12:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2001/11/30 00:12:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1007046754wpvlho&id2=1004213444bseydwx&ff=on">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1007046754wpvlho_id2_1004213444bseydwx_ff_on.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I�s�E�g�ł��B<BR>���̂R�l�݂̂Ȃ���A�������݂��肪�Ƃ��������܂��B<BR>�m���ɁA�������@����������̌����ʂ�A����͓��e��<BR>�ł肷�����̂�������܂���ˁB<BR>�w�����Ђ͂܂�����x���肪�������������Ă���̂ł�����A<BR>��͂肻�̒ʂ�ł��傤�B<BR>�x�X��i�����o���Ă��܂��Ă��݂܂���B<BR>���̍�i�����͂��Ȃ芴���Ƃ����܂����̂ŁA<BR>���ɂ����Ǝc���Ă����ł���[�B<BR>�Ȃ񂾂����X�݂����Ȋ����ŁA���z�{�[�h�ɂ�<BR>�������߂Ȃ������̂ł����ǁE�E�E�B<BR>��͂�������S�ƂȂ�ƁA���̂悤�Ȍ��ʂɂȂ��Ă��܂��̂ł��ˁB<BR>�������A����ł����ς��������I�������A����ł͐�����ʂ�<BR>���Ȃ��čςނƎv���܂��B<BR>�Ȃ̂ŁA����͂���΂��Ă������낢�v�f���Ƃ肢�����΁A<BR>�Ǝv���Ă���܂��B<BR>���߂āA�������݂��肪�Ƃ��������܂����B<BR>
+どうも！Ｔ・Ｈです。<BR>↑の３人のみなさん、書き込みありがとうございます。<BR>確かに、あおき　あきおさんの言う通り、今回は投稿を<BR>焦りすぎたのかもしれませんね。<BR>『あさひはまた昇る』を手がけた方が言っているのですから、<BR>やはりその通りでしょう。<BR>度々作品名を出してしまってすみません。<BR>この作品だけはかなり感動とかしましたので、<BR>頭にずっと残っているんですよー。<BR>なんだか今更みたいな感じで、感想ボードには<BR>書き込めなかったのですけど・・・。<BR>やはり説明中心となると、このような結果になってしまうのですね。<BR>しかし、今回でいっぱい説明を終えた分、次回では説明場面は<BR>少なくて済むと思います。<BR>なので、次回はがんばっておもしろい要素をとりいれられれば、<BR>と思っております。<BR>改めて、書き込みありがとうございました。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�`���R�x�[�[�I�I</strong>  <i>2002/02/05 20:58:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>チョコベーー！！</strong>  <i>2002/02/05 20:58:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1012910316igivqax&id2=1004213444bseydwx&ff=on">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1012910316igivqax_id2_1004213444bseydwx_ff_on.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��R�́z�ǂ܂��Ă��������܂����@�Ō�ɂ���Ȃɂ���_�ɋL�����ς��Ȃ�Ăт����肵�܂���(>_<)�@�@�R���̊炪���Ă݂����ł��I�I�@�@�����l�ł����@�@�s�E�g����
+【第３章】読ましていただきました　最後にあんなにも大胆に記憶が変わるなんてびっくりしました(>_<)　　由香の顔が見てみたいです！！　　お疲れ様でした　　Ｔ・Ｈさん
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�E�g</strong>  <i>2002/02/25 02:35:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｔ・Ｈ</strong>  <i>2002/02/25 02:35:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1014572152etple&id2=1004213444bseydwx&ff=on">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1014572152etple_id2_1004213444bseydwx_ff_on.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�`���R�x�[�[�I�I ����A���z���肪�Ƃ��������܂��I<BR>���݂܂���c�Ō�̂s�E�g�̏������݂̓��t������΂킩��Ǝv���܂����A<BR>�Ȃ��Ȃ����z�����Ȃ��������̂ōŋ߂͑S�R�������̊��z���̃`�F�b�N�����Ă��܂���ł����B<BR>�Ȃ̂ŁA�x���Ȃ��Ă��܂��Ė{���ɂ��݂܂���B<BR>���z���肪�Ƃ��������܂��B������y���݂ɑ҂��Ă�����������������ł��B
+チョコベーー！！ さん、感想ありがとうございます！<BR>すみません…最後のＴ・Ｈの書き込みの日付を見ればわかると思いますが、<BR>なかなか感想がこなかったもので最近は全然こっちの感想欄のチェックをしていませんでした。<BR>なので、遅くなってしまって本当にすみません。<BR>感想ありがとうございます。次回も楽しみに待っていただけたら嬉しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>K�EK���o�J�a</strong>  <i>2002/05/05 02:04:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>K・K＠バカ殿</strong>  <i>2002/05/05 02:04:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1020531887lfcmr&id2=1004213444bseydwx&ff=on">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1020531887lfcmr_id2_1004213444bseydwx_ff_on.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂����B�Ȃ񂩂����E�E���镨���L��܂����ˁB<BR>���������X�g�[���[�͊�{�I�ɍD���ł���B<BR>�߂���(?)�ߋ���m���Ă���̂ɁA�m��ʑf�U�������E�E�E�B<BR>�؂Ȃ��ł��ˁB��΂��A�Ⴊ�E�E�E�E�E�i�T_��<BR>���̍�i�ǂ�ŋ����܂��i��<BR>
+見ました。なんかこう・・来る物が有りましたね。<BR>こういうストーリーは基本的に好きですよ。<BR>悲しい(?)過去を知っているのに、知らぬ素振りをする・・・。<BR>切ないですね。やばい、眼が・・・・・（ゝ_ξ<BR>次の作品読んで泣きます（ぉ<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ւ񂯂�</strong>  <i>2002/05/12 12:26:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>へんけん</strong>  <i>2002/05/12 12:26:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1021173994mtnmq&id2=1004213444bseydwx&ff=on">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1021173994mtnmq_id2_1004213444bseydwx_ff_on.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��Ēj���̐������܂��N���X�����Ă���ȁ`�Ɗ��S�������܂����A��������̃X�g�[���[�͑����Ȃ������ł��˂Ȃ����Ƃ䂤�ƍ���̃X�g�[���[�P�O�b�ňꉞ�������Ă��邽�ߍ���͂��̓�l�̌����q���X�g�[���[�ł��傤�ˁB
+はじめまして男女の性をうまくクロスさせているな～と感心させられました、ただ今後のストーリーは多少ながら難しいですねなぜかとゆうと今回のストーリー１０話で一応完結しているため今後はこの二人の結婚子作りストーリーでしょうね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���[����</strong>  <i>2002/07/11 15:51:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>こーじぃ</strong>  <i>2002/07/11 15:51:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1026370277mnavtl&id2=1004213444bseydwx&ff=on">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1026370277mnavtl_id2_1004213444bseydwx_ff_on.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�`�S�܂ň�C�ɓǂ�ł��܂��܂����B���������D���ȃX�g�[���[�ł��B�����������Ԃ������Ă��邯�ǂT�͂͂ǂ��Ȃ��Ă��ł����H�����ǂ݂����ł��B
+１～４まで一気に読んでしまいました。けっこう好きなストーリーです。けっこう時間がたっているけど５章はどうなってるんですか？早く読みたいです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="1004213444bseydwx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

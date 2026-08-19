@@ -1,23 +1,23 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=955545593mdhlo&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_955545593mdhlo_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�`�^�ނƐT��T�` Survival</font><br>
+<font size="+2" color="#0000FF">～真奈と慎吾５～ Survival</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>2000/04/12 22:19:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>2000/04/12 22:19:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=955545593mdhlo&id2=955545593mdhlo&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_955545593mdhlo_id2_955545593mdhlo_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING
@@ -25,117 +25,117 @@ NOW PRINTING
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/survival01.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/04/12 23:45:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/survival01.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/04/12 23:45:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=955550714ihhtgf&id2=955545593mdhlo&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_955550714ihhtgf_id2_955545593mdhlo_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���������ӂ�郁���f�B���������Ă������ȃo���h���B���̕���ł́A�����Ƃ��Đ�����u�^�ށv�̐S�̋O�Ղ��Z���V�e�B���ȕ��̂ŒԂ��܂��B�c�u�^�ނ̒��̐T��v�́A�݂��܂���̃I���W�i���Ŕ��\�ȗ��A���̊�{�ݒ肩��l�X�Ȑl���Ǝ��̕���𐶂ݏo���Ă��܂��B�����̉ߋ���i�𓥂܂��Ė{���ǂނ��悵�A�Ɨ������X�g�[���[�Ƃ��ēǂނ̂��悵�A���Ǝv���܂��B
+【推薦文】 疾走感あふれるメロディが聞こえてきそうなバンド物。この物語では、少女として生きる「真奈」の心の軌跡がセンシティヴな文体で綴られます。…「真奈の中の慎吾」は、みたまさんのオリジナル版発表以来、その基本設定から様々な人が独自の物語を生み出しています。それらの過去作品を踏まえて本作を読むもよし、独立したストーリーとして読むのもよし、だと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="jackie-matthews@syd.odn.ne.jp" target="_blank">����</a></strong>  <i>2000/05/05 12:10:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="jackie-matthews@syd.odn.ne.jp" target="_blank">里花</a></strong>  <i>2000/05/05 12:10:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957496239jrlnv&id2=955545593mdhlo&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957496239jrlnv_id2_955545593mdhlo_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�A�����Ă�(;_;)
+感想、書いてね(;_;)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��@�ۑ���</strong>  <i>2000/05/09 00:22:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野　丸太丸</strong>  <i>2000/05/09 00:22:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957799367vnbvmkb&id2=955545593mdhlo&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957799367vnbvmkb_id2_955545593mdhlo_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����[�A�o���h�̕`�ʂ��a���ł��ˁB�i���͂����������ɍs�������Ƃ��Ȃ��L�삾���B�j<BR>�Ȃ񂾂��uBlind Faith�v��vocal.�Ǝ�l���Ƃ̊Ԃɕs�v�c�ȂȂ��肪�L�肻���Ȃ�ł��A�ˁB���������C�ɂȂ�܂����A����A���񂪑S�����C�u�̕`�ʂł����������������B����΂��Ă��������B
+うおー、バンドの描写が渋いですね。（実はそういう所に行ったことがない猫野だが。）<BR>なんだか「Blind Faith」のvocal.と主人公との間に不思議なつながりが有りそうなんです、ね。そっちも気になりますが、いや、次回が全部ライブの描写でもかっこいいかも。がんばってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���c����</strong>  <i>2000/05/10 21:52:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>原田聖也</strong>  <i>2000/05/10 21:52:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957963130mtmplq&id2=955545593mdhlo&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957963130mtmplq_id2_955545593mdhlo_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�`�ʂ����܂����Y��ł��ˁB���������Ԃ���ł��B<BR>�Ƃ��Ă��ނ��������e�[�}�ł����A���҂�S�҂��ɂ��Ă��܂��̂ŁA�撣���ĉ������ˁB
+描写がうまくて綺麗ですね。さすが里花さんです。<BR>とってもむずかしいテーマですが、続編を心待ちにしていますので、頑張って下さいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���J�H�v</strong>  <i>2000/05/11 23:05:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>水谷秋夫</strong>  <i>2000/05/11 23:05:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=958053910hknqil&id2=955545593mdhlo&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_958053910hknqil_id2_955545593mdhlo_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���������҂��Ă��܂��B���������ĂˁB<BR>�@������ƁA���z�����Ȃ�������āA�����Ȃ��ŉ������B
+　続きを期待しています。早く書いてね。<BR>　ちょっと、感想が少ないからって、泣かないで下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��×���</strong>  <i>2000/06/14 10:56:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>会津里花</strong>  <i>2000/06/14 10:56:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=960947812unnaei&id2=955545593mdhlo&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_960947812unnaei_id2_955545593mdhlo_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A���J���񂪋C���g���Ă���Ă�B<BR>���߂�Ȃ����ˁB<BR>�����A�����Ȃ�����B<BR>���A�ꐶ�����u��ޒ��v�Ȃ́I<BR>���y���݂Ɂ�
+あ、水谷さんが気を使ってくれてる。<BR>ごめんなさいね。<BR>もう、泣かないから。<BR>今、一生懸命「取材中」なの！<BR>お楽しみに♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">��×���</a></strong>  <i>2000/08/13 21:12:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">会津里花</a></strong>  <i>2000/08/13 21:12:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=966168741bqwue&id2=955545593mdhlo&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_966168741bqwue_id2_955545593mdhlo_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�{�l�ł��B<BR>�悤�₭���x�݂ɂȂ���(���́A���������n�[�h�ȐE��ɏA�E���Ă��܂��Ă����c��Z�������I)�̂ŁA�Ȃ�Ƃ��A�Ǝv���̂ł����A�E��̕��͋C����Ȃ��Ȃ������ꂸ�A�������������Ȃ��܂܂ł��܂��c�B<BR>�ق��Ċ��҂�����Y��Ă��܂��Ă���݂Ȃ���A���߂�Ȃ����ˁI<BR><BR>���`�A�o���h��肽���`�B<BR>�ł��A�����̗͂Ȃ��`�B(�I�o������`)<BR><BR>����ɁAIS������ł���̂ł�����Ɠ���B<BR>��낵����Η�܂��̂��ւ��!!�@�c�ƌ����Ȃ���A�Ԏ����o���Ȃ��������Ƃ�����̂ŁA����܂茾���Ȃ��c�B<BR><BR>�ł́B<BR>
+本人です。<BR>ようやくお休みになった(実は、けっこうハードな職場に就職してしまっていた…誤算だった！)ので、なんとか、と思うのですが、職場の雰囲気からなかなか離れられず、けっこう書けないままでいます…。<BR>黙って期待したり忘れてしまっているみなさん、ごめんなさいね！<BR><BR>あ～、バンドやりたい～。<BR>でも、もう体力ない～。(オバンじゃ～)<BR><BR>それに、ISが絡んでいるのでちょっと難しい。<BR>よろしければ励ましのお便りを!!　…と言いながら、返事を出さなかったこともあるので、あんまり言えない…。<BR><BR>では。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g�h�x�t�j�h</strong>  <i>2000/09/30 10:41:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＨＩＹＵＫＩ</strong>  <i>2000/09/30 10:41:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=970278109cypfc&id2=955545593mdhlo&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_970278109cypfc_id2_955545593mdhlo_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���񂴂�A���z��������Ă�̂ɗ��Ԃ���ւ̊��z��<BR>�S�R�����ĂȂ����ƂɋC�������̂ŁA�x��΂��Ȃ��獡���돑���܂��I<BR><BR>�r�W���A���n�D���Ȃ�ł���H���Ď��₵�����ł��ˁI<BR>�r�W���A���n�̃R�X�v�����������l�̋C�������ǂ�����Ă����<BR>�v���܂��B<BR>�����I�ȂƂ���Ƃ��ׂ����������Ƃ���Ƃ��I<BR>����ŁA�a���̂��i�D�ǂ���������A<BR>�h��D���Ȏ������߂���Əa���̂��i�D�ǂ��������肷���ł���ˁI<BR><BR>���C�u�̕`�ʂ��A�����������������ł��B<BR>�撣���ĉ������I
+さんざん、感想をもらってるのに里花さんへの感想を<BR>全然書いてないことに気がついたので、遅ればせながら今ごろ書きます！<BR><BR>ビジュアル系好きなんでしょ？って質問したいですね！<BR>ビジュアル系のコスプレをしたい人の気持ちが良く現れていると<BR>思います。<BR>中性的なところとか細く見せたいところとか！<BR>それで、渋いのが格好良く見えたり、<BR>派手好きな時期が過ぎると渋いのが格好良く見えたりするんですよね！<BR><BR>ライブの描写も、早く続きが見たいです。<BR>頑張って下さい！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">��×���</a></strong>  <i>2000/12/30 12:30:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">会津里花</a></strong>  <i>2000/12/30 12:30:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978147049grucva&id2=955545593mdhlo&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978147049grucva_id2_955545593mdhlo_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����[�[���AHIYUKI����I<BR>�����炱���A�`�F�b�N������Ȃɒx��Ă��܂��Ă��߂�Ȃ��[���I<BR>&gt;�r�W���A���n�D���Ȃ�ł���H���Ď��₵�����ł��ˁI<BR>���[��A���Ă������A���̓o���h���D���Ȃ̂�B<BR>�����ł�����Ă������B<BR>���ł��u�r�W���A���n�̃I�g�R�Ŕ����ł���[�v���Ă悭������B<BR>(���Ă������Ƃ́u�I�g�R�ɂ��������Ȃ��v���Ă������Ƃ����ǁc�c)<BR>�u���ʂ𒴂���v�̂́A��Ƀe�[�}�ł��B<BR>���͂�����Ǝ��M�ł�����ł͂Ȃ��̂ł����A�u��ށv�͏����ɐi��ł܂�!?�@(^^;)<BR><BR>�F�l�A�ǂ����ǂ��V���I���}�����܂��悤�B<BR>��҂��
+あらーーっ、HIYUKIさん！<BR>こちらこそ、チェックがこんなに遅れてしまってごめんなさーい！<BR>&gt;ビジュアル系好きなんでしょ？って質問したいですね！<BR>うーん、っていうか、私はバンドが好きなのよ。<BR>自分でもやっていたし。<BR>今でも「ビジュアル系のオトコで売れるでしょー」ってよく言われる。<BR>(っていうことは「オトコにしか見えない」っていうことだけど……)<BR>「性別を超える」のは、常にテーマです。<BR>今はちょっと執筆できる環境ではないのですが、「取材」は順調に進んでます!?　(^^;)<BR><BR>皆様、どうか良い新世紀を迎えられますよう。<BR>作者より
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="955545593mdhlo">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

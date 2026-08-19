@@ -1,51 +1,51 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>成年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=4&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_4_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=4&id=951824309rrfmg&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=4&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_4_id_951824309rrfmg_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_4_ff_on.cgi">成年コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�A���P�~���̎�</font><br>
+<font size="+2" color="#0000FF">アルケミラの雫</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2000/02/29 20:38:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2000/02/29 20:38:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=951824309rrfmg&id2=951824309rrfmg&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_951824309rrfmg_id2_951824309rrfmg_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������������<BR>�݂��݂�<BR>�ǂ����<BR>�݂��݂����I<BR>�Ԃ��Ƃ������Ă����ۂ�ɂ܂Ƃ߂��݂܂݂�<BR>�킽���͂ǂ킢�����Ȃ�ǂ킠�I<BR><BR>�i��p�t�������ɂ��A���΂炭���҂����������B�j<BR><BR>�s���ȕ��͂����������Ƃ��A�[�����l�т������܂��B<BR>����́A����ւ��P�W�ւs�r�̐^�����Ƃ�������<BR>����ւ������A�{���̎����̐g�̑����<BR>������Ⴄ�Ƃ����A������ςȂ�����҂��Ă����W�J�ɂȂ��Ă����<BR>�傢�ɖ����ł��B<BR><BR>�ꉞ�A���₵�Ȃ�����A�U�߂��Ă邤���ɁA<BR>���񂾂񂻂̋C�ɂȂ��Ă����B<BR>�������A�ǂ����A�˘f���p������Ă���g���V������ɂ�<BR>���`���G���B<BR>���x�́A��̐��]����ŁA����ւ������ԃL�[�v�̂܂�<BR>�g���V������ƃ~���g����񂪁A���]�����Ă���Ă���Ȃ����Ȃ�<BR>���҂��Ă���A�挎����̂��̂P�����B<BR><BR>����ȊO�ł��A���C�h����ȊO�̊i�D�����߂ďo�����A<BR>�O�҂݂̂��߁A���𞀂����Ă���Œ��A<BR>�������肻�̋C�ƁA����Ă���邺�B�g���V������B<BR><BR>�\���ɂ��ƁA�������A�����T�傳��A�ڂ�悤������<BR>�ǂ����V���[�g�炵������A�A���P�~���̎���<BR>�ڂ邩�A���Ȃ�s���B<BR>
+うををををををを<BR>みつあみい<BR>どわわわわ<BR>みつあみいぃ！<BR>ぶっとおおくていっぽんにまとめたみつまみが<BR>わたしはどわいすきなんどわあ！<BR><BR>（冷却液注入中につき、しばらくお待ちください。）<BR><BR>不穏な文章があったことを、深くお詫びいたします。<BR>今回は、入れ替わり１８禁ＴＳの真骨頂ともいえる<BR>入れ替わった後、本来の自分の身体相手に<BR>やっちゃうという、しょっぱなから期待していた展開になってくれて<BR>大いに満足です。<BR><BR>一応、拒絶しながらも、攻められてるうちに、<BR>だんだんその気になっていく。<BR>しかも、どこか、戸惑い恥じらっているトリシュくんには<BR>メチャ萌え。<BR>今度は、例の性転換薬で、入れ替わった状態キープのまま<BR>トリシュくんとミントちゃんが、性転換してやってくれないかなと<BR>期待している、先月からのこの１ヶ月。<BR><BR>それ以外でも、メイドさん以外の格好が初めて出たし、<BR>三つ編みのため、髪を梳かしている最中、<BR>すっかりその気と、やってくれるぜ。トリシュくん。<BR><BR>予告によると、次号も、龍炎狼牙さん、載るようだけど<BR>どうやらショートらしいから、アルケミラの雫が<BR>載るか、かなり不安。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="4">
 <input type="hidden" name="id" value="951824309rrfmg">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=4&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_4_ff_on.cgi">成年コミック</a>]<br>
 
 </p>
 </body>

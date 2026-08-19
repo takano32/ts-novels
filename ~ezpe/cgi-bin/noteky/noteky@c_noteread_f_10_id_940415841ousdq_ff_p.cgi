@@ -1,46 +1,46 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>ƒIƒ“ƒ‰ƒCƒ“ì•i#1/Ž„‚ÌƒIƒXƒXƒ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ä½œå“#1/ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=10&id=940415841ousdq&ff=p&ca=r">ÅV‚Ìî•ñ‚ÉXV</a>] 
+[<a href="noteky@c_noteread_f_10_id_940415841ousdq_ff_p_ca_r.cgi">æœ€æ–°ã®æƒ…å ±ã«æ›´æ–°</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">ƒMƒƒƒ‰ƒŠ[”àŠG</font><br>
+<font size="+2" color="#0000FF">ã‚®ãƒ£ãƒ©ãƒªãƒ¼æ‰‰çµµ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>1999/10/20 19:37:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940415841ousdq&id2=940415841ousdq&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940415841ousdq_id2_940415841ousdq_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚¤‚£‚Á<BR>‚©‚Ÿ‚¢‚¢‚æ‚§iT¤T)<BR>‚ ‚ñ‚ÈƒƒCƒh‚È‚çA‘SàŽY‚Í‚½‚¢‚Ä‚Å‚àŒÙ‚¢‚½‚¢‚Å‚µB
+ã†ã…ã£<BR>ã‹ãã„ã„ã‚ˆã‰ï¼ˆTâ–½T)<BR>ã‚ã‚“ãªãƒ¡ã‚¤ãƒ‰ãªã‚‰ã€å…¨è²¡ç”£ã¯ãŸã„ã¦ã§ã‚‚é›‡ã„ãŸã„ã§ã—ã€‚
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>ƒƒbƒZ[ƒWF</b><br>
+<form action="noteky.cgi" method="post" >
+<b>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼š</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="940415841ousdq">
 <P></P>
-<b>‚¨–¼‘OF</b><br>
+<b>ãŠåå‰ï¼š</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>ƒ[ƒ‹ƒAƒhƒŒƒXF</b><br>
+<b>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ï¼š</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>¦ mailto:‚ðhttp://‚É’¼‚¹‚ÎURL‚ð“ü—Í‚Å‚«‚Ü‚·B</font>
+<font size=-1>â€» mailto:ã‚’http://ã«ç›´ã›ã°URLã‚’å…¥åŠ›ã§ãã¾ã™ã€‚</font>
 <P>
-<input type="submit" value="‘‚«ž‚Ý"><br>
+<input type="submit" value="æ›¸ãè¾¼ã¿"><br>
 <font size=-1>
-¦‘‚«ž‚ÝŒã‚ÍAƒuƒ‰ƒEƒU‚Ìu–ß‚évƒ{ƒ^ƒ“‚Å–ß‚Á‚Ä‰º‚³‚¢B<br>
+â€»æ›¸ãè¾¼ã¿å¾Œã¯ã€ãƒ–ãƒ©ã‚¦ã‚¶ã®ã€Œæˆ»ã‚‹ã€ãƒœã‚¿ãƒ³ã§æˆ»ã£ã¦ä¸‹ã•ã„ã€‚<br>
 </font>
 </form>
 <hr><BR>

@@ -1,34 +1,34 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>ƒIƒ“ƒ‰ƒCƒ“ì•i#3/Ž„‚ÌƒIƒXƒXƒ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ä½œå“#3/ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=12&ff=on">V‚µ‚­˜b‘è‚ð‚Â‚­‚é</a>] 
+[<a href="noteky@c_notebase_f_12_ff_on.cgi">æ–°ã—ãè©±é¡Œã‚’ã¤ãã‚‹</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=12&id=955383618harfyi&ff=on&ca=r">ÅV‚Ìî•ñ‚ÉXV</a>] 
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">ƒIƒ“ƒ‰ƒCƒ“ì•i#3</a>]<br>
+[<a href="noteky@c_noteread_f_12_id_955383618harfyi_ff_on_ca_r.cgi">æœ€æ–°ã®æƒ…å ±ã«æ›´æ–°</a>] 
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ä½œå“#3</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">‰´‚Ìg‘Ì‚ÁA•Ô‚¹‚ÁI@`‚½‚¾‚¢‚Ü•ÏŠ·’†@</font><br>
+<font size="+2" color="#0000FF">ä¿ºã®èº«ä½“ã£ã€è¿”ã›ã£ï¼ã€€ï½žãŸã ã„ã¾å¤‰æ›ä¸­ã€€</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art48.html" target="_blank">ì•i‚ðŒ©‚é‚É‚Í‚±‚±‚ðƒNƒŠƒbƒN</a></strong>  <i>2000/04/11 01:20:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art48.html" target="_blank">ä½œå“ã‚’è¦‹ã‚‹ã«ã¯ã“ã“ã‚’ã‚¯ãƒªãƒƒã‚¯</a></strong>  <i>2000/04/11 01:20:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=955383618harfyi&id2=955383618harfyi&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_955383618harfyi_id2_955383618harfyi_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-y„‘E•¶z —‚ÌŽqi‚É‚È‚Á‚½’jj‚ªŽ©•ª‚Ì‘Ì‚ðŽæ‚è–ß‚»‚¤‚ÆA‚¢‚Á‚µ‚å‚¤‚¯‚ñ‚ß‚¢’j‚ÌŽqi‚É‚È‚Á‚½—‚ÌŽqj‚ð’Ç‚Á‚©‚¯‚éB‚¢‚Ü‚Ü‚Å‚ ‚è‚»‚¤‚Åi‚ ‚Á‚½‚©‚à‚µ‚ê‚È‚¢‚¯‚ÇjA‚ ‚Ü‚è‚È‚©‚Á‚½ƒVƒ`ƒ…ƒG[ƒVƒ‡ƒ“‚Å‚·B
+ã€æŽ¨è–¦æ–‡ã€‘ å¥³ã®å­ï¼ˆã«ãªã£ãŸç”·ï¼‰ãŒè‡ªåˆ†ã®ä½“ã‚’å–ã‚Šæˆ»ãã†ã¨ã€ã„ã£ã—ã‚‡ã†ã‘ã‚“ã‚ã„ç”·ã®å­ï¼ˆã«ãªã£ãŸå¥³ã®å­ï¼‰ã‚’è¿½ã£ã‹ã‘ã‚‹ã€‚ã„ã¾ã¾ã§ã‚ã‚Šãã†ã§ï¼ˆã‚ã£ãŸã‹ã‚‚ã—ã‚Œãªã„ã‘ã©ï¼‰ã€ã‚ã¾ã‚Šãªã‹ã£ãŸã‚·ãƒãƒ¥ã‚¨ãƒ¼ã‚·ãƒ§ãƒ³ã§ã™ã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">‚·‚È‚³‚ñ</a></strong>  <i>2000/04/12 01:02:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">ã™ãªã•ã‚“</a></strong>  <i>2000/04/12 01:02:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=955468960dwwqdwl&id2=955383618harfyi&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_955468960dwwqdwl_id2_955383618harfyi_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 MSG:<BR>Very Good!<BR>Very Instrating!<BR>("Boy to Girl" & Reason to run away by "It")<BR><BR>Thank You.
@@ -36,47 +36,47 @@ MSG:<BR>Very Good!<BR>Very Instrating!<BR>("Boy to Girl" & Reason to run away by
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">uKv</a></strong>  <i>2000/04/12 23:27:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">ã€ŒKã€</a></strong>  <i>2000/04/12 23:27:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=955549655jqcdw&id2=955383618harfyi&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_955549655jqcdw_id2_955383618harfyi_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚¤[‚ñAƒIƒCƒVƒC!!‚²’y‘–‚³‚Ü‚Å‚µ‚½B
+ã†ãƒ¼ã‚“ã€ã‚ªã‚¤ã‚·ã‚¤!!ã”é¦³èµ°ã•ã¾ã§ã—ãŸã€‚
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">—¢‰Ô</a></strong>  <i>2000/04/22 18:38:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">é‡ŒèŠ±</a></strong>  <i>2000/04/22 18:38:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=956396329ymttq&id2=955383618harfyi&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_956396329ymttq_id2_955383618harfyi_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚©‚í‚¢[B
+ã‹ã‚ã„ãƒ¼ã€‚
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>ƒƒbƒZ[ƒWF</b><br>
+<form action="noteky.cgi" method="post" >
+<b>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼š</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="12">
 <input type="hidden" name="id" value="955383618harfyi">
 <P></P>
-<b>‚¨–¼‘OF</b><br>
+<b>ãŠåå‰ï¼š</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>ƒ[ƒ‹ƒAƒhƒŒƒXF</b><br>
+<b>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ï¼š</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>¦ mailto:‚ðhttp://‚É’¼‚¹‚ÎURL‚ð“ü—Í‚Å‚«‚Ü‚·B</font>
+<font size=-1>â€» mailto:ã‚’http://ã«ç›´ã›ã°URLã‚’å…¥åŠ›ã§ãã¾ã™ã€‚</font>
 <P>
-<input type="submit" value="‘‚«ž‚Ý"><br>
+<input type="submit" value="æ›¸ãè¾¼ã¿"><br>
 <font size=-1>
-¦‘‚«ž‚ÝŒã‚ÍAƒuƒ‰ƒEƒU‚Ìu–ß‚évƒ{ƒ^ƒ“‚Å–ß‚Á‚Ä‰º‚³‚¢B<br>
+â€»æ›¸ãè¾¼ã¿å¾Œã¯ã€ãƒ–ãƒ©ã‚¦ã‚¶ã®ã€Œæˆ»ã‚‹ã€ãƒœã‚¿ãƒ³ã§æˆ»ã£ã¦ä¸‹ã•ã„ã€‚<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">ƒIƒ“ƒ‰ƒCƒ“ì•i#3</a>]<br>
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ä½œå“#3</a>]<br>
 
 </p>
 </body>

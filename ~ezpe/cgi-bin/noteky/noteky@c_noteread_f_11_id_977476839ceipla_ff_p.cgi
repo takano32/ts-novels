@@ -1,22 +1,22 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=977476839ceipla&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_977476839ceipla_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���Z�يَ�o��!!</font><br>
+<font size="+2" color="#0000FF">誠纏館館主登場!!</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2000/12/22 18:20:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2000/12/22 18:20:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977476839ceipla&id2=977476839ceipla&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977476839ceipla_id2_977476839ceipla_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NowPrinting
@@ -24,113 +24,113 @@ NowPrinting
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200012/22182634/sakigake.html" target="_blank">���̍�i������ɂ͂������N���b�N</a></strong>  <i>2000/12/22 18:44:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200012/22182634/sakigake.html" target="_blank">この作品を見るにはここをクリック</a></strong>  <i>2000/12/22 18:44:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977478263ygvub&id2=977476839ceipla&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977478263ygvub_id2_977476839ceipla_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ����Ⴀ�̏m�̓z�炾�����炱�̂��炢���Ă��A���������Ȃ����ǂ����c�c�B���̔Z�����A���ꂵ���͕M��ɐs�����������̂ł��I�I�@��������ď΂��Ă��܂��s�r�֒f�̖��A�ł��ˁB
+【推薦文】 そりゃあの塾の奴らだったらこのくらいしても、おかしくないけどさあ……。この濃厚さ、暑苦しさは筆舌に尽くしがたいのです！！　腹を抱えて笑ってしまうＴＳ禁断の味、ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���J�H�v</strong>  <i>2000/12/22 23:47:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>水谷秋夫</strong>  <i>2000/12/22 23:47:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977496442jtana&id2=977476839ceipla&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977496442jtana_id2_977476839ceipla_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ō��ɖʔ��������ł��B<BR>�@�Ƃ���ŁA�܂��������ŏI��肶��Ȃ��ł���ˁH
+　最高に面白かったです。<BR>　ところで、まさかここで終わりじゃないですよね？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�_�藺</strong>  <i>2000/12/22 23:59:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>神崎亮</strong>  <i>2000/12/22 23:59:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977497152mmexwa&id2=977476839ceipla&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977497152mmexwa_id2_977476839ceipla_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_��ł��B<BR>�������ŏI���<BR>�@���̂��Ƃ̓W�J�́c�c�@�����z���ʂ�Ȃ̂ŁA���Z�قɊւ��Ă̓G���h�\��ł��B<BR>�@������TS�m�͂܂���邩���m��܂���B
+神崎です。<BR>＞ここで終わり<BR>　このあとの展開は……　もう想像通りなので、誠纏館に関してはエンド予定です。<BR>　しかしTS塾はまたやるかも知れません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^��@�I</strong>  <i>2000/12/23 00:01:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真城　悠</strong>  <i>2000/12/23 00:01:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977497317ejfeh&id2=977476839ceipla&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977497317ejfeh_id2_977476839ceipla_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�E�E�E�΂������Ď��ɂ����Ȃ�ł����i���j
+　・・・笑いすぎて死にそうなんですが（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���J�H�v</strong>  <i>2000/12/23 01:21:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>水谷秋夫</strong>  <i>2000/12/23 01:21:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977502102mfghtb&id2=977476839ceipla&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977502102mfghtb_id2_977476839ceipla_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Z�قɊւ��Ă̓G���h�\��ł��B<BR>�@����͎c�O�B����Ȃ�s��Ȃs�r�o�g�����J��L������̂��Ɩϑz��c��܂��Ă���܂����B<BR>�i�u�܁A�܂����A���̑��ɂ����e�̎g���肪�������Ɓc�c�v�A�Ƃ��A�ˁB���肪���j<BR>�@����s�r�m�ɂ���ϑ�ϊ��҂��Ă���܂��ł��B
+＞誠纏館に関してはエンド予定です。<BR>　それは残念。さらなる壮絶なＴＳバトルが繰り広げられるのかと妄想を膨らましておりました。<BR>（「ま、まさか、俺の他にも操弾の使い手がいただと……」、とか、ね。ありがち）<BR>　次回ＴＳ塾にも大変大変期待しておりますです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:gedoh@gundam.com" target="_blank">�_�藺</a></strong>  <i>2000/12/23 23:56:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:gedoh@gundam.com" target="_blank">神崎亮</a></strong>  <i>2000/12/23 23:56:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977583372usxcoks&id2=977476839ceipla&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977583372usxcoks_id2_977476839ceipla_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���u�܁A�܂����A���̑��ɂ����e�̎g���肪�������Ɓc�c�v<BR>�܂��A����̓~�G�~�G���������(��)<BR>���d�F�P�T���̕ϐg���ǂ��񂾂��ǁc�c�Ƌ��S�̂��Ƃ���ア���Ȃ��āc�c<BR>�c�c����A�҂Ă�c�c�i����֑����j
+＞「ま、まさか、俺の他にも操弾の使い手がいただと……」<BR>まぁ、それはミエミエだったんで(笑)<BR>八重洲１５世の変身も良いんだけど……独金鉄のあとじゃ弱いかなって……<BR>……いや、待てよ……（次回へ続く）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ǂ�</strong>  <i>2000/12/24 16:36:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>どら</strong>  <i>2000/12/24 16:36:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977643380jmgdxnn&id2=977476839ceipla&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977643380jmgdxnn_id2_977476839ceipla_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�����o���Ăق����ŃX�B�O�O<BR>
+塾長も出してほしいでス。＾＾<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����@���Y</strong>  <i>2000/12/24 21:04:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>多喜　丙郎</strong>  <i>2000/12/24 21:04:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977659480ejsrp&id2=977476839ceipla&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977659480ejsrp_id2_977476839ceipla_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂�̂�����Ȃ��ɑ唚�΂��Ă��܂����i�΁j�B<BR>��͂葱���͓����u���܂��Ɍ����Ă��{���̂s�r���e���Ȃ��v<BR>�ł����H
+あまりのくだらなさに大爆笑してしまった（笑）。<BR>やはり続きは桃が「おまえに見せてやる本当のＴＳ操弾をなあ」<BR>ですか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:gedoh@gundam.com" target="_blank">�_�藺</a></strong>  <i>2000/12/25 00:00:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:gedoh@gundam.com" target="_blank">神崎亮</a></strong>  <i>2000/12/25 00:00:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977670008khtwhd&id2=977476839ceipla&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977670008khtwhd_id2_977476839ceipla_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�c�c�r���܂ŏ����Ă����̂������Ă��܂����`�c�c<BR>�݂Ȃ���A�}���ȕۑ��ł����I<BR><BR>���m��<BR>�@�͂��A���̐l���������ł����H�@�z���g�ɗǂ���ł����H<BR><BR>������<BR>�@�����ł�(��)<BR><BR>�Ƃ���ŁA�����̃y�[�W��Palm�ŗp�ӂ��܂����B<BR><a href="http://cgi.linkclub.or.jp/~gedoh/" target="_blank">http://cgi.linkclub.or.jp/~gedoh/</a>
+……途中まで書いていたのが消えてしまった～……<BR>みなさん、マメな保存ですぞ！<BR><BR>＞塾長<BR>　はぁ、あの人も化けるんですか？　ホントに良いんですか？<BR><BR>＞桃が<BR>　そうです(笑)<BR><BR>ところで、うちのページでPalm版用意しました。<BR><a href="http://cgi.linkclub.or.jp/~gedoh/" target="_blank">http://cgi.linkclub.or.jp/~gedoh/</a>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="977476839ceipla">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

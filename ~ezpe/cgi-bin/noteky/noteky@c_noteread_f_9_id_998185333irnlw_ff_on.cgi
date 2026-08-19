@@ -1,520 +1,520 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�G�k�{�[�h/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>雑談ボード/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=9&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_9_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=9&id=998185333irnlw&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=9&ff=on">�G�k�{�[�h</a>]<br>
+[<a href="noteky@c_noteread_f_9_id_998185333irnlw_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_9_ff_on.cgi">雑談ボード</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">2001�N�I�t��No.4</font><br>
+<font size="+2" color="#0000FF">2001年オフ会No.4</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/19 10:42:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/19 10:42:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998185333irnlw&id2=998185333irnlw&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998185333irnlw_id2_998185333irnlw_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���݂̎Q����]�ҁi�h�̗��j�F<BR>�@8��25���i�y�j�����@JR�V�h�����@����12��<BR>�t���Q���F���՗�E����˂��E���������E�S�[���h�A�[���E�ӂ���ƁE���c�܂�E�ڂ�����E�앶���E�䂫�҂��E�L��<BR>�[���A��F�l�n�m�c�n�E��_��<BR><BR>�@9��8���i�y�j�`9���i���j���s�@�V��}�z�e��<BR>8���F�ߌ�5���W��<BR>�@����݂���E���՗�E�앶���E�䂫�҂��E�L��<BR>9���F��12���W��<BR>�@�������������E�j���������E����˂��E���ځE�W���[�W���b�h�E����<BR>�Q�����Ԗ���F<BR>�@���������E�㌎�T���E�s�n�l�E��傤�E��[�ӂ����E��_��<BR><BR>�ȏ�B
+現在の参加希望者（敬称略）：<BR>　8月25日（土）東京　JR新宿東口　昼の12時<BR>フル参加：風祭玲・かわねぎ・こうけい・ゴールドアーム・ふらっと・吹田まり・ぼくちん・南文堂・ゆきぴょん・猫野<BR>夕方帰る：ＭＯＮＤＯ・矢治浩平<BR><BR>　9月8日（土）～9日（日）京都　新阪急ホテル<BR>8日：午後5時集合<BR>　亜希みちる・風祭玲・南文堂・ゆきぴょん・猫野<BR>9日：昼12時集合<BR>　あおきあきお・Ｋａｒｄｙ・かわねぎ・けぼ・ジャージレッド・ちむ<BR>参加時間未定：<BR>　こうけい・上月乃理・ＴＯＭ・りょう・るーふぁす・矢治浩平<BR><BR>以上。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/08/19 18:42:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/08/19 18:42:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998214126mboysi&id2=998185333irnlw&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998214126mboysi_id2_998185333irnlw_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂Ƃ߁A���肪�Ƃ��������܂��B<BR>���A�앶������́A9���F��12���W���ŁAkardy����8���F�ߌ�5���W���g�݂ł��ˁB<BR>kardy���񂨔��܂�Ȃ̂ŁA�����������Ƃ�����܂��B���[���A�h���X�����[�����ĉ������B
+まとめ、ありがとうございます。<BR>あ、南文堂さんは、9日：昼12時集合で、kardyさんが8日：午後5時集合組みですね。<BR>kardyさんお泊まりなので、つたえたいことがあります。メールアドレスをメールして下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ssgogo@sakai-city.ne.jp" target="_blank">���a</a></strong>  <i>2001/08/19 23:24:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ssgogo@sakai-city.ne.jp" target="_blank">七斬</a></strong>  <i>2001/08/19 23:24:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998231064wnwolos&id2=998185333irnlw&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998231064wnwolos_id2_998185333irnlw_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���s�I�t�ł����A��낵����Ύ��������Ē������������܂��B<BR>���A��Q���X��������Ƃ������ƂŁB<BR>��낵�����肢�v���܂��B<BR>
+京都オフですが、よろしければ私も混ぜて頂きたく存じます。<BR>日帰り参加９日昼からということで。<BR>よろしくお願い致します。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/08/21 00:02:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998319737idope&id2=998185333irnlw&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998319737idope_id2_998185333irnlw_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ً}�A���I�I<BR>���s�V��}�z�e���A�X���W���̃V���O�����[���y��<BR>�c�C�����[��(�V���O�����[�X)�����ɖ����ł��I�I<BR><BR>�E�E�E�ǁ[���܂���(�P���P�G)
+緊急連絡！！<BR>京都新阪急ホテル、９月８日のシングルルーム及び<BR>ツインルーム(シングルユース)が既に満室です！！<BR><BR>・・・どーしましょ(￣▽￣；)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:marusa@alles.or.jp" target="_blank">�܂邳</a></strong>  <i>2001/08/21 02:03:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:marusa@alles.or.jp" target="_blank">まるさ</a></strong>  <i>2001/08/21 02:03:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998327039ietkig&id2=998185333irnlw&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998327039ietkig_id2_998185333irnlw_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āA�����Ƃq�n�l���Ă����ł����A<BR>�������s��OFF��ɎQ�������Ă��������Ȃ��ł��傤���H<BR>�\��Ƃ��ẮA9��9���̓��A��ł��B<BR>
+はじめまして、ずっとＲＯＭっているんですが、<BR>私も京都のOFF会に参加させていただけないでしょうか？<BR>予定としては、9月9日の日帰りです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/08/21 08:35:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/08/21 08:35:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998350500koeki&id2=998185333irnlw&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998350500koeki_id2_998185333irnlw_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂邳����ok�ł��B�҂��Ă܂�<BR>�z�e�������ł����H<BR>����Ȃ狞�s�^���[�z�e���ɂƂ��ĉ������B�߂��ł��̂Ŏx��͂Ȃ��͂��B<BR>��낵�����肢���܂�<BR>
+まるささんokです。待ってます<BR>ホテル満室ですか？<BR>それなら京都タワーホテルにとって下さい。近いですので支障はないはず。<BR>よろしくお願いします<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/21 21:13:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/21 21:13:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998396029bvmcj&id2=998185333irnlw&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998396029bvmcj_id2_998185333irnlw_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��΂������c�B���s�^���[�z�e���ɃV���O���P�����܂����B<BR>8,662�~�A��ނ����Ȃ��B�B�B�B<BR>���s�^���[�z�e���̓d�b�F075-361-3211
+やばかった…。京都タワーホテルにシングル１室取りました。<BR>8,662円、やむをえない。。。。<BR>京都タワーホテルの電話：075-361-3211
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/21 21:15:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/21 21:15:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998396140dmesf&id2=998185333irnlw&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998396140dmesf_id2_998185333irnlw_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�����̕����Ƃ����Ӗ��ł���<BR><BR>�������A���s�I�t�͂��ɎQ���҂P�X�l�ɂȂ�܂����ˁI�@�O���ɂ��}���̏��������Ȃ��Ƃ����܂���B
+あ、自分の部屋という意味です↑<BR><BR>しかし、京都オフはついに参加者１９人になりましたね！　前日にお迎えの準備をしないといけません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/08/21 21:48:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998398132mpopo&id2=998185333irnlw&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998398132mpopo_id2_998185333irnlw_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���^���[�̃l�b�g�\��v�����ł��ƁA�P���V�j�ł��B<BR>����Kardy�̕��A�\������ł����܂����B<BR>���͋A��̍����o�X�B(�P���P�G)
+第二タワーのネット予約プランですと、１泊７Ｋです。<BR>早速Kardyの分、申し込んでおきました。<BR>問題は帰りの高速バス。(￣▽￣；)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/08/22 17:24:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/08/22 17:24:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998468649kmeeafw&id2=998185333irnlw&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998468649kmeeafw_id2_998185333irnlw_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���s�I�t�ł����A�W���̗[������X���ߑO�܂ŎQ�����ĂX���̒��ɋA��Ƃ����Q���`�Ԃł̓_���ł��傤���H<BR>�ǂ����Ă��X���̖�܂łɂ͓����ɖ߂�Ȃ��Ƃ����Ȃ����̂ŁB<BR>����ł�낵����ΎQ�������Ă��������܂��B
+京都オフですが、８日の夕方から９日午前まで参加して９日の昼に帰るという参加形態ではダメでしょうか？<BR>どうしても９日の夜までには東京に戻らないといけないもので。<BR>それでよろしければ参加させていただきます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="the_best@geocities.co.jp" target="_blank">��傤</a></strong>  <i>2001/08/23 00:19:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="the_best@geocities.co.jp" target="_blank">りょう</a></strong>  <i>2001/08/23 00:19:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998493564moqucsj&id2=998185333irnlw&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998493564moqucsj_id2_998185333irnlw_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���s�I�t�A�X�����A��ŎQ�����܂��B<BR>�I�t����ď��߂Ă���ŁA�Ȃ񂩃��N���N���܂��Ȃ��B<BR>�i��������������A�����ǎ���19��(^^;)�j
+京都オフ、９日日帰りで参加します。<BR>オフ会って初めてもんで、なんかワクワクしますなぁ。<BR>（↑おっさん口調、だけど実は19歳(^^;)）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/08/23 06:49:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/08/23 06:49:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998516976xjqsu&id2=998185333irnlw&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998516976xjqsu_id2_998185333irnlw_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������������ok�ł���B�����܂�Ƃ������Ƃł��ˁH<BR>��傤�����낵�����肢���܂���
+こうけいさんokですよ。お泊まりということですね？<BR>りょうさんよろしくお願いしますね
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�䂫�҂��</strong>  <i>2001/08/23 18:36:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ゆきぴょん</strong>  <i>2001/08/23 18:36:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998559387prtyb&id2=998185333irnlw&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998559387prtyb_id2_998185333irnlw_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�h(^^)�Ƃ����\��̃V�[�T�[�̌g�уX�g���b�v�h�����ł͖ڈ󂪏������̂ŁA�A�C�e���h�~�`�|�X�g�̌`������������h��ǉ����܂��B<BR>����ł͂������悤�A�߂񂻁[��Ă��A�܂�����Ă����݂��[�ꂽ���B�܂����傢�т�ǂ��B
+”(^^)という表情のシーサーの携帯ストラップ”だけでは目印が小さいので、アイテム”円形ポストの形をしたうちわ”を追加します。<BR>それではぐすうよう、めんそーれてぃ、まちかんてぃしみそーれたい。まっちょいびんどぅ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/23 22:29:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/23 22:29:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998573345uxfwew&id2=998185333irnlw&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998573345uxfwew_id2_998185333irnlw_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���悢�斾����i�W�^�Q�T�j�A�����I�t��ł��B�W���ꏊ�E�A����d�b�ԍ���������������Y�ꂸ�ɁA�݂Ȃ��񂢂��������Ă��������B<BR><BR>�i�q�V�h�w�́u�����v�ł���I�I<BR><BR>�Ȃ��L��͂e�c�t���m�[�g�p�\�R���������Ă܂���܂��B���J�����������E�G�Ȃǂ���܂�����A�����Q���������ˁB
+いよいよ明後日（８／２５）、東京オフ会です。集合場所・連絡先電話番号を書いたメモを忘れずに、みなさんいらっしゃってください。<BR><BR>ＪＲ新宿駅の「東口」ですよ！！<BR><BR>なお猫野はＦＤ付きノートパソコンを持ってまいります。公開したい小説・絵などありましたら、ご持参くださいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/08/24 07:54:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/08/24 07:54:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998607290nhmjfb&id2=998185333irnlw&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998607290nhmjfb_id2_998185333irnlw_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���s�I�t�ł����A�����܂�g�݂̕��W���̗[�H��̗\��ƁA�X���̌ߑO���̗\��i�ܒ��H�̗\��j�͉��������ł����H<BR>���N�G�X�g���肢�������܂��B
+京都オフですが、お泊まり組みの方８日の夕食後の予定と、９日の午前中の予定（含朝食の予定）は何がいいですか？<BR>リクエストお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/08/24 10:53:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/08/24 10:53:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998618004hisjfw&id2=998185333irnlw&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998618004hisjfw_id2_998185333irnlw_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�c�c�ƌ����Ă��炢�悢�斾���ɂȂ�܂����B<BR>�@�V�����ōs���܂��̂ŁA��낵�����肢���܂��B<BR>�@���ꂩ�狞�s�n�e�e�A�킽���̖��O���オ���Ă��Ȃ������̂ł�����x�Q����\�����܂��B<BR>�@�X���X���B�P�Q���܂łɍs���܂��B�V��}�z�e���̉����ő҂����킹��̂ł��傤�H
+　……と言ってたらいよいよ明日になりました。<BR>　新幹線で行きますので、よろしくお願いします。<BR>　それから京都ＯＦＦ、わたしの名前が上がっていなかったのでもう一度参加を表明します。<BR>　９月９日。１２時までに行きます。新阪急ホテルの何処で待ち合わせるのでしょう？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/08/24 23:11:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/08/24 23:11:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998662311ljarko&id2=998185333irnlw&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998662311ljarko_id2_998185333irnlw_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�킽�����W���̋��s��Q�^���[�z�e���P���Ƃ�܂����B<BR>�Ƃ������Ƃŋ��s�̂�����Q���͂قڊm�肵�܂����B�݂Ȃ����낵�����肢���܂��B<BR>���N�G�X�g�͂�����Ǝv�����Ȃ��Đ\����Ȃ��ł��B������݂��邳��<BR><BR>�����͓����I�t�ł��ˁB����������炽�߂Ă�낵�����肢���܂��B<BR>�킽���̓s���N�̃A���T���u���𒅂Ă����\��ł��B�Ȃ񂾂����ꂪ�������݂����ɂȂ�����������̂ŁB
+わたしも８日の京都第２タワーホテル１室とりました。<BR>ということで京都のお泊り参加はほぼ確定しました。みなさんよろしくお願いします。<BR>リクエストはちょっと思いつかなくて申し訳ないです。＞亜希みちるさん<BR><BR>明日は東京オフですね。こちらもあらためてよろしくお願いします。<BR>わたしはピンクのアンサンブルを着ていく予定です。なんだかこれが勝負服みたいになっちゃったもので。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�낳��</strong>  <i>2001/08/25 12:40:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ろさん</strong>  <i>2001/08/25 12:40:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998710806fupayng&id2=998185333irnlw&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998710806fupayng_id2_998185333irnlw_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̃u�b�N�}�[�N�ւ̂��ǂ蒅�������v�������̂������I<BR>�����č����ǂ����12:30�I�I�I�I<BR><BR>�m����������������!!!!!!<BR><BR>�L�삳��d�b���Ă��ꂦ�������E�E�E�E�E
+ここのブックマークへのたどり着き方を思いついたのが今日！<BR>そして今たどりついて12:30！！！！<BR><BR>ノヲヲヲヲヲヲヲヲ!!!!!!<BR><BR>猫野さん電話してくれええええ・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/08/25 13:40:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/08/25 13:40:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998714417meelj&id2=998185333irnlw&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998714417meelj_id2_998185333irnlw_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-***********************************************************************<BR>���s�I�t���~�̂��m�点<BR>���ɐ\���󂠂�܂���B������҂Ɍ����Ă��܂����玝�a�������������Ă���܂���<BR>���É��Â������n����܂����B���܂��ċ��s�I�t�̊������ł��Ȃ��Ȃ�܂����B<BR>�]���Đ��ɐ\���󂲂����܂��񂪁A����̋��s�I�t�͎���߂����Ă����Ă�������<BR>�܂��B<BR>�y���݂ɂ���Ă������X�A�S��肨�l�ѐ\���グ�܂��B<BR>�Ȃ��A�z�e��������Ă������X�͂��萔�����܂����A�����߂ɃL�����Z�����肢��<BR>�܂��B<BR>�����ƃL�����Z�����́A�v�疳���Ǝv���܂��B<BR>�{���ɂ��݂܂���B<BR>***********************************************************************
+***********************************************************************<BR>京都オフ中止のお知らせ<BR>誠に申し訳ありません。今日医者に言ってきましたら持病が悪化いたしておりまして<BR>安静加療を言い渡されました。つきまして京都オフの幹事ができなくなりました。<BR>従って誠に申し訳ございませんが、今回の京都オフは取りやめさせてさせていただき<BR>ます。<BR>楽しみにされていた方々、心よりお詫び申し上げます。<BR>なお、ホテルを取られていた方々はお手数かけますが、お早めにキャンセルお願いし<BR>ます。<BR>今だとキャンセル料は、要ら無いと思います。<BR>本当にすみません。<BR>***********************************************************************
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�낳��</strong>  <i>2001/08/25 13:45:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ろさん</strong>  <i>2001/08/25 13:45:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998714759aipqlrt&id2=998185333irnlw&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998714759aipqlrt_id2_998185333irnlw_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�˂�̂��߁B<BR>Append17�́A�L�삳�񂪓d�b�ԍ��������m�Ȃ̂�<BR>�T���Ă��ꂦ�ƌ����F��ł�(��<BR><BR>�`�Ƃ��o�܂�<BR>�@�{���Ă��������`<BR>
+ねんのため。<BR>Append17は、猫野さんが電話番号をご存知なので<BR>探してくれえと言う祈りです(笑<BR><BR>～家を出ます<BR>　捜してください～<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>2001/08/25 14:04:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>2001/08/25 14:04:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998715844sbwoaf&id2=998185333irnlw&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998715844sbwoaf_id2_998185333irnlw_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���s�I�t�͊����ύX�ő��s���܂��B���Q���\��̕�<BR>��̂��Ƃ͂܂�����A�i�E���X���܂��̂ŁA���΂炭���҂����������B
+京都オフは幹事変更で続行します。＞参加予定の方<BR>後のことはまた後日アナウンスしますので、しばらくお待ちください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/08/25 17:13:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/08/25 17:13:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998727239qwenqa&id2=998185333irnlw&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998727239qwenqa_id2_998185333irnlw_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��l���݂܂��񂲔z�����ӂ������Ă���܂��B<BR>�����ɂȂ�����A���ɐ\���󂲂����܂���ł����B��낵�����肢���܂��B<BR>�����g�y���݂ɂ��Ă������߂��̂悤�Ȃ��ƂɂȂ���Ɏc�O�ł��B<BR>�ȏ㐽�ɂ��݂܂���ł����B
+矢治様すみませんご配慮感謝いたしております。<BR>幹事になられる方、誠に申し訳ございませんでした。よろしくお願いします。<BR>私自身楽しみにしていたためこのようなことになり非常に残念です。<BR>以上誠にすみませんでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/08/25 23:24:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/08/25 23:24:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998749450giamoqx&id2=998185333irnlw&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998749450giamoqx_id2_998185333irnlw_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���A���̎���ɓ������ǂ�܂����B<BR>�@���s�̕��Ők�x�S�̒n�k������A���������x�߂̐V�����ɏ���Ă�����A���~�߂����炤�Ƃ���ł����B<BR>�@���ꂩ����A�܂���낵�����肢���܂��B<BR>�@�����͖{���Ɋy���������ł��B
+　今、大阪の自宅に到着もどりました。<BR>　京都の方で震度４の地震があり、もう少し遅めの新幹線に乗っていたら、足止めをくらうところでした。<BR>　これからも、またよろしくお願いします。<BR>　今日は本当に楽しかったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">�L��</a></strong>  <i>2001/08/26 00:18:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">猫野</a></strong>  <i>2001/08/26 00:18:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998752705ddmvt&id2=998185333irnlw&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998752705ddmvt_id2_998185333irnlw_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�W���Q�T���y�j���̓����I�t��i�V�h�ɂāj�́A�����I���������܂����B�Q�����ꂽ�F�l�A�ǂ��������l�ł����I�@�ꕔ�W���ɕs��ۂ����������ƁA���l�т������܂��B�܂���������Ȃǂɂ��Q���ł��Ȃ������F�l�ɂ͐\����Ȃ����Ƃ����܂����A�܂��̋@��ɂ��ЁA���܂��傤�ˁI�@���������ꗿ���͂��܂��������I<BR><BR>�@���āA�X���W���`�X���̋��s�I�t��ɂ��āB���󂳂�s���Ƃ̂��ƁA�c�O�ł��B���������̊F����ɂ��������������󂯂Ă������������Ƃł����A���������E�W�����Ԃŋ��s�I�t������܂��傤�I<BR>�i���󂳂�̗\���肿����Ɠ��e�͌��邩������܂��񂪁j<BR><BR>�����F<BR>�X���W���F�e���\�񂵂��z�e���Ƀ`�F�b�N�C���B<BR>�@�P�V���ɐV��}�z�e���P�K���r�[�ɏW���B�[�H�ȂǁB�[��Ɋe���̕����֖߂�B<BR>�X���X���F�O�邩��̑g�́A���H��B�ό��ɍs�����͖���B<BR>�@�P�Q���F�V��}�z�e���P�K���r�[�ɑS���W���I<BR>�@�@���H�A�J���I�P���Œk�b�B�[�H�B���u�n����̎Q���҂͓K�X���U�B<BR><BR>�|�C���g��<BR>�u�X���X���P�Q���ɐV��}�z�e���P�K���r�[�ɑS���W�������I�I�v<BR><a href="http://hotel.newhankyu.co.jp/kyoto-j/welcome-j.html" target="_blank">http://hotel.newhankyu.co.jp/kyoto-j/welcome-j.html</a><BR>�ڂ������e�́A����ɂ����ă��[���������܂��ˁI
+　８月２５日土曜日の東京オフ会（新宿にて）は、無事終了いたしました。参加された皆様、どうもお疲れ様でした！　一部集合に不手際があったこと、お詫びいたします。また今回日程などにより参加できなかった皆様には申し訳ないことをしました、またの機会にぜひ、やりましょうね！　しかし沖縄料理はうまかったぁ！<BR><BR>　さて、９月８日～９日の京都オフ会について。亜希さん不調とのこと、残念です。しかし他の皆さんにせっかく日程を空けていただいたことですし、同じ日程・集合時間で京都オフ会をやりましょう！<BR>（亜希さんの予定よりちょっと内容は減るかもしれませんが）<BR><BR>日時：<BR>９月８日：各自予約したホテルにチェックイン。<BR>　１７時に新阪急ホテル１階ロビーに集合。夕食など。深夜に各自の部屋へ戻る。<BR>９月９日：前夜からの組は、朝食会。観光に行くかは未定。<BR>　１２時：新阪急ホテル１階ロビーに全員集合！<BR>　　昼食、カラオケ屋で談話。夕食。遠隔地からの参加者は適宜解散。<BR><BR>ポイントは<BR>「９月９日１２時に新阪急ホテル１階ロビーに全員集合だっ！！」<BR><a href="http://hotel.newhankyu.co.jp/kyoto-j/welcome-j.html" target="_blank">http://hotel.newhankyu.co.jp/kyoto-j/welcome-j.html</a><BR>詳しい内容は、さらにおってメールいたしますね！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>2001/08/26 00:33:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>2001/08/26 00:33:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998753580hofwk&id2=998185333irnlw&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998753580hofwk_id2_998185333irnlw_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�l�������ɓ������܂����B<BR>�݂Ȃ��񂨔��l�ł����B<BR>�܂��A����ł���l�͂�����܂��傤�B
+僕も無事に到着しました。<BR>みなさんお疲れ様でした。<BR>また、お会いできる人はお会いしましょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/26 00:41:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/26 00:41:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998754061jrjvkvy&id2=998185333irnlw&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998754061jrjvkvy_id2_998185333irnlw_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���s�I�t�Q���҂��[�ρ[�Ċm�F�i�h�̗��j�F����ǂ����R��Ȃ����ȁH<BR>8���F�ߌ�5���W��<BR>�@���՗�E���������E�앶���E�䂫�҂��E�L��<BR>9���F��12���W��<BR>�@�������������E�j���������E����˂��E���ځE�W���[�W���b�h�E���ށE���a�E�܂邳�E�l�n�m�c�n�E��傤�E��_��<BR>�Q�����Ԗ���F<BR>�@�㌎�T���E�s�n�l�E��[�ӂ���<BR>
+京都オフ参加者すーぱー再確認（敬称略）：こんどこそ漏れなしかな？<BR>8日：午後5時集合<BR>　風祭玲・こうけい・南文堂・ゆきぴょん・猫野<BR>9日：昼12時集合<BR>　あおきあきお・Ｋａｒｄｙ・かわねぎ・けぼ・ジャージレッド・ちむ・七斬・まるさ・ＭＯＮＤＯ・りょう・矢治浩平<BR>参加時間未定：<BR>　上月乃理・ＴＯＭ・るーふぁす<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/08/26 00:44:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998754253kdpkif&id2=998185333irnlw&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998754253kdpkif_id2_998185333irnlw_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������킵�͂W���Q���g�Ȃ̂�(T��T)<BR><BR><BR>�E�E�E����Ƃ��A�X���g�ɋ����V�t�g�H
+だからわしは８日参加組なのぉ(T▽T)<BR><BR><BR>・・・それとも、９日組に強制シフト？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp:" target="_blank">�L��</a></strong>  <i>2001/08/26 01:30:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp:" target="_blank">猫の</a></strong>  <i>2001/08/26 01:30:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998757026itknh&id2=998185333irnlw&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998757026itknh_id2_998185333irnlw_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�B�B�B�L�̒m�\�͂S�Ύ��Ȃ݁B������<BR><BR>8���F�ߌ�5���W��<BR>�@���՗�E�j���������E���������E�䂫�҂��E�L��<BR>9���F��12���W��<BR>�@�������������E����˂��E���ځE�W���[�W���b�h�E���ށE���a�E�܂邳�E�앶���E�l�n�m�c�n�E��傤�E��_��<BR>�Q�����Ԗ���F<BR>�@�㌎�T���E�s�n�l�E��[�ӂ���<BR><BR>�s�n�l����A�A���悪�m�肽���̂ŔL��܂Ŏ��}���[�����������B
+。。。猫の知能は４歳児なみ。訂正版<BR><BR>8日：午後5時集合<BR>　風祭玲・Ｋａｒｄｙ・こうけい・ゆきぴょん・猫野<BR>9日：昼12時集合<BR>　あおきあきお・かわねぎ・けぼ・ジャージレッド・ちむ・七斬・まるさ・南文堂・ＭＯＮＤＯ・りょう・矢治浩平<BR>参加時間未定：<BR>　上月乃理・ＴＯＭ・るーふぁす<BR><BR>ＴＯＭさん、連絡先が知りたいので猫野まで至急メールください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2001/08/26 06:45:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2001/08/26 06:45:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998775930cpvberv&id2=998185333irnlw&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998775930cpvberv_id2_998185333irnlw_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���������A����ɖ߂��Ă��܂����B�o�X�ł̉����A�ӊO�Ɋy�ł����B<BR>�@�F�l�A�����l�ł����B�{���Ɋy�����I�t�ŁA���肪�Ƃ��������܂����B<BR>�@�������A���ꗿ�����A���B�������������ł��B��S�c��Ȃ̂��A�A��������ȂɎ��̓��Ɏc��Ȃ����̂ƒm���Ă���΁A�Z�[�u�����ɂ����ƈ��߂΂悩�����B<BR>�@�܂��A����ł��邱�Ƃ��y���݂ɂ��Ă���܂��B
+　たった今、自宅に戻ってきました。バスでの往復、意外に楽でした。<BR>　皆様、お疲れ様でした。本当に楽しいオフで、ありがとうございました。<BR>　しかし、沖縄料理＆泡盛。おいしかったです。一つ心残りなのが、泡盛がこんなに次の日に残らないものと知っていれば、セーブせずにもっと飲めばよかった。<BR>　また、お会いできることを楽しみにしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�䂫�҂��</strong>  <i>2001/08/26 07:24:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ゆきぴょん</strong>  <i>2001/08/26 07:24:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998778260ngrithb&id2=998185333irnlw&ff=on">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998778260ngrithb_id2_998185333irnlw_ff_on.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F���܍���͑�ς����b�ɂȂ�܂����B�O���ْ����ĂĂ��܂薰��Ȃ��������ׂ��i�������[��A���т����H�����܂��͎q�����H�j�O�����܂茳�C���o�Ȃ������̂Łh�����z�ȃ��c�h�Ǝv���Ă��Ȃ���������ƐS�z���Ă���䂫�҂��ł��B<BR>�����̂Ƃ��낿����Ƃ��̋ƊE�ɂ��ɂ�Ă��Ă��̏��ׂŃy�����݂菟���������̂ł����A�ǂ��h�����󂯂鎖���o����ϊ��ӂ��Ă���܂��B�����ȁ[���݂ނ�ʂ݂ނ���F����̂����ɍ������悤�ŉ����ł��B<BR><BR>�F���܁A���x�͋��s�ł���������܂��傤�B
+皆さま昨日は大変お世話になりました。前日緊張しててあまり眠れなかった所為か（いったーや、わらびかぁ？←おまえは子供か？）前半あまり元気が出なかったので”無愛想なヤツ”と思われていないかちょっと心配しているゆきぴょんです。<BR>ここのところちょっとこの業界にもにりていてその所為でペンも鈍り勝ちだったのですが、良い刺激を受ける事が出来大変感謝しております。うちなーかみむんぬみむんも皆さんのお口に合ったようで何よりです。<BR><BR>皆さま、今度は京都でお会いいたしましょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/08/26 09:36:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/08/26 09:36:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998786196xnmsff&id2=998185333irnlw&ff=on">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998786196xnmsff_id2_998185333irnlw_ff_on.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �u�X���X���P�Q���ɐV��}�z�e���P�K���r�[�ɑS���W�������I�I�v<BR>�͂��A�������܂����B<BR>���������߂Ă̏ꏊ�Ȃ̂ŁA�Ȃ�ׂ����߂ɓ������Ă������Ǝv���܂��B�ڈ�Ƃ��āA�����ł��ˁc�c�B�g�m�ɍ��킹�āA<BR>�w�Ԃ��W���[�W�̏㒅���H�D���Ă����܂��傤�I�x<BR>�z�e���̃��r�[�Ɏ�����ʂ���Ȏp�̂R�O������S�Ɍ㔼�Ȃ�������̎p���������܂�����A���������߂ɓ������ꂽ���A���񐺂������Ă��������B�p���������炸�ɂˁB�i�΁j�@�P�l�����ł���Ǝ����p���������ł������낵�����肢���܂��B<BR><BR>P.S.����݂���l�A���厖�ɂ��Ă��������B�Ȃ�ׂ��������񕜂���܂��悤�ɁB
+&gt; 「９月９日１２時に新阪急ホテル１階ロビーに全員集合だっ！！」<BR>はい、了解しました。<BR>しかし初めての場所なので、なるべく早めに到着していたいと思います。目印として、そうですね……。ＨＮに合わせて、<BR>『赤いジャージの上着を羽織っておきましょう！』<BR>ホテルのロビーに似合わぬそんな姿の３０代も完全に後半なおじさんの姿を見かけましたら、同じく早めに到着された方、是非声をかけてください。恥ずかしがらずにね。（笑）　１人だけでいると私が恥ずかしいですからよろしくお願いします。<BR><BR>P.S.亜希みちる様、お大事にしてください。なるべく早くご回復されますように。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">�L��</a></strong>  <i>2001/08/26 14:46:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">猫野</a></strong>  <i>2001/08/26 14:46:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998804780uxdgcn&id2=998185333irnlw&ff=on">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998804780uxdgcn_id2_998185333irnlw_ff_on.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������������@���[��A�A���惁�[���A�h���X���킩��Ȃ��̂ŁA�����ǔL��܂Ń��[�����������ˁB
+あおきあきお　さーん、連絡先メールアドレスがわからないので、いちど猫野までメールくださいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="rohtan@geocities.co.jp" target="_blank">�낳��</a></strong>  <i>2001/08/26 23:06:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="rohtan@geocities.co.jp" target="_blank">ろさん</a></strong>  <i>2001/08/26 23:06:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998834801yupnnp&id2=998185333irnlw&ff=on">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998834801yupnnp_id2_998185333irnlw_ff_on.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-1���x��ăt�H���[�A�b�v�B<BR>�F�l�A��������v���܂����B<BR>�ł��y�����������B�܂�����v���܂��傤�B<BR><BR>�`�x�����̂낳����A���ӂ����߂ā`
+1日遅れてフォローアップ。<BR>皆様、乱入失礼致しました。<BR>でも楽しかったす。またお会い致しましょう。<BR><BR>～遅刻魔のろさんより、感謝を込めて～
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:taheebo@infoseek.jp" target="_blank">�ӂ����</a></strong>  <i>2001/08/27 00:52:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:taheebo@infoseek.jp" target="_blank">ふらっと</a></strong>  <i>2001/08/27 00:52:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998841166sfyakb&id2=998185333irnlw&ff=on">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998841166sfyakb_id2_998185333irnlw_ff_on.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����I�t�A�����ꒃ�y���������ł��B<BR>�����オ���Ē��q�ɏ�肷���Ă��܂��܂������A�F�l�̘b�𕷂��ĂƂĂ������������ł��B<BR>����̋��s�͂��ƍs���܂��񂪁A�܂��@��L��ΎQ���������ł��B
+東京オフ、無茶苦茶楽しかったです。<BR>舞い上がって調子に乗りすぎてしまいましたが、皆様の話を聞けてとても嬉しかったです。<BR>次回の京都はちと行けませんが、また機会が有れば参加したいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2001/08/27 01:04:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>かわね</strong>  <i>2001/08/27 01:04:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998841878ftewtly&id2=998185333irnlw&ff=on">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998841878ftewtly_id2_998185333irnlw_ff_on.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����͊F�l�A����ꂳ�܂ł����B�I�t��͏��߂ĂȂ̂ŁA�ŏ��ْ͋����܂������A�y�����������߂������Ă��������܂����B���s�I�t���y���݂ɂ��Ă���܂��B
+　先日は皆様、お疲れさまでした。オフ会は初めてなので、最初は緊張しましたが、楽しい半日を過ごさせていただきました。京都オフも楽しみにしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/27 01:29:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/27 01:29:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998843380oxrbwt&id2=998185333irnlw&ff=on">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998843380oxrbwt_id2_998185333irnlw_ff_on.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����l�ł������݂Ȃ��܁B<BR>���s�I�t��ł����A�c�O�Ȃ����[�ӂ�������͂��s�������Ȃ����������ł��i���ȁj�B���Ɩ��m��Ȃ̂́A�㌎�T������Ƃs�n�l���񂩁B
+お疲れ様でした＞みなさま。<BR>京都オフ会ですが、残念ながらるーふぁすさんはご都合がつかなかったそうです（欠席）。あと未確定なのは、上月乃理さんとＴＯＭさんか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�䂫�҂��</strong>  <i>2001/08/27 20:10:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ゆきぴょん</strong>  <i>2001/08/27 20:10:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998910625kipjec&id2=998185333irnlw&ff=on">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998910625kipjec_id2_998185333irnlw_ff_on.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂��̋@��ɂ��ЁA���܂��傤�ˁI�i�L�삳��j<BR>�@���x�͋���́h�o�j�[�K�[���̋���^���X�g�����h�Ő���i���j<BR>���������A���s�̂P���ڂ̗\��Ȃ̂ł����A�����������玄�͑S�ʃp�X���邩������܂���B<BR>�������k�G�[���ɜ�邭�炢�O���K�ǂ��������̂ŏ�蕨�����������̂ł��i����ɋA�����Ƃ����P���ڂ͂����ƐQ�Ă��܂��j�B�ꉞ�������ł͂����܂����c�B<BR><BR>���w�Ԃ��W���[�W�̏㒅���H�D���Ă����܂��傤�I�x�i�W���[�W���b�h����j<BR>�@����A�������̂��ƌ��i�Ɉ���Łh�d���h�܂��́h�ޗ����h�̃J�b�R���Ă݂�Ƃ��i�������j<BR>��������������Ǝ��̏ꍇ�͉��̃J�b�R���Ȃ����Ⴂ���Ȃ��񂾂�H�c�c�c�c����ς��̊Ԃ̃I�t���12�l�����Ƀn�����Č���ꂽ�h�����ނ���߁h�������i���΂��j<BR>�܂��Ƃ������A�����I�t��F���܂���ꂳ�܂ł������܂����B<BR>���s�I�t����낵�����肢�v���܂��B
+＞またの機会にぜひ、やりましょうね！（猫野さん）<BR>　今度は銀座の”バニーガールの居る某レストラン”で是非（爆）<BR>そうそう、京都の１日目の予定なのですが、もしかしたら私は全面パスするかもしれません。<BR>何せメヌエールに罹るくらい三半規管がヨワいので乗り物酔いが凄いのです（沖縄に帰ったときも１日目はずっと寝ています）。一応薬を飲んではおきますが…。<BR><BR>＞『赤いジャージの上着を羽織っておきましょう！』（ジャージレッドさん）<BR>　いや、いっそのこと御作品に因んで”妖精”または”奈里佳”のカッコしてみるとか（←おい）<BR>しかしそうすると私の場合は何のカッコしなくちゃいけないんだろ？…………やっぱこの間のオフ会で12人同時にハモって言われた”うしむしゅめ”かしらん（←ばか）<BR>まあともかく、東京オフ会皆さまお疲れさまでございました。<BR>京都オフもよろしくお願い致します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/08/27 20:24:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/08/27 20:24:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998911444slhiik&id2=998185333irnlw&ff=on">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998911444slhiik_id2_998185333irnlw_ff_on.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�������Ȃ��B�ł��d�����E�E�E<BR>�܂�����܂�����U���Ă��������B���Ԍ��Z�ŁA�I�����E�E�E<BR>���󂳂�̑厖�ɁE�E�E
+行きたいなあ。でも仕事が・・・<BR>またありましたら誘ってください。中間決算で、棚卸が・・・<BR>亜希さんの大事に・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.kigurumi.net" target="_blank">���c�܂�</a></strong>  <i>2001/08/27 22:32:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.kigurumi.net" target="_blank">吹田まり</a></strong>  <i>2001/08/27 22:32:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998919163jubpwd&id2=998185333irnlw&ff=on">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998919163jubpwd_id2_998185333irnlw_ff_on.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ɠ��ꂽ�E�E�E�I�悩�����B<BR>�u���ꂪ�E�E�E�A�I���H�I�v�݂Ȃ���̑O�ł��Ќ����Ă݂��������ꌾ�ł��B�i�O�O�j<BR>�I�t��y���������ł��`�B�܂�����܂�����A���ЗU���Ă��������ˁB
+やっと入れた・・・！よかった。<BR>「これが・・・、オレ？！」みなさんの前でぜひ言ってみたかった一言です。（＾＾）<BR>オフ会楽しかったです～。またありましたら、ぜひ誘ってくださいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ڂ�����</strong>  <i>2001/08/28 00:43:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ぼくちん</strong>  <i>2001/08/28 00:43:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998926984knnfwwc&id2=998185333irnlw&ff=on">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998926984knnfwwc_id2_998185333irnlw_ff_on.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��A�ڂ�����ł��B<BR>�����I�t�ł���ł����F�l���ǂ��ł����B<BR><BR>���߂��ƂȂ�ł����A���s�I�t�s���������Č�������ʖڂł����H<BR>���߂ł�����X�p�b�g������߂܂��̂ŁB<BR><BR>
+ども、ぼくちんです。<BR>東京オフでお会いできた皆様方どもでした。<BR><BR>だめもとなんですが、京都オフ行きたいって言ったら駄目ですか？<BR>だめでしたらスパットあきらめますので。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">�L��</a></strong>  <i>2001/08/28 01:25:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">猫野</a></strong>  <i>2001/08/28 01:25:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998929526eqpioc&id2=998185333irnlw&ff=on">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998929526eqpioc_id2_998185333irnlw_ff_on.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ā[���ė��ā[���ā[�B�ڂ����񂳂�A�ǂ����I<BR>�W���Q�����A�X���Q�����A��}���ŋ����ĂˁI
+来てー来て来てー来てー。ぼくちんさん、どうぞ！<BR>８日参加か、９日参加か、大急ぎで教えてね！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">�L��</a></strong>  <i>2001/08/28 01:28:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">猫野</a></strong>  <i>2001/08/28 01:28:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=998929718maqogp&id2=998185333irnlw&ff=on">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_998929718maqogp_id2_998185333irnlw_ff_on.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ƁA�V��}�z�e���Ɏ��۔��܂�\��̐l�͂��Ȃ��Ƃ������ƂɋC�Â������ǁA������₷���W���ꏊ������́[�Ղ�Ԃ�ށI<BR>�@�V��}�z�e���͉w�̌��������B�������I<BR><BR>��A�悵��������A�c�O�c�c�B
+あと、新阪急ホテルに実際泊まる予定の人はいないということに気づいたけど、分かりやすい集合場所だからのーぷろぶれむ！<BR>　新阪急ホテルは駅の向かい側。すぐだ！<BR><BR>わ、よしおかさん、残念……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">�L��</a></strong>  <i>2001/09/02 02:58:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">猫野</a></strong>  <i>2001/09/02 02:58:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999367123gyllase&id2=998185333irnlw&ff=on">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999367123gyllase_id2_998185333irnlw_ff_on.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂����܂���C�Â��܂������ǁA�䂫�҂�񂳂�͐V��}�z�e���ɕ�������邱�Ƃɐ��������񂾂����B�B�B<BR><BR>���āA���T�X���W�`�X���͋��s�I�t��ł��B<BR>�\�����݂͂X���U���܂łɁI
+↑またいまごろ気づきましたけど、ゆきぴょんさんは新阪急ホテルに部屋を取ることに成功したんだっけ。。。<BR><BR>さて、来週９月８～９日は京都オフ会です。<BR>申し込みは９月６日までに！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kazematuri@muj.biglobe.ne.jp" target="_blank">���՗�</a></strong>  <i>2001/09/03 00:17:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kazematuri@muj.biglobe.ne.jp" target="_blank">風祭玲</a></strong>  <i>2001/09/03 00:17:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999443865qrfutju&id2=998185333irnlw&ff=on">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999443865qrfutju_id2_998185333irnlw_ff_on.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���՗�ł��B<BR>���͐V��}�z�e���ɕ�������邱�Ƃ��ł��܂����B<BR>����ƁA�����A�s���̐V�����̎w�������Ă��܂����B<BR>�Ђ���@�Q�P�R���@�����@�X�F�Q�W���@�V���@�P�Q�F�Q�R��<BR>��㓞������ӂ��ӂ������ɋ��s�֍s���\��ɂ��Ă��܂��B<BR><BR>���������΁A��̃r���΍Ђ̌�����āA<BR>�����I�t��Ő���オ�����J���I�P�X�̃X�O�T�Ȃ�ł��ˁB<BR>�i�����������F�肵�܂��j<BR><BR>�ł�<BR>
+風祭玲です。<BR>私は新阪急ホテルに部屋を取ることができました。<BR>それと、今日、行きの新幹線の指定も取ってきました。<BR>ひかり　２１３号　東京　９：２８発　新大阪　１２：２３着<BR>大阪到着後周辺をふらついた後に京都へ行く予定にしています。<BR><BR>そういえば、例のビル火災の現場って、<BR>東京オフ会で盛り上がったカラオケ店のスグ傍なんですね。<BR>（ご冥福をお祈りします）<BR><BR>では<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/09/03 23:31:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999527515ckbckm&id2=998185333irnlw&ff=on">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999527515ckbckm_id2_998185333irnlw_ff_on.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�ً}�A���z<BR>�Q����f�O������𓾂Ȃ��Ȃ�\�����o�Ă��܂����B<BR>���ݎ��ƂƂ̌��𑱂��Ă���A���Ƃ��Q���̕����Řb��i�߂Ă��܂��B
+【緊急連絡】<BR>参加を断念せざるを得なくなる可能性が出てきました。<BR>現在実家との交渉を続けており、何とか参加の方向で話を進めています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">�L��</a></strong>  <i>2001/09/03 23:47:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="gnekono@pop07.odn.ne.jp" target="_blank">猫野</a></strong>  <i>2001/09/03 23:47:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999528478maysel&id2=998185333irnlw&ff=on">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999528478maysel_id2_998185333irnlw_ff_on.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Kardy����A�����������܂����B�@��͉��������܂��̂ŁA�ǂ��������������ɗ��Ă��������ˁB���O�܂ŁA�A������܂��B<BR><BR>�������I�t��Ő���オ�����J���I�P�X�̃X�O�T�Ȃ�ł��ˁB<BR>���i�����������F�肵�܂��j<BR>�����������̂ł����B�B�B
+Kardyさん、了解いたしました。機会は何回もありますので、どうか無理をせずに来てくださいね。直前まで、連絡承ります。<BR><BR>＞東京オフ会で盛り上がったカラオケ店のスグ傍なんですね。<BR>＞（ご冥福をお祈りします）<BR>そうだったのですか。。。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/09/05 02:10:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/09/05 02:10:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999623456qoxmov&id2=998185333irnlw&ff=on">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999623456qoxmov_id2_998185333irnlw_ff_on.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�т�̂��񂪁A�W���̂ݎQ���ɂȂ肻���ł��B�����<BR>�W���͂V�l�iKardy����f�O�Ȃ�U�l�j�A<BR>�X���͂P�T�l�i���P�S�l�j�ł��ˁB
+びゅのさんが、８日のみ参加になりそうです。これで<BR>８日は７人（Kardyさん断念なら６人）、<BR>９日は１５人（同１４人）ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/09/05 02:13:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/09/05 02:13:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999623581lsgmfh&id2=998185333irnlw&ff=on">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999623581lsgmfh_id2_998185333irnlw_ff_on.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂩐����ԈႦ��Ȃ��B�i�Ȃ�ǂ������܂���j<BR>�X���͂P�U�l�i�x�ސl������΂P�T�l�j�����Ă΁B
+なんか数え間違えるなあ。（なんどもすいません）<BR>９日は１６人（休む人がいれば１５人）だってば。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:tomosan@da.mbn.or.jp" target="_blank">TOM</a></strong>  <i>2001/09/05 17:19:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999677952sdrtoo&id2=998185333irnlw&ff=on">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999677952sdrtoo_id2_998185333irnlw_ff_on.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�A���x���Ȃ��Ă��߂�Ȃ����B<BR>TOM�ł��B�i�y����j<BR>�Q���̎|�A�����܂��B<BR>8����5���̂ق��ŎQ�������Ă��������܂��B<BR>������͂ł��Ȃ��ł��B<BR>���̓����d���Ȃ̂ŁA���̓��̂����ɋA��܂��B<BR>���킽�������ł����A��낵�����肢���܂��B���Ȃ݂ɑ�㓌�����ʂ̕��́A���}�ł��邩���B�悩������A���[�����������B<BR><BR>
+連絡遅くなってごめんなさい。<BR>TOMです。（ペこり）<BR>参加の旨連絡します。<BR>8日の5時のほうで参加させていただきます。<BR>お泊りはできないです。<BR>次の日が仕事なので、その日のうちに帰ります。<BR>あわただしいですが、よろしくお願いします。ちなみに大阪東部方面の方は、送迎できるかも。よかったら、メールください。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/09/05 23:15:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/09/05 23:15:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999699355kiogw&id2=998185333irnlw&ff=on">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999699355kiogw_id2_998185333irnlw_ff_on.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂��Ă����A�s�n�l����I<BR>�����A����Ԃ���Đ����������ȁB<BR>�W���ꏊ�͐V��}�z�e���P�K���r�[�A���莆�̒ʂ�ł��B
+まってたぜ、ＴＯＭさん！<BR>こりゃ、二日間やって正解だったな。<BR>集合場所は新阪急ホテル１階ロビー、お手紙の通りです。
 </td></tr>
 </table></a><br>
-[<a href="noteky.cgi?c=noteidx&f=9&ff=on">�G�k�{�[�h</a>]<br>
+[<a href="noteky@c_noteidx_f_9_ff_on.cgi">雑談ボード</a>]<br>
 
 </p>
 </body>

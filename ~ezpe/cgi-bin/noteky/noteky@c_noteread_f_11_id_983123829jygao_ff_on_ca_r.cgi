@@ -1,131 +1,131 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=983123829jygao&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_983123829jygao_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�s�r�̘b</font><br>
+<font size="+2" color="#0000FF">ＴＳ昔話</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/26024647/urashima.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/02/26 02:57:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/26024647/urashima.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/02/26 02:57:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983123829jygao&id2=983123829jygao&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983123829jygao_id2_983123829jygao_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�Y�����Y�z<BR>�y���E���z���o�C�o���K�[�����D���Ȃ䂠���݂̂����񂩂�͂����ِF��ł��B���b�Ƃ͂��Ă��Ďc���Ȃ��̂��Ȃ�Ęb������܂����A���č���̉Y�����Y�͂������Ȃ��̂ł��傤�B
+【浦島太郎】<BR>【推薦文】リバイバルガールが好調なゆあさのみきさんから届いた異色作です。童話とはえてして残酷なものだなんて話もありますが、さて今回の浦島太郎はいかがなものでしょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/02/26 06:52:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/02/26 06:52:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983137942ctaqc&id2=983123829jygao&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983137942ctaqc_id2_983123829jygao_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������ǂ݂܂����B<BR>���ӂӁA������ƃ_�[�N�B�ǂݎn�߂��ŏ��͂Ă�����Y�������{��ł��̂܂܉��P�ɂȂ��Ă��܂��Ǝv���Ă����̂ł����A���̊ԂɂЂƂЂ˂肠�����̂͂������䂠���݂̂�����B�����Ă݂�΁A�������Ȃ��Ƌʎ蔠�̏o�Ԃ��Ȃ��킯�ŁB<BR>������ɂ��Ă��A�ʔ��������ł��B�u���o�C�o���K�[���v�̕������҂��Ă��܂���[�B
+さっそく読みました。<BR>うふふ、ちょっとダーク。読み始めた最初はてっきり浦島が竜宮城でそのまま乙姫になってしまうと思っていたのですが、その間にひとひねりあったのはさすがゆあさのみきさん。言われてみれば、こうしないと玉手箱の出番がないわけで。<BR>いずれにしても、面白かったです。「リバイバルガール」の方も期待していますよー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����˂�</strong>  <i>2001/02/26 14:31:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>かわねぎ</strong>  <i>2001/02/26 14:31:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983165472vfqwxv&id2=983123829jygao&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983165472vfqwxv_id2_983123829jygao_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂��Ă��������܂����B<BR>�Y�����Y��������ʎ蔠�̉��ŕϐg���A�Ǝv�����炻�̂Ƃ���ł����ˁB<BR>�ł����ꂾ���ŏI����Ă��Ȃ������ʔ����ł��B<BR>�O���P�l���]����(?)�������Ƃ����Ƃ��낪�����ł��ˁB<BR>
+読ませていただきました。<BR>浦島太郎だったら玉手箱の煙で変身だ、と思ったらそのとおりでしたね。<BR>でもそれだけで終わっていない所が面白いです。<BR>前乙姫様も犠牲者(?)だったというところがいいですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/02/26 22:42:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/02/26 22:42:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983194953srcddah&id2=983123829jygao&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983194953srcddah_id2_983123829jygao_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l������˂��l�A���肪�Ɓ[�������܂��B<BR>�@���̂��b���v���������������Ƃ����̂́A�ŋߏo���G�w�̖{�Łu�Y�����Y�ɏo�Ă���T�̓I�X�����X���H�v�Ƃ�������ǂ񂾂��Ƃł��B����Ő̘b���ނɂs�r�b���������ǂ��Ȃ邩�ƕ��ɂ̉ߋ���i�𒲂ׂ��Ƃ���u�^���E�Y�����Y�v���������̂ł����B���̎��_�Řb�͂قƂ�Ǒg�݂������Ă����̂ŁA�l�^���d�����Ȃ����𒲂ׂ��Ƃ���c�c�s�r�V�`���G�[�V�����݈̂���������܂����B�ł����̃l�^���v�����Ȃ������̂ł��̂܂܏����Ă��܂��܂����B���Ă�����������g��Ȃ��łs�r������͓̂���̂ł́c�c�B<BR>�@�܂��l�^���v�������珑������ł����A�ʂɘb������̂Łc�c�����V�����s�r�̘b�����ꂽ�Ƃ��ɂ́u�����A���o�C�o���K�[�����s���l�܂��Ă�񂾂ȁv�Ǝv���Ă���Ă��������i���j�B���ƕʂ̌ÓT�łs�r�̘b�������Ă����l�����Ă��ꂽ�炢���ȁA�Ƃ��v���Ă���܂��B
+ｍｋ８４２６様＆かわねぎ様、ありがとーございます。<BR>　このお話を思いついたきっかけというのは、最近出た雑学の本で「浦島太郎に出てくる亀はオスかメスか？」という文を読んだことです。それで昔話を題材にＴＳ話を作ったらどうなるかと文庫の過去作品を調べたところ「真説・浦島太郎」を見つけたのでした。その時点で話はほとんど組みあがっていたので、ネタが重複しないかを調べたところ……ＴＳシチュエーションのみ引っかかりました。でも他のネタが思いつかなかったのでそのまま書いてしまいました。っていうかあれを使わないでＴＳさせるのは難しいのでは……。<BR>　またネタを思いついたら書くつもりですが、別に話があるので……もし新しいＴＳ昔話が現れたときには「ああ、リバイバルガールが行き詰まってるんだな」と思ってやってください（爆）。あと別の古典でＴＳ昔話を書いてくれる人がいてくれたらいいな、とも思っております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�e�B��</strong>  <i>2001/02/26 23:47:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ティル</strong>  <i>2001/02/26 23:47:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983198866pomkwc&id2=983123829jygao&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983198866pomkwc_id2_983123829jygao_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�Y�����Y�z<BR>�ǂ܂��Ă��������܂����B�܂��A���ŕϐg�͕������Ă���ł����A�v���Ă��قǂg�ł͂Ȃ������݂����ł��B�q�������̂�����ޒB�݂����ł����E�E�E���P�l�͎w�����邾���Ȃ̂��ȁH
+【浦島太郎】<BR>読ませていただきました。まあ、煙で変身は分かってたんですが、思ってたほどＨではなかったみたいです。子孫を作るのも魚介類達みたいですし・・・乙姫様は指揮するだけなのかな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/02/27 00:44:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/02/27 00:44:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983202272yrlev&id2=983123829jygao&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983202272yrlev_id2_983123829jygao_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�e�B���l�A���肪�Ɓ[�������܂��B<BR><BR>�����ŕϐg�͕������Ă���ł����A�v���Ă��قǂg�ł͂Ȃ������݂����ł�<BR><BR>�@�����ƃG���G�����悩�����ł����H�@����܂���Ǝ�|���ς��̂ŗ}�����炩�����ė}�������Ă��܂�����B�܂��̘b�Ȃ̂ŏڂ����`�ʂ���Ƃ�������������ł���ˁB<BR><BR>�����P�l�͎w�����邾���Ȃ̂��ȁH<BR><BR>�@���͂���͌��O�ł��B�y���ނ����Ȃ������Ⴄ�ł��傤�ˁB�ł��ݒ�㉳�P���g�͎q���͎c���Ȃ���ł��i�n��ɋA��΂ł��܂����j�B����͋t�ɍl����΂�肽������ł���킯�ŁA���P������ɂ͂܂�Ɨe�ՂɌ�ւł��Ȃ��Ȃ�̂ł��B������������Ĕ����o���Ȃ��Ȃ������������̂ł��B�����č��̉��P�ɂ�������ԂɂȂ�댯������A�ƁB<BR>�@�������������Ƃ͂����Ė{�҂ɂ͏����܂���ł������A�܂��t�H���[�Ƃ������ƂŁB
+ティル様、ありがとーございます。<BR><BR>＞煙で変身は分かってたんですが、思ってたほどＨではなかったみたいです<BR><BR>　もっとエロエロがよかったですか？　あんまりやると趣旨が変わるので抑えたらかえって抑えすぎてしまったり。まあ昔話なので詳しく描写するとそこだけ浮くんですよね。<BR><BR>＞乙姫様は指揮するだけなのかな？<BR><BR>　実はそれは建前です。楽しむだけならやっちゃうでしょうね。でも設定上乙姫自身は子孫は残せないんです（地上に帰ればできますが）。それは逆に考えればやりたい放題であるわけで、乙姫がこれにはまると容易に交替できなくなるのです。先代もそうやって抜け出せなくなった口だったのです。そして今の乙姫にも同じ状態になる危険がある、と。<BR>　そういったことはあえて本編には書きませんでしたが、まあフォローということで。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^��@�I</strong>  <i>2001/02/27 01:53:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真城　悠</strong>  <i>2001/02/27 01:53:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983206431hjyqd&id2=983123829jygao&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983206431hjyqd_id2_983123829jygao_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����ɂ��́B�^��ł��B����ȂɂЂ˂�����ɂ������b�ŃC���X�p�C�A���ꂽ�Ƃ��ŁE�E�E�Ƃ����ꖼ�O���o���Ē����ėL��������܂��B<BR>�@�o��l���̒W�X�Ƃ����䎌�񂵂���ۓI�ł��B���̕��͋C�̏o�����̓I�c�Ȃ��̂ł��ˁi^^�G�B<BR>�@�ʔ��������ł��B�͂��B���Ɏ�l���̂��̌�̉^����A�z����̂��y�����ł���ˁB�u�z���G���v���ēz�ŁB<BR><BR>�@�Ƃ���ŁA�u�����ƂȂ��đ�X���̏�����Â��A���̒j���ƌ��v�Ƃ����ݒ�̂��b����TS���̂Ƃ��Ă͂P�W���������\������قǗl�l�ȃo���G�[�V���������݂��܂���ˁB���ƍ�i�ł��������v��������܂��B�N���^�ʖڂɌ�������w�҂̕��Ƃ�����������Ȃ����Ȃ��H�Ȃ�čl�����肵�܂����B
+　こんにちは。真城です。あんなにひねりも何にも無い話でインスパイアされたとかで・・・ともあれ名前を出して頂いて有難うございます。<BR>　登場人物の淡々とした台詞回しが印象的です。この雰囲気の出し方はオツなものですね（^^；。<BR>　面白かったです。はい。特に主人公のその後の運命を連想するのが楽しいですよね。「想像萌え」って奴で。<BR><BR>　ところで、「美女となって代々その場を守りつづけ、次の男性と交代」という設定のお話ってTSものとしては１ジャンルを構成するほど様様なバリエーションが存在しますよね。商業作品でもいくつか思い当たります。誰か真面目に研究する学者の方とかいらっしゃらないかなあ？なんて考えたりしました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/02/27 15:21:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花</strong>  <i>2001/02/27 15:21:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983254866kncij&id2=983123829jygao&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983254866kncij_id2_983123829jygao_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�Y�����Y�z<BR>�Z�����������̂ŁA������ɓǂ񂶂����(^^;<BR>�ł��A�ʔ���!!<BR>�n��ł͌��̂��b�Ɠ����悤�ɂ��������Ȃ��A�Ƃ����Ƃ��낪�X�S���ł���!<BR>�Ƃ����<BR>���{��������锽�ʁA����ɂ܂�܂ƈ����������Ă��܂��������ɉY���͂������肵�܂����B<BR>�Ȃ񂩁A�Ƃ������Ă������������Ă�݂����Ȃ�ł�����ǁB<BR>�������Ⴂ���Ȃ��̂�����H�@�c�c�ł����(^^;<BR>(�܂����̐l�̊��z���҂���̃��X�����Ȃ��ŏ����Ă���̂ŁA�d�����Ă����炲�߂�Ȃ���)
+【浦島太郎】<BR>短そうだったので、ついつい先に読んじゃった(^^;<BR>でも、面白い!!<BR>地上では元のお話と同じようにしか見えない、というところがスゴいですね!<BR>ところで<BR>＞怒りを感じる反面、それにまんまと引っかかってしまった自分に浦島はがっかりしました。<BR>なんか、とっっっても実感こもってるみたいなんですけれど。<BR>聞いちゃいけないのかしら？　……ですよね(^^;<BR>(まだ他の人の感想や作者さんのレスを見ないで書いているので、重複していたらごめんなさい)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/02/27 20:31:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/02/27 20:31:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983273492ioulon&id2=983123829jygao&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983273492ioulon_id2_983123829jygao_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�^��@�I�l�����ԗl�A���肪�Ɓ[�������܂��B<BR><BR>�^��l��<BR>�@���͍ŏ��ɍl�����l�����������Ǝv���܂��B�A�����W���������Ƃ����Ă��s�r�V�`���G�[�V�����͓����ł�����ˁB���񑩂Ƃ������A���͂�ǂޕK�v���Ȃ��^�C�g�������Ŏ@���邱�Ƃ��ł���Ƃ����̂͌ÓT�̎������ł��ˁB���ɍ��Ƃ����炻��𗠐؂肽���Ƃ��v���܂��B<BR><BR>���u�����ƂȂ��đ�X���̏�����Â��A���̒j���ƌ��v<BR><BR>�@�����ł��ˁB���l������]�ނ��]�܂Ȃ����ł��W�J���ς��܂�����ˁB����͌��X�ł������A�r���ŐS�ς�肷�邩���c�c��͑z���ɔC���邵������܂���ˁi�܂��Ɂu�z���G���v�j�B<BR><BR>���ԗl��<BR>�@�Z���b�͍D���Ȃق��ł����c�c�ǂނƏ����ł͘b���ʂł�����ˁB�s�r�̘b�ł͈�b�����łł��邾���Z�����������Ǝv���Ă��܂��B<BR><BR>���Ȃ񂩁A�Ƃ������Ă������������Ă�݂����Ȃ�ł������<BR><BR>�@���������܂����H�@�K�����͂��[��[�o���͂Ȃ���ł����B�m�l�ɂ����[�Ȃ����l�͂��Ȃ����c�c�܂��Â��b�ɂ͒��ӂ��܂��傤�Ƃ������Ƃł����ˁB
+真城　悠様＆里花様、ありがとーございます。<BR><BR>真城様へ<BR>　私は最初に考えた人こそすごいと思います。アレンジを加えたといってもＴＳシチュエーションは同じですからね。お約束というか、もはや読む必要もなくタイトルだけで察することができるというのは古典の持ち味ですね。次に作るとしたらそれを裏切りたいとも思います。<BR><BR>＞「美女となって代々その場を守りつづけ、次の男性と交代」<BR><BR>　そうですね。当人が交代を望むか望まないかでも展開が変わりますからね。今回は嫌々でしたが、途中で心変わりするかも……後は想像に任せるしかありませんね（まさに「想像萌え」）。<BR><BR>里花様へ<BR>　短い話は好きなほうですが……読むと書くでは話が別ですからね。ＴＳ昔話では一話完結でできるだけ短く書きたいと思っています。<BR><BR>＞なんか、とっっっても実感こもってるみたいなんですけれど<BR><BR>　そう見えますか？　幸い私はそーゆー経験はないんですが。知人にもそーなった人はいないし……まあ甘い話には注意しましょうということですかね。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="983123829jygao">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

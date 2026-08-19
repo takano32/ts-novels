@@ -1,292 +1,292 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>少年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=1&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_1_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=1&id=927131104cfbhxn&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_1_id_927131104cfbhxn_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">少年コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�V�g�ȏ����ӋC</font><br>
+<font size="+2" color="#0000FF">天使な小生意気</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/20 01:25:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927131104cfbhxn&id2=927131104cfbhxn&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927131104cfbhxn_id2_927131104cfbhxn_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�V�g�ȏ����ӋC�v/���X���V/���w��/�T�����N�T���f�[ 1999�NNo.25�i5/19�j�`<BR><BR>���u�R���H��i�B���Z�̐V�����A�V�g�b�i���܂��@�߂��݁j�͓V�g�̂悤�ȗe�e�̏��̎q�B���ꂱ���A�N���X���̒j�q���A�b�̂܂��ɌQ��đ呛�����͂��߂Ă��܂����炢�ɁB�Ƃ��낪�u�V�g�v�Ȃ̂͊O�������ŁA�b�́A�H��Ń����L�[�̌ҊԂɏR�������킹�Ă��܂��悤�ȁA�j���ۂ����i�����Ă���B��������̂͂��ŁA���͌b�ɂ͂Ƃ�ł��Ȃ��閧������B�b�́A�X�΂̂Ƃ��ɉ������Ȗ��@�g���̎c�������{�g�V�̌b�݁h�ɂ���Ēj�̎q���珗�̎q�ɑւ����Ă��܂����Ƃ����ߋ��������Ă���̂��B�������A���̂��Ƃ�m���Ă���i�j����̌b���o���Ă���j�̂͗c�Ȃ��݂̃~�L�����B<BR>�����āA���Z�����̏����A���܂���������̂��̂̌b�̑O�ɁA��̘H��ŏR�������Ă��܂��������L�[���ƁA�h�䌹���������I�@�Ȃ�Ƌ��R�A��l�͓��N���X�������̂��B�b�̉^���₢���Ɂc?!<BR><BR>�����ĂȂ����肪�A��P�b�̓��e�ł����B<BR>���ɍ��オ��y���݂ȍ�i�ł��B�T�����掏�ł̖{�i�I�Ȃ������n��i�̘A�ڂ͋v�X�ł����ˁB<BR>�������A����␼�X���V�搶���������n�̍�i��`�����Ƃ́B�T���f�[�ł͑]�c���l����̎��ɂ��������̂ɉ��̂Ȃ��l���Ǝv���Ă����ǁB(^^;�@�������牴�͐��X�t�@���A�Ƃ����l���������Ƃł��傤�B<BR><BR>���Ȃ݂ɁA���X����A�O�삪�t�@���^�W�[���̂ō��삪���u�R���B�t�@���^�W�[�����u�R���A�ƃI�C�I�C���N�T���f�[�̗��j���t�����ɔ����������i�΁j�A�Ƃ����C�����܂����A���̐l�̓f�r���[���Ԓ����m�Ȃ̂ł���ȏ�k��悤�͂Ȃ��ł��ˁB<BR><BR>�Ƃ���Łu�V�g�ȏ����ӋC�v���āA�w�������牴��!!�x�̈ɓ��~�O���J�b�v���̂����O�������ɂ����悤�Ȋ������ȁ`�Ǝv�����肷��͎̂������ł��傤���B�i�������v���Ƃ悯���G��?!�j
+「天使な小生意気」/西森博之/小学館/週刊少年サンデー 1999年No.25（5/19）～<BR><BR>ラブコメ？作品。高校の新入生、天使恵（あまつか　めぐみ）は天使のような容貌の女の子。それこそ、クラス中の男子が、恵のまわりに群れて大騒ぎをはじめてしまうくらいに。ところが「天使」なのは外見だけで、恵は、路上でヤンキーの股間に蹴りをくらわせてしまうような、男っぽい性格をしている。それもそのはずで、実は恵にはとんでもない秘密がある。恵は、９歳のときに怪しげな魔法使いの残した魔本“天の恵み”によって男の子から女の子に替えられてしまったという過去を持っているのだ。ただし、そのことを知っている（男時代の恵を覚えている）のは幼なじみのミキだけ。<BR>そして、高校生活の初日、いまや美少女そのものの恵の前に、例の路上で蹴りをくれてしまったヤンキーこと、蘇我源造が現れる！　なんと偶然、二人は同クラスだったのだ。恵の運命やいかに…?!<BR><BR>──てなあたりが、第１話の内容でした。<BR>実に今後が大楽しみな作品です。週刊漫画誌での本格的なこっち系作品の連載は久々ですしね。<BR>しかし、よもや西森博之先生がこっち系の作品を描かれるとは。サンデーでは曽田正人さんの次にこういうのに縁のない人かと思ってたけど。(^^;　今日から俺は西森ファン、という人も多いことでしょう。<BR><BR>ちなみに、西森さん、前作がファンタジーもので今作がラブコメ。ファンタジー→ラブコメ、とオイオイ少年サンデーの歴史を逆向きに爆走中じゃん（笑）、という気もしますが、この人はデビューが番長モノなのでこれ以上遡りようはないですね。<BR><BR>ところで「天使な小生意気」って、『今日から俺は!!』の伊藤×三橋カップルのうち三橋を女にしたような感じだな～と思ったりするのは私だけでしょうか。（←そう思うとよけい萌え?!）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>1999/05/20 09:48:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>1999/05/20 09:48:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927161327aigyg&id2=927131104cfbhxn&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927161327aigyg_id2_927131104cfbhxn_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂ł��B�l�I�ɂ͎�l���̌b�����܂�ɂ����ɕς���Ă��܂���<BR>���Ƃɂ���������������Ȃ��l�Ȃ������܂���^^;���X�搶�̃m��<BR>�͂����ł�����^^����̘A�ڂ��y���݂ł��B<BR>����������yays����̔����Ŏv���o�������Ǎ������牴�͂̃M������<BR>���l�����Đ̔��������Ƃ�����܂��B�m���ɂ��[�����̂�ł��ˁB
+まつです。個人的には主人公の恵があまりにも女に変わってしまった<BR>ことにたいする驚きが少ない様なきもしますが^^;西森先生のノリ<BR>はこうですしね^^今後の連載が楽しみです。<BR>そう言えばyaysさんの発言で思い出したけど今日から俺はのギャル化<BR>同人誌って昔買ったことがあります。確かにこーいうのりですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/20 18:54:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927194096dnqsa&id2=927131104cfbhxn&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927194096dnqsa_id2_927131104cfbhxn_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; ��l���̌b�����܂�ɂ����ɕς���Ă��܂������Ƃɂ���������������Ȃ��l�Ȃ������܂���^^;���X�搶�̃m���͂����ł�����^^<BR><BR>���������ɂȂ����ƔF����������̍s�����A�҂ɖؓ����͂���Łu�t���b�B�v�ł�����ˁ[�B<BR>�i���͌b�A���Ȃ�������Ă��Ƃ���������^^;�j
+&gt; 主人公の恵があまりにも女に変わってしまったことにたいする驚きが少ない様なきもしますが^^;西森先生のノリはこうですしね^^<BR><BR>自分が女になったと認識した直後の行動が、股に木刀をはさんで「フンッ。」ですからねー。<BR>（実は恵、かなり錯乱してたという見方も^^;）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/05/20 20:25:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/05/20 20:25:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927199527aqwyts&id2=927131104cfbhxn&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927199527aqwyts_id2_927131104cfbhxn_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���_�͒j�̎q�Ƃ����������Ƃ����c�{���������Ă���̂�<BR>���ɂ悢�B<BR>�i�j�̎q�݂����Ȍ��t�����̔������Ƃ����̂��G����̂�B�j<BR><BR>�ł���΁A�ϐg����̏��̃R�̕����␶���Ɍ˘f���Ă��܂�<BR>�V�[����`���ė~�����������A������`���Ă������̂�<BR>�M���邱�Ƃɂ��悤�B<BR><BR>���̌�́A��͂�A���_�I�ɏ�����������Ȃ��悤<BR>�i�������炢���Ă����܂�Ȃ����B�j<BR>�K���o���ė~�����B<BR>
+精神は男の子という美少女というツボを押さえているのが<BR>非常によい。<BR>（男の子みたいな言葉遣いの美少女というのが萌えるのよ。）<BR><BR>できれば、変身直後の女のコの服装や生活に戸惑ってしまう<BR>シーンを描いて欲しかったが、いずれ描いてくれるものと<BR>信じることにしよう。<BR><BR>この後は、やはり、精神的に女性化しきらないよう<BR>（少しくらいしてもかまわないが。）<BR>ガンバって欲しい。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/20 23:10:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927209456tpsxue&id2=927131104cfbhxn&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927209456tpsxue_id2_927131104cfbhxn_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �ł���΁A�ϐg����̏��̃R�̕����␶���Ɍ˘f���Ă��܂�<BR>&gt; �V�[����`���ė~�����������A������`���Ă������̂�<BR>&gt; �M���邱�Ƃɂ��悤�B<BR><BR>���đ����݂����ł���B<BR>�ł��A���̂ւ���Ă���Ӗ������ߋ��ɕ`���s�����ꂽ��������܂�����B<BR>�t�ɁA���̎q�����m�ŁA�����Ɓu���̌�v��`������i�����Ȃ����Ƃ��l����ƁA�u�U�N��v���Ă͖̂ʔ����ݒ肩������܂����B<BR><BR>&gt; ���̌�́A��͂�A���_�I�ɏ�����������Ȃ��悤<BR><BR>���X�搶�̍앗�Ȃ�A����͑��v�ł��傤�B(^^)
+&gt; できれば、変身直後の女のコの服装や生活に戸惑ってしまう<BR>&gt; シーンを描いて欲しかったが、いずれ描いてくれるものと<BR>&gt; 信じることにしよう。<BR><BR>同案多数みたいですよ。<BR>でも、そのへんってある意味もう過去に描き尽くされた感がありますから。<BR>逆に、女の子化モノで、ちゃんと「その後」を描いた作品が少ないことを考えると、「６年後」ってのは面白い設定かもしれませんよ。<BR><BR>&gt; この後は、やはり、精神的に女性化しきらないよう<BR><BR>西森先生の作風なら、それは大丈夫でしょう。(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g��</strong>  <i>1999/05/21 00:26:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>トモ</strong>  <i>1999/05/21 00:26:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927214008ocytrps&id2=927131104cfbhxn&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927214008ocytrps_id2_927131104cfbhxn_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��͂�U�N�͒����ł��ˁA���̎�Ō��킹�Ă��炦��Ȃ�A�ϐg�͒j���̍����͂�����o�Ă钆�w�Q�C�R�N�ӂ�ŁA����͂P�N�ォ��̕������G���܂����ˁB(��)<BR>��N���炢�Ȃ玖�ԂɊ�����A����ł܂��󋵂�c�����؂�Ă��Ȃ������Ȏ�������Ȃ��ł��傤���H�@�U�N���ኮ�S�ɏ󋵂ɂȂꂿ�Ⴄ�ł���`�A���������w�R�C�S�N���炢���炶��B(��)<BR><BR>�ł��A���̕ϐg��̎�l���̃L�����N�^�[�͍D���ł��ˁB<BR>
+やはり６年は長いですね、私の趣味で言わせてもらえるなら、変身は男女の差がはっきり出てる中学２，３年辺りで、物語は１年後からの方がより萌えましたね。(笑)<BR>一年くらいなら事態に慣れつつも、一方でまだ状況を把握し切れていない微妙な時期じゃないでしょうか？　６年じゃ完全に状況になれちゃうでしょ～、しかも小学３，４年くらいからじゃ。(笑)<BR><BR>でも、あの変身後の主人公のキャラクターは好きですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�o</strong>  <i>1999/05/21 17:56:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｐ</strong>  <i>1999/05/21 17:56:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927276978uitscy&id2=927131104cfbhxn&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927276978uitscy_id2_927131104cfbhxn_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ǂ�A�\�����Ă�����đ��̂��[�ρ[�A�X�p���K�X��<BR>�ڎw���Ă��炢�����ȂǂƁA�s�͂��Ȃ��Ƃ��l���Ă܂��B<BR>�i���A��O�̖��{�̔�Q�҂Ƃ��o�Ă��Ȃ����ȁj
+どんどん、暴走してもらって第二のすーぱーアスパラガスを<BR>目指してもらいたいなどと、不届きなことを考えてます。<BR>（第二、第三の魔本の被害者とか出てこないかな）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/21 23:29:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927296983jagpxg&id2=927131104cfbhxn&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927296983jagpxg_id2_927131104cfbhxn_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�T���f�[�n�̑������ɍڂ��Ă��\���J�b�g�ŁA�߂������i�b�j���A���؈�Y�ɂ���[���Ă�V�[��������܂����B��������h�L�h�L�B<BR>���A���؈�Y���Ă̂́A�����Ōb�̎΂ߌ��ɍ����Ă�`�F���[�{�[�C�N�i����j�ł��B<BR>����Ƃ����Ƃ��̘b�́A�h�䁩���b�������؁A�Ƃ����O�p�֌W�ɂȂ��Ă����̂ł���܂���[���H
+サンデー系の増刊誌に載ってた予告カットで、めぐちゃん（恵）が、藤木一郎にちゅーしてるシーンがありました。ちょっちドキドキ。<BR>あ、藤木一郎ってのは、教室で恵の斜め後ろに座ってるチェリーボーイ君（推定）です。<BR>するというとこの話は、蘇我←→恵←→藤木、という三角関係になっていくのでありましょーか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�h��</strong>  <i>1999/05/22 00:36:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>紘耶</strong>  <i>1999/05/22 00:36:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927300987adxbxai&id2=927131104cfbhxn&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927300987adxbxai_id2_927131104cfbhxn_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�J���[�y�[�W�̌b�̈ꖇ�G���߂��Ⴍ����C���������Ă܂��B���X�搶�̃J���[�ł���ȋC�����������G�����܂łɌ������ƂȂ��ł��B�i�P�ɍ��܂Ō������Ă���������������Ȃ����B�j<BR>�@�Ƃɂ������_�͒j�̂܂܂Ƃ����̂��C�C�ł��ˁB<BR>�@�l�I�ɂ͂��̂܂ܒj�ɖ߂�Ǝ咣���A�󋵂ɗ�����Ă������Ƃ����҂��Ă܂��B
+　カラーページの恵の一枚絵がめちゃくちゃ気合い入ってます。西森先生のカラーでこんな気合い入った絵を今までに見たことないです。（単に今まで見逃していただけかもしれないが。）<BR>　とにかく精神は男のままというのがイイですね。<BR>　個人的にはこのまま男に戻ると主張しつつ、状況に流されていくことを期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/22 07:50:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927327031ibnnfwo&id2=927131104cfbhxn&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927327031ibnnfwo_id2_927131104cfbhxn_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�T���f�[25���̕\���������Ƃ��́A���̊G�����X�搶�̂��̂Ƃɂ킩�ɂ͐M�����Ȃ������ł��B<BR>���X�搶�Ƃ����΁A�Ƃ̑����J���Ă����΂���ɏt���׎O������ɓ������Ă��܂�������̂悤�ł��̂ŁA�F������O���搶�����������為�А��X�搶�̂��Ƃɓ͂��Ă����ĉ������B
+サンデー25号の表紙を見たときは、あの絵が西森先生のものとにわかには信じられなかったです。<BR>西森先生といえば、家の窓を開けていたばかりに春風邪三太さんに逃げられてしまいお困りのようですので、皆さんも三太先生を見かけたらぜひ西森先生のもとに届けてあげて下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ɂ�����̗F�l</strong>  <i>1999/05/22 08:00:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>にしもりの友人</strong>  <i>1999/05/22 08:00:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927327603fngqlvs&id2=927131104cfbhxn&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927327603fngqlvs_id2_927131104cfbhxn_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̃y�[�W��ǂ񂾖{�l�̃R�����g�B<BR>�u���[�ށA���[��[�l����������̂��[�B<BR>���܂���Ғʂ�ɂ͂Ȃ�Ȃ��Ǝv���܂����A������낵���v<BR>�ƌ����Ă܂����B�@�ȏ�B
+このページを読んだ本人のコメント。<BR>「うーむ、こーゆー人たちもいるのかー。<BR>あまり期待通りにはならないと思いますが、応援よろしく」<BR>と言ってました。　以上。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/22 08:22:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927328980dorlvut&id2=927131104cfbhxn&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927328980dorlvut_id2_927131104cfbhxn_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������B�c�c�c�D������Ȃ��Ƃ������Ă��܂������܂���ł��Ɛ��X�搶�ɂ��`�������������X�搶�̂��F�B�l�B<BR>���ƁA���́A�΂��ċ����Ă��炦��Ƃ��肪�����ł��B<BR><BR>�u�V�g�ȏ����ӋC�v�i���́F�V�R�}�H�j�Ɋւ��ẮA�l�I�ɂ͂ǂ�ǂ�\�z�O�̕����ɓ˂�����������ė~�����Ǝv���Ă܂��B�ւ�ɂ����̃z�[���y�[�W�̗\�z�ʂ�ɂȂ����Ⴄ�ƁA���X�搶�̍�i�炵���Ȃ��悤�ȋC�����܂����B<BR>����ǂ�ȓW�J�ɂȂ낤�ƁA�A�Ȃ���S�͂ŉ��������Ă��������܂��B<BR><BR>�����Ƃ܂��A���悤�ɁA�C���^�[�l�b�g�ł͍�җl��{�l�����������\���͏�ɂ���킯�ł�����A���T�C�g���p�҂̊F������A�e��i�̍�җl�ɑ΂��Ď���Ȃ��Ƃ͏����Ȃ��悤�ɋC�����܂��傤�B��{�l�ɖʂƌ������Č����Ȃ��悤�Ȃ��Ƃ̓l�b�g�ɂ������Ȃ��B���ꂪ��{�ł��B<BR>���āA����A��Ԏ���Ȃ��Ə����Ă��̎�����Ȃ��������B�Ё[�B���߂�Ȃ������߂�Ȃ������߂�Ȃ���
+うわっっ。………好き勝手なことを書いてしまいすいませんですと西森先生にお伝え下さい＞西森先生のお友達様。<BR>えと、その、笑って許してもらえるとありがたいです。<BR><BR>「天使な小生意気」（愛称：天コマ？）に関しては、個人的にはどんどん予想外の方向に突っ走っちゃって欲しいと思ってます。へんにうちのホームページの予想通りになっちゃうと、西森先生の作品らしくないような気がしますし。<BR>今後どんな展開になろうと、陰ながら全力で応援させていただきます。<BR><BR>──とまあ、かように、インターネットでは作者様御本人が立ち寄られる可能性は常にあるわけですから、当サイト利用者の皆さんも、各作品の作者様に対して失礼なことは書かないように気をつけましょう。御本人に面と向かって言えないようなことはネットにも書かない。これが基本です。<BR>って、今回、一番失礼なこと書いてたの私じゃないっすか。ひー。ごめんなさいごめんなさいごめんなさい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">��_��</a></strong>  <i>1999/05/22 21:29:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">矢治浩平</a></strong>  <i>1999/05/22 21:29:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927376155dekaqrq&id2=927131104cfbhxn&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927376155dekaqrq_id2_927131104cfbhxn_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���t�ɁA���̎q�����m�ŁA�����Ɓu���̌�v��`������i�����Ȃ�<BR>�����Ƃ��l����ƁA�u�U�N��v���Ă͖̂ʔ����ݒ肩������܂����B<BR><BR>�S�������ē����ł��B<BR>���������̂���ʎ��ŏo��Ȃ�āA��������ɂȂ������񂾁B<BR>
+＞逆に、女の子化モノで、ちゃんと「その後」を描いた作品が少ない<BR>＞ことを考えると、「６年後」ってのは面白い設定かもしれませんよ。<BR><BR>全く持って同感です。<BR>こういうのが一般誌で出るなんて、いい時代になったもんだ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/23 02:11:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927393079puaeqvw&id2=927131104cfbhxn&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927393079puaeqvw_id2_927131104cfbhxn_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A������ł͂��v���Ԃ�ł��B<BR>�b�̐ݒ���āA�ʔ����ł���ˁB<BR><BR>���ƁA�ŋ߂ł́A�}�C�u�[���Ƃ��āA�u���g�͒j���ۂ������ɁA���̎q�Ƃ��Ă̐g�����Ȃ݂ɂ͂������C���g���ĂăI�V�����ɂ��Ă�L�����v�Ƃ����̂����Ă܂��āi�Ȃ񂾂���₱�����}�C�u�[���j�B<BR>���̃}�C�u�[���I�ɁA�V�R�}�̌b���͂��߁A�w�l�`�j�h�j�n�x�̃}�L�R�i�ڑ�~��j�Ƃ��A�w�Ȃ�����̃R�R�i�b�c�x�̃i�b�c�Ȃǂ̃L�������ĕ]������C�^�����܂��Ă��Ă���킯�ł��B���̒��ŁB^^;
+矢治さん、こちらではお久しぶりです。<BR>恵の設定って、面白いですよね。<BR><BR>あと、最近では、マイブームとして、「中身は男っぽいくせに、女の子としての身だしなみにはすごい気を使っててオシャレにしてるキャラ」というのが来てまして（なんだかややこしいマイブーム）。<BR>このマイブーム的に、天コマの恵をはじめ、『ＭＡＫＩＫＯ』のマキコ（芹沢淳介）とか、『ないしょのココナッツ』のナッツなどのキャラも再評価する気運が高まってきているわけです。私の中で。^^;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>1999/05/26 11:27:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>1999/05/26 11:27:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927685631dbihp&id2=927131104cfbhxn&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927685631dbihp_id2_927131104cfbhxn_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@��Q�b���܂����I�@�Ȃ񂩌b���i���j�̎q�Ȃ̂Ɂj�j���|���A����<BR>�����Ă���̂��V�N�ȃJ���W�ł����|�|�w�j�x�Ƃ��Ĉ���Ă��Ă��Ȃ�<BR>�����H�ł��傤���B�b�́A���̌�w�j�̎q�ł����̎q�ł��Ȃ��x���݂�<BR>�Ȃ��Ă����̂ł��傤���c�c�ǂ��W�J���邩���N���N�ł��B
+　第２話見ました！　なんか恵が（元男の子なのに）男が怖い、って<BR>言っているのが新鮮なカンジでした－－『男』として育ってきていない<BR>せい？でしょうか。恵は、この後『男の子でも女の子でもない』存在に<BR>なっていくのでしょうか……どう展開するかワクワクです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.akao.to/lab/kadono/" target="_blank">Kardy</a></strong>  <i>1999/05/26 20:24:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927717868ndrque&id2=927131104cfbhxn&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927717868ndrque_id2_927131104cfbhxn_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ񂩌b���i���j�̎q�Ȃ̂Ɂj�j���|���A���Č����Ă���̂��V�N�ȃJ���W�ł���<BR>�m���ɁB<BR>�������u���������ł��j��������A����ȕ��ɏ��̎q�ɏP���|����񂾂낤���v�Ǝ��Ȍ����Ɋׂ�̂����Ƀc�{�B<BR>�ł��A�����Ȃ��Ă����<BR>���U�N���ኮ�S�ɏ󋵂ɂȂꂿ�Ⴄ�ł���`�A���������w�R�C�S�N���炢���炶��B(��)<BR>���Ă̂��A�ӊO�Ɛ��X���̐헪��������܂����B<BR>���������̍�i�́u���u�R���v�𔄂�ɂ��Ă܂���ˁB<BR>�v�t����O�ɐ��]�����Ă��܂����b�́A���_�I�ɂ͌��j�ł���Ȃ���u�ِ��Ƃ��Ă̏��̎q�v��m��Ȃ��Ƃ������߂��������܂��B��萳�m�ɂ́u���̎q�ɑ΂���A�j�Ƃ��Ă̗�������v���ˁB<BR>���ꂪ���T���������Ȍ����̌����ł��鎖�͊ԈႢ�����ł��B<BR>�u���u�R���v�ɑ���ƌ������́A�b�����炩�̐F�������������N�������͖����ł��B�i��l�����P�Ȃ�u�t�Q���̈��v�ŏI����Ă��܂����u�R���ȂǔF�߂��܂���j<BR>�ƂȂ�ƁE�E�E����ς菗�̎q�����Ă����̂ł��傤�B<BR>���݂̏󋵂���l���o����錋�_�́A����ɋA�[���܂��B<BR><BR>�Ƃ���ŁE�E�E��������P�b�̎��_�ŁA���X���͂��̃T�C�g�̑��݂�m���Ă��܂����킯�ł���ˁE�E�E<BR>���͍���̓W�J�A��X�̐��_���Q�l�ɂ���\�����E�E�E<BR>�����ƁB
+＞なんか恵が（元男の子なのに）男が怖い、って言っているのが新鮮なカンジでした<BR>確かに。<BR>しかも「自分が今でも男だったら、あんな風に女の子に襲い掛かるんだろうか」と自己嫌悪に陥るのが妙にツボ。<BR>でも、こうなってくると<BR>＞６年じゃ完全に状況になれちゃうでしょ～、しかも小学３，４年くらいからじゃ。(笑)<BR>ってのも、意外と西森氏の戦略かもしれませんよ。<BR>たしかこの作品は「ラブコメ」を売りにしてますよね。<BR>思春期を前に性転換してしまった恵は、精神的には元男でありながら「異性としての女の子」を知らないという解釈が成立します。より正確には「女の子に対する、男としての恋愛感情」をね。<BR>それが今週見せた自己嫌悪の原因である事は間違い無いです。<BR>「ラブコメ」に走ると言う事は、恵が何らかの色恋沙汰を引き起こす事は明白です。（主人公が単なる「青春群像の一種」で終わってしまうラブコメなど認められません）<BR>となると・・・やっぱり女の子化していくのでしょう。<BR>現在の状況から考え出される結論は、それに帰納します。<BR><BR>ところで・・・早くも第１話の時点で、西森氏はこのサイトの存在を知ってしまったわけですよね・・・<BR>実は今後の展開、我々の推論を参考にする可能性も・・・<BR>おっと。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">��_��</a></strong>  <i>1999/05/26 21:40:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">矢治浩平</a></strong>  <i>1999/05/26 21:40:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927722411bykwwi&id2=927131104cfbhxn&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927722411bykwwi_id2_927131104cfbhxn_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ă̂��A�ӊO�Ɛ��X���̐헪��������܂����<BR><BR>���͂͂��߂��炻�������ǂ݂ł����B�����āA���ʂ̒j�̎q���o�����鐬���ߒ��������Ƃ΂��Đ��]�����Ă���킯�ł�����A�ǂ������Ƃ����Ɣޏ��́u�j����̏��̎q�v�ɋ߂��Ǝv���̂ł��B<BR>�����P�O�˂��炢�ɐ��]�����Ă���A�������ʂ̏��̎q�ɂȂ����Ⴄ�̂���Ȃ����Ȃ��A�Ƃ����̂����̍l���������肵�܂��B����́A�ǂ�Ȓj����̏��̎q�ł��A�ِ����C�ɂ���N���ɂȂ�Ƃ��񂾂񂩂���Ă��邱�Ƃ���̗ސ��B<BR><BR>�ŁA�����ĂX�˂Ƃ����ݒ��I�񂾂̂�����A�ǂ�����Ēj����̏��̎q�Ƃ̏�������������̂��낤���Ǝv���Ă����̂ł����A��b�ł����Ȃ�E�X�Ƃ��������ł��ˁB<BR>
+＞ってのも、意外と西森氏の戦略かもしれませんよ<BR><BR>私ははじめからそういう読みでした。敢えて、普通の男の子が経験する成長過程をすっとばして性転換しているわけですから、どっちかというと彼女は「男勝りの女の子」に近いと思うのです。<BR>もし１０才ぐらいに性転換してたら、多分普通の女の子になっちゃうのじゃないかなあ、というのが私の考えだったりします。これは、どんな男勝りの女の子でも、異性を気にする年頃になるとだんだんかわってくることからの類推。<BR><BR>で、敢えて９才という設定を選んだのだから、どうやって男勝りの女の子との書き分けをするのだろうかと思っていたのですが、二話でいきなり脱帽という感じですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g��</strong>  <i>1999/05/26 23:48:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>トモ</strong>  <i>1999/05/26 23:48:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927730108ryvic&id2=927131104cfbhxn&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927730108ryvic_id2_927131104cfbhxn_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��Q�b�A�ǂ݂܂����B<BR>�������͐��X����炵�����o�Ă�ʔ����W�J�ł����B<BR><BR>�����ł��ˁA�u�j�ɖ߂�v�ƌ������A���̏󋵂��󂯓���Ă��܂��Ă�b�i����H����H�j���D���ł��ˁB(^_^) <BR><BR>�F����̏������݂�ǂ�ł��āA�u�j�炵�����̎q�v�ŁA�ӂƁA�́A�����T���f�[�ɍڂ����u��������p���h�b�N�X�v���v���o�����͎̂������ł��傤���H�i������͎���i��ŏ��̎q�ɂȂ����������ł���(^^;) �j<BR><BR>
+第２話、読みました。<BR>さすがは西森さんらしさが出てる面白い展開でした。<BR><BR>いいですね、「男に戻る」と言いつつも、今の状況も受け入れてしまってる恵（くん？さん？）が好きですね。(^_^) <BR><BR>皆さんの書き込みを読んでいて、「男らしい女の子」で、ふと、昔、同じサンデーに載った「克美くんパラドックス」を思い出したのは私だけでしょうか？（あちらは自ら進んで女の子になっちゃったんですが(^^;) ）<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>1999/05/27 00:06:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ちむ</strong>  <i>1999/05/27 00:06:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927731188cvchd&id2=927131104cfbhxn&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927731188cvchd_id2_927131104cfbhxn_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F���񂦂炢�l���Ă������ł��˂��B<BR>���́A���������̂��Ƃ́A�����ہ[������ǏΊ�ł������܂�܂�����Ă�ł����B<BR>���Ƃ͂���ς�u�j���|���v���Ă̂��L������Ɠ������u����͂��v���ĂƂ���ł����B���u�R���Ƃ�������́u�j���|���v����u�C�ɂȂ�j�̎q������v�ɕς���Ă����͂��Ȃ̂ŁA���̂����肪�ǂ��Ȃ�̂����Ɋy���݂ł��B
+皆さんえらい考えておられるんですねぇ。<BR>私は、きぃっくのあとの、勝ちぽーずあんど笑顔でもうたまりませんってやつでした。<BR>あとはやっぱり「男が怖い」ってのが広尾さんと同じく「これはっ」ってところでした。ラブコメという限りは「男が怖い」から「気になる男の子がいる」に変わっていくはずなので、そのあたりがどうなるのか非常に楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">yays</a></strong>  <i>1999/05/27 00:14:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927731642bhlso&id2=927131104cfbhxn&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927731642bhlso_id2_927131104cfbhxn_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; ����Ƃ����Ƃ��̘b�́A�h�䁩���b�������؁A�Ƃ����O�p�֌W�ɂȂ��Ă����̂ł���܂���[���H <BR><BR>���؈�Y�N�́A�P�Ȃ�n�O�I���݂������悤�ł��ˁB�i�΁j<BR><BR>&gt; ���͍���̓W�J�A��X�̐��_���Q�l�ɂ���\�����E�E�E<BR>���搶��{�l��������΂�ꂿ�Ⴂ�܂���B^^;<BR>����Ȃ����[�܂��Ȃ��ł��傤�B�i�΁j<BR>�����̏������݂����������C�ɂ���قǐ��X�搶���ɂ���Ȃ��Ǝv���܂��B<BR><BR>���A���������A�̐S�̂��Ə����̖Y��Ă��B<BR>�ȑO�̏������݂Ŋ��Ⴂ���ď����Ă��܂�����ł����A�u�������牴��!!�v�̓f�r���[�삶��Ȃ����ăf�r���[�Q��ڂȂ�ł��ˁB�f�r���[��́u�v�[���Y�v�Ƃ�����i�i���Ǝv���j�B<BR><BR>���ė��T�͊����J���[���y�[�W�B�y���݁B
+&gt; するというとこの話は、蘇我←→恵←→藤木、という三角関係になっていくのでありましょーか？ <BR><BR>藤木一郎君は、単なる地丹的存在だったようですね。（笑）<BR><BR>&gt; 実は今後の展開、我々の推論を参考にする可能性も・・・<BR>↑先生御本人が見たら笑われちゃいますよ。^^;<BR>そんなこたーまずないでしょう。（笑）<BR>ここの書き込みをいちいち気にするほど西森先生も暇じゃないと思います。<BR><BR>あ、そうそう、肝心のこと書くの忘れてた。<BR>以前の書き込みで勘違いして書いてしまったんですが、「今日から俺は!!」はデビュー作じゃなくってデビュー２作目なんですね。デビュー作は「プー太郎」という作品（だと思う）。<BR><BR>さて来週は巻頭カラー増ページ。楽しみ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>1999/05/27 02:56:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>1999/05/27 02:56:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=927741381ixxtkf&id2=927131104cfbhxn&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_927741381ixxtkf_id2_927131104cfbhxn_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ񂩌b���i���j�̎q�Ȃ̂Ɂj�j���|���A���Č����Ă���̂��V�N�ȃJ���W�ł���<BR>�j�����̂s�r�L�����͑���(���R��)���ǁA���̃p�^�[���͐V�N�ł��ˁB<BR>�s�r���̂��̂Ŗ������i�ƌ������A<BR>�u���l�ŁA���˂��Ԃ�ŁA�z�X�����āA����Ȃ̂Ƀl���l�ŎO���ځv<BR>���ăL��������邽�߂ɂs�r���g�����̂��ȁ`�Ƃ����������󂯂܂����B<BR><BR>���Ȃ݂ɁA�Ί�������b�Ƃ�����̕����D���������肵�܂�(��)
+＞なんか恵が（元男の子なのに）男が怖い、って言っているのが新鮮なカンジでした<BR>男嫌いのＴＳキャラは多い(当然か)けど、このパターンは新鮮ですね。<BR>ＴＳそのもので魅せる作品と言うより、<BR>「美人で、跳ねっ返りで、凛々しくて、それなのにネンネで三枚目」<BR>ってキャラを作るためにＴＳを使ったのかな～という感じを受けました。<BR><BR>ちなみに、笑顔よりもムッとした顔の方が好きだったりします(爆)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">��_��</a></strong>  <i>1999/06/03 01:04:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">矢治浩平</a></strong>  <i>1999/06/03 01:04:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=928339451eyqrw&id2=927131104cfbhxn&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_928339451eyqrw_id2_927131104cfbhxn_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��O�b�B�N���R�����g���Ȃ����ǁA�ǂ�łȂ��̂��ȁH<BR>�`������A�j�̎q�Ɂu�H�H�H�v�Ȍb����񂪂Ȃ��Ȃ�<BR>��낵���ł��ˁB<BR>���X�g��R�}���}���ł����B<BR>�X�˂��Ă����ݒ肪�Ȃ��Ȃ�����������Ă��܂��ˁB<BR>
+第三話。誰もコメントがないけど、読んでないのかな？<BR>冒頭から、男の子に「？？？」な恵ちゃんがなかなか<BR>よろしいですね。<BR>ラスト一コマがマルでした。<BR>９才っていう設定がなかなか今回もきいていますね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>1999/06/03 10:42:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>1999/06/03 10:42:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=928374123mhtnhi&id2=927131104cfbhxn&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_928374123mhtnhi_id2_927131104cfbhxn_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂ł��B�ǂ�ł܂���^^<BR>������œǂ�ł��܂����̂ł����ɏ������ރ^�C�~���O��<BR>�����Ă��܂��܂����B
+まつです。読んでますよ^^<BR>早売りで読んでしまったのでここに書き込むタイミングを<BR>逃してしまいました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2000/10/05 03:46:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2000/10/05 03:46:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=970685194jogcwa&id2=927131104cfbhxn&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_970685194jogcwa_id2_927131104cfbhxn_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���T���Ō�́h�~�L����̔閧�h�����ɁA<BR>�u���͂��������j�������肵�āv���Ĉ�l�{�P���܂����Ƃ�����A<BR>���O�\���ɐ���z����Ă��܂��܂���(��)�B�l���邱�Ƃ͊F�������c�c�B<BR><BR>�D�݂̒j�𕷂���Ĉ�u�l����b���񂪂��������B
+今週号最後の”ミキさんの秘密”引きに、<BR>「ぢつはこっちも男だったりして」って一人ボケかまそうとしたら、<BR>欄外予告に先を越されてしまいました(爆)。考えることは皆同じか……。<BR><BR>好みの男を聞かれて一瞬考える恵さんがいい感じ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�c�j�`</strong>  <i>2000/10/24 03:17:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＤＫＡ</strong>  <i>2000/10/24 03:17:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=972325027ldhtar&id2=927131104cfbhxn&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_972325027ldhtar_id2_927131104cfbhxn_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������N�������ĂȂ��B�l�b�g�Ƃ�ł邤���ɂ�������<BR>�V�g�ȏ����ӋC���Ă��肠����Ȃ��̂ˁB�D���Ȃ̂�
+うわっ誰も書いてない。ネットとんでるうちにきたけど<BR>天使な小生意気ってもりあがらないのね。好きなのに
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="927131104cfbhxn">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">少年コミック</a>]<br>
 
 </p>
 </body>

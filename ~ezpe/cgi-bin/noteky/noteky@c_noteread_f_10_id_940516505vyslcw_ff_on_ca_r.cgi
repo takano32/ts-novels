@@ -1,191 +1,191 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=940516505vyslcw&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_940516505vyslcw_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">��������̖����Ɍ�������</font><br>
+<font size="+2" color="#0000FF">たった一つの未来に向かって</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/only_future.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/10/21 23:35:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/only_future.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/10/21 23:35:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940516505vyslcw&id2=940516505vyslcw&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940516505vyslcw_id2_940516505vyslcw_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z�_�����������������ċA���Ă������B�C�����ƈ���L�������ł��āA���ɂ͏��̎q�������Ă����B<BR>NOW PRINTING!
+【あらすじ】神無月匠が酔っ払って帰ってきた朝。気がつくと一日記憶が飛んでいて、床には女の子が眠っていた。<BR>NOW PRINTING!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>isigaki</strong>  <i>1999/10/25 03:07:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940788464maqrtd&id2=940516505vyslcw&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940788464maqrtd_id2_940516505vyslcw_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂿂����A�v�X�ɂ���������i�����܂����ˁB<BR>�ŋ߂̓V���[�g�R���f�B�n�������������炩�A<BR>�Ȃɂ��V�N�Ō�����܂��ȁB<BR>
+なんちうか、久々にこういう作品を見ましたね。<BR>最近はショートコメディ系が多かったからか、<BR>なにやら新鮮で御座いますな。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">���������E�Ă�</a></strong>  <i>1999/10/25 03:22:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">いしがき・てつ</a></strong>  <i>1999/10/25 03:22:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940789354ywhcioq&id2=940516505vyslcw&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940789354ywhcioq_id2_940516505vyslcw_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�㏑���́uA�ƌ����l�i���`�v<BR>�@����񂪂���������Ă�Ƃ���<BR>������͂�����ƕʐl���ȁH���Ċ����ł������A<BR>�ʔ����b�ł����ˁB<BR>�@�j�ł��鎩���Ə��ł��鎩���������ɑ��݂���<BR>�Ƃ����̂͋����[�����X��ˁB<BR>�@���C�I�ӌ��ł́A�����������������������Ƃ�����<BR>���̓�l�͋L���A�l�i�͈ꏏ�ł�<BR>�ʁX�̐l�Ԃ���Ȃ��̂��Ȃ��Ďv���܂��ˁB<BR>�S�ē����ł����͕ʕ����Ċ������ȁH<BR>���C�́u���x���W���[�^�q�v�͓ǂ񂾎�������܂���<BR>(�ŋ߂��̃T�C�g�ɗ�������V�Q�҂ł��J���B)<BR>���A�C�ɂȂ�̂ŒT���ēǂ�ł݂܂��B<BR>�������}�W�Ŋy���݂ɂ��Ă���X�B<BR>
+&gt;後書きの「Aと言う人格を～」<BR>　矢治さんがおっしゃってるとおり<BR>こいつらはちょっと別人かな？って感じでしたが、<BR>面白い話でしたね。<BR>　男である自分と女である自分が同時に存在する<BR>というのは興味深いっスよね。<BR>　ワイ的意見では、もしそう言う事があったとしたら<BR>この二人は記憶、人格は一緒でも<BR>別々の人間じゃないのかなって思いますね。<BR>全て同じでも魂は別物って感じかな？<BR>ワイは「リベンジャー真子」は読んだ事がありません<BR>(最近このサイトに流れついた新参者ですカラ。)<BR>が、気になるので探して読んでみます。<BR>次回作もマジで楽しみにしてるっス。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www03.u-page.so-net.ne.jp/za2/kmkm/" target="_blank">���d��</a></strong>  <i>1999/10/25 23:05:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www03.u-page.so-net.ne.jp/za2/kmkm/" target="_blank">豆電球</a></strong>  <i>1999/10/25 23:05:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940860335klomjra&id2=940516505vyslcw&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940860335klomjra_id2_940516505vyslcw_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ݉���������܂����B<BR>�@���Ɏ����̖�����������ƌ��S����Ɏ���܂ł̏���<BR>畏����ǂ��ł��ˁB<BR><BR>���������E�Ă���<BR>&gt; ������͂�����ƕʐl���ȁH���Ċ����ł������A<BR>�@�������傱���Ƃ��������܂����B�Ⴆ�Γ�l�̏��Ζʂ̏�ʂ�<BR>���̑�����`���Ă���A�ǎ҂ɂ������Ǝ������������悤��<BR>�C�����܂��B�u���͉��Ȃ̂ɖڂ̑O�ɂ��鉴�͒N���H�v�݂����ȁB<BR>������A�[���l�����킯����Ȃ���ł����ǁc�B<BR>
+　読み応えがありました。<BR>　操に自分の未来を託そうと決心するに至るまでの匠の<BR>逡巡が良いですね。<BR><BR>いしがき・てつさん<BR>&gt; こいつらはちょっと別人かな？って感じでしたが、<BR>　私もちょこっとそう感じました。例えば二人の初対面の場面を<BR>操の側から描いてたら、読者にももっと実感が沸いたような<BR>気もします。「俺は俺なのに目の前にいる俺は誰だ？」みたいな。<BR>＃いや、深く考えたわけじゃないんですけど…。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">��_��</a></strong>  <i>1999/10/25 23:25:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">矢治浩平</a></strong>  <i>1999/10/25 23:25:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940861519dnlow&id2=940516505vyslcw&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940861519dnlow_id2_940516505vyslcw_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̓�l�͋L���A�l�i�͈ꏏ�ł�<BR>���ʁX�̐l�Ԃ���Ȃ��̂��Ȃ��Ďv���܂��ˁB<BR><BR>���������Ƃł��ˁc<BR>�r���ŁA�u�����l�Ԃ��l�����v���Ă����̂́A������߂���ł��B��������A�u�����L���������Ȃ�����A�ʐl�Ɍ�������𓾂Ȃ��V�`���G�[�V�����̉��o�v���Ă̂ɕ����]�����Ă����Ə����̂��܂��ɂȂ�܂����B<BR>�܁A���N����݂��������̓^�_�̏��̎q�Ȃ�ŁA�y���Ȃ�ł����A���̋t�́A�����ƁA�����ƁA���c�Ǝ���ǃ��[�h�ɓ����Ă��܂��Ƃ����B<BR>�܁A�Ƃɂ����A�v���Ԃ�ɃA�^�}�U��i���ď������̂ŁA���y���݂��������ă��b�L�[�ł��B<BR>
+＞この二人は記憶、人格は一緒でも<BR>＞別々の人間じゃないのかなって思いますね。<BR><BR>実を言うとですね…<BR>途中で、「同じ人間を二人書く」っていうのは、あきらめたんです。それよりも、「同じ記憶を持ちながらも、別人に見えざるを得ないシチュエーションの演出」ってのに方向転換してちっと書くのがましになりました。<BR>ま、匠君からみた操ちゃんはタダの女の子なんで、楽勝なんですが、その逆は、えっと、あっと、う…と失語症モードに入ってしまうという。<BR>ま、とにかく、久方ぶりにアタマ振り絞って書いたので、お楽しみいただいてラッキーです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>e=1/1!+1/2!+1/3!+�E�E�E�E�E�E</strong>  <i>1999/10/29 02:11:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>e=1/1!+1/2!+1/3!+・・・・・・</strong>  <i>1999/10/29 02:11:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=941130714blnipb&id2=940516505vyslcw&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_941130714blnipb_id2_940516505vyslcw_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ۂƂ��Ắu�ʔ����Ȃ��v�̈ꌾ�ɂ��܂��D������ ���������Ƃ��Ď��o���Ă����S���`�ʂ����܂����ł��D�܂� �ǂݕԂ��Ă݂� ���e�I�ɖ������Ă���̂ł͂Ȃ����Ƃ����ӏ�������܂��D��l�̑��̑䎌�Łu���Ȃ��͂��ȂȂ������v�Ƃ����ӏ�������̂ł��� ���O�̔�������͏��{�l�����ȂȂ������̂��Ƃ������߂ł��܂���D����ɂ�������炸�Ō�̕��ł͏��̎��Ɩ������Ă��܂��D���Ǐ��͂ǂ��Ȃ�����ł����D
+第一印象としては「面白いなあ」の一言につきます．しかし 操が女性として自覚していく心理描写がいまいちです．また 読み返してみて 内容的に矛盾しているのではないかという箇所があります．大人の操の台詞で「あなたはしななかった」という箇所があるのですが 直前の発言からは匠本人がしななかったのだとしか解釈できません．それにもかかわらず最後の方では匠の死と明言しています．結局匠はどうなったんですか．
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>1999/10/29 04:09:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>1999/10/29 04:09:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=941137789tbrou&id2=940516505vyslcw&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_941137789tbrou_id2_940516505vyslcw_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����O�̔�������͏��{�l�����ȂȂ������̂��Ƃ������߂ł��܂���D<BR>������ɂ�������炸�Ō�̕��ł͏��̎��Ɩ������Ă��܂��D<BR><BR>�Ō�̕��̏󋵉���ł́A�u���҂ƍs���s���҂̒��Ɂv�Ə����܂����B�������甼�N��܂łɁA�����A���Ă��Ȃ������A������Ƒ��͎��Ɣ��f�����A���Ă��Ƃł��B<BR>�u���͐����Ă��܂����v���Ă����W�J����Ŏg�����������̂ŁA����Ȋ����ɂ��Ă��܂��B�C�O�ŉ������Ă����̂��A���A���ė���̂��A���Ă͖̂���ł����ǁA�\�N�ȓ��ɂ܂��p������킷���Ƃ͊ԈႢ�L��܂���B
+＞直前の発言からは匠本人がしななかったのだとしか解釈できません．<BR>＞それにもかかわらず最後の方では匠の死と明言しています．<BR><BR>最後の方の状況解説では、「死者と行方不明者の中に」と書きました。事件から半年後までに、匠が帰ってこなかった、それを家族は死と判断した、ってことです。<BR>「実は生きていました」っていう展開を後で使いたかったので、こんな感じにしています。海外で何をしていたのか、いつ帰って来るのか、ってのは未定ですけど、十年以内にまた姿をあらわすことは間違い有りません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>1999/10/31 00:03:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>1999/10/31 00:03:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=941295795svuuwy&id2=940516505vyslcw&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_941295795svuuwy_id2_940516505vyslcw_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����ɂ��́B�����������\�ł̕���ǂ܂��Ă��炢�܂����B<BR>������ƋZ�p�I�ȃR�g�Ȃ�ł����A��ʓ]���̂Ƃ���ň�s���炢�Ԃ�<BR>�J���Ă���������ƁA������₷����[�ȏ����������J�i�i�Ɓ|��<BR>�i���X�̏��Ƃ��B�ׂ������Ƃł����܂���j�B<BR>�@�ł��B<BR>�@�ʔ��������ł���I�@�Ō�̃^�C���X���b�v�̏��̓n�C�����C����<BR>����i�w�]���r�B�x���{�ꖼ���v���o���Ȃ��`�`�j�̂悤�Ȏ����<BR>�Ɗ������ł��B<BR>�@�����܂Ŗl�I�ӌ��ł����ǁA�l���u�����L�����R�s�[�ł���<BR>�Ƃ�����A�i�R�s�[���ꂽ�l�i�́j���̎��_�ŕʐl�v�h�ł��B�����<BR>��i�́A�ǂ������Ƃ����Ə��̎��_�ŏ�����Ă�݂����ŁA����<BR>�����̕`�ʂ��T���߂��ȁA�Ǝv���܂����B���[��A�ł��\�����e�[�}<BR>����Ȃ�����A�Ȃ�ł��傤���H<BR>�@�O�u���x���W���[�}�R�i����������삾�Ǝv���܂��I�j�v��ǂ�<BR>�Ƃ����v�����̂ł����ǁc�c�u�����Ɠ����L���������Ă���l���v��<BR>����������Ă邩�ȁA�ƈ�u�v���܂����ł��B�l�l�I�ɂ͓���<BR>�V�`���G�[�V�������Ƃ�����Q���J�ɂȂ肻���i��΁c�c�l�A������<BR>�D������Ȃ��̂�������Ȃ��Ȃ��j�B<BR>�@�����A������񑀓I�ȉ𓚂��\���[���������܂��B���[�������Ӗ���<BR>���낢��l�������i�ł����B�z���g�ɖʔ��������ł��B<BR>
+　こんにちは。さっそく発表版の方を読ませてもらいました。<BR>ちょっと技術的なコトなんですが、場面転換のところで一行くらい間を<BR>開けていただけると、分かりやすいよーな所があったカナ（家－＞<BR>喫茶店の所とか。細かいことですいません）。<BR>　でも。<BR>　面白かったですよ！　最後のタイムスリップの所はハインラインの<BR>名作（『ゾンビ達』日本語名が思い出せない～～）のような趣がある<BR>と感じたです。<BR>　あくまで僕的意見ですけど、僕も「もし記憶がコピーできた<BR>としたら、（コピーされた人格は）その時点で別人」派です。今回の<BR>作品は、どっちかというと匠の視点で書かれてるみたいで、操の<BR>葛藤の描写が控えめかな、と思いました。うーん、でもソレがテーマ<BR>じゃないから、なんでしょうか？<BR>　前「リベンジャーマコ（こちらも名作だと思います！）」を読んだ<BR>ときも思ったのですけど……「自分と同じ記憶を持っている人物」と<BR>恋愛感情が持てるかな、と一瞬思いましたです。僕個人的には同じ<BR>シチュエーションだとすぐ大ゲンカになりそう（苦笑……僕、自分が<BR>好きじゃないのかもしれないなあ）。<BR>　いえ、もちろん操的な解答も十分納得がいきます。そーいった意味で<BR>いろいろ考えられる作品でした。ホントに面白かったです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��×���</strong>  <i>1999/11/01 02:10:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>会津里花</strong>  <i>1999/11/01 02:10:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=941389857wbscwac&id2=940516505vyslcw&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_941389857wbscwac_id2_940516505vyslcw_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƃ��Ă����Ђ����Ԃ�ł��B<BR>�₶����A�ǂ����̂������܂����ˁI<BR>���́A�u�����猩�����v�ɂ��Ȃ����Ă����Ȃ��B<BR>���S�Ȑ��������Ȃ���΃X�g�[���[�����藧���Ȃ��킯�ł͂Ȃ����A�����̐��E�ɂ��A��΂ɍl�����Ȃ�����ǂ��̂܂ܑ��݂��Ă���u���܂̍���Ȃ����Ɓv���Ă������񂠂邵�B<BR>���́A�u���͎��ȂȂ������v�Ƃ����Z���t�́A�₶����̊܂݂��Ǝv�����B<BR>���̕\������ł��ˁB�C�����̓����̋@�����A�悭�o�Ă��܂��ˁB<BR>�c�c�Ȃ�āA�r�ꂽ���̂��������Ȃ����������ׂ����Ƃł͂Ȃ������B
+とってもおひさしぶりです。<BR>やじさん、良いものを書きましたね！<BR>私は、「操から見た匠」にうなずいていたなあ。<BR>完全な整合性がなければストーリーが成り立たないわけではないし、現実の世界にも、絶対に考えられないけれどそのまま存在している「つじつまの合わないこと」ってたくさんあるし。<BR>私は、「匠は死ななかった」というセリフは、やじさんの含みだと思った。<BR>操の表情がいいですね。気持ちの動きの機微が、よく出ていますね。<BR>……なんて、荒れたものしか書けない私が言うべきことではないかも。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>1999/11/08 03:27:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>1999/11/08 03:27:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=941999225gqiyay&id2=940516505vyslcw&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_941999225gqiyay_id2_940516505vyslcw_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G�s���[�O�̓��e���A�\�z���Ă����̂ɋ�������镨�������̂�<BR>���s�n�ƌ����܂����A����͂���Ŗʔ����̂͊m���E�E�E
+エピローグの内容が、予想していたのに驚かされる物だったので<BR>失敗系と言われますが、これはこれで面白いのは確か・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2k.nove.ac" target="_blank">��_��</a></strong>  <i>1999/11/08 19:35:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2k.nove.ac" target="_blank">矢治浩平</a></strong>  <i>1999/11/08 19:35:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=942057310aynaer&id2=940516505vyslcw&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_942057310aynaer_id2_940516505vyslcw_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�l�l�I�ɂ͓����V�`���G�[�V�������Ƃ�����Q���J�ɂȂ肻��<BR><BR>�����{�l�̏ꍇ�́A��������܂蕨��ɂȂ�܂���B<BR><BR>�����̊����̕`�ʂ��T���߂��ȁA�Ǝv���܂����B<BR><BR>�����܂Ő_�o�����񂩂����A���Ă̂��{���B<BR>�܂�㏑���Ŋ뜜�������͎��͂����������܂������Ă��āA�Ӑ}���Ȃ��Ƃ���Ńc�b�R�~�������Ă��܂��B<BR>�����I�v�f�����܂�ɑ傫�����āA�̐S�ȂƂ���Ŏ��s���Ă�Ȃ��B�܁A������B����͂���ŁA��̃W��������z������������A�܂��Ȃ񂩂ł���΂��Ă݂悤�B<BR>
+&gt;僕個人的には同じシチュエーションだとすぐ大ゲンカになりそう<BR><BR>矢治くん本人の場合は、多分あんまり物語になりません。<BR><BR>＞操の葛藤の描写が控えめかな、と思いました。<BR><BR>そこまで神経が回らんかった、ってのが本音。<BR>つまり後書きで危惧した問題は実はけっこううまくいっていて、意図しないところでツッコミが入っています。<BR>実験的要素があまりに大きすぎて、肝心なところで失敗してるなあ。ま、いいや。これはこれで、一つのジャンルを築けそうだから、またなんかでがんばってみよう。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�߉ؓc�L�����p��</a></strong>  <i>1999/12/01 09:37:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">那華田キュロパン</a></strong>  <i>1999/12/01 09:37:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944008652dutgwp&id2=940516505vyslcw&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944008652dutgwp_id2_940516505vyslcw_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ђ����Ԃ�ł��O�O<BR>�v�X�����ɗ��Ă݂��炾���ԃV�X�e���Ƃ��ς���Ă��ċ����܂����B<BR>��肳��A�V���n���J���܂����ˁB<BR>�R���`�F���g�ƈ�����n�[�h�{�C���h�Ȗ��t���������ł���B<BR>
+おひさしぶりです＾＾<BR>久々ここに来てみたらだいぶシステムとか変わっていて驚きました。<BR>矢冶さん、新境地を開きましたね。<BR>コンチェルトと違ったハードボイルドな味付けもいいですよ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">��_��</a></strong>  <i>1999/12/04 09:57:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">矢治浩平</a></strong>  <i>1999/12/04 09:57:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944269058hgmfaar&id2=940516505vyslcw&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944269058hgmfaar_id2_940516505vyslcw_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����肳��A�V���n���J���܂����ˁB<BR><BR>�������A�����������B<BR>�������̂��{���̖l�ɋ߂��񂾂��ǂȂ��c<BR>�����ł́u�R���`�F���g�v�̈�ۂ��ǂ�����������݂����B
+＞矢冶さん、新境地を開きましたね。<BR><BR>そうか、こう来たか。<BR>こっちのが本来の僕に近いんだけどなあ…<BR>ここでは「コンチェルト」の印象がどうも強すぎるみたい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:jh8cav@seagreenn.ocn.ne.jp" target="_blank">T,Wil</a></strong>  <i>1999/12/04 21:12:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944309535moijfp&id2=940516505vyslcw&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944309535moijfp_id2_940516505vyslcw_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̃o�b�N�O���E���h�̎Љ������Ɍ����I�ŁA�ƂĂ����낵��
+このバックグラウンドの社会情勢が妙に現実的で、とても恐ろしい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">���Ȃ���</a></strong>  <i>1999/12/18 23:35:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">すなさん</a></strong>  <i>1999/12/18 23:35:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=945527704urmpqjo&id2=940516505vyslcw&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_945527704urmpqjo_id2_940516505vyslcw_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̏����̈�ہE�E�E�����ɂ��Ƃ����<BR>f(x)=exp(x) �Ƃ� g(x)=��(x) �Ƃ�����ۂ��󂯂܂����B<BR>���₠�A����؂�Ȃ������Ă��̐��̒��͑����ł�����B<BR><BR>����ɂ��Ă��A�������������ԂɂȂ邩������Ȃ��Ƃ���܂ō����|�����Ă���i���ّ����ɂ��̔F���͂Ȃ��j�̂ŏ\���ȐS�\�����K�v�Ǝv���܂��B
+この小説の印象・・・数式にたとえると<BR>f(x)=exp(x) とか g(x)=Γ(x) という印象を受けました。<BR>いやあ、割り切れない物ってこの世の中は多いですから。<BR><BR>それにしても、いつこういう事態になるか分からないところまで差し掛かっている（あほ総理にその認識はない）ので十分な心構えが必要と思われます。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="940516505vyslcw">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

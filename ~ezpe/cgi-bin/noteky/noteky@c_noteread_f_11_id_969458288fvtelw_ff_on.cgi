@@ -1,142 +1,142 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=969458288fvtelw&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_969458288fvtelw_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">��ڂ�̎���</font><br>
+<font size="+2" color="#0000FF">りぼんの時代</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2000/09/20 22:58:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2000/09/20 22:58:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969458288fvtelw&id2=969458288fvtelw&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969458288fvtelw_id2_969458288fvtelw_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���̒����V���[�Y�ƂȂ����u��ڂ�́`�v�V���[�Y�ł��B�j���䂪�ɒ[�ɒj���ɕ΂����ߖ����̓��{�ŁA���N�����́u�����v������̂��c�c!?�@�]�k�Ȃ���A��ڂ�REBORN�Ƃ������t�V�сA�I���ł��B
+【推薦文】 息の長いシリーズとなった「りぼんの～」シリーズです。男女比が極端に男性に偏った近未来の日本で、少年たちは「自分」を守れるのか……!?　余談ながら、りぼん＝REBORNという言葉遊び、巧いです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^��@�I</strong>  <i>2000/09/20 23:33:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真城　悠</strong>  <i>2000/09/20 23:33:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969460394bfjondo&id2=969458288fvtelw&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969460394bfjondo_id2_969458288fvtelw_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ށ[��A�f���炵���B�̐��ɂ���ċ��v�����Ƃ����V�`���G�[�V�������G���܂��Ȃ��i^^�G<BR>�@�����܂��񂯂ǃI�`����D���B�y���܂��Ă��������܂����B
+　むーん、素晴らしい。体制によって強要されるというシチュエーションが萌えますなあ（^^；<BR>　書きませんけどオチも大好き。楽しませていただきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/09/21 02:24:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">猫野　丸太丸</a></strong>  <i>2000/09/21 02:24:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969470692hgmfaar&id2=969458288fvtelw&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969470692hgmfaar_id2_969458288fvtelw_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ȁA�Ȃ����`�A�Ƃ܂��v���āA���̂Ƃ����������������ǂ���Ƀp���[�A�b�v�������e�ɂ��炭��A�Q��܂����B�Ȃ񂾂��ǎ҂ɂ܂ő��u�̓d�g�����ł��܂���c�c�B
+な、なつかし～、とまず思って、あのときもすごかったけどさらにパワーアップした内容にくらくら、参りました。なんだか読者にまで装置の電波が飛んできますよ……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�}�C�A</strong>  <i>2000/09/21 23:04:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>マイア</strong>  <i>2000/09/21 23:04:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969545094pvnfjbg&id2=969458288fvtelw&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969545094pvnfjbg_id2_969458288fvtelw_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�P�X�W�S�N�v��u���v�d�|���̃I�����W�v��f�i�Ƃ��܂��ˁB<BR>���������̂��čD�݂ł��B
+「１９８４年」や「時計仕掛けのオレンジ」を彷彿としますね。<BR>こういうのって好みです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����n</strong>  <i>2000/09/21 23:45:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>逃げ馬</strong>  <i>2000/09/21 23:45:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969547517fuseocw&id2=969458288fvtelw&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969547517fuseocw_id2_969458288fvtelw_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�u��ڂ�̖����v���ǂ������ł����ǁA����̍�i���Ȃ��Ȃ��E�E�E�X�g�[���[�������T�X�y���X�E�^�b�`�ŗǂ������ł��B�Ō�̌������ǂ������ł��B�[���y���߂܂����B�������y���݂ɂ��Ă��܂��B
+　「りぼんの明日」も良かったですけど、今回の作品もなかなか・・・ストーリーも少しサスペンス・タッチで良かったです。最後の結末も良かったです。充分楽しめました。次回作を楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ڂj�d�a�n</strong>  <i>2000/09/22 21:26:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ぼＫＥＢＯ</strong>  <i>2000/09/22 21:26:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969625593cfcpjk&id2=969458288fvtelw&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969625593cfcpjk_id2_969458288fvtelw_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂ���<BR>���̂��т͂ǂ����E�E�E�E<BR>�F������ӊO�Ɓu����n�v���D���Ȃ݂����ł��ˁB������D���ł��B<BR>���ƁA��Ҏ��g���v���Ă������u��ڂ�v�̐��E���F�m�H����Ă����̂łт����肵�܂����B<BR>����͒P���̂��肾�������ǁu��ڂ�v�V���[�Y�����悤���ȁE�E�E<BR>�ł�<BR>
+こんにちは<BR>このたびはどうも・・・・<BR>皆さんも意外と「やられ系」お好きなみたいですね。私も大好きです。<BR>あと、作者自身が思っていたより「りぼん」の世界が認知？されていたのでびっくりしました。<BR>今回は単発のつもりだったけど「りぼん」シリーズ化しようかな・・・<BR>では<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/09/23 02:19:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/09/23 02:19:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969643173rbagr&id2=969458288fvtelw&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969643173rbagr_id2_969458288fvtelw_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̘b�A�����́u�m�M�Ɓv�Ƒ����́u����]�Ɓv�Ő��藧���Ă���c�B<BR>���������΂炵���B<BR>�����łȂ�������B
+この話、少数の「確信犯」と多数の「事後従犯」で成り立っている…。<BR>落ちがすばらしい。<BR>こうでなくっちゃ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">����</a></strong>  <i>2000/09/28 13:54:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">里花</a></strong>  <i>2000/09/28 13:54:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=970116864hhwcuo&id2=969458288fvtelw&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_970116864hhwcuo_id2_969458288fvtelw_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�j�d�a�n����A���v���Ԃ�ł���<BR>�ǂ݂܂�����`��<BR>�Ȃ񂩁A�����]�s�u�}�[�W�i���v�ɋ߂����z������܂��ˁB<BR>�u���̖��v�͌�����̂ł��傤���H<BR>�y���܂��Ă��������܂����B<BR><BR>�ł��A������ƋC�ɂȂ邱�ƁF<BR>�l���䂪����Ȃɋɒ[�A�Ƃ������Ƃ́A���̎q�����͂��������u����ق₳��āv�����Ă������ł��傤�ˁ[�B<BR>�j�̎q�����ɂ��Ă݂�΁A����łȂ��Ă��u�ߓ������v�ɋ��X�Ƃ��A�󏭉��l�ő�؂ɂ���鏗�̎q���������āA���������ƒN�����u�A�܂����v�Ǝv���悤�ɂȂ��Ă��܂��̂ł́H<BR>����ł��u�]���v����������ɂ́A�ނ��뉽������I�ȗ��R���K�v�Ȃ̂ł́A�Ǝ��͎v���Ă��܂����̂ł��B<BR><BR>���B<BR>����A��������B<BR>���������Ƃ����āA���[�����ł��b�����ق��������́H<BR><BR>�ł�(^^;
+ＫＥＢＯさん、お久しぶりです♪<BR>読みましたよ～♪<BR>なんか、萩尾望都「マージナル」に近い発想もありますね。<BR>「命の夢」は見られるのでしょうか？<BR>楽しませていただきました。<BR><BR>でも、ちょっと気になること：<BR>人口比があんなに極端、ということは、女の子たちはさぞかし「ちやほやされて」生きていけるんでしょうねー。<BR>男の子たちにしてみれば、それでなくても「過当競争」に汲々とし、希少価値で大切にされる女の子たちを見て、下手をすると誰もが「羨ましい」と思うようになってしまうのでは？<BR>それでも「転換」を忌避するには、むしろ何か決定的な理由が必要なのでは、と私は思ってしまったのです。<BR><BR>う。<BR>これ、長すぎる。<BR>こういうときって、メール↑でお話したほうがいいの？<BR><BR>では(^^;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���܂ʂj�d�a�n</strong>  <i>2000/09/28 22:02:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>おまぬＫＥＢＯ</strong>  <i>2000/09/28 22:02:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=970146134mwclpih&id2=969458288fvtelw&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_970146134mwclpih_id2_969458288fvtelw_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ԃ��񂱂�ɂ��́B<BR><BR>���u�]���v����������ɂ́A�ނ��뉽������I�ȗ��R���K�v�Ȃ̂ł́A�Ǝ��͎v���Ă��܂����̂ł��B<BR><BR>�������ɒ��ɂ́A�A�܂������������ł��傤�ˁB<BR>���������̎���̏ꍇ�A�u���̎q�v�͂Ƃ����������͂��Ȃ�s�����Ă��܂��B�i����Ӗ��ł͏o�Y�z��ł�����j<BR>�����Ď�҂����Ƃ����̂́A����Ӗ��ƂĂ��q���ŁA���{���������̑f���炵��������ΐ����قǁA���ꂪ�u�������ς��v�ł��邱�Ƃ���������Ă���̂��Ǝv���܂��B<BR>�Ȃɂ��A�����ɐ��т̈����l���珗����������ł�����B<BR>�ނ�ɂ����āA���͂���ł��傤���i�����Ƃ��A����ɂȂ������j�B<BR>�������̎���ɐ����Ă�����A���Ԃ񏗐�������邱�Ƃ����A�����������Ƃ����̂��������s�k�҂ɂȂ����Ƃ������b�e���ł���Ƃ��������ƁA<BR>�����̃A�C�f���e�B�e�B���u�����I�Ɂv���{���畢��������Ƃ������Ƃ����|�ł��傤�ˁB<BR>�����܂Ŕ[���ł���Ȃ珗�����u�肷��������邩������܂���B���[���A��e�ȊO�̏������̂��̂��A�命���̒j�̎q�ɂ͖��m�̐��E�Ȃ�ł��B�����ɖ�������荞�܂��Ƃ�����E�E�E�E<BR>�����Ƃ��A���̕ӂ̂��Ƃ͂��Ԃ�����Əڂ����������܂Ȃ���΂Ȃ�Ȃ������̂ł��傤�i�͂񂹁[�I�j�B<BR>����͏����Ⴄ�H���ł��́u���܂�Ȃ���̏����v���o���Ă݂����Ǝv���܂��B�i���̂��Ƃ��E�E�E�E�܂����s�j<BR><BR>�͂��߂̍����炢�낢�돑���Ă��������Ă闢�Ԃ���ɂ܂������Ē����Ă��ꂵ�������B<BR>�܂����b�����܂��傤�ˁi�Ƃ����Ȃ��玩���ł͊��z�����ĂȂ��E�E�E�ǂ�ł͂����ł����j<BR><BR>�m���ɒ����Ȃ����܂��܂����B����ς胁�[���̕����ǂ������̂��ȁB<BR>�ł�������������������A���e�����Ⴆ�I<BR>���܂ʂj�d�a�n���Ƃ��͂��j�d�a�n�ł���<BR>
+里花さんこんにちは。<BR><BR>＞「転換」を忌避するには、むしろ何か決定的な理由が必要なのでは、と私は思ってしまったのです。<BR><BR>たしかに中には、羨ましがる方もいるでしょうね。<BR>しかしこの時代の場合、「女の子」はともかく女性はかなり虐げられています。（ある意味では出産奴隷ですから）<BR>そして若者たちというのは、ある意味とても敏感で、政府が女性化の素晴らしさを説けば説くほど、それが「うそっぱち」であることを感じ取っているのだと思います。<BR>なにせ、現実に成績の悪い人から女性化されるんですから。<BR>彼らにだって、夢はあるでしょうし（もっとも、見る暇ないかも）。<BR>私がこの時代に生きていたら、たぶん女性化されることよりも、強制女性化というのが自分が敗北者になったというレッテルであるという事実と、<BR>自分のアイデンティティを「強制的に」根本から覆させられるということが恐怖でしょうね。<BR>そこまで納得できるなら女性化志願する方もいるかもしれません。っつーか、母親以外の女性そのものが、大多数の男の子には未知の世界なんです。そこに無理矢理放り込まれるとしたら・・・・<BR>もっとも、その辺のことはたぶんもっと詳しく書き込まなければならなかったのでしょう（はんせー！）。<BR>次回は少し違う路線でその「生まれながらの女性」を出してみたいと思います。（いつのことか・・・・まだ数行）<BR><BR>はじめの頃からいろいろ書いていただいてる里花さんにまた書いて頂けてうれしいっす。<BR>またお話ししましょうね（といいながら自分では感想書いてない・・・読んではいるんですが）<BR><BR>確かに長くなっちまいました。やっぱりメールの方が良かったのかな。<BR>でもせっかく書いたから、投稿しちゃえ！<BR>おまぬＫＥＢＯもといはじＫＥＢＯでした<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�j�d�a�n</strong>  <i>2000/09/29 09:39:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＫＥＢＯ</strong>  <i>2000/09/29 09:39:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=970187963odsflq&id2=969458288fvtelw&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_970187963odsflq_id2_969458288fvtelw_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ݂ɏ������т�܂������A����̂��b�́A�ǂ��炩�ƌ����Ώ����������A<BR>�u�����̎��肪�ʐl�����ď�����v���ɏd�_��u�����E�E�E����I�i�����܂ł��A����j�ł��̂ł����ق��B
+ちなみに書きそびれましたが、今回のお話は、どちらかと言えば女性化よりも、<BR>「自分の周りが別人化して消える」事に重点を置いた・・・つもり！（あくまでも、つもり）ですのでご勘弁を。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="969458288fvtelw">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

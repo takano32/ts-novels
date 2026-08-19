@@ -1,23 +1,23 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=957772683jahosx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_957772683jahosx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�ዾ�l�R�����I�i�Ɋւ���f�p�ȋ^��</font><br>
+<font size="+2" color="#0000FF">眼鏡ネコ娘レオナに関する素朴な疑問</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/reona/reonass.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/05/08 16:58:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/reona/reonass.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/05/08 16:58:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957772683jahosx&id2=957772683jahosx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957772683jahosx_id2_957772683jahosx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING!
@@ -25,97 +25,97 @@ NOW PRINTING!
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>2000/05/08 17:32:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>2000/05/08 17:32:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957774772tlulbg&id2=957772683jahosx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957774772tlulbg_id2_957772683jahosx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �X�g�[���[���ǂ�Ŗʔ������A�G�փC���X�g�����ڂƂ����A�Ȃ�Ƃ������ȍ�i�B�����������܂Ł[����@��Ζʔ���MONDO�u�����h�́A���͂␄�E���v�炸�ł��ˁB
+【推薦文】 ストーリーも読んで面白けりゃ、萌へイラストも満載という、なんとも豪勢な作品。ごちそうさまでーす♪　絶対面白いMONDOブランドは、もはや推薦文要らずですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">�L��ۑ���</a></strong>  <i>2000/05/08 19:05:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">猫野丸太丸</a></strong>  <i>2000/05/08 19:05:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957780302iuxrpe&id2=957772683jahosx&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957780302iuxrpe_id2_957772683jahosx_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-MONDO����A�ō��ł��A�܂��o�Ă��܂��܂��B<BR>�܂���������Ɂu���[���A���K�l�B�Ȃ�ŋC�Â��Ȃ������񂾁H�v�Ƒ�΂������Ē����Ă���A�������͋C�̓W�J�A�����āA<BR>�c�c�I�`�͂��񂺂��ǂ݂ł��܂���ł����B<BR>�ō��ɂ��킢���Ă����ڂȃ��I�i�����Ɓ���������i�l�^�΂�\�h�j���ꂩ�������΂��Ă��������B
+MONDOさん、最高です、涙が出てしまいます。<BR>まずさいしょに「そーだ、メガネ。なんで気づかなかったんだ？」と大笑いさせて頂いてから、いい雰囲気の展開、そして、<BR>……オチはぜんぜん先読みできませんでした。<BR>最高にかわいくてお茶目なレオナちゃんと○○○さん（ネタばれ予防）これからもがんばってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2000/05/09 01:05:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957801946isigc&id2=957772683jahosx&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957801946isigc_id2_957772683jahosx_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��E�E�E��E�E�E��E�E�E<BR>���X�g�̗�ނ̃C���X�g�������������������I<BR>���ɂ��ꂥ���������������������������I<BR>�i�R�s�[���Ď����Ă���i--;�j�����j
+ら・・・ら・・・ら・・・<BR>ラストの麗奈のイラストぉぉぉぉぉぉぉぉっ！<BR>俺にくれぇぇぇぇぇぇぇぇぇぇぇぇぇっ！<BR>（コピーして持ってけよ（--;）＞俺）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2000/05/09 04:52:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2000/05/09 04:52:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957815568mgctrog&id2=957772683jahosx&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957815568mgctrog_id2_957772683jahosx_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������������x���x���O�b�h�ł����I<BR>����ρA�ϐg������]�Z���Ƃ��ăN���X�݂̂�ȂɎ��ȏЉ�����B<BR>�G���f�B���O�̔ށA�K���Ȃ񂾂��s�K�Ȃ񂾂�(��)<BR>����ɂ��Ă��AMONDO����̘b�ɏo�Ă���������Ƃ��t�����ĂȂ����݂�ȃG�L�Z���g���b�N(��)�B<BR>
+うをぉぉぉぉっベリベリグッドですぅ！<BR>やっぱ、変身したら転校生としてクラスのみんなに自己紹介っす。<BR>エンディングの彼、幸せなんだか不幸なんだか(笑)<BR>それにしても、MONDOさんの話に出てくる金持ちとか師匠ってなぜかみんなエキセントリック(爆)。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^��@�I</strong>  <i>2000/05/10 02:05:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真城　悠</strong>  <i>2000/05/10 02:05:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957891923ecksle&id2=957772683jahosx&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957891923ecksle_id2_957772683jahosx_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�n�b�L�������đf���炵�����B<BR>�@�C���X�g�������ł����I�ō��I<BR>�@�����`�I�����A���t�ł͌����\���܂��񂯂ǁA���������ƂȂ�悤�Ȃ��̃V�`���G�[�V�����A����ɒǂ�������������C���X�g�I���Ƀs���N�n�E�X�́E�E�E�l�����ɂ܂��B�G�������āB<BR>�@���͎��̏����l�ȂЂ˂��ꂽ���b�ł͂Ȃ��āA���͐����h�߂���قǐ����h�ȋؗ��Ă��|�C���g�Ȃ̂ł́B<BR>�@�G�������Ă��������܂����i^^
+　ハッキリ言って素晴らしすぎ。<BR>　イラストが可愛いですぅ！最高！<BR>　ああ～！もお、言葉では言い表せませんけど、胸がきゅんとなるようなあのシチュエーション、それに追い討ちをかけるイラスト！特にピンクハウスは・・・人が死にます。萌えすぎて。<BR>　実は私の書く様なひねくれたお話ではなくて、実は正統派過ぎるほど正統派な筋立てがポイントなのでは。<BR>　萌えさせていただきました（^^
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/05/10 14:57:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/05/10 14:57:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957938260ciuehn&id2=957772683jahosx&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957938260ciuehn_id2_957772683jahosx_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ɂ��Ă��AMONDO����̘b�ɏo�Ă���������Ƃ��t�����ĂȂ����݂�ȃG�L�Z���g���b�N(��)�B<BR>�ł����Ď�l�������񂾂���Ă������܂ňꏏ�B�i�j���j<BR>�ł��A�݂�ȁu�悢���v�Ȃ�ł���˂��B<BR><BR>���āA���ł��B����l�����̔閧��m�����Ƃ��A�ǂ��Ȃ�ł��傤�H<BR>
+＞それにしても、MONDOさんの話に出てくる金持ちとか師匠ってなぜかみんなエキセントリック(爆)。<BR>でもって主人公がだんだん壊れていく処まで一緒。（核爆）<BR>でも、みんな「よいこ」なんですよねえ。<BR><BR>さて、問題です。お嬢様がこの秘密を知ったとき、どうなるでしょう？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�_�藺</strong>  <i>2000/05/13 01:10:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>神崎亮</strong>  <i>2000/05/13 01:10:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=958147821imfnigo&id2=957772683jahosx&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_958147821imfnigo_id2_957772683jahosx_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����[���A�������̂��X�́u���r�A�����[�Y�v�Ȃ̂�(��)<BR>�@�����ǂ����Ń����N���Ă�MONDO���[���h�ɂ́A�y�����i���j�́j���̎q�������ς����I
+　そぉーか、さおりんのお店は「ラビアンローズ」なのか(笑)<BR>　いつもどこかでリンクしてるMONDOワールドには、楽しい（元男の）女の子がいっぱいだ！
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="957772683jahosx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

@@ -1,81 +1,81 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>成年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=4&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_4_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=4&id=944828565qlghl&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=4&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_4_id_944828565qlghl_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_4_ff_on.cgi">成年コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����`�i�����`�@���^�j</font><br>
+<font size="+2" color="#0000FF">聖竜伝（聖竜伝　収録）</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/12/10 21:22:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/12/10 21:22:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=944828565qlghl&id2=944828565qlghl&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_944828565qlghl_id2_944828565qlghl_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����`�i�����`�@���^�j<BR>�i���[�@�@��`�o�@��<BR>�H��ƂȂ��������A�l�Ԃ̓��̂ɜ߈˂�����<BR>���̉��������ہA���̐��ʂƐl�Ԃ̐��ʂ�����ւ����<BR>���܂����Ƃ����A�Ȃ��Ȃ������[����@��p������i�B<BR>�Ȃ������ɃG�b�`�Ɏ������ޕ`�ʂ�A<BR>�u���̃R�ɂȂ����񂾂��炠���Ђ�����Ȃ��āA�������ČĂځ[���B�v<BR>�Ƃ����Z���t�́A���Ȃ�̊����x���ւ邪�A<BR>�l�I�ɂ́A���j�R�[���ߔ���펞�ɁA<BR>�l�ԃt�H�[���̃��j�R�[���̃A�\�R���݂�<BR>�u����ɂ܂��ɔn���݂���Ȃ����v�Ƃ����S�̋��т�<BR>���j�R�[���Ɋ�����߂��Ĉӎ������߂������<BR>�u���̃��j�R�[���E�E�E�t�t�t�b�v�̑䎌���A<BR>�S���h������B<BR>�i�l�I�ɂ́A���U���ƃ��V�����A�Q�l�������<BR>�������A�M�ԗl�����Ă݂����B�j<BR>����ӂ�ȋL����k��ƁA�ǂ������Ŗ{�ŁA���̍�i�ɂԂ���������<BR>�悤�Ȃ̂����A���ꂾ���ɁA���炭���r���[�Ƃ���ŁA<BR>�I����Ă��܂������Ƃ��A�ɂ��܂�ĂȂ�Ȃ��B<BR>�Ȃ�ƂȂ��A���̌�̑������A�����Ƃ��ď����Ă݂����C���A<BR>�ŋ߂ɂȂ��āA���낼�둛���n�߂��̂����A<BR>�N���A���͎҂͂��Ȃ����񂾂낤���H<BR>�i�ŋ߁A�����A�Q����������A�ĒÂ���Ƃ������A<BR>���C�o���ӎ����h�����Ă����������É����Ă���<BR>�₵������ł���B�j<BR>
+聖竜伝（聖竜伝　収録）<BR>司書房　　基義経　作<BR>幽霊となった竜を、人間の肉体に憑依させて<BR>実体化させた際、竜の性別と人間の性別が入れ替わって<BR>しまったという、なかなか興味深い手法を用いた作品。<BR>なし崩しにエッチに持ち込む描写や、<BR>「女のコになったんだからあきひこじゃなくて、あきって呼ぼーか。」<BR>というセリフは、かなりの完成度を誇るが、<BR>個人的には、ユニコーン捕縛作戦時に、<BR>人間フォームのユニコーンのアソコをみて<BR>「それにまさに馬○みじゃないか」という心の叫びや<BR>ユニコーンに顔を嘗められて意識を取り戻した後の<BR>「私のユニコーン・・・フフフッ」の台詞が、<BR>心を刺激する。<BR>（個人的には、レザムとヤシャが、２人がかりで<BR>あきを、弄ぶ様も見てみたい。）<BR>あやふやな記憶を遡ると、どうも初版本で、この作品にぶち当たった<BR>ようなのだが、それだけに、えらく中途半端ところで、<BR>終わってしまったことが、惜しまれてならない。<BR>なんとなく、この後の続きを、小説として書いてみたい気が、<BR>最近になって、ぞろぞろ騒ぎ始めたのだが、<BR>誰か、協力者はいないもんだろうか？<BR>（最近、矢治さん、２ｂｉｔさん、米津さんといった、<BR>ライバル意識を刺激してくれる方が沈静化していて<BR>寂しい限りである。）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.ksky.ne.jp/~gori/" target="_blank">Gori</a></strong>  <i>1999/12/11 01:12:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=944842370vlpkwc&id2=944828565qlghl&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_944842370vlpkwc_id2_944828565qlghl_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ق��ɂ�����������i�͐�����ǁA�����`�����҂��~������i�ł��ˁB<BR>���^���ꂽ�b�̒��ɂ��A�q�L�ɂȂ肻���ȃV�[���������������āA<BR>����������ł��B<BR><BR>�E�E�E����Ƃ��G�����^�ȑ��҂��������肷��̂��낤���H<BR>
+ほかにもそういう作品は数あれど、聖竜伝も続編が欲しい作品ですね。<BR>収録された話の中にも、ヒキになりそうなシーンがいくつかあって、<BR>悔しい限りです。<BR><BR>・・・それとも雑誌収録な続編があったりするのだろうか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�Ē�</a></strong>  <i>1999/12/11 02:59:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">米津</a></strong>  <i>1999/12/11 02:59:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=944848779ctshlf&id2=944828565qlghl&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_944848779ctshlf_id2_944828565qlghl_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����`�͓������������C���p�N�g����܂����ˁB<BR>�u�s�r���q�͕��ʂ̏��̎q�ɂ�������ɂ����v�̒藝�ɒ����ɏ]���Ă�̂��悢�ł��B<BR><BR>&gt;���C�o���ӎ����h�����Ă����������É�<BR><BR>�\�ʂł͒��É����Ă��Ă��A���̗��ł́c�c�B�����A�Ⴆ��Ȃ甒���B<BR>�����͗D��Ɍ����Ă������ł͌��������������ĉj���ł���B<BR>�Ȃ��Ȃ�A�ނ�͉j���̂���߂�ƓM��Ă��܂�����B<BR>�Ƃ����킯�ŕĒÂ͊��ɓM��Ă��܂��܂����B<BR>�i�E�\�ł��B�j���̂���߂�ƓM�ꂿ�Ⴄ�̂̓T���ł��j<BR>����Ȃ��ĕĒÂ͌��݂��N�[���_�E���A���x�~���ł��B<BR>�F�X�Z�����Ă�����Ƃ������ĂȂ�������ł����A��x�~�߂��Ⴄ��<BR>�������M������̂Ɍ��\�ȃG�l���M�[�������ł���˂��B<BR>�N������ȃC���p�N�g�̂���s�r�R���f�B�������ĕĒÂɃG�l���M�[���������Ⴂ�B<BR><BR>&gt;�N���A���͎�<BR>�ʔ����b�ł͂����ł����A�ĒÂ͂���܂ȂŎ��t�Ȃ̂ł��`�B
+聖竜伝は当時けっこうインパクトありましたね。<BR>「ＴＳっ子は普通の女の子におもちゃにされる」の定理に忠実に従ってるのがよいです。<BR><BR>&gt;ライバル意識を刺激してくれる方が沈静化<BR><BR>表面では沈静化していても、その裏では……。そう、例えるなら白鳥。<BR>白鳥は優雅に見えても水中では激しく水をかいて泳いでいる。<BR>なぜなら、彼らは泳ぐのをやめると溺れてしまうから。<BR>というわけで米津は既に溺れてしまいました。<BR>（ウソです。泳ぐのをやめると溺れちゃうのはサメです）<BR>じゃなくて米津は現在ややクールダウン、小休止中です。<BR>色々忙しくてここんとこ書いてなかったんですが、一度止めちゃうと<BR>もう一回筆を執るのに結構なエネルギーがいるんですよねえ。<BR>誰か強烈なインパクトのあるＴＳコメディを書いて米津にエネルギーをくだしゃい。<BR><BR>&gt;誰か、協力者<BR>面白い話ではあるんですが、米津はいんまなで手一杯なのです～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�܂�</a></strong>  <i>1999/12/16 04:01:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">まつ</a></strong>  <i>1999/12/16 04:01:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=945284469amuoef&id2=944828565qlghl&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_945284469amuoef_id2_944828565qlghl_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�s�{�����^�Șb�͖��������Ǝv���܂��@��Gori����<BR>�l�I�ɂ͍D���Șb�ł��B���̕����������Ⴂ�܂�����TT
+単行本未収録な話は無かったと思います　＞Goriさん<BR>個人的には好きな話です。この方も消えちゃいましたねTT
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="4">
 <input type="hidden" name="id" value="944828565qlghl">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=4&ff=on">���N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_4_ff_on.cgi">成年コミック</a>]<br>
 
 </p>
 </body>

@@ -1,321 +1,321 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=997546225bjivel&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_997546225bjivel_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�Ƃ��߂��H�@����I�H</font><br>
+<font size="+2" color="#0000FF">ときめき？　今夜！？</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200108/12010732/tokimeki.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/08/12 01:10:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200108/12010732/tokimeki.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/08/12 01:10:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997546225bjivel&id2=997546225bjivel&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997546225bjivel_id2_997546225bjivel_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�ǂ����ŕ������^�C�g���A�ǂ����ŕ��������O�A�ǂ����ŕ������Ƒ��B�ł��A�ݒ�ЂƖ����ӂ������Ⴂ�܂��B�����A����΂�̂��􂢂̃p���[��(��)�B
+【推薦文】　どっかで聞いたタイトル、どっかで聞いた名前、どっかで聞いた家族。でも、設定ひと味もふた味も違います。さあ、がんばるのだ呪いのパワーよ(爆)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/12 07:54:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/12 07:54:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997570496etciq&id2=997546225bjivel&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997570496etciq_id2_997546225bjivel_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������ɍڂ������i�΁j<BR>�ŋ߁A��Q�f����������Ɩʔ����ł��B�ǂ������猩�ɍs���Ă����Ă��������B<BR>
+こっちが先に載ったか（笑）<BR>最近、第２掲示板がちょっと面白いです。良かったら見に行ってあげてください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:novelist_john@hotmail.com" target="_blank">John/��H��</a></strong>  <i>2001/08/12 08:29:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:novelist_john@hotmail.com" target="_blank">John/夜羽根</a></strong>  <i>2001/08/12 08:29:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997572558nravbp&id2=997546225bjivel&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997572558nravbp_id2_997546225bjivel_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�N�g�D���t�̎א_�������c�B(��)<BR>�����A�����ĂƂ��Ă��C�C��ł����ǂˁ�<BR><BR>���̉��͒u���Ă��A�T�����I�g�R�B<BR>�R�R�܂ŗV�эb��̂���L�������āA�����������܂���ˁB(^^;<BR>�c�������������ł��˂�����<BR><BR>�Ƃ���Ŏ�l���A�C�̂������������Ώۂ̏������ŏ������Ă܂���H(��)<BR>�����̈ӎu�Łc���Ă͖̂�����ł��傤���B<BR>�܂��A��������Ƃ��ꂳ��̎q���ȃ��P�ł����A�������ȁB(^^;<BR><BR>���ꂩ��v���b�g�ɂ��Ăł����ǁc�B<BR>���A����ȃ��m���Ă��������ł��B(��)<BR>�����񂾍\�z�̂܂܂ɂǂ�ǂ񏑂��Ă����ƁA�C���t���Ώo���オ���Ă���Ƃ�`�c�B<BR>�������A�_����������I(�ꊾ)<BR><BR>�c�Ăȃg�R�ŁA���ꂩ����撣���ĉ������ˁB(^^;<BR>�ł͂ł́`��
+クトゥルフの邪神たちが…。(哀)<BR>いえ、可愛くてとってもイイんですけどね♪<BR><BR>他の何は置いても、狼少女オトコ。<BR>ココまで遊び甲斐のあるキャラって、そうそう居ませんね。(^^;<BR>…しっかし可愛いですねぇ♪♪♪<BR><BR>ところで主人公、気のせいか何時も対象の女性化で助かってません？(笑)<BR>自分の意志で…ってのは無いんでしょうか。<BR>まぁ、お父さんとお母さんの子供なワケですし、ムリかな。(^^;<BR><BR>それからプロットについてですけど…。<BR>私、そんなモノ立てた事無いです。(爆)<BR>浮かんだ構想のままにどんどん書いていくと、気が付けば出来上がっているとゆ～…。<BR>ああっ、ダメすぎるっ！(滝汗)<BR><BR>…てなトコで、これからも頑張って下さいね。(^^;<BR>ではでは～♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/08/12 09:05:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/08/12 09:05:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997574720mmdayq&id2=997546225bjivel&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997574720mmdayq_id2_997546225bjivel_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂���<BR>�ǂ����ł݂��悤�Ȃ̂������ς��[�[�i�΁j<BR>�������͋C�ł��ˁB<BR>�悭�܂Ƃ܂��Ă��܂��ˁB�E�X<BR>�����ɂ����҂ł��A
+読みました<BR>どっかでみたようなのがいっぱいーー（笑）<BR>いい雰囲気ですね。<BR>よくまとまっていますね。脱帽<BR>次回作にも期待です、
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/12 09:14:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/12 09:14:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997575271evqeeo&id2=997546225bjivel&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997575271evqeeo_id2_997546225bjivel_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����E�N�Ƃ̖����̖�̐H��̓V���[���ł��B<BR><BR>�@�����̖閅�����͂��̂�������ԁB�����A�Ƒ��S���������Ɠ������炢�̔N�������ɂȂ�̂������ԏ����������ɂƂ��Ă͐e�ߊ����킭�̂��낤�B<BR>�@��������ƃ{�N�̓Y�{����p���c�h�A���͒P�Ɏ��ƐK�����o�邾���Ȃ̂ł��܂�ς��Ȃ��B�����ڂ̃p���c�ƃX�J�[�g���͂��Ă����Ή��̖����Ȃ��B<BR>�@�ꂳ��́A�K����������ƌ������p���c������B���̓{�N����������Ȃ񂾂��ǂˁB<BR>�������Ƃ����Ă��ӂ��ӂ��n�̐K���̏ꍇ�́A�������߂�̑�ς�����Y�{���݂����ɍ��̕��������}�W�b�N�e�[�v��{�^���Ŗ{�̂Ɏ~�߂�`�ɂȂ��Ă���B�ʓ|���������ǁA���\�����I�Ȃ񂾁B���Ȃ݂ɕ����񂾂��͖ʔ������āA�~�߂�Ƃ��낪�R�̂�����ƃA�_���g�f�U�C���Ȃ��̂�����Ă���B<BR>�@�Ȃ񂽂��ĕϐg����ƕ����񂪈�ԃO���}�[�ɂȂ�B���͎��i���Ă�݂��������ǁA�ꂳ��͌��ɖ߂�Ə�������܂ł������Ȃ�̂ł��܂�Ȃɂ�����Ȃ��B<BR>�@�䂪�Ƃ̎����m��Ȃ��l���d�b�ɏo��ƁA�݂�Ȗ��Ƃ��đΉ������B<BR>�@�����̖�̍P��Ƃ����΁A���ƈꏏ�ɔ����C�ɓ��邱�Ƃ��B���̂Ƃ��͂Ȃ��������Ⴂ���̘b�������낢�낵�Ă����ꐢ�̋�J���ǂ��킩���ĕ׋��ɂȂ�B<BR>�@�e�q�Ƃ������N�̋߂��o���ɂȂ�B�i�܁A������O���j<BR>�@���Ɣ��N�Ɉ�x�Ƒ��Ŗ����̓��ɉ���ɍs���Ă݂�Ȃł����C�ɓ���̂��y�����B���̂Ƃ������͂S�o���ɂȂ�B<BR>�@���A�V���Ɂw�J�[�h�Q�[�������΂Ɂx�Ƃ����L�����ڂ��Ă����B���낻�낽�����񐶂܂ꂽ�V��̃����X�^�[�������A���Ă���̂��ȁB<BR>�@�����ȘA����������������S�z���ȁc�c�B<BR><BR>�Ƃ����������̐��E�ςł��ˁB�w���̃L�����͍��x�I�ȓW�J���ł���ł��鐢�E�Ȃ̂łڂ��ڂ��ƃo�J�l�^���v�����������Ă����܂��B<BR>�����Z�N�͂ǂ��Ȃ邩�ȁH
+リュウ君家の満月の夜の食卓はシュールです。<BR><BR>　満月の夜妹だけはものすごく喜ぶ。そりゃ、家族全員が自分と同じぐらいの年かっこになるのだから一番小さいあいつにとっては親近感がわくのだろう。<BR>　お父さんとボクはズボンやパンツ派、妹は単に耳と尻尾が出るだけなのであまり変わらない。小さ目のパンツとスカートをはいておけば何の問題もない。<BR>　母さんは、尻尾が生えると穴明きパンツを穿く。実はボクも父さんもなんだけどね。<BR>穴明きといってもふさふさ系の尻尾の場合は、押し込めるの大変だからズボンみたいに腰の部分だけマジックテープやボタンで本体に止める形になっている。面倒くさいけど、結構合理的なんだ。ちなみに父さんだけは面白がって、止めるところが紐のちょっとアダルトデザインなものを穿いている。<BR>　なんたって変身すると父さんが一番グラマーになる。妹は嫉妬してるみたいだけど、母さんは元に戻ると勝負するまでも無くなるのであまりなにも言わない。<BR>　我が家の事情を知らない人が電話に出ると、みんな妹として対応される。<BR>　満月の夜の恒例といえば、父と一緒に尾風呂に入ることだ。このときはなぜか父が若い時の話しをいろいろしてくれる一世の苦労が良くわかって勉強になる。<BR>　親子というより年の近い姉妹になる。（ま、当たり前か）<BR>　あと半年に一度家族で満月の日に温泉に行ってみんなでお風呂に入るのも楽しい。このときだけは４姉妹になる。<BR>　あ、新聞に『カードゲームが下火に』という記事が載っていた。そろそろたくさん生まれた新種のモンスターたちも帰ってくるのかな。<BR>　物騒な連中も多かったから心配だな……。<BR><BR>といった感じの世界観ですね。『あのキャラは今』的な展開ができるできる世界なのでぼちぼちとバカネタが思いついたらやっていきます。<BR>ランセ君はどうなるかな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/12 14:06:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/12 14:06:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997592793ydngy&id2=997546225bjivel&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997592793ydngy_id2_997546225bjivel_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ł����������肪�Ƃ��������܂��B<BR><BR>John/��H���@�l<BR>���N�g�D���t�̎א_�������c�B(��)<BR>�@�����A���ꂾ���ł͂���܂���B���͂l�r�����i�y�����Ƃ��l�j�h�h�����Ƃ��j�������ł��i���j�@�Ƃ����Ă��Ⴂ�l�i���E�����j�ɂ��̃l�^�͐h�����ȁB�i�߁j<BR>�@�w���E�x�ƕ\�L���܂������A���ۂɂ́w�z���E�x�Ƃ����s�v�c����ɂȂ�܂��B<BR>�@�l�Ԃ̑z�������o�������̂��A�u�[���������ĐÂ��ɉB�����鐢�E�Ƃ����R���Z�v�g�Ń��[���h�͍���Ă���̂ł����B�X�p���{���Ń��o�C�o������z�������Ƃ��i�΁j<BR>�@�{���ɂȂ�ł�����Ȑ��E���ȁi���j<BR>�@�G���}�L�g�J�Q�͌����̂��̂Ȃ̂ł��܂��񂪁A�l�ʌ��Ƃ����΂ɂȂ����s�s�`�������X�^�[�₨������i�l�`�A�ʂ�����݁j�A����A�A�j���L�������Ђ�����Ɨ]�����炵�Ă��܂��B<BR>�@�l�Ԃ��Ȃ񂾂��̍�i�Ře��G�L�X�g�����΂߂���ŁA���̐��E�ŉ^���ǂ���Ύ���ɔ��F�����B<BR>�@�Ȃ񂩁A��؂݂��搶�̂��C�ɂ���A�w�u���b�L�[�x�̘b���݂����Ȉ��D�Y�����̂n�j�ł���B<BR><BR>���Ƃ���Ŏ�l���A�C�̂������������Ώۂ̏������ŏ������Ă܂���H(��)<BR>�@�j���\�B���ꂪ�_���ł��B�����Z�̃y���_���g�̂������Ŏ�l���͍K���ɁA����ɂ͕s�K���i�΁j�@�܂��l���̍K���́A����̕s�K�Ȃ̂ł��B<BR><BR>�������񂾍\�z�̂܂܂ɂǂ�ǂ񏑂��Ă����ƁA�C���t���Ώo���オ���Ă���Ƃ�`�c�B�@�Ȃ�قǁA���񂻂�Ȋ����ł����B�킩��܂��B<BR>�@�ł��w���ʁx�݂����Ȑl�Ԋ֌W���G�Œ��тɔ��W�ł����i�v���b�g�Ȃ��ŕ|���Ȃ��ł����H<BR>�@�����A�쐶�̊��o�i����͍˔\�ł���j�ő������Ă����ł��傤���ǁB���₷�����B<BR><BR><BR>���G�݂���@�l<BR>���悭�܂Ƃ܂��Ă��܂��ˁB�E�X<BR>�@���G����ɂ���������Ƃق�ƂɏƂ�Ă��܂��܂��B<BR>�@���G����͂��̂����������ŒZ�҂𔭕\����邶��Ȃ��ł����B�Ȃɂ��錍�ł�����̂ł��傤���H<BR>
+読んでいただきありがとうございます。<BR><BR>John/夜羽根　様<BR>＞クトゥルフの邪神たちが…。(哀)<BR>　いえ、それだけではありません。実はＭＳ少女（ＺちゃんとかＭＫＩＩちゃんとか）もいるんです（爆）　といっても若い人（中・高生）にこのネタは辛いかな。（悲）<BR>　『魔界』と表記しましたが、実際には『想い界』という不思議時空になります。<BR>　人間の想いが作り出したものが、ブームがさって静かに隠居する世界というコンセプトでワールドは作っているのですが。スパロボ大戦でリバイバルする奴がいたとか（笑）<BR>　本当になんでもありな世界だな（爆）<BR>　エリマキトカゲは現実のものなのでいませんが、人面犬とか下火になった都市伝説モンスターやおもちゃ（人形、ぬいぐるみ）、漫画、アニメキャラがひっそりと余生を暮らしています。<BR>　人間もなんだかの作品で脇やエキストラを勤めたやつで、この世界で運が良ければ主役に抜擢される。<BR>　なんか、鈴木みそ先生のお気にいり、『ブラッキー』の話しみたいな哀愁漂うものＯＫですよ。<BR><BR>＞ところで主人公、気のせいか何時も対象の女性化で助かってません？(笑)<BR>　ニヤソ。それが狙いです。リンセのペンダントのおかげで主人公は幸せに、周りには不幸を（笑）　つまり主人公の幸せは、周りの不幸なのです。<BR><BR>＞浮かんだ構想のままにどんどん書いていくと、気が付けば出来上がっているとゆ～…。　なるほど、今回そんな感じでした。わかります。<BR>　でも『仮面』みたいな人間関係複雑で中篇に発展できる作品プロットなしで怖くないですか？<BR>　多分、野生の感覚（これは才能ですよ）で捉えられているんでしょうけど。いやすごい。<BR><BR><BR>亜季みちる　様<BR>＞よくまとまっていますね。脱帽<BR>　亜季さんにそう言われるとほんとに照れてしまいます。<BR>　亜季さんはものすごい速さで短編を発表されるじゃないですか。なにか秘訣でもあるのでしょうか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2001/08/12 14:32:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2001/08/12 14:32:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997594331dlncq&id2=997546225bjivel&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997594331dlncq_id2_997546225bjivel_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��͂��͂��́E�E�E<BR>�R���͊y�����I<BR><BR>�����Z�N�͉����܂őς�����̂�!?<BR>�Ƃ��A���C���[����̑f������Ă��[�Ƃ���`�������W���[�Ȑl���o�Ȃ����Ƃ��E�E�E<BR>�����E����̖����͂ǂ������H�i�΁j�E�E�E�Ƃ�<BR>�Ƃɂ����A���ґ���҂ȍ�i�ł��ˁB<BR><BR>�i��^�ٌ`�]�g�͖閲�̃c�{�Ȃ�ł͂��Ⴂ�ł܂��ˁE�E�E�j
+はっはっはっは・・・<BR>コリは楽しい！<BR><BR>リンセ君は何時まで耐えられるのか!?<BR>とか、メイヤーさんの素顔を見てやろーとするチャレンジャーな人が出ないかとか・・・<BR>リュウくんの明日はどっちだ？（笑）・・・とか<BR>とにかく、続編大期待な作品ですね。<BR><BR>（暮／異形転身は夜夢のツボなんではしゃいでますね・・・）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ӂ����</strong>  <i>2001/08/12 15:52:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ふらっと</strong>  <i>2001/08/12 15:52:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997599152eywawao&id2=997546225bjivel&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997599152eywawao_id2_997546225bjivel_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������������I<BR>�����E�N���I�@��������I<BR>�����I�@��ċA�肽�����炢�I<BR>�ǂȂ����A�G�t�̕��X�B�C���X�g��]�ł��B�}�W�ŁB<BR><BR>&gt;�V���[�g�V���[�g<BR>���̏ꍇ�A�I�`�������߂Č�͎v���܂܂ɏ����i�߂܂��B<BR>��ŁA�v��Ȃ������ȃG�s�\�[�h�Ȃ񂩂��J�b�g���A��������킹�Ċ����B<BR>���ʁA�o���オ�������m�̔{���炢�J�͂������Ă���悤�ȁc�c�B
+うををををを！<BR>リュウ君が！　可愛すぎる！<BR>もう！　つれて帰りたいくらい！<BR>どなたか、絵師の方々。イラスト希望です。マジで。<BR><BR>&gt;ショートショート<BR>私の場合、オチだけ決めて後は思うままに書き進めます。<BR>んで、要らなさそうなエピソードなんかをカットし、辻褄を合わせて完成。<BR>結果、出来上がったモノの倍くらい労力をかけているような……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�낳��</strong>  <i>2001/08/12 16:01:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ろさん</strong>  <i>2001/08/12 16:01:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997599684ldfcifc&id2=997546225bjivel&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997599684ldfcifc_id2_997546225bjivel_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����݂�ȃL�����N�^�����������B<BR>�^�m�V�q�I
+これみんなキャラクタが可愛いっす。<BR>タノシヒ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/08/13 00:23:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/08/13 00:23:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997629794ilhgf&id2=997546225bjivel&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997629794ilhgf_id2_997546225bjivel_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�A�C�f�B�A�܈�B�������낢�ł��B<BR>�L�����N�^�[�̉��炵���Ł��ł��B<BR>�I�`���ア�Ƃ̂��Ƃł����A���炵�����炱�̂܂܂ł��������ȂƎv���Ă��܂��܂��B<BR><BR>�������A�������I�`���������������̂ł�����A�����Z�N�ɂ͘T�����ɕϐg���������E�N�ɂ��݂��ċz�����Ă��炢�A���r���[�Ȏ􂢂̔����ɂ����Ⴄ�̂���ł����ˁB<BR>�����̓������j�ɖ߂�邯��ǁA���̓��͏��̎q�ɂȂ����Ⴄ�Ƃ��B<BR><BR>�u�悩�����[�B�z�������u�ԂɃ����E�N���T�����ɂȂ��Ă��ꂽ����A�j�̂܂܂���v<BR>�����Ė����������c�c�B<BR>�u���[���I�@���ŏ��̎q�ɂȂ��Ă�́[���I�v<BR><BR>�Ƃ������ƂŐ��ɂ��܂�ȃ����X�^�[�j�㏉�́g�T���N���z���S�h���a�����ĂˁB
+アイディア賞一つ。おもしろいです。<BR>キャラクターの可愛らしさで○です。<BR>オチが弱いとのことですが、可愛らしいからこのままでもいいかなと思えてしまいます。<BR><BR>しかし、もしもオチを強くさせたいのでしたら、リンセ君には狼少女に変身したリョウ君にかみついて吸血してもらい、中途半端な呪いの発動にしちゃうのも手でしたね。<BR>満月の日だけ男に戻れるけれど、他の日は女の子になっちゃうとか。<BR><BR>「よかったー。吸血した瞬間にリョウ君が狼少女になってくれたから、男のままだよ」<BR>そして満月がおわり……。<BR>「えーっ！　何で女の子になってるのーっ！」<BR><BR>ということで世にもまれなモンスター史上初の“狼少年女吸血鬼”が誕生ってね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/08/13 00:49:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/08/13 00:49:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997631362vrfyxbh&id2=997546225bjivel&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997631362vrfyxbh_id2_997546225bjivel_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂�Ȃ����B��̖��O�ԈႦ�܂����B<BR>�����Z�N����Ȃ��āA�������̓����Z�N�ł��ˁB<BR>�\����Ȃ��ł��B�Ȍ�C�����܂��B
+ごめんなさい。上の名前間違えました。<BR>リンセ君じゃなくて、正しくはランセ君ですね。<BR>申し訳ないです。以後気をつけます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:novelist_john@hotmail.com" target="_blank">John/��H��</a></strong>  <i>2001/08/13 07:41:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:novelist_john@hotmail.com" target="_blank">John/夜羽根</a></strong>  <i>2001/08/13 07:41:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997656112tkwsjcw&id2=997546225bjivel&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997656112tkwsjcw_id2_997546225bjivel_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;���͂l�r�����i�y�����Ƃ��l�j�h�h�����Ƃ��j�������ł��i��)<BR>&gt;�Ƃ����Ă��Ⴂ�l�i���E�����j�ɂ��̃l�^�͐h�����ȁB�i�߁j<BR>�����c����׋����h�ɂăA�j�\���΂��蕷���ĂāA�F�l�ɗR���������Ė�����肵�Ă��̂Łc�B<BR>���\������܂��B(��)<BR><BR>&gt;�w���E�x�ƕ\�L���܂������A���ۂɂ́w�z���E�x�Ƃ����s�v�c����ɂȂ�܂��B<BR>������Ɓw�d����s/�S�S���āx�������ɁA�z�����ނ�𐶂ނ�ł��ˁB(^^;<BR>�����鎞��Ԃ͈Ⴆ�ǁc�B<BR><BR>&gt;���ꂪ�_���ł��B<BR>���A����ς肻���ł������B(��)<BR>�����������Z�N�A���̂ɂ��̂悤�ȃ��m�����L�Ȃ����Ă���ł��傤�H<BR>���͍��܂ł̓����Z�N�̉^���z�����Ă���Ƃ��B(^^;<BR><BR>&gt;�ł��w���ʁx�݂����Ȑl�Ԋ֌W���G�Œ��тɔ��W�ł����i�v���b�g�Ȃ��ŕ|���Ȃ��ł����H<BR>�����A�A���͂������G�ł������ł���B(^^;<BR>���g�݂́A�P�Ȃ��g�̍D�������Ă�j���ł����B<BR>����ɂ��̃L�����̌��́A�������i�������Ŏg���Ă�w�y���\�i�x�ł�����B(�}�W)<BR><BR>�Ăȃg�R�ŁA�ł͎��񃊃��E�N�̍X�Ȃ�s�K(�H)�Ɋ��҂��ā�
+&gt;実はＭＳ少女（ＺちゃんとかＭＫＩＩちゃんとか）もいるんです（爆)<BR>&gt;といっても若い人（中・高生）にこのネタは辛いかな。（悲）<BR>あぅ…先日勉強合宿にてアニソンばかり聞いてて、友人に由来を教えて貰ったりしてたので…。<BR>結構分かります。(汗)<BR><BR>&gt;『魔界』と表記しましたが、実際には『想い界』という不思議時空になります。<BR>ちょっと『妖魔夜行/百鬼夜翔』ちっくに、想いが彼らを生むんですね。(^^;<BR>生きる時空間は違えど…。<BR><BR>&gt;それが狙いです。<BR>あ、やっぱりそうでしたか。(笑)<BR>しかしリンセ君、何故にそのようなモノを所有なさってたんでしょう？<BR>実は今まではランセ君の運を吸収してたりとか。(^^;<BR><BR>&gt;でも『仮面』みたいな人間関係複雑で中篇に発展できる作品プロットなしで怖くないですか？<BR>いえ、アレはそう複雑でも無いですよ。(^^;<BR>骨組みは、単なる二組の好き合ってる男女ですし。<BR>それにあのキャラの元は、私が普段私生活で使ってる『ペルソナ』ですから。(マジ)<BR><BR>てなトコで、では次回リョウ君の更なる不幸(？)に期待して♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/13 17:22:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/13 17:22:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997690941fyldi&id2=997546225bjivel&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997690941fyldi_id2_997546225bjivel_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�閲�l<BR>�@�j�������C���[�̑f������悤�Ƃ���̂͂��Ȃ薳�d�ȃ`�������W���[�ł��B<BR>�@�Ȃ񂹏����ւ̕Г��ؕ��ł�����B�i�΁j<BR>�@�������A���̎q�͌��Ă����͂Ȃ��̂ő��v�ł����ǁi���̂Ƃ���́j�B<BR><BR>�t���b�g�l<BR>�@�����E�N�R���p�N�g�����A�ԒP�Ƀe�C�N�A�E�g�ł����Ⴂ�܂��ˁB����A��Ȃ��������ȁi�΁j<BR><BR>���v��Ȃ������ȃG�s�\�[�h�Ȃ񂩂��J�b�g��<BR>�@���Ȃ�A���܂ɖv�l�^����ʂ���f���ɏ������܂�Ă����̂́A����ł�������ł��ˁB���������Ȃ��B���̂܂ܒ��҂ɂ��Ă��܂��Ƃ��ǂ��ł��傤�H<BR><BR>�낳��l<BR>�@���肪�Ƃ��������܂��B�Q���g�����[���h�ڎw���܂��B�i���j<BR><BR>�W���[�W���b�h�l<BR>�@�Ȃ�قǂ��������������܂��ˁB�������w�T���N���z���S�x�Ƃ����̂́A������������w�ς�����x�������ł��ˁB�i�΁j<BR>�@���ƃ����Z�̖��O�ł����A�����ԈႦ�邮�炢�Ȃ̂ŋC�ɂȂ���Ȃ��Ă����v�ł��B���������̂��Ɗ����ɂ����ق��������̂��ȁB�����ƙz���B<BR><BR>John/��H���l<BR>�@���`��Ȃ�قǁA���낢��ȈӖ��ł���ς肷�����ł��ˁB�i�΁j<BR><BR>�������������Z�N�A���̂ɂ��̂悤�ȃ��m�����L�Ȃ����Ă���ł��傤�H<BR>�@�G���̗��̉������ʔ̂̍L�������čw���i���j
+夜夢様<BR>　男性がメイヤーの素顔を見ようとするのはかなり無謀なチャレンジャーです。<BR>　なんせ女性への片道切符ですから。（笑）<BR>　ただし、女の子は見ても問題はないので大丈夫ですけど（今のところは）。<BR><BR>フラット様<BR>　リュウ君コンパクトだし、間単にテイクアウトできちゃいますね。うわ、危ない発言だな（笑）<BR><BR>＞要らなさそうなエピソードなんかをカットし<BR>　かなり、たまに没ネタうんぬんを掲示板に書きこまれていたのは、それでだったんですね。もったいない。そのまま長編にしてしまうとかどうでしょう？<BR><BR>ろさん様<BR>　ありがとうございます。２頭身化ワールド目指します。（爆）<BR><BR>ジャージレッド様<BR>　なるほどそう言う手もありますね。しかし『狼少年女吸血鬼』というのは、おもいっきり『ぱちもん』くさいですね。（笑）<BR>　あとランセの名前ですが、私も間違えるぐらいなので気になさらなくても大丈夫です。いっそうのこと漢字にしたほうがいいのかな。蘭世と凛世。<BR><BR>John/夜羽根様<BR>　う～んなるほど、いろいろな意味でやっぱりすごいですね。（笑）<BR><BR>＞しかしリンセ君、何故にそのようなモノを所有なさってたんでしょう？<BR>　雑誌の裏の怪しい通販の広告を見て購入（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/14 06:59:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/14 06:59:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997739949rxhaonn&id2=997546225bjivel&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997739949rxhaonn_id2_997546225bjivel_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���؈�ࣂł��ˁB�ŏ����ʂ̐��E�̂悤�Ɍ����āA�㔼�����X�^�[�����X�Ƃ����\������D���ł��B�����l���}�[���C�h�́A�����Ƃ��s�r�����Ƃ��̗������ł����Ċy���������B<BR>���j�������C���[�̑f������悤�Ƃ���̂͂��Ȃ薳�d�ȃ`�������W���[�ł�<BR>�@�{�[�C�t�����h�ɂ��f����������ʒ�߂Ȃ̂ł��ˁc�B���ꂾ���ł��b��1�삩�������B<BR>�������ԈႦ�邮�炢�Ȃ̂�<BR>���c�A�������ɁA�Ԉ���Ă�B�����E����̑䎌�̂Ƃ��B
+　豪華絢爛ですね。最初普通の世界のように見せて、後半モンスターが続々という構成が大好きです。半魚人→マーメイドは、もっともＴＳしたときの落差がでかくて楽しいかも。<BR>＞男性がメイヤーの素顔を見ようとするのはかなり無謀なチャレンジャーです<BR>　ボーイフレンドにも素顔を見せられぬ定めなのですね…。これだけでお話が1作かけそう。<BR>＞私も間違えるぐらいなので<BR>あ…、たしかに、間違ってる。リュウくんの台詞のとこ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/15 08:23:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/15 08:23:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997831411qocjsiv&id2=997546225bjivel&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997831411qocjsiv_id2_997546225bjivel_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L��l<BR>�@���肪�Ƃ��������܂��B�Ƃ��߂��H�@�̃V���[�Y�͏����Ă���r���ɍ��܂��Ȃ��̂Ŕ��ɋC�ɓ����Ă܂��B<BR>�@�����L�삳��̂悤�ȃn�[�g�t���Ȃ��̂�������悤����΂�܂��B<BR>
+猫野様<BR>　ありがとうございます。ときめき？　のシリーズは書いている途中に挫折しないので非常に気に入ってます。<BR>　いつか猫野さんのようなハートフルなものが書けるようがんばります。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�ݑ����z�̂����W�S�Q�U�i���j</a></strong>  <i>2001/08/22 21:50:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">鈍速感想のｍｋ８４２６（爆）</a></strong>  <i>2001/08/22 21:50:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=998484607fhdkdn&id2=997546225bjivel&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_998484607fhdkdn_id2_997546225bjivel_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������[����ƃJ�L�R�ł���[<BR>�ǂ񂾃o�C��<BR>�Ȃ�ƂȂ��t�@���^�W�[�łȂ�ƂȂ��M���O�B<BR>���肰�Ȃ������p�^�[���B<BR>����Ȃ̑�D���ł��`��<BR>�u�T�������N�v�΂킹�Ă��������܂����I<BR>���~�����ł悤�₭�ʏ�y�[�X�̂����W�S�Q�U�ł����B
+うううーやっとカキコできるー<BR>読んだバイ♪<BR>なんとなくファンタジーでなんとなくギャグ。<BR>さりげなくワンパターン。<BR>こんなの大好きです～♪<BR>「狼少女少年」笑わせていただきました！<BR>お盆明けでようやく通常ペースのｍｋ８４２６でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/23 11:24:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/23 11:24:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=998533474wdkos&id2=997546225bjivel&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_998533474wdkos_id2_997546225bjivel_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l<BR>�@��A��Ȃ����܂��B���~���͑�ς������̂ł��傤���H�@�����l�ł��B<BR>�@���肪�Ƃ��������܂��B�ꉞ�L�����N�^�[���������肵�Ă����̂ŁA�C�y�ɏ�����V���[�Y�ɂȂ肻���ł��B�Ƃ͂����A�����傫�Șb��������킯�ł͂Ȃ��̂ŁA���鐯�I�ȓ���ǂ��΂����̂ɂȂ肻���ł��B
+ｍｋ８４２６様<BR>　御帰りなさいませ。お盆中は大変だったのでしょうか？　お疲れ様です。<BR>　ありがとうございます。一応キャラクターがしっかりしてきたので、気軽に書けるシリーズになりそうです。とはいえ、何か大きな話しがあるわけではないので、うる星的な日常どたばたものになりそうです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/08/24 22:53:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/08/24 22:53:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=998661231rckljc&id2=997546225bjivel&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_998661231rckljc_id2_997546225bjivel_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����i�H�j���炯�̐��E�ł�����ς�s�r�͈�厖�Ȃ悤�ŁB<BR>�}���K��A�j���̌��l�^�����������ɂ���΂߂��Ă��Ċy�����ǂ߂܂����B<BR>�����Z�̂��ꂳ��͂���ς�T���i�T�������ł͂Ȃ��āj�Ȃ̂ł��傤���H
+怪物（？）だらけの世界でもやっぱりＴＳは一大事なようで。<BR>マンガやアニメの元ネタがあちこちにちりばめられていて楽しく読めました。<BR>ランセのお母さんはやっぱり狼女（狼少女女ではなくて）なのでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/27 20:47:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/27 20:47:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=998912839jawrq&id2=997546225bjivel&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_998912839jawrq_id2_997546225bjivel_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������l<BR>�@����͂s�r��o�[�Q���Șb���ɂȂ�܂��B<BR><BR>�������Z�̂��ꂳ��͂���ς�T���i�T�������ł͂Ȃ��āj�Ȃ̂ł��傤���H  <BR>�@�����i�����Z�j�̕�͐l�Ԃ̏����ł��B��{�P�ł�����������ɂ͐�Ε��]�ł��B�Ȃ��ł��傤�i�΁j<BR>�@������Ε��]�ł͂���܂����A��������͗F�B���o�Őڂ��Ă��܂��B�z���ł̋��L������Ȋ����ł��B��������͂��܂荂�Z�ȑO�̘b������������܂���B<BR>�@�{�Ɓi�g�D�i�C�g�j�͂��ꂳ�񂪋��������L�����c�c�B
+こうけい様<BR>　次回はＴＳ大バーゲンな話しになります。<BR><BR>＞ランセのお母さんはやっぱり狼女（狼少女女ではなくて）なのでしょうか？  <BR>　蘭世（ランセ）の母は人間の女性です。大ボケですがお父さんには絶対服従です。なぜでしょう（笑）<BR>　ただ絶対服従ではありますが、お父さんは友達感覚で接しています。想いでの共有もそんな感じです。お父さんはあまり高校以前の話しをしたがりません。<BR>　本家（トゥナイト）はお母さんが強かった記憶が……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200108/12010732/tokimeki02.html" target="_blank">��Q�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/09/02 22:37:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200108/12010732/tokimeki02.html" target="_blank">第２話を読むにはここをクリック</a></strong>  <i>2001/09/02 22:37:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999437821nyxnyat&id2=997546225bjivel&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999437821nyxnyat_id2_997546225bjivel_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ�Ƃ����؂ȃQ�X�g����l�A�쒆�ł��΂�Ă���܂��B�����ē��R����Ɋ������܂��L�������c�B���������Ղ�́u�Ƃ��߂��H�v�V���[�Y��Q�e�����y���݂��������B<BR>
+なんとも豪華なゲストが二人、作中であばれてくれます。そして当然それに巻き込まれるキャラも…。見所たっぷりの「ときめき？」シリーズ第２弾をお楽しみください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/09/02 23:24:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/09/02 23:24:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999440695bmbuo&id2=997546225bjivel&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999440695bmbuo_id2_997546225bjivel_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́B�����Ղ̏����i���͒�Ԃł��ˁ[�B<BR>���A�u�����v����Ȃ��āu�s�r�i���v���i���j�B<BR><BR>����[�A�ŏ�����Ō�܂Ō����ł����ˁ[�B����͂����������B<BR>�ʔ������������B
+読んだバイ♪<BR>わっはっは。文化祭の女装喫茶は定番ですねー。<BR>あ、「女装」じゃなくて「ＴＳ喫茶」か（爆）。<BR><BR>いやー、最初から最後まで見所でしたねー。これはすごかった。<BR>面白かったっす。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/09/03 06:18:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/09/03 06:18:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999465524olpdyit&id2=997546225bjivel&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999465524olpdyit_id2_997546225bjivel_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L�x�ȃA�C�f�B�A�B<BR>���l�^�̂��ׂĂ�����������ł͖����̂ł����A�������납�����ł��B<BR>�}�����̓`���`���������Ǝv���Ă�����A�g���g���������Ă�����ł��ˁB����Ȃɂ݂߂��Ⴂ��`��<BR><BR>����͂����ƁA���؂ȃQ�X�g�̏o�������Ďv���܂����B<BR>���̍�i�̖��E�͑z���E�ƕ\������̂��{���Ȃ�ł���ˁB<BR>�ł����當�ɂ̑��̓o��l�����o�ꂷ��̂��A���ł���ˁB<BR><BR>�Ƃ����킯�ŁA����̓W�J������!!<BR>���Ȃ݂Ɏ��̂Ƃ���̓o��l���B�A������ɂ�����܂��Ă��ǂ��Ɛ\���Ă܂���@��낵����΂ǂ����B
+豊富なアイディア。<BR>元ネタのすべてが分かった訳では無いのですが、おもしろかったです。<BR>マリンはチャチャだけかと思っていたら、トリトンも入っていたんですね。そんなにみつめちゃいや～♪<BR><BR>それはそうと、豪華なゲストの出演を見て思いました。<BR>この作品の魔界は想い界と表現するのが本当なんですよね。<BR>ですから文庫の他の登場人物が登場するのもアリですよね。<BR><BR>というわけで、今後の展開を期待!!<BR>ちなみに私のところの登場人物達、そちらにおじゃましても良いと申してます♪　よろしければどうぞ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/03 11:59:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/03 11:59:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999485964ldewv&id2=997546225bjivel&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999485964ldewv_id2_997546225bjivel_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l<BR>�@���z���肪�Ƃ��������܂��B�߂��Ȃ炱�������̂��y�������낤�ȂƎv���Ȃ��珑���Ă܂����B<BR>�@���ۊw���������v�������Ȃ��珑���Ă܂����B�j�q�Z���������ǁc�c�B<BR>�@���Ȃ݂Ɏ��̂Ƃ��͖��H�Ƃ��ł����ˁB<BR><BR>�W���[�W���b�h�l<BR>�@�����ł��g���g���l�^�ł��B���o����̓s�s�������B�i�ł�����͎w�ւ̃z�r�b�g�݂����ł����j<BR><BR>�����̍�i�̖��E�͑z���E�ƕ\������̂��{���Ȃ�ł���ˁB<BR>�@�����������ۂ���{���̖��E�͑喂�E�Ƃ��Ă܂��B<BR><BR>���ł����當�ɂ̑��̓o��l�����o�ꂷ��̂��A���ł���ˁB<BR>�@���ւցA�����ł��ˁB�ْ����܂��������ł���ݒ�ł͂���܂��B�Ƃ������Ȃ�ł����肠��ł�����B�����A�����̕��͗��A��Ƃ��������ނƂ������`�ɂȂ�܂����ˁB<BR>�@���ƁA���I�i�����̂悤�Ɂw�J�^���x�������Ƃ����������܂��B<BR>�@�l�n�m�c�n���񂷂݂܂���B���肪�Ƃ��������܂��B<BR><BR>�����Ȃ݂Ɏ��̂Ƃ���̓o��l���B�A������ɂ�����܂��Ă��ǂ��Ɛ\���Ă܂���@��낵����΂ǂ����B <BR>�@���A���肪�Ƃ��������܂��B�������ْ����܂��B�㐔�b�V�L�����⃁�C���L�����̘b���̌㒧�킳���Ă��炢�܂��B<BR>�@�����E�N�̂����e�͌����҂ŁA���͖��@�����Ńf�r���[��ڎw���Ă܂�����A�ޗ������񂠂���Ƌ������c�c�B<BR>�@���̑O�Ɏ��̏C�s�����Ȃ��Ƃ��߂ł��ˁB
+ｍｋ８４２６様<BR>　感想ありがとうございます。戻れるならこういうのも楽しいだろうなと思いながら書いてました。<BR>　実際学生生活を思いだしながら書いてました。男子校だったけど……。<BR>　ちなみに私のときは迷路とかでしたね。<BR><BR>ジャージレッド様<BR>　そうですトリトンネタです。お姉さんはピピンだし。（でもこれは指輪のホビットみたいですが）<BR><BR>＞この作品の魔界は想い界と表現するのが本当なんですよね。<BR>　悪魔がかっぽする本当の魔界は大魔界としてます。<BR><BR>＞ですから文庫の他の登場人物が登場するのもアリですよね。<BR>　えへへ、そうですね。緊張しますがそうできる設定ではあります。というかなんでもありありですから。ただ、現役の方は里帰りとか迷い込むといった形になりますがね。<BR>　あと、レオナたちのように『開運堂』から入るという手もあります。<BR>　ＭＯＮＤＯさんすみません。ありがとうございます。<BR><BR>＞ちなみに私のところの登場人物達、そちらにおじゃましても良いと申してます♪　よろしければどうぞ。 <BR>　あ、ありがとうございます。すごい緊張します。後数話新キャラやメインキャラの話しの後挑戦させてもらいます。<BR>　リュウ君のご両親は元役者で、妹は魔法少女でデビューを目指してますから、奈里佳さんあたりと共演を……。<BR>　その前に私の修行をしないとだめですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ӂ����</strong>  <i>2001/09/04 00:13:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ふらっと</strong>  <i>2001/09/04 00:13:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999529988qdebu&id2=997546225bjivel&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999529988qdebu_id2_997546225bjivel_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ�Ɛ\���グ�ėǂ��̂��c�c�B<BR>���ǂ���A�y���݂ǂ��낪�L�肷���Ċ��z�����t�ɂȂ�Ȃ��c�c�B<BR>����A�ŏ�������Ō�܂ŁA�m���X�g�b�v�Ŋy���݂܂����B<BR>�����N�����b�Łi�ꎞ�I�ɂƂ͌����j���̎q�ɂȂ���Ă̂��\�z�O�ł������B<BR><BR>�����̏������݂����Ă���ƁA������̐������ƂɂȂ��Ă��������c�c�B<BR>�y���݂ł��I
+なんと申し上げて良いのやら……。<BR>見どころ、楽しみどころが有りすぎて感想が言葉にならない……。<BR>いや、最初っから最後まで、ノンストップで楽しみました。<BR>蘭世君が第二話で（一時的にとは言え）女の子になるってのも予想外でしたし。<BR><BR>ここの書き込みを見ていると、今後もの凄いことになっていきそう……。<BR>楽しみです！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">����˂�</a></strong>  <i>2001/09/04 13:23:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@mse.biglobe.ne.jp" target="_blank">かわねぎ</a></strong>  <i>2001/09/04 13:23:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999577437jsbcqn&id2=997546225bjivel&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999577437jsbcqn_id2_997546225bjivel_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����A���l�^���S��������Ȃ��B�y���܂��Ă��炢�܂������ǁA���l�^�S��������΂����Ɩʔ�����ł��傤�ˁB����ɂ��Ă��y�������Ȋw�Z�B
+　うう、元ネタが全部分からない。楽しませてもらいましたけど、元ネタ全部分かればもっと面白いんでしょうね。それにしても楽しそうな学校。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/04 19:03:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/04 19:03:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999597839rubuhr&id2=997546225bjivel&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999597839rubuhr_id2_997546225bjivel_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӂ���Ɨl<BR>�@���z���肪�Ƃ��������܂��B���������Ă���������Ƃ��ꂵ������ł��B���ꂩ�������΂�܂��B<BR>�@���ƂQ�`�R�L�����Ń��C���L�������o�����\��ł��B����̏���q�Ǝ���̃V���^�C���E���m�̓l�^�o���L�����Ȃ̂ō�������傭���傭�o�Ęb���������񂷂Ǝv���܂��B<BR>�@���̌�A���̃L���������؂肵�Ă���΂낤���ȂƎv���Ă���܂��B<BR><BR>����˂��l<BR>�@���l�^�ƌ����Ă��C�̃g���g���ɏo�Ă���s�s�Ƃ������]�k�l���A�Ԃ����񂿂Ⴟ��̃}�����Ƃ����l���A���ɖ��O�����ł��B<BR>�@����q�̐e�ʂ͏���A����̓^�C�g�[�̃Q�[���w��X���E�x�Ƃ����Q�[���ɏo�Ă����ޏ�����ł��B<BR>�n���M���h���̓T�����I�̃L�����N�^�[�ł��ˁB���킢�������l�ł��B<BR>�w�K�W�[�[�[�[�x���Č����̂́w�Ƃ��߂��g�D�i�C�g�x�̎�l���A�����[����񂪋z���ϐg����Ƃ��̃Z���t�A�͂����}���g�Ƃ����̂̓G���f�B���O�̈ߑ��ł��ˁB<BR>�@�m���ĂĂ��m��Ȃ��Ă��ꏏ���Ǝv���܂��B�����Č����Ȃ�w�j�����x�Ƃ�����x�ł��ˁB<BR>�@����ȊO�͂��񑩂̒�ԃl�^�ł��B<BR>�@���Ȃ݂Ƀ����E�͘T���N�P���ł͂Ȃ��A�Ȃ������n���N�����E�ɂȂ��Ă��܂��܂����B���C���[�̓I���W�i���B�}���i�[�́w�E�H�[�^�[���[���h�x�̃P�r���R�X�i�[�������Ă��l�Ԃł��ˁB<BR>�@�����I�ɏ��l�^�̓}�C�i�[�A��l�^�̓��W���[�������͕��Ƀl�^�Ƃ������ƂŎg�p���Ă��܂��B
+ふらっと様<BR>　感想ありがとうございます。そういっていただけるとうれしい限りです。これからもがんばります。<BR>　あと２～３キャラでメインキャラが出揃う予定です。今回の小夜子と次回のシュタイン・博士はネタ出しキャラなので今後もちょくちょく出て話しをかき回すと思います。<BR>　その後、他のキャラをお借りしてがんばろうかなと思っております。<BR><BR>かわねぎ様<BR>　元ネタと言っても海のトリトンに出てくるピピというお転婆人魚、赤ずきんちゃちゃのマリンという人魚、共に名前だけです。<BR>　小夜子の親戚は小夜、これはタイトーのゲーム『奇々怪界』というゲームに出てきた巫女さんです。<BR>ハンギョドンはサンリオのキャラクターですね。かわいい半魚人です。<BR>『ガジーーーー』って言うのは『ときめきトゥナイト』の主人公、ランゼちゃんが吸血変身するときのセリフ、はだかマントというのはエンディングの衣装ですね。<BR>　知ってても知らなくても一緒だと思います。しいて言うなら『ニヤリ』とする程度ですね。<BR>　それ以外はお約束の定番ネタです。<BR>　ちなみにリュウは狼少年ケンではなく、なぜか原始少年リュウになってしまいました。メイヤーはオリジナル。マリナーは『ウォーターワールド』のケビンコスナーが演じてた人間ですね。<BR>　原則的に小ネタはマイナー、大ネタはメジャーもしくは文庫ネタということで使用しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/09/06 02:15:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/09/06 02:15:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999710147qsrhfw&id2=997546225bjivel&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999710147qsrhfw_id2_997546225bjivel_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂����A�G�����Ă��܂����i���ƃl�^�̂قƂ�ǂ�������L��j�B<BR>�N���X�S���Ƃ����̂��ǂ�قǂ������A���񕪂������C�����܂��B���C���[�����łЂƂ�A�܂��ЂƂ�Ƃs�r���Ă������k�����c�ނӂӁB<BR>�@�Ƃ���ŁA�W�����p�[�X�J�[�g���x�X�g�E�v���[�c�X�J�[�g�Ƃ����̂͂ǂ�Ȋi�D�Ȃ̂ł��傤���B���܂��`���܂���B�B�B
+こまった、萌えつきてしまった（もとネタのほとんどが分かる猫野）。<BR>クラス全員というのがどれほどいいか、今回分かった気がします。メイヤー小屋でひとり、またひとりとＴＳしていく生徒たち…むふふ。<BR>　ところで、ジャンパースカート＆ベスト・プリーツスカートというのはどんな格好なのでしょうか。うまく描けません。。。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/06 09:56:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/06 09:56:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999737769hirmpc&id2=997546225bjivel&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999737769hirmpc_id2_997546225bjivel_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L��l<BR>�@���z���肪�Ƃ��������܂��B<BR>�@���`�A�x�X�g�Ƃ��������������������ł��ˁB�O�|���ɂȂ�̂��ȁB�W�����p�[�X�J�[�g�̏㕔�p�[�c���O���Ƃ����������ł��B<BR>�@���Ƃ������Ƃ��Ƃ񂾎��s�ł��B���������Ă��݂܂���B<BR>�@�C���[�W�Ƃ��Ắw�g�D���[���u�X�g�[���[�P�x�̐����̃X�J�[�g�㕔�p�[�c���O���Ƃ����������ł��B<BR>�@���Ȃ�Â��ł����P�W�փQ�[���w����ꂽ���ԁx�Ŏ��ۂɃf�U�C������Ă��܂���B���Z����̐����������ł��B
+猫野様<BR>　感想ありがとうございます。<BR>　え～、ベストという書き方が悪かったですね。前掛けになるのかな。ジャンパースカートの上部パーツが外れるといった感じです。<BR>　私としたことがとんだ失敗です。混乱させてすみません。<BR>　イメージとしては『トゥルーラブストーリー１』の制服のスカート上部パーツが外れるといった感じです。<BR>　かなり古いですが１８禁ゲーム『失われた時間』で実際にデザインされていますよ。高校時代の制服がそうです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="997546225bjivel">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

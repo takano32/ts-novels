@@ -1,27 +1,27 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
-<font size="+2" color="#008080">�m�[�g���j���[</font>
+<font size="+2" color="#008080">ノートメニュー</font>
 <hr>
-<p>�܂��͕K�v�ȏ�����͂��܂��B
+<p>まずは必要な情報を入力します。
 <form action="noteky.cgi" method="post" target="idx">
 <input type="hidden" name="id" value="954615877wycwyi">
 <input type="hidden" name="id2" value="954445580fnrkrb">
 <input type="hidden" name="f" value="11">
 <table border="0">
 <tr>
-<td>���O:</td>
+<td>名前:</td>
 <td><input type="text" name="name" size="40" maxlength="40" value=""></td>
 </tr>
 <tr>
-<td>���[���A�h���X:</td>
+<td>メールアドレス:</td>
 <td><input type="text" name="mail" size="40" maxlength="40" value=""></td>
 </tr>
 <tr>
-<td>�m�F�L�[:</td>
+<td>確認キー:</td>
 <td><input type="text" name="ckey" size="40" maxlength="10" value=""></td>
 </tr>
 
@@ -36,16 +36,16 @@
 <tr>
 <td colspan="2">
 <input type="checkbox" name="set" value="on" checked>
- �Ȍ�X�e�[�^�X�����u���E�U�ɕۑ�����(cookie)
+ 以後ステータス情報をブラウザに保存する(cookie)
 </td>
 </tr>
 </table>
 
 <input type="hidden" name="ff" value="p">
-<p><small>���[���A�h���X�͐��m�ɓ��͂��Ă��������B�m�F�L�[���킩��Ȃ��ꍇ�͋󔒂̂܂܂ɂ��Ă��������B</small></p>
-<font size="+1" color="#0000FF">�����̍폜</font>
-<p>�Ǘ��҂͂��̋L�����폜���邱�Ƃ��ł��܂��B���[���A�h���X�Ɗm�F�L�[����͂��Ă��������B</p>
-<p><input type="submit" name="c" value="DELETE"> �����폜</p>
+<p><small>メールアドレスは正確に入力してください。確認キーがわからない場合は空白のままにしてください。</small></p>
+<font size="+1" color="#0000FF">発言の削除</font>
+<p>管理者はこの記事を削除することができます。メールアドレスと確認キーを入力してください。</p>
+<p><input type="submit" name="c" value="DELETE"> 発言削除</p>
 </form>
 </body>
 </html>

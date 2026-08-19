@@ -1,89 +1,89 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
-<title>�ɂ������a�a�r</title></head>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
+<title>にせ乙女ＢＢＳ</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>�ɂ������f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>にせ乙女掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www2.tomato.ne.jp/~ezpe/yasai/nyotai.html target=_top>[HomePage]</a><br> <br>
-<a href="http://www14.big.or.jp/~yays/cgi-bin/paintbbs/index.html">[VISUAL BBS]</a><br>
+<tr><td rowspan=4><a href="../../yasai/nyotai.html" target=_top>[HomePage]</a><br> <br>
+<a href="../../../~yays/cgi-bin/paintbbs/index.html">[VISUAL BBS]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
+<tr><td align=right>題名:</td><td>
 <input type=text size=48 name=subject>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="item">��i
-<option value="character">�l/�J�b�v��
-<option value="author">���
-<option value="rumor">���E���킳
-<option value="food">�H�ו�
-<option value="something">����
-</SELECT> �� 
+<option value="item">作品
+<option value="character">人/カップル
+<option value="author">作家
+<option value="rumor">情報・うわさ
+<option value="food">食べ物
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
-<input type=submit value=�V�K���e�^�X�V>
-<input type=reset value=��������>
+<input type=submit value=新規投稿／更新>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.subject.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=56>
-<font color=#6A5ACD>�₨���n�V�i���I��W</font></a>
+<font color=#6A5ACD>やおい系シナリオ募集</font></a>
 <font color=#303030>
 minmin
- ����</font>
- <font size=2>2002�N4��22��(��) 15��15��</font>
+ さん</font>
+ <font size=2>2002年4月22日(月) 15時15分</font>
 <a href=http://meny.g-7.ne.jp/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=56">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�H�ו��́A<b>�Ƃ��ӂՂ��</b>�z</font>
+<a href="resbbs4@vew_56.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる食べ物は、<b>とうふぷりん</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�ڂ����̊ʋl�H��ł�<br>���������b�ɂȂ��Ă��܂�<br><br>�₨���n�̍�i����肽���I�I�Ƃ����₩�炪���݂��Ă���܂���<br>���Ё@�݂Ȃ��܂̍�i�ɐ��[�Ă������Ē��������̂ł�<br><br>�����Ƃ��Ȃ�������������Ⴂ�܂�����@����񂭂������܂�<br>��΁@���u�v���C�����͂����ق�����<br><br><a href=http://meny.g-7.ne.jp/ target=_top>http://meny.g-7.ne.jp/</a><br><br><br></font></ul>
+<ul><br><font size=3>ぼいすの缶詰工場です<br>いつもお世話になっています<br><br>やおい系の作品をやりたい！！というやからが存在しておりまして<br>ぜひ　みなさまの作品に声充てをさせて頂きたいのです<br><br>ごきとくなかたがいらっしゃいましたら　ご一報くださいませ<br>絶対　放置プレイだけはご勘弁を☆笑<br><br><a href=http://meny.g-7.ne.jp/ target=_top>http://meny.g-7.ne.jp/</a><br><br><br></font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=54>
-<font color=#6A5ACD>����΂��</font></a>
+<font color=#6A5ACD>こんばんわ</font></a>
 <font color=#303030>
 <a href=mailto:isaribi@shadowwolf.jp>Junn</a>
- ����</font>
- <font size=2>2002�N3��16��(�y) 20��47��</font>
+ さん</font>
+ <font size=2>2002年3月16日(土) 20時47分</font>
 <a href=http://www.shadowwolf.jp/isaribi/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=54">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b>�|�̘B���p�t</b>�z</font>
+<a href="resbbs4@vew_54.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b>鋼の錬金術師</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���v���Ԃ�ł��B<br>��قǉ��o�^�����Ă܂���܂����̂ł�낵�����肢�v���܂��B<br>����ł́i�O�O�j�m~</font></ul>
+<ul><br><font size=3>お久しぶりです。<br>先ほど仮登録をしてまいりましたのでよろしくお願い致します。<br>それでは（＾＾）ノ~</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=55>
-<font color=#6A5ACD>RE:����΂��</font></a>
+<font color=#6A5ACD>RE:こんばんわ</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N3��31��(��) 5��53��</font>
-<a href="resbbs4.cgi?vew=55">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�o�^�A���܂������Ă܂���ˁH<br>�����������O�}�l�[�W�����g�ō�Ƃ��đ��M�{�^���������тɉ�����炩���Ă͂��Ȃ����ƃh�L�h�L�r�N�r�N���Ă܂��B�B�B</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2002年3月31日(日) 5時53分</font>
+<a href="resbbs4@vew_55.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>登録、うまくいってますよね？<br>いっつもリングマネージメントで作業して送信ボタン押すたびに何かやらかしてはいないかとドキドキビクビクしてます。。。</font></ul>
 <HR>
 </ul>
 </dl>
@@ -91,37 +91,37 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=50>
-<font color=#6A5ACD>�͂��߂܂��Ă�</font></a>
+<font color=#6A5ACD>はじめましてｖ</font></a>
 <font color=#303030>
 <a href=mailto:isaribi@shadowwolf.jp>Junn</a>
- ����</font>
- <font size=2>2002�N2��22��(��) 21��44��</font>
+ さん</font>
+ <font size=2>2002年2月22日(金) 21時44分</font>
 <a href=http://www.shadowwolf.jp/isaribi/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=50">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
+<a href="resbbs4@vew_50.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�͂��߂܂��āA����΂��<br>�g�m�@�i�������Ɛ\���܂��B<br>���D�݂̃T�C�g���������ėǂ������ł��I<br>���[���Ƃ��������T�C�g��T���Ă�����ł��`��<br>�������C�ɓ���ɓo�^�v���܂�����<br>���ꂩ�������΂��Ă��������i�O�O�j�m~<br>�ʕ�����v���܂���<br></font></ul>
+<ul><br><font size=3>はじめまして、こんばんわ<br>ＨＮ　Ｊｕｎｎと申します。<br>私好みのサイトが見つかって良かったです！<br>すーっとこういうサイトを探していたんです～ｖ<br>早速お気に入りに登録致しましたｖ<br>これからもがんばってください（＾＾）ノ~<br>駄文失礼致しました<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=51>
-<font color=#6A5ACD>RE:�͂��߂܂��Ă�</font></a>
+<font color=#6A5ACD>RE:はじめましてｖ</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N3��1��(��) 9��20��</font>
-<a href="resbbs4.cgi?vew=51">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�͂��߂܂���Junn����B�Ǘ��l���Ȍ����n�����ł��B<br>���K��ǂ������肪�Ƃ��������܂��`�B<br>�X�V�̃l�^���l���Ă�̂ŁA�܂����Ă��������ˁB<br>�^�Q�[���̃l�^�ɂ��ĂȂ񂩂ł��Ȃ����ƃC���C���E�E�E�E<br>����͂����ƁA���݃����N�����Ă�����Ă����ł��傤���H</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2002年3月1日(金) 9時20分</font>
+<a href="resbbs4@vew_51.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>はじめましてJunnさん。管理人風な犬瓦ハム太です。<br>ご訪問どうもありがとうございます～。<br>更新のネタも考えてるので、また来てくださいね。<br>某ゲームのネタにしてなんかできないかとイロイロ・・・・<br>それはそうと、相互リンクさせてもらっていいでしょうか？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=53>
-<font color=#6A5ACD>������</font></a>
+<font color=#6A5ACD>えっと</font></a>
 <font color=#303030>
 <a href=mailto:isaribi@shadowwolf.jp>Junn</a>
- ����</font>
- <font size=2>2002�N3��10��(��) 17��23��</font>
+ さん</font>
+ <font size=2>2002年3月10日(日) 17時23分</font>
 <a href=http://www.shadowwolf.jp/isaribi/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=53">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>����Ȃg�o�ł�낵����΁A�S�R�\��Ȃ��ł���i���݃����N�j��<br><br>������Ȃ��ł����H�i���j</font></ul>
+<a href="resbbs4@vew_53.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>こんなＨＰでよろしければ、全然構わないですよ（相互リンク）ｗ<br><br>後悔しないですか？（汗）</font></ul>
 <HR>
 </ul>
 </ul>
@@ -130,105 +130,105 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=52>
-<font color=#6A5ACD>�͂��߂܂��ā�</font></a>
+<font color=#6A5ACD>はじめまして♪</font></a>
 <font color=#303030>
-�@�����O�Y
- ����</font>
- <font size=2>2002�N3��5��(��) 22��26��</font>
+如月清三郎
+ さん</font>
+ <font size=2>2002年3月5日(火) 22時26分</font>
 <a href=http://users.goo.ne.jp/mumemo1/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=52">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b>�͂��߂̈�॥�����B</b>�z</font>
+<a href="resbbs4@vew_52.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b>はじめの一歩･･････。</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�͂��߂܂���!�@���O�Y�Ƃ����܂�vvv<br>�����A���͂���ȃT�C�g��T���Ă����̂ł���vvvv<br>�������������O�̉��o�^�����Ă��������܂���vv�@�����N���\�����̂ŁA�m�F���Ă���������Ɗ������ł�vvv<br>����ς�F����A���̍D���Ȃ�ł��˂�vvvvv</font></ul>
+<ul><br><font size=3>はじめまして!　清三郎といいますvvv<br>ああ、私はこんなサイトを探していたのですよvvvv<br>さっそくリングの仮登録させていただきましたvv　リンクも貼ったので、確認していただけると嬉しいですvvv<br>やっぱり皆さん、女体好きなんですねぇvvvvv</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=40>
-<font color=#6A5ACD>�P�S�O�O�q�b�g�[</font></a>
+<font color=#6A5ACD>１４００ヒットー</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2002�N1��17��(��) 1��58��</font>
-<a href="resbbs4.cgi?vew=40">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�n���|�^���݂̏������l�^</b>�z</font>
+やえす
+ さん</font>
+ <font size=2>2002年1月17日(木) 1時58分</font>
+<a href="resbbs4@vew_40.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>ハリポタ絡みの女性化ネタ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�L���ԃQ�b�g�����I<br>���Ĕ����Ƀn���p�ȃL���ԁc�c<br><br>�ł������G���W���ɓo�^�O�Ȃ̂ɂP�O�O�O�q�b�g�z����Ƃ͂߂ł����̂ł��B</font></ul>
+<ul><br><font size=3>キリ番ゲットだぜ！<br>って微妙にハンパなキリ番……<br><br>でも検索エンジンに登録前なのに１０００ヒット越えるとはめでたいのです。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=41>
-<font color=#6A5ACD>RE:�P�S�O�O�q�b�g�[</font></a>
+<font color=#6A5ACD>RE:１４００ヒットー</font></a>
 <font color=#303030>
 minmin
- ����</font>
- <font size=2>2002�N1��23��(��) 22��8��</font>
-<a href="resbbs4.cgi?vew=41">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�J�E���^�[�͂ǂ��ł������H</font></ul>
+ さん</font>
+ <font size=2>2002年1月23日(水) 22時8分</font>
+<a href="resbbs4@vew_41.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>カウンターはどこでしかぁ？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=43>
-<font color=#6A5ACD>RE:�P�S�O�O�q�b�g�[</font></a>
+<font color=#6A5ACD>RE:１４００ヒットー</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N1��24��(��) 21��28��</font>
-<a href="resbbs4.cgi?vew=43">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�J�E���^�[�̓��j���[�y�[�W�̏�̂ق��ɂ��傱����ƒu���Ă���܂���B<br>���A�ł��A�������炵�������Ȃ��J�E���^�[��������ǂ�����H�@�`�F�b�N�����I���₦������</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2002年1月24日(木) 21時28分</font>
+<a href="resbbs4@vew_43.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>カウンターはメニューページの上のほうにちょこぉんと置いてありまちゅ。<br>あ、でも、うちからしか見えないカウンターだったらどうしよ？　チェックよろよろ！＞やえすっち</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=45>
-<font color=#6A5ACD>RE:�P�S�O�O�q�b�g�[</font></a>
+<font color=#6A5ACD>RE:１４００ヒットー</font></a>
 <font color=#303030>
 minmin
- ����</font>
- <font size=2>2002�N1��26��(�y) 11��3��</font>
-<a href="resbbs4.cgi?vew=45">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�����́B�B�B�����Ȃ��́B�B�B�B�܂��������B�B</font></ul>
+ さん</font>
+ <font size=2>2002年1月26日(土) 11時3分</font>
+<a href="resbbs4@vew_45.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>無いの。。。見えないの。。。。まっいいか。。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=47>
-<font color=#6A5ACD>RE:�P�S�O�O�q�b�g�[</font></a>
+<font color=#6A5ACD>RE:１４００ヒットー</font></a>
 <font color=#303030>
 minmin
- ����</font>
- <font size=2>2002�N2��6��(��) 21��3��</font>
-<a href="resbbs4.cgi?vew=47">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�J�E���^�[�����I�I�@�ق�</font></ul>
+ さん</font>
+ <font size=2>2002年2月6日(水) 21時3分</font>
+<a href="resbbs4@vew_47.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>カウンター発見！！　ほっ</font></ul>
 <HR>
 </ul>
 </ul>
 </ul>
 <input type=checkbox name=delcode value=46>
-<font color=#6A5ACD>�Q�O�O�O�I�I�I�I�I</font></a>
+<font color=#6A5ACD>２０００！！！！！</font></a>
 <font color=#303030>
-�ǂ�
- ����</font>
- <font size=2>2002�N1��29��(��) 21��33��</font>
+どら
+ さん</font>
+ <font size=2>2002年1月29日(火) 21時33分</font>
 <a href=http://ex-dora.cool.ne.jp/doraindex.html target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=46">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b>�x�C�u���[�h�̊G���ς���ā�i�Oo�O)/</b>�z</font>
-<ul><font size=3>�Q�O�O�O�I�I�I<br>�Q�b�g�����`�B<br><br>�����̃J�E���^�[�͌����܂����ǃ��f�B�A���T�[�`�̕��͌����Ȃ��ł��B<br>�iWin2K+�m�[�g���Z�L�����e�B�j</font></ul>
+<a href="resbbs4@vew_46.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b>ベイブレードの絵が変わって♪（＾o＾)/</b>】</font>
+<ul><font size=3>２０００！！！<br>ゲットっす～。<br><br>ここのカウンターは見えますけどメディアリサーチの方は見えないです。<br>（Win2K+ノートンセキュリティ）</font></ul>
 <HR>
 <input type=checkbox name=delcode value=48>
-<font color=#6A5ACD>RE:�P�S�O�O�q�b�g�[</font></a>
+<font color=#6A5ACD>RE:１４００ヒットー</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N2��8��(��) 1��31��</font>
-<a href="resbbs4.cgi?vew=48">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�������΂炭�A���Ƃ�Ȃ����ǐ����Ă�`�H</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2002年2月8日(金) 1時31分</font>
+<a href="resbbs4@vew_48.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>ここしばらく連絡とれないけど生きてる～？</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=49>
-<font color=#6A5ACD>RE:�P�S�O�O�q�b�g�[</font></a>
+<font color=#6A5ACD>RE:１４００ヒットー</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N2��13��(��) 20��22��</font>
-<a href="resbbs4.cgi?vew=49">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�����������b�i���^�j<br><br>�n���u���[�ŋ߂���Ȃ��Ƃ���Ă�́H�₦�������v<br>��u���[�Ȃ��B�����w�g�w�g�v<br>�n���u����͂���Ƃ��ā��V�삿��[�����v<br>��u�������ȉɂȂ����[�́I�v<br>�n���u�����[�����[�u�[�u�[�v<br>��u���[���A�N���Ȃ񂩏������炢���̂ł́E�E�E�E�v<br>�n���u�E�E�E�E�E�i���j�v</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2002年2月13日(水) 20時22分</font>
+<a href="resbbs4@vew_49.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>先日あった会話（実録）<br><br>ハム「えー最近そんなことやってんの？やえすっち」<br>や「そーなんよ。もうヘトヘト」<br>ハム「それはそれとして♪新作ちょーだい」<br>や「だからんな暇ないっつーの！」<br>ハム「けちーけちーブーブー」<br>や「っつーか、君がなんか書いたらいいのでは・・・・」<br>ハム「・・・・・（汗）」</font></ul>
 <HR>
 </ul>
 </ul>
@@ -237,26 +237,26 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=42>
-<font color=#6A5ACD>�͂��߂܂��ā�</font></a>
+<font color=#6A5ACD>はじめまして♪</font></a>
 <font color=#303030>
-�J���j�V���i
- ����</font>
- <font size=2>2002�N1��24��(��) 0��57��</font>
+カワニシリナ
+ さん</font>
+ <font size=2>2002年1月24日(木) 0時57分</font>
 <a href=http://www5c.biglobe.ne.jp/~spooky/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=42">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�l/�J�b�v���́A<b>�s�p�m�̏��̎q�����ėL�肩����c�B</b>�z</font>
+<a href="resbbs4@vew_42.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる人/カップルは、<b>郭英士の女の子化って有りかしら…。</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�͂��߂܂��Ă���ɂ��́B<br>��������O�ɂ����o�^�����Ă��������܂����A�w�����։����x�̃J���j�V�ł��B<br>���l�E�ł͂��������������̉��l�^�Ȃ̂ɁA�������҂�Ɏ咣�ł���Ƃ��낪�Ȃ��ė҂��������̂ŁA������̃T�C�g����у����O�𔭌������Ƃ��͊����ł����B<br>�܂��ɁA���߂Ă������̂����������I���Ċ����ł��B���肪�Ƃ��������܂�m(__)m<br>�i�����O�̃i�r�o�[���A�����ݒu�������܂����B����Ƃ���낵�����肢�������܂��B<br>������ƍŋߍX�V�����ꂬ�݂ł������G������@�Ɋ撣��܂����B�j</font></ul>
+<ul><br><font size=3>はじめましてこんにちは。<br>先日リングにも仮登録させていただきました、『乙女椿仮屋』のカワニシです。<br>同人界ではけっこう多い女体化ネタなのに、おおっぴらに主張できるところがなくて淋しかったので、こちらのサイトおよびリングを発見したときは感激でした。<br>まさに、求めていたものが見つかった！って感じです。ありがとうございますm(__)m<br>（リングのナビバーも、一昨日設置完了しました。今後ともよろしくお願いいたします。<br>ちょっと最近更新がだれぎみでしたが；これを機に頑張りますっ。）</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=44>
-<font color=#6A5ACD>RE:�͂��߂܂��ā�</font></a>
+<font color=#6A5ACD>RE:はじめまして♪</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N1��24��(��) 21��33��</font>
-<a href="resbbs4.cgi?vew=44">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b></b>�z</font>
-<ul><font size=3>�ǂ����A�͂��߂܂��ăJ���j�V���i�l��<br>����Ȃӂ��Ɍ����Ă�������ƃT�C�g�����Ă݂������������Ŋ������ł���<br>���̓����O�ɂ��o�^���Ă��������Ă�Field of NOD�l�����̉���ʂ̃T�C�g�l�ł���B<br>���ꂩ������̉��ŖG����ǋ����Ă����܂��傤��<br>����ł́`</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2002年1月24日(木) 21時33分</font>
+<a href="resbbs4@vew_44.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b></b>】</font>
+<ul><font size=3>どうも、はじめましてカワニシリナ様♪<br>そんなふうに言ってくださるとサイトつくってみたかいがあるんで嬉しいですっ<br>じつはリングにも登録してくださってるField of NOD様も女体化一般のサイト様ですよ。<br>これからも女体化で萌えを追求していきましょうｖ<br>それでは～</font></ul>
 <HR>
 </ul>
 </dl>
@@ -264,25 +264,25 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=36>
-<font color=#6A5ACD>�����O�ɐV�K�T�C�g�l</font></a>
+<font color=#6A5ACD>リングに新規サイト様</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N1��5��(�y) 0��19��</font>
-<a href="resbbs4.cgi?vew=36">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�H�ו��́A<b>���������Ȃ������J���[</b>�z</font>
+ハム太
+ さん</font>
+ <font size=2>2002年1月5日(土) 0時19分</font>
+<a href="resbbs4@vew_36.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる食べ物は、<b>おいしくなかったカレー</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�ɂ�[�[�[�[���I<br>�t���́H�E�F�u�����O�ɐV�����T�C�g�l���������Ă����������Ⴂ�܂����B<br>�������N�[���I�ŏa���Ă���ł��ăg���C�K���̏��̂��̂ȏ������ڂ��Ă��肷��T�C�g�l�ł��B<br>�E�F�u�����O�𗘗p���Ă��K��Ȃ����Ă��������ˁI</font></ul>
+<ul><br><font size=3>にょーーーーっ！<br>付属の？ウェブリングに新しいサイト様が加入していただいちゃいました。<br>すごくクール！で渋くてそれでいてトライガンの女体ものな小説も載ってたりするサイト様です。<br>ウェブリングを利用してご訪問なさってくださいね！</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=39>
-<font color=#6A5ACD>RE:�����O�ɐV�K�T�C�g�l</font></a>
+<font color=#6A5ACD>RE:リングに新規サイト様</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N1��8��(��) 22��18��</font>
-<a href="resbbs4.cgi?vew=39">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�Ƃ��Ȃ�Ƃ��ۋC�Ȃ��Ƃ����Ă�܂ɁA�����O�ւ̎Q���T�C�g�l���T�T�C�g�ɂ܂łȂ�܂�����B�i�������܂ށi�΁j�j<br>�Q�����Ă����������T�C�g�̃I�[�i�[�l���肪�Ƃ��������܂��B<br>�撣���ĊǗ��������ł��̂Ō��̂ĂȂ��ł��������ˁ`�B�i���Ă����Ō����Ăǂ�����I�H�j</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2002年1月8日(火) 22時18分</font>
+<a href="resbbs4@vew_39.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>とかなんとか呑気なこといってるまに、リングへの参加サイト様が５サイトにまでなりましたよ。（うちも含む（笑））<br>参加してくださったサイトのオーナー様ありがとうございます。<br>頑張って管理するつもりですので見捨てないでくださいね～。（ってここで言ってどうする！？）</font></ul>
 <HR>
 </ul>
 </dl>
@@ -290,25 +290,25 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=37>
-<font color=#6A5ACD>�ǁ[���B</font></a>
+<font color=#6A5ACD>どーも。</font></a>
 <font color=#303030>
-�V���o���c�i���D
- ����</font>
- <font size=2>2002�N1��8��(��) 0��58��</font>
-<a href="resbbs4.cgi?vew=37">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ���E���킳�́A<b>�u�L�����}��2�����A�j��������񂾂��Ăȁv�u�Ӂ[��v</b>�z</font>
+シュバルツＪｒ．
+ さん</font>
+ <font size=2>2002年1月8日(火) 0時58分</font>
+<a href="resbbs4@vew_37.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる情報・うわさは、<b>「キン肉マン2世がアニメ化するんだってな」「ふーん」</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>���N���[���𒸂����u�y�������u���@��܂��ɂ񂫁v�Ǘ��l�A<br>�V���o���c�i���D�ł��B<br>�����A�Ƃ��l�т����˂ĎQ�サ�܂����B<br>�����N�̌��ɂ��Ă̕ԐM���x��Ă��܂��Đ\����Ȃ�!<br>����Ɛ��񉳏������N�ɉ����Ă����Ă��������B<br>�L�����}���ȂǂƂ������ł͌Ñ�̍�i�������Ă��܂��Ă�����̂Łc<br>��l�����Ă���̂ł͂Ȃ����ƐS�z���܂������B<br>�ǂ��A���ꂩ�����낵�����肢�������܂��B<br></font></ul>
+<ul><br><font size=3>去年メールを頂いた「楽しい放置園　んまくにんき」管理人、<br>シュバルツＪｒ．です。<br>ご挨拶とお詫びをかねて参上しました。<br>リンクの件についての返信が遅れてしまって申し訳ない!<br>それと是非乙女リンクに加えておいてください。<br>キン肉マンなどという今では古代の作品を扱ってしまっているもので…<br>一人浮いているのではないかと心配しましたが。<br>どぞ、これからもよろしくお願いいたします。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=38>
-<font color=#6A5ACD>RE:�ǁ[���B</font></a>
+<font color=#6A5ACD>RE:どーも。</font></a>
 <font color=#303030>
-�����n����
- ����</font>
- <font size=2>2002�N1��8��(��) 22��16��</font>
-<a href="resbbs4.cgi?vew=38">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>����ɂ��́A�V���o���c�i������B<br>��܂��ɂ񂫁A�����ł���ˁB���l�݂̂�Ȃ�����ȂɃL���[�g�����Z�N�V�[�ɂȂ��Ăāi�΁j<br>�Ñ�Ȃ�Ă��ƂȂ��ł���`<br>�n���������\�e���r�Ō��Ă܂����B���r���}�X�N�k�n�u�d�I�ł����B</font></ul>
+犬瓦ハム太
+ さん</font>
+ <font size=2>2002年1月8日(火) 22時16分</font>
+<a href="resbbs4@vew_38.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>こんにちは、シュバルツＪｒさん。<br>んまくにんき、凄いですよね。超人のみんながあんなにキュートｏｒセクシーになってて（笑）<br>古代なんてことないですよ～<br>ハム太も結構テレビで見てました。ロビンマスクＬＯＶＥ！でした。</font></ul>
 <HR>
 </ul>
 </dl>
@@ -316,25 +316,25 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=34>
-<font color=#6A5ACD>�}�t</font></a>
+<font color=#6A5ACD>迎春</font></a>
 <font color=#303030>
 minmin
- ����</font>
- <font size=2>2002�N1��1��(��) 2��19��</font>
-<a href="resbbs4.cgi?vew=34">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�H�ו��́A<b>���������B�B���ł񂩂ȁH�@��</b>�z</font>
+ さん</font>
+ <font size=2>2002年1月1日(火) 2時19分</font>
+<a href="resbbs4@vew_34.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる食べ物は、<b>おせちより。。おでんかな？　笑</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�Ђ�����ƍ炭�����̉�<br>�f�G�ȉԑ��ɂȂ�悤�Ɂ@�������̂�т��Ă����ł��ˁ�</font></ul>
+<ul><br><font size=3>ひっそりと咲く乙女の花<br>素敵な花束になるように　ゆっくりのんびり育てたいですね☆</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=35>
-<font color=#6A5ACD>RE:�}�t</font></a>
+<font color=#6A5ACD>RE:迎春</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2002�N1��5��(�y) 0��16��</font>
-<a href="resbbs4.cgi?vew=35">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>��������肨�ł�A�����ł��˂��I<br>�n�����͍��N�������炵���������͐H�ׂĂ��܂���B<br>�ł��Z�u���C���u���̂��ł�͐H�ׂ܂����E�E�E�E<br>�₦������͖Z�����Ƌ���ł邯�ǁA���̃T�C�g�͍��N���������̂�т��ĂĂ�������ł��B<br>�{�N����낵�����肢���܂��`</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2002年1月5日(土) 0時16分</font>
+<a href="resbbs4@vew_35.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>おせちよりおでん、いいですねっ！<br>ハム太は今年おせちらしいおせちは食べていません。<br>でもセブンイレブンのおでんは食べました・・・・<br>やえすちんは忙しいと叫んでるけど、このサイトは今年もゆっくりのんびり育てていくつもりです。<br>本年もよろしくお願いします～</font></ul>
 <HR>
 </ul>
 </dl>
@@ -342,62 +342,62 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=33>
-<font color=#6A5ACD>�����点</font></a>
+<font color=#6A5ACD>おしらせ</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2001�N12��29��(�y) 10��36��</font>
-<a href="resbbs4.cgi?vew=33">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ���E���킳�́A<b>�R�~�P</b>�z</font>
+ハム太
+ さん</font>
+ <font size=2>2001年12月29日(土) 10時36分</font>
+<a href="resbbs4@vew_33.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる情報・うわさは、<b>コミケ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>��ʃ����N�Ƀ{�C�X�̊ʋl�H��l��o�^���܂����`<br>�ł͍s���Ă��܂��i���ցj</font></ul>
+<ul><br><font size=3>一般リンクにボイスの缶詰工場様を登録しました～<br>では行ってきます（会場へ）</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=23>
-<font color=#6A5ACD>���Ȃ����̃T�C�L��SS�ł���</font></a>
+<font color=#6A5ACD>こないだのサイキのSSですが</font></a>
 <font color=#303030>
-<a href=mailto:midou@pop12.odn.ne.jp>������</a>
- ����</font>
- <font size=2>2001�N12��19��(��) 0��17��</font>
+<a href=mailto:midou@pop12.odn.ne.jp>巳堂昴</a>
+ さん</font>
+ <font size=2>2001年12月19日(水) 0時17分</font>
 <a href=http://mito.cool.ne.jp/vulgar target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=23">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�H�ו��́A<b>�_�c���{���̃}�h���[�k</b>�z</font>
+<a href="resbbs4@vew_23.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる食べ物は、<b>神田精養軒のマドレーヌ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�Ǘ��l�ρ�<br>�������J�I���f�g�E�������܂���<br>���͂��肢�������ł����A���Ȃ����̃T�C�L��SS�������ʓ|�łȂ���΁A<br>���ɂ̕��Ɉڂ��Ă��������Ȃ��ł��傤���H<br>���̌���������獡�x�̓��[���ő��点�Ă��������܂��̂ŁB<br>�c�����ɂȂ邩�͂킩��Ȃ��ł����ǁB<br>�l�^�I�ɂ́A�����ւ̂��J�����Ď��ŃK�f�X����Ƃ��A<br>��Œ����Ƃ������Ɂ{�G�~���I(�_�[�N)�Ƃ��c�B<br>�w���̂Ȃ��x���₰�ȃl�^�Ȃ�߂��������ς�(���)<br>���ꂾ���ɑ��̂��������ɂ����ł��傤�c�A���́B<br>����A�����I�ɂ́A���̂���b�Ƃ��g�Ƃ��A�D���ł����ǂˁB<br>�В��ɂ͎�����Ȃ��A���Ă����ŁB<br>�ł́A��낵�����肢���܂��B</font></ul>
+<ul><br><font size=3>管理人ｻﾏ＞<br>正式公開オメデトウございます♪<br>実はお願いがあるんですが、こないだのサイキのSSもしご面倒でなければ、<br>文庫の方に移していただけないでしょうか？<br>あの後を書いたら今度はメールで送らせていただきますので。<br>…何時になるかはわかんないですけど。<br>ネタ的には、部下へのご褒美って事でガデスちんとか、<br>趣味で調教とかそこに＋エミリオ(ダーク)とか…。<br>『愛のない』いやげなネタならめっさいっぱい(苦笑)<br>それだけに他のかた続けにくいでしょう…アレは。<br>いや、自分的には、愛のある話とかＨとか、好きですけどね。<br>社長には似合わない、ってだけで。<br>では、よろしくお願いします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=24>
-<font color=#6A5ACD>RE:���Ȃ����̃T�C�L��SS�ł���</font></a>
+<font color=#6A5ACD>RE:こないだのサイキのSSですが</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2001�N12��19��(��) 8��54��</font>
-<a href="resbbs4.cgi?vew=24">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��Ƃ́A<b>�����コ��</b>�z</font>
-<ul><font size=3>�ǂ��ǂ��A���z�����������Ă��肪�Ƃ��������܂��B<br>�r�r�̂ق��A���x�̍X�V�̎��Ɉڂ��Ƃ��܂��ˁB<br>���A�G�~���I�܂ōU�ߑ��ŎQ��I�H�@���́[�A����Ȃ̎���������ō��ł��I�@�r�o�В��I<br><br><br>�܂��X�^�[�g�����΂���ł����ς������ς��ȃT�C�g�ł����ǁA���ꂩ�����낵�����肢���܂��B</font></ul>
+やえす
+ さん</font>
+ <font size=2>2001年12月19日(水) 8時54分</font>
+<a href="resbbs4@vew_24.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作家は、<b>巳堂昴さま</b>】</font>
+<ul><font size=3>どもども、お越しいただいてありがとうございます。<br>ＳＳのほう、今度の更新の時に移しときますね。<br>え、エミリオまで攻め側で参戦！？　くはー、そんなの実現したら最高です！　ビバ社長！<br><br><br>まだスタートしたばかりでいっぱいいっぱいなサイトですけど、これからもよろしくお願いします。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=31>
-<font color=#6A5ACD>RE:���Ȃ����̃T�C�L��SS�ł���</font></a>
+<font color=#6A5ACD>RE:こないだのサイキのSSですが</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2001�N12��27��(��) 23��31��</font>
-<a href="resbbs4.cgi?vew=31">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>�́[���B�����[�̂ق��ł��������Ă���i�A���ɂ̂ق��Ɉڂ��܂������B<br>�E�H���l�ɖڂ�t�����Ă��܂����ȏ�A�o�[���N�A�����ł͂��܂Ȃ��̂ł��ˁc�c�ǂ��ǂ��c�c�i���łɃ��C�h�ɂ���Ă邾���ł������Ƃ���Ȃ��ł��ˁj</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2001年12月27日(木) 23時31分</font>
+<a href="resbbs4@vew_31.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>はーい。リレーのほうでいただいてた作品、文庫のほうに移しましたっ。<br>ウォン様に目を付けられてしまった以上、バーン君、ただではすまないのですね……どきどき……（すでにメイドにされてるだけでただごとじゃないですね）</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=32>
-<font color=#6A5ACD>���C�h�ǂ��납</font></a>
+<font color=#6A5ACD>メイドどころか</font></a>
 <font color=#303030>
-<a href=mailto:midou@pop12.odn.ne.jp>������</a>
- ����</font>
- <font size=2>2001�N12��28��(��) 0��33��</font>
+<a href=mailto:midou@pop12.odn.ne.jp>巳堂昴</a>
+ さん</font>
+ <font size=2>2001年12月28日(金) 0時33分</font>
 <a href=http://mito.cool.ne.jp/vulgar target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=32">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ���E���킳�́A<b>�s�N�~���̈��̉̂�CD</b>�z</font>
-<ul><font size=3>���̉����܂ł���Ă܂����B<br>��`���ǂ�ł���������Ƃ���������̂������������Ă܂���A�В��B<br><br>���萔�������������܂����A�L��������܂��B<br>�����́c���N�ł����ˁB�C���ɂ��҂�����������ƍK���ł��B<br></font></ul>
+<a href="resbbs4@vew_32.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる情報・うわさは、<b>ピクミンの愛の歌のCD</b>】</font>
+<ul><font size=3>肉体改造までされてますが。<br>よ～く読んでいただけるとあっさりものすごい事言ってますよ、社長。<br><br>お手数おかけいたしました、有難うございます。<br>続きは…来年ですかね。気長にお待ちいただけると幸いです。<br></font></ul>
 <HR>
 </ul>
 </ul>
@@ -406,25 +406,25 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=29>
-<font color=#6A5ACD>�g�b�v�G�u���Ă݂܂����`</font></a>
+<font color=#6A5ACD>トップ絵置いてみまちた～</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2001�N12��23��(��) 19��39��</font>
-<a href="resbbs4.cgi?vew=29">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>���Ă�</b>�z</font>
+ハム太
+ さん</font>
+ <font size=2>2001年12月23日(日) 19時39分</font>
+<a href="resbbs4@vew_29.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>日焼け</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�}�u�_�`�̂���q�����ɕ`���Ă�����������W���[���C�h���񃔃@�[�W�������g�b�v�ɏ���܂������<br><br>�������������Ɋ댯���u����i��i�W���R�[�i�[�j�Ɉړ����邩�������`�ł��B</font></ul>
+<ul><br><font size=3>マブダチのくり子ちゃんに描いてもらった島村ジョーメイドさんヴァージョンをトップに飾りましたよ♪<br><br>落ち着いた頃に危険物置き場（作品展示コーナー）に移動するかもかも～です。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=30>
-<font color=#6A5ACD>RE:�g�b�v�G�u���Ă݂܂����`</font></a>
+<font color=#6A5ACD>RE:トップ絵置いてみまちた～</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2001�N12��26��(��) 23��31��</font>
-<a href="resbbs4.cgi?vew=30">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b></b>�z</font>
-<ul><font size=3>����ǂ̓N���s�J��̓o��ł��B<br><br>���łɁA�����N�y�[�W�������B<br>�Ƃ��Ƃ������̃T�C�g�ɂ��o�i�[���ł����̂ł��B</font></ul>
+やえす
+ さん</font>
+ <font size=2>2001年12月26日(水) 23時31分</font>
+<a href="resbbs4@vew_30.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b></b>】</font>
+<ul><font size=3>こんどはクラピカ嬢の登場です。<br><br>ついでに、リンクページも整備。<br>とうとううちのサイトにもバナーができたのです。</font></ul>
 <HR>
 </ul>
 </dl>
@@ -432,66 +432,66 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=20>
-<font color=#6A5ACD>�������J�I</font></a>
+<font color=#6A5ACD>正式公開！</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2001�N12��16��(��) 14��38��</font>
-<a href="resbbs4.cgi?vew=20">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b></b>�z</font>
+やえす
+ さん</font>
+ <font size=2>2001年12月16日(日) 14時38分</font>
+<a href="resbbs4@vew_20.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�X�V�ӔC�҂̃n������������̓��֍��؈�T�Ԃ̃o�J���X�֏o�|���Ă��܂������߁A��������T�ԂЂƂ�Ŏ₵���Ǘ��l�Ɩ������Ȃ����ƂɂȂ�܂����B�ۂ[��B<br>�c�c�n������A�͂Ԃ肪�����̂��B<br>�ꉞ���̂��t���������Đ������J�Ƃ��܂����ǁA�����T�C�g�ɂ����o�^�Ȃ�ŁA�܂��܂��Ђ�����ƉB��Ə�Ԃł����A��낵�����肢���܂��B</font></ul>
+<ul><br><font size=3>更新責任者のハム太っちが南の島へ豪華一週間のバカンスへ出掛けてしまったため、向こう一週間ひとりで寂しく管理人業務をこなすことになりました。ぽつーん。<br>……ハムちん、はぶりがええのぉ。<br>一応きのう付けをもって正式公開としますけど、検索サイトにも未登録なんで、まだまだひっそりと隠れ家状態ですが、よろしくお願いします。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=21>
-<font color=#6A5ACD>RE:�������J�I</font></a>
+<font color=#6A5ACD>RE:正式公開！</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2001�N12��16��(��) 22��45��</font>
-<a href="resbbs4.cgi?vew=21">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�}���L���̗t���ς��񏗑̉��A�������Ɠ����I</b>�z</font>
-<ul><font size=3>���܂����̓��Ȃ񂾂낤�ȁc�c<br>�܁A�K���[�_�q����Ă��Ƃł��傢�S�z���Ă����ǁA�������Ȃ������悤�ŗǂ������ǂ������B</font></ul>
+やえす
+ さん</font>
+ <font size=2>2001年12月16日(日) 22時45分</font>
+<a href="resbbs4@vew_21.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>マンキンの葉っぱたん女体化、いがいと難しいよ！</b>】</font>
+<ul><font size=3>いまごろ南の島なんだろうな……<br>ま、ガルーダ航空ってことでちょい心配してたけど、何事もなかったようで良かった良かった。</font></ul>
 <HR>
 <input type=checkbox name=delcode value=22>
-<font color=#6A5ACD>RE:�������J�I</font></a>
+<font color=#6A5ACD>RE:正式公開！</font></a>
 <font color=#303030>
-������������
- ����</font>
- <font size=2>2001�N12��18��(��) 19��51��</font>
-<a href="resbbs4.cgi?vew=22">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��Ƃ́A<b>���d�F����</b>�z</font>
-<ul><font size=3>���ӂ��@�ɂ₯���ςȂ��ł�<br>�Ȃ�đf�G�ȃy�[�W�Ȃ�ł��傤��<br>���ځX�@�������<br>�����[�������f�G<br>�f�G�߂��ā@�ɂ���Ă܂���<br><br>�����N��ւ��ז�����̂��E�E�ǂ��ǂ�<br>�����ŋA���ė���Ȃ��C�����Ă��܂�����</font></ul>
+ｍｉｎｍｉｎ
+ さん</font>
+ <font size=2>2001年12月18日(火) 19時51分</font>
+<a href="resbbs4@vew_22.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作家は、<b>八重洲さん</b>】</font>
+<ul><font size=3>うふっ　にやけっぱなしです<br>なんて素敵なページなんでしょう☆<br>お目々　らんらんらん☆<br>リレー小説も素敵<br>素敵過ぎて　にやついてます☆<br><br>リンク先へお邪魔するのも・・どきどき<br>ただで帰って来れない気がしていますぅ★</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=25>
-<font color=#6A5ACD>RE:�������J�I</font></a>
+<font color=#6A5ACD>RE:正式公開！</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2001�N12��19��(��) 8��58��</font>
-<a href="resbbs4.cgi?vew=25">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ���E���킳�́A<b>�{�C�X�̊ʋl�A�~�R�~�֏o���I�̂��킳</b>�z</font>
-<ul><font size=3>�������݂��肪�Ɓ[�������������������<br>�Ȃ񂩋����ɂ����҂��Ă��܂��Ă��߂�ˁB<br>�����̂ق��͌��̃A�j���Ƃ��R�~�b�N�m���ĂȂ��Ɩʔ����Ȃ����������ǁA�悩������܂��V�тɂ��Ă��������B<br>����܂��`���b�g�ŉ�܂��傤�`�`</font></ul>
+やえす
+ さん</font>
+ <font size=2>2001年12月19日(水) 8時58分</font>
+<a href="resbbs4@vew_25.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる情報・うわさは、<b>ボイスの缶詰、冬コミへ出撃！のうわさ</b>】</font>
+<ul><font size=3>書き込みありがとー＞ｍｉｎｍｉｎちゃん<br>なんか強引にご招待してしまってごめんね。<br>小説のほうは元のアニメとかコミック知ってないと面白くないかもだけど、よかったらまた遊びにきてください。<br>じゃまたチャットで会いましょう～～</font></ul>
 <HR>
 </ul>
 <input type=checkbox name=delcode value=26>
-<font color=#6A5ACD>RE:�������J�I</font></a>
+<font color=#6A5ACD>RE:正式公開！</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2001�N12��19��(��) 9��3��</font>
-<a href="resbbs4.cgi?vew=26">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�H�ו��́A<b>���������I�����W�e�B�[</b>�z</font>
-<ul><font size=3>�Ȃ�ƃn���������ɑ����Ă₦���܂ŁA���o�������邱�ƂɂȂ��Ă��܂��܂����B<br>�T�����炢�܂ł��ł����ł��B<br>���΂���p�i�ꎮ�͂����Ă����ǁA���ق̂ق��d�g���邩�ȁE�E�E�B�i�ƒn�ւ����Ă܂���܂��j</font></ul>
+やえす
+ さん</font>
+ <font size=2>2001年12月19日(水) 9時3分</font>
+<a href="resbbs4@vew_26.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる食べ物は、<b>おいしいオレンジティー</b>】</font>
+<ul><font size=3>なんとハム太ちゃんに続いてやえすまで、お出かけすることになってしまいました。<br>週末くらいまでおでかけです。<br>もばいる用品一式はもってくけど、旅館のほう電波入るかな・・・。（僻地へいってまいります）</font></ul>
 <HR>
 <input type=checkbox name=delcode value=28>
-<font color=#6A5ACD>RE:�������J�I</font></a>
+<font color=#6A5ACD>RE:正式公開！</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2001�N12��22��(�y) 11��36��</font>
-<a href="resbbs4.cgi?vew=28">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�H�ו��́A<b>���[�X�J�v���R</b>�z</font>
-<ul><font size=3>�ɂ�[!<br>�n�����ł��B<br>��̓�����A���Ă��܂���!<br>�������͉Ăł���!�@�^���Ԃɓ��Ă����ċA���Ă��܂����B<br>�X�L�[�Ă����Ⴀ�[��܂��񂱂Ƃ�A�I�z�z�z�B<br><br>�������͔т������Ă��܂��čō��ł�����B</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2001年12月22日(土) 11時36分</font>
+<a href="resbbs4@vew_28.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる食べ物は、<b>ムースカプリコ</b>】</font>
+<ul><font size=3>によー!<br>ハム太です。<br>南の島から帰ってきました!<br>向こうは夏ですよ!　真っ赤に日焼けして帰ってきました。<br>スキー焼けじゃあーりませんことよ、オホホホ。<br><br>向こうは飯が安くてうまくて最高でしたよ。</font></ul>
 <HR>
 </ul>
 </dl>
@@ -499,36 +499,36 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=14>
-<font color=#6A5ACD>�͂��߂܂���</font></a>
+<font color=#6A5ACD>はじめまして</font></a>
 <font color=#303030>
-���q
- ����</font>
- <font size=2>2001�N12��15��(�y) 12��28��</font>
+竜子
+ さん</font>
+ <font size=2>2001年12月15日(土) 12時28分</font>
 <a href=http://users.goo.ne.jp/nyogotou/ target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=14">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b></b>�z</font>
+<a href="resbbs4@vew_14.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>����ɂ���A���쓇�̗��q�ł��B<br>���Ԏ��x���Ȃ��Ă��܂��Ă������킯����܂��񁄁�<br>�����N�̕��A���肪�Ƃ��������܂�����<br>�L�����N�^�[�̏����A�ǂ̃W�������ł����邱�Ƃ͒m���Ă܂������A<br>�������Ė{���ɂ��������̂�ڂɂ���ƁA���߂ĉ����̗͂͂������ȁ`�Ɓi�΁j<br>�����ĐS�����ł��������肪�Ƃ��������܂���<br>����ς菗�����ĂȂ񂩁A�y�����ł���˂�<br>���͂ǂ��������Ă����ƁA���̎q���j�����Ċ撣��̂��D���ł��`����<br>���ꂪ�c�񂾌`�ł���ȃT�C�g����Ă��܂��āE�E�E����<br>�ł��A�����������u���C�b�p�C�����������Ċ������ł��B<br>����ł́A���ꂩ����^�c�撣���Ă��������B<br></font></ul>
+<ul><br><font size=3>こんにちわ、女護島の竜子です。<br>お返事遅くなってしまってもうしわけありません＞＜<br>リンクの方、ありがとうございましたｖ<br>キャラクターの女化、どのジャンルでもあることは知ってましたが、<br>こうして本当にそういうのを目にすると、改めて乙女の力はすごいな～と（笑）<br>そして心強いですヨｖありがとうございますｖ<br>やっぱり女装ってなんか、楽しいですよねｖ<br>私はどっちかっていうと、女の子が男装して頑張るのが好きです～ｖｖ<br>それが歪んだ形であんなサイト作ってしまって・・・＞＜<br>でも、そういう同志がイッパイいらっしゃって嬉しいです。<br>それでは、これからも運営頑張ってください。<br></font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=16>
-<font color=#6A5ACD>RE:�͂��߂܂���</font></a>
+<font color=#6A5ACD>RE:はじめまして</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2001�N12��15��(�y) 15��22��</font>
-<a href="resbbs4.cgi?vew=16">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�N���X�}�X</b>�z</font>
-<ul><font size=3>��������Ⴂ�܂��A���q�l�I<br>���̎q�̒j���I<br>���͂���A�n�����̗���Ƃ��������c�{�ł��B�i���Ă��������[���������ǁj<br>���������ǁA�P�[�u���s�u�ł���Ă�x���K�N�G���ł��B�I�X�J���l�͎�����������Ēm���Ă邯�ǁA�j�����Đ��̉B���Ă�Ԃ�����̌N�����p�^�[�����܂��G���I<br>���āA�����Œj���G��������Ă������̂��B<br>�Ƃ����킯�ł܂��̂��z�������҂����Ă���܂��`</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2001年12月15日(土) 15時22分</font>
+<a href="resbbs4@vew_16.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>クリスマス</b>】</font>
+<ul><font size=3>いらっしゃいませ、竜子様！<br>女の子の男装！<br>じつはそれ、ハム太の裏趣味というか裏ツボです。（ってこっちも充分裏だけど）<br>王道だけど、ケーブルＴＶでやってるベル薔薇萌えでち。オスカル様は周りも女だって知ってるけど、男装して正体隠してる花ざかりの君たちパターンがまた萌え！<br>って、ここで男装萌えを語っていいものやら。<br>というわけでまたのお越しをお待ちしております～</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=27>
-<font color=#6A5ACD>�j�������Â�</font></a>
+<font color=#6A5ACD>男装もえつづき</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2001�N12��22��(�y) 11��33��</font>
-<a href="resbbs4.cgi?vew=27">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ��i�́A<b>�n���[�|�b�^�[</b>�z</font>
-<ul><font size=3>�ɂ�[��!<br>����Ɍ�点�Ă��������܂��I<br><br>�j�����m�͂₨�����̃M���M���ȃV�`���G�[�V�������D�݂ł���!<br>�j���������̎q�Ƀh�L�h�L���Ă��܂��āu�����ăz���Ȃ�?!�v�Ƌ�Y����j�̎q�Ƃ����ݒ肪�x���[�D�݃l�[�B<br><br>���āA�֌W�Ȃ����b���Ă�Ƃ₦������ɓ{������!<br>��ł�`</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2001年12月22日(土) 11時33分</font>
+<a href="resbbs4@vew_27.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる作品は、<b>ハリーポッター</b>】</font>
+<ul><font size=3>にょーっ!<br>さらに語らせていただきます！<br><br>男装モノはやおいものギリギリなシチュエーションが好みですね!<br>男装した女の子にドキドキしてしまって「俺ってホモなの?!」と苦悩する男の子という設定がベリー好みネー。<br><br>って、関係ない長話してるとやえすさんに怒られるわっ!<br>んでわ～</font></ul>
 <HR>
 </ul>
 </ul>
@@ -537,26 +537,26 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=18>
-<font color=#6A5ACD>����ɂ��͂�</font></a>
+<font color=#6A5ACD>こんにちはｖ</font></a>
 <font color=#303030>
-<a href=mailto:uracha@anet.ne.jp>�������s�q</a>
- ����</font>
- <font size=2>2001�N12��16��(��) 10��51��</font>
+<a href=mailto:uracha@anet.ne.jp>魚月沙都子</a>
+ さん</font>
+ <font size=2>2001年12月16日(日) 10時51分</font>
 <a href=http://www.st.sakura.ne.jp/~uracha/index.html target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=18">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>++++</b>�z</font>
+<a href="resbbs4@vew_18.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>++++</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>����ɂ��́A�V���ǂ܂��Ă��������܂�����<br>�i�c�O�Ȃ��烌�c�S�[�͒m��Ȃ��̂ł����܁j�����009�̂ق�����<br>�V�}�����͌Ăтɂ������Ă̂��ō��ɂ����ł��ˁI�v�킸���΂��܂�����<br>�������i�j���Ƃ�́j�W�F�b�g���o�i�΁j�f�G�ł��`��<br>�C�����������ł��ˁI<br>�����āA����ς�������u�ł��傤���I�I�����΂������I<br>���������ʔ��������ł��B<br>009���ĉ����[���ł��ˁ`�`�B<br><br>���A�����[�����̕����q�ǂ����Ă��������܂����`��<br>����ς�W���[�ł����ˁi�΁j<br>���q�����W���[�A�����ł�vv<br><br>�ł͂ł́A�܂����ז������Ă��������܂��`��</font></ul>
+<ul><br><font size=3>こんにちは、新作を読ませていただきましたｖ<br>（残念ながらレツゴーは知らないのでした涙）それで009のほうをｖ<br>シマムラは呼びにくいってのが最高にいいですね！思わず爆笑しましたｖ<br>しかも（男日照りの）ジェットが姉（笑）素敵です～ｖ<br>イワンもいいですね！<br>そして、やっぱり加速装置でしょうか！！もう笑いすぎ！<br>すっごく面白かったです。<br>009って奥が深いですね～～。<br><br>あ、リレー小説の方も拝読させていただきました～ｖ<br>やっぱりジョーですかね（笑）<br>女子高生ジョー、可愛いですvv<br><br>ではでは、またお邪魔させていただきます～ｖ</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=19>
-<font color=#6A5ACD>RE:����ɂ��͂�</font></a>
+<font color=#6A5ACD>RE:こんにちはｖ</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2001�N12��16��(��) 14��29��</font>
-<a href="resbbs4.cgi?vew=19">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�Ȃ񂾂낤</b>�z</font>
-<ul><font size=3>�����z�ǂ������肪�Ƃ��������܂��`<br>�V���f�����̘b�́A�Ȃ񂩂O�O�Q��O�O�S�ɋC�̓łȘb�ɂȂ��Ă��܂��܂����c�c�B<br>�}���G���������肾������ł����A���������S���������͂��̃n�����񂪍��O���S���Ă��܂��܂����B�i�΁j<br>�܂��R���e���c�����Ȃ����ȁA�ƌ����T�C�g�ւ̓o�^�ɂ��܂������ݐ؂�Ȃ����r���[�ȏ�Ԃł����A�܂��̂��z�������҂����Ă܂��ˁB<br>�i�Ƃ������A����ǂ͂�����ւ��ז����܂��ˁj</font></ul>
+やえす
+ さん</font>
+ <font size=2>2001年12月16日(日) 14時29分</font>
+<a href="resbbs4@vew_19.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>なんだろう</b>】</font>
+<ul><font size=3>ご感想どうもありがとうございます～<br>シンデレラの話は、なんか００２や００４に気の毒な話になってしまいました……。<br>挿し絵をいれるつもりだったんですが、おえかき担当だったはずのハムちんが国外逃亡してしまいました。（笑）<br>まだコンテンツが少ないかな、と検索サイトへの登録にいまいち踏み切れない中途半端な状態ですが、またのお越しをお待ちしてますね。<br>（というか、こんどはそちらへお邪魔しますね）</font></ul>
 <HR>
 </ul>
 </dl>
@@ -564,26 +564,26 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=15>
-<font color=#6A5ACD>�����N�̂��񍐂�</font></a>
+<font color=#6A5ACD>リンクのご報告ｖ</font></a>
 <font color=#303030>
-<a href=mailto:uracha@anet.ne.jp>�������s�q</a>
- ����</font>
- <font size=2>2001�N12��15��(�y) 14��50��</font>
+<a href=mailto:uracha@anet.ne.jp>魚月沙都子</a>
+ さん</font>
+ <font size=2>2001年12月15日(土) 14時50分</font>
 <a href=http://www.st.sakura.ne.jp/~uracha/index.html target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=15">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�P�[�L</b>�z</font>
+<a href="resbbs4@vew_15.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>ケーキ</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�n��������A�₦������A����ɂ��͂�<br>�{�������N��Ƃ����܂��āA�����N�̕��𒣂点�Ă��������܂����B<br>�����Ԃ̂��鎞�ɂł��A���m�F����������΍K���ł��B<br>�Љ������������������ڂȂ�Ő\����Ȃ��ł��i���j���A�������������������Ƃ���Ȃǂ���܂�����A�ǂ����������Ȃ�����������Ă��������܂��B<br>��낵�����肢���܂��`��<br><br>����Ƃ��撣���Ă��������I<br>�܂��V���ȏ��̉��������y���݂ɂ��Ă��܂�vv</font></ul>
+<ul><br><font size=3>ハム太さん、やえすさん、こんにちはｖ<br>本日リンク作業をしまして、リンクの方を張らせていただきました。<br>お時間のある時にでも、ご確認いただければ幸いです。<br>紹介文がすっごくあっさり目なんで申し訳ないです（汗）が、何か直した方がいいところなどありましたら、どうぞご遠慮なくおっしゃってくださいませ。<br>よろしくお願いします～ｖ<br><br>今後とも頑張ってください！<br>また新たな女体化小説を楽しみにしていますvv</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=17>
-<font color=#6A5ACD>RE:�����N�̂��񍐂�</font></a>
+<font color=#6A5ACD>RE:リンクのご報告ｖ</font></a>
 <font color=#303030>
-�n����
- ����</font>
- <font size=2>2001�N12��15��(�y) 15��25��</font>
-<a href="resbbs4.cgi?vew=17">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鉽���́A<b>�{���̂���I</b>�z</font>
-<ul><font size=3>����`�����N���肪�Ƃ��������܂����I�I<br>��������ڂ��Ȃ�ĂƂ�ł��Ȃ��ł����B����܂肱���Ă�Љ��Ƃ��q���񂪂Ђ����Ⴄ��������Ȃ����E�E�E�E<br>���A�{���₦�������̏�����{�ǉ����܂����I<br>���āA���ꏗ�̂���Ȃ������E�E�E�E�E�E</font></ul>
+ハム太
+ さん</font>
+ <font size=2>2001年12月15日(土) 15時25分</font>
+<a href="resbbs4@vew_17.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる何かは、<b>本日のおやつ！</b>】</font>
+<ul><font size=3>うわ～リンクありがとうございますっ！！<br>あっさり目だなんてとんでもないですっ。あんまりこってり紹介するとお客さんがひいちゃうかもしれないし・・・・<br>あ、本日やえすっちの小説一本追加しました！<br>って、これ女体じゃないじゃん・・・・・・</font></ul>
 <HR>
 </ul>
 </dl>
@@ -591,56 +591,56 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=13>
-<font color=#6A5ACD>����Ȃ��j���A�f�G�����ł��I</font></a>
+<font color=#6A5ACD>こんなお祝い、素敵すぎです！</font></a>
 <font color=#303030>
-�₦��
- ����</font>
- <font size=2>2001�N12��14��(��) 1��42��</font>
-<a href="resbbs4.cgi?vew=13">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�l/�J�b�v���́A<b>���C�h����ȃo�[��</b>�z</font>
+やえす
+ さん</font>
+ <font size=2>2001年12月14日(金) 1時42分</font>
+<a href="resbbs4@vew_13.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる人/カップルは、<b>メイドさんなバーン</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�悤�����A���点���܂���������B<br>���āA���j���̕i���A�i���B���́[�I�@�G���i�R���j�܂��[�I<br>�T�C�L�b�N�t�H�[�X�Ȃ番����܂���[�A�����S���B<br>���G�����̉ߋ����O�ŁA�Ƃ��邩���̕`���ꂽ���̎q�G�~���I�Ȃ�Ă̂��B<br>�Ƃ����킯�ŁA������]�̂��̂P�ł��I<br>���Ă������A�В����낷���I�i�΁j<br><br>&gt; �E�B�U�[�X�n�[���j�[R<br>�i�b�c�N�ł��ˁB<br>�ނ̏��������������T�C�g�l�ɂ��S�����肪�����ŁA�߁X�����N�W�ɒǉ��ł��邩���B</font></ul>
+<ul><br><font size=3>ようこそ、いらせらりませ巳堂さん。<br>って、お祝いの品が、品が。くはー！　萌え（燃え）ますー！<br>サイキックフォースなら分かりますよー、ご安心を。<br>お絵かき板の過去ログで、とあるかたの描かれた女の子エミリオなんてのも。<br>というわけで、続き希望のその１です！<br>っていうか、社長えろすぎ！（笑）<br><br>&gt; ウィザースハーモニーR<br>ナッツ君ですね。<br>彼の女性化を扱ったサイト様にも心当たりがあるんで、近々リンク集に追加できるかも。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=12>
-<font color=#6A5ACD>�ǂ����ǂ�����</font></a>
+<font color=#6A5ACD>どうもどうも♪</font></a>
 <font color=#303030>
-<a href=mailto:midou@pop12.odn.ne.jp>������</a>
- ����</font>
- <font size=2>2001�N12��14��(��) 0��24��</font>
+<a href=mailto:midou@pop12.odn.ne.jp>巳堂昴</a>
+ さん</font>
+ <font size=2>2001年12月14日(金) 0時24分</font>
 <a href=http://mito.cool.ne.jp/vulgar target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=12">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b>�E�B�U�[�X�n�[���j�[R�IPS�̃Q�[���ł����B���Ŏ�l�����̎q�ɂȂ����Ⴂ�܂��I(�������j�Ƃ�END�L��)</b>�z</font>
+<a href="resbbs4@vew_12.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b>ウィザースハーモニーR！PSのゲームですが隠しで主人公女の子になっちゃいます！(しかも男とのEND有り)</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�����N�L��������܂��A�V���Ǘ��l�����ł��B<br>���j������ƌ����Ă͂Ȃ�ł����ASS�̃c���[�ɃJ�L�R�����Ē����܂����̂�<br>��������������΍K���ł��B<br><br>���Č������A������������T�C�L�b�N�t�H�[�X���T�C�L�b�N�t�H�[�X2012��<br>�m��Ȃ�������ǂ����悤(�ꊾ)�B<br>�܁A����Ƃ����낵�����肢�������܂��B�ł́B</font></ul>
+<ul><br><font size=3>リンク有難うございます、天獄管理人巳堂です。<br>お祝い代わりと言ってはなんですが、SSのツリーにカキコさせて頂きましたので<br>ご覧いただければ幸いです。<br><br>って言うか、もしお二方がサイキックフォースもサイキックフォース2012も<br>知らなかったらどうしよう(滝汗)。<br>ま、今後とも一つよろしくお願いいたします。では。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=10>
-<font color=#6A5ACD>�j�I�@�n��</font></a>
+<font color=#6A5ACD>祝！　始動</font></a>
 <font color=#303030>
-�����n����
- ����</font>
- <font size=2>2001�N12��13��(��) 1��32��</font>
-<a href="resbbs4.cgi?vew=10">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b></b>�z</font>
+犬瓦ハム太
+ さん</font>
+ <font size=2>2001年12月13日(木) 1時32分</font>
+<a href="resbbs4@vew_10.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b></b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�ɂ�[��A���ɂ����܂ł��܂����ˁ`�I<br>����`�A���̖G���G���Ȃ킽���Ƃ��Ă͂����Ƃ�肽������<br>���ƂȂ�ŁA���������ł���B<br>��R�̏��̖G���Ȑl������悤�Ȋ����ȃy�[�W�ɂ������ł��ˁI<br><br>�����₦��<br>�����ꂳ�܂ł��`�I�I<br>����html�����Ȃ��΂�����ɂ��Ȃ�܂������ςȂ���<br>�\����Ȃ������`�B����ɂ��Ă��܂���A�A�j�L�B<br>���ꂩ��A���������o���Ă���΂��ŁB<br>�₦�������̃}���L���̂r�r�ǂ݂����ȁ`�B</font></ul>
+<ul><br><font size=3>にゃーん、ついにここまできましたね～！<br>いや～、女体萌え萌えなわたしとしてはずっとやりたかった<br>ことなんで、嬉しすぎですわ。<br>沢山の女体萌えな人が来るような活発なページにしたいですね！<br><br>ｔｏやえす<br>おつかれさまです～！！<br>私がhtml書けないばっかりにかなりまかしっぱなしで<br>申し訳ないっす～。頼りにしていますよ、アニキ。<br>これから、こっちも覚えてがんばるんで。<br>やえすっちのマンキンのＳＳ読みたいな～。</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=11>
-<font color=#6A5ACD>RE:�j�I�@�n��</font></a>
+<font color=#6A5ACD>RE:祝！　始動</font></a>
 <font color=#303030>
-���b�V���[
- ����</font>
- <font size=2>2001�N12��13��(��) 17��51��</font>
-<a href="resbbs4.cgi?vew=11">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b></b>�z</font>
-<ul><font size=3>�����[���B��̃`���b�g���k��A�A�b�v���Ƃ������B</font></ul>
+ムッシュー
+ さん</font>
+ <font size=2>2001年12月13日(木) 17時51分</font>
+<a href="resbbs4@vew_11.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b></b>】</font>
+<ul><font size=3>ういーす。例のチャット座談会、アップしといたよん。</font></ul>
 <HR>
 </ul>
 </dl>
@@ -648,32 +648,32 @@ minmin
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=8>
-<font color=#6A5ACD>������ł͂͂��߂܂��Ă�</font></a>
+<font color=#6A5ACD>こちらでははじめましてｖ</font></a>
 <font color=#303030>
-<a href=mailto:uracha@anet.ne.jp>�������s�q</a>
- ����</font>
- <font size=2>2001�N12��12��(��) 22��29��</font>
+<a href=mailto:uracha@anet.ne.jp>魚月沙都子</a>
+ さん</font>
+ <font size=2>2001年12月12日(水) 22時29分</font>
 <a href=http://www.st.sakura.ne.jp/~uracha/index.html target=_top>HomePage</a>
-<a href="resbbs4.cgi?vew=8">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�l/�J�b�v���́A<b>��˕���</b>�z</font>
+<a href="resbbs4@vew_8.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる人/カップルは、<b>手塚部長</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�͂��߂܂��āA�����ł��B������ɂ����ז������Ă��������܂����B<br>��ʂ�R���e���c��q�����܂��āA�����W���[�ƃA�L���N�̂��b�����������I�ʔ��������ł���<br>���₟�A���̂͂����ł��˂�vv<br>�܂��V���Ȃ��b���y���݂ɂ��Ă��܂��`��<br><br>�Ƃ���ŁA�����炩��������N�𒣂点�Ă��������ċX�����ł��傤���H<br>�܂��o�i�[�Ȃǂ�����������Ă��Ȃ��H�悤�Ȃ̂ŁA������Ƃ��҂����Ă��܂��B<br>�i�����������炷���܂���A�����Ƃ��Ă���̂���^^;)<br>�o�i�[�܂��̂悤�ł�����A�Ȃ��Œ��点�Ă��������܂��˂�</font></ul>
+<ul><br><font size=3>はじめまして、魚月です。こちらにもお邪魔させていただきました。<br>一通りコンテンツを拝見しまして、島村ジョーとアキラ君のお話がすっごく！面白かったですｖ<br>いやぁ、女体はいいですねえvv<br>また新たなお話を楽しみにしています～ｖ<br><br>ところで、こちらからもリンクを張らせていただいて宜しいでしょうか？<br>まだバナーなどがご準備されていない？ようなので、ちょっとお待ちしています。<br>（もしあったらすいません、見落としているのかも^^;)<br>バナーまだのようでしたら、なしで張らせていただきますねｖ</font></ul>
 <HR>
 <ul><input type=checkbox name=delcode value=9>
-<font color=#6A5ACD>RE:������ł͂͂��߂܂��Ă�</font></a>
+<font color=#6A5ACD>RE:こちらでははじめましてｖ</font></a>
 <font color=#303030>
-���d�F
- ����</font>
- <font size=2>2001�N12��12��(��) 22��46��</font>
-<a href="resbbs4.cgi?vew=9">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ�́A<b>�ΐX��i�S��</b>�z</font>
-<ul><font size=3>��������Ⴂ�܂��A��������B<br>���Ђ�[�B�������̂����ǂ�ł����������Ƃ́c�c<br>��������őf�G������A�����Ă鋛������ɂ���ȖJ�߂Ă��������ƒp���������Č��@�����Ⴂ�����ɂȂ�܂��B(^^;<br><br>���āA�����N���Ă���������Ƃ̓}�W�ł����I<br>����͂�������Ă��Ȃ����Ƃł��B<br>�P�T���������I�[�v���\��ł��̂ŁA����X�V���̂��łɂł������N���Ă���������Ί������ł��B<br>�o�i�[�͂܂��Ȃ���ł���B�����N�W���̂��ӊO�Ƒ�ςł����܂Ŏ肪���Ȃ��Ƃ����c�c�B</font></ul>
+八重洲
+ さん</font>
+ <font size=2>2001年12月12日(水) 22時46分</font>
+<a href="resbbs4@vew_9.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になるは、<b>石森作品全般</b>】</font>
+<ul><font size=3>いらっしゃいませ、魚月さん。<br>うひゃー。あそこのあれを読んでいただけたとは……<br>太乙さんで素敵小説を連発してる魚月さんにそんな褒めていただくと恥ずかしくて穴掘っちゃいそうになります。(^^;<br><br>って、リンクしていただけるとはマジですか！<br>それはもう願ってもないことです。<br>１５日頃正式オープン予定ですので、次回更新時のついでにでもリンクしていただければ嬉しいです。<br>バナーはまだないんですよ。リンク集作るのが意外と大変でそこまで手が回らないという……。</font></ul>
 <HR>
 </ul>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

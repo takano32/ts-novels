@@ -1,401 +1,401 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=937492176bvtcmpc&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_937492176bvtcmpc_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���_���ʃ~�[�~��</font><br>
+<font size="+2" color="#0000FF">女神仮面ミーミル</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/" target="_blank">���d�F</a></strong>  <i>1999/09/16 23:29:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/index.html" target="_blank">八重洲</a></strong>  <i>1999/09/16 23:29:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937492176bvtcmpc&id2=937492176bvtcmpc&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937492176bvtcmpc_id2_937492176bvtcmpc_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ��색�C�g���C�g�E�X�g�[���[������������KEBO����̐V��͂Ȃ�ƕϐg�q�[���[�i�q���C���j���́I�@�[��уM�������B���m�̃t�@���͕K���ł��I
+【推薦文】 大作ライトライト・ストーリーを完結させたKEBOさんの新作はなんと変身ヒーロー（ヒロイン）もの！　深夜帯ギャル特撮モノのファンは必見です！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>OFFICER</strong>  <i>1999/09/17 02:58:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937504691hvilohd&id2=937492176bvtcmpc&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937504691hvilohd_id2_937492176bvtcmpc_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V���ɓG�̑g�D�̈���ɂ���Ă��܂����l�����̃G�s�\�[�h�Ƃ����������ȁB
+新たに敵の組織の一員にされてしまった人たちのエピソードとかも見たいな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil02.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/09/23 04:02:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil02.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/09/23 04:02:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938026962rodjx&id2=937492176bvtcmpc&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938026962rodjx_id2_937492176bvtcmpc_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���_���ʃ~�[�~���A���������b�̃A�b�v�ł��B����͐V�L�����̓o��ɉ����A�G�g�D�t�F���j�X�̖�]�̈�[�����炩�ɂ���܂����B�������c�c�Ȃ񂩂������Ƒ����Ȃ��i�ڂ����͓ǂ�ł̂��y���݁I�j�B
+【推薦文】 女神仮面ミーミル、早くも第二話のアップです。今回は新キャラの登場に加え、敵組織フェムニスの野望の一端も明らかにされました。しかし……なんかすごい家族だなぁ（詳しくは読んでのお楽しみ！）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/title.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/10/08 23:39:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/title.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/10/08 23:39:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939393586nkoghj&id2=937492176bvtcmpc&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939393586nkoghj_id2_937492176bvtcmpc_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���B�q�[���[�����̓`��A�N�V�����ł��B�`��A�N�V�����Ƃ����Ă����C�g�Ȗ��킢�Ȃ̂ŁA�N�ł��y���߂�Ǝv���܂���B���Ƃ��ẮA�D�ƌO�̌Z��i�Z���H�j�̉�b���D���ł��˂��B
+【推薦文】 特撮ヒーロー風味の伝奇アクションです。伝奇アクションといってもライトな味わいなので、誰でも楽しめると思いますよ。私としては、優と薫の兄弟（兄妹？）の会話が好きですねえ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�S�[���h�A�[��</strong>  <i>1999/10/10 00:41:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ゴールドアーム</strong>  <i>1999/10/10 00:41:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939483706ahtfcd&id2=937492176bvtcmpc&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939483706ahtfcd_id2_937492176bvtcmpc_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͂͂͂́B���[��A�X�L���i�Ŏ�荞��Ń��^�b�`�\�t�g�ŏ���������B���̃p�^�[�������������B�A�C�R���̃��A���łƂ����������ł��ˁB��{��}���V�����p�^�[��������A�悭�܂Ƃ܂�����i���Ǝv���܂��B<BR>�@�������~�~�[�E�~�����j���A�ގ��i���g�[���n���}�[�c�c<BR>�@�n���݂����ɖ������������񂾂낤���B<BR>�@�i�t�@�C�A�[�G���u�����ł��ˁj<BR>
+がはははは。うーん、スキャナで取り込んでレタッチソフトで書き換える。このパターンがあったか。アイコラのリアル版といった感じですね。基本を抑えつつ新しいパターンを入れる、よくまとまった作品だと思います。<BR>　しかしミミー・ミョルニル、類似品がトールハンマー……<BR>　馬鹿みたいに命中率が高いんだろうか。<BR>　（ファイアーエンブレムですね）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto�Fkebochin@pluto.dti.ne.jp" target="_blank">�j�d�a�n</a></strong>  <i>1999/10/13 23:41:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto：kebochin@pluto.dti.ne.jp" target="_blank">ＫＥＢＯ</a></strong>  <i>1999/10/13 23:41:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939825708qyawc&id2=937492176bvtcmpc&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939825708qyawc_id2_937492176bvtcmpc_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǁ[���ǁ[��<BR>�������̘b�ɂ��āE�E�E<BR>��{�I�Ƀq�[���[�̕K�E�Z�͕K��������I�Ƃ����s����������܂��B<BR>�i���������˕Ԃ��ꂽ������Ȃ����Ƃ͂܂܂���܂����E�E�E�j<BR>���Ȃ݂Ƀ~�����j���Ƃ̓Q���}���_�b�ɂ����闋�_�g�[���̕K�E�̕���ł��鋐��ȓS�̃n���}�[�������ł��̂ŁA�J�ł����g�[���n���}�[�Ƃ͂܂�܂���̂��Ƃł͂Ȃ����ƁE�E�E<BR>���Ȃ݂Ɏ��ɂƂ��Ă͋�p�`�̗v�ǖC���Ȃ��ݐ[���ł��B<BR>�ł�
+どーもどーも<BR>命中率の話について・・・<BR>基本的にヒーローの必殺技は必ず当たる！という不文律があります。<BR>（ただし跳ね返されたり効かないことはままありますが・・・）<BR>ちなみにミョルニルとはゲルマン神話における雷神トールの必殺の武器である巨大な鉄のハンマーだそうですので、巷でいうトールハンマーとはまんまこれのことではないかと・・・<BR>ちなみに私にとっては銀英伝の要塞砲がなじみ深いです。<BR>では
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>1999/10/20 23:32:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>1999/10/20 23:32:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940429978kiqvul&id2=937492176bvtcmpc&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940429978kiqvul_id2_937492176bvtcmpc_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �O�Z���񊈖��ҁB����A�t�F���j�X�����̊�ȍ��������ł��B���a�T�O�N��̓��f���B�q�[���[�ԑg�ɏo�Ă������ȃ`�[�v�ȁu���v���ǂ��̂ł��B�Ƃ���ŗ�́u�T�u���~�i���b�c�v��D����ɕ��������������Ƃ������Ă�O�Z����ɂ����������̂ł��ˁB
+【推薦文】 薫兄さん活躍編。毎回、フェムニス怪女の奇抜な作戦も見所です。昭和５０年代の東映特撮ヒーロー番組に出てきそうなチープな「作戦」が良いのです。ところで例の「サブリミナルＣＤ」を優くんに聞かせたかったとか言ってる薫兄さんにも困ったものですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�Ǘ��l</a></strong>  <i>1999/11/19 22:13:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">管理人</a></strong>  <i>1999/11/19 22:13:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943017199drvtj&id2=937492176bvtcmpc&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943017199drvtj_id2_937492176bvtcmpc_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �i��T�b�j�u�֒f�̗̈�v���ǂ�ȏꏊ�Ȃ̂��͓ǂ�ł̂��y���݂ł��B�T�u�^�C�g���Ńo���o���Ƃ����b������܂����c�B�����ɐ��̂��o���Ȃ��悤�Ɉꐶ�����C���񂵂Ă�D�N���������Ă��������ł��ˁB
+【推薦文】 （第５話）「禁断の領域」がどんな場所なのかは読んでのお楽しみです。サブタイトルでバレバレという話もありますが…。文香に正体がバレないように一生懸命気を回してる優君を応援してあげたいですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/title.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/11/27 17:56:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/title.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/11/27 17:56:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943692974rnllfv&id2=937492176bvtcmpc&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943692974rnllfv_id2_937492176bvtcmpc_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ��������U�b�̃~�[�~���ł��I�@����ɂ��Ă��D�ƌO�̌Z��^�b�O�}�b�`�͂����ǂ������΂܂��������ł��ˁB�����āA����\�����C�ɂȂ�܂��B���͋C���炵�āA���N�[�����s���b�ƈ������߂�V���A�X�҂Ƃ��������ł��傤���H
+【推薦文】 早くも第６話のミーミルです！　それにしても優と薫の兄弟タッグマッチはいつもどこか微笑ましい感じですね。そして、次回予告も気になります。雰囲気からして、第一クールをピリッと引き締めるシリアス編という感じでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>yays</strong>  <i>1999/11/27 17:59:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943693185jgcgma&id2=937492176bvtcmpc&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943693185jgcgma_id2_937492176bvtcmpc_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Z�b�F�V�g�̉̐��A���ʂ̗����z ���Ƃ����̘b�肩��B���B�q�[���[�Łu�i���p���܂���z�Ƃ���������z�v���Ă���܂肢�܂����ˁB�}�C�i�[��i�w������m�V�����[���I���x�̗����ł��܂��ɂ��������^�C�v�ł������ǁA���ɂ͂��܂�v�����Ȃ��Ȃ��c�c
+【第六話：天使の歌声、仮面の裏声】 あとがきの話題から。特撮ヒーローで「ナンパしまくる奴とか恋愛する奴」ってあんまりいませんよね。マイナー作品『超光戦士シャンゼリオン』の涼村暁がまさにそういうタイプでしたけど、他にはあまり思いつかないなぁ……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">���킲�Ƃ̍��</a></strong>  <i>1999/12/02 11:15:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">たわごとの作者</a></strong>  <i>1999/12/02 11:15:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944100945dyxgpy&id2=937492176bvtcmpc&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944100945dyxgpy_id2_937492176bvtcmpc_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V�����[�A������D���ł��B<BR>���̑��ł́A���̗L���Ȍ���@�M�i�W�F�b�g�}���j����M���K�u���[�E�S�E�L�N�Ȃ񂩂��D���ł��B<BR>���ƁA�����W�F�b�g�}���ł����b�h�z�[�N�E�V���@�����͍Ō�̕����Ă܂����ˁB
+シャンゼ、私も大好きです。<BR>その他では、かの有名な結城　凱（ジェットマン）氏やギンガブルー・ゴウキ君なんかが好きです。<BR>あと、同じジェットマンでもレッドホーク・天童　竜氏は最後の方壊れてましたね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil07.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/12/11 12:41:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil07.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/12/11 12:41:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944883702vlqwnd&id2=937492176bvtcmpc&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944883702vlqwnd_id2_937492176bvtcmpc_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�掵�b�F�����̒����́z �W���p���̌ւ�T�u�J���`���[�u���B�q�[���[���v�̃t�H�[�}�b�g�𒉎��ɂȂ����Ă���w���_���ʃ~�[�~���x�͍���ő��N�[���̐܂�Ԃ��_���}���܂��B���X�ɓG�g�D�̓����̂悤�Ȃ��̂������B�ꂵ�Ă��܂����B����A�~�[�~���̐키�G�͍��܂łƏ����Ⴂ�܂��i���O���b�l�n�c�Ƃ�������ƈႤ���j�B�����������I�ȓG���o�ꂷ��悤�ɂȂ�Ɠ��B�q�[���[��i�͐���オ���ł���ˁB
+【第七話：潮風の鎮魂歌】 ジャパンの誇るサブカルチャー「特撮ヒーロー物」のフォーマットを忠実になぞっている『女神仮面ミーミル』は今回で第一クールの折り返し点を迎えます。徐々に敵組織の内実のようなものも見え隠れしてきました。今回、ミーミルの戦う敵は今までと少し違います（モグラ獣人系…ともちょっと違うか）。こういう個性的な敵が登場するようになると特撮ヒーロー作品は盛り上がるんですよね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil08.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/02/25 21:32:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil08.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/02/25 21:32:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=951481930sduheu&id2=937492176bvtcmpc&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_951481930sduheu_id2_937492176bvtcmpc_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�攪�b�F�����K�N�u�r�Ԃ��K�N�z KEBO����̃d�J�ւ̈����⊶�Ȃ���������Ă���̂������ł��ˁB����ƁA���������͌l�I�ɍD�݂̃^�C�v�ł��B
+【第八話：黒い薔薇ＶＳ赤い薔薇】 KEBOさんのヅカへの愛が遺憾なく発揮されているのがいいですね。それと、ユリちゃんは個人的に好みのタイプです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil09.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/04/18 23:16:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil09.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/04/18 23:16:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=956067408mdyuwa&id2=937492176bvtcmpc&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_956067408mdyuwa_id2_937492176bvtcmpc_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�F����͓��j���z ���̒j�����𖧂��ɏ������E�z�ꉻ���Ă������̑g�D�t�F���j�X�A���̉A�d�ɗ������������_���ʃ~�[�~�����Ɠ���_ �D�̓`��A�N�V�����E�X�g�[���[�B����́A�Ȃɂ��t�F���j�X�̑傪����ȉA�d�̈�[���݂��Ă����悤�ł��B
+【第九話：決戦は日曜日】 世の男たちを密かに女性化・奴隷化していく悪の組織フェムニス、その陰謀に立ち向かう女神仮面ミーミルこと日野神 優の伝奇アクション・ストーリー。今回は、なにやらフェムニスの大がかりな陰謀の一端がみえてきたようです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">���Ȃ���</a></strong>  <i>2000/04/20 23:34:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">すなさん</a></strong>  <i>2000/04/20 23:34:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=956241297ewmnju&id2=937492176bvtcmpc&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_956241297ewmnju_id2_937492176bvtcmpc_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[Vol.9]......���́`<BR>�ڎ��y�[�W�̃^�C�g����<BR>�u�攪�b�v<BR>�ɂȂ��Ă���̂ł���......<BR>
+[Vol.9]......あの～<BR>目次ページのタイトルが<BR>「第八話」<BR>になっているのですが......<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/04/21 04:16:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/04/21 04:16:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=956258199stysoig&id2=937492176bvtcmpc&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_956258199stysoig_id2_937492176bvtcmpc_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���A���w�E�ǂ����ł��B<BR>�����قǁA�C�����Ă����܂����B<BR>KEBO����A���݂܂���ł���!!
+すなさん、ご指摘どうもです。<BR>さきほど、修整しておきました。<BR>KEBOさん、すみませんでした!!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil09.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/04/26 23:17:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil09.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/04/26 23:17:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=956758663xtayss&id2=937492176bvtcmpc&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_956758663xtayss_id2_937492176bvtcmpc_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��\�b�z �閧�g�D�t�F���j�X�ƁA�D��������_��Ƃ���芪����󋵂��_�C�i�~�b�N�ȕϓ]�𐋂��Ă��܂��B�U��Ƃ���������A���܂͒ǂ���g�̗D�ƌO�ł����A�����Ǝ��񂩂�͑唽���ɏo��̂ł��傤�B�������A�҂��������ł�!!
+【第十話】 秘密組織フェムニスと、優たち日野神一家を取り巻く大状況がダイナミックな変転を遂げています。攻守ところをかえ、いまは追われる身の優と薫ですが、きっと次回からは大反撃に出るのでしょう。続きが、待ち遠しいです!!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil11.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/05/12 23:42:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil11.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/05/12 23:42:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=958142556nbgovd&id2=937492176bvtcmpc&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_958142556nbgovd_id2_937492176bvtcmpc_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��\��b�z ���̐V�W�J�́A�t�F���j�X�Ɨ����ƕ҂Ƃł������̂ł��傤���B�D���Ȃ����A���̃R�ɂȂ����܂܌��ɖ߂ꂸ�A����̓p���c�X�[�c�p�Ȃ�Ă̂��I���Ă���܂��B
+【第十一話】 この新展開は、フェムニス独立国家編とでもいうのでしょうか。優もなぜか、女のコになったまま元に戻れず、今回はパンツスーツ姿なんてのを披露してくれます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil12.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/05/24 03:22:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil12.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/05/24 03:22:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=959106124owjqvj&id2=937492176bvtcmpc&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_959106124owjqvj_id2_937492176bvtcmpc_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ��P�N�[�����]���Ƃ��날�ƈ�b�A���悢�摧�l�܂�ŏI�o�g�����W�J����܂��B�G�̖{���ɓ˓������D�����͐������т邱�Ƃ��ł���̂��B�����āA����ꂽ���̈��ۂ�?!
+【推薦文】 第１クールも余すところあと一話、いよいよ息詰まる最終バトルが展開されます。敵の本部に突入した優たちは生き延びることができるのか。そして、囚われた父の安否は?!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil13.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/06/03 11:41:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil13.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/06/03 11:41:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=960000079mnmccfa&id2=937492176bvtcmpc&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_960000079mnmccfa_id2_937492176bvtcmpc_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��\�O�b�z ����ɂđ��N�[���͍ŏI��ň��؂�B����͓���_�t�@�~���[�S���o���ɁA�V���Ɍ����B�ꂷ�鍕���e�c�����ď����a�Ƃ̍Ō�̐킢���n�܂�!!
+【第十三話】 これにて第一クールは最終回で一区切り。今回は日野神ファミリー全員出動に、新たに見え隠れする黒い影…そして女王Ｂとの最後の戦いが始まる!!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/06/13 20:43:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/06/13 20:43:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=960896622otdca&id2=937492176bvtcmpc&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_960896622otdca_id2_937492176bvtcmpc_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���N�[���ŏI��B�j�d�a�n����A����ꂳ�܂ł����B<BR>�@���X�g�̏��̎q�ӂ��肪�A�����������Ă܂��ˁB<BR>�@�Ƃ���ŁA���̃��[�u�p�̃V���G�b�g���āA�c�c�܂������̌�m�H
+　第一クール最終回。ＫＥＢＯさん、お疲れさまでした。<BR>　ラストの女の子ふたりが、いい味だしてますね。<BR>　ところで、あのローブ姿のシルエットって、……まさかあの御仁？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil14.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/10/05 23:49:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil14.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/10/05 23:49:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=970757346giphj&id2=937492176bvtcmpc&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_970757346giphj_id2_937492176bvtcmpc_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���悢����N�[���ɓ˓��B�������̎q�ɂȂ�Ȃ��Ă����ނƈ��g���Ă����D�ɁA�V���ȓG�̉A���E�ъ��B�D�����̉^���͂����ɁH
+いよいよ第二クールに突入。もう女の子にならなくてもすむと安堵していた優に、新たな敵の陰が忍び寄る。優たちの運命はいかに？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil15.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/10/20 22:52:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil15.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/10/20 22:52:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=972049944hiaxhri&id2=937492176bvtcmpc&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_972049944hiaxhri_id2_937492176bvtcmpc_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���N�[���ɓ˓����đ�������҂������I�@����ς�D�͏��̎q�ɁA�����ĐV���ȓW�J���E�E�E�B�D�����̉^���͂����ɁH
+第二クールに突入して早くも後編が到着！　やっぱり優は女の子に、そして新たな展開が・・・。優たちの運命はいかに？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/10/22 23:35:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">猫野　丸太丸</a></strong>  <i>2000/10/22 23:35:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=972225345duludw&id2=937492176bvtcmpc&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_972225345duludw_id2_937492176bvtcmpc_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��A�Z���B������������i�̃M�~�b�N���B��Ă���̂��B<BR>�V�L���������M�����[���i�Ȃɂ��ɂ������񂨕ꂳ����j�����Ă�̂�<BR>�����ł��ˁB
+うーん、濃い。いったい何作品のギミックが隠れているのやら。<BR>新キャラもレギュラーも（なにげにお父さんお母さんも）立ってるのが<BR>いいですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil16.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/10/26 01:25:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil16.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/10/26 01:25:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=972491156vclkmw&id2=937492176bvtcmpc&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_972491156vclkmw_id2_937492176bvtcmpc_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��\�Z�b�z�����ɂ��ĒC���R���c�F�����̍s�����Q���������Ȃ��Ă��܂����B��������������ĂĂ�̂��H�@�D�����̉^���͂����ɁH
+【第十六話】ここにきて辰巳コンツェルンの行動が慌ただしくなってきました。いったい何を企ててるのか？　優たちの運命はいかに？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil17.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/10/30 00:03:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil17.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/10/30 00:03:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=972831830nfknn&id2=937492176bvtcmpc&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_972831830nfknn_id2_937492176bvtcmpc_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂��܂��V�X�e�[�W�̓������������Ă��܂����A��̂ǂ��b��������ł��傤�H<BR>�Ǘ��l���������Ă���̂ł����ǁA����͐V�L�����o��B����ɃX�g�[���[�͍��ׂƂ��Ă����܂��B<BR>
+まだまだ新ステージの導入部が続いていますが、一体どう話が続くんでしょう？<BR>管理人も混乱しているのですけど、今回は新キャラ登場。さらにストーリーは混沌としていきます。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil18.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/11/06 05:23:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil18.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/11/06 05:23:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=973455780ckdtgre&id2=937492176bvtcmpc&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_973455780ckdtgre_id2_937492176bvtcmpc_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�Ԃ��A�|���� �s���N�̓J�O���A�΃~�[�~�����h���h�B�j�q���ŃN�[���ȍ����������(?)�A��C�ɐ���炵���Ȃ������_���ʂƂ��̒��Ԃ����ł��B<BR>�y���z��L�̃R�X�`���[���F�͂܂������̎��������ł���A���݂̗E�ҁA������тɃ~�[�~���{�҂Ƃ͑S�����֌W�ł�(�{���͍��A���A�����A���F�A�ł���)�B<BR>
+【推薦文】赤がアポロン ピンクはカグヤ、緑ミーミル黒ドラド。ニヒルでクールな黒が加わって(?)、一気に戦隊らしくなった女神仮面とその仲間たちです。<BR>【注】上記のコスチューム色はまったくの事実無根であり、実在の勇者、戦隊並びにミーミル本編とは全く無関係です(本当は黒、黄、白紫、金色、ですね)。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil19.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/11/17 02:20:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil19.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/11/17 02:20:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=974395204lsbrgaw&id2=937492176bvtcmpc&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_974395204lsbrgaw_id2_937492176bvtcmpc_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��P�X�b�z<BR>�y���E���z�Ӂ[�ށA�������̓_�u���������[�����̕��ɒǂ���肩�����ꑰ�c�c�B�Ƃ����킯�ŁA�~�[�~���ɋ��G����̊��ł��B�Ƃ���œo�ꂷ��q�[���[�B�A�퓬���ł����ɐ�����������܂���(��)�B
+【第１９話】<BR>【推薦文】ふーむ、さすがはダブルラ○○ーを死の淵に追いやりかけた一族……。というわけで、ミーミルに強敵現るの巻です。ところで登場するヒーロー達、戦闘中でも妙に生活感がありますね(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil20.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/11/22 01:19:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil20.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/11/22 01:19:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=974823598lbmxp&id2=937492176bvtcmpc&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_974823598lbmxp_id2_937492176bvtcmpc_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z ���͐푈���E�E�E����ŁA����_�@�F�v�̌o����������o�����Ƃ́E�E�E<BR>�y���E���z �D�̌Z�ɂ��āA�~�[�~���ɕC�G����͂��������q�[���[�E���z���ʃA�|�������Ɠ���_�O�B�O�͕��e����A�|�����̔\�͂��󂯌p�����̂ł����A�A�|�����̗͂ɂ͂���Ƀ��[�c������܂����B�Ƃ����킯�ō���̕���͑����m�푈���̓���̓��ł��B�W�����̓��{��͓��R�����V�J�a��Ŕ������܂��傤�i���B�l�^�j�B
+【あらすじ】 時は戦争中・・・南方で、日野神　孝夫の経験したある出来事とは・・・<BR>【推薦文】 優の兄にして、ミーミルに匹敵する力を持ったヒーロー・太陽仮面アポロンこと日野神薫。薫は父親からアポロンの能力を受け継いだのですが、アポロンの力にはさらにルーツがありました。というわけで今回の舞台は太平洋戦争時の南方の島です。ジョンの日本語は当然ロリシカ訛りで発音しましょう（特撮ネタ）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil21.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/11/29 14:45:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil21.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/11/29 14:45:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=975476753ykyil&id2=937492176bvtcmpc&ff=on">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_975476753ykyil_id2_937492176bvtcmpc_ff_on.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��\��b<BR>�y���炷���z �ъ�̏o������o�D�̗��B�ނɂ������e�����܂�B<BR>�y���E���z ���B�����ϐg�q���C���E�X�g�[���[���_���ʃ~�[�~���B�����ɂ��āA�܂��V���Ȃ�W�J���݂��Ă��܂����B���̂�����̐����������Ă���Ƃ������V�g���o��!?
+二十一話<BR>【あらすじ】 紗希の出会った俳優の卵。彼にも黒い影がせまる。<BR>【推薦文】 特撮風味変身ヒロイン・ストーリー女神仮面ミーミル。ここにきて、また新たなる展開がみえてきました。月のかぐやの声が聞こえてくるとき月光天使が覚醒!?
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/title.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/12/04 01:10:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/title.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/12/04 01:10:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=975859830ntffmv&id2=937492176bvtcmpc&ff=on">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_975859830ntffmv_id2_937492176bvtcmpc_ff_on.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��\��b<BR>�y���E���z ���̗͂����C���̈ꑰ�����E�x�z�̖�]�̂��߂ɓ����o���B�����āA�C���̃L�~�R�͕s�G�ɂ��D�̎���ɂ�����Ē�����@�������̂������I�@����ɒC���Ƃ̑����E���������悢�悻�̐��̂��_�Ԍ����c�c�B���悢�����_��ƂƒC���ƂƂ̑��͐킪�߂����ł��I
+二十二話<BR>【推薦文】 竜の力を持つ辰巳の一族が世界支配の野望のために動き出す。そして、辰巳のキミコは不敵にも優の自宅にあらわれて挑戦状を叩きつけたのだった！　さらに辰巳家の総帥・八蔵もいよいよその正体を垣間見せ……。いよいよ日野神一家と辰巳家との総力戦が近そうです！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil23.html" target="_blank">��\�O�b������ɂ͂������N���b�N</a></strong>  <i>2000/12/12 19:56:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil23.html" target="_blank">二十三話を見るにはここをクリック</a></strong>  <i>2000/12/12 19:56:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=976618578lsbqpcx&id2=937492176bvtcmpc&ff=on">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_976618578lsbqpcx_id2_937492176bvtcmpc_ff_on.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��\�O�b<BR>�y���E���z�����ɓ����Ă��܂������B�v��ʉߋ�����������炩�ɂȂ�܂��B�����ēG�̖{���n�Ƃ���΁c�c�B������҂��������ł��ˁI
+二十三話<BR>【推薦文】佳境に入ってきましたっ。思わぬ過去や因縁が明らかになります。そして敵の本拠地とくれば……。次回も待ち遠しいですね！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil24.html" target="_blank">��\�l�b������ɂ͂������N���b�N</a></strong>  <i>2000/12/19 00:19:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil24.html" target="_blank">二十四話を見るにはここをクリック</a></strong>  <i>2000/12/19 00:19:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=977152778tqlfqlh&id2=937492176bvtcmpc&ff=on">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_977152778tqlfqlh_id2_937492176bvtcmpc_ff_on.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���Ɂu�ށv������A���󂪂˂��Ȃ���ꂽ�B�n���̉^���������܂ł��c�c�H�@�ٔ��Ɛ�ɂ̓W�J�ł��B�����͌��܂���A��X���ɐÂ��ɓǂ݂܂��傤�B
+【推薦文】 ついに「彼」が現れ、時空がねじ曲げられた。地球の運命もここまでか……？　緊迫と戦慄の展開です。多くは語りません、夜更けに静かに読みましょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil25.html" target="_blank">��\�ܘb������ɂ͂������N���b�N</a></strong>  <i>2000/12/24 00:26:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil25.html" target="_blank">二十五話を見るにはここをクリック</a></strong>  <i>2000/12/24 00:26:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=977585205ndivexv&id2=937492176bvtcmpc&ff=on">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_977585205ndivexv_id2_937492176bvtcmpc_ff_on.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������A�X�^�[�E�H�[�Y�̑��ʐ퓬�ł��A�o�Ɩ��A�w�r�ƎցA�X�p�C�ƁA�����c�c�H ���̓G�A�������I�I<BR>
+おおおっ、スターウォーズの多面戦闘です、姉と妹、ヘビと蛇、スパイと、原潜……？ この敵、強いっ！！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil26.html" target="_blank">��\�Z�b������ɂ͂������N���b�N</a></strong>  <i>2000/12/24 00:28:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil26.html" target="_blank">二十六話を見るにはここをクリック</a></strong>  <i>2000/12/24 00:28:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=977585283crpstet&id2=937492176bvtcmpc&ff=on">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_977585283crpstet_id2_937492176bvtcmpc_ff_on.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ��͓��B�A�N�V�������҂��A�V���ȓ���c���Ȃ��獡��Ō����ł��B���ЊF����̖ڂŊm���߂Ă��������B
+【推薦文】 大河特撮アクション巨編も、新たな謎を残しながら今回で決着です。ぜひ皆さんの目で確かめてください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/goddess_mask/mimil_s2.html" target="_blank">����ł��̓������ɂ͂������N���b�N�B</a></strong>  <i>2002/02/12 17:06:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/goddess_mask/mimil_s2.html" target="_blank">劇場版その二を見るにはここをクリック。</a></strong>  <i>2002/02/12 17:06:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=1013501200acuqmj&id2=937492176bvtcmpc&ff=on">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_1013501200acuqmj_id2_937492176bvtcmpc_ff_on.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`�͐���𒴂��āI����̎���͂��̐l���I�H
+正義は世代を超えて！今回の主役はあの人だ！？
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="937492176bvtcmpc">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

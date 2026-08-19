@@ -1,21 +1,21 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=10&ff=p&id=938795692xagdq&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_10_ff_p_id_938795692xagdq_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">����܂Ȃ��̎q��Daily��Life!</font><br>
+<font size="+2" color="#0000FF">いんまなあの子のDaily☆Life!</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>webmaster</strong>  <i>1999/10/02 01:34:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938795692xagdq&id2=938795692xagdq&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938795692xagdq_id2_938795692xagdq_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING !
@@ -23,223 +23,223 @@ NOW PRINTING !
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/perky_girl/perky_girl_ex.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/10/02 22:49:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/perky_girl/perky_girl_ex.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/10/02 22:49:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938872180brcror&id2=938795692xagdq&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938872180brcror_id2_938795692xagdq_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �������A�Ȃ肽�ăT�L���o�X�����N���̕���ɑ��ҁi�ԊO�ҁj�̓o��ł���`�B�����N���̏��̎q��Daily Life ���ō��ɔ��΂܂������āA��������Ă��������Ȃ����Ⴂ�܂��ˁB�����`�����������ǂ݂������`
+【推薦文】 さあっ、なりたてサキュバス克美クンの物語に続編（番外編）の登場ですよ～。克美クンの女の子なDaily Life が最高に微笑ましくって、つい見守ってあげたくなっちゃいますね。ああ～早く続きが読みたいぃ～
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.ops.dti.ne.jp/~key/base/head1top.html" target="_blank">�uK�v</a></strong>  <i>1999/10/03 00:51:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.ops.dti.ne.jp/~key/base/head1top.html" target="_blank">「K」</a></strong>  <i>1999/10/03 00:51:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938879480iuwhe&id2=938795692xagdq&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938879480iuwhe_id2_938795692xagdq_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
- �Ȃ����[�[�A���̕����!?(���񑩂̃��A�N�V�������ЂƂE�E�E�B���̋����̈Ӗ����m�F�������l�́u��ҕʃC���f�b�N�X�֍s���v�Łu�j�v�̏����N���b�N!!)<BR><BR>�@����ς萅���͂����ł���ˁB�������������ǁA�����Ɠ��̎����ƌ��������ƌ������Ƃɂ����E�E�E�ǂ�����D���W���[�[�[!!(�X�~�}�Z�������̃X�P�x�ɂȂ��Ă��܂��܂���)<BR>�@�u���G�ȏ��̎q�̒j�S�v�̐S���`�ʂ�u�����ւ����������v�̕��i�̕\���ɃM���O����荬���ĂƂĂ��ʔ��������ł��B
+ なっ何ーー、この副題は!?(お約束のリアクションをひとつ・・・。私の驚きの意味を確認したい人は「作者別インデックスへ行く」で「Ｋ」の所をクリック!!)<BR><BR>　やっぱり水着はいいですよね。下着もいいけど、水着独特の質感と言うか何と言うかとにかく・・・どちらも好きジャーーー!!(スミマセンただのスケベになってしまいました)<BR>　「複雑な女の子の男心」の心理描写や「着せ替え克美ちゃん」の風景の表現にギャグも取り混ぜてとても面白かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mx5.nisiq.net" target="_blank">�S�[���h�A�[��</a></strong>  <i>1999/10/03 01:29:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mx5.nisiq.net" target="_blank">ゴールドアーム</a></strong>  <i>1999/10/03 01:29:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938881762xvbyqn&id2=938795692xagdq&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938881762xvbyqn_id2_938795692xagdq_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�u����܂Ȃ��̎q��Daily��Life!�v�ւ̃R�����g�z <BR><BR>����͂͂͂͂͂��I<BR>���̎q�ւ̗h��ƁA�����Ƃ̃M���b�v�ƁA�����͂��ƂȂ��s�𗝂����A<BR>�����ꒃ�΂���U���܂��I�B<BR>�y���܂��Ă��������܂����B�����A�撣���ĉ������B<BR><BR>
+【「いんまなあの子のDaily☆Life!」へのコメント】 <BR><BR>ぎゃはははははっ！<BR>女の子への揺れと、現実とのギャップと、そこはかとない不条理さが、<BR>無茶苦茶笑いを誘います！。<BR>楽しませていただきました。続き、頑張って下さい。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.at.sakura.ne.jp/~gekka3/mizuki.html" target="_blank">���̉��݂���</a></strong>  <i>1999/10/03 09:09:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.at.sakura.ne.jp/~gekka3/mizuki.html" target="_blank">月の下みずき</a></strong>  <i>1999/10/03 09:09:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938909380osakeo&id2=938795692xagdq&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938909380osakeo_id2_938795692xagdq_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂ��́A�݂����ł��B<BR>����̓L�����𗧂Ă�Ƃ����̂��ڕW�������ŁA������<BR>�L�����������Ă��܂��B�s�r�̒�ԁA�����̗m�������i�����������j<BR>�Ƃ����ݒ�����܂����Ȃ��Ă��܂����B<BR>���ҁA���҂��Ă��܂��B
+こんにちは、みずきです。<BR>今回はキャラを立てるというのが目標だそうで、見事に<BR>キャラが立っています。ＴＳの定番、女物の洋服買い（しかも水着）<BR>という設定もうまくこなしていますし。<BR>続編、期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��ۑ���</strong>  <i>1999/10/03 15:20:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野丸太丸</strong>  <i>1999/10/03 15:20:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938931656rbnmixh&id2=938795692xagdq&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938931656rbnmixh_id2_938795692xagdq_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�u����܂Ȃ��̎q��Daily��Life!�v�ւ̃R�����g�z <BR>���[��A���o�������␅���̕`�ʂ��߂��჊�A���ł��ˁ[�B<BR>�����Ɛ^�߂̂������悳���A�ڂɕ����Ԃ悤�ł����B<BR>
+【「いんまなあの子のDaily☆Life!」へのコメント】 <BR>うーん、お出かけ服や水着の描写がめちゃリアルですねー。<BR>克美と真衣のかっこよさが、目に浮かぶようでした。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www03.u-page.so-net.ne.jp/za2/kmkm/" target="_blank">���d��</a></strong>  <i>1999/10/04 00:18:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www03.u-page.so-net.ne.jp/za2/kmkm/" target="_blank">豆電球</a></strong>  <i>1999/10/04 00:18:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938963930ljhcl&id2=938795692xagdq&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938963930ljhcl_id2_938795692xagdq_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�X�ߎ��̒��ł�����Ɗ������Ȃ��Ă�^�߂��񂪗ǂ��ł��ˁB<BR>�@TS���m�i�Ɍ��炸�ϐg���m�S�ʁj�ł́A�{�l�̐S��𒆐S�ɕ`�ʂ��ĖG���������o�����Ƃ������Ǝv����ł����ǁA���������̂����傱���Ɠ����Ă�Ɖ��s�����o��悤�ȋC�����܂��B<BR><BR>���Ǝv�����R�s��ɂ́c�c�i�΁j<BR>
+　更衣室の中でちょっと嬉しくなってる真衣さんが良いですね。<BR>　TSモノ（に限らず変身モノ全般）では、本人の心情を中心に描写して萌えを引き出すことが多いと思うんですけど、こういうのがちょこっと入ってると奥行きが出るような気がします。<BR><BR>＃と思った３行後には……（笑）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:tak-hi@ma.neweb.ne.jp" target="_blank">����</a></strong>  <i>1999/10/04 01:51:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:tak-hi@ma.neweb.ne.jp" target="_blank">鐸碑</a></strong>  <i>1999/10/04 01:51:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938969491uxdfgj&id2=938795692xagdq&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938969491uxdfgj_id2_938795692xagdq_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�u����܂Ȃ��̎q��Daily��Life!�v�ւ̃R�����g�z <BR>�@��������񂪉����čō��ł��B���Ҋ��҂��Ă܂��̂ŏ����Ă��������ˁB<BR>
+【「いんまなあの子のDaily☆Life!」へのコメント】 <BR>　克美ちゃんが可愛くて最高です。続編期待してますので書いてくださいね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>1999/10/04 04:13:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>1999/10/04 04:13:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938978030kmsmyt&id2=938795692xagdq&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938978030kmsmyt_id2_938795692xagdq_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F���񊴑z���肪�Ƃ��������܂��B�������Ȃ��ďo�Ă��܂����`�B<BR><BR>���j����<BR>&gt; �Ȃ����[�[�A���̕����!?<BR>����Ȃ���I�`���^�C�g���Ɏg�킹�ĖႢ�܂���(�؂���)�B�����j����̍�i���Ȃ���΁A���̃f�p�[�g�̃V�[���͕`����Ȃ������ł��傤�ˁB<BR>&gt;�u���G�ȏ��̎q�̒j�S�v<BR>���͂��ꂪ����܂ȃV���[�Y�̗v�̌��t�Ȃ̂ł��B�����܂ō����̋C���͒j�̎q�łȂ�����ˁB<BR><BR>���S�[���h�A�[������@�����d������<BR>&gt; ���̎q�ւ̗h��ƁA�����Ƃ̃M���b�v�ƁA�����͂��ƂȂ��s�𗝂�<BR>&gt; ���Ǝv�����R�s��ɂ́c�c�i�΁j<BR>����́A����ς荎���ɂ͒j�ɖ߂肽�����Ă��ė~�����Ƃ�����҂̐e�S�ł�(��)�B����ɁA���i�O���ڂȔ��������ăM���������q�Ȃ�ł͂ł����ˁB<BR><BR>�����d�F����@�����̉��݂�������@�����肳��<BR>&gt; �����N���̏��̎q��Daily Life ���ō��ɔ��΂܂�������<BR>&gt; �����ɃL�����������Ă��܂��B<BR>&gt; ��������񂪉����čō��ł��B<BR>���肪�Ƃ��������܂��`�B���������Ă���������Ɗ������ł��B�����̃Z���t�􂵁A���ʂ̒j���t�������ɉ��������邩�ɂɂ͂��Ȃ�Â��Ă܂��B<BR><BR>&gt; �����Ɛ^�߂̂������悳<BR>&gt; �X�ߎ��̒��ł�����Ɗ������Ȃ��Ă�^�߂��񂪗ǂ��ł��ˁB<BR>�@�����ԋC���������̂́A���͐^�߂̃L�����𗧂����鎖��������ł���B�O��͂�����Ƃ��s����`�I�ɓ��������Ⴂ�܂�������ˁB��҂̂��C�ɓ���Ȃ̂ŁA�^�߂��C�ɓ����Ă����l������Ƃ������������ł��B
+皆さん感想ありがとうございます。嬉しくなって出てきました～。<BR><BR>▽Ｋさん<BR>&gt; なっ何ーー、この副題は!?<BR>勝手ながらオチ＆タイトルに使わせて貰いました(ぺこり)。もしＫさんの作品がなければ、あのデパートのシーンは描かれなかったでしょうね。<BR>&gt;「複雑な女の子の男心」<BR>実はこれがいんまなシリーズの要の言葉なのです。あくまで克美の気質は男の子でなくちゃね。<BR><BR>▽ゴールドアームさん　▽豆電球さん<BR>&gt; 女の子への揺れと、現実とのギャップと、そこはかとない不条理さ<BR>&gt; ＃と思った３行後には……（笑）<BR>あれは、やっぱり克美には男に戻りたがっていて欲しいという作者の親心です(爆)。それに、性格三枚目な美少女ってギャル化っ子ならではですしね。<BR><BR>▽八重洲さん　▽月の下みずきさん　▽鐸碑さん<BR>&gt; 克美クンの女の子なDaily Life が最高に微笑ましくって<BR>&gt; 見事にキャラが立っています。<BR>&gt; 克美ちゃんが可愛くて最高です。<BR>ありがとうございます～。そう言っていただけると嬉しいです。克美のセリフ廻し、普通の男言葉をいかに可愛く見せるかににはかなり凝ってます。<BR><BR>&gt; 克美と真衣のかっこよさ<BR>&gt; 更衣室の中でちょっと嬉しくなってる真衣さんが良いですね。<BR>　今回一番気を遣ったのは、実は真衣のキャラを立たせる事だったんですよ。前回はちょっとご都合主義的に動かしちゃいましたからね。作者のお気に入りなので、真衣を気に入ってくれる人がいるとすごく嬉しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">����</a></strong>  <i>1999/10/04 11:21:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">匿名</a></strong>  <i>1999/10/04 11:21:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939003685awqie&id2=938795692xagdq&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939003685awqie_id2_938795692xagdq_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�u����܂Ȃ��̎q��Daily��Life!�v�ւ̃R�����g�z <BR>�撣���ĉ�����
+【「いんまなあの子のDaily☆Life!」へのコメント】 <BR>頑張って下さい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/10/04 21:10:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/10/04 21:10:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939039030fixgi&id2=938795692xagdq&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939039030fixgi_id2_938795692xagdq_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�u����܂Ȃ��̎q��Daily��Life!�v�ւ̃R�����g�z <BR><BR>�ǂ܂��Ă��������܂����B<BR>������΂����Ƃ�������ł��Ȃ����傤����<BR>��͂�A���ꂭ�炢�̃T�C�Y�̕����A�ǂ݉��������邵�A<BR>�ׂ����`�ʂ������Ƃ��Ăāu���[�v�ł��B<BR>�l�I�ɂ́A���̃R�ɂȂ�܂ł��A���̃R�ɂȂ�����������<BR>�W�J�̕����D���Ȃ̂ŁA���ꂭ�炢�̃{�����[�����Ȃ���<BR>�_���Ȃ̂ł��B<BR>�i�R�X�g�̂����郄�c�E�E�E�j<BR>������A��邱�Ƃ����Ƃ���Ă���Ă܂��˂��B<BR>�ԊO�҂Ȃ�Ă���̂��A���������Ȃ��B<BR>�����Ƒ��҂Œʂ邶��Ȃ��ł����B<BR>���̂܂ɂ��A���̃R�ɐg�̂Ɛ����Ɋ���Ă���������Ƃ���ŁA<BR>�n�b�ƁA��ɕԂ��āA�p�����������˘f�����̕`�ʂ�<BR>���܂�܂���B<BR>�����W�F���[�p�ŁA���邩������āA�|�[�Y�Ƃ����肵�Ă�Ƃ�<BR>�Ȃ�Ĉ�i�ł��B<BR>�����i�H�j�������w���������Ƃł����A<BR>����A����́A�j���ɂ����ăi���p���ꂽ��A�z�킸�T�L���b�o�X��<BR>�{�\���o��������҂Ƃ��A<BR>�ʐ^���B��ꂽ��A���ꂪ�G���ɍڂ��āA�X�g�[�J�[��<BR>�_��ꂿ��������҂Ƃ��Ɋ��҂��Ă܂��B<BR><BR>
+【「いんまなあの子のDaily☆Life!」へのコメント】 <BR><BR>読ませていただきました。<BR>長ければいいというもんでもないしょうけど<BR>やはり、これくらいのサイズの方が、読み応えがあるし、<BR>細かい描写がちゃんとしてて「ぐー」です。<BR>個人的には、女のコになるまでより、女のコになっちゃった後の<BR>展開の方が好きなので、これくらいのボリュームがないと<BR>ダメなのです。<BR>（コストのかかるヤツ・・・）<BR>今回も、やることちゃんとやってくれてますねえ。<BR>番外編なんてつけるのが、もったいない。<BR>ちゃんと続編で通るじゃないですか。<BR>いつのまにか、女のコに身体と生活に慣れてきちゃったところで、<BR>ハッと、我に返って、恥ずかしいやら戸惑うやらの描写が<BR>たまりません。<BR>ランジェリー姿で、いるかを抱いて、ポーズとったりしてるとこ<BR>なんて逸品です。<BR>無事（？）水着も購入したことですし、<BR>是非、次回は、泳ぎにいってナンパされたら、想わずサキュッバスの<BR>本能が出ちゃった編とか、<BR>写真を撮られたら、それが雑誌に載って、ストーカーに<BR>狙われちゃったぞ編とかに期待してます。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>1999/10/04 22:02:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>1999/10/04 22:02:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939042175lwmoerw&id2=938795692xagdq&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939042175lwmoerw_id2_938795692xagdq_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O��V���[�c�Ɋ��ݕt���ꂽ�̂ł�����A�Ǝv������<BR>����ς�˂��B�i���E��E���E���E���E�Ȃ̂��ȁH�j<BR>���������͂��̂��ƁA���m���𒅂��̂ł��傤���H<BR>���̂������̂܂�܁A�A�p�[�g�܂ŋA�����̂��ȁH<BR>�E�E�E�Ƃ���Ƃ��Ȃ萦�����ƂɂȂ��Ă����ȁE�E�E<BR><BR>����ς莟������ݕt�����̂��낤���H
+前回ショーツに噛み付かれたのでもしや、と思ったら<BR>やっぱりねえ。（お・や・く・そ・く・なのかな？）<BR>克美ちゃんはあのあと、いつ洋服を着たのでしょうか？<BR>あのかっこのまんま、アパートまで帰ったのかな？<BR>・・・とするとかなり凄いことになってそうな・・・<BR><BR>やっぱり次回も噛み付かれるのだろうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>1999/10/05 05:17:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>1999/10/05 05:17:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939068225raorjeg&id2=938795692xagdq&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939068225raorjeg_id2_938795692xagdq_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪���₠�肪����B<BR>���z�̃V�X�e�����ς���������Ȃ̂��A�����̐����񂹂Ē����Ė{���Ɋ���������ł��B<BR><BR>����������<BR>&gt; �撣���ĉ�����<BR>���҂����҂��鐺�����\�����܂����̂ŁA��������[����߂��撣��܂��B<BR>�ĒÂ͒��x�M�Ȃ̂Œx���Ȃ��Ă��������Ȃ��ł��������ˁB<BR><BR>�����ƂԂ��Ђ��邳��<BR>�������Ƒ��҂Œʂ邶��Ȃ��ł����B<BR>�����ł��ˁB�����オ���Ă݂�΂��������G�s�\�[�h������܂������ˁB<BR>���͂���܂ȃV���[�Y�͂Ƃ肠�����t�ďH�~���e��҂ƌ��߂Ă���ł���B<BR>����͂��������u�āv�̑O����^�I�����������͂��ŁA<BR>�����n�߂��Ƃ��͂ƂĂ��܂Ƃ܂肻���ȋC�����Ȃ�������ł��B<BR>������A����́c�c<BR>�Ƃ����킯�ŁA����u�āv�͊C�֍s���\��B�܂��܂��u�V�A���Z�̂�����v�����Ă܂��ȁB<BR><BR>�������W�F���[�p�ŁA���邩������āA�|�[�Y�Ƃ����肵�Ă�Ƃ��Ȃ�Ĉ�i�ł��B<BR>�ĒÓI�ɂ����C�ɓ���̃V�[���ł��B<BR>�ЂƂ������񂾌�ŁA��ɕԂ��ĐS�������Ȃ����肵�Ă�񂾂낤�ȁc�c�B<BR><BR>�����Ȃ���<BR>&gt; �O��V���[�c�Ɋ��ݕt���ꂽ�̂ł�����A�Ǝv���������ς�˂��B<BR>�����ƁA�ǂ܂�Ă��܂��܂������B�u���ʁv�A�u�����p�v�������ł��ˁB<BR>�J�[�}�̌����u���ʁv���A����������_�ȃf�U�C��(�����������������v���Ă邾��)<BR>�ōςނ͂����Ȃ���ł��˂��B<BR>&gt; ���̂������̂܂�܁A�A�p�[�g�܂ŋA�����̂��ȁH<BR>��ғI�ɂ͂����܂ł����߂����͂Ȃ����ǁA�{���ɂǂ��Ȃ�����ł��傤�ˁB<BR>���l���Ȃ��q��������z�������b�N�ɓ��ꂽ�܂܂��낤���c�c�B���`��B<BR>&gt; ����ς莟������ݕt�����̂��낤���H <BR>���Ăǂ����܂��傤�B���̕����F����������ł��H
+ありがたやありがたや。<BR>感想のシステムが変わったせいなのか、多くの声を寄せて頂けて本当に嬉しい限りです。<BR><BR>▽匿名さん<BR>&gt; 頑張って下さい<BR>続編を期待する声も結構頂きましたので、いっしょーけんめい頑張ります。<BR>米津は超遅筆なので遅くなっても見放さないでくださいね。<BR><BR>▽ことぶきひかるさん<BR>＞ちゃんと続編で通るじゃないですか。<BR>そうですね。書き上がってみればそこそこエピソードもありましたしね。<BR>実はいんまなシリーズはとりあえず春夏秋冬が各一編と決めてたんですよ。<BR>今回はそもそも「夏」の前哨戦／露払いだったはずで、<BR>書き始めたときはとてもまとまりそうな気がしなかったんです。<BR>＞是非、次回は……<BR>というわけで、次回「夏」は海へ行く予定。ますます「シア☆セのか☆ら」化してますな。<BR><BR>＞ランジェリー姿で、いるかを抱いて、ポーズとったりしてるとこなんて逸品です。<BR>米津的にもお気に入りのシーンです。<BR>ひとしきり喜んだ後で、我に返って心が寒くなったりしてるんだろうな……。<BR><BR>▽すなさん<BR>&gt; 前回ショーツに噛み付かれたのでもしや、と思ったらやっぱりねえ。<BR>おっと、読まれてしまいましたか。「特別」、「勝負用」が伏線ですね。<BR>カーマの言う「特別」が、たかだか大胆なデザイン(しかも克美がそう思ってるだけ)<BR>で済むはずがないんですねえ。<BR>&gt; あのかっこのまんま、アパートまで帰ったのかな？<BR>作者的にはそこまでいじめるつもりはないけど、本当にどうなったんでしょうね。<BR>後先考えない子だから財布もリュックに入れたままだろうし……。う～ん。<BR>&gt; やっぱり次回も噛み付かれるのだろうか？ <BR>さてどうしましょう。その方が皆さん嬉しいです？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�ߗR��</a></strong>  <i>1999/10/06 01:15:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">那由他</a></strong>  <i>1999/10/06 01:15:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939140158qwyww&id2=938795692xagdq&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939140158qwyww_id2_938795692xagdq_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�u����܂Ȃ��̎q��Daily��Life!�v�ւ̃R�����g�z <BR>�������납�����ł��B<BR>���[�������邢�b���̕����D���Ȃ�ő��������҂��Ă܂��B<BR>
+【「いんまなあの子のDaily☆Life!」へのコメント】 <BR>おもしろかったです。<BR>こーいう明るい話しの方が好きなんで続きを期待してます。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�s�v�n�|�a�h�s</strong>  <i>1999/10/06 05:39:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＴＷＯ－ＢＩＴ</strong>  <i>1999/10/06 05:39:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939155979mbupjuu&id2=938795692xagdq&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939155979mbupjuu_id2_938795692xagdq_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�C���J����������Ă���}���`��<BR>�@�L�����N�^�[�������Ă���B<BR>�@����Ϗ�肢�ȁA�ĒÂ���B����Ă���邺�B
+　イルカを抱っこしている図が～♪<BR>　キャラクターが活きている。<BR>　やっぱ上手いな、米津さん。やってくれるぜ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>1999/10/07 03:49:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>1999/10/07 03:49:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939235741oqcub&id2=938795692xagdq&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939235741oqcub_id2_938795692xagdq_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ߗR������<BR>&gt;���[�������邢�b���̕����D���Ȃ��<BR>�����ł��`�B�ĒÂ��������炩�`��Ƃ������邢�b���D���ł��B<BR>�^�C�g�����w���I�Ȍꊴ�́u�����v�ł͂Ȃ��A�u����܁v�ɂȂ��Ă邠����ɍ�҂̚n�D����������ɂȂ��Ă܂��ȁB<BR><BR>���s�v�n�|�a�h�s����<BR>#�C���t����HN���c�c�B<BR>&gt;�C���J����������Ă���}���`��<BR>�ӂ��ӂ��ӁA����łR�l�ځB���邩�̕������͐l�C��X�ł��ȁB<BR>�ӂ�����ʂł��邩�ɖj�𖄂߂������ɏ�ڌ������ɂ܂ꂽ�肵����A�ĒÂ��㎀���Ă��܂��܂�(�j��)�B<BR><BR>&gt;�L�����N�^�[�������Ă���B<BR>���肪�Ƃ��������܂��B�F����̈ӌ��𑍍�����ƁA�ǂ���瓖���̖ړI�͒B����ꂽ�悤�ł��ˁB<BR>��������ƁA���񂩂炠�̖ʁX���f���ɓ����Ă���邩�ǂ��������ł��ȁB
+▽那由他さん<BR>&gt;こーいう明るい話しの方が好きなんで<BR>同感です～。米津もあっけらか～んとした明るい話が好きです。<BR>タイトルが背徳的な語感の「淫魔」ではなく、「いんま」になってるあたりに作者の嗜好が浮き彫りになってますな。<BR><BR>▽ＴＷＯ－ＢＩＴさん<BR>#気が付けばHNが……。<BR>&gt;イルカを抱っこしている図が～♪<BR>ふっふっふ、これで３人目。いるかの抱き枕は人気上々ですな。<BR>ふくれっ面でいるかに頬を埋めた克美に上目遣いで睨まれたりしたら、米津も悶死してしまいます(核爆)。<BR><BR>&gt;キャラクターが活きている。<BR>ありがとうございます。皆さんの意見を総合すると、どうやら当初の目的は達せられたようですね。<BR>そうすると、次回からあの面々が素直に動いてくれるかどうかが鍵ですな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">��×���</a></strong>  <i>1999/10/09 05:35:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">会津里花</a></strong>  <i>1999/10/09 05:35:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939414937wniih&id2=938795692xagdq&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939414937wniih_id2_938795692xagdq_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�u����܂Ȃ��̎q��Daily��Life!�v�ւ̃R�����g�z <BR>���̂Ƃ���A���`���Ƃ��Ԃ������Ă������Ԃł��B<BR>������Ƃ̂�������A�u���Ɂv�S�̂��ƂĂ��������`�ɂȂ��Ă��邵�A�u����܁v�̃^�C�g�����o�Ă��邵�I<BR>�ǂ񂶂�����B<BR>�����Ɛ^�߁A���킢���ł��ˁI<BR>�ĒÂ���̂��b�A������������ƃL���C�ɂ܂Ƃ܂��Ă���̂ŁA�Ƃ��Ă����S���Ċy���߂�̂ł��B<BR>���{�l�́u�x�M�v���Č�������ǁA���ꂾ�����Ȃ��d�˂Ă��ł���H<BR>�Ƃ��Ă�����ĂāA�ǌオ�C���������ł��B<BR>�N�s�h�ƃJ�[�}�̃q���b�Ƃ�����V�[�����A�m���ɃV���A�X�Ȃ��̂�w��ɍT���Ă���̂ł��傤����ǁA�����ɑ΂��鉷���ȖځA�Ƃ����_�ł͂ǂ���������Ă͂��炸�A�ǂ��炩�Ƃ����Ɓu�ق̂ڂ́v�Ƃ��������œǂ�ł��܂��܂����B<BR><BR>�ĒÂ���̍�i�A��D���ł��B<BR>���ꂩ����A�y���݂ɂ��Ă��܂��B<BR><BR>�ł�
+【「いんまなあの子のDaily☆Life!」へのコメント】 <BR>このところ、ず～っとごぶさたしていた里花です。<BR>ちょっとのぞいたら、「文庫」全体がとても整った形になっているし、「いんま」のタイトルも出ているし！<BR>読んじゃった。<BR>克美と真衣、かわいいですね！<BR>米津さんのお話、いつもしっかりとキレイにまとまっているので、とっても安心して楽しめるのです。<BR>ご本人は「遅筆」って言うけれど、それだけ推敲も重ねてるんでしょ？<BR>とっても練れてて、読後が気持ちいいです。<BR>クピドとカーマのヒヤッとさせるシーンも、確かにシリアスなものを背後に控えているのでしょうけれど、克美に対する温かな目、という点ではどちらも負けてはおらず、どちらかというと「ほのぼの」とした感じで読んでしまいました。<BR><BR>米津さんの作品、大好きです。<BR>これからも、楽しみにしています。<BR><BR>では
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>1999/10/11 02:48:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>1999/10/11 02:48:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939577720argkcp&id2=938795692xagdq&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939577720argkcp_id2_938795692xagdq_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �����Ɛ^�߁A���킢���ł��ˁI<BR>���ɑ�l�̊֌W�������Ă��l�ł����A�R�[�R�[�Z�C���ۂ����X�����������������܂��B<BR>�^�߂����b�ł�"�i�s��"�݂����ȗ�����N�s�h�ɏ�������ŁA<BR>���ꂩ��͓�l�ł��낢�늈�􂵂Ă����Ǝv���܂��B�����҉������ȁB<BR><BR>&gt;���{�l�́u�x�M�v���Č�������ǁA���ꂾ�����Ȃ��d�˂Ă��ł���H<BR>�Z���t�ꌾ�Ɉ���|��������A�����炭���Ȃ��Ԃ������Ă镔�ނ��Ǝv���܂����A<BR>DailyLife�͍Ō�̍Z�������Ƃ��Ƃ��Ȃ���(��)����������ŐF�X�~�X������܂��B<BR>(�E���Ƃ��ABR�^�O�������Ƃ�)�@����͂�A���s���s�c�c�B<BR>���Ȃ݂�DailyLife�łR�����APerkyGirl�łQ�����������Ă܂��B<BR>��Ɓ`�Ɏ����Ă͖񔼔N�B����ϒx�M�ł��ȁB<BR><BR>&gt; �ǂ��炩�Ƃ����Ɓu�ق̂ڂ́v�Ƃ��������œǂ�ł��܂��܂����B<BR>�ĒÂ͏�����"����"��`���������Ȃ���ŁA�ٔ������o���؂�Ȃ�������������܂���ˁB<BR>���̐ݒ��"�ŏI�b"�ɂ����ނ��ƂɂȂ��ł����A<BR>����"�ŏI�b"�������ׂ�����������ׂ����A�����Ȃ�ǂ��������e�ɂ��邩���v�Ē��B<BR>�e�b�̃G�s�\�[�h�ɂ��ւ�邱�Ƃ����瑁�����߂Ȃ��Ⴂ���Ȃ��񂾂��ǁA�Ȃ��Ȃ����ł��B<BR>
+&gt; 克美と真衣、かわいいですね！<BR>既に大人の関係も持ってる二人ですが、コーコーセイっぽい初々しい恋愛が似合います。<BR>真衣が第一話での"進行役"みたいな立場をクピドに譲ったんで、<BR>これからは二人でいろいろ活躍してくれると思います。ご期待下さいな。<BR><BR>&gt;ご本人は「遅筆」って言うけれど、それだけ推敲も重ねてるんでしょ？<BR>セリフ一言に一日掛かったり、おそらくかなり手間をかけてる部類だと思いますが、<BR>DailyLifeは最後の校正をうとうとしながら(爆)やったせいで色々ミスがあります。<BR>(脱字とか、BRタグが無いとか)　いやはや、失敗失敗……。<BR>ちなみにDailyLifeで３ヶ月、PerkyGirlで２ヶ月かかってます。<BR>榊家～に至っては約半年。やっぱ遅筆ですな。<BR><BR>&gt; どちらかというと「ほのぼの」とした感じで読んでしまいました。<BR>米津は純粋な"悪意"を描いた事がないんで、緊迫感を出し切れなかったかもしれませんね。<BR>あの設定は"最終話"にも絡むことになるんですが、<BR>その"最終話"を書くべきか書かざるべきか、書くならどういう内容にするかを思案中。<BR>各話のエピソードにも関わることだから早く決めなきゃいけないんだけど、なかなか難問です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m�C��</strong>  <i>2001/12/25 06:30:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ノイン</strong>  <i>2001/12/25 06:30:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=1009229450coecoe&id2=938795692xagdq&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_1009229450coecoe_id2_938795692xagdq_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂��炱��ȂƂ���ɏ����Ă����Ă��炦�邩������܂��񂪁A<BR>�Ƃ������������납�����ł��ˁB�Ȃɂ��ɗD�����J�[�}���D���ł����B<BR>���Ҋ��҂��Ă܂��B
+いまさらこんなところに書いても見てもらえるか分かりませんが、<BR>ともかくおもしろかったですね。なにげに優しいカーマが好きでした。<BR>続編期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2002/06/17 00:12:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2002/06/17 00:12:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=1024240379obasn&id2=938795692xagdq&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_1024240379obasn_id2_938795692xagdq_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A���̂悤�ȂƂ���Ɂc�c�B<BR>���N�������ēǂ�ł��炦�邩������܂��񂪁A���z���肪�Ƃ��������܂����B<BR><BR>&gt; �Ȃɂ��ɗD�����J�[�}���D���ł����B<BR>�ĒÂ̒��ł͊ԈႢ�Ȃ��N�s�h���D�����Đ^���ȃ��c�ł��B�v�����݂��������̂ƁA���j�̎q�̏��S�����񂺂񕪂����ĂȂ��̂��ʂ���ł���(��)�B
+あう、このようなところに……。<BR>半年もたって読んでもらえるか分かりませんが、感想ありがとうございました。<BR><BR>&gt; なにげに優しいカーマが好きでした。<BR>米津の中では間違いなくクピドより優しくて真摯なヤツです。思いこみが激しいのと、元男の子の女心がぜんぜん分かってないのが玉に瑕ですね(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�J��</strong>  <i>2002/07/23 12:03:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>谷岡</strong>  <i>2002/07/23 12:03:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=1027393402wgodmyi&id2=938795692xagdq&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_1027393402wgodmyi_id2_938795692xagdq_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�u����܂Ȃ��̎q��Daily��Life!�v�ւ̃R�����g�z <BR>
+【「いんまなあの子のDaily☆Life!」へのコメント】 <BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="938795692xagdq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

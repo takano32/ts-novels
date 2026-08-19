@@ -1,511 +1,511 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=973455464pesihpd&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_973455464pesihpd_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�w���{�s�q�x���������x�V���[�Y</font><br>
+<font size="+2" color="#0000FF">『ロボＴＲＹ美少女っ』シリーズ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/robot_triathlon/title.htm" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/11/06 05:17:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/robot_triathlon/title.htm" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/11/06 05:17:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973455464pesihpd&id2=973455464pesihpd&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973455464pesihpd_id2_973455464pesihpd_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z ���ہi�͂��邢�j�w�����Z���q���{�s�q�x�i���{�b�g�E�g���C�A�X�����j�����S�̊�@�I�@�c�Ȃ��݂̃s���`�Ɏ�l���E�b��́A��̔�������������ꂽ��F�̘r�ւ̗͂𔭓��������<BR>
+【あらすじ】 白塁（はくるい）学園高校女子ロボＴＲＹ（ロボット・トライアスロン）部存亡の危機！　幼なじみのピンチに主人公・甲介は、謎の美少女から託された銀色の腕輪の力を発動させるっ<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2000/11/06 06:32:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>甫嶺</strong>  <i>2000/11/06 06:32:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973459974nnkswfb&id2=973455464pesihpd&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973459974nnkswfb_id2_973455464pesihpd_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ȁE�E�E�Ȃ�`���A�e���V���������ł��ˁB<BR>�y�����ǂ߂�̂łn�j�ł��B
+な・・・なんつ～か、テンション高いですね。<BR>楽しく読めるのでＯＫです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����@���Y�i���A�с@���G�j</strong>  <i>2000/11/07 22:24:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>多喜　丙郎（元、林　豪秀）</strong>  <i>2000/11/07 22:24:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973603459xaaupy&id2=973455464pesihpd&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973603459xaaupy_id2_973455464pesihpd_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��A���������b��D���ł��I�B<BR>����Ƃ���S�b�y���݂ł��B
+いーや、こういう話大好きです！。<BR>是非とも第４話楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/08 01:37:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/08 01:37:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973615047bnpus&id2=973455464pesihpd&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973615047bnpus_id2_973455464pesihpd_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������A�������傢���I
+さおりん、かっちょいい！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kagerou6</strong>  <i>2000/11/08 18:42:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973676566ohstf&id2=973455464pesihpd&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973676566ohstf_id2_973455464pesihpd_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�҂��Ă܂����������V��E�E�E�E���A�G���������<BR>�S�b�ڂɊ��҂��Ă܂��I
+待ってましたさおりん新作・・・・え、絵だけ今回は<BR>４話目に期待してます！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2000/11/08 23:54:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>甫嶺</strong>  <i>2000/11/08 23:54:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973695291ewlhyl&id2=973455464pesihpd&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973695291ewlhyl_id2_973455464pesihpd_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������̊G�́A���������ă|�����Z���V�F�[�f�B���O�����H�i�Ȃ�ƂȂ��j
+さおりんの絵は、もしかしてポリをセルシェーディング処理？（なんとなく）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2000/11/12 16:37:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>くり</strong>  <i>2000/11/12 16:37:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=974014679nkbqf&id2=973455464pesihpd&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_974014679nkbqf_id2_973455464pesihpd_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G�����āA����̍�i�܂��܂��y���݂ɂȂ�܂����B�撣���ĉ������ˁB
+絵を見て、次回の作品ますます楽しみになりました。頑張って下さいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200012/03175506/robot_triathlon4.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/12/03 18:33:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200012/03175506/robot_triathlon4.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/12/03 18:33:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975836016lcahjg&id2=973455464pesihpd&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975836016lcahjg_id2_973455464pesihpd_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�D�G��͔��������z<BR>�y���E���z�c�����C�Ɖ��ꂽ�v�f���������钆�A�b����̓��ɔ�߂�"��"���_�Ԍ�����I�@�Ƃ��������ŁA�b��N�̏��剉��i(��)�ł��B�M���O�ɕ���ĔE�э��ދ��C���G��B�����ĖG���h�ɂ͊������r�W���A���̐��X���B���I��������ɑ����������̓o��ł��B
+【好敵手は美少女っ】<BR>【推薦文】幼い狂気と汚れた思惑が交錯する中、甲介がその内に秘めた"漢"を垣間見せる！　という感じで、甲介君の初主演作品(笑)です。ギャグに紛れて忍び込む狂気が秀逸。そして萌え派には嬉しいビジュアルの数々も。世紀末を飾るに相応しい大作の登場です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kagerou6@maple.yyy.or.jp" target="_blank">kagerou6</a></strong>  <i>2000/12/03 22:13:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975849191qxiyvk&id2=973455464pesihpd&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975849191qxiyvk_id2_973455464pesihpd_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v�X�̂������􊬔\���܂����E�E�E�I�[���L���X�g�A�������j���E�L�����̑呝�W�P�j�a�E�E�E�������ɓǂ񂶂Ⴂ�܂���<BR>�������l�n�m�c�n����I������΂��I�E�E�E�z���g���I���ɊԂɍ����܂������Ċ���(^^)�����ō��I�E�E�E���������F���ۂ��Ȃ��Ă܃@(^^)<BR>�ł��E�E�E�Ȃ񂩂��N���΂�܂���H���̐ݒ�E�E�E���鎄���Ȃ񂾂���
+久々のさおりん♪堪能しました・・・オールキャスト、しかもニュウキャラの大増８１ＫＢ・・・いっきに読んじゃいました<BR>さすがＭＯＮＤＯさん！もう大笑い！・・・ホント世紀末に間に合いましたって感じ(^^)もう最高！・・・さおりんも色っぽくなってまァ(^^)<BR>でも・・・なんかお年がばれません？あの設定・・・判る私もなんだけど
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�e��</strong>  <i>2000/12/04 17:56:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>親方</strong>  <i>2000/12/04 17:56:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975920198gxjuyrj&id2=973455464pesihpd&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975920198gxjuyrj_id2_973455464pesihpd_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v�X�ɍb��̊���ł��ˁB�G���x�����������������ɃV���A�X�x��<BR>�Q�{���炢�ł��傤���i���Д�j�B<BR>�������A���l�^�S���킩��ЂƂ͉��l�����ł��傤�B<BR>�������킩��Ȃ��̂��������B�N���΂�邩�ȁ[�B<BR>�f����͔������f�ł͍b��Ƃق̂������̋Z���͂Ȃ��Ă�����<BR>���҂��Ă鎩���͕ς��ȁ[�B
+久々に甲介の活躍ですね。萌え度が少し減ったかわりにシリアス度が<BR>２倍くらいでしょうか（当社比）。<BR>しかし、元ネタ全部わかるひとは何人いるんでしょう。<BR>いくつかわからないのがあった。年がばれるかなー。<BR>’決戦は美少女’では甲介とほのかが合体技をはなってくれると<BR>期待してる自分は変かなー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�a�`�e</strong>  <i>2000/12/05 18:12:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＢＡＦ</strong>  <i>2000/12/05 18:12:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976007565ageusb&id2=973455464pesihpd&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976007565ageusb_id2_973455464pesihpd_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v���Ԃ�̖{�ҁB�R���������Ċ��ݒ��߂�悤�Ɋy���܂��Ă��炢�܂����B<BR>�΂��ƃV���A�X�̂����G�Ɍ����荇���y�����{���ł����B<BR>�܂��ɃI�[���X�^�[�L���X�g��\���I������ɂӂ��킵������ł��B�i��H��������l�͏o�Ă������H�j<BR><BR>���������A�N���X�}�X���؂����i�T���^�R�X�v���j�Ƃ��������؂����i�������U���j���N�G�X�g��������Ă����ł����H�i�΁j
+久しぶりの本編。３日もかけて噛み締めるように楽しませてもらいました。<BR>笑いとシリアスのが複雑に交じり合い楽しさ倍増でした。<BR>まさにオールスターキャスト二十世紀末飾るにふさわしい名作です。（ん？潮香お嬢様は出てたっけ？）<BR><BR>そうそう、クリスマスすぺしゃる（サンタコスプレ）とお正月すぺしゃる（もちろん振袖）リクエストしちゃっていいですか？（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2000/12/10 08:10:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>くり</strong>  <i>2000/12/10 08:10:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976403451dwawwr&id2=973455464pesihpd&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976403451dwawwr_id2_973455464pesihpd_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������B�����Ɋy����ł��܂����i�΁j<BR>���Ŗ{�҃��X�g�Ƃ͎₵���C�����܂����A������y���݂ł��B<BR>�ŁA�d�w�̕��ŐF�X�Ɗ��҂��c��݂܂��B<BR>�������̃t�@�[�X�g�L�X�Ƃ��i�ڂ��j<BR><BR>�������撣���ĉ������ˁB
+いかん。純粋に楽しんでしまった（笑）<BR>次で本編ラストとは寂しい気がしますが、今から楽しみです。<BR>で、ＥＸの方で色々と期待が膨らみます。<BR>さおりんのファーストキスとか（ぼそ）<BR><BR>次回作も頑張って下さいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/12/30 11:07:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/12/30 11:07:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978142053epakevu&id2=973455464pesihpd&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978142053epakevu_id2_973455464pesihpd_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������̃t�@�[�X�g�L�X�Ƃ��i�ڂ��j<BR><BR>�@���āA����͂��������N�ɂȂ�ł��傤�H<BR>�@�{���͂���ς�ق̂������B�΍R�͂��t��or���}�g����B<BR>�@�匊�͐��P����B�����Ĕ��e�O�͋ؓ��_���}�c�c�Ƃ������Ƃ���ł��傤���i�΁j�B<BR><BR>�@�F�l���z���肪�Ƃ��������܂����B�Ԏ����x��Đ\���󂠂�܂���B<BR><BR>���Ȃ񂩂��N���΂�܂���H�@���̐ݒ�c�c<BR><BR>�@�ǁc�c�ǂ�̂��Ƃł��傤�i�΁j�H�@�ׂ����l�^�݂͂�Ȃ�����������Ȃ��c�c�B<BR><BR>���b��Ƃق̂������̋Z���͂Ȃ��Ă����Ɗ��҂��Ă鎩���͕ς��ȁ[�B<BR><BR>�@�ʂ������A��������Ă���i���j�B<BR><BR>���΂��ƃV���A�X�̂����G�Ɍ����荇���y�����{���ł����B<BR><BR>�@���肪�Ƃ��������܂��B���������Ă���������Ƃ��ꂵ���ł��B<BR>�@�N�����ɂ́w���{�s�q�x�E�d�w�|�r�@�������Ύ��L�x�𓊍e���܂��̂ŁA�܂���낵�����˂������܂��B
+＞さおりんのファーストキスとか（ぼそ）<BR><BR>　さて、相手はいったい誰になるでしょう？<BR>　本命はやっぱりほのかちゃん。対抗はお師匠orヤマトくん。<BR>　大穴は正輝くん。そして範疇外は筋肉ダルマ……といったところでしょうか（笑）。<BR><BR>　皆様感想ありがとうございました。返事が遅れて申し訳ありません。<BR><BR>＞なんかお年がばれません？　あの設定……<BR><BR>　ど……どれのことでしょう（笑）？　細かいネタはみんなそうかもしれない……。<BR><BR>＞甲介とほのかが合体技をはなってくれると期待してる自分は変かなー。<BR><BR>　ぬううっ、見抜かれてるっ（爆）。<BR><BR>＞笑いとシリアスのが複雑に交じり合い楽しさ倍増でした。<BR><BR>　ありがとうございます。そう言っていただけるとうれしいです。<BR>　年明けには『ロボＴＲＹ・ＥＸ－Ｓ　さおりん歳時記』を投稿しますので、またよろしくおねがいします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/03134828/robotry%20ex-s.htm" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/01/03 14:17:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/03134828/robotry ex-s.htm" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/01/03 14:17:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978499079cxwths&id2=973455464pesihpd&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978499079cxwths_id2_973455464pesihpd_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���f���ōD�]�������w���{�g���x�d�w�|�r���C���X�g�t�Ńo�[�W�����A�b�v�I
+第二掲示板で好評だった『ロボトラ』ＥＸ－Ｓがイラスト付でバージョンアップ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>2001/01/03 14:18:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>2001/01/03 14:18:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978499119kionyg&id2=973455464pesihpd&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978499119kionyg_id2_973455464pesihpd_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V�N���X�������̂������Ă��������܂����B
+新年早々いいものを見せていただきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kagerou6</strong>  <i>2001/01/03 17:26:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978510379cevwti&id2=973455464pesihpd&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978510379cevwti_id2_973455464pesihpd_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ō��ł�(^^)<BR>����ȗǂ�����V�N���猩�����Ă����������N�͗ǂ��N�ɂȂ肻���ł�<BR>���N���ǂ���i���҂��Ă܂��I
+最高です(^^)<BR>こんな良い物を新年から見させていただき今年は良い年になりそうです<BR>今年も良い作品期待してます！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/01/04 00:19:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/01/04 00:19:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978535190ptakhf&id2=973455464pesihpd&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978535190ptakhf_id2_973455464pesihpd_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���Ղ葛���������炵���Ă����ł��ˁA�F�l�̊G�Ƃl�n�m�c�n����̕�����N���_�C�W�F�X�g�Ō����Ă��ꂽ�̂ł����B<BR>�@���`�L��͂���ς背�I�i�^���C�i�ɂ܂Â��܂����[�B�^���쌠���������L�����i�΁j�͐S�̒��œ]�������Ă��������܂����B
+　お祭り騒ぎが正月らしくていいですね、皆様の絵とＭＯＮＤＯさんの文が昨年をダイジェストで見せてくれたのでした。<BR>　あ～猫野はやっぱりレオナ／レイナにつまづきましたー。某著作権が厳しいキャラ（笑）は心の中で転がさせていただきまっす。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:gedoh@gundam.com" target="_blank">�_�藺</a></strong>  <i>2001/01/04 01:29:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:gedoh@gundam.com" target="_blank">神崎亮</a></strong>  <i>2001/01/04 01:29:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978539378nmaic&id2=973455464pesihpd&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978539378nmaic_id2_973455464pesihpd_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���{�G��TS�G�̑��������_��ɂƂ��Ĉ�ԍD���ȃV���[�Y�ł��B<BR>�c�O�������{�����Ԗڂł����B<BR>�i��ԁH�@�����c�c�j<BR>�Ă�[���A���ŏI���H�@�G�[�I�I�H<BR>���ށA���{�g����񕔁i�����G�j
+ロボ萌えTS萌の属性を持つ神崎にとって一番好きなシリーズです。<BR>残念だが日本じゃ二番目ですが。<BR>（一番？　怪傑……）<BR>てゆーか、次で終わり？　エー！！？<BR>求む、ロボトラ第二部（発動扁）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>BAF</strong>  <i>2001/01/04 12:18:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978578314jxdvckl&id2=973455464pesihpd&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978578314jxdvckl_id2_973455464pesihpd_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�F�X���肷���Ď^���̌��t��������Ȃ��قǊy���܂��Ă��炢�܂����B<BR>�@���ɏ[�������������ɂȂ�܂����B<BR>�@����ł͍��N���i�f�V�E�E�E����A�������̊���y���݂ɂ��Ă���܂��B
+　色々ありすぎて賛辞の言葉が見つからないほど楽しませてもらいました。<BR>　実に充実したお正月になりました。<BR>　それでは今年もナデシ・・・いや、さおりんの活躍楽しみにしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/01/04 18:47:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/01/04 18:47:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978601660wekpt&id2=973455464pesihpd&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978601660wekpt_id2_973455464pesihpd_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�������Ύ��L�n<BR>�������`�I<BR>�f�B�X�v���C�̌������ŁA�����Ղ�΂킹�ĖႢ�܂����B<BR>�����܃i�f�i�f���Ă��������Ȃ����Ⴄ���킢���I<BR>�i�w�ǁu���q���܁v�����j
+［さおりん歳時記］<BR>さいこ～！<BR>ディスプレイの向こうで、たっぷり笑わせて貰いました。<BR>あたまナデナデしてあげたくなっちゃうかわいさ！<BR>（殆ど「お子さま」扱い）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/01/08 14:50:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>くり</strong>  <i>2001/01/08 14:50:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978933047bugsvr&id2=973455464pesihpd&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978933047bugsvr_id2_973455464pesihpd_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������A�v��������΂��܂���(^^<BR>����ŁA���N���ǂ��N�ɂȂ�Ǝv���܂��B
+正月から、思いっきり笑えました(^^<BR>これで、今年も良い年になると思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2001/01/14 21:24:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2001/01/14 21:24:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=979475050sxwdug&id2=973455464pesihpd&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_979475050sxwdug_id2_973455464pesihpd_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�������Ύ��L�z<BR>�f���f�ڎ����A�C���X�g������������ăp���[�A�b�v���Ă܂��ˁI�I<BR>�����I�I�{�΂킵�Ă��������܂����I�I<BR>�L���o�j�[�K�[���̃��C�i�����A�΂킵�Ă��������܂����B<BR>�����Ƃ����ŃE�P�܂����B<BR>���́A�L�����K�l���C�h�ޏ��o�[�ɃK�[������]�E�E�E�E�i�����ꒃ�E�E�j<BR>
+【さおりん歳時記】<BR>掲示板掲載時より、イラストがたくさんついてパワーアップしてますね！！<BR>凄い！！＋笑わしていただきました！！<BR>猫耳バニーガールのレイナちゃん、笑わしていただきました。<BR>いいとこ取りでウケました。<BR>次は、猫耳メガネメイド巫女バーにガールを希望・・・・（無茶苦茶・・）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:gedoh@GUNDAM.com" target="_blank">�_�藺</a></strong>  <i>2001/01/15 00:12:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:gedoh@GUNDAM.com" target="_blank">神崎亮</a></strong>  <i>2001/01/15 00:12:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=979485172gpuuls&id2=973455464pesihpd&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_979485172gpuuls_id2_973455464pesihpd_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�������Ύ��L�z<BR>��݂܂����`<BR>������Z�̂��ꂵ�����Ȃ��Ƃƌ�������(��)�@���͂����̂��S�Ă�Y��Ă��Ă��Ƃł��ȁB<BR><BR>��Ɏc�����������������̐��Ō�ɖ߂�Βn���ɑ���B<BR>�q�[���[�V���[�Ԃ�������ł��B�Ă�[�����K�p�y�b�g���������Ȃ����ȁc�c<BR>�킵�ł����H�@�������w�o���K�C�I�[R�Ԃ�����Ⴀ�x�݂����ȃJ�X�^�����B
+【さおりん歳時記】<BR>よみました～<BR>女美川兄のうれしそうなことと言ったら(笑)　今はいいのさ全てを忘れてってことですな。<BR><BR>後に残った傷ついた俺がこの戦場で後に戻れば地獄に堕ちる。<BR>ヒーローショーぶりもいいです。てゆーかメガパペット現実化しないかな……<BR>わしですか？　もちろん『バンガイオーRぶいすりゃあ』みたいなカスタムを。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/01/16 12:35:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/01/16 12:35:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=979616108dfjncy&id2=973455464pesihpd&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_979616108dfjncy_id2_973455464pesihpd_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӁA�s�o�E�E�E�I�@���܂ŁA�g���ہh��f���Ɂg�͂��邢�h�Ƃ����ǂ�ł��Ȃ��������������I�I�@����͉p��ǂ݂���̂������������̂ˁB�U�N���o�Ă����i�K�ł���A�C�Â��Ȃ��������͂��o�J����B<BR>�_�藺�l�̏������݂�ǂ�ŁA���������f�B�[����������ł��ď��߂ċC���t���܂����B�����A���̑��ɂ����t�V�т����邩���m��Ȃ��̂ˁB�܂��ŏ�����ǂݒ����܂��B<BR>�b�͏����ς�܂����A�K���_���̑����13�b���猩�n�߂����ɂƂ�A�V���A�̈��@�̓U�N�����Y�S�b�N�̃C���[�W�̂ق��������ł��B�����A�Ȃ����ЁE�E�E�B
+ふ、不覚・・・！　今まで、“白塁”を素直に“はくるい”としか読んでいなかったあぁぁぁ！！　これは英語読みするのが正しかったのね。ザクが出てきた段階ですら、気づかなかった私はおバカさん。<BR>神崎亮様の書き込みを読んで、私もメロディーを口ずさんでいて初めて気が付きました。うう、その他にも言葉遊びがあるかも知れないのね。また最初から読み直します。<BR>話は少し変りますが、ガンダムの第一作を13話から見始めた私にとり、シャアの愛機はザクよりもズゴックのイメージのほうが強いです。ああ、なつかしひ・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�䂤��</strong>  <i>2001/03/06 16:58:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ゆうき</strong>  <i>2001/03/06 16:58:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983865531gekkgq&id2=973455464pesihpd&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983865531gekkgq_id2_973455464pesihpd_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�D�G��͔��������z�����͂�����ł��܂���?�y���݂ɂ��Ă��܂��B���ꂩ����撣���Ă��������B<BR>
+【好敵手は美少女っ】次回作はいつごろできますか?楽しみにしています。これからも頑張ってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/04/22 11:16:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987905792nnuwdm&id2=973455464pesihpd&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987905792nnuwdm_id2_973455464pesihpd_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-  ���̎q�ɂȂ��Ă��܂��Ă��A�j�ɖ߂��Ƃ��낪�|�C���g�����ł��ˁB������ł��傤���A�������̏��̎q�Ƃ��Ă̐U�镑�������܂ł����Ă��V�N�ł����ł��B<BR>  �u�Ԃ�����Ⴀ�v�ƕ����ƁA���̔Z���炪���ɕ����Ԃ̂�TOM�����ł��傤���H�Ȃ񂩃g���E�}�ɂȂ肻���ł��B�i�΁j<BR>  ���x�́A���������{�i�I�ɉ����R�X�v������Ƃ��I<BR>���C�h���񂪂����Ȃ��c�B�i�c�z�����c�j�c���A������I�������̐��E�ɋA��Ȃ��Ȃ肻���ł��B�i���ށj
+  女の子になってしまっても、男に戻れるところがポイント高いですね。だからでしょうか、さおりんの女の子としての振る舞いがいつまでたっても新鮮でいいです。<BR>  「ぶいすりゃあ」と聞くと、あの濃い顔が頭に浮かぶのはTOMだけでしょうか？なんかトラウマになりそうです。（笑）<BR>  今度は、さおりんも本格的に何かコスプレするとか！<BR>メイドさんがいいなぁ…。（…想像中…）…い、いかん！こっちの世界に帰れなくなりそうです。（莫迦）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">��×���(���������^�c�ψ�)</a></strong>  <i>2001/08/09 18:21:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">会津里花(いちおう運営委員)</a></strong>  <i>2001/08/09 18:21:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997348891uoyxpvf&id2=973455464pesihpd&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997348891uoyxpvf_id2_973455464pesihpd_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ŐV�ŁA��������UP��ƒ��I<BR>�u�_�����z�����W�S�Q�U�v����A�����͂������H<BR>�v���Ԃ�ɉ��̂�A�������Ɂc�c?!
+最新版、ただいまUP作業中！<BR>「神速感想ｍｋ８４２６」さん、準備はいいっ？<BR>久しぶりに会えるのよ、さおりんに……?!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/robot_triathlon/title.html" target="_blank">�w���{�s�q�x���������x�V���[�Y�̃^�C�g���͂�����</a></strong>  <i>2001/08/09 18:30:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/robot_triathlon/title.html" target="_blank">『ロボＴＲＹ美少女っ』シリーズのタイトルはここ♪</a></strong>  <i>2001/08/09 18:30:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997349413dpjawc&id2=973455464pesihpd&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997349413dpjawc_id2_973455464pesihpd_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�G���R�����I�@���ۊw�����Z���q���{�s�q�x��<BR>�i���́E�w���{�g���x�����w���{�s�q�x���������x�V���[�Y�j�v
+「萌え燃えっ！　白塁学園高校女子ロボＴＲＹ部<BR>（略称・『ロボトラ』ｏｒ『ロボＴＲＹ美少女っ』シリーズ）」
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/robot_triathlon/robotry_ex3.htm" target="_blank">�w���{�s�q�x�E�d�w�|�R�@�����l�������_���������x�փW�����v�I</a></strong>  <i>2001/08/09 22:25:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/robot_triathlon/robotry_ex3.htm" target="_blank">『ロボＴＲＹ・ＥＸ－３　助っ人美少女棒球騒動っ』へジャンプ！</a></strong>  <i>2001/08/09 22:25:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997363511myfmyj&id2=973455464pesihpd&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997363511myfmyj_id2_973455464pesihpd_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�^�C�g���z�@�w���{�s�q�x�E�d�w�|�R�@�����l�������_���������x<BR>�y�y���l�[���z�@�l�n�m�c�n<BR>�y���[���A�h���X�z�@nasuka@df.mbn.or.jp<BR>�y�z�[���y�[�W�z�@�Ȃ�<BR>�y���炷���z�@���q�\�t�g�{�[�����̏����l�����邱�ƂɂȂ������D�i�b��j�Ƃق̂��B�ΐ푊��͎Љ�l�`�[���Ō܎w�ɓ��鋭���̂͂��������̂����c�c�B<BR>�y�R�����g�z�@�ق̂������劈��̗\�肾�����̂ɁA���̂���������̕ꂪ��Ԗڗ����Ă܂��i�΁j�B<BR>�y�W�������z�@�w���@�R���f�B<BR>�y��ʁz�@�ϐg�@�e�N�m���W�[<BR>�y�L�[���[�h�z�@�\�t�g�{�[��<BR>�`��`��`��`��`��`��`��`��<BR>�Ɠ��̕��̂ɕs�𗝂��L�����c�c����Ȃ��A����́u�ʂ���v�A�ł����H�H�@���ց[(�ψ�����Ȃ��Ă��낻��l�I�Ȕ����ɂȂ��Ă��܂����̂ŁA���̂ւ��(^^;)
+【タイトル】　『ロボＴＲＹ・ＥＸ－３　助っ人美少女棒球騒動っ』<BR>【ペンネーム】　ＭＯＮＤＯ<BR>【メールアドレス】　nasuka@df.mbn.or.jp<BR>【ホームページ】　なし<BR>【あらすじ】　女子ソフトボール部の助っ人をすることになった沙織（甲介）とほのか。対戦相手は社会人チームで五指に入る強豪のはずだったのだが……。<BR>【コメント】　ほのかちゃん大活躍の予定だったのに、何故だか女美川の母が一番目立ってます（笑）。<BR>【ジャンル】　学園　コメディ<BR>【種別】　変身　テクノロジー<BR>【キーワード】　ソフトボール<BR>～♪～♪～♪～♪～♪～♪～♪～♪<BR>独特の文体に不条理がキラリ……じゃない、今回は「ぬたり」、ですか？？　うへー(委員じゃなくてそろそろ個人的な発言になってしまったので、このへんで(^^;)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2001/08/09 23:19:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2001/08/09 23:19:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997366767thqqao&id2=973455464pesihpd&ff=on">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997366767thqqao_id2_973455464pesihpd_ff_on.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������������I�@�ΐ�L���v�e���I�@���������͂����I<BR>�c�����ƌ�����I�i��<BR><BR>�����ŏI�񂩂��B�Ɗ��S�ɂӂ���҂��Ă���ԊO�҂Ƃ̂��ƂŁA�z�b�Ƃ��܂����B<BR>�����Ȃ��珗����}�}�̖\�����Ղ�̓X�e�L�ł��B<BR>�n�C�p�[�����암�������ł��˂��B<BR>�\���L�����ϑԃL������D���Ȏ��a�ł����B<BR><BR>�ł����N�������̓z���g�ǂ������ł��傤�B<BR>�z���g�ɔ��ۂɓ��w����̂ł��傤���H<BR>
+あああああっ！　石川キャプテン！　そこから先はぁっ！<BR>…もっと見せれ！（ぉ<BR><BR>もう最終回かぁ。と感慨にふけりつつ待ってたら番外編とのことで、ホッとしました。<BR>いつもながら女美川ママの暴走っぷりはステキです。<BR>ハイパー化松野部もいいですねぇ。<BR>暴走キャラ変態キャラ大好きな七斬でした。<BR><BR>でも来年さおりんはホントどうするんでしょう。<BR>ホントに白塁に入学するのでしょうか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>tsugaiwashikei</strong>  <i>2001/08/09 23:21:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997366892xfuyrhg&id2=973455464pesihpd&ff=on">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997366892xfuyrhg_id2_973455464pesihpd_ff_on.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v�X�ɁA���̃V���[�Y�����܂����B�܂��y���݂ɑ҂��Ă܂��B
+久々に、このシリーズを見ました。また楽しみに待ってます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/08/09 23:42:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/08/09 23:42:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997368134kijnfpw&id2=973455464pesihpd&ff=on">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997368134kijnfpw_id2_973455464pesihpd_ff_on.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����l�������_���������z�ǂ݂܂����B<BR>���[��B���Ƃ����X�g������Ď��Ƃ��Ă��A��΂ɏ�����d�H�ɂ����͏A�E�������Ȃ��c�c�B����Ȋ��z����ԍŏ��ɕ�����ł��܂��܂����B�����������ꏭ�Ȃ��ꏗ�����̂悤�Ȑ��i�̏�i���ĒT���Ή�ЂɂP�l���炢�͕K���������ȋC������B���v���H�@���{�I�H<BR><BR>���Ęb�̓��e�ł����A���������Ă܂��܂������ɂ͊��ꂫ���Ă��Ȃ���ł��ˁB���S�ɏ����ɂȂ肫���Ă���킯�ł͖����͕̂������Ă����̂ł����A��͂菗�q�X�ߎ��̂悤�ȏ�ʂł͂܂��܂��Ƃ������Ƃł��ˁB���܂ł����X�����ėǂ��ł���ˁB<BR><BR>���ꂩ��S���̃C���X�g�̂Ȃ��ł́A��Ԃ̍D�݂́@SEXY SHOT �ł��B�s�b�`���Ƃ����W�[���Y�ɕ�܂ꂽ�ׂ������g���������h�ł��B<BR>�s���N�̃X�j�[�J�[�𗚂��������ȑ��ɂ��G���܂��B<BR>�����瑫�̂ܐ�܂ł̃��C�����D�݂ł��B<BR><BR>����ł͎�����y���݂ɂ��Ă��܂��B<BR>�w���{�t�F�X�^�֐��Q�O�O�P�x����ނ������ʂ������̂ł��傤���H<BR>�������{�b�g�D���ł�����c�c�B
+【助っ人美少女棒球騒動っ】読みました。<BR>うーん。たとえリストラされて失業しても、絶対に女美川重工にだけは就職したくない……。そんな感想が一番最初に浮かんでしまいました。しかし多かれ少なかれ女美川母のような性格の上司って探せば会社に１人ぐらいは必ず居そうな気がする。大丈夫か？　日本！？<BR><BR>さて話の内容ですが、さおりんってまだまた女性には慣れきっていないんですね。完全に女性になりきっているわけでは無いのは分かっていたのですが、やはり女子更衣室のような場面ではまだまだということですね。いつまでも初々しくて良いですよね。<BR><BR>それから４枚のイラストのなかでは、一番の好みは　SEXY SHOT です。ピッチリとしたジーンズに包まれた細い足が“せくしい”です。<BR>ピンクのスニーカーを履いた小さな足にも萌えます。<BR>腰から足のつま先までのラインが好みです。<BR><BR>それでは次回を楽しみにしています。<BR>『ロボフェスタ関西２００１』を取材した成果が現れるのでしょうか？<BR>私もロボット好きですから……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/08/10 00:02:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/08/10 00:02:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997369350grjmnpc&id2=973455464pesihpd&ff=on">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997369350grjmnpc_id2_973455464pesihpd_ff_on.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂��Ă��������܂����B<BR>�@����`���A���v���Ԃ�̂������I�@�C���X�g��Good�ł��B<BR>�@���ς�炸�̃m���ŁA����ς菗�����͓O���O���\�����Ă���܂����B���������Ă��̃l�^�����ł��΂炭��������邩���H�@�o�g�~���g�����̕������ΐ�L���v�e���݂����������炻��͂���ł������ł����c�B<BR><BR>�䂠���݂̂��ł����B
+読ませていただきました。<BR>　うわ～い、お久しぶりのさおりん！　イラストもGoodです。<BR>　相変わらずのノリで、やっぱり女美川母は徹頭徹尾暴走しておりました。もしかしてこのネタだけでしばらく引っ張れるかも？　バトミントン部の部長も石川キャプテンみたいだったらそれはそれですごいですが…。<BR><BR>ゆあさのみきでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>rand</strong>  <i>2001/08/10 00:44:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997371875kggafy&id2=973455464pesihpd&ff=on">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997371875kggafy_id2_973455464pesihpd_ff_on.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v���Ԃ�ɓǂ�ŁA����ς�ʔ��������Ċm�F�ł��Ă悩�����ł�<BR>������y���݂ł��i�O�O�j
+久しぶりに読んで、やっぱり面白い事が再確認できてよかったです<BR>次回も楽しみです（＾＾）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_�K���l�d�H�L��</strong>  <i>2001/08/10 01:55:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢島浩幸＠Ｍ重工広報部</strong>  <i>2001/08/10 01:55:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997376142ddsfa&id2=973455464pesihpd&ff=on">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997376142ddsfa_id2_973455464pesihpd_ff_on.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���E�E�E���͂͂͂́E�E�E<BR><BR>�ǂ����񂾂悧���I�I<BR>���̏ē؂��A���Ă�����A�^����ɖ�ʂɗ��������̂�<BR>�L�񕔂̉��������������I�H<BR><BR>�y���z�_�K��m��Ȃ��l�́A�ْ��u�������̒��ցv�����Q�Ɖ������B(Kardy)
+あ・・・あはははは・・・<BR><BR>どぉすんだよぉっ！！<BR>あの焼豚が帰ってきたら、真っ先に矢面に立たされるのは<BR>広報部の俺たちだぞぉっ！？<BR><BR>【注】浩幸を知らない人は、拙著「蒼い瞳の中へ」をご参照下さい。(Kardy)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/08/10 08:40:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/08/10 08:40:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997400458kntgg&id2=973455464pesihpd&ff=on">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997400458kntgg_id2_973455464pesihpd_ff_on.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����A<BR>���₠���͂͂܂Ƃ܂��Ă��邵�A�R���f�B�^�b�`�Ŗʔ���������͂����ł��ˁB<BR>�v���Ԃ�Ɋy���܂��Ă��������܂����B<BR>�����ɂ����҂ł��B<BR>
+読みました、<BR>いやあ文章はまとまっているし、コメディタッチで面白いしこれはいいですね。<BR>久しぶりに楽しませていただきました。<BR>次回作にも期待です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/10 17:26:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/10 17:26:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997431979yhonjad&id2=973455464pesihpd&ff=on">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997431979yhonjad_id2_973455464pesihpd_ff_on.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������͂l�n�m�c�n�t���B�▭�ȃ^�C�~���O�Ŕ������c�c�B<BR>���ς�炸���̎�̃c�{�͂΂����茈�܂��Ă܂���B�o�b�̑O�Ő��グ�đ�΂��ł���B�������A������̕�̖\���͂��������ǂ��܂ő����̂ł��傤���c�c�B���⋰�낵���B<BR>���ƁA�������ł����A�S���j�̂܂܂��Ɗ댯�ȕ����ɑ����Ă��܂���ł��ˁB����׋��ɂȂ�܂����B���Ȃ݂Ɋ�Ȃ��ΐ�L���v�e���̓��M�����[���肷���ł����ˁB<BR>�C���X�g�̓��j�t�H�[���̂�����񂪂��킢�������ł��B����̓��N���X�̃��j�t�H�[���Ȃ񂩂����Ă݂��������B<BR>����΂��Ă��������B�y���݂ɂ��Ă��܂��B<BR>����́A�O���[�g�o���K�C�I�[�q���B�X�����`�i�Ԃ������`�j�̊���͌�����̂��ȁH<BR>�N�C�Y�̓p�X�ł��B
+さすがはＭＯＮＤＯ師匠。絶妙なタイミングで爆発が……。<BR>相変わらずこの手のツボはばっちり決まってますよ。ＰＣの前で声上げて大笑いですよ。しかし、女美川の母の暴走はいったいどこまで続くのでしょうか……。いや恐ろしい。<BR>あと、さおりんですが、心が男のままだと危険な方向に走ってしまうんですね。いや勉強になりました。ちなみに危ない石川キャプテンはレギュラー入りするんですかね。<BR>イラストはユニフォームのさおりんがかわいかったです。今後はラクロスのユニフォームなんかも見てみたいかも。<BR>がんばってください。楽しみにしています。<BR>次回は、グレートバンガイオーＲヴィスリャ～（ぶいすりゃ～）の活躍は見られるのかな？<BR>クイズはパスです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/08/10 18:51:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997437071hdbmu&id2=973455464pesihpd&ff=on">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997437071hdbmu_id2_973455464pesihpd_ff_on.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������́A����ς�����ł��ˁ[�B<BR>�L�Ƃ����u������v�Ŕڋ��Ȃ܂łɖG�������Ă��܂�MONDO����̋Z�p�́A�u�������[�v�Ǝv���܂��B<BR>�c�c���āA�P��TOM��MONDO����̖G���c�{�������Ȃ�������?<BR>���}�g����̘b�ł́A�������̗����b�ȂƂ�����������ł��B
+さおりんは、やっぱり可愛いですねー。<BR>猫という「小道具」で卑怯なまでに萌えさせてしまうMONDOさんの技術は、「さすがー」と思います。<BR>……って、単にTOMとMONDOさんの萌えツボが同じなだけって?<BR>ヤマトくんの話では、さおりんの恋愛話なところを見たいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2001/08/10 23:26:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2001/08/10 23:26:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997453570qryqih&id2=973455464pesihpd&ff=on">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997453570qryqih_id2_973455464pesihpd_ff_on.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����l�������_���������z<BR>�E�E�E�_�����ă\�t�g�{�[���̎��Ȃ�ł��ˁE�E�E<BR><BR>����A���̂��C�ɓ���́E�E�E����Ϗ��암����ł��傤�B�ނ��u�a�W�v�Ɂg�h�]�h���ꂽ���E�E�E�`�g�C�ɂȂ�܂��ˁi�΁j<BR><BR>�������Ƀf�J�v���I������A�ƌ����g�ݍ��킹�������ނ����΂���U���܂����E�E�E<BR>�f�J�v���I������Ə��암���̑g�ݍ��킹���ӊO�Ƃ���킢���g�ݍ��킹�ɂȂ肻���ȁE�E�E<BR>�i�E�E�E�q�g�m�t�J�E�n�~�c�m�A�W�E�E�E�E�E�E�i�΁j�j<BR><BR>�������A�ԑg��Ŕp���̊�@�Ɋׂ锒�ۍ��Z���Ă��������E�E�E�E�E�E
+【助っ人美少女棒球騒動っ】<BR>・・・棒球ってソフトボールの事なんですね・・・<BR><BR>今回、私のお気に入りは・・・やっぱ松野部さんでしょう。彼が「餌係」に“栄転”されたか・・・チト気になりますね（笑）<BR><BR>女美川母にデカプリオンくん、と言う組み合わせも引き釣った笑いを誘いますが・・・<BR>デカプリオンくんと松野部氏の組み合わせも意外とある種いい組み合わせになりそうな・・・<BR>（・・・ヒトノフカウハミツノアジ・・・・・・（笑））<BR><BR>しかし、番組一つで廃部の危機に陥る白塁高校っていったい・・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낤�Ȃ�</strong>  <i>2001/08/11 13:54:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろうなぎ</strong>  <i>2001/08/11 13:54:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997505695dvxivdh&id2=973455464pesihpd&ff=on">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997505695dvxivdh_id2_973455464pesihpd_ff_on.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����l�������_���������z<BR>�\�t�g�ɓ��ۂ��Ă���܂��������H
+【助っ人美少女棒球騒動っ】<BR>ソフトに盗塁ってありましたっけ？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/08/13 10:31:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/08/13 10:31:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997666312gyiheg&id2=973455464pesihpd&ff=on">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997666312gyiheg_id2_973455464pesihpd_ff_on.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�l�n�m�c�n�ł��B�w�����l�������_���������x�ւ̊��z���肪�Ƃ��������܂����B<BR><BR>�������ŏI�񂩂��B�Ɗ��S�ɂӂ���҂��Ă���ԊO�҂Ƃ̂��ƂŁA�z�b�Ƃ��܂����B<BR><BR>�@���΂炭�ԊO�҂������\��ł��̂ŁA�܂��܂��I������͂���܂���ł��B���ꂩ�����낵�����肢���܂��B<BR><BR>����Ԃ̍D�݂́@SEXY SHOT �ł��B�s�b�`���Ƃ����W�[���Y�ɕ�܂ꂽ�ׂ������g���������h�ł��B<BR><BR>�@��͂́B�����u�_���āv�݂܂����B<BR>�@�c�c�������|�[�Y�܂ł��āA���l���Ă�ł��傤�ˍb��̂�B<BR>�i�b��u���߁[���`�����񂾂�A���߁[�����v�j<BR><BR>�����̏ē؂��A���Ă�����A�^����ɖ�ʂɗ��������͍̂L�񕔂̉��������������I�H<BR><BR>�@���`�A�w�������̒��ցx�̎�l���A��_�K���͏�����d�H�L�񕔋Ζ��Ƃ����g���ӂ������i�΁j�h�Ȑݒ肪����̂ł��B�c�c�ˁA�j������������B<BR><BR>���c�c���āA�P��TOM��MONDO����̖G���c�{�������Ȃ�������?<BR><BR>�@��͂͂͂́A������������Ȃ��B<BR>�@�s�n�l����A���C�h�������`���܂�����B<BR><BR>�����}�g����̘b�ł́A�������̗����b�ȂƂ�����������ł��B<BR><BR>�@�ӂ��ӂ��ӂ��B�u�w���Ɂx�Ŏ���v�Ƃ����̂��ǂ������Ӗ����߂Ă���̂��A�䂪���Ȃ郄�}�g����͑S���C�t���Ă���܂���B<BR><BR>���_�����ă\�t�g�{�[���̎��Ȃ�ł���<BR><BR>�@�w�_���x�͖{���w�싅�ibaseball�j�x�̂��ƂȂ̂ł����A��C�������̂ł����đ薼�Ɏg���Ă݂܂����B<BR><BR>���ނ��u�a�W�v�Ɂg�h�]�h���ꂽ���E�E�E�`�g�C�ɂȂ�܂��ˁi�΁j<BR><BR>�@���`��A�w������̕�t���鏑�x�̂Ȃ�肪�Ȃ��āA���ǖ߂����񂶂�Ȃ��ł��傤���H<BR>�@�ǂ����̎d�����A���암���ɂƂ��Ă͓����悤�Ȃ��̂�������Ȃ��ł����ǁi�΁j�B<BR><BR>���f�J�v���I������Ə��암���̑g�ݍ��킹���ӊO�Ƃ���킢���g�ݍ��킹�ɂȂ肻���ȁE�E�E<BR><BR>�@�ӋC�����i�H�j�����f�J�v���I������ƃn�C�p�[���암���A������̕�ɋt�P����c�c�Ƃ����W�J���A���b�f��̃m���ł���Ă݂�̂��ʔ������ł��ˁB<BR>�@�ł����ď����l�ɕ��������D�������̂Œ��߂悤�Ƃ��āc�c�s��Ɏ��s����A�Ƃ��B<BR><BR>���\�t�g�ɓ��ۂ��Ă���܂��������H<BR><BR>�@����H�@�������͂��ł����ǁc�c�B<BR>�@�����ɂ�����悤�ɁA�\�t�g�{�[���ł͑��҂͈�x�ۂ��痣���ƁA�K���i�ۂ��Ȃ���΂Ȃ�Ȃ��i�t���ł��Ȃ��j�Ƃ������[��������܂��B<BR>�@�ł�����A�w���[�h�x���ł��Ȃ���ł��B<BR><BR>�����������Ă܂��܂������ɂ͊��ꂫ���Ă��Ȃ���ł��ˁB<BR>���S���j�̂܂܂��Ɗ댯�ȕ����ɑ����Ă��܂���ł��ˁB<BR><BR>�@����͂�Ȃ�Ƃ��B<BR>�@���́u�S�܂ŏ�����������A���̎��_�łs�r�L�����łȂ��w�����x�L�����ɂȂ��Ă��܂��̂ł́v�Ƃ����^�₪�A�킽���̓��̒��ɂ��[���ƕt���܂Ƃ��Ă���̂ł��B<BR>�@���D�i�b��j�͂�����󂯂āA���܂ł����̂悤�Ȓ��q�Ȃ̂ł��B<BR>�@�݂Ȃ��܂́A�ǂ����l���ł����H<BR><BR>�@�Ō�̃N�C�Y�A��߂����悤�ł��B<BR>�@�������q���g�B<BR><BR>�P�D�̎�̖��O�̓J�^�J�i�O�����B<BR>�Q�D�����̂b�l�Ɏg���Ă����B
+　ＭＯＮＤＯです。『助っ人美少女棒球騒動っ』への感想ありがとうございました。<BR><BR>＞もう最終回かぁ。と感慨にふけりつつ待ってたら番外編とのことで、ホッとしました。<BR><BR>　しばらく番外編が続く予定ですので、まだまだ終わるつもりはありませんです。これからもよろしくお願いします。<BR><BR>＞一番の好みは　SEXY SHOT です。ピッチリとしたジーンズに包まれた細い足が“せくしい”です。<BR><BR>　わはは。少し「狙って」みました。<BR>　……しかしポーズまでつけて、何考えてんでしょうね甲介のやつ。<BR>（甲介「おめーが描いたんだろ、おめーがっ」）<BR><BR>＞あの焼豚が帰ってきたら、真っ先に矢面に立たされるのは広報部の俺たちだぞぉっ！？<BR><BR>　え～、『蒼い瞳の中へ』の主人公、矢島浩幸氏は女美川重工広報部勤務という“おふぃしゃる（笑）”な設定があるのです。……ね、Ｋａｒｄｙさん。<BR><BR>＞……って、単にTOMとMONDOさんの萌えツボが同じなだけって?<BR><BR>　わはははは、そうかもしれない。<BR>　ＴＯＭさん、メイドさおりん描きましたよ。<BR><BR>＞ヤマトくんの話では、さおりんの恋愛話なところを見たいです。<BR><BR>　ふっふっふっ。「『文庫』で主役」というのがどういう意味を秘めているのか、我が内なるヤマトくんは全く気付いておりません。<BR><BR>＞棒球ってソフトボールの事なんですね<BR><BR>　『棒球』は本来『野球（baseball）』のことなのですが、語呂がいいのであえて題名に使ってみました。<BR><BR>＞彼が「餌係」に“栄転”されたか・・・チト気になりますね（笑）<BR><BR>　う～ん、『女美川の母付き秘書』のなり手がなくて、結局戻されるんじゃないでしょうか？<BR>　どっちの仕事も、松野部氏にとっては同じようなものかもしれないですけど（笑）。<BR><BR>＞デカプリオンくんと松野部氏の組み合わせも意外とある種いい組み合わせになりそうな・・・<BR><BR>　意気投合（？）したデカプリオンくんとハイパー松野部が、女美川の母に逆襲する……という展開を、怪獣映画のノリでやってみるのも面白そうですね。<BR>　でもって小美人に扮した沙織たちが歌で鎮めようとして……壮絶に失敗する、とか。<BR><BR>＞ソフトに盗塁ってありましたっけ？<BR><BR>　あれ？　あったはずですけど……。<BR>　文中にもあるように、ソフトボールでは走者は一度塁から離れると、必ず進塁しなければならない（逆走できない）というルールがあります。<BR>　ですから、『リード』ができないんです。<BR><BR>＞さおりんってまだまた女性には慣れきっていないんですね。<BR>＞心が男のままだと危険な方向に走ってしまうんですね。<BR><BR>　いやはやなんとも。<BR>　実は「心まで女性化したら、その時点でＴＳキャラでなく『女性』キャラになってしまうのでは」という疑問が、わたしの頭の中にずーっと付きまとっているのです。<BR>　沙織（甲介）はそれを受けて、いつまでもあのような調子なのです。<BR>　みなさまは、どうお考えですか？<BR><BR>　最後のクイズ、難し過ぎたようです。<BR>　も少しヒント。<BR><BR>１．歌手の名前はカタカナ三文字。<BR>２．お茶のＣＭに使われていた。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/08/15 20:10:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/08/15 20:10:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997873825wpisu&id2=973455464pesihpd&ff=on">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997873825wpisu_id2_973455464pesihpd_ff_on.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; ���́u�S�܂ŏ�����������A���̎��_�łs�r�L�����łȂ��w�����x�L�����ɂȂ��Ă��܂��̂ł́v<BR>&gt; �Ƃ����^�₪�A�킽���̓��̒��ɂ��[���ƕt���܂Ƃ��Ă���̂ł��B<BR>&gt; ���D�i�b��j�͂�����󂯂āA���܂ł����̂悤�Ȓ��q�Ȃ̂ł��B<BR>&gt; �݂Ȃ��܂́A�ǂ����l���ł����H<BR><BR>���������܂��B<BR><BR>�s�r�L�����͓ǎ҂ƃZ�b�g�ň�̂s�r�L�����ł���I<BR>����č쒆�̂s�r�L�������S�܂ŏ��������Ă��A�ǎ҂����̃L�������s�r�L�����ƌ��Ă������ɂ����Ă͂���ς�s�r�L�����ɈႢ�Ȃ��Ƃ����̂��A���̍l���ł��B<BR><BR>�s�r�̖G���𗝉����Ȃ���ʓǎ҂ɂ��Ă݂���S�͒j���̂s�r�L�����Ƃ����ǁA����͒P�Ȃ錳�j���̏����L�����ł��B<BR>�t�ɁA�s�r�̖G���𗝉����Ă��邱�������̓ǎ҂ɂ��Ă݂���S�܂Ŋ��S�ɏ����ɂȂ��Ă��Ă����̃L�����͈ˑR�Ƃ��Ăs�r�L�����Ƃ������Ƃ��o����͂��ł��B�P�Ȃ鏗���L�����Ƃ͌�������܂���B<BR><BR>�����Ƃ͈��̃o�[�`�������[���h�ł���A�ǎ҂͏�����ǂނ��ƂŃo�[�`�����ȑ̌�������̂ł��B�s�r�������Ƃ����ǎ҂̊�]�́A�s�r������ǂނ��Ƃŋ^���I�ɂ��Ȃ�����̂ł��B<BR><BR>�Ƃ������Ƃ́A�s�r�ɑ΂��Ăǂ��܂ł̃��x�������߂�ǎ҂�����̂��H�@�Ƃ����_���l�n�m�c�n�l�̖₢�ւ̓����ɂȂ�Ǝv���܂��B<BR><BR>�s�r���Ă��S�͒j���̂܂܂ŏ����̐g�̂��y���݂����Ƃ�����]�����ǎ҂̕��ɂ��Ă݂���A�m���ɐS�܂ŏ����������s�r�L�����͒P�Ȃ鏗���L�����ł���A���͂�s�r�L�����Ƃ͌����܂���B<BR><BR>���������̂̂s�r�ɂƂǂ܂炸�S�܂ŏ��������邱�Ƃɑ΂��ĖG����ǎ҂̕��ɂ��Ă݂���A�S�܂ŏ���������s�r�L�����������߂Ă����s�r�L�����ł��傤�ˁB<BR><BR>�܂�l�n�m�c�n�l�̋^��́A�����͂ǂ������s�r�L���������߂Ă���̂��H�@�ǂ������s�r�ɖG����̂��H�@�Ƃ����^��ɒu�������邱�Ƃ��o����Ǝv���܂��B<BR><BR>���ǁA�ǂ�Ȃs�r�L������������w�s�r�L�����x�Ƃ��邩�́A�ǎҎ��悾�Ǝv���܂��B<BR><BR>���Ȃ݂Ɏ����g�̈ӌ��Ƃ��ẮA�S�܂Łg���X�Ɂh����������^�C�v�̂s�r�ɖG���܂��I�@�ł����炳�����i�b��j���Ƃ����茩���鏗���炵�����A�N�V�����ɖG�����Ⴂ�܂��B�������S�͍Ō�܂Œj���������Ƃ��Ă��n�j�ł����A��Ɉ�����ǂ߂Ȃ��Ƃ���΁A���͑O�҂�ǂނƎv���܂��B<BR><BR>���̑��̕��̈ӌ��͂������H
+&gt; 実は「心まで女性化したら、その時点でＴＳキャラでなく『女性』キャラになってしまうのでは」<BR>&gt; という疑問が、わたしの頭の中にずーっと付きまとっているのです。<BR>&gt; 沙織（甲介）はそれを受けて、いつまでもあのような調子なのです。<BR>&gt; みなさまは、どうお考えですか？<BR><BR>お答えします。<BR><BR>ＴＳキャラは読者とセットで一つのＴＳキャラである！<BR>よって作中のＴＳキャラが心まで女性化しても、読者がそのキャラをＴＳキャラと見ている限りにおいてはやっぱりＴＳキャラに違いないというのが、私の考えです。<BR><BR>ＴＳの萌えを理解しない一般読者にしてみたら心は男性のＴＳキャラといえど、それは単なる元男性の女性キャラです。<BR>逆に、ＴＳの萌えを理解しているこっち側の読者にしてみたら心まで完全に女性になっていてもそのキャラは依然としてＴＳキャラということが出来るはずです。単なる女性キャラとは言いきれません。<BR><BR>小説とは一種のバーチャルワールドであり、読者は小説を読むことでバーチャルな体験をするのです。ＴＳしたいという読者の願望は、ＴＳ小説を読むことで疑似的にかなえられるのです。<BR><BR>ということは、ＴＳに対してどこまでのレベルを求める読者がいるのか？　という点がＭＯＮＤＯ様の問いへの答えになると思います。<BR><BR>ＴＳしても心は男性のままで女性の身体を楽しみたいという願望を持つ読者の方にしてみたら、確かに心まで女性化したＴＳキャラは単なる女性キャラであり、もはやＴＳキャラとは言えません。<BR><BR>しかし肉体のＴＳにとどまらず心まで女性化することに対して萌える読者の方にしてみたら、心まで女性化するＴＳキャラこそ求めていたＴＳキャラでしょうね。<BR><BR>つまりＭＯＮＤＯ様の疑問は、自分はどういうＴＳキャラを求めているのか？　どういうＴＳに萌えるのか？　という疑問に置き換えることが出来ると思います。<BR><BR>結局、どんなＴＳキャラをいわゆる『ＴＳキャラ』とするかは、読者次第だと思います。<BR><BR>ちなみに私自身の意見としては、心まで“徐々に”女性化するタイプのＴＳに萌えます！　ですからさおりん（甲介）がときおり見せる女性らしいリアクションに萌えちゃいます。もちろん心は最後まで男性だったとしてもＯＫですが、二つに一つしか読めないとすれば、私は前者を読むと思います。<BR><BR>その他の方の意見はいかが？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂���(�VHN�̖̂��O�͓��� ^^;)</strong>  <i>2001/08/17 00:16:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みずき(新HN昔の名前は内緒 ^^;)</strong>  <i>2001/08/17 00:16:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997974992ibanlf&id2=973455464pesihpd&ff=on">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997974992ibanlf_id2_973455464pesihpd_ff_on.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂ��́B<BR>�u���f�v����Ƃ����̂�������̏ꍇ�K���ȕ\�����Ǝv���Ă܂��B<BR>�ł����̕\�����g���Ƃ��肶��ƕ\���ł���ł��傤���A<BR>�Ⴆ�΁u�����v�Ƃ��B<BR>���̎q�ƒj�̎q�̃A�C�f���e�B�e�B���������Ă��̎��̏�Ԃ�<BR>�A�C�f���e�B�e�B����v���Ȃ��Ȃ�ꍇ���p������Ƃ��ł���<BR>����ɕp�ɂɌ�サ�Ă䂭�Ɓu�Z���v�Ƃ��������Ă��悳�����ł����B<BR>���̎��݂͌��ɍl���Ă���̂Ƃ͔��΂̏�Ԃ̎v�l�E�����<BR>��u�x��Č���ĔY�݂���ł��܂��Ƃ��[�����Ă��܂��Ƃ�<BR>�����ďꍇ�ɂ���Ắu�ڍs�v�Ɉڂ��Ă䂭�̂����Ď���<BR>�����Ǝv���܂����ǁB�ł��A�ߋ��͏������Ƃ͏o���Ȃ��̂�����<BR>100%���Ă��Ƃ͕��ʂȂ��͂��ł��B�t��100%�ς���Ă��܂�����<BR>�s���R���Ǝv���܂�����ǁB�B
+こんにちは。<BR>「困惑」するというのがこちらの場合適当な表現かと思ってます。<BR>でも他の表現も使うとじりじりと表現できるでしょうし、<BR>例えば「混乱」とか。<BR>女の子と男の子のアイデンティティが交錯してその時の状態と<BR>アイデンティティが一致しなくなる場合が頻発するとかですね<BR>さらに頻繁に交代してゆくと「融合」とかもあってもよさそうですし。<BR>その時は互いに考えているのとは反対の状態の思考・感情も<BR>一瞬遅れて現れて悩みこんでしまうとか納得してしまうとか<BR>そして場合によっては「移行」に移ってゆくのだって私は<BR>いいと思いますけど。でも、過去は消すことは出来ないのだから<BR>100%ってことは普通ないはずです。逆に100%変わってしまったら<BR>不自然だと思いますけれど。。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�{�X</strong>  <i>2001/09/13 17:29:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ボス</strong>  <i>2001/09/13 17:29:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000369790sruxca&id2=973455464pesihpd&ff=on">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000369790sruxca_id2_973455464pesihpd_ff_on.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�D�G��͔��������z�}���G�̏����C�ɂ���˂��I�I���������F���ۂ��˂��I�I<BR>
+【好敵手は美少女っ】挿し絵の女が気にいらねぇ！！ぜんっぜん色っぽくねぇ！！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/09/15 09:59:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/09/15 09:59:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000515569ghmftop&id2=973455464pesihpd&ff=on">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000515569ghmftop_id2_973455464pesihpd_ff_on.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�������������B<BR>�@�݂����񂮂���̊G�ɂ���Ȃ��Ə������܂��킯�Ȃ��̂ŁA�����킽���̊G�̂��Ƃł��ˁi�΁j�B<BR>�@�c�c�������D�A�F���ۂ��Ȃ����Ă��B<BR><BR>���D�u�c�c�N�̂������A�N�́v
+　あいたたたっ。<BR>　みっしんぐさんの絵にこんなこと書き込まれるわけないので、こりゃわたしの絵のことですね（笑）。<BR>　……おい沙織、色っぽくないってさ。<BR><BR>沙織「……誰のせいだ、誰の」
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^</strong>  <i>2001/09/17 08:31:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>某</strong>  <i>2001/09/17 08:31:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000683101tmvgwdm&id2=973455464pesihpd&ff=on">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000683101tmvgwdm_id2_973455464pesihpd_ff_on.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�܂����AMONDO����I<BR>MONDO����̊G���Ȃ�������A���̊E�G�̖G���x�͎O�����ł�����B<BR>���ꂩ����撣���Ă��������˂��I
+どんまいっ、MONDOさん！<BR>MONDOさんの絵がなかったら、この界隈の萌え度は三割減でしたよ。<BR>これからも頑張ってくださいねっ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>shin</strong>  <i>2001/09/19 00:55:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000828534ugvkjt&id2=973455464pesihpd&ff=on">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000828534ugvkjt_id2_973455464pesihpd_ff_on.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�D�G��͔��������z<BR>�������m���ƃe���|�̗ǂ����C�J�X�[�I���ĂȊ����ł��ˁB
+【好敵手は美少女っ】<BR>怪しいノリとテンポの良さがイカスー！ってな感じですね。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="973455464pesihpd">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

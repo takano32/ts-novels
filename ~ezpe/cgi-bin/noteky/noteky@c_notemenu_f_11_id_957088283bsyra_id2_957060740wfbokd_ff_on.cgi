@@ -1,31 +1,31 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>ƒIƒ“ƒ‰ƒCƒ“ì•i#2/Ž„‚ÌƒIƒXƒXƒ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ä½œå“#2/ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?&ff=on">ƒm[ƒgˆê——</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">ƒIƒ“ƒ‰ƒCƒ“ì•i#2</a>] 
+[<a href="noteky@_ff_on.cgi">ãƒŽãƒ¼ãƒˆä¸€è¦§</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ä½œå“#2</a>] 
 </div>
-<font size="+2" color="#008080">ƒm[ƒgƒƒjƒ…[</font>
+<font size="+2" color="#008080">ãƒŽãƒ¼ãƒˆãƒ¡ãƒ‹ãƒ¥ãƒ¼</font>
 <hr>
-<p>‚Ü‚¸‚Í•K—v‚Èî•ñ‚ð“ü—Í‚µ‚Ü‚·B
+<p>ã¾ãšã¯å¿…è¦ãªæƒ…å ±ã‚’å…¥åŠ›ã—ã¾ã™ã€‚
 <form action="noteky.cgi" method="post" >
 <input type="hidden" name="id" value="957088283bsyra">
 <input type="hidden" name="id2" value="957060740wfbokd">
 <input type="hidden" name="f" value="11">
 <table border="0">
 <tr>
-<td>–¼‘O:</td>
+<td>åå‰:</td>
 <td><input type="text" name="name" size="40" maxlength="40" value=""></td>
 </tr>
 <tr>
-<td>ƒ[ƒ‹ƒAƒhƒŒƒX:</td>
+<td>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹:</td>
 <td><input type="text" name="mail" size="40" maxlength="40" value=""></td>
 </tr>
 <tr>
-<td>Šm”FƒL[:</td>
+<td>ç¢ºèªã‚­ãƒ¼:</td>
 <td><input type="text" name="ckey" size="40" maxlength="10" value=""></td>
 </tr>
 
@@ -40,16 +40,16 @@
 <tr>
 <td colspan="2">
 <input type="checkbox" name="set" value="on" checked>
- ˆÈŒãƒXƒe[ƒ^ƒXî•ñ‚ðƒuƒ‰ƒEƒU‚É•Û‘¶‚·‚é(cookie)
+ ä»¥å¾Œã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹æƒ…å ±ã‚’ãƒ–ãƒ©ã‚¦ã‚¶ã«ä¿å­˜ã™ã‚‹(cookie)
 </td>
 </tr>
 </table>
 
 <input type="hidden" name="ff" value="on">
-<p><small>ƒ[ƒ‹ƒAƒhƒŒƒX‚Í³Šm‚É“ü—Í‚µ‚Ä‚­‚¾‚³‚¢BŠm”FƒL[‚ª‚í‚©‚ç‚È‚¢ê‡‚Í”­Œ¾‚ð‘‚«ž‚Þ‘O‚ÉA‚¢‚Á‚½‚ñƒ[ƒ‹ƒAƒhƒŒƒX‚¾‚¯“ü—Í‚µ‚ÄWRITEƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢B</small></p>
-<font size="+1" color="#0000FF">”­Œ¾‚Ìíœ</font>
-<p>ŠÇ—ŽÒ‚Í‚±‚Ì‹LŽ–‚ðíœ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·Bƒ[ƒ‹ƒAƒhƒŒƒX‚ÆŠm”FƒL[‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B</p>
-<p><input type="submit" name="c" value="DELETE"> ”­Œ¾íœ</p>
+<p><small>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã¯æ­£ç¢ºã«å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚ç¢ºèªã‚­ãƒ¼ãŒã‚ã‹ã‚‰ãªã„å ´åˆã¯ç™ºè¨€ã‚’æ›¸ãè¾¼ã‚€å‰ã«ã€ã„ã£ãŸã‚“ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã ã‘å…¥åŠ›ã—ã¦WRITEãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ãã ã•ã„ã€‚</small></p>
+<font size="+1" color="#0000FF">ç™ºè¨€ã®å‰Šé™¤</font>
+<p>ç®¡ç†è€…ã¯ã“ã®è¨˜äº‹ã‚’å‰Šé™¤ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã¨ç¢ºèªã‚­ãƒ¼ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚</p>
+<p><input type="submit" name="c" value="DELETE"> ç™ºè¨€å‰Šé™¤</p>
 </form>
 </body>
 </html>

@@ -1,192 +1,192 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=937679981tehpfrq&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_937679981tehpfrq_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���_�؂����񂱍���</font><br>
+<font size="+2" color="#0000FF">風雲ぺったんこ座り</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art25.html" target="_blank">���d�F</a></strong>  <i>1999/09/19 03:39:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art25.html" target="_blank">八重洲</a></strong>  <i>1999/09/19 03:39:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937679981tehpfrq&id2=937679981tehpfrq&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937679981tehpfrq_id2_937679981tehpfrq_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���́[�I�@�ڂ���E���R����яo�������ȏ�肳�ł��B���{�̉�d�Ɂu�؂����񂱍���v�Ƃ����V���Ȓ��������ܐ��܂�܂����i�Ƃ������ƂɌ���j�B���ƁA����΂��|�C���g�{�P�B
+【推薦文】くはー！　目からウロコが飛び出しそうな上手さです。日本の画壇に「ぺったんこ座り」という新たな潮流がいま生まれました（ということに決定）。あと、うわばきポイント＋１。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�uK�v</strong>  <i>1999/09/19 05:31:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>「K」</strong>  <i>1999/09/19 05:31:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937686664doqlkk&id2=937679981tehpfrq&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937686664doqlkk_id2_937679981tehpfrq_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̎q�����B�t�W�t�B�����̓c����ނ̃|�X�^�[�����Ď����̒��ł�<BR>�u���C�N���Ȃ̂ł������������ł��B<BR><BR>�����āA��R�Ƃ��ăJ���C�C���̉��Ƃ������ʕ\��A�L�������C�����B<BR><BR>�Ƃ��Ă�Good�ȃC���X�g�ł��B
+女の子すわり。フジフィルムの田中麗奈のポスターを見て自分の中では<BR>ブレイク中なのですっごいいいです。<BR><BR>そして、呆然としてカワイイこの何とも言えぬ表情、キャワユイ制服。<BR><BR>とってもGoodなイラストです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂�����</strong>  <i>1999/09/19 23:12:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みっしんぐ</strong>  <i>1999/09/19 23:12:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937750361firuqgp&id2=937679981tehpfrq&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937750361firuqgp_id2_937679981tehpfrq_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����`�A������������̐V��b�f����<BR>�@�D���ˁA�؂��񂱍���B<BR>�@������������̊G���Ė��������čD���ł��B�R��������ǂ��ǂ��`���ĉ������B<BR>�i�����`���ƁA���̃^�C�v�̌f���ɏ������ނ̂͏��߂Ă�����A����ł����̂��ȁH�j<BR>
+　おぉ～、いしがきさんの新作ＣＧだ♪<BR>　好いね、ぺたんこ座り。<BR>　いしがきさんの絵って味があって好きです。コレからもどしどし描いて下さい。<BR>（えぇ～っと、このタイプの掲示板に書き込むのは初めてだから、これでいいのかな？）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>1999/09/20 00:23:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937754588yhjny&id2=937679981tehpfrq&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937754588yhjny_id2_937679981tehpfrq_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`��(-o-)/<BR>�����Ȃ��������Ȃقǂ��킢���悧(T��T)
+う～っ(-o-)/<BR>理性なくしそうなほどかわいいよぉ(T▽T)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">���������E�Ă�</a></strong>  <i>1999/09/20 05:01:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">いしがき・てつ</a></strong>  <i>1999/09/20 05:01:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937771319mhcxvdt&id2=937679981tehpfrq&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937771319mhcxvdt_id2_937679981tehpfrq_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���₢�₢��A�Ȃ񂩊F����ɋC�ɓ�����<BR>�Ⴆ���悤�ŃA���K�^�C�ł��ˁ`�B<BR><BR>�ŋ߁u�����W�F���[�E�p�u���V�e�B�v����<BR>����Ƀo���o���͂܂��ĂāA���̐�����<BR>�`���|�����܂����C���X�g�Ȃ�ł���A�R���B<BR>�����ɏo�Ă�����l���̕ϐg�������q���w����<BR>�C���[�W�ɂȂ��Ă��肵�܂��B<BR><BR>�����d�F����<BR>�@�u�؂����񂱍��萄�i�ψ���v<BR>�@��ɏ���ɔC��!!�匈��!!�i�΁j<BR><BR>���u�j�v����<BR>�@�ȂʁH�t�W�t�B�����̓c����ނ̃|�X�^�[<BR>�@���ĉ��ł����H���C�c����ޑ�D���Ȃ�ł���<BR>�@����͌������Ȃ����X�A�������A�؂����񂱍��肾�Ɓ`�H<BR><BR>���݂����񂮂���<BR>�@���������Ă��炦��ƁA�A���K�^�C����ł���A�}�W�ŁB<BR>�@�i���C���݂����񂮂���́u�V���U�ʁv�߂���D���ł���j<BR><BR>��Kardy����<BR>�@������������ĉ������A���C���������Ă܂��B
+いやいやいや、なんか皆さんに気に入って<BR>貰えたようでアリガタイですね～。<BR><BR>最近「ランジェリー・パブリシティ」って<BR>漫画にバリバリはまってて、その勢いで<BR>描き倒しちまったイラストなんですわ、コレ。<BR>劇中に出てきた主人公の変身した女子中学生が<BR>イメージになってたりします。<BR><BR>＞八重洲さん<BR>　「ぺったんこ座り推進委員会」<BR>　会長に勝手に任命!!大決定!!（笑）<BR><BR>＞「Ｋ」さん<BR>　なぬ？フジフィルムの田中麗奈のポスター<BR>　って何ですか？ワイ田中麗奈大好きなんですが<BR>　そりは見た事ないっス、しかも、ぺったんこ座りだと～？<BR><BR>＞みっしんぐさん<BR>　そう言ってもらえると、アリガタイ限りですよ、マジで。<BR>　（ワイもみっしんぐさんの「天罰覿面」めちゃ好きですよ）<BR><BR>＞Kardyさん<BR>　無くしちゃって下さい、ワイも無くしてます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>1999/09/20 05:08:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>1999/09/20 05:08:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937771731uiruaf&id2=937679981tehpfrq&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937771731uiruaf_id2_937679981tehpfrq_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �@�u�؂����񂱍��萄�i�ψ���v<BR>&gt;�@��ɏ���ɔC��!!�匈��!!<BR><BR>���肪�������󂯂��܂��B���E�I�i�΁j
+&gt; 　「ぺったんこ座り推進委員会」<BR>&gt;　会長に勝手に任命!!大決定!!<BR><BR>ありがたくお受けします。押忍！（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�uK�v</strong>  <i>1999/09/23 06:49:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>「K」</strong>  <i>1999/09/23 06:49:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938036994imfnigo&id2=937679981tehpfrq&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938036994imfnigo_id2_937679981tehpfrq_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�t�W�t�B�����̂؂����񂱍���c����ނ̃|�X�^�[�B<BR>�����n��ʐ^�X�ɂĂ悭�������܂����B<BR>�؂����񂱍��萄�i�ψ�����(���Ȑ��E)���<BR>
+フジフィルムのぺったんこ座り田中麗奈のポスター。<BR>東京地区写真店にてよく見かけました。<BR>ぺったんこ座り推進委員会会員(自己推薦)より<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">���������E�Ăi�ւ��ۂ������j</a></strong>  <i>1999/09/23 23:05:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">いしがき・てつ（へっぽこ曹長）</a></strong>  <i>1999/09/23 23:05:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938095535cqtmsl&id2=937679981tehpfrq&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938095535cqtmsl_id2_937679981tehpfrq_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���t�W�t�B�����̂؂����񂱍���c����ނ̃|�X�^�[�B<BR>�ʁA�u�j�v����A�M�d�ȏ�񂠂肪�Ƃ��S�U�C�}�X�B<BR>�u�؂����񂱍��萄�i�ψ���v�ɓ�������Ӄf�X�i�΁j�B<BR><BR><BR>
+＞フジフィルムのぺったんこ座り田中麗奈のポスター。<BR>ぬ、「Ｋ」さん、貴重な情報ありがとうゴザイマス。<BR>「ぺったんこ座り推進委員会」に入会頂き感謝デス（笑）。<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/souko/" target="_blank">�r�H�u</a></strong>  <i>1999/09/24 21:19:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.kt.rim.or.jp/~pisipisi/souko/" target="_blank">Ｓ羽丘</a></strong>  <i>1999/09/24 21:19:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938175591bxilc&id2=937679981tehpfrq&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938175591bxilc_id2_937679981tehpfrq_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�؂����񂱍���͍��i�̊֌W��j�ɂ͏o���Ȃ��p���炵���ł����A<BR>������l�^�Ɏg���Ă��邠����A�ǂ��ł��ˁB
+ぺったんこ座りは骨格の関係上男には出来ない姿勢らしいですが、<BR>それをネタに使ってくるあたり、良いですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">���������E�Ăi�ւ��ۂ������j</a></strong>  <i>1999/09/24 21:37:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">いしがき・てつ（へっぽこ曹長）</a></strong>  <i>1999/09/24 21:37:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938176628gqqmv&id2=937679981tehpfrq&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938176628gqqmv_id2_937679981tehpfrq_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���؂����񂱍���͍��i�̊֌W��`<BR>���������A��Y�ɂᖳ���Ȃ�ł���ˁB<BR>
+＞ぺったんこ座りは骨格の関係上～<BR>そうそう、野郎にゃ無理なんですよね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">�^��@�I</a></strong>  <i>1999/09/24 23:31:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">真城　悠</a></strong>  <i>1999/09/24 23:31:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938183486qpnso&id2=937679981tehpfrq&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938183486qpnso_id2_937679981tehpfrq_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����Ȃ̂Ɂu�e�B���N���e�B���N���@�A�C�h���E�X�^�[�v�i���w�فj�i�T���f�[�i����ˁH�j�ł���Ă��u�����A�C�h���v���́j�̑��b�ł͓��X�Ƃ���Ă��肵�܂��̂ł��̃V�[�������Ă�����Ɓu��������Ȃ��v�ƕ��S���Ă݂��肵�āi�΁j�B<BR>�@���Ȃ݂Ɂu�ؑタ���v�̑�Q�e�u�����v�����̕ӂ̃l�^���g�������b�ł��E�E�E�Ƃ��肰�Ȃ���`�i�΁j�B
+　それなのに「ティンクルティンクル　アイドル・スター」（小学館）（サンデー（だよね？）でやってた「女装アイドル」もの）の第一話では堂々とやってたりしますのでそのシーンを見てちょっと「愛が足りない」と憤慨してみたりして（笑）。<BR>　ちなみに「華代ちゃん」の第２弾「正座」がその辺のネタを使ったお話です・・・とさりげなく宣伝（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">���������E�Ăi�ւ��ۂ������j</a></strong>  <i>1999/09/26 00:01:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">いしがき・てつ（へっぽこ曹長）</a></strong>  <i>1999/09/26 00:01:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938271690ngabu&id2=937679981tehpfrq&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938271690ngabu_id2_937679981tehpfrq_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������Ȃ̂Ɂ`<BR>�@�����A�z���g������Ă��R�C�c�i�Ö{���ŒP�s�{�@�w���j<BR>�C�J���Ȃ��A��Y���R����������Ⴀ�B<BR>�E�P�|�C���g+1�A�G���|�C���g�{1<BR><BR>�����Ȃ݂Ɂu�ؑタ���v�`<BR>�@��A�z���}��B�Ă����A���̂܂�܂ł��˂��B�C���[�W�B<BR>�}�W�ǂ�҂�����ĂȊ������̂��B
+＞それなのに～<BR>　ああ、ホントだやってるよコイツ（古本屋で単行本①購入）<BR>イカンなぁ、野郎がコレをやっちゃあ。<BR>脱臼ポイント+1、萌えポイント＋1<BR><BR>＞ちなみに「華代ちゃん」～<BR>　ん、ホンマや。てえか、そのまんまですねぇ。イメージ。<BR>マジどんぴしゃってな感じかのう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>DoubleD</strong>  <i>1999/10/04 19:42:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939033770aiurpx&id2=937679981tehpfrq&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939033770aiurpx_id2_937679981tehpfrq_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂���DoubleD�Ɛ\���܂��B<BR><BR>&gt;&gt; �����ɂ����ł��Ȃ��A<BR><BR>���o�߁A���C�F�����b�ł������킯�Ȃ��̂ł����A<BR>���͒j�ł����u�؂����񂱍���v���ł��܂��B<BR>�䂦�Ɂu�����ɂ����ł��Ȃ��v�����Ȃ��Ǝv���̂ł����D�D�D<BR><BR>���͓��ɑ̂��_�炩���Ƃ������킯�ł��Ȃ��̂�<BR>���\�j�ł��ł���l�͂���񂶂�Ȃ����Ǝv���܂��B<BR>�i���Z�̂���̒m�荇���ɂ��ł���l�������悤�ȋC�����܂��j<BR><BR>�j�ɂ͂ł��Ȃ��������{�Ȃǂł���̂ł��傤��<BR><BR>�ŏ����炱��ȏ������݂ŋC�����������ꂽ�炷�݂܂���
+はじめましてDoubleDと申します。<BR><BR>&gt;&gt; 女性にしかできない、<BR><BR>興覚め、かつ気色悪い話でもうしわけないのですが、<BR>私は男ですが「ぺったんこ座り」ができます。<BR>ゆえに「女性にしかできない」事もないと思うのですが．．．<BR><BR>私は特に体が柔らかいとかいうわけでもないので<BR>結構男でもできる人はいるんじゃないかと思います。<BR>（高校のころの知り合いにもできる人がいたような気がします）<BR><BR>男にはできない根拠が本などであるのでしょうか<BR><BR>最初からこんな書き込みで気分を悪くされたらすみません
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��ۑ���</strong>  <i>1999/10/04 20:57:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野丸太丸</strong>  <i>1999/10/04 20:57:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939038273ufcegar&id2=937679981tehpfrq&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939038273ufcegar_id2_937679981tehpfrq_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-DoubleD�l<BR>���ށA���̂Ƃ���Ȃ̂����A�����Ėق��Ă���܂����B<BR>���Ƃ��΁A���N�̑��Ɂu�^���@�v�Ƃ����̂������āA<BR>���ꂪ���́A����΁u�؂����񂱍�����K�@�v�Ȃ̂ł��B<BR>�i�j�ł��A���K����΂ł���Ƃ����킯�B�j<BR>��،��s�m�����A�悭�e���r�ł���Ă܂����B<BR>70�΂̖ꂳ�܂��؂����񂱍��������l�c���͂��B<BR>�ڂ�����<BR><a href="http://www.makkoho.or.jp/index.html" target="_blank">http://www.makkoho.or.jp/index.html</a><BR>�����Ă�����B
+DoubleD様<BR>うむ、そのとおりなのだが、あえて黙っておりました。<BR>たとえば、健康体操に「真向法」というのがあって、<BR>これがその、言わば「ぺったんこ座り練習法」なのです。<BR>（男でも、練習すればできるというわけ。）<BR>鈴木元都知事が、よくテレビでやってました。<BR>70歳の爺さまがぺったんこ座りをする様…ぐはっ。<BR>詳しくは<BR><a href="http://www.makkoho.or.jp/index.html" target="_blank">http://www.makkoho.or.jp/index.html</a><BR>を見ておくれ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>1999/10/05 00:34:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>1999/10/05 00:34:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939051283ufqjr&id2=937679981tehpfrq&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939051283ufqjr_id2_937679981tehpfrq_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��ADoubleD����B�������݂��肪�Ƃ������܂��B<BR>�j�̎藿��������݂����ɁA�j�̂؂����񂱍��肪�����Ă������ł��傤�B<BR>�ނ���A���̂؂����񂱍�����ɂ߂Ă݂ĉ������B
+ども、DoubleDさん。書き込みありがとございます。<BR>男の手料理があるみたいに、男のぺったんこ座りがあってもいいでしょう。<BR>むしろ、漢のぺったんこ座りを極めてみて下さい。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="937679981tehpfrq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

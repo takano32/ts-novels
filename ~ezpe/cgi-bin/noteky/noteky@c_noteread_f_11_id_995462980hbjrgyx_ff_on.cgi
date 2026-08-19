@@ -1,162 +1,162 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=995462980hbjrgyx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_995462980hbjrgyx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">������</font><br>
+<font size="+2" color="#0000FF">死化粧</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200107/18222712/shinigeshou.html" target="_blank">�^�c�ψ���</a></strong>  <i>2001/07/18 22:29:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200107/18222712/shinigeshou.html" target="_blank">運営委員会</a></strong>  <i>2001/07/18 22:29:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995462980hbjrgyx&id2=995462980hbjrgyx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995462980hbjrgyx_id2_995462980hbjrgyx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ł���Ǝv�킸�N�X���Ə΂��Ă��܂��悤�ȁA�ǂ����s�v�c�Ȗʔ����̗L���i�ł��B����ł��čŌ�͂�����Ƃ܂Ƃ܂��Ă���̂��������B
+読んでいると思わずクスリと笑ってしまうような、どこか不思議な面白さの有る作品です。それでいて最後はきちんとまとまっているのがすごい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/07/19 00:31:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/07/19 00:31:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995470265wwoelpm&id2=995462980hbjrgyx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995470265wwoelpm_id2_995462980hbjrgyx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��i���鉽��ځH�j<BR>����[�A�������N���߈˂��Ė߂�Ȃ��Ȃ邩�Ǝv������A�����Ǝ��ɂ܂����ȁi���j�B<BR>�Ԕ����Ȏ��ɍۂ�����������ɍۂցB���ۂɂ����������Ƃ��ł�����A���̐��ɖ������c���Đ����ł��Ȃ��������̂ł͂Ȃ����ȁB
+読んだバイ♪（今夜何回目？）<BR>いやー、ただし君が憑依して戻らなくなるかと思ったら、ちゃんと死にましたな（爆）。<BR>間抜けな死に際から美しい死に際へ。実際にこういうことができたら、この世に未練を残して成仏できない霊も減るのではないかな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/07/19 05:30:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/07/19 05:30:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995488209fqybuvm&id2=995462980hbjrgyx&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995488209fqybuvm_id2_995462980hbjrgyx_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�v�c�ȁA�����āA�Ȃ񂾂��Y��Șb�B�i�āA���|�����Ă��邩�炶��Ȃ��ł���j<BR>�E���Ƃ����b�̂͂����t�@���^�W�[�B�݂��邳��A���Ă��ł��ˁB
+不思議な、そして、なんだか綺麗な話。（て、お掃除しているからじゃないですよ）<BR>殺伐とした話のはずがファンタジー。みちるさん、すてきですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/19 07:44:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/19 07:44:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995496251myjss&id2=995462980hbjrgyx&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995496251myjss_id2_995462980hbjrgyx_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂�<BR>mK8426����<BR>�������N�N����������Ă���ł���<BR>�������A���ɍۂ��ς���ꂽ�炢���ł��ˁB<BR>�悵��������<BR>����Șb�����܂ɂ͂����ł��傤�H<BR>�ق߂Ă����������h�ł�
+感想ありがとうございます<BR>mK8426さま<BR>ただし君誰かを見守ってたんですよ<BR>しかし、死に際が変えられたらいいですね。<BR>よしおかさま<BR>こんな話もたまにはいいでしょう？<BR>ほめていただき光栄です
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���l�i�܂��Ɓj</strong>  <i>2001/07/19 07:45:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>聖人（まさと）</strong>  <i>2001/07/19 07:45:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995496326xlpuu&id2=995462980hbjrgyx&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995496326xlpuu_id2_995462980hbjrgyx_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�������ŁA�ʔ��������ł��B<BR>�������A����ȏ������������ł��ˁB<BR>�����ł���Ώ��������������̂ł����A�Ȃ񂩓���l�������Ă�悤�Ȋ����ł��B<BR>�����������̒����������肳���čl���Č��܂��B
+単純明快で、面白かったです。<BR>そうか、こんな書き方もあるんですね。<BR>私もできれば小説を書きたいのですが、なんか難しく考えすぎてるような感じです。<BR>もう少し頭の中をすっきりさせて考えて見ます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/07/19 10:30:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/07/19 10:30:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995506234hrtsmms&id2=995462980hbjrgyx&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995506234hrtsmms_id2_995462980hbjrgyx_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾌�u�Ȃ�قǁA���������b�������邩�v�Ɗ��S���܂����B<BR>�ʔ��������ł��B<BR>�������g�����ɍۂ́A�F�X�Ɛ������������̂��R�قǁB<BR>���������Ƃ��΂����Ƃ����b���Ȃ�ł����A�Ȃ��Ȃ��ł��܂���ˁB<BR>���������ď������������͂���ȗ��R�ł����H<BR><BR>���l�i�܂��Ɓj�l��<BR>�܂��͂��񑩂��g���āc�c�A�Ė��x�̃p�^�[���ł��ˎ��B<BR>�ł��A�����͏��S�҂�g����������ĉ�����̂ŁA���e���₷���ł���B���ЁA����΂��Ă��������B<BR>
+読んだ後「なるほど、こういう話しもあるか」と感心しました。<BR>面白かったです。<BR>自分自身も死に際は、色々と整理したいものが山ほど。<BR>常日頃やっとけばいいという話しなんですが、なかなかできませんね。<BR>もしかして書くきっかけはそんな理由ですか？<BR><BR>聖人（まさと）様へ<BR>まずはお約束を使って……、て毎度のパターンですね私。<BR>でも、ここは初心者を暖かく見守って下さるので、投稿しやすいですよ。ぜひ、がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/19 16:42:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/19 16:42:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995528535ehojil&id2=995462980hbjrgyx&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995528535ehojil_id2_995462980hbjrgyx_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���l����<BR>����Ȃ̂ł��A���h�ɍ�i�ɂȂ��Ă��ł�����A���񒧐�Ȃ����Ă��������B�y���݂ɂ��Ă܂��B<BR>�������@����������<BR>���肪�Ƃ��������܂��B���̂Ƃ��莩���̎������񂪂���Ƃ킢�Ă���A�C�f�A�ł���ˁB<BR>
+聖人さま<BR>こんなのでも、立派に作品になってるんですから、是非挑戦なさってください。楽しみにしてます。<BR>あおき　あきおさま<BR>ありがとうございます。そのとおり自分の死をかんがえるとわいてくるアイデアですよね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�肶�`</strong>  <i>2001/07/19 23:57:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りじ～</strong>  <i>2001/07/19 23:57:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995554660xbixcl&id2=995462980hbjrgyx&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995554660xbixcl_id2_995462980hbjrgyx_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͂��������Z���̂ɁA�����Ƃ܂Ƃ܂��Ă�̂��������ł��B<BR>�l�����K�������ł��ȁE�E�E�B���āA�܂����e��x�����ĂȂ����ǁB
+文章がすごく短いのに、ちゃんとまとまってるのがすごいです。<BR>僕も見習いたいですな・・・。って、まだ投稿一度もしてないけど。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/07/20 19:24:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/07/20 19:24:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995624671ciqhnu&id2=995462980hbjrgyx&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995624671ciqhnu_id2_995462980hbjrgyx_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����Ƃ̍����m��̏�����i�A�w�����m��̊�Ȑ��E�x�ɏo�Ă���Z�҂݂����ȕ��͋C�ł��ˁB�����I�ɍl������A��΂ɂ��蓾�Ȃ��󋵂ł����A���ɁA�w�����A����Ȃ̂����肩������Ȃ��x�Ǝv�����Ⴄ�Ƃ��낪�A�������낢�ł��B��͂�A���񂾌�ɁA��n���Ƃ��������Ƃ����z���͕��ՓI�Ȑl�ނ̊肢�Ȃ̂ł��傤���H�@���ɃR���N�V�����������ς�����l�قǁA���̑z���͋����ł��傤�ˁi�΁j�B
+　漫画家の高橋洋介氏の初期作品、『高橋洋介の奇妙な世界』に出てくる短編みたいな雰囲気ですね。現実的に考えたら、絶対にあり得ない状況ですが、妙に、『ああ、こんなのもありかもしれない』と思っちゃうところが、おもしろいです。やはり、死んだ後に、後始末とかしたいという想いは普遍的な人類の願いなのでしょうか？　特にコレクションがいっぱいある人ほど、その想いは強いでしょうね（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ԁ����肪�Ƃ�(����)</strong>  <i>2001/07/21 13:53:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花＠ありがとう(感動)</strong>  <i>2001/07/21 13:53:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995691197yjwslb&id2=995462980hbjrgyx&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995691197yjwslb_id2_995462980hbjrgyx_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���󂳂�I�@���A��������!!<BR>�y���m���œ����Ă����������A����������i�̕���ɓ����čs���₷�������B<BR>�u�������v����̓ˑR�̓o��̃i�](?)���A�����ł������藎���邵�B<BR><BR>�����A�݂��悿���݂����ɔ������l�����I��邱�Ƃ��ł���΁A�ƁA������Ǝv���Ă��܂��܂����B<BR>�����ɂ͂���Ȃ킯�ɂ����Ȃ��A�Ƃ������Ƃ��A���N�͂��񂴂񌩂����Ă��邩��c�c<BR><BR>���󂳂�A���肪�Ƃ��B���΂炭�A�܂�@�����ɂ��܂��c�c
+亜希さん！　私、感動した!!<BR>軽いノリで入っていく導入部、すっごく作品の舞台に入って行きやすかった。<BR>「ただし」くんの突然の登場のナゾ(?)も、結末ですっきり落ちるし。<BR><BR>私も、みちよちゃんみたいに美しく人生を終わることができれば、と、ちょっと思ってしまいました。<BR>現実にはそんなわけにいかない、ということを、今年はさんざん見せられているから……<BR><BR>亜希さん、ありがとう。しばらく、涙を拭かずにいます……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/07/21 21:37:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/07/21 21:37:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995719036urbkge&id2=995462980hbjrgyx&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995719036urbkge_id2_995462980hbjrgyx_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�D���������l�ɜ߈˂ł����������N�́A�����Ɩ����Ȃ����̐��ɍs�������Ƃł��傤�B<BR>������������ނ́A�݂��悳�񂪎��ʂ܂ł����ƕ��V�삵�Ă�����肾�����̂�������܂���ˁB<BR>�ǂ߂Γǂނقǖ����o�Ă���A����߂̂悤�ȍ�i�ł����B
+好きだった人に憑依できたただし君は、きっと未練なくあの世に行けたことでしょう。<BR>もしかしたら彼は、みちよさんが死ぬまでずっと浮遊霊しているつもりだったのかもしれませんね。<BR>読めば読むほど味が出てくる、するめのような作品でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>tako</strong>  <i>2001/07/23 18:39:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995881169piyqjfw&id2=995462980hbjrgyx&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995881169piyqjfw_id2_995462980hbjrgyx_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G�b�`�ɂȂ�Ȃ������t�ɔޏ��ւ̑z���������܂��B<BR>���X�g�͂ƂĂ��ǂ������ł��B
+エッチにならない所が逆に彼女への想いを感じます。<BR>ラストはとても良かったです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="995462980hbjrgyx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

@@ -1,62 +1,62 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���̑���i/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>その他作品/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=8&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_8_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=8&id=920829982bfiyb&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=8&ff=on">���̑���i</a>]<br>
+[<a href="noteky@c_noteread_f_8_id_920829982bfiyb_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_8_ff_on.cgi">その他作品</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���E���E���[</font><br>
+<font size="+2" color="#0000FF">あ・い・うー</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ؑ����D</strong>  <i>1999/03/08 03:06:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>木村香織</strong>  <i>1999/03/08 03:06:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=8&id=920829982bfiyb&id2=920829982bfiyb&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_8_id_920829982bfiyb_id2_920829982bfiyb_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ���A�����`�F�b�N�ς݂ł��傤���H<BR><BR>���񂲎O�Z��̉e���ł���������Ƃ������������<BR>������A�̑��̎��̂����u���E���E���[�v�Ńh�L�b��<BR>���Ă��܂��܂����B<BR><BR>�̂̍Ō�̕����K���ɂȂ��Ă��āA�����灨<BR>��������R�A�������C�I�������̎q�@�ƂȂ���<BR>����̂ł����A<BR><BR>�u�R�A���ɂȂ肽�����C�I���v<BR>�u���C�I���ɂȂ肽�����̎q�v<BR>�Ɖ̂������ƁA�Ō�<BR>�u���̎q�ɂȂ肽���j�̎q�v<BR>�ŏI����Ă��܂��B<BR><BR>�ŏ��������Ƃ��́A���H�H�H�H�@�Ƃ����v��<BR>�ł������A�ԈႢ�Ȃ��ł��ˁB���₟�A�����<BR>�ƃh�L�h�L����̎��ł��B<BR><BR><BR><BR><BR><BR>
+みなさん、もうチェック済みでしょうか？<BR><BR>だんご三兄弟の影響でおかあさんといっしょを見て<BR>いたら、体操の時のうた「あ・い・うー」でドキッと<BR>してしまいました。<BR><BR>歌の最後の方が尻取りになっていて、くじら→<BR>らっこ→コアラ→ライオン→女の子　となって<BR>いるのですが、<BR><BR>「コアラになりたいライオン」<BR>「ライオンになりたい女の子」<BR>と歌ったあと、最後<BR>「女の子になりたい男の子」<BR>で終わっています。<BR><BR>最初聞いたときは、え？？？？　という思い<BR>でしたが、間違いないですね。いやぁ、ちょっ<BR>とドキドキする歌詞です。<BR><BR><BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:gnekono@pop07.odn.ne.jp" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/09/22 19:49:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:gnekono@pop07.odn.ne.jp" target="_blank">猫野　丸太丸</a></strong>  <i>2000/09/22 19:49:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=8&id=969619767uyfyns&id2=920829982bfiyb&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_8_id_969619767uyfyns_id2_920829982bfiyb_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[�A���̉́I�I<BR>�`�����l������ւ��Ă��炿����ƍŌ�̕����������������<BR>�����^�����̂ł����B<BR>�ق�Ƃ��ɂ�����������ł����[���I�@���f�Ȃ��B<BR>�����Ă���q�����̂Ȃ��ɂ́A���̉̎����g���E�}�ɂȂ���<BR>�u�ڂ����s�r�ɖڊo�߂��̂͂���������Ƃ�������̂����Ȃ�ł��v<BR>�Ə������s�r�t�@���ɂȂ�z�����邩������܂���ˁH
+あー、この歌！！<BR>チャンネルきり替えてたらちらっと最後の部分が聞こえたんで<BR>耳を疑ったのですが。<BR>ほんとうにそうだったんですかーっ！　油断ならん。<BR>聴いている子たちのなかには、この歌詞がトラウマになって<BR>「ぼくがＴＳに目覚めたのはおかあさんといっしょのせいなんです」<BR>と将来語るＴＳファンになる奴がいるかもしれませんね？
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="8">
 <input type="hidden" name="id" value="920829982bfiyb">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=8&ff=on">���̑���i</a>]<br>
+[<a href="noteky@c_noteidx_f_8_ff_on.cgi">その他作品</a>]<br>
 
 </p>
 </body>

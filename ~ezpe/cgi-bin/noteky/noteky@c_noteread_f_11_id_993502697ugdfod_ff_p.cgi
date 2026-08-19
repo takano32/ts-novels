@@ -1,126 +1,126 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=993502697ugdfod&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_993502697ugdfod_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���k��I</font><br>
+<font size="+2" color="#0000FF">生徒会長！</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/26055310/seitokai_2.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/06/26 05:58:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/26055310/seitokai_2.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/06/26 05:58:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993502697ugdfod&id2=993502697ugdfod&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993502697ugdfod_id2_993502697ugdfod_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�����Ղ�ƃe�L�X�g�������񂾁A�R�~�J���Ȓ��ɃG���`�V�Y���Y���ϐg�V�[���Ƀh�L�h�L�B���`��A�G�b�`�ł��B<BR>
+【推薦文】たっぷりとテキストをつぎ込んだ、コミカルな中にエロチシズム漂う変身シーンにドキドキ。う～ん、エッチです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/26 06:08:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/26 06:08:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993503294rubfk&id2=993502697ugdfod&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993503294rubfk_id2_993502697ugdfod_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�x���񂱂��ɓ��e���Ă���ꂽ��ł��ˁB<BR>���ނ��ށB���z�͖^���ɂāi�΁j�B<BR><BR>���Ղ��c�������ł����B
+ありゃ、堀さんここに投稿しておられたんですね。<BR>うむうむ。感想は某所にて（笑）。<BR><BR>足跡を残すｍｋでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����n</strong>  <i>2001/06/26 07:05:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>逃げ馬</strong>  <i>2001/06/26 07:05:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993506748dnowb&id2=993502697ugdfod&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993506748dnowb_id2_993502697ugdfod_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���E�E�E���ɓo��ł��ˁI<BR>�y���܂��Ă��炢�܂����I<BR>�����n�ł����B
+あ・・・ついに登場ですね！<BR>楽しませてもらいました！<BR>逃げ馬でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����</a></strong>  <i>2001/06/26 07:48:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希</a></strong>  <i>2001/06/26 07:48:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993509298uqhyod&id2=993502697ugdfod&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993509298uqhyod_id2_993502697ugdfod_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�x������Ă���ȂɗL���l�Ȃ񂩁H<BR>�ق�ŁA����Ȃɂ��������͏�������B<BR>���������Ď��Ȃ񂩂��ߑ����̂ł����B<BR>�y���܂��Ă��������܂����B�������҂����܂�
+堀さんってそんなに有名人なんか？<BR>ほんで、こんなにすごい文章書けるんや。<BR>正直言って私なんかため息ものでした。<BR>楽しませていただきました。次も期待し取ります
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/06/26 14:30:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993533410tkbaarm&id2=993502697ugdfod&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993533410tkbaarm_id2_993502697ugdfod_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�߂������ʔ������b�ł��ˁB<BR>�ˏ��̓����̂��鐶�k��ɂȂ肫���Ă��܂��Ă���Ƃ����<BR>�G���܂����B���킢���ł��B<BR> �����A�_�����������̎d�Ԃ���������ƕ|�������B�얳�B(�΁j
+悲しくも面白いお話ですね。<BR>才女の匂いのする生徒会長になりきってしまっているところに<BR>萌えました。かわいいです。<BR> ただ、柔道部長たちの仕返しがちょっと怖いかも。南無。(笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/HeartLand-Poplar/1154/" target="_blank">�x�@�K�q���񂿂ւ͂������N���b�N�I</a></strong>  <i>2001/06/26 22:39:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/HeartLand-Poplar/1154/" target="_blank">堀　幸子さんちへはここをクリック！</a></strong>  <i>2001/06/26 22:39:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993562758rhnmk&id2=993502697ugdfod&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993562758rhnmk_id2_993502697ugdfod_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӂ��ӂ��ӁB�x����͂������̂���B<BR>�����̃����N�y�[�W������s���܂����A�����ɂ������N��ݒu���Ă����܂��傤�B<BR>��͏����u�߂�����ӂ��[���v�A�ǂނׂ��I<BR>�i���b�Ă��ǎҁj
+ふっふっふ。堀さんはすごいのだよ。<BR>ここのリンクページからも行けますが、ここにもリンクを設置しておきましょう。<BR>大河小説「めたもるふぉーぜ」、読むべし！<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/26 22:41:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/26 22:41:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993562872tdiwxly&id2=993502697ugdfod&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993562872tdiwxly_id2_993502697ugdfod_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����I���ɃZ�J���h��i�ł��ˁi�΁j<BR>���͂��łɖ^���œǂ�ł��܂��������z�������Ă��Ȃ������̂ł�����(m_m)<BR>�ϐg�̕`�ʂ̍I�݂��͂������ł��ˁB<BR>�x����A������Č��l�^�̓E���g���}���ł����H<BR>�ޏ��͂������ɂ͖߂�Ȃ���ł���ˁB<BR>���ꂩ��ǂ��Ȃ����Ⴄ�̂��Ȃ��B<BR><BR>���^�������҂��Ă܂��ˁ�
+おお！文庫セカンド作品ですね（笑）<BR>私はすでに某所で読んでいましたが感想を書いていなかったのでここで(m_m)<BR>変身の描写の巧みさはさすがですね。<BR>堀さん、これって元ネタはウルトラマンですか？<BR>彼女はもう元には戻れないんですよね。<BR>これからどうなっちゃうのかなぁ。<BR><BR>メタモも期待してますね♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/27 21:30:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/27 21:30:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993645032ehfvhy&id2=993502697ugdfod&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993645032ehfvhy_id2_993502697ugdfod_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�x����A������ł����v���Ԃ�ł��B<BR>���S�Ƀq�[���[���̂̃p���ɂȂ��Ă��邠������悢�ł����A<BR>��������ŏ��̕ϐg�ߒ��̏������݂Ԃ�ɁA���ς�炸�̔Z���������܂����ˁB<BR>����ɂ��Ă��A�Ȃ�Ƃ��Ӓn�̈����Ƃ������A�����܂����񑩂�ݒ肵���V�l�����ƁB<BR>�ӂ��Ȃ�u�P�O��ϐg����ƕϐg�\�͂��Ȃ��Ȃ��ď��̎q�ɂȂ�Ȃ��Ȃ�v�Ƃ������p�^�[���Ȃ�ł��傤���ǁA���̋t���Ƃ́c�B<BR>���������΃E���g�����u�����w�E���g���������I�x�ł̓������V�E�_������߂�Ȃ��Ȃ��Ă܂���ˁB���R�̈�v��������܂��񂯂ǁB
+堀さん、こちらでもお久しぶりです。<BR>完全にヒーローもののパロになっているあたりもよいですが、<BR>それよりも最初の変身過程の書き込みぶりに、相変わらずの濃さを感じましたね。<BR>それにしても、なんとも意地の悪いというか、うらやましい約束を設定した老人だこと。<BR>ふつうなら「１０回変身すると変身能力がなくなって女の子になれなくなる」とかいうパターンなんでしょうけど、その逆だとは…。<BR>そういえばウルトラ○ブンも『ウルトラ○ン○オ』ではモロ○シ・ダンから戻れなくなってますよね。偶然の一致かもしれませんけど。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/07/02 02:10:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/07/02 02:10:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994007455nqnei&id2=993502697ugdfod&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994007455nqnei_id2_993502697ugdfod_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����B�x���񂨓��ӂ́A�u�������v�ϐg�V�[�����Ⴀ�I�I<BR>���X�g�̂��񑩂��΂�����ł��ˁB�y���߂܂����B
+おお。堀さんお得意の、「下着が」変身シーンじゃあ！！<BR>ラストのお約束もばっちりですね。楽しめました。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="993502697ugdfod">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

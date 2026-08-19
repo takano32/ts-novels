@@ -1,31 +1,31 @@
-<html><head><title>ƒMƒƒƒ‰ƒŠ[‚a‚a‚r</title></head>
+<html><head><title>ã‚®ãƒ£ãƒ©ãƒªãƒ¼ï¼¢ï¼¢ï¼³</title></head>
 <body bgcolor=skyblue text=#000000 link=#6060D0 vlink=#F08000 alink=#FFEEDD background=>
-<!--@‚±‚±‚Éƒy[ƒW‚Ìæ“ª‚É•Ž¦‚·‚éƒ^ƒCƒgƒ‹‚ðŽ©—R‚É‹L“ü@-->
+<!--ã€€ã“ã“ã«ãƒšãƒ¼ã‚¸ã®å…ˆé ­ã«ä¾®ï½¦ã™ã‚‹ã‚¿ã‚¤ãƒˆãƒ«ã‚’è‡ªç”±ã«è¨˜å…¥ã€€-->
 	<div align=center><center>
 	<table border=4><tr><td>
-	<font size=8 color=#F08000><b>ƒMƒƒƒ‰ƒŠ[‚a‚a‚r</b></font>
+	<font size=8 color=#F08000><b>ã‚®ãƒ£ãƒ©ãƒªãƒ¼ï¼¢ï¼¢ï¼³</b></font>
 	</td></tr></table>
 	</center></div>
-<!--@‚±‚±‚Ü‚Å@@‚±‚Ì‰º‚É’a¶ÎA‰ÔŒ¾—t‚ª•Ž¦‚³‚ê‚é@@-->
+<!--ã€€ã“ã“ã¾ã§ã€€ã€€ã“ã®ä¸‹ã«èª•ç”ŸçŸ³ã€èŠ±è¨€è‘‰ãŒä¾®ï½¦ã•ã‚Œã‚‹ã€€ã€€-->
 
 <div align=center><center>
-<form action=resbbs2.cgi method=POST>
+<form action="resbbs2.cgi" method=POST>
 <input type=hidden name=action value=search>
-| <a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/resbbs2b/resbbs2.cgi?action=new">V‹K“Še</a> | <input type=text size=18 name=key value=>
-<input type=submit name=button value=ƒL[ƒ[ƒhŒŸõ>
- | <a href="http://www14.big.or.jp/~yays/gallery/main.html">ƒz[ƒ€ƒy[ƒW</a> |<BR></form>
+| <a href="resbbs2@action_new.cgi">æ–°è¦æŠ•ç¨¿</a> | <input type=text size=18 name=key value=>
+<input type=submit name=button value=ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢>
+ | <a href="../../../~yays/gallery/main.html">ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸</a> |<BR></form>
 <div align=center><center>
-<form name=inputform action=resbbs2.cgi method=POST>
+<form name=inputform action="resbbs2.cgi" method=POST>
 <input type=hidden name=action value=regist>
 <input type=hidden name=res value=>
 <table border=0>
-<tr><td align=right>‚¨–¼‘O:</td><td><input type=text size=35 name=name value=></td></tr>
+<tr><td align=right>ãŠåå‰:</td><td><input type=text size=35 name=name value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=35 name=email value=></td></tr>
 <tr><td align=right>HomePage:</td><td><input type=text size=60 name=HP value=></td></tr>
-<tr><td align=right>‘è–¼:</td><td><input type=text size=60 name=subject></td></tr>
+<tr><td align=right>é¡Œå:</td><td><input type=text size=60 name=subject></td></tr>
 </tr>
 </table>
-<textarea name=comment rows=4 cols=80></textarea><br><input type=submit value=‘‚«ž‚Ý>
+<textarea name=comment rows=4 cols=80></textarea><br><input type=submit value=æ›¸ãè¾¼ã¿>
 </form>
 </center></div>
 </center></div>

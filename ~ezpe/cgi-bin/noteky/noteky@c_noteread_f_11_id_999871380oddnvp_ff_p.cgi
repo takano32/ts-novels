@@ -1,496 +1,496 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=999871380oddnvp&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_999871380oddnvp_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���o�C�o���K�[���i�f����No.4�j</font><br>
+<font size="+2" color="#0000FF">リバイバルガール（掲示板No.4）</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=992629880wtbfw&ff=on" target="_blank">�ȑO�̊��z�͂�����</a></strong>  <i>2001/09/07 23:03:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_992629880wtbfw_ff_on.cgi" target="_blank">以前の感想はこちら</a></strong>  <i>2001/09/07 23:03:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999871380oddnvp&id2=999871380oddnvp&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999871380oddnvp_id2_999871380oddnvp_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���o�C�o���K�[���̊��z�͂�����ɂ��肢���܂��B<BR>
+リバイバルガールの感想はこちらにお願いします。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���b�Ă��ǎ�</strong>  <i>2001/09/07 23:51:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>世話焼き読者</strong>  <i>2001/09/07 23:51:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999874291dewrmc&id2=999871380oddnvp&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999874291dewrmc_id2_999871380oddnvp_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ށA���Ƃ����낤���̂��A�e�ʈ�t�ɂȂ��Ă�̂ɋC�t���ʂƂ́A�Ȃ񂽂�s�o�B
+うむ、私ともあろうものが、容量一杯になってるのに気付かぬとは、なんたる不覚。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/09/08 21:15:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/09/08 21:15:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999951336dbaoqj&id2=999871380oddnvp&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999951336dbaoqj_id2_999871380oddnvp_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�^�c�ψ��l�A��������������Ă��܂��ς݂܂���ł��B<BR>���Ɗ��z�����Ă����������閲�l�A�����������P�l�A���肪�Ɓ[�������܂��B<BR><BR>���閲�l<BR>���E�E�E�����Ӗ��[�ȂЂ��ł��ˁE�E�E<BR><BR>�@�Ӗ��[�ɂ������Ď��̉�Ŕ��q�����������Ⴄ��������Ȃ��A�Ƃ��v���挊�@���Ă܂��B�c�Ƃ������ŏ��ɏ������̂ł͕��ʂ����������̂ł�����ƕς��悤���Ǝv���Ă�Ƃ���ł��B<BR><BR>�������������P�l<BR>���u���[�ȊO�̓V�g���Ă̂́A�i�����ł��傤�ˁj�ǂ����������Ƃ����Ă����ł��傤���H�i�O�`�Ŗ��炩�ɂȂ�I�I�H�H�j<BR><BR>�@���O�`�𐻍쒆�ł��B��̘b����s���č���Ă܂����ǂ�������ɏo���邩�͍��̂Ƃ���킩��Ȃ��ł��B���̂����̈�����A�u���[�����Ɋւ�����̂ł��B<BR><BR>���u�G���v���āA�܁A�܂����I�H<BR><BR>�@���A�܂��Z���O���Ɋ֌W�������O�Ȃ�ł����H�@����Ƃ��H
+運営委員様、お手をかけさせてしまい済みませんです。<BR>あと感想書いてくださった夜夢様、ｗａｓｓａ１様、ありがとーごさいます。<BR><BR>＞夜夢様<BR>＞・・・何か意味深なひきですね・・・<BR><BR>　意味深にしすぎて次の回で拍子抜けさせちゃうかもしれない、とか思い墓穴掘ってます。…というか最初に書いたのでは文量が多すぎたのでちょっと変えようかと思ってるところです。<BR><BR>＞ｗａｓｓａ１様<BR>＞ブルー以外の天使ってのは、（いるんでしょうね）どういったことをしているんでしょうか？（外伝で明らかになる！！？？）<BR><BR>　今外伝を製作中です。二つの話を並行して作ってますがどっちが先に出来るかは今のところわからないです。そのうちの一方が、ブルーたちに関するものです。<BR><BR>＞「萌黄」って、ま、まさか！？<BR><BR>　え、またセングラに関係した名前なんですか？　それとも？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl_s1.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/09/21 00:27:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl_s1.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/09/21 00:27:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000999663ykyjwws&id2=999871380oddnvp&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000999663ykyjwws_id2_999871380oddnvp_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���}���D�ƂȂ��ď��߂Ă̔��e�@�B�����������₷�₷�Ɣ��e���ɂ��ǂ蒅���͂��Ȃ�����(��)�B�l�n�m�c�n����̊G������܂��O�b�h�ł��B
+松枝香織となって初めての美容院。しかしそうやすやすと美容室にたどり着けはしなかった(笑)。ＭＯＮＤＯさんの絵がこれまたグッドです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/21 10:50:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/21 10:50:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001037043ewmnjyk&id2=999871380oddnvp&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001037043ewmnjyk_id2_999871380oddnvp_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂩐V�N�ł��B���^�ň�{������Ƃ́B<BR>�ʔ��������ł��B����͂��Ȃ菉���̘b�Ȃ̂ɁA�����N�͂��̎����珗�̎q�Ƃ��ẲB�ꂽ�f���������Ă�����ł��ˁB<BR>���̎q���Ĕ���؂�̂ɖ{���ɂ������Y�ސl�����ł�����B�X�ɂ��Ă�����Y��ł���l���邵�B<BR>���ꂩ�������΂��Ă��������B�i�X�Ƌٔ����Ă����{�҂��y���݂ɑ҂��Ă���܂��B<BR>
+なんか新鮮です。髪型で一本書けるとは。<BR>面白かったです。これはかなり初期の話なのに、正美君はこの時から女の子としての隠れた素質を持っていたんですね。<BR>女の子って髪を切るのに本当にすごく悩む人多いですから。店にきてからも悩んでいる人いるし。<BR>これからもがんばってください。段々と緊迫してきた本編も楽しみに待っております。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/09/21 20:34:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/09/21 20:34:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001072070buouvm&id2=999871380oddnvp&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001072070buouvm_id2_999871380oddnvp_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��(_ _)��<BR>�l�b�g�Ŏv��ʏE�����H�����܂����B<BR>�ʔ����ł��E�E�E�ŏ��͋����{�ӂœǂ�ł��������������̂ɁA�C�t���Ƃ͂܂��Ă܂����B(�O�O�G<BR>�����A������Ȏ��ԁI�H<BR>����ɂ��Ă��A�b�����ł��ˁ`�܂��܂����������ł��B<BR>�����Ăق������ǁA�͂₭���������Ăق������E�E�E�B<BR>�������X�g�[�J�[�͋����܂���ˁI�����������L����X�g�[�J�[�Ƃ������񂾁I�E�E��H(~-~)<BR>�ǂ����Ȃ琳�����u���[�̗͂��؂�āu�H��Ƃ��āv�X�g��Y�����둃���`�Ƃ���������̂�����Ȃ̂����B<BR>�|���^�[�K�C�X�g�ŁA�y��������ɓ����ā`�݂����ȁB<BR>������āA�^�f��j���[���[�N�̌��Ŏ����悤�Ȃ��Ƃ��Ă��Ȃ��B<BR>(�����Ă݂������ł��E�E�E��)<BR>�����������ǂ݂����ł��B<BR>����Ȃɖʔ������̂��^�_�ł����̂��낤���E�E�E�Ƃ������B<BR>�y���݂ɂ��Ă��܂��B�撣���Ă��������B(^o^)/
+ｍ(_ _)ｍ<BR>ネットで思わぬ拾い物？をしました。<BR>面白いです・・・最初は興味本意で読んでいただけだったのに、気付くとはまってました。(＾＾；<BR>ああ、もうんな時間！？<BR>それにしても、話長いですね～まだまだ続きそうです。<BR>続いてほしいけど、はやく解決もしてほしいし・・・。<BR>しかしストーカーは許せませんね！しかもすぐキレるストーカーときたもんだ！・・ん？(~-~)<BR>どうせなら正美がブルーの力を借りて「幽霊として」スト野郎をころ巣ぞ～とか脅迫するのもありなのかも。<BR>ポルターガイストで、ペンが勝手に動いて～みたいな。<BR>それって、某映画ニューヨークの幻で似たようなことしてたなぁ。<BR>(言ってみただけです・・・汗)<BR>早く続きが読みたいです。<BR>こんなに面白いものがタダでいいのだろうか・・・ともかく。<BR>楽しみにしています。頑張ってください。(^o^)/
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/09/21 23:07:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/09/21 23:07:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001081274aapeg&id2=999871380oddnvp&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001081274aapeg_id2_999871380oddnvp_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������@�������l�A�f���h���r�E���l�A���肪�Ɓ[�������܂��B<BR>�@�C���X�g��s�̂��b���Ċ����Ȃ�ł����A�����O�̍��D�����͂ǂ��ł��傤���B���čŏ��̐ݒ肷������Y��Ă�̂����������̂ł��ˁB�܂����̖т����ōς񂾂̂��K���ł��B<BR><BR>���u�H��Ƃ��āv�X�g��Y�����둃���`�Ƃ���������̂�����Ȃ̂���<BR><BR>�@�Ȃ�قǁA���������������܂��ˁB�ł��C�t�����Ƃ����܂��Ȃ̂ŁA���Ƃ��Ă��m���Ɍ��ʂ�����Ƃ킩���Ă��炶��Ȃ��Əo���Ȃ��ł��傤�ˁB�ςɌx�����ꂽ�肷��Ɩ��ɂȂ肻���ł�����B
+あおき　あきお様、デンドロビウム様、ありがとーございます。<BR>　イラスト先行のお話って感じなんですが、ロングの香織ちゃんはどうでしょうか。って最初の設定すっかり忘れてるのも困ったものですね。まあ髪の毛だけで済んだのが幸いです。<BR><BR>＞「幽霊として」スト野郎をころ巣ぞ～とか脅迫するのもありなのかも<BR><BR>　なるほど、そういう手もありますね。でも気付かれるとおしまいなので、やるとしても確実に効果があるとわかってからじゃないと出来ないでしょうね。変に警戒されたりすると厄介になりそうですから。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ȃ�����</strong>  <i>2001/09/21 23:10:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ないしょ</strong>  <i>2001/09/21 23:10:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001081448dhldtg&id2=999871380oddnvp&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001081448dhldtg_id2_999871380oddnvp_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f���h���r�E��������āA�ǂ邱�ނ̐l�H
+デンドロビウムさんって、どるこむの人？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mk8426@saturn.interq.or.jp" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/09/21 23:17:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mk8426@saturn.interq.or.jp" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/09/21 23:17:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001081841yhgknc&id2=999871380oddnvp&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001081841yhgknc_id2_999871380oddnvp_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂܂��A�u�ԊO�ҁv�ɓK�������b�ł��˂��B�����������Ɩ{�҂ɗ���ł��邵�B<BR>������MONDO����̃C���X�g���܂������B<BR>�ŋ�MONDO�攌�̃C���X�g�A�����ł���ˁ[�B���^�N�V�͍D���ł��B<BR>����ł́A�{�ҁA����΂��Ă��������B
+読んだバイ♪<BR>これはまた、「番外編」に適したお話ですねぇ。しかもちゃんと本編に絡んでいるし。<BR>しかもMONDOさんのイラストがまたいい。<BR>最近MONDO画伯のイラスト、多いですよねー。ワタクシは好きです。<BR>それでは、本編、がんばってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www05.u-page.so-net.ne.jp/xb3/y-miki/" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/09/22 23:20:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www05.u-page.so-net.ne.jp/xb3/y-miki/" target="_blank">ゆあさのみき</a></strong>  <i>2001/09/22 23:20:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001168414yiyamf&id2=999871380oddnvp&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001168414yiyamf_id2_999871380oddnvp_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ɓ[�������܂��B<BR><BR>���Ȃ�����l<BR>�w�u�ǂ邱�ނ̐l�v���ĉ��ł����H�x�c�Ǝ��₵�Ă������ł����H<BR><BR>���_�����z�̂���8426�l<BR>�u�ԊO�ҁv�͂Ƃ肠�������Ɠ�A�O�{���炢�l���Ă��܂��B�������ꂪ�����ƌ`�ɂȂ�̂��A�����̗��ݒ�ŏI���̂��͕s���ł����c�B<BR><BR>HP���܂����B�����N���i���O�̂Ƃ���Ɂj�����Ă����܂��̂ŋX������΂ǂ����B
+ありがとーございます。<BR><BR>＞ないしょ様<BR>『「どるこむの人」って何ですか？』…と質問してもいいですか？<BR><BR>＞神速感想のｍｋ8426様<BR>「番外編」はとりあえずあと二、三本くらい考えています。ただそれがちゃんと形になるのか、ただの裏設定で終わるのかは不明ですが…。<BR><BR>HP作りました。リンクを（名前のところに）張っておきますので宜しければどうぞ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.scn-net.ne.jp/~ts9/" target="_blank">����˂�</a></strong>  <i>2001/09/23 03:42:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.scn-net.ne.jp/~ts9/" target="_blank">かわねぎ</a></strong>  <i>2001/09/23 03:42:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001184153egbrpax&id2=999871380oddnvp&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001184153egbrpax_id2_999871380oddnvp_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�T�v�������g�P�A�ǂ݂܂����B<BR>����؂�̂ɂ�����ȃh���}���������̂ł��ˁB<BR>����H�@���X���D�������ă����O�w�A�[�ł��������H�@<BR>MONDO����̍ŏ��̃C���X�g����ۂɎc���Ă����ŁB<BR>�i�����̍�i���ᗊ���ɔ��^���^���킹�Ă邭���ɁA�l�l�̍�i�ɂ͑a���z�c�c�j<BR>
+サプリメント１、読みました。<BR>髪を切るのにもこんなドラマがあったのですね。<BR>あれ？　元々香織ちゃんってロングヘアーでしたっけ？　<BR>MONDOさんの最初のイラストが印象に残ってるもんで。<BR>（自分の作品じゃ頼香に髪型髪型言わせてるくせに、人様の作品には疎い奴……）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/09/23 10:36:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/09/23 10:36:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001208964cxoxiof&id2=999871380oddnvp&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001208964cxoxiof_id2_999871380oddnvp_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�䂠���݂̂����񂩂烌�X���I��(_ _)��<BR>�����ł����B�m���ɂ����ł��ˁB<BR>&gt;���D����(?)<BR>�����Ƃ��Ă̓����O�̕����������ȁB<BR>�ł��C���X�g������ƁA�V���[�g�������Ȃ��E�E�E�B(����)<BR>�F����A��l���̂��Ƃ����D�����ČĂ�ł��ł��ˁB<BR>�����͐����Ƃ��Č��Ă��܂��B<BR><BR>�ǂ邱�ށE�E�E�Ȃ�ł��傤�ˁB<BR>�����́E�E(~-~)�킩��܂���<BR><BR>�N���C�V�X�A�y���݂ł��B<BR>���͂��̏����ǂ�ŁA�������ւ���ł܂����B(��)<BR>�X�g�[�J�[�ɒǂ��l�߂��Ď���ł��܂��Ȃ�āE�E�E�����ɂ̓w���B�ȓ��e�������̂����B<BR>���ꂩ�班���͗�������܂������B(�O�O�G<BR>�Ō�͑�~�c�ŏI����Ƃ����Ȃ��A�Ɗ��҂��B<BR>����Ȍ䎞���Ȃ����ɁA���̘b�ɂ̓n�b�s�[�G���h�ɂȂ��Ăق����ȂƎv���킯�ł��B<BR>�����ɂȂ�܂����B<BR>�ł́B
+ゆあさのみきさんからレスが！ｍ(_ _)ｍ<BR>そうですか。確かにそうですね。<BR>&gt;香織くん(?)<BR>自分としてはロングの方がいいかな。<BR>でもイラストを見ると、ショートも悪くない・・・。(おい)<BR>皆さん、主人公のことを香織ちゃんて呼んでるんですね。<BR>自分は正美として見ています。<BR><BR>どるこむ・・・なんでしょうね。<BR>自分は・・(~-~)わかりません<BR><BR>クライシス、楽しみです。<BR>実はこの小説読んで、すこしへこんでました。(笑)<BR>ストーカーに追い詰められて死んでしまうなんて・・・自分にはヘヴィな内容だったのかも。<BR>あれから少しは立ち直りましたが。(＾＾；<BR>最後は大円団で終われるといいなあ、と期待しつつ。<BR>こんな御時世なだけに、この話にはハッピーエンドになってほしいなと思うわけです。<BR>長文になりました。<BR>では。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/09/23 23:33:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/09/23 23:33:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001255586aabyfk&id2=999871380oddnvp&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001255586aabyfk_id2_999871380oddnvp_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ������肪�Ɓ[�������܂��B<BR><BR>������˂��l<BR>������H�@���X���D�������ă����O�w�A�[�ł��������H�@<BR>��MONDO����̍ŏ��̃C���X�g����ۂɎc���Ă�����<BR><BR>�@�����ŏ����炻�����Ǝv���Ă�����ł��B�{���͎����C�����Ă��Ȃ��Ƃ����Ȃ���ł����A�܂����̂������ł��̘b���o�����̂ł܂��悵�Ƃ��悤���ȁc�Ȃ�ĂˁB<BR><BR>���f���h���r�E���l<BR>���Ō�͑�~�c�ŏI����Ƃ����Ȃ��A�Ɗ��҂��B<BR>������Ȍ䎞���Ȃ����ɁA���̘b�ɂ̓n�b�s�[�G���h�ɂȂ��Ăق����ȂƎv���킯�ł�<BR><BR>�@�n�b�s�[�G���h�ɂȂ邱�Ƃ͂Ƃ肠�������b���n�߂��Ƃ����猈�߂Ă����ł��B�ł��������֎����Ă������߂ɂ܂����낢�날��킯�ŁB���̘b�ɂ��X�g�[�J�[��Y�͏o�Ă��܂��񂪁A�ł���������������N���C�}�b�N�X�ɓ˓����Ă����܂��̂Łc�����҂��������B
+どうもありがとーございます。<BR><BR>＞かわねぎ様<BR>＞あれ？　元々香織ちゃんってロングヘアーでしたっけ？　<BR>＞MONDOさんの最初のイラストが印象に残ってるもんで<BR><BR>　私も最初からそうだと思っていたんです。本当は私が気がついていないといけないんですが、まあそのおかげでこの話が出来たのでまあよしとしようかな…なんてね。<BR><BR>＞デンドロビウム様<BR>＞最後は大円団で終われるといいなあ、と期待しつつ。<BR>＞こんな御時世なだけに、この話にはハッピーエンドになってほしいなと思うわけです<BR><BR>　ハッピーエンドになることはとりあえずお話を始めたときから決めているんです。ですがそこへ持っていくためにまあいろいろあるわけで。次の話にもストーカー野郎は出てきませんが、でももう少ししたらクライマックスに突入していきますので…ご期待ください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����������P</strong>  <i>2001/09/25 13:22:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｗａｓｓａ１</strong>  <i>2001/09/25 13:22:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001391723wimcqw&id2=999871380oddnvp&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001391723wimcqw_id2_999871380oddnvp_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��������������P�ł��B�T�v�������g�P��ǂ݂܂����B<BR>���D�i�����j�ƃX�g�[�J�[�̂����Ȃ��킢���n�܂�O���ł��ˁB<BR>�X�g�[�J�[���Ăق�Ƃɕ|���ł��ˁE�E�E�B<BR>���D���ꍏ���C�������܂���ˁB<BR><BR>�Ƃ���ŁA������ƋC�ɂȂ����̂́A�{���̍��D�̍��̂��Ƃł��B<BR>�����A�{�l�������琳���ɂȂ�ƌ����̂ł��傤���H�C�ɂȂ�܂��B<BR><BR>���Ȃ݂ɁA�u�G���v�Ƃ����̂́A��͂�w�Z���`�x�́��q�����邪�ʂ��Ă���i�����H�j���q���̖��O�ɂ��Ă܂��B<BR>�i�Z���`�Q���o�����̂͂˂��E�E�E�B�j
+どうもｗａｓｓａ１です。サプリメント１を読みました。<BR>香織（正美）とストーカーのあくない戦いが始まる前兆ですね。<BR>ストーカーってほんとに怖いですね・・・。<BR>香織も一刻も気が抜けませんね。<BR><BR>ところで、ちょっと気になったのは、本当の香織の魂のことです。<BR>もし、本人がいたら正美になんと言うのでしょうか？気になります。<BR><BR>ちなみに、「萌黄」というのは、やはり『センチ』の○倉え○るが通っている（いた？）女子高の名前についてます。<BR>（センチ２を出したのはねぇ・・・。）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www05.u-page.so-net.ne.jp/xb3/y-miki/" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/09/26 23:47:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www05.u-page.so-net.ne.jp/xb3/y-miki/" target="_blank">ゆあさのみき</a></strong>  <i>2001/09/26 23:47:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001515669juopkim&id2=999871380oddnvp&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001515669juopkim_id2_999871380oddnvp_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������P�l�A���肪�Ɓ[�������܂��B<BR><BR>���Ƃ���ŁA������ƋC�ɂȂ����̂́A�{���̍��D�̍��̂��Ƃł��B<BR>�������A�{�l�������琳���ɂȂ�ƌ����̂ł��傤���H�C�ɂȂ�܂�<BR><BR>�@����͐������m�邱�Ƃ̏o���Ȃ��i���̓�ł��˂��B���D�����������̂��Ƃ𑞂��炸�v���Ă������Ƃ͊m���ł��傤���A���̐S��Ƃ��Ȃ�Ɓc�H<BR><BR>�T�v�������g2���o���܂����̂œ��e���܂��B�����ɓǂ݂����Ƃ����l�͎���HP�ɃA�b�v���Ă���܂��̂ŋX������΂ǂ����B�����N���i���O�̂Ƃ���Ɂj�����Ă����܂��B
+ｗａｓｓａ１様、ありがとーございます。<BR><BR>＞ところで、ちょっと気になったのは、本当の香織の魂のことです。<BR>＞もし、本人がいたら正美になんと言うのでしょうか？気になります<BR><BR>　これは正美も知ることの出来ない永遠の謎ですねぇ。香織ちゃんも正美のことを憎からず思っていたことは確かでしょうが、その心情ともなると…？<BR><BR>サプリメント2が出来ましたので投稿します。すぐに読みたいという人は私のHPにアップしてありますので宜しければどうぞ。リンクを（名前のところに）張っておきます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl_s2.html" target="_blank">�T�v�������g�Q��ǂނɂ͂������N���b�N</a></strong>  <i>2001/09/28 12:16:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl_s2.html" target="_blank">サプリメント２を読むにはここをクリック</a></strong>  <i>2001/09/28 12:16:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001646971pmeoks&id2=999871380oddnvp&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001646971pmeoks_id2_999871380oddnvp_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���C�y�Ȏ��_�E�K�[�l�b�g���v�X�o��B�Ȃ񂩔ޏ����݂Ă���ƁA�ǂ����̔\�V�C�ȓV�g���v���o���Ă��܂����S���ł���(��)�B
+お気楽な死神・ガーネットが久々登場。なんか彼女をみていると、どこぞの能天気な天使を思い出してしまった担当でした(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/09/28 20:12:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/09/28 20:12:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001675571bptxxi&id2=999871380oddnvp&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001675571bptxxi_id2_999871380oddnvp_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ�łЂƂ��ƁB�K�[�l�b�g�����c�c�c�c�����ɗ����񂾂��܂ւ͂��I<BR>�@�u���[���w�x�e�x�ɍs�����̂��āA�����������炱��Ɗ獇�킹�����Ȃ��������߂������肵�āi���łɁu����v�Ă΂��c�c�΁j�B<BR><BR>��������MONDO����̃C���X�g���܂������B�ŋ�MONDO�攌�̃C���X�g�A�����ł���ˁ[�B���^�N�V�͍D���ł��B<BR>������H�@���X���D�������ă����O�w�A�[�ł��������H�@MONDO����̍ŏ��̃C���X�g����ۂɎc���Ă����ŁB<BR>�������Ƃ��Ă̓����O�̕����������ȁB�ł��C���X�g������ƁA�V���[�g�������Ȃ��E�E�E�B(����)<BR><BR>�@���肪�Ƃ��������܂��B<BR>�@�����Ȃ�ł��B�킽�����䂠���̂���ɋ������āA����ĂĈ�b���猩�����āc�c�c�c���������������I�@�u�������v���ď����Ă�����I<BR><BR>�@�c�c�ĂȂ킯�őO��̂��b�i���C���X�g�j���ł����������킯�Ȃ̂ł��B
+　読んでひとこと。ガーネットちゃん…………何しに来たんだおまへはっ！<BR>　ブルーが『休憩』に行ったのって、もしかしたらこれと顔合わせたくなかったためだったりして（すでに「これ」呼ばわり……笑）。<BR><BR>＞しかもMONDOさんのイラストがまたいい。最近MONDO画伯のイラスト、多いですよねー。ワタクシは好きです。<BR>＞あれ？　元々香織ちゃんってロングヘアーでしたっけ？　MONDOさんの最初のイラストが印象に残ってるもんで。<BR>＞自分としてはロングの方がいいかな。でもイラストを見ると、ショートも悪くない・・・。(おい)<BR><BR>　ありがとうございます。<BR>　そうなんです。わたしもゆあさのさんに教えられて、あわてて一話から見直して…………だあああああっ！　「長い髪」って書いてあるっ！<BR><BR>　……てなわけで前回のお話（＆イラスト）ができあがったわけなのです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/09/28 21:56:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/09/28 21:56:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001681778bayymju&id2=999871380oddnvp&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001681778bayymju_id2_999871380oddnvp_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���^�N�V�͂��łɖ{�Ƃɂēǂ܂��Ă��������܂����̂ŁA���z�͍Ę^�ł���܂��B<BR><BR>�u�T�v�������g�Q�v<BR>�������A�����������ނɂȂ��ł��˂��B�Ȃ�قǂȂ�قǁB<BR>����ő�P�b����̋^�₪�����܂����B<BR>�������K�[�l�b�g�A���q�ɏ���Ă���ׂ肷���Ȃ��悤�ɋC�����悤�ȁB<BR>�u���͍Ђ��̌��v�Ƃ����i�������邱�Ƃ����B
+読んだバイ♪<BR>ワタクシはすでに本家にて読ませていただきましたので、感想は再録であります。<BR><BR>「サプリメント２」<BR>そうか、そういう分類になるんですねぇ。なるほどなるほど。<BR>これで第１話からの疑問が解けました。<BR>しかしガーネット、調子に乗ってしゃべりすぎないように気をつけような。<BR>「口は災いの元」という格言もあることだし。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/09/28 23:14:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/09/28 23:14:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001686498plnsvn&id2=999871380oddnvp&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001686498plnsvn_id2_999871380oddnvp_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-MONDO�l�A�_�����z�̂����W�S�Q�U�l�A���肪�Ɓ[�������܂��B<BR><BR>���u���[���w�x�e�x�ɍs�����̂��āA�����������炱��Ɗ獇�킹�����Ȃ��������߂������肵��<BR><BR>�@���̕ӂ�̎���́A���b�Ƒ��b�́g���܂��h�����Ă���������Ƃ킩�邩�Ǝv���܂��B�K�[�����̏o�Ԃ�����������������܂��B<BR><BR>�����q�ɏ���Ă���ׂ肷���Ȃ��悤�ɋC�����悤��<BR><BR>�@�܂������ł��B�����q����Ȃ���ł����ˁA�{���ɁB�V���A�X�ȃX�g�[���[�ɂ����ăR���f�B�p�[�g��S���Ă��ꂻ���Ȃ̂ɁA����ł����ޏ�ł��B�ɂ����l�i����Ȃ��Ď��_�j��S�����܂����B�c�����B
+MONDO様、神速感想のｍｋ８４２６様、ありがとーございます。<BR><BR>＞ブルーが『休憩』に行ったのって、もしかしたらこれと顔合わせたくなかったためだったりして<BR><BR>　その辺りの事情は、第二話と第九話の“おまけ”を見ていただけるとわかるかと思います。ガーちゃんの出番がもう少しだけあります。<BR><BR>＞調子に乗ってしゃべりすぎないように気をつけような<BR><BR>　まったくです。悪い子じゃないんですがね、本当に。シリアスなストーリーにあってコメディパートを担ってくれそうなのに、これでもう退場です。惜しい人（じゃなくて死神）を亡くしました。…合掌。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/09/29 09:23:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/09/29 09:23:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001723002uxklkfc&id2=999871380oddnvp&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001723002uxklkfc_id2_999871380oddnvp_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�K�[�l�b�g�E�E�E�ɂ����l(���_)��S�����܂����B(A~_~;)(�Ⴄ)<BR>�Ƃ���Ń��o�C�o���K�[�����āA�F����͕��i�͂ǂ������ČĂ�ł܂����H(�����Ȃ��H)<BR>�����̓��o�K���Č����Ă܂��E�E�E�B�ʖڂł����ˁB<BR>���̍�i�A�^�t�A�h�x�n�`���[�Ƃ��Ńh���}������܂��񂩂˂��B<BR>�����炢���Ȃ��E�E�E�B<BR>����ŁA�����n�o�ɋȂ�����Ȃ�A�����͖^�A���W�F���g�n�[�}��Silent W�nnd�ł��B�C���[�W�҂�����ł��B�����Ƃ��ẮA�ł����B<BR>�����������z�H�̏������݂͂n�j�ł������H��Ⴂ�ł����炷���܂���B(--;)<BR>���̍�i����������̂́A���N�ɂȂ��ł��傤���B����Ƃ��E�E�E<BR>�������C�ɂȂ�܂���̃f���h���ł����B�ł͂�
+ガーネット・・・惜しい人(死神)を亡くしました。(A~_~;)(違う)<BR>ところでリバイバルガールって、皆さんは普段はどう略して呼んでますか？(略さない？)<BR>自分はリバガって言ってます・・・。駄目ですかね。<BR>この作品、某青春アドベＯチャーとかでドラマ化されませんかねぇ。<BR>したらいいなあ・・・。<BR>それで、もしＯＰに曲をつけるなら、自分は某アルジェントＯーマのSilent WＯndです。イメージぴったりです。自分としては、ですが。<BR>こういう感想？の書き込みはＯＫでしたか？場違いでしたらすいません。(--;)<BR>この作品が完結するのは、来年になるんでしょうか。それとも・・・<BR>続きが気になりまくりのデンドロでした。ではっ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/29 12:06:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/29 12:06:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001732786faojth&id2=999871380oddnvp&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001732786faojth_id2_999871380oddnvp_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂����������̐����N���v���Ԃ�Ɍ����悤�ȋC�����܂��B���S�ɐ��������ɖ߂��Ă܂��ˁB���������č���Ԑ����N�Ɍ��̌��C����炬��^������̂̓K�[�l�b�g��������܂���ˁB�u���[�͂�����ƌ�������B<BR>���̕ӂ͕]������Ȃ��̂��ȁB���ӂ̃P�A�|�̓u���[�A�����^���ʂ̓K�[�l�b�g�݂����ɁB�e�T�ŃK�[�l�b�g���{�����e�B�A�Ő����N�̐��b�ɂ���Ɣށi�ޏ��j���y�Ȃ̂ł͂Ȃ��ł��傤���B<BR>�܁A�u���[�͂��܂ł����Ă����}���D�ɂȂ�Ȃ��ē{�邾�낤���ǁB
+はじけた感じの正美君を久しぶりに見たような気がします。完全に杉原正美に戻ってますね。もしかして今一番正美君に元の元気や安らぎを与えられるのはガーネットかもしれませんね。ブルーはちょっと堅いから。<BR>その辺は評価されないのかな。周辺のケア－はブルー、メンタル面はガーネットみたいに。各週でガーネットがボランティアで正美君の世話にくると彼（彼女）も楽なのではないでしょうか。<BR>ま、ブルーはいつまでたっても松枝香織になれなくて怒るだろうけど。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/09/29 15:11:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/09/29 15:11:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001743862fusbhg&id2=999871380oddnvp&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001743862fusbhg_id2_999871380oddnvp_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`��B<BR>�u�퍐�l�K�[�l�b�g�͋֌łP�N�̌Y�ɏ�����v<BR>�Ȃ̂ŁA�V�E���瓖���o���Ă��炦�����ɂȂ������ł��B<BR>�����Ȃ�u�����I�ɂ��d���v��������̂ł����A<BR>�֌łȂ̂Łu�o����_����v�Ƃ��������ł�����i������񂨎d�����u�u��v���Ă������̂ł����c�j�B<BR>�ĊO�A�Ď��l���ł��d�������ɗ��鎖�ɂȂ��āA�Ď��l���u���[��������c�i���j<BR>
+う～ん。<BR>「被告人ガーネットは禁固１年の刑に処する」<BR>なので、天界から当分出してもらえそうになさそうです。<BR>懲役なら「強制的にお仕事」させられるのですが、<BR>禁固なので「出ちゃダメよ」というだけですから（もちろんお仕事を「志願」してもいいのですが…）。<BR>案外、監視人つきでお仕事をしに来る事になって、監視人がブルーだったら…（爆）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/09/29 22:17:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/09/29 22:17:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001769448gdjkj&id2=999871380oddnvp&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001769448gdjkj_id2_999871380oddnvp_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f���h���r�E���l�A�������@�������l�A���Ȃ���l�A���肪�Ɓ[�������܂��B<BR><BR>�������n�o�ɋȂ�����Ȃ�A�����͖^�A���W�F���g�n�[�}��Silent W�nnd�ł�<BR><BR>�@�c�O�Ȃ��玄�͌��Ă��Ȃ��̂Łi���Ă����������Ȃ��j������Ƃ킩��Ȃ��ł����A�l�������Ƃ��Ȃ������ł��ˁB����l���̗e�p�ɂ����m�ȃC���[�W���������킯�ł͂Ȃ��ł�����c�i����Ȃ��Ƃő��v�Ȃ̂��A�����j�B<BR><BR>���e�T�ŃK�[�l�b�g���{�����e�B�A�Ő����N�̐��b�ɂ���Ɣށi�ޏ��j���y�Ȃ̂ł͂Ȃ��ł��傤��<BR><BR>�@�ޏ����{�����e�B�A�ɗ���ƂȂ�ƁA����ɍ߂��d�˂Ă��܂������ȋC�����܂����B���̂��тɋ֌ŔN���������Ă������Ƃ��l����Ɓc�A������Ȃ�ł��K�[�����͋��ۂ���ł��傤�ˁB�u���[�Ƃ́u���Ԋr��20�{�v�̋��|�͕��݂���Ȃ��ł�����B�ޏ��ɂ����ꂭ�炢�l���铪�͎����Ă܂��B<BR><BR>���ĊO�A�Ď��l���ł��d�������ɗ��鎖�ɂȂ��āA�Ď��l���u���[��������c�i���j<BR><BR>�@�K�[����񂪏o����悤�Ȏd�����Ȃ��c�Ƃ������ޏ��������Ă���悤�Ɏ��_�̎d���͊y�Ȃ̂ŁA���ꖢ���̊y�Ȏd���́u�V�g�v�ɂ͖ő��ɂȂ��킯�ł��B�d���������Ă����̐��ɗ��邱�Ƃ͂Ȃ��̂ł��ˁB�u���[�̎d�����I���΂��̐��ŉ���Ƃ��ł���Ǝv���܂����A���D�����̃i�r�Q�[�g�͂܂������肻�������r�����l����Ɓc����ς�u�������ʂ�v�Ȃ�ł��ˁB<BR><BR>�@���Ȃ݂ɉ�X�⍁�D����񂽂��̑̊����Ԃ͑�̎��v�Ɠ����͂��Ȃ̂ŁA�Œ�ł��\�N�͉�Ȃ��ł��B���A�Ō�œ�{�ɂȂ��������\�N�ł��ˁB
+デンドロビウム様、あおき　あきお様、すなさん様、ありがとーございます。<BR><BR>＞もしＯＰに曲をつけるなら、自分は某アルジェントＯーマのSilent WＯndです<BR><BR>　残念ながら私は見ていないので（っていうか見られない）ちょっとわからないですが、考えたこともなかったですね。第一主人公の容姿にも明確なイメージがあったわけではないですから…（そんなことで大丈夫なのか、自分）。<BR><BR>＞各週でガーネットがボランティアで正美君の世話にくると彼（彼女）も楽なのではないでしょうか<BR><BR>　彼女がボランティアに来るとなると、さらに罪を重ねてしまいそうな気がしますが。そのたびに禁固年数が増えていくことを考えると…、いくらなんでもガーちゃんは拒否するでしょうね。ブルーとの「時間較差20倍」の恐怖は並みじゃないですから。彼女にもそれくらい考える頭は持ってます。<BR><BR>＞案外、監視人つきでお仕事をしに来る事になって、監視人がブルーだったら…（爆）<BR><BR>　ガーちゃんが出来るような仕事がない…というか彼女が言っているように死神の仕事は楽なので、それ未満の楽な仕事は「天使」には滅多にないわけです。仕事があってもこの世に来ることはないのですね。ブルーの仕事が終わればあの世で会うこともできると思いますが、香織ちゃんのナビゲートはまだかかりそうだし較差を考えると…やっぱり「長いお別れ」なんですね。<BR><BR>　ちなみに我々や香織ちゃんたちの体感時間は大体時計と同じはずなので、最低でも十年は会えないです。あ、最後で二倍になったから二十年ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����������P</strong>  <i>2001/09/29 22:22:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｗａｓｓａ１</strong>  <i>2001/09/29 22:22:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001769774lorsg&id2=999871380oddnvp&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001769774lorsg_id2_999871380oddnvp_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����΂��B�����������P�ł��B�T�v�������g�Q�����܂����B<BR>�������A����ʎ��������Ă��܂����K�[�l�b�g�ł��ˁB<BR>���i����A�����Ȃ̂ł��傤���H<BR>�������A�ޏ����V�g���������Ƃɂ͋����ł��I<BR>�܂��A�O�ɂ��̂悤�Ȏ����u���[�������Ă܂�������ˁE�E�E�B<BR><BR>�������Q��Ƃ��낾�����̂ɂ������f�ł��ˁE�E�E�B<BR><BR>�֌W�Ȃ��ł����ǁA�u�Ă񁛂܁v���΁I�I�i����͓��e����Ƃ��낪�Ⴄ�E�E�E�B�j�v<BR>
+こんばんわ。ｗａｓｓａ１です。サプリメント２を見ました。<BR>しかし、いらぬ事を言ってしまったガーネットですね。<BR>普段から、ああなのでしょうか？<BR>しかし、彼女も天使だったことには驚きです！<BR>まぁ、前にそのような事をブルーが言ってましたからね・・・。<BR><BR>正美も寝るところだったのにいい迷惑ですね・・・。<BR><BR>関係ないですけど、「てん○ま」万歳！！（それは投稿するところが違う・・・。）」<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/09/30 23:51:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/09/30 23:51:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001861477hxdfba&id2=999871380oddnvp&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001861477hxdfba_id2_999871380oddnvp_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������P�l�A���肪�Ɓ[�������܂��B<BR><BR>�����i����A�����Ȃ̂ł��傤���H<BR><BR>�@���i���炠���ł��B�s�p�ӂȔ����������Ƃ����͓̂�������̐ݒ�ł��B���܂ł͂��̑Ώۂ��u���[��������ʂ̓������������y�������肵���̂ŋ�����Ă����킯�ł��i�K�[�l�b�g������c���Ă��ƂŁj�ł��������ɍ��D�����i�����j�ɂ���Ȕ��������͕̂s���������ł��˂��B���ꂪ�Ȃ���Ώ��R�k�ł������ǉ�����邱�Ƃ͂Ȃ������Ǝv���܂����B���Ȃ̐F�Ȃ��ƌ����Ă����������Ȃ��ł���ˁB<BR><BR>���u�Ă񁛂܁v���΁I�I<BR><BR>�@�H�H�@���ł����H
+ｗａｓｓａ１様、ありがとーございます。<BR><BR>＞普段から、ああなのでしょうか？<BR><BR>　普段からああです。不用意な発言が多いというのは当初からの設定です。今まではその対象がブルーだったり別の同僚だったり先輩だったりしたので許されていたわけです（ガーネットだから…ってことで）でもさすがに香織ちゃん（正美）にあんな発言したのは不味かったですねぇ。あれがなければ情報漏洩でも罰が追加されることはなかったと思いますが。反省の色なしと見られてもおかしくないですよね。<BR><BR>＞「てん○ま」万歳！！<BR><BR>　？？　何ですか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�f���h���r�E��</strong>  <i>2001/10/01 12:00:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>デンドロビウム</strong>  <i>2001/10/01 12:00:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001905216cfqqgl&id2=999871380oddnvp&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001905216cfqqgl_id2_999871380oddnvp_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ă񂽂܁E�E�E�ł����B�o�r�́E�E�E<BR>���K���V�g���Ă�ł��ˁB<BR><BR>&gt;�l�n�m�c�n�l<BR>�����ƃ��o�K�ɃC���X�g���E�E�E�I(��)<BR>�邩�Ȋy���݂Ȃ�ł��B<BR>�ł���ΑS�b�ɗ~�������炢�ł��B<BR>�����ł��傤���E�E�E�B(A--;)<BR>&gt;�䂠���݂̂��l<BR>�����A���̍�i���h���}�����ꂽ�łɂ́A�u���[�̐��͐���Ƃ��K���n�q����ɁE�E�E(����)�B�킩��Ȃ������炷���܂���B(�LA�M;)<BR>�h���}���E�E�E�����Ȃ��B<BR>�Ƃ���ŁA�����̃C���[�W�̒��ł́A�K�[�l�b�g�͂��Ȃ�������Ȃ̂ł����E�E�E�ǂ��Ȃ̂ł��傤�B(����������������܂��������H)<BR>�u���[�ƈ���ĕ\��L���ȕ��A���Ă��Ĕ��΂܂��������̂ł����B<BR>������Ȃ���ł��ˁE�E�E(�s-�s)
+てんたま・・・ですか。ＰＳの・・・<BR>見習い天使ってやつですね。<BR><BR>&gt;ＭＯＮＤＯ様<BR>もっとリバガにイラストを・・・！(爆)<BR>秘かな楽しみなんです。<BR>できれば全話に欲しいくらいです。<BR>無理でしょうか・・・。(A--;)<BR>&gt;ゆあさのみき様<BR>もし、この作品がドラマ化された暁には、ブルーの声は是非とも桑島Ｏ子さんに・・・(爆死)。わからなかったらすいません。(´A｀;)<BR>ドラマ化・・・夢だなあ。<BR>ところで、自分のイメージの中では、ガーネットはかなり可愛い娘なのですが・・・どうなのでしょう。(そういう説明ありましたっけ？)<BR>ブルーと違って表情豊かな分、見ていて微笑ましかったのですが。<BR>もう会えないんですね・・・(Ｔ-Ｔ)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/10/01 22:48:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/10/01 22:48:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001944084vapwy&id2=999871380oddnvp&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001944084vapwy_id2_999871380oddnvp_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ƃł��ˁA�K�[�l�b�g�̗e�p�ɂ�����ݒ�Ƃ��Ă�<BR>�����@�g���̂��΂����񂪒��Ă���悤�ȍ������[�u�Ǝ�ɂ͑傫�Ȋ�<BR>���I�F�̔��̖тŊ�̓t�[�h�ɉB��Ă��Č����Ȃ�<BR>�Ă����̂�����܂��B���Ƃ͌��܂��ĂȂ��ł��B���l�Ȃ̂����I�Ȃ̂��͕s���ł��BMONDO�l�̃C���X�g�͂������������ł����A���b���o���Ă��Ȃ��̂ł܂��������Ȃ��̂ł��A���݂܂���B
+えっとですね、ガーネットの容姿における設定としては<BR>○魔法使いのおばあさんが着ているような黒いローブと手には大きな鎌<BR>○栗色の髪の毛で顔はフードに隠れていて見えない<BR>ていうのがあります。あとは決まってないです。美人なのか個性的なのかは不明です。MONDO様のイラストはもう少しあるんですが、お話が出来ていないのでまだ明かせないのです、すみません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl18.htm" target="_blank">��\���b������ɂ͂������N���b�N�B</a></strong>  <i>2001/10/29 00:14:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl18.htm" target="_blank">第十八話を見るにはここをクリック。</a></strong>  <i>2001/10/29 00:14:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004282040xkfxct&id2=999871380oddnvp&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004282040xkfxct_id2_999871380oddnvp_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O���i�H�j�̂����Ȃ�������ۂǈ��������̂��i�΁j�A����͍��D�����Ɏ����玟�Ɓg�Г�h���P��������܂��c�c�B
+前世（？）のおこないがよっぽど悪かったのか（笑）、今回は香織ちゃんに次から次と“災難”が襲いかかります……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/10/29 06:10:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/10/29 06:10:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004303460cjvxbs&id2=999871380oddnvp&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004303460cjvxbs_id2_999871380oddnvp_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�ڂ�܂����ˁB���^�N�V�͗�ɂ���ĕM�җl�̂g�o�œǂ񂾃o�C��<BR>�Ƃ������ƂŁA���z�͍Ę^�����B<BR><BR>�u�P�W�b�@�N���C�V�X�v<BR>����[�A���D�������i�����܂����˂��B���w���܂ŉ��u���삪�ł���Ƃ����̂͑債�����̂ł��傤�B<BR>�����̎q<BR>��u�ʕ䂿��񂩂Ǝv�����i���j�B<BR>�����e<BR>�Ȃ񂩉�Îᏼ�ŕs���e�炵�����̂��N���}�Ō�Ԃɓ͂����Ҏ҂������炵���B<BR>�������Ȃ��Ă悩�����B<BR>�������A���̎����Ƀe���i�����j�l�^�͔����ł��˂��i���j�B<BR><BR>�M�җl�̂g�o�ł��C���X�g���傫���Ȃ��Ɓ�
+お、載りましたね。ワタクシは例によって筆者様のＨＰで読んだバイ♪<BR>ということで、感想は再録っす。<BR><BR>「１８話　クライシス」<BR>いやー、香織ちゃんも進歩しましたねぇ。成層圏まで遠隔操作ができるというのは大したものでしょう。<BR>＞女の子<BR>一瞬果穂ちゃんかと思った（爆）。<BR>＞爆弾<BR>なんか会津若松で不発弾らしき物体をクルマで交番に届けた猛者がいたらしい。<BR>爆発しなくてよかった。<BR>しかし、この時期にテロ（未遂）ネタは微妙ですねぇ（汗）。<BR><BR>筆者様のＨＰ版よりイラストが大きいなっと♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/10/29 22:14:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/10/29 22:14:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004361276nuftvd&id2=999871380oddnvp&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004361276nuftvd_id2_999871380oddnvp_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ɓ[�������܂��B<BR><BR>���M�җl�̂g�o�ł��C���X�g���傫���Ȃ��Ɓ� <BR><BR>�{�����I�@�{�҂ŏo�Ԃ����Ȃ����C���X�g�Ŏ��Ȏ咣�A�Ƃ������Ƃł��ˁ`�B�����ŃC���X�g��`���Ă���������MONDO�l�ɂ���\���グ�܂��A���肪�Ƃ��������܂�����
+ありがとーございます。<BR><BR>＞筆者様のＨＰ版よりイラストが大きいなっと♪ <BR><BR>本当だ！　本編で出番が少ない分イラストで自己主張、ということですね～。ここでイラストを描いてくださったMONDO様にお礼申し上げます、ありがとうございました♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/10/30 00:34:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/10/30 00:34:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004369686ugusc&id2=999871380oddnvp&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004369686ugusc_id2_999871380oddnvp_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����́w�_�C�n�[�h�x�ȃ��o�C�o���K�[���ł����ˁB���`��������B<BR>�l�n�m�c�n�t���̊G���v�X�ɃV���[�v�ȃL�����ł����ł��ˁB�ŋ߂̓��C�J�΂���ł�����ƂՂ����肵���c���̌^�ɂ�������Ȃ�Ă��܂�������B<BR>�ł����̔��̐F�Ɗዾ���āA���������ĂT�N��́��������Ɓ��䂿���i�j���j<BR>�Ƃ������Ƃ͍��D����́����B�͂��I�@���������������I�I<BR>����v���܂����B�i�΁j<BR><BR>
+今回は『ダイハード』なリバイバルガールでしたね。う～ん驚いた。<BR>ＭＯＮＤＯ師匠の絵も久々にシャープなキャラでいいですね。最近はライカばかりでちょっとぷっくりした幼児体型にすっかりなれていましたから。<BR>でもこの髪の色と眼鏡って、もしかして５年後の○栖ちゃんと○穂ちゃん（核爆）<BR>ということは香織さんは○香。はっ！　髪も長かったし！！<BR>失礼致しました。（笑）<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/10/30 21:39:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/10/30 21:39:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004445544dcwceg&id2=999871380oddnvp&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004445544dcwceg_id2_999871380oddnvp_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������@�������l�A�ǁ[�����肪�Ɓ[�������܂��B<BR><BR>������́w�_�C�n�[�h�x�ȃ��o�C�o���K�[���ł�����<BR><BR>�����ł��ˁ[�A�ǂ����Ă���ȓW�J�ɂȂ�����ł��傤�B�{���͂��̏��̎q�i�����Ńg�E���}�����j����@�������炷���肾������ł����A������Ǝア���ȁc���Ă��ƂŔ��e�������ǉ����ꂽ�̂ł��B�ǂ���ɂ��Ă����D�����ɂ͂������f�ł������c�B<BR><BR>�C���X�g�ɂ��Ă͉B���ʂ�����܂��̂Ŋ��҂��ĂĂ��������B
+あおき　あきお様、どーもありがとーございます。<BR><BR>＞今回は『ダイハード』なリバイバルガールでしたね<BR><BR>そうですねー、どうしてこんな展開になったんでしょう。本当はあの女の子（仮名でトウヤマちゃん）が危機をもたらすつもりだったんですが、ちょっと弱いかな…ってことで爆弾騒ぎが追加されたのです。どちらにしても香織ちゃんにはいい迷惑でしたが…。<BR><BR>イラストについては隠し玉がありますので期待しててください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl19.html" target="_blank">��\��b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/11/10 23:43:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl19.html" target="_blank">第十九話を読むにはここをクリック</a></strong>  <i>2001/11/10 23:43:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005403382kwaih&id2=999871380oddnvp&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005403382kwaih_id2_999871380oddnvp_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͓��L���̃��o�C�o���K�[���ł��B�c��G�u�G���L�v���W���R�P���ɏW���U�����Ă����S���͂Ȃɂ��R�����g�ł��܂���(��)
+今回は日記調のリバイバルガールです。…難敵「絵日記」を８月３１日に集中攻撃していた担当はなにもコメントできません(爆)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl20.html" target="_blank">���\�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/11/10 23:44:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl20.html" target="_blank">第二十話を読むにはここをクリック</a></strong>  <i>2001/11/10 23:44:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005403452rwtnie&id2=999871380oddnvp&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005403452rwtnie_id2_999871380oddnvp_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����܂�A�F���񂵂����Ƃ���܂����H�@����A���̂Ȃ�Ƃ������ʊy�����͑̌����Ȃ��ƕ�����܂���B���ɖ�̂�����ׂ���́c�B
+お泊まり、皆さんしたことありますか？　いや、あのなんとも言えぬ楽しさは体験しないと分かりません。特に夜のおしゃべり大会は…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/11/11 00:04:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/11/11 00:04:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005404663lvwdtaf&id2=999871380oddnvp&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005404663lvwdtaf_id2_999871380oddnvp_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A��C�ɂQ�b�f�ڂł���܂��ȁB<BR>���^�N�V�͗�ɂ���āi�ȉ����j<BR><BR>�u���o�K�P�X�b�v<BR>���L�ł��܂������B���\���L���ď������Ƃ����ł���ˁB<BR>�܁A�ǂ����Ă������Ȃ���������܂����A����ȓ��͌����P�s�B<BR>���ꂪ����������錍�ł�����Ǝv���܂��ˁB�����������ĉ����������Ƃ͂Ȃ��ł����B<BR><BR>�m���Ɏ���ǂ��Ȃ邩�A�\���͂��Â炢�ł����A����͂���Ŋy���݂ł���܂��B<BR><BR>�u���o�K�Q�O�b�v<BR>�Ō�̍Ō�ŋٔ��̓W�J���I<BR>����A�O�l�����ǂ��������΍R����Ƃ�̂��y���݂ł��B<BR><BR>�C���`�F���̃C���X�g���Ȃ��Ȃ��ǂ������ł��˂��B<BR>��l���C�N�̍��D��������Ă݂����Ȃ��i�΁j�B
+読んだバイ♪<BR>おお、一気に２話掲載でありますな。<BR>ワタクシは例によって（以下略）<BR><BR>「リバガ１９話」<BR>日記できましたか。結構日記って書くことあるんですよね。<BR>ま、どうしても書けない日もありますが、そんな日は潔く１行。<BR>それが長く続ける秘訣でもあると思いますね。無理したって何もいいことはないですし。<BR><BR>確かに次回どうなるか、予測はしづらいですが、これはこれで楽しみであります。<BR><BR>「リバガ２０話」<BR>最後の最後で緊迫の展開が！<BR>次回、三人娘がどういった対抗策をとるのか楽しみです。<BR><BR>イメチェンのイラストもなかなか良かったですねぇ。<BR>大人メイクの香織さんも見てみたいなぁ（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/11/11 11:14:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/11/11 11:14:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005444862tyuad&id2=999871380oddnvp&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005444862tyuad_id2_999871380oddnvp_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Q�b�Ƃ��ǂ܂��Ă��炢�܂����B<BR>�̂�т肵�����͋C������ŏI���Ȃ�ł��傤���H�@�V���ȓW�J�ɓ��肾�����悤�ł��ˁB<BR>�N���C�}�b�N�X�Ɍ����āA�l�X�Ȍo���ɂ�萳����������_�I�ɐ������Ă��Ă���݂��������A����Ƃ��Ă悭�ł��Ă���ȂƊ��S�������܂��B<BR>������y���݂ɂ��Ă���܂��̂ł���΂��Ă��������B<BR>
+２話とも読ませてもらいました。<BR>のんびりした雰囲気もこれで終わりなんでしょうか？　新たな展開に入りだしたようですね。<BR>クライマックスに向けて、様々な経験により正美くんも精神的に成長してきているみたいだし、物語としてよくできているなと感心させられます。<BR>次回も楽しみにしておりますのでがんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/11/12 00:32:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/11/12 00:32:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005492738dxdwm&id2=999871380oddnvp&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005492738dxdwm_id2_999871380oddnvp_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ɓ[�������܂��B<BR><BR>���m���Ɏ���ǂ��Ȃ邩�A�\���͂��Â炢�ł���<BR><BR>����͎��̃z�[���y�[�W�f�ڎ��Ɏ���\�����o���Ă��Ȃ���ԂŃA�b�v�������߂ŕ��ɂւ̓��e���͂����Ɨ\�������Ă܂��̂Łi�Q�b�A�����e����Ӗ��Ȃ��ł����j�c�O�̂��߁B<BR><BR>���̂�т肵�����͋C������ŏI���Ȃ�ł��傤���H<BR><BR>����͂��������̂�т肵�Ă܂��B�ł����̂��Ƃ��c�B
+ありがとーございます。<BR><BR>＞確かに次回どうなるか、予測はしづらいですが<BR><BR>これは私のホームページ掲載時に次回予告が出来ていない状態でアップしたためで文庫への投稿分はちゃんと予告入ってますので（２話連続投稿じゃ意味ないですが）…念のため。<BR><BR>＞のんびりした雰囲気もこれで終わりなんでしょうか？<BR><BR>次回はもう少しのんびりしてます。でもそのあとが…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>vmxas</strong>  <i>2001/11/21 00:52:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006271532mfsbqmr&id2=999871380oddnvp&ff=p">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006271532mfsbqmr_id2_999871380oddnvp_ff_p.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���΂��Ȃ���Q�O�b�܂œǂ݂܂����B<BR>���u�X�g�[�J�[��Y���A���O�̉Ƃɓ�������d�|�����v<BR>�Ƃ��Ƃ����܂������B���h�ȕs�@�N���߂ł����A�ڌ��҂��u���[�ł͂ǂ����悤������܂���ˁB����ɂ��Ă��A�ǂ�����ĐN�������̂ł��傤�H�@�s�b�L���O�̋Z�ł������Ă���̂��ȁH<BR>��A�������苩��ł��܂�����炪��l���͕����ƒ֍g�ɂǂ������󂷂�̂��H<BR>�������y���݂ɂ��Ă���܂��B
+後ればせながら２０話まで読みました。<BR>＞「ストーカー野郎が、お前の家に盗聴器を仕掛けた」<BR>とうとうやりましたか。立派な不法侵入罪ですが、目撃者がブルーではどうしようもありませんね。それにしても、どうやって侵入したのでしょう？　ピッキングの技でも持っているのかな？<BR>後、うっかり叫んでしまった我らが主人公は風実と椿紅にどう言い訳するのか？<BR>続きを楽しみにしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl21.html" target="_blank">���\��b������ɂ͂������N���b�N�B</a></strong>  <i>2001/11/25 01:24:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl21.html" target="_blank">第二十一話を見るにはここをクリック。</a></strong>  <i>2001/11/25 01:24:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006619066plwdb&id2=999871380oddnvp&ff=p">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006619066plwdb_id2_999871380oddnvp_ff_p.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�R�l�́A�����蒆�ł����A�B�B�B�B�������܂�鉹�Ȃ�āB���C���B
+【推薦文】３人は、お泊り中ですが、。。。。が這いまわる音なんて。寒気が。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/11/26 10:37:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/11/26 10:37:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006738645gakqufr&id2=999871380oddnvp&ff=p">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006738645gakqufr_id2_999871380oddnvp_ff_p.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������ɍ���̓����@�ɂ͂��낢�떳��������悤�ȁB<BR>�݂����{�̌x�@���_�~�[���܂߂P�V���������Ă���̂��킩��Γ����ł���B���ꂪ�킩��Ȃ��A�C�c�ł͂Ȃ��͂��B<BR>�Ȃɂ������V���{���̓����@�Ƃ��Ă��A���ꂾ�����W���Ă���ƃn�E�����O�Ƃ����Ȃ��̂��낤���H<BR>�Ɨ]�v�Ȃ��Ƃ��l���Ă��܂��̂ł���܂����B�i�΁j<BR>������y���݂ɂ��Ă���܂��B
+さすがに今回の盗聴機にはいろいろ無理があるような。<BR>鈍い日本の警察もダミーを含め１７個もしかけてあるのがわかれば動くでしょ。それがわからないアイツではないはず。<BR>なによりも内７個が本物の盗聴機としても、それだけ密集しているとハウリングとかしないのだろうか？<BR>と余計なことを考えてしまうのでありました。（笑）<BR>次回も楽しみにしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/11/26 21:18:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/11/26 21:18:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006777105kyfduhs&id2=999871380oddnvp&ff=p">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006777105kyfduhs_id2_999871380oddnvp_ff_p.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-vmxas�l�A�������@�������l�A���肪�Ɓ[�������܂��B<BR><BR>���ǂ�����ĐN�������̂�<BR><BR>�����ł��ˁ[�B���D�����͑O�X����˒���͌x�����Ă���킯������A�s�b�L���O�������ł��傤�ˁB�������������ȃX�L���͎����Ă���̂�������܂���B<BR><BR>���������ɍ���̓����@�ɂ͂��낢�떳��������悤�ȁB<BR><BR>���͂́B��������܂��ˁ[�A����܂���ł��B����ł��Ȃ�ƂȂ����ꂿ�Ⴄ�̂����낵���Ƃ���ł�����܂��ˁB�n�E�����O�c�N�����Ă���ł��傤�ˊm���ɁB�d�|�����ꏊ�ł͂����Ȃ�Ȃ��悤�ɔz�����Ă����悤�ł����A�S����܂Ƃ߂ɂ��ꂿ�Ⴂ�܂�������ˁB�������X�g�[�J�[��Y������ɋC�t���Ȃ����Ƃ͂Ȃ��ł��傤�ˁc�B���Ă��ƂŎ���ɑ����킯�ł��B����́u�t�B�A�[�v�ł��B
+vmxas様、あおき　あきお様、ありがとーございます。<BR><BR>＞どうやって侵入したのか<BR><BR>そうですねー。香織ちゃんは前々から戸締りは警戒しているわけだから、ピッキングやったんでしょうね。そういう悪徳なスキルは持っているのかもしれません。<BR><BR>＞さすがに今回の盗聴機にはいろいろ無理があるような。<BR><BR>あはは。無理ありますねー、ありまくりです。それでもなんとなく流れちゃうのが恐ろしいところでもありますね。ハウリング…起こっているでしょうね確実に。仕掛けた場所ではそうならないように配慮していたようですが、全部一まとめにされちゃいましたからね。もちろんストーカー野郎もそれに気付かないことはないでしょうね…。ってことで次回に続くわけです。次回は「フィアー」です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/11/26 22:37:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/11/26 22:37:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006781853wqmfsm&id2=999871380oddnvp&ff=p">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006781853wqmfsm_id2_999871380oddnvp_ff_p.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����͂��́E�E�E���^�N�V�͗�ɂ���āi�ȉ����j�B<BR><BR>�܂��͔������e�B<BR>�K�T�S�\�Ƃ����m�C�W�[�ȉ��������Ȃ�������𕷂��Ă���p�Ƃ����̂͊Ԕ����ȊO�̂Ȃɂ��̂ł��Ȃ��ł����A���̖{���̗��R��m�����烄�c�͂ǂ��v���̂��ȁi�΁j�B<BR>�f��Ő����Ă���S�L�u����͂߂�Ƃ����̂͂������i���j�B<BR><BR>������<BR>�ł���������ȁ�i���j<BR><BR>�������̂��䖝���鍁�D�����͉����B<BR>������
+読んだバイ♪<BR>わっはっは・・・ワタクシは例によって（以下略）。<BR><BR>まずは反撃第一弾。<BR>ガサゴソというノイジーな音しかしない盗聴器を聞いている姿というのは間抜け以外のなにものでもないですが、その本当の理由を知ったらヤツはどう思うのかな（笑）。<BR>素手で生きているゴキブリを掴めるというのはすごい（爆）。<BR><BR>＞飼育<BR>でっきるっかな♪（爆）<BR><BR>＞眠いのを我慢する香織ちゃんは可愛い。<BR>同感♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=1006782136gmxsm&ff=on" target="_blank">�f����No.5�ւ͂������N���b�N</a></strong>  <i>2001/11/26 22:44:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_1006782136gmxsm_ff_on.cgi" target="_blank">掲示板No.5へはここをクリック</a></strong>  <i>2001/11/26 22:44:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006782270aexkn&id2=999871380oddnvp&ff=p">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006782270aexkn_id2_999871380oddnvp_ff_p.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̃X���b�h�͂܂��Ȃ���t�ɂȂ�܂��̂ŁA���z�͌f����No.5�ւ��肢���܂��B<BR><BR>�Ɩ��A���F���z�t�H�[������̃����N�ύX�����肢���܂��B<BR>�i���b�Ă��ǎҁj
+このスレッドはまもなく一杯になりますので、感想は掲示板No.5へお願いします。<BR><BR>業務連絡：感想フォームからのリンク変更をお願いします。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/11/27 23:05:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/11/27 23:05:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006869929cvilea&id2=999871380oddnvp&ff=p">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006869929cvilea_id2_999871380oddnvp_ff_p.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������̓�����<BR>�P�j���R�Ɏg����Q�D�S�f�g���т͂W�`�����l���ł��B<BR>�@�܂�A�����Ă���̂͂W�ȉ��ő��͑S���_�~�[�B<BR><BR>�Q�j�n�E�����O�́H<BR>�@�����펩�g�͏W���@�\�����Ȃ��̂ŁA������������Ƃ���Ύ�M���ł��B<BR>�@�Q�ȏ㓯���ɃX�s�[�J�[���特���o���΃n�E�����O���N�����܂����A�W�`�����l���S�Ă��p�\�R���Ɍq�����Ă���ꍇ�͋N�����Ȃ��悤�ɏo���܂��B<BR><BR>�R�j�f��ŕߊl������<BR>���ł���������ȁ�i���j<BR>�ǂ������A���񂽃N�����ȁH
+＞今回の盗聴器<BR>１）自由に使える２．４ＧＨｚ帯は８チャンネルです。<BR>　つまり、生きているのは８つ以下で他は全部ダミー。<BR><BR>２）ハウリングは？<BR>　盗聴器自身は集音機能しかないので、もし発生するとすれば受信側です。<BR>　２つ以上同時にスピーカーから音を出せばハウリングを起こしますが、８チャンネル全てがパソコンに繋がっている場合は起こさないように出来ます。<BR><BR>３）素手で捕獲＆飼育<BR>＞でっきるっかな♪（爆）<BR>どっちが、ごんたクンかな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/11/28 23:31:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/11/28 23:31:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006957894xlgcqt&id2=999871380oddnvp&ff=p">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006957894xlgcqt_id2_999871380oddnvp_ff_p.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ɓ[�������܂��B<BR><BR>���Ȃ���l�t�H���[���Ă����������肪�Ƃ��������܂��B�Ȃ�قǂ����������ƂȂ�`�����l�����͂��傤�ǂ҂����肾������ł��ˁB�n�E�����O���N����Ȃ��ƁB���͂́A�����̖��m���ؖ�����Ă��܂��܂����c�B�ł��܁[���ʃI�[���C�Ƃ������ƂŁB�ł��n�E�����O���Ȃ�����Ƃ����ăA�C�c���C�t���Ȃ��킯�ł͂Ȃ����Ă��Ƃł����B<BR><BR>���������͌��\�Ƃ�ł��Ȃ��L�����N�^�[�ɂȂ��Ă��܂��܂����˂��B���͂��܂��ɕ����͂���ȓz���ăC���[�W���ł܂��Ă��Ȃ��̂ŁA�����ƂƂ�ł��Ȃ��Ȃ�\��������܂��c�B
+ありがとーございます。<BR><BR>すなさん様フォローしていただきありがとうございます。なるほどそういうことならチャンネル数はちょうどぴったりだったんですね。ハウリングも起こらないと。あはは、自分の無知が証明されてしまいました…。でもまー結果オーライということで。でもハウリングしないからといってアイツが気付かないわけではないってことですが。<BR><BR>風実ちゃんは結構とんでもないキャラクターになってしまいましたねぇ。私はいまだに風実はこんな奴ってイメージが固まっていないので、もっととんでもなくなる可能性もあります…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>vmxas</strong>  <i>2001/12/21 23:24:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1008944655ubtrv&id2=999871380oddnvp&ff=p">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1008944655ubtrv_id2_999871380oddnvp_ff_p.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Q�P�b�ǂ݂܂����B�܂�������Ȏ�i�œ�����𖳌�������Ƃ͎v���܂���ł����B����ɂ��Ă���l���ƕ����͐����ł��ˁB�f��ŃS�L�u����߂܂�����Ȃ�āB��l���̓u���[��������������A�܂��}�V���Ǝv�����̂ł��傤���B���Ƃ�����u���[�͎����̎�ŃS�L�u����߂܂��������āA�ǂ��l���Ă���̂��m�肽���ł��B
+２１話読みました。まさかあんな手段で盗聴器を無効化するとは思いませんでした。それにしても主人公と風実は凄いですね。素手でゴキブリを捕まえられるなんて。主人公はブルーごしだったから、まだマシだと思ったのでしょうか。だとしたらブルーは自分の手でゴキブリを捕まえさせられて、どう考えているのか知りたいです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="999871380oddnvp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,27 +1,27 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���̑���i/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>その他作品/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
-<div align="right">[<a href="noteky.cgi?c=notebase&f=8&ff=on" >�V�����b�������</a>] 
-[<a href="noteky.cgi?c=noteidx&f=8&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɂ��ǂ�</a>]</div>
-<font size="+2" color="#008080">���̑���i</font>
-<blockquote>���̑��̃W�������̃I�X�X����i�ɂ��Č���ĉ������B</blockquote>
+<div align="right">[<a href="noteky@c_notebase_f_8_ff_on.cgi" >新しく話題をつくる</a>] 
+[<a href="noteky@c_noteidx_f_8_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@_ff_on.cgi" >ノート一覧にもどる</a>]</div>
+<font size="+2" color="#008080">その他作品</font>
+<blockquote>その他のジャンルのオススメ作品について語って下さい。</blockquote>
 <table width="100%" border="0">
 <tr bgcolor="#00CCFF">
 <th align="center" width="1%" nowrap>No.</th>
-<th align="center">�薼</th>
-<th align="center" width="1%" nowrap>�ŏI�X�V��</th>
-<th align="center">�ŐV�������e</th>
+<th align="center">題名</th>
+<th align="center" width="1%" nowrap>最終更新日</th>
+<th align="center">最新発言内容</th>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=8&id=920829982bfiyb&ff=on" >1</a></td>
-<td align="center" nowrap>���E���E���[</td>
+<a href="noteky@c_noteread_f_8_id_920829982bfiyb_ff_on.cgi" >1</a></td>
+<td align="center" nowrap>あ・い・うー</td>
 <td align="center" nowrap>99/03/08 03:06:21</td>
-<td nowrap>�݂Ȃ���A�����`�F�b�N�ς݂ł��傤���H</td>
+<td nowrap>みなさん、もうチェック済みでしょうか？</td>
 </tr>
-</table><p>[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɂ��ǂ�</a>]</p></body></html>
+</table><p>[<a href="noteky@_ff_on.cgi" >ノート一覧にもどる</a>]</p></body></html>

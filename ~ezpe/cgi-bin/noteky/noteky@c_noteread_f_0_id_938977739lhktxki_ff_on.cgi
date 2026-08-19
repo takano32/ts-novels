@@ -1,102 +1,102 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�X�X������/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オススメ小説/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=0&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_0_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=0&id=938977739lhktxki&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">�I�X�X������</a>]<br>
+[<a href="noteky@c_noteread_f_0_id_938977739lhktxki_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">オススメ小説</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�f���t�B�j�A��L</font><br>
+<font size="+2" color="#0000FF">デルフィニア戦記</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kusa-bue@excite.co.jp" target="_blank">���݂���</a></strong>  <i>1999/10/04 04:08:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kusa-bue@excite.co.jp" target="_blank">かみけん</a></strong>  <i>1999/10/04 04:08:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=938977739lhktxki&id2=938977739lhktxki&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_938977739lhktxki_id2_938977739lhktxki_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����A���N����������ł����A<BR>�ǔj���ꂽ������������ł��傤���c<BR>�S18���Ƃ����A�s�r�L��������l���̈�l�Ƃ��ďo�Ă��镨��ł͈ٗ�̒����B�܂��A�s�r�͎��ł͂Ȃ��̂ŁA�u�G����v�悤�ȓW�J�͂Ȃ��ł����ǁB<BR>�����A�s�r�͕���̑O��ł����āA�L�����N�^�[�i���B�j�̐ݒ��A���_�i�E�H���j�Ƃ̊֌W�����ꂪ������Α��݂��Ȃ��Ǝv����̂ŁA���������Ӗ��ł͂s�r�x�̍�����i�Ƃ����邩���m��Ȃ��ł��B<BR>
+これ、去年完結したんですが、<BR>読破された方いらっしゃるでしょうか…<BR>全18巻という、ＴＳキャラが主人公の一人として出ている物語では異例の長さ。まあ、ＴＳは主題ではないので、「萌える」ような展開はないですけど。<BR>ただ、ＴＳは物語の前提であって、キャラクター（リィ）の設定や、相棒（ウォル）との関係もそれが無ければ存在しないと思えるので、そういう意味ではＴＳ度の高い作品といえるかも知れないです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>1999/10/05 01:47:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>1999/10/05 01:47:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=939055670tygxat&id2=938977739lhktxki&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_939055670tygxat_id2_938977739lhktxki_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̍�i�̓{�����[�����肷���āA�܂������Ƃ͓ǔj���Ă܂���B(^^;<BR>�ǔj�����l�̃��|�[�g�ǂ�ł݂����ȁ[
+この作品はボリュームありすぎて、まだちゃんとは読破してません。(^^;<BR>読破した人のレポート読んでみたいなー
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.cse.ec.kyushu-u.ac.jp/~sc196004/" target="_blank">���Ȃ���</a></strong>  <i>1999/10/12 04:49:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.cse.ec.kyushu-u.ac.jp/~sc196004/" target="_blank">せつなっち</a></strong>  <i>1999/10/12 04:49:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=939671394btpxq&id2=938977739lhktxki&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_939671394btpxq_id2_938977739lhktxki_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�}�C�E�t�F�C���@���b�g�����ł��B<BR>���쏬����TS(�����Œm��܂���(^^;))�␸�_�����E���_�������������Ȃ��̂�(��)�A���������v�f�����ł����܂ŏ΂��ɏ��؂ł��邱�ƂɏՌ����󂯂܂����B�����邮�炢�΂���̂͂���ς肷�����ł��B<BR><BR>���Ȃ݂ɁA�����ɂƂ��Ă͖G���x�����������ł��B���B�G���ŃV�F���G��(��)�B�I���L����(��y���{�N�L�����Ƃ����n����n���Ă���̂�)�D���Ȃ̂ŁA���B�͂��Ȃ肢�������ł����BTS�Ȓ��ւ��ŖG�����̂͏����ł͗B�ꂩ��(^^;)<BR>�iTS�G���̕��͂T���ȍ~�̕����G����Ǝv���܂��j<BR><BR>�t�@���^�W�[�����Ƃ��Ă��ꋉ�i���Ǝv���̂ŁA�����D���̕��͓ǂ�ł݂邱�Ƃ��I�X�X�����܂��B�i�n�}��Ƃ�����������т܂����c�c�j
+マイ・フェイヴァリット小説です。<BR>自作小説でTS(ここで知りました(^^;))や精神交換・精神同居しか書けないので(笑)、そういう要素だけでここまで笑いに昇華できることに衝撃を受けました。泣けるぐらい笑えるのはやっぱりすごいです。<BR><BR>ちなみに、うちにとっては萌え度が高かったです。リィ萌えでシェラ萌え(笑)。オレキャラ(先輩がボクキャラという系譜を創っているので)好きなので、リィはかなりいい感じでした。TSな着替えで萌えたのは小説では唯一かも(^^;)<BR>（TS萌えの方は５巻以降の方が萌えると思われます）<BR><BR>ファンタジー小説としても一級品だと思うので、小説好きの方は読んでみることをオススメします。（ハマるとお金が吹っ飛びますが……）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>1999/10/13 06:57:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>1999/10/13 06:57:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=939765462qyicdv&id2=938977739lhktxki&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_939765462qyicdv_id2_938977739lhktxki_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͌����E�V���[�Y�ł��G���ꂽ�l�ԂȂ�ŁA�����ƃf���t�B�j�A�ł��[���G�����Ǝv���Ă܂��B�u���������v����Ȃ��u�����G���v�ł����ǁB�������̊����Ȃ�Œʂ��ēǂ����Ǝv���ƋC�������v��悤�ł��ˁB(��)<BR><BR>�Ƃ���ŁA���Ȃ�������͌́E�嗤���[����o�Ă��u�����O�����_�v�i���������ȁH�j�͓ǂ܂�܂������H<BR>���͂܂���������Ö{���ŒT���o���ēǂ�ł���A�f���t�B�j�A��L�ɂƂ肩���낤�ƌv�悵�Ă܂��B
+私は月光界シリーズでも萌えれた人間なんで、きっとデルフィニアでも充分萌えれると思ってます。「ムラムラ」じゃない「純粋萌え」ですけど。ただあの巻数なんで通して読もうと思うと気合いが要りようですね。(笑)<BR><BR>ところで、せつなっちさんは故・大陸書房から出てた「王女グリンダ」（だったかな？）は読まれましたか？<BR>私はまずこちらを古本屋で探し出して読んでから、デルフィニア戦記にとりかかろうと計画してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�B��@�p�m</strong>  <i>1999/10/13 09:26:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>達句　英知</strong>  <i>1999/10/13 09:26:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=939774370afohj&id2=938977739lhktxki&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_939774370afohj_id2_938977739lhktxki_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���d�F���܁B<BR>���̓���̓p���������[���h�̑��݂Ȃ̂Łi�΁j�ǂ܂Ȃ��Ă����ɖ�薳���ł��傤<BR>�[���A����ɐ����������������Ƃ���Ɩ�킩��Ȃ��Ȃ�܂��B<BR>�󋵓I�ɂ͑嗤�ł̂Q���͒����ł̂S���̌�A�T�����n�܂鍠�̃p���������[���h�ł��B<BR>�f���t�B�j�A���́A���X�@�����~���̓��l������̂����Ȃ��B<BR>�����嗤�ł̍�����D���ŁA�����ł͂قƂ�Ǐ��łł����Ă܂��B
+八重洲さま。<BR>あの二冊はパラレルワールドの存在なので（笑）読まなくても特に問題無しでしょう<BR>つーか、下手に整合性見いだそうとすると訳わかんなくなります。<BR>状況的には大陸版の２冊は中公版の４巻の後、５巻が始まる頃のパラレルワールドです。<BR>デルフィニア自体、元々　小次×健の同人誌が母体だしなぁ。<BR>私も大陸版の頃から好きで、中公版はほとんど初版でもってます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.cse.ec.kyushu-u.ac.jp/~sc196004/" target="_blank">���Ȃ���</a></strong>  <i>1999/10/15 07:02:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.cse.ec.kyushu-u.ac.jp/~sc196004/" target="_blank">せつなっち</a></strong>  <i>1999/10/15 07:02:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=0&id=939938527kktmbk&id2=938977739lhktxki&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_0_id_939938527kktmbk_id2_938977739lhktxki_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����O�����_�́A�̂���ǂ܂�Ă���������؂�ēǂ݂܂����B<BR>�B�傳�������������Ă܂����A���ɓǂ܂Ȃ��Ă��y���߂܂��B<BR>�i�����B�قƂ�ǖY��Ă��܂����悤�ȁc�c�j<BR>����ɒ��Âƌ����Ă��قƂ�Ǐo����ĂȂ��Ǝv���܂����B<BR>�����E�V���[�Y�͓ǂ�ł܂���ł�(^^;)
+王女グリンダは、昔から読まれていた方から借りて読みました。<BR>達句さんもおっしゃってますが、特に読まなくても楽しめます。<BR>（あぅ。ほとんど忘れてしまったような……）<BR>それに中古と言ってもほとんど出回ってないと思いますし。<BR>月光界シリーズは読んでませんです(^^;)
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="0">
 <input type="hidden" name="id" value="938977739lhktxki">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on">�I�X�X������</a>]<br>
+[<a href="noteky@c_noteidx_f_0_ff_on.cgi">オススメ小説</a>]<br>
 
 </p>
 </body>

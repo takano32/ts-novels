@@ -1,34 +1,34 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɖ߂�</a>]
+[<a href="noteky@_ff_on.cgi" >ノート一覧に戻る</a>]
 </div>
 <br>
 <p><font size="+2" color="#0000FF"><i>SCAN RESULT</i></font></p>
 <div align="right">
-<font size="+1" color="#008080"><strong> <a href="noteky.cgi?c=noteidx&f=11&ff=on">
-�I�����C����i#2</a> </strong></font>
+<font size="+1" color="#008080"><strong> <a href="noteky@c_noteidx_f_11_ff_on.cgi">
+オンライン作品#2</a> </strong></font>
 <br>
 <hr width="40%" align="right">
-</div><input type="checkbox" name="write" value="���@�������ޗ��� �i�p�C���b�g�Łj<11<982762378glxwclo>">
-<font size="+1" color="#0000FF"> ���@�������ޗ��� �i�p�C���b�g�Łj </font>
-<table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong>�䂫�҂��</strong>
+</div><input type="checkbox" name="write" value="魔法少女♪奈里佳 （パイロット版）<11<982762378glxwclo>">
+<font size="+1" color="#0000FF"> 魔法少女♪奈里佳 （パイロット版） </font>
+<table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong>ゆきぴょん</strong>
   <i>2001/04/19 19:37:25</i><br></td>
 <td  bgcolor="#00CCFF" width="20%" align="right">
-<a href="noteky.cgi?c=notemenu&f=11&id=987676645nviwppv&id2=982762378glxwclo&ff=on" >APPEND 22</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
-���߂�Ȃ����A�ǂ����w�������@�������͑g���x���w�������@���������g���x�Ɗ��Ⴂ���Ă��܂����B�ł�����APPEND 19�̔����̓j���A���X�I�ɂ́w�������@���������g������~�[�e�B���O�x�ƌ����Ƃ���ł��傤���B������ɂ��Ă���ςȊ��Ⴂ�����Ė���ȕ������ł����A�ǂ������������������B<BR><BR>�b�͕ς���āA������S�ő�P�b��ǂ܂��Ă������������Ƃɂ���āA���̒��ŏ��X�Ɂu���@�������ޗ����v�̑S�̃C���[�W���͂߂͂��߂܂����B���������ł��B
+<a href="noteky@c_notemenu_f_11_id_987676645nviwppv_id2_982762378glxwclo_ff_on.cgi" >APPEND 22</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
+ごめんなさい、どうも『悪い魔法少女協力組合』を『悪い魔法少女協同組合』と勘違いしていました。ですからAPPEND 19の発言はニュアンス的には『悪い魔法少女協同組合第一回ミーティング』と言うところでしょうか。いずれにしても大変な勘違いそして無礼な物言いでした、どうかお許しください。<BR><BR>話は変わって、先日完全版第１話を読ませていただいたことによって、私の中で徐々に「魔法少女♪奈里佳」の全体イメージが掴めはじめました。もう少しです。
 </td></tr>
-</table><br><table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>
+</table><br><table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>
   <i>2001/04/20 06:36:46</i><br></td>
 <td  bgcolor="#00CCFF" width="20%" align="right">
-<a href="noteky.cgi?c=notemenu&f=11&id=987716207ttafxbi&id2=982762378glxwclo&ff=on" >APPEND 23</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
-�앶���@�l��<BR>�@�����A��Q�b�������グ��ꂽ�̂ł����H�@�f�����ł��ˁB�~�[�i�̎��̊�����y���݂ɁA�A�b�v�����������҂����Ă���܂��B<BR>�@�������ӂƎv�����̂ł����A���̖��@���������݂��ɋ��͂��邱�ƂȂ񂩂���񂾂낤���H�@�~�[�i�́g�������@�����h�͉��Z�ł�����A���͂��鎖�ɂ��Ă͑��v��������܂��񂪁A���ʂ́g�������@�����h�́A���͂���Ƃ������z���̂��Ȃ��ł��傤�ˁB<BR>�@�����Ƃ��A�����ɁA���l���g���͂�����h�Ƃ������z�́g����h�ł��傤����A���͑g�����������邱�Ƃ́A���Ȃ��ł��傤�B�����A���̊����́A�\�ʓI�ɂ͋��͂����A���ʂł͑��̈������荇�������c�c�B<BR>�@����A������Ƒ҂Ă�B���������Γޗ����́A�{���͐��E�̕����h���Ƃ����ړI���������g���`�̖��@�����i���́j�h�����������c�c�B�����`��B�ǂ��Ȃ�ǂ�����H�@�����ڂƂ�邱�Ƃ́A���S�Ɂg�������@�����h�Ȃ񂾂��ǂȂ��c�c�B<BR><BR>�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<BR><BR>�䂫�҂��l��<BR>�@�S�R�A����Ȕ������Ȃ�Ďv���Ă܂���B�ǂ����N���ɂȂ��炸�ɁB<BR>�@�ޗ����̑��b�́A�d���X�ƕP�_��杊O�`�����ꂼ�ꏑ������A���̎��Ɋe�\��ƂȂ��Ă��܂��B�Ă̍��܂łɂ͔��\�o����Ǝv���̂ł����A��낵����肢�������܂��B
+<a href="noteky@c_notemenu_f_11_id_987716207ttafxbi_id2_982762378glxwclo_ff_on.cgi" >APPEND 23</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
+南文堂　様へ<BR>　もう、第２話を書き上げられたのですか？　素早いですね。ミーナの次の活躍を楽しみに、アップされる日をお待ちしております。<BR>　しかしふと思ったのですが、悪の魔法少女がお互いに協力することなんかあるんだろうか？　ミーナの“悪い魔法少女”は演技ですから、協力する事については大丈夫かもしれませんが、普通の“悪い魔法少女”は、協力するという発想自体がないでしょうね。<BR>　もっとも、自分に、他人を“協力させる”という発想は“あり”でしょうから、協力組合が発足することは、問題ないでしょう。ただ、その活動は、表面的には協力しつつも、内面では足の引っ張り合いかも……。<BR>　いや、ちょっと待てよ。そう言えば奈里佳は、本当は世界の崩壊を防ぐという目的を持った“正義の魔法少女（自称）”だったっけ……。うぅ～ん。どうなるどうする？　見た目とやることは、完全に“悪い魔法少女”なんだけどなあ……。<BR><BR>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<BR><BR>ゆきぴょん様へ<BR>　全然、失礼な発言だなんて思ってません。どうぞ起きになさらずに。<BR>　奈里佳の第二話は、妖精９と姫神奇譚外伝をそれぞれ書いたら、その次に各予定となっています。夏の頃までには発表出来ると思うのですが、よろしく御願いいたします。
 </td></tr>
 </table><br><br><br>
-[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɖ߂�</a>]
+[<a href="noteky@_ff_on.cgi" >ノート一覧に戻る</a>]
 </body>
 </html>

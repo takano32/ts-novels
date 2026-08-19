@@ -1,71 +1,71 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=938793551wlpmx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_938793551wlpmx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�ؑタ���F �ԑ�</font><br>
+<font size="+2" color="#0000FF">華代ちゃん： 番台</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/kayo_chan/kayo_chan37.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/10/02 00:59:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/kayo_chan/kayo_chan37.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/10/02 00:59:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938793551wlpmx&id2=938793551wlpmx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938793551wlpmx_id2_938793551wlpmx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �����Ɍ��킹��Ɓu����Ȃɂ��������Ȃ���v�Ƃ����K���̏����ł����A�����͂���A��͂�j�ɂƂ��Ă͉i���̃��}���ł��B
+【推薦文】 女性に言わせると「そんなにええもんやないよ」という銭湯の女湯ですが、そこはそれ、やはり男にとっては永遠のロマンです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">�^��@�I</a></strong>  <i>1999/10/02 09:36:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">真城　悠</a></strong>  <i>1999/10/02 09:36:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938824592obcnmbs&id2=938793551wlpmx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938824592obcnmbs_id2_938793551wlpmx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���͍ŏ��̃o�[�W�����ł́u���g��������ւ���v�Ƃ������Ƃ��ق̂߂�����邾���������̂ŁA�^��ސ��u�ؑタ���v���́u���_�������H�v�Ǝv��ꂽ�̂ł����B���ǁu�ؑタ���v���́u���ڐ��]���V�[�������v�ɂ͂Ȃ�Ȃ�������ł����A�ǂ��ł��傤�H
+　実は最初のバージョンでは「中身だけ入れ替える」ということがほのめかされるだけだったので、真城謹製「華代ちゃん」初の「精神交換か？」と思われたのでした。結局「華代ちゃん」初の「直接性転換シーン無し」にはなれなかった訳ですが、どうでしょう？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>yays</strong>  <i>1999/10/02 10:45:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938828743nsujf&id2=938793551wlpmx&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938828743nsujf_id2_938793551wlpmx_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; ���́u���_�������H�v�Ǝv��ꂽ�̂ł����B<BR><BR>���Ȃ݂ɁA���̊��Ⴂ�������͎̂��ł��B�i��΁j
+&gt; 初の「精神交換か？」と思われたのでした。<BR><BR>ちなみに、その勘違いをしたのは私です。（苦笑）
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="938793551wlpmx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

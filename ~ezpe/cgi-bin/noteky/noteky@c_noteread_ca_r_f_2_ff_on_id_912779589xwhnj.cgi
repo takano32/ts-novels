@@ -1,81 +1,81 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�����R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>少女コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=2&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_2_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=2&ff=on&id=912779589xwhnj&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=2&ff=on">�����R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_2_ff_on_id_912779589xwhnj_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_2_ff_on.cgi">少女コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����˂����</font><br>
+<font size="+2" color="#0000FF">あかねちゃん</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:flyhigh@home.so-net.ne.jp" target="_blank">�Ē�</a></strong>  <i>1998/12/04 22:53:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:flyhigh@home.so-net.ne.jp" target="_blank">米津</a></strong>  <i>1998/12/04 22:53:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=2&id=912779589xwhnj&id2=912779589xwhnj&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_2_id_912779589xwhnj_id2_912779589xwhnj_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-PANIC ATTACK�͂Ђ���[�ɂ����o���ł����B<BR>�������̒��ō��N��TS��ܗL�͌��ł��B<BR>����ɂ��Ă����̕��A�u�s�v�c�̍��̏��N�A���X�v<BR>�݂������Ǝv���̂͂������������낤���B<BR><BR>�������ŋ߂͖L�쑱���ł��ȁB
+PANIC ATTACKはひじょーにいい出来でした。<BR>あっしの中で今年のTS大賞有力候補です。<BR>それにしてもあの服、「不思議の国の少年アリス」<BR>みたいだと思うのはあっしだけだろうか。<BR><BR>しかし最近は豊作続きですな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1998/12/09 21:16:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1998/12/09 21:16:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=2&id=913205782vkuobr&id2=912779589xwhnj&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_2_id_913205782vkuobr_id2_912779589xwhnj_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɁA��R�b�ɓ˓��B<BR>�����͂�A�����A�ڌ����Ԃ��H<BR><BR>���݂̏󋵂ɗ�������A�߂�邱�ƂȂ猳�ɖ߂肽���B<BR>�Ƒz���Ă��錻�݂��A����Ӗ��A�����Ƃ����̂̂��Ă鎞�����B<BR><BR>���i�̌����́A�����܂ł��j�Ȃ̂ɁA<BR>�ˑR�����A���݂̂����Ȕ����B<BR>�i�������A������������ӎ���������Ă�B�j<BR><BR>���ꂼ�A�܂��ɁA�G���x<BR>�u�o�b�N�h���t�g�I�I�v<BR><BR>�����A�Q�����y���݂��B<BR><BR>�ł��A����́A���̊i�D�́A<BR>�_�������āA�ǂ����O���Ă��ȁB<BR>�i���������āA�������悾�ƁA���ꂪ����H�j<BR>
+ついに、第３話に突入。<BR>もｊはや、増刊連載決定状態か？<BR><BR>現在の状況に流されつつも、戻れることなら元に戻りたい。<BR>と想っている現在が、ある意味、もっとも脂ののってる時期か。<BR><BR>普段の言動は、あくまでも男なのに、<BR>突然現れる、女のみたいな反応。<BR>（しかも、自分がそれを意識しちゃってる。）<BR><BR>これぞ、まさに、萌え度<BR>「バックドラフト！！」<BR><BR>さあ、２月が楽しみだ。<BR><BR>でも、今回の、あの格好は、<BR>狙いすぎて、どっか外してるよな。<BR>（もしかして、少女漫画だと、あれが定説？）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F�ꐬ</strong>  <i>1998/12/10 01:14:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲一成</strong>  <i>1998/12/10 01:14:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=2&id=913220080kxwtp&id2=912779589xwhnj&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_2_id_913220080kxwtp_id2_912779589xwhnj_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���I��R�b�ӏ܂̎�����i�P�j<BR><BR>�E���ǊO���Y�ꂽ�܂܂̃��{��
+私的第３話鑑賞の手引き（１）<BR><BR>・結局外し忘れたままのリボン
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>1998/12/10 22:36:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>1998/12/10 22:36:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=2&id=913297015svcfp&id2=912779589xwhnj&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_2_id_913297015svcfp_id2_912779589xwhnj_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���I��R�b�ӏ܂̎�����i�Q�j<BR><BR>�܂���������(1)�Ɉ�[�B��ŁA(2)�B<BR>���܂Ɍ�����q�����ۂ��\��B
+私的第３話鑑賞の手引き（２）<BR><BR>まずあっしも(1)に一票。んで、(2)。<BR>たまに見せる子供っぽい表情。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="2">
 <input type="hidden" name="id" value="912779589xwhnj">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=2&ff=on">�����R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_2_ff_on.cgi">少女コミック</a>]<br>
 
 </p>
 </body>

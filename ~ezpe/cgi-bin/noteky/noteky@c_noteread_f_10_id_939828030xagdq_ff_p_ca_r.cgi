@@ -1,21 +1,21 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=10&id=939828030xagdq&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_10_id_939828030xagdq_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�ނƔޏ��Ɛ����Ǝ�</font><br>
+<font size="+2" color="#0000FF">彼と彼女と聖剣と私</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>webmaster</strong>  <i>1999/10/14 00:20:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939828030xagdq&id2=939828030xagdq&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939828030xagdq_id2_939828030xagdq_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING !
@@ -23,63 +23,63 @@ NOW PRINTING !
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/anxiety/holy_sword.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/10/14 22:51:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/anxiety/holy_sword.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/10/14 22:51:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939909064wsxupvb&id2=939828030xagdq&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939909064wsxupvb_id2_939828030xagdq_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���e�p�ɏ����ꂽ���������āA�͂̓������t�@���^�W�[�ł��ˁB���C�g�t�@���^�W�[�D���Ȃ�A���ʕω��l�^��ʂƂ��Ă��y���߂�Ǝv���܂���B
+【推薦文】 投稿用に書かれただけあって、力の入ったファンタジーですね。ライトファンタジー好きなら、性別変化ネタを別としても楽しめると思いますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>1999/10/15 07:28:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939940109tefrey&id2=939828030xagdq&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939940109tefrey_id2_939828030xagdq_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���A�G���E�E�E�v<BR>�ǂ�ōs�������ɁA���킶��Ƃ���ȋC���ɂ������Ă��܂��ˁB<BR>�u�x�X�g�t�����h�v�n�̖��삾�Ǝv���܂��B
+「も、萌え・・・」<BR>読んで行くうちに、じわじわとそんな気分にさせられてきますね。<BR>「ベストフレンド」系の名作だと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Milkyway-Vega/1819/" target="_blank">�`�y�x</a></strong>  <i>1999/10/16 06:52:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Milkyway-Vega/1819/" target="_blank">ＡＺＹ</a></strong>  <i>1999/10/16 06:52:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940024321iycysm&id2=939828030xagdq&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940024321iycysm_id2_939828030xagdq_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̂悤�ȍD�ӓI�ȃR�����g�������������<BR>�ƂĂ��������ł��B�㏑���ɂ������܂�����<BR>���N�������ɂ̂��߂ɏ��������̂ł͂Ȃ��̂ŁA<BR>���ۂ̂Ƃ���A�ǂ����ȁA�Ǝv���Ă����̂ł��B<BR>�N�b����Ȃ������C���ł��B<BR>�x�X�g�t�����h�͂킽�����D���ȍ�i�ł��B<BR>����Ɠ���J�e�S���[�ɓ���Ă��炦�邾���ł�<BR>��΂������Ƃł��B<BR>���͂�����C���Ő\���󂠂�܂���B<BR>�ǂ�ł��������Ă��肪�Ƃ��������܂����B
+そのような好意的なコメントをいただけると<BR>とても嬉しいです。後書きにも書きましたが<BR>少年少女文庫のために書いたものではないので、<BR>実際のところ、どうかな、と思っていたのです。<BR>年甲斐もなく興奮気味です。<BR>ベストフレンドはわたしも好きな作品です。<BR>あれと同一カテゴリーに入れてもらえるだけでも<BR>喜ばしいことです。<BR>文章が乱れ気味で申し訳ありません。<BR>読んでいただいてありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=azy" target="_blank">�^�c�ψ�</a></strong>  <i>2002/06/10 23:24:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ts/kansou/bbs@log_azy.cgi" target="_blank">運営委員</a></strong>  <i>2002/06/10 23:24:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=1023719082mwyaa&id2=939828030xagdq&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_1023719082mwyaa_id2_939828030xagdq_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�f����URL���ς��܂��B<BR>�V�������z�f���͂�����ł��B<BR><BR><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=azy" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=azy</a>
+感想掲示板のURLが変わります。<BR>新しい感想掲示板はこちらです。<BR><BR><a href="../../../~ts/kansou/bbs@log_azy.cgi" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=azy</a>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="939828030xagdq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

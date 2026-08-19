@@ -1,68 +1,68 @@
 <html><head>
-<meta http-equiv=Content-Type content=text/html; charset=x-sjis>
+<meta http-equiv=Content-Type content=text/html; charset=UTF-8>
 <title>LEVEL2 BBS</title></head>
 <body bgcolor=#FFDEAD text=#101010 link=#6090F0 vlink=#DC143C background=>
-<!--�@�����Ƀy�[�W�̐擪�ɕ������^�C�g�������R�ɋL���@-->
+<!--　ここにページの先頭に侮ｦするタイトルを自由に記入　-->
 
 	<div align=center><center>
-	<table border=0><tr><td><font color="#504020" size=+3>��Q�f����</font></td></tr></table>
+	<table border=0><tr><td><font color="#504020" size=+3>第２掲示板</font></td></tr></table>
 	</center></div>
 
-<!--�@�����܂Ł@�@���̉��Ƀ��b�Z�[�W���@�@��������@�@-->
-<form name=inputform action=resbbs4.cgi method=POST>
+<!--　ここまで　　この下にメッセージが　　侮ｦされる　　-->
+<form name=inputform action="resbbs4.cgi" method=POST>
 <a name=1>
 <input type=hidden name=action value=regist>
 <table border=0><tr>
-<tr><td rowspan=4><a href=http://www14.big.or.jp/~yays/library/entrance.html target=_top>[HomePage]</a><br> <br>
+<tr><td rowspan=4><a href="../../../entrance.html" target=_top>[HomePage]</a><br> <br>
 <a href="http://www.tcup1.com/111/yays.html">[BBS #1]</a><br>
 </td>
-<td align=right>�����O:</td><td><input type=text size=20 name=name value=>
+<td align=right>お名前:</td><td><input type=text size=20 name=name value=>
  Pass: <input type=password size=12 name=pass value=></td></tr>
 <tr><td align=right>E-mail:</td><td><input type=text size=48 name=email value=></td></tr>
-<tr><td align=right>�薼:</td><td>
-<input type=text size=48 name=subject value=RE:���_�A������ǂ݂����m�_>
+<tr><td align=right>題名:</td><td>
+<input type=text size=48 name=subject value=RE:無論、続きを読みたいノダ>
 </td></tr>
 <tr><td align=right>HP:</td><td><input type=text size=48 name=HP value=></td>
 </tr></table>
 <textarea name=comment rows=4 cols=70></textarea><br> <br>
-���܋C�ɂȂ�
+いま気になる
 <SELECT NAME="genre" size=1>
-<option value="OL_art">�I�����C����i�@
-<option value="OL_author">�I�����C�����
-<option value="character">�L�����N�^�[
-<option value="product">���ƍ�i
-<option value="something">����
-</SELECT> �� 
+<option value="OL_art">オンライン作品　
+<option value="OL_author">オンライン作家
+<option value="character">キャラクター
+<option value="product">商業作品
+<option value="something">何か
+</SELECT> は 
 <input type="text" name="interest" size=40><br> <br>
 <input type=hidden name=mother value=572>
 <input type=hidden name=ress value=573>
-<input type=submit value=���_�A������ǂ݂����m�_�֕ԐM>
-<input type=reset value=��������>
+<input type=submit value=無論、続きを読みたいノダへ返信>
+<input type=reset value=書き直し>
 </form>
 <SCRIPT Language=JavaScript>
 <!--
 document.inputform.comment.focus();
 // -->
 </SCRIPT>
-<form action=resbbs4.cgi method=POST>
+<form action="resbbs4.cgi" method=POST>
 <input type=hidden name=action value=delete>
 <table border=1 width=100%><tr><td bgcolor=#E0C090>
 <dl>
 <input type=checkbox name=delcode value=573>
-<font color=#6A5ACD>���_�A������ǂ݂����m�_</font></a>
+<font color=#6A5ACD>無論、続きを読みたいノダ</font></a>
 <font color=#303030>
-�łn�ǂ�
- ����</font>
- <font size=2>2002�N4��1��(��) 15��22��</font>
-<a href="resbbs4.cgi?vew=573">[�ԐM]</a><br>
-�@<font size=-1 color=#A08050>�y���܋C�ɂȂ鏤�ƍ�i�́A<b>�c�b�ŁE�A�W�I&�c�w�c�ƌ��������āA���́c�c�c�܁A�܂ق�n�c</b>�z</font>
+でＯどろ
+ さん</font>
+ <font size=2>2002年4月1日(月) 15時22分</font>
+<a href="resbbs4@vew_573.cgi">[返信]</a><br>
+　<font size=-1 color=#A08050>【いま気になる商業作品は、<b>ＤＣ版・連ジオ&ＤＸ…と見せかけて、実は………ま、まほろＯ…</b>】</font>
 </td></tr><tr><td>
-<ul><br><font size=3>�Z�̕G�̏�āc�c�����p�����������Ă������A�͂��߂��狑�ۂ��Ȃ����B�i�΁j<br>�o�ꂵ�����`�̂��ˁ[����A�����ɐ��̂Ƃ����C�ɂȂ�܂����c�c�[�ǂ݂��������Ȃ��B</font></ul>
+<ul><br><font size=3>兄の膝の上て……そりゃ恥ずかしいっていうか、はじめから拒否しなさい。（笑）<br>登場した正義のおねーさん、微妙に正体とかが気になりますが……深読みしすぎかなぁ。</font></ul>
 <HR>
 </dl>
 </td></tr></table><br>
 <input type=password name=pass size=12 value=>
-<input type=submit name=button value=�L���폜>
+<input type=submit name=button value=記事削除>
 </form>
 </center></div>
 <p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>ResBBS4 Terra</a> (Modified by Yays)</font></p>

@@ -1,56 +1,56 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�G�k�{�[�h/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>雑談ボード/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=9&id=960551949hwggrjd&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_9_id_960551949hwggrjd_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�s�r���Ⴀ�Ȃ������ǁA�ܑ̂Ȃ��̂ŁB</font><br>
+<font size="+2" color="#0000FF">ＴＳじゃあないだけど、勿体ないので。</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2000/06/09 20:59:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2000/06/09 20:59:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=960551949hwggrjd&id2=960551949hwggrjd&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_960551949hwggrjd_id2_960551949hwggrjd_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���b�N���X�g�ɕ��荞�ނɂ́A������Ɛɂ�����i�������̂�<BR>������ɁA���z�����˂āA�������܂��Ă��������܂��B<BR><BR>�u���������v<BR>���������@���^�@�v�n�q�k�c�R�~�b�N�X�@�v�ۏ��X�@�����Ђ���<BR><BR>�Ȃ��Ȃ��v�킹�Ԃ�ȃ^�C�g���ł����A<BR>�j���Ǝv���Ă��Ă������Ă����\���Z���Ԃ��A<BR>���͏��̃R�������Ƃ����b�ł����B<BR>���ꂾ���Ȃ�A�u���b�N���X�g�Ȃ̂ł����A<BR>���̃R���ƒm�邠����܂ł̌��ƁA<BR>���̂��Ƃn�n�n�ɋy�Ԃ܂ł����ċy��ł���Œ��̕`�ʂ�<BR>�Ȃ��Ȃ��A�s�r�̖G���Əd�Ȃ镔�����݂�܂��B<BR><BR>���̒P��i�Ɍ��炸�A���P�s�{�̎��^��i�S�ʂɂ����邱�Ƃł���<BR>����Ƃ�����������ɁA�s�ӂɌ��ꂽ�s�v�c�����ɂ���Ĉ����N�������<BR>�����₩�Ȕ�������̂Ƃ��ăX�g�[���[�́A<BR>�s�r�ƍ��{�I�ȕ����Ōq�����Ă���ł��傤�B<BR><BR>���݁A�R�~�b�N�K���ŘA�ڒ���<BR>�u�{�N�炪�����ɂ���s�v�c�v�ł������邱�Ƃł����A<BR>���������A�t���[�N�X�n�D��������Ƃ炵���A<BR>�G���ƃX�g�[���[���\�t�g�ɂȂ�������Ђ낵�Ƃ�������������܂��B<BR>
+ブラックリストに放り込むには、ちょっと惜しい作品だったので<BR>こちらに、感想も兼ねて、書き込ませていただきます。<BR><BR>「半分少女」<BR>半分少女　収録　ＷＯＲＬＤコミックス　久保書店　流星ひかる<BR><BR>なかなか思わせぶりなタイトルですが、<BR>男だと思っていてつき合っていた予備校仲間が、<BR>じつは女のコだったという話でした。<BR>これだけなら、ブラックリストなのですが、<BR>女のコだと知るあたりまでの件と、<BR>そのあとＯＯＯに及ぶまでそして及んでいる最中の描写に<BR>なかなか、ＴＳの萌えと重なる部分が在ります。<BR><BR>この単作品に限らず、同単行本の収録作品全般にいえることですが<BR>日常という延長線上に、不意に現れた不思議少女によって引き起こされる<BR>ささやかな非日常を主体としてストーリーは、<BR>ＴＳと根本的な部分で繋がっているでしょう。<BR><BR>現在、コミックガムで連載中の<BR>「ボクらがここにいる不思議」でもいえることですが、<BR>けっこう、フリークス嗜好が強い作家らしく、<BR>絵柄とストーリーがソフトになったあろひろしという感じもあります。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.ksky.ne.jp/~gori/" target="_blank">Gori</a></strong>  <i>2000/06/09 23:40:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=960561650wkyuym&id2=960551949hwggrjd&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_960561650wkyuym_id2_960551949hwggrjd_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���`�̖������y����Ȃ��^�����Ђ���v WORLD COMICS SPECIAL�@ �v�ۏ��X<BR>�قړ������ɁA���S�ɃM���O�}���K�ł���P�s�{���o���Ă܂��B<BR><BR>�E�E�E���͂�����ɂ��������N���o�Ă��܂��B����Ɋ��҂��܂��傤�B<BR>
+「正義の味方も楽じゃない／流星ひかる」 WORLD COMICS SPECIAL　 久保書店<BR>ほぼ同時期に、完全にギャグマンガである単行本も出してます。<BR><BR>・・・実はこちらにも女装少年が出てきます。今後に期待しましょう。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="9">
 <input type="hidden" name="id" value="960551949hwggrjd">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,151 +1,151 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=976291674cxumy&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_976291674cxumy_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����щ��E�o�_��Ђ̎�����V���[�Y</font><br>
+<font size="+2" color="#0000FF">縁結び屋・出雲大社の事件簿シリーズ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2000/12/09 01:07:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2000/12/09 01:07:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976291674cxumy&id2=976291674cxumy&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976291674cxumy_id2_976291674cxumy_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yNow Printing�z
+【Now Printing】
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200012/09021621/izumo_3.html" target="_blank">�y���R�z��i������ɂ͂������N���b�N</a></strong>  <i>2000/12/09 02:42:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200012/09021621/izumo_3.html" target="_blank">【＃３】作品を見るにはここをクリック</a></strong>  <i>2000/12/09 02:42:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976297335eueyn&id2=976291674cxumy&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976297335eueyn_id2_976291674cxumy_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ����\�͂����T��u�����щ��v�o�_��Ђ̂��܂�ɂ��ӊO�ȉߋ��B�Ռ��I�ŁA�w�؂������āc�c�A�z���[�Ȃ̂ɁA����Ƃ���̂ł��B<BR>
+【推薦文】 特殊能力を持つ探偵「縁結び屋」出雲大社のあまりにも意外な過去。衝撃的で、背筋が凍って……、ホラーなのに、じんとくるのです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2000/12/09 21:47:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2000/12/09 21:47:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976366054bpdmn&id2=976291674cxumy&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976366054bpdmn_id2_976291674cxumy_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����́A�܂��܂��I�W�T���̊G��<BR>���b�����Ă����������肪�Ƃ��������܂��B<BR>�M�������[�ōD�]�̏o�_��Ђ̑��҂ł��ˁI<BR>���I�i����o�ꂵ�Ă����������Ă܂��ˁI<BR>�������A�ނ������Ȑl�H�Ɖ�������݂����ł��ˁI<BR>�ނ̂��߂ɐ�y���������܂ł��Ƃ́E�E�E�E�E�E<BR>�������A���̌�̐�y�Ƃ̒��͂ǂ��Ȃ�����ł��傤�H<BR><BR>����̃z���[�Ȃ��b�̓I�W�T���̊G���������ĂĂ܂����ˁI<BR>�|���Ėʔ��������ł��B<BR>���ꂩ����A�o�_��Ђ̊�������҂��Ă܂��B
+今回は、またまたオジサンの絵に<BR>お話をつけていただきありがとうございます。<BR>ギャラリーで好評の出雲大社の続編ですね！<BR>レオナ嬢も登場していい味だしてますね！<BR>しかし、彼もいろんな人？と縁があるみたいですね！<BR>彼のために先輩があそこまでやるとは・・・・・・<BR>しかし、その後の先輩との中はどうなったんでしょう？<BR><BR>今回のホラーなお話はオジサンの絵を引き立ててましたね！<BR>怖くて面白かったです。<BR>これからも、出雲大社の活躍を期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">�S�[���h�A�[��</a></strong>  <i>2000/12/09 22:57:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">ゴールドアーム</a></strong>  <i>2000/12/09 22:57:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976370230iaokjb&id2=976291674cxumy&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976370230iaokjb_id2_976291674cxumy_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��y�Ƃ̒��ł����H<BR>����͑z������ł��B<BR>�������񑩒ʂ�Ȃ�c�c�ނ̔\�͓������炵�āA�؂�Ă���͂��͂Ȃ���ł����B<BR>�����A�����͂��܂���B<BR>�����܂ŏ������������ʔ�������܂��񂩂�B<BR>
+先輩との仲ですか？<BR>それは想像次第です。<BR>もしお約束通りなら……彼の能力特性からして、切れているはずはないんですが。<BR>ただ、明言はしません。<BR>そこまで書いちゃったら面白くありませんから。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">�S�[���h�A�[��</a></strong>  <i>2000/12/09 23:02:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">ゴールドアーム</a></strong>  <i>2000/12/09 23:02:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976370550nikfas&id2=976291674cxumy&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976370550nikfas_id2_976291674cxumy_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ƃ�����Ƃ������s��\�I�B<BR><BR>���̃V���[�Y�́A�ŏI�I�ɂ͌��݂́u�����щ��E�o�_��Ђ̎�����v�������ȃV���[�Y�^�C�g���ƂȂ�܂��B<BR>�P��Q�ł́u������v���u�t�@�C���v�ɂȂ��Ă��܂����A����ς�t�@�C���ł͂�����ƕ��͋C���Ⴄ�̂ŁB<BR>���ƁA�y�[�W�^�C�g�����u�o�_��Ђ̖`�����R�v�ɂȂ��Ă���̂́A���̏������݃~�X�ł��B�z���g�́u�o�_��Ђ̎�����v�ɂ��Ȃ���Ⴂ���Ȃ�������ł��ȁA���ꂪ�c�c<BR>�@�Ȃ�ɂ���A�ψ���̕��ɍ߂͂���܂���B
+あとちょっとした失敗を暴露。<BR><BR>このシリーズは、最終的には現在の「縁結び屋・出雲大社の事件簿」が正式なシリーズタイトルとなります。<BR>１や２では「事件簿」が「ファイル」になっていますが、やっぱりファイルではちょっと雰囲気が違うので。<BR>あと、ページタイトルが「出雲大社の冒険＃３」になっているのは、私の書き込みミスです。ホントは「出雲大社の事件簿」にしなけりゃいけなかったんですな、これが……<BR>　なんにせよ、委員会の方に罪はありません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2000/12/10 13:15:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2000/12/10 13:15:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976421720usenqe&id2=976291674cxumy&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976421720usenqe_id2_976291674cxumy_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�S�[���h�A�[������F�������Ƃ��܂����[�B<BR>�@�������ǁA�m�F���Ă݂Ă��������ˁB
+ゴールドアームさん：訂正しときましたー。<BR>　もいちど、確認してみてくださいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/12/10 22:11:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/12/10 22:11:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976453866whlvmi&id2=976291674cxumy&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976453866whlvmi_id2_976291674cxumy_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���`��A�������S�[���h�A�[������B<BR>�@������̎g���������܂����A����グ�����I�݂����A�{���ɂ������B<BR>�@�c�c�����āA�����܂����B<BR>�@��w����̏o�_���̊���Ȃ񂩂����Ă݂����ł��ˁB
+　う～ん、さすがゴールドアームさん。<BR>　小道具の使い方もうまいし、盛り上げ方も巧みだし、本当にすごい。<BR>　……そして、うらやましい。<BR>　大学時代の出雲氏の活躍なんかも見てみたいですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">�S�[���h�A�[��</a></strong>  <i>2000/12/11 00:49:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">ゴールドアーム</a></strong>  <i>2000/12/11 00:49:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976463399sjvtdn&id2=976291674cxumy&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976463399sjvtdn_id2_976291674cxumy_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A��������Ă���B<BR>���̊ԈႢ�������̂ɁA�킴�킴�L���������܂����B
+あ、訂正されている。<BR>私の間違いだったのに、わざわざ有り難うございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2000/12/11 02:31:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2000/12/11 02:31:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976469460vttgu&id2=976291674cxumy&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976469460vttgu_id2_976291674cxumy_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����p����<BR>�@�@�C���X�g�E�E�|�������E�E�B�ł���肢�ł��B�l������ʂ��܂�<BR>�@�@������΂Ȃ��`�E�E�E�E�B<BR>�����S�[���h�A�[������<BR>�@�@��i�q�����܂����B�I�݂ł��ˁI�ǁ[������炱�̂悤�ȏ_���<BR>�@�@���z���o�Ă���̂��E�E�H��肢�Ƃ��������l���Ȃ��ł����B<BR>�@�@�ǂ̂�[�ɂ����炱�̂�[�ȃA�C�f�A�����܂�Ă���̂��E�E�H<BR>�@�@����т��Ƌ����Ă��������I�i�O�O�G
+＞＞角さん<BR>　　イラスト・・怖いっす・・。でも上手いです。僕もこれ位うまく<BR>　　書ければなぁ～・・・・。<BR>＞＞ゴールドアームさん<BR>　　作品拝見しました。巧みですね！どーやったらこのような柔軟な<BR>　　発想が出てくるのか・・？上手いとしか言い様がないですう。<BR>　　どのよーにしたらこのよーなアイデアが生まれてくるのか・・？<BR>　　ちょびっと教えてください！（＾＾；
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:cinders@beige.ocn.ne.jp" target="_blank">�b��������</a></strong>  <i>2000/12/11 09:03:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:cinders@beige.ocn.ne.jp" target="_blank">Ｃｉｎｄｙ</a></strong>  <i>2000/12/11 09:03:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=976493012gmepqoq&id2=976291674cxumy&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_976493012gmepqoq_id2_976291674cxumy_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����[���A�ʔ��������ł��`�B<BR>����ς�S�[���h�A�[������̕��͂͗ǂ��Ǝv���̂ł���<BR>���b�̕��ł́A�ǂ�ǂ��Ђ̃R�l�N�V�������L�����Ă��āA���̂����I�[���L���X�g�Ȃ�Ă̂����Ă݂����ł��B<BR>�ł��A����̃e�B�^�[�j�A����Ƃ��A��̂܂܂̕����ǂ��̂����m��Ȃ��ł��ˁB<BR>�������҂��Ă܁[����
+うわーい、面白かったです～。<BR>やっぱりゴールドアームさんの文章は良いと思うのです♪<BR>お話の方では、どんどん大社のコネクションが広がっていて、そのうちオールキャストなんてのも見てみたいです。<BR>でも、今回のティターニアさんとか、謎のままの方が良いのかも知れないですね。<BR>続きも待ってまーす♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/02/20 07:04:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花</strong>  <i>2001/02/20 07:04:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=982620246sjlptco&id2=976291674cxumy&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_982620246sjlptco_id2_976291674cxumy_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�t�@�C�����R�z<BR>����Ɠǂ݂܂����B<BR>���[��A�����̂����Ă����͂���ς�X�}�[�g�őf�G�B<BR>�c�c�ŁB<BR>���������A�e�B���[���A�ɁA�Ȃ肽���ȁc�c�B
+【ファイル＃３】<BR>やっと読みました。<BR>うーん、結末のもってき方はやっぱりスマートで素敵。<BR>……で。<BR>あたしも、ティ○ー○アに、なりたいな……。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="976291674cxumy">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

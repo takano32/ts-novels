@@ -1,515 +1,515 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=971982896ejvpbvo&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_971982896ejvpbvo_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�d���I���퐶��</font><br>
+<font size="+2" color="#0000FF">妖精的日常生活</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200010/20041039/elfin_life.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/10/20 04:14:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200010/20041039/elfin_life.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/10/20 04:14:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971982896ejvpbvo&id2=971982896ejvpbvo&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971982896ejvpbvo_id2_971982896ejvpbvo_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��̂Ђ�T�C�Y�̊���N���͂����ƌ����ԂɉƑ��̃}�X�R�b�g��ԁB�m���̂�����l�̂��߂���߂���y�����W���[�W���b�h����̏����e��ł���<BR>
+手のひらサイズの幹也クンはあっと言う間に家族のマスコット状態。ノリのいい一人称がめちゃめちゃ楽しいジャージレッドさんの初投稿作です♪<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2000/10/20 09:00:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ああああ</strong>  <i>2000/10/20 09:00:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972000058pdifkr&id2=971982896ejvpbvo&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972000058pdifkr_id2_971982896ejvpbvo_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��P�b�@�����H�z<BR>�����Ƒ������ǂ݂���
+【第１話　召喚？】<BR>もっと続きが読みたい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/20 11:23:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/20 11:23:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972008587uhiqcg&id2=971982896ejvpbvo&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972008587uhiqcg_id2_971982896ejvpbvo_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�ǂ�ł��������A���肪�Ƃ��������܂����B<BR>�����͌��ݎ��M���ł��B��낵�����肢�������܂��B
+早速、読んでいただき、ありがとうございました。<BR>続きは現在執筆中です。よろしくお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/10/20 21:32:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/10/20 21:32:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972045159yybpb&id2=971982896ejvpbvo&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972045159yybpb_id2_971982896ejvpbvo_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�b�̗����ŋC�₵�Ă܂����ǁA<BR>�c�Ƃ������Ƃ�<BR><BR>�u���̉�ʂ����邱�Ƃ��o���Ȃ��c�v<BR>�Ƃ������Ƃł���ˁB<BR>�ʂ����Ċ��炭��́A���̓d�]�Љ�Ŗ��������Ă�����̂��H<BR><BR>���̒��ŗd���ƒʐM���o����Ɨǂ��̂ł����c�B<BR>�i���R�F���̕����b���ʔ����Ȃ邩��j
+１話の落ちで気絶してますけど、<BR>…ということは<BR><BR>「この画面を見ることが出来ない…」<BR>ということですよね。<BR>果たして幹也くんは、この電脳社会で無事生きていけるのか？<BR><BR>夢の中で妖精と通信が出きると良いのですが…。<BR>（理由：その方が話が面白くなるから）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/20 22:26:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/20 22:26:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972048392tkhfkp&id2=971982896ejvpbvo&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972048392tkhfkp_id2_971982896ejvpbvo_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ȃ�ł��B�R���s���[�^�[�ɂ͂����Ȃ��̎��Ȃ�ł��B<BR>�ł��������񂪂�������A�b���������낭�o����̂ł͂Ȃ����Ȃ�<BR>�Ǝv���܂��B<BR>���ƁA���݂̂Ƃ���͗d���Ɩ��Ō�M�͏o���܂��񂪁A����������<BR>����N�̖��@�\�́H�@�̏�B����ł��ˁB<BR>�������A�����̊Ԃ͌�M�s�\�̗\��ł��B<BR>�������������Q�b�������Ȃ��Ă͂ƁA�ł��Ă��܂��B<BR>�����A���肪�Ƃ��������܂����B<BR>
+そうなんです。コンピューターにはさわれない体質なんです。<BR>でも何か制約がある方が、話をおもしろく出来るのではないかなあ<BR>と思います。<BR>あと、現在のところは妖精と夢で交信は出来ませんが、それもこれも<BR>幹也君の魔法能力？　の上達次第ですね。<BR>しかし、当分の間は交信不可能の予定です。<BR>それよりも早く第２話を書かなくてはと、焦っています。<BR>応援、ありがとうございました。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/10/21 00:49:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/10/21 00:49:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972056980xvbmuo&id2=971982896ejvpbvo&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972056980xvbmuo_id2_971982896ejvpbvo_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ł��ˁ[�d������񉻁B<BR>�V�N�ȖG��������܂��B���A���Ȃ�D���ł��悱�̂��b�B(^^)
+いいですねー妖精ちゃん化。<BR>新鮮な萌えがあります。私、かなり好きですよこのお話。(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�W���[�W���b�h</strong>  <i>2000/10/21 00:59:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ジャージレッド</strong>  <i>2000/10/21 00:59:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972057546njheu&id2=971982896ejvpbvo&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972057546njheu_id2_971982896ejvpbvo_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ƃ��������܂��B<BR>�ł��A�P�Ɏ����ǂ݂������̂������������Ȃ�ł����ǁB<BR>����ς肱�������̂��D���Ȑl���Ă��܂���ˁH
+ありがとうございます。<BR>でも、単に私が読みたいものを書いただけなんですけど。<BR>やっぱりこういうのが好きな人っていますよね？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����܂킵</strong>  <i>2000/10/21 23:40:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>さらまわし</strong>  <i>2000/10/21 23:40:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972139257jgtgb&id2=971982896ejvpbvo&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972139257jgtgb_id2_971982896ejvpbvo_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ϖʔ��������ł��B<BR>�d������񉻂Ƃ����̂͂��Ȃ莄�̃c�{�ɂ͂����Ă܂��B<BR>�Â������̂��݂ɂ��Ă��܂��B
+大変面白かったです。<BR>妖精ちゃん化というのはかなり私のツボにはいってます。<BR>つづきをたのしみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�{���g�i�b�g</strong>  <i>2000/10/22 02:01:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ボルトナット</strong>  <i>2000/10/22 02:01:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972147694dyiiqr&id2=971982896ejvpbvo&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972147694dyiiqr_id2_971982896ejvpbvo_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��P�b�@�����H�z<BR>�ŏ�����Ō�܂Ŗʔ��������ł�<BR>���b���y���݂ɂ��Ă��܂��B<BR>�撣���Ă��������B<BR>����ł́A�܂�
+【第１話　召喚？】<BR>最初から最後まで面白かったです<BR>次話を楽しみにしています。<BR>頑張ってください。<BR>それでは、また
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/22 07:58:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/22 07:58:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972169126fppcd&id2=971982896ejvpbvo&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972169126fppcd_id2_971982896ejvpbvo_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����܂킵�l�A�{���g�i�b�g�l�B<BR>�����z���肪�Ƃ��������܂��B���̖G���ȃ|�C���g���A���Ȃ��Ƃ�<BR>�����̕��Ր������邱�Ƃ��m�F�o���āA�S�����v���܂��B<BR>���ꂩ����d������񉻖G���ɂ΂��i�������Ǝv���܂��B�@
+さらまわし様、ボルトナット様。<BR>ご感想ありがとうございます。私の萌えなポイントが、少なくとも<BR>多少の普遍性があることを確認出来て、心強く思います。<BR>これからも妖精ちゃん化萌えにばく進したいと思います。　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���F�[�^</strong>  <i>2000/10/23 17:56:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヴェータ</strong>  <i>2000/10/23 17:56:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972291374ytkkoyn&id2=971982896ejvpbvo&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972291374ytkkoyn_id2_971982896ejvpbvo_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������ʔ��������ł��B<BR>�Ō�܂ŁA�w�G���G���I�x�ł����B<BR>�Â������҂��Ă��܂��B�o���o���撣���āI
+すごく面白かったです。<BR>最後まで、『萌え萌え！』でした。<BR>つづきを期待しています。バリバリ頑張って！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/23 22:00:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/23 22:00:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972306058vtedxh&id2=971982896ejvpbvo&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972306058vtedxh_id2_971982896ejvpbvo_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���F�[�^�l�A���肪�Ƃ��������܂��B<BR>���ݑ�Q�b�͕��ʓI�ɂR���̂P���x�o���Ă��܂����A�܂��G���V�[���͂���܂���B�������㔼�ɂ́A�d������񉻂Ȃ�ł͂̃V�[����}������\��ł��B�����҉������B���M�L��ł��B�i���v���H�H�H�H�j<BR>�����Ƃ����Ȃ̂́A��Q�b�́A�ǂ��l���Ă��b���̎��Ԍo�߂��Q���Ԃ���R���Ԃɂ����Ȃ�Ȃ����ƁB�ŏI�b�܂ł�ꡂ��ɉ����ł��B
+ヴェータ様、ありがとうございます。<BR>現在第２話は分量的に３分の１程度出来ていますが、まだ萌えシーンはありません。しかし後半には、妖精ちゃん化ならではのシーンを挿入する予定です。ご期待下さい。自信有りです。（大丈夫か？？？？）<BR>もっとも問題なのは、第２話は、どう考えても話中の時間経過が２時間から３時間にしかならないこと。最終話までは遙かに遠いです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�m��������</strong>  <i>2000/10/26 18:40:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｎａｉｋｏ</strong>  <i>2000/10/26 18:40:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972553244fttbu&id2=971982896ejvpbvo&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972553244fttbu_id2_971982896ejvpbvo_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����ǂ܂��Ă��������܂����B<BR>�Ƃ���ŁA��l���͂��̌�d���E�̕��ւ��s�����������͂��Ȃ��̂ł��傤���H���\�������낻�����Ǝv���̂ł����B<BR>����Ȃ��Ƃ������Ă��߂�Ȃ����B������y���݂ɂ��Ă��܂��B
+楽しく読ませていただきました。<BR>ところで、主人公はこの後妖精界の方へも行っちゃったりはしないのでしょうか？結構おもしろそうだと思うのですが。<BR>勝手なことを言ってごめんなさい。次回も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/26 21:36:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/26 21:36:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972563799kugso&id2=971982896ejvpbvo&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972563799kugso_id2_971982896ejvpbvo_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�������� �l��<BR>���ӌ����肪�Ƃ��������܂��B�F�X�Ƒz�����Ă��������Č��h�ł��B<BR>�Ƃ���ŁA���͊��ɂ��̏������E�̓��{���d���E���̂��̂Ȃ�ł���B�Ȃ����āA�Q���T�O�O�O�����̌��l�Ԃ̗d���B����炵�Ă����ł�����ˁB���̘b�́A������̐��E�̗d���E�̓����O�O�ɕ`���Ă݂悤�Ƃ����̂����Ȃ�ł��B<BR>�ł��A���̃V���[�Y�ɂ����������A���ݒ�ł���{���̗d���E�A���͂��̐��E�̃p���������[���h�̘b�������Ȃ��Ă͂����Ȃ��ȂƎv���Ă��܂��B<BR>���Ԃ�A�����Ԃ��̂��ƂɂȂ�Ǝv���܂����E�E�E�B<BR>���Ȃ݂ɑ�Q�b�͖{���A���ɉ^�c�ψ���̂ق��ɑ��M���܂����̂ŁA���e�ɖ�肪�Ȃ�����́A�ߓ����Ɍ��J�����Ǝv���܂��B�܂�����Ƃ��ǂ�ł��������ˁB<BR><BR>
+Ｎａｉｋｏ 様へ<BR>ご意見ありがとうございます。色々と想像していただけて光栄です。<BR>ところで、実は既にこの小説世界の日本が妖精界そのものなんですよ。なぜって、２万５０００名もの元人間の妖精達が暮らしているんですからね。この話は、こちらの世界の妖精界の日常を丹念に描いてみようというのが主題なんです。<BR>でも、このシリーズにけりをつけたら、裏設定である本来の妖精界、実はこの世界のパラレルワールドの話を書かなくてはいけないなと思っています。<BR>たぶん、ずいぶん先のことになると思いますが・・・。<BR>ちなみに第２話は本日、文庫運営委員会のほうに送信しましたので、内容に問題がない限りは、近日中に公開されると思います。また是非とも読んでくださいね。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200010/20041039/elfin_life_2.html" target="_blank">�y��i������ɂ͂������N���b�N�z</a></strong>  <i>2000/10/27 20:26:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200010/20041039/elfin_life_2.html" target="_blank">【作品を見るにはここをクリック】</a></strong>  <i>2000/10/27 20:26:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972645984xtlrc&id2=971982896ejvpbvo&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972645984xtlrc_id2_971982896ejvpbvo_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �g�ςӂςӁh�𒴂�������A����ȂɁg���肷��h��������Ă����̂ł��傤���B<BR> �@�����ăG�b�`�߂��Ȃ��d������́u���퐶���v�́A�z���ȏ�Ɋy���������̂ł��B
+【推薦文】 “ぱふぱふ”を超える快感、こんなに“すりすり”しちゃっていいのでしょうか。<BR> 　決してエッチ過ぎない妖精さんの「日常生活」は、想像以上に楽しかったのです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/10/27 22:07:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/10/27 22:07:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972652055didud&id2=971982896ejvpbvo&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972652055didud_id2_971982896ejvpbvo_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�T�C�R�[�I
+も、サイコー！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2000/10/27 23:24:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>甫嶺</strong>  <i>2000/10/27 23:24:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972656685fkmmbq&id2=971982896ejvpbvo&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972656685fkmmbq_id2_971982896ejvpbvo_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͂��`�I�@�����ł��I<BR>���������ǂ݂����ł��B
+っくはぁ～！　いいです！<BR>次が早く読みたいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ނɂ���</strong>  <i>2000/10/28 01:28:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>むにすけ</strong>  <i>2000/10/28 01:28:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972664085tufnnk&id2=971982896ejvpbvo&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972664085tufnnk_id2_971982896ejvpbvo_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@���肷��H�z<BR>�l�I�ɁA�ǂ����A�ق̂ڂ̂��Ă��čD���ł��B<BR>
+【第２話　すりすり？】<BR>個人的に、どこか、ほのぼのしていて好きです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>jyun</strong>  <i>2000/10/28 03:19:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972670778ddhmhu&id2=971982896ejvpbvo&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972670778ddhmhu_id2_971982896ejvpbvo_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@���肷��H�z<BR>����Ȃ̂�т肵�������̂��܂������ł��˂��`<BR>�����Ƃ��Ă��y���݂ɂ��Ă���܂��̂łǂ����撣���Ă��������B<BR>�ł́E�E�E
+【第２話　すりすり？】<BR>こんなのんびりした感じのもまたいいですねぇ～<BR>続きとっても楽しみにしておりますのでどうか頑張ってください。<BR>では・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/28 05:29:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/28 05:29:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972678561stmjqha&id2=971982896ejvpbvo&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972678561stmjqha_id2_971982896ejvpbvo_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l�A���l�A�ނɂ����l�Ajyun�l<BR>�����ǂ�ł����������肪�Ƃ��������܂��B�ѐF�̈Ⴄ���̍�i����x�����������܂��Ċ��ӊ����ł��B<BR>���������̗d������񉻂ł�����A����Ȃ�̐V�����G���ȃ|�C���g������������ł��B����Șb�������ł���ˁH<BR>���Ȃ݂ɂ܂��ǂ�ł��Ȃ��l�ɂ��ꌾ�B��Q�b�̃��X�g�V�[�����A�g���Â��ꂽ�V�`���G�[�V�����ɂ��ւ�炸�A��������Ă݂�ƈӊO�ƐV�N�ł���H<BR>�Ō�ɁA��Q�b�̓v���C�x�[�g�Ȏ���Ŏ��M���Ԃ��啝�ɂƂꂽ�ׁA���T�Ԃŏo��������܂������A��R�b�ɂ��ẮA�܂��Z�����Ȃ��Ă����ׁA�������Ԃ�������܂��B�Ƃ肠������ꃖ����܂łɂ͎d�グ�����Ǝv���܂����E�E�E�B<BR>����ł͑�R�b�ł܂�������܂��傤�B����Ƃ���낵�����肢�������܂��B
+ｍｋ８４２６様、甫嶺様、むにすけ様、jyun様<BR>早速読んでいただきありがとうございます。毛色の違うこの作品を御支持くださいまして感謝感激です。<BR>せっかくの妖精ちゃん化ですから、それなりの新しい萌えなポイントを書いたつもりです。こんな話もいいですよね？<BR>ちなみにまだ読んでいない人にも一言。第２話のラストシーンも、使い古されたシチュエーションにも関わらず、こうやってみると意外と新鮮でしょ？<BR>最後に、第２話はプライベートな事情で執筆時間が大幅にとれた為、約一週間で出来あがりましたが、第３話については、また忙しくなってきた為、少し時間がかかります。とりあえず約一ヶ月後までには仕上げたいと思いますが・・・。<BR>それでは第３話でまたお会いしましょう。今後ともよろしくお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���F�[�^</strong>  <i>2000/10/28 08:46:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヴェータ</strong>  <i>2000/10/28 08:46:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972690381yrsmy&id2=971982896ejvpbvo&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972690381yrsmy_id2_971982896ejvpbvo_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��Q�b���悩���ł��B<BR>���̍�i�A�̓{�N�̒��ŐS�҂��ɂ��Ă��鏬���̈�ɂȂ�܂����B<BR>�R�b���A���҂��Ă��܂��B<BR>�撣���āI
+第２話もよかつたです。<BR>この作品、はボクの中で心待ちにしている小説の一になりました。<BR>３話も、期待しています。<BR>頑張って！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/28 09:31:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/28 09:31:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972693107emfomc&id2=971982896ejvpbvo&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972693107emfomc_id2_971982896ejvpbvo_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���F�[�^�l��<BR>��ςɂ��肪�Ƃ��������܂��B�����܂Ō����Ă��������āA�労���ł��B���M�ӗ~�����X�ƗN���Ă��܂����B<BR>��Q�b�������グ�āA���΂炭���S���Ă����̂ł����A�����A���������R�b�̎��M�Ɏ�肩����܂��B<BR>��낵�����肢���܂��B 
+ヴェータ様へ<BR>大変にありがとうございます。そこまで言っていただいて、大感激です。執筆意欲が沸々と湧いてきました。<BR>第２話を書き上げて、しばらく放心していたのですが、早速、今日から第３話の執筆に取りかかります。<BR>よろしくお願いします。 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�O���΂��΂�</strong>  <i>2000/10/28 13:03:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>０さばいばぁ</strong>  <i>2000/10/28 13:03:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972705828yaxnfiq&id2=971982896ejvpbvo&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972705828yaxnfiq_id2_971982896ejvpbvo_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ō��ł��B<BR>���̕����Ɓu�͂��߂Ă̓�����(�j��)�v������ł���(��)<BR>�������ƂĂ��y���݂ł��B<BR>�撣���Ă��������B
+もう最高です。<BR>この分だと「はぢめての入浴編(核爆)」もありですか(笑)<BR>続きがとても楽しみです。<BR>頑張ってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/28 14:37:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/28 14:37:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972711474mplgep&id2=971982896ejvpbvo&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972711474mplgep_id2_971982896ejvpbvo_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O���΂��΂��l��<BR>�����ł��B�ܘ_����ł��B<BR>���̕��ɂɂ����ẮA���ɒj���̓���ւ����x�ł͐V�N���̂Ȃ��Ȃ����V�`���G�[�V�������A�d������񉻂Ƃ����X�p�C�X�𗘂�����΂���s�v�c�A�������Ƃ��Ă��V�N�ɂȂ����Ⴂ�܂����B�E�E�E�Ƃ������ʂ��˂���Ă����ł��˂��A���́E�E�E�B<BR>�������g�̖{�S�Ƃ��ẮA�ꌩ�ד��Ɍ����āA���͉������s���Ă������Ȃ�ł����ǁE�E�E�A�������ł����H  <BR>
+０さばいばぁ様へ<BR>そうです。勿論ありです。<BR>この文庫においては、既に男女の入れ替わり程度では新鮮味のなくなったシチュエーションも、妖精ちゃん化というスパイスを利かせればあら不思議、何だかとっても新鮮になっちゃいました。・・・という効果をねらっているんですねぇ、私は・・・。<BR>自分自身の本心としては、一見邪道に見えて、実は王道を行っているつもりなんですけど・・・、いかがですか？  <BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>no-name</strong>  <i>2000/10/28 14:47:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972712064iejxt&id2=971982896ejvpbvo&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972712064iejxt_id2_971982896ejvpbvo_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̐��E�ςł̑��̐l�̍�i���Ă�ł݂����Ȃ�܂��ˁB<BR>
+この世界観での他の人の作品も呼んでみたくなりますね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/10/28 16:35:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/10/28 16:35:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972718518xgbiy&id2=971982896ejvpbvo&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972718518xgbiy_id2_971982896ejvpbvo_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������A��D���ł��悱�̂��b�́B��������Ȃ����āA�Ƃɂ����D���ł��ˁB<BR>�I�b�p�C���܂Ȃ��Ă��A���ꂾ���G�����n��o����񂾂��琫�ʕω����̐��E�͉����[���ł���B<BR>����́A���������҂ł��傤���H�@�d�������ɂȂ��Ă��珉�o�Z�҂Ȃ񂩂��ނ�����y���݂ɂ��Ă���܂��B<BR><BR>&gt; ���̐��E�ςł̑��̐l�̍�i���Ă�ł݂����Ȃ�܂��ˁB<BR><BR>���񂤂�B<BR>�����łȂ��Ă��A������@�Ɂu�d������񉻁v�����ق��ɏo�Ă��Ă������񂶂�Ȃ����ȁB(^^)
+っもうっ、大好きですよこのお話は。理屈じゃなくって、とにかく好きですね。<BR>オッパイ揉まなくても、これだけ萌えが創り出せるんだから性別変化物の世界は奥が深いですよ。<BR>次回は、お買い物編でしょうか？　妖精ちゃんになってから初登校編なんかもむっちゃ楽しみにしております。<BR><BR>&gt; この世界観での他の人の作品も呼んでみたくなりますね。<BR><BR>うんうん。<BR>そうでなくても、これを機に「妖精ちゃん化」物がほかに出てきてもいいんじゃないかな。(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/28 21:03:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/28 21:03:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972734624deogrhk&id2=971982896ejvpbvo&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972734624deogrhk_id2_971982896ejvpbvo_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-no-name�l��<BR>�@���͎����ǂ�ł݂����Ƃ����z���͂���܂��B�����čD���Ȃ�ł��B���������b�B�ł��A���̐ݒ�����J����ɂ͂��������҂��Ă��������B�܂�܂��̐ݒ�Ƃ������Ƃł�����A�܂�����Ă��Ȃ��d�v�Ȑݒ肪����܂��̂ŁA���̘b���o�Ă��Ă���E�E�E�Ƃ������Ƃł��肢���܂��B�������A�܂������ʐݒ�̘b�Ȃ獡�����ǂ݂����ł��˂��B<BR><BR><BR>���d�F�l��<BR>&gt; �I�b�p�C���܂Ȃ��Ă��A���ꂾ���G�����n��o����B<BR>�@<BR>�@�����ł���˂��B�G���̊�{�͌��������Ō����Ȃ��B�G�肻���ŐG��Ȃ��Ƃ������肬��ْ̋����B�����Ĉ����O�̂��a����ԂƁA���͎v���Ă��܂��B�s�ׂ����Ă��܂��΁A�F��������́B���ꂪ�G���ł͂Ȃ��ł��傤���B�ł�����Ȃ�ׂ����͒��ړI�ȃG�b�`�̕`�ʂ͂��Ȃ�����ł��B�ł����̂����������Ⴄ�����E�E�E�B���̓G�b�`������B<BR>�@���ꂩ��A���̍�Ƃ���̗d�����́A�ǂ݂����ł��˂��B�����Ĉ�l�������Ⴓ�݂����񂾂���I  <BR><BR> 
+no-name様へ<BR>　じつは私も読んでみたいという想いはあります。だって好きなんです。こういう話。でも、この設定を公開するにはもう少し待ってください。まんまこの設定ということでしたら、まだ語っていない重要な設定がありますので、その話が出てきてから・・・ということでお願いします。しかし、まったく別設定の話なら今すぐ読みたいですねえ。<BR><BR><BR>八重洲様へ<BR>&gt; オッパイ揉まなくても、これだけ萌えが創り出せる。<BR>　<BR>　そうですよねえ。萌えの基本は見えそうで見えない。触りそうで触らないというぎりぎりの緊張感。そして一歩手前のお預け状態と、私は思っています。行為をしてしまえば、色あせるもの。それが萌えではないでしょうか。ですからなるべく私は直接的なエッチの描写はしないつもりです。でもそのうち書いちゃうかも・・・。根はエッチだから。<BR>　それから、他の作家さんの妖精もの、読みたいですねえ。だって一人だけじゃさみしいんだもん！  <BR><BR> 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/10/28 22:39:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/10/28 22:39:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972740372aeesab&id2=971982896ejvpbvo&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972740372aeesab_id2_971982896ejvpbvo_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���̏�ɗd���B���񑩂�ˁ`�_���o�C����ˁ`�G���K�C����ˁ`�B<BR>�@���炵�܂����c�c�B<BR>�@�܂��͂P�E�Q�b�Ƃ��ɂނ�����ʔ������I�@���炭�񂠂炽�߃~�L�����Ƃ��̉Ƒ��Ɋ��t�ł����B<BR>�@���ɂ�������B�{���ɂ������o���Ă܂���ˁB<BR><BR>���d�������ɂȂ��Ă��珉�o�Z��<BR><BR>�@�w�d��������Z�x�Ƃ��w�d������N���X�x�Ƃ����������肵�āB<BR>�@�u�����͐l�Ԃ��d������ʂ��܂���v�Ƃ������āA�݂�ȓ��������ŕ׋����Ă���̂����z���ȁB<BR>�@�`���Ă݂悤���ȁA�����p�̗d������i�΁j�B
+　肩の上に妖精。お約束やね～ダンバインやね～エルガイムやね～。<BR>　失礼しました……。<BR>　まずは１・２話ともにむっちゃ面白いっ！　幹也くんあらためミキちゃんとその家族に乾杯ですっ。<BR>　特にお父さん。本当にいい味出してますよね。<BR><BR>＞妖精ちゃんになってから初登校編<BR><BR>　『妖精さん専門校』とか『妖精さんクラス』とかがあったりして。<BR>　「うちは人間も妖精も区別しません」とかいって、みんな同じ教室で勉強しているのが理想かな。<BR>　描いてみようかな、制服姿の妖精さん（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/29 00:01:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/29 00:01:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972745290lpdvcf&id2=971982896ejvpbvo&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972745290lpdvcf_id2_971982896ejvpbvo_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�l�n�m�c�n�l��<BR>�@�����Ȃ�ł��B�_���o�C���ŃG���K�C���Ȃ�ł��B���̃C���[�W�Ȃ�ł��B�l�ԂƗd���i���l�ԁj����������Љ�������Ă݂�����ł��B<BR><BR>���`���Ă݂悤���ȁA�����p�̗d������i�΁j�B <BR><BR>�߁X�A�f�p�[�g�ȓX������̗d���Ƃ��A������̐E���̗d���Ƃ��A�o�������ȂƎv���Ă܂������A�i�[�X�ȗd���Ƃ��A�h�N�^�[�ȗd���������ł��ˁB<BR>�ł��A�����C���X�g�`���Ă����������Ȃ�A�����߂����Ⴂ�܂��B�ǂ����܂���H�@
+ＭＯＮＤＯ様へ<BR>　そうなんです。ダンバインでエルガイムなんです。そのイメージなんです。人間と妖精（元人間）が共生する社会を書いてみたいんです。<BR><BR>＞描いてみようかな、制服姿の妖精さん（笑）。 <BR><BR>近々、デパートな店員さんの妖精とか、区役所の職員の妖精とか、出そうかなと思ってましたが、ナースな妖精とか、ドクターな妖精もいいですね。<BR>でも、もしイラスト描いていただけたなら、感激過ぎちゃいます。どうしましょ？　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/10/29 00:39:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">猫野　丸太丸</a></strong>  <i>2000/10/29 00:39:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972747583jeahrlx&id2=971982896ejvpbvo&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972747583jeahrlx_id2_971982896ejvpbvo_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ꂩ��A���̍�Ƃ���̗d�����́A�ǂ݂����ł��˂��B<BR> �n���ł������ăz���[�ȗd������Ȃ�A�M�������[�́u�����]��R�v���E�ŏ��������ł��A�ق�Ƃ��񂺂�Ⴄ�d�������ǁi���j�B�W���[�W���b�h����̓ǂ�ŁA�܂����������Ȃ�܂����i��`�j�I
+＞それから、他の作家さんの妖精もの、読みたいですねえ。<BR> 馬鹿でっかくてホラーな妖精さんなら、ギャラリーの「月下転生R」世界で書けそうです、ほんとぜんぜん違う妖精だけど（汗）。ジャージレッドさんの読んで、また書きたくなりました（宣伝）！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/10/29 17:21:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/10/29 17:21:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972807703ejjudx&id2=971982896ejvpbvo&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972807703ejjudx_id2_971982896ejvpbvo_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L��@�ۑ��� �l��<BR>�s�o�ł����B�u�����]��R�v���܂��ǂ�ł��Ȃ������̂ł��B�\����L��܂���ł����B�����ǂ�Ō��܂����B�m���Ƀz���[�ł����A���Ƃ̋��ʃC���[�W�Ƃ��ẮA�d���͑f���Ȋ���������Ă���ƌ����_�ł��傤���B�ł����͐l�Ԃɂ͌��\�ǂ�ǂ낵���������Ǝv���Ă��܂��̂ŁA�f���ɂȂ�΂Ȃ�قǁA�V�g�Ȑ��i����͊O��Ă��܂��ƁA�v���Ă��܂��B�܂��A��i�ł͂����܂łɂ͂��܂��񂪁B<BR>�����ƁA�b��߂��āA�����ȃ^�C�v�ł������ł�����A�d���ω����̂��A�܂������Ă��������܂��񂩁H <BR>
+猫野　丸太丸 様へ<BR>不覚でした。「月下転生R」をまだ読んでいなかったのです。申し訳有りませんでした。早速読んで見ました。確かにホラーですが、私との共通イメージとしては、妖精は素直な感情を持っていると言う点でしょうか。でも私は人間には結構どろどろした感情があると思っていますので、素直になればなるほど、天使な性格からは外れてしまうと、思っています。まあ、作品ではそこまでにはしませんが。<BR>ええと、話を戻して、いろんなタイプでもいいですから、妖精変化ものを、また書いていただけませんか？ <BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/01 00:35:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/01 00:35:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973006559rhsmse&id2=971982896ejvpbvo&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973006559rhsmse_id2_971982896ejvpbvo_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���h�N�^�[�ȗd������i�H�j<BR><BR>���p�̍Œ��ɋC�₵���h�N�^�[���d���ɂȂ����Ⴝ��H�H<BR>�d������̎�p���āA�܂����u�g�̂̒��ɐ��荞��ő���������������v�I�H<BR>�c�Ȃ�Ď��͂��Ȃ��ł���ˁA�܂����B
+＞ドクターな妖精さん（？）<BR><BR>大手術の最中に気絶したドクターが妖精になっちゃたら？？<BR>妖精さんの手術って、まさか「身体の中に潜り込んで臓物を引きちぎる」！？<BR>…なんて事はしないですよね、まさか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/02 17:12:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/02 17:12:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973152753nkaxyb&id2=971982896ejvpbvo&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973152753nkaxyb_id2_971982896ejvpbvo_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�g���Ȃ���h�l��<BR>�@���낢��Ƃ��ӌ��𒸂��܂��ėL��������܂��B�h���ɂȂ��čl�����[�܂�܂��B<BR>�@�܂�A�O�̔����̎��́A�P�Ƀi�[�X�ȗd�����Ă����Ȃ��A�Ǝv�������̂ł�����A���łɃh�N�^�[�ȗd�����K�v���ȁH�@�Ǝv���������Ȃ�ł���B�l�����󂭂Ă��݂܂���ł����B<BR>�@�ł��A�����Ȃł͂����Ԃ�Əd�󂳂ꂻ���ȋC�����܂��ˁB<BR>�@
+“すなさん”様へ<BR>　いろいろとご意見を頂きまして有難うございます。刺激になって考えが深まります。<BR>　つまり、前の発言の時は、単にナースな妖精っていいなあ、と思ったものですから、ついでにドクターな妖精も必要かな？　と思っただけなんですよ。考えが浅くてすみませんでした。<BR>　でも、小児科ではずいぶんと重宝されそうな気がしますね。<BR>　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2000/11/05 03:49:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>甫嶺</strong>  <i>2000/11/05 03:49:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973363770slvlfy&id2=971982896ejvpbvo&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973363770slvlfy_id2_971982896ejvpbvo_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ł��A�ŋ߂̎�p�����āE�E�E�d�q�@�킪�Ă񂱂���E�E�E�p�^�b�B
+でも、最近の手術室って・・・電子機器がてんこもり・・・パタッ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/06 12:41:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/06 12:41:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973482064cpkqnaw&id2=971982896ejvpbvo&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973482064cpkqnaw_id2_971982896ejvpbvo_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��� �l��<BR>�@�܂��͌䊴�z���肪�Ƃ��������܂��B�����ł���ˁB��p�����ł����ǁA����Љ�ɂ����ēd�q�@��̑��݂��Ȃ��E����ď��Ȃ��ł���ˁB���Ƃ����猻��Љ�ɂ����ėd���B�����Љ���āA���Ȃ�ς�������̂ɂȂ肻�����Ⴀ��܂��񂩁H�@�܂����܂�l���Ă��Ȃ���ł�����ǁE�E�E�B<BR>�@���Ȃ݂ɑ�R�b�́A���ݔ����ȏ�o���Ă��܂����G���x�����Ȃ߂Ȃ̂ŁA���X�g�܂łɂ́A�g�߂Ă����G���ȃA�C�f�B�A�𐷂荞�ނ���ł��B�i�F�l�Ɏ󂯓���Ă��炦��Ƃ�����ł����ǁE�E�E�j
+甫嶺 様へ<BR>　まずは御感想ありがとうございます。そうですよね。手術室もですけど、現代社会において電子機器の存在しない職場って少ないですよね。だとしたら現代社会において妖精達が作る社会って、かなり変わったものになりそうじゃありませんか？　まだあまり考えていないんですけれど・・・。<BR>　ちなみに第３話は、現在半分以上出来ていますが萌え度が少なめなので、ラストまでには、暖めていた萌えなアイディアを盛り込むつもりです。（皆様に受け入れてもらえるといいんですけど・・・）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>suzuyu</strong>  <i>2000/11/08 16:33:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973668838khudrv&id2=971982896ejvpbvo&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973668838khudrv_id2_971982896ejvpbvo_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��i����j�A�G���܂����B<BR>��̉��|���Ŋ�ɓy�����Ĉꐶ�����ɂ񂶂񉽂��𔲂��Ă�p��z������Ɓc�c�����A��������҂��؂�܂���B
+はい（挙手）、萌えました。<BR>例の園芸部で顔に土埃つけて一生懸命にんじん何かを抜いてる姿を想像すると……ああ、もう次を待ち切れません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/08 17:16:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/08 17:16:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973671375qsesppr&id2=971982896ejvpbvo&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973671375qsesppr_id2_971982896ejvpbvo_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-suzuyu�@�l��<BR>�䊴�z�L��������܂��B���҂������Ă���܂�����R�b�́A�{���̂����ɁA���ɉ^�c�ψ���̂ق��ɑ���܂����B������܂����Ԍo�߂͂Q�`�R���Ԃ����o���Ă��Ȃ��̂ł����A�悤�₭���X�g�����ŉƂ̊O�ɕ��䂪�ڂ�܂����B�ł��w�Z�V�[���͍����΂炭���҂��������B�ł͍���Ƃ��X�������肢�������܂��B�i�ł��ɂ񂶂񔲂��̂͗ǂ��ł��ˁB���킢���āE�E�E�j<BR>  <BR>
+suzuyu　様へ<BR>御感想有難うございます。お待たせしておりました第３話は、本日のお昼に、文庫運営委員会のほうに送りました。今回もまた時間経過は２～３時間しか経っていないのですが、ようやくラスト部分で家の外に舞台が移りました。でも学校シーンは今しばらくお待ち下さい。では今後とも宜しくお願いいたします。（でもにんじん抜くのは良いですね。かわいくて・・・）<BR>  <BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>aaaa</strong>  <i>2000/11/09 08:55:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973727742fxmhhnh&id2=971982896ejvpbvo&ff=p">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973727742fxmhhnh_id2_971982896ejvpbvo_ff_p.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�@���肷��H�z<BR>�ʔ�������.<BR>�����Ƒ������ǂ݂���
+【第２話　すりすり？】<BR>面白かった.<BR>もっと続きが読みたい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/09 12:35:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/09 12:35:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973740903pshuke&id2=971982896ejvpbvo&ff=p">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973740903pshuke_id2_971982896ejvpbvo_ff_p.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-aaaa �l��<BR>�@�������낢�ƌ����Ă�������̂���Ԃ̊��z�ł��B�L��������܂��B�����Ƒ������E�E�E�Ƃ̂��Ƃł����A���݂́A�Q�`�R���̋x�e�̌�ɁA��4�b���������Ǝv���Ă���Ƃ���ł��B
+aaaa 様へ<BR>　おもしろいと言ってくださるのが一番の感想です。有難うございます。もっと続きを・・・とのことですが、現在は、２～３日の休憩の後に、第4話を書こうと思っているところです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200010/20041039/elfin_life_3.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/11/11 09:44:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200010/20041039/elfin_life_3.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/11/11 09:44:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973903483btmjwu&id2=971982896ejvpbvo&ff=p">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973903483btmjwu_id2_971982896ejvpbvo_ff_p.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z ����N�����ߗd�������̃~�L�����A���߂Ă̂��H���ɑ労���B���`��A�ǂ������ˁB�ł��g�h�m�h������΁g�n�t�s�h������񂾂�B���v���ȁ`�B<BR>�y���E���z �Ђ���������X����˂������Ă��܂�������ߗd�������~�L�����B����Ȃɉ������Ă�����ł��傤���c�c<B>������ł��B</B>�i�΁j�@�~�L�����̓��퐶���͂�������炸�\�z�����Ȃ��s���`�̘A���̂悤�ŁB
+【あらすじ】 幹也クン改め妖精少女のミキちゃん、初めてのお食事に大感激。う～ん、良かったね。でも“ＩＮ”があれば“ＯＵＴ”もあるんだよ。大丈夫かな～。<BR>【推薦文】 ひたすら可愛い街道を突っ走ってしまう幹也改め妖精少女ミキちゃん。こんなに可愛くっていいんでしょうか……<B>いいんです。</B>（笑）　ミキちゃんの日常生活はあいかわらず予想もつかないピンチの連続のようで。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�O���΂��΂�</strong>  <i>2000/11/11 10:51:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>０さばいばぁ</strong>  <i>2000/11/11 10:51:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973907490pkamr&id2=971982896ejvpbvo&ff=p">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973907490pkamr_id2_971982896ejvpbvo_ff_p.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��3�b�@���������z<BR>�܂��܂��G���x���������Ėʔ��������ł��B�ǂ�łĎv�킸���낪���Ă��܂��܂���(��)<BR>����4�b���y���݂ɂ��Ă��܂��B
+【第3話　ももちゃん】<BR>ますます萌え度があがって面白かったです。読んでて思わずころがってしまいました(笑)<BR>次の4話も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���F�[�^</strong>  <i>2000/11/11 11:47:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ヴェータ</strong>  <i>2000/11/11 11:47:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973910863vbqenq&id2=971982896ejvpbvo&ff=p">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973910863vbqenq_id2_971982896ejvpbvo_ff_p.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��R�b�@�ǂ܂��Ē����܂����B<BR>������ƂĂ��������납�����ł��B<BR>�~�L�����̓��퐶���ɕ����Ȑ���������̂́A���Ȃ�̂ł��傤���H<BR>�d���̊w�Z�������Ăǂ��Ȃ�̂ł��傤���A���ȏ����J���̂Ɉ��J�������ł���ˁH�@���퐶��������ɂ������āA����ς�d����p�̉Ƌ�K�v�Ȃ̂��ȁH<BR>���ꂩ����A�撣���Ă��������B
+第３話　読ませて頂きました。<BR>今回もとてもおもしろかったです。<BR>ミキちゃんの日常生活に平穏な生活がくるのは、いつなるのでしょうか？<BR>妖精の学校生活ってどうなるのでしょうか、教科書を開くのに一苦労しそうですよね？　日常生活をするにあたって、やっぱり妖精専用の家具が必要なのかな？<BR>これからも、頑張ってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:http://community.goo.ne.jp" target="_blank">�Ђ낵��</a></strong>  <i>2000/11/11 11:58:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:http://community.goo.ne.jp" target="_blank">ひろしん</a></strong>  <i>2000/11/11 11:58:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973911480ihbhav&id2=971982896ejvpbvo&ff=p">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973911480ihbhav_id2_971982896ejvpbvo_ff_p.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��R�b<BR>�E�E�E���i���i�E�E�E�E<BR>�i�����m��H���̗d���j<BR>
+第３話<BR>・・・モナモナ・・・・<BR>（ご存知大食いの妖精）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p�g���b�V��</strong>  <i>2000/11/11 13:14:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>パトラッシュ</strong>  <i>2000/11/11 13:14:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973916085tcqqx&id2=971982896ejvpbvo&ff=p">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973916085tcqqx_id2_971982896ejvpbvo_ff_p.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�R�b�ڂƂĂ��ʔ��������ł��A���������΂��Ă��������I�������Ă܂��B
+３話目とても面白かったです、次回もがんばってください！応援してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/11/11 13:36:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/11/11 13:36:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973917419bhvny&id2=971982896ejvpbvo&ff=p">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973917419bhvny_id2_971982896ejvpbvo_ff_p.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�O���΂��΂��v����̖��O���Ă��������āgLOVE�T�o�C�o�[�h���ēǂނ�ł��傤���H�@�����A������ƋC�ɂȂ��������ł��B���~�i�P�Ƃ����낢��v���o���āB<BR>���Ă������A���z����Ȃ�����񂱂�B�W���[�W���b�h���񂲂߂�Ȃ����B
+「０さばいばぁ」さんの名前ってもしかして“LOVEサバイバー”って読むんでしょうか？　いえ、ちょっと気になっただけです。ロミナ姫とかいろいろ思い出して。<BR>っていうか、感想じゃないじゃんこれ。ジャージレッドさんごめんなさい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/11 16:41:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/11 16:41:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973928464xuyplo&id2=971982896ejvpbvo&ff=p">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973928464xuyplo_id2_971982896ejvpbvo_ff_p.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���킟�`�B������Ɩڂ𗣂��Ă����X�L�ɁA��������R�b���f�ڂ���āA���������ɂ���Ȃɂ������z���E�E�E�B�i���܁j<BR>�Ƃ����킯�ŁA<BR><BR>�O���΂��΂��l�A���F�[�^�l�A�Ђ낵��l�A�p�g���b�V���l�A���d�F�l<BR><BR>�@�����z�A���肪�Ƃ��������܂��B������ƖG���ɂ����b�ɂȂ��Ă��܂����̂ł́H�@�ƐS�z���Ă����̂ł����A�͂Â����܂����B����Ƃ���S�b���������낢���̂ɂ������ł��B�ł����A�ŏ��̐��y�[�W���������̂��Ȃ���Ȃ�ł��B�������Ⴆ�΁A���\��̓X���[�Y�ɍs����ł����ǂˁB�E�E�E�F�l�̉�����ǂ݂Ȃ���撣�邼�I<BR>�@�Ō�ɁA���d�F�l�A�f�ڎ��ɂ킪�܂܂𕷂��Ă�������A���肪�Ƃ��������܂����B
+うわぁ～。ちょっと目を離していたスキに、早くも第３話が掲載されて、しかも既にこんなにもご感想が・・・。（感涙）<BR>というわけで、<BR><BR>０さばいばぁ様、ヴェータ様、ひろしん様、パトラッシュ様、八重洲様<BR><BR>　ご感想、ありがとうございます。ちょっと萌えにくい話になってしまったのでは？　と心配していたのですが、力づけられました。是非とも第４話もおもしろいものにしたいです。でも私、最初の数ページ分を書くのかなり苦手なんです。書けちゃえば、結構後はスムーズに行くんですけどね。・・・皆様の応援を読みながら頑張るぞ！<BR>　最後に、八重洲様、掲載時にわがままを聞いてくださり、ありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/11/11 21:45:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/11/11 21:45:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973946745qyins&id2=971982896ejvpbvo&ff=p">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973946745qyins_id2_971982896ejvpbvo_ff_p.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����[�ō��I�I�I�I�I�I�I<BR>����Ȃɖʔ����ăc�{�˂��܂���̗d���������m�͏��߂Ăł��I<BR>���A�ǂ��Ղ�͂܂��Ă��܂��܂����B<BR><BR>���E�E�E���i���i�E�E�E<BR>����͂��͂��͂��́[�I�I�I<BR>�Ђ낵�񂳂�A�c�b�R�~�ʔ������I<BR><BR>�����͍ō��ɂ����C���łP�����I����ꂻ���ł��B
+うおー最高！！！！！！！<BR>こんなに面白くてツボ突きまくりの妖精少女モノは初めてです！<BR>も、どっぷりはまってしまいました。<BR><BR>＞・・・モナモナ・・・<BR>わっはっはっはっはー！！！<BR>ひろしんさん、ツッコミ面白すぎ！<BR><BR>今日は最高にいい気分で１日を終えられそうです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/11 23:21:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/11 23:21:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973952517dltyyvj&id2=971982896ejvpbvo&ff=p">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973952517dltyyvj_id2_971982896ejvpbvo_ff_p.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�D�d������I�Љ���āc<BR>�Q���͓��{�̍]�ˎ���i���ɂ̃G�R���W�[�Љ�j�Ȃ̂ł́H<BR><BR>�Q�D�h�^�n�Șb<BR>�Q���`��B�ς����B�����������B��������B<BR>�Q�͂����B<BR>�Q����ɂ��Ă��A��͂Ƃ��������̘b���āA�]�菑����Ȃ��̂ł́H<BR>�i����ł��ނ��Ԃɍ����傫���̗d������ƌ������Ƃ́A����͂����A�g�̂̏k�ڌ���ł��ˁj<BR>
+１．妖精さん的社会って…<BR>＿実は日本の江戸時代（究極のエコロジー社会）なのでは？<BR><BR>２．Ｉ／Ｏな話<BR>＿あ～ん。ぱくっ。もきゅもきゅ。ごっくん。<BR>＿はあぁ。<BR>＿それにしても、上はともかく下の話って、余り書かれないのでは？<BR>（あれでおむつが間に合う大きさの妖精さんと言うことは、これはもう、身体の縮尺決定ですね）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/11/11 23:25:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/11/11 23:25:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973952730xcuydw&id2=971982896ejvpbvo&ff=p">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973952730xcuydw_id2_971982896ejvpbvo_ff_p.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���i����ł��ނ��Ԃɍ����傫���̗d������ƌ������Ƃ́A����͂����A�g�̂̏k�ڌ���ł��ˁj<BR><BR>���������΁A�̒��͂Q�T��������Ȃ������ł����ˁH���Ƃ���ƁA�A���ł͑傫������悤�ȋC���E�E�E�B
+＞（あれでおむつが間に合う大きさの妖精さんと言うことは、これはもう、身体の縮尺決定ですね）<BR><BR>そういえば、体長は２５ｃｍじゃなかったですかね？だとすると、アレでは大きすぎるような気が・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂邭���P���w�Ȃ肩�����I�x��l�e���쒆</strong>  <i>2000/11/12 05:32:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みるく聖姫＠『なりかけっ！』第四弾製作中</strong>  <i>2000/11/12 05:32:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973974727mocdh&id2=971982896ejvpbvo&ff=p">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973974727mocdh_id2_971982896ejvpbvo_ff_p.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W���[�W���b�h����͂��߂܂��āA�݂邭���P�Ɛ\���܂��B<BR>���́w�d���I���퐶���x���͖���y���݂ɂ��Ă��܂��B���񂩂�l�n�m�c�n����̃J���C�C�b�f������肨�b���܂��܂��p���[�A�b�v�I�I����̓W�J���y���݂ɂ��Ă��܂�(^^)�B<BR>�������c�J���C�C�Ȃ��l�n�m�c�n����́w�G���t�B���x�́c�����������h����Ȃ��ɃJ���C�C�h�̂͐�΂ɕ`���Ȃ�����Ƃ��Ă��A�Ƃ��Ă��A�Ɓ`���Ă��A�܂����ł��I�I�����J�������G���t�B���`�������Ȃ��c�i�����j
+ジャージレッドさんはじめまして、みるく聖姫と申します。<BR>この『妖精的日常生活』実は毎回楽しみにしています。今回からＭＯＮＤＯさんのカワイイＣＧも加わりお話もますますパワーアップ！！今後の展開を楽しみにしています(^^)。<BR>しかし…カワイイなぁＭＯＮＤＯさんの『エルフィン』は…私こういう”文句なしにカワイイ”のは絶対に描けないからとっても、とっても、と～っても羨ましいです！！私もカワいいエルフィン描きたいなぁ…（溜息）
 </td></tr>
 </table></a><br>
 

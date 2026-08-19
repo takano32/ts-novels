@@ -1,132 +1,132 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=993943703imxguh&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_993943703imxguh_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�y��</font><br>
+<font size="+2" color="#0000FF">楽屋</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2001/07/01 08:28:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2001/07/01 08:28:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993943703imxguh&id2=993943703imxguh&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993943703imxguh_id2_993943703imxguh_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200107/01140146/backstage.html" target="_blank">��i������ɂ͂������N���b�N�B</a></strong>  <i>2001/07/01 14:09:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200107/01140146/backstage.html" target="_blank">作品を見るにはここをクリック。</a></strong>  <i>2001/07/01 14:09:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993964182etthw&id2=993943703imxguh&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993964182etthw_id2_993943703imxguh_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@���X���X�B�c�c�M���̌��Ă�����͕̂���H�@����Ƃ����䗠�H<BR>�@�ӂƋC�t���ƒm��ʊԂɃg�����X���Ă���A���Ԃ��񃏁[���h�ւ悤�����B
+【推薦文】　虚々実々。……貴方の見ているものは舞台？　それとも舞台裏？<BR>　ふと気付くと知らぬ間にトランスしている、里花さんワールドへようこそ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/07/01 14:38:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/07/01 14:38:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993965903oueac&id2=993943703imxguh&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993965903oueac_id2_993943703imxguh_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>�������n���Ă������̕��̂ł��ˁB�Ȃ��Ȃ����Ă��ł��B<BR>���Ƌ��ɏ��������Ă������z��{����܂����B<BR>�G�k�{�[�h�ɂ�������i�ǂ�ł��炽���҂ł͖����Ƃ������Ă��̂ł����A<BR>�Ɠ��̐��E�A�܂��ɗ��Ԃ��񃏁[���h�ł��ˁB<BR>�܂��������҂��Ă��܂��ˁB
+読みました。<BR>現実が溶けていくかの文体ですね。なかなかすてきです。<BR>役と共に女性化していく発想一本取られました。<BR>雑談ボードにあった作品読んでからただ者では無いとおもってたのですが、<BR>独特の世界、まさに里花さんワールドですね。<BR>また次も期待していますね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/07/01 14:52:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/07/01 14:52:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993966766ctbsf&id2=993943703imxguh&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993966766ctbsf_id2_993943703imxguh_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������܂��B�ŏ��͉����Ȃ񂾂��킩��܂���ł����B�����āA�ǂ݂Â��Ă��������ɂȂ�����킩��Ȃ��Ȃ�܂����B�ł����A�Ō�܂œǂ񂾂Ƃ��u�����B�������낢�B�i���z����ǂޕ��A�c�O�ł����B���̊����́A���Ȃ��͖��킦�܂���B�j�����āA�㉉��A���C�N�𗎂Ƃ��Ă���Ƃ��낾�Ǝv���Ă�����A���ꂪ���͌��ŁA���ۂ̕ω��̏�Ԃ�A�ω�������̂̐S���`�����i�h�L�������^���[�H�j�������Ƃ́B<BR>�����A�����A�W�X�ƌ����o�D�̋�s���A�ŋ��ł���A�{���������Ƃ́B<BR>���Ԃ���A�y���܂��Ă��炢�܂����B�S�����x���ꂽ��т������Ă��܂��B�������傤�Q�d�ɂ��܂��₪���āB�i�΁j
+正直言います。最初は何がなんだかわかりませんでした。そして、読みつづけていくうちになおさらわからなくなりました。ですが、最後まで読んだとき「凄い。おもしろい。（感想から読む方、残念でした。この感動は、あなたは味わえません。）そして、上演後、メイクを落としているところだと思っていたら、それが実は劇で、実際の変化の状態や、変化するものの心情を描いた（ドキュメンタリー？）だったとは。<BR>凄い、ただ、淡々と語られる俳優の愚痴が、芝居であり、本音だったとは。<BR>里花さん、楽しませてもらいました。心から騙された喜びを感じています。ちきしょう２重にだましやがって。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/07/01 19:31:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/07/01 19:31:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993983485ynglv&id2=993943703imxguh&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993983485ynglv_id2_993943703imxguh_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ꐶ�Ɉ�x�����������Ȃ��s�r���ł����B<BR>���Ѓ����O�����ɂ��đ����̖��҂���ɉ����Ă��炢���������Ǝv���܂����i��΁j�B<BR>�����āA���΂₢�M�͂ɂ��������܂����B<BR>���킢�[���b���ǂ������肪�Ƃ��������܂��B�ʔ��������ł��B
+一生に一度しか演じられないＴＳ劇ですか。<BR>ぜひロングランにして多くの役者さんに演じてもらいたい劇だと思いました（苦笑）。<BR>そして、すばやい筆力にも感服しました。<BR>味わい深い話をどうもありがとうございます。面白かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/07/01 20:58:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/07/01 20:58:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993988739ytqpf&id2=993943703imxguh&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993988739ytqpf_id2_993943703imxguh_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���̕���A�ςĂ݂����ł��Ȃ��B<BR>�������A���ꃍ���O��������΂���قǒj�D�������ď��D�̐��������Ă����̂ł́H<BR>�ʔ��������ł���B
+読んだバイ♪<BR>この舞台、観てみたいですなぁ。<BR>しかし、これロングランすればするほど男優が減って女優の数が増えていくのでは？<BR>面白かったですよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">���ԁ������z���肪�Ƃ��������܂�(^^)</a></strong>  <i>2001/07/03 21:03:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">里花＠ご感想ありがとうございます(^^)</a></strong>  <i>2001/07/03 21:03:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994161823ukxcta&id2=993943703imxguh&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994161823ukxcta_id2_993943703imxguh_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�킠��@�����z�A���肪�Ƃ��������܁[���@<font color=#8B008B>m(^��^)m</font><BR>�����󂳂�<BR>���������n���Ă������̕��̂ł��ˁB<BR>���ɂƂ��Ă͖{���ɗn��������Ă邩���c�c���ꂶ�።���ł����ǁB<BR>�u�P�_�v���A�ƂĂ��댯�Ȗ��͂ɖ����Ă���Ǝv���܂���I<BR>���ꂩ�����낵��m(__)m<BR>���悵��������<BR>���㉉��A���C�N�𗎂Ƃ��Ă���Ƃ��낾�Ǝv���Ă�����A���ꂪ���͌��ŁA���ۂ̕ω��̏�Ԃ�A�ω�������̂̐S���`�����i�h�L�������^���[�H�j�������Ƃ́B<BR>��`���A�����Ɏ��M�Ӑ}���Ղ��Ă��ꂽ�̂ˁ�<BR>�����܂Ō�����ƁA�{���ɁA��Ɩ����ɐs���܂���`��<BR>(���A���܂����A�p�������ɂȂ��Ă��܂���(^^;)<BR>��������������<BR>�������O����<BR>�Ԉ���đ���o�����Ƃ͂��邩���c�c�H�H<BR>�������WRONG run(^^;<BR>�����΂₢�M�͂ɂ��������܂����B<BR>���肪�Ƃ��������܂���<BR>���̒��ɕ����񂾕��i�⓮�����A�����ƕ`�ʂ���悤�ɂ��Ȃ��ƁA�����Ɂu�n�����Ⴄ�v�̂ł��c�c<BR>�������A���Ȃ�G�ł����(^^;<BR>�����蒼�����܂�m(__)m<BR>���_�����z�̂����W�S�Q�U�i�����Ekagerou6����j����<BR>�������A�Ȃ񂾂��A���Ȃ����犴�z�����炦���̂��A�Ȃ񂾂������������I!!<BR>�{���ɁA�قڑS�Ă̍�i�ɂĂ��˂��Ɋ��z�����Ă������邨�p�A�����ɂ������ȁA�Ǝv���܂��B<BR>���������A���ꃍ���O��������΂���قǒj�D�������ď��D�̐��������Ă����̂ł́H<BR>�����Ȃ�ł���[�A���c�u���܂��Ȃ肢�E�΂������ā[���v�͂ł��ˁ[�A�j�D�����Ȃ��Ȃ�����㉉�I���ɉ����ĉ��U�ŁA����܂łɏo�Ă����S�������D�ɂȂ��āu�J�[�e���R�[���v�����ł���[�c�c<BR>���āA������ƃ\�[�[�c�ȕ��i��(^^;<BR>�����݂Ɂu���܂��Ȃ肢�c�c�v��Imaginary Backstage(�ˋ�̕��䗠)�ł���(^^;<BR><BR>�Ƃ�����A�{���ɁA�����z��������������āA���������̂ł���!!<BR>���ꂩ����A�u������I�v�Ɗ������Ƃ����n�Y���Ȃ��悤�ɂ������A�Ǝv���܂��B<BR><BR>�����납��@���ӂ����߂ā@<font color=#8B008B>(*^^)/�B�E:*:�E����,�B�E:*:�E�����A���K�g�[�I</font>
+わあ♪　ご感想、ありがとうございまーす　<font color=#8B008B>m(^▽^)m</font><BR>☆亜希さん<BR>＞現実が溶けていくかの文体ですね。<BR>私にとっては本当に溶けちゃってるかも……それじゃ困るんですけど。<BR>「姫神」も、とても危険な魅力に満ちていると思いますよ！<BR>これからもよろしくm(__)m<BR>☆よしおかさん<BR>＞上演後、メイクを落としているところだと思っていたら、それが実は劇で、実際の変化の状態や、変化するものの心情を描いた（ドキュメンタリー？）だったとは。<BR>わ～い、見事に執筆意図を衝いてくれたのね♪<BR>そこまで言われると、本当に、作家冥利に尽きますわ～♪<BR>(あ、しまった、パラレルになってしまうっ(^^;)<BR>☆こうけいさん<BR>＞ロングラン<BR>間違って走り出すことはあるかも……？？<BR>＃そりゃWRONG run(^^;<BR>＞すばやい筆力にも感服しました。<BR>ありがとうございます♪<BR>頭の中に浮かんだ風景や動きを、さっと描写するようにしないと、すぐに「溶けちゃう」のです……<BR>早い分、かなり雑ですよね(^^;<BR>少し手直ししますm(__)m<BR>☆神速感想のｍｋ８４２６（命名・kagerou6さん）さん<BR>ああっ、なんだか、あなたから感想をもらえたのが、なんだかすごく感動的!!<BR>本当に、ほぼ全ての作品にていねいに感想をつけてらっしゃるお姿、正直にすごいな、と思います。<BR>＞しかし、これロングランすればするほど男優が減って女優の数が増えていくのでは？<BR>そうなんですよー、劇団「いまじなりい・ばっくすてーじ」はですねー、男優がいなくなったら上演終了に加えて解散で、それまでに出ていた全員が女優になって「カーテンコール」するんですよー……<BR>って、ちょっとソーゼツな風景が(^^;<BR>＃因みに「いまじなりい……」＝Imaginary Backstage(架空の舞台裏)でした(^^;<BR><BR>ともあれ、本当に、ご感想をいただけるって、嬉しいものですね!!<BR>これからも、「書ける！」と感じたときをハズさないようにしたい、と思います。<BR><BR>こころから　感謝をこめて　<font color=#8B008B>(*^^)/。・:*:・°★,。・:*:・°☆アリガトー！</font>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/07/20 21:29:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/07/20 21:29:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995632177npbusg&id2=993943703imxguh&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995632177npbusg_id2_993943703imxguh_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@��l�ŋ��ł����B�����ł���ˁB������񕑑�̈�l�ŋ����ł����A��l�̌�肾���ŕ�����i�߂Ă����̂��c�c�B<BR>�@<BR>�@���āA���̍�i�A�ǂ��]�����ׂ��Ȃ�ł��傤�B���̊��z�́A���ɂ����Ɋ��z�������ꂽ���̂��̂Ƃ͂�����ƈ���Ă���̂ł����c�c�A�Ȃ�Ɛ\���܂��傤�A�n�b�L�������܂��āA�w��������x�ł��B<BR><BR>�@���̍�i�́A��҂́A���������󋵂�̌��������Ƃ����������ꂪ�o�Ă���悤�ȋC�����܂��B<BR>�@����Ă����炲�߂�Ȃ����ł����A���������w��������x�̓����������܂����B���ԗl�́A��i�̎�l���Ƃ����g���A���ꎋ���Ă�������Ⴂ�܂��ˁB��҂ł�����܂����A��i�̎�l������������҂ł�������B�Ⴂ�܂��H
+　一人芝居ですか。難しいんですよね。もちろん舞台の一人芝居もですが、一人の語りだけで物語りを進めていくのも……。<BR>　<BR>　さて、この作品、どう評価すべきなんでしょう。私の感想は、既にここに感想を書かれた方のものとはちょっと違っているのですが……、なんと申しましょう、ハッキリ言いまして、『あこがれ』です。<BR><BR>　この作品は、作者の、こういう状況を体験したいというあこがれが出ているような気がします。<BR>　違っていたらごめんなさいですが、そういう『あこがれ』の匂いを感じました。里花様は、作品の主人公とご自身を、同一視していらっしゃいますね。作者でもありますが、作品の主人公を演じる役者でもあられる。違います？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=aizu_rika" target="_blank">�^�c�ψ�</a></strong>  <i>2002/06/11 00:49:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~ts/kansou/bbs@log_aizu_rika.cgi" target="_blank">運営委員</a></strong>  <i>2002/06/11 00:49:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1023724147bwtvtwh&id2=993943703imxguh&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1023724147bwtvtwh_id2_993943703imxguh_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�f����URL���ς��܂��B<BR>�V�������z�f���͂�����ł��B<BR><BR><a href="http://www.novels.jp/~ts/kansou/bbs.cgi?log=aizu_rika" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=aizu_rika</a>
+感想掲示板のURLが変わります。<BR>新しい感想掲示板はこちらです。<BR><BR><a href="../../../~ts/kansou/bbs@log_aizu_rika.cgi" target="_blank">http://www.novels.jp/~ts/kansou/bbs.cgi?log=aizu_rika</a>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="993943703imxguh">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

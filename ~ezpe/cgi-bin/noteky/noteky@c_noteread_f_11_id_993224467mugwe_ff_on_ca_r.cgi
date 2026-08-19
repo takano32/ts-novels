@@ -1,241 +1,241 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=993224467mugwe&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_993224467mugwe_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�q�`�h�m�x</font><br>
+<font size="+2" color="#0000FF">ＲＡＩＮＹ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/23003522/rainy_f1.html" target="_blank">�O�҂�ǂނɂ͂������N���b�N</a></strong>  <i>2001/06/23 00:41:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/23003522/rainy_f1.html" target="_blank">前編を読むにはここをクリック</a></strong>  <i>2001/06/23 00:41:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993224467mugwe&id2=993224467mugwe&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993224467mugwe_id2_993224467mugwe_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�O�ҁt<BR>�y���E���z�~�J�̉J�̒��A�E�ъ��TS�̋��|�E�E�E����N�A�J�𗁂тɊO�֍s���łȂ��I<BR>
+《前編》<BR>【推薦文】梅雨の雨の中、忍び寄るTSの恐怖・・・こら君、雨を浴びに外へ行くでない！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/23 01:19:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/23 01:19:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993226743lvfgm&id2=993224467mugwe&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993226743lvfgm_id2_993224467mugwe_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����<BR>�ʔ������z�ł��ˁE�E�E�E�G�߂����傤�ǂ�������<BR>�~�J�̉J�ɂ�鐫�]���A�]���҂͂ǂ��܂ő�����񂾂낤�H<BR>�O�c����͉����̎������ʂ����Č�������̂���<BR><BR>���낢�邩�I�ɂ͂��̉J���璊�o���������𐻕i�����邩��(�΁j<BR>���҂����҂��Ă܁`����
+読みました♪<BR>面白い発想ですね・・・・季節もちょうどいいかも<BR>梅雨の雨による性転換、犠牲者はどこまで増えるんだろう？<BR>前田さんは解決の糸口を果たして見つけられるのかな<BR><BR>しろいるか的にはこの雨から抽出した成分を製品化するかも(笑）<BR>続編も期待してま～す♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/23 05:19:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/23 05:19:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993241155uakct&id2=993224467mugwe&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993241155uakct_id2_993224467mugwe_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����`�A�Ȃ������n�����o�Ă��Ċy���������ł��B����ɁA�J�ɂ�鎖���̐i�W�B�畆����̊����Ƃ�����A�G�ꂽ���̂ɐG�����l�́E�E�E<BR>�����o�g�̂킽���Ƃ��ẮA��B�ł̐i�W�����҂����肵�āE�E�E<BR>���ꂩ��̓W�J���y���݂ł��B����A�҂��Ă܂��B
+いや～、なつかしい地名が出てきて楽しかったです。それに、雨による事件の進展。皮膚からの感染としたら、濡れたものに触った人は・・・<BR>福岡出身のわたしとしては、九州での進展を期待したりして・・・<BR>これからの展開が楽しみです。次回、待ってます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/23 06:53:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/23 06:53:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993246812irvvca&id2=993224467mugwe&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993246812irvvca_id2_993224467mugwe_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���x�͉J�łs�r�A�ł����B<BR>�{���A�݂Ȃ���l�^���s���܂���˂��B<BR>���^�N�V����B�l�Ȃ̂ŁA��i���䂪��B�Ƃ����̂������������ł��ˁB<BR>���ҁE��҂Ƃ��ǂ��A���҂��Ă��܂��B
+読んだバイ♪<BR>今度は雨でＴＳ、ですか。<BR>本当、みなさんネタが尽きませんねぇ。<BR>ワタクシも九州人なので、作品舞台が九州というのが嬉しかったですね。<BR>中編・後編ともども、期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����n</strong>  <i>2001/06/23 14:59:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>逃げ馬</strong>  <i>2001/06/23 14:59:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993275951qosubin&id2=993224467mugwe&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993275951qosubin_id2_993224467mugwe_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����I�@�Ȃ��Ȃ��V���A�X�E�E�E�T�X�y���X�^�b�`�̍�i�ł��ˁI<BR>���R�ɍ�i�̐��E�ɓ����Ă����܂����B<BR>�܂������͋N�������΂���A��Q�͂��̒��x�ł����܂�̂��E�E�E�����Ď����̗����ɂ�����̂́H�������y���݂ł��B<BR>�y���݂ɑ҂��Ă܂��I
+読みました！　なかなかシリアス・・・サスペンスタッチの作品ですね！<BR>自然に作品の世界に入っていけました。<BR>まだ事件は起こったばかり、被害はこの程度でおさまるのか・・・そして事件の裏側にあるものは？続きが楽しみです。<BR>楽しみに待ってます！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/23 17:49:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/23 17:49:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993286140xgcgx&id2=993224467mugwe&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993286140xgcgx_id2_993224467mugwe_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɔG��Đ��]���Ƃ����Ɓw���܂P�^�Q�x���v���o���܂����A������͂邩�ɃV���A�X�Ȑݒ肪���͓I�ł��B<BR>�ǂ����A������ƉJ�ɔG�ꂽ���炢�ł͐��]���͋N����Ȃ��悤�ł��ˁB�����A���]���̒��ڂ̌����͂ǂ��ɂ���̂ł��傤���H���̂�����̉𖾂��ӂ܂��āA���҈ȍ~�̓W�J���y���݂Ɋ��҂��Ă��܂��I
+水に濡れて性転換というと『らんま１／２』を思い出しますが、あれよりはるかにシリアスな設定が魅力的です。<BR>どうやら、ちょっと雨に濡れたくらいでは性転換は起こらないようですね。さあ、性転換の直接の原因はどこにあるのでしょうか？そのあたりの解明もふまえて、中編以降の展開を楽しみに期待しています！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/06/23 18:59:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/06/23 18:59:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993290359kotlo&id2=993224467mugwe&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993290359kotlo_id2_993224467mugwe_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�X�����ƃT�X�y���X�I���͋C���΂�����ł��ˁB<BR>�������܂��䂪����Ƃ́I�@����Ɋ��҂��Ă��܂���ł��B<BR>��l���̐��]�����܂����҂��Ă���L����Ă��������c�c�i�΁j
+スリルとサスペンス的雰囲気がばっちりですね。<BR>しかもまだ謎があるとは！　次回に期待してしまうんです。<BR>主人公の性転換をまず期待している猫野っていったい……（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/06/24 00:48:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/06/24 00:48:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993311318ggdfh&id2=993224467mugwe&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993311318ggdfh_id2_993224467mugwe_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���낢�邩����A�悵��������A����8426����A�����n����A������������A�L�삳��A���z���肪�Ƃ��������܂��B<BR><BR>����͋G�߃��m�������Ă݂悤�Ƃ������Ƃŏ����Ă݂��̂ł����A�C�ɂ����Ă��炦�ĂȂɂ��ł��B<BR><BR>���悵��������A��������<BR>���͎��������̐��܂�ł��B����������ł����ǂˁB�����͂����ł��˂��A�H�ו��͂����������A�싅�͋������E�E�E�i���j�B<BR>�H�ו��Ƃ����Ύ��͐h�q�����q���D���ł��ˁB���тƂ悭�����܂����A�h���Ă��������ł��B���ɂ͔�����[�߂�ł����ˁB��[�߂�D���̎��Ƃ��Ă͍ō��ł��B<BR><BR>�~�J�̎������I���܂łɏ����邩�ǂ����킩��܂��񂪁A���҂���낵�����˂������܂��B<BR>���Ȃ݂ɍL���͂܂��܂��J�B�싅�͂܂����~�ł��E�E�E�i���j�B
+しろいるかさん、よしおかさん、ｍｋ8426さん、逃げ馬さん、こうけいさん、猫野さん、感想ありがとうございます。<BR><BR>今回は季節モノを書いてみようということで書いてみたのですが、気にいってもらえてなによりです。<BR><BR>＞よしおかさん、ｍｋさん<BR>実は私も福岡の生まれです。小さいころですけどね。福岡はいいですねぇ、食べ物はおいしいし、野球は強いし・・・（泣）。<BR>食べ物といえば私は辛子明太子が好きですね。ご飯とよく合いますし、辛くておいしいです。他には博多らーめんですかね。らーめん好きの私としては最高です。<BR><BR>梅雨の時期が終わるまでに書けるかどうかわかりませんが、続編もよろしくおねがいします。<BR>ちなみに広島はまたまた雨。野球はまた中止です・・・（泣）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ӂ����</strong>  <i>2001/07/02 01:08:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ふらっと</strong>  <i>2001/07/02 01:08:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994003712fkhgkp&id2=993224467mugwe&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994003712fkhgkp_id2_993224467mugwe_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������ł��B<BR>�u�G���v���d������钆�A���̂悤�Ȗ{�i�~�X�e���[�d���Ă̍�i�́A�M�d�Ȃ̂ł͂Ȃ��ł��傤���H<BR>��C�ɓǂ܂��镶�͗͂Ƃ����A�悪�ǂ߂Ȃ��W�J�Ƃ����A�S�������ł��B<BR>���҂����҂��Ă܂��ˁB
+面白かったです。<BR>「萌え」が重視される中、このような本格ミステリー仕立ての作品は、貴重なのではないでしょうか？<BR>一気に読ませる文章力といい、先が読めない展開といい、全く見事です。<BR>続編も期待してますね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/07/04 00:40:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/07/04 00:40:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994174849fgwkys&id2=993224467mugwe&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994174849fgwkys_id2_993224467mugwe_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӂ���Ƃ���A���z���肪�Ƃ��������܂��B<BR>�󂯓���Ă��炦�邩������ƕs���������̂ł��������Ă��炦��ƂȂɂ��ł��B<BR>���҂��y���݂ɂ��Ă��Ă��������ˁB
+ふらっとさん、感想ありがとうございます。<BR>受け入れてもらえるかちょっと不安だったのでそう言ってもらえるとなによりです。<BR>続編も楽しみにしていてくださいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/23003522/rainy_f2.html" target="_blank">���҂�ǂނɂ͂������N���b�N�B</a></strong>  <i>2001/07/18 20:55:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/23003522/rainy_f2.html" target="_blank">中編を読むにはここをクリック。</a></strong>  <i>2001/07/18 20:55:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995457329lbjwf&id2=993224467mugwe&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995457329lbjwf_id2_993224467mugwe_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�䂪����Ăԃo�C�I�z���[�E�T�X�y���X���e�B�c�c�^���́A���J�̂͂邩�ޕ��B
+【推薦文】　謎が謎を呼ぶバイオホラー・サスペンス第二弾。……真実は、霧雨のはるか彼方。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/18 22:04:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/18 22:04:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995461465gxmsea&id2=993224467mugwe&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995461465gxmsea_id2_993224467mugwe_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɂ��܂��ĕ��͂����܂��ł��ˁB<BR>�J���̒��썕�������Ԃ��݂ł��ˁB<BR>���{�R���B�B�B�䂪��ł�<BR>�V���A�X�̏��Ȃ��Ȃ��ɂ����āA�M�d�ł��ˁB���肪�Ƃ��������܂�<BR>�����͂܂��Ă��܂��܂����B���܂��ł�<BR>�Ō�̕��͍l���������܂���
+いつにもまして文章がうまいですね。<BR>雨水の中野黒い生物ぶきみですね。<BR>小宮山が。。。謎が謎です<BR>シリアスの少ないなかにあって、貴重ですね。ありがとうございます<BR>ついついはまってしまいました。うまいです<BR>最後の文章考えさせられますね
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/07/18 22:47:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/07/18 22:47:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995464072afele&id2=993224467mugwe&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995464072afele_id2_993224467mugwe_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށA�����w���̕�����ʃZ���^�[�r���B���������V�������ƃr���ɂȂ����Ƃ����̂ɁA�������蔚�j����Ă��܂��Ƃ́E�E�E�i�΁j�B<BR>�Ƃ���ŁA�������������ƌ����a�@�B�����낤����̃C���[�W�Ƃ��ẮA�����s�̂ǂ̂�����ɂ���̂ł��傤�B������ƋC�ɂȂ������̂ŁE�E�E�B<BR>���łɁB�i�q�����w�ő҂����킹����Ƃ��́A�u�������v�i�ݗ����E�E�E�i�q��B���j�E�u�}�����v�i�V�����E�E�E�i�q�����{���j�ƕ\�����Ȃ��ƍs���Ⴂ�ɂȂ�\����ł��B���ʂƗ��ł͂Ȃ���ł��˂��A���ꂪ�B<BR>�W���e�B�i�n���Z�l�j�̂����W�S�Q�U�ł�����
+読んだバイ♪<BR>うーむ、博多駅横の福岡交通センタービル。せっかく新しい商業ビルになったというのに、あっさり爆破されてしまうとは・・・（笑）。<BR>ところで、福岡国立生研と県立病院。いちろうさんのイメージとしては、福岡市のどのあたりにあるのでしょう。ちょっと気になったもので・・・。<BR>ついでに。ＪＲ博多駅で待ち合わせするときは、「博多口」（在来線・・・ＪＲ九州側）・「筑紫口」（新幹線・・・ＪＲ西日本側）と表現しないと行き違いになる可能性大です。正面と裏ではないんですねぇ、これが。<BR>ジモティ（地元住人）のｍｋ８４２６でした♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/07/19 00:20:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/07/19 00:20:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995469650mxtbkn&id2=993224467mugwe&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995469650mxtbkn_id2_993224467mugwe_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���󂳂�A����8426����A���z���肪�Ƃ��������܂��B<BR><BR>���󂳂�<BR>���肪�Ƃ��������܂��B���������Ă���������Ɗ������ł��B���̍�i�ɂ͂����ǂ����Ɂw�΂��x�������Ă���̂ō���͈�؂��ꂸ�ɏ����Ă܂��B<BR><BR>����8426����<BR>�����s�̂ǂ̂�����ɂ���̂ł��傤�B��<BR>�����A�ǂ��ł���[�i�΁j�H�������܂�l���Ă܂���B���̑c�ꂪ������w�̋߂��ɏZ��ł���̂ł��܂蔎���w�̎���͕�����������Ƃ��Ȃ���ł���ˁ[�B�w�E���肪�Ƃ��������܂��B
+亜希さん、ｍｋ8426さん、感想ありがとうございます。<BR><BR>亜希さん＞<BR>ありがとうございます。そう言っていただけると嬉しいです。私の作品にはいつもどこかに『笑い』が入っているので今回は一切いれずに書いてます。<BR><BR>ｍｋ8426さん<BR>福岡市のどのあたりにあるのでしょう。＞<BR>さあ、どこでしょー（笑）？私もあまり考えてません。私の祖母が博多南駅の近くに住んでいるのであまり博多駅の周りは歩き回ったことがないんですよねー。指摘ありがとうございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/07/19 10:28:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/07/19 10:28:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995506126myvylos&id2=993224467mugwe&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995506126myvylos_id2_993224467mugwe_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂������l�܂łł�Ƃ́A�W�J���X�������O�Ƃ������V���b�L���O�ł��ˁB<BR>�F��N�͑��v�Ȃ̂��ȁB�C�ɂȂ�܂��B<BR>�ł��Ȃ����{�R���񂪎������c�c�B<BR>�䂪����Ăт܂��ˁB��҂��ϊy���݂ɂ��Ă���܂��B<BR>
+まさか死人まででるとは、展開がスリリングというかショッキングですね。<BR>孝一君は大丈夫なのかな。気になります。<BR>でもなぜ小宮山さんが自爆を……。<BR>謎が謎を呼びますね。後編を大変楽しみにしております。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>tsugaiwashikei</strong>  <i>2001/07/19 20:02:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995540552ushtbo&id2=993224467mugwe&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995540552ushtbo_id2_993224467mugwe_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��҂��y���݂ɂ܂��Ă܂�
+後編を楽しみにまってます
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/07/19 21:25:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/07/19 21:25:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995545553amipyj&id2=993224467mugwe&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995545553amipyj_id2_993224467mugwe_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͑O�҂�ǂ�Ŏv���o�����}���K������܂��B�������񂾂������ȁH<BR>�u���[�X�g�v�Ƃ����}���K�ł��B�J�̒��̖��m�̍׋ۂɂ���ĕω�����l�ށB�����āA���Ƃ������c�����q���B���׋ی��������x�[�X�ɍŌ�̐����c����|����b�ł��B�m���Ă�l�͂��Ȃ����낤�Ȃ��B<BR>�����f�i�Ƃ����i�ł��B<BR>�����낤����B�x�X�g�Z���[�Ƃ��������A�n�[�g�Z���[�H�S�Ɏc���i�ł��ˁB
+実は前編を読んで思い出したマンガがあります。小室さんだったかな？<BR>「ワースト」というマンガです。雨の中の未知の細菌によって変化する人類。そして、何とか生き残った子供達が細菌研究所をベースに最後の生き残りを掛ける話です。知ってる人はいないだろうなあ。<BR>あれを彷彿とする作品です。<BR>いちろうさん。ベストセラーというよりも、ハートセラー？心に残る作品ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/07/19 23:38:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/07/19 23:38:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995553533kiruwnk&id2=993224467mugwe&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995553533kiruwnk_id2_993224467mugwe_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ ����������Atsugaiwashikei����A�悵��������A���z���肪�Ƃ��������܂��B<BR><BR>������ ����������<BR>�܂������l�܂łł�Ƃ́�<BR>��������S�҂͑�����\��E�E�E�����I�H�������|���Ȃ��Ă��Ă��܂����i�΁j�B<BR><BR>tsugaiwashikei����<BR>���肪�Ƃ��������܂��B���҂��y���݂ɂ��Ă��Ă��������ˁB<BR><BR>�悵��������<BR>�S�Ɏc���i�ł��ˁB��<BR>���肪�Ƃ��������܂��B���������Ă���������Ƃق�Ə����Ă悩�����Ǝv���܂��B
+あおき あきおさん、tsugaiwashikeiさん、よしおかさん、感想ありがとうございます。<BR><BR>あおき あきおさん<BR>まさか死人まででるとは＞<BR>次回も死亡者は増える予定・・・うっ！？自分が怖くなってきてしまった（笑）。<BR><BR>tsugaiwashikeiさん<BR>ありがとうございます。続編も楽しみにしていてくださいね。<BR><BR>よしおかさん<BR>心に残る作品ですね。＞<BR>ありがとうございます。そう言っていただけるとほんと書いてよかったと思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/07/21 21:30:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/07/21 21:30:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995718648jqgnwwl&id2=993224467mugwe&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995718648jqgnwwl_id2_993224467mugwe_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�{���̔~�J�͂��������܂������A������̃X�g�[���[�͉����ɓ����Ă܂��ˁB<BR>����ɂ��Ă��A���������邾������Ȃ��Ď��҂܂ŏo��Ƃ͋��낵���J�ł��ˁB��҂̓W�J�͂��������ǂ��Ȃ��Ă��܂��̂ł��傤���H��Ɋ�����Ȃ���҂��Ă��܂��B<BR>���ƁA����̖{�؂Ƃ͊֌W����܂��񂪁A�Ђ��背�[���X�^�[�͖{���͓��C���V�����ɂ͏�����Ă��܂���i�v�킸�A�����ꂪ�n�܂����̂��H�Ǝ����\���m�F���Ă��܂��܂����j�B�����ƐV���̊Ԃ����Ȃ�ł��B�t�B�N�V�����ł�����\���܂��񂯂ǁB
+本物の梅雨はもう明けましたが、こちらのストーリーは佳境に入ってますね。<BR>それにしても、女性化するだけじゃなくて死者まで出るとは恐ろしい雨ですね。後編の展開はいったいどうなってしまうのでしょうか？手に汗握りながら待っています。<BR>あと、物語の本筋とは関係ありませんが、ひかりレールスターは本当は東海道新幹線には乗り入れていません（思わず、乗り入れが始まったのか？と時刻表を確認してしまいました）。博多と新大阪の間だけなんです。フィクションですから構いませんけど。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/07/23 16:18:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/07/23 16:18:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995872703pxbyxn&id2=993224467mugwe&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995872703pxbyxn_id2_993224467mugwe_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������������A���z���肪�Ƃ��������܂��B<BR><BR>�Ђ��背�[���X�^�[�͖{���͓��C���V�����ɂ͏�����Ă܂���<BR>�܂��A���̕����ً}���Ԃ݂����ŕ��͋C���o�Ă�񂶂�Ȃ��ł����H�i������j<BR><BR>����͂��悢���҂ł��B���y���݂ɁI
+こうけいさん、感想ありがとうございます。<BR><BR>ひかりレールスターは本当は東海道新幹線には乗り入れてません＞<BR>まぁ、その方が緊急事態みたいで雰囲気が出てるんじゃないですか？（言い訳）<BR><BR>次回はいよいよ後編です。お楽しみに！
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="993224467mugwe">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

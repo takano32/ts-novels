@@ -1,182 +1,182 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=942711357iakjntp&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_942711357iakjntp_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�M��</font><br>
+<font size="+2" color="#0000FF">祟り</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/short/tatari01.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/11/16 09:15:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/short/tatari01.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/11/16 09:15:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=942711357iakjntp&id2=942711357iakjntp&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_942711357iakjntp_id2_942711357iakjntp_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ��ւ��M�肪����A�ǂ�Ȍ`�ł��̖҈Ђ��ӂ邤�̂��A�y����(?)�ł��ˁB�u���̂̂��P�v�ɏo�Ă����M��_���M�������Ȃ̂�������ǂ������̂Ɂc�Ȃ�Ďv�����肵�āB(��)
+【推薦文】 大蛇の祟りが今後、どんな形でその猛威をふるうのか、楽しみ(?)ですね。「もののけ姫」に出てきた祟り神の祟りもこんなのだったら良かったのに…なんて思ったりして。(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="yaki@mtd.biglobe.ne.jp" target="_blank">��×���</a></strong>  <i>1999/11/21 03:19:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="yaki@mtd.biglobe.ne.jp" target="_blank">会津里花</a></strong>  <i>1999/11/21 03:19:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943121946ptmuerc&id2=942711357iakjntp&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943121946ptmuerc_id2_942711357iakjntp_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ō�ɖ{���i�P�P�^�P�R�j�͂����̖��̂R�΂̒a�����ł����B���ӂ��I<BR>���ق�Ƒ傫���Ȃ�܂����B�o���U�C�I�o���U�C�I<BR><BR>�{���Ɋ��������ł��ˁB�Ȃ񂩁A�܂��A���̃R�����g�ɐG�ꂽ���āB<BR>�����āA�Ȃ񂾂����܂ŁA�������ɂ�ł��܂�����Ȃ��́I<BR>�q�����āA�{���ɂ��킢������ˁ[�B�Ƃ�����A<BR>���߂łƂ��������܂��B�����񂪌��₩�Ɉ炿�܂��悤��(^^)<BR><BR>�{�҂́A�Ƃ肠�����u�Ƃ�������v���ȁ[�A�ƁB<BR>���̌オ�A�Ƃ��Ă��y���݂Ł[���B<BR>�ł�
+＞最後に本日（１１／１３）はうちの娘の３歳の誕生日でした。うふっ！<BR>＞ほんと大きくなりました。バンザイ！バンザイ！<BR><BR>本当に嬉しそうですね。なんか、まず、このコメントに触れたくて。<BR>だって、なんだか私まで、口元が緩んでしまうじゃないの！<BR>子供って、本当にかわいいからねー。ともあれ、<BR>おめでとうございます。娘さんが健やかに育ちますように(^^)<BR><BR>本編は、とりあえず「とっかかり」かなー、と。<BR>この後が、とっても楽しみでーす。<BR>では
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku/yaneura.htm" target="_blank">�g�h�j�t</a></strong>  <i>1999/11/21 11:03:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku/yaneura.htm" target="_blank">ＨＩＫＵ</a></strong>  <i>1999/11/21 11:03:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943149831sxwhk&id2=942711357iakjntp&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943149831sxwhk_id2_942711357iakjntp_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āA��×��Ԃ���A�g�h�j�t�ł��B<BR>���肪�Ƃ��������܂��B�ق�Ǝq������̂͑�����<BR>���X�A�q���̑���ɒǂ��Ă��܂��B<BR>�������A��������ł��ˁB<BR><BR>���[��Q���̕��͎���͌���҂ɂȂ�܂��B�����A��R����<BR>�\��͂Ȃ��̂łǂ��Ȃ���B<BR>�n��ȕ��˂Ŋ撣��܂��̂ŁA�܂��ǂ�ł���Ă��������I<BR>���ӂ��I<BR><BR><BR>
+初めまして、会津里花さん、ＨＩＫＵです。<BR>ありがとうございます。ほんと子供が育つのは早くて<BR>日々、子供の相手に追われています。<BR>しかし、いいもんですね。<BR><BR>えー第２部の方は時代は現代編になります。ただ、第３部の<BR>予定はないのでどうなるやら。<BR>貧弱な文才で頑張りますので、また読んでやってください！<BR>うふっ！<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">���Ȃ���</a></strong>  <i>1999/11/26 02:06:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">すなさん</a></strong>  <i>1999/11/26 02:06:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943549566kdmfgwj&id2=942711357iakjntp&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943549566kdmfgwj_id2_942711357iakjntp_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����X�A�q���̑���ɒǂ��Ă��܂��B<BR>���������A��������ł��ˁB<BR><BR>���̎�������ԉ����̂ł����E�E�E���ꂩ��͂��̂��Ƃ���<BR>�����󂳂ꂽ��N�������ł���������������������Ȃ��悤�ɒ��ӂ��Ȃ��ƁA�ˁB<BR>�����A�q���́u�Ȃ��H�v�ɂ͕K���������悤�ɂ��Ȃ��ƌ�ŏ\������Ă���q�����X�˂܂��̂ŏ\�����ӂ̂��Ƃ���舵���肢�܂��B<BR><BR>���Ė{�҂ł����A�u�M��v��{���ɐM���Ă�������Ȃ̂ŁA<BR>�ƂĂ������̂Ȃ��W�J�ɂȂ��Ă���܂��B<BR>�Ȃ��Ȃ��u�����v�Ƃ����Ă����������镨�ł͂Ȃ��ł�����B<BR>����ɂ����҂��܂��B
+＞日々、子供の相手に追われています。<BR>＞しかし、いいもんですね。<BR><BR>この時期が一番可愛いのですが・・・これからはそのことよりも<BR>物を壊されたりクレヨンであっちこっち落書きされないように注意しないと、ね。<BR>ただ、子供の「なぜ？」には必ず答えれるようにしないと後で十分育ってから子供が拗ねますので十分注意のことお取り扱い願います。<BR><BR>さて本編ですが、「祟り」を本当に信じていた時代なので、<BR>とても無理のない展開になっております。<BR>なかなか「書け」といわれてもそう書ける物ではないですから。<BR>次作にも期待します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku/yaneura.htm" target="_blank">�g�h�j�t</a></strong>  <i>1999/11/27 23:22:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku/yaneura.htm" target="_blank">ＨＩＫＵ</a></strong>  <i>1999/11/27 23:22:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943712538cxwelhu&id2=942711357iakjntp&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943712538cxwelhu_id2_942711357iakjntp_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ��񏉂߂܂��āB<BR>������ɂ����҂��܂��B <BR>�����肪�Ƃ��������܂��B<BR>�G�[��Q�����M�J�n���܂����B�����\���̕����͂�����ƌ��܂�Ȃ��̂ŋ�J���Ă��܂��B�܂�����������ǂ�ł���Ă��������ˁB<BR>�������A�ǂ�ȃR�����g�ł���҂ɂƂ��Ă͗�݂ɂȂ�܂��B<BR>�{�ƁA�L��������܂��B���ӂ��I
+すなさん初めまして。<BR>＞次作にも期待します。 <BR>＞ありがとうございます。<BR>エー第２部執筆開始しました。ただ構成の方がはっきりと決まらないので苦労しています。また完成したら読んでやってくださいね。<BR>しかし、どんなコメントでも作者にとっては励みになります。<BR>本と、有り難う御座います。うふっ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/short/tatari02.html" target="_blank">�M��@��Q��</a></strong>  <i>1999/12/04 01:51:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/short/tatari02.html" target="_blank">祟り　第２部</a></strong>  <i>1999/12/04 01:51:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944239905nhxgpg&id2=942711357iakjntp&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944239905nhxgpg_id2_942711357iakjntp_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ��ꕔ���畑��̓K�����ƕς���Č���B�ł��A�u�ցv���M��͔��������Ă���悤�ł��i�ւ����Ɂj�B���ꂩ���C�ɐ���オ�肻���ȋC�z�ł��ˁB
+【推薦文】 第一部から舞台はガラリと変わって現代。でも、「蛇」の祟りは尾を引いているようです（蛇だけに）。これから一気に盛り上がりそうな気配ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�l</a></strong>  <i>1999/12/04 13:18:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">Ｍ</a></strong>  <i>1999/12/04 13:18:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944281116ltkdscd&id2=942711357iakjntp&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944281116ltkdscd_id2_942711357iakjntp_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�S���ǂ߂܂����BError404�i�ӂ����邪����܂���j�ƌ����G���[���b�Z�[�W�Ɛg�Ɋo���̖����t�q�k���\������邾���ŁE�E�E�E�E�@--;;)
+全く読めませんよ。Error404（ふぁいるがありません）と言うエラーメッセージと身に覚えの無いＵＲＬが表示されるだけで・・・・・　--;;)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>1999/12/04 17:11:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>1999/12/04 17:11:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944295116cocod&id2=942711357iakjntp&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944295116cocod_id2_942711357iakjntp_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �S���ǂ߂܂����<BR><BR>����f���������܂��B<BR>���̂ق��Ŏ������Ƃ��됳��ɕ\�������悤�Ȃ̂ŁA�T�[�o�[�̂ق��ŉ����g���u���ł��������̂�������܂���B�i���܂̂Ƃ��댴���s���ł��B�j
+&gt; 全く読めませんよ<BR><BR>御迷惑おかけします。<BR>私のほうで試したところ正常に表示されるようなので、サーバーのほうで何かトラブルでもあったのかもしれません。（いまのところ原因不明です。）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku" target="_blank">�g�h�j�t</a></strong>  <i>1999/12/07 00:09:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku" target="_blank">ＨＩＫＵ</a></strong>  <i>1999/12/07 00:09:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944492974mhtnhi&id2=942711357iakjntp&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944492974mhtnhi_id2_942711357iakjntp_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�l����A���̌�ǂ߂܂����ł��傤���H<BR>��҂Ƃ��Ă����ɂȂ���̂ŁE�E�E�E<BR>�l�x�@�g�o�@����낵���ł��B
+Ｍさん、その後読めましたでしょうか？<BR>作者としてもきになるもので・・・・<BR>ＭＹ　ＨＰ　もよろしくです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">���Ȃ���</a></strong>  <i>1999/12/13 00:08:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">すなさん</a></strong>  <i>1999/12/13 00:08:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=945011311ggdthw&id2=942711357iakjntp&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_945011311ggdthw_id2_942711357iakjntp_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;���̂ق��Ŏ������Ƃ��됳��ɕ\�������悤�Ȃ̂ŁA�T�[�o�[�̂ق��ŉ����g���u���ł��������̂�������܂���B�i���܂̂Ƃ��댴���s���ł��B�j <BR><BR>���̎�̃g���u���̑唼�͓r���̒ʂ蓹�̃T�[�o�[����Q�𔭐������Ă���ꍇ�������ł��B<BR>�uping�v�R�}���h�������ꂽ��H<BR>�ڑ�������A<BR>ping &lt;������IP�A�h���X�i���̃R�}���h�͐����̂ݎ󂯕t���܂��j&gt;<BR>���̃R�}���h�œ˂����Ă݂�Α��̌����͉���ł��܂��B<BR><BR>�ŏ��̈�ۂ́u����ҁE���́v�̂悤�Ȋ��z���󂯂܂����B<BR>�����A�҂�����[���݂����B�i�[����D���I�j<BR>
+&gt;私のほうで試したところ正常に表示されるようなので、サーバーのほうで何かトラブルでもあったのかもしれません。（いまのところ原因不明です。） <BR><BR>この手のトラブルの大半は途中の通り道のサーバーが障害を発生させている場合も多いです。<BR>「ping」コマンドを試されたら？<BR>接続したら、<BR>ping &lt;ここのIPアドレス（このコマンドは数字のみ受け付けます）&gt;<BR>このコマンドで突っついてみれば大抵の原因は回避できます。<BR><BR>最初の印象は「現代編・序章」のような感想を受けました。<BR>何か、挽き割り納豆みたい。（納豆大好き！）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku" target="_blank">�g�h�j�t</a></strong>  <i>1999/12/13 22:41:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku" target="_blank">ＨＩＫＵ</a></strong>  <i>1999/12/13 22:41:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=945092465cxovsyb&id2=942711357iakjntp&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_945092465cxovsyb_id2_942711357iakjntp_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���A���������R�����g�Ղ����ɗL��������܂��B<BR>���ŏ��̈�ۂ́u����ҁE���́v�̂悤�Ȋ��z���󂯂܂����B<BR>�����ł��˂������ɂ��̂悤�Ȋ����ɂȂ��Ă��܂��܂����B<BR>�Ƃ����̂��A���̍�i��������Y�Ȃ�ł���ˁB�O�̍�i�ŗ͂����̂��ȁB�܂��A������Ǝ�������d���ʂł��낢��ƃv���b�V���[������܂��ĂˁB�܂����̐�ǂ��Ȃ邩�y���݂ɑ҂��Ă��Ă��������B<BR><BR>������ǂ݂������͓��z�[���y�[�W�ւ��z�����������B���M���ł��B<BR>
+すなさん、いつもいつもコメント戴き誠に有り難う御座います。<BR>＞最初の印象は「現代編・序章」のような感想を受けました。<BR>そうですねたしかにそのような感じになってしまいました。<BR>というのも、この作品すごい難産なんですよね。前の作品で力つきたのかな。まぁ、ちょっと私生活や仕事面でいろいろとプレッシャーがありましてね。まあこの先どうなるか楽しみに待っていてください。<BR><BR>続きを読みたい方は当ホームページへお越しください。執筆中です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���[��</strong>  <i>2000/04/24 19:42:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>おーま</strong>  <i>2000/04/24 19:42:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=956572968mxmux&id2=942711357iakjntp&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_956572968mxmux_id2_942711357iakjntp_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����u���̉��P�v�݂����ȁE�E�E<BR>�C������̂͋C�̂����ł��傤���B
+何か「物の怪姫」みたいな・・・<BR>気がするのは気のせいでしょうか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���[��</strong>  <i>2000/04/24 20:00:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>おーま</strong>  <i>2000/04/24 20:00:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=956574010qtshe&id2=942711357iakjntp&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_956574010qtshe_id2_942711357iakjntp_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��P���������āu���̉��P�v�݂����Ȃ�Č�����<BR>�����܂���B<BR>���񂲂����̂��݂ɂ��Ă܂��B
+第１部だけ見て「物の怪姫」みたいなんて言って<BR>すいません。<BR>こんごをたのしみにしてます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku" target="_blank">�g�h�j�t</a></strong>  <i>2000/05/26 22:40:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www3.plala.or.jp/hiku" target="_blank">ＨＩＫＵ</a></strong>  <i>2000/05/26 22:40:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=959348455wtanwfd&id2=942711357iakjntp&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_959348455wtanwfd_id2_942711357iakjntp_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[�܂���A���肪�Ƃ��������܂��B<BR>���炭�A������̃y�[�W�ɗ��Ȃ��ă`�F�b�N�R�ꂵ�Ă܂��āA<BR>�ǂ��������܂���ł����B<BR>�m���ɁA��ꕔ�́u���̉��P�v�����ɂ��Ă��܂��B<BR>��Q���ȍ~�����S�ȃI���W�i���ɂȂ��Ă��܂��B<BR>��R���ȍ~�́A������̓��e�K��Ɉ��������邽�߁A������ł̓A�b�v���Ă��܂���B��낵����΁A�g�h�j�t�̉����������ւ��z�����������B
+おーまさん、ありがとうございます。<BR>長らく、こちらのページに来なくてチェック漏れしてまして、<BR>どうもすいませんでした。<BR>確かに、第一部は「物の怪姫」を元にしています。<BR>第２部以降が完全なオリジナルになっています。<BR>第３部以降は、こちらの投稿規定に引っかかるため、こちらではアップしていません。よろしければ、ＨＩＫＵの屋根裏部屋へお越しください。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="942711357iakjntp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

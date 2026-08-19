@@ -1,12 +1,12 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>Ž„‚ÌƒIƒXƒXƒ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 
 <div align="right">
-[<a href="noteky.cgi?ff=on">ƒtƒŒ[ƒ€‚ðŽg‚í‚È‚¢</a>] [<a href="http://www14.big.or.jp/~yays/">EXIT</a>]
+[<a href="noteky@ff_on.cgi">ãƒ•ãƒ¬ãƒ¼ãƒ ã‚’ä½¿ã‚ãªã„</a>] [<a href="../../../~yays/index.html">EXIT</a>]
 </div>
 <font size="+2" color="#008080"><i>
 NOTE INDEX
@@ -19,52 +19,52 @@ NOTE INDEX
 <table cellpadding="10">
 <tr><td align="left">
 <input type="checkbox" name="0" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=0&ff=p">ƒIƒXƒXƒ¬à</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_0_ff_p.cgi">ã‚ªã‚¹ã‚¹ãƒ¡å°èª¬</a></strong></font>
 </td>
 <td align="left">
 <input type="checkbox" name="1" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=1&ff=p">­”NƒRƒ~ƒbƒN</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_1_ff_p.cgi">å°‘å¹´ã‚³ãƒŸãƒƒã‚¯</a></strong></font>
 </td>
 </tr>
 <tr><td align="left">
 <input type="checkbox" name="2" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=2&ff=p">­—ƒRƒ~ƒbƒN</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_2_ff_p.cgi">å°‘å¥³ã‚³ãƒŸãƒƒã‚¯</a></strong></font>
 </td>
 <td align="left">
 <input type="checkbox" name="3" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=3&ff=p">Â”NƒRƒ~ƒbƒN</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_3_ff_p.cgi">é’å¹´ã‚³ãƒŸãƒƒã‚¯</a></strong></font>
 </td>
 </tr>
 <tr><td align="left">
 <input type="checkbox" name="4" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=4&ff=p">¬”NƒRƒ~ƒbƒN</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_4_ff_p.cgi">æˆå¹´ã‚³ãƒŸãƒƒã‚¯</a></strong></font>
 </td>
 <td align="left">
 <input type="checkbox" name="5" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=5&ff=p">ƒQ[ƒ€</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_5_ff_p.cgi">ã‚²ãƒ¼ãƒ </a></strong></font>
 </td>
 </tr>
 <tr><td align="left">
 <input type="checkbox" name="6" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=6&ff=p">ƒAƒjƒ</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_6_ff_p.cgi">ã‚¢ãƒ‹ãƒ¡</a></strong></font>
 </td>
 <td align="left">
 <input type="checkbox" name="7" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=7&ff=p">‰f‘œì•iiƒAƒjƒˆÈŠOj</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_7_ff_p.cgi">æ˜ åƒä½œå“ï¼ˆã‚¢ãƒ‹ãƒ¡ä»¥å¤–ï¼‰</a></strong></font>
 </td>
 </tr>
 <tr><td align="left">
 <input type="checkbox" name="8" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=8&ff=p">‚»‚Ì‘¼ì•i</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_8_ff_p.cgi">ãã®ä»–ä½œå“</a></strong></font>
 </td>
 <td align="left">
 <input type="checkbox" name="9" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=9&ff=p">ŽG’kƒ{[ƒh</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_9_ff_p.cgi">é›‘è«‡ãƒœãƒ¼ãƒ‰</a></strong></font>
 </td>
 </tr>
 <tr><td align="left">
 <input type="checkbox" name="10" >
-<font size="+1"><strong><a href="noteky.cgi?c=noteopen&f=10&ff=p">ƒIƒ“ƒ‰ƒCƒ“ì•i</a></strong></font>
+<font size="+1"><strong><a href="noteky@c_noteopen_f_10_ff_p.cgi">ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ä½œå“</a></strong></font>
 </td>
 <td>
 <br>
@@ -75,17 +75,17 @@ NOTE INDEX
 <input type="hidden" name="ff" value="p">
 <table cellpadding="10" border="1">
 <tr bgcolor="#CCFFFF"><td>
-<font color="#0000FF">ˆêŠ‡–¢“ÇƒXƒLƒƒƒ“</font>
+<font color="#0000FF">ä¸€æ‹¬æœªèª­ã‚¹ã‚­ãƒ£ãƒ³</font>
 <br>
 <input type="text" name="d" value="1" maxlength="2" size="2">
-“ú‘O‚Ü‚Å <input type="submit" name="c" value="SCAN">
+æ—¥å‰ã¾ã§ <input type="submit" name="c" value="SCAN">
 </td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td>
-<font color="#0000FF">ƒA[ƒeƒBƒNƒ‹ŒŸõ</font>
-<small>i‚èž‚Ý‚Í”¼ŠpƒXƒy[ƒX" "‚Å‹æØ‚è‚Ü‚·</small>
-<br>ƒL[ƒ[ƒh : <input type="text" name="k" maxlength="40" size="20"><br>
+<font color="#0000FF">ã‚¢ãƒ¼ãƒ†ã‚£ã‚¯ãƒ«æ¤œç´¢</font>
+<small>çµžã‚Šè¾¼ã¿ã¯åŠè§’ã‚¹ãƒšãƒ¼ã‚¹" "ã§åŒºåˆ‡ã‚Šã¾ã™</small>
+<br>ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ : <input type="text" name="k" maxlength="40" size="20"><br>
 <input type="submit" name="c" value="SEARCH">
 </td>
 </tr>
@@ -94,7 +94,7 @@ NOTE INDEX
 <br>
 </form>
 <hr>
-[<a href="http://www14.big.or.jp/~yays/">EXIT</a>]
+[<a href="../../../~yays/index.html">EXIT</a>]
 <div align="right">
 <a href="http://www.vector.co.jp/authors/VA003637/" target="_blank">NOTE/KY</a>
 </div>

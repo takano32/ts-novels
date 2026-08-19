@@ -1,51 +1,51 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=960658519psgjq&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_960658519psgjq_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���̏�����؂肵�Ă����A���B</font><br>
+<font size="+2" color="#0000FF">この場をお借りしてご挨拶を。</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�n�����q</strong>  <i>2000/06/11 02:35:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>地獄王子</strong>  <i>2000/06/11 02:35:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=960658519psgjq&id2=960658519psgjq&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_960658519psgjq_id2_960658519psgjq_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��BOXER 6����<BR><BR>����ɂ��́A�n�����q�ł��B�@���M���̋C���]���ɍs�����̂g�o�������Ă�����A�����܂���������BOXER 6����̂����O��q������Ƃ͎v���܂���ł����B<BR>�����ٍ�t�o�܂ŏ����f���̍Œ��ł����A����́u�Ö������v�݂̂�ΏۂƂ���Ƃ������ƂŁi�΁j�����ǂ܂��Ă��������܂��B<BR>���z�͌�قǁc�c�B<BR><BR>�����d�F�l<BR><BR>�킽�����u��l�̂��߂̍Ö��p�v����Őق��������f�ڂ��Ă��������Ă���n�����q�Ɛ\���܂��B<BR>������̂g�o�͂悭��点�Ă��������Ă��܂����A���ʂƂ��s�r�E�ō���ł��ˁB�@����܂��܂��̔��W�����F�肵�Ă��܂��B<BR><BR>�����ؗl<BR><BR>�͂��߂܂��āA�n�����q�Ɛ\���܂��B<BR><BR>���E�ނ��ꂽ�Ƃ͂����s�r�E�̑�䏊�ł��点���錎�ؗl�̂����O�������ł����������悤�Ƃ́B<BR><BR>���̂悤�ȏꏊ�Ŕ��̋ɂ݂ł͂������܂����A�킽�����u�߈˂��́v������Ȃ�������҂ł������܂��āA�u�Ă������[�΁[�v�V���[�Y�̕������P�t�@���Ƃ��ĐS���炨�F��\���グ�鎟��ł������܂��B<BR>�Ԃ����Ȃ��肢�ł͂������܂����A���Ƃ��������͂��̒������肢�v���܂��B<BR><BR>����ł͂���Ŏ��炢�����܂��B<BR>
+＃BOXER 6さん<BR><BR>こんにちは、地獄王子です。　執筆中の気分転換に行きつけのＨＰを巡っていたら、あららまさかここでBOXER 6さんのお名前を拝見するとは思いませんでした。<BR>只今拙作ＵＰまで小説断ちの最中ですが、それは「催眠小説」のみを対象とするということで（笑）早速読ませていただきます。<BR>感想は後ほど……。<BR><BR>＃八重洲様<BR><BR>わたくし「大人のための催眠術」さんで拙い小説を掲載していただいている地獄王子と申します。<BR>こちらのＨＰはよく寄らせていただいていますが、質量ともＴＳ界最高峰ですね。　今後ますますの発展をお祈りしています。<BR><BR>＃月華様<BR><BR>はじめまして、地獄王子と申します。<BR><BR>ご勇退されたとはいえＴＳ界の大御所であらせられる月華様のお名前をここでお見かけしようとは。<BR><BR>このような場所で非礼の極みではございますが、わたくし「憑依もの」をこよなく愛する者でございまして、「ていくおーばー」シリーズの復活を１ファンとして心からお祈り申し上げる次第でございます。<BR>ぶしつけなお願いではございますが、何とぞお聞き届けの程をお願い致します。<BR><BR>それではこれで失礼いたします。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="960658519psgjq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

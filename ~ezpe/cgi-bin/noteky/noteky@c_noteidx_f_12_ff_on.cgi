@@ -1,153 +1,153 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#3/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#3/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
-<div align="right">[<a href="noteky.cgi?c=notebase&f=12&ff=on" >�V�����b�������</a>] 
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɂ��ǂ�</a>]</div>
-<font size="+2" color="#008080">�I�����C����i#3</font>
-<blockquote>���N�����M�������[�̍�i�ŁA�ǂ������Ǝv�����I�����C����i�ɃR�����g���B</blockquote>
+<div align="right">[<a href="noteky@c_notebase_f_12_ff_on.cgi" >新しく話題をつくる</a>] 
+[<a href="noteky@c_noteidx_f_12_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@_ff_on.cgi" >ノート一覧にもどる</a>]</div>
+<font size="+2" color="#008080">オンライン作品#3</font>
+<blockquote>少年少女ギャラリーの作品で、良かったと思ったオンライン作品にコメントを。</blockquote>
 <table width="100%" border="0">
 <tr bgcolor="#00CCFF">
 <th align="center" width="1%" nowrap>No.</th>
-<th align="center">�薼</th>
-<th align="center" width="1%" nowrap>�ŏI�X�V��</th>
-<th align="center">�ŐV�������e</th>
+<th align="center">題名</th>
+<th align="center" width="1%" nowrap>最終更新日</th>
+<th align="center">最新発言内容</th>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=960128819jahosx&ff=on" >1</a></td>
-<td align="center" nowrap>�܁A�܂񂴂�ł��Ȃ��Ȃ�</td>
+<a href="noteky@c_noteread_f_12_id_960128819jahosx_ff_on.cgi" >1</a></td>
+<td align="center" nowrap>ま、まんざらでもないなあ</td>
 <td align="center" nowrap>2000/06/09 21:12:23</td>
-<td nowrap>�����̎q�A���ɐ��������Ԃ��Ԃł����A�ǂ�...</td>
+<td nowrap>＞この子、妙に制服がだぶだぶですが、どう...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=960082785mdhlo&ff=on" >2</a></td>
-<td align="center" nowrap>�����̂��߂ɁA���̈�</td>
+<a href="noteky@c_noteread_f_12_id_960082785mdhlo_ff_on.cgi" >2</a></td>
+<td align="center" nowrap>明日のために、その一</td>
 <td align="center" nowrap>2000/06/10 00:35:01</td>
-<td nowrap>���Ȃ���A�A���Ŋ��z�L��������܂�</td>
+<td nowrap>すなさん、連続で感想有難うございます</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=959107869thuvl&ff=on" >3</a></td>
-<td align="center" nowrap>�X�J�[�g��!!</td>
+<a href="noteky@c_noteread_f_12_id_959107869thuvl_ff_on.cgi" >3</a></td>
+<td align="center" nowrap>スカートが!!</td>
 <td align="center" nowrap>2000/06/10 00:03:57</td>
-<td nowrap>���Ȃ���A���z�L��������܂��B</td>
+<td nowrap>すなさん、感想有難うございます。</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=959107832jbnjmc&ff=on" >4</a></td>
-<td align="center" nowrap>�ǁ[���Ă��O��!?</td>
+<a href="noteky@c_noteread_f_12_id_959107832jbnjmc_ff_on.cgi" >4</a></td>
+<td align="center" nowrap>どーしてお前は!?</td>
 <td align="center" nowrap>2000/06/09 17:30:53</td>
-<td nowrap>�����`��A�����N�̊G������Ă���悤���B...</td>
+<td nowrap>うう～ん、ムンクの絵画を見ているようだ。...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=958869123rboxs&ff=on" >5</a></td>
-<td align="center" nowrap>�e�X�g���e</td>
+<a href="noteky@c_noteread_f_12_id_958869123rboxs_ff_on.cgi" >5</a></td>
+<td align="center" nowrap>テスト投稿</td>
 <td align="center" nowrap>2000/05/21 10:17:36</td>
-<td nowrap>�e�X�g���{���ł��B</td>
+<td nowrap>テスト実施中です。</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=958788398fnaarw&ff=on" >6</a></td>
+<a href="noteky@c_noteread_f_12_id_958788398fnaarw_ff_on.cgi" >6</a></td>
 <td align="center" nowrap>RBTS</td>
 <td align="center" nowrap>2000/05/21 05:30:15</td>
-<td nowrap>���e���肻�낦�Ă���܂��E�E�E</td>
+<td nowrap>＞各種取りそろえております・・・</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=958401883mdhlo&ff=on" >7</a></td>
-<td align="center" nowrap>�����]���q</td>
+<a href="noteky@c_noteread_f_12_id_958401883mdhlo_ff_on.cgi" >7</a></td>
+<td align="center" nowrap>月下転生Ｒ</td>
 <td align="center" nowrap>2000/05/21 22:14:23</td>
-<td nowrap>�F����A���肪�Ƃ��������܂��I�I</td>
+<td nowrap>皆さん、ありがとうございます！！</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=957785113qditcr&ff=on" >8</a></td>
-<td align="center" nowrap>�����āA�ӂ���́c</td>
+<a href="noteky@c_noteread_f_12_id_957785113qditcr_ff_on.cgi" >8</a></td>
+<td align="center" nowrap>そして、ふたりは…</td>
 <td align="center" nowrap>2000/05/14 12:45:34</td>
-<td nowrap>���c����A���z���肪�Ƃ��������܂�</td>
+<td nowrap>原田さん、感想ありがとうございます</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=957077224jqksvw&ff=on" >9</a></td>
-<td align="center" nowrap>A PLASTIC MAIDEN �` �������� �`</td>
+<a href="noteky@c_noteread_f_12_id_957077224jqksvw_ff_on.cgi" >9</a></td>
+<td align="center" nowrap>A PLASTIC MAIDEN ～ 半分少女 ～</td>
 <td align="center" nowrap>2000/05/29 12:29:39</td>
-<td nowrap>���Ȃ���A���������N����A���c���炳��</td>
+<td nowrap>すなさん、いしがき哲さん、原田聖也さん</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=955386185jwjaiav&ff=on" >10</a></td>
-<td align="center" nowrap>���P!!�@�s���N�n�E�X</td>
+<a href="noteky@c_noteread_f_12_id_955386185jwjaiav_ff_on.cgi" >10</a></td>
+<td align="center" nowrap>強襲!!　ピンクハウス</td>
 <td align="center" nowrap>2000/04/11 02:13:30</td>
-<td nowrap>�y�킦�I�s���N�n�E�X�z���́u�x���N�����v...</td>
+<td nowrap>【戦え！ピンクハウス】私の「ベロクロン」...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=955383618harfyi&ff=on" >11</a></td>
-<td align="center" nowrap>���̐g�̂��A�Ԃ����I�@�`�������ܕϊ����@</td>
+<a href="noteky@c_noteread_f_12_id_955383618harfyi_ff_on.cgi" >11</a></td>
+<td align="center" nowrap>俺の身体っ、返せっ！　～ただいま変換中　</td>
 <td align="center" nowrap>2000/04/22 18:38:49</td>
-<td nowrap>���킢�[�B</td>
+<td nowrap>かわいー。</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=955122971jahosx&ff=on" >12</a></td>
-<td align="center" nowrap>�����I �}�W�ł����I</td>
+<a href="noteky@c_noteread_f_12_id_955122971jahosx_ff_on.cgi" >12</a></td>
+<td align="center" nowrap>えっ！ マジですか！</td>
 <td align="center" nowrap>2000/04/28 20:45:48</td>
-<td nowrap>���������E�E�E�E</td>
+<td nowrap>あうあう・・・・</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=955122944mdhlo&ff=on" >13</a></td>
-<td align="center" nowrap>�V���[�Y�֎q���̂T</td>
+<a href="noteky@c_noteread_f_12_id_955122944mdhlo_ff_on.cgi" >13</a></td>
+<td align="center" nowrap>シリーズ椅子その５</td>
 <td align="center" nowrap>2000/04/08 13:42:37</td>
-<td nowrap>�y���E���z��ɐV������������͍����Â�...</td>
+<td nowrap>【推薦文】常に新しい方向性を模索しつづけ...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=954763707kmknj&ff=on" >14</a></td>
-<td align="center" nowrap>���ȁE�}�W�b�N�V���[</td>
+<a href="noteky@c_noteread_f_12_id_954763707kmknj_ff_on.cgi" >14</a></td>
+<td align="center" nowrap>らんな・マジックショー</td>
 <td align="center" nowrap>2000/04/03 21:08:27</td>
-<td nowrap>��͂�A���̕����������m�ł́A</td>
+<td nowrap>やはり、肉体部分交換モノでは、</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=954564937byoqi&ff=on" >15</a></td>
-<td align="center" nowrap>���Q</td>
+<a href="noteky@c_noteread_f_12_id_954564937byoqi_ff_on.cgi" >15</a></td>
+<td align="center" nowrap>旅２</td>
 <td align="center" nowrap>2000/05/14 23:58:23</td>
 <td nowrap>|</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=953913953pxtbu&ff=on" >16</a></td>
+<a href="noteky@c_noteread_f_12_id_953913953pxtbu_ff_on.cgi" >16</a></td>
 <td align="center" nowrap>Clone Brother</td>
 <td align="center" nowrap>2000/04/14 02:47:25</td>
-<td nowrap>�Ȃ񂩂���A</td>
+<td nowrap>なんかこれ、</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=952398018bynmpj&ff=on" >17</a></td>
-<td align="center" nowrap>�􂢂̐����l�`�i�΁j</td>
+<a href="noteky@c_noteread_f_12_id_952398018bynmpj_ff_on.cgi" >17</a></td>
+<td align="center" nowrap>呪いの生き人形（笑）</td>
 <td align="center" nowrap>2000/04/24 01:44:48</td>
-<td nowrap>�m�����Ȕ������~�N�����f�B�n</td>
+<td nowrap>［小さな美少女ミクロレディ］</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=951947451ixtmq&ff=on" >18</a></td>
+<a href="noteky@c_noteread_f_12_id_951947451ixtmq_ff_on.cgi" >18</a></td>
 <td align="center" nowrap>MAGIC BOX EX</td>
 <td align="center" nowrap>2000/03/02 06:50:51</td>
-<td nowrap>�y���E���z�M�������[�j�㏉�́AKISS�v���O...</td>
+<td nowrap>【推薦文】ギャラリー史上初の、KISSプログ...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=12&id=951087580rabfmym&ff=on" >19</a></td>
-<td align="center" nowrap>�܂ف`��RIBBON!</td>
+<a href="noteky@c_noteread_f_12_id_951087580rabfmym_ff_on.cgi" >19</a></td>
+<td align="center" nowrap>まほ～のRIBBON!</td>
 <td align="center" nowrap>2000/02/27 22:07:24</td>
-<td nowrap>�ǂ����A���̂��т͎��̂��Ȃ��G�ɂ��b��...</td>
+<td nowrap>どうも、このたびは私のつたない絵にお話を...</td>
 </tr>
-</table><p>[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɂ��ǂ�</a>]</p></body></html>
+</table><p>[<a href="noteky@_ff_on.cgi" >ノート一覧にもどる</a>]</p></body></html>

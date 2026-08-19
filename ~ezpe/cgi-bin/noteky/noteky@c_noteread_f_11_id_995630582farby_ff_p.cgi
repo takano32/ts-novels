@@ -1,86 +1,86 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=995630582farby&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_995630582farby_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">Irregular�@Girl(s)�@No�D3</font><br>
+<font size="+2" color="#0000FF">Irregular　Girl(s)　No．3</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on" target="_blank">�ȑO(No.2)�̊��z�͂�����</a></strong>  <i>2001/07/20 21:03:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_987955317flhkt_ff_on.cgi" target="_blank">以前(No.2)の感想はこちら</a></strong>  <i>2001/07/20 21:03:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995630582farby&id2=995630582farby&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995630582farby_id2_995630582farby_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ȑO�̊��z�͂�����B<BR>&lt;a href="<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on"&gt;" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on"&gt;</a>�yNo.1�z&lt;/a&gt;&lt;a href="<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on"&gt;" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on"&gt;</a>�yNo.2�z&lt;/a&gt;<BR>
+これより以前の感想はこちら。<BR>&lt;a href="<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on"&gt;" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on"&gt;</a>【No.1】&lt;/a&gt;&lt;a href="<a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on"&gt;" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on"&gt;</a>【No.2】&lt;/a&gt;<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admin@ts.novles.jp" target="_blank">�낳�񁗏��N��������</a></strong>  <i>2001/07/20 21:08:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admin@ts.novles.jp" target="_blank">ろさん＠少年少女文庫</a></strong>  <i>2001/07/20 21:08:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995630912yiesjhh&id2=995630582farby&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995630912yiesjhh_id2_995630582farby_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������[�B���s�B�C����蒼���Ă�蒼���B<BR><BR>�ȑO�̊��z�͂�����ɂ���܂��B<BR>�yNo.1�z<BR><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on</a><BR>�yNo.2�z<BR><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on</a><BR>
+あちゃー。失敗。気を取り直してやり直し。<BR><BR>以前の感想はこちらにあります。<BR>【No.1】<BR><a href="noteky@c_noteread_f_11_id_987955317flhkt_ff_on.cgi" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=987955317flhkt&ff=on</a><BR>【No.2】<BR><a href="noteky@c_noteread_f_11_id_991489266xkncee_ff_on.cgi" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on</a><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=994776448jfovsv&ff=on" target="_blank">���c��R�f���͂�����</a></strong>  <i>2001/07/20 21:42:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_994776448jfovsv_ff_on.cgi" target="_blank">元祖第３掲示板はこちら</a></strong>  <i>2001/07/20 21:42:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995632922rrbxs&id2=995630582farby&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995632922rrbxs_id2_995630582farby_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���́[�A���ɑ�R�f���A����Ă��ł����ǁE�E�E�B<BR>���Ȃ݂ɃA�h���X�͂�����B<BR><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=994776448jfovsv&ff=on" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=994776448jfovsv&ff=on</a><BR>�i���b�Ă��ǎҁj
+あのー、既に第３掲示板、回ってるんですけど・・・。<BR>ちなみにアドレスはこちら。<BR><a href="noteky@c_noteread_f_11_id_994776448jfovsv_ff_on.cgi" target="_blank">http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=994776448jfovsv&ff=on</a><BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admin@ts.novels.jp" target="_blank">�낳�񁗏��N��������</a></strong>  <i>2001/07/20 22:04:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admin@ts.novels.jp" target="_blank">ろさん＠少年少女文庫</a></strong>  <i>2001/07/20 22:04:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995634296abdpyt&id2=995630582farby&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995634296abdpyt_id2_995630582farby_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����I���@�ł��܂���ł����B
+あう！発掘できませんでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/07/21 10:16:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/07/21 10:16:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995678166hllpvy&id2=995630582farby&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995678166hllpvy_id2_995630582farby_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�낳��l<BR>��������J�l�ł��B<BR>���b�Ă��ǎҗl�ɁA����Ă��炿����Ă܂����B<BR>��Q�f���ɁA�܂��]�T���������̂ŁA��������g�킳���Ē����Ă��܂����B<BR>���b�Ă��ǎҗl�A�낳��l�A�����Ȃ���A�����f���������āA�\���󂠂�܂���B�����āA���肪�Ƃ��������܂��B
+ろさん様<BR>いつもご苦労様です。<BR>世話焼き読者様に、作ってもらちゃってました。<BR>第２掲示板に、まだ余裕があったので、そちらを使わさせて頂いていました。<BR>世話焼き読者様、ろさん様、いつもながら、ご迷惑をかけして、申し訳ありません。そして、ありがとうございます。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="995630582farby">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

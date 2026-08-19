@@ -1,86 +1,86 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=10&id=945156454aujbh&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_10_id_945156454aujbh_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">[GALLERY] MAGIC BOX ���̂R</font><br>
+<font size="+2" color="#0000FF">[GALLERY] MAGIC BOX その３</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art41.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/12/14 16:27:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art41.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/12/14 16:27:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=945156454aujbh&id2=945156454aujbh&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_945156454aujbh_id2_945156454aujbh_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���ƂԂ��t�������ӂ̃}�W�b�N�{�b�N�X�E�l�^�I�@����̋����̂��˂�����̃{�f�B���C�ɂȂ�Ƃ���ł��B
+【推薦文】 ことぶき師匠お得意のマジックボックス・ネタ！　左上の金髪のおねいさんのボディが気になるところです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">ZERO</a></strong>  <i>2000/04/02 01:29:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=954606551dloloul&id2=945156454aujbh&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_954606551dloloul_id2_945156454aujbh_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������C�ɂȂ�Ƃ���ł��B����ւ����ʂɍs�������<BR>�}�W�b�N�{�b�N�X�����ďC�����I���܂Ŗ߂�Ȃ��Ȃ����肵�āB<BR>�Ƃ���Ō����N������ւ����������Č��G�̂ǂ̖��Ȃ񂾂낤�c<BR><BR>
+続きが気になるところです。入れ替えを大量に行った後に<BR>マジックボックスが壊れて修理が終わるまで戻れなくなったりして。<BR>ところで健治君が入れ替わった相手って元絵のどの娘なんだろう…<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="gedoh@gundam.com" target="_blank">�_�藺</a></strong>  <i>2000/04/05 02:40:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="gedoh@gundam.com" target="_blank">神崎亮</a></strong>  <i>2000/04/05 02:40:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=954870001whjebwr&id2=945156454aujbh&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_954870001whjebwr_id2_945156454aujbh_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�c�b�R�~�ł��B�����d�F����<BR>���ƂԂ�����̊G���炷��ƁA����̋����̂��˂�����̓{�b�N�X�́u���������v�ɂ���݂����ł�(��)�B
+ツッコミです。＞八重洲さん<BR>ことぶきさんの絵からすると、左上の金髪のおねいさんはボックスの「向こう側」にいるみたいです(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">���Ȃ���</a></strong>  <i>2000/04/24 02:00:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">すなさん</a></strong>  <i>2000/04/24 02:00:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=956509217tyqcg&id2=945156454aujbh&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_956509217tyqcg_id2_945156454aujbh_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ւ����ʂɍs������Ƀ}�W�b�N�{�b�N�X������<BR>���C�����I���܂Ŗ߂�Ȃ��Ȃ����肵�āB<BR><BR>�����A�^�邳��ӂ�Ȃ�u�C�����������߂�Ȃ��Ȃ�v<BR>�Ƃ���������������̂ł́H<BR><BR>���������΁A�u��̃X�Q�ւ��l�^�v���āA<BR>�̂̎��㌀�ɂ͌��\�������悤�ȋL��������܂��B<BR>��T�́u���̈�v�Ɓ����̃X�Q�ւ��ł������B<BR>
+＞入れ替えを大量に行った後にマジックボックスが壊れて<BR>＞修理が終わるまで戻れなくなったりして。<BR><BR>多分、真城さん辺りなら「修理が利かず戻れなくなる」<BR>という書き方をするのでは？<BR><BR>そういえば、「首のスゲ替えネタ」って、<BR>昔の時代劇には結構あったような記憶があります。<BR>大概は「くの一」と＊＊のスゲ替えでしたが。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��p</strong>  <i>2000/12/28 21:25:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>鱧Ｑ</strong>  <i>2000/12/28 21:25:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=978006343jrlxbmn&id2=945156454aujbh&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_978006343jrlxbmn_id2_945156454aujbh_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āB�����������`�̂s�r���́A�������Ă��Ȃ��Ȃ��Ȃ��̂ŁA�����Ɗ撣���Ăق����ł��B���߂ď������ނƂ��������Ƃ��������߁A������ȕ\������������������܂��񂪁A���e�͂��������B
+はじめまして。こういった形のＴＳ物は、さがしてもなかなかないので、もっと頑張ってほしいです。初めて書きこむといったことをしたため、ご無礼な表現があったかもしれませんが、ご容赦ください。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="945156454aujbh">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

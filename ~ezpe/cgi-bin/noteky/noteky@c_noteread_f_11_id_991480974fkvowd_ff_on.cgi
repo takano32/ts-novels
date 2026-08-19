@@ -1,332 +1,332 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=991480974fkvowd&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_991480974fkvowd_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
 <font size="+2" color="#0000FF">an-nyaro</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2001/06/02 20:22:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2001/06/02 20:22:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991480974fkvowd&id2=991480974fkvowd&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991480974fkvowd_id2_991480974fkvowd_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�����ɂɏ��o��̃W�j����ł��I�@�V���v���ȃX�g�[���[�Ȃ���A��������؂Ȃ����c�c�B�F��H�@����Ƃ��c�c�H
+【推薦文】当文庫に初登場のジニさんです！　シンプルなストーリーながら、何かしら切なさが……。友情？　それとも……？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���b�Ă��ǎ�</strong>  <i>2001/06/02 22:38:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>世話焼き読者</strong>  <i>2001/06/02 22:38:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991489080mcdde&id2=991480974fkvowd&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991489080mcdde_id2_991480974fkvowd_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������́A�������ɁH
+入り口は、いずこに？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/06/03 19:58:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花</strong>  <i>2001/06/03 19:58:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991565927tyxqe&id2=991480974fkvowd&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991565927tyxqe_id2_991480974fkvowd_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���݂܂��[��A�܂��C���f�b�N�X�ɔ��f���ĂȂ��̂ł�!!<BR>���V�ĉ^�c�ψ��̗��Ԃ�聄
+すみませーん、まだインデックスに反映してないのです!!<BR>＜新米運営委員の里花より＞
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2k.novel.ac/~cgitest/library/novel/200106/02204626/an-nyaro.html" target="_blank">��i��ǂނɂ͂������N���b�N�I</a></strong>  <i>2001/06/04 12:59:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2k.novel.ac/~cgitest/library/novel/200106/02204626/an-nyaro.html" target="_blank">作品を読むにはここをクリック！</a></strong>  <i>2001/06/04 12:59:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991627172bvvlwb&id2=991480974fkvowd&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991627172bvvlwb_id2_991480974fkvowd_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z ��w�R�N�ɂȂ����S���A����͍������J�T�ȓ����߂������Ƃ��Ă����c�c<BR>�y�R�����g�z �Ȃ�ƂȂ������Ă��܂��܂����B�G���x�Ⴕ�c�c�B <BR>�y���E���z �����ɂɏ��o��̃W�j����ł��I�@�V���v���ȃX�g�[���[�Ȃ���A��������؂Ȃ����c�c�B�F��H�@����Ƃ��c�c�H<BR>�y�W�������z �V���[�g�V���[�g �t <BR>�y��ʁz ���ޕs�\<BR>�y�L�[���[�h�z �I������ <BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>�����[�c�c�@�C���f�b�N�X(���C���y�[�W)���X�V����̂��A���̂Ƃ���ǂ����Ă����܂������Ȃ��̂ŁA���}��������������Ă��������ȁB<BR>m(__)m
+【あらすじ】 大学３年になった４月、おれは今日も憂鬱な日を過ごそうとしていた……<BR>【コメント】 なんとなく書いてしまいました。萌え度低し……。 <BR>【推薦文】 当文庫に初登場のジニさんです！　シンプルなストーリーながら、何かしら切なさが……。友情？　それとも……？<BR>【ジャンル】 ショートショート 青春 <BR>【種別】 分類不能<BR>【キーワード】 オレっ娘 <BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>ううー……　インデックス(メインページ)を更新するのが、今のところどうしてもうまくいかないので、取り急ぎここから入ってくださいな。<BR>m(__)m
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/04 23:03:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/04 23:03:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991663384xctfa&id2=991480974fkvowd&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991663384xctfa_id2_991480974fkvowd_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӂ��A����Ɠǂ߂���<BR>�Ȃ��Ȃ��ʔ��������ł��B����ρA���񂾔��̗F�l���p��ς��Č��ꂽ��A�M�����܂����˂��B��l�����m��Ȃ����Ƃ𗅗񂷂�E�E�E����A��Ԃł��ˁi�΁j�B<BR>����A������ł��A��ˁH�y���݂ł��B<BR><BR>�C���f�b�N�X�y�[�W�X�V���@�̃}�j���A�����ĂȂ���ł����H<BR>�V�ĉ^�c�ψ��̈���ꓬ���s���ŕs���ŁB
+ふう、やっと読めた♪<BR>なかなか面白かったです。やっぱ、死んだ筈の友人が姿を変えて現れたら、信じられませんよねぇ。二人しか知らないことを羅列する・・・これ、定番ですね（笑）。<BR>これ、続くんです、よね？楽しみです。<BR><BR>インデックスページ更新方法のマニュアルってないんですか？<BR>新米運営委員の悪戦苦闘が不憫で不憫で。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ԁ���l�����v�̈�����</strong>  <i>2001/06/05 08:13:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花＠一人だけ要領悪いの</strong>  <i>2001/06/05 08:13:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991696429euviw&id2=991480974fkvowd&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991696429euviw_id2_991480974fkvowd_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���V�ĉ^�c�ψ��̈���ꓬ���s���ŕs���ŁB  <BR>�����B<BR>����͌���ł����`���B<BR>�݂�Ȃ���Ȃ�ł���悤�ɂȂ��Ă���̂ɁA����l�A�Ȃ񂩈��ݍ��݂����������ł����`�B(;_;)
+＞新米運営委員の悪戦苦闘が不憫で不憫で。  <BR>あわわ。<BR>それは誤解ですぅ～っ。<BR>みんなすんなりできるようになっているのに、私一人、なんか飲み込みが悪いだけですぅ～。(;_;)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/05 19:54:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/05 19:54:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991738461edqre&id2=991480974fkvowd&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991738461edqre_id2_991480974fkvowd_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W�j���񏉂߂܂��āE�E���낢�邩�ł��B<BR>�����[�����������ǂ݂܂�����<BR><BR>���񂾗F�l�̑z���o�����������Ă����l��<BR>�����ɏ��̎q������ėF�l�{�l���ƌ����Ă���ɂ͐M�����܂���ˁB<BR>���̂��b���ė썰�̓���ւ��Ȃ�ł��傤���H�B<BR>�ϐg�Ɋւ��Ă̓�͎��񖾂������񂾂낤�ȁB<BR>���̌�Q�l�̊֌W�͂ǂ��Ȃ�̂��ȁE�E�E�E���҂����҂��Ă܂��ˁ�<BR>
+ジニさん初めまして・・しろいるかです。<BR>ａｎーｎｙａｒｏ読みました♪<BR><BR>死んだ友人の想い出を引きずっている主人公<BR>そこに女の子が現れて友人本人だと言っても俄には信じられませんね。<BR>このお話って霊魂の入れ替わりなんでしょうか？。<BR>変身に関しての謎は次回明かされるんだろうな。<BR>この後２人の関係はどうなるのかな・・・・続編を期待してますね♪<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/06/05 23:13:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/06/05 23:13:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991750419xwwca&id2=991480974fkvowd&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991750419xwwca_id2_991480974fkvowd_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W�j����A�����ł��B<BR>���[��A�Ō�̕��͐؂Ȃ����`����Ă��܂��ˁB<BR>�M���Ă��炢�������ǐM���Ă��炦�Ȃ��L�C����̋C�������ɂ������ł��B<BR>���҂��y���݂ł��B
+ジニさん、お初です。<BR>うーん、最後の方は切なさが伝わってきますね。<BR>信じてもらいたいけど信じてもらえない広海さんの気持ちが痛かったです。<BR>続編が楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i������</strong>  <i>2001/06/06 00:05:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ナモモン</strong>  <i>2001/06/06 00:05:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991753534mivnnu&id2=991480974fkvowd&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991753534mivnnu_id2_991480974fkvowd_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�Ђ낪�����Ȃ���A�r�؂�r�؂�Ɍ���ʂɊ����ł��B<BR>�Ђ�̗��ߍ���ł����h�����ɂ��قǂ킩��܂��E�E�E�B
+ああ、ひろが泣きながら、途切れ途切れに語る場面に感動です。<BR>ひろの溜め込んでいた辛さが痛いほどわかります・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/06 20:49:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/06 20:49:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991828199byoevj&id2=991480974fkvowd&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991828199byoevj_id2_991480974fkvowd_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ђ�݌N�i�����j�͂ǂ����č��̑̂ɂȂ����̂��B<BR>�߈˂Ƃ��A���܂�ς��Ƃ����낢�댴���͎v�����̂ł����A<BR>����������Đ��������A�ǎ҂̑z���ɂ܂����Ă��邠���肪�����ł��ˁB<BR>�`��ȕ��̂���ۂɎc��܂����B<BR>���ꂩ��̐V��ɂ����҂��Ă��܂��B
+ひろみ君（ちゃん）はどうして今の体になったのか。<BR>憑依とか、生まれ変わりとかいろいろ原因は思いつくのですが、<BR>それを敢えて説明せず、読者の想像にまかせているあたりがいいですね。<BR>饒舌な文体も印象に残りました。<BR>これからの新作にも期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�W�j</strong>  <i>2001/06/06 22:23:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ジニ</strong>  <i>2001/06/06 22:23:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991833790djoyjh&id2=991480974fkvowd&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991833790djoyjh_id2_991480974fkvowd_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�킴�킴�ǂ�ŉ��������F����A�^�ɗL��������܂��ł��B<BR>�����A�����I����Șb�̑����ł��ǂ݂����Ȃ��A�Ǝv���Ă������������������̂ł���΁A<BR>���A�����Ă���Œ��ł����A<BR>�o���オ�������ɂ͂�����ɓ��e���Ă݂悤�Ǝv���܂��B<BR>�����āA��������č�i�������Ă݂ĕ��������Ȃ̂ł����A<BR>�ǂ�ŉ��������F����̊��z������قǊ��������̂��Ƃ͎v���܂���ł����B<BR>�d�ˏd�ˌ���\���グ�܂��ł��B<BR>�ق�ƗL��������܂��B
+わざわざ読んで下さった皆さん、真に有難うございますです。<BR>もし、もし！こんな話の続きでも読みたいなぁ、と思っていらっしゃる方がおられるのであれば、<BR>今、書いている最中ですが、<BR>出来上がった時にはこちらに投稿してみようと思います。<BR>そして、こうやって作品を書いてみて分った事なのですが、<BR>読んで下さった皆さんの感想がこれほど嬉しいものだとは思いませんでした。<BR>重ね重ね御礼を申し上げますです。<BR>ほんと有難うございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/07200912/an-nyaro2.html" target="_blank">��i��ǂނɂ͂������N���b�N�I</a></strong>  <i>2001/06/07 20:24:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/07200912/an-nyaro2.html" target="_blank">作品を読むにはここをクリック！</a></strong>  <i>2001/06/07 20:24:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991913060rqvdsu&id2=991480974fkvowd&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991913060rqvdsu_id2_991480974fkvowd_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�^�C�g���z�@an-nyaro��Q�b<BR>�y���炷���z�@�����Ƃ������́A����̈ꐶ������Â���Œ�ň��ȓ����ƁA����͒ɐ؂Ɋ�����̂������c�c<BR>�y�R�����g�z�@�x�N�g�����ς�����Ⴂ�܂����`��@�ǂ߂Ε����邯�ǁA���Ȃ���Ă���܁`���B��b�Ƃ͒��������͋C�c�c�A�ǂ�����������Ō��Ă���ĉ�����(^^;;;<BR>�y�W�������z�@�t�@(�������Ȃ̂Łu�V���[�g�V���[�g�v�͂��)<BR>(���A��P�b�Ɠ���)<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>����������Q�b���`�`�`�B�u�x�N�g�����c�c�v�Ƃ������Ⴂ�܂����A����͂���łȂ��Ȃ��B
+【タイトル】　an-nyaro第２話<BR>【あらすじ】　今日という日は、おれの一生を決定づける最低最悪な日だと、おれは痛切に感じるのだった……<BR>【コメント】　ベクトルが変わっちゃいました～♪　読めば分かるけど、かなり壊れておりま～す。一話とは程遠い雰囲気……、どうか温かい眼で見てやって下さい(^^;;;<BR>【ジャンル】　青春　(続き物なので「ショートショート」はやめ)<BR>(他、第１話と同じ)<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>さっそく第２話が～～～。「ベクトルが……」とおっしゃいますが、これはこれでなかなか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:bgml@lisa.novel.ac" target="_blank">�^�c�ψ���</a></strong>  <i>2001/06/07 20:26:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:bgml@lisa.novel.ac" target="_blank">運営委員会</a></strong>  <i>2001/06/07 20:26:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991913173adjfb&id2=991480974fkvowd&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991913173adjfb_id2_991480974fkvowd_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �����������閧�c�c(^^;�@�������ɍ�҂���̂��������Ƃ����@�ł��A�`�ʂ����A����@���̃��A�����������o���u�؂Ȃ��v�����݁c�c
+【推薦文】 今明かされる秘密……(^^;　たしかに作者さんのおっしゃるとおり♪　でも、描写がリアル♪　そのリアルさが醸し出す「切なさ」も健在……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�ikagerou6���񖽖��j</a></strong>  <i>2001/06/07 23:08:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（kagerou6さん命名）</a></strong>  <i>2001/06/07 23:08:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991922884njcvk&id2=991480974fkvowd&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991922884njcvk_id2_991480974fkvowd_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Q�b<BR>��A�����ȁA�����<BR>�e�F�i���F�H�j���A��킩���g���̐l���l�ԂɂȂ��āA�������`���ɁH<BR>�����p���[����ׂ��i�΁j�B�Ȃ������I�Ɏn�܂铯���i�΁j�����ґ�B<BR>����܂����҂��y���݁�
+＞第２話<BR>わ、いいな、これ♪<BR>親友（悪友？）が、訳わからん組成の人造人間になって、しかも義妹に？<BR>女性パワー恐るべし（笑）。なし崩し的に始まる同棲（笑）が期待大。<BR>これまた続編が楽しみ♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/07 23:44:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/07 23:44:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991925063wwotgw&id2=991480974fkvowd&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991925063wwotgw_id2_991480974fkvowd_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����<BR>�s�v�c�Ȃ��b�ł��ˁB���̎q�ɂ�����ꂽ�̂̓}�b�h�ȑc���̎�ł��傤���H�B<BR>�Ђ낭����z�B���񂾐e�F�̐l���l�ԉ��Ɉ��R�Ƃ����l���B<BR>���ꂩ��̓����������Ăǂ��Ȃ����Ⴄ�̂��ȁH�B<BR>���������Œ��w���E�E�E�E���Z�����撣���āI<BR><BR>���̂Ђ낭��̃C���[�W�̓A�j���́u�L���[�e�B�[�E�n�j�[�v���ĂƂ����ȁH�B<BR>�ł��A�n�j�[�E�t���b�V�����Ă̂͂��Ȃ���ˁi�΁j<BR>���҂𑁂������҂��Ă܂��ˁ�
+読みました♪<BR>不思議なお話ですね。女の子にさせられたのはマッドな祖父の趣味でしょうか？。<BR>ひろくん可哀想。死んだ親友の人造人間化に唖然とする主人公。<BR>これからの同棲生活ってどうなっちゃうのかな？。<BR>しかも妹で中学生・・・・お兄ちゃん頑張って！<BR><BR>このひろくんのイメージはアニメの「キューティー・ハニー」ってとこかな？。<BR>でも、ハニー・フラッシュってのはやらないよね（笑）<BR>続編を早くも期待してますね♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/07 23:58:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/07 23:58:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991925935jqvrje&id2=991480974fkvowd&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991925935jqvrje_id2_991480974fkvowd_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ȃ���A���̘b�͈�b�����̂ق����������낢���ȁc���Ďv���Ă܂����B<BR>�ł��A������Q�b��ǂ�ł݂�ƁA����Ȍ��O�͂ǂ��ւ��Ƃ�ł����܂����B<BR>��l���ƂЂ낭��̊�Ȑ����Ԃ�A�������낭�Ȃ肻���ł��ˁB<BR>��R�b�ł̐V���ȓW�J�A���҂��Ă܂��B
+失礼ながら、この話は一話完結のほうがおもしろいかな…って思ってました。<BR>でも、いざ第２話を読んでみると、そんな懸念はどこへやらとんでいきました。<BR>主人公とひろくんの奇妙な生活ぶり、おもしろくなりそうですね。<BR>第３話での新たな展開、期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/06/08 01:18:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>鐸碑</strong>  <i>2001/06/08 01:18:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991930735itunqx&id2=991480974fkvowd&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991930735itunqx_id2_991480974fkvowd_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ�Č������A�C�L��������<BR>�O�����ǂ�Ȋ��������Ă݂����C�����邵<BR>���w���������Ă݂����C������B<BR>�W�j����A���񑱂������肢���܂�
+なんて言うか、海広ちゃん可愛い<BR>外見がどんな感じか見てみたい気もするし<BR>中学生活を見てみたい気もする。<BR>ジニさん、是非続きをお願いします
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/06/08 06:58:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991951122xjfdok&id2=991480974fkvowd&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991951122xjfdok_id2_991480974fkvowd_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ƂĂ��y�����ǂ܂��Ă��������܂����B<BR>�Ȃ񂾂��A���ꂩ��ǂ��b�������Ă����̂��A�S��<BR>�ǂ߂Ȃ��̂łƂĂ��C�ɂȂ�܂��B<BR>�����A���Ȃ��Ƃ��A��l�����Ђ낿���Ɉ����~���񂳂��<BR>�W�J�͊ԈႢ�Ȃ��悤�ł��ˁB<BR>���ꂩ��Ђ낿��񂪂ǂ��Ȃ��Ă����̂��y���݂ɂ��Ă܂��B
+とても楽しく読ませていただきました。<BR>なんだか、これからどう話が続いていくのか、全く<BR>読めないのでとても気になります。<BR>ただ、少なくとも、主人公がひろちゃんに引っ掻き回される<BR>展開は間違いないようですね。<BR>これからひろちゃんがどうなっていくのか楽しみにしてます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/06/09 01:11:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/06/09 01:11:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992016662qgyqmm&id2=991480974fkvowd&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992016662qgyqmm_id2_991480974fkvowd_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂��Ă��������܂����B���������ʔ����Ȃ肻���ȗ\�������܂��B<BR>�Ђ낿���͉��͈ȊO�ɂ�����ȗ͂������Ă����ł��ˁB<BR>�Ȃ񂾂����̂����Ђ������Ǝg����悤�ɂȂ��Ă��肵�����ł��B<BR>������҂��Ă܁`���B
+読ませていただきました。すっごく面白くなりそうな予感がします。<BR>ひろちゃんは怪力以外にも特殊な力を持ってそうですね。<BR>なんだかそのうちひょっこりと使えるようになってたりしそうです。<BR>次回期待してま～す。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2001/06/09 09:36:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2001/06/09 09:36:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992047019yugio&id2=991480974fkvowd&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992047019yugio_id2_991480974fkvowd_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����`���b����ǂ����ǂ��Ȃ��Ă��̓W�J�Ɂ`�H�@(��)<BR><BR>��Ȑ������������}�b�h�Ȃ��c������ɂĂ�Ă������������鑷���Ă�����ŁA<BR>�`�����s�I���ɘA�ڒ��́u����`�܂��́v���v���o�����Ⴂ�܂����B<BR>���`���������ŐU��񂳂�Ă邩�Ǝv���Ƃ��킢�`�ł��ˁ`�B
+あぁ～第一話からどこがどうなってこの展開に～？　(笑)<BR><BR>奇妙な生き物を扱うマッドなお祖父さんにてんてこ舞いさせられる孫っていうんで、<BR>チャンピオンに連載中の「しゅ～まっは」を思い出しちゃいました。<BR>あ～いう感じで振り回されてるかと思うとかわい～ですね～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:geni@jcom.home.ne.jp" target="_blank">�W�j</a></strong>  <i>2001/06/13 20:58:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:geni@jcom.home.ne.jp" target="_blank">ジニ</a></strong>  <i>2001/06/13 20:58:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992433518vsoyn&id2=991480974fkvowd&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992433518vsoyn_id2_991480974fkvowd_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ���A���z�A�ǂ������肪�Ƃ��������܂��B(�K�K)(�B �B )�y�R�b<BR><BR>�ӊO�ɂ��A�Q�b�ڂ����\�󂯂͗ǂ������݂����ł��ˁB<BR>�͂����茾���āA�F���񂩂�_���o�������Ǝv���Ƃ�܂�����B<BR>����`�A���������A��������(~_~;)<BR><BR>���݁A��R�b������Ƃ�r���ł��B���Ԃ�A������������܂��B<BR>�����ĊF����Ɍ����Ă����܂��I<BR>���؂�܂��I�@�F����̊��҂𗠐؂��Ă݂��܂��I�i�ǂ��Ӗ��ł͂Ȃ��Ǝv���Ƃ��ĉ������ȁj���߂�Ȃ����ˁA���؂�������āB<BR><BR>�Ƃ܂��A����Ȋ����Ŏ���͂�낵���ł��B
+みなさん、感想、どうもありがとうございます。(゜゜)(。 。 )ペコッ<BR><BR>意外にも、２話目も結構受けは良かったみたいですね。<BR>はっきり言って、皆さんからダメ出しされると思っとりましたよ。<BR>いや～、えがった、えがった(~_~;)<BR><BR>現在、第３話を作っとる途中です。たぶん、も少しかかります。<BR>そして皆さんに言っておきます！<BR>裏切ります！　皆さんの期待を裏切ってみせます！（良い意味ではないと思っといて下さいな）ごめんなさいね、裏切っちゃって。<BR><BR>とまあ、そんな感じで次回はよろしくです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�W�j</strong>  <i>2001/06/15 19:49:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ジニ</strong>  <i>2001/06/15 19:49:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992602175gfrgos&id2=991480974fkvowd&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992602175gfrgos_id2_991480974fkvowd_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ�Ƃ����o�J�ȃ~�X���A�uan-nyaro���b�v�ɂ�<BR>����܂����̂ŁA�����̕񍐂��������Ǝv���܂��B<BR>���`�A�{���Ȃ����ƍL�C�N�͑�w�O�N���́u�Q�P�΁v�ł���ˁB<BR>�u�Q�O�΁v�Ə����Ă��܂��Ă����̂ŁA<BR>���Ԃ���Ɂu�Q�P�΁v�ƒ������Ē����܂����B<BR>����Ȍ`�ň����Ƃ͎v���܂������l�ѐ\���グ�܂��BM(__)M
+なんともおバカなミスが、「an-nyaro第一話」にて<BR>ありましたので、訂正の報告をしたいと思います。<BR>え～、本当なら一樹と広海君は大学三年生の「２１歳」ですよね。<BR>「２０歳」と書いてしまっていたので、<BR>里花さんに「２１歳」と訂正して頂きました。<BR>こんな形で悪いとは思いますがお詫び申し上げます。M(__)M
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">����</a></strong>  <i>2001/06/16 18:50:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jackie-matthews@syd.odn.ne.jp" target="_blank">里花</a></strong>  <i>2001/06/16 18:50:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992685037iaaib&id2=991480974fkvowd&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992685037iaaib_id2_991480974fkvowd_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����[�A�����̂ɁB<BR>�Ƃ������Ă��邤���ɁA��R�b�o��!!<BR>������ҏW�ł����`��
+あらー、いいのに。<BR>とか言っているうちに、第３話登場!!<BR>今から編集ですぅ～♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/16215723/an-nyaro3.html" target="_blank">��R�b��ǂނɂ͂������N���b�N�I</a></strong>  <i>2001/06/17 08:34:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/16215723/an-nyaro3.html" target="_blank">第３話を読むにはここをクリック！</a></strong>  <i>2001/06/17 08:34:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992734489gydfuh&id2=991480974fkvowd&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992734489gydfuh_id2_991480974fkvowd_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�^�C�g���z�@an-nyaro��Q�b<BR>�y���炷���z ������Ă���Ȃɒ������̂Ȃ̂��c�c�B<BR>�y�R�����g�z �ӂ��A���̘b�A�ǂ�ǂ���Ă����܂��˂��c�c�B���͂�C���s�\�ł���(~_~;)<BR>�y���E���z �|�����b�����D���Ȃ̂ˁ�@�ł��A�S�̂���芪���؂Ȃ������݁c�c�@�j�āA���b�͉����֍s���̂��B�ڂ������܂���B<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>�Ƃ����킯�ŁA�f�ڂ��܂�������
+【タイトル】　an-nyaro第２話<BR>【あらすじ】 一日ってこんなに長いものなのか……。<BR>【コメント】 ふぅ、この話、どんどん壊れていきますねぇ……。もはや修正不能ですね(~_~;)<BR>【推薦文】 ポン○ッ○が好きなのね♪　でも、全体を取り巻く切なさも健在……　嗚呼、お話は何処へ行くのか。目が離せません。<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>というわけで、掲載しましたよん♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/17 20:55:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/17 20:55:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992778931qgjjw&id2=991480974fkvowd&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992778931qgjjw_id2_991480974fkvowd_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>���A�ʔ����I<BR>�Ȃ�Łu�J���H�|���N�B�b�N�B�v�i�΁j<BR>�Ȃ�Łu���b�L���v�i���j<BR>�������A�u���b�L���v���Z�N�V�[���o����ɕϐg�H<BR>�Ȃ񂾂��ꔲ���ɖʔ������B<BR>���񂪑҂��������������I
+読みました。<BR>お、面白え！<BR>なんで「開く？ポンクィックィ」（笑）<BR>なんで「ムッキュ」（爆）<BR>しかも、「ムッキュ」がセクシーお姉さんに変身？<BR>なんだか底抜けに面白いぞ。<BR>次回が待ち遠しいぃぃぃ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/06/18 22:20:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/06/18 22:20:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992870415avpvgr&id2=991480974fkvowd&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992870415avpvgr_id2_991480974fkvowd_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��A�o�b�`�O�[�ł��B<BR>���A���������m�����čD���ł��i�΁j<BR>�������̐������Ă��ꂩ���i�Ɖ��Ă��������ł��ˁB<BR>������y���݂ɂ��Ă܂���B
+うーん、バッチグーです。<BR>私、こういうノリって好きです（笑）<BR>一樹さんの生活ってこれから一段と壊れていきそうですね。<BR>次回も楽しみにしてますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/25004353/an-nyaro4.html" target="_blank">��S�b��ǂނɂ͂������N���b�N�I </a></strong>  <i>2001/06/25 01:37:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/25004353/an-nyaro4.html" target="_blank">第４話を読むにはここをクリック！ </a></strong>  <i>2001/06/25 01:37:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993400637aqeanq&id2=991480974fkvowd&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993400637aqeanq_id2_991480974fkvowd_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�^�C�g���z�@an-nyaro��S�b<BR>�y���炷���z ����͎��ԂԂ��ɃR���r�j�ɍs�����Ƃɂ����c�c<BR>�y�R�����g�z ����͂����ł���`��@�Ȃ񂿂���āc�c�B<BR>���A�e�������Ȃ����Ⴂ�܂����c�c�B�N�̉e���͓ǂ�ł݂ĉ�����΂킩��Ǝv���܂��c�c�B<BR>���AHP�̃A�h���X���ς������ł��`�B�ǂ����A��������c�c�ˁH <BR>�y���E���z �Ȃ�ƁA����Ƃ��̖����}�ڋ߁c�c�H�@���l�������Ȃ��ƌ�����(^^;<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>�����`�`��A���܂łƈ�����Ӗ��Łu�؂Ȃ��v�̂ˁ[�A����N����
+【タイトル】　an-nyaro第４話<BR>【あらすじ】 おれは時間つぶしにコンビニに行くことにした……<BR>【コメント】 今回はいいですよ～♪　なんちゃって……。<BR>か、影が薄くなっちゃいました……。誰の影かは読んでみて下さればわかると思います……。<BR>あ、HPのアドレスが変わったんです～。どうぞ、こちらも……ね？ <BR>【推薦文】 なんと、一樹とあの娘が急接近……？　＜人騒がせなこと言うな(^^;<BR>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>うう～～ん、今までと違った意味で「切ない」のねー、一樹クン♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/25 02:04:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/25 02:04:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993402284tovjuwp&id2=991480974fkvowd&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993402284tovjuwp_id2_991480974fkvowd_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[���A�����̂��A����ŁH���̏I�����ŁH�i�΁j<BR>����[�A�������A�������̂��A�������Ȃ��̂��A�킩��܂���ȁA����i���j�B
+読んだバイ♪<BR>おーい、いいのか、これで？この終わり方で？（笑）<BR>いやー、しかし、嬉しいのやら、嬉しくないのやら、わかりませんな、これ（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/06/25 11:49:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/06/25 11:49:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993437355eelch&id2=991480974fkvowd&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993437355eelch_id2_991480974fkvowd_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂���1�b����A���ŁB<BR>�Ȃ��Ȃ�����������������Ă܂��ˁB�X�g�[���[�^�т�������<BR>����͊��҂ł��B<BR>�Ō�̏I�����A�����񂶂�Ȃ��́i�΁j<BR>�������A�J���|�����L�ɐ��E�Ƃ́E�E�E
+読みました1話から連続で。<BR>なかなかいい書きかたされてますね。ストーリー運びもいいし<BR>これは期待です。<BR>最後の終わり方、いいんじゃないの（笑）<BR>しかし、開けポン＊キに世界とは・・・
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="991480974fkvowd">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

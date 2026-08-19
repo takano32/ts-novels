@@ -1,52 +1,52 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�Q�[��/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ゲーム/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=5&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_5_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=5&id=946122863ekdvsr&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=5&ff=on">�Q�[��</a>]<br>
+[<a href="noteky@c_noteread_f_5_id_946122863ekdvsr_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_5_ff_on.cgi">ゲーム</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�w������������</font><br>
+<font size="+2" color="#0000FF">Ｘｃｈａｎｇｅ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/12/25 20:54:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/12/25 20:54:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=946122863ekdvsr&id2=946122863ekdvsr&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_946122863ekdvsr_id2_946122863ekdvsr_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�w������������<BR>�b���������@�v�������������X�T�p<BR>�����܂ŁA���ʂ���A���j�̎q�̏��̃R�𔄂蕶��ɂ�����i��<BR>���ꂪ���߂Ăł��낤�A��X�܂ŁA�F�X�Ɖe����^����<BR>�d�v�ȍ�i�B<BR>�A�j���h��Ƃ��������D�������̕ʂ��G���Ȃ����<BR>�h�b�g�̃M�U���ڗ����Ȃ��ȂǁA������Ƃ����d�グ�ɂ�<BR>�D�������Ă�B<BR>���ꂾ���ɁA���ʁA�X�g�[���[�̎コ�Ƃ������������ڂɂ����Ƃ�<BR>�Ȃ��Ă��܂����B<BR>���蕶��̂P�ɁA�S�b�f�̂W���ȏオ�g�V�[���Ƃ����̂�<BR>�������̂����A�͂����肢���āA�������̂��̂́A<BR>�����Ƃ��Ă��A�����đ����Ȃ��B<BR>�g�Ȃb�f�̊����������ƌ������A�g����Ȃ��b�f���܂߂�<BR>�S�b�f���̂��̂����ȖڂƂ������Ƃ炵���̂͏�Ȃ��B<BR>���̂g����Ȃ��b�f�����Ȃ��ƌ������Ƃ́A�X�g�[���[��<BR>�Q�[�����ɗ���ł��āA���ɁA�Q�[�����̎コ�A<BR>�I�����̑唼���A����ɉe�����y�ڂ���<BR>�e��������I�����́A���̂܂܁A�G���f�B���O�ɒ��s�^�C�v<BR>�Ȃ̂́A�Q�[������啝�ɍ킢�ł��܂��Ă���B<BR>�d�q�m�x���Y���邢�͓d�q�R�~�b�N�Ƃ��Ă݂邱�Ƃ�<BR>�ł��邪�A�����Ȃ�ƁA�V�C�W�O�O�~�Ƃ����艿��<BR>�Ó��Ȃ��̂��ǂ����́A�^�₪�c��B<BR>�܂��A�g�Ȃb�f�����������ƌ������Ƃ́A�X�g�[���[���̂��̂�<BR>�g�ȃV�[�����������Ƃɑ��Ȃ�Ȃ��B<BR>���l�́A�g��D���h�ł��邪�A�g�����ȕ���Ƃ����̂�<BR>��͂�ʔ����⃁���n���Ɍ�����B<BR>�g�V�[���Ƃ́A����̒��̏����Ȕ����ł���A<BR>�����炱���ʔ����Ƃ����̂��A���̎��_�����ɁA<BR>���ꂾ���ɁA������������ɔ����΂��肾�ƁA<BR>�����̃C���t�����N�����Ă��܂��̂��B<BR>��l���̕������A�����A�����A����������<BR>�o���G�[�V�����Ɍ�����̂́A�ʔ����Ɍ�����B<BR>��A�}���`�G���f�B���O�Ȃ̂͂悢��<BR>���e�ɂ���ăe�L�X�g�����ŁA�b���I��点��̂́A<BR>�v���Ƃ��Ď蔲���Ƃ����Ă��A�d�����Ȃ��B
+Ｘｃｈａｎｇｅ<BR>Ｃｒｏｗｄ　Ｗｉｎｄｏｗｓ９５用<BR>ここまで、正面から、元男の子の女のコを売り文句にした作品は<BR>これが初めてであろう、後々まで、色々と影響を与えた<BR>重要な作品。<BR>アニメ塗りという多少好き嫌いの別れる絵柄ながらも<BR>ドットのギザも目立たないなど、きちんとした仕上げには<BR>好感が持てる。<BR>それだけに、反面、ストーリーの弱さというか薄さが目につくことに<BR>なってしまった。<BR>売り文句の１つに、全ＣＧの８割以上がＨシーンというのが<BR>あったのだが、はっきりいって、枚数そのものは、<BR>当時としても、決して多くない。<BR>ＨなＣＧの割合が多いと言うより、ＨじゃないＣＧを含めた<BR>全ＣＧそのものが少な目ということらしいのは情けない。<BR>このＨじゃないＣＧが少ないと言うことは、ストーリーや<BR>ゲーム性に絡んできて、特に、ゲーム性の弱さ、<BR>選択肢の大半が、流れに影響を及ぼさず<BR>影響がある選択肢は、そのまま、エンディングに直行タイプ<BR>なのは、ゲーム性を大幅に削いでしまっている。<BR>電子ノベルズあるいは電子コミックとしてみることも<BR>できるが、そうなると、７，８００円という定価が<BR>妥当なものかどうかは、疑問が残る。<BR>また、ＨなＣＧだけが多いと言うことは、ストーリーそのものの<BR>Ｈなシーンが多いことに他ならない。<BR>私個人は、Ｈ大好き派であるが、Ｈだけな物語というのは<BR>やはり面白さやメリハリに欠ける。<BR>Ｈシーンとは、日常の中の小さな非日常であり、<BR>だからこそ面白いというのが、私の持論だけに、<BR>それだけに、日常を書かずに非日常ばかりだと、<BR>非日常のインフレが起こってしまうのだ。<BR>主人公の服装も、制服、下着、水着だけと<BR>バリエーションに欠けるのは、面白味に欠ける。<BR>後、マルチエンディングなのはよいが<BR>内容によってテキストだけで、話を終わらせるのは、<BR>プロとして手抜きといわれても、仕方がない。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="5">
 <input type="hidden" name="id" value="946122863ekdvsr">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=5&ff=on">�Q�[��</a>]<br>
+[<a href="noteky@c_noteidx_f_5_ff_on.cgi">ゲーム</a>]<br>
 
 </p>
 </body>

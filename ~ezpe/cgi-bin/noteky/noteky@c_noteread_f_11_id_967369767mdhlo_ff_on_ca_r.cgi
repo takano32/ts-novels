@@ -1,23 +1,23 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=967369767mdhlo&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_967369767mdhlo_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
 <font size="+2" color="#0000FF">SYMPHONY OF HARDROCK2</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>2000/08/27 18:49:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>2000/08/27 18:49:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=967369767mdhlo&id2=967369767mdhlo&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_967369767mdhlo_id2_967369767mdhlo_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING
@@ -25,117 +25,117 @@ NOW PRINTING
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200008/27185222/simphony_of_hardrock2.html" target="_blank">��i�͂������N���b�N</a></strong>  <i>2000/09/08 20:17:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200008/27185222/simphony_of_hardrock2.html" target="_blank">作品はここをクリック</a></strong>  <i>2000/09/08 20:17:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=968411839nolkbq&id2=967369767mdhlo&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_968411839nolkbq_id2_967369767mdhlo_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���Z����̃o���h�����B���͗F�l������Ă�̂����ڂŌ��Ă������ł������A��������Ȋ����������ȂƉ��������v���o���܂����B���肦�Ȃ��ϐg��`���Ă���̂ɕs�v�c�ƃ��A���Ȕ��G��̃o���h����ł��B
+【推薦文】 高校時代のバンド活動。私は友人がやってるのを横目で見てただけでしたが、ああこんな感じだったなと懐かしく思い出しました。ありえない変身を描いているのに不思議とリアルな肌触りのバンド物語です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��</strong>  <i>2000/09/14 00:03:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あ</strong>  <i>2000/09/14 00:03:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=968857384icvcip&id2=967369767mdhlo&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_968857384icvcip_id2_967369767mdhlo_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������Ȃ���i�Ȃ�āA��񂵌�񂵁I�I<BR>�Ƃ��v���āA��ԍŌ�Ɏc�����񂾂��ǁA<BR>���O�A�ʔ�����i�ł��ˁB<BR>���Ɋi�D�ǂ������߂Ēj�ɂȂ�������ǁA�j�炵��������ɂ�<BR>����Ȃ�̋�J���K�v�Ƃ���������A�Ȃ��Ȃ��[�����̂����������܂��B<BR>�������n��TS���Ă̂̓t�@���^�W�[�ɂȂ肪���ł����A���̍�i��<BR>�t���s�����ƂŁA�t���̂Ƃ�����ۂ�N��ɑł��o���Ă����<BR>�����܂����B�w�ǃo���G�[�V�������o�s���������Ɏv����TS��i���A<BR>�����������_���ƐV�N�ɂȂ���ĂƂ���ł��傤���B
+♂→♀じゃない作品なんて、後回し後回し！！<BR>とか思って、一番最後に残ったんだけど、<BR>存外、面白い作品ですね。<BR>特に格好良さを求めて男になったけれど、男らしく生きるには<BR>それなりの苦労が必要というあたり、なかなか深いものを感じさせます。<BR>♂→♀系のTSってのはファンタジーになりがちですが、この作品は<BR>逆を行くことで、青春ものという印象を鮮烈に打ち出していると<BR>感じました。殆どバリエーションも出尽くしたかに思えるTS作品も、<BR>こういう視点だと新鮮になるってところでしょうか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g�h�x�t�j�h</strong>  <i>2000/09/15 22:56:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＨＩＹＵＫＩ</strong>  <i>2000/09/15 22:56:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969026184wjpvxyp&id2=967369767mdhlo&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969026184wjpvxyp_id2_967369767mdhlo_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���@�����<BR>�ǂ�Œ����Ă��肪�Ƃ��������܂��B<BR>���̍�i�́A�X�g�[���[�̃����n�������܂�Ȃ���i�ł����A<BR>�����ɖʔ��������Ă����΁A��Җ����ɂ��܂��ˁI�I<BR>��A�o���G�[�V�����I�ɂ́A�����������S�����Ė�łȂ��A<BR>������R���Z�v�g�ƂƂ��ĉ��y�������������Ǝv���Ă܂��B<BR>����̂���������������A�X�����肢�܂��B
+あ　さんへ<BR>読んで頂いてありがとうございます。<BR>この作品は、ストーリーのメリハリがあまりない作品ですが、<BR>そこに面白さを見てくれれば、作者冥利につきますね！！<BR>後、バリエーション的には、小説部分が全部って訳でなく、<BR>これをコンセプトととして音楽をくっつけたいと思ってます。<BR>それのｈｐが完成したら、宜しく願います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2000/09/16 21:35:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あさ</strong>  <i>2000/09/16 21:35:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969107726jfdob&id2=967369767mdhlo&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969107726jfdob_id2_967369767mdhlo_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����j�̕ϐg����D���Ȏ��Ƃ��Ă͂Ƃ��Ă��y�����ǂ߂܂����B<BR>���̎q�ł͂��h�����ƁA�̕`�ʂȂ񂩂��Ƃ��Ă������ł��܂����B<BR>���[�A�������[�������Ƃ��P�l�œ����Ă݂�����[<BR>
+女→男の変身物大好きな私としてはとっても楽しく読めました。<BR>女の子ではし辛いこと、の描写なんかもとっても共感できました。<BR>うー、私もラーメン屋とか１人で入ってみたいよー<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g�h�x�t�j�h</strong>  <i>2000/09/17 01:16:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＨＩＹＵＫＩ</strong>  <i>2000/09/17 01:16:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969120969qhdltd&id2=967369767mdhlo&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969120969qhdltd_id2_967369767mdhlo_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������<BR>�ǂ�Œ����Ă��肪�Ƃ��������܂��B<BR>�����łłĂ���̂͋g���Ȃ�ł����ǁA<BR>���ہA�������s���ƂƂ�ł��Ȃ����₶�����܂���A�㔼�g���Ƃ��i�΁j<BR>�����̕�����l�ł����̂͊m���ɃL�c�C�ł��ˁB<BR>���ƍs���Ĉ�l�ōs���₷���t�@�[�X�g�t�[�h�X�Ȃ񂩂ɂ�����<BR>�i���p���Ă�����Č����Ă�l�Ȃ��̂����I<BR>������ւ�͒j�̕����C�y���ȁI
+あささんへ<BR>読んで頂いてありがとうございます。<BR>劇中ででてくるのは吉牛なんですけど、<BR>実際、朝早く行くととんでもないおやじがいますよ、上半身裸とか（笑）<BR>女性の方が一人でいくのは確かにキツイですね。<BR>かと行って一人で行きやすいファーストフード店なんかにいくと<BR>ナンパしてくれって言ってる様なものだし！<BR>ここらへんは男の方が気楽かな！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/" target="_blank">���d�F</a></strong>  <i>2000/09/17 05:29:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/index.html" target="_blank">八重洲</a></strong>  <i>2000/09/17 05:29:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969136195pxhjypk&id2=967369767mdhlo&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969136195pxhjypk_id2_967369767mdhlo_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������A����ɂ��́B�Ǘ��l�Ƃ�������Ɏ҂̔��d�F�ł��B<BR>���N�������ɂɂ������̓ǎ҂��񂪂���ƕ������ĂЂƈ��S�ł��B�䑶�m��������܂��񂯂ǁA�������烊���N���Ă镗�Օ��ɂ���ɂ͏��̎q���j�̎q�̕ϐg������������܂���B<BR><BR>�m�荇���̏��������[�������Ƌg�����肽���̂ɓ���Ȃ��W�����}�������āA�悭���X�ɂ����킳��܂��B���̒m�荇���͐����؂�Ă����̂��ŋ߂ł͈�l�ł��X�ɓ���悤�ɂȂ����܂����ǁB�i�΁j
+あささん、こんにちは。管理人というか主宰者の八重洲です。<BR>少年少女文庫にも女性の読者さんがいると分かってひと安心です。御存知かもしれませんけど、うちからリンクしてる風祭文庫さんには女の子→男の子の変身物が多数ありますよ。<BR><BR>知り合いの女性もラーメン屋と吉牛入りたいのに入れないジレンマがあって、よくお店につき合わされます。その知り合いは吹っ切れてきたのか最近では一人でも店に入るようになりつつありますけど。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.alles.or.jp/~yurico/minori/pw02m_main.html" target="_blank">�����݂̂�</a></strong>  <i>2000/09/23 02:04:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.alles.or.jp/~yurico/minori/pw02m_main.html" target="_blank">足立みのり</a></strong>  <i>2000/09/23 02:04:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969642266rupbs&id2=967369767mdhlo&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969642266rupbs_id2_967369767mdhlo_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[�[�[��<BR>���z�ƌ��������C�����ƌ�������<BR>�Ȃ�Đ\���グ�ėǂ��񂾂�^^;
+うーーーん<BR>感想と言おうか，符合と言おうか<BR>なんて申し上げて良いんだか^^;
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ڂ�����</strong>  <i>2000/09/23 14:37:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ぼけ里花</strong>  <i>2000/09/23 14:37:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969687440gmrngkj&id2=967369767mdhlo&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969687440gmrngkj_id2_967369767mdhlo_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������=&gt;�i����@�ǂ������ˁI<BR>�j�̎q�������Łu���ׂ��l�v��������B<BR>�X�e�L�ł��ˁB<BR>����ɂ��Ă��A�n�[�h���b�N�n�́u�������v���A���[�A�E�P���E�P��!!<BR>���C���̕`�ʂ��A�X�e�[�W�̏ォ��̎��_���}�j�A�b�N�ł������<BR>HIYUKI���[��A������x�A�Z�b�V�������悤�ˁ�<BR>(���A�ł��A���A�u���̑D�v�����ł��Ȃ����ǁc�c)<BR>���͏��̃x�[�V�X�g��@���������܂ŁA�肪�Ƃ��Ă��f�b�J�C��(^^;!!<BR>(�u���q���R�K�l���V�v��������A�R���̂Q���炢�͒e���邯�ǁAP.M.����͂���Ȃɏ�肶��Ȃ�����R�s�[���ȒP�Ȃ̂�ˁG�u����E�}�v�̃j���A���X���o���ɂ͂���Ȃ�̒��ӂ��K�v�Ȃ񂾂���)
+つかさちゃん=&gt;司くん　良かったね！<BR>男の子が自分で「護るべき人」を見つける。<BR>ステキですね。<BR>それにしても、ハードロック系の「頭文字」が、もー、ウケたウケた!!<BR>ライヴの描写も、ステージの上からの視点がマニアックでいいわ♪<BR>HIYUKIさーん、いつか一度、セッションしようね♪<BR>(う、でも、私、「鉛の船」しかできないけど……)<BR>私は女のベーシスト♪　おかげさまで、手がとってもデッカイの(^^;!!<BR>(「拍子兼コガネムシ」だったら、３分の２ぐらいは弾けるけど、P.M.さんはそんなに上手じゃないからコピーが簡単なのよね；「下手ウマ」のニュアンスを出すにはそれなりの注意も必要なんだけど)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g�h�x�t�j�h</strong>  <i>2000/09/24 10:37:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＨＩＹＵＫＩ</strong>  <i>2000/09/24 10:37:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969759453ojapty&id2=967369767mdhlo&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969759453ojapty_id2_967369767mdhlo_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂̂肳��ցA<BR>�n�b�L���Ƃ����N���]�����Ȃ��ƁA���z�Ȃ�ď����ɂ����ł���ˁI<BR>�ǂ�ł���Ă��肪�Ƃ��I<BR><BR>���Ԃ����<BR>�������A����͒m���Ă���l�����j���b�Ƃ���悤�ȉB�����ł��ˁB<BR>�����m��Ȃ�������ē��e�����ɂȂ�킯�ł͂Ȃ��ł����I<BR>�悩������A���L�̃A�h���X�Ɏ��̂g�o������܂��̂ŁA<BR>�����ŉ�����Ă܂��̂ŋX�����I<BR>�Z�b�V���������̓R�s�[���Ȃ�ł���I<BR>���b�h�c�F�y�����Ȃ�ň�Ȃ��o���Ȃ��ł���<BR>�������o���h����A����Ă��̂��x�[�X�ŃO���C�ƃr�[�Y�΂����肾���I<BR>�肪�傫��������͑傫�ȃA�h�o���e�[�W�ł���I<BR>���y��ɂƂ��Ă���قǗL���Ȃ��Ƃ͂���܂���I<BR>�}�W�őA�܂����I�I�I<BR><a href="http://www.geocities.co.jp/Hollywood-Theater/5572/concept/concept.htm" target="_blank">http://www.geocities.co.jp/Hollywood-Theater/5572/concept/concept.htm</a>
+みのりさんへ、<BR>ハッキリとした起承転結がないと、感想なんて書きにくいですよね！<BR>読んでくれてありがとう！<BR><BR>里花さんへ<BR>頭文字、これは知っている人だけニヤッとするような隠し味ですね。<BR>これを知らないからって内容が問題になるわけではないですし！<BR>よかったら、下記のアドレスに私のＨＰがありますので、<BR>そこで解説してますので宜しく！<BR>セッション＞私はコピー苦手なんですよ！<BR>レッドツェペリンなんで一曲も出来ないですし<BR>しかもバンド時代、やってたのがベースでグレイとビーズばっかりだし！<BR>手が大きい＞これは大きなアドバンテージですよ！<BR>弦楽器にとってこれほど有利なことはありません！<BR>マジで羨ましい！！！<BR><a href="http://www.geocities.co.jp/Hollywood-Theater/5572/concept/concept.htm" target="_blank">http://www.geocities.co.jp/Hollywood-Theater/5572/concept/concept.htm</a>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="967369767mdhlo">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

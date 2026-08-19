@@ -5,13 +5,13 @@
 
 <BODY BGCOLOR="#00A000" TEXT="#FFFFFF" LINK="#44FF44" VLINK="#D0B060">
 <BASEFONT SIZE="3">
-<CENTER><font size=+4><B>�ݡ����������Ͽ���̡���</B></font></CENTER>
+<CENTER><font size=+4><B>−　新作情報登録画面　−</B></font></CENTER>
 <BR>
 <CENTER>
-| <a href="http://www.geocities.co.jp/Playtown/3018/">�ۡ���ڡ���</a> | <a href="newentry_view.html">������������</a> | �����񤭹��� | <a href="select.cgi">�Խ�����</a> |
+| <a href="http://www.geocities.co.jp/Playtown/3018/">ホームページ</a> | <a href="newentry_view.html">情報を閲覧する</a> | 情報を書き込む | <a href="select.cgi">編集する</a> |
 </CENTER>
 <br><BR>
-���֥����ȥ�ס֥�����פΤ߾�ά�ԲĤǤ���<br>
+※「タイトル」「ジャンル」のみ省略不可です。<br>
 <FORM ACTION="newentry_add.cgi" METHOD="post">
 
 <TABLE border=3>
@@ -19,50 +19,50 @@
 <TD>
 
 <BR>
-<b>�����ȥ�</b>��<input type="text" name="title" size=40>    <BR>
+<b>タイトル</b>：<input type="text" name="title" size=40>    <BR>
 <BR>
-<b>������</b>��<SELECT NAME="genre" size=18>
-	<option value="novel_magazine">���⡦����Ǻܺ�
-	<option value="novel_j">��������ܿͺ�ȡ�
-	<option value="novel_e">�����������
-	<option value="comic_magazine">���ߥå�������Ǻܺ�
-	<option value="comic_boy">���ߥå�����ǯ
-	<option value="comic_girl">���ߥå�������
-	<option value="comic_youth">���ߥå�����ǯ
-	<option value="comic_lady">���ߥå�������
-	<option value="comic_adult">���ߥå�����ǯ
-	<option value="video_game">������ʲ����ѡ���̳�ѡ�
-	<option value="pc_game">������ʣУá�
-	<option value="pc_game_adult">������ʣУá���ǯ��
-	<option value="tv">�ԣ�����
-	<option value="video">�ӥǥ����̣ĺ���
-	<option value="movie">�ǲ�
-	<option value="cd_drama">�ãĥɥ��
-	<option value="myth">���á�̱��
-	<option value="others">����¾
+<b>ジャンル</b>：<SELECT NAME="genre" size=18>
+	<option value="novel_magazine">小説・雑誌掲載作
+	<option value="novel_j">小説（日本人作家）
+	<option value="novel_e">小説（翻訳）
+	<option value="comic_magazine">コミック・雑誌掲載作
+	<option value="comic_boy">コミック・少年
+	<option value="comic_girl">コミック・少女
+	<option value="comic_youth">コミック・青年
+	<option value="comic_lady">コミック・女性
+	<option value="comic_adult">コミック・成年
+	<option value="video_game">ゲーム（家庭用／業務用）
+	<option value="pc_game">ゲーム（ＰＣ）
+	<option value="pc_game_adult">ゲーム（ＰＣ・成年）
+	<option value="tv">ＴＶ番組
+	<option value="video">ビデオ／ＬＤ作品
+	<option value="movie">映画
+	<option value="cd_drama">ＣＤドラマ
+	<option value="myth">神話／民話
+	<option value="others">その他
 	</Select><BR>
 <br>
-<b>���</b>��<INPUT TYPE="text" name="author" size=40><br>
-<font color=pink size="-1">�������뤬���⡦���ߥå��ξ��Τ�</font><br>
+<b>作者</b>：<INPUT TYPE="text" name="author" size=40><br>
+<font color=pink size="-1">※ジャンルが小説・コミックの場合のみ</font><br>
 <br>
-<b>ȯ�丵</b>��<INPUT TYPE="text" name="publisher" size=40><br>
-<font color=pink size="-1">�����Ҥξ��Ͻ��Ǽ�̾�������ԣ����Ȥξ�硢������̾���ǲ�ξ�硢�۵��ҡ�������ϡ����եȥϥ���̾���� ��̱����˼��</font><br>
+<b>発売元</b>：<INPUT TYPE="text" name="publisher" size=40><br>
+<font color=pink size="-1">※書籍の場合は出版社名を記入。ＴＶ番組の場合、放送局名。映画の場合、配給会社。ゲームは、ソフトハウス名。例 「民明書房」</font><br>
 <br>
-<b>�졼�٥롿�Ǻܻ�</b>��<INPUT TYPE="text" name="label" size=40>    <br>
-<font color=pink size="-1">���㣱���ϸ�����ʸ�ˡס��㣲�־�����ǯ����2����<br>�ʻ���ʤɤηǺܺ�ξ�硢����̾�ȹ�������Ϥ��Ʋ�������</font><br>
+<b>レーベル／掲載誌</b>：<INPUT TYPE="text" name="label" size=40>    <br>
+<font color=pink size="-1">※例１「創元推理文庫」　例２「小学二年生　2月号」<br>（雑誌などの掲載作の場合、雑誌名と号数を入力して下さい）</font><br>
 <br>
-<b>�ɣӣ£�</b>��<INPUT TYPE="text" name="isbn" size=40><br>
-<font color=pink size="-1">�������뤬���⡦���ߥå��ξ��Τߡ�Ⱦ�ѿ��������Ϥ��Ʋ����������4-87025-443-3��</font><br>
+<b>ＩＳＢＮ</b>：<INPUT TYPE="text" name="isbn" size=40><br>
+<font color=pink size="-1">※ジャンルが小説・コミックの場合のみ。半角数字で入力して下さい。例「4-87025-443-3」</font><br>
 <br>
 </TD>
 <TD>
-<b>����ȯ����</b>��<br>
+<b>　　発売日</b>：<br>
 <br>
-����<INPUT TYPE="text" name="pub_year" value="1999" size=10> ǯ������<br>
+　　<INPUT TYPE="text" name="pub_year" value="1999" size=10> 年　　　<br>
 <br>
 <!-- month -->
-����<select name="pub_month" size=1> ��
-	<option value="0">��
+　　<select name="pub_month" size=1> 月
+	<option value="0">−
 	<option value="1">1
 	<option value="2">2
 	<option value="3">3
@@ -78,8 +78,8 @@
 	</select><br>
 <br>
 <!-- day -->
-����<select name="pub_day" size=1> ��
-	<option value="0">��
+　　<select name="pub_day" size=1> 日
+	<option value="0">−
 	<option value="1">1
 	<option value="2">2
 	<option value="3">3
@@ -120,28 +120,28 @@
 
 <center>
 <br>
-<b>���餹���������ȡ�</b><br>
+<b>あらすじ／コメント：</b><br>
 <br>
 <!-- textarea -->
 <TEXTAREA name="comment" ROWS=7 COLS=80>
 </textarea><br>
 <br>
-<font color=pink size="-1">������Ū�˲���̵���ǽ񤤤Ƥ��äơ��Ǹ��"(yourname)"�Τ褦�˽�̾������Ʋ�������ƿ̾��˾������"(ƿ̾)"�ȤǤ⤷�Ƥ����Ʋ������������Ȥ��ά�������ϡ���̾�����פǤ����ޤ���������̵���Ǥ���</font><br>
+<font color=pink size="-1">※基本的に改行無しで書いていって、最後に"(yourname)"のように署名を入れて下さい。匿名希望の方は"(匿名)"とでもしておいて下さい。コメントを省略した場合は、署名も不要です。また、タグは無効です。</font><br>
 </TD></TR>
 
 <TR><TD COLSPAN=2>
 </center>
 <br>
-<b>�Խ��ѥѥ���ɡ�</b><br>
+<b>編集用パスワード：</b><br>
 <INPUT TYPE="text" name="password" size=10 MAXLENGTH=10><br>
-<font color=pink size="-1">����������ʬ����Ͽ�����ǡ������Խ���������뤿���ɬ�פʥѥ���ɤǤ�����ά������硢��Ͽ�ǡ������Խ�������ϤǤ��ޤ��󡣡ʰѰ����������Ϥ����פǤ���</font><br>
+<font color=pink size="-1">※後日、自分で登録したデータを編集／削除するために必要なパスワードです。省略した場合、登録データの編集／削除はできません。（委員の方の入力は不要です）</font><br>
 
 </TD></TR>
 </TABLE>
 <INPUT TYPE="HIDDEN" NAME="action" VALUE="0">
 <INPUT TYPE="HIDDEN" NAME="item" VALUE="0">
 <BR>
-<INPUT TYPE="submit" VALUE="��Ͽ����">
+<INPUT TYPE="submit" VALUE="登録する">
 </FORM>
 </BODY>
 </HTML>

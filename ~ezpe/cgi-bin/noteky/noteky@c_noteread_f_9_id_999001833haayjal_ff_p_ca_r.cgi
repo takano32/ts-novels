@@ -1,135 +1,135 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�G�k�{�[�h/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>雑談ボード/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=9&id=999001833haayjal&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_9_id_999001833haayjal_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�����������ʕ�</font><br>
+<font size="+2" color="#0000FF">国勢調査＠駄文</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/08/28 21:30:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999001833haayjal&id2=999001833haayjal&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999001833haayjal_id2_999001833haayjal_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂炿���񎷕M���ɂӂƎv���������B<BR>�u���ɂ̐l�������āA�v���싅�ǂ��������Ă�񂾂�H�v<BR><BR>�Ƃ����킯�ŁA������ƒ������Ă݂����Ǝv���܂��B<BR>�ꍇ�ɂ���ẮA�ԊO�҂Ńf�[�^�����p���邩���I<BR><BR>�Ȃ��A�����̎����L�����ɂ��Ă��u�ޏ��͂����̃t�@�����I�v�Ƃ�<BR>�f�[�^���������̕��͋����Ă��������B<BR>�i�ꍇ�ɂ���ẮA�Q�X�g�L�����̓����J���邩���I�j
+みらちぇん執筆中にふと思いついた事。<BR>「文庫の人たちって、プロ野球どこ応援してるんだろ？」<BR><BR>というわけで、ちょっと調査してみたいと思います。<BR>場合によっては、番外編でデータを活用するかも！<BR><BR>なお、自分の持ちキャラについても「彼女はここのファンだ！」とか<BR>データをお持ちの方は教えてください。<BR>（場合によっては、ゲストキャラの道が開けるかも！）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/08/28 21:40:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999002452vfrbin&id2=999001833haayjal&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999002452vfrbin_id2_999001833haayjal_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ݂ɁAKardy�t�@�~���[�̃f�[�^�ꗗ�ł��B<BR><BR>�M�����������ł゠��܂���ǁF�u�W���C�A���c�ł����v<BR>�t�����A���o�����X�F�u�u���[�E�F�[�u�Ȃ񂾂��ǁA�C�`���[�n�Ă�����������E�E�E�v<BR>�_�K���������̒��ցF�u���܂ꂽ�Ƃ������m�����l�t�@���ł��B�v<BR>���灗�������̒��ցF�u���n���Ȃ̂��E�E�E�N��������(T��T)�v<BR>��I��One-Way�F�u����ϒn�����c�ł���B�{�N�̓h���S���Y�t�@���B�v<BR>�ޏ���One-Way�F�u�ŋ߁A�~�L�����̉e���Œ����t�@���ɂȂ�܂���(��)�v<BR>�ڈ߁�One-Way�F�u��_�E�E�E�͌������āA���͋ߓS�B�v<BR>�a�큗One-Way�F�u(���O)�~�L�Ɠ�������(�{��)���̓��b�e�v<BR>��t���������݂炿����u�����t�@���Ł`�����I�v<BR>�����u���łɌ����Ȃ�A�؋�����̑��t�@����I�I�v<BR>�ʁ��䂩�聗�݂炿����u�����l�Ȃ牤�_�C�G�[���I�v<BR>�Ђ��聗Pretty Director�Ɋ��t�I�F�u���≴�A���t�̊ē����B�v
+ちなみに、Kardyファミリーのデータ一覧です。<BR><BR>柚香＆麻美＠でゅあるまいんど：「ジャイアンツですぅ」<BR>春樹＠アンバランス：「ブルーウェーブなんだけど、イチロー渡米しちゃったし・・・」<BR>浩幸＠蒼い瞳の中へ：「生まれたときから大洋＆横浜ファンです。」<BR>美咲＠蒼い瞳の中へ：「日ハムなのぉ・・・誰か助けて(T▽T)」<BR>雅紀＠One-Way：「やっぱ地元球団でしょ。ボクはドラゴンズファン。」<BR>奈緒＠One-Way：「最近、ミキちゃんの影響で中日ファンになりました(笑)」<BR>瑠衣＠One-Way：「阪神・・・は見限って、今は近鉄。」<BR>和弥＠One-Way：「(建前)ミキと同じ中日(本音)実はロッテ」<BR>千春＆舞香＠みらちぇん「西武ファンで～っす！」<BR>舞香「ついでに言うなら、筋金入りの大輔ファンよ！！」<BR>彩＆ゆかり＠みらちぇん「福岡人なら王ダイエーやろ！」<BR>ひかり＠Pretty Directorに乾杯！：「いや俺、東葉の監督だし。」
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/08/28 21:53:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/08/28 21:53:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999003200hthii&id2=999001833haayjal&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999003200hthii_id2_999001833haayjal_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���́c�c�A�ǂ����������Ă܂���B<BR>�Ƃ������A�v���싅���Č��ĂȂ��ł��B<BR>�̂���^�����s�ł����̂ŁA�w�Z�ł��\�t�g�{�[���Ƃ��T�b�J�[�͂ƂĂ������ł����B<BR>����Ȃ킯�ŃX�|�[�c�ԑg���Č��ĂȂ��ł��B<BR><BR>���łɌ����ƁA���N�������ɂŖ싅���Ƃ��𕑑�ɂ����������o�Ă��܂����A�ǂ�łĂ��s���Ƃ��Ȃ����Ƃ����������肷���ł��B�^�����̃m���Ƃ����[�����悭������Ȃ�����c�c�B<BR><BR>������X�|�[�c����݂̂s�r�����ɂ͊��z�������Ȃ��悤�ɂ��Ă��鎄�Ȃ̂ł��B�����Ή������s���g�͂���Ȃ��Ƃ����������Ȃ̂Łc�c�B<BR>���̌��ɂ��Ă͂��̏���؂�č�҂̊F�l�ɂ��l�т������܂��B<BR><BR>Kardy�l�A����̈Ӑ}�ƑS�R�Ⴄ�񓚂Ő\����Ȃ��ł��B<BR>�����������Č����΁A���̎����ɂ����č��U�����Ă���ق��̃`�[�����������܂��ˁB�w�łĂ�[���A����[���I�x���ĂˁB(^^;)
+実は……、どこも応援してません。<BR>というか、プロ野球って見てないです。<BR>昔から運動音痴でしたので、学校でやるソフトボールとかサッカーはとても嫌いでした。<BR>そんなわけでスポーツ番組って見てないです。<BR><BR>ついでに言うと、少年少女文庫で野球部とかを舞台にした小説が出ていますが、読んでてもピンとこないことも多かったりするんです。運動部のノリとかルールがよく分からないから……。<BR><BR>だからスポーツがらみのＴＳ小説には感想を書かないようにしている私なのです。書けば何だかピントはずれなことを書きそうなので……。<BR>この件についてはこの場を借りて作者の皆様にお詫びいたします。<BR><BR>Kardy様、質問の意図と全然違う回答で申し訳ないです。<BR>しかしあえて言えば、その試合において今攻撃しているほうのチームを応援しますね。『打てよーっ、こらーっ！』ってね。(^^;)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����낤</strong>  <i>2001/08/29 08:51:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>いちろう</strong>  <i>2001/08/29 08:51:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999042698pnujqyu&id2=999001833haayjal&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999042698pnujqyu_id2_999001833haayjal_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Kardy������m���Ă���Ǝv���܂������͍�������̍L���t�@���ł��B�i���Ȃ݂ɃA���`���l�j<BR>������L���͎Ⴋ�G�[�X���c�̍D���łT�A���I�g�ɏ���Ă��܂����`��<BR><BR>�{������̐_�傪�A���݂��������Đ\���ɂ́A�������J�[�v�͏��[���A���[���A�����A������i���j<BR><BR>�w�E�C�j���O�{�[���x�o���҂̈ӌ�<BR><BR>����u����ς�A�L�����ȁE�E�E�v<BR>�R�I�u�L���ł��B�v<BR>�����u�������ȁE�E�E�v<BR>����u�������I�H���O���Đ����t�@���������̂��H�v<BR>�����u�����đ�ォ�����������E�E�E�v<BR>����u�E�E�E�v<BR>���ށu���͉��l�ł��B�v<BR>���u�L���I�v<BR>�ȏ�ł��B<BR><BR>�L���͍������Ă΂S�ʕ���I����΂ꍂ�����I
+Kardyさんも知っていると思いますが私は根っからの広島ファンです。（ちなみにアンチ巨人）<BR>昨日も広島は若きエース黒田の好投で５連勝！波に乗ってきました～♪<BR><BR>宮島さんの神主が、おみくじ引いて申すには、今日もカープは勝ーち、勝ーち、勝ち、勝ち♪（爆）<BR><BR>『ウイニングボール』出演者の意見<BR><BR>隆一「やっぱり、広島かな・・・」<BR>由紀「広島です。」<BR>直美「西武かな・・・」<BR>隆一「うそぉ！？お前って西武ファンだったのか？」<BR>直美「だって大輔かっこいいし・・・」<BR>隆一「・・・」<BR>香奈「私は横浜です。」<BR>嶋「広島！」<BR>以上です。<BR><BR>広島は今日勝てば４位浮上！がんばれ高橋建！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����낤</strong>  <i>2001/08/29 10:25:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>いちろう</strong>  <i>2001/08/29 10:25:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999048348qyqwef&id2=999001833haayjal&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999048348qyqwef_id2_999001833haayjal_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[�����΁A���ɂɃJ�[�v�t�@���͂���̂��ȁH
+そーいえば、文庫にカープファンはいるのかな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�u����ϕ��������̓z�[�N�X�΂��v�����W�S�Q�U</a></strong>  <i>2001/08/29 22:08:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">「やっぱ福岡んもんはホークスばい」ｍｋ８４２６</a></strong>  <i>2001/08/29 22:08:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999090508avcltj&id2=999001833haayjal&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999090508avcltj_id2_999001833haayjal_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���^�N�V�͖��_�e�c�g�I<BR>�������叟�����ċC���������ȁ�<BR>�i�������ɂƂ��Ă�����`�Ƃ����C���Ȃ̂������E�E�E�΁j<BR><BR>�����[�́A����́[�A�_�C�G�[�z�[�N�X�[<BR>
+ワタクシは無論ＦＤＨ！<BR>今日も大勝ちして気分がいいな♪<BR>（半分次にとっておけよ～という気分なのも事実・・・笑）<BR><BR>♪われらーの、われらのー、ダイエーホークスー<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2001/09/01 10:03:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2001/09/01 10:03:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999306219wlkfptw&id2=999001833haayjal&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999306219wlkfptw_id2_999001833haayjal_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�싅�͂��܂�ςȂ���ł����A�ς�Ƃ���<BR>�ߏ��Ƀ_�C�G�[���������̂ŁA�_�C�G�[���������Ă܂����B<BR>�ł��A���Ȃ������̓X�܂��Ԃꂿ�Ⴂ�܂����B<BR><BR>���N�͂ǂ����悤���Ȃ��B<BR>
+野球はあまり観ないんですが、観るときは<BR>近所にダイエーがあったので、ダイエーを応援してました。<BR>でも、こないだその店舗がつぶれちゃいました。<BR><BR>今年はどうしようかなあ。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2001/09/01 22:00:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2001/09/01 22:00:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999349230afcfimj&id2=999001833haayjal&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999349230afcfimj_id2_999001833haayjal_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������Ă��鋅�c�ł����H�@�ꉞ�A��_�^�C�K�[�X�ł��B<BR>�ł��A�싅�͏t��܂ł������Ȃ�����A����܂�ڂ����Ȃ����ǁi���j<BR><BR>�o���ҒB�͂ƌ�����<BR><BR>���ގq���~�[�i�u���H�@���[�ƁA�����Č����Ȃ�A���N���g���ȁH�v<BR>�����[���~�[�i�u���̌�̃r�j�[���P�͉��H�@�싅�͂���ς�A���l��I�v<BR>�E�b����񁗃~�[�i�u�Ȃ񂾂��A�炵���ˁA����i��΁j�B�l�͐��S���ォ�琼�����C�I���Y����B����A�撣��I�v<BR>��ߔ����~�[�i�u���S���āA���H�@�������͍L���B�C��̂��납�瓌�o�I��̃t�@��������v<BR>��؁��~�[�i�u��ߔ������A���Z�싅�D���H�@�l�͋ߓS�B���N�����A���{�ꂾ�I ���N�͓��肪�ςȂ��ƌ����Ă��A���Ă܂��Ő��ł˂��������v<BR>���b�����߂������u�������ȁA���������́i��΁j�B���̓I���b�N�X�B�C�`���[�������I���b�N�X����Ȃ��v<BR>�d�K�����߂������u�悭�������B�I���b�N�X�̓��W���[���낤���A��_���낤���A��������o���S�̍L�����c������A����܂�h���t�g�R��Ȃ��œ����Ă��ė~�����ȁv<BR>���������߂������u�싅���āA����܂�悭�킩��Ȃ�����c�c�ł��A�_�C�G�[�v<BR>���������~�[�i�u�D������ƃZ�[���������ˁB�ł��A���̓��N���g�X�����[�Y�v<BR>�������~�[�i�u���S���ォ��̋؋�����̃t�@��������ȁB���̓_�C�G�[���B���Ԃ���͂��Ȃ��Ă��������v<BR>���������߂������u������|�����B�������͒����B�R����j�͂�����A����ς�v<BR>�앶������ҁu���āA��_�͒N�����Ȃ��̂��H�v<BR>�o���҈ꓯ�u�����Ďア����v<BR>�앶������ҁ@�i���j<BR><BR>����Ȋ����ł��B�싅�ϐ�l�^�����鎞�ɂƈꉞ���߂Ă��������ǁA�܂����A���\����@�����Ƃ́B<BR>����ɍs���ƕK��������̂Ŗ����Z�b���낵���̂������Ƃ̂Ȃ��i�܁j�앶���ł����B
+応援している球団ですか？　一応、阪神タイガースです。<BR>でも、野球は春先までしか見ないから、あんまり詳しくないけど（爆）<BR><BR>出演者達はと言うと<BR><BR>美奈子＠ミーナ「え？　えーと、強いて言うなら、ヤクルトかな？」<BR>リリー＠ミーナ「その後のビニール傘は何？　野球はやっぱり、巨人よ！」<BR>ウッちゃん＠ミーナ「なんだか、らしいね、それ（苦笑）。僕は西鉄時代から西武ライオンズだよ。松坂、頑張れ！」<BR>芽衣美＠ミーナ「西鉄って、何？　あたしは広島。気比のころから東出選手のファンだから」<BR>銀鱗＠ミーナ「芽衣美ちゃん、高校野球好き？　僕は近鉄。今年こそ、日本一だ！ 今年は投手が変なこと言っても、いてまえ打線でねじ伏せれる」<BR>瑞巴＠お憑きあい「あったな、そういうの（苦笑）。俺はオリックス。イチローだけがオリックスじゃない」<BR>重幸＠お憑きあい「よく言った。オリックスはメジャーだろうが、阪神だろうが、快く送り出す心の広い球団だから、あんまりドラフト蹴らないで入ってきて欲しいな」<BR>桃香＠お憑きあい「野球って、あんまりよくわかんないから……でも、ダイエー」<BR>琉璃香＠ミーナ「優勝するとセールするもんね。でも、私はヤクルトスワローズ」<BR>賢治＠ミーナ「国鉄時代からの筋金入りのファンだからな。私はダイエーだ。あぶさんはいなくても強いぞ」<BR>朋美＠お憑きあい「いたら怖いわよ。あたしは中日。燃える男はいいわ、やっぱり」<BR>南文堂＠作者「って、阪神は誰もいないのか？」<BR>出演者一同「だって弱いもん」<BR>南文堂＠作者　（泣）<BR><BR>こんな感じです。野球観戦ネタをする時にと一応決めておいたけど、まさか、発表する機会があるとは。<BR>球場に行くと必ず負けるので未だ六甲おろしを歌ったことのない（涙）南文堂でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/09/08 19:52:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/09/08 19:52:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999946335jnxwjva&id2=999001833haayjal&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999946335jnxwjva_id2_999001833haayjal_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Ђ����̃v���싅���c�ł����c�c�킽�����앶������Ɠ����ō�_�^�C�K�[�X�Ȃ�ł����B<BR><BR>�b��u���ɂЂ����̃`�[���͂Ȃ����ǁA�����Č����΃o�b�t�@���[�Y�v<BR>�ق̂��u�Z���[�O��������x�C�X�^�[�Y�A�p���[�O��������I���b�N�X���ȁv<BR>���t���u�c�c���V�͐l���̔߈��������Ă����^�C�K�[�X����ȁi���������c�c�j�v<BR>���I�i�u���I�i���^�C�K�[�X���ɂ���I�@�c�c�Ղ��A���O�͌ՂɂȂ�̂��ɂ���I�I�v<BR>�b��u����͈Ⴄ���c�c�v<BR>���C�i�u�����ł����ɂ�H�@���v�����X�ɂ̓^�C�K�[�X�}�X�N����Ƃ����������邻���ł��ɂ�B<BR>�@���Ȃ݂Ƀ{�N�̉������鋅�c�̓��C�I���Y�ł��ɂ�v<BR>���}�g�u�{�N�̓W���C�A���c�B�c�c���Z�Y�n���ԁZ�؂̕����M�������I�i������Ȓ��x�j�v<BR>���P�u�ӂ���A���{�̃v���싅�Ȃ񂩂ł�낱��ł邨�܂������̓o�J�����B<BR>�@���W���[���[�O��������΂ꂽ���̖̂싅�Ȃ̂����B����Ȃ��Ƃ��m��Ȃ��̂��A�J�X�ǂ��߂��v<BR>�����암���u�C�������Ȃ��储�����˂���I�@�킽�������W���[�����`���D���������I<BR>�@���Ȃ݂ɉ������Ă���`�[���̓}���i�[�Y�ł������`����I�v<BR><BR>�@���̂��Ə����암���ɂ����������߂��A���P�͓�x�Ɩ싅�̂��Ƃ����ɂ��Ȃ��Ȃ����c�c�Ƃ��B<BR><BR>�@���Ȃ݂ɔނ�̂��C�ɓ���̉��y�A�[�`�X�g�́c�c<BR><BR>�b��u�G�����c�c���āA�m���Ă�H�v<BR>�ق̂��u�l�c�Ȍ�ƍ��쌳�t���I�v<BR>���t���u�c�c��͂�A���C�E�`���[���Y����ȁi���W���Y�D���j�v<BR>���I�i�u�ь��߂��݂�����I�@�A�j�\���J���I�P�̒�Ԃ��ɂ�v<BR>���C�i�u�{�N�͒�������݂���ł��ɂ�B�ŋ߉��y�������ĂȂ�����҂����ł��ɂ�v<BR>���}�g�u���؈�Y�Z�M�ƁA�e�R�q���m�u�Z�M�����I�v<BR>���P�u�c�c�v<BR>�����암���u�ǁ`�������储�����˂�����I�@�M�l�̂΁`�񂾂����v<BR>���P�u�c�c�v<BR>�����암���u�c�c�v<BR>���P�u�c�c�v<BR>�����암���u�c�c�v<BR>���P�u�c�c�v<BR>�b��u�c�c�c�c�����������Ă��`���A�����날���Ă��`����v<BR>���P�u���`���������ׂ�Ȃ�������񂶂��҂�c�c�c�c�����A���܂����������������I�I�v<BR><BR>�@�Ȃ��A�����암���̂��C�ɓ���A�[�`�X�g�̓��[�~�����������c�c�B
+　ひいきのプロ野球球団ですか……わたしも南文堂さんと同じで阪神タイガースなんですが。<BR><BR>甲介「特にひいきのチームはないけど、強いて言えばバッファローズ」<BR>ほのか「セリーグだったらベイスターズ、パリーグだったらオリックスかな」<BR>お師匠「……ワシは人生の悲哀を教えてくれるタイガースぢゃな（おいおい……）」<BR>レオナ「レオナもタイガースだにゃっ！　……虎だ、お前は虎になるのだにゃっ！！」<BR>甲介「それは違うぞ……」<BR>レイナ「そうですかにゃ？　大阪プロレスにはタイガースマスクさんという方がいるそうですにゃ。<BR>　ちなみにボクの応援する球団はライオンズですにゃ」<BR>ヤマト「ボクはジャイアンツ。……星〇雄馬より番〇蛮の方が熱いぞっ！（←こんな程度）」<BR>正輝「ふんっ、日本のプロ野球なんかでよろこんでるおまえたちはバカだっ。<BR>　メジャーリーグこそえらばれたものの野球なのだっ。そんなことも知らないのか、カスどもめっ」<BR>女美川部長「気が合うなしょおおおねんっ！　わたしもメジャーがだ～い好きだぞっ！<BR>　ちなみに応援しているチームはマリナーズであああ～るっ！」<BR><BR>　このあと女美川部長にきつく抱きしめられ、正輝は二度と野球のことを口にしなくなった……とか。<BR><BR>　ちなみに彼らのお気に入りの音楽アーチストは……<BR><BR>甲介「エンヤ……って、知ってる？」<BR>ほのか「浜田省吾と佐野元春っ！」<BR>お師匠「……やはり、レイ・チャールズぢゃな（←ジャズ好き）」<BR>レオナ「林原めぐみさんっ！　アニソンカラオケの定番だにゃ」<BR>レイナ「ボクは中村あゆみさんですにゃ。最近音楽活動してないから淋しいですにゃ」<BR>ヤマト「水木一郎兄貴と、影山ヒロノブ兄貴だっ！」<BR>正輝「……」<BR>女美川部長「ど～したしょおおおねぇんっ！　貴様のば～んだぞっ」<BR>正輝「……」<BR>女美川部長「……」<BR>正輝「……」<BR>女美川部長「……」<BR>正輝「……」<BR>甲介「…………あっかあげてぇ～っ、しぃろあげてぇ～っ♪」<BR>正輝「お～さっかっべんなっらっいんじゃんぴょ…………しっ、しまったあああああっ！！」<BR><BR>　なお、女美川部長のお気に入りアーチストはユーミンだそうだ……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ۂ�</strong>  <i>2001/09/10 23:59:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ぽち</strong>  <i>2001/09/10 23:59:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=1000133949vjhxa&id2=999001833haayjal&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_1000133949vjhxa_id2_999001833haayjal_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Z�E�E�E�͂񂵂�<BR>�p�E�E�E�ߓS<BR><BR>�ȏ�_�X�B
+セ・・・はんしん<BR>パ・・・近鉄<BR><BR>以上ダス。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="9">
 <input type="hidden" name="id" value="999001833haayjal">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,121 +1,121 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=937402142lhswtg&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_937402142lhswtg_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�J�Y���̉A�d</font><br>
+<font size="+2" color="#0000FF">カズヤの陰謀</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art22.html" target="_blank">���d�F�ꐬ</a></strong>  <i>1999/09/15 22:29:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art22.html" target="_blank">八重洲一成</a></strong>  <i>1999/09/15 22:29:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937402142lhswtg&id2=937402142lhswtg&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937402142lhswtg_id2_937402142lhswtg_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���c���񂪁A�i���Q�[���L�����A�M�����������e�ƂȂ��i���񂹂ĉ������܂����B����́c�c�w�S���x�I�@�Ƃ������A�����I
+原田さんが、格闘ゲームキャラ、ギャル化企画第一弾となる作品を寄せて下さいました。お題は……『鉄拳』！　というか、平八！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">�^��@�I</a></strong>  <i>1999/09/16 02:25:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">真城　悠</a></strong>  <i>1999/09/16 02:25:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937416347rsatou&id2=937402142lhswtg&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937416347rsatou_id2_937402142lhswtg_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���A����͋����I�J�Y���ɂ���Ȕ\�͂��������Ƃ́I�܂��A�����ɂȂ����蕽�C�ł���z�����炱�̒��x�͕��C�Ȃ̂����m��Ȃ����ǁi�΁j�B<BR>�@�u�����Ό��I�v�ƌ����Ƃ��ɂ���Ȕ\�͂��܂���Ă͓K���܂���ȁB���炭���̘A�����E�E�E�ƍl����Ɩϑz�͌���Ȃ��i�����j�B<BR>�@�l�I�ɂ̓W���b�N�Ƃ��E�E�E�����A�u���}�c���ɂȂ���������t�H�{�X�i�n���^�[�Q�j�Ƃ������O������邵�E�E�E
+　こ、これは凶悪！カズヤにこんな能力があったとは！まあ、悪魔になったり平気でする奴だからこの程度は平気なのかも知れないけど（笑）。<BR>　「いざ対決！」と言うときにこんな能力かまされては適いませんな。恐らく他の連中も・・・と考えると妄想は限りなく（自爆）。<BR>　個人的にはジャックとか・・・いえ、ブルマ幼女になっちゃったフォボス（ハンター２）とかいう前例もあるし・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:yanomail@anet.ne.jp" target="_blank">YK</a></strong>  <i>1999/09/16 22:10:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937487423ungqu&id2=937402142lhswtg&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937487423ungqu_id2_937402142lhswtg_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����q�̔��^�̂ނ��肳���D���ł��i�΁j�B
+平八子の髪型のむりやりさが好きです（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto: tanabe@lime.plala.or.jp" target="_blank">���c����</a></strong>  <i>1999/09/18 23:08:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto: tanabe@lime.plala.or.jp" target="_blank">原田聖也</a></strong>  <i>1999/09/18 23:08:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937663707peaqf&id2=937402142lhswtg&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937663707peaqf_id2_937402142lhswtg_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�C��������ł����ǁA���̃J�Y���A���̏�������܂���i���j�B�������̑т�����܂���i���~�Q�j�B�c�ƈꉞ�A���̂��Ƃ����Ȑ\�����Ă����܂��B<BR>�Z�^�邳��<BR>&gt;�����ɂȂ����蕽�C�ł���z������<BR>�ŐV��g�^�b�O�g�[�i�����g�h�ł͌��������i�΁j�B���āA�Ȃ񂩂r�Z�j�����Ă�c�B<BR>&gt;�l�I�ɂ̓W���b�N�Ƃ�<BR>���A����͂܂���V�Ȍ����c�A�[�~�[���b�N�̏������J�c�ĊO�����邩���i�����j�B<BR>���Ƃ��܂��ẮA�|�[���~���E�̃G�Z�F��i�H�j�R���r��\�肵�Ă����̂ł����i���j�B���Ȃ݂Ƀ��E�́g�P�i�܂�W���[�W�j�h�̃o�[�W�����Łi�΁j�B<BR>�ZYK����<BR>&gt; �����q�̔��^�̂ނ��肳���D���ł��i�΁j�B<BR>�C�ɓ����Ă��������Č��h�ł��`�i�΁j�B���́u�����ۂ��V���G�b�g�Ɍ����邩���v�Ƃ��ςȐF�C���o���ĕ`���Ă݂���ł��B�ł����̂́g����ȁh�����i���j�B���Ȃ݂ɕ����̔��^�͂P�ƂQ�E�R�Ƃł͑S�R�Ⴄ��ł���ˁB����͂Q�ŕ`�����Ă��������܂����B
+今、気がついたんですけど、このカズヤ、胸の傷がありません（爆）。平八娘の帯もありません（爆×２）。…と一応、事故もとい自己申告しておきます。<BR>〇真城さん<BR>&gt;悪魔になったり平気でする奴だから<BR>最新作“タッグトーナメント”では見事復活（笑）。って、なんかＳ〇Ｋ化してる…。<BR>&gt;個人的にはジャックとか<BR>こ、これはまた難儀な御題を…アーミールックの少女メカ…案外いけるかも（自爆）。<BR>私としましては、ポール×ロウのエセ友情（？）コンビを予定していたのですが（汗）。ちなみにロウは“１（つまりジャージ）”のバージョンで（笑）。<BR>〇YKさん<BR>&gt; 平八子の髪型のむりやりさが好きです（笑）。<BR>気に入っていただけて光栄です～（笑）。実は「翼っぽいシルエットに見えるかも」とか変な色気を出して描いてみたんです。できたのは“あんな”感じ（汗）。ちなみに平八の髪型は１と２・３とでは全然違うんですよね。今回は２で描かせていただきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">�^��@�I</a></strong>  <i>1999/09/26 01:11:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">真城　悠</a></strong>  <i>1999/09/26 01:11:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938275884viixh&id2=937402142lhswtg&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938275884viixh_id2_937402142lhswtg_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�^�ʖڂ�SS���������Ƃ��Ă��玷�M�҂̐��_�����Ă��܂����o�[�W�����B<BR>�@�����A�Ό��I�Ƃ��������̐e�q�J�Y���ƕ����B<BR>�u�ӂӂӁA�I���W��B�I���ɂ͐V���Ȃ�K�E�Z������̂��v<BR>�u�ӂ�A���������v<BR>�u����ł��H�炦�[�I�v<BR>�u���E�E�E���A�ȁA�����E�E�E����E�E�E�́H�v<BR>�u�ق��ق��A�Ȃ��Ȃ���������˂����v<BR>�u�M�l�E�E�E��̉����E�E�E�v<BR>�u����ŋM�l�ɂȂ񂩕����˂����v<BR>�u���E�E�E���̂�E�E�E���̐e����U�߂ɂ�����肩�I�H�v<BR>�u�ӂӂӁE�E�E�싅���ŏ������I�v<BR>�@�ڂ��_�ɂȂ閺�B<BR><BR>�@����񂿂��B
+　真面目にSSを書こうとしてたら執筆者の精神が壊れてしまったバージョン。<BR>　いざ、対決！という因縁の親子カズヤと平八。<BR>「ふふふ、オヤジよ。オレには新たなる必殺技があるのさ」<BR>「ふん、小賢しい」<BR>「これでも食らえー！」<BR>「う・・・お、な、何だ・・・これ・・・は？」<BR>「ほうほう、なかなか可愛いじゃねえか」<BR>「貴様・・・一体何を・・・」<BR>「これで貴様になんか負けねえぜ」<BR>「お・・・おのれ・・・実の親を手篭めにするつもりか！？」<BR>「ふふふ・・・野球拳で勝負だ！」<BR>　目が点になる娘。<BR><BR>　ちゃんちゃん。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>1999/09/26 01:46:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>1999/09/26 01:46:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938278010wxwvs&id2=937402142lhswtg&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938278010wxwvs_id2_937402142lhswtg_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �@�^�ʖڂ�SS���������Ƃ��Ă��玷�M�҂̐��_�����Ă��܂����o�[�W�����B<BR><BR>���₢��A�ʔ�������Ȃ��ł����B<BR>�M�������[�ŁA�C���X�g�ɂ���X�g�[���[�͂��̂��炢�̒Z���ꔭ�l�^���嗬�ł����Ǝ��͎v����ł���B
+&gt; 　真面目にSSを書こうとしてたら執筆者の精神が壊れてしまったバージョン。<BR><BR>いやいや、面白いじゃないですか。<BR>ギャラリーで、イラストにつけるストーリーはこのくらいの短い一発ネタが主流でいいと私は思うんですよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:tanabe@lime.plala.or.jp" target="_blank">���c����</a></strong>  <i>1999/09/27 06:24:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:tanabe@lime.plala.or.jp" target="_blank">原田聖也</a></strong>  <i>1999/09/27 06:24:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938381096frnmu&id2=937402142lhswtg&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938381096frnmu_id2_937402142lhswtg_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�^�ʖڂ�SS���������Ƃ��Ă��玷�M�҂̐��_�����Ă��܂����o�[�W�����B<BR>�f���ɂ́A����Ȏg�������c�c<BR>���΂͐^�邳��B�ڂ̕t�������Ⴂ�܂��˂�(^^)<BR>�Z���Ȃ�����S�Ă����s����������Ă�r�r���i�C�X�B<BR>���肪�Ƃ��������܂��I<BR>
+&gt;真面目にSSを書こうとしてたら執筆者の精神が壊れてしまったバージョン。<BR>掲示板には、こんな使い方が……<BR>流石は真城さん。目の付け所が違いますねぇ(^^)<BR>短いながらも全てを語り尽くしちゃってるＳＳもナイス。<BR>ありがとうございます！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">�^��@�I</a></strong>  <i>1999/09/27 23:16:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">真城　悠</a></strong>  <i>1999/09/27 23:16:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938441814lgvvq&id2=937402142lhswtg&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938441814lgvvq_id2_937402142lhswtg_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@��������͂��̌�̏����ŕ����܂����������̎p�Ȃ�ł��傤�ˁi�΁j�B
+　多分あれはその後の勝負で負けまくった平八の姿なんでしょうね（笑）。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="937402142lhswtg">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

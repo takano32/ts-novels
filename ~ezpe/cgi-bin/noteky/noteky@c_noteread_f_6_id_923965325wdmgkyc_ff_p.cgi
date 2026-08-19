@@ -1,106 +1,106 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�A�j��/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>アニメ/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=6&id=923965325wdmgkyc&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_6_id_923965325wdmgkyc_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�~�g�ɂ���</font><br>
+<font size="+2" color="#0000FF">ミトについて</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>1999/04/13 10:02:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>1999/04/13 10:02:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=923965325wdmgkyc&id2=923965325wdmgkyc&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_923965325wdmgkyc_id2_923965325wdmgkyc_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����ATX�̕��ł��~�g�̍ŏI�񂪕��f����܂����B���̕��ł�<BR>�m����T����������n�܂�܂����ˁB���̍�i�킽���璇�ԓ��̊Ԃł�<BR>���\�]�����Ⴉ������ł��A�ŏ��͂���́I�ĂȊ����Ō��͂��߂��̂ł�����𑱂��Ă��b���������L�����������Ȃ��A�N���厲�ɂ��Ă��邩���킩��Ȃ���i�ł����B�\�蒲�a�ł͂܂�Ȃ��Ƃ̐���T�C�h�̍l���ł����Ȃ��������ł����A����������ƕ`���l���������Ǝv���܂��B<BR>�@���̖������̃l�^�͂��������ŏ����玝���Ă��邩�Ō�ŕ\������ɂ������Ƃ��܂��\���ł��Ȃ������̂����Ɏc�O�ŁA��������܂��`����΂����ƍŏI�V�[���̈������É������܂����̂ɁB<BR>�@
+　やっとATXの方でもミトの最終回が放映されました。大阪の方でも<BR>確か先週から放送が始まりましたね。この作品わたしら仲間内の間では<BR>結構評価が低かったんです、最初はこれは！てな感じで見はじめたのですが回を続けても話が動かずキャラが立たない、誰を主軸にしているかがわからない作品でした。予定調和ではつまらないとの制作サイドの考えであぁなったそうですが、もうちょっと描き様があったと思います。<BR>　性の未分化のネタはもう少し最初から持ってくるか最後で表現するにももっとうまく表現できなかったのが非常に残念で、あれをうまく描ければもっと最終シーンの葵女王陛下も決まったのに。<BR>　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g��</strong>  <i>1999/04/13 19:15:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>トモ</strong>  <i>1999/04/13 19:15:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=923998536fitnye&id2=923965325wdmgkyc&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_923998536fitnye_id2_923965325wdmgkyc_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�~�g�A�ς܂����B<BR>�u�Ȃ�ƂȂ��򂢑��薳�����c�����v�Ƃ䂤�̂������ȂƂ���ł��B<BR>�V���`���G�[�V�����͂�����ł����ǂˁB<BR><BR>��͂�A����k���ςĂ݂����ł��ˁA���̎�̘b���D���Ȏ҂Ƃ��ẮA�n�u�`�łł�����Ă���Ȃ����ȁH(^^;) 
+ミト、観ました。<BR>「なんとなく喰い足り無さが残った」とゆうのが正直なところです。<BR>シュチュエーションはいいんですけどね。<BR><BR>やはり、後日談を観てみたいですね、この手の話が好きな者としては、ＯＶＡででも作ってくれないかな？(^^;) 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>1999/04/14 02:21:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>1999/04/14 02:21:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=924024074invcb&id2=923965325wdmgkyc&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_924024074invcb_id2_923965325wdmgkyc_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-TOMO����������v���܂������B��͂����k���������ł���ˁB
+TOMOさんもそう思われましたか。やはり後日談が見たいですよね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F�ꐬ</strong>  <i>1999/04/14 04:39:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲一成</strong>  <i>1999/04/14 04:39:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=924032370vfaesi&id2=923965325wdmgkyc&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_924032370vfaesi_id2_923965325wdmgkyc_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������É������`<BR>�M�ɕ������ꂽ�悤�ɖ��ӐQ��O�Ƀr�f�I�Đ����Ă܂��B<BR>���Ƃ��A�ȒP�ȃ~�g�̏Љ�̂��߁A�����̌f���̏������݂����p���Ă����܂��B<BR><BR>&gt; �����ƁA�e���r�����ł���Ă�[��A�j���u�F���C���~<BR>&gt; �g�̑�`���v�ŏI�b�ɂāA��l���̏��N�E�����A����<BR>&gt; �q�ɂȂ��Ă��܂��܂����B���͎��͉F���l�̌�������<BR>&gt; �Ă��āA�c�N�����߂���ƁA���ʂ��ڂ�ς��悤��<BR>&gt; �Ȃ�̎��������A�Ƃ����ݒ�̂悤�ł��B<BR><BR>��P�b���n�܂������ɂ́A����ȃI�`�����Ȃ�ė\�z�����܂���ł����B�ł�������l���Ă݂�Ɓu���v�Ƃ����j�����p�̖��O���炵�ĕ�����������ł��ˁA�����ƁB<BR>���R�̂��ƂȂ���A��������k�Ɋ��҂��Ă܂��B<BR>�Ƃ������A���̍ŏI�b�̓��˂ȃI�`�����́u����k����I�v�Ƃ����X�^�b�t�̕��X����̃��b�Z�[�W���Ə���ɉ��߂��Ă���܂��B<BR>���É��`�A�s���N�̃��b�v���`���[�~���O���`
+葵女王陛下ラヴ～<BR>熱に浮かされたように毎晩寝る前にビデオ再生してます。<BR>もとい、簡単なミトの紹介のため、当時の掲示板の書き込みを引用しておきます。<BR><BR>&gt; えっと、テレビ東京でやってる深夜アニメ「宇宙海賊ミ<BR>&gt; トの大冒険」最終話にて、主人公の少年・葵が、女の<BR>&gt; 子になってしまいました。葵は実は宇宙人の血を引い<BR>&gt; ていて、幼年期を過ぎると、性別が移り変わるように<BR>&gt; なる体質だった、という設定のようです。<BR><BR>第１話が始まった頃には、こんなオチがつくなんて予想もつきませんでした。でも今から考えてみると「葵」という男女共用の名前からして伏線だったんですね、きっと。<BR>当然のことながら、私も後日談に期待してます。<BR>というか、あの最終話の唐突なオチかたは「後日談作るよ！」というスタッフの方々からのメッセージだと勝手に解釈しております。<BR>葵陛下～、ピンクのリップがチャーミングぅ～
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>1999/04/14 18:21:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>1999/04/14 18:21:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=924081702tqnkq&id2=923965325wdmgkyc&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_924081702tqnkq_id2_923965325wdmgkyc_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�T���Q�P���Ƀh���}�҂̂b�c���o��\��ł��B����k�͓��邩<BR>�ǂ��������Ă��܂��񂪁A�~�g�Ƃ����낤����́����Șb�Ƃ�<BR>�F�X�������������邻���ł��B<BR>�k�c�̃��C�i�[�m�[�g�̕��͈ꊪ�͊m���L��U��n�K�n�K�A�Q����<BR>�c�������[����R�������ނ�Ђłӂ݂��񂪃J�b�g��`�����<BR>����Ƃ��B
+５月２１日にドラマ編のＣＤが出る予定です。後日談は入るか<BR>どうか聞いていませんが、ミトとかげろうさんの○○な話とか<BR>色々聞き応えがあるそうです。<BR>ＬＤのライナーノートの方は一巻は確か豊島U作ハ゜ハ゜、２巻が<BR>Ｄｒモローさん３巻がきむらひでふみさんがカットを描かれて<BR>いるとか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g��</strong>  <i>1999/04/14 20:30:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>トモ</strong>  <i>1999/04/14 20:30:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=924089417jgmbwgq&id2=923965325wdmgkyc&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_924089417jgmbwgq_id2_923965325wdmgkyc_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u���n�͂ł������I�A�����{�҂��I�v�ƒN���i����X�^�b�t�̕��Łj�����Ă���܂��񂩂ˁH<BR>��������A��������Ԃ�ł����B(^_^) 
+「下地はできたぞ！、さぁ本編だ！」と誰か（制作スタッフの方で）言ってくれませんかね？<BR>だったら、すごく喜ぶんですが。(^_^) 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F�ꐬ</strong>  <i>1999/04/15 01:33:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲一成</strong>  <i>1999/04/15 01:33:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=6&id=924107624mwwqgs&id2=923965325wdmgkyc&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_6_id_924107624mwwqgs_id2_923965325wdmgkyc_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �u���n�͂ł������I�A�����{�҂��I�v�ƒN���i����X�^�b�t�̕��Łj�����Ă���܂��񂩂ˁH<BR><BR>�����ė~�����`�I<BR>����A�����ƌ����Ă���Ă�ɈႢ�Ȃ��I���̓~�g�X�^�b�t��M���Ă܂��I<BR>(^^;)
+&gt; 「下地はできたぞ！、さぁ本編だ！」と誰か（制作スタッフの方で）言ってくれませんかね？<BR><BR>言って欲しい～！<BR>いや、きっと言ってくれてるに違いない！私はミトスタッフを信じてます！<BR>(^^;)
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="6">
 <input type="hidden" name="id" value="923965325wdmgkyc">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

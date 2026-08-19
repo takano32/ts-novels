@@ -1,515 +1,515 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=973984992ekfayc&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_973984992ekfayc_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�d���I���퐶�� ���f����</font><br>
+<font size="+2" color="#0000FF">妖精的日常生活 第二掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/12 08:23:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/12 08:23:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973984992ekfayc&id2=973984992ekfayc&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973984992ekfayc_id2_973984992ekfayc_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F�l�̂����z�ɃR�����g���悤�Ǝv���܂�����A�������������ޏꏊ�������Ȃ��Ă��܂����̂ŁA������ɏ������Ă��������܂��B�i�W���[�W���b�h�j<BR><BR>
+皆様のご感想にコメントしようと思いましたら、何だか書き込む場所が無くなっていましたので、こちらに書かせていただきます。（ジャージレッド）<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/12 08:34:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/12 08:34:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973985660dcfgc&id2=973984992ekfayc&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973985660dcfgc_id2_973984992ekfayc_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l�A���Ȃ���l�A�݂邭���P�l�A<BR>�@�����z���肪�Ƃ��������܂��B���₠���`�A�Ƃ��Ƃ��΂�Ă��܂����ˁB�����قƂ�ǂ܂Ƃ��ɏk�ڌv�Z�������ɁA���b�\�i�ڑ��̂��ƁB���É��قł��j�ŁA�K���ɂ���Ă��邱�Ƃ��E�E�E�B���������~�L�����̐g�����Q�T�p���ɂ����̂����āA�ڂ̑O�ɍ������^����V���n�̃}�X�R�b�g�l�Y�~�l�`���Q�T�p�������̂����R�ł����B<BR>�@�s���ȓ_�͂Ȃ�ׂ������Ă��������Ǝv���܂����A��{�I�ɂ̓R���f�B�[�Ƃ������Ƃŋ����Ă���������Ƃ��肪�����Ȃ��E�E�E�A�Ȃ񂿂���āB���ꂩ����撣��܂����A���낻���ʓI�Ȓm���Ɍ�����_���΂ꂽ�肵�āE�E�E�B(^_^;)<BR><BR>
+ｍｋ８４２６様、すなさん様、みるく聖姫様、<BR>　ご感想ありがとうございます。いやあぁ～、とうとうばれてきましたね。私がほとんどまともに縮尺計算をせずに、メッソ（目測のこと。名古屋弁です）で、適当にやっていることを・・・。そもそもミキちゃんの身長を２５㎝ルにしたのだって、目の前に合った某巨大遊園地のマスコットネズミ人形が２５㎝だったのが理由ですし。<BR>　不備な点はなるべく直していきたいと思いますが、基本的にはコメディーということで許していただけるとありがたいなぁ・・・、なんちゃって。これからも頑張りますが、そろそろ一般的な知識に欠ける点もばれたりして・・・。(^_^;)<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��ψ���</strong>  <i>2000/11/12 14:55:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理委員会</strong>  <i>2000/11/12 14:55:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=974008551atesph&id2=973984992ekfayc&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_974008551atesph_id2_973984992ekfayc_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W���[�W���b�h����́u�d���I���퐶���v���z�f���ւ̏������݂��A�Ȃ�ƂT�O����˔j���܂�����(�ǂ�ǂ�ςӂςӂ�)�I<BR>���z�f���̃{�[�h��ւ̏������݂͍ő�50���܂łł��̂ŁA����{��ւ̊��z�͂͂������No.2�{�[�h�������p�������B<BR>�i��i�t���̃t�H�[��������A���݂͐�����������̃{�[�h�ɓ��e����܂��j<BR>�Ȃ��A�Ή����x��܂������Ƃ��A�ǎ҂̊F����Ȃ�тɍ�҂̃W���[�W���b�h���ɂ���т������܂��B
+ジャージレッドさんの「妖精的日常生活」感想掲示板への書き込みが、なんと５０件を突破しましたっ(どんどんぱふぱふっ)！<BR>感想掲示板のボード一つへの書き込みは最大50件までですので、今後本作への感想ははこちらのNo.2ボードをご利用下さい。<BR>（作品付属のフォームからも、現在は正しくこちらのボードに投稿されます）<BR>なお、対応が遅れましたことを、読者の皆さんならびに作者のジャージレッド氏におわびいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>aaaa</strong>  <i>2000/11/13 09:21:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=974074911gjmpcf&id2=973984992ekfayc&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_974074911gjmpcf_id2_973984992ekfayc_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��R�b�@���������H�z<BR>�ʔ�������,�����Ƒ������ǂ݂���.<BR>
+【第３話　ももちゃん？】<BR>面白かった,もっと続きが読みたい.<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/14 17:13:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/14 17:13:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=974189601hjukdw&id2=973984992ekfayc&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_974189601hjukdw_id2_973984992ekfayc_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-aaaa�l�A�����ǂ�ł��������ėL��������܂��B<BR>�@�����̌��Ȃ�ł����ǁA���A��S�b�̏o�����ŔY��ł��܂��B�Ȃ����͂������o�����ĔY�ނ�ł��傤�B�����A�w�̉��D���̃V�[������n�߂邩�A����Ƃ��d�ԓ��̃V�[������n�߂邩�A�Ƃ��������̈Ⴂ�Ȃ̂ɁE�E�E�B�ł����ꂾ���Ȃ�ł����ǁA�b�̓W�J�͂��Ȃ����ė����ł���ˁB
+aaaa様、いつも読んでくださって有難うございます。<BR>　続きの件なんですけど、今、第４話の出だしで悩んでいます。なぜ私はこうも出だして悩むんでしょう。ただ、駅の改札口のシーンから始めるか、それとも電車内のシーンから始めるか、というだけの違いなのに・・・。でもそれだけなんですけど、話の展開はかなり違って来るんですよね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/11/14 19:13:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/11/14 19:13:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=974196836prgkti&id2=973984992ekfayc&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_974196836prgkti_id2_973984992ekfayc_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���w�̉��D��<BR>�������D��������~�L�����́E�E�E�B<BR>���d�ԓ�<BR>�ԓ��ɂ������@�B�͂����ς��B�d���f���Ƃ��A���q����̌g�ѓd�b�Ƃ��B�~�L�����́E�E�E�B
+＞駅の改札口<BR>自動改札だったらミキちゃんは・・・。<BR>＞電車内<BR>車内にも精密機械はいっぱい。電光掲示板とか、お客さんの携帯電話とか。ミキちゃんは・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/15 17:33:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/15 17:33:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=974277211cttpn&id2=973984992ekfayc&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_974277211cttpn_id2_973984992ekfayc_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l�A�䊴�z�L��������܂��B<BR>�@2�p�^�[���̏o���������ۂɏ����Ă݂āA�f���ɑ�����������ق��ɂ��Ă݂܂����B���ꂩ��A�����W�S�Q�U�l�̗\�z�̂ق�����������A�����O��̕����ɂȂ�悤�����ݒ�������点�Ă��炢�܂����B�����҉������B���悢�掟��͗d���̐g�̂̔閧�i�H�j���E�E�E
+ｍｋ８４２６様、御感想有難うございます。<BR>　2パターンの出だしを実際に書いてみて、素直に続きが書けるほうにしてみました。それから、ｍｋ８４２６様の予想のほうも半分当り、半分外れの方向になるよう少し設定をいじらせてもらいました。ご期待下さい。いよいよ次回は妖精の身体の秘密（？）が・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����@���b</strong>  <i>2000/11/18 21:40:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>東方　識叡</strong>  <i>2000/11/18 21:40:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=974551244sxacdvh&id2=973984992ekfayc&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_974551244sxacdvh_id2_973984992ekfayc_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��R�b�@���������H�z<BR>1�A2�A3�b�Ƒ����ēǂ݂܂����B<BR>���z�����ɖʔ��������ł��B<BR>���܂ŁA�����W�J�̘b�Ȃ̂ŁA<BR>���Ɋy���݂ł��B<BR>����΂��Ă��������B<BR>
+【第３話　ももちゃん？】<BR>1、2、3話と続けて読みました。<BR>発想が非常に面白かったです。<BR>今まで、無い展開の話なので、<BR>非常に楽しみです。<BR>がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/19 17:41:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/19 17:41:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=974623278renrbg&id2=973984992ekfayc&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_974623278renrbg_id2_973984992ekfayc_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����@���b �l��<BR>��x�ɑ����ēǂ�Œ������肪�Ƃ��������܂����B����Ȃɂ���C�ɓǂ�Œ��������ł��B<BR>�����z�����ɖʔ��������ł��B<BR>�����ł����B���ɂ�����Ƒn���̖���������O�̔��z�Ȃ̂ł���B���������Ȃ��Ă����̓��͂�����ƕςł��ˁB�i���M���X�j�@���ł��������Ċ���������ł��B<BR>�Ƃ���ő�S�b�͌��ݎO���̈�̏o���ł����A����͂܂��G���V�[����������ł��B�ǂ�ǂ�b�����҉����Ă���̂ŁA����ɖG���V�[��������̂ɋ�J���Ă��܂��B�ł��撣��܂��B
+東方　識叡 様へ<BR>一度に続けて読んで頂きありがとうございました。そんなにも一気に読んで頂き感激です。<BR>＞発想が非常に面白かったです。<BR>そうですか。私にしたら独創性の無い当たり前の発想なのですよ。もしかしなくても私の頭はちょっと変ですね。（自信満々）　喜んでいただけて嬉しい限りです。<BR>ところで第４話は現在三分の一の出来ですが、今回はまだ萌えシーンが無いんです。どんどん話が長編化しているので、毎回に萌えシーンを入れるのに苦労しています。でも頑張ります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>aaaa</strong>  <i>2000/11/28 09:21:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975370912rwuif&id2=973984992ekfayc&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975370912rwuif_id2_973984992ekfayc_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�d�������̋G�߁H�z<BR><BR>�ʔ�������.<BR>�����Ƒ������ǂ݂���<BR> 
+【妖精狂いの季節？】<BR><BR>面白かった.<BR>もっと続きが読みたい<BR> 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>nocturne</strong>  <i>2000/11/28 21:46:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975415582huxyyo&id2=973984992ekfayc&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975415582huxyyo_id2_973984992ekfayc_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̐ݒ�A�G���܂��˂��B<BR>���҂��Ă܂���[�B<BR>
+この設定、萌えますねぇ。<BR>期待してますよー。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/11/28 22:20:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/11/28 22:20:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975417647xqudrxd&id2=973984992ekfayc&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975417647xqudrxd_id2_973984992ekfayc_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���₠�A�҂����˂܂�����B<BR>����A�ł��ʔ��������ł��˂��A������B<BR>�d���́u���y�v�哇�i�����H�j�����u�i���p�ȁv���X�R���ȂǁA���̗d�������̓o����Ȃ��Ȃ��悩�����ł��B<BR>�ŁA���������́E�E�E�܂��܂������܂��˂��A����B
+いやあ、待ちかねましたよ。<BR>うん、でも面白かったですねぇ、今回も。<BR>妖精の「大先輩」大島（淫乱？）さんや「ナンパな」佐々山氏など、他の妖精たちの登場もなかなかよかったです。<BR>で、お買い物は・・・まだまだ続きますねぇ、これ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>NONAME</strong>  <i>2000/11/29 00:10:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975424242rqbfkl&id2=973984992ekfayc&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975424242rqbfkl_id2_973984992ekfayc_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�d�������̋G�߁H�z <BR><BR>�P�b����ǂ܂��Ă��������Ă܂��B<BR>�Ƃɂ��������E�E�E�߂��Ⴍ���Ⴈ�����낢�ł��I<BR>���b���������낯���<BR>��b���������낭�Ă��܂�Ȃ��ł�<BR><BR>�������y���݂ɂ��Ă܂�
+【妖精狂いの季節？】 <BR><BR>１話から読ませていただいてます。<BR>とにかくもお・・・めちゃくちゃおもしろいです！<BR>お話もおもしろければ<BR>会話もおもしろくてたまんないです<BR><BR>続きを楽しみにしてます
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>NONAME</strong>  <i>2000/11/29 01:05:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975427526ubsjgt&id2=973984992ekfayc&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975427526ubsjgt_id2_973984992ekfayc_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�d�������̋G�߁H�z <BR>�y�����ǂ܂��Ă��������܂����B<BR><BR>���u�N�����Ƃ����ā`�v <BR>���̂܂܂ō���ʂĂĂ���~�L����񂪃i�C�X�ł��B
+【妖精狂いの季節？】 <BR>楽しく読ませていただきました。<BR><BR>＞「誰か何とかして～」 <BR>裸のままで困り果てているミキちゃんがナイスです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/29 08:37:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/29 08:37:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975454623sbbahkl&id2=973984992ekfayc&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975454623sbbahkl_id2_973984992ekfayc_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-aaaa�l��<BR>�@�����ǂ�ŉ�����L��������܂��B�f�����䊴�z�͋M�d�ł��B<BR><BR>nocturne�l��<BR>�@�u�ݒ�G���v�Ƃ������t�͖����ł��傤���A�j���̓���ւ��Ƃ����b�́A�l����܂ł��Ȃ����̐ݒ�ɖG����킯�ł���ˁB�L�����𓮂����Ղ��ݒ���l����ꂽ��ǂ��ł���ˁB���̗d���I���퐶���́A�����ł��v�����ȏ�ɃL�����𓮂����₷���āA��l�ق�������ł��܂��B<BR><BR> �����W�S�Q�U�l��<BR>�@���́A�����W�S�Q�U�l�̔�������ԋC�ɂȂ��Ă�����ł���B�O�ɗ\�z���ĉ����������e���A�킴�ƊO���l�Șb�ɂ��܂�������ˁB�ł��C�ɓ����Ē����Ċ������ł��B����Ƃ��X�������肢�������܂��B<BR><BR>NONAME�l��<BR>�@��b�̕����ɒ��ڂ��Ă��������ėL��������܂��B��b�����Ȃ��ƁA�b�����炷���ɂȂ��Ă��܂������������̂ŁA��b�����ɂ͗͂����Ă��܂��B<BR>�@���̂܂܂ō���ʂĂĂ���~�L�����B�p���炢���z���o���ėǂ��ł���ˁB�ł��������ォ�������ȂƔ��Ȃ��Ă��܂��B����Ƃ��X�������肢�v���܂��B<BR><BR><BR><BR>
+aaaa様へ<BR>　いつも読んで下さり有難うございます。素早い御感想は貴重です。<BR><BR>nocturne様へ<BR>　「設定萌え」という言葉は無いでしょうが、男女の入れ替わりという話は、考えるまでもなくその設定に萌えるわけですよね。キャラを動かし易い設定を考えられたら良いですよね。この妖精的日常生活は、自分でも思った以上にキャラを動かしやすくて、一人ほくそえんでいます。<BR><BR> ｍｋ８４２６様へ<BR>　実は、ｍｋ８４２６様の反応が一番気になっていたんですよ。前に予想して下さった内容を、わざと外す様な話にしましたからね。でも気に入って頂いて嬉しいです。今後とも宜しくお願いいたします。<BR><BR>NONAME様へ<BR>　会話の部分に注目していただいて有難うございます。会話が少ないと、話があらすじになってしまいそうだったので、会話部分には力を入れています。<BR>　裸のままで困り果てているミキちゃん。恥じらいが想像出来て良いですよね。でも落ちが弱かったかなと反省しています。今後とも宜しくお願い致します。<BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�O���΂��΂�</strong>  <i>2000/11/29 11:49:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>０さばいばぁ</strong>  <i>2000/11/29 11:49:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975466168xhxvsvf&id2=973984992ekfayc&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975466168xhxvsvf_id2_973984992ekfayc_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������ł��B<BR>����ɂ��Ă��Ƃ�ł��Ȃ��K���������Ă��ł��ˁA�d������(��)<BR>���ꂩ��~�L�����͂ǂ��Ȃ��Ă�����ł��傤�H�y���݂ł��B<BR>������y���݂ɂ��Ă��܂��B
+面白かったです。<BR>それにしてもとんでもない習性を持ってるんですね、妖精って(笑)<BR>これからミキちゃんはどうなっていくんでしょう？楽しみです。<BR>次回も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/11/29 22:43:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/11/29 22:43:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975505423sbkosu&id2=973984992ekfayc&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975505423sbkosu_id2_973984992ekfayc_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���O�ɗ\�z���ĉ����������e���A�킴�ƊO���l�Șb�ɂ��܂�������ˁB<BR>���������A�ǂ�ǂ񗠐؂�������Ă��������I�ʔ�����΂���łn�D�j�D<BR>���^�N�V�Ȃ�Ă܂��܂��P�삵�����������ƂȂ����I���S�҂ł�����B
+＞前に予想して下さった内容を、わざと外す様な話にしましたからね。<BR>いえいえ、どんどん裏切っちゃってください！面白ければそれでＯ．Ｋ．<BR>ワタクシなんてまだまだ１作しか書いたことない超！初心者ですから。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/30 01:11:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/30 01:11:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975514314qytemee&id2=973984992ekfayc&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975514314qytemee_id2_973984992ekfayc_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�d�������̋G�߁v�Ɂu���Ă���F�B�v�B<BR>�Ȃ�ƂȂ����u����v���z���ł��邾���Ɂc�i���j<BR>�Ȃ�<BR><BR>���x�ȉȊw�Z�p�����@<BR><BR>�ł�����B
+「妖精狂いの季節」に「巣籠もり友達」。<BR>なんとなあく「それ」が想像できるだけに…（爆）<BR>なんせ<BR><BR>高度な科学技術＝魔法<BR><BR>ですから。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/30 01:19:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/30 01:19:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975514790aprdnx&id2=973984992ekfayc&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975514790aprdnx_id2_973984992ekfayc_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�k�ڂ̈ꌏ<BR>�u����v�ł͑傫������ƌ����ӌ�������܂������A�R���ɂ��Ắu�d������v�̐g�̂͐L�k���݂ƌ������Ƃɂ����Ⴆ�΂����񂾂��B<BR>�Ƃ���ƁA�u���悤�ӂ��v�͂��̂������L�k���������f�ށH�H
+縮尺の一件<BR>「あれ」では大きすぎると言う意見がありましたが、コレについては「妖精さん」の身体は伸縮自在と言うことにしちゃえばいいんだし。<BR>とすると、「おようふく」はものすごく伸縮性がいい素材？？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/11/30 06:39:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/11/30 06:39:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975533956jeiiumh&id2=973984992ekfayc&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975533956jeiiumh_id2_973984992ekfayc_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O���΂��΂��l��<BR>�@�ʔ����Ǝ󂯎~�߂Ă��������A���肪�Ƃ��������܂��B�܂Ƃ��Ȏ�l���ɑ΂��Ĉُ�Șe��B�ƈُ�Ȑ��ԂƂ����̂��A���̍�i�̖ڎw���Ƃ���ł��B�Ƃ肠�����ق̂ڂ̘H���̊Ԃ́E�E�E�A�ł����ǁB<BR><BR>�����W�S�Q�U�l��<BR>�@�䊰��Ȍ�ӌ����肪�Ƃ��������܂��B�����ǎ҂̊��҂𗠐؂邱�Ƃ��ʔ����Ȃ�錍�Ƃ͎v���Ă��܂���B�Ƃ��ɂ͊��Ғʂ�̓W�J���������Ƃ��厖�Ǝv���Ă��܂����A����͗��؂点�Ă��������܂����B<BR><BR>���Ȃ���l��<BR>�@�󂯂Ă����������肪�Ƃ��������܂��B�b�����΂炭�i�ނƁA�P���Ȗ��@�����x�ȉȊw�Z�p�Ƃ����W�J�ɂȂ�܂���B���Ԃ��Ⴄ�Ƃ��낪���݂͂��Ȃ�ł�����ǂˁB<BR>�@�u����v�̈ꌏ�́A�������������̂���͋Ƃ��������ȂƎv���܂����A���ɂ悢��p�i���v�����Ȃ��������̂ł�����E�E�E�A�F�l�̍L���S�Ɋ��҂��邵������܂���B<BR>�@�L�k���̗ǂ��f�ނŕ������Ƃ����A�C�f�B�A�́A�ǂ��ł��ˁB�g���Ă���낵���ł��傤���H<BR> <BR><BR>
+０さばいばぁ様へ<BR>　面白いと受け止めていただき、ありがとうございます。まともな主人公に対して異常な脇役達と異常な世間というのが、この作品の目指すところです。とりあえずほのぼの路線の間は・・・、ですけど。<BR><BR>ｍｋ８４２６様へ<BR>　御寛大な御意見ありがとうございます。いつも読者の期待を裏切ることが面白くなる秘訣とは思っていません。ときには期待通りの展開を書くことも大事と思っていますが、今回は裏切らせていただきました。<BR><BR>すなさん様へ<BR>　受けていただきありがとうございます。話がしばらく進むと、単純な魔法＝高度な科学技術という展開になりますよ。順番が違うところが実はみそなんですけれどね。<BR>　「あれ」の一件は、私も少し無理のある力業だったかなと思いますが、他によい代用品が思いつかなかったものですから・・・、皆様の広い心に期待するしかありません。<BR>　伸縮性の良い素材で服を作るというアイディアは、良いですね。使ってもよろしいでしょうか？<BR> <BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>munisuke.</strong>  <i>2000/12/01 01:55:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975603330rnaqb&id2=973984992ekfayc&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975603330rnaqb_id2_973984992ekfayc_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�d�������̋G�߁H�z 
+【妖精狂いの季節？】 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ނɂ���</strong>  <i>2000/12/01 02:01:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>むにすけ</strong>  <i>2000/12/01 02:01:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975603684whnkgfl&id2=973984992ekfayc&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975603684whnkgfl_id2_973984992ekfayc_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ς�A�ق̂ڂ̂��Ă��Ă�����`�`�`�B<BR>�������Ƃ��łȂ��̂��ȁH<BR>���̎��́A�V���A�X���|�h�Ȃ̂��ȁH<BR>�킭�킭�B<BR><BR><BR><BR>
+やっぱり、ほのぼのしていていいよ～～～。<BR>つかい魔とかでないのかな？<BR>その時は、シリアスモ－ドなのかな？<BR>わくわく。<BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/12/01 06:56:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/12/01 06:56:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975621415tyineih&id2=973984992ekfayc&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975621415tyineih_id2_973984992ekfayc_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ނɂ����imunisuke.�j�l��<BR>�@�����������`�I�@�g�����̑��݂���������Y��Ă��܂����I�I�@�ǂ����܂��傤�H�@���@�g���ȗd���Ɏ������g�������āA�ǂ�ȑ��݂ɂȂ��ł��傤���B�傫�����炷��Ƃ���ς�g�����h�ɂȂ�̂��ȁH�@����Ƃ�����L�H�@�w���ɂ܂������Ĕn����Ƃ����̂��ǂ������E�E�E�B�͂��܂��ӕ\�����ă��{�b�g��R���s���[�^�[�ɂȂ����肵�āE�E�E�B�i�����Ƃ��������́A�܂��ɔ鎖���E�E�E�j<BR>�@�x���Ȃ�܂������A�M�d�ȃA�C�f�B�A�𒸂��܂��Ă��肪�Ƃ��������܂����B��T�b�������n�߂�O�ɁA������x�X�g�[���[����蒼���Ă݂܂��B�N���ɂ͏����グ�����ł��ˁB�撣��܂��B 
+むにすけ（munisuke.）様へ<BR>　そうかあぁ～！　使い魔の存在をすっかり忘れていました！！　どうしましょう？　魔法使いな妖精に似合う使い魔って、どんな存在になるんでしょうか。大きさからするとやっぱり“昆虫”になるのかな？　それとも犬や猫？　背中にまたがって馬代わりというのも良いかも・・・。はたまた意表をついてロボットやコンピューターになったりして・・・。（おっとここから先は、まだ極秘事項・・・）<BR>　遅くなりましたが、貴重なアイディアを頂きましてありがとうございました。第５話を書き始める前に、もう一度ストーリーを練り直してみます。年内には書き上げたいですね。頑張ります。 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2000/12/01 23:40:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2000/12/01 23:40:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975681616fboqwka&id2=973984992ekfayc&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975681616fboqwka_id2_973984992ekfayc_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āB<BR>�~�L����񂪂ǂ��ɂ������ɂ������邵���̂ŏ������܂��Ă��������܂��B<BR><BR>�S�b�܂œǂ܂��Ă��������܂����B<BR>��ς������낢�ł��B���������΂��Ȃ���ǂ݂܂����B<BR>�d�������̋G�߂̂�������i�C�X�ł��B�P�O���ɂȂ�̂��҂��������ł��B(����)<BR>�o�ꂷ��d�������I�ł��ˁB�哇�̂��o�����A�{�[�C�t�����h�̎��Y����(������)�̂ق��ɂ��A<BR>�~�L�����Ɠ��N��̗d���t�����Y(�H�B�H�B)���o���ė~�������̂ł��B<BR><BR>���ƁA�L�Ȃ�ł����A���͂Ƃ������L�͏�p�n�ɂ͂Ȃ�Ȃ��Ǝv���܂��ł��B<BR>���̋����Ƃ���ɃX�����Ƃ����肱�ދC�܂���ȍs���p�^�[���́A��p�ɂ͌����܂����B<BR>����ǂ��납�A�ނ���V�G�ɂȂ�񂶂�Ȃ����ƁB<BR>���͔L�ƃP���J����~�L����񂪌����������肵�āB<BR>�Ƒ��̗��璆�A�����ŕ����ʂ�H����L�΂��~�L�����B<BR>�����֋ߏ��̖�ǔL���c�B<BR>�����킦�~�L�����I�ӂ̂����������ʂ��I�Ƃ��B<BR>�܂Ƃ��ɐ�������Ε�����ł��傤���ǁB<BR>�i�L���āA�������̂����ɂ��Ȃ�苭���ł��B�n�C�j<BR>
+はじめまして。<BR>ミキちゃんがどうにもこうにも愛くるしいので書きこませていただきます。<BR><BR>４話まで読ませていただきました。<BR>大変おもしろいです。くすくす笑いながら読みました。<BR>妖精狂いの季節のくだりもナイスです。１０月になるのが待ち遠しいです。(こら)<BR>登場する妖精も個性的ですね。大島のお姉さんや、ボーイフレンドの時雄くん(ちがう)のほかにも、<BR>ミキちゃんと同年代の妖精フレンズ(ォィォィ)も出して欲しいものです。<BR><BR>あと、猫なんですが、犬はともかく猫は乗用馬にはならないと思いますです。<BR>あの狭いところにスルリともぐりこむ気まぐれな行動パターンは、乗用には向きませんわ。<BR>それどころか、むしろ天敵になるんじゃないかと。<BR>実は猫とケンカするミキちゃんが見たかったりして。<BR>家族の留守中、縁側で文字通り羽根を伸ばすミキちゃん。<BR>そこへ近所の野良猫が…。<BR>さあ戦えミキちゃん！晩のおかずを守りぬけ！とか。<BR>まともに戦ったら絶対負けるでしょうけど。<BR>（猫って、小動物のくせにかなり手強いです。ハイ）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/12/02 07:28:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/12/02 07:28:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975709701sjmsosc&id2=973984992ekfayc&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975709701sjmsosc_id2_973984992ekfayc_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���a�l��<BR>����ς������낢�ł��B���������΂��Ȃ���ǂ݂܂����B<BR>�@���₠�A��Ԃ̂قߌ��t�A���肪�Ƃ��������܂��B�ł������܂����ł��˂��B���R��������܂��񂪁A���͎����̍�i��ǂݕԂ��Ă��A���������΂��Ȃ���ł���B�W�J��S���m���Ă܂�����ˁB�Ȃ񂩂���`���B�Ƃ͌����Ă��A�L���͂��n��Ȏ��ł�����A��i�������グ�Ă����T�Ԃ����Ă���ǂݕԂ��ƁA���������A�����Ă΂���Ȕ��z�����Ă���Ȏ������Ă����āA�v�����Ⴂ�܂����ˁ�<BR><BR>���~�L�����Ɠ��N��̗d���t�����Y(�H�B�H�B)���o���ė~�������̂ł��B<BR>�@���Ⴀ�o���܂��傤���H�@�{�i�I�ȓo��͂܂���ł����A��T�b�̃��X�g�߂��ŁA�Ƃ肠����������킹�ĉ�b�����������邮�炢�Ȃ�A���Ƃ��ύX�o�������ł�����B�ł��t�����Y�Ȋ֌W�ɂȂ�̂́A�����Ƃ����Ɛ�̘b�ł����ˁB<BR><BR>������ǂ��납�A�ނ���V�G�ɂȂ�񂶂�Ȃ����ƁB<BR>�@�����ł���˂��A�����Ă݂�΂��������m��܂���˂��B�ł̓~�L����񂪖��@���g����l�ɂȂ�̂͂܂������Ԃ�Ɛ�Ȃ�ł����A���̎��Ɂg�g�����h�̗l�ȑ��݂ɂȂ郂�m�́A����L�͂�߂āA�݂Ȃ���̑z���o���Ȃ��悤�ȃ��m�ɂ��܂��傤���H�@�ӂӂ��A���ꂩ��l���܂��B<BR>�@�A�ڂ̗��_�́A�r���ł�����x�X�g�[���[��ǎ҂̔����ɍ��킹�ĕύX�o����_�ł���ˁB<BR>�@�Ȃ��A��S�b�𑗐M���ĂU�����o�߂��Ă��܂����A�悤�₭��T�b�̏o�������������Ƃ��o���܂����B�����̃p�^�[���ł́A�����܂ŏ�����΁A��͐����ɂ܂����āE�E�E�̂͂��ł�����A�������΂炭���҂��������B���ƂQ�T�Ԓ��x���ȁE�E�E�B
+七斬様へ<BR>＞大変おもしろいです。くすくす笑いながら読みました。<BR>　いやあ、一番のほめ言葉、ありがとうございます。でもうらやましいですねえ。当然かもしれませんが、私は自分の作品を読み返しても、くすくす笑えないんですよ。展開を全部知ってますからね。なんかずる～い。とは言っても、記憶力が貧弱な私ですから、作品を書き上げてから一週間もしてから読み返すと、おいおい、私ってばこんな発想をしてこんな事書いてるよって、思っちゃいますがね♪<BR><BR>＞ミキちゃんと同年代の妖精フレンズ(ォィォィ)も出して欲しいものです。<BR>　じゃあ出しましょうか？　本格的な登場はまだ先ですが、第５話のラスト近くで、とりあえず顔を合わせて会話を少しさせるぐらいなら、何とか変更出来そうですから。でもフレンズな関係になるのは、もっともっと先の話ですがね。<BR><BR>＞それどころか、むしろ天敵になるんじゃないかと。<BR>　そうですよねえ、言われてみればそうかも知れませんねえ。ではミキちゃんが魔法を使える様になるのはまだずいぶんと先なんですが、その時に“使い魔”の様な存在になるモノは、犬や猫はやめて、みなさんの想像出来ないようなモノにしましょうか？　ふふっ、これから考えます。<BR>　連載の利点は、途中である程度ストーリーを読者の反応に合わせて変更出来る点ですよね。<BR>　なお、第４話を送信して６日が経過していますが、ようやく第５話の出だしを書くことが出来ました。いつものパターンでは、ここまで書ければ、後は勢いにまかせて・・・のはずですから、もうしばらくお待ち下さい。あと２週間程度かな・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto: " target="_blank">���Ȃ���</a></strong>  <i>2000/12/02 23:09:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto: " target="_blank">すなさん</a></strong>  <i>2000/12/02 23:09:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975766176ayqeiky&id2=973984992ekfayc&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975766176ayqeiky_id2_973984992ekfayc_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�]��z���������Ȃ��g�����F�u墁v�u��횗�i������(��)�Ԃ�j�v<BR><BR>�傫���I�ɂ́u�l�ԃT�C�Y�̖��@�g�����L��G�v���Ƃ����<BR>�u�~�L�����T�C�Y�ł́v�a�l�i���ǂԂ˂��݁j�ɂȂ�̂��Ȃ��H<BR>���I�ɂ̓��X��n���X�^�[�ł������ł����B<BR>
+余り想像したくない使い魔：「蠅」「御器囓（＝ごき(か)ぶり）」<BR><BR>大きさ的には「人間サイズの魔法使いが猫や烏」だとすると<BR>「ミキちゃんサイズでは」溝鼠（＝どぶねずみ）になるのかなあ？<BR>私的にはリスやハムスターでもいいですが。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/12/03 05:57:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/12/03 05:57:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975790650byhuchd&id2=973984992ekfayc&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975790650byhuchd_id2_973984992ekfayc_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���l��<BR>�@���������z��������A���肪�Ƃ��������܂��B�F�X�Ɨ\�z���Ă��������Ă��܂����A���̌��Ɋւ��ẮA�F�l�̗\�z�ƁA�g�����ɑ΂��鐢�Ԃ̏펯�𗠐؂点�Ē������ƂɌ��肵�Ă��܂��B(^_^)<BR>�@�������A�����������ǁA�܂������Ȃ��I�I�@�X�g�[���[�������܂Ői�ނ̂́A�܂��܂������Ԃ��̂��ƂȂ̂ɁE�E�E�B�撣���ď����������Ă��������Ȃ��ł��ˁB 
+すなさん様へ<BR>　いつもご感想を下さり、ありがとうございます。色々と予想していただいていますが、この件に関しては、皆様の予想と、使い魔に対する世間の常識を裏切らせて頂くことに決定しています。(^_^)<BR>　ああっ、言いたいけど、まだ言えない！！　ストーリーがそこまで進むのは、まだまだずいぶん先のことなのに・・・。頑張って書き書きしていくしかないですね。 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200010/20041039/elfin_life_5.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/12/19 20:38:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200010/20041039/elfin_life_5.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/12/19 20:38:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977225883uqxtdh&id2=973984992ekfayc&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977225883uqxtdh_id2_973984992ekfayc_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z ���������𑱂���~�L�������s�l�B�������A�ق̂ڂ̂Ȕޏ��B�ɁA�d���Љ�̈Í��ʂ����������B�V���A�X�̗\���H
+【あらすじ】 お買い物を続けるミキちゃん御一行様。しかし、ほのぼのな彼女達に、妖精社会の暗黒面が顔を見せる。シリアスの予感？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>NONAME</strong>  <i>2000/12/19 23:41:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977236907aropht&id2=973984992ekfayc&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977236907aropht_id2_973984992ekfayc_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��T�b�@�����e�H�z 
+【第５話　黒い影？】 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/12/19 23:47:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/12/19 23:47:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977237248jrfavu&id2=973984992ekfayc&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977237248jrfavu_id2_973984992ekfayc_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������ҁA�I���A�ł����B��������낢��Ƃ���܂����˂��B<BR>�ł��A�ӂ�Ђ�A�����ł��˂��B�d�������̂ӂ�Ђ���āA����ȗ��R����������ł��˂��B<BR>�Ƃ���ŁA��s���̎����R�O�`�S�T�q�ł����A�~�L�����̑̒�����Q�T�p����������A������Đl�Ԋ��Z�i�P�������ĂP�T�O�p�ŎZ�o�j���ƂP�W�O�`�Q�V�O�q�ł��ˁB�V�������݂ł��ȁB���g�ł��̃X�s�[�h�͂��Ȃ�|���悤�ȋC���E�E�E�B<BR>�Ō�ɏo�Ă��������j�̎q���Ȃɂ���g�����肻���ȗ\���B������y���݂ł��B�ł́A�܂��B
+お買い物編、終了、ですか。今回もいろいろとありましたねぇ。<BR>でも、ふりひら、いいですねぇ。妖精少女のふりひらって、そんな理由があったんですねぇ。<BR>ところで、飛行時の時速３０～４５㎞ですが、ミキちゃんの体長が約２５㎝だったから、これって人間換算（単純化して１５０㎝で算出）だと１８０～２７０㎞ですね。新幹線並みですな。生身でこのスピードはかなり怖いような気が・・・。<BR>最後に出てきた黒い男の子もなにか一波乱ありそうな予感。次作も楽しみです。では、また。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">�S�[���h�A�[��</a></strong>  <i>2000/12/20 00:47:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">ゴールドアーム</a></strong>  <i>2000/12/20 00:47:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977240878oopdvv&id2=973984992ekfayc&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977240878oopdvv_id2_973984992ekfayc_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ŏ��͒P���ȖG���n�̂��b�������̂ɁA�L�����������Ă���ɘA��āA���������o�n�߂��݂����ł��ˁB��҂̌��t�ōs��������΂�����ɏ����Ă���Ƃ���܂������A����ł��Ęb���j�]���Ȃ��Ƃ��́A���̂܂܃m���ɔC���ď����̂���Ԃł���B���ꂱ�����u��i���E���ӎu�������n�߂�v�u�Ԃł�����B�����Ȃ�Ə����̂��y�����Ȃ��ł���ˁB��Ҏ��g���A���ǂ݂����ǎ҂ɂȂ��Ă��܂��܂�����B<BR>�@���̍�i�̑唼�́A���������m���̎Y���ł����B���̊ԓ��e�����o�_��Ђ̎�����̂R���A�㔼�̓m���ɔC���Ĉ�C�ɏ����グ�����̂ł�����B�d���̗��̘b�̑O�܂ł́A������x�v�Z�����W�J�ł����ǁA���������́u�p����̊G�A�J���J���A�Ō�͂�����Ⴄ�v�������܂��Ă܂���ł����B���I�i�Ƃ̊|�������͊��S�ȃA�h���u�ł��B<BR>�@�t�Ɍ����ƁA�����������Ɂu�_���~��Ă���v��ԂɂȂ�Ȃ��ƁA���̍�i���Ċ������Ȃ���ł���ˁ`�B�������Ŗ�������́A�܂������ɂ����܂���B<BR>�@�ςȘb�ɂȂ��Ă��܂��܂������A���́u�d���I���퐶���v�A�s�r�e�ł���Ɠ����ɂs�r�e�𒴂��������ʔ����t�@���^�W�[�ɂȂ肻���ł��B���҂��Ă܂���B
+最初は単純な萌え系のお話だったのに、キャラが立ってくるに連れて、いい味が出始めたみたいですね。作者の言葉で行き当たりばったりに書いているとありましたが、それでいて話が破綻しないときは、そのままノリに任せて書くのが一番ですよ。それこそが「作品世界が意志を持ち始める」瞬間ですから。こうなると書くのが楽しくなるんですよね。作者自身が、先を読みたい読者になってしまいますから。<BR>　私の作品の大半は、そういうノリの産物ですし。この間投稿した出雲大社の事件簿の３も、後半はノリに任せて一気に書き上げたものですから。妖精の卵の話の前までは、ある程度計算した展開ですけど、そこから後は「角さんの絵、カリカリ、最後はやっちゃう」しか決まってませんでした。レオナとの掛け合いは完全なアドリブです。<BR>　逆に言うと、そういう風に「神が降りてくる」状態にならないと、私の作品って完結しないんですよね～。おかげで魔剣物語は、まだ結末にいけません。<BR>　変な話になってしまいましたが、この「妖精的日常生活」、ＴＳＦであると同時にＴＳＦを超えた凄く面白いファンタジーになりそうです。期待してますよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/12/20 00:58:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/12/20 00:58:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977241530brdfb&id2=973984992ekfayc&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977241530brdfb_id2_973984992ekfayc_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[�����e]<BR>�������A����ς�Ȃ��B<BR>���X�g�̒j�̎q�����̌�ł����Ȃ葃�Ă���ɂȂ�����H<BR>���炢��������B<BR><BR>�Ƃ���ł��̃V���[�Y�A<BR>�������ނ���Ȃ�u�n�ɑ��̒��������z�ȁi�t�@���^�W�A�j�v�B<BR>
+[黒い影]<BR>そうか、やっぱりなあ。<BR>ラストの男の子がその後でいきなり巣籠もりになったら？<BR>えらいこっちゃ。<BR><BR>ところでこのシリーズ、<BR>もし分類するなら「地に足の着いた幻想曲（ファンタジア）」。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�O���΂��΂�</strong>  <i>2000/12/20 01:54:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>０さばいばぁ</strong>  <i>2000/12/20 01:54:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977244870xjcnym&id2=973984992ekfayc&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977244870xjcnym_id2_973984992ekfayc_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƃ��Ƃ����������I����Ĉ���S�c�c�Ǝv������A�܂��g���u���Ɋ������܂�Ă邵(��)�~�L�����Ɉ����̓��͂���̂ł��傤���A���Ė����ł��ˁA���U���肪���邵�B<BR>���͂ǂ�ȃn�v�j���O���~�L������҂��Ă���̂ł��傤���A�y���݂ł��B
+とうとう買い物も終わって一安心……と思ったら、またトラブルに巻き込まれてるし(笑)ミキちゃんに安息の日はくるのでしょうか、って無理ですね、巣篭もりがあるし。<BR>次はどんなハプニングがミキちゃんを待っているのでしょうか、楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/12/20 12:50:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/12/20 12:50:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977284203dpsxt&id2=973984992ekfayc&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977284203dpsxt_id2_973984992ekfayc_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-NONAME �l��<BR>�@�����`��B�����炭���M�{�^�������̋C�Ȃ��ɃN���b�N�����������ł��傤�ˁB�ł��A���Y��ĔM�S�ɓǂ�ŉ���������ł��傤�B�L��������܂��B<BR><BR>�����W�S�Q�U �l��<BR>�@�X�s�[�h���̌v�Z�����ĉ�����L��������܂��B���́A�����̕ȂœK���ɐ������o�����Ⴂ�܂������ǁA�����ł����A�V�������݂̃X�s�[�h���ɂȂ�Ƃ͂������ł��ˁB�[���ǂ�Œ������ӂł��B<BR><BR>�S�[���h�A�[�� �l��<BR>�@���́A���̏����A�V���~���[�V���������̎�@�ŏ����Ă��܂��B�܂����E��ݒ肵�A���̐��E�ɂ����ēo��l���͂ǂ��������Ƃ������Ƃ��l���ď����̂ł��B�w������̍s���S���w�̐搶�������Ă��܂������A�w�l�̍s���͗\���ł��Ȃ����A�l�ԏW�c�̍s���͗\���\���x�Ƃ������t���L��܂��B�Ƃɂ����A���E�A��i�̒��̎Љ������Ă����΁A��͍쒆�̐l���͏���ɓ����Ă����񂶂�Ȃ����ȂƎv���Ă����o�����̂ł����A�h���s�V�����B�ł�����A<BR><BR>���@�u��i���E���ӎu�������n�߂�v<BR><BR>�E�E�E�ƌ����ĉ������āA���̂������������ł��B����Ƃ��X�������肢���܂��B<BR><BR>���Ȃ���@�l��<BR>�@���Ғʂ�ł������H�@�y����ł��������Ċ������v���܂��B����ɂ��Ă�<BR><BR>���@�������ނ���Ȃ�u�n�ɑ��̒��������z�ȁi�t�@���^�W�A�j�v<BR><BR>�E�E�E�Ƃ����̂́A���܂�ɂ��ߕ��Ȃ��J�߂̂����t�B���k�ł��B�F�l�̂����҂𗠐؂�Ȃ��悤�ɂ���΂�܂��B<BR><BR>�O���΂��΂� �l��<BR>�@�y����ł����������悤�Ŋ������ł��B�������A�~�L�����ɂ́A�����A�����̓��X�͂���Ă��܂���B�����Ă��b�͂܂��܂������܂�����ˁB���������y���݂ɁE�E�E�A�Ƃ����Ƃ��ł����H<BR><BR>�F�l��<BR>�@��U�b�́A�Q�P���I�A�ŏ��̔N�̍ŏ��̌��̂����ɂ͏����グ�����ł��B<BR>�@����ł́A�F�l�A�ǂ����N���I�@�����ėǂ��V���I���I�@<BR><BR><BR><BR>
+NONAME 様へ<BR>　うぅ～ん。おそらく送信ボタンを何の気なしにクリックしちゃったんでしょうね。でも、我を忘れて熱心に読んで下さったんでしょう。有難うございます。<BR><BR>ｍｋ８４２６ 様へ<BR>　スピード感の計算をして下さり有難うございます。私は、いつもの癖で適当に数字を出しちゃいましたけど、そうですか、新幹線並みのスピード感になるとはすごいですね。深く読んで頂き感謝です。<BR><BR>ゴールドアーム 様へ<BR>　実は、この小説、シュミレーション小説の手法で書いています。まず世界を設定し、その世界において登場人物はどう動くかということを考えて書くのです。学生時代の行動心理学の先生が言っていましたが、『個人の行動は予測できないが、人間集団の行動は予測可能だ』という言葉が有ります。とにかく、世界、作品の中の社会を作っておけば、後は作中の人物は勝手に動いてくれるんじゃないかなと思ってかき出したのですが、ドンピシャリ。ですから、<BR><BR>＞　「作品世界が意志を持ち始める」<BR><BR>・・・と言って下さって、ものすごく嬉しいです。今後とも宜しくお願いします。<BR><BR>すなさん　様へ<BR>　期待通りでしたか？　楽しんでいただけて嬉しく思います。それにしても<BR><BR>＞　もし分類するなら「地に足の着いた幻想曲（ファンタジア）」<BR><BR>・・・というのは、あまりにも過分なお褒めのお言葉。恐縮です。皆様のご期待を裏切らないようにがんばります。<BR><BR>０さばいばぁ 様へ<BR>　楽しんでいただけたようで嬉しいです。しかし、ミキちゃんには、当分、安息の日々はやってきません。だってお話はまだまだ続きますからね。次回作をお楽しみに・・・、というとこですか？<BR><BR>皆様へ<BR>　第６話は、２１世紀、最初の年の最初の月のうちには書き上げたいです。<BR>　それでは、皆様、良いお年を！　そして良い新世紀を！　<BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/12/20 23:41:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/12/20 23:41:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977323313fldtvp&id2=973984992ekfayc&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977323313fldtvp_id2_973984992ekfayc_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��A�W���[�W���b�h����I�@�V���A�X�W�J���҂�����������ŁA�w�Z�����Ђƒʂ肭�炢�͂ق̂ڂ̃��[�h�Ō��Ă݂����C���B�t�@���Ƃ��ẮA�W�����}�ɔY�܂����Ƃ���ł��B���N���撣���ĉ������I<BR><BR>&gt; �l�̍s���͗\���ł��Ȃ����A�l�ԏW�c�̍s���͗\���\��<BR><BR>�l�ԎЉ�̔M�͊w�I��́BSF�w��͒隠�̋��S�x�ɏo�Ă���V�ːS���w�҃n���E�Z���_������������p���Ė����\�����s���Ă܂���ˁB�ƁA�˔��q���Ȃ��l�^��U���Ă݂���B����A�P�ɍD���ȏ����Ȃ�ł��A����B
+ども、ジャージレッドさん！　シリアス展開が待ち遠しい一方で、学校生活ひと通りくらいはほのぼのモードで見てみたい気も。ファンとしては、ジレンマに悩まされるところです。来年も頑張って下さい！<BR><BR>&gt; 個人の行動は予測できないが、人間集団の行動は予測可能だ<BR><BR>人間社会の熱力学的解析。SF『銀河帝國の興亡』に出てくる天才心理学者ハリ・セルダンがそれを応用して未来予測を行ってますよね。と、突拍子もなくネタを振ってみたり。いや、単に好きな小説なんです、これ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ނɂ���</strong>  <i>2000/12/21 02:41:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>むにすけ</strong>  <i>2000/12/21 02:41:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977334072islxdsa&id2=973984992ekfayc&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977334072islxdsa_id2_973984992ekfayc_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��T�b�@�Ƃ��Ă��ʔ��������ł��B<BR>�Ȃ񂩁A�����������A�d�����łĂ��܂����ˁ`�`�B�~�L�����Ƃ́A<BR>�i�D���A�t�Ȃ�ł��ˁ`�`�i�V�g�ƁA�����H�V�g�H�j�B<BR>�܂��A���O����킩��Ȃ��ł����A���ɂ����Ⴂ�܂����B<BR>�~�L�����̊w�Z�������A�ނɂ������݂Ă݂����A�������܂��B<BR>���N���H���N�́H�W���|�W�h���b�h�ɂƂ��Ă����N�ł���܂��悤�ɁA<BR>�撣���Ă��������B<BR><BR>
+第５話　とっても面白かったです。<BR>なんか、かっこいい、妖精がでてきましたね～～。ミキちゃんとは、<BR>格好が、逆なんですね～～（天使と、悪魔？堕天使？）。<BR>まだ、名前すらわからないですが、きにっちゃいました。<BR>ミキちゃんの学校生活を、むにすけもみてみたい、きがします。<BR>来年も？来年は？ジャ－ジドレッドにとっていい年でありますように、<BR>頑張ってください。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/12/21 06:37:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/12/21 06:37:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977348264eowlp&id2=973984992ekfayc&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977348264eowlp_id2_973984992ekfayc_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���d�F �l��<BR>�@SF�w��͒隠�̋��S�x�ł����H�@�m�����̖{�́A�����������w���炢�̎��ɁA�W���u�i�C���Łi�H�j��ǂ񂾂悤�ȋC���E�E�E�B�����Đ��K�Ȕł́A�����͂������m�́w�ς�ǁx�������悤�ȁE�E�E�B���킟�`�A���߂�Ȃ����B<BR>�@���ꂩ��A�~�L�����̂ق̂ڂ̌n�w�Z�����̌��ł����A�����҉������B������񏑂��\��ł��B�V���A�X�ւ̓]���́A�������s���\��ł��B�Ƃ������A�܂��S�ʃV���A�X�ֈڍs����ɂ́A����Ă��Ȃ��������������܂��B<BR>�@�Ō�ɂȂ�܂������A���d�F�l�A�y�ѕ��ɉ^�c�ψ���̊F�l�A���N�́A���̍�i�𔭕\���������񋟂��Ă��������āA���肪�Ƃ��������܂����B���N����낵�����肢�v���܂��B<BR><BR>�ނɂ��� �l��<BR>�@�C�ɓ����Ē����Ă��肪�Ƃ��������܂��B�Ƃ���ŁA���̏��N�d���̖��O�͖����l���Ă��Ȃ��̂ł���B���Ȃ݂ɁA�l�Ԃ��������̖��O�Ɨd���ɂȂ��Ă���̖��O�́A�w�Ⴂ�܂��x�A���̈Ӗ�������܂���ˁB<BR>�@�Ȃ��A�w�Z�����ɂ��ẮA�����܂����A���ɂƂ��Ă̍��Z�����́A���ɂQ�O�N�ȏ���O�E�E�E�B�ŋ߂̊w�Z�̕��͋C�Ƃ͈Ⴄ�Ǝv���܂����A���̑̌��������Z���������̂܂܏��������ŁA�ق̂ڂ̂ɂȂ肻���E�E�E�B<BR>�@�ł́A�ނɂ����l�A�ǂ����N���B<BR>
+八重洲 様へ<BR>　SF『銀河帝國の興亡』ですか？　確かその本は、私が未だ中学ぐらいの時に、ジュブナイル版（？）を読んだような気が・・・。そして正規な版は、買いはしたモノの『積ん読』だったような・・・。うわぁ～、ごめんなさい。<BR>　それから、ミキちゃんのほのぼの系学校生活の件ですが、ご期待下さい。もちろん書く予定です。シリアスへの転換は、少しずつ行う予定です。というか、まだ全面シリアスへ移行するには、語っていない伏線が多すぎます。<BR>　最後になりましたが、八重洲様、及び文庫運営委員会の皆様、今年は、私の作品を発表する場をご提供していただいて、ありがとうございました。来年もよろしくお願い致します。<BR><BR>むにすけ 様へ<BR>　気に入って頂けてありがとうございます。ところで、あの少年妖精の名前は未だ考えていないのですよ。ちなみに、人間だった時の名前と妖精になってからの名前は、『違います』、この意味分かりますよね。<BR>　なお、学校生活については、書きますが、私にとっての高校生活は、既に２０年以上も前・・・。最近の学校の雰囲気とは違うと思いますが、私の体験した高校生活をそのまま書くだけで、ほのぼのになりそう・・・。<BR>　では、むにすけ様、良いお年を。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>JUN</strong>  <i>2000/12/21 11:10:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977364628glbivj&id2=973984992ekfayc&ff=p">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977364628glbivj_id2_973984992ekfayc_ff_p.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��T�b�@�����e�H�z <BR><BR>�d���I���퐶���A�y�����ǂ܂��Ă�����Ă܂��B<BR>�ŏ��̂���͂s�r�I�ȃL�����G���ϓ_������ꂽ�Ǝv���܂����A���̍�i�͓ˑR�d���ɂȂ����~�L�����̌˘f���ƓK���𒆐S�ɕ`����Ă��āA�T�b�ɂ��Ċ��ɂs�r�I�v�f���炻�̈ꕔ�ƂȂ��Ă��܂��ˁB�s�r���炻�̈ꕔ�Ƃ��ĕ�ݍ���ł��邽�߁A�s�r�ɋ����̂Ȃ��l�ł��\���y���߂��i�ƂȂ��Ă��܂��B<BR><BR>�Ƃ���ŁA���{�ŏ������ꂽ�d���i�Ƃ肠���������d���ƌď́j����Q�T�O�O�O�l�ŁA���̌㐶�܂ꂽ�d���i���Ɏq���d���ƌď́j���P�S���l�Ƃ���ƁA�����d����l������q���d���͖�T�D�U�l���܂ꂽ���ƂɂȂ�܂��ˁB�d���͒j���䂪���X�ł�����A��l�̏����d������P�P�D�Q�l�o�Y�������ƂɂȂ�܂��B���{�ōŏ��̗d���ł���哇���񂪗d���ɂȂ����̂��V�N�O�ł�����A����Ɂg�d�������̋G�߁h���N�ɂP�x�����Ȃ����Ƃ�g��������F�B�h�̏K���̂��Ƃ��l����Ɨd���͈��̔D�P�łQ�`�R�l�͏o�Y����Ƃ����v�Z�ɂȂ�܂��ˁB<BR>�d�������N�Ő��l�i��������}����j���ĕ��ώ��������N�ł��邩�ɂ����܂����A�d���̔ɐB���͐l�ԂȂ񂩂Ƃ͌��Ⴂ�Ȃ̂͊ԈႢ����܂���ȁB�d���̐������l�ԕ����Ƃ���΁A���肷��Έ�l�̏����d���̐��U�o�����́A�P�O�O�𒴂��Ă��܂���������Ȃ��B<BR>�����Ɨd���E�ł͗d���͒������قǂ̑��Y�����^�������̂ł��傤�B��w�ƕ��������B�������{�ł͓��c�����S�����O�ƂȂ��ď��Y�����^�ɂȂ����̂ł����A�����ȓ��{�ł͗d���̓��c�����S�����O�ɋ߂��̂�������Ȃ��B���邢�̓��~���O�̂悤�ɁA�����������d���͏W�c���E������Ƃ����K��������̂�������Ȃ��B������ɂ��Ă����̂܂܂ł́A���{�͗d�����l�Y�~�Ȃ݂ɑ�ɐB����̂͊ԈႢ����܂���ˁB<BR>���������Đ�i�������d���ɐl����F�߂Ă��Ȃ��̂́A���̎��Ԃ��@�m���ċ���Ă���̂�������܂���B�d�����Љ�̑唼���߂�悤�ɂȂ�΁A����̏�񉻎Љ�͈ێ��ł��܂��񂩂�ˁB<BR><BR>���[�ށA�^�ʖڂɍl�����狰���l���ɂȂ��Ă��܂����B�܂�������艻���ĂȂ��d���̃_�[�N�T�C�h�ł��ˁB<BR>
+【第５話　黒い影？】 <BR><BR>妖精的日常生活、楽しく読ませてもらってます。<BR>最初のころはＴＳ的なキャラ萌え観点から作られたと思いますが、この作品は突然妖精になったミキちゃんの戸惑いと適応を中心に描かれていて、５話にして既にＴＳ的要素すらその一部となっていますね。ＴＳすらその一部として包み込んでいるため、ＴＳに興味のない人でも十分楽しめる作品となっています。<BR><BR>ところで、日本で召喚された妖精（とりあえず召喚妖精と呼称）が約２５０００人で、その後生まれた妖精（仮に子供妖精と呼称）が１４万人とすると、召喚妖精一人あたり子供妖精は約５．６人生まれたことになりますね。妖精は男女比が半々ですから、一人の女性妖精が約１１．２人出産したことになります。日本で最初の妖精である大島さんが妖精になったのが７年前ですから、それに“妖精狂いの季節”が年に１度しかないことや“巣ごもり友達”の習慣のことを考えると妖精は一回の妊娠で２～３人は出産するという計算になりますね。<BR>妖精が何年で成人（発情期を迎える）して平均寿命が何年であるかにもよりますが、妖精の繁殖率は人間なんかとは桁違いなのは間違いありませんな。妖精の成長が人間並だとすれば、下手すれば一人の女性妖精の生涯出生率は、１００を超えてしまうかもしれない。<BR>きっと妖精界では妖精は超がつくほどの多産多死型だったのでしょう。医学と文明が発達した日本では乳幼児死亡率が０となって少産少死型になったのですが、清潔な日本では妖精の乳幼児死亡率も０に近いのかもしれない。あるいはレミングのように、増えすぎた妖精は集団自殺をするという習性があるのかもしれない。いずれにしてもこのままでは、日本は妖精がネズミなみに大繁殖するのは間違いありませんね。<BR>もしかして先進諸国が妖精に人権を認めていないのは、この事態を察知して恐れているのかもしれません。妖精が社会の大半を占めるようになれば、現代の情報化社会は維持できませんからね。<BR><BR>うーむ、真面目に考えたら恐い考えになってしまった。まだ現実問題化してない妖精のダークサイドですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/12/21 12:16:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/12/21 12:16:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977368594ltyjrti&id2=973984992ekfayc&ff=p">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977368594ltyjrti_id2_973984992ekfayc_ff_p.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-JUN �l��<BR>�@����Ȃɂ��[�ǂ݂��Ă��������āA��҂Ƃ��Ă͗L������A���ӂł��I�@�قځA���w�E�̒ʂ�Ƃ��l�����������Ă�낵���ł��B<BR>�@�����A��_���������������܂����A�g�d�������̋G�߁h�͔N�ɂP�x�ł͂Ȃ��A2�x�ł��B�t�ƏH�ɂP�x���ł��B�����āA�d���̔D�P���Ԃ́A�l�Ԃɔ�ׂĒZ���āA��2����������3������Ƒz�肵�Ă��܂��B���̗��R�́A�傫�ȓ����ɔ�ׂāA�����ȓ������A�D�P���Ԃ��Z���Ƃ��������Ɋ�Â��Ă��܂��B���Ȃ݂ɏۂ͂�����2�N���炢�̔D�P���Ԃł�����ˁH<BR>�@�Ƃ�����ŁA�d���͔N��2����o�Y���邱�Ƃ��\�ł��B�����đ��Y�����^�Ƃ����̂����w�E�̒ʂ�ŁA�哇����̏��߂Ă̎q�ǂ����J���X�ɏP���ĖS���Ȃ����悤�ɁA�{���̗d�����E�ł��A�d���ɂ͓V�G���������݂��܂����A�q�����ɂ��Ă����̂Ƃ���ł��B���������āA�d���̎q�ǂ��������ɐ��l�i���d���H�j����̂́A���\����Ȃ��Ƃł���Ƒz�肵�Ă��܂��B���ׂ̈ɁA�d������x�ɎY�ގq�ǂ��́A�o�q�A�O�q���A�l�Ԃ������Ȃ葽�������Ő��܂�Ă�����̂Ɛݒ肵�Ă��܂��B<BR>�@�E�E�E�E�E�E�Ȃ�Ă��ƁA���͂ق����Ă��܂����A���͍��l���܂����B���߂�Ȃ����B�܂��K���Ȑ������o���Ă��܂��܂��āB<BR>�@�ł��A�{���ɂ��w�E�L��������܂��BJUN �l���l���ĉ����������̓��e���A����̓W�J�Ɋ������čs�������Ǝv���܂��B<BR>�@����Ƃ�����Ȃ��_������܂�����A�X�������肢�������܂��B�����ɂ�����Ȓ��҂��������̂́A���܂�Ďn�߂ĂȂ̂ŁA�F�X�Ɩ����_���o�Ă���Ǝv���܂����A�b���������Ă��Ȃ�����́A���Ƃ����������Đ����������Ă��������ƍl���Ă��܂��̂ŁA�ǂ��ǂ��w�E���ĉ������B<BR>�@����ł́A�ǂ����N���B
+JUN 様へ<BR>　こんなにも深読みしていただいて、作者としては有り難い限り、感謝です！　ほぼ、ご指摘の通りとお考えいただいてよろしいです。<BR>　ただ、一点だけ訂正いたしますが、“妖精狂いの季節”は年に１度ではなく、2度です。春と秋に１度ずつです。そして、妖精の妊娠期間は、人間に比べて短くて、約2ヶ月半から3ヶ月弱と想定しています。その理由は、大きな動物に比べて、小さな動物程、妊娠期間が短いという事実に基づいています。ちなみに象はたしか2年ぐらいの妊娠期間でしたよね？<BR>　という訳で、妖精は年に2回も出産することが可能です。そして多産多死型というのもご指摘の通りで、大島さんの初めての子どもがカラスに襲われて亡くなったように、本来の妖精世界でも、妖精には天敵が多く存在しますし、衛生問題についてもそのとおりです。したがって、妖精の子どもが無事に成人（成妖精？）するのは、結構困難なことであると想定しています。その為に、妖精が一度に産む子どもは、双子、三つ子が、人間よりもかなり多い割合で生まれてくるものと設定しています。<BR>　・・・・・・なんてこと、私はほざいていますが、実は今考えました。ごめんなさい。また適当な数字を出してしまいまして。<BR>　でも、本当にご指摘有難うございます。JUN 様が考えて下さったこの内容を、今後の展開に活かして行きたいと思います。<BR>　今後とも至らない点がありましたら、宜しくお願いいたします。何分にもこんな長編を書いたのは、生まれて始めてなので、色々と矛盾点が出てくると思いますが、話が完結していない限りは、何とか屁理屈つけて整合化させていきたいと考えていますので、どしどし指摘して下さい。<BR>　それでは、良いお年を。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>JUN</strong>  <i>2000/12/21 18:17:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977390227jsolxq&id2=973984992ekfayc&ff=p">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977390227jsolxq_id2_973984992ekfayc_ff_p.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W���[�W���b�h�l<BR><BR>���������Αe�{���Ƃ��󂯎��ꂩ�˂Ȃ����̊��z���D�ӓI�Ɏ󂯎���Ă��������A���肪�Ƃ��������܂��B�ƂĂ����͓I�ȕ��ꐢ�E�ł��̂ŁA�������y���݂ɂ��Ă��܂��B<BR><BR>�c�c�͂��A�m���ɑ�R�b�Ɂu������͔N�Q��v�Ə����Ă���܂����B�����Ƃ��Ă��܂����B(^^�U<BR><BR>�Ȃ�قǁA�������قǔD�P���Ԃ͊m���ɒZ���ł��ˁB���܂��ɓV�G���������߂ǂ����Ă����Y�����^�ɂȂ�܂��B<BR>���Y�����^���Ǝq����l�̑��݉��l���ǂ����Ă�����܂��B�Z��o���̂������l�����c�邩�̕����厖�ŁA��l��l�q�������ʂ͓̂�����O�Ƃ������ƂɂȂ�܂��B���肵����Ԉ������s���Ă邩������Ȃ��B<BR>�����đ��Y�����^�̏������͕��ʂ͕��ώ������Z���B�l�Y�~�Ȃǂ��̓T�^�ł��B�����[���I�@����ƃ~�L�������I�@�؂͒Z�����̂Ȃ̂ˁB<BR><BR>����A�ϑz�������Ă��܂����B�i���n�����l�ԊE�Ƃ͈Ⴄ�킯�����A�d���͖��@�I���݂ł����邩��n���̐����w�̏펯���ʗp����ۏ؂�����܂���B�n���ł��J���͒����Ƃ���Ă܂����B�앗�ɍ���Ȃ��Ǝv��������݂̓����̐��ԂȂ�ēK���ɖ������āA�d���炵����D�悵���`�ʂ�S�����Ă��\��Ȃ��Ǝv���܂��B<BR>�哇����̑䎌�ɂ��鐔���i�P�S���l�j�͐��{���\�̂��̂ł͂Ȃ��A�哇����̌l�I�����Ȃ̂�������܂��񂵁B<BR>
+ジャージレッド様<BR><BR>下手をすれば粗捜しとも受け取られかねない私の感想を好意的に受け取っていただき、ありがとうございます。とても魅力的な物語世界ですので、続きを楽しみにしています。<BR><BR>……はい、確かに第３話に「発情期は年２回」と書いてありました。見落としていました。(^^ゞ<BR><BR>なるほど、小動物ほど妊娠期間は確かに短いですね。おまけに天敵も多いためどうしても多産多死型になります。<BR>多産多死型だと子供一人の存在価値がどうしても薄れます。兄弟姉妹のうち何人生き残るかの方が大事で、一人二人子供が死ぬのは当たり前ということになります。下手したら間引きも行われてるかもしれない。<BR>そして多産多死型の小動物は普通は平均寿命も短い。ネズミなどその典型です。ああーっ！　するとミキちゃんも！　華は短いものなのね。<BR><BR>いや、妄想が入ってしまった。進化系統が人間界とは違うわけだし、妖精は魔法的存在でもあるから地球の生物学の常識が通用する保証もありません。地球でもカメは長寿とされてますし。作風に合わないと思ったら実在の動物の生態なんて適当に無視して、妖精らしさを優先した描写を心がけても構わないと思います。<BR>大島さんの台詞にある数字（１４万人）は政府公表のものではなく、大島さんの個人的推測なのかもしれませんし。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>JUN</strong>  <i>2000/12/21 18:21:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977390490ggsytw&id2=973984992ekfayc&ff=p">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977390490ggsytw_id2_973984992ekfayc_ff_p.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���݂܂���B�u������͔N�Q��v�Ə����Ă������̂͑�S�b�ł����B�܂��Ԉ�������Ƃ������Đ\���󂠂�܂���B
+すみません。「発情期は年２回」と書いてあったのは第４話でした。また間違ったことを書いて申し訳ありません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/12/21 22:14:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/12/21 22:14:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977404467dheqx&id2=973984992ekfayc&ff=p">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977404467dheqx_id2_973984992ekfayc_ff_p.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-JUN �l��<BR>�@���₠�A�z���g�ɐF�X�ƃJ�L�R���Ă��������Ċ������ł��B�l�b�g�����̍�҂ɂƂ�A��i�̊��z�́A�������E�̉ݕ����̂��̂ł�����ˁB����Ȃɂ������������������������ėL�����ł��B<BR><BR>���i���n�����l�ԊE�Ƃ͈Ⴄ�킯�����A�d���͖��@�I���݂ł����邩��n���̐����w�̏펯���ʗp����ۏ؂�����܂���B<BR><BR>�@�Ƃ���Ŏ��͂��̕����A��i���E�̐ݒ�̍����Ɋւ���ė��镔���ł��̂ŁA�܂��i�C�V���A�Ƃ������ƂŊ��ق��Ă��炦�܂��񂩁H�@��������������ׂ����e�Ȃ̂ł����A���͂܂�������ł��B<BR><BR>���哇����̑䎌�ɂ��鐔���i�P�S���l�j�͐��{���\�̂��̂ł͂Ȃ��A�哇����̌l�I�����Ȃ̂�������܂��񂵁B<BR><BR>�@���̕����ɂ��ẮA�����ł��ˁB���{�͌��\���Ă��Ȃ��񂾂���A�����܂ł��d�����Ԃ̐����ł���ˁB�Ƃ������Ƃ͂����������������������肵�āE�E�E�B�Ƃ������Ƃł�����������Ⴂ�܂��傤���H<BR>�@����܂Ă�B���O���ł͗d���̎q���̐l���������̂�����A�����Ɠ��{�ɂ�Ă���A�܂薧��������d���������ς������肵�āE�E�E�B����ŎY�񂾎q�����A���{�̑�l�̗d���ɗa���Ă����Ƃ����p�^�[���������Ƃ����̂ł��ǂ��񂶂�Ȃ����ȁB<BR>�@�܂��l�����܂Ƃ܂�����A���̕ӂ̂��Ƃ������Ă݂����ł��ˁB<BR><BR>�@JUN �l�A���A���Ȃ��̂悤�ȗ������ۂ��l���āE�E�E�E�E�E�A��D���ł���I�@�����Ƃ͈�����l���̐l�̈ӌ��𕷂��ƁA�����̍l�����[�܂��Ċy�����ł��B����Ƃ���낵���I�I
+JUN 様へ<BR>　いやあ、ホントに色々とカキコしていただいて嬉しいです。ネット小説の作者にとり、作品の感想は、現実世界の貨幣そのものですからね。こんなにも高くお買いあげいただいて有難い限りです。<BR><BR>＞進化系統が人間界とは違うわけだし、妖精は魔法的存在でもあるから地球の生物学の常識が通用する保証もありません。<BR><BR>　ところで実はこの部分、作品世界の設定の根幹に関わって来る部分ですので、まだナイショ、ということで勘弁してもらえませんか？　時期が来たら語るべき内容なのですが、今はまだ早いんです。<BR><BR>＞大島さんの台詞にある数字（１４万人）は政府公表のものではなく、大島さんの個人的推測なのかもしれませんし。<BR><BR>　この部分については、そうですね。政府は公表していないんだから、あくまでも妖精仲間の推測ですよね。ということはけっこういい加減だったりして・・・。ということでお茶を濁しちゃいましょうか？<BR>　いやまてよ。諸外国では妖精の子供の人権が無いのだから、そっと日本につれてくる、つまり密入国する妖精がいっぱいいたりして・・・。それで産んだ子供を、日本の大人の妖精に預けていくというパターンが多いというのでも良いんじゃないかな。<BR>　また考えがまとまったら、この辺のことも書いてみたいですね。<BR><BR>　JUN 様、私、あなたのような理屈っぽい人って・・・・・・、大好きですよ！　自分とは違った考えの人の意見を聞くと、自分の考えが深まって楽しいです。今後ともよろしく！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>POWANN</strong>  <i>2000/12/22 15:28:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977466489jrsgibr&id2=973984992ekfayc&ff=p">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977466489jrsgibr_id2_973984992ekfayc_ff_p.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��T�b�@�����e�H�z  �d���I���퐶���F��ς������낭�ǂ܂��Ă��������܂����B<BR>�ȍ~�̂��b���ǂ�Ȑݒ�łǂ̂悤�ȓW�J�ɂȂ�̂����Ɋy���݂ł��B<BR>�@�l�I�ȗv�]�ő�ϋ��k�ł͂���܂����A�~�L�o�����̏��o�Z�A�w�Z���ł̑����A�e�N���u�̃~�L����񑈒D��A�A���o�C�g�T���A�Z���V���j���[�X��o�C�g��̕]������}�X�R�~�o�ꁨ�A�C�h���f�r���[���̊w���R���I�Ȃ��̂������Ă��������Ȃ��ł��傤���B<BR>
+【第５話　黒い影？】  妖精的日常生活：大変おもしろく読ませていただ来ました。<BR>以降のお話がどんな設定でどのような展開になるのか非常に楽しみです。<BR>　個人的な要望で大変恐縮ではありますが、ミキ姉ちゃんの初登校、学校内での騒乱、各クラブのミキちゃん争奪戦、アルバイト探し、校内新聞ニュースやバイト先の評判からマスコミ登場→アイドルデビュー等の学園コメ的なものも書いていただけないでしょうか。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2000/12/23 03:59:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2000/12/23 03:59:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977511561iwpoun&id2=973984992ekfayc&ff=p">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977511561iwpoun_id2_973984992ekfayc_ff_p.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������B<BR>�o������A���Ă݂�Ίy���݂ɂ��Ă�����T�b���c�B<BR>�����āA�������B���ꂪ�~�L�����t�����h�c�B�Ȃ�قǁB�������܂������B<BR>�V�g�ɑ΂��鈫�����Ă̂͗\�z�̂����ł͂���܂������c���c<BR>�e�p�������܂œO�ꂳ����Ƃ͎v���܂���ł����B<BR>���o�ł����ǁA�V���A�X�ȓW�J���y���݂ł����A���b���͂̂�т��<BR>�w�������ŖG�������Ē��������Ƃ���ł��B<BR><BR>�Ƃ���ŁA�d�������Y�����Ƃ����̂́A�኱�ًc������܂��B<BR>�͂��ꂽ�q�����쒹�ɏP���Ď��ʂƂ����̂́A�܂��A�����������̂�������܂��񂪁A<BR>�������A�ِ��E�̗d���ɂ͖��@�Ƃ������킪����܂�����A�Q�������Đ������Ă����<BR>�����ȒP�ɂ͂ނ��ނ��q�����E���ꂽ�肵�Ȃ��Ǝv����ł����ǂ��ł��傤�H<BR>���Ȃ��Ƃ����l�P�ʂ̗d�������͂ȏ������@���g���邾���̗͂�����킯�ł�����B<BR>�i�����Đl�ԏ������@������قǕ��y���邾���́A�Q��Ƃ������A�g�D�Ȃ�A���Ԃ�����킯�ł���ˁj<BR>����Ƃ����@���g����d�����Ă̂́A�S�̂���݂�΂��������ꕔ���̃G���[�g�����Ȃ�ł��傤���H<BR>���Ƃ���ƁA�l�Ԃ̏����͗d���Љ�S�̂̎�̉��������Ă��邱�ƂɂȂ���<BR>�ʂ̈Ӗ��Ń��o���o�ł����c<BR>
+おおっ。<BR>出張から帰ってみれば楽しみにしていた第５話が…。<BR>そして、おおっ。これがミキちゃんフレンド…。なるほど。こうきましたか。<BR>天使に対する悪魔ってのは予想のうちではありましたが…が…<BR>容姿をここまで徹底させるとは思いませんでした。<BR>既出ですけど、シリアスな展開も楽しみですが、今暫くはのんびりと<BR>学園生活で萌えさせて頂きたいところです。<BR><BR>ところで、妖精が多産多死というのは、若干異議があります。<BR>はぐれた子供が野鳥に襲われて死ぬというのは、まあ、そういうものかもしれませんが、<BR>しかし、異世界の妖精には魔法という武器がありますから、群れを作って生活していれば<BR>そう簡単にはむざむざ子供を殺されたりしないと思うんですがどうでしょう？<BR>少なくとも万人単位の妖精が強力な召喚魔法を使えるだけの力があるわけですから。<BR>（そして人間召喚魔法がそれほど普及するだけの、群れというか、組織なり連絡網があるわけですよね）<BR>それとも魔法を使える妖精ってのは、全体からみればごくごく一部分のエリートだけなんでしょうか？<BR>だとすると、人間の召喚は妖精社会全体の弱体化を招いていることになって<BR>別の意味でヤバヤバですが…<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2000/12/23 06:28:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2000/12/23 06:28:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977520510irgap&id2=973984992ekfayc&ff=p">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977520510irgap_id2_973984992ekfayc_ff_p.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-POWANN�@�l��<BR>�@�y����Œ����Ċ������ł��B�����z�ǂ������肪�Ƃ��������܂��B<BR><BR>���~�L�o�����̏��o�Z�A�w�Z���ł̑���<BR><BR>�@����ɂ��܂��ẮA���R��������ł����A�d���̑��݂��g�߂ɂ͂Ƃ������A�Љ�I�ɂ͓�����O�̂��̐��E�ł�����A�w�Z�ł̑����́A�ǂ�������ɂ��悤�������l�����ł��B�������A���̘b�������̂́A�����炭��P�O�b�O��ɂȂ�悤�ȋC�����܂��B����܂ł��҂��肦�܂����H<BR><BR>���e�N���u�̃~�L����񑈒D��A�A���o�C�g�T���A�Z���V���j���[�X<BR><BR>�@������ɂ��ẮA���Ƀ~�L�����i����N���j�͉��|���ɏ������Ă��܂��̂ŁA���D�ɂ͎���Ȃ��Ǝv���܂����A�Ƃ���N���u�s���̍ۂɂɁA�����̃N���u�i�ʐ^���E�V�������j�ƋƖ���g�H�@�����āE�E�E�Ƃ������Ƃ��l�����ł��B<BR>�@�A���o�C�g�ɂ��ẮA��P�b�Řb�����o�Ă����A����N���̗��l�ɂ͎����Ă��Ȃ��K�[���t�����h���ւ���Ă���E�E�E�Ƃ������Ƃł��B<BR><BR>���}�X�R�~�o�ꁨ�A�C�h���f�r���[���̊w���R���I�Ȃ��̂�<BR><BR>�@���A����ɂ��ẮA���̋�蕪��E�E�E�B�|�\�E�̂��Ƃ��Ă悭������Ȃ���ł���B�܂��A�ԊO�ғI�Șb�Ȃ�Ȃ�Ƃ��E�E�E�A�Ƃ������ƂŁA���܂���҂����ɂ��҂��������B<BR><BR>�@����ł́A����Ƃ���낵�����肢�v���܂��B�ǂ����N���B<BR><BR>------------------------------------------------------------<BR><BR>���a�@�l��<BR>�@���Z�������A�ǂ�ŉ������Ă��肪�Ƃ��������܂��B�y����ł��������܂����ł��傤���H<BR><BR>���V�g�ɑ΂��鈫�����Ă̂͗\�z�̂����ł͂���܂������c<BR><BR>�@�\�z�͈̔͂ł������B�܂��p�^�[���ł���ˁB�ނɂ��Ă͂����Ɉ������߂���肾�����̂ł����A��U�b���l���Ă���Ԃɂǂ�ǂ�C���[�W���ς��ӂ����ł��āA�ǂ����悤�������Ă���Ƃ���ł��B�����ŏo��������Ȃ̂ɁA���̃C���[�W�̒��ł͂ǂ�ǂ�g�����l�h�ɂȂ��Ă��܂���ł���ˁB�����`��B<BR><BR>���Ƃ���ŁA�d�������Y�����Ƃ����̂́A�኱�ًc������܂��B�i�ȉ��ȗ��j<BR><BR>�@�Ȃ�قǁB��ӌ��������Ƃ��ł��B�ӂ��ӂ��ӂ��A�������A��i���E�̐ݒ�Ɋւ��闝���͂ǂ��Ƃł�������̂���҂̓����I�@���Ƃ����̖����_���N���A����ݒ���l�����āA����̏C����}�邱�Ƃɂ��܂��B���̒i�K�ŁA�Q�v�����܂������A�X�g�[���[�W�J�̏�ŁA�����Ƃ��������肭�郂�m���̗p�������Ǝv���܂��B<BR>�@��P�@�d���͖{�����Y�����^�����A��̕ۑ��̂��߂ɁA�l�Ԑ��E�ɂ���Ă����d���ɂ͂��炩���ߖ��@���������Ă��āA�����I�ɑ��Y�ɂȂ��Ă���E�E�E�Ƃ��B<BR>�@��Q�@�d�����E�̓V�G���A���@���g���邩��A�d�������|�I�ɗL���ȏ󋵂ɂ͖����E�E�E�Ƃ��B<BR><BR>�@����ł́A�����������w�E�͑劽�}�ł��̂ŁA�܂���낵�����肢�������܂��B�Ȃ��Ȃ�����ɘb�̓��e�ɂ��đ��k�o����l�����Ȃ����̂ł�����E�E�E�B<BR><BR>�@����ł́A����Ƃ���낵�����肢�v���܂��B�ǂ����N���B
+POWANN　様へ<BR>　楽しんで頂けて嬉しいです。ご感想どうもありがとうございます。<BR><BR>＞ミキ姉ちゃんの初登校、学校内での騒乱<BR><BR>　これにつきましては、当然書くつもりですが、妖精の存在が身近にはともかく、社会的には当たり前のこの世界ですから、学校での騒乱は、どういう具合にしようか未だ考え中です。しかし、その話を書くのは、おそらく第１０話前後になるような気がします。それまでお待ち願えますか？<BR><BR>＞各クラブのミキちゃん争奪戦、アルバイト探し、校内新聞ニュース<BR><BR>　こちらについては、既にミキちゃん（幹也クン）は園芸部に所属していますので、争奪には至らないと思いますが、とあるクラブ行事の際にに、複数のクラブ（写真部・新聞部等）と業務提携？　をして・・・ということを考え中です。<BR>　アルバイトについては、第１話で話だけ出てきた、幹也クンの恋人には至っていないガールフレンドが関わってくる・・・ということです。<BR><BR>＞マスコミ登場→アイドルデビュー等の学園コメ的なものも<BR><BR>　こ、これについては、私の苦手分野・・・。芸能界のことってよく分からないんですよ。まあ、番外編的な話ならなんとか・・・、ということで、あまり期待せずにお待ち下さい。<BR><BR>　それでは、今後ともよろしくお願い致します。良いお年を。<BR><BR>------------------------------------------------------------<BR><BR>七斬　様へ<BR>　お忙しい中、読んで下さってありがとうございます。楽しんでいただけましたでしょうか？<BR><BR>＞天使に対する悪魔ってのは予想のうちではありましたが…<BR><BR>　予想の範囲でしたか。まあパターンですよね。彼についてはすぐに引っ込めるつもりだったのですが、第６話を考えている間にどんどんイメージが変わりつつふくらんできて、どうしようか迷っているところです。悪役で出したつもりなのに、私のイメージの中ではどんどん“いい人”になってしまうんですよね。うぅ～ん。<BR><BR>＞ところで、妖精が多産多死というのは、若干異議があります。（以下省略）<BR><BR>　なるほど。御意見ごもっともです。ふっふっふっ、しかし、作品世界の設定に関する理屈はどうとでもつけられるのが作者の特権！　何とかこの矛盾点をクリアする設定を考えついて、物語の修正を図ることにします。今の段階で、２つ思いつきましたが、ストーリー展開の上で、もっともしっくりくるモノを採用したいと思います。<BR>　例１　妖精は本来少産少死型だが、種の保存のために、人間世界にやってきた妖精にはあらかじめ魔法がかけられていて、強制的に多産になっている・・・とか。<BR>　例２　妖精世界の天敵も、魔法が使えるから、妖精が圧倒的に有利な状況には無い・・・とか。<BR><BR>　それでは、こういうご指摘は大歓迎ですので、またよろしくお願いいたします。なかなか周りに話の内容について相談出来る人がいないものですから・・・。<BR><BR>　それでは、今後ともよろしくお願い致します。良いお年を。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2000/12/24 03:33:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2000/12/24 03:33:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977596427yootdm&id2=973984992ekfayc&ff=p">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977596427yootdm_id2_973984992ekfayc_ff_p.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; ���Ƀ~�L�����i����N���j�͉��|���ɏ���<BR>�O�ɂ������b���o�Ă܂������A��`��`�����Ȃ���C���̖������������Ă���A<BR>�����ƕς��Ȃ��傫���̂�������̃W�������Ԃ牺���ăp�^�p�^���ł���A<BR>�X�v�[���ŕ������ăg�}�g��_���X�Y��������[����[�ǂ���������ƁA<BR>���������ς��̕������ɂȂ肻���ł�(��)�B
+&gt; 既にミキちゃん（幹也クン）は園芸部に所属<BR>前にも似た話が出てましたが、ん～ん～言いながらイモの蔓を引っ張ってたり、<BR>自分と変わらない大きさのおもちゃのジョロをぶら下げてパタパタ飛んでたり、<BR>スプーンで武装してトマトを狙うスズメをぎゃーぎゃー追っ払ったりと、<BR>見所いっぱいの部活動になりそうです(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��ψ���</strong>  <i>2000/12/24 05:54:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理委員会</strong>  <i>2000/12/24 05:54:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977604868gijnei&id2=973984992ekfayc&ff=p">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977604868gijnei_id2_973984992ekfayc_ff_p.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������̌f���ւ̊��z���߂��ő发�����ݐ���50�{�ɓ��B���܂��̂ŁA<BR>�V���Ɍf����No.3���������܂����B<BR>����̗d���I���퐶���ւ̊��z�́A�V�K�̌f����No.3�ɂ��肢���܂��B
+こちらの掲示板への感想が近く最大書き込み数の50本に到達しますので、<BR>新たに掲示板No.3を準備しました。<BR>今後の妖精的日常生活への感想は、新規の掲示板No.3にお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>NONAME</strong>  <i>2001/01/05 08:25:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978650719rnaqb&id2=973984992ekfayc&ff=p">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978650719rnaqb_id2_973984992ekfayc_ff_p.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�d�������̋G�߁H�z 
+【妖精狂いの季節？】 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�P���x���X</strong>  <i>2001/01/28 20:52:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ケルベロス</strong>  <i>2001/01/28 20:52:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=980682743frfjy&id2=973984992ekfayc&ff=p">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_980682743frfjy_id2_973984992ekfayc_ff_p.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����A�����̊F�l�́A�����������ł��ˁB<BR>���������A�G���G���I�I�ƕۑ�����<BR>��œǂݒ����Ĉ�l�ŖG���Ă��܂��B<BR>���Ղ�t�������Ă��������܂����B
+いや、ここの皆様は、発言が活発ですね。<BR>ただただ、萌え萌え！！と保存して<BR>後で読み直して一人で萌えています。<BR>足跡を付けさせていただきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/01/30 17:21:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/01/30 17:21:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=980842861rbnktv&id2=973984992ekfayc&ff=p">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_980842861rbnktv_id2_973984992ekfayc_ff_p.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P���x���X �l��<BR>�@�ꉞ�A���̑��f���ւ̏������݂́A���ɏI�����āA���݂͑�O�f���̂ق��ɏꂪ�ڂ��Ă���̂ł����A�܂��A�߂������ƂƂ������ƂŁE�E�E�B<BR>�@���āA�ۑ����ĉ��x���ǂݒ����ĉ�����Ƃ͗L������ł��B�ł����x���ǂݒ����ƁA�A���������Ă������ł�����ƕ|���ł��B�����������s���ȓ_�ł�����܂�����A�f���ɏ�������ł������邩�A����Ƃ���������ƃ��[�����������B<BR>�@���ꂩ��A���łɎ��̌���ł����A������T�Ԓ��A�o�����������ĖZ�����A���M���o���Ȃ����X���������̂ł����A���낻�둱���������o���܂��̂ŁA��낵�����肢�������܂��B<BR>�@����ł́A�P���x���X�l�A����Ƃ���낵�����肢�������܂��B
+ケルベロス 様へ<BR>　一応、この第二掲示板への書き込みは、既に終了して、現在は第三掲示板のほうに場が移っているのですが、まあ、過ぎたことということで・・・。<BR>　さて、保存して何度も読み直して下さるとは有り難い限りです。でも何度も読み直すと、アラが見えてきそうでちょっと怖いです。もしも何か不備な点でもありましたら、掲示板に書き込んでくださるか、それともこっそりとメールを下さい。<BR>　それから、ついでに私の現状ですが、ここ一週間程、出張等が続いて忙しく、執筆が出来ない日々が続いたのですが、そろそろ続きをかき出しますので、よろしくお願いいたします。<BR>　それでは、ケルベロス様、今後ともよろしくお願いいたします。
 </td></tr>
 </table></a><br>
 

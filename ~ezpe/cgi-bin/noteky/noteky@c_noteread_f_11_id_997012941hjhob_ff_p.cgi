@@ -1,116 +1,116 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=997012941hjhob&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_997012941hjhob_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���� -PERSONA-</font><br>
+<font size="+2" color="#0000FF">仮面 -PERSONA-</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200108/05210133/persona.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/08/05 21:02:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200108/05210133/persona.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/08/05 21:02:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997012941hjhob&id2=997012941hjhob&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997012941hjhob_id2_997012941hjhob_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾌�A�ǂ�������₩�������������Ă��ꂽ��i�ł��B�c�ɂ��Ă������܂Ő��i���ς��Ƃ��`�������˘f����Ȃ��B
+読んだ後、どこかさわやかさを感じさせてくれた作品です。…にしてもここまで性格が変わるとりゅ～ちゃんも戸惑うわなぁ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/08/05 22:31:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/08/05 22:31:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997018280uarewno&id2=997012941hjhob&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997018280uarewno_id2_997012941hjhob_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���₟�A�ʔ����ł��Ȃ��B<BR>���^�N�V���u��̓�S�v���̂�������Ə����Ă݂����Ƃ�����܂����A�����܂Ŗʔ����͏����Ȃ������Ȃ��i���j�B<BR>�L�T���i���j�̐S��̓W�J���ʔ��������ł��B����ɔޏ����Ƃ�܂����͂̐S��̓W�J���B
+読んだバイ♪<BR>いやぁ、面白いですなぁ。<BR>ワタクシも「一体二心」ものをちょっと書いてみたこともありますが、ここまで面白くは書けなかったなぁ（爆）。<BR>キサラ（女）の心情の展開が面白かったです。それに彼女をとりまく周囲の心情の展開も。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2001/08/06 00:15:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2001/08/06 00:15:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997024532iblyf&id2=997012941hjhob&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997024532iblyf_id2_997012941hjhob_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�s�v�c�łق̂ڂ̂Ƃ���������ł��ˁB<BR>John����A��������h��TS���ł���B<BR><BR>����ɂ��Ă��A�I�����ƃL�T���̐��i�̈Ⴂ���Ă̂�����͂�E�E�E<BR>�Ƃ�����A��l�̗��l�ƁA��̐��i�E�E�E���̐�̓W�J���C�ɂȂ鏊�ł����ǁE�E�E�i�����̂ł��傤���H�j
+不思議でほのぼのとした恋物語ですね。<BR>Johnさん、これも立派なTS物ですよ。<BR><BR>それにしても、紀沙羅とキサラの性格の違いってのもいやはや・・・<BR>ともあれ、二人の恋人と、二つの性格・・・この先の展開も気になる所ですけど・・・（続くのでしょうか？）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/08/06 07:12:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/08/06 07:12:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997049520vktatn&id2=997012941hjhob&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997049520vktatn_id2_997012941hjhob_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��݂܂���<BR>�ǂ݂���������܂��ˁB<BR>�Q�̐��ƂQ�̐��i��������Ƃ����������Ă܂��ˁB<BR>�ʔ�����i�ł���<BR>�����ɂ����҂ł��B<BR>
+よみました<BR>読みごたえありますね。<BR>２つの性と２つの性格がきちんとかき分けられてますね。<BR>面白い作品ですね<BR>次回作にも期待です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/06 09:39:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/06 09:39:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997058386gpwfp&id2=997012941hjhob&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997058386gpwfp_id2_997012941hjhob_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ȋ��z�Ő\���󂠂�܂��񂪁A���`���ƁA�O�p�֌W����Ȃ���ł���˂�����āB<BR>�܂�ЂƂ̑̂ɂQ�̐S�����邩��b������₱�����Ȃ�Ƃ����z�ł��ˁB<BR>�L�T�������Ƃق̂������̐Â��ȑ��D��ɂȂ��Ă�����ł����ˁB<BR>���Ȃ��Ƃ��I�����΃L�T���ł͂Ȃ��悤�ȋC�����܂��B�ł���������͖̂{�l���B<BR>����A���낢��l�����Ėʔ����ł��B<BR>�ŏ��̋ٔ������`�ʂ���L�T���́u�`��v�ƓW�J�����Ƃ��낪�Ђ����ɂ��C�ɓ���ł��B
+無粋な感想で申し訳ありませんが、え～っと、三角関係じゃないんですよねこれって。<BR>つまりひとつの体に２つの心があるから話しがややこしくなるという奴ですね。<BR>キサラちゃんとほのかちゃんの静かな争奪戦になっていくんですかね。<BR>少なくとも紀沙羅対キサラではないような気がします。でも解決するのは本人か。<BR>いや、いろいろ考えられて面白いです。<BR>最初の緊迫した描写からキサラの「～♪」と展開したところがひそかにお気に入りです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://blind-devotee.hoops.ne.jp/" target="_blank">��H��</a></strong>  <i>2001/08/06 23:00:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://blind-devotee.hoops.ne.jp/" target="_blank">夜羽根</a></strong>  <i>2001/08/06 23:00:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997106420uohve&id2=997012941hjhob&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997106420uohve_id2_997012941hjhob_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`�ƁA�׋����h�Ńl�b�g����������Ă܂��āA���Ԏ��x��Đ\���󂠂�܂���Bm(_ _)m<BR><BR>To �_�����z�̂����W�S�Q�U�l<BR><BR>&gt;���₟�A�ʔ����ł��Ȃ��B<BR><BR>���̌��t�ɋ�J������܂��B<BR>�c�v���b�g�𗧂Ă��ɓk�R�Ə��������̂Ȃ̂ŁA���܂��J���ĂȂ��悤�ȋC�����܂����B(��)<BR><BR>&gt;�L�T���i���j�̐S��̓W�J���ʔ��������ł��B<BR><BR>����͔ޏ��A����̉�ł��̂ŁB(^^;<BR>�Ƃ���ŕ������̂Ƃ���A�����ƒj���̋��ԂŖ��킹�Ă݂����肾�����̂ł����\���ł��Ă��ł��傤���H<BR><BR>To �閲����<BR><BR>&gt;��������h��TS���ł���B<BR><BR>�j�āA���������Ē�����Ɩ{���Ɋ������ł��I(������)<BR>�ʂ����ăR����TS�ƌ����Ă������m���A���ꂪ�^��ł����̂Łc�B<BR><BR>&gt;���̐�̓W�J���C�ɂȂ鏊�ł����ǁc�i�����̂ł��傤���H�j<BR><BR>�����Ƃ��Ă��C�ɂȂ�܂��B(��)<BR>�����́c�ǂ��Ȃ�ł��傤�˂��H<BR>�I�������j���ɖ߂�����A�L�T���ƈ�������_����ނ����b��i�߂Ă����Ǝv���܂����c�B<BR>���N�󌱂Ȃ̂ŁA�����Ƃ���Ɗ����͗��N�ȍ~�����B<BR>�Ă�`���A�ǂȂ��������ĉ������܂��񂩁H(���}�W)<BR><BR>To ����݂���l<BR><BR>&gt;�Q�̐��ƂQ�̐��i��������Ƃ����������Ă܂���<BR><BR>�̐S�ȂƂ���Ȃ̂ŁA�����΂Ȑ��i�ŏ����₷�������̂ł����A�����Ɉ�ԋC���g���܂����B<BR>�����ɐ��ʂ̃C���[�W���c���Ă݂�������Ă����ł����ǂˁB(^^;<BR><BR>&gt;�����ɂ����҂ł�<BR><BR>�͂���<BR>����HP�̕��Œ��r���[�Ȃ܂܂ɂȂ��Ă���w�؎� �A�X�^�[�x�̊��S�łɂȂ�񂶂�c�H<BR><BR>To �������@�������l<BR><BR>&gt;�O�p�֌W����Ȃ���ł���˂������<BR><BR>�����c�ł��ˁB<BR>��{�͕��ʂȊ֌W�̐Ԃ�������{�ł��B<BR>�����A���܂���͎O�p�֌W�����q�h�������m��܂��񂯂ǁc�B(��)<BR><BR>&gt;���Ȃ��Ƃ��I�����΃L�T���ł͂Ȃ��悤�ȋC�����܂�<BR><BR>�����֌W�͂����ł����ǁA���i�قƂ�ǐ����΂ł����A����ȊO�͏Փ˂������ł��˂��B<BR>�L�T�����o���������ɁA�I�����͂ǂ����������ł��傤���H<BR><BR><BR>�Ƃ�`�Ƃ���ŁA�{���Ɋ��z���肪�Ƃ��������܂��Bm(_ _)m<BR>���ꂩ����撣���ď����Ă������Ǝv���܂��I<BR><BR>�ł͂ł́`��
+え～と、勉強合宿でネットから消失してまして、お返事遅れて申し訳ありません。m(_ _)m<BR><BR>To 神速感想のｍｋ８４２６様<BR><BR>&gt;いやぁ、面白いですなぁ。<BR><BR>その言葉に苦労も報われます。<BR>…プロットを立てずに徒然と書いたものなので、あまり苦労してないような気もしますが。(汗)<BR><BR>&gt;キサラ（女）の心情の展開が面白かったです。<BR><BR>それは彼女、感情の塊ですので。(^^;<BR>ところで部活動のところ、女性と男性の狭間で迷わせてみたつもりだったのですが表現できてたでしょうか？<BR><BR>To 夜夢さま<BR><BR>&gt;これも立派なTS物ですよ。<BR><BR>嗚呼、そう言って頂けると本当に嬉しいです！(激感謝)<BR>果たしてコレはTSと言っていいモノか、それが疑問でしたので…。<BR><BR>&gt;この先の展開も気になる所ですけど…（続くのでしょうか？）<BR><BR>私もとっても気になります。(爆)<BR>続きは…どうなんでしょうねぇ？<BR>紀沙羅が男性に戻った後、キサラと違った視点から彼がお話を進めてくれると思いますが…。<BR>今年受験なので、書くとすると完成は来年以降かも。<BR>てゆ～か、どなたか書いて下さいませんか？(←マジ)<BR><BR>To 亜希みちる様<BR><BR>&gt;２つの性と２つの性格がきちんとかき分けられてますね<BR><BR>肝心なところなので、正反対な性格で書きやすかったのですが、そこに一番気を使いました。<BR>微妙に性別のイメージを残してみたりもしているんですけどね。(^^;<BR><BR>&gt;次回作にも期待です<BR><BR>はい♪<BR>多分HPの方で中途半端なままになっている『華詞 アスター』の完全版になるんじゃ…？<BR><BR>To あおき　あきお様<BR><BR>&gt;三角関係じゃないんですよねこれって<BR><BR>そう…ですね。<BR>基本は普通な関係の赤い糸が二本です。<BR>ただ、絡まり方は三角関係よりもヒドいかも知れませんけど…。(汗)<BR><BR>&gt;少なくとも紀沙羅対キサラではないような気がします<BR><BR>恋愛関係はそうですけど、性格ほとんど正反対ですし、それ以外は衝突しそうですねぇ。<BR>キサラが出した答えに、紀沙羅はどう反応するんでしょうか？<BR><BR><BR>とゆ～ところで、本当に感想ありがとうございます。m(_ _)m<BR>これからも頑張って書いていたいと思います！<BR><BR>ではでは～♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/08/09 18:40:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/08/09 18:40:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997350038lrviyxe&id2=997012941hjhob&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997350038lrviyxe_id2_997012941hjhob_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�o��l���̖��O���Â��Ă܂��ˁB<BR>�e�L�������ꂼ��̈�l�̂ł̓��ʕ`�ʂ��A������̂������[�������ł��B���ɘ�������̌����񂵂��C�ɓ���܂����B<BR>���̒��q�ő��҂��ǂ݂����Ǝv���܂������ǁA����Ŋ����Ȃ�ł��ˁB<BR>�����Ɋ��҂��Ă��܂��B
+登場人物の名前が凝ってますね。<BR>各キャラそれぞれの一人称での内面描写が連続するのも興味深かったです。特に仄香さんの言い回しが気に入りました。<BR>この調子で続編が読みたいと思いましたけど、これで完結なんですね。<BR>次回作に期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://blind-devotee.hoops.ne.jp/" target="_blank">John/��H��</a></strong>  <i>2001/08/09 23:38:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://blind-devotee.hoops.ne.jp/" target="_blank">John/夜羽根</a></strong>  <i>2001/08/09 23:38:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997367911jbtge&id2=997012941hjhob&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997367911jbtge_id2_997012941hjhob_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O�񏑂��Y��Ă܂������A��H����John�Ɠ����l�Ԃł��̂ŁB(^^;<BR>���O�̈Ӗ����w���n�l�x�œ����ł����ˁ�<BR><BR>To ���������l<BR><BR>&gt;�o��l���̖��O���Â��Ă܂���<BR><BR>���`�Ɓc�c�c�B(��)<BR>���ʂɕt���Ă����Ȃ�ł��悧�B(��)<BR>���̃l�[�~���O�Z���X�͈�ʂƈႤ�悤�ŁB<BR>���Ȃ݂ɉ��ʂ̓o��l���O�l�̐��́A�S���w�� or ���x�̉��ŏI��鎖�ɂ��Ă܂��B<BR>���O�̕��͊��S�ɓK���ł����ǁB(--;;;<BR><BR>&gt;�e�L�������ꂼ��̈�l�̂ł̓��ʕ`�ʂ��A������̂������[�������ł�<BR><BR>���߈�l�̎��_�Ƃ��������������܂��Ă܂��āB<BR>�N�̎��_�ɂ��悤���Ǝv�������ɁA�F���񂨋C�ɓ���ȃL�������������̂ŁB(^^;<BR>�N����l���I�ׂ��ɁA�����������ɂȂ�܂����B<BR>�܂��A���ʓI�ɗǂ������񂶂�Ȃ����Ǝv���Ă܂����ǂˁB(��)<BR><BR>&gt;���ɘ�������̌����񂵂��C�ɓ���܂���<BR><BR>�ޏ��́A�ݒ�Ƃ��Ă͓Ǐ��D���Ȃ�ł��B<BR>����ł��̉e���Ŏŋ��������������񂵂Ƃ��g���Ă��������ł���B<BR>�c�Ă�`���A�����������Ŏ��܎g���Ă�L���������f���Ȃ�ł����ǂˁB(��)<BR><BR>&gt;���̒��q�ő��҂��ǂ݂����Ǝv���܂������ǁA����Ŋ����Ȃ�ł���<BR><BR>�͂��A�����ł��ˁB<BR>�c���ǁA��L�w��H���x�̔����ł������Ă܂��悤�ɑ������͂���̂ŁA�����⑱�҂����邩���B<BR>�����Ƃ��A�O�q�̒ʂ藈�N�ȍ~�����̌��ʂ��ł����ǁc�B(�ꊾ)<BR><BR>&gt;�����Ɋ��҂��Ă��܂�<BR><BR>�����҂ɓY����悤�撣��܂��I<BR>�c���A�ۏ؂͏o�����˂܂��̂ŁB(^^;<BR>�܂��C���ɑ҂��ĂĂ���ĉ������Bm(_ _)m<BR><BR>�ł͂ł́`��
+前回書き忘れてましたが、夜羽根はJohnと同じ人間ですので。(^^;<BR>名前の意味も『ヨハネ』で同じですしね♪<BR><BR>To こうけい様<BR><BR>&gt;登場人物の名前が凝ってますね<BR><BR>え～と………。(汗)<BR>普通に付けてるつもりなんですよぉ。(泣)<BR>私のネーミングセンスは一般と違うようで。<BR>ちなみに仮面の登場人物三人の姓は、全部『き or ぎ』の音で終わる事にしてます。<BR>名前の方は完全に適当ですけど。(--;;;<BR><BR>&gt;各キャラそれぞれの一人称での内面描写が連続するのも興味深かったです<BR><BR>初め一人称視点という事だけが決まってまして。<BR>誰の視点にしようかと思った時に、皆さんお気に入りなキャラだったもので。(^^;<BR>誰か一人が選べずに、こういう事になりました。<BR>まぁ、結果的に良かったんじゃないかと思ってますけどね。(笑)<BR><BR>&gt;特に仄香さんの言い回しが気に入りました<BR><BR>彼女は、設定としては読書好きなんです。<BR>それでその影響で芝居がかった言い回しとか使ってらっしゃるんですよ。<BR>…てゆ～か、私が私生活で時折使ってるキャラがモデルなんですけどね。(爆)<BR><BR>&gt;この調子で続編が読みたいと思いましたけど、これで完結なんですね<BR><BR>はい、そうですね。<BR>…けど、上記『夜羽根』の発言でも言ってますように続け方はあるので、もしや続編を作れるかも。<BR>もっとも、前述の通り来年以降完成の見通しですけど…。(滝汗)<BR><BR>&gt;次回作に期待しています<BR><BR>ご期待に添えるよう頑張ります！<BR>…が、保証は出来かねますので。(^^;<BR>まぁ気長に待っててやって下さい。m(_ _)m<BR><BR>ではでは～♪
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="997012941hjhob">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

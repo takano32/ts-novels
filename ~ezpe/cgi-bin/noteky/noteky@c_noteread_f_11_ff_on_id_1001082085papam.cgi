@@ -1,72 +1,72 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=1001082085papam&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_1001082085papam_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�P�_��杁i��V�f���j</font><br>
+<font size="+2" color="#0000FF">姫神奇譚（第７掲示板）</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=995206710dkqfhik&ff=on" target="_blank">��U�f���͂�����</a></strong>  <i>2001/09/21 23:21:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_995206710dkqfhik_ff_on.cgi" target="_blank">第６掲示板はこちら</a></strong>  <i>2001/09/21 23:21:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001082085papam&id2=1001082085papam&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001082085papam_id2_1001082085papam_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�P�_��杁v�ւ̊��z�͂�����ւ��肢�������܂��B<BR><BR>�Ɩ��A���F���z�t�H�[������̃����N�̕ύX�����肢�������܂��B<BR>�i���b�Ă��ǎҁj
+「姫神奇譚」への感想はこちらへお願いいたします。<BR><BR>業務連絡：感想フォームからのリンクの変更をお願いいたします。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">�앶��</a></strong>  <i>2001/10/06 22:25:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:minafumi-dou@hkg.odn.ne.jp" target="_blank">南文堂</a></strong>  <i>2001/10/06 22:25:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1002374727jcighug&id2=1001082085papam&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1002374727jcighug_id2_1001082085papam_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��\���b�z<BR>�@�x��΂��Ȃ���A����Ɠǂ݂܂����B���Ɍ��܂Ői�o�ł����c�c���̂����A�ΐ��Ƃ��ؐ��Ƃ��A�P�D�T���N���ꂽ�F���X�e�[�V�����Ƃ��s�������ł��ˁi�΁j�B<BR>�@�W���[�W���b�h�l�ɂ���đ�Q�F�����x�i�n���E�o���x�j�܂ł̓N���A�[��������A��R�F�����x�i���z�n�E�o���x�j���N���A�[����̂́A�ǂȂ��ł��傤�ˁ�<BR>�@���āA�ߋ��p�[�g�ō��グ�Ă��������͋C����C�Ɍ���k�p�[�g�ŁB���̗����������ł��ˁB���񑩂́w�������������Ƃ����܂����x�������āA�΂��܂����B�������ł���<BR>�@����̊�������҂��Ă���܂��B<BR>
+【第十七話】<BR>　遅ればせながら、やっと読みました。ついに月まで進出ですか……そのうち、火星とか木星とか、１．５光年離れた宇宙ステーションとか行きそうですね（笑）。<BR>　ジャージレッド様によって第２宇宙速度（地球脱出速度）まではクリアーしたから、第３宇宙速度（太陽系脱出速度）をクリアーするのは、どなたでしょうね♪<BR>　さて、過去パートで作り上げていった雰囲気を一気に後日談パートで。この落差がいいですね。お約束の『今日もいいことをしました』が生きて、笑えました。さすがです♪<BR>　今後の活躍を期待しております。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/10/08 06:31:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.i-chubu.ne.jp/~jersey-r/" target="_blank">ジャージレッド</a></strong>  <i>2001/10/08 06:31:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1002490289qcnabi&id2=1001082085papam&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1002490289qcnabi_id2_1001082085papam_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�앶���l��<BR>�@�Ԏ����x��Đ\����Ȃ��ł��B<BR>�@�P�_�Ós���l�̉F���i�o���D�ӓI�ɑ����Ă������肠�肪�Ƃ��������܂��B�{�҂ł�����O�`���ł�����̂ł���ˁB<BR><BR>&gt; ���̂����A�ΐ��Ƃ��ؐ��Ƃ��A<BR>&gt; �P�D�T���N���ꂽ�F���X�e�[�V�����Ƃ��s�������ł��ˁi�΁j�B<BR><BR>���͌Ós���l���ΐ��ɍs���b���l���Ă���̂ł����A����̓V���[�Y���I��������Ƃ��Ɏg���悤�Șb�ł�����A������������͂���܂���B�c�c����Ȏ������ƁA���������F�X�ƍl���Ă���悤�ł����A�P�Ɂw�v�����x�̒i�K�ł��̂Łc�c�B<BR><BR>�Ƃ����킯�ŁA����̕P�_�l�́A�܂��A�C�f�B�A���łĂȂ��̂ł���B<BR>�ǂ����܂��傤�H<BR><BR>
+南文堂様へ<BR>　返事が遅れて申し訳ないです。<BR>　姫神古都音様の宇宙進出を好意的に捉えてくださりありがとうございます。本編でもあり外伝風でもあるのですよね。<BR><BR>&gt; そのうち、火星とか木星とか、<BR>&gt; １．５光年離れた宇宙ステーションとか行きそうですね（笑）。<BR><BR>実は古都音様が火星に行く話も考えているのですが、これはシリーズを終了させるときに使うような話ですから、当分書くつもりはありません。……こんな事書くと、さも私が色々と考えているようですが、単に『思いつき』の段階ですので……。<BR><BR>というわけで、次回の姫神様は、まだアイディアがでてないのですよ。<BR>どうしましょう？<BR><BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="1001082085papam">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

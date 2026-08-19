@@ -1,47 +1,47 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>青年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
-<div align="right">[<a href="noteky.cgi?c=notebase&f=3&ff=on" >�V�����b�������</a>] 
-[<a href="noteky.cgi?c=noteidx&f=3&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɂ��ǂ�</a>]</div>
-<font size="+2" color="#008080">�N�R�~�b�N</font>
-<blockquote>�I�X�X���̐N�R�~�b�N�ɂ��Č���ĉ������B</blockquote>
+<div align="right">[<a href="noteky@c_notebase_f_3_ff_on.cgi" >新しく話題をつくる</a>] 
+[<a href="noteky@c_noteidx_f_3_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@_ff_on.cgi" >ノート一覧にもどる</a>]</div>
+<font size="+2" color="#008080">青年コミック</font>
+<blockquote>オススメの青年コミックについて語って下さい。</blockquote>
 <table width="100%" border="0">
 <tr bgcolor="#00CCFF">
 <th align="center" width="1%" nowrap>No.</th>
-<th align="center">�薼</th>
-<th align="center" width="1%" nowrap>�ŏI�X�V��</th>
-<th align="center">�ŐV�������e</th>
+<th align="center">題名</th>
+<th align="center" width="1%" nowrap>最終更新日</th>
+<th align="center">最新発言内容</th>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=3&id=993892052jkywch&ff=on" >1</a></td>
-<td align="center" nowrap>�����̃t��</td>
+<a href="noteky@c_noteread_f_3_id_993892052jkywch_ff_on.cgi" >1</a></td>
+<td align="center" nowrap>金魚のフン</td>
 <td align="center" nowrap>2001/06/30 18:07:31</td>
-<td nowrap>���̖���A���\�悩�����Ǝv����ł����ǁA...</td>
+<td nowrap>この漫画、結構よかったと思うんですけど、...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=3&id=944482052mddsnh&ff=on" >2</a></td>
-<td align="center" nowrap>���F�T�o�X�@�u�����W�U�^�W�V</td>
+<a href="noteky@c_noteread_f_3_id_944482052mddsnh_ff_on.cgi" >2</a></td>
+<td align="center" nowrap>桃色サバス　Ｖｏｌ８６／８７</td>
 <td align="center" nowrap>1999/12/06 21:07:32</td>
-<td nowrap>���F�T�o�X�u�����W�U�^�W�V�i��P�O�����^...</td>
+<td nowrap>桃色サバスＶｏｌ８６／８７（第１０巻収録...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=3&id=922979260glbmvw&ff=on" >3</a></td>
+<a href="noteky@c_noteread_f_3_id_922979260glbmvw_ff_on.cgi" >3</a></td>
 <td align="center" nowrap>MAKIKO</td>
 <td align="center" nowrap>1999/04/02 00:07:40</td>
-<td nowrap>�w�l�`�j�h�j�n�x�i�S�Q���j�m�������Y�{�H...</td>
+<td nowrap>『ＭＡＫＩＫＯ』（全２巻）［寺岡道雄＋工...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=3&id=913296799jsdoi&ff=on" >4</a></td>
-<td align="center" nowrap>���Ȃ�</td>
+<a href="noteky@c_noteread_f_3_id_913296799jsdoi_ff_on.cgi" >4</a></td>
+<td align="center" nowrap>うなじ</td>
 <td align="center" nowrap>1998/12/15 10:58:08</td>
-<td nowrap>����̏o�F�͂�͂�u�n�̗_�v�Ō���ł���...</td>
+<td nowrap>今回の出色はやはり「馬の誉」で決定ですか...</td>
 </tr>
-</table><p>[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɂ��ǂ�</a>]</p></body></html>
+</table><p>[<a href="noteky@_ff_on.cgi" >ノート一覧にもどる</a>]</p></body></html>

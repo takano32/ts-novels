@@ -1,301 +1,301 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=964808959yvmkgvg&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_964808959yvmkgvg_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
 <font size="+2" color="#0000FF">RB FESTIVAL</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/special/rb/" target="_blank">RB�Ղ�͂����ŊJ��</a></strong>  <i>2000/07/29 03:29:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../special/rb/index.html" target="_blank">RB祭りはここで開催</a></strong>  <i>2000/07/29 03:29:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964808959yvmkgvg&id2=964808959yvmkgvg&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964808959yvmkgvg_id2_964808959yvmkgvg_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yRB�Ղ���s�ψ����z ������̃{�[�h�ɍՂ�Q����i�ւ̃R�����g��ARB�֌W�̒�āE�R�����g�E�l�^����������ł���ĉ������B���肢���܂��B
+【RB祭り実行委員より】 こちらのボードに祭り参加作品へのコメントや、RB関係の提案・コメント・ネタを書き込んでやって下さい。お願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/07/29 03:50:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/07/29 03:50:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964810213nmlej&id2=964808959yvmkgvg&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964810213nmlej_id2_964808959yvmkgvg_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yRB�Ղ�ւ̃R�����g�z �e�X�g���e�ł�
+【RB祭りへのコメント】 テスト投稿です
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����O</strong>  <i>2000/07/30 01:08:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>お名前</strong>  <i>2000/07/30 01:08:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964886900pkilupw&id2=964808959yvmkgvg&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964886900pkilupw_id2_964808959yvmkgvg_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yRB�Ղ�ւ̃R�����g�z 
+【RB祭りへのコメント】 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:cinders@beige.ocn.ne.jp" target="_blank">�b��������</a></strong>  <i>2000/07/30 01:12:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:cinders@beige.ocn.ne.jp" target="_blank">Ｃｉｎｄｙ</a></strong>  <i>2000/07/30 01:12:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964887143tybvna&id2=964808959yvmkgvg&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964887143tybvna_id2_964808959yvmkgvg_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃɂ��q�a�Ղ�ǂ������ł��ˁB<BR>�S�R�}�i�H�j�ł͐󐣏z����́u���G�����o���������I�v���ǂ������ł��B<BR>�G���ǂ����A���b���D�݂��ۂ��ł��B<BR>�C���X�g�ł͌��c���炳��́u�����T�㕨��v�̃C���X�g���ǂ��ł��B<BR>�����A���̃c�C���e�[���̓C�P�Ă�Ǝv���܂��B<BR>���`��A�����������������ǁA���l�^�Ȃ���ł��`�B
+なにやらＲＢ祭り良い感じですね。<BR>４コマ（？）では浅瀬循さんの「風季ちゃんＰａｎｉｃ！」が良かったです。<BR>絵も良いし、お話も好みっぽいです。<BR>イラストでは原田聖也さんの「少女探偵物語」のイラストが良いです。<BR>私も、このツインテールはイケてると思います。<BR>う～ん、私も何かしたいけど、今ネタないんです～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>ZERO</strong>  <i>2000/07/30 02:33:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964892036csnvo&id2=964808959yvmkgvg&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964892036csnvo_id2_964808959yvmkgvg_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ƁA�p�ꎫ�T�B<BR>�^��̕��łȂ��Ă��n�j�ł����H<BR>
+えっと、用語辞典。<BR>真作の物でなくてもＯＫですか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����O</strong>  <i>2000/07/30 06:48:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>お名前</strong>  <i>2000/07/30 06:48:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964907313pkilupw&id2=964808959yvmkgvg&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964907313pkilupw_id2_964808959yvmkgvg_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yRB�Ղ�ւ̃R�����g�z 
+【RB祭りへのコメント】 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/07/30 09:58:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/07/30 09:58:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964918686hfaiew&id2=964808959yvmkgvg&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964918686hfaiew_id2_964808959yvmkgvg_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �����ƁA�p�ꎫ�T�B<BR>&gt; �^��̕��łȂ��Ă��n�j�ł����H<BR><BR>�͂��B�i�u�^��v�Ƃ����Ӗ��́A2bit����̍�i�Ƃ������Ƃł���ˁH�j<BR>�������A2bit����ȊO�̍�҂���̍�i�Ɋւ���l�^�́A�o�����X�I�ɂ����āA���܂�ЂƂ̍�i�Ɋւ���l�^�̗ʂ��ˏo����͔̂��������Ƃ���ł��B�ꉞ�ARB1�`remix�𒆐S�ɂ��������W�Ƃ����R���Z�v�g�ł��̂ŁB
+&gt; えっと、用語辞典。<BR>&gt; 真作の物でなくてもＯＫですか？<BR><BR>はい。（「真作」という意味は、2bitさんの作品ということですよね？）<BR>ただし、2bitさん以外の作者さんの作品に関するネタは、バランス的にいって、あまりひとつの作品に関するネタの量が突出するのは避けたいところです。一応、RB1～remixを中心においた特集というコンセプトですので。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/07/30 22:33:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">猫野　丸太丸</a></strong>  <i>2000/07/30 22:33:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=964964035svyvsld&id2=964808959yvmkgvg&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_964964035svyvsld_id2_964808959yvmkgvg_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V���[�g�X�g�[���[�B<BR>�uK�v����A���̎q�݂͂����񂮂���́u�V���U�ʁI�v�݂����Ȋ�����<BR>�@���̎q�ł��˂��B���������̒��q���ƁA���̓s�s�̃`���R�p�t�F�̔�<BR>�@��s���������ɏオ��Ƃ������ۂ��c�c�B<BR>��������A���̑o�q�̐��i���΂�����c�����Ă���̂ł��ˁB�i�C�X��<BR>�@���ŁA�I�`���ǂ߂܂���ł����B
+ショートストーリー。<BR>「K」さん、この子はみっしんぐさんの「天罰覿面！」みたいな感じの<BR>　女の子ですねっ。しかしこの調子だと、その都市のチョコパフェの売<BR>　れ行きだけ妙に上がるという現象が……。<BR>名高さん、あの双子の性格をばっちり把握しているのですね。ナイスな<BR>　作戦で、オチが読めませんでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/07/31 19:24:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/07/31 19:24:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=965039088udqpqg&id2=964808959yvmkgvg&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_965039088udqpqg_id2_964808959yvmkgvg_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����ł��ˁ`���A�q�a�Ղ�B<BR>�@�b�����������񓯗l�A�󐣂���̖���ɂ�����Ƃ������Ⴂ�܂����B<BR>�@�킽�����l�R�}�`���Ă݂����Ǝv������ł����ǁc�c���������ĊԂɂ������ȁH
+　盛況ですね～っ、ＲＢ祭り。<BR>　Ｃｉｎｄｙさん同様、浅瀬さんの漫画にころっといっちゃいました。<BR>　わたしも四コマ描いてみたいと思ったんですけど……今から作って間にあうかな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>ZERO</strong>  <i>2000/08/01 02:16:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=965063784utpvqn&id2=964808959yvmkgvg&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_965063784utpvqn_id2_964808959yvmkgvg_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[�p�ꎫ�T]<BR><BR>TRICE.......�����肪���߂Ď~�܂Ȃ����q�͎ґΉ��q�a�B�ł����וi(��)<BR><BR><BR><BR>���C�͖������I<BR>
+[用語辞典]<BR><BR>TRICE.......さいりが求めて止まない低霊子力者対応ＲＢ。でも欠陥品(笑)<BR><BR><BR><BR>悪気は無いぞ！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jun-t@pop02.odn.ne.jp" target="_blank">�󐣁@�z</a></strong>  <i>2000/08/01 23:54:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jun-t@pop02.odn.ne.jp" target="_blank">浅瀬　循</a></strong>  <i>2000/08/01 23:54:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=965141651hosjo&id2=964808959yvmkgvg&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_965141651hosjo_id2_964808959yvmkgvg_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�󐣂ł��B�i�ǂ����͂��߂܂��āj<BR>����ȕ����΂����̃}���K�ǂ�ł��������Ă�悤�ŁE�E�B<BR><BR>�E�b�������� ����<BR>&gt;&gt;�G���ǂ����A���b���D�݂��ۂ�<BR>�L���������܂��B���b�͂����̃����M���O�ł����A���G������<BR>������ăL�����Ƃ��Ĕ���������ȁA�Ǝv���čl���܂����B<BR><BR>&gt;&gt;���c���炳��́u�����T�㕨��v�̃C���X�g���ǂ��ł��B<BR>�ق�ƕ��͋C�̂łĂ�|���C���X�g�ł��ˁ[�B�G�I�ɃL���������Ă�<BR>�̂ł���Ń}���K�������Ȃ�܂��B<BR><BR>�E�l�n�m�c�n����<BR>&gt;&gt;����ɂ�����Ƃ������Ⴂ�܂����B<BR>�����A�����������t�B�L���������܂��B<BR><BR>&gt;&gt;���������ĊԂɂ������ȁH <BR>�J�Ê��Ԃ��܂ł��͂���܂��񂪁AVer.3�ȊO�̃L������<BR>�}���K�Ƃ������Ă݂����ȂƂ��v�����肵�āB�i�΁j
+浅瀬です。（どうもはじめまして）<BR>あんな文字ばっかのマンガ読んでいただけてるようで・・。<BR><BR>・Ｃｉｎｄｙ さん<BR>&gt;&gt;絵も良いし、お話も好みっぽい<BR>有り難うございます。お話はただのワンギャグですが、風季ちゃんの<BR>立場ってキャラとして美味しいよな、と思って考えました。<BR><BR>&gt;&gt;原田聖也さんの「少女探偵物語」のイラストが良いです。<BR>ほんと雰囲気のでてる旨いイラストですねー。絵的にキャラたってる<BR>のでこれでマンガ見たくなります。<BR><BR>・ＭＯＮＤＯさん<BR>&gt;&gt;漫画にころっといっちゃいました。<BR>ああ、嬉しいお言葉。有り難うございます。<BR><BR>&gt;&gt;今から作って間にあうかな？ <BR>開催期間いつまでかはしりませんが、Ver.3以外のキャラの<BR>マンガとかも見てみたいなとか思ったりして。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/08/02 12:26:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/08/02 12:26:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=965186784ceuqt&id2=964808959yvmkgvg&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_965186784ceuqt_id2_964808959yvmkgvg_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�J�Ê��Ԃ́A��w�����n�܂�܂łł����B<BR>
+開催期間は、二学期が始まるまででっす。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">���c����</a></strong>  <i>2000/08/02 19:50:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">原田聖也</a></strong>  <i>2000/08/02 19:50:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=965213416gpfyvrh&id2=964808959yvmkgvg&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_965213416gpfyvrh_id2_964808959yvmkgvg_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���J�Ê��Ԃ́A��w�����n�܂�܂łł����B<BR><BR>�܂��܂����e�ł��܂��˂��B(^^)<BR><BR>���b������������<BR>�������A���̃c�C���e�[���̓C�P�Ă�Ǝv���܂��B<BR><BR>���肪�Ƃ��������܂��B(^^)<BR>�c�C���e�[���̃C���X�g�͑_���ĕ`�����Ƃ��낪�傫���ł��̂ŁA���������Ă���������Ƃ��ꂵ���ł��B<BR><BR>���󐣂���<BR>���ق�ƕ��͋C�̂łĂ�|���C���X�g�ł��ˁ[�B<BR><BR>�ǂ����ł��B<BR>�󐣂���́u���G�����o���������I�v�͐����m�����ǂ����āA�y���܂��Ă��������܂�����B<BR>�^�b�`���_�炩���āA���Ă��ċC�����ǂ��ł��ˁB<BR><BR>���݂����񂮂���<BR><BR>�{�Ƃ̂S�R�}�A�q�a�Ȃ�ł͂̃I�`���ʔ��������ł��B<BR>�����𖧂��Ɋ��҂��Ă��܂��B<BR><BR>���l�n�m�c�n����<BR><BR>�C���X�g�X�g�[���[�͌���̌��������ڂŁA�Ƃ��Ă��������������ł��B<BR>�E�F�C�g���X�p�����ɂ��C�ɓ���ł��B�y���܂��Ă��������܂����B<BR><BR>���y�d�q�n����<BR>���ł����וi(��)<BR><BR>������Ȃ�ł��A����̓t���C���O�ł���c�i���j
+＞開催期間は、二学期が始まるまででっす。<BR><BR>まだまだ投稿できますねっ。(^^)<BR><BR>○Ｃｉｎｄｙさん<BR>＞私も、このツインテールはイケてると思います。<BR><BR>ありがとうございます。(^^)<BR>ツインテールのイラストは狙って描いたところが大きいですので、そう言っていただけるとうれしいです。<BR><BR>○浅瀬さん<BR>＞ほんと雰囲気のでてる旨いイラストですねー。<BR><BR>どうもです。<BR>浅瀬さんの「風季ちゃんＰａｎｉｃ！」は凄くノリが良くって、楽しませていただきましたよ。<BR>タッチも柔らかくて、見ていて気持ち良いですね。<BR><BR>○みっしんぐさん<BR><BR>本家の４コマ、ＲＢならではのオチが面白かったです。<BR>次回作を密かに期待しています。<BR><BR>○ＭＯＮＤＯさん<BR><BR>イラストストーリーは原作の見所が満載で、とっても美味しかったです。<BR>ウェイトレス姿が特にお気に入りです。楽しませていただきました。<BR><BR>○ＺＥＲＯさん<BR>＞でも欠陥品(笑)<BR><BR>いくらなんでも、それはフライングですよ…（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Qbit</strong>  <i>2000/08/03 00:13:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>２bit</strong>  <i>2000/08/03 00:13:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=965229222xldtb&id2=964808959yvmkgvg&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_965229222xldtb_id2_964808959yvmkgvg_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����ɂ��͂����B<BR>�@���A���x��Ă��錴��҂̂s�v�n�|�a�h�s�ł��i�����j<BR>�@���i�����z���q�ׂ�̂��؂Ȃ�ł����A��R���肷���ď����Ȃ��̂ŁA�ꌾ�\�\<BR>�@�C���X�g�ɃR�~�b�N�A�r�r�A�y���܂��Ė���Ă܂��i�΁j<BR><BR>�@����ł�����ς芴�z�����܂��B<BR><BR>�����ƂԂ��Ђ��邳��<BR>�@�S�R�}�ڂ̈��肱�Ԃ����O�D�`�����B<BR>�@�C���X�g�̕��̉�₩�ȃh���X�A�D�������ˁB<BR>�@�p�ꎫ�T�̂u�����Q�̃C���X�g���D�������B<BR><BR>���啔�͂���<BR>�@�r�c����l���A�i�C�X�ł���<BR><BR>�������E����<BR>�@�L��ۑ��ۂ���ɂ���悤�ɁA���S�ɔc�����Ă���ȁ`�����i<BR>�@��肢�����B<BR><BR>�@�����`���ƁA���̕��X�ɂ͊��ɈႤ�f���⃁�[���ŏ����Ă܂��̂ŁA����̕��͂����ł͏Ȃ����ĉ������i�s�`���ŁA�\����Ȃ��ł��j<BR>�@�ŁA�R�R����̓��X�ł��i�����A�O�`���O�`���j<BR><BR>���{�Ƃ̂S�R�}�A�q�a�Ȃ�ł͂̃I�`���ʔ��������ł��B<BR>�@���c����̃C���X�g�̈��Ƃ��̎����A�B�����̒j�p�i�����j<BR><BR>�@�������A�󐣂���Ƃ����A���ƂԂ�����Ƃ����A�R�~�b�N�̑S�Ă��q�a�R�ɂȂ�Ƃ́c�c�`���₷����ł����ˁ`<BR><BR>��Ver.3�ȊO�̃L�����̃}���K�Ƃ������Ă݂����ȂƂ��v�����肵�āB�i�΁j<BR>�@�l�^�I�ɕ`���₷���̂��q�a�T�Ȃ�ł����ǁc�c�����̒��ŃL�����̊G���o���ĂȂ�����ȁ`<BR>�@�r�r�Ȃ�ȒP�Ȃ�ł����ǂˁc�c�ǂȂ����ɁA�V���Ȃ�}���K�����҂���Ɓ��I�C�A�I�C�B<BR><BR>���J�Ê��Ԃ́A��w�����n�܂�܂łł����B<BR>�@����܂łɁA�ꖇ���炢�͂b�f�`���`<BR><BR>�@���������̂��Čo���������߁A���������オ��C���̂s�v�n�|�a�h�s�ł����B
+　こんにちはっす。<BR>　挨拶が遅れている原作者のＴＷＯ－ＢＩＴです（自爆）<BR>　一作品ずつ感想を述べるのが筋なんですが、沢山ありすぎて書けないので、一言――<BR>　イラストにコミック、ＳＳ、楽しませて貰ってます（笑）<BR><BR>　それでもやっぱり感想書きます。<BR><BR>□ことぶきひかるさん<BR>　４コマ目の握りこぶしがグゥ～っす。<BR>　イラストの方の雅やかなドレス、好いっすね。<BR>　用語辞典のＶｅｒ２のイラストが好きっす。<BR><BR>□門部章さん<BR>　ＳＤ歴代主人公、ナイスです♪<BR><BR>□名高忍さん<BR>　猫野丸太丸さんにあるように、完全に把握しているな～＞性格<BR>　上手いっす。<BR><BR>　えぇ～っと、他の方々には既に違う掲示板やメールで書いてますので、お礼の方はここでは省かせて下さい（不義理で、申し訳ないです）<BR>　で、ココからはレスです（何か、グチャグチャ）<BR><BR>＞本家の４コマ、ＲＢならではのオチが面白かったです。<BR>　原田さんのイラストの葵とこの樹が、唯一主役の男姿（自爆）<BR><BR>　しかし、浅瀬さんといい、ことぶきさんといい、コミックの全てがＲＢ３になるとは……描きやすいんですかね～<BR><BR>＞Ver.3以外のキャラのマンガとかも見てみたいなとか思ったりして。（笑）<BR>　ネタ的に描きやすいのがＲＢ５なんですけど……自分の中でキャラの絵が出来てないからな～<BR>　ＳＳなら簡単なんですけどね……どなたかに、新たなるマンガを期待すると＜オイ、オイ。<BR><BR>＞開催期間は、二学期が始まるまででっす。<BR>　それまでに、一枚ぐらいはＣＧ描こ～<BR><BR>　こう言うのって経験無いため、少し舞い上がり気味のＴＷＯ－ＢＩＴでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/08/03 22:05:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/08/03 22:05:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=965307956kqugwly&id2=964808959yvmkgvg&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_965307956kqugwly_id2_964808959yvmkgvg_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���@�E�F�C�g���X�p�����ɂ��C�ɓ���ł��B�y���܂��Ă��������܂����B<BR><BR>�@���肪�Ƃ��������܂��B���c����̃C���X�g�A�o�q�������ł����ǁA�n���h�K���\���邠���������������������ł����B<BR><BR>���@Ver.3�ȊO�̃L�����̃}���K�Ƃ������Ă݂����ȂƂ��v�����肵�āB�i�΁j <BR>���@�ǂȂ����ɁA�V���Ȃ�}���K�����҂����<BR><BR>�@�ӂ��ӂ��ӂ��B
+＞　ウェイトレス姿が特にお気に入りです。楽しませていただきました。<BR><BR>　ありがとうございます。原田さんのイラスト、双子もいいですけど、ハンドガン構えるあおいちゃんもかっこいいですっ。<BR><BR>＞　Ver.3以外のキャラのマンガとかも見てみたいなとか思ったりして。（笑） <BR>＞　どなたかに、新たなるマンガを期待すると<BR><BR>　ふっふっふっ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����O</strong>  <i>2000/08/05 00:07:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>お名前</strong>  <i>2000/08/05 00:07:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=965401630pkilupw&id2=964808959yvmkgvg&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_965401630pkilupw_id2_964808959yvmkgvg_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yRB�Ղ�ւ̃R�����g�z 
+【RB祭りへのコメント】 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">���c����</a></strong>  <i>2000/08/13 20:01:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">原田聖也</a></strong>  <i>2000/08/13 20:01:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=966164489xisux&id2=964808959yvmkgvg&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_966164489xisux_id2_964808959yvmkgvg_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������������o���܂�<BR>�������A�l�n�m�c�n����̐V��͑Җ]�̃o�[�W�����S�̖���ł��ˁB(^^)<BR>�����������̎����Ղ肪�ڂɕ����т܂��`<BR><BR>���q�a�̖���<BR>�ǂ�ǂ�G�X�J���[�g����Z�p�v�V�i�H�j���Ȃ�Ƃ��B(^^)<BR>�����o����̕s�G�����܂��O�[�ł����B
+○きせかえお姉さまっ<BR>おおっ、ＭＯＮＤＯさんの新作は待望のバージョン４の漫画ですね。(^^)<BR>あおいちゃんの受難っぷりが目に浮かびます～<BR><BR>○ＲＢの明日<BR>どんどんエスカレートする技術革新（？）がなんとも。(^^)<BR>こより姉さんの不敵さがまたグーでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:cinders@beige.ocn.ne.jp" target="_blank">�b��������</a></strong>  <i>2000/08/14 10:09:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:cinders@beige.ocn.ne.jp" target="_blank">Ｃｉｎｄｙ</a></strong>  <i>2000/08/14 10:09:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=966215344xpfrqj&id2=964808959yvmkgvg&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_966215344xpfrqj_id2_964808959yvmkgvg_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���c����A�O�[�ł������B�悩�����ł��B<BR>���b�͒P�ɓ팩�o���ƍʂ��񂪕`���������������Ƃ����c�B�������̓I�`�S���B<BR>�ł��k���ƕ����̊֌W����������Y��Ă��āA�f�[�^�ʂƕ����̑傫���ł��̑傫���ɂ��܂������A����ς茩�Â炢�ł��ˁB�����܂ŏk������Ɓc�B
+原田さん、グーでしたか。よかったです。<BR>お話は単に楠見姉妹と彩さんが描きたかっただけという…。桃ちゃんはオチ担当。<BR>でも縮小と文字の関係をすっかり忘れていて、データ量と文字の大きさであの大きさにしましたが、やっぱり見づらいですね。ここまで縮小すると…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/08/15 00:03:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/08/15 00:03:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=966265386sytywtw&id2=964808959yvmkgvg&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_966265386sytywtw_id2_964808959yvmkgvg_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������������o���܂�<BR><BR>�������������̎����Ղ肪�ڂɕ����т܂��`<BR><BR>�u�����������v�ɂ́u�ؗ͋����{�f�B�v���������̂ł́H<BR>�܊p�p�j�b�N�l�^�Ȃ񂾂��A�u�o�b�^��сv�Ƃ������Ă݂����B<BR>�i���l�^�����Ō��������ɂ���ĔN�������܂��j<BR><BR>���q�a�̖���<BR>���ǂ�ǂ�G�X�J���[�g����Z�p�v�V�i�H�j���Ȃ�Ƃ��B(^^)<BR><BR>���̒��ň�l�ۂ�Ǝ��c���ꂽ�u�������v�B<BR>�ނ̖����͔@���ɁH
+＠きせかえお姉さまっ<BR><BR>＞あおいちゃんの受難っぷりが目に浮かびます～<BR><BR>「あおいちゃん」には「筋力強化ボディ」が似合うのでは？<BR>折角パニックネタなんだし、「バッタ飛び」とかも見てみたい。<BR>（元ネタを何で見つけたかによって年齢が分かれます）<BR><BR>＠ＲＢの明日<BR>＞どんどんエスカレートする技術革新（？）がなんとも。(^^)<BR><BR>その中で一人ぽつんと取り残された「桃ちゃん」。<BR>彼の明日は如何に？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/08/15 00:06:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/08/15 00:06:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=966265602fkvduoh&id2=964808959yvmkgvg&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_966265602fkvduoh_id2_964808959yvmkgvg_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���M�F���d�F�l��<BR>���������A�I���L�����ō\�����ꂽ�q�a���オ��܂��B<BR>�T�����ɂ͑�P�b�𑗂��l�ɏ������Ă���܂��B<BR>�u�v���[���e�L�X�g�v�ő��邱�ƂɂȂ邩�Ǝv���܂����A�ȂɂƂ��X�����̂قǂ��B
+私信：八重洲様へ<BR>もうすぐ、オリキャラで構成されたＲＢが上がります。<BR>週明けには第１話を送れる様に準備しております。<BR>「プレーンテキスト」で送ることになるかと思いますが、なにとぞ宜しくのほどを。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂�����</strong>  <i>2000/08/16 01:34:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みっしんぐ</strong>  <i>2000/08/16 01:34:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=966357279gckoj&id2=964808959yvmkgvg&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_966357279gckoj_id2_964808959yvmkgvg_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������������o���܂�<BR>�@�Ō�̃R�}�̂��������D���ˁi�΁j<BR>�@���������΁A���������Ăǂ�ȕ������Ă�񂾂낤�c�c�E�ƕ��A�����₷���̂�I�ԂƎv�����ǁc�c<BR><BR>���q�a�̖���<BR>�@�\�Ɨ��̃g�b�v�̓�l�������΁A�m���ɔ��W����ȁi��΁j<BR>�@�ʏ�̂ۂ��`���Ƃ������͋C���o�Ă��čD�������ˁB<BR>�@���c���񂶂�Ȃ����ǁA�����`�����i��j<BR><BR>���f�[�^�ʂƕ����̑傫���ł��̑傫���ɂ��܂������A����ς茩�Â炢�ł��ˁB<BR>�@�����`�A��ʃT�C�Y��ڈ�t�ł������Ă���̂ŁA������������������i�����A���͂��ɓx�ɗ������������Ęb���j<BR><BR>�����̒��ň�l�ۂ�Ǝ��c���ꂽ�u�������v�B<BR>���ނ̖����͔@���ɁH <BR>�@�����͖����ˁi�΁j<BR><BR><a href="http://www.mirai.ne.jp/~air/rental_body/momo.txt" target="_blank">http://www.mirai.ne.jp/~air/rental_body/momo.txt</a>
+□きせかえお姉さまっ<BR>　最後のコマのあおいが好いね（笑）<BR>　そう言えば、あおいってどんな服装してるんだろう……職業柄、動きやすいのを選ぶと思うけど……<BR><BR>□ＲＢの明日<BR>　表と裏のトップの二人が競えば、確かに発展するな（苦笑）<BR>　彩嬢のぽぉ～っとした雰囲気が出ていて好いっすね。<BR>　原田さんじゃないけど、ぐぅ～っす（♪）<BR><BR>＞データ量と文字の大きさであの大きさにしましたが、やっぱり見づらいですね。<BR>　うぅ～、画面サイズを目一杯でかくしているので、少し文字が見難いっす（ただ、視力が極度に落ちただけって話が）<BR><BR>＞その中で一人ぽつんと取り残された「桃ちゃん」。<BR>＞彼の明日は如何に？ <BR>　未来は無いね（笑）<BR><BR><a href="http://www.mirai.ne.jp/~air/rental_body/momo.txt" target="_blank">http://www.mirai.ne.jp/~air/rental_body/momo.txt</a>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jun-t@pop02.odn.ne.jp" target="_blank">�󐣁@�z</a></strong>  <i>2000/08/28 07:52:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jun-t@pop02.odn.ne.jp" target="_blank">浅瀬　循</a></strong>  <i>2000/08/28 07:52:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=967416774ccxvina&id2=964808959yvmkgvg&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_967416774ccxvina_id2_964808959yvmkgvg_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������w���i���̌��t�A�����������j�E�E<BR>�Ǝv���Ă���Ă���ƁA���摝���Ă܂��ˁB�Z���ł������z�Ȃǂ��B<BR><BR>�E�����������o���܂�<BR>��X�v���̂ł����ǁA�s�r�����Ă��������A�F�B�Ƃ��̏��̎q��<BR>��������ɂ���܂��ˁ[�B�i�΁j�@�܂��A����قǃt�@�b�V�����͏�����<BR>�Ƃ��Ċy�������̂Łu���̊��������Ȃ��̖��ɁE�E�v���Ă���<BR>�Ȃ�ł��傤���ǁB<BR>�@�@�@�������A�����ւ����Ă邢�낢�댩���Ă���Ă܂���<BR>�@�@�@���I�ɁA�����p�̃`�F���[�E�v�����Ɉ�[�ł��B(^^)<BR><BR>�E�q�a�̖���<BR>�ʂƂ����̉�b�̃e���|���Ȃ񂩁u�ق�`�v�Ƃ��Ă���܂��ˁ[�B<BR>�Ȃ��݂܂��B�i�΁j<BR>�i�ʂ����̊ۊዾ���w�ǐQ�Ă�ځB���������B�j<BR><BR>���p���`�ƃV�b�|�������������B<BR>�ǂ��l���Ă��u�G���v�ȊO�̓p�t�H�[�}���X�����Ă�񂶂�B�i�΁j<BR><BR><BR>�����c����B<BR>&gt;&gt;�^�b�`���_�炩���āA���Ă��ċC�����ǂ��ł��ˁB<BR>��ɂȂ��Ē��������ȁ[�̕���������̂ł����A���������Ă��炦���<BR>�������ł��B<BR><BR>�Ƃ܂��A���̂��Ƃ͂����Ƃ���<BR>���c����̃`�r�L�����Ń}���K�݂����ł��B��������B(^^;<BR>�@�@�@
+もうすぐ二学期（この言葉、懐かしすぎ）・・<BR>と思ってやってくると、漫画増えてますね。短いですが感想などを。<BR><BR>・きせかえお姉さまっ<BR>常々思うのですけど、ＴＳっ娘てたいがい、友達とかの女の子に<BR>おもちゃにされますねー。（笑）　まあ、それほどファッションは女性に<BR>とって楽しいもので「この感動を初なこの娘に・・」ってこと<BR>なんでしょうけど。<BR>　　　葵ちゃん、着せ替えられてるいろいろ見せてくれてますが<BR>　　　私的に、制服姿のチェリー・プラムに一票です。(^^)<BR><BR>・ＲＢの明日<BR>彩とさりりの会話のテンポがなんか「ほや～」としておりますねー。<BR>なごみます。（笑）<BR>（彩ちゃんの丸眼鏡＆殆ど寝てる目。いいっす。）<BR><BR>＞パンチとシッポをつけた桃ちゃん。<BR>どう考えても「萌え」以外はパフォーマンス落ちてるんじゃ。（笑）<BR><BR><BR>■原田さん。<BR>&gt;&gt;タッチも柔らかくて、見ていて気持ち良いですね。<BR>後になって直したいなーの部分もあるのですが、そう言ってもらえると<BR>嬉しいです。<BR><BR>とまあ、私のことはおいといて<BR>原田さんのチビキャラでマンガみたいです。いつか是非。(^^;<BR>　　　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:cinders@beige.ocn.ne.jp" target="_blank">�b��������</a></strong>  <i>2000/08/28 09:57:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:cinders@beige.ocn.ne.jp" target="_blank">Ｃｉｎｄｙ</a></strong>  <i>2000/08/28 09:57:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=967424238fqvmlun&id2=964808959yvmkgvg&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_967424238fqvmlun_id2_964808959yvmkgvg_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�������ɂ��́`�B<BR>���낢��Ȑl����̃R�����g���肪�Ƃ��������܂���<BR>�Ȃ�ƂȂ��A�ʂ���̊G���C�ɓ����ĖႦ���l�ŁB<BR>��������͊��Ƃ��܂��s�������ȁ`�Ǝv���Ă܂��B�i�΁j<BR>�����ăp�t�H�[�}���X�̘b�́A������񐫔\����Ȃ��Č|�̕��ł��B�i�΁j<BR><BR>���ƁA�����������͖{�l�̈ӎv�Ƃ͊֌W�Ȃ������̂𒅂����Ă鎖����]�i�΁j
+どうもこんにちは～。<BR>いろいろな人からのコメントありがとうございます♪<BR>なんとなく、彩さんの絵が気に入って貰えた様で。<BR>私もあれは割とうまく行ったかな～と思ってます。（笑）<BR>そしてパフォーマンスの話は、もちろん性能じゃなくて芸の方です。（笑）<BR><BR>あと、あおいちゃんは本人の意思とは関係なく凄いのを着せられてる事を希望（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����O</strong>  <i>2000/09/19 20:10:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>お名前</strong>  <i>2000/09/19 20:10:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969361823pkilupw&id2=964808959yvmkgvg&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969361823pkilupw_id2_964808959yvmkgvg_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yRB�Ղ�ւ̃R�����g�z 
+【RB祭りへのコメント】 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2000/09/24 13:28:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花</strong>  <i>2000/09/24 13:28:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969769731yhqskot&id2=964808959yvmkgvg&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969769731yhqskot_id2_964808959yvmkgvg_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yRB�Ղ�ւ̃R�����g�z <BR>����ɂ��́A2-bit����B<BR>�����S���Ă���̂����ł��悭�킩��Ȃ��̂�����ǁA���ǖ����ɂq�a�V���[�Y��S���ǂ݂����Ă��܂���B<BR>����ǁA���A�y2bit���ɐu���I�z�̂Ƃ����ǂ�ŁA�u�y���ސS��Y��Ȃ����Ɓv�̌��t�ƍ\����̃I�`�����āA�������<BR>���̂����z��<BR>�ł����B<BR>���肪�Ƃ��A2-bit����B
+【RB祭りへのコメント】 <BR>こんにちは、2-bitさん。<BR>何を拘っているのか今でもよくわからないのだけれど、結局未だにＲＢシリーズを全部読みきっていません。<BR>けれど、今、【2bit氏に訊け！】のところを読んで、「楽しむ心を忘れないこと」の言葉と構成上のオチを見て、ちょっと<BR>胸のすく想い<BR>でした。<BR>ありがとう、2-bitさん。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����ɂ����O��</strong>  <i>2001/01/17 11:30:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ここにお名前を</strong>  <i>2001/01/17 11:30:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=979698606jypxuo&id2=964808959yvmkgvg&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_979698606jypxuo_id2_964808959yvmkgvg_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yRB�Ղ�ւ̃R�����g�z 
+【RB祭りへのコメント】 
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="964808959yvmkgvg">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

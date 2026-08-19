@@ -1,515 +1,515 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=982903739uvxfqjk&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_982903739uvxfqjk_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�E�C�j���O�{�[��</font><br>
+<font size="+2" color="#0000FF">ウイニングボール</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/23134043/standard_format.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2001/02/23 13:48:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/23134043/standard_format.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2001/02/23 13:48:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=982903739uvxfqjk&id2=982903739uvxfqjk&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_982903739uvxfqjk_id2_982903739uvxfqjk_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���N�������ɉ^�c�ψ���
+少年少女文庫運営委員会
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/23134043/winning_bowl.html" target="_blank">�������̓R�R�Ń����N���Ă܂�</a></strong>  <i>2001/02/23 14:13:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/23134043/winning_bowl.html" target="_blank">正しくはココでリンクしてます</a></strong>  <i>2001/02/23 14:13:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=982905224grqnp&id2=982903739uvxfqjk&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_982905224grqnp_id2_982903739uvxfqjk_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�i�ڂ̃����N�͊ԈႢ�ł��B�������͂�����ł��B
+１段目のリンクは間違いです。正しくはこちらです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/02/23 15:58:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/02/23 15:58:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=982911502qabxjs&id2=982903739uvxfqjk&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_982911502qabxjs_id2_982903739uvxfqjk_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B�͂��߂܂��āA�����낤����B�����W�S�Q�U�Ɛ\���܂��B<BR>�Ȍ��낵�����肢�������܂��B<BR>���₠�A����܂������ł��˂��B���̂ŏd���𕉂����͂������]���B��̂Ȃɂ��������̂��A���҂����Ɋy���݂ł���܂��B<BR>����ł́A�܂��B
+読みました。はじめまして、いちろうさん。ｍｋ８４２６と申します。<BR>以後よろしくお願いいたします。<BR>いやあ、これまた王道ですねぇ。事故で重傷を負ったはずが性転換。一体なにがあったのか、続編が非常に楽しみであります。<BR>それでは、また。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/02/23 18:04:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/02/23 18:04:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=982919061xkdmr&id2=982903739uvxfqjk&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_982919061xkdmr_id2_982903739uvxfqjk_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������A�����ς薡�ł��ȁI�@���񂪓ǂ݂����Ȃ�܂��B����L���l�^�Ƃ����̂��A�ʔ��������H
+おおっ、さっぱり味ですな！　次回が読みたくなります。毎回広島ネタというのも、面白いかも？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/02/23 22:42:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=982935741hjgrly&id2=982903739uvxfqjk&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_982935741hjgrly_id2_982903739uvxfqjk_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂾂��A�ӂƂ��˗T���́u�l���V�g�ɂȂ������R�v���v���o���܂����B<BR>�����A�Ȃ�ƂȂ���V�����A�z�̓������E�E�E�B�i�P���P�j<BR><BR>���L���D���ڑO<BR>�قق��B�ŁA���̔N�̓��{�V���[�Y�̑����<BR>�k�E�l�EBW�E�e�EBu�̂ǂ��ɂȂ�̂ł��傤�H<BR>�i�Ӓn�ł��u�g�v�Ƃ͏����Ȃ��A���`�����遄Kardy�j
+なんだか、ふとがね裕美の「僕が天使になった理由」を思い出しました。<BR>ただ、なんとなく先天性半陰陽の匂いも・・・。（￣▽￣）<BR><BR>＞広島優勝目前<BR>ほほぅ。で、この年の日本シリーズの相手は<BR>Ｌ・Ｍ・BW・Ｆ・Buのどこになるのでしょう？<BR>（意地でも「Ｈ」とは書かないアンチ福岡鷹＞Kardy）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/02/23 23:29:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/02/23 23:29:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=982938591fkgaegy&id2=982903739uvxfqjk&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_982938591fkgaegy_id2_982903739uvxfqjk_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���i�Ӓn�ł��u�g�v�Ƃ͏����Ȃ��A���`�����遄Kardy�j <BR>�ق��A�����x�����������B������Ɗ�݂����i�R�j�B<BR><BR>�o���o���������q�i�R�j�̂����ł����i�������l�Ȃ͖̂{���j�B<BR>�􂢂��s�[���[���G�[�́[���R�[�c�[�i���j
+＞（意地でも「Ｈ」とは書かないアンチ福岡鷹＞Kardy） <BR>ほぉ、いい度胸しちょるやん。ちょっと顔貸しぃ（嘘）。<BR><BR>バリバリ博多っ子（嘘）のｍｋでした（福岡県人なのは本当）。<BR>♪いざ行ーけー無敵ーのー若鷹軍ー団ー（爆）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/23134043/winning_bowl2.html" target="_blank">�E�C�j���O�{�[��2������ɂ͂������N���b�N</a></strong>  <i>2001/02/28 00:37:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/23134043/winning_bowl2.html" target="_blank">ウイニングボール2を見るにはここをクリック</a></strong>  <i>2001/02/28 00:37:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983288254saark&id2=982903739uvxfqjk&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983288254saark_id2_982903739uvxfqjk_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�s�^�Ȏ��̂����l�̐l����ς���B�������A���̏��l�̉Ƒ����āA�Ƃ�킯��e�͂̂�̂�I�I�i�΁j<BR>���Ƃ����ȍ~����������ǂ�����
+【推薦文】不運な事故が将人の人生を変える。しかし、この将人の家族って、とりわけ母親はのりのり！！（笑）<BR>あとがき以降もしっかり読もう♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/02/28 01:20:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/02/28 01:20:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983290825tpyaih&id2=982903739uvxfqjk&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983290825tpyaih_id2_982903739uvxfqjk_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��͂́A�ǂ݂܂����B<BR>�̂�������΂��Ă��܂��܂����B���e�A���S�Ɋy����ł܂��ˁA����B���ꂶ�Ꮻ�l���u���̂̂����ɂ��Ė{���͐��]����p�����񂶂�Ȃ����v�Ƌ^���̂������͂Ȃ��ł��ȁB<BR>�������A����i���ɓ]���̃V�[���j�A�����u���Ɂv�́u�������i�������܂݂�j�v��������B����͂���ς�֋傩�ȁB�܂��A�d�����Ȃ��ł���ˁB<BR>�N�C�Y�A���^�N�V�͊������܂��i�΁j�B�ł́A�܂��B���������҂��Ă���܂��B
+わはは、読みました。<BR>のっけから笑ってしまいました。両親、完全に楽しんでますね、これ。これじゃ将人が「事故のせいにして本当は性転換手術したんじゃないか」と疑うのも無理はないですな。<BR>しかし、これ（特に転入のシーン）、同じ「文庫」の「○い○（伏せ字まみれ）」そっくり。これはやっぱり禁句かな。まあ、仕方がないですよね。<BR>クイズ、ワタクシは棄権します（笑）。では、また。続きを期待しております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>yasiii</strong>  <i>2001/02/28 01:51:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983292663ibemsm&id2=982903739uvxfqjk&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983292663ibemsm_id2_982903739uvxfqjk_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�v�a�Q�z��i�ƃN�C�Y���҂��܂��̓_���Ă���������<BR>�@�@�@�@�@�@�@�@�@�@�@�@�@�@<BR>�@�@�@�@�@�@(�P)�����I��(�Q)���{����(�R)��肳��(�S)�}���i�[�Y(�T)����ēH
+【ＷＢ２】作品とクイズ期待します採点してくざさいね<BR>　　　　　　　　　　　　　　<BR>　　　　　　(１)阿部選手(２)金本さん(３)川崎さん(４)マリナーズ(５)平野監督？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>Kardy���A���`�ǔ�</strong>  <i>2001/02/28 21:15:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Kardy＠アンチ読売</strong>  <i>2001/02/28 21:15:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983362554itkuxt&id2=982903739uvxfqjk&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983362554itkuxt_id2_982903739uvxfqjk_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�D���݂��Ȃ�<BR>�i�i�x�c�l�`�[�����c�ƈ��������ɑI�萶�����I��点���s�K�Ȓ��呲�A�����T�V��Ȃ�m���Ă܂��B�j<BR>�Q�D���{�m���i�E�E�E�������H�j<BR>�R�D��茒���Y<BR>�S�D�V�A�g���}���i�[�Y<BR>�T�D�R�{�����i�ʏ́u�U�R�[�W�v�j
+１．存在しない<BR>（ナベツネチーム入団と引き換えに選手生命を終わらせた不幸な中大卒、阿部慎之介なら知ってます。）<BR>２．金本知憲（・・・だっけ？）<BR>３．川崎健次郎<BR>４．シアトルマリナーズ<BR>５．山本功児（通称「偽コージ」）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/02/28 21:18:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983362686uufpv&id2=982903739uvxfqjk&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983362686uufpv_id2_982903739uvxfqjk_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���y�i���g���[�X�J���܂ł��ƂP�����I����΂�V���R�{�J�[�v�I<BR><BR>�ʂ��I<BR>�������̃R�[�W�ɕ�����ȁI<BR>�i�h���h���h�h�h���j���E�}�E���E�g�E�}���[���Y�I
+＞ペナントレース開幕まであと１ヶ月！がんばれ新生山本カープ！<BR><BR>ぬぅ！<BR>あっちのコージに負けるな！<BR>（ドンドンドドドン）ヤ・マ・モ・ト・マリーンズ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�o�h�s�r</strong>  <i>2001/03/02 23:50:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＰＩＴＳ</strong>  <i>2001/03/02 23:50:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983544610ixduf&id2=982903739uvxfqjk&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983544610ixduf_id2_982903739uvxfqjk_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��Ăo�h�s�r�Ɛ\���܂��B<BR>�E�C�j���O�{�[���ǂ݂܂����B<BR>���ꂩ���A���̓�l�ɂǂ�ȕ��ꂪ�҂��Ă���̂�<BR>�ƂĂ��y���݂ł��B<BR><BR>�N�C�Y�̉񓚂ł�<BR>�P�����ߎ�<BR>�Q���{�O���<BR>�R��蓊��<BR>�S�V�A�g���E�}���i�[�Y<BR>�T�R�{����ēi���O�͂���������ŁH�j<BR>���ꂭ��̓���Ƃ��ẴC���[�W�́A<BR>�w���̃X�g�b�p�[�x�̒Óc����Ȃ̂ł��傤���H<BR>��b�`�������ŁA�X�g�b�p�[�œo�ꂵ�����Ƃ���<BR>�����ɂ��̃C���[�W���O���Ă��܂����B<BR>�����_�ł̋����Ǝ��������m�肽���ł��B<BR>�Ȃɂ��ɍ��N�̃Z���[�O�y�i���g�\�z�ł��B<BR>�P���l�Q�L���R�����S���l�T���N���g�U��_<BR>�����Ȃ�΂����ȁ`�Ɩ��z���鍡�����̂���ł��B
+はじめましてＰＩＴＳと申します。<BR>ウイニングボール読みました。<BR>これから先、この二人にどんな物語が待っているのか<BR>とても楽しみです。<BR><BR>クイズの回答です<BR>１阿部捕手<BR>２金本外野手<BR>３川崎投手<BR>４シアトル・マリナーズ<BR>５山本功二監督（名前はたしかこれで？）<BR>隆一くんの投手としてのイメージは、<BR>『炎のストッパー』故津田投手なのでしょうか？<BR>一話冒頭部分で、ストッパーで登場したことから<BR>即座にこのイメージが涌いてきました。<BR>現時点での球速と持ち球も知りたいです。<BR>なにげに今年のセリーグペナント予想です。<BR>１横浜２広島３中日４巨人５ヤクルト６阪神<BR>こうなればいいな～と夢想する今日このごろです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2001/03/07 06:27:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2001/03/07 06:27:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983914028eduwm&id2=982903739uvxfqjk&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983914028eduwm_id2_982903739uvxfqjk_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��Ă����낤����B�`���b�g�ł��ڂɂ������������낤����ł��傤���E�E�H��i�q�����܂����B�e���|�A��肪�悭�y�����q�����܂����B���ꂩ��̑��҂����҂��Ă���܂��I
+はじめましていちろうさん。チャットでお目にかかったいちろうさんでしょうか・・？作品拝見しました。テンポ、乗りがよく楽しく拝見しました。これからの続編も期待しております！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/23134043/winning_bowl3.html" target="_blank">��R�b��ǂނɂ͂������N���b�N�i�㗝�j</a></strong>  <i>2001/03/31 20:40:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/23134043/winning_bowl3.html" target="_blank">第３話を読むにはここをクリック（代理）</a></strong>  <i>2001/03/31 20:40:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986038811qqfjlj&id2=982903739uvxfqjk&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986038811qqfjlj_id2_982903739uvxfqjk_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����̎���͒��������ł��B�����ė���́A�Ƃ�v���Y��ł��܂��c�c�B
+今回の主役は直美ちゃんです。そして隆一は、独り思い悩んでいます……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/03/31 20:45:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/03/31 20:45:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986039115flrror&id2=982903739uvxfqjk&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986039115flrror_id2_982903739uvxfqjk_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����`�B<BR>�O�ҎO�l�̎��_���Ȃ��Ȃ��悩�����ł��B�u���\���v�����������O�b�h�ł��B<BR>���āA���l�N�E�E�E�u�R�I����v�̕����������ȁE�E�E�͂��ɂȂ�����{���̂��Ƃ�b�����ł��傤���H<BR><BR>�Ō�ɁA�N�C�Y�A����������Ƃ������ƂŁE�E�E�B
+読みました～。<BR>三者三様の視点がなかなかよかったです。「乱暴女」直美ちゃんもグッドです。<BR>さて、将人君・・・「由紀さん」の方がいいかな・・・はいつになったら本当のことを話せるんでしょうか？<BR><BR>最後に、クイズ、今回も棄権ということで・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/05/12 21:53:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/05/12 21:53:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989671996tsghfn&id2=982903739uvxfqjk&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989671996tsghfn_id2_982903739uvxfqjk_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�b���i�ނɂ�āA���񂾂�ƃR�~�J���ɂȂ��Ă��Ă܂��ˁB<BR>�y���������������肵�Ă邵�B<BR>�V���A�X�ȕ����Ƃ̃����n�������āA�������o���ʂɂȂ��Ă܂��B
+話が進むにつれて、だんだんとコミカルになってきてますね。<BR>楽屋落ちも入ったりしてるし。<BR>シリアスな部分とのメリハリがついて、いい演出効果になってます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/23134043/winning_ball4.html" target="_blank">��S�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/05/14 00:59:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/23134043/winning_ball4.html" target="_blank">第４話を読むにはここをクリック</a></strong>  <i>2001/05/14 00:59:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989769541ubpil&id2=982903739uvxfqjk&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989769541ubpil_id2_982903739uvxfqjk_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�E�B�j���O�{�[���S�z<BR>�y���E���z�{�[���ɋl�܂����v���o�����ݒ��߁A�����Č��ӂ�V���ɂ��闳��B����̏��l���ߗR�I�́c�c����ς�V���A�X�����Ă��炦�Ȃ��悤�ł�(��)�B
+【ウィニングボール４】<BR>【推薦文】ボールに詰まった思い出を噛み締め、そして決意を新たにする竜一。一方の将人改め由紀は……やっぱりシリアスさせてもらえないようです(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/05/14 09:21:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/05/14 09:21:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989799673nxunql&id2=982903739uvxfqjk&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989799673nxunql_id2_982903739uvxfqjk_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����z�Ƃ�܂����i�΁j<BR>�V���A�X�Ȏv���o�̕����������ł��ˁB�����̎v���o�ł��ˁB<BR>�Ō�Ƃ̃M���b�v���E�E�E<BR>�������A�������܂�Ă����܂����B�M�͂�����̂ł���<BR>�������҂ł��B<BR>�N�C�Y�͂��݂܂���p�X�ł��B<BR>
+初感想とれました（笑）<BR>シリアスな思い出の部分がいいですね。白球の思い出ですね。<BR>最後とのギャップが・・・<BR>しかし、引き込まれていきました。筆力があるのですね<BR>次も期待です。<BR>クイズはすみませんパスです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/05/14 13:09:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/05/14 13:09:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989813374ogxqgj&id2=982903739uvxfqjk&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989813374ogxqgj_id2_982903739uvxfqjk_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��S�b�z<BR>�ǂ݂܂����B�ʔ��������ł���B<BR>�z���o�̔����ɍ��߂�ꂽ����N�̑z���B<BR>���l���ƗR�I�͂��̑z�����ǂ��󂯎~�߂��炢���̂ł��傤�ˁH�B<BR>��������Ƃ��ꂳ��ɂ�������ɂ���Ă���R�I�������z�B<BR>���Ȃ��ȗR�I�����̑z��������N�ɓ͂��ė~������B
+【第４話】<BR>読みました。面白かったですよ。<BR>想い出の白球に込められた隆一君の想い。<BR>將人こと由紀はその想いをどう受け止めたらいいのでしょうね？。<BR>お父さんとお母さんにおもちゃにされている由紀ちゃん可哀想。<BR>けなげな由紀ちゃんの想いが隆一君に届いて欲しいよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����낤</strong>  <i>2001/05/14 17:45:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>いちろう</strong>  <i>2001/05/14 17:45:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989829905emgqk&id2=982903739uvxfqjk&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989829905emgqk_id2_982903739uvxfqjk_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����I�������z���肪�Ƃ��������܂��B<BR>����݂��邳��<BR>�Ō�Ƃ̃M���b�v���E�E�E��<BR>���낢�邩����<BR>�R�I�������z�B��<BR>����A�����Ă邤���ɗR�I�̏o�Ԃ��Ȃ��Ȃ���������̂ŁA�������̎�����������Ƃ����߂Ă݂邩�I�Ƃ������ƂɂȂ����̂ł��B�i�΁j<BR><BR>����͎��ݑI����o���o���g�����Ⴂ�܂����B�i���j<BR>�����h���S���Y�̑I��̊F�l�A����Ȏ����ɂ�������Ă����܂���B
+どもっ！いつも感想ありがとうございます。<BR>亜希みちるさん<BR>最後とのギャップが・・・＞<BR>しろいるかさん<BR>由紀ちゃん可哀想。＞<BR>今回、書いてるうちに由紀の出番がなくなっちゃったので、いっその事もうちょっといじめてみるか！ということになったのです。（笑）<BR><BR>今回は実在選手をバンバン使っちゃいました。（爆）<BR>中日ドラゴンズの選手の皆様、こんな試合にしちゃってすいません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����n</strong>  <i>2001/05/14 21:05:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>逃げ馬</strong>  <i>2001/05/14 21:05:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989841929askek&id2=982903739uvxfqjk&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989841929askek_id2_982903739uvxfqjk_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��E�E�E�����ł���(^^)�B<BR>�X�g�[���[�ɁA�͂܂��Ă��܂��܂����B<BR>�R�I�����E�E�E�����ł��ˁ[�B���������X�g�[���[�A�l�ɂ͂Ȃ��Ȃ������Ȃ���ł���(^^;;;�B�׋��ɂȂ�܂��B<BR>���̌�̓W�J�E�E�E���҂��Ă܂���I�I<BR>
+うーん・・・いいですね(^^)。<BR>ストーリーに、はまってしまいました。<BR>由紀ちゃん・・・いいですねー。こういうストーリー、僕にはなかなか書けないんですよ(^^;;;。勉強になります。<BR>この後の展開・・・期待してますよ！！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����������������</strong>  <i>2001/05/14 22:32:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｋｙｏｕｓｕｋｅ</strong>  <i>2001/05/14 22:32:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989847123hmtue&id2=982903739uvxfqjk&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989847123hmtue_id2_982903739uvxfqjk_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��S�b���܂����B�L���J�[�v�Ă����΁A�삯�����̖��l�i�H�j�Ƃ����Ă���A���̊ē���i���O�Y�ꂽ����ǁj�L�����I�ɂ͍D���ł��B���Ȃ݂Ɏ��̓_�C�G�[�t�@���ł��B����ɂ��Ă��O�����Č������ۋC�Ȃ̂��R�I�̉Ƒ��́E�E�E�E�z
+【第４話見ました。広島カープていえば、駆け引きの名人（？）といわれている、今の監督さん（名前忘れたけれど）キャラ的には好きです。ちなみに私はダイエーファンです。それにしても前向きて言うか呑気なのか由紀の家族は・・・・】
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂���8426������</a></strong>  <i>2001/05/15 10:02:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ8426＠実家</a></strong>  <i>2001/05/15 10:02:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989888521tojqh&id2=982903739uvxfqjk&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989888521tojqh_id2_982903739uvxfqjk_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ɗ��z���J�L�R�ł���E�E�E�B<BR>���ς�炸��������ɂ���Ă��܂��A�R�I�����i�΁j�B<BR>��e�ɒ����ւ��l�`�ɂ���ă{���{���ɂȂ�������ɕ��e�̂��̎d�ł��i�΁j�B<BR>�����ł��˂��i���j�B<BR>�������A���ꂪ�̂��Â�ł����E���ŁA����Ȃ��Ƃ��N�����Ă��悤�Ƃ́A���ɂ��v���܂��܂��i�΁j�B<BR>���ꂱ��Z�����ēǂ݁����z���x�^�x��ɒx��Ă��܂�������8426�ł����B
+やっと感想がカキコできる・・・。<BR>相変わらずおもちゃにされています、由紀ちゃん（笑）。<BR>母親に着せ替え人形にされてボロボロになった挙句に父親のこの仕打ち（笑）。<BR>いいですねぇ（爆）。<BR>しかし、隆一が昔を偲んでいたウラで、こんなことが起こっていようとは、夢にも思いますまい（笑）。<BR>あれこれ忙しくて読み＆感想がベタ遅れに遅れてしまったｍｋ8426でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2001/05/16 01:51:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｏｕｍａ</strong>  <i>2001/05/16 01:51:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989945500ptakhf&id2=982903739uvxfqjk&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989945500ptakhf_id2_982903739uvxfqjk_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��S�b�ǂ݂܂����B<BR>���l�̎������������Ă��闲�ꂪ���D�����������܂��ˁ`�B<BR>��R�b�݂����ȃh�^�o�^�|�������I�Șb���ʔ����ėǂ��ł����ǁA<BR>�������������̕����S���䂫���ėǂ��ł��B<BR>���D�ŏI��炸�A�Ō�̃I�`�ŁE�E�E�i�΁j��
+第４話読みました。<BR>将人の事を引きずっている隆一が哀愁を感じさせますね～。<BR>第３話みたいなドタバタ掛け合い的な話も面白くて良いですけど、<BR>こういう感じの物も心を惹きつけて良いです。<BR>哀愁で終わらず、最後のオチで・・・（笑）♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����낤</strong>  <i>2001/05/17 00:51:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>いちろう</strong>  <i>2001/05/17 00:51:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990028316cxiywk&id2=982903739uvxfqjk&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990028316cxiywk_id2_982903739uvxfqjk_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����n����Akyousuke����A��������Aouma���񊴑z���肪�Ƃ��������܂��B<BR>kyousuke����<BR>�_�C�G�[�t�@���ł����E�E�E�����p���[�O�ł̓_�C�G�[����ԍD���ł���B���䏫�Y�I�肩�킢���`�ł����B���N�̓��{�V���[�Y�̓i�C���S��������I��̂��߂ɐ���t����Ă����p�������I�ł����ˁ`�B<BR><BR>�ȏ�A�J�[�v���A�s���Ō��C�̂Ȃ������낤�ł����E�E�E�i���j�B
+逃げ馬さん、kyousukeさん、ｍｋさん、oumaさん感想ありがとうございます。<BR>kyousukeさん＞<BR>ダイエーファンですか・・・私もパリーグではダイエーが一番好きですよ。藤井将雄選手かわいそ～でした。去年の日本シリーズはナイン全員が藤井選手のために精一杯戦っていた姿が感動的でしたね～。<BR><BR>以上、カープが連敗中で元気のないいちろうでした・・・（泣）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/23134043/winning_ball5.html" target="_blank">��T�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/06/11 01:58:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/23134043/winning_ball5.html" target="_blank">第５話を読むにはここをクリック</a></strong>  <i>2001/06/11 01:58:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992192315xiwvrs&id2=982903739uvxfqjk&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992192315xiwvrs_id2_982903739uvxfqjk_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���̎q�̂��ٓ��^�C�����Ă����ł��ˁB�Ƃ���ŕ�����A���񂽂͈�̂Ȃɂ��Ă��ł����c�c�B
+【推薦文】 女の子のお弁当タイムっていいですね。ところで父さん、あんたは一体なにしてるんですか……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/06/11 06:31:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992208705fuegmho&id2=982903739uvxfqjk&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992208705fuegmho_id2_982903739uvxfqjk_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����y������i�A���肪�Ƃ��������܂��B<BR>�y���ȉ�b���y�������ăC�C�ł��ˁB<BR>���āA�Ȃ񂩒�������񂪊��Â����悤�ł����A<BR>����ł���ς萳�̂��o���Ă��܂���ł��傤���H<BR>���ƁA����̋�������L���b�`���[�͌�������<BR>���傤���H�������Ȃ��Ɨ��ꂪ�܂��w�\���Ȃ����Ⴄ��`<BR>���남�날���ӂ��A���Ċ����ł��B�i�ǂ�Ȋ�����H)<BR>�����A�����񂪗���̃{�[��������悤�ɂȂ�A�Ƃ����W�J��<BR>���������肻�������c�c<BR>�ł́A���̂��b���y���݂ɂ��Ă܂��B
+いつも楽しい作品、ありがとうございます。<BR>軽妙な会話が楽しくってイイですね。<BR>さて、なんか直美ちゃんが感づいたようですが、<BR>これでやっぱり正体がバレてしまうんでしょうか？<BR>あと、隆一の球を取れるキャッチャーは現われるんで<BR>しょうか？早くしないと隆一がまたヘソを曲げちゃうよ～<BR>おろおろあたふた、って感じです。（どんな感じや？)<BR>ただ、嶋くんが隆一のボールを取れるようになる、という展開は<BR>無理がありそうだし……<BR>では、つぎのお話も楽しみにしてます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/11 06:42:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/11 06:42:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992209346hbefpus&id2=982903739uvxfqjk&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992209346hbefpus_id2_982903739uvxfqjk_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>���ꕜ���B�������E�E�E�i�΁j�B<BR>�ʂ����ē��͗���ɉ�������悤�ȕߎ�ɂȂ��̂ł��傤���H<BR>���������Ɋ��Â��ꂽ�H�悤�ł��ȁB�ǂ��Ȃ��ł��傤���B<BR>����͂����ƁA�e���B�����̖��i�����q�j�ɗ~��Ă񂶂�Ȃ��I<BR>������y���݂ɂ��Ă��܂��B
+読みました。<BR>隆一復活。しかし・・・（笑）。<BR>果たして嶋は隆一に応えられるような捕手になれるのでしょうか？<BR>直美ちゃんに感づかれた？ようですな。どうなるんでしょうか。<BR>それはそうと、親父。自分の娘（元息子）に欲情してんじゃない！<BR>次回も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/11 12:34:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/11 12:34:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992230458renhr&id2=982903739uvxfqjk&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992230458renhr_id2_982903739uvxfqjk_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��T�b�z<BR>�ǂ݂܂�����<BR>���[��I�����炨��������ł����ʖ��ɂ���Ȏ����Ȃ���ˁB<BR>�R�I�����̂��������Ԃ͂��܂ő����񂾂낤�H�B<BR><BR>�R�I�����ɂ͗���N�̕����͊��������ǁA���̋��͎����������Ȃ��Ǝv���Ă�̂��ȁB<BR>�Ȃ񂩒��������Ɋ��Â��ꂽ�݂����E�E�E�E�E<BR>�}�l�[�W���[�Ƃ��Ă��ꂩ��ǂ��Ȃ�񂾂낤�H�B<BR>�R�I�����̔閧�͂����������̂��ȁB<BR>��U�b�����҂��Ă��܂��ˁ�
+【第５話】<BR>読みました♪<BR>うーん！いくらお酒を飲んでも普通娘にあんな事しないよね。<BR>由紀ちゃんのおもちゃ状態はいつまで続くんだろう？。<BR><BR>由紀ちゃんには隆一君の復活は嬉しいけど、あの球は自分しか取れないと思ってるのかな。<BR>なんか直美ちゃんに感づかれたみたい・・・・・<BR>マネージャーとしてこれからどうなるんだろう？。<BR>由紀ちゃんの秘密はいつ明かされるのかな。<BR>第６話も期待していますね♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/06/12 00:19:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>瀬名</strong>  <i>2001/06/12 00:19:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992272774anctuj&id2=982903739uvxfqjk&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992272774anctuj_id2_982903739uvxfqjk_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��T�b�z<BR>�����y���݂Ȃ���ǂ܂��Ă�����Ă��܂��i�O�|�O�j<BR>���񂲂����̌�̓W�J���C�ɂȂ�܂��`�I<BR>�y���݂ɂ��Ă܂��􂪂�΂��Ă��������ˁi�O�|�O�j�m<BR>
+【第５話】<BR>いつも楽しみながら読ませてもらっています（＾－＾）<BR>すんごいこの後の展開が気になります～！<BR>楽しみにしてます♪がんばってくださいね（＾－＾）ノ<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/06/12 18:03:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/06/12 18:03:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992336634yybkqv&id2=982903739uvxfqjk&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992336634yybkqv_id2_982903739uvxfqjk_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����A����ɂ��́B<BR>�s�n�l����A��������A���낢�邩����A��������A���z���肪�Ƃ��������܂��B<BR><BR>����͕��e��\���L�����Ŏg���Ă݂܂����B���������Ε��e���ď΂��L�����Ƃ����g���ĂȂ��悤�ȁE�E�E�܂��������i�΁j�I<BR><BR>�U�b�͑�́A�\�z�͂ł��Ă���̂ł������̍�i������̂ŏ����グ��̂͘Z�����{�`�����ɂȂ肻���ł��B<BR>����͋^�f�i��ҁj�I�R�I�ɂ��Ă̋^�f������ɐ[�܂��Ă����܂��B���y���݂ɁI<BR><BR>�����č�������͂b�|�f�̓�A��I�Ő����D���̋��l���ł������A����w���D���̍L�����S��̖싅�œ��J�[�h�Z�A���Ȃ邩�I���ɂ��̂��݂ł��B<BR>
+どうも、こんにちは。<BR>ＴＯＭさん、ｍｋさん、しろいるかさん、瀬名さん、感想ありがとうございます。<BR><BR>今回は父親を暴走キャラで使ってみました。そういえば父親って笑いキャラとしか使ってないような・・・まあいいか（笑）！<BR><BR>６話は大体、構想はできているのですが他の作品もあるので書き上げるのは六月下旬～七月になりそうです。<BR>次回は疑惑（後編）！由紀についての疑惑がさらに深まっていきます。お楽しみに！<BR><BR>そして今日からはＣ－Ｇの二連戦！打線が好調の巨人が打ち勝つか、投手陣が好調の広島が粘りの野球で同カード六連勝なるか！非常にたのしみです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/12 22:54:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/12 22:54:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992354100vmxgg&id2=982903739uvxfqjk&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992354100vmxgg_id2_982903739uvxfqjk_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��T�b<BR>�R�I���싅���Ɗւ��n�߁A�R�I�̔閧�ɋC�Â��l�������B<BR>���悢��b�������o���܂����ˁB���񂪊y���݂ł��B<BR>��l�����A�����𐳑̂��M�킹��悤�ȃZ���t���ۂ��Ƃ��炷���Ă����̂́A<BR>���̃^�C�v�̂s�r���̉����ȃV�`���G�[�V�����ŁA�G���Ă��܂��܂��B<BR>���̈���ŁA���ƒj�łȂ������Ƃ��Ă��A�싅�D���i�Ƃ������싅�������H�j�ȏ��̎q�Ƃ����̂�<BR>�Ȃ��Ȃ��ڐV�����L�����N�^�[�ŁA�����������[���ł��B<BR>����ƁA�R�I�̂�������������ł����B
+第５話<BR>由紀が野球部と関わり始め、由紀の秘密に気づく人が現れる。<BR>いよいよ話が動き出しましたね。次回が楽しみです。<BR>主人公が、自分を正体を窺わせるようなセリフをぽろりともらすっていうのは、<BR>このタイプのＴＳ物の王道なシチュエーションで、萌えてしまいます。<BR>その一方で、もと男でなかったとしても、野球好き（というか野球おたく？）な女の子というのは<BR>なかなか目新しいキャラクターで、すごく興味深いです。<BR>それと、由紀のお父さんも愉快でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/06/13 18:50:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/06/13 18:50:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992425834ncoih&id2=982903739uvxfqjk&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992425834ncoih_id2_982903739uvxfqjk_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������������A���z���肪�Ƃ��������܂��B<BR><BR>���싅�D���ȏ��̎q�Ƃ����̂�<BR>����ł͖싅�D���Ȓ����̉ߋ��̎v���o���o�Ă���\��ł��B<BR><BR>�E�E�E�Ƃ����킯�Ŏ���͌�҂ƌ����܂��������҂ɂȂ肻���ł��B�����Ă邤���ɂǂ�ǂ񒷂��Ȃ��Ă����̂ŁE�E�E�B<BR><BR>������w���D���̍L��<BR>�Ȃɂ��D������E�E�E�������Ƃ��񍂋����P��T���_�E�E�E�B�܂������̍��X���Ɋ��҂��܂��傤�B�ł��L���͑�J�E�E�E�B
+こうけいさん、感想ありがとうございます。<BR><BR>＞野球好きな女の子というのは<BR>次回では野球好きな直美の過去の思い出も出てくる予定です。<BR><BR>・・・というわけで次回は後編と言いましたが中編になりそうです。書いてるうちにどんどん長くなってきたので・・・。<BR><BR>＞投手陣が好調の広島<BR>なにが好調だよ・・・書いたとたん高橋が１回５失点・・・。まあ今日の佐々岡に期待しましょう。でも広島は大雨・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/23134043/winning_ball6.html" target="_blank">��U�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/07/29 06:25:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/23134043/winning_ball6.html" target="_blank">第６話を読むにはここをクリック</a></strong>  <i>2001/07/29 06:25:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996355511wfkpow&id2=982903739uvxfqjk&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996355511wfkpow_id2_982903739uvxfqjk_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�E�C�j���O�{�[���U�z<BR>�y���E���z����̎���͒��������B�R�I�̔閧�ɉʊ��ɃA�^�b�N�ł��c�c���H�@�����C���q����̊��A�ł��ˁB
+【ウイニングボール６】<BR>【推薦文】今回の主役は直美ちゃん。由紀の秘密に果敢にアタックです……が？　勝ち気っ子純情の巻、ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/29 07:43:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/29 07:43:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996360215gxetpa&id2=982903739uvxfqjk&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996360215gxetpa_id2_982903739uvxfqjk_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��݂܂���<BR>�����̗���ɂ�������₫�����A�̂̂�������̘b�B�Ȃǂ�����Ƃ����C�x���g�̐S��\�������܂�����B<BR>���꓊���n�߂���ł��ˁA�䂫�̓}�l�[�W���[�ł����������Ȃ���ł���<BR>����삨�����ɂ�����
+よみました<BR>直美の隆一にたいするやきもち、昔のお父さんの話。などちょっとしたイベントの心情表現がうますぎる。<BR>隆一投げ始めたんですね、ゆきはマネージャーですかしかたないんですね<BR>次回作おおいにきたい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/07/29 19:08:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/07/29 19:08:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996401324orkfaut&id2=982903739uvxfqjk&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996401324orkfaut_id2_982903739uvxfqjk_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�R�I�����ƒ��������Ɨ��ꂭ��Ƃ̊�ȎO�p�֌W���͂����肵�Ă��܂����ˁB<BR>���̕`�ʂ̂��߂��A�M���O�����Ȃ������悤�ȋC���c�B�ł��A���������V���A�X�ȓW�J���킽���͍D���ł���B<BR>���������̂�������̃��f���ɂȂ����̂́A���J�[�v�̒Óc�P���I��ł��傤���B<BR>���ƁA�R�I�����̂��Z����̏o�Ԃ��������̂��V�W�J�ł����ˁB<BR><BR>�v�X�̃N�C�Y���������̂��y���������ł��B�c�ł��������Ȃ��Ă��݂܂���m(_ _)m
+由紀ちゃんと直美ちゃんと隆一くんとの奇妙な三角関係がはっきりしてきましたね。<BR>その描写のためか、ギャグが少なかったような気が…。でも、こういうシリアスな展開もわたしは好きですよ。<BR>直美ちゃんのお父さんのモデルになったのは、元カープの津田恒美選手でしょうか。<BR>あと、由紀ちゃんのお兄さんの出番があったのも新展開でしたね。<BR><BR>久々のクイズがあったのも楽しかったです。…でも答えられなくてすみませんm(_ _)m
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/07/29 19:42:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/07/29 19:42:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996403320olwutrn&id2=982903739uvxfqjk&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996403320olwutrn_id2_982903739uvxfqjk_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���󂳂�A������������A���z���肪�Ƃ��������܂��B<BR><BR>���󂳂�<BR>�R�I�̓}�l�[�W���[�ł����������Ȃ���ł��ˁ�<BR>���Z�싅�ŏ����I����Ă��Ȃ��ł�����ˁB��w�싅�Ȃ牽�l�����܂������ǁE�E�E�B�R�I����w�ɍs������싅���ĊJ���邩������܂���ˁB<BR><BR>������������<BR>���J�[�v�̒Óc�P���I��ł��傤���B��<BR>�ǂ��ł��傤�ˁH�ł����̓��̒��ɂ͒Óc����̎p�������Ă��������B�w��C�͍ő�̓G�x�Ƃ������t�ɂ����Ԃ�͂��܂��ꂽ�悤���ȋC�����܂�����ˁB<BR><BR>���Ȃ݂Ɍ��݁A���W�I�i�_�C�G�[�̑I�肶��Ȃ���j�ōL���[������𕷂��Ȃ���p�\�R�������Ă��܂��B����΂�`�I
+亜希さん、こうけいさん、感想ありがとうございます。<BR><BR>亜希さん<BR>由紀はマネージャーですかしかたないんですね＞<BR>高校野球で女性選手っていないですからね。大学野球なら何人かいましたけど・・・。由紀も大学に行ったら野球を再開するかもしれませんね。<BR><BR>こうけいさん<BR>元カープの津田恒美選手でしょうか。＞<BR>どうでしょうね？でも私の頭の中には津田投手の姿が見えていたかも。『弱気は最大の敵』という言葉にずいぶんはげまされたよううな気がしますからね。<BR><BR>ちなみに現在、ラジオ（ダイエーの選手じゃないよ）で広島ー中日戦を聞きながらパソコンを見ています。がんばれ～！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/07/29 21:31:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/07/29 21:31:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996409872ckatcq&id2=982903739uvxfqjk&ff=p">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996409872ckatcq_id2_982903739uvxfqjk_ff_p.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�i�����̍�i�̊��z�Ƀ��X�t�����ɉ�������Ă�́H�Ƃ����c�b�R�~�͂Ȃ��ˁj<BR>�v�X�̂v�a�ł����B�R�I�����}�l�[�W���[�ɂȂ��ł��ˁB�������܂��傤�i�����H�j<BR>�Ƃ���œ�����͗��ꂭ��̋����󂯂��L���b�`���[�ɂȂ���ł��傤���˂��B���͂����u����΂�v�i���j<BR>�㔼��n�܂��đ������R��ڂłЂƋx�݂̂e�c�g�B����Ȃ�łق�ƂɂR���B���ł���̂��ȁH
+読んだバイ♪<BR>（自分の作品の感想にレス付けずに何をやってるの？というツッコミはなしね）<BR>久々のＷＢでした。由紀ちゃんマネージャーになるんですね。応援しましょう（何を？）<BR>ところで嶋くんは隆一くんの球を受けれるキャッチャーになれるんでしょうかねぇ。今はただ「がんばれ」（爆）<BR>後半戦始まって早くも３戦目でひと休みのＦＤＨ。こんなんでほんとに３冠達成できんのかな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/07/30 00:22:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/07/30 00:22:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996420127mnvhtj&id2=982903739uvxfqjk&ff=p">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996420127mnvhtj_id2_982903739uvxfqjk_ff_p.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������A���z���肪�Ƃ��������܂��B<BR><BR>������͗��ꂭ��̋����󂯂��L���b�`���[�ɂȂ���ł��傤���˂��B��<BR>����͓��̓��P�̘b�ł��B�R�I�ƍK���̋��|�̓��P���n�܂�܂��B<BR><BR>�㔼��n�܂��đ������R��ڂłЂƋx�݂̂e�c�g�B��<BR>�܂���������Ȃ��ł����E�E�E�L���͂܂����̎O�A�s�B�O���킩�琔����Ǝl�A�s�E�E�E�O�c�A�������߂��Ă��Ă��L���Ő��̔~�J�����͉������ł��i���j�B
+ｍｋさん、感想ありがとうございます。<BR><BR>嶋くんは隆一くんの球を受けれるキャッチャーになれるんでしょうかねぇ。＞<BR>次回は嶋の特訓の話です。由紀と幸治の恐怖の特訓が始まります。<BR><BR>後半戦始まって早くも３戦目でひと休みのＦＤＨ。＞<BR>まだいいじゃないですか・・・広島はまさかの三連敗。前半戦から数えると四連敗・・・前田、緒方が戻ってきても広島打線の梅雨明けは遠そうです（泣）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/07/30 10:09:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/07/30 10:09:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996455398enddn&id2=982903739uvxfqjk&ff=p">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996455398enddn_id2_982903739uvxfqjk_ff_p.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O�p�֌W�ɂ͂�͂炵�Ȃ�����A���������̋C�����ɕ����Ă��܂��܂����B<BR>���`��B�ڋ��Ȃ�i�΁j<BR>�ǂ����̋C��������؂ł���������@�͂����ł����ˁB<BR>���̂Ƃ��뎄�͒����ɌR�z���グ���悤�ȋC�����܂��B<BR>�ł�����N���v���b�V���[���ȁB<BR>
+三角関係にはらはらしながらも、直美ちゃんの気持ちに負けてしまいました。<BR>う～ん。卑怯なり（笑）<BR>どっちの気持ちも大切できる解決方法はあるんですかね。<BR>今のところ私は直美に軍配を上げたような気がします。<BR>でも隆一君もプレッシャーだな。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/07/31 22:35:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/07/31 22:35:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996586529iohvu&id2=982903739uvxfqjk&ff=p">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996586529iohvu_id2_982903739uvxfqjk_ff_p.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������@����������A���z���肪�Ƃ��������܂��B<BR><BR>���N�C�Y�̓�����<BR>�i�P�j����@����ғ����i�������C�I���Y�j<BR>�@�@�@�O���@�����I�m�i�ߓS�o�b�t�@���[�Y�j<BR><BR>�i�Q�j����@���x���g�E�؃^�W�[�j�i���N���g�X�����[�Y�j<BR><BR>�i�R�j����q��i��t���b�e�}���[���Y�j<BR><BR>�Ƃ������Ƃł����B�R�Ԃ�������Ɠ���������ȁH<BR>�����͎s������ɍs���Ă��܂����B�����Ƃ���܂ōs������ł������_���X�����{�b�R�{�R�ɂ���܂����B�ق�Ƃɂ������Ă�����ł����i���j�H
+あおき　あきおさん、感想ありがとうございます。<BR><BR>＜クイズの答え＞<BR>（１）一回戦　松井稼頭央（西武ライオンズ）<BR>　　　三回戦　中村紀洋（近鉄バッファローズ）<BR><BR>（２）二回戦　ロベルト・ぺタジーニ（ヤクルトスワローズ）<BR><BR>（３）里崎智也（千葉ロッテマリーンズ）<BR><BR>ということでした。３番がちょっと難しかったかな？<BR>今日は市民球場に行ってきました。いいところまで行ったんですが守護神佐々岡がボッコボコにされました。ほんとにいつ勝ってくれるんですか（泣）？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200102/23134043/winning_ball7.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/08/28 03:27:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200102/23134043/winning_ball7.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/08/28 03:27:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=998936833wlbjwt&id2=982903739uvxfqjk&ff=p">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_998936833wlbjwt_id2_982903739uvxfqjk_ff_p.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�E�C�j���O�{�[���V�z<BR>�y���E���z ��X�����ȑ����̃^�l�ɂȂ肻���ȍ���̏o�����B�R�I�����A�L�~�͔ނ��猩���炩�킢�����̎q�Ȃ񂾂�B���v���ȁc�c�H<BR>
+【ウイニングボール７】<BR>【推薦文】 後々いろんな騒動のタネになりそうな今回の出来事。由紀ちゃん、キミは彼から見たらかわいい女の子なんだよ。大丈夫かな……？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/28 16:37:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/28 16:37:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=998984242iqyrdi&id2=982903739uvxfqjk&ff=p">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_998984242iqyrdi_id2_982903739uvxfqjk_ff_p.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����ŕ��������Ƃ̂���s�b�`���O�}�V�[�����f�G�ł��B�����ƃX�N���[���ɉ摜���o��̂��ȁB<BR>�ł��Ȃɂ����K���Z����̂��[����I�Ȑ��i���������B����̎���͂Ȃ�Ƃ����Ă��ȊO�ɍ����̂��铈�N�ƍK�����Z����ł��ˁB<BR>�ʔ��������ł��B����A����N�ƒ��������ƗR�I�����̊�����y���݂ɂ��Ă��܂��B
+どっかで聞いたことのあるピッチングマシーンが素敵です。今だとスクリーンに画像が出るのかな。<BR>でもなによりも幸治兄さんのすーだら的な性格がすごい。今回の主役はなんといっても以外に根性のある嶋君と幸治お兄さんですね。<BR>面白かったです。次回、隆一君と直美ちゃんと由紀ちゃんの活躍を楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/08/28 22:05:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/08/28 22:05:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999003935ujpys&id2=982903739uvxfqjk&ff=p">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999003935ujpys_id2_982903739uvxfqjk_ff_p.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���Ђ�Ђ�Ђ�Ђ�Ђ�I<BR>�e�s�b�`���O�}�V���̖��O���ō��ł��ȁB�������A���܂�łƓ{��o���u�Z���C�`����v�I���[���������B<BR>�K���Z����́u�ǁ[�ł����[���v�I���i���ˁB<BR>���񂪊y���݂ł��B
+読んだバイ♪<BR>うひゃひゃひゃひゃひゃ！<BR>各ピッチングマシンの名前が最高ですな。しかも、あまり打つと怒り出す「センイチくん」！あーおかしい。<BR>幸治兄さんの「どーでもいーさ」的性格もね。<BR>次回が楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ł���</strong>  <i>2001/08/29 00:00:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>でさし</strong>  <i>2001/08/29 00:00:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999010837vgrje&id2=982903739uvxfqjk&ff=p">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999010837vgrje_id2_982903739uvxfqjk_ff_p.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂����Ă��炢�܂����I���߂܂��āA���z�������Ă��炢�܂��I<BR>�����Ԃ������邱�Ƃ̖����������̉��ɂ���s�b�`���O�}�V�[��<BR>�Ƃ̋ߏ��̃o�b�e�B���u�Z���^�[�ɂ����������̂�����̂��Ȃ��A�Ƃ��l���܂����B�������炢���Ȃ�<BR>�����ăS���^�N�ɒ��킷��`�������W���[�ȓ��N���Ȃ��Ȃ��c�f�G�ł��B<BR>�ł��A��т������Ă��܂��悤�ȉ�������ė��K�ɎQ���ł���̂��Ə����S�z�ł��ˁB�ނނށB<BR>�ĂȂ��ƂłƂĂ��ʔ����ǂ܂��Ă��炢�܂����B����̓W�J���y���݂ł��B���ł편�炵�܂���
+読まさせてもらいました！初めまして、感想書かせてもらいます！<BR>長い間あけられることの無かった扉の奥にあるピッチングマシーン<BR>家の近所のバッティンブセンターにもそう言うのがあるのかなぁ、とか考えました。あったらいいなｗ<BR>そしてゴンタ君に挑戦するチャレンジャーな嶋君がなかなか…素敵です。<BR>でも、包帯を巻いてしまうような怪我をして練習に参加できるのかと少し心配ですね。むむむ。<BR>てなことでとても面白く読ませてもらいました。今後の展開も楽しみです。そでわ失礼しました
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/08/29 10:23:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/08/29 10:23:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999048202wmaouys&id2=982903739uvxfqjk&ff=p">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999048202wmaouys_id2_982903739uvxfqjk_ff_p.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ���A���z���肪�Ƃ��������܂��B<BR><BR>�������@����������<BR>���肪�Ƃ��������܂��B������y���݂ɂ��Ă��Ă��������B<BR><BR>��������<BR>���肪�Ƃ��������܂��B�O��̓V���A�X���[�h�������̂ō���͂قƂ�ǖ\���C���ɏ����Ă��܂��܂����i�΁j�B<BR><BR>�ł�������<BR>���߂܂��āA���z���肪�Ƃ��������܂��B<BR>��i����ǂ��ł����H�ǂ��������̂��������������̂����\�y�������̂Ȃ̂Œ��߂��Ɋ撣���Ă��������B<BR><BR>�^�c�ψ��l�A�f���炵���V���[�Y�^�C�g��������Ă����������肪�Ƃ��������܂����B<BR><BR>
+みなさん、感想ありがとうございます。<BR><BR>あおき　あきおさん＞<BR>ありがとうございます。次回も楽しみにしていてください。<BR><BR>ｍｋさん＞<BR>ありがとうございます。前回はシリアスモードだったので今回はほとんど暴走気味に書いてしまいました（笑）。<BR><BR>でさしさん＞<BR>初めまして、感想ありがとうございます。<BR>作品制作どうですか？どういうものを書こうか迷うのも結構楽しいものなので諦めずに頑張ってください。<BR><BR>運営委員様、素晴らしいシリーズタイトルを作っていただきありがとうございました。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=999087017oypni&ff=on" target="_blank">�V�f���ւ͂������N���b�N</a></strong>  <i>2001/08/29 21:12:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_999087017oypni_ff_on.cgi" target="_blank">新掲示板へはここをクリック</a></strong>  <i>2001/08/29 21:12:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999087145hypdovj&id2=982903739uvxfqjk&ff=p">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999087145hypdovj_id2_982903739uvxfqjk_ff_p.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͂܂��Ȃ���t�ɂȂ�܂��̂ŁA�E�C�j���O�{�[���ւ̊��z�͐V�f���ւ��肢�������܂��B<BR><BR>�Ɩ��A���F���z�t�H�[������̃����N�ύX�����肢�������܂��B<BR>�i���b�Ă��ǎҁj
+ここはまもなく一杯になりますので、ウイニングボールへの感想は新掲示板へお願いいたします。<BR><BR>業務連絡：感想フォームからのリンク変更をお願いいたします。<BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H�H</strong>  <i>2002/07/23 14:15:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？</strong>  <i>2002/07/23 14:15:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1027401309renhap&id2=982903739uvxfqjk&ff=p">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1027401309renhap_id2_982903739uvxfqjk_ff_p.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��3�b�z���������͂��̂�ꂫ�������͂̂��������<BR>���͂̂��܂������͂܂����˂�<BR><BR><BR>���[�ɗ��͂��Ђ��܂̂��݂͂Ђ����܂ЂЂ��ꂵ�������݂��̂����̂܂̂ꂫ�܂�
+【第3話】日もしきはものりれきもせしはのもしもれり<BR>もはのせまさせしはまいもねは<BR><BR><BR>し端に利はくひしまのりれはみひしりれまひひしれししすきみしのきしのまのれきまれ
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="982903739uvxfqjk">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,271 +1,271 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=973625632qaxtbek&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_973625632qaxtbek_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">P.F.�L�����A�[</font><br>
+<font size="+2" color="#0000FF">P.F.キャリアー</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/08043229/pf_carrier.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/11/08 04:33:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/08043229/pf_carrier.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/11/08 04:33:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973625632qaxtbek&id2=973625632qaxtbek&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973625632qaxtbek_id2_973625632qaxtbek_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�����̂���y���ȕ`�ʂ��E���A��HIKO����̕��ɏ���i�ł��B�o��l�������N�Ђ˂������N�A���\�喺�A�G�X�T���O���X�V�l�ƃ^�����g�����BTS�V�[���͂܂��ł����A���̗D�P���񂪂����Ƃ���ȕ��₱��ȕ��Ɂc�c�Ȃ�ĕs�K�؂ȑz�������Ȃ��玟���҂ƖG���G���A�����H
+【推薦文】動きのある軽快な描写がウリ、なHIKOさんの文庫初作品です。登場人物も明朗ひねっこ少年、乱暴大娘、飄々サングラス老人とタレント揃い。TSシーンはまだですが、あの優輝くんがきっとあんな風やこんな風に……なんて不適切な想像をしながら次回を待つと萌え萌え、かも？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��@�ۑ���</strong>  <i>2000/11/09 00:48:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野　丸太丸</strong>  <i>2000/11/09 00:48:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973698529thfbs&id2=973625632qaxtbek&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973698529thfbs_id2_973625632qaxtbek_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�z<BR>���������ŏI��肷���ł��悧�B�u���ꂪ�������邩�͑S������܂��񂪁v�Ȃ�Č���Ȃ��ŁA�������������肢���܂��I
+【第一話】<BR>いい感じで終わりすぎですよぉ。「これが完成するかは全く解りませんが」なんて言わないで、早く続きをお願いします！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/08043229/pf_carrier2.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/11/10 06:20:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/08043229/pf_carrier2.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/11/10 06:20:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973804833qunaal&id2=973625632qaxtbek&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973804833qunaal_id2_973625632qaxtbek_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�z<BR>�y���E���z ��̏���?���t�o��B���F�B�A�ی��̐搶�A���ɏ���̎�l���Ƃ���΂������t�t��ԁA�̂͂��ł����A�{��͂ЂƂЂ˂肠�肻���ȗ\���B�ϐg�ɐU��񂳂��͖̂{�l�����͂��H<BR>
+【第２話】<BR>【推薦文】 謎の女性?教師登場。女友達、保険の先生、妹に女顔の主人公とくればもうムフフ状態、のはずですが、本作はひとひねりありそうな予感。変身に振り回されるのは本人か周囲か？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>aaaa</strong>  <i>2000/11/10 08:55:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973814140abdhgt&id2=973625632qaxtbek&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973814140abdhgt_id2_973625632qaxtbek_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Q�b�z<BR>�ʔ�������.<BR>�����Ƒ������ǂ݂���
+【第２話】<BR>面白かった.<BR>もっと続きが読みたい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/11/10 10:09:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/11/10 10:09:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973818581nslwdl&id2=973625632qaxtbek&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973818581nslwdl_id2_973625632qaxtbek_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�{�l���ٗl�ɗ�ÂȂ̂��Ȃ�Ƃ��E�E�E�i�΁j�B�����ł��˂��B<BR>���������҂��Ă���܂��B
+本人が異様に冷静なのがなんとも・・・（笑）。いいですねぇ。<BR>続きを期待しております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/10 23:57:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/10 23:57:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973868236xppqh&id2=973625632qaxtbek&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973868236xppqh_id2_973625632qaxtbek_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m��Q�b�n<BR>���肪���Ƃ������Ȃ��c�B<BR>���{�l���ٗl�ɗ�ÂȂ̂��Ȃ�Ƃ��E�E�E�i�΁j<BR>�u�q���v�ɂȂ�������A�]��u���ʂ̂��Ƃ͍l���Ă��Ȃ��v�̂ł́H
+［第２話］<BR>黒崎が何とも言えない…。<BR>＞本人が異様に冷静なのがなんとも・・・（笑）<BR>「子供」になったから、余り「性別のことは考えていない」のでは？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>HIKO</strong>  <i>2000/11/11 18:31:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973935063anohk&id2=973625632qaxtbek&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973935063anohk_id2_973625632qaxtbek_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@HIKO�ł��B�F����A���z���肪�Ƃ��������܂��B<BR>�@<BR>�@���u�q���v�ɂȂ�������A�]��u���ʂ̂��Ƃ͍l���Ă��Ȃ��v�̂ł́H<BR>�@�d�d�́H�@�q���H�@�ʂɗD�P�͗c���͂Ȃ��Ă��܂����B���Ƃ��Ə����ȑ̊i���A����ɏ������Ȃ��������ŁA�X�^�C���I�ɂ͂��Ȃ�̃O���}�[�ɂȂ��Ă܂��B�i����ȏ�̓l�^�o���Ȃ̂Ŏ��l�j<BR><BR>�@���ݑ�O�b�̍\�����������B���\�}�W�Ȑ퓬�V�[�����W�J�����\��ł��B�i�łȂ��ራ�}�ǂ��̏o�Ԃ��Ȃ����j<BR>�@���ӌ��҂��Ă܂��B  <BR><BR><BR>
+　HIKOです。皆さん、感想ありがとうございます。<BR>　<BR>　＞「子供」になったから、余り「性別のことは考えていない」のでは？<BR>　‥‥は？　子供？　別に優輝は幼くはなっていませんよ。もともと小柄な体格が、さらに小さくなっただけで、スタイル的にはかなりのグラマーになってます。（これ以上はネタバレなので自粛）<BR><BR>　現在第三話の構成を検討中。結構マジな戦闘シーンが展開される予定です。（でなきゃ悪党どもの出番がないし）<BR>　ご意見待ってます。  <BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/11 23:25:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/11 23:25:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973952741qdjvce&id2=973625632qaxtbek&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973952741qdjvce_id2_973625632qaxtbek_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���́`�A���̒��g�i�����_�N��j���u���q���܁v���ƌ����Ă����ł����ǁc���g�h�j�n����<BR><BR>�R�b�A�҂��Ă܂��B
+あの～、頭の中身（＝精神年齢）が「お子さま」だと言っているんですけど…＞ＨＩＫＯさん<BR><BR>３話、待ってます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/08043229/pf_carrier3.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/11/24 04:02:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/08043229/pf_carrier3.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/11/24 04:02:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975006139gpdamp&id2=973625632qaxtbek&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975006139gpdamp_id2_973625632qaxtbek_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���׋C�Ȃ����邿���������ē����o���A�d�B���̎�͗D�P�ɂ��L�сc�c���āA�N�͈�l�ł������艽����Ă�񂾂��I<BR>
+【推薦文】 無邪気なかあるちゃんを巡って動き出す陰謀。その手は優輝にも伸び……って、君は一人でこっそり何やってるんだぁ！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/11/24 21:51:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/11/24 21:51:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975070280kptkew&id2=973625632qaxtbek&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975070280kptkew_id2_973625632qaxtbek_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���₠�A�u���񑩁v�ł��˂��B�ᕟ�ᕟ�B<BR>�������A�W�C���񂢂����o���Ă܂��˂��B����Ă��T��l�ł��ȁB
+いやあ、「お約束」ですねぇ。眼福眼福。<BR>しかし、ジイさんいい味出してますねぇ。八宝斉か亀仙人ですな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/11/25 01:10:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/11/25 01:10:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975082211bogibi&id2=973625632qaxtbek&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975082211bogibi_id2_973625632qaxtbek_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��R�b�z���̎q�������D�P���C�ɂȂ邯�ǁA�ؐ��搶���C�ɂȂ�ȁ[�B�͂����肢���čD�݂ł��B
+【第３話】女の子化した優輝も気になるけど、華澄先生も気になるなー。はっきりいって好みです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>2000/11/26 00:17:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>2000/11/26 00:17:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975165426ycpigds&id2=973625632qaxtbek&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975165426ycpigds_id2_973625632qaxtbek_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ؐ��搶���C�ɂȂ�ȁ[�B�͂����肢���čD�݂ł��B<BR><BR>���́A���j�Ƃ�����Ȃ��H���̐l �B
+＞華澄先生も気になるなー。はっきりいって好みです。<BR><BR>実は、元男とか言わない？この人 。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/08043229/pf_carrier4.html" target="_blank">��l�b��ǂނɂ͂������N���b�N</a></strong>  <i>2000/12/23 01:38:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/08043229/pf_carrier4.html" target="_blank">第四話を読むにはここをクリック</a></strong>  <i>2000/12/23 01:38:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977503121kbcldn&id2=973625632qaxtbek&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977503121kbcldn_id2_973625632qaxtbek_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z����ς�u�{�N�v���Č����̂́A���܂�`���
+【推薦文】やっぱり「ボク」って言うのは、たまら～ん♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">�����W�S�Q�U</a></strong>  <i>2000/12/23 23:42:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mk8426@saturn.interq.or.jp" target="_blank">ｍｋ８４２６</a></strong>  <i>2000/12/23 23:42:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977582520porkx&id2=973625632qaxtbek&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977582520porkx_id2_973625632qaxtbek_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͂��́A��l�b��ԏ��H<BR>���u�Ȃ�́B�E�E�E����ɂ��Ă��A�v���Ԃ肶��̂��A���q��v <BR>����ɐÎ₪�������B���u��E�E�E�E�E�E�B <BR>�@ <BR>���u�Ȃɂ��������������������������I�I�H�H�v <BR>���A����ς�B<BR>���񑩂ł�����ˁB<BR>���b���y���݂ɂ��Ă܂��悧�B
+わっはっは、第四話一番乗り？<BR>＞「なんの。・・・それにしても、久しぶりじゃのう、息子よ」 <BR>＞場に静寂が満ちた。数瞬後・・・・・・。 <BR>　 <BR>＞「なにいいいいいいいいいいいいっ！！？？」 <BR>あ、やっぱり。<BR>お約束ですもんね。<BR>次話も楽しみにしてますよぉ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>no-name</strong>  <i>2000/12/24 00:43:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977586227dbttsss&id2=973625632qaxtbek&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977586227dbttsss_id2_973625632qaxtbek_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���񑩂͑�؂ł��i��<BR>�� ���킵�^�� �����^�~ ������^�� �܂��^�� �����^�I ����<BR>��H�^�� �܂���^�āH�^�� �����^�� ���킵�^�ԁH<BR>�������Ȃ��Ƃ���Ȃ���ł��B
+お約束は大切です（笑<BR>鰯 いわし／鰹 かつお／鯨 くじら／鱒 ます／鮹 たこ／鯖 さば<BR>鱸？／鮪 まぐろ／鯑？／鰺 あじ／鰕 いわし／鰆？<BR>何も見ないとこんなもんです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2000/12/24 03:55:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2000/12/24 03:55:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977597731hritf&id2=973625632qaxtbek&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977597731hritf_id2_973625632qaxtbek_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�}�~����͂��������ł����H<BR>�ł́A����͂��܂����w���̐^�P�����Ɋ撣���Ă��炢�܂��傤(��)�B<BR>�D�P����̂��܂�����󂵂��Ⴄ�W�J����]�A���Ă͍̂�i�𗝉����ĂȂ�����(��)�B
+あ、マミさんはこれっきりですか？<BR>では、次回はおませ小学生の真輝ちゃんに頑張ってもらいましょう(爆)。<BR>優輝くんのすまし顔を壊しちゃう展開を希望、ってのは作品を理解してないかな(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:taros01@d8.dion.ne.jp" target="_blank">HIKO</a></strong>  <i>2000/12/24 05:31:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977603485jfdui&id2=973625632qaxtbek&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977603485jfdui_id2_973625632qaxtbek_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-HIKO�ł��B�F���܁A�N�̐����������߂����ł����H<BR>�������z���肪�Ƃ��������܂��B���ꂪ���邩�瑱����������悤�Ȃ��̂ł��B<BR><BR>���D�P����̂��܂�����󂵂��Ⴄ�W�J����]�A���Ă͍̂�i�𗝉����ĂȂ�����(��)�B <BR><BR>�ĒÂ���́A�O�b�܂Ŗ{��̒S��������Ă������ł��B����Γǎґ�ꍆ�B�������z���q���g�ɂ����Ē����Ă���܂��B<BR>�d�d���[�ށA�D�P�N���̃p�j�b�N�炩�d�d�B�ʔ�����������Ȃ��ȁB�����A���ꂾ���̂̐���������c�ł�����˂��B���[�Ȏ��ł͓����Ȃ��ł��傤�B<BR>�d�d�܂��}�~�����ł��o�������ȁH<BR><BR>���ꂩ����F����̂����z�A�҂��Ă܂��B<BR><BR><BR>
+HIKOです。皆さま、年の瀬いかがお過ごしですか？<BR>いつも感想ありがとうございます。これがあるから続きが書けるようなものです。<BR><BR>＞優輝くんのすまし顔を壊しちゃう展開を希望、ってのは作品を理解してないかな(笑)。 <BR><BR>米津さんは、三話まで本作の担当をされていた方です。いわば読者第一号。いつも感想をヒントにさせて頂いております。<BR>‥‥うーむ、優輝クンのパニック顔か‥‥。面白いかもしんないな。ただ、あれだけ肝の据わったヤツですからねえ。半端な事では動じないでしょう。<BR>‥‥またマミちゃんでも出そうかな？<BR><BR>これからも皆さんのご感想、待ってます。<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/08043229/pf_carrier5.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/01/25 04:05:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/08043229/pf_carrier5.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/01/25 04:05:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=980363138erfdj&id2=973625632qaxtbek&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_980363138erfdj_id2_973625632qaxtbek_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��T�b�z<BR>�y���E���z���A����Ԉ���đ��ݏ����̃y�[�W�ɗ����܂��������c�c�H�@�Ǝv���悤�ȃn�[�h�ȏ��ՁB�������Ǝv���ƌ㔼�͂��������D�P�N�̃h�^�o�^���B�����Z���Z�̈ӊO�Ȉ�ʂ�������āA�ό����݂�P.F.�L�����A�[��ܘb�ł��B<BR>
+【第５話】<BR>【推薦文】お、おら間違って大沢在昌氏のページに来ちまっただか……？　と思うようなハードな序盤。そうかと思うと後半はずっこけ優輝君のドタバタも。霧香センセの意外な一面も加わって、変幻自在のP.F.キャリアー第五話です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>no-name</strong>  <i>2001/01/25 05:32:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=980368323bxrjo&id2=973625632qaxtbek&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_980368323bxrjo_id2_973625632qaxtbek_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-PF��P����PSYCO�Ȃ̂��ȁE�E�E�B
+PFのPってPSYCOなのかな・・・。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/01/26 01:44:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/01/26 01:44:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=980441075alwwf&id2=973625632qaxtbek&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_980441075alwwf_id2_973625632qaxtbek_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[�ށB<BR>���肪���ЂƂ悭���߂�B<BR>�D�P�N���̋��낵���̈�[�������܌����悤�ȋC������B<BR>�Ƃ肠�����A���҂�҂��܂��傤�B
+うーむ。<BR>黒崎が今ひとつよくつかめん。<BR>優輝クンの恐ろしさの一端をかいま見たような気がする。<BR>とりあえず、続編を待ちましょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/08043229/pf_carrier6.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/03/16 04:21:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/08043229/pf_carrier6.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/03/16 04:21:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=984684084xobifxb&id2=973625632qaxtbek&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_984684084xobifxb_id2_973625632qaxtbek_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��Z�b�z<BR>�y���E���z ����͗D�P�B�ƃu���b�N����̐��ʏՓˁB����̛@�v�����Ԃ�傫���������n�߂܂��B<BR>
+【第六話】<BR>【推薦文】 今回は優輝達とブラック商会の正面衝突。黒崎の奸計が事態を大きく動かし始めます。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�����W�S�Q�U</a></strong>  <i>2001/03/16 07:10:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">ｍｋ８４２６</a></strong>  <i>2001/03/16 07:10:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=984694213qrpsvw&id2=973625632qaxtbek&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_984694213qrpsvw_id2_973625632qaxtbek_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A���҂����˂̑��ҁB<BR>���₠�A�C���������i�H�j�i���V�[���ł��Ȃ��i�΁j�B<BR>�������Ɂu�_�����v��\��t�������֏��m<BR>���΂��܂����B<BR>�܂��܂������č��肪�킩��Ȃ��Ȃ��Ă��܂����A���āA��Җ{�l���킩���ĂȂ��񂶂�˂��B<BR>��V�b���҂��Ă��܂��B
+お、お待ちかねの続編。<BR>いやあ、気持ちいい（？）格闘シーンですなぁ（笑）。<BR>＞口元に「ダ○ラ」を貼り付けた小便小僧<BR>爆笑しました。<BR>ますますもって黒崎がわからなくなってきました、って、作者本人がわかってないんじゃねぇ。<BR>第７話期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/03/17 01:01:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/03/17 01:01:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=984758462wdbdma&id2=973625632qaxtbek&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_984758462wdbdma_id2_973625632qaxtbek_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ܂��Ă��������܂����B<BR>���������ēs�̃^�C�v���āc�u�쁛����Y�v�̂��Ƃł����H<BR>���̂��Ƃ����玄���v�������͔̂ނ��炢�����B<BR>
+読ませていただきました。<BR>もしかして都のタイプって…「南○○一郎」のことですか？<BR>あのたとえから私が思いついたのは彼ぐらいしか。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="973625632qaxtbek">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

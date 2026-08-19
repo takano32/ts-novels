@@ -1,286 +1,286 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=989765284horyi&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_989765284horyi_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���@�V�g�c�o�T</font><br>
+<font size="+2" color="#0000FF">魔法天使ツバサ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200105/13230150/matbasa1.htm" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/05/13 23:48:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200105/13230150/matbasa1.htm" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/05/13 23:48:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989765284horyi&id2=989765284horyi&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989765284horyi_id2_989765284horyi_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[��1�b]<BR>�y���E���z���N�������ɔ��A�I���W�i�����B�W���A���C�Y�m�x���̐V�������I�c�o�T�̌����N�������ِ͈��E�������h�邪���I
+[第1話]<BR>【推薦文】少年少女文庫発、オリジナルヴィジュアライズノベルの新しい風！ツバサの捲き起こす風は異世界さえも揺るがす！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:bgml@lisa.novel.ac" target="_blank">���N�������ɕҏW�ψ�</a></strong>  <i>2001/05/14 00:10:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:bgml@lisa.novel.ac" target="_blank">少年少女文庫編集委員</a></strong>  <i>2001/05/14 00:10:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989766631seanpx&id2=989765284horyi&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989766631seanpx_id2_989765284horyi_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���m�点�FNetscapeNavigator4�ŋN����\���̕s��ɑΉ����܂����B
+お知らせ：NetscapeNavigator4で起こる表示の不具合に対応しました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l���Q�P��</strong>  <i>2001/05/14 00:14:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>人民２１号</strong>  <i>2001/05/14 00:14:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989766875etmuxx&id2=989765284horyi&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989766875etmuxx_id2_989765284horyi_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�E�C�����}���E�E�E���Ă�ł����E�E�E�i�O�O�G
+ウイン○マン・・・ってやつですか・・・（＾＾；
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�_�藺</strong>  <i>2001/05/14 01:54:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>神崎亮</strong>  <i>2001/05/14 01:54:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989772858jrjjuq&id2=989765284horyi&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989772858jrjjuq_id2_989765284horyi_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������}���ɂ��ꂽ�ł�(��)<BR><BR>�{�҂́A���l�^���킩��Ȃ���ł����A�Ȃ񂾂����Ҋ��҂̓W�J�ł��ˁB<BR>���ꂩ����҂��Ă܂��`(��)
+女美川マンにやられたです(笑)<BR><BR>本編は、元ネタがわからないんですが、なんだか期待期待の展開ですね。<BR>これから期待してます～(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kardy</strong>  <i>2001/05/14 04:02:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989780542fkwtcqp&id2=989765284horyi&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989780542fkwtcqp_id2_989765284horyi_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��͂�A�^����Ɂu�`�F�C���O�I�v�����ɕ����񂾐l�������炵���B<BR>���@�����퓬���̂��Ǝv������A�A�C�h���e�C�X�g�܂œ��肻���ȓW�J�Ɋ��҂ł��B<BR>�킵��Ƃ��̃��C�i�ɂ��A�����Ɗ撣���Ă����˂΁B<BR><BR>����ҋȁF��W��<BR>��(�P���P�G)<BR>��A���܂����I�I���ꂼ�킵�̎呮���I�I
+やはり、真っ先に「チェイ○グ！」が頭に浮かんだ人が多いらしい。<BR>魔法少女戦闘ものかと思いきや、アイドルテイストまで入りそうな展開に期待です。<BR>わしんとこのライナにも、もっと頑張ってもらわねば。<BR><BR>＞作編曲：募集中<BR>Σ(￣▽￣；)<BR>や、やりますっ！！これぞわしの主属性！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/05/14 09:13:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/05/14 09:13:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989799212ewnwgt&id2=989765284horyi&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989799212ewnwgt_id2_989765284horyi_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���킟�A�V�����W�J���B<BR>�����ł��ˁA����B<BR>���ꂩ��̂т܂��ˁB���ґ�ł�
+うわぁ、新しい展開だ。<BR>いいですね、これ。<BR>これからのびますね。期待大です
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/05/14 10:07:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あい</strong>  <i>2001/05/14 10:07:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989802447mheakdi&id2=989765284horyi&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989802447mheakdi_id2_989765284horyi_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�킠�������񂶁I<BR>�r���ŕϐg�i�����H�j����̂́A�^�H�t�������݂����E�E�E�i�΁j<BR><BR>�����ǂ݂����ł��I<BR><BR>�y���݂ɂ܂��Ƃ��܂��I
+わあいいかんじ！<BR>途中で変身（成長？）するのは、某秋葉＊＊＊みたい・・・（笑）<BR><BR>続き読みたいです！<BR><BR>楽しみにまっときます！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/05/14 12:57:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989812635mhwxs&id2=989765284horyi&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989812635mhwxs_id2_989765284horyi_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�łĉ������������ł��B<BR>���傤�ǁA�A�����A�ڂ��Ă�����ɃW�����v�ǂ�ł����c�i�N���o�����c�j<BR>�A���𒴂���G�������҂��Ă��܂��B�����A�W�J���d�Ȃ邱�Ƃ͂Ȃ������ł��ˁB<BR>����ɂ��Ă��A������12���Ԃł��̔����͂������ł��ˁB<BR>�������y���݂ł��B
+読んでて懐かしかったです。<BR>ちょうど、アレが連載してたころにジャンプ読んでたし…（年齢が大バレだ…）<BR>アレを超える萌えを期待しています。ただ、展開が重なることはなさそうですね。<BR>それにしても、たった12時間でこの反響はすごいですね。<BR>続きが楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/index.html" target="_blank">���c����</a></strong>  <i>2001/05/14 16:08:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/index.html" target="_blank">原田聖也</a></strong>  <i>2001/05/14 16:08:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989824100bmcjr&id2=989765284horyi&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989824100bmcjr_id2_989765284horyi_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�n���n���h�L�h�L�̓W�J�A�y���܂��Ă��炢�܂����B(^^)<BR>���̎�̍�i�̊̂Ƃ�������ɕϐg�V�[�����ō��ł����B�}�G���΂�������ʓI�Ɏg���Ă��܂��ˁB����̓W�J�ɂ��v���ڂȐݒ肪�܂����̃n�[�g���킵�Â��݁B<BR>�܂��ɂ������̈�i�Ƃ������ƂŁA�����������҂��Ă��܂��B(^^)
+ハラハラドキドキの展開、楽しませてもらいました。(^^)<BR>この手の作品の肝といえる特に変身シーンが最高でした。挿絵もばっちり効果的に使われていますね。今後の展開にも要注目な設定がまた私のハートをわしづかみ。<BR>まさにこだわりの逸品ということで、続きも超期待しています。(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���J�H�v</strong>  <i>2001/05/14 20:38:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>水谷秋夫</strong>  <i>2001/05/14 20:38:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989840338igtrn&id2=989765284horyi&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989840338igtrn_id2_989765284horyi_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����͑f���炵���I<BR>�������̌�b�͂ł͓K���Ȏ^����������܂���B<BR>�������̂������Ă��������܂����B
+これは素晴らしい！<BR>もう私の語彙力では適当な賛辞が見つかりません。<BR>いいものを見せていただきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂���8426������</a></strong>  <i>2001/05/15 10:16:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ8426＠実家</a></strong>  <i>2001/05/15 10:16:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989889380heqcctl&id2=989765284horyi&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989889380heqcctl_id2_989765284horyi_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A����ƃJ�L�R�ł���E�E�E�B<BR>����A�����ł��˂��B���@�������m�̃e���r�A�j���̍\�����ӎ������X�^�C�����Ȃ�Ƃ������ł��B<BR>�����@�̃m�[�g�ƃy���ŕϐg<BR>���ăl�^�A�ǂ����ŁE�E�E�B���A�t�@���V�[�����i�΁j�B<BR>�~�������ƁA�}�G�ɐF���~���������i���j�BPC�̃��j�^�Ń��m�N���͂��݂����˂��B<BR>���낢��Z�����ēǂ݁��J�L�R�������܂Œx�ꂽ����8426�ł����B
+うう、やっとカキコできる・・・。<BR>いや、いいですねぇ。魔法少女モノのテレビアニメの構成を意識したスタイルがなんともいいです。<BR>＞魔法のノートとペンで変身<BR>ってネタ、どこかで・・・。あ、ファ○シーラ○（笑）。<BR>欲を言うと、挿絵に色が欲しかった（爆）。PCのモニタでモノクロはさみしいねぇ。<BR>いろいろ忙しくて読み＆カキコがここまで遅れたｍｋ8426でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�a�`�e</strong>  <i>2001/05/15 19:08:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＢＡＦ</strong>  <i>2001/05/15 19:08:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989921289shxqu&id2=989765284horyi&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989921289shxqu_id2_989765284horyi_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�C���t���΂���Ȃɂ������̕�����ϑz���������Ă���Ƃ́A�{���ɂ��ꂵ���ł��B<BR><BR>�l���Q�P������F<BR>���E�C�����}���E�E�E���Ă�ł����E�E�E�i�O�O�G <BR><BR>���̂Ƃ���ł��B���ł����������̂Ȃ�������ł��B<BR><BR>�_�藺����F<BR>��������}���ɂ��ꂽ�ł�(��)<BR><BR>�ŏ��l�n�m�c�n����ɃR�����g�����������Ƃ��͎��������ł����i�΁j<BR><BR>���{�҂́A���l�^���킩��Ȃ���ł����A<BR><BR>�u���Z�يَ�o��!!�v���������ɂȂ�ꂽ�_�邳�񂪂Ȃ��ɁH�i�΁j<BR><BR>kardy����F<BR>���킵��Ƃ��̃��C�i�ɂ��A�����Ɗ撣���Ă����˂΁B<BR><BR>�������y���݂ɂ��Ă܂��B����΂��Ă��������B<BR><BR>������ҋȁF��W��<BR>����(�P���P�G)<BR>����A���܂����I�I���ꂼ�킵�̎呮���I�I<BR><BR>�}�W�ł����I�@��낵�����肢�������ł��B<BR><BR>����݂��邳��F<BR>�����ꂩ��̂т܂��ˁB���ґ�ł� <BR><BR>���������Ă��炦��Ɗ������ł��B�@�����҂ɓY����悤����΂�܂��B<BR><BR>��������F<BR>�r���ŕϐg�i�����H�j����̂́A�^�H�t�������݂����E�E�E�i�΁j<BR><BR>�Ȃ�قǁI�i�΁j�@�ł����͂��̃l�^�̓C�i���}���Ȃ̂ł��i�΁j<BR>�q���̎p�łP�T���ς��Ȃ��Ɛ^�̗͂������ł��Ȃ��ƌ������̂Ȃ�ł��i�΁j<BR><BR>TOM����F<BR>�������A�W�J���d�Ȃ邱�Ƃ͂Ȃ������ł��ˁB<BR>�ǂ��ł��傤�H�i�O�O�j�@���i�j�j�������������āA����������̑����ɔC�������b�Ƃ����ォ��o�Ă���\�肾�����肵�܂���i�O�O�j<BR><BR>���c���炳��F<BR>������̓W�J�ɂ��v���ڂȐݒ肪�܂����̃n�[�g���킵�Â��݁B<BR><BR>�킵�Â��݂ł����i�O�O�j�@�����Ɗ��҂̂�������̂����܂����ǂ����A����܂��񂪏o���邾������΂点�Ă��������܂��̂ŉ�����낵�����肢���܂��B<BR><BR>���J�H�v����F <BR>���������̌�b�͂ł͓K���Ȏ^����������܂���B<BR><BR>����͂܂��A�ō��̎^���ł��ˁB�i�O�O�j�@�{���ɂ��肪�Ƃ��������܂��B<BR><BR>�_�����z�̂���8426�����Ƃ���F<BR><BR>�������@�̃m�[�g�ƃy���ŕϐg<BR>�����ăl�^�A�ǂ����ŁE�E�E�B���A�t�@���V�[�����i�΁j�B<BR><BR>����[�A���̓t�@���V�[�����͏����I����Ă���b�r���Ēm������ł���i�O�O�G�@����ɂ���m�[�g�ŕϐg���Ă���킯����Ȃ��ł����ˁB<BR><BR>���~�������ƁA�}�G�ɐF���~���������i���j�B<BR><BR>����Ɋւ��ẮA�u������������v�Ƃ��������Ă����܂��B�i�O�O�j<BR>
+気が付けばこんなにも多くの方から観想いただいているとは、本当にうれしいです。<BR><BR>人民２１号さん：<BR>＞ウイン○マン・・・ってやつですか・・・（＾＾； <BR><BR>そのとおりです。喜んでいただけたのなら嬉しいです。<BR><BR>神崎亮さん：<BR>＞女美川マンにやられたです(笑)<BR><BR>最初ＭＯＮＤＯさんにコメントいただいたときは私もそうでした（笑）<BR><BR>＞本編は、元ネタがわからないんですが、<BR><BR>「誠纏館館主登場!!」をお書きになられた神埼さんがなぜに？（笑）<BR><BR>kardyさん：<BR>＞わしんとこのライナにも、もっと頑張ってもらわねば。<BR><BR>すごく楽しみにしてます。がんばってください。<BR><BR>＞＞作編曲：募集中<BR>＞Σ(￣▽￣；)<BR>＞や、やりますっ！！これぞわしの主属性！！<BR><BR>マジですか！　よろしくお願いしたいです。<BR><BR>亜希みちるさん：<BR>＞これからのびますね。期待大です <BR><BR>そう言ってもらえると嬉しいです。　ご期待に添えるようがんばります。<BR><BR>あいさん：<BR>途中で変身（成長？）するのは、某秋葉＊＊＊みたい・・・（笑）<BR><BR>なるほど！（笑）　でも実はこのネタはイナ○マンなのです（笑）<BR>子供の姿で１５分耐えないと真の力が発揮できないと言うものなんです（笑）<BR><BR>TOMさん：<BR>＞ただ、展開が重なることはなさそうですね。<BR>どうでしょう？（＾＾）　翼（男）が女装させられて、美少女戦隊の隊長に任命される話とかが後から出てくる予定だったりしますよ（＾＾）<BR><BR>原田聖也さん：<BR>＞今後の展開にも要注目な設定がまた私のハートをわしづかみ。<BR><BR>わしづかみですか（＾＾）　ちゃんと期待のそえるものが作れますかどうか、判りませんが出来るだけがんばらせていただきますので応援よろしくお願いします。<BR><BR>水谷秋夫さん： <BR>＞もう私の語彙力では適当な賛辞が見つかりません。<BR><BR>これはまた、最高の賛辞ですね。（＾＾）　本当にありがとうございます。<BR><BR>神速感想のｍｋ8426＠実家さん：<BR><BR>＞＞魔法のノートとペンで変身<BR>＞ってネタ、どこかで・・・。あ、ファ○シーラ○（笑）。<BR><BR>いやー、実はファ○シーラ○は書き終わってからＣＳ見て知ったんですよ（＾＾；　それにあれノートで変身しているわけじゃないですしね。<BR><BR>＞欲を言うと、挿絵に色が欲しかった（爆）。<BR><BR>これに関しては、「もしかしたら」とだけ言っておきます。（＾＾）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@hkg.odn.ne.jp" target="_blank">����˂�</a></strong>  <i>2001/05/15 22:52:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawanegi@hkg.odn.ne.jp" target="_blank">かわねぎ</a></strong>  <i>2001/05/15 22:52:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989934728avqvvws&id2=989765284horyi&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989934728avqvvws_id2_989765284horyi_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ʔ��������ł��B�C���X�g������������A�{���ƃ}�b�`���Ă��čō��ł��ˁB<BR>�@���ꂶ��L����������Ȃ��A�Ɠǂ�ł��܂������A��͂肻���ł������B�ł��㔼�͖��@�����̉����A�A�C�h���f�r���[�ւ̕z�΂��f���܂��ˁB�̂œG�����������āA���̐��E�ς��炷��ƁA��낿���H<BR>�@���ƁA�P�T���ŕ��g����Ȃ�������ł����B
+　面白かったです。イラストも勢いがあり、本文とマッチしていて最高ですね。<BR>　これじゃ広○健太だよなぁ、と読んでいましたが、やはりそうでしたか。でも後半は魔法少女の王道、アイドルデビューへの布石が伺えますね。歌で敵をやっつけるって、この世界観からすると、りろちゃん？<BR>　あと、１５分で分身じゃなかったんですか。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l���Q�P��</strong>  <i>2001/05/16 00:17:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>人民２１号</strong>  <i>2001/05/16 00:17:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989939867eayfic&id2=989765284horyi&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989939867eayfic_id2_989765284horyi_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ɂ��Ă��A�T�N��������ł��ȁi�O�O�G
+それにしても、サクヤが哀れですな（＾＾；
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/05/16 00:32:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989940754pjctev&id2=989765284horyi&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989940754pjctev_id2_989765284horyi_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��BAF�l<BR><BR>���́A���ꂩ��u���Ȃ�悳���ȃ����f�B�v�������񂾂̂ł���<BR>���݌��J����Ă���̎��̂܂܂ł��ƁA�y�ȍ\���̓s�����肪�����܂��B<BR>�����ŁA���̂悤�ɕύX�������̂ł����A��낵���ł��傤���H<BR><BR>�n�o�u���̗��v<BR>�T�r�����u�P���������ނ��߁v�̌�Ɂu���関���J�����߁v��}��<BR><BR>�d�c�u�K���̉́v<BR>�`�����u���l�ߍ������u�ԁ`���ꂵ���Ƃ��߂��v��<BR>�a�����u��������͐S�Ɂ`�肢�����Ȃ��͂��v�����ւ���
+＞BAF様<BR><BR>実は、あれから「かなりよさげなメロディ」が浮かんだのですが<BR>現在公開されている歌詞のままですと、楽曲構成の都合上問題が生じます。<BR>そこで、次のように変更したいのですが、よろしいでしょうか？<BR><BR>ＯＰ「夢の翼」<BR>サビ部分「輝く明日つかむため」の後に「溢れる未来開くため」を挿入<BR><BR>ＥＤ「幸せの歌」<BR>Ａメロ「見詰め合った瞬間～うれしいときめき」と<BR>Ｂメロ「あこがれは心に～願いがかなうはず」を入れ替える
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2001/05/16 01:33:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2001/05/16 01:33:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989944429gufsmre&id2=989765284horyi&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989944429gufsmre_id2_989765284horyi_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ƃ蓁�ŋ삯���܂����BBAF����A�k�[�^�낳��A�p����A<BR>��i�������߂łƂ��������܂������I�I�C���X�g�Ƃ��b�����܂����ݍ����Ă��Ă߂���y������i�ł������I�I���̊����x�̍����ɋ������Ă���܂��B�����̑����������҂��Ă܂������I�I(^^)
+おっとり刀で駆けつけました。BAFさん、北房真庭さん、角さん、<BR>作品完成おめでとうございますうっ！！イラストとお話がうまく噛み合っていてめちゃ楽しい作品ですうぅ！！その完成度の高さに驚愕しております。続きの早期完成期待してますうっ！！(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>BAF</strong>  <i>2001/05/16 22:14:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990018898gmbnaq&id2=989765284horyi&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990018898gmbnaq_id2_989765284horyi_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�z���g�ɂ�������̊��z���肪�Ƃ��������܂��B<BR><BR>����˂�����F<BR>���C���X�g������������A�{���ƃ}�b�`���Ă��čō��ł��ˁB<BR><BR>����͂����p����ɐݒ莑���܂ō���Ă��������ĉ��x�����[���̂���肢�����܂�������i�O�O�j�y����ł���������̂������K���ł��B<BR><BR>�����̐��E�ς��炷��ƁA��낿���H<BR><BR>���@�������A�C�h�����̂Ƌt�Z���ďo�����ݒ�Ȃ̂ł�낿���͂��܂�֌W�Ȃ��ł��i�O�O�j<BR><BR>�����ƁA�P�T���ŕ��g����Ȃ�������ł����B<BR><BR>����[�A������񎄂��܂߂Ăł������g���炢���Ⴑ���ɗ���l�͖G���Ă���Ȃ��ł���H�i�΁j<BR><BR>�l���Q�P������<BR>������ɂ��Ă��A�T�N��������ł��ȁi�O�O�G <BR><BR>�T�N���ɂ����ꂩ�炢�낢��Ȃ��Ƃ��N����\��Ȃ̂ŁA��������������ڂ��Ă���������Ɗ������ł��i�O�O�j<BR><BR>Kardy����F<BR>�� <BR>�ύX�������̂ł����A��낵���ł��傤���H<BR><BR>�����������܂����B�ȂɂԂ�쎌�ȂǏ��߂Ă̂��Ƃł��̂ŐF�X�s��������Ǝv���܂��̂ŏC���Ȃǂ͂��܂����������܂��B<BR>�ƌ����킯�ł�낵�����肢�������܂��B<BR><BR>��������ɂ���F<BR>�������̑����������҂��Ă܂������I�I(^^) <BR><BR>������񑱂��͂���΂��ď������Ă��������܂����A���̍�i�́A�F�X�ȕ������̂����͂̉��ɍ���Ă��镨�Ȃ̂ŁA�����ɂƂ͌����Ȃ��̂ł��B���߂�Ȃ����B<BR><BR><BR><BR>
+ホントにたくさんの感想ありがとうございます。<BR><BR>かわねぎさん：<BR>＞イラストも勢いがあり、本文とマッチしていて最高ですね。<BR><BR>それはもう角さんに設定資料まで作っていただいて何度もメールのやり取りいたしましたから（＾＾）楽しんでいただけるのが何より幸せです。<BR><BR>＞この世界観からすると、りろちゃん？<BR><BR>魔法少女→アイドル→歌と逆算して出来た設定なのでりろちゃんはあまり関係ないです（＾＾）<BR><BR>＞あと、１５分で分身じゃなかったんですか。<BR><BR>いやー、もちろん私も含めてですが分身ぐらいじゃここに来る人は萌えてくれないでしょ？（笑）<BR><BR>人民２１号さん<BR>＞それにしても、サクヤが哀れですな（＾＾； <BR><BR>サクヤにもこれからいろいろなことが起こる予定なので、そこあたりも注目していただけると嬉しいです（＾＾）<BR><BR>Kardyさん：<BR>＞ <BR>変更したいのですが、よろしいでしょうか？<BR><BR>了解いたしました。なにぶん作詞など初めてのことですので色々不備があると思いますので修正などはおまかせいたします。<BR>と言うわけでよろしくお願いいたします。<BR><BR>たかしんにさん：<BR>＞続きの早期完成期待してますうっ！！(^^) <BR><BR>もちろん続きはがんばって書かせていただきますが、この作品は、色々な方たちのご協力の下に作られている物なので、すぐにとは言えないのです。ごめんなさい。<BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:factorythm@anet.ne.jp" target="_blank">M.F.S.W.</a></strong>  <i>2001/05/16 23:48:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990024500kpycyeq&id2=989765284horyi&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990024500kpycyeq_id2_989765284horyi_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂���(^^;<BR>�݂Ȃ��񏑂��Ă邯�ǁA����ρu�A���v���ۂ��ł���(��)<BR><BR>�c�c���͖����ɋȂ��Ă��񂾂��ǁA��s���Ă�l������悤�Ȃ̂ł�߂��Ⴈ�����Ǝv���Ă��܂��B<BR>�ȏ�]�k�B
+読みました(^^;<BR>みなさん書いてるけど、やっぱ「アレ」っぽいですね(笑)<BR><BR>……実は密かに曲つけてたんだけど、先行してる人がいるようなのでやめちゃおうかと思っています。<BR>以上余談。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p��</strong>  <i>2001/05/17 00:20:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>英明</strong>  <i>2001/05/17 00:20:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990026429eprnggg&id2=989765284horyi&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990026429eprnggg_id2_989765284horyi_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ʔ��������ł��B�b�l����A�}���G����A�\������A���̂���ƁA�e���r�A�j�������Ă���悤�ȋC�����܂����B���̃G���^�[�e�C�����g���̓T��������f�i�����܂��ˁB<BR>�@��i�ϐg�A���@�A�A�C�h���ȂǗv�f�����肾������A���A�X�s�[�f�B�ȓW�J�A�b�Ɉ������܂�܂����B<BR>�@����ɁA�C���N�G�X�g�̂b�l�܂ŗ����Ă��������A���肪�Ƃ��������܂����I
+　面白かったです。ＣＭあり、挿し絵あり、予告あり、主題歌ありと、テレビアニメを見ているような気がしました。このエンターテイメント性はサ○ラ大戦を彷彿させますね。<BR>　二段変身、魔法、アイドルなど要素も盛りだくさん、かつ、スピーディな展開、話に引き込まれました。<BR>　それに、インクエストのＣＭまで流していただき、ありがとうございました！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�a�`�e</strong>  <i>2001/05/17 21:11:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＢＡＦ</strong>  <i>2001/05/17 21:11:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990101488gkxxto&id2=989765284horyi&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990101488gkxxto_id2_989765284horyi_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�܂��܂����肪�Ƃ��ł��B�@<BR><BR>M.F.S.W.����F<BR>���݂Ȃ��񏑂��Ă邯�ǁA����ρu�A���v���ۂ��ł���(��)<BR><BR>���͂́A�^�C�g���Ȃǃ����Ƀe���r�ł̉e���󂯂Ă��ł����A���C�Â��ɂȂ��܂������H<BR><BR>���c�c���͖����ɋȂ��Ă��񂾂��ǁA��s���Ă�l������悤�Ȃ̂ł�߂��Ⴈ�����Ǝv���Ă��܂��B<BR><BR>����Ȃ��������Ȃ��ł��B�M�������[�̃C���X�g�ɐF�X���b���t���悤�ɉ̎��ɂ��F�X�ȋȂ��t���Ă��ǂ��Ǝv���܂���i�O�O�j<BR>���������΁A�ҏW�̓s���Ŏg��Ȃ������}���̂��Ă̂�����̂ł����������ł��傤�H<BR><BR>�p������F  <BR>���G���^�[�e�C�����g���̓T��������f�i�����܂��ˁB<BR><BR>���͂Ɏ��M���Ȃ������̂ŐF�X�ȕ��̗͂��؂�ăG���^�[�e�C�����g�ɓO�����̂ŁA���������Ă���������͔̂��Ɋ������ł��B<BR><BR>���C���N�G�X�g�̂b�l�܂ŗ����Ă��������A���肪�Ƃ��������܂����I <BR><BR>�����Ȃ̂ł��I�C���N�G�X�g����ł��A���y�S���ҕ�W���Ă����ł���ˁB������ł�����肠���Ă��������������Ɗ�������ł����E�E�E�B<BR>
+またまたありがとうです。　<BR><BR>M.F.S.W.さん：<BR>＞みなさん書いてるけど、やっぱ「アレ」っぽいですね(笑)<BR><BR>あはは、タイトルなどモロにテレビ版の影響受けてるんですが、お気づきになられましたか？<BR><BR>＞……実は密かに曲つけてたんだけど、先行してる人がいるようなのでやめちゃおうかと思っています。<BR><BR>そんなもったいないです。ギャラリーのイラストに色々お話が付くように歌詞にも色々な曲が付いても良いと思いますよ（＾＾）<BR>そういえば、編集の都合で使わなかった挿入歌ってのもあるのですがいかがでしょう？<BR><BR>英明さん：  <BR>＞エンターテイメント性はサ○ラ大戦を彷彿させますね。<BR><BR>文章に自信がなかったので色々な方の力を借りてエンターテイメントに徹したので、こう言っていただけるのは非常に嬉しいです。<BR><BR>＞インクエストのＣＭまで流していただき、ありがとうございました！ <BR><BR>そうなのです！インクエストさんでも、音楽担当者募集しているんですよね。あちらでも名乗りあげてくださる方がいると嬉しいんですが・・・。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>M.F.S.W.</strong>  <i>2001/05/17 22:04:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990104681tpaaea&id2=989765284horyi&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990104681tpaaea_id2_989765284horyi_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-#BAF����<BR>&gt;���͂́A�^�C�g���Ȃǃ����Ƀe���r�ł̉e���󂯂Ă��ł����A���C�Â��ɂȂ��܂������H<BR><BR>�i���΁j<BR><BR>������Ȃ��������Ȃ��ł��B�M�������[�̃C���X�g�ɐF�X���b���t���悤�ɉ̎��ɂ��F�X�ȋȂ��t���Ă��ǂ��Ǝv���܂���i�O�O�j<BR><BR>�񂶂Ⴀ�A���܂�N�I���e�B�ɂ͐ӔC������ŏ����Ă݂܂��B<BR>����������c�c�����ł��񍐂��܂���(^^;<BR><BR>&gt;���������΁A�ҏW�̓s���Ŏg��Ȃ������}���̂��Ă̂�����̂ł����������ł��傤�H<BR><BR>�L��Ȃ�V��ł݂����ł�(��)<BR><BR><BR> ���������΁A�ҏW�̓s���Ŏg��Ȃ������}���̂��Ă̂�����̂ł����������ł��傤�H<BR>
+#BAFさま<BR>&gt;あはは、タイトルなどモロにテレビ版の影響受けてるんですが、お気づきになられましたか？<BR><BR>（爆笑）<BR><BR>＞そんなもったいないです。ギャラリーのイラストに色々お話が付くように歌詞にも色々な曲が付いても良いと思いますよ（＾＾）<BR><BR>んじゃあ、あまりクオリティには責任もたんで書いてみます。<BR>完成したら……しゃれでご報告しますわ(^^;<BR><BR>&gt;そういえば、編集の都合で使わなかった挿入歌ってのもあるのですがいかがでしょう？<BR><BR>有るなら遊んでみたいです(笑)<BR><BR><BR> そういえば、編集の都合で使わなかった挿入歌ってのもあるのですがいかがでしょう？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2001/05/17 22:34:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2001/05/17 22:34:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990106472fnlsap&id2=989765284horyi&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990106472fnlsap_id2_989765284horyi_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�������ɂ��́I<BR>����˂�����A��������ɂ���A���z���肪�Ƃ��������܂��B<BR>�ƂĂ��A��݂ɂȂ�܂����B<BR>���̐�ǂ��Ȃ邩�A�����g���ڂ����͒m�点��ĂȂ��̂Ńh�L�h�L���Ă��܂��B<BR>�}���G�S���Ƃ��ẮA��̂S�R�}�Ƃ��A����ȉ����Ƃ��A��̋Z�Ƃ��A�F�X�ƃn�f�ɂ�낤���ƍl���Ă��܂��B<BR>����ʂ�Ƀp���`���Ȃǂ̃G�b�`�ȊG������邱�Ƃ��l���Ă���܂��B<BR>��������҂𗠐؂�Ȃ��悤�ɑS�͓����ł������Ǝv���Ă��܂��̂ŁA�ǂ�����낵�����肢���܂��B
+どうもこんにちは！<BR>かわねぎさん、たかしんにさん、感想ありがとうございます。<BR>とても、励みになりました。<BR>この先どうなるか、私自身も詳しくは知らせれてないのでドキドキしています。<BR>挿し絵担当としては、謎の４コマとか、巨大な何かとか、例の技とか、色々とハデにやろうかと考えています。<BR>原作通りにパンチラなどのエッチな絵も入れることも考えております。<BR>次回も期待を裏切らないように全力投球でいこうと思っていますので、どうぞよろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>BAF</strong>  <i>2001/05/19 16:44:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990258274kjgiud&id2=989765284horyi&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990258274kjgiud_id2_989765284horyi_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-M.F.S.W. ����F<BR>������������c�c�����ł��񍐂��܂���(^^;<BR><BR>�����I�@�y���݂ɑ҂��Ă���܂��ˁB<BR><BR>���L��Ȃ�V��ł݂����ł�(��)<BR><BR>����܂����B����ł͕����ɍڂ��Ă����̂ł����ɂȂ��Ă��������B<BR><BR>�p����F<BR><BR>���}���G�S���Ƃ��ẮA��̂S�R�}�Ƃ��A����ȉ����Ƃ��A��̋Z�Ƃ��A�F�X�ƃn�f�ɂ�낤���ƍl���Ă��܂��B<BR>������ʂ�Ƀp���`���Ȃǂ̃G�b�`�ȊG������邱�Ƃ��l���Ă���܂��B<BR><BR>����͔��Ɋy���݂ł��B�@������b�������n�߂Ȃ��Ɓi�O�O�j<BR><BR>���������݂Ȃ���A���ꂩ����w���@�̌��m�@�X���b�V���[��x�͕���ɐ[����������Ă��܂��B�@�����Ƒ��f���̃`�F�b�N���Y��Ȃ��ł��������ˁi�O�O�j<BR><BR><BR>���܂�<BR><BR>�}�W�J���t�H�[���A�b�v�I(�}���́j<BR><BR>�쎌�F�a�`�e�@�@��ȁ��ҋȁF��W���@�@�́F�p�������f���I�i�΂����s�t�a�`�r�`�j<BR><BR> <BR><BR>�i�΂����s�t�a�`�r�`�j<BR><BR>�t�H�[���A�b�v�I�@�t�H�[���A�b�v�I�@�}�W�J���t�H�[���A�b�v�I<BR><BR>�t�H�[���A�b�v�I�@�t�H�[���A�b�v�I�@�}�W�J���t�H�[���A�b�v�I<BR><BR> <BR><BR>�i�΂��j<BR><BR>��n�Ɋ�@������<BR><BR>��󂩂�̂�������<BR><BR> <BR><BR>�i�s�t�a�`�r�`�j<BR><BR>���E�Ɉł��K��ā@<BR><BR>�߂��݂̐�����<BR><BR> <BR><BR>�i�΂����s�t�a�`�r�`�j<BR><BR>�ł�������߂��ɂ��ā@���Ɗ�]���̂ĂȂ���<BR><BR>�N���M���Ă��ꂽ�Ȃ�@���@�̓V�g�@���@��ї���<BR><BR>�@<BR><BR>�i�΂��j�u�}�W�J���t�H�[���A�b�v�I�v<BR><BR> <BR><BR>�i�΂����s�t�a�`�r�`�j<BR><BR>��]�̌��@�̂ɍ���<BR><BR>�D�����́@���t���������悤<BR><BR> <BR><BR>���ƗE�C�̌��́@���炩�ɋ����̂̒�<BR><BR>�z���̗͖͂�����@�����Ɩ�����؂�J��<BR><BR> <BR><BR>���C�g�A�b�v�I�@���C�g�A�b�v�I�@�}�W�J�����C�g�A�b�v�I<BR><BR>���C�g�A�b�v�I�@���C�g�A�b�v�I�@�}�W�J�����C�g�A�b�v�I<BR><BR>���G�̃q���C���@���@�V�g�c�o�T�I<BR><BR>
+M.F.S.W. さん：<BR>＞完成したら……しゃれでご報告しますわ(^^;<BR><BR>おお！　楽しみに待っておりますね。<BR><BR>＞有るなら遊んでみたいです(笑)<BR><BR>判りました。それでは文末に載せておくのでごらんになってください。<BR><BR>角さん：<BR><BR>＞挿し絵担当としては、謎の４コマとか、巨大な何かとか、例の技とか、色々とハデにやろうかと考えています。<BR>＞原作通りにパンチラなどのエッチな絵も入れることも考えております。<BR><BR>それは非常に楽しみです。　早く二話を書き始めないと（＾＾）<BR><BR>そうそうみなさん、これからも『魔法の剣士　スラッシャー鈴』は物語に深くかかわってきます。　ちゃんと第二掲示板のチェックも忘れないでくださいね（＾＾）<BR><BR><BR>おまけ<BR><BR>マジカルフォームアップ！(挿入歌）<BR><BR>作詞：ＢＡＦ　　作曲＆編曲：募集中　　歌：パラレルデュオ（つばさ＆ＴＵＢＡＳＡ）<BR><BR> <BR><BR>（つばさ＆ＴＵＢＡＳＡ）<BR><BR>フォームアップ！　フォームアップ！　マジカルフォームアップ！<BR><BR>フォームアップ！　フォームアップ！　マジカルフォームアップ！<BR><BR> <BR><BR>（つばさ）<BR><BR>大地に危機が迫る<BR><BR>大空から歌が消える<BR><BR> <BR><BR>（ＴＵＢＡＳＡ）<BR><BR>世界に闇が訪れて　<BR><BR>悲しみの声溢れる<BR><BR> <BR><BR>（つばさ＆ＴＵＢＡＳＡ）<BR><BR>でもあきらめずにいて　夢と希望を捨てないで<BR><BR>君が信じてくれたなら　魔法の天使　今　飛び立つ<BR><BR>　<BR><BR>（つばさ）「マジカルフォームアップ！」<BR><BR> <BR><BR>（つばさ＆ＴＵＢＡＳＡ）<BR><BR>希望の光　歌に込め<BR><BR>優しさの　言葉投げかけよう<BR><BR> <BR><BR>夢と勇気の源は　高らかに響く歌の中<BR><BR>想いの力は無限大　きっと明日を切り開く<BR><BR> <BR><BR>ライトアップ！　ライトアップ！　マジカルライトアップ！<BR><BR>ライトアップ！　ライトアップ！　マジカルライトアップ！<BR><BR>無敵のヒロイン　魔法天使ツバサ！<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/07/21 10:18:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/07/21 10:18:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995678288kxsca&id2=989765284horyi&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995678288kxsca_id2_989765284horyi_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����ƊԂ��󂢂Ă��犴�z���������܂��Ă��������܂��B���������Ċ��z�ɋC�����Ă��炤�܂łɎ��Ԃ������邩������܂��񂪁A��Q�b���A�b�v���ꂽ�Ƃ��ɏ��߂ċC�����Ă��炤�Ƃ����̂��������낢���ȁH<BR><BR>�@�Ƃ����킯�Ły���b�z�ǂ݂܂����B�m���ɁA�W�����v�̗�̃A���ł��ˁB�ł��Ⴂ�l�͊��ɒm��Ȃ������c�c�B����̓A�C�h���f�r���[�Ƃ̂��Ƃł����A�ǂ��ł��ˁB�N���[�~�[�E�}�~�ł��ˁB�̂��킢�̌�������ƂȂ�΁A�O���܂����ˁB<BR>�@�Ƃ���ŁA�ݒ�}�j�A�̎��̋^��Ȃ̂ł����A�̂Ȃ�΂ǂ�ȉ̂ł����ʂ�����̂ł��傤���H�@�����ł͂Ȃ��A�b�c�ɋL�^���ꂽ�̂��ƌ��ʂ͂ǂ��Ȃ�̂ł��傤���H�@���邢�́A���@�͂��v���X���ꂽ�c�o�T�̉̂������ʂ͊��҂ł��Ȃ��̂ł��傤���H<BR>�@����Ƃ��c�o�T�̉̂Ȃ�΁A�b�c�ł��n�j�Ȃ̂ł��傤���H�@�����������Ȃ�A�c�o�T���A�C�h���Ƃ��Đ������A�b�c���ǂ�ǂ񔄂��΁A���ꂪ�G��|�����Ƃɂ��Ȃ���킯�ł����A�b������ŁA�A�C�h���H����i�߂�W�J�����R�ȓW�J�ɂȂ�܂��ˁB<BR>�@�ǂ������W�J�ɂȂ�̂��A�y���݂ł��B��Q�b���C���ɑ҂��܂��̂ŁA���񏑂��Ă��������B��낵�����肢�������܂��B
+　随分と間が空いてから感想を書き込ませていただきます。もしかして感想に気がついてもらうまでに時間がかかるかもしれませんが、第２話がアップされたときに初めて気がついてもらうというのもおもしろいかな？<BR><BR>　というわけで【第一話】読みました。確かに、ジャンプの例のアレですね。でも若い人は既に知らないかも……。次回はアイドルデビューとのことですが、良いですね。クリーミー・マミですね。歌が戦いの鍵を握るとなれば、外せませんよね。<BR>　ところで、設定マニアの私の疑問なのですが、歌ならばどんな歌でも効果があるのでしょうか？　肉声ではなく、ＣＤに記録された歌だと効果はどうなるのでしょうか？　あるいは、魔法力がプラスされたツバサの歌しか効果は期待できないのでしょうか？<BR>　それともツバサの歌ならば、ＣＤでもＯＫなのでしょうか？　もしもそうなら、ツバサがアイドルとして成功し、ＣＤがどんどん売れれば、それが敵を倒すことにもつながるわけですし、話を作る上で、アイドル路線を進める展開も自然な展開になりますね。<BR>　どういう展開になるのか、楽しみです。第２話を気長に待ちますので、是非書いてください。よろしくお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>BAF</strong>  <i>2001/07/24 10:30:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995938205dthyw&id2=989765284horyi&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995938205dthyw_id2_989765284horyi_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W���[�W���b�h���񊴑z���肪�Ƃ��������܂��B<BR><BR>������̓A�C�h���f�r���[�Ƃ̂��Ƃł����A�ǂ��ł��ˁB�N���[�~�[�E�}�~�ł��ˁB<BR><BR>�����ł��ˁi�O�O�j��b�ȍ~���̃m���������Ă����������i�ɂ��Ă������琬�����Ǝv���Ă���܂��B<BR><BR>���Ƃ���ŁA�ݒ�}�j�A�̎��̋^��Ȃ̂ł����A�̂Ȃ�΂ǂ�ȉ̂ł����ʂ�����̂ł��傤���H<BR><BR>����ɂ��ẮA��b�⑫�ƌ����`�ł����������Ă��������܂��ƁA���@�����l�S�ʂŌ����ƕ��ʂ̐l�̉̂ł�CD�ł����ʂ�����܂��i�A�J�y���ł̓_���j�B<BR>�������A��O�������܂��B<BR>��́A�l�Ԃ̑̂ƗZ�������ҁA��b�Ō����ƘT�j�̎p�ɂȂ����҂ł����A���̏�ԂɂȂ�΂قڊ��S�ɉ̂̌��ʂ��󂯂��ɂ��݂܂��B�����ł��j�邽�߂ɂ́ATUBASA�̖��@�͂ƃX�s�[�J�t�@���l���i�p����̃}���K�Q�Ɓj�ł̒��ڍU�����K�v�ɂȂ�܂��B<BR>������́A�����̌����B�ޏ��B��|�����߂ɂ́A���ɂ̉̂Ƃ������̂��K�v�ɂȂ�܂��B�A�C�h���𑱂��Ȃ��狆�ɂ̉̒T��������Ƃ����̂��A��b�ȍ~�̈�̎��ƂȂ��Ă����Ǝv���܂��B<BR><BR>�b�͕ς��܂��������ǂ�ł�����̒��Łu���@�V�g�c�o�T�v�̑������������Ƃ������l���܂��񂩁H�S�Q�U�b�̗\��ł����A���܂ɋr�{���ς��̂��A�j�����ۂ����ȂƂ��v����ł����������Ȃ��̂ł��傤���H�@
+ジャージレッドさん感想ありがとうございます。<BR><BR>＞次回はアイドルデビューとのことですが、良いですね。クリーミー・マミですね。<BR><BR>そうですね（＾＾）二話以降そのノリを感じていただける作品にしていけたら成功だと思っております。<BR><BR>＞ところで、設定マニアの私の疑問なのですが、歌ならばどんな歌でも効果があるのでしょうか？<BR><BR>これについては、一話補足と言う形でご説明させていただきますと、魔法次元人全般で言うと普通の人の歌でもCDでも効果があります（アカペラではダメ）。<BR>ただし、例外が二つあります。<BR>一つは、人間の体と融合した者、一話で言うと狼男の姿になった者ですが、この状態になればほぼ完全に歌の効果を受けずにすみます。これを打ち破るためには、TUBASAの魔法力とスピーカファンネル（角さんのマンガ参照）での直接攻撃が必要になります。<BR>もう一つは、女王の血族。彼女達を倒すためには、究極の歌というものが必要になります。アイドルを続けながら究極の歌探しをするというのが、二話以降の一つの軸となっていくと思います。<BR><BR>話は変わりますがこれを読んでいる方の中で「魔法天使ツバサ」の続き書きたいとか言う人いませんか？全２６話の予定ですが、たまに脚本が変わるのもアニメっぽいかなとか思うんですがいかがなものでしょうか？　
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="989765284horyi">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

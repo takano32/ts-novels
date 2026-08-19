@@ -1,52 +1,52 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�����R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>少女コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=2&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_2_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=2&id=945079070ofnfy&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=2&ff=on">�����R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_2_id_945079070ofnfy_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_2_ff_on.cgi">少女コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�قƂ�ǈȏ��Ζ���</font><br>
+<font size="+2" color="#0000FF">ほとんど以上絶対未満</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/12/13 18:57:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/12/13 18:57:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=2&id=945079070ofnfy&id2=945079070ofnfy&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_2_id_945079070ofnfy_id2_945079070ofnfy_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�قƂ�ǈȏ��Ζ����i�قƂ�ǈȏ��Ζ����@���^�j<BR>����Ё@�ԂƂ�߃R�~�b�N�X�@�@�K�c�T���q�@��<BR>����ρA�K�c�T���q�̃R���f�B�Z���X�́A�����Ȃ��A�Ƒz�����i�B<BR>���_���A���̃R�ɂȂ��Ă��܂������ł͂Ȃ��A����Ɋւ��������Ă��܂����j����<BR>�u�������ƂŁA�ʓ|�����������͏Ȃ��āA�����悤�ɐU��񂳂��R���f�B��<BR>�����Ă���B<BR>�K�c�T���q�́A���ɊG����肢�Ƃ����킯�ł͂Ȃ����ǁA<BR>�u�Ђ������]�Z���v��u�����ς��A����点�Ă������v�Ȃǂ̃V�[�����݂�ƁA<BR>������������ʂ��A���܂��P�R�}�ɔ[�߂�ȂǁA�킩��₷�����񑩃R���f�B��<BR>�n��˔\�́A��͂�]���������B<BR>���̃}���K�ŁA�����Ƃ��]���������̂́A��͂�A���̃R�ɂȂ��Ă��܂���<BR>�M�₪�A���_�ʂł͂����܂ł��j�̂܂܂ŁA���A���Ƃ��Ă̐����ɂ�����x<BR>����Ă��邱�Ƃɂ���B<BR>����ɂ��A�ꌩ�A���̃R�炵����ʑf�s���������Ƒz����<BR>�����Ȃ菗�̃R�̔����������āA�ꉞ��l���̗ڗ�����A���炩������A<BR>�����Ƒz���΁A�ڗ���Ƒ��̏��̃R�̒�����莝�Ƃ��Ƃ�����ƁA�����܂ł��A<BR>���_�I�ɂ͒j�Ƃ��Ă̂��̂������Ƃ����s�r�̑��݈Ӌ`���A���������<BR>�������Ă���Ă��邱�Ƃ͊������B<BR>��R�b�ł́A�����Ȃ�A�ڗ��傪�A���đ����ɁA�M��̏��̃R�̕������A�������A<BR>�m���Ă��܂��A�ǂ��܂����邠����́A�|�C���g�����B<BR>�S�R�b�A��������A�Ⴄ�W�J�Ŗʔ����Ȃ肻���ȂƂ���ŏI��������Ƃ��A<BR>����܂�ĂȂ�Ȃ��B<BR>
+ほとんど以上絶対未満（ほとんど以上絶対未満　収録）<BR>白泉社　花とゆめコミックス　　桑田乃梨子　作<BR>やっぱ、桑田乃梨子のコメディセンスは、いいなあ、と想える作品。<BR>視点を、女のコになってしまった側ではなく、それに関わりを持ってしまった男側に<BR>置いたことで、面倒くさい説明は省いて、いいように振り回されるコメディが<BR>活きている。<BR>桑田乃梨子は、特に絵が上手いというわけではないけど、<BR>「ひいいい転校生」や「おっぱい、さわらせてやっから」などのシーンをみると、<BR>そういった場面を、うまく１コマに納めるなど、わかりやすいお約束コメディを<BR>創る才能は、やはり評価したい。<BR>このマンガで、もっとも評価が高いのは、やはり、女のコになってしまった<BR>藪坂が、精神面ではあくまでも男のままで、かつ、女としての生活にある程度<BR>慣れていることにある。<BR>これにより、一見、女のコらしからぬ素行をしたかと想えば<BR>いきなり女のコの反応を見せて、一応主人公の瑠璃門を、からかったり、<BR>そうと想えば、瑠璃門と他の女のコの中を取り持とうとしたりと、あくまでも、<BR>精神的には男としてのものが強いというＴＳの存在意義を、しっかりと<BR>押さえてくれていることは嬉しい。<BR>第３話では、いきなり、瑠璃門が、立て続けに、藪坂の女のコの部分を、感じ取り、<BR>知ってしまい、どぎまぎするあたりは、ポイント高し。<BR>全３話、ここから、違う展開で面白くなりそうなところで終わったことが、<BR>悔やまれてならない。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="2">
 <input type="hidden" name="id" value="945079070ofnfy">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=2&ff=on">�����R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_2_ff_on.cgi">少女コミック</a>]<br>
 
 </p>
 </body>

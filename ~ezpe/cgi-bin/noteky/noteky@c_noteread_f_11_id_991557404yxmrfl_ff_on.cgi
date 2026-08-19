@@ -1,422 +1,422 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=991557404yxmrfl&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_991557404yxmrfl_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�ߑւ�</font><br>
+<font size="+2" color="#0000FF">衣替え</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/03172433/koromo.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/06/03 17:36:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/03172433/koromo.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/06/03 17:36:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991557404yxmrfl&id2=991557404yxmrfl&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991557404yxmrfl_id2_991557404yxmrfl_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�����p�������ߑւ��B�悵�������񂪑��镶�Ƀf�r���[��́A�Z�������������Ȃ��Z�䂢�V���[�g�V���[�g�ł��B
+【推薦文】嬉し恥ずかし衣替え。よしおかさんが贈る文庫デビュー作は、短さを感じさせない濃ゆいショートショートです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/03 19:55:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/03 19:55:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991565724asbybi&id2=991557404yxmrfl&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991565724asbybi_id2_991557404yxmrfl_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āE�E���낢�邩�ł��B�@�@<BR>�u�ߑւ��v�ǂ݂܂�����<BR>���������z�ł��ˁB��̈ߑւ��ł������I�B<BR>�O�̏��̎q�ƒ��̒j���Ƃ̃M���b�v���悩�����ł���B<BR>���������҂��Ă܂��B
+初めまして・・しろいるかです。　　<BR>「衣替え」読みました♪<BR>すごい発想ですね。皮の衣替えですかぁ！。<BR>外の女の子と中の男性とのギャップがよかったですよ。<BR>次回作も期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/03 20:16:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/03 20:16:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991566977mwdwk&id2=991557404yxmrfl&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991566977mwdwk_id2_991557404yxmrfl_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���낢�邩����A���肪�Ƃ��������܂��B���낢�邩����̍�i�͂����œǂ܂����Ă��������Ă���܂��B<BR>�W�������𔻒f�����i���i�]���̕������烂�m���j�f�ڂ��Ă������������ɂ̃X�^�b�t�̕��X�ɂ��̏�����؂肵�Ă���\���グ�܂��B<BR>���낢�邩����A���ɂ̃X�^�b�t�̊F���񂠂肪�Ƃ��������܂����B
+しろいるかさん、ありがとうございます。しろいるかさんの作品はここで読まさせていただいております。<BR>ジャンルを判断し難い作品を（評価の分かれる皮モノを）掲載してくださった文庫のスタッフの方々にこの場をお借りしてお礼申し上げます。<BR>しろいるかさん、文庫のスタッフの皆さんありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/06/03 21:09:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/06/03 21:09:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991570160japcme&id2=991557404yxmrfl&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991570160japcme_id2_991557404yxmrfl_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ȃA�C�f�A�������ł��ˁB<BR>�Z�ҏ����Ƃ��Ă͂����܂����قǁA���܂��ł�<BR>�����ɂ����҂ł�<BR>�Ƃ���ŕP�_�����܂��񂩁i��`�j��
+こんなアイデアもあるんですね。<BR>短編書きとしてはうらやましいほど、うまいです<BR>次回作にも期待です<BR>ところで姫神書きませんか（宣伝）汗
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/03 22:27:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/03 22:27:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991574841wdnkc&id2=991557404yxmrfl&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991574841wdnkc_id2_991557404yxmrfl_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����A�d���ɔ�ꂽ���ł���ǂ�ŁA�͂������܂����i�΁j�B<BR>�����������z�̓��^�N�V���ł��Ȃ������Ȃ��B<BR><BR>�����󂳂�<BR>�X�J�E�g�̐G������������ŐL�΂��Ă����܂��ȁi�΁j�B
+いや、仕事に疲れた頭でこれ読んで、力が抜けました（笑）。<BR>こういう発想はワタクシもできなかったなぁ。<BR><BR>＞亜希さん<BR>スカウトの触手をあちこちで伸ばしておられますな（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��������</strong>  <i>2001/06/03 22:49:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>こうけい</strong>  <i>2001/06/03 22:49:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991576195oteyooo&id2=991557404yxmrfl&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991576195oteyooo_id2_991557404yxmrfl_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��͂͂͂͂͂́B�ׂ����`�ʂ��C�������Ă��Ă����ł��ˁB<BR>������j�ւ̈ߑւ��Ȃ̂��X�S�C�ł��ȁc�Ǝv�����炻�̌�ɃI�`�i�H�j������Ƃ́B<BR>����Ȕ�^�C�v�̃{�f�B�[�X�[�c�i�H�j���������璅�Ă݂����ł��B
+わはははははは。細かい描写が気が利いていていいですね。<BR>女から男への衣替えなのもスゴイですな…と思ったらその後にオチ（？）があるとは。<BR>こんな皮タイプのボディースーツ（？）があったら着てみたいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����n</strong>  <i>2001/06/03 23:38:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>逃げ馬</strong>  <i>2001/06/03 23:38:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991579089lnmcg&id2=991557404yxmrfl&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991579089lnmcg_id2_991557404yxmrfl_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���[��E�E�E�Ȃ�ق�(^^;;;<BR>�Z������Ċ����ł���(^^)�@���������ϐg�������ł��˂��E�E�E�ʔ��������ł��B<BR>SS�́A�l���D���ł��̂œǂ�ł��Ċy���������B�Q�l�ɂ��Ȃ�܂��I<BR>���낢�邩����������Ă����܂����ǁA�O�ƒ��̃M���b�v�������ł��ˁI<BR>
+うーん・・・なるほど(^^;;;<BR>技ありって感じですね(^^)　こういう変身もあるんですねえ・・・面白かったです。<BR>SSは、僕も好きですので読んでいて楽しかった。参考にもなります！<BR>しろいるかさんも言っておられますけど、外と中のギャップがいいですね！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>2001/06/04 02:14:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>2001/06/04 02:14:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991588483hoglur&id2=991557404yxmrfl&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991588483hoglur_id2_991557404yxmrfl_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����ɂ��́A�ǂ܂��Ă��������܂����B�ׂ������Ƃ܂ł悭�l�����Ă�����ƋÏk���Ă���悤�ȁA�s�v�c�Ŗʔ������b���Ǝv���܂����B���̂悤�ȃV���[�g�V���[�g���ƌ�����ς��Ă����ƁA�󋵂�������₷���ăC�C�ł��ˁ[�B�X�[�c�ɂ͐l�i���ύX����`�J���������ł��傤���H
+　こんにちは、読ませていただきました。細かいことまでよく考えられてぎゅっと凝縮してあるような、不思議で面白いお話だと思いました。このようなショートショートだと口調を変えていくと、状況が分かりやすくてイイですねー。スーツには人格も変更するチカラがあるんでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2001/06/04 05:26:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2001/06/04 05:26:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991599987doabmd&id2=991557404yxmrfl&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991599987doabmd_id2_991557404yxmrfl_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ȕϐg���������Ƃ́E�E�B�ϐg�����Ȗl�Ƃ��Ă͖ڂ���؂����I�I�������ɂ悵��������ł��������I�I
+こんな変身があったとは・・。変身すきな僕としては目から鱗っす！！さすがによしおかさんですううっ！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.people.or.jp/~p-ping" target="_blank">���Ă����@�݂��</a></strong>  <i>2001/06/05 00:16:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.people.or.jp/~p-ping" target="_blank">たていし　みるる</a></strong>  <i>2001/06/05 00:16:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991667787ikwll&id2=991557404yxmrfl&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991667787ikwll_id2_991557404yxmrfl_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āA���Ă����@�݂��ł��B�i���z���̏������ł��j<BR><BR>�Ƃ����킯�ŁA�u�ߑւ��v�ǂ݂܂����B<BR>��ɂ��ϐg�ɂ��ӊO���ɋ����܂����B<BR>�ǂݏo���ŁA�����������Ƃ��ӎ����ĂȂ������̂ŁA<BR>�������C���p�N�g������܂����B<BR>���̏�ɁA�O�ƒ��̃M���b�v����������������āA<BR>�������̂ł����B<BR>�E�E�E�Ō�ɂ����Ɩ߂�Ƃ����A���������ł����B<BR>������ƁA�����Ȃ��Ă��܂��܂����B
+はじめまして、たていし　みるるです。（感想自体初書きです）<BR><BR>というわけで、「衣替え」読みました。<BR>皮による変身による意外性に驚きました。<BR>読み出しで、そういうことを意識してなかったので、<BR>すごいインパクトがありました。<BR>その上に、外と中のギャップが激しさも加わって、<BR>感動ものでした。<BR>・・・最後にちゃんと戻るとこも、いい感じでした。<BR>ちょっと、長くなってしまいました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ă����@�݂��</strong>  <i>2001/06/05 00:19:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たていし　みるる</strong>  <i>2001/06/05 00:19:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991667958qyagmp&id2=991557404yxmrfl&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991667958qyagmp_id2_991557404yxmrfl_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ꂪ�A�������̂ł�����ƒǉ����܂��B<BR><BR>������ƁA�����Ȃ��Ă��܂����̂́A���z�̂��Ƃł��B<BR>�ǉ����Ă����܂��B<BR><BR>�悵��������A���ꂩ�������΂��Ă��������B
+もれが、あったのでちょっと追加します。<BR><BR>ちょっと、長くなってしまったのは、感想のことです。<BR>追加しておきます。<BR><BR>よしおかさん、これからもがんばってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/06/05 01:31:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/06/05 01:31:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991672314begtab&id2=991557404yxmrfl&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991672314begtab_id2_991557404yxmrfl_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���́u���E���v�Ƃ����ӕ\���A�Ƃ��Ă��C�ɓ���܂����B<BR>�Ƃ���ŒE������́A��̔����k�X�����A�ς�ς�ɂȂ�̂ł��傤���H
+この「皮を脱ぐ」という意表さ、とっても気に入りました。<BR>ところで脱いだ皮は、蝉の抜け殻宜しく、ぱりぱりになるのでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kagerou6</strong>  <i>2001/06/05 20:55:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991742101qqlhe&id2=991557404yxmrfl&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991742101qqlhe_id2_991557404yxmrfl_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�n�߂܂��āE�E�E�ł����̂��ȁH<BR>�ӊO�Ȕ��z�ƐV�����ϐg�I<BR>�������_�炩���̂ł��ˁI<BR>���ꂩ����撣���Ă��������I
+始めまして・・・でいいのかな？<BR>意外な発想と新しい変身！<BR>感性が柔らかいのですね！<BR>これからも頑張ってください！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/06 20:59:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/06 20:59:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991828752nwfhqkl&id2=991557404yxmrfl&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991828752nwfhqkl_id2_991557404yxmrfl_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����낤����Ɋ��z�𑗂��Ă����҂��A���z��Ⴄ�Ȃ�āA�Ȃ񂾂��͂��������ł��ˁB���v���Ԃ�ł��B���ꂩ�����낵���B
+かげろうさんに感想を送っていた者が、感想を貰うなんて、なんだかはずかしいですね。お久しぶりです。これからもよろしく。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��</strong>  <i>2001/06/11 23:18:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>つぃ</strong>  <i>2001/06/11 23:18:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992269095vlxwk&id2=991557404yxmrfl&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992269095vlxwk_id2_991557404yxmrfl_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ȃׂ��Ȃ��̂���������A�~�����I�I<BR>
+こんなべんりなものがあったら、欲しい！！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��</strong>  <i>2001/06/11 23:25:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>つん</strong>  <i>2001/06/11 23:25:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992269504kfmrn&id2=991557404yxmrfl&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992269504kfmrn_id2_991557404yxmrfl_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ȃׂ��Ȃ��̂���������A�~�����I�I<BR>�ł���΁A1 day skin �Ȃ�ėǂ��B<BR><BR>�āA�Ȃ��ł钆�ł͈ӊO���������ċC�ɓ�������A
+こんなべんりなものがあったら、欲しい！！<BR>できれば、1 day skin なんて良い。<BR><BR>て、ならんでる中では意外性があって気に入ったよ、
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/index.html" target="_blank">���c����</a></strong>  <i>2001/06/14 17:05:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/index.html" target="_blank">原田聖也</a></strong>  <i>2001/06/14 17:05:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992505930vrydbt&id2=991557404yxmrfl&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992505930vrydbt_id2_991557404yxmrfl_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�M���b�ƋÏk���ꂽ�`�ʂ��i�C�X�B�T�C�R�[�ł��B(^^)<BR>�y���܂��Ă��������܂����B<BR>���̃W�������̍�i���A�����Ƒ�����Ƃ����ł��ˁB
+ギュッと凝縮された描写がナイス。サイコーです。(^^)<BR>楽しませていただきました。<BR>このジャンルの作品が、もっと増えるといいですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/03172433/koromo2.html" target="_blank">�ߑւ��Q��ǂނɂ͂������N���b�N</a></strong>  <i>2001/07/10 03:32:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/03172433/koromo2.html" target="_blank">衣替え２を読むにはここをクリック</a></strong>  <i>2001/07/10 03:32:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994703554foiqp&id2=991557404yxmrfl&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994703554foiqp_id2_991557404yxmrfl_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �R�̃��X�g�ŁA�������I�Ɛ����グ���S���B����܂����B<BR>(�ߑւ��R�̓g�b�v�y�[�W����ǂ���)
+【推薦文】 ３のラストで、ああっ！と声を上げた担当。やられました。<BR>(衣替え３はトップページからどうぞ)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/07/10 06:57:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/07/10 06:57:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994715861fqqev&id2=991557404yxmrfl&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994715861fqqev_id2_991557404yxmrfl_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�u�ߑւ��Q�v<BR>�l�I�ɂ͂��̂܂ܐ��_�������ւ̓���i��ŗ~�����悤�ȁE�E�E�i���j�B<BR>�������A�r�[�i�X�X�[�c�ς��������ς���Ă��܂��񂶂�Ȃ���[���H<BR>����Ƃ�����Ȃ��Ƃ͂Ȃ��̂��ȁB<BR>�u�ߑւ��R�v<BR>�r�[�i�X�X�[�c�Ŋ��S�ϐg���ă`�F�b�N����В��E�E�E�₾�ȁ[�B<BR>�i�X�[�p�[�}�[�P�b�g�]�ƈ��̖{���E�E�E�΁j<BR>�������B���������p�^�[�����A���Ȃ̂ˁB
+読んだバイ♪<BR>「衣替え２」<BR>個人的にはそのまま精神女性化への道を進んで欲しいような・・・（爆）。<BR>しかし、ビーナススーツ変えたら顔も変わってしまうんじゃなかろーか？<BR>それともそんなことはないのかな。<BR>「衣替え３」<BR>ビーナススーツで完全変身してチェックする社長・・・やだなー。<BR>（スーパーマーケット従業員の本音・・・笑）<BR>そうか。こういうパターンもアリなのね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/10 07:44:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/10 07:44:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994718663okkkfov&id2=991557404yxmrfl&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994718663okkkfov_id2_991557404yxmrfl_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂���<BR>���ւ��Q<BR>�r�[�i�X�X�[�c���肪�������ǁA�V�N�ɓǂ܂��Ă��������܂����B<BR>���_�̏������������ł���<BR>�ނɂ͂��̂܂܂����Ăق����ł���<BR>�ߑւ��R<BR>���������p�^�[��������ł���<BR>�\���Ɋy����ł����Ă��炢�������̂ł��B<BR>�Q�A�R�ǂ�������J�ȕ`�ʂ��O�b�h�{���ɕ��͂����܂��ł���
+読みました<BR>着替え２<BR>ビーナススーツありがちだけど、新鮮に読ませていただきました。<BR>精神の女性化もあるんですね<BR>彼にはこのままいってほしいですね<BR>衣替え３<BR>こういうパターンもありですね<BR>十分に楽しんでいってもらいたいものです。<BR>２、３どちらも丁寧な描写がグッド本当に文章がうまいですね
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/07/10 20:59:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/07/10 20:59:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994766345phiywt&id2=991557404yxmrfl&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994766345phiywt_id2_991557404yxmrfl_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-mk8426����A�r�[�i�X�E�X�[�c�ɂ́A�}�X�N�����Ƃ����̂�����܂��̂ŁA���p���̐܂ɂ͂�낵�����肢�������܂��B<BR>
+mk8426さん、ビーナス・スーツには、マスクだけというのもありますので、ご用命の折にはよろしくお願いいたします。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/07/10 23:07:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/07/10 23:07:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994774066tpplop&id2=991557404yxmrfl&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994774066tpplop_id2_991557404yxmrfl_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������˂���B������˂��B������������ɁE�E�E��������A�e���E�E<BR>�S�����E�����̂́A������˂��E�E�E<BR>�M���Ă����B���ꂶ��˂��E�E�E�E<BR><BR>�Ƃ������ƂŁA��҂͍������ɒ��ɓ����Ă��܂��܂����B<BR>�E��ꂽ�S���̕��̂����������F�肢�����܂��B��`�`�`�`�߂�B<BR>����`����`������ł�B<BR><BR>
+俺じゃねえよ。俺じゃねえ。引き金が勝手に・・・そしたら、弾が・・<BR>担当を殺ったのは、俺じゃねえ・・・<BR>信じてくれよ。おれじゃねえ・・・・<BR><BR>ということで、作者は高い塀に中に入ってしまいました。<BR>殺られた担当の方のご冥福をお祈りいたします。ら～～～～めん。<BR>ちゃ～しゅ～もあるでよ。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/07/11 02:35:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/07/11 02:35:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994786520aonlok&id2=991557404yxmrfl&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994786520aonlok_id2_991557404yxmrfl_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɃV���[�Y�i�H�j���ł����A�����ł��ˁI<BR>��𒅒E�����Ƃ���Ɍ��t�������ς�鉉�o�����ς�炸���݂ŁA�y�����ł��B<BR>�����������E�Ȃ�j���p�̃r�[�i�X�E�X�[�c�i�}�[�Y�E�X�[�c�H�j��<BR>�����Ƃ��邱�Ƃł��傤�ˁB���ɂ̎�|�Ƃ͊O��邯�ǁB<BR>�V���[�Y��S�e�����҂��Ă��܂��B
+ついにシリーズ（？）化ですか、快挙ですね！<BR>皮を着脱したとたんに言葉遣いが変わる演出も相変わらず健在で、楽しいです。<BR>こういう世界なら男装用のビーナス・スーツ（マーズ・スーツ？）も<BR>きっとあることでしょうね。文庫の趣旨とは外れるけど。<BR>シリーズ第４弾も期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>2001/07/12 20:56:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>2001/07/12 20:56:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994938965qliea&id2=991557404yxmrfl&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994938965qliea_id2_991557404yxmrfl_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���E���O�ƌ�̃M���b�v���ǂ��ł��ˁI<BR>�l�i�������u�����Ă���Ƃ́c�c����ɂ�Đ��i���ς�邾����<BR>�Ȃ��A�Ȃ肫�邬�肬��Łu���E���v���̃X�������ʔ����ł��B<BR>�R�̃X�g�[���[�͂��Ȃ�D�݂ł��i�΁j�B<BR>
+皮を脱ぐ前と後のギャップが良いですね！<BR>人格矯正装置がついているとは……それにつれて性格も変わるだけで<BR>なく、なりきるぎりぎりで「皮を脱ぐ」そのスリルが面白いです。<BR>３のストーリーはかなり好みです（笑）。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2001/07/13 04:55:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2001/07/13 04:55:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994967725dthbe&id2=991557404yxmrfl&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994967725dthbe_id2_991557404yxmrfl_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`��E�E�u�������낢�I�v�ł������I�I(^^)<BR>���̊������ق����������������I�I<BR>�ǂ�ǂ񑖂��Ă��������܂��B
+う～ん・・「おもしろい！」ですうっ！！(^^)<BR>この感性がほしぃいいいいいっ！！<BR>どんどん走ってくださいませ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ƃ���</strong>  <i>2001/07/14 07:46:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>とうま</strong>  <i>2001/07/14 07:46:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995064371btsoff&id2=991557404yxmrfl&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995064371btsoff_id2_991557404yxmrfl_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������q�g���b�N�y��I�B��肢�ł��ˁB��������Ђ��������Ă��܂��܂����B�ʔ��������ł��B
+おおっ叙述トリック炸裂！。上手いですね。すっかりひっかっかてしまいました。面白かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/07/14 21:24:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/07/14 21:24:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995113474yaiyrc&id2=991557404yxmrfl&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995113474yaiyrc_id2_991557404yxmrfl_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����B�[�i�X�X�[�c�ɂ̓}�X�N�����A�Ƃ����̂�����<BR>�Q�b�̔ނ��C�Łu�\��n�Ȕޏ��ɔ킹����v�ʔ������ƂɂȂ肻���B<BR><BR>�R�b�́u���삳��v�͂���ς蕁�ʂ̏��̎q��������ł��˂��B<BR>�����̂��̂̊i�D���C�ɂ��邠���肪�B
+＞ヴィーナススーツにはマスクだけ、というのもあり<BR>２話の彼が海で「暴れ馬な彼女に被せたら」面白いことになりそう。<BR><BR>３話の「お嬢さん」はやっぱり普通の女の子だったんですねえ。<BR>同性のものの格好を気にするあたりが。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/03172433/koromo4.htm" target="_blank">�ߑւ��S��ǂނɂ͂������N���b�N�B</a></strong>  <i>2001/08/01 21:40:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/03172433/koromo4.htm" target="_blank">衣替え４を読むにはここをクリック。</a></strong>  <i>2001/08/01 21:40:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996669606jnhbtbx&id2=991557404yxmrfl&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996669606jnhbtbx_id2_991557404yxmrfl_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�Z�Z�������~�~�������ŁA�����������������~�~�ɂȂ����Ƃ�����A�~�~�������ڂ��͂��������N�Ȃ񂾂낤�H<BR>�@�����K���̑�l�b�A�l���֌W����`���c�����Ă��ǂ݂��������B
+【推薦文】　〇〇だった××が△△で、☆☆だった△△が××になったとしたら、××だったぼくはいったい誰なんだろう？<BR>　混乱必至の第四話、人物関係をよ～く把握してお読みください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/08/01 21:56:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/08/01 21:56:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996670561ruxfwa&id2=991557404yxmrfl&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996670561ruxfwa_id2_991557404yxmrfl_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���Ђ�Ђ�Ђ�Ђ�Ђ�I<BR>����͌���I<BR>�����Ȃ��A����ւ��Ƒ��B<BR>�������A����A�����̊ԂɊe�l�̂P�N�Ԃ̏����������ă}�X�^�[���Ȃ��Ƃ����Ȃ���ł���˂��B����Ƃ����B�[�i�X�X�[�c�ɂ͂��̋@�\������̂��ȁB<BR>���N�̓����o�[���Q���i�{���j�����Ă܂��܂��y�����i��₱�����j�Ȃ肻���ł��ȁB
+読んだバイ♪<BR>うひゃひゃひゃひゃひゃ！<BR>これは傑作！<BR>いいなぁ、入れ替わり家族。<BR>しかし、これ、正月の間に各人の１年間の情報を交換してマスターしないといけないんですよねぇ。それともヴィーナススーツにはその機能もあるのかな。<BR>来年はメンバーが２名（＋α）増えてますます楽しく（ややこしく）なりそうですな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/08/01 23:16:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/08/01 23:16:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996675376ehqvps&id2=991557404yxmrfl&ff=on">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996675376ehqvps_id2_991557404yxmrfl_ff_on.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A�����W�S�Q�U����ɐ���z���ꂽ�i���j�B<BR>�Ȃ��Ȃ������܂����Ƒ��ł��ȁB�ł��A�����q�����Ɨ����āA�N���ɋA�Ȃł��Ȃ��Ȃ������ςł��ˁB<BR>�ǂ���珗���j�ɂȂ�̂����B�[�i�X�X�[�c�ƌĂԂ悤�ł��ˁB<BR>�ߑւ��̕ϐg���A�܂��܂��y���܂��Ă��������܂����B
+あっ、ｍｋ８４２６さんに先を越された（爆）。<BR>なかなかうらやましい家族ですな。でも、将来子供が独立して、年末に帰省できなくなったら大変ですね。<BR>どうやら女が男になるのもヴィーナススーツと呼ぶようですね。<BR>衣替えの変身劇、またまた楽しませていただきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2001/08/02 05:23:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2001/08/02 05:23:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996697433olyvcn&id2=991557404yxmrfl&ff=on">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996697433olyvcn_id2_991557404yxmrfl_ff_on.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Ȏ����o������l���ɖO�������Ȃ������ˁI�H<BR>�j�I�V���[�Y�������������I�I(^^)/
+こんな事が出来たら人生に飽きが来ないっすね！？<BR>祝！シリーズぅううううっ！！(^^)/
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/08/02 06:43:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/08/02 06:43:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996702233emwwajn&id2=991557404yxmrfl&ff=on">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996702233emwwajn_id2_991557404yxmrfl_ff_on.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U����A������������A��������ɂ���A���肪�Ƃ��������܂��B����Ȃ����������b�����ǂ݂����������肪�Ƃ��������܂��B<BR>�˂��l�߂�Ƃ��̃V���[�Y�A�ǂ��ǎ҂������ꂳ�����i�悭�܂�����Ȃ��قȎ��l����Ȃƌ��킹��΁A��҂̏����j���|�C���g�Ȃ̂ł���Șb�ɂȂ��Ă��܂��܂����B<BR>���ꂩ��ǂ��Ȃ�̂��낤�H���̉Ƒ��B�����낵���B�ł��A���̂��݁`�B
+ｍｋ８４２６さん、こうけいさん、たかしんにさん、ありがとうございます。こんなややっこしい話をお読みいただきありがとうございます。<BR>突き詰めるとこのシリーズ、どう読者をあきれさすか（よくまあこんなあほな事考えるなと言わせれば、作者の勝ち）がポイントなのでこんな話になってしまいました。<BR>これからどうなるのだろう？この家族。おそろしい。でも、たのしみ～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/08/02 07:48:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/08/02 07:48:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996706113stqbrb&id2=991557404yxmrfl&ff=on">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996706113stqbrb_id2_991557404yxmrfl_ff_on.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��݂܂����A<BR>��ȃA�C�f�A�Ŋy���߂܂���<BR>���N���Ă��ł��˂��̉Ƒ������܂����Ƃ������Ȃ�Ƃ�����<BR>�j�V���[�Y��<BR>�����Ɋ��҂ł�
+よみました、<BR>奇抜なアイデアで楽しめました<BR>毎年してるんですねこの家族うらやましいというかなんというか<BR>祝シリーズ化<BR>次回作に期待です
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/02 11:04:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/02 11:04:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996717859juqkg&id2=991557404yxmrfl&ff=on">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996717859juqkg_id2_991557404yxmrfl_ff_on.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƒ��~���̔錍�ł����B�Ȃ�قǖʔ����ł��B<BR>�w���ꂪ�䂪�Ƃ̔錍�ł��x�Ƃ����Ăs�u�Ɏ��グ���āA���󂵂����̂��w����͂����Ƃ����Ă��̂��̉ƒ�ł��ꂽ�肷��ƁA�Ⴂ�l�ِ͈��ƕt�������Ƃ��^�S�ËS�ɂȂ肻���ł��ˁB<BR>
+家族円満の秘訣ですか。なるほど面白いです。<BR>『これが我が家の秘訣です』といってＴＶに取り上げられて、崩壊しかけのが『これはいいといっておのおの家庭でやられたりすると、若い人は異性と付き合うとき疑心暗鬼になりそうですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>2001/08/03 01:47:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>2001/08/03 01:47:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996770836qwarolj&id2=991557404yxmrfl&ff=on">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996770836qwarolj_id2_991557404yxmrfl_ff_on.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���ɃV���[�Y�S�e�ł��ˁB<BR>�@�ĊO�ǂ��̉ƒ�ɂ��u�Ƒ������̃��[���v���Ă���C�����܂�����A�V�����Ƒ��ɂȂ����q�g�����N�́u���킹�Ăˁv���Ċ����ł��傤���B<BR>�@�g�ݍ��킹�����������Ƃ����̂����ɃX�������O�`�ł��ˁi�΁j�B
+　ついにシリーズ４弾ですね。<BR>　案外どこの家庭にも「家族だけのルール」ってある気がしますから、新しく家族になったヒトも来年は「合わせてね」って感じでしょうか。<BR>　組み合わせがくじ引きというのが特にスリリング～ですね（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2001/08/15 12:47:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2001/08/15 12:47:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997847273oihud&id2=991557404yxmrfl&ff=on">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997847273oihud_id2_991557404yxmrfl_ff_on.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�ߑւ��S�z<BR>�E�E�E�����A�܂��������Ă���܂��B<BR><BR>�������A����͌����ȃA�C�f�A�ł��ˁB<BR>���̌㗈���l���J�n�q�\�E�i�L���X���K�E�E�E
+【衣替え４】<BR>・・・正直、まだ混乱しております。<BR><BR>しかし、これは見事なアイデアですね。<BR>その後来る二人がカハヒソウナキモスルガ・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2001/08/16 01:23:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2001/08/16 01:23:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=997892633ssyem&id2=991557404yxmrfl&ff=on">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_997892633ssyem_id2_991557404yxmrfl_ff_on.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ђ��������B���A�����������B<BR>��������ƗR�󂿂��A�C�̓ł�����B<BR>�Ƒ��̂�������ɐU��񂳂��A<BR>���薹�Ƌ���͂炢�ł��˂��B<BR><BR>
+ひぃぃぃぃ。こ、こえぇっす。<BR>昭道さんと由希ちゃん、気の毒すぎる。<BR>家族のしきたりに振り回される、<BR>入り婿と居候はつらいですねえ。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2002/02/17 16:20:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2002/02/17 16:20:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1013930402qkues&id2=991557404yxmrfl&ff=on">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1013930402qkues_id2_991557404yxmrfl_ff_on.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�ߑւ��S�z<BR>�r�[�i�X�E�X�[�c������΁A��ƒc�R���`<BR>�������A�Ȃ肽���l���΂肻���E�E�E�E<BR>���˂��`�����l�C�Ƃ��E�E�E�E�E<BR>
+【衣替え４】<BR>ビーナス・スーツがあれば、一家団欒だ～<BR>しかし、なりたい人が偏りそう・・・・<BR>おねぇ～さん大人気とか・・・・・<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="991557404yxmrfl">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

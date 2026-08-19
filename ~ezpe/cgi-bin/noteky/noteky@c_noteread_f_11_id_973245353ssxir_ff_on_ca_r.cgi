@@ -1,111 +1,111 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=973245353ssxir&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_973245353ssxir_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
 <font size="+2" color="#0000FF">Xrevenge</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2000/11/03 18:55:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2000/11/03 18:55:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973245353ssxir&id2=973245353ssxir&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973245353ssxir_id2_973245353ssxir_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z ���ꂩ���N�c�c�Ăюn�܂�l�́w���̎q�x�Ƃ��Ă̓��X�B
+【あらすじ】 あれから一年……再び始まる僕の『女の子』としての日々。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="yays@geocities.co.jp" target="_blank">���d�F</a></strong>  <i>2000/11/03 20:08:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="yays@geocities.co.jp" target="_blank">八重洲</a></strong>  <i>2000/11/03 20:08:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973249734irpvw&id2=973245353ssxir&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973249734irpvw_id2_973245353ssxir_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�i�\�Y������ɏo�������[���̈ꕔ�ł����ǁj<BR><BR>���̑��݂œǂ܂��܂��ˁB����ł��ėL��Ƃ̃��u�R�����������ĂĂ������n�b<BR>�s�[�G���h�ɂȂ��Ă�Ȃ�āA�f���炵���\���͂ƕM�͂̎����ł���B<BR>���������āA����̎��ƗʂɈ��|����܂����B�ł��̂������ƍ�i��ǂ񂾂Ƃ�<BR>�Ɠ����[�������ǌ㊴������܂����B<BR>���ꂾ���̑��������������\�Y������𑸌h���܂��B
+（十郎太さんに出したメールの一部ですけど）<BR><BR>晶の存在で読ませますね。それでいて有希とのラブコメが成立しててしかもハッ<BR>ピーエンドになってるなんて、素晴らしい構成力と筆力の賜物ですよ。<BR>正直言って、物語の質と量に圧倒されました。できのいい商業作品を読んだとき<BR>と同じ充実した読後感がありました。<BR>これだけの大作を完成させた十郎太さんを尊敬します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">�S�[���h�A�[��</a></strong>  <i>2000/11/04 03:37:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mbd.nifty.com" target="_blank">ゴールドアーム</a></strong>  <i>2000/11/04 03:37:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973276643ylwwmf&id2=973245353ssxir&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973276643ylwwmf_id2_973245353ssxir_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�߂�����ʔ��������ł��B<BR>�ꌾ�u����J�l�ł����v�B<BR>���ꂾ���̂��̂������̂͑�ς������Ǝv���܂��B<BR>�����ɂ܂���A���N�������ɂ��\�����i���a���������Ƃ��������v���܂��B
+めっちゃ面白かったです。<BR>一言「ご苦労様でした」。<BR>これだけのものを書くのは大変だったと思います。<BR>ここにまた一つ、少年少女文庫を代表する作品が誕生したことを嬉しく思います。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���J�H�v</strong>  <i>2000/11/05 07:58:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>水谷秋夫</strong>  <i>2000/11/05 07:58:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973378693vbwgnl&id2=973245353ssxir&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973378693vbwgnl_id2_973245353ssxir_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ƗL��̊|���������▭�ł����B<BR>��쎷�M�A����ꂳ�܂ł��B<BR><BR>����ɂ��Ă��A�����̍�i�Ɩ��ȂƂ��낪���v����̂ŕs�v�c�ȋC�����ɂȂ�܂����B�u�j�̎q�̎��̎v���o�̏ꏊ�v���Ȃ������V���n�H
+水城と有希の掛け合いが絶妙でした。<BR>大作執筆、お疲れさまです。<BR><BR>それにしても、自分の作品と妙なところが合致するので不思議な気持ちになりました。「男の子の時の思い出の場所」がなぜ同じ遊園地？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/11/08 00:31:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">猫野　丸太丸</a></strong>  <i>2000/11/08 00:31:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973611103scsmhbm&id2=973245353ssxir&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973611103scsmhbm_id2_973245353ssxir_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�L��͉��₩�ɂ͓ǂ߂܂���ł����B�̗͎g���ʂ����܂����B��P�b�Řb�Ɉ������肱�܂�܂�������B��͂菭�N�������ɂ̌����̃e�[�}�𐳖ʂ���Ƃ炦�Ă܂��ˁA�u�ǂ�ȏ��̎q�ɂȂ肽�����v�̓����A�m���ɒ����܂������B<BR>�@�����m��Ȃ��Ă��\���y���߂܂��̂ŁAxchange�Ƃ����Ȑl���ǂނƂ��������B�ق�ƂɁA���������O�삩���1�N���A�\�Y������͂ǂ�ȏC�s������Ă����̂ł��傤���H<BR>�@�Ō�ɁB�������A���������I�I
+　猫野は穏やかには読めませんでした。体力使い果たしました。第１話で話に引きずりこまれましたから。やはり少年少女文庫の原初のテーマを正面からとらえてますね、「どんな女の子になりたいか」の答え、確かに頂きましたぜ。<BR>　原作を知らなくても十分楽しめますので、xchangeとか苦手な人も読むといいかも。ほんとに、いったい前作からの1年半、十郎太さんはどんな修行をされていたのでしょうか？<BR>　最後に。晶ちゃん、可愛すぎっ！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�\�Y��</strong>  <i>2000/11/10 23:14:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>十郎太</strong>  <i>2000/11/10 23:14:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973865678npcha&id2=973245353ssxir&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973865678npcha_id2_973245353ssxir_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�S�[���h�A�[������A���J�H�v����A�L��@�ۑ��ۂ���ցB<BR><BR>����Ȓ������鏬�����Ō�܂œǂ񂾏�ɁA���z�܂Ŋ񂹂Ă��������āA�{���ɂ��肪�Ƃ��������܂��B<BR>�w�w���������������x�́A���̗~�]���l�ߍ��߂邾���l�ߍ��񂾂��߂ɁA�������܂Œ����Ȃ��Ă��܂��܂����B<BR>�����Ď��ɂƂ��Ă͐�����L��������A�����̗~�]��̌������L�����N�^�[�Ȃ̂ł��B<BR>���������~�]�ۏo���ȏ����ɋ������Ă��ꂽ�l�B�������Ƃ��������ŁA���͊������v���܂��B<BR><BR>�o�E�r�@���J�����<BR>���u�j�̎q�̎��̎v���o�̏ꏊ�v���Ȃ������V���n�H <BR>���̕����Ɋւ��ẮA���炭�������J����Ɠ�����i����e�����󂯂��̂����m��܂���B<BR>�����āw�݂Âق̋�x����p�N�����킯�ł͂Ȃ��̂ň������炸�i�O�O�G
+ゴールドアームさん、水谷秋夫さん、猫野　丸太丸さんへ。<BR><BR>あんな長すぎる小説を最後まで読んだ上に、感想まで寄せていただいて、本当にありがとうございます。<BR>『Ｘｒｅｖｅｎｇｅ』は、私の欲望を詰め込めるだけ詰め込んだために、あそこまで長くなってしまいました。<BR>そして私にとっては水城も有希も晶も、自分の欲望を体現したキャラクターなのです。<BR>そういう欲望丸出しな小説に共感してくれた人達がいたというだけで、私は嬉しく思います。<BR><BR>Ｐ・Ｓ　水谷さんへ<BR>＞「男の子の時の思い出の場所」がなぜ同じ遊園地？ <BR>この部分に関しては、恐らく私も水谷さんと同じ作品から影響を受けたのかも知れません。<BR>決して『みづほの駒音』からパクったわけではないので悪しからず（＾＾；
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2001/01/06 11:38:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>わら</strong>  <i>2001/01/06 11:38:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=978748705eaohd&id2=973245353ssxir&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_978748705eaohd_id2_973245353ssxir_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ђӂ�
+ひふぬ
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="973245353ssxir">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

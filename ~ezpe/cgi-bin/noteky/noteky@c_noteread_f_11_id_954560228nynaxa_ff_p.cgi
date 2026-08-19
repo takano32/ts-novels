@@ -1,196 +1,196 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=954560228nynaxa&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_954560228nynaxa_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�o�[�W���E�f�C�Y</font><br>
+<font size="+2" color="#0000FF">バージン・デイズ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/vergin_days.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/04/01 12:37:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/vergin_days.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/04/01 12:37:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=954560228nynaxa&id2=954560228nynaxa&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_954560228nynaxa_id2_954560228nynaxa_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �u�O�[��������v�̈₵���s�v�c�Ȗ{�̗͂ŁA�Ĉ�͏��̎q�ւƕς���Ă����܂��B���̎q�Ƃ��Đ����邱�ƂɂȂ����Ĉ�^���ނ̐S�̗h��������J���ɕ`������i�ł��B
+【推薦文】 「グーおじさん」の遺した不思議な本の力で、翔一は女の子へと変わっていきます。女の子として生きることになった翔一／麻奈の心の揺れをリリカルに描いた作品です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ɏ���</strong>  <i>2000/04/09 18:07:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>愛に死す</strong>  <i>2000/04/09 18:07:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=955271247ayltebo&id2=954560228nynaxa&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_955271247ayltebo_id2_954560228nynaxa_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����܂������̗͂ʂɈ��|�����v���ł����B���ꂩ����l�X�ȕ��������Ă����Ă��������B�y���݂ɂ��Ă��܂��B
+すさまじい文章の量に圧倒される思いでした。これからも様々な物を書いていってください。楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">bustier</a></strong>  <i>2000/04/12 08:49:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=955496954gprlqui&id2=954560228nynaxa&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_955496954gprlqui_id2_954560228nynaxa_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ɏ����@����B�@��܂��̂����t�A���肪�Ƃ��������܂����B
+愛に死す　さん。　励ましのお言葉、ありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�_�y��D��</strong>  <i>2000/05/19 19:00:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>神楽坂優美</strong>  <i>2000/05/19 19:00:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=958730431tetdmf&id2=954560228nynaxa&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_958730431tetdmf_id2_954560228nynaxa_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ƒ������ǂ݂���
+もっと続きが読みたい
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:margo@mve.biglobe.ne.jp" target="_blank">bustier</a></strong>  <i>2000/05/25 14:57:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=959234257vdcclmj&id2=954560228nynaxa&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_959234257vdcclmj_id2_954560228nynaxa_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�y��D���l<BR>���������M���ł��B���������҂��Ă��������ˁB
+神楽坂優美様<BR>続きを執筆中です。もう少し待ってくださいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>ouma</strong>  <i>2000/06/05 01:29:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=960136155krudvbo&id2=954560228nynaxa&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_960136155krudvbo_id2_954560228nynaxa_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������낢�ł��B�O�A�����Ƃ��͏I��肪������ƒ��r���Ċ��������܂������A����̉����ł͂ƂĂ��ǂ������ł��B�����Ɋ��҂��Ă܂��B
+おもしろいです。前、見たときは終わりがちょっと中途って感じがしましたが、今回の改訂版はとても良かったです。続きに期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�T�O�T</strong>  <i>2000/06/23 02:48:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>５０５</strong>  <i>2000/06/23 02:48:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=961696133npxfgp&id2=954560228nynaxa&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_961696133npxfgp_id2_954560228nynaxa_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾂�[���҂��ˁD���N�����ɂ��ď����Ă��������炠��[���Ďv�������ǂ킩������B�����Ɠǂ݂ā[
+読んだよー長編だね．少年が女にって書いてあったからあれーって思ったけどわかったよ。もっと読みてー
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>2000/07/17 00:33:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>こぎと</strong>  <i>2000/07/17 00:33:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=963761601uwcsyp&id2=954560228nynaxa&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_963761601uwcsyp_id2_954560228nynaxa_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ƁA�I�n�c�����`���\�O�ɍ�i�̕��͊ς����Ă��������܂����B���z�x���Ȃ��Ă��߂�ł�m(_._)m<BR>�������낢�����A���킢���ł��A���̑����X���X�B<BR>����܂肽���������z������ŃX�}��.......���X�A���ꂪ�C�b�p�C�~�Q�ł��́B�X���}�Z��<BR>���ꂩ�������΂��ĉ������ł��A���҂��Ă܂��B<BR>�ł͂ł͍Č��I<BR>
+えっと、オハツっす～結構前に作品の方は観させていただきました。感想遅くなってごめんですm(_._)m<BR>おもしろいっす、かわいいです、その他諸々っス。<BR>あんまりたいした感想書けんでスマン.......っス、これがイッパイ×２ですの。スンマセン<BR>これからもがんばって下さいです、期待してます。<BR>ではでは再見！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2000/10/22 23:17:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2000/10/22 23:17:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972224222roelo&id2=954560228nynaxa&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972224222roelo_id2_954560228nynaxa_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ϐg���Ă�����ʂł��Ĉ�̒ɂ����S�ɓ`����Ă��āA<BR>�v�킸���x���ǂݕԂ��Ă��܂��܂����B<BR>���Б��҂�ǂ�ł݂����ł��B
+変身していく場面での翔一の痛さが心に伝わってきて、<BR>思わず何度も読み返してしまいました。<BR>ぜひ続編を読んでみたいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2000/10/28 13:23:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あこ</strong>  <i>2000/10/28 13:23:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972707001carqcm&id2=954560228nynaxa&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972707001carqcm_id2_954560228nynaxa_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ł��B<BR>�q�������Ă��������܂����I<BR><BR>�`���́A�o��l���̏Љ�邠����́A�ǂݐh�������ł��B<BR>�P�䂭��́A�o�ꂵ�Ȃ��Ă��A�����񂶂�Ȃ��H�@�@�n�߂ɂłĂ��邵�A�킴�킴��b�̂Ȃ��ɂ��A�P��N�̖��O������̂ŁA�o�����̂ɁA�����ς�o�Ԃ��łĂ��Ȃ��B�@<BR>�����ƁA�V���v���ɂ��Ă݂ẮH<BR><BR>�����ǂ�ł��Ċy���������̂́A�������̏�ʁB�@����I�Ԋy���������Ă���B�@�����C�ŋ��������ʂƂ��A�}�}�̃l�O���W�F��p���e�B���؂���ʂƂ��A�������������B<BR><BR>�����I�@�������I�Ǝv�����̂́A�s�v�c�Ȗ{��ǂ�ł��āA5���̊G���j�����珗���ɕς���Ă�����ʁB�@���̂Ȃ��ŁA�u�_�r�f���r�[�i�X�ɕς��v�Ƃ����\�����A��̓I�Ŗ{���ɂ悩�����B�@�ڂ̑O�ɐ��������Ǝv�������񂾁B�@�ڂ��肵���{�̃C���[�W���������ǁA���̕�������ԕ�����₷�������B�@�\�����@���������I���āA�v������B<BR><BR>���b�͏I�������������ǁA���̖{�͍Ō�ɂǂ�����́H�@�l�o�[�G���f�B���O�E�X�g�[���[�݂����Ȉ�ۂ��󂯂������ł����B�@<BR><BR>����ł́A���肪�Ƃ��������܂����B�@
+あこです。<BR>拝見させていただきました！<BR><BR>冒頭の、登場人物の紹介するあたりは、読み辛かったです。<BR>臼井くんは、登場しなくても、いいんじゃない？　　始めにでてくるし、わざわざ会話のなかにも、臼井君の名前があるので、覚えたのに、さっぱり出番がでてこない。　<BR>もっと、シンプルにしてみては？<BR><BR>私が読んでいて楽しかったのは、買い物の場面。　服を選ぶ楽しさが溢れている。　お風呂で鏡を見る場面とか、ママのネグリジェやパンティを借りる場面とか、興味があった。<BR><BR>おぉ！　すごい！と思ったのは、不思議な本を読んでいて、5枚の絵が男性から女性に変わっていく場面。　そのなかで、「ダビデがビーナスに変わる」という表現が、具体的で本当によかった。　目の前に生き生きと思い浮かんだ。　ぼんやりした本のイメージだったけど、この部分が一番分かりやすかった。　表現方法が見事だ！って、思ったよ。<BR><BR>お話は終わっちゃったけど、その本は最後にどうするの？　ネバーエンディング・ストーリーみたいな印象を受けた小説でした。　<BR><BR>それでは、ありがとうございました。　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/virgin_days.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/10/31 03:03:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/virgin_days.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/10/31 03:03:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972929019uumcv&id2=954560228nynaxa&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972929019uumcv_id2_954560228nynaxa_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�i�^�c�ψ�����j<BR>�x�[�X�m�[�g�ɂ���u�������N���b�N�v�̓����N�؂ꂵ�Ă��܂��B<BR>�������́A�ȉ���URL���Q�Ƃ���ƁA��i�����邱�Ƃ��o���܂��B<BR><BR><a href="http://www14.big.or.jp/~yays/library/novel/virgin_days.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/virgin_days.html</a>
+（運営委員会より）<BR>ベースノートにある「ここをクリック」はリンク切れしています。<BR>正しくは、以下のURLを参照すると、作品を見ることが出来ます。<BR><BR><a href="../../../novel/virgin_days.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/virgin_days.html</a>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ۂ񂿂��</strong>  <i>2001/09/01 01:08:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ぽんちゃん</strong>  <i>2001/09/01 01:08:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999274117fikuwp&id2=954560228nynaxa&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999274117fikuwp_id2_954560228nynaxa_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���b�A�������ǁA�����ȏ�ʁA�ʔ����Ǝv���܂��B<BR>��l���̂��炾�̕ω��A�S�̕ω��A�ʔ����ł��B<BR>���̂������A�����Ƃ����Ԃɓǂ߂܂����B<BR>����A�r���ŏI����Ă��銴�������܂��B<BR>�����A���������ė~�����ł��B
+お話、長いけど、いろんな場面、面白いと思います。<BR>主人公のからだの変化、心の変化、面白いです。<BR>そのせいか、あっという間に読めました。<BR>物語、途中で終わっている感じがします。<BR>続き、早く書いて欲しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/11/08 02:37:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>龍夜</strong>  <i>2001/11/08 02:37:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005154640cvclynw&id2=954560228nynaxa&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005154640cvclynw_id2_954560228nynaxa_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������납�����ł��B<BR>��C�ɓǂ݂����Ă��܂����炢�ɖʔ��������ł��B<BR>��������������Ȃ�ǂ݂����ł��B
+おもしろかったです。<BR>一気に読みきってしまうくらいに面白かったです。<BR>もし続きがあるなら読みたいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:marsh@forest.memail.jp" target="_blank">��ҁi�}�R�����j</a></strong>  <i>2001/11/28 16:38:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:marsh@forest.memail.jp" target="_blank">作者（マコリン）</a></strong>  <i>2001/11/28 16:38:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1006933135paeymlq&id2=954560228nynaxa&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1006933135paeymlq_id2_954560228nynaxa_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���邳��<BR>�y����ł��������āA�ƂĂ����ꂵ���ł��B<BR>�w�o�[�W���E�f�C�Y�x�Ƃ����^�C�g�����A�C�ɓ���Ȃ��̂ł����A�v�����Ȃ��āE�E�E<BR>�Ȃ񂩁A�����^�C�g���v�����ꂽ���A�����Ă��������B<BR><BR>�s���Ɏ����t���񂪁A<BR>&gt;�@�����܂������̗͂ʂɈ��|�����v���ł����B<BR>�Ə����Ă���Ă��܂��B<BR>�����āA���邳��<BR>&gt; ��C�ɓǂ݂����Ă��܂����炢�ɖʔ��������ł��B<BR>�Ə����Ă��ꂽ�̂ŁA�ق�ƂɊ������āA���܂�܂���B<BR>���d�F���񂪁A���E����<BR>&gt; ���̎q�Ƃ��Đ����邱�ƂɂȂ����Ĉ�^���ނ̐S�̗h��������J���ɕ`������i<BR>�Ƃ����\���ɁA�����M���Ȃ�܂����B<BR>�s�����J���t�Ƃ������t�ɂт����肵�A�����Ă҂����肾�Ǝv���܂����B<BR>�����Ă���ԁA�����ƋC�������g���Ă��܂����B<BR>����́A�s�����J���t�Ȃ��̂��������Ƃ����C���������Ǝv���܂��B<BR><BR>������������̃R�����g<BR>&gt; �ϐg���Ă�����ʂł��Ĉ�̒ɂ����S�ɓ`����Ă��āA�v�킸���x���ǂݕԂ��Ă��܂��܂����B<BR>�ɂ́A���邤�邵�Ă��܂��܂����B<BR>�����āA��������A�A�h�o�C�X�A���肪�Ƃ��������܂��B<BR>���ꂩ��A�R�����g�������Ă��������������^�C�A���肪�Ƃ��������܂��B
+龍夜さま<BR>楽しんでいただけて、とてもうれしいです。<BR>『バージン・デイズ』というタイトルが、気に入らないのですが、思いつかなくて・・・<BR>なんか、いいタイトル思いつかれた方、教えてください。<BR><BR>《愛に死す》さんが、<BR>&gt;　すさまじい文章の量に圧倒される思いでした。<BR>と書いてくれています。<BR>そして、龍夜さんが<BR>&gt; 一気に読みきってしまうくらいに面白かったです。<BR>と書いてくれたので、ほんとに嬉しくて、たまりません。<BR>八重洲さんが、推薦文に<BR>&gt; 女の子として生きることになった翔一／麻奈の心の揺れをリリカルに描いた作品<BR>という表現に、胸が熱くなりました。<BR>《リリカル》という言葉にびっくりし、そしてぴったりだと思いました。<BR>書いている間、ずっと気分が高揚していました。<BR>それは、《リリカル》なものを書こうという気分だったと思います。<BR><BR>こうけいさんのコメント<BR>&gt; 変身していく場面での翔一の痛さが心に伝わってきて、思わず何度も読み返してしまいました。<BR>には、うるうるしてしまいました。<BR>そして、あこさん、アドバイス、ありがとうございます。<BR>それから、コメントを書いてくださったかたタイ、ありがとうございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�S�[���f�����C�I��</strong>  <i>2002/04/20 00:45:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ゴールデンライオン</strong>  <i>2002/04/20 00:45:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1019231143vvcbcpe&id2=954560228nynaxa&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1019231143vvcbcpe_id2_954560228nynaxa_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ꂩ��ǂ�ȕ��ɖ��ނ��ς���Ă����̂��y���݂ł��B
+これからどんな風に麻奈が変わっていくのか楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ւ񂯂�</strong>  <i>2002/05/10 22:37:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>へんけん</strong>  <i>2002/05/10 22:37:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1021037880bdswvfd&id2=954560228nynaxa&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1021037880bdswvfd_id2_954560228nynaxa_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������납�����ł��A���������ɕϐg�������Ə��N���ォ��v���Ă��܂�������A�����܂����ł��B
+おもしろかったです、自分も女に変身したいと少年時代から思っていましたから、うらやましいです。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="954560228nynaxa">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

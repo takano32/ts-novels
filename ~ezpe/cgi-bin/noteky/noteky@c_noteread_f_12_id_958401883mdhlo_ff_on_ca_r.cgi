@@ -1,23 +1,23 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#3/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#3/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=12&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_12_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=12&id=958401883mdhlo&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">�I�����C����i#3</a>]<br>
+[<a href="noteky@c_noteread_f_12_id_958401883mdhlo_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">オンライン作品#3</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����]���q</font><br>
+<font size="+2" color="#0000FF">月下転生Ｒ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>2000/05/15 23:44:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>2000/05/15 23:44:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=958401883mdhlo&id2=958401883mdhlo&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_958401883mdhlo_id2_958401883mdhlo_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING
@@ -25,147 +25,147 @@ NOW PRINTING
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mx5.nisiq.net" target="_blank">�S�[���h�A�[��</a></strong>  <i>2000/05/17 22:06:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mx5.nisiq.net" target="_blank">ゴールドアーム</a></strong>  <i>2000/05/17 22:06:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=958568761udtfvg&id2=958401883mdhlo&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_958568761udtfvg_id2_958401883mdhlo_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�z���[�Ƃ͌����Ă��邯�ǁA�Ȃ񂩖��ɖG����c�c�Ƃ������R���郂�m������܂��B�n��ӗ~���h�������ł���ˁB<BR>�@���̉����щ��͂���ɂ��悤���ȁB
+　ホラーとは言っているけど、なんか妙に萌える……というか燃えるモノがあります。創作意欲を刺激するんですよね。<BR>　次の縁結び屋はこれにしようかな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l</strong>  <i>2000/05/18 01:56:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｍ</strong>  <i>2000/05/18 01:56:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=958582597wlvwc&id2=958401883mdhlo&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_958582597wlvwc_id2_958401883mdhlo_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�j�̔��E��������������E�E�E�E�E�O�b�Ɨ�����̂�����܂��ˁB�E��n�́B�Ⴆ�ΊO���ɂ͕��}�ȉƑ��Ɍ����邪�A���͏��΂���̓��������Ƃ��ƌ����̂����肻���ł��ˁB<BR>�p����̉敗������̓��A���ɂȂ��Ă܂����ǁA�����͂������̕����D���Ȃ��B
+男の皮を脱いだら美少女が・・・・・グッと来るものがありますね。脱皮系は。例えば外見には平凡な家族に見えるが、実は女ばかりの同居生活とかと言うのもありそうですね。<BR>角さんの画風も今回はリアルになってますけど、自分はこっちの方が好いなぁ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/05/20 18:07:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/05/20 18:07:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=958813627aeyoft&id2=958401883mdhlo&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_958813627aeyoft_id2_958401883mdhlo_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�{���̍����̒E��͌��\���X�������̂�����܂������<BR>�i��̊ώ@���L��t�����L������j<BR>�������́u�j�̔��E�����V�g�v�A�Ȃ��Ȃ��O�[�ł��B<BR>
+本物の昆虫の脱皮は結構生々しいものがありますけれど<BR>（蛾の観察日記を付けた記憶あり）<BR>こっちの「男の皮を脱いだ天使」、なかなかグーです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2000/05/21 22:14:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2000/05/21 22:14:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=958914863fjigq&id2=958401883mdhlo&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_958914863fjigq_id2_958401883mdhlo_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F����A���肪�Ƃ��������܂��I�I<BR><BR>�S�[���h�A�[������<BR>�܂ف[�̃��{���Ɉ��������A���b�����Ă��ꂽ��������ł��I�I<BR><BR>�l����<BR>���p����̉敗������̓��A���ɂȂ��Ă܂����ǁA�����͂������̕����D���Ȃ��B <BR>�̂��A�����A�F�X���s���낪�����Ă��܂��E�E�E�E<BR>�@���ڂ�ȕ��ŁA�蔲���̃e�N�j�b�N�΂���o���Ă��܂��āA�����Ă��܂��B<BR>���ꂩ����A�F�X���܂����i����ɗ�����₷���̂ŁE�E�E�j��낵�����肢���܂��B<BR><BR>���Ȃ���<BR>�ϐg�A����ւ��A�߈ˁA�F�X����܂����A�E��n�͖����������Ǝv���`���܂����B<BR>�ŋ߁A�G�X�e�̂b�l�ł��������̂���܂������ǁA�̂��瓪�̋��ɁA�j�̒�����ݒE�����珗�̎q���o�Ă�����Ă̂���������ł���B<BR>����ŁA�ǂ����Ȃ�C���p�N�g������悤�ɕ`���Ă݂܂����B<BR>�i���̂��炢���Ȃ���A�ŋ߂͂���Ă����Ȃ��ł���E�E�E�E�݂Ȃ����肢��Łj<BR><BR>�@�ł́A���b�����v�������񂾂��낵�����肢���܂��I�I<BR>���łɁA�Â�������������ɂ͂��܂�E�P���������A�h�}�W�ł���I�h����낵���I�I<BR>�@�킴�킴�A�����܂ōs�����̂ɁE�E�E�E�i�܁j
+皆さん、ありがとうございます！！<BR><BR>ゴールドアームさん<BR>まほーのリボンに引き続き、お話書いてくれたら嬉しいです！！<BR><BR>Ｍさん<BR>＞角さんの画風も今回はリアルになってますけど、自分はこっちの方が好いなぁ。 <BR>昔も、今も、色々試行錯誤が続いています・・・・<BR>　ずぼらな物で、手抜きのテクニックばかり覚えてしまって、困っています。<BR>これからも、色々やりますが（周りに流されやすいので・・・）よろしくお願いします。<BR><BR>すなさん<BR>変身、入れ替わり、憑依、色々ありますが、脱皮系は無かったかと思い描きました。<BR>最近、エステのＣＭでこういうのありましたけど、昔から頭の隅に、男の着ぐるみ脱いだら女の子が出てくるってのがあったんですよ。<BR>それで、どうせならインパクトがあるように描いてみました。<BR>（このぐらいやらなきゃ、最近はやっていけないですよ・・・・みなさん上手いんで）<BR><BR>　では、お話何か思い浮かんだらよろしくお願いします！！<BR>ついでに、凝った事やった割にはあまりウケ無かった、”マジですよ！”もよろしく！！<BR>　わざわざ、尾道まで行ったのに・・・・（涙）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2000/07/02 20:38:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2000/07/02 20:38:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=962537889cycso&id2=958401883mdhlo&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_962537889cycso_id2_958401883mdhlo_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����]��RX �ւ̃R�����g�z <BR>�����A�ʔ�����i�������Ă����������肪�Ƃ��������܂��B<BR>���o����̐��i���ō��ł��ˁI�I<BR>����w�i�́A���S�ȃz���[�Ȃ̂ɁA���o����̐��i�̂������ŁA���`�����`�����邭�Ȃ��Ă��Ċy���������ł��B<BR>�܂��ɁA�z���[�R���f�B�[�Ƃ����ɑ���������i�ł����B
+【月下転生RX へのコメント】 <BR>いつも、面白い作品を書いていただきありがとうございます。<BR>お姉さんの性格が最高ですね！！<BR>舞台背景は、完全なホラーなのに、お姉さんの性格のおかげで、メチャメチャ明るくなっていて楽しかったです。<BR>まさに、ホラーコメディーというに相応しい作品でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������</strong>  <i>2000/07/03 02:34:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>もぐりん</strong>  <i>2000/07/03 02:34:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=962559294xayusy&id2=958401883mdhlo&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_962559294xayusy_id2_958401883mdhlo_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ۑ��ۂ���̃X�g�[���[�ʔ��������ł��B<BR>�ۑ��ۂ���̍�i�͂����L�����N�^�[�������Ă܂��ˁB<BR>�P�b�݂̂ŏI��点�Ă��܂��̂͐ɂ����C�����܂��B<BR>�������ǂ݂����Ȃ��Ă��܂��܂����B
+丸太丸さんのストーリー面白かったです。<BR>丸太丸さんの作品はいつもキャラクターが活きてますね。<BR>１話のみで終わらせてしまうのは惜しい気がします。<BR>続きが読みたくなってしまいました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�b��������</strong>  <i>2000/07/03 23:08:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｃｉｎｄｙ</strong>  <i>2000/07/03 23:08:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=962633322wvjxo&id2=958401883mdhlo&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_962633322wvjxo_id2_958401883mdhlo_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����]��RX �ւ̃R�����g�z<BR>�Ȃ񂾂��ʔ��������ł��B<BR>�����͕��󂵂Ă�̂ɁA����͕��󂵂ĂȂ����Ă�`�̂��y�����ł��B
+【月下転生RX へのコメント】<BR>なんだか面白かったです。<BR>現実は崩壊してるのに、日常は崩壊してないってゆ～のが楽しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/07/07 23:10:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">猫野　丸太丸</a></strong>  <i>2000/07/07 23:10:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=962979044rhxmv&id2=958401883mdhlo&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_962979044rhxmv_id2_958401883mdhlo_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���z���肪�Ƃ��������܂��B<BR>�p����F�����炱���A�����C���[�W���ӂ��G�����肪�Ƃ��ł��B<BR>�@����R���f�B�f��u�S�[�X�g�o�X�^�[�Y�v�ĉ����Ă܂����H�@�L��̑�D���ȍ�i�ł��B<BR>������񂳂�F�������肪�Ƃ��������܂��I�@�ށX���A�D���Ȃ�ł����ǂˁB���Ԃ񂱂�Ŋ����ł��B�u�����]���R�v�����ꏑ���ꂽ��A���̂Ƃ��͐V���Ȃ钧�킳���Ă��炢�܂����B<BR>�b������������F�͂��߂܂��āB�J���t���ȃC���X�g�̂b������������ł��ˁI�@����ǂ̌f�ڑ҂���i�A�y���݂ɂ��Ă܂��B<BR>�@�������͕��󂵂Ă�̂ɁA����͕��󂵂ĂȂ�<BR>�@�t�@���^�W�[�Ȃ�f�R���������̂��D���Ȃ���ŁB�܂��߂Ɏ����Ȃ񂩏����Ă���z��������A���̂��Ƃɂڂ����Ɓu����ɂ��Ă�����̓J�[���v���Č����Ă�肽���Ȃ�B
+　感想ありがとうございます。<BR>角さん：こちらこそ、いつもイメージあふれる絵をありがとうです。<BR>　名作コメディ映画「ゴーストバスターズ」て憶えてますか？　猫野の大好きな作品です。<BR>もぐりんさん：いつもありがとうございます！　奈々美、好きなんですけどね。たぶんこれで完結です。「月下転生３」が万一書かれたら、そのときは新たなる挑戦させてもらいまっす。<BR>Ｃｉｎｄｙさん：はじめまして。カラフルなイラストのＣｉｎｄｙさんですね！　こんどの掲載待ち作品、楽しみにしてます。<BR>　＞現実は崩壊してるのに、日常は崩壊してない<BR>　ファンタジーなら断然こういうのが好きなもんで。まじめに呪文なんか唱えている奴がいたら、そのあとにぼそっと「それにつけてもおやつはカール」って言ってやりたくなり。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>youma</strong>  <i>2000/12/03 08:41:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=975800478pjydc&id2=958401883mdhlo&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_975800478pjydc_id2_958401883mdhlo_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����]��RX �ւ̃R�����g�z <BR>��݂܂����B�@�J�u�����̂Ƃ͑z�����ĂȂ����������B<BR>����,�y���݂܂�����B
+【月下転生RX へのコメント】 <BR>よみました。　カブリものとは想像してなかったっす。<BR>いや,楽しみました♪。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/12/08 23:41:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www1.odn.ne.jp/gnekono/" target="_blank">猫野　丸太丸</a></strong>  <i>2000/12/08 23:41:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=976286495javisup&id2=958401883mdhlo&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_976286495javisup_id2_958401883mdhlo_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�Ђ����Ԃ芴�z���i���ꂵ���j�B<BR>youma����F<BR>�@���肪�Ƃ��������܂��I�@�z���𗠐؂�܂������H<BR>�@���N�������ɂ̂ق��ɁA��̗\���ǂ���S�[���h�A�[������̍�i���f�ڂ���܂�����A�ǂ�ł��������ˁI
+あ、ひさしぶり感想だ（うれしい）。<BR>youmaさん：<BR>　ありがとうございます！　想像を裏切れましたか？<BR>　少年少女文庫のほうに、上の予告どおりゴールドアームさんの作品が掲載されますから、読んでくださいね！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���[��</strong>  <i>2001/04/28 15:42:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>美夕希</strong>  <i>2001/04/28 15:42:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=988440178fyxmo&id2=958401883mdhlo&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_988440178fyxmo_id2_958401883mdhlo_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�����]��RX �ւ̃R�����g�z <BR>�͂��߂܂��ā�<BR>�Ȃ񂩃G�C���A���Ƃ��A�񐶒��ۂ����ǁE�E�E�����̒��ɉ����d�����񂪏Z��ł���f�G�ł���ˁB�ł��A���`��Ȃ��Ƃ₱�`��Ȃ��Ƃ��o�����Ⴂ�����E�E�E�󂪔�ׂ����Ȃ̂������ł��ˁB<BR>�t�@���^�W�[�ł���ˁ�<BR>������y���݂ɂ��Ă���܂��B<BR>
+【月下転生RX へのコメント】 <BR>はじめまして♪<BR>なんかエイリアンとか、寄生虫ぽいけど・・・自分の中に可愛い妖精さんが住んでたら素敵ですよね。でも、あ～んなことやこ～んなことが出来ちゃいそう・・・空が飛べそうなのがいいですね。<BR>ファンタジーですよね♪<BR>自作を楽しみにしております。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/09/06 20:41:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/09/06 20:41:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=999776476qephle&id2=958401883mdhlo&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_999776476qephle_id2_958401883mdhlo_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�x��Ă��Ԏ��ł��B�ǂ�ł��������A���肪�Ƃ��������܂����B�t�@�X�i�[���J������G�̎艺�̃u�^�j���o�Ă���\���������ł����ǂˁi�΁j�B����ԃV�[���A�����Ă݂����ł��B�ł͂܂��A�����B
+遅れてお返事です。読んでいただき、ありがとうございました。ファスナーを開けたら敵の手下のブタ男が出てくる可能性もあるんですけどね（笑）。空を飛ぶシーン、書いてみたいです。ではまた、いつか。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="12">
 <input type="hidden" name="id" value="958401883mdhlo">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">�I�����C����i#3</a>]<br>
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">オンライン作品#3</a>]<br>
 
 </p>
 </body>

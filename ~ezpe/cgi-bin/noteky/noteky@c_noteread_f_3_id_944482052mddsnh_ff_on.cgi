@@ -1,52 +1,52 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>青年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=3&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_3_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=3&id=944482052mddsnh&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=3&ff=on">�N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_3_id_944482052mddsnh_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_3_ff_on.cgi">青年コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���F�T�o�X�@�u�����W�U�^�W�V</font><br>
+<font size="+2" color="#0000FF">桃色サバス　Ｖｏｌ８６／８７</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/12/06 21:07:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/12/06 21:07:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=3&id=944482052mddsnh&id2=944482052mddsnh&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_3_id_944482052mddsnh_id2_944482052mddsnh_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���F�T�o�X�@�u�����W�U�^�W�V�i��P�O�����^�j<BR>���N���Ё@�@���Ì���@��<BR>��l���ʋg���A���E�̃A�C�e���ł���t���ςŁA<BR>�q���C���̃J�S���ɕϐg���Ă��܂��b�B<BR>�ȑO�ɂ������z�����l�A�ɂ��ʋg�̕��e�̏������l�^<BR>�i�u�����Q�O�@��R�����^�j��A�ʋg�ƃ}���̓���ւ�����<BR>�i�u�����Q�P�^�Q�Q�@��R�����^�j�ɔ�ׁA�s�r�Ƃ��Ă̊����x��<BR>�ɂ߂č����B<BR>��{�I�ɁA�Ƃ�����΁A�P�W�֕��ʂɑ����Ă��������Ȃ��N���ŁA<BR>����ȋʋg�Ƃ����L�����𒆐S�ɂ����邱�Ƃ�<BR>�R���f�B��M���O���܂߂��X�g�[���[�̕����L���Ă��邱�Ƃɂ���āA<BR>�s�r�Ƃ��Ă̖ʔ������A�����Ă���Ƃ����邾�낤�B<BR>�������A����́A�ʋg�ƁA�������v�����Ƃ�����J�S����<BR>�Ȃ��Ă��܂������ƂŁA�ʋg�́A�����p���������A�ő���Ɋ�������Ă���B<BR>�܂��A�J�S���{�l���A������������̋ʋg�ƑΖʂ��邱�ƂɂȂ�킯��<BR>�����C�Ɉꏏ�ɂ͂���Ƃ��A�Ȃ��Ȃ��A�G�b�`�Ȃ����ŏI���Ȃ�<BR>�y������ʂ�����B<BR>�܂��A����ȋʋg�Ȃ�����A����Ȃ�ɂ���Ă邱�Ƃ́A����Ȃ�ɂ���Ă�̂�<BR>����Ȃ�̃T�[�r�X�V�[���������B<BR>�p�������Ƃ�Ȃ�����A�J�S���i�ɂȂ��������j�̗������悤�Ƃ�����A<BR>�ʐ^���B����Ƃ��A��������ƃ|�[�Y���Ƃ�����ƁA���߂āA���Ì��炳��́A<BR>�������Ă�������Ƒz�킴��𓾂Ȃ��B<BR>
+桃色サバス　Ｖｏｌ８６／８７（第１０巻収録）<BR>少年画報社　　中津賢也　作<BR>主人公玉吉が、魔界のアイテムである葉っぱで、<BR>ヒロインのカゴメに変身してしまう話。<BR>以前にあったホルモネアによる玉吉の父親の女性化ネタ<BR>（Ｖｏｌ２０　第３巻収録）や、玉吉とマユの入れ替わりもの<BR>（Ｖｏｌ２１／２２　第３巻収録）に比べ、ＴＳとしての完成度は<BR>極めて高い。<BR>基本的に、ともすれば、１８禁方面に走ってもしかたない青年誌で、<BR>純情な玉吉というキャラを中心にすえることで<BR>コメディやギャグを含めたストーリーの幅を広げていることによって、<BR>ＴＳとしての面白さも、増しているといえるだろう。<BR>しかも、今回は、玉吉と、実質相思相愛といえるカゴメに<BR>なってしまったことで、玉吉の、嬉し恥ずかしが、最大限に活かされている。<BR>また、カゴメ本人が、自分そっくりの玉吉と対面することになるわけで<BR>お風呂に一緒にはいるとか、なかなか、エッチなだけで終わらない<BR>楽しい場面もある。<BR>また、純情な玉吉ながらも、それなりにやってることは、それなりにやってるので<BR>それなりのサービスシーンも多し。<BR>恥ずかし照れながらも、カゴメ（になった自分）の裸を見ようとしたり、<BR>写真を撮られるとき、しっかりとポーズをとったりと、改めて、中津賢也さんは、<BR>分かってらっしゃると想わざるを得ない。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="3">
 <input type="hidden" name="id" value="944482052mddsnh">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=3&ff=on">�N�R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_3_ff_on.cgi">青年コミック</a>]<br>
 
 </p>
 </body>

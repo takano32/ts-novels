@@ -1,192 +1,192 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=952319635oiang&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_952319635oiang_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">��������g�����X�M�����Y</font><br>
+<font size="+2" color="#0000FF">生命戦隊トランスギャルズ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/tr_gals/title.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/03/06 14:13:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/tr_gals/title.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/03/06 14:13:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=952319635oiang&id2=952319635oiang&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_952319635oiang_id2_952319635oiang_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �}�b�h�T�C�G���e�B�X�g�^�s�����m�ɂ���āA�O�l�̏��N������������m�ɉ�������A��������g�����X�M�����Y�����������B�g�����X�M�����Y�́A��̐N���҂���X�̕��a����邽�߂ɐ키�̂ł���!!
+【推薦文】 マッドサイエンティスト真行寺博士によって、三人の少年たちが少女戦士に改造され、生命戦隊トランスギャルズが結成される。トランスギャルズは、謎の侵略者から街の平和を守るために戦うのである!!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2000/04/26 04:40:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2000/04/26 04:40:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=956691644rxcseat&id2=952319635oiang&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_956691644rxcseat_id2_952319635oiang_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��V�b�z <BR>�����^�Ղ���(��)�B<BR>�V���A�X�n�L�����͂ӂƂ������Ƃň�C�ɃM���O�����i�s�������B<BR>�����獡��ɂ�����Ɗ���(��)�B
+【第７話】 <BR>あわれ真琴さん(笑)。<BR>シリアス系キャラはふとしたことで一気にギャグ化が進行しがち。<BR>だから今後にちょっと期待(爆)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">��_��</a></strong>  <i>2000/04/30 22:52:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2k.biglobe.ne.jp/~yaji/" target="_blank">矢治浩平</a></strong>  <i>2000/04/30 22:52:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957102750muvto&id2=952319635oiang&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957102750muvto_id2_952319635oiang_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;�V���A�X�n�L�����͂ӂƂ������Ƃň�C�ɃM���O�����i�s<BR>&gt;�������B<BR><BR>�c�O�Ȃ��炻�������\��͂Ȃ������˂��c<BR>
+&gt;シリアス系キャラはふとしたことで一気にギャグ化が進行<BR>&gt;しがち。<BR><BR>残念ながらそういう予定はないっすねえ…<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ԃ����</strong>  <i>2000/05/07 03:39:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花だよ♪</strong>  <i>2000/05/07 03:39:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957638348raadvtm&id2=952319635oiang&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957638348raadvtm_id2_952319635oiang_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��V�b�z<BR>&gt;�{���̎������āA��̉��Ȃ񂾂낤�ˁH<BR>���I�����ɁA���Ԕѐ����Ȃ������<BR>�R�l�̐l�Ԋ֌W���A�f�G�B<BR>�����`�����߂����񂪁A�A�܂����B
+【第７話】<BR>&gt;本当の自分って、一体何なんだろうね？<BR>亜紀ちゃんに、お赤飯炊かなくちゃ♪<BR>３人の人間関係が、素敵。<BR>それを描き込める矢治さんが、羨ましい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>yukikaze</strong>  <i>2000/06/27 05:58:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=962053125uqxea&id2=952319635oiang&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_962053125uqxea_id2_952319635oiang_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂₭�������ǂ݂���<BR>�^�Ղ����̊�����y���݂ɂ��Ă��܂��B<BR>�h���p�`�������Ƃӂ₵�Ă��������B<BR>�ė������炢�ɓǂ݂����ł��D
+はやく続きが読みたい<BR>真琴ちゃんの活躍を楽しみにしています。<BR>ドンパチをもっとふやしてください。<BR>再来月くらいに読みたいです．
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:kagerou6@maple.yyy.or.jp" target="_blank">kagerou6</a></strong>  <i>2000/09/10 22:55:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=968594103sutljy&id2=952319635oiang&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_968594103sutljy_id2_952319635oiang_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ǂ݂܂�����Ԃ肪�J��?����Ă����Ȃ��<BR>����͂Ђ���Ƃ��Ă����݃`��������?�ł���<BR>���I�����Ɛ^�Ղ����ɒǂ����܂�����<BR>���x�͂��킢���R�l�������ȁ�
+早速読みました若返りが開発?されていたなんて<BR>これはひょっとしていさみチャン初恋?ですか<BR>亜紀ちゃんと真琴ちゃんに追いつきましたね<BR>今度はかわいい３人がいいな♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/09/13 23:32:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/09/13 23:32:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=968855574xyyjdj&id2=952319635oiang&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_968855574xyyjdj_id2_952319635oiang_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�X�b�n<BR><BR>�u�ϑԒj�̖��߂ɋt�炦�Ȃ��l�Ɏd�g�܂�Ă���v�R�l�����Ĉ���Ȃ�B<BR>���z�̂��Ƃ�����L�[���[�h���炢�͎d����ł��邾�낤���ǁA����Ȏ����Ȃ��Ă��\���A�t�炦�Ȃ��悤�ȋC������B<BR>������A��Ȃ���Ȃ�����K�I���W������B<BR><BR>�����|�M����Ă���R�l���̋C��J�͑����B
+［９話］<BR><BR>「変態男の命令に逆らえない様に仕組まれている」３人娘って哀れなり。<BR>此奴のことだからキーワードぐらいは仕込んであるだろうけど、そんな事しなくても十分、逆らえないような気がする。<BR>何しろ、一癖も二癖もある狸オヤジだから。<BR><BR>いつも翻弄されている３人娘の気苦労は続く。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/09/15 09:24:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/09/15 09:24:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=968977489ajnry&id2=952319635oiang&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_968977489ajnry_id2_952319635oiang_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��X�b�z<BR>���c�{�ɂ͂܂����l�͐����Ɏ���グ�Ă��������B<BR><BR>�@�͂Ёi�΁j�B<BR>�@����ɂ��Ă��A�B���B�肳�ꂽ�r�f�I���ĂȂ񂾂낤�H<BR><BR>�@�^�Ղ���񂪂����݂����Ɂu�{���̎�����m��Ȃ��v���Č����Ă����ǁA�O�l�̒��ł͂����݂���񂪈�Ԏ��R�̂��Ǝv���B<BR>�@��U�`�W�b�ŁA���I�������^�Ղ������Ȃ�ƂȂ����̎����ɖ������Ă�񂶂�Ȃ����ȁc�c�Ƃ�����ۂ��󂯂܂����B<BR>�@�������������ȁH
+【第９話】<BR>＞ツボにはまった人は正直に手を上げてください。<BR><BR>　はひ（笑）。<BR>　それにしても、隠し撮りされたビデオってなんだろう？<BR><BR>　真琴ちゃんがいさみちゃんに「本当の自分を知らない」って言ってたけど、三人の中ではいさみちゃんが一番自然体だと思う。<BR>　第６～８話で、亜紀ちゃんも真琴ちゃんもなんとなく今の自分に無理してるんじゃないかな……という印象を受けました。<BR>　穿った見方かな？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�b��������</strong>  <i>2000/09/15 12:16:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｃｉｎｄｙ</strong>  <i>2000/09/15 12:16:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=968987766pcdchtl&id2=952319635oiang&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_968987766pcdchtl_id2_952319635oiang_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͂��B�c�{�ł��B�i�΁j<BR>���N�����̑��ɁA�\�N��}�j�A�̎��Ƃ��ẮA�\�N�ƌ��킸�ܔN��̃q���t�~���N���y���݂ł��ˁ`�B<BR>���̍��͂����݂���񂪂͂������炢�ł����B�ǂ��ł��ˁA�N���̃c�o���i�΁j<BR>������x�����N�ɂȂ�Ƃ����̂����X�B<BR>���͒B�炭����q���t�~������������܂��B����������̍ēo���]��
+私もはい。ツボです。（笑）<BR>少年少女の他に、十年後マニアの私としては、十年と言わず五年後のヒロフミ少年が楽しみですね～。<BR>その頃はいさみちゃんがはたちくらいですか。良いですね、年下のツバメ（笑）<BR>もう一度同い年になるというのも中々。<BR>私は達也くんよりヒロフミくんを応援します。岬博文くんの再登場希望♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>2000/09/15 23:31:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>2000/09/15 23:31:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969028316qyvaby&id2=952319635oiang&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969028316qyvaby_id2_952319635oiang_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������������̍ēo���]�� <BR><BR>�l���Ƃ��܂��B<BR><BR>���������������ȁH <BR><BR>����͐����ł��ˁB
+＞岬博文くんの再登場希望♪ <BR><BR>考えときます。<BR><BR>＞穿った見方かな？ <BR><BR>これは正解ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ē�</strong>  <i>2000/09/18 05:56:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>米津</strong>  <i>2000/09/18 05:56:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969224197gtijtwf&id2=952319635oiang&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969224197gtijtwf_id2_952319635oiang_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��X�b�z<BR> ���c�{�ɂ͂܂����l�͐����Ɏ���グ�Ă��������B<BR>����͂��̂�������w���Ȃ̂��c�c�H�@�Ǝv���Ă��܂��ĒÂł���(��)�B<BR>AR(��Ԃ�)���āA�q���̐^�������Ȋ���ƌ����������ēW�J���D���ł��B<BR><BR>���Ȃ݂�AR�R�A�ȗv�](��)�Ƃ��ẮA<BR>AR���Ă�`�Ƃ�����`�Ƃ��Q�Ă�͕̂��i�͂����܂����Ă�^�Ղ��񂪎������܂��B<BR>���ނ����̏ꍇ�A�^�Ղ���𒅂��ւ��Ă�������ɂ��邢���݂���͑z�����Ȃ��ł����ǂˁB<BR><BR>&gt; �\�N��}�j�A<BR>�ĒÂ�����k�D�������B�����������10�N��G�s���[�O���́B���낢�당�ɋ���������̂������āB
+【第９話】<BR> ＞ツボにはまった人は正直に手を上げてください。<BR>これはこのおいらを指名なのか……？　と思ってしまう米津でした(笑)。<BR>AR(若返り)して、子供の真っ直ぐな感情と向き合うって展開が好きです。<BR><BR>ちなみにARコアな要望(爆)としては、<BR>ARしてわ～とかきゃ～とか慌てるのは普段はおすまししてる真琴さんが似合います。<BR>＃尤もその場合、真琴さんを着せ替えておもちゃにするいさみさんは想像つかないですけどね。<BR><BR>&gt; 十年後マニア<BR>米津も後日談好きっす。いいっすよね10年後エピローグもの。いろいろ胸に去来するものがあって。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�̂�</strong>  <i>2000/09/30 15:41:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>のり</strong>  <i>2000/09/30 15:41:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=970296115whxwdrq&id2=952319635oiang&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_970296115whxwdrq_id2_952319635oiang_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G�b�`�����Ȃ��ł��B<BR>�ޗ�������߂����Ă���΂��Ă�������
+エッチが少ないです。<BR>奈落さんをめざしてがんばってください
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/tr_gals/title.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2000/10/12 02:46:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/tr_gals/title.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2000/10/12 02:46:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971286409hqtqtra&id2=952319635oiang&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971286409hqtqtra_id2_952319635oiang_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��P�O�b�z<BR>�y���E���z�\�t�g���[�h�̉����S�V���[�Y(����ɖ���)�����]�A�V���A�X���n�[�h�ȐV�W�J�B�M���鐳�`���������퉳���̐S�͗h���c�c�B
+【第１０話】<BR>【推薦文】ソフトムードの乙女心シリーズ(勝手に命名)から一転、シリアス＆ハードな新展開。信じる正義を失った戦乙女の心は揺れる……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/10/13 22:48:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/10/13 22:48:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971444895dcpsraw&id2=952319635oiang&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971444895dcpsraw_id2_952319635oiang_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��P�O�b�z<BR>�@���q�̂��đ�X�b�́w�������Ⴂ�����݂����x��`���Ă݂��񂾂��c�c<BR>�@������Ȃ��Ȃ��Ă����i�΁j�B<BR><BR>�@�ȑO�A�u���I�������^�Ղ������Ȃ�ƂȂ����̎����ɖ������Ă�񂶂�Ȃ����ȁv���ď��������ǁA���������������ɂ��̑䎌���ƁA������Ɣ߂��߂���c�c��ȁB
+【第１０話】<BR>　調子のって第９話の『ちっちゃいいさみちゃん』を描いてみたんだが……<BR>　そぐわなくなってきた（笑）。<BR><BR>　以前、「亜紀ちゃんも真琴ちゃんもなんとなく今の自分に無理してるんじゃないかな」って書いたけど、無理したあげくにあの台詞だと、ちょっと悲し過ぎる……よな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2k.novel.ac/~yaji/" target="_blank">��_��</a></strong>  <i>2000/10/16 23:27:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2k.novel.ac/~yaji/" target="_blank">矢治浩平</a></strong>  <i>2000/10/16 23:27:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971706467pineef&id2=952319635oiang&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971706467pineef_id2_952319635oiang_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����q�̂��đ�X�b�́w�������Ⴂ�����݂����x��`���Ă݂���<BR>�������c�c������Ȃ��Ȃ��Ă����i�΁j�B<BR><BR>������Ƃ���ƁA�悤�₭�����̗\��ʂ�̓W�J�ɓ������A���Ċ����ŁA���������������A�ƁB<BR><BR>�����������������ɂ��̑䎌���ƁA������Ɣ߂��߂���c�c��ȁB <BR><BR>�����ł����ˁH�܁A���C���̃e�[�}�ɗ���ł���̂ł����Ō��y����͍̂T���܂����ǁB�Ƃ肠�����A���茞�������������悤�₭�������邩��C���������������B
+＞調子のって第９話の『ちっちゃいいさみちゃん』を描いてみたん<BR>＞だが……そぐわなくなってきた（笑）。<BR><BR>こちらとすると、ようやく当初の予定通りの展開に入った、って感じで、ああ長かったぞ、と。<BR><BR>＞無理したあげくにあの台詞だと、ちょっと悲し過ぎる……よな。 <BR><BR>そうですかね？ま、メインのテーマに絡んでくるのでここで言及するのは控えますけど。とりあえず、張り捲くった伏線をようやくいかせるから気持ちがいいぞお。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="952319635oiang">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

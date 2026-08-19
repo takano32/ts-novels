@@ -1,45 +1,45 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>少年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&id=945683902lksbjs&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_id_945683902lksbjs_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�G�N�X�J���o�[�I</font><br>
+<font size="+2" color="#0000FF">エクスカリバー！</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/12/20 18:58:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/12/20 18:58:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=945683902lksbjs&id2=945683902lksbjs&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_945683902lksbjs_id2_945683902lksbjs_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G�N�X�J���o�[�I�i�G�N�X�J���o�[�I�j<BR>�V���Ё@�Q�[���X�g�R�~�b�N�@�@���c�@�S���q�@��<BR>�ŏ��ɁA�l�I�Ȗ{���������Ă��܂����ǂˁ[<BR>���̍�ҁA���߂���A�����ɂ���Ă��܂����W���m�����q�B<BR>����قǏd�v�����ĂȂ������񂶂�Ȃ����˂��B<BR>�{�l���A���̃R�ɂ���č��������������A��������������<BR>�ǂ�����`�ʂ��Ȃ���ɁA�܂��̔������A���ߋ�������<BR>���������ɂȂ��Ă邵�B<BR>�������A���ɂ��ꂿ������Z����Ƃ��������Ă�����<BR>�����̂ɁB<BR>���߂āA�m���m�P�̂P�O���̈�ł�������A<BR>�����Ƃ��A�R����������΁E�E�E<BR>�������t�ɁA�A�T�q�P�ǂ��������炢�ɑe�\�Ȃ�A<BR>�t�G������������������񂪁B<BR>�G������\��������Ƃ���Ƃ����΁A<BR>�A�T�q�P�Ƃ̔ߌ��i�쌀�H�j�̍ĊJ�A<BR>���s�����E�B���N�̊i�D�A�����ăE�F�C�g���X����̊i�D���炢��<BR>���̂��B<BR>�E�F�C�g���X������A���̕����̊��ɁA�`�ʐ��̐�ΓI�ȏ��Ȃ���<BR>�G����Ƃ���܂ōs���̂�����B<BR>���X�A����I�Ɍ��ɖ߂��Ƃ��A�W���m���ɍ���Ă��܂�<BR>�G���Ȃ񂩂��o�Ă���΁A�܂��G���悤����������������Ȃ����B<BR>
+エクスカリバー！（エクスカリバー！）<BR>新声社　ゲーメストコミック　　巣田　祐里子　作<BR>最初に、個人的な本音を書いてしまうけどねー<BR>この作者、初めから、女性にされてしまったジュノン王子。<BR>それほど重要視してなかったんじゃないかねえ。<BR>本人が、女のコにされて困った困ったも、嬉しい嬉しいも<BR>どちらも描写がない上に、まわりの反応も、初め驚いた後<BR>それっきりになってるし。<BR>同じく、女にされちゃった兄さんとかもだしてくれれば<BR>いいのに。<BR>せめて、ノンノ姫の１０分の一でいいから、<BR>可愛さとか、儚えさがあれば・・・<BR>いっそ逆に、アサヒ姫どっこいくらいに粗暴なら、<BR>逆萌えがあったかもしれんが。<BR>萌えられる可能性があるところといえば、<BR>アサヒ姫との悲劇（喜劇？）の再開、<BR>失敗したウィンクの格好、そしてウェイトレスさんの格好くらいの<BR>ものか。<BR>ウェイトレスさんも、その服装の割に、描写数の絶対的な少なさで<BR>萌えるところまで行くのが難しい。<BR>時々、発作的に元に戻れるとか、ジュノンに惚れてしまう<BR>敵役なんかが出てくれば、また萌えようがあったかもしれないが。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="945683902lksbjs">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

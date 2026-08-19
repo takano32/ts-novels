@@ -1,31 +1,31 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>成年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=4&id=971017639rgkhxod&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_4_id_971017639rgkhxod_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���E�S��</font><br>
+<font size="+2" color="#0000FF">封殺百怪</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:yays@geocities.co.jp" target="_blank">���d�F</a></strong>  <i>2000/10/09 00:07:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:yays@geocities.co.jp" target="_blank">八重洲</a></strong>  <i>2000/10/09 00:07:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=971017639rgkhxod&id2=971017639rgkhxod&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_971017639rgkhxod_id2_971017639rgkhxod_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�A�z�����@�Ƃł��鍂��Ƃ̎Ⴋ����E����@�i�����́E���j�́A���̂̎��_���g������ޖ��t�ł���B���Ƃ��Ƙ@�͔����N�ŁA�z���̎��_�E���S�i���N�j�Ƃ͖����ȗ����������̂����A����������ɂ��Ę@�͏��̎q�Ƃ��Đ����Ă������ƂɂȂ��Ă��܂��B�A�z���\�@�Ƃ̓���ł���y���㗳�i���݂��ǁE����イ�j���A�������甼���ɏp���g���Ę@�̐��ʂ�ς��Ă��܂����̂ł���B�u�j�ɖ߂��I�v�Ƌ��тA���̎q�ɂȂ������ƂŔ��S�ƐS�����Ȃ��G�b�`�ł��邱�Ƃ������āA����Ȃ�Ɍ�����G���W���C���Ă���@�������B����Ș@�̔������ޖ��t�Ƃ��Ẵs���N�F�̊��􂪖����J����B
+陰陽道裏宗家である高野家の若き頭首・高野蓮（たかの・れん）は、八体の式神を使役する退魔師である。もともと蓮は美少年で、配下の式神・八鬼（美青年）とは密かな恋仲だったのだが、ある日を境にして蓮は女の子として生きていくことになってしまう。陰陽道表宗家の頭首である土御門九竜（つちみかど・くりゅう）が、いたずら半分に術を使って蓮の性別を変えてしまったのである。「男に戻せ！」と叫びつつ、女の子になったことで八鬼と心おきなくエッチできることもあって、それなりに現状をエンジョイしている蓮だった。そんな蓮の美少女退魔師としてのピンク色の活躍が幕を開ける。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="kj840519@korea.com" target="_blank">[km][kyeong][jng]</a></strong>  <i>2001/01/11 22:26:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=979219562lcnpsm&id2=971017639rgkhxod&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_979219562lcnpsm_id2_971017639rgkhxod_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 [ha][x] 
@@ -33,23 +33,23 @@
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="4">
 <input type="hidden" name="id" value="971017639rgkhxod">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

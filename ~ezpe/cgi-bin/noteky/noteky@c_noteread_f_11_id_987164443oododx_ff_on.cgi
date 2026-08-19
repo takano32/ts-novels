@@ -1,132 +1,132 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=987164443oododx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_987164443oododx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�炢�������2�f����</font><br>
+<font size="+2" color="#0000FF">らいか大作戦第2掲示板</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ɉ^�c�ψ���</strong>  <i>2001/04/13 21:20:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>文庫運営委員会</strong>  <i>2001/04/13 21:20:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987164443oododx&id2=987164443oododx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987164443oododx_id2_987164443oododx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ɏ������݂��������B
+こちらに書き込みください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/14013415/raika7.html" target="_blank">��V�b�͂������N���b�N</a></strong>  <i>2001/04/13 21:36:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/14013415/raika7.html" target="_blank">第７話はここをクリック</a></strong>  <i>2001/04/13 21:36:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987165400iknxm&id2=987164443oododx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987165400iknxm_id2_987164443oododx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��V�b�z ����͂���ƃn�[�h�r�e�ȏ����o���A�����ƌ����闈����ʕ�̐S��A�V���A�X�ȓW�J�ł킭�킭���܂��B�ł��g�������͋C�͕ς��܂���A���@�����r�e�i����ɖ����j���Ă����ł��ˁB
+【第７話】 今回はぐんとハードＳＦな書き出し、ちらりと見える来栖や果穂の心情、シリアスな展開でわくわくします。でも暖かい雰囲気は変わりません、魔法少女ＳＦ（勝手に命名）っていいですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���a</strong>  <i>2001/04/13 23:12:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>七斬</strong>  <i>2001/04/13 23:12:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987171135fmuffh&id2=987164443oododx&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987171135fmuffh_id2_987164443oododx_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��[���B�F���퓬���F���퓬���B<BR>�~�������ɔn���߂͉F���퓬�̊�{�ł��ȁB<BR><BR>�Ȃɂ��Ƀh�L�h�L�ȃV�[���������Ă���̂ł��������C�ɓ����Ă܂��B<BR>�����̓t���C�N�X�����Ɖ���b�����񂾂낤�B<BR>�C�ɂȂ�[�B
+わーい。宇宙戦闘だ宇宙戦闘だ。<BR>降伏勧告に馬鹿めは宇宙戦闘の基本ですな。<BR><BR>なにげにドキドキなシーンが入っているのでけっこう気に入ってます。<BR>頼香はフレイクス中佐と何を話したんだろう。<BR>気になるー。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/04/14 01:10:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/04/14 01:10:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987178231ftmpq&id2=987164443oododx&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987178231ftmpq_id2_987164443oododx_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ђ�A�l�b�g�`�F�b�N���x���Ȃ������Ɍ����ĐV��A�b�v���f���ւ̔����J�L�R��炪�����񂾂Ȃ��B<BR><BR>����͂Ƃ������B<BR><BR>��V�b�A�ǂ݂܂����B���[��A�F���퓬���V�N�ł����ł��˂��B<BR>���u�n���߁A�ƌ����Ă��v<BR>���u���H�v<BR>���u�n���߁A���v<BR>�ԂЂ�Ђ�Ђ�Ђ�Ђ�I<BR>���[�A�ꂵ���I�I�I�ō��B<BR><BR>�������̓t���C�N�X�����Ɖ���b�����񂾂낤�B<BR>���C�ɂȂ�[�B <BR>�񂾂񂾁B<BR><BR>����\���i�̂悤�Ȃ��́j���Ȃ��Ȃ��Ӗ��[�Ȃ悤�ŁA���ǂ񂾂΂���Ȃ̂ɁA�������񂪓ǂ݂����i�΁j�B
+うひゃ、ネットチェックが遅くなった日に限って新作アップやら掲示板への反応カキコやらが多いんだなぁ。<BR><BR>それはともかく。<BR><BR>第７話、読みました。うーん、宇宙戦闘が新鮮でいいですねぇ。<BR>＞「馬鹿め、と言ってやれ」<BR>＞「え？」<BR>＞「馬鹿め、だ」<BR>ぶひゃひゃひゃひゃひゃ！<BR>あー、苦しい！！！最高。<BR><BR>＞頼香はフレイクス中佐と何を話したんだろう。<BR>＞気になるー。 <BR>んだんだ。<BR><BR>次回予告（のようなもの）がなかなか意味深なようで、今読んだばかりなのに、もう次回が読みたい（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/04/14 21:19:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/04/14 21:19:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987250761vpgvltk&id2=987164443oododx&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987250761vpgvltk_id2_987164443oododx_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Ȃɂ��ɑ��f�����ł��Ă���c�c�B<BR><BR>�@����͂��Ă����A�O��Ƃ͂����ĕς���ĉF���퓬�V�[������n�܂�Ȃ�āA�ӕ\������܂����B<BR>�@�z���f�b�L�A�]���V�X�e���A�c�c���`�ށA�ǂ��B<BR>�@�Ƃ���łt�r�r�w���񂱂��x���āA����σR���X�e���[�V�������H<BR><BR>�@�c�c�����܂���A�Z�䂢�l�^�ŁB<BR><BR>�@�����ł킽���I�ɂ́A�~���ɃV���g�i�[���������������̌��ւ���ė��āA�ޏ������̑��������ς�܂���c�c�Ƃ������W�J�����҂����Ⴂ�܂��ˁB<BR>�u�c�c�c�c���񂽒n���Ƀi���p���ɗ����񂩂��I�v<BR>�@�Ƃ��i�΁j�B
+　なにげに第二掲示板ができている……。<BR><BR>　それはさておき、前回とはうって変わって宇宙戦闘シーンから始まるなんて、意表をつかれました。<BR>　ホロデッキ、転送システム、……う～む、良い。<BR>　ところでＵＳＳ『さんこう』って、やっぱコンステレーション級？<BR><BR>　……すいません、濃ゆいネタで。<BR><BR>　ここでわたし的には、救援にシャトナー中佐が頼香たちの元へやって来て、彼女たちの足を引っぱりまくる……といった展開を期待しちゃいますね。<BR>「…………あんた地球にナンパしに来たんかっ！」<BR>　とか（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/04/15 08:02:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/04/15 08:02:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987289324iwcdtob&id2=987164443oododx&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987289324iwcdtob_id2_987164443oododx_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ʕ䂿���B�䑽�������B�����ɂƂ��Ă���Ȃ�A�����ɂƂ��Ă���B�����B���Ă��܂��ˁB�����ɂƂ��Ă̖��͗T���Ƃ̊֌W�����C���ł��ˁB�����ɂƂ��Ă͍��񖾂炩�ɂȂ����悤�ɁA�e�Ƃ̊֌W�B�����ĉʕ䂿���ɂƂ��ẮA�Ȃɂ�畡�G�ȉƒ�������̂悤�ł��ˁB���ɍ��̎p�ŉƑ��ɉ���Ă���悤�Ȋ������󂯂��̂ł����A���̂ւ�̂�����A�����m�肽���ł��B<BR>�@�ӂƁA�₵���ȕ��͋C��Y�킹��ʕ䂿��񂪁A���킢���Ă��킢���ĕ������߂Ă��肮�肵�Ă��������ł��B��������������Ȃ�Ċ֌W�Ȃ��I�@���������ĂR�l���̂Ȃ��ŁA�ʕ䂿��񂪈�Ԑ��_�I�ɉ����Ȃ񂶂�Ȃ��ł��傤���H�@�����ė����͂܂��j�����S�ɔ�������ĂȂ����A�����͂܂��܂����q�l�����c�c�B<BR>�@�������A�F���퓬����낵����������ǁA����̉ʕ䂿���B�z���g�A���킢�������Ȃ������`�`�B
+　果穂ちゃん。謎多き乙女。来栖にとっても謎なら、頼香にとっても謎。何か隠していますね。頼香にとっての問題は裕樹との関係がメインですね。来栖にとっては今回明らかになったように、親との関係。そして果穂ちゃんにとっては、なにやら複雑な家庭環境が問題のようですね。既に今の姿で家族に会っているような感じを受けたのですが、そのへんのあたり、早く知りたいです。<BR>　ふと、寂しげな雰囲気を漂わせる果穂ちゃんが、かわいくてかわいくて抱きしめてぐりぐりしてあげたいです。もう元おじさんなんて関係ない！　もしかして３人娘のなかで、果穂ちゃんが一番精神的に乙女なんじゃないでしょうか？　だって頼香はまだ男が完全に抜けきれてないし、来栖はまだまだお子様だし……。<BR>　ああっ、宇宙戦闘もよろしかったけれど、今回の果穂ちゃん。ホント、かわいかったなあぁぁ～～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kawanegi</strong>  <i>2001/04/15 20:41:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987334899ykusyi&id2=987164443oododx&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987334899ykusyi_id2_987164443oododx_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ψ��̕��X�A���f����ݒu���Ă��������A���肪�Ƃ��������܂��B<BR><BR>���āA���a�l�A�����W�S�Q�U�l<BR>���u�n���߁A�ƌ����Ă��v<BR>���l�^�Â��ł����ǁA����ρA����ł��傤�B���񑩁i�΁j<BR><BR>�������̓t���C�N�X�����Ɖ���b�����񂾂낤�B<BR>���C�ɂȂ�[�B <BR>�@�����炭�A���ʂ̋ߋ��񍐂ł��傤�ˁB�����Ƃ��Ă̓{�����o�Ȃ��悤�ɁA�˂����񂾉Ƒ��̘b�͔�����悤�ɂ���ƁB�܂��������������ʐl���Ȃ�Ă͎v���Ă����Ȃ��ł��傤�ˁB<BR><BR>�l�n�m�c�n�l<BR>���Ƃ���łt�r�r�w���񂱂��x���āA����σR���X�e���[�V�������H<BR>�@��l�{��C�ł�����A����ȑ�^�͓̊͂������܂���B�u���񂱂��v�̓V���g�����͂R��肭�炢�傫�����^�F���͂ł��B�����͑��̊��͂��R���X�e���[�V���������đz�肵�Ă��܂��B�i�M�����N�V�[�������j<BR><BR>���~���ɃV���g�i�[���������������̌��ւ���ė��āA�ޏ������̑��������ς�<BR>���܂���c�c�Ƃ������W�J�����҂����Ⴂ�܂��ˁB<BR>�@������ʔ������ł��ˁB��Q�b�ŔN���킸�����Ɏ���o�����Đݒ肵�Ă܂���ŁA��������݂̃g���u�����K�{�ł��ˁB�������W�F�[���X�E�s�E�J�[�c�c����Ȃ��A�V���g�i�[�卲�B�ł���������Ƙb���i�܂Ȃ��Ȃ����肵�āc�c<BR><BR>�W���[�W���b�h�l<BR><BR>���ʕ䂿���B�䑽�������B<BR>�@�ʕ�̉Ƒ��w�i�͑�W�b�Ŗ��炩�ɂ���\��ł��B�g���͉ʕ�̎p��ʂȈӖ��Œm���Ă���̂ŁA���̂��΂�Ȃ��Ă����c���������ƂɂȂ�܂��B<BR><BR>�����������ĂR�l���̂Ȃ��ŁA�ʕ䂿��񂪈�Ԑ��_�I�ɉ����Ȃ񂶂�Ȃ��ł���<BR>�������H�����ė����͂܂��j�����S�ɔ�������ĂȂ����A�����͂܂��܂����q�l��<BR>�����c�c�B<BR>�@�����ł��ˁA�ʕ�̏ꍇ�ł��Ə����ɂȂ肽��������ł�����A�����ɔ�ׂ�Ə��̎q�ɏ������Ă���Ǝv���܂��B�����A�ǂ����Ă��s������l�тĂ���̂ŁA�P�P�΂̏����ɂȂ�؂�Ă��Ȃ�����������܂��B�����������Ӗ��ł͉ʕ�́u�q���v�Ƃ������́u�����v�Ȑ��_�N��ȂƁB<BR>
+委員の方々、第二掲示板を設置していただき、ありがとうございます。<BR><BR>さて、七斬様、ｍｋ８４２６様<BR>＞「馬鹿め、と言ってやれ」<BR>元ネタ古いですけど、やっぱ、これでしょう。お約束（笑）<BR><BR>＞頼香はフレイクス中佐と何を話したんだろう。<BR>＞気になるー。 <BR>　おそらく、普通の近況報告でしょうね。頼香としてはボロが出ないように、突っ込んだ家族の話は避けるようにすると。まさか中佐も娘が別人だなんては思ってもいないでしょうね。<BR><BR>ＭＯＮＤＯ様<BR>＞ところでＵＳＳ『さんこう』って、やっぱコンステレーション級？<BR>　一人＋一匹ですから、そんな大型の艦は動かせません。「さんこう」はシャトルよりは３回りくらい大きい小型宇宙艦です。所属艦隊の旗艦がコンステレーション級って想定しています。（ギャラクシー級かも）<BR><BR>＞救援にシャトナー中佐が頼香たちの元へやって来て、彼女たちの足を引っぱり<BR>＞まくる……といった展開を期待しちゃいますね。<BR>　それも面白そうですね。第２話で年齢問わず女性に手を出すって設定してますんで、女性がらみのトラブルが必須ですね。さすがジェームス・Ｔ・カー……じゃない、シャトナー大佐。でもそうすると話が進まなくなったりして……<BR><BR>ジャージレッド様<BR><BR>＞果穂ちゃん。謎多き乙女。<BR>　果穂の家族背景は第８話で明らかにする予定です。身内は果穂の姿を別な意味で知っているので、正体がばれなくても物議を醸すことになります。<BR><BR>＞もしかして３人娘のなかで、果穂ちゃんが一番精神的に乙女なんじゃないでしょ<BR>＞うか？だって頼香はまだ男が完全に抜けきれてないし、来栖はまだまだお子様だ<BR>＞し……。<BR>　そうですね、果穂の場合ですと少女になりたかった訳ですから、頼香に比べると女の子に順応していると思います。ただ、どうしても行動が大人びているので、１１歳の少女になり切れていない部分があります。そう言った意味では果穂は「子供」というよりは「乙女」な精神年齢かなと。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����� </strong>  <i>2001/04/17 00:26:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>せんり </strong>  <i>2001/04/17 00:26:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987434805fbgboh&id2=987164443oododx&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987434805fbgboh_id2_987164443oododx_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͐e���Q�g����H�V�A���Z�Ȃ̂ł��傤���ˁH<BR>���Ƃ̕��̗��e�ɂ���킹�Ă��������ȂƎv���Ă��܂��܂����B<BR>�F���퓬�A�悭�l������F�����Đ����ێ����u�Ȃ��Ȃ�����<BR>���񂶂Ⴄ����ł��ˁB�F���l���Ă�������[���g���[�f�B�[��<BR>�l�X���v���o���Ă��܂��܂����B<BR>�f�n���߁f�E�E�E�ō��ł��ˁI
+頼香は親が２組いる？シアワセなのでしょうかね？<BR>もとの方の両親にも会わせてあげたいなと思ってしまいました。<BR>宇宙戦闘、よく考えたら宇宙って生命維持装置なくなったら<BR>死んじゃううんですね。宇宙人っていったらゼント○ーディーの<BR>人々を思い出してしまいました。<BR>’馬鹿め’・・・最高ですね！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kawanegi</strong>  <i>2001/04/17 11:11:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987473516tegou&id2=987164443oododx&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987473516tegou_id2_987164443oododx_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����l�A���z���肪�Ƃ��������܂��B<BR><BR>�������͐e���Q�g����H�V�A���Z�Ȃ̂ł��傤���ˁH<BR>�����Ƃ̕��̗��e�ɂ���킹�Ă��������ȂƎv���Ă��܂��܂����B<BR>�@�����̌��̗��V�̐e�ƃ��C�J�̐e�B�m���ɓ�g���܂����A�ǂ���ɂ��������ɂ͎x�Ⴊ����Ƃ��������ł��B������Ɖ��z�ł����A�q������Ȃ��̂ł��̓_�͗������Ă���Ǝv���܂��B�ł��ӂƎ₵���Ȃ�Ƃ����B<BR><BR>���F���퓬�A�悭�l������F�����Đ����ێ����u�Ȃ��Ȃ�����<BR>�����񂶂Ⴄ����ł��ˁB�F���l���Ă�������[���g���[�f�B�[��<BR>���l�X���v���o���Ă��܂��܂����B<BR>�@���̕��X�͐^�󒆂ł��Z���ԂȂ琶�����܂����ǁA�����B�͂����������܂���B�퓬�Ƀ^�C�����~�b�g��݂���Ӗ��ł��A�����ێ����u���󂵂Ă��炢�܂����B<BR>
+せんり様、感想ありがとうございます。<BR><BR>＞頼香は親が２組いる？シアワセなのでしょうかね？<BR>＞もとの方の両親にも会わせてあげたいなと思ってしまいました。<BR>　頼香の元の頼之の親とライカの親。確かに二組いますが、どちらにもつき合うには支障があるという境遇です。ちょっと可哀想ですが、子供じゃないのでその点は理解していると思います。でもふと寂しくなるときも。<BR><BR>＞宇宙戦闘、よく考えたら宇宙って生命維持装置なくなったら<BR>＞死んじゃううんですね。宇宙人っていったらゼント○ーディーの<BR>＞人々を思い出してしまいました。<BR>　あの方々は真空中でも短時間なら生きられますけど、頼香達はそうもいきません。戦闘にタイムリミットを設ける意味でも、生命維持装置を壊してもらいました。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="987164443oododx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

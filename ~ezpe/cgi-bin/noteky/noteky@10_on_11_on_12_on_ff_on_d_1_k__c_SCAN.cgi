@@ -1,58 +1,58 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɖ߂�</a>]
+[<a href="noteky@_ff_on.cgi" >ノート一覧に戻る</a>]
 </div>
 <br>
 <p><font size="+2" color="#0000FF"><i>SCAN RESULT</i></font></p>
 <div align="right">
-<font size="+1" color="#008080"><strong> <a href="noteky.cgi?c=noteidx&f=10&ff=on">
-�I�����C����i#1</a> </strong></font>
+<font size="+1" color="#008080"><strong> <a href="noteky@c_noteidx_f_10_ff_on.cgi">
+オンライン作品#1</a> </strong></font>
 <br>
 <hr width="40%" align="right">
 </div><br><br><div align="right">
-<font size="+1" color="#008080"><strong> <a href="noteky.cgi?c=noteidx&f=11&ff=on">
-�I�����C����i#2</a> </strong></font>
+<font size="+1" color="#008080"><strong> <a href="noteky@c_noteidx_f_11_ff_on.cgi">
+オンライン作品#2</a> </strong></font>
 <br>
 <hr width="40%" align="right">
-</div><input type="checkbox" name="write" value="���@�������ޗ��� �i�p�C���b�g�Łj<11<982762378glxwclo>">
-<font size="+1" color="#0000FF"> ���@�������ޗ��� �i�p�C���b�g�Łj </font>
-<table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>
+</div><input type="checkbox" name="write" value="魔法少女♪奈里佳 （パイロット版）<11<982762378glxwclo>">
+<font size="+1" color="#0000FF"> 魔法少女♪奈里佳 （パイロット版） </font>
+<table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>
   <i>2001/04/18 06:36:50</i><br></td>
 <td  bgcolor="#00CCFF" width="20%" align="right">
-<a href="noteky.cgi?c=notemenu&f=11&id=987543410lricwor&id2=982762378glxwclo&ff=on" >APPEND 18</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
-����˂��l��<BR><BR>�����z���肪�Ƃ��������܂��B�撣��܂��B<BR><BR>�u�G�v�̑��݂������Ă����̐��`�̖��@�����Ƃ����b�͓앶���l�������Ă�������Ⴂ�܂����A�u�G�v�̑��݂������Ă����̈������@�����Ƃ�����������藧�Ǝ��͎v����ł��B��͂�P���͑��Ή������Ȃ��Ƃ����Ȃ����Ȃ��Ɓc�c�B<BR><BR>���ƃN���̗������݂Ƌ����ϐg���ϐS�́A���̃V���[�Y�̂��񑩂ɂ������ƍl���Ă��܂��B<BR><BR>�\���҂ŁA�������肩�Ǝv���܂����A����̕ϐg�V�[���́A�E�F�f�B���O�h���X�A���ł���ł��B�����������肽���̂ł����A�͗ʂ��ǂ����܂����ǂ����H<BR><BR>����ł́A����Ƃ���낵����肢�������܂��B<BR>�Ȃ��A���̎����́A���悢��d���X�ɂȂ�܂��B
+<a href="noteky@c_notemenu_f_11_id_987543410lricwor_id2_982762378glxwclo_ff_on.cgi" >APPEND 18</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
+かわねぎ様へ<BR><BR>ご感想ありがとうございます。頑張ります。<BR><BR>「敵」の存在があってこその正義の魔法少女という話は南文堂様が書いていらっしゃいますが、「敵」の存在があってこその悪い魔法少女という命題も成り立つと私は思うんです。やはり善悪は相対化させないといけないかなっと……。<BR><BR>克哉クンの落ち込みと強制変身＆変心は、このシリーズのお約束にしたいと考えています。<BR><BR>予告編で、お分かりかと思いますが、次回の変身シーンは、ウェディングドレス、お嫁さんです。次回もこだわりたいのですが、力量が追いつきますかどうか？<BR><BR>それでは、今後ともよろしく御願いいたします。<BR>なお、私の次回作は、いよいよ妖精９になります。
 </td></tr>
-</table><br><table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong>�䂫�҂��i�݂邭���[���j</strong>
+</table><br><table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong>ゆきぴょん（みるくせーき）</strong>
   <i>2001/04/18 14:45:52</i><br></td>
 <td  bgcolor="#00CCFF" width="20%" align="right">
-<a href="noteky.cgi?c=notemenu&f=11&id=987572752kckxaoa&id2=982762378glxwclo&ff=on" >APPEND 19</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
-�ǂ܂��Ă��������܂�����<BR>�p�C���b�g�ł�萔�i�p���[�A�b�v���Ă��܂���(^^)�B<BR>�p�C���b�g�łł͋C�̎ア�����̏��N���������ƃN�����ϐg�����r�[�m���m���ɂȂ��Ă邵�A�N�������ւ������č�m�ɂȂ��Ă邵�c���オ�y���݂ł��B<BR>�c�������A�悭������앶�����񂪗��Ă����������Ă�I�������W���[�W���b�h����<BR>���w�������@�������͑g���x <BR>�Ƃ͂Ȃ�Ɗy�����c�c���₢��i���ɂƂ��Ắj�Ȃ�ƃI�\���V�C�����i�L�����̕`���������ł��Ȃ���`(^^;�j�c�B<BR>��芸�����w�������@�������͑g����ꎟ�����c�A�V���t�B�[�~�J�~�ޗ����~���X�J���E�~�[�i�x�Ȃ�Ċ�悪�o�Ȃ��悤�F���Ă��܂��i�΁j�A�n�C�B<BR>�i�ł�����������ǂ�Ȗ��������Ăł���΂ɕ`�����Ⴄ����[�Ȃ��c(^^�G�G�G�j
+<a href="noteky@c_notemenu_f_11_id_987572752kckxaoa_id2_982762378glxwclo_ff_on.cgi" >APPEND 19</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
+読ませていただきました♪<BR>パイロット版より数段パワーアップしていますね(^^)。<BR>パイロット版では気の弱いだけの少年だった克哉クンも変身した途端ノリノリになってるし、クルルも輪をかけて策士になってるし…今後が楽しみです。<BR>…ああっ、よく見たら南文堂さんが来ていらっしゃってる！しかもジャージレッドさん<BR>＞『悪い魔法少女協力組合』 <BR>とはなんと楽しい……いやいや（私にとっては）なんとオソロシイ企画を（キャラの描き分けができないよ～(^^;）…。<BR>取り敢えず『悪い魔法少女協力組合第一次頂上会議、シルフィーミカ×奈里佳×ラスカル・ミーナ』なんて企画が出ないよう祈っています（笑）、ハイ。<BR>（でも実現したらどんな無理をしてでも絶対に描いちゃうだろーなぁ…(^^；；；）
 </td></tr>
-</table><br><input type="checkbox" name="write" value="�P�_���<11<985430598badojxc>">
-<font size="+1" color="#0000FF"> �P�_��� </font>
-<table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>
+</table><br><input type="checkbox" name="write" value="姫神奇譚<11<985430598badojxc>">
+<font size="+1" color="#0000FF"> 姫神奇譚 </font>
+<table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>
   <i>2001/04/18 09:19:22</i><br></td>
 <td  bgcolor="#00CCFF" width="20%" align="right">
-<a href="noteky.cgi?c=notemenu&f=11&id=987553162jeovf&id2=985430598badojxc&ff=on" >APPEND 34</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
-�앶���l<BR>&gt;�O�`��Q�b�̔g�����m�͂���ς�A�P�X�W�O�~�Ō����e��������̂��ȁH<BR>&gt;�j���u�Ós�v�ɒH�蒅�������̃l�R�����u�ɂ��ɂ��v�Ɩ��ē������̂��낤���H<BR>&gt;�����[���ł��i�����܂���A�D���Ȃ��̂Łi��΁j�j<BR>���l�^��������l�������B�т�����ł��B�j�͂���ǂ낢�ǂȂ�ł�(��)�Ƃ����̂͂����Ƃ���<BR>���̒ʂ�ł��B1980�~�ō�������̂ł��B�������A���ꂵ���ł���<BR>�B���l�^�̃t�@��������<BR><BR>&gt;������ƍ��A���č���ł��āA���ɂȂ邩�킩��܂��񂪁A������낵����Ώ�肭�͂���܂��񂪁A�C���X�g��`�����Ă��������Ȃ��ł��傤���H<BR><BR>�����A�劽�}�ł��B�y���݂ɑ҂��Ă���܂�<BR><BR>zion�l<BR>&gt;���ƂȂ��^�w偐_��18�փQ�[�����v���o���܂����B<BR>&gt;������Ós���l�͎��̓��̒��ł͍����ԓ��ł��B<BR>����A�����炭�A���̃X�g�[���[�̌��l�^�̈�ł��B<BR>�d�˂đz�������Ɗy���߂�ł��傤<BR><BR><BR><BR>
+<a href="noteky@c_notemenu_f_11_id_987553162jeovf_id2_985430598badojxc_ff_on.cgi" >APPEND 34</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
+南文堂様<BR>&gt;外伝第２話の波原博士はやっぱり、１９８０円で光線銃を作ったのかな？<BR>&gt;桂が「古都」に辿り着けたものネコ耳が「にゃんにゃん」と鳴いて導いたのだろうか？<BR>&gt;奥が深いです（すいません、好きなもので（苦笑））<BR>元ネタが分かる人がいた。びっくりです。桂はあんどろいどなんです(笑)というのはおいといて<BR>その通りです。1980円で作ったものです。しかし、うれしいですね<BR>。元ネタのファンがいて<BR><BR>&gt;ちょっと今、立て込んでいて、いつになるかわかりませんが、もしよろしければ上手くはありませんが、イラストを描かせていただけないでしょうか？<BR><BR>ええ、大歓迎です。楽しみに待っております<BR><BR>zion様<BR>&gt;何となく某蜘蛛神の18禁ゲームを思い出しました。<BR>&gt;だから古都音様は私の頭の中では黒髪赤瞳です。<BR>それ、おそらく、このストーリーの元ネタの一つです。<BR>重ねて想像されると楽しめるでしょう<BR><BR><BR><BR>
 </td></tr>
-</table><br><table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong>���Ȃ���</strong>
+</table><br><table width="100%"><tr><td width="80%" bgcolor="#00FFCC"><strong>すなさん</strong>
   <i>2001/04/18 23:53:09</i><br></td>
 <td  bgcolor="#00CCFF" width="20%" align="right">
-<a href="noteky.cgi?c=notemenu&f=11&id=987605589aqpqwkx&id2=985430598badojxc&ff=on" >APPEND 35</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
-�O�`�Q�F<BR>���P�X�W�O�~�̏e<BR>��͂́c�B<BR>���䂢�Ȃ��i���j�B<BR>�o�b�̑O�ŏ΂��܂����Ă܂��B<BR>���������̂�������̂��c�B<BR>�܂����̂����u���������Ă��ꂽ�ʂł����΂�Ƃ͓���v���Ȃ��v�̂ŁA�܂�������炩���Ă����ł��傤�B<BR>
+<a href="noteky@c_notemenu_f_11_id_987605589aqpqwkx_id2_985430598badojxc_ff_on.cgi" >APPEND 35</a></td></tr><tr bgcolor="#CCFFFF"><td colspan="2">
+外伝２：<BR>＞１９８０円の銃<BR>わはは…。<BR>こゆいなあ（爆）。<BR>ＰＣの前で笑いまくってます。<BR>こういうのもいけるのか…。<BR>またそのうち「研究所が焼かれた位でくたばるとは到底思えない」ので、また何かやらかしてくれるでしょう。<BR>
 </td></tr>
 </table><br><br><br><div align="right">
-<font size="+1" color="#008080"><strong> <a href="noteky.cgi?c=noteidx&f=12&ff=on">
-�I�����C����i#3</a> </strong></font>
+<font size="+1" color="#008080"><strong> <a href="noteky@c_noteidx_f_12_ff_on.cgi">
+オンライン作品#3</a> </strong></font>
 <br>
 <hr width="40%" align="right">
 </div><br><br>
-[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɖ߂�</a>]
+[<a href="noteky@_ff_on.cgi" >ノート一覧に戻る</a>]
 </body>
 </html>

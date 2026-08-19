@@ -1,112 +1,112 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#3/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#3/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=12&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_12_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=12&id=960994628abgga&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">�I�����C����i#3</a>]<br>
+[<a href="noteky@c_noteread_f_12_id_960994628abgga_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">オンライン作品#3</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�e���i�����ނ��߁j�E�ό���</font><br>
+<font size="+2" color="#0000FF">兎娘（うさむすめ）・変幻っ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art56.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/06/14 23:57:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art56.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/06/14 23:57:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=960994628abgga&id2=960994628abgga&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_960994628abgga_id2_960994628abgga_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �ŋ߁A�e���Ńu���C�N���̓e�����񂽂��BMONDO���񂪁A����܂���̍��񂾕ό��e���i���q�j�����`���Ă���܂����I �����N���b�N���邽�тɕό����Ă����܂��B���Ў����Ă݂ĉ������B
+【推薦文】 最近、各所でブレイク中の兎娘さんたち。MONDOさんが、これまた手の込んだ変幻兎娘（息子）さんを描いてくれました！ ワンクリックするたびに変幻していきます。ぜひ試してみて下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/06/17 01:21:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/06/17 01:21:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=961172480wsxdk&id2=960994628abgga&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_961172480wsxdk_id2_960994628abgga_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ��Ȃ��A��̍��񂾃C���X�g������ł��ˁ��l�n�m�c�n����<BR>�������芬�\�����Ă��������܂����B
+なかなか、手の込んだイラスト＆趣向ですね＞ＭＯＮＤＯさん<BR>じっくり堪能させていただきました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������� �N</strong>  <i>2000/06/20 20:09:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>いしがき 哲</strong>  <i>2000/06/20 20:09:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=961499383rhuewl&id2=960994628abgga&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_961499383rhuewl_id2_960994628abgga_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ŋ߂͖�S�I�ȍ�i�������Ă��āA�Ȃ��Ȃ�<BR>��������������܂��̂��`�B<BR>��͂�s�������GIF�A�j����FRASH�ɂȂ�̂�!?
+最近は野心的な作品が増えてきて、なかなか<BR>見ごたえがありますのう～。<BR>やはり行きつく先はGIFアニメかFRASHになるのか!?
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�_�藺</strong>  <i>2000/06/24 03:02:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>神崎亮</strong>  <i>2000/06/24 03:02:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=961783337kqgmpiq&id2=960994628abgga&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_961783337kqgmpiq_id2_960994628abgga_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Ō�̊G�ŁA�ޏ��̕\��y�������ȕ��ɂȂ��Ă���̂����ɋC�ɂȂ�܂����B�������Ă邶���I(��)
+　最後の絵で、彼女の表情が楽しそうな物になっているのが妙に気になりました。順応してるじゃん！(笑)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.ops.dti.ne.jp/~milk/" target="_blank">�݂邭���P</a></strong>  <i>2000/07/08 05:13:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.ops.dti.ne.jp/~milk/" target="_blank">みるく聖姫</a></strong>  <i>2000/07/08 05:13:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=963000836craij&id2=960994628abgga&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_963000836craij_id2_960994628abgga_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āA�l�n�m�c�n����B�݂邭���P�ł��B<BR>�^�邳��ɋ����Ă��������ĖK�₵�܂����B����`�A���C�o���o��ł��ˁi�΁j���ꂵ�������B<BR>���ꂩ����u���N�������������v�̕��y�ׂ̈ɂ��݂��撣��܂��傤�I
+はじめまして、ＭＯＮＤＯさん。みるく聖姫です。<BR>真城さんに教えていただいて訪問しました。いや～、ライバル登場ですね（笑）うれしいっす。<BR>これからも「少年少女うさぎ娘」の普及の為にお互い頑張りましょう！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/07/31 21:44:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/07/31 21:44:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=965047478yqsswnb&id2=960994628abgga&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_965047478yqsswnb_id2_960994628abgga_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���@����`�A���C�o���o��ł��ˁi�΁j���ꂵ�������B<BR><BR>�@�݂邭���P����Ƀ��C�o���錾����Ă��܂����c�c�B<BR>�@�����炱���A��낵���B
+＞　いや～、ライバル登場ですね（笑）うれしいっす。<BR><BR>　みるく聖姫さんにライバル宣言されてしまった……。<BR>　こちらこそ、よろしく。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ԂŁ[��</strong>  <i>2000/08/12 21:16:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花でーす</strong>  <i>2000/08/12 21:16:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=966082591oemrn&id2=960994628abgga&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_966082591oemrn_id2_960994628abgga_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ђ��[!!<BR>���킢�[!!<BR>�c�ł��A�����u�I�g�R���ۂ��G�����v�A���Ȃ��Ȃ���������݂����B<BR>���񂾂�ϐg���Ă����Ƃ�����悩�������ǁA�Ō�Ɂu���M�����Ղ�̏Ί�v�ɂȂ����Ⴄ�Ƃ��낪�A����ό��N�I�ł�����ˁ[�B<BR>�y��������
+おひさー!!<BR>かわいー!!<BR>…でも、もう「オトコっぽい萌え方」、しなくなっちゃったみたい。<BR>だんだん変身していくところもよかったけど、最後に「自信たっぷりの笑顔」になっちゃうところが、やっぱ健康的でいいよねー。<BR>楽しい♪♪♪
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="12">
 <input type="hidden" name="id" value="960994628abgga">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">�I�����C����i#3</a>]<br>
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">オンライン作品#3</a>]<br>
 
 </p>
 </body>

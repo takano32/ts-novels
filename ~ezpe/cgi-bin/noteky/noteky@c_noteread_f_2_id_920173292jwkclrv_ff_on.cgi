@@ -1,52 +1,52 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�����R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>少女コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=2&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_2_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=2&id=920173292jwkclrv&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=2&ff=on">�����R�~�b�N</a>]<br>
+[<a href="noteky@c_noteread_f_2_id_920173292jwkclrv_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_2_ff_on.cgi">少女コミック</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�s�v�c�̍��̏��N�A���X</font><br>
+<font size="+2" color="#0000FF">不思議の国の少年アリス</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����@�^</strong>  <i>1999/02/28 12:41:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>匿名機某</strong>  <i>1999/02/28 12:41:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=2&id=920173292jwkclrv&id2=920173292jwkclrv&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_2_id_920173292jwkclrv_id2_920173292jwkclrv_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�J�e�S���C�Y�ɔY�܂������i�B������̃y�[�W�ł�<BR>�]���͍����悤�ł��ˁB<BR>�@�l�I�Ȉӌ��ł͎኱�󋵂ɑ�����Ă͂���Ƃ͌����A<BR>����I�ɏ�������n�̕���ł͂��܂����G���܂���B����<BR>���A�P�s�{��ꊪ�̕`�����낵�҂͍ō��ł����B��������<BR>�j�œI�ȍ�i�͑�D���Ȃ̂ŁB�uTo Be Continued�v�Ƃ���<BR>���̂ŁA����̃G�s�\�[�h�ł��肷�Ɖ��q�̌�����������<BR>�����̂Ɗ��҂��Ă����̂ł����A���̌�̓W�J�͊F����<BR>�������̒ʂ�ł��B<BR>�@�s�𗝒Z�҂Ȃ̂ő����̃p���������[���h�������āA��<BR>�ɂ͊��S�ɐ��]���������Ă��܂��b���������̂ł����A<BR>���̘b��ǂ񂾎��͕��G�ȑz���ł����˂��B���Ȃ蒷����<BR>�Ƃ��炳��Ă��������ɁA���������G���邩�Ǝv�����₳<BR>�ɂ��炸�B����ς��]�͎������Ȃ������ł��Ô��Ȃ̂�<BR>���傤���i�΁j�B<BR>�@���Ȃ�̐l�C��Ȃ̂ł��̊��z���獷���ʂł��傤�B�v<BR>������̋������ɂ͂���܂���B
+　カテゴライズに悩ませられる作品。こちらのページでの<BR>評価は高いようですね。<BR>　個人的な意見では若干状況に促されてはいるとは言え、<BR>自主的に女装する系の物語ではいまいち萌えません。しか<BR>し、単行本第一巻の描き下ろし編は最高でした。ああいう<BR>破滅的な作品は大好きなので。「To Be Continued」とあっ<BR>たので、直後のエピソードでありすと王子の結婚式が見ら<BR>れるものと期待していたのですが、その後の展開は皆さん<BR>ご存じの通りです。<BR>　不条理短編なので多くのパラレルワールドがあって、中<BR>には完全に性転換させられてしまう話もあったのですが、<BR>あの話を読んだ時は複雑な想いでしたねえ。かなり長いこ<BR>とじらされていただけに、さぞかし萌えるかと思いきやさ<BR>にあらず。やっぱり願望は実現しない内が最も甘美なので<BR>しょうか（笑）。<BR>　かなりの人気作なのでその感想も千差万別でしょう。思<BR>い入れの強い方にはすんません。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="2">
 <input type="hidden" name="id" value="920173292jwkclrv">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=2&ff=on">�����R�~�b�N</a>]<br>
+[<a href="noteky@c_noteidx_f_2_ff_on.cgi">少女コミック</a>]<br>
 
 </p>
 </body>

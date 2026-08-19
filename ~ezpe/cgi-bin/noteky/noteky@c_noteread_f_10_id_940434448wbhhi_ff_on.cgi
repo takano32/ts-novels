@@ -1,82 +1,82 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=940434448wbhhi&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_940434448wbhhi_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�ψ����̓��C�h����?�^�邳��Edition</font><br>
+<font size="+2" color="#0000FF">委員長はメイドさん?真城さんEdition</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">���������E�Ă�</a></strong>  <i>1999/10/21 00:47:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:mega@craft.104.net" target="_blank">いしがき・てつ</a></strong>  <i>1999/10/21 00:47:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=940434448wbhhi&id2=940434448wbhhi&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_940434448wbhhi_id2_940434448wbhhi_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����A���������ł��B�^�邳���<BR>�����ꂽ�u�ψ����́`�v�ǂ݂܂����B<BR>�i����s�v�c�ȍ�i�ł����ˁH<BR>���Ɠ��������A���̘b(�ݒ�?)������<BR>���낢��ȑz�����o�����Ⴂ�܂��ˁB<BR>���ψ����̉��l�����E�j�������̂��H�Ƃ��B<BR>���̌�̂��b�Ƃ��B��肢�ł��ˁB
+どうも、いしがきです。真城さんの<BR>書かれた「委員長は～」読みました。<BR>ナンや不思議な作品でしたね？<BR>一種独特ちうか、あの話(設定?)だけで<BR>いろいろな想像が出来ちゃいますね。<BR>歴代委員長の何人が元・男だったのか？とか。<BR>その後のお話とか。上手いですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">���Ȃ���</a></strong>  <i>1999/11/26 02:42:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">すなさん</a></strong>  <i>1999/11/26 02:42:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943551779jltwhjw&id2=940434448wbhhi&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943551779jltwhjw_id2_940434448wbhhi_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Z�̕����Ղɂ́A�P�Q�A�����ȏo�������K������E�E�E<BR>�i��ʌ��J���Ă���w�Z�̘b�B���J���Ȃ��Ƃ���͊w�Z���̔��肪���߂��ł��b�ɂȂ�܂���B�j<BR>��ԋ����Ȃ̂͋i���X�ƃp���[�h�ł��B<BR>�u���C�h����ɂȂ����ψ����v�̑��ɂ������������i�H�j�̔ߌ���<BR>�����Ă������ȕ��͋C��Y�킹�邠���肪���Ƃ������Ȃ��ł��B
+高校の文化祭には、１つ２つ、凶悪な出し物が必ずある・・・<BR>（一般公開している学校の話。公開しないところは学校側の縛りが強過ぎでお話になりません。）<BR>一番凶悪なのは喫茶店とパレードです。<BR>「メイドさんになった委員長」の他にも数名が女装（？）の悲劇に<BR>遭っていそうな雰囲気を漂わせるあたりが何ともいえないです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�^��@�I</a></strong>  <i>1999/12/16 05:34:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">真城　悠</a></strong>  <i>1999/12/16 05:34:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=945290058ikgebrg&id2=940434448wbhhi&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_945290058ikgebrg_id2_940434448wbhhi_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����[�A����ȏ��ɏ������݂��[�i�΁j�B�C���t���܂���ł����܂���B<BR>�@���͒��w���̎��̑̈���̏��������c�i����[�j����ԋ���ł����ˁB�����Ղł̓C�}�C�`�B���܂ɂ���Ă����}�n���Y�̈������x�̃N�I���e�B�E�E�E�B���[��A�ӂ����鎞�ɂ͖{�C�łӂ����Ȃ��Ɓi�΁j�B������Î҂Ȃ烌���^���h���X�̕��������Ɏ���o���ʂ͂����̂ɁA�Ƃ��ˁB�ܘ_�����ł͒��܂���i�����j�B
+　うおー、こんな所に書きこみがー（笑）。気が付きませんですいません。<BR>　私は中学生の時の体育大会の女装応援団（ぎゃー）が一番強烈でしたね。文化祭ではイマイチ。たまにやっても東急ハンズの安物程度のクオリティ・・・。うーん、ふざける時には本気でふざけないと（笑）。私が主催者ならレンタルドレスの払い下げに手を出す位はしたのに、とかね。勿論自分では着ません（爆爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">���Ȃ���</a></strong>  <i>1999/12/18 23:44:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:pxu17421@nifty.ne.jp" target="_blank">すなさん</a></strong>  <i>1999/12/18 23:44:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=945528271pjxxq&id2=940434448wbhhi&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_945528271pjxxq_id2_940434448wbhhi_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;���[��A�ӂ����鎞�ɂ͖{�C�łӂ����Ȃ��Ɓi�΁j�B<BR>&gt;������Î҂Ȃ烌���^���h���X�̕��������Ɏ���o���ʂ͂����̂ɁA�Ƃ��ˁB<BR>&gt;�ܘ_�����ł͒��܂���i�����j�B <BR><BR>�����Ȃ�L����A�k��A������ӂ�̍��Z�Ȃ琶�n�����߂����A�C�����ĖD���Ă������ȋC������E�E�E�i����@�ɂf�p���ƈꏏ�ɕ��荞��ł��j��Ȃ��悤�Ȉʂ̂��B�j<BR><BR>�����͂Q�N�A���Ŗ͋[�X�������i�����͎����B���ƂƓ����ɐ�����������j�̂ŕ��i���ł����B
+&gt;うーん、ふざける時には本気でふざけないと（笑）。<BR>&gt;私が主催者ならレンタルドレスの払い下げに手を出す位はしたのに、とかね。<BR>&gt;勿論自分では着ません（爆爆）。 <BR><BR>東京なら豊島区、北区、文京区辺りの高校なら生地屋も近いし、気張って縫っていそうな気がする・・・（洗濯機にＧパンと一緒に放り込んでも破れないような位のを。）<BR><BR>うちは２年連続で模擬店だった（当時は私服。卒業と同時に制服化が決定）ので普段着でした。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="940434448wbhhi">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

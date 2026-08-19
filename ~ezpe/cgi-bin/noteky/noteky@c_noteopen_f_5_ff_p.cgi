@@ -1,13 +1,13 @@
 
 <html>
 <head>
-<title>ƒQ[ƒ€/Ž„‚ÌƒIƒXƒXƒ</title>
+<title>ã‚²ãƒ¼ãƒ /ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <frameset rows="*,60%">
-<frame src="noteky.cgi?c=noteidx&f=5" name="idx"></frame>
-<frame src="noteky.cgi?c=wspace&f=5" name="arc"></frame>
+<frame src="noteky@c_noteidx_f_5.cgi" name="idx"></frame>
+<frame src="noteky@c_wspace_f_5.cgi" name="arc"></frame>
 <noframe>
-‚±‚Ìƒuƒ‰ƒEƒU‚ÍƒtƒŒ[ƒ€‚ªŽg—p‚Å‚«‚Ü‚¹‚ñB
+ã“ã®ãƒ–ãƒ©ã‚¦ã‚¶ã¯ãƒ•ãƒ¬ãƒ¼ãƒ ãŒä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚
 </noframe>
 </frameset>
 </html>

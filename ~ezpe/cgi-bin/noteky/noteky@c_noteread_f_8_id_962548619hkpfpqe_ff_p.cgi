@@ -1,46 +1,46 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>‚»‚Ì‘¼ì•i/Ž„‚ÌƒIƒXƒXƒ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ãã®ä»–ä½œå“/ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=8&id=962548619hkpfpqe&ff=p&ca=r">ÅV‚Ìî•ñ‚ÉXV</a>] 
+[<a href="noteky@c_noteread_f_8_id_962548619hkpfpqe_ff_p_ca_r.cgi">æœ€æ–°ã®æƒ…å ±ã«æ›´æ–°</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">ƒ‰ƒWƒIƒrƒbƒOƒoƒ“</font><br>
+<font size="+2" color="#0000FF">ãƒ©ã‚¸ã‚ªãƒ“ãƒƒã‚°ãƒãƒ³</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>–A</strong>  <i>2000/07/02 23:36:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>æ³¡</strong>  <i>2000/07/02 23:36:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=8&id=962548619hkpfpqe&id2=962548619hkpfpqe&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_8_id_962548619hkpfpqe_id2_962548619hkpfpqe_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-ŽµŒŽ“ñ“ú“ú—j“úŒßŒã\ˆêŽžŽO\•ª‚©‚ç•¶‰»•ú‘—‚Å•ú‘—‚³‚ê‚½<BR>ƒ‰ƒWƒI”Ô‘guƒ‰ƒWƒIƒrƒbƒOƒoƒ“v‚Íƒp[ƒ\ƒiƒŠƒeƒB[‚ÌŠÖ’qˆê‚Æ<BR>’·‘ò”üŽ÷‚ªŠK’i‚©‚ç—Ž‚¿‚½ƒVƒ‡ƒbƒN‚Å“ü‚ê‘Ö‚í‚Á‚½‚Æ‚¢‚¤Ý’è‚Å<BR>is‚µ‚Ä‚Ü‚·B
+ä¸ƒæœˆäºŒæ—¥æ—¥æ›œæ—¥åˆå¾Œåä¸€æ™‚ä¸‰ååˆ†ã‹ã‚‰æ–‡åŒ–æ”¾é€ã§æ”¾é€ã•ã‚ŒãŸ<BR>ãƒ©ã‚¸ã‚ªç•ªçµ„ã€Œãƒ©ã‚¸ã‚ªãƒ“ãƒƒã‚°ãƒãƒ³ã€ã¯ãƒ‘ãƒ¼ã‚½ãƒŠãƒªãƒ†ã‚£ãƒ¼ã®é–¢æ™ºä¸€ã¨<BR>é•·æ²¢ç¾Žæ¨¹ãŒéšŽæ®µã‹ã‚‰è½ã¡ãŸã‚·ãƒ§ãƒƒã‚¯ã§å…¥ã‚Œæ›¿ã‚ã£ãŸã¨ã„ã†è¨­å®šã§<BR>é€²è¡Œã—ã¦ã¾ã™ã€‚
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>ƒƒbƒZ[ƒWF</b><br>
+<form action="noteky.cgi" method="post" >
+<b>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼š</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="8">
 <input type="hidden" name="id" value="962548619hkpfpqe">
 <P></P>
-<b>‚¨–¼‘OF</b><br>
+<b>ãŠåå‰ï¼š</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>ƒ[ƒ‹ƒAƒhƒŒƒXF</b><br>
+<b>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ï¼š</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>¦ mailto:‚ðhttp://‚É’¼‚¹‚ÎURL‚ð“ü—Í‚Å‚«‚Ü‚·B</font>
+<font size=-1>â€» mailto:ã‚’http://ã«ç›´ã›ã°URLã‚’å…¥åŠ›ã§ãã¾ã™ã€‚</font>
 <P>
-<input type="submit" value="‘‚«ž‚Ý"><br>
+<input type="submit" value="æ›¸ãè¾¼ã¿"><br>
 <font size=-1>
-¦‘‚«ž‚ÝŒã‚ÍAƒuƒ‰ƒEƒU‚Ìu–ß‚évƒ{ƒ^ƒ“‚Å–ß‚Á‚Ä‰º‚³‚¢B<br>
+â€»æ›¸ãè¾¼ã¿å¾Œã¯ã€ãƒ–ãƒ©ã‚¦ã‚¶ã®ã€Œæˆ»ã‚‹ã€ãƒœã‚¿ãƒ³ã§æˆ»ã£ã¦ä¸‹ã•ã„ã€‚<br>
 </font>
 </form>
 <hr><BR>

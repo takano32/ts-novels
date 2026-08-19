@@ -1,175 +1,175 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>少年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&id=968675148chltk&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_id_968675148chltk_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">������܃��[���C�N</font><br>
+<font size="+2" color="#0000FF">おじゃまユーレイ君</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/" target="_blank">���d�F�ꐬ</a></strong>  <i>2000/09/11 21:25:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/index.html" target="_blank">八重洲一成</a></strong>  <i>2000/09/11 21:25:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968675148chltk&id2=968675148chltk&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968675148chltk_id2_968675148chltk_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̍�i�Ƃ܂ł����Ă����A���́u������܃��[���C�N�v�������Ƃ������Ɋ��������ԂɁB<BR>������@��Ɏn�߂Ă悵����i�搶�̓Ɠ��̃}���K���E�ɐG���l���������ƂƎv���܂��B�����͎v�������A��荇���܂��傤�B<BR>�ڎw���́A���̐����Łu�q���C���N�v�P�s�{��?!
+幻の作品とまでいわれていた、あの「おじゃまユーレイ君」が復刊という誠に嬉しい事態に。<BR>これを機会に始めてよしかわ進先生の独特のマンガ世界に触れる人も多いことと思います。ここは思う存分、語り合いましょう。<BR>目指すは、この勢いで「ヒロイン君」単行本化?!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:works@ba2.so-net.ne.jp" target="_blank">�܂�</a></strong>  <i>2000/09/11 21:42:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:works@ba2.so-net.ne.jp" target="_blank">まつ</a></strong>  <i>2000/09/11 21:42:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968676148kqyqac&id2=968675148chltk&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968676148kqyqac_id2_968675148chltk_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����20��㔼�̐l�͂܂��ɏ��w���̍����̍�i��ǂ�ł����Ǝv���܂�^^<BR>���[���C�N��q���C���N�łs�r���m�ɖڊo�߂��l�����邩������܂���ˁB<BR>�@�q���C���N������P�s�{�����ė~�����ł���ˁ[
+今の20代後半の人はまさに小学生の頃この作品を読んでいたと思います^^<BR>ユーレイ君やヒロイン君でＴＳモノに目覚めた人もいるかもしれませんね。<BR>　ヒロイン君も是非単行本化して欲しいですよねー
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2000/09/11 21:56:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2000/09/11 21:56:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968676993ncltej&id2=968675148chltk&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968676993ncltej_id2_968675148chltk_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�v���Ԃ��΁A���c�߈˃��m�Ƃ������i�ł��ˁB<BR><BR>�����́A���������A�G�b�`�������`�ʂ�<BR>�ŋ߂ł́A������O�i�H�j�Ƃ�������������<BR>���ꂾ���ɁA���̕ӂ̋삯�������ǂ������悤�ȁB<BR><BR>
+思い返せば、元祖憑依モノといえる作品ですね。<BR><BR>当時は、けっこう、エッチだった描写も<BR>最近では、当たり前（？）という感じだけど<BR>それだけに、その辺の駆け引きが良かったような。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��</strong>  <i>2000/09/11 22:19:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あ</strong>  <i>2000/09/11 22:19:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968678392sdsuhh&id2=968675148chltk&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968678392sdsuhh_id2_968675148chltk_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���Z���̂��낾����A10�N���傢�O���B�F�l��œǂ񂾌�<BR>�G���ɍڂ��Ă��A�ڂ�ǂ񂾂��Ƃ�����܂��B�L���ɊԈႢ<BR>���Ȃ���΃R���R���R�~�b�N�ł��ˁB���ɖʔ�����������<BR>�ŁA���̌�A��R�̃}���K�ƈꏏ�ɂ�����Ƃ��̎G�����؂�<BR>����ł����A���S�҂̎��́A������؂�|�����Ƃ��ł����A<BR>�Ԃ��Ă��܂��܂����B<BR>�@�Ԃ����Ƃ��̗F�l�̐e�䂳��̃Z���t�u����ȌÂ��G���A<BR>�ʂɎ̂ĂĂ����Ă����Ηǂ������̂Ɂv�𕷂����Ƃ��ɂ�<BR>�傢�Ɍ�����܂������A�����ŎG����Ⴄ�Ȃ�Đ^�����ł����A<BR>�܂��A����ȌÎG��������ēx�؂��Ȃ�Ă��Ƃ��ł����B<BR>�����A�l���Ă݂�ƂƂ��Ƃ񏬐S�҂������񂾂Ȃ� (^^; �B<BR><BR>�@����Ȃق�ꂢ�t��⊮�ł��鍡��̕����B<BR>21���I��O�ɂ������y�Y���ł��܂��� (^_^)<BR>
+　高校生のころだから、10年ちょい前か。友人宅で読んだ古<BR>雑誌に載ってた連載を読んだことがあります。記憶に間違い<BR>がなければコロコロコミックですね。非常に面白く感じたの<BR>で、その後、沢山のマンガと一緒にしれっとその雑誌も借り<BR>たんですが、小心者の私は、それを借り倒すことができず、<BR>返してしまいました。<BR>　返したときの友人の親御さんのセリフ「こんな古い雑誌、<BR>別に捨てておいてくれれば良かったのに」を聞いたときには<BR>大いに後悔しましたが、そこで雑誌を貰うなんて真似もできず、<BR>また、そんな古雑誌だから再度借りるなんてこともできず。<BR>ああ、考えてみるととことん小心者だったんだなぁ (^^; 。<BR><BR>　そんなほろ苦い青春を補完できる今回の復刊。<BR>21世紀を前にいいお土産ができました (^_^)<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ԃ}���g</strong>  <i>2000/09/12 02:43:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>赤マント</strong>  <i>2000/09/12 02:43:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968694235aorfv&id2=968675148chltk&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968694235aorfv_id2_968675148chltk_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂�����Ə����d����Ă����̂ł����A�u�܂����̃q�J������v<BR>�Ɓu�J�v�Z���@�N�b�L�[�v�̓���������^�Ƃ̂��Ƃł��B<BR><BR>���ƁA�悵����搶�̃C���^�r���[������Ƃ��B<BR>����[�A�����̂��y���݂ɂȂ��Ă��܂����B<BR>�A���P�[�g�t���������Ă��Ёu�q���C������v���E�E�E�E�B<BR>
+いまちらっと情報を仕入れてきたのですが、「まさかのヒカルくん」<BR>と「カプセル　クッキー」の二つも同時収録とのことです。<BR><BR>あと、よしかわ先生のインタビューもあるとか。<BR>いやー、買うのが楽しみになってきました。<BR>アンケート葉書をだしてぜひ「ヒロインくん」も・・・・。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://homepage2.nifty.com/tukimono/index.html" target="_blank">���ク</a></strong>  <i>2000/09/12 03:16:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://homepage2.nifty.com/tukimono/index.html" target="_blank">ちゅけ</a></strong>  <i>2000/09/12 03:16:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968696215nonts&id2=968675148chltk&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968696215nonts_id2_968675148chltk_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ�ƁI�I�u�܂����̃q�J������v�܂ł������^�ł������I�I<BR>����Ⴗ�����ł��B<BR>���܂܂Ńl�b�g��ł����l�Ŏ������Ă��Ď肪�͂��Ȃ���������ǁA����ŔO�肪�ʂ����܂���`�B�i���܁A���l�ŏo�i���Ă��N������Ȃ��ł��傤�˂���`�B�j<BR>���͏��w���̓����R�~�b�N�{���{���h�ł����̂ŁE�E�E��ɒm��܂����B1����3���̓I�t��Ō����Ă����������̂ł����A2�����܂��������̂ł��B<BR>���₟�`�������y���݂ł��I�I�߈˔h�̃o�C�u��Get�����`���I�I
+なんと！！「まさかのヒカルくん」までもが収録ですかっ！！<BR>こりゃすごいです。<BR>いままでネット上でも高値で取引されていて手が届かなかったけれど、これで念願が果たせますよ～。（いま、高値で出品しても誰も買わないでしょうねぇ♪～。）<BR>私は小学生の当時コミックボンボン派でしたので・・・後に知りました。1巻と3巻はオフ会で見せていただいたのですが、2巻がまだだったのです。<BR>いやぁ～明日が楽しみです！！憑依派のバイブルGetだぜ～っ！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>2000/09/13 14:17:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>2000/09/13 14:17:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968822250dqnya&id2=968675148chltk&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968822250dqnya_id2_968675148chltk_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�q���C���N�͈ȑO�̃I�t��œW���������Ƃ�����܂���<BR>�Ƃ��Ƃ������q�t�^�f�ڂ̂��b���Q�b�g�ł��l�I�ɂ�<BR>���S�ɃR���N�g�ł��܂����B^^<BR>  �P�s�{�������̂��x�X�g�Ȃ�ł����ǂ�^^
+ヒロイン君は以前のオフ会で展示したことがありますが<BR>とうとう小冊子付録掲載のお話もゲットでき個人的には<BR>完全にコレクトできました。^^<BR>  単行本化されるのがベストなんですけどね^^
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>MASATO</strong>  <i>2000/09/14 22:56:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968939761wrsohoc&id2=968675148chltk&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968939761wrsohoc_id2_968675148chltk_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ċA���Ă��܂����B<BR>������������ė܂ł��Ⴂ�����i�΁j<BR><BR>�����ǂ݂���Q�҂��R�s�[���e���Ƃ����̂��ɂ����ł���
+買って帰ってきました。<BR>いや懐かしくて涙でちゃいそう（笑）<BR><BR>ただ読みきり２編がコピー原稿だというのが惜しいですね
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:hiro-sho@geocities.co.jp" target="_blank">�L���@��</a></strong>  <i>2000/09/15 02:41:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:hiro-sho@geocities.co.jp" target="_blank">広尾　翔</a></strong>  <i>2000/09/15 02:41:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968953292htgvaq&id2=968675148chltk&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968953292htgvaq_id2_968675148chltk_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���ǂݏI���܂����B�Ȃ�Ƃ������c�c�Q�O�N�Ԃ�ŁA���S�ɒ^���Ă��܂��A���X�g�ȊO�قƂ�Ǔ��e�͖Y��Ă��܂������ǁi�΁j�B<BR>�@�^�A�L�n�o���̑�^���X�Ŕ�������ł����A���Ȃ蔄��Ă����Ȋ����ł����B<BR>�@���ǂނƁA���낢�뎦���ɕx��?!�Ƃ��낪�����ł��l�i�΁j�B<BR>�@�m���Ɂu�܂����̃q�J������v�͌��e�R�s�[�Ȃ̂��A������Ƃ����c�O�ł����A���̕���̖l�̌��_�݂����Ȃ̂��Ċm�F�����Ƃ������i�΁j�B<BR>�@���������l�͂��̃y�[�W�ɗ��ď��߂āu�q���C���N�v�̂��Ƃ�m�����̂ł����\�\�e���r����͌��Ė���������ł��I�j�ā\�\����o���Ăق����ƃA���P�[�g�n�K�L�ɏ��������ȂƎv�����肵�āi�΁c�c���������w�����x�炵���ł���j�B���łɁu�Ȃ�����̃R�R�i�b�c�v���i�΁j�B
+　今読み終わりました。なんというか……２０年ぶりで、感慨に耽っています、ラスト以外ほとんど内容は忘れていましたけど（笑）。<BR>　某アキハバラの大型書店で買ったんですが、かなり売れてそうな感じでした。<BR>　今読むと、いろいろ示唆に富む?!ところが多いですネ（笑）。<BR>　確かに「まさかのヒカルくん」は原稿コピーなのが、ちょっとだけ残念ですが、この分野の僕の原点みたいなのを再確認したというか（笑）。<BR>　そうそう僕はこのページに来て初めて「ヒロイン君」のことを知ったのですが――テレビくんは見て無かったんです！嗚呼――是非出してほしいとアンケートハガキに書こうかなと思ったりして（笑……けっこう『効く』らしいですよ）。ついでに「ないしょのココナッツ」も（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�Q�b�^�[�p</strong>  <i>2000/09/15 10:17:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真ゲッターＱ</strong>  <i>2000/09/15 10:17:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968980658wgnjtl&id2=968675148chltk&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968980658wgnjtl_id2_968675148chltk_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����w���v���܂����I<BR>�Ȃ�ƂȂ�����ȍ~�A��]���W�܂�΁u�q���C������v�̒P�s�{��������ɓ���Ă邼�I�݂����Ȑ������A�u�q�J������v�̘̍^���͂��߂Ƃ��āA�ҏW�̂͂��΂��Ɍ�����悤�ȋC�������ł����ǁE�E�E�A�C�̂����ł��傤���H<BR><BR>�����łɁu�Ȃ�����̃R�R�i�b�c�v���i�΁j<BR>�Ă�Ƃ����R�~�b�N�X�Ɏ��^���ꂽ�̂́A�P���V�[�Y���݂̂ł������A�ł���΂��̌�A�V���J�X���čăX�^�[�g�����ȍ~�̕����f�ڂ����Ɨǂ��ł��ˁB���ɂX�R�N�ȍ~�̃��c�̕����A�s�r�E�P���ǂ���������Ȃ��ł���B 
+私も購入致しました！<BR>なんとなく次回以降、希望が集まれば「ヒロインくん」の単行本化も視野に入れてるぞ！みたいな勢いが、「ヒカルくん」の採録をはじめとして、編集のはしばしに見られるような気がするんですけど・・・、気のせいでしょうか？<BR><BR>＞ついでに「ないしょのココナッツ」も（笑）<BR>てんとう虫コミックスに収録されたのは、１期シーズンのみでしたが、できればその後、新装開店して再スタートした以降の物も掲載されると良いですね。特に９３年以降のヤツの方が、ＴＳウケが良いかもしれないですよ。 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�Q�b�^�[�p</strong>  <i>2000/09/15 10:46:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真ゲッターＱ</strong>  <i>2000/09/15 10:46:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=968982361pwspp&id2=968675148chltk&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_968982361pwspp_id2_968675148chltk_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�q���C������v�݂������P�s�{���̕��͂Ƃ������A��łɂȂ��Ă�u�Ȃ�����̃R�R�i�b�c�v��u�o�[�R�[�h�t�@�C�^�[�v�Ȃ񂩂́A�u�����h�b�g�R���v�i<a href="http://www.fukkan.com/" target="_blank">http://www.fukkan.com/</a>�j�ɖ]�݂������Ă݂�̂��ǂ���������܂���ˁB
+「ヒロインくん」みたく未単行本化の物はともかく、絶版になってる「ないしょのココナッツ」や「バーコードファイター」なんかは、「復刊ドットコム」（<a href="http://www.fukkan.com/" target="_blank">http://www.fukkan.com/</a>）に望みをかけてみるのも良いかもしれませんね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>2000/09/17 19:26:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>2000/09/17 19:26:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=969186363hxusop&id2=968675148chltk&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_969186363hxusop_id2_968675148chltk_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�{���A����Ƃ�����ɓ���܂����B<BR>�������́A���̎�̖{���A���łŒu���Ă����<BR>�X�����Ȃ��āA�{���̂ɋ�J���܂��B<BR><BR>�����A�R���R���𔃂��Ă��āA���A���^�C���œǂ�ł����Ƃ͂����A<BR>���߂ēǂݒ����Ă݂�ƁA����`<BR>�ǂ����������A�W�O�N��̃}���K���Ȃ��B<BR><BR>�����Ƃ��ẮA���Ȃ�A�G�b�`�ŁA<BR>���N���̌��E�������̌������悤�ȓ��e�����ǁB<BR><BR>���Ƃ������̒��g�����镪�ɂ́A<BR>��͂�A�q���C��������A�������������Ƃ���<BR>��҂̎v���������B�ꂵ�Ă���悤�ȁB<BR><BR>�܂��A�݂�ȁA�A���P�[�g�t���́A�������ȁB
+本日、やっとこさ手に入れました。<BR>こっちは、この手の本が、初版で置いてくれる<BR>店が少なくて、捜すのに苦労します。<BR><BR>当時、コロコロを買っていて、リアルタイムで読んでいたとはいえ、<BR>改めて読み直してみると、いや～<BR>良くも悪くも、８０年代のマンガだなあ。<BR><BR>当時としては、かなり、エッチで、<BR>少年誌の限界兼制限の隙をつくような内容だけど。<BR><BR>あとがきやらの中身を見る分には、<BR>やはり、ヒロインくんを、復刻させたいという<BR>作者の思いが見え隠れしているような。<BR><BR>まあ、みんな、アンケート葉書は、だそうな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:yays@geocities.co.jp" target="_blank">���d�F�ꐬ</a></strong>  <i>2000/09/19 07:29:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:yays@geocities.co.jp" target="_blank">八重洲一成</a></strong>  <i>2000/09/19 07:29:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=969316187vsbchq&id2=968675148chltk&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_969316187vsbchq_id2_968675148chltk_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ς���������Ȃ��B�������A���^�C���Ō��Ă��̂͑�O���̍��������悤�ł��B�����͍�i�^�C�g���o���ĂȂ�������ł����ǂˁB<BR>�̖̂���i�R�~�b�N�ł͂Ȃ�����j�̗ǂ��݂����Ȃ��̂������Ō����Ă�悤�ȋC�����܂���H<BR>�Ƃ��ǂ��H��̌ǓƂ����ӂ���ƕ`����邠���肪�D���ł��B<BR>�����A�삭��̃Z�N�n���ɂ͂��Ă����Ȃ����Ƃ�����܂����ǁB(^^;<BR><BR>�q���C���N�����͎������Ăق����ł���ˁB<BR>�}�q�o�ł���ł͂��̗\��͏����ł�������̂ł��傤���H
+やっぱり懐かしいなぁ。私がリアルタイムで見てたのは第三部の頃だったようです。当時は作品タイトル覚えてなかったんですけどね。<BR>昔の漫画（コミックではなく漫画）の良さみたいなものが随所で光ってるような気がしません？<BR>ときどき幽霊の孤独さがふわっと描かれるあたりが好きです。<BR>正直、霊くんのセクハラにはついていけないこともありますけど。(^^;<BR><BR>ヒロイン君復刊は実現してほしいですよね。<BR>笠倉出版さんではその予定は少しでもあるものでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�܂�</strong>  <i>2000/09/19 20:50:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>まつ</strong>  <i>2000/09/19 20:50:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=969364206xrwisr&id2=968675148chltk&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_969364206xrwisr_id2_968675148chltk_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�t���[�̃��C�^�[����̎������݊��̗l�ł��B<BR>�Ȃ̂Ŋ}�q����o��܂łɒm���Ă邾���ł��Q�Ђ�<BR>��悪�ڍ����Ă��܂�(T_T)<BR>����̔���s������ł͂Ȃ��ł��傤���H
+フリーのライターさんの持ちこみ企画の様です。<BR>なので笠倉から出るまでに知ってるだけでも２社で<BR>企画が頓挫しています(T_T)<BR>今回の売れ行き次第ではないでしょうか？
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="968675148chltk">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

@@ -1,92 +1,92 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=963636128hdcmmge&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_963636128hdcmmge_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�l�̐�</font><br>
+<font size="+2" color="#0000FF">僕の青空</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/my_blue_sky.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/07/15 13:42:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/my_blue_sky.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/07/15 13:42:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=963636128hdcmmge&id2=963636128hdcmmge&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_963636128hdcmmge_id2_963636128hdcmmge_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���z�I�ŁA�v�킸�������܂�Ă��܂��X�g�[���[�ł��I
+【推薦文】 幻想的で、思わず引き込まれてしまうストーリーです！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/07/15 14:52:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/07/15 14:52:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=963640353vidcgbo&id2=963636128hdcmmge&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_963640353vidcgbo_id2_963636128hdcmmge_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���X�g��<BR>�u���Ȃ��̋L���͑��v�ł����H�v<BR>�̈ꕶ���~���������c�B<BR>����Ɩ����Ƃł͈�ۂ����Ȃ�قȂ�܂��B
+ラストに<BR>「あなたの記憶は大丈夫ですか？」<BR>の一文が欲しかった…。<BR>あると無いとでは印象がかなり異なります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g�h�j�t</strong>  <i>2000/07/15 19:07:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＨＩＫＵ</strong>  <i>2000/07/15 19:07:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=963655637umwnce&id2=963636128hdcmmge&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_963655637umwnce_id2_963636128hdcmmge_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���A�����L���������܂��B<BR>���u���Ȃ��̋L���͑��v�ł����H�v�̈ꕶ�ł����E�E�E<BR>�m���ɁA�L��Ɩ����Ƃł́A���Ȃ�ς��܂��ˁB<BR>���̈ꌾ�ŁA�ǎ҂̐��E�������Ȃ̂��A�񌻎��Ȃ̂��A<BR>�z���g�ɍ��̐��E���A�����̐��E�Ȃ̂��A�ƌ���<BR>���[����ۂ�^���܂��˂��B<BR>����́A��i�̎Q�l�ɂ����Ă��������܂��ł��B
+すなさん、いつも有り難うございます。<BR>＞「あなたの記憶は大丈夫ですか？」の一文ですか・・・<BR>確かに、有ると無いとでは、かなり変わりますね。<BR>その一言で、読者の世界が現実なのか、非現実なのか、<BR>ホントに今の世界が、自分の世界なのか、と言う<BR>より深い印象を与えますねっ。<BR>今後の、作品の参考にさせていただきますです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�a�`�e</strong>  <i>2000/07/16 20:07:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＢＡＦ</strong>  <i>2000/07/16 20:07:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=963745635iqmfcc&id2=963636128hdcmmge&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_963745635iqmfcc_id2_963636128hdcmmge_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ƂĂ��ʔ����q�������Ă��������܂����B<BR>�K�i�Ƃ���Ƃ����z�I�ȏ�����C�����悭���܂��Ă���Ǝv���܂��B<BR>���X�g�Ɋւ��ẮA���Ȃ���̃R�����g�ɏ�����v���ƁA�����Ƃ��̏�������g�������҂̍���I�����ɂ���΂����̂ɂƂ����v�����X�ł��B(�����Ƃ��r�r�Ƃ��Ă͂悭�܂Ƃ܂��Ă���̂Ŏ֑��ɂȂ��Ă��܂���������܂���ˁB�j
+とても面白く拝見させていただきました。<BR>階段とか空とか幻想的な小道具が気持ちよく決まっていると思います。<BR>ラストに関しては、すなさんのコメントに準ずる思いと、もっとこの小道具を使った続編の作れる終わり方にすればいいのにという思い半々です。(もっともＳＳとしてはよくまとまっているので蛇足になってしまうかもしれませんね。）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�g�h�j�t</strong>  <i>2000/07/16 22:52:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＨＩＫＵ</strong>  <i>2000/07/16 22:52:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=963755572beigi&id2=963636128hdcmmge&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_963755572beigi_id2_963636128hdcmmge_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�a�`�e����A�����z�L���������܂����B<BR>���҂Ɋւ��Č����΁A�S�R�l���Ă��Ȃ������̂ŁA���̂悤�ȏI�����ɂȂ��Ă��܂��܂����B<BR>���̍�i�S�ʂɂ����邱�ƂȂ�ł����ǁA�قƂ�Ǒ������ӎ��������Ƃ͂Ȃ���ł��B�����A�����Ă�����ɑ����������Ă��܂������͂���܂����ǂ˂��B<BR>�ł��A���̍�i���o�[�W�����A�b�v���āA������������悤�Ȃ��̂��l���Ă݂܂��˂��B<BR>�{���ɓǂ�ł��������āA�L���������܂����B
+ＢＡＦさん、ご感想有り難うございました。<BR>続編に関して言えば、全然考えていなかったので、このような終わり方になってしまいました。<BR>私の作品全般にいえることなんですけど、ほとんど続きを意識したことはないんです。ただ、書いている内に続きが書けてしまった物はありますけどねっ。<BR>でも、この作品もバージョンアップして、続きを書けるようなものを考えてみますねっ。<BR>本当に読んでくださって、有り難うございました。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="963636128hdcmmge">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

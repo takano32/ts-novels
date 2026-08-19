@@ -1,112 +1,112 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=943306184ytuou&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_943306184ytuou_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���i�̉ߋ��A�s�q�̖���</font><br>
+<font size="+2" color="#0000FF">誠司の過去、耀子の未来</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/the_fate.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/11/23 06:29:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/the_fate.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/11/23 06:29:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943306184ytuou&id2=943306184ytuou&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943306184ytuou_id2_943306184ytuou_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z SF�Ƃ����W�������Ƃ����̂́A��肭�͂܂����Ƃ��Ƀ��u���}���X�̗v�f�Ɣ��ɍ����e�a���������悤�ł��B�܂��ASF�Ƃ����`�ł͂��߂ĕ\���ł���y�[�\�X�Ƃ������̂�����܂��B���̍�i�Ȃǂ͂܂��ɂ��̌��{�ƌ����Ă������̂ł͂Ȃ��ł��傤���B���ʕω��̗v�f��ʂɂ��Ă��[���ɒʗp������Ɋ����x�̍����X�g�[���[�ł��B
+【推薦文】 SFというジャンルというのは、上手くはまったときにラブロマンスの要素と非常に高い親和性を示すようです。また、SFという形ではじめて表現できるペーソスというものがあります。この作品などはまさにその見本と言ってもいいのではないでしょうか。性別変化の要素を別にしても充分に通用する実に完成度の高いストーリーです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www03.u-page.so-net.ne.jp/za2/kmkm/" target="_blank">���d��</a></strong>  <i>1999/11/23 10:45:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www03.u-page.so-net.ne.jp/za2/kmkm/" target="_blank">豆電球</a></strong>  <i>1999/11/23 10:45:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943321519rnbtm&id2=943306184ytuou&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943321519rnbtm_id2_943306184ytuou_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����܂����B���d�F����̂��������ʂ�A����́w�r�e�ł����`���Ȃ����m�x����������`�����r�e���Ǝv���܂��B�\�������΂炵���B<BR><BR>&gt; �͋Ƃŉ����؂낤�Ƃ��܂����B<BR>�@�����ɉ����؂�܂����Ă܂��ˁB<BR>
+　やられました。八重洲さんのおっしゃる通り、これは『ＳＦでしか描けないモノ』をきっちり描いたＳＦだと思います。構成もすばらしい。<BR><BR>&gt; 力業で押し切ろうとしました。<BR>　見事に押し切りまくってますね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�f�q�Q</a></strong>  <i>1999/11/23 10:53:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">ＧＲ２</a></strong>  <i>1999/11/23 10:53:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943321982fvjvnr&id2=943306184ytuou&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943321982fvjvnr_id2_943306184ytuou_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ�[���E�E�E�u��̈�v�Ԃ������Ă܂��Ȃ��̍�i�B<BR><BR>�ǂ����̐V�l�܂Ȃ�A�ŏI�I�l�܂łȂ�y�X�c��񂶂�Ȃ��ł���[��
+なんつーか・・・「趣味の域」ぶち超えてますなこの作品。<BR><BR>どこぞの新人賞なら、最終選考までなら楽々残るんじゃないでしょーか
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��</strong>  <i>1999/11/24 01:55:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>髑髏</strong>  <i>1999/11/24 01:55:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943376129mtdeo&id2=943306184ytuou&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943376129mtdeo_id2_943306184ytuou_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͋Z�ŉ����؂낤�Ƃ����Ə����Ă܂����A�����o���ł��B<BR>�����ȗ͗ʂ������A���ꂩ����L���Ȕ��z�ł���΂��Ă��������B<BR>
+力技で押し切ろうとしたと書いてますが、押し出しです。<BR>見事な力量を感じ、これからも豊かな発想でがんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">���J�H�v</a></strong>  <i>1999/11/25 22:06:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">水谷秋夫</a></strong>  <i>1999/11/25 22:06:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943535174mkudy&id2=943306184ytuou&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943535174mkudy_id2_943306184ytuou_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����z���肪�Ƃ��������܂��B<BR>�@���d�F����̐��E���͉䂪�ӂ𓾂���Ƃ����Ƃ��낪����܂��āA�{��ŏ������������̂͗��������Ȃ̂ł��ˁB�r�e���s�r�����̂��߂̎�i�������肷��킯�ł��B���������������Ƃ��ɁA�s�r�͒j���̐����A���邢�͒j�Ə��̊�����ۂ������邽�߂̗L���Ȏ�i���肤��̂ł͂Ȃ����A�Ǝv���܂��B<BR>�@����ɂ��Ă��A����Ȃɗǂ������ł����H�@���ꂶ��A���x�����������Ƃ��ɂ͂ǂ����̐V�l�܂ɏo���Ă݂悤���ȁi��������Ɨ_�߂���Ƃ������q�ɏ��̂��A���́j
+　ご感想ありがとうございます。<BR>　八重洲さんの推薦文は我が意を得たりというところがありまして、本作で書きたかったのは恋愛小説なのですね。ＳＦもＴＳもそのための手段だったりするわけです。恋愛小説を書くときに、ＴＳは男女の性差、あるいは男と女の感情を際だたせるための有効な手段足りうるのではないか、と思います。<BR>　それにしても、そんなに良かったですか？　それじゃ、今度何か書いたときにはどこぞの新人賞に出してみようかな（←ちょっと誉められるとすぐ調子に乗るのだ、私は）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���ԁI</strong>  <i>1999/11/26 13:23:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花！</strong>  <i>1999/11/26 13:23:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943590226jwwkio&id2=943306184ytuou&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943590226jwwkio_id2_943306184ytuou_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����؂��܂������B<BR>���[���A�Ȃ񂩁u���S���āv�ǂ�ł��܂��Ă����̂́A�����]�s�̍�i���x�[�X����������Ȃ̂ˁB<BR>���J����A�u���m�v���ČĂ�ł����H<BR>�����A(���X�������Ă܂���)�����]�s�̑�t���[�N�ł��B<BR>�i���Ԃ�A�����]�s�̍�i�͑S���A�����Ă��j<BR>�ł��A���̐؂Ȃ��A��邹�Ȃ����͋C�܂ŏo�����i�́A���ɂ͏����܂���B<BR>����A���́A����������ƒ��ߕt�����銴�o���A���Ȃ��̍�i�Ŗ��키���Ƃ��ł��āA�c�c��̌��t���o�Ă��܂���B<BR>�����A�u�����]�s�l�^�v�������񂾁A�ƕ�������A���Ȃ��̍�i�̓��e�������]�s�̊G�ŁA���̖ڂ̑O�Ƀt���b�V���o�b�N���Ă��܂�����Ȃ��I<BR>�����A�~�܂�Ȃ��Ȃ����Ⴄ����A����ŏI���܂��B
+押し切られましたっ。<BR>そーか、なんか「安心して」読んでしまっていたのは、萩尾望都の作品がベースだったからなのね。<BR>水谷さん、「同士」って呼んでいい？<BR>私も、(時々告白してますが)萩尾望都の大フリークです。<BR>（たぶん、萩尾望都の作品は全部、持ってるよ）<BR>でも、あの切ない、やるせない雰囲気まで出せる作品は、私には書けません。<BR>今回、その、胸がぎゅっと締め付けられる感覚を、あなたの作品で味わうことができて、……後の言葉が出てきません。<BR>ああ、「萩尾望都ネタ」だったんだ、と聞いたら、あなたの作品の内容が萩尾望都の絵で、私の目の前にフラッシュバックしてしまうじゃない！<BR>うう、止まらなくなっちゃうから、これで終わります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���J�H�v</strong>  <i>1999/11/27 18:07:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>水谷秋夫</strong>  <i>1999/11/27 18:07:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=943693620ayhgi&id2=943306184ytuou&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_943693620ayhgi_id2_943306184ytuou_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����Ԃ���<BR>�@���������]�s�t�@���ł��B�P�s�{�S���͎����Ă��܂��񂪁B�u�P�P�l����I�v�ȂǁA���\��ǂݕԂ������킩��܂���B<BR>�@�ޏ��̂r�e��i�͂ǂ��ɂ������ꏊ�𕑑�ɂ��Ă��Ă��A�Ȃ������A���e�B������܂��B����ȕ��͋C�͏o���Ȃ��ł��ˁB���o�͂��Ă��܂���ł������A�{��̃��X�g�ȂǁA�u�X�^�[���b�h�v�̉e������������������܂���B<BR>�@����ł́u���D�̎m�v�Ƃ��āA�������낵�����肢���܂��B
+＞里花さん<BR>　私も萩尾望都ファンです。単行本全部は持っていませんが。「１１人いる！」など、何十回読み返したかわかりません。<BR>　彼女のＳＦ作品はどこにも無い場所を舞台にしていても、なぜかリアリティがあります。あんな雰囲気は出せないですね。自覚はしていませんでしたが、本作のラストなど、「スターレッド」の影響があったかもしれません。<BR>　それでは「同好の士」として、今後もよろしくお願いします。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="943306184ytuou">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

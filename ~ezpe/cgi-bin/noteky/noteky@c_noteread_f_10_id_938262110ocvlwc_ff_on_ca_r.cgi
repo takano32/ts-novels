@@ -1,61 +1,61 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=938262110ocvlwc&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_938262110ocvlwc_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�C���y���e�B���O�E�f�B�U�X�^�[</font><br>
+<font size="+2" color="#0000FF">インペンティング・ディザスター</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/corrector/foster04.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/09/25 21:21:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/corrector/foster04.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/09/25 21:21:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938262110ocvlwc&id2=938262110ocvlwc&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938262110ocvlwc_id2_938262110ocvlwc_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ����͂�����i�ł��B�I�[���hSF�̃t�@���͕K�ǂł��傤�B�쒆�����u�^�C���E�p�g���[���v�Ɋւ���l�@�Ȃǂ͊ԈႢ�Ȃ��ꋉ�̂��̂ł��B�l���̃_�C�A���O���C�O���w�̂悤�ȟ��������������ėǂ��ł��ˁB
+【推薦文】 これはいい作品です。オールドSFのファンは必読でしょう。作中語られる「タイム・パトロール」に関する考察などは間違いなく一級のものです。人物のダイアログも海外文学のような洒落っけがあって良いですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">�^��@�I</a></strong>  <i>1999/09/26 02:25:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">真城　悠</a></strong>  <i>1999/09/26 02:25:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938280310spsttt&id2=938262110ocvlwc&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938280310spsttt_id2_938262110ocvlwc_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�֒f�̉���A��Q�҂̂��̌�V���[�Y�B<BR><BR>�@������A���c�������Ă����B���̓��̏o�����͗]��ɓ˔�ŁA�M�����Ȃ������B�S�Ă����������̂ł͂Ȃ����Ƃ��v���B<BR>�@�ƁA�O�����猩�o���̂��鐧���p�̔������������Ă���B<BR>�@�ޏ��͂��̍�����h�炵�Ȃ��炱�����F�߂�ƁA�ۂ��Ɩj����߂đ���o�����Ƃ���B<BR>�u�҂��Ă���v<BR>�u�́A�����ĉ������v<BR>�@�b��������A��͂肠�̎��́u�j�v���������Ƃ����������B<BR>�u����ŁE�E�E���͊w�Z�ʂ��Ă񂾁v<BR>�u�͂��E�E�E�d����������ł��B�ʐM�@��̈�؂����ł��Ă��܂������E�E�E�v<BR>�u�߂��́H�v<BR>�u���c����u�^�[�~�l�[�^�[�v�͂����ɂȂ�܂����H�v<BR>�u�E�E�E�������E�E�E��͂�E�E�E�v<BR>�u���܂��܃^�C���p�g���[�����ʂ肩����̂�҂��͖����ł��ˁB����܂ł��́E�E�E�v<BR>�@�ƌ����Đ����̃X�J�[�g��������Ƃ܂ށB<BR>�u�����𑱂��܂���v<BR>�u�����ł����E�E�E�v<BR>�@���c�ɂ́u�ށv�̌��������ɂ��قǕ��������B�v����Ɂu�����߂�Ȃ��v�̂��B�ނ͋C�܂���ȁu�^�C���E�p�g���[���v���Ԃ̖\���ɂ���āA�ߋ��̐��E�ňꐶ�u���v�Ƃ��Đ����Ă������Ƃ�]�V�Ȃ�����Ă��܂����̂��B<BR>�u���A�󌱕׋����Ȃ�ł��v<BR>�u�����Ȃ񂾁v<BR>�u�����͉Ȋw�҂ɂȂ�ς�ł��v<BR>�u�}���[�E�L�����[�ł����v<BR>�@���̊O���Ɏ����햳������΂����鏭���B<BR>�u�����܂ł͌����܂���B�������E�E�E�v<BR>�@�����ڂ�����ޏ��B<BR>�u���̓������ɗ��l�ɂˁv<BR>�@������������ċ���B���̎d���͐����̏����̂��̂ƌ����ėǂ������B<BR>�@����Ԉ���Ă����獡�͎��������̗��ꂾ���������m��Ȃ��E�E�E<BR>�@�����l����Ƃ����Ƃ���Ɠ����ɁA�������߂����ɐ��������Ɓu�V���Ȃ�l���v�ɗ����������u�j�v�Ɍy�����i���o����̂������B<BR>�i�I�j<BR><BR>�@�{���͂��������u���̌�v�̘b���Ė��������F�X�Ɩϑz���������Ă��Ă�����ł����ǂˁi�΁j�B�܂��A�ԊO�҂��Ă��ƂŁB
+　禁断の仮定、被害者のその後シリーズ。<BR><BR>　ある日、黒田が歩いていた。あの日の出来事は余りに突飛で、信じられなかった。全てが夢だったのではないかとも思う。<BR>　と、前方から見覚えのある制服姿の美少女が歩いてくる。<BR>　彼女はその黒髪を揺らしながらこちらを認めると、ぽっと頬を染めて走り出そうとする。<BR>「待ってくれ」<BR>「は、離して下さい」<BR>　話をする内、やはりあの時の「男」だったことが分かった。<BR>「それで・・・今は学校通ってんだ」<BR>「はい・・・仕方が無いんです。通信機器の一切も消滅してしまったし・・・」<BR>「戻れるの？」<BR>「黒田さん「ターミネーター」はご覧になりました？」<BR>「・・・そうか・・・やはり・・・」<BR>「たまたまタイムパトロールが通りかかるのを待つ他は無いですね。それまでこの・・・」<BR>　と言って制服のスカートをちょっとつまむ。<BR>「生活を続けますよ」<BR>「そうですか・・・」<BR>　黒田には「彼」の言い分が痛いほど分かった。要するに「もう戻れない」のだ。彼は気まぐれな「タイム・パトロール」仲間の暴走によって、過去の世界で一生「女」として生きていくことを余儀なくされてしまったのだ。<BR>「今、受験勉強中なんです」<BR>「そうなんだ」<BR>「将来は科学者になる積りです」<BR>「マリー・キュリーですか」<BR>　その外見に似合わ無い微苦笑をする少女。<BR>「そこまでは言いません。しかし・・・」<BR>　遠い目をする彼女。<BR>「いつの日か役に立つ様にね」<BR>　恭しく礼をして去る。その仕草は生粋の少女のものと言って良かった。<BR>　一歩間違っていたら今は自分があの立場だったかも知れない・・・<BR>　そう考えるとぞっとすると同時に、少しもめげずに生き生きと「新たなる人生」に立ち向かう「男」に軽い嫉妬を覚えるのだった。<BR>（終）<BR><BR>　本当はこういう「その後」の話って無い方が色々と妄想をかきたてられていいんですけどね（笑）。まあ、番外編ってことで。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="938262110ocvlwc">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

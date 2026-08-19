@@ -1,72 +1,72 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=938249167fifwjw&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_938249167fifwjw_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">[GALLERY] �ؐX���ۂ���</font><br>
+<font size="+2" color="#0000FF">[GALLERY] 華森蘭丸くん</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art04.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/09/25 17:46:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art04.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/09/25 17:46:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938249167fifwjw&id2=938249167fifwjw&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938249167fifwjw_id2_938249167fifwjw_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�Ǝ��̉敗���l�C�݂̂��񈹂����(��)��i�ł����B�Q���ڂ̃C���X�g�ł͂Ȃ񂩗��ۃN���A�������菗�q�̐����ɓ����ł܂��ˁB�i�΁j
+【推薦文】　独自の画風が人気のみかん飴さんの(初)作品でした。２枚目のイラストではなんか蘭丸クン、すっかり女子の制服に馴染んでますね。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂���</strong>  <i>1999/10/08 00:39:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みかん飴</strong>  <i>1999/10/08 00:39:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=939310751wuruj&id2=938249167fifwjw&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_939310751wuruj_id2_938249167fifwjw_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�^��������<BR>���b�J�[���[���`�Ƌ��ɍ�����Ȃ���ǂ݂܂����B<BR>���̃C���X�g�ɂQ��i�����肪�Ƃ��������܂��B<BR><BR>���ۂ���͒��ڂɂ͓o�ꂵ�Ȃ���ł��ˁB<BR>�ł��ޏ��H�̂��킢�����`����Ă��܂��B<BR>���ɂ͂��Ȃ�c�{�ȍ�i�ł��B<BR><BR>�܂����������ĉ������B�c�āA�g�̂قǒm�炸�H
+真沙美さん<BR>ロッカールーム～と共に今さらながら読みました。<BR>私のイラストに２作品もありがとうございます。<BR><BR>蘭丸くんは直接には登場しないんですね。<BR>でも彼女？のかわいさが伝わってきます。<BR>私にはかなりツボな作品です。<BR><BR>また何か書いて下さい。…て、身のほど知らず？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art04.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>1999/12/03 09:25:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art04.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>1999/12/03 09:25:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=944180729byeuajp&id2=938249167fifwjw&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_944180729byeuajp_id2_938249167fifwjw_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yTEXT#5 ���E���z �u����KE�v�ŗL���ȓޗ����񂩂�V���[�g�X�g�[���[���񂹂Ă��������܂����I �ޗ�����炵���g���C���C�g�E�]�[���ȕ��͋C�̃X�g�[���[�ł���B�Ƃ����Ă���{�I�ɂ͖��邢�w�����m�Ȃ�ł����ǁi�ǂ����Ȃ񂾁I�j �Ƃɂ����܂��͂���ǂ��B
+【TEXT#5 推薦文】 「そのKE」で有名な奈落さんからショートストーリーを寄せていただきました！ 奈落さんらしいトワイライト・ゾーンな雰囲気のストーリーですよ。といっても基本的には明るい学園モノなんですけど（どっちなんだ！） とにかくまずはご一読を。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="938249167fifwjw">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

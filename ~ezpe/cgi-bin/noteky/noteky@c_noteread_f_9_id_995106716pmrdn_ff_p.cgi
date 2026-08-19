@@ -1,166 +1,166 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�G�k�{�[�h/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>雑談ボード/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=9&id=995106716pmrdn&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_9_id_995106716pmrdn_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�ǂ̍�i�������̈�Ԃ�</font><br>
+<font size="+2" color="#0000FF">どの作品が自分の一番か</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/14 19:31:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/14 19:31:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=995106716pmrdn&id2=995106716pmrdn&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_995106716pmrdn_id2_995106716pmrdn_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���낢��A��i���łĂ��܂��ˁB�����I�Ɂi�l�C���[���Ⴀ��܂���j��ԂƂ�����i�ƍ�Ƃ����܂��H���R���ӂ��߂ċ����Ă���������΂��肪�����ł��B�Q�l�ɂ������̂ł��B
+いろいろ、作品がでてきますね。自分的に（人気投票じゃありません）一番という作品と作家おられます？理由もふくめて教えていただければありがたいです。参考にしたいのです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/14 19:35:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/14 19:35:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=995106905trilh&id2=995106716pmrdn&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_995106905trilh_id2_995106716pmrdn_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���I�ɂ͖�l�̃R���`�F���g��������x�Ȃ�Ĉ�Ԃ̕��ɓ���܂��B�S��`�ʂ����܂�Ȃ����炢���܂��ł��ˁB<BR>����Ȃ̏����Ă݂����ł��ˁB
+私的には矢治様のコンチェルトをもう一度なんて一番の方に入ります。心情描写がたまらないくらいうまいですね。<BR>こんなの書いてみたいですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/08/01 20:17:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/08/01 20:17:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=996664648skyady&id2=995106716pmrdn&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_996664648skyady_id2_995106716pmrdn_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��͂肱�������b��͏������݂Â炢�݂����ł��ˁB<BR>�����F�X�l���Ă݂܂������A���ǁA���̐��E�ɂǂ��Ղ�ƐZ���邫�������ɂȂ�����i�������邱�Ƃɂ������܂��B<BR><BR>��ҁ@�F�@����ǂ��l<BR>��i�@�F�@If I were in You<BR>�f�ځ@�F�@���ꂩ�����@<a href="http://www.aurora.dti.ne.jp/~u-jin/" target="_blank">http://www.aurora.dti.ne.jp/~u-jin/</a><BR><BR>���d�F���f�B�A���T�[�`���烊���N���Ă܂�����A�ǂ܂�Ă�����͂��Ȃ葽���Ǝv���܂��B�Ƃɂ����C���^�[�l�b�g���n�߂Ă���A��ԍŏ��ɂ͂܂�����i�ł��B���������ł��s�r���������������Ǝv�������������ƂȂ�����i�ł��ˁB�Ƃɂ����������ׂėǂ��ł��B���ǂ̕��͐���Ƃ��ǂ�ł������������ł��B<BR>
+やはりこういう話題は書き込みづらいみたいですね。<BR>私も色々考えてみましたが、結局、この世界にどっぷりと浸かるきっかけになった作品をあげることにいたします。<BR><BR>作者　：　つるりんどう様<BR>作品　：　If I were in You<BR>掲載　：　入れかえ魂　<a href="http://www.aurora.dti.ne.jp/~u-jin/" target="_blank">http://www.aurora.dti.ne.jp/~u-jin/</a><BR><BR>八重洲メディアリサーチからリンクしてますから、読まれている方はかなり多いと思います。とにかくインターネットを始めてから、一番最初にはまった作品です。私が自分でもＴＳ小説を書きたいと思ったきっかけとなった作品ですね。とにかくもうすべて良いです。未読の方は是非とも読んでいただきたいです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:gnekono@pop07.odn.ne.jp" target="_blank">�L��@�ۑ���</a></strong>  <i>2001/08/11 21:00:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:gnekono@pop07.odn.ne.jp" target="_blank">猫野　丸太丸</a></strong>  <i>2001/08/11 21:00:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997531208rfniedt&id2=995106716pmrdn&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997531208rfniedt_id2_995106716pmrdn_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�f�G�ȍ�i�͂������񂠂�܂����ǁA��ςł̎����̈�Ԃ��āA�ǂ����Ă�����ɂȂ�܂��B�Ŕ��ł����A�ˁB<BR><BR>��ҁ@�F�@�l�n�m�c�n�l<BR>��i�@�F�@�ዾ�l�R�����I�i�Ɋւ���f�p�ȋ^��<BR>�f�ځ@�F�@���N��������<BR><BR>�M���O���̕��͂ɁA����ł����Ƌl�ߍ��܂ꂽ�G���v�f�A�����Ĕ��Q�̃I�`�B�u�΂����Ƃ܂Ƃ܂����Z�ҁv�̂��E�߈�Ԃɂ������̂ł��ˁB�@
+素敵な作品はたくさんありますけど、主観での自分の一番って、どうしてもこれになります。看板娘ですし、ね。<BR><BR>作者　：　ＭＯＮＤＯ様<BR>作品　：　眼鏡ネコ娘レオナに関する素朴な疑問<BR>掲載　：　少年少女文庫<BR><BR>ギャグ調の文章に、これでもかと詰め込まれた萌え要素、そして抜群のオチ。「ばしっとまとまった短編」のお薦め一番にしたいのですね。　
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2001/08/11 22:58:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997538336nadfv&id2=995106716pmrdn&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997538336nadfv_id2_995106716pmrdn_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���\�Y�񂾖��A����ɂ��܂����B<BR><BR>���ʁu�d���I���퐶���V���[�Y�v�W���[�W���b�h�l<BR>�˔��q���Ȃ��A�C�f�A���A�ׂ����ݒ�œ��t������Ƃ����̂�Kardy�����ӂƂ��鏊�ł����A<BR>���̍�i�͂��̍ł��郂�m�ł͂Ȃ����Ǝv��܂��B<BR>�킵���u����Ȃ�˔\�v��ڎw�����������ɂȂ�����i�Ƃ��āA��[�B<BR><BR>���_�͂���Ȋ����B<BR>�x�X�g�t�����h(�~�Y�L�q�J��)<BR>���{TRY���������I�V���[�Y(�l�n�m�c�n)<BR>������ ���� ������(�L��ۑ���)
+結構悩んだ末、これにしました。<BR><BR>第一位「妖精的日常生活シリーズ」ジャージレッド様<BR>突拍子もないアイデアを、細かい設定で肉付けするというのはKardyも得意とする所ですが、<BR>この作品はその最たるモノではないかと思ゐます。<BR>わしが「さらなる才能」を目指すきっかけになった作品として、一票。<BR><BR>次点はこんな感じ。<BR>ベストフレンド(ミズキヒカル)<BR>ロボTRY美少女っ！シリーズ(ＭＯＮＤＯ)<BR>いえす あい うぃる(猫野丸太丸)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/08/12 00:43:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/08/12 00:43:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997544601cydwk&id2=995106716pmrdn&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997544601cydwk_id2_995106716pmrdn_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���͂P�O��߂���Ԃ����݂���̂ł����A���ɂƂ�����ƁA���ꂩ�ȁB<BR>����Ɂw�����Ё`�x���������������ƂȂ�����i�ł��B<BR><BR>��ҁ@�F�@���ƂԂ��Ђ���<BR>��i�@�F�@�J�[�j�o���@�T�}�[�I�@�T�}�[�I<BR>�f�ځ@�F�@���N��������<BR><BR><BR>�F�����ɕς���čs���̂�Y��ŁA��������ꏳ�m�Ŏ󂯓���Ă����B<BR>�s�r���̂łȂ��Ă��h���}�ɂȂ�̂ɁA���������ɂ��肠�����v�f�i�s�r�j�����������݊����o���Ă����i���Ǝv���܂��B���͏�Q������قǔR���オ��܂�����B<BR>���������]����p����Ȃ�����{���Ƀn�b�s�[�G���h�����B<BR><BR>���̂������Y�񂾖����_�ɂȂ����w�d���I���퐶���x�B�ڂ���؂��������B�i�e���̐l���ςƂ���l������������ł͂Ȃ�������Ƃ��j<BR>���̎��́A�ǂ��Ղ�͂܂邫�������́w�^�ނ̒��̐T��x����
+実は１０作近く一番が存在するのですが、特にといわれると、これかな。<BR>もろに『あさひ～』を書くきっかけとなった作品です。<BR><BR>作者　：　ことぶきひかる<BR>作品　：　カーニバル　サマー！　サマー！<BR>掲載　：　少年少女文庫<BR><BR><BR>友情から恋に変わって行くのを悩んで、相手もそれ承知で受け入れてくれる。<BR>ＴＳものでなくてもドラマになるのに、それをさらにもりあげた要素（ＴＳ）がすごい存在感を出している作品だと思います。恋は障害があるほど燃え上がりますから。<BR>しかも性転換手術じゃないから本当にハッピーエンドだし。<BR><BR>ものすごく悩んだ末次点になった『妖精的日常生活』。目から鱗が落ちた。（脇役の人生観とか主人公だけが特殊ではないあたりとか）<BR>その次は、どっぷりはまるきっかけの『真奈の中の慎吾』かな
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:hiro-sho@geocities.co.jp" target="_blank">�L���@��</a></strong>  <i>2001/08/12 00:50:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:hiro-sho@geocities.co.jp" target="_blank">広尾　翔</a></strong>  <i>2001/08/12 00:50:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997545051lcatfqq&id2=995106716pmrdn&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997545051lcatfqq_id2_995106716pmrdn_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�l�I�ɗǂ��Ǝv���Ă���̂����ɑ����̂Ŗ����Ă��܂��̂ł����i�΁j�G<BR>�I�j�L�X�A�ዷ���䂱����@<BR>�@�c�c�͍͗삾�Ǝv���܂��B���͖l�̓L���v�e�����A�ǂ�łȂ���ł����i��΁j�B<BR>�@���ƁA�l�I�Ȏ�������Ă܂����i�΁j�A<BR>�e�i�G�t�j�AWest ����<BR>�Q���ق̖����ABOXER 6 ����  <BR>�@�c�c�������ł��B�h�e�h�͂�����ł͒����������������̂ŏ����ꂽ�������̂Ȃ̂ł����i���{�l�̃y�[�W�ł͊�������Ă���悤�ł��j�A��l�����m�̊|���������ǂ��ł��ˁB�h�Q���ق̖����h�͓Ɠ��̕��͋C���C�C�ł��B<BR>��p�A���d�F�񐢂���<BR>�@�c�c���A���z�I�ȕ��͋C���D���ȍ�i�̈�ł��B<BR>�@���Ɩ��@�������̂Ƃ��Ă�����A<BR>�p�j�b�N�����}�W�J���X�e�b�L�A�B��@�p�m<BR>�@�c�c�������ǂ݉���������܂��B<BR>�@�L�삳��̍�i�ł́A<BR>D.A.�F���q�̏��L�A�L��@�ۑ���  <BR>�@�c�c�����ɗǂ��Ǝv���Ă܂��B���X�g�̂��Ȃ��ɐS�̒��ɗ]�C���c��܂��B<BR>�@�Ƃ��������ŁA������Ɓu�s�b�N�A�b�v�v���Ă����������̂��グ�Ă����܂����i�΁j�B<BR>�@�l�̏��������c���ƁA<BR>�閧�̃J�J�I�A�C�����h�A�L���@�� <BR>�@�c�c���ȁB�Â��̂͂�����ƃ_�������i��΁j�B<BR><BR>�@���ƁA�K�v�Ȃ�u�U�E�x�X�g�v�g�s�l�k������`�����܂��B
+　個人的に良いと思ってるものが非常に多いので迷ってしまうのですが（笑）；<BR>オニキス、若狭しゆこさん　<BR>　……は力作だと思います。実は僕はキャプテン翼、読んでないんですが（苦笑）。<BR>　あと、個人的な趣味が入ってますが（笑）、<BR>Ｆ（エフ）、West さん<BR>浪漫館の魔女、BOXER 6 さん  <BR>　……がいいです。”Ｆ”はこちらでは珍しく少女小説文体で書かれた恋愛ものなのですが（ご本人のページでは完結されているようです）、主人公同士の掛け合いが良いですね。”浪漫館の魔女”は独特の雰囲気がイイです。<BR>奇術、八重洲二世さん<BR>　……も、幻想的な雰囲気が好きな作品の一つです。<BR>　あと魔法少女ものとしてもう一つ、<BR>パニックｉｎマジカルステッキ、達句　英知<BR>　……すごく読み応えがあります。<BR>　猫野さんの作品では、<BR>D.A.：迷子の小猫、猫野　丸太丸  <BR>　……が非常に良いと思ってます。ラストのせつなさに心の中に余韻が残ります。<BR>　という感じで、ちょっと「ピックアップ」しておきたいものを上げておきました（笑）。<BR>　僕の書いたヤツだと、<BR>秘密のカカオアイランド、広尾　翔 <BR>　……かな。古いのはちょっとダメかも（苦笑）。<BR><BR>　あと、必要なら「ザ・ベスト」ＨＴＭＬ化お手伝いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/08/12 07:21:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/08/12 07:21:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997568461yximo&id2=995106716pmrdn&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997568461yximo_id2_995106716pmrdn_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������ƁA���̊Ԃɂ����N�������ɂ̒��ł̎����ɂƂ��Ẵx�X�g�ȍ�i�́H�@�Ƃ������e�ɂȂ��Ă��܂��ˁB�Ƃ����킯�łQ�x�ڂ̔������������������B<BR><BR>������i�ɂ�����x�X�g�F�w�S�l�ڂ̎o���V���[�Y�x<BR> �y�S�l�ڂ̎o���z��F���ƂԂ��Ђ���l<BR> �y��Ƃ̏ё��w���؁@�`�z���o�̒��Ɂ`�x�z��F�Ē×l<BR>�@�[���ݒ�Ǝ�l���̐S�̓��̕ω��̕`�ʂ��f���炵���ł��B<BR>�@��N�����̂��G���G���������肵�܂��B<BR><BR>������i�ɂ�����x�X�g<BR> �y�w�V�A���Z�̉��l�x�V���[�Y�z��F�j�l<BR>�@�����^���{�b�g�ɐ��_���ڐA�����Ƃ����ݒ�ɐ[�������ł��B<BR>�@�����ɂȂ����Ƃ������Ƃ����ł͂Ȃ��A<BR>�@�l�Ԃł͂Ȃ����{�b�g�ɂȂ����Ƃ����_�Ɏ�l�����Y�ނƂ��낪�A<BR>�@���̖G���ł��B���̂�����ٍ�́w�d���I���퐶���V���[�Y�x��<BR>�@�ʂ���Ƃ��낪����܂��B���ꂾ���e�����󂯂Ă���̂ł����A<BR>�@�C�Â���Ă܂����H<BR><BR>�ŋ߂̍�i�ɂ�����x�X�g<BR> �y�w�炢������x�V���[�Y�z��F����˂��l<BR>�@���[��A���I�ɂ͐����̕K�v�������̂����ǁA<BR>�@�Ƃɂ�����S�b�`�T�b�@�����肩��}���ɂ������낭�Ȃ��Ă��܂��B<BR>�@����d�˂邲�Ƃɂ������낳�������Ă���L�ѐ���ȍ�Ƃ���ł��B<BR>�@�r�e���@�������̂Ƃł������܂��傤���H<BR>�@�o��l���������������Ă��āA���C�������Ă�낵���I�@�ł��ˁB
+おおっと、いつの間にか少年少女文庫の中での自分にとってのベストな作品は？　という内容になっていますね。というわけで２度目の発言をお許し下さい。<BR><BR>初期作品におけるベスト：『４人目の姉妹シリーズ』<BR> 【４人目の姉妹】作：ことぶきひかる様<BR> 【榊家の肖像『清華　～想い出の中に～』】作：米津様<BR>　深い設定と主人公の心の内の変化の描写が素晴らしいです。<BR>　低年齢化するのも萌え萌えだったりします。<BR><BR>中期作品におけるベスト<BR> 【『シアワセの価値』シリーズ】作：Ｋ様<BR>　女性型ロボットに精神を移植されるという設定に深く感動です。<BR>　女性になったということだけではなく、<BR>　人間ではないロボットになったという点に主人公が悩むところが、<BR>　私の萌えです。このあたり拙作の『妖精的日常生活シリーズ』に<BR>　通じるところがあります。それだけ影響を受けているのですが、<BR>　気づかれてました？<BR><BR>最近の作品におけるベスト<BR> 【『らいか大作戦』シリーズ】作：かわねぎ様<BR>　うーん、私的には説明の必要も無いのだけど、<BR>　とにかく第４話～５話　あたりから急速におもしろくなってきます。<BR>　回を重ねるごとにおもしろさが増してくる伸び盛りな作家さんです。<BR>　ＳＦ魔法少女ものとでも言いましょうか？<BR>　登場人物が生き生きしていて、元気があってよろしい！　ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����n</strong>  <i>2001/08/12 19:15:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>逃げ馬</strong>  <i>2001/08/12 19:15:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997611353fysmo&id2=995106716pmrdn&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997611353fysmo_id2_995106716pmrdn_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�x�X�g��i�ł����E�E�E�H<BR>�l�̒��ł́A�~�Y�L�q�J������́g�x�X�g�t�����h�h�ł��ˁB<BR>��l���̐S�����A���X�ɏ����ɂȂ��Ă����ω��ƁA�ǎ҃T�[�r�X�H�������āA�o�����X�����Ă��ċ����܂����B���̍�i��ǂ񂾂̂����������ŁA�u�����ł������Ă݂����v�Ǝv���������̂ł����E�E�E�܂������y�т܂���(^^;;;�@�@<BR>���҂ł����ǁA��C�ɓǂ߂��i�ł��ˁB
+ベスト作品ですか・・・？<BR>僕の中では、ミズキヒカルさんの“ベストフレンド”ですね。<BR>主人公の心理が、徐々に女性になっていく変化と、読者サービス？もあって、バランスが取れていて驚きました。この作品を読んだのがきっかけで、「自分でも書いてみたい」と思い立ったのですが・・・まだ遠く及びません(^^;;;　　<BR>長編ですけど、一気に読める作品ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2001/08/13 00:28:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2001/08/13 00:28:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997630113bpqrpq&id2=995106716pmrdn&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997630113bpqrpq_id2_995106716pmrdn_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɂƂ��Ẵx�X�g�E�E�E�ƌ����΁A�ԈႢ�Ȃ��B<BR><BR>�d�����̒��P�i���ƂԂ��Ђ���l�@��j<BR><BR>�E�E�E�ł��ˁB<BR>���ɂ́A���̏G�킳�Ɋ����������̂Ƃ���<BR><BR>�R���`�F���g�E�V���[�Y�i��_���l�@��j<BR><BR>�y��<BR><BR>���C�g�E���C�g�E�X�g�[���[�iKEBO�l�@��j<BR><BR>���̕ӂ�ł��傤���E�E�E<BR>�ِ��E�t�@���^�W�[������D�݂Ȃ�ŁA������ɕЊ��X�������󂯂��܂����B<BR>�����́A��ǂ̉��l�͂���Ǝv���Ă���܂��B<BR><BR>���ƁE�E�E��������o���Ȃ�ł����A�g��ڂ�́`�h�Ƃ�������i�V���[�Y���ɏ����ɂ���܂�����ˁH
+私にとってのベスト・・・と言えば、間違いなく。<BR><BR>妖魔王の寵姫（ことぶきひかる様　作）<BR><BR>・・・ですね。<BR>他には、その秀逸さに感激したものとして<BR><BR>コンチェルト・シリーズ（矢治浩平様　作）<BR><BR>及び<BR><BR>ライト・ライト・ストーリー（KEBO様　作）<BR><BR>この辺りでしょうか・・・<BR>異世界ファンタジー物が一つ好みなんで、そちらに片寄る傾向が見受けられますが。<BR>これらは、一読の価値はあると思っております。<BR><BR>あと・・・もううろ覚えなんですが、“りぼんの～”とか言う作品シリーズ文庫初期にありましたよね？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/08/13 07:11:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/08/13 07:11:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997654291icnfcx&id2=995106716pmrdn&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997654291icnfcx_id2_995106716pmrdn_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����A�݂Ȃ��񂯂������΂炯�Ă܂��ˁB<BR>���A�g��ڂ�́`�h�Ƃ�������i�V���[�Y���ɏ����ɂ���܂������<BR>���Ȃ������ځi�j�d�a�n�j����̋ߖ����r�e�A��ڂ�̃V���[�Y�ł��ˁB�i��ڂ�̖����A��ڂ�̎���A��ڂ�̖����j<BR>�@���������Ɍ���ł����B�Ƃ��ɔL��̂����߂́u��ڂ�̎���v�ł��ˁB���̂�����������悤�ȃz���[���͂��܂�܂���ł����B
+　おお、みなさんけっこうばらけてますね。<BR>＞、“りぼんの～”とか言う作品シリーズ文庫初期にありましたよね<BR>おなじくけぼ（ＫＥＢＯ）さんの近未来ＳＦ、りぼんのシリーズですね。（りぼんの明日、りぼんの時代、りぼんの未来）<BR>　これらも非常に傑作でした。とくに猫野のお勧めは「りぼんの時代」ですね。あのぞくぞくするようなホラー感はたまりませんでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2001/08/14 00:40:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2001/08/14 00:40:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=997717255eegbrh&id2=995106716pmrdn&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_997717255eegbrh_id2_995106716pmrdn_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�閲�F���ɂ�`!!�i�閲�E�E�E�L��??�j<BR>�錶�F�E�E�E�ǂ������́H<BR>�����F�E�E�E�����ɏ������񂾌�A����i�ژ^���������ĊԈႢ�����t���ĂȁE�E�E<BR>�ƌ�����ŁA<BR>&gt;�d�����̒��P<BR>�ƂȂ��Ă���܂����A<BR><BR>�d����̒��P<BR><BR>�̌��ł����B���݂܂���B<BR><BR>�閲�F�E�E�E�E�E�E�i������Ă��܂����E�E�E�j
+夜夢：うにゃ～!!（夜夢・・・猫化??）<BR>暮幻：・・・どうしたの？<BR>昼現：・・・ここに書き込んだ後、旧作品目録を見直して間違いを見付けてな・・・<BR>と言う訳で、<BR>&gt;妖魔王の寵姫<BR>となっておりますが、<BR><BR>妖魔城の寵姫<BR><BR>の誤りでした。すみません。<BR><BR>夜夢：・・・・・・（顔を洗ってごまかす・・・）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2001/09/08 19:51:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2001/09/08 19:51:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=999946290njccujb&id2=995106716pmrdn&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_999946290njccujb_id2_995106716pmrdn_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�w���N�������Ɂx�̍�i�͂ǂ��������݂Ȃ��ꂼ��ɖ��͓I�Ȃ̂ł����c�c<BR><BR>�wRENTAL BODY Ver3�@�`���M�����`�x�i�s�v�n�|�a�h�s ���� �j<BR><a href="http://www14.big.or.jp/~yays/library/novel/rental/rb3.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/rental/rb3.html</a><BR>�@�u�{�f�B�݂��܂��v�Ƃ����ݒ肪������Ɛ�������Ă���A�Ȃ�������ɕ������ɃL�����N�^�[���g�����Ă���h�Ƃ���Ɏ䂩��܂��B<BR>�@�c�c���i�����j���񂪂�����ł���B���̎q�ɂȂ肫���Ă���悤�ŁA�u�����v��������Ǝ����Ă��邠���肪�B<BR><BR>�w�ؑタ���V���[�Y�u�i�C���v�x�i���J�H�v ���� �j<BR><a href="http://www14.big.or.jp/~yays/library/novel/kayo_chan/kayo_chan45.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/kayo_chan/kayo_chan45.html</a><BR>�@�u���Z�싅�Ŏ㏬�̃`�[������������ɁA�^�Ƃ߂��荇�킹�Ƃ���������̎��͂Ōܕ��i���ԁj�̎������J��L����v�Ƃ����A�����ȃX�g�[���[�W�J�ł������������Ă����āA�����čŌ�̍Ō�ɂȂ�̖������Ȃ��w�ؑタ���x���Ă��܂��Ƃ����A���̗����̑傫�����ɉ��ł��B<BR><BR>�@���ꂩ����A�u�����v�Ƌ����y������i�����҂��Ă��܂��B
+　『少年少女文庫』の作品はどれもこれもみなそれぞれに魅力的なのですが……<BR><BR>『RENTAL BODY Ver3　～微熱風味～』（ＴＷＯ－ＢＩＴ さん ）<BR><a href="../../../novel/rental/rb3.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/rental/rb3.html</a><BR>　「ボディ貸します」という設定がきちんと生かされており、なおかつそれに負けずにキャラクターが“たっている”ところに惹かれます。<BR>　……樹（いつき）くんがいいんですよ。女の子になりきっているようで、「自分」をきちんと持っているあたりが。<BR><BR>『華代ちゃんシリーズ「ナイン」』（水谷秋夫 さん ）<BR><a href="../../../novel/kayo_chan/kayo_chan45.html" target="_blank">http://www14.big.or.jp/~yays/library/novel/kayo_chan/kayo_chan45.html</a><BR>　「高校野球で弱小のチームが強豪相手に、運とめぐり合わせとありったけの実力で五分（ごぶ）の試合を繰り広げる」という、王道なストーリー展開でぐいぐい押していって、そして最後の最後になんの脈絡もなく『華代ちゃん』してしまうという、その落差の大きさが痛快です。<BR><BR>　これからも、「あっ」と驚く楽しい作品を期待しています。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="9">
 <input type="hidden" name="id" value="995106716pmrdn">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

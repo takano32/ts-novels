@@ -1,66 +1,66 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=10&id=937401587mfvxa&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_10_id_937401587mfvxa_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���Ԃ̂Ђ݂�</font><br>
+<font size="+2" color="#0000FF">欄間のひみつ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/anime_fan_fiction/secret_of_ranma.html" target="_blank">���d�F�ꐬ</a></strong>  <i>1999/09/15 22:19:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/anime_fan_fiction/secret_of_ranma.html" target="_blank">八重洲一成</a></strong>  <i>1999/09/15 22:19:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937401587mfvxa&id2=937401587mfvxa&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937401587mfvxa_id2_937401587mfvxa_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���炷���z �L�҉��ŁA�^��w�����̑����Y�͉���I�Ȕ������̕񍐂����邪�c�c�H<BR>�y�R�����g�z ���[�ƁA�^���L���R�~�b�N�̃p���f�B�H�@�c�c���ȁH�@�L�����N�^�[�̐��i�Ƃ��͂܂������Ⴄ�ł��[�i�΁j�B
+【あらすじ】 記者会見場で、某大学教授の大矢大二郎は画期的な微生物の報告をするが……？<BR>【コメント】 えーと、某超有名コミックのパロディ？　……かな？　キャラクターの性格とかはまったく違うですー（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>1999/09/16 16:09:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あもん</strong>  <i>1999/09/16 16:09:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937465777tlcyv&id2=937401587mfvxa&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937465777tlcyv_id2_937401587mfvxa_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȋw�l�؂�����������ǁA�Ȃ񂩁u�������v�Ǝv���܂����B<BR>�L��������Ă܂����^������̏������������肵�܂�����?!
+科学考証が難しかったけど、なんか「凄えす」と思いました。<BR>広尾さんってまさか某国立大の助教授だったりしませんよね?!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown-Spade/5805/" target="_blank">�L���@��</a></strong>  <i>1999/09/17 03:30:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown-Spade/5805/" target="_blank">広尾　翔</a></strong>  <i>1999/09/17 03:30:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937506655jegin&id2=937401587mfvxa&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937506655jegin_id2_937401587mfvxa_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����񂳂�A���z���肪�Ƃ��������܂����B�������ł��I�@�l�͕ʂɁu�������v�Ȃ�Ă���ȑ傻�ꂽ�q�g�ł͂Ȃ��Ą����r�e�D���Ńo�C�I�́u�Ȃ񂿂���Ċw���v�ł��ˁi�΁j�B<BR>�@�����͓�������ł��傤���H�@�������Ă̂́u���\�v�ł��āA�����Ɂu�E�\�v�Ƀz���g���ۂ��R�g�������邩�ɐS�ӂ��Ă܂��������O�̏����͐����΂��������A���Ă悭�F�l�Ɍ������Łi�΁j�B�u�����v�Ǝv���Ă���������΁A����Ŗ{�]�Ȋ����ł��I�I�@���͋C���y����ł���������΃E���V�C�ł��ˁi�΁j�B�Z�i���̏������́A���낢��Q�l�ɂ����Ă�����Ă܂��B<BR><BR>���ŋߖ�X�����C���̍L���ł��B�܂����������Ƃ��Ă���N���Ă��ł����ǁB���͂����ƃ��C�g�ł����A���ȁH
+　あもんさん、感想ありがとうございました。嬉しいです！　僕は別に「助教授」なんてそんな大それたヒトではなくて──ＳＦ好きでバイオの「なんちゃって学生」ですね（笑）。<BR>　説明は難しかったでしょうか？　小説ってのは「虚構」でして、いかに「ウソ」にホントっぽいコトを混ぜるかに心砕いてます──お前の小説は説明ばっかしだ、ってよく友人に言われるんで（笑）。「凄え」と思っていただければ、それで本望な感じです！！　雰囲気を楽しんでいただければウレシイですね（笑）。セナ氏の書き方は、いろいろ参考にさせてもらってます。<BR><BR>＃最近夜更かし気味の広尾です。まあ少し仮眠とってから起きてるんですけど。次はもっとライトでいく、かな？
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="937401587mfvxa">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

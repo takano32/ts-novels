@@ -1,122 +1,122 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�Q�[��/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ゲーム/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=5&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_5_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=5&id=937398704vetyk&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=5&ff=on">�Q�[��</a>]<br>
+[<a href="noteky@c_noteread_f_5_id_937398704vetyk_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_5_ff_on.cgi">ゲーム</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�u�N�̋C�����l�̂�����v</font><br>
+<font size="+2" color="#0000FF">「君の気持ち僕のこころ」</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/09/15 21:31:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/09/15 21:31:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=937398704vetyk&id2=937398704vetyk&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_937398704vetyk_id2_937398704vetyk_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ƃ肠�����A�Q�H��Y��āA<BR>�u�N�̋C�����l�̂�����v����Ă܂��B<BR>�v���X�e�̗ϗ��ՊE�_���肬��̖��邭�y���G�b�`���́A<BR>����Ӗ��A���̂g�o�ɒʂ�����̂�����܂��B<BR>�ڋʂ́u�߈ˁv���A�ӊO�Ȃقǂ���y�ɂł��镪<BR>�P�񂠂���̜߈ˎ��Ԃ��Z�߂Ȃ̂��A�c�O�B<BR>���������āA�N���A��̉B���V�i���I��<BR>���̕ӂ̓J�o�[���Ă�̂��ȁH<BR>�����́A�قڂP���A�C�x���g�`�F�b�N���Ă܂����B<BR>
+とりあえず、寝食を忘れて、<BR>「君の気持ち僕のこころ」やってます。<BR>プレステの倫理臨界点ぎりぎりの明るく軽いエッチさは、<BR>ある意味、このＨＰに通じるものがあります。<BR>目玉の「憑依」が、意外なほどお手軽にできる分<BR>１回あたりの憑依時間が短めなのが、残念。<BR>もしかして、クリア後の隠しシナリオで<BR>その辺はカバーしてるのかな？<BR>今日は、ほぼ１日、イベントチェックしてました。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>1999/09/17 12:28:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>月下</strong>  <i>1999/09/17 12:28:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=937538900deratt&id2=937398704vetyk&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_937538900deratt_id2_937398704vetyk_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����A�������Q�[���ł��B�s�r�x���猾���΁A�uXchange2�v�����͂邩�ɏ�ł��B<BR>�悩�����C�x���g�������������܂��ƁA<BR>�E�����w��<BR>�Q���̒��x�݂ɋ����ɍs���Ĉ��̃X�P�W���[���𕷂��B����ŁA�y�j���̒��Ɉ��ɜ߈˂����<BR>�����𔃂��C�x���g�������܂��B<BR>�E�T�q�搶���炨�ł��ŔM���v����<BR>�S�C�T���̂ǂ��炩�ɑK���ɍs���āA�E�Ԃ��y���ɔԑ�ɂ��邱�Ƃ𕷂��܂��B<BR>�P�P���̒��ɏZ��X�ŗT�q�搶�ɂ����ƁA�K���ɍs���Ƌ������܂��̂ŁA���̗[����<BR>�E�Ԃɜ߈˂���ƁA�M���v����A�Ƃ����C�x���g���N����܂��B<BR>�E�T�q�搶�ɜ߈˂��āA�l�H�ċz�����B<BR>�V�����ی�ɁA�T�q�搶�ɜ߈˂��āA�u�������グ�ċC���m�ہv�u�@���܂�ő��������ށv<BR>�u�����W�O����P�O�O�ŐS���}�b�T�[�W�v��I�ԂƁA�������܂��B����s����A�j�̐��k����<BR>�l�H�ċz����邱�ƂɂȂ�̂��c�O�ł����B<BR><BR>���̃Q�[���A���ЂƂ��U���R���g���[���ł���Ăق����ł��B��l�����ǂ��ǂ�����ƁA<BR>���ꂪ�R���g���[����ʂ��ē`����Ă���Ƃ����A�r�f�I�⏬���ł͖��킦�Ȃ��̌����ł��܂��B<BR>
+これ、すごいゲームです。ＴＳ度から言えば、「Xchange2」よりもはるかに上です。<BR>よかったイベントをいくつか書きますと、<BR>・下着購入<BR>２日の昼休みに教室に行って綾のスケジュールを聞く。それで、土曜日の昼に綾に憑依すると<BR>下着を買うイベントが見られます。<BR>・裕子先生からおでこで熱を計られる<BR>４，５日のどちらかに銭湯に行って、勇花が土日に番台にいることを聞きます。<BR>１１日の昼に住宅街で裕子先生にあうと、銭湯に行くと教えられますので、その夕方に<BR>勇花に憑依すると、熱を計られる、というイベントが起こります。<BR>・裕子先生に憑依して、人工呼吸される。<BR>７日放課後に、裕子先生に憑依して、「あごを上げて気道確保」「鼻をつまんで息吹き込む」<BR>「毎分８０から１００で心臓マッサージ」を選ぶと、発生します。成り行き上、男の生徒から<BR>人工呼吸されることになるのが残念ですが。<BR><BR>このゲーム、ぜひとも振動コントローラでやってほしいです。主人公がどきどきすると、<BR>それがコントローラを通じて伝わってくるという、ビデオや小説では味わえない体験ができます。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/09/17 20:34:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/09/17 20:34:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=937568062gphvl&id2=937398704vetyk&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_937568062gphvl_id2_937398704vetyk_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������A���������Ƃ���Ă܂��ˁB<BR>������́A���݁A�e��C�x���g�̃`�F�b�N���ł��B<BR>�l�I�ɂ����߂́A<BR>�X���P�T���������A�ψ����i�ʁj�ɜ߈˂��ꂽ�ۂɋN����<BR>���߂̃V�[���ł��B<BR><BR>�Q�[�����ł́A�����Ȃ��i�Ǝv����j�߈ˎ��̎p��<BR>���Ō����M�d�ȃV�[���ł��B<BR>
+月下さんも、けっこうとやってますね。<BR>おいらは、現在、各種イベントのチェック中です。<BR>個人的にお勧めは、<BR>９月１５日朝発生、委員長（彩）に憑依された際に起こる<BR>浴衣のシーンです。<BR><BR>ゲーム中では、数少ない（と思われる）憑依時の姿を<BR>鏡で見れる貴重なシーンです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>1999/09/18 15:40:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>月下</strong>  <i>1999/09/18 15:40:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=937636856xxjetu&id2=937398704vetyk&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_937636856xxjetu_id2_937398704vetyk_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ƂԂ�����A����ɂ��́B<BR>���ɉf��������������C�x���g�Ƃ����΁A�����������ŁA�������̂�����܂����B<BR>���̃Q�[���A��x�N���A����ƁAAnother Story�Ƃ��āA�ݒ肪�኱�ς���Ă���̂ł����A<BR>���̓�x�ڂ̃v���[�œ������ƂȂ�l�̂Ƃ���ɁA�珻���v�����g��͂��ɂ����Ƃ���<BR>�C�x���g������܂��B�����ŁA�߈˂����Ɏ�l���̂܂܂Ő珻�̂���ꏊ�֍s���ƁA<BR>���ƈꏏ�ɂ����C�ɓ��邱�Ƃ�����A�Ȃ�ĕ�������āc�c��͂��z���ʂ�A�ƂȂ�܂��B<BR>���������C�x���g�T������Ă��邹�����A�̐S�̃N���A�[�͂����ς�ł��B
+ことぶきさん、こんにちは。<BR>鏡に映った自分を見るイベントといえば、昨日見つけたやつで、すごいのがありました。<BR>このゲーム、一度クリアすると、Another Storyとして、設定が若干変わってくるのですが、<BR>その二度目のプレーで同級生となる人のところに、千晶がプリントを届けにいくという<BR>イベントがあります。ここで、憑依せずに主人公のままで千晶のいる場所へ行くと、<BR>犬と一緒にお風呂に入ることがある、なんて聞かされて……後はご想像通り、となります。<BR>こういうイベント探しやっているせいか、肝心のクリアーはさっぱりです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>1999/09/20 23:18:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>1999/09/20 23:18:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=937837126kodgt&id2=937398704vetyk&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_937837126kodgt_id2_937398704vetyk_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�������n�̒��ł́A���Ȃ�㕨�Q�[���ł��B�P�W�ւŏo��������ƖG�����ł����E�E�E�i�ݒ�I�ɂ͂��������Ǝv����ł����E�E�E�j<BR>���ƁA�v���Ȃ��猋�\����Ă܂����E�E�E<BR>�@�[���A�F�l�̌[��ƃQ�[�Z���ɍs���A���̒��ŁA�B���R�}���h�Ƃ����P�ꂪ�o�܂��B�����āA�������[�h�Ńq���g�炵�����͂��o��̂ł����A���ɂ́A���ꂪ���������Ă���̂������ς����܂���B<BR>�@�N���A�R�}���h�̓������m���Ă����狳���ĉ������B<BR>�l�I�ɂ́A�珻���D���Ȃ�ł����A�E�Ԃ̋L���C�x���g�������Ȃ̂ŁA���Ƃ��Ȃ�Ȃ����Ǝv���Ă܂��B�i���炢�Ȃ́I�I�́A�ˁ`�񂶂�˂��A���Ȃ�u���[�͂��邵�A���������܂��B�j<BR>�@�ł��A�s�r�t�@���̐l�͔����đ��͂Ȃ��Ǝv���܂���I�i�l�I�Ȉӌ��ł����E�E�E�j
+　こっち系の中では、かなり上物ゲームです。１８禁で出たらもっと萌えるんですが・・・（設定的にはこっちだと思うんですが・・・）<BR>っと、思いながら結構やってますが・・・<BR>　夕方、友人の啓吾とゲーセンに行き、その中で、隠しコマンドという単語が出ます。そして、辞書モードでヒントらしき文章が出るのですが、私には、それが何を言っているのかさっぱり解りません。<BR>　誰か、コマンドの入れ方を知っていたら教えて下さい。<BR>個人的には、千晶が好きなんですが、勇花の記憶イベントが強制なので、何とかならないかと思ってます。（きらいなの！！は、ね～んじゃねか、かなりブルーはいるし、尾を引きます。）<BR>　でも、ＴＳファンの人は買って損はないと思いますよ！（個人的な意見ですが・・・）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�uK�v</strong>  <i>1999/09/20 23:51:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>「K」</strong>  <i>1999/09/20 23:51:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=937839079isjods&id2=937398704vetyk&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_937839079isjods_id2_937398704vetyk_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����[�B�C�x���g��񊈗p�����Ă��������܂��B<BR><BR>�@���̎q�̐��Łu(����ȏ��ɂ���)�����̂��ȁ[�v(�u���w���C�x���g������)�B���������Z���t�����đz���ȏ�ɂ͂܂�܂����B<BR>�@�g�̑���ł͒N�ɜ߈˂��邩�������B<BR>�@���I�ɂ������đ��͖����Ǝv���܂��B<BR><BR>&gt;�E�Ԃ̋L���C�x���g�������Ȃ̂ŁA���Ƃ��Ȃ�Ȃ����Ǝv���Ă܂��B�i���炢�Ȃ́I�I�́A�ˁ`�񂶂�˂��A���Ȃ�u���[�͂��邵�A���������܂��B�j<BR>�܂����������ł��B���܂����������Ă܂��B
+いやー。イベント情報活用させていただきます。<BR><BR>　女の子の声で「(こんな所にいて)いいのかなー」(ブラ購入イベントあたり)。こう言うセリフ言われて想像以上にはまりました。<BR>　身体測定では誰に憑依するか迷うし。<BR>　私的にも買って損は無いと思います。<BR><BR>&gt;勇花の記憶イベントが強制なので、何とかならないかと思ってます。（きらいなの！！は、ね～んじゃねか、かなりブルーはいるし、尾を引きます。）<BR>まったく同感です。私まだ尾を引いてます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>1999/09/21 01:14:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>1999/09/21 01:14:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=937844060frjqbm&id2=937398704vetyk&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_937844060frjqbm_id2_937398704vetyk_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�N�l�A��l�C�ł���!!<BR>���̃Q�[���A��ʃQ�[�}�[�ɂ����������Z��������݂����ł���B<BR>���^�ȏ����w�����������̃Q�[�����v���C�����̂����������ŁA�߈˂̑f���炵��(?)�ɖڊo�߂Ă���邱�Ƃ����ҁB(^^)
+君僕、大人気ですね!!<BR>このゲーム、一般ゲーマーにもけっこう浸透しつつあるみたいですよ。<BR>純真な小中学生たちがこのゲームをプレイしたのがきっかけで、憑依の素晴らしさ(?)に目覚めてくれることを期待。(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/10/03 21:06:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/10/03 21:06:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=938952382siamfv&id2=937398704vetyk&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_938952382siamfv_id2_937398704vetyk_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-<BR>�Ƃ肠�����A�O�b�h�G���f�B���O�R�΂��茩���̂ŁA<BR>���]���܂߂����z���������Ă��������܂��B<BR><BR>�܂��A�V�X�e���̕����珑���Ă����܂��B<BR>�Q�[���X�^�[�g���ɁA�I�[�v�j���O�����錩�Ȃ��A�ƑI���ł���̂�<BR>�����Ȏ��ł����Ȃ��Ȃ��e�؂ł��B<BR>�ŋ߂́A����b�f���A�v���C���[�ɔۂ����ł��������Ȃ��ƋC���ς܂Ȃ�<BR>�^���Q�[�����[�J�[�̈����Ƃ����^����\�t�g�n�E�X�������ł�����B<BR><BR>�Z�[�u�́A���Ȃ肱�܂߂ɂł��邽�߁A������ƁA�����N���肻���ƌ����Ƃ���<BR>���тɂ��悤�Ƃ��������́A���Ȃ�֗��Ȕ��ʁA�������[�J�[�h�P���ɁA<BR>�R�����܂ł����A�Z�[�u�ł��Ȃ��ƌ����̂́A������Ǝc�O�ł��B<BR>�A�����̋����C�x���g�̃`�F�b�N���l����ƁA�P�O�������炢<BR>�Z�[�u���ł���ƗL�������Ȃ��B<BR>�i�������J�[�h�𕡐��g��������Ƃ����������񂾂��ǂˁB�j<BR><BR>�����͖L�x�ł����A���b�Z�[�W�\���ƈꏏ�ɁA�X�L�b�v���������߁A<BR>�X�g���X�́A�قƂ�ǂ��܂�܂���B<BR>�Q��ڈȍ~�̃v���C�ɂ͂��Ȃ�L�������ł��B<BR>�����A�Ƃ����܁A�X�L�b�v�������Ă��܂��΂������B<BR><BR>�d�q�蒠�́A���L�ŁA�������ǂ̃C�x���g���N���A���Ă��邩�m�F�ł���̂�<BR>�֗��ł��B<BR>�������[�h�́A�����@�\���Ȃ��������A�㔼�f�[�^�[�����܂肷����ƁA<BR>�T�������f�[�^�[��������̂��A������ƈ��J�B<BR>���ʂ�����̒��J���̊��ɁA���܂����A�K�R���Ƃ��肪���݂��Ȃ��B<BR>�������[�h���g��Ȃ��ƁA�N���A�ł��Ȃ��ƌ����W�J�������Ă��ǂ������悤�ȋC���B<BR><BR>�L�����N�^�[�f�U�C���y�тb�f�́A���イ�Ԃ�A���ϓ_�A�l�̍D�݂ɂ���Ă�<BR>����ȏ�ł��B<BR>���̎�̊G�����̂��̂��_���Ȑl�́A���傤���Ȃ��ł��傤���ǁA<BR>����ᰂ�A�e�Ȃǂ������ƕ`����Ă��āA���ׂ����Ƃ́A�����Ƃ���Ă܂��B<BR>���ǁA�l�I�ɂ́A���i���̃f�U�C���A�����Q���炢�p�ӂ��ė~���������ł��B<BR><BR>��ʉ���Z�[�u�^���[�h���̃f�t�H�����L�������A�悭�ł��Ă��܂��B<BR>���C�ɓ���́A�т����肵���Ƃ��̃L�����B<BR>���ꂪ�A�߈ˏ�Ԃ��Ƒz���ƁA�G���x�����ł��B<BR><BR>�̐S�̜߈˂ł����A���̃Q�[�����ł̜߈˖ړI��<BR>�u�N���v�ɂȂ邱�Ƃ��A�u�N���v�̔Y�݂�z�����A<BR>�����ɒ��ׂ邱�ƂɁA�[�U���u����Ă��邽��<BR>�����ł����A�u�G����v�悤�ȕ`�ʂ́A�����ꕔ�ł��B<BR><BR>�o�r�Ƃ�����i���ł̗ϗ��̖�������܂����A<BR>�u�߈ˁv�\�͂ɖڊo�߂錏�A�}�j���A���ŁA������Ɨ����̂ł͂Ȃ�<BR>�I�[�v�j���O�Ɏ�荞��ŗ~���������Ȃ��B<BR><BR>
+<BR>とりあえず、グッドエンディング３つばかり見たので、<BR>総評も含めた感想を書かせていただきます。<BR><BR>まず、システムの方から書いていきます。<BR>ゲームスタート時に、オープニングを見る見ない、と選択できるのは<BR>小さな事ですがなかなか親切です。<BR>最近は、美麗ＣＧを、プレイヤーに否が応でも見せつけないと気が済まない<BR>某大手ゲームメーカーの悪いところを真似るソフトハウスも多いですから。<BR><BR>セーブは、かなりこまめにできるため、ちょっと、何か起こりそうと言うときや<BR>ご飯にしようとかいう時は、かなり便利な反面、メモリーカード１枚に、<BR>３ヶ所までしか、セーブできないと言うのは、ちょっと残念です。<BR>連続性の強いイベントのチェックを考えると、１０ヶ所ぐらい<BR>セーブができると有り難かったなあ。<BR>（メモリカードを複数使い分けるという手もあるんだけどね。）<BR><BR>音声は豊富ですが、メッセージ表示と一緒に、スキップが効くため、<BR>ストレスは、ほとんどたまりません。<BR>２回目以降のプレイにはかなり有り難い部分です。<BR>ただ、ときたま、スキップしすぎてしまうばあいも。<BR><BR>電子手帳は、日記で、自分がどのイベントをクリアしているか確認できるのが<BR>便利です。<BR>辞書モードは、検索機能がないせいか、後半データーが溜まりすぎると、<BR>探したいデーターを見つけるのが、ちょっと一苦労。<BR>数量や説明の丁寧さの割に、いまいち、必然性とありがたみがない。<BR>辞書モードを使わないと、クリアできないと言う展開があっても良かったような気が。<BR><BR>キャラクターデザイン及びＣＧは、じゅうぶん、平均点、個人の好みによっては<BR>それ以上です。<BR>この手の絵柄そのものがダメな人は、しょうがないでしょうけど、<BR>服の皺や陰影などもちゃんと描かれていて、やるべきことは、ちゃんとやってます。<BR>けど、個人的には、普段着のデザイン、もう２つぐらい用意して欲しかったです。<BR><BR>画面下やセーブ／ロード時のデフォルメキャラも、よくできています。<BR>お気に入りは、びっくりしたときのキャラ。<BR>これが、憑依状態だと想うと、萌え度爆発です。<BR><BR>肝心の憑依ですが、このゲーム中での憑依目的が<BR>「誰か」になることより、「誰か」の悩みや想いを、<BR>密かに調べることに、充填が置かれているため<BR>ここでいう、「萌える」ような描写は、ごく一部です。<BR><BR>ＰＳという作品内での倫理の問題もありますが、<BR>「憑依」能力に目覚める件、マニュアルで、さらっと流すのではなく<BR>オープニングに取り込んで欲しかったなあ。<BR><BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="5">
 <input type="hidden" name="id" value="937398704vetyk">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=5&ff=on">�Q�[��</a>]<br>
+[<a href="noteky@c_noteidx_f_5_ff_on.cgi">ゲーム</a>]<br>
 
 </p>
 </body>

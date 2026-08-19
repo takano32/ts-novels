@@ -1,222 +1,222 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=993553158imxguh&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_993553158imxguh_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���������߂��鏭��</font><br>
+<font size="+2" color="#0000FF">時をかけめぐる少女</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2001/06/26 19:59:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2001/06/26 19:59:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993553158imxguh&id2=993553158imxguh&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993553158imxguh_id2_993553158imxguh_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Now Printing!�i�������j
+Now Printing!（準備中）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200106/26214052/q-warp.htm" target="_blank">��i������ɂ͂������N���b�N�B</a></strong>  <i>2001/06/26 21:50:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200106/26214052/q-warp.htm" target="_blank">作品を見るにはここをクリック。</a></strong>  <i>2001/06/26 21:50:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993559852fkbqhp&id2=993553158imxguh&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993559852fkbqhp_id2_993553158imxguh_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�����ނ܁`����ɂ��A���`�˂������`����@�c�c���ĂȂ킯�ŁA�Ђ��Ȃ��Ɓi�H�j���琸�_�����̎��ԕ��Q�҂Ɖ��������N�́A�h�L�h�L�Ȝ߈ˌn�^�C���g���x���X�g�[���[�ł��B
+【推薦文】　たいむま～しんにぃ、お～ねがいい～っ♪　……ってなわけで、ひょんなこと（？）から精神だけの時間放浪者と化した少年の、ドキドキな憑依系タイムトラベルストーリーです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/26 22:07:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/26 22:07:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993560870goulst&id2=993553158imxguh&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993560870goulst_id2_993553158imxguh_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����E�E�E�E�ʔ��������ł���<BR>������āu���������鏭���v�̃p���f�B�ł����i�΁j<BR>�ޏ��͂��ꂩ��ǂ��Ȃ����Ⴄ�񂾂낤�H<BR>�i���Ɏ��̗���ɐg��C���Ă����̂��ȁH<BR>���Ɍ����̂͂ǂ����낤��(�΁j<BR>�悵��������A������Ċm���ɑ����܂����<BR>��������҂��Ă܂���
+読みました♪・・・・面白かったですよ<BR>これって「時をかける少女」のパロディですか（笑）<BR>彼女はこれからどうなっちゃうんだろう？<BR>永遠に時の流れに身を任せていくのかな？<BR>次に現れるのはどこだろうね(笑）<BR>よしおかさん、これって確実に続きますよね<BR>次回を期待してます♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/26 22:24:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/26 22:24:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993561899bnkvg&id2=993553158imxguh&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993561899bnkvg_id2_993553158imxguh_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���낢�邩����̂��������ʂ�ł��B<BR>�X�C�J����̏�񃁁[���̃R�����g�Łu�N�����������鏭���������Ȃ����ȁB�v�Ƃ����̂��������̂ŏ����܂����B<BR>���́A���̉f��̐��E�ɓ��荞�ނ͂��������̂ł����A�m�������i������Ƃ����Ă��A�킽���̕���������ł����j�ɂ̂�ڂ��ĉf�������������b�ɕς��āA�����ŏI�����肾�����̂ł����A�������Ȃ��ĕ挊���@��܂����B<BR>���͐_��̎���B�ǂ�ȃg���u�����҂��Ă���̂��낤�B����́A��҂̂킽���ɂ��킩��܂���B�Â��Ă������̂��Ȃ��H
+しろいるかさんのおっしゃる通りです。<BR>スイカさんの情報メールのコメントで「誰か時をかける少女を書かないかな。」というのがあったので書きました。<BR>実は、あの映画の世界に入り込むはずだったのですが、知世ちゃん（同世代といっても、わたしの方が少し上ですが）にのり移って映画を完成させる話に変えて、ここで終わるつもりだったのですが、おしくなって墓穴を掘りました。<BR>次は神代の時代。どんなトラブルが待っているのだろう。それは、作者のわたしにもわかりません。つづけてもいいのかなぁ？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/26 22:28:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/26 22:28:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993562112arluec&id2=993553158imxguh&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993562112arluec_id2_993553158imxguh_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`�`�A�̎��́A�a�`�e����ɗ��߂΂悩�����B<BR>���̉̎��A��΂���Ώ����Ă��������B<BR>�u�������v�̃����f�B�ŉ̂���Ǝv���܂����A�̂��l�͂��Ȃ����낤�Ȃ��B
+あ～～、歌詞は、ＢＡＦさんに頼めばよかった。<BR>あの歌詞、やばければ消してください。<BR>「時かけ」のメロディで歌えると思いますが、歌う人はいないだろうなぁ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/26 22:35:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/26 22:35:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993562510ixfvqoq&id2=993553158imxguh&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993562510ixfvqoq_id2_993553158imxguh_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[�ށA���̉f��ɂ���Ȕw�i���������Ƃ́i�΁j�B<BR>�ŁA���͌Î��L�̐��E�ł����B�����ł��˂��A�������Ȃ��āi���j�B<BR>���͊O���ɂ��܂��񂩁i�΁j�B�W�����k���_���N�Ƃ��B<BR>��������낢��U��񂳂ꂻ���ŁA�ƂĂ��y���݂ł��B<BR>���Â��Ă������̂��Ȃ��H<BR>���������I
+読んだバイ♪<BR>うーむ、あの映画にそんな背景があったとは（笑）。<BR>で、次は古事記の世界ですか。いいですねぇ、脈絡がなくて（爆）。<BR>次は外国にしませんか（笑）。ジャンヌ＝ダルクとか。<BR>今後もいろいろ振り回されそうで、とても楽しみです。<BR>＞つづけてもいいのかなぁ？<BR>もっちろん！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:shibuya@dd.iij4u.or.jp" target="_blank">�a�J@�E�ꂩ��</a></strong>  <i>2001/06/26 23:18:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:shibuya@dd.iij4u.or.jp" target="_blank">渋谷@職場から</a></strong>  <i>2001/06/26 23:18:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993565094mvdhc&id2=993553158imxguh&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993565094mvdhc_id2_993553158imxguh_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ߍ��̎Ⴂ�l�Ɂu�����ނ܁`����ɂ��A���`�˂������`����v���ĈӖ����������ł��傩�H<BR>�Ƃ����̂͂����Ƃ��āA���߂̂��Â߂܂œ˂��������瑱���̏������߂ɂ̓A�C�f�B�A����ς����ł�����Ɛɂ��������ł��B<BR>�ł�������݂����Ȃ̂Ŋy���݂ɂ��܂��ł��B
+近頃の若い人に「たいむま～しんにぃ、お～ねがいい～っ♪」って意味がつうじるんでしょか？<BR>というのはおいといて、あめのうづめまで突っ走ったら続きの書くためにはアイディアが大変そうでちょっと惜しいかもです。<BR>でも続けるみたいなので楽しみにしますです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/index.html" target="_blank">���c����</a></strong>  <i>2001/06/27 05:16:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/index.html" target="_blank">原田聖也</a></strong>  <i>2001/06/27 05:16:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993586581dirfvnj&id2=993553158imxguh&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993586581dirfvnj_id2_993553158imxguh_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������ł��B(^^)<BR>�I�`�́A�܂����������܂łԂ���ԂƂ͗\�z���ĂȂ������̂ŁA�u���ꂽ�[�v���Ċ����ł��B<BR>���̘b��ǂ�Łu�Ȃ�قǁA���̖���ɂ͂���ȗ��b���������̂��[�I�v�ƍl���Ȃ��猴��̕�������ƁA�܂�������y���݂������ł��邩������܂���ˁB
+面白かったです。(^^)<BR>オチは、まさかあそこまでぶっ飛ぶとは予想してなかったので、「やられたー」って感じです。<BR>この話を読んで「なるほど、あの名作にはこんな裏話があったのかー！」と考えながら原作の方を見ると、また違った楽しみが発見できるかもしれませんね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/06/27 08:38:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/06/27 08:38:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993598713mhajun&id2=993553158imxguh&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993598713mhajun_id2_993553158imxguh_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��񂾂�[<BR>�ʔ��������ł�<BR>�悵��������̕��͂ɂ͖��������ėǂ��ł���<BR>�Â��܂����<BR>�₭�����ł���
+よんだよー<BR>面白かったです<BR>よしおかさんの文章には味があって良いですね<BR>つづきますよね<BR>やくそくですよ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/27 21:29:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/27 21:29:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993644948yujyw&id2=993553158imxguh&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993644948yujyw_id2_993553158imxguh_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�^�C���g���b�v�Ɠ����ɐ��]�����Ă��܂��Ƃ͂т�����V�B<BR>���ЂƂ����������肢���܂��B���x�͂ǂ�Ȏ��オ����������B�N���I�p�g���Ƃ��B�k�M�܂Ƃ��B�q�Q�ƃT���O���X�̊ēȂ���Łw�]�Z���x�Ƃ��B<BR>�]�k�ł����A�ւ��̂́u�����߂��鏭���v�̕��������]��ɂȂ�悤�ȁc�B<BR>���ƁA�A���m�E�Y���͖{���́g�Î��L�h�Ȃ̂��A����Ƃ��w���鐯���x�s�u�A�j���ł̍ŏI��i�܂��l���̓��������ɂȂ��Ă���j�Ȃ̂��i���j�B
+タイムトリップと同時に性転換してしまうとはびっくり仰天。<BR>ぜひとも続きをお願いします。今度はどんな時代がいいかしら。クレオパトラとか。楊貴妃とか。ヒゲとサングラスの監督つながりで『転校生』とか。<BR>余談ですが、替え歌は「かけめぐる少女」の部分が字余りになるような…。<BR>あと、アメノウズメは本来の“古事記”なのか、それとも『うる星やつら』ＴＶアニメ版の最終回（つまり主人公はラムちゃんになっている）なのか（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:yas-326@pop01.odn.ne.jp" target="_blank">�肶�`</a></strong>  <i>2001/06/27 22:48:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:yas-326@pop01.odn.ne.jp" target="_blank">りじ～</a></strong>  <i>2001/06/27 22:48:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993649720temvuel&id2=993553158imxguh&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993649720temvuel_id2_993553158imxguh_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���񂿂�[�[�B�ǂ݂܂�����[�B<BR>����̕��͂���܂�悭�m��Ȃ��̂ł����A�y�����ǂ܂��Ē����܂����B<BR>�A���m�E�Y���E�E�E�܂��܂��m��܂���ȁ[�[�B�i�O�O�G�j<BR>���鐯���Ȃ�m���Ă܂��ȁ[�[�B<BR>�Ƃɂ����܂��A���ꂩ��悪�y���݂��B
+こんちわーー。読みましたよー。<BR>原作の方はあんまりよく知らないのですが、楽しく読ませて頂きました。<BR>アメノウズメ・・・またまた知りませんなーー。（＾＾；）<BR>うる星やつらなら知ってますなーー。<BR>とにかくまぁ、これから先が楽しみっ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:shibuya@dd.iij4u.or.jp" target="_blank">�a�J@�E�ꂩ��</a></strong>  <i>2001/06/28 22:42:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:shibuya@dd.iij4u.or.jp" target="_blank">渋谷@職場から</a></strong>  <i>2001/06/28 22:42:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993735741vexpjv&id2=993553158imxguh&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993735741vexpjv_id2_993553158imxguh_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �A���m�E�Y���E�E�E�܂��܂��m��܂���ȁ[�[�B�i�O�O�G�j<BR><BR>���{���̌|�\�^�����g�ł��B<BR>�F�����I�C�x���g�ŕs�ł̖������������܂����B
+&gt; アメノウズメ・・・またまた知りませんなーー。（＾＾；）<BR><BR>日本初の芸能タレントです。<BR>皆既日蝕イベントで不滅の名声を勝ち取りました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/28 23:34:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/28 23:34:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993738878byifsww&id2=993553158imxguh&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993738878byifsww_id2_993553158imxguh_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt;&gt; �A���m�E�Y���E�E�E�܂��܂��m��܂���ȁ[�[�B�i�O�O�G�j<BR><BR>&gt;���{���̌|�\�^�����g�ł��B<BR>&gt;�F�����I�C�x���g�ŕs�ł̖������������܂����B <BR><BR>��͂́A�����������Ɍ����Ȃ����Ƃ��Ȃ��i�΁j
+&gt;&gt; アメノウズメ・・・またまた知りませんなーー。（＾＾；）<BR><BR>&gt;日本初の芸能タレントです。<BR>&gt;皆既日蝕イベントで不滅の名声を勝ち取りました。 <BR><BR>わはは、そういう風に言えないこともない（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2001/06/29 03:23:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2001/06/29 03:23:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993752606fqxkwg&id2=993553158imxguh&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993752606fqxkwg_id2_993553158imxguh_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������c�m���B�l�́w���t�x�ł����E�E�B<BR>���Ƃ��w�t�x�ł��������I�I(^^;<BR>�悵��������̓Ɠ��Ȑ��E���ɑ������܂�<BR>��Ȃ����Ɉ������荞�܂�Ă����܂��܂����B<BR>�����܂��Ă₷���I(^^)
+懐かしい原田知世。僕の『性春』でした・・。<BR>もとい『青春』でしたぁっ！！(^^;<BR>よしおかさんの独特な世界感に足をつかまれ<BR>底なし沼に引っ張り込まれていしまいました。<BR>お次まってやすぜ！(^^)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/06/29 15:21:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花</strong>  <i>2001/06/29 15:21:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993795719pfpmhn&id2=993553158imxguh&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993795719pfpmhn_id2_993553158imxguh_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂾂��u�ŋߓǂ߂Ȃ��v�Ƃ������Ă�������ǁA�ۂۂǂ߂�悤�ɂȂ��Ă��܂����B<BR>�C���́u�V�k�v�́A���Ԃł��B<BR>���̒j�̎q�A������ǂ��ɂ����ł��傤�ˁH<BR>�G�W�v�g������ŏ����l�ɂȂ肷�܂��Ă����肵�āc�c�H�H<BR>�����񂺂�֌W�Ȃ��b������ǁA�Ñ�G�W�v�g�����ł�<BR>�������I�Ȏ���Łu���v���u�����v�̂ӂ��������<BR>�����̔��΂Ɂu�����v����������ǁu���v�ɑ��ʂ�����A<BR>���Ƃ������Ƃ������������ł��ˁB<BR>���`�`�`��A���̎���̂��Ƃ��A�C�ɂȂ�C�ɂȂ�C�ɂȂ�`�`�`!!<BR><BR>�Ƃ�����B<BR>�悵���������<BR>�v��������m�I�������������ĂĂ���āA�{���ɂ��肪�Ƃ��������܂��Im(__)m<BR>���ꂩ����A�ǂ����ʔ�����i��(-_^)�A��낵�����肢���܂���
+なんだか「最近読めない」とか言っていたけれど、ぽつぽつ読めるようになってきました。<BR>気分は「老婆」の、里花です。<BR>あの男の子、今ごろどこにいるんでしょうね？<BR>エジプトあたりで女王様になりすましていたりして……？？<BR>＃ぜんぜん関係ない話だけれど、古代エジプト王国では<BR>＃政治的な事情で「王」が「女王」のふりをしたり<BR>＃その反対に「王女」だったけれど「王」に即位したり、<BR>＃ということがあったそうですね。<BR>う～～～ん、他の時代のことが、気になる気になる気になる～～～!!<BR><BR>ともあれ。<BR>よしおかさん♪<BR>思いっきり知的興味をかき立ててくれて、本当にありがとうございます！m(__)m<BR>これからも、どうか面白い作品☆(-_^)、よろしくお願いします♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L���@��</strong>  <i>2001/06/29 15:27:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>広尾　翔</strong>  <i>2001/06/29 15:27:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993796021ypjfg&id2=993553158imxguh&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993796021ypjfg_id2_993553158imxguh_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������ł��I�@�w�����삯�鏭���x������Ȋ����ɃA�����W����Ƃ́I�Ƌ����܂����B�Ȃ�ŉf�悪�����������̐��������Ă���g�R���Ƃ������C�Ǝv���܂����ł��B�Ō�Ɏ�����Ԃ����ł��܂��̂��f���炵���ł��ˁi�΁j�B
+面白かったです！　『時を駆ける少女』をこんな感じにアレンジするとは！と驚きました。なんで映画が成功したかの説明をしているトコロとかもヨイと思いましたです。最後に時代をぶっ飛んでしまうのも素晴らしいですね（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�V���C�j���O�E�t�B���K�[�T</strong>  <i>2001/06/30 15:26:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>シャイニング・フィンガー５</strong>  <i>2001/06/30 15:26:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993882360cvvoba&id2=993553158imxguh&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993882360cvvoba_id2_993553158imxguh_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����TS��i��D���ł����A�����m���������D���ł����B���������A�����ゾ���i�΂��o���܂��ˁj�B�����炱�̃X�g�[���[�A�����������ł��B�L�����Ƃ��܂��i�΁j�B�G���܂��i�΁j�B<BR>�ǐL�F�悵�������܁A���[�������������҂��������܂��B���߂�Ȃ����B
+私はTS作品大好きですが、原○知世さんも大好きでした。同郷だし、同世代だし（歳がバレますね）。だからこのストーリー、すごくいいです。キュンときます（笑）。萌えます（笑）。<BR>追伸：よしおかさま、メールもう少しお待ち下さいませ。ごめんなさい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2001/07/01 22:34:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2001/07/01 22:34:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993994463pkdxfw&id2=993553158imxguh&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993994463pkdxfw_id2_993553158imxguh_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�^�C���X���b�v�߈˕��ł��ˁI<BR>�ߋ��ւ̃^�C���X���b�v�ƗL�����D�ƌ������Ōl���ɂ͍����Ă܂���ł������A�ޏ��̋L�����c���Ă��鎖�ŁA�l�Ԋ֌W�Ȃǂɂ����邱�Ƃ��Ȃ��ł��ˁI<BR>�߈˂���ƌ������炱�ꂪ��Ԗ]�܂����`���Ǝv���܂����B<BR>���̏㖢���̂��Ƃ�m���Ă����ł�����ŋ��ł���ˁI<BR>�Ō�̂ǂ�ł�Ԃ��Ŏ���ւ̊��Ҋ������܂�܂��B<BR>������ƃl�^�o���Ȋ��z���������ȁ`
+タイムスリップ憑依物ですね！<BR>過去へのタイムスリップと有名女優と言う事で個人情報には困ってませんでしたし、彼女の記憶が残っている事で、人間関係などにも困ることがないですね！<BR>憑依すると言ったらこれが一番望ましい形だと思いました。<BR>その上未来のことを知っているんですから最強ですよね！<BR>最後のどんでん返しで次回への期待感も高まります。<BR>ちょっとネタバレな感想だったかな～
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="993553158imxguh">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

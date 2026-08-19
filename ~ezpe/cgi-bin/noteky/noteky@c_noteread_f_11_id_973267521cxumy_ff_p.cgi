@@ -1,126 +1,126 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=973267521cxumy&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_973267521cxumy_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���W�b�N�̈��Y</font><br>
+<font size="+2" color="#0000FF">魔ジックの悪戯</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2000/11/04 01:05:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2000/11/04 01:05:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973267521cxumy&id2=973267521cxumy&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973267521cxumy_id2_973267521cxumy_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yNow Printing�z
+【Now Printing】
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/04011628/ma_gic.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/11/04 01:29:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/04011628/ma_gic.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/11/04 01:29:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973268959ogxwyn&id2=973267521cxumy&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973268959ogxwyn_id2_973267521cxumy_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �V���[�g�V���[�g�̖���@���Ƒ��z���񂪑�Q��ځA�I���W�i����i�œo��ł��B�y���ȃX�g�[���[�ƈ��Y�̋]���҂̂��킢�����ȁi�H�j�^�����A�����Ɋy����ł��������I
+【推薦文】 ショートショートの名手　月と太陽さんが第２作目、オリジナル作品で登場です。軽快なストーリーと悪戯の犠牲者のかわいそうな（？）運命を、存分に楽しんでください！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/11/04 01:42:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/11/04 01:42:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973269758cxkycs&id2=973267521cxumy&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973269758cxkycs_id2_973267521cxumy_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ʂ̃p���X�g�ɖ�����A�Ƃق��ɂ����ށB�O���̕s�𗝉f��̃����V�[���Ƃ��ɂ��肻���B
+大量のパンストに埋もれ、とほうにくれる彼。外国の不条理映画のワンシーンとかにありそう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�|�|</strong>  <i>2000/11/04 08:08:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ポポ</strong>  <i>2000/11/04 08:08:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973292929bkeycm&id2=973267521cxumy&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973292929bkeycm_id2_973267521cxumy_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�C���[�����A<BR>�p���X�g�E�^�C�c�t�F�`�ł��āA<BR>�ނ̋C�������悭�킩��܂��B<BR>����ɂ��Ă����������������܂����ˁB
+イヤー私も、<BR>パンスト・タイツフェチでして、<BR>彼の気持ちがよくわかります。<BR>それにしてもいい買い物をしましたね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/05 12:37:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/05 12:37:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973395463xtqgl&id2=973267521cxumy&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973395463xtqgl_id2_973267521cxumy_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ɂ��Ă����������������܂����ˁB <BR><BR>�c�i���j<BR><BR>�u���邪�D���v�Ȃ̂��A�u�����������Ȃ肽���v�̂��A�͈ӌ��̕������Ƃ���ł��c�B
+＞それにしてもいい買い物をしましたね。 <BR><BR>…（爆）<BR><BR>「見るが好き」なのか、「自分がそうなりたい」のか、は意見の分かれるところです…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ƒ��z</strong>  <i>2000/11/05 22:23:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong>月と太陽</strong>  <i>2000/11/05 22:23:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973430597hcnvst&id2=973267521cxumy&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973430597hcnvst_id2_973267521cxumy_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��B<BR><BR>���C���[�����A�p���X�g�E�^�C�c�t�F�`�ł��āA<BR>���\�@�r�t�F�`�̒j�����đ����Ǝv���܂��B<BR>�������̈�l�ł����D�D�D�B<BR>����Ȓj���̂��߂�(!?)���̍�i�������܂����B<BR><BR>���u����̂��D���v�Ȃ̂��A�u�����������Ȃ肽���v�̂��A<BR>��i�̒��ł̔ނ́u����̂��D���v�ł����D�D�D�B<BR>�D��S��������Ă݂������������ŁA�����āu�����������Ȃ肽�������v��ł͂Ȃ������D�D�D�Ǝv���܂��B<BR>�ł��A�ނ͍K���ɂȂꂽ�񂶂�Ȃ����ȁB<BR>��D���ȏ����̋r�����ł������悤�ɂȂꂽ����D�D�D�B<BR><BR>����ʂ̃p���X�g�ɖ�����A<BR>�C���p�N�g���~���������̂ŁA�������������ɂ��Ă��܂��܂����B<BR><BR>���́y���W�b�N�̈��Y�z�́A���҂��������Ǝv���Ă܂��̂ŁA�܂��f�ڂ��ꂽ���ɂ́A���Гǂ�ł���ĉ������B<BR>
+感想ありがとうございます。<BR><BR>＞イヤー私も、パンスト・タイツフェチでして、<BR>結構　脚フェチの男性って多いと思います。<BR>私もその一人ですが．．．。<BR>そんな男性のために(!?)この作品を書きました。<BR><BR>＞「見るのが好き」なのか、「自分がそうなりたい」のか、<BR>作品の中での彼は「見るのが好き」でした．．．。<BR>好奇心から穿いてみたかっただけで、決して「自分がそうなりたかった」訳ではなかった．．．と思います。<BR>でも、彼は幸せになれたんじゃないかな。<BR>大好きな女性の脚をいつでも見れるようになれたから．．．。<BR><BR>＞大量のパンストに埋もれ、<BR>インパクトが欲しかったので、こういうおちにしてしまいました。<BR><BR>この【魔ジックの悪戯】は、続編を書こうと思ってますので、また掲載された時には、ぜひ読んでやって下さい。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/04011628/ma_gic2.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/11/09 00:21:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/04011628/ma_gic2.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/11/09 00:21:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973696908fqotn&id2=973267521cxumy&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973696908fqotn_id2_973267521cxumy_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ����ɂ����ꂽ�������疂�W�b�N���A�܂��܂��s�𗝂ɖ��@�������܂���܂��I�@����͈ӊO�Ȍ����ɒ��ڂł��ˁB�Ȃ�ŁA�����c�c�H
+【推薦文】 現代にあらわれたいたずら魔ジックが、ますます不条理に魔法をかけまくります！　今回は意外な結末に注目ですね。なんで、俺が……？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/10 23:53:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/10 23:53:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973867988opbdav&id2=973267521cxumy&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973867988opbdav_id2_973267521cxumy_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�yPart 2�z<BR>���u�����A������͗L���l�ɉ�čK�����낤�ȁB�v<BR><BR>���ɈӖ��[���ȁc�A���̑䎌�B<BR>
+【Part 2】<BR>＞「あいつ、今ごろは有名人に会えて幸せだろうな。」<BR><BR>妙に意味深だな…、この台詞。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ƒ��z</strong>  <i>2000/11/12 01:05:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong>月と太陽</strong>  <i>2000/11/12 01:05:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=973958729ksiwmn&id2=973267521cxumy&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_973958729ksiwmn_id2_973267521cxumy_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���C�Â����Ǝv���܂����A�Ō�̕����͖^�����ԑg�ł��B<BR>�ςȉ����������i��ҁA�R�����͗L���l�ł��ˁB<BR>���������o�j�[�K�[���ɕϐg�����̂ŁA�������������ɂ��܂����B<BR>
+お気づきだと思いますが、最後の部分は某仮装番組です。<BR>変な仮装をした司会者、審査員は有名人ですね。<BR>せっかくバニーガールに変身したので、こういうおちにしました。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="973267521cxumy">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

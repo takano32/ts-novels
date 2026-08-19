@@ -1,122 +1,122 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=959186855iwpkj&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_959186855iwpkj_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
 <font size="+2" color="#0000FF">Rental Body Re-mix</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/rental/re-mix/re_mix-m.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/05/25 01:47:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/rental/re-mix/re_mix-m.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/05/25 01:47:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=959186855iwpkj&id2=959186855iwpkj&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_959186855iwpkj_id2_959186855iwpkj_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ����!!�@2bit����ɂ��{�ƃ����^���{�f�B�̍ŐV��A��Z���I�ŋ��Ō�̖ʔ����ƃ{�����[���œo��!!�@�ǂݎn�߂���~�܂�Ȃ��A�G���ď΂��ĔR���ċ�����A�܂��Ɋ������B�傰������Ȃ��āA�o���̂����f�����{�������炢�̏[�������ǌ㊴�ł��B�����A�N���b�N�A�N���b�N�`�I
+【推薦文】 特報!!　2bitさんによる本家レンタルボディの最新作、二〇世紀最強最後の面白さとボリュームで登場!!　読み始めたら止まらない、萌えて笑って燃えて泣ける、まさに感動大作。大げさじゃなくて、出来のいい映画を一本見たくらいの充実した読後感です。さぁ、クリック、クリック～！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/rental/re_mix/re_mix-m.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/05/25 02:00:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/rental/re_mix/re_mix-m.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/05/25 02:00:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=959187642ktdjuy&id2=959186855iwpkj&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_959187642ktdjuy_id2_959186855iwpkj_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ǘ��l���B�����܂���A��̏������݁AURL���Ԉ���Ă܂����B
+管理人より。すいません、上の書き込み、URLが間違ってました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:m-daisuke@mte.biglobe.ne.jp" target="_blank">����</a></strong>  <i>2000/05/25 16:46:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:m-daisuke@mte.biglobe.ne.jp" target="_blank">あい</a></strong>  <i>2000/05/25 16:46:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=959240818iwmwq&id2=959186855iwpkj&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_959240818iwmwq_id2_959186855iwpkj_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-RENTAL BODY Re-mix�@�`Princess of Rental Body�`<BR><BR>�͂܂�܂����B�i�P���ł͎��炾�Ƃ͎v���܂����ǁE�E�E�B�j<BR><BR>�l�́A�q�n�l�΂��肵�Ċ��z�������Ȃ��҂̂P�l�ł����A<BR>����΂���͏������Ă��������܂��B<BR><BR>�@�s�r������Ɗ������x�M�����s�v�n�@�a�h�s����B<BR>��������̏�����ǂ܂��Ē����܂��Ă��肪�Ƃ��������܂����B<BR><BR>�@�q�a�V���[�Y�́A<BR>�����Ɍ��J����Ă����i�Q�̒��ł͍D���ȍ�i�̂P�ł����B<BR><BR><BR>�@�q�a�̐��E���V�F�A���[���h�Ƃ��Č��J���ꂽ������<BR>�q�a�̐ݒ�𗘗p�������������������Ǝv��<BR>�G�f�B�^���J�����܂ł͂����̂ł����A���̒��ɂ���<BR>�����[�b�Ƃ������̂�<BR>�n�����ɂ܂Ƃߏグ�����グ�镪�͗́A�\����<BR>�@����A����ȍ����Ȃ��̂ł������Ȃ��A�����[�b�Ƃ������̂�<BR>���ɕϊ�����\�͂��Ȃ��̂ŁA�����łƂ܂��Ă��܂��܂��B<BR>���z�ł��������ł��B�ł�����͌�����ł��ˁBm(_ _)m�؂���<BR>
+RENTAL BODY Re-mix　～Princess of Rental Body～<BR><BR>はまりました。（１言では失礼だとは思いますけど・・・。）<BR><BR>僕は、ＲＯＭばかりして感想を書かない者の１人ですが、<BR>今回ばかりは書かせていただきます。<BR><BR>　ＴＳ小説作家活動を休筆されるＴＷＯ　ＢＩＴさん。<BR>たくさんの小説を読ませて頂きましてありがとうございました。<BR><BR>　ＲＢシリーズは、<BR>ここに公開されている作品群の中では好きな作品の１つでした。<BR><BR><BR>　ＲＢの世界がシェアワールドとして公開された頃から<BR>ＲＢの設定を利用した小説を書きたいと思い<BR>エディタを開く所まではいくのですが、頭の中にある<BR>モヤーッとしたものを<BR>創造物にまとめ上げ書き上げる分析力、構成力<BR>　いや、そんな高尚なものでさえもなく、モヤーッとしたものを<BR>文に変換する能力がないので、そこでとまってしまいます。<BR>感想でも同じ事です。でもこれは言い訳ですね。m(_ _)mぺこり<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:haruyo.takabatake@nifty.ne.jp" target="_blank">anjoe</a></strong>  <i>2000/05/26 03:55:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=959280937bsoii&id2=959186855iwpkj&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_959280937bsoii_id2_959186855iwpkj_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������Ȃ��ł���A�����������ꂾ���̂��̂�������̂ɁB<BR>�������ɐE�ƍ�ƈȊO�F�߂Ȃ��ƌ����Ă��瑱����ł��傤��<BR>���̍�i�ł���܂ł̃L�����N�^�[���p�Y���̂悤�ɂ҂�����͂܂�<BR>R-BOX�͖{���ɗL�Ӌ`�Ȏ��������̂��ƒɊ����Ă���̂ɁE�E<BR>���߂�̂͑S��TWO-BIT�l�ł����A���Ȃ��Ƃ��E�ƕҏW�҂̖ڂɎ~�܂�悤<BR>�Ȃ�炩�̌`�ŏ��������Ă��������I���Ȃ��������A�ǎ҂Ƃ��Ă̎��̊肢�ł���<BR>����͑����A���́u�I���W�i�� RENTAL BODY�v��i�ǎ҂�<BR>���S������̐l�B�̐؎��Ȋ肢�Ȃ̂��Ǝv���̂ł��B<BR><BR>�Ō�܂œǂݏI������"�`Princess of Rental Body�`"���ڂɕ����т܂��A����͑f���炵�����ł��B
+もったいないですよ、せっかくこれだけのものを書けるのに。<BR>たしかに職業作家以外認めないと言われてたら続け難いでしょうが<BR>この作品でこれまでのキャラクターがパズルのようにぴったりはまり<BR>R-BOXは本当に有意義な事だったのだと痛感しているのに・・<BR>決めるのは全てTWO-BIT様ですが、少なくとも職業編集者の目に止まるよう<BR>なんらかの形で書き続けていく事が終わらない事こそ、読者としての私の願いですし<BR>それは多分、他の「オリジナル RENTAL BODY」作品読者の<BR>何百何千もの人達の切実な願いなのだと思うのです。<BR><BR>最後まで読み終えた時"～Princess of Rental Body～"が目に浮かびます、これは素晴らしい事です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n</strong>  <i>2000/05/26 07:18:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ</strong>  <i>2000/05/26 07:18:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=959293114oxoowc&id2=959186855iwpkj&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_959293114oxoowc_id2_959186855iwpkj_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�Qbit����̂q�a�V���[�Y�A�O�����h�t�B�i�[���\�\�B<BR>�@�݌��𐳂��Ĕq�ǂ����Ă��������܂����i����Q�T�j�B<BR>�@������₠�������񂽂��ɂ܂����Ƃ́A����������ł��B<BR>�@���X�g�͂�����Ɣ߂������ǁA�ނ�͂��ꂩ����q�a�̂��鐢�E�Ő���t�i�������́A���������ɁH�j�����Ă����̂ł��傤�B<BR>�@�Ƃ�����A�Qbit����A����ꂳ�܂ł����B<BR>�@�����܂��g�����h����邱�Ƃ����҂��āc�c�B<BR><BR>�@�ǋL�E�݂����񂮂���A�c�c��낵����΁A�w���{�s�q�x�x�̃C���X�g�`���Ă��������B��(__)��
+　２bitさんのＲＢシリーズ、グランドフィナーレ――。<BR>　襟元を正して拝読させていただきました（←大ゲサ）。<BR>　樹くんやあおいさんたちにまた会えるとは、嬉しい限りです。<BR>　ラストはちょっと悲しいけど、彼らはこれからもＲＢのある世界で精一杯（もしくは、したたかに？）生きていくのでしょう。<BR>　ともあれ、２bitさん、お疲れさまでした。<BR>　いつかまた“復活”されることを期待して……。<BR><BR>　追記・みっしんぐさん、……よろしければ、『ロボＴＲＹ』のイラスト描いてください。ｍ(__)ｍ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂�����</strong>  <i>2000/05/26 23:13:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みっしんぐ</strong>  <i>2000/05/26 23:13:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=959350396odcxwrw&id2=959186855iwpkj&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_959350396odcxwrw_id2_959186855iwpkj_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ŏ��̂q�a�𓊍e�����̂����x��N�O�\�\�Ȃ̗͎����Ɓc�c���ɂւ̂�����Ƃł��Ҍ��ł���΂Ǝv��������́A�C���t���΃V���[�Y���ɃV�F�A���[���h���B<BR>�@�����̕��̍D�]�𓾂Ă����܂ł����q�a���A���ꂩ��͂s�v�n�|�a�h�s�̎�����S�ɗ���܂����A��ǎ҂Ƃ��ĐV�����q�a�����҂��Ă��܂��B<BR>�@������A�N���V�쏑���ĉ������i�΁j<BR><BR>����������Aanjoe����A�l�n�m�c�n����<BR>�@���z���肪�Ƃ��������܂��B<BR><BR>�w&gt;�s�r������Ɗ������x�M�����s�v�n�@�a�h�s����B�x<BR>�@�����Ɍ����ƁA�l�b�g�����A�������̑S�Ăɂ����Ă̎��M�����̒�~�Ȃ�ł����ǂˁc�c<BR>�@�ЂƂ܂��̍Ōゾ����A���\�D������ɗV��ł݂܂����B<BR>�@�����Ƃ��A���Ԃ����������̂Ō㔼�͒[�܂��Ă܂����ǁi�����j<BR><BR>�w&gt;�����[�b�Ƃ������̂𕶂ɕϊ�����\�͂��Ȃ��̂Łx<BR>�@���̊��o�A������܂���B<BR>�@���X���ۓI�Ȏv�l�p�^�[�������Ă��邽�߁A��̓I�ɂ�����������Ƃ���ƁA�ǂ����Ă����z�ƌ����̊ԂɃM���b�v�����݂��܂��i���j<BR>�@�v�l�Ɏw���t���Ă����Ȃ����ǂ������c�c<BR>�@����ł��A�����ׂΗǂ���ł����ǁc�c���������z���������Ă������ׂ�����������Ȃ��̂���Ԃ��������B<BR>�@�ł����ꂩ��́A���������z���������ď����ׂ����������Ă��A�����������Ƃ��o���Ȃ��񂾂�ȁi����΁j<BR><BR>�w&gt;�������ɐE�ƍ�ƈȊO�F�߂Ȃ��ƌ����Ă��瑱����ł��傤���x<BR>�@���̏o���Ȃ��񑩂ł�����B<BR>�@�b�f�`���C������Ȃ�A�r�r���炢�����΂�������Ȃ����Ǝv���l�����邩���m��܂��񂪁A���r���[�Ɋ����𑱂���Ɓc�c�������c���ł��B�z�����{�C���������c�c<BR>�@���ɂƂ��āA�����������Ă����̂͏A�E�����Ȃ�ł���B�ł��A����ȏ�́c�c�ˁB��Ɗ���؂�ɂ́A��₵���ȏ�̎��Ԃ������Ȃ��Ɓc�c�������ɁB<BR><BR>�w&gt;�����܂��g�����h����邱�Ƃ����҂��āc�c�B�x<BR>�@�ł���Ƃ����ł��ˁB�@�@<BR>�@�Ō�ɐV�l�܂ɉ��債�悤�Ƃ��Ă����i�������ɏ܂�����΁A��N�ȓ��ɕ����͏o�����ł����ǂˁc�c<BR><BR>�w&gt;��낵����΁A�w���{�s�q�x�x�̃C���X�g�`���Ă��������B��(__)�� �x<BR>�@�l�n�m�c�n����ɂ́A���p�̂�������˂Ăb�f�̈ꖇ�ł��`�����ƑO�X����l���Ă����肵�܂��̂ŁA������̊G�ŗǂ���Η����������牽���`���܂��傤�B<BR>�@�����A�@�����񃁃J���`���Ȃ���ł���i�����j<BR>�@�����A�`���ۂɃR�������͎���Ă��Č����̂���܂��H
+　最初のＲＢを投稿したのが丁度二年前――己の力試しと……文庫へのちょっとでも還元できればと思ったそれは、気が付けばシリーズ化にシェアワールド化。<BR>　多くの方の好評を得てここまできたＲＢも、これからはＴＷＯ－ＢＩＴの手を完全に離れますが、一読者として新しいＲＢを期待しています。<BR>　だから、誰か新作書いて下さい（笑）<BR><BR>＞あいさん、anjoeさん、ＭＯＮＤＯさん<BR>　感想ありがとうございます。<BR><BR>『&gt;ＴＳ小説作家活動を休筆されるＴＷＯ　ＢＩＴさん。』<BR>　厳密に言うと、ネットもリアルもその全てにおいての執筆活動の停止なんですけどね……<BR>　ひとまずの最後だから、結構好き勝手に遊んでみました。<BR>　もっとも、時間が無かったので後半は端折ってますけど（自爆）<BR><BR>『&gt;モヤーッとしたものを文に変換する能力がないので』<BR>　その感覚、分かりますよ。<BR>　元々抽象的な思考パターンをしているため、具体的にそれを現そうとすると、どうしても理想と現実の間にギャップが存在します（爆）<BR>　思考に指が付いていかないもどかしさ……<BR>　それでも、浮かべば良いんですけど……書きたい想いがあっても書くべき物が見つからないのが一番きついっす。<BR>　でもこれからは、書きたい想いがあって書くべき物が見えても、何も書くことが出来ないんだよな（微苦笑）<BR><BR>『&gt;たしかに職業作家以外認めないと言われてたら続け難いでしょうが』<BR>　反故出来ない約束ですから。<BR>　ＣＧ描く気があるなら、ＳＳぐらい書けばいいじゃないかと思う人もいるかも知れませんが、中途半端に活動を続けると……未練が残るんです。想いが本気だった分……<BR>　俺にとって、小説を書いていたのは就職活動なんですよ。でも、これ以上は……ね。趣味と割り切るには、費やした以上の時間がすぎないと……さすがに。<BR><BR>『&gt;いつかまた“復活”されることを期待して……。』<BR>　できるといいですね。　　<BR>　最後に新人賞に応募しようとしている作品が無事に賞を取れれば、一年以内に復活は出来るんですけどね……<BR><BR>『&gt;よろしければ、『ロボＴＲＹ』のイラスト描いてください。ｍ(__)ｍ 』<BR>　ＭＯＮＤＯさんには、艶姿のお礼を兼ねてＣＧの一枚でも描こうと前々から考えていたりしますので、おいらの絵で良ければ落ち着いたら何か描きましょう。<BR>　ただ、如何せんメカが描けないんですよ（自爆）<BR>　何か、描く際にコレだけは守ってって言うのあります？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>2000/05/31 22:30:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>こぎと</strong>  <i>2000/05/31 22:30:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=959779802dwiok&id2=959186855iwpkj&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_959779802dwiok_id2_959186855iwpkj_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āA����΂��A�����ɂȂ��āA�J�L�R���ăX���}�Z��<BR>m(_._)m�P�W����t���Ă������Ǝv���A�J�L�R�����Ă��������܂��A�ȂɂƂ��悵�ȂɁ[�B<BR>�������|����������Ō�̍�i�ƂȂ�炵���A�q�a�|�����|�������ǂ܂��Ă��������܂����A�������܂����A���`�A������n�[�g���O�b�`�����ƃn�[�g�u���N���Ă��ꂽ�A�ǂ���i�ł��B<BR>�I�C���I�A������Ŕ��R�Ɓu���������v�̈ꌾ�Ŋ��z���܂Ƃ܁[���B�n�C�A�J������Ȃ̂��Im(=.=)m�����A���߂�Ȃ����~�Q<BR>�A���Ȃ̂��A�������|����������̍�i�́`�́A�܂�����Ƃ��āA�R�N�������āA����ł��āA�N�Z�̂Ȃ��`���āA���񂵂ɁA�]���������Ȃ��̂��A�I�C���I�ɂ́A������u���������I�v�̈ꌾ�őS���܂Ƃ߂܂��B�ǁ`���I�A�����ł����ԓx�ŃX�}�����X�B<BR>����͂ǂ����ꂱ�̍�i�Łu�Ō�v�Ƃ��������������R�����g�A�₵���C�����Ȃ�܂���.......�i���`��j���ă��c�ł��ˁA�n�C�A�������A���ނƂ͌����ĂȂ��悤�Ȃ̂ŋC���ɕ������I�C���͑҂��Ă������Ǝv���܂��B<BR>�I�C���ɂƂ��āu�������|�������v�Ƃ�����Ƃ̖��O�͌��\�A<BR>�O�T�b�I�Ɛ[�����܂�Ă��邩�瑁�X�ȒP�ɂ͏����Ė����Ȃ�Ȃ��ł��傤......�����Ă��̓����H�Ăт������|����������Ƃ�����Ƃ�����������܂ŁB<BR><BR><BR>�@�@�@�@�@�@�@�@�@�@�@�@�@�Č��I<BR><BR><BR>
+初めまして、こんばんわ、今頃になって、カキコしてスンマセン<BR>m(_._)mケジメを付けておこうと思い、カキコさせていただきます、なにとぞよしなにー。<BR>ｔｗｏ－ｂｉｔさん最後の作品となるらしい、ＲＢ－ｒｅ－ｍｉｘ読ませていただきました、感動しました、も～、おいらハートをグッチャっとハートブレクしてくれた、良い作品です。<BR>オイラ的、言い訳で漠然と「感動した」の一言で感想をまとまーす。ハイ、開き直りなのだ！m(=.=)mあぁ、ごめんなさい×２<BR>アレなのだ、ｔｗｏ－ｂｉｔさんの作品は～は、まったりとして、コクがあって、それでいて、クセのない～って、遠回しに、評価したくないのだ、オイラ的には、だから「感動した！」の一言で全部まとめます。ど～だ！、あぁでかい態度でスマンっス。<BR>事情はどうあれこの作品で「最後」という感じがしたコメント、寂しい気持ちなりました.......（が～ん）ってヤツですね、ハイ、しかし、引退とは言ってないようなので気長に復活をオイラは待っておこうと思います。<BR>オイラにとって「ｔｗｏ－ｂｉｔ」という作家の名前は結構、<BR>グサッ！と深く刻まれているから早々簡単には消えて無くならないでしょう......そしていつの日か？再びｔｗｏ－ｂｉｔさんという作家が復活する日まで。<BR><BR><BR>　　　　　　　　　　　　　再見！<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂�����</strong>  <i>2000/06/04 05:37:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みっしんぐ</strong>  <i>2000/06/04 05:37:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=960064673ghiub&id2=959186855iwpkj&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_960064673ghiub_id2_959186855iwpkj_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����߂܂��āA����΂��A�����ɂȂ��āA�J�L�R���ăX���}�Z��<BR>�@���ł����܂��܂��񂩂�A�ǂ����ǂ����B<BR>�@���߂܂��āA�����Ƃ���B<BR><BR>���I�C���I�A������Ŕ��R�Ɓu���������v�̈ꌾ�Ŋ��z���܂Ƃ܁[���B�n�C�A�J������Ȃ̂��Im(=.=)m�����A���߂�Ȃ����~�Q<BR>�@����ŏ\���ł����<BR>�@�������g�A�ʔ�����i�ɏo��ƁA���ꂮ�炢�������z���o�Ȃ��Ȃ�܂�����i�����j<BR><BR>���Ăт������|����������Ƃ�����Ƃ�����������܂ŁB<BR>�@���N��ɂЂ������Ɠ��e���Ă��邩���i�΁j<BR>�@�������g�A�����������Ƃ͍D���ł�����ˁB�ł��A���̑O�ɐ����ā\�\�����ł��Ȃ��ƂȂ�Ȃ��āA����̋x�M�錾�ł��B<BR>�@�񑩂͂ł��Ȃ����ǁA�����邾���̂�Ƃ肪�ł�����A�܂������Ǝv���܂��̂Łc�c
+＞初めまして、こんばんわ、今頃になって、カキコしてスンマセン<BR>　いつでもかまいませんから、どうぞどうぞ。<BR>　初めまして、こぎとさん。<BR><BR>＞オイラ的、言い訳で漠然と「感動した」の一言で感想をまとまーす。ハイ、開き直りなのだ！m(=.=)mあぁ、ごめんなさい×２<BR>　それで十分ですよ♪<BR>　自分自身、面白い作品に出会うと、それぐらいしか感想が出なくなりますから（自爆）<BR><BR>＞再びｔｗｏ－ｂｉｔさんという作家が復活する日まで。<BR>　数年後にひょっこりと投稿しているかも（笑）<BR>　自分自身、小説書くことは好きですからね。でも、その前に生きて――生活できないとならなくて、今回の休筆宣言です。<BR>　約束はできないけど、生きるだけのゆとりができたら、また書くと思いますので……
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="959186855iwpkj">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

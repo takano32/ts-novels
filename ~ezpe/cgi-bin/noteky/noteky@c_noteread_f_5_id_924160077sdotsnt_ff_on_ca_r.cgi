@@ -1,121 +1,121 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�Q�[��/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ゲーム/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=5&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_5_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=5&id=924160077sdotsnt&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=5&ff=on">�Q�[��</a>]<br>
+[<a href="noteky@c_noteread_f_5_id_924160077sdotsnt_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_5_ff_on.cgi">ゲーム</a>]<br>
 
 <br></div>
 <font size="+2" color="#0000FF">X-Change 2</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>1999/04/15 16:07:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>いち￡</strong>  <i>1999/04/15 16:07:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=924160077sdotsnt&id2=924160077sdotsnt&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_924160077sdotsnt_id2_924160077sdotsnt_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@����N���E�h����̂g�o���X�V����āAX-Change 2 �̊T�����ڂ��Ă܂����B<BR>�@����ɂ��ƁA���x�͑O�삩��P�N��̘b�������ł��B(^_^)<BR>�@�{�����[����������Ƃ������ƂȂ̂ŁA�����甭�����y���݂ł��ˁB<BR>
+　昨日クラウドさんのＨＰが更新されて、X-Change 2 の概説が載ってました。<BR>　それによると、今度は前作から１年後の話だそうです。(^_^)<BR>　ボリュームも増えるということなので、今から発売が楽しみですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�\�Y��</strong>  <i>1999/06/09 01:39:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>十郎太</strong>  <i>1999/06/09 01:39:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=928859997ejamhlw&id2=924160077sdotsnt&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_928859997ejamhlw_id2_924160077sdotsnt_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�N���E�h�̂g�o�ɂāA�ȉ��̏�񂪌��J����܂����B<BR><BR>Xchange2 �̔����������܂�܂��� (^^)/<BR>8/27 �ł��B<BR>CD-DA�AMIDI�A�����ɑΉ����܂��B<BR>���i�� 8,800 �~(�ŕ�)<BR><BR>�N���E�h3���N�L�O�v���~�A���p�b�N�d�l�ŁA<BR>�O��D�]�������s�N�`���[ CD 2���g��<BR>����ɓ��T�������t���܂� (^^)/<BR>�Ƃ����킯�ŁA���҂��Ă��҂��������� (^^)<BR><BR>�Ȃ��A�J���t���s���A�K�[���U�����y�сA�������ɂ����Ăw�b�����������Q�̐ݒ茴��<BR>���f�ڂ���Ă��܂����B<BR>
+クラウドのＨＰにて、以下の情報が公開されました。<BR><BR>Xchange2 の発売日が決まりました (^^)/<BR>8/27 です。<BR>CD-DA、MIDI、音声に対応します。<BR>価格は 8,800 円(税別)<BR><BR>クラウド3周年記念プレミアムパック仕様で、<BR>前回好評だったピクチャー CD 2枚組で<BR>さらに特典が複数個付きます (^^)/<BR>というわけで、期待してお待ち下さいね (^^)<BR><BR>なお、カラフルピュアガール６月号及び、七月号においてＸＣｈａｎｇｅ２の設定原画<BR>が掲載されていました。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�\�Y��</strong>  <i>1999/07/31 23:47:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>十郎太</strong>  <i>1999/07/31 23:47:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=933432436umpuec&id2=924160077sdotsnt&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_933432436umpuec_id2_924160077sdotsnt_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�uXchange2�v�̃I�[�g�f���ŕ�����h������(��)�h�̐��͒��X�����ł��ˁB<BR>�Ƃ���ŎG���̋L���������Ƃ���A�����L�����ɑ΂����(�j)�Ƃ�����(��)<BR>�̂g�V�[��������A�G���f�B���O�͂Q�O�ȏゾ�Ƃ��B<BR>������āA���āu���Ղ�́v������Ă������Ǝ��Ă���̂ł́H�i�O�O�j<BR>
+「Xchange2」のオートデモで聞ける”たくや(女)”の声は中々可愛いですね。<BR>ところで雑誌の記事を見たところ、女性キャラに対し拓也(男)とたくや(女)<BR>のＨシーンがあり、エンディングは２０以上だとか。<BR>それって、かつて「そぷらの」がやっていた事と似ているのでは？（＾＾）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.kumagaya.or.jp/~gori/tifra/" target="_blank">�f������</a></strong>  <i>1999/08/27 10:15:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.kumagaya.or.jp/~gori/tifra/" target="_blank">Ｇｏｒｉ</a></strong>  <i>1999/08/27 10:15:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=935716558nxebi&id2=924160077sdotsnt&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_935716558nxebi_id2_924160077sdotsnt_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-X-change2����ł��B<BR>�܂����ɂȂ��ĂȂ��ł����i���<BR>���̃Q�[���A���[�U�[�C���^�t�F�[�X���Ƃ�ł��Ȃ��ł��B�����܂Őݒ�ł�����̂͂�����ƋL���ɂ���܂���B�Q�ʂ�˂������ĂP�ʁA�Ƃ��������ł��B<BR>�����X�L�b�v�͂��납�A�X�L�b�v�X�g�b�v���@�A�L�������Ƃ̉����I���I�t�A�W���̂P�O�ȏ゠��Z�[�u�ƕʂɃ��v���C�ʒu�ł̎����Z�[�u������A�摜���[�h�́��\���A�[�������w���v�A120Mhz�ł��\���Ȍy���E�E�E<BR>���ꂾ���ł����K�Ƀv���C�o�������ȋC�����܂��BCROWD����A���΂炵���ł��B<BR>X-change2����ł��B<BR>�܂����ɂȂ��ĂȂ��ł����i���<BR>���̃Q�[���A���[�U�[�C���^�t�F�[�X���Ƃ�ł��Ȃ��ł��B�����܂Őݒ�ł�����̂͂�����ƋL���ɂ���܂���B�Q�ʂ�˂������ĂP�ʁA�Ƃ��������ł��B<BR>�����X�L�b�v�͂��납�A�X�L�b�v�X�g�b�v���@�A�L�������Ƃ̉����I���I�t�A�W���̂P�O�ȏ゠��Z�[�u�ƕʂɃ��v���C�ʒu�ł̎����Z�[�u������A�摜���[�h�́��\���A�[�������w���v�A120Mhz�ł��\���Ȍy���E�E�E<BR>���ꂾ���ł����K�Ƀv���C�o�������ȋC�����܂��BCROWD����A���΂炵���ł��B<BR>
+X-change2速報です。<BR>まだ女になってないですが（苦笑<BR>このゲーム、ユーザーインタフェースがとんでもないです。ここまで設定できるものはちょっと記憶にありません。２位を突き放して１位、という感じです。<BR>自動スキップはおろか、スキップストップ方法、キャラごとの音声オンオフ、標準の１０個以上あるセーブと別にリプレイ位置での自動セーブがあり、画像モードの％表示、充実したヘルプ、120Mhzでも十分な軽さ・・・<BR>これだけでも快適にプレイ出来そうな気がします。CROWDさん、すばらしいです。<BR>X-change2速報です。<BR>まだ女になってないですが（苦笑<BR>このゲーム、ユーザーインタフェースがとんでもないです。ここまで設定できるものはちょっと記憶にありません。２位を突き放して１位、という感じです。<BR>自動スキップはおろか、スキップストップ方法、キャラごとの音声オンオフ、標準の１０個以上あるセーブと別にリプレイ位置での自動セーブがあり、画像モードの％表示、充実したヘルプ、120Mhzでも十分な軽さ・・・<BR>これだけでも快適にプレイ出来そうな気がします。CROWDさん、すばらしいです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:ct6m1980@rnac.ne.jp" target="_blank">�\�Y��</a></strong>  <i>1999/09/05 17:40:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:ct6m1980@rnac.ne.jp" target="_blank">十郎太</a></strong>  <i>1999/09/05 17:40:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=936520828aukvu&id2=924160077sdotsnt&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_936520828aukvu_id2_924160077sdotsnt_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Xchange2�R���v���܂����B<BR>�@�V�X�e���⃆�[�U�[�C���^�t�F�[�X���f���炵���͔̂��d�F����Ƃf���������񂪋�ʂ�Ȃ̂ŁA���͓��e�ɂ��Ă̊��z���l�^�΂ꂵ�Ȃ����x�ɏ������݂��܂��B<BR><BR>�E�O���t�B�b�N<BR>�@�O��Ɣ�ׂĊG���͗D�����Ȃ�A���������Ȃ��Ă܂��B<BR>�@�܂��V�i���I�̃{�����[�������������A�����|�[�Y���啝�ɑ����ĕ\��L���ɂȂ��Ă܂��B���ƈ�ԑ傫���i�������͔̂w�i�ł���(^^;)�B<BR>�@�Ƃ��ǂ��ꖇ�G�̍������ɑ傫����������܂����A�����Ă��̓M���O�V�[���Ŏg���Ă���̂ŁA���̌��ʂƂ��Ď�����Ă���̂ł��傤�B<BR><BR>�E�V�i���I��X�g�[���[<BR>�@�܂��X�g�[���[�W�J�����������s���Ȏ��������̂́A�O��Ɠ����ł���(��)�B<BR>�@�܂��g�V�[���ł������d�F����̌����ʂ�A�m���ɂ�����͂��ꂷ�������Ǘ�������̑����̂��O��Ɠ����ł���(^^;)�B<BR>�@���ꂩ�疾�����Ɛ痢�A���ƍO��(^^;)�Ƃ̂d�m�c�͔[���o������e��������ł����A����ȊO�̏��̎q�Ƃ̂d�m�c�͉�������ĕt�����悤�Ȋ�������܂����B<BR>�@����͍ŋ߂̑��̔������Q�[���ł������悤�Ȃ��̂ł����ǁA��x�r�d�w�������炢�ŗ��l�ɂȂ����Ȃ�āA���͂�����Ǝv�����݂������߂�����(��)�B<BR><BR>�E�L�����N�^�[<BR>�@�V�i���I�W�J�����������s���I�Ȃ̂ŁA�L�������K�R�I�ɂ��񑩂Ȑl�B�΂���ł�(��)�B<BR>�@������͑O��ȏ�Ɋ����₷����(��)�A�������ɑ΂��Ă͒j�̎��͎�C�����Ǐ��ɂȂ�Ƌ��C�ɂȂ�̂͂���܂����񑩂ł��ˁB<BR>�@��ԏ΂����͍̂O��̐���(^^;)�Ԃ�ł��ˁB�������d�m�c�X�ɂ��΂킹�Ă��������܂����B<BR>�@�V�L�����ŋC�ɓ������̂͐Í��ł��ˁB���������ޏ��̃V�[��������������ǂ��������ȁB�Ⴆ�Γ���ւ�����܂܌݂��̊w�Z�֍s���Ƃ��H�i������ƃl�^�΂�(^^;)�j�B<BR><BR>�@���̊��z�͈ȏ�ł��B<BR>
+Xchange2コンプしました。<BR>　システムやユーザーインタフェースが素晴らしいのは八重洲さんとＧｏｒｉさんが仰る通りなので、私は内容についての感想をネタばれしない程度に書き込みします。<BR><BR>・グラフィック<BR>　前作と比べて絵柄は優しくなり、質も高くなってます。<BR>　またシナリオのボリュームが増した分、立ちポーズが大幅に増えて表情が豊かになってます。あと一番大きく進歩したのは背景ですね(^^;)。<BR>　ときどき一枚絵の差が非常に大きい事がありますが、たいていはギャグシーンで使われているので、一種の効果として取り入れているのでしょう。<BR><BR>・シナリオやストーリー<BR>　まずストーリー展開が強引かつご都合な事が多いのは、前作と同じですね(笑)。<BR>　またＨシーンですが八重洲さんの言う通り、確かにたくやはやられすぎだけど立ち直りの速いのも前作と同じですね(^^;)。<BR>　それから明日香と千里、あと弘二(^^;)とのＥＮＤは納得出来る内容だったんですが、それ以外の女の子とのＥＮＤは何か取って付けたような感がありました。<BR>　これは最近の他の美少女ゲームでも似たようなものですけど、一度ＳＥＸしたくらいで恋人になったなんて、拓也はちょっと思い込みが激し過ぎかな(笑)。<BR><BR>・キャラクター<BR>　シナリオ展開が強引かつご都合的なので、キャラも必然的にお約束な人達ばかりです(笑)。<BR>　たくやは前作以上に感じやすいし(笑)、明日香に対しては男の時は弱気だけど女になると強気になるのはこれまたお約束ですね。<BR>　一番笑えたのは弘二の成長(^^;)ぶりですね。もちろんＥＮＤ９にも笑わせていただきました。<BR>　新キャラで気に入ったのは静香ですね。もう少し彼女のシーンが多かったら良かったかな。例えば入れ替わったまま互いの学校へ行くとか？（ちょっとネタばれ(^^;)）。<BR><BR>　私の感想は以上です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F�ꐬ</strong>  <i>1999/09/06 04:54:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲一成</strong>  <i>1999/09/06 04:54:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=936561262kjvlsi&id2=924160077sdotsnt&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_936561262kjvlsi_id2_924160077sdotsnt_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Xchange2�A�~�܂��Ă܂��`<BR>�ʔ��������ɁA��肾������~�܂�Ȃ������Ȃ�ŁB^^;<BR>���܂̂Ƃ���A�g�D���[�G���h��END7�̋��q����񂾂��ł��ˁB<BR>�Ƃ���ŁA���l�I�ɏ��Ր�̎R��́A�ϐg�����̖�������ł̓����V�[����������ł����ǁB�������Ȃ��̂ł��傤���H
+Xchange2、止まってます～<BR>面白いだけに、やりだしたら止まらなさそうなんで。^^;<BR>いまのところ、トゥルーエンドはEND7の恭子ちゃんだけですね。<BR>ところで、私個人的に序盤戦の山場は、変身当日の明日香宅での入浴シーンだったんですけど。いかがなものでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>OGRE</strong>  <i>1999/09/15 02:48:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=937331328ojdgna&id2=924160077sdotsnt&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_937331328ojdgna_id2_924160077sdotsnt_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���񂿂́BXCHANGE2�A�O��͂���ĂȂ���ł����A����͔����܂����B�������ŐQ�s���C���ŁA�d���Ɏx�Ⴊ�i�΁j<BR>����͂����ƁA���̃e�̃\�t�g�����̂͂����Ԃ�v���Ԃ�Ȃ̂ł����A�u�������v�Ƃ��̃m���œ�҂�����Ƃ�����̂ł��˂��B���Ȃ�C�������āi�H�j�t���O���Ă����Ă����Ȃ��ƃx�X�g�G���h�ɂ��ǂ蒅���Ȃ��E�E�B<BR>����ƂЂƂA�����n�̃x�X�g�G���h�ɂ��ǂ蒅���܂����B�S������ɂ͍U���{�����邩�Ȃ��E�E
+こんちは。XCHANGE2、前作はやってないんですが、これは買いました。おかげで寝不足気味で、仕事に支障が（笑）<BR>それはそうと、このテのソフトをやるのはずいぶん久しぶりなのですが、「同級生」とかのノリで二股かけるといかんのですねぇ。かなり気合を入れて（？）フラグ立てをしていかないとベストエンドにたどり着かない・・。<BR>やっとひとつ、演劇系のベストエンドにたどり着きました。全部見るには攻略本がいるかなぁ・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="http://www.ksky.ne.jp/~gori/" target="_blank">Gori</a></strong>  <i>1999/12/06 23:11:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=944489518wesgocm&id2=924160077sdotsnt&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_944489518wesgocm_id2_924160077sdotsnt_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����A����� BEST END �����܂����B�Ƃ������ABEST END ���ĕʂɗp�ӂ��ꂽ�G���f�B���O������̂ˁB���łɂP�O�ȏ�̃G���f�B���O���o�����Ƃ����̂ɁA���߂ăX�^�b�t���[�����o�Ă��ċ��������Ƃ�����i�ꊾ<BR>�\�̍O�񂿂������ĂȂ����E�E�E<BR><BR>���������`���[�g�ɂ����S�U����ڎw���Ă܂����A�O�������������Ă��̂Ă����炭�B���[��A����΂�B<BR><BR>���܂̂Ƃ����ԍD���ȃV�[���͖������Ƃ̔������ł��B<BR><BR>
+今日、やっと BEST END を見ました。というか、BEST END って別に用意されたエンディングがあるのね。すでに１０個以上のエンディングを出したというのに、初めてスタッフロールが出てきて驚いたことったら（滝汗<BR>噂の弘二ちゃんも見てないし・・・<BR><BR>いちおうチャートにしつつ完全攻略を目指してますが、三ヶ月もかかってこのていたらく。うーん、がんばる。<BR><BR>いまのところ一番好きなシーンは明日香との買い物です。<BR><BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="5">
 <input type="hidden" name="id" value="924160077sdotsnt">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=5&ff=on">�Q�[��</a>]<br>
+[<a href="noteky@c_noteidx_f_5_ff_on.cgi">ゲーム</a>]<br>
 
 </p>
 </body>

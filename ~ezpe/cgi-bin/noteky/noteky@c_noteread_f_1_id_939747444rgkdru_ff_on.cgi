@@ -1,52 +1,52 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>­”NƒRƒ~ƒbƒN/Ž„‚ÌƒIƒXƒXƒ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>å°‘å¹´ã‚³ãƒŸãƒƒã‚¯/ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=1&ff=on">V‚µ‚­˜b‘è‚ð‚Â‚­‚é</a>] 
+[<a href="noteky@c_notebase_f_1_ff_on.cgi">æ–°ã—ãè©±é¡Œã‚’ã¤ãã‚‹</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=1&id=939747444rgkdru&ff=on&ca=r">ÅV‚Ìî•ñ‚ÉXV</a>] 
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">­”NƒRƒ~ƒbƒN</a>]<br>
+[<a href="noteky@c_noteread_f_1_id_939747444rgkdru_ff_on_ca_r.cgi">æœ€æ–°ã®æƒ…å ±ã«æ›´æ–°</a>] 
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">å°‘å¹´ã‚³ãƒŸãƒƒã‚¯</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">‚±‚Ü‚Á‚½‚±‚Ü‚Á‚½OO</font><br>
+<font size="+2" color="#0000FF">ã“ã¾ã£ãŸã“ã¾ã£ãŸï¼¾ï¼¾</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>‚Ü‚Â</strong>  <i>1999/10/13 01:57:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ã¾ã¤</strong>  <i>1999/10/13 01:57:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=939747444rgkdru&id2=939747444rgkdru&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_939747444rgkdru_id2_939747444rgkdru_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-‚¢‚â[‚¨‚¶‚á‚Üƒ†[ƒŒƒC‚­‚ñ‚PŠª‚¾‚¯‚Ý‚Â‚©‚è‚Ü‚¹‚ñB<BR>‚³‚Ä‚Í‚Ä‚Ç‚¤‚µ‚½‚à‚Ì‚Å‚µ‚å‚¤‚©
+ã„ã‚„ãƒ¼ãŠã˜ã‚ƒã¾ãƒ¦ãƒ¼ãƒ¬ã‚¤ãã‚“ï¼‘å·»ã ã‘ã¿ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚<BR>ã•ã¦ã¯ã¦ã©ã†ã—ãŸã‚‚ã®ã§ã—ã‚‡ã†ã‹
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>ƒƒbƒZ[ƒWF</b><br>
+<form action="noteky.cgi" method="post" >
+<b>ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼š</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="939747444rgkdru">
 <P></P>
-<b>‚¨–¼‘OF</b><br>
+<b>ãŠåå‰ï¼š</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>ƒ[ƒ‹ƒAƒhƒŒƒXF</b><br>
+<b>ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ï¼š</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>¦ mailto:‚ðhttp://‚É’¼‚¹‚ÎURL‚ð“ü—Í‚Å‚«‚Ü‚·B</font>
+<font size=-1>â€» mailto:ã‚’http://ã«ç›´ã›ã°URLã‚’å…¥åŠ›ã§ãã¾ã™ã€‚</font>
 <P>
-<input type="submit" value="‘‚«ž‚Ý"><br>
+<input type="submit" value="æ›¸ãè¾¼ã¿"><br>
 <font size=-1>
-¦‘‚«ž‚ÝŒã‚ÍAƒuƒ‰ƒEƒU‚Ìu–ß‚évƒ{ƒ^ƒ“‚Å–ß‚Á‚Ä‰º‚³‚¢B<br>
+â€»æ›¸ãè¾¼ã¿å¾Œã¯ã€ãƒ–ãƒ©ã‚¦ã‚¶ã®ã€Œæˆ»ã‚‹ã€ãƒœã‚¿ãƒ³ã§æˆ»ã£ã¦ä¸‹ã•ã„ã€‚<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=1&ff=on">­”NƒRƒ~ƒbƒN</a>]<br>
+[<a href="noteky@c_noteidx_f_1_ff_on.cgi">å°‘å¹´ã‚³ãƒŸãƒƒã‚¯</a>]<br>
 
 </p>
 </body>

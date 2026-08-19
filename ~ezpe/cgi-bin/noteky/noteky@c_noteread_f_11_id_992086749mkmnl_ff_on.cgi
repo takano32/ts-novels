@@ -1,520 +1,520 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=992086749mkmnl&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_992086749mkmnl_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�P�_��杁i��S�f���j</font><br>
+<font size="+2" color="#0000FF">姫神奇譚（第４掲示板）</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2001/06/09 20:39:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2001/06/09 20:39:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992086749mkmnl&id2=992086749mkmnl&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992086749mkmnl_id2_992086749mkmnl_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�_��杂̊��z�́A������ɂ��肢���܂��B
+姫神奇譚の感想は、こちらにお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/10 11:01:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/10 11:01:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992138460hbxhkdn&id2=992086749mkmnl&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992138460hbxhkdn_id2_992086749mkmnl_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӂɁ`�`�A�F����̔������A���킢�B
+ふに～～、皆さんの反応が、こわい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����낤�i�P�_Club.No�S)</strong>  <i>2001/06/10 11:37:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>いちろう（姫神Club.No４)</strong>  <i>2001/06/10 11:37:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992140661teltilc&id2=992086749mkmnl&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992140661teltilc_id2_992086749mkmnl_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�O�`�P�P�b�@�P�_���a�z<BR>�͂��߂܂��āA�����낤�Ɛ\���܂��B<BR>�ǂ݂܂����B<BR>�P�_�̐��܂��b�ł��ˁB�ǂ������Ǝv���܂���B<BR>�P�_�̃����o�[���ǂ�ǂ񑝂��Ă����Ă܂��ˁB�݂Ȃ���A���ꂩ����撣���Ă����܂���[�I<BR><BR>���󂳁`��I�݂Ȃ���撣���Ă��܂���`�B
+【外伝１１話　姫神生誕】<BR>はじめまして、いちろうと申します。<BR>読みました。<BR>姫神の生まれる話ですね。良かったと思いますよ。<BR>姫神のメンバーもどんどん増えていってますね。みなさん、これからも頑張っていきましょー！<BR><BR>亜希さ～ん！みなさん頑張っていますよ～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/10 15:18:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/10 15:18:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992153931tthsrl&id2=992086749mkmnl&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992153931tthsrl_id2_992086749mkmnl_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�O�`�P�P�b�@�P�_���a�z<BR>�ǂ݂܂�����<BR>�P�_�l�a���̔�b�ł����B<BR>���^���C�ȕP�_�l���r�Ԃ�_�ɕς����񂢂����̗t�͓��R�󂯂Ȃ���΂Ȃ�Ȃ��B<BR>�P�_�l����Ί��D�����߂͏d�����B<BR>���̏��_���v���S�\�̃A�}�e���X�̒Q���́E�E�E�E�E�H�B<BR>�ʔ��������ł���E�E�E�E�E���������҂��Ă܂���<BR><BR>�ŋ߂͕��ɂɓ��e���Ă��Ȃ����낢�邩�ł����B<BR>������ȁI���낻�뉽�������Ȃ��Ɓi�΁j
+【外伝１１話　姫神生誕】<BR>読みました♪<BR>姫神様誕生の秘話ですか。<BR>純真無垢な姫神様を荒ぶる神に変えた報いをこの猟師は当然受けなければならない。<BR>姫神様から笑顔を奪った罪は重たい。<BR>妹の女神を思う全能のアマテラスの嘆きは・・・・・？。<BR>面白かったですよ・・・・・次回作も期待してます♪<BR><BR>最近は文庫に投稿していないしろいるかでした。<BR>いかんな！そろそろ何か書かないと（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:t-hiruma@smile.ocn.ne.jp" target="_blank">���}</a></strong>  <i>2001/06/10 15:21:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:t-hiruma@smile.ocn.ne.jp" target="_blank">ラマ</a></strong>  <i>2001/06/10 15:21:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992154068pgkvhf&id2=992086749mkmnl&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992154068pgkvhf_id2_992086749mkmnl_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�̗̈�ǂ݂܂����B<BR>�r������ϐg�����̂ɂ悭�^�C�����o�����ȁ`�B����A���΂͕P�_�i�΁j�B<BR>�Ƃ���ŁA�S�[���ɏ��_��������y��A�_�̗̈�������Ƃ������E�̃X�v�����^�[�B���Ós���l�������񂾂낤���H�I
+神の領域読みました。<BR>途中から変身したのによくタイムを出せたな～。いや、流石は姫神（笑）。<BR>ところで、ゴールに女神を見た先輩や、神の領域を見たという世界のスプリンター達も古都音様を見たんだろうか？！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200103/24194542/himegami_x_11.htm" target="_blank">�O�`�\��b������Ȃ炱�����N���b�N�B </a></strong>  <i>2001/06/10 20:11:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200103/24194542/himegami_x_11.htm" target="_blank">外伝十一話を見るならここをクリック。 </a></strong>  <i>2001/06/10 20:11:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992171512ytgqxu&id2=992086749mkmnl&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992171512ytgqxu_id2_992086749mkmnl_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�w�^���E�Î��L�@�P�_�a���̊��x�ɋL���ꂽ�A���������՗�ȕP�_���a�̕���Ƃ́H<BR>�@�V���ȕP�_�_�b�̌�蕔�A�悵�������񂪖a�����b���ǂ����B <BR>�i���b�Ă��ǎҁj
+【推薦文】　『真書・古事記　姫神誕生の巻』に記された、哀しくも苛烈な姫神生誕の物語とは？<BR>　新たな姫神神話の語り部、よしおかさんが紡ぐお話をどうぞ。 <BR>（世話焼き読者）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/10 20:14:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/10 20:14:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992171696pfwlqwx&id2=992086749mkmnl&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992171696pfwlqwx_id2_992086749mkmnl_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����O�P�P�b�B<BR>�Ȃ��Ȃ��ߒɂȕP�_�a���̂������B<BR>���̈ꌏ���Ȃ�������A���_�͂ǂ̂悤�Ȑ_�ɂȂ��Ă����̂ł��傤���B<BR>����ɂ��Ă��݂Ȃ��񂨏��ł��Ȃ��B
+読みました外１１話。<BR>なかなか悲痛な姫神誕生のいきさつ。<BR>この一件がなかったら、妹神はどのような神になっていたのでしょうか。<BR>それにしてもみなさんお上手ですなぁ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">���������i�P�_ClubNo.3�j</a></strong>  <i>2001/06/11 00:57:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい（姫神ClubNo.3）</a></strong>  <i>2001/06/11 00:57:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992188626xwadqx&id2=992086749mkmnl&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992188626xwadqx_id2_992086749mkmnl_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ���A�����z���肪�Ƃ��������܂��B<BR>�����āA����݂��邳��̕������킽�����S�����]���܂��I<BR>���󂳂񂪂���������Ȃ��ƁA�P�_�V���[�Y�������ӗ~�����ނ��Ă��܂��܂��B<BR><BR>�����낢�邩����<BR>���҂̂��v�]���肪�Ƃ��������܂��B<BR>�����ǁA���̃G�s�\�[�h�͂���Ŋ����������ق��������悤�ȁA���Ďv���Ă܂��B<BR>�c�Ƃ������ĂĂ��C���ς�����珑����������܂��񂪁B<BR>���L�^�͂ǂ��Ȃ����Ⴄ�̂��ȁH�B<BR>�j�q�A���q�̂ق��Ɂu�j�q�����q�s�r�v�u���q���j�q�s�r�v�Ƃ������傪�ł����肵�āB<BR>�Ós���l�̂������炪�������ŁA���Z���̐��]������������΂��肤��悤�ȋC�����܂��i�΁j�B<BR><BR>�������W�S�Q�U����<BR>���̋L�^�͔ޏ��̐��U�ō��L�^�ɂȂ邱�Ƃł��傤�B<BR>��l���ɂ́A����͏��q�Ƃ��đS�����x���̃X�v�����^�[���߂����Ăق����ł��ˁB<BR><BR>���W���[�W���b�h�i�P�_C������No.2�j����<BR>�킽���͊O�`�ɂȂ�悤�ȃA�C�f�B�A�΂��肪�v�����܂��i�⊾�j�B<BR>�{�Ҍ����̒��z�������Ԃ݂Ȃ��܂ɂ͂����ւ񊴐S���Ă��܂��B<BR>�킽����P�_�V���[�Y�Ɉ������񂾊O�`�ܘb�������Ă������������󂳂�ɂ�������񊴎ӂł��B���ꂱ���W���[�W���b�h����̂��������u���l�̍˔\�������o���˔\�v�̂ЂƂł��傤�ˁB<BR><BR>�����}����<BR>���Ƃ���ŁA�S�[���ɏ��_��������y��A�_�̗̈�������Ƃ������E�̃X�v�����^�[�B�����Ós���l�������񂾂낤���H�I  <BR>���[��A���̐�y�͐��]���̌o�����Ȃ��悤�ł�����Ⴄ�̂ł́i���j�B<BR>�ł��A���E�L�^���o���悤�ȃX�v�����^�[�����ɂ͂��邩������܂���ˁB�Z�b�N�X�`�F�b�N���Ă݂���킩�邩���i�⊾�j�B
+みなさん、ご感想ありがとうございます。<BR>そして、亜希みちるさんの復活をわたしも心から希望します！<BR>亜希さんがいらっしゃらないと、姫神シリーズを書く意欲が減退してしまいます。<BR><BR>＞しろいるかさん<BR>続編のご要望ありがとうございます。<BR>だけど、このエピソードはこれで完結させたほうがいいような、って思ってます。<BR>…とか言ってても気が変わったら書くかもしれませんが。<BR>＞記録はどうなっちゃうのかな？。<BR>男子、女子のほかに「男子→女子ＴＳ」「女子→男子ＴＳ」という部門ができたりして。<BR>古都音様のいたずらが相次いで、競技中の性転換が続発すればありうるような気がします（笑）。<BR><BR>＞ｍｋ８４２６さん<BR>あの記録は彼女の生涯最高記録になることでしょう。<BR>主人公には、今後は女子として全国レベルのスプリンターをめざしてほしいですね。<BR><BR>＞ジャージレッド（姫神CｌｕｂNo.2）さん<BR>わたしは外伝になるようなアイディアばかりが思いつきます（冷汗）。<BR>本編向けの着想が浮かぶみなさまにはたいへん感心しています。<BR>わたしを姫神シリーズに引き込んだ外伝五話を書いてくださった亜希さんにももちろん感謝です。これこそジャージレッドさんのおっしゃる「他人の才能を引き出す才能」のひとつでしょうね。<BR><BR>＞ラマさん<BR>＞ところで、ゴールに女神を見た先輩や、神の領域を見たという世界のスプリンター達も＞古都音様を見たんだろうか？！  <BR>うーん、あの先輩は性転換の経験がないようですから違うのでは（爆）。<BR>でも、世界記録を出すようなスプリンターたちにはいるかもしれませんね。セックスチェックしてみたらわかるかも（冷汗）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">���������i�P�_ClubNo.3�j</a></strong>  <i>2001/06/11 00:58:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい（姫神ClubNo.3）</a></strong>  <i>2001/06/11 00:58:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992188697wxdlx&id2=992086749mkmnl&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992188697wxdlx_id2_992086749mkmnl_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�u�O�`�\��b�@�P�_���a�v<BR><BR>���킠���B�Ƃ��Ƃ��P�_�l�̐��a�܂Řb�������̂ڂ��Ă��܂��܂������B<BR>�Ȃ�قǁA���̗t�����A�n��Ɍ��ꂽ�ŏ��́u�����v�Ȃ̂�������܂���ˁB<BR>�u�Ȍ�A�l�Ԃ͒j������邱�Ƃɂ���Ďq��������悤�ɂȂ����v���ĂƂ��ł��傤���B<BR>�킽�����A���Ƃ̐e�Ɂw�^���E�Î��L�x���Ȃ����q�˂Ă݂邱�Ƃɂ��܂��i��΁j�B
+「外伝十一話　姫神生誕」<BR><BR>うわああ。とうとう姫神様の生誕まで話がさかのぼってしまいましたか。<BR>なるほど、この猟師こそ、地上に現れた最初の「女性」なのかもしれませんね。<BR>「以後、人間は男女交わることによって子孫をつくるようになった」ってとこでしょうか。<BR>わたしも、実家の親に『真書・古事記』がないか尋ねてみることにします（苦笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/06/11 08:26:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/06/11 08:26:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992215589nnuls&id2=992086749mkmnl&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992215589nnuls_id2_992086749mkmnl_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ς����f���������������܂����B�͂񂹂����Ă���܂��B<BR>�܂����S�������Ă��܂���B���݂܂���B�݂Ȃ��񂠂肪�Ƃ��������܂��B<BR>���F�l�̑f���炵���P�_�ɂ��ĂłĂ��܂����B<BR>����i�f���炵���̂̓I���W�i���ȏ�ł��B<BR>�����o�Ă����܂ł�낵�����肢�������܂��B<BR>�悵�����l�ɂ͕P�_Club.No�T��i�悢�����܂��B<BR>�I�t��܂�܂����̂ł�낵��<BR>
+大変ご迷惑をおかけいたしました。はんせいしております。<BR>まだ完全復活していません。すみません。みなさんありがとうございます。<BR>つい皆様の素晴らしい姫神につられてでてきました。<BR>両作品素晴らしいのはオリジナル以上です。<BR>私が出てこれるまでよろしくお願いいたします。<BR>よしおか様には姫神Club.No５を進呈いたします。<BR>オフ会決まりましたのでよろしく<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/06/12 19:54:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/06/12 19:54:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992343280upcnhxm&id2=992086749mkmnl&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992343280upcnhxm_id2_992086749mkmnl_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-[�O�`�P�O]<BR>�ޏ��̋L�^�́u���U�P�x�̒ǉ��v�ƂȂ邱�Ƃł��傤�B<BR><BR>[�O�`�P�P]<BR>�h�Î��L�h�ł����c�B<BR>�������ɂ܂��ǂ񂾂��Ƃ��Ȃ��̂ŉ��Ƃ������܂���c�B<BR><BR>�Ƃ���ŊF����Ɏ���ł��B<BR>�u�P�_�v�̓ǂ݂́h������h�Ȃ̂ł��傤���H<BR>����Ƃ��h�Ђ߂��݁h�Ȃ̂ł��傤���H<BR>���̏ꍇ�͂Q�ʂ�l������̂ł����ǂ���ł��傤���H<BR><BR>�����̏������O�_�̂��Ȃ�����
+[外伝１０]<BR>彼女の記録は「生涯１度の追憶」となることでしょう。<BR><BR>[外伝１１]<BR>”古事記”ですか…。<BR>さすがにまだ読んだことがないので何とも言えません…。<BR><BR>ところで皆さんに質問です。<BR>「姫神」の読みは”きしん”なのでしょうか？<BR>それとも”ひめがみ”なのでしょうか？<BR>この場合は２通り考えられるのですがどちらでしょうか？<BR><BR>漢字の書き取り０点のすなさんより
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h�i�P�_C������No.2�j</a></strong>  <i>2001/06/13 05:13:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド（姫神CｌｕｂNo.2）</a></strong>  <i>2001/06/13 05:13:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992376825tiemh&id2=992086749mkmnl&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992376825tiemh_id2_992086749mkmnl_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�O�`�P�P�b�@�P�_���a�z<BR>�@�悵�����l�̕P�_�A�ǂ܂��Ă��������܂����B�Î��L�̓��e�ƕP�_�̓��e�����܂��n�������Ă���Ǝv���܂��B�����A�P�_�a���̘b�������Ă݂����Ǝv���Ă����̂ł����A����z����܂����B�������A���e����������Ă������낢�ł��B�Î��L�̏����ǂ񂾐l�Ȃ�A��肨�����낭�ǂ߂�ł��傤�ˁB<BR><BR>�@���āA�t�H���[����ђ�Ă��ЂƂB<BR><BR>�@�P�_��杂̐ݒ�ł́A���̐��ɕP�_�͉����i���l�j����̂��s���Ƃ���܂��B���ɌÓs���l�ȊO�̕P�_���o�ꂵ�Ă��܂��B<BR>�@�������A�y�O�`�P�P�b�@�P�_���a�z�̘b�ł́A�P�_�͌Ós���i�H�j�����ł���ˁB�ǂȂ������c�b�R�~������O�ɁA�����܂����A�P�_�͑n���̎��ォ�瑶�݂���炵���ł�����A���E�e�n�̑n���_�b�����`�[�t�ɁA���ꂼ��̑n���_�b�ɂ�����P�_�������Ă݂�Ƃ����̂͂������ł��傤���H�@���{�_�b�̕P�_�͊��ɏ����ꂽ�킯�ł����A���ł�����A�w�^���E�Î��L�x�ȊO�ɂ��A�w�ٓ`�E�Î��L�x�Ƃ����̑��̋U���Ƃ���Ă���Î��L�ȊO�̂��̂��x�[�X�ɂ��Ă��悢�킯�ł��ˁB<BR><BR>�@���E�e�n�̐_�b�c�c�B�����ǂ��͒m��Ȃ��̂ł����A�L���ǂ�����g��������΁A�����ҏ������ȁH�@���̂����A���������̑n���_�b�ɂ�����P�_�Ƃ��o�Ă����肵�āB<BR><BR>�@�������A�I���W�i���ȑn���_�b�ɂ�����P�_���n�j���Ǝv���܂��B<BR><BR>�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|�|<BR><BR>���Ȃ���l��<BR><BR>���́A�g�Ђ߂��݁h�ƁA���_�Ȃ��œǂ�ł��܂����B
+【外伝１１話　姫神生誕】<BR>　よしおか様の姫神、読ませていただきました。古事記の内容と姫神の内容がうまく溶け合っていると思います。私も、姫神誕生の話を書いてみたいと思っていたのですが、先を越されました。しかも、内容も完成されておもしろいです。古事記の上つ巻を読んだ人なら、よりおもしろく読めるでしょうね。<BR><BR>　さて、フォローおよび提案をひとつ。<BR><BR>　姫神奇譚の設定では、この世に姫神は何柱（何人）いるのか不明とあります。既に古都音様以外の姫神も登場しています。<BR>　しかし、【外伝１１話　姫神生誕】の話では、姫神は古都音（？）だけですよね。どなたかがツッコミを入れる前に、言いますが、姫神は創世の時代から存在するらしいですから、世界各地の創世神話をモチーフに、それぞれの創世神話における姫神を書いてみるというのはいかがでしょうか？　日本神話の姫神は既に書かれたわけですが、何でしたら、『真書・古事記』以外にも、『異伝・古事記』とかその他の偽書とされている古事記以外のものをベースにしてもよいわけですね。<BR><BR>　世界各地の神話……。私も良くは知らないのですが、有名どころを使いたければ、早い者勝ちかな？　そのうち、少数民族の創世神話における姫神とか出てきたりして。<BR><BR>　もちろん、オリジナルな創世神話における姫神もＯＫかと思います。<BR><BR>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<BR><BR>すなさん様へ<BR><BR>私は、“ひめかみ”と、濁点なしで読んでいました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp" target="_blank">�悵����</a></strong>  <i>2001/06/13 06:11:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:yosioka-eisaku@mvh.biglobe.ne.jp" target="_blank">よしおか</a></strong>  <i>2001/06/13 06:11:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992380263ydtyx&id2=992086749mkmnl&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992380263ydtyx_id2_992086749mkmnl_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W���[�W���b�h����A�t�H���[���肪�Ƃ��������܂��B�����ł��B���́u�^���E�Î��L�v�́A�킽������������̓`���ɂ����߂��܂���B���E�������悤�ȓ`���͐�����Ȃ�����܂��B�ł�����A�u�v�����Z�X�E�S�b�f�X�v�H�̓`���̓��[���b�p��A�A�����J�C���f�A���A����A�W�A�A�����A���{�̘̐b�̒��ɂ�������Ă��邩������܂���B������T���Ă��������B�����āA����炪���J�����̂�S�҂��ɂ��Ă��܂��B�킽�����܂��܂��T���܂��B�ǂȂ��������m�̕��͏������肢�������܂��B
+ジャージレッドさん、フォローありがとうございます。そうです。この「真書・古事記」は、わたしが見つけた一つの伝説にしか過ぎません。世界中同じような伝説は数限りなくあります。ですから、「プリンセス・ゴッデス」？の伝説はヨーロッパや、アメリカインデアン、東南アジア、いえ、日本の昔話の中にも埋もれているかもしれません。それらを探してください。そして、それらが公開されるのを心待ちにしています。わたしもまだまだ探します。どなたかご存知の方は情報をお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200103/24194542/himegami_12.html" target="_blank">�P�_��杁@��\��b</a></strong>  <i>2001/06/16 04:03:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200103/24194542/himegami_12.html" target="_blank">姫神奇譚　第十二話</a></strong>  <i>2001/06/16 04:03:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992631786rkldekl&id2=992086749mkmnl&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992631786rkldekl_id2_992086749mkmnl_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���҂������܂����A�{�ƈ���݂��邳��̍ŐV��ł��I�I<BR>����ɂ��Ă������̖������čK���Ȃ񂾂��s�K�Ȃ񂾂��c�B<BR>
+お待たせしました、本家亜希みちるさんの最新作です！！<BR>それにしても美光の役回りって幸せなんだか不幸なんだか…。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/16 07:00:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/16 07:00:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992642457hbydvi&id2=992086749mkmnl&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992642457hbydvi_id2_992086749mkmnl_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>���󂳂񕜊��i�H�j���߂łƂ��������܂��B<BR>�Ȃ��Ȃ��ʔ������b�ł�����B<BR>�܂����Ós�����܂��A�q�ǂ��Ƃ͂����_�ɑ̂���������Ƃ͎v���܂���ł����B<BR>�������A�����́E�E�E�i�΁j<BR>���b�����҂��Ă��܂��B
+読みました。<BR>亜希さん復活（？）おめでとうございます。<BR>なかなか面白いお話でしたよ。<BR>まさか古都音さまが、子どもとはいえ神に体を乗っ取られるとは思いませんでした。<BR>しかし、美光は・・・（笑）<BR>次話を期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/16 07:02:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/16 07:02:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992642552qnqxre&id2=992086749mkmnl&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992642552qnqxre_id2_992086749mkmnl_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǐL<BR>��̊��z���u�����i�H�j�v�Ə������̂́A���󂳂񎩐g���u���n�r�����v�Ə�����Ă�������ŁA���ӂ͂���܂���B
+追伸<BR>上の感想中「復活（？）」と書いたのは、亜希さん自身が「リハビリ中」と書かれていたからで、他意はありません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/16 09:38:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/16 09:38:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992651905lorbh&id2=992086749mkmnl&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992651905lorbh_id2_992086749mkmnl_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���󂳂�A�V�����`���𔭌@���Ă����������肪�Ƃ��������܂��B<BR>�������A�����B���n�肪���܂��ˁB
+亜希さん、新しい伝説を発掘していただきありがとうございます。<BR>しかし、美光。世渡りがうまいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/17 00:47:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/17 00:47:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992706440biarnv&id2=992086749mkmnl&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992706440biarnv_id2_992086749mkmnl_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��\��b�z�ǂ݂܂�����<BR><BR>�����󂳂񕜊��i�H�j���߂łƂ��������܂��B<BR>�{���ł��ˁA���[���ł͏����₽�������������Ă��܂��܂������A���ꂩ����������܂��̂Ŋ撣���Ă��������ˁB<BR><BR>�ʔ��������ł���E�E�E�E�_�̎q���Ƃ͈�̉��҂��낤�H�B<BR>�Ós���l�̑̂�������Ƃ́E�E�E�E�H<BR>��������҂��Ă܂��ˁ�
+【第十二話】読みました♪<BR><BR>＞亜希さん復活（？）おめでとうございます。<BR>本当ですね、メールでは少し冷たい言い方をしてしまいましたが、これからも応援しますので頑張ってくださいね。<BR><BR>面白かったですよ・・・・神の子供とは一体何者だろう？。<BR>古都音様の体を乗っ取るとは・・・・？<BR>次作を期待してますね♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/17 17:39:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/17 17:39:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992767199xpxrcx&id2=992086749mkmnl&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992767199xpxrcx_id2_992086749mkmnl_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��\�O�b�y�h�G�z�ǂ݂܂�����<BR>�_�b�̑��҂ł����E�E�E�E�悩�����ł���<BR><BR>�����̌Z���_�b�𑀂��Ă�����ł���<BR>�P�_���T���ČÓs���l�̃��C�o���E�E�E����Ƃ��G�H<BR>����j�󂳂ꂽ���l�͂ǂ�����񂾂낤�H<BR>���܂������T�ɉʂ����ČÓs���l�͏��Ă�̂���<BR>���������҂��Ă܂��ˁ�
+第十三話【宿敵】読みました♪<BR>神獣の続編ですか・・・・よかったですよ<BR><BR>美光の兄が神獣を操っていたんですね<BR>姫神綾乃って古都音様のライバル・・・それとも敵？<BR>村を破壊された村人はどうするんだろう？<BR>凄まじい綾乃に果たして古都音様は勝てるのかな<BR>次回作を期待してますね♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/06/17 17:44:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/06/17 17:44:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992767455mludtei&id2=992086749mkmnl&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992767455mludtei_id2_992086749mkmnl_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ��񊴑z���肪�Ƃ��������܂��B<BR>���낢�邩���񊴎ӂ�������C�ɂ��Ă܂��񂩂�B���肪�Ƃ�<BR><BR>��\�O�b<BR>��[����Ȃ��܂��W�J������񂾁B�P�_�̐��E�ς��L�����Ă䂭�B<BR>�_�b�g���������̌Z���Ȃ�Ăт�����B<BR>�܂��A�V�����P�_�Ƃ́B<BR>���������ǂ݂����Ȃ�܂����B<BR>�������A�L�����̓������Ⴆ�Ă܂��ˁA<BR>�����܂������炢�ł��B
+みなさん感想ありがとうございます。<BR>しろいるかさん感謝こそすれ気にしてませんから。ありがとう<BR><BR>第十三話<BR>わーこんなうまい展開書けるんだ。姫神の世界観が広がってゆく。<BR>神獣使いが美光の兄だなんてびっくり。<BR>また、新しい姫神とは。<BR>次が早く読みたくなりました。<BR>しかし、キャラの動きが冴えてますね、<BR>うらやましいくらいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200103/24194542/himegami_13.html" target="_blank">�P�_��杁@��\��b</a></strong>  <i>2001/06/17 20:08:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200103/24194542/himegami_13.html" target="_blank">姫神奇譚　第十二話</a></strong>  <i>2001/06/17 20:08:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992776118uryvae&id2=992086749mkmnl&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992776118uryvae_id2_992086749mkmnl_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���炵�܂����I�Ȃ񂩔����Ă�ȁA�Ǝv�����炱���ł̍�Ƃ�Y��Ă��܂����I<BR>�y���E���z��\��b�u�_�b�v�̑����ƂȂ邨�b�ł��B���̂Ƃ��Ós���������l�e�͈�̒N�������̂��H���񂻂ꂪ���炩�ɂȂ�܂��B<BR><BR>���炵�܂���m(_ _)m
+失礼しました！なんか抜けてるな、と思ったらここでの作業を忘れていました！<BR>【推薦文】第十一話「神獣」の続きとなるお話です。あのとき古都音が見た人影は一体誰だったのか？今回それが明らかになります。<BR><BR>失礼しましたm(_ _)m
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤���^�c�ψ�</strong>  <i>2001/06/17 20:10:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう＠運営委員</strong>  <i>2001/06/17 20:10:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992776234jnwgq&id2=992086749mkmnl&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992776234jnwgq_id2_992086749mkmnl_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�d�ˏd�˂��܂���A���̃^�C�g���́u��\�O�b�v�̌��ł��B<BR>�R�s�[�y�[�X�g��㩂ɂ��������܂������B
+重ね重ねすません、↑のタイトルは「第十三話」の誤りです。<BR>コピーペーストの罠にかかっちまったい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/17 20:38:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/17 20:38:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992777931qlfusfk&id2=992086749mkmnl&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992777931qlfusfk_id2_992086749mkmnl_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����B<BR>�Ȃ��Ȃ��ٔ������W�J�ŁA����܂����񂪊y���݂ł��B<BR>�P�_�u���T�v�ƌÓs�����琂���̂ǂ̂悤�Ȃ��̂������̂����C�ɂȂ�܂��B<BR>�����̌Z���C�ɂȂ�܂��ȁB
+読みました。<BR>なかなか緊迫した展開で、これまた次回が楽しみです。<BR>姫神「綾乃」と古都音の邂逅が一体どのようなものだったのかが気になります。<BR>美光の兄も気になりますな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/06/18 13:22:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/06/18 13:22:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992838168yfpxn&id2=992086749mkmnl&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992838168yfpxn_id2_992086749mkmnl_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ӂ��ӂ��ӂ��B�L�����������Ă����Ƃ���ŃC���X�g�`���Ă݂�����<BR>��������Ⴂ�܂��񂩁B�앶���l�̂��΂炵���C���X�g�ɑ����ĉ��������W���B
+ふっふっふっ。キャラが増えてきたところでイラスト描いてみたい方<BR>いらっしゃいませんか。南文堂様のすばらしいイラストに続いて下さる方募集中。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/19 12:04:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/19 12:04:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992919865gmminn&id2=992086749mkmnl&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992919865gmminn_id2_992086749mkmnl_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��̐l�e�̐��͖̂��炩�ɂȂ����Ƃ͂����A��\��b����ǂݐi�߂�ƓG�Ȃ̂������Ȃ̂��͂܂��܂��͂����肵�Ă��܂���ˁB<BR>����̂���Ȃ�W�J�����҂��Ă��܂��B
+謎の人影の正体は明らかになったとはいえ、第十一話から読み進めると敵なのか味方なのかはまだまだはっきりしていませんね。<BR>今後のさらなる展開を期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200103/24194542/himegami_x_12.htm" target="_blank">�O�`�\��b������ɂ͂������N���b�N�B</a></strong>  <i>2001/06/19 20:40:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200103/24194542/himegami_x_12.htm" target="_blank">外伝十二話を見るにはここをクリック。</a></strong>  <i>2001/06/19 20:40:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992950824dcjoqnm&id2=992086749mkmnl&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992950824dcjoqnm_id2_992086749mkmnl_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�P�_�̓�����߂āA�悵�������͋��s��K��܂��B<BR>�@�w�P�_���a�x�̌���k�B�M�_�̂͂��Ȃ̂ɁA�P�_�͉��̂�������X�𖣗���������̂ł��傤���H
+【推薦文】　姫神の謎を求めて、よしおか氏は京都を訪れます。<BR>　『姫神生誕』の後日談。祟神のはずなのに、姫神は何故こうも我々を魅了し続けるのでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200103/24194542/himegami_x_13.html" target="_blank">�O�`�\�O�b������ɂ͂������N���b�N�B</a></strong>  <i>2001/06/19 20:41:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200103/24194542/himegami_x_13.html" target="_blank">外伝十三話を見るにはここをクリック。</a></strong>  <i>2001/06/19 20:41:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992950906wnlnko&id2=992086749mkmnl&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992950906wnlnko_id2_992086749mkmnl_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�wTWO Bees�x�u�r �P�_�l���I�@�c�c�M���O�̊�{�͌J��Ԃ����Ⴀ�����������I�I�i�΁j
+【推薦文】　『TWO Bees』ＶＳ 姫神様っ！　……ギャグの基本は繰り返しぢゃあああああっ！！（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/19 21:41:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/19 21:41:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992954472ivshyum&id2=992086749mkmnl&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992954472ivshyum_id2_992086749mkmnl_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�O�`�P�Q�b�@�P�_���a�E����k�z<BR>�ǂ݂܂�����<BR>�Ȃ񂩗H���̐��E�ł��傤���H�E�E�E�E�����i���ɐ��������߂ɌÓs���l�͑��݂���̂��ȁH�B<BR>�悵��������́w�P�_��杁x�ւ̈�����̍�i����点���̂ł��傤�ˁi�΁j<BR>���������҂��Ă܂��ˁ�
+【外伝１２話　姫神生誕・後日談】<BR>読みました♪<BR>なんか幽玄の世界でしょうか？・・・・魂を永遠に生かすために古都音様は存在するのかな？。<BR>よしおかさんの『姫神奇譚』への愛情がこの作品を作らせたのでしょうね（笑）<BR>次回作も期待してますね♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/19 21:57:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/19 21:57:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992955462todili&id2=992086749mkmnl&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992955462todili_id2_992086749mkmnl_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�O�`�P�R�b�@�킢�z<BR>�ǂ݂܂�����<BR>�Ós���l�̎��������������Ă����`���I�E�E�E�E�����_�X�̖��Ⴞ�낤���H�B<BR>�Ō�Ɉӎ������������̐��_�̈��ς��Ėڊo�߂��Ƃ��Ɏ����������ł��邱�Ƃ����R�Ɏ󂯓������悤�ɂ��Ă��悩�����񂶂�Ȃ��̂��ȁH�B<BR>��������҂��Ă܂��ˁ�
+【外伝１３話　戦い】<BR>読みました♪<BR>古都音様の呪文を解く純ってすご～い！・・・・純も神々の末裔だろうか？。<BR>最後に意識を失った純の精神領域を変えて目覚めたときに自分が女性であることを自然に受け入れられるようにしてもよかったんじゃないのかな？。<BR>次回も期待してますね♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/19 23:27:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/19 23:27:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992960845wgubte&id2=992086749mkmnl&ff=on">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992960845wgubte_id2_992086749mkmnl_ff_on.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��i���낢�邩����Ƃ̍��ʉ���}���Ă݂܂����j<BR>���O�`�P�Q�b<BR>����܂ł̂Ƃ͈قȂ�^�C�v�̂��b�ł������A�ʔ��������ł��B<BR>�����������b���ł����ł��˂��B����A�ӊO�ł����B<BR>���O�`�P�R�b<BR>�E�E�E�i�΁j<BR>���󂳂�������<BR>������ō��ł����B<BR>�P�_�Ƃ̎�������A�l������A������Ă��̂��������Ƃ���Ȃ��ł����B<BR>���A����ׂ��i�΁j<BR>
+読んだバイ♪（しろいるかさんとの差別化を図ってみました）<BR>＞外伝１２話<BR>これまでのとは異なるタイプのお話でしたが、面白かったです。<BR>こういうお話もできるんですねぇ。いや、意外でした。<BR>＞外伝１３話<BR>・・・（笑）<BR>亜希さんったら♪<BR>これも最高でした。<BR>姫神との呪文合戦、考えたら、これってものすごいことじゃないですか。<BR>純、恐るべし（笑）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/06/20 00:37:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/06/20 00:37:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992965058dmduurv&id2=992086749mkmnl&ff=on">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992965058dmduurv_id2_992086749mkmnl_ff_on.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O�`�P�Q�b�@<BR>�@�ǂ݂܂����B�Ⴄ�����̂��b�ł������A�ʔ��������ł��B<BR>�@����8426�Ɠ��ӌ��B�ӊO�ł����i�΁j<BR>�O�`�P�R�b<BR>�@�������ʔ��������ł��B<BR>�@�����̂��������A�������i�΁j<BR>�@�����A�O�`�����Ă݂悤���ȁB<BR>�@�ʔ����Ȃ�������S�����i�T�C�B
+外伝１２話　<BR>　読みました。違う感じのお話でしたが、面白かったです。<BR>　ｍｋ8426と同意見。意外でした（笑）<BR>外伝１３話<BR>　すごく面白かったです。<BR>　呪文のかけ合い、凄すぎ（笑）<BR>　私も、外伝書いてみようかな。<BR>　面白くなかったらゴメンナサイ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/06/20 09:04:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/06/20 09:04:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992995449kvhsxrg&id2=992086749mkmnl&ff=on">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992995449kvhsxrg_id2_992086749mkmnl_ff_on.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����ޏ\��b�ɂ͋����ł����B����Șb���o����񂾂Ȃ��āB<BR>�悵�������񂤂܂��B<BR>�{���ɕP�_�D���ɂ��肪�Ƃ��������܂�<BR>���z���肪�Ƃ��\�O�b�ӊO�ƍD�]�ł����˂悩�����悩�����Btwo bees�n�߂悤����<BR>��[�ӂ�������҂��Ă܂���B�ӂӂ�
+ううむ十二話には驚きでした。こんな話も出きるんだなって。<BR>よしおかさんうまい。<BR>本当に姫神好きにありがとうございます<BR>感想ありがとう十三話意外と好評でしたねよかったよかった。two bees始めようかな<BR>るーふぁすさん待ってますよ。ふふふ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200103/24194542/himegami_x_14.htm" target="_blank">�O�`14�b�͂�������N���b�N</a></strong>  <i>2001/06/23 01:26:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200103/24194542/himegami_x_14.htm" target="_blank">外伝14話はこちらをクリック</a></strong>  <i>2001/06/23 01:26:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993227161ufyben&id2=992086749mkmnl&ff=on">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993227161ufyben_id2_992086749mkmnl_ff_on.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �����ĒN���̂����Ŏ���ɒǂ��l�߂�ꂽ���{�͑吭��҂Ɏ���A�V���������̖閾���ƂȂ����E�E�E���������B�Ⴄ���Ă΁B
+【推薦文】 そして誰かのお蔭で次第に追い詰められた幕府は大政奉還に至り、新しい明治の夜明けとなった・・・おいおい。違うってば。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200103/24194542/himegami_14.html" target="_blank">14�b�͂�������N���b�N</a></strong>  <i>2001/06/23 01:29:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200103/24194542/himegami_14.html" target="_blank">14話はこちらをクリック</a></strong>  <i>2001/06/23 01:29:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993227359imtcvs&id2=992086749mkmnl&ff=on">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993227359imtcvs_id2_992086749mkmnl_ff_on.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�����͒m��ꂸ�̗��A�O�����B�����ɐ��܂����O���P���߂���؉H�l�����A�N�V�����I
+【推薦文】ここは知られずの里、丹見国。魔道に染まった丹見姫をめぐる切羽詰ったアクション！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/23 05:25:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/23 05:25:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993241542jswuuh&id2=992086749mkmnl&ff=on">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993241542jswuuh_id2_992086749mkmnl_ff_on.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��`�ӂ�������A�O�`�P�S�b�A�ǂ݂܂����B�N������x�͍l����̂ł͂Ȃ��ł��傤���B���{�j�j��A�����N�H�Ƃ����Ă���l���̈�l�ł��鉫�c���i�́~�~�~�́B<BR>��`�ӂ�������̗E�C�Ɍh�����܂��B�i���i�̃t�@���͑�����B���ɏ����ɁE�E�E�j�����j
+る～ふぁすさん、外伝１４話、読みました。誰もが一度は考えるのではないでしょうか。日本史史上、美少年？といわれている人物の一人である沖田総司の×××は。<BR>る～ふぁすさんの勇気に敬服します。（総司のファンは多いよ。特に女性に・・・ニヤリ）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/23 05:40:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/23 05:40:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993242406nvqouq&id2=992086749mkmnl&ff=on">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993242406nvqouq_id2_992086749mkmnl_ff_on.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���󂳂�A�悩�����ł���B�ǂ������ē˂����܂ꂻ���ł����A���X�g�̕ϐg�B����ŗ̖������S���ĕ�点�܂��ˁB�ł��ނ���ς��B���̂�������Ƃł�������M�p���Ȃ����Ă��邩��B<BR>�P�_�l���V�L�B�킽���̒��ɂ����Ȃ����ȁ`�`
+亜希さん、よかったですよ。どこがって突っ込まれそうですが、ラストの変身。これで領民も安心して暮らせますね。でも彼も大変だ。先代のやったことですっかり信用をなくしているから。<BR>姫神様慢遊記。わたしの町にも来ないかな～～
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/06/23 06:39:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/06/23 06:39:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993245961lydtt&id2=992086749mkmnl&ff=on">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993245961lydtt_id2_992086749mkmnl_ff_on.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�悵�����l<BR>�ǂ�ł��������Ă��肪�Ƃ��������܂��B<BR>�����i�̃t�@���͑�����B���ɏ����ɁE�E�E�j����<BR>�Ђ������E�E�E�m���ɁA�|���Ȃ��i�O�O�G<BR>���c�t�@���̕��A�z���g�ɂ��߂�Ȃ����ˁi����ӂ��Ă΂�����̎��ł��j
+よしおか様<BR>読んでくださってありがとうございます。<BR>＞総司のファンは多いよ。特に女性に・・・ニヤリ<BR>ひえええ・・・確かに、怖いなあ（＾＾；<BR>沖田ファンの方、ホントにごめんなさいね（今回謝ってばっかりの私です）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/23 07:05:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/23 07:05:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993247543ikchkr&id2=992086749mkmnl&ff=on">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993247543ikchkr_id2_992086749mkmnl_ff_on.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�u�O�`�P�S�b�v<BR>�܂��̓c�b�R�~�B�^�C�g���Ɂu�O�`�v�̕����Ȃ��B�����A�b�v�̖{�҂��P�S�b�̂��߁A��u���������i�΁j�B<BR>�V��g���́A�ł��˂��B�ǂ����̃}���K�ɂ��������悤�ȋC�����܂����A���c���i�������i�΁j�B<BR>�������A�Ō�̂P�s�A�ߓ��̎v�l�����΂��̂ł����i�΁j�B<BR>�u�P�S�b�v<BR>������Ȃ��Ȃ��B���̐��ł����ƁA�S�q��_�I���_�]���n�͂��ׂĕP�_�̎d�Ƃɂł������ł��ȁB
+読んだバイ♪<BR>「外伝１４話」<BR>まずはツッコミ。タイトルに「外伝」の文字なし。同時アップの本編も１４話のため、一瞬混乱した（笑）。<BR>新撰組もの、ですねぇ。どっかのマンガにもあったような気がしますが、沖田総司女性説（笑）。<BR>しかし、最後の１行、近藤の思考が爆笑ものでした（笑）。<BR>「１４話」<BR>これもなかなか。この線でいくと、鬼子母神的精神転換系はすべて姫神の仕業にできそうですな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/06/23 08:12:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/06/23 08:12:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993251523wqhvmqy&id2=992086749mkmnl&ff=on">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993251523wqhvmqy_id2_992086749mkmnl_ff_on.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���c����������������܂���<BR>����������Ă��������܂���<BR>�ʔ��������ł�<BR>���̒��q�Ŏ������E�E�E���߁H<BR>�܂����z���肪�Ƃ��������܂�<BR>���˂��͎�ː搶�̃u���b�N�W���b�N�Ƃ͂�������ĂȂ��悤�ł���<BR>
+沖田＝女性説私もありました<BR>見事具現化してくださいました<BR>面白かったです<BR>この調子で次回作も・・・だめ？<BR>また感想ありがとうございます<BR>元ねたは手塚先生のブラックジャックとはきずかれてないようですね<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/23 09:04:50</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/23 09:04:50</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993254690jrnxjlo&id2=992086749mkmnl&ff=on">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993254690jrnxjlo_id2_992086749mkmnl_ff_on.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������B�Ђ���Ƃ��āA���b�u��҂͂ǂ����B�v�ł����B���󂳂�B
+そうか。ひょっとして、第一話「医者はどこだ。」ですか。亜希さん。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/06/23 12:11:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/06/23 12:11:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993265916rwpqna&id2=992086749mkmnl&ff=on">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993265916rwpqna_id2_992086749mkmnl_ff_on.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������ł��B��҂͂ǂ����Ƃ����Ƃ��`����v�������Ă��܂��i���j
+ちがうんです。医者はどこだときくとあ～るを思いだしてしまう（汗）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/23 17:47:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/23 17:47:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993286074jbjqutc&id2=992086749mkmnl&ff=on">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993286074jbjqutc_id2_992086749mkmnl_ff_on.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O�`�\��b�u�P�_���a�E����k�v<BR><BR>�ق��́u�O�`�v�Ƃ͕ʂ̈Ӗ��Łu�O�`�v�炵���ł��ˁB<BR>�ƂĂ��Z�����͂ŁA�������܂�Ă����悤�ɓǂނ��Ƃ��ł��܂����B<BR>�������A���󂳂�͂���Ȃ����������ł��ˁc�i�Ⴄ���āj�B<BR><BR>�O�`�\�O�b�u�킢�v<BR><BR>����̌Ós���l�́A���x�ł��肢�������Ă����̂��V�����ł��ˁB<BR>����̂ق��͌��ɖ߂�Ȃ��Ƃ����̂��b�̃c�{�ł����ˁB<BR>�a�������Ƃ��A���̃V���[�Y�Ƃ̑g�ݍ��킹�͗L�Ӌ`��������܂���B<BR><BR>�O�`�\�l�b�u�V��g�v<BR><BR>�唚�΁I�y���̂Ђ��ȂЂƂ��Ƃ̂����ŁA���i�͂Ƃ񂾍Г�ł����ˁB<BR>���i�Ɂu���[������ɂ��Ă����������I�v�ƌ��킹�����Ȃ�܂��B<BR>�i�����w�}�J���j�ق���񑑁x�́u���c�������v���i���j�j<BR>���i�ɁwIrregular Girl�x���Ă��񂪃I�[�o�[���b�v���Ă��܂����B<BR>�Ós���l�̂Ƃڂ����Ղ�ɊO�`�炵�����o�Ă�Ǝv���܂��B<BR><BR>�{�ҏ\�l�b�u���P�v<BR><BR>���󂳂�̖{�ƕP�_�V���[�Y�ɂ��Ă͒����ق��ł����ˁB���ꂾ���C�������������܂��B<BR>�j���P���E����������̐�����������Ƃ킩��ɂ��������̂͂Ƃ������B<BR>�������c���Ƃ������͈��ʉ���I�ł���A�n�[�g�E�H�[���I�ł������ēǌ㊴���������肵�Ă܂�����B
+外伝十二話「姫神生誕・後日談」<BR><BR>ほかの「外伝」とは別の意味で「外伝」らしいですね。<BR>とても濃い文章で、引き込まれていくように読むことができました。<BR>そうか、亜希さんはそんなご高齢だったんですね…（違うって）。<BR><BR>外伝十三話「戦い」<BR><BR>今回の古都音様は、何度でも願いをきいてくれるのが新しいですね。<BR>美咲のほうは元に戻れないというのも話のツボですかね。<BR>Ｂｅｅｓとか、他のシリーズとの組み合わせは有意義かもしれません。<BR><BR>外伝十四話「新撰組」<BR><BR>大爆笑！土方のひょんなひとことのせいで、総司はとんだ災難でしたね。<BR>総司に「いーかげんにしてくださいっ！」と言わせたくなります。<BR>（そりゃ『マカロニほうれん荘』の「沖田そうじ」だ（爆））<BR>総司に『Irregular Girl』の翔くんがオーバーラップしてきました。<BR>古都音様のとぼけっぷりに外伝らしさが出てると思います。<BR><BR>本編十四話「恋姫」<BR><BR>亜希さんの本家姫神シリーズにしては長いほうでしたね。それだけ気合いが感じられます。<BR>男が姫を殺したあたりの説明がちょっとわかりにくかったのはともかく。<BR>結末も残酷というよりは因果応報的であり、ハートウォーム的でもあって読後感がすっきりしてましたよ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/06/24 01:09:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/06/24 01:09:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993312597grgks&id2=992086749mkmnl&ff=on">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993312597grgks_id2_992086749mkmnl_ff_on.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����W�S�Q�U�l<BR>�ǂ�ł��������A���肪�Ƃ��������܂��B<BR>���^�C�g���Ɂu�O�`�v�̕����Ȃ��B<BR>���݂܂���A�Y��Ă܂��ˁi���j<BR>�z���g�ɁA�뎚�E���������Ȃ��A�����āi�΁j<BR><BR>���������l<BR>�y����Œ����āA�ǂ������ł��B<BR>�Ă��A���Ԃ��Ă�̂͑����E�E�E�E�E<BR>�ƁA�Ƃ肠�����A����Ƃ���낵�����肢���܂��B<BR><BR>����݂���l<BR>�܂��A�@��L��܂�����A�������Ă������������ł������܂��B<BR>���ꂩ����A�悵�Ȃɂ��肢�������܂���B<BR><BR>�ł́A����ɂĎ��炢�����܂��B��ƁI
+ｍｋ８４２６様<BR>読んでいただき、ありがとうございます。<BR>＞タイトルに「外伝」の文字なし。<BR>すみません、忘れてますね（汗）<BR>ホントに、誤字脱字が多いなあ、私って（笑）<BR><BR>こうけい様<BR>楽しんで頂いて、良かったです。<BR>翔が、だぶってるのは多分・・・・・<BR>と、とりあえず、今後ともよろしくお願いします。<BR><BR>亜希みちる様<BR>また、機会が有りましたら、書かせていただく所存でございます。<BR>これからも、よしなにお願いいたしまする。<BR><BR>では、これにて失礼いたします。御免！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�O�`</strong>  <i>2001/06/24 01:54:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>外伝</strong>  <i>2001/06/24 01:54:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993315243eljrke&id2=992086749mkmnl&ff=on">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993315243eljrke_id2_992086749mkmnl_ff_on.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ���|�����C�h�J�����͂��D���ł����H�Ós���l�͂ǂ������Ȃ悤�ł��B
+みなさんポラロイドカメラはお好きですか？古都音様はどうも苦手なようです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200103/24194542/himegami_x_15.html" target="_blank">�O�`�P�T�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/06/24 01:56:49</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200103/24194542/himegami_x_15.html" target="_blank">外伝１５話を読むにはここをクリック</a></strong>  <i>2001/06/24 01:56:49</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993315409nxifh&id2=992086749mkmnl&ff=on">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993315409nxifh_id2_992086749mkmnl_ff_on.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ���|�����C�h�J�����͂��D���ł����H�Ós���l�͂ǂ������Ȃ悤�ł��B<BR>�i���̏������݁A���炵�܂����B�j
+みなさんポラロイドカメラはお好きですか？古都音様はどうも苦手なようです。<BR>（一つ上の書き込み、失礼しました。）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2001/06/24 06:32:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2001/06/24 06:32:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993331935vqssqa&id2=992086749mkmnl&ff=on">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993331935vqssqa_id2_992086749mkmnl_ff_on.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ós���l���ĈӊO�Ƃ����������肵�āA���򂮂炢�i�i����Ȃ��Ă��s����ł��傤�B�_�l�Ȃ̂����炲���҂ŁE�E�E<BR>���āA�P�_�l�����҂��鐌���͂��Ȃ����B<BR>���Ȃ݂ɁA�s�u�J�����͉f��̂ł��傤���B���Ƃ��́H<BR>�䂪����Ăю���u���l�R���e�X�g����B�Ós���l�B�v�ł�����܂��傤�B����ł́A�܂����T�B<BR>���āA����Ⴙ��āB�i�΁j
+古都音様って意外とせこかったりして、温泉ぐらい景品じゃなくても行けるでしょう。神様なのだからご招待で・・・<BR>って、姫神様を招待する酔狂はいないか。<BR>ちなみに、ＴＶカメラは映るのでしょうか。服とかは？<BR>謎が謎を呼び次回「美人コンテストだよ。古都音様。」でお会いしましょう。それでは、また来週。<BR>って、ありゃせんて。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/06/24 11:43:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/06/24 11:43:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993350634nksewm&id2=992086749mkmnl&ff=on">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993350634nksewm_id2_992086749mkmnl_ff_on.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O�`��\�ܘb�u�O���r�A�N�C�[���v<BR>��͂͂͂́B�ق�ƂɁu����ł����̂��{���Ɂv�ł��ˁB<BR>�A�C�h�������ł����̊����`���u�O�O�`�v�V���[�Y�������邩������܂���ˁB<BR>���̈���ŁA�Ós���l���O���r�A�A�C�h���ɂȂ�Ȃ��Ƃ������Ƃ��킩���ė҂����ł��B
+外伝第十五話「グラビアクイーン」<BR>わはははは。ほんとに「これでいいのか本当に」ですね。<BR>アイドルかえでちゃんの活躍を描く「外外伝」シリーズもいけるかもしれませんね。<BR>その一方で、古都音様がグラビアアイドルになれないということがわかって淋しいです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/06/24 14:06:15</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/06/24 14:06:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993359175kfvgtb&id2=992086749mkmnl&ff=on">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993359175kfvgtb_id2_992086749mkmnl_ff_on.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ós���l�͊�{�I�ɖ��E�ł�����B�i�肢�t������Ă܂����j<BR>�i�i�Ɏア�̂ł��B<BR>&gt;�A�C�h�������ł����̊����`���u�O�O�`�v�V���[�Y�������邩������܂���ˁB<BR>���������l������܂����ˁB�ӔC�����āu�O�O�`�v�V���[�Y��悽�݂̂܂�����i�΁j
+古都音様は基本的に無職ですから。（占い師もやってますが）<BR>景品に弱いのです。<BR>&gt;アイドルかえでちゃんの活躍を描く「外外伝」シリーズもいけるかもしれませんね。<BR>こうけい様書かれましたね。責任もって「外外伝」シリーズ企画たのみましたよ（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/06/24 17:51:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/06/24 17:51:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993372701lwxye&id2=992086749mkmnl&ff=on">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993372701lwxye_id2_992086749mkmnl_ff_on.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�O�`�P�T�b�n<BR>�����A���ɂ����ł̓O���r�A�A�C�h���ɁB<BR>�ǂ����������ɂȂ��Ă����̘b�Ɋ֌W���Ă��Ȃ��A���ꂪ�O�`�̍ő�̗��_�����B<BR>�Ō�̂P��������I
+［外伝１５話］<BR>ああ、遂にかえではグラビアアイドルに。<BR>どういう落ちになっても他の話に関係してこない、これが外伝の最大の利点かも。<BR>最後の１事が強烈！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/06/24 18:03:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/06/24 18:03:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=993373416fdpalqh&id2=992086749mkmnl&ff=on">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_993373416fdpalqh_id2_992086749mkmnl_ff_on.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�O�`�P�R�b�n<BR>�ւ�ւ�̕P�_���ď��߂Č����悤�ȁc�B<BR>�u�P�����̋����Ė���������v�̓��e�������C�ɂȂ�c�B<BR><BR>���󂳂�F<BR>�u�Ђ߂��݁v�ł��ˁB���肪�Ƃ������܂����B
+［外伝１３話］<BR>へろへろの姫神って初めて見たような…。<BR>「１回限りの教えて貰った呪文」の内容が凄く気になる…。<BR><BR>亜希さん：<BR>「ひめかみ」ですね。ありがとうざいました。
 </td></tr>
 </table></a><br>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

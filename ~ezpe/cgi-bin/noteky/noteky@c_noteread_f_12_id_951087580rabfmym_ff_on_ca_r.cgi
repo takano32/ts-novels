@@ -1,111 +1,111 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#3/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#3/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=12&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_12_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=12&id=951087580rabfmym&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">�I�����C����i#3</a>]<br>
+[<a href="noteky@c_noteread_f_12_id_951087580rabfmym_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">オンライン作品#3</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�܂ف`��RIBBON!</font><br>
+<font size="+2" color="#0000FF">まほ～のRIBBON!</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art02.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/02/21 07:59:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art02.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/02/21 07:59:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=951087580rabfmym&id2=951087580rabfmym&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_951087580rabfmym_id2_951087580rabfmym_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���@�̃��{���Ń��^�����t�H�[�[�I�@��������GO!GO! �W���`���v�I�@�c�Ƃ����̂�����܂����B
+【推薦文】 魔法のリボンでメタモルフォーゼ！　いけいけGO!GO! ジャ～ンプ！　…というのもありました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�b��������</strong>  <i>2000/02/22 23:34:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｃｉｎｄｙ</strong>  <i>2000/02/22 23:34:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=951230065lkxgg&id2=951087580rabfmym&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_951230065lkxgg_id2_951087580rabfmym_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�o�_��Ђ̃t�@�C�����Q�ւ̃R�����g�z<BR>�S�[���h�A�[������̐V��A�ǂ܂��Ē��܂����`�B<BR>�r���A���@�̉�������̏��ʂ�������Əd�������ł����A�ʔ��������ł��B<BR>���͎��A�����ɃS�[���h�A�[������̍�i�ɂ͊��҂��Ă���܂��̂ŁA�������Ђ��Ђ���΂��ĉ������B<BR><BR>�i���͔��d�F�񐢂���̎��������҂��Ă���̂ł����A����ς荡�͖����ł����ˁc�B�j
+【出雲大社のファイル＃２へのコメント】<BR>ゴールドアームさんの新作、読ませて頂ました～。<BR>途中、魔法の解説部分の情報量がちょっと重かったですが、面白かったです。<BR>実は私、密かにゴールドアームさんの作品には期待しておりますので、次もぜひぜひがんばって下さい。<BR><BR>（実は八重洲二世さんの次回作も期待しているのですが、やっぱり今は無理ですかね…。）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mx5.nisiq.net" target="_blank">�S�[���h�A�[��</a></strong>  <i>2000/02/24 00:48:37</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:goldarm@mx5.nisiq.net" target="_blank">ゴールドアーム</a></strong>  <i>2000/02/24 00:48:37</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=951320918cyxutm&id2=951087580rabfmym&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_951320918cyxutm_id2_951087580rabfmym_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ��A��҂ł��B���z���肪�Ƃ��B<BR>���͎������@�̉���A�d���Ƃ͎v���Ă���ł���ˁB���ǂ��������͂����ƈӖ��������Ȃ邵�c�c�ƌ����킯�ŁA�J�������Ă܂�܏����Ă��܂��܂������A����ς肿�Əd���������B<BR>���ށA���i���i�B<BR>���Ȃ݂ɍ����܂��ł������Ə����܂������A�V���[�Y�O��ځi�O�`�����ǁj�ɒ��킵�Ă��܂��B
+ども、作者です。感想ありがとう。<BR>実は私も魔法の解説、重いとは思ってたんですよね。けどあそこをはしょると意味が無くなるし……と言うわけで、開き直ってまんま書いてしまいましたが、やっぱりちと重かったか。<BR>うむ、精進精進。<BR>ちなみに今おまけでもちらりと書きましたが、シリーズ三作目（外伝だけど）に挑戦しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�p����</a></strong>  <i>2000/02/27 22:07:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">角さん</a></strong>  <i>2000/02/27 22:07:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=951656844aanfbe&id2=951087580rabfmym&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_951656844aanfbe_id2_951087580rabfmym_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ����A���̂��т͎��̂��Ȃ��G�ɂ��b��t���ĖႢ�A���肪�Ƃ��������܂����B<BR>�@�o�_��ЁA�����ł��ˁI<BR>�ނɖ��@�����i���N�j�̒m�荇���������Ȃ�ċ����܂����B<BR>�@����Ȃ�A�F���l�Ƃ��ɂ��m�荇�����������ł��ˁI<BR>���l�Ȑݒ�Ń��A���e�B�[���o�����̏o���Ȃ����ɂƂ��āA�����׋��ɂȂ�܂����B<BR>�@���ꂩ����A�撣���ĉ������I<BR>�@<BR>�@�]�k�ł����A���͏o�_��Ђɂ��邵�ߓ�ɏ��K�������āA�l�̎h�������K���W�����W�������Ƃ������Ƃ�����܂��B<BR>�������ɂ���ƁA�u�l�́A���l���R���Ƃ��Ă������̍K�����F��B�v�Ȃǂƍl���Ă��܂��܂��E�E�E�E<BR>���́A�����Ɨ��Ƃ������K���h���Ƃ��܂����B�i�G���h���X�ɂȂ�Ȃ��ėǂ������ł��j
+　どうも、このたびは私のつたない絵にお話を付けて貰い、ありがとうございました。<BR>　出雲大社、いいですね！<BR>彼に魔法少女（少年）の知り合いがいたなんて驚きました。<BR>　これなら、宇宙人とかにも知り合いがいそうですね！<BR>理詰な設定でリアリティーを出す事の出来ない私にとって、いい勉強になりました。<BR>　これからも、頑張って下さい！<BR>　<BR>　余談ですが、私は出雲大社にあるしめ縄に小銭投げつけて、人の刺した小銭をジャラジャラ落としたことがあります。<BR>あそこにいると、「人は、他人を蹴落としても自分の幸福を祈る。」などと考えてしまいます・・・・<BR>私は、ちゃんと落とした小銭も刺しときました。（エンドレスにならなくて良かったです）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/02/19 23:55:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花</strong>  <i>2001/02/19 23:55:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=982594533ijlpymi&id2=951087580rabfmym&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_982594533ijlpymi_id2_951087580rabfmym_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�o�_��Ђ̃t�@�C�����Q�ւ̃R�����g�z<BR>�u�ߖłڂ��v�ɓǂ݂܂����c�c���Č����Ƃ����Ȃ�Ȋ��������邩������Ȃ�����ǁA����ς�S�[���h�A�[������̍\���͂͑f�G����`�B<BR>�Ƃ��Ƃ�Ȋw�I�p���ɍS�������@�����Ɋւ���l�@�A���������u�D�ɗ������v�C�����B<BR>�����`�āA���R�b���ǂނ����`�B
+【出雲大社のファイル＃２へのコメント】<BR>「罪滅ぼし」に読みました……って言うとおざなりな感じがするかもしれないけれど、やっぱりゴールドアームさんの構成力は素敵だわ～。<BR>とことん科学的姿勢に拘った魔法少女に関する考察、すっごく「腑に落ちた」気持ち。<BR>さぁ～て、＃３話も読むぞぉ～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>2002/03/31 12:26:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>うｔる</strong>  <i>2002/03/31 12:26:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=1017545184ijwtcs&id2=951087580rabfmym&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_1017545184ijwtcs_id2_951087580rabfmym_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y�o�_��Ђ̃t���@�C�����Q�ւ̃R�����g�z 
+【出雲大社のフうつァイル＃２へのコメント】 
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>������</strong>  <i>2002/03/31 12:27:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>うｔる</strong>  <i>2002/03/31 12:27:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=1017545228sjihf&id2=951087580rabfmym&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_1017545228sjihf_id2_951087580rabfmym_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�˂��g�Ȃ̂ɂ��Ȃ��H
+ねえＨなのにしない？
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="12">
 <input type="hidden" name="id" value="951087580rabfmym">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">�I�����C����i#3</a>]<br>
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">オンライン作品#3</a>]<br>
 
 </p>
 </body>

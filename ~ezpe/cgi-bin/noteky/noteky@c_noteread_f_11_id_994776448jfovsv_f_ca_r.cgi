@@ -1,514 +1,514 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=994776448jfovsv&f&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_994776448jfovsv_f_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">Irregular�@Girl(s)�@No�D�R</font><br>
+<font size="+2" color="#0000FF">Irregular　Girl(s)　No．３</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=991489266xkncee&ff=on" target="_blank">�ȑO�̌f���͂�����</a></strong>  <i>2001/07/10 23:47:28</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_991489266xkncee_ff_on.cgi" target="_blank">以前の掲示板はこちら</a></strong>  <i>2001/07/10 23:47:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994776448jfovsv&id2=994776448jfovsv&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994776448jfovsv_id2_994776448jfovsv_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Irregular Girl(s)�ւ̊��z�͂�����ւ��肢�������܂��B<BR>�i���b�Ă��ǎҁj<BR><BR>�Ɩ��A��<BR>���z�t�H�[������̃����N�ύX�����肢�������܂��B
+Irregular Girl(s)への感想はこちらへお願いいたします。<BR>（世話焼き読者）<BR><BR>業務連絡<BR>感想フォームからのリンク変更をお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/07/13 00:22:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/07/13 00:22:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994951352tbdbor&id2=994776448jfovsv&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994951352tbdbor_id2_994776448jfovsv_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����[���[���[���Ă���B<BR>�ӂ�����A�Ƃ������Ƃ́w���s�V�������x�Ƃ������ƂȂ̂ł��̂悤�ɉ��߂��鎖�ɂ��܂��B<BR>���h�c�Q�N�O�Ɠ������ɂȂ�͂��Ȃ̂Ɂc�ǂ����w�K�@�\���Ȃ��炵���B<BR>
+いりーがーがーる翔くん。<BR>ふしだら、ということは『お行儀が悪い』ということなのでそのように解釈する事にします。<BR>合宿…２年前と同じ事になるはずなのに…どうやら学習機能がないらしい。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/07/13 01:58:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/07/13 01:58:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=994957101accgxph&id2=994776448jfovsv&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_994957101accgxph_id2_994776448jfovsv_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���l<BR>�ł���΁A�C���M�����[�̕��ŌĂ�Œ�����ƁA������܂��i���j<BR>�C���M�����[�K�[���A�s�K���ȏ����E�E�E�i���������邩������܂��񂪁A�����͉��ւɁj<BR>�����A�w�K�s���ȂƂ�������܂��̂ŁA�\����Ȃ��ł��B<BR><BR>�ł͂ł́E�E�E�E�E
+すなさん様<BR>できれば、イレギュラーの方で呼んで頂けると、助かります（汗）<BR>イレギュラーガール、不規則な少女・・・（無理があるかもしれませんが、そこは穏便に）<BR>私も、学習不足なとこがありますので、申し訳ないです。<BR><BR>ではでは・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ�</strong>  <i>2001/07/14 20:09:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員</strong>  <i>2001/07/14 20:09:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995108940fbvggd&id2=994776448jfovsv&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995108940fbvggd_id2_994776448jfovsv_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; ���z�t�H�[������̃����N�ύX�����肢�������܂��B<BR>�ǂ��ł��B�x��΂��Ȃ���t�H�[�����C�����܂����B<BR><BR>
+&gt; 感想フォームからのリンク変更をお願いいたします。<BR>どもです。遅ればせながらフォームを修正しました。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/07/19 00:17:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/07/19 00:17:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995469478fwbykyn&id2=994776448jfovsv&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995469478fwbykyn_id2_994776448jfovsv_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ӂ��ӂ��ӂ��A�y��V��z�ǂ݂܂�����B���₠�A���悢�掟��ŁA�}�W�V�������햾�����ł����B�����ÁX�ł��B�������A���Ƃ����ɂ������������̔閧���A���������c�c�Ƃ������t���C�ɂ�����܂��B<BR>�@���ꂩ��A�����ɋ΂߂邨�o����ɌːЂ𑀍삵�Ă�����Ă��Ƃ́c�c�B�������A���܂��ˁB�ǂ����Ȃ��U�A�Ă�����A�����z���Ă��āA�������̂��o����ɌːЂ𑀍삵�Ă��������Ǝv���܂����B�Ȃ񂾂��Ă���A���݂̏󋵂�S���炢�₪���Ă͂��Ȃ��݂��������c�c�B
+　ふっふっふっ、【第７回】読みましたよ。いやあ、いよいよ次回で、マジシャンが種明かしですか。興味津々です。しかし、あとがきにあった女性化の秘密が、反則かも……という言葉が気にかかります。<BR>　それから、役所に勤めるお姉さんに戸籍を操作してもらってたとは……。雫ちゃん、やりますね。どうせなら一旦、翔くんも、引っ越してきて、雫ちゃんのお姉さんに戸籍を操作してもらったらと思いました。なんだか翔くん、現在の状況を心からいやがってはいないみたいだし……。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/07/20 20:48:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/07/20 20:48:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995629700yuwkiy&id2=994776448jfovsv&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995629700yuwkiy_id2_994776448jfovsv_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W���[�W���b�h�l<BR>�ǂ�Œ����Ă��肪�Ƃ��������܂��B<BR>��[�A�攪��������I����āA����܂����̂ŁA���������ł������肢��������ƁA�v���܂����A�E�E�E�E�E��������Ȃ�������A���݂܂���B<BR>��ɁA���l�ѐ\���グ�Ƃ��܂��i�΁j<BR>�ːЂƌ����΁A�ŋ߂ōX�V�i�o�Y�͂́j�k�ꂪ�P�O�N�ԕ�����Ȃ��������Ď���������܂����ˁB����Ȏ��������ł�����A�΂�Ȃ���������܂���ˁB<BR>�Ȃ�ɂ���A�ƍ߂͂����܂��񂯂ǂˁi�΁j<BR>
+ジャージレッド様<BR>読んで頂いてありがとうございます。<BR>んー、第八回を書き終わって、送りましたので、もう少しでお分かりいただけると、思いますが、・・・・・満足されなかったら、すみません。<BR>先に、お詫び申し上げときます（笑）<BR>戸籍と言えば、最近で更新（出産届の）洩れが１０年間分からなかったって事件がありましたね。あんな事があるんですから、ばれないかもしれませんね。<BR>なんにせよ、犯罪はいけませんけどね（笑）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="C:\Work2\BGL-Proj\TRIBUTE\irregulargirl8\irr8.html" target="_blank">��W�b��ǂނɂ͂�������N���b�N</a></strong>  <i>2001/07/20 22:11:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="C:\Work2\BGL-Proj\TRIBUTE\irregulargirl8\irr8.html" target="_blank">第８話を読むにはこちらをクリック</a></strong>  <i>2001/07/20 22:11:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995634664teeqwsv&id2=994776448jfovsv&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995634664teeqwsv_id2_994776448jfovsv_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �^�Ă̊C�ɋP���A�^���̃J�P���͐V���ȓW�J��U���B�����R�̓��e�ł��B
+【推薦文】 真夏の海に輝く、真実のカケラは新たな展開を誘う。盛り沢山の内容です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/07/20 22:45:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/07/20 22:45:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995636757mlkrvma&id2=994776448jfovsv&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995636757mlkrvma_id2_994776448jfovsv_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�}�W�V�����^���̍����B�͕s���Ŗ߂��Ȃ�����C�s�ɍs���ė���Ƃ����Ƃ��낪�������B�������A�p�������n�Ƃ����̂͂܂������\�z���Ă��Ȃ������̂ŁA�������ꂽ�����B<BR>�����A���悢��G�a�ɐ^������������̂��B���񂪊y���݂ł��B
+読んだバイ♪<BR>マジシャン真実の告白。力不足で戻せないから修行に行って来るというところがすごい。しかも、術が中国系というのはまったく予想していなかったので、虚をつかれた感じ。<BR>さあ、いよいよ秀和に真実を告白するのか。次回が楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/07/20 23:05:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/07/20 23:05:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995637927angnqt&id2=994776448jfovsv&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995637927angnqt_id2_994776448jfovsv_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��W�b�z�ǂ݂܂����B<BR>�@�}�W�V�����͐l�Ԃ�������ł��ˁB�Ă����蒴���R�ȑ��݂��Ǝv���Ă܂����B�Ȃ�قǁA�����n�̏p�̎g���肾�����Ƃ́B<BR>�@���������΁A�̓��ɂ�����C�̗���́A�j���ŋt��肾�ƕ������L��������܂��B�����s���Ă����I���t�̐搶���A����Șb�����Ă���܂����B<BR>�u���̊ԁA�Ⴂ�����񂪊��҂Ƃ��ė����񂾂��A�C�̗�����A�����A���x�f�Ă��j���̂��̂������̂ŁA���������ȂƎv������A�j���[�n�[�t��������ł���ˁB�܂��������̐l�ɂ��������Ȃ�������ł���v<BR>�@�����āA���̖̂{�ɂ��ƁA�����܂�ɒj�������Ǐ����^�̋C�̗�������l�ƁA���̋t�̏��������邻���ł��B<BR>�@�Ƃ����킯�ŁA�ӊO�ƃ��A���Ȑݒ�ł��ˁB�����A�y���݂ł��B
+【第８話】読みました。<BR>　マジシャンは人間だったんですね。てっきり超自然な存在かと思ってました。なるほど、中国系の術の使い手だったとは。<BR>　そう言えば、体内における気の流れは、男女で逆回りだと聞いた記憶があります。私が行っている鍼灸師の先生が、こんな話をしてくれました。<BR>「この間、若い娘さんが患者として来たんだが、気の流れも、脈も、何度診ても男性のものだったので、おかしいなと思ったら、ニューハーフだったんですよね。まったく女の人にしか見えなかったんですよ」<BR>　そして、ものの本によると、ごくまれに男性だけど女性型の気の流れを持つ人と、その逆の女性もいるそうです。<BR>　というわけで、意外とリアルな設定ですね。次回作、楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/07/20 23:39:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/07/20 23:39:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995639977iqoobtv&id2=994776448jfovsv&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995639977iqoobtv_id2_994776448jfovsv_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j�l<BR>�����A���z���肪�Ƃ��������܂��B<BR>���p�������n�Ƃ����̂͂܂������\�z���Ă��Ȃ������̂ŁA�������ꂽ�����B<BR>�}�W�V�����Ȃ̂ɁA�����n�̏p�ł�����˂��E�E�E�v�������l���āA����̂��Ȃ��i�΁j<BR>�܂��A���͂Ƃ�����A����Ȓ��q�Řb�́A���񂽂�Ƒ����̂ł����i�΁j<BR><BR>�W���[�W���b�h�l<BR>�ǂ�ł��������āA���肪�Ƃ��������܂��B<BR>�����̖̂{�ɂ��ƁA�����܂�ɒj�������Ǐ����^�̋C�̗�������l�ƁA���̋t�̏��������邻���ł��B<BR>�����I������������ł����H�I�i�}�W�ŁA�т����肵�܂����B�j<BR>����`�A����֌W�̐l�ɁA����Ȏ�����킯��������I���āA�����邩�Ȃ��āA�v���Ȃ��珑������ł����A�z���g�ɂ�������ł��ˁB<BR>�z���g�ɁA�ӊO�ƃ��A���Ȑݒ肾�����񂾁E�E�E�E�E�B<BR>�m��܂���ł����B<BR>�ł́A���ꂩ����A��낵�����肢���܂��B<BR><BR><BR>
+神速感想のｍｋ８４２６（命名・kagerou6さん）様<BR>いつも、感想ありがとうございます。<BR>＞術が中国系というのはまったく予想していなかったので、虚をつかれた感じ。<BR>マジシャンなのに、中国系の術ですからねえ・・・思いついた人って、いるのかなあ（笑）<BR>まあ、何はともあれ、こんな調子で話は、たんたんと続くのでした（笑）<BR><BR>ジャージレッド様<BR>読んでくださって、ありがとうございます。<BR>＞ものの本によると、ごくまれに男性だけど女性型の気の流れを持つ人と、その逆の女性もいるそうです。<BR>ええ！そうだったんですか？！（マジで、びっくりしました。）<BR>いや～、それ関係の人に、そんな事あるわけ無いだろ！って、言われるかなって、思いながら書いたんですが、ホントにあったんですね。<BR>ホントに、意外とリアルな設定だったんだ・・・・・。<BR>知りませんでした。<BR>では、これからも、よろしくお願いします。<BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/07/21 00:37:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/07/21 00:37:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995643475ucfbji&id2=994776448jfovsv&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995643475ucfbji_id2_994776448jfovsv_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂������<BR>�@�Ȃ�قǂ��[��������ł����B�����n�Ƃ͈ӊO�ł������Ȃ��Ȃ������Ǝv���܂���B���͍ŋߒ����D���ł��A�I�����s�b�N�����܂������B�p�ƃ}�W�V�����Ƃ����g�ݍ��킹���s�v�c�ł����Ȃ��B<BR>�@���Ɠo��l���������č����Ă݂���悤�Ȃ̂ŃA�h�o�C�X�Ȃ񂩂����Ă݂悤���Ɓi���Ĉ̂����ł��݂܂���j�B<BR><BR>1.�e�L�����̖������S�����߂܂��傤�B��ł������o����΁u�`�̓z�v���Ċ����Ŋo�����悭�Ȃ�̂ł͂Ȃ����Ǝv���܂��B�ڗ����Ȃ��l�͂܂����������Ă��Ȃ������Ȃ̂ŁA���ꂩ��X�|�b�g�𓖂Ă�΂����Ǝv���܂���B<BR>2.�������Œ肳���܂��傤�B��������Ɖ�b�I�����[�ł��N���b���Ă���̂��c���ł���悤�ɂȂ�܂��B�����܂Ŗ��m�ɂ��Ȃ��Ă��������Ǝv���܂����A�����悤�Șb����������l����l����ƍ����͔������Ȃ��ł��傤����B�܂������������l�𓯂��ꏊ�ɔz�u�����Ȃ��Ƃ������Ƃ��K�v��������܂���ˁB<BR><BR>�@����Ȋ����ł��傤���B�܂������C�����Ă��邱�Ƃł������ł����B���Ǝ��̏ꍇ�A�o��l���𑝂₳�Ȃ����߂ɕK�v�ȏ�ɖ��O��t���Ȃ��悤�ɂ��Ă��܂��B�i���[���ɉ����āj�t����̂��ʓ|�Ƃ������Ƃ������ł����c�B<BR>�@�����o���܂������Ƃ������Ă��܂��܂������A��������҂��Ă��܂��̂Ŋ撣���Ă��������B�䂠���݂̂��ł����B
+読みましたよ♪<BR>　なるほどそーだったんですか。中国系とは意外でしたがなかなかいいと思いますよ。私は最近中国好きです、オリンピックも決まったし。術とマジシャンという組み合わせも不思議でいいなぁ。<BR>　あと登場人物が多くて困ってみえるようなのでアドバイスなんかをしてみようかと（って偉そうですみません）。<BR><BR>1.各キャラの役割分担を決めましょう。一つでも個性が出せれば「～の奴」って感じで覚えがよくなるのではないかと思います。目立たない人はまだ個性が見えていないだけなので、これからスポットを当てればいいと思いますよ。<BR>2.口調を固定させましょう。そうすると会話オンリーでも誰が話しているのか把握できるようになります。そこまで明確にしなくてもいいかと思いますが、同じような話し方をする人が二人いると混乱は避けられないでしょうから。またそういった人を同じ場所に配置させないということも必要かもしれませんね。<BR><BR>　こんな感じでしょうか。まあ私が気をつけていることでもあるんですが。あと私の場合、登場人物を増やさないために必要以上に名前を付けないようにしています。（ルールに沿って）付けるのが面倒ということもあるんですが…。<BR>　差し出がましいことも言ってしまいましたが、次回も期待していますので頑張ってください。ゆあさのみきでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/21 07:24:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/21 07:24:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995667865bobbpcy&id2=994776448jfovsv&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995667865bobbpcy_id2_994776448jfovsv_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂���<BR>�햾�����A�Ȃ�ƒ����n�̃}�W�V�����Ō��ɖ߂��Ȃ������B<BR>����͂������A���ǂ낫�ł��ˁB<BR>������̓A�h���@�C�X�Ȃǂ���܂���A�f���炵�����ł��B�����Ă��������������炢�ł��B<BR>
+読みました<BR>種明かし、なんと中国系のマジシャンで元に戻せなかった。<BR>これはすごい、おどろきですね。<BR>私からはアドヴァイスなどありません、素晴らしい文です。教えていただきたいくらいです。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/07/21 10:09:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/07/21 10:09:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995677749cpbnasy&id2=994776448jfovsv&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995677749cpbnasy_id2_994776448jfovsv_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�䂠���݂̂��l<BR>�A�h�o�C�X���肪�Ƃ��������܂��B<BR>���[��A����ς葝�₳�Ȃ��w�͂��A�K�v�Ȃ�ł���˂��B<BR>�b������Ă����ƁA�����E�E�E�E�E<BR>����΂�܂��̂ŁA���ꂩ�����낵�����肢���܂��B<BR><BR>����݂���l<BR>�ǂ�ł��������āA���肪�Ƃ��������܂��B<BR>��[�A�n�������W�J�ŁA�\���󂠂�܂���i�΁j<BR>��i���A�R���f�B�[�^�b�`������A����Ȃ̂ł��������Ȃ��A�Ƃ��v���āA����Ȃӂ��ɁA�����Ⴂ�܂����i�΁j<BR>�����A����Ȍy���C�����ŏ����ĂāA�����̂��Ȃ��E�E�E�E�E<BR>����ς�A��y���̂悤�ɁA�����ƍl���Ȃ���Ȃ�<BR>�Ƃ��A�v���Ă��鍡�����̍��ł��B<BR><BR>�ł͂ł́E�E�E�E�E
+ゆあさのみき様<BR>アドバイスありがとうございます。<BR>うーん、やっぱり増やさない努力も、必要なんですよねぇ。<BR>話が流れていくと、ついつい・・・・・<BR>がんばりますので、これからもよろしくお願いします。<BR><BR>亜希みちる様<BR>読んでくださって、ありがとうございます。<BR>んー、馬鹿げた展開で、申し訳ありません（笑）<BR>作品が、コメディータッチだから、こんなのでもいいかなあ、とか思って、こんなふうに、しちゃいました（笑）<BR>ああ、こんな軽い気持ちで書いてて、いいのかなぁ・・・・・<BR>やっぱり、先輩方のように、ちゃんと考えなきゃなぁ<BR>とか、思っている今日この頃です。<BR><BR>ではでは・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="t-hiruma@smile.ocn.ne.jp" target="_blank">���</a></strong>  <i>2001/07/21 11:40:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="t-hiruma@smile.ocn.ne.jp" target="_blank">らま</a></strong>  <i>2001/07/21 11:40:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995683213qpyjecg&id2=994776448jfovsv&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995683213qpyjecg_id2_994776448jfovsv_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��W�b�ǂ݂܂����B<BR>�Ȃ�قǂˁ`�B�}�W�V�����͒����̐�p�n�̐l�������̂ł����c�B�܂��A���ӂ��ČN�����̎q�ɕς����̂łȂ��ď����ق��Ƃ��܂����i�΁j<BR>�c�����A����͂��ɂ������ēǓ_�u�A�v���������āA���Ȃ�ǂݐh�������ł��B�Ǔ_�͂Ȃ�ׂ��K�v�Œ���ɂ����ق����ǂ����Ǝv���܂��B<BR>���H�열�V���i����Ȃ���ł�����c<BR>�Ȃ񂩈̂����Ȃ��Ə���������Ă����܂���i��΁j�B�Ă����i����H�j�̂��ꂩ��A�ƂĂ��C�ɂȂ�܂��B���ꂩ����撣���Ă��������B
+第８話読みました。<BR>なるほどね～。マジシャンは中国の仙術系の人だったのですか…。まあ、悪意で翔君を女の子に変えたのでなくて少しほっとしました（笑）<BR>…ただ、今回はいつにも増して読点「、」が多すぎて、かなり読み辛かったです。読点はなるべく必要最低限にしたほうが良いかと思います。<BR>＊芥川龍之介作品じゃないんですから…<BR>なんか偉そうなこと書いちゃってすいません（苦笑）。翔ちゃん（くん？）のこれから、とても気になります。これからも頑張ってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200104/23004330/irr8.html" target="_blank">Irregular Girl�@�`��W��`</a></strong>  <i>2001/07/21 12:59:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200104/23004330/irr8.html" target="_blank">Irregular Girl　～第８回～</a></strong>  <i>2001/07/21 12:59:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995687961rwavwil&id2=994776448jfovsv&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995687961rwavwil_id2_994776448jfovsv_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��җl�̈ӌ��ɂ��A�C���łɍ����ւ��܂����B
+作者様の意向により、修正版に差し替えました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/07/21 21:35:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/07/21 21:35:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995718923jnywil&id2=994776448jfovsv&ff=p">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995718923jnywil_id2_994776448jfovsv_ff_p.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�}�W�V�����̐��́A����ł��������납�����ł��B�͂��߂͓�ł����Ȃ������}�W�V�����̐l�ƂȂ肪�\���킩�����̂ŁA���̂Ƃ���͖������Ă܂���B����ɂ��Ă�������p���o�Ă���Ƃ͂т����肵�܂����B���O�̌����́w���܂P�^�Q�x�̖��M�򂾂����肵�āi���j�B<BR>�R����y���ēo�ꂵ���̂͂��ꂵ�������ł��B<BR>���񂩂���āi�΂߁j�����ƏG�a����Ƃ̋ւ���ꂽ�������悢��i�s�J�n�ł��傤���H����ȂƂ���ɂ����҂������Ȃ�܂����B
+マジシャンの正体、あれでもおもしろかったです。はじめは謎でしかなかったマジシャンの人となりが十分わかったので、今のところは満足してますよ。それにしても中国医術が出てくるとはびっくりしました。青娘丹の原料は『らんま１／２』の娘溺泉だったりして（爆）。<BR>山根先輩が再登場したのはうれしかったです。<BR>次回からは翔（つばめ）ちゃんと秀和くんとの禁じられた愛がいよいよ進行開始でしょうか？そんなところにも期待したくなりました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/07/22 00:46:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/07/22 00:46:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995730403mipjrb&id2=994776448jfovsv&ff=p">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995730403mipjrb_id2_994776448jfovsv_ff_p.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���}�l<BR>���z���肪�Ƃ��������܂��B<BR>���H�열�V���i����Ȃ���ł�����c<BR>�m���ɂ��炽�߂ēǂݕԂ��ƁA�����ł��ˁB<BR>�̂̏����́A�Ȃ����₽��Ƒ����ł�����ˁB<BR>�C������悤�ɂ��܂��B<BR><BR>���������l<BR>���}�W�V�����̐��́A����ł��������납�����ł��B<BR>���������Ă���������ƁA���ꂵ���ł��B<BR>������ʂ�l���Ă����̂ł����A�o�C�g�҂��܂��ɃG���f�B���O���ɂȂ��Ă����̂ŁA���Ԕ������ɕς����̂ł����i�΁j<BR>�R����y�A���o��肢�܂����B<BR>�Ȃ�ƂȂ��A�g����L�����ɂȂ��Ă��ꂻ���Ȃ̂Łi�΁j<BR>���ꂩ����A��낵�����肢���܂��B<BR><BR>�^�c�ψ��l<BR>��i�����ւ��̐v���Ȃ��Ή��A���肪�Ƃ��������܂����B
+ラマ様<BR>感想ありがとうございます。<BR>＞芥川龍之介作品じゃないんですから…<BR>確かにあらためて読み返すと、多いですね。<BR>昔の小説は、なぜかやたらと多いですもんね。<BR>気をつけるようにします。<BR><BR>こうけい様<BR>＞マジシャンの正体、あれでもおもしろかったです。<BR>そう言っていただけると、うれしいです。<BR>もう一通り考えていたのですが、バイト編やるまえにエンディング調になってきたので、お間抜け調に変えたのでした（笑）<BR>山根先輩、ご登場願いました。<BR>なんとなく、使えるキャラになってくれそうなので（笑）<BR>これからも、よろしくお願いします。<BR><BR>運営委員様<BR>作品差し替えの迅速なご対応、ありがとうございました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/07/23 18:41:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/07/23 18:41:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995881284hoobhtv&id2=994776448jfovsv&ff=p">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995881284hoobhtv_id2_994776448jfovsv_ff_p.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O��G�a�N���ČN���c�o�������ƔF�����Ă��킯�ł͂Ȃ������̂ł��ˁB�������A�P�Ƀc�o���������v���o���Ă����̂��c�c�B<BR>�ł��c�o�������Ă������O�ł��ˁB<BR>����͂��Ă�������͂��悢��e�F�G���ł��ˁB<BR>�{�N�����A�e�F�G�����̂������Ƃ��ẮA��ϊ��҂��Ă��܂��B����΂��Ă��������B<BR>
+前回秀和君は翔君をツバメちゃんと認識してたわけではなかったのですね。そうか、単にツバメちゃんを思い出していたのか……。<BR>でもツバメちゃんていい名前ですね。<BR>それはさておき次回はいよいよ親友萌えですね。<BR>ボクっ娘、親友萌え命のあおきとしては、大変期待しています。がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/07/23 21:06:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/07/23 21:06:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995890008qidvg&id2=994776448jfovsv&ff=p">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995890008qidvg_id2_994776448jfovsv_ff_p.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������@�������l<BR>���z���肪�Ƃ��������܂��B<BR>���O��G�a�N���ČN���c�o�������ƔF�����Ă��킯�ł͂Ȃ������̂ł��ˁB<BR>�����A���̎��_�ł́w�ā��΂߁x�̊m�؂́A�S������܂���ł�����A���l�̋󎗒��x�̂��̂�������ł��B<BR>�ł����A����ł΂�Ă��܂��A����ցE�E�E�ƂȂ�����ł��B<BR><BR>���Ă��āA�������������i����΂��Ă��������ˁB<BR>�������Ă܂���B��҂̌�ɁA���z�������Ǝv���Ă��܂��B<BR>�ł͂ł́E�E�E
+あおき　あきお様<BR>感想ありがとうございます。<BR>＞前回秀和君は翔君をツバメちゃんと認識してたわけではなかったのですね。<BR>ええ、あの時点では『翔＝つばめ』の確証は、全くありませんでしたら、他人の空似程度のものだったんです。<BR>ですが、今回でばれてしまい、次回へ・・・となった訳です。<BR><BR>さてさて、あおきさんも作品がんばってくださいね。<BR>応援してますよ。後編の後に、感想書こうと思っています。<BR>ではでは・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����������P</strong>  <i>2001/07/25 22:00:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｗａｓｓａ１</strong>  <i>2001/07/25 22:00:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996066029eytttxb&id2=994776448jfovsv&ff=p">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996066029eytttxb_id2_994776448jfovsv_ff_p.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����΂��B�����������P�ł��B��W�b��ǂ݂܂����B<BR>�}�W�V�����̉���͂�����ł����A�킩��܂����B<BR>�������Ă��񂪁A�ق�Ƃ͏����ŎY�܂�Ă�����������Ȃ��������Ƃɂ��ẮA������Ƃ��킢�����ł����E�E�E�B<BR>�����Ă��ق�Ƃɏ��̎q�ŎY�܂�Ă�����A�ޏ��i�H�j�͂���ȂɔY�ގ����Ȃ������Ǝv���܂��E�E�E�B<BR>���������O���āA�̃Q�[���ɂ������悤�ȁE�E�E�B<BR><BR>�������A�G�a�N�Ɂw�ā��c�o���x�Ƃ΂�Ă��܂���A����������X�b�ł͂ǂ�ȓW�J�ɂȂ�̂��E�E�E�B<BR>�^����m�邱�Ƃ͎��Ɏc����������܂��񂪁A�G�a�ɂ͂Q�N�O����̋C�������Ăɂӂ��Ă���������͂�����`���Ăق����ł��I<BR>�G�a�I�t�@�C�g�I�I
+こんばんわ。ｗａｓｓａ１です。第８話を読みました。<BR>マジシャンの解説はやや難しいですが、わかりました。<BR>しかし翔さんが、ほんとは女性で産まれてきたかもしれなかったことについては、ちょっとかわいそうでした・・・。<BR>もし翔がほんとに女の子で産まれてきたら、彼女（？）はこんなに悩む事もなかったと思います・・・。<BR>しかし銀仙丹って、昔ゲームにあったような・・・。<BR><BR>しかも、秀和君に『翔＝ツバメ』とばれてしまうわ、いったい第９話ではどんな展開になるのか・・・。<BR>真実を知ることは時に残酷かもしれませんが、秀和には２年前からの気持ちを翔にふられてもいいからはっきり伝えてほしいです！<BR>秀和！ファイト！！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/07/25 23:13:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/07/25 23:13:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996070390sfbhyn&id2=994776448jfovsv&ff=p">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996070390sfbhyn_id2_994776448jfovsv_ff_p.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����������P�l<BR>�ǂ�Œ����Ă��肪�Ƃ������܂��B<BR>�����������O���āA�̃Q�[���ɂ������悤�ȁE�E�E�B<BR>�e�b�́w�V�n����炤�U�x�ŉ񕜖�Ƃ��ďo�Ă��Ă܂����ˁB<BR>���̃Q�[���ɂ��o�Ă邩������܂��񂪁A���͂��ꂵ���m��Ȃ��ł��i�΁j<BR><BR>���āA����͋v�X�ɏG�a���Ă����̏�ʂ���n�܂�܂��B<BR>��X�񓊍e�͏����y�[�X�������Ă��܂��̂ŁA���΂炭���҂����������B<BR>�ł͂ł́E�E�E
+ｗａｓｓａ１様<BR>読んで頂いてありがとうござます。<BR>＞しかし銀仙丹って、昔ゲームにあったような・・・。<BR>ＦＣの『天地を喰らうⅡ』で回復薬として出てきてましたね。<BR>他のゲームにも出てるかもしれませんが、私はこれしか知らないです（笑）<BR><BR>さて、次回は久々に秀和と翔だけの場面から始まります。<BR>第９回投稿は少しペースが落ちていますので、しばらくお待ちください。<BR>ではでは・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>WATARU1024</strong>  <i>2001/08/28 05:33:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=998944419ptwmd&id2=994776448jfovsv&ff=p">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_998944419ptwmd_id2_994776448jfovsv_ff_p.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Q�ڂ����X�ŁA���߂�Ȃ����BWATARU1024�ł��B<BR>�uIrregular Girl�v��<BR>���ɂƂ��āA���ܕ��ɂ�ǂފy���݂̈�ł��B<BR>�͂����茾���ăn�}���܂����B<BR>�Ƃ��ɒ��w���� -The past days- �͂܂Ƃ܂��Ă��ėǂ������ł��B<BR>�{�҂Ƃ����炪�q�����āA����オ���čō��I<BR>�͂��₭�A�͂��₭�A�����������āI<BR>
+超寝ぼけレスで、ごめんなさい。WATARU1024です。<BR>「Irregular Girl」は<BR>私にとって、いま文庫を読む楽しみの一つです。<BR>はっきり言ってハマリました。<BR>とくに中学生編 -The past days- はまとまっていて良かったです。<BR>本編とそちらが繋がって、盛り上がって最高！<BR>はっやく、はっやく、続きを書いて！<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/08/28 23:06:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/08/28 23:06:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999007579twnwagi&id2=994776448jfovsv&ff=p">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999007579twnwagi_id2_994776448jfovsv_ff_p.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-WATARU1024�l<BR><BR>���������Ă���������ƁA�ƂĂ����ꂵ���ł��B<BR>��X��͌��ݔ����܂ł������Ă��܂��B<BR>���T���ɂ͓��e�ł���Ǝv���܂��̂ŁA�������΂炭���҂����������B<BR>�\��ł́A�����n�߂ɂ͓��e���悤�Ǝv���Ă����̂ł����A�v���悤�ɐi�܂Ȃ����āi�X�����v���Ă�ł��傤���H�j�B<BR>���҂����������Ă���F�l�A���݂܂���ł����B
+WATARU1024様<BR><BR>そう言っていただけると、とてもうれしいです。<BR>第９回は現在半分まであがっています。<BR>今週中には投稿できると思いますので、もうしばらくお待ちください。<BR>予定では、今月始めには投稿しようと思っていたのですが、思うように進まなくって（スランプってやつでしょうか？）。<BR>お待ちいただいている皆様、すみませんでした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200104/23004330/irr9.htm" target="_blank">��X�b������ɂ͂������N���b�N�B</a></strong>  <i>2001/09/06 21:30:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200104/23004330/irr9.htm" target="_blank">第９話を見るにはここをクリック。</a></strong>  <i>2001/09/06 21:30:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999779442uiigc&id2=994776448jfovsv&ff=p">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999779442uiigc_id2_994776448jfovsv_ff_p.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�Ă���Ƃ��̂܂��̐l�Ԋ֌W���A���˂��˂Ƃ˂���āi�H�j�����܂��B�����đ嗁��ő�~��c�c�Ȃ񂿂���āi�j���j�B
+【推薦文】　翔くんとそのまわりの人間関係が、ぐねぐねとねじれて（？）いきます。そして大浴場で大欲情……なんちゃって（核爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2001/09/06 23:31:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2001/09/06 23:31:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999786712mtsje&id2=994776448jfovsv&ff=p">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999786712mtsje_id2_994776448jfovsv_ff_p.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���\���̘b�D���œǂ�ł܂����ǋv���Ԃ�ɑ����ǂ߂Ċy���������ł��B�ł��Ă�����Đ��i�I�ɂ����̎q���ۂ�(�q�����ۂ��̂����m��Ȃ�����)���疳���Ȃ��Ă����ł��ˁB����Ȃ�Ɠǂ߂�̂��C�ɓ����Ă܂��B
+結構この話好きで読んでますけど久しぶりに続き読めて楽しかったです。でも翔くんって性格的にも女の子っぽい(子供っぽいのかも知れないけど)から無理なくていいですね。すんなりと読めるのが気に入ってます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/09/07 00:12:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/09/07 00:12:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999789122rktnm&id2=994776448jfovsv&ff=p">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999789122rktnm_id2_994776448jfovsv_ff_p.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���₠�A������āi�H�j�܂��˂��i�΁j�B�O�p�֌W�������H<BR>����͂�΂������B<BR>����͂����ƁA�Ă����͂����Ԃ񏗂ɂȂ���ł��܂��˂��B<BR>�ǎ҂Ƃ��ẮA���̂܂܍s���ė~�����Ȃ��E�E�E�Ȃ�Ăˁi�΁j�B<BR>������y���݂ɂ��Ă��܂��B
+読んだバイ♪<BR>いやあ、こじれて（？）ますねぇ（笑）。三角関係っすか？<BR>これはやばいかも。<BR>それはそうと、翔ちゃんはずいぶん女になじんでいますねぇ。<BR>読者としては、このまま行って欲しいなぁ・・・なんてね（笑）。<BR>次回も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/07 01:01:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/07 01:01:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999792103owbebl&id2=994776448jfovsv&ff=p">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999792103owbebl_id2_994776448jfovsv_ff_p.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�O�p�֌W�������ƕ��G�Ȃ悤�ȋC�����܂����B�i�΁j<BR>�e�F�Ƃ̂����A�䕗�C��ł̏��̎q���m�̂���ꂠ���B���`��A�G���R���ł��ˁB<BR>����ǂ�ǂ��ČN�����킢���Ȃ��Ă��Ă���̂͋C�̂����ł��傤���B���̂܂܍s���ƒj�ɖ߂��Ă��e�����c�肻���ȋC�����܂��B�i�΁j<BR>�ڍ��������ŏ��͂������딼���ŏ����������̂��A���N�ケ��Ȃɂ�����������Ƃ͎v���Ă����Ȃ������̂ł��傤�B�Ȃ񂩌���Ƃ������ł�o���Ă��܂����ˁB�Ȃ񂩂��̕ӂ����킢�炵���B<BR>�����q���������ꂩ��{�C�ɂȂ�̂��H<BR>�����͂܂��܂��c���Ă��܂��ˁB<BR>������̃o�C�g�ҁA���炭�ڍ������Ƃ̂���肪���S���Ǝv���܂����A������y�ɐU��܂킳���p�^�[�������Ă݂����悤�ȋC�����܂��B<BR>�X�����v�Ƃ������Ƃł����A������Ƃ���΂��Ă��������B<BR>������y���݂ɂ̂�т�Ƒ҂����Ă��炢�܂��B
+三角関係よりもっと複雑なような気がしますが。（笑）<BR>親友とのやり取り、御風呂場での女の子同士のじゃれあい。う～ん、萌え燃えですね。<BR>いやどんどん翔君がかわいくなってきているのは気のせいでしょうか。このまま行くと男に戻っても影響が残りそうな気がします。（笑）<BR>芹香ちゃんも最初はおもしろ半分で女装させたのが、数年後こんなにも反響があるとは思ってもいなかったのでしょう。なんか後悔というか焦り出してきましたね。なんかこの辺もかわいらしい。<BR>日名子ちゃんも憧れから本気になるのか？<BR>見所はまだまだ残っていますね。<BR>次次回のバイト編、恐らく芹香ちゃんとのやり取りが中心だと思いますが、音霧先輩に振りまわされるパターンも見てみたいような気もします。<BR>スランプということですが、ゆっくとがんばってください。<BR>次回を楽しみにのんびりと待たせてもらいます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�Y�~</strong>  <i>2001/09/07 21:37:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>イズミ</strong>  <i>2001/09/07 21:37:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999866264chwfu&id2=994776448jfovsv&ff=p">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999866264chwfu_id2_994776448jfovsv_ff_p.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�z<BR>�ʔ����̂Ŗ���y���݂ɓǂ܂����Ă�����Ă��܂�<BR>���ꂩ��G�a�N�̖ҍU���͂��܂�̂��H�i�΁j<BR>�ł��l�I�ɂ͋ڍ����D���Ȃ�ł���˂��`<BR>�P�O�b�����҂��Ă܂��Ă܂��`<BR>
+【第九話】<BR>面白いので毎回楽しみに読まさせてもらっています<BR>これから秀和君の猛攻がはじまるのか？（笑）<BR>でも個人的には芹香が好きなんですよねぇ～<BR>１０話を期待してまってます～<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>1</strong>  <i>2001/09/07 22:23:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999869024dnrug&id2=994776448jfovsv&ff=p">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999869024dnrug_id2_994776448jfovsv_ff_p.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�z
+【第九話】
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/09/07 23:40:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/09/07 23:40:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999873619lvqfexc&id2=994776448jfovsv&ff=p">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999873619lvqfexc_id2_994776448jfovsv_ff_p.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�Œ����āA�{���ɂ��肪�Ƃ��������܂�<BR>��P�O��́A�o���邾���������������Ǝv���Ă��܂��B<BR><BR>�݂��l<BR>�����\���̘b�D���œǂ�ł܂����ǋv���Ԃ�ɑ����ǂ߂Ċy���������ł��B<BR>���҂������Ă��܂��āA���݂܂���ł����B<BR>�y�[�X���Ȃ�ׂ��߂���悤�ɂ���΂�܂��̂ŁA��낵�����˂������܂��B<BR><BR>�����W�S�Q�U�l<BR>����̊��z�A���肪�Ƃ��������܂��B<BR>���[��A��҂������̂��Ȃ�ł����A������Ă܂��ˁB<BR>�����܂ł������Ƃ͗\�z���ĂȂ�������ł���i��<BR>������������X�����v�ł͂Ȃ��A�b���l�܂��Ă��������Ȃ̂����i����<BR><BR>�������@�������l<BR>�������͂܂��܂��c���Ă��܂��ˁB<BR>�c���Ă܂��ˁB���̌������c��Ȃ��悤�ɏI��点�Ă����Ȃ��Ɓi����<BR>�w�����Ђ͂܂�����x�̎��M�����l�ł����B<BR>�������K���āA�����ƏI��点�Ȃ���<BR>�ƁA�������ŏI��̃��h�͂����Ă��Ȃ������肵�܂����E�E�E�E<BR><BR>�C�Y�~�l<BR>���ʔ����̂Ŗ���y���݂ɓǂ܂����Ă�����Ă��܂�<BR>���������Ă���������ƁA�z���g���ꂵ���ł��B<BR>���ꂩ�������΂�܂��̂ŁA��낵�����肢���܂��B
+読んで頂いて、本当にありがとうございます<BR>第１０回は、出来るだけ早くあげたいと思っています。<BR><BR>みゅん様<BR>＞結構この話好きで読んでますけど久しぶりに続き読めて楽しかったです。<BR>お待たせしてしまって、すみませんでした。<BR>ペースをなるべく戻せるようにがんばりますので、よろしくおねがいします。<BR><BR>ｍｋ８４２６様<BR>毎回の感想、ありがとうございます。<BR>うーん、作者が言うのもなんですが、こじれてますね。<BR>ここまでこじれるとは予想してなかったんですよ（汗<BR>もしかしたらスランプではなく、話が詰まっていただけなのかも（＞＜<BR><BR>あおき　あきお様<BR>＞見所はまだまだ残っていますね。<BR>残ってますね。その見所が残らないように終わらせていかないと（＞＜<BR>『あさひはまた昇る』の執筆お疲れ様でした。<BR>私も見習って、ちゃんと終わらせなきゃ<BR>と、言いつつも最終回のメドはたっていなかったりしますが・・・・<BR><BR>イズミ様<BR>＞面白いので毎回楽しみに読まさせてもらっています<BR>そう言っていただけると、ホントうれしいです。<BR>これからもがんばりますので、よろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2001/09/08 01:27:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2001/09/08 01:27:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999880022gujqhbx&id2=994776448jfovsv&ff=p">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999880022gujqhbx_id2_994776448jfovsv_ff_p.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G�a�ɔ����A�_�����ČN�i�����j�c�B<BR>����`�A�����͂����Ȃ�񂶂�Ȃ����ƐS�z���Ă��܂������A��͂�<BR>�����Ȃ��Ă��܂��܂������i�΁j�B<BR>�Ă����A���Ƃ��Ă͂܂����܂ꂽ�Ăɓ������̂ŁA���h���ȏ����d���Ȃ��̂ł��傤���A�G�a���ǂ���ʎ��ɑ���Ȃ��悤�i�����Ă��ČN�������ŋ�����悤�j�F�炸�ɂ͂����܂���B<BR>���ǂ����Ă����ɍK������񎖂��c�i�F�j<BR>�X�����v�Ƃ̂��Ƃł����A���₢��ǂ����āA�����q�����̖��׋C�ȋ��Ёi���́H�j�̔��e�����ȂǁA���Ȃ�΂킹�Ă��炢�܂����B<BR>���ꂩ����y������i�A�C���ɂ��҂����Ă���܂��B
+秀和に迫られ、狙われる翔君（ちゃん）…。<BR>いや～、いつかはこうなるんじゃないかと心配していましたが、やはり<BR>こうなってしまいましたか（笑）。<BR>翔ちゃん、女としてはまだ生まれたてに等しいので、無防備な所も仕方ないのでしょうが、秀和が良からぬ事に走らないよう（走っても翔君が無事で居られるよう）祈らずにはいられません。<BR>＊どうか翔ちゃんに幸多からん事を…（祈）<BR>スランプとのことですが、いやいやどうして、日名子ちゃんの無邪気な脅威（胸囲？）の爆弾発言など、かなり笑わせてもらいました。<BR>これからも楽しい作品、気長にお待ちしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�C�����a</strong>  <i>2001/09/08 03:02:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>海月日和</strong>  <i>2001/09/08 03:02:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999885747hsrhet&id2=994776448jfovsv&ff=p">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999885747hsrhet_id2_994776448jfovsv_ff_p.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�E�E�E�Ă���A���m�i�Ƃ��j�ƌĂ�ł����ł����H�i���j<BR>����A�������ʊԈ����l�Ȃ̂ł���B<BR>�w�����i�u���U�[�j���ĂĊԈ��ꂽ���Ƃ��炠��̂ł���`�i�����΁j<BR>�����Ō��m��ʌZ�����Ɂu�N�A�i���ʁj�ǂ����H�v�Ăȃj���A���X�̑䎌�����܂��ꂽ���Ƃ�����܂������ˁ`�E�E�E�i�����ځj<BR>���`�A���Ɓi��i�̊��z�Ɓj�֌W�Ȃ����͂ł��߂�Ȃ����Bm(_ _)m<BR>������y���݂ɑ҂��Ă���܂��B<BR>�E�E�E�����Ă���ɁA�K��������񂱂Ƃ��E�E�E
+・・・翔くん、同士（とも）と呼んでいいですか？（爆）<BR>いや、私も性別間違われる人なのですよ。<BR>学生服（ブレザー）着てて間違われたことすらあるのですよ～（半泣笑）<BR>私服で見知らぬ兄ちゃんに「君、（性別）どっち？」てなニュアンスの台詞をかまされたこともありましたしね～・・・（遠い目）<BR>え～、割と（作品の感想と）関係ない文章でごめんなさい。m(_ _)m<BR>次回も楽しみに待っております。<BR>・・・いつか翔くんに、幸いがあらんことを・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/09/08 03:05:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/09/08 03:05:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999885931jqbolbc&id2=994776448jfovsv&ff=p">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999885931jqbolbc_id2_994776448jfovsv_ff_p.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�z�ǂ݂܂����B<BR>�嗁��ł��ČN�B�W�X�Ƃ������͋C�����Ɋ��S�ȏ��̎q�ł��ˁB<BR>����ɓ����q�����ɐG��ꂿ�Ⴂ�܂������A�ӊO�Ɨ�ÁB<BR>�����߂�Ȃ��c�c�B����Ȋ��z��������ł��܂��܂����i�΁j<BR>�����Ȃ�����A�j���̗��������肵�ăh�M�h�L���Ă��炤�����c�c�B<BR>����Ŏ����̐g�̂������Ƃ������Ƃ��������o������̂��G���I�ɂ͂�낵�����ƁB<BR><BR>�X�����v�́A���������X�����v�Ȃ񂾂Ǝ��o���Ȃ������ǂ��Ǝv���܂���B�킴�킴�����̓X�����v�Ȃ񂾂Ǝ��ȈÎ���������K�v���Ȃ��ł����ˁB�C�ɂ��Ȃ��A�C�ɂ��Ȃ��B
+【第九話】読みました。<BR>大浴場での翔君。淡々とした雰囲気が既に完全な女の子ですね。<BR>それに日名子ちゃんに触られちゃいましたが、意外と冷静。<BR>もう戻れない……。そんな感想が浮かんでしまいました（笑）<BR>こうなったら、男性の裸を見たりしてドギドキしてもらうしか……。<BR>それで自分の身体が女だということを強く自覚させるのが萌え的にはよろしいかと。<BR><BR>スランプは、自分が今スランプなんだと自覚しない方が良いと思いますよ。わざわざ自分はスランプなんだと自己暗示をかける必要もないですしね。気にしない、気にしない。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����������1</strong>  <i>2001/09/09 23:44:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｗａｓｓａ1</strong>  <i>2001/09/09 23:44:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000046691pmjldh&id2=994776448jfovsv&ff=p">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000046691pmjldh_id2_994776448jfovsv_ff_p.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�z��ǂ݂܂����A�����������P�ł��B<BR>�G�a�̋C�����͂킩��悤�ȋC���v���܂����A�Ă͔ߎS�ł��B<BR>�����A�G�a�̂����ŁA���Ԃ����ɔ閧���΂�Ă��܂���A����G���Ă��܂���E�E�E�B<BR>�ł��A�����ɓ�����Ă���A�����܂����E�E�E�H�i�Ė{�l�ɂƂ��Ēj�ɖ߂��āA�j���ɓ������ق��������񂾂낤�ȁE�E�E����ς�B�j<BR><BR>�̂������i���݂͏������j���ۂ��̂��A����Ӗ��j�ɂƂ��Ă͔ߌ������E�E�E�B<BR><BR>�Ƃ���ŁA�����āu�C���M�����[�K�[���v�Ȃ̂ł��傤���H<BR>�i�����āA�Ă����A�����ۂ����E�E�E���ė��ɂ͂Ƃ��Ă�����ł��ˁB�j<BR>���N���߂�Ȃ����I�I<BR><BR>�X�����v�͋C���ŏ��z���܂��傤�I�I�i���ӔC�j<BR>
+【第九話】を読みました、ｗａｓｓａ１です。<BR>秀和の気持ちはわかるような気が致しますが、翔は悲惨です。<BR>何せ、秀和のせいで、風花ちゃんに秘密がばれてしまうわ、胸を触られてしまうわ・・・。<BR>でも、女湯に入れて翔さん、うらやましい・・・？（翔本人にとって男に戻って、男湯に入ったほうがいいんだろうな・・・やっぱり。）<BR><BR>体つきが女（現在は女だが）っぽいのも、ある意味男にとっては悲劇かも・・・。<BR><BR>ところで、亮って「イレギュラーガール」なのでしょうか？<BR>（だって、翔よりも、女っぽいし・・・って亮にはとっても失礼ですね。）<BR>亮君ごめんなさい！！<BR><BR>スランプは気合で乗り越えましょう！！（無責任）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/09/10 22:35:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/09/10 22:35:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000128910awkxhof&id2=994776448jfovsv&ff=p">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000128910awkxhof_id2_994776448jfovsv_ff_p.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F�l�A���z���肪�Ƃ��������܂��B<BR><BR>��ܗl<BR>������`�A�����͂����Ȃ�񂶂�Ȃ����ƐS�z���Ă��܂������A��͂肱���Ȃ��Ă��܂��܂������i�΁j�B<BR>�n�߂̕��́A���̓W�J���l���ĂȂ������̂ł�<BR>���ꂪ�A���邸��ƁE�E�E<BR>�΂�Ă�W�J���A���낵�낢�̂ł͂Ǝv�����̂悤�ɂ��܂����B�i��<BR><BR>�C�����a�l<BR>���������ʊԈ����l�Ȃ̂ł���B<BR>���́A���̗F�B�ɂ��Ԉ���Ă��l���܂����B<BR>�{�l���Ȃ茙�����Ă܂����B�i��<BR>���A�ł��Ẵ��f���͂��̗F�B�ł͂Ȃ��ł���B<BR><BR>�W���[�W���b�h�l<BR>���X�����v�́A���������X�����v�Ȃ񂾂Ǝ��o���Ȃ������ǂ��Ǝv���܂���B<BR>�����ł��ˁA�W���������ċx�݂������Ǝv�����ɂ��܂��B<BR>��P�O��������n�߂܂������A�X��قǋꂵ��łȂ��̂ŉ������̃y�[�X�ɖ߂ꂻ���ł��B<BR>�S�z���Ă��������Ă����F�l�A���ӂ������Ă���܂��B<BR><BR>����������1�l<BR>���Ƃ���ŁA�����āu�C���M�����[�K�[���v�Ȃ̂ł��傤���H<BR>�ނ��A�m���ɔw�͏������ł����A����ׂ������Ȃ���܂����ނ͈Ⴂ�܂��i��<BR>�ꉞ�A���o�Ă��Ă���o��l���̂Ȃ��ł́w�āx�Ɓw���x�̓�l�����ł��ˁB
+皆様、感想ありがとうございます。<BR><BR>らま様<BR>＞いや～、いつかはこうなるんじゃないかと心配していましたが、やはりこうなってしまいましたか（笑）。<BR>始めの方は、この展開を考えてなかったのです<BR>それが、ずるずると・・・<BR>ばれてる展開も、おろしろいのではと思いこのようにしました。（笑<BR><BR>海月日和様<BR>＞私も性別間違われる人なのですよ。<BR>実は、私の友達にも間違われてた人いました。<BR>本人かなり嫌がってました。（笑<BR>あ、でも翔のモデルはその友達ではないですよ。<BR><BR>ジャージレッド様<BR>＞スランプは、自分が今スランプなんだと自覚しない方が良いと思いますよ。<BR>そうですね、８月がいい夏休みだったと思う事にします。<BR>第１０回を書き始めましたが、９回ほど苦しんでないので何時ものペースに戻れそうです。<BR>心配してくださっていた皆様、感謝いたしております。<BR><BR>ｗａｓｓａ1様<BR>＞ところで、亮って「イレギュラーガール」なのでしょうか？<BR>むう、確かに背は小さいですし、しゃべり方も一癖ありますが彼は違います（汗<BR>一応、今出てきている登場人物のなかでは『翔』と『雫』の二人だけですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/09/19 22:33:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/09/19 22:33:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000906391ydsxnu&id2=994776448jfovsv&ff=p">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000906391ydsxnu_id2_994776448jfovsv_ff_p.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���h�҂�������ɂȂ��Ă��܂����ˁB<BR>�ł��������������āA�X�g�[���[�S�̂̎R��Ƃ������͋C���������Ă܂��B<BR>���̎q�����̓����V�[�������ꂵ���ł��B����ς�i�H�j���h�̂��񑩂ł���ˁI<BR>��������͒j�����I�Ɗ��҂��܂������ǁA����͖����������悤�Łc�B<BR><BR>�o�C�g����������Ƃ��炢���Ȃ������āA�ʂɋC�ɂ��Ȃ��Ă����Ǝv���܂���B<BR>���ƎG���̘A�ڂ��Ⴀ��܂����B<BR>�����������e�̒����Ȃ�Ė���ς���ł�����A�C�y�ɂ����܂��傤�I<BR>����ł́A������y���݂ɂ��Ă��܂��B
+合宿編も長丁場になってきましたね。<BR>でも長いだけあって、ストーリー全体の山場という雰囲気が感じ取れてます。<BR>女の子だけの入浴シーンもうれしいです。やっぱり（？）合宿のお約束ですよね！<BR>さあ次回は男装だ！と期待しましたけど、それは無理だったようで…。<BR><BR>バイト数がちょっとくらい少なくたって、別に気にしなくていいと思いますよ。<BR>商業雑誌の連載じゃあるまいし。<BR>書きたい内容の長さなんて毎回変わるんですから、気楽にいきましょう！<BR>それでは、次回も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2001/09/23 20:08:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2001/09/23 20:08:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001243327skfxrn&id2=994776448jfovsv&ff=p">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001243327skfxrn_id2_994776448jfovsv_ff_p.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������l<BR>�ǂ�Œ����Ă��肪�Ƃ��������܂��B<BR>�����āA�Ԏ��x��Ă��݂܂���B<BR>����������͒j�����I�Ɗ��҂��܂������ǁA����͖����������悤�Łc�B<BR>�m���ɁA�Ă̒j���̓_���ł���������l������j�����܂��i��<BR>���h�Ҏ��񊮌��ł��B
+こうけい様<BR>読んで頂いてありがとうございます。<BR>そして、返事遅れてすみません。<BR>＞さあ次回は男装だ！と期待しましたけど、それは無理だったようで…。<BR>確かに、翔の男装はダメでしたがある人が次回男装します（笑<BR>合宿編次回完結です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200104/23004330/irr10.html" target="_blank">��P�O���ǂނɂ͂������N���b�N</a></strong>  <i>2002/01/01 01:06:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200104/23004330/irr10.html" target="_blank">第１０回を読むにはここをクリック</a></strong>  <i>2002/01/01 01:06:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009814815xnxos&id2=994776448jfovsv&ff=p">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009814815xnxos_id2_994776448jfovsv_ff_p.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����ς����ɗ�����Ă��܂��΂߂������Ƃ��Ă���B�������ɖ߂���܂ł̐h�������I<BR>�c���Ă��̓��͉ʂ����ĖK���̂���[��!?
+やっぱり周りに流されてしまうつばめちゃんもとい翔くん。いつか元に戻る日までの辛抱だっ！<BR>…ってその日は果たして訪れるのだろーか!?
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2002/01/01 20:17:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2002/01/01 20:17:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009883832pxsek&id2=994776448jfovsv&ff=p">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009883832pxsek_id2_994776448jfovsv_ff_p.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[��B�Ȃ��Ȃ�����ł��˂��A�����́B<BR>�������A������͖{���ɏ��̎q����Ă�̂��Ǝv������A�S�ꂩ��ł͂Ȃ��悤�ł��ˁB<BR>�ޏ��ɍ��������̎q�A�l������ڂ��Ȃ������Ǝv���Ă�����߂܂��傤�i�΁j�B<BR>���āA�Ă����͒j�ɖ߂���ł��傤���H�͂āB
+読んだバイ♪<BR>うーん。なかなか難しいですねぇ、恋愛は。<BR>しかし、雫さんは本当に女の子やってるのかと思ったら、心底からではないようですね。<BR>彼女に告った女の子、人を見る目がなかったと思ってあきらめましょう（笑）。<BR>さて、翔ちゃんは男に戻れるんでしょうか？はて。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂��</strong>  <i>2002/01/01 21:07:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みゅん</strong>  <i>2002/01/01 21:07:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009886852wrgpk&id2=994776448jfovsv&ff=p">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009886852wrgpk_id2_994776448jfovsv_ff_p.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������炸�̃y�[�X�Ői�܂�Ă�悤�ŁB�B�ł��䂪�Ȃ��Ȃ�����Ȃ��ł��˂��B�Ă��Ăɖ߂邩�΂߂ɂȂ邩�͔����ȂƂ���݂����ō���A�ِ��Ƃ̂��t�������������Ƃ΂߂ɂ͂Ȃ�Ȃ��̂�������܂���ˁB<BR>
+あいかわらずのペースで進まれてるようで。。でも謎がなかなか判らないですねえ。翔も翔に戻るかつばめになるかは微妙なところみたいで今後、異性とのお付き合いが無いとつばめにはなれないのかもしれませんね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2002/01/02 09:57:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2002/01/02 09:57:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1009933055spnstyd&id2=994776448jfovsv&ff=p">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1009933055spnstyd_id2_994776448jfovsv_ff_p.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����܂��ā@���߂łƂ��������܂�<BR>�͂��炸���A���N�͂��߂̍�i�ƂȂ��Ă��܂��܂�����<BR><BR>����8426�l<BR>���������A������͖{���ɏ��̎q����Ă�̂��Ǝv������A�S�ꂩ��ł͂Ȃ��悤�ł��ˁB<BR>������́A�S��Ƃ��������y����ł銴���Ȃ̂ŁA���̂悤�ȃ^�b�`�ŏ����Ă݂܂����B<BR>�S�͒j�̎q�A�̂͏��̎q�A�������ē���ł���ˁB<BR><BR>�݂��l<BR>���ł��䂪�Ȃ��Ȃ�����Ȃ��ł��˂��B<BR>�Ȃ����Ȃ����ĂсE�E�E�E�E���Ƃ������A�}�W�V�����̑��݂��܂�����A�������ɂ��Ă��܂������������ł����i��<BR>�p�^�[�������Ă��Ă�͉̂��Ƃ����Ȃ��Ƃ����Ȃ������i�O�O�G<BR>�i�ł��A�Ă�����Ȃ�������������Ȃ��E�E�E�j<BR><BR>���ꂩ����A��낵�����˂������܂��B<BR>
+あけまして　おめでとうございます<BR>はからずも、今年はじめの作品となってしまいましたｗ<BR><BR>ｍｋ8426様<BR>＞しかし、雫さんは本当に女の子やってるのかと思ったら、心底からではないようですね。<BR>雫さんは、心底というよりも楽しんでる感じなので、このようなタッチで書いてみました。<BR>心は男の子、体は女の子、恋愛って難しいですよね。<BR><BR>みゅん様<BR>＞でも謎がなかなか判らないですねえ。<BR>なぞがなぞを呼び・・・・・っというか、マジシャンの存在をまたもや、うやもやにしてしまっただけかもですが（笑<BR>パターン化してきてるのは何とかしないといけないかも（＾＾；<BR>（でも、翔があんなせいかくだからなぁ・・・）<BR><BR>これからも、よろしくおねがいします。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���肫��</strong>  <i>2002/01/04 12:10:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong>きりきり</strong>  <i>2002/01/04 12:10:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010113818tkjyq&id2=994776448jfovsv&ff=p">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010113818tkjyq_id2_994776448jfovsv_ff_p.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���߂܂��āA���肫��ł��B<BR><BR>Irregular�@Girl�́A���̖]�ݒʂ�̂s�r���E�ł��B<BR>���N�̎n�߂���A�������f�ڂ���Ă��Ċ����������ł��B<BR>������̐S�̒��́A���G�����ł��ˁB<BR>���̑z���́A�����͍D�������ǁA�̂͏��̎q�Ȃ̂Ŏ󂯓���鎖�͂ł��Ȃ��Ƃ����Ƃ���ł��ˁB<BR>�������A�����̑̂̕����D���Ȃ񂾂Ǝv���܂��B<BR><BR>&gt;���O<BR>�s�V�s���ɂȂ�ׂ̖򂾂����悤�ȁH<BR><BR>���́A���̍�i�����āA�C�����g���Ăs�r�ł��Ȃ����ƁH<BR>��u�A�^�ʖڂɍl�����Ⴂ�܂����B�i�n���ł��j<BR>�������C�̗�����t�ɂ��ċC�̃g���[�j���O����Ƃ��B�i�s�r����O�ɑ̂��󂷂Ǝv���܂����j<BR>���ƁA��{�I�ɒj���͗z�̋C�A�����͉A�̋C�ł��̂ŁA�A�̋C�̋����ꏊ�ɂ����Ƌ����āA�����������ɂȂ�p���C���[�W������@�ł��B<BR>���Ԃ�A��Ζ����ł���B�i�΁j<BR><BR>����ł́A������y���݂ɂ��Ă��܂��B
+初めまして、きりきりです。<BR><BR>Irregular　Girlは、私の望み通りのＴＳ世界です。<BR>今年の始めから、続きが掲載されていて嬉しかったです。<BR>雫さんの心の中は、複雑そうですね。<BR>私の想像は、女性は好きだけど、体は女の子なので受け入れる事はできないというところですね。<BR>しかも、女性の体の方が好きなんだと思います。<BR><BR>&gt;銀仙丹<BR>不老不死になる為の薬だったような？<BR><BR>私は、この作品を見て、気功を使ってＴＳできないかと？<BR>一瞬、真面目に考えちゃいました。（馬鹿です）<BR>無理やり気の流れを逆にして気のトレーニングするとか。（ＴＳする前に体を壊すと思いますか）<BR>あと、基本的に男性は陽の気、女性は陰の気ですので、陰の気の強い場所にずっと居って、自分が女性になる姿をイメージする方法です。<BR>たぶん、絶対無理でしょ。（笑）<BR><BR>それでは、次回を楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>STW</strong>  <i>2002/01/04 22:25:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010150728gborng&id2=994776448jfovsv&ff=p">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010150728gborng_id2_994776448jfovsv_ff_p.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����܂��Ă��߂łƂ��������܂��B�����������P���߂r�s�v�ł����B<BR>���������ςł����ˁE�E�E�B<BR>�ł��ǂ��Ȃ��ł���܂��傤���H<BR>�܂����E�E�E�H<BR><BR>�Ă�������������������Ƃ͂����A�ڍ�����Ƀ{�R�{�R�ɂ����Ȃ�āA�u�Ă񁛂܁v�́A���j���灛��f�i�Ƃ����܂����E�E�E�B�i���j<BR><BR>�ʂ����āA�O�_�Ẳ^����I�H�i�����܂���E�E�E�B�j<BR>
+あけましておめでとうございます。ｗａｓｓａ１改めＳＴＷでっす。<BR>雫さんも大変でしたね・・・。<BR>でもどうなるんでありましょうか？<BR>まさか・・・？<BR><BR>翔さんも自分が悪かったとはいえ、芹香さんにボコボコにされるなんて、「てん○ま」の、○史＆千○を彷彿とさせました・・・。（汗）<BR><BR>果たして、三神翔の運命や！？（すいません・・・。）<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��[�ӂ���</strong>  <i>2002/01/05 18:42:22</i><br></td>
+<td  bgcolor="#00FFCC"><strong>るーふぁす</strong>  <i>2002/01/05 18:42:22</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010223742lyaapj&id2=994776448jfovsv&ff=p">APPEND 43</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010223742lyaapj_id2_994776448jfovsv_ff_p.cgi">APPEND 43</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ł��������āA���肪�Ƃ��������܂��B<BR><BR>���肫��l<BR>�C�̗���𗐂ꂳ�����Ⴄ�ƁA�a�C�ɂȂ����Ⴂ�܂���i��<BR>�ł��A�����o����Ƃ�����A���Ȃ��̎���ɂ����邩������܂���B<BR>���j�̎q�ȁA���̎q���E�E�E<BR>&gt;���O<BR>���̍�i�ł́A�O���u�ɓo�ꂷ����ʂ̕��Ƃ��Ď��グ�Ă��܂��B<BR>�j���ɂ͋���O�A�q���ɂ͐Ԑ�O�A�����ɂ́E�E�E<BR><BR>�r�s�v�l<BR>���܂����E�E�E�H<BR>�ǂ��Ȃ��ł��傤�˂��B<BR>�C�ɂȂ�܂��˂��i��
+読んでいただいて、ありがとうございます。<BR><BR>きりきり様<BR>気の流れを乱れさせちゃうと、病気になっちゃいますよ（笑<BR>でも、もし出来るとしたら、あなたの周りにも居るかもしれません。<BR>元男の子な、女の子が・・・<BR>&gt;銀仙丹<BR>この作品では、三国志に登場する効果の物として取り上げています。<BR>男性には金仙丹、子供には赤仙丹、女性には・・・<BR><BR>ＳＴＷ様<BR>＞まさか・・・？<BR>どうなるんでしょうねぇ。<BR>気になりますねぇ（笑
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2002/01/11 10:38:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2002/01/11 10:38:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010713115qjjianb&id2=994776448jfovsv&ff=p">APPEND 44</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010713115qjjianb_id2_994776448jfovsv_ff_p.cgi">APPEND 44</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�҂����b�゠��܂����B�΂߂����ƍĉ�ł��B<BR>�Ȃ񂾂��������W�J�ɂȂ��ė��܂������A�Ƃ肠�������h�ҏI���Ƃ������Ƃł΂߂����Ƃ͂������񂨕ʂ�Ȃ̂��ȁH<BR>�ł��A�܂��o�b���̔Z���݂�Ȃ̊��􂪕`�����̂ł��ˁB���������̍�i�̊y���݂ł�����̂ł���΂��Ă��������B<BR>�C���Ɋy���݂ɑ҂��Ă܂��̂ł���΂��Ă��������B
+待った甲斐ありました。つばめちゃんと再会です。<BR>なんだか怪しい展開になって来ましたが、とりあえず合宿編終了ということでつばめちゃんとはいったんお別れなのかな？<BR>でも、またＰＣ部の濃いみんなの活躍が描かれるのですね。そこがこの作品の楽しみでもあるのでがんばってください。<BR>気長に楽しみに待ってますのでがんばってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���</strong>  <i>2002/01/13 22:04:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>らま</strong>  <i>2002/01/13 22:04:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010927061wdroji&id2=994776448jfovsv&ff=p">APPEND 45</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010927061wdroji_id2_994776448jfovsv_ff_p.cgi">APPEND 45</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂩋v�X�Ɋ��z�ł��i��΁j�B<BR>��P�O�b�܂œǂ݂܂����B���h�ҁA�Ă�����J�����ςȂ��ł����ˁ[�B�ʂ��čl���Ă݂�ɁA�͂��g���Ă݂����Ȃ����}�W�V�������������ǁA�ČN�̐S�𖳎����Ă�������ɂ����i�x���Ė�����܂����j�ڍ��₨�ꂳ��ɂ��y����ʍ߂͂���Ǝv���܂��B�������Ȃ�Â��b��ł����܂���i�Ӂj<BR><BR>�Ƃ���ŁA���h�͏I��܂������A�܂��ċx�݂͑����̂ł��傤���H<BR>����A�Ă����Ƀv�[���Ƃ��s���ė~�����ȁ`�A�Ƃ����Ďv�����肵�Ă܂��c�i�΁j<BR>�����F�����������Ă����A�s�r�������񑩁i�H�j�̖����̂��q�l�͂܂��Ȃ̂ł��傤���H�����������ɒ�R�̂����Ă����i���ڍ��B�j�̔�����@���ɁH�H
+なんか久々に感想です（苦笑）。<BR>第１０話まで読みました。合宿編、翔ちゃん苦労しっぱなしでしたねー。通して考えてみるに、力を使ってみたくなったマジシャンも悪いけど、翔君の心を無視しておもちゃにした（騙して薬を飲ませた）芹香やお母さんにも軽からぬ罪はあると思います。＊いきなり暗い話題ですいません（謝）<BR><BR>ところで、合宿は終りましたが、まだ夏休みは続くのでしょうか？<BR>是非、翔ちゃんにプールとか行って欲しいな～、とかって思ったりしてます…（笑）<BR>ｐｓ：そう言えば翔ちゃん、ＴＳっ娘お約束（？）の毎月のお客様はまだなのでしょうか？随分女性化に抵抗のある翔ちゃん（＆芹香達）の反応や如何に？？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l����</strong>  <i>2002/01/13 22:22:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｍｉｃ</strong>  <i>2002/01/13 22:22:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010928154bnxtd&id2=994776448jfovsv&ff=p">APPEND 46</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010928154bnxtd_id2_994776448jfovsv_ff_p.cgi">APPEND 46</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��P�b�Z���搶�́u���̒m�荇���Ő�剻�����邩��Љ��������Ă����Ƃ��邩��A�������̕��֍s���Ă݂�Ɨǂ��B�v���āu���Ɓv�H
+第１話校長先生の「私の知り合いで専門化がいるから紹介状を書いておくとするから、こっちの方へ行ってみると良い。」って「専門家」？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l����</strong>  <i>2002/01/13 22:59:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｍｉｃ</strong>  <i>2002/01/13 22:59:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010930399rafpnu&id2=994776448jfovsv&ff=p">APPEND 47</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010930399rafpnu_id2_994776448jfovsv_ff_p.cgi">APPEND 47</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��S�b�u�΁`���B����Ȃ��Ƃ��Ă邩�琬�щ��������Ȃ񂾂�B�v�E�E�E�����Ă��邩��E�E�E
+第４話「ば～か。そんなこといてるから成績下がる一方なんだよ。」・・・言っているから・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l����</strong>  <i>2002/01/14 00:11:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｍｉｃ</strong>  <i>2002/01/14 00:11:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010934684cmidg&id2=994776448jfovsv&ff=p">APPEND 48</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010934684cmidg_id2_994776448jfovsv_ff_p.cgi">APPEND 48</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��T�b�u�ւ��A�ȊO���Ȃ��B�N�݂����ȉ��������A�o�b���ɋ���Ȃ�āB���Ă��A�N�ŏ����狏���H�v�ӊO<BR>�u�܂�����Ȃ��ƌ����Ă�́H���̏�ԂŒj�q�X�ߎ��Œ��ւ���Ȃ�āA�T�̓��ꂽ��ɓ����Ă����悤�Ȃ��̂�B�v�T��<BR>�u����A����ς�A�ł�Ȃ���悩�����B�v�o�Ȃ���or�ڂ�Ȃ���<BR>��U�b�u���̓�l�ɂ́A��΂ɒ����čs������_����B�܂��ɁA�P�_���m������B�v�t����<BR>��V�b�u����A�����݂����ˁB���̘b�́A�܂���ł��Ă������A�������ɍs�����番���邩�B�v����<BR>�u���H�͍���ł��炸�A�v�����<BR>��P�O�b�u�ȊO���������ȁH�v�ӊO<BR><BR>�ʔ����ǂ܂��Ē����܂����B<BR>�g�������ł͂Ȃ��āA�ǂ�ł��鎞�̗���𒆒f����Ȃ��ׂɁA�뎚�͏C�����Ē��������ł��B<BR><BR><BR><BR><BR><BR>
+第５話「へえ、以外だなあ。君みたいな可愛い娘が、ＰＣ部に居るなんて。ってか、君最初から居た？」意外<BR>「まだそんなこと言ってるの？今の状態で男子更衣室で着替えるなんて、狼の入れた柵に入っていくようなものよ。」狼を<BR>「うん、やっぱり、でらなきゃよかった。」出なきゃor載らなきゃ<BR>第６話「あの二人には、絶対に着いて行っちゃダメよ。まさに、ケダモノだから。」付いて<BR>第７話「あら、着たみたいね。この話は、また後でっていうか、向こうに行ったら分かるか。」来た<BR>「道路は込んでおらず、」混んで<BR>第１０話「以外だったかな？」意外<BR><BR>面白く読ませて頂きました。<BR>揚げ足取りではなくて、読んでいる時の流れを中断されない為に、誤字は修正して頂きたいです。<BR><BR><BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l����</strong>  <i>2002/01/14 00:38:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｍｉｃ</strong>  <i>2002/01/14 00:38:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1010936303wrqgih&id2=994776448jfovsv&ff=p">APPEND 49</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1010936303wrqgih_id2_994776448jfovsv_ff_p.cgi">APPEND 49</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-past days �O�ҁA�u�����Č����ĂȂ��́B���R����Ȃ��B�v�����Ă��Ȃ�����<BR><BR>�u����𒅂Ă݂��l�́A�ȊO�ɂ��������Ă���킯�ŁE�E�E�E�B���A���̏��̎q�������琺�|�������Ȃ��āE�E�E�i���V�X�g����Ȃ���l�E�E�E�E�E�v�ӊO�ɂ�
+past days 前編、「だって言ってなもの。当然じゃない。」言っていないもの<BR><BR>「それを着てみた僕は、以外にも似合っているわけで・・・・。あ、この女の子だったら声掛けたいなって・・・ナルシストじゃないよ僕・・・・・」意外にも
 </td></tr>
 </table></a><br>
 

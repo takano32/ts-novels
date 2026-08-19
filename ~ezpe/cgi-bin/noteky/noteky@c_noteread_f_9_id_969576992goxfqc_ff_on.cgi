@@ -1,202 +1,202 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�G�k�{�[�h/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>雑談ボード/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=9&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_9_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=9&id=969576992goxfqc&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=9&ff=on">�G�k�{�[�h</a>]<br>
+[<a href="noteky@c_noteread_f_9_id_969576992goxfqc_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_9_ff_on.cgi">雑談ボード</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">BAF����̃R�����ɂ���</font><br>
+<font size="+2" color="#0000FF">BAFさんのコラムについて</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/09/22 07:56:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/09/22 07:56:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=969576992goxfqc&id2=969576992goxfqc&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_969576992goxfqc_id2_969576992goxfqc_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-BAF����̘A�ڃR�����uTS!! I LOVE YOU�v�ɂ��Ċ��z�E�ӌ������̂��߂̏��݂��܂����B<BR>���Ȃ��̌�ӌ����������������Ȃ���
+BAFさんの連載コラム「TS!! I LOVE YOU」について感想・意見交換のための場を設けました。<BR>あなたの御意見お聞かせ下さいなっ☆
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/09/22 08:00:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/09/22 08:00:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=969577254dvutej&id2=969576992goxfqc&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_969577254dvutej_id2_969576992goxfqc_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������݃e�X�g
+書き込みテスト
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/09/22 08:05:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/09/22 08:05:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=969577530uyjwm&id2=969576992goxfqc&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_969577530uyjwm_id2_969576992goxfqc_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�i�����f������̓]�ځj<BR><BR>���̊Ԃ�BAF����̘A�ڃR�������ڂ��f�ڂ��܂����B<BR><BR>���[�ށA�ǎ҂͑S���j�����Ƃ����O��ł��ˁB����A���ۖ��Ƃ��Ăقڂ������Ǝv���܂����ǁB(^^;<BR>���̃z�[���y�[�W�͂��Ƃ��Ɠǎ҂̐��ʂ���Ȃ��悤�ɍ���Ă������肾������ł����A���̎q����i�̔M���I�ȃt�@���͒j���������悤�ł��B�����̏ꍇ�A���������̂́u��������Ȃ����ǁA�M������قǂ���Ȃ��v�Ƃ����l�������悤�ŁB<BR>���Ȃ݂ɐg�߂ȏ����ɕ����Ă݂����Ƃ�����܂����A�݂�ȁ������ɖG���������邱�Ƃ͂��邻���ł��B���A���̃X�g���C�N�]�[���������B���ɂ́u�����̋��G���ċC���������킯�Ȃ������v�Ȃ�ăh���C�Ȉӌ����B����Ȗ��̂Ȃ����ƌ�������_�����悤�B�i�΁j
+（総合掲示板からの転載）<BR><BR>語りの間にBAFさんの連載コラム二回目を掲載しました。<BR><BR>うーむ、読者は全員男性だという前提ですね。いや、実際問題としてほぼそうだと思いますけど。(^^;<BR>このホームページはもともと読者の性別を問わないように作ってきたつもりだったんですが、女の子化作品の熱狂的なファンは男性が多いようです。女性の場合、そういうのは「嫌いじゃないけど、熱狂するほどじゃない」という人が多いようで。<BR>ちなみに身近な女性に聞いてみたことがありますが、みんな♂→♀に萌えを感じることはあるそうです。が、そのストライクゾーンが狭い。中には「自分の胸触って気持ちいいわけないじゃん」なんてドライな意見も。そんな夢のないこと言っちゃダメだよう。（笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:gnekono@pop07.odn.ne.jp" target="_blank">�L��@�ۑ���</a></strong>  <i>2000/09/22 19:40:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:gnekono@pop07.odn.ne.jp" target="_blank">猫野　丸太丸</a></strong>  <i>2000/09/22 19:40:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=969619239fmstps&id2=969576992goxfqc&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_969619239fmstps_id2_969576992goxfqc_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��3��z���z<BR>�@�j���l�O�Łu�G���G���v�����̂����������s���ł�������j���̐��~���̂��C�����������肷�鏗���͑����ł��傤�B<BR>�@�܂����~�łȂ��A������u���킢���v�Ƃ���������A�ł��j�ɂƂ��Ă��\�Ԃł͂Ȃ��u�G���v�ł��ˁA�K�v�Ȃ̂́i�����ł��悭�������Ă��Ȃ��j�B�i�f���Ƃ��Ɓu�G���v�ĔL�삪�g���̂��p���������P��ł͂���j
+【第3回】感想<BR>　男が人前で「萌え萌え」言うのがそもそも不快であったり男性の性欲自体が気味悪かったりする女性は多いでしょう。<BR>　まず肉欲でなく、いわゆる「かわいい」とも相反する、でも男にとっても欺瞞ではない「萌え」ですね、必要なのは（自分でもよく分かっていない）。（断っとくと「萌え」て猫野が使うのも恥ずかしい単語ではある）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>BAF</strong>  <i>2000/09/22 22:30:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=969629419nnrxq&id2=969576992goxfqc&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_969629419nnrxq_id2_969576992goxfqc_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-<BR>&gt;�u�G���v�ĔL�삪�g���̂��p���������P��ł͂���<BR><BR>���́A�����ł��i�΁j�B�R�������n�߂�ɂ������āA��Ԏg�����Ƃɖ��������t�ł�����܂��B<BR><BR>�������A�����Ďg���Ă݂܂����B����́A<BR>���j���l�O�Łu�G���G���v�����̂����������s���ł�������j���̐��~���̂��C�����������肷�鏗���͑����ł��傤�B<BR>�܂��ɂ��ꂪ���R�������肵�܂��B���̃C���[�W�𕥐@�������Ǝv�����̂ł���B�@<BR>�u�G����v���Č��X�������Y��Ȍ��t�������Ǝv����ł��B�ł��ŋ߁A���ꂪ�䂪��ł�C�������ł��B<BR>�Ȃ�ƌ������A�����ł����u�G���G���v���āu���������v�Ɠ��`��Ŏg���Ă���C��������Č���������Ȋ����E�E�E�i��΁j�B<BR>�Ƃ����킯�ŁA�u�G���v���Č��t�̌���������A�V��j���ɗ������ꈤ����s�����𓾂�悤�ɂ���Ƃ����̂��R�����̉B�ꂽ�e�[�}�������肷���ł��i�΁j�B
+<BR>&gt;「萌え」て猫野が使うのも恥ずかしい単語ではある<BR><BR>実は、同感です（笑）。コラムを始めるにあたって、一番使うことに迷った言葉でもあります。<BR><BR>しかし、あえて使ってみました。それは、<BR>＞男が人前で「萌え萌え」言うのがそもそも不快であったり男性の性欲自体が気味悪かったりする女性は多いでしょう。<BR>まさにこれが理由だったりします。このイメージを払拭したいと思ったのですよ。　<BR>「萌える」って元々すごく綺麗な言葉だったと思うんです。でも最近、それがゆがんでる気がするんです。<BR>なんと言うか、私見ですが「萌え萌え」って「ムラムラ」と同義語で使われている気がするって言うかそんな感じ・・・（苦笑）。<BR>というわけで、「萌え」って言葉の誤解を解き、老若男女に理解され愛され市民権を得るようにするというのもコラムの隠れたテーマだったりするんです（笑）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>BAF</strong>  <i>2000/09/23 02:23:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=969643382yprtuu&id2=969576992goxfqc&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_969643382yprtuu_id2_969576992goxfqc_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����������A�̐S�Ȃ��Ə����̖Y��Ă܂����B���d�F����f������Ă����������肪�Ƃ��������܂��B���ꂩ������i���Ă����܂��̂ł�낵�����肢�������܂��B
+わっわっわっ、肝心なこと書くの忘れてました。八重洲さん掲示板作っていただきありがとうございます。これからも精進していきますのでよろしくお願いいたします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�b��������</strong>  <i>2000/09/23 08:38:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>Ｃｉｎｄｙ</strong>  <i>2000/09/23 08:38:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=969665935mbwvbt&id2=969576992goxfqc&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_969665935mbwvbt_id2_969576992goxfqc_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������ł��̂ŁA�����v�������Ȃǂ��B<BR>���l�Ƃ͌����Ȃ������m��Ȃ��ł����A���Ƒ����̐l�Ȃ����͏��̐l�ɂ��E�P���i�Ƃ����̂́A���ɂ����͂������Ă���񂶂�Ȃ��ł��傤���B<BR>�v���̓��͏��̐l���猩��΃n�[�����ł��傤���i�΁j<BR>���܂͊i�����ł�����܂������i�Ⴆ�΃h���S���{�[���I�ȁH�j<BR>�u���Ⴀ�I�������̖G���͂ǂ��Ȃ�񂾁I�v�ƌ�����ƕ�����Ȃ���ł����ǁB<BR>�܂薜�l�󂯂ƖG���i����Ӗ�����̓s���|�C���g�ȁH�j�ƌ����̂������΂Ȋ����������Ă��āA����̗���������̂ł����āA���l�󂯎��̂͂���������ł͂Ȃ��C�����܂��B<BR><BR>���āA���͂����܂ł��v�z�Ƃ���Ȃ���ŁA�͂����肵�������̈ӌ�������󂶂Ⴀ��܂���B���̏�̎v�������S�Ăł�����B<BR>�����瑼�̐l�̗l�X�ȍl����������̂͏����Ɋy�����ł����A��̎��̘b�͂����܂ŎQ�l���x�ɗ����ĉ������ˁB���_����Ă��������܂���i�΁j<BR><BR><BR>���������΂��̊ԍl������ł����A���̃e�[�}�̂��b���Ėʔ������ɐ��]���O�ƌ���o���o���ɂ݂�ƁA�ǂ��ɂ��s�v�c�ȗv�f���Ȃ���ł���ˁB�o��l���̐��ʂ��ς���Ă��邾���ŁB���ꂼ��ɂ͂��肦��󋵂Ȗ�ŁB<BR>�����A�l�����̂͂��ꂾ���Ȃ�ł����ǁc�B
+せっかくですので、私が思った事などを。<BR>万人とは言えないかも知れないですが、割と多くの人ないしは女の人にもウケる作品というのは、大抵他にも魅力を持っているんじゃないでしょうか。<BR>革命の日は女の人から見ればハーレムでしょうし（笑）<BR>らんまは格闘物でもありましたし（例えばドラゴンボール的な？）<BR>「じゃあオレたちの萌えはどうなるんだ！」と言われると分からないんですけど。<BR>つまり万人受けと萌え（ある意味それはピンポイントな？）と言うのが正反対な感じを持っていて、それの両立が難しいのであって、万人受け自体はそう難しい事ではない気がします。<BR><BR>って、私はあくまでも思想家じゃないんで、はっきりした自分の意見がある訳じゃありません。その場の思いつきが全てですから。<BR>だから他の人の様々な考え方を見るのは純粋に楽しいですし、上の私の話はあくまで参考程度に流して下さいね。反論されても答えられません（笑）<BR><BR><BR>そう言えばこの間考えたんですが、このテーマのお話って面白い事に性転換前と後をバラバラにみると、どこにも不思議な要素がないんですよね。登場人物の性別が変わっているだけで。それぞれにはありえる状況な訳で。<BR>いえ、考えたのはそれだけなんですけど…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�a�`�e</strong>  <i>2000/09/24 01:40:21</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＢＡＦ</strong>  <i>2000/09/24 01:40:21</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=969727221wxiogsq&id2=969576992goxfqc&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_969727221wxiogsq_id2_969576992goxfqc_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-Cindy���񂲊��z���肪�Ƃ��������܂��B<BR><BR>�����ɂ����͂������Ă���񂶂�Ȃ��ł��傤���B<BR><BR>�����������΂��̊ԍl������ł����A���̃e�[�}�̂��b���Ėʔ�������<BR>�����]���O�ƌ���o���o���ɂ݂�ƁA�ǂ��ɂ��s�v�c�ȗv�f���Ȃ����<BR>������ˁB�o��l���̐��ʂ��ς���Ă��邾���ŁB���ꂼ��ɂ͂��肦<BR>����󋵂Ȗ�ŁB<BR><BR>���́A���̂��ӌ��͎���ȍ~�̃e�[�}�Ƃ��āA�����l�@���悤�Ǝv���Ă������̂ł���܂��B�ł��̂ō������Ă��܂��܂��ƃl�^�������Ȃ��Ă��܂��܂��i�΁j�B�Ƃ����킯�ł��̂��Ƃ͂����������҂����������B<BR><BR>
+Cindyさんご感想ありがとうございます。<BR><BR>＞大抵他にも魅力を持っているんじゃないでしょうか。<BR><BR>＞そう言えばこの間考えたんですが、このテーマのお話って面白い事に<BR>＞性転換前と後をバラバラにみると、どこにも不思議な要素がないんで<BR>＞すよね。登場人物の性別が変わっているだけで。それぞれにはありえ<BR>＞る状況な訳で。<BR><BR>実は、このご意見は次回以降のテーマとして、私も考察しようと思っていたものであります。ですので今書いてしまいますとネタが無くなってしまいます（笑）。というわけでこのことはもう少しお待ちください。<BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">���c����</a></strong>  <i>2000/10/05 21:56:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">原田聖也</a></strong>  <i>2000/10/05 21:56:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=970750572xeugt&id2=969576992goxfqc&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_970750572xeugt_id2_969576992goxfqc_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�A�ډ����ł��ˁB(^^)<BR><BR>����S��<BR><BR>�m���Ɂg���l�����h��ڎw���Ȃ�A�s�r�̎g���ǂ���ɂ��[���C�����Ȃ���΂Ȃ�Ȃ���������܂���ˁB�u���ڂ��āi����ւ���āj�������Ƃ���肽������v�Ƃ������W�J�ł��ƁA���ʂ̕��͂܂��h���Ȃ���ł��傤����B<BR><BR>���̗��z�́A�A�C�h���⏗�D���񂪉��������Ȃ�悤�ȁi�j���������j�L�������o�Ă�����e�ł��ˁB<BR>�s�r�𕨌����鍜�g�݂̂ЂƂƂ��������ɂł���΁A�L�����N�^�[�̖��͂������o������W�J�ɐ[�݂��������肵�ėǂ��̂ł́A�Ƃ��v���܂��B<BR><BR>������i��T��j�\��<BR>�����u�j���̎v�l�p�^�[���������������̊���v�͍D���ł��B<BR>������y���݂ɂ��Ă��܂��B
+連載快調ですね。(^^)<BR><BR>＞第４回<BR><BR>確かに“万人うけ”を目指すなら、ＴＳの使いどころにも充分気をつけなければならないかもしれませんね。「乗り移って（入れ替わって）悪いことをやりたい放題」といった展開ですと、普通の方はまず敬遠なさるでしょうから。<BR><BR>私の理想は、アイドルや女優さんが演じたくなるような（男性→女性）キャラが出てくる内容ですね。<BR>ＴＳを物語を作る骨組みのひとつという感じにできれば、キャラクターの魅力を引き出せたり展開に深みをだせたりして良いのでは、とも思います。<BR><BR>＞次回（第５回）予告<BR>私も「男性の思考パターンを持った女性の活躍」は好きです。<BR>次回も楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�a�`�e</strong>  <i>2000/10/07 20:11:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＢＡＦ</strong>  <i>2000/10/07 20:11:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=970917072yufvw&id2=969576992goxfqc&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_970917072yufvw_id2_969576992goxfqc_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���c���񊴎ӂł��B<BR><BR>���u���ڂ��āi����ւ���āj�������Ƃ���肽������v�Ƃ������W�J�ł��ƁA���ʂ̕��͂܂��h���Ȃ���ł��傤����B<BR><BR>�����ł��B�����������̂����肾�Ƃ͎v���̂ł����A���삪�������I�ɂȂ��Ă������˂Ȃ��ł���ˁB<BR><BR>�����̗��z�́A�A�C�h���⏗�D���񂪉��������Ȃ�悤�ȁi�j���������j�L�������o�Ă�����e�ł��ˁB<BR><BR>����́A�ǂ��ł��ˁI�\�ギ�炢�̏����ɉ��Z�w������悤�ɁA��i���\�z���Ă����Ƃ����l����������Ζʔ�����i�ɂȂ邩������܂���ˁB<BR>
+原田さん感謝です。<BR><BR>＞「乗り移って（入れ替わって）悪いことをやりたい放題」といった展開ですと、普通の方はまず敬遠なさるでしょうから。<BR><BR>同感です。こういうものもありだとは思うのですが、視野が狭く閉鎖的になっていきかねないですよね。<BR><BR>＞私の理想は、アイドルや女優さんが演じたくなるような（男性→女性）キャラが出てくる内容ですね。<BR><BR>これは、良いですね！十代ぐらいの女性に演技指導するように、作品を構築していくという考え方をすれば面白い作品になるかもしれませんね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2000/10/09 00:10:16</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2000/10/09 00:10:16</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=971017816ifyjrv&id2=969576992goxfqc&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_971017816ifyjrv_id2_969576992goxfqc_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���`�`��A�{���ɐF�X�l���������܂��B<BR>�l�Ԃ��Ă���ς�\�l�\�F�ł�����A�D�݂��F�X�����ŁA���������������ς�F�X�l���Ă��鎖������ł��傤����E�E�E�E<BR>���l�Ɏ󂯂�Ƃ����̂͂��Ȃ����Ǝv���܂��B<BR>�������A����ς菑�����ɂƂ��ĊF����Ɏ󂯓��������̂��������Ǝv���Ă���͖̂{�����Ǝv���܂��B<BR>�I�W�T���̓o�J�Ȃ̂ł��܂������Ƃ��l����Ɠ����O�`���O�`���ɂȂ�̂ŏ�肭�����܂��񂪁A���̃R���������Ȃ���F����ƕ׋����Ă������Ǝv���܂��B<BR><BR>�Ȃ񂩁A�����͂���̂��Ƃ������Ă��܂��Ă����܂���B<BR>��������҂��Ă��܂��B
+う～～ん、本当に色々考えさせられます。<BR>人間ってやっぱり十人十色ですから、好みも色々ある訳で、それをやる方もやっぱり色々考えている事があるでしょうから・・・・<BR>万人に受けるというのはかなり難しいと思います。<BR>しかし、やっぱり書く側にとって皆さんに受け入れられるものを書こうと思っているのは本当だと思います。<BR>オジサンはバカなのであまり難しいことを考えると頭がグチャグチャになるので上手く言えませんが、このコラムを見ながら皆さんと勉強していこうと思います。<BR><BR>なんか、見当はずれのことを書いてしまってすいません。<BR>次回も期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�a�`�e</strong>  <i>2000/10/13 22:13:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＢＡＦ</strong>  <i>2000/10/13 22:13:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=971442782xdmblto&id2=969576992goxfqc&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_971442782xdmblto_id2_969576992goxfqc_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ƃ��������܂��B<BR>�p����A���z�{���ɂ��肪�Ƃ��������܂��B<BR>�����ł��ˁB���l�Ɏ󂯂���Ă����̂͑傫���o�߂�����������ȂƎv��Ȃ��ł��Ȃ��ł��B<BR>�����A�󂯂邩�ǂ����͂Ƃ������A�N�����Ă��s�����Ɋ����Ȃ��悤�Ȃ��̂���肽�����Ă��ƂȂ�ł��B<BR>�ǂ�ȍ�i�ł��^�ۗ��_����Ǝv���̂ŁA���������Ƃ͎v����ł����ǂˁB
+ありがとうございます。<BR>角さん、感想本当にありがとうございます。<BR>そうですね。万人に受けるっていうのは大きく出過ぎちゃったかなと思わないでもないです。<BR>ただ、受けるかどうかはともかく、誰が見ても不愉快に感じないようなものが作りたいってことなんです。<BR>どんな作品でも賛否両論あると思うので、これも難しいとは思うんですけどね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��@�ۑ���</strong>  <i>2000/11/03 00:16:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野　丸太丸</strong>  <i>2000/11/03 00:16:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=973178164kjcks&id2=969576992goxfqc&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_973178164kjcks_id2_969576992goxfqc_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����l�X�Ȏ��_�����肪�Ƃ��������܂��B����͓���ł��ˁ`�B<BR>���P���ōs���͂������ă��C���h�ŏc�����s�ɓ����܂��L�����N�^�[<BR>�͂Ȃ�Ƃ��z���ł������ł����A<BR>�����ʂ̏��������i�Y��Ă���悤�Ȃ��ƂɋC���g���Ă݂���<BR>�Ȃǂ̔����ȓ_�ɔz�����Ă����������ɂȂ�قǂƎv�킹��I<BR>�@�Ȃ��Ȃ����ł��B�ł��A�`�������W���Ă݂������̂ł��ˁB
+　いつも様々な視点をありがとうございます。今回は難しいですね～。<BR>＞単純で行動力があってワイルドで縦横無尽に動きまわるキャラクター<BR>はなんとか想像できそうですが、<BR>＞普通の女性が普段忘れているようなことに気を使ってみたり<BR>などの微妙な点に配慮してしかも女性になるほどと思わせる！<BR>　なかなか難問です。でも、チャレンジしてみたいものですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�a�`�e</strong>  <i>2000/11/03 21:08:13</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＢＡＦ</strong>  <i>2000/11/03 21:08:13</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=973253294qlxevy&id2=969576992goxfqc&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_973253294qlxevy_id2_969576992goxfqc_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�L�삳�񂷂݂܂���B<BR>���̕������ł͐����͖����ł���ˁB<BR>��̓I�ȗ���o����Ηǂ��̂ł��傤���A������Ǝv�����Ȃ�������ł��B<BR>���ہA�����̂͊ȒP�ł��A���ƂȂ������ςł���ˁB<BR>�����Ă͂����ł����A���������Ă��܂���ł��B<BR>�{���ɐ\����Ȃ��ł��B
+猫野さんすみません。<BR>あの文だけでは説得力無いですよね。<BR>具体的な例を出せれば良いのでしょうが、ちょっと思いつかなかったんです。<BR>実際、言うのは簡単でも、やるとなったら大変ですよね。<BR>判ってはいるんですが、ついつい書いてしまうんです。<BR>本当に申し訳ないです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">���c����</a></strong>  <i>2000/11/06 11:58:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">原田聖也</a></strong>  <i>2000/11/06 11:58:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=973479509lopjhy&id2=969576992goxfqc&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_973479509lopjhy_id2_969576992goxfqc_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���p��ɂ��āu�s�r�i�e�j�v�u�s�f�i�e�j�v�u�f�f�v<BR>���܂�A����̎����ǂ��ɒu�����Ƃ������ƂŁA<BR>���g��������΂����̂ł͂Ȃ����ƁB<BR><BR>�����ł��ˁA���������̂͏d�v���Ǝv���܂��B<BR>�u�P�ɋ敪���邽�߁v�����u��҂̈Ӑ}�𖾊m�ɂ��邽�߁v�Ƃ����v�f�𖞂������߂ɂ͗p��̎��R�x�͑�؂��Ǝv���܂��B<BR><BR>BAF����́u�f�����������f�����v�ǂ�ł݂����ł��B<BR><BR>�����ʂ̏��������i�Y��Ă���悤�Ȃ��ƂɋC���g���Ă݂���Ƃ�<BR><BR>�t�Ɂu���ʂ̏������C�Â��Ȃ��悤�Ȃ��Ƃɂ��Ă��ӎ����s���͂��v�i��F�j�̍l���邱�Ƃ��킩��j�Ƃ����̂͑z�����₷�����ł����ǁB<BR>�����̈ӌ�����������ƂƂ肢��邱�Ƃ���؂ł��ˁB
+○用語について「ＴＳ（Ｆ）」「ＴＧ（Ｆ）」「ＧＧ」<BR>＞つまり、物語の主題をどこに置くかということで、<BR>＞使い分ければいいのではないかと。<BR><BR>そうですね、こういうのは重要だと思います。<BR>「単に区分するため」よりも「作者の意図を明確にするため」という要素を満たすためには用語の自由度は大切だと思います。<BR><BR>BAFさんの「ＧｅｎｄｅｒＧａｐ」読んでみたいです。<BR><BR>＞普通の女性が普段忘れているようなことに気を使ってみたりとか<BR><BR>逆に「普通の女性が気づかないようなことについても意識が行き届く」（例：男の考えることがわかる）というのは想像しやすそうですけど。<BR>女性の意見をしっかりととりいれることが大切ですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�p����</strong>  <i>2000/11/14 22:19:44</i><br></td>
+<td  bgcolor="#00FFCC"><strong>角さん</strong>  <i>2000/11/14 22:19:44</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=9&id=974207984isgqi&id2=969576992goxfqc&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_9_id_974207984isgqi_id2_969576992goxfqc_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�׋������Ă��������Ă܂��I<BR><BR>����A�����͂��ꂪ�o���Ă���̂��H���Ǝv�킳�ꂳ�����̂΂���ł��B<BR>���ۂ́A�o���ĂȂ��̂ł����E�E�E�E�E�E<BR>����ʂ΂���̐l�Ԃł�����E�E�E�E�E<BR><BR>����́A�\�����@�ɂ��Ăł��ˁI<BR>������A�F�X����܂����A�{�L���u�����[�̂Ȃ��I�W�T���ɂ͐h�����̂ł��ˁI<BR>�G�������猩���܂܂����̒ʂ�ł����ǁA���͂ł͐F�X�Ȍ����񂵂��o���܂���ˁI<BR>���ꂪ�A�ǂ��Ƃ���ł���A�I�W�T���ɂ͐h���Ƃ���ł�����܂��B<BR><BR>�Ȃ񂾂��A�_�_������Ă��܂��܂����ˁI<BR>�a�`�e����͂����Ɛ[���Ƃ���������Ă���̂ɁE�E�E�E�E<BR>�܂��܂��A�׋��s���ł��B<BR>���ꂩ����A�׋������Ă��������܂��B
+勉強させていただいてます！<BR><BR>毎回、自分はこれが出来ているのか？っと思わされされるものばかりです。<BR>実際は、出来てないのですが・・・・・・<BR>上っ面ばかりの人間ですから・・・・・<BR><BR>今回は、表現方法についてですね！<BR>これも、色々ありますが、ボキャブラリーのないオジサンには辛いものですね！<BR>絵だったら見たままがその通りですけど、文章では色々な言い回しが出来ますよね！<BR>それが、良いところであり、オジサンには辛いところでもあります。<BR><BR>なんだか、論点がずれてしまいましたね！<BR>ＢＡＦさんはもっと深いところを言っているのに・・・・・<BR>まだまだ、勉強不足です。<BR>これからも、勉強させていただきます。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="9">
 <input type="hidden" name="id" value="969576992goxfqc">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=9&ff=on">�G�k�{�[�h</a>]<br>
+[<a href="noteky@c_noteidx_f_9_ff_on.cgi">雑談ボード</a>]<br>
 
 </p>
 </body>

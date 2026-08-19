@@ -1,261 +1,261 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=975501325twhkw&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_975501325twhkw_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���x��</font><br>
+<font size="+2" color="#0000FF">昼休み</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/29213107/hiruyasumi.htm" target="_blank">[��i��ǂނɂ͂������N���b�N]</a></strong>  <i>2000/11/29 21:35:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/29213107/hiruyasumi.htm" target="_blank">[作品を読むにはここをクリック]</a></strong>  <i>2000/11/29 21:35:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975501325twhkw&id2=975501325twhkw&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975501325twhkw_id2_975501325twhkw_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�ǂ����_�[�N�ȕ��͋C���Y�����i�B�ς���Ă��܂��������ƕς���Ă��܂������͂���l�������񂾂�F�����邳�܂����܂��`����Ă��܂��B
+【推薦文】どこかダークな雰囲気が漂う小品。変わってしまった自分と変わってしまった周囲を主人公がだんだん認識するさまがうまく描かれています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��_��</strong>  <i>2000/11/29 21:47:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>矢治浩平</strong>  <i>2000/11/29 21:47:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975502051mmthr&id2=975501325twhkw&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975502051mmthr_id2_975501325twhkw_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���܂łȂ������p�^�[������Ȃ�����?<BR>������Ă������?
+今までなかったパターンじゃないかな?<BR>言霊ってやつっすか?
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���������</strong>  <i>2000/11/30 00:19:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>たかしんに</strong>  <i>2000/11/30 00:19:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975511143osyqufk&id2=975501325twhkw&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975511143osyqufk_id2_975501325twhkw_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��l���̐S���̗���ɓƓ��ȃ��m������V�N�ł����B�������낢�����I<BR>���ꂩ�������΂��Ă��������I(^0^)/
+主人公の心境の流れに独特なモノがあり新鮮でした。おもしろいっす！<BR>これからもがんばってください！(^0^)/
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/11/30 01:04:47</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/11/30 01:04:47</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975513887kixwff&id2=975501325twhkw&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975513887kixwff_id2_975501325twhkw_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���킠�A�����_�[�N���R���B<BR>�~�����S���Ȃ��i�΁j<BR>����ς�A�u�����߂������v�́u�����߂������v�B<BR>���ꂩ��͏]�O��肳��ɉ՗�ɋs�߂��邱�Ƃł��傤�B<BR>���������̂��u����v�ƌ������ƂŁA��������҂��܂��B
+うわあ、凄いダークだコレ。<BR>救いが全くない（笑）<BR>やっぱり、「いじめられっこ」は「いじめられっこ」。<BR>これからは従前よりさらに苛烈に虐められることでしょう。<BR>こういうのも「あり」と言うことで、次回も期待します。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>2000/11/30 06:00:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>2000/11/30 06:00:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975531651tvpoqb&id2=975501325twhkw&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975531651tvpoqb_id2_975501325twhkw_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���ɂ���ȕ���I�Ȑ���オ�肪����܂����I<BR>�Ƃ���ŁA�������������e���ِF��ɂ����Ɖ����̊��z�����ƁA�^�c���Ƃ��Ă����������̂ł��B
+世にも奇妙な物語的な盛り上がりがありました！<BR>ところで、こういう初投稿＆異色作にちゃんと応援の感想がつくと、運営側としても嬉しいものです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>kagerou6</strong>  <i>2000/11/30 21:41:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975588090ockcu&id2=975501325twhkw&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975588090ockcu_id2_975501325twhkw_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂩁E�E�E���������z�ł���(^^)�������<BR>�N���H�v���������Ȃ���������������l�͂���ς�X�S�C�ł���<BR>�Ȃ񂩈�t���҂����������Ȃ�ł����E�E�E���̂��\��́H<BR>���ꂩ����撣���Ă��������I
+なんか・・・すごい発想ですね(^^)これって<BR>誰も？思いつきもしなかった事を書ける人はやっぱりスゴイですね<BR>なんか一杯続編が書けそうなんですが・・・次のご予定は？<BR>これからも頑張ってください！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^��@�I</strong>  <i>2000/12/01 01:26:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真城　悠</strong>  <i>2000/12/01 01:26:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975601596mpgola&id2=975501325twhkw&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975601596mpgola_id2_975501325twhkw_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�����������ł��ˁE�E�E�i^^�G<BR>�@����������Ō�Ɏ�l�����u���O��Ȃ�Ă݂�Ȗl�Ɠ����ڂɑ����΂����񂾁I�v�Ƃ����킹�Ă��܂������Ƃ���ł����A����ł͂����Ȃ���ł���ˁB<BR>�@�ϐg��̗l�q���āA�݂�ȁu�����������Ȃ�����E�E�E�v�Ȃ�čl���Ă�����̂�����Ђ�����u�����v�u�Y��v�ŉ�������̂Ɂu�����炵�v���Ȃ�āE�E�E�B���������]����Ɂu�������ɂȂ��Ă��Ă܂���v�ǂ��납���q�ɂ܂őa�܂�āE�E�E�B<BR>�@���܂�ď��߂āA�ł͂���܂��񂪁A���]��������ǂ�Łu�����͂Ȃ肽���Ȃ��v�Ȃ�Ďv�����̂͋v���Ԃ�ł��B<BR>�@�V�N�ł����B
+　何だか凄いですね・・・（^^；<BR>　私だったら最後に主人公が「お前らなんてみんな僕と同じ目に遭えばいいんだ！」とか言わせてしまいたいところですが、それではいけないんですよね。<BR>　変身後の様子って、みんな「自分がそうなったら・・・」なんて考えているものだからひたすら「可愛い」「綺麗」で押し捲るのに「おもらし」だなんて・・・。しかも性転換後に「美少女になってもてまくる」どころか女子にまで疎まれて・・・。<BR>　生まれて初めて、ではありませんが、性転換小説を読んで「こうはなりたくない」なんて思ったのは久しぶりです。<BR>　新鮮でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>BAF</strong>  <i>2000/12/02 00:28:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975684494qyhwdsv&id2=975501325twhkw&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975684494qyhwdsv_id2_975501325twhkw_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ񂩕���ł��܂��܂����A�����ł��B<BR>���̈ꌾ�ɐs���܂��B<BR><BR>�����܂�ď��߂āA�ł͂���܂��񂪁A���]��������ǂ�Łu�����͂Ȃ肽���Ȃ��v�Ȃ�Ďv�����̂͋v���Ԃ�ł��B<BR><BR>�����ł����B�������A���̑z�����A�܂�����ړ���U���A�ǂ��Ղ�ƐZ�����Ă��܂��܂����B<BR>�Ȃ��Ȃ��S�̒ɂ��Ȃ��i�ł����B���Б������ǂ݂����ł��ˁB<BR> <BR><BR><BR><BR><BR>
+なんか並んでしまいますが、凄いです。<BR>この一言に尽きます。<BR><BR>＞生まれて初めて、ではありませんが、性転換小説を読んで「こうはなりたくない」なんて思ったのは久しぶりです。<BR><BR>同感でした。しかし、この想いが、また感情移入を誘い、どっぷりと浸かってしまいました。<BR>なかなか心の痛くなる作品でした。ぜひ続きが読みたいですね。<BR> <BR><BR><BR><BR><BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>yays</strong>  <i>2000/12/02 00:43:28</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975685408lbyvcxb&id2=975501325twhkw&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975685408lbyvcxb_id2_975501325twhkw_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-&gt; �ϐg��̗l�q���āA�݂�ȁu�����������Ȃ�����E�E�E�v<BR><BR>���[�A�����Ă܂��B<BR>�j�����������b��ǂݏ�������Ƃ����āA�ӎ��I�ɂ��떳�ӎ��I�ɂ���A�ǂ����Ă������̐g�Ɉ����񂹂čl���Ă��܂������Ȃ�ł��ˁA���ʂ́B<BR>���̏؋��ɕϐg���Ȃ񂩂̏ꍇ�A�u�X�ȏ��̎q�ւ̕ϐg�ā[�͖̂w�ǌ������ƂȂ��ł��B���̎q�ւ̕ϐg�Ƃ������̎��̂͏�Ɂu�������v�ւ̕ϐg�������肵�āB���i���]���L�����ɂ��܂蒼�ړI�Ɋ���ړ����ĂȂ��Ƃ����l�ł��A�u�X���������ւ̕ϐg�����Ė��ӎ����x���Œ�R��������񂶂�Ȃ����Ȃ��B<BR>�i���āA�b�����܂����j<BR><BR>&gt; ���������]����Ɂu�������ɂȂ��Ă��Ă܂���v�ǂ��납���q�ɂ܂őa�܂�āE�E�E�B<BR><BR>�������̓_�A�V�N�Ɋ����܂����B���������A���`�ȃp�^�[��������ł��ˁI
+&gt; 変身後の様子って、みんな「自分がそうなったら・・・」<BR><BR>あー、言えてます。<BR>男がこういう話を読み書きするときって、意識的にしろ無意識的にしろ、どうしても自分の身に引き寄せて考えてしまいがちなんですね、普通は。<BR>その証拠に変身物なんかの場合、ブスな女の子への変身てーのは殆ど見たことないです。女の子への変身といいつつその実体は常に「美少女」への変身だったりして。普段性転換キャラにあまり直接的に感情移入してないという人でも、ブスっ娘ちゃんへの変身物って無意識レベルで抵抗を感じるんじゃないかなぁ。<BR>（って、話が逸れました）<BR><BR>&gt; しかも性転換後に「美少女になってもてまくる」どころか女子にまで疎まれて・・・。<BR><BR>私もこの点、新鮮に感じました。こういうアンチなパターンもありですね！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2000/12/02 00:59:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2000/12/02 00:59:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975686372irgiwii&id2=975501325twhkw&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975686372irgiwii_id2_975501325twhkw_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�݂Ȃ���A���z���肪�Ƃ��������܂��I<BR>�����̍�i���ǂ܂�Ă���񂾂Ƃ����������킢�Ă��܂����B<BR>������݂ɁA�w���x�݁x�̑��҂̍\�z������Ă���Ƃ���ł��B<BR><BR>����_������<BR>�����Ă���Ƃ��͂��܂�ӎ����ĂȂ�������ł����ǁA<BR>�m���Ɍ���̗͂Ƃ������܂��ˁB<BR>�V�����p�^�[�������Č����Ă��炦��Ƃ��ꂵ���ł��B<BR>������V�p�^�[���ɂ��悤�Ƃ͈ӎ����ĂȂ�������Łc�B<BR>��҂��C�Â��Ă��Ȃ������������Ă�������ƁA�����ւ̗ƂɂȂ�܂��B<BR><BR>����������ɂ���<BR>�S���̕ω������́A���ɔO�����ĉ��x�����Ȃ��܂����B<BR>�������ق߂Ă�������ƂƂ�킯���ꂵ���ł��B<BR><BR>�����Ȃ��񂳂�<BR>��l���͎��������ɂ����߂��邱�Ƃł��傤�B<BR>�����҂��������i��΁j�B<BR><BR>�����d�F����<BR>���ɂ���ȕ���c�킩��܂��B����Șb�������Ă���a���Ȃ��ł��ˁB<BR><BR>��kagerou6����<BR>��ɂ������܂����悤�ɁA���҂͌��ݍ\�z���ł��B�������΂炭���҂����������B<BR>�����̏����������Ƃ����������悤�ɏ����Ă݂���A<BR>������i�H�j�v�����Ȃ��悤�ȕ���ɂȂ��Ă܂����B<BR>���ꂩ������̒��q�ł���΂�܂��B<BR><BR>���^��@�I����<BR>�킽���́A���]���t�B�N�V������ǂށi����j��<BR>�u�����͂Ȃ肽���Ȃ��v�Ɓu�����Ȃ肽���v����ɓ��������悤��<BR>�S���ɂȂ邱�Ƃ������̂ł��B�}�]�q�X�e�B�b�N�Ȋ���Ƃ������B<BR>�ł�����A���̘b�̎�l���̂悤�ɂȂ肽���Ƃ����S���������ł��i��΁j�B<BR>�V�N�Ɏv���Ă��炦��ƁA�������b�オ�������Ƃ�������ł��B
+みなさん、感想ありがとうございます！<BR>自分の作品が読まれているんだという実感がわいてきました。<BR>これを励みに、『昼休み』の続編の構想を練っているところです。<BR><BR>＞矢治浩平さん<BR>書いているときはあまり意識してなかったんですけど、<BR>確かに言霊の力ともいえますね。<BR>新しいパターンだって言ってもらえるとうれしいです。<BR>これも新パターンにしようとは意識してなかったんで…。<BR>作者も気づいていない特徴を挙げてくださると、将来への糧になります。<BR><BR>＞たかしんにさん<BR>心境の変化部分は、特に念を入れて何度も推敲しました。<BR>ここをほめてくださるととりわけうれしいです。<BR><BR>＞すなさんさん<BR>主人公は次回もさらにいじめられることでしょう。<BR>ご期待ください（苦笑）。<BR><BR>＞八重洲さん<BR>世にも奇妙な物語…わかります。こんな話があっても違和感ないですね。<BR><BR>＞kagerou6さん<BR>上にも書きましたように、続編は現在構想中です。もうしばらくお待ちください。<BR>自分の書きたいことを書きたいように書いてみたら、<BR>だれも（？）思いつかないような物語になってました。<BR>これからもこの調子でがんばります。<BR><BR>＞真城　悠さん<BR>わたしは、性転換フィクションを読む（見る）と<BR>「こうはなりたくない」と「こうなりたい」が奇妙に同居したような<BR>心境になることが多いのです。マゾヒスティックな感情というか。<BR>ですから、この話の主人公のようになりたいという心境もあるんです（苦笑）。<BR>新鮮に思ってもらえると、書いた甲斐があったというもんです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�悵����</strong>  <i>2000/12/03 20:40:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>よしおか</strong>  <i>2000/12/03 20:40:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975843632ndayned&id2=975501325twhkw&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975843632ndayned_id2_975501325twhkw_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�p���������[���h�ɗ������j�̎q�݂����Șb�ł��ˁB�s�v�c�ȋC�����邯�ǁA�������낢�B
+パラレルワールドに落ちた男の子みたいな話ですね。不思議な気がするけど、おもしろい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2000/12/05 14:36:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong>匿名</strong>  <i>2000/12/05 14:36:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=975994587gmkqrwe&id2=975501325twhkw&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_975994587gmkqrwe_id2_975501325twhkw_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���҂��m�肽���A���یさ�������Ƃ��A��͎���ł̉Ƒ��̔����Ƃ��ˁB<BR>
+続編が知りたい、放課後＆部活動とか、後は自宅での家族の反応とかね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/12/17 23:19:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/12/17 23:19:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=977062749nbrhyw&id2=975501325twhkw&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_977062749nbrhyw_id2_975501325twhkw_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����]��������ǂ�Łu�����͂Ȃ肽���Ȃ��v�Ȃ�Ďv�����̂͋v���Ԃ�ł��B<BR><BR>�ĊO�A�������Ă���Ȃ��̂����H
+＞性転換小説を読んで「こうはなりたくない」なんて思ったのは久しぶりです。<BR><BR>案外、現実ってこんなものかも？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/01/30 21:17:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong>里花</strong>  <i>2001/01/30 21:17:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=980857058npxcku&id2=975501325twhkw&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_980857058npxcku_id2_975501325twhkw_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ǂ݂܂�������ǁA�Ȃ񂩎��́w�o�X�x�ɂ�����Ǝ��Ă܂��ˁB<BR>(����������́A������Ƃ킯�������Ă����ɂ͍ڂ����Ȃ��Ȃ������������ǁc�c)<BR>�u�����v�Ɓu�o���v���������肵�Ă��Ėʔ��������ł��B
+今ごろ読みましたけれど、なんか私の『バス』にちょっと似てますね。<BR>(ただしあれは、ちょっとわけがあってここには載せられなくなっちゃったけれど……)<BR>「入口」と「出口」がしっかりしていて面白かったです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����̂���</strong>  <i>2001/02/02 23:58:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong>東野のえる</strong>  <i>2001/02/02 23:58:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=981125885dteqkq&id2=975501325twhkw&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_981125885dteqkq_id2_975501325twhkw_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ��Ȃ��ʔ����ł����A��Ȕ��z�ł��B(^_^;)<BR>�������A�I���c�n�A�I�����V�n�AAB�i�A�_���g�H�x�C�r�[�j�n�ɔ��W���Ă݂Ă͖ʔ����̂ł́H<BR>����Ǝ��ۂ͒j�̎q�ɉ����������āA���̎q�֔̕邪�����̂�����ł��B�i�̂̑̎��ɂ��j
+なかなか面白いですし、奇抜な発想です。(^_^;)<BR>いっそ、オムツ系、オモラシ系、AB（アダルト？ベイビー）系に発展してみては面白いのでは？<BR>それと実際は男の子に下痢が多くて、女の子の便秘が多いのが実状です。（体の体質による）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2001/03/29 18:14:30</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2001/03/29 18:14:30</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=985857270uujgql&id2=975501325twhkw&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_985857270uujgql_id2_975501325twhkw_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z���肪�Ƃ��������܂��B�x���Ȃ��Ă��܂��܂������A�R�����g�ł��B<BR>�܂��Ȃ����҂��A�b�v�����Ǝv���܂��̂ŁA���������낵�����肢���܂��B<BR><BR>���悵��������<BR>�m���Ƀp���������[���h�̘b�Ƃ��Ă����߂ł��܂��ˁB�ł��A���͂���Ƃ͂�����ƈ�������E�ςɂȂ��Ă܂��B����ȍ~�����y���݂ɂ��Ă��������B<BR><BR>����������<BR>���v�]�ɂ����������킯����Ȃ���ł����ǁA����͕����ƋA���̃X�g�[���[�ɂȂ�܂����B�������ł����ł��傤���B<BR><BR>�����Ԃ���<BR>�w�o�X�x�͓ǂ񂾂��ƂȂ��̂ł����A�@�����܂�����ǂ܂��Ă��������܂��B<BR><BR>������̂��邳��<BR>�I���c�n�ւ̓W�J�Ƃ����̂́A�w���x�݁x�̍\�z�ɂ���������ł����ǁA���ǒf�O���܂����B�ł��A�m���ɂ������낻���ł��ˁB<BR>�̎��̘b�͂��肪�Ƃ��������܂��B
+感想ありがとうございます。遅くなってしまいましたが、コメントです。<BR>まもなく続編がアップされると思いますので、そちらもよろしくお願いします。<BR><BR>＞よしおかさん<BR>確かにパラレルワールドの話としても解釈できますね。でも、実はそれとはちょっと違った世界観になってます。次回以降をお楽しみにしてください。<BR><BR>＞匿名さん<BR>ご要望にお応えしたわけじゃないんですけど、今回は部活と帰宅後のストーリーになりました。いかがでしたでしょうか。<BR><BR>＞里花さん<BR>『バス』は読んだことないのですが、機会がありましたら読ませていただきます。<BR><BR>＞東野のえるさん<BR>オムツ系への展開というのは、『昼休み』の構想にもあったんですけど、結局断念しました。でも、確かにおもしろそうですね。<BR>体質の話はありがとうございます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/29213107/hiruyasumi2.htm" target="_blank">��Q�b������ɂ͂������N���b�N</a></strong>  <i>2001/03/31 00:52:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/29213107/hiruyasumi2.htm" target="_blank">第２話を見るにはここをクリック</a></strong>  <i>2001/03/31 00:52:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=985967538ouiuxs&id2=975501325twhkw&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_985967538ouiuxs_id2_975501325twhkw_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���Ƃ����̎q�ɂȂ������āA����Ȑl���͂炢�̂ł��B����̎p���m���߂�ɂ��Ȃ��A���S���ėF�ɔw���������邱�Ƃ��ł��Ȃ��a�n���B�����ɖ�����Ă��������B<BR>
+【推薦文】 たとえ女の子になったって、無情な人生はつらいのです。自らの姿を確かめる暇もない、安心して友に背中を向けることもできない蟻地獄。存分に味わってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/04/01 00:01:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/04/01 00:01:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986050901glychte&id2=975501325twhkw&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986050901glychte_id2_975501325twhkw_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����p�̂���n���c�B<BR>�Ȃ��Ȃ��A�i�����߂��q�́j�ޏ������A�����������Ă܂��B<BR>�������������A����͂������������̂ˁB<BR>
+情け無用のあり地獄…。<BR>なかなか、（いじめっ子の）彼女たち、いい味だしてます。<BR>そうかそうか、あれはきつい方だったのね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����</strong>  <i>2001/04/01 21:41:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>せんり</strong>  <i>2001/04/01 21:41:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986128868grmft&id2=975501325twhkw&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986128868grmft_id2_975501325twhkw_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����͍쒆�̃L�����Ɋ���ړ������Ⴄ��ł���́E�E�E�E<BR>�����������~���������Ă������񂶂�Ȃ��ł����B<BR>���������ނ��������C���Ƃ����̂͂킩��܂����B
+自分は作中のキャラに感情移入しちゃうんでこれは・・・・<BR>もうすこし救いがあってもいいんじゃないですか。<BR>そういうむごさがメインというのはわかりますが。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����</strong>  <i>2001/04/04 20:36:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>匿名</strong>  <i>2001/04/04 20:36:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986384189hiqqfg&id2=975501325twhkw&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986384189hiqqfg_id2_975501325twhkw_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������ǂ܂��Ă��������܂����B<BR>��R����y���݂ɂ��Ă���܂��B
+今回も読ませていただきました。<BR>第３回も楽しみにしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200011/29213107/hiruyasumi3.html" target="_blank">��R�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/04/13 16:42:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200011/29213107/hiruyasumi3.html" target="_blank">第３話を読むにはここをクリック</a></strong>  <i>2001/04/13 16:42:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987147729vnmvxed&id2=975501325twhkw&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987147729vnmvxed_id2_975501325twhkw_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�J��������_�@�Ƃ��Ĉ������K�ꂽ�i�q�̐����ł����A���Ԃ͎v��ʕ�������j�S�ɔ����Ă����܂��B
+【推薦文】開き直りを契機として安息が訪れた淑子の生活ですが、事態は思わぬ方向から核心に迫っていきます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��</strong>  <i>2001/04/13 19:10:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野</strong>  <i>2001/04/13 19:10:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=987156614nrrhr&id2=975501325twhkw&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_987156614nrrhr_id2_975501325twhkw_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@������������A���ɂ��܂����ˁB������ƁA�������܂����I�@�Q�ĂēǂݕԂ��܂�����B
+　こうけいさん、ついにやりましたね。ちょっと、感動しました！　慌てて読み返しましたよ。
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="975501325twhkw">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

@@ -1,85 +1,85 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>少年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=1&id=912715709cqbwoo&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_1_id_912715709cqbwoo_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���@�����}�W�J���V���V�A</font><br>
+<font size="+2" color="#0000FF">魔法少女マジカルシンシア</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">���d�F�ꐬ</a></strong>  <i>1998/12/04 05:08:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">八重洲一成</a></strong>  <i>1998/12/04 05:08:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=912715709cqbwoo&id2=912715709cqbwoo&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_912715709cqbwoo_id2_912715709cqbwoo_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�w���@�����}�W�J���V���V�A�x�i�����ł����^�q�o�f�}�K�W���O���C�gvol.3�j<BR><BR>�f�ڎ��̃}�C�i�[������A����ɋ�J����l���o�����c�B<BR>�Ƃ���ŁA<BR>�j�̎q�����̑g�D�ɂ�����Ė��@�����ɉ����������Ă����ݒ�A�D�����Ȃ��B<BR>���X�g���Ȃ񂾂��A���̃T�C�g�I�ɂ̓n�b�s�[�G���h�i�΁j�����B
+『魔法少女マジカルシンシア』（こいでたく／ＲＰＧマガジングレイトvol.3）<BR><BR>掲載誌のマイナーさから、入手に苦労する人続出かも…。<BR>ところで、<BR>男の子が悪の組織にさらわれて魔法少女に改造されるっていう設定、好きだなぁ。<BR>ラストもなんだか、このサイト的にはハッピーエンド（笑）だし。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:flyhigh@home.so-net.ne.jp" target="_blank">�Ē�</a></strong>  <i>1998/12/04 21:46:41</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:flyhigh@home.so-net.ne.jp" target="_blank">米津</a></strong>  <i>1998/12/04 21:46:41</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=912775601xwliay&id2=912715709cqbwoo&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_912775601xwliay_id2_912715709cqbwoo_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V���V�A�A�Z�����ǃX�g�[���[�͏㕨�ł��ˁB<BR>�R�~�J�������ǁu���f�v�������āB<BR><BR>�������͑��̖{����J�����ɓ���ł��܂����A<BR>���ꂪ�u���Ă���X�͈ꌬ��������܂���ł����B<BR>���\�o�������������ɁA�������Ă������Ȃ��l��<BR>����͎̂c�O�ł��B
+シンシア、短いけどストーリーは上物ですね。<BR>コミカルだけど「決断」があって。<BR><BR>あっしは大抵の本を苦労せずに入手できますが、<BR>あれが置いてある店は一軒しかありませんでした。<BR>結構出来がいいだけに、見たくても見られない人が<BR>いるのは残念です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�E�Q�b�^�[�p</strong>  <i>1998/12/07 13:34:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真・ゲッターＱ</strong>  <i>1998/12/07 13:34:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=913005266nssnsvu&id2=912715709cqbwoo&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_913005266nssnsvu_id2_912715709cqbwoo_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A����Ȃɓ��荢����X���I�H<BR>�E�`�̋ߏ��A�Ƃ����������ʂ̖{������ŁA�u�����z�r�[�W���p���v���u���Ă���l�Ȃ��X�ł͂܂����͌��������ł����E�E�E�B<BR>����ȑO�Ɂu�����O �L�����v���������ł͑S�R������܂��ʁB<BR><BR>�ڈ�͂q�w�|�V�W�����V���A��p�Q���O�O�̕\���ŁA���Ɂu�����@�A�z�Ƃ̋Y�ꌾ�͎~�߂�I�v�̃V�[���ł��B���e���قڃK���_����F�ŁA���肷��΍����́u���f���O���t�B�N�X�v�́u�ߏ�ȁv�K���_�����W�𗽂������ł����A���e�����Ȃ�΂��Ă܂��B�i������܂����j<BR><BR>�u�����ł����v������́u�y�y�N�����ɂ���I�v���Ă����}���K��`���Ă�����Ⴂ�܂����ˁB
+そ、そんなに入手困難っスか！？<BR>ウチの近所、というか大阪方面の本屋さんで、「月刊ホビージャパン」が置いてある様なお店ではまず大抵は見かけるんですが・・・。<BR>それ以前に「ヤング キュン」がこっちでは全然見つかりませぬ。<BR><BR>目印はＲＸ－７８ｖｓシャア専用ゲルググの表紙で、正に「ララァ、奴との戯れ言は止めろ！」のシーンです。内容もほぼガンダム一色で、下手すれば今月の「モデルグラフィクス」の「過剰な」ガンダム特集を凌ぐ勢いですが、内容がかなり偏ってます。（あたりまえか）<BR><BR>「こいでたく」さんも昔「ＺＺ君ここにあり！」っていうマンガを描いてらっしゃいましたね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�E�Q�b�^�[�p</strong>  <i>1998/12/07 13:38:07</i><br></td>
+<td  bgcolor="#00FFCC"><strong>真・ゲッターＱ</strong>  <i>1998/12/07 13:38:07</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=913005488lqobeqi&id2=912715709cqbwoo&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_913005488lqobeqi_id2_912715709cqbwoo_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��̓I�Ɍ����ƁA�~�c�̋I�ɍ������X�Ƃ����������X�ɖ₢���킹��Ίm���ł��̂ŁA��Q�l�܂łɁB
+具体的に言うと、梅田の紀伊国屋書店とか旭日屋書店に問い合わせれば確実ですので、御参考までに。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����@�^</strong>  <i>1999/01/31 09:41:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong>匿名機某</strong>  <i>1999/01/31 09:41:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=1&id=917743293abukt&id2=912715709cqbwoo&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_1_id_917743293abukt_id2_912715709cqbwoo_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ǂ݂܂����B�ʔ��������ł��B<BR>�@���ł��u���]�����́v�ɂ͂��̓��e����u���̎q�ɂȂ��������������������v�n�̘b�Ɓu���j�����󂳂��v�n�̘b�����邻���ł����A�T�^�I�ȑO�ҁB�u�����v���u���f�v���u�����v�����邵�A�㖡����₩�Łi�ꉞ�o�b�h�G���h�ł͂����ł��傤���j�O���t�������ł��ˁB<BR>�@�Ƃ���ł��́uRPG�}�K�W���@�O���C�g vol.3�v�ł����A�H�t���̃��I�b�N�X�Q�[���ق̎��K�ɕ��ς݂���Ă���̂ŗ]�T�ŗ����ǂݏo���܂��B����������B<BR>
+　読みました。面白かったです。<BR>　何でも「性転換もの」にはその内容から「女の子になっちゃった自分を可愛がる」系の話と「＜男＞が壊される」系の話があるそうですが、典型的な前者。「葛藤」も「決断」も「制限」もあるし、後味さわやかで（一応バッドエンドではあるんでしょうが）三星付けたいですね。<BR>　ところでかの「RPGマガジン　グレイト vol.3」ですが、秋葉原のラオックスゲーム館の七階に平積みされているので余裕で立ち読み出来ます。お試しあれ。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="1">
 <input type="hidden" name="id" value="912715709cqbwoo">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

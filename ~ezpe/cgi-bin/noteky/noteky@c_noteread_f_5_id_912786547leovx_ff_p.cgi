@@ -1,186 +1,186 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�Q�[��/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ゲーム/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=5&id=912786547leovx&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_5_id_912786547leovx_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�v�����Z�X�E�N�G�X�g</font><br>
+<font size="+2" color="#0000FF">プリンセス・クエスト</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">���d�F�ꐬ</a></strong>  <i>1998/12/05 00:49:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">八重洲一成</a></strong>  <i>1998/12/05 00:49:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=912786547leovx&id2=912786547leovx&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_912786547leovx_id2_912786547leovx_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Z�K�T�^�[���̃��[���v���C���O�̕��ł��B�R�~�b�N�̕�����Ȃ��āB<BR><BR>���́A���̃Q�[���A�N���A���܂����B�i����́A���Ƃق߂��Ă������Ƃ��Ǝv���܂��j<BR>�Ƃ��낪�A�Ō�̑�c�~�̃C�x���g�ŁA�ǂ̑I������I��ł��A�G���f�B���O�����򂵂Ă���܂���B<BR>����́A���Ƃ��Ƃ��������d�l�Ȃ̂ł��傤���H<BR>�i��l�����E�B���[�̂܂ܗ��ɏo��Ƃ��A���������G���f�B���O�͂Ȃ����̂ł��傤���˂��H�j
+セガサターンのロールプレイングの方です。コミックの方じゃなくて。<BR><BR>実は、このゲーム、クリアしました。（これは、割とほめられていいことだと思います）<BR>ところが、最後の大団円のイベントで、どの選択肢を選んでも、エンディングが分岐してくれません。<BR>これは、もともとこういう仕様なのでしょうか？<BR>（主人公がウィローのまま旅に出るとか、そういうエンディングはないものでしょうかねえ？）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">���d�F�ꐬ</a></strong>  <i>1998/12/05 01:48:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/3018/" target="_blank">八重洲一成</a></strong>  <i>1998/12/05 01:48:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=912790089blrexrh&id2=912786547leovx&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_912790089blrexrh_id2_912786547leovx_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�E�B���[����Ȃ���B���ꂶ�ᕁ�ʂ��B�ԈႢ�B�E�B���B
+ウィローじゃないや。それじゃ普通だ。間違い。ウィル。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ȃ�܂�</strong>  <i>1998/12/06 23:19:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>なりまさ</strong>  <i>1998/12/06 23:19:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=912953993qejufpa&id2=912786547leovx&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_912953993qejufpa_id2_912786547leovx_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āB<BR>�����N���A���܂������A���̃��[�h���Ԃ͂��������ł��B<BR>��͂�A���̃Q�[���̓v�����Z�X������Ȃ̂ŃG���f�B���O�̐����l�����݂����ł��ˁB<BR>�r���Ŗ��@���������Ȃ��Ȃ�̂ŁA�E�B���̂܂܂Ƃ������Ƃ��Ȃ��̂�<BR>���O�ł����B
+はじめまして。<BR>私もクリアしましたが、あのロード時間はきつかったです。<BR>やはり、このゲームはプリンセスが主役なのでエンディングの数も人数分みたいですね。<BR>途中で魔法生物がいなくなるので、ウィルのままということがないので<BR>無念でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F�ꐬ</strong>  <i>1998/12/06 23:56:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲一成</strong>  <i>1998/12/06 23:56:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=912956170erljyb&id2=912786547leovx&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_912956170erljyb_id2_912786547leovx_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̃Q�[���A�}�b�v�؂�ւ��̃��[�h�{�W�J���Ԃ�����Q�O�b�߂��������ł���ˁB�ł��A�E�B���̃C�x���g���y���݂ł�������܂��ɂȂ�܂���ł����B<BR>�E�B���̃C�x���g�������������Ȃ�����A�t���O��������тɃ}�b�v�̑S�ӏ����E�B���ŕ����Ă݂܂����B�ǂ����E�B���ƃE�B���[�̗��p�^�[�������݂���悤�ȃC�x���g�͊�{�I�ɖ����悤�ł��ˁB�Ƃ����킯�ŁA�ʏ�̓E�B���[�ōs�����Ă��Ă��C�x���g�̂Ƃ肱�ڂ��͔������Ȃ��悤�ł��B�i����̏��q�X�ߎ�(�E�B���ł�������Ȃ�)�ŉ��̃C�x���g���N����Ȃ������̂��C�ɂ�����Ƃ����΂�����܂����ǁc�j<BR><BR>�Ƃ���ŁA�����v���C�����Ƃ���A�Ō�̑I�����ŉ���I��ł��A���ǁA����̃G���f�B���O�i��l���̓v�����Z�X�������瓦����悤�ɂ��ė������Ă����j�ɂ����Ȃ�܂���ł����B����́A�e���x�̂悤�ȃp�����[�^���֌W���Ă���̂ł��傤���H
+このゲーム、マップ切り替えのロード＋展開時間が毎回２０秒近くかかるんですよね。でも、ウィルのイベントが楽しみでそれもあまり苦になりませんでした。<BR>ウィルのイベントを見逃したくないから、フラグが一つ立つたびにマップの全箇所をウィルで歩いてみました。どうやらウィルとウィローの両パターンが存在するようなイベントは基本的に無いようですね。というわけで、通常はウィローで行動していてもイベントのとりこぼしは発生しないようです。（酒場の女子更衣室(ウィルでしか入れない)で何のイベントも起こらなかったのが気にかかるといえばかかりますけど…）<BR><BR>ところで、私がプレイしたところ、最後の選択肢で何を選んでも、結局、同一のエンディング（主人公はプリンセスたちから逃げるようにして旅立っていく）にしかなりませんでした。これは、親密度のようなパラメータが関係しているのでしょうか？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:flyhigh@home.so-net.ne.jp" target="_blank">�Ē�</a></strong>  <i>1998/12/07 00:56:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:flyhigh@home.so-net.ne.jp" target="_blank">米津</a></strong>  <i>1998/12/07 00:56:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=912959811iaeip&id2=912786547leovx&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_912959811iaeip_id2_912786547leovx_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������̓E�B�����v�����Z�X�ɏЉ�ꂽ�Ƃ���ō��܂��܂����B���̃��[�h��ړ��͐h������c�c�B<BR>���[�r�[�̓V�l�p�b�N�ł����炻��p�̃t���[�\�t�g���g����PC�Ō����܂��B�G���f�B���O�p�̃��[�r�[�͈�����ł����B<BR>���Ȃ݂�Win�ł������\��B�������̍�i�����炻�̂����A�j���ɂȂ�񂶂�Ȃ����ȂƂ��v���Ă��ł����������Ȃ���ł��傤�B
+あっしはウィルがプリンセスに紹介されたところで挫折しました。あのロードや移動は辛すぎる……。<BR>ムービーはシネパックですからそれ用のフリーソフトを使うとPCで見られます。エンディング用のムービーは一つだけでした。<BR>ちなみにWin版も発売予定。あそこの作品だからそのうちアニメになるんじゃないかなとか思ってるんですがいかがなもんでしょう。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Milkyway-Vega/1819/" target="_blank">�`�y�x</a></strong>  <i>1999/10/05 06:47:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Milkyway-Vega/1819/" target="_blank">ＡＺＹ</a></strong>  <i>1999/10/05 06:47:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=939073662wqyih&id2=912786547leovx&ff=p">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_939073662wqyih_id2_912786547leovx_ff_p.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�킽����<BR>�E�B���[���E�B���ɏ��߂ĕϐg����<BR>�ӂ�̃V�[�����Z�[�u���Ă����āA<BR>���ł����܂ɁA���܂��B<BR>���̂��߂ɁA���݂��T�^�[�������ł�<BR>�ғ��ł����Ԃɂ��Ă���܂�(��)�B
+わたしは<BR>ウィローがウィルに初めて変身する<BR>辺りのシーンをセーブしてあって、<BR>今でもたまに、見ます。<BR>そのために、現在もサターンをいつでも<BR>稼働できる状態にしてあります(笑)。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���d�F</strong>  <i>1999/10/06 02:14:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong>八重洲</strong>  <i>1999/10/06 02:14:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=939143679ofjlw&id2=912786547leovx&ff=p">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_939143679ofjlw_id2_912786547leovx_ff_p.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ʐ؂�ւ��̃��[�h���ԂɁA�h�[�i�c���H�ׂ�Ă���ɋ����̂�ł��܂����Ԃ��]���Ă��̂��v���o���܂��c<BR>�ł��A�ϐg�V�[���̂���҂��Ƃ����A�j���͂Ȃ��Ȃ��̏o���ł����B<BR>�Ƃ���ŁA�����PC�ł��v���C�����l�̘b���Ă��܂蕷���Ȃ��Ȃ��B
+画面切り替えのロード時間に、ドーナツ一個を食べれてさらに牛乳のんでもまだ時間が余ってたのを思い出します…<BR>でも、変身シーンのきゃぴっとしたアニメはなかなかの出来でした。<BR>ところで、これのPC版をプレイした人の話ってあまり聞かないなあ。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">���ƂԂ��Ђ���</a></strong>  <i>1999/10/06 19:56:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www2s.biglobe.ne.jp/~ndcss/" target="_blank">ことぶきひかる</a></strong>  <i>1999/10/06 19:56:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=939207378afqpve&id2=912786547leovx&ff=p">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_939207378afqpve_id2_912786547leovx_ff_p.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�o�b�łĂv�h�m�ł̂��Ƃł����ˁB<BR><BR>���m�����̂��A���̋@�̂ɔ������������ゾ�����̂�<BR>�w�����ăv���C���܂����B<BR>�m���ɁA���̕ϐg�V�[���͗ǂ������ł��B<BR>���ǁA�\�����������̂��Ȃ�Ƃ��A<BR><BR>�r���ŁA�E�B���X�ɂ���āA�V�X�e���ăC���X�g�[����<BR>�������Ă��܂������߁A�r���ŁA�V��ł��Ȃ��󋵂ł��B<BR>
+ＰＣ版てＷＩＮ版のことですかね。<BR><BR>情報知ったのが、今の機体に買い換えた直後だったので<BR>購入してプレイしました。<BR>確かに、あの変身シーンは良かったです。<BR>けど、表示が小さいのがなんとも、<BR><BR>途中で、ウィルスにやられて、システム再インストールと<BR>相成ってしまったため、途中で、遊んでいない状況です。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="fukushimahiroko@hotmail.com" target="_blank">�݂���</a></strong>  <i>2001/07/12 23:00:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="fukushimahiroko@hotmail.com" target="_blank">みずき</a></strong>  <i>2001/07/12 23:00:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=994946451kuoqjpb&id2=912786547leovx&ff=p">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_994946451kuoqjpb_id2_912786547leovx_ff_p.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�F����U�����Ă��������ł��ˁ[�B<BR>���͂��̃Q�[���𔃂��Ă���A���N���o���Ă�̂ɁA�����ɍU��<BR>�ł��Ȃ���ł��[�B<BR>��R�͂ōs���l�܂��Ă��܂��āE�E�E�B<BR>�ǂȂ����U���ς݂̕��A���ɑ�R�͂���̍U���@���A�����Ă�������<BR>�Ȃ��ł��傤���H<BR>��낵�����肢���܂��B
+皆さん攻略してらっしゃるんですねー。<BR>私はこのゲームを買ってから、何年も経ってるのに、今だに攻略<BR>できないんですー。<BR>第３章で行き詰まってしまって・・・。<BR>どなたか攻略済みの方、私に第３章からの攻略法を、教えていただけ<BR>ないでしょうか？<BR>よろしくお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>?????(�o�ŎЂ��{��E�E)</strong>  <i>2001/07/24 06:13:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong>?????(出版社が怒る・・)</strong>  <i>2001/07/24 06:13:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=995922805nfmqcn&id2=912786547leovx&ff=p">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_995922805nfmqcn_id2_912786547leovx_ff_p.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-SS�̍U���{��1998/4/1����{���Ă��ǂ����悤�������ł��傤���ˁB<BR>(����SS�̏C����̍H�ʂ����܂��ŁE�E��x���N�������o���ĂȂ��A��)<BR>�����W(���) ����{�ւ̓E�B���[�ŗǂ������ł�<BR>��<BR>����{�T��<BR>��<BR>����{B2F�ŃC�x���g���� �y�s�[�ƈꏏ��B3F�� 3�l��B3F �Ŕ̃��b�Z�[�W�ɏ]�� B4F��<BR>��<BR>B4F�ŃC�x���g���� �~���t�B�[����ǂ�<BR>��<BR>�����W(���y�X) �E�B���[�̂܂�<BR>��<BR>�����W(���) �V�X�^�[�ɕ����Ė��@�̖@�ߓ���<BR>��<BR>����{B4F�ŃC�x���g���� �E�B���ɕϐg���ĕ�����B�ǂ�<BR>��<BR>����ŃC�x���g����  �{�X��(��)   ���A�E�E���g��Ȃ��Ɠ��鎖���̖���<BR>
+SSの攻略本が1998/4/1じゃ捜してもどうしようも無いでしょうしね。<BR>(私はSSの修理費の工面さえまだで・・一度も起動さえ出来てない、涙)<BR>情報収集(城内) 精霊宮へはウィローで良いそうです<BR>↓<BR>精霊宮探索<BR>↓<BR>精霊宮B2Fでイベント発生 ペピーと一緒にB3Fへ 3人でB3F 看板のメッセージに従う B4Fへ<BR>↓<BR>B4Fでイベント発生 ミルフィーユを追う<BR>↓<BR>情報収集(歓楽街) ウィローのまま<BR>↓<BR>情報収集(城内) シスターに聞いて魔法の法衣入手<BR>↓<BR>精霊宮B4Fでイベント発生 ウィルに変身して封印を。追う<BR>↓<BR>城内でイベント発生  ボス戦(笑)   注、・・を使わないと入る事自体無理<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:alicenek@hotmail.com" target="_blank">�i�@�������j�m��</a></strong>  <i>2002/06/21 23:37:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:alicenek@hotmail.com" target="_blank">（　≧▽≦）ノ♪</a></strong>  <i>2002/06/21 23:37:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=1024670271dcpbdb&id2=912786547leovx&ff=p">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_1024670271dcpbdb_id2_912786547leovx_ff_p.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����A���ז����܂��B<BR>�����v�������v�h�m�ł����w�������̂ł����A����Ɂu�v�h�m�X�T�E�X�W�v�Ή��Ƃ���̂ł����v�h�m�X�W�r�d�œ����܂���B<BR>���[�J�[����̂g�o�ɂ����łɁu�v�����Z�X�N�G�X�g�v�́u�v�v�̎����Ȃ��n���Ńp�b�`������̂��Ȃ��̂��E�E�E����ȑO�Ƀp�b�`�łǂ��ɂ��Ȃ���Ȃ̂������Ȃ�ł��B<BR>�v�h�m�ł��v���C�������Ƃ����邩���A�h�o�C�X�������܂��B��(�Q�Q)��
+どうも、お邪魔します。<BR>何を思ったかＷＩＮ版を先日購入したのですが、取説に「ＷＩＮ９５・９８」対応とあるのですがＷＩＮ９８ＳＥで動きません。<BR>メーカーさんのＨＰにもすでに「プリンセスクエスト」の「プ」の字もない始末でパッチがあるのかないのか・・・それ以前にパッチでどうにかなる問題なのかすら謎なんです。<BR>ＷＩＮ版をプレイしたことがあるかたアドバイス下さいませ。ｍ(＿＿)ｍ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:haruyo2@clotho.dricas.com" target="_blank">?????</a></strong>  <i>2002/06/22 06:13:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=1024694039kijitvw&id2=912786547leovx&ff=p">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_1024694039kijitvw_id2_912786547leovx_ff_p.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��ƂȂ����A���͂��͂ɐ���܂���̂ł�����Ƃ����E�E�B<BR>���\����Ȃ����ł�����BBS�͖w�ǌ����ċ��Ȃ������Ȃ̂�<BR>YMR bbs1���̕������X�̕t���\���������ł��B<BR>ttp://www.softwind.co.jp/sw2/swsoft.php3?fin=3&j=4995194000546<BR>�Ő��܂�ď��߂�Win�� "�v�����Z�X�N�G�X�gR" �p�b�P�[�W�����܂����E�E�B<BR>������Ё@�E�G�X�g�T�C�h�����u���y���݂b�c�v�ɂ�<BR>�X�e�[�^�X��������Ver1.00�����^����Ă���ł��ˁB<BR>GENSHO�搶�̃z�[���y�[�W�ŕ����Ă������ł��傤��?<BR>SoftWind2�ł̕\�������������𖞂����ċ���<BR>���S�Ƀ}�j���A���ɏ]���Ă̋N���Ŗ����Ȃ̂ł����玄�ɂ͐������������ł��BDirectX�̃o�[�W����?<BR>�Ƃ��������@�햼�A�Ǐ���ڂ����ǋL���Ă�<BR>�l���������Ă��鏊�ł̍ēx�̎���������߂��܂��B<BR>
+御免なさい、私はお力に成れませんのでちょっとだけ・・。<BR>結構巨大なここでもこのBBSは殆ど見られて居ない部分なので<BR>YMR bbs1等の方がレスの付く可能性が高いです。<BR>ttp://www.softwind.co.jp/sw2/swsoft.php3?fin=3&j=4995194000546<BR>で生まれて初めてWin版 "プリンセスクエストR" パッケージを見ました・・。<BR>株式会社　ウエストサイド発売「お楽しみＣＤ」にも<BR>ステータス書き換えVer1.00が収録されてたんですね。<BR>GENSHO先生のホームページで聞いても無理でしょうし?<BR>SoftWind2での表示を見る限り環境を満たして居て<BR>完全にマニュアルに従っての起動で無理なのでしたら私には推測さえ無理です。DirectXのバージョン?<BR>ともかくも機種名、症状を詳しく追記しての<BR>人が多く見ている所での再度の質問をお勧めします。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�i�@�������j�m��</strong>  <i>2002/06/22 23:26:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong>（　≧▽≦）ノ♪</strong>  <i>2002/06/22 23:26:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=1024756015dfmrj&id2=912786547leovx&ff=p">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_1024756015dfmrj_id2_912786547leovx_ff_p.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���X���肪�Ƃ��������܂��A��������Ȃɑ������X��������Ƃ͎v���Ă��Ȃ������̂łт�����ł��B<BR><BR>���̌f���ƁA���[�U�[�t���i�Z���ꏏ���ȁE�E�j�ɑS�Ă�����Ă݂܂��B
+レスありがとうございます、正直こんなに早くレスが頂けるとは思っていなかったのでびっくりです。<BR><BR>他の掲示板と、ユーザー葉書（住所一緒かな・・）に全てを託してみます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:haruyo2@clotho.dricas.com" target="_blank">?????</a></strong>  <i>2002/06/23 03:21:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=1024770064bhjpw&id2=912786547leovx&ff=p">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_1024770064bhjpw_id2_912786547leovx_ff_p.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-������Ƒ҂��������ǂ������B�����������𔃂��ė���<BR>��Ɉ��]�g�b�v�𑈂��Ă郁�[�J�[��PC��Me���<BR>�풓���f�t�H���g���X�ɑ��₵�Ă��Ԃ։�������<BR>���̂܂ܓ���Ă݂܂�����E�E�E�܂��������(��)<BR>���̏ڍׂ͂Ƃ�������������o�������_�ł���<BR>DISC#1�͂��܂��ƃC���X�g�[���f�B�X�N�Ȃ̂�<BR>������ɂł�SETUP.EXE�����s�������Ă��܂��Ό��<BR>DISC#2�����ăC���X�g�[�����w�肵���t�H���_���̃A�C�R�����N���b�N���邾����<BR>�Q�[���͎x�ᖳ���N���A�o����͂��E�E�܂�p�b�`�͗L�����Ƃ��Ă�<BR>���C���̕��ŕs�v���Ǝv���܂��B���̐�������DISC#1��SETUP�����s<BR>����Ă��Ȃ������Ȃ̂Ŗ�����ɂł��G�N�X�v���[����<BR>DISC#1���@�J���@�����ɂ���SETUP���@�J���@�����ŉ����o����A�܂�<BR>Windows�̎�ނɂ͖��֌W�̎��Ԃł�����ǂ����Ă��S�G���h������Ȃ�<BR>���̌��ۂ��N���Ȃ����葽�����ɉ�������K�v�͗L��܂���B<BR>SS�ōU���{������𓾂�K�v���L�鎞�����Ăь�Ăщ������B<BR>�\�Ȍ����͂ɐ���܂��̂łǂ����䉓�������B
+ちょっと待った方が良いかも。私が同じ物を買って来て<BR>常に悪評トップを争ってるメーカー製PCのMe上へ<BR>常駐をデフォルトより更に増やしてる状態へ何も見ず<BR>そのまま入れてみましたら・・・まぁちょっと(笑)<BR>その詳細はともかくそこから出した結論ですが<BR>DISC#1はおまけとインストールディスクなので<BR>無理矢理にでもSETUP.EXEを実行さえしてしまえば後は<BR>DISC#2を入れてインストール時指定したフォルダ内のアイコンをクリックするだけで<BR>ゲームは支障無くクリア出来るはず・・つまりパッチは有ったとしても<BR>微修正の物で不要だと思います。私の推測だとDISC#1のSETUPが実行<BR>されていないだけなので無理矢理にでもエクスプローラで<BR>DISC#1を　開く　か中にあるSETUPを　開く　だけで解決出来る、つまり<BR>Windowsの種類には無関係の事態ですからどうしても全エンドを見れない<BR>等の現象が起きない限り多分他に何もする必要は有りません。<BR>SS版攻略本から情報を得る必要が有る時だけ再び御呼び下さい。<BR>可能な限り御力に成りますのでどうぞ御遠慮無く。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:alicenek@hotmail.com" target="_blank">�i�@�������j�m��</a></strong>  <i>2002/06/23 20:43:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:alicenek@hotmail.com" target="_blank">（　≧▽≦）ノ♪</a></strong>  <i>2002/06/23 20:43:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=5&id=1024832581hembm&id2=912786547leovx&ff=p">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_5_id_1024832581hembm_id2_912786547leovx_ff_p.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ������肪�Ƃ��������܂��I�I<BR><BR>�l�d�œ��삷��Ƃ̂��Ƃł����̂ŐF�X����Ă݂��Ƃ���A�^�Ђ̉��z�b�c�\�t�g�̂����łb�c���ǂ߂Ȃ����Ƃ��킩��܂����B<BR><BR>���_���猾���܂��Ɩ����ɓ����悤�ɂȂ�܂����A�����ł��B�i�s���s<BR><BR>�{���ɂǂ������肪�Ƃ��������܂����B���i�Q �Q�j��
+どうもありがとうございます！！<BR><BR>ＭＥで動作するとのことでしたので色々やってみたところ、某社の仮想ＣＤソフトのせいでＣＤが読めないことがわかりました。<BR><BR>結論から言いますと無事に動くようになりました、感動です。（Ｔ▽Ｔ<BR><BR>本当にどうもありがとうございました。ｍ（＿ ＿）ｍ
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="5">
 <input type="hidden" name="id" value="912786547leovx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

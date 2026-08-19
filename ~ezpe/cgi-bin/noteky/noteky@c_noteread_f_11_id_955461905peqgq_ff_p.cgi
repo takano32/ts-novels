@@ -1,86 +1,86 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=11&id=955461905peqgq&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_11_id_955461905peqgq_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">�v���t�F�b�T�[�j</font><br>
+<font size="+2" color="#0000FF">プロフェッサーＫ</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/short/professor_k01.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/04/11 23:05:05</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/short/professor_k01.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/04/11 23:05:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=955461905peqgq&id2=955461905peqgq&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_955461905peqgq_id2_955461905peqgq_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���������N�E���r�N�ƃv���t�F�b�T�[�j�̕���c�̏��͂ł��ˁB���낢��ȗv�f�����荞�܂�Ă��āA���̌�̓W�J����ؓ�ł͂����Ȃ������ł��B�܂��́A���r�N�̃J���C�R�������Ղ�����\���ĉ������ȁB
+【推薦文】 うさ娘少年・ラビ君とプロフェッサーＫの物語…の序章ですね。いろいろな要素が盛り込まれていて、この後の展開も一筋縄ではいかなさそうです。まずは、ラビ君のカワイコちゃんっぷりを堪能して下さいな。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>MK5</strong>  <i>2000/05/02 22:53:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957275634npthly&id2=955461905peqgq&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957275634npthly_id2_955461905peqgq_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���₟��ϑf���炵���b�X�I�I(ToT)/�݂Ȃ���F�X�ƍl���ď�������Ă����ł��˂��I�l������΂�Ȃ���(>o<)/��Q�b���y���݂ɂ��Ă��܂��悧�`�I�I(^o^)/
+　いやぁ大変素晴らしいッス！！(ToT)/みなさん色々と考えて小説作っているんですねぇ！僕もがんばらないと(>o<)/第２話も楽しみにしていますよぉ～！！(^o^)/
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�ɂ����</strong>  <i>2000/05/10 00:35:40</i><br></td>
+<td  bgcolor="#00FFCC"><strong>にこりん</strong>  <i>2000/05/10 00:35:40</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=957886540ovssd&id2=955461905peqgq&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_957886540ovssd_id2_955461905peqgq_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������y���݂ł��B���r�Ƃj�A����ǂ͊w���Ńi�j�����ł�����<BR>�ł��傤���B�h�^�o�^�ł��傤���H���܂��w�������ł��傤���H<BR>����Ƃ��E�E�E<BR>���̃L�����̐ݒ�ŁA�������݂����ł��B����΂��Ă��������ˁB
+続きが楽しみです。ラビとＫ、こんどは学園でナニをしでかすの<BR>でしょうか。ドタバタでしょうか？あまい学園生活でしょうか？<BR>それとも・・・<BR>このキャラの設定で、続きをみたいです。かんばってくださいね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/short/professor_k02.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/05/16 00:10:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/short/professor_k02.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/05/16 00:10:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=958403426wyovcub&id2=955461905peqgq&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_958403426wyovcub_id2_955461905peqgq_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ���������N�̃��r�N���A�f�G�v�����ɂ��������C�h����Ƒ劈��!!�@���̉A�ŁA�v���t�F�b�T�[�j�͂ЂƂ�A����z��!?�B
+【推薦文】 うさ娘少年のラビ君が、素エプロンにうさ耳メイドさんと大活躍!!　その陰で、プロフェッサーＫはひとり、何を想う!?。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�L��@���M�i�ۑ��ۑ�M�j</strong>  <i>2000/05/18 01:00:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong>猫野　犬貴（丸太丸代筆）</strong>  <i>2000/05/18 01:00:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=958579257grvyxm&id2=955461905peqgq&ff=p">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_958579257grvyxm_id2_955461905peqgq_ff_p.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�i��2�b�j�u�ؚ��ɂ݂��ė͋����H�΂������̏o���钹�̂悤�Ɂv<BR>�����������I�@�ϐg�V�[�����Ō�̑䎌���A���ς�炸����߂��܂��B<BR>
+（第2話）「華奢にみえて力強く羽ばたく事の出来る鳥のように」<BR>かっこいい！　変身シーンも最後の台詞も、相変わらず美麗過ぎます。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="955461905peqgq">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

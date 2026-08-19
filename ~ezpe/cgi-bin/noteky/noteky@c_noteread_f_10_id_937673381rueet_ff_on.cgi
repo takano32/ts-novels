@@ -1,92 +1,92 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#1/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#1/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=10&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_10_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=10&id=937673381rueet&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteread_f_10_id_937673381rueet_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���̎q�ɂȂ肽���ȁc�Ȃ�邩�ȁH</font><br>
+<font size="+2" color="#0000FF">女の子になりたいな…なれるかな？</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/wanna_be_a_girl.html" target="_blank">���d�F</a></strong>  <i>1999/09/19 01:49:38</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/wanna_be_a_girl.html" target="_blank">八重洲</a></strong>  <i>1999/09/19 01:49:38</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937673381rueet&id2=937673381rueet&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937673381rueet_id2_937673381rueet_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z ����́A�ʔ����B����΃��^TS��i�Ƃł�������ł��傤���B�u�������n�v��i�̃t�@�����������ǎ҂���Ȃ�Ύv�킸�j�����Ə΂��āu������c�D����̂��i�㊯�����j�v�ƌ����肽���Ȃ邱�Ɛ��������ł��B�i�΁j�@�Ȃɂ��ɓǂ݂₷�����͂ɂ����ځB
+【推薦文】 これは、面白い。いわばメタTS作品とでもいうんでしょうか。「こっち系」作品のファン歴が長い読者さんならば思わずニヤリと笑って「お主も…好きよのう（代官口調）」と口走りたくなること請け合いです。（笑）　なにげに読みやすい文章にも注目。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�݂�����</strong>  <i>1999/09/19 23:18:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>みっしんぐ</strong>  <i>1999/09/19 23:18:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937750712shrxly&id2=937673381rueet&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937750712shrxly_id2_937673381rueet_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�ʔ����ł��ˁ�<BR>�@�\���̏��ɐU��񂳂�āA����Ƃ�����p�^�[����\�z����̂��΂���i��΁j
+　面白いですね♪<BR>　予言の書に振り回されて、ありとあらゆるパターンを予想するのが笑える（苦笑）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Tarota</strong>  <i>1999/09/20 23:25:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=937837504stfht&id2=937673381rueet&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_937837504stfht_id2_937673381rueet_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ������Ă���āA���肪�Ƃ��������܂��O�O<BR>���̎�̃M���O���̂��āA�����Ă���̓m���m���ł�����ł����A<BR>���x���ǂݒ������тɎ�������A�ʔ����̂��A�ʔ����Ȃ��̂�<BR>���f�����Ȃ��Ȃ����Ⴄ��ł���˂��c<BR><BR>������A�󂯓�����邩������ƕs����������ł����A<BR>���z������Ɨ�݂ɂȂ�܂��B
+面白がってくれて、ありがとうございます＾＾<BR>この手のギャグものって、書いてる内はノリノリでいいんですが、<BR>何度も読み直すたびに自分じゃ、面白いのか、面白くないのか<BR>判断がつかなくなっちゃうんですよねぇ…<BR><BR>だから、受け入れられるかちょっと不安だったんですが、<BR>感想頂けると励みになります。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">�^��@�I</a></strong>  <i>1999/09/23 03:13:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.geocities.co.jp/Playtown/7073/" target="_blank">真城　悠</a></strong>  <i>1999/09/23 03:13:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938024028ydbunn&id2=937673381rueet&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938024028ydbunn_id2_937673381rueet_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�u�[���v��i�ł���B����́B<BR>�@�܂�����FSC���̂̃W�������Ƃ��Ă̐��n�Ƃ����܂���࣏n�Ƃ����܂����E�E�E���ے����Ă���悤�Łi�΁j�B<BR>�@���̕���ɂ����p���o�������ł��ˁB�����c�Ƃ��i���j�B
+　「深い」作品ですよ。これは。<BR>　まさしくFSCもののジャンルとしての成熟といいますか爛熟といいますか・・・を象徴しているようで（笑）。<BR>　他の分野にも応用が出来そうですね。阿刀田とか（爆）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www03.u-page.so-net.ne.jp/za2/kmkm/" target="_blank">���d��</a></strong>  <i>1999/09/29 21:13:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www03.u-page.so-net.ne.jp/za2/kmkm/" target="_blank">豆電球</a></strong>  <i>1999/09/29 21:13:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=10&id=938607183gcctdcm&id2=937673381rueet&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_10_id_938607183gcctdcm_id2_937673381rueet_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���X�Ȃ�ł����ǁA�������Ɂu�[���v�ł��ˁB<BR>���N�������ɂ��u���t�W�v����u�Í��a�̏W�v�ւƃt�F�C�Y���i�񂾁c�ƌ����ׂ���(^^;
+今更なんですけど、たしかに「深い」ですね。<BR>少年少女文庫も「万葉集」から「古今和歌集」へとフェイズが進んだ…と言うべきか(^^;
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="10">
 <input type="hidden" name="id" value="937673381rueet">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=10&ff=on">�I�����C����i#1</a>]<br>
+[<a href="noteky@c_noteidx_f_10_ff_on.cgi">オンライン作品#1</a>]<br>
 
 </p>
 </body>

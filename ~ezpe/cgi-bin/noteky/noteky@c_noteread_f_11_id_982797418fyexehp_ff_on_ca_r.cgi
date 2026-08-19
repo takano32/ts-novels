@@ -1,471 +1,471 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=982797418fyexehp&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_982797418fyexehp_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">���o�C�o���K�[��(�f����No.2)</font><br>
+<font size="+2" color="#0000FF">リバイバルガール(掲示板No.2)</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi?c=noteread&f=11&id=978378213xgugqkb&ff=on" target="_blank">�ȑO�̊��z�͂�����</a></strong>  <i>2001/02/22 08:16:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="noteky@c_noteread_f_11_id_978378213xgugqkb_ff_on.cgi" target="_blank">以前の感想はこちら</a></strong>  <i>2001/02/22 08:16:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=982797418fyexehp&id2=982797418fyexehp&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_982797418fyexehp_id2_982797418fyexehp_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���o�C�o���K�[���ւ̊��z�͂�����ɂ��肢���܂��B
+リバイバルガールへの感想はこちらにお願いします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2001/02/25 18:48:53</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2001/02/25 18:48:53</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983094533ufjxde&id2=982797418fyexehp&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983094533ufjxde_id2_982797418fyexehp_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̍ݏ�<BR>�@�A�ؔ�����̏�A�\�y�̗��₨�g�C���̒I�c�B<BR>�@�����������͈�Ԍ����B���₷���ꏊ�Ȃ̂ŁA�܂��u���܂���B<BR>�i����T���ꍇ�A�悸��������T���ƌ�����܂��j<BR>�@�ȊO�ƌ����ɂ����̂��A<BR>�u�V�܂̈����˂̗��Ƀe�[�v�Œ���t����v�u����@�̊O�̗����v�ȂǁA���悻���ʂ̕��@�ł͎v�����Ȃ��ꏊ�ɉB���܂�<BR>�i�����ƌ����ɂ����ꏊ�����邪�����j�B<BR><BR>�����悤�ӂ�<BR>�����������ƒ֍g����񂪒��Ă��镞����܂Â��Ă���<BR>���`��A������Ǝv�����Ȃ��B���������֍g�̃t�@�b�V�����Z���X<BR>
+＊鍵の在処<BR>　植木鉢や梁の上、箪笥の裏やおトイレの棚…。<BR>　こういう所は一番鍵を隠しやすい場所なので、まず置きません。<BR>（鍵を探す場合、先ずそこから探すと見つかります）<BR>　以外と見つけにくいのが、<BR>「天袋の引き戸の裏にテープで張り付ける」「洗濯機の外板の裏側」など、およそ普通の方法では思いつかない場所に隠します<BR>（もっと見つけにくい場所もあるが内緒）。<BR><BR>＊おようふく<BR>＞風実ちゃんと椿紅ちゃんが着ている服からつまづいている<BR>う～ん、ちょっと思いつかない。＞風実＆椿紅のファッションセンス<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/02/26 00:34:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/02/26 00:34:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983115299pjemxlj&id2=982797418fyexehp&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983115299pjemxlj_id2_982797418fyexehp_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���Ȃ���l�A���肪�Ɓ[�������܂��B<BR><BR>�������������͈�Ԍ����B���₷���ꏊ�Ȃ̂ŁA�܂��u���܂���<BR><BR>�@�����ł��˂��B�ł��܂��{���Ɍ����ɂ����Ƃ���ɉB���قǑ厖�Ƃ����킯�ł͂Ȃ������̂ł͂Ȃ��ł��傤���B�����͂��ꂱ��Ɛ[���l����^�C�v�ł͂���܂���ł����B����ɂ��̃V�[���́u�����v���������߂ɓ��ꂽ�悤�Ȃ��̂ł�����A�m���Ɉ�l�ɂȂ��ꏊ�Ƃ������Ƃł����Ȃ����̂ł����B<BR><BR>�����`��A������Ǝv�����Ȃ��B���������֍g�̃t�@�b�V�����Z���X<BR><BR>�@�����ł���˂��B��l�̚n�D�ɂ��Ă͌���Ă��Ȃ�����d���Ȃ��ł���ˁB��l�̂Ȃ̂ŁA���D����񂪌������̂������������܂��񂩂�ˁB���Ɗw�����ȊO�̓�l�ɉ���Ƃ��Ȃ��Ƃ����̂������ł��ˁi���������͐����Ƃ��Ēm���Ă���͂������ǁj�B<BR>�@���̂Ƃ��뎄�̃C���[�W�Ƃ��ẮA���������̕����̓J�W���A���Ȃ��̂������A�A�N�Z�T���͂��Ȃ��B���邢�F���D�݁B�֍g�����͔h��D���ŗ��s�ɕq���B���s�F�͑��߂Ɏ������B�c�c�����܂ōl���āA���̓t�@�b�V�����̗��s���m��Ȃ������ɂ���Ȃ��Ə����ׂ��ł͂Ȃ��Ǝv���܂����B���ӁF���ۂɏo���オ��ƕʂ̂��̂ɂȂ��Ă���\��������܂��B<BR>�@�ŁA�X�Ȃ�s���`�Ɋׂ��Ă��܂��B����̓R�[�f�B�l�[�g�B��ނ͂��Ƃ��F���厖�ł��邽�߂��̃C���[�W�ɏ������čl���Ă��܂��B��l�͕��������̎�𓥂܂��āA�������ł���ɔ����镞��񎦂������ł����c�c�ʂ����ďo�������̂������Ȃ��Ă���̂��B<BR><BR>�@�o���͔������炢�ł��B��ҋ}�a�̂��߈���x�݂ɂ��Ă��������B���T�ɂ́c�c�o�����炢���ȁi��C�j�B
+すなさん様、ありがとーございます。<BR><BR>＞こういう所は一番鍵を隠しやすい場所なので、まず置きません<BR><BR>　そうですねぇ。でもまあ本当に見つけにくいところに隠すほど大事というわけではなかったのではないでしょうか。正美はあれこれと深く考えるタイプではありませんですし。それにこのシーンは「同調」を試すために入れたようなものですから、確実に一人になれる場所ということでああなったのでした。<BR><BR>＞う～ん、ちょっと思いつかない。＞風実＆椿紅のファッションセンス<BR><BR>　そうですよねぇ。二人の嗜好については語っていないから仕方ないですよね。一人称なので、香織ちゃんが見たものだけしか書きませんからね。あと学生服以外の二人に会うことがないというのも原因ですね（風実ちゃんは正美として知っているはずだけど）。<BR>　今のところ私のイメージとしては、風実ちゃんの服装はカジュアルなものが多く、アクセサリはしない。明るい色が好み。椿紅ちゃんは派手好きで流行に敏感。流行色は早めに取り入れる。……ここまで考えて、私はファッションの流行も知らないくせにそんなこと書くべきではないと思いました。注意：実際に出来上がると別のものになっている可能性があります。<BR>　で、更なるピンチに陥っています。それはコーディネート。種類はもとより色も大事であるためそのイメージに乗っ取って考えています。二人は風実ちゃんの趣味を踏まえて、何処かでそれに反する服を提示するつもりですが……果たして出来たものがそうなっているのか。<BR><BR>　出来は半分くらいです。作者急病のため一周休みにしてください。来週には……出来たらいいな（弱気）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/02/26 00:44:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/02/26 00:44:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=983115857tdyyh&id2=982797418fyexehp&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_983115857tdyyh_id2_982797418fyexehp_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��<BR>����l�͕��������̎�𓥂܂���<BR><BR>�@�ԈႢ�܂����A���D�����̎�ł��B���D�����͖ڗ��̂������Ȃ̂Ŗڗ����Ȃ������D�݂ł��B
+↑<BR>＞二人は風実ちゃんの趣味を踏まえて<BR><BR>　間違いました、香織ちゃんの趣味です。香織ちゃんは目立つのが嫌いなので目立たない服が好みです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl11.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/04/10 04:32:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl11.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/04/10 04:32:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986844721ixihl&id2=982797418fyexehp&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986844721ixihl_id2_982797418fyexehp_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���o�C�o���K�[��11�z<BR>�y���E���z ���F�B��Ƃ̈��炢���ꎞ�B�������A�^���͗�C�̔@���Ђ�����ƁA�������m���Ɏ�l���ɗ��ݕt���A���̐S��ۂݍ���ł����܂��c�c�B<BR>
+【リバイバルガール11】<BR>【推薦文】 女友達らとの安らいだ一時。しかし、運命は冷気の如くひっそりと、しかし確実に主人公に絡み付き、その心を呑み込んでいきます……。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/04/10 08:07:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/04/10 08:07:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986857656pwmlubr&id2=982797418fyexehp&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986857656pwmlubr_id2_982797418fyexehp_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�������A�������������Řb���I�����邩�Ǝv������A�Ō�̍Ō�ŁA�X�g�[�J�[��Y�A��{�W�i�̂��o��ł����I�I�@�����`��A�ٔ����Ă��܂����˂��B�h�L�h�L����������҂��������܂��B���̓W�J�́A�ǂ��ł���B���j�̎q������ǁA���͏��̎q�̐g�̂ł��鍁�D����񂪁A�X�g�[�J�[�̋��|���ǂ���̓I�Ɋ�����̂��c�c�B���̂�����̕`�ʁA���҂��Ă���܂��B
+　おおっ、お買い物だけで話が終了するかと思いきや、最後の最後で、ストーカー野郎、櫁宮晃司のご登場ですか！！　うぅ～ん、緊迫してきましたねえ。ドキドキしつつ次回をお待ちいたします。この展開は、良いですよ。元男の子だけれど、今は女の子の身体である香織ちゃんが、ストーカーの恐怖をどう具体的に感じるのか……。そのあたりの描写、期待しております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/04/10 09:01:32</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/04/10 09:01:32</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986860892jksulex&id2=982797418fyexehp&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986860892jksulex_id2_982797418fyexehp_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����[�I���D�����A�s�[���`�I�ʂ����ăX�g�[�J�[��Y�͍��D�̑��݂ɋC�t���̂��H<BR>���������A�u�����ւ��l�`�v��Ԃɂ����̂��Ǝv���Ă����̂ŁA������ƒE�́B<BR>������ɂ��Ă��A���񂪔��Ɋy���݂ł��ˁB
+うわー！香織ちゃん、ピーンチ！果たしてストーカー野郎は香織の存在に気付くのか？<BR>お買い物、「着せ替え人形」状態にされるのかと思っていたので、ちょっと脱力。<BR>いずれにしても、次回が非常に楽しみですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>vmxas</strong>  <i>2001/04/10 22:12:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986908356ktfolg&id2=982797418fyexehp&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986908356ktfolg_id2_982797418fyexehp_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�V���[�Y�y���݂ɂ��Ă��܂��B�撣���ĉ������B
+シリーズ楽しみにしています。頑張って下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:kawane2001@yahoo.co.jp" target="_blank">����˂�</a></strong>  <i>2001/04/10 23:56:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:kawane2001@yahoo.co.jp" target="_blank">かわねぎ</a></strong>  <i>2001/04/10 23:56:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986914579ycfgva&id2=982797418fyexehp&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986914579ycfgva_id2_982797418fyexehp_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���������łق̂ڂ̃��[�h�ɂȂ邩�Ǝv�����̂ł����A�Ō�łЂ�����Ԃ���܂����ˁB���D�����ْ̋����`����Ă��܂��B�����Ƃ���Łu�Â��v�ł����B��������҂��Ă܂��B
+お買い物でほのぼのムードになるかと思ったのですが、最後でひっくり返されましたね。香織ちゃんの緊張が伝わってきます。いいところで「つづく」ですか。次回も期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong><a href="mailto:tomosan@da.mbn.or.jp" target="_blank">TOM</a></strong>  <i>2001/04/11 18:50:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986982625vkoxrm&id2=982797418fyexehp&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986982625vkoxrm_id2_982797418fyexehp_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
- �ʔ��������̂ŁA��C��11�b�܂œǂ�ł��܂��܂����B<BR>����ł̍��D�̐S���Ƌْ����̕`�ʁA�X�g�[�J�[�̍s����<BR>���҂��Ă��܂��B<BR> �y���݁`
+ 面白かったので、一気に11話まで読んでしまいました。<BR>次回での香織の心境と緊張感の描写、ストーカーの行動に<BR>期待しています。<BR> 楽しみ～
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/04/11 22:55:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/04/11 22:55:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=986997325atihx&id2=982797418fyexehp&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_986997325atihx_id2_982797418fyexehp_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ɓ[�������܂��`�I<BR>�ǂ����ȃV���[�Y�^�C�g���܂ł��Ă��������āA���ӂł��B�����撣���đ����������Ȃ���΂����܂���ˁB���D�����̉^����A�����ɁB<BR><BR>���W���[�W���b�h�l<BR>�����j�̎q������ǁA���͏��̎q�̐g�̂ł��鍁�D����񂪁A�X�g�[�J�[�̋��|���ǂ���̓I�Ɋ�����̂��c�c<BR>�����̂�����̕`�ʁA���҂��Ă���܂�<BR><BR>���͂��܂芴��ړ����Ȃ��̂ł����A���Ƃ����D�����ƃV���N�����ċ��|��\���������ł��ˁB���|�Ƃ������͖̂ڂɌ�������̂�茩���Ȃ����̂̕����|���̂ł����A����͊댯�𔺂����|�ł�����ʕ��ł��B<BR><BR>���_�����z�̂����W�S�Q�U�l<BR>������[�I���D�����A�s�[���`�I�ʂ����ăX�g�[�J�[��Y�͍��D�̑��݂ɋC�t���̂��H<BR>�����������A�u�����ւ��l�`�v��Ԃɂ����̂��Ǝv���Ă����̂ŁA������ƒE��<BR><BR>�C�t���ꂽ��I���̃��^���M�A�\���b�h��Ԃł��B���[�ƁA�����ւ��l�`�ł����H�@�ł��������Ă݂܂������܂���҂��Ȃ��ŉ������ˁB<BR><BR>��vmxas�l<BR>���V���[�Y�y���݂ɂ��Ă��܂��B�撣���ĉ�����<BR><BR>�͂��A�撣��܂��̂ŉ�����낵�����肢���܁`���B<BR><BR>������˂��l<BR>�����D�����ْ̋����`����Ă��܂�<BR><BR>���������Ă���������Ƃ��ꂵ���ł��B������X�g�[�J�[��Y�͏o�Ă��܂��̂ō��D�����ɂْ͋����Ă��������܂��B<BR><BR>���s�n�l�l<BR>������ł̍��D�̐S���Ƌْ����̕`�ʁA�X�g�[�J�[�̍s���Ɋ��҂��Ă��܂��B<BR><BR>��C�ɓǂ�ł������肠�肪�Ƃ��������܂��B����͂��ɂȂ邩�킩��Ȃ��ł����A�K���o���܂��̂Ŋ��҂��ĂĂ��������ˁB<BR><BR>����̓��e�̓X�g�[�J�[��Y���瓦���違�������i�㔼�j�ŁA�T�u�^�C�g���́u�G�X�P�[�v�v�̗\��ł��B
+ありがとーございます～！<BR>良さげなシリーズタイトルまでつけていただいて、感謝です。さあ頑張って続きを書かなければいけませんね。香織ちゃんの運命や、いかに。<BR><BR>＞ジャージレッド様<BR>＞元男の子だけれど、今は女の子の身体である香織ちゃんが、ストーカーの恐怖をどう具体的に感じるのか……<BR>＞そのあたりの描写、期待しております<BR><BR>私はあまり感情移入しないのですが、何とか香織ちゃんとシンクロして恐怖を表現したいですね。恐怖というものは目に見えるものより見えないものの方が怖いのですが、今回は危険を伴う恐怖ですから別物です。<BR><BR>＞神速感想のｍｋ８４２６様<BR>＞うわー！香織ちゃん、ピーンチ！果たしてストーカー野郎は香織の存在に気付くのか？<BR>＞お買い物、「着せ替え人形」状態にされるのかと思っていたので、ちょっと脱力<BR><BR>気付かれたら終わりのメタルギアソリッド状態です。えーと、着せ替え人形ですか？　できたら入れてみますがあまり期待しないで下さいね。<BR><BR>＞vmxas様<BR>＞シリーズ楽しみにしています。頑張って下さい<BR><BR>はい、頑張りますので応援よろしくお願いしま～す。<BR><BR>＞かわねぎ様<BR>＞香織ちゃんの緊張が伝わってきます<BR><BR>そう言っていただけるとうれしいです。次回もストーカー野郎は出てきますので香織ちゃんには緊張していただきます。<BR><BR>＞ＴＯＭ様<BR>＞次回での香織の心境と緊張感の描写、ストーカーの行動に期待しています。<BR><BR>一気に読んでくださりありがとうございます。次回はいつになるかわからないですが、必ず出しますので期待しててくださいね。<BR><BR>次回の内容はストーカー野郎から逃げる＆買い物（後半）で、サブタイトルは「エスケープ」の予定です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl12.html" target="_blank">�P�Q�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/05/13 16:47:25</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl12.html" target="_blank">１２話を読むにはここをクリック</a></strong>  <i>2001/05/13 16:47:25</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989740045aoocuv&id2=982797418fyexehp&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989740045aoocuv_id2_982797418fyexehp_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�S�ݓX�ł̃V���b�s���O���Ɋ������A�u�A�C�c�v�̌��ȋC�z�B�Ȃ̂ɍ��D�͓̑̂����Ȃ��B���D�͈�̂ǂ��Ȃ�̂��I�H
+百貨店でのショッピング中に感じた、「アイツ」の嫌な気配。なのに香織の体は動かない。香織は一体どうなるのか！？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/05/13 18:30:02</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/05/13 18:30:02</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989746202atyxkh&id2=982797418fyexehp&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989746202atyxkh_id2_982797418fyexehp_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y��\��b�@�G�X�P�[�v�z<BR>�@��ςɋٔ��������܂����B����́A�܂��Ɏ�Ɋ��̓W�J�ł����B<BR>�@�����č��D�����ɖ{���̗F�B���o���܂����ˁB�Ƃ��Ƃ��X�g�[�J�[�s�ׂ��󂯂Ă��邱�Ƃ�b���܂����B����ő傫�����D�Ƃ��Ă̐l�����O�i�����悤�ȋC�����܂��B���܂ł͍��D�i�����j�́A������l�ŉߋ��𐴎Z���Ȃ���΁A�����͍��D�Ƃ��Ă̐l������߂Ȃ��ƈӌŒn�ɐ����Ă�����������܂������A���̂܂܂̎������󂯓���邱�Ƃ��o�����悤�ł��ˁB���ɐ����͊��S�ɍ��D�ɂȂ����悤�ȋC�����܂��B<BR>�@���āA��́A�Q�l�̗F�B�̋��͂𓾂����D�́A�΃X�g�[�J�[���̔�����҂��Ƃɂ��܂��傤�B���悢�您�����낭�Ȃ��Ă��܂����B<BR>�@���D�����A�K���o���I
+【第十二話　エスケープ】<BR>　大変に緊迫いたしました。今回は、まさに手に汗の展開でした。<BR>　そして香織ちゃんに本当の友達が出来ましたね。とうとうストーカー行為を受けていることを話しました。これで大きく香織としての人生が前進したような気がします。今までは香織（正美）は、自分一人で過去を清算しなければ、自分は香織としての人生を歩めないと意固地に成っていた感もありましたが、今のままの自分を受け入れることが出来たようですね。既に正美は完全に香織になったような気がします。<BR>　さて、後は、２人の友達の協力を得た香織の、対ストーカー作戦の発動を待つことにしましょう。いよいよおもしろくなってきました。<BR>　香織ちゃん、ガンバレ！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/05/13 18:31:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/05/13 18:31:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989746274illbmn&id2=982797418fyexehp&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989746274illbmn_id2_982797418fyexehp_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ʔ��������ł���B<BR>���F�B���o���Ă悩�����ł��ˁi�΁j<BR>�ł��A�������Ԃ��Ă̂������Ă��܂��܂��ˁB<BR>���ꂶ��[�X�g�[�J�[��Y�̎v���܂܂ɂȂ����Ⴄ��B<BR>���D�����̂��߂ɂ��u���[�ƕ��������E���q�����̊�������҂��Ă܂��B
+面白かったですよ。<BR>お友達が出来てよかったですね（笑）<BR>でも、金縛り状態ってのも困ってしまいますね。<BR>これじゃーストーカー野郎の思うままになっちゃうよ。<BR>香織ちゃんのためにもブルーと風実ちゃん・美子ちゃんの活躍を期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">����݂���</a></strong>  <i>2001/05/13 19:29:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:admw@g.am" target="_blank">亜希みちる</a></strong>  <i>2001/05/13 19:29:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989749782krxoabn&id2=982797418fyexehp&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989749782krxoabn_id2_982797418fyexehp_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�X�g�[���[�ɋْ���������y���߂܂����B<BR>�V�L�����̂��F�B�̏o���B<BR>����΂��āA�X�g�[�J�[��������Ăق������̂ł��B<BR>�����y����
+ストーリーに緊張感があり楽しめました。<BR>新キャラのお友達の出現。<BR>がんばって、ストーカーをやっつけてほしいものです。<BR>次回作楽しみ
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/05/13 21:51:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/05/13 21:51:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989758283pakrph&id2=982797418fyexehp&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989758283pakrph_id2_982797418fyexehp_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ɓ[�������܂��B<BR>���͍��D�����ƃX�g�[�J�[��Y�A�^�C�}���Ƃ����W�J���l���Ă�����ł��B�j��VS�����ł��A�����ɂ���Ă͌݊p�ȏ�̐킢���ł����͂��ł����c�c�ł��Ȃ��Ȃ��Ă��܂��܂����B�ǂ����悤�B<BR><BR>���W���[�W���b�h�l<BR>�����܂ł͍��D�i�����j�́A������l�ŉߋ��𐴎Z���Ȃ���΁A������<BR>�����D�Ƃ��Ă̐l������߂Ȃ��ƈӌŒn�ɐ����Ă�����������܂���<BR><BR>����͊m���ɂ���܂����B���l���������܂������Ȃ��Ƃ����̂��A����܂Ƃ����������Ƃ����l��������܂�����B���l�̊�����Q�̖W���ɂȂ邱�Ƃ����ꂽ�̂ł��ˁB�������{���̗F�B�ɂȂ�����l�͍��D�����ɘa�������߂���͂��܂���B�������D����񂪖{���͎���ł��邱�Ƃ��܂��b���Ă��Ȃ��̂ŁA�u���[�Ƃ͂܂��ʂ̑Ή����K�v�ɂȂ�悤�ł��B<BR><BR>�����낢�邩�l<BR>���������Ԃ��Ă̂������Ă��܂��܂���<BR>�����ꂶ��[�X�g�[�J�[��Y�̎v���܂܂ɂȂ����Ⴄ��<BR><BR>�����Ȃ�ł���ˁB������z�����ڋ߂Â���͈͓��ɂ͂����ɓ��ݍ��߂Ȃ��̂ł��B��������������ǂ�����āA�g�����̎��Ȃ����D�͒w偂̑��ɂ����������Ɠ����ł��B�Ȃ񂩏���ɒǂ��l�߂��Ă܂��c�c�ǂ����悤�B<BR><BR>������݂���l<BR>���X�g�[���[�ɋْ���������y���߂܂���<BR>������΂��āA�X�g�[�J�[��������Ăق������̂ł�<BR><BR>�ǂ������肪�Ƃ��������܂��B���D�����ɂْ͋������ς��ɂȂ��Ă��炢�܂����B���̂������ł�����ƃR���ꂿ����āA���i�̍��D�����ł͌����Ȃ��i�����ł�����Ȃ��悤�ȁj�ʂ��o�Ă��Ă��܂��܂����B<BR><BR>�����Ɣ��q����́i�΁j�ɂȂ�̂��͖���ł��B������������s�m��v�f�Ƃ��āA�����̌��ɂȂ�̂�������܂���B�ł��A���́c�c��l�Ɏ����b���̂͏I�ՂɂȂ��Ă���ƍl���Ă�����ł��B����Ȃ̂Ɂc�c�ǂ����܂��傤�B���[��A�Ȃ��[�ɂȂ邳�[�i���ӔC�j�I
+ありがとーございます。<BR>実は香織ちゃんとストーカー野郎、タイマンという展開も考えていたんです。男性VS女性でも、やり方によっては互角以上の戦いができたはずですが……できなくなってしまいました。どうしよう。<BR><BR>＞ジャージレッド様<BR>＞今までは香織（正美）は、自分一人で過去を清算しなければ、自分は<BR>＞香織としての人生を歩めないと意固地に成っていた感もありました<BR><BR>それは確かにありました。他人を巻き込ませたくないというのも、足手まといを嫌ったという考えがありますから。他人の感情が復讐の妨げになることを恐れたのですね。しかし本当の友達になった二人は香織ちゃんに和解を求めたりはしません。ただ香織ちゃんが本当は死んでいることをまだ話していないので、ブルーとはまた別の対応が必要になるようです。<BR><BR>＞しろいるか様<BR>＞金縛り状態ってのも困ってしまいますね<BR>＞これじゃーストーカー野郎の思うままになっちゃうよ<BR><BR>そうなんですよね。だから奴が直接近づける範囲内にはうかつに踏み込めないのです。もし見つかったら追いつかれて、身動きの取れない香織は蜘蛛の巣にかかった蝶と同じです。なんか勝手に追い詰められてます……どうしよう。<BR><BR>＞亜希みちる様<BR>＞ストーリーに緊張感があり楽しめました<BR>＞がんばって、ストーカーをやっつけてほしいものです<BR><BR>どうもありがとうございます。香織ちゃんには緊張しっぱしになってもらいました。そのおかげでちょっとコワれちゃって、普段の香織ちゃんでは見られない（正美ですらやらないような）面が出てきてしまいました。<BR><BR>風実と美子が戦力（笑）になるのかは未定です。もしかしたら不確定要素として、勝利の鍵になるのかもしれません。でも、実は……二人に事情を話すのは終盤になってからと考えていたんです。それなのに……どうしましょう。うーん、なるよーになるさー（無責任）！
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/05/13 23:08:05</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989762885diyhk&id2=982797418fyexehp&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989762885diyhk_id2_982797418fyexehp_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂފԁA�����ƍ��D�����ƈ�̉����ċْ��������Ă܂����B<BR>���āA���ꂩ��X�g�[�J�[�����l�ߏ�����Ԃɓ����Ă������ł����A<BR>�����ɂ���3�d���Ԃ̍��D����񂪁A�X�g�[�J�[�����ނ���̂�<BR>�i�ł���̂��ȁH�j�y���݂ł��B<BR>���ƁA2�l�̐V�����F�B�����D�������ǂ��ς��Ă����Ă����̂���<BR>���҂��Ă܂��B
+読む間、ずっと香織ちゃんと一体化して緊張し続けてました。<BR>さて、これからストーカー側も詰め将棋状態に入ってきそうですが、<BR>いかにして3重苦状態の香織ちゃんが、ストーカーを撃退するのか<BR>（できるのかな？）楽しみです。<BR>あと、2人の新しい友達が香織ちゃんをどう変えていってくれるのかも<BR>期待してます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/05/13 23:29:46</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/05/13 23:29:46</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989764186ytrwrt&id2=982797418fyexehp&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989764186ytrwrt_id2_982797418fyexehp_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���|�B<BR>����̂��b�͂��̈ꌾ�ɂ��܂��B<BR>���D�̊����鋰�|�̕`�ʂ��ō��ɂ悩�����B<BR>�܂�Ŏ��������̋��|�������Ă���悤�ȋC���炵�܂����B<BR>�F��B<BR>�S���J����A�����̔Y�݂����������邱�Ƃ̂ł���A�F�B�B�悩�����ˁA���D�����B<BR>���j�̒��ԂɃA�b�v���ꂽ���āA�d���̐^���Œ��Ő_���ɓǂ߂Ȃ������ł����i�܁j�B
+恐怖。<BR>今回のお話はこの一言につきます。<BR>香織の感じる恐怖の描写が最高によかった。<BR>まるで自分がその恐怖を感じているような気すらしました。<BR>友情。<BR>心を開ける、自分の悩みをうち明けることのできる、友達。よかったね、香織ちゃん。<BR>日曜の昼間にアップされたって、仕事の真っ最中で神速に読めないｍｋでした（涙）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/05/14 01:29:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/05/14 01:29:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989771369ipexs&id2=982797418fyexehp&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989771369ipexs_id2_982797418fyexehp_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ����A���肪�Ƃ��������܂��B<BR><BR>��TOM�l<BR>���D�����ْ̋����A�����҂ɓY�����Ƃ��ł����ł��傤���H�@�^�C�}�����s�\�ɂȂ������D����񂪂ǂ�����ăX�g�[�J�[��Y�ɗ����������̂��A����͂܂��l���Ă܂���i���ʖڂ���Ȃ��I�j�B<BR><BR>���_�����z�̂����W�S�Q�U�i�����Ekagerou6����j�l<BR>���N�G�X�g�̒����ւ��l�`��ԁA����Ă͌������̂̕`�ʂ��Â�����������܂�Ӗ����Ȃ����������A�ł��B�܁[����ȏ󋵂ɂł��Ȃ�Ȃ�����A�R�X�v���Ȃ�Ď�������͂�������Ȃ��ł�����ˁB�R���f�B�Ȃ狭���ȗF�B�ɋ��v����Ă��Ă����W�J�������ł����A���̂��b�ł͂ǂ��ɂ��c�B
+どうも、ありがとうございます。<BR><BR>＞TOM様<BR>香織ちゃんの緊張感、ご期待に添うことができたでしょうか？　タイマンも不可能になった香織ちゃんがどうやってストーカー野郎に立ち向かうのか、それはまだ考えてません（←駄目じゃない！）。<BR><BR>＞神速感想のｍｋ８４２６（命名・kagerou6さん）様<BR>リクエストの着せ替え人形状態、入れては見たものの描写が甘いせいかあんまり意味がなかったかも、です。まーあんな状況にでもならない限り、コスプレなんて自分からはしたがらないですからね。コメディなら強引な友達に強要されてっていう展開もあるんですが、このお話ではどうにも…。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����˂�</strong>  <i>2001/05/15 22:59:00</i><br></td>
+<td  bgcolor="#00FFCC"><strong>かわねぎ</strong>  <i>2001/05/15 22:59:00</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989935140adewwq&id2=982797418fyexehp&ff=on">APPEND 19</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989935140adewwq_id2_982797418fyexehp_ff_on.cgi">APPEND 19</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�O��̑����ŁA�ŏ�����ْ����܂���ł��ˁB�g�̂��������Ƃ𕷂��Ȃ����ǂ������A�ǂ��߂���ْ��A���D�����̏ł肪�|���\������Ă��܂��ˁB���ǌ��ރO�b�Y�͔����Ȃ������悤�ł����A���ꂩ��ǂ̂悤�ɃX�g�[�J�[��Y�ƑΌ����Ă����̂��y���݂ł��B
+　前回の続きで、最初から緊張しまくりですね。身体が言うことを聞かないもどかしさ、追いつめられる緊張、香織ちゃんの焦りが旨く表現されていますね。結局撃退グッズは買えなかったようですが、これからどのようにストーカー野郎と対決していくのか楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/05/15 23:29:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/05/15 23:29:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989936983tpcdro&id2=982797418fyexehp&ff=on">APPEND 20</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989936983tpcdro_id2_982797418fyexehp_ff_on.cgi">APPEND 20</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����˂��l�A���肪�Ɓ[�������܂��B<BR><BR>�����ǌ��ރO�b�Y�͔����Ȃ������悤�ł����A���ꂩ��ǂ̂悤�ɃX�g�[�J�[��Y�ƑΌ����Ă����̂��y���݂ł�<BR><BR>�撣��܂��ł��B�����܂��ǂ��Ώ������悤���l���ĂȂ������肵�܂��i���j�B�ł��ł��A����͂��������������J�ł���Ǝv���܂��̂ł����҂��������B���ƁA���s���ĐV��Ɏ��g��ł܂��i���ł��邩�͕s���ł����j�B
+かわねぎ様、ありがとーございます。<BR><BR>＞結局撃退グッズは買えなかったようですが、これからどのようにストーカー野郎と対決していくのか楽しみです<BR><BR>頑張りますです。私もまだどう対処させようか考えてなかったりします（爆）。でもでも、次回はもう少し早く公開できると思いますのでご期待ください。あと、平行して新作に取り組んでます（いつできるかは不明ですが）。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�d�Z���̉ɐl</strong>  <i>2001/05/16 14:54:58</i><br></td>
+<td  bgcolor="#00FFCC"><strong>電算室の暇人</strong>  <i>2001/05/16 14:54:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=989992498qnnqow&id2=982797418fyexehp&ff=on">APPEND 21</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_989992498qnnqow_id2_982797418fyexehp_ff_on.cgi">APPEND 21</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�Q�b�A�q�������Ă��������܂����B<BR>�ٔ����̕\�����悩�����ł��B<BR><BR>�X�g�[�J�[�Ƃ̑Λ��A�F��c�c�������y���݂ł��B<BR>����΂��ĉ������B
+１２話、拝見させていただきました。<BR>緊迫感の表現がよかったです。<BR><BR>ストーカーとの対峙、友情……続きが楽しみです。<BR>がんばって下さい。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y�|miki��xb3.so�|net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/05/17 21:57:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y－miki＠xb3.so－net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/05/17 21:57:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990104247illgtb&id2=982797418fyexehp&ff=on">APPEND 22</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990104247illgtb_id2_982797418fyexehp_ff_on.cgi">APPEND 22</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�d�Z���̉ɐl�l�A���肪�Ɓ[�������܂��B<BR><BR>���ٔ����̕\�����悩�����ł�<BR><BR>���������Ă���������Ə������b�オ����܂��B����A���D�����ɂ͋ٔ������炿����Ɨ���Ă��炤����ł��B�{���ɂ����Ȃ��Ă���邩�͏����Ă݂Ȃ��Ƃ킩��܂��񂯂ǁc�c�ˁB
+電算室の暇人様、ありがとーございます。<BR><BR>＞緊迫感の表現がよかったです<BR><BR>そう言っていただけると書いた甲斐があります。次回、香織ちゃんには緊迫感からちょっと離れてもらうつもりです。本当にそうなってくれるかは書いてみないとわかりませんけど……ね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>vmxas</strong>  <i>2001/05/20 23:55:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990370519kxbjls&id2=982797418fyexehp&ff=on">APPEND 23</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990370519kxbjls_id2_982797418fyexehp_ff_on.cgi">APPEND 23</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-12�b�ǂ܂��Ă��������܂����B�����Ɣ��q���S���������ɂȂ鎖�����҂��܂��B�������y���݂ɂ��Ă���܂��B
+12話読ませていただきました。風実と美子が心強い味方になる事を期待します。続きを楽しみにしております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y�|miki��xb3.so�|net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/05/21 00:45:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y－miki＠xb3.so－net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/05/21 00:45:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=990373555mkjhfdo&id2=982797418fyexehp&ff=on">APPEND 24</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_990373555mkjhfdo_id2_982797418fyexehp_ff_on.cgi">APPEND 24</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-vmxas�l�A���肪�Ɓ[�������܂��B<BR><BR>�������Ɣ��q���S���������ɂȂ鎖�����҂��܂�<BR><BR>�����Ȃ�悤�Ɋ撣�肽���Ƃ���ł��B���̂Ƃ��낽���̖�����Ԃł����A������́c�c�B<BR>���A���������������o�������ł��B
+vmxas様、ありがとーございます。<BR><BR>＞風実と美子が心強い味方になる事を期待します<BR><BR>そうなるように頑張りたいところです。今のところただの味方状態ですが、いずれは……。<BR>あ、もうすぐ続きが出せそうです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200101/02044830/revival_girl13.html" target="_blank">�P�R�b������ɂ͂������N���b�N�B</a></strong>  <i>2001/06/01 20:03:12</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200101/02044830/revival_girl13.html" target="_blank">１３話を見るにはここをクリック。</a></strong>  <i>2001/06/01 20:03:12</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991393392ymeku&id2=982797418fyexehp&ff=on">APPEND 25</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991393392ymeku_id2_982797418fyexehp_ff_on.cgi">APPEND 25</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@�d���������Ԃ�ŊJ���邽�߂ɁA���D�i�����j�͂���u���������v���󂯓���܂��B�͂����Ă���͋g�Əo��̂ł��傤���H�@����Ƃ��c�c<BR>�i�f�ڂ��x���Ȃ��Ă��܂��āA�\���󂠂�܂���ł����j
+【推薦文】　硬直した事態を打開するために、香織（正美）はある「交換条件」を受け入れます。はたしてそれは吉と出るのでしょうか？　それとも……<BR>（掲載が遅くなってしまって、申し訳ありませんでした）
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U�i�����Ekagerou6����j</a></strong>  <i>2001/06/01 20:22:24</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６（命名・kagerou6さん）</a></strong>  <i>2001/06/01 20:22:24</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991394544xmmtog&id2=982797418fyexehp&ff=on">APPEND 26</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991394544xmmtog_id2_982797418fyexehp_ff_on.cgi">APPEND 26</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����<BR>�����A�܂��V�W�J������܂������A����܂������Ƃ���Łu�����v�Ȃ񂾂�Ȃ��B<BR>�u���̗F�B�v�Ƃ����̂��C�ɂȂ�܂��Ȃ��B<BR>�Ƃ���ŁA�T�u�^�C�g���́u�v���|�[�Y�v���āA��́H
+読みました♪<BR>さあ、また新展開がありましたが、これまたいいところで「続く」なんだよなぁ。<BR>「妹の友達」というのが気になりますなぁ。<BR>ところで、サブタイトルの「プロポーズ」って、一体？
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���낢�邩</strong>  <i>2001/06/01 21:43:52</i><br></td>
+<td  bgcolor="#00FFCC"><strong>しろいるか</strong>  <i>2001/06/01 21:43:52</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991399432splsqoe&id2=982797418fyexehp&ff=on">APPEND 27</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991399432splsqoe_id2_982797418fyexehp_ff_on.cgi">APPEND 27</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂�����<BR>���F�B�̂������ŏ����͍d����Ԃ��甲���o����̂��Ȃ��H�B<BR>�X�g�[�J�[��Y�̉e�ɋ����鍁�D�������ĉ��z�i�܁j<BR>�䂠���݂̂�����Ȃ�Ƃ��Ȃ�܂��񂩁H�B<BR>�X�g�[�J�[��Y���t�ɋ��������ċ������Ԃɂ��Ă��܂��Ƃ��B<BR><BR>�ƒ닳�t���Ă̂��C�ɂȂ�܂��ˁB�@����͂ǂ�Ȏq�Ȃ̂��ȁH�B<BR>�u�v���|�[�Y�v�̈Ӗ������������͎̂���ł��傤�ˁB<BR>���҂����҂��Ă��܂���
+読みました♪<BR>お友達のおかげで少しは硬直状態から抜け出せるのかなぁ？。<BR>ストーカー野郎の影に怯える香織ちゃんって可哀想（涙）<BR>ゆあさのみきさんなんとかなりませんか？。<BR>ストーカー野郎を逆に怯えさせて金縛り状態にしてしまうとか。<BR><BR>家庭教師ってのも気になりますね。　相手はどんな子なのかな？。<BR>「プロポーズ」の意味が明かされるのは次回でしょうね。<BR>続編を期待しています♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/06/01 22:26:19</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/06/01 22:26:19</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991401979qscrejh&id2=982797418fyexehp&ff=on">APPEND 28</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991401979qscrejh_id2_982797418fyexehp_ff_on.cgi">APPEND 28</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���肪�Ɓ[�������܂���<BR><BR>���_�����z�̂����W�S�Q�U�i�����Ekagerou6����j�l<BR>���Ƃ���ŁA�T�u�^�C�g���́u�v���|�[�Y�v���āA��́H<BR><BR>�����낢�邩�l<BR>���u�v���|�[�Y�v�̈Ӗ������������͎̂���ł��傤��<BR><BR>���[�Ɓu�v���|�[�Y�v�͂��̂܂�܃v���|�[�Y�ł��B���A�����ɂȂ��Ă܂���H�@�c�c�{���́u�v���|�W�V�����v�ɂ�����肾������ł��B�ł����ǁA���C���p�N�g�̂�����ɂ��悤�Ǝv���āu�v���|�[�Y�v�ɂ��܂����B���Ă���ς蓚���ɂȂ��ĂȂ��ł��傤���B<BR><BR>����v���r���[�i�����܂��j�����܂����B���̒��ɉƒ닳�t�̑�������傱���Ɠo�ꂵ�Ă܁`����
+ありがとーございます♪<BR><BR>＞神速感想のｍｋ８４２６（命名・kagerou6さん）様<BR>＞ところで、サブタイトルの「プロポーズ」って、一体？<BR><BR>＞しろいるか様<BR>＞「プロポーズ」の意味が明かされるのは次回でしょうね<BR><BR>えーと「プロポーズ」はそのまんまプロポーズです。え、答えになってません？　……本当は「プロポジション」にするつもりだったんです。ですけど、よりインパクトのある方にしようと思って「プロポーズ」にしました。ってやっぱり答えになってないでしょうか。<BR><BR>今回プレビュー（＆おまけ）をつけました。その中に家庭教師の相手もちょこっと登場してま～す♪
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�_�藺</strong>  <i>2001/06/02 01:24:56</i><br></td>
+<td  bgcolor="#00FFCC"><strong>神崎亮</strong>  <i>2001/06/02 01:24:56</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991412696wmrgtq&id2=982797418fyexehp&ff=on">APPEND 29</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991412696wmrgtq_id2_982797418fyexehp_ff_on.cgi">APPEND 29</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-����Palm�ɗ��Ƃ��Ă���������ǂ�ł�̂Ŋ��z����^�C�~���O�����Ă��܂��B�����܂���B<BR><BR>�ƌ������Ƃō�����12�b�܂ł̊��z�ł��B<BR>�Ȃ񂾂��Ɠ��́A�ْ������e���|�̕��̂ł��ˁB<BR>�Ƃ���12�b�`���̋|���������悤�ȋْ����͔��ɗ��镨������܂����B<BR>TS���̖��͕͂ϐg��������Ȃ��񂾂ƌ������Ƃ�����Ƃ킩���Ă����悤�ȋC�����܂��B<BR><BR>�ł́A���̒ʊw�d�Ԃ�13�b�ǂ݂܂��`
+いつもPalmに落としてからゆっくり読んでるので感想つけるタイミング逃しています。すいません。<BR><BR>と言うことで今さら12話までの感想です。<BR>なんだか独特の、緊張したテンポの文体ですね。<BR>とくに12話冒頭の弓を引いたような緊張感は非常に来る物がありました。<BR>TS物の魅力は変身だけじゃないんだと言うことがやっとわかってきたような気がします。<BR><BR>では、次の通学電車で13話読みます～
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/06/03 01:19:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/06/03 01:19:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991498746wogpdk&id2=982797418fyexehp&ff=on">APPEND 30</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991498746wogpdk_id2_982797418fyexehp_ff_on.cgi">APPEND 30</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�_�藺�l�A���肪�Ɓ[�������܂��B<BR><BR>��TS���̖��͕͂ϐg��������Ȃ��񂾂ƌ������Ƃ�����Ƃ킩���Ă����悤�ȋC�����܂�<BR><BR>�@���������Ă���������Ƃ��ꂵ���ȁ[�B<BR>�@���͂��̂��b���āA�]�����̍�i�����Ȃ������̂ōl�������̂������肷��̂ł��B�Ƃ͌����Ă����͏��N�������ɈȊO��TS�����������Ă���Ƃ���͂悭�m��Ȃ��̂ŁA���̃W�������łق��ɂǂ�ȍ�i������̂����悭�킩��Ȃ���ł����ǁc�B�Ƃɂ����ς�������̂���낤�Ƃ����炱��Ȃ̂ɂȂ��Ă��܂��܂����B���̂����ł���ȂɖG���Ȃ��b�ɂȂ��Ă��܂��܂����Ƃ��c�B<BR>�@���D�����ɂ͂܂��܂��ْ����Ă��炢�܂��B�{���͂����Ɍ�������������ł����A���ꂪ�v�����Ȃ��΂�����Ɋ댯�Ȗڂɂ��킹�Ă��܂��āc���A12�b�̓A�j���̃A�o���^�C�g�����ӎ����Ă݂܂����B
+神崎亮様、ありがとーございます。<BR><BR>＞TS物の魅力は変身だけじゃないんだと言うことがやっとわかってきたような気がします<BR><BR>　そう言っていただけるとうれしいなー。<BR>　実はこのお話って、転生物の作品が少なかったので考えたものだったりするのです。とは言っても私は少年少女文庫以外でTS小説を扱っているところはよく知らないので、このジャンルでほかにどんな作品があるのかもよくわからないんですけど…。とにかく変わったものを作ろうとしたらこんなのになってしまいました。そのせいでこんなに萌えない話になってしまいましたとさ…。<BR>　香織ちゃんにはまだまだ緊張してもらいます。本当はすぐに決着をつけたいんですが、それが思いつかないばっかりに危険な目にあわせてしまって…あ、12話はアニメのアバンタイトルを意識してみました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>TOM</strong>  <i>2001/06/03 21:41:58</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991572118vfqvru&id2=982797418fyexehp&ff=on">APPEND 31</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991572118vfqvru_id2_982797418fyexehp_ff_on.cgi">APPEND 31</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-��������炸�A�ْ����̂���W�J�������܂��ˁB<BR>��C�ɓǂ܂���Ă��܂��܂��B<BR>����ɂ��Ă��A�ƒ닳�t�̑��肪�C�ɂȂ�Ƃ���ł��ˁB<BR>�F�X�Ɨ\�z���Ă݂�̂��܂��A�ʔ����Ƃ���ł��B<BR>���������ۂ��ăC�C�ł���ˁA���������g�R���B<BR><BR>���ƁATOM�����ڂ��Ă���̂́A���̕��Q���I������A<BR>�ޏ����ǂ��A���ꂩ��̏��̎q�Ƃ��Ă̐l�������ł����̂�<BR>�Ƃ����Ƃ���ł��B<BR>�������A�ޏ����g���Q���I����Ă���l����A�Ƃ���������<BR>�����Ă����悤�Ȃ̂ŁA���̘b�̒��ł͌���邱�Ƃł�<BR>�������Ƃ�������܂��񂪁B<BR>�Ƃɂ����F�X�C�}�W�l�[�V������~�����Ă��������i�ł�<BR>����܂��ˁB
+あいかわらず、緊張感のある展開が続きますね。<BR>一気に読まされてしまいます。<BR>それにしても、家庭教師の相手が気になるところですね。<BR>色々と予想してみるのもまた、面白いところです。<BR>推理物っぽくてイイですよね、こういうトコロ。<BR><BR>あと、TOMが注目しているのは、この復讐を終えた後、<BR>彼女がどう、これからの女の子としての人生を歩んでいくのか<BR>というところです。<BR>もちろん、彼女自身復讐が終わってから考える、といった事を<BR>言っていたようなので、この話の中では語られることでは<BR>無いことかもしれませんが。<BR>とにかく色々イマジネーションを掻き立てさせられる作品では<BR>ありますね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/06/04 00:47:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/06/04 00:47:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991583275ijeirg&id2=982797418fyexehp&ff=on">APPEND 32</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991583275ijeirg_id2_982797418fyexehp_ff_on.cgi">APPEND 32</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-TOM�l�A���肪�Ɓ[�������܂��B<BR><BR>���ޏ����ǂ��A���ꂩ��̏��̎q�Ƃ��Ă̐l�������ł����̂�<BR><BR>�@�����ł��ˁB���̂��b�ō��D�����̍���͏����܂���B<BR>�ŁE���E���A���͂����l���Ă����肷���ł��B�܂����̂��b��<BR>�I��点�Ȃ��Ƃ��̌�̍��D���������ڂɂ������Ȃ��̂ł����B<BR>�����瑁�����������Ă��������񂾂��ǁc�c�B<BR>�@�ʂ̂��b�ŁA��l�ɂȂ������D������o�ꂳ����v�悪<BR>�����ł����A�ǂ��Ȃ��Ă��܂����̂��͂��̂Ƃ�������܂�<BR>�閧�ł��B�܂��͂��������Ȃ�Ƃ����Ȃ��Ƃˁ`�B
+TOM様、ありがとーございます。<BR><BR>＞彼女がどう、これからの女の子としての人生を歩んでいくのか<BR><BR>　そうですね。このお話で香織ちゃんの今後は書きません。<BR>で・す・が、実はもう考えていたりするんです。まぁこのお話を<BR>終わらせないとその後の香織ちゃんをお目にかけられないのですが。<BR>だから早く完結させてあげたいんだけど……。<BR>　別のお話で、大人になった香織ちゃんを登場させる計画が<BR>あるんですが、どうなってしまったのかはそのときが来るまで<BR>秘密です。まずはこっちをなんとかしないとね～。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/06/04 23:30:17</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/06/04 23:30:17</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991665017dvofrwd&id2=982797418fyexehp&ff=on">APPEND 33</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991665017dvofrwd_id2_982797418fyexehp_ff_on.cgi">APPEND 33</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�悤�₭�ǂ݂܂����B<BR>���̂Ƃ���͎����̍�i�Ő���t�ŁA�݂Ȃ���̍�i��ǂނ��Ƃ��o���܂���ł����B<BR>�����̗F�B<BR>�ǂ�Ȏq�Ȃ�ł���[�ˁB�X�g�[�J�[��N���Ƀ��o�C�q�������肵�āi�΁j�B<BR>�������y���݂ɂ��Ă��܂��B�撣���Ă��������B
+ようやく読みました。<BR>このところは自分の作品で精一杯で、みなさんの作品を読むことが出来ませんでした。<BR>＞妹の友達<BR>どんな子なんでしょーね。ストーカー野朗並にヤバイ子だったりして（笑）。<BR>続きを楽しみにしています。頑張ってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����������1</strong>  <i>2001/06/05 22:17:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｗａｓｓａ1</strong>  <i>2001/06/05 22:17:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991747053nyonob&id2=982797418fyexehp&ff=on">APPEND 34</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991747053nyonob_id2_982797418fyexehp_ff_on.cgi">APPEND 34</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�͂��߂܂��āA����΂��B�����������P�Ƃ����҂ł��B<BR>�X�g�[�J�[�����؂ɂ����A�V���A�X�ȕ�����P�b����ǂ�ł���܂��B<BR>�����āA���������̂�����ł��܂����A�r���������肠��ƂÂ��Ă��܂��B<BR>�����ǁA�������炢���ɂ��Ĕ����オ���Ă����邩�ǂ����́A���̎ҒB�̐S�\���������ɑ�؂��ǂ����킩��܂����B<BR>���D����B�搶�ɂȂ閲���̂ĂȂ��łˁB<BR><BR>�Ƃ���ŁA�����������Ĉꕶ��������Ɩ^�Q�[���̃q���C���ł����A�i���̂��̃Q�[���̖{���i�΁j�j���łł��傤���H<BR>�b���E�����Ă����܂���B
+はじめまして、こんばんわ。ｗａｓｓａ１という者です。<BR>ストーカー問題を筋にした、シリアスな物語を第１話から読んでおります。<BR>そして、愛したものが死んでしまった、喪失感がありありとつづられています。<BR>だけど、そこからいかにして這い上がっていけるかどうかは、その者達の心構えがいかに大切かどうかわかりました。<BR>香織さん。先生になる夢を捨てないでね。<BR><BR>ところで、杉原正美って一文字かえると某ゲームのヒロインですが、（私のそのゲームの本命（笑））何ででしょうか？<BR>話が脱線してすいません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailtoy-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/06/06 19:46:06</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailtoy-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/06/06 19:46:06</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991824366otjngax&id2=982797418fyexehp&ff=on">APPEND 35</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991824366otjngax_id2_982797418fyexehp_ff_on.cgi">APPEND 35</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ�ł����������肪�Ɓ[�������܂���<BR><BR>�������낤�l<BR>���ǂ�Ȏq�Ȃ�ł���[�ˁB�X�g�[�J�[��N���Ƀ��o�C�q�������肵�āi�΁j<BR><BR>�@�ǂ�Ȏq�ɂ��悤���Ƃ����̂͂Ƃ肠�����l���Ȃ��悤�ɂ��č���̂��b��������̂ŁA�܂����낢��\�z���Ă��������i���Ă��̎q�̖��O�͂킩��悤�ɂ��Ă���܂����ǁj�B�c���͎���̓��e�͂قƂ�Ǐo���Ă܂����A���̎��̘b�Ɛ��������Ƃ邽�߂Ɉꎞ�ۗ��ɂ��Ă���܂��B�ǂ�Ȏq�ɂ��邩���ꉞ���߂���ł����c���������l�������ȁ[�A�Ȃ�Ďv���܂��āB<BR><BR>������������1�l<BR>���Ƃ���ŁA�����������Ĉꕶ��������Ɩ^�Q�[���̃q���C���ł����A<BR>���i���̂��̃Q�[���̖{���i�΁j�j���łł��傤���H<BR><BR>�@���߂�Ȃ����A���ɂ͂��ꂪ�N�Ȃ̂��킩��Ȃ��ł��B�Ƃ����킯�Ŕނɓ���̃��f���͂��܂���B���łɌ����΍��D����񂽂������l�Ƀ��f���ƂȂ�l�͂��܂���B�������O�Ɋւ��Ă͂Ƃ���@���ɂ��������Ă��Ă��܂��B�ȒP�ȃ��[���Ȃ�łǂ�Ȃ��̂��͂����ɂ킩��Ǝv���܂����ǁB<BR>�@�t�Ɏ��́u�^�Q�[���̃q���C���v���N�������̂��A�C�ɂȂ��Ă��܂��܂����B�W�������͗����V�~�����[�V�����Ȃ�ł����H�@�ł����玄�͂��̃W�������͂�������ƂȂ��̂Łc�c����グ�ł��B
+読んでいただきありがとーございます♪<BR><BR>＞いちろう様<BR>＞どんな子なんでしょーね。ストーカー野朗並にヤバイ子だったりして（笑）<BR><BR>　どんな子にしようかというのはとりあえず考えないようにして今回のお話を作ったので、まあいろいろ予想してください（ってその子の名前はわかるようにしてありますけど）。…実は次回の内容はほとんど出来てますが、その次の話と整合性をとるために一時保留にしてあります。どんな子にするかも一応決めたんですが…もう少し考えたいなー、なんて思いまして。<BR><BR>＞ｗａｓｓａ1様<BR>＞ところで、杉原正美って一文字かえると某ゲームのヒロインですが、<BR>＞（私のそのゲームの本命（笑））何ででしょうか？<BR><BR>　ごめんなさい、私にはそれが誰なのかわからないです。というわけで彼に特定のモデルはいません。ついでに言えば香織ちゃんたちも同様にモデルとなる人はいません。ただ名前に関してはとある法則にしたがってつけています。簡単なルールなんでどんなものかはすぐにわかると思いますけど。<BR>　逆に私は「某ゲームのヒロイン」が誰だったのか、気になってしまいました。ジャンルは恋愛シミュレーションなんですか？　でしたら私はそのジャンルはやったことないので……お手上げです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>vmxas</strong>  <i>2001/06/07 02:33:15</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991848795qjsjkq&id2=982797418fyexehp&ff=on">APPEND 36</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991848795qjsjkq_id2_982797418fyexehp_ff_on.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�P�R�b��ǂ܂��Ă��������܂����B�������O��҂̑O�҂Ƃ�����ۂ��󂯂܂����B�ʂ����ĉƒ닳�t�̑��肪�ǂ�Ȏq�Ȃ̂��H�@������y���݂ɂ��Ă��܂��B<BR>�Ƃ���Ŏ�l���͕��Q�i�H�j���Ƃ�����ǂ�����̂ł��傤�H<BR>�����J�����}���ɂł��Ȃ�̂ł��傤���E�E�E
+１３話を読ませていただきました。何だか前後編の前編という印象を受けました。果たして家庭教師の相手がどんな子なのか？　次回も楽しみにしています。<BR>ところで主人公は復讐（？）をとげたらどうするのでしょう？<BR>女性カメラマンにでもなるのでしょうか・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/06/07 23:28:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/06/07 23:28:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991924088knfqwnm&id2=982797418fyexehp&ff=on">APPEND 37</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991924088knfqwnm_id2_982797418fyexehp_ff_on.cgi">APPEND 37</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-vmxas�l�A���肪�Ɓ[�������܂��B<BR><BR>���Ƃ���Ŏ�l���͕��Q�i�H�j���Ƃ�����ǂ�����̂ł��傤�H<BR>�������J�����}���ɂł��Ȃ�̂ł��傤���E�E�E<BR><BR>�J�����}�����Ăقǂ̘r�͂Ȃ��̂ŕ��ʂ̎�Ɏ��܂�Ǝv���܂��B<BR>����͂�����ƕ��ʂ������Ȃ�悤�Ȋ����ł��B�i�߂����V�[����<BR>�r���Ń������̌��E���}���Ă��܂�����ł����A���r���[�ɂȂ�̂ŁB<BR>�ށ[�A�I���܂łɂ͌��\���������Ⴂ�����ł��ˁB<BR>���̌�̍��D����񂪂��o����̂��͂܂��܂��킩��܂���B
+vmxas様、ありがとーございます。<BR><BR>＞ところで主人公は復讐（？）をとげたらどうするのでしょう？<BR>＞女性カメラマンにでもなるのでしょうか・・・<BR><BR>カメラマンってほどの腕はないので普通の趣味に収まると思います。<BR>次回はちょっと分量が多くなるような感じです。進めたいシーンの<BR>途中でメモリの限界を迎えてしまったんですが、中途半端になるので。<BR>むー、終わるまでには結構かかっちゃいそうですね。<BR>その後の香織ちゃんがいつ出せるのかはまだまだわかりません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">�W���[�W���b�h</a></strong>  <i>2001/06/08 13:13:10</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:jersey-r@mb.i-chubu.ne.jp" target="_blank">ジャージレッド</a></strong>  <i>2001/06/08 13:13:10</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=991973590getnh&id2=982797418fyexehp&ff=on">APPEND 38</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_991973590getnh_id2_982797418fyexehp_ff_on.cgi">APPEND 38</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ŋ߂Ȃ��Ȃ��Z�����āA�F����̍�i��ǂ߂Ȃ��������ł��B<BR><BR>���āA�P�R�b�A�ǂ݂܂����B�傫�����ꂪ�����������Ƃ���Â��Ȃ��˂�������܂����B�ٓ��҂Ƃ����Ƃ���ł��傤���B�ٔ��������͋C���A�O��Ɠ���������܂������A�P�Q�b�̋ٔ����A�O���ɂ�����ٔ��Ȃ�A�P�R�b�̋ٔ��́A����n��ɂ�����ٔ��Ƃ��������ł��ˁB<BR><BR>���̗F�B�ł����A����̘b�ł͂��̎q���j�Ȃ̂����Ȃ̂��͕s���ł��ˁB���ʂɍl����Ώ��̎q�Ȃ�ł��傤���A���������ǂ����Ȃ�ł��傤�H�@���w���̒j�̎q�𑊎�ɂ��錳�j���̏��q�����Ƃ����̂��A�������낻���ł��ˁB<BR><BR>�����A�y���݂ɂ��Ă��܂��B
+最近なかなか忙しくて、皆さんの作品を読めなかった私です。<BR><BR>さて、１３話、読みました。大きく物語が動きだそうとする静かなうねりを感じました。胎動編というところでしょうか。緊迫した雰囲気も、前回と同じくありましたが、１２話の緊迫が、前線における緊迫なら、１３話の緊迫は、後方地域における緊迫という感じですね。<BR><BR>妹の友達ですが、今回の話ではその子が男なのか女なのかは不明ですね。普通に考えれば女の子なんでしょうが、いったいどっちなんでしょう？　小学生の男の子を相手にする元男性の女子高生というのも、おもしろそうですね。<BR><BR>次回作、楽しみにしています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">�䂠���݂̂�</a></strong>  <i>2001/06/09 00:37:14</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:y-miki@xb3.so-net.ne.jp" target="_blank">ゆあさのみき</a></strong>  <i>2001/06/09 00:37:14</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992014634attxhi&id2=982797418fyexehp&ff=on">APPEND 39</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992014634attxhi_id2_982797418fyexehp_ff_on.cgi">APPEND 39</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�W���[�W���b�h�l�A���肪�Ɓ[�������܂��B<BR><BR>���ٔ��������͋C���A�O��Ɠ���������܂������A�P�Q�b�̋ٔ����A<BR>���O���ɂ�����ٔ��Ȃ�A�P�R�b�̋ٔ��́A����n��ɂ�����ٔ�<BR>���Ƃ��������ł���<BR><BR>�����ł��ˁ`�B�X�g�[�J�[��Y������o�ꂵ�܂���ł�������B�܂��o�Ă���Ɗ댯�x�Ƌ��ɋْ���������ł����B���Ď���͂ǂ����ɂȂ�̂ł��傤���B<BR>����͉ƒ닳�t�ҁi�㔼�j�ł܂��V�����W�J�Ɏ����Ă����\��ł��B
+ジャージレッド様、ありがとーございます。<BR><BR>＞緊迫した雰囲気も、前回と同じくありましたが、１２話の緊迫が、<BR>＞前線における緊迫なら、１３話の緊迫は、後方地域における緊迫<BR>＞という感じですね<BR><BR>そうですね～。ストーカー野郎が今回登場しませんでしたから。また出てくると危険度と共に緊張も増すんですが。さて次回はどっちになるのでしょうか。<BR>次回は家庭教師編（後半）でまた新しい展開に持っていく予定です。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�l�n�m�c�n���^�c�ψ�</strong>  <i>2001/06/09 20:33:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ＭＯＮＤＯ＠運営委員</strong>  <i>2001/06/09 20:33:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992086425sumfljs&id2=982797418fyexehp&ff=on">APPEND 40</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992086425sumfljs_id2_982797418fyexehp_ff_on.cgi">APPEND 40</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@�w���o�C�o���K�[���x���b�`�Z�b���A�v���r���[�t���̂��̂ƍ����ւ��܂����B<BR>�@�u���E�U�́w�\�[�X�\���x�Ŏ���\���Ƃ��܂��̂��Ƃ肪���ꂽ�肵�܂��B
+　『リバイバルガール』第一話～六話を、プレビュー付きのものと差し替えました。<BR>　ブラウザの『ソース表示』で次回予告とおまけのやりとりが見れたりします。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>��傤���^�c�ψ�</strong>  <i>2001/06/16 03:34:42</i><br></td>
+<td  bgcolor="#00FFCC"><strong>りょう＠運営委員</strong>  <i>2001/06/16 03:34:42</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=992630082vwasa&id2=982797418fyexehp&ff=on">APPEND 41</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_992630082vwasa_id2_982797418fyexehp_ff_on.cgi">APPEND 41</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���o�C�o���K�[�����z�f����No.3���쐬���܂����B<BR>�V�������z�͂�����ɏ�������ł��������B
+リバイバルガール感想掲示板No.3を作成しました。<BR>新しい感想はそちらに書き込んでください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�����������P</strong>  <i>2001/09/05 18:59:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong>ｗａｓｓａ１</strong>  <i>2001/09/05 18:59:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999683969mxspr&id2=982797418fyexehp&ff=on">APPEND 42</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999683969mxspr_id2_982797418fyexehp_ff_on.cgi">APPEND 42</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���z�f���m���D�R�ł͂Ȃ񂩂܂������ɂȂ肻���Ȃ�ŁA�������Ɋ��z���������Ƃɂ��܂����B<BR><BR>��P�V�b��ǂ݂܂����B<BR>�����A�Ƃ�ł��Ȃ������N���肻���Ȉ����ő����Ă��܂��܂����ˁE�E�E�B<BR>�ʂ����āE�E�E�H<BR><BR>���q�͎����̕����ɂ������|���V�[������܂��ˁE�E�E�B�i�~�����Ă̂Ɋ��S�H�H�j<BR><BR>�Ƃ���ŁA�u���[�ȊO�̓V�g���Ă̂́A�i�����ł��傤�ˁj<BR>�ǂ����������Ƃ����Ă����ł��傤���H�i�O�`�Ŗ��炩�ɂȂ�I�I�H�H�j<BR>����ς�A���̃L���[�r�b�g���Ƃ��ł��傤���H�H�i����Ȏ��𕷂��̂́A�������݃v���[���́w�Ă񁛂܁x�̉e���I�H�j<BR>����ƁA�u�G���v���āA�܁A�܂����I�H�@�i�傰���E�E�E���j<BR><BR>�ȏ�A�M�����Q�[�}�[<BR>�v���������P�������肵�܂����E�E�E�I�i���j
+感想掲示板Ｎｏ．３ではなんかまずい事になりそうなんで、こっちに感想を書くことにしました。<BR><BR>第１７話を読みました。<BR>何やら、とんでもない事が起こりそうな引きで続いてしまいましたね・・・。<BR>果たして・・・？<BR><BR>美子は自分の服装にすごいポリシーがありますね・・・。（冬だってのに感心？？）<BR><BR>ところで、ブルー以外の天使ってのは、（いるんでしょうね）<BR>どういったことをしているんでしょうか？（外伝で明らかになる！！？？）<BR>やっぱり、恋のキュービット役とかでしょうか？？（こんな事を聞くのは、私が現在プレー中の『てん○ま』の影響！？）<BR>それと、「萌黄」って、ま、まさか！？　（大げさ・・・汗）<BR><BR>以上、ギャルゲーマー<BR>Ｗａｓｓａ１がお送りしました・・・！（爆）
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="982797418fyexehp">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

@@ -1,13 +1,13 @@
 
 <html>
 <head>
-<title>�N�R�~�b�N/���̃I�X�X��</title>
+<title>青年コミック/私のオススメ</title>
 </head>
 <frameset rows="*,60%">
-<frame src="noteky.cgi?c=noteidx&f=3" name="idx"></frame>
-<frame src="noteky.cgi?c=wspace&f=3" name="arc"></frame>
+<frame src="noteky@c_noteidx_f_3.cgi" name="idx"></frame>
+<frame src="noteky@c_wspace_f_3.cgi" name="arc"></frame>
 <noframe>
-���̃u���E�U�̓t���[�����g�p�ł��܂���B
+このブラウザはフレームが使用できません。
 </noframe>
 </frameset>
 </html>

@@ -1,23 +1,23 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#3/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#3/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=12&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_12_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=12&id=955122971jahosx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">�I�����C����i#3</a>]<br>
+[<a href="noteky@c_noteread_f_12_id_955122971jahosx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">オンライン作品#3</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����I �}�W�ł����I</font><br>
+<font size="+2" color="#0000FF">えっ！ マジですか！</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�Ǘ��l</strong>  <i>2000/04/08 00:56:11</i><br></td>
+<td  bgcolor="#00FFCC"><strong>管理人</strong>  <i>2000/04/08 00:56:11</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=955122971jahosx&id2=955122971jahosx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_955122971jahosx_id2_955122971jahosx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING!
@@ -25,67 +25,67 @@ NOW PRINTING!
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/gallery/art47.html" target="_blank">��i������ɂ͂������N���b�N</a></strong>  <i>2000/04/08 13:43:29</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../~yays/gallery/art47.html" target="_blank">作品を見るにはここをクリック</a></strong>  <i>2000/04/08 13:43:29</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=955169009umgmipd&id2=955122971jahosx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_955169009umgmipd_id2_955122971jahosx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z �_�Ђ̊K�i��j�����]���藎����ƌ݂��̐l�i������ւ���Ă��܂��Ƃ������{�ŗL�́u�K�i�����M�v���C���X�g�ɂ������̂ł��ˁB������āA�{����������ł�!!
+【推薦文】 神社の階段を男女が転がり落ちると互いの人格が入れ替わってしまうという日本固有の「階段落ち信仰」をイラストにしたものですね。あれって、本当だったんです!!
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">���c����</a></strong>  <i>2000/04/12 18:24:20</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www4.plala.or.jp/parallel/" target="_blank">原田聖也</a></strong>  <i>2000/04/12 18:24:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=955531460rovqa&id2=955122971jahosx&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_955531460rovqa_id2_955122971jahosx_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�����̕\��ǂ��ł��ˁ`(^^)<BR>��x�ŗǂ�����������̂��ƈꏏ�ɊK�i�𗎂��Ă݂����ł��i�����j<BR>�������C���X�g�̃|�[�Y���O�[�ł��ˁB
+驚きの表情が良いですね～(^^)<BR>一度で良いから可愛い女のこと一緒に階段を落ちてみたいです（おい）<BR>小さいイラストのポーズもグーですね。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">����</a></strong>  <i>2000/04/22 18:41:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">里花</a></strong>  <i>2000/04/22 18:41:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=956396486njaws&id2=955122971jahosx&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_956396486njaws_id2_955122971jahosx_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Ȃ������ɂ́A���̎q�̂ق�����������u�j�̎q�v�Ɍ����āA�j�̎q���u���̎q�v�炵���������Ⴄ��ł����c�c�H<BR>�_�����Ƃ�����A�p����A�����������܂��Ȃ����Ǝv���A�G���I<BR>(���̂��肪�Ȃ������炲�߂��(^^;)
+なぜか私には、女の子のほうがしっかり「男の子」に見えて、男の子が「女の子」らしく見えちゃうんですが……？<BR>狙ったとしたら、角さん、すっごくうまくなったと思う、絵が！<BR>(そのつもりがなかったらごめんね(^^;)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">�p����</a></strong>  <i>2000/04/28 20:45:48</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:" target="_blank">角さん</a></strong>  <i>2000/04/28 20:45:48</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=12&id=956922348dgptot&id2=955122971jahosx&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_12_id_956922348dgptot_id2_955122971jahosx_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�@���������E�E�E�E<BR>���܂ŁA���ł��񂴂񏑂����̂ŁA�����ŏ����Ȃ������̂ł����E�E�E�E<BR>���̂���ŁA�����܂����B<BR>�@����́A��������A�w�i�����ė~����������ł����ǁE�E�E�E<BR>�����̊K�i��������A�����ŏ����܂���E�E�E�E<BR>�ق�A������Ăǂ����Ō������Ƃ���܂��񂩁H<BR>�����A�������ł���E�E�E�E<BR>�@�����܂ł��A�����āE�E�E�E�E�o�J�H
+　あうあう・・・・<BR>今まで、裏でさんざん書いたので、ここで書かなかったのですが・・・・<BR>そのつもりで、書きました。<BR>　今回は、それよりも、背景を見て欲しかったんですけど・・・・<BR>ただの階段だったら、自分で書きますよ・・・・<BR>ほら、これってどこかで見たことありませんか？<BR>そう、あそこですよ・・・・<BR>　ここまでやる、俺って・・・・・バカ？
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="12">
 <input type="hidden" name="id" value="955122971jahosx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=12&ff=on">�I�����C����i#3</a>]<br>
+[<a href="noteky@c_noteidx_f_12_ff_on.cgi">オンライン作品#3</a>]<br>
 
 </p>
 </body>

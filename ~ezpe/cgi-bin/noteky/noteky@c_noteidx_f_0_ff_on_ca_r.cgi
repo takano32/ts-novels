@@ -1,61 +1,61 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�X�X������/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オススメ小説/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
-<div align="right">[<a href="noteky.cgi?c=notebase&f=0&ff=on" >�V�����b�������</a>] 
-[<a href="noteky.cgi?c=noteidx&f=0&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɂ��ǂ�</a>]</div>
-<font size="+2" color="#008080">�I�X�X������</font>
-<blockquote>�I�X�X���̏����ɂ��Č���ĉ�����</blockquote>
+<div align="right">[<a href="noteky@c_notebase_f_0_ff_on.cgi" >新しく話題をつくる</a>] 
+[<a href="noteky@c_noteidx_f_0_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@_ff_on.cgi" >ノート一覧にもどる</a>]</div>
+<font size="+2" color="#008080">オススメ小説</font>
+<blockquote>オススメの小説について語って下さい</blockquote>
 <table width="100%" border="0">
 <tr bgcolor="#00CCFF">
 <th align="center" width="1%" nowrap>No.</th>
-<th align="center">�薼</th>
-<th align="center" width="1%" nowrap>�ŏI�X�V��</th>
-<th align="center">�ŐV�������e</th>
+<th align="center">題名</th>
+<th align="center" width="1%" nowrap>最終更新日</th>
+<th align="center">最新発言内容</th>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=938977739lhktxki&ff=on" >1</a></td>
-<td align="center" nowrap>�f���t�B�j�A��L</td>
+<a href="noteky@c_noteread_f_0_id_938977739lhktxki_ff_on.cgi" >1</a></td>
+<td align="center" nowrap>デルフィニア戦記</td>
 <td align="center" nowrap>1999/10/15 07:02:07</td>
-<td nowrap>�����O�����_�́A�̂���ǂ܂�Ă���������...</td>
+<td nowrap>王女グリンダは、昔から読まれていた方から...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=917748498vloyqb&ff=on" >2</a></td>
-<td align="center" nowrap>���_�̐���</td>
+<a href="noteky@c_noteread_f_0_id_917748498vloyqb_ff_on.cgi" >2</a></td>
+<td align="center" nowrap>女神の誓い</td>
 <td align="center" nowrap>1999/01/31 11:08:17</td>
-<td nowrap>�������HP�ɖK��o����悤�ɂȂ��Ĉȗ��A...</td>
+<td nowrap>こちらのHPに訪問出来るようになって以来、...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=917068115lnkguba&ff=on" >3</a></td>
-<td align="center" nowrap>���̖{</td>
+<a href="noteky@c_noteread_f_0_id_917068115lnkguba_ff_on.cgi" >3</a></td>
+<td align="center" nowrap>血の本</td>
 <td align="center" nowrap>1999/01/23 14:08:35</td>
-<td nowrap>�W�p�Е��ɂ���o�Ă���h�N���C�u�E�p�[�J...</td>
+<td nowrap>集英社文庫から出ている”クライブ・パーカ...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=912839990yfryym&ff=on" >4</a></td>
-<td align="center" nowrap>�p��I�����C�������̂��D�݂�</td>
+<a href="noteky@c_noteread_f_0_id_912839990yfryym_ff_on.cgi" >4</a></td>
+<td align="center" nowrap>英語オンライン小説のお好みは</td>
 <td align="center" nowrap>1999/01/24 00:23:25</td>
-<td nowrap>����Nifty���Fictionmania����p��̃I����...</td>
+<td nowrap>私もNiftyやらFictionmaniaから英語のオンラ...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=912715155jtvdq&ff=on" >5</a></td>
-<td align="center" nowrap>�_�ϕ��������`</td>
+<a href="noteky@c_noteread_f_0_id_912715155jtvdq_ff_on.cgi" >5</a></td>
+<td align="center" nowrap>神変武闘女賊伝</td>
 <td align="center" nowrap>1999/01/31 10:25:41</td>
-<td nowrap>�����œ��肵�āA�ꊪ�����ǂ݂܂������ʔ�...</td>
+<td nowrap>注文で入手して、一巻だけ読みましたが面白...</td>
 </tr>
 <tr bgcolor="#CCFFFF">
 <td align="center">
-<a href="noteky.cgi?c=noteread&f=0&id=912714125hhvdi&ff=on" >6</a></td>
-<td align="center" nowrap>�e�X�g���̂���</td>
+<a href="noteky@c_noteread_f_0_id_912714125hhvdi_ff_on.cgi" >6</a></td>
+<td align="center" nowrap>テストそのいち</td>
 <td align="center" nowrap>1998/12/04 04:43:32</td>
-<td nowrap>�������ȁc</td>
+<td nowrap>そうかな…</td>
 </tr>
-</table><p>[<a href="noteky.cgi?&ff=on" >�m�[�g�ꗗ�ɂ��ǂ�</a>]</p></body></html>
+</table><p>[<a href="noteky@_ff_on.cgi" >ノート一覧にもどる</a>]</p></body></html>

@@ -1,10 +1,10 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>ŽG’kƒ{[ƒh/Ž„‚ÌƒIƒXƒXƒ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>é›‘è«‡ãƒœãƒ¼ãƒ‰/ç§ã®ã‚ªã‚¹ã‚¹ãƒ¡</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
-<p><font size="+2" color="#008080">ŽG’kƒ{[ƒh</font></p>
-<blockquote>‘‡“I‚È˜b‘èA‚ ‚é‚¢‚Í‚½‚¾‚ÌŽG’k“™‚É‚²—˜—p‰º‚³‚¢B</blockquote>
+<p><font size="+2" color="#008080">é›‘è«‡ãƒœãƒ¼ãƒ‰</font></p>
+<blockquote>ç·åˆçš„ãªè©±é¡Œã€ã‚ã‚‹ã„ã¯ãŸã ã®é›‘è«‡ç­‰ã«ã”åˆ©ç”¨ä¸‹ã•ã„ã€‚</blockquote>
 </body></html>

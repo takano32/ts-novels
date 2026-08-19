@@ -1,76 +1,76 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>���N�R�~�b�N/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>成年コミック/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
 
-[<a href="noteky.cgi?c=noteread&f=4&id=916945100qqhrj&ff=p&ca=r">�ŐV�̏��ɍX�V</a>] 
+[<a href="noteky@c_noteread_f_4_id_916945100qqhrj_ff_p_ca_r.cgi">最新の情報に更新</a>] 
 
 <br></div>
-<font size="+2" color="#0000FF">���C�N�E���[HAPPY</font><br>
+<font size="+2" color="#0000FF">メイク・ユーHAPPY</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>yays</strong>  <i>1999/01/22 03:58:20</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=916945100qqhrj&id2=916945100qqhrj&ff=p">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_916945100qqhrj_id2_916945100qqhrj_ff_p.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m�L�∟�E�E�R�X�~�b�N�C���^�[�i�V���i���E�uYOUNG�L�����v11�����`�n<BR><BR>�Q�����̃��X�g�Řa�F�i���j�͂Ȃ񂾂��t�b����Ă����悤�ł��ˁB���낢��ƁB
+［有坂亜摘・コスミックインターナショナル・「YOUNGキュン」11月号～］<BR><BR>２月号のラストで和彦（女）はなんだかフッきれていたようですね。いろいろと。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>?????</strong>  <i>1999/02/18 23:46:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=919349169mnwdlf&id2=916945100qqhrj&ff=p">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_919349169mnwdlf_id2_916945100qqhrj_ff_p.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-3�����ɂ͍ڂ��Ė����̂ł��傤��?���̊m�F���Ă����ł�<BR>���܂�ɓ���̂ŁE�E�����o�邾���́u�܂��!�v��<BR>��ڂ񑁏t�̂т�����呝�����̒��Ō��āA�J���t��BEE��<BR>�炪�ς���ċ���������菗�Ɍ������A�a��ł鎄�ɂ�<BR>�V�����L���痊��Ȃ����A�����Ȃ��̖̂{�̏���<BR>���E����ԁE�E�E�B��ˑS�W�� *����? �͂܂�������͂�<BR>�Ȃ̂Ƀ^�C�g�����v���o���Ȃ��Ĕ����Ȃ��B�Q�V���^���g<BR>���������o�邩�ǂ����┃�������₷��eyes�Ƃ�����ρE<BR>
+3月号には載って無いのでしょうか?中の確認ってここでは<BR>あまりに難しいので・・胸が出るだけの「まゆみ!」を<BR>りぼん早春のびっくり大増刊号の中で見て、カラフルBEEの<BR>顔が変わって胸が無いより女に見えた、病んでる私には<BR>新作情報回廊すら頼れない今、買えない昔の本の情報で<BR>生殺し状態・・・。手塚全集の *実験? はまだ買えるはず<BR>なのにタイトルが思い出せなくて買えない。ゲシュタルト<BR>今月こそ出るかどうかや買い逃しやすいeyesといい大変・<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>MASATO</strong>  <i>1999/02/19 01:37:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=919355877vqclxnn&id2=916945100qqhrj&ff=p">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_919355877vqclxnn_id2_916945100qqhrj_ff_p.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�R�����͎c�O�Ȃ���f�ڂ���܂���B
+３月号は残念ながら掲載ありません。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>?????</strong>  <i>1999/02/28 05:34:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=4&id=920147691mbemuw&id2=916945100qqhrj&ff=p">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_4_id_920147691mbemuw_id2_916945100qqhrj_ff_p.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�p�s�|4�u�V�g�ƒ����́vB�E���낤����𔃂����̂́A���̓x��<BR>MASATO�l�̂������ł��{���ɗL���������܂����B3�����Ŗ��ʂ�<BR>�o��Ă����玑���̓]�p���o�����ɁA�����_�̂��������b�𔃂�����<BR>�c���Ă��Ȃ������͂��Ȃ̂ŁB�V�g���͓V�g�֗�Ƃ��Ŗ�����΁A<BR>TS�ɓ���Ȃ��l�̕��������ʂɎ������c���Ă鎞�ɂ��������܂��񂩂�<BR>
+パピポ4「天使と鎮魂歌」B・たろう氏作を買えたのは、この度の<BR>MASATO様のおかげです本当に有り難うございました。3月号で無駄に<BR>出費していたら資金の転用が出来ずに、元死神のこういう話を買う金を<BR>残していなかったはずなので。堕天使等は天使禁猟区とかで無ければ、<BR>TSに入れない人の方が多い位に資金が残ってる時にしか買えませんから<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="4">
 <input type="hidden" name="id" value="916945100qqhrj">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>

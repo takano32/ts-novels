@@ -1,232 +1,232 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=995830698efifd&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_995830698efifd_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�����邱�Ƃ͎���ƂƂ��ɂ���</font><br>
+<font size="+2" color="#0000FF">生きることは時代とともにあり</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200107/23043607/zidai.html" target="_blank">��i��ǂނɂ͂������N���b�N</a></strong>  <i>2001/07/23 04:38:18</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200107/23043607/zidai.html" target="_blank">作品を読むにはここをクリック</a></strong>  <i>2001/07/23 04:38:18</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995830698efifd&id2=995830698efifd&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995830698efifd_id2_995830698efifd_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z���ʕω���i�Ƃ����g�ő�����ׂ����l����������ِF��B�낤����s�񂾕��͂ɓƓ��̃Z���X���������܂��B
+【推薦文】性別変化作品という枠で捉えるべきか考えさせられる異色作。危うさを孕んだ文章に独特のセンスが感じられます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/07/23 06:48:33</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/07/23 06:48:33</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995838513sqcnh&id2=995830698efifd&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995838513sqcnh_id2_995830698efifd_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�����A����͂������B<BR>�W�X�Ɛi�ޕ`�ʁA���]���v���X�^�C���g���b�v�B<BR>���łȂ����A�����łȂ��N���B<BR>��̂��̎��ԑk�s�͐��_�݂̂Ȃ̂��A����Ƃ����̂��܂񂾂��̂Ȃ̂��B<BR>���΂炵���B���ꂪ������Ƃ͂ƂĂ��v���Ȃ��B<BR>�������y���݂ł��B
+読んだバイ♪<BR>おお、これはすごい。<BR>淡々と進む描写、性転換プラスタイムトリップ。<BR>今でない時、自分でない誰か。<BR>一体この時間遡行は精神のみなのか、それとも肉体も含んだものなのか。<BR>すばらしい。これが処女作とはとても思えない。<BR>続きが楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>����݂���</strong>  <i>2001/07/23 07:26:54</i><br></td>
+<td  bgcolor="#00FFCC"><strong>亜希みちる</strong>  <i>2001/07/23 07:26:54</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995840814mlwja&id2=995830698efifd&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995840814mlwja_id2_995830698efifd_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂���<BR>���͂��������B���������x�́A�ǎ��̕��͂������Ă��銴���ł��B<BR>�ǂ��������ނ���<BR>���ԃ��[�v��ts����<BR>�Ƃɂ����ʔ��������ł�
+読みました<BR>文章がすごい。すごい密度の、良質の文章が迫ってくる感じです。<BR>どういう分類かな<BR>時間リープとtsかな<BR>とにかく面白かったです
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">�����낤</a></strong>  <i>2001/07/23 16:27:55</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:chochu@do3.enjoy.ne.jp" target="_blank">いちろう</a></strong>  <i>2001/07/23 16:27:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995873275otylnl&id2=995830698efifd&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995873275otylnl_id2_995830698efifd_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ݂܂����[�I<BR>���͂����܂��ł��ˁB�Ȃɂ��̏�����ǂ�ł���悤�Ȋ����ł����B�����������ł��B����͂ǂ��Ȃ��Ă����̂����Ɋy���݂ł��B<BR><BR>���Ȃ݂Ɏ��͍��N�̂Q���ɂ��̂g�o�ɏo����āA�Q���̉��{���ɂ͍�i�������n�߂܂����B�����͎󂯓���Ă��炦�₷���̂ł��ꂩ����撣���Ă��������B
+読みましたー！<BR>文章がうまいですね。なにかの小説を読んでいるような感じでした。すごかったです。次回はどうなっていくのか非常に楽しみです。<BR><BR>ちなみに私は今年の２月にこのＨＰに出会って、２月の下旬頃には作品を書き始めました。ここは受け入れてもらえやすいのでこれからも頑張ってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/07/23 18:43:31</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/07/23 18:43:31</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=995881411qmwvgw&id2=995830698efifd&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_995881411qmwvgw_id2_995830698efifd_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ꎟ���̌�̃h�C�c�ł����B�I�J���g�ł��T�X�y���X�A���u�X�g�[���[�Ȃ�ł��W�J�ł��邢������ł��ˁB<BR>����S�̂̕��͋C���炷��ƃ��_������݂̃��u�X�g�[���[���ȁH�@�ȂǂƎא������肵�āB<BR>���ꂩ�炪�b���̖{�Ԃł��˂���΂��Ă��������B<BR>�������A���ꂾ�������Ă܂����Z�P�N���Ƃ́A���̐悪�y���݂ł��ˁB<BR>
+一次大戦の後のドイツですか。オカルトでもサスペンス、ラブストーリーなんでも展開できるいい舞台ですね。<BR>物語全体の雰囲気からするとユダヤがらみのラブストーリーかな？　などと邪推したりして。<BR>これからが話しの本番ですねがんばってください。<BR>しかし、これだけ書けてまだ高校１年生とは、この先が楽しみですね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�閲</strong>  <i>2001/07/31 22:00:04</i><br></td>
+<td  bgcolor="#00FFCC"><strong>夜夢</strong>  <i>2001/07/31 22:00:04</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=996584404haikul&id2=995830698efifd&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_996584404haikul_id2_995830698efifd_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�m���ɁA���̕��ɂ̍�i�R�̒��ňِF�ƌ������A�ٍ˂ȍ�i�ł��ˁB<BR>�ǂ����ƁA���m�Ɍ����\����̂ł����B���̌����⌾���񂵓��ɁA�s�v�c�Ȃ��邢�́A�Ɠ��ȕ��͋C�������o���Ă���悤�ŁE�E�E<BR><BR>�Â��H�E�E�E�ƂȂ��Ă��܂����A���̐�ޏ��^�ނ��ǂ�����̂��H�ǂ������̂��H�C�ɂȂ鏊�E�E�E�E�E�E
+確かに、この文庫の作品軍の中で異色と言うか、異才な作品ですね。<BR>どこがと、明確に言い表し難いのですが。その語り口や言い回し等に、不可思議なあるいは、独特な雰囲気を醸し出しているようで・・・<BR><BR>つづく？・・・となっていますが、この先彼女／彼がどうするのか？どうされるのか？気になる所・・・・・・
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200107/23043607/zidai02.htm" target="_blank">���b������ɂ͂������N���b�N�B</a></strong>  <i>2001/09/05 21:12:27</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200107/23043607/zidai02.htm" target="_blank">第二話を見るにはここをクリック。</a></strong>  <i>2001/09/05 21:12:27</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999691947srrhnj&id2=995830698efifd&ff=on">APPEND 6</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999691947srrhnj_id2_995830698efifd_ff_on.cgi">APPEND 6</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�@��l������芪���󋵂��A���������炩�ɂȂ��Ă����܂��B�c�c����������́A����ɔށ\�\�ޏ�������������̂ł��B
+【推薦文】　主人公を取り巻く状況が、少しずつ明らかになっていきます。……しかしそれは、さらに彼――彼女を混乱させるのです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/09/05 23:08:26</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/09/05 23:08:26</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999698906uwgrkc&id2=995830698efifd&ff=on">APPEND 7</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999698906uwgrkc_id2_995830698efifd_ff_on.cgi">APPEND 7</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>���[��B���ς�炸�W�X�Ɛi�s���Ă����܂��ˁB<BR>�킩�����͎̂����̖��O�i�H�j�G���~���ƁA���������_���l�i���̓��_�����k�j�炵���Ƃ������ƁB<BR>����ɐ������X��A���ォ�痈���u�G���~���v�{�l�͂P�X�R�R�N�ȍ~�̃��_���l�i���k�j�̉^����m���Ă��邾���ɁA����̂��Ƃ��l����Ƃ܂��܂��s���ɂȂ��Ă����܂��B<BR>�������A�҂��������悤�ȁA�|���悤�ȁB
+読んだバイ♪<BR>うーん。相変わらず淡々と進行していきますね。<BR>わかったのは自分の名前（？）エレミヤと、自分がユダヤ人（又はユダヤ教徒）らしいということ。<BR>現代に生きる我々や、現代から来た「エレミヤ」本人は１９３３年以降のユダヤ人（教徒）の運命を知っているだけに、今後のことを考えるとますます不安になっていきます。<BR>続きが、待ち遠しいような、怖いような。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/06 09:55:23</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/06 09:55:23</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999737723dgcey&id2=995830698efifd&ff=on">APPEND 8</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999737723dgcey_id2_995830698efifd_ff_on.cgi">APPEND 8</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G���~�A�����_���֌W�Ƃ������Ƃ��킩��܂����B�Ƃ������Ƃ͔������琄������ƃv�[������̓L���X�g���֌W�҂Ȃ̂��ȁB<BR>�W�J���y���݂ȏ��N��n���X�Ƃ����G�`���̑��݂Ȃǂ��낢��ȗv�f���o�Ă��܂����ˁB<BR>�l�I�Ɏ���̃^�C�g�����C�ɂȂ�܂��B�ʂ����āw�Â��̂Â��x�ɂȂ�̂��낤���B�y���݂ł��B����΂��Ă��������B<BR>
+エレミアがユダヤ関係ということがわかりました。ということは発言から推測するとプーリさんはキリスト教関係者なのかな。<BR>展開が楽しみな少年やハンスという絵描きの存在などいろいろな要素が出てきましたね。<BR>個人的に次回のタイトルが気になります。果たして『つづきのつづき』になるのだろうか。楽しみです。がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
 <td  bgcolor="#00FFCC"><strong>Flow</strong>  <i>2001/09/07 23:31:55</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=999873115kvblu&id2=995830698efifd&ff=on">APPEND 9</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_999873115kvblu_id2_995830698efifd_ff_on.cgi">APPEND 9</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���b�z�A���񂪂ƂĂ��C�ɂȂ�܂��B�䎌�͑S�āA���{��ł���̂Ɂu�l���@���������@�����@�j�����������v�����́A�p�ꂾ�Ȃ�āc�c�B�����Ӑ}������悤�ł��B���ƁA"�G���~��"�Ƃ������O���B���_�����̋��T�ɂ��閼�O�Ȃ̂ł����H����Ƃ��A������V���ȕ����Ȃ̂ł��傤���B<BR>�@���͍\���ɑ�ϗD��Ă���Ǝv���܂��B���Ԃ��킴�Ɣ�΂��������ʓI�Ɏg�p����Ă��܂����B<BR>�@���ƁA���p���̊֘A�����悭�킩��Ȃ��̂ł����c�c�B���ꂩ��A�����ƕ�����̂ł��傤�ˁB<BR>
+【第二話】、次回がとても気になります。台詞は全て、日本語であるのに「Ｍｙ　ｎａｍｅ　ｉｓ　Ｋａｍｉｒｕ」だけは、英語だなんて……。何か意図があるようです。あと、"エレミヤ"という名前も。ユダヤ教の教典にある名前なのですか？それとも、これも新たな伏線なのでしょうか。<BR>　文章構成に大変優れていると思います。時間をわざと飛ばす事が効果的に使用されていました。<BR>　あと、引用文の関連性がよくわからないのですが……。これから、きっと分かるのでしょうね。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200107/23043607/zidai03.htm" target="_blank">��O�b������ɂ͂������N���b�N�B</a></strong>  <i>2001/09/16 13:48:36</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200107/23043607/zidai03.htm" target="_blank">第三話を見るにはここをクリック。</a></strong>  <i>2001/09/16 13:48:36</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000615716nxgfl&id2=995830698efifd&ff=on">APPEND 10</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000615716nxgfl_id2_995830698efifd_ff_on.cgi">APPEND 10</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�G���~���Ƃ��ĂP�X�R�R�N�́w���x�𐶂��悤�Ƃ����l���B�������c�c
+【推薦文】エレミヤとして１９３３年の『今』を生きようとする主人公。しかし……
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/09/16 20:47:34</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/09/16 20:47:34</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000640854fcmex&id2=995830698efifd&ff=on">APPEND 11</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000640854fcmex_id2_995830698efifd_ff_on.cgi">APPEND 11</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>��P�����A�ł����B����ꂳ�܂ł��B<BR><BR>���b�����S�̓I�ɍ������Ă���܂����A�������������b�ȂǓǂݕԂ��Ȃ����̂����炮���Ⴎ����ł����������肢�����̂ł���܂��B<BR>�ӂށA�u�������Ă�v�Ƃ͎v�������ǁA�u�������Ă�v�Ƃ͎v���܂���ł�����B�܂��A���̍������������͋C�������o���Ă���Ɗ����܂����B<BR>�����p��<BR>�m���ɁA�֘A�͂킩��Ȃ��������ǁA��������̍�i�̕��͋C�Â���̂P���Ǝv���Ă܂����i�΁j�B<BR>���\�L���Ȍ��t����A���܂�m���Ă��Ȃ��悤�Ȍ��t�܂ŁA���\���߂ɂȂ�܂����B<BR><BR>��Q���A���҂��Ă��܂��B
+読んだバイ♪<BR>第１部完、ですか。お疲れさまです。<BR><BR>＞話しが全体的に混乱しておりますし、自分が書いた話など読み返さないものだからぐちゃぐちゃですがご了承願いたいのであります。<BR>ふむ、「錯綜してる」とは思ったけど、「混乱してる」とは思いませんでしたよ。また、この錯綜がいい雰囲気を醸し出していると感じました。<BR>＞引用文<BR>確かに、関連はわかんなかったけど、これもこの作品の雰囲気づくりの１つだと思ってました（笑）。<BR>結構有名な言葉から、あまり知られていないような言葉まで、結構ためになりました。<BR><BR>第２部、期待しています。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/17 13:03:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/17 13:03:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1000699431nacseka&id2=995830698efifd&ff=on">APPEND 12</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1000699431nacseka_id2_995830698efifd_ff_on.cgi">APPEND 12</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�������S�҂̂������ł��B���߂Ĕ��N�͏��S�҂𖼏�点�Ă����Ȃ��Ɓ�<BR>�^�C�g���́w�Â��̂Â��x�Ɋ������܂����B<BR>���Ă܂��߂Ȋ��z���c�c�B<BR>����ł��C�O�ŕ�炷�Ƃ����̂͑�ςȂ̂ɁA���������]�������ʂ̎���֔�΂����ƂȂ�Ƒ����ȕs���ł��傤�B���̋C����������̘b���ł�����Ɠ`����Ă��ėǂ������ł��B<BR>����́w�S��x�Ƃ������Ƃł������A�����܂Œ��J�ɏ�����Ă���ƁA�����ׂ���ςł��������̐����L���݂������̂��������܂�Ă��Ă��ʔ����Ǝv���܂��B�i�K���A�H�ו��A�����i�����̗��s���������́j�Ƃ��j����ƌ��ݓ��{�Ƃ̔�r�����z�I�ɃG���~�A�����B��������ƁA�s�K�Ȗ��������Ȃ���΁A���̐��E�������ɐ��F����ɂƂ��Č�����{��薣�͓I�Ɍ��������`����Ă����̂ł͂Ǝv���܂��B<BR>���Ď��񂩂�́w�s���x���������邻���ŁA�h�e���̓I�ɂƂ��Ƃ�ˋ�̐��E�i���j�j���\�z����̂��A�͂��܂����j�ʂ萳�F�N�̓G���~�A�Ƃ��Ĕߌ��Ɋ������܂��̂��W�J���S���ǂ߂Ȃ��̂Ŕ��Ɋy���݂ł��B����΂��Ă��������B<BR>
+今だ初心者のあおきです。せめて半年は初心者を名乗らせてもらわないと♪<BR>タイトルの『つづきのつづき』に感動しました。<BR>さてまじめな感想を……。<BR>現代でも海外で暮らすというのは大変なのに、しかも性転換をし別の時代へ飛ばされるとなると相当な不安でしょう。その気持ちが今回の話しでじんわりと伝わってきて良かったです。<BR>今回は『心情』ということでしたが、ここまで丁寧に書かれていると、下調べが大変ですが当時の生活臭さみたいものが書きこまれていても面白いと思います。（習慣、食べ物、風俗（当時の流行見たいもの）とか）それと現在日本との比較を感想的にエレミアが語る。そうすると、不幸な未来さえなければ、この世界がいかに正彦くんにとって現代日本より魅力的に見えたが伝わってきたのではと思います。<BR>さて次回からは『行動』が鍵を握るそうで、ＩＦもの的にとことん架空の世界（歴史）を構築するのか、はたまた歴史通り正彦君はエレミアとして悲劇に巻きこまれるのか展開が全く読めないので非常に楽しみです。がんばってください。<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200107/23043607/zidai04.html" target="_blank">��l�b��ǂނɂ͂������N���b�N</a></strong>  <i>2001/09/26 16:22:57</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200107/23043607/zidai04.html" target="_blank">第四話を読むにはここをクリック</a></strong>  <i>2001/09/26 16:22:57</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001488977wfttuug&id2=995830698efifd&ff=on">APPEND 13</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001488977wfttuug_id2_995830698efifd_ff_on.cgi">APPEND 13</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���j�͊m���ɐi��ł������A����͉ʂ����ăG���~���̒m�関���ւƂȂ���̂��낤���H<BR>
+歴史は確実に進んでいくが、それは果たしてエレミヤの知る未来へとつながるのだろうか？<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/09/26 21:02:51</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/09/26 21:02:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001505771ueymqt&id2=995830698efifd&ff=on">APPEND 14</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001505771ueymqt_id2_995830698efifd_ff_on.cgi">APPEND 14</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>�ߌ����Ђ��Ђ��Ƌ߂Â��Ă���Ȃ��A�����܂ł����a�ȓ���i�������G���~���̎��͂̐l�X�ɂ́H�j�������B<BR>���̕��a�����܂ł������΂����ȂƎv�����A����͂��Ȃ�ʖ��H����B<BR>�������y���݂ł����A���̑O�ɒ��ԃe�X�g�A����΂��Ă��������B
+読んだバイ♪<BR>悲劇がひたひたと近づいているなか、あくまでも平和な日常（ただしエレミヤの周囲の人々には？）が続く。<BR>この平和がいつまでも続けばいいなと思うが、それはかなわぬ夢？物語。<BR>続きが楽しみですが、その前に中間テスト、がんばってください。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/09/27 11:27:59</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/09/27 11:27:59</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1001557679wmanu&id2=995830698efifd&ff=on">APPEND 15</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1001557679wmanu_id2_995830698efifd_ff_on.cgi">APPEND 15</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�Â��ɂ��b���͐i�s���Ă����܂��ˁB���̑O�̐Â������ȁB<BR>���M�y�[�X���������Ă��Ă܂��ˁB�������ł��B<BR>���d���i�׊w�j�Ɏ��M���ꂩ�������΂��Ă��������B������y���݂ɑ҂��Ă���܂��B
+静かにお話しは進行していきますね。嵐の前の静けさかな。<BR>執筆ペースがあがってきてますね。すごいです。<BR>お仕事（勉学）に執筆これからもがんばってください。次回を楽しみに待っております。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www14.big.or.jp/~yays/library/novel/200107/23043607/zidai05.html" target="_blank">��ܘb����ɂ͂������N���b�N�B</a></strong>  <i>2001/11/04 09:45:39</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../novel/200107/23043607/zidai05.html" target="_blank">第五話見るにはここをクリック。</a></strong>  <i>2001/11/04 09:45:39</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004834739pbybucc&id2=995830698efifd&ff=on">APPEND 16</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004834739pbybucc_id2_995830698efifd_ff_on.cgi">APPEND 16</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�y���E���z�N���Ă��܂��������̌�A�G���~���͂����ꖇ�̊G��������B�����ɕ`����Ă������̂Ƃ́H�����Ė����Ƃ́H����オ����݂��Ă܂���܂����B
+【推薦文】起きてしまった事件の後、エレミヤはもう一枚の絵を見つける。そこに描かれていたものとは？そして未来とは？盛り上がりをみせてまいりました。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">�_�����z�̂����W�S�Q�U</a></strong>  <i>2001/11/04 21:51:35</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="http://www.interq.or.jp/saturn/mk8426/" target="_blank">神速感想のｍｋ８４２６</a></strong>  <i>2001/11/04 21:51:35</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1004878295lnhdh&id2=995830698efifd&ff=on">APPEND 17</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1004878295lnhdh_id2_995830698efifd_ff_on.cgi">APPEND 17</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ǂ񂾃o�C��<BR>����Ɣ����̂͂��܂ŁA�������Ɨ���Ă������ԁB<BR>�m���ɏ����Ă���͂��̗��j�Ɍ��ʂ���悤�ȃG���~���̌��t���C�ɂȂ�܂��ˁB<BR>���񂪊y���݂ł��B
+読んだバイ♪<BR>日常と非日常のはざまで、ゆっくりと流れていく時間。<BR>確実に巡ってくるはずの歴史に決別するようなエレミヤの言葉が気になりますね。<BR>次回が楽しみです。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�������@������</strong>  <i>2001/11/07 13:39:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong>あおき　あきお</strong>  <i>2001/11/07 13:39:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1005107949nwfeht&id2=995830698efifd&ff=on">APPEND 18</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1005107949nwfeht_id2_995830698efifd_ff_on.cgi">APPEND 18</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���悢��b���������Ɏ�肩���낤�Ƃ��Ă܂��ˁB������y���݂ɂ��Ă���܂��B<BR>
+いよいよ話しが佳境に取りかかろうとしてますね。次回も楽しみにしております。<BR>
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="995830698efifd">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>

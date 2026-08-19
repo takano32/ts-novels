@@ -1,23 +1,23 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
-<title>�I�����C����i#2/���̃I�X�X��</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>オンライン作品#2/私のオススメ</title>
 </head>
 <body  bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#0055FF">
 <div align="right">
-[<a href="noteky.cgi?c=notebase&f=11&ff=on">�V�����b�������</a>] 
+[<a href="noteky@c_notebase_f_11_ff_on.cgi">新しく話題をつくる</a>] 
 
-[<a href="noteky.cgi?c=noteread&f=11&id=969173941jahosx&ff=on&ca=r">�ŐV�̏��ɍX�V</a>] 
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteread_f_11_id_969173941jahosx_ff_on_ca_r.cgi">最新の情報に更新</a>] 
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 <br></div>
-<font size="+2" color="#0000FF">�R���ƒq��</font><br>
+<font size="+2" color="#0000FF">由美と智香</font><br>
 <hr>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�^�c�ψ���</strong>  <i>2000/09/17 15:59:01</i><br></td>
+<td  bgcolor="#00FFCC"><strong>運営委員会</strong>  <i>2000/09/17 15:59:01</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969173941jahosx&id2=969173941jahosx&ff=on">BASE NOTE</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969173941jahosx_id2_969173941jahosx_ff_on.cgi">BASE NOTE</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
 NOW PRINTING!
@@ -27,75 +27,75 @@ NOW PRINTING!
 <tr>
 <td  bgcolor="#00FFCC"><strong>Kardy</strong>  <i>2000/09/19 01:03:51</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=969293031xxjanbx&id2=969173941jahosx&ff=on">APPEND 1</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_969293031xxjanbx_id2_969173941jahosx_ff_on.cgi">APPEND 1</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���A�G���b�X�E�E�E�E(T��T)<BR>�v�X�Ƀc�{�����b�X(T��T)
+も、萌えッス・・・・(T▽T)<BR>久々にツボったッス(T▽T)
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�V��</strong>  <i>2000/10/09 18:28:03</i><br></td>
+<td  bgcolor="#00FFCC"><strong>天明</strong>  <i>2000/10/09 18:28:03</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971083683gyfqfw&id2=969173941jahosx&ff=on">APPEND 2</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971083683gyfqfw_id2_969173941jahosx_ff_on.cgi">APPEND 2</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�G���ł��E�E�E���������������Ɏア�ł��B<BR>�R������K�ɍ߈�����������Ƃ���Ƃ��A��K�̓x�ʁi�Ƃ���������̐[���j�Ƃ��E�E�E<BR>
+萌えです・・・こういう恋愛物に弱いです。<BR>由美が雅幸に罪悪感を感じるところとか、雅幸の度量（というか愛情の深さ）とか・・・<BR>
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>���Ȃ���</strong>  <i>2000/10/09 23:20:08</i><br></td>
+<td  bgcolor="#00FFCC"><strong>すなさん</strong>  <i>2000/10/09 23:20:08</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=971101209orsht&id2=969173941jahosx&ff=on">APPEND 3</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_971101209orsht_id2_969173941jahosx_ff_on.cgi">APPEND 3</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�ŋ߁A������Ȃ����Ƃ����鐢�̒��ł̗F���B<BR>�݂Ȃ���A�����Y��Ă��邱�Ƃ͂���܂��񂩁H<BR>�Ǝv���N���������i�ł����B
+最近、情が薄くなったといわれる世の中での友情物語。<BR>みなさん、何か忘れていることはありませんか？<BR>と思い起こさせる作品でした。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">��������</a></strong>  <i>2000/10/22 23:23:45</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="mailto:KHE02352@nifty.ne.jp" target="_blank">こうけい</a></strong>  <i>2000/10/22 23:23:45</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=972224625uqegkc&id2=969173941jahosx&ff=on">APPEND 4</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_972224625uqegkc_id2_969173941jahosx_ff_on.cgi">APPEND 4</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-�j�̎q���珗�̎q�֕ϐg�����ӂ���̌˘f���Ɛ����Ԃ肪���J�ɕ`����Ă��āA�ƂĂ��D�������Ă܂��B<BR>�����łł́A�S���󋵂̕`�ʂ������Ă���悤�ł��ˁB<BR>�������ł����������킢�[������ɂȂ����Ƃ������܂��B
+男の子から女の子へ変身したふたりの戸惑いと成長ぶりが丁寧に描かれていて、とても好感が持てます。<BR>改訂版では、心理状況の描写が増えているようですね。<BR>おかげでいっそう味わい深い物語になったとおもいます。
 </td></tr>
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong>�q��</strong>  <i>2002/06/21 20:41:43</i><br></td>
+<td  bgcolor="#00FFCC"><strong>智香</strong>  <i>2002/06/21 20:41:43</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
-<a href="noteky.cgi?c=notemenu&f=11&id=1024659703nosivf&id2=969173941jahosx&ff=on">APPEND 5</a></td></tr>
+<a href="noteky@c_notemenu_f_11_id_1024659703nosivf_id2_969173941jahosx_ff_on.cgi">APPEND 5</a></td></tr>
 <tr bgcolor="#CCFFFF">
 <td colspan="2">
-���̌�̒q����m�肽������
+その後の智香を知りたかった
 </td></tr>
 </table></a><br>
 <BR>
 <p>
-<form action="http://www2.tomato.ne.jp/~ezpe/cgi-bin/noteky/noteky.cgi" method="post" >
-<b>���b�Z�[�W�F</b><br>
+<form action="noteky.cgi" method="post" >
+<b>メッセージ：</b><br>
 <textarea name="text" cols="60" rows="6" wrap="virtual"></textarea><br>
 <input type="hidden" name="c" value="appendnoteenter">
 <input type="hidden" name="f" value="11">
 <input type="hidden" name="id" value="969173941jahosx">
 <P></P>
-<b>�����O�F</b><br>
+<b>お名前：</b><br>
 <input type="text" name="name" size="40" maxlength="40" value=""><br>
 <P>
-<b>���[���A�h���X�F</b><br>
+<b>メールアドレス：</b><br>
 <input type="text" name="url" value="mailto:"><br>
-<font size=-1>�� mailto:��http://�ɒ�����URL����͂ł��܂��B</font>
+<font size=-1>※ mailto:をhttp://に直せばURLを入力できます。</font>
 <P>
-<input type="submit" value="��������"><br>
+<input type="submit" value="書き込み"><br>
 <font size=-1>
-���������݌�́A�u���E�U�́u�߂�v�{�^���Ŗ߂��ĉ������B<br>
+※書き込み後は、ブラウザの「戻る」ボタンで戻って下さい。<br>
 </font>
 </form>
 <hr><BR>
-[<a href="noteky.cgi?c=noteidx&f=11&ff=on">�I�����C����i#2</a>]<br>
+[<a href="noteky@c_noteidx_f_11_ff_on.cgi">オンライン作品#2</a>]<br>
 
 </p>
 </body>
