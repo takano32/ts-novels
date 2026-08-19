@@ -1,0 +1,180 @@
+@charset "shift_jis";
+
+body,td,th {
+	font-family: Verdana,"MS PGothic","Osaka",Arial,sans-serif;
+	font-size: 80%;
+	background: #f0f0f0;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #dd0000;
+}
+h1 {
+	font-size: 200%;
+	margin-bottom: 0;
+	color: #666;
+}
+td.small {
+	font-size: 70%;
+}
+
+/* 記事 */
+div.art {
+	border-top: 1px solid #888;
+	padding: 6px;
+}
+div.art strong, div.note strong {
+	color: #007300;
+}
+div.com {
+	margin: 1em 0 1em 2em;
+}
+div.art-end {
+	border-top: 1px solid #888;
+}
+div.note p {
+	margin-left: 2em;
+}
+
+/* 投稿フォーム */
+table.regfm {
+	margin: 1em 0;
+}
+table.regfm td, table.regfm th {
+	font-size: 100%;
+	padding: 0.1em;
+	white-space: nowrap;
+	text-align: left;
+}
+div.setback {
+	width: 90%;
+	margin: 0 auto;
+}
+
+p.url {
+	margin: 1em 0 0 0;
+}
+img.capt {
+	vertical-align: middle;
+}
+.ta-c {
+	text-align: center;
+}
+
+/* 留意事項 */
+div.obi {
+	text-align: center;
+	padding: 2px;
+	background: #444;
+	color: #fff;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+div.note {
+	width: 97%;
+	background: #fff;
+	border: 1px solid gray;
+	margin: 1em auto;
+	padding: 6px;
+	text-align: left;
+}
+div.clear {
+	clear: both;
+}
+p.msg {
+	color: green;
+}
+
+/* 閉じるボタン */
+p.close {
+	text-align: center;
+	margin-top: 3em;
+}
+p.close input {
+	width: 80px;
+}
+
+/* アクセス制限：入室画面 */
+table.enter {
+	margin: 80px auto;
+	width: 400px;
+	border: 1px solid #0080c0;
+	border-collapse: collapse;
+}
+table.enter th, table.enter td {
+	font-size: 100%;
+	border: 1px solid #0080c0;
+	padding: 1.2em;
+	text-align: left;
+}
+table.enter th {
+	background: #0080c0;
+	color: #fff;
+}
+table.enter td {
+	background: #fff;
+}
+table.enter input[type="password"] {
+	width: 220px;
+}
+div.enter-btn {
+	margin-top: 1.5em;
+	text-align: right;
+}
+div.enter-btn input[type="submit"] {
+	width: 100px;
+	height: 30px;
+}
+
+/* エラー */
+div.err-box {
+	width: 400px;
+	margin: 3em auto;
+	border-top: 3px double gray;
+	border-bottom: 3px double gray;
+}
+p.err {
+	color: #dd0000;
+	margin: 2em;
+}
+
+/*
+	ページ送り
+	参考: http://css-happylife.com/template/page_nav/
+*/
+ul.pager {
+	margin: 0 0 10px;
+	padding: 10px 10px 5px;
+}
+ul.pager li {
+	display: inline;
+	margin: 0 1px;
+	padding: 0;
+}
+ul.pager li span {
+	display: inline-block;
+	margin-bottom: 5px;
+	padding: 1px 8px;
+	background: #a7a7a7;
+	color: #fff;
+	border: 1px solid #aaa;
+	text-decoration: none;
+	vertical-align: middle;
+}
+ul.pager li a {
+	display: inline-block;
+	margin-bottom: 5px;
+	padding: 1px 8px;
+	background: #fff;
+	border: 1px solid #aaa;
+	text-decoration: none;
+	vertical-align: middle;
+}
+ul.pager li a:hover {
+	background: #eeeff7;
+	border-color: #00f;
+}
+
