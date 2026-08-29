@@ -1,0 +1,1241 @@
+{
+  "summary": "少年少女文庫ミラーの構造・メタデータ・コミュニティ層を WordPress 設計のために全数調査",
+  "agentCount": 8,
+  "logs": [],
+  "result": {
+    "catalog": {
+      "fields": [
+        {
+          "name": "title",
+          "occurrence_pct": 100,
+          "source": "row1/TD1",
+          "spec": "<B><A href=\"HREF\">TITLE</a></B> — regex (case-insensitive, DOTALL): <A\\s+href=\"([^\"]+)\"[^>]*>(.*?)</a>. HREF prefix: novel/ 2880 (99.76%), http:// absolute 6, special/ 1. Extension: .html 1962 / .htm 899 / .jpg 19 / .gif 2 (image-only CG works, mostly lib63-73); 5 hrefs carry case-sensitive #anchors (#GAME, #BBS3, #CHAP1, one fullwidth #ＢＢＳ). No text ever outside the bold link.",
+          "empty_pct": 0
+        },
+        {
+          "name": "author",
+          "occurrence_pct": 100,
+          "source": "row1/TD2",
+          "spec": "Exactly 4 shapes (n=2887): '<B><A href=\"mailto:MAIL\">NAME</a></B> さん (HPLINK)' 771 (26.7%); '<B><A href=\"mailto:...\">NAME</a></B> さん' 965 (33.4%); '<B>NAME</B> さん (HPLINK)' 147 (5.1%); '<B>NAME</B> さん' 1004 (34.8%). mailto present 60.13%, Homepage link 31.80% — HPLINK is always literal anchor text 'Homepage'. Parse: try mailto-anchor first, else inner <B>; then optional (?!mailto:) href with text 'Homepage'. 'さん' suffix present in 100% of TDs (strip it).",
+          "empty_pct": 0
+        },
+        {
+          "name": "illustration",
+          "occurrence_pct": 100,
+          "source": "row1/TD3",
+          "spec": "Only 2 canonical forms: '(イラストなし)' halfwidth parens 2410 (83.48%); '<B>画</B>(<B>CREDIT</B>さん)' 477 (16.52%). Label is always 画 in this corpus — 挿画：wording exists ONLY in legacy lib07/lib09. CREDIT quirks: 8 entries wrap the name in <a href='URL'> (note single quotes); 1 embeds 巴（<a>Homepage</a>）inside <B>; multi-illustrator via 、 or ＆/& (e.g. ことぶきひかる&NDCセキュリティサービス). Parse: if イラストなし → none; else regex <B>(.*?)</B>\\s*\\(\\s*<B>(.*?)</B>\\s*さん\\s*\\) with strip_tags on group 2, plus optional inner href capture.",
+          "empty_pct": 83.48
+        },
+        {
+          "name": "date",
+          "occurrence_pct": 100,
+          "source": "row1/TD4",
+          "spec": "3 shapes: 'YYYY/M/D(曜)' halfwidth parens + one kanji weekday 月火水木金土日 — 2493 (86.35%); bare 'YYYY/M/D' (month/day sometimes zero-padded, e.g. 1999/08/24) — 393 (13.61%); 1 entry '2000/10/8（日）' with FULLWIDTH parens (lib62 #35). Master regex: ^(\\d{4})/(\\d{1,2})/(\\d{1,2})(?:[(（]([月火水木金土日])[)）])?$ → 100% match. Year range 1997–2014; pages ordered newest-first (lib1=2014 … lib73=oldest).",
+          "empty_pct": 0
+        },
+        {
+          "name": "size_kb",
+          "occurrence_pct": 100,
+          "source": "row1/TD5",
+          "spec": "'NNKB' 2878 (99.69%); 'NNNKB / NFILES' 7 (multi-file works, e.g. '154KB / 4FILES'); 'NN KB' with space 2. Master regex: ^(\\d+)\\s?KB(?:\\s*/\\s*(\\d+)FILES)?$ → 100%.",
+          "empty_pct": 0
+        },
+        {
+          "name": "kansou_link",
+          "occurrence_pct": 100,
+          "source": "row1/TD6",
+          "spec": "100% '<A href=\"~ts/kansou/bbs@log_<author_id>.cgi\">感想</a>'; TD always carries BGCOLOR=\"#E0D0C0\" (2887/2887). author_id: [A-Za-z0-9_]+, 305 distinct ids (per-author feedback logs: kayo_chan 218, writerman 110, johdan 82 …). Regex: ~ts/kansou/bbs@log_([A-Za-z0-9_\\-]+)\\.cgi → 100%. Use author_id as stable author key for WordPress (more reliable than display name).",
+          "empty_pct": 0
+        },
+        {
+          "name": "arasuji",
+          "occurrence_pct": 100,
+          "source": "row2 (TD COLSPAN=6)",
+          "spec": "Marker literally '<B>【あらすじ】 </B>' (space before </B>) present in 100%. Value = text until next '<B>【'. Regex: 【あらすじ】\\s*</B>\\s*(.*?)(?=<B>【|\\Z). Value empty in 182 (6.3%). May contain inline <a> links and <BR>.",
+          "empty_pct": 6.3
+        },
+        {
+          "name": "comment",
+          "occurrence_pct": 100,
+          "source": "row2",
+          "spec": "'<B>【コメント】 </B>' present 100% (the 【作者様コメント】 variant exists only in legacy lib07). Same extraction regex as arasuji. Empty in 290 (10.0%).",
+          "empty_pct": 10
+        },
+        {
+          "name": "osusume",
+          "occurrence_pct": 26.5,
+          "source": "row2, after comment",
+          "spec": "765 entries (26.5%) append '<B>【<recommender> さんのオススメ作品】</B>' inside row 2. Regex for header: 【(.+?)\\s*さんのオススメ作品】\\s*</B>\\s*(.*?)(?=<B>【|\\Z). Body = repeated pairs: <a href=\"HREF\">「title」</a> <FONT SIZE=\"-1\">(AUTHORさん作)</FONT>. 988 link+author pairs total; links per entry: 1×650, 2×43, 3×38, 4×10, ≥5×16, 0×8 (text-only recommendation, author sometimes blank '(さん作)'). WARNING: contains malformed nested/unclosed <A> tags (e.g. '<A ..>緋色の風１<a ..>／２</a>...') — scan with a flat findall over anchors, do NOT rely on a strict DOM.",
+          "empty_pct": 73.5
+        },
+        {
+          "name": "suisen",
+          "occurrence_pct": 100,
+          "source": "row3 (TD COLSPAN=6)",
+          "spec": "'<B>【推薦文】 </B>' present 100% (site-staff recommendation). Empty in 147 (5.1%). 1221 entries (42.3%) embed trailing navigation links of form <b><a href=\"HREF\">【LABEL】</a></b> — 1726 links; labels: シリーズタイトルはこちら 696, 第一話/第１話はこちら 183, 第二話... , 前編/後編, 第N章, 華代ちゃんシリーズタイトルはこちら 149, シリーズタイトル＆キャラクター紹介はこちら 15, お知らせ 17. Extract as series/chapter nav: findall <a\\s+href=\"([^\"]+)\"[^>]*>【(.+?)】</a>. Legacy-era pages (lib63-73) also use plain 'あらすじ内リンク' with labels 前編/第二話 etc. (34 cases appear in row 2 instead).",
+          "empty_pct": 5.1
+        },
+        {
+          "name": "genre",
+          "occurrence_pct": 100,
+          "source": "row4 (TD COLSPAN=6), NOT bold",
+          "spec": "Row 4 fixed layout: '【ジャンル】 VAL <BR>【種別】 VAL<BR>【キーワード】 VAL'. Markers unbolded (no <B>). genre: whitespace-separated multi-value (split on ASCII+fullwidth space); empty in 238 (8.2%); 244 distinct tokens — top: 学園 711, コメディ 598, 現代 451, アクション 312, ファンタジー 308, 恋愛 307, SF 264 (+ＳＦ 28 fullwidth variant — normalize NFKC), 不思議 253, 青春 250. Regex: 【ジャンル】\\s*(.*?)\\s*<BR>.",
+          "empty_pct": 8.2
+        },
+        {
+          "name": "shubetsu",
+          "occurrence_pct": 100,
+          "source": "row4",
+          "spec": "TS-transformation type taxonomy; whitespace-separated; empty in 326 (11.3%); 187 distinct — top: 変身 1851, 魔法 443, テクノロジー 266, 神秘 228, 人格転移 204, アイテム 130, 薬品 95, 可逆 94, 入れ替わり 92, 医術 92. Note uncertainty variants 魔法？/変身？ and long compounds 性別変更（男から女）. Regex: 【種別】\\s*(.*?)\\s*<BR>.",
+          "empty_pct": 11.3
+        },
+        {
+          "name": "keywords",
+          "occurrence_pct": 100,
+          "source": "row4, last",
+          "spec": "Whitespace-separated tags to end of TD; empty in 437 (15.1%); 1083 distinct — top: 強制 393, オレっ娘 390, ボクっ娘 278, 華代ちゃん 168, 異形 152, 年齢変化 144. Regex: 【キーワード】\\s*(.*?)\\s*$ (strip tags).",
+          "empty_pct": 15.1
+        }
+      ],
+      "parse_strategy": "CANONICAL SOURCE = new format (MANAGE2.CGI), files lib1.html–lib73.html (single-digit WITHOUT leading zero; lib01–lib09 with zero are DIFFERENT legacy pages). All files UTF-8 (already converted). PIPELINE: (1) read file; (2) findall r'<TABLE BORDER=1.*?</TABLE>' with re.S|re.I — one table per work entry; tables sit on very long single lines, so never parse line-by-line; (3) split table into <TR>…</TR> — ALWAYS exactly 4 rows in the canonical corpus (2887/2887); (4) row 1 = 6 <TD>s, always: [title+link, author(+mailto+Homepage), illustration, date, sizeKB, kansou-link]; rows 2–4 are single TD COLSPAN=6 blocks keyed by 【…】 markers: row2=あらすじ+コメント(+オススメ作品), row3=推薦文(+series nav links), row4=ジャンル/種別/キーワード. Use the per-field regexes in `fields`. ROBUSTNESS RULES: match tags case-insensitively (<A href> vs <a href>, <B> vs <b>); accept single-quoted attrs (8 illustrator links use href='…'); tolerate malformed nested <A> in オススメ blocks (flat regex scan, not DOM); NFKC-normalize taxonomy tokens (ＳＦ/SF); split multi-values on both ASCII and U+3000 spaces; treat marker-present-but-empty as NULL (empty rates 5–15%, see fields). DEDUP: library.html embeds the newest 10 entries — byte-identical duplicates of lib1.html entries 1–10 (verified) — skip it. lib-index*.html (17 files) are author-index/navigation pages with no entry tables — skip. LEGACY PAGES (optional secondary import, overlap era 1997–2000 already covered by 468 new-format entries): lib01–lib06 = pre-table format, 252 entries, pattern r'(?:(\\d+)KB\\((.*?)\\))?<b><a href=\"([^\"]+)\">(.*?)</a>(.*?)</b><br>' with title usually ［…］-bracketed, author as trailing '作・NAME'/'作/画・NAME', optional following '<b>あらすじ：…</b>'; lib07–lib09 = transitional tables, 84 blocks (81 full works incl. extra 【属性】 field in row 4; 2 お知らせ-only blocks; 3 early blocks have only 5 TDs = no 感想 column), date 'YY/M/D' 2-digit year, size 'NN KB' with space, '***' as missing-value placeholder, fullwidth （イラストなし）/（イラスト無し）/（イラスト作品）/（挿画：NAMEさん）, kansou at ~ezpe/cgi-bin/noteky/noteky@c_noteread_f_N_id_<id>_ff_on.cgi, marker variant 【作者様コメント】. 81 of 306 legacy novel/ hrefs don't string-match a new-format title href, but most are per-chapter links vs the new format's aggregated/#anchored links — dedup by path prefix before importing. WORDPRESS MAPPING HINTS: post=work keyed by title_href; author taxonomy keyed by kansou author_id (305 ids, stable) with display name + mailto + homepage as meta; genre/種別/keywords as 3 taxonomies; date→post_date; size/FILES, illustration credit, オススメ (recommender+refs), 推薦文, series-nav links as post meta; series relations reconstructable from 推薦文 links labeled シリーズタイトルはこちら/第N話はこちら.",
+      "total_entries": 2887,
+      "unparseable_pct": 0,
+      "variants": [
+        "ENTRY COUNTS (all lib*.html): canonical lib1–lib73 = 2887 entries (lib1–lib72 exactly 40/page, lib73 = 7; year spread 1997:10, 1998:76, 1999:239, 2000:143, 2001:305, 2002:344, 2003:332, 2004:316, 2005:267, 2006:257, 2007:160, 2008:134, 2009:75, 2010:62, 2011:61, 2012:62, 2013:32, 2014:12). Legacy lib01–06 = 252 entries (no tables, 1997.11–1999). Legacy transitional lib07–09 = 84 table blocks (81 works + 2 お知らせ + 1 partial). library.html = 10 (exact duplicates of lib1 newest 10). lib-index*.html = 0. Gross blocks all files = 3233; unique canonical works = 2887.",
+        "STRUCTURE: 2887/2887 tables have exactly 4 TR rows and 6 TDs in row 1 — zero structural deviations, zero parse failures (unparseable = 0.0%).",
+        "DATE: halfwidth (曜) 2493 / bare YYYY/M/D 393 (some zero-padded) / fullwidth （日） 1 — single tolerant regex covers 100%.",
+        "SIZE: NNKB 2878 / 'NNNKB / NFILES' 7 / 'NN KB' 2.",
+        "ILLUSTRATION: (イラストなし) 2410 vs 画(NAMEさん) 477; 8 credits contain <a> (single-quoted hrefs); 挿画：wording only in legacy lib07/09; multi-artist via 、 and &/＆.",
+        "AUTHOR: 4 shapes only — mailto+HP 771 / mailto 965 / plain+HP 147 / plain 1004; anchor text of homepage always 'Homepage'.",
+        "KANSOU: 100% ~ts/kansou/bbs@log_<id>.cgi, TD BGCOLOR #E0D0C0 100%, 305 distinct author ids.",
+        "ROW-KIND SEQUENCES: base [あらすじ+コメント | 推薦文 | ジャンル種別キーワード] 806; +シリーズタイトルはこちら in 推薦文 732; +オススメ作品 in row2 765 (26.5%, 988 recommended-work links,含 malformed nested <A>); 推薦文 nav labels 1726 links across 1221 entries (第N話/章, 前編/後編, キャラクター紹介, お知らせ 17).",
+        "TITLE HREF ODDITIES (28): 21 image works (.jpg/.gif, mostly novel/grp/ in lib63-73), 6 absolute http:// (external hinoki.sakura.ne.jp gallery + tf-mio.com), 1 special/rb/index.html, 5 #anchor links (case- and width-sensitive).",
+        "EMPTY VALUES (marker present, value blank): あらすじ 182 (6.3%), コメント 290 (10.0%), 推薦文 147 (5.1%), ジャンル 238 (8.2%), 種別 326 (11.3%), キーワード 437 (15.1%).",
+        "TAXONOMY SIZES: genre 244 distinct (top 学園/コメディ/現代), 種別 187 (変身 64%), keywords 1083 (強制/オレっ娘/ボクっ娘). Fullwidth/halfwidth duplicates exist (SF vs ＳＦ) — NFKC-normalize.",
+        "LEGACY transitional lib07–09 schema deltas: extra 【属性】 marker in row 4 (78/84); 【作者様コメント】 variant; '***' placeholders; 2-digit years; 'NN KB'; noteky feedback CGI; 3 early 5-TD tables without 感想 column; 'IMAGE ' prefix before title link on CG works.",
+        "FILES: analysis scripts at /tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/parse_lib.py; corpus at /home/takano32/GitHub/ts-novels/lib{1..73}.html, legacy /home/takano32/GitHub/ts-novels/lib0{1..9}.html, /home/takano32/GitHub/ts-novels/library.html."
+      ]
+    },
+    "workModel": {
+      "series_structure": "【シリーズ表現の実態】series.html (完結シリーズ作品一覧, UTF-8) は五十音別12テーブル(＜記念作品・リレー小説＞＋あ〜わ行＋アルファベット)、行=[作者名|作品名+リンク|本編話数|番外編等]。有効行123行(コメントアウト除く)。リンク形式は2通り: (a) 51行=【シリーズタイトル】1本のみ→作中の「シリーズタイトルページ」(例 novel/200206/22085230/title.htm) へ誘導し、そこから各話へ相対リンク; (b) 残り=【前編】【後編】【第1話】等の各話直リンクを行内に列挙(計267リンク)。11行はリンク無し(タイトルページ未整備)。つまりシリーズ→話の対応は「タイトルページ経由」と「series.html 直書き」の2系統が混在し、機械可読な単一ソースは無い。シリーズタイトルページは novel/ 配下に *title*.htm / index.html 名で約124個(投稿ディレクトリ内)+51個(旧世代ディレクトリ内)。目録エントリ側からも推薦文欄に「【シリーズタイトルはこちら】」リンクで逆参照される。さらに share_world.html が多作者共有世界シリーズ(華代ちゃん=kayo_chan 159ファイル・20話刻みの title01-06.html、corrector, dirty, mirror_ring, rental, setsubou, sugar 等)を一覧化。注意: series.html は「完結済み」のみで未完シリーズ(d_upboy等)は載らない。連載の話が別ディレクトリに散る実例: 城弾 d_upboy は本編13話+αが novel/200209/19204751/ (d_upboy.htm〜d_upboy13.htm、ただし7-8話は dup_boy07/08.htm と命名不統一)、別に novel/200907/19181513/ (作者サイト「城弾シアター」丸ごとミラー、d_up_boy01.htm/dress_up_boy03.htm 等の別名重複+contents.html) と novel/201009/16215412/ (その部分再アップ、md5一致の完全重複あり) に同一話が存在。なのは T's は4話+title が 200611/21212001 に同居する例。",
+      "dir_stats": "【novel/ 配下の統計】novel/ 直下: YYYYMM ディレクトリ105個 (200008〜、欠番あり)。YYYYMM 直下の実体: DDHHMMSS 投稿ディレクトリ390個 + 名前付き例外1個 (novel/200101/milfia/ = ハイブリッド期) + Apache autoindex の捕獲ファイル9個 (novel/200312/index*.html、コンテンツではない)。投稿ディレクトリあたりの本文ファイル数(htm/html/txt)分布: 1個=152dirs(39%), 2個=40, 3個=29, 4個=29, 5-9個=47, 10-19個=58, 20個以上=34。中央値3、平均7.8。最大は 200703/16205836 (167ファイル、画像多数含む)、200312/05062153 (108)、200802/18212014 (82)。重要な性質: (1) DDHHMMSS は「作者の初回投稿バッチ」のタイムスタンプで、以後の連載追加話も同じディレクトリに追記され続ける (例: 200209/19204751 に城弾の全作品群が集約され、2014年投稿の話も 200209 配下に置かれる; 200606/01235810 の yama01-08 も長期連載を同居)。(2) 1ディレクトリ=1作者だが複数作品が同居 (例: novel/201212/18232308/ に calendargirl.htm, twins01-03.htm, trickstar.htm, up_down.htm, angelvoice.htm, tigers2012.htm = 全て城弾の別作品6本+挿絵gif)。(3) 同一作者が複数ディレクトリを持つ (城弾は少なくとも 200209/200907/201009/201212 の4箇所)。(4) 稀にサブディレクトリあり (d_up6.5/)。本文ファイル総数: YYYYMM 系 3,059、旧世代フラット系 757 (直下119+作品別ディレクトリ638)、合計3,818。",
+      "flat_era": "【フラット時代(旧世代)の扱い】novel/ 直下に YYYYMM 以外の実体が176個: ファイル119本 (career23.html, cat-ear1.html, triangle_equation1-3.html 等=1話1ファイル直置き) + 作品別/用途別ディレクトリ56個 (4sister/, concerto/, kayo_chan/, professor_k/, valentine/, tr_gals/, short/ 等)。時期は1997.11〜2000.07頃 (YYYYMM 開始が200008)。特殊ケース: (1) novel/short/ (39ファイル) = 掌編の共用置き場。(2) novel/toukou01-03.html = 1ファイルに複数作品をアンカー(<a name=\"JUNKO\">等)で同居させた投稿アンソロジー — 「ファイル=話」が成立しない反例で、索引からは novel/toukou01.html#JUNKO 形式で参照される。(3) novel/kayo_chan/ (159ファイル) はフラット時代出自だが2014年まで新話(kayo_chan113.htm)が追加され続けた多作者共有世界で、目録からも現役参照される — 「旧世代=凍結」ではない。(4) novel/200101/milfia/ のような移行期ハイブリッドが1件。旧世代の目録は lib01〜lib09 (ゼロ埋め番号、1997.11.4-1998.4.5「旧作品」) で、サイズ+更新日+タイトル+作者+あらすじ+編集者コメントの非テーブル形式。WordPress 移行では旧世代もエントリ粒度は同じ「1話=1目録エントリ」で扱え、パーマリンク保存のためにパスだけ別マッピングが必要。",
+      "indexes": "【索引群の構造】(1) lib-index.html = 作家別五十音目録のハブ → lib-index-{aa,ka,sa,ta,na,ha,ma,ya,ra,wa,en,etc}.html へ分岐。各ページは <TR><TD 60%>話タイトル(ファイルへの直リンク)</TD><TD 30%>作者名(+mailto/homepageリンク任意)</TD> の2列テーブル、作者ごとに投稿時系列で並ぶ。総行数2,796行(=話・掲載単位)、作者名の異表記込みで約393名 (あさり/アサリ、赤目の表記揺れ等あり、正規化必要)。lib-index-1〜4.html は同目録の旧世代版(た〜は等の粗い分割)。(2) library.html = メイン目録。1話=1テーブルで [タイトル|作者|画師|更新日|サイズ|感想リンク] + あらすじ/コメント/オススメ + 推薦文(+シリーズタイトルページへのリンク) + 【ジャンル】【種別】(変身/入れ替わり等)【キーワード】。宣言作品総数2,887、実テーブル数は library.html+lib1〜73.html 合計2,948。感想リンクは作品単位でなく作者単位の掲示板 (bbs@log_johdan.cgi 等、kayo_chan はシリーズで1本)。(3) lib1〜73.html = 同形式の過去目録ページネーション。lib01〜09.html = 1997-98年の旧目録(非テーブル)。(4) bunrui.html = TS分類別索引 (SF/FT/リアル × 器の変化/核の転換 × 自/他 + パロディ/その他)。分類見出し→作者→話リンクの列挙、リンク117本は全て旧世代パスのみで更新停止した化石索引。(5) genre.html = 作品リンクを一切含まない「ジャンル語彙の定義ページ」(基本区分: SF/アクション/コメディ/学園/恋愛/二次創作等 + 下位区分: 宇宙/近未来/異世界等) — 検索CGIと目録の【ジャンル】欄が使う統制語彙。WordPress ではタクソノミー定義の元資料になる。カバレッジ: 各種索引から参照されるユニークパス3,193、うちディスク実在2,977; ディスク上の本文3,818ファイル中841本はどの索引からも直接参照されない (シリーズタイトルページ・サイトミラー付随物・次話リンクのみで到達する話など)。",
+      "work_identity": "【work を一意に定める鍵の提案】実態: (a)「ファイル」は不適 — 1ファイル複数作品(toukou01.html#アンカー)、同一話の複数ファイル重複(d_upboy06.htm が3ディレクトリ、md5一致含む)、命名不統一(dup_boy07 vs d_upboy09)。(b)「ディレクトリ」も不適 — 1ディレクトリ複数作品(201212/18232308に6作品)、1作品複数ディレクトリ(d_upboy)。(c)「目録エントリ」(library.html/lib*.html の2,948テーブル + 旧目録 + lib-index 2,796行) が唯一の一貫した一次データで、粒度は「話(掲載)」。よって推奨モデルは3層: [Work(作品)] ←1:N← [Episode(話)=目録エントリ] ←N:1..N→ [File(実ファイル+アンカー)]。■Episode の自然鍵 = 目録エントリ(タイトル文字列+作者+更新日)、正規化キーとしては「正規ファイルパス(+アンカー)」を代表値にし、重複ファイルは episode への alias として保持。■Work の鍵は既存データに存在しないため合成する: work_id = 正規化作者名 + 作品スラッグ (シリーズタイトルページがあればそのパス novel/200206/22085230/title.htm を канон、無ければファイル名prefix(dualway, henkaku, yama)と目録タイトルの共通接頭辞から生成し人手確認)。series.html の123行 + share_world.html + タイトルページ約175個が Work 抽出のシードになるが完結シリーズしか無いので、lib-index の作者×タイトル接頭辞クラスタリングで未完・単発分を補完する。■WordPress 対応: Episode=投稿(post)、Work=カスタムタクソノミーまたは親子ページ(シリーズタイトルページの本文はWorkの説明文に転用)、作者=author タクソノミー(異表記正規化テーブル必須、約393名)、genre.html の語彙=ジャンル/種別/キーワードの3タクソノミー。元パス(novel/... 旧世代含む)は各 Episode のメタに保持しリダイレクトで旧URL互換を確保。単発作品は Work=Episode 1:1。site ミラー出自の重複ファイル(200907/201009の城弾シアター)は Work 配下の alias 扱いにして正本を1つ選ぶ。"
+    },
+    "taxonomies": {
+      "genres": [
+        {
+          "term": "学園",
+          "count": 918
+        },
+        {
+          "term": "コメディ",
+          "count": 754
+        },
+        {
+          "term": "現代",
+          "count": 479
+        },
+        {
+          "term": "ファンタジー",
+          "count": 450
+        },
+        {
+          "term": "SF",
+          "count": 417
+        },
+        {
+          "term": "アクション",
+          "count": 408
+        },
+        {
+          "term": "恋愛",
+          "count": 353
+        },
+        {
+          "term": "青春",
+          "count": 284
+        },
+        {
+          "term": "不思議",
+          "count": 279
+        },
+        {
+          "term": "伝奇",
+          "count": 259
+        },
+        {
+          "term": "不条理",
+          "count": 204
+        },
+        {
+          "term": "ショートショート",
+          "count": 169
+        },
+        {
+          "term": "近未来",
+          "count": 132
+        },
+        {
+          "term": "ヒーロー",
+          "count": 100
+        },
+        {
+          "term": "幻想",
+          "count": 98
+        },
+        {
+          "term": "異世界",
+          "count": 82
+        },
+        {
+          "term": "戦記",
+          "count": 82
+        },
+        {
+          "term": "二次創作",
+          "count": 72
+        },
+        {
+          "term": "ホラー",
+          "count": 60
+        },
+        {
+          "term": "スポーツ",
+          "count": 49
+        },
+        {
+          "term": "職業",
+          "count": 41
+        },
+        {
+          "term": "ミステリー",
+          "count": 35
+        },
+        {
+          "term": "宇宙",
+          "count": 30
+        },
+        {
+          "term": "ＳＦ",
+          "count": 30
+        },
+        {
+          "term": "医療",
+          "count": 26
+        },
+        {
+          "term": "ライトファンタジー",
+          "count": 25
+        },
+        {
+          "term": "異世界ファンタジー",
+          "count": 23
+        },
+        {
+          "term": "ミステリ",
+          "count": 22
+        },
+        {
+          "term": "アクションコメディ",
+          "count": 20
+        },
+        {
+          "term": "学園？",
+          "count": 20
+        },
+        {
+          "term": "SS",
+          "count": 19
+        },
+        {
+          "term": "シリアス",
+          "count": 19
+        },
+        {
+          "term": "ギャグ",
+          "count": 16
+        },
+        {
+          "term": "コメディ？",
+          "count": 15
+        },
+        {
+          "term": "アクション？",
+          "count": 14
+        },
+        {
+          "term": "学園物",
+          "count": 13
+        },
+        {
+          "term": "一般",
+          "count": 12
+        },
+        {
+          "term": "女ヒーロー",
+          "count": 12
+        },
+        {
+          "term": "怪奇",
+          "count": 12
+        },
+        {
+          "term": "その他",
+          "count": 11
+        },
+        {
+          "term": "現代？",
+          "count": 11
+        },
+        {
+          "term": "伝奇（？）",
+          "count": 11
+        },
+        {
+          "term": "時代・歴史",
+          "count": 10
+        },
+        {
+          "term": "メタ",
+          "count": 10
+        },
+        {
+          "term": "古典",
+          "count": 10
+        },
+        {
+          "term": "ヒーロー？",
+          "count": 10
+        },
+        {
+          "term": "時代",
+          "count": 9
+        },
+        {
+          "term": "夢オチ",
+          "count": 9
+        },
+        {
+          "term": "２次創作",
+          "count": 9
+        },
+        {
+          "term": "戦記？",
+          "count": 9
+        }
+      ],
+      "types": [
+        {
+          "term": "変身",
+          "count": 2441
+        },
+        {
+          "term": "魔法",
+          "count": 548
+        },
+        {
+          "term": "人格転移",
+          "count": 316
+        },
+        {
+          "term": "テクノロジー",
+          "count": 316
+        },
+        {
+          "term": "神秘",
+          "count": 311
+        },
+        {
+          "term": "アイテム",
+          "count": 154
+        },
+        {
+          "term": "薬品",
+          "count": 118
+        },
+        {
+          "term": "医術",
+          "count": 116
+        },
+        {
+          "term": "超科学",
+          "count": 114
+        },
+        {
+          "term": "可逆",
+          "count": 106
+        },
+        {
+          "term": "入れ替わり",
+          "count": 103
+        },
+        {
+          "term": "転生",
+          "count": 76
+        },
+        {
+          "term": "憑依",
+          "count": 64
+        },
+        {
+          "term": "コピー",
+          "count": 59
+        },
+        {
+          "term": "女装",
+          "count": 58
+        },
+        {
+          "term": "魔力",
+          "count": 56
+        },
+        {
+          "term": "精神同居",
+          "count": 35
+        },
+        {
+          "term": "仮性半陰陽",
+          "count": 35
+        },
+        {
+          "term": "男女両性具有",
+          "count": 32
+        },
+        {
+          "term": "魔法？",
+          "count": 28
+        },
+        {
+          "term": "変身？",
+          "count": 26
+        },
+        {
+          "term": "呪い",
+          "count": 25
+        },
+        {
+          "term": "脳移植",
+          "count": 23
+        },
+        {
+          "term": "病気",
+          "count": 22
+        },
+        {
+          "term": "分類不能",
+          "count": 21
+        },
+        {
+          "term": "性別変更（男から女）",
+          "count": 18
+        },
+        {
+          "term": "忍術",
+          "count": 14
+        },
+        {
+          "term": "パラレルワールド？",
+          "count": 14
+        },
+        {
+          "term": "ヤオイ",
+          "count": 13
+        },
+        {
+          "term": "半陰陽",
+          "count": 12
+        },
+        {
+          "term": "強制",
+          "count": 12
+        },
+        {
+          "term": "不可逆",
+          "count": 12
+        },
+        {
+          "term": "仮想現実",
+          "count": 10
+        },
+        {
+          "term": "性転換手術",
+          "count": 10
+        },
+        {
+          "term": "手術",
+          "count": 10
+        },
+        {
+          "term": "人体交換",
+          "count": 9
+        },
+        {
+          "term": "可変",
+          "count": 9
+        },
+        {
+          "term": "神力",
+          "count": 9
+        },
+        {
+          "term": "夢",
+          "count": 9
+        },
+        {
+          "term": "人格交換",
+          "count": 8
+        },
+        {
+          "term": "ナノテク",
+          "count": 8
+        },
+        {
+          "term": "ハンター",
+          "count": 8
+        },
+        {
+          "term": "人格転移？",
+          "count": 8
+        },
+        {
+          "term": "かぶり物",
+          "count": 7
+        },
+        {
+          "term": "華代ちゃん",
+          "count": 7
+        },
+        {
+          "term": "可逆？",
+          "count": 6
+        },
+        {
+          "term": "性転換",
+          "count": 6
+        },
+        {
+          "term": "薬",
+          "count": 5
+        },
+        {
+          "term": "魔術",
+          "count": 5
+        },
+        {
+          "term": "特異体質",
+          "count": 5
+        }
+      ],
+      "keywords_top": [
+        {
+          "term": "オレっ娘",
+          "count": 470
+        },
+        {
+          "term": "強制",
+          "count": 469
+        },
+        {
+          "term": "ボクっ娘",
+          "count": 326
+        },
+        {
+          "term": "華代ちゃん",
+          "count": 212
+        },
+        {
+          "term": "異形",
+          "count": 212
+        },
+        {
+          "term": "年齢変化",
+          "count": 161
+        },
+        {
+          "term": "特撮",
+          "count": 143
+        },
+        {
+          "term": "親友萌え",
+          "count": 140
+        },
+        {
+          "term": "女性人格化",
+          "count": 134
+        },
+        {
+          "term": "魔法少女",
+          "count": 127
+        },
+        {
+          "term": "マッドサイエンティスト",
+          "count": 102
+        },
+        {
+          "term": "メカ",
+          "count": 101
+        },
+        {
+          "term": "コスプレ",
+          "count": 92
+        },
+        {
+          "term": "年齢退行",
+          "count": 88
+        },
+        {
+          "term": "ダーク",
+          "count": 87
+        },
+        {
+          "term": "鏡",
+          "count": 85
+        },
+        {
+          "term": "アニメ",
+          "count": 81
+        },
+        {
+          "term": "女装",
+          "count": 76
+        },
+        {
+          "term": "姫神奇譚",
+          "count": 72
+        },
+        {
+          "term": "百合",
+          "count": 59
+        },
+        {
+          "term": "着せ替え",
+          "count": 55
+        },
+        {
+          "term": "♀→♂",
+          "count": 52
+        },
+        {
+          "term": "美少年",
+          "count": 52
+        },
+        {
+          "term": "メイド",
+          "count": 49
+        },
+        {
+          "term": "入浴",
+          "count": 47
+        },
+        {
+          "term": "リリカル",
+          "count": 42
+        },
+        {
+          "term": "アイドル",
+          "count": 40
+        },
+        {
+          "term": "アイテム",
+          "count": 40
+        },
+        {
+          "term": "水着",
+          "count": 37
+        },
+        {
+          "term": "天才女優",
+          "count": 32
+        },
+        {
+          "term": "陰陽師",
+          "count": 32
+        },
+        {
+          "term": "理解ある女友達",
+          "count": 31
+        },
+        {
+          "term": "「華代ちゃん」",
+          "count": 30
+        },
+        {
+          "term": "指輪",
+          "count": 30
+        },
+        {
+          "term": "レンタルボディ",
+          "count": 29
+        },
+        {
+          "term": "巫女",
+          "count": 27
+        },
+        {
+          "term": "ガンプラ",
+          "count": 25
+        },
+        {
+          "term": "空中元素固定装置",
+          "count": 24
+        },
+        {
+          "term": "洗脳",
+          "count": 24
+        },
+        {
+          "term": "華代ちゃん番外編",
+          "count": 22
+        },
+        {
+          "term": "フォスター",
+          "count": 19
+        },
+        {
+          "term": "メガネっ娘",
+          "count": 19
+        },
+        {
+          "term": "ナース",
+          "count": 19
+        },
+        {
+          "term": "幼い少女",
+          "count": 18
+        },
+        {
+          "term": "ダーティーエンジェル",
+          "count": 18
+        },
+        {
+          "term": "精神改変",
+          "count": 18
+        },
+        {
+          "term": "ロボット",
+          "count": 17
+        },
+        {
+          "term": "理解ある姉妹／女友達",
+          "count": 17
+        },
+        {
+          "term": "仕事人",
+          "count": 17
+        },
+        {
+          "term": "ショッピング",
+          "count": 16
+        }
+      ],
+      "vocab_assessment": "【判定】3フィールドとも技術的には自由記述(選択式UIの痕跡なし)だが、閉鎖度は明確に異なる。■ジャンル=「慣習的に半閉鎖」: 異なり249語・延べ6,545トークン、上位10語で70.3%・上位30語で90.5%を被覆。実質コア語彙は約20〜30語(学園/コメディ/現代/ファンタジー/SF/アクション/恋愛/青春/不思議/伝奇/不条理/ショートショート等)。ただし「？」付きヘッジ(学園？/コメディ？等22組)、括弧注釈(伝奇（？）)、合成語(アクションコメディ)、一回限りの冗談語(hapax 125語=50.2%、例「世界観ぶち壊しネタ」「（戦記はおあずけ？）」)が混在し、機械的な選択式ではなく作者の自由入力が慣習に従っていた形。■種別=同じく半閉鎖でジャンルより収束が強い: 異なり189語・延べ5,668、上位10語で80.1%・上位30語で93.0%。「変身」だけで延べの43%(2,441)。TS変化の手段/性質を表す軸(変身・人格転移・入れ替わり・憑依・転生・可逆/不可逆等)で、コアは約25語。hapaxには「捕食（丸呑み）」「アイテム（オレンジジュース）」等の注釈付き自由記述。■キーワード=完全な自由記述(タグ): 異なり1,092語・延べ6,495、hapax 655語(60.0%)、上位10語でも36.9%しか被覆せず。固有シリーズ名(華代ちゃん/姫神奇譚/フォスター)、一文ネタ(「建築物の名前に共通点を見つけた方は…」)まで何でも入る。■表記揺れ: (1)全角/半角: SF(417)/ＳＦ(30)、二次創作(72)/２次創作(9)、理解ある姉妹／女友達(17)/理解ある姉妹/女友達(5)、現代？/現代?、１９７０年代/1970年代、ＴＳ熱/TS熱等。(2)？サフィックス揺れ: ジャンル22組・種別15組・キーワード31組(学園？20 vs 学園918等)。(3)類義・異表記: ミステリー35/ミステリ22、ショートショート169/SS19、コメディ754/コメディー5/ギャグ16、学園918/学園物13、時代・歴史10/時代9/歴史8; 種別では人格転移316/入れ替わり103/人体交換9/人格交換8、魔法548/魔術5/魔力56、薬品118/薬5、性転換手術10/手術10/性転換6、医術116/医療3; キーワードではオレっ娘470/おれっ娘7/俺っ娘1、ボクっ娘326/ボクっ子3/僕っ娘1、華代ちゃん212/「華代ちゃん」30/華代ちゃん番外編22、入浴47/お風呂7。■WordPress設計への示唆: ジャンル→正規化マップ(？除去+NFKC+類義統合)を通した約30語のフラットまたは階層タクソノミー、種別→約25語の統制タクソノミー(可逆/不可逆・強制は独立軸として分離検討)、キーワード→標準のpost_tagにそのまま投入(正規化は表記揺れのみ)、が適切。",
+      "stats": "{\n  \"files_total_lib_glob\": 138,\n  \"files_with_labels\": 103,\n  \"field_occurrences\": {\"genre\": 3919, \"type\": 3919, \"keyword\": 3918, \"zokusei\": 192},\n  \"distinct_terms\": {\"genre\": 249, \"type\": 189, \"keyword\": 1092, \"zokusei\": 17},\n  \"total_tokens\": {\"genre\": 6545, \"type\": 5668, \"keyword\": 6495, \"zokusei\": 69},\n  \"hapax\": {\"genre\": \"125 (50.2%)\", \"type\": \"90 (47.6%)\", \"keyword\": \"655 (60.0%)\"},\n  \"coverage_top10_top30_pct\": {\"genre\": [70.3, 90.5], \"type\": [80.1, 93.0], \"keyword\": [36.9, 56.7]},\n  \"encoding\": \"全138ファイルUTF-8デコード成功、問題なし\",\n  \"duplication_caveat\": \"分類ブロック延べ3,918のうち約30.6%(1,199)は再掲(ルートのlibNN.htmlと~yays/library/のスナップショット、旧libNN/新libNのページ群が部分重複)。作品リンク+3値でdedupすると2,719ユニークエントリ。dedup後も上位語の順位はほぼ不変(1-2位のコメディ/学園が入れ替わる程度)で、閉鎖性の結論に影響なし。上記の頻度は指示どおり全数(延べ)ベース。\",\n  \"extra_field\": \"第4のラベル【属性】が後期エントリに存在(出現192、うち値ありは僅か、延べ69トークン・17種)。内容はコスチューム系: メイド10/ナース8/ウェディングドレス8/百合6/オレっ娘5/バレリーナ4/バニー4等。キーワード語彙と重複するためWordPressではタグへ統合が妥当。他の【…】ラベル(あらすじ/コメント/推薦文/オススメ作品)は散文でありタクソノミー対象外。\"\n}",
+      "artifacts": "{\n  \"extraction_script\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/extract_taxonomy.py\",\n  \"full_report\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/taxonomy_report.txt\",\n  \"dedup_analysis\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/dedup_check.py\"\n}"
+    },
+    "authors": {
+      "author_count": 399,
+      "kansou_logs": 294,
+      "top_authors": [
+        {
+          "rank": 1,
+          "name": "ライターマン",
+          "works": 114,
+          "kansou_slug": "writerman"
+        },
+        {
+          "rank": 2,
+          "name": "城弾",
+          "works": 91,
+          "kansou_slug": "johdan"
+        },
+        {
+          "rank": 3,
+          "name": "真城 悠",
+          "works": 83,
+          "kansou_slug": "mashiro_yuu"
+        },
+        {
+          "rank": 4,
+          "name": "夜夢",
+          "works": 65,
+          "kansou_slug": "yamu"
+        },
+        {
+          "rank": 5,
+          "name": "バレット",
+          "works": 52,
+          "kansou_slug": "baretto"
+        },
+        {
+          "rank": 6,
+          "name": "堀井 忍",
+          "works": 52,
+          "kansou_slug": "horii_sinobu"
+        },
+        {
+          "rank": 7,
+          "name": "Taika Yamani.",
+          "works": 47,
+          "kansou_slug": "taika"
+        },
+        {
+          "rank": 8,
+          "name": "大原野山城守武里",
+          "works": 40,
+          "kansou_slug": "ohharano"
+        },
+        {
+          "rank": 9,
+          "name": "龍酒",
+          "works": 37,
+          "kansou_slug": "ryuhju"
+        },
+        {
+          "rank": 10,
+          "name": "DEKOI",
+          "works": 36,
+          "kansou_slug": "dekoi"
+        },
+        {
+          "rank": 11,
+          "name": "神川綾乃",
+          "works": 35,
+          "kansou_slug": "kamikawa_ayano"
+        },
+        {
+          "rank": 12,
+          "name": "ｔｏｓｈｉ９",
+          "works": 34,
+          "kansou_slug": "toshi9"
+        },
+        {
+          "rank": 13,
+          "name": "おもちばこ",
+          "works": 32,
+          "kansou_slug": "omochibako"
+        },
+        {
+          "rank": 14,
+          "name": "雅良生",
+          "works": 32,
+          "kansou_slug": "garyosei"
+        },
+        {
+          "rank": 15,
+          "name": "亜希みちる",
+          "works": 32,
+          "kansou_slug": "aki_michiru (シリーズ板 himekami にも23作)"
+        },
+        {
+          "rank": 16,
+          "name": "驟雨",
+          "works": 31,
+          "kansou_slug": "sakuhin_no115"
+        },
+        {
+          "rank": 17,
+          "name": "ゆあさのみき",
+          "works": 31,
+          "kansou_slug": "yuasano_miki"
+        },
+        {
+          "rank": 18,
+          "name": "奄美平次",
+          "works": 30,
+          "kansou_slug": "amami"
+        },
+        {
+          "rank": 19,
+          "name": "いちろう",
+          "works": 30,
+          "kansou_slug": "ichirou"
+        },
+        {
+          "rank": 20,
+          "name": "きりか進ノ介",
+          "works": 29,
+          "kansou_slug": "kirika"
+        },
+        {
+          "rank": 21,
+          "name": "足利良忠",
+          "works": 29,
+          "kansou_slug": "ashikaga"
+        },
+        {
+          "rank": 22,
+          "name": "ＭＯＮＤＯ",
+          "works": 28,
+          "kansou_slug": "mondo (表記ゆれ MONDO +6作)"
+        },
+        {
+          "rank": 23,
+          "name": "矢治浩平",
+          "works": 28,
+          "kansou_slug": "yaji"
+        },
+        {
+          "rank": 24,
+          "name": "水谷秋夫",
+          "works": 27,
+          "kansou_slug": "mizutani_akio"
+        },
+        {
+          "rank": 25,
+          "name": "こうけい",
+          "works": 26,
+          "kansou_slug": "koukei"
+        },
+        {
+          "rank": 26,
+          "name": "kagerou6",
+          "works": 26,
+          "kansou_slug": "kagerou6"
+        },
+        {
+          "rank": 27,
+          "name": "かわねぎ",
+          "works": 26,
+          "kansou_slug": "kawanegi"
+        },
+        {
+          "rank": 28,
+          "name": "山口多聞",
+          "works": 25,
+          "kansou_slug": "yamaguti_oomi"
+        },
+        {
+          "rank": 29,
+          "name": "石積ナラ",
+          "works": 24,
+          "kansou_slug": "baretto (=バレットと同一板、名義計76作)"
+        },
+        {
+          "rank": 30,
+          "name": "天爛",
+          "works": 24,
+          "kansou_slug": "shining_heaven"
+        }
+      ],
+      "homepage_patterns": [
+        {
+          "category": "geocities (co.jp / jp / yahoo)",
+          "distinct_urls": 28,
+          "note": "2019年閉鎖"
+        },
+        {
+          "category": "infoseek/isweb",
+          "distinct_urls": 16,
+          "note": "2010年閉鎖"
+        },
+        {
+          "category": "biglobe",
+          "distinct_urls": 10
+        },
+        {
+          "category": "nifty (homepage*.nifty.com / *.nifty.ne.jp)",
+          "distinct_urls": 9,
+          "note": "@homepage 2016年終了"
+        },
+        {
+          "category": "fc2",
+          "distinct_urls": 7
+        },
+        {
+          "category": "ocn (Page ON)",
+          "distinct_urls": 6
+        },
+        {
+          "category": "サイト内相対/姉妹ドメイン (kirika.novels.name/cafe 等)",
+          "distinct_urls": 6
+        },
+        {
+          "category": "odn",
+          "distinct_urls": 5
+        },
+        {
+          "category": "plala",
+          "distinct_urls": 4
+        },
+        {
+          "category": "ブログ (goo/livedoor/drecom/webry)",
+          "distinct_urls": 4
+        },
+        {
+          "category": "dion",
+          "distinct_urls": 3
+        },
+        {
+          "category": "tripod",
+          "distinct_urls": 3
+        },
+        {
+          "category": "coara.or.jp",
+          "distinct_urls": 3
+        },
+        {
+          "category": "cool.ne.jp (kobe/fukuoka/shizuoka)",
+          "distinct_urls": 3
+        },
+        {
+          "category": "sannet",
+          "distinct_urls": 2
+        },
+        {
+          "category": "so-net",
+          "distinct_urls": 2
+        },
+        {
+          "category": "freeweb/hoops",
+          "distinct_urls": 2
+        },
+        {
+          "category": "twitter.com",
+          "distinct_urls": 2
+        },
+        {
+          "category": "独自ドメイン・その他個人ホスト (kayochan.com, himurock.com, aetherworks.*, novel.ac, dti.ne.jp, tok2.com, atwiki 等)",
+          "distinct_urls": 55,
+          "note": "1件ずつの多様な個人サイト群"
+        }
+      ],
+      "pii_note": "mailto: リンクは目録の作者名セル内に多数残存。正規目録 lib1–73 で出現 1,736 回、重複除去で 268 件の個別メールアドレス(全 lib*.html 横断では約 270 件)。1997–2014 年当時の個人アドレス(nifty 等)であり、公開ミラー/WordPress 化の際は mailto を全面的に除去または難読化し、作者連絡は感想板 slug ベースの導線に置き換えるのが妥当。本報告ではアドレス自体は一切記載せず件数のみ。",
+      "total_works": "2887",
+      "sources": "{\"canonical_catalog\": \"リポジトリ直下 lib1.html〜lib73.html (MANAGE2.CGI 生成テーブル、1997/11/4〜2014/3/8 を全カバー。全2,887作品にタイトル/作者/画/日付/サイズ/感想リンクの6セル)\", \"author_index\": \"lib-index-{aa,ka,sa,ta,na,ha,ma,ya,ra,wa,en,etc,1-4}.html = 作者名50音索引 (2,796行・正規化後389名。'(homepage)'サフィックス除去後は正規目録399名の真部分集合 — 索引がやや古く新着10名分未反映)\", \"legacy_duplicates\": \"lib01–09.html (1997.11–1998.4 の旧形式 107エントリ/45名、『作・NAME』表記) と ~yays/library/*.html (旧ホストのスナップショット) は lib1–73 に内容が包含される重複 — 頻度集計から除外済み (lib73 が1997/11/4まで遡ることを確認)\"}",
+      "kansou_breakdown": "{\"bbs_log_files_total\": 294, \"author_series_boards\": 289, \"special_files\": \"bbs@log_.cgi(=感想ボード一覧インデックス、289板のslug→板タイトルの権威マッピングを内包) + 時系列ビュー4本 (_time_1/_time_3/_time_7/_amp_time_7)\", \"catalog_referenced_slugs\": 305, \"matched_with_files\": 272, \"referenced_but_file_missing\": [\"2daime\", \"427\", \"gomagira\", \"gsdm150\", \"hakuri\", \"hiddenseek\", \"hide109\", \"hotaru\", \"isuke\", \"izumiya\", \"kamonanban\", \"kazaguruma\", \"koro\", \"kurogane\", \"namakemono\", \"nekome\", \"niwatatami\", \"rasetsu\", \"rizu\", \"sakiemon\", \"salaryman\", \"saya\", \"soraouka\", \"sts\", \"sussu\", \"tacchan\", \"tekoiruka\", \"u_t_lenge\", \"utanotsuki\", \"yukimatiduki\", \"yuu\", \"yuuma\", \"zock\"], \"referenced_but_missing_count\": 33, \"in_board_index_but_file_lost\": [\"fuu\", \"gomagira\", \"hiddenseek\", \"hide109\", \"isuke\", \"izumiya\", \"kazaguruma\", \"kurogane\", \"rasetsu\", \"rizu\", \"sts\", \"voice\", \"yamadatennju\", \"yuu\"], \"files_not_referenced_from_catalog\": [\"hiku\", \"jiten\", \"k_kadd\", \"karaage\", \"kazematuri_rei\", \"kitou_rei\", \"konoichiba\", \"macfist\", \"memuro_makoto\", \"nanagiri_res_200206064181320\", \"nishi_satoru\", \"satoh_yui\", \"shinkyou\", \"you_\", \"yui\", \"kayo_chan_hunternumber\", \"kaze\"], \"notes\": \"全2,887作品に感想リンクあり(欠落0)。未参照ファイル17本は旧綴り/改名の残骸 (kazematuri_rei↔kazamaturi_rei, k_kadd↔kardy 等)。シリーズ共有板が7つ存在し作者板ではない: kayo_chan(華代ちゃんシリーズ・寄稿者70名超), himekami(姫神奇譚), foster(次元管理人フォスター), relay_novel(リレー小説), delayed(仮面ライターディレイド), 2daime, utanotsuki\"}",
+      "identity_notes": "{\"raw_name_strings\": 399, \"own_board_identities\": 297, \"authors_only_on_shared_series_boards\": 31, \"name_variants_via_shared_slug\": \"同一感想板slugを共有する表記ゆれ48組 — WordPress作者アーカイブはslugをキーに統合するのが最適。例: バレット/石積ナラ=baretto(計76作), ＫＥＢＯ/KEBO/けぼ=kebo(計48作), ＭＯＮＤＯ/MONDO=mondo, 大原野山城守武里/池田中務少輔輝里=ohharano, NATO/ＮＡＴＯ(旧まなちゃん)=manachan, ７Ｃｙ, AZY/ＹＺＡ=azy\", \"recommendation\": \"感想板slug(289板)がそのままWPの author slug / 作者アーカイブURLの理想的なキー。共有シリーズ板7つはカテゴリ/シリーズtaxonomyへ、slugなし33作者分は名前からローマ字slugを新規採番\"}",
+      "homepage_stats": "{\"authors_with_homepage\": 133, \"distinct_urls\": 175}",
+      "data_files": "{\"script\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/author_inventory.py\", \"full_inventory_json\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/inventory.json (全399名の頻度、作者→slug対応、複数板/共有板の全リスト)\", \"board_index_json\": \"/tmp/claude-1000/-home-takano32-GitHub-ts-novels/9875998b-bd34-4f69-aae3-1a7a76884c0b/scratchpad/board_index.json (289板の slug→板タイトル権威マッピング、出典 /home/takano32/GitHub/ts-novels/~ts/kansou/bbs@log_.cgi)\"}"
+    },
+    "community": {
+      "kansou": "~ts/kansou/ = 作品感想板 (MiniBBS v10 / Crocus v2.42、UTF-8変換済み)。計3,161ファイル: bbs@log_*.cgi 294本 (クエリ変種除く実質290板)、bbs@res_*.cgi 2,866本、bbs.cgi。板は「作者単位」(例: bbs@log_rurita.cgi =「流離太さん作品 感想掲示板」、<title>に作者名)。投稿ありの板219、空板(「記事はありません.」)75。log内に見える投稿は計1,730件(各板最新100件保持のため)だが、res_*.cgi のファイル名タイムスタンプで数えるとユニーク投稿2,866件 — resページは別時点のクロールで古い投稿も含むため、log+resの和集合をタイムスタンプIDで重複排除すれば2,866件超の投稿が復元可能。期間2002/06〜2013/04。構造は完全に定型: 「[番号]」+件名(font size=4 color=#40c0c0)、「▽ YYYY/MM/DD (曜) HH:MM:SS ▽ 投稿者名」(任意でmailto/URLリンク)、本文(cellpadding=16のtable内 font color=#606060)、返信リンクが res ファイル名(=親投稿ID)。投稿者/日付/件名/本文/メール/URLすべて正規表現で抽出可能 — 構造化パース可能性は高い。ただし板→作品の対応はなく板→作者のみ。作者スラッグ→作者名は各logの<title>、作者→蔵書はlib*.html(74ページが306個のkansou URLを参照)から復元できる。",
+      "bbs": "~ts/bbs/ = MiniBBS 3板: index@log_data1「少年少女文庫の運営について語る会」/ data2「初心者ONLYページ」/ data4「作品紹介掲示板」+ res 489本 (ユニーク投稿489件、2002〜2006年)。kansouと同一スクリプト・同一定型でパース可能だが、内容は運営雑談・自己紹介・作品紹介であり作品コメントではない。~ts/bbs/2ndbbs/ = 「第二掲示板・ストーリー道場」(計288ファイル、うち作品ページ267本 bbs@action_html2_key_YYYYMMDDHHMMSS.cgi)。各ページは投稿作品そのもの(タイトル class=d5、作者、本文、公開日時、著作権表示)+同一ページ内に読者感想が <tr id=tr3> 行(本文/mailto付き投稿者/■YYYY-MM-DD HH:MM:SS)で埋め込み。実感想エントリ1,509件(212ページに存在、2003〜2010年)。ただし2006年以降の英語カジノ/薬物スパムが混入(最大ファイルはほぼスパム、少なくとも13ページ濃厚汚染)。ts.raa0121.info/2ndbbs/ は同スクリプトの2015年世代66ファイル。~yays/cgi-bin/ 側: resbbs4a=雑談BBS(vewスレッド約1,570本+out@*.png 62枚、2001年頃、題名/投稿者/メール/日付/HP/本文+「いま気になる〜」欄で定型パース可)、paintbbs=お絵かき掲示板(217ファイル+data/画像163枚、ページ参照139枚は概ね現存)、paintbbs2(65ファイル+画像59枚)、relaybbs=桃色リレー小説ボード(3ファイル、テスト投稿のみ→無視可)、anthologys=2ndbbsと同形式のアンソロジー作品15本(2001年)、newinfo=TS関連新作情報DB 237件(作品タイトル/作者/発売日/概要のtable+登録日時で完全構造化)、resbbs2=2ファイルのみ(実質空)。",
+      "rounge": "ts.novels.name/rounge/ = 「クリエイターズ・フロア(仮)」(Web Patio系 light.cgi)。計388ファイル: スレッド light@res_N.cgi 334本(スレ番号1〜436、ページ light@pg_* 10本、captcha残骸37本、他)。構造は <div class=\"art\"> ブロックに [番号]+件名 / 投稿者：名前(mailto任意) / 投稿日：YYYY/MM/DD(曜) HH:MM / <div class=\"com\">本文 と綺麗でパース自体は容易。しかし内容は334スレ中314本(94%)がスパム(英語ランダム名+文字化け「英数字」件名のURL撒きと偽ブランドコピー宣伝、2019〜2022年)。実コミュニティ投稿はスレ1,12,13,14等の挨拶〜20本程度のみ。スパム投稿は投稿時の文字コード不整合で本文が恒久的に文字化けしており復元価値なし。WP移行では原則除外(必要なら実スレ約20本のみ手動選別して静的アーカイブ)を推奨。",
+      "noteky": "notekyは2インスタンスあり中身の重複ゼロ。(1) ~ezpe/cgi-bin/noteky/ = 「私のオススメ」推薦ノート。1,522ファイル、フォーラム13個(オススメ小説/少年・少女・青年・成年コミック/ゲーム/アニメ/映像作品/その他/雑談ボード/オンライン作品#1〜#3)、ユニークノート(スレッド)452本(1998年〜)。同一ノートに ff_on / ff_p / ca_r 等の表示変種が複数あるため id での正規化(ff_on優先)が必要。構造は BASE NOTE + APPEND n の繰り返しで、各エントリ=投稿者(任意でURL/mailtoリンク)+ <i>YYYY/MM/DD HH:MM:SS</i> + 本文(tr bgcolor=#CCFFFF)と定型でパース可能。内容は市販作品・他サイト作品の推薦・雑談で、文庫収録作への感想ではない。(2) ~yays/cgi-bin/noteky/ = 「感想ボード」。1,305ファイル(うち10本はBiG-NETの500エラー捕獲ページ、f_0のnoteidxも欠損)、フォーラム2個: f_0「文庫作品感想(2001.10.1-)」63ノート + f_1「井戸端フォーラム」13ノート。f_0のノートは作品単位(「神 -God-」「状体変化」「プリンセスライダー」「ラスカル☆ミーナ感想掲示板」等)と作者単位(「○○さん作品 感想掲示板」)の混在+スパム2〜3本。エントリ構造は(1)と同一でパース可能。こちらは2001〜2002年世代の作品感想の実体。",
+      "importability": "「感想をWPコメントとして作品に紐付ける」実現性の評価: ◎最有力=2ndbbs(267作品ページに感想1,509件が同一ページ埋め込み → 作品を投稿としてインポートすればpost_id対応が自明。tr id=tr3行のパースは容易。要スパムフィルタ)と ~yays noteky f_0(ノート題名=作品名/作者名 → 該当作品・作者へのコメント化が題名マッチで可能、構造パースは容易)。○条件付き=~ts/kansou 2,866件(構造化パースは確実に可能だが板が作者単位のため、紐付け先は「作者ページ/作者別感想投稿」が自然。作品単位への振り分けは件名・本文中の作品名マッチによるヒューリスティックのみで、返信ツリー(Re:)の階層はWPコメントのparent機能で再現可能)。△アーカイブ向き=~ts/bbs 3板・resbbs4a・ezpe noteky(コミュニティ雑談であり作品コメントではない → 静的アーカイブまたはbbPress的インポート)、paintbbs(画像+投稿としてギャラリー化可)、newinfo(構造化DBなのでカスタム投稿化は容易だが感想ではない)。×除外推奨=rounge(94%スパム)、relaybbs/resbbs2(実質空)。共通の技術的注意: サンプル確認した全ファイルはUTF-8変換済みで文字コード問題なし(roungeスパムの化けは原本由来)、kansouのlog/res間・notekyの表示変種間の重複排除が必須、~yays/library/comittee/ は /comittee/ と同一21ファイル。日付・投稿者・本文はいずれの掲示板系でも機械抽出可能で、WXR(WordPress eXtended RSS)生成によるコメント一括インポートは技術的に現実的。",
+      "notes": "運営コンテンツ: /comittee/ = 「編集\"好\"記」静的HTML 21ファイル(コラムno1〜8、ログlog1〜5、編集委員プロフィールprofile1〜5、column、title、計48KB。~yays/library/comittee/ に同一ミラー)。/columns/ = 2ファイル(巻頭言 2001_0617)。/dialy/ = 1ファイル「Webサイト構築日記」(管理人のサーバ構築日記12KB)。いずれも純静的な記事HTMLでWP固定ページ/投稿への変換は自明。"
+    },
+    "generations": {
+      "generation_stats": "総計17,215コンテンツファイル(.git/scripts/.github/README/collinfo.json除く、リポジトリ計17,233)。世代別: 【第0世代 ~ezpe (1999 tomato期)】1,562 — 静的サイト(yasai/)はわずか8ページ(girlise.html, nyotai.html等の原型)、残り1,553はcgi-bin(noteky感想ノート・resbbs2/4・topics)。注意: ~ezpe/cgi-bin/notekyは後続全世代のnovelページから感想フォーム送信先として参照され続けた越世代インフラ。【第1世代 ~yays (八重洲メディアリサーチ期)】5,469 — library/ 1,598(うちnovel/ 1,466、トップhtml 47)、cgi-bin/ 3,505(noteky 1,307・resbbs4a 1,635・paintbbs+paintbbs2 282・newinfo 237)、gallery/ 313、reviews/ 12、トップ約41。【第2世代 リポジトリ直下 (ts.novels.jp本体 2002-2021)】5,283 — novel/ 5,017(月別105ディレクトリ200008〜201403+作品別176エントリ)、トップhtml 126(lib-index群・lib01〜等117)、special/ 61(03summerアンソロジー等)、cgi-bin/ 49(kansou.cgi・manage2検索ビュー)、comittee/ 21、icons/ 5他。本体期の交流層として ~ts/ 4,008(kansou=Crocus BBS 3,161・bbs=クリエーターズ・フロア 823・link 20)、~bbs/ 15(yajibbs)、~yaji/ 285(スタッフ個人サイト)、www2.sts.co.jp/ 5。【第3世代 閉鎖後姉妹】ts.novels.name 389(「少年少女文庫別室」roungeのBBS、大半はcaptcha変種CGI)、kirika.novels.name 123(cafe BBS+wiki 107)、ts.raa0121.info 69(2ndbbs)、www.novels.name 1(tsh2)。全て交流層でライブラリ本体は持たない。【第4世代 ts-novels.jp (2018再建)】6ファイルのみ(index.html・library.html・search.html・search@ran・css/main.css・counter CGI)=骨格のみ。CGI/BBS/感想アーカイブは全世代合算で約9,700ファイル、リポジトリの56%を占める。",
+      "duplication": "~yays/library/novel/(1,466ファイル)対 novel/(5,017ファイル): 同一basename 1,439(ユニークbasename 1,347)、同一相対パス 1,399=~yays側の95.4%。バイト一致は322に留まるが、差分をサンプル検査(150件+個別精査)した結果、相違はほぼ全て時代チューム: (1)charset metaの書式(<meta charset=\"utf-8\"> vs http-equiv)、(2)感想フッター — ~yays期はLibraFormTemplateフォームを埋め込み~ezpe/cgi-bin/noteky宛に送信、直下期はcgi-bin/kansou.cgiへのリンク1行、(3)リンク相対深度(../../../../../~ezpe/ vs ../../../~ezpe/ — 設置階層の差)、(4)cp932→UTF-8変換の揺れ(～U+FF5E/〜U+301C、－/−)。検査した全サンプルで小説本文テキストは同一。~yays側のみの67ファイルはindex@{D,M,N,S}_{A,D}.html形式のCGIソートビュー(作品ディレクトリの並べ替え表示)。トップページ層も同様: ~yays/library/の47 htmlは全て直下に同名が存在(直下は117 htmlでlib-index-a/ka/sa等の分割が追加)。結論: ~yays/library/は直下novel/の完全な祖先スナップショット(200008〜200205)であり、novel本文としての固有情報はほぼゼロ。直下novel/のみに存在するのは3,618ファイル(200206以降の83ヶ月分+追加作品)。",
+      "unique_per_gen": "【~ezpe】yasai/の静的8ページ(1999年の原型サイト、girlise/nyotai/archives等)と、noteky感想ログ約1,300件(全世代の読者反応の一次史料)。【~yays】gallery/ 313(CGアルバム: jpg 123・gif 34・lzh 3、art01〜19+のCG頁とalbumbbs)は他世代に一切存在しない完全世代固有。加えてpaintbbs/paintbbs2(お絵かきBBS 282)、reviews/ 12、anthologys、そして重複novelツリーの「2002年当時の感想フォーム付きの姿」という史料性。【直下】novel/の200206〜201403分と追加作品(3,618ファイル、全体の72%が直下のみ)、special/03summer、columns、dialy、lib-index分割群、manage2検索結果ビュー。【~ts】Crocus BBS(感想)3,161+クリエーターズ・フロア823=本体期コミュニティの記録。【姉妹ドメイン】rounge/cafe/2ndbbs/wiki(107)=閉鎖後(2011以降)コミュニティの記録。wikiのみ半コンテンツ性あり。【ts-novels.jp】再建の骨格のみで固有コンテンツ実質なし(再建という事実自体が史料)。",
+      "boundary_proposal": "境界の原則:「作品本文は正規化してWPへ(1作品1URL)、文脈・交流・時代の姿は静的のまま凍結」。【ライブラリ本体(WP化)】直下世代のみ: novel/ 5,017を正規ソースとする(~yays/library/novelは95%が同文の祖先なので取り込まない)。WPモデル: 月別ディレクトリ(200008〜201403)→投稿日、作品別ディレクトリ(176)→連載シリーズ、lib-index-*/genre/keyword/bunruiの索引情報→作者・ジャンル・キーワードのタクソノミ、special/のアンソロジー→固定ページまたは特集カテゴリ。novel内の感想リンク(kansou.cgi/notekyへのフォーム)はWPコメント機能に置換し、旧感想へは静的アネックスへのリンクで参照。【史料アネックス(静的凍結)】それ以外全部、4区画で提示: (1)世代の姿 — ~ezpe(1999)、~yays(2000-2002、galleryのCG 313とpaintbbs含む)、ts-novels.jp(2018再建)。~yays/library/は重複と知りつつ「2002年春の文庫のタイムカプセル」として丸ごと残し、各頁からWP正規版への注記のみ付す。(2)交流ログ — ~ezpe/cgi-bin/noteky・~yays/cgi-bin・~ts(Crocus BBS/クリエーターズ・フロア)・~bbs、計約9,100ファイル。CGI出力はWP移行不能かつ読者反応の一次史料なのでURL構造ごと凍結。(3)閉鎖後の記録 — ts.novels.name/kirika.novels.name/ts.raa0121.info/www.novels.name。(4)周辺 — ~yaji・www2.sts.co.jp。運用: WP作品ページから「初出時の姿(~yays版)」「当時の感想を読む」への深いリンクで往還させる。アネックス側は魚拓由来のリンク切れも含め無改変で保つ(改変した瞬間に史料価値が落ちる)。この境界だと WP化対象は約5,100ファイル(30%)、凍結が約12,100ファイル(70%)となり、変換コストと保存忠実性のバランスが最も良い。"
+    },
+    "contentFormat": {
+      "auto_extractable": "タイトル: 約98%自動抽出可。<title>タグは3,742/3,817で有効(空<title>は75件のみ)。空の場合も本文冒頭の中央寄せヘッダブロック(<H1>/<FONT size=\"+3〜+4\"><center>/Word出力のfont-size:36.0pt span)から取得可能。作者名: 約92%可 —「作：」リテラルが2,440件、「作 ：」「文　」「Ｂｙ：」「ＣＲＥＡＴＥＤ ＢＹ」等の変種込みで3,524件がパターンマッチ可能。本文境界: 約85-90%自動判定可。サイト共通テンプレが強固 — 冒頭「戻る」リンク(3,337件=87%)→<hr width=\"70%\">→タイトルブロック→<hr>→本文→末尾<hr>→「□　感想はこちらに　□」フッタ(kansou.cgi参照が2,776件=73%)→「戻る」。つまり「2番目の<hr>以降〜最後の<hr>より前」+ 前後の戻る/kansou行除去でほぼ機械抽出できる。残り10-15%は作者持ち込みの独自テンプレ(NDCSS系、vistia系など)だがパターン数は少なく、シリーズ単位で3-5個のルール追加で対応可能。除外すべき非本文ページ: Apacheディレクトリリスティングの魚拓7件、frameset 2件、キャラ設定/目次/あらすじページ(chara.htm, *_index.htm, 2nd_miyake_0.html等)は本文と混在しており、リンク構造かテーブル密度での分類が必要。",
+      "conversion_difficulty": "総合難易度: 中〜低。全3,817ファイルがiconv厳密検証でUTF-8合格済み(宣言なし57件・charset=UTF-87の誤記1件も実体はUTF-8)なのでエンコーディング作業はゼロ。約80%は「<BR>区切り+全角スペース字下げ」の定型で、<BR>で分割→空行でパラグラフ群化→core/paragraphへ機械変換できる。難所は5つ: (1)最大の罠 — 固定桁で物理改行された<BR>(magical_stick.html等は文中約38字で強制改行)。この<BR>は改行ではなく行折返しなので、「行末が句読点/」で終わらない∧次行が全角スペース/「で始まらない→結合」の再フロー処理が必須。(2)Word出力340件はp.MsoNormal+mso-*インラインstyleの除去が必要(テキスト自体は<p>単位で健全)。(3)<ruby>は193件で旧IE式(<ruby><rb>…<rp>（<rt>…)なので現行HTML5形式へ正規化。本文中の丸括弧ルビ「儚（はかな）げ」も多いが、こちらは触らない方が安全。(4)装飾テーブル(タイトル箱・扉文)とレイアウトテーブルの判別、＜＞＜＞連打や<hr>のシーン区切り→core/separatorへの写像。(5)インライン絵文字GIF(ase.gif 190件、ハート等)と挿絵(eyecatch.jpg 109件、title.jpg等)の扱い — 画像実体1,195個はHTML同階層に存在し相対参照は全て解決可能なので、メディアライブラリへ一括アップロード+URL書換で対応できる。script 122件は全てGeocitiesビーコン/広告/カウンタで無条件削除可。縦書き指定は実質ゼロ(1件のみ)、framesetも2件のみで、構造的な障害はない。",
+      "markup_patterns": [
+        "BR連打型(支配的): 全角スペース字下げ+行末<BR>。3,623/3,817ファイルが<br>多用。空<BR>行が段落区切り",
+        "BR物理折返し型(要注意サブタイプ): 固定桁数で文中強制改行(例: magical_stick.html)。<BR>が意味を持たない → 再フロー結合が必要",
+        "P段落型: 約688ファイルが<p>30個超。新しめの作品(vistia等)は<p>…<br>…</p>混合+class付きCSS",
+        "MS Word書き出し型(340件): p.MsoNormal + mso-char-indent + <span style='mso-bidi-font-size'>。style除去すれば健全な<p>構造",
+        "ジェネレータ: IBMホームページビルダー551件 / FrontPage 648件 / MS Word 340件 / Netscape 41件 / 残りは手書き。DOCTYPEはHTML 3.2〜4.01 Transitional、または無し",
+        "ルビ: <ruby><rb>漢字<rp>（<rt>よみ<rp>）</ruby>の旧IE形式が193件(188件に<rp>)。加えて地の文の丸括弧ルビが多数",
+        "装飾: body属性色指定(bgcolor=#EEEEEE text=#222222が標準テーマ、黒背景変種あり)、<font size/color>、<center>、align属性、<hr width='70%'>区切り(2,779件)、TABLEによるタイトル装飾箱、body background画像",
+        "ヘッダ定型: 「戻る」リンク(../library.html or ../../../index.html)→<hr 70%>→中央寄せタイトル(H1/font+4/36pt span)→「作：作者名」→<hr 70%>",
+        "フッタ定型: 本文終了→<hr 70%>→「□　感想はこちらに　□」(cgi-bin/kansou.cgi、2,776件=73%)→「戻る」。シリーズ物は次話への<a><img>矢印や自前indexへのリンク",
+        "挿絵/画像: <img>参照961件。内訳は絵文字GIF(ase/heart等)、扉絵eyecatch.jpg(109件)、タイトルロゴ、ナビ矢印画像、Apacheアイコン。実体1,195ファイルが同リポジトリ内に存在し相対参照で解決",
+        "縦書き指定: 実質なし(writing-mode言及1件のみ)",
+        "非本文の混入物: Apacheディレクトリリスティング魚拓7件、frameset 2件、目次/キャラ設定ページ、Geocitiesビーコン/広告script 122件(全削除可)"
+      ],
+      "structure": "2000年代個人サイト(少年少女文庫)のミラー。novel/直下に単発完結作品のフラットHTML、novel/YYYYMM/DDHHMMSS/(投稿タイムスタンプ)配下にシリーズ物という2層構成で計3,817ファイル。1ファイル=1話(または1短編)。文書はほぼ全て手書きかWYSIWYG生成(ホームページビルダー648+551件、Word書き出し340件)のHTML 3.2/4.01 Transitional時代の平文HTML。framesetは全体で2件のみ、CSSは最小限(bodyの行間指定程度、Word出力を除く)。サイト共通の投稿テンプレート(戻るリンク+hr 70%+中央タイトル+作：作者+hr、末尾に感想CGIリンク)が7〜9割に適用されており構造は極めて均質。全ファイルUTF-8変換済みを検証確認。少数の異物(Apacheリスティング魚拓、目次・設定資料ページ、作者持ち込み独自テンプレ)が本文と同階層に混在する。"
+    },
+    "rightsOps": {
+      "copyright": "【現状認識】各作品の著作権は原著者に帰属し、本ミラーには権利者の明示許諾がない。日本法にはフェアユースがなく「資料保存目的・非営利」は権利制限事由にならない(国会図書館等の例外は私人に不適用)ため、静的ミラーの時点で既に複製権・公衆送信権(送信可能化)に形式的には抵触しており、実態は「黙認+削除即応」で成立している運用である。【WP化で強まるリスク】WordPress 取込は (a) DB 再構成・テーマ適用・抜粋(excerpt)生成・タグ/カテゴリ付与により「機械的ミラー」から「編集・再公開」へ性格が変わり黙認を得にくくなる、(b) テーマによる再整形・レイアウト変更が同一性保持権(著作権法20条)に、表示形式次第で氏名表示権(19条)に触れやすくなる、(c) 検索性向上で権利者の目に触れる確率も上がる。【追加で配慮すべき点】1) 本文は再整形せず原本 HTML を極力そのまま表示(整形は最小限、原本へのリンク併記)、作者名・初出・出所(Wayback/魚拓/作者サイト回収の別)を全ページに明記。2) README が特定済みの連絡可能な存命作者(きりか進ノ介〔bc-cafe.net〕、なろう・pixiv で活動中の作者群、tskaitai.jp の toshi9 氏、einhobby の大原野氏、天爛氏ら)には WP 公開前に許諾または少なくとも事前告知を行う — 特に「現存する移転先サイトから直接回収した 18 ページ+挿絵」は Web アーカイブ経由ですらない現役公開物の転載であり、許諾必須と考えるべき。3) 広告・収益化・寄付ボタンを一切置かない(非営利性が黙認の生命線)。4) 削除依頼への備え: 専用窓口(メール+フォーム)を全ページフッタに明示/本人確認は当時のメール・サイト・なろう/pixiv アカウントからの連絡程度に緩く(過剰な挙証要求をしない)/受領後 72 時間以内に当該作品を非公開化する SLA を宣言/削除は WP・GitHub Pages・git リポジトリの三層で同期実施し、公開リポジトリでは raw-original タグと履歴にも残る事実を認識して git filter-repo による履歴除去まで行う手順書を先に用意しておく/削除済み作品のリスト(作者名と理由のみ)を公開し再収蔵を防ぐ。",
+      "pii": "【実測】目録 lib-index*.html だけで mailto リンク 3,569 件、リポジトリ全体では 6,445 ファイルに docomo/yahoo/nifty/ocn 等の個人メールアドレスが露出。BBS ログ(~ts/kansou 等)にはハンドル名+投稿者本人のメールが残り、中には akito_kakami_19850214@yahoo.co.jp のように生年月日と推定できる文字列を含むものがあり、PII 強度が高い。【目録の mailto・個人サイト URL】マスクすべき。2002 年当時「感想送付先」として本人が公開した情報でも、20 年後に検索可能な形で再公開するのは文脈の変質(spam 収集、実名クロス参照、TS というセンシティブなジャンルとの恒久的紐付け)であり、当時の公開意思では正当化できない。推奨: WP 表示層では mailto リンクをテキストごと除去(難読化ではなく削除。連絡経路として機能させたい場合は運営窓口経由の転送のみ)。個人サイト URL は大半が死んでおりドメイン再取得(スクワット・アダルト/マルウェア化)リスクがあるため、生リンクではなく Wayback スナップショットへのリンクに書き換える。現存する移転先(tskaitai.jp 等)は本人が現役で公開している場なのでリンク可だが、削除依頼の対象に含める。原本は git の raw 層に保持し「公開ビューのみマスク」の 2 層構成とする — ただし公開リポジトリのままでは clone で原本 PII が全取得できるため、マスクは秘匿ではなく礼儀である旨を README に明記するか、リポジトリ自体の公開範囲を再検討する。【BBS 投稿者名・メール】作者より保護必要度が高い(公人性ゼロの一般読者)。メールアドレスは BBS 全層で機械的に除去(mailto 属性と表示テキストの両方)。ハンドル名は会話の成立に必要であり通常は仮名なので残してよいが、実名とみられるもの・メールと組み合わせて実名が割れるものは個別に伏せる。ホスト名・IP 表示があれば除去。投稿者本人からの削除依頼はハンドル自己申告ベースで緩く受け付ける。そもそも BBS・日記・個人サイト層(~yaji 等)は「読者コミュニティの私的な記録」であり作品ライブラリと公益性の性質が異なるため、WP には載せず静的ミラー側に noindex で留めるのが最も安全。",
+      "seo": "【現状】リポジトリ直下の robots.txt は archive.org 自身の robots.txt を Wayback 回収時に誤って取り込んだもの(「Please crawl our files」「Disallow: /control/」等)で、意図した露出方針が存在しない。まずこれを意図した内容に差し替えること。【推奨方針: 階層化+段階解禁】(1) 公開初期は全体 noindex(meta robots + WP なら X-Robots-Tag ヘッダ、Pages なら全 HTML への meta 一括挿入)で開始し、「URL を知る人・コミュニティ経由で辿り着けるアーカイブ」に留める。削除窓口の整備と存命作者への連絡が済んだ後に、作品本体と目録(mailto 除去済み)のみ index を解禁する — 作者やファンによる再発見はアーカイブの公益であり、恒久 noindex は保存目的と矛盾するため。(2) BBS 層・日記・~yaji 等の個人サイト層・投稿者情報を含むページは恒久 noindex(人名+ハンドルで検索ヒットする事態を防ぐ)。(3) AI 学習クローラ(GPTBot・CCBot 等)は robots.txt で拒否を明示する — 権利者本人の許諾すら無い作品群を学習コーパスに流し込むのは黙認の範囲を超える。(4) Wayback Machine 等のアーカイブクローラは許可(保存目的に合致し、削除依頼で消した後も記録が残る点は README で告知)。(5) sitemap.xml は index 解禁区画のみ生成する。",
+      "coexistence": "【役割分担を先に決める】二重公開の最大の運用リスクは (a) 検索エンジン上の重複と評価分散、(b) 削除依頼対応の非同期(片方だけ消して片方に残る)である。推奨は「GitHub Pages = 原本に忠実な資料層(改変最小・git 履歴で来歴検証可能)/WordPress = 利用層(目録・解題・探索記録・削除窓口・検索 UI)」という明確な分業。具体的には 2 案: 【A 案(推奨)】WP には本文を取り込まず、目録・作品メタデータ(作者・初出年・回収経路)・README 相当の探索記録・削除依頼窓口だけを持つポータルとし、本文は Pages ミラーへリンクする。15,000 超のファイルの WP 取込・更新同期・削除同期という運用コストが消え、「再編集の色が強まる」という著作権上の問題もほぼ回避でき、canonical 問題も生じない。【B 案】本文も WP に入れるなら、canonical を WP に集約し Pages 側は全体 noindex に落とす(逆でもよいが正を一つに決める)。この場合、削除リスト(作品単位の deny list)を単一ファイルで管理し、Pages のデプロイワークフローと WP 側の除外処理が同じリストを参照する仕組みを先に作ること。いずれの案でも、削除は WP・Pages・git リポジトリ(履歴・raw-original タグ含む)の三層同時が原則で、その手順書と再デプロイ検証を公開前に整備する。また公開 git リポジトリが存在する限り「WP でマスクしても原本は取得可能」という構造は変わらないため、PII マスクの意味と限界を README に明記して整合させる。",
+      "recommendations": [
+        "WP 全面複製は行わず、WP は目録・メタデータ・探索記録・削除依頼窓口のポータル層に限定し、本文は GitHub Pages ミラーへリンクする(A 案)。本文を WP に入れる場合は canonical を WP に一本化し Pages を noindex 化する",
+        "WP 公開前に、README で特定済みの連絡可能な存命作者(きりか進ノ介、toshi9、大原野山城守武里、天爛、なろう/pixiv 活動中の作者群)へ許諾依頼または事前告知を送る。特に現役サイトから直接回収した 18 ページ+挿絵は許諾必須と扱う",
+        "削除依頼フローを公開前に整備する: 全ページフッタに窓口明示、本人確認は緩く、72 時間以内非公開化の SLA、WP・Pages・git 履歴(raw-original タグ含む、git filter-repo 手順書)の三層同時削除、削除済みリストの公開",
+        "公開ビュー(WP・Pages)から mailto を全て除去する — 目録 3,569 件・全体 6,445 ファイル。リンク属性だけでなく表示テキストのアドレスも対象。原本は git raw 層にのみ保持",
+        "BBS 層の投稿者メールを機械的に除去し、ハンドル名は原則残置(実名らしきものは個別に伏せる)。BBS・日記・~yaji 等の個人サイト層は WP に載せず、静的ミラー側で恒久 noindex とする",
+        "目録・作品ページ内の個人サイト URL は Wayback スナップショットへのリンクに書き換える(ドメイン再取得によるスクワット/マルウェア誘導の防止)。現存する移転先サイトのみ生リンク可",
+        "archive.org の robots.txt の誤回収物である現 robots.txt を、意図した方針(AI 学習クローラ拒否・アーカイブクローラ許可・noindex 区画の宣言)に差し替える",
+        "検索露出は段階解禁とする: 初期は全体 noindex で公開し、削除窓口整備と作者連絡の完了後に作品本体・目録のみ index 解禁。BBS/PII 層は恒久 noindex",
+        "広告・収益化・寄付を一切導入しない。外部送信を行う WP プラグイン(統計・SNS 連携等)も最小限にし、非営利アーカイブとしての性格を保つ",
+        "公開 git リポジトリでは raw-original タグと履歴に未マスクの原本(全メールアドレス入り)が残り clone で取得可能である事実を README に明記し、マスクの限界について透明性を保つ(またはリポジトリ公開範囲自体を再検討する)"
+      ]
+    }
+  },
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Survey"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "catalog-schema",
+      "phaseIndex": 1,
+      "phaseTitle": "Survey",
+      "agentId": "a7ec87646bceb2687",
+      "model": "claude-fable-5",
+      "state": "done",
+      "startedAt": 1788019708443,
+      "queuedAt": 1788019706593,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "CANONICAL SOURCE = new format (MANAGE2.CGI), files lib1.htm…",
+      "promptPreview": "/home/takano32/GitHub/ts-novels は閉鎖サイト「少年少女文庫」(TS小説投稿サイト)の静的復元ミラー。これを WordPress の作品ライブラリに変換する設計のため、目録ページの正確なスキーマを確定せよ。\nlib1.html〜lib30前後 と lib2.html を Python で機械パースし (utf-8)、作品エントリ(<TABLE BORDER=1>ブロック、【あらすじ】含む)の全フィールドを列挙: 題名+本文リンク/作者名+mailto+Homepage/挿絵クレジット(「挿画：」「イラストなし」等の揺れ)/日付形式/サイズKB/感想リンク(~ts/kansou/bbs@log_*.cgi)/あらすじ/コメント/オススメ作品(リンク+作者)/推薦文/ジャンル/種別/キーワード。\n最低5ページ・200エントリをパースし、フィールド出現率・形式の揺れ…",
+      "lastProgressAt": 1788020193151,
+      "tokens": 71132,
+      "toolCalls": 24,
+      "durationMs": 484707,
+      "resultPreview": "{\"fields\":[{\"name\":\"title\",\"occurrence_pct\":100,\"source\":\"row1/TD1\",\"spec\":\"<B><A href=\\\"HREF\\\">TITLE</a></B> — regex (case-insensitive, DOTALL): <A\\\\s+href=\\\"([^\\\"]+)\\\"[^>]*>(.*?)</a>. HREF prefix: novel/ 2880 (99.76%), http:// absolute 6, special/ 1. Extension: .html 1962 / .htm 899 / .jpg 19 / .gif 2 (image-only CG works, mostly lib63-73); 5 hrefs carry case-sensitive #anchors (#GAME, #BBS3, #C…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "work-model",
+      "phaseIndex": 1,
+      "phaseTitle": "Survey",
+      "agentId": "aa67b00b3cd761091",
+      "model": "claude-fable-5",
+      "state": "done",
+      "startedAt": 1788019708292,
+      "queuedAt": 1788019706605,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "【シリーズ表現の実態】series.html (完結シリーズ作品一覧, UT…",
+      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の「作品・シリーズ・話」の構造モデルを確定せよ(WordPress のコンテンツモデル設計のため)。\n調査: (1) series.html のシリーズ一覧構造をパース(シリーズ名→各話リンク?)。(2) novel/YYYYMM/DDHHMMSS/ ディレクトリは作者の投稿単位で複数作品が同居する(例: novel/201212/18232308/ に calendargirl.htm と twins01-03.htm)。ディレクトリ数・1ディレクトリあたりファイル数分布を集計。(3) 同一作品の連載話が別ディレクトリに散る例 (d_upboy 等) を確認。(4) novel/ 直下のフラット時代ファイル(旧世代)の扱い。(5) lib-index-*.html (五十音) と bunrui.htm…",
+      "lastProgressAt": 1788020080335,
+      "tokens": 85702,
+      "toolCalls": 50,
+      "durationMs": 372032,
+      "resultPreview": "{\"series_structure\":\"【シリーズ表現の実態】series.html (完結シリーズ作品一覧, UTF-8) は五十音別12テーブル(＜記念作品・リレー小説＞＋あ〜わ行＋アルファベット)、行=[作者名|作品名+リンク|本編話数|番外編等]。有効行123行(コメントアウト除く)。リンク形式は2通り: (a) 51行=【シリーズタイトル】1本のみ→作中の「シリーズタイトルページ」(例 novel/200206/22085230/title.htm) へ誘導し、そこから各話へ相対リンク; (b) 残り=【前編】【後編】【第1話】等の各話直リンクを行内に列挙(計267リンク)。11行はリンク無し(タイトルページ未整備)。つまりシリーズ→話の対応は「タイトルページ経由」と「series.html 直書き」の2系統が混在し、機械可読な単一ソースは無い。シリーズタイトルページは nov…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "taxonomies",
+      "phaseIndex": 1,
+      "phaseTitle": "Survey",
+      "agentId": "a45cc5d9d1ce9efb1",
+      "model": "claude-fable-5",
+      "state": "done",
+      "startedAt": 1788019709199,
+      "queuedAt": 1788019706605,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "【判定】3フィールドとも技術的には自由記述(選択式UIの痕跡な…",
+      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の分類語彙を全数抽出せよ(WordPress タクソノミー設計のため)。\n全 lib*.html (utf-8) から【ジャンル】【種別】【キーワード】の値を Python で全数抽出し、スペース区切りをトークン化して頻度集計。上位50件ずつと、総異なり数・表記揺れ(例: 全角/半角・類義)を報告。ジャンル/種別が閉じた語彙(選択式)か自由記述かを判定。キーワードの自由度も評価。",
+      "lastProgressAt": 1788019993124,
+      "tokens": 56341,
+      "toolCalls": 17,
+      "durationMs": 283921,
+      "resultPreview": "{\"genres\":[{\"term\":\"学園\",\"count\":918},{\"term\":\"コメディ\",\"count\":754},{\"term\":\"現代\",\"count\":479},{\"term\":\"ファンタジー\",\"count\":450},{\"term\":\"SF\",\"count\":417},{\"term\":\"アクション\",\"count\":408},{\"term\":\"恋愛\",\"count\":353},{\"term\":\"青春\",\"count\":284},{\"term\":\"不思議\",\"count\":279},{\"term\":\"伝奇\",\"count\":259},{\"term\":\"不条理\",\"count\":204},{\"term\":\"ショートショート\",\"count\":169},{\"term\":\"近未来\",\"count\":132},{\"term\":\"ヒーロー\",\"count\":100},{\"ter…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "authors",
+      "phaseIndex": 1,
+      "phaseTitle": "Survey",
+      "agentId": "a490ff3b315c7e4d8",
+      "model": "claude-fable-5",
+      "state": "done",
+      "startedAt": 1788019709267,
+      "queuedAt": 1788019706606,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "mailto: リンクは目録の作者名セル内に多数残存。正規目録 lib1…",
+      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の作者インベントリを作れ(WordPress の作者アーカイブ設計のため)。\n全 lib*.html から作者名を全数抽出・頻度集計(上位30と総数)。~ts/kansou/ の bbs@log_*.cgi ファイル一覧から作者別感想板の slug 一覧を取得し、目録の感想リンクとの対応を確認。作者の Homepage リンクの生存性は調べなくてよいが URL パターンを分類(nifty/geocities等)。注意: mailto アドレスは個人情報 — 公開サイトでの扱いの論点として件数だけ報告。",
+      "lastProgressAt": 1788020120026,
+      "tokens": 75480,
+      "toolCalls": 34,
+      "durationMs": 410758,
+      "resultPreview": "{\"author_count\":399,\"kansou_logs\":294,\"top_authors\":[{\"rank\":1,\"name\":\"ライターマン\",\"works\":114,\"kansou_slug\":\"writerman\"},{\"rank\":2,\"name\":\"城弾\",\"works\":91,\"kansou_slug\":\"johdan\"},{\"rank\":3,\"name\":\"真城 悠\",\"works\":83,\"kansou_slug\":\"mashiro_yuu\"},{\"rank\":4,\"name\":\"夜夢\",\"works\":65,\"kansou_slug\":\"yamu\"},{\"rank\":5,\"name\":\"バレット\",\"works\":52,\"kansou_slug\":\"baretto\"},{\"rank\":6,\"name\":\"堀井 忍\",\"works\":52,\"kansou_slu…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "community",
+      "phaseIndex": 1,
+      "phaseTitle": "Survey",
+      "agentId": "a3e76571402d2024f",
+      "model": "claude-fable-5",
+      "state": "done",
+      "startedAt": 1788019709135,
+      "queuedAt": 1788019706606,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "~ts/kansou/ = 作品感想板 (MiniBBS v10 / Crocus v2.42、UTF-8…",
+      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) のコミュニティ層を調査せよ(WordPress 移行での扱い判断のため)。\n対象: ~ts/kansou/ (作品感想板: bbs@log_*.cgi と bbs@res_*.cgi の件数・1ファイルの構造 — 投稿者/日付/本文が抽出可能か1-2ファイル読んで判定)、~ts/bbs/ (雑談・2ndbbs)、ts.novels.name/rounge/ (ラウンジBBS スレッド数)、~ezpe/cgi-bin/noteky/ (推薦ノート)、~yays/cgi-bin/ (resbbs/paintbbs)、comittee/ columns/ dialy/ (運営コンテンツ)。\n各: ファイル数・内容の性質・「感想をWPコメントとして作品に紐付けるインポート」の実現性(構造化パース可能性)を評価。",
+      "lastProgressAt": 1788020163677,
+      "tokens": 100575,
+      "toolCalls": 67,
+      "durationMs": 454541,
+      "resultPreview": "{\"kansou\":\"~ts/kansou/ = 作品感想板 (MiniBBS v10 / Crocus v2.42、UTF-8変換済み)。計3,161ファイル: bbs@log_*.cgi 294本 (クエリ変種除く実質290板)、bbs@res_*.cgi 2,866本、bbs.cgi。板は「作者単位」(例: bbs@log_rurita.cgi =「流離太さん作品 感想掲示板」、<title>に作者名)。投稿ありの板219、空板(「記事はありません.」)75。log内に見える投稿は計1,730件(各板最新100件保持のため)だが、res_*.cgi のファイル名タイムスタンプで数えるとユニーク投稿2,866件 — resページは別時点のクロールで古い投稿も含むため、log+resの和集合をタイムスタンプIDで重複排除すれば2,866件超の投稿が復元可能。期間2002/06〜2013/…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "generations",
+      "phaseIndex": 1,
+      "phaseTitle": "Survey",
+      "agentId": "a762a45c271d1485a",
+      "model": "claude-fable-5",
+      "state": "done",
+      "startedAt": 1788019709066,
+      "queuedAt": 1788019706607,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "総計17,215コンテンツファイル(.git/scripts/.github/README/co…",
+      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の世代構造と重複を調査せよ(WordPress サイトの情報設計のため)。\n世代: ~ezpe (1999 tomato期) → ~yays + ~yays/library (八重洲メディアリサーチ期) → リポジトリ直下 (ts.novels.jp 本体 2002-2021) → ts.novels.name/kirika.novels.name/ts.raa0121.info (閉鎖後姉妹) → ts-novels.jp (2018再建)。各世代のファイル数・novel系コンテンツの重複度(~yays/library/novel/ と novel/ で同一basename数を集計)・世代固有コンテンツ(galleryのCG等)を報告。「ライブラリ本体(WP化)」と「史料アネックス(静的のまま)」の境…",
+      "lastProgressAt": 1788020067655,
+      "tokens": 51307,
+      "toolCalls": 32,
+      "durationMs": 358587,
+      "resultPreview": "{\"generation_stats\":\"総計17,215コンテンツファイル(.git/scripts/.github/README/collinfo.json除く、リポジトリ計17,233)。世代別: 【第0世代 ~ezpe (1999 tomato期)】1,562 — 静的サイト(yasai/)はわずか8ページ(girlise.html, nyotai.html等の原型)、残り1,553はcgi-bin(noteky感想ノート・resbbs2/4・topics)。注意: ~ezpe/cgi-bin/notekyは後続全世代のnovelページから感想フォーム送信先として参照され続けた越世代インフラ。【第1世代 ~yays (八重洲メディアリサーチ期)】5,469 — library/ 1,598(うちnovel/ 1,466、トップhtml 47)、cgi-bin/ 3,505(note…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "content-format",
+      "phaseIndex": 1,
+      "phaseTitle": "Survey",
+      "agentId": "a12666474edb9bb9b",
+      "model": "claude-fable-5",
+      "state": "done",
+      "startedAt": 1788019996530,
+      "queuedAt": 1788019706607,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "タイトル: 約98%自動抽出可。<title>タグは3,742/3,817で有効(…",
+      "promptPreview": "/home/takano32/GitHub/ts-novels (少年少女文庫ミラー) の本文 HTML の形式品質を調査せよ(WordPress 本文変換パイプライン設計のため)。\nnovel/ 配下の .htm/.html を10-15ファイル無作為抽出して読み、判定: 文書構造(手書きHTML? テンプレ? framesets?)、本文マークアップ(<BR>連打? <P>? ルビ<ruby>? 縦書き指定?)、装飾(FONT/色/中央寄せ)、挿絵の参照方法、ナビゲーション(次話/目次リンク)、既にUTF-8化済みであること。Gutenberg ブロックへの変換戦略(本文抽出→整形)の難易度と、自動抽出できる範囲(タイトル/本文境界)を評価。",
+      "lastProgressAt": 1788020358090,
+      "tokens": 67630,
+      "toolCalls": 29,
+      "durationMs": 361558,
+      "resultPreview": "{\"auto_extractable\":\"タイトル: 約98%自動抽出可。<title>タグは3,742/3,817で有効(空<title>は75件のみ)。空の場合も本文冒頭の中央寄せヘッダブロック(<H1>/<FONT size=\\\"+3〜+4\\\"><center>/Word出力のfont-size:36.0pt span)から取得可能。作者名: 約92%可 —「作：」リテラルが2,440件、「作 ：」「文　」「Ｂｙ：」「ＣＲＥＡＴＥＤ ＢＹ」等の変種込みで3,524件がパターンマッチ可能。本文境界: 約85-90%自動判定可。サイト共通テンプレが強固 — 冒頭「戻る」リンク(3,337件=87%)→<hr width=\\\"70%\\\">→タイトルブロック→<hr>→本文→末尾<hr>→「□　感想はこちらに　□」フッタ(kansou.cgi参照が2,776件=73%)→「戻る」。つまり「2…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 8,
+      "label": "rights-ops",
+      "phaseIndex": 1,
+      "phaseTitle": "Survey",
+      "agentId": "aba05154cfb82aad0",
+      "model": "claude-fable-5",
+      "state": "done",
+      "startedAt": 1788020070931,
+      "queuedAt": 1788019706608,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "lastToolSummary": "【現状認識】各作品の著作権は原著者に帰属し、本ミラーには権…",
+      "promptPreview": "閉鎖TS小説サイト「少年少女文庫」の復元ミラー /home/takano32/GitHub/ts-novels (README.md 参照) を WordPress の公開ライブラリにする際の、権利・倫理・運用の論点を整理せよ。\nREADME を読み、以下を検討: (1) 各作品の著作権は原著者(サイトは資料保存目的の非営利アーカイブ)— WP化(=再編集・再公開の色が強まる)で追加で配慮すべき点、削除依頼への備え。(2) 目録に mailto と個人サイトURLが露出 — マスクすべきか。(3) BBS投稿者名・メールの扱い。(4) 検索エンジンへの露出方針(noindex?)。(5) 既存 GitHub Pages ミラーとの併存戦略。あなたの結論を推奨として明確に。",
+      "lastProgressAt": 1788020238238,
+      "tokens": 33531,
+      "toolCalls": 8,
+      "durationMs": 167305,
+      "resultPreview": "{\"copyright\":\"【現状認識】各作品の著作権は原著者に帰属し、本ミラーには権利者の明示許諾がない。日本法にはフェアユースがなく「資料保存目的・非営利」は権利制限事由にならない(国会図書館等の例外は私人に不適用)ため、静的ミラーの時点で既に複製権・公衆送信権(送信可能化)に形式的には抵触しており、実態は「黙認+削除即応」で成立している運用である。【WP化で強まるリスク】WordPress 取込は (a) DB 再構成・テーマ適用・抜粋(excerpt)生成・タグ/カテゴリ付与により「機械的ミラー」から「編集・再公開」へ性格が変わり黙認を得にくくなる、(b) テーマによる再整形・レイアウト変更が同一性保持権(著作権法20条)に、表示形式次第で氏名表示権(19条)に触れやすくなる、(c) 検索性向上で権利者の目に触れる確率も上がる。【追加で配慮すべき点】1) 本文は再整形せず原本 HT…"
+    }
+  ],
+  "totalTokens": 541698,
+  "totalToolCalls": 261
+}
