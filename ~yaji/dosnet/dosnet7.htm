@@ -1,0 +1,90 @@
+<HTML>
+<HEAD>
+<TITLE>DOSでネットワークを！</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+</HEAD>
+<BODY>
+<OL type=1 start=10> 
+<P>
+<A NAME="#10"><H3><LI>TCP/IPプロトコルを使う</H3></A>
+<TABLE BGCOLOR=A0A0FF ALIGN=RIGHT>
+<TR><TD>
+[network.setup]<BR>
+version=0x3110<BR>
+netcard=ms$elnk,1,MS$ELNK,1<BR>
+transport=ms$netbeui,MS$NETBEUI<BR>
+transport=tcpip,TCPIP<BR>
+lana0=ms$elnk,1,tcpip<BR>
+lana1=ms$elnk,1,ms$netbeui<BR>
+lana2=ms$elnk,1,ms$ndishlp<BR>
+<BR>
+[protman]<BR>
+DriverName=PROTMAN$<BR>
+PRIORITY=MS$NDISHLP<BR>
+<BR>
+[MS$NDISHLP]<BR>
+DriverName=ndishlp$<BR>
+BINDINGS=MS$ELNK<BR>
+<BR>
+[MS$NETBEUI]<BR>
+DriverName=netbeui$<BR>
+SESSIONS=10<BR>
+NCBS=12<BR>
+BINDINGS=MS$ELNK<BR>
+LANABASE=1<BR>
+<BR>
+<BR>
+[TCPIP]<BR>
+NBSessions=6<BR>
+SubNetMask0=255 0 0 0<BR>
+IPAddress0=0 0 0 0<BR>
+DisableDHCP=0<BR>
+DriverName=TCPIP$<BR>
+BINDINGS=MS$ELNK<BR>
+LANABASE=0<BR>
+<BR>
+[data]<BR>
+version=v4.00.1111<BR>
+netcards=<BR>
+<BR>
+<BR>
+[MS$ELNK]<BR>
+DriverName = RTSND$<BR>
+</TD></TR></tABLE>
+
+作成したフロッピーディスクはNetbeuiプロトコルで通信をするもので、接続先のコンピュータにはNetbeuiがインストールされている必要がある。しかし、最近の主流はTCP/IPである。また、あまりないとは思うが、TCP/IPならばルータを超えることが可能だ。僕はルーターの向こうにあるファイルサーバーにこっそりバックアップを取ったりしている（酷い話だ）。<BR>
+インストール手順そのものはNetbeuiの時と同じだ。プロトコルの選択のところで、IPX/SPXを削除してTCP/IPをインストールすればよい。そうすれば、autoexec.batとconfig.sysが変更されて、インストールが完了する。ネットワークドライバの変更手順についてはNetbeuiの時と同じで、system.iniを変更すればよい。protocol.iniの変更についてはやや異なる。<BR>
+右側にtcpipの場合のprotocol.iniを表示してある。[MS$ELNK]セクションでドライバの名前を変更することは、Netbeuiの場合と同じである。TCP/IPの場合はもちろんのことながら、IPアドレスとサブネットマスク、を指定しなければならない。それは<B>[TCP/IP]</B>セクションの
+<blockquote>
+SubNetMask0=255 0 0 0<BR>
+IPAddress0=0 0 0 0<BR>
+DisableDHCP=0<BR>
+</blockquote>
+で行う。<B>DisableDHCP</B>はIPアドレスの自動割当を使うかどうかで、DHCPサーバーがあれば、右辺を０にすればDHCPでIPアドレスの取得を行い、１にすれば固定IPアドレスの設定となる。DHCPオンが０で、DHCPオフが１なので間違えないように。<P>
+<B>SubNetMask0</B>の右辺がサブネットマスクだ。サブネットマスクをスペースで区切って設定する。IPAddress0=の右辺がIPアドレスである。これもスペース区切りで設定しよう。もし、IPアドレス192.168.1.1、サブネットマスク255.255.255.0の場合は、
+<blockquote>
+SubNetMask0=255 255 255 0<BR>
+IPAddress0=192 168 1 1<BR>
+DisableDHCP=1<BR>
+</blockquote>
+ということになる。なお、インストーラによりconfig.sysとautoexec.batも変更されている。<P>
+<B>config.sys</B>には、Netbeui版と同様に、
+<blockquote>
+device=c:\net\ifshlp.sys
+</blockquote>
+が追加されている。<B>autoexec.bat</B>には、
+<blockquote>
+C:\NET\net initialize<BR>
+C:\NET\netbind.com<BR>
+C:\NET\umb.com<BR>
+C:\NET\tcptsr.exe<BR>
+C:\NET\tinyrfc.exe<BR>
+C:\NET\nmtsr.exe<BR>
+C:\NET\emsbfr.exe<BR>
+C:\NET\net start<BR>
+</blockquote>
+が追加されているはずである。
+</OL>
+<A HREF="index.htm">戻る</A>
+</BODY>
+</HTML>

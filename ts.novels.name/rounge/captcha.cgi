@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta http-equiv="content-style-type" content="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<title>ERROR!</title>
+</head>
+<body>
+
+<div class="ta-c">
+<div class="err-box">
+<h3>ERROR!</h3>
+<p class="err"></p>
+</div>
+<p><input type="button" value="前画面に戻る" onclick="history.back()" /></p>
+</div>
+
+</body>
+</html>

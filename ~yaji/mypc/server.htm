@@ -1,0 +1,27 @@
+<HTML>
+<BODY BACKGROUND="b-lb1.gif" LINK="#338800"> <TABLE WIDTH=92%><TR><TD>
+<H2>Server Machine</H2>
+<TABLE ALIGN="right" BORDER=1 WIDTH=370>
+<TR><TD><IMG SRC="server.jpg" width="360" height="270"></TD></TR>
+<TR><TD>Mother GA-586HX</TD></TR>
+<TR><TD>CPU Pentium/166</TD></TR>
+<TR><TD>Memory 96MB</TD></TR>
+<TR><TD>VGA Trident3D</TD></TR>
+<TR><TD>Acer 型番忘却(Dec21140)</TD></tR>
+<TR><TD>SCSI I/F IFC-USP-M</TD></TR>
+<TR><TD>DPES-1080S(System)</TR></TR>
+<TR><TD>DTTA-351680(DATA IFC-USP-MのIDEポートに接続)</TD></TR>
+<TR><TD>OS WindowsNT Server4.0</TD></TR>
+</tABLE>
+本棚として使っているスチールラックの最下段に鎮座する、我が家の基幹サーバー。従来は、Wingateを通じて我が家のインターネット接続を担っていたが、最近ルーターを買ったので、その地位は下がりつつある。とはいえ、プリンターとファイル共有の要であることには違いなく、なんにせよ仕事でWindowsNTを触っている以上、自宅に実験環境を構築しておくことは、いろいろと役に立っている。趣味と実益を兼ねたコンピューターである。<P>
+ノートパソコンとデスクトップパソコンとではじめはＬＡＮをつないでいたのだが、WindowsNTServerの実験環境が欲しかったのと、デスクトップパソコンの動作が非常に重くなり、我慢できなくなってサーバーとして独立させる運びとなった。つい最近まで10BASE-TのHUBを使っていたが、現在では100BASE-TX化されたことは別項で述べたとおり。<P>
+フルＳＣＳＩ化とコストとの兼ね合いを実現するために、メルコのSDAT-SCSIボード、IFC-USP-Mを導入。AdvansysのSCSIボード＋SCSI-IDE変換1ポート、という組み合わせなので、SCSIで大きなハードディスクが欲しいときは、非常に有意義である。特に、SOHOのサーバーとすると、性能とコストを両立させられる。なんだかんだ言っても、インテリジェントなSCSIの方がCPU負荷は少ない。<P>
+動かしているサービスは、ほとんどない。IISやDHCPなども動かしていたが、Linuxの実験機をたちあげたので、Webの実験はそっちでやっている。現在でもWingateは作動させて、64kbpsの帯域を使い分けている。ISDN＋テレホーダイの面目躍如である。<P>
+ここにはMP3のデータを置いて、「LANケーブルさえ引っ張ればどこでもBGMがかかる」環境を構築している。ノートパソコンと、LANケーブルさえなんとかすれば、１０００曲以上の曲が自由に選べるとあって、我が家のLAN環境の存在理由に一役買っている。また、LanManagerで接続し、DriveImageのバックアップ先にするなど、用途はさまざまだ。いつも電源が入っていて、用途はさまざまである。たまに、電源を落とす。最近では、電源を落としても、ルーターが生きているので、DHCPとインターネット接続はカバーできるので、常時電源オンにするメリットは少なくなってきている。<P>
+
+(2/11)ハードディスクが足らなくなったので、HDDをDTTA-351680に変更した。無事IFC-USP-MはSCSIの16GBとして認識してくれた。一安心である。<P>
+<HR>
+<A HREF="index.htm">戻る</a>
+
+</TD></TR></TABLE></BODY>
+</HTML>

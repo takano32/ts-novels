@@ -1,0 +1,9 @@
+エラーが発生しました: Can't locate XML/Parser.pm in @INC (@INC contains: /home/yaji/public_html/blog/extlib lib /etc/perl /usr/local/lib/perl/5.8.4 /usr/local/share/perl/5.8.4 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.8 /usr/share/perl/5.8 /usr/local/lib/site_perl .) at /home/yaji/public_html/blog/extlib/XML/XPath/XMLParser.pm line 7.
+BEGIN failed--compilation aborted at /home/yaji/public_html/blog/extlib/XML/XPath/XMLParser.pm line 7.
+Compilation failed in require at /home/yaji/public_html/blog/extlib/XML/XPath.pm line 13.
+BEGIN failed--compilation aborted at /home/yaji/public_html/blog/extlib/XML/XPath.pm line 13.
+Compilation failed in require at /home/yaji/public_html/blog/extlib/XML/Atom.pm line 11.
+BEGIN failed--compilation aborted at /home/yaji/public_html/blog/extlib/XML/Atom.pm line 24.
+Compilation failed in require at lib/MT/AtomServer.pm line 10.
+BEGIN failed--compilation aborted at lib/MT/AtomServer.pm line 10.
+Compilation failed in require at (eval 4) line 1.

@@ -1,0 +1,27 @@
+<HTML>
+<HTML>
+<HEAD>
+<TITLE>DOSでネットワークを！</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+</HEAD>
+<BODY>
+<OL type=1 start=7> 
+<A NAME="#7"><H3><LI>DriveImageを使おう</H3></A>
+特にノートパソコンを購入した場合に問題になるのは、システムのリカバリの問題である。リカバリディスクが添付されているものの、外付けCD-ROMがなくて、戻せない場合があるし、そのあたりの不安を感じて、僕が使っているCF-A1VなどのB5ノートを敬遠するユーザーも多いようだ。<P>
+僕自身はこのあたりの条件を、ネットワークドライブ上でDriveImageを使うことで回避している。DriveImageで購入時のバックアップを取っておき、こちらを今後はリカバリに使うのだ。これは、デスクトップマシンでも同じである。いつなんどきやってくるかしれないクラッシュの危険と、わけのわからないメーカーマシンを完全に復帰する手段はと言えば、プリインストール状態のバックアップを取ることだ。Windows95/98についてはこれに勝る手段はないと思う。メーカー純正の良く分からないドライバが入っていて、それがないときれいに動かないことが多い。リカバリのCD-ROMとにらめっこするぐらいなら、そっちの方が精神衛生上よい。<P>
+Let'sNoteMini(AL-N4)もWindows95起動直後のバックアップを取ってあるし、CF-A1Vは買ってすぐやったことはリカバリ用のイメージの作成だった。<P>
+<A HREF="http://www.netjapan.co.jp">netjapan</a>から発売されているDriveImageというソフトウェアがある。これはドライブをまるまるイメージファイル化するもので、圧縮もかけてくれるので、システムのバックアップを取るには最適だ。<P>
+１台だけのバックアップ、リストアを取る<A HREF="http://www.netjapan.co.jp/ps/PowerQuest/di/index.html">DriveImage2.0</A>と、複数のマシンで使える<A HREF="http://www.netjapan.co.jp/ps/PowerQuest/dip/index.html">DriveImagePro3.0</A>の二種類がある。別に<A HREF="http://www.netjapan.co.jp/ps/PowerQuest/di/index.html">DriveImage2.0</A>を使って複数マシンのバックアップを取ることは可能だが、それはライセンス違反になるので注意しよう。その場合は<A HREF="http://www.netjapan.co.jp/ps/PowerQuest/dip/index.html">DriveImagePro3.0</A>が必要である…ということになっている…<BR>
+ちなみに、<A HREF="http://www.netjapan.co.jp/ps/PowerQuest/dip/index.html">DriveImagePro3.0</A>を買えばPartitionMagic4.0がついてくる上に、いろいろ便利な機能もついてくる。一番重要なのが、Partitionの一括削除機能だ。Proバージョンならば、複数あるパーティションを一気に消すことが出来る。<P>
+使い方は簡単である。まず、適当なWindowsマシンにインストールする。すると、DOSで実行するためのモジュールがインストールされる。これをコピーすればいい。DOSプロンプトから、
+<B><blockquote>pqdi[ENTER]</blockquote></B>
+と入力すれば起動すればDriveImageが立ち上がる。後は言うとおりにすればDOSから見える任意のドライブにバックアップイメージを作ることが出来る。<P>
+ということで、Network Client For DOSを使ってネットワークにつなぎ、ネットワークの共有フォルダにDriveImageの実行モジュールにコピーしておけば、DriveImageが起動できる。従って、相手の実体がNTFSであろうと、FATであろうと、FAT32であろうとそんなことはお構いなしにバックアップが取れる。また、大きなパーティションに展開すれば勝手にパーティションのサイズを変更してくれる。<P>
+気になる速度なのだが、大体<B>1GBで10分</B>で戻る。Windows95/98のセットアップは意外に時間がかかるので、多少不安定になっても構わないなら、標準VGAが入ったあたりでバックアップを取って持っておくと、次からのインストールは結構楽になる。<P>
+正直なところ、NT ServerとかNT Workstationなどならば、インストールが終わった段階でイメージのバックアップを取っておけば、次回からはそれを展開するだけで途中までのセットアップが完了するので便利である。ノートパソコンにWindowsNTをインストールする場合、別のマシンにセットアップしたイメージを、ノートパソコンに展開すれば割とあっけなくインストールできるので、僕はそうしている。後はなんとかNICを認識させればどうとでもなるだろう。また、ノートパソコンのハードディスクの換装時に再インストールする人も多いようだが、ネットワーク経由でノートパソコンのバックアップを取り、換装後DriveImageでリストアすれば、パーティションのサイズもちゃんと目いっぱいになって元に戻る。<P>
+なお、分割バックアップも出来るので、作ったバックアップをCD-Rに分割して保管することも出来る。なかなか至れり尽せりである。なお保証はされていないが、DAC960やAHA-131A2などのRAIDのバックアップ/リストアにも成功している。<P>
+<A NAME="#8"><H3><LI>VFATBAKを使う</H3></A>
+DriveImageはNTFSが使えて便利なのだが、シェアウェアの<A HREF="http://www.05.alphatec.or.jp/~katontek/library.html">VFATBAK</A>もなかなか便利なツールである。これはFAT/FAT32に限られるものの、DOSから見えるファイルをボリューム化するというツールである。DriveImageよりも時間はかかるが、こちらの方が安価である。
+</OL>
+</BODY>
+</HTML>

@@ -1,0 +1,107 @@
+<HTML>
+<HEAD>
+<TITLE>DOSでネットワークを！</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+</HEAD>
+<BODY>
+<IMG SRC="../cgi-bin/npc.cgi?L=/~yaji/dosnet/index.htm&I=/home5/yaji/public_html/cgi-bin/npc.idx&P=ON&A=G"><P>
+<H2>FD一枚でネットワークにつなげる</H2>
+<OL>
+<A HREF="##1"><LI>はじめに</A>
+<A HREF="##2"><LI>ネットワーククライアントの種類</A>
+<A HREF="dosnet2.htm##3"><LI>Network Client For DOSのインストール</A>
+<A HREF="dosnet3.htm##5dosnet3.htm##5dosnet3.htm##5dosnet3.htm##4dosnet3.htmdosnet4.htmdosnet3.htm"><LI>設定ファイルの変更</A>
+<A HREF="dosnet3.htm##5"><LI>フロッピー1枚に収める</A>
+<A HREF="dosnet4.htm##6"><LI>利用可能な主なネットワークカード</A>
+<A HREF="dosnet5.htm##7"><LI>DriveImageを利用する</A>
+<A HREF="dosnet5.htm##8"><LI>VFATBAKを利用する</A>
+<A HREF="dosnet6.htm##9"><LI>PCMCIAカードを使う</A>
+<A HREF="dosnet7.htm##10"><LI>TCP/IPプロトコルで接続する</A>
+<A HREF="dosnet8.htm##11"><LI>Network Client For DOSでいろいろ遊ぶ</A>
+<LI><B>付録</B> 接続先コンピュータの設定
+</OL>
+<OL TYPE=1>
+<A NAME="#1"><H3><LI>はじめに</H3></A>
+　パソコンのインストールをするのはなかなか骨が折れる。プリインストールマシンの再セットアップ手順を見ると発狂しそうになるぐらい複雑なことも多々ある。このようなとき、僕のLet'sNoteにいたっては、リカバリＣＤを使おうにも、外付CD-ROMを持っていない(<A HREF="#attention1">※</A>)しかし当然と言うか、やっぱりというかPCMCIAのネットワークカードは持っているので、これを使って別のマシンにバックアップを取るということを行っている。<BR>
+　DOSからネットワークにつなげてどういうご利益があるのかだが、次の２点に集約されると思う。
+<P><OL TYPE=a>
+<LI><A HREF="http://www.netjapan.co.jp/ps/PowerQuest/di/index.html">DriveImage</A>などのバックアップツールのバックアップ先にする
+<LI>Windows95/98/NTなどをネットワークからインストールする
+</OL></P>
+特に、物理的にバックアップ用ドライブを持つことの出来ないノートパソコンにおいてはDriveImageを使えばハードディスク換装時に一時的に別マシンにデータを退避することが可能だ。
+<H3><LI>DOS上のネットワーククライアントの種類</H3>
+<A NAME="#2"></a>
+別にここは僕が書くこともなく、<A HREF="http://hp.vector.co.jp/authors/VA007890/dos/SD/index.html">ここ</A>とか、<A HREF="http://www.venus.dti.ne.jp/~inada/Network_install/index_network_install.html">ここ</A>とかに詳しく書いてあるのだが、ここは一応説明しておこう。
+<OL type=i>
+
+<H4><LI>Lan Manager</H4>
+<B>ダウンロード先</B>
+<UL>
+<LI><A HREF="ftp://ftp.microsoft.com/bussys/Clients/LANMAN/DSK3-1.EXE">ftp://ftp.microsoft.com/bussys/Clients/LANMAN/DSK3-1.EXE</A>
+<LI><A HREF="ftp://ftp.microsoft.com/bussys/Clients/LANMAN/DSK3-2.EXE">ftp://ftp.microsoft.com/bussys/Clients/LANMAN/DSK3-2.EXE</A>
+<LI><A HREF="ftp://ftp.microsoft.com/bussys/Clients/LANMAN/DSK3-3.EXE">ftp://ftp.microsoft.com/bussys/Clients/LANMAN/DSK3-3.EXE</A>
+<LI><A HREF="ftp://ftp.microsoft.com/bussys/Clients/LANMAN/DSK3-4.EXE">ftp://ftp.microsoft.com/bussys/Clients/LANMAN/DSK3-4.EXE</A>
+</UL> 
+<B>対応プロトコル</B>
+<UL>
+<LI>TCP/IP
+<LI>Netbeui
+<LI>IPX/SPX
+</UL>
+<B>インストーラーが変更するファイル</B>
+<UL>
+<LI>config.sys
+<LI>autoexec.bat
+<LI>protocol.ini
+</UL><BR>
+基本版と応用版の二種類があって、ここで僕が問題にするのは基本版のほうである。<BR>
+FD一枚に納めたときの容量は実はこれが一番小さかったりするのだが、運用上のフレキシビリティが一番ない。基本版ではログオンプロンプトを表示することが不可能で、応用版はログオンプロンプトを表示することが出来ない。個人的にはあまりお勧めできないクライアントである。しかしDISKに圧縮をかけずにTCP/IPを使うにはこれしかない。<BR>
+ちなみに、ADDDRVコマンドで読み込んで運用することが出来るので、圧縮してRAMDISKに展開してからドライバを読み込むことが出来る。
+<P>
+<B><LI>Network Client for DOS</B><P>
+<B>ダウンロード先</B>
+<UL>
+<LI><A HREF="ftp://ftp.microsoft.com/bussys/clients/msclient/dsk3-2.exe">ftp://ftp.microsoft.com/bussys/clients/msclient/dsk3-1.exe</A>
+<LI><A HREF="ftp://ftp.microsoft.com/bussys/clients/msclient/dsk3-2.exe">ftp://ftp.microsoft.com/bussys/clients/msclient/dsk3-2.exe</A>
+</UL>
+<B>対応プロトコル</B>
+<UL>
+<LI>TCP/IP
+<LI>Netbeui
+<LI>IPX/SPX
+</UL>
+<B>インストーラーが変更するファイル</B>
+<UL>
+<LI>config.sys
+<LI>autoexec.bat
+<LI>protocol.ini
+<LI>system.ini
+</UL>
+これも基本版と応用版の二種類があって、応用版ならばドメイン認証が可能だが、基本版で十分だろう。必要なDISK容量はどちらも同じで、system.iniを一箇所変更するだけなのだが、メモリの占有量が違うようだ。ここでも問題にするのは、基本版の方である。<BR>
+意外にDISK占有量が多くて、TCP/IP版を使うとフロッピー一枚に入りきらない。PureDOSを使えば問題ないのだが、そうするとFAT32を読み書きできないので、VFATBAKとかYUPDATEなどでバックアップを取ろうとしている人には不向きである。もっとも個人でNetbeuiで問題がある人がいるとは思えない。しかし、ADDDRVで後で読み込むことが可能だから、RAMDISKに展開してADDDRVで読み込めばTCP/IPでも運用が可能だ。なお、Netbeuiを使用する場合は、DISK2のファイルは必要がない。<BR>
+<B><LI>Network Client for DOS</B><P>
+<B>ダウンロード先</B>
+<UL>
+<LI> <A HREF="ftp://ftp.microsoft.com/softlib/mslfiles/mswgcn.exe">ftp://ftp.microsoft.com/softlib/mslfiles/mswgcn.exe</A>
+</UL>
+<B>対応プロトコル</B>
+<UL>
+<LI>Netbeui
+</UL>
+<B>インストーラーが変更するファイル</B>
+<UL>
+<LI>config.sys
+<LI>autoexec.bat
+<LI>protocol.ini
+</UL>
+一番簡便なものだが、DISK占有量はNetwork Client For DOSと変わらないのでイマイチメリットを感じない。また、これはADDDRVで読み込むとハングするので、運用のフレキシビリティも低い。コマンドもNetwork Client For DOSの方が多いので、僕としてはNetwork Client For DOSを使うことをお勧めする。また、そもそもTCP/IPが使えないので、TCP/IPで運用したい人には意味がない。
+</OL>
+</OL>
+<A HREF="dosnet2.htm">次へ</A>
+<BR>
+<BR>
+<BR>
+<BR>
+※1.<A NAME="attention1"> 実はPCMCIAのSCSIカードに外付けのCD-Rを持っていたりする</A>
+</BODY>
+</HTML>

@@ -1,0 +1,261 @@
+<HTML>
+<HEAD>
+<TITLE>DOSでネットワークを！</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+</HEAD>
+<BODY>
+<OL type=1 start=4> 
+<A NAME="#4"><H3><LI>Network Client For DOSのインストール(設定変更編）</H3></A>
+このままでは、おそらくあなたのコンピュータで起動しても起動することは出来ない。いくつか、c:\netフォルダ内部のファイルを２つ変更する必要がある。そのファイルとは、<B>c:\net\system.ini</B>と<B>c:\net\protocol.ini</B>である。本来ならばインストール途中でダウンロードしたネットワークドライバをインストールする必要があるのだが、この方法を僕はお勧めしない。というのは、設定ファイルの記述が間違っていて、インストーラーに跳ねられることが多いのだ。ここでは、RealtekのRL8139を例にとって、変更箇所を説明しよう。<BR>
+<OL>
+<B><LI>ドライバのダウンロード</B><BR>
+必要なネットワークドライバは自力で探し出してダウンロードする必要がある。RealtekのRL8139の場合は<A HREF="ftp://ftp.realtek.com.tw/LANCARD/drivers/8139/oem-8139(380).exe">
+ftp://ftp.realtek.com.tw/LANCARD/drivers/8139/oem-8139(380).exe</A>からダウンロードできる。ここから、oem-8139(380).exe をダウンロードして、適当なフォルダに解凍しよう。<BR>
+<B><LI>必要なフォルダのコピー</B><BR>
+<FONT COLOR="800000">解凍したフォルダ\MSLANMAN.DOS\DRIVERS\ETHERNET\RTL8139</FONT>には、二つのファイルが入っている。<BR>
+<FONT COLOR="800000">PROTOCOL.INI</FONT>と
+<FONT COLOR="800000">RTSND.DOS</FONT>
+の二つである。このxxxxxxx.DOSと拡張子がDOSであるのがドライバだ。RTSND.DOSをNetwork Client For DOSをインストールした、C:\NETにコピーしよう。<BR>
+
+<B><LI>c:\net\system.iniを変更する</B><BR>
+<TABLE><TR VALIGN=TOP><TD WIDTH=60%>
+右はインストール直後のc:\net\system.iniだ。ここに<BR>
+<B>netcard=elnk.dos</B><BR>
+という記述があるが、ここの右辺を目的のネットワークカードのものに変更する。ここでは<B>RTSND.DOS</B>だから、<BR>
+<B>netcard=RTSND.DOS</B><BR>
+に修正する。
+
+
+</TD><TD><TABLE BGCOLOR="A0A0FF" WIDTH=240>
+<TR><TD>
+[network]<BR>
+sizworkbuf=1498<BR>
+filesharing=no<BR>
+printsharing=no<BR>
+autologon=yes<BR>
+computername=USER<BR>
+lanroot=C:\NET<BR>
+username=USER<BR>
+workgroup=WORKGROUP<BR>
+reconnect=yes<BR>
+dospophotkey=N<BR>
+lmlogon=0<BR>
+logondomain=WORKGROUP<BR>
+preferredredir=basic<BR>
+autostart=basic<BR>
+maxconnections=8<BR>
+<BR>
+[network drivers]<BR></TD></TR>
+<TR BGCOLOR="000080"><TD>
+<FONT COLOR="FFFFFF" >netcard=elnk.dos</FONT></TD></TR>
+<TR><TD>
+transport=ndishlp.sys,*netbeui<BR>
+devdir=C:\NET<BR>
+LoadRMDrivers=yes<BR>
+<BR>
+[Password Lists]<BR>
+*Shares=C:\NET\Shares.PWL<BR>
+</TD></TR></TABLE>
+</TD></TR></TABLE> 
+<B><LI>c:\net\protocol.iniを変更する</B><BR>
+<TABLE><TR VALIGN=TOP><TD WIDTH=240>
+右はインストール直後のc:\net\protocol.iniだ。ここに[MS$ELNK]というセクションがあるはずだ。<BR>
+ここには、<BR><B>
+DriverName=ELNK$<BR>
+INTERRUPT=3<BR>
+IOADDRESS=0x300<BR>
+DMACHANNEL=none<BR>
+DMAMODE=burst<BR>
+MAXTRANSMITS=12<BR></B>
+と列挙されている。これらを全て削除して、<BR>
+<FONT COLOR="800000">解凍したフォルダ\MSLANMAN.DOS\DRIVERS<BR>\ETHERNET\RTL8139\protocol.ini</FONT><BR>
+に書かれている内容をそのままペーストしよう。基本的には<BR>
+<B>DriveName=RTSND$</B><BR>
+とだけ書けばよい。ところで、実際に今やってみたら<BR>
+<B>
+[ndishlp$]<BR>
+DriverName=ndishlp$<BR>
+Bindings=<BR>
+<BR>
+[protman$]<BR>
+DriverName=protman$<BR>
+priority=ndishlp$<BR>
+<BR>
+[data]<BR>
+version=v4.00.1111<BR>
+netcards=<BR>
+<BR>
+[NETBEUI$]<BR>
+sessions=10<BR>
+ncbs=12<BR>
+DriverName=NETBEUI$<BR>
+Lanabase=0<BR></B>
+がなぜか何度やっても挿入されてしまうのだが、c:\windows\protocol.iniの内容がそのまま挿入されてしまっていたようだ。
+</TD><TD>
+<TABLE BGCOLOR="A0A0FF" ALIGN=LEFT>
+<TR><TD>
+<B>変更前のprotocol.ini</B><BR><BR>
+[network.setup]<BR>version=0x3110<BR>
+netcard=ms$elnk,1,MS$ELNK,1<BR>
+transport=ms$ndishlp,MS$NDISHLP<BR>
+transport=ms$netbeui,MS$NETBEUI<BR>
+lana0=ms$elnk,1,ms$netbeui<BR>
+lana1=ms$elnk,1,ms$ndishlp<BR>
+<BR>
+[protman]<BR>
+DriverName=PROTMAN$<BR>
+PRIORITY=MS$NDISHLP<BR>
+<BR></TD></TR><TR><TD BGCOLOR="0000FF">
+<FONT COLOR="FFFFFF">
+[MS$ELNK]<BR>
+DriverName=ELNK$<BR>
+INTERRUPT=3<BR>
+IOADDRESS=0x300<BR>
+DMACHANNEL=none<BR>
+DMAMODE=burst<BR>
+MAXTRANSMITS=12<BR></FONT>
+<BR></TD></TR><TR><TD>
+[MS$NDISHLP]<BR>
+DriverName=ndishlp$<BR>
+BINDINGS=MS$ELNK<BR>
+<BR>
+[MS$NETBEUI]<BR>
+DriverName=netbeui$<BR>
+SESSIONS=10<BR>
+NCBS=12<BR>
+BINDINGS=MS$ELNK<BR>
+LANABASE=0<BR>
+
+</TD></TR></TABLE>
+</TD><TD>
+<TABLE BGCOLOR=A0A0FF ALIGN=RIGHT">
+<TR><TD>
+<B>変更後のprotocol.ini</B><BR><BR>
+[network.setup]<BR>version=0x3110<BR>
+netcard=ms$elnk,1,MS$ELNK,1<BR>
+transport=ms$ndishlp,MS$NDISHLP<BR>
+transport=ms$netbeui,MS$NETBEUI<BR>
+lana0=ms$elnk,1,ms$netbeui<BR>
+lana1=ms$elnk,1,ms$ndishlp<BR>
+<BR>
+
+[protman]<BR>
+DriverName=PROTMAN$<BR>
+PRIORITY=MS$NDISHLP<BR>
+<BR></TD></TR><TR><TD BGCOLOR="0000FF">
+<FONT COLOR="FFFFFF">
+[MS$ELNK]<BR>
+;<BR>
+; RTL8139 PROTOCOL.INI Sample<BR>
+;<BR>
+<BR>
+  DriverName = RTSND$<BR>
+</FONT>
+<BR></TD></TR><TR><TD>
+[MS$NDISHLP]<BR>
+DriverName=ndishlp$<BR>
+BINDINGS=MS$ELNK<BR>
+<BR>
+[MS$NETBEUI]<BR>
+DriverName=netbeui$<BR>
+SESSIONS=10<BR>
+NCBS=12<BR>
+BINDINGS=MS$ELNK<BR>
+LANABASE=0<BR>
+</TD></TR></TABLE>
+</TD></TR></TABLE> 
+<A NAME="#5"><BR><B><LI>動作テスト</B><BR></A>
+設定ファイルの変更が終わったら、再びcommand prompt onlyで起動しよう。そうすると、アカウントとパスワードを聞いてくるはずだ。もし接続先のコンピュータにアカウントとパスワードが必要ならば（たとえば、Windows NT Workstationや Windows NT Serverなど）、相手に登録しているアカウントをここで入力しよう。<BR>
+ログオンが完了したら、net use コマンドで、目的の共有を接続する。書式は、
+<blockquote><B>net use ドライブ名 \\コンピュータ名\共有名</B></blockquote>
+だ。例えば、コンピュータBASEの共有VOL1を覗く場合は、<BR>
+<B><I>net use L: \\base\vol1</I></B><BR>
+と入力すれば、L:ドライブに、相手のコンピュータのファイルが見えるはずである。
+</OL>
+<H3><LI>フロッピー一枚に収める</H3>
+<OL>
+<LI><B>まずフロッピー一枚をシステム付でフォーマットする。</B><BR>
+<blockquote><B>format a: /s</B></blockquote>
+<LI>次に、himem.sys をコピーしよう<BR>
+<blockquote><B>copy c:\windows\himem.sys a:</B></blockquote>
+<LI>次に、c:\netの中身をコピーする。<BR>
+まず、フロッピーにフォルダを作ろう。フォルダ名は何でもいい。
+<blockquote><B>mkdir a:\net</B></blockquote>
+この例ではA:\netというフォルダを作った。
+次にそのフォルダにファイルをコピーする。以下のファイルを全てコピーしよう。他のファイルは必要ない(はずだ…)
+<blockquote><B>PROTOCOL.INI<BR>
+PROTMAN.DOS<BR>
+PROTMAN.EXE<BR>
+NDISHLP.SYS<BR>
+NET.MSG<BR>
+NETH.MSG<BR>
+NET.EXE<BR>
+IFSHLP.SYS<BR>
+RTSND.DOS<BR>
+SYSTEM.INI<BR>
+WFWSYS.CFG<BR>
+</B></blockquote>
+<LI><B>system.iniファイルを変更する</B><BR>
+<TABLE><TR VALIGN=TOP><TD WIDTH=60%>
+system.ini中にドライバ群の位置を記述している場所がある。ここをフロッピーのコピーしたパスに変更する。今回は<B>a:\net</B>なので
+<blockquote><B>lanroot=C:\NET<BR>
+devroot=C:\net</B></blockquote>
+の二箇所を、これを、共に<BR>
+<blockquote><B>lanroot=A:\NET<BR>
+devroot=A:\net</B></blockquote>
+に変更しよう。
+</TD><TD>
+<TABLE BGCOLOR="A0A0FF" ALIGN=RIGHT WIDTH=240><TR><TD>
+[network]<BR>
+sizworkbuf=1498<BR>
+filesharing=no<BR>
+printsharing=no<BR>
+autologon=yes<BR>
+computername=USER<BR>
+</TD></TR>
+<TR BGCOLOR="000080"><TD><FONT COLOR="FFFFFF" >
+lanroot=A:\NET<BR>
+</FONT></TD></TR>
+<TR><TD>
+username=USER<BR>
+workgroup=WORKGROUP<BR>
+reconnect=yes<BR>
+dospophotkey=N<BR>
+lmlogon=0<BR>
+logondomain=WORKGROUP<BR>
+preferredredir=basic<BR>
+autostart=basic<BR>
+maxconnections=8<BR>
+<BR>
+[network drivers]<BR>
+netcard=elnk.dos
+transport=ndishlp.sys,*netbeui<BR>
+</TD></TR>
+<TR BGCOLOR="000080"><TD><FONT COLOR="FFFFFF" >
+devdir=A:\NET
+</FONT></TD></TR><TR><TD>
+LoadRMDrivers=yes<BR>
+<BR>
+[Password Lists]<BR>
+*Shares=C:\NET\Shares.PWL<BR>
+</TD></TR></TABLE>
+
+</TD></TR></TABLE>
+
+<LI><B>config.sysファイルを記述する。</B><BR>
+さし当たっては以下のように書いておけば十分だ。
+<blockquote><B>FILES=10<BR>
+BUFFERS=20<BR>
+device=a:\himem.sys<BR>
+device=a:\net\ifshlp.sys</B></blockquote>
+二行目のifshlp.sysの場所は、ファイル群をコピーした場所である。a:\netの部分は適時変更すること。<P>
+<LI><B>動作試験</B><BR>
+フロッピーディスクを挿入し起動したら、
+
+<blockquote>cd a:\net[enter]<BR>
+net start</blockquote>と入力する。無事ログオン要求が現れたら問題ない。後はnet useコマンドで目的の共有を接続すればよい。
+</OL>
+</OL>
+<A HREF="dosnet4.htm">次へ</A>
+</BODY>
+</HTML>

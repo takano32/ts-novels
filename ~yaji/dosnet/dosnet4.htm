@@ -1,0 +1,42 @@
+<HTML>
+<HEAD>
+<TITLE>DOSでネットワークを！</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+</HEAD>
+<BODY>
+<OL type=1 start=6> 
+<A NAME="#6">
+<H3><LI>主なネットワークカードのドライバ</H3></A>
+ここでは利用可能な主だったネットワークカードを列挙しよう。僕が独自に調査したものだ…
+<OL>
+<B><LI>Intel82557/82558/82559</B><BR>
+NECや富士通などのマシンによく使われているIntelの8255XのドライバはIntelのサイトに行けば入手することが可能だ。カード付属のドライバディスクにも添付されている。ファイル名は、e100b.dosである。<BR>
+<B><LI>3com 3C905/B/C</B><BR>
+ブランド物のネットワークカード3COMの3C905のドライバも3comのサイトに行けば落ちている。ファイル名はel90x.dosであるが、これに付属のprotocol.iniは間違っているので注意すること。<BR>
+<B>DriverName="el90x$"<BR></B>
+と記述されているが、<BR>
+<B>DriverName=el90x$<BR></B>
+が正解である。<BR>
+<B><LI>DEC21140/21143</B><BR>
+昔はLinuxで好んで使われたDEC2114xも今はインテルの持ち物となり、インテルのサイトに行けばNDIS2ドライバもダウンロードすることが出来る。NECのVersaProなどはこのチップを搭載したものもあるが、それらにも利用することが可能だ。もっとも21140のカードでもこのドライバでは動かなかったりする。添付のドライバを使うべし。<BR>
+<B><LI>NE2000</B><BR>
+NE2000は標準でドライバがついているので、それを利用するとよいだろう。いくつかのISAのカードでそのままで動作する。ただし、ISAのカードの場合は、protocol.iniを編集してカードのIRQとIOポートと、protocol.iniに記述されている設定値をそろえる必要がある。このPROTOCOL.INIの設定パラメータの書式は各カードによって異なるので、気をつけよう。ISAのカードの設定はやや難しい。A.I.BRAINのカードは一発で使えたし、MAP JAPANのPCMCIAのカードもこれで動いた<BR>
+<B><LI>Megaheltz XJ-10T</B><BR>
+MegaheltzのX-JACKを採用したPCMCIAのネットワークカードだが、これにもNDIS2のドライバは添付されており、3COMのサイトからダウンロードできる。PCMCIAのカードの場合は、カードサービス・ソケットサービスをインストールするか、カード付属のカードイネーブラで、まずカードを認識させる必要があるのと、ISAのネットワークカードと同じく、IRQとIOポートアドレスをきちんとあわせてやらないとちゃんと動作しない。これについては、また詳述する。<BR>
+<B><LI>Actton1207D</B><BR>
+某メーカー製のPCに付属していたもの。MXとロゴがあるチップを使ったもので、日本橋で最近出回っているWOL対応のカードはこれである。ACTTONのホームページからドライバはダウンロード可能。<BR>
+<B><LI>Realtek8139</B><BR>
+日本橋で買えるやすもんのカードは大抵これ。ドライバはRealtekのホームページからダウンロードできる。<BR>
+<B><LI>MELCO LGY-PCI-TXR</LI></B><BR>
+ドライバは添付されてないけど、動きます<BR>
+<B><LI>Linksys LNE100TX-V2</LI></B><BR>
+Linksysのオリジナルチップを積んだカード。ちゃんとLanManager用のドライバもついている。<BR>
+<B><LI>Corega corega FastEtherII CB-TX</LI></B><BR>
+DECの21143を内蔵している。本体にはCard Enablerもドライバも付属していないが、Intelのサイトから21143ジェネリックなドライバとイネーブラをダウンロードしてくれば、動作は可能である。<BR>
+<B><LI><A HREF="http://www.accton.co.jp">ACCTON</A> Cheeth Fast EtherCard-2230</LI></B><BR>
+ドライバをダウンロードしてみると、CardBus用のカードイネーブラと、NDIS2のドライバを付属していたため試しに購入してみたら全く問題なく使えた。若干高価だが、CardBusのNICでDriveImageが使えると思えば安いものだ。<BR>
+<B><LI><A HREF="http://www.xircom.co.jp">Xircom</A><A HREF="http://www.xircom.co.jp/products/access_card/credit/CBE2-100BTX.html">CardBus Ethernet II 10/100</A></LI></B><BR>
+このカードはなんと、カードイネーブラがNDIS2のドライバに組み込まれており、特別な努力を払わなくても、PCIのカードと同じようにインストールすれば使用可能である。定価が14500円と若干高いが、DOSでのネットワークで最適解は間違いなくこれだろう。<BR></OL>
+</OL>
+<A HREF="dosnet5.htm">次へ</A>
+</HTML>

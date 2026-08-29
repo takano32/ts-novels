@@ -1,0 +1,101 @@
+<HTML>
+<HEAD>
+<TITLE>DOSでネットワークを！</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+</HEAD>
+<BODY>
+<OL type=1 start=11> 
+<P>
+<A NAME="#11"><H3><LI>Network Client For DOSでいろいろ遊ぶ</H3></A>
+<OL>
+<B><FONT SIZE=+1><LI>Net logon コマンドの薦め</FONT></B><P>
+ところで説明が面倒なので、当たり前のようにNet startコマンドでログオンするように書いてきたが、僕はあのコマンドは冗長度が高すぎて、使っていない。個人的には、Net Logonコマンドの方がお勧めだ。<P>
+記述は Net logon [アカウント] [パスワード] [/savepw:no] [/y]<P>
+である。/savepw:noオプションは意味が良く分からないのだが、Net startにしても、Net logonにしても、パスワードを二回聞いてくるのだが、このオプションをつけると一回になる。<P>
+logon.batとか言う名前で、
+<blockquote>
+net logon %1 %2 /savepw:no /y
+</blockquote>
+などというファイルを作っておけば、<B>logon</B>と叩けば、アカウントとパスワードを一回聞いてくるだけでコトが済むので便利だと思う。<P>
+また、autoexec.batなどで、
+<blockquote>
+net logon hogehoge hogepass /savepw:no /y<BR>
+net use l: \\setuzokusakiPC\public /y
+</blockquote>
+とか書いておけば、勝手にログオンして勝手に接続をしにいくようになる。<P>
+ちなみに、<P>
+<blockquote>
+net logoff 
+</blockquote>
+とやれば、ログオフも出来る。接続先が変わったりとか、パスワードを打ち間違ったりしたときは、再起動せずにnet logoffとしよう。<P>
+<B><FONT SIZE=+1><LI>ADDDRVコマンドを使ってみる</FONT></B>
+<P>
+config.sysを見ると
+<blockquote>
+既存のconfig.sys(device=himem.sysなど)<BR>
+.<BR>
+device=c:\net\ifshlp.sys
+</blockquote>
+などと追加されているだけである。Network Client For DOSの場合は登録されているデバイスドライバはこれだけである。c:\windows\command\にある、<B>adddrv.exe</B>コマンドはキャラクタ型デバイスドライバをコマンドラインから追加するコマンドである。<BR>
+config.sysと同じような書式で、netdrv.sysというファイル名で、
+<blockquote>
+REM <B>File名:netdrv.sys</B>
+<BR>
+device=c:\net\ifshlp.sys
+</blockquote>
+などというファイルを作ってみる。ここで、adddrv.exeをパスの通っている場所に置いておき、
+<blockquote>
+adddrv netdrv.sys[ENTER]<BR>
+net start<BR>
+</blockquote>
+とコマンドラインから叩いてみると、問題なく接続できてしまう。<BR>
+<B><FONT SIZE=+1><LI>RAMDISKでの運用</FONT></B>
+<P>ADDDRVコマンドで、デバイスドライバをDOS起動後に読み込むことが可能ならば、RAMDISK上にドライバ群を置くことも可能なはずである。いろいろと事情があって、僕はRamdisk上にNetwork Client For DOSを展開していつも使っている。<P>
+まず、RAMDISKドライバそのものだが、<BR>
+<A HREF="http://www.vector.co.jp/soft/dos/hardware/se006044.html">http://www.vector.co.jp/soft/dos/hardware/se006044.html</A><BR>
+にあるものを利用している。このソフトウェアの有難いところは、
+<blockquote>
+<B>ドライブレターを自由に変更できる</B>
+</blockquote>
+ということだ。仕事柄たくさんの種類のパソコンを触るのだけれども、ドライブの構成なんでマシンによって異なる。普通のRAMDISKドライバは開いているドライブに勝手に割り当てていくが、これはオプションで容量とドライブレターを変更できるのだ。<P>
+まず、config.sysに
+<blockquote>
+<B> device=a:\xrdisk.exe -d:q -x:3072</B>
+</blockquote>
+と追加しよう。もちろん、<A HREF="http://www.vector.co.jp/soft/dos/hardware/se006044.html">xrdisk</A>の場所によって、<B>a:\xrdisk.exe</B>の部分は適時変えて欲しい。<B>-d</B>以下はxrdiskのオプションで、ここではドライブレターを<B>Q:</B>、RAMDISKのサイズを3072バイト(3Kbytes)に指定している。詳細は<A HREF="http://www.vector.co.jp/soft/dos/hardware/se006044.html">xrdisk</A>のドキュメントを読むべし。
+<P>
+次に、system.ini上の、フォルダのパスを指定しているところを、まず、<B>q:\net</B>などに変更してみる。
+<blockquote>
+<B>system.ini</B><BR>
+<TABLE BORDER=0><TR><TD BGCOLOR="DDFFFF">
+[network drivers]<BR>
+.<BR>
+devdir=q:\net<BR>
+[network]<BR>
+.<BR>
+lanroot=q:\net<BR>
+</TD></TR>
+</TABLE>
+</blockquote>
+後は、起動してファイルをQ:ドライブ(RAMDISK)にコピーしてみよう。
+<blockquote><B>
+mkdir q:\net<BR>
+copy a:\net\*.* q:\net<BR>
+q:<BR>
+cd q:\net<BR>
+adddrv q\net\netdrs.sys (device=q:\net\ifshlp.sysとか記述してあるファイル)<BR>
+net start<BR>
+</B></blockquote>
+で起動するはずだ。<P>
+全く持って余談だが、BIOSなどでハードディスクを殺して、config.sysに、
+<blockquote><B>
+device=a:\himem.sys
+device=a:\xrdisk.exe /d:c /x:3072
+device=a:\xrdisk.exe /d:q /x:3072
+</B></blockquote>
+などと記述したフロッピーディスクでMicrosoft Network Client For DOSをインストールすれば、ハードディスクを全く汚さずにMicrosoft Network Client For DOSのインストールが可能だったりする。実際、僕が使っているDiskはそうやって作ったものだ。なぜなら、我が家にはFAT/FAT32を使ったマシンがないので、こうするしか方法がなかたったのだ。(※)<P>
+</OL>
+<A HREF="index.htm">戻る</A><P>
+(※)実は以前使っていたLet'sNoteMini(AL-N4)が修理から帰ってきいて、こいつはWindows95マシンとして使われる予定なので、この限りではない。
+</OL>
+</HTML>

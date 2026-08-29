@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>僕の日常</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/" />
+    <link rel="self" type="application/atom+xml" href="http://www.novels.jp/~yaji/weblog/atom.xml" />
+   <id>tag:www.novels.jp,2006:/~yaji/weblog//1</id>
+    <link rel="service.post" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1" title="僕の日常" />
+    <updated>2006-08-11T09:25:39Z</updated>
+    
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type  3.2-ja-2</generator>
+ 
+<entry>
+    <title>靖国神社合祀</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/2006/08/post_3.html" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1/entry_id=9" title="靖国神社合祀" />
+    <id>tag:www.novels.jp,2006:/~yaji/weblog//1.9</id>
+    
+    <published>2006-08-11T09:21:30Z</published>
+    <updated>2006-08-11T09:25:39Z</updated>
+    
+    <summary>勝手に遺族を靖国神社に合祀するな、という裁判が起こされた。よく考えてみれば、これ...</summary>
+    <author>
+        <name>yaji</name>
+        
+    </author>
+    
+    <content type="html" xml:lang="ja" xml:base="http://www.novels.jp/~yaji/weblog/">
+        勝手に遺族を靖国神社に合祀するな、という裁判が起こされた。よく考えてみれば、これはキリスト者としては考えなければならないゆゆしき問題かもしれない。
+
+靖国神社というのは一個の独立した宗教法人である。そして、彼らの信教の自由は守られなければならない。とするならば、かれらが誰を英霊に定めようが、それは精神の自由の範囲内、ということになる。それは、我々が、キリスト教徒になんか祈って欲しくない、と思っている人に思いをはせるのと、同じことだ。
+
+自分の信教の自由に対するチェック機構が、身内贔屓になってることに気づかされたいっけんだった。
+        
+    </content>
+</entry>
+<entry>
+    <title>Socket AM2登場</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/2006/05/socket_am2_1.html" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1/entry_id=8" title="Socket AM2登場" />
+    <id>tag:www.novels.jp,2006:/~yaji/weblog//1.8</id>
+    
+    <published>2006-05-26T15:14:49Z</published>
+    <updated>2006-05-26T15:29:07Z</updated>
+    
+    <summary>AMDの新型Athlon64がそろった。DDR2対応で、出てきたマザーもそんなに...</summary>
+    <author>
+        <name>yaji</name>
+        
+    </author>
+    
+    <content type="html" xml:lang="ja" xml:base="http://www.novels.jp/~yaji/weblog/">
+        AMDの新型Athlon64がそろった。DDR2対応で、出てきたマザーもそんなに高くない。自作市場では長らく低発熱、低価格で快進撃を続けてきたらしいAMDだが、Coreアーキテクチャの登場で、その天下も長く続かないような気がしてたんだけど、Core2待てない人にはいいかもしんない。
+
+でも、メモリ買い替えは痛いな…
+手元のメモリうっぱらって、DDR2に買い換えようか？ソフマップあたりで…
+
+
+        
+    </content>
+</entry>
+<entry>
+    <title>VMWare Playerのイメージを作成する</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/2006/05/vmware_player.html" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1/entry_id=6" title="VMWare Playerのイメージを作成する" />
+    <id>tag:www.novels.jp,2006:/~yaji/weblog//1.6</id>
+    
+    <published>2006-05-20T15:00:13Z</published>
+    <updated>2006-05-20T16:11:35Z</updated>
+    
+    <summary>http://blog.yasaka.com/archives/2005/10/...</summary>
+    <author>
+        <name>yaji</name>
+        
+    </author>
+            <category term="PC談義" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://www.novels.jp/~yaji/weblog/">
+        http://blog.yasaka.com/archives/2005/10/vmware_playervi.html
+
+が、VMWare Playerでインストールしてこれを見て実行している人も多いんだろうけど、VMWare Serverを落としてきて、こいつの仮想イメージをVMWare Playerで動かすってのは、はやってないのかな？
+VMWare Toolsもインストールできるし(GuestがWindowsのときは動いた)、楽ちん。VMWare Server Betaを使っている人も多いかもしれないけど、だんちがいにVMware Playerの方が速いので、VMware Playerの使用をオススメするかなあ。
+        VMWare Server Betaのパフォーマンスは、Microsoft Virtual Server 2005 R2に遠く及ばない。でも、VMWare Playerはもっと軽い。悩ましいところだ。
+
+    </content>
+</entry>
+<entry>
+    <title>働く誇りは働かないと生まれない</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/2006/05/post_2.html" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1/entry_id=5" title="働く誇りは働かないと生まれない" />
+    <id>tag:www.novels.jp,2006:/~yaji/weblog//1.5</id>
+    
+    <published>2006-05-13T02:07:40Z</published>
+    <updated>2006-05-13T02:35:46Z</updated>
+    
+    <summary>ニートってのが問題になり始めたのはいつなのかは分からないけど、僕にはなんとなくニ...</summary>
+    <author>
+        <name>yaji</name>
+        
+    </author>
+            <category term="はたらくこと" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://www.novels.jp/~yaji/weblog/">
+        ニートってのが問題になり始めたのはいつなのかは分からないけど、僕にはなんとなくニートの心情っていうのが、なんとなくだけど、わかる。なにかやりたいことない？ないの、なにかあるでしょ、なにか？そんな感じで仕事につけ、って言われても、多分今は無理だと思う。
+
+昔は多分、仕事を選んでいる人なんか、そんなにいなかったんじゃないかな？僕は中学生のとき新聞配達をしてたんだけど、それはこんな感じで始まった。ある日晴天の霹靂のように、親が「明日から新聞を配りなさい」と言い出したわけですよ。そして、貯めたお金でパソコン買いなさい、って。
+正直僕はそこまでしてまでパソコンほしくなかったんだけど、とりあえず親のいうことなので、仕方がなく従った。とりあえず毎日寒さに耐えたらお金はもらえたし、実際それで潤ったしね。
+
+なんでいまさら僕がこんなことを言うのかというと、僕の両親の世代が、18歳になってさあ職を探すぞ、っていうのは、多分こんな感覚だったじゃないかな、ということ。したい仕事を選ぶんじゃなくて、お金がいる人にその人ができる仕事を割り当てられる。そうやって仕事をが割り当てられて、長く続けたらベテランになった。
+
+でも、今はニートに対して「これができるはずだからやれ」じゃなくて、「何がしたい？」というアプローチを取る。僕だって、いきなり何がしたいっていうアプローチを取られたら、途方にくれるだろう。18歳や19歳のワカゾーが職業に対する誇りをもつまでには、「オレだって社会に貢献できた」という確認からスタートしなければならなかったのではないかと、僕は思うのだ。
+
+となると、ニート支援の特効薬は、とりあえずはたかせてみること、だと思うわけですよ。
+でも、それができたら苦労しないんだよね、という話は次回にしてみます。
+        
+    </content>
+</entry>
+<entry>
+    <title>リッチなCPUパワーは世界をどう変えるのか？</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/2006/05/cpu.html" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1/entry_id=4" title="リッチなCPUパワーは世界をどう変えるのか？" />
+    <id>tag:www.novels.jp,2006:/~yaji/weblog//1.4</id>
+    
+    <published>2006-05-13T01:51:40Z</published>
+    <updated>2006-05-13T02:03:01Z</updated>
+    
+    <summary>デュアルコア、というか要はデュアルCPUのコンピュータが、向こう１～２年のパソコ...</summary>
+    <author>
+        <name>yaji</name>
+        
+    </author>
+    
+    <content type="html" xml:lang="ja" xml:base="http://www.novels.jp/~yaji/weblog/">
+        デュアルコア、というか要はデュアルCPUのコンピュータが、向こう１～２年のパソコンの標準形になろうとしている。パソコンのロードアベレージを取ったら、数パーセントにしかならないような状況で、２つもコアを積んでいったい何をさせるつもりなのかはさっぱり分からない。
+
+お仕事の上で、となると、実はいろいろと効果が見えている。最近、仮想環境を構築するいくつかのソフトウェアがフリーソフトになった。ノートパソコン1台に仮想環境をいくつか構築してデモに使う。たまにしか使わない環境は仮想環境にしておく。と、仮想環境関連でとっても使い道がある。開発者は、コンパイルが速くなって喜ぶかもしれない。そういうIT企業の技術おたくぐらいしかよろこびそうにない。
+
+ところが、営業が使うサブノートや、事務のおねえちゃんが使うデスクトップ、はてさて公民館においてあるフリースペースのパソコンがデュアル以上のコアになったといって、一体世界はどう変わるというのだろうか？さて1年後、どうなっていることやら。
+        
+    </content>
+</entry>
+<entry>
+    <title>コンピュータを買う二つの財布</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/2006/05/post_1.html" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1/entry_id=3" title="コンピュータを買う二つの財布" />
+    <id>tag:www.novels.jp,2006:/~yaji/weblog//1.3</id>
+    
+    <published>2006-05-13T01:37:01Z</published>
+    <updated>2006-05-13T01:51:23Z</updated>
+    
+    <summary>僕にとってコンピュータ、というのは、お仕事の支援という意味もある。もちろん、会社...</summary>
+    <author>
+        <name>yaji</name>
+        
+    </author>
+    
+    <content type="html" xml:lang="ja" xml:base="http://www.novels.jp/~yaji/weblog/">
+        僕にとってコンピュータ、というのは、お仕事の支援という意味もある。もちろん、会社の実業務をこなす、という意味じゃなくて、周辺知識を広げるためには、会社から支給される機材では足りない、ということ。会社がお金を使ってくれる部分と、自分がお金を払う部分のバランスをとりながら、やっていくことになるわけだ。手元資金に余裕があるわけじゃないけど、会社でずっと遊んでいるのもなんなんので、厳しいところなのである。
+
+昨年末にノートパソコンを新調したんだけど、半年待ってみればよかったかなあ、と思わないこともなかったりとか。でも、15万円が予算のギリギリで、15万で買えるモバイルノートPCなら、今使っているのと同じぐらいのスペックになっちゃうので、だったら待たなくてよかったと思ったりもする。
+一応、昔みたいに出先でソースを書いたり、テスト動作をさせてみたり、とかいう用途を考えてみたんだけど、たったと家に帰ってきて、テレビでも見ながら作業をしたほうが効率がよく、そういう選択をすることが多いので、普段使いに特化しておいてよかったのかもね。
+
+そうこうしているうちに、会社のPCの更新がやってくることになって、CoreDuoのX60になることがほぼ確定したみたいだ。そうなると、仮想環境を使った検証作業は、家に持ち帰った会社の機材でやればいいことになる。なんせ、自宅のAthlonと、CoreDuoの1.66GHz×2のどっちが速い、といえば言うまでもない。自分のスキルをどのように、どう伸ばしていくのか、ということもあわせて、いろいろ考えるところは多いんだけど、考えていても何もならないので、前進あるのみ、かな。
+        
+    </content>
+</entry>
+<entry>
+    <title>かぜをひいたか？</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/2006/05/post.html" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1/entry_id=2" title="かぜをひいたか？" />
+    <id>tag:www.novels.jp,2006:/~yaji/weblog//1.2</id>
+    
+    <published>2006-05-08T05:25:03Z</published>
+    <updated>2006-05-08T05:27:30Z</updated>
+    
+    <summary>風邪をひいたのか、熱があがったり下がったりしている。 長期休暇明けで体調を崩すと...</summary>
+    <author>
+        <name>yaji</name>
+        
+    </author>
+            <category term="いつものできごと" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://www.novels.jp/~yaji/weblog/">
+        風邪をひいたのか、熱があがったり下がったりしている。
+長期休暇明けで体調を崩すというのは、プロ失格かなあ、と思ったり。
+昨日は、妻が水餃子を作ってくれた。水餃子、野菜と豚肉がたくさん入ってて栄養失調にはもってこいなのです。熱を出してうなされている僕に文句を言うこともなく、食事を作ってくれた妻に感謝。
+        
+    </content>
+</entry>
+<entry>
+    <title>Movable Typeをおいてみた</title>
+    <link rel="alternate" type="text/html" href="http://www.novels.jp/~yaji/weblog/2006/05/movable_type.html" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.novels.jp/~yaji/blog/mt-atom.cgi/weblog/blog_id=1/entry_id=1" title="Movable Typeをおいてみた" />
+    <id>tag:www.novels.jp,2006:/~yaji/weblog//1.1</id>
+    
+    <published>2006-05-07T02:16:55Z</published>
+    <updated>2006-05-07T02:27:57Z</updated>
+    
+    <summary>やっぱり、うちのマシンだと重いのかな？ とちょっと気弱になってみる。...</summary>
+    <author>
+        <name>yaji</name>
+        
+    </author>
+            <category term="いつものできごと" />
+    
+    <content type="html" xml:lang="ja" xml:base="http://www.novels.jp/~yaji/weblog/">
+        やっぱり、うちのマシンだと重いのかな？
+とちょっと気弱になってみる。
+        
+    </content>
+</entry>
+
+</feed> 
+
