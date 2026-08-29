@@ -46,6 +46,8 @@ def exists(repopath):
         return True
     if os.path.isdir(p):
         return True  # dir link without trailing slash
+    if '.' not in os.path.basename(p) and os.path.isfile(p + '.html'):
+        return True  # extensionless route; GitHub Pages serves <p>.html
     return False
 
 def toptree(rel):

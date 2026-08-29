@@ -39,6 +39,11 @@ def candidates_for(target):
         cands.add('www2.sts.co.jp/' + target)
     if target.startswith('~yays/') and not target.startswith('~yays/library/'):
         cands.add('~yays/library/' + target[len('~yays/'):])
+    if '〜' in target:
+        cands.add(target.replace('〜', '~'))
+    m = re.match(r'^(.*)@[a-z0-9]+_(\.(?:cgi|html?))$', target)
+    if m:  # empty-value query variant (?dm= / ?ran=) -> base CGI default view
+        cands.add(m.group(1) + m.group(2))
     if '_amp_' in target:
         cands.add(target.replace('_amp_', '_'))
     if 'charset_UTF-8' in target:

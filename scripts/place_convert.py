@@ -48,12 +48,14 @@ def place(stage):
                 continue
             sp = os.path.join(dirpath, fn)
             rel = os.path.relpath(sp, stage)
+            rel = rel.replace('amp;', 'amp_').replace(',', '_').replace(';', '_')
             dst = os.path.join(ROOT, rel)
-            if os.path.exists(dst):
+            if os.path.exists(dst) or ('.' not in os.path.basename(rel)
+                                       and os.path.isfile(dst + '.html')):
                 skipped += 1
                 continue
             data = open(sp, 'rb').read()
-            if is_error_stub(data, rel):
+            if len(data) < 10 or is_error_stub(data, rel):
                 stubs += 1
                 continue
             try:

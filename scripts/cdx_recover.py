@@ -58,7 +58,8 @@ def mangle(top, path, query):
             ext = '.' + ext
         else:
             stem, ext = base, ''
-        q = unquote(query).replace('%', '').replace('=', '_').replace('&', '_')
+        # repo convention: keep %-escapes as bare hex (no unquote), strip '%'
+        q = query.replace('%', '').replace('=', '_').replace('&', '_')
         q = q.replace('/', '_')
         rp = os.path.join(d, f'{stem}@{q}{ext}')
     rp = os.path.normpath(rp)
