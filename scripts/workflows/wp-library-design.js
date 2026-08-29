@@ -7,13 +7,12 @@ export const meta = {
     { title: 'Synthesize', detail: '勝者ベースの統合設計' },
   ],
 }
-const survey = JSON.stringify(args.survey)
 const BRIEF = `# 課題
 閉鎖TS小説サイト「少年少女文庫」(1999-2021, 復元ミラー /home/takano32/GitHub/ts-novels, GitHub Pages で静的公開中) を
 WordPress 上の「モダンで体系的な作品ライブラリ」として設計する。個人運営(takano32)、非営利の資料保存目的。
 
 # 事前調査の結果 (8視点の実測データ)
-${survey}
+まず必ず ${args.surveyPath} を Read し、8視点調査(目録スキーマ・作品モデル・分類語彙・作者・コミュニティ層・世代構造・本文形式・権利/運用)の実測データを全て把握してから設計せよ。ファイルは大きいので分割して読むこと。
 
 # 設計に必ず含める項目
 1. コンテンツモデル: 投稿タイプ/階層(作品・話・シリーズ)、タクソノミー設計(ジャンル/種別/キーワード/作者/世代)、post meta (原URL・出典アーカイブ・回収経路・当時の日付/サイズ)
