@@ -154,7 +154,7 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=3 color=#606060>【推薦文】特殊機構「ハンター」では、人間災害と称される華代ちゃんの被害に遭遇した一人の少女。その中でも現場復帰した彼(女)は、彼女を元の姿に戻してやった。だが、まあ、可哀想な羽目に………。<br>
 <br>
 <a href="../../novel/kayo_chan/extra/kayo_ex07.html" target=_top>http://ts.novels.jp/novel/kayo_chan/extra/kayo_ex07.html</a><br>
-順番に、<B>原田聖也</B>さん<B><a href="http://www.novels.jp:80/novel/kayo_chan/kayo_chan13.html">【固茹はこちら】</a>→</B><B>真城　悠</B>さん、<B><a href="http://www.novels.jp:80/novel/kayo_chan/extra/kayo_ex03.html">【ハンター<font size=-2>(追跡者)</font>はこちら】</a>→<a href="http://www.novels.jp:80/novel/kayo_chan/extra/kayo_ex06.htm">【セカンド・チャンスはこちら】</a></B></font>
+順番に、<B>原田聖也</B>さん<B><a href="../../novel/kayo_chan/kayo_chan13.html">【固茹はこちら】</a>→</B><B>真城　悠</B>さん、<B><a href="../../novel/kayo_chan/extra/kayo_ex03.html">【ハンター<font size=-2>(追跡者)</font>はこちら】</a>→<a href="../../novel/kayo_chan/extra/kayo_ex06.htm">【セカンド・チャンスはこちら】</a></B></font>
 </td></table>
 </td></tr></table>
 

@@ -105,7 +105,7 @@ link<input type=checkbox name="link" value="1" checked>
 &lt;font size="-1"&gt;&lt;a href="../../library.html"&gt;戻る&lt;/a&gt;&lt;/font&gt;&lt;br&gt;
 
 ・感想はこちら
-&lt;!-- &lt;p align="center"&gt;&lt;strong&gt;□　&lt;a href="http://www.novels.jp:80/cgi-bin/kansou.cgi"&gt;感想はこちらに&lt;/a&gt;　□&lt;/strong&gt;&lt;/p&gt; --&gt;
+&lt;!-- &lt;p align="center"&gt;&lt;strong&gt;□　&lt;a href="../../cgi-bin/kansou.cgi"&gt;感想はこちらに&lt;/a&gt;　□&lt;/strong&gt;&lt;/p&gt; --&gt;
 
 また、投稿された作品にない場合は、掲載時に追加します。
 

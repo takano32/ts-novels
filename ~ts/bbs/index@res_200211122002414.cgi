@@ -58,7 +58,7 @@ link<input type=checkbox name="link" value="1" checked>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#000000>毎年イブの夜は、教会でオルガンを弾いていたのですが、今年はどうしても仕事が抜けられず、PM８：３０まで、現場でお仕事していました。その後で、晩御飯を食べにいって、おうちに着いたのは１１時前ぐらいだったのですが、みなさんはどんなイブでしたか？<br>
 イブが終わればもうすぐ新年。あわただしくなってきますが、くれぐれも気をつけてください。</font>
-<p><div align=left><a href="http://www.novels.jp/~yaji/" target="_top">http://www.novels.jp/~yaji/</a></div>
+<p><div align=left><a href="../../~yaji/index.html" target="_top">http://www.novels.jp/~yaji/</a></div>
 </td></table>
 </td></tr></table>
 

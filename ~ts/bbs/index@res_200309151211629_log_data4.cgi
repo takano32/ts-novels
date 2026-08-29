@@ -246,7 +246,7 @@ FrontPageで文章の入力・編集しています。<br>
 <font size=3 color=#606060>　kou@運営委員です。<br>
 <br>
 　ところで、皆様お気づきでしょうか。<br>
-<a href="../../cgi-bin/manage2@ran_.cgi" target=_top>http://ts.novels.jp/cgi-bin/manage2.cgi?ran</a><br>
+<a href="../../cgi-bin/manage2.cgi" target=_top>http://ts.novels.jp/cgi-bin/manage2.cgi?ran</a><br>
 　ランダム機能です。なんか、おもしろい作品にぶち当たるかもしれません。新しい世界へレッツごぉ〜</font>
 </td></table>
 </td></tr></table>

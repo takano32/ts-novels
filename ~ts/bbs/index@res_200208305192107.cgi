@@ -245,7 +245,7 @@ T・Hさん<br>
 <br>
 お好きに使ってください。<br>
 あれだったら、MLや掲示板も作るので必要ならいつでもどうぞ。</font>
-<p><div align=left><a href="http://www.novels.jp/~yaji/" target="_top">http://www.novels.jp/~yaji/</a></div>
+<p><div align=left><a href="../../~yaji/index.html" target="_top">http://www.novels.jp/~yaji/</a></div>
 </td></table>
 </td></tr></table>
 

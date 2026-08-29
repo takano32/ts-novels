@@ -216,7 +216,7 @@ link<input type=checkbox name="link" value="1" checked>
 ＞をｗ）　作者別インデックスから、１だけを拝読していました）</font><br>
 <br>
 作者名で作品検索を行うと、ほとんどの人の場合はその人の書いた全作品が拾えます。</font>
-<p><div align=left><a href="http://www.novels.jp/~yaji/" target="_top">http://www.novels.jp/~yaji/</a></div>
+<p><div align=left><a href="../../~yaji/index.html" target="_top">http://www.novels.jp/~yaji/</a></div>
 </td></table>
 </td></tr></table>
 

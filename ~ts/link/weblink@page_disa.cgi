@@ -8,15 +8,15 @@
 <table width=85% border=0 cellpadding=20><tr>
 <td align=center bgcolor=#FFFFFF>
 <table border=3 cellpadding=5><tr>
-<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>■<a href=./weblink.cgi?link=new&p=1>新着サイト</a>■
-■<a href="../../index.html">少年少女文庫に戻る</a>■ ■<a href=./weblink.cgi?page=add>LINK登録</a>■
-■<a href=./weblink.cgi?page=disa>変更/削除</a>■
+<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>■<a href=weblink@link_new_p_1.cgi>新着サイト</a>■
+■<a href="../../index.html">少年少女文庫に戻る</a>■ ■<a href=weblink@page_add.cgi>LINK登録</a>■
+■<a href=weblink@page_disa.cgi>変更/削除</a>■
 ■<a href=./weblink.html>登録の決まり</a>■
 </b></font></td></tr></table></td></tr>
 <tr><td align=center bgcolor="#EEFFFF">
 <table width=90% cellpadding=15>
 <tr><td bgcolor="#FFFFEF" nowrap>
-<form action=./weblink.cgi?db= method=POST>
+<form action=weblink.cgi method=POST>
 <input type=hidden name=page value="disb">
 <center><b>変更又は、削除するＵＲＬとパスワードを記入して下さい。</b></center>
 <p>■ ホームページＵＲＬ：<input type=text size=30 name="hpdis" value="http://"></p>

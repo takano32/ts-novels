@@ -132,7 +132,7 @@ E-Mail(任意)
 </td></tr></table>
 </center>
 <br><br>
-<a href=./bbs.cgi?log=2003121121>
+<a href=bbs@log_2003121121.cgi>
 <<戻る</a>
 <hr>
 <table border cellspacing=3 align=center>

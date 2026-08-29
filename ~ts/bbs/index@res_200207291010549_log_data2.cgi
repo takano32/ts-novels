@@ -130,7 +130,7 @@ OPERAは新規タブで開く時は引き継がない仕様のようです。<br
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=4 color=#303030>アクセスが減ってる。<br>
 コミケ＆帰省のせいかな？</font>
-<p><div align=left><a href="http://www.novels.jp/~yaji/" target="_top">http://www.novels.jp/~yaji/</a></div>
+<p><div align=left><a href="../../~yaji/index.html" target="_top">http://www.novels.jp/~yaji/</a></div>
 </td></table>
 </td></tr></table>
 

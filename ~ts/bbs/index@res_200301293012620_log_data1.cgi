@@ -192,7 +192,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>書かなかった私も悪いのですが、作品へのリンクも入れてあげてください。</font>
-<p><div align=left><a href="http://www.novels.jp/~yaji/" target="_top">http://www.novels.jp/~yaji/</a></div>
+<p><div align=left><a href="../../~yaji/index.html" target="_top">http://www.novels.jp/~yaji/</a></div>
 </td></table>
 </td></tr></table>
 

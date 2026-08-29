@@ -8,9 +8,9 @@
 <table width=85% border=0 cellpadding=20><tr>
 <td align=center bgcolor=#FFFFFF>
 <table border=3 cellpadding=5><tr>
-<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>■<a href=./weblink.cgi?link=new&p=1>新着サイト</a>■
-■<a href="../../index.html">少年少女文庫に戻る</a>■ ■<a href=./weblink.cgi?page=add>LINK登録</a>■
-■<a href=./weblink.cgi?page=disa>変更/削除</a>■
+<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>■<a href=weblink@link_new_p_1.cgi>新着サイト</a>■
+■<a href="../../index.html">少年少女文庫に戻る</a>■ ■<a href=weblink@page_add.cgi>LINK登録</a>■
+■<a href=weblink@page_disa.cgi>変更/削除</a>■
 ■<a href=./weblink.html>登録の決まり</a>■
 </b></font></td></tr></table></td></tr>
 <tr><td align=center bgcolor="#EEFFFF">
@@ -19,7 +19,7 @@
 <input type=hidden name=semode value="wl0008">
 <input type=text size=20 name=search value="">
 <input type=submit value="　分別検索　"></form>
-<form action=./weblink.cgi?dm= method=POST>
+<form action=weblink.cgi method=POST>
 <input type=hidden name=page value="dispend">
 <input type=hidden name=masdel value="on">
 <table width=90% border=0 cellspacing=1 cellpadding=5><tr>

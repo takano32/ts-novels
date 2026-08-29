@@ -129,7 +129,7 @@ link<input type=checkbox name="link" value="1" checked>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
 <font size=3 color=#606060>【推薦文】キーボードにお茶こぼしても、ＨＤさえ無事なら……って、そうぢゃないっ！（笑）<br>
-<a href="../../novel/novel/rainbow/ruark.htm" target=_top>http://ts.novels.jp/novel/novel/rainbow/ruark.htm</a></font>
+<a href="../../novel/rainbow/ruark.htm" target=_top>http://ts.novels.jp/novel/novel/rainbow/ruark.htm</a></font>
 </td></table>
 </td></tr></table>
 

@@ -88,7 +88,7 @@ link<input type=checkbox name="link" value="1" checked>
 <font size=4 color=#606060>急な引越しで驚いた方もおられるかもしれませんが、この度少年少女文庫の運営責任をYaysさんから私、矢治浩平に譲り受けることになりました。<br>
 とはいえ、別に文庫をどうこうするつもりはなくて、少年少女文庫の今後の運営についてベストは何か、ということとYaysさんと協議した結果、私の方に一本化したほうがよいだろう、という合意するに至りました。<br>
 スポンサーが変わりましたが、今後ともよろしくお願いいたします。文庫に対するご意見等は、今までと同じく<a href=mailto:admin@ts.novels.jp>admin@ts.novels.jp</a>で承りますので、よろしくお願いいたします。</font>
-<p><div align=left><a href="http://www.novels.jp/~yaji/" target="_top">http://www.novels.jp/~yaji/</a></div>
+<p><div align=left><a href="../../~yaji/index.html" target="_top">http://www.novels.jp/~yaji/</a></div>
 </td></table>
 </td></tr></table>
 

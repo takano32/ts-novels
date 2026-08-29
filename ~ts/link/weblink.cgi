@@ -8,9 +8,9 @@
 <table width=85% border=0 cellpadding=20><tr>
 <td align=center bgcolor=#FFFFFF>
 <table border=3 cellpadding=5><tr>
-<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>■<a href=./weblink.cgi?link=new&p=1>新着サイト</a>■
-■<a href="../../index.html">少年少女文庫に戻る</a>■ ■<a href=./weblink.cgi?page=add>LINK登録</a>■
-■<a href=./weblink.cgi?page=disa>変更/削除</a>■
+<td align=center bgcolor=#FFEEFF nowrap><font color="#FF0000"><b>■<a href=weblink@link_new_p_1.cgi>新着サイト</a>■
+■<a href="../../index.html">少年少女文庫に戻る</a>■ ■<a href=weblink@page_add.cgi>LINK登録</a>■
+■<a href=weblink@page_disa.cgi>変更/削除</a>■
 ■<a href=./weblink.html>登録の決まり</a>■
 </b></font></td></tr></table></td></tr>
 <tr><td align=center bgcolor="#EEFFFF">
@@ -20,23 +20,23 @@
 <font size=2>データー総数71件、「<font color="ffffaa">■</font>」は14日以内のニューサイト有り</font><br>
 <table width=90% cellpadding=3>
 <tr><th nowrap colspan=6 bgcolor="#DDFFDD">カテゴリー</th>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0001&p=1>小説全般</a></th><td align=center width=5%>(25)</td>
-<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0002&p=1>シェアワールド</a></th><td align=center width=5%>(1)</td></tr>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0003&p=1>SF系</a></th><td align=center width=5%>(3)</td>
-<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0004&p=1>ファンタジー</a></th><td align=center width=5%>(5)</td></tr>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0005&p=1>二次著作物系</a></th><td align=center width=5%>(4)</td>
-<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0006&p=1>リレー小説</a></th><td align=center width=5%>(2)</td></tr>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0007&p=1>画像系</a></th><td align=center width=5%>(7)</td>
-<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0008&p=1>小説登録,評論,情報系</a></th><td align=center width=5%>(3)</td></tr>
-<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0009&p=1>TS系全般</a></th><td align=center width=5%>(12)</td>
-<td align=center width=5%><font color="333333"></font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wl0010&p=1></a></th><td align=center width=5%></td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0001_p_1.cgi>小説全般</a></th><td align=center width=5%>(25)</td>
+<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0002_p_1.cgi>シェアワールド</a></th><td align=center width=5%>(1)</td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0003_p_1.cgi>SF系</a></th><td align=center width=5%>(3)</td>
+<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0004_p_1.cgi>ファンタジー</a></th><td align=center width=5%>(5)</td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0005_p_1.cgi>二次著作物系</a></th><td align=center width=5%>(4)</td>
+<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0006_p_1.cgi>リレー小説</a></th><td align=center width=5%>(2)</td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0007_p_1.cgi>画像系</a></th><td align=center width=5%>(7)</td>
+<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0008_p_1.cgi>小説登録,評論,情報系</a></th><td align=center width=5%>(3)</td></tr>
+<tr bgcolor="#EEFFEE"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0009_p_1.cgi>TS系全般</a></th><td align=center width=5%>(12)</td>
+<td align=center width=5%><font color="333333"></font></td><th nowrap width=40%><a class=2 href=weblink@karte_wl0010_p_1.cgi></a></th><td align=center width=5%></td></tr>
 <tr><th nowrap colspan=6><br>　</br></th>
 <tr><th bgcolor="#FFFF88" nowrap colspan=6>少年少女文庫、オススメリンク！</th>
-<tr bgcolor="#FFFFEF"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wlm0001&p=1>お勧めサイト</a></th><td align=center width=5%>(2)</td>
-<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=./weblink.cgi?karte=wlm0002&p=1>運営委員のWebページ</a></th><td align=center width=5%>(1)</td></tr>
+<tr bgcolor="#FFFFEF"><td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wlm0001_p_1.cgi>お勧めサイト</a></th><td align=center width=5%>(2)</td>
+<td align=center width=5%><font color="333333">■</font></td><th nowrap width=40%><a class=2 href=weblink@karte_wlm0002_p_1.cgi>運営委員のWebページ</a></th><td align=center width=5%>(1)</td></tr>
 </table>
 <br><hr>
-<form action=./weblink.cgi?ma= method=POST>
+<form action=weblink.cgi method=POST>
 <input type=hidden name=page value="add">
 <input type=hidden name=mk value="1">
 <input type=password name=maskey>

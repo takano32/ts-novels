@@ -206,7 +206,7 @@ User-agent: *<br>
 Disallow: /~ts/<br>
 <br>
 　この仕様に対応しているロボットは、ちゃんと巡回を停止してくれるはずです。<br>
-　でも、<a href=http://www.novels.jp/ target=_top>http://www.novels.jp/</a> の直下におかないといけないんだよなぁ。</font>
+　でも、<a href=../../index.html target=_top>http://www.novels.jp/</a> の直下におかないといけないんだよなぁ。</font>
 </td></table>
 </td></tr></table>
 

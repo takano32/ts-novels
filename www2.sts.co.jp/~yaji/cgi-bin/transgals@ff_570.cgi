@@ -10,7 +10,7 @@
 <h3><hr size=3>
 《↑前のページあり》
 <FONT SIZE=6>[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=form" >投稿(修正)する</a>]</FONT>
- [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi">更新</a>]
+ [<a href="transgals.cgi">更新</a>]
 [<a href="http://www2k.meshnet.or.jp/~yaji/" target="_top">終了</a>]
 [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=rm&ff=570">削除</a>]
 <hr size=3></h3><p>
@@ -499,7 +499,7 @@ MONDOさんから、絵がまた送られてきました。<br>
 </pre>
 <p>
 </blockquote>
-<br><h4><hr size=3>[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=form">投稿/修正する</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi">更新</a>] [<a href="http://www2k.meshnet.or.jp/~yaji/" target="_top">終了</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=rm&ff=570">削除</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?ff=1170">↓次のページ</a>] <hr size=3></h3>
+<br><h4><hr size=3>[<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=form">投稿/修正する</a>] [<a href="transgals.cgi">更新</a>] [<a href="http://www2k.meshnet.or.jp/~yaji/" target="_top">終了</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=rm&ff=570">削除</a>] [<a href="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?ff=1170">↓次のページ</a>] <hr size=3></h3>
 <h5 align=right><a href="http://www.rescue.ne.jp/" target="_top"><img src="http://www2.sts.co.jp/~yaji/cgi-bin/transgals.cgi?cmd=copyright" border=0 alt="MiniBBS2 v1.32"></a></h4>
 </body></html>
 

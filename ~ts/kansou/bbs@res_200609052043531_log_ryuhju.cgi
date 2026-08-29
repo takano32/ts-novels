@@ -108,7 +108,7 @@ link<input type=checkbox name="link" value="1" checked>
 <td nowrap align=right><font size=3>　<a href="bbs@res_200606294190104_log_ryuhju.cgi">返信</a>　削除<input type=checkbox name="target" value="200606294190104"></font>
 </td></table>
 <table border=0 cellpadding=16 cellspacing=0 width=100%><td>
-<font size=3 color=#606060>【推薦文】姉はやはり強かった！　ぜひ<strong><a href="novel/200112/18230553/ekaki_1.html">「ある絵描きの独白」</a></strong>を読んでからどうぞ。<br>
+<font size=3 color=#606060>【推薦文】姉はやはり強かった！　ぜひ<strong><a href="../../novel/200112/18230553/ekaki_1.html">「ある絵描きの独白」</a></strong>を読んでからどうぞ。<br>
 <br>
 <a href="../../novel/200112/18230553/ekaki_2.html" target=_top>http://ts.novels.jp/novel/200112/18230553/ekaki_2.html</a></font>
 </td></table>

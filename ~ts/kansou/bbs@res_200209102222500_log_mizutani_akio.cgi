@@ -115,7 +115,7 @@ link<input type=checkbox name="link" value="1" checked>
 <br>
 引っ越し前のURI<br>
 <br>
-<a href=../../~ezpe/cgi-bin/noteky/noteky@c_noteread_amp_f_11_amp_id_972049183tvgrry_amp_ff_on.cgi target=_top>../../~ezpe/cgi-bin/noteky/noteky@c_noteread_amp_f_11_amp_id_972049183tvgrry_amp_ff_on.cgi</a><br>
+<a href=../../~ezpe/cgi-bin/noteky/noteky@c_noteread_f_11_id_972049183tvgrry_ff_on.cgi target=_top>../../~ezpe/cgi-bin/noteky/noteky@c_noteread_amp_f_11_amp_id_972049183tvgrry_amp_ff_on.cgi</a><br>
 <br>
 に寄せられたみなさんの読後感想のリキ入っていることも強く印象に残ってます。<br>
 <br>

@@ -375,7 +375,7 @@
 </table></a><br>
 <table border="0" width="100%">
 <tr>
-<td  bgcolor="#00FFCC"><strong><a href="http://www.novels.jp" target="_blank">矢治浩平</a></strong>  <i>2001/07/13 00:45:09</i><br></td>
+<td  bgcolor="#00FFCC"><strong><a href="../../../index.html" target="_blank">矢治浩平</a></strong>  <i>2001/07/13 00:45:09</i><br></td>
 <td bgcolor="#00CCFF" width="10%" align="center" nowrap>
 <a href="noteky@c_notemenu_f_11_id_994952709hnhpq_id2_952319635oiang_ff_on.cgi">APPEND 36</a></td></tr>
 <tr bgcolor="#CCFFFF">
