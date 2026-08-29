@@ -27,7 +27,7 @@
 
 <TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="../novel/dirty/angel10.html">D.A.：愛していた</a></B></TD><TD><B>水谷秋夫</B> さん </TD><TD>(イラストなし)</TD><TD>2003/1/11(土)</TD><TD>46KB</TD><TD BGCOLOR="#E0D0C0"><A href="../~ts/kansou/bbs@log_d_angel.cgi">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>鏡桐香に依頼されて仕事を始めた病院で、ダーティーエンジェル・白帆真澄はかつて自分が男性だった頃の恋人に再会した。<BR><B>【コメント】 </B>題名と冒頭とラストは声に出して読めない日本語です。決して音読なさらぬよう、お願いいたします。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B>かつての、頭の片隅に押し込んだ記憶が蘇る。その時、“ダーティーエンジェル”は何を思ったのだろうか——
 <BR>
-<B><A HREF="share_world.html#d_a_">【ダーティーエンジェル　シェアワールド詳細はこちら】</A></B></TD></TR><TR><TD COLSPAN=6>【ジャンル】 現代 職業 恋愛 <BR>【種別】 変身 医術 薬品<BR>【キーワード】 ダーティーエンジェル</TD></TR></TABLE><BR><BR><BR>
+<B><A HREF="../share_world.html#d_a_">【ダーティーエンジェル　シェアワールド詳細はこちら】</A></B></TD></TR><TR><TD COLSPAN=6>【ジャンル】 現代 職業 恋愛 <BR>【種別】 変身 医術 薬品<BR>【キーワード】 ダーティーエンジェル</TD></TR></TABLE><BR><BR><BR>
 
 <TABLE BORDER=1 WIDTH="100%"><TR><TD><B><A href="../novel/kayo_chan/extra/kayo_ex11.htm">華代ちゃんシリーズ番外編 「ハンター科学班」</a></B></TD><TD><B>水谷秋夫</B> さん </TD><TD>(イラストなし)</TD><TD>2002/10/23(水)</TD><TD>23KB</TD><TD BGCOLOR="#E0D0C0"><A href="../~ts/kansou/bbs@log_kayo_chan.cgi">感想</a></TD></TR><TR><TD COLSPAN=6><B>【あらすじ】 </B>真城華代の能力を解き明かさんと、ハンター科学班が発足した。<BR><B>【コメント】 </B>無理を承知で、華代ちゃんを科学してみました。<BR></TD></TR><TR><TD COLSPAN=6><B>【推薦文】 </B>「理屈と膏薬はどこにでもつく」と言いますが、はてさて……<BR>
 <a href="../novel/kayo_chan/index.html"><strong>【華代ちゃんシリーズタイトルはこちら】</strong></a></TD></TR><TR><TD COLSPAN=6>【ジャンル】 その他（科学） <BR>【種別】 変身<BR>【キーワード】 華代ちゃん番外編</TD></TR></TABLE><BR><BR><BR>

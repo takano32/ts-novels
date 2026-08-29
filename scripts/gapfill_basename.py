@@ -48,6 +48,8 @@ def main(missing_json, apply=False):
         bn = os.path.basename(t).lower()
         if not bn or '@' in bn:
             continue
+        if os.path.isfile(os.path.join(ROOT, bn)):
+            continue  # site-chrome page (library.html etc.) — handled by fix_links
         cands = idx.get(bn, [])
         # de-dup identical content
         uniq = {}

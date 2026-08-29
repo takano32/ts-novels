@@ -39,11 +39,18 @@ def candidates_for(target):
         cands.add('www2.sts.co.jp/' + target)
     if target.startswith('~yays/') and not target.startswith('~yays/library/'):
         cands.add('~yays/library/' + target[len('~yays/'):])
+    if target.startswith('~yays/library/novel/'):
+        cands.add('~yays/library/' + target[len('~yays/library/novel/'):])
     if '〜' in target:
         cands.add(target.replace('〜', '~'))
     m = re.match(r'^(.*)@[a-z0-9]+_(\.(?:cgi|html?))$', target)
     if m:  # empty-value query variant (?dm= / ?ran=) -> base CGI default view
         cands.add(m.group(1) + m.group(2))
+    bn = os.path.basename(target)
+    if '/' in target and re.match(
+            r'^(library|lib[-\w]*|boshuu|feedback|introduction|entrance|headline|'
+            r'share_world|bunrui|genre|series|novels?|link\d*)\.(html?|shtml)$', bn):
+        cands.add(bn)  # site-chrome page: point at the root copy
     if '_amp_' in target:
         cands.add(target.replace('_amp_', '_'))
     if 'charset_UTF-8' in target:
