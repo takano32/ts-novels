@@ -135,14 +135,6 @@
    "novel/200707/14133526/labo.htm"
   ]
  },
- "~yays/library/novel/akira_kun/akira03.html": {
-  "n": 12,
-  "refs": [
-   "~yays/library/lib15.html",
-   "~yays/library/lib09.html",
-   "~yays/library/novel/akira_kun/index@S_D.html"
-  ]
- },
  "~ts/kansou/bbs@log_seitokai.cgi": {
   "n": 11,
   "refs": [
@@ -197,14 +189,6 @@
    "~ts/bbs/index@res_200901246200852.cgi",
    "~ts/bbs/index@res_200901235121713.cgi",
    "~ts/bbs/index@res_200901224225254.cgi"
-  ]
- },
- "~yays/library/novel/dirty/angel03.html": {
-  "n": 10,
-  "refs": [
-   "~yays/library/lib15.html",
-   "~yays/library/novel/dirty/index@S_D.html",
-   "~yays/library/novel/dirty/index@N_D.html"
   ]
  },
  "~yays/library/novel/goddess_mask/image001.jpg": {
@@ -277,14 +261,6 @@
    "~ts/bbs/index@res_200406303011054.cgi",
    "~ts/bbs/index@res_200406281120440.cgi",
    "~ts/bbs/index@res_200407110201606.cgi"
-  ]
- },
- "~yays/library/novel/kayo_chan/kayo_chan48.html": {
-  "n": 9,
-  "refs": [
-   "~yays/library/lib13.html",
-   "~yays/library/novel/kayo_chan/index@M_D.html",
-   "~yays/library/novel/kayo_chan/index@S_A.html"
   ]
  },
  "novel/200712/22231343/dualworld2-2.html": {
@@ -1029,14 +1005,6 @@
    "~yays/cgi-bin/resbbs4a/resbbs4@vew_2256.cgi",
    "~yays/cgi-bin/resbbs4a/resbbs4@vew_2261.cgi",
    "~yays/cgi-bin/resbbs4a/resbbs4_b@vew_2256.cgi"
-  ]
- },
- "~yays/library/novel/classmate.html": {
-  "n": 4,
-  "refs": [
-   "~yays/library/lib21.html",
-   "~yays/library/lib02.html",
-   "~yays/library/lib-index.html"
   ]
  },
  "~yays/library/novel/200103/18202342/standard_format.files/filelist.xml": {
@@ -3979,13 +3947,6 @@
   "refs": [
    "~yays/library/lib8.html",
    "~yays/library/novel/200107/01234200/6th_layer1.htm"
-  ]
- },
- "~yays/library/novel/200112/18230553/over_heat.html": {
-  "n": 2,
-  "refs": [
-   "~yays/library/lib4.html",
-   "~yays/library/lib3.html"
   ]
  },
  "~yays/library/novel/reika/puko_and_me/index1.html": {
@@ -15761,28 +15722,10 @@
    "~yays/reviews/index.html"
   ]
  },
- "~yays/library/novel/pretty_witch02.html": {
-  "n": 1,
-  "refs": [
-   "~yays/library/lib14.html"
-  ]
- },
- "~yays/library/novel/kakusan/tss.html": {
-  "n": 1,
-  "refs": [
-   "~yays/library/lib14.html"
-  ]
- },
  "~yays/library/novel/professor_k/rabi.jpg": {
   "n": 1,
   "refs": [
    "~yays/library/lib14.html"
-  ]
- },
- "~yays/library/novel/mouichi.html": {
-  "n": 1,
-  "refs": [
-   "~yays/library/lib13.html"
   ]
  },
  "~yays/library/novel/reika/imagine/index.html": {
@@ -15959,18 +15902,6 @@
    "~yays/library/novel/corrector/title.htm"
   ]
  },
- "~yays/library/novel/grp/norm/free2_2.gif": {
-  "n": 1,
-  "refs": [
-   "~yays/library/novel/grp/norm/once_more.html"
-  ]
- },
- "~yays/library/novel/grp/norm/free4_2.gif": {
-  "n": 1,
-  "refs": [
-   "~yays/library/novel/grp/norm/once_more.html"
-  ]
- },
  "~yays/library/novel/happiness_is/subsequence/.\\school_.gif": {
   "n": 1,
   "refs": [
@@ -16103,6 +16034,12 @@
    "~yays/library/novel/200111/03010924/tenki2.html"
   ]
  },
+ "~yays/library/novel/200110/28050903/haruka02.gif": {
+  "n": 1,
+  "refs": [
+   "~yays/library/novel/200110/28050903/haruka.htm"
+  ]
+ },
  "~yays/library/novel/kakusan/oyakusoku/f_2.jpg": {
   "n": 1,
   "refs": [
@@ -16137,18 +16074,6 @@
   "n": 1,
   "refs": [
    "~yays/library/novel/kakusan/oyakusoku/oyakusoku_b.html"
-  ]
- },
- "~yays/library/novel/kakusan/promise/umi.jpg": {
-  "n": 1,
-  "refs": [
-   "~yays/library/novel/kakusan/promise/promise.html"
-  ]
- },
- "~yays/library/novel/kakusan/promise/rakugaki.jpg": {
-  "n": 1,
-  "refs": [
-   "~yays/library/novel/kakusan/promise/promise.html"
   ]
  },
  "~yays/library/novel/200109/21002626/学園戦士・レッドブルマー番外編２.files/filelist.xml": {
@@ -16677,12 +16602,6 @@
   "n": 1,
   "refs": [
    "~yays/library/novel/robot_triathlon/robotry_ex3.htm"
-  ]
- },
- "~yays/library/novel/robot_triathlon/episode02/bikini.gif": {
-  "n": 1,
-  "refs": [
-   "~yays/library/novel/robot_triathlon/episode02/robot_triathlon2.html"
   ]
  },
  "~yays/library/novel/200103/24194542/standard_format.files/filelist.xml": {
