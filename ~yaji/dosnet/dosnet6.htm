@@ -1,35 +1,35 @@
 <HTML>
 <HEAD>
-<TITLE>DOS�Ńl�b�g���[�N���I</TITLE>
-<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>DOSでネットワークを！</TITLE>
+<meta charset="utf-8">
 </HEAD>
 <BODY>
 <OL type=1 start=9> 
-<A NAME="#9"><H3><LI>PCMCIA�J�[�h���g����</H3></A>
-�Ƃ������ƂŖ{���PCMCIA�ł̃l�b�g���[�N�ڑ����B��{�I�ɂ�PCMCIA�̃J�[�h��ISA�̃J�[�h�Ǝ�舵���������ł���B��ʓI��PCMCIA�̃J�[�h�́ACardService/SocketService��p���ĔF��������̂��킾���A�l���g�̓J�[�h�C�l�[�u�������݂���LAN�J�[�h���g�����Ƃ�E�߂�B�����Ȓl�i�ŏ���ɗ��ʂ��Ă��邵�A���̕����������ȒP�����炾�BPlanex�̃J�[�h��AMelco�̃J�[�h�ɂ͕t�����Ă���悤�ł���B<P>
-�ȉ��́A<A HREF="http://www.cyqve.co.jp">Cyqve</A>��<A HREF="http://http://www.cyqve.co.jp/product/ela-110e.html">ELA-110E</A>�ɂ��Đ������邪�A��{�I�ɂ�<A HREF="dosnet3.htm##4">Network Client For DOS�̃C���X�g�[��(�ݒ�ύX��)</A>�Ɠ����Ȃ̂ŁA�ύX�_�����������Ƃɂ���B<P><OL>
-<LI><B>system.ini�̕ύX</B></LI><BR>
-�t���̃t���b�s�[��<B>a:\MSLANMAN\DRIVERS\ETHERNET\LE100</B>��NDIS�h���C�oLE100.DOS�ƁAprotocol.ini���t�����Ă���B
+<A NAME="#9"><H3><LI>PCMCIAカードを使おう</H3></A>
+ということで本題のPCMCIAでのネットワーク接続だ。基本的にはPCMCIAのカードはISAのカードと取り扱いが同じである。一般的にPCMCIAのカードは、CardService/SocketServiceを用いて認識させるのが常だが、僕自身はカードイネーブラが存在するLANカードを使うことを薦める。安価な値段で潤沢に流通しているし、この方が扱いが簡単だからだ。Planexのカードや、Melcoのカードには付属しているようである。<P>
+以下は、<A HREF="http://www.cyqve.co.jp">Cyqve</A>の<A HREF="http://http://www.cyqve.co.jp/product/ela-110e.html">ELA-110E</A>について説明するが、基本的には<A HREF="dosnet3.htm##4">Network Client For DOSのインストール(設定変更編)</A>と同じなので、変更点だけ書くことにする。<P><OL>
+<LI><B>system.iniの変更</B></LI><BR>
+付属のフロッピーの<B>a:\MSLANMAN\DRIVERS\ETHERNET\LE100</B>にNDISドライバLE100.DOSと、protocol.iniが付属している。
 <blockquote>
-�f�B���N�g�� \MSLANMAN\DRIVERS\ETHERNET\LE100<BR>
+ディレクトリ \MSLANMAN\DRIVERS\ETHERNET\LE100<BR>
  README  .TXT ---a    630 99-09-02 17:45<BR>
  PROTOCOL.INI ---a    146 99-09-02 17:01<BR>
  LE100   .DOS ---a  13760 99-06-04 14:12<BR>
  PROTMAN .DOS ---a  13352 96-04-20 11:00<BR>
 </blockquote>
-�܂��́ALE100.DOS��Network Client For DOS���C���X�g�[�������ꏊ�ɃR�s�[���āAsystem.ini��<B>[Network Drivers]</B>�Z�N�V������<B>netcard=</B>�̉E�ӂ�LE100.DOS�ɕύX���悤�B<BR>
-<LI><B>protocol.ini�̕ύX</B></LI><BR>
-[MS$ELNK]�Z�N�V�����ɁA�h���C�o�f�B�X�N�t����protocol.ini�����̂܂܃y�[�X�g����B<Blockquote>
+まずは、LE100.DOSをNetwork Client For DOSをインストールした場所にコピーして、system.iniの<B>[Network Drivers]</B>セクションの<B>netcard=</B>の右辺をLE100.DOSに変更しよう。<BR>
+<LI><B>protocol.iniの変更</B></LI><BR>
+[MS$ELNK]セクションに、ドライバディスク付属のprotocol.iniをそのままペーストする。<Blockquote>
       [MS$ELNK]
       IOADDRESS = 0x320<BR>
       INTERRUPT = 11<BR>
       DRIVERNAME = LE100$<BR></blockquote>
-ISA�̃J�[�h�̏ꍇ��protocol.ini�̃J�[�h�Ɋւ���L�q�������Ă���ꏊ�ɁAIRQ��IO�|�[�g�A�h���X���L�q����K�v������B<P>
-<LI><B>config.sys�̕ύX</B></LI><BR>
-��ʂ�ISA�̃J�[�h�Ȃ�΁A�ȏ�Ŗ��Ȃ��̂����APCMCIA�̃J�[�h�̏ꍇ�͂Ȃ�Ƃ��J�[�h��PC�ɔF��������K�v������A���̂��߂̃h���C�o��Cyqve��ELA-110E�ɂ͕t�����Ă���B������J�[�h�C�l�[�u���ƌĂԂ��A����̓J�[�h�ɂ���Č݊������Ȃ��B<P>
-ELA-110E�̃J�[�h�C�l�[�u����<B>A:\ENABLER</B>��<B>LANEN.EXE</B>�ł���B
+ISAのカードの場合はprotocol.iniのカードに関する記述を書いている場所に、IRQとIOポートアドレスを記述する必要がある。<P>
+<LI><B>config.sysの変更</B></LI><BR>
+一般のISAのカードならば、以上で問題ないのだが、PCMCIAのカードの場合はなんとかカードをPCに認識させる必要があり、そのためのドライバがCyqveのELA-110Eには付属している。これをカードイネーブラと呼ぶが、これはカードによって互換性がない。<P>
+ELA-110Eのカードイネーブラは<B>A:\ENABLER</B>の<B>LANEN.EXE</B>である。
 <blockquote>lanen /?</blockquote>
-�Ƃ���ƁA
+とすると、
 <blockquote>
 Usage :<BR>
   LANEN    [/IRQ:dd] [/IOP:xxx] [/SLT:n] [/CBS:OFF]<BR>
@@ -39,27 +39,27 @@ Usage :<BR>
       where /SLT:n   specify slot number, default is auto-detection.<BR>
             /CBS:OFF disable CardBus slot programming, default is enable.<BR>
 </blockquote>
-�ƕ\��������B��s�ڂ�����ƁA/IRQ:dd�ŁAIRQ���w�肵�A/IOP:xxx�Ƃ���ƁAIO�A�h���X���w�肷�邱�Ƃ�������B<P>
-�Ƃ������ƂŁAconfig.sys��
+と表示させる。一行目を見ると、/IRQ:ddで、IRQを指定し、/IOP:xxxとすると、IOアドレスが指定することが分かる。<P>
+ということで、config.sysの
 <blockquote>device=a:\ifshlp.sys</blockquote>
-�̑O�ɁA���̃J�[�h�C�l�[�u����o�^����B����config.sys���A
+の前に、このカードイネーブラを登録する。もしconfig.sysが、
 <blockquote>
 device=a:\himem.sys<BR>
 device=a:\ifshlp.sys<BR>
 </blockquote>
-�ƋL�q����Ă�����Aa:\��lanen.exe���R�s�[��
+と記述されていたら、a:\にlanen.exeをコピーし
 <blockquote>
 device=a:\himem.sys<BR>
 device=a:\lanen.exe /iqr:11 /iop:320<BR>
 device=a:\ifshlp.sys<BR>
 </blockquote>
-�ƕύX���Aprotocol.ini�Ŏw�肵��IRQ,IO�|�[�g�A�h���X�Ƃ��킹�Ă����B���Network Client For DOS���ċN������΁A�����̋��L�ɐڑ��ł���͂����B<P>
-<LI><B>����̖��_</B></LI><BR>
-�m�[�g�p�\�R���ō����Ă��邱�Ƃ�������Ă������BPCMCIA�̃J�[�h�ł����ADOS�̐ڑ��͐������Ă��Ȃ��B���̑��ɁAMapJapan��MPL-972��A3com��XJ-10T�Ȃǂœ�����m�F���Ă���̂����A3com��3CXFE575(X-JACK/CardBus/100BASE-TX)�ł͂ǂ�����Ă���肭�����Ȃ��BDOS�̃N���C�A���g���g��������΁APCMCIA�̃J�[�h��I������Ƃ������Ƃ炵���B<P>
-<LI><B>CardBus�ɂ��Ă̕⑫(2000/04/25�ǉ�)</B></LI><BR>
-�O����CardBus�̃l�b�g���[�N�J�[�h�͎g���Ȃ��Ə��������A�ǂ����CardBus�p�̃|�C���g�C�l�[�u���Ƃ������̂͑��݂���悤�ŁA������g���΂����Ǝg���邱�Ƃ����������B<P>
-���񓮍���m�F�����@��́A<A HREF="http://www.accton.co.jp">ACCTON</A>��<A HREF="http://www.accton.co.jp/products/adapter/en2230/en2230.html">Cheetah Fast EthernetCard-2230</A>�ŁA���̃J�[�h�ɂ�CardBus�p�̃|�C���g�C�l�[�u�����t�����Ă���A�莝����CF-A1V�œ��쎎�������Ă݂��Ƃ���A�����ɓ��삵���B<P>
-�|�C���g�C�l�[�u�����h���C�o�g�ݍ��ݑO�ɓ��삳���Ȃ���΂Ȃ�Ȃ��_�ȊO��PCI�̃J�[�h�Ɠ����悤�Ɉ�����̂ŁA��⍂�߂��������߂ł͂���B<P>
+と変更し、protocol.iniで指定したIRQ,IOポートアドレスとあわせておく。後はNetwork Client For DOSを再起動すれば、相手先の共有に接続できるはずだ。<P>
+<LI><B>現状の問題点</B></LI><BR>
+ノートパソコンで困っていることを一つ挙げておこう。PCMCIAのカードでしか、DOSの接続は成功していない。その他に、MapJapanのMPL-972や、3comのXJ-10Tなどで動作を確認しているのだが、3comの3CXFE575(X-JACK/CardBus/100BASE-TX)ではどうやっても上手くいかない。DOSのクライアントを使いたければ、PCMCIAのカードを選択しろということらしい。<P>
+<LI><B>CardBusについての補足(2000/04/25追加)</B></LI><BR>
+前項でCardBusのネットワークカードは使えないと書いたが、どうやらCardBus用のポイントイネーブラというものは存在するようで、それを使えばちゃんと使えることが分かった。<P>
+今回動作を確認した機種は、<A HREF="http://www.accton.co.jp">ACCTON</A>の<A HREF="http://www.accton.co.jp/products/adapter/en2230/en2230.html">Cheetah Fast EthernetCard-2230</A>で、このカードにはCardBus用のポイントイネーブラが付属しており、手持ちのCF-A1Vで動作試験をしてみたところ、無事に動作した。<P>
+ポイントイネーブラをドライバ組み込み前に動作させなければならない点以外はPCIのカードと同じように扱えるので、やや高めだがお勧めではある。<P>
 </OL></OL>
 </BODY>
 </HTML>

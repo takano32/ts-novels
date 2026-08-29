@@ -1,12 +1,12 @@
 <HTML>
 <HEAD>
-<TITLE>DOS�Ńl�b�g���[�N���I</TITLE>
-<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>DOSでネットワークを！</TITLE>
+<meta charset="utf-8">
 </HEAD>
 <BODY>
 <OL type=1 start=10> 
 <P>
-<A NAME="#10"><H3><LI>TCP/IP�v���g�R�����g��</H3></A>
+<A NAME="#10"><H3><LI>TCP/IPプロトコルを使う</H3></A>
 <TABLE BGCOLOR=A0A0FF ALIGN=RIGHT>
 <TR><TD>
 [network.setup]<BR>
@@ -52,27 +52,27 @@ netcards=<BR>
 DriverName = RTSND$<BR>
 </TD></TR></tABLE>
 
-�쐬�����t���b�s�[�f�B�X�N��Netbeui�v���g�R���ŒʐM��������̂ŁA�ڑ���̃R���s���[�^�ɂ�Netbeui���C���X�g�[������Ă���K�v������B�������A�ŋ߂̎嗬��TCP/IP�ł���B�܂��A���܂�Ȃ��Ƃ͎v�����ATCP/IP�Ȃ�΃��[�^�𒴂��邱�Ƃ��\���B�l�̓��[�^�[�̌������ɂ���t�@�C���T�[�o�[�ɂ�������o�b�N�A�b�v��������肵�Ă���i�����b���j�B<BR>
-�C���X�g�[���菇���̂��̂�Netbeui�̎��Ɠ������B�v���g�R���̑I���̂Ƃ���ŁAIPX/SPX���폜����TCP/IP���C���X�g�[������΂悢�B��������΁Aautoexec.bat��config.sys���ύX����āA�C���X�g�[������������B�l�b�g���[�N�h���C�o�̕ύX�菇�ɂ��Ă�Netbeui�̎��Ɠ����ŁAsystem.ini��ύX����΂悢�Bprotocol.ini�̕ύX�ɂ��Ă͂��قȂ�B<BR>
-�E����tcpip�̏ꍇ��protocol.ini��\�����Ă���B[MS$ELNK]�Z�N�V�����Ńh���C�o�̖��O��ύX���邱�Ƃ́ANetbeui�̏ꍇ�Ɠ����ł���BTCP/IP�̏ꍇ�͂������̂��ƂȂ���AIP�A�h���X�ƃT�u�l�b�g�}�X�N�A���w�肵�Ȃ���΂Ȃ�Ȃ��B�����<B>[TCP/IP]</B>�Z�N�V������
+作成したフロッピーディスクはNetbeuiプロトコルで通信をするもので、接続先のコンピュータにはNetbeuiがインストールされている必要がある。しかし、最近の主流はTCP/IPである。また、あまりないとは思うが、TCP/IPならばルータを超えることが可能だ。僕はルーターの向こうにあるファイルサーバーにこっそりバックアップを取ったりしている（酷い話だ）。<BR>
+インストール手順そのものはNetbeuiの時と同じだ。プロトコルの選択のところで、IPX/SPXを削除してTCP/IPをインストールすればよい。そうすれば、autoexec.batとconfig.sysが変更されて、インストールが完了する。ネットワークドライバの変更手順についてはNetbeuiの時と同じで、system.iniを変更すればよい。protocol.iniの変更についてはやや異なる。<BR>
+右側にtcpipの場合のprotocol.iniを表示してある。[MS$ELNK]セクションでドライバの名前を変更することは、Netbeuiの場合と同じである。TCP/IPの場合はもちろんのことながら、IPアドレスとサブネットマスク、を指定しなければならない。それは<B>[TCP/IP]</B>セクションの
 <blockquote>
 SubNetMask0=255 0 0 0<BR>
 IPAddress0=0 0 0 0<BR>
 DisableDHCP=0<BR>
 </blockquote>
-�ōs���B<B>DisableDHCP</B>��IP�A�h���X�̎����������g�����ǂ����ŁADHCP�T�[�o�[������΁A�E�ӂ��O�ɂ����DHCP��IP�A�h���X�̎擾���s���A�P�ɂ���ΌŒ�IP�A�h���X�̐ݒ�ƂȂ�BDHCP�I�����O�ŁADHCP�I�t���P�Ȃ̂ŊԈႦ�Ȃ��悤�ɁB<P>
-<B>SubNetMask0</B>�̉E�ӂ��T�u�l�b�g�}�X�N���B�T�u�l�b�g�}�X�N���X�y�[�X�ŋ�؂��Đݒ肷��BIPAddress0=�̉E�ӂ�IP�A�h���X�ł���B������X�y�[�X��؂�Őݒ肵�悤�B�����AIP�A�h���X192.168.1.1�A�T�u�l�b�g�}�X�N255.255.255.0�̏ꍇ�́A
+で行う。<B>DisableDHCP</B>はIPアドレスの自動割当を使うかどうかで、DHCPサーバーがあれば、右辺を０にすればDHCPでIPアドレスの取得を行い、１にすれば固定IPアドレスの設定となる。DHCPオンが０で、DHCPオフが１なので間違えないように。<P>
+<B>SubNetMask0</B>の右辺がサブネットマスクだ。サブネットマスクをスペースで区切って設定する。IPAddress0=の右辺がIPアドレスである。これもスペース区切りで設定しよう。もし、IPアドレス192.168.1.1、サブネットマスク255.255.255.0の場合は、
 <blockquote>
 SubNetMask0=255 255 255 0<BR>
 IPAddress0=192 168 1 1<BR>
 DisableDHCP=1<BR>
 </blockquote>
-�Ƃ������ƂɂȂ�B�Ȃ��A�C���X�g�[���ɂ��config.sys��autoexec.bat���ύX����Ă���B<P>
-<B>config.sys</B>�ɂ́ANetbeui�łƓ��l�ɁA
+ということになる。なお、インストーラによりconfig.sysとautoexec.batも変更されている。<P>
+<B>config.sys</B>には、Netbeui版と同様に、
 <blockquote>
 device=c:\net\ifshlp.sys
 </blockquote>
-���ǉ�����Ă���B<B>autoexec.bat</B>�ɂ́A
+が追加されている。<B>autoexec.bat</B>には、
 <blockquote>
 C:\NET\net initialize<BR>
 C:\NET\netbind.com<BR>
@@ -83,8 +83,8 @@ C:\NET\nmtsr.exe<BR>
 C:\NET\emsbfr.exe<BR>
 C:\NET\net start<BR>
 </blockquote>
-���ǉ�����Ă���͂��ł���B
+が追加されているはずである。
 </OL>
-<A HREF="index.htm">�߂�</A>
+<A HREF="index.htm">戻る</A>
 </BODY>
 </HTML>

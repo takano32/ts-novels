@@ -1,19 +1,19 @@
 <HTML>
 <HEAD>
-<TITLE>DOS�Ńl�b�g���[�N���I</TITLE>
-<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>DOSでネットワークを！</TITLE>
+<meta charset="utf-8">
 </HEAD>
 <OL type=1 start=3> 
-<A NAME="#3"><H3><LI>Network Client For DOS�̃C���X�g�[��</H3></A>
-�ł́A���ۂ̃C���X�g�[���ɓ��낤�B�ŏI�ړI�n��FD����̃u�[�g�����A�����������Ă̓n�[�h�f�B�X�N����̃u�[�g��ړI�ɂ���B<BR>
+<A NAME="#3"><H3><LI>Network Client For DOSのインストール</H3></A>
+では、実際のインストールに入ろう。最終目的地はFDからのブートだが、さしあたってはハードディスクからのブートを目的にする。<BR>
 <OL type=i>
-<LI><B>�t�@�C���̃_�E�����[�h</B><BR>
-�܂��́A<BR>
+<LI><B>ファイルのダウンロード</B><BR>
+まずは、<BR>
 <UL type=disk>
 <LI><A HREF="ftp://ftp.microsoft.com/bussys/Clients/MSCLIENT/DSK3-1.EXE">ftp://ftp.microsoft.com/bussys/Clients/MSCLIENT/DSK3-1.EXE</A>
 <LI><A HREF="ftp://ftp.microsoft.com/bussys/Clients/MSCLIENT/DSK3-2.EXE">ftp://ftp.microsoft.com/bussys/Clients/MSCLIENT/DSK3-2.EXE</A>
 </UL>
-����t�@�C����Download���܂��傤�B���ꂼ��ʂ̃t�H���_�ɃR�s�[���A�t�@�C�������s���ĉ𓀂��悤�B�𓀂���Ƃ��ꂼ��ȉ��̂悤�ɂȂ�܂��B
+からファイルをDownloadしましょう。それぞれ別のフォルダにコピーし、ファイルを実行して解凍しよう。解凍するとそれぞれ以下のようになります。
 <PRE> 
 Disk1
  Directory of C:\HOME\download\disk1
@@ -44,62 +44,62 @@ VSOCKETS.386   WINSOCK.DL_    WIN_SOCK.DL_   WSAHDAPP.EX_   WSOCKETS.DL
               28 File(s)        595,870 bytes
                2 Dir(s)   1,105,317,888 bytes free</PRE>
 <BR>
-���ꂾ���̃t�@�C�������ꂼ��ʂ̃t���b�s�[�ɕۑ����邩�A�n�[�h�f�B�X�N�ɂ��ꂼ��ʂ̃t�H���_�ɂ��ĕۑ����Ă���<BR>
+これだけのファイルをそれぞれ別のフロッピーに保存するか、ハードディスクにそれぞれ別のフォルダにして保存しておく<BR>
 <BR>
-<B><LI>DOS���N������</B><BR>
-MS-DOS���[�h��DOS���N�����悤�B�܂��́ACTRL�L�[�������Ȃ���R���s���[�^���N�����邩�AStarting WindowsXX�̕�����F8�L�[�������ă��j���[���o���ACommand Prompt Only��I�����Ă���B���j���[�̉��Ԗڂ����̓}�V���ɂ���ĈقȂ�̂Ŕԍ��͂����ď����Ȃ��B<BR>
-<B><LI>�t�@�C�����o�b�N�A�b�v����</B><BR>
-Installer��c:\config.sys��c:\autoexec.bat ������������̂ŁA�܂��Aconfig.sys��autoexec.bat�̃o�b�N�A�b�v�����B<BR>
+<B><LI>DOSを起動する</B><BR>
+MS-DOSモードでDOSを起動しよう。または、CTRLキーを押しながらコンピュータを起動するか、Starting WindowsXXの部分でF8キーを押してメニューを出し、Command Prompt Onlyを選択してする。メニューの何番目をかはマシンによって異なるので番号はあえて書かない。<BR>
+<B><LI>ファイルをバックアップする</B><BR>
+Installerがc:\config.sysとc:\autoexec.bat を書き換えるので、まず、config.sysとautoexec.batのバックアップを取る。<BR>
 <blockquote>
 copy c:\config.sys c:\config.bak[ENTER]<BR>
 copy c:\autoexec.bat c:\autoexec.bak[ENTER]<BR>
 </blockquote>
-<B><LI>Installer�̋N��</B><BR>
-disk1��W�J�����t�H���_�Ɉړ����邩�ADISK1�̃t���b�s�[�����āAA:\[enter]�ƒ@���Ă݂悤�B<BR>
+<B><LI>Installerの起動</B><BR>
+disk1を展開したフォルダに移動するか、DISK1のフロッピーを入れて、A:\[enter]と叩いてみよう。<BR>
 <BR>
-setup[enter]�Ɠ��͂��AMicrosoft Network Client�̃Z�b�g�A�b�v�����s����B���s�ł��Ȃ��Ƃ��́A������setup.exe���J�����g�t�H���_�ɑ��݂��邩�ǂ����m�F���悤<BR>
+setup[enter]と入力し、Microsoft Network Clientのセットアップを実行する。実行できないときは、ちゃんとsetup.exeがカレントフォルダに存在するかどうか確認しよう<BR>
 <BR>
 <BR>
 <TABLE><TR><TD>
-<IMG SRC="image05.gif" align=left> ���̂悤�ȉ�ʂɂȂ�̂ŁA�����l������Enter���������B
+<IMG SRC="image05.gif" align=left> 左のような画面になるので、何も考えずにEnterを押そう。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image06.gif" align=left> ���̂悤�ȉ�ʂɂȂ�̂ŁA�����l������Enter���������B
+<IMG SRC="image06.gif" align=left> 左のような画面になるので、何も考えずにEnterを押そう。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image07.gif" align=left> ���̂悤�ȉ�ʂɂȂ�̂ŁA�����l������Enter���������B
+<IMG SRC="image07.gif" align=left> 左のような画面になるので、何も考えずにEnterを押そう。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image10.gif" align=left> ���̂悤�ȉ�ʂɂȂ�܂��B�J�[�\���L�[�̏㉺���g���āA3Com EtherLink��I�����悤�B�{���Ȃ�΂����Ńl�b�g���[�N�J�[�h��I������̂����A�C���X�g�[���[���J�[�h��������ƔF�����Ȃ��P�[�X�������̂ŁA��ŃZ�b�g�A�b�v�t�@�C����ύX���邱�Ƃɂ���B
+<IMG SRC="image10.gif" align=left> 左のような画面になります。カーソルキーの上下を使って、3Com EtherLinkを選択しよう。本来ならばここでネットワークカードを選択するのだが、インストーラーがカードをきちんと認識しないケースが多いので、後でセットアップファイルを変更することにする。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image11.gif" align=left> ���̂悤�ȉ�ʂɂȂ�̂ŁA�����l������Enter���������B
+<IMG SRC="image11.gif" align=left> 左のような画面になるので、何も考えずにEnterを押そう。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image12.gif" align=left>  ���[�U�[���𕷂��Ă���B���O�I�����邽�߂̃��[�U�[������͂��悤�B�����Ƃ��A���O�I�����ɕς����܂��̂ŁA���܂�Ӗ��͂Ȃ��B
+<IMG SRC="image12.gif" align=left>  ユーザー名を聞いてくる。ログオンするためのユーザー名を入力しよう。もっとも、ログオン時に変えられますので、あまり意味はない。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image14.gif" align=left> ���̂悤�ȉ�ʂɂȂ�B�^�񒆂�Change Setup Options�ɃJ�[�\�������킹�AEnter���������B
+<IMG SRC="image14.gif" align=left> 左のような画面になる。真ん中のChange Setup Optionsにカーソルをあわせ、Enterを押そう。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image15.gif" align=left> ���̂悤�ȉ�ʂɂȂ�B��ԏ��Change Redir Options��Use the Basic Redirector�ɕύX���悤�B���̌�A�ŉ��i��The listed options are correct�ɃJ�[�\�������킹�AEnter�������Ă݂悤�B
+<IMG SRC="image15.gif" align=left> 左のような画面になる。一番上のChange Redir OptionsをUse the Basic Redirectorに変更しよう。その後、最下段のThe listed options are correctにカーソルを合わせ、Enterを押してみよう。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image16.gif" align=left> ���̂悤�ȉ�ʂɂȂ�B��ԉ���Change Network Configuratoin�ɃJ�[�\�������킹�AEnter�������B
+<IMG SRC="image16.gif" align=left> 左のような画面になる。一番下のChange Network Configuratoinにカーソルを合わせ、Enterを押す。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image17.gif" align=left> TAB�L�[����񉟂��āA��̘g�Ƀt�H�[�J�X���Z�b�g����B�����ăJ�[�\�����L�[����񉟂��āANWLink IPX Compatible Transport��I�����ĉ������B������xTAB�L�[�������āA�J�[�\���㉺��Remove��I�����Ă݂悤�B���̌�Enter�������Ă݂悤�B</TD></TR></TABLE>
+<IMG SRC="image17.gif" align=left> TABキーを一回押して、上の枠にフォーカスをセットする。そしてカーソル下キーを一回押して、NWLink IPX Compatible Transportを選択して下さい。もう一度TABキーを押して、カーソル上下でRemoveを選択してみよう。その後Enterを押してみよう。</TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image21.gif" align=left> ���̂悤�ȉ�ʂɂȂ�BMicrosoft NetBeui��I�����Ă݂悤�B
+<IMG SRC="image21.gif" align=left> 左のような画面になる。Microsoft NetBeuiを選択してみよう。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image22.gif" align=left> TAB�L�[�𑀍삵�ĉ��i�ɃJ�[�\���̃t�H�[�J�X�����킹�ANetwork configuration is correct��I�����܂��傤�B
+<IMG SRC="image22.gif" align=left> TABキーを操作して下段にカーソルのフォーカスを合わせ、Network configuration is correctを選択しましょう。
 </TD></TR></TABLE>
 <TABLE><TR><TD>
-<IMG SRC="image23.gif" align=left> ���̂悤�ȉ�ʂɂȂ�̂ŁA�����l������Enter���������B
+<IMG SRC="image23.gif" align=left> 左のような画面になるので、何も考えずにEnterを押そう。
 </TD></TR></TABLE>
-�ȏ�ŃZ�b�g�A�b�v�͏I���ł���B���ɁA�ݒ�t�@�C����ύX����K�v������B�����炪�R��Ȃ̂ŁA�悭�ǂ�ŗ~����<BR>
+以上でセットアップは終了である。次に、設定ファイルを変更する必要がある。次からが山場なので、よく読んで欲しい<BR>
 </OL>
 </OL>
-<A HREF="dosnet3.htm">����</A>
+<A HREF="dosnet3.htm">次へ</A>
 </HTML>

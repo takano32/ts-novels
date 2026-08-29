@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALquDFETXRn0Hr05fUP7EJT77xYnPmRbpMy4vk8KYiHnkNpednjOANJcaXDXcKQJN0nXKZJL7TciJD8AoHXK158CAwEAAQ==_b2RWrmuAMKYciHYGXkzj3yJnsYLlUHR4SiJDazPmGyA10jtESsuR4lqDdh1LEX/DPWpfVlu7chun2U6XAx3MLg==" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <title>tomato.ne.jp</title>
     <script src="//www.google.com/adsense/domains/caf.js" type="text/javascript"></script>

@@ -1,70 +1,70 @@
 <HTML>
 <HEAD>
-<TITLE>DOS�Ńl�b�g���[�N���I</TITLE>
-<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>DOSでネットワークを！</TITLE>
+<meta charset="utf-8">
 </HEAD>
 <BODY>
 <OL type=1 start=11> 
 <P>
-<A NAME="#11"><H3><LI>Network Client For DOS�ł��낢��V��</H3></A>
+<A NAME="#11"><H3><LI>Network Client For DOSでいろいろ遊ぶ</H3></A>
 <OL>
-<B><FONT SIZE=+1><LI>Net logon �R�}���h�̑E��</FONT></B><P>
-�Ƃ���Ő������ʓ|�Ȃ̂ŁA������O�̂悤��Net start�R�}���h�Ń��O�I������悤�ɏ����Ă������A�l�͂��̃R�}���h�͏璷�x���������āA�g���Ă��Ȃ��B�l�I�ɂ́ANet Logon�R�}���h�̕��������߂��B<P>
-�L�q�� Net logon [�A�J�E���g] [�p�X���[�h] [/savepw:no] [/y]<P>
-�ł���B/savepw:no�I�v�V�����͈Ӗ����ǂ�������Ȃ��̂����ANet start�ɂ��Ă��ANet logon�ɂ��Ă��A�p�X���[�h���񕷂��Ă���̂����A���̃I�v�V����������ƈ��ɂȂ�B<P>
-logon.bat�Ƃ��������O�ŁA
+<B><FONT SIZE=+1><LI>Net logon コマンドの薦め</FONT></B><P>
+ところで説明が面倒なので、当たり前のようにNet startコマンドでログオンするように書いてきたが、僕はあのコマンドは冗長度が高すぎて、使っていない。個人的には、Net Logonコマンドの方がお勧めだ。<P>
+記述は Net logon [アカウント] [パスワード] [/savepw:no] [/y]<P>
+である。/savepw:noオプションは意味が良く分からないのだが、Net startにしても、Net logonにしても、パスワードを二回聞いてくるのだが、このオプションをつけると一回になる。<P>
+logon.batとか言う名前で、
 <blockquote>
 net logon %1 %2 /savepw:no /y
 </blockquote>
-�ȂǂƂ����t�@�C��������Ă����΁A<B>logon</B>�ƒ@���΁A�A�J�E���g�ƃp�X���[�h����񕷂��Ă��邾���ŃR�g���ςނ̂ŕ֗����Ǝv���B<P>
-�܂��Aautoexec.bat�ȂǂŁA
+などというファイルを作っておけば、<B>logon</B>と叩けば、アカウントとパスワードを一回聞いてくるだけでコトが済むので便利だと思う。<P>
+また、autoexec.batなどで、
 <blockquote>
 net logon hogehoge hogepass /savepw:no /y<BR>
 net use l: \\setuzokusakiPC\public /y
 </blockquote>
-�Ƃ������Ă����΁A����Ƀ��O�I�����ď���ɐڑ������ɂ����悤�ɂȂ�B<P>
-���Ȃ݂ɁA<P>
+とか書いておけば、勝手にログオンして勝手に接続をしにいくようになる。<P>
+ちなみに、<P>
 <blockquote>
 net logoff 
 </blockquote>
-�Ƃ��΁A���O�I�t���o����B�ڑ��悪�ς������Ƃ��A�p�X���[�h��ł��Ԉ�����肵���Ƃ��́A�ċN��������net logoff�Ƃ��悤�B<P>
-<B><FONT SIZE=+1><LI>ADDDRV�R�}���h���g���Ă݂�</FONT></B>
+とやれば、ログオフも出来る。接続先が変わったりとか、パスワードを打ち間違ったりしたときは、再起動せずにnet logoffとしよう。<P>
+<B><FONT SIZE=+1><LI>ADDDRVコマンドを使ってみる</FONT></B>
 <P>
-config.sys�������
+config.sysを見ると
 <blockquote>
-������config.sys(device=himem.sys�Ȃ�)<BR>
+既存のconfig.sys(device=himem.sysなど)<BR>
 .<BR>
 device=c:\net\ifshlp.sys
 </blockquote>
-�Ȃǂƒǉ�����Ă��邾���ł���BNetwork Client For DOS�̏ꍇ�͓o�^����Ă���f�o�C�X�h���C�o�͂��ꂾ���ł���Bc:\windows\command\�ɂ���A<B>adddrv.exe</B>�R�}���h�̓L�����N�^�^�f�o�C�X�h���C�o���R�}���h���C������ǉ�����R�}���h�ł���B<BR>
-config.sys�Ɠ����悤�ȏ����ŁAnetdrv.sys�Ƃ����t�@�C�����ŁA
+などと追加されているだけである。Network Client For DOSの場合は登録されているデバイスドライバはこれだけである。c:\windows\command\にある、<B>adddrv.exe</B>コマンドはキャラクタ型デバイスドライバをコマンドラインから追加するコマンドである。<BR>
+config.sysと同じような書式で、netdrv.sysというファイル名で、
 <blockquote>
-REM <B>File��:netdrv.sys</B>
+REM <B>File名:netdrv.sys</B>
 <BR>
 device=c:\net\ifshlp.sys
 </blockquote>
-�ȂǂƂ����t�@�C��������Ă݂�B�����ŁAadddrv.exe���p�X�̒ʂ��Ă���ꏊ�ɒu���Ă����A
+などというファイルを作ってみる。ここで、adddrv.exeをパスの通っている場所に置いておき、
 <blockquote>
 adddrv netdrv.sys[ENTER]<BR>
 net start<BR>
 </blockquote>
-�ƃR�}���h���C������@���Ă݂�ƁA���Ȃ��ڑ��ł��Ă��܂��B<BR>
-<B><FONT SIZE=+1><LI>RAMDISK�ł̉^�p</FONT></B>
-<P>ADDDRV�R�}���h�ŁA�f�o�C�X�h���C�o��DOS�N����ɓǂݍ��ނ��Ƃ��\�Ȃ�΁ARAMDISK��Ƀh���C�o�Q��u�����Ƃ��\�Ȃ͂��ł���B���낢��Ǝ�������āA�l��Ramdisk���Network Client For DOS��W�J���Ă����g���Ă���B<P>
-�܂��ARAMDISK�h���C�o���̂��̂����A<BR>
+とコマンドラインから叩いてみると、問題なく接続できてしまう。<BR>
+<B><FONT SIZE=+1><LI>RAMDISKでの運用</FONT></B>
+<P>ADDDRVコマンドで、デバイスドライバをDOS起動後に読み込むことが可能ならば、RAMDISK上にドライバ群を置くことも可能なはずである。いろいろと事情があって、僕はRamdisk上にNetwork Client For DOSを展開していつも使っている。<P>
+まず、RAMDISKドライバそのものだが、<BR>
 <A HREF="http://www.vector.co.jp/soft/dos/hardware/se006044.html">http://www.vector.co.jp/soft/dos/hardware/se006044.html</A><BR>
-�ɂ�����̂𗘗p���Ă���B���̃\�t�g�E�F�A�̗L��Ƃ���́A
+にあるものを利用している。このソフトウェアの有難いところは、
 <blockquote>
-<B>�h���C�u���^�[�����R�ɕύX�ł���</B>
+<B>ドライブレターを自由に変更できる</B>
 </blockquote>
-�Ƃ������Ƃ��B�d������������̎�ނ̃p�\�R����G��̂�����ǂ��A�h���C�u�̍\���Ȃ�Ń}�V���ɂ���ĈقȂ�B���ʂ�RAMDISK�h���C�o�͊J���Ă���h���C�u�ɏ���Ɋ��蓖�ĂĂ������A����̓I�v�V�����ŗe�ʂƃh���C�u���^�[��ύX�ł���̂��B<P>
-�܂��Aconfig.sys��
+ということだ。仕事柄たくさんの種類のパソコンを触るのだけれども、ドライブの構成なんでマシンによって異なる。普通のRAMDISKドライバは開いているドライブに勝手に割り当てていくが、これはオプションで容量とドライブレターを変更できるのだ。<P>
+まず、config.sysに
 <blockquote>
 <B> device=a:\xrdisk.exe -d:q -x:3072</B>
 </blockquote>
-�ƒǉ����悤�B�������A<A HREF="http://www.vector.co.jp/soft/dos/hardware/se006044.html">xrdisk</A>�̏ꏊ�ɂ���āA<B>a:\xrdisk.exe</B>�̕����͓K���ς��ė~�����B<B>-d</B>�ȉ���xrdisk�̃I�v�V�����ŁA�����ł̓h���C�u���^�[��<B>Q:</B>�ARAMDISK�̃T�C�Y��3072�o�C�g(3Kbytes)�Ɏw�肵�Ă���B�ڍׂ�<A HREF="http://www.vector.co.jp/soft/dos/hardware/se006044.html">xrdisk</A>�̃h�L�������g��ǂނׂ��B
+と追加しよう。もちろん、<A HREF="http://www.vector.co.jp/soft/dos/hardware/se006044.html">xrdisk</A>の場所によって、<B>a:\xrdisk.exe</B>の部分は適時変えて欲しい。<B>-d</B>以下はxrdiskのオプションで、ここではドライブレターを<B>Q:</B>、RAMDISKのサイズを3072バイト(3Kbytes)に指定している。詳細は<A HREF="http://www.vector.co.jp/soft/dos/hardware/se006044.html">xrdisk</A>のドキュメントを読むべし。
 <P>
-���ɁAsystem.ini��́A�t�H���_�̃p�X���w�肵�Ă���Ƃ�����A�܂��A<B>q:\net</B>�ȂǂɕύX���Ă݂�B
+次に、system.ini上の、フォルダのパスを指定しているところを、まず、<B>q:\net</B>などに変更してみる。
 <blockquote>
 <B>system.ini</B><BR>
 <TABLE BORDER=0><TR><TD BGCOLOR="DDFFFF">
@@ -77,25 +77,25 @@ lanroot=q:\net<BR>
 </TD></TR>
 </TABLE>
 </blockquote>
-��́A�N�����ăt�@�C����Q:�h���C�u(RAMDISK)�ɃR�s�[���Ă݂悤�B
+後は、起動してファイルをQ:ドライブ(RAMDISK)にコピーしてみよう。
 <blockquote><B>
 mkdir q:\net<BR>
 copy a:\net\*.* q:\net<BR>
 q:<BR>
 cd q:\net<BR>
-adddrv q\net\netdrs.sys (device=q:\net\ifshlp.sys�Ƃ��L�q���Ă���t�@�C��)<BR>
+adddrv q\net\netdrs.sys (device=q:\net\ifshlp.sysとか記述してあるファイル)<BR>
 net start<BR>
 </B></blockquote>
-�ŋN������͂����B<P>
-�S�������ė]�k�����ABIOS�ȂǂŃn�[�h�f�B�X�N���E���āAconfig.sys�ɁA
+で起動するはずだ。<P>
+全く持って余談だが、BIOSなどでハードディスクを殺して、config.sysに、
 <blockquote><B>
 device=a:\himem.sys
 device=a:\xrdisk.exe /d:c /x:3072
 device=a:\xrdisk.exe /d:q /x:3072
 </B></blockquote>
-�ȂǂƋL�q�����t���b�s�[�f�B�X�N��Microsoft Network Client For DOS���C���X�g�[������΁A�n�[�h�f�B�X�N��S����������Microsoft Network Client For DOS�̃C���X�g�[�����\�������肷��B���ہA�l���g���Ă���Disk�͂�������č�������̂��B�Ȃ��Ȃ�A�䂪�Ƃɂ�FAT/FAT32���g�����}�V�����Ȃ��̂ŁA�������邵�����@���Ȃ��������̂��B(��)<P>
+などと記述したフロッピーディスクでMicrosoft Network Client For DOSをインストールすれば、ハードディスクを全く汚さずにMicrosoft Network Client For DOSのインストールが可能だったりする。実際、僕が使っているDiskはそうやって作ったものだ。なぜなら、我が家にはFAT/FAT32を使ったマシンがないので、こうするしか方法がなかたったのだ。(※)<P>
 </OL>
-<A HREF="index.htm">�߂�</A><P>
-(��)���͈ȑO�g���Ă���Let'sNoteMini(AL-N4)���C������A���Ă����āA������Windows95�}�V���Ƃ��Ďg����\��Ȃ̂ŁA���̌���ł͂Ȃ��B
+<A HREF="index.htm">戻る</A><P>
+(※)実は以前使っていたLet'sNoteMini(AL-N4)が修理から帰ってきいて、こいつはWindows95マシンとして使われる予定なので、この限りではない。
 </OL>
 </HTML>

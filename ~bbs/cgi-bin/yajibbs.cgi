@@ -1,30 +1,30 @@
-<html><head><title>�f����</title>
+<html><head><meta charset="utf-8"><title>掲示板</title>
 <style type="text/css">
  pre {font-size:100% ;line-height:115%; color:#000000;}
  span {font-size:100% ;line-height:115%; color:#000000;}
 </style>
 </head>
 <body bgcolor=#ffeedd text=#000000>
-<h1>�f����</h1>
+<h1>掲示板</h1>
 
-�l�̓�����̏o���������Ə����Ă����܂����A���z�Ȃǂ���܂�����A�������������B�ł��l�̖��O���x��Ȃ��悤�ɁB
+僕の日ごろの出来事をつらつらと書いていきますが、感想などありましたら、お書き下さい。でも僕の名前を騙らないように。
 <p>
-<form method=POST action="http://www.novels.jp/~bbs/cgi-bin/yajibbs.cgi">
+<form method=POST action="yajibbs.cgi">
 <input type=hidden name="action" value="regist">
 <input type=hidden name="nj" value="5tRITLHCva">
-���e�� <input type=text name="name" size=21 value="" maxlength=20><br>
-�d���[�� <input type=text name="email" size=40 value=""><br>�薼 <input type=text name="subject" size=51 maxlength=50><br>
-���e <font size=-1> <input type=radio name="how" value="2" checked>���s�L�� <input type=radio name="how" value="0">���s���� <input type=radio name="how" value="1">�}/�\���[�h</font><br>
+投稿者 <input type=text name="name" size=21 value="" maxlength=20><br>
+Ｅメール <input type=text name="email" size=40 value=""><br>題名 <input type=text name="subject" size=51 maxlength=50><br>
+内容 <font size=-1> <input type=radio name="how" value="2" checked>改行有効 <input type=radio name="how" value="0">改行無効 <input type=radio name="how" value="1">図/表モード</font><br>
 <textarea name="value" rows=5 cols=80 wrap=soft></textarea><br>
-<font size=-1><input type=checkbox name="link" value="1" checked>URL�������N����</font><p>
-�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=checkbox name="cookie" value="on" checked>���e�҂ƃ��[����ۑ�<p>
-<input type=submit value="     �n  �j     "><input type=reset value="�L�����Z��"></form><p><font size=-1 color=#000000>
+<font size=-1><input type=checkbox name="link" value="1" checked>URLをリンクする</font><p>
+削除キー <input type=password name="pwd" size=10 value=""> <input type=checkbox name="cookie" value="on" checked>投稿者とメールを保存<p>
+<input type=submit value="     Ｏ  Ｋ     "><input type=reset value="キャンセル"></form><p><font size=-1 color=#000000>
 
 </font>
-<strong><font size=+1>[<a href="http://www.novels.jp/~bbs/cgi-bin/yajibbs.cgi">�X�V</a>] [<a href="http://www.novels.jp/~yaji/" target="_top">�I��</a>]</font></strong>
+<strong><font size=+1>[<a href="yajibbs.cgi">更新</a>] [<a href="../../~yaji/index.html" target="_top">終了</a>]</font></strong>
 <p><hr size=3 noshade><font size=-1>
-<strong>�V����</strong> 1 �� 20 <strong>�ő�L�^�ێ���</strong> 300 <!-- ���s���� 0.000 CPU�b -->(<img src="yajibbs.gif" alt="New!">��1���ȓ��̋L��)</font>
-<form method=POST action="http://www.novels.jp/~bbs/cgi-bin/yajibbs.cgi">
+<strong>新着順</strong> 1 → 20 <strong>最大記録保持数</strong> 300 <!-- 実行時間 0.000 CPU秒 -->(<img src="yajibbs.gif" alt="New!">は1日以内の記事)</font>
+<form method=POST action="yajibbs.cgi">
 <input type=hidden name="action" value="remove">
 <input type=hidden name="page" value="1">
 <input type=hidden name="all" value="0">
@@ -32,151 +32,151 @@
 <input type=hidden name="search" value="">
 <input type=hidden name="mode" value="">
 <hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>GW</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2004�N5��5��(��)22��00�� <strong>���e��</strong> ��_�� [192.168.1.1] <input type=checkbox name="target" value="20040505220055">�폜<p>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2004年5月5日(水)22時00分 <strong>投稿者</strong> 矢治浩平 [192.168.1.1] <input type=checkbox name="target" value="20040505220055">削除<p>
 </font>
 <blockquote>
-<span>���łɍ��s�𗣂�ĂT�N�ȏ�ɂȂ��Ă܂��B�X�V�������A�قƂ�Ǎ��s���ɂ��Ȃ��B<br><br></span><p>
+<span>すでに阪南市を離れて５年以上になってます。更新も何も、ほとんど阪南市内にいない。<br><br></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>�͂��߂܂���</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2004�N3��16��(��)02��26�� <strong>���e��</strong> ���s�� [zaq3d7d577f.zaq.ne.jp] <input type=checkbox name="target" value="20040316022617">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>はじめまして</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2004年3月16日(火)02時26分 <strong>投稿者</strong> 阪南市民 [zaq3d7d577f.zaq.ne.jp] <input type=checkbox name="target" value="20040316022617">削除<p>
 </font>
 <blockquote>
-<span>����ɏZ�ގ҂ł��B�������Ă��炱�̃T�C�g�ɒH�蒅���܂����B���s���Љ�Ă���l�T�C�g�͑��ɂ��܂�m��Ȃ��̂ŁA�����[���{���ł��܂����B�����X�V��S�҂��ɂ��Ă���܂��i�΁j</span><p>
+<span>尾崎に住む者です。検索してたらこのサイトに辿り着きました。阪南市を紹介している個人サイトは他にあまり知らないので、興味深く閲覧できました。次期更新を心待ちにしております（笑）</span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>�ŏI�X�V��</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2003�N9��19��(��)18��03�� <strong>���e��</strong> ��_�� [192.168.0.2] <input type=checkbox name="target" value="20030919180308">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>最終更新が</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2003年9月19日(金)18時03分 <strong>投稿者</strong> 矢治浩平 [192.168.0.2] <input type=checkbox name="target" value="20030919180308">削除<p>
 </font>
 <blockquote>
-<span>2000�N������ˁB�܁A���̂���ɂ́A�������x���ς���Ă����킯�����ǁB<br>�������x�ɕύX���������̂͂T�N�O�B����������͂����Ɛ�������񂾂����킯�Łi�������������͏m�̍u�t�Ƃ����Ă����j���ǁA�ق����Ă����Ƃ����Ȃ�A�Ƃ������{�ł��B<br><br>����ȊO�̓_���A�������ς���Ă���킯�ŁA���Ȃ�Â���񂾂��ĔF���͂���܂��B<br>�����A�����������̃y�[�W�𗧂��グ�������ƈ���āAgoogle�łقږړI�̏��ɂ��ǂ���̂ŁA�ŐV�̏���l������������K�v������̂��A���Ă����C�͂��Ă܂��B<br>�����N���قƂ�ǃf�b�h�ɂȂ��Ă邵�A���e�����Ȃ�Â��Ȃ��Ă邵�A��x���{�I�ɉ��肵�����������̍��B�ł�����܂莞�Ԃ��Ȃ��Ȃ��B</span><p>
+<span>2000年だもんね。ま、そのころには、入試制度が変わっていたわけだけど。<br>入試制度に変更があったのは５年前。作った当時はちゃんと正しい情報だったわけで（いちおう当時は塾の講師とかしてたし）けど、ほうっておくとそうなる、という見本です。<br><br>それ以外の点も、もちろん変わっているわけで、かなり古い情報だって認識はあります。<br>ただ、そもそもこのページを立ち上げた当時と違って、googleでほぼ目的の情報にたどりつくので、最新の情報を僕がおっかける必要があるのか、っていう気はしてます。<br>リンクもほとんどデッドになってるし、内容もかなり古くなってるし、一度抜本的に改定したい今日この頃。でもあんまり時間がないなあ。</span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>�T�C�o�[�V�e�B�[�a�̎R�I�I</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2003�N9��18��(��)10��43�� <strong>���e��</strong> taka [p1207-ipbf04kobeminato.hyogo.ocn.ne.jp] <input type=checkbox name="target" value="20030918104343">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>サイバーシティー和歌山！！</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2003年9月18日(木)10時43分 <strong>投稿者</strong> taka [p1207-ipbf04kobeminato.hyogo.ocn.ne.jp] <input type=checkbox name="target" value="20030918104343">削除<p>
 </font>
 <blockquote>
-<span>�͂��߂܂��āI<br>�ˑR�ł����A�T�C�o�[�V�e�B�[���Ă����m�ł����H<br>�����ɍs���΁A�ޗǂ̃O�����A�V���b�s���O���⊄���N�[�|���̏���<br>��y��GET���邱�Ƃ��ł����ł���B<br>���X�X����A�傫�ȃV���b�s���O���[���̂��X�̏��܂ő����Ă��܂��B<br><br>�܂��A������������W���J�n�I�I<br>�l����o�^���邱�ƂŁA���X�̂����ȏ���֗��ȏ������������Q�b�g<br>���邱�Ƃ��ł��܂��B<br><br>����ɁA���Ȃ�f�W�J��������`�����X���I�I<br>Cyber-Shot�AIXY DIGITAL�AFinePix�Ȃǂ���ɓ����`�����X�ł��B<br>���Ѓ`�F�b�N���Ă݂Ă���������<br><br><br></span><p>
+<span>はじめまして！<br>突然ですが、サイバーシティーってご存知ですか？<br>ここに行けば、奈良のグルメ、ショッピング情報や割引クーポンの情報を<br>手軽にGETすることができるんですよ。<br>商店街から、大きなショッピングモールのお店の情報まで揃っています。<br><br>また、今月から会員募集を開始！！<br>個人会員登録することで、お店のお得な情報や便利な情報をいち早くゲット<br>することができます。<br><br>さらに、今ならデジカメが当るチャンスも！！<br>Cyber-Shot、IXY DIGITAL、FinePixなどを手に入れるチャンスです。<br>ぜひチェックしてみてください♪<br><br><br></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>���s���玖��</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2003�N7��12��(�y)05��11�� <strong>���e��</strong> ������]�ł��E�ˁE���E�� [zaq3d7d5d65.zaq.ne.jp] <input type=checkbox name="target" value="20030712051141">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>阪南市教育事情</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2003年7月12日(土)05時11分 <strong>投稿者</strong> 匿名希望でお・ね・が・い [zaq3d7d5d65.zaq.ne.jp] <input type=checkbox name="target" value="20030712051141">削除<p>
 </font>
 <blockquote>
-<span>���`��c�@�����̂��Ȃ��`<br>����ȑ�̂̍��Z�������x�̏������̂܂܂ɂ��Ă����āB<br><br>�������ɏ�����Ă���u���\�Ǝ󌱐��т��P�O�i�K�ɕ�����v��肩����<br>����񂪍��Z�������������̂��̂ł���H<br>���ł͂������肩����Ă����B<br>�e���Z������߂�u�{�[�_�[�]�[���v���Ă����̂���������Ă�̒m���Ă�H<br><br>�Ƃ肠�����u�{�[�_�[�]�[���v�Ō��������Ă�����B<br>�����ς������������Ă��邩��B<br>�����Əڂ�����񂪗~�����Ȃ�A���{�{�����Z���^�[�ɍs����<br>�u���{���������w�Z���w�ґI�����{�v���v���w�������炢����B<br>�P�T�O�~�ʂ���Ȃ����ȁB<br><br>�����A�Ԉ�����������܂ł�����������̂͂ǂ����Ǝv����B<br>���႟�A��������񂪃A�b�v�����̂�҂��Ă邩��ˁ`�B<br>(^_^)/~<br><br><br><br></span><p>
+<span>う～ん…　いいのかなぁ～<br>あんな大昔の高校入試制度の情報をそのままにしておいて。<br><br>あそこに書かれている「内申と受験成績を１０段階に分ける」やりかたは<br>矢治くんが高校入試をした頃のものでしょ？<br>今ではすっかりかわっているよ。<br>各高校が基準を定める「ボーダーゾーン」っていうのが導入されてるの知ってる？<br><br>とりあえず「ボーダーゾーン」で検索かけてごらんよ。<br>いっぱい引っかかってくるから。<br>もっと詳しい情報が欲しいなら、大阪府府政情報センターに行って<br>「大阪府公立高等学校入学者選抜実施要項」を購入したらいいよ。<br>１５０円位じゃないかな。<br><br>矢治くん、間違った情報をいつまでも流し続けるのはどうかと思うよ。<br>じゃぁ、正しい情報がアップされるのを待ってるからね～。<br>(^_^)/~<br><br><br><br></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>���������W�֐�������</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2003�N6��17��(��)10��19�� <strong>���e��</strong> <a href="mailto:nogiku@mizar.freemail.ne.jp">nogiku</a> [zaq3d7d463b.zaq.ne.jp] <input type=checkbox name="target" value="20030617101929">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>懐かしい淡輪聖書教会</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2003年6月17日(火)10時19分 <strong>投稿者</strong> <a href="mailto:nogiku@mizar.freemail.ne.jp">nogiku</a> [zaq3d7d463b.zaq.ne.jp] <input type=checkbox name="target" value="20030617101929">削除<p>
 </font>
 <blockquote>
-<span>����ɂ��́B<br>�u�W�֐�������v�ƌ������āA�����ɒH�蒅���܂����B<br>���������ł��B������V�����Ȃ�����ł��ˁB<br>�����ʂ��Ă������́A���c�̃L�����v��̎{�݂̒��ɂ���܂����B<br>�Ԃ�������������ɂ����āE�E�E<br>�R�O�N�ȏ�̂ł��B<br>���̍��A���ǂ����Ă��������Ă����X�A�����C�ł���������̂ł��傤���B<br>���������΁A���̌Â������݃I���K���̉�����D���ł����B<br>���̍��́A�����Ԃ��p�炤�N���A���傤�Ǔ�\�΂̍��ł������E�E�E<br>���́A�N���̉߂��s���X�s�[�h�ɁA������Ɣ߂������Ȃ�΂ɂȂ�܂����B<br>�����Ƃ́A�قǉ��������ɁA�܂݂�Ă��鎄�̃z�[���y�[�W�ł��B<br>�@�����΁A���Ă݂Ă��������ˁB<br><a href="http://fruit.gaiax.com/home/nogiku/main" target="_blank">http://fruit.gaiax.com/home/nogiku/main</a></span><p>
+<span>こんにちは。<br>「淡輪聖書教会」と検索して、ここに辿り着きました。<br>懐かしいです。教会も新しくなったんですね。<br>私が通っていた頃は、町営のキャンプ場の施設の中にありました。<br>赤い鳥居が入り口にあって・・・<br>３０年以上昔です。<br>あの頃、仲良くしていただいてた方々、お元気でいらっしゃるのでしょうか。<br>そういえば、あの古い足踏みオルガンの音も大好きでした。<br>あの頃は、私も花も恥らう年頃、ちょうど二十歳の頃でしたが・・・<br>今は、年月の過ぎ行くスピードに、ちょっと悲しくもなる歳になりました。<br>聖書とは、ほど遠い生活に、まみれている私のホームページです。<br>機会があれば、来てみてくださいね。<br><a href="http://fruit.gaiax.com/home/nogiku/main" target="_blank">http://fruit.gaiax.com/home/nogiku/main</a></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>�����ŃR�R�ɒH�蒅���܂���</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2003�N4��17��(��)14��37�� <strong>���e��</strong> ��317 [zaq3d7d42f5.zaq.ne.jp] <input type=checkbox name="target" value="20030417143713">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>検索でココに辿り着きました</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2003年4月17日(木)14時37分 <strong>投稿者</strong> ｋ317 [zaq3d7d42f5.zaq.ne.jp] <input type=checkbox name="target" value="20030417143713">削除<p>
 </font>
 <blockquote>
-<span>����ɂ��́B<br>���s�Ɉ����z���ĂR�N�ځB�����������ăR�R�ɗ��܂����B<br>�w���s�i�w����x��ǂ܂��Ă��������A�����t�������������Ă��������B<br><br>�ŋ߂͐򍲖삩��X�N�[���o�X�Ő����w��(�ߔN�A���x���A�b�v)<br>���Â���X�N�[���o�X�Œ�ˎR�w�@�򂪋u(�j�����w�E��������w�ɂ����i�҂���)�ɒʂ��q���኱�A������悤�ɂȂ��ė��܂����B<br>�@���́A�т̕����w���ߏ��Ȃ̂ł����A����ł����w�󌱂��邨�����<br>������C�E�q�٘a�̎R�E�����w���E��{�E�a�̎R�e���̐��������o���Ă����܂��B<br>�@���̎q�́u�H�ߊw���v�ɒʂ킹�邭�炢�Ȃ�~�b�V�����n�ł��������������Ă����u�a�̎R�e���v�֍s���������ƍl������������ł��ˁB��w�̎w��Z���E���ǂ����������Ɖ\�ł��B�������Z�͐i�w���т��n���ɂȂ��Ă��Ă��܂��B</span><p>
+<span>こんにちは。<br>阪南市に引っ越して３年目。検索をかけてココに来ました。<br>『阪南市進学事情』を読ませていただき、少し付け足しをさせてください。<br><br>最近は泉佐野からスクールバスで清教学園(近年、レベルアップ)<br>泉大津からスクールバスで帝塚山学院泉が丘(男女共学・国公立大学にも合格者あり)に通う子も若干、見られるようになって来ました。<br>　実は、飯の峰中学が近所なのですが、それでも中学受験するお宅が多く<br>清風南海・智弁和歌山・清風学園・上宮・和歌山親愛の制服が坂を登っていきます。<br>　女の子は「羽衣学園」に通わせるくらいならミッション系でしつけを厳しくしてくれる「和歌山親愛」へ行かせたいと考える方が多いですね。大学の指定校推薦も良い所が多いと噂です。公立高校は進学実績も地味になってきています。</span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>�͂��߂܂���(*^_^*)</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2003�N3��15��(�y)17��59�� <strong>���e��</strong> �݂� [p6257e6.fkokac00.ap.so-net.ne.jp] <input type=checkbox name="target" value="20030315175951">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>はじめまして(*^_^*)</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2003年3月15日(土)17時59分 <strong>投稿者</strong> みき [p6257e6.fkokac00.ap.so-net.ne.jp] <input type=checkbox name="target" value="20030315175951">削除<p>
 </font>
 <blockquote>
-<span>���R�������݂������ז������Ă��������܂���(^^)<br>�����g�o���܂����B�悩������K�₭������(^^)<br><br><a href="http://smile.tsukaeru.jp/~hobbysmile/" target="_blank">http://smile.tsukaeru.jp/~hobbysmile/</a></span><p>
+<span>偶然迷い込みついついお邪魔させていただきました(^^)<br>私もＨＰ作りました。よかったら訪問ください(^^)<br><br><a href="http://smile.tsukaeru.jp/~hobbysmile/" target="_blank">http://smile.tsukaeru.jp/~hobbysmile/</a></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>������ƋC�ɂȂ���</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N12��28��(�y)05��48�� <strong>���e��</strong> XOJHANG [yahoobb219037208024.bbtec.net] <input type=checkbox name="target" value="20021228054833">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>ちょっと気になった</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年12月28日(土)05時48分 <strong>投稿者</strong> XOJHANG [yahoobb219037208024.bbtec.net] <input type=checkbox name="target" value="20021228054833">削除<p>
 </font>
 <blockquote>
-<span><a href="http://www.novels.jp/~yaji/dosnet/index.htm" target="_blank">http://www.novels.jp/~yaji/dosnet/index.htm</a><br>���̃y�[�W�́AWork Group Connection�Ə����ׂ��Ƃ��낪1�ӏ��A<br>Network Client�ɂȂ��Ă���B<br>�܁A�킩�邯�ǁB<br></span><p>
+<span><a href="../../~yaji/dosnet/index.htm" target="_blank">http://www.novels.jp/~yaji/dosnet/index.htm</a><br>このページの、Work Group Connectionと書くべきところが1箇所、<br>Network Clientになっている。<br>ま、わかるけど。<br></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>���߂܂���</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N12��9��(��)16��29�� <strong>���e��</strong> �Ђ� [61-195-107-6.eonet.ne.jp] <input type=checkbox name="target" value="20021209162939">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>初めまして</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年12月9日(月)16時29分 <strong>投稿者</strong> ひで [61-195-107-6.eonet.ne.jp] <input type=checkbox name="target" value="20021209162939">削除<p>
 </font>
 <blockquote>
-<span>���߂܂��āB<br>�ˑR���炵�܂��B<br>�o�Ђ͂���܂��񂪁A�o�b���D���Ȑl�ɂ͎d��������܂��B<br>�܂��߂ŁA�n���ȍ�Ƃ��ł��鎞�Ԃ�����������ł��܂��񂪁A�������������K�v�ȏ󋵂̕����������������B<br>���s�v�Ȃ�폜���ĉ������B<br><a href="http://www.web-atlantis.com/atlas/c/004.htm" target="_blank">http://www.web-atlantis.com/atlas/c/004.htm</a>  </span><p>
+<span>初めまして。<br>突然失礼します。<br>出社はありませんが、ＰＣが好きな人には仕事があります。<br>まじめで、地道な作業ができる時間がある方しかできませんが、そういう事が必要な状況の方だけご覧下さい。<br>※不要なら削除して下さい。<br><a href="http://www.web-atlantis.com/atlas/c/004.htm" target="_blank">http://www.web-atlantis.com/atlas/c/004.htm</a>  </span><p>
 </blockquote>
 <hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>oja-masimasu.</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N11��23��(�y)01��16�� <strong>���e��</strong> ma-chang [sapba-12p202.ppp13.odn.ad.jp] <input type=checkbox name="target" value="20021123011659">�폜<p>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年11月23日(土)01時16分 <strong>投稿者</strong> ma-chang [sapba-12p202.ppp13.odn.ad.jp] <input type=checkbox name="target" value="20021123011659">削除<p>
 </font>
 <blockquote>
-<span>watashikininaru,pe-jidesune.jinnseikawaremasuka-..<br>���@�@�@�@�@���@�@�@�@�@��<br><a href="http://www2.odn.ne.jp/happy-happy/" target="_blank">http://www2.odn.ne.jp/happy-happy/</a></span><p>
+<span>watashikininaru,pe-jidesune.jinnseikawaremasuka-..<br>↓　　　　　↓　　　　　↓<br><a href="http://www2.odn.ne.jp/happy-happy/" target="_blank">http://www2.odn.ne.jp/happy-happy/</a></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>������g������</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N11��15��(��)16��44�� <strong>���e��</strong> �� [61.194.15.76] <input type=checkbox name="target" value="20021115164410">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>これも使えそう</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年11月15日(金)16時44分 <strong>投稿者</strong> ｆ [61.194.15.76] <input type=checkbox name="target" value="20021115164410">削除<p>
 </font>
 <blockquote>
 <span><a href="http://www.okayama-u.ac.jp/user/cc/service/free3.html" target="_blank">http://www.okayama-u.ac.jp/user/cc/service/free3.html</a></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>�g������</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N9��27��(��)11��44�� <strong>���e��</strong> ���� [61.194.15.76] <input type=checkbox name="target" value="20020927114400">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>使えそう</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年9月27日(金)11時44分 <strong>投稿者</strong> ｔｔ [61.194.15.76] <input type=checkbox name="target" value="20020927114400">削除<p>
 </font>
 <blockquote>
 <span><a href="http://clip.yokohama-cu.ac.jp/~yamaguchi/frame/frame.html" target="_blank">http://clip.yokohama-cu.ac.jp/~yamaguchi/frame/frame.html</a></span><p>
 </blockquote>
 <hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>tt</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N7��26��(��)14��25�� <strong>���e��</strong> tttt [61.194.15.76] <input type=checkbox name="target" value="20020726142540">�폜<p>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年7月26日(金)14時25分 <strong>投稿者</strong> tttt [61.194.15.76] <input type=checkbox name="target" value="20020726142540">削除<p>
 </font>
 <blockquote>
 <span><a href="http://www.storage.ibm.com/hdd/support/download.htm" target="_blank">http://www.storage.ibm.com/hdd/support/download.htm</a></span><p>
 </blockquote>
 <hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>ttt</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N7��24��(��)10��38�� <strong>���e��</strong> tttt [61.194.15.76] <input type=checkbox name="target" value="20020724103834">�폜<p>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年7月24日(水)10時38分 <strong>投稿者</strong> tttt [61.194.15.76] <input type=checkbox name="target" value="20020724103834">削除<p>
 </font>
 <blockquote>
 <span>teswt</span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>�G�ߘJ����</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N5��29��(��)23��49�� <strong>���e��</strong> ��_�� [dhcp1] <input type=checkbox name="target" value="20020529234910">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>季節労働者</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年5月29日(水)23時49分 <strong>投稿者</strong> 矢治浩平 [dhcp1] <input type=checkbox name="target" value="20020529234910">削除<p>
 </font>
 <blockquote>
-<span>�q�}�ȂƂ��́A�q�}�łȂ��t��������̂ɖZ�����Ȃ�B<br>�ŋ߉�Ђ̎d�����{���ɂ܂�Ȃ��B<br>�܂��A��̂Ȃ�����Ȃ��̂��B</span><p>
+<span>ヒマなときは、ヒマでないフリをするのに忙しくなる。<br>最近会社の仕事が本当につまらない。<br>まあ、よのなかこんなものか。</span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>�d���H</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N5��6��(��)05��33�� <strong>���e��</strong> ��_�� [novels.as.wakwak.ne.jp] <input type=checkbox name="target" value="20020506053342">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>重い？</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年5月6日(月)05時33分 <strong>投稿者</strong> 矢治浩平 [novels.as.wakwak.ne.jp] <input type=checkbox name="target" value="20020506053342">削除<p>
 </font>
 <blockquote>
-<span>�Ȃ񂩁A�v�����T�C�g���d���Ȃ����H<br>�p�P�b�g�t�B���^�̂����������H<br></span><p>
+<span>なんか、Ｗｅｂサイトが重くなった？<br>パケットフィルタのかけすぎか？<br></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>���j��</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N4��7��(��)23��58�� <strong>���e��</strong> ��_�� [192.168.1.11] <input type=checkbox name="target" value="20020407235834">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>日曜日</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年4月7日(日)23時58分 <strong>投稿者</strong> 矢治浩平 [192.168.1.11] <input type=checkbox name="target" value="20020407235834">削除<p>
 </font>
 <blockquote>
-<span>�Ƃɂ����Q�Ă���������ł������B<br>���������̂ŁA����Ă�����e�́u�Q�Ă��v�ƒǂ��Ԃ����B<br>�܂��A����ȓ����K�v���B</span><p>
+<span>とにかく寝てすごす一日であった。<br>眠かったので、やってきた母親は「寝てた」と追い返した。<br>まあ、こんな日も必要だ。</span><p>
 </blockquote>
 <hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>AntiVirus Free</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N3��26��(��)15��29�� <strong>���e��</strong> Kouhei.Yaji [cacheflow-osaka.sts.co.jp] <input type=checkbox name="target" value="20020326152930">�폜<p>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年3月26日(火)15時29分 <strong>投稿者</strong> Kouhei.Yaji [cacheflow-osaka.sts.co.jp] <input type=checkbox name="target" value="20020326152930">削除<p>
 </font>
 <blockquote>
 <span><a href="http://www.free-av.com/" target="_blank">http://www.free-av.com/</a></span><p>
 </blockquote>
-<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>����</font></td></tr></table>
-<font size=-1 color=#000000>�@<strong>���e��</strong> 2002�N3��22��(��)12��00�� <strong>���e��</strong> ������ [p121-dna35kitafuse.osaka.ocn.ne.jp] <input type=checkbox name="target" value="20020322120047">�폜<p>
+<hr size=1><table border=0><Tr><td bgcolor=#ffaaaa><font size=+1 color=#000000>定例会</font></td></tr></table>
+<font size=-1 color=#000000>　<strong>投稿日</strong> 2002年3月22日(金)12時00分 <strong>投稿者</strong> たかこ [p121-dna35kitafuse.osaka.ocn.ne.jp] <input type=checkbox name="target" value="20020322120047">削除<p>
 </font>
 <blockquote>
-<span>���T�R�O���̓y�j���������܂����H<br>�Ă������Q�N�O�ƒ���̏ꏊ�ς���ĂȂ��ł����H<br>��������ԂȂ�΂R�O���s�����Ǝv���ă}�X��<br>�����A�ꏊ���ς���Ă�悤�Ȃ烁�[���ŋ����Ă�������m(_ _)m<br></span><p>
+<span>来週３０日の土曜日も定例会ありますか？<br>ていうか２年前と定例会の場所変わってないですか？<br>だいじょぶならば３０日行こうと思ってマス☆<br>もし、場所が変わってるようならメールで教えてくださいm(_ _)m<br></span><p>
 </blockquote>
 <hr size=3 noshade>
 <p><table border=3 cellpadding=1 cellspacing=2><tr>
-<td align=center>�폜�L�[ <input type=password name="pwd" size=10 value=""> <input type=submit value="�폜"></td></form>
-<form method=POST action="http://www.novels.jp/~bbs/cgi-bin/yajibbs.cgi">
+<td align=center>削除キー <input type=password name="pwd" size=10 value=""> <input type=submit value="削除"></td></form>
+<form method=POST action="yajibbs.cgi">
 <input type=hidden name="page" value="21">
 <input type=hidden name="all" value="0">
 <input type=hidden name="allhits" value="0">
 <input type=hidden name="search" value="">
 <input type=hidden name="mode" value="">
-<td align=center><input type=submit value="���̃y�[�W"></td></tr></form><tr>
-<form method=POST action="http://www.novels.jp/~bbs/cgi-bin/yajibbs.cgi">
-<td>������ <input type=text name="search" value="" size=15>
+<td align=center><input type=submit value="次のページ"></td></tr></form><tr>
+<form method=POST action="yajibbs.cgi">
+<td>文字列 <input type=text name="search" value="" size=15>
 <input type=radio name="mode" value="and" checked>AND <input type=radio name="mode" value="or" >OR
-<input type=submit value="����"></td></form>
-<td align=center><strong><font size=+1>[<a href="http://www.novels.jp/~bbs/cgi-bin/yajibbs.cgi">�X�V</a>] [<a href="http://www.novels.jp/~yaji/" target="_top">�I��</a>]</font></strong></td>
+<input type=submit value="検索"></td></form>
+<td align=center><strong><font size=+1>[<a href="yajibbs.cgi">更新</a>] [<a href="../../~yaji/index.html" target="_top">終了</a>]</font></strong></td>
 </tr></table><p>
 <font size=-1 color=#000000>
 
-�� ���ׂẴ{�^���͂P�񂾂������Ă��΂炭���҂���������.<br>
-�� [�폜]�{�b�N�X���`�F�b�N���āA���e���ɐݒ肵���폜�L�[����͂��ă{�^���������΍폜�ł��܂�.<br>
-�� ����������̓X�y�[�X�ŋ�؂邱�Ƃŕ����w��ł��܂�.<br>
-�� �����w�莞�ɂ͂��ꂼ��̕�����ɑ΂��āAAND(����) OR(�܂���)��K�p���܂�.<br>
-�� �폜�L�[���Ƀ}�X�^�[�L�[(�Ǘ��҂̂�)����͂���Ƃ��ׂĂ̋L���̍폜���\�ł�.
+※ すべてのボタンは１回だけ押してしばらくお待ちください.<br>
+※ [削除]ボックスをチェックして、投稿時に設定した削除キーを入力してボタンを押せば削除できます.<br>
+※ 検索文字列はスペースで区切ることで複数指定できます.<br>
+※ 複数指定時にはそれぞれの文字列に対して、AND(かつ) OR(または)を適用します.<br>
+※ 削除キー欄にマスターキー(管理者のみ)を入力するとすべての記事の削除が可能です.
 </font><p>
 <br><br><br>
-<form method=POST action="http://www.novels.jp/~bbs/cgi-bin/yajibbs.cgi">
-<input type=hidden name="admin" value="change"><input type=submit value="�Ǘ��L�[�ύX"></form>
-<IMG SRC="http://www.novels.jp/~bbs/cgi-bin/npc.cgi?L=http://www2.sts.co.jp/~yaji/yajibbs.htm&I=/home/bbs/public_html/cgi-bin/npc.idx&INC=0&P=ON&A=G"><h5 align=right><a href="http://www.rescue.ne.jp/" target="_top"><img src="http://www.novels.jp/~bbs/cgi-bin/yajibbs.cgi?copyright" border=0 alt="MiniBBS v10.21"></a></h5>
+<form method=POST action="yajibbs.cgi">
+<input type=hidden name="admin" value="change"><input type=submit value="管理キー変更"></form>
+<IMG SRC="npc@L_http:__www2.sts.co.jp_~yaji_yajibbs.htm_I__home_bbs_public_html_cgi-bin_npc.idx_INC_0_P_ON_A_G.cgi"><h5 align=right><a href="http://www.rescue.ne.jp/" target="_top"><img src="yajibbs@copyright.cgi" border=0 alt="MiniBBS v10.21"></a></h5>
 </body></html>

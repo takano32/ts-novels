@@ -1,29 +1,29 @@
 <HTML>
 <HEAD>
-<TITLE>DOS�Ńl�b�g���[�N���I</TITLE>
-<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>DOSでネットワークを！</TITLE>
+<meta charset="utf-8">
 </HEAD>
 <BODY>
 <OL type=1 start=4> 
-<A NAME="#4"><H3><LI>Network Client For DOS�̃C���X�g�[��(�ݒ�ύX�ҁj</H3></A>
-���̂܂܂ł́A�����炭���Ȃ��̃R���s���[�^�ŋN�����Ă��N�����邱�Ƃ͏o���Ȃ��B�������Ac:\net�t�H���_�����̃t�@�C�����Q�ύX����K�v������B���̃t�@�C���Ƃ́A<B>c:\net\system.ini</B>��<B>c:\net\protocol.ini</B>�ł���B�{���Ȃ�΃C���X�g�[���r���Ń_�E�����[�h�����l�b�g���[�N�h���C�o���C���X�g�[������K�v������̂����A���̕��@��l�͂����߂��Ȃ��B�Ƃ����̂́A�ݒ�t�@�C���̋L�q���Ԉ���Ă��āA�C���X�g�[���[�ɒ��˂��邱�Ƃ������̂��B�����ł́ARealtek��RL8139���ɂƂ��āA�ύX�ӏ���������悤�B<BR>
+<A NAME="#4"><H3><LI>Network Client For DOSのインストール(設定変更編）</H3></A>
+このままでは、おそらくあなたのコンピュータで起動しても起動することは出来ない。いくつか、c:\netフォルダ内部のファイルを２つ変更する必要がある。そのファイルとは、<B>c:\net\system.ini</B>と<B>c:\net\protocol.ini</B>である。本来ならばインストール途中でダウンロードしたネットワークドライバをインストールする必要があるのだが、この方法を僕はお勧めしない。というのは、設定ファイルの記述が間違っていて、インストーラーに跳ねられることが多いのだ。ここでは、RealtekのRL8139を例にとって、変更箇所を説明しよう。<BR>
 <OL>
-<B><LI>�h���C�o�̃_�E�����[�h</B><BR>
-�K�v�ȃl�b�g���[�N�h���C�o�͎��͂ŒT���o���ă_�E�����[�h����K�v������BRealtek��RL8139�̏ꍇ��<A HREF="ftp://ftp.realtek.com.tw/LANCARD/drivers/8139/oem-8139(380).exe">
-ftp://ftp.realtek.com.tw/LANCARD/drivers/8139/oem-8139(380).exe</A>����_�E�����[�h�ł���B��������Aoem-8139(380).exe ���_�E�����[�h���āA�K���ȃt�H���_�ɉ𓀂��悤�B<BR>
-<B><LI>�K�v�ȃt�H���_�̃R�s�[</B><BR>
-<FONT COLOR="800000">�𓀂����t�H���_\MSLANMAN.DOS\DRIVERS\ETHERNET\RTL8139</FONT>�ɂ́A��̃t�@�C���������Ă���B<BR>
-<FONT COLOR="800000">PROTOCOL.INI</FONT>��
+<B><LI>ドライバのダウンロード</B><BR>
+必要なネットワークドライバは自力で探し出してダウンロードする必要がある。RealtekのRL8139の場合は<A HREF="ftp://ftp.realtek.com.tw/LANCARD/drivers/8139/oem-8139(380).exe">
+ftp://ftp.realtek.com.tw/LANCARD/drivers/8139/oem-8139(380).exe</A>からダウンロードできる。ここから、oem-8139(380).exe をダウンロードして、適当なフォルダに解凍しよう。<BR>
+<B><LI>必要なフォルダのコピー</B><BR>
+<FONT COLOR="800000">解凍したフォルダ\MSLANMAN.DOS\DRIVERS\ETHERNET\RTL8139</FONT>には、二つのファイルが入っている。<BR>
+<FONT COLOR="800000">PROTOCOL.INI</FONT>と
 <FONT COLOR="800000">RTSND.DOS</FONT>
-�̓�ł���B����xxxxxxx.DOS�Ɗg���q��DOS�ł���̂��h���C�o���BRTSND.DOS��Network Client For DOS���C���X�g�[�������AC:\NET�ɃR�s�[���悤�B<BR>
+の二つである。このxxxxxxx.DOSと拡張子がDOSであるのがドライバだ。RTSND.DOSをNetwork Client For DOSをインストールした、C:\NETにコピーしよう。<BR>
 
-<B><LI>c:\net\system.ini��ύX����</B><BR>
+<B><LI>c:\net\system.iniを変更する</B><BR>
 <TABLE><TR VALIGN=TOP><TD WIDTH=60%>
-�E�̓C���X�g�[�������c:\net\system.ini���B������<BR>
+右はインストール直後のc:\net\system.iniだ。ここに<BR>
 <B>netcard=elnk.dos</B><BR>
-�Ƃ����L�q�����邪�A�����̉E�ӂ�ړI�̃l�b�g���[�N�J�[�h�̂��̂ɕύX����B�����ł�<B>RTSND.DOS</B>������A<BR>
+という記述があるが、ここの右辺を目的のネットワークカードのものに変更する。ここでは<B>RTSND.DOS</B>だから、<BR>
 <B>netcard=RTSND.DOS</B><BR>
-�ɏC������B
+に修正する。
 
 
 </TD><TD><TABLE BGCOLOR="A0A0FF" WIDTH=240>
@@ -57,21 +57,21 @@ LoadRMDrivers=yes<BR>
 *Shares=C:\NET\Shares.PWL<BR>
 </TD></TR></TABLE>
 </TD></TR></TABLE> 
-<B><LI>c:\net\protocol.ini��ύX����</B><BR>
+<B><LI>c:\net\protocol.iniを変更する</B><BR>
 <TABLE><TR VALIGN=TOP><TD WIDTH=240>
-�E�̓C���X�g�[�������c:\net\protocol.ini���B������[MS$ELNK]�Ƃ����Z�N�V����������͂����B<BR>
-�����ɂ́A<BR><B>
+右はインストール直後のc:\net\protocol.iniだ。ここに[MS$ELNK]というセクションがあるはずだ。<BR>
+ここには、<BR><B>
 DriverName=ELNK$<BR>
 INTERRUPT=3<BR>
 IOADDRESS=0x300<BR>
 DMACHANNEL=none<BR>
 DMAMODE=burst<BR>
 MAXTRANSMITS=12<BR></B>
-�Ɨ񋓂���Ă���B������S�č폜���āA<BR>
-<FONT COLOR="800000">�𓀂����t�H���_\MSLANMAN.DOS\DRIVERS<BR>\ETHERNET\RTL8139\protocol.ini</FONT><BR>
-�ɏ�����Ă�����e�����̂܂܃y�[�X�g���悤�B��{�I�ɂ�<BR>
+と列挙されている。これらを全て削除して、<BR>
+<FONT COLOR="800000">解凍したフォルダ\MSLANMAN.DOS\DRIVERS<BR>\ETHERNET\RTL8139\protocol.ini</FONT><BR>
+に書かれている内容をそのままペーストしよう。基本的には<BR>
 <B>DriveName=RTSND$</B><BR>
-�Ƃ��������΂悢�B�Ƃ���ŁA���ۂɍ�����Ă݂���<BR>
+とだけ書けばよい。ところで、実際に今やってみたら<BR>
 <B>
 [ndishlp$]<BR>
 DriverName=ndishlp$<BR>
@@ -90,11 +90,11 @@ sessions=10<BR>
 ncbs=12<BR>
 DriverName=NETBEUI$<BR>
 Lanabase=0<BR></B>
-���Ȃ������x����Ă��}������Ă��܂��̂����Ac:\windows\protocol.ini�̓��e�����̂܂ܑ}������Ă��܂��Ă����悤���B
+がなぜか何度やっても挿入されてしまうのだが、c:\windows\protocol.iniの内容がそのまま挿入されてしまっていたようだ。
 </TD><TD>
 <TABLE BGCOLOR="A0A0FF" ALIGN=LEFT>
 <TR><TD>
-<B>�ύX�O��protocol.ini</B><BR><BR>
+<B>変更前のprotocol.ini</B><BR><BR>
 [network.setup]<BR>version=0x3110<BR>
 netcard=ms$elnk,1,MS$ELNK,1<BR>
 transport=ms$ndishlp,MS$NDISHLP<BR>
@@ -130,7 +130,7 @@ LANABASE=0<BR>
 </TD><TD>
 <TABLE BGCOLOR=A0A0FF ALIGN=RIGHT">
 <TR><TD>
-<B>�ύX���protocol.ini</B><BR><BR>
+<B>変更後のprotocol.ini</B><BR><BR>
 [network.setup]<BR>version=0x3110<BR>
 netcard=ms$elnk,1,MS$ELNK,1<BR>
 transport=ms$ndishlp,MS$NDISHLP<BR>
@@ -164,25 +164,25 @@ BINDINGS=MS$ELNK<BR>
 LANABASE=0<BR>
 </TD></TR></TABLE>
 </TD></TR></TABLE> 
-<A NAME="#5"><BR><B><LI>����e�X�g</B><BR></A>
-�ݒ�t�@�C���̕ύX���I�������A�Ă�command prompt only�ŋN�����悤�B��������ƁA�A�J�E���g�ƃp�X���[�h�𕷂��Ă���͂����B�����ڑ���̃R���s���[�^�ɃA�J�E���g�ƃp�X���[�h���K�v�Ȃ�΁i���Ƃ��΁AWindows NT Workstation�� Windows NT Server�Ȃǁj�A����ɓo�^���Ă���A�J�E���g�������œ��͂��悤�B<BR>
-���O�I��������������Anet use �R�}���h�ŁA�ړI�̋��L��ڑ�����B�����́A
-<blockquote><B>net use �h���C�u�� \\�R���s���[�^��\���L��</B></blockquote>
-���B�Ⴆ�΁A�R���s���[�^BASE�̋��LVOL1��`���ꍇ�́A<BR>
+<A NAME="#5"><BR><B><LI>動作テスト</B><BR></A>
+設定ファイルの変更が終わったら、再びcommand prompt onlyで起動しよう。そうすると、アカウントとパスワードを聞いてくるはずだ。もし接続先のコンピュータにアカウントとパスワードが必要ならば（たとえば、Windows NT Workstationや Windows NT Serverなど）、相手に登録しているアカウントをここで入力しよう。<BR>
+ログオンが完了したら、net use コマンドで、目的の共有を接続する。書式は、
+<blockquote><B>net use ドライブ名 \\コンピュータ名\共有名</B></blockquote>
+だ。例えば、コンピュータBASEの共有VOL1を覗く場合は、<BR>
 <B><I>net use L: \\base\vol1</I></B><BR>
-�Ɠ��͂���΁AL:�h���C�u�ɁA����̃R���s���[�^�̃t�@�C����������͂��ł���B
+と入力すれば、L:ドライブに、相手のコンピュータのファイルが見えるはずである。
 </OL>
-<H3><LI>�t���b�s�[�ꖇ�Ɏ��߂�</H3>
+<H3><LI>フロッピー一枚に収める</H3>
 <OL>
-<LI><B>�܂��t���b�s�[�ꖇ���V�X�e���t�Ńt�H�[�}�b�g����B</B><BR>
+<LI><B>まずフロッピー一枚をシステム付でフォーマットする。</B><BR>
 <blockquote><B>format a: /s</B></blockquote>
-<LI>���ɁAhimem.sys ���R�s�[���悤<BR>
+<LI>次に、himem.sys をコピーしよう<BR>
 <blockquote><B>copy c:\windows\himem.sys a:</B></blockquote>
-<LI>���ɁAc:\net�̒��g���R�s�[����B<BR>
-�܂��A�t���b�s�[�Ƀt�H���_����낤�B�t�H���_���͉��ł������B
+<LI>次に、c:\netの中身をコピーする。<BR>
+まず、フロッピーにフォルダを作ろう。フォルダ名は何でもいい。
 <blockquote><B>mkdir a:\net</B></blockquote>
-���̗�ł�A:\net�Ƃ����t�H���_��������B
-���ɂ��̃t�H���_�Ƀt�@�C�����R�s�[����B�ȉ��̃t�@�C����S�ăR�s�[���悤�B���̃t�@�C���͕K�v�Ȃ�(�͂����c)
+この例ではA:\netというフォルダを作った。
+次にそのフォルダにファイルをコピーする。以下のファイルを全てコピーしよう。他のファイルは必要ない(はずだ…)
 <blockquote><B>PROTOCOL.INI<BR>
 PROTMAN.DOS<BR>
 PROTMAN.EXE<BR>
@@ -195,15 +195,15 @@ RTSND.DOS<BR>
 SYSTEM.INI<BR>
 WFWSYS.CFG<BR>
 </B></blockquote>
-<LI><B>system.ini�t�@�C����ύX����</B><BR>
+<LI><B>system.iniファイルを変更する</B><BR>
 <TABLE><TR VALIGN=TOP><TD WIDTH=60%>
-system.ini���Ƀh���C�o�Q�̈ʒu���L�q���Ă���ꏊ������B�������t���b�s�[�̃R�s�[�����p�X�ɕύX����B�����<B>a:\net</B>�Ȃ̂�
+system.ini中にドライバ群の位置を記述している場所がある。ここをフロッピーのコピーしたパスに変更する。今回は<B>a:\net</B>なので
 <blockquote><B>lanroot=C:\NET<BR>
 devroot=C:\net</B></blockquote>
-�̓�ӏ����A������A����<BR>
+の二箇所を、これを、共に<BR>
 <blockquote><B>lanroot=A:\NET<BR>
 devroot=A:\net</B></blockquote>
-�ɕύX���悤�B
+に変更しよう。
 </TD><TD>
 <TABLE BGCOLOR="A0A0FF" ALIGN=RIGHT WIDTH=240><TR><TD>
 [network]<BR>
@@ -242,20 +242,20 @@ LoadRMDrivers=yes<BR>
 
 </TD></TR></TABLE>
 
-<LI><B>config.sys�t�@�C�����L�q����B</B><BR>
-�����������Ă͈ȉ��̂悤�ɏ����Ă����Ώ\�����B
+<LI><B>config.sysファイルを記述する。</B><BR>
+さし当たっては以下のように書いておけば十分だ。
 <blockquote><B>FILES=10<BR>
 BUFFERS=20<BR>
 device=a:\himem.sys<BR>
 device=a:\net\ifshlp.sys</B></blockquote>
-��s�ڂ�ifshlp.sys�̏ꏊ�́A�t�@�C���Q���R�s�[�����ꏊ�ł���Ba:\net�̕����͓K���ύX���邱�ƁB<P>
-<LI><B>���쎎��</B><BR>
-�t���b�s�[�f�B�X�N��}�����N��������A
+二行目のifshlp.sysの場所は、ファイル群をコピーした場所である。a:\netの部分は適時変更すること。<P>
+<LI><B>動作試験</B><BR>
+フロッピーディスクを挿入し起動したら、
 
 <blockquote>cd a:\net[enter]<BR>
-net start</blockquote>�Ɠ��͂���B�������O�I���v�������ꂽ����Ȃ��B���net use�R�}���h�ŖړI�̋��L��ڑ�����΂悢�B
+net start</blockquote>と入力する。無事ログオン要求が現れたら問題ない。後はnet useコマンドで目的の共有を接続すればよい。
 </OL>
 </OL>
-<A HREF="dosnet4.htm">����</A>
+<A HREF="dosnet4.htm">次へ</A>
 </BODY>
 </HTML>

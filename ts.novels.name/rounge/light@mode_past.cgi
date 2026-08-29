@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=shift_jis" />
+<meta charset="utf-8">
 <meta http-equiv="content-style-type" content="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" />
 <title>ERROR!</title>
@@ -14,7 +14,7 @@
 <h3>ERROR!</h3>
 <p class="err">open err: ./data/past/0001.cgi</p>
 </div>
-<p><input type="button" value="前画面に戻る" onclick="history.back()" /></p>
+<p><input type="button" value="蜑咲判髱｢縺ｫ謌ｻ繧�" onclick="history.back()" /></p>
 </div>
 
 </body>

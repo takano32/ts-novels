@@ -2,12 +2,12 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="utf-8">
 	<meta name="generator" content="Movable Type 3.2-ja-2" />
 
 	<title>僕の日常: 検索結果</title>
 
-	<link rel="stylesheet" href="http://www.novels.jp/~yaji/weblog/styles-site.css" type="text/css" />
+	<link rel="stylesheet" href="../weblog/styles-site.css" type="text/css" />
 
 </head>
 <body class="layout-one-column">
@@ -16,7 +16,7 @@
 
 			<div id="banner">
 				<div id="banner-inner" class="pkg">
-					<h1 id="banner-header"><a href="http://www.novels.jp/~yaji/weblog/" accesskey="1">僕の日常</a></h1>
+					<h1 id="banner-header"><a href="../weblog/index.html" accesskey="1">僕の日常</a></h1>
 					<h2 id="banner-description"></h2>
 				</div>
 			</div>
@@ -28,7 +28,7 @@
 
 							<h3>検索結果</h3>
 
-							<form method="post" action="http://www.novels.jp/~yaji/blog/mt-search.cgi">
+							<form method="post" action="mt-search.cgi">
 
 							<h3>サイトを検索: </h3>
 
