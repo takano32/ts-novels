@@ -58,8 +58,8 @@ def worker(q, stage, results, lock, counter):
             n = counter[0]
         if body is not None and len(body) > 0:
             out = os.path.join(stage, item['path'])
-            os.makedirs(os.path.dirname(out), exist_ok=True)
             try:
+                os.makedirs(os.path.dirname(out), exist_ok=True)
                 with open(out, 'wb') as f:
                     f.write(body)
             except OSError as e:
@@ -74,10 +74,16 @@ def worker(q, stage, results, lock, counter):
 def main(manifest_path, stage):
     man = json.load(open(manifest_path))
     os.makedirs(stage, exist_ok=True)
-    todo = []
+    allpaths = set()
     for it in man:
         it['path'] = it['path'].replace('?', '_')
-        if not os.path.exists(os.path.join(stage, it['path'])):
+        allpaths.add(it['path'])
+    todo = []
+    for it in man:
+        p = it['path']
+        if any(o != p and o.startswith(p + '/') for o in allpaths):
+            it['path'] = p + '/index.html'
+        if not os.path.isfile(os.path.join(stage, it['path'])):
             todo.append(it)
     print(f'{len(todo)} to fetch (of {len(man)})', flush=True)
     q = queue.Queue()

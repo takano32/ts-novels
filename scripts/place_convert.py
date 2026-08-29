@@ -10,6 +10,7 @@
 Conventions follow earlier integration passes: raw bytes are committed first,
 conversion is a separate commit."""
 import os, re, sys, json, shutil
+import html as _html
 from urllib.parse import urlsplit, unquote
 
 ROOT = '/home/takano32/GitHub/ts-novels'
@@ -131,7 +132,7 @@ def rewrite_links(text, rel):
         return r.replace(os.sep, '/')
     def sub(m):
         gi = next(i for i, g in enumerate(m.groups()) if g is not None)
-        url = m.groups()[gi]
+        url = _html.unescape(_html.unescape(m.groups()[gi]))
         t = repo_target(url.strip())
         new = None
         if t and os.path.isfile(os.path.join(ROOT, t)):
@@ -175,8 +176,31 @@ def convert(listfile):
             ch += 1
     print(f'converted={n} reencoded={ch}')
 
+def relink_all():
+    """rewrite absolute family-host links to relative paths wherever the
+    target file now exists, across every UTF-8 HTML file in the repo"""
+    n = 0
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if d not in ('.git', 'scripts')]
+        for fn in filenames:
+            if not fn.lower().endswith(('.htm', '.html', '.cgi', '.shtml')):
+                continue
+            fp = os.path.join(dirpath, fn)
+            rel = os.path.relpath(fp, ROOT)
+            try:
+                text = open(fp, encoding='utf-8').read()
+            except (UnicodeDecodeError, OSError):
+                continue
+            new = rewrite_links(text, rel)
+            if new != text:
+                open(fp, 'w', encoding='utf-8').write(new)
+                n += 1
+    print(f'relinked_files={n}')
+
 if __name__ == '__main__':
     if sys.argv[1] == '--place':
         place(sys.argv[2])
     elif sys.argv[1] == '--convert':
         convert(sys.argv[2])
+    elif sys.argv[1] == '--relink':
+        relink_all()

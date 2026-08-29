@@ -77,7 +77,7 @@ def host_lookup(netloc, path, query):
     return ('external', None)
 
 def classify(url, reldir, tree):
-    u = html.unescape(url.strip())
+    u = html.unescape(html.unescape(url.strip()))
     if not u or u.startswith('#'):
         return ('skip', None)
     low = u.lower()

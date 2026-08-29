@@ -37,8 +37,13 @@ def candidates_for(target):
     if target.startswith('~yaji/') or target == '~yaji/':
         cands.add('www2.sts.co.jp/' + target.rstrip('/') + '/')
         cands.add('www2.sts.co.jp/' + target)
-    if target.startswith('~bbs/'):
-        cands.add('www.novels.jp/' + target)
+    if target.startswith('~yays/') and not target.startswith('~yays/library/'):
+        cands.add('~yays/library/' + target[len('~yays/'):])
+    if '_amp_' in target:
+        cands.add(target.replace('_amp_', '_'))
+    if 'charset_UTF-8' in target:
+        cands.add(target.replace('charset_UTF-8', 'charset_Shift_JIS'))
+        cands.add(target.replace('_amp_', '_').replace('charset_UTF-8', 'charset_Shift_JIS'))
     # depth slip: try dropping ONE leading directory component
     parts = target.split('/')
     if len(parts) > 2:
