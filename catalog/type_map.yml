@@ -1,0 +1,13 @@
+# 分類語彙の正規化マップ (scripts/wp/terms_build.py が読む)。
+#
+#   synonyms:  原表記(NFKC・「」外し・？除去のあと) -> 統合先の見出し語
+#
+# NFKC 正規化・「」外し・末尾の ？/（？） 落としはスクリプト側で常に行うので、
+# ここに書くのは**意味の統合**だけ (ミステリ -> ミステリー のような類義・異表記)。
+# 原表記は terms.json の raw_variants に必ず残るので、統合しても史料性は落ちない。
+# 表記揺れの候補は catalog/reports/terms_build.json の variant_candidates を見て
+# 人が判断して追記してください。
+synonyms:
+  医療: 医術
+  薬: 薬品
+  魔術: 魔法

@@ -1,0 +1,190 @@
+{
+ "generated_by": "scripts/wp/terms_build.py",
+ "episodes": 2984,
+ "taxonomies": {
+  "ts_genre": {
+   "raw_tokens_distinct": 244,
+   "terms": 196,
+   "core_terms": 30,
+   "core_min_count": 10,
+   "core_coverage_pct": 94.12,
+   "tokens_total": 5134,
+   "terms_with_description": 26,
+   "vocab_page": "genre.html",
+   "vocab_page_terms": 27,
+   "vocab_page_matched": 26,
+   "merged_by_map": 10,
+   "variant_candidates": [
+    [
+     [
+      "作ラッセル",
+      1
+     ],
+     [
+      "作・ラッセル",
+      1
+     ]
+    ]
+   ]
+  },
+  "ts_type": {
+   "raw_tokens_distinct": 187,
+   "terms": 165,
+   "core_terms": 30,
+   "core_min_count": 10,
+   "core_coverage_pct": 93.63,
+   "tokens_total": 4381,
+   "terms_with_description": 18,
+   "vocab_page": "type_of_change.html",
+   "vocab_page_terms": 18,
+   "vocab_page_matched": 18,
+   "merged_by_map": 3,
+   "variant_candidates": [
+    [
+     [
+      "テクノロジー",
+      270
+     ],
+     [
+      "テクノロジ",
+      1
+     ]
+    ]
+   ]
+  },
+  "ts_keyword": {
+   "raw_tokens_distinct": 1083,
+   "terms": 1028,
+   "core_terms": 74,
+   "core_min_count": 10,
+   "core_coverage_pct": 69.45,
+   "tokens_total": 5427,
+   "terms_with_description": 22,
+   "vocab_page": "keyword.html",
+   "vocab_page_terms": 38,
+   "vocab_page_matched": 36,
+   "merged_by_map": 10,
+   "variant_candidates": [
+    [
+     [
+      "異形(ケモノ耳)",
+      11
+     ],
+     [
+      "異形(ケモノ耳・・・)",
+      1
+     ]
+    ]
+   ]
+  }
+ },
+ "worlds": {
+  "2daime": {
+   "name": "二代目シリーズ",
+   "count": 12,
+   "match_reasons": {
+    "board": 12
+   }
+  },
+  "delayed": {
+   "name": "仮面ライターディレイド",
+   "count": 10,
+   "match_reasons": {
+    "board": 10
+   }
+  },
+  "dirty": {
+   "name": "ダーティーエンジェルシリーズ",
+   "count": 11,
+   "match_reasons": {
+    "path": 11
+   }
+  },
+  "fms": {
+   "name": "FMS シリーズ",
+   "count": 4,
+   "match_reasons": {
+    "title": 4
+   }
+  },
+  "foster": {
+   "name": "次元管理人フォスターシリーズ",
+   "count": 21,
+   "match_reasons": {
+    "board": 21
+   }
+  },
+  "himekami": {
+   "name": "妖魔夜行 姫神奇譚シリーズ",
+   "count": 41,
+   "match_reasons": {
+    "board": 41
+   }
+  },
+  "hunter": {
+   "name": "ハンターシリーズ",
+   "count": 12,
+   "match_reasons": {
+    "title": 12
+   }
+  },
+  "kayo_chan": {
+   "name": "「華代ちゃん」シリーズ",
+   "count": 223,
+   "match_reasons": {
+    "board": 218,
+    "path": 5
+   }
+  },
+  "mirror_ring": {
+   "name": "ミラーリングシリーズ",
+   "count": 2,
+   "match_reasons": {
+    "path": 2
+   }
+  },
+  "relay_novel": {
+   "name": "リレー小説",
+   "count": 8,
+   "match_reasons": {
+    "board": 8
+   }
+  },
+  "rental": {
+   "name": "「レンタル・ボディ」シリーズ",
+   "count": 16,
+   "match_reasons": {
+    "path": 16
+   }
+  },
+  "setsubou": {
+   "name": "「切望」シリーズ",
+   "count": 2,
+   "match_reasons": {
+    "path": 2
+   }
+  },
+  "sugar": {
+   "name": "シェアワールド「SugarSweets」",
+   "count": 1,
+   "match_reasons": {
+    "path": 1
+   }
+  },
+  "utanotsuki": {
+   "name": "詩の月シリーズ",
+   "count": 11,
+   "match_reasons": {
+    "board": 11
+   }
+  }
+ },
+ "worlds_total": 14,
+ "episodes_with_world": 362,
+ "corpus_counts": {
+  "honkan": 2887,
+  "legacy": 97
+ },
+ "slug_pending_review": 1403,
+ "pykakasi_available": true
+}

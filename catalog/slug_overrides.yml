@@ -1,0 +1,5631 @@
+# 恒久 URL になる slug の確認台帳 (自動生成 + 人手確定)。
+#
+#   status: candidate  … 機械が作った候補。**まだ確定していない**
+#   status: confirmed  … 人間が確認済み。再生成しても上書きされない
+#   source: kansou-board … 当時の感想板 id (最も信頼できる。確認不要)
+#           ascii        … 原表記が ASCII なのでそのまま (確認不要)
+#           pykakasi     … 機械の読み。**幻覚しうるので要確認**
+#           fallback     … 読みが取れず連番を振った。要確認
+#
+# 直したいときは slug を書き換えて status を confirmed にしてください。
+# 進行台帳 docs/wp-implementation-tasks.md の 👤 1.5b がこのファイルの確認タスクです。
+# terms_* セクション = 分類語彙の slug (scripts/wp/terms_build.py)
+# authors セクション = 作者 slug (scripts/wp/authors_build.py)
+# works セクション = 作品 slug (scripts/wp/work_builder.py)
+
+terms_genre:
+  (戦記はおあずけ?):
+    slug: senkihaoazuke
+    source: pykakasi
+    status: candidate
+  (異世界?):
+    slug: isekai-2
+    source: pykakasi
+    status: candidate
+  B級以下スプラッターアクション:
+    slug: bkyuuikasupurattaaakushon
+    source: pykakasi
+    status: candidate
+  SF:
+    slug: sf
+    source: ascii
+    status: auto
+  SFファンタジー:
+    slug: sffantajii
+    source: pykakasi
+    status: candidate
+  ある意味不条理:
+    slug: aruimifujouri
+    source: pykakasi
+    status: candidate
+  その他:
+    slug: sonohoka
+    source: pykakasi
+    status: candidate
+  その他(TCG):
+    slug: sonohoka-tcg
+    source: pykakasi
+    status: candidate
+  その他(科学):
+    slug: sonohoka-kagaku
+    source: pykakasi
+    status: candidate
+  ちょっと似非伝奇:
+    slug: chottoesedenki
+    source: pykakasi
+    status: candidate
+  とある人物の回想話。:
+    slug: toarujinbutsunokaisoubanashi
+    source: pykakasi
+    status: candidate
+  はちゃめちゃ:
+    slug: hachamecha
+    source: pykakasi
+    status: candidate
+  へっぽこ系:
+    slug: heppokokei
+    source: pykakasi
+    status: candidate
+  まだ秘密:
+    slug: madahimitsu
+    source: pykakasi
+    status: candidate
+  らいとふぁんたじぃ:
+    slug: raitofantajii-2
+    source: pykakasi
+    status: candidate
+  アイテム:
+    slug: aitemu
+    source: pykakasi
+    status: candidate
+  アクション:
+    slug: akushon
+    source: pykakasi
+    status: candidate
+  アクション(予定):
+    slug: akushon-yotei
+    source: pykakasi
+    status: candidate
+  アクション(今回はちょっとだけ):
+    slug: akushon-konkaihachottodake
+    source: pykakasi
+    status: candidate
+  アクション(今回はないに等しい):
+    slug: akushon-konkaihanainihitoshii
+    source: pykakasi
+    status: candidate
+  アクション、伝奇:
+    slug: akushon-denki
+    source: pykakasi
+    status: candidate
+  アクションコメディ:
+    slug: akushonkomedi
+    source: pykakasi
+    status: candidate
+  アットホーム:
+    slug: attohoomu
+    source: pykakasi
+    status: candidate
+  アニパロ:
+    slug: aniparo
+    source: pykakasi
+    status: candidate
+  アニメ:
+    slug: anime
+    source: pykakasi
+    status: candidate
+  アニメパロディ:
+    slug: animeparodi
+    source: pykakasi
+    status: candidate
+  アニメ系二次創作:
+    slug: animekeinijisousaku
+    source: pykakasi
+    status: candidate
+  イジメ:
+    slug: ijime
+    source: pykakasi
+    status: candidate
+  ウェスタンアームズ:
+    slug: uesutan-aamuzu
+    source: pykakasi
+    status: candidate
+  オカルト:
+    slug: okaruto
+    source: pykakasi
+    status: candidate
+  ゲーム:
+    slug: geemu
+    source: pykakasi
+    status: candidate
+  コメディ:
+    slug: komedi
+    source: pykakasi
+    status: candidate
+  コメディ?、学園:
+    slug: komedi-gakuen
+    source: pykakasi
+    status: candidate
+  コメディかも:
+    slug: komedikamo
+    source: pykakasi
+    status: candidate
+  コメディです、すこし幻想:
+    slug: komedidesu-sukoshigensou
+    source: pykakasi
+    status: candidate
+  コメディ恋愛:
+    slug: komediren-ai
+    source: pykakasi
+    status: candidate
+  コメディ調ロボットアクション:
+    slug: komedichourobottoakushon
+    source: pykakasi
+    status: candidate
+  サスペンス:
+    slug: sasupensu
+    source: pykakasi
+    status: candidate
+  シュートシュート(ショートショート):
+    slug: shuutoshuuto-shootoshooto
+    source: pykakasi
+    status: candidate
+  ショートコメディ:
+    slug: shootokomedi
+    source: pykakasi
+    status: candidate
+  ショートショート:
+    slug: shootoshooto
+    source: pykakasi
+    status: candidate
+  シリアス:
+    slug: shiriasu
+    source: pykakasi
+    status: candidate
+  スポーツ:
+    slug: supootsu
+    source: pykakasi
+    status: candidate
+  スポ根:
+    slug: supone
+    source: pykakasi
+    status: candidate
+  スポ魂:
+    slug: supotamashii
+    source: pykakasi
+    status: candidate
+  ダーク:
+    slug: daaku
+    source: pykakasi
+    status: candidate
+  ダークファンタジー:
+    slug: daakufantajii
+    source: pykakasi
+    status: candidate
+  テーマソング:
+    slug: teemasongu
+    source: pykakasi
+    status: candidate
+  ナンセンス童話:
+    slug: nansensudouwa
+    source: pykakasi
+    status: candidate
+  ノン・フィクション:
+    slug: non-fikushon
+    source: pykakasi
+    status: candidate
+  ハートフル(だと思う......たぶん):
+    slug: haatofuru-datoomou-tabun
+    source: pykakasi
+    status: candidate
+  ハードTS:
+    slug: haadots
+    source: pykakasi
+    status: candidate
+  ハードボイルド:
+    slug: haadoboirudo
+    source: pykakasi
+    status: candidate
+  ハーフコメディ:
+    slug: haafukomedi
+    source: pykakasi
+    status: candidate
+  バトルアクション:
+    slug: batoruakushon
+    source: pykakasi
+    status: candidate
+  パラレルワールドっぽい現代:
+    slug: parareruwaarudoppoigendai
+    source: pykakasi
+    status: candidate
+  パロディ:
+    slug: parodi
+    source: pykakasi
+    status: candidate
+  パロデイ:
+    slug: parodei
+    source: pykakasi
+    status: candidate
+  ヒーロー:
+    slug: hiiroo
+    source: pykakasi
+    status: candidate
+  ファンタジー:
+    slug: fantajii
+    source: pykakasi
+    status: candidate
+  フィクション:
+    slug: fikushon
+    source: pykakasi
+    status: candidate
+  ホラー:
+    slug: horaa
+    source: pykakasi
+    status: candidate
+  ホラーアクション:
+    slug: horaaakushon
+    source: pykakasi
+    status: candidate
+  ホームドラマ:
+    slug: hoomudorama
+    source: pykakasi
+    status: candidate
+  ポエム:
+    slug: poemu
+    source: pykakasi
+    status: candidate
+  ミステリ−:
+    slug: misuterii-2
+    source: pykakasi
+    status: candidate
+  ミステリー:
+    slug: misuterii
+    source: pykakasi
+    status: candidate
+  メカ:
+    slug: meka
+    source: pykakasi
+    status: candidate
+  メタ:
+    slug: meta
+    source: pykakasi
+    status: candidate
+  メタフィクション:
+    slug: metafikushon
+    source: pykakasi
+    status: candidate
+  ライトファンタジー:
+    slug: raitofantajii
+    source: pykakasi
+    status: candidate
+  ラッセル:
+    slug: rasseru
+    source: pykakasi
+    status: candidate
+  ラブコメ:
+    slug: rabukome
+    source: pykakasi
+    status: candidate
+  ラブコメディ:
+    slug: rabukomedi
+    source: pykakasi
+    status: candidate
+  リリカル:
+    slug: ririkaru
+    source: pykakasi
+    status: candidate
+  リリカル(なのか?本当にそうなのか?):
+    slug: ririkaru-nanoka-hontounisounanoka
+    source: pykakasi
+    status: candidate
+  レーシング:
+    slug: reeshingu
+    source: pykakasi
+    status: candidate
+  一応現代:
+    slug: ichiougendai
+    source: pykakasi
+    status: candidate
+  一般:
+    slug: ippan
+    source: pykakasi
+    status: candidate
+  不思議:
+    slug: fushigi
+    source: pykakasi
+    status: candidate
+  不条理:
+    slug: fujouri
+    source: pykakasi
+    status: candidate
+  世界観ぶち壊しネタ:
+    slug: sekaikanbuchikowashineta
+    source: pykakasi
+    status: candidate
+  二次作品:
+    slug: nijisakuhin
+    source: pykakasi
+    status: candidate
+  二次創作:
+    slug: nijisousaku
+    source: pykakasi
+    status: candidate
+  二次創作(「おとなにナッツ」フクシマハルカ:
+    slug: nijisousaku-otonaninattsu-fukushimaharuka
+    source: pykakasi
+    status: candidate
+  二次創作「見えない生物バイトン」ラッセル:
+    slug: nijisousaku-mienaiseibutsubaiton-rasseru
+    source: pykakasi
+    status: candidate
+  二次創作『僕のご主人様!?』(富士見ミステリー文庫):
+    slug: nijisousaku-bokunogoshujinsama-fujimimisuteriibunko
+    source: pykakasi
+    status: candidate
+  会話:
+    slug: kaiwa
+    source: pykakasi
+    status: candidate
+  伝奇:
+    slug: denki
+    source: pykakasi
+    status: candidate
+  似非伝奇:
+    slug: esedenki
+    source: pykakasi
+    status: candidate
+  何気に学園モノ:
+    slug: nanigenigakuenmono
+    source: pykakasi
+    status: candidate
+  作ラッセル:
+    slug: sakurasseru
+    source: pykakasi
+    status: candidate
+  作・ラッセル:
+    slug: saku-rasseru
+    source: pykakasi
+    status: candidate
+  入れ替わり:
+    slug: irekawari
+    source: pykakasi
+    status: candidate
+  割とシリアス:
+    slug: watoshiriasu
+    source: pykakasi
+    status: candidate
+  化学:
+    slug: kagaku
+    source: pykakasi
+    status: candidate
+  医学:
+    slug: igaku
+    source: pykakasi
+    status: candidate
+  医療:
+    slug: iryou
+    source: pykakasi
+    status: candidate
+  医療ドラマ:
+    slug: iryoudorama
+    source: pykakasi
+    status: candidate
+  医術:
+    slug: ijutsu
+    source: pykakasi
+    status: candidate
+  半SF:
+    slug: hansf
+    source: pykakasi
+    status: candidate
+  半シリアス:
+    slug: hanshiriasu
+    source: pykakasi
+    status: candidate
+  原因不明:
+    slug: gen-infumei
+    source: pykakasi
+    status: candidate
+  友情:
+    slug: yuujou
+    source: pykakasi
+    status: candidate
+  古典:
+    slug: koten
+    source: pykakasi
+    status: candidate
+  吸血姫:
+    slug: kyuuketsuhime
+    source: pykakasi
+    status: candidate
+  吸血鬼:
+    slug: kyuuketsuki
+    source: pykakasi
+    status: candidate
+  和風ファンタジー:
+    slug: wafuufantajii
+    source: pykakasi
+    status: candidate
+  変身:
+    slug: henshin
+    source: pykakasi
+    status: candidate
+  外伝:
+    slug: gaiden
+    source: pykakasi
+    status: candidate
+  夢オチ:
+    slug: yumeochi
+    source: pykakasi
+    status: candidate
+  夢落ち:
+    slug: yumeochi-2
+    source: pykakasi
+    status: candidate
+  女ヒーロー:
+    slug: onnahiiroo
+    source: pykakasi
+    status: candidate
+  女優:
+    slug: joyuu
+    source: pykakasi
+    status: candidate
+  姉弟間の関係:
+    slug: kyoudaimanokankei
+    source: pykakasi
+    status: candidate
+  子守り(謎):
+    slug: komori-nazo
+    source: pykakasi
+    status: candidate
+  学園:
+    slug: gakuen
+    source: pykakasi
+    status: candidate
+  学園(予定):
+    slug: gakuen-yotei
+    source: pykakasi
+    status: candidate
+  学園?(ちがうかも......):
+    slug: gakuen-chigaukamo
+    source: pykakasi
+    status: candidate
+  学園モノ:
+    slug: gakuenmono
+    source: pykakasi
+    status: candidate
+  宇宙:
+    slug: uchuu
+    source: pykakasi
+    status: candidate
+  幻想:
+    slug: gensou
+    source: pykakasi
+    status: candidate
+  幼い日の思い出:
+    slug: osanainichinoomoide
+    source: pykakasi
+    status: candidate
+  後宮:
+    slug: atomiya
+    source: pykakasi
+    status: candidate
+  忍者:
+    slug: ninja
+    source: pykakasi
+    status: candidate
+  性転換:
+    slug: seitenkan
+    source: pykakasi
+    status: candidate
+  怪奇:
+    slug: kaiki
+    source: pykakasi
+    status: candidate
+  怪盗:
+    slug: kaitou
+    source: pykakasi
+    status: candidate
+  恋愛:
+    slug: ren-ai
+    source: pykakasi
+    status: candidate
+  恋愛系:
+    slug: ren-aikei
+    source: pykakasi
+    status: candidate
+  憑依:
+    slug: hyoui
+    source: pykakasi
+    status: candidate
+  戦記:
+    slug: senki
+    source: pykakasi
+    status: candidate
+  拳銃図鑑:
+    slug: kenjuuzukan
+    source: pykakasi
+    status: candidate
+  探偵:
+    slug: tantei
+    source: pykakasi
+    status: candidate
+  推理:
+    slug: suiri
+    source: pykakasi
+    status: candidate
+  推理小説:
+    slug: suirishousetsu
+    source: pykakasi
+    status: candidate
+  文学:
+    slug: bungaku
+    source: pykakasi
+    status: candidate
+  日常:
+    slug: nichijou
+    source: pykakasi
+    status: candidate
+  昔話:
+    slug: mukashibanashi
+    source: pykakasi
+    status: candidate
+  映画女優:
+    slug: eigajoyuu
+    source: pykakasi
+    status: candidate
+  昭:
+    slug: akira
+    source: pykakasi
+    status: candidate
+  時代?歴史:
+    slug: jidai-rekishi-2
+    source: pykakasi
+    status: candidate
+  時代・歴史:
+    slug: jidai-rekishi
+    source: pykakasi
+    status: candidate
+  時代・歴史(疫病神ジェーンとワイルド・ビルの恋愛物語):
+    slug: jidai-rekishi-ekibyougamijieentowairudo-birunoren-aimonogatari
+    source: pykakasi
+    status: candidate
+  時代劇:
+    slug: jidaigeki
+    source: pykakasi
+    status: candidate
+  時代歴史戦記かな:
+    slug: jidairekishisenkikana
+    source: pykakasi
+    status: candidate
+  時代物:
+    slug: jidaimono
+    source: pykakasi
+    status: candidate
+  未来:
+    slug: mirai
+    source: pykakasi
+    status: candidate
+  格闘:
+    slug: kakutou
+    source: pykakasi
+    status: candidate
+  格闘アクション:
+    slug: kakutouakushon
+    source: pykakasi
+    status: candidate
+  格闘ラブコメ:
+    slug: kakutourabukome
+    source: pykakasi
+    status: candidate
+  武闘:
+    slug: butou
+    source: pykakasi
+    status: candidate
+  海戦:
+    slug: kaisen
+    source: pykakasi
+    status: candidate
+  演劇界:
+    slug: engekikai
+    source: pykakasi
+    status: candidate
+  特捜:
+    slug: tokusou
+    source: pykakasi
+    status: candidate
+  特撮っぽい:
+    slug: tokusatsuppoi
+    source: pykakasi
+    status: candidate
+  現代:
+    slug: gendai
+    source: pykakasi
+    status: candidate
+  現代(かな?):
+    slug: gendai-kana
+    source: pykakasi
+    status: candidate
+  現代(一部時代物):
+    slug: gendai-ichibujidaimono
+    source: pykakasi
+    status: candidate
+  現代ファンタジー:
+    slug: gendaifantajii
+    source: pykakasi
+    status: candidate
+  現在:
+    slug: genzai
+    source: pykakasi
+    status: candidate
+  異世界:
+    slug: isekai
+    source: pykakasi
+    status: candidate
+  異世界ファンタジー:
+    slug: isekaifantajii
+    source: pykakasi
+    status: candidate
+  異世界召喚:
+    slug: isekaishoukan
+    source: pykakasi
+    status: candidate
+  矢野徹:
+    slug: yanotooru
+    source: pykakasi
+    status: candidate
+  神力:
+    slug: shinriki
+    source: pykakasi
+    status: candidate
+  神秘:
+    slug: shinpi
+    source: pykakasi
+    status: candidate
+  童話:
+    slug: douwa
+    source: pykakasi
+    status: candidate
+  紀行:
+    slug: kikou
+    source: pykakasi
+    status: candidate
+  美少女アクションファンタジー:
+    slug: bishoujoakushonfantajii
+    source: pykakasi
+    status: candidate
+  職業:
+    slug: shokugyou
+    source: pykakasi
+    status: candidate
+  脳移植:
+    slug: nouishoku
+    source: pykakasi
+    status: candidate
+  脳移植手術:
+    slug: nouishokushujutsu
+    source: pykakasi
+    status: candidate
+  芸能界:
+    slug: geinoukai
+    source: pykakasi
+    status: candidate
+  華代ちゃんシリーズ:
+    slug: hanayochanshiriizu
+    source: pykakasi
+    status: candidate
+  華代ちゃんシリーズ番外編:
+    slug: hanayochanshiriizubangaihen
+    source: pykakasi
+    status: candidate
+  見えない生物バイトン:
+    slug: mienaiseibutsubaiton
+    source: pykakasi
+    status: candidate
+  見えない生物バイトン」ラッセル作:
+    slug: mienaiseibutsubaiton-rasserusaku
+    source: pykakasi
+    status: candidate
+  親友:
+    slug: shinyuu
+    source: pykakasi
+    status: candidate
+  親子愛:
+    slug: oyakoai
+    source: pykakasi
+    status: candidate
+  訳:
+    slug: wake
+    source: pykakasi
+    status: candidate
+  訳・矢野徹:
+    slug: wake-yanotooru
+    source: pykakasi
+    status: candidate
+  講談社コミックなかよし):
+    slug: koudanshakomikkunakayoshi
+    source: pykakasi
+    status: candidate
+  超オカルト:
+    slug: chouokaruto
+    source: pykakasi
+    status: candidate
+  超ソフトSF:
+    slug: chousofutosf
+    source: pykakasi
+    status: candidate
+  超古代史:
+    slug: choukodaishi
+    source: pykakasi
+    status: candidate
+  路線図:
+    slug: rosenzu
+    source: pykakasi
+    status: candidate
+  近未来:
+    slug: kinmirai
+    source: pykakasi
+    status: candidate
+  近未来SF:
+    slug: kinmiraisf
+    source: pykakasi
+    status: candidate
+  選択肢型ストーリー:
+    slug: sentakushikatasutoorii
+    source: pykakasi
+    status: candidate
+  野球:
+    slug: yakyuu
+    source: pykakasi
+    status: candidate
+  雑学:
+    slug: zatsugaku
+    source: pykakasi
+    status: candidate
+  青春:
+    slug: seishun
+    source: pykakasi
+    status: candidate
+  魔法:
+    slug: mahou
+    source: pykakasi
+    status: candidate
+  魔法使い:
+    slug: mahoutsukai
+    source: pykakasi
+    status: candidate
+  魔法少女:
+    slug: mahoushoujo
+    source: pykakasi
+    status: candidate
+terms_keyword:
+  (......とか):
+    slug: toka
+    source: pykakasi
+    status: candidate
+  (ありません):
+    slug: arimasen
+    source: pykakasi
+    status: candidate
+  (そろそろダーク:
+    slug: sorosorodaaku
+    source: pykakasi
+    status: candidate
+  (オレっ娘):
+    slug: oretsumusume-2
+    source: pykakasi
+    status: candidate
+  (ミストレスシリーズ):
+    slug: misutoresushiriizu
+    source: pykakasi
+    status: candidate
+  (元)ライバル:
+    slug: moto-raibaru
+    source: pykakasi
+    status: candidate
+  (出ません):
+    slug: demasen
+    source: pykakasi
+    status: candidate
+  (終わりました):
+    slug: owarimashita
+    source: pykakasi
+    status: candidate
+  '**耳':
+    slug: mimi
+    source: pykakasi
+    status: candidate
+  '..................百合':
+    slug: yuri-2
+    source: pykakasi
+    status: candidate
+  1945年2月:
+    slug: 1945nen2gatsu
+    source: pykakasi
+    status: candidate
+  1970年代:
+    slug: 1970nendai
+    source: pykakasi
+    status: candidate
+  4月1日:
+    slug: 4gatsu1nichi
+    source: pykakasi
+    status: candidate
+  CHICKEN:
+    slug: chicken
+    source: ascii
+    status: auto
+  D.C.S.S.〜ダ・カーポ:
+    slug: d-c-s-s-da-kaapo
+    source: pykakasi
+    status: candidate
+  ES細胞:
+    slug: essaibou
+    source: pykakasi
+    status: candidate
+  EXシナリオ1:
+    slug: exshinario1
+    source: pykakasi
+    status: candidate
+  FMS:
+    slug: fms
+    source: ascii
+    status: auto
+  GOALED:
+    slug: goaled
+    source: ascii
+    status: auto
+  LB:
+    slug: lb
+    source: ascii
+    status: auto
+  MIA:
+    slug: mia
+    source: ascii
+    status: auto
+  NG騎士ラムネ&40:
+    slug: ngkishiramune-40
+    source: pykakasi
+    status: candidate
+  OF:
+    slug: of
+    source: ascii
+    status: auto
+  OL:
+    slug: ol
+    source: ascii
+    status: auto
+  OLさん:
+    slug: olsan
+    source: pykakasi
+    status: candidate
+  RPG:
+    slug: rpg
+    source: ascii
+    status: auto
+  SF:
+    slug: sf
+    source: ascii
+    status: auto
+  SNP:
+    slug: snp
+    source: ascii
+    status: auto
+  T's☆Heart:
+    slug: t-s-heart
+    source: pykakasi
+    status: candidate
+  T's☆Heart1st:
+    slug: t-s-heart1st
+    source: pykakasi
+    status: candidate
+  TS熱:
+    slug: tsnetsu
+    source: pykakasi
+    status: candidate
+  Tacticsの『ONE』トイレ:
+    slug: tacticsno-one-toire
+    source: pykakasi
+    status: candidate
+  UFO:
+    slug: ufo
+    source: ascii
+    status: auto
+  UMA:
+    slug: uma
+    source: ascii
+    status: auto
+  happy:
+    slug: happy
+    source: ascii
+    status: auto
+  ○○○○〜:
+    slug: keyword-4
+    source: fallback
+    status: candidate
+  ○曜スペシャル:
+    slug: yousupesharu
+    source: pykakasi
+    status: candidate
+  ♀→♂:
+    slug: keyword-1
+    source: fallback
+    status: candidate
+  ♀→♂(ほんの一瞬):
+    slug: honnoisshun
+    source: pykakasi
+    status: candidate
+  ♀⇒♂:
+    slug: keyword-2
+    source: fallback
+    status: candidate
+  ♀⇔:
+    slug: keyword-3
+    source: fallback
+    status: candidate
+  ♂→♀:
+    slug: keyword-5
+    source: fallback
+    status: candidate
+  ♂⇔♀:
+    slug: keyword-6
+    source: fallback
+    status: candidate
+  あえて言えば鏡:
+    slug: aeteiebakagami
+    source: pykakasi
+    status: candidate
+  あぎょうさんさぎょうご:
+    slug: agyousansagyougo
+    source: pykakasi
+    status: candidate
+  いたずら:
+    slug: itazura
+    source: pykakasi
+    status: candidate
+  いちごちゃん:
+    slug: ichigochan
+    source: pykakasi
+    status: candidate
+  いろんな作品からのパクリあり:
+    slug: ironnasakuhinkaranopakuriari
+    source: pykakasi
+    status: candidate
+  う〜ん、まだないしょ:
+    slug: u-n-madanaisho
+    source: pykakasi
+    status: candidate
+  う〜ん、カヨちゃん:
+    slug: u-n-kayochan
+    source: pykakasi
+    status: candidate
+  うんだらうんだらうんだらホイッ!うんだらほんだらうんだらホイッ!(よーするに「召喚」って事):
+    slug: undaraundaraundarahoitsu-undarahondaraundarahoitsu-yoosuruni-shoukan-ttekoto
+    source: pykakasi
+    status: candidate
+  おたくなマッドサイエンティスト:
+    slug: otakunamaddosaienteisuto
+    source: pykakasi
+    status: candidate
+  おっさんホイホイ(笑):
+    slug: ossanhoihoi-warai
+    source: pykakasi
+    status: candidate
+  おまけ:
+    slug: omake
+    source: pykakasi
+    status: candidate
+  おまけつき:
+    slug: omaketsuki
+    source: pykakasi
+    status: candidate
+  おまじない:
+    slug: omajinai
+    source: pykakasi
+    status: candidate
+  お仕置き:
+    slug: oshioki
+    source: pykakasi
+    status: candidate
+  お化粧:
+    slug: okeshou
+    source: pykakasi
+    status: candidate
+  お姉ちゃん:
+    slug: oneechan
+    source: pykakasi
+    status: candidate
+  お姉様(爆):
+    slug: oneesama-baku
+    source: pykakasi
+    status: candidate
+  お嬢様:
+    slug: ojousama
+    source: pykakasi
+    status: candidate
+  お昼は一緒にお弁当:
+    slug: ohiruhaisshoniobentou
+    source: pykakasi
+    status: candidate
+  お札:
+    slug: osatsu
+    source: pykakasi
+    status: candidate
+  お正月:
+    slug: oshougatsu
+    source: pykakasi
+    status: candidate
+  お母さん:
+    slug: okaasan
+    source: pykakasi
+    status: candidate
+  お気楽極楽アニメ:
+    slug: okirakugokurakuanime
+    source: pykakasi
+    status: candidate
+  お約束:
+    slug: oyakusoku
+    source: pykakasi
+    status: candidate
+  お約束の日(爆):
+    slug: oyakusokunonichi-baku
+    source: pykakasi
+    status: candidate
+  お茶:
+    slug: ocha
+    source: pykakasi
+    status: candidate
+  お見合い:
+    slug: omiai
+    source: pykakasi
+    status: candidate
+  お酒:
+    slug: osake
+    source: pykakasi
+    status: candidate
+  かしまし〜ガール・ミーツ・ガール〜:
+    slug: kashimashi-gaaru-miitsu-gaaru
+    source: pykakasi
+    status: candidate
+  かわねこ:
+    slug: kawaneko
+    source: pykakasi
+    status: candidate
+  がさつな奴:
+    slug: gasatsunayatsu
+    source: pykakasi
+    status: candidate
+  きらいなもの→注射:
+    slug: kirainamono-chuusha
+    source: pykakasi
+    status: candidate
+  くの一かな:
+    slug: kunoichikana
+    source: pykakasi
+    status: candidate
+  くの一化粧:
+    slug: kunoichikeshou
+    source: pykakasi
+    status: candidate
+  くろす・あこーど(XA制作協議会):
+    slug: kurosu-akoodo-xaseisakukyougikai
+    source: pykakasi
+    status: candidate
+  これも仕事って事で。:
+    slug: koremoshigotottekotode
+    source: pykakasi
+    status: candidate
+  さくら大戦:
+    slug: sakurataisen
+    source: pykakasi
+    status: candidate
+  しっぺ返し:
+    slug: shippekaeshi
+    source: pykakasi
+    status: candidate
+  その他:
+    slug: sonohoka
+    source: pykakasi
+    status: candidate
+  その他いっぱい:
+    slug: sonohokaippai
+    source: pykakasi
+    status: candidate
+  その後:
+    slug: sononochi
+    source: pykakasi
+    status: candidate
+  ちょきちょき:
+    slug: chokichoki
+    source: pykakasi
+    status: candidate
+  ちょっと可愛い探偵助手:
+    slug: chottokawaitanteijoshu
+    source: pykakasi
+    status: candidate
+  ちょっと哲学:
+    slug: chottotetsugaku
+    source: pykakasi
+    status: candidate
+  ちょっぴり百合?):
+    slug: choppiriyuri
+    source: pykakasi
+    status: candidate
+  ときめき:
+    slug: tokimeki
+    source: pykakasi
+    status: candidate
+  とりあえず戦い:
+    slug: toriaezutatakai
+    source: pykakasi
+    status: candidate
+  とんでもないものを盗んで行きました:
+    slug: tondemonaimonowonusundeikimashita
+    source: pykakasi
+    status: candidate
+  どうしてこうなった:
+    slug: doushitekounatta
+    source: pykakasi
+    status: candidate
+  どろどろ:
+    slug: dorodoro
+    source: pykakasi
+    status: candidate
+  どんでん返し:
+    slug: dondenkaeshi
+    source: pykakasi
+    status: candidate
+  ないしょ:
+    slug: naisho
+    source: pykakasi
+    status: candidate
+  なりきり:
+    slug: narikiri
+    source: pykakasi
+    status: candidate
+  なりすまし:
+    slug: narisumashi-2
+    source: pykakasi
+    status: candidate
+  ぬいぐるみ:
+    slug: nuigurumi
+    source: pykakasi
+    status: candidate
+  ぬるぬる:
+    slug: nurunuru
+    source: pykakasi
+    status: candidate
+  はちゃめちゃ家族:
+    slug: hachamechakazoku
+    source: pykakasi
+    status: candidate
+  ぷっつん:
+    slug: puttsun
+    source: pykakasi
+    status: candidate
+  ぷにぷに(笑):
+    slug: punipuni-warai
+    source: pykakasi
+    status: candidate
+  ぺったんこ座り:
+    slug: pettankosuwari
+    source: pykakasi
+    status: candidate
+  ぺド:
+    slug: pedo
+    source: pykakasi
+    status: candidate
+  ぺロハチ:
+    slug: perohachi
+    source: pykakasi
+    status: candidate
+  みんなで替われば怖くない:
+    slug: minnadekawarebakowakunai
+    source: pykakasi
+    status: candidate
+  よくある話(笑):
+    slug: yokuaruhanashi-warai
+    source: pykakasi
+    status: candidate
+  よろこぶ母(笑):
+    slug: yorokobuhaha-warai
+    source: pykakasi
+    status: candidate
+  らいか大作戦:
+    slug: raikadaisakusen
+    source: pykakasi
+    status: candidate
+  らんま1/2:
+    slug: ranma1-2
+    source: pykakasi
+    status: candidate
+  りくちゃん:
+    slug: rikuchan
+    source: pykakasi
+    status: candidate
+  わしっ娘:
+    slug: washitsumusume
+    source: pykakasi
+    status: candidate
+  アイテム:
+    slug: aitemu
+    source: pykakasi
+    status: candidate
+  アイテム(アミュレット):
+    slug: aitemu-amyuretto
+    source: pykakasi
+    status: candidate
+  アイテム(猫の餌ほか主に食品):
+    slug: aitemu-nekonoesahokaomonishokuhin
+    source: pykakasi
+    status: candidate
+  アイディア:
+    slug: aidia
+    source: pykakasi
+    status: candidate
+  アイドル:
+    slug: aidoru
+    source: pykakasi
+    status: candidate
+  アイヌ:
+    slug: ainu
+    source: pykakasi
+    status: candidate
+  アクション:
+    slug: akushon
+    source: pykakasi
+    status: candidate
+  アトラク=ナチャ:
+    slug: atoraku-nacha
+    source: pykakasi
+    status: candidate
+  アニソン:
+    slug: anison
+    source: pykakasi
+    status: candidate
+  アニメ:
+    slug: anime
+    source: pykakasi
+    status: candidate
+  アニメ&特撮パロディ:
+    slug: anime-tokusatsuparodi
+    source: pykakasi
+    status: candidate
+  アニメ『デジタル所さん:
+    slug: anime-dejitarutokorosan
+    source: pykakasi
+    status: candidate
+  アニメ『デジタル所さん』『若葉色の怪盗』『落雷』『ホーリーメイデンズ:
+    slug: anime-dejitarutokorosan-wakabaironokaitou-rakurai-hooriimeidenzu
+    source: pykakasi
+    status: candidate
+  アニメ『デジタル所さん』『若葉色の怪盗』『落雷』『ホーリーメイデンズ』『ZweihanderVTS:
+    slug: anime-dejitarutokorosan-wakabaironokaitou-rakurai-hooriimeidenzu-zweihandervts
+    source: pykakasi
+    status: candidate
+  アニメ『デジタル所さん』ボクっ娘:
+    slug: anime-dejitarutokorosan-bokutsumusume
+    source: pykakasi
+    status: candidate
+  アニメ『デジタル所さん』他:
+    slug: anime-dejitarutokorosan-hoka
+    source: pykakasi
+    status: candidate
+  アニメオタク:
+    slug: animeotaku
+    source: pykakasi
+    status: candidate
+  アニメパロディ:
+    slug: animeparodi
+    source: pykakasi
+    status: candidate
+  アマ:
+    slug: ama
+    source: pykakasi
+    status: candidate
+  アルジェントソーマ:
+    slug: arujientosooma
+    source: pykakasi
+    status: candidate
+  アンテナショップ:
+    slug: antenashoppu
+    source: pykakasi
+    status: candidate
+  アンドロイド:
+    slug: andoroido
+    source: pykakasi
+    status: candidate
+  イジメ:
+    slug: ijime
+    source: pykakasi
+    status: candidate
+  イスラフェルが倒せないから降参だけは最後まで取っておく:
+    slug: isuraferugataosenaikarakousandakehasaigomadetotsuteoku
+    source: pykakasi
+    status: candidate
+  イスラム過激派:
+    slug: isuramukagekiha
+    source: pykakasi
+    status: candidate
+  イマジネシア&ブルーティア(アナログ所さんマスケッティアーズ):
+    slug: imajineshia-buruuteia-anarogutokorosanmasuketteiaazu
+    source: pykakasi
+    status: candidate
+  イリヤの空、UFOの夏:
+    slug: iriyanosora-ufononatsu
+    source: pykakasi
+    status: candidate
+  インタビュー:
+    slug: intabyuu
+    source: pykakasi
+    status: candidate
+  ウイルス:
+    slug: uirusu
+    source: pykakasi
+    status: candidate
+  ウェイトレス:
+    slug: ueitoresu
+    source: pykakasi
+    status: candidate
+  ウェイトレス(ア○ミラ?):
+    slug: ueitoresu-a-mira
+    source: pykakasi
+    status: candidate
+  ウェディングドレス:
+    slug: uedingudoresu
+    source: pykakasi
+    status: candidate
+  ウェディングドレスマッドサイエンティスト:
+    slug: uedingudoresumaddosaienteisuto
+    source: pykakasi
+    status: candidate
+  ウサギ:
+    slug: usagi
+    source: pykakasi
+    status: candidate
+  ウサ耳:
+    slug: usamimi
+    source: pykakasi
+    status: candidate
+  ウマウマ:
+    slug: umauma
+    source: pykakasi
+    status: candidate
+  ウルトラマン:
+    slug: urutoraman
+    source: pykakasi
+    status: candidate
+  エイプリルフール:
+    slug: eipurirufuuru
+    source: pykakasi
+    status: candidate
+  エセ恋愛話:
+    slug: eseren-aibanashi
+    source: pykakasi
+    status: candidate
+  エセ感動話:
+    slug: esekandouhanashi
+    source: pykakasi
+    status: candidate
+  エレベーターガール:
+    slug: erebeetaagaaru
+    source: pykakasi
+    status: candidate
+  エレメント戦士:
+    slug: erementosenshi
+    source: pykakasi
+    status: candidate
+  エヴァンゲリオン:
+    slug: evangerion
+    source: pykakasi
+    status: candidate
+  オカルト:
+    slug: okaruto
+    source: pykakasi
+    status: candidate
+  オセロ:
+    slug: osero
+    source: pykakasi
+    status: candidate
+  オマージュ:
+    slug: omaaju
+    source: pykakasi
+    status: candidate
+  オムニバス:
+    slug: omunibasu
+    source: pykakasi
+    status: candidate
+  オレっ娘:
+    slug: oretsumusume
+    source: pykakasi
+    status: candidate
+  オレっ娘(一部):
+    slug: oretsumusume-ichibu
+    source: pykakasi
+    status: candidate
+  オレっ娘(今回のみ):
+    slug: oretsumusume-konkainomi
+    source: pykakasi
+    status: candidate
+  オレっ娘(覇雄):
+    slug: oretsumusume-haosu
+    source: pykakasi
+    status: candidate
+  オレっ娘×2:
+    slug: oretsumusumex2
+    source: pykakasi
+    status: candidate
+  オレっ娘、魔法少女:
+    slug: oretsumusume-mahoushoujo
+    source: pykakasi
+    status: candidate
+  オレっ子:
+    slug: oretsuko
+    source: pykakasi
+    status: candidate
+  オーバーテクノロジー:
+    slug: oobaatekunorojii
+    source: pykakasi
+    status: candidate
+  カタツムリ:
+    slug: katatsumuri
+    source: pykakasi
+    status: candidate
+  カニ鍋(笑):
+    slug: kaninabe-warai
+    source: pykakasi
+    status: candidate
+  カメラ:
+    slug: kamera
+    source: pykakasi
+    status: candidate
+  カラオケ:
+    slug: karaoke
+    source: pykakasi
+    status: candidate
+  カーアクション:
+    slug: kaaakushon
+    source: pykakasi
+    status: candidate
+  カード:
+    slug: kaado
+    source: pykakasi
+    status: candidate
+  カードゲーム:
+    slug: kaadogeemu
+    source: pykakasi
+    status: candidate
+  ガイコツ:
+    slug: gaikotsu
+    source: pykakasi
+    status: candidate
+  ガガガ:
+    slug: gagaga
+    source: pykakasi
+    status: candidate
+  ガンプラ:
+    slug: ganpura
+    source: pykakasi
+    status: candidate
+  キリスト教:
+    slug: kirisutokyou
+    source: pykakasi
+    status: candidate
+  ギター:
+    slug: gitaa
+    source: pykakasi
+    status: candidate
+  ギャラクシーエンジェる〜ん:
+    slug: gyarakushiienjieru-n
+    source: pykakasi
+    status: candidate
+  ギャラクシーエンジェル:
+    slug: gyarakushiienjieru
+    source: pykakasi
+    status: candidate
+  ギルド:
+    slug: girudo
+    source: pykakasi
+    status: candidate
+  クォンタムリープ:
+    slug: kuontamuriipu
+    source: pykakasi
+    status: candidate
+  クラスマッチ:
+    slug: kurasumatchi
+    source: pykakasi
+    status: candidate
+  クラスマッチの打ち上げ:
+    slug: kurasumatchinouchiage
+    source: pykakasi
+    status: candidate
+  クリスマス:
+    slug: kurisumasu
+    source: pykakasi
+    status: candidate
+  クリスマスイブ:
+    slug: kurisumasuibu
+    source: pykakasi
+    status: candidate
+  クレイジーな奴:
+    slug: kureijiinayatsu
+    source: pykakasi
+    status: candidate
+  グラウンド60周:
+    slug: guraundo60shuu
+    source: pykakasi
+    status: candidate
+  ケモノ娘:
+    slug: kemonomusume
+    source: pykakasi
+    status: candidate
+  ゲーム:
+    slug: geemu
+    source: pykakasi
+    status: candidate
+  ゲーム『メダロット:
+    slug: geemu-medarotto
+    source: pykakasi
+    status: candidate
+  コスプレ:
+    slug: kosupure
+    source: pykakasi
+    status: candidate
+  コスプレ(家族):
+    slug: kosupure-kazoku
+    source: pykakasi
+    status: candidate
+  コスプレ(家族が):
+    slug: kosupure-kazokuga
+    source: pykakasi
+    status: candidate
+  コピー:
+    slug: kopii
+    source: pykakasi
+    status: candidate
+  コミケ:
+    slug: komike
+    source: pykakasi
+    status: candidate
+  コメディ(ほんのちょっと):
+    slug: komedi-honnochotto
+    source: pykakasi
+    status: candidate
+  ゴスロリ:
+    slug: gosurori
+    source: pykakasi
+    status: candidate
+  ゴルフ:
+    slug: gorufu
+    source: pykakasi
+    status: candidate
+  ゴースト:
+    slug: goosuto
+    source: pykakasi
+    status: candidate
+  ゴーレム:
+    slug: gooremu
+    source: pykakasi
+    status: candidate
+  サイボーグ:
+    slug: saiboogu
+    source: pykakasi
+    status: candidate
+  サスペンス:
+    slug: sasupensu
+    source: pykakasi
+    status: candidate
+  サッカーとキツネと重火器:
+    slug: sakkaatokitsunetojuukaki
+    source: pykakasi
+    status: candidate
+  サンダバ・ラジオ:
+    slug: sandaba-rajio
+    source: pykakasi
+    status: candidate
+  シェアキャラクターがこそっと...:
+    slug: shieakyarakutaagakosotto
+    source: pykakasi
+    status: candidate
+  シェアードワールド:
+    slug: shieaadowaarudo
+    source: pykakasi
+    status: candidate
+  シスコン:
+    slug: shisukon
+    source: pykakasi
+    status: candidate
+  シスター:
+    slug: shisutaa
+    source: pykakasi
+    status: candidate
+  シスター・プリンセス:
+    slug: shisutaa-purinsesu
+    source: pykakasi
+    status: candidate
+  シスプリ:
+    slug: shisupuri
+    source: pykakasi
+    status: candidate
+  シャワーシーン:
+    slug: shawaashiin
+    source: pykakasi
+    status: candidate
+  ショッピング:
+    slug: shoppingu
+    source: pykakasi
+    status: candidate
+  ショート:
+    slug: shooto
+    source: pykakasi
+    status: candidate
+  シリアス:
+    slug: shiriasu
+    source: pykakasi
+    status: candidate
+  シリアス(ライトシリアス?):
+    slug: shiriasu-raitoshiriasu
+    source: pykakasi
+    status: candidate
+  シリアスモドキ:
+    slug: shiriasumodoki
+    source: pykakasi
+    status: candidate
+  シンデレラ:
+    slug: shinderera
+    source: pykakasi
+    status: candidate
+  シンボルマーク:
+    slug: shinborumaaku
+    source: pykakasi
+    status: candidate
+  シーマ:
+    slug: shiima
+    source: pykakasi
+    status: candidate
+  ジョジョの奇妙な冒険:
+    slug: jojonokimyounabouken
+    source: pykakasi
+    status: candidate
+  ジンギスカンヤキソバ:
+    slug: jingisukanyakisoba
+    source: pykakasi
+    status: candidate
+  スキー:
+    slug: sukii
+    source: pykakasi
+    status: candidate
+  スキー場は物価が高い(笑):
+    slug: sukiibahabukkagatakai-warai
+    source: pykakasi
+    status: candidate
+  スクール水着:
+    slug: sukuurumizugi
+    source: pykakasi
+    status: candidate
+  スケベ:
+    slug: sukebe
+    source: pykakasi
+    status: candidate
+  スターダストメモリー:
+    slug: sutaadasutomemorii
+    source: pykakasi
+    status: candidate
+  スター・システム:
+    slug: sutaa-shisutemu
+    source: pykakasi
+    status: candidate
+  スター・システム(アナログ所さんより):
+    slug: sutaa-shisutemu-anarogutokorosanyori
+    source: pykakasi
+    status: candidate
+  スター・システム(シャウト!より):
+    slug: sutaa-shisutemu-shauto-yori
+    source: pykakasi
+    status: candidate
+  スター・システム(デュアルワールド、落雷より):
+    slug: sutaa-shisutemu-deyuaruwaarudo-rakuraiyori
+    source: pykakasi
+    status: candidate
+  スター・システム(デュアルワールドより):
+    slug: sutaa-shisutemu-deyuaruwaarudoyori
+    source: pykakasi
+    status: candidate
+  スター・システム(落雷、Seedより):
+    slug: sutaa-shisutemu-rakurai-seedyori
+    source: pykakasi
+    status: candidate
+  スチュワーデス:
+    slug: suchuwaadesu
+    source: pykakasi
+    status: candidate
+  ストーカー:
+    slug: sutookaa
+    source: pykakasi
+    status: candidate
+  スペースオペラ:
+    slug: supeesuopera
+    source: pykakasi
+    status: candidate
+  スーツアクター:
+    slug: suutsuakutaa
+    source: pykakasi
+    status: candidate
+  スーパーヒロイン:
+    slug: suupaahiroin
+    source: pykakasi
+    status: candidate
+  スーパーマーケット:
+    slug: suupaamaaketto
+    source: pykakasi
+    status: candidate
+  セイバーマリオネットJ:
+    slug: seibaamarionettoj
+    source: pykakasi
+    status: candidate
+  セカンドシーズン〜:
+    slug: sekandoshiizun
+    source: pykakasi
+    status: candidate
+  セクシーポーズ:
+    slug: sekushiipoozu
+    source: pykakasi
+    status: candidate
+  セバスチャン:
+    slug: sebasuchan
+    source: pykakasi
+    status: candidate
+  セーラームーン:
+    slug: seeraamuun
+    source: pykakasi
+    status: candidate
+  セーラー服:
+    slug: seeraafuku
+    source: pykakasi
+    status: candidate
+  セーラー服怪盗:
+    slug: seeraafukukaitou
+    source: pykakasi
+    status: candidate
+  ソフトボール:
+    slug: sofutobooru
+    source: pykakasi
+    status: candidate
+  ゾンビ:
+    slug: zonbi
+    source: pykakasi
+    status: candidate
+  タイムスリップ:
+    slug: taimusurippu
+    source: pykakasi
+    status: candidate
+  タブー:
+    slug: tabuu
+    source: pykakasi
+    status: candidate
+  ダンス:
+    slug: dansu
+    source: pykakasi
+    status: candidate
+  ダーク:
+    slug: daaku
+    source: pykakasi
+    status: candidate
+  ダーク(風味):
+    slug: daaku-fuumi
+    source: pykakasi
+    status: candidate
+  ダークっぽい:
+    slug: daakuppoi
+    source: pykakasi
+    status: candidate
+  ダーティーエンジェル:
+    slug: daateiienjieru
+    source: pykakasi
+    status: candidate
+  チャイナ:
+    slug: chaina
+    source: pykakasi
+    status: candidate
+  チャイナドレス:
+    slug: chainadoresu
+    source: pykakasi
+    status: candidate
+  チャイナ服:
+    slug: chainafuku
+    source: pykakasi
+    status: candidate
+  チョコ:
+    slug: choko
+    source: pykakasi
+    status: candidate
+  チョコレート:
+    slug: chokoreeto
+    source: pykakasi
+    status: candidate
+  ツンデレ:
+    slug: tsundere
+    source: pykakasi
+    status: candidate
+  ツンデレ風:
+    slug: tsunderekaze
+    source: pykakasi
+    status: candidate
+  テクノロジー:
+    slug: tekunorojii
+    source: pykakasi
+    status: candidate
+  テレビ局:
+    slug: terebikyoku
+    source: pykakasi
+    status: candidate
+  テロ事件:
+    slug: terojiken
+    source: pykakasi
+    status: candidate
+  デュエル:
+    slug: deyueru
+    source: pykakasi
+    status: candidate
+  デート:
+    slug: deeto
+    source: pykakasi
+    status: candidate
+  トラップ:
+    slug: torappu
+    source: pykakasi
+    status: candidate
+  ド○えもん:
+    slug: do-emon
+    source: pykakasi
+    status: candidate
+  ドジっ娘:
+    slug: dojitsumusume
+    source: pykakasi
+    status: candidate
+  ドラえもん:
+    slug: doraemon
+    source: pykakasi
+    status: candidate
+  ドリル:
+    slug: doriru
+    source: pykakasi
+    status: candidate
+  ナイトメア:
+    slug: naitomea
+    source: pykakasi
+    status: candidate
+  ナッツ:
+    slug: nattsu
+    source: pykakasi
+    status: candidate
+  ナース:
+    slug: naasu
+    source: pykakasi
+    status: candidate
+  ニセモノ:
+    slug: nisemono
+    source: pykakasi
+    status: candidate
+  ニブチン:
+    slug: nibuchin
+    source: pykakasi
+    status: candidate
+  ニューハーフ:
+    slug: nyuuhaafu
+    source: pykakasi
+    status: candidate
+  ネコミミメイド(・・・まてこら):
+    slug: nekomimimeido-matekora
+    source: pykakasi
+    status: candidate
+  ネコ耳:
+    slug: nekomimi
+    source: pykakasi
+    status: candidate
+  ネズミ耳娘:
+    slug: nezumimimimusume
+    source: pykakasi
+    status: candidate
+  ノワール:
+    slug: nowaaru
+    source: pykakasi
+    status: candidate
+  ハムスター萌え:
+    slug: hamusutaahoue
+    source: pykakasi
+    status: candidate
+  ハリウッド:
+    slug: hariuddo
+    source: pykakasi
+    status: candidate
+  ハンター:
+    slug: hantaa
+    source: pykakasi
+    status: candidate
+  ハンター30号:
+    slug: hantaa30gou
+    source: pykakasi
+    status: candidate
+  ハンター48号:
+    slug: hantaa48gou
+    source: pykakasi
+    status: candidate
+  ハンターシリーズ:
+    slug: hantaashiriizu
+    source: pykakasi
+    status: candidate
+  ハンターシリーズ番外編:
+    slug: hantaashiriizubangaihen
+    source: pykakasi
+    status: candidate
+  ハートフル:
+    slug: haatofuru
+    source: pykakasi
+    status: candidate
+  バイオハザード:
+    slug: baiohazaado
+    source: pykakasi
+    status: candidate
+  バイク:
+    slug: baiku
+    source: pykakasi
+    status: candidate
+  バオー:
+    slug: baoo
+    source: pykakasi
+    status: candidate
+  バカップル:
+    slug: bakappuru
+    source: pykakasi
+    status: candidate
+  バック・トゥ・ネイチャー:
+    slug: bakku-tou-neichaa
+    source: pykakasi
+    status: candidate
+  バドミントン:
+    slug: badominton
+    source: pykakasi
+    status: candidate
+  バニー:
+    slug: banii
+    source: pykakasi
+    status: candidate
+  バニーガール:
+    slug: baniigaaru
+    source: pykakasi
+    status: candidate
+  バレリーナ:
+    slug: bareriina
+    source: pykakasi
+    status: candidate
+  バレンタイン:
+    slug: barentain
+    source: pykakasi
+    status: candidate
+  バーチャルリアルティー:
+    slug: baacharuriaruteii
+    source: pykakasi
+    status: candidate
+  パイロット:
+    slug: pairotto
+    source: pykakasi
+    status: candidate
+  パジャマ:
+    slug: pajama
+    source: pykakasi
+    status: candidate
+  パニック:
+    slug: panikku
+    source: pykakasi
+    status: candidate
+  パパ:
+    slug: papa
+    source: pykakasi
+    status: candidate
+  パラレルワールド:
+    slug: parareruwaarudo
+    source: pykakasi
+    status: candidate
+  パロディー:
+    slug: parodii
+    source: pykakasi
+    status: candidate
+  パワーアップ:
+    slug: pawaaappu
+    source: pykakasi
+    status: candidate
+  パーソナルモビル:
+    slug: paasonarumobiru
+    source: pykakasi
+    status: candidate
+  パーフェクトスタイル:
+    slug: paafekutosutairu
+    source: pykakasi
+    status: candidate
+  ヒロシマ:
+    slug: hiroshima
+    source: pykakasi
+    status: candidate
+  ヒーロー:
+    slug: hiiroo
+    source: pykakasi
+    status: candidate
+  ビキニ:
+    slug: bikini
+    source: pykakasi
+    status: candidate
+  ビール:
+    slug: biiru
+    source: pykakasi
+    status: candidate
+  ピアノ:
+    slug: piano
+    source: pykakasi
+    status: candidate
+  ピザまん(笑):
+    slug: pizaman-warai
+    source: pykakasi
+    status: candidate
+  ファンタジー:
+    slug: fantajii
+    source: pykakasi
+    status: candidate
+  フィギュアスケート:
+    slug: figyuasukeeto
+    source: pykakasi
+    status: candidate
+  フォスター:
+    slug: fosutaa
+    source: pykakasi
+    status: candidate
+  フリューゲルの暗黒面:
+    slug: furyuugerunoankokumen
+    source: pykakasi
+    status: candidate
+  フルメタルワイルドの歌のフレーズ:
+    slug: furumetaruwairudonoutanofureezu
+    source: pykakasi
+    status: candidate
+  ブラクラ:
+    slug: burakura
+    source: pykakasi
+    status: candidate
+  ブレザー:
+    slug: burezaa
+    source: pykakasi
+    status: candidate
+  プリキュアパロディ:
+    slug: purikyuaparodi
+    source: pykakasi
+    status: candidate
+  プリンセス:
+    slug: purinsesu
+    source: pykakasi
+    status: candidate
+  プロ:
+    slug: puro
+    source: pykakasi
+    status: candidate
+  プール:
+    slug: puuru
+    source: pykakasi
+    status: candidate
+  ヘタレ:
+    slug: hetare
+    source: pykakasi
+    status: candidate
+  ホルモン:
+    slug: horumon
+    source: pykakasi
+    status: candidate
+  ホーリーブラウニー:
+    slug: hooriiburaunii
+    source: pykakasi
+    status: candidate
+  ボクっ娘:
+    slug: bokutsumusume
+    source: pykakasi
+    status: candidate
+  ボクっ娘(稔):
+    slug: bokutsumusume-minoru
+    source: pykakasi
+    status: candidate
+  ボディーソープ:
+    slug: bodiisoopu
+    source: pykakasi
+    status: candidate
+  ポケモン:
+    slug: pokemon
+    source: pykakasi
+    status: candidate
+  ポシェット:
+    slug: poshietto
+    source: pykakasi
+    status: candidate
+  マタンゴ:
+    slug: matango
+    source: pykakasi
+    status: candidate
+  マッチョ:
+    slug: matcho
+    source: pykakasi
+    status: candidate
+  マッド:
+    slug: maddo
+    source: pykakasi
+    status: candidate
+  マッドサイエンティスト:
+    slug: maddosaienteisuto
+    source: pykakasi
+    status: candidate
+  マッドサイエンテスト:
+    slug: maddosaientesuto
+    source: pykakasi
+    status: candidate
+  マニア:
+    slug: mania
+    source: pykakasi
+    status: candidate
+  ミステリーワールド:
+    slug: misuteriiwaarudo
+    source: pykakasi
+    status: candidate
+  ミストレスシリーズ:
+    slug: misutoresushiriizu-2
+    source: pykakasi
+    status: candidate
+  ミッ○ドナイトプ○ス:
+    slug: mitsu-donaitopu-su
+    source: pykakasi
+    status: candidate
+  ミラーリング:
+    slug: miraaringu
+    source: pykakasi
+    status: candidate
+  メイド:
+    slug: meido
+    source: pykakasi
+    status: candidate
+  メイドさん:
+    slug: meidosan
+    source: pykakasi
+    status: candidate
+  メイド風:
+    slug: meidokaze
+    source: pykakasi
+    status: candidate
+  メカ:
+    slug: meka
+    source: pykakasi
+    status: candidate
+  メカ(可変戦闘機):
+    slug: meka-kahensentouki
+    source: pykakasi
+    status: candidate
+  メガネ:
+    slug: megane
+    source: pykakasi
+    status: candidate
+  メガネっ娘:
+    slug: meganetsumusume
+    source: pykakasi
+    status: candidate
+  メガネっ子:
+    slug: meganetsuko
+    source: pykakasi
+    status: candidate
+  モデル:
+    slug: moderu
+    source: pykakasi
+    status: candidate
+  モンスター:
+    slug: monsutaa
+    source: pykakasi
+    status: candidate
+  ヤマト:
+    slug: yamato
+    source: pykakasi
+    status: candidate
+  ユイム:
+    slug: yuimu
+    source: pykakasi
+    status: candidate
+  ユニーの惑星:
+    slug: yuniinowakusei
+    source: pykakasi
+    status: candidate
+  ユネスコ:
+    slug: yunesuko
+    source: pykakasi
+    status: candidate
+  リアル妹:
+    slug: riaruimouto
+    source: pykakasi
+    status: candidate
+  リゾート:
+    slug: rizooto
+    source: pykakasi
+    status: candidate
+  リリカル:
+    slug: ririkaru
+    source: pykakasi
+    status: candidate
+  レディ・ブリンガー:
+    slug: redi-buringaa
+    source: pykakasi
+    status: candidate
+  レンタルボディ:
+    slug: rentarubodi
+    source: pykakasi
+    status: candidate
+  ロックバンド:
+    slug: rokkubando
+    source: pykakasi
+    status: candidate
+  ロボTRY:
+    slug: robotry
+    source: pykakasi
+    status: candidate
+  ロボット:
+    slug: robotto
+    source: pykakasi
+    status: candidate
+  ロミオとジュリエット:
+    slug: romiotojurietto
+    source: pykakasi
+    status: candidate
+  ローテンション:
+    slug: rootenshon
+    source: pykakasi
+    status: candidate
+  ロードレース:
+    slug: roodoreesu
+    source: pykakasi
+    status: candidate
+  ワイっ娘:
+    slug: waitsumusume
+    source: pykakasi
+    status: candidate
+  ワイルドウエスト:
+    slug: wairudouesuto
+    source: pykakasi
+    status: candidate
+  ヴァンパイア:
+    slug: vanpaia
+    source: pykakasi
+    status: candidate
+  一人語り:
+    slug: hitorikatari
+    source: pykakasi
+    status: candidate
+  一緒に寝る:
+    slug: isshonineru
+    source: pykakasi
+    status: candidate
+  七夕:
+    slug: tanabata
+    source: pykakasi
+    status: candidate
+  三角関係:
+    slug: sankakukankei
+    source: pykakasi
+    status: candidate
+  下ネタ:
+    slug: shimoneta
+    source: pykakasi
+    status: candidate
+  下町:
+    slug: shitamachi
+    source: pykakasi
+    status: candidate
+  不思議な力:
+    slug: fushiginachikara
+    source: pykakasi
+    status: candidate
+  不思議の国のアリス:
+    slug: fushiginokuninoarisu
+    source: pykakasi
+    status: candidate
+  不条理:
+    slug: fujouri
+    source: pykakasi
+    status: candidate
+  不良:
+    slug: furyou
+    source: pykakasi
+    status: candidate
+  中華料理:
+    slug: chuukaryouri
+    source: pykakasi
+    status: candidate
+  事なかれ主義:
+    slug: kotonakareshugi
+    source: pykakasi
+    status: candidate
+  事件:
+    slug: jiken
+    source: pykakasi
+    status: candidate
+  事故:
+    slug: jiko
+    source: pykakasi
+    status: candidate
+  二人で一人:
+    slug: futaridehitori
+    source: pykakasi
+    status: candidate
+  二人称:
+    slug: nininshou
+    source: pykakasi
+    status: candidate
+  二人称小説的:
+    slug: nininshoushousetsuteki
+    source: pykakasi
+    status: candidate
+  二十九京三千七百六十五兆八千飛んで一億七千二百四十二万四千九百三十三:
+    slug: nijuukyuukyouzousenshichihyakurokujuugochouhassentondeichiokunanasennihyakushijuunimanyonsenkyuuhyakusanjuusan
+    source: pykakasi
+    status: candidate
+  二次創作(アナログ所さん電脳大冒険Special):
+    slug: nijisousaku-anarogutokorosandennoudaiboukenspecial
+    source: pykakasi
+    status: candidate
+  二重人格者:
+    slug: nijuujinkakumono
+    source: pykakasi
+    status: candidate
+  人さらい:
+    slug: ninsarai
+    source: pykakasi
+    status: candidate
+  人を呪わば穴二つ:
+    slug: ninwonorowabaanafutatsu
+    source: pykakasi
+    status: candidate
+  人助け:
+    slug: hitodasuke
+    source: pykakasi
+    status: candidate
+  人形:
+    slug: ningyou
+    source: pykakasi
+    status: candidate
+  人格変化:
+    slug: jinkakuhenka
+    source: pykakasi
+    status: candidate
+  人格女性化:
+    slug: jinkakujoseika
+    source: pykakasi
+    status: candidate
+  人格転移:
+    slug: jinkakuten-i
+    source: pykakasi
+    status: candidate
+  人生ドラマ:
+    slug: jinseidorama
+    source: pykakasi
+    status: candidate
+  人造人間:
+    slug: jinzouningen
+    source: pykakasi
+    status: candidate
+  人魚:
+    slug: ningyo
+    source: pykakasi
+    status: candidate
+  今は無き町:
+    slug: imahanakimachi
+    source: pykakasi
+    status: candidate
+  今回はシリアス:
+    slug: konkaihashiriasu
+    source: pykakasi
+    status: candidate
+  仕事人:
+    slug: shigotonin
+    source: pykakasi
+    status: candidate
+  仕切る女(笑):
+    slug: shikiruonna-warai
+    source: pykakasi
+    status: candidate
+  他:
+    slug: hoka
+    source: pykakasi
+    status: candidate
+  他etc:
+    slug: hokaetc
+    source: pykakasi
+    status: candidate
+  他etc...:
+    slug: hokaetc-2
+    source: pykakasi
+    status: candidate
+  他人の記憶:
+    slug: taninnokioku
+    source: pykakasi
+    status: candidate
+  付き添いの人:
+    slug: tsukisoinonin
+    source: pykakasi
+    status: candidate
+  仮想現実:
+    slug: kasougenjitsu
+    source: pykakasi
+    status: candidate
+  仮面ライターディレイド(原案:城弾さん):
+    slug: kamenraitaadireido-gen-an-shirodansan
+    source: pykakasi
+    status: candidate
+  仮面ライダー:
+    slug: kamenraidaa
+    source: pykakasi
+    status: candidate
+  仮面ライダーV3:
+    slug: kamenraidaav3
+    source: pykakasi
+    status: candidate
+  仮面ライダーディケイド」パロディ:
+    slug: kamenraidaadikeido-parodi
+    source: pykakasi
+    status: candidate
+  仲の良い4人:
+    slug: nakanoyoi4nin
+    source: pykakasi
+    status: candidate
+  仲間:
+    slug: nakama
+    source: pykakasi
+    status: candidate
+  任侠(笑):
+    slug: ninkyou-warai
+    source: pykakasi
+    status: candidate
+  伝説:
+    slug: densetsu
+    source: pykakasi
+    status: candidate
+  作家:
+    slug: sakka
+    source: pykakasi
+    status: candidate
+  作者の惨めな愚痴:
+    slug: sakushanosanmenaguchi
+    source: pykakasi
+    status: candidate
+  侵略:
+    slug: shinryaku
+    source: pykakasi
+    status: candidate
+  侵略(は今回なし)ロボット(修理中)対決:
+    slug: shinryaku-hakonkainashi-robotto-shuurichuu-taiketsu
+    source: pykakasi
+    status: candidate
+  保健委員:
+    slug: hokeniin
+    source: pykakasi
+    status: candidate
+  保健室:
+    slug: hokenshitsu
+    source: pykakasi
+    status: candidate
+  修羅場:
+    slug: shuraba
+    source: pykakasi
+    status: candidate
+  俺は太陽の男:
+    slug: orehataiyounootoko
+    source: pykakasi
+    status: candidate
+  俺達いつでもロックバカ!:
+    slug: oretachiitsudemorokkubaka
+    source: pykakasi
+    status: candidate
+  偏食:
+    slug: henshoku
+    source: pykakasi
+    status: candidate
+  偵察:
+    slug: teisatsu
+    source: pykakasi
+    status: candidate
+  元ヤン:
+    slug: motoyan
+    source: pykakasi
+    status: candidate
+  兄と弟:
+    slug: anitootouto
+    source: pykakasi
+    status: candidate
+  兄妹:
+    slug: kyoudai
+    source: pykakasi
+    status: candidate
+  兄妹愛:
+    slug: kyoudaiai-2
+    source: pykakasi
+    status: candidate
+  兄弟:
+    slug: kyoudai-2
+    source: pykakasi
+    status: candidate
+  兄弟愛:
+    slug: kyoudaiai
+    source: pykakasi
+    status: candidate
+  兄貴:
+    slug: aniki
+    source: pykakasi
+    status: candidate
+  先斗院レイナ:
+    slug: pontoinreina
+    source: pykakasi
+    status: candidate
+  先行〇(笑):
+    slug: senkou-maru-warai
+    source: pykakasi
+    status: candidate
+  先輩萌え:
+    slug: senpaihoue
+    source: pykakasi
+    status: candidate
+  入る:
+    slug: iru
+    source: pykakasi
+    status: candidate
+  入れ替わり:
+    slug: irekawari
+    source: pykakasi
+    status: candidate
+  入浴:
+    slug: nyuuyoku
+    source: pykakasi
+    status: candidate
+  入浴(あまつさえ混浴):
+    slug: nyuuyoku-amatsusaekonyoku
+    source: pykakasi
+    status: candidate
+  入浴(それっぽくないけど):
+    slug: nyuuyoku-soreppokunaikedo
+    source: pykakasi
+    status: candidate
+  入浴(水浴び):
+    slug: nyuuyoku-mizuabi
+    source: pykakasi
+    status: candidate
+  入浴(直前):
+    slug: nyuuyoku-chokuzen
+    source: pykakasi
+    status: candidate
+  入浴(笑):
+    slug: nyuuyoku-warai
+    source: pykakasi
+    status: candidate
+  冒険:
+    slug: bouken
+    source: pykakasi
+    status: candidate
+  写真:
+    slug: shashin
+    source: pykakasi
+    status: candidate
+  凸凹コンビ:
+    slug: dekobokokonbi
+    source: pykakasi
+    status: candidate
+  出会い:
+    slug: deai
+    source: pykakasi
+    status: candidate
+  出産:
+    slug: shussan
+    source: pykakasi
+    status: candidate
+  刀:
+    slug: katana
+    source: pykakasi
+    status: candidate
+  切望:
+    slug: setsubou
+    source: pykakasi
+    status: candidate
+  刑事:
+    slug: keiji
+    source: pykakasi
+    status: candidate
+  初めての○○:
+    slug: hajimeteno
+    source: pykakasi
+    status: candidate
+  初デート:
+    slug: hatsudeeto
+    source: pykakasi
+    status: candidate
+  初恋:
+    slug: hatsukoi
+    source: pykakasi
+    status: candidate
+  初登校:
+    slug: hatsutoukou
+    source: pykakasi
+    status: candidate
+  初舞台:
+    slug: hatsubutai
+    source: pykakasi
+    status: candidate
+  初詣:
+    slug: hatsumoude
+    source: pykakasi
+    status: candidate
+  制服:
+    slug: seifuku
+    source: pykakasi
+    status: candidate
+  制服‐制服‐制服(おぃ:
+    slug: seifuku-seifuku-seifuku-oi
+    source: pykakasi
+    status: candidate
+  剣客:
+    slug: kenkaku
+    source: pykakasi
+    status: candidate
+  剣道:
+    slug: kendou
+    source: pykakasi
+    status: candidate
+  副作用:
+    slug: fukusayou
+    source: pykakasi
+    status: candidate
+  劇場アニメ:
+    slug: gekijouanime
+    source: pykakasi
+    status: candidate
+  加齢:
+    slug: karei
+    source: pykakasi
+    status: candidate
+  助っ人:
+    slug: suketto
+    source: pykakasi
+    status: candidate
+  労働:
+    slug: roudou
+    source: pykakasi
+    status: candidate
+  勇者:
+    slug: yuusha
+    source: pykakasi
+    status: candidate
+  勇者ロボ:
+    slug: yuusharobo
+    source: pykakasi
+    status: candidate
+  勘違い:
+    slug: kanchigai
+    source: pykakasi
+    status: candidate
+  勝手な女たち(笑):
+    slug: kattenaonnatachi-warai
+    source: pykakasi
+    status: candidate
+  勧誘:
+    slug: kanyuu
+    source: pykakasi
+    status: candidate
+  勧誘会:
+    slug: kanyuukai
+    source: pykakasi
+    status: candidate
+  化け物:
+    slug: bakemono
+    source: pykakasi
+    status: candidate
+  医学:
+    slug: igaku
+    source: pykakasi
+    status: candidate
+  医者の助手:
+    slug: ishanojoshu
+    source: pykakasi
+    status: candidate
+  半強制:
+    slug: hankyousei
+    source: pykakasi
+    status: candidate
+  半陰陽:
+    slug: haninyou
+    source: pykakasi
+    status: candidate
+  卒業式:
+    slug: sotsugyoushiki
+    source: pykakasi
+    status: candidate
+  南の島:
+    slug: minaminoshima
+    source: pykakasi
+    status: candidate
+  博士:
+    slug: hakase
+    source: pykakasi
+    status: candidate
+  原作:Kanon:
+    slug: gensaku-kanon
+    source: pykakasi
+    status: candidate
+  原典:エドガー・アラン・ポー「赤死病の仮面:
+    slug: genten-edogaa-aran-poo-akashibyounokamen
+    source: pykakasi
+    status: candidate
+  原爆:
+    slug: genbaku
+    source: pykakasi
+    status: candidate
+  友人:
+    slug: yuujin
+    source: pykakasi
+    status: candidate
+  友情:
+    slug: yuujou
+    source: pykakasi
+    status: candidate
+  友達:
+    slug: tomodachi
+    source: pykakasi
+    status: candidate
+  双子:
+    slug: futago
+    source: pykakasi
+    status: candidate
+  召喚:
+    slug: shoukan
+    source: pykakasi
+    status: candidate
+  可愛い天使:
+    slug: kawaitenshi
+    source: pykakasi
+    status: candidate
+  可逆:
+    slug: kagyaku
+    source: pykakasi
+    status: candidate
+  可逆系:
+    slug: kagyakukei
+    source: pykakasi
+    status: candidate
+  史実との違い:
+    slug: shijitsutonochigai
+    source: pykakasi
+    status: candidate
+  合宿:
+    slug: gasshuku
+    source: pykakasi
+    status: candidate
+  吉良吉影:
+    slug: kirakichikage
+    source: pykakasi
+    status: candidate
+  同性愛:
+    slug: douseiai
+    source: pykakasi
+    status: candidate
+  同性愛の少年:
+    slug: douseiainoshounen
+    source: pykakasi
+    status: candidate
+  名刺:
+    slug: meishi
+    source: pykakasi
+    status: candidate
+  名前:
+    slug: namae
+    source: pykakasi
+    status: candidate
+  名探偵:
+    slug: meitantei
+    source: pykakasi
+    status: candidate
+  吸血ハアハア(謎):
+    slug: kyuuketsuhaahaa-nazo
+    source: pykakasi
+    status: candidate
+  吸血鬼:
+    slug: kyuuketsuki
+    source: pykakasi
+    status: candidate
+  告白:
+    slug: kokuhaku
+    source: pykakasi
+    status: candidate
+  周囲の反応:
+    slug: shuuinohannou
+    source: pykakasi
+    status: candidate
+  呪い:
+    slug: noroi
+    source: pykakasi
+    status: candidate
+  呪文:
+    slug: jumon
+    source: pykakasi
+    status: candidate
+  呪術:
+    slug: jujutsu
+    source: pykakasi
+    status: candidate
+  喜ぶ家族(笑):
+    slug: yorokobukazoku-warai
+    source: pykakasi
+    status: candidate
+  喫煙:
+    slug: kitsuen
+    source: pykakasi
+    status: candidate
+  喫茶店:
+    slug: kissaten
+    source: pykakasi
+    status: candidate
+  四月馬鹿:
+    slug: shigatsubaka
+    source: pykakasi
+    status: candidate
+  地元産:
+    slug: jimotosan
+    source: pykakasi
+    status: candidate
+  地蔵:
+    slug: jizou
+    source: pykakasi
+    status: candidate
+  地震:
+    slug: jishin
+    source: pykakasi
+    status: candidate
+  執事:
+    slug: shitsuji
+    source: pykakasi
+    status: candidate
+  報道:
+    slug: houdou
+    source: pykakasi
+    status: candidate
+  場所取り:
+    slug: bashotori
+    source: pykakasi
+    status: candidate
+  声転換:
+    slug: koetenkan
+    source: pykakasi
+    status: candidate
+  変わりゆく世界:
+    slug: kawariyukusekai
+    source: pykakasi
+    status: candidate
+  変化:
+    slug: henka
+    source: pykakasi
+    status: candidate
+  変態な父親:
+    slug: hentainachichioya
+    source: pykakasi
+    status: candidate
+  変身:
+    slug: henshin
+    source: pykakasi
+    status: candidate
+  変身ヒロイン:
+    slug: henshinhiroin
+    source: pykakasi
+    status: candidate
+  夏:
+    slug: natsu
+    source: pykakasi
+    status: candidate
+  夏休み:
+    slug: natsuyasumi
+    source: pykakasi
+    status: candidate
+  夏定番:
+    slug: natsuteiban
+    source: pykakasi
+    status: candidate
+  外伝:
+    slug: gaiden
+    source: pykakasi
+    status: candidate
+  夢:
+    slug: yume
+    source: pykakasi
+    status: candidate
+  夢の中に生きて:
+    slug: yumenonakaniikite
+    source: pykakasi
+    status: candidate
+  夢オチ:
+    slug: yumeochi
+    source: pykakasi
+    status: candidate
+  天体観測:BUMP:
+    slug: tentaikansoku-bump
+    source: pykakasi
+    status: candidate
+  天使:
+    slug: tenshi
+    source: pykakasi
+    status: candidate
+  天使娘:
+    slug: tenshimusume
+    source: pykakasi
+    status: candidate
+  天女:
+    slug: tennyo
+    source: pykakasi
+    status: candidate
+  天才:
+    slug: tensai
+    source: pykakasi
+    status: candidate
+  天才女優:
+    slug: tensaijoyuu
+    source: pykakasi
+    status: candidate
+  天然:
+    slug: tennen
+    source: pykakasi
+    status: candidate
+  天竜寺:
+    slug: tenryuutera
+    source: pykakasi
+    status: candidate
+  天罰:
+    slug: tenbatsu
+    source: pykakasi
+    status: candidate
+  夫婦:
+    slug: fuufu
+    source: pykakasi
+    status: candidate
+  失業者:
+    slug: shitsugyousha
+    source: pykakasi
+    status: candidate
+  奇人変人:
+    slug: kijinhenjin
+    source: pykakasi
+    status: candidate
+  奇妙な奴:
+    slug: kimyounayatsu
+    source: pykakasi
+    status: candidate
+  奇形児:
+    slug: kikeiji
+    source: pykakasi
+    status: candidate
+  奇譚:
+    slug: kitan
+    source: pykakasi
+    status: candidate
+  女の子どうし:
+    slug: onnanokodoushi
+    source: pykakasi
+    status: candidate
+  女の子同士:
+    slug: onnanokodoushi-2
+    source: pykakasi
+    status: candidate
+  女スパイ:
+    slug: onnasupai
+    source: pykakasi
+    status: candidate
+  女保健医:
+    slug: onnahokeni
+    source: pykakasi
+    status: candidate
+  女医:
+    slug: joi
+    source: pykakasi
+    status: candidate
+  女友達:
+    slug: onnatomodachi
+    source: pykakasi
+    status: candidate
+  女同士:
+    slug: onnadoushi
+    source: pykakasi
+    status: candidate
+  女子中学生と中年親父:
+    slug: joshichuugakuseitochuunenoyaji
+    source: pykakasi
+    status: candidate
+  女子更衣室:
+    slug: joshikouishitsu
+    source: pykakasi
+    status: candidate
+  女子高:
+    slug: joshikou
+    source: pykakasi
+    status: candidate
+  女子高生:
+    slug: joshikousei
+    source: pykakasi
+    status: candidate
+  女学生:
+    slug: jogakusei
+    source: pykakasi
+    status: candidate
+  女尊男卑:
+    slug: josondanpi
+    source: pykakasi
+    status: candidate
+  女性人格化:
+    slug: joseijinkakuka
+    source: pykakasi
+    status: candidate
+  女性人格化(演技):
+    slug: joseijinkakuka-engi
+    source: pykakasi
+    status: candidate
+  女性人格化、♀→♂:
+    slug: joseijinkakuka-2
+    source: pykakasi
+    status: candidate
+  女性仮性半陰陽:
+    slug: joseikaseihaninyou
+    source: pykakasi
+    status: candidate
+  女性化:
+    slug: joseika
+    source: pykakasi
+    status: candidate
+  女性精神化:
+    slug: joseiseishinka
+    source: pykakasi
+    status: candidate
+  女性飛行兵:
+    slug: joseihikouhei
+    source: pykakasi
+    status: candidate
+  女戦士二人旅(笑):
+    slug: onnasenshifutaritabi-warai
+    source: pykakasi
+    status: candidate
+  女戦士受難編(笑):
+    slug: onnasenshijunanhen-warai
+    source: pykakasi
+    status: candidate
+  女神様(笑):
+    slug: megamisama-warai
+    source: pykakasi
+    status: candidate
+  女系一族:
+    slug: jokeiichizoku
+    source: pykakasi
+    status: candidate
+  女装:
+    slug: josou
+    source: pykakasi
+    status: candidate
+  女装(家族):
+    slug: josou-kazoku
+    source: pykakasi
+    status: candidate
+  女装(家族が):
+    slug: josou-kazokuga
+    source: pykakasi
+    status: candidate
+  女装の約束:
+    slug: josounoyakusoku
+    source: pykakasi
+    status: candidate
+  女装アイドル:
+    slug: josouaidoru
+    source: pykakasi
+    status: candidate
+  妖怪:
+    slug: youkai
+    source: pykakasi
+    status: candidate
+  妖精:
+    slug: yousei
+    source: pykakasi
+    status: candidate
+  妹:
+    slug: imouto
+    source: pykakasi
+    status: candidate
+  妹萌え:
+    slug: imoutohoue
+    source: pykakasi
+    status: candidate
+  姉:
+    slug: ane
+    source: pykakasi
+    status: candidate
+  姉妹:
+    slug: shimai
+    source: pykakasi
+    status: candidate
+  姉妹愛:
+    slug: shimaiai
+    source: pykakasi
+    status: candidate
+  姉弟:
+    slug: kyoudai-3
+    source: pykakasi
+    status: candidate
+  姫神:
+    slug: himegami
+    source: pykakasi
+    status: candidate
+  姫神奇譚:
+    slug: himegamikitan
+    source: pykakasi
+    status: candidate
+  婆さん:
+    slug: baasan
+    source: pykakasi
+    status: candidate
+  婦警さん:
+    slug: fukeisan
+    source: pykakasi
+    status: candidate
+  子守り:
+    slug: komori
+    source: pykakasi
+    status: candidate
+  存在の改変:
+    slug: sonzainokaihen
+    source: pykakasi
+    status: candidate
+  存在変化:
+    slug: sonzaihenka
+    source: pykakasi
+    status: candidate
+  学園:
+    slug: gakuen
+    source: pykakasi
+    status: candidate
+  学校:
+    slug: gakkou
+    source: pykakasi
+    status: candidate
+  学校の怪談:
+    slug: gakkounokaidan
+    source: pykakasi
+    status: candidate
+  学芸会:
+    slug: gakugeikai
+    source: pykakasi
+    status: candidate
+  宇宙人(グレイ型):
+    slug: uchuujin-gureikata
+    source: pykakasi
+    status: candidate
+  宝塚:
+    slug: takarazuka
+    source: pykakasi
+    status: candidate
+  実験作:
+    slug: jikkensaku
+    source: pykakasi
+    status: candidate
+  家:
+    slug: ie
+    source: pykakasi
+    status: candidate
+  家族:
+    slug: kazoku
+    source: pykakasi
+    status: candidate
+  家族愛(嘘):
+    slug: kazokuai-uso
+    source: pykakasi
+    status: candidate
+  富士見書房(??):
+    slug: fujimishobou
+    source: pykakasi
+    status: candidate
+  対華代能力:
+    slug: taikadainouryoku
+    source: pykakasi
+    status: candidate
+  小学生:
+    slug: shougakusei
+    source: pykakasi
+    status: candidate
+  小学生、OLさん、年齢変化:
+    slug: shougakusei-olsan-nenreihenka
+    source: pykakasi
+    status: candidate
+  小悪魔:
+    slug: koakuma
+    source: pykakasi
+    status: candidate
+  小説家:
+    slug: shousetsuka
+    source: pykakasi
+    status: candidate
+  少しCTHULHU神話系:
+    slug: sukoshicthulhushinwakei
+    source: pykakasi
+    status: candidate
+  少女型ロボット:
+    slug: shoujokatarobotto
+    source: pykakasi
+    status: candidate
+  少年少女文庫・リレー小説実行委員会主催作品:
+    slug: shounenshoujobunko-rireeshousetsujikkouiinkaishusaisakuhin
+    source: pykakasi
+    status: candidate
+  峨沙羅鬼:
+    slug: gasaraoni
+    source: pykakasi
+    status: candidate
+  巨乳:
+    slug: kyonyuu
+    source: pykakasi
+    status: candidate
+  巨大ロボット:
+    slug: kyodairobotto
+    source: pykakasi
+    status: candidate
+  巫女:
+    slug: miko
+    source: pykakasi
+    status: candidate
+  巫女さん:
+    slug: mikosan
+    source: pykakasi
+    status: candidate
+  師匠萌え:
+    slug: shishouhoue
+    source: pykakasi
+    status: candidate
+  師弟愛:
+    slug: shiteiai
+    source: pykakasi
+    status: candidate
+  平成ライダーシリーズパロディ:
+    slug: heiseiraidaashiriizuparodi
+    source: pykakasi
+    status: candidate
+  年齢変化:
+    slug: nenreihenka
+    source: pykakasi
+    status: candidate
+  年齢変化(幼女?):
+    slug: nenreihenka-youjo
+    source: pykakasi
+    status: candidate
+  年齢変化・アイテム:
+    slug: nenreihenka-aitemu
+    source: pykakasi
+    status: candidate
+  年齢退行:
+    slug: nenreitaikou
+    source: pykakasi
+    status: candidate
+  幼い少女:
+    slug: osanaishoujo
+    source: pykakasi
+    status: candidate
+  幼なじみ:
+    slug: younajimi
+    source: pykakasi
+    status: candidate
+  幼なじみ萌え:
+    slug: younajimihoue
+    source: pykakasi
+    status: candidate
+  幼女:
+    slug: youjo
+    source: pykakasi
+    status: candidate
+  幼馴染み:
+    slug: osananajimimi
+    source: pykakasi
+    status: candidate
+  幽霊:
+    slug: yuurei
+    source: pykakasi
+    status: candidate
+  広範囲無差別殺戮行為:
+    slug: kouhan-imusabetsusatsurikukoui
+    source: pykakasi
+    status: candidate
+  建築物の名前に共通点を見つけた方は○ン○○へ!:
+    slug: kenchikubutsunonamaenikyoutsuutenwomitsuketakataha-n-he
+    source: pykakasi
+    status: candidate
+  弁当:
+    slug: bentou
+    source: pykakasi
+    status: candidate
+  弓:
+    slug: yumi
+    source: pykakasi
+    status: candidate
+  弓道:
+    slug: kyuudou
+    source: pykakasi
+    status: candidate
+  引き篭もり:
+    slug: hikikomori
+    source: pykakasi
+    status: candidate
+  強制:
+    slug: kyousei
+    source: pykakasi
+    status: candidate
+  強制、マッドサイエンティスト:
+    slug: kyousei-maddosaienteisuto
+    source: pykakasi
+    status: candidate
+  強制女言葉:
+    slug: kyouseionnakotoba
+    source: pykakasi
+    status: candidate
+  強制着せ替え:
+    slug: kyouseikisekae
+    source: pykakasi
+    status: candidate
+  後ろ向きな性格:
+    slug: ushiromukinaseikaku
+    source: pykakasi
+    status: candidate
+  後宮:
+    slug: atomiya
+    source: pykakasi
+    status: candidate
+  後悔先に立たず:
+    slug: koukaisakinitatazu
+    source: pykakasi
+    status: candidate
+  後継者争い:
+    slug: koukeishaarasoi
+    source: pykakasi
+    status: candidate
+  徐々に女性化:
+    slug: jojonijoseika
+    source: pykakasi
+    status: candidate
+  御栗崎レオナ:
+    slug: okurisakireona
+    source: pykakasi
+    status: candidate
+  微妙なあのコ:
+    slug: bimyounaanoko
+    source: pykakasi
+    status: candidate
+  忍び:
+    slug: shinobi
+    source: pykakasi
+    status: candidate
+  忍び寄る恐怖:
+    slug: shinobiyorukyoufu
+    source: pykakasi
+    status: candidate
+  忍者:
+    slug: ninja
+    source: pykakasi
+    status: candidate
+  性別交代:
+    slug: seibetsukoutai
+    source: pykakasi
+    status: candidate
+  性同一性障害:
+    slug: seidouitsuseishougai
+    source: pykakasi
+    status: candidate
+  性格変化(一瞬):
+    slug: seikakuhenka-isshun
+    source: pykakasi
+    status: candidate
+  怪盗:
+    slug: kaitou
+    source: pykakasi
+    status: candidate
+  怪談:
+    slug: kaidan
+    source: pykakasi
+    status: candidate
+  恋:
+    slug: koi
+    source: pykakasi
+    status: candidate
+  恋愛:
+    slug: ren-ai
+    source: pykakasi
+    status: candidate
+  悪い事した子はご奉仕活動:
+    slug: waruikotoshitakohagohoushikatsudou
+    source: pykakasi
+    status: candidate
+  悪霊:
+    slug: akuryou
+    source: pykakasi
+    status: candidate
+  悪魔:
+    slug: akuma
+    source: pykakasi
+    status: candidate
+  悪魔っ娘:
+    slug: akumatsumusume
+    source: pykakasi
+    status: candidate
+  悪魔召喚:
+    slug: akumashoukan
+    source: pykakasi
+    status: candidate
+  愚痴:
+    slug: guchi
+    source: pykakasi
+    status: candidate
+  愛:
+    slug: ai
+    source: pykakasi
+    status: candidate
+  愛を取り戻せ(笑):
+    slug: aiwotorimodose-warai
+    source: pykakasi
+    status: candidate
+  愛妻弁当:
+    slug: aisaibentou
+    source: pykakasi
+    status: candidate
+  成りすまし:
+    slug: narisumashi
+    source: pykakasi
+    status: candidate
+  戦い:
+    slug: tatakai
+    source: pykakasi
+    status: candidate
+  戦争:
+    slug: sensou
+    source: pykakasi
+    status: candidate
+  戦闘:
+    slug: sentou
+    source: pykakasi
+    status: candidate
+  戦隊ショー:
+    slug: sentaishoo
+    source: pykakasi
+    status: candidate
+  戸惑う息子(娘?):
+    slug: tomadoumusuko-musume
+    source: pykakasi
+    status: candidate
+  才能:
+    slug: sainou
+    source: pykakasi
+    status: candidate
+  拉致:
+    slug: rachi
+    source: pykakasi
+    status: candidate
+  拙者っ娘:
+    slug: sesshatsumusume
+    source: pykakasi
+    status: candidate
+  拷問:
+    slug: goumon
+    source: pykakasi
+    status: candidate
+  指輪:
+    slug: yubiwa
+    source: pykakasi
+    status: candidate
+  振袖:
+    slug: furisode
+    source: pykakasi
+    status: candidate
+  探偵:
+    slug: tantei
+    source: pykakasi
+    status: candidate
+  推論:
+    slug: suiron
+    source: pykakasi
+    status: candidate
+  揺れる乙女心?(爆):
+    slug: yureruotomegokoro-baku
+    source: pykakasi
+    status: candidate
+  操り:
+    slug: ayatsuri
+    source: pykakasi
+    status: candidate
+  改造人間:
+    slug: kaizouningen
+    source: pykakasi
+    status: candidate
+  教師:
+    slug: kyoushi
+    source: pykakasi
+    status: candidate
+  新たな展開:
+    slug: aratanatenkai
+    source: pykakasi
+    status: candidate
+  新世紀エヴァンゲリオン:
+    slug: shinseikievangerion
+    source: pykakasi
+    status: candidate
+  新造人間キャシャーン:
+    slug: shinzouningenkyashaan
+    source: pykakasi
+    status: candidate
+  旗印:
+    slug: hatajirushi
+    source: pykakasi
+    status: candidate
+  日本刀:
+    slug: nihontou
+    source: pykakasi
+    status: candidate
+  日本昔話:
+    slug: nihonmukashibanashi
+    source: pykakasi
+    status: candidate
+  日記:
+    slug: nikki
+    source: pykakasi
+    status: candidate
+  旧科学技術庁:
+    slug: kyuukagakugijutsuchou
+    source: pykakasi
+    status: candidate
+  旧約聖書:
+    slug: kyuuyakuseisho
+    source: pykakasi
+    status: candidate
+  早口男:
+    slug: hayakuchiotoko
+    source: pykakasi
+    status: candidate
+  昔話:
+    slug: mukashibanashi
+    source: pykakasi
+    status: candidate
+  昭和20年3月:
+    slug: shouwa20nen3gatsu
+    source: pykakasi
+    status: candidate
+  時事ネタ:
+    slug: jijineta
+    source: pykakasi
+    status: candidate
+  暑い夏:
+    slug: atsuinatsu
+    source: pykakasi
+    status: candidate
+  暗殺者:
+    slug: ansatsumono
+    source: pykakasi
+    status: candidate
+  暗黒街:
+    slug: ankokugai
+    source: pykakasi
+    status: candidate
+  暴走:
+    slug: bousou
+    source: pykakasi
+    status: candidate
+  暴走する従姉弟(爆):
+    slug: bousousurujuushitei-baku
+    source: pykakasi
+    status: candidate
+  書き換えふぁいる:
+    slug: kakikaefairu
+    source: pykakasi
+    status: candidate
+  最終決戦:
+    slug: saishuukessen
+    source: pykakasi
+    status: candidate
+  最終話:
+    slug: saishuuwa
+    source: pykakasi
+    status: candidate
+  月:
+    slug: gatsu
+    source: pykakasi
+    status: candidate
+  月のもの:
+    slug: gatsunomono
+    source: pykakasi
+    status: candidate
+  本人も気づかぬ恋心:
+    slug: honninmokizukanukoigokoro
+    source: pykakasi
+    status: candidate
+  来るべきもの(笑):
+    slug: kurubekimono-warai
+    source: pykakasi
+    status: candidate
+  来訪者:
+    slug: raihousha
+    source: pykakasi
+    status: candidate
+  東映版スパイダーマン:
+    slug: toueibansupaidaaman
+    source: pykakasi
+    status: candidate
+  架空のギャルゲーノベライズ:
+    slug: kakuunogyarugeenoberaizu
+    source: pykakasi
+    status: candidate
+  某2次創作:
+    slug: bou2tsugisousaku
+    source: pykakasi
+    status: candidate
+  某ロボットアニメ二次作品:
+    slug: bourobottoanimenijisakuhin
+    source: pykakasi
+    status: candidate
+  某特撮シリーズ:
+    slug: boutokusatsushiriizu
+    source: pykakasi
+    status: candidate
+  格闘:
+    slug: kakutou
+    source: pykakasi
+    status: candidate
+  格闘少女:
+    slug: kakutoushoujo
+    source: pykakasi
+    status: candidate
+  棄てプリ:
+    slug: sutepuri
+    source: pykakasi
+    status: candidate
+  模型雑誌:
+    slug: mokeizasshi
+    source: pykakasi
+    status: candidate
+  正義:
+    slug: seigi
+    source: pykakasi
+    status: candidate
+  残酷なシーン:
+    slug: zankokunashiin
+    source: pykakasi
+    status: candidate
+  殺人嗜好:
+    slug: satsujinshikou
+    source: pykakasi
+    status: candidate
+  殺人鬼:
+    slug: satsujinki
+    source: pykakasi
+    status: candidate
+  母子愛:
+    slug: boshiai
+    source: pykakasi
+    status: candidate
+  母親:
+    slug: hahaoya
+    source: pykakasi
+    status: candidate
+  気づいたときには......:
+    slug: kizuitatokiniha
+    source: pykakasi
+    status: candidate
+  気になるお店:
+    slug: kininaruomise
+    source: pykakasi
+    status: candidate
+  水戸黄門:
+    slug: mitokoumon
+    source: pykakasi
+    status: candidate
+  水掻き?):
+    slug: mizukaki
+    source: pykakasi
+    status: candidate
+  水泳大会:
+    slug: suieitaikai
+    source: pykakasi
+    status: candidate
+  水着:
+    slug: mizugi
+    source: pykakasi
+    status: candidate
+  水着!:
+    slug: mizugi-2
+    source: pykakasi
+    status: candidate
+  水着エプロン:
+    slug: mizugiepuron
+    source: pykakasi
+    status: candidate
+  水着・露出:
+    slug: mizugi-roshutsu
+    source: pykakasi
+    status: candidate
+  水着撮影:
+    slug: mizugisatsuei
+    source: pykakasi
+    status: candidate
+  汗:
+    slug: ase
+    source: pykakasi
+    status: candidate
+  沖縄体液軍人会:
+    slug: okinawataiekigunjinkai
+    source: pykakasi
+    status: candidate
+  泣きつく:
+    slug: nakitsuku
+    source: pykakasi
+    status: candidate
+  泣けるで:
+    slug: nakerude
+    source: pykakasi
+    status: candidate
+  洗脳:
+    slug: sennou
+    source: pykakasi
+    status: candidate
+  洗脳・操り:
+    slug: sennou-ayatsuri
+    source: pykakasi
+    status: candidate
+  流される主人公(笑):
+    slug: nagasarerushujinkou-warai
+    source: pykakasi
+    status: candidate
+  流石兄弟:
+    slug: sasugakyoudai
+    source: pykakasi
+    status: candidate
+  浴衣:
+    slug: yukata
+    source: pykakasi
+    status: candidate
+  海:
+    slug: umi
+    source: pykakasi
+    status: candidate
+  海上自衛隊:
+    slug: kaijoujieitai
+    source: pykakasi
+    status: candidate
+  海女:
+    slug: ama-2
+    source: pykakasi
+    status: candidate
+  涙:
+    slug: namida
+    source: pykakasi
+    status: candidate
+  混沌:
+    slug: konton
+    source: pykakasi
+    status: candidate
+  温泉:
+    slug: onsen
+    source: pykakasi
+    status: candidate
+  湯の街奇談:
+    slug: yunomachikidan
+    source: pykakasi
+    status: candidate
+  演劇:
+    slug: engeki
+    source: pykakasi
+    status: candidate
+  漫才:
+    slug: manzai
+    source: pykakasi
+    status: candidate
+  漬物:
+    slug: tsukemono
+    source: pykakasi
+    status: candidate
+  熊出没:
+    slug: kumashutsubotsu
+    source: pykakasi
+    status: candidate
+  熱血:
+    slug: nekketsu
+    source: pykakasi
+    status: candidate
+  爆○戦隊ア○レンジャー:
+    slug: baku-sentaia-renjaa
+    source: pykakasi
+    status: candidate
+  爆乳:
+    slug: bakunyuu
+    source: pykakasi
+    status: candidate
+  爺さん:
+    slug: jiisan
+    source: pykakasi
+    status: candidate
+  特大なもの:
+    slug: tokudainamono
+    source: pykakasi
+    status: candidate
+  特撮:
+    slug: tokusatsu
+    source: pykakasi
+    status: candidate
+  特撮パロディ:
+    slug: tokusatsuparodi
+    source: pykakasi
+    status: candidate
+  特撮ヒーロー:
+    slug: tokusatsuhiiroo
+    source: pykakasi
+    status: candidate
+  特殊能力:
+    slug: tokushunouryoku
+    source: pykakasi
+    status: candidate
+  犯罪:
+    slug: hanzai
+    source: pykakasi
+    status: candidate
+  狂言『附子:
+    slug: kyougen-bushi
+    source: pykakasi
+    status: candidate
+  狩人:
+    slug: kariudo
+    source: pykakasi
+    status: candidate
+  狼男:
+    slug: ookamiotoko
+    source: pykakasi
+    status: candidate
+  猫:
+    slug: neko
+    source: pykakasi
+    status: candidate
+  猫剣士:
+    slug: nekokenshi
+    source: pykakasi
+    status: candidate
+  猫耳:
+    slug: nekomimi-2
+    source: pykakasi
+    status: candidate
+  現代:
+    slug: gendai
+    source: pykakasi
+    status: candidate
+  理解ありすぎる家族(笑):
+    slug: rikaiarisugirukazoku-warai
+    source: pykakasi
+    status: candidate
+  理解ありすぎる母と姉:
+    slug: rikaiarisugiruhahatoane
+    source: pykakasi
+    status: candidate
+  理解あり過ぎる姉:
+    slug: rikaiarisugiruane
+    source: pykakasi
+    status: candidate
+  理解ある(今は)男友達:
+    slug: rikaiaru-imaha-otokotomodachi
+    source: pykakasi
+    status: candidate
+  理解ある?仲間:
+    slug: rikaiaru-nakama
+    source: pykakasi
+    status: candidate
+  理解あるというか、一緒に戦う女友達:
+    slug: rikaiarutoiuka-isshonitatakauonnatomodachi
+    source: pykakasi
+    status: candidate
+  理解ある友人:
+    slug: rikaiaruyuujin
+    source: pykakasi
+    status: candidate
+  理解ある友達:
+    slug: rikaiarutomodachi
+    source: pykakasi
+    status: candidate
+  理解ある女友達:
+    slug: rikaiaruonnatomodachi
+    source: pykakasi
+    status: candidate
+  理解ある女友達(逢坂):
+    slug: rikaiaruonnatomodachi-housaka
+    source: pykakasi
+    status: candidate
+  理解ある妹:
+    slug: rikaiaruimouto
+    source: pykakasi
+    status: candidate
+  理解ある妹と友達:
+    slug: rikaiaruimoutototomodachi
+    source: pykakasi
+    status: candidate
+  理解ある姉:
+    slug: rikaiaruane
+    source: pykakasi
+    status: candidate
+  理解ある姉妹:
+    slug: rikaiarushimai
+    source: pykakasi
+    status: candidate
+  理解ある姉妹と友達:
+    slug: rikaiarushimaitotomodachi
+    source: pykakasi
+    status: candidate
+  理解ある姉妹／女友達:
+    slug: rikaiarushimai-onnatomodachi
+    source: pykakasi
+    status: candidate
+  理解ある姉貴分:
+    slug: rikaiaruanekifun
+    source: pykakasi
+    status: candidate
+  理解ある娘:
+    slug: rikaiarumusume
+    source: pykakasi
+    status: candidate
+  理解ある学校の人々:
+    slug: rikaiarugakkounohitobito
+    source: pykakasi
+    status: candidate
+  理解ある家族:
+    slug: rikaiarukazoku
+    source: pykakasi
+    status: candidate
+  理解ある母:
+    slug: rikaiaruhaha
+    source: pykakasi
+    status: candidate
+  理解ある母親:
+    slug: rikaiaruhahaoya
+    source: pykakasi
+    status: candidate
+  理解ある父母:
+    slug: rikaiarufubo
+    source: pykakasi
+    status: candidate
+  理解ある男友達:
+    slug: rikaiaruotokotomodachi
+    source: pykakasi
+    status: candidate
+  理解ない両親:
+    slug: rikainairyoushin
+    source: pykakasi
+    status: candidate
+  生きる屍者:
+    slug: ikirushisha
+    source: pykakasi
+    status: candidate
+  生け贄:
+    slug: ikenie
+    source: pykakasi
+    status: candidate
+  生体CPU:
+    slug: seitaicpu
+    source: pykakasi
+    status: candidate
+  用心棒:
+    slug: youjinbou
+    source: pykakasi
+    status: candidate
+  男性化キャラあり:
+    slug: danseikakyaraari
+    source: pykakasi
+    status: candidate
+  男装:
+    slug: dansou
+    source: pykakasi
+    status: candidate
+  番外編:
+    slug: bangaihen
+    source: pykakasi
+    status: candidate
+  異世界:
+    slug: isekai
+    source: pykakasi
+    status: candidate
+  異国の地:
+    slug: ikokunochi
+    source: pykakasi
+    status: candidate
+  異常気象:
+    slug: ijoukishou
+    source: pykakasi
+    status: candidate
+  異形:
+    slug: igyou
+    source: pykakasi
+    status: candidate
+  異形(エルフ)夢:
+    slug: igyou-erufu-yume
+    source: pykakasi
+    status: candidate
+  異形(ケモノ耳):
+    slug: igyou-kemonomimi
+    source: pykakasi
+    status: candidate
+  異形(ケモノ耳......):
+    slug: igyou-kemonomimi-2
+    source: pykakasi
+    status: candidate
+  異形(ケモノ耳・・・):
+    slug: igyou-kemonomimi-3
+    source: pykakasi
+    status: candidate
+  異形(ネコミミ):
+    slug: igyou-nekomimi
+    source: pykakasi
+    status: candidate
+  異形(妖精):
+    slug: igyou-yousei
+    source: pykakasi
+    status: candidate
+  異形(獣化&ケモノ耳):
+    slug: igyou-kemonoka-kemonomimi
+    source: pykakasi
+    status: candidate
+  異形(翼:
+    slug: igyou-tsubasa
+    source: pykakasi
+    status: candidate
+  異形(翼?):
+    slug: igyou-tsubasa-2
+    source: pykakasi
+    status: candidate
+  異類婚姻譚:
+    slug: iruikon-intan
+    source: pykakasi
+    status: candidate
+  病気:
+    slug: byouki
+    source: pykakasi
+    status: candidate
+  痛さは強さ(笑):
+    slug: itasahatsuyosa-warai
+    source: pykakasi
+    status: candidate
+  痴漢:
+    slug: chikan
+    source: pykakasi
+    status: candidate
+  癒し:
+    slug: iyashi
+    source: pykakasi
+    status: candidate
+  白塁学園高校元祖ロボTRY部(笑):
+    slug: shiroruigakuenkoukougansorobotrybu-warai
+    source: pykakasi
+    status: candidate
+  白雪姫:
+    slug: shirayukihime
+    source: pykakasi
+    status: candidate
+  白鷺日東作品群:
+    slug: shirasaginittousakuhingun
+    source: pykakasi
+    status: candidate
+  百合:
+    slug: yuri
+    source: pykakasi
+    status: candidate
+  百合っ子:
+    slug: yuritsuko
+    source: pykakasi
+    status: candidate
+  百合は......:
+    slug: yuriha
+    source: pykakasi
+    status: candidate
+  看板娘:
+    slug: kanbanmusume
+    source: pykakasi
+    status: candidate
+  看病:
+    slug: kanbyou
+    source: pykakasi
+    status: candidate
+  看護婦さん:
+    slug: kangofusan
+    source: pykakasi
+    status: candidate
+  看護萌え:
+    slug: kangohoue
+    source: pykakasi
+    status: candidate
+  真城華代抹殺計画:
+    slug: makihanayomassatsukeikaku
+    source: pykakasi
+    status: candidate
+  眼鏡:
+    slug: megane-2
+    source: pykakasi
+    status: candidate
+  着せ替え:
+    slug: kisekae
+    source: pykakasi
+    status: candidate
+  着せ替え人形:
+    slug: kisekaeningyou
+    source: pykakasi
+    status: candidate
+  着せ替え少年:
+    slug: kisekaeshounen
+    source: pykakasi
+    status: candidate
+  着替え:
+    slug: kigae
+    source: pykakasi
+    status: candidate
+  矯正(強制?):
+    slug: kyousei-kyousei
+    source: pykakasi
+    status: candidate
+  石版:
+    slug: sekiban
+    source: pykakasi
+    status: candidate
+  研究:
+    slug: kenkyuu
+    source: pykakasi
+    status: candidate
+  破壊神:
+    slug: hakaishin
+    source: pykakasi
+    status: candidate
+  破天荒な女友達:
+    slug: hatenkounaonnatomodachi
+    source: pykakasi
+    status: candidate
+  神:
+    slug: kami
+    source: pykakasi
+    status: candidate
+  神殿:
+    slug: shinden
+    source: pykakasi
+    status: candidate
+  神秘の世界エルハザード:
+    slug: shinpinosekaieruhazaado
+    source: pykakasi
+    status: candidate
+  神話:
+    slug: shinwa
+    source: pykakasi
+    status: candidate
+  科学特別捜査隊:
+    slug: kagakutokubetsusousatai
+    source: pykakasi
+    status: candidate
+  空中元素固定装置:
+    slug: kuuchuugensokoteisouchi
+    source: pykakasi
+    status: candidate
+  突然の来訪者:
+    slug: totsuzennoraihousha
+    source: pykakasi
+    status: candidate
+  立場の逆転:
+    slug: tachibanogyakuten
+    source: pykakasi
+    status: candidate
+  竜っ娘:
+    slug: ryuutsumusume
+    source: pykakasi
+    status: candidate
+  竹取物語:
+    slug: taketorimonogatari
+    source: pykakasi
+    status: candidate
+  笑ゥせぇるすまん:
+    slug: waraiuseerusuman
+    source: pykakasi
+    status: candidate
+  第二次大戦:
+    slug: dainijitaisen
+    source: pykakasi
+    status: candidate
+  第二次大戦の遺品:
+    slug: dainijitaisennoihin
+    source: pykakasi
+    status: candidate
+  筋肉:
+    slug: kinniku
+    source: pykakasi
+    status: candidate
+  策士策に溺れる:
+    slug: sakushisakunioboreru
+    source: pykakasi
+    status: candidate
+  精神操作:
+    slug: seishinsousa
+    source: pykakasi
+    status: candidate
+  精神改変:
+    slug: seishinkaihen
+    source: pykakasi
+    status: candidate
+  精神異性化:
+    slug: seishiniseika
+    source: pykakasi
+    status: candidate
+  約束(笑):
+    slug: yakusoku-warai
+    source: pykakasi
+    status: candidate
+  紙:
+    slug: kami-2
+    source: pykakasi
+    status: candidate
+  素直な気持ち:
+    slug: sunaonakimochi
+    source: pykakasi
+    status: candidate
+  素直クール:
+    slug: sunaokuuru
+    source: pykakasi
+    status: candidate
+  結婚:
+    slug: kekkon
+    source: pykakasi
+    status: candidate
+  絵:
+    slug: e
+    source: pykakasi
+    status: candidate
+  編集者:
+    slug: henshuusha
+    source: pykakasi
+    status: candidate
+  練習機:
+    slug: renshuuki
+    source: pykakasi
+    status: candidate
+  縫いぐるみ:
+    slug: nuigurumi-2
+    source: pykakasi
+    status: candidate
+  美少女戦士:
+    slug: bishoujosenshi
+    source: pykakasi
+    status: candidate
+  美少年:
+    slug: bishounen
+    source: pykakasi
+    status: candidate
+  羞恥:
+    slug: shuuchi
+    source: pykakasi
+    status: candidate
+  羞恥心:
+    slug: shuuchishin
+    source: pykakasi
+    status: candidate
+  義兄妹:
+    slug: aniimouto
+    source: pykakasi
+    status: candidate
+  老紳士:
+    slug: roushinshi
+    source: pykakasi
+    status: candidate
+  肉体変化:
+    slug: nikutaihenka
+    source: pykakasi
+    status: candidate
+  肉体変移:
+    slug: nikutaihen-i
+    source: pykakasi
+    status: candidate
+  育児:
+    slug: ikuji
+    source: pykakasi
+    status: candidate
+  能力者:
+    slug: nouryokumono
+    source: pykakasi
+    status: candidate
+  能天気な両親:
+    slug: noutenkinaryoushin-2
+    source: pykakasi
+    status: candidate
+  能天気な親:
+    slug: noutenkinaoya-2
+    source: pykakasi
+    status: candidate
+  脂肪:
+    slug: shibou
+    source: pykakasi
+    status: candidate
+  脳内妹:
+    slug: nounaiimouto
+    source: pykakasi
+    status: candidate
+  脳天気な両親:
+    slug: noutenkinaryoushin
+    source: pykakasi
+    status: candidate
+  脳天気な父親:
+    slug: noutenkinachichioya
+    source: pykakasi
+    status: candidate
+  脳天気な親:
+    slug: noutenkinaoya
+    source: pykakasi
+    status: candidate
+  脳移植:
+    slug: nouishoku
+    source: pykakasi
+    status: candidate
+  臨床実験:
+    slug: rinshoujikken
+    source: pykakasi
+    status: candidate
+  自分とは:
+    slug: jibuntoha
+    source: pykakasi
+    status: candidate
+  自分萌えというのかこれは:
+    slug: jibunhouetoiunokakoreha
+    source: pykakasi
+    status: candidate
+  自己保身:
+    slug: jikohoshin
+    source: pykakasi
+    status: candidate
+  自転車:
+    slug: jitensha
+    source: pykakasi
+    status: candidate
+  舞い姿:
+    slug: maisugata-2
+    source: pykakasi
+    status: candidate
+  舞台:
+    slug: butai
+    source: pykakasi
+    status: candidate
+  舞姿:
+    slug: maisugata
+    source: pykakasi
+    status: candidate
+  花嫁:
+    slug: hanayome
+    source: pykakasi
+    status: candidate
+  花嫁、:
+    slug: hanayome-2
+    source: pykakasi
+    status: candidate
+  若葉色の怪盗』『ホーリーメイデンズ:
+    slug: wakabaironokaitou-hooriimeidenzu
+    source: pykakasi
+    status: candidate
+  若返り:
+    slug: wakagaeri
+    source: pykakasi
+    status: candidate
+  苦悩:
+    slug: kunou
+    source: pykakasi
+    status: candidate
+  英雄:
+    slug: eiyuu
+    source: pykakasi
+    status: candidate
+  華代ちゃん:
+    slug: hanayochan
+    source: pykakasi
+    status: candidate
+  華代ちゃんシリーズ番外編:
+    slug: hanayochanshiriizubangaihen
+    source: pykakasi
+    status: candidate
+  華代ちゃん番外:
+    slug: hanayochanbangai
+    source: pykakasi
+    status: candidate
+  華代ちゃん番外編:
+    slug: hanayochanbangaihen
+    source: pykakasi
+    status: candidate
+  華代ちゃん番外編(フォスター):
+    slug: hanayochanbangaihen-fosutaa
+    source: pykakasi
+    status: candidate
+  萌え:
+    slug: houe
+    source: pykakasi
+    status: candidate
+  落雷:
+    slug: rakurai
+    source: pykakasi
+    status: candidate
+  薔薇:
+    slug: bara
+    source: pykakasi
+    status: candidate
+  薔薇と百合:
+    slug: baratoyuri
+    source: pykakasi
+    status: candidate
+  薬:
+    slug: kusuri
+    source: pykakasi
+    status: candidate
+  薬剤師:
+    slug: yakuzaishi
+    source: pykakasi
+    status: candidate
+  薬品:
+    slug: yakuhin
+    source: pykakasi
+    status: candidate
+  薬屋”帝枝須”:
+    slug: kusuriya-mikadoedasu
+    source: pykakasi
+    status: candidate
+  虹の瞳:
+    slug: nijinohitomi
+    source: pykakasi
+    status: candidate
+  融合:
+    slug: yuugou
+    source: pykakasi
+    status: candidate
+  衣替え:
+    slug: koromokae
+    source: pykakasi
+    status: candidate
+  裏世界:
+    slug: urasekai
+    source: pykakasi
+    status: candidate
+  西部劇:
+    slug: seibugeki
+    source: pykakasi
+    status: candidate
+  覗き:
+    slug: nozoki
+    source: pykakasi
+    status: candidate
+  親友:
+    slug: shinyuu
+    source: pykakasi
+    status: candidate
+  親友萌え:
+    slug: shinyuuhoue
+    source: pykakasi
+    status: candidate
+  記憶:
+    slug: kioku
+    source: pykakasi
+    status: candidate
+  設定:
+    slug: settei
+    source: pykakasi
+    status: candidate
+  誕生日(笑):
+    slug: tanjoubi-warai
+    source: pykakasi
+    status: candidate
+  語られない物語:
+    slug: katararenaimonogatari
+    source: pykakasi
+    status: candidate
+  調子に乗ったバカ作者:
+    slug: choushinijoutsutabakasakusha
+    source: pykakasi
+    status: candidate
+  諸悪の根源な母親:
+    slug: shoakunokongennahahaoya
+    source: pykakasi
+    status: candidate
+  謎解き:
+    slug: nazotoki
+    source: pykakasi
+    status: candidate
+  警察:
+    slug: keisatsu
+    source: pykakasi
+    status: candidate
+  貞操の危機:
+    slug: teisounokiki
+    source: pykakasi
+    status: candidate
+  貧乳:
+    slug: hinnyuu
+    source: pykakasi
+    status: candidate
+  赤飯:
+    slug: sekihan
+    source: pykakasi
+    status: candidate
+  超乳:
+    slug: chouchichi
+    source: pykakasi
+    status: candidate
+  超兄貴:
+    slug: chouaniki
+    source: pykakasi
+    status: candidate
+  超能力:
+    slug: chounouryoku
+    source: pykakasi
+    status: candidate
+  趣味:
+    slug: shumi
+    source: pykakasi
+    status: candidate
+  距離1000:
+    slug: kyori1000
+    source: pykakasi
+    status: candidate
+  転校:
+    slug: tenkou
+    source: pykakasi
+    status: candidate
+  転校生:
+    slug: tenkousei
+    source: pykakasi
+    status: candidate
+  転生:
+    slug: tenshou
+    source: pykakasi
+    status: candidate
+  輝く太陽のエレメンツ:
+    slug: kagayakutaiyounoerementsu
+    source: pykakasi
+    status: candidate
+  農村:
+    slug: nouson
+    source: pykakasi
+    status: candidate
+  迫り来る危機:
+    slug: semarikurukiki
+    source: pykakasi
+    status: candidate
+  迷惑なお話:
+    slug: meiwakunaohanashi
+    source: pykakasi
+    status: candidate
+  退魔士:
+    slug: taimasamurai
+    source: pykakasi
+    status: candidate
+  逆転:
+    slug: gyakuten
+    source: pykakasi
+    status: candidate
+  通りすがり:
+    slug: tourisugari
+    source: pykakasi
+    status: candidate
+  通り魔:
+    slug: tourima
+    source: pykakasi
+    status: candidate
+  遊園地:
+    slug: yuuenchi
+    source: pykakasi
+    status: candidate
+  運命:
+    slug: unmei
+    source: pykakasi
+    status: candidate
+  運命の出会い:
+    slug: unmeinodeai
+    source: pykakasi
+    status: candidate
+  運命の出会い?(爆):
+    slug: unmeinodeai-baku
+    source: pykakasi
+    status: candidate
+  過去:
+    slug: kako
+    source: pykakasi
+    status: candidate
+  過去の出来事:
+    slug: kakonodekigoto
+    source: pykakasi
+    status: candidate
+  道化師:
+    slug: doukeshi
+    source: pykakasi
+    status: candidate
+  遺伝子:
+    slug: idenshi
+    source: pykakasi
+    status: candidate
+  遺伝子書き換え:
+    slug: idenshikakikae-2
+    source: pykakasi
+    status: candidate
+  遺伝子書換え:
+    slug: idenshikakikae
+    source: pykakasi
+    status: candidate
+  遺跡:
+    slug: iseki
+    source: pykakasi
+    status: candidate
+  部分変化:
+    slug: bubunhenka
+    source: pykakasi
+    status: candidate
+  部分変身:
+    slug: bubunhenshin
+    source: pykakasi
+    status: candidate
+  部活:
+    slug: bukatsu
+    source: pykakasi
+    status: candidate
+  酒:
+    slug: sake
+    source: pykakasi
+    status: candidate
+  酔っぱらい:
+    slug: yopparai
+    source: pykakasi
+    status: candidate
+  酔っ払い:
+    slug: yotsuharai
+    source: pykakasi
+    status: candidate
+  野球:
+    slug: yakyuu
+    source: pykakasi
+    status: candidate
+  野球娘:
+    slug: yakyuumusume
+    source: pykakasi
+    status: candidate
+  金髪碧眼:
+    slug: kinpatsuhekigan
+    source: pykakasi
+    status: candidate
+  鉄道:
+    slug: tetsudou
+    source: pykakasi
+    status: candidate
+  銃:
+    slug: juu
+    source: pykakasi
+    status: candidate
+  銭湯:
+    slug: sentou-2
+    source: pykakasi
+    status: candidate
+  錬金術:
+    slug: renkinjutsu
+    source: pykakasi
+    status: candidate
+  鍼:
+    slug: hari
+    source: pykakasi
+    status: candidate
+  鏡:
+    slug: kagami
+    source: pykakasi
+    status: candidate
+  鏡(キャンプ):
+    slug: kagami-kyanpu
+    source: pykakasi
+    status: candidate
+  鏡(池):
+    slug: kagami-ike
+    source: pykakasi
+    status: candidate
+  鏡の国のアリス:
+    slug: kagaminokuninoarisu
+    source: pykakasi
+    status: candidate
+  阪神:
+    slug: hanshin
+    source: pykakasi
+    status: candidate
+  防空壕:
+    slug: boukuugou
+    source: pykakasi
+    status: candidate
+  陰謀劇:
+    slug: inbougeki
+    source: pykakasi
+    status: candidate
+  陰陽師:
+    slug: inyoushi
+    source: pykakasi
+    status: candidate
+  陰陽術:
+    slug: inyoujutsu
+    source: pykakasi
+    status: candidate
+  階段:
+    slug: kaidan-2
+    source: pykakasi
+    status: candidate
+  集団:
+    slug: shuudan
+    source: pykakasi
+    status: candidate
+  集団性別反転:
+    slug: shuudanseibetsuhanten
+    source: pykakasi
+    status: candidate
+  集団性転換:
+    slug: shuudanseitenkan
+    source: pykakasi
+    status: candidate
+  集団性転換パニック:
+    slug: shuudanseitenkanpanikku
+    source: pykakasi
+    status: candidate
+  雨:
+    slug: ame
+    source: pykakasi
+    status: candidate
+  電波:
+    slug: denpa
+    source: pykakasi
+    status: candidate
+  電話:
+    slug: denwa
+    source: pykakasi
+    status: candidate
+  霊的仮半性陰陽:
+    slug: reitekikarihanseiinyou
+    source: pykakasi
+    status: candidate
+  露出:
+    slug: roshutsu
+    source: pykakasi
+    status: candidate
+  青汁:
+    slug: aojiru
+    source: pykakasi
+    status: candidate
+  面談:
+    slug: mendan
+    source: pykakasi
+    status: candidate
+  頼もしい家族:
+    slug: tanomoshiikazoku
+    source: pykakasi
+    status: candidate
+  願い:
+    slug: negai
+    source: pykakasi
+    status: candidate
+  飛んで火に入る......(爆):
+    slug: tondehiniiru-baku
+    source: pykakasi
+    status: candidate
+  食い逃げ:
+    slug: kuinige
+    source: pykakasi
+    status: candidate
+  食べ放題:
+    slug: tabehoudai
+    source: pykakasi
+    status: candidate
+  飲酒:
+    slug: inshu
+    source: pykakasi
+    status: candidate
+  養護教諭:
+    slug: yougokyouyu
+    source: pykakasi
+    status: candidate
+  馬印:
+    slug: umajirushi
+    source: pykakasi
+    status: candidate
+  騙された気分はどうだい:
+    slug: damasaretakibunhadoudai
+    source: pykakasi
+    status: candidate
+  高速女性人格化:
+    slug: kousokujoseijinkakuka
+    source: pykakasi
+    status: candidate
+  鬼哭街:
+    slug: kikokumachi
+    source: pykakasi
+    status: candidate
+  魁!男塾:
+    slug: kai-otokojuku
+    source: pykakasi
+    status: candidate
+  魂分離:
+    slug: tamashiibunri
+    source: pykakasi
+    status: candidate
+  魔女:
+    slug: majo
+    source: pykakasi
+    status: candidate
+  魔女っ娘:
+    slug: majotsumusume
+    source: pykakasi
+    status: candidate
+  魔導具:
+    slug: madougu
+    source: pykakasi
+    status: candidate
+  魔法:
+    slug: mahou
+    source: pykakasi
+    status: candidate
+  魔法便い:
+    slug: mahoubini
+    source: pykakasi
+    status: candidate
+  魔法少女:
+    slug: mahoushoujo
+    source: pykakasi
+    status: candidate
+  魔法少女(ミストレスシリーズ):
+    slug: mahoushoujo-misutoresushiriizu
+    source: pykakasi
+    status: candidate
+  魔法少女まどか☆マギカ」二次創作作品:
+    slug: mahoushoujomadoka-magika-nijisousakusakuhin
+    source: pykakasi
+    status: candidate
+  魔法少女リリカルなのは:
+    slug: mahoushoujoririkarunanoha
+    source: pykakasi
+    status: candidate
+  魔砲少女:
+    slug: mahoushoujo-2
+    source: pykakasi
+    status: candidate
+  魔術:
+    slug: majutsu
+    source: pykakasi
+    status: candidate
+  魔術師:
+    slug: majutsushi
+    source: pykakasi
+    status: candidate
+  魔道士:
+    slug: madousamurai
+    source: pykakasi
+    status: candidate
+  鶴の恩返し:
+    slug: tsurunoongaeshi
+    source: pykakasi
+    status: candidate
+  黒猫:
+    slug: kuroneko
+    source: pykakasi
+    status: candidate
+  龍騎:
+    slug: ryuuki
+    source: pykakasi
+    status: candidate
+terms_type:
+  (TSは今回無し):
+    slug: tshakonkainashi
+    source: pykakasi
+    status: candidate
+  (今回はTSなし):
+    slug: konkaihatsnashi-2
+    source: pykakasi
+    status: candidate
+  (今回はTS無し):
+    slug: konkaihatsnashi
+    source: pykakasi
+    status: candidate
+  (入れ替わり?):
+    slug: irekawari-2
+    source: pykakasi
+    status: candidate
+  (変身):
+    slug: henshin-2
+    source: pykakasi
+    status: candidate
+  ♂A⇒♀A:
+    slug: a-a-2
+    source: pykakasi
+    status: candidate
+  ♂A⇔♀A:
+    slug: a-a
+    source: pykakasi
+    status: candidate
+  ♂A⇔♀B:
+    slug: a-b
+    source: pykakasi
+    status: candidate
+  ♂B⇔♀A:
+    slug: b-a
+    source: pykakasi
+    status: candidate
+  ♂C⇔♀A:
+    slug: c-a
+    source: pykakasi
+    status: candidate
+  ♂→♀:
+    slug: type-1
+    source: fallback
+    status: candidate
+  ♂のち♀時々♂:
+    slug: nochi-tokidoki
+    source: pykakasi
+    status: candidate
+  いちごちゃん:
+    slug: ichigochan
+    source: pykakasi
+    status: candidate
+  かぶりもの:
+    slug: kaburimono-2
+    source: pykakasi
+    status: candidate
+  かぶり物:
+    slug: kaburimono
+    source: pykakasi
+    status: candidate
+  なし:
+    slug: nashi
+    source: pykakasi
+    status: candidate
+  なし(!?):
+    slug: nashi-2
+    source: pykakasi
+    status: candidate
+  なし(あれ?):
+    slug: nashi-are
+    source: pykakasi
+    status: candidate
+  なし(ハイ?):
+    slug: nashi-hai
+    source: pykakasi
+    status: candidate
+  アイテム:
+    slug: aitemu
+    source: pykakasi
+    status: candidate
+  アイテム(オレンジジュース):
+    slug: aitemu-orenjijuusu
+    source: pykakasi
+    status: candidate
+  アバター(自作キャラクター):
+    slug: abataa-jisakukyarakutaa
+    source: pykakasi
+    status: candidate
+  ウィルス:
+    slug: uirusu
+    source: pykakasi
+    status: candidate
+  コピー:
+    slug: kopii
+    source: pykakasi
+    status: candidate
+  テクノロジ:
+    slug: tekunoroji
+    source: pykakasi
+    status: candidate
+  テクノロジー:
+    slug: tekunorojii
+    source: pykakasi
+    status: candidate
+  テクロノジー:
+    slug: tekuronojii
+    source: pykakasi
+    status: candidate
+  トラップ(!?):
+    slug: torappu
+    source: pykakasi
+    status: candidate
+  ナノテク:
+    slug: nanoteku
+    source: pykakasi
+    status: candidate
+  ナノマシン:
+    slug: nanomashin
+    source: pykakasi
+    status: candidate
+  ハンター:
+    slug: hantaa
+    source: pykakasi
+    status: candidate
+  バイオテクノロジー:
+    slug: baiotekunorojii
+    source: pykakasi
+    status: candidate
+  パラレルワールド:
+    slug: parareruwaarudo
+    source: pykakasi
+    status: candidate
+  ホラー:
+    slug: horaa
+    source: pykakasi
+    status: candidate
+  メイド:
+    slug: meido
+    source: pykakasi
+    status: candidate
+  メカ戦闘:
+    slug: mekasentou
+    source: pykakasi
+    status: candidate
+  メスの子狐+青年=キツネ耳の少女:
+    slug: mesunokogitsune-seinen-kitsunemiminoshoujo
+    source: pykakasi
+    status: candidate
+  メタフィクション:
+    slug: metafikushon
+    source: pykakasi
+    status: candidate
+  ヤオイ:
+    slug: yaoi
+    source: pykakasi
+    status: candidate
+  不可逆:
+    slug: fukagyaku
+    source: pykakasi
+    status: candidate
+  不思議:
+    slug: fushigi
+    source: pykakasi
+    status: candidate
+  不明:
+    slug: fumei
+    source: pykakasi
+    status: candidate
+  不条理:
+    slug: fujouri
+    source: pykakasi
+    status: candidate
+  事故:
+    slug: jiko
+    source: pykakasi
+    status: candidate
+  二次創作「見えない生物バイトン」ラッセル:
+    slug: nijisousaku-mienaiseibutsubaiton-rasseru
+    source: pykakasi
+    status: candidate
+  人体交換:
+    slug: jintaikoukan
+    source: pykakasi
+    status: candidate
+  人格交換:
+    slug: jinkakukoukan
+    source: pykakasi
+    status: candidate
+  人格変貌:
+    slug: jinkakuhenbou
+    source: pykakasi
+    status: candidate
+  人格転移:
+    slug: jinkakuten-i
+    source: pykakasi
+    status: candidate
+  人格転移(終了):
+    slug: jinkakuten-i-shuuryou
+    source: pykakasi
+    status: candidate
+  人格転移かな:
+    slug: jinkakuten-ikana
+    source: pykakasi
+    status: candidate
+  人魚:
+    slug: ningyo
+    source: pykakasi
+    status: candidate
+  今回はTSなし(第二話以降):
+    slug: konkaihatsnashi-dainihanashiikou
+    source: pykakasi
+    status: candidate
+  今回は無し:
+    slug: konkaihanashi
+    source: pykakasi
+    status: candidate
+  仮性半陰陽:
+    slug: kaseihaninyou
+    source: pykakasi
+    status: candidate
+  仮性反陰陽:
+    slug: kaseihaninyou-2
+    source: pykakasi
+    status: candidate
+  仮想現実:
+    slug: kasougenjitsu
+    source: pykakasi
+    status: candidate
+  仮想現実(人格転移):
+    slug: kasougenjitsu-jinkakuten-i
+    source: pykakasi
+    status: candidate
+  似非仮半性陰陽:
+    slug: esekarihanseiinyou
+    source: pykakasi
+    status: candidate
+  体質:
+    slug: taishitsu
+    source: pykakasi
+    status: candidate
+  入れ替わり:
+    slug: irekawari
+    source: pykakasi
+    status: candidate
+  入れ替わり(復帰):
+    slug: irekawari-fukki
+    source: pykakasi
+    status: candidate
+  再転換:
+    slug: saitenkan
+    source: pykakasi
+    status: candidate
+  冥界の川:
+    slug: meikainokawa
+    source: pykakasi
+    status: candidate
+  分裂:
+    slug: bunretsu
+    source: pykakasi
+    status: candidate
+  分類不明:
+    slug: bunruifumei
+    source: pykakasi
+    status: candidate
+  分類不能:
+    slug: bunruifunou
+    source: pykakasi
+    status: candidate
+  医術:
+    slug: ijutsu
+    source: pykakasi
+    status: candidate
+  半陰陽:
+    slug: haninyou
+    source: pykakasi
+    status: candidate
+  原因不明:
+    slug: gen-infumei
+    source: pykakasi
+    status: candidate
+  可変:
+    slug: kahen
+    source: pykakasi
+    status: candidate
+  可逆:
+    slug: kagyaku
+    source: pykakasi
+    status: candidate
+  可逆(未登場):
+    slug: kagyaku-hitsujitoujou
+    source: pykakasi
+    status: candidate
+  合体変身:
+    slug: gattaihenshin
+    source: pykakasi
+    status: candidate
+  呪い:
+    slug: noroi
+    source: pykakasi
+    status: candidate
+  呪術:
+    slug: jujutsu
+    source: pykakasi
+    status: candidate
+  変心:
+    slug: henshin-3
+    source: pykakasi
+    status: candidate
+  変成女子:
+    slug: henseijoshi
+    source: pykakasi
+    status: candidate
+  変異霊媒体質:
+    slug: hen-ireibaitaishitsu
+    source: pykakasi
+    status: candidate
+  変身:
+    slug: henshin
+    source: pykakasi
+    status: candidate
+  変身(だが...):
+    slug: henshin-daga
+    source: pykakasi
+    status: candidate
+  変身(アイゼンが男の子になったため『精神同居』は無し):
+    slug: henshin-aizengaotokonokoninattatame-seishindoukyo-hanashi
+    source: pykakasi
+    status: candidate
+  変身(一応『変身』が2名と『憑依』がいるけど話自体のTS性が薄い......):
+    slug: henshin-ichiou-henshin-ga2meito-hyoui-gairukedohanashijitainotsseigausui
+    source: pykakasi
+    status: candidate
+  変身(丈):
+    slug: henshin-take
+    source: pykakasi
+    status: candidate
+  変身(中途半端):
+    slug: henshin-chuutohanpa
+    source: pykakasi
+    status: candidate
+  変身(今回はなし):
+    slug: henshin-konkaihanashi
+    source: pykakasi
+    status: candidate
+  変身(今日はお休み):
+    slug: henshin-konnichihaoyasumi
+    source: pykakasi
+    status: candidate
+  変身(微妙に):
+    slug: henshin-bimyouni
+    source: pykakasi
+    status: candidate
+  変身(記憶移植):
+    slug: henshin-kiokuishoku
+    source: pykakasi
+    status: candidate
+  変身(転生?):
+    slug: henshin-tenshou
+    source: pykakasi
+    status: candidate
+  変身?(本体の僅かな変形+付加的な有機化合物=地球人の少女):
+    slug: henshin-hontainowazukanahenkei-fukatekinayuukikagoubutsu-chikyuujinnoshoujo
+    source: pykakasi
+    status: candidate
+  変身、憑依、神秘、だと思います。:
+    slug: henshin-hyoui-shinpi-datoomoimasu
+    source: pykakasi
+    status: candidate
+  変身中なので省略:
+    slug: henshinchuunanodeshouryaku
+    source: pykakasi
+    status: candidate
+  夢:
+    slug: yume
+    source: pykakasi
+    status: candidate
+  夢(変身・魔法・可逆?):
+    slug: yume-henshin-mahou-kagyaku
+    source: pykakasi
+    status: candidate
+  女⇔男:
+    slug: onna-otoko
+    source: pykakasi
+    status: candidate
+  女性人格化:
+    slug: joseijinkakuka
+    source: pykakasi
+    status: candidate
+  女性化:
+    slug: joseika
+    source: pykakasi
+    status: candidate
+  女装:
+    slug: josou
+    source: pykakasi
+    status: candidate
+  女装......なのか:
+    slug: josou-nanoka
+    source: pykakasi
+    status: candidate
+  妙な病気:
+    slug: myounabyouki
+    source: pykakasi
+    status: candidate
+  姉妹愛:
+    slug: shimaiai
+    source: pykakasi
+    status: candidate
+  学園:
+    slug: gakuen
+    source: pykakasi
+    status: candidate
+  学園コメディ:
+    slug: gakuenkomedi
+    source: pykakasi
+    status: candidate
+  年齢退行:
+    slug: nenreitaikou
+    source: pykakasi
+    status: candidate
+  強制:
+    slug: kyousei
+    source: pykakasi
+    status: candidate
+  心霊:
+    slug: shinrei
+    source: pykakasi
+    status: candidate
+  忍術:
+    slug: ninjutsu
+    source: pykakasi
+    status: candidate
+  性別変更(男から女):
+    slug: seibetsuhenkou-otokokaraonna
+    source: pykakasi
+    status: candidate
+  性転換:
+    slug: seitenkan
+    source: pykakasi
+    status: candidate
+  性転換手術:
+    slug: seitenkanshujutsu
+    source: pykakasi
+    status: candidate
+  性転換能力:
+    slug: seitenkannouryoku
+    source: pykakasi
+    status: candidate
+  憑依:
+    slug: hyoui
+    source: pykakasi
+    status: candidate
+  戦記:
+    slug: senki
+    source: pykakasi
+    status: candidate
+  手術:
+    slug: shujutsu
+    source: pykakasi
+    status: candidate
+  捕食(丸呑み):
+    slug: hoshoku-marunomi
+    source: pykakasi
+    status: candidate
+  改造:
+    slug: kaizou
+    source: pykakasi
+    status: candidate
+  歴史改竄:
+    slug: rekishikaizan
+    source: pykakasi
+    status: candidate
+  毒:
+    slug: doku
+    source: pykakasi
+    status: candidate
+  特撮パロディ:
+    slug: tokusatsuparodi
+    source: pykakasi
+    status: candidate
+  特異体質:
+    slug: tokuitaishitsu
+    source: pykakasi
+    status: candidate
+  獣:
+    slug: kemono
+    source: pykakasi
+    status: candidate
+  現代:
+    slug: gendai
+    source: pykakasi
+    status: candidate
+  現代医学:
+    slug: gendaiigaku
+    source: pykakasi
+    status: candidate
+  生贄:
+    slug: ikenie
+    source: pykakasi
+    status: candidate
+  男女両性具有:
+    slug: danjoryouseiguyuu
+    source: pykakasi
+    status: candidate
+  異形(ケモノ耳):
+    slug: igyou-kemonomimi
+    source: pykakasi
+    status: candidate
+  病気:
+    slug: byouki
+    source: pykakasi
+    status: candidate
+  発作(笑):
+    slug: hossa-warai
+    source: pykakasi
+    status: candidate
+  皮:
+    slug: kawa
+    source: pykakasi
+    status: candidate
+  神力:
+    slug: shinriki
+    source: pykakasi
+    status: candidate
+  神秘:
+    slug: shinpi
+    source: pykakasi
+    status: candidate
+  神秘(オカルト):
+    slug: shinpi-okaruto
+    source: pykakasi
+    status: candidate
+  神秘(ヤトガミ様):
+    slug: shinpi-yatogamisama
+    source: pykakasi
+    status: candidate
+  精神交換:
+    slug: seishinkoukan
+    source: pykakasi
+    status: candidate
+  精神同居:
+    slug: seishindoukyo
+    source: pykakasi
+    status: candidate
+  精神同居(アイゼン&葉助):
+    slug: seishindoukyo-aizen-hajo
+    source: pykakasi
+    status: candidate
+  脳移植:
+    slug: nouishoku
+    source: pykakasi
+    status: candidate
+  脳移植手術:
+    slug: nouishokushujutsu
+    source: pykakasi
+    status: candidate
+  色々:
+    slug: iroiro
+    source: pykakasi
+    status: candidate
+  華代ちゃん:
+    slug: hanayochan
+    source: pykakasi
+    status: candidate
+  薬品:
+    slug: yakuhin
+    source: pykakasi
+    status: candidate
+  薬品(錠剤):
+    slug: yakuhin-jouzai
+    source: pykakasi
+    status: candidate
+  薬物変化:
+    slug: yakubutsuhenka
+    source: pykakasi
+    status: candidate
+  被り物:
+    slug: koumurimono
+    source: pykakasi
+    status: candidate
+  要するに転校生:
+    slug: yousurunitenkousei
+    source: pykakasi
+    status: candidate
+  親友萌え:
+    slug: shinyuuhoue
+    source: pykakasi
+    status: candidate
+  読んでからのお楽しみ♪:
+    slug: yondekaranootanoshimi
+    source: pykakasi
+    status: candidate
+  超科学:
+    slug: choukagaku
+    source: pykakasi
+    status: candidate
+  超能力:
+    slug: chounouryoku
+    source: pykakasi
+    status: candidate
+  身体交換:
+    slug: shintaikoukan
+    source: pykakasi
+    status: candidate
+  転生:
+    slug: tenshou
+    source: pykakasi
+    status: candidate
+  転生(の予定):
+    slug: tenshou-noyotei
+    source: pykakasi
+    status: candidate
+  進行形で現在は未だ外見のみ:
+    slug: shinkoukeidegenzaihaimadagaikennomi
+    source: pykakasi
+    status: candidate
+  遺伝子:
+    slug: idenshi
+    source: pykakasi
+    status: candidate
+  遺伝子取り込みによる変身:
+    slug: idenshitorikominiyoruhenshin
+    source: pykakasi
+    status: candidate
+  集団性転換:
+    slug: shuudanseitenkan
+    source: pykakasi
+    status: candidate
+  鬼:
+    slug: oni
+    source: pykakasi
+    status: candidate
+  魔力:
+    slug: maryoku
+    source: pykakasi
+    status: candidate
+  魔女:
+    slug: majo
+    source: pykakasi
+    status: candidate
+  魔法:
+    slug: mahou
+    source: pykakasi
+    status: candidate
+  魔法(虚空):
+    slug: mahou-kyokuu
+    source: pykakasi
+    status: candidate
+  魔法or神秘:
+    slug: mahouorshinpi
+    source: pykakasi
+    status: candidate
+  魔法かな:
+    slug: mahoukana
+    source: pykakasi
+    status: candidate
+  魔法少女:
+    slug: mahoushoujo
+    source: pykakasi
+    status: candidate
+terms_world:
+  FMS シリーズ:
+    slug: fms
+    source: share-world
+    status: auto
+  「レンタル・ボディ」シリーズ:
+    slug: rental
+    source: share-world
+    status: auto
+  「切望」シリーズ:
+    slug: setsubou
+    source: share-world
+    status: auto
+  「華代ちゃん」シリーズ:
+    slug: kayo_chan
+    source: share-world
+    status: auto
+  シェアワールド「SugarSweets」:
+    slug: sugar
+    source: share-world
+    status: auto
+  ダーティーエンジェルシリーズ:
+    slug: dirty
+    source: share-world
+    status: auto
+  ハンターシリーズ:
+    slug: hunter
+    source: share-world
+    status: auto
+  ミラーリングシリーズ:
+    slug: mirror_ring
+    source: share-world
+    status: auto
+  リレー小説:
+    slug: relay_novel
+    source: share-world
+    status: auto
+  二代目シリーズ:
+    slug: 2daime
+    source: share-world
+    status: auto
+  仮面ライターディレイド:
+    slug: delayed
+    source: share-world
+    status: auto
+  妖魔夜行 姫神奇譚シリーズ:
+    slug: himekami
+    source: share-world
+    status: auto
+  次元管理人フォスターシリーズ:
+    slug: foster
+    source: share-world
+    status: auto
+  詩の月シリーズ:
+    slug: utanotsuki
+    source: share-world
+    status: auto

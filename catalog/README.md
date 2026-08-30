@@ -10,8 +10,10 @@ WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派�
 |---|---|---|---|
 | `episodes.jsonl` | `scripts/wp/catalog_build.py` | 正規目録 lib1〜73 の 2,887 エントリ + 旧目録 lib01〜09 の差分 97 件 (1 行 1 話) | ✅ タスク 1.1 / 1.2 |
 | `reports/catalog_build.json` | 同上 | 件数・被覆率・自己検査結果の機械可読レポート | ✅ |
-| `terms.json` / `genre_map.yml` / `type_map.yml` | `terms_build.py` | 分類語彙の正規化 | ⏳ タスク 1.3 |
-| `authors.json` / `slug_overrides.yml` | `authors_build.py` | 作者 399 名 | ⏳ タスク 1.4 |
+| `terms.json` | `terms_build.py` | 分類語彙 6 本 (genre 196 / type 165 / keyword 1,028 / world 14 / corpus 4) | ✅ タスク 1.3 |
+| `genre_map.yml` / `type_map.yml` / `keyword_map.yml` / `world_map.yml` | 同上 (初回生成→以後は人手で編集) | 正規化マップと ts_world の判定規則 | ✅ |
+| `slug_overrides.yml` | `terms_build.py` / `authors_build.py` / `work_builder.py` | 恒久 URL slug の確認台帳 (👤 1.5b) | ⏳ 確認待ち |
+| `authors.json` | `authors_build.py` | 作者 399 名 | ⏳ タスク 1.4 |
 | `works.jsonl` / `work_overrides.yml` | `work_builder.py` | Episode → Work クラスタ | ⏳ タスク 1.5 |
 | `convert_report.jsonl` | `body_convert.py` | 本文 MD 変換の無損失証明ログ | ⏳ タスク 1.6 |
 | `QA.md` | Makefile | 全体の QA レポート | ⏳ タスク 1.7 |

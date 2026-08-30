@@ -1,0 +1,92 @@
+# シェアワールド (ts_world) の判定規則。
+# boards = 共有感想板の slug / path_prefixes = 作品ディレクトリ /
+# title_patterns = 題名の正規表現 (板もディレクトリも無い世界の最終手段)。
+# 原資料: share_world.html・share_world.htm・~ts/kansou/bbs@log_.cgi
+worlds:
+  2daime:
+    boards:
+    - 2daime
+    name: 二代目シリーズ
+    path_prefixes: []
+  delayed:
+    boards:
+    - delayed
+    name: 仮面ライターディレイド
+    path_prefixes: []
+  dirty:
+    boards: []
+    name: ダーティーエンジェルシリーズ
+    origin: 水谷秋夫
+    path_prefixes:
+    - novel/dirty/
+  fms:
+    boards: []
+    name: FMS シリーズ
+    origin: 夜夢
+    path_prefixes: []
+    title_patterns:
+    - ^FMS
+    - ^ＦＭＳ
+  foster:
+    boards:
+    - foster
+    name: 次元管理人フォスターシリーズ
+    note: ディレクトリ名は corrector だが中身はフォスター。設計 v1.0 の world 一覧が corrector を別世界として数えていたのは誤り
+    origin: 真城 悠
+    path_prefixes:
+    - novel/corrector/
+  himekami:
+    boards:
+    - himekami
+    name: 妖魔夜行 姫神奇譚シリーズ
+    origin: 亜希みちる
+    path_prefixes: []
+  hunter:
+    boards: []
+    name: ハンターシリーズ
+    note: 華代ちゃんシリーズからのスピンアウト。題名で判定する
+    origin: 真城 悠
+    path_prefixes: []
+    title_patterns:
+    - ^ハンターシリーズ
+  kayo_chan:
+    boards:
+    - kayo_chan
+    name: 「華代ちゃん」シリーズ
+    origin: 真城 悠
+    path_prefixes:
+    - novel/kayo_chan/
+  mirror_ring:
+    boards: []
+    name: ミラーリングシリーズ
+    origin: ことぶきひかる
+    path_prefixes:
+    - novel/mirror_ring/
+  relay_novel:
+    boards:
+    - relay_novel
+    name: リレー小説
+    path_prefixes: []
+  rental:
+    boards: []
+    name: 「レンタル・ボディ」シリーズ
+    origin: ２ｂｉｔ
+    path_prefixes:
+    - novel/rental/
+  setsubou:
+    boards: []
+    name: 「切望」シリーズ
+    origin: KCA
+    path_prefixes:
+    - novel/setsubou/
+  sugar:
+    boards: []
+    name: シェアワールド「SugarSweets」
+    origin: 胡乱太
+    path_prefixes:
+    - novel/sugar/
+  utanotsuki:
+    boards:
+    - utanotsuki
+    name: 詩の月シリーズ
+    path_prefixes: []

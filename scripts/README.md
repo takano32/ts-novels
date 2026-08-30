@@ -81,6 +81,15 @@ python3 scripts/audit_full.py                                 # 検証
   (件数・パース失敗 0・mailto 残存 0・survey 実測値との一致)を自己検査として同梱。
   provenance は git 履歴から算出。`--check` で書き込みなしの検査のみ、`--no-legacy` で本館のみ。
 
+- **wp/slugs.py** — 恒久 URL になるローマ字 slug の候補生成 (pykakasi) と
+  `catalog/slug_overrides.yml` の往復。`status: confirmed` の行は再生成でも上書きしない。
+  機械の読みは幻覚しうる (城弾→shirodan、実際の板 id は johdan) ので候補どまり。
+- **wp/terms_build.py** — 分類語彙を `catalog/terms.json` へ (タスク 1.3)。ジャンル/種別/
+  キーワードを NFKC・「」外し・？除去・同義語マップ (`catalog/*_map.yml`) で正規化し、
+  原表記は raw_variants に保持。ts_world 14 本 (`catalog/world_map.yml` の板/ディレクトリ/
+  題名規則) と ts_corpus 4 本もここで生成。当時の語彙定義ページ (genre.html /
+  type_of_change.html / keyword.html) を term description に転用する。
+
 実装プローブ (本実装の手本):
 
 - **wp/md_convert_probe.py `<N>` [seed]** — 本文 HTML→Markdown 変換の実現性プローブ。ブラウザ等価

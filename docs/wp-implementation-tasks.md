@@ -147,13 +147,31 @@
         (c) lib01–06 には **HTML コメントで隠されたエントリが 12 件**あり、うち全数が
         本館に無いため差分に入っている。運営が意図的に伏せた可能性があるため
         `commented_out: true` で印を付けてあり、**WP へ投入するかは 👤 判断待ち**
-- [ ] 1.3 `scripts/wp/terms_build.py`: `catalog/terms.json` 生成
+- [x] 1.3 `scripts/wp/terms_build.py`: `catalog/terms.json` 生成
       - genre 244→約 30 語・type 187→約 25 語。正規化マップは `catalog/genre_map.yml` /
         `type_map.yml`(NFKC+「？」除去+類義統合)。**頻度表は catalog_build 出力から全語彙を
         自前集計**(survey は top-50 のみ)
       - keywords 約 1,000 語(表記揺れ統合のみ)。旧【属性】17 語は keywords へ
       - **ts_world 13 語**(share_world.html+共有感想板 7 つが元資料)と **ts_corpus 4 語**もここで生成
       - 原表記は必ず `raw_variants` に保持
+      - **1.3 実測 (2026-08-30)**: genre 244→**196 語(中核 30 語で延べの 94.1%)**・
+        type 187→**165 語(中核 30 語で 93.6%)**・keyword 1,083→**1,028 語(中核 74 語)**・
+        **ts_world 14 本**(該当 362 話)・ts_corpus 4 本。正規化は NFKC+「」外し+末尾？除去+
+        `catalog/{genre,type,keyword}_map.yml` の同義語マップ。語彙定義ページ
+        (genre.html 27 語 / type_of_change.html 18 語 / keyword.html 38 語) を description に転用。
+      - **台帳の記述の訂正・補足 3 点**:
+        (a) 「約 30 語 / 約 25 語」は**語彙を 30 語に削る**意味では達成できない
+        (正規化だけでは 196/165 語が残り、長い尾は一回限りの自由記述)。
+        中核語彙 (出現 10 回以上) に `core: true` を立て、残りも term としては保持した。
+        テーマのファセット UI は core だけを出す前提。type の中核は 30 語で「約 25」より多い
+        (b) **ts_world は 13 ではなく 14 本**。設計 v1.0 の一覧にある `corrector` は
+        独立した世界ではなく `novel/corrector/` = フォスターシリーズの置き場
+        (中身は foster01〜20.html)。一方 share_world.html が挙げる
+        **ハンターシリーズ・FMS シリーズ**が一覧から漏れていた。判定規則は
+        `catalog/world_map.yml` (共有感想板 slug / 作品ディレクトリ / 題名正規表現) に外出し
+        (c) 分類語彙の slug も恒久 URL なので、genre/type/keyword/world の全語を
+        `catalog/slug_overrides.yml` の `terms_*` セクションに候補出力した
+        (**確認待ち 1,403 件**。うち大半は keyword)。**1.5b の確認対象に含めるかは 👤 判断**
 - [ ] 1.4 `scripts/wp/authors_build.py`: `catalog/authors.json` 生成
       - slug = 感想板 author_id(目録の `bbs@log_<id>.cgi` リンク。305 slug)。表記揺れ統合 48 組
       - **板なし作者 33 名のローマ字 slug は pykakasi(開発機 pip 導入可)で候補生成し、
