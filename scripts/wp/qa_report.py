@@ -245,6 +245,23 @@ def main(argv=None):
         ]))
         L.append('\n%s\n' % rep['note'])
 
+    qa3 = load(root, 'qa_phase3_check.json')
+    if qa3 and qa3.get('summary'):
+        s = qa3['summary']
+        L.append('## 11. 本番ページの原本併読 QA (タスク 3.3、独立検算)\n')
+        rows = [('標本', '%d 話 (seed %s)' % (s.get('n', 0), s.get('seed', '?')))]
+        for k, v in (s.get('counts') or {}).items():
+            rows.append((k, v))
+        rows.append(('問題率', '%.1f%%' % s.get('problem_rate_pct', 0)))
+        L.append(table(rows))
+        if s.get('markdown_image_leak_total'):
+            L.append('\n画像記法の漏れ %d 話 (payload_build 修正で解消予定 → 解消後は 0 になる):'
+                     % s['markdown_image_leak_total'])
+            for e in s.get('markdown_image_leak_episodes', []):
+                L.append('- `%s`' % e)
+        if s.get('note'):
+            L.append('\n%s\n' % s['note'])
+
     out = os.path.join(root, 'catalog', 'QA.md')
     with open(out, 'w', encoding='utf-8') as fh:
         fh.write('\n'.join(L).rstrip() + '\n')

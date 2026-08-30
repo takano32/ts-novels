@@ -37,6 +37,7 @@ BODIES = ROOT / 'bodies'
 OUT = ROOT / 'payloads'
 
 HEAD_RE = re.compile(r'^(#{1,6}) (.*)$')
+MD_IMG_RE = re.compile(r'!\[([^\]\n]*)\]\(([^)\n]+)\)')  # 画像 1 枚もの 17 話が使う記法
 IMG_ONLY_RE = re.compile(r'^\s*(<img\b[^>]*>)\s*$', re.I)
 IMG_TAG_RE = re.compile(r'<img\b[^>]*>', re.I)
 SRC_RE = re.compile(r'(src\s*=\s*")([^"]*)(")', re.I)
@@ -132,6 +133,10 @@ def table_run_end(lines, i):
 
 
 def md_to_blocks(md, stats):
+    # Markdown 画像記法 → img タグ (QA 3.3 で発見: 画像 1 枚ものエントリが記法のまま漏れていた)
+    md = MD_IMG_RE.sub(
+        lambda m: '<img src="%s" alt="%s">' % (m.group(2).replace('"', '&quot;'),
+                                               m.group(1).replace('"', '&quot;')), md)
     # タグ開始に見えない裸の '<' (例: 文末の「戻る<」) を先に実体化する — 後段の
     # タグ畳み込みが後方の '>' まで本文を巻き込む事故の根絶
     md = re.sub(r'<(?![a-zA-Z/!])', '&lt;', md)
@@ -202,6 +207,7 @@ CMT_RE = re.compile(r'<!--.*?-->', re.S)
 def visible(text, is_md):
     t = CMT_RE.sub('', text)
     if is_md:
+        t = MD_IMG_RE.sub('', t)  # 画像記法はタグに変換されるので md 側でも落とす
         t = re.sub(r'^(#{1,6}) ', '', t, flags=re.M)
         t = re.sub(r'^> ?', '', t, flags=re.M)
     t = re.sub(r'(?i)<br\s*/?>', '\n', t)  # <br> 連結を行構造に戻す (ダッシュ行判定の対称性)

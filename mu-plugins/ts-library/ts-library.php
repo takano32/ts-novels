@@ -26,6 +26,10 @@ final class TS_Library {
         add_filter('render_block_core/heading', [self::class, 'home_heading'], 10, 2);
         add_filter('render_block_core/navigation-link', [self::class, 'drop_placeholder_nav'], 10, 2);
         add_filter('render_block_core/paragraph', [self::class, 'drop_empty_meta_row'], 10, 2);
+        // 原文尊重: 表示時の字面変換をしない (QA 3.3 の指摘。書誌カードで「原本と一致」と
+        // 宣言している以上、`--`→ダーシ・`...`→省略記号・顔文字→絵文字 の変換は矛盾する)
+        add_filter('run_wptexturize', '__return_false');
+        add_filter('option_use_smilies', '__return_false');
         // 旧 URL 基底 (/works/ 等) からの 404 推測リダイレクトはしない (ユーザ裁定 2026-08-30。
         // 正規 URL は catalog が決める — 推測は誤誘導のもと)
         add_filter('do_redirect_guess_404_permalink', '__return_false');
