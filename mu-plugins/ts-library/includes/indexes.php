@@ -7,7 +7,7 @@
 if (!defined('ABSPATH')) { exit; }
 
 add_action('init', function () {
-    add_rewrite_rule('^index/(kana|timeline|bunrui|vocabulary|osusume)/?$',
+    add_rewrite_rule('^index/(kana|timeline|bunrui|vocabulary|osusume|docs)/?$',
         'index.php?ts_index=$matches[1]', 'top');
     add_rewrite_rule('^year/([0-9]{4})/?$', 'index.php?ts_year=$matches[1]', 'top');
 }, 6);
@@ -49,7 +49,8 @@ add_action('pre_get_posts', function ($q) {
 
 add_filter('document_title_parts', function ($parts) {
     $titles = ['kana' => '作者さくいん', 'timeline' => '年表', 'bunrui' => '分類さくいん',
-               'vocabulary' => 'キーワードさくいん', 'osusume' => 'オススメの環'];
+               'vocabulary' => 'キーワードさくいん', 'osusume' => 'オススメの環',
+               'docs' => '運営文書・資料'];
     if ($k = get_query_var('ts_index')) $parts['title'] = $titles[$k] ?? 'さくいん';
     if ($y = get_query_var('ts_year')) $parts['title'] = $y . '年の作品';
     return $parts;
@@ -99,7 +100,9 @@ function ts_bunko_index_timeline() {
             . (int) $r->y . '年</a> <span class="ts-count">' . (int) $r->c . ' 作品</span></li>';
     }
     echo '</ul>';
-    echo '<p class="ts-archive-desc">年は各作品の初出日 (連載は第 1 話) に基づきます。</p>';
+    echo '<p class="ts-archive-desc">年は各作品の初出日 (連載は第 1 話) に基づきます。'
+        . '文庫の始まる前、1999 年の原型サイトの記録は <a href="'
+        . esc_url(home_url('/index/docs/#sec-prehistory')) . '">文庫前史</a> にあります。</p>';
 }
 
 /** 分類さくいん: ジャンル・種別・共有世界の全 term */
@@ -162,6 +165,29 @@ function ts_bunko_index_osusume() {
     }
     echo '</ul>';
     if (!$n) echo '<p>オススメの記録は見つかりませんでした。</p>';
+}
+
+/** 運営文書・資料のさくいん (ts_doc を区分ごとに) */
+function ts_bunko_index_docs() {
+    $docs = get_posts(['post_type' => 'ts_doc', 'post_status' => 'publish',
+                       'posts_per_page' => -1, 'orderby' => 'name', 'order' => 'ASC']);
+    $order = ['gallery' => 'ギャラリー', 'comittee' => '運営委員会', 'columns' => 'コラム',
+              'dialy' => '運営日誌', 'prehistory' => '文庫前史 (1999)', 'notes' => '解題'];
+    $by = [];
+    foreach ($docs as $d) {
+        $s = get_post_meta($d->ID, '_ts_section', true) ?: 'notes';
+        $by[$s][] = $d;
+    }
+    foreach ($order as $sec => $label) {
+        if (empty($by[$sec])) continue;
+        echo '<h2 id="sec-' . esc_attr($sec) . '" class="ts-archive-title">' . esc_html($label) . '</h2>';
+        echo '<ul class="ts-index-list">';
+        foreach ($by[$sec] as $d) {
+            echo '<li><a href="' . esc_url(get_permalink($d)) . '">'
+                . esc_html(get_the_title($d)) . '</a></li>';
+        }
+        echo '</ul>';
+    }
 }
 
 /** 今日の一作 (日付シードの決定的選出。設計 4.4) */

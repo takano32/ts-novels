@@ -57,6 +57,9 @@ if [ -d "$LOCAL_ROOT/payloads" ]; then
 else
   echo "(payloads/ が無い — python3 scripts/wp/payload_build.py で生成してから)"
 fi
+if [ -d "$LOCAL_ROOT/payloads-docs" ]; then
+  rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/payloads-docs/" "$HOST:$REMOTE_BASE/repo/payloads-docs/" | tail -3
+fi
 
 echo "== [3/6] mu-plugins を rsync (ローダ + 本体)"
 rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/mu-plugins/ts-library-loader.php" \
@@ -75,9 +78,9 @@ if [ -f "$LOCAL_ROOT/scripts/wp/assets/robots.txt" ]; then
         "$HOST:$REMOTE_BASE/public_html/robots.txt" | tail -2
 fi
 
-echo "== [5/6] 画像 (git 管理下の novel/ の画像) → assets/annex-img/ (台帳 2.7)"
+echo "== [5/6] 画像 (novel/ + ~yays/gallery/ の画像) → assets/annex-img/ (台帳 2.7/4.7)"
 IMG_LIST=$(mktemp)
-git -C "$LOCAL_ROOT" ls-files novel | grep -Ei '\.(jpe?g|gif|png|bmp)$' > "$IMG_LIST" || true
+git -C "$LOCAL_ROOT" ls-files novel '~yays/gallery' | grep -Ei '\.(jpe?g|gif|png|bmp)$' > "$IMG_LIST" || true
 if [ -s "$IMG_LIST" ]; then
   (( APPLY )) && ssh "$HOST" "mkdir -p $REMOTE_BASE/public_html/assets/annex-img"
   echo "-- $(wc -l < "$IMG_LIST") 点"

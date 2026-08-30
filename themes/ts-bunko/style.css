@@ -162,6 +162,12 @@ html[data-ts-font="gothic"] .ts-reader { font-family: var(--ts-sans); }
 }
 .ts-author-links { font-size: 0.92rem; }
 
+/* ---------- ギャラリー ---------- */
+.ts-gallery-item { border-top: 1px solid var(--ts-line); padding-top: 1rem; margin-top: 2rem; }
+.ts-gallery-artist { color: var(--ts-fg-soft); }
+.ts-gallery-item figure { margin: 1.2em 0; }
+.ts-gallery-item figcaption { color: var(--ts-fg-soft); font-size: 0.85em; }
+
 /* ---------- さくいん ---------- */
 .ts-index-list { list-style: none; padding: 0; line-height: 2; }
 .ts-count { color: var(--ts-fg-soft); font-size: 0.85em; }
