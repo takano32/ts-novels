@@ -190,12 +190,14 @@ function ts_bunko_index_docs() {
     }
 }
 
-/** 今日の一作 (日付シードの決定的選出。設計 4.4) */
+/** いまの一作 (時間シードの決定的選出 — 毎時交替。ユーザ裁定 2026-08-30: 日替わりは遅すぎる。
+ *  同じ 1 時間のあいだは誰が見ても同じ作品 = 「いま読んでる人と同じ一作」の共有性は保つ) */
 function ts_bunko_todays_pick() {
     $ids = get_posts(['post_type' => 'ts_work', 'post_parent' => 0, 'post_status' => 'publish',
                       'posts_per_page' => -1, 'fields' => 'ids', 'orderby' => 'ID', 'order' => 'ASC',
                       'no_found_rows' => true]);
     if (!$ids) return null;
-    $seed = (int) current_time('Ymd');
+    // 連続する時間で近い ID が続かないよう軽く攪拌する
+    $seed = (int) current_time('YmdH') * 2654435761 % 2147483647;
     return get_post($ids[$seed % count($ids)]);
 }

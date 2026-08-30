@@ -4,7 +4,7 @@ get_header();
 
 $pick = function_exists('ts_bunko_todays_pick') ? ts_bunko_todays_pick() : null;
 if ($pick) {
-    echo '<h1 class="ts-archive-title">今日の一作</h1>';
+    echo '<h1 class="ts-archive-title">いまの一作</h1>';
     echo '<ul class="ts-worklist">';
     ts_bunko_workcard($pick);
     echo '</ul>';
