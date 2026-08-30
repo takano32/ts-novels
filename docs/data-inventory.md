@@ -4,7 +4,7 @@
 **設計や手順は書かない** — 設計は [`wordpress-library-design.md`](wordpress-library-design.md)、
 実装の進行は [`wp-implementation-tasks.md`](wp-implementation-tasks.md)、
 復元の経緯は [`../README.md`](../README.md) が正。ここは**現物の台帳**だけを扱う。
-用語(アネックス/整理版/目録/世代/corpus 区分 ほか)は `glossary.md` を参照。
+用語(アネックス/整理版/目録/世代/corpus 区分 ほか)は [`glossary.md`](glossary.md) を参照。
 
 ## 0. 計測の基準
 
@@ -307,7 +307,7 @@ BBS・CGI ページは**クエリつき URL** なので、そのままではフ�
 | (5) | (文書化されていない) | クエリ→ファイル名のマングル実装が **3 本で不一致**: `scripts/audit_full.py:37` は `/` を置換しない / `scripts/place_convert.py:96` は unquote 後に `/` `?` も置換 / `scripts/cdx_recover.py:62` は %エスケープを素の hex のまま残して `/` を置換 | **潜在バグ**。`/` を含むクエリ(`~bbs/cgi-bin/npc@L__~yaji_index.htm_…`)で `audit_full.py` が実在ファイルを未解決と誤判定しうる。リンク監査の「未解決 5,067」に混入している可能性がある |
 | (6) | README「`ts.novels.name/rounge/`… 閉鎖後 **2023 年まで**稼働したラウンジ BBS」 | 収蔵ファイル中の投稿日付は **2015〜2026**。2022 年以降が急増(2022:918 / 2023:443 / 2024:668 / 2025:737 / 2026:698) | README の期間が古い。設計の言う「94% スパム」がこの 2022 年以降の激増分。**回収時点(2026-08)でも板は稼働中**と読むのが自然 |
 | (7) | 設計 v1.0「~yays/library/ は **95.4%** 重複」 | `~yays/library/novel/` 1,466 中 1,399 = **95.4%** | **一致**(確認のみ) |
-| (8) | タスク台帳「アネックス = 全 **17,218** ファイル」/ README「全 17,218 ファイル」 | 現在 **17,761**。うちミラー相当 **17,689** / 非ミラー(`catalog/` `scripts/` `docs/` `takedown/` `reposts/` `.github/`)72〜76 | 数字が古いだけ。ただし現在の `deploy-pages.yml` は**リポジトリ直下をそのまま配信**するので、`catalog/` や `scripts/` も Pages 上に出ている。タスク 5.2 で artifact ビルド方式に変える際に除外対象を決めること |
+| (8) | タスク台帳「アネックス = 全 **17,218** ファイル」/ README「全 17,218 ファイル」 | 現在 **17,761**。うち**ミラー相当 17,689** / 非ミラー(`catalog/` `scripts/` `docs/` `takedown/` `reposts/` `.github/`)が残り。非ミラー側は作業中で日々増える | 数字が古いだけ。ただし現在の `deploy-pages.yml` は**リポジトリ直下をそのまま配信**するので、`catalog/` や `scripts/` も Pages 上に出ている。タスク 5.2 で artifact ビルド方式に変える際に除外対象を決めること |
 
 ---
 

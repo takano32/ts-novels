@@ -5,7 +5,7 @@ WordPress 整理版の本番ホストについて、**実際に ssh して確か
 削除は [`removal-runbook.md`](removal-runbook.md)、実装の進行は
 [`wp-implementation-tasks.md`](wp-implementation-tasks.md) が正。
 リポジトリに何が入っているかは [`data-inventory.md`](data-inventory.md)。
-用語(アネックス/整理版 ほか)は `glossary.md` を参照。
+用語(アネックス/整理版 ほか)は [`glossary.md`](glossary.md) を参照。
 
 ## 0. 計測の基準
 
