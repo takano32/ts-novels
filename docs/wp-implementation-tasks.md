@@ -439,9 +439,9 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 **状況 (2026-08-30 時点): 2.6 を除いて完了。** 2.1〜2.5・2.7 は実測で受け入れ条件を満たし、
 `wp ts verify` は **OK**(投稿 4,363・orphan 0・語彙外 term 0・taxonomy 割当 6 本すべて期待値と一致)、
 `wp ts import` は**実行・dry-run とも created=0 / updated=0 で冪等**。
-本番の `ts_catalog_commit` = `322522a8f0248aea3976cbe23e1b9753e3b4292b`。
-**残るのは 2.6 (.htaccess、親所管) のみ**。既知の軽微バグが 1 件だけある
-(投稿 ID 8038 の slug。2.2 の末尾を参照)。
+本番の `ts_catalog_commit` = `ca583444047f681a0e0b59009b1d54be6fa3d3de`。
+**残るのは 2.6 (.htaccess、親所管) のみで、既知の未解決バグは無い。**
+全 4,363 投稿が ASCII slug(パーセントエンコードの `post_name` 0 件)。
 
 - [x] 2.1 `mu-plugins/ts-library/` v0.1(リポジトリ管理→rsync 配備): CPT `ts_work`(hierarchical,
       rewrite=works)・`ts_doc`・**`ts_dojo`(登録のみ。使用は Phase 6)**・`ts_board_post`(同)・
@@ -518,17 +518,25 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         両方とも正規に解決するので、この不一致も自然に消える)
         → **`322522a8` の `lookup_variants` 導入で予告どおり両方とも解消**
         (`割当 ts_genre` は 4974/4963 の不一致 → **5131/5131 の一致**へ)
-      - **⚠ 2.2 に残る唯一の既知バグ (Fable 所管。実行セッションは未修正)**:
-        **`child_slugs()` はアンカー付きの話で全角→半角の変換が効かない。**
+      - **旧・既知バグ 1 件 (→ `ca583444` で解消済み。経緯として残す)**:
+        `child_slugs()` がアンカー付きの話で全角→半角変換を取りこぼしていた。
         投稿 ID 8038(`novel__story3.html@ＢＢＳ`)の slug が
-        `story3-%ef%bd%82%ef%bd%82%ef%bd%93` のままで、期待の `story3-bbs` にならない
-        (**パーセントエンコードの post_name は 4,363 投稿中この 1 件のみ**)。
+        `story3-%ef%bd%82%ef%bd%82%ef%bd%93` のままで `story3-bbs` にならなかった。
         原因は**処理順**で、`mb_convert_kana($s,'as')` を掛けた**後**に
-        `$s .= '-' . strtolower($ep['source_anchor'])` でアンカーを連結しているため、
-        **アンカー側の全角文字が変換を通らない**(`strtolower` はバイト単位なので
-        全角大文字も落ちない)。サーバの PHP に mbstring はあり、
-        `mb_convert_kana("story3-ｂｂｓ","as")` は `story3-bbs` を返すことを実測で確認済み。
-        直し方はアンカー連結の**後**に変換を掛けること
+        `$s .= '-' . strtolower($ep['source_anchor'])` でアンカーを連結していたため、
+        **アンカー側の全角文字が変換を通らなかった**(`strtolower` はバイト単位なので
+        全角大文字も落ちない)。**修正 = 変換をアンカー連結の後に移動**
+      - **解消の検収 (2026-08-30、コミット `ca583444`)**:
+        `wp ts import` = **created=0 / updated=1 / skipped=5294 / 1 分 48 秒**
+        (変換順が影響するのはこの 1 件だけ、という読みどおり)。
+        `wp ts verify` = **OK 維持**(割当 6 本すべて期待値と一致)。
+        `wp ts import --dry-run` = **created=0 / updated=0 / skipped=5295** で収束を確認。
+        投稿 ID 8038 の `post_name` は **`story3-bbs`**、
+        URL `/novel/yays-awasekagaminokoibitotachi/story3-bbs/` が **200**
+        (旧パーセントエンコード URL は **404**)。
+        **`LOCATE('%', post_name) > 0` の ts_work 投稿は 0 件**、
+        `^[a-z0-9_-]+$` 以外の post_name も **0 件**(全 4,363 投稿が ASCII slug)。
+        `ts_catalog_commit` = **`ca583444047f681a0e0b59009b1d54be6fa3d3de`**
       - **2.2 初回実行時の記録 (2026-08-30。修正前。上記のとおり全て解消済み)**:
         6 サブコマンドは全て登録され動作する(`wp help ts` で確認)。ただし以下が未達:
         - **(A) 冪等性が成立しない** — 受け入れ条件「2 回目 created=0 / updated=0」に対し
