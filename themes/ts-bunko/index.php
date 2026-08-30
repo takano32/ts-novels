@@ -2,16 +2,8 @@
 /** 一覧の汎用テンプレート: トップ (リロード毎ランダム)・書庫・検索結果 */
 get_header();
 
-if (is_tax()) {
-    $term = get_queried_object();
-    echo '<h1 class="ts-archive-title">' . esc_html(single_term_title('', false)) . '</h1>';
-    if ($term && $term->description) {
-        echo '<p class="ts-archive-desc">' . esc_html($term->description) . '</p>';
-    }
-    if ($term && $term->taxonomy === 'ts_author' && function_exists('ts_bunko_author_links')) {
-        ts_bunko_author_links($term);
-    }
-} elseif (is_search()) {
+// 検索を先に判定する — 検索語 + 分類絞込 (ファセット) の複合時に「検索」の文脈を保つ
+if (is_search()) {
     echo '<h1 class="ts-archive-title">検索: ' . esc_html(get_search_query()) . '</h1>';
     get_search_form();
     // ファセット絞込 (タスク 4.5): 公開タクソノミーの query var をそのまま使う
@@ -31,6 +23,15 @@ if (is_tax()) {
                 . esc_html($t->name) . '</a> ';
         }
         echo '</p>';
+    }
+} elseif (is_tax()) {
+    $term = get_queried_object();
+    echo '<h1 class="ts-archive-title">' . esc_html(single_term_title('', false)) . '</h1>';
+    if ($term && $term->description) {
+        echo '<p class="ts-archive-desc">' . esc_html($term->description) . '</p>';
+    }
+    if ($term && $term->taxonomy === 'ts_author' && function_exists('ts_bunko_author_links')) {
+        ts_bunko_author_links($term);
     }
 } elseif (is_home()) {
     echo '<h1 class="ts-archive-title">' . esc_html__('ひらいたところから読む', 'ts-bunko') . '</h1>';

@@ -77,7 +77,8 @@ final class TS_Library {
     /** 書庫 (taxonomy アーカイブ) は作品単位・発表順で。検索は ts の各型を対象に */
     public static function archive_query($q): void {
         if (is_admin() || !$q->is_main_query()) return;
-        if ($q->is_tax(['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world'])) {
+        if (!$q->is_search()
+            && $q->is_tax(['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world'])) {
             $q->set('post_type', 'ts_work');
             $q->set('post_parent', 0);      // 話 (子投稿) でなく作品を並べる
             $q->set('posts_per_page', 60);

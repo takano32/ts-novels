@@ -29,7 +29,8 @@ foreach ([['kana', '作者さくいん', '五十音順の全作者'],
           ['timeline', '年表', '1997〜2021 年を初出順に'],
           ['bunrui', '分類さくいん', 'ジャンル・変身のかたち・共有世界'],
           ['vocabulary', 'キーワードさくいん', '当時の目録の全語彙'],
-          ['osusume', 'オススメの環', '当時の読者のオススメの繋がり']] as [$slug, $label, $desc]) {
+          ['osusume', 'オススメの環', '当時の読者のオススメの繋がり'],
+          ['docs', '運営文書・資料', '運営委員会の記録・コラム・文庫前史・ギャラリー']] as [$slug, $label, $desc]) {
     echo '<li><a href="' . esc_url(home_url("/index/$slug/")) . '">' . esc_html($label)
         . '</a> — ' . esc_html($desc) . '</li>';
 }
