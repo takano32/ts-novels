@@ -46,11 +46,16 @@ else
   echo "(dry-run) ssh $HOST git clone/fetch/checkout $HEAD_LOCAL"
 fi
 
-echo "== [2/6] bodies/ (git 管理外の生成物) を rsync"
+echo "== [2/6] bodies/ と payloads/ (git 管理外の生成物) を rsync"
 if [ -d "$LOCAL_ROOT/bodies" ]; then
   rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/bodies/" "$HOST:$REMOTE_BASE/repo/bodies/" | tail -3
 else
   echo "(bodies/ が無い — python3 scripts/wp/body_convert.py で生成してから)"
+fi
+if [ -d "$LOCAL_ROOT/payloads" ]; then
+  rsync "${RSYNC_FLAGS[@]}" "$LOCAL_ROOT/payloads/" "$HOST:$REMOTE_BASE/repo/payloads/" | tail -3
+else
+  echo "(payloads/ が無い — python3 scripts/wp/payload_build.py で生成してから)"
 fi
 
 echo "== [3/6] mu-plugins を rsync (ローダ + 本体)"

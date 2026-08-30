@@ -33,6 +33,7 @@ class TS_Command {
     private $slug2term = [];    // tax => [slug => term_id] (0 = WP に無い)
     private $ep_worlds = [];    // episode_id => [world slug] (terms.json の episode_worlds)
     private $term_missing = []; // "tax:値" => 件数。解決できず割当を落とした値 (場当たり term は作らない)
+    private $body_status = [];  // episode_id => converted / raw-fallback (payloads/_meta.json)
 
     /** terms.json の語彙を対応表に積む。term は必ず slug→ID で解決する (name 解決は
      *  term_exists() が slug 照合を先にやるため sanitize_title の衝突で誤爆する — 実測 (B)) */
@@ -284,6 +285,9 @@ class TS_Command {
         $dry = isset($assoc['dry-run']);
         $overwrite_manual = isset($assoc['overwrite-manual']);
         $bodies = isset($assoc['bodies']) ? rtrim($assoc['bodies'], '/') : null;
+        if ($bodies !== null && is_file("$bodies/_meta.json")) {
+            $this->body_status = json_decode(file_get_contents("$bodies/_meta.json"), true) ?: [];
+        }
         $limit = isset($assoc['limit']) ? (int) $assoc['limit'] : 0;
         $only_author = $assoc['author'] ?? null;
 
@@ -445,6 +449,10 @@ class TS_Command {
         else { $postarr['post_status'] = 'publish'; $post_id = wp_insert_post($postarr); }
         if (!$post_id || is_wp_error($post_id)) { WP_CLI::warning('episode 投入失敗: ' . $ep['episode_id']); return; }
         update_post_meta($post_id, '_ts_kind', 'episode');
+        if ($body !== null) {
+            update_post_meta($post_id, '_ts_body_status',
+                $this->body_status[$ep['episode_id']] ?? 'placeholder');
+        }
         $this->apply_episode_data($post_id, $ep, $author_slug);
         $this->stamp_import($post_id, $hash);
         $n[$creating ? 'created' : 'updated']++;
@@ -467,6 +475,10 @@ class TS_Command {
         if ($body !== null) $up['post_content'] = $body;
         wp_update_post($up);
         update_post_meta($post_id, '_ts_kind', 'work'); // 単発は work=episode の 1 投稿
+        if ($body !== null) {
+            update_post_meta($post_id, '_ts_body_status',
+                $this->body_status[$ep['episode_id']] ?? 'placeholder');
+        }
         $this->apply_episode_data($post_id, $ep, null); // 作者は upsert_work が付けた分を保つ
         $this->stamp_import($post_id, $hash, '_ts_fill_hash');
         $n['updated']++;
