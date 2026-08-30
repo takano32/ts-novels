@@ -88,7 +88,7 @@
       の **四層+掲示** を文書化
 - [x] 0.3 `docs/publish-runbook.md` v0: catalog 再生成 → rsync → `wp db export`(復旧点)→
       `wp ts import` → verify → 👤 キャッシュクリア依頼、の定常手順(コマンド列)を文書化
-- [ ] 0.4 robots.txt 草案(AI 学習クローラ Disallow・ia_archiver 許可)を `scripts/wp/assets/` に用意
+- [x] 0.4 robots.txt 草案(AI 学習クローラ Disallow・ia_archiver 許可)を `scripts/wp/assets/` に用意
       ※ リポジトリ直下の現 robots.txt は Wayback 誤回収物なので参照しない。配備は 2.3
 - [ ] 👤 0.5 作者連絡台帳の初期化と残り要決定の判断(設計書「要決定事項」の **Q3/Q4/Q5/Q7**。
       Q5〔旧目録の投入範囲〕が未決の間、1.2 は推奨案 (a)=全差分投入 を仮採用して進めてよい)

@@ -81,3 +81,6 @@ python3 scripts/audit_full.py                                 # 検証
   +NFC の完全一致)を実装。本実装 body_convert.py の手本。実測: 800×3 シードで合格 75〜76%。
 - **wp/kansou_parse_probe.py** — ~ts/kansou の MiniBBS スナップショット(log/res)の構造化パース
   プローブ。実測: log 97%・res 100%、log∪res 重複排除で約 3,978 投稿。boards_build.py の手本。
+- **wp/assets/robots.txt** — 本番 novels.xwp.jp 用 robots.txt の草案(AI 学習クローラ全域
+  Disallow・ia_archiver 許可・検索エンジンは**止めない**〔noindex ヘッダを読ませるため〕)。
+  配備は deploy.sh(タスク 2.3)。リポジトリ直下の robots.txt は Wayback 誤回収物なので使わない。
