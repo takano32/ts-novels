@@ -112,6 +112,10 @@
    - **Apache 標準アイコン** … autoindex が参照する `icons/folder.gif`・`image2.gif` は未捕捉だったが、
      実サーバから回収済みの `back.gif`/`blank.gif`/`text.gif` が Apache 公式ストックと md5 完全一致する
      ことを確認したうえで、同一配布物のストックで補完。
+   - **CommonCrawl 全 127 コレクションの完全走査（第4次で完遂）** … 欠落 2,993 URL について、
+     index API を使わず各コレクションの `cluster.idx` を HTTP レンジ二分探索し、該当 cdx
+     ブロックだけをレンジ取得して照会（`scripts/cc_zipnum_sweep.py`）。2008–2026 の全 127
+     コレクションを完走し、**既回収分を超えるヒットはゼロ**。CommonCrawl 経路はこれで枯渇。
    - **CDX 全ダンプ × リポジトリ突き合わせ（第3次）** … 全ホスト系統の Wayback CDX を
      ドメイン／プレフィックス単位で全量ダンプ（8 系統・105,287 行）し、URL→リポジトリ規約名の
      写像で**未収ファイルを機械列挙**。status 200 の最良キャプチャ（HTML は length>700 の最新、
