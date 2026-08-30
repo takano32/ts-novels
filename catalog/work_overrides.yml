@@ -1,0 +1,1445 @@
+# Work クラスタの人手上書き (scripts/wp/work_builder.py が読む)。
+#
+# 鍵は "<作者slug>|<機械が付けた作品名>"。値に書けるもの:
+#   work_title: 正しい作品名   … これを直すと slug の候補も作り直される
+#   note:       メモ
+#
+# 下に並んでいるのは needs_review が立ったクラスタ (根拠が弱い / 複数ディレクトリに
+# 散らばる / 15 話以上) の雛形です。**正しければ何もしなくて構いません**。
+# 進行台帳 docs/wp-implementation-tasks.md の 👤 1.5b がこのファイルの確認タスクです。
+works:
+  7cy|数奇な:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 数奇な
+  7cy|数奇な(...以下略) Episode:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 数奇な(...以下略) Episode
+  'a_mode|RENTAL BODY: 海でRB':
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 'RENTAL BODY: 海でRB'
+  ainishisu|プロフェッサーK 第:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: プロフェッサーK 第
+  akame_redeye|天に願いを:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 天に願いを
+  akame_redeye|天に願いを（１〜３話）:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 天に願いを（１〜３話）
+  aki_michiru|Bees!最終回「TowBeesよ永遠に」:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: Bees!最終回「TowBeesよ永遠に」
+  aki_michiru|夕子と優子:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 夕子と優子
+  aki_michiru|夕子と優子 第:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 夕子と優子 第
+  aki_michiru|姫神奇譚:
+    confirmed: false
+    episodes: 22
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 姫神奇譚
+  aki_michiru|姫神奇譚 外伝:
+    confirmed: false
+    episodes: 10
+    evidence:
+    - filename-stem
+    work_title: 姫神奇譚 外伝
+  aki_michiru|姫神奇譚 第:
+    confirmed: false
+    episodes: 12
+    evidence:
+    - filename-stem
+    work_title: 姫神奇譚 第
+  alm_band|幻戯 〜精神内の終末時計:
+    confirmed: false
+    episodes: 17
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: 幻戯 〜精神内の終末時計
+  amami|変身!?カード:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 変身!?カード
+  amulai|ジーナ!:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ジーナ!
+  amulai|ペット稼業もラクじゃない!?:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ペット稼業もラクじゃない!?
+  anoyoroshi|ハンターストーリーランド＋αその６　「島国の白酒」:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: ハンターストーリーランド＋αその６　「島国の白酒」
+  anoyoroshi|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  aoki_akio|ときめき?:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ときめき?
+  ashikaga|変革:
+    confirmed: false
+    episodes: 29
+    evidence:
+    - filename-stem
+    - series-title-nav
+    work_title: 変革
+  ashikaga|変革＃１「ワケありの女？」:
+    confirmed: false
+    episodes: 29
+    evidence:
+    - filename-stem
+    - series-title-nav
+    work_title: 変革＃１「ワケありの女？」
+  azy|彼と彼女と聖剣と私:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 彼と彼女と聖剣と私
+  baf|納涼ToSi伝説:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 納涼ToSi伝説
+  baretto|ウォーリアー・ガール:
+    confirmed: false
+    episodes: 18
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: ウォーリアー・ガール
+  baretto|デュアルワールド:
+    confirmed: false
+    episodes: 24
+    evidence:
+    - filename-stem
+    - series-title-nav
+    work_title: デュアルワールド
+  baretto|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  chikua|絶対無敵!? 世界征服私隊:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 絶対無敵!? 世界征服私隊
+  choh_ebizushi|TWIN MINDS:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - series-html
+    work_title: TWIN MINDS
+  cluster|次元管理人フォスター・シリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 次元管理人フォスター・シリーズ
+  dainamo|屋根裏部屋の魔法(原題:chris-to-christine:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 屋根裏部屋の魔法(原題:chris-to-christine
+  dekoi|悪魔を呼んでみよう!:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 悪魔を呼んでみよう!
+  dekoi|狩人 - 小さき二人の妖精 -:
+    confirmed: false
+    episodes: 29
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: 狩人 - 小さき二人の妖精 -
+  dendoro|美少女勇者リバガイガー:
+    confirmed: false
+    episodes: 18
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: 美少女勇者リバガイガー
+  dendoro|美少女勇者リバガイガー第１話『美少女勇者誕生！』:
+    confirmed: false
+    episodes: 18
+    evidence:
+    - filename-stem
+    - series-title-nav
+    work_title: 美少女勇者リバガイガー第１話『美少女勇者誕生！』
+  eto|狩人 - 裏 -:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 狩人 - 裏 -
+  flat|DAILY LIFE:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: DAILY LIFE
+  fuu|ハンター:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ハンター
+  h_hokura|精霊戦記シルフィールド:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 精霊戦記シルフィールド
+  haradaseiya|真相真理:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 真相真理
+  haradaseiya|華代ちゃんシリーズ 「屋上」:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ 「屋上」
+  hibiki_asuka|セイント・リラン:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: セイント・リラン
+  hibino|天国か地獄:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 天国か地獄
+  hibino|ＳＮＯＷ　ＢＲＩＧＨＴ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ＳＮＯＷ　ＢＲＩＧＨＴ
+  hiddenseek|君が思う心:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 君が思う心
+  hiroo_syou|なにかが、やってくるかも:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: なにかが、やってくるかも
+  hiroo_syou|少年と儀式:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 少年と儀式
+  hiroo_syou|欄間のひみつ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 欄間のひみつ
+  hiyuki|SYMPHONY of HARDROCK 1.:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: SYMPHONY of HARDROCK 1.
+  horii_sinobu|あかね雲:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - episode-nav
+    - filename-stem
+    - title-prefix
+    work_title: あかね雲
+  horii_sinobu|まほろばの虹:
+    confirmed: false
+    episodes: 32
+    evidence:
+    - series-title-nav
+    - title-prefix
+    work_title: まほろばの虹
+  horii_sinobu|神変 黄金城:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 神変 黄金城
+  horii_sinobu|神変 黄金城 第:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 神変 黄金城 第
+  horii_sinobu|薫とカオリ:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 薫とカオリ
+  hotaru|ヴィスティア (chapter:
+    confirmed: false
+    episodes: 17
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: ヴィスティア (chapter
+  ichirou|RAINY:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - episode-nav
+    - filename-stem
+    - series-html
+    - title-prefix
+    work_title: RAINY
+  izayoi|Switch!:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: Switch!
+  izumi_miki|群衆の中での孤独:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 群衆の中での孤独
+  izumiya|性転怪盗フォーチューン MISSION:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 性転怪盗フォーチューン MISSION
+  izumiya|狂魂:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 狂魂
+  jersey_red|姫神奇譚:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 姫神奇譚
+  jersey_red|姫神奇譚 第:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 姫神奇譚 第
+  johdan|アンテナショップ:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - episode-nav
+    - filename-stem
+    - title-prefix
+    work_title: アンテナショップ
+  johdan|ゴッドファーザー乙女 Lesson:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: ゴッドファーザー乙女 Lesson
+  johdan|仮面ライターディレイド:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 仮面ライターディレイド
+  johdan|仮面ライターディレイド第:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 仮面ライターディレイド第
+  johdan|着せ替え少年:
+    confirmed: false
+    episodes: 16
+    evidence:
+    - filename-stem
+    - series-title-nav
+    work_title: 着せ替え少年
+  johdan|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  johdan|華代ちゃんシリーズ番外編　ハンターシリーズ外伝「ハンターガイスト」:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ番外編　ハンターシリーズ外伝「ハンターガイスト」
+  juurouta|EASY COME EASY GO:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - series-html
+    - title-prefix
+    work_title: EASY COME EASY GO
+  juurouta|小さなヒーロー ガンバロック:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 小さなヒーロー ガンバロック
+  kagerou6|ヒロイン:
+    confirmed: false
+    episodes: 21
+    evidence:
+    - filename-stem
+    - series-title-nav
+    work_title: ヒロイン
+  kamikawa_ayano|本当の自分 第:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 本当の自分 第
+  kamikawa_ayano|特務機動部隊シュガーエンジェルス:
+    confirmed: false
+    episodes: 20
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: 特務機動部隊シュガーエンジェルス
+  kamikawa_ayano|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  kanzakiryou_gedoukai|My pure Clone-Doll<舞台版>:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: My pure Clone-Doll<舞台版>
+  kardy|One-Way:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    - series-html
+    - title-prefix
+    work_title: One-Way
+  kardy|でゅある・まいんど -DUAL MIND:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: でゅある・まいんど -DUAL MIND
+  kardy|みらくるCHANGE☆すてーしょん:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - episode-nav
+    - filename-stem
+    - title-prefix
+    work_title: みらくるCHANGE☆すてーしょん
+  kardy|春樹くんのアンバランスな1440時間:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 春樹くんのアンバランスな1440時間
+  kawanegi|らいか大作戦:
+    confirmed: false
+    episodes: 13
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: らいか大作戦
+  kawanegi|らいか大作戦・:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: らいか大作戦・
+  kawanegi|次元管理人フォスター:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 次元管理人フォスター
+  kazamaturi_rei|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  kca|パラレルＴＳストーリー 「切望」シリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: パラレルＴＳストーリー 「切望」シリーズ
+  kca|聖命樹の大地 1.巫女と傭兵:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 聖命樹の大地 1.巫女と傭兵
+  kebo|りぼんの明日:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - series-html
+    - title-prefix
+    work_title: りぼんの明日
+  kebo|ドリームズ&メモリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: ドリームズ&メモリーズ
+  kebo|人魚の涙:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 人魚の涙
+  kebo|女神仮面ミーミル<:
+    confirmed: false
+    episodes: 34
+    evidence:
+    - filename-stem
+    - series-html
+    - series-title-nav
+    - title-page
+    - title-prefix
+    work_title: 女神仮面ミーミル<
+  kebo|女神仮面ミーミル＜第一話：女神転生＞:
+    confirmed: false
+    episodes: 34
+    evidence:
+    - filename-stem
+    - series-html
+    - series-title-nav
+    - title-page
+    - title-prefix
+    work_title: 女神仮面ミーミル＜第一話：女神転生＞
+  kebo|春の夜の夢の如し:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 春の夜の夢の如し
+  kebo|風の哀歌〜ライト・ライト・ストーリー外伝〜:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 風の哀歌〜ライト・ライト・ストーリー外伝〜
+  kebo|黄色い闇:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - series-html
+    - title-prefix
+    work_title: 黄色い闇
+  king|BADMINTON GIRL:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: BADMINTON GIRL
+  kion_rei|ちぇんじ!:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    work_title: ちぇんじ!
+  kion_rei|ちぇんじ! ~僕の身体が変わるワケ~ 第:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: ちぇんじ! ~僕の身体が変わるワケ~ 第
+  kion_rei|絆:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 絆
+  kirika|フレグラント・:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: フレグラント・
+  kirika|若葉色の怪盗１:
+    confirmed: false
+    episodes: 20
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: 若葉色の怪盗１
+  koro|change:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: change
+  kotobuki_hikaru_ndcss|2人は混線中:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 2人は混線中
+  kotobuki_hikaru_ndcss|あの日の2人はもういない:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: あの日の2人はもういない
+  kotobuki_hikaru_ndcss|ミラーリングシリーズ基礎設定:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ミラーリングシリーズ基礎設定
+  kotobuki_hikaru_ndcss|夏祭りの夜は何か起こりやすい:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 夏祭りの夜は何か起こりやすい
+  kotobuki_hikaru_ndcss|後夜祭には何か起こりやすい:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 後夜祭には何か起こりやすい
+  kotobuki_hikaru_ndcss|美少女も楽じゃない:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 美少女も楽じゃない
+  kotobuki_hikaru_ndcss|美少年も楽じゃない:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 美少年も楽じゃない
+  koukei|姫神奇譚:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 姫神奇譚
+  koukei|姫神奇譚 外伝:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 姫神奇譚 外伝
+  k|シアワセの:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - series-html
+    work_title: シアワセの
+  mahhakame|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  mahsa|天使が持ってきた騒動:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 天使が持ってきた騒動
+  maki_takashi|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  makoto|ハンター:
+    confirmed: false
+    episodes: 11
+    evidence:
+    - filename-stem
+    work_title: ハンター
+  marie|キャリア・デイ　９７:
+    confirmed: false
+    episodes: 10
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: キャリア・デイ　９７
+  marie|ハートのペンダント:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - filename-stem
+    - series-html
+    - title-prefix
+    work_title: ハートのペンダント
+  marie|妖精の湖:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 妖精の湖
+  marie|花の精霊:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 花の精霊
+  mashiro_yuu|いちごちゃんシリーズ:
+    confirmed: false
+    episodes: 17
+    evidence:
+    - filename-stem
+    work_title: いちごちゃんシリーズ
+  mashiro_yuu|晶くん:
+    confirmed: false
+    episodes: 8
+    evidence:
+    - filename-stem
+    work_title: 晶くん
+  mashiro_yuu|次元管理人フォスター：エイジ・オブ・アイス・ウォール:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - filename-stem
+    work_title: 次元管理人フォスター：エイジ・オブ・アイス・ウォール
+  mashiro_yuu|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 24
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  mashiro_yuu|華代ちゃんシリーズ番外編 「追跡者」:
+    confirmed: false
+    episodes: 9
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ番外編 「追跡者」
+  minafumido|姫神奇譚:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 姫神奇譚
+  mitama|真奈の中の慎吾:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 真奈の中の慎吾
+  miyashita_shinobu|リヴァイヴァー:
+    confirmed: false
+    episodes: 7
+    evidence:
+    - episode-nav
+    - title-prefix
+    work_title: リヴァイヴァー
+  mizuki|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 華代ちゃんシリーズ
+  mizuki|華代ちゃんシリーズ「保健:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ「保健
+  mizuki|華代ちゃんシリーズ番外編:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ番外編
+  'mizutani_akio|D.A.:':
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    work_title: 'D.A.:'
+  mizutani_akio|華代ちゃん:
+    confirmed: false
+    episodes: 10
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃん
+  mizutani_akio|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 華代ちゃんシリーズ
+  mizutani_akio|華代ちゃんシリーズ番外編:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ番外編
+  mondo|フェイク☆ガール Fake:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - title-prefix
+    work_title: フェイク☆ガール Fake
+  mondo|仮面ライターディレイド:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 仮面ライターディレイド
+  mondo|仮面ライターディレイド第:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 仮面ライターディレイド第
+  muck|MAGICAL TWINS 第:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: MAGICAL TWINS 第
+  nakata_kyuroban|この素晴らしき世界:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: この素晴らしき世界
+  nanagiri|次元管理人フォスター　ゴッデス・オブ・ザ・サン:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    work_title: 次元管理人フォスター　ゴッデス・オブ・ザ・サン
+  nekono_gundam|D.A.:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: D.A.
+  nekono_gundam|KAI・KEN・GO 巻の:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: KAI・KEN・GO 巻の
+  nekono_gundam|くろす・あこーど episode:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: くろす・あこーど episode
+  nekono_gundam|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  nhk|悪魔少女ニコ 「悲劇の誕生:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 悪魔少女ニコ 「悲劇の誕生
+  nishisatoru|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  norishiro|考えれば分かること・:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 考えれば分かること・
+  olson|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  omochibako|きらいなもの→:
+    confirmed: false
+    episodes: 20
+    evidence:
+    - episode-nav
+    - filename-stem
+    - series-title-nav
+    work_title: きらいなもの→
+  panda5|SMガールズセクサドールJ MEMORY1−:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - title-prefix
+    work_title: SMガールズセクサドールJ MEMORY1−
+  popo|春爛漫・:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 春爛漫・
+  popo|祟り:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 祟り
+  popo|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  raulu|仮面ライダー・フォース:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 仮面ライダー・フォース
+  rurita|メダロットM Episode:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: メダロットM Episode
+  rurita|華代ちゃんシリーズ番外編「こちょうのゆめ」:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ番外編「こちょうのゆめ」
+  ryuhju|NOVEL:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: NOVEL
+  ryuhju|ある絵描きの独白:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ある絵描きの独白
+  ryuhju|加藤家の猫:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 加藤家の猫
+  s_haneoka|yaysの性転換の館・10万ヒット記念CG:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: yaysの性転換の館・10万ヒット記念CG
+  s_haneoka|イラスト:ToHeart/雅史・性転換の図:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: イラスト:ToHeart/雅史・性転換の図
+  's_haneoka|マイ・ピュア・クローンドール: 「えっ?!':
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 'マイ・ピュア・クローンドール: 「えっ?!'
+  sakiemon|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  sakuhin_no115|Angel:
+    confirmed: false
+    episodes: 23
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: Angel
+  salaryman|AZUKI:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - filename-stem
+    work_title: AZUKI
+  sato|カオルの日常 第:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: カオルの日常 第
+  shimakujira|マッドな姉貴:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: マッドな姉貴
+  shining_heaven|二代目はお嬢さま? Yes,She isn’t:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 二代目はお嬢さま? Yes,She isn’t
+  sino|まこと クロスオーバー:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: まこと クロスオーバー
+  sky_high|ヒーロー誕生!?:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: ヒーロー誕生!?
+  sorachikataho|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  'sunasan|RENTAL BODY: 学校 (I)':
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 'RENTAL BODY: 学校 (I)'
+  sussu|グランス・タスファクト:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    work_title: グランス・タスファクト
+  t_h|萌え萌え少女の日常:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 萌え萌え少女の日常
+  tacchan|クロスチェンジ:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: クロスチェンジ
+  taika|夢の続き:
+    confirmed: false
+    episodes: 22
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: 夢の続き
+  takakihiromu|なずなちゃん「新幹線大突撃」:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: なずなちゃん「新幹線大突撃」
+  taku_eichi|パニックinマジカルステッキ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: パニックinマジカルステッキ
+  takurou|東宮の不思議なお仕事:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 東宮の不思議なお仕事
+  tarota|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  tenki|次元管理人フォスター:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 次元管理人フォスター
+  tokumeikibou|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 華代ちゃんシリーズ
+  tokumeikibou|華代ちゃんシリーズ番外編:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ番外編
+  toranosuke|Ambivalenz(アンビヴァレンツ:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: Ambivalenz(アンビヴァレンツ
+  toshi9|仮面ライターディレイド:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 仮面ライターディレイド
+  toshi9|仮面ライターディレイド第:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 仮面ライターディレイド第
+  toshi9|奥義:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 奥義
+  toshi9|戦え!スウィートハニィ:
+    confirmed: false
+    episodes: 24
+    evidence:
+    - episode-nav
+    - filename-stem
+    - series-title-nav
+    work_title: 戦え!スウィートハニィ
+  toshi9|戦え!スウィートハニィII:
+    confirmed: false
+    episodes: 24
+    evidence:
+    - episode-nav
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: 戦え!スウィートハニィII
+  tsukitotaiyou|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  tsukitotaiyou|魔ジックの悪戯:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 魔ジックの悪戯
+  two_bit|RENTAL BODY:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: RENTAL BODY
+  two_bit|少女進行形物語 Miss-ing:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 少女進行形物語 Miss-ing
+  ushitora|明日の見えない僕ら:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 明日の見えない僕ら
+  valion|ギャラクシーエンジェ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ギャラクシーエンジェ
+  wataru1024|カヲルの事情:
+    confirmed: false
+    episodes: 9
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: カヲルの事情
+  wataru1024|危ない二人:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - series-html
+    - title-prefix
+    work_title: 危ない二人
+  west|透明領域:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - episode-nav
+    - filename-stem
+    - title-prefix
+    work_title: 透明領域
+  writerman|変身美少女戦士ミラージュガール:
+    confirmed: false
+    episodes: 10
+    evidence:
+    - filename-stem
+    work_title: 変身美少女戦士ミラージュガール
+  writerman|変身美少女戦士ミラージュガール 番外編:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 変身美少女戦士ミラージュガール 番外編
+  yaji|おにいちゃんと呼ばせて(１):
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: おにいちゃんと呼ばせて(１)
+  yaji|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  yamada|神 -God:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 神 -God
+  yamaguti_oomi|独立南方飛行隊・白百合部隊:
+    confirmed: false
+    episodes: 18
+    evidence:
+    - episode-nav
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: 独立南方飛行隊・白百合部隊
+  yamaguti_oomi|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
+  yamu|ミストレスと奇妙な仲間達〜その:
+    confirmed: false
+    episodes: 39
+    evidence:
+    - episode-nav
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: ミストレスと奇妙な仲間達〜その
+  yays|マイ・ピュア・クローンドール:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: マイ・ピュア・クローンドール
+  yays|勇者王ガ○ガ○ガ○　第？話「消えた長官」:
+    confirmed: false
+    episodes: 6
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 勇者王ガ○ガ○ガ○　第？話「消えた長官」
+  yays|合わせ鏡の恋人たち:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 合わせ鏡の恋人たち
+  yays|機甲戦記グランギア:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 機甲戦記グランギア
+  yggdrasil|Experience:
+    confirmed: false
+    episodes: 19
+    evidence:
+    - filename-stem
+    - series-title-nav
+    work_title: Experience
+  yonezu|いんまなあの子:
+    confirmed: false
+    episodes: 3
+    evidence:
+    - filename-stem
+    work_title: いんまなあの子
+  yoshioka|姫神奇譚:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 姫神奇譚
+  yoshioka|姫神奇譚 外伝十:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 姫神奇譚 外伝十
+  yoshioka|衣替え:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 衣替え
+  yoshioka|ＴＳ戒:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: ＴＳ戒
+  yuasano_miki|リバイバルガール:
+    confirmed: false
+    episodes: 29
+    evidence:
+    - filename-stem
+    - series-title-nav
+    - title-prefix
+    work_title: リバイバルガール
+  yuk|nice assist:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: nice assist
+  yuu|半径365M! 悲喜交々編:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 半径365M! 悲喜交々編
+  zyuka|ハンターストーリーランド+αその:
+    confirmed: false
+    episodes: 5
+    evidence:
+    - filename-stem
+    work_title: ハンターストーリーランド+αその
+  zyuka|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ

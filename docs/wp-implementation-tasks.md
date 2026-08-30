@@ -199,7 +199,7 @@
         `kamikawa_ayano_` の 2 つに、`コーディー` が `jersey_red` と `kohdhi` の 2 つに
         跨がる。同一人物の板が 2 つある可能性が高いが、機械では決められない
         (slug_overrides.yml は slug の確定用で「作者の併合」は表現できない)
-- [ ] 1.5 `scripts/wp/work_builder.py`: Episode → Work クラスタリング → `catalog/works.jsonl`
+- [x] 1.5 `scripts/wp/work_builder.py`: Episode → Work クラスタリング → `catalog/works.jsonl`
       - シード: `series.html` 有効 123 行(コメント除去後)+`share_world.html`+
         **シリーズタイトルページ(novel/ 配下の `*title*.htm*` および投稿ディレクトリ内 index.html 名、
         計約 124+旧世代ツリー内 51)**+推薦文内ナビ 696 リンクの誘導先 URL 集合
@@ -208,6 +208,19 @@
       - work_slug = `{author_slug}-{作品ローマ字}`。**作品ローマ字も pykakasi 候補+
         `slug_overrides.yml` 経由の 👤 確認ゲートを通す**。重複ファイルは正本 1 つ+`alias_paths`
       - 受け入れ: 全 episode がいずれかの work に属す。orphan 0
+      - **1.5 実測 (2026-08-30)**: **Work 1,156 件**(単発 741 / 連載 415)、
+        2,984 episode 全部がどれかに属し **orphan 0**。`needs_review` は **202 件**
+        (台帳の想定 100〜200 とほぼ一致。内訳: 弱い根拠のみ 167 / 15 話以上 21 /
+        複数ディレクトリ 14)。md5 一致の重複ファイル 26 本を `alias_paths` に。
+        タイトルページを持つ work 235 件、series.html の有効行 112。
+      - **台帳の記述の補足 3 点**:
+        (a) 「series.html 有効 123 行」は実測 **112 行**(リンクを持つ行。
+        コメント除去後の `<TR>` は 135 だがヘッダ行と番外編のみの行を含む)
+        (b) 「推薦文内ナビ 696 リンク」は実測 **1,236 リンク・誘導先 114 ページ**
+        (【シリーズタイトルはこちら】1,023 +【華代ちゃんシリーズタイトルはこちら】139 ほか)
+        (c) **Work は 1 作者に閉じる規則を追加した**。共有世界のタイトルページ
+        (novel/kayo_chan/index.html に 139 リンク) は 69 名の話を 1 つに束ねてしまい、
+        「作品」ではなく「世界」になる。シリーズとしての同一性は ts_world が担う
 - [ ] 👤 1.5b work_overrides.yml と slug_overrides.yml の確認・確定。
       **これが済むまで Phase 2.5(全量投入)に進まない**(needs_review 分の恒久 URL が変わるため。
       2.4 のパイロット 100 件は確定済み分のみで先行可)

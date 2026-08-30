@@ -1,0 +1,95 @@
+{
+ "generated_by": "scripts/wp/work_builder.py",
+ "episodes": 2984,
+ "works": 1156,
+ "works_single_episode": 741,
+ "works_multi_episode": 415,
+ "episodes_in_works": 2984,
+ "orphans": [],
+ "needs_review": 202,
+ "needs_review_reasons": {
+  "large-cluster": 21,
+  "weak-evidence": 167,
+  "multi-directory": 14
+ },
+ "evidence_histogram": {
+  "episode-nav,filename-stem,series-title-nav,title-prefix": 9,
+  "filename-stem,series-html,series-title-nav,title-page,title-prefix": 2,
+  "series-title-nav,title-prefix": 3,
+  "filename-stem,series-title-nav,title-prefix": 53,
+  "filename-stem,series-title-nav": 19,
+  "filename-stem": 90,
+  "filename-stem,title-prefix": 50,
+  "episode-nav,filename-stem,series-title-nav": 2,
+  "filename-stem,title-page,title-prefix": 1,
+  "filename-stem,series-title-nav,title-page,title-prefix": 2,
+  "filename-stem,series-html,series-title-nav,title-page": 1,
+  "episode-nav,filename-stem,series-html,title-prefix": 28,
+  "episode-nav,filename-stem": 15,
+  "episode-nav,filename-stem,title-prefix": 72,
+  "episode-nav,title-prefix": 4,
+  "filename-stem,series-html": 11,
+  "filename-stem,series-html,title-prefix": 8,
+  "episode-nav,filename-stem,series-html": 4,
+  "filename-stem,series-html,series-title-nav,title-prefix": 1,
+  "series-html": 3,
+  "series-html,title-prefix": 4,
+  "title-prefix": 27,
+  "episode-nav,series-html,title-prefix": 3,
+  "series-title-nav": 2,
+  "episode-nav": 1,
+  "single": 741
+ },
+ "series_html_rows": 112,
+ "series_html_rows_with_links": 112,
+ "title_pages_on_disk": 168,
+ "works_with_title_page": 235,
+ "alias_paths_total": 26,
+ "largest_works": [
+  [
+   "yamu-misutoresutokimyounanakamatachi-sono",
+   39
+  ],
+  [
+   "kebo-megamikamenmiimiru",
+   34
+  ],
+  [
+   "horii_sinobu-mahorobanoniji",
+   32
+  ],
+  [
+   "yuasano_miki-ribaibarugaaru",
+   29
+  ],
+  [
+   "dekoi-kariudo-chiisakifutarinoyousei",
+   29
+  ],
+  [
+   "ashikaga-henkaku",
+   29
+  ],
+  [
+   "toshi9-tatakae-suuiitohaniiii",
+   24
+  ],
+  [
+   "baretto-deyuaruwaarudo",
+   24
+  ],
+  [
+   "mashiro_yuu-hanayochanshiriizu",
+   24
+  ],
+  [
+   "kamikawa_ayano-tokumukidoubutaishugaaenjierusu",
+   23
+  ]
+ ],
+ "slug_sources": {
+  "pykakasi": 1066,
+  "ascii": 90
+ },
+ "slug_pending_review": 1066
+}

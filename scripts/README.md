@@ -94,6 +94,12 @@ python3 scripts/audit_full.py                                 # 検証
   同定の鍵にし、共有シリーズ板 (華代ちゃん等 11 板) は作者板ではないので表示名で同定する。
   yomi は lib-index-*.html の所属行から。板を持たない作者の slug は pykakasi 候補どまり。
 
+- **wp/work_builder.py** — Episode → Work クラスタリング (タスク 1.5)。6 段の根拠
+  (シリーズタイトルナビ / series.html / タイトルページ / 話ナビ / ファイル名連番 / 題名接頭辞)
+  を強い順に積み、どれで繋がったかを works.jsonl の evidence に残す。**Work は必ず 1 作者に
+  閉じる** (共有世界のタイトルページは 69 名の話を 1 つに束ねてしまうため)。
+  弱い根拠だけのクラスタは needs_review を立て `catalog/work_overrides.yml` に雛形を出す。
+
 実装プローブ (本実装の手本):
 
 - **wp/md_convert_probe.py `<N>` [seed]** — 本文 HTML→Markdown 変換の実現性プローブ。ブラウザ等価
