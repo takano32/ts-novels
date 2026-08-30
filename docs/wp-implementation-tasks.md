@@ -425,10 +425,28 @@
 - [ ] 8.2 年 2 回: lychee でリンクフルクロール(WP+Pages 両方)
 - [ ] 8.3 再構築演習: **初回は Phase 3 完了直後**、以後年 1 回 — 素の環境から
       `make catalog` → deploy → import で同一サイトが再現できることを確認し、手順書の腐敗を検出
-- [ ] 8.4 **holding 分の検証と収録** (第 4 次サルベージの続き)。`~/ts-novels-holding/` に
-      検証待ちの回収物がある — きりか進ノ介さんの wiki 発掘 6 点・ライターマン「天女の末裔」・
-      ヴァルキュリア外伝 2 点・城弾シアター版「仮面ライターディレイド」4/5 など。
-      検証(同定・重複判定・出所確定)は 👤 が再開する。済んだものから catalog に足して再インポート
+- [x] 8.4 **holding 分の検証と収録** (第 4 次サルベージの続き) — **2026-08-30 完了**。
+      `~/ts-novels-holding/stage_repost` の 13 点を全部同定した。結果:
+      - **収録 3 点** → `reposts/repost__bcwiki__{ama,saidai_no_higaisha,bangai3ts}.*`。
+        出所は**きりか進ノ介さんの現行サイト `bc-cafe.net/bcwiki.old/`**
+        (ページ「トレイル/虹色のかけら」の孤立添付。md5・登録日時つきで
+        `reposts/repost__bcwiki__provenance.json` に記録)。3 点とも**文庫未掲載**なので
+        きらいなもの→ＧＷ と同じ `corpus=extern-repost` 相当の扱いになる。
+        `saidai_no_higaisha` は作者自身が性描写を注記しているので年齢表示の要否を要判断
+      - **重複 8 点は不収録** — ゴールデンロード 0A/0B と wiki 3 頁は
+        `kirika.novels.name/wiki` に、ヴァルキュリア外伝 1/2 は
+        `novel/200210/28213920/valkyrie_ex{1,2}.htm` に、ディレイド 4/5 は
+        `novel/201009/16215412/delayed0{4,5}.htm` に既収蔵で本文一致
+      - **同定の訂正 2 件**: ①`あま.txt` は欠落作品「二代目は海女」
+        (`novel/201004/02215640/ama.htm`) **ではない**(本文に海女もセバスチャンも無く、
+        添付の登録が 2008-09 で掲載日 2010-05 に先行)。②「天女の末裔」は欠落
+        `novel/200011/15112734/nouryo_title.html`(BAF「納涼ＴｏＳｉ伝説」)と**無関係**で、
+        文庫版は `novel/200707/14133526/tennyo.htm` に既収蔵。holding のものは
+        作者サイトの改訂版(本文が別テキスト)なので不収録
+      - 派生: 上記の出所調査から `bc-cafe.net/bcwiki.old/` の**全 297 ファイルを新規収蔵**
+        (未収蔵作品「ホーリーメイデンズ外伝『復活の依代』」ほか。§data-inventory §2 参照)。
+        **catalog への反映は未了** — `repost_build.py` の `ITEMS` に 3 点を足し、
+        `bc-cafe.net/` の作品ページを uncatalogued として拾うかを決める必要がある
 - [ ] 削除対応は removal-runbook.md に従い 72h SLA
 
 ## 完了の定義(公開時点)
