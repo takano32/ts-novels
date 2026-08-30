@@ -575,6 +575,34 @@ class TS_Command {
             if ($actual[$tax] !== $expect[$tax]) { $ok = false; WP_CLI::warning("$tax の割当数不一致"); }
         }
 
+        // 4b) 書誌カード用メタの被覆 (タスク 3.4): catalog の非空数 = DB の meta 行数
+        $meta_expect = ['_ts_pub_date_raw' => 'date_raw', '_ts_orig_url' => 'orig_url',
+                        '_ts_annex_url' => 'annex_url', '_ts_provenance' => 'provenance'];
+        $cnt = array_fill_keys(array_keys($meta_expect), 0);
+        foreach ($episodes as $ep) {
+            foreach ($meta_expect as $mk => $f) {
+                $v = $ep[$f] ?? null;
+                if ($v !== null && $v !== '' && $v !== []) $cnt[$mk]++;
+            }
+        }
+        foreach ($meta_expect as $mk => $f) {
+            $actual = (int) $wpdb->get_var($wpdb->prepare(
+                "SELECT COUNT(*) FROM {$wpdb->postmeta} pm
+                 JOIN {$wpdb->posts} p ON p.ID = pm.post_id
+                 WHERE pm.meta_key = %s AND p.post_type = 'ts_work' AND p.post_status <> 'trash'",
+                $mk));
+            WP_CLI::line(sprintf('メタ %s: WP=%d 期待=%d', $mk, $actual, $cnt[$mk]));
+            if ($actual !== $cnt[$mk]) { $ok = false; WP_CLI::warning("$mk の被覆不一致"); }
+        }
+        $rows = $wpdb->get_results(
+            "SELECT pm.meta_value v, COUNT(*) c FROM {$wpdb->postmeta} pm
+             JOIN {$wpdb->posts} p ON p.ID = pm.post_id
+             WHERE pm.meta_key = '_ts_body_status' AND p.post_type = 'ts_work'
+               AND p.post_status <> 'trash' GROUP BY pm.meta_value ORDER BY c DESC");
+        $dist = [];
+        foreach ($rows as $r) $dist[] = "{$r->v} {$r->c}";
+        WP_CLI::line('本文 status: ' . ($dist ? implode(' / ', $dist) : '(未投入)'));
+
         // 5) import が解決できず落とした値 / 手動編集 skip
         $missing_vals = get_option('ts_term_warnings', []);
         if ($missing_vals) {
