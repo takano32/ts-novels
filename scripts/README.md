@@ -100,6 +100,14 @@ python3 scripts/audit_full.py                                 # 検証
   閉じる** (共有世界のタイトルページは 69 名の話を 1 つに束ねてしまうため)。
   弱い根拠だけのクラスタは needs_review を立て `catalog/work_overrides.yml` に雛形を出す。
 
+- **wp/uncatalogued_build.py** — 目録に載っていない収蔵物を拾う (タスク 1.8、設計 v1.4)。
+  `novel/` 配下の本文 3,818 のうち既収蔵でない分を `corpus=uncatalogued` で追加。メタは
+  lib-index-*.html → 本文の「作：」行 → `<title>` → 同ディレクトリの作者、の順に解決し
+  `metadata_source` に記録。落としたものは理由つきで `catalog/uncatalogued_excluded.jsonl` に。
+- **wp/repost_build.py** — 作者本人の再掲から回収した本文を catalog に入れる (タスク 1.9)。
+  検証済みの pixiv 2 件のみ (雨女 = 既存エントリに本文と来歴を追加 / きらいなもの→ＧＷ =
+  文庫未掲載として `corpus=extern-repost` で新規収録)。本文は `reposts/*.txt`。
+
 実装プローブ (本実装の手本):
 
 - **wp/md_convert_probe.py `<N>` [seed]** — 本文 HTML→Markdown 変換の実現性プローブ。ブラウザ等価

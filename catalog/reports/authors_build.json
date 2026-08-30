@@ -1,13 +1,13 @@
 {
  "generated_by": "scripts/wp/authors_build.py",
- "episodes": 2984,
- "authors": 333,
+ "episodes": 3844,
+ "authors": 342,
  "authors_with_board": 294,
- "authors_without_board": 39,
- "display_name_strings_distinct": 413,
- "display_variant_groups": 53,
- "display_variants_merged": 82,
- "display_variant_slots": 415,
+ "authors_without_board": 48,
+ "display_name_strings_distinct": 428,
+ "display_variant_groups": 57,
+ "display_variants_merged": 88,
+ "display_variant_slots": 430,
  "display_names_shared_by_authors": 2,
  "display_names_shared_detail": [
   [
@@ -49,13 +49,10 @@
    ]
   ],
   [
-   "kotobuki_hikaru_ndcss",
+   "horii_sinobu",
    [
-    "ことぶきひかる",
-    "ことぶきひかる＆ＮＤＣセキュリティサービス",
-    "ことぶきひかる & NDCセキュリティサービス",
-    "ことぶきひかる&NDCセキュリティサービス",
-    "紫　寿　輝　峯"
+    "堀井　忍",
+    "堀井 忍"
    ]
   ],
   [
@@ -63,6 +60,16 @@
    [
     "大原野山城守武里",
     "池田中務少輔輝里"
+   ]
+  ],
+  [
+   "kotobuki_hikaru_ndcss",
+   [
+    "ことぶきひかる",
+    "ことぶきひかる＆ＮＤＣセキュリティサービス",
+    "ことぶきひかる & NDCセキュリティサービス",
+    "ことぶきひかる&NDCセキュリティサービス",
+    "紫　寿　輝　峯"
    ]
   ],
   [
@@ -82,18 +89,18 @@
    ]
   ],
   [
+   "miyashita_shinobu",
+   [
+    "宮下しのぶ",
+    "ＭＩＥＹＡ（宮下しのぶ　改め）"
+   ]
+  ],
+  [
    "dekoi",
    [
     "DEKOI",
     "作：Datta　原案：DEKOI",
     "DEKOI＆Datta"
-   ]
-  ],
-  [
-   "yggdrasil",
-   [
-    "ゆぐどらしる",
-    "神姫・緋威羅"
    ]
   ],
   [
@@ -104,11 +111,42 @@
    ]
   ],
   [
+   "wataru1024",
+   [
+    "WATARU1024",
+    "ＷＡＴＡＲＵ1024"
+   ]
+  ],
+  [
+   "yggdrasil",
+   [
+    "ゆぐどらしる",
+    "神姫・緋威羅"
+   ]
+  ],
+  [
    "manachan",
    [
     "NATO",
     "ＮＡＴＯ",
     "ＮＡＴＯ（旧・まなちゃん）"
+   ]
+  ],
+  [
+   "two_bit",
+   [
+    "ＴＷＯ−ＢＩＴ",
+    "TWO-BIT",
+    "２bit（冬眠中）",
+    "２bit（休眠中）",
+    "ＴＷＯ－ＢＩＴ"
+   ]
+  ],
+  [
+   "jersey_red",
+   [
+    "ジャージレッド",
+    "コーディー"
    ]
   ],
   [
@@ -136,51 +174,11 @@
    ]
   ],
   [
-   "jersey_red",
-   [
-    "ジャージレッド",
-    "コーディー"
-   ]
-  ],
-  [
    "yosswih",
    [
     "よっすぃー",
     "吉井重治",
     "よっすぃー（吉井重治　改め）"
-   ]
-  ],
-  [
-   "nhk",
-   [
-    "ＮＨＫ",
-    "NHK",
-    "fun9"
-   ]
-  ],
-  [
-   "dendoro",
-   [
-    "デンドロビウム",
-    "でんどろ"
-   ]
-  ],
-  [
-   "kardy",
-   [
-    "Kardy",
-    "六浄院　光刻",
-    "Ｋａｒｄｙ",
-    "Ｋ−ＫＡＤＤ",
-    "六浄院光刻",
-    "六浄院 光刻"
-   ]
-  ],
-  [
-   "yays",
-   [
-    "八重洲二世",
-    "作・不詳／訳・八重洲二世"
    ]
   ]
  ],
@@ -199,10 +197,47 @@
   "utanotsuki"
  ],
  "episodes_unresolved_author": [],
- "episodes_notice_no_author": [
-  "novel__kayo_chan__title02.html"
+ "episodes_no_author_by_design": [
+  "novel__kayo_chan__title02.html",
+  "novel__200101__milfia__milfia-index.html",
+  "novel__200101__milfia__milfia1.html",
+  "novel__200101__milfia__milfia2.html",
+  "novel__200101__milfia__milfia3.html",
+  "novel__200112__20210702__dictionary.htm",
+  "novel__200112__20210702__dictionary02.htm",
+  "novel__200112__20210702__event01.htm",
+  "novel__200112__20210702__event02_1.htm",
+  "novel__200112__20210702__event02_2.htm",
+  "novel__200112__20210702__event02_3.htm",
+  "novel__200112__20210702__event02_4.htm",
+  "novel__200112__20210702__event02_5.htm",
+  "novel__200112__20210702__event03.htm",
+  "novel__200112__20210702__headline.htm",
+  "novel__200112__20210702__iroha.htm",
+  "novel__200112__20210702__maker.htm",
+  "novel__200112__20210702__oh_giri.htm",
+  "novel__200112__20210702__tsheart.htm",
+  "novel__200112__20210702__tsheart01.htm",
+  "novel__200112__20210702__tsheart02_0.htm",
+  "novel__200112__20210702__tsheart02_4a.htm",
+  "novel__200112__20210702__tsheart03.htm",
+  "novel__200202__14235027__project03.htm",
+  "novel__200204__30012101__grandfather01.html",
+  "novel__200211__08013548__megami01.html",
+  "novel__200211__08013548__megami02.html",
+  "novel__200703__12213133__headline.htm",
+  "novel__200703__12213133__tsheart2.htm",
+  "novel__keeping1.html",
+  "novel__novel__200112__20210702__dictionary.htm",
+  "novel__novel__kayo_chan__kayo_chan51.html",
+  "novel__rb3.html",
+  "novel__rental2-1.html",
+  "novel__triangle_equation1.html",
+  "novel__triangle_equation2.html",
+  "novel__triangle_equation3.html"
  ],
- "episodes_assigned": 2983,
+ "episodes_no_author_by_design_count": 37,
+ "episodes_assigned": 3807,
  "ambiguous_name_to_board": [
   {
    "author": "神川綾乃",
@@ -240,25 +275,25 @@
  "ambiguous_name_to_board_count": 4,
  "yomi_resolved": 312,
  "homepage_present": 116,
- "index_rows_parsed": 2906,
- "index_authors_distinct": 473,
+ "index_rows_parsed": 3779,
+ "index_authors_distinct": 382,
  "slug_sources": {
   "kansou-board": 294,
-  "pykakasi": 30,
+  "pykakasi": 39,
   "ascii": 8,
   "fallback": 1
  },
- "slug_pending_review": 31,
+ "slug_pending_review": 40,
  "selftest": [
   {
    "name": "作者数の内訳が合う (延べ表示名 − 統合分 == 作者数)",
    "ok": true,
-   "detail": "415 - 82 == 333"
+   "detail": "430 - 88 == 342"
   },
   {
    "name": "作者数を記録 (台帳の ≈399 は表示名の異なり数であり人数ではない)",
    "ok": true,
-   "detail": "実測 333 名 / 表示名 413 種 / 複数作者が使う表示名 2 種"
+   "detail": "実測 342 名 / 表示名 428 種 / 複数作者が使う表示名 2 種"
   },
   {
    "name": "全 episode の author が解決 (未解決 0)",
@@ -266,9 +301,9 @@
    "detail": "未解決 0 件 []"
   },
   {
-   "name": "episode の割り当て漏れ 0 (entry_role=notice を除く)",
+   "name": "episode の割り当て漏れ 0 (作者不詳の告知/目録外を除く)",
    "ok": true,
-   "detail": "2983 + notice 1 / 2984"
+   "detail": "3807 + 作者不詳 37 / 3844"
   },
   {
    "name": "slug の重複 0",

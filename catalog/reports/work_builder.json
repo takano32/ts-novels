@@ -1,66 +1,81 @@
 {
  "generated_by": "scripts/wp/work_builder.py",
- "episodes": 2984,
- "works": 1156,
- "works_single_episode": 741,
- "works_multi_episode": 415,
- "episodes_in_works": 2984,
+ "episodes": 3844,
+ "works": 1463,
+ "works_single_episode": 946,
+ "works_multi_episode": 517,
+ "episodes_in_works": 3844,
  "orphans": [],
- "needs_review": 202,
+ "needs_review": 328,
  "needs_review_reasons": {
-  "large-cluster": 21,
-  "weak-evidence": 167,
-  "multi-directory": 14
+  "multi-directory": 37,
+  "large-cluster": 22,
+  "weak-evidence": 269
  },
  "evidence_histogram": {
-  "episode-nav,filename-stem,series-title-nav,title-prefix": 9,
+  "filename-stem,series-title-nav,title-prefix": 45,
+  "filename-stem,series-title-nav,title-page,title-prefix": 17,
+  "filename-stem,title-prefix": 84,
+  "episode-nav,filename-stem,series-title-nav,title-prefix": 8,
   "filename-stem,series-html,series-title-nav,title-page,title-prefix": 2,
   "series-title-nav,title-prefix": 3,
-  "filename-stem,series-title-nav,title-prefix": 53,
-  "filename-stem,series-title-nav": 19,
-  "filename-stem": 90,
-  "filename-stem,title-prefix": 50,
-  "episode-nav,filename-stem,series-title-nav": 2,
+  "filename-stem,series-title-nav": 9,
+  "filename-stem,series-title-nav,title-page": 3,
+  "episode-nav,filename-stem,series-title-nav,title-page": 1,
   "filename-stem,title-page,title-prefix": 1,
-  "filename-stem,series-title-nav,title-page,title-prefix": 2,
+  "episode-nav,filename-stem,series-html,title-prefix": 29,
+  "filename-stem": 98,
+  "episode-nav,filename-stem,series-title-nav,title-page,title-prefix": 1,
+  "episode-nav,title-prefix": 4,
   "filename-stem,series-html,series-title-nav,title-page": 1,
-  "episode-nav,filename-stem,series-html,title-prefix": 28,
   "episode-nav,filename-stem": 15,
   "episode-nav,filename-stem,title-prefix": 72,
-  "episode-nav,title-prefix": 4,
-  "filename-stem,series-html": 11,
-  "filename-stem,series-html,title-prefix": 8,
-  "episode-nav,filename-stem,series-html": 4,
-  "filename-stem,series-html,series-title-nav,title-prefix": 1,
-  "series-html": 3,
+  "filename-stem,series-html,title-prefix": 10,
+  "title-prefix": 87,
+  "filename-stem,series-html": 9,
   "series-html,title-prefix": 4,
-  "title-prefix": 27,
+  "filename-stem,series-html,series-title-nav,title-prefix": 1,
+  "episode-nav,filename-stem,series-title-nav": 1,
+  "series-html": 3,
   "episode-nav,series-html,title-prefix": 3,
+  "episode-nav,filename-stem,series-html": 3,
   "series-title-nav": 2,
   "episode-nav": 1,
-  "single": 741
+  "single": 946
  },
  "series_html_rows": 112,
  "series_html_rows_with_links": 112,
  "title_pages_on_disk": 168,
- "works_with_title_page": 235,
- "alias_paths_total": 26,
+ "works_with_title_page": 234,
+ "alias_paths_total": 55,
  "largest_works": [
+  [
+   "johdan-senotomeseera",
+   69
+  ],
+  [
+   "taika-boy-s-emotion",
+   58
+  ],
+  [
+   "mashiro_yuu-hanayochanshiriizusettei",
+   43
+  ],
   [
    "yamu-misutoresutokimyounanakamatachi-sono",
    39
   ],
   [
    "kebo-megamikamenmiimiru",
-   34
+   35
   ],
   [
    "horii_sinobu-mahorobanoniji",
-   32
+   33
   ],
   [
    "yuasano_miki-ribaibarugaaru",
-   29
+   30
   ],
   [
    "dekoi-kariudo-chiisakifutarinoyousei",
@@ -71,25 +86,13 @@
    29
   ],
   [
-   "toshi9-tatakae-suuiitohaniiii",
-   24
-  ],
-  [
-   "baretto-deyuaruwaarudo",
-   24
-  ],
-  [
-   "mashiro_yuu-hanayochanshiriizu",
-   24
-  ],
-  [
-   "kamikawa_ayano-tokumukidoubutaishugaaenjierusu",
-   23
+   "aki_michiru-himegamikitan",
+   28
   ]
  ],
  "slug_sources": {
-  "pykakasi": 1066,
-  "ascii": 90
+  "pykakasi": 1308,
+  "ascii": 155
  },
- "slug_pending_review": 1066
+ "slug_pending_review": 1308
 }

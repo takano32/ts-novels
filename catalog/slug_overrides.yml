@@ -238,6 +238,10 @@ authors:
     slug: you-2
     source: ascii
     status: auto
+  you’:
+    slug: you-3
+    source: pykakasi
+    status: candidate
   yuk:
     slug: yuk
     source: kansou-board
@@ -314,6 +318,10 @@ authors:
     slug: kotobuki_hikaru_ndcss
     source: kansou-board
     status: auto
+  この市場:
+    slug: konoshijou
+    source: pykakasi
+    status: candidate
   ごく普通のサラリーマン:
     slug: salaryman
     source: kansou-board
@@ -402,6 +410,10 @@ authors:
     slug: yuasano_miki
     source: kansou-board
     status: auto
+  ゆあさのみき 画：もぐたん様:
+    slug: yuasanomiki-ga-mogutansama
+    source: pykakasi
+    status: candidate
   ゆうぼう:
     slug: yuubou
     source: kansou-board
@@ -686,6 +698,10 @@ authors:
     slug: aizu_rika
     source: kansou-board
     status: auto
+  佐藤由衣:
+    slug: satouyui
+    source: pykakasi
+    status: candidate
   佐藤香子:
     slug: satoh_kouko
     source: kansou-board
@@ -794,6 +810,10 @@ authors:
     slug: shining_heaven
     source: kansou-board
     status: auto
+  天爛／絵：ムクゲさん（:
+    slug: tenran-e-mukugesan
+    source: pykakasi
+    status: candidate
   太九郎:
     slug: takurou
     source: kansou-board
@@ -914,6 +934,10 @@ authors:
     slug: rurita
     source: kansou-board
     status: auto
+  海津里花:
+    slug: kaizurika
+    source: pykakasi
+    status: candidate
   深草あゆみ:
     slug: fukakusa_ayumi
     source: kansou-board
@@ -966,7 +990,7 @@ authors:
     slug: sai
     source: kansou-board
     status: auto
-  神崎亮と外道会:
+  神崎亮:
     slug: kanzakiryou_gedoukai
     source: kansou-board
     status: auto
@@ -990,6 +1014,10 @@ authors:
     slug: yonezu
     source: kansou-board
     status: auto
+  米津 画：みっしんぐ:
+    slug: yonetsu-ga-misshingu
+    source: pykakasi
+    status: candidate
   紀由元駄話沙:
     slug: kiyumoto
     source: kansou-board
@@ -1186,6 +1214,10 @@ authors:
     slug: ryuhju
     source: kansou-board
     status: auto
+  龍酒 原案：超！海老寿司:
+    slug: ryuusake-gen-an-chou-ebisushi
+    source: pykakasi
+    status: candidate
   ４２７:
     slug: '427'
     source: kansou-board
@@ -1202,10 +1234,18 @@ authors:
     slug: yuuma
     source: kansou-board
     status: auto
+  ＡＺＹ:
+    slug: azy
+    source: kansou-board
+    status: auto
   ＢＡＣＫＢＯＮＥ:
     slug: backbone
     source: kansou-board
     status: auto
+  ＨＩＫＯ（原作：城弾さん）:
+    slug: hiko-gensaku-shirodansan
+    source: pykakasi
+    status: candidate
   Ｋ:
     slug: k
     source: kansou-board
@@ -1300,10 +1340,6 @@ authors:
     status: auto
   Ｙ.Ｏ.:
     slug: y_o
-    source: kansou-board
-    status: auto
-  ＹＺＡ:
-    slug: azy
     source: kansou-board
     status: auto
   Ｚｙｕｋａ:
@@ -2240,6 +2276,10 @@ terms_keyword:
     slug: snp
     source: ascii
     status: auto
+  SS:
+    slug: ss
+    source: ascii
+    status: auto
   T's☆Heart:
     slug: t-s-heart
     source: pykakasi
@@ -2248,6 +2288,10 @@ terms_keyword:
     slug: t-s-heart1st
     source: pykakasi
     status: candidate
+  TSF:
+    slug: tsf
+    source: ascii
+    status: auto
   TS熱:
     slug: tsnetsu
     source: pykakasi
@@ -2764,6 +2808,10 @@ terms_keyword:
     slug: omunibasu
     source: pykakasi
     status: candidate
+  オリジナル:
+    slug: orijinaru
+    source: pykakasi
+    status: candidate
   オレっ娘:
     slug: oretsumusume
     source: pykakasi
@@ -3150,6 +3198,10 @@ terms_keyword:
     status: candidate
   ダーティーエンジェル:
     slug: daateiienjieru
+    source: pykakasi
+    status: candidate
+  チェス:
+    slug: chesu
     source: pykakasi
     status: candidate
   チャイナ:
@@ -7003,10 +7055,6 @@ works:
     slug: 7cy-sudouyuukishiriizuno4-kakukakuganichiyou
     source: pykakasi
     status: candidate
-  None|華代ちゃんシリーズINDEX Vol.2:
-    slug: None-hanayochanshiriizuindex-vol-2
-    source: pykakasi
-    status: candidate
   'a_mode|RENTAL BODY: 海でRB':
     slug: a_mode-rental-body-umiderb
     source: pykakasi
@@ -7085,6 +7133,10 @@ works:
     status: candidate
   aki_michiru|夕子と優子:
     slug: aki_michiru-yuukotoyuuko
+    source: pykakasi
+    status: candidate
+  aki_michiru|妖魔夜行シリーズ姫神奇譚設定:
+    slug: aki_michiru-youmayakoushiriizuhimegamikitansettei
     source: pykakasi
     status: candidate
   aki_michiru|姫神Special phase-1「混濁」:
@@ -7219,8 +7271,8 @@ works:
     slug: aoki_akio-asahihamatanoboru
     source: pykakasi
     status: candidate
-  aoki_akio|ときめき?:
-    slug: aoki_akio-tokimeki
+  aoki_akio|ときめき? 今夜!?:
+    slug: aoki_akio-tokimeki-konya
     source: pykakasi
     status: candidate
   aozubon|レミ:
@@ -7273,6 +7325,14 @@ works:
     status: candidate
   azy|紅の装甲竜騎兵・:
     slug: azy-kurenainosoukouryuukihei
+    source: pykakasi
+    status: candidate
+  azy|紅の装甲竜騎兵・あとがき:
+    slug: azy-kurenainosoukouryuukihei-atogaki
+    source: pykakasi
+    status: candidate
+  azy|適材適所:
+    slug: azy-tekizaitekisho
     source: pykakasi
     status: candidate
   backbone|ＦＵＬＬ　ＭＯＯＮ　ＮＩＧＨＴ:
@@ -7507,6 +7567,10 @@ works:
     slug: dekoi-kariudo-chiisakifutarinoyousei
     source: pykakasi
     status: candidate
+  dekoi|狩人 VS 華代ちゃん:
+    slug: dekoi-kariudo-vs-hanayochan
+    source: pykakasi
+    status: candidate
   dekoi|華代ちゃんシリーズ番外編「華代ちゃん被害にあう」:
     slug: dekoi-hanayochanshiriizubangaihen-hanayochanhigainiau
     source: pykakasi
@@ -7515,7 +7579,7 @@ works:
     slug: dendoro-bishoujoyuusharibagaigaa
     source: pykakasi
     status: candidate
-  dendoro|華代ちゃんシリーズ「恋愛ＳＬＧ」:
+  dendoro|華代ちゃんシリーズ「恋愛SLG:
     slug: dendoro-hanayochanshiriizu-ren-aislg
     source: pykakasi
     status: candidate
@@ -7555,6 +7619,14 @@ works:
     slug: flat-daily-life
     source: ascii
     status: auto
+  flat|DAILY LIFE~the past days・前編:
+    slug: flat-daily-life-the-past-days-zenpen
+    source: pykakasi
+    status: candidate
+  flat|daily-life:
+    slug: flat-daily-life-2
+    source: ascii
+    status: auto
   flat|坂道:
     slug: flat-sakamichi
     source: pykakasi
@@ -7583,6 +7655,10 @@ works:
     slug: gaikotsu-gatsunomichi
     source: pykakasi
     status: candidate
+  garyosei|god_life01:
+    slug: garyosei-god-life01
+    source: ascii
+    status: auto
   garyosei|おんなにナッツ　１:
     slug: garyosei-onnaninattsu-1
     source: pykakasi
@@ -7611,8 +7687,8 @@ works:
     slug: gensaku-two-bit-natsudaichiban-rbmatsuri
     source: pykakasi
     status: candidate
-  goldarm|出雲大社の事件簿＃３:
-    slug: goldarm-izumotaishanojikenbo-3
+  goldarm|出雲大社#1:
+    slug: goldarm-izumotaisha-1
     source: pykakasi
     status: candidate
   goldarm|魔剣物語　〜レディ・ガーディアン〜:
@@ -7739,8 +7815,12 @@ works:
     slug: hide109-kawatoiumeinoarubaito
     source: pykakasi
     status: candidate
-  hideo|紅い初雪:
-    slug: hideo-akaihatsuyuki
+  hideo|錦繍の夢:
+    slug: hideo-kinshuunoyume
+    source: pykakasi
+    status: candidate
+  hiko-gensaku-shirodansan|同居人〜if〜:
+    slug: hiko-gensaku-shirodansan-doukyonin-if
     source: pykakasi
     status: candidate
   hiko|P.F.キャリアー:
@@ -7791,12 +7871,12 @@ works:
     slug: hiroo_syou-himitsunokakaoairando
     source: pykakasi
     status: candidate
-  hiyuki|SYMPHONY of HARDROCK 1.:
-    slug: hiyuki-symphony-of-hardrock-1
+  hiyuki|SYMPHONY of HARDROCK:
+    slug: hiyuki-symphony-of-hardrock
     source: ascii
     status: auto
-  hiyuki|SYMPHONY of HARDROCK2:
-    slug: hiyuki-symphony-of-hardrock2
+  hiyuki|SYMPHONY of HARDROCK 1.:
+    slug: hiyuki-symphony-of-hardrock-1
     source: ascii
     status: auto
   hori_sachiko|Good Bye My Friend:
@@ -7823,6 +7903,10 @@ works:
     slug: horii_sinobu-yumenohenshin
     source: pykakasi
     status: candidate
+  horii_sinobu|物語のタイトル(長いタイトルは省略形で):
+    slug: horii_sinobu-monogatarinotaitoru-nagaitaitoruhashouryakukeide
+    source: pykakasi
+    status: candidate
   horii_sinobu|神変 黄金城:
     slug: horii_sinobu-shinpen-ougonshiro
     source: pykakasi
@@ -7839,20 +7923,132 @@ works:
     slug: hosoboso-back-to-the-twelve
     source: ascii
     status: auto
+  hotaru|7号館:
+    slug: hotaru-7goukan
+    source: pykakasi
+    status: candidate
+  hotaru|FMS:pattern N:
+    slug: hotaru-fms-pattern-n
+    source: ascii
+    status: auto
+  hotaru|Maid of Fire Another Ending:
+    slug: hotaru-maid-of-fire-another-ending
+    source: ascii
+    status: auto
+  hotaru|Maid of Fire Vol3:
+    slug: hotaru-maid-of-fire-vol3
+    source: ascii
+    status: auto
+  hotaru|Maid of Fire番外 ありすの休日:
+    slug: hotaru-maid-of-firebangai-arisunokyuujitsu
+    source: pykakasi
+    status: candidate
+  hotaru|dress_up_boy03:
+    slug: hotaru-dress-up-boy03
+    source: ascii
+    status: auto
+  hotaru|link:
+    slug: hotaru-link
+    source: ascii
+    status: auto
+  hotaru|maid_of_fire04a:
+    slug: hotaru-maid-of-fire04a
+    source: ascii
+    status: auto
+  hotaru|ハンターガイスト:
+    slug: hotaru-hantaagaisuto
+    source: pykakasi
+    status: candidate
+  hotaru|ハンターシリーズ外伝:
+    slug: hotaru-hantaashiriizugaiden
+    source: pykakasi
+    status: candidate
+  hotaru|ベッタベタ:
+    slug: hotaru-bettabeta
+    source: pykakasi
+    status: candidate
   hotaru|リンクの妖精:
     slug: hotaru-rinkunoyousei
+    source: pykakasi
+    status: candidate
+  hotaru|ヴィスティア:
+    slug: hotaru-visuteia
     source: pykakasi
     status: candidate
   hotaru|ヴィスティア (chapter:
     slug: hotaru-visuteia-chapter
     source: pykakasi
     status: candidate
+  hotaru|五号館:
+    slug: hotaru-gogoukan
+    source: pykakasi
+    status: candidate
   hotaru|仮面ライターディレイド:
     slug: hotaru-kamenraitaadireido
     source: pykakasi
     status: candidate
+  hotaru|八号館:
+    slug: hotaru-hachigoukan
+    source: pykakasi
+    status: candidate
   hotaru|劇場版『ヴィスティア　旅する乙女のハプニングタイム！』:
     slug: hotaru-gekijouban-visuteia-tabisuruotomenohapuningutaimu
+    source: pykakasi
+    status: candidate
+  hotaru|向け寄贈作品集:
+    slug: hotaru-mukekizousakuhinshuu
+    source: pykakasi
+    status: candidate
+  hotaru|城弾シアター2号館:
+    slug: hotaru-shirodanshiataa2goukan
+    source: pykakasi
+    status: candidate
+  hotaru|年末オフ:
+    slug: hotaru-nenmatsuofu
+    source: pykakasi
+    status: candidate
+  hotaru|湯の街:
+    slug: hotaru-yunomachi
+    source: pykakasi
+    status: candidate
+  hotaru|着せ替え少年 Dress up Boy6.5〜こみっくパーティー〜:
+    slug: hotaru-kisekaeshounen-dress-up-boy6-5-komikkupaateii
+    source: pykakasi
+    status: candidate
+  hotaru|着せ替え少年 お年賀スペシャル:
+    slug: hotaru-kisekaeshounen-onengasupesharu
+    source: pykakasi
+    status: candidate
+  hotaru|着せ替え少年2:
+    slug: hotaru-kisekaeshounen2
+    source: pykakasi
+    status: candidate
+  hotaru|着せ替え少年4 ときめきメモリアル:
+    slug: hotaru-kisekaeshounen4-tokimekimemoriaru
+    source: pykakasi
+    status: candidate
+  hotaru|着せ替え少年5 プリンセスクエスト:
+    slug: hotaru-kisekaeshounen5-purinsesukuesuto
+    source: pykakasi
+    status: candidate
+  hotaru|着せ替え少年6 北へ:
+    slug: hotaru-kisekaeshounen6-kitahe
+    source: pykakasi
+    status: candidate
+  hotaru|着せ替え少年6.5 〜こみっくパーティ〜:
+    slug: hotaru-kisekaeshounen6-5-komikkupaatei
+    source: pykakasi
+    status: candidate
+  hotaru|着せ替え少年〜サービスエンディング〜:
+    slug: hotaru-kisekaeshounen-saabisuendingu
+    source: pykakasi
+    status: candidate
+  hotaru|第14話『センチメンタルジャーニー』Part3:
+    slug: hotaru-dai14hanashi-senchimentarujaanii-part3
+    source: pykakasi
+    status: candidate
+  hotaru|華代ちゃんシリーズ「老人と少女」:
+    slug: hotaru-hanayochanshiriizu-roujintoshoujo
     source: pykakasi
     status: candidate
   humming_sord|聖天化巫女ハート:
@@ -7931,8 +8127,28 @@ works:
     slug: izumi_miki-gunshuunonakadenokodoku
     source: pykakasi
     status: candidate
+  izumiya|SOAG カレン:
+    slug: izumiya-soag-karen
+    source: pykakasi
+    status: candidate
+  izumiya|SOAG ユリ:
+    slug: izumiya-soag-yuri
+    source: pykakasi
+    status: candidate
   izumiya|SOAG　〜カエデ〜:
+    slug: izumiya-soag-kaede-2
+    source: pykakasi
+    status: candidate
+  izumiya|SOAG〜カエデ〜:
     slug: izumiya-soag-kaede
+    source: pykakasi
+    status: candidate
+  izumiya|SOAG〜ヨウコ〜:
+    slug: izumiya-soag-youko
+    source: pykakasi
+    status: candidate
+  izumiya|SOAGシリーズ 目次:
+    slug: izumiya-soagshiriizu-mokuji
     source: pykakasi
     status: candidate
   izumiya|えんじぇる・らいふ:
@@ -7943,8 +8159,16 @@ works:
     slug: izumiya-kurosu-akoodo-episode-3
     source: pykakasi
     status: candidate
+  izumiya|ペルソナ4外伝 〜霧と少女〜1:
+    slug: izumiya-perusona4gaiden-kiritoshoujo-1
+    source: pykakasi
+    status: candidate
   izumiya|千鶴さん:
     slug: izumiya-chizurusan
+    source: pykakasi
+    status: candidate
+  izumiya|天使たちの聖夜:
+    slug: izumiya-tenshitachinoseiya
     source: pykakasi
     status: candidate
   izumiya|性転怪盗フォーチューン MISSION:
@@ -7955,10 +8179,30 @@ works:
     slug: izumiya-kyoutamashii
     source: pykakasi
     status: candidate
+  izumiya|自作小説:
+    slug: izumiya-jisakushousetsu
+    source: pykakasi
+    status: candidate
+  izumiya|魔蘭:
+    slug: izumiya-maran
+    source: pykakasi
+    status: candidate
   izumiya|魔蘭 エピソード:
     slug: izumiya-maran-episoodo
     source: pykakasi
     status: candidate
+  izumiya|魔蘭キャラクター紹介:
+    slug: izumiya-marankyarakutaashoukai
+    source: pykakasi
+    status: candidate
+  izumiya|魔蘭シリーズ メニュー:
+    slug: izumiya-maranshiriizu-menyuu
+    source: pykakasi
+    status: candidate
+  jersey_red|RB FESTA DICTIONARY TOP:
+    slug: jersey_red-rb-festa-dictionary-top
+    source: ascii
+    status: auto
   'jersey_red|RB: ソウルクラッシュ':
     slug: jersey_red-rb-sourukurasshu
     source: pykakasi
@@ -7977,6 +8221,10 @@ works:
     status: candidate
   jersey_red|果穂ちゃん通信・Vol.1:
     slug: jersey_red-kahochantsuushin-vol-1
+    source: pykakasi
+    status: candidate
+  jersey_red|第14話 魔法研究所?:
+    slug: jersey_red-dai14hanashi-mahoukenkyuusho
     source: pykakasi
     status: candidate
   jersey_red|蒼い時（第二章）:
@@ -8011,10 +8259,106 @@ works:
     slug: jisyou_himajin-isourou
     source: pykakasi
     status: candidate
-  johdan|「ベッタベタ」:
-    slug: johdan-bettabeta
+  johdan|7号館:
+    slug: johdan-7goukan
     source: pykakasi
     status: candidate
+  johdan|FMS:pattern N:
+    slug: johdan-fms-pattern-n
+    source: ascii
+    status: auto
+  johdan|GTB:
+    slug: johdan-gtb
+    source: ascii
+    status: auto
+  johdan|Maid of Fire:
+    slug: johdan-maid-of-fire
+    source: ascii
+    status: auto
+  johdan|Maid of Fire Another Ending:
+    slug: johdan-maid-of-fire-another-ending
+    source: ascii
+    status: auto
+  johdan|Maid of Fire番外 ありすの休日:
+    slug: johdan-maid-of-firebangai-arisunokyuujitsu
+    source: pykakasi
+    status: candidate
+  johdan|No Sister No Life:
+    slug: johdan-no-sister-no-life
+    source: ascii
+    status: auto
+  johdan|PLSキャラクターズファイル:
+    slug: johdan-plskyarakutaazufairu
+    source: pykakasi
+    status: candidate
+  johdan|PLSノート:
+    slug: johdan-plsnooto
+    source: pykakasi
+    status: candidate
+  johdan|PLSメインページ:
+    slug: johdan-plsmeinpeeji
+    source: pykakasi
+    status: candidate
+  johdan|PLS第19話「Love Train」Part3:
+    slug: johdan-plsdai19hanashi-love-train-part3
+    source: pykakasi
+    status: candidate
+  johdan|PLS第22話「一途な恋」Part1:
+    slug: johdan-plsdai22hanashi-ichizunakoi-part1
+    source: pykakasi
+    status: candidate
+  johdan|PLS第22話「一途な恋」Part2:
+    slug: johdan-plsdai22hanashi-ichizunakoi-part2
+    source: pykakasi
+    status: candidate
+  johdan|PLS第2話「Get Wild」Part1:
+    slug: johdan-plsdai2hanashi-get-wild-part1
+    source: pykakasi
+    status: candidate
+  johdan|PLS第3話「大地の物語」Part1:
+    slug: johdan-plsdai3hanashi-daichinomonogatari-part1
+    source: pykakasi
+    status: candidate
+  johdan|PLS第3話『大地の物語』Part2:
+    slug: johdan-plsdai3hanashi-daichinomonogatari-part2
+    source: pykakasi
+    status: candidate
+  johdan|PLS第一話「Wild Heaven」:
+    slug: johdan-plsdaiichiwa-wild-heaven
+    source: pykakasi
+    status: candidate
+  johdan|TS風邪〜:
+    slug: johdan-tskaze
+    source: pykakasi
+    status: candidate
+  johdan|TigerS:
+    slug: johdan-tigers
+    source: ascii
+    status: auto
+  johdan|dress_up_boy03:
+    slug: johdan-dress-up-boy03
+    source: ascii
+    status: auto
+  johdan|fake_basket_tachiyomi:
+    slug: johdan-fake-basket-tachiyomi
+    source: ascii
+    status: auto
+  johdan|link:
+    slug: johdan-link
+    source: ascii
+    status: auto
+  johdan|maid_of_fire04a:
+    slug: johdan-maid-of-fire04a
+    source: ascii
+    status: auto
+  johdan|robo:
+    slug: johdan-robo
+    source: ascii
+    status: auto
+  johdan|sato&suzuki_j:
+    slug: johdan-sato-suzuki-j
+    source: ascii
+    status: auto
   johdan|あたしの気も知らないで:
     slug: johdan-atashinokimoshiranaide
     source: pykakasi
@@ -8027,36 +8371,96 @@ works:
     slug: johdan-otorisousa
     source: pykakasi
     status: candidate
-  johdan|とらぶる☆すぴりっつ:
-    slug: johdan-toraburu-supirittsu
+  johdan|おりおん:
+    slug: johdan-orion
     source: pykakasi
     status: candidate
-  johdan|とりすた〜いかにも第一話のような話〜:
-    slug: johdan-torisuta-ikanimodaiichiwanoyounahanashi
+  johdan|くらくら:
+    slug: johdan-kurakura
+    source: pykakasi
+    status: candidate
+  johdan|とらふる☆すひりっつ 五杯目「呑まれたら夜明けのコーヒー」:
+    slug: johdan-torafuru-suhirittsu-gohaime-nomaretarayoakenokoohii
+    source: pykakasi
+    status: candidate
+  johdan|とらぶる☆すぴりっつ:
+    slug: johdan-toraburu-supirittsu-2
+    source: pykakasi
+    status: candidate
+  johdan|とらぶる☆すぴりっつ EPISODE3「変転」:
+    slug: johdan-toraburu-supirittsu-episode3-henten
+    source: pykakasi
+    status: candidate
+  johdan|とらぶる☆すぴりっつ〜二軒目〜:
+    slug: johdan-toraburu-supirittsu-nikenme
+    source: pykakasi
+    status: candidate
+  johdan|とりすた〜いかにも:
+    slug: johdan-torisuta-ikanimo
+    source: pykakasi
+    status: candidate
+  johdan|ふんわりライブ4&セブンティンメイドカフェオフレポ:
+    slug: johdan-funwariraibu4-sebunteinmeidokafeofurepo
     source: pykakasi
     status: candidate
   johdan|アンテナショップ:
     slug: johdan-antenashoppu
     source: pykakasi
     status: candidate
+  johdan|アンテナショップ・前編:
+    slug: johdan-antenashoppu-zenpen
+    source: pykakasi
+    status: candidate
+  johdan|オレが女になったなんて絶対に認めないんだからねっ:
+    slug: johdan-oregaonnaninattanantezettainimitomenaindakaranetsu
+    source: pykakasi
+    status: candidate
+  johdan|オールスタークロスオーバー:
+    slug: johdan-oorusutaakurosuoobaa
+    source: pykakasi
+    status: candidate
   johdan|カレンダーガール:
     slug: johdan-karendaagaaru
     source: pykakasi
     status: candidate
-  johdan|ゴッドファーザー乙女 Lesson:
-    slug: johdan-goddofaazaaotome-lesson
+  johdan|ゴッドファーザー乙女:
+    slug: johdan-goddofaazaaotome
     source: pykakasi
     status: candidate
-  johdan|ジャンプアップ　ジャンプダウン:
+  johdan|ジャンプアップ ジャンプダウン:
     slug: johdan-janpuappu-janpudaun
+    source: pykakasi
+    status: candidate
+  johdan|スクランブルアイドル クライマックスバージョン:
+    slug: johdan-sukuranburuaidoru-kuraimakkusubaajon
+    source: pykakasi
+    status: candidate
+  johdan|ハンターガイスト:
+    slug: johdan-hantaagaisuto
+    source: pykakasi
+    status: candidate
+  johdan|ハンターシリーズ外伝:
+    slug: johdan-hantaashiriizugaiden
+    source: pykakasi
+    status: candidate
+  johdan|ベッタベタ:
+    slug: johdan-bettabeta
     source: pykakasi
     status: candidate
   johdan|ボーダーレス:
     slug: johdan-boodaaresu
     source: pykakasi
     status: candidate
+  johdan|不屈のスケベ:
+    slug: johdan-fukutsunosukebe
+    source: pykakasi
+    status: candidate
   johdan|不屈のスケベ（少年少女文庫バージョン）:
     slug: johdan-fukutsunosukebe-shounenshoujobunkobaajon
+    source: pykakasi
+    status: candidate
+  johdan|五号館:
+    slug: johdan-gogoukan
     source: pykakasi
     status: candidate
   johdan|人の気も知らないで:
@@ -8071,15 +8475,79 @@ works:
     slug: johdan-satoukuntosuzukikun
     source: pykakasi
     status: candidate
+  johdan|八号館:
+    slug: johdan-hachigoukan
+    source: pykakasi
+    status: candidate
   johdan|同居人:
-    slug: johdan-doukyonin
+    slug: johdan-doukyonin-2
     source: pykakasi
     status: candidate
   johdan|同居人・後日談:
     slug: johdan-doukyonin-gojitsudan
     source: pykakasi
     status: candidate
-  johdan|奥さまはＴＳ娘:
+  johdan|向け寄贈作品集:
+    slug: johdan-mukekizousakuhinshuu
+    source: pykakasi
+    status: candidate
+  johdan|城弾キャラクターズ新年会:
+    slug: johdan-shirodankyarakutaazushinnenkai
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター TS館:
+    slug: johdan-shirodanshiataa-tskan
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター レポ・ルーム:
+    slug: johdan-shirodanshiataa-repo-ruumu
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター10集年記念企画ページ:
+    slug: johdan-shirodanshiataa10shuunenkinenkikakupeeji
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター2号館:
+    slug: johdan-shirodanshiataa2goukan
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター「MOE館」:
+    slug: johdan-shirodanshiataa-moekan
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアターディケイド:
+    slug: johdan-shirodanshiataadikeido
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアターリンク集:
+    slug: johdan-shirodanshiataarinkushuu
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター十周年企画1「PanicPanic」:
+    slug: johdan-shirodanshiataajusshuunenkikaku1-panicpanic
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター展示場:
+    slug: johdan-shirodanshiataatenjijou
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター投票所:
+    slug: johdan-shirodanshiataatouhyoujo
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター特撮館:
+    slug: johdan-shirodanshiataatokusatsukan
+    source: pykakasi
+    status: candidate
+  johdan|城弾シアター百万ヒット記念「宴−UTAGE−」:
+    slug: johdan-shirodanshiataahyakumanhittokinen-utageeutagee
+    source: pykakasi
+    status: candidate
+  johdan|城弾作ハンターシリーズ:
+    slug: johdan-shirodansakuhantaashiriizu
+    source: pykakasi
+    status: candidate
+  johdan|奥さまはTS娘:
     slug: johdan-okusamahatsmusume
     source: pykakasi
     status: candidate
@@ -8091,12 +8559,28 @@ works:
     slug: johdan-josoushumi
     source: pykakasi
     status: candidate
+  johdan|年末オフ:
+    slug: johdan-nenmatsuofu
+    source: pykakasi
+    status: candidate
   johdan|後天性ツインズ:
     slug: johdan-koutenseitsuinzu
     source: pykakasi
     status: candidate
+  johdan|後日談:
+    slug: johdan-gojitsudan
+    source: pykakasi
+    status: candidate
   johdan|戦乙女セーラ:
     slug: johdan-senotomeseera
+    source: pykakasi
+    status: candidate
+  johdan|戦乙女セーラ」VS:
+    slug: johdan-senotomeseera-vs
+    source: pykakasi
+    status: candidate
+  johdan|戦乙女セーラメインページ:
+    slug: johdan-senotomeseerameinpeeji
     source: pykakasi
     status: candidate
   johdan|湯の街奇談:
@@ -8107,16 +8591,92 @@ works:
     slug: johdan-kisekaeshounen
     source: pykakasi
     status: candidate
+  johdan|着せ替え少年 Dress up Boy6.5〜こみっくパーティー〜:
+    slug: johdan-kisekaeshounen-dress-up-boy6-5-komikkupaateii
+    source: pykakasi
+    status: candidate
+  johdan|着せ替え少年 お年賀スペシャル:
+    slug: johdan-kisekaeshounen-onengasupesharu
+    source: pykakasi
+    status: candidate
+  johdan|着せ替え少年 メインページ:
+    slug: johdan-kisekaeshounen-meinpeeji
+    source: pykakasi
+    status: candidate
+  johdan|着せ替え少年4 ときめきメモリアル:
+    slug: johdan-kisekaeshounen4-tokimekimemoriaru
+    source: pykakasi
+    status: candidate
+  johdan|着せ替え少年5 プリンセスクエスト:
+    slug: johdan-kisekaeshounen5-purinsesukuesuto
+    source: pykakasi
+    status: candidate
+  johdan|着せ替え少年6 北へ:
+    slug: johdan-kisekaeshounen6-kitahe
+    source: pykakasi
+    status: candidate
+  johdan|着せ替え少年6.5 〜こみっくパーティ〜:
+    slug: johdan-kisekaeshounen6-5-komikkupaatei
+    source: pykakasi
+    status: candidate
+  johdan|着せ替え少年〜サービスエンディング:
+    slug: johdan-kisekaeshounen-saabisuendingu
+    source: pykakasi
+    status: candidate
   johdan|突き抜け:
     slug: johdan-tsukinuke
+    source: pykakasi
+    status: candidate
+  johdan|童女係長:
+    slug: johdan-doujokakarichou
+    source: pykakasi
+    status: candidate
+  johdan|第10話「恋するみずき」Part1:
+    slug: johdan-dai10hanashi-koisurumizuki-part1
+    source: pykakasi
+    status: candidate
+  johdan|第14話『センチメンタルジャーニー』Part3:
+    slug: johdan-dai14hanashi-senchimentarujaanii-part3
+    source: pykakasi
+    status: candidate
+  johdan|第1話「Wild Heaven:
+    slug: johdan-dai1hanashi-wild-heaven
+    source: pykakasi
+    status: candidate
+  johdan|第25話「のんきにのんびりのほほん」前編:
+    slug: johdan-dai25hanashi-nonkininonbirinohohon-zenpen
+    source: pykakasi
+    status: candidate
+  johdan|第2話「Get Wild:
+    slug: johdan-dai2hanashi-get-wild
+    source: pykakasi
+    status: candidate
+  johdan|第31話「Mari」過去編:
+    slug: johdan-dai31hanashi-mari-kakohen
+    source: pykakasi
+    status: candidate
+  johdan|第35話「もういくつ寝ると」Part1:
+    slug: johdan-dai35hanashi-mouikutsuneruto-part1
+    source: pykakasi
+    status: candidate
+  johdan|第37話「雪山パニック」Part1:
+    slug: johdan-dai37hanashi-setsuzanpanikku-part1
+    source: pykakasi
+    status: candidate
+  johdan|第5話「Maria Club」Part1:
+    slug: johdan-dai5hanashi-maria-club-part1
+    source: pykakasi
+    status: candidate
+  johdan|第一話「Wild Heaven」Part1:
+    slug: johdan-daiichiwa-wild-heaven-part1
     source: pykakasi
     status: candidate
   johdan|美少女組長奮戦記:
     slug: johdan-bishoujokumichoufunsenki
     source: pykakasi
     status: candidate
-  johdan|華代ちゃんシリーズ:
-    slug: johdan-hanayochanshiriizu
+  johdan|華代ちゃんシリーズ「老人と少女:
+    slug: johdan-hanayochanshiriizu-roujintoshoujo
     source: pykakasi
     status: candidate
   johdan|華代ちゃんシリーズ番外編　ハンターシリーズ外伝「ハンターガイスト」:
@@ -8127,26 +8687,14 @@ works:
     slug: johdan-suzukikuntosatoukun
     source: pykakasi
     status: candidate
-  johdan|ＦＭＳ：ｐａｔｔｅｒｎ　Ｎ:
-    slug: johdan-fms-pattern-n
-    source: ascii
-    status: auto
-  johdan|Ｍａｉｄ ｏｆ Ｆｉｒｅ −１:
-    slug: johdan-maid-of-fire-1
-    source: pykakasi
-    status: candidate
   johdan|ＮＯ　ＳＩＳＴＥＲ　ＮＯ　ＬＩＦＥ:
-    slug: johdan-no-sister-no-life
+    slug: johdan-no-sister-no-life-2
     source: ascii
     status: auto
   johdan|ＰＬＳ〜Ｃｈａｓｅ　ｉｎ　Ｌａｂｙｌｉｎｔｈ〜:
     slug: johdan-pls-chase-in-labylinth
     source: pykakasi
     status: candidate
-  johdan|ＴｉｇｅｒＳ２０１２:
-    slug: johdan-tigers2012
-    source: ascii
-    status: auto
   johny|オヤジ狩り:
     slug: johny-oyajikari
     source: pykakasi
@@ -8173,6 +8721,14 @@ works:
     status: candidate
   juurouta|EASY COME EASY GO:
     slug: juurouta-easy-come-easy-go
+    source: ascii
+    status: auto
+  juurouta|EZCMEZGO_DOC:
+    slug: juurouta-ezcmezgo-doc
+    source: ascii
+    status: auto
+  juurouta|Xrevenge_:
+    slug: juurouta-xrevenge
     source: ascii
     status: auto
   juurouta|小さなヒーロー ガンバロック:
@@ -8207,8 +8763,32 @@ works:
     slug: kagerou6-mouichidoanatato
     source: pykakasi
     status: candidate
+  kagerou6|ステキな贈り物・ヒロイン10th:
+    slug: kagerou6-sutekinaokurimono-hiroin10th
+    source: pykakasi
+    status: candidate
+  kagerou6|スポーツデイ(ヒロインIX):
+    slug: kagerou6-supootsudei-hiroinix
+    source: pykakasi
+    status: candidate
+  kagerou6|ダークプリンセス・ヒロイン・VII:
+    slug: kagerou6-daakupurinsesu-hiroin-vii
+    source: pykakasi
+    status: candidate
+  kagerou6|ドラマティック・ヒロイン・VI:
+    slug: kagerou6-doramateikku-hiroin-vi
+    source: pykakasi
+    status: candidate
   kagerou6|ヒロイン:
     slug: kagerou6-hiroin
+    source: pykakasi
+    status: candidate
+  kagerou6|ビーナス (ヒロインIV):
+    slug: kagerou6-biinasu-hiroiniv
+    source: pykakasi
+    status: candidate
+  kagerou6|ポートレート (ヒロインIII):
+    slug: kagerou6-pootoreeto-hiroiniii
     source: pykakasi
     status: candidate
   kagerou6|二度目の幼なじみ:
@@ -8217,6 +8797,14 @@ works:
     status: candidate
   kaien|ドリーム・プロジェクト　第一話:
     slug: kaien-doriimu-purojiekuto-daiichiwa
+    source: pykakasi
+    status: candidate
+  kaizurika|〜真奈と慎吾5〜 Survival:
+    slug: kaizurika-manatoshingo5-survival
+    source: pykakasi
+    status: candidate
+  kaizurika|日常:
+    slug: kaizurika-nichijou
     source: pykakasi
     status: candidate
   kakikukeko|トップアイドル瑞希:
@@ -8239,6 +8827,10 @@ works:
     slug: kakusan-tssutooriirando
     source: pykakasi
     status: candidate
+  kakusan|oyakusoku_b:
+    slug: kakusan-oyakusoku-b
+    source: ascii
+    status: auto
   kakusan|一夜の出来事:
     slug: kakusan-ichiyanodekigoto
     source: pykakasi
@@ -8351,12 +8943,28 @@ works:
     slug: kashi-kyonosora
     source: pykakasi
     status: candidate
+  kawanegi|MOE-DOLL 作品集:
+    slug: kawanegi-moe-doll-sakuhinshuu
+    source: pykakasi
+    status: candidate
   kawanegi|お梅ちゃん漫遊記:
     slug: kawanegi-oumechanmanyuuki
     source: pykakasi
     status: candidate
+  kawanegi|らいかワールド TSについて:
+    slug: kawanegi-raikawaarudo-tsnitsuite
+    source: pykakasi
+    status: candidate
   kawanegi|らいか大作戦:
     slug: kawanegi-raikadaisakusen
+    source: pykakasi
+    status: candidate
+  kawanegi|らいか大作戦 宇宙世界設定:
+    slug: kawanegi-raikadaisakusen-uchuusekaisettei
+    source: pykakasi
+    status: candidate
+  kawanegi|らいか大作戦 本編:
+    slug: kawanegi-raikadaisakusen-honpen
     source: pykakasi
     status: candidate
   kawanegi|らいか大作戦・:
@@ -8419,6 +9027,10 @@ works:
     slug: kca-kaasuaitemu-sutooriizu-dai3hanashi-chenjiringu
     source: pykakasi
     status: candidate
+  kca|セフィロト:
+    slug: kca-sefiroto
+    source: pykakasi
+    status: candidate
   kca|パラレルＴＳストーリー 「切望」シリーズ:
     slug: kca-pararerutssutoorii-setsubou-shiriizu
     source: pykakasi
@@ -8431,8 +9043,8 @@ works:
     slug: kca-hanayochanshiriizu-taisen
     source: pykakasi
     status: candidate
-  kebo|りぼんの明日:
-    slug: kebo-ribonnoashita
+  kebo|りぼんの:
+    slug: kebo-ribonno
     source: pykakasi
     status: candidate
   kebo|ドリームズ&メモリーズ:
@@ -8443,16 +9055,16 @@ works:
     slug: kebo-raito-raito-sutoorii
     source: pykakasi
     status: candidate
-  kebo|人魚の涙:
-    slug: kebo-ningyononamida
-    source: pykakasi
-    status: candidate
   kebo|女神仮面ミーミル<:
     slug: kebo-megamikamenmiimiru
     source: pykakasi
     status: candidate
   kebo|春の夜の夢の如し:
     slug: kebo-harunoyorunoyumenogotoshi
+    source: pykakasi
+    status: candidate
+  kebo|海に還る日:
+    slug: kebo-uminikanrunichi
     source: pykakasi
     status: candidate
   kebo|秘湯〜夢蛾はここにいる〜:
@@ -8505,10 +9117,6 @@ works:
     status: candidate
   kion_rei|ちぇんじ!:
     slug: kion_rei-chenji
-    source: pykakasi
-    status: candidate
-  kion_rei|ちぇんじ! ~僕の身体が変わるワケ~ 第:
-    slug: kion_rei-chenji-bokunoshintaigakawaruwake-dai
     source: pykakasi
     status: candidate
   kion_rei|絆:
@@ -8573,6 +9181,14 @@ works:
     status: candidate
   konkana|華代ちゃんシリーズ・番外編　中立と悪意:
     slug: konkana-hanayochanshiriizu-bangaihen-chuuritsutoakui
+    source: pykakasi
+    status: candidate
+  konoshijou|新米女神の大冒険 (序)日常の終わり:
+    slug: konoshijou-shinmaimegaminodaibouken-jo-nichijounoowari
+    source: pykakasi
+    status: candidate
+  konoshijou|新米皇女の大冒険:
+    slug: konoshijou-shinmaioujonodaibouken
     source: pykakasi
     status: candidate
   kop|華代ちゃんシリーズ(#1～#20):
@@ -8731,6 +9347,10 @@ works:
     slug: k-shiawaseno
     source: pykakasi
     status: candidate
+  k|シアワセのつづき〜劇中劇「シアワセの強化装甲」〜:
+    slug: k-shiawasenotsuzuki-gekichuugeki-shiawasenokyoukasoukou
+    source: pykakasi
+    status: candidate
   k|放課後:
     slug: k-houkago
     source: pykakasi
@@ -8755,7 +9375,7 @@ works:
     slug: m3-ashitanotenkihaharenochitenshi
     source: pykakasi
     status: candidate
-  macfist|Ｔｒａｎｓｅ－Ｐｌａｎｔ:
+  macfist|Transe-Plant:
     slug: macfist-transe-plant
     source: ascii
     status: auto
@@ -8784,11 +9404,7 @@ works:
     source: pykakasi
     status: candidate
   maki_takashi|華代ちゃんシリーズ:
-    slug: maki_takashi-hanayochanshiriizu
-    source: pykakasi
-    status: candidate
-  maki_takashi|華代ちゃんシリーズ番外編 「卒業旅行」:
-    slug: maki_takashi-hanayochanshiriizubangaihen-sotsugyouryokou
+    slug: maki_takashi-hanayochanshiriizu-2
     source: pykakasi
     status: candidate
   maki_takashi|蜩（ひぐらし）の葬送:
@@ -8807,6 +9423,14 @@ works:
     slug: makoto-am-i-girl
     source: ascii
     status: auto
+  makoto|あるけみすと☆さーが:
+    slug: makoto-arukemisuto-saaga
+    source: pykakasi
+    status: candidate
+  makoto|あるけみすと☆さーが〜ティルミットの冒険記〜:
+    slug: makoto-arukemisuto-saaga-teirumittonoboukenki
+    source: pykakasi
+    status: candidate
   makoto|ハイパー・サイボーグAki　第一話「目覚めたら女の子」:
     slug: makoto-haipaa-saibooguaki-daiichiwa-mezametaraonnanoko
     source: pykakasi
@@ -8817,6 +9441,14 @@ works:
     status: candidate
   makoto|ハンターストーリーランド+α:
     slug: makoto-hantaasutooriirando-alpha
+    source: pykakasi
+    status: candidate
+  makoto|ファンタジ〜・ノベル:
+    slug: makoto-fantaji-noberu
+    source: pykakasi
+    status: candidate
+  makoto|第二話:
+    slug: makoto-dainihanashi
     source: pykakasi
     status: candidate
   makoto|薬剤師ティエスリア　「恋の病」:
@@ -8891,6 +9523,14 @@ works:
     slug: masami-chiisanaomamori-prologue
     source: pykakasi
     status: candidate
+  mashiro_yuu|AHujouri01.:
+    slug: mashiro_yuu-ahujouri01
+    source: ascii
+    status: auto
+  mashiro_yuu|AHujouri03.1:
+    slug: mashiro_yuu-ahujouri03-1
+    source: ascii
+    status: auto
   mashiro_yuu|いちごちゃんシリーズ:
     slug: mashiro_yuu-ichigochanshiriizu
     source: pykakasi
@@ -8939,10 +9579,6 @@ works:
     slug: mashiro_yuu-kanmi
     source: pykakasi
     status: candidate
-  mashiro_yuu|新春サービス・完全版:
-    slug: mashiro_yuu-shinshunsaabisu-kanzenban
-    source: pykakasi
-    status: candidate
   mashiro_yuu|晶くん:
     slug: mashiro_yuu-akikun
     source: pykakasi
@@ -8963,11 +9599,15 @@ works:
     slug: mashiro_yuu-higinokenkyuushitsu
     source: pykakasi
     status: candidate
-  mashiro_yuu|華代ちゃんシリーズ:
-    slug: mashiro_yuu-hanayochanshiriizu-2
+  mashiro_yuu|華代ちゃんシリーズ「子供の日」:
+    slug: mashiro_yuu-hanayochanshiriizu-kodomononichi
     source: pykakasi
     status: candidate
-  mashiro_yuu|騎士殺し（ナイト・キラー）:
+  mashiro_yuu|華代ちゃんシリーズ設定:
+    slug: mashiro_yuu-hanayochanshiriizusettei
+    source: pykakasi
+    status: candidate
+  mashiro_yuu|騎士殺し(ナイト・キラー:
     slug: mashiro_yuu-kishikoroshi-naito-kiraa
     source: pykakasi
     status: candidate
@@ -8983,8 +9623,16 @@ works:
     slug: mega-hanayochanshiriizubangaihen-heieki
     source: pykakasi
     status: candidate
+  mew|shinka:
+    slug: mew-shinka
+    source: ascii
+    status: auto
   mew|カオス・トラブル:
     slug: mew-kaosu-toraburu
+    source: pykakasi
+    status: candidate
+  mew|コメント:
+    slug: mew-komento
     source: pykakasi
     status: candidate
   mew|進化の定め　第１部:
@@ -9011,8 +9659,48 @@ works:
     slug: milkseiki-akikunshiriizu-imeejiirasuto-usagi
     source: pykakasi
     status: candidate
-  million|『天使のお仕事』:
+  million|100万Hit記念作品感想ページ:
+    slug: million-100manhitkinensakuhinkansoupeeji
+    source: pykakasi
+    status: candidate
+  million|ac-04:
+    slug: million-ac-04
+    source: ascii
+    status: auto
+  million|ac-05:
+    slug: million-ac-05
+    source: ascii
+    status: auto
+  million|「天使のお仕事」真織のかみかざり:
+    slug: million-tenshinooshigoto-maorinokamikazari
+    source: pykakasi
+    status: candidate
+  million|キャラクター紹介:
+    slug: million-kyarakutaashoukai
+    source: pykakasi
+    status: candidate
+  million|史上最悪の作戦!:
+    slug: million-shijousaiakunosakusen
+    source: pykakasi
+    status: candidate
+  million|天使のお仕事:
     slug: million-tenshinooshigoto
+    source: pykakasi
+    status: candidate
+  million|天使のお仕事 11話:
+    slug: million-tenshinooshigoto-11hanashi
+    source: pykakasi
+    status: candidate
+  million|天使のギャラリー:
+    slug: million-tenshinogyararii
+    source: pykakasi
+    status: candidate
+  million|天界のパラレル:
+    slug: million-tenkainoparareru
+    source: pykakasi
+    status: candidate
+  million|幸せは歩いてこない、だから無理矢理プレゼント:
+    slug: million-shiawasehaaruitekonai-dakaramuriyaripurezento
     source: pykakasi
     status: candidate
   minaduki|The voice of ours act.:
@@ -9091,8 +9779,44 @@ works:
     slug: mitama-mananonakanoshingo
     source: pykakasi
     status: candidate
+  miyashita_shinobu|introduction:
+    slug: miyashita_shinobu-introduction
+    source: ascii
+    status: auto
+  miyashita_shinobu|あとがき:
+    slug: miyashita_shinobu-atogaki
+    source: pykakasi
+    status: candidate
   miyashita_shinobu|リヴァイヴァー:
     slug: miyashita_shinobu-rivaivaa
+    source: pykakasi
+    status: candidate
+  miyashita_shinobu|リヴァイヴァー2話:
+    slug: miyashita_shinobu-rivaivaa2hanashi
+    source: pykakasi
+    status: candidate
+  miyashita_shinobu|リヴァイヴァー3話:
+    slug: miyashita_shinobu-rivaivaa3hanashi
+    source: pykakasi
+    status: candidate
+  miyashita_shinobu|リヴァイヴァー4話:
+    slug: miyashita_shinobu-rivaivaa4hanashi
+    source: pykakasi
+    status: candidate
+  miyashita_shinobu|リヴァイヴァー5話:
+    slug: miyashita_shinobu-rivaivaa5hanashi
+    source: pykakasi
+    status: candidate
+  miyashita_shinobu|リヴァイヴァー6話:
+    slug: miyashita_shinobu-rivaivaa6hanashi
+    source: pykakasi
+    status: candidate
+  miyashita_shinobu|リヴィアヴァー2話:
+    slug: miyashita_shinobu-riviavaa2hanashi
+    source: pykakasi
+    status: candidate
+  miyashita_shinobu|登場人物紹介:
+    slug: miyashita_shinobu-toujoujinbutsushoukai
     source: pykakasi
     status: candidate
   mizuki_hikaru|ベストフレンド:
@@ -9111,14 +9835,14 @@ works:
     slug: mizuki-hanayochanshiriizu-hoken
     source: pykakasi
     status: candidate
-  'mizutani_akio|D.A.:':
-    slug: mizutani_akio-d-a
-    source: ascii
-    status: auto
   mizutani_akio|D.A.パロ：　Dr.　セパルカー、デパートに行く:
     slug: mizutani_akio-d-a-paro-dr-separukaa-depaatoniiku
     source: pykakasi
     status: candidate
+  mizutani_akio|angel00:
+    slug: mizutani_akio-angel00
+    source: ascii
+    status: auto
   mizutani_akio|お嫁さんになりたい:
     slug: mizutani_akio-oyomesanninaritai
     source: pykakasi
@@ -9179,7 +9903,7 @@ works:
     slug: mondo-reversible
     source: ascii
     status: auto
-  mondo|どきどき！　メガネっ娘くん:
+  mondo|どきどき! メガネっ娘くん:
     slug: mondo-dokidoki-meganetsumusumekun
     source: pykakasi
     status: candidate
@@ -9215,6 +9939,10 @@ works:
     slug: mondo-maruchiendingusutoorii
     source: pykakasi
     status: candidate
+  mondo|ロボTRY・EX−S さおりん歳時記:
+    slug: mondo-robotry-exxs-saorinsaijiki
+    source: pykakasi
+    status: candidate
   mondo|ロボＴＲＹ・ＥＸ−３『助っ人美少女棒球騒動っ』:
     slug: mondo-robotry-exx3-sukettobishoujoboudamasoudoutsu
     source: pykakasi
@@ -9235,7 +9963,7 @@ works:
     slug: mondo-kamenraitaadireido
     source: pykakasi
     status: candidate
-  mondo|好敵手（らいばる）は美少女っ:
+  mondo|好敵手(らいばる)は美少女っ:
     slug: mondo-koutekishu-raibaru-habishoujotsu
     source: pykakasi
     status: candidate
@@ -9349,6 +10077,10 @@ works:
     status: candidate
   nakata_kyuroban|この素晴らしき世界:
     slug: nakata_kyuroban-konosubarashikisekai
+    source: pykakasi
+    status: candidate
+  nakata_kyuroban|仮面ライダーTSV3:
+    slug: nakata_kyuroban-kamenraidaatsv3
     source: pykakasi
     status: candidate
   namakemono|ざしきわらし:
@@ -9495,6 +10227,18 @@ works:
     slug: nhk-hanayochanshiriizu-go-to-hell
     source: pykakasi
     status: candidate
+  nigeuma|gf01:
+    slug: nigeuma-gf01
+    source: ascii
+    status: auto
+  nigeuma|gfs01:
+    slug: nigeuma-gfs01
+    source: ascii
+    status: auto
+  nigeuma|gfs02:
+    slug: nigeuma-gfs02
+    source: ascii
+    status: auto
   nigeuma|ある夏の日:
     slug: nigeuma-arunatsunonichi
     source: pykakasi
@@ -9509,6 +10253,10 @@ works:
     status: candidate
   nigeuma|ガールズ・ファイター 〜ファイナル・オペレーション:
     slug: nigeuma-gaaruzu-faitaa-fainaru-opereeshon
+    source: pykakasi
+    status: candidate
+  nigeuma|ガールズ・ファイターのページ:
+    slug: nigeuma-gaaruzu-faitaanopeeji
     source: pykakasi
     status: candidate
   nigeuma|サイバー・ウエポン:
@@ -9687,6 +10435,10 @@ works:
     slug: omochibako-kirainamono
     source: pykakasi
     status: candidate
+  omochibako|きらいなもの→ＧＷ:
+    slug: omochibako-kirainamono-gw
+    source: pykakasi
+    status: candidate
   omochibako|くろす・あこーど　episode 1:
     slug: omochibako-kurosu-akoodo-episode-1
     source: pykakasi
@@ -9747,12 +10499,20 @@ works:
     slug: oyagiaka-utsukushikunaimono
     source: pykakasi
     status: candidate
+  panda5|SMガールズセクサドールJ:
+    slug: panda5-smgaaruzusekusadooruj
+    source: pykakasi
+    status: candidate
   panda5|SMガールズセクサドールJ MEMORY1−:
     slug: panda5-smgaaruzusekusadooruj-memory11
     source: pykakasi
     status: candidate
   panda5|らむね2/1・:
     slug: panda5-ramune2-1
+    source: pykakasi
+    status: candidate
+  panda5|愛のパンダ5TS劇場その:
+    slug: panda5-ainopanda5tsgekijousono
     source: pykakasi
     status: candidate
   panda5|獣王銀河シャンマリオン　第一話　前編:
@@ -9771,7 +10531,7 @@ works:
     slug: phrase-ichou
     source: pykakasi
     status: candidate
-  piro|華代ちゃんシリーズ「こみパラ」:
+  piro|華代ちゃんシリーズ「こみパラ:
     slug: piro-hanayochanshiriizu-komipara
     source: pykakasi
     status: candidate
@@ -9887,7 +10647,7 @@ works:
     slug: roam-busoumegamiookiddo
     source: pykakasi
     status: candidate
-  rohho|華代ちゃんシリーズ「不景気」:
+  rohho|華代ちゃんシリーズ「不景気:
     slug: rohho-hanayochanshiriizu-fukeiki
     source: pykakasi
     status: candidate
@@ -9927,7 +10687,7 @@ works:
     slug: ruu-nekoyouseigenmutan-1
     source: pykakasi
     status: candidate
-  ryuhju|Let's　オーバーヒート♪:
+  ryuhju|Let's オーバーヒート♪:
     slug: ryuhju-let-s-oobaahiito
     source: pykakasi
     status: candidate
@@ -9967,10 +10727,10 @@ works:
     slug: ryuhju-the-writer
     source: ascii
     status: auto
-  ryuhju|ある絵描きの独白:
-    slug: ryuhju-aruekakinodokuhaku
-    source: pykakasi
-    status: candidate
+  ryuhju|paintar:
+    slug: ryuhju-paintar
+    source: ascii
+    status: auto
   ryuhju|そして彼女は月を見る:
     slug: ryuhju-soshitekanojohagatsuwomiru
     source: pykakasi
@@ -10007,6 +10767,10 @@ works:
     slug: ryuhju-nishiakanenobaai
     source: pykakasi
     status: candidate
+  ryuusake-gen-an-chou-ebisushi|TWIN MINDS:
+    slug: ryuusake-gen-an-chou-ebisushi-twin-minds
+    source: ascii
+    status: auto
   s_f|ＴＨＥ ＧＡＭＥ:
     slug: s_f-the-game
     source: ascii
@@ -10043,6 +10807,10 @@ works:
     slug: saifa-karaoke
     source: pykakasi
     status: candidate
+  sai|THE HALF WING:
+    slug: sai-the-half-wing
+    source: ascii
+    status: auto
   sai|ダークロードプリンセス:
     slug: sai-daakuroodopurinsesu
     source: pykakasi
@@ -10051,10 +10819,6 @@ works:
     slug: sai-the-half-wing-00-prologue
     source: ascii
     status: auto
-  sai|ＴＨＥ　ＨＡＬＦ　ＷＩＮＧ　０１　飛べ　横たわる暗黒の彼方へ:
-    slug: sai-the-half-wing-01-tobe-yokotawaruankokunokanatahe
-    source: pykakasi
-    status: candidate
   sakiemon|冥土の森:
     slug: sakiemon-meidonomori
     source: pykakasi
@@ -10111,8 +10875,12 @@ works:
     slug: satoh_kouko-snatcher
     source: ascii
     status: auto
-  sato|カオルの日常 第:
-    slug: sato-kaorunonichijou-dai
+  satouyui|Am I a grandfather!? The 2nd story (日本語訳:あたしがおじいちゃん!?):
+    slug: satouyui-am-i-a-grandfather-the-2nd-story-nihongoyaku-atashigaojiichan
+    source: pykakasi
+    status: candidate
+  sato|カオルの日常 第弐話:
+    slug: sato-kaorunonichijou-dainihanashi
     source: pykakasi
     status: candidate
   saya|奈緒の憂鬱:
@@ -10139,12 +10907,116 @@ works:
     slug: shimei-element-s
     source: pykakasi
     status: candidate
+  shining_heaven|LINK:
+    slug: shining_heaven-link
+    source: ascii
+    status: auto
+  shining_heaven|Main:
+    slug: shining_heaven-main
+    source: ascii
+    status: auto
+  shining_heaven|N_BYUTRE:
+    slug: shining_heaven-n-byutre
+    source: ascii
+    status: auto
+  shining_heaven|N_ELF:
+    slug: shining_heaven-n-elf
+    source: ascii
+    status: auto
+  shining_heaven|N_FUMI:
+    slug: shining_heaven-n-fumi
+    source: ascii
+    status: auto
+  shining_heaven|N_HIKARI:
+    slug: shining_heaven-n-hikari
+    source: ascii
+    status: auto
+  shining_heaven|N_KAKO:
+    slug: shining_heaven-n-kako
+    source: ascii
+    status: auto
+  shining_heaven|N_KON:
+    slug: shining_heaven-n-kon
+    source: ascii
+    status: auto
+  shining_heaven|N_K_SARA:
+    slug: shining_heaven-n-k-sara
+    source: ascii
+    status: auto
+  shining_heaven|N_NewYear08:
+    slug: shining_heaven-n-newyear08
+    source: ascii
+    status: auto
+  shining_heaven|N_RAN:
+    slug: shining_heaven-n-ran
+    source: ascii
+    status: auto
+  shining_heaven|N_RINNE:
+    slug: shining_heaven-n-rinne
+    source: ascii
+    status: auto
+  shining_heaven|N_RIN_ANJ:
+    slug: shining_heaven-n-rin-anj
+    source: ascii
+    status: auto
+  shining_heaven|N_YAO_FM:
+    slug: shining_heaven-n-yao-fm
+    source: ascii
+    status: auto
+  shining_heaven|N_YAO_RIN:
+    slug: shining_heaven-n-yao-rin
+    source: ascii
+    status: auto
+  shining_heaven|Novel:
+    slug: shining_heaven-novel
+    source: ascii
+    status: auto
+  shining_heaven|P‐SR ~ ポジティブ セクシャル・リバーサー ~:
+    slug: shining_heaven-p-sr-pojiteibu-sekusharu-ribaasaa
+    source: pykakasi
+    status: candidate
+  shining_heaven|Shining‐Heaven:
+    slug: shining_heaven-shining-heaven
+    source: pykakasi
+    status: candidate
+  shining_heaven|Shining‐Heaven(画廊):
+    slug: shining_heaven-shining-heaven-garou
+    source: pykakasi
+    status: candidate
+  shining_heaven|tarot00a:
+    slug: shining_heaven-tarot00a
+    source: ascii
+    status: auto
+  shining_heaven|tarot00b:
+    slug: shining_heaven-tarot00b
+    source: ascii
+    status: auto
+  shining_heaven|tarot01:
+    slug: shining_heaven-tarot01
+    source: ascii
+    status: auto
+  shining_heaven|tenran:
+    slug: shining_heaven-tenran
+    source: ascii
+    status: auto
+  shining_heaven|【天体観測】~子供だった頃~:
+    slug: shining_heaven-tentaikansoku-kodomodattagoro-2
+    source: pykakasi
+    status: candidate
   shining_heaven|【天体観測】〜子供だった頃〜:
     slug: shining_heaven-tentaikansoku-kodomodattagoro
     source: pykakasi
     status: candidate
   shining_heaven|〜 ＴＳ怪盗御伽　紅玉のルビィ 〜:
     slug: shining_heaven-tskaitouotogi-kougyokunorubii
+    source: pykakasi
+    status: candidate
+  shining_heaven|かれかのバレンタイン:
+    slug: shining_heaven-karekanobarentain
+    source: pykakasi
+    status: candidate
+  shining_heaven|これは夢オチ 番外編:
+    slug: shining_heaven-korehayumeochi-bangaihen
     source: pykakasi
     status: candidate
   shining_heaven|これは夢オチ・番外編「ナイトテラー」:
@@ -10155,12 +11027,24 @@ works:
     slug: shining_heaven-garuverooza
     source: pykakasi
     status: candidate
-  shining_heaven|ハンター・シリーズ「三身一対〜30番目の多重人格者〜:
-    slug: shining_heaven-hantaa-shiriizu-sanmiittsui-30banmenotajuujinkakusha
+  shining_heaven|ガルヴェローザ ~A moment is eternity:
+    slug: shining_heaven-garuverooza-a-moment-is-eternity
+    source: pykakasi
+    status: candidate
+  shining_heaven|トイレの花子さん誕生秘話・異聞録:
+    slug: shining_heaven-toirenohanakosantanjouhiwa-ibunroku
+    source: pykakasi
+    status: candidate
+  shining_heaven|ハンターシリーズ:
+    slug: shining_heaven-hantaashiriizu
     source: pykakasi
     status: candidate
   shining_heaven|ヤオヨロヅ物語:
     slug: shining_heaven-yaoyorozumonogatari
+    source: pykakasi
+    status: candidate
+  shining_heaven|ヤオヨロヅ物語 試作? ~探偵物(仮題)~:
+    slug: shining_heaven-yaoyorozumonogatari-shisaku-tanteimono-kadai
     source: pykakasi
     status: candidate
   shining_heaven|二代目はお嬢さま? Yes,She isn’t:
@@ -10171,6 +11055,18 @@ works:
     slug: shining_heaven-yuukyuutoshoshitsu-fushiginokunino
     source: pykakasi
     status: candidate
+  shining_heaven|目覚めの夜に別れを告げて:
+    slug: shining_heaven-mezamenoyoruniwakarewotsugete
+    source: pykakasi
+    status: candidate
+  shining_heaven|胡蝶の見る夢:
+    slug: shining_heaven-kochounomiruyume
+    source: pykakasi
+    status: candidate
+  shining_heaven|華代ちゃんシリーズ:
+    slug: shining_heaven-hanayochanshiriizu
+    source: pykakasi
+    status: candidate
   shining_heaven|華代ちゃんシリーズ『月に咲く花』:
     slug: shining_heaven-hanayochanshiriizu-gatsunisakuhana
     source: pykakasi
@@ -10179,7 +11075,7 @@ works:
     slug: shining_heaven-tenseiyuugi-tensei-yu-gi
     source: pykakasi
     status: candidate
-  shining_heaven|魔法少女プリティー・サーラ　春の特番ＳＰ:
+  shining_heaven|魔法少女プリティー・サーラ 春の特番SP:
     slug: shining_heaven-mahoushoujopuriteii-saara-harunotokubansp
     source: pykakasi
     status: candidate
@@ -10195,6 +11091,14 @@ works:
     slug: shiroiruka-yumitochika
     source: pykakasi
     status: candidate
+  shiroiruka|由香里聖伝 序章:
+    slug: shiroiruka-yukarihijiriden-joshou
+    source: pykakasi
+    status: candidate
+  shiroiruka|由香里聖伝 戦士誕生:
+    slug: shiroiruka-yukarihijiriden-senshitanjou
+    source: pykakasi
+    status: candidate
   shiroiruka|由香里聖伝戦士誕生:
     slug: shiroiruka-yukarihijiridensenshitanjou
     source: pykakasi
@@ -10203,7 +11107,7 @@ works:
     slug: shiroiruka-saikainobifuu
     source: pykakasi
     status: candidate
-  shuu|華代ちゃんシリーズ「女性専用車両」:
+  shuu|華代ちゃんシリーズ「女性専用車両:
     slug: shuu-hanayochanshiriizu-joseisenyousharyou
     source: pykakasi
     status: candidate
@@ -10235,6 +11139,14 @@ works:
     slug: sirokuro-waraibanashi
     source: pykakasi
     status: candidate
+  sky_high|10万ヒット記念インタビュー:
+    slug: sky_high-10manhittokinenintabyuu
+    source: pykakasi
+    status: candidate
+  sky_high|Rの穴:
+    slug: sky_high-rnoana
+    source: pykakasi
+    status: candidate
   sky_high|「ジャングル三千キロの奥地に幻の原住民族ポロリ族の秘密の儀式を見た！！」:
     slug: sky_high-jangurusanzenkironookuchinimaboroshinogenjuuminzokupororizokunohimitsunogishikiwomita
     source: pykakasi
@@ -10243,32 +11155,140 @@ works:
     slug: sky_high-dokitsu-pororidarakenosuijoukessen
     source: pykakasi
     status: candidate
+  sky_high|「真夏の即売会」:
+    slug: sky_high-manatsunosokubaikai
+    source: pykakasi
+    status: candidate
   sky_high|お花畑の妖精:
     slug: sky_high-ohanahatanoyousei
+    source: pykakasi
+    status: candidate
+  sky_high|はじめに:
+    slug: sky_high-hajimeni
+    source: pykakasi
+    status: candidate
+  sky_high|アイテム課金:
+    slug: sky_high-aitemukakin
+    source: pykakasi
+    status: candidate
+  sky_high|インターミッション:
+    slug: sky_high-intaamisshon
     source: pykakasi
     status: candidate
   sky_high|エレベーターの怪:
     slug: sky_high-erebeetaanokai
     source: pykakasi
     status: candidate
+  sky_high|オミクジ:
+    slug: sky_high-omikuji
+    source: pykakasi
+    status: candidate
+  sky_high|キリ番サービス:
+    slug: sky_high-kiribansaabisu
+    source: pykakasi
+    status: candidate
   sky_high|ゲームダイバー:
     slug: sky_high-geemudaibaa
     source: pykakasi
     status: candidate
+  sky_high|サーキットの陰謀:
+    slug: sky_high-saakittonoinbou
+    source: pykakasi
+    status: candidate
+  sky_high|ツかれた女:
+    slug: sky_high-tsukaretaonna
+    source: pykakasi
+    status: candidate
+  sky_high|ハイパークールビズ:
+    slug: sky_high-haipaakuurubizu
+    source: pykakasi
+    status: candidate
   sky_high|ヒーロー誕生!?:
-    slug: sky_high-hiirootanjou
+    slug: sky_high-hiirootanjou-2
+    source: pykakasi
+    status: candidate
+  sky_high|ヒーロー誕生!? 元ネタ解説:
+    slug: sky_high-hiirootanjou-motonetakaisetsu
     source: pykakasi
     status: candidate
   sky_high|ビア・オンザ・ビーチ:
     slug: sky_high-bia-onza-biichi
     source: pykakasi
     status: candidate
+  sky_high|フィールド変換器:
+    slug: sky_high-fiirudohenkanki
+    source: pykakasi
+    status: candidate
+  sky_high|プリクラ:
+    slug: sky_high-purikura
+    source: pykakasi
+    status: candidate
+  sky_high|ペアプレイ:
+    slug: sky_high-peapurei
+    source: pykakasi
+    status: candidate
+  sky_high|マグロ:
+    slug: sky_high-maguro
+    source: pykakasi
+    status: candidate
+  sky_high|ラストマン・スタンディング:
+    slug: sky_high-rasutoman-sutandingu
+    source: pykakasi
+    status: candidate
+  sky_high|リレー:
+    slug: sky_high-riree
+    source: pykakasi
+    status: candidate
+  sky_high|リンク:
+    slug: sky_high-rinku
+    source: pykakasi
+    status: candidate
+  sky_high|一番湯:
+    slug: sky_high-ichibanyu
+    source: pykakasi
+    status: candidate
+  sky_high|二人式中国語遊技:
+    slug: sky_high-futarishikichuukokugoyuugi
+    source: pykakasi
+    status: candidate
+  sky_high|兼用トイレ:
+    slug: sky_high-kenyoutoire
+    source: pykakasi
+    status: candidate
+  sky_high|即売会の妖精:
+    slug: sky_high-sokubaikainoyousei
+    source: pykakasi
+    status: candidate
+  sky_high|即売会の秘策:
+    slug: sky_high-sokubaikainohisaku
+    source: pykakasi
+    status: candidate
+  sky_high|名物ヤキソバ:
+    slug: sky_high-meibutsuyakisoba
+    source: pykakasi
+    status: candidate
+  sky_high|因果応報:
+    slug: sky_high-ingaouhou
+    source: pykakasi
+    status: candidate
+  sky_high|変化の果てに......:
+    slug: sky_high-henkanohateni
+    source: pykakasi
+    status: candidate
   sky_high|夏の怪談：二〇〇八:
     slug: sky_high-natsunokaidan-ni-maru-maru-hachi
     source: pykakasi
     status: candidate
+  sky_high|宿屋にて:
+    slug: sky_high-yadoyanite
+    source: pykakasi
+    status: candidate
   sky_high|専用車両:
     slug: sky_high-senyousharyou
+    source: pykakasi
+    status: candidate
+  sky_high|強制変身小説:
+    slug: sky_high-kyouseihenshinshousetsu
     source: pykakasi
     status: candidate
   sky_high|影響力:
@@ -10279,16 +11299,80 @@ works:
     slug: sky_high-fukushuunohate
     source: pykakasi
     status: candidate
+  sky_high|悪夢の写し身:
+    slug: sky_high-akumunoutsushimi
+    source: pykakasi
+    status: candidate
+  sky_high|我慢王への道!:
+    slug: sky_high-gamanouhenomichi
+    source: pykakasi
+    status: candidate
+  sky_high|投稿小説サイト:
+    slug: sky_high-toukoushousetsusaito
+    source: pykakasi
+    status: candidate
+  sky_high|更新を足止めするゲーム軍団:
+    slug: sky_high-koushinwoashidomesurugeemugundan
+    source: pykakasi
+    status: candidate
+  sky_high|更新履歴:
+    slug: sky_high-koushinrireki
+    source: pykakasi
+    status: candidate
   sky_high|次元管理人フォスター・シリーズ:
-    slug: sky_high-jigenkanrininfosutaa-shiriizu
+    slug: sky_high-jigenkanrininfosutaa-shiriizu-2
+    source: pykakasi
+    status: candidate
+  sky_high|海辺の即売会:
+    slug: sky_high-umibenosokubaikai
+    source: pykakasi
+    status: candidate
+  sky_high|混浴温泉:
+    slug: sky_high-konyokuonsen
+    source: pykakasi
+    status: candidate
+  sky_high|混浴露天:
+    slug: sky_high-konyokuroten
+    source: pykakasi
+    status: candidate
+  sky_high|異文化体験会:
+    slug: sky_high-ibunkataikenkai
+    source: pykakasi
+    status: candidate
+  sky_high|管理人高居空とは:
+    slug: sky_high-kanrinintakaisoratoha
+    source: pykakasi
+    status: candidate
+  sky_high|誤変換修正回路:
+    slug: sky_high-gohenkanshuuseikairo
+    source: pykakasi
+    status: candidate
+  sky_high|長い髪の女:
+    slug: sky_high-nagaikaminoonna
+    source: pykakasi
+    status: candidate
+  sky_high|食べ放題:
+    slug: sky_high-tabehoudai
+    source: pykakasi
+    status: candidate
+  sky_high|魔法少女ミラクル☆カラン:
+    slug: sky_high-mahoushoujomirakuru-karan
+    source: pykakasi
+    status: candidate
+  sky_high|魔法少女ミラクル☆カラン年末SP:
+    slug: sky_high-mahoushoujomirakuru-karannenmatsusp
+    source: pykakasi
+    status: candidate
+  sky_high|魔王の秘術:
+    slug: sky_high-maounohijutsu
     source: pykakasi
     status: candidate
   slents|ZIPPANG FANTASY:
     slug: slents-zippang-fantasy
     source: ascii
     status: auto
-  sorachikataho|華代ちゃんシリーズ:
-    slug: sorachikataho-hanayochanshiriizu
+  sorachikataho|華代ちゃん:
+    slug: sorachikataho-hanayochan
     source: pykakasi
     status: candidate
   soraouka|雪月風花〜独奏曲:
@@ -10483,7 +11567,7 @@ works:
     slug: tarota-kyuuryuugensoutan
     source: pykakasi
     status: candidate
-  tarota|女の子になりたいな…なれるかな？:
+  tarota|女の子になりたいな...なれるかな?:
     slug: tarota-onnanokoninaritaina-narerukana
     source: pykakasi
     status: candidate
@@ -10507,8 +11591,16 @@ works:
     slug: tenki-steganography-mahoushoujourutora-furakutaru
     source: pykakasi
     status: candidate
+  tenki|ZweihanderVTS (Presented by Tenki Hanamura):
+    slug: tenki-zweihandervts-presented-by-tenki-hanamura
+    source: ascii
+    status: auto
   tenki|くろす・あこーど　episode 6:
     slug: tenki-kurosu-akoodo-episode-6
+    source: pykakasi
+    status: candidate
+  tenki|キャラ紹介 - ZweihanderVTS<A1>:
+    slug: tenki-kyarashoukai-zweihandervts-a1
     source: pykakasi
     status: candidate
   tenki|新米美少女復讐騒話 - 魔法少女うるとら☆ふらくたる:
@@ -10519,16 +11611,16 @@ works:
     slug: tenki-jigenkanrininfosutaa
     source: pykakasi
     status: candidate
-  tenki|発端と変革 - ZweihanderVTS:
-    slug: tenki-hottantohenkaku-zweihandervts
-    source: pykakasi
-    status: candidate
   tenki|電脳大冒険外伝　さいばぁぷろじぇくと？:
     slug: tenki-dennoudaiboukengaiden-saibaapurojiekuto
     source: pykakasi
     status: candidate
   tenmei|幼なじみとの再会:
     slug: tenmei-younajimitonosaikai
+    source: pykakasi
+    status: candidate
+  tenran-e-mukugesan|ヤオヨロヅ物語 第五話 ~9th:シークレットガーディアン~:
+    slug: tenran-e-mukugesan-yaoyorozumonogatari-daigohanashi-9th-shiikurettogaadian
     source: pykakasi
     status: candidate
   tetsura|帰郷:
@@ -10545,6 +11637,10 @@ works:
     status: candidate
   toranosuke|Ambivalenz(アンビヴァレンツ:
     slug: toranosuke-ambivalenz-anbivarentsu
+    source: pykakasi
+    status: candidate
+  toshi9|「戦え!スウィートハニィ」登場キャラクター一覧:
+    slug: toshi9-tatakae-suuiitohanii-toujoukyarakutaaichiran
     source: pykakasi
     status: candidate
   toshi9|二代目はサンタガール？:
@@ -10627,8 +11723,16 @@ works:
     slug: tsukitotaiyou-majikkunoitazura
     source: pykakasi
     status: candidate
+  two_bit|RBキャラ一覧:
+    slug: two_bit-rbkyaraichiran
+    source: pykakasi
+    status: candidate
   two_bit|RENTAL BODY:
     slug: two_bit-rental-body
+    source: ascii
+    status: auto
+  two_bit|RENTAL BODY Pure:
+    slug: two_bit-rental-body-pure
     source: ascii
     status: auto
   two_bit|RENTAL BODY Ver2.01:
@@ -10651,6 +11755,14 @@ works:
     slug: two_bit-rental-body-re-mix
     source: ascii
     status: auto
+  two_bit|Rental Body Re-mix menu:
+    slug: two_bit-rental-body-re-mix-menu
+    source: ascii
+    status: auto
+  two_bit|Rental Body Re-mix あとがき:
+    slug: two_bit-rental-body-re-mix-atogaki
+    source: pykakasi
+    status: candidate
   two_bit|VIRTUAL BODY 感覚 -sense-:
     slug: two_bit-virtual-body-kankaku-sense
     source: pykakasi
@@ -10689,6 +11801,94 @@ works:
     status: candidate
   uekibati|姉がくれたもの:
     slug: uekibati-anegakuretamono
+    source: pykakasi
+    status: candidate
+  unattributed|500万Hit記念イベント・TSいろはがるたのページ:
+    slug: unattributed-500manhitkinenibento-tsirohagarutanopeeji
+    source: pykakasi
+    status: candidate
+  unattributed|Am I a grandfather!? the 1st story:
+    slug: unattributed-am-i-a-grandfather-the-1st-story
+    source: ascii
+    status: auto
+  unattributed|PROJECT 第3話:
+    slug: unattributed-project-dai3hanashi
+    source: pykakasi
+    status: candidate
+  unattributed|RENTAL BODY Ver3 ~微熱風味~:
+    slug: unattributed-rental-body-ver3-binetsufuumi
+    source: pykakasi
+    status: candidate
+  unattributed|RENTAL BODY2.1:
+    slug: unattributed-rental-body2-1
+    source: ascii
+    status: auto
+  unattributed|TSキャノンボール!」過去ログ(その:
+    slug: unattributed-tskyanonbooru-kakorogu-sono
+    source: pykakasi
+    status: candidate
+  unattributed|TS大喜利のページ:
+    slug: unattributed-tsoogirinopeeji
+    source: pykakasi
+    status: candidate
+  unattributed|TS用語大辞典『転辞苑(仮)』:
+    slug: unattributed-tsyougodaijiten-tenjien-kari
+    source: pykakasi
+    status: candidate
+  unattributed|TS用語大辞典『転辞苑(笑:
+    slug: unattributed-tsyougodaijiten-tenjien-warai
+    source: pykakasi
+    status: candidate
+  unattributed|Untitled Document:
+    slug: unattributed-untitled-document
+    source: ascii
+    status: auto
+  unattributed|triangle_equation:
+    slug: unattributed-triangle-equation
+    source: ascii
+    status: auto
+  unattributed|「T's☆Heart」第4話(前編):
+    slug: unattributed-t-s-heart-dai4hanashi-zenpen
+    source: pykakasi
+    status: candidate
+  unattributed|「T's☆heart」:
+    slug: unattributed-t-s-heart
+    source: pykakasi
+    status: candidate
+  unattributed|「T's☆heart」ストーリー設定:
+    slug: unattributed-t-s-heart-sutooriisettei
+    source: pykakasi
+    status: candidate
+  unattributed|らいか大作戦 本編:
+    slug: unattributed-raikadaisakusen-honpen
+    source: pykakasi
+    status: candidate
+  unattributed|即席ヒロイン作成ページ「ヒロインメーカーEasy(笑)」:
+    slug: unattributed-sokusekihiroinsakuseipeeji-hiroinmeekaaeasy-warai
+    source: pykakasi
+    status: candidate
+  unattributed|多人数参加型掲示板イベント「T's☆Heart」:
+    slug: unattributed-taninzuusankagatakeijibanibento-t-s-heart
+    source: pykakasi
+    status: candidate
+  unattributed|多人数参加型掲示板イベント「T's☆Heart」(2ndシーズン):
+    slug: unattributed-taninzuusankagatakeijibanibento-t-s-heart-2ndshiizun
+    source: pykakasi
+    status: candidate
+  unattributed|新米女神の大冒険:
+    slug: unattributed-shinmaimegaminodaibouken
+    source: pykakasi
+    status: candidate
+  unattributed|華代ちゃんシリーズINDEX Vol.2:
+    slug: unattributed-hanayochanshiriizuindex-vol-2
+    source: pykakasi
+    status: candidate
+  unattributed|華代ちゃんシリーズ「保母さん」:
+    slug: unattributed-hanayochanshiriizu-hobosan
+    source: pykakasi
+    status: candidate
+  unattributed|蒼い瞳のミルフィア:
+    slug: unattributed-aoihitominomirufia
     source: pykakasi
     status: candidate
   uronta|シェアワールド「SugarSweets」:
@@ -10755,8 +11955,24 @@ works:
     slug: wakasa_siyuko-onikisu
     source: pykakasi
     status: candidate
-  wataru1024|「眠り姫」のＴＳな旅立ち:
-    slug: wataru1024-nemurihime-notsnatabidachi
+  wataru1024|R.B.「永遠の命」へ:
+    slug: wataru1024-r-b-eiennoinochi-he
+    source: pykakasi
+    status: candidate
+  wataru1024|いけない二人 =1=:
+    slug: wataru1024-ikenaifutari-1
+    source: pykakasi
+    status: candidate
+  wataru1024|いけない二人 =2=:
+    slug: wataru1024-ikenaifutari-2
+    source: pykakasi
+    status: candidate
+  wataru1024|いけない二人 =3=:
+    slug: wataru1024-ikenaifutari-3
+    source: pykakasi
+    status: candidate
+  wataru1024|いけない二人 =4=:
+    slug: wataru1024-ikenaifutari-4
     source: pykakasi
     status: candidate
   'wataru1024|いけない二人:':
@@ -10767,20 +11983,28 @@ works:
     slug: wataru1024-kaworunojijou
     source: pykakasi
     status: candidate
+  wataru1024|カヲルの事情 CONTENTS by WATARU1024:
+    slug: wataru1024-kaworunojijou-contents-by-wataru1024
+    source: pykakasi
+    status: candidate
   wataru1024|二人のカヲル:
     slug: wataru1024-futarinokaworu
+    source: pykakasi
+    status: candidate
+  wataru1024|二人のカヲル CONTENTS by WATARU1024:
+    slug: wataru1024-futarinokaworu-contents-by-wataru1024
     source: pykakasi
     status: candidate
   wataru1024|危ない二人:
     slug: wataru1024-abunaifutari
     source: pykakasi
     status: candidate
-  wataru1024|魔女っ子サンドロのシンデレラ修業:
-    slug: wataru1024-majotsukosandoronoshindererashugyou
+  wataru1024|眠り姫」のTSな旅立ち:
+    slug: wataru1024-nemurihime-notsnatabidachi
     source: pykakasi
     status: candidate
-  wataru1024|Ｒ.Ｂ.「永遠の命」へ:
-    slug: wataru1024-r-b-eiennoinochi-he
+  wataru1024|魔女っ子サンドロのシンデレラ修業:
+    slug: wataru1024-majotsukosandoronoshindererashugyou
     source: pykakasi
     status: candidate
   west|F(エフ:
@@ -10819,6 +12043,14 @@ works:
     slug: writerman-oh-my-sister
     source: ascii
     status: auto
+  writerman|「機甲天女 ヴァルキュリア」目次:
+    slug: writerman-kikoutennyo-varukyuria-mokuji
+    source: pykakasi
+    status: candidate
+  writerman|「聖霊戦隊ホーリーレンジャー」目次:
+    slug: writerman-shouryousentaihooriirenjaa-mokuji
+    source: pykakasi
+    status: candidate
   writerman|あぶない課外授業？:
     slug: writerman-abunaikagaijugyou
     source: pykakasi
@@ -10877,6 +12109,10 @@ works:
     status: candidate
   writerman|リアルなゲーム？:
     slug: writerman-riarunageemu
+    source: pykakasi
+    status: candidate
+  writerman|ヴァルキュリア機体解説:
+    slug: writerman-varukyuriakitaikaisetsu
     source: pykakasi
     status: candidate
   writerman|乙女くん:
@@ -11115,6 +12351,14 @@ works:
     slug: y_o-souridaijinhajoshikousei
     source: pykakasi
     status: candidate
+  yaji|test3:
+    slug: yaji-test3
+    source: ascii
+    status: auto
+  yaji|trans11:
+    slug: yaji-trans11
+    source: ascii
+    status: auto
   yaji|おにいちゃんと呼ばせて(１):
     slug: yaji-oniichantoyobasete-1
     source: pykakasi
@@ -11239,6 +12483,10 @@ works:
     slug: yamu-fms-pattern-r
     source: ascii
     status: auto
+  yamu|「FMSシリーズ」シェアードワールド用設定:
+    slug: yamu-fmsshiriizu-shieaadowaarudoyousettei
+    source: pykakasi
+    status: candidate
   yamu|もう一人の“虹の瞳”の物語:
     slug: yamu-mouhitorino-nijinohitomi-nomonogatari
     source: pykakasi
@@ -11271,6 +12519,10 @@ works:
     slug: yamu-nijinohitomi-aden
     source: pykakasi
     status: candidate
+  yays|Capsule Monsters:
+    slug: yays-capsule-monsters
+    source: ascii
+    status: auto
   yays|カプセル モンスター:
     slug: yays-kapuseru-monsutaa
     source: pykakasi
@@ -11333,6 +12585,10 @@ works:
     status: candidate
   yoko|新造人間キャシャアン（前編）:
     slug: yoko-shinzouningenkyashaan-zenpen
+    source: pykakasi
+    status: candidate
+  yonetsu-ga-misshingu|いんまなあの子がOne☆Man??Show!!:
+    slug: yonetsu-ga-misshingu-inmanaanokogaone-man-show
     source: pykakasi
     status: candidate
   yonezu|いんまなあの子:
@@ -11447,6 +12703,10 @@ works:
     slug: you-2-hanayochanshiriizu-gurandosuramu
     source: pykakasi
     status: candidate
+  you-3|kayo_chan69:
+    slug: you-3-kayo-chan69
+    source: ascii
+    status: auto
   you|魔法少女リーフ１〜５話:
     slug: you-mahoushoujoriifu1-5hanashi
     source: pykakasi
@@ -11463,8 +12723,12 @@ works:
     slug: yuasano_miki-tsmukashibanashi-urashimatarou
     source: pykakasi
     status: candidate
-  yui|リターンでガールよ！１:
-    slug: yui-ritaandegaaruyo-1
+  yuasanomiki-ga-mogutansama|リバイバルガール24:
+    slug: yuasanomiki-ga-mogutansama-ribaibarugaaru24
+    source: pykakasi
+    status: candidate
+  yui|リターンでガールよ!:
+    slug: yui-ritaandegaaruyo
     source: pykakasi
     status: candidate
   yui|冬の出来事:
@@ -11519,7 +12783,7 @@ works:
     slug: yuu-hankei365m-hikikomogomohen
     source: pykakasi
     status: candidate
-  zock|ｙｕｕｋｉ:
+  zock|yuuki:
     slug: zock-yuuki
     source: ascii
     status: auto

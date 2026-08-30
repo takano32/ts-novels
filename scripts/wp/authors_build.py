@@ -70,6 +70,45 @@ def text_of(fragment):
 
 # --------------------------------------------------------------------------- lib-index
 
+def parse_index_old(root, page):
+    """lib-index-1〜4.html (旧世代版) は列の並びが逆で、作者セルが rowspan で
+    複数行にまたがる: `<td rowspan=N><b>作者</b></td><td><a>題名</a></td>` +
+    続く N-1 行は題名セルだけ。作者を持ち越しながら読む。"""
+    path = os.path.join(root, page)
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding='utf-8') as fh:
+        src = fh.read()
+    rows, author, remain = [], None, 0
+    for m in re.finditer(r'<tr[^>]*>(.*?)</tr>', src, re.S | re.I):
+        cells = re.findall(r'<td([^>]*)>(.*?)</td>', m.group(1), re.S | re.I)
+        if not cells:
+            continue
+        if len(cells) >= 2:
+            attrs, body = cells[0]
+            name = text_of(body)
+            if name:
+                author = name
+                span = re.search(r'rowspan\s*=\s*"?(\d+)', attrs, re.I)
+                remain = (int(span.group(1)) if span else 1) - 1
+            title_cell = cells[1][1]
+        else:
+            if remain <= 0:
+                continue
+            remain -= 1
+            title_cell = cells[0][1]
+        links = RE_ANCHOR.findall(title_cell)
+        if not links or not author:
+            continue
+        href = html.unescape((links[0][0] or links[0][1] or links[0][2] or '').strip())
+        title = text_of(links[0][3])
+        if not href or not title:
+            continue
+        rows.append({'page': page, 'path': href, 'title': title,
+                     'author': author, 'homepage': None, 'kana': None})
+    return rows
+
+
 def parse_index(root):
     """作家別五十音目録 → (rows, yomi_of_name)。
 
@@ -77,7 +116,9 @@ def parse_index(root):
     (タスク 1.8 の目録外収蔵でも使う)。yomi_of_name は表示名 → 所属行 (あ行/A/その他)。
     """
     rows, yomi = [], {}
-    for page in INDEX_PAGES + INDEX_PAGES_OLD:
+    for page in INDEX_PAGES_OLD:
+        rows.extend(parse_index_old(root, page))
+    for page in INDEX_PAGES:
         path = os.path.join(root, page)
         if not os.path.exists(path):
             continue
@@ -161,9 +202,13 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
                 key = new_keys.setdefault(norm_name(name), 'name:' + norm_name(name))
                 how = 'name-only'
         else:
-            # 作者欄が `***` の編集部告知ブロック (旧目録 lib07#16) だけがここに来る
-            (notices if rec.get('entry_role') == 'notice' else unresolved).append(
-                rec['episode_id'])
+            # ここに来るのは (a) 作者欄が `***` の編集部告知ブロック (旧目録 lib07#16) と
+            # (b) 目録外収蔵で作者が特定できなかったもの (entry_role=unattributed)。
+            # どちらも「作者不詳」であって取りこぼしではない。
+            if rec.get('entry_role') in ('notice', 'unattributed'):
+                notices.append(rec['episode_id'])
+            else:
+                unresolved.append(rec['episode_id'])
             continue
         assign[rec['episode_id']] = (key, how)
 
@@ -287,7 +332,8 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
          [[a['slug'], a['display_variants']] for a in variant_groups[:20]]),
         ('shared_boards', sorted(shared)),
         ('episodes_unresolved_author', unresolved),
-        ('episodes_notice_no_author', notices),
+        ('episodes_no_author_by_design', notices),
+        ('episodes_no_author_by_design_count', len(notices)),
         ('episodes_assigned', len(assign)),
         ('ambiguous_name_to_board', ambiguous[:20]),
         ('ambiguous_name_to_board_count', len(ambiguous)),
@@ -328,12 +374,12 @@ def selftest(payload, report):
           not report['episodes_unresolved_author'],
           '未解決 %d 件 %s' % (len(report['episodes_unresolved_author']),
                               report['episodes_unresolved_author'][:5]))
-    check('episode の割り当て漏れ 0 (entry_role=notice を除く)',
-          report['episodes_assigned'] + len(report['episodes_notice_no_author'])
+    check('episode の割り当て漏れ 0 (作者不詳の告知/目録外を除く)',
+          report['episodes_assigned'] + report['episodes_no_author_by_design_count']
           == report['episodes'],
-          '%d + notice %d / %d' % (report['episodes_assigned'],
-                                   len(report['episodes_notice_no_author']),
-                                   report['episodes']))
+          '%d + 作者不詳 %d / %d' % (report['episodes_assigned'],
+                                     report['episodes_no_author_by_design_count'],
+                                     report['episodes']))
     slugs = [a['slug'] for a in payload['authors']]
     dup = [s for s, c in collections.Counter(slugs).items() if c > 1]
     check('slug の重複 0', not dup, '重複 %s' % dup[:5])

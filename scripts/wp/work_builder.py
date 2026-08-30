@@ -315,7 +315,8 @@ def build(root):
     for members in ordered:
         members.sort(key=episode_order_key)
         eids = [m['episode_id'] for m in members]
-        aslug = author_of.get(eids[0])
+        # 目録外収蔵で作者が特定できなかった話 (entry_role=unattributed) の受け皿
+        aslug = author_of.get(eids[0]) or 'unattributed'
         rules = set()
         for eid in eids:
             rules |= u.why.get(eid, set())
@@ -376,7 +377,7 @@ def build(root):
             ('work_slug', slug),
             ('title', work_title),
             ('author_slug', aslug),
-            ('author_display', author_name.get(eids[0])),
+            ('author_display', author_name.get(eids[0]) or '作者不詳'),
             ('episode_count', len(members)),
             ('corpora', dict(collections.Counter(m['corpus'] for m in members))),
             ('first_date', min((m.get('date') or '' for m in members), default=None)),

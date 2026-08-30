@@ -1,0 +1,17 @@
+{
+ "generated_by": "scripts/wp/repost_build.py",
+ "holding_dir": "/home/takano32/ts-novels-holding/stage_repost",
+ "items_declared": 2,
+ "patched_existing": [
+  "novel__200802__15232641__rainGirl.html"
+ ],
+ "added_extern_repost": [
+  "repost__pixiv__272830"
+ ],
+ "missing_inputs": [],
+ "bodies_written": [
+  "novel__200802__15232641__rainGirl.html",
+  "repost__pixiv__272830"
+ ],
+ "note": "holding の他の回収物は検証未完のため対象外 (進行台帳 8.4)"
+}

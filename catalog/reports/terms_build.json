@@ -1,6 +1,6 @@
 {
  "generated_by": "scripts/wp/terms_build.py",
- "episodes": 2984,
+ "episodes": 3844,
  "taxonomies": {
   "ts_genre": {
    "raw_tokens_distinct": 244,
@@ -53,12 +53,12 @@
    ]
   },
   "ts_keyword": {
-   "raw_tokens_distinct": 1083,
-   "terms": 1028,
+   "raw_tokens_distinct": 1087,
+   "terms": 1032,
    "core_terms": 74,
    "core_min_count": 10,
-   "core_coverage_pct": 69.45,
-   "tokens_total": 5427,
+   "core_coverage_pct": 69.4,
+   "tokens_total": 5432,
    "terms_with_description": 22,
    "vocab_page": "keyword.html",
    "vocab_page_terms": 38,
@@ -79,83 +79,11 @@
   }
  },
  "worlds": {
-  "kayo_chan": {
-   "name": "「華代ちゃん」シリーズ",
-   "count": 223,
-   "match_reasons": {
-    "board": 218,
-    "path": 5
-   }
-  },
-  "hunter": {
-   "name": "ハンターシリーズ",
+  "2daime": {
+   "name": "二代目シリーズ",
    "count": 12,
    "match_reasons": {
-    "title": 12
-   }
-  },
-  "himekami": {
-   "name": "妖魔夜行 姫神奇譚シリーズ",
-   "count": 41,
-   "match_reasons": {
-    "board": 41
-   }
-  },
-  "foster": {
-   "name": "次元管理人フォスターシリーズ",
-   "count": 21,
-   "match_reasons": {
-    "board": 21
-   }
-  },
-  "rental": {
-   "name": "「レンタル・ボディ」シリーズ",
-   "count": 17,
-   "match_reasons": {
-    "path": 16,
-    "board": 1
-   }
-  },
-  "mirror_ring": {
-   "name": "ミラーリングシリーズ",
-   "count": 2,
-   "match_reasons": {
-    "path": 2
-   }
-  },
-  "setsubou": {
-   "name": "「切望」シリーズ",
-   "count": 2,
-   "match_reasons": {
-    "board": 2
-   }
-  },
-  "dirty": {
-   "name": "ダーティーエンジェルシリーズ",
-   "count": 11,
-   "match_reasons": {
-    "board": 11
-   }
-  },
-  "sugar": {
-   "name": "シェアワールド「SugarSweets」",
-   "count": 1,
-   "match_reasons": {
-    "board": 1
-   }
-  },
-  "fms": {
-   "name": "FMS シリーズ",
-   "count": 4,
-   "match_reasons": {
-    "title": 4
-   }
-  },
-  "relay_novel": {
-   "name": "リレー小説",
-   "count": 8,
-   "match_reasons": {
-    "board": 8
+    "board": 12
    }
   },
   "delayed": {
@@ -165,11 +93,84 @@
     "board": 10
    }
   },
-  "2daime": {
-   "name": "二代目シリーズ",
-   "count": 12,
+  "dirty": {
+   "name": "ダーティーエンジェルシリーズ",
+   "count": 13,
    "match_reasons": {
-    "board": 12
+    "board": 11,
+    "path": 2
+   }
+  },
+  "fms": {
+   "name": "FMS シリーズ",
+   "count": 7,
+   "match_reasons": {
+    "title": 7
+   }
+  },
+  "foster": {
+   "name": "次元管理人フォスターシリーズ",
+   "count": 21,
+   "match_reasons": {
+    "board": 21
+   }
+  },
+  "himekami": {
+   "name": "妖魔夜行 姫神奇譚シリーズ",
+   "count": 41,
+   "match_reasons": {
+    "board": 41
+   }
+  },
+  "hunter": {
+   "name": "ハンターシリーズ",
+   "count": 21,
+   "match_reasons": {
+    "title": 21
+   }
+  },
+  "kayo_chan": {
+   "name": "「華代ちゃん」シリーズ",
+   "count": 243,
+   "match_reasons": {
+    "board": 218,
+    "path": 25
+   }
+  },
+  "mirror_ring": {
+   "name": "ミラーリングシリーズ",
+   "count": 2,
+   "match_reasons": {
+    "path": 2
+   }
+  },
+  "relay_novel": {
+   "name": "リレー小説",
+   "count": 8,
+   "match_reasons": {
+    "board": 8
+   }
+  },
+  "rental": {
+   "name": "「レンタル・ボディ」シリーズ",
+   "count": 28,
+   "match_reasons": {
+    "path": 27,
+    "board": 1
+   }
+  },
+  "setsubou": {
+   "name": "「切望」シリーズ",
+   "count": 2,
+   "match_reasons": {
+    "board": 2
+   }
+  },
+  "sugar": {
+   "name": "シェアワールド「SugarSweets」",
+   "count": 1,
+   "match_reasons": {
+    "board": 1
    }
   },
   "utanotsuki": {
@@ -181,11 +182,13 @@
   }
  },
  "worlds_total": 14,
- "episodes_with_world": 363,
+ "episodes_with_world": 408,
  "corpus_counts": {
   "honkan": 2887,
-  "legacy": 97
+  "legacy": 97,
+  "uncatalogued": 859,
+  "extern-repost": 1
  },
- "slug_pending_review": 1403,
+ "slug_pending_review": 3200,
  "pykakasi_available": true
 }

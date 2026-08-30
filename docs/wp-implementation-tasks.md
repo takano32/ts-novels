@@ -255,7 +255,7 @@
         全話の判定を `catalog/convert_report.jsonl` に記録
       - **受け入れ: 証明合格率 ≥85%(目標 90〜95%)・合格分の不変量違反 0・
         乱数抽出 20 話の目視比較で本文欠落なし**
-- [ ] 1.8 `scripts/wp/uncatalogued_build.py`: **目録外収蔵の収録** (設計 v1.4 の最大掲載原則)
+- [x] 1.8 `scripts/wp/uncatalogued_build.py`: **目録外収蔵の収録** (設計 v1.4 の最大掲載原則)
       - `novel/` 配下の本文ファイル 3,818 のうち、**871 本が lib1〜73 / lib01〜09 のどの
         エントリにも対応しない**(例: `novel/200009/17163907/the_heroine01.html`「ザ・ヒロイン」、
         `reborns_day.html`、`nanairo.html` — いずれもフラット期の実作品)
@@ -264,7 +264,23 @@
       - `corpus=uncatalogued` で区別し、メタの出所を `metadata_source` に記録する
       - **受け入れ: `novel/` 配下の本文ファイルで catalog に載らないものが 0**
         (意図的除外 = 目録・索引・ナビ等の非作品ファイルを除く。除外理由を機械可読に残すこと)
-- [ ] 1.9 保管中の pixiv 再掲 2 作を catalog に収録 (`~/ts-novels-holding/stage_repost/`)
+      - **1.8 実測 (2026-08-30)**: `novel/` の本文 **3,818 = 既収蔵 2,724 + 追加 859 +
+        意図的除外 235 (残 0)**。除外の内訳は既収蔵と md5 一致の別名コピー 58 /
+        シリーズタイトル・目次ページ 117 / CGI 並べ替えビュー 56 / サイト定型ページ 3 /
+        空 1 で、全部 `catalog/uncatalogued_excluded.jsonl` に理由つきで残る。
+        題名は 859 件すべて解決、作者は **823 件解決・36 件不詳** (`entry_role=unattributed`)。
+        メタの出所は lib-index 91 / 本文の「作：」行 216 / `<title>` 728 /
+        同ディレクトリの作者 466(+多数決 50) / ファイル名 40。
+      - **台帳の記述の訂正 2 点**:
+        (a) 「871 本」の実測は **859 本**。差は「既収蔵ファイルと md5 が一致する別名コピー」
+        58 件と「タイトル/目次ページ」117 件を作品として数えるかどうかの定義差
+        (b) **lib-index-1〜4.html は他の索引ページと列の並びが逆**で、作者セルが
+        `rowspan` で複数行にまたがる。同じパーサで読むと題名と作者がずれる
+        (実際 1 度ずれた)。旧世代版は専用パーサにした。索引の行数は
+        aa〜etc の 2,796 に旧世代 983 を足して **3,779 行**
+      - **date は概算**: 目録外の話には掲載日が無い。投稿ディレクトリ `novel/YYYYMM/` から
+        月初として起こし `date_precision: directory-batch` を立てた (フラット期の話は `unknown`)
+- [x] 1.9 保管中の pixiv 再掲 2 作を catalog に収録 (`~/ts-novels-holding/stage_repost/`)
       - **雨女**(おもちばこ) = 文庫の欠落 `novel/200802/15232641/rainGirl.html` に対応。
         本文は**作者本人の pixiv 再掲 (id 351985)** から取得。`provenance` に出所 `pixiv`・
         作品 id・取得日を必ず記録する
@@ -274,6 +290,14 @@
         段落分割 → paragraph ブロック化する
       - 同ディレクトリの他の回収物(きりか進ノ介さんの wiki 発掘 6 点、ライターマン「天女の末裔」、
         ヴァルキュリア外伝、城弾シアター版ディレイド 4/5 など)は**検証未完なので今回は収録しない**
+      - **1.9 実測 (2026-08-30)**: 雨女は既存の目録エントリ
+        `novel__200802__15232641__rainGirl.html` に本文 (`reposts/…txt`)・provenance
+        (route=pixiv・作品 id 351985・取得日)・`published_in_bunko: true` を**足した**
+        (新しい話は作っていない)。きらいなもの→ＧＷ は `repost__pixiv__272830` として
+        `corpus=extern-repost`・`published_in_bunko: false` で新規収録。
+        両方 `body_convert_exempt: true` (1.6 の対象外)。
+      - **補足**: pixiv のタグ 5 語 (オリジナル/TSF/SS/女性人格化/チェス) が
+        keywords に入るので、文庫の語彙に外部由来の語が 1 件分だけ混ざる
 - [ ] 1.7 `make catalog` で 1.1〜1.6 を一発実行できる Makefile。QA レポートを `catalog/QA.md` に
       (件数・合格率・needs_review 数・provenance 被覆率・特殊エントリ内訳)
 

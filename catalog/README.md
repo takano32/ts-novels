@@ -8,7 +8,8 @@ WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派�
 
 | ファイル | 生成元 | 内容 | 状態 |
 |---|---|---|---|
-| `episodes.jsonl` | `scripts/wp/catalog_build.py` | 正規目録 lib1〜73 の 2,887 エントリ + 旧目録 lib01〜09 の差分 97 件 (1 行 1 話) | ✅ タスク 1.1 / 1.2 |
+| `episodes.jsonl` | `catalog_build.py` → `uncatalogued_build.py` → `repost_build.py` | 全 3,844 話 = 本館 2,887 + 旧目録 97 + 目録外 859 + 文庫未掲載の再掲 1 | ✅ タスク 1.1 / 1.2 / 1.8 / 1.9 |
+| `uncatalogued_excluded.jsonl` | `uncatalogued_build.py` | 目録外走査で「作品ではない」と判定して落としたファイルと理由 | ✅ |
 | `reports/catalog_build.json` | 同上 | 件数・被覆率・自己検査結果の機械可読レポート | ✅ |
 | `terms.json` | `terms_build.py` | 分類語彙 6 本 (genre 196 / type 165 / keyword 1,028 / world 14 / corpus 4) | ✅ タスク 1.3 |
 | `genre_map.yml` / `type_map.yml` / `keyword_map.yml` / `world_map.yml` | 同上 (初回生成→以後は人手で編集) | 正規化マップと ts_world の判定規則 | ✅ |
@@ -38,7 +39,7 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | フィールド | 内容 |
 |---|---|
 | `episode_id` | 結合キー (episodes ↔ bodies/ ↔ convert_report ↔ import) |
-| `corpus` | `honkan` (lib1–73) / `legacy` (旧目録 lib01–09) |
+| `corpus` | `honkan` (lib1–73) / `legacy` (旧目録 lib01–09) / `uncatalogued` (目録に無い収蔵物) / `extern-repost` (文庫未掲載の作者再掲) |
 | `source_path` / `source_anchor` / `source_kind` | 原パス空間での位置。`source_kind` = local / external |
 | `source_exists` | その原パスがこのリポジトリ (=アネックス) に実在するか |
 | `source_shared_by` | 同じ原パスを指す目録エントリの数 (1 なら固有) |
@@ -83,6 +84,29 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 **dedup はパス単位** — 本館 (lib1–73) が同じ `source_path` を持つ旧目録エントリは
 (本館側がアンカー付き集約リンクや改訂再掲であっても) 重複として落とす。
 実測: 旧目録ブロック 336 → 本館重複 239 を除外 → **追加 97 件** (flat 75 / table 22)。
+
+## 目録外収蔵 (corpus=uncatalogued) の追加欄
+
+設計 v1.4「最大掲載原則」で拾った、目録のどのエントリにも対応しない `novel/` 配下の本文。
+
+| フィールド | 内容 |
+|---|---|
+| `metadata_source[]` | 題名・作者をどこから取ったか (`lib-index` / `body-credit` / `body-title` / `dir-author` / `dir-author-majority` / `filename`) |
+| `text_chars` | 本文テキストの文字数 (薄いページを人が見つけるため) |
+| `date_precision` | `directory-batch` = 投稿ディレクトリ `novel/YYYYMM/` から起こした概算 / `unknown` |
+| `entry_role` | `work` / `unattributed` (作者が特定できなかったもの。37 件) |
+
+**date は概算**。投稿ディレクトリ名は「作者の初回投稿バッチ」なので、
+`date_precision != 'exact'` の話の post_date は概算として扱うこと。
+
+## 作者本人の再掲 (corpus=extern-repost / body_source_path) の追加欄
+
+| フィールド | 内容 |
+|---|---|
+| `body_source_path` | 本文の在処 (`reposts/<episode_id>.txt`)。プレーンテキスト |
+| `body_format` / `body_convert_exempt` | `plain-text` / `true` = **1.6 の HTML→MD 変換の対象外**。Phase 3 で空行区切りの段落分割 |
+| `published_in_bunko` | `false` なら**文庫には一度も載っていない**。書誌カードに「文庫未掲載・pixiv 由来」と明示する |
+| `repost_url` | 再掲元 (pixiv 作品ページ) |
 
 ## provenance の出所について (台帳との差異)
 
