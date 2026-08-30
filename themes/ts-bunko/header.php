@@ -16,4 +16,5 @@
     </nav>
   </div>
 </header>
-<main class="ts-shell">
+<div class="ts-shell ts-layout">
+<main class="ts-main">

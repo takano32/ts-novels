@@ -1,4 +1,6 @@
 </main>
+<?php if (function_exists('ts_bunko_sidebar')) ts_bunko_sidebar(); ?>
+</div>
 <footer class="ts-site-footer">
   <div class="ts-shell">
     <nav aria-label="運営">

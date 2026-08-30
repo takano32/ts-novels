@@ -233,3 +233,31 @@ function ts_bunko_author_links($term) {
     }
     if ($links) echo '<p class="ts-author-links">' . implode('　·　', $links) . '</p>';
 }
+
+
+/** サイドバー: さくいん入口 + 検索窓 (ユーザ裁定 2026-08-31 — 右側に置く) */
+function ts_bunko_sidebar() {
+    $items = [
+        ['kana', '作者さくいん'], ['timeline', '年表'], ['bunrui', '分類さくいん'],
+        ['vocabulary', 'キーワードさくいん'], ['osusume', 'オススメの環'],
+        ['docs', '運営文書・資料'],
+    ];
+    echo '<aside class="ts-sidebar" aria-label="さがす">';
+    echo '<div class="ts-sidebar-block"><h2 class="ts-sidebar-title">さがす</h2>';
+    get_search_form();
+    echo '</div>';
+    echo '<nav class="ts-sidebar-block"><h2 class="ts-sidebar-title">さくいん</h2><ul>';
+    foreach ($items as [$slug, $label]) {
+        $here = get_query_var('ts_index') === $slug;
+        echo '<li><a href="' . esc_url(home_url("/index/$slug/")) . '"'
+            . ($here ? ' aria-current="page"' : '') . '>' . esc_html($label) . '</a></li>';
+    }
+    echo '</ul></nav>';
+    echo '<div class="ts-sidebar-block"><h2 class="ts-sidebar-title">この文庫について</h2><ul>';
+    foreach ([['/about/', 'このサイトについて'], ['/archive/', '原本アーカイブ'],
+              ['/takedown/', '掲載の取り下げ']] as [$path, $label]) {
+        echo '<li><a href="' . esc_url(home_url($path)) . '">' . esc_html($label) . '</a></li>';
+    }
+    echo '</ul></div>';
+    echo '</aside>';
+}

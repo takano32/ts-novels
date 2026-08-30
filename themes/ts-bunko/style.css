@@ -45,7 +45,28 @@ a { color: var(--ts-accent); text-decoration-thickness: 1px; text-underline-offs
 a:hover { text-decoration-thickness: 2px; }
 img { max-width: 100%; height: auto; }
 
-.ts-shell { max-width: 46em; margin: 0 auto; padding: 0 1rem 4rem; }
+.ts-shell { max-width: 62em; margin: 0 auto; padding: 0 1rem 4rem; }
+.ts-site-header .ts-shell, .ts-site-footer .ts-shell { max-width: 62em; }
+
+/* ---------- 2 カラム (本文 + 右サイドバー。ユーザ裁定 2026-08-31) ---------- */
+.ts-layout { display: grid; grid-template-columns: minmax(0, 1fr) 15em; gap: 2.5rem; align-items: start; }
+.ts-main { min-width: 0; }
+.ts-sidebar { position: sticky; top: 1rem; font-size: 0.9rem; padding-top: 1.4rem; }
+.ts-sidebar-block { margin-bottom: 1.6rem; }
+.ts-sidebar-title {
+  font-size: 0.8rem; letter-spacing: 0.08em; color: var(--ts-fg-soft);
+  margin: 0 0 0.5rem; font-weight: 600;
+}
+.ts-sidebar ul { list-style: none; margin: 0; padding: 0; line-height: 1.9; }
+.ts-sidebar a { text-decoration: none; color: var(--ts-fg); }
+.ts-sidebar a:hover { color: var(--ts-accent); text-decoration: underline; }
+.ts-sidebar a[aria-current="page"] { color: var(--ts-accent); font-weight: 600; }
+.ts-sidebar .ts-searchform { flex-direction: column; gap: 0.4rem; margin: 0; }
+@media (max-width: 820px) {
+  .ts-layout { grid-template-columns: 1fr; gap: 1rem; }
+  .ts-sidebar { position: static; border-top: 1px solid var(--ts-line); padding-top: 1.2rem; }
+  .ts-sidebar-block { display: inline-block; vertical-align: top; margin-right: 2rem; }
+}
 
 /* ---------- ヘッダ / フッタ ---------- */
 .ts-site-header { border-bottom: 1px solid var(--ts-line); }
