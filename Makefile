@@ -11,7 +11,9 @@
 # uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記する。
 # terms/authors/works はその出来上がった episodes.jsonl を読む。
 #
-# 1.6 body_convert (本文 Markdown 化) は未実装。実装したら BODY_CONVERT を有効にする。
+# 1.6 body_convert (本文 Markdown 化) は実装済み。下の ifneq は「スクリプトが無い環境でも
+# catalog は作れる」ための保険で、通常は必ず走る。出力先 bodies/ は .gitignore 済み
+# (git 管理外の派生物。実測 3,642 ファイル)。所要は 1.6 込みで約 44 秒。
 
 VENV    ?= .venv
 PYTHON  ?= $(if $(wildcard $(VENV)/bin/python),$(VENV)/bin/python,python3)

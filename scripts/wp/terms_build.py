@@ -111,14 +111,22 @@ DEFAULT_WORLD_MAP = {
     'utanotsuki': {'name': '詩の月シリーズ', 'boards': ['utanotsuki'], 'path_prefixes': []},
 }
 
-# ts_corpus — 収蔵区分。dojo / anthology は Phase 6 / 4.6 で使う枠を先に定義しておく。
+# ts_corpus — 収蔵区分。**語・表示名・意味は docs/glossary.md の corpus 表が正典**。
+# 実データ (catalog/episodes.jsonl の corpus 欄) に現れる値を必ず全部そろえること
+# (足りないと term を持たない話ができる。build() の末尾で自己検査している)。
+# dojo は Phase 6 で投入する枠を先に定義してあるだけで、実データにはまだ無い (count=0)。
 CORPUS_TERMS = [
     # term 名は WP 側の表示に出るので、内部用語の「本館」ではなく具体語で書く (docs/glossary.md)。
-    ('honkan', '正規目録 (lib1–73)', '1997–2014 の正規目録に載った収蔵作品'),
+    ('honkan', '正規目録 (lib1–73)', '正規目録 lib1–73 に載った収蔵作品'),
     ('legacy', '旧目録 (lib01–09)', '1997.11–2000.2 の旧形式目録にだけ載る初期史料'),
-    ('dojo', 'ストーリー道場 (2ndbbs)', '閉鎖後の姉妹サイトに投稿された作品 (Phase 6)'),
-    ('anthology', 'アンソロジー・特集', 'special/03summer など特集企画の収録作 (Phase 4.6)'),
+    ('uncatalogued', '目録外収蔵',
+     'ファイルは実在するがどの目録にも載っていない収蔵物 (設計 v1.4 最大掲載原則)'),
+    ('extern-repost', '文庫未掲載',
+     '作者の再掲載など外部由来。文庫に載ったことがない'),
+    ('dojo', 'ストーリー道場', '第二掲示板 2ndbbs に投稿された作品 (Phase 6 で追加)'),
 ]
+# Phase 6 以降に投入予定で、実データにまだ 1 件も無くてよい term (自己検査の除外リスト)。
+CORPUS_TERMS_PLANNED = {'dojo'}
 
 TAXONOMY_META = {
     'ts_genre': {'rewrite': 'genre', 'field': 'genre_raw', 'vocab_page': 'genre.html'},
@@ -271,6 +279,29 @@ def build_worlds(records, world_map):
                      'count': len(members), 'match_reasons': dict(reasons),
                      'episodes': members}
     return out
+
+
+# --------------------------------------------------------------------------- 自己検査
+
+def selftest(records, corpus_terms):
+    """受け入れ条件をコード化する。いま見ているのは corpus 語彙の被覆。"""
+    defined = [slug for slug, _, _ in corpus_terms]
+    used = collections.Counter(r['corpus'] for r in records)
+    missing = sorted(v for v in used if v not in defined)
+    unused = [s for s in defined if not used.get(s) and s not in CORPUS_TERMS_PLANNED]
+    dup = [s for s in defined if defined.count(s) > 1]
+    covered = sum(c for v, c in used.items() if v in defined)
+    results = [
+        ('全 episode の corpus 値に term がある',
+         not missing,
+         '被覆 %d/%d 話 / term の無い値 %s' % (covered, len(records), missing or 'なし')),
+        ('term はあるが実データが 0 件の corpus が無い (Phase 6 予定枠 %s を除く)'
+         % '/'.join(sorted(CORPUS_TERMS_PLANNED)),
+         not unused,
+         '空 term %s' % (unused or 'なし')),
+        ('corpus term の slug 重複 0', not dup, '重複 %s' % (dup or 'なし')),
+    ]
+    return all(ok for _, ok, _ in results), results
 
 
 # --------------------------------------------------------------------------- slug
@@ -434,11 +465,17 @@ def build(root, core_min=None):
         ('worlds_total', len(worlds)),
         ('episodes_with_world', len(world_index)),
         ('corpus_counts', dict(collections.Counter(r['corpus'] for r in records))),
+        ('corpus_terms', [{'slug': s, 'name': n,
+                           'count': sum(1 for r in records if r['corpus'] == s)}
+                          for s, n, _ in CORPUS_TERMS]),
         ('slug_pending_review', sum(slugmod.pending_count(overrides, sec)
                                     for sec in overrides if sec.startswith('terms_'))),
         ('slug_pending_review_all_sections', slugmod.pending_count(overrides)),
         ('pykakasi_available', slugmod.kakasi() is not None),
     ])
+    ok, results = selftest(records, CORPUS_TERMS)
+    report['selftest'] = [{'name': n, 'ok': o, 'detail': d} for n, o, d in results]
+    report['selftest_ok'] = ok
     return terms_json, report, overrides, overrides_path
 
 
@@ -459,11 +496,13 @@ def main(argv=None):
                rep['core_coverage_pct'], rep['terms_with_description']))
     print('ts_world    worlds=%d  episodes_with_world=%d' %
           (report['worlds_total'], report['episodes_with_world']))
-    print('ts_corpus   %s' % report['corpus_counts'])
+    print('ts_corpus   terms=%d  %s' % (len(report['corpus_terms']), report['corpus_counts']))
     print('slug 確認待ち (status != confirmed): %d 件  pykakasi=%s' %
           (report['slug_pending_review'], report['pykakasi_available']))
     if not slugmod.kakasi():
         print('  ! pykakasi が未導入。slug 候補が作れていません', file=sys.stderr)
+    for t in report['selftest']:
+        print('  [%s] %s %s' % ('OK ' if t['ok'] else 'NG ', t['name'], t['detail']))
 
     if not args.check:
         cat = os.path.join(root, 'catalog')
@@ -481,7 +520,7 @@ def main(argv=None):
         ])
         print('wrote catalog/terms.json, catalog/reports/terms_build.json, '
               'catalog/slug_overrides.yml')
-    return 0
+    return 0 if report['selftest_ok'] else 1
 
 
 if __name__ == '__main__':

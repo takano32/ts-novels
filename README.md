@@ -14,7 +14,9 @@
 
 ## 内容
 
-- **全 18,020 ファイル**（HTML／CGI 出力スナップショット／画像／音源／テキスト。
+- **全 18,006 ファイル**（HTML／CGI 出力スナップショット／画像／音源／テキスト。
+  数え方は git 管理ファイル総数 18,093 から作業用ツリー
+  `catalog/` `scripts/` `docs/` `takedown/` `reposts/` `.github/` の 87 を引いた「ミラー相当」。
   内訳の実測は [`docs/data-inventory.md`](docs/data-inventory.md) が正典）
 - トップページ `index.html`、目次 `lib*.html` / `lib-index-*.html`、作品本体 `novel/YYYYMM/<投稿ID>/<作品>.html`
 - Wayback の ts.novels.jp ミラー（status 200 全 3,828 件）に加え、複数の手段で **計 約11,000 ページ以上を追加回収**:

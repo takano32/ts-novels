@@ -189,7 +189,52 @@
   "uncatalogued": 859,
   "extern-repost": 1
  },
+ "corpus_terms": [
+  {
+   "slug": "honkan",
+   "name": "正規目録 (lib1–73)",
+   "count": 2887
+  },
+  {
+   "slug": "legacy",
+   "name": "旧目録 (lib01–09)",
+   "count": 97
+  },
+  {
+   "slug": "uncatalogued",
+   "name": "目録外収蔵",
+   "count": 859
+  },
+  {
+   "slug": "extern-repost",
+   "name": "文庫未掲載",
+   "count": 1
+  },
+  {
+   "slug": "dojo",
+   "name": "ストーリー道場",
+   "count": 0
+  }
+ ],
  "slug_pending_review": 1407,
  "slug_pending_review_all_sections": 3201,
- "pykakasi_available": true
+ "pykakasi_available": true,
+ "selftest": [
+  {
+   "name": "全 episode の corpus 値に term がある",
+   "ok": true,
+   "detail": "被覆 3844/3844 話 / term の無い値 なし"
+  },
+  {
+   "name": "term はあるが実データが 0 件の corpus が無い (Phase 6 予定枠 dojo を除く)",
+   "ok": true,
+   "detail": "空 term なし"
+  },
+  {
+   "name": "corpus term の slug 重複 0",
+   "ok": true,
+   "detail": "重複 なし"
+  }
+ ],
+ "selftest_ok": true
 }

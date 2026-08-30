@@ -385,7 +385,7 @@
       (c) 挿入は ssh 経由のサーバ上編集で行い、**既存 .htaccess 全文をローカルに保存・コミットしない**
       (d) 直後に無関係 URL 1 本の 200 と `X-Robots-Tag` ヘッダを curl(バスター付)で確認、
       失敗時は .bak を戻す
-- [ ] 2.7 novel/ 画像 1,195 点(約 59MB)を `public_html/assets/annex-img/` に相対構造ごと rsync
+- [ ] 2.7 novel/ 画像 **1,196 点**(約 59MB。数え方: `git ls-files novel` の `.jpg` 562 + `.gif` 614 + `.png` 19 + `.bmp` 1)を `public_html/assets/annex-img/` に相対構造ごと rsync
 
 ## Phase 3 — 本文投入(目安 2 週)
 

@@ -249,6 +249,7 @@ make deploy    # wrangler pages deploy dist/site
 **前提認識**: 権利者の明示許諾がない黙認+削除即応ベースの運用であり、WP 化は「編集・再公開」の色を強める。緩和策を設計に固定する:
 
 > **【失効】** v1.3 により前提を変更 — 本プロジェクトは**八重洲メディアリサーチ(文庫設立者)の依頼による公認リブート**であり、「黙認ベース」ではない(ただし個別作品の著作権は各原著者にあるので、以下の緩和策 1〜4・削除 72h SLA・PII マスク・BBS 層の恒久 noindex はそのまま維持する)。
+
 1. 本文無改変原則 (raw wp:html。同一性保持権への配慮を形にする) + 全ページに作者名・初出日・出所 (回収経路) 明記 (氏名表示・出所明示) + 原本への常設リンク
    > **【失効】** v1.2 A により「raw wp:html による無改変」は「**無損失証明つき Markdown + 書誌カードからの原本ワンクリック**」に変更(同一性保持権への配慮は、機械証明ログと無改変原本の常設で raw 方式と同等以上に立つという判断)。
 2. 広告・収益化・寄付・外部送信プラグイン一切なし (非営利が黙認の生命線)
@@ -284,7 +285,7 @@ make deploy    # wrangler pages deploy dist/site
 | **0. 方針とガバナンス** | 1–2 週 | takedown フロー文書化、denylist.yml スキーマ、robots.txt 草案、ランブック骨子、作者連絡台帳初期化 (MEMORY 連絡経路)、ドメイン/ホスト決定 | 公開ポリシー文書一式、takedown/denylist.yml (空)、docs/removal-runbook.md v0 |
 | **1. catalog 確立** | 2–3 週 | parse_lib.py / extract_taxonomy.py / author_inventory.py / inventory.json / board_index.json を scripts/wp/ へ移植・統合。catalog_build + work_builder。**Work クラスタの人手確認 (needs_review 100–200 件) が最重量タスク**。正規化マップ人手レビュー。旧目録差分確定 | catalog/*.jsonl 一式、QA レポート (2,887 件・パース率 100% 検証)、work_overrides.yml |
 | **2. WP 骨格+メタ全量先行投入** | 2 週 | docker 環境、mu-plugin v0.1 (CPT/タクソノミー/メタ/wp ts コマンド)、パイロット 100 件→全量メタ投入、**冪等性テスト (2 連続実行で差分ゼロ)**、annex_build v0.1、make publish 開通 → **全域 noindex で限定公開**。本文なしでも目録・索引・作者ページが成立する **A 案相当の中間形** (reader-ux 案のマイルストーンを正式採用 — 作者連絡の反応が悪ければここで凍結できる退路) | 動く限定公開サイト (メタポータル+別館)、path_map.json |
-| **3. 本文投入 (raw)** | 2 週 | body_extract、全話 wp:html 投入、eyecatch 109 件 sideload、無作為 100 件の原本併読 QA、`_ts_reflow_mode` 全件分類 | 全話が読める限定公開サイト、reflow 台帳レポート |
+| **3. 本文投入 (raw)** | 2 週 | body_extract、全話 wp:html 投入、eyecatch sideload (実体 4 ファイル・参照 15 話。「109 件」は参照回数)、無作為 100 件の原本併読 QA、`_ts_reflow_mode` 全件分類 | 全話が読める限定公開サイト、reflow 台帳レポート |
 | **4. テーマ・索引・読書 UX** | 2–3 週 | ts-bunko テーマ、リーダー UI (しおり/←→/ダーク)、五十音・年表・bunrui・語彙・osusume 索引、Pagefind ファセット検索、書誌カード | 通読可能な β サイト (noindex のまま) |
 | **5. 権利ゲートと段階解禁** | 作者返信次第 (Phase 3 以降並行) | 作者連絡発送、現役回収 18 ページの許諾確認 (未許諾は denylist)、/takedown/ 稼働、削除リハーサル (テスト作品で四層削除演習)、完了後に本館のみ index 解禁+sitemap | 公開サイト v1、連絡記録台帳、演習記録 |
 | **6. コミュニティ史料層 (順次)** | 順次 | ts_dojo 取込 (スパム除外ログ付き)、noteky f_0 非曖昧マッチ表示、/annex/ ギャラリー案内。任意: 許諾作者分の段落ブロック昇格 (_ts_reflow_mode 台帳から)、kansou 構造化タブ (要決定) | community 取込一式 |
@@ -309,7 +310,7 @@ make deploy    # wrangler pages deploy dist/site
 | 動的 WP 常時公開 vs 静的書き出し | **非公開オリジン+静的書き出し** | 10 年放置耐性・攻撃面消滅。コメント閉鎖・GET 検索のみなので失うものがない |
 | 旧 URL 互換の方式 | **原パス空間をドキュメントルートに保持し WP を予約名前空間に重ねる静的マージ。リダイレクト表なし** | preservation の nginx 素通しの利点を、VPS なしで達成。3,900 行のリダイレクト DB も _redirects スタブも不要 |
 | ホスティング | **Cloudflare Pages (ヘッダ制御+Functions で 410)。GitHub Pages 単独は不可** | X-Robots-Tag・410 が takedown SLA と段階 noindex の実装要件 (審査員3) |
-| 画像の置き場 | **別館の正本を絶対 URL 参照。eyecatch 109 件のみ featured image** | DB 肥大・再インポート増殖の回避 (審査員1・2 が採用指示) |
+| 画像の置き場 | **別館の正本を絶対 URL 参照。eyecatch のみ featured image**(実体 4 ファイル・参照 15 話) | DB 肥大・再インポート増殖の回避 (審査員1・2 が採用指示) |
 | kansou 2,866 件 | **当面リンクのみ。コメント化も構造化表示もしない** | 作者単位板の作品コメント偽装は史料の改竄 (全審査員一致) |
 | 新規コメント/guestbook | **全面閉鎖。guestbook も置かない** | rounge 94% スパム化の実績。静的方針との矛盾 (審査員1・2) |
 | takedown 窓口の形態 | **メール+フォーム転送のみ。GitHub Issue 不採用** | 依頼者の身元・依頼内容を公開の場に晒す設計ミス (審査員1・3) |
@@ -360,7 +361,7 @@ make deploy    # wrangler pages deploy dist/site
 | ツール | WP-CLI 2.8.1・mysql・rsync・git・curl・python3.6 が最初から利用可 |
 | .htaccess | `Header set X-Robots-Tag` ✓ / `Redirect gone`(真の 410)✓ / mod_rewrite ✓ / `~`・`@` を含むパス ✓ — いずれも本番 URL で検証済み |
 | **致命制約** | **ファイル名に `.cgi` を含む URL は前段 nginx が一律 403**。RemoveHandler・改名 (`.cgi.html`)・RewriteRule のいずれでも回避不能 (Apache に届かない)。ミラーの **9,022 ファイル**が該当(フルパスに `.cgi` セグメントを含む数え方。**basename 基準なら 9,021** — `docs/data-inventory.md` §7) |
-| 規模感 | ミラー全体 427MB / novel/ 画像 1,195 点 56MB / ホスト側ディスクは十分 |
+| 規模感 | ミラー全体 427MB / novel/ 画像 1,196 点 56MB / ホスト側ディスクは十分 |
 
 ## 再設計の決定
 

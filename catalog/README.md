@@ -6,25 +6,32 @@ WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派�
 用語は [`../docs/glossary.md`](../docs/glossary.md) が正典
 (**本館** = 移築先の WordPress / **別館** = 原本を保つ GitHub Pages ミラー / **旧館** = 消滅した原サイト。
 いずれも内部用語で、読者に見せる文面では使わない)。
-**注意**: 本書で `corpus` の値として出てくる「本館」は **corpus `honkan` = 正規目録 lib1–73 由来**という
-収蔵区分の名前であって、移築先 WordPress を指す「本館」ではない。
+**注意**: corpus の値 `honkan` は「**正規目録 lib1–73 由来**」という収蔵区分の名前であって、
+移築先 WordPress を指す三館の「本館」ではない。混同を避けるため、本書と `catalog/QA.md` では
+`honkan` を日本語で書くとき必ず「正規目録 (lib1–73)」と表記する(glossary の corpus 表が正典)。
+
+**本書の数値は 2026-08-30 の実測**(数え方は各行に添えてある)。生成物が正で、食い違ったら
+`make catalog` を流し直して本書を直すこと。
 
 ## ファイル
 
 | ファイル | 生成元 | 内容 | 状態 |
 |---|---|---|---|
-| `episodes.jsonl` | `catalog_build.py` → `uncatalogued_build.py` → `repost_build.py` | 全 3,844 話 = 本館 2,887 + 旧目録 97 + 目録外 859 + 文庫未掲載の再掲 1 | ✅ タスク 1.1 / 1.2 / 1.8 / 1.9 |
+| `episodes.jsonl` | `catalog_build.py` → `uncatalogued_build.py` → `repost_build.py` | 全 3,844 話 = 正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載の再掲 1(数え方: `episodes.jsonl` の行数と `corpus` 欄の内訳) | ✅ タスク 1.1 / 1.2 / 1.8 / 1.9 |
 | `uncatalogued_excluded.jsonl` | `uncatalogued_build.py` | 目録外走査で「作品ではない」と判定して落としたファイルと理由 | ✅ |
 | `reports/catalog_build.json` | 同上 | 件数・被覆率・自己検査結果の機械可読レポート | ✅ |
-| `terms.json` | `terms_build.py` | 分類語彙 6 本 (genre 196 / type 165 / keyword 1,028 / world 14 / corpus 4) | ✅ タスク 1.3 |
+| `terms.json` | `terms_build.py` | 分類語彙 5 本 (genre 196 / type 165 / keyword 1,032 / world 14 / corpus 5)。数え方: `terms.json` の各 taxonomy の `terms` 配列長。WP のタクソノミーは `ts_author` を足して 6 本だが、作者語彙は `authors.json` 側 | ✅ タスク 1.3 |
 | `genre_map.yml` / `type_map.yml` / `keyword_map.yml` / `world_map.yml` | 同上 (初回生成→以後は人手で編集) | 正規化マップと ts_world の判定規則 | ✅ |
 | `slug_overrides.yml` | `terms_build.py` / `authors_build.py` / `work_builder.py` | 恒久 URL slug の確認台帳 (👤 1.5b) | ⏳ 確認待ち |
-| `authors.json` | `authors_build.py` | 作者 333 名 (表示名 413 種を感想板 id で統合) | ✅ タスク 1.4 |
-| `works.jsonl` / `work_overrides.yml` | `work_builder.py` | Episode → Work クラスタ 1,156 件 (orphan 0) | ✅ タスク 1.5 |
-| `convert_report.jsonl` | `body_convert.py` | 本文 MD 変換の無損失証明ログ | ⏳ タスク 1.6 |
+| `authors.json` | `authors_build.py` | 作者 342 名 (表示名 428 種を感想板 id で統合)。数え方: `authors.json` の `authors` 配列長 / `reports/authors_build.json` の `display_name_strings_distinct` | ✅ タスク 1.4 |
+| `works.jsonl` / `work_overrides.yml` | `work_builder.py` | Episode → Work クラスタ 1,463 件 (単発 946 / 連載 517、orphan 0、needs_review 328)。数え方: `works.jsonl` の行数 | ✅ タスク 1.5 |
+| `convert_report.jsonl` | `body_convert.py` | 本文 MD 変換の無損失証明ログ (全 3,844 話分の判定) | ✅ タスク 1.6 |
 | `QA.md` | `qa_report.py` (`make catalog` の最後) | 全体の QA レポート | ✅ タスク 1.7 |
 
 本文 Markdown の置き場はリポジトリ直下の `bodies/`(catalog の下ではない)。
+**実測 3,642 ファイル**(数え方: `ls bodies/*.md | wc -l`。変換対象 3,644 のうち証明合格
+3,642 = 99.95%、raw フォールバック 2。本文の原本が未回収の 200 話には `.md` が無い)。
+`bodies/` は `.gitignore` 済みで **git 管理外**(`make catalog` でいつでも再生成できる派生物)。
 
 ## 再生成
 
@@ -66,7 +73,7 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | `inline_links[]` | 本文欄の 【】 でないリンク |
 | `genre[]` `type[]` `keywords[]` | NFKC 正規化後のトークン |
 | `genre_raw[]` `type_raw[]` `keywords_raw[]` | 原表記 (史料性の担保 + 1.3 の頻度集計用) |
-| `zokusei[]` | 旧目録の【属性】欄。本館エントリでは常に空 |
+| `zokusei[]` | 旧目録の【属性】欄。正規目録 (`honkan`) のエントリでは常に空 |
 | `catalog_ref` | 出典 (`lib17.html#12`)。情報メタであり結合キーではない |
 | `orig_url` | 当時の URL (`http://ts.novels.jp/…`) |
 | `annex_url` | GitHub Pages (別館) の原本 URL (実在する場合のみ) |
@@ -82,7 +89,7 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | `title_raw` | ［…］ 括弧を外す前の原表記 |
 | `legacy_credit_raw` | `作・A ／ 画・B` のクレジット原文 (lib01–06 は作者欄が独立していない) |
 | `date_precision` | `exact` = 目録に年がある (lib07–09 の `YY/M/D`) / `range-derived` = 日付欄が `M/D` のみで、ページ見出しの収録期間から年を一意に決めた / `range-clamped` = 期間外の日付を最寄りの年に寄せた |
-| `noteky_url` `noteky_id` | lib07–09 の感想リンク。本館の作者別板 (`bbs@log_<id>.cgi`) と違い**作品単位のノート** (`~ezpe/cgi-bin/noteky/…`) |
+| `noteky_url` `noteky_id` | lib07–09 の感想リンク。正規目録の作者別板 (`bbs@log_<id>.cgi`) と違い**作品単位のノート** (`~ezpe/cgi-bin/noteky/…`) |
 | `zokusei` `zokusei_raw` | 【属性】欄 (lib07–09 のみ) |
 | `legacy_format` | `flat` (lib01–06 の非テーブル) / `table` (lib07–09 の移行期テーブル) |
 | `entry_role` | `work` / `notice` (作者欄が `***` の編集部告知ブロック。現状 1 件) |
@@ -92,9 +99,9 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 `kansou_slug` / `kansou_annex_url` / `osusume` / `weekday` は legacy では常に null、
 `size_kb` も CG エントリでは null になる。
 
-**dedup はパス単位** — 本館 (lib1–73) が同じ `source_path` を持つ旧目録エントリは
-(本館側がアンカー付き集約リンクや改訂再掲であっても) 重複として落とす。
-実測: 旧目録ブロック 336 → 本館重複 239 を除外 → **追加 97 件** (flat 75 / table 22)。
+**dedup はパス単位** — 正規目録 (lib1–73) が同じ `source_path` を持つ旧目録エントリは
+(正規目録側がアンカー付き集約リンクや改訂再掲であっても) 重複として落とす。
+実測: 旧目録ブロック 336 → 正規目録と重複 239 を除外 → **追加 97 件** (flat 75 / table 22)。
 
 ## 目録外収蔵 (corpus=uncatalogued) の追加欄
 
@@ -105,7 +112,7 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | `metadata_source[]` | 題名・作者をどこから取ったか (`lib-index` / `body-credit` / `body-title` / `dir-author` / `dir-author-majority` / `filename`) |
 | `text_chars` | 本文テキストの文字数 (薄いページを人が見つけるため) |
 | `date_precision` | `directory-batch` = 投稿ディレクトリ `novel/YYYYMM/` から起こした概算 / `unknown` |
-| `entry_role` | `work` / `unattributed` (作者が特定できなかったもの。37 件) |
+| `entry_role` | `work` / `unattributed` (作者が特定できなかったもの。**36 件**。数え方: `episodes.jsonl` の `entry_role == "unattributed"` の行数。旧目録の編集部告知 `notice` 1 件を足した 37 が「作者不詳」の総数) |
 
 **date は概算**。投稿ディレクトリ名は「作者の初回投稿バッチ」なので、
 `date_precision != 'exact'` の話の post_date は概算として扱うこと。

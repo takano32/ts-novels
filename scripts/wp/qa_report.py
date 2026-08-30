@@ -45,7 +45,7 @@ def main(argv=None):
     trm = load(root, 'terms_build.json')
     aut = load(root, 'authors_build.json')
     wrk = load(root, 'work_builder.json')
-    cnv = load(root, 'convert_report.json')
+    cnv = load(root, 'body_convert.json')       # 1.6 のサマリ (ファイル名は body_convert.json)
 
     episodes = [json.loads(line) for line in
                 open(os.path.join(root, 'catalog', 'episodes.jsonl'), encoding='utf-8')]
@@ -72,9 +72,11 @@ def main(argv=None):
     L.append('## 1. 収蔵件数\n')
     L.append(table([
         ('episodes 合計', len(episodes)),
-        ('　本館 (`honkan`、正規目録 lib1–73)', corpora.get('honkan', 0)),
+        # 表示名は docs/glossary.md の corpus 表が正典。`honkan` を「本館」とは書かない
+        # (三館の「本館」= 移築先 WordPress と別概念のため)。
+        ('　正規目録 (`honkan`、lib1–73)', corpora.get('honkan', 0)),
         ('　旧目録 (`legacy`、lib01–09 の差分)', corpora.get('legacy', 0)),
-        ('　目録外 (`uncatalogued`、設計 v1.4)', corpora.get('uncatalogued', 0)),
+        ('　目録外収蔵 (`uncatalogued`、設計 v1.4)', corpora.get('uncatalogued', 0)),
         ('　文庫未掲載の作者再掲 (`extern-repost`)', corpora.get('extern-repost', 0)),
         ('works (作品クラスタ)', wrk['works'] if wrk else '—'),
         ('　単発 / 連載', '%d / %d' % (wrk['works_single_episode'], wrk['works_multi_episode'])
@@ -85,17 +87,19 @@ def main(argv=None):
 
     L.append('## 2. パースの健全性\n')
     L.append(table([
-        ('本館のパース失敗', cbr['parse_failures'] if cbr else '—'),
+        ('正規目録 (lib1–73) のパース失敗', cbr['parse_failures'] if cbr else '—'),
         ('旧目録ブロック / パース失敗', '%d / %d' % (cbr['legacy']['blocks_parsed'],
                                                     cbr['legacy']['parse_failures'])
          if cbr else '—'),
-        ('旧目録: 本館と重複で除外 / 追加', '%d / %d' % (
+        ('旧目録: 正規目録と重複で除外 / 追加', '%d / %d' % (
             cbr['legacy']['dropped_as_honkan_duplicate'], cbr['legacy']['added'])
          if cbr else '—'),
         ('episode_id の重複', 0),
         ('mailto 由来アドレスの残存', 0),
         ('自己検査 (catalog_build)', 'すべて OK' if cbr and cbr['selftest_ok'] else '**要確認**'),
         ('自己検査 (authors_build)', 'すべて OK' if aut and aut.get('selftest_ok')
+         else '**要確認**'),
+        ('自己検査 (terms_build)', 'すべて OK' if trm and trm.get('selftest_ok')
          else '**要確認**'),
     ]))
     if cbr and not cbr['selftest_ok']:
@@ -131,8 +135,16 @@ def main(argv=None):
                 tax, r['raw_tokens_distinct'], r['terms'], r['core_terms'],
                 r['core_coverage_pct']))
         L.append('\n'.join(rows) + '\n')
-        L.append('\n共有世界 (`ts_world`) %d 本 / 該当 %d 話。収蔵区分 (`ts_corpus`) %s。\n'
-                 % (trm['worlds_total'], trm['episodes_with_world'], trm['corpus_counts']))
+        L.append('\n共有世界 (`ts_world`) %d 本 / 該当 %d 話。\n'
+                 % (trm['worlds_total'], trm['episodes_with_world']))
+        L.append('\n収蔵区分 (`ts_corpus`) — 語と表示名は `docs/glossary.md` の corpus 表が正典:\n')
+        crows = ['| term | 表示名 | 話数 |', '|---|---|---:|']
+        for t in trm.get('corpus_terms') or []:
+            crows.append('| `%s` | %s | %d |' % (t['slug'], t['name'], t['count']))
+        L.append('\n'.join(crows) + '\n')
+        for t in trm.get('selftest') or []:
+            L.append('\n- [%s] %s — %s' % ('OK' if t['ok'] else '**NG**', t['name'], t['detail']))
+        L.append('')
     else:
         L.append('_未実行_\n')
 
@@ -152,8 +164,8 @@ def main(argv=None):
     L.append('## 6. 回収経路 (provenance) の被覆率\n')
     L.append(table([
         ('provenance あり', '%d / %d (%s)' % (prov, len(episodes), pct(prov, len(episodes)))),
-        ('本館の被覆率', '%s%%' % cbr['provenance_coverage_pct'] if cbr else '—'),
-        ('経路の内訳 (本館)', cbr['provenance_routes'] if cbr else '—'),
+        ('正規目録分の被覆率', '%s%%' % cbr['provenance_coverage_pct'] if cbr else '—'),
+        ('経路の内訳 (正規目録分)', cbr['provenance_routes'] if cbr else '—'),
         ('出所', 'git 履歴 (回収コミットの件名と日付)。collinfo.json ではない'),
     ]))
 
@@ -169,12 +181,27 @@ def main(argv=None):
 
     L.append('## 8. 本文 Markdown 変換 (タスク 1.6)\n')
     if cnv:
-        L.append(table([('証明合格率', cnv.get('pass_rate', '—')),
-                        ('合格', cnv.get('passed', '—')),
-                        ('raw フォールバック', cnv.get('fallback', '—'))]))
+        st = cnv.get('status') or {}
+        acc = cnv.get('acceptance') or {}
+        # 実ファイル数だけは照合のためここで数える (レポートとの食い違いを検出するため)。
+        bodies_dir = os.path.join(root, 'bodies')
+        bodies_files = (len([n for n in os.listdir(bodies_dir) if n.endswith('.md')])
+                        if os.path.isdir(bodies_dir) else 0)
+        L.append(table([
+            ('変換対象 (convertible)', cnv.get('convertible', '—')),
+            ('　MD 正準に昇格 (無損失証明に合格)', st.get('md', '—')),
+            ('　raw フォールバック (不合格)', st.get('raw-fallback', '—')),
+            ('本文の原本が未回収 (`no-source`)', st.get('no-source', '—')),
+            ('証明合格率', '%s%%' % cnv.get('md_rate_pct', '—')),
+            ('合格分の不変量違反', acc.get('invariant violations among md', '—')),
+            ('受け入れ (合格率 ≥85%)', 'OK' if acc.get('>=85% of convertible') else '**要確認**'),
+            ('`bodies/*.md` の実ファイル数 (照合)',
+             '%d%s' % (bodies_files,
+                       '' if bodies_files == st.get('md') else ' ← レポートと不一致')),
+        ]))
+        L.append('\n変換モードの内訳: %s\n' % cnv.get('modes', '—'))
     else:
-        L.append('_未実装 (タスク 1.6)。`bodies/` はまだ空。'
-                 '作者再掲のプレーンテキストのみ `reposts/` にある_\n')
+        L.append('_未実行 — `catalog/reports/body_convert.json` が無い_\n')
 
     L.append('## 9. 人間の確認待ち (👤 1.5b)\n')
     L.append(table([

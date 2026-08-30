@@ -7,9 +7,9 @@
 | 項目 | 値 |
 |---|---:|
 | episodes 合計 | 3844 |
-| 　本館 (`honkan`、正規目録 lib1–73) | 2887 |
+| 　正規目録 (`honkan`、lib1–73) | 2887 |
 | 　旧目録 (`legacy`、lib01–09 の差分) | 97 |
-| 　目録外 (`uncatalogued`、設計 v1.4) | 859 |
+| 　目録外収蔵 (`uncatalogued`、設計 v1.4) | 859 |
 | 　文庫未掲載の作者再掲 (`extern-repost`) | 1 |
 | works (作品クラスタ) | 1463 |
 | 　単発 / 連載 | 946 / 517 |
@@ -20,13 +20,14 @@
 
 | 項目 | 値 |
 |---|---:|
-| 本館のパース失敗 | 0 |
+| 正規目録 (lib1–73) のパース失敗 | 0 |
 | 旧目録ブロック / パース失敗 | 336 / 0 |
-| 旧目録: 本館と重複で除外 / 追加 | 239 / 97 |
+| 旧目録: 正規目録と重複で除外 / 追加 | 239 / 97 |
 | episode_id の重複 | 0 |
 | mailto 由来アドレスの残存 | 0 |
 | 自己検査 (catalog_build) | すべて OK |
 | 自己検査 (authors_build) | すべて OK |
+| 自己検査 (terms_build) | すべて OK |
 
 ## 3. 目録外収蔵 (タスク 1.8)
 
@@ -60,7 +61,25 @@
 | `ts_keyword` | 1087 | 1032 | 74 | 69.4% |
 
 
-共有世界 (`ts_world`) 14 本 / 該当 408 話。収蔵区分 (`ts_corpus`) {'honkan': 2887, 'legacy': 97, 'uncatalogued': 859, 'extern-repost': 1}。
+共有世界 (`ts_world`) 14 本 / 該当 408 話。
+
+
+収蔵区分 (`ts_corpus`) — 語と表示名は `docs/glossary.md` の corpus 表が正典:
+
+| term | 表示名 | 話数 |
+|---|---|---:|
+| `honkan` | 正規目録 (lib1–73) | 2887 |
+| `legacy` | 旧目録 (lib01–09) | 97 |
+| `uncatalogued` | 目録外収蔵 | 859 |
+| `extern-repost` | 文庫未掲載 | 1 |
+| `dojo` | ストーリー道場 | 0 |
+
+
+- [OK] 全 episode の corpus 値に term がある — 被覆 3844/3844 話 / term の無い値 なし
+
+- [OK] term はあるが実データが 0 件の corpus が無い (Phase 6 予定枠 dojo を除く) — 空 term なし
+
+- [OK] corpus term の slug 重複 0 — 重複 なし
 
 ## 5. Work クラスタ (タスク 1.5)
 
@@ -78,8 +97,8 @@
 | 項目 | 値 |
 |---|---:|
 | provenance あり | 3646 / 3844 (94.85%) |
-| 本館の被覆率 | 93.35% |
-| 経路の内訳 (本館) | {'wayback': 2466, 'live-site': 103, 'other': 29, 'commoncrawl': 77, 'narou': 3, 'megalodon': 15, 'pixiv': 1, 'yays-gapfill': 1} |
+| 正規目録分の被覆率 | 93.35% |
+| 経路の内訳 (正規目録分) | {'wayback': 2466, 'live-site': 103, 'other': 29, 'commoncrawl': 77, 'narou': 3, 'megalodon': 15, 'pixiv': 1, 'yays-gapfill': 1} |
 | 出所 | git 履歴 (回収コミットの件名と日付)。collinfo.json ではない |
 
 ## 7. 特殊エントリの内訳
@@ -105,7 +124,19 @@
 
 ## 8. 本文 Markdown 変換 (タスク 1.6)
 
-_未実装 (タスク 1.6)。`bodies/` はまだ空。作者再掲のプレーンテキストのみ `reposts/` にある_
+| 項目 | 値 |
+|---|---:|
+| 変換対象 (convertible) | 3644 |
+| 　MD 正準に昇格 (無損失証明に合格) | 3642 |
+| 　raw フォールバック (不合格) | 2 |
+| 本文の原本が未回収 (`no-source`) | 200 |
+| 証明合格率 | 99.95% |
+| 合格分の不変量違反 | 0 |
+| 受け入れ (合格率 ≥85%) | OK |
+| `bodies/*.md` の実ファイル数 (照合) | 3642 |
+
+
+変換モードの内訳: {'br-para': 3523, '-': 200, 'table': 86, 'hardwrap': 17, 'image-work': 17, 'plain-text': 1}
 
 ## 9. 人間の確認待ち (👤 1.5b)
 

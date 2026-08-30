@@ -17145,7 +17145,7 @@
      "name": "正規目録 (lib1–73)",
      "count": 2887,
      "core": true,
-     "description": "1997–2014 の正規目録に載った収蔵作品"
+     "description": "正規目録 lib1–73 に載った収蔵作品"
     },
     {
      "slug": "legacy",
@@ -17155,18 +17155,25 @@
      "description": "1997.11–2000.2 の旧形式目録にだけ載る初期史料"
     },
     {
-     "slug": "dojo",
-     "name": "ストーリー道場 (2ndbbs)",
-     "count": 0,
+     "slug": "uncatalogued",
+     "name": "目録外収蔵",
+     "count": 859,
      "core": true,
-     "description": "閉鎖後の姉妹サイトに投稿された作品 (Phase 6)"
+     "description": "ファイルは実在するがどの目録にも載っていない収蔵物 (設計 v1.4 最大掲載原則)"
     },
     {
-     "slug": "anthology",
-     "name": "アンソロジー・特集",
+     "slug": "extern-repost",
+     "name": "文庫未掲載",
+     "count": 1,
+     "core": true,
+     "description": "作者の再掲載など外部由来。文庫に載ったことがない"
+    },
+    {
+     "slug": "dojo",
+     "name": "ストーリー道場",
      "count": 0,
      "core": true,
-     "description": "special/03summer など特集企画の収録作 (Phase 4.6)"
+     "description": "第二掲示板 2ndbbs に投稿された作品 (Phase 6 で追加)"
     }
    ]
   }
