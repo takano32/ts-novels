@@ -30,7 +30,8 @@
 - 構成: nginx キャッシュ → Apache(.htaccess 有効)→ PHP。`Header set X-Robots-Tag` ✓・
   `Redirect gone`(410)✓・rewrite ✓ は本番検証済み
 - **地雷: ファイル名に `.cgi` を含む URL は前段 nginx が一律 403**(回避不能)。だから別館
-  (= 現行 GitHub Pages ミラーの**全 17,218 ファイルの URL 空間**。`.cgi` スナップショット 9,022 を含む)
+  (= 現行 GitHub Pages ミラーの**全 18,006 ファイルの URL 空間**。`.cgi` スナップショットは
+  **フルパス基準 9,022 / basename 基準 9,021** を含む。数え方は `docs/data-inventory.md` §0 と §7)
   は GitHub Pages 恒久併存(設計 v1.1)
 - **nginx キャッシュの罠**: 変更が反映されないように見えたら、まずキャッシュを疑う。
   検証 curl には毎回キャッシュバスター(`?_cb=<乱数>`)を付ける。パネルからのキャッシュ全消しは
@@ -95,7 +96,8 @@
   (200209 配下に 2014 年の話が実在)。post_date は必ず目録の日付欄から
 - 本文 HTML: bogus comment `<!　…!!`(没稿隠し)と裸の `<` はブラウザ等価処理(preclean の手本は
   `md_convert_probe.py`)
-- series.html の「123 行」はコメントアウト除去後の有効行(生 TR は 138)
+- series.html の**有効行(リンクを持つ TR)は実測 112**。設計 v1.0 と旧版台帳の「123 行」は誤り
+  (数え方: `catalog/reports/work_builder.json` の `series_html_rows`)
 
 **人間(サイト所有者)しかできないタスクは 👤 印**。実行セッションは 👤 タスクに当たったら
 スキップして次へ進み、最後に「👤 待ち」一覧を報告する。
@@ -176,9 +178,12 @@
       - keywords 約 1,000 語(表記揺れ統合のみ)。旧【属性】17 語は keywords へ
       - **ts_world 13 語**(share_world.html+共有感想板 7 つが元資料)と **ts_corpus 4 語**もここで生成
       - 原表記は必ず `raw_variants` に保持
-      - **1.3 実測 (2026-08-30)**: genre 244→**196 語(中核 30 語で延べの 94.1%)**・
-        type 187→**165 語(中核 30 語で 93.6%)**・keyword 1,083→**1,028 語(中核 74 語)**・
-        **ts_world 14 本**(該当 362 話)・ts_corpus 4 本。正規化は NFKC+「」外し+末尾？除去+
+      - **1.3 実測 (2026-08-30 再計測)**: genre 244→**196 語(中核 30 語で延べの 94.1%)**・
+        type 187→**165 語(中核 30 語で 93.6%)**・keyword 1,087→**1,032 語(中核 74 語)**・
+        **ts_world 14 本**(該当 408 話)・**ts_corpus 5 本**。
+        (数え方: `catalog/reports/terms_build.json` の各 taxonomy の `terms` /
+        `worlds_total` / `episodes_with_world` / `corpus_terms` の長さ)
+        正規化は NFKC+「」外し+末尾？除去+
         `catalog/{genre,type,keyword}_map.yml` の同義語マップ。語彙定義ページ
         (genre.html 27 語 / type_of_change.html 18 語 / keyword.html 38 語) を description に転用。
       - **台帳の記述の訂正・補足 3 点**:
@@ -193,7 +198,15 @@
         `catalog/world_map.yml` (共有感想板 slug / 作品ディレクトリ / 題名正規表現) に外出し
         (c) 分類語彙の slug も恒久 URL なので、genre/type/keyword/world の全語を
         `catalog/slug_overrides.yml` の `terms_*` セクションに候補出力した
-        (**確認待ち 1,403 件**。うち大半は keyword)。**1.5b の確認対象に含めるかは 👤 判断**
+        (**確認待ち 1,407 件**。うち大半は keyword。数え方: `terms_build.json` の
+        `slug_pending_review`)。**1.5b の確認対象に含めるかは 👤 判断**
+        (d) **ts_corpus は 4 語ではなく 5 語** — 実データの corpus 値は
+        `honkan` 2,887 / `legacy` 97 / `uncatalogued` 859 / `extern-repost` 1 の 4 種で、
+        旧実装の語彙 (`honkan`/`legacy`/`dojo`/`anthology`) では **860 話が term を持たない**
+        状態だった。`docs/glossary.md` の corpus 表に合わせて実データの 4 語 + Phase 6 用の
+        `dojo` の計 5 語に直し、`anthology` は実データに無いので落とした
+        (2026-08-30 修正)。**全 episode の corpus に term があること**を
+        `terms_build.py` の自己検査に追加してある (被覆 3,844/3,844)
 - [x] 1.4 `scripts/wp/authors_build.py`: `catalog/authors.json` 生成
       - slug = 感想板 author_id(目録の `bbs@log_<id>.cgi` リンク。305 slug)。表記揺れ統合 48 組
       - **板なし作者 33 名のローマ字 slug は pykakasi(開発機 pip 導入可)で候補生成し、
@@ -202,11 +215,15 @@
         homepage_wayback(`https://web.archive.org/web/2010/<URL>` 形式で機械生成) /
         kansou_annex_url / contact_status(全員 `uncontacted`)
       - 受け入れ: 作者数 ≈ 399・全 episode の author が解決
-      - **1.4 実測 (2026-08-30)**: **作者 333 名**(板あり 294 / 板なし 39)。
-        表示名の異なりは 413 種で、**53 組の表記揺れ (延べ 82 表記) を感想板 id で統合**した結果。
-        yomi 解決 312 / homepage 116 / **全 episode の author 解決** (作者欄 `***` の
-        編集部告知ブロック 1 件を除く)。slug は板 id 294・ASCII 8・pykakasi 候補 30・
-        fallback 1 (`？？？？` という表示名)。**確認待ち 31 件**。
+      - **1.4 実測 (2026-08-30 再計測)**: **作者 342 名**(板あり 294 / 板なし 48)。
+        表示名の異なりは 428 種で、**57 組の表記揺れ (延べ 430 表示名 − 統合 88) を
+        感想板 id で統合**した結果。yomi 解決 312 / homepage 116 /
+        **全 episode の author 解決** (作者不詳 37 = 編集部告知 1 + 目録外収蔵の
+        `unattributed` 36 を除く 3,807 話に割り当て)。slug は板 id 294・pykakasi 39・
+        ASCII 8・fallback 1 (`？？？？` という表示名)。**確認待ち 40 件**。
+        (数え方: `catalog/authors.json` の `authors` 配列長、内訳は
+        `catalog/reports/authors_build.json` の `authors_with_board` /
+        `display_name_strings_distinct` / `slug_sources` / `slug_pending_review`)
       - **台帳の記述の訂正 2 点**:
         (a) 受け入れ条件「作者数 ≈ 399」は達成不能。**399 は survey の
         `author_count` = 表示名の異なり数であって人数ではない**。表記揺れを
@@ -222,7 +239,8 @@
         跨がる。同一人物の板が 2 つある可能性が高いが、機械では決められない
         (slug_overrides.yml は slug の確定用で「作者の併合」は表現できない)
 - [x] 1.5 `scripts/wp/work_builder.py`: Episode → Work クラスタリング → `catalog/works.jsonl`
-      - シード: `series.html` 有効 123 行(コメント除去後)+`share_world.html`+
+      - シード: `series.html` 有効 **112** 行(コメント除去後にリンクを持つ TR。
+        旧記述の「123 行」は誤り)+`share_world.html`+
         **シリーズタイトルページ(novel/ 配下の `*title*.htm*` および投稿ディレクトリ内 index.html 名、
         計約 124+旧世代ツリー内 51)**+推薦文内ナビ 696 リンクの誘導先 URL 集合
       - 補完: 作者×ファイル名 prefix×題名共通接頭辞クラスタ
@@ -230,11 +248,15 @@
       - work_slug = `{author_slug}-{作品ローマ字}`。**作品ローマ字も pykakasi 候補+
         `slug_overrides.yml` 経由の 👤 確認ゲートを通す**。重複ファイルは正本 1 つ+`alias_paths`
       - 受け入れ: 全 episode がいずれかの work に属す。orphan 0
-      - **1.5 実測 (2026-08-30)**: **Work 1,156 件**(単発 741 / 連載 415)、
-        2,984 episode 全部がどれかに属し **orphan 0**。`needs_review` は **202 件**
-        (台帳の想定 100〜200 とほぼ一致。内訳: 弱い根拠のみ 167 / 15 話以上 21 /
-        複数ディレクトリ 14)。md5 一致の重複ファイル 26 本を `alias_paths` に。
-        タイトルページを持つ work 235 件、series.html の有効行 112。
+      - **1.5 実測 (2026-08-30 再計測。1.8/1.9 で episode が 2,984→3,844 に増えた分を反映)**:
+        **Work 1,463 件**(単発 946 / 連載 517)、3,844 episode 全部がどれかに属し **orphan 0**。
+        `needs_review` は **328 件**(内訳: 弱い根拠のみ 269 / 15 話以上 22 /
+        複数ディレクトリ 37)。md5 一致の重複ファイル 55 本を `alias_paths` に。
+        タイトルページを持つ work 234 件、series.html の有効行 112。
+        (数え方: `catalog/works.jsonl` の行数、内訳は
+        `catalog/reports/work_builder.json` の `works_single_episode` /
+        `works_multi_episode` / `needs_review` / `needs_review_reasons` /
+        `alias_paths_total` / `works_with_title_page` / `series_html_rows`)
       - **台帳の記述の補足 3 点**:
         (a) 「series.html 有効 123 行」は実測 **112 行**(リンクを持つ行。
         コメント除去後の `<TR>` は 135 だがヘッダ行と番外編のみの行を含む)
@@ -302,10 +324,12 @@
         両方 `body_convert_exempt: true` (1.6 の対象外)。
       - **補足**: pixiv のタグ 5 語 (オリジナル/TSF/SS/女性人格化/チェス) が
         keywords に入るので、文庫の語彙に外部由来の語が 1 件分だけ混ざる
-      - **1.6 実測 (2026-08-30 実装時)**: 変換対象 3,644 のうち **3,641 話が証明つきで合格
-        (99.92%)**、証明違反 0、raw フォールバック 3 話。出力は `bodies/<episode_id>.md`
-        (3,641 ファイル)・判定は `catalog/convert_report.jsonl`・サマリは
-        `catalog/reports/body_convert.json`
+      - **1.6 実測 (2026-08-30、変換器のバグ 4 種を潰したあとの再計測)**: 変換対象 3,644 のうち
+        **3,642 話が証明つきで合格 (99.95%)**、証明違反 0、raw フォールバック 2 話。
+        出力は `bodies/<episode_id>.md` (**3,642 ファイル**)・判定は
+        `catalog/convert_report.jsonl`・サマリは `catalog/reports/body_convert.json`。
+        (数え方: `ls bodies/*.md | wc -l` と `body_convert.json` の `status` / `md_rate_pct`)
+        **`bodies/` は `.gitignore` 済みで git 管理外** — `make catalog` で再生成する派生物
       - **設計を二段構えにした**: ①本文領域は無損失証明で完全保護 ②**クローム除去は証明の外側**
         で行い、検証を通したあとに定型ナビ行だけを落とす。落とした 9,670 行 (3,273 話) は
         `nav_trimmed` に全件記録してあり、本文を巻き込んでいないか監査できる。
@@ -320,14 +344,19 @@
         温存。非 UTF-8 の `.txt` に cp932/euc_jp フォールバックを追加
 - [x] 1.7 `make catalog` で 1.1〜1.6 を一発実行できる Makefile。QA レポートを `catalog/QA.md` に
       (件数・合格率・needs_review 数・provenance 被覆率・特殊エントリ内訳)
-      - **1.7 実測 (2026-08-30)**: `make catalog` は 1.1/1.2 → **1.8 → 1.9** → 1.3 → 1.4 → 1.5
-        → (1.6 があれば) → 1.7 の順で走る(約 18 秒)。`make check` は書き込みなしの自己検査、
-        `make venv` は pykakasi / PyYAML 入りの `.venv` を作る。
+      - **1.7 実測 (2026-08-30 再計測)**: `make catalog` は 1.1/1.2 → **1.8 → 1.9** → 1.3 → 1.4
+        → 1.5 → 1.6 → 1.7 の順で走る(**1.6 込みで 44 秒**。数え方: `time make catalog`)。
+        `make check` は書き込みなしの自己検査(全段 OK・終了コード 0)、
+        `make venv` は pykakasi / PyYAML / beautifulsoup4 / html5lib 入りの `.venv` を作る。
         **2 回連続実行で全出力(episodes/terms/authors/works/QA.md/slug_overrides)が
         バイト単位で同一**であることを確認済み。
       - QA レポートは `scripts/wp/qa_report.py` が `catalog/reports/*.json` から転記して
         `catalog/QA.md` を書く(二重帳簿にしないため、ここでは再計算しない)。
-        1.6 未実装のあいだ「本文 MD 変換」節は「未実装」と出る
+        **QA.md は生成物なので手で書き換えない — 直すのは `qa_report.py` のほう**。
+        (2026-08-30 の修正: 読むレポート名が `convert_report.json` になっていて実ファイル
+        `body_convert.json` と食い違い、1.6 完了後も §8 が「未実装・`bodies/` はまだ空」と
+        出続けていた。あわせて corpus `honkan` の表示を「本館」から「正規目録 (lib1–73)」に
+        直し、corpus 語彙の自己検査結果を §4 に出すようにした)
 
 ## Phase 2 — WP 骨格+メタ全量投入(目安 2 週)
 
@@ -338,7 +367,10 @@
       あわせて **WP Multibyte Patch を有効化**(`wp plugin install wp-multibyte-patch --activate`)
 - [ ] 2.2 `wp ts` WP-CLI コマンド群(mu-plugin 内): `sync-terms` / `import`(--dry-run/--limit/
       --author、created/updated/skipped 集計出力) / `apply-takedown` / `verify`(件数照合・orphan・
-      taxonomy 被覆率・**特殊エントリ内訳**・冪等性=2 回目 created/updated 0) / `export-pathmap`
+      taxonomy 被覆率・**特殊エントリ内訳**・冪等性=2 回目 created/updated 0) / `export-pathmap` /
+      **`reset --yes`(ts_* の全投稿・term・meta を削除 — やり直し用。docs/rebuild-runbook.md §2-C)**。
+      **import は投入時の catalog の git コミットハッシュを `wp option ts_catalog_commit` に記録する**
+      (何が本番に載っているかの追跡。rebuild-runbook §2-D)
 - [ ] 2.3 デプロイスクリプト `scripts/wp/deploy.sh`: rsync(`-n` 先行・`--delete` 禁止)で
       catalog/ bodies/ mu-plugins/ を配備(mu-plugins → `public_html/wp-content/mu-plugins/`)。
       **robots.txt(0.4 草案)を `public_html/` へ配備し curl で内容確認**もここに含める
@@ -478,7 +510,8 @@
 
 ## 完了の定義(公開時点)
 
-- 2,887+legacy 全話(特殊エントリ 28 件含む)が `/works/` で読める(MD ≥85%・raw は明示)
+- **全 3,844 話**(正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載 1。特殊エントリは
+  正規目録分 28 件・全 corpus では 100 件)が `/works/` で読める(MD ≥85%・raw は明示)
 - 五十音/年代/ジャンル/種別/キーワード/共有世界/推薦の 7 索引と検索が機能
 - 全ページに書誌カード(初出・回収経路・原本リンク)。別館との往還が両方向で機能
 - mailto が WP・Pages 両方でゼロ。denylist が四層+掲示を 1 ファイルで駆動

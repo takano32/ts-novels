@@ -176,7 +176,8 @@ curl -sI "https://novels.xwp.jp/works/?_cb=$RANDOM"
 | 「一律 403」 | **観測できる 403 はドキュメントルート直下(パス 1 セグメント)のみ**。`/a/probe.cgi` のようにサブディレクトリにあるものは 404 が返り、WordPress まで到達している |
 | 「改名でも回避不能」 | **正しい**。`(\.|/|$)` により `.cgi.html` も拒否される(実測で確認) |
 
-**結論は変わらない** — `.cgi` を含む 9,021 ファイルをこのホストで配信する前提には立てない。
+**結論は変わらない** — basename に `.cgi` を含む 9,021 ファイル(フルパス基準では 9,022)を
+このホストで配信する前提には立てない。
 別館を GitHub Pages に恒久併存させる設計 v1.1 の決定はそのまま維持する。
 ただし**理由の記述は上のとおり訂正が要る**。
 
@@ -196,7 +197,7 @@ curl -sI "https://novels.xwp.jp/works/?_cb=$RANDOM"
 
 | 条件 | 件数 |
 |---|---:|
-| basename が `.cgi` を含む | 9,021 |
+| basename が `.cgi` を含む | 9,021 (フルパスに `.cgi` セグメントを含む数え方なら 9,022 → `docs/data-inventory.md` §7) |
 | `.pl` | 1 (`ts-novels.jp/kantan-cgi/counter@id_sd03205Y.pl`) |
 | `.shtml` | 2 (`entrance.shtml`・`~yays/library/entrance.shtml`) |
 

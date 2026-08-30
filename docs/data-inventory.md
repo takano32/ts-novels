@@ -11,18 +11,21 @@
 
 | 項目 | 値 |
 |---|---|
-| 計測日時 | 2026-08-30 15:39 JST |
-| 計測対象コミット | `d9520b0c` (catalog: make catalog と QA レポート) |
-| 計測方法 | `git ls-files -z` の**実測**(作業ツリーの未追跡ファイル・`.venv/`・`__pycache__` は除く) |
-| git 管理ファイル総数 | **21,742** |
+| 計測日時 | 2026-08-30 16:35 JST |
+| 計測対象コミット | `931c8a9b` (bodies/ を git 管理から外し、変換器のバグ 4 種を修正) |
+| 計測方法 | `git ls-files -z` の**実測**(作業ツリーの未追跡ファイル・`.venv/`・`__pycache__`・**`bodies/`** は除く) |
+| git 管理ファイル総数 | **18,093** |
+| 　うちミラー相当 | **18,006**(総数 − `catalog/` `scripts/` `docs/` `takedown/` `reposts/` `.github/` の 87) |
+| git 管理外の生成物 `bodies/` | **3,642**(本文 Markdown。`.gitignore` 済み・`make catalog` で再生成) |
 | 作業ツリー実サイズ | 443 MB (`.git`・`.venv` を除く) |
 
 **再計測のしかた**(数値が古くなったらこれを流す):
 
 ```sh
-git ls-files | wc -l                                    # 総数
+git ls-files -z | tr -cd '\0' | wc -c                   # 総数 (ファイル名の改行に強い数え方)
 git ls-files | awk -F/ '{print (NF==1)?"(root)":$1}' | sort | uniq -c | sort -rn   # ツリー別
 git ls-files <tree> | grep -ciE '\.s?html?$'            # ツリー内の HTML 数
+ls bodies/*.md | wc -l                                  # git 管理外の本文 Markdown
 ```
 
 **注意**: `catalog/` `bodies/` `reposts/` `scripts/` `docs/` は**現在も別セッションが更新中**で
@@ -47,7 +50,11 @@ git ls-files <tree> | grep -ciE '\.s?html?$'            # ツリー内の HTML �
 | — | 2009〜2014 | `aetherworks.org` | `aetherworks.org/` | 作者(華村天稀ほか)の個人ドメイン。作品回収のため収蔵 |
 | — | 2006〜現在 | `bc-cafe.net`(**現存**) | `bc-cafe.net/` | 作者(きりか進ノ介)の個人ドメイン。`/bcwiki.old/` が第 4 世代 `kirika.novels.name/wiki` の後継として今も公開されており、文庫の未収蔵作品とオフ会記録を含む。2026-08-30 に直接回収 |
 
-**掲載日の実測分布**(`catalog/episodes.jsonl` の `date` 欄、3,844 話):
+**掲載日の実測分布**(数え方: `catalog/episodes.jsonl` の `date` 欄の先頭 4 桁で集計。
+全 3,844 話のうち **`date` を持つ 3,733 話**が対象で、下表の合計もこの 3,733 になる。
+差の **111 話は `date` 欄が空**で、どの年にも数えられない。111 件は全部
+`corpus=uncatalogued` かつ `date_precision=unknown` — 投稿ディレクトリ `novel/YYYYMM/` を持たない
+フラット期の話なので、掲載日を起こす手掛かりが無かったもの):
 
 | 年 | 件 | 年 | 件 | 年 | 件 |
 |---|---:|---|---:|---|---:|
@@ -72,7 +79,7 @@ git ls-files <tree> | grep -ciE '\.s?html?$'            # ツリー内の HTML �
 
 | パス | 何か | ファイル数 | 内 HTML | 内 .cgi | 内 画像 | 出所 | WP 扱い |
 |---|---|---:|---:|---:|---:|---|---|
-| `novel/` | **本文**。ts.novels.jp の作品ファイル本体 | **5,017** | 3,817 | 0 | 1,197 | Wayback 主体 + CommonCrawl・魚拓・作者サイト | 本館(主対象) |
+| `novel/` | **本文**。ts.novels.jp の作品ファイル本体 | **5,017** | 3,817 | 0 | 1,196 | Wayback 主体 + CommonCrawl・魚拓・作者サイト | 本館(主対象) |
 | `~yays/` | 第 0/2 世代 `www14.big.or.jp/~yays/` 丸ごと | **5,469** | 1,488 | 2,955 | 900 | Wayback + 生存サーバ直接 | 別館(ギャラリーは本館へ) |
 | `~ts/` | `www.novels.jp/~ts/` = 本体期の交流層 | **4,008** | 23 | 3,984 | 1 | Wayback | 別館(感想板は Phase 6 で本館へ) |
 | `~ezpe/` | 第 1 世代 `www2.tomato.ne.jp/~ezpe/` | **1,562** | 12 | 1,550 | 0 | Wayback | 別館(静的 8 頁は本館へ) |
@@ -85,11 +92,11 @@ git ls-files <tree> | grep -ciE '\.s?html?$'            # ツリー内の HTML �
 | `ts.raa0121.info/` | 姉妹「第二掲示板・ストーリー道場(仮)」 | **69** | 3 | 65 | 0 | Wayback | 別館(道場作品は Phase 6 で本館へ) |
 | `special/` | 企画・アンソロジー 2 本 | **61** | 19 | 0 | 37 | Wayback | 本館(タスク 4.8) |
 | `cgi-bin/` | 本体期の作品検索 CGI `manage2.cgi` のスナップショット | **49** | 0 | 49 | 0 | Wayback | 別館 |
-| `scripts/` | 回収・監査・変換ツール一式 | **41** | 0 | 0 | 0 | 自作 | 参照のみ |
+| `scripts/` | 回収・監査・変換ツール一式 | **44** | 0 | 0 | 0 | 自作 | 参照のみ(うち 4 件は誤って追跡されている `__pycache__/*.pyc`) |
 | `comittee/` | 運営コンテンツ「編集"好"記」 | **21** | 21 | 0 | 0 | Wayback | 本館(`ts_doc`) |
-| `catalog/` | **生成物**。目録の単一真実源 | 19 | 0 | 0 | 0 | 自動生成 | 参照のみ([`catalog/README.md`](../catalog/README.md)) |
+| `catalog/` | **生成物**。目録の単一真実源 | 25 | 0 | 0 | 0 | 自動生成 | 参照のみ([`catalog/README.md`](../catalog/README.md)) |
 | `~bbs/` | `www.novels.jp/~bbs/` = カウンタ CGI と掲示板入口 | **15** | 3 | 11 | 1 | Wayback | 別館 |
-| `docs/` | 設計・手順・本書 | 7 | 0 | 0 | 0 | 自作 | 参照のみ |
+| `docs/` | 設計・手順・本書 | 9 | 0 | 0 | 0 | 自作 | 参照のみ |
 | `ts-novels.jp/` | 2018 年の再建版「少年少女文庫改」 | **6** | 3 | 0 | 0 | Wayback | 別館(`/annex/index-2018.html`) |
 | `icons/` | Apache autoindex が参照する標準アイコン | **5** | 0 | 0 | 5 | 実サーバ + Apache 公式ストック | 別館 |
 | `www2.sts.co.jp/` | 1999 年の相互批評ボード・トランスギャルズ開発会議室 | **5** | 1 | 4 | 0 | Wayback | 別館 |
@@ -100,8 +107,12 @@ git ls-files <tree> | grep -ciE '\.s?html?$'            # ツリー内の HTML �
 | `library/` | 本体期の `library/instruction.html` 1 枚(運営委員募集要項) | **1** | 1 | 0 | 0 | Wayback | 本館(`ts_doc`) |
 | `dialy/` | 運営コンテンツ「Web サイト構築日記」(綴りは原文ママ) | **1** | 1 | 0 | 0 | Wayback | 本館(`ts_doc`) |
 | `.github/` | Pages デプロイワークフロー | 1 | 0 | 0 | 0 | 自作 | 参照のみ |
+| *(`bodies/`)* | **git 管理外**。本文 Markdown の正準(`make catalog` の生成物) | *(3,642)* | 0 | 0 | 0 | 自動生成 | 参照のみ(投入用の素材) |
 
-**合計 21,742**(うち `bodies/` の生成 Markdown 3,640)。うち `.cgi` を basename に含むもの **9,021**(→ §7 の本番制約)。
+**合計 18,093**(数え方: `git ls-files -z | tr -cd '\0' | wc -c`)。`bodies/` の 3,642 は `.gitignore` 済みで
+**この合計に入っていない**(数え方: `ls bodies/*.md | wc -l`)。
+うち `.cgi` を **basename** に含むもの **9,021**(→ §7 の本番制約。**フルパスに `.cgi` セグメントを
+含む数え方だと 9,022** — 差の 1 件は §7 のとおりディレクトリ名側)。
 
 ### 主要ツリーの内訳(実測)
 
@@ -152,8 +163,10 @@ git ls-files <tree> | grep -ciE '\.s?html?$'            # ツリー内の HTML �
 |---|---:|---|
 | HTML (`.htm` / `.html`) | 3,817 | うち **83 は Apache autoindex のスナップショット**(`index.html`・`index@D_A.html` 等) |
 | 拡張子なしの HTML | 1 | `novel/201005/20141534/vistia_index` (`<title>ヴィスティア</title>`) |
-| 画像 | 1,197 | 挿絵・アイコン |
+| 画像 | 1,196 | 挿絵・アイコン(数え方: `.jpg` 562 + `.gif` 614 + `.png` 19 + `.bmp` 1) |
 | その他 | 3 | `concerto/test3.txt` `oyaji/favicon.ico` `perky_girl/perky_anime.swf` |
+
+合計 3,817 + 1 + 1,196 + 3 = **5,017**(§2 の `novel/` 行と一致する)。
 
 **「本文ファイル」の数え方に注意** — 設計 v1.4 とタスク 1.8 の「本文 3,818」は
 `3,817 (HTML) + 1 (拡張子なし)` であり、**autoindex 83 枚を含んだ数**。
@@ -288,10 +301,12 @@ BBS・CGI ページは**クエリつき URL** なので、そのままではフ�
 
 ## 7. 本番ホスト(novels.xwp.jp)側の制約が効くファイル
 
+**`.cgi` の件数は数え方で 1 件ずれる。文書で言及するときはどちらか明示すること。**
+
 | 条件 | 件数 | 影響 |
 |---|---:|---|
-| basename が `.cgi` を含む | **9,021** | 本番では配信できない → 別館(GitHub Pages)恒久併存の理由 |
-| フルパスに `.cgi` セグメントを含む | 9,022 | `~yaji/blog/mt-atom.cgi/weblog/blog_id=1` の 1 件だけディレクトリ名側 |
+| **basename** が `.cgi` を含む(数え方: `git ls-files -z \| tr '\0' '\n' \| awk -F/ '{print $NF}' \| grep -c '\.cgi'`) | **9,021** | 本番では配信できない → 別館(GitHub Pages)恒久併存の理由。**環境の制約はファイル名基準なのでこちらが本則** |
+| **フルパス**に `.cgi` セグメントを含む(数え方: 同上で `awk` を挟まない) | 9,022 | `~yaji/blog/mt-atom.cgi/weblog/blog_id=1` の 1 件だけディレクトリ名側。設計 v1.1・台帳・publish-runbook の「9,022」はこの数え方 |
 | `.pl` | 1 | `ts-novels.jp/kantan-cgi/counter@id_sd03205Y.pl` |
 | `.shtml` | 2 | `entrance.shtml`・`~yays/library/entrance.shtml` |
 
@@ -310,7 +325,10 @@ BBS・CGI ページは**クエリつき URL** なので、そのままではフ�
 | (5) | (文書化されていない) | クエリ→ファイル名のマングル実装が **3 本で不一致**: `scripts/audit_full.py:37` は `/` を置換しない / `scripts/place_convert.py:96` は unquote 後に `/` `?` も置換 / `scripts/cdx_recover.py:62` は %エスケープを素の hex のまま残して `/` を置換 | **潜在バグ**。`/` を含むクエリ(`~bbs/cgi-bin/npc@L__~yaji_index.htm_…`)で `audit_full.py` が実在ファイルを未解決と誤判定しうる。リンク監査の「未解決 5,067」に混入している可能性がある |
 | (6) | README「`ts.novels.name/rounge/`… 閉鎖後 **2023 年まで**稼働したラウンジ BBS」 | 収蔵ファイル中の投稿日付は **2015〜2026**。2022 年以降が急増(2022:918 / 2023:443 / 2024:668 / 2025:737 / 2026:698) | README の期間が古い。設計の言う「94% スパム」がこの 2022 年以降の激増分。**回収時点(2026-08)でも板は稼働中**と読むのが自然 |
 | (7) | 設計 v1.0「~yays/library/ は **95.4%** 重複」 | `~yays/library/novel/` 1,466 中 1,399 = **95.4%** | **一致**(確認のみ) |
-| (8) | タスク台帳「別館 = 全 **17,218** ファイル」/ README「全 17,218 ファイル」 | 現在 **21,742**。うち**ミラー相当 18,020** / 非ミラー(`catalog/` `scripts/` `docs/` `takedown/` `reposts/` `.github/`)が残り。非ミラー側は作業中で日々増える | 数字が古いだけ。ただし現在の `deploy-pages.yml` は**リポジトリ直下をそのまま配信**するので、`catalog/` や `scripts/` も Pages 上に出ている。タスク 5.2 で artifact ビルド方式に変える際に除外対象を決めること |
+| (8) | タスク台帳・設計 v1.1「別館 = 全 **17,218** ファイル」/ 設計 v1.0「原本 **17,215** ファイル」 | git 管理総数 **18,093**、うち**ミラー相当 18,006**(非ミラー = `catalog/` 25 + `scripts/` 44 + `docs/` 9 + `takedown/` 2 + `reposts/` 6 + `.github/` 1 = 87)。非ミラー側は作業中で日々増える | **数字が古いだけ**。2026-08-30 に台帳・設計 v1.0/v1.1・README を 18,006 に更新した。ただし現在の `deploy-pages.yml` は**リポジトリ直下をそのまま配信**するので、`catalog/` や `scripts/` も Pages 上に出ている。タスク 5.2 で artifact ビルド方式に変える際に除外対象を決めること |
+| (9) | 設計 v1.0「eyecatch.jpg **109 件**のみ featured image として sideload」 | `eyecatch` という名のファイルは `novel/` 配下に **4 件**(`200012/03175506/eyecatch.gif`・`200104/20050818/eyecatch.gif`・同 `.jpg`・`robot_triathlon/eyecatch.gif`)、それを参照している本文は **15 話**(数え方: `grep -rl -i eyecatch novel/ \| wc -l`) | **「109」は参照回数であって実体数でも話数でもない**。タスク 3.2 は既に「実体 4 ファイル・参照 15 話」に訂正済み。設計 v1.0 本文にも訂正を入れた |
+| (10) | 設計 v1.0「~yays gallery (CG **313 点**)」→ (3) と同件 / v1.0 §1.2「`ts_world` 約 **13** 語」 | `ts_world` は **14 本**(数え方: `catalog/reports/terms_build.json` の `worlds_total`) | 台帳 1.3 の訂正 (b) と同じ。設計 v1.0 本文にも訂正を入れた |
+| (11) | 設計 v1.0「`series.html` **123 行**」/ 台帳の地雷節も同じ | 有効行(リンクを持つ `<TR>`)は **112**(数え方: `catalog/reports/work_builder.json` の `series_html_rows`) | 台帳 1.5 の補足 (a) が既に実測 112 を書いていたが、同じ台帳の地雷節と設計本文が 123 のまま残っていた。両方訂正した |
 
 ---
 
@@ -319,7 +337,7 @@ BBS・CGI ページは**クエリつき URL** なので、そのままではフ�
 | パス | 内容 | 正典 |
 |---|---|---|
 | `catalog/` | 目録の単一真実源(episodes.jsonl / works.jsonl / authors.json / terms.json / 各種 map・overrides・reports) | [`catalog/README.md`](../catalog/README.md) |
-| `bodies/` | 本文 Markdown の正準(タスク 1.6 で生成。**まだ無い**) | 設計 v1.2 A 章 |
+| `bodies/` | 本文 Markdown の正準(タスク 1.6 の生成物)。**実測 3,642 ファイル**(数え方: `ls bodies/*.md \| wc -l`)。変換対象 3,644 のうち無損失証明に合格した 3,642 話ぶんで、raw フォールバック 2 話と本文の原本が未回収の 200 話には `.md` が無い。**`.gitignore` 済みで git 管理外** — `make catalog` で再生成する | 設計 v1.2 A 章 / [`catalog/QA.md`](../catalog/QA.md) §8 |
 | `reposts/` | 作者本人の pixiv 再掲本文。プレーンテキストなので本文変換の対象外 | タスク 1.9 |
 | `scripts/` | 回収・監査・変換ツール(`scripts/wp/` が WP 移築の実装) | [`scripts/README.md`](../scripts/README.md) |
 | `takedown/` | `denylist.yml`(削除の四層を駆動する単一情報源) | [`removal-runbook.md`](removal-runbook.md) |

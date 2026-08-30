@@ -15,7 +15,7 @@ WP 管理画面での手動編集は禁止 (修正は catalog 側の overrides �
 |---|---|
 | 開発機 | このリポジトリ (python3.11、pip 可)。catalog / bodies / mu-plugins / theme を生成 |
 | 本館 (本番) | `ssh novels` = Xserver for WordPress。`~/novels.xwp.jp/` 直下に wp-config.php、公開ルートは `~/novels.xwp.jp/public_html/` |
-| 別館 | GitHub Pages (現行ミラー)。`.cgi` を含む 9,022 ファイルは nginx 403 のため本番には置けない = 恒久併存 |
+| 別館 | GitHub Pages (現行ミラー、18,006 ファイル)。`.cgi` を含む **9,022 ファイル**(フルパス基準。basename 基準なら 9,021) は nginx 403 のため本番には置けない = 恒久併存 |
 
 用語 (本館/別館/旧館 ほか) は [`glossary.md`](glossary.md) を参照。
 **本館・別館・旧館は内部用語**で、読者に見せる文面では使わない。
@@ -29,7 +29,7 @@ WP 管理画面での手動編集は禁止 (修正は catalog 側の overrides �
 
 | 段 | 目安 |
 |---|---|
-| `make catalog` (開発機) | 数分 (2,887 エントリ + 本文変換) |
+| `make catalog` (開発機) | **44 秒** (3,844 話 + 本文 MD 変換。2026-08-30 実測 `time make catalog`) |
 | rsync | 初回は bodies/ と画像で数分、以後は差分のみ |
 | `wp ts import` 全量 | 未実測 (パイロット 100 件で実測してから全量に進む) |
 | 反映確認 | nginx キャッシュのため、👤 キャッシュクリアまで見えないことがある |
@@ -47,11 +47,11 @@ make catalog          # catalog_build → terms_build → authors_build → work
 
 | 生成物 | 見るもの |
 |---|---|
-| `catalog/episodes.jsonl` | 2,887 + legacy 差分。パース失敗 0 |
-| `catalog/authors.json` | 作者数 ≈ 399。全 episode の author が解決 |
-| `catalog/terms.json` | genre ≈ 30 / type ≈ 25 / keyword ≈ 1,000 / world 13 / corpus 4 |
+| `catalog/episodes.jsonl` | **3,844 行** (正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載 1)。パース失敗 0 |
+| `catalog/authors.json` | **作者 342 名**。全 episode の author が解決 (作者不詳 37 を除く 3,807 話)。※旧記述の「≈399」は表示名の異なり数であって人数ではない |
+| `catalog/terms.json` | genre 196 (中核 30) / type 165 (中核 30) / keyword 1,032 (中核 74) / **world 14** / **corpus 5**。corpus は全 episode 分の term がそろっていること (terms_build の自己検査) |
 | `catalog/works.jsonl` | orphan 0 (全 episode がどれかの work に属す) |
-| `bodies/*.md` + `catalog/convert_report.jsonl` | 無損失証明の合格率 ≥85% |
+| `bodies/*.md` + `catalog/convert_report.jsonl` | 無損失証明の合格率 ≥85% (実測 **99.95% = 3,642 / 3,644**)。`bodies/` は git 管理外なので `git diff` には出ない |
 | `catalog/QA.md` | 上記の集計。**publish 前に必ず目視する** |
 
 ```sh
@@ -113,8 +113,9 @@ wp ts import --works=../catalog/works.jsonl --episodes=../catalog/episodes.jsonl
 wp ts verify
 ```
 
-見るもの: 件数照合 (2,887 + legacy Δ / 作者 399) / orphan 0 / taxonomy 被覆率 /
-特殊エントリ内訳 (アンカー分割・画像作品 21・外部リンク 6+1) / 冪等性。
+見るもの: 件数照合 (**episodes 3,844 / works 1,463 / 作者 342**) / orphan 0 / taxonomy 被覆率 /
+特殊エントリ内訳 (正規目録分 28 件 = 画像作品 21・外部 1・アンカー 5 ほか。全 corpus では 100 件) /
+冪等性。
 
 curl 側 (**毎回キャッシュバスターを付ける**):
 

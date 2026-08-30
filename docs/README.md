@@ -29,6 +29,7 @@ Web アーカイブ等から復元した静的ミラーであり、現在それ�
 | [environment.md](environment.md) | 本番環境(`ssh novels`)の構造・制約・作業ガード | **サーバの事実** |
 | [publish-runbook.md](publish-runbook.md) | catalog 再生成から本番反映までの定常手順 | **公開手順** |
 | [removal-runbook.md](removal-runbook.md) | 削除依頼への対応(72h SLA・四層+掲示) | **削除手順** |
+| [rebuild-runbook.md](rebuild-runbook.md) | レビューで NG が出たときのやり直し(判断→変更場所→再走コマンド) | **再走手順** |
 | [author-outreach.md](author-outreach.md) | 作者・元運営者への連絡計画と経路の棚卸し | **連絡の方針と経路** |
 | [../scripts/README.md](../scripts/README.md) | 回収・監査・変換ツールの台帳 | **ツールの使い方** |
 | [../README.md](../README.md) | 復元の全体像・回収の来歴・既知の欠落 | **ミラーの成り立ち** |
