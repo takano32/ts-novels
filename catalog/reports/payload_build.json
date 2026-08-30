@@ -1,12 +1,12 @@
 {
-  "written": 3644,
-  "converted": 3642,
+  "written": 3646,
+  "converted": 3644,
   "raw_fallback": [
     "novel__200104__20050818__acgallary.htm",
     "novel__200510__19213555__koromogae1.htm"
   ],
   "blocks": {
-    "paragraph": 1052179,
+    "paragraph": 1052191,
     "separator": 9212,
     "quote": 665,
     "heading": 809,
@@ -589,5 +589,57 @@
     "http://media.fc2.com/counter_img.php?id=50",
     "http://st1.shinobi.jp/ns/0010061",
     "http://x6.shinobi.jp/bin/ll?060060001"
-  ]
+  ],
+  "converted_text": [
+    "novel__200802__15232641__rainGirl.html",
+    "repost__pixiv__272830"
+  ],
+  "eyecatch_refs": {
+    "novel__200012__03175506__robot_triathlon4.html": [
+      "/assets/annex-img/novel/200012/03175506/eyecatch.gif"
+    ],
+    "novel__200104__20050818__ac-01.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-02.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-03.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-04.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-05.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-08.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-10.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-11.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-13.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-14.htm": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.gif",
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-ex1.html": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-ex2.html": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__200104__20050818__ac-ex5.html": [
+      "/assets/annex-img/novel/200104/20050818/eyecatch.jpg"
+    ],
+    "novel__robot_triathlon__robot_triathlon4.htm": [
+      "/assets/annex-img/novel/robot_triathlon/eyecatch.gif"
+    ]
+  }
 }

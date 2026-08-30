@@ -232,7 +232,7 @@ def main():
 
     stats = {k: 0 for k in ('paragraph', 'separator', 'quote', 'heading', 'image', 'table')}
     warn = {'missing': [], 'external': [], 'junk': []}
-    meta, violations = {}, []
+    meta, violations, eyecatch = {}, [], {}
     written = 0
 
     for md_path in sorted(BODIES.glob('*.md')):
@@ -246,7 +246,28 @@ def main():
         if visible(md, True) != visible(out, False):
             violations.append(eid)
         (OUT / f'{eid}.html').write_text(out, encoding='utf-8')
+        for em in re.findall(r'(?i)src="(/assets/annex-img/[^"]*eyecatch\.[a-z]+)"', out):
+            eyecatch.setdefault(eid, []).append(em)
         meta[eid] = 'converted'
+        written += 1
+
+    # 1.9 の作者再掲ぶん: md が無く reposts/<episode_id>.txt がある話はプレーンテキストを段落化
+    # (pixiv 再掲はプレーンテキスト。全て escape するので HTML 断片の混入はない)
+    for eid, ep in episodes.items():
+        if eid in meta:
+            continue
+        txt_path = ROOT / 'reposts' / f'{eid}.txt'
+        if not txt_path.is_file():
+            continue
+        text = txt_path.read_text(encoding='utf-8')
+        paras = [html.escape(p.strip('\n'), quote=False).replace('\n', '<br>')
+                 for p in re.split(r'\n\s*\n', text) if p.strip()]
+        out = '\n\n'.join(b_para(p) for p in paras) + '\n'
+        if re.sub(r'\s+', '', unicodedata.normalize('NFC', text)) != visible(out, False):
+            violations.append(eid)
+        (OUT / f'{eid}.html').write_text(out, encoding='utf-8')
+        stats['paragraph'] += len(paras)
+        meta[eid] = 'converted-text'
         written += 1
 
     for eid in raw_fallbacks:
@@ -272,6 +293,8 @@ def main():
         'images_missing': sorted(set(warn['missing'])),
         'images_external': sorted(set(warn['external'])),
         'images_junk_dropped': sorted(set(warn['junk'])),
+        'converted_text': sorted(e for e, s in meta.items() if s == 'converted-text'),
+        'eyecatch_refs': {k: sorted(set(v)) for k, v in sorted(eyecatch.items())},
     }
     rp = ROOT / 'catalog' / 'reports' / 'payload_build.json'
     rp.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
