@@ -24,10 +24,10 @@ class TS_Command {
     private const TAXES = ['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world', 'ts_corpus'];
 
     /** 割当ロジックを変えたら上げる (既存投稿が hash 不一致になり、reset なしでも収束し直す) */
-    private const HASH_VER = 'v2';
+    private const HASH_VER = 'v3';
 
     /** authors.json に載らない擬似作者 (works.jsonl の author_slug に現れる)。sync-terms が term を作る */
-    private const PSEUDO_AUTHORS = ['unattributed' => '作者不詳', 'series-index' => '(シリーズ目録)'];
+    private const PSEUDO_AUTHORS = ['unattributed' => '作者不詳', 'series-index' => '（シリーズ目録）'];
 
     private $name2slug = [];    // tax => [name / raw variant / slug => slug] (terms.json 由来)
     private $slug2term = [];    // tax => [slug => term_id] (0 = WP に無い)
@@ -43,6 +43,8 @@ class TS_Command {
                 $this->name2slug[$tax][$term['slug']] = $term['slug'];
                 $this->name2slug[$tax][$term['name']] = $term['slug'];
                 foreach ($term['raw_variants'] ?? [] as $rv) $this->name2slug[$tax][$rv] = $term['slug'];
+                // NFKC 形 (episodes.jsonl の正規化欄が持つ形)。原表記とも正規化名とも違う中間形
+                foreach ($term['lookup_variants'] ?? [] as $lv) $this->name2slug[$tax][$lv] = $term['slug'];
             }
         }
         $this->ep_worlds = $t['episode_worlds'] ?? [];
@@ -53,7 +55,14 @@ class TS_Command {
         $ids = [];
         foreach ((array) $values as $v) {
             if (!is_string($v) || $v === '') continue;
-            $slug = $this->name2slug[$tax][$v] ?? $v;  // 対応表に無ければ slug とみなす (author/corpus)
+            if (preg_match('/^[?？()（）\s]+$/u', $v)) continue; // 旧目録の「?」単独 = 指定なしの印
+            // 語彙を持つ taxonomy で対応表に無い値は落として記録する (slug とみなす fallback は
+            // ts_author のみ — 生値で get_term_by すると sanitize_title の偶然一致で誤割当になる)
+            if (isset($this->name2slug[$tax]) && !isset($this->name2slug[$tax][$v])) {
+                $this->term_missing["$tax:$v"] = ($this->term_missing["$tax:$v"] ?? 0) + 1;
+                continue;
+            }
+            $slug = $this->name2slug[$tax][$v] ?? $v;
             if (!isset($this->slug2term[$tax][$slug])) {
                 $term = get_term_by('slug', $slug, $tax);
                 $this->slug2term[$tax][$slug] = $term ? (int) $term->term_id : 0;
@@ -87,6 +96,7 @@ class TS_Command {
             $w = $ep2work[$ep['episode_id']] ?? '';
             if (isset($single_work[$w])) continue;   // 単発は子投稿を作らない
             $s = strtolower(preg_replace('/\.[A-Za-z0-9]+$/', '', basename($ep['source_path'])));
+            if (function_exists('mb_convert_kana')) $s = strtolower(mb_convert_kana($s, 'as')); // 全角英数→半角
             if (!empty($ep['source_anchor'])) $s .= '-' . strtolower($ep['source_anchor']);
             $groups[$w][$ep['episode_id']] = $s;
         }

@@ -221,7 +221,11 @@ MAP_COMMENT = """\
 
 
 def collect(records, field, synonyms):
-    """(canonical -> {'count', 'raw_variants', 'episodes'}) を作る。"""
+    """(canonical -> {'count', 'raw_variants', 'lookup', 'episodes'}) を作る。
+
+    lookup には NFKC 形 (catalog_build の split_tokens が episodes.jsonl の正規化欄に
+    書く形そのもの) を貯める。raw_variants (原表記) と name (正規化名) の中間形で、
+    これが対応表に無いと importer が『学園?』等を term に解決できない (Phase 2 実測)。"""
     agg = collections.OrderedDict()
     for rec in records:
         for raw in rec.get(field) or []:
@@ -232,9 +236,10 @@ def collect(records, field, synonyms):
             if not canon:
                 continue
             slot = agg.setdefault(canon, {'count': 0, 'raw_variants': collections.Counter(),
-                                          'episodes': []})
+                                          'lookup': set(), 'episodes': []})
             slot['count'] += 1
             slot['raw_variants'][raw] += 1
+            slot['lookup'].add(unicodedata.normalize('NFKC', raw).strip())
             slot['episodes'].append(rec['episode_id'])
     return agg
 
@@ -369,9 +374,10 @@ def build(root, core_min=None):
             zok = collect(records, 'zokusei_raw', synonyms[tax])
             for name, slot in zok.items():
                 dst = agg.setdefault(name, {'count': 0, 'raw_variants': collections.Counter(),
-                                            'episodes': []})
+                                            'lookup': set(), 'episodes': []})
                 dst['count'] += slot['count']
                 dst['raw_variants'].update(slot['raw_variants'])
+                dst['lookup'].update(slot['lookup'])
                 dst['episodes'].extend(slot['episodes'])
                 dst['from_zokusei'] = True
         vocab = parse_vocab_page(os.path.join(root, meta['vocab_page']))
@@ -381,10 +387,21 @@ def build(root, core_min=None):
         slug_of, entries = assign_slugs(tax, names, overrides, section)
         overrides = slugmod.merge_section(overrides, section, entries)
         threshold = core_min.get(tax, 10)
+        # 照合用異表記が同一 taxonomy 内で複数 term に跨るものは曖昧なので対応表から外す
+        claim = collections.Counter()
+        for name in names:
+            for lv in agg[name]['lookup']:
+                claim[lv] += 1
+        ambiguous = {lv for lv, c in claim.items() if c > 1}
+        if ambiguous:
+            print('!! %s: 照合用異表記の曖昧衝突 %d 件を除外: %s'
+                  % (tax, len(ambiguous), ' '.join(sorted(ambiguous)[:5])))
         terms = []
         for name in names:
             slot = agg[name]
             info = vocab.get(name) or {}
+            covered = {name} | set(slot['raw_variants'])
+            lookup = sorted(slot['lookup'] - covered - ambiguous)
             terms.append(collections.OrderedDict([
                 ('slug', slug_of[name]),
                 ('name', name),
@@ -393,6 +410,7 @@ def build(root, core_min=None):
                 ('tier', info.get('section')),
                 ('description', info.get('description')),
                 ('raw_variants', [v for v, _ in slot['raw_variants'].most_common()]),
+                ('lookup_variants', lookup),
                 ('from_zokusei', slot.get('from_zokusei', False)),
             ]))
         total = sum(t['count'] for t in terms)
