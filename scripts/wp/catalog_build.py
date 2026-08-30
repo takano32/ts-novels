@@ -154,6 +154,27 @@ def anchors(fragment):
     return out
 
 
+RE_TAKEDOWN = re.compile(
+    r'(?:作者[であるの]*)?([^、。「」<>\n]{1,24}?)さんの(?:ご)?(?:要望|申し出|希望)により[^。]*?'
+    r'(公開停止|掲載停止|公開を停止|掲載を停止)[^。]*?(?:（([^）]*)）)?')
+
+
+def takedown_notice(cell_html):
+    """行 3 の生 HTML から「作者の要望により公開停止」の告知を拾う。
+
+    marker_value は太字マーカーで値を切ってしまうので、告知が推薦文の後ろにあると
+    落ちる (実測 1 件)。ここは切る前のセル全体を見るため取りこぼさない。
+    戻り値: {'author': 申し出た人, 'kind': 停止の語, 'date': 記載日} または None
+    """
+    if cell_html is None:
+        return None
+    text = text_of(cell_html)
+    m = RE_TAKEDOWN.search(text)
+    if not m:
+        return None
+    return {'author': m.group(1).strip(), 'kind': m.group(2), 'date_raw': (m.group(3) or '').strip()}
+
+
 def split_tokens(value):
     """多値欄を ASCII 空白 + U+3000 で分割。NFKC 正規化前後の両方を返す。"""
     if not value:
@@ -461,9 +482,13 @@ def parse_entry(table, page, ordinal):
 
     nav = nav_links_of(suisen_html) + nav_links_of(arasuji_html) + nav_links_of(comment_html)
     inline = plain_links_of(arasuji_html) + plain_links_of(comment_html)
+    # 作者からの公開停止の申し出 (当時の運営が掲載を止めた印)。marker_value は
+    # 太字マーカーで値を切るので、告知を落とさないよう **行 3 の生 HTML 全体**を見る
+    takedown = takedown_notice(row3)
 
     return {
         'title': title,
+        'takedown_notice': takedown,
         'dropped_mailto': sorted(set(dropped)),
         '_suisen_full_empty': not text_of(suisen_html),
         'href': href,
@@ -981,6 +1006,7 @@ def build(root, annex_base, prov_map=None):
         rec['comment'] = e['comment']
         rec['osusume'] = e['osusume']
         rec['suisen'] = e['suisen']
+        rec['takedown_notice'] = e.get('takedown_notice')  # 作者の公開停止申し出 (取り下げの根拠)
         rec['nav_links'] = e['nav_links']
         rec['inline_links'] = e['inline_links']
         rec['genre'] = e['genre']
@@ -1234,7 +1260,33 @@ def selftest(records, failures, legacy_stats=None):
         check('legacy(work) の author 解決率 100%', not noauthor,
               '未解決 %d 件 %s' % (len(noauthor), noauthor[:5]))
 
+    # 作者からの公開停止の申し出は、必ず takedown/denylist.yml に載っていること。
+    # 目録に停止告知があるのに denylist に無い = 取り下げ済み作品を再公開している
+    notices = [r for r in records if r.get('takedown_notice')]
+    check('公開停止の告知を検出 == 9 件', len(notices) == 9, '実測 %d 件' % len(notices))
+    repo = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    denylist = os.path.join(repo, 'takedown', 'denylist.yml')
+    listed = open(denylist, encoding='utf-8').read() if os.path.exists(denylist) else ''
+    unlisted = [r['catalog_ref'] for r in notices
+                if r['source_path'] not in listed and not _work_listed(r, listed)]
+    check('停止告知のある話が denylist に載っている', not unlisted,
+          '未掲載 %d 件 %s' % (len(unlisted), unlisted[:5]))
+
     return all(ok for _, ok, _ in results), results
+
+
+def _work_listed(rec, denylist_text):
+    """停止告知のある話が work 単位で denylist に載っているか (works.jsonl 経由で照合)。"""
+    repo = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    path = os.path.join(repo, 'catalog', 'works.jsonl')
+    if not os.path.exists(path):
+        return False
+    for line in open(path, encoding='utf-8'):
+        w = json.loads(line)
+        eids = [e['episode_id'] if isinstance(e, dict) else e for e in w['episodes']]
+        if rec['episode_id'] in eids:
+            return w['work_slug'] in denylist_text
+    return False
 
 
 def strip_private(rec):

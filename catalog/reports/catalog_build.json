@@ -334,6 +334,16 @@
    "name": "legacy(work) の author 解決率 100%",
    "ok": true,
    "detail": "未解決 0 件 []"
+  },
+  {
+   "name": "公開停止の告知を検出 == 9 件",
+   "ok": true,
+   "detail": "実測 9 件"
+  },
+  {
+   "name": "停止告知のある話が denylist に載っている",
+   "ok": true,
+   "detail": "未掲載 0 件 []"
   }
  ],
  "selftest_ok": true
