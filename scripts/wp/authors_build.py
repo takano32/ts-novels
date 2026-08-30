@@ -523,6 +523,12 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
     confirmed_slugs = {v['slug'] for k, v in confirmed.items()
                        if v.get('role') != 'not-an-author'}
     confirmed_missing = sorted(confirmed_slugs - {a['slug'] for a in out})
+    # 板 id は分かっているが、板ログの原本が回収できていない作者。
+    # kansou_annex_url は別館に実体が無い (=書誌カードの「当時の感想を読む」が出せない)。
+    # 板 id 自体は当時のサイトが付けた正しい値なので slug には使う。
+    board_file_missing = sorted(
+        a['slug'] for a in out if a['kansou_slug'] and not os.path.exists(
+            os.path.join(root, KANSOU_DIR, 'bbs@log_%s.cgi' % a['kansou_slug'])))
 
     report = collections.OrderedDict([
         ('generated_by', 'scripts/wp/authors_build.py'),
@@ -559,6 +565,8 @@ def build(root, annex_base=DEFAULT_ANNEX_BASE):
         ('authors_identified_by_board_list_detail',
          sorted(from_board_list.items(), key=lambda kv: kv[1])),
         ('authors_with_alt_board', sum(1 for a in out if a['kansou_slug_alt'])),
+        ('authors_with_missing_board_file', len(board_file_missing)),
+        ('authors_with_missing_board_file_slugs', board_file_missing),
         ('board_slug_mismatch', board_mismatch),
         ('board_slug_mismatch_count', len(board_mismatch)),
         # --- 👤 1.5b の裁定 (confirmed) の反映状況 ---
@@ -627,6 +635,10 @@ def selftest(payload, report):
     check('裁定による作者の併合を記録', True,
           '%d 組 / 作者 %d 名が併合で消えた'
           % (report['author_merges_count'], report['authors_removed_by_merge']))
+    # 検査ではなく記録 — 板ログの原本が未回収なだけで、板 id 自体は正しい
+    check('板 id は分かるが板ログの原本が未回収の作者 (記録のみ)', True,
+          '%d 名 %s' % (report['authors_with_missing_board_file'],
+                        report['authors_with_missing_board_file_slugs'][:5]))
     return all(ok for _, ok, _ in results), results
 
 

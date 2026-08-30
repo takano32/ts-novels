@@ -297,6 +297,41 @@
   ]
  ],
  "authors_with_alt_board": 8,
+ "authors_with_missing_board_file": 32,
+ "authors_with_missing_board_file_slugs": [
+  "427",
+  "fuu",
+  "gomagira",
+  "gsdm150",
+  "hakuri",
+  "hiddenseek",
+  "hide109",
+  "hotaru",
+  "isuke",
+  "izumiya",
+  "kamonanban",
+  "kazaguruma",
+  "koro",
+  "kurogane",
+  "namakemono",
+  "nekome",
+  "niwatatami",
+  "rasetsu",
+  "rizu",
+  "sakiemon",
+  "salaryman",
+  "saya",
+  "soraouka",
+  "sts",
+  "sussu",
+  "tacchan",
+  "tekoiruka",
+  "u_t_lenge",
+  "yukimatiduki",
+  "yuu",
+  "yuuma",
+  "zock"
+ ],
  "board_slug_mismatch": [],
  "board_slug_mismatch_count": 0,
  "confirmed_names": 42,
@@ -489,6 +524,11 @@
    "name": "裁定による作者の併合を記録",
    "ok": true,
    "detail": "16 組 / 作者 17 名が併合で消えた"
+  },
+  {
+   "name": "板 id は分かるが板ログの原本が未回収の作者 (記録のみ)",
+   "ok": true,
+   "detail": "32 名 ['427', 'fuu', 'gomagira', 'gsdm150', 'hakuri']"
   }
  ],
  "selftest_ok": true
