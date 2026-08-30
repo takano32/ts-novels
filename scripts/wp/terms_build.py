@@ -433,7 +433,9 @@ def build(root, core_min=None):
         ('worlds_total', len(worlds)),
         ('episodes_with_world', len(world_index)),
         ('corpus_counts', dict(collections.Counter(r['corpus'] for r in records))),
-        ('slug_pending_review', slugmod.pending_count(overrides)),
+        ('slug_pending_review', sum(slugmod.pending_count(overrides, sec)
+                                    for sec in overrides if sec.startswith('terms_'))),
+        ('slug_pending_review_all_sections', slugmod.pending_count(overrides)),
         ('pykakasi_available', slugmod.kakasi() is not None),
     ])
     return terms_json, report, overrides, overrides_path

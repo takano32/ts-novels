@@ -17,16 +17,22 @@ WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派�
 | `authors.json` | `authors_build.py` | 作者 333 名 (表示名 413 種を感想板 id で統合) | ✅ タスク 1.4 |
 | `works.jsonl` / `work_overrides.yml` | `work_builder.py` | Episode → Work クラスタ 1,156 件 (orphan 0) | ✅ タスク 1.5 |
 | `convert_report.jsonl` | `body_convert.py` | 本文 MD 変換の無損失証明ログ | ⏳ タスク 1.6 |
-| `QA.md` | Makefile | 全体の QA レポート | ⏳ タスク 1.7 |
+| `QA.md` | `qa_report.py` (`make catalog` の最後) | 全体の QA レポート | ✅ タスク 1.7 |
 
 本文 Markdown の置き場はリポジトリ直下の `bodies/`(catalog の下ではない)。
 
 ## 再生成
 
 ```sh
-python3 scripts/wp/catalog_build.py          # 生成 + 自己検査 + レポート
-python3 scripts/wp/catalog_build.py --check  # 書かずに検査だけ (CI 向け)
+make venv        # 初回のみ: pykakasi / PyYAML 入りの .venv を作る
+make catalog     # 1.1〜1.9 を順に実行して catalog/ を作り直し、QA.md まで書く
+make check       # ファイルを書かずに各段の自己検査だけ
 ```
+
+段の順番には意味がある。`episodes.jsonl` は `catalog_build` が新規に書き、
+`uncatalogued_build` と `repost_build` が**自分の corpus 分だけ差し替えて**追記し、
+`terms_build` / `authors_build` / `work_builder` はその出来上がりを読む。
+2 回連続実行で全出力が同一になることを確認済み。
 
 自己検査は受け入れ条件をそのままコード化してある (エントリ数 2,887 / パース失敗 0 /
 mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つでも落ちると終了コード 1。

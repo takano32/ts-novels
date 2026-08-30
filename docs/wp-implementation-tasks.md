@@ -298,8 +298,16 @@
         両方 `body_convert_exempt: true` (1.6 の対象外)。
       - **補足**: pixiv のタグ 5 語 (オリジナル/TSF/SS/女性人格化/チェス) が
         keywords に入るので、文庫の語彙に外部由来の語が 1 件分だけ混ざる
-- [ ] 1.7 `make catalog` で 1.1〜1.6 を一発実行できる Makefile。QA レポートを `catalog/QA.md` に
+- [x] 1.7 `make catalog` で 1.1〜1.6 を一発実行できる Makefile。QA レポートを `catalog/QA.md` に
       (件数・合格率・needs_review 数・provenance 被覆率・特殊エントリ内訳)
+      - **1.7 実測 (2026-08-30)**: `make catalog` は 1.1/1.2 → **1.8 → 1.9** → 1.3 → 1.4 → 1.5
+        → (1.6 があれば) → 1.7 の順で走る(約 18 秒)。`make check` は書き込みなしの自己検査、
+        `make venv` は pykakasi / PyYAML 入りの `.venv` を作る。
+        **2 回連続実行で全出力(episodes/terms/authors/works/QA.md/slug_overrides)が
+        バイト単位で同一**であることを確認済み。
+      - QA レポートは `scripts/wp/qa_report.py` が `catalog/reports/*.json` から転記して
+        `catalog/QA.md` を書く(二重帳簿にしないため、ここでは再計算しない)。
+        1.6 未実装のあいだ「本文 MD 変換」節は「未実装」と出る
 
 ## Phase 2 — WP 骨格+メタ全量投入(目安 2 週)
 

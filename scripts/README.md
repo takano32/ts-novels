@@ -76,6 +76,13 @@ python3 scripts/audit_full.py                                 # 検証
 
 ## wp/ (WordPress 移築の実装)
 
+`make catalog` で 1.1〜1.9 を一発実行できる (リポジトリ直下の Makefile)。
+段の順番には意味がある — episodes.jsonl は catalog_build が新規に書き、
+uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記し、
+terms/authors/works はその出来上がりを読む。`make check` は書き込みなしの自己検査、
+`make venv` は pykakasi / PyYAML 入りの `.venv` を作る (git 管理外)。
+**2 回連続実行で全出力が同一**であることを確認済み。
+
 - **wp/catalog_build.py** — 正規目録 lib1〜73 の 2,887 エントリと旧目録 lib01〜09 の差分 97 件を
   `catalog/episodes.jsonl` へ正規化 (タスク 1.1 / 1.2)。mailto をこの段階で除去し、受け入れ条件
   (件数・パース失敗 0・mailto 残存 0・survey 実測値との一致)を自己検査として同梱。
@@ -107,6 +114,9 @@ python3 scripts/audit_full.py                                 # 検証
 - **wp/repost_build.py** — 作者本人の再掲から回収した本文を catalog に入れる (タスク 1.9)。
   検証済みの pixiv 2 件のみ (雨女 = 既存エントリに本文と来歴を追加 / きらいなもの→ＧＷ =
   文庫未掲載として `corpus=extern-repost` で新規収録)。本文は `reposts/*.txt`。
+
+- **wp/qa_report.py** — `catalog/reports/*.json` を集めて `catalog/QA.md` を書く
+  (タスク 1.7)。数字は各段のレポートからの転記だけで、ここでは再計算しない。
 
 実装プローブ (本実装の手本):
 
