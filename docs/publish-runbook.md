@@ -19,6 +19,9 @@ WP 管理画面での手動編集は禁止 (修正は catalog 側の overrides �
 
 サーバ内で使えるもの: WP-CLI 2.8.1 / mysql / rsync / git / curl / python3.6 (PHP 8.0.30)。
 
+本番環境の詳細 (ディレクトリ構成・ツール版・キャッシュ層・`.cgi` 403 制約・.htaccess の
+ブロック構造・危険操作チェックリスト) は [`environment.md`](environment.md) を参照。
+
 ## 所要時間の目安 (v0 は未実測。実測値で置き換えること)
 
 | 段 | 目安 |

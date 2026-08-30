@@ -2,6 +2,8 @@
 
 対象読者: 運営者本人と、依頼された作業を代行する実行セッション。
 単一情報源は [`takedown/denylist.yml`](../takedown/denylist.yml)。
+本番の .htaccess 構造・キャッシュ層・危険操作ガードは [`environment.md`](environment.md)、
+削除対象がリポジトリのどこにあるかは [`data-inventory.md`](data-inventory.md) を参照。
 **このランブックは Phase 7.2 の削除リハーサル (テスト作品 1 件で実流し) の結果で実測更新する。**
 v0 の時点では ①〜⑤ の手順は設計上のものであり、実行時間は未実測。
 
