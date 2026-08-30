@@ -54,6 +54,14 @@
   固まるため全 127 コレクションでも現実的。
 - **cdx_single_host.py `<host>` `<topdir>` `<out.json>`** — 新発見ホストの CDX ダンプ+
   wb_fetch 用マニフェスト生成の一発ツール (aetherworks.org 回収で使用)。
+- **bcwiki_fetch.py `<stagedir>` [--attach] [--media] [--relink]** — 現存する作者サイト
+  `bc-cafe.net/bcwiki.old/` (きりか進ノ介さん。既収蔵 `kirika.novels.name/wiki` の後継で
+  今も稼働) の PukiWiki を丸ごと回収。`?cmd=list` でページ一覧、`?plugin=attach&pcmd=list` で
+  添付一覧を取り、`?plugin=attach&pcmd=open` 経由で添付を落とす (`attach/` 直下は 403)。
+  ファイル名は kirika.novels.name/wiki と同じ `index@<クエリの % 除去>` 規約なので
+  旧ミラーとページ単位で突き合わせられる。`--relink` は収蔵後に、ページ内の絶対 URL を
+  ミラー内の相対パスへ書き換える (place_convert の一般写像はクエリを unquote するため
+  EUC-JP の %XX 名と食い違う。ここでは回収時の URL→ファイル名対応表をそのまま使う)。
 
 ## workflows/
 
