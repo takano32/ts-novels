@@ -63,10 +63,10 @@ add_action('pre_get_posts', function ($q) {
 });
 
 add_filter('document_title_parts', function ($parts) {
-    $titles = ['kana' => '作者さくいん', 'timeline' => '年表', 'bunrui' => '分類さくいん',
-               'vocabulary' => 'キーワードさくいん', 'osusume' => 'オススメの環',
+    $titles = ['kana' => '作者索引', 'timeline' => '年表', 'bunrui' => '分類索引',
+               'vocabulary' => 'キーワード索引', 'osusume' => 'オススメの環',
                'docs' => '運営文書・資料'];
-    if ($k = ts_index_kind()) $parts['title'] = $titles[$k] ?? 'さくいん';
+    if ($k = ts_index_kind()) $parts['title'] = $titles[$k] ?? '索引';
     if ($y = ts_index_year()) $parts['title'] = $y . '年の作品';
     return $parts;
 });
@@ -133,7 +133,7 @@ function ts_bunko_index_timeline() {
         . esc_url(home_url('/index/docs/#sec-prehistory')) . '">文庫前史</a> にあります。</p>';
 }
 
-/** 分類さくいん: ジャンル・種別・共有世界の全 term */
+/** 分類索引: ジャンル・種別・共有世界の全 term */
 function ts_bunko_index_bunrui() {
     foreach ([['ts_genre', 'ジャンル'], ['ts_type', '変身のかたち'], ['ts_world', '共有世界']] as [$tax, $label]) {
         $terms = get_terms(['taxonomy' => $tax, 'hide_empty' => true,
@@ -149,7 +149,7 @@ function ts_bunko_index_bunrui() {
     }
 }
 
-/** キーワードさくいん: 旧目録の語彙全部 (件数順) */
+/** キーワード索引: 旧目録の語彙全部 (件数順) */
 function ts_bunko_index_vocabulary() {
     $terms = get_terms(['taxonomy' => 'ts_keyword', 'hide_empty' => true,
                         'orderby' => 'count', 'order' => 'DESC']);
@@ -207,7 +207,7 @@ function ts_bunko_index_osusume() {
     if (!$n) echo '<p>オススメの記録は見つかりませんでした。</p>';
 }
 
-/** 運営文書・資料のさくいん (ts_doc を区分ごとに) */
+/** 運営文書・資料の索引 (ts_doc を区分ごとに) */
 function ts_bunko_index_docs() {
     $docs = get_posts(['post_type' => 'ts_doc', 'post_status' => 'publish',
                        'posts_per_page' => -1, 'orderby' => 'name', 'order' => 'ASC']);
