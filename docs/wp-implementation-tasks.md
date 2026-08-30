@@ -829,7 +829,8 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 - [ ] 4.3 索引ページ群: `/index/kana/{a..wa}/`・`/index/timeline/`・`/index/bunrui/`・
       `/index/vocabulary/`・`/index/osusume/`(`_ts_osusume(_in)` から)
 - [ ] 4.4 `/year/YYYY/` リライト(mu-plugin)とトップページ(「今日の一作」= 日付シード選出、
-      「新着」は置かない)
+      「新着」は置かない。**一覧はリロード毎ランダム — ユーザ裁定 2026-08-30**、
+      定額ホストなので RAND() の負荷は許容。トップは nocache_headers でキャッシュ抑止)
 - [ ] 4.5 検索: WP 標準検索+タクソノミーのファセット絞込テンプレート
       (設計書の Pagefind は静的書き出し前提が v1.1 で消えたため置換 — 設計書側にも追補済み)
 - [ ] 4.7 **ギャラリー区画** (設計 v1.4): `~yays/gallery/` の CG 313 点を WP に収録。

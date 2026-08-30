@@ -22,6 +22,7 @@ final class TS_Library {
         add_filter('pings_open', [self::class, 'no_comments'], 20, 2);
         add_action('wp_head', [self::class, 'noindex_boards'], 1);
         add_action('pre_get_posts', [self::class, 'front_page_query']);
+        add_action('template_redirect', [self::class, 'nocache_home']);
         add_filter('render_block_core/heading', [self::class, 'home_heading'], 10, 2);
         add_filter('render_block_core/navigation-link', [self::class, 'drop_placeholder_nav'], 10, 2);
         add_filter('render_block_core/paragraph', [self::class, 'drop_empty_meta_row'], 10, 2);
@@ -51,14 +52,21 @@ final class TS_Library {
         return preg_match('/^(執筆者|カテゴリ|投稿者|タグ)[:：]?$/u', $txt) ? '' : $content;
     }
 
-    /** 暫定トップ: 標準の「最新の投稿」を作品 (親投稿) 一覧に差し替える。
-     *  本格的なトップページは Phase 4 のテーマで作る — それまで成果が見える状態を保つ。 */
+    /** トップ: 作品 (親投稿) をリロード毎ランダムで見せる (ユーザ裁定 2026-08-30 —
+     *  閉架アーカイブに新着順は不向き。定額ホストなので RAND() の負荷は許容)。
+     *  「今日の一作」等のセクションは Phase 4 の front-page テンプレートで足す。 */
     public static function front_page_query($q): void {
         if (is_admin() || !$q->is_main_query() || !$q->is_home()) return;
         $q->set('post_type', 'ts_work');
         $q->set('post_parent', 0);            // 話 (子投稿) は出さない
         $q->set('posts_per_page', 12);
+        $q->set('orderby', 'rand');
         $q->set('ignore_sticky_posts', true);
+    }
+
+    /** トップはキャッシュさせない — 前段 nginx がシャッフルを固定しないように */
+    public static function nocache_home(): void {
+        if (is_home() && !is_admin()) nocache_headers();
     }
 
     public static function register(): void {
