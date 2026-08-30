@@ -79,46 +79,12 @@
   }
  },
  "worlds": {
-  "2daime": {
-   "name": "二代目シリーズ",
-   "count": 12,
+  "kayo_chan": {
+   "name": "「華代ちゃん」シリーズ",
+   "count": 223,
    "match_reasons": {
-    "board": 12
-   }
-  },
-  "delayed": {
-   "name": "仮面ライターディレイド",
-   "count": 10,
-   "match_reasons": {
-    "board": 10
-   }
-  },
-  "dirty": {
-   "name": "ダーティーエンジェルシリーズ",
-   "count": 11,
-   "match_reasons": {
-    "path": 11
-   }
-  },
-  "fms": {
-   "name": "FMS シリーズ",
-   "count": 4,
-   "match_reasons": {
-    "title": 4
-   }
-  },
-  "foster": {
-   "name": "次元管理人フォスターシリーズ",
-   "count": 21,
-   "match_reasons": {
-    "board": 21
-   }
-  },
-  "himekami": {
-   "name": "妖魔夜行 姫神奇譚シリーズ",
-   "count": 41,
-   "match_reasons": {
-    "board": 41
+    "board": 218,
+    "path": 5
    }
   },
   "hunter": {
@@ -128,12 +94,26 @@
     "title": 12
    }
   },
-  "kayo_chan": {
-   "name": "「華代ちゃん」シリーズ",
-   "count": 223,
+  "himekami": {
+   "name": "妖魔夜行 姫神奇譚シリーズ",
+   "count": 41,
    "match_reasons": {
-    "board": 218,
-    "path": 5
+    "board": 41
+   }
+  },
+  "foster": {
+   "name": "次元管理人フォスターシリーズ",
+   "count": 21,
+   "match_reasons": {
+    "board": 21
+   }
+  },
+  "rental": {
+   "name": "「レンタル・ボディ」シリーズ",
+   "count": 17,
+   "match_reasons": {
+    "path": 16,
+    "board": 1
    }
   },
   "mirror_ring": {
@@ -143,6 +123,34 @@
     "path": 2
    }
   },
+  "setsubou": {
+   "name": "「切望」シリーズ",
+   "count": 2,
+   "match_reasons": {
+    "board": 2
+   }
+  },
+  "dirty": {
+   "name": "ダーティーエンジェルシリーズ",
+   "count": 11,
+   "match_reasons": {
+    "board": 11
+   }
+  },
+  "sugar": {
+   "name": "シェアワールド「SugarSweets」",
+   "count": 1,
+   "match_reasons": {
+    "board": 1
+   }
+  },
+  "fms": {
+   "name": "FMS シリーズ",
+   "count": 4,
+   "match_reasons": {
+    "title": 4
+   }
+  },
   "relay_novel": {
    "name": "リレー小説",
    "count": 8,
@@ -150,25 +158,18 @@
     "board": 8
    }
   },
-  "rental": {
-   "name": "「レンタル・ボディ」シリーズ",
-   "count": 16,
+  "delayed": {
+   "name": "仮面ライターディレイド",
+   "count": 10,
    "match_reasons": {
-    "path": 16
+    "board": 10
    }
   },
-  "setsubou": {
-   "name": "「切望」シリーズ",
-   "count": 2,
+  "2daime": {
+   "name": "二代目シリーズ",
+   "count": 12,
    "match_reasons": {
-    "path": 2
-   }
-  },
-  "sugar": {
-   "name": "シェアワールド「SugarSweets」",
-   "count": 1,
-   "match_reasons": {
-    "path": 1
+    "board": 12
    }
   },
   "utanotsuki": {
@@ -180,7 +181,7 @@
   }
  },
  "worlds_total": 14,
- "episodes_with_world": 362,
+ "episodes_with_world": 363,
  "corpus_counts": {
   "honkan": 2887,
   "legacy": 97

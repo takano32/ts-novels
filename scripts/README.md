@@ -90,6 +90,10 @@ python3 scripts/audit_full.py                                 # 検証
   題名規則) と ts_corpus 4 本もここで生成。当時の語彙定義ページ (genre.html /
   type_of_change.html / keyword.html) を term description に転用する。
 
+- **wp/authors_build.py** — 作者を `catalog/authors.json` へ (タスク 1.4)。感想板 id を
+  同定の鍵にし、共有シリーズ板 (華代ちゃん等 11 板) は作者板ではないので表示名で同定する。
+  yomi は lib-index-*.html の所属行から。板を持たない作者の slug は pykakasi 候補どまり。
+
 実装プローブ (本実装の手本):
 
 - **wp/md_convert_probe.py `<N>` [seed]** — 本文 HTML→Markdown 変換の実現性プローブ。ブラウザ等価

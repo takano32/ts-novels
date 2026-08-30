@@ -13,6 +13,1335 @@
 # authors セクション = 作者 slug (scripts/wp/authors_build.py)
 # works セクション = 作品 slug (scripts/wp/work_builder.py)
 
+authors:
+  (原作:TWO-BIT):
+    slug: gensaku-two-bit
+    source: pykakasi
+    status: candidate
+  100万Hit:
+    slug: million
+    source: kansou-board
+    status: auto
+  150万画素:
+    slug: gsdm150
+    source: kansou-board
+    status: auto
+  ?????:
+    slug: qqqqq
+    source: kansou-board
+    status: auto
+  BAF:
+    slug: baf
+    source: kansou-board
+    status: auto
+  BOXER 6:
+    slug: boxer_6
+    source: kansou-board
+    status: auto
+  BUSTIER:
+    slug: bustier
+    source: kansou-board
+    status: auto
+  Blue-μ（ブルーミュー）:
+    slug: bluemew
+    source: kansou-board
+    status: auto
+  Bシュウ:
+    slug: bshuu
+    source: pykakasi
+    status: candidate
+  DEKOI:
+    slug: dekoi
+    source: kansou-board
+    status: auto
+  DEKOI（協力　DATTA）:
+    slug: dekoi-kyouryoku-datta
+    source: pykakasi
+    status: candidate
+  G-Cat:
+    slug: g_cat
+    source: kansou-board
+    status: auto
+  HIKO:
+    slug: hiko
+    source: kansou-board
+    status: auto
+  HIKU:
+    slug: popo
+    source: kansou-board
+    status: auto
+  Hidden-Seek:
+    slug: hiddenseek
+    source: kansou-board
+    status: auto
+  John:
+    slug: john
+    source: kansou-board
+    status: auto
+  KEBO:
+    slug: kebo
+    source: kansou-board
+    status: auto
+  KOP:
+    slug: kop
+    source: ascii
+    status: auto
+  Kardy:
+    slug: kardy
+    source: kansou-board
+    status: auto
+  Knight:
+    slug: knight
+    source: kansou-board
+    status: auto
+  Kちゃんね〜〜る:
+    slug: k_channel
+    source: kansou-board
+    status: auto
+  MAKORIN:
+    slug: makorin
+    source: kansou-board
+    status: auto
+  MaSaMi:
+    slug: masami
+    source: ascii
+    status: auto
+  Mist:
+    slug: mist
+    source: kansou-board
+    status: auto
+  NATO:
+    slug: manachan
+    source: kansou-board
+    status: auto
+  Night Neon Nightmare-LiLim:
+    slug: night_neon_nightmare_lilim
+    source: kansou-board
+    status: auto
+  Plantain:
+    slug: plantain
+    source: kansou-board
+    status: auto
+  Revolution:
+    slug: revolution
+    source: kansou-board
+    status: auto
+  SAND ROSES:
+    slug: sand_roses
+    source: kansou-board
+    status: auto
+  SATO:
+    slug: sato
+    source: kansou-board
+    status: auto
+  STS:
+    slug: sts
+    source: kansou-board
+    status: auto
+  TRACE:
+    slug: trace
+    source: kansou-board
+    status: auto
+  Taika Yamani.:
+    slug: taika
+    source: kansou-board
+    status: auto
+  Tarota:
+    slug: tarota
+    source: kansou-board
+    status: auto
+  U.T.Lenge:
+    slug: u_t_lenge
+    source: kansou-board
+    status: auto
+  WATARU1024:
+    slug: wataru1024
+    source: kansou-board
+    status: auto
+  West:
+    slug: west
+    source: kansou-board
+    status: auto
+  YOKO:
+    slug: yoko
+    source: kansou-board
+    status: auto
+  Y_kahn:
+    slug: y_kahn
+    source: kansou-board
+    status: auto
+  a-mode:
+    slug: a_mode
+    source: kansou-board
+    status: auto
+  blue14:
+    slug: blue14
+    source: ascii
+    status: auto
+  caviar:
+    slug: caviar
+    source: kansou-board
+    status: auto
+  dragonmagic:
+    slug: dragonmagic
+    source: kansou-board
+    status: auto
+  eiri:
+    slug: eiri
+    source: kansou-board
+    status: auto
+  hide109:
+    slug: hide109
+    source: kansou-board
+    status: auto
+  hiyuki:
+    slug: hiyuki
+    source: kansou-board
+    status: auto
+  hosoboso:
+    slug: hosoboso
+    source: kansou-board
+    status: auto
+  inax:
+    slug: inax
+    source: ascii
+    status: auto
+  kagerou6:
+    slug: kagerou6
+    source: kansou-board
+    status: auto
+  koro:
+    slug: koro
+    source: kansou-board
+    status: auto
+  kou:
+    slug: kou
+    source: ascii
+    status: auto
+  missing:
+    slug: missing
+    source: kansou-board
+    status: auto
+  sana:
+    slug: sana
+    source: kansou-board
+    status: auto
+  sino:
+    slug: sino
+    source: kansou-board
+    status: auto
+  starbow:
+    slug: starbow
+    source: kansou-board
+    status: auto
+  you':
+    slug: you-2
+    source: ascii
+    status: auto
+  yuk:
+    slug: yuk
+    source: kansou-board
+    status: auto
+  ¥＝＄:
+    slug: yendolls
+    source: kansou-board
+    status: auto
+  あおき　あきお:
+    slug: aoki_akio
+    source: kansou-board
+    status: auto
+  あき:
+    slug: aki
+    source: kansou-board
+    status: auto
+  あさり:
+    slug: asari
+    source: kansou-board
+    status: auto
+  あっぴぃ:
+    slug: appiee
+    source: kansou-board
+    status: auto
+  あのよろし:
+    slug: anoyoroshi
+    source: pykakasi
+    status: candidate
+  あむぁい:
+    slug: amulai
+    source: kansou-board
+    status: auto
+  いすけ:
+    slug: isuke
+    source: kansou-board
+    status: auto
+  いちろう:
+    slug: ichirou
+    source: kansou-board
+    status: auto
+  いとう:
+    slug: itou
+    source: kansou-board
+    status: auto
+  うえきバチ:
+    slug: uekibati
+    source: kansou-board
+    status: auto
+  おもちばこ:
+    slug: omochibako
+    source: kansou-board
+    status: auto
+  おれんじじゅ〜ちゅ:
+    slug: oyagiaka
+    source: kansou-board
+    status: auto
+  かわねぎ:
+    slug: kawanegi
+    source: kansou-board
+    status: auto
+  きりか進ノ介:
+    slug: kirika
+    source: kansou-board
+    status: auto
+  きりきり:
+    slug: kirikiri
+    source: kansou-board
+    status: auto
+  こうけい:
+    slug: koukei
+    source: kansou-board
+    status: auto
+  ことぶきひかる:
+    slug: kotobuki_hikaru_ndcss
+    source: kansou-board
+    status: auto
+  ごく普通のサラリーマン:
+    slug: salaryman
+    source: kansou-board
+    status: auto
+  すな:
+    slug: sunasan
+    source: kansou-board
+    status: auto
+  そら＠雪月風花:
+    slug: soraouka
+    source: kansou-board
+    status: auto
+  てつら:
+    slug: tetsura
+    source: kansou-board
+    status: auto
+  なまけもの:
+    slug: namakemono
+    source: kansou-board
+    status: auto
+  にわたたみ:
+    slug: niwatatami
+    source: kansou-board
+    status: auto
+  ねこじゃらし:
+    slug: nekojarashi
+    source: kansou-board
+    status: auto
+  ぴろ:
+    slug: piro
+    source: pykakasi
+    status: candidate
+  ふう:
+    slug: fuu
+    source: pykakasi
+    status: candidate
+  ふらっと:
+    slug: flat
+    source: kansou-board
+    status: auto
+  ほたる:
+    slug: hotaru
+    source: kansou-board
+    status: auto
+  ぽぽ:
+    slug: popo-2
+    source: pykakasi
+    status: candidate
+  まーさ:
+    slug: mahsa
+    source: kansou-board
+    status: auto
+  みかん飴:
+    slug: mikan_ame
+    source: kansou-board
+    status: auto
+  みたま:
+    slug: mitama
+    source: kansou-board
+    status: auto
+  みゅん:
+    slug: myun
+    source: kansou-board
+    status: auto
+  みるく聖姫:
+    slug: milkseiki
+    source: kansou-board
+    status: auto
+  もぐたん:
+    slug: mogutan
+    source: kansou-board
+    status: auto
+  もと(ＭＯＴＯ):
+    slug: moto-moto
+    source: pykakasi
+    status: candidate
+  もりげ:
+    slug: morige
+    source: kansou-board
+    status: auto
+  やまどりたけ:
+    slug: yamadori_take
+    source: kansou-board
+    status: auto
+  ゆあさのみき:
+    slug: yuasano_miki
+    source: kansou-board
+    status: auto
+  ゆうぼう:
+    slug: yuubou
+    source: kansou-board
+    status: auto
+  ゆぐどらしる:
+    slug: yggdrasil
+    source: kansou-board
+    status: auto
+  よしおか:
+    slug: yoshioka
+    source: kansou-board
+    status: auto
+  よっすぃー:
+    slug: yosswih
+    source: kansou-board
+    status: auto
+  らぴーと:
+    slug: rapeet
+    source: kansou-board
+    status: auto
+  りじ〜:
+    slug: rijih
+    source: kansou-board
+    status: auto
+  るーふぁす:
+    slug: ruhfasu
+    source: kansou-board
+    status: auto
+  ろっほ:
+    slug: rohho
+    source: pykakasi
+    status: candidate
+  ろーむ:
+    slug: roam
+    source: kansou-board
+    status: auto
+  アカトリ:
+    slug: akatori
+    source: kansou-board
+    status: auto
+  アルム＝バンド:
+    slug: alm_band
+    source: kansou-board
+    status: auto
+  ウぇちヲ:
+    slug: wetio
+    source: kansou-board
+    status: auto
+  ガソダム:
+    slug: gasodamu
+    source: kansou-board
+    status: auto
+  キング:
+    slug: king
+    source: kansou-board
+    status: auto
+  クラスター:
+    slug: cluster
+    source: kansou-board
+    status: auto
+  クロガネ:
+    slug: kurogane
+    source: kansou-board
+    status: auto
+  コンカナ:
+    slug: konkana
+    source: pykakasi
+    status: candidate
+  コーディー:
+    slug: kohdhi
+    source: kansou-board
+    status: auto
+  ゴマぎら:
+    slug: gomagira
+    source: kansou-board
+    status: auto
+  ゴールドアーム:
+    slug: goldarm
+    source: kansou-board
+    status: auto
+  サイファー:
+    slug: saifa
+    source: kansou-board
+    status: auto
+  サージェント雪舟:
+    slug: sergeant
+    source: kansou-board
+    status: auto
+  シェアワールド:
+    slug: shieawaarudo
+    source: pykakasi
+    status: candidate
+  シュウ:
+    slug: shuu
+    source: pykakasi
+    status: candidate
+  ジニ:
+    slug: jini
+    source: kansou-board
+    status: auto
+  ジブドレ:
+    slug: jibudore
+    source: pykakasi
+    status: candidate
+  ジャージレッド:
+    slug: jersey_red
+    source: kansou-board
+    status: auto
+  スッス:
+    slug: sussu
+    source: kansou-board
+    status: auto
+  スペルザらス:
+    slug: superuzarasu
+    source: kansou-board
+    status: auto
+  スレントス -Slents-:
+    slug: slents
+    source: kansou-board
+    status: auto
+  セル:
+    slug: cell
+    source: kansou-board
+    status: auto
+  タッチャン:
+    slug: tacchan
+    source: kansou-board
+    status: auto
+  ダイナモ:
+    slug: dainamo
+    source: kansou-board
+    status: auto
+  テンメイ:
+    slug: tenmei
+    source: kansou-board
+    status: auto
+  デンドロビウム:
+    slug: dendoro
+    source: kansou-board
+    status: auto
+  トリプティコン:
+    slug: triptycon
+    source: kansou-board
+    status: auto
+  ノイン:
+    slug: noin
+    source: kansou-board
+    status: auto
+  ノリシロ:
+    slug: norishiro
+    source: kansou-board
+    status: auto
+  ハクリ:
+    slug: hakuri
+    source: kansou-board
+    status: auto
+  ハバハバ:
+    slug: habahaba
+    source: kansou-board
+    status: auto
+  ハミングソード:
+    slug: humming_sord
+    source: kansou-board
+    status: auto
+  ハーブ:
+    slug: herb
+    source: kansou-board
+    status: auto
+  バレット:
+    slug: baretto
+    source: kansou-board
+    status: auto
+  バンテツ:
+    slug: bantetsu
+    source: kansou-board
+    status: auto
+  パンダ５:
+    slug: panda5
+    source: kansou-board
+    status: auto
+  ヒラリーマン:
+    slug: hirariiman
+    source: pykakasi
+    status: candidate
+  フレーズ:
+    slug: phrase
+    source: kansou-board
+    status: auto
+  ポポフ:
+    slug: popof
+    source: kansou-board
+    status: auto
+  マコト:
+    slug: makoto
+    source: kansou-board
+    status: auto
+  マッハ亀:
+    slug: mahhakame
+    source: kansou-board
+    status: auto
+  ミスター長崎:
+    slug: mr_nagasaki
+    source: kansou-board
+    status: auto
+  ミズキヒカル:
+    slug: mizuki_hikaru
+    source: kansou-board
+    status: auto
+  メガ\:
+    slug: mega
+    source: pykakasi
+    status: candidate
+  ヤマダ:
+    slug: yamada
+    source: kansou-board
+    status: auto
+  ユウ:
+    slug: yuu
+    source: kansou-board
+    status: auto
+  ユタ:
+    slug: yuta
+    source: kansou-board
+    status: auto
+  ヨシカズ:
+    slug: yoshikazu
+    source: kansou-board
+    status: auto
+  ライターマン:
+    slug: writerman
+    source: kansou-board
+    status: auto
+  ラウル:
+    slug: raulu
+    source: kansou-board
+    status: auto
+  ラッキー:
+    slug: lucky
+    source: kansou-board
+    status: auto
+  リズ:
+    slug: rizu
+    source: kansou-board
+    status: auto
+  ヴァリオン:
+    slug: valion
+    source: kansou-board
+    status: auto
+  七斬:
+    slug: nanagiri
+    source: kansou-board
+    status: auto
+  三木台風:
+    slug: miki_taifuu
+    source: kansou-board
+    status: auto
+  上月　乃理:
+    slug: kozuki_nori
+    source: kansou-board
+    status: auto
+  丑寅:
+    slug: ushitora
+    source: kansou-board
+    status: auto
+  乾:
+    slug: inui
+    source: kansou-board
+    status: auto
+  亜希みちる:
+    slug: aki_michiru
+    source: kansou-board
+    status: auto
+  亜希みちる＆こうけい:
+    slug: akimichiru-koukei
+    source: pykakasi
+    status: candidate
+  仲根多鎖:
+    slug: nakanetakusari
+    source: pykakasi
+    status: candidate
+  会津里花:
+    slug: aizu_rika
+    source: kansou-board
+    status: auto
+  佐藤香子:
+    slug: satoh_kouko
+    source: kansou-board
+    status: auto
+  優:
+    slug: you
+    source: kansou-board
+    status: auto
+  八重洲二世:
+    slug: yays
+    source: kansou-board
+    status: auto
+  匿名希望:
+    slug: tokumeikibou
+    source: pykakasi
+    status: candidate
+  十六夜:
+    slug: izayoi
+    source: kansou-board
+    status: auto
+  十郎太:
+    slug: juurouta
+    source: kansou-board
+    status: auto
+  南文堂:
+    slug: minafumido
+    source: kansou-board
+    status: auto
+  原案：わにゃん＆るう　　編著：るう:
+    slug: ruu
+    source: kansou-board
+    status: auto
+  原案：Ｋｅｙｓｗｉｔｃｈ　文章：かもライン:
+    slug: kamorain
+    source: kansou-board
+    status: auto
+  原田聖也:
+    slug: haradaseiya
+    source: kansou-board
+    status: auto
+  名高忍:
+    slug: nadaka_shinobu
+    source: kansou-board
+    status: auto
+  四迷:
+    slug: shimei
+    source: kansou-board
+    status: auto
+  土也紫緒:
+    slug: tsuchiya
+    source: kansou-board
+    status: auto
+  地駆鴉:
+    slug: chikua
+    source: kansou-board
+    status: auto
+  城弾:
+    slug: johdan
+    source: kansou-board
+    status: auto
+  堀井　忍:
+    slug: horii_sinobu
+    source: kansou-board
+    status: auto
+  堀幸子:
+    slug: hori_sachiko
+    source: kansou-board
+    status: auto
+  塵芥王:
+    slug: chiriakutaou
+    source: pykakasi
+    status: candidate
+  壊燕:
+    slug: kaien
+    source: kansou-board
+    status: auto
+  夕暮稀人:
+    slug: yuugure
+    source: kansou-board
+    status: auto
+  多田暇人:
+    slug: himajin
+    source: kansou-board
+    status: auto
+  夜夢:
+    slug: yamu
+    source: kansou-board
+    status: auto
+  夢追い人:
+    slug: yumeoibito
+    source: kansou-board
+    status: auto
+  大作:
+    slug: daisaku
+    source: kansou-board
+    status: auto
+  大原野山城守武里:
+    slug: ohharano
+    source: kansou-board
+    status: auto
+  大山 あきら:
+    slug: ohyama
+    source: kansou-board
+    status: auto
+  天爛:
+    slug: shining_heaven
+    source: kansou-board
+    status: auto
+  太九郎:
+    slug: takurou
+    source: kansou-board
+    status: auto
+  奄美平次:
+    slug: amami
+    source: kansou-board
+    status: auto
+  宮下しのぶ:
+    slug: miyashita_shinobu
+    source: kansou-board
+    status: auto
+  山口多聞:
+    slug: yamaguti_oomi
+    source: kansou-board
+    status: auto
+  山田天授:
+    slug: yamadaten
+    source: kansou-board
+    status: auto
+  山陰しろいるか:
+    slug: shiroiruka
+    source: kansou-board
+    status: auto
+  島くじら:
+    slug: shimakujira
+    source: kansou-board
+    status: auto
+  干支:
+    slug: eto
+    source: kansou-board
+    status: auto
+  広尾　翔:
+    slug: hiroo_syou
+    source: kansou-board
+    status: auto
+  庄司　眠夢:
+    slug: syouji_mimu
+    source: kansou-board
+    status: auto
+  思案の六ぽ:
+    slug: roppo
+    source: kansou-board
+    status: auto
+  愛に死す:
+    slug: ainishisu
+    source: kansou-board
+    status: auto
+  手恋るか:
+    slug: tekoiruka
+    source: kansou-board
+    status: auto
+  新ヶ浜咲衛門:
+    slug: sakiemon
+    source: kansou-board
+    status: auto
+  日比野:
+    slug: hibino
+    source: kansou-board
+    status: auto
+  曹長:
+    slug: soutyou
+    source: kansou-board
+    status: auto
+  月と太陽:
+    slug: tsukitotaiyou
+    source: kansou-board
+    status: auto
+  月の下みずき:
+    slug: tsukinoshita_mizuki
+    source: kansou-board
+    status: auto
+  未月:
+    slug: mizuki
+    source: kansou-board
+    status: auto
+  根室　眞琴:
+    slug: nemuro-makoto
+    source: pykakasi
+    status: candidate
+  根室　眞琴改め、スレントス-Slents-:
+    slug: nemuro-makotoaratame-surentosu-slents
+    source: pykakasi
+    status: candidate
+  桜沢シンジ:
+    slug: sakurazawa_sinnji
+    source: kansou-board
+    status: auto
+  桜牙:
+    slug: ouga
+    source: kansou-board
+    status: auto
+  森屋ひーろ:
+    slug: moriya_hihro
+    source: kansou-board
+    status: auto
+  樹遠零:
+    slug: kion_rei
+    source: kansou-board
+    status: auto
+  水無月:
+    slug: minaduki
+    source: kansou-board
+    status: auto
+  水谷秋夫:
+    slug: mizutani_akio
+    source: kansou-board
+    status: auto
+  泉美樹:
+    slug: izumi_miki
+    source: kansou-board
+    status: auto
+  泉谷パーム:
+    slug: izumiya
+    source: kansou-board
+    status: auto
+  流離太:
+    slug: rurita
+    source: kansou-board
+    status: auto
+  深草あゆみ:
+    slug: fukakusa_ayumi
+    source: kansou-board
+    status: auto
+  無糖:
+    slug: mutou
+    source: kansou-board
+    status: auto
+  牡蠣倶毛子:
+    slug: kakikukeko
+    source: kansou-board
+    status: auto
+  猫又三郎:
+    slug: nekomata
+    source: kansou-board
+    status: auto
+  猫目ニボシJIRO:
+    slug: nekome
+    source: kansou-board
+    status: auto
+  猫野丸太丸:
+    slug: nekono_gundam
+    source: kansou-board
+    status: auto
+  現:
+    slug: ututu
+    source: kansou-board
+    status: auto
+  由衣:
+    slug: yui
+    source: pykakasi
+    status: candidate
+  白羽党:
+    slug: byakuutoh
+    source: kansou-board
+    status: auto
+  盛:
+    slug: mori
+    source: kansou-board
+    status: auto
+  真城　悠:
+    slug: mashiro_yuu
+    source: kansou-board
+    status: auto
+  矢治浩平:
+    slug: yaji
+    source: kansou-board
+    status: auto
+  砕:
+    slug: sai
+    source: kansou-board
+    status: auto
+  神崎亮と外道会:
+    slug: kanzakiryou_gedoukai
+    source: kansou-board
+    status: auto
+  神川綾乃:
+    slug: kamikawa_ayano_
+    source: kansou-board
+    status: auto
+  神束:
+    slug: kamituka
+    source: kansou-board
+    status: auto
+  空揚げ:
+    slug: karaage_New
+    source: kansou-board
+    status: auto
+  空知かたほ:
+    slug: sorachikataho
+    source: pykakasi
+    status: candidate
+  米津:
+    slug: yonezu
+    source: kansou-board
+    status: auto
+  紀由元駄話沙:
+    slug: kiyumoto
+    source: kansou-board
+    status: auto
+  紅梨亜:
+    slug: koria
+    source: kansou-board
+    status: auto
+  羅刹法師:
+    slug: rasetsu
+    source: kansou-board
+    status: auto
+  胡乱太:
+    slug: uronta
+    source: pykakasi
+    status: candidate
+  自称暇人:
+    slug: jisyou_himajin
+    source: kansou-board
+    status: auto
+  若狭しゆこ:
+    slug: wakasa_siyuko
+    source: kansou-board
+    status: auto
+  英雄:
+    slug: hideo
+    source: kansou-board
+    status: auto
+  菓子:
+    slug: kashi
+    source: kansou-board
+    status: auto
+  華村天稀:
+    slug: tenki
+    source: kansou-board
+    status: auto
+  薪喬:
+    slug: maki_takashi
+    source: kansou-board
+    status: auto
+  薪喬（まきたかし）:
+    slug: takigitakashi-makitakashi
+    source: pykakasi
+    status: candidate
+  藍羽桃和寛:
+    slug: aibatou
+    source: kansou-board
+    status: auto
+  蘭　死郎:
+    slug: ran_sirou
+    source: kansou-board
+    status: auto
+  虎之助:
+    slug: toranosuke
+    source: pykakasi
+    status: candidate
+  西さとる:
+    slug: nishisatoru
+    source: pykakasi
+    status: candidate
+  角:
+    slug: kakusan
+    source: kansou-board
+    status: auto
+  角さん(絵) / オヤジ さん(文):
+    slug: kakusan-e-oyaji-san-bun
+    source: pykakasi
+    status: candidate
+  豆電球:
+    slug: mamedenkyuu
+    source: kansou-board
+    status: auto
+  赤目（ＲＥＤ　ＥＹＥ）:
+    slug: akame_redeye
+    source: kansou-board
+    status: auto
+  赤石恵佑:
+    slug: akaishikeiyuu
+    source: kansou-board
+    status: auto
+  超！海老寿司:
+    slug: choh_ebizushi
+    source: kansou-board
+    status: auto
+  足利良忠:
+    slug: ashikaga
+    source: kansou-board
+    status: auto
+  輝晒正流:
+    slug: kisai_seiryu
+    source: kansou-board
+    status: auto
+  逃げ馬:
+    slug: nigeuma
+    source: kansou-board
+    status: auto
+  逆流人:
+    slug: gyaku
+    source: kansou-board
+    status: auto
+  通りすがり:
+    slug: tourisugari
+    source: kansou-board
+    status: auto
+  通りすがりのあざらし:
+    slug: azarashi
+    source: kansou-board
+    status: auto
+  達句　英知:
+    slug: taku_eichi
+    source: kansou-board
+    status: auto
+  那華田キュロパン:
+    slug: nakata_kyuroban
+    source: kansou-board
+    status: auto
+  鈴忌 紫:
+    slug: suzuki_murasaki
+    source: kansou-board
+    status: auto
+  鈴木静香:
+    slug: suzuki_shizuka
+    source: kansou-board
+    status: auto
+  鏡:
+    slug: kagami
+    source: kansou-board
+    status: auto
+  雅良生:
+    slug: garyosei
+    source: kansou-board
+    status: auto
+  雪待兎:
+    slug: yukimatiduki
+    source: kansou-board
+    status: auto
+  青ズボン:
+    slug: aozubon
+    source: kansou-board
+    status: auto
+  響アスカ:
+    slug: hibiki_asuka
+    source: kansou-board
+    status: auto
+  須堂　奈津紀:
+    slug: sudoh_natsuki
+    source: kansou-board
+    status: auto
+  風車:
+    slug: kazaguruma
+    source: kansou-board
+    status: auto
+  驟雨:
+    slug: sakuhin_no115
+    source: kansou-board
+    status: auto
+  骸骨:
+    slug: gaikotsu
+    source: kansou-board
+    status: auto
+  高居空:
+    slug: sky_high
+    source: kansou-board
+    status: auto
+  高樹ひろむ:
+    slug: takakihiromu
+    source: pykakasi
+    status: candidate
+  鮎川 翔子:
+    slug: ayukawa
+    source: kansou-board
+    status: auto
+  鴨南蛮:
+    slug: kamonanban
+    source: kansou-board
+    status: auto
+  麗香:
+    slug: reika
+    source: pykakasi
+    status: candidate
+  麻国:
+    slug: makoku
+    source: kansou-board
+    status: auto
+  黒猫男:
+    slug: kuroneko_otoko
+    source: kansou-board
+    status: auto
+  黒白:
+    slug: sirokuro
+    source: kansou-board
+    status: auto
+  龍酒:
+    slug: ryuhju
+    source: kansou-board
+    status: auto
+  ４２７:
+    slug: '427'
+    source: kansou-board
+    status: auto
+  ７Ｃｙ:
+    slug: 7cy
+    source: kansou-board
+    status: auto
+  ？？？？:
+    slug: author-1
+    source: fallback
+    status: candidate
+  ＠ユウマ:
+    slug: yuuma
+    source: kansou-board
+    status: auto
+  ＢＡＣＫＢＯＮＥ:
+    slug: backbone
+    source: kansou-board
+    status: auto
+  Ｋ:
+    slug: k
+    source: kansou-board
+    status: auto
+  Ｋ－ＫＡＤＤ:
+    slug: k-kadd
+    source: ascii
+    status: auto
+  Ｋ．伊藤:
+    slug: k_ito
+    source: kansou-board
+    status: auto
+  ＫＡＺＥ:
+    slug: kazamaturi_rei
+    source: kansou-board
+    status: auto
+  ＫＣＡ:
+    slug: kca
+    source: kansou-board
+    status: auto
+  ＫＯＵＴＡ:
+    slug: kouta
+    source: kansou-board
+    status: auto
+  Ｍ３:
+    slug: m3
+    source: kansou-board
+    status: auto
+  ＭＯＮＤＯ:
+    slug: mondo
+    source: kansou-board
+    status: auto
+  ＭＯＴＯ:
+    slug: moto
+    source: kansou-board
+    status: auto
+  ＭＵＣＫ:
+    slug: muck
+    source: kansou-board
+    status: auto
+  Ｍａｃｆｉｓｔ:
+    slug: macfist
+    source: ascii
+    status: auto
+  Ｍａｒｉｅ:
+    slug: marie
+    source: kansou-board
+    status: auto
+  ＮＨＫ:
+    slug: nhk
+    source: kansou-board
+    status: auto
+  ＯＧＲＥ:
+    slug: ogre
+    source: kansou-board
+    status: auto
+  ＯＬＳＯＮ:
+    slug: olson
+    source: kansou-board
+    status: auto
+  Ｓ羽丘:
+    slug: s_haneoka
+    source: kansou-board
+    status: auto
+  Ｓ．Ｆ．:
+    slug: s_f
+    source: kansou-board
+    status: auto
+  ＳＡＹＡ:
+    slug: saya
+    source: kansou-board
+    status: auto
+  Ｔ・Ｈ:
+    slug: t_h
+    source: kansou-board
+    status: auto
+  ＴＯＩＳＡＮ:
+    slug: toisan
+    source: kansou-board
+    status: auto
+  ＴＳ男爵:
+    slug: ts_dansyaku
+    source: kansou-board
+    status: auto
+  ＴＷＯ−ＢＩＴ:
+    slug: two_bit
+    source: kansou-board
+    status: auto
+  Ｔａｓｋ:
+    slug: task
+    source: kansou-board
+    status: auto
+  Ｙ.Ｏ.:
+    slug: y_o
+    source: kansou-board
+    status: auto
+  ＹＺＡ:
+    slug: azy
+    source: kansou-board
+    status: auto
+  Ｚｙｕｋａ:
+    slug: zyuka
+    source: kansou-board
+    status: auto
+  ａｙａｍｅ:
+    slug: ayame
+    source: kansou-board
+    status: auto
+  ｈ．ｈｏｋｕｒａ:
+    slug: h_hokura
+    source: kansou-board
+    status: auto
+  ｉｋｋａ:
+    slug: ikka
+    source: kansou-board
+    status: auto
+  ｊｏｈｎｙ:
+    slug: johny
+    source: kansou-board
+    status: auto
+  ｍｅｗ:
+    slug: mew
+    source: kansou-board
+    status: auto
+  ｍｋ８４２６:
+    slug: mk8426
+    source: kansou-board
+    status: auto
+  ｔｏｓｈｉ９:
+    slug: toshi9
+    source: kansou-board
+    status: auto
+  ｚｏｃｋ:
+    slug: zock
+    source: kansou-board
+    status: auto
 terms_genre:
   (戦記はおあずけ?):
     slug: senkihaoazuke

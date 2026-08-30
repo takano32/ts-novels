@@ -14,7 +14,8 @@ worlds:
     name: 仮面ライターディレイド
     path_prefixes: []
   dirty:
-    boards: []
+    boards:
+    - d_angel
     name: ダーティーエンジェルシリーズ
     origin: 水谷秋夫
     path_prefixes:
@@ -42,7 +43,8 @@ worlds:
     origin: 亜希みちる
     path_prefixes: []
   hunter:
-    boards: []
+    boards:
+    - kayo_chan_hunternumber
     name: ハンターシリーズ
     note: 華代ちゃんシリーズからのスピンアウト。題名で判定する
     origin: 真城 悠
@@ -68,19 +70,22 @@ worlds:
     name: リレー小説
     path_prefixes: []
   rental:
-    boards: []
+    boards:
+    - rental_body
     name: 「レンタル・ボディ」シリーズ
     origin: ２ｂｉｔ
     path_prefixes:
     - novel/rental/
   setsubou:
-    boards: []
+    boards:
+    - setubou
     name: 「切望」シリーズ
     origin: KCA
     path_prefixes:
     - novel/setsubou/
   sugar:
-    boards: []
+    boards:
+    - sugar_sweets
     name: シェアワールド「SugarSweets」
     origin: 胡乱太
     path_prefixes:

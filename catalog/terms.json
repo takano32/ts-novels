@@ -16817,76 +16817,62 @@
    "source_field": "kansou_slug + source_path + title",
    "terms": [
     {
-     "slug": "2daime",
-     "name": "二代目シリーズ",
+     "slug": "kayo_chan",
+     "name": "「華代ちゃん」シリーズ",
+     "count": 223,
+     "core": true,
+     "origin_author": "真城 悠",
+     "note": null,
+     "rule": {
+      "boards": [
+       "kayo_chan"
+      ],
+      "path_prefixes": [
+       "novel/kayo_chan/"
+      ],
+      "title_patterns": []
+     },
+     "match_reasons": {
+      "board": 218,
+      "path": 5
+     }
+    },
+    {
+     "slug": "hunter",
+     "name": "ハンターシリーズ",
      "count": 12,
      "core": true,
-     "origin_author": null,
-     "note": null,
+     "origin_author": "真城 悠",
+     "note": "華代ちゃんシリーズからのスピンアウト。題名で判定する",
      "rule": {
       "boards": [
-       "2daime"
+       "kayo_chan_hunternumber"
       ],
-      "path_prefixes": [],
-      "title_patterns": []
-     },
-     "match_reasons": {
-      "board": 12
-     }
-    },
-    {
-     "slug": "delayed",
-     "name": "仮面ライターディレイド",
-     "count": 10,
-     "core": true,
-     "origin_author": null,
-     "note": null,
-     "rule": {
-      "boards": [
-       "delayed"
-      ],
-      "path_prefixes": [],
-      "title_patterns": []
-     },
-     "match_reasons": {
-      "board": 10
-     }
-    },
-    {
-     "slug": "dirty",
-     "name": "ダーティーエンジェルシリーズ",
-     "count": 11,
-     "core": true,
-     "origin_author": "水谷秋夫",
-     "note": null,
-     "rule": {
-      "boards": [],
-      "path_prefixes": [
-       "novel/dirty/"
-      ],
-      "title_patterns": []
-     },
-     "match_reasons": {
-      "path": 11
-     }
-    },
-    {
-     "slug": "fms",
-     "name": "FMS シリーズ",
-     "count": 4,
-     "core": true,
-     "origin_author": "夜夢",
-     "note": null,
-     "rule": {
-      "boards": [],
       "path_prefixes": [],
       "title_patterns": [
-       "^FMS",
-       "^ＦＭＳ"
+       "^ハンターシリーズ"
       ]
      },
      "match_reasons": {
-      "title": 4
+      "title": 12
+     }
+    },
+    {
+     "slug": "himekami",
+     "name": "妖魔夜行 姫神奇譚シリーズ",
+     "count": 41,
+     "core": true,
+     "origin_author": "亜希みちる",
+     "note": null,
+     "rule": {
+      "boards": [
+       "himekami"
+      ],
+      "path_prefixes": [],
+      "title_patterns": []
+     },
+     "match_reasons": {
+      "board": 41
      }
     },
     {
@@ -16910,60 +16896,24 @@
      }
     },
     {
-     "slug": "himekami",
-     "name": "妖魔夜行 姫神奇譚シリーズ",
-     "count": 41,
+     "slug": "rental",
+     "name": "「レンタル・ボディ」シリーズ",
+     "count": 17,
      "core": true,
-     "origin_author": "亜希みちる",
+     "origin_author": "２ｂｉｔ",
      "note": null,
      "rule": {
       "boards": [
-       "himekami"
-      ],
-      "path_prefixes": [],
-      "title_patterns": []
-     },
-     "match_reasons": {
-      "board": 41
-     }
-    },
-    {
-     "slug": "hunter",
-     "name": "ハンターシリーズ",
-     "count": 12,
-     "core": true,
-     "origin_author": "真城 悠",
-     "note": "華代ちゃんシリーズからのスピンアウト。題名で判定する",
-     "rule": {
-      "boards": [],
-      "path_prefixes": [],
-      "title_patterns": [
-       "^ハンターシリーズ"
-      ]
-     },
-     "match_reasons": {
-      "title": 12
-     }
-    },
-    {
-     "slug": "kayo_chan",
-     "name": "「華代ちゃん」シリーズ",
-     "count": 223,
-     "core": true,
-     "origin_author": "真城 悠",
-     "note": null,
-     "rule": {
-      "boards": [
-       "kayo_chan"
+       "rental_body"
       ],
       "path_prefixes": [
-       "novel/kayo_chan/"
+       "novel/rental/"
       ],
       "title_patterns": []
      },
      "match_reasons": {
-      "board": 218,
-      "path": 5
+      "path": 16,
+      "board": 1
      }
     },
     {
@@ -16985,6 +16935,85 @@
      }
     },
     {
+     "slug": "setsubou",
+     "name": "「切望」シリーズ",
+     "count": 2,
+     "core": true,
+     "origin_author": "KCA",
+     "note": null,
+     "rule": {
+      "boards": [
+       "setubou"
+      ],
+      "path_prefixes": [
+       "novel/setsubou/"
+      ],
+      "title_patterns": []
+     },
+     "match_reasons": {
+      "board": 2
+     }
+    },
+    {
+     "slug": "dirty",
+     "name": "ダーティーエンジェルシリーズ",
+     "count": 11,
+     "core": true,
+     "origin_author": "水谷秋夫",
+     "note": null,
+     "rule": {
+      "boards": [
+       "d_angel"
+      ],
+      "path_prefixes": [
+       "novel/dirty/"
+      ],
+      "title_patterns": []
+     },
+     "match_reasons": {
+      "board": 11
+     }
+    },
+    {
+     "slug": "sugar",
+     "name": "シェアワールド「SugarSweets」",
+     "count": 1,
+     "core": true,
+     "origin_author": "胡乱太",
+     "note": null,
+     "rule": {
+      "boards": [
+       "sugar_sweets"
+      ],
+      "path_prefixes": [
+       "novel/sugar/"
+      ],
+      "title_patterns": []
+     },
+     "match_reasons": {
+      "board": 1
+     }
+    },
+    {
+     "slug": "fms",
+     "name": "FMS シリーズ",
+     "count": 4,
+     "core": true,
+     "origin_author": "夜夢",
+     "note": null,
+     "rule": {
+      "boards": [],
+      "path_prefixes": [],
+      "title_patterns": [
+       "^FMS",
+       "^ＦＭＳ"
+      ]
+     },
+     "match_reasons": {
+      "title": 4
+     }
+    },
+    {
      "slug": "relay_novel",
      "name": "リレー小説",
      "count": 8,
@@ -17003,57 +17032,39 @@
      }
     },
     {
-     "slug": "rental",
-     "name": "「レンタル・ボディ」シリーズ",
-     "count": 16,
+     "slug": "delayed",
+     "name": "仮面ライターディレイド",
+     "count": 10,
      "core": true,
-     "origin_author": "２ｂｉｔ",
+     "origin_author": null,
      "note": null,
      "rule": {
-      "boards": [],
-      "path_prefixes": [
-       "novel/rental/"
+      "boards": [
+       "delayed"
       ],
+      "path_prefixes": [],
       "title_patterns": []
      },
      "match_reasons": {
-      "path": 16
+      "board": 10
      }
     },
     {
-     "slug": "setsubou",
-     "name": "「切望」シリーズ",
-     "count": 2,
+     "slug": "2daime",
+     "name": "二代目シリーズ",
+     "count": 12,
      "core": true,
-     "origin_author": "KCA",
+     "origin_author": null,
      "note": null,
      "rule": {
-      "boards": [],
-      "path_prefixes": [
-       "novel/setsubou/"
+      "boards": [
+       "2daime"
       ],
+      "path_prefixes": [],
       "title_patterns": []
      },
      "match_reasons": {
-      "path": 2
-     }
-    },
-    {
-     "slug": "sugar",
-     "name": "シェアワールド「SugarSweets」",
-     "count": 1,
-     "core": true,
-     "origin_author": "胡乱太",
-     "note": null,
-     "rule": {
-      "boards": [],
-      "path_prefixes": [
-       "novel/sugar/"
-      ],
-      "title_patterns": []
-     },
-     "match_reasons": {
-      "path": 1
+      "board": 12
      }
     },
     {
@@ -17112,351 +17123,6 @@
   }
  },
  "episode_worlds": {
-  "novel__201004__02215640__hime_miko.htm": [
-   "2daime"
-  ],
-  "novel__201004__02215640__astronauts.html": [
-   "2daime"
-  ],
-  "novel__201004__02215640__sebaschan.htm+20110327": [
-   "2daime"
-  ],
-  "novel__201004__02215640__sebaschan.htm+20110127": [
-   "2daime"
-  ],
-  "novel__201004__02215640__princess.htm": [
-   "2daime"
-  ],
-  "novel__201004__02215640__santagirl.html": [
-   "2daime"
-  ],
-  "novel__201004__02215640__sebastiandeka.htm": [
-   "2daime"
-  ],
-  "novel__201004__02215640__d_elf.htm": [
-   "2daime"
-  ],
-  "novel__201004__02215640__ama.htm": [
-   "2daime"
-  ],
-  "novel__201004__02215640__bunny_girl.htm": [
-   "2daime"
-  ],
-  "novel__201004__02215640__akazukin.htm": [
-   "2daime"
-  ],
-  "novel__201004__02215640__blazer.htm": [
-   "2daime"
-  ],
-  "novel__201009__16215412__delayed11.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed10.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed09.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed08.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed07.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed06.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed03.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed02.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed05.htm": [
-   "delayed"
-  ],
-  "novel__201009__16215412__delayed04.htm": [
-   "delayed"
-  ],
-  "novel__dirty__angel_ex.htm": [
-   "dirty"
-  ],
-  "novel__dirty__angel10.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel09.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel_p01.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel08.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel07.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel06.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel05.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel03.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel02.html": [
-   "dirty"
-  ],
-  "novel__dirty__angel01.html": [
-   "dirty"
-  ],
-  "novel__200112__18123055__fms-k.html": [
-   "fms"
-  ],
-  "novel__200309__29193018__fms-n.htm": [
-   "fms"
-  ],
-  "novel__200112__18123055__fms-r.html": [
-   "fms"
-  ],
-  "novel__200112__18123055__fms-p.html": [
-   "fms"
-  ],
-  "novel__corrector__foster20.html": [
-   "foster"
-  ],
-  "novel__corrector__foster19.html": [
-   "foster"
-  ],
-  "novel__corrector__foster18.html": [
-   "foster"
-  ],
-  "novel__corrector__foster17.html": [
-   "foster"
-  ],
-  "novel__corrector__foster16.html": [
-   "foster"
-  ],
-  "novel__corrector__foster15.htm": [
-   "foster"
-  ],
-  "novel__corrector__foster14.html": [
-   "foster"
-  ],
-  "novel__corrector__foster13.html": [
-   "foster"
-  ],
-  "novel__corrector__foster12.html": [
-   "foster"
-  ],
-  "novel__corrector__foster11.html": [
-   "foster"
-  ],
-  "novel__corrector__foster10.htm": [
-   "foster"
-  ],
-  "novel__corrector__foster09.htm": [
-   "foster"
-  ],
-  "novel__corrector__foster08.htm": [
-   "foster"
-  ],
-  "novel__corrector__foster07.htm": [
-   "foster"
-  ],
-  "novel__corrector__title.htm": [
-   "foster"
-  ],
-  "novel__corrector__foster06.htm": [
-   "foster"
-  ],
-  "novel__corrector__foster05.html": [
-   "foster"
-  ],
-  "novel__corrector__foster04.html": [
-   "foster"
-  ],
-  "novel__corrector__foster01.html": [
-   "foster"
-  ],
-  "novel__corrector__foster02.html": [
-   "foster"
-  ],
-  "novel__corrector__foster03.html": [
-   "foster"
-  ],
-  "novel__200103__24194542__himegami_18.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_17.htm": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_sp_1.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_19.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_18.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_17.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_16.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_16.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_15.htm": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_15.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_14.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_14.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_13.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_12.htm": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_13.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_12.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_11.htm": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_10.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_11.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_10.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_9.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_9.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_8.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_8.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_7.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_6.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_5.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_7.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himetitle.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_4.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_6.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_3.html+20010423": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_5.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_2.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_4.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_3.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_2.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_1.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami_x_3.html+20010330": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami2.html": [
-   "himekami"
-  ],
-  "novel__200103__24194542__himegami.html": [
-   "himekami"
-  ],
-  "novel__kayo_chan__extra__kayo_ex64.htm": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex62.htm": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex61.htm": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex59.htm": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex58.html": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex56.htm": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex55.html": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex54.html": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex52.htm": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex43.htm": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex34.html": [
-   "hunter",
-   "kayo_chan"
-  ],
-  "novel__kayo_chan__extra__kayo_ex32.html": [
-   "hunter",
-   "kayo_chan"
-  ],
   "novel__kayo_chan__kayo_chan113.htm": [
    "kayo_chan"
   ],
@@ -17475,23 +17141,59 @@
   "novel__kayo_chan__extra__andesu_red.htm": [
    "kayo_chan"
   ],
+  "novel__kayo_chan__extra__kayo_ex64.htm": [
+   "kayo_chan",
+   "hunter"
+  ],
   "novel__kayo_chan__extra__kayo_ex63.htm": [
    "kayo_chan"
+  ],
+  "novel__kayo_chan__extra__kayo_ex62.htm": [
+   "kayo_chan",
+   "hunter"
+  ],
+  "novel__kayo_chan__extra__kayo_ex61.htm": [
+   "kayo_chan",
+   "hunter"
   ],
   "novel__kayo_chan__extra__kayo_ex60.htm": [
    "kayo_chan"
   ],
+  "novel__kayo_chan__extra__kayo_ex59.htm": [
+   "kayo_chan",
+   "hunter"
+  ],
+  "novel__kayo_chan__extra__kayo_ex58.html": [
+   "kayo_chan",
+   "hunter"
+  ],
   "novel__kayo_chan__extra__kayo_ex57.htm": [
    "kayo_chan"
+  ],
+  "novel__kayo_chan__extra__kayo_ex56.htm": [
+   "kayo_chan",
+   "hunter"
   ],
   "novel__kayo_chan__kayo_chan109.html": [
    "kayo_chan"
   ],
+  "novel__kayo_chan__extra__kayo_ex55.html": [
+   "kayo_chan",
+   "hunter"
+  ],
   "novel__kayo_chan__kayo_chan108.html": [
    "kayo_chan"
   ],
+  "novel__kayo_chan__extra__kayo_ex54.html": [
+   "kayo_chan",
+   "hunter"
+  ],
   "novel__kayo_chan__extra__kayo_ex53.html": [
    "kayo_chan"
+  ],
+  "novel__kayo_chan__extra__kayo_ex52.htm": [
+   "kayo_chan",
+   "hunter"
   ],
   "novel__kayo_chan__extra__kayo_ex51.html": [
    "kayo_chan"
@@ -17528,6 +17230,10 @@
   ],
   "novel__kayo_chan__extra__kayo_ex44.htm": [
    "kayo_chan"
+  ],
+  "novel__kayo_chan__extra__kayo_ex43.htm": [
+   "kayo_chan",
+   "hunter"
   ],
   "novel__kayo_chan__extra__kayo_ex42.htm": [
    "kayo_chan"
@@ -17586,6 +17292,10 @@
   "novel__kayo_chan__kayo_chan99.html": [
    "kayo_chan"
   ],
+  "novel__kayo_chan__extra__kayo_ex34.html": [
+   "kayo_chan",
+   "hunter"
+  ],
   "novel__kayo_chan__kayo_chan98.htm": [
    "kayo_chan"
   ],
@@ -17606,6 +17316,10 @@
   ],
   "novel__kayo_chan__extra__kayo_ex33.html": [
    "kayo_chan"
+  ],
+  "novel__kayo_chan__extra__kayo_ex32.html": [
+   "kayo_chan",
+   "hunter"
   ],
   "novel__kayo_chan__kayo_chan95.html": [
    "kayo_chan"
@@ -18090,40 +17804,199 @@
   "novel__kayo_chan__title02.html": [
    "kayo_chan"
   ],
-  "novel__mirror_ring__ring01.html": [
-   "mirror_ring"
+  "novel__200103__24194542__himegami_18.html": [
+   "himekami"
   ],
-  "novel__mirror_ring__ring00.html": [
-   "mirror_ring"
+  "novel__200103__24194542__himegami_17.htm": [
+   "himekami"
   ],
-  "novel__200305__04184146__relay7.html": [
-   "relay_novel"
+  "novel__200103__24194542__himegami_sp_1.html": [
+   "himekami"
   ],
-  "novel__200305__04184146__relay6.html": [
-   "relay_novel"
+  "novel__200103__24194542__himegami_x_19.html": [
+   "himekami"
   ],
-  "novel__200305__04184146__relay5.html": [
-   "relay_novel"
+  "novel__200103__24194542__himegami_x_18.html": [
+   "himekami"
   ],
-  "novel__200305__04184146__relay4.html": [
-   "relay_novel"
+  "novel__200103__24194542__himegami_x_17.html": [
+   "himekami"
   ],
-  "novel__200305__04184146__relay3.html": [
-   "relay_novel"
+  "novel__200103__24194542__himegami_x_16.html": [
+   "himekami"
   ],
-  "novel__200305__04184146__relay2.html": [
-   "relay_novel"
+  "novel__200103__24194542__himegami_16.html": [
+   "himekami"
   ],
-  "novel__200305__04184146__relay1.html": [
-   "relay_novel"
+  "novel__200103__24194542__himegami_15.htm": [
+   "himekami"
   ],
-  "novel__200305__04184146__relay0.html": [
-   "relay_novel"
+  "novel__200103__24194542__himegami_x_15.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_14.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_14.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_13.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_12.htm": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_13.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_12.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_11.htm": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_10.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_11.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_10.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_9.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_9.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_8.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_8.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_7.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_6.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_5.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_7.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himetitle.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_4.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_6.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_3.html+20010423": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_5.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_2.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_4.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_3.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_2.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_1.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami_x_3.html+20010330": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami2.html": [
+   "himekami"
+  ],
+  "novel__200103__24194542__himegami.html": [
+   "himekami"
+  ],
+  "novel__corrector__foster20.html": [
+   "foster"
+  ],
+  "novel__corrector__foster19.html": [
+   "foster"
+  ],
+  "novel__corrector__foster18.html": [
+   "foster"
+  ],
+  "novel__corrector__foster17.html": [
+   "foster"
+  ],
+  "novel__corrector__foster16.html": [
+   "foster"
+  ],
+  "novel__corrector__foster15.htm": [
+   "foster"
+  ],
+  "novel__corrector__foster14.html": [
+   "foster"
+  ],
+  "novel__corrector__foster13.html": [
+   "foster"
+  ],
+  "novel__corrector__foster12.html": [
+   "foster"
+  ],
+  "novel__corrector__foster11.html": [
+   "foster"
+  ],
+  "novel__corrector__foster10.htm": [
+   "foster"
+  ],
+  "novel__corrector__foster09.htm": [
+   "foster"
+  ],
+  "novel__corrector__foster08.htm": [
+   "foster"
+  ],
+  "novel__corrector__foster07.htm": [
+   "foster"
+  ],
+  "novel__corrector__title.htm": [
+   "foster"
+  ],
+  "novel__corrector__foster06.htm": [
+   "foster"
+  ],
+  "novel__corrector__foster05.html": [
+   "foster"
+  ],
+  "novel__corrector__foster04.html": [
+   "foster"
+  ],
+  "novel__corrector__foster01.html": [
+   "foster"
+  ],
+  "novel__corrector__foster02.html": [
+   "foster"
+  ],
+  "novel__corrector__foster03.html": [
+   "foster"
   ],
   "novel__rental__rb9.html": [
    "rental"
   ],
   "novel__rental__oem__rb_goes_school02.html": [
+   "rental"
+  ],
+  "special__rb__index.html": [
    "rental"
   ],
   "novel__rental__oem__rb_beach2.html": [
@@ -18168,14 +18041,155 @@
   "novel__rental__rental.html": [
    "rental"
   ],
+  "novel__mirror_ring__ring01.html": [
+   "mirror_ring"
+  ],
+  "novel__mirror_ring__ring00.html": [
+   "mirror_ring"
+  ],
   "novel__setsubou__setsubou01.html": [
    "setsubou"
   ],
   "novel__setsubou__setsubou.html": [
    "setsubou"
   ],
+  "novel__dirty__angel_ex.htm": [
+   "dirty"
+  ],
+  "novel__dirty__angel10.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel09.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel_p01.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel08.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel07.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel06.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel05.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel03.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel02.html": [
+   "dirty"
+  ],
+  "novel__dirty__angel01.html": [
+   "dirty"
+  ],
   "novel__sugar__sweet.html": [
    "sugar"
+  ],
+  "novel__200112__18123055__fms-k.html": [
+   "fms"
+  ],
+  "novel__200309__29193018__fms-n.htm": [
+   "fms"
+  ],
+  "novel__200112__18123055__fms-r.html": [
+   "fms"
+  ],
+  "novel__200112__18123055__fms-p.html": [
+   "fms"
+  ],
+  "novel__200305__04184146__relay7.html": [
+   "relay_novel"
+  ],
+  "novel__200305__04184146__relay6.html": [
+   "relay_novel"
+  ],
+  "novel__200305__04184146__relay5.html": [
+   "relay_novel"
+  ],
+  "novel__200305__04184146__relay4.html": [
+   "relay_novel"
+  ],
+  "novel__200305__04184146__relay3.html": [
+   "relay_novel"
+  ],
+  "novel__200305__04184146__relay2.html": [
+   "relay_novel"
+  ],
+  "novel__200305__04184146__relay1.html": [
+   "relay_novel"
+  ],
+  "novel__200305__04184146__relay0.html": [
+   "relay_novel"
+  ],
+  "novel__201009__16215412__delayed11.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed10.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed09.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed08.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed07.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed06.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed03.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed02.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed05.htm": [
+   "delayed"
+  ],
+  "novel__201009__16215412__delayed04.htm": [
+   "delayed"
+  ],
+  "novel__201004__02215640__hime_miko.htm": [
+   "2daime"
+  ],
+  "novel__201004__02215640__astronauts.html": [
+   "2daime"
+  ],
+  "novel__201004__02215640__sebaschan.htm+20110327": [
+   "2daime"
+  ],
+  "novel__201004__02215640__sebaschan.htm+20110127": [
+   "2daime"
+  ],
+  "novel__201004__02215640__princess.htm": [
+   "2daime"
+  ],
+  "novel__201004__02215640__santagirl.html": [
+   "2daime"
+  ],
+  "novel__201004__02215640__sebastiandeka.htm": [
+   "2daime"
+  ],
+  "novel__201004__02215640__d_elf.htm": [
+   "2daime"
+  ],
+  "novel__201004__02215640__ama.htm": [
+   "2daime"
+  ],
+  "novel__201004__02215640__bunny_girl.htm": [
+   "2daime"
+  ],
+  "novel__201004__02215640__akazukin.htm": [
+   "2daime"
+  ],
+  "novel__201004__02215640__blazer.htm": [
+   "2daime"
   ],
   "novel__200901__30231222__uta8.html": [
    "utanotsuki"

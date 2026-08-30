@@ -1,0 +1,285 @@
+{
+ "generated_by": "scripts/wp/authors_build.py",
+ "episodes": 2984,
+ "authors": 333,
+ "authors_with_board": 294,
+ "authors_without_board": 39,
+ "display_name_strings_distinct": 413,
+ "display_variant_groups": 53,
+ "display_variants_merged": 82,
+ "display_variant_slots": 415,
+ "display_names_shared_by_authors": 2,
+ "display_names_shared_detail": [
+  [
+   "神川綾乃",
+   [
+    "kamikawa_ayano",
+    "kamikawa_ayano_"
+   ]
+  ],
+  [
+   "コーディー",
+   [
+    "jersey_red",
+    "kohdhi"
+   ]
+  ]
+ ],
+ "display_variant_examples": [
+  [
+   "mashiro_yuu",
+   [
+    "真城　悠",
+    "真城 悠"
+   ]
+  ],
+  [
+   "baretto",
+   [
+    "バレット",
+    "石積ナラ"
+   ]
+  ],
+  [
+   "kebo",
+   [
+    "KEBO",
+    "けぼ",
+    "ＫＥＢＯ"
+   ]
+  ],
+  [
+   "kotobuki_hikaru_ndcss",
+   [
+    "ことぶきひかる",
+    "ことぶきひかる＆ＮＤＣセキュリティサービス",
+    "ことぶきひかる & NDCセキュリティサービス",
+    "ことぶきひかる&NDCセキュリティサービス",
+    "紫　寿　輝　峯"
+   ]
+  ],
+  [
+   "ohharano",
+   [
+    "大原野山城守武里",
+    "池田中務少輔輝里"
+   ]
+  ],
+  [
+   "mondo",
+   [
+    "ＭＯＮＤＯ",
+    "MONDO",
+    "----",
+    "ＭＯＮＤＯ （原作：　Ｋ）"
+   ]
+  ],
+  [
+   "ryuhju",
+   [
+    "龍酒",
+    "作：龍酒　原案：超！海老寿司"
+   ]
+  ],
+  [
+   "dekoi",
+   [
+    "DEKOI",
+    "作：Datta　原案：DEKOI",
+    "DEKOI＆Datta"
+   ]
+  ],
+  [
+   "yggdrasil",
+   [
+    "ゆぐどらしる",
+    "神姫・緋威羅"
+   ]
+  ],
+  [
+   "yaji",
+   [
+    "矢治浩平",
+    "矢治 浩平"
+   ]
+  ],
+  [
+   "manachan",
+   [
+    "NATO",
+    "ＮＡＴＯ",
+    "ＮＡＴＯ（旧・まなちゃん）"
+   ]
+  ],
+  [
+   "marie",
+   [
+    "Ｍａｒｉｅ",
+    "Ｍａｒｉｅ・Ｒｅｉｋａ",
+    "Marie"
+   ]
+  ],
+  [
+   "nekono_gundam",
+   [
+    "猫野丸太丸",
+    "猫野　丸太丸",
+    "猫野 丸太丸",
+    "猫野　犬貴"
+   ]
+  ],
+  [
+   "zyuka",
+   [
+    "Ｚｙｕｋａ",
+    "Zyuka"
+   ]
+  ],
+  [
+   "jersey_red",
+   [
+    "ジャージレッド",
+    "コーディー"
+   ]
+  ],
+  [
+   "yosswih",
+   [
+    "よっすぃー",
+    "吉井重治",
+    "よっすぃー（吉井重治　改め）"
+   ]
+  ],
+  [
+   "nhk",
+   [
+    "ＮＨＫ",
+    "NHK",
+    "fun9"
+   ]
+  ],
+  [
+   "dendoro",
+   [
+    "デンドロビウム",
+    "でんどろ"
+   ]
+  ],
+  [
+   "kardy",
+   [
+    "Kardy",
+    "六浄院　光刻",
+    "Ｋａｒｄｙ",
+    "Ｋ−ＫＡＤＤ",
+    "六浄院光刻",
+    "六浄院 光刻"
+   ]
+  ],
+  [
+   "yays",
+   [
+    "八重洲二世",
+    "作・不詳／訳・八重洲二世"
+   ]
+  ]
+ ],
+ "shared_boards": [
+  "2daime",
+  "d_angel",
+  "delayed",
+  "foster",
+  "himekami",
+  "kayo_chan",
+  "kayo_chan_hunternumber",
+  "relay_novel",
+  "rental_body",
+  "setubou",
+  "sugar_sweets",
+  "utanotsuki"
+ ],
+ "episodes_unresolved_author": [],
+ "episodes_notice_no_author": [
+  "novel__kayo_chan__title02.html"
+ ],
+ "episodes_assigned": 2983,
+ "ambiguous_name_to_board": [
+  {
+   "author": "神川綾乃",
+   "boards": {
+    "kamikawa_ayano": 30,
+    "kamikawa_ayano_": 1
+   },
+   "episode_id": "novel__kayo_chan__kayo_chan102.htm"
+  },
+  {
+   "author": "神川綾乃",
+   "boards": {
+    "kamikawa_ayano": 30,
+    "kamikawa_ayano_": 1
+   },
+   "episode_id": "novel__kayo_chan__kayo_chan99.html"
+  },
+  {
+   "author": "神川綾乃",
+   "boards": {
+    "kamikawa_ayano": 30,
+    "kamikawa_ayano_": 1
+   },
+   "episode_id": "novel__kayo_chan__kayo_chan81.html"
+  },
+  {
+   "author": "神川綾乃",
+   "boards": {
+    "kamikawa_ayano": 30,
+    "kamikawa_ayano_": 1
+   },
+   "episode_id": "novel__kayo_chan__kayo_chan66.html"
+  }
+ ],
+ "ambiguous_name_to_board_count": 4,
+ "yomi_resolved": 312,
+ "homepage_present": 116,
+ "index_rows_parsed": 2906,
+ "index_authors_distinct": 473,
+ "slug_sources": {
+  "kansou-board": 294,
+  "pykakasi": 30,
+  "ascii": 8,
+  "fallback": 1
+ },
+ "slug_pending_review": 31,
+ "selftest": [
+  {
+   "name": "作者数の内訳が合う (延べ表示名 − 統合分 == 作者数)",
+   "ok": true,
+   "detail": "415 - 82 == 333"
+  },
+  {
+   "name": "作者数を記録 (台帳の ≈399 は表示名の異なり数であり人数ではない)",
+   "ok": true,
+   "detail": "実測 333 名 / 表示名 413 種 / 複数作者が使う表示名 2 種"
+  },
+  {
+   "name": "全 episode の author が解決 (未解決 0)",
+   "ok": true,
+   "detail": "未解決 0 件 []"
+  },
+  {
+   "name": "episode の割り当て漏れ 0 (entry_role=notice を除く)",
+   "ok": true,
+   "detail": "2983 + notice 1 / 2984"
+  },
+  {
+   "name": "slug の重複 0",
+   "ok": true,
+   "detail": "重複 []"
+  },
+  {
+   "name": "板を持つ作者の slug は板 id",
+   "ok": true,
+   "detail": ""
+  }
+ ],
+ "selftest_ok": true
+}
