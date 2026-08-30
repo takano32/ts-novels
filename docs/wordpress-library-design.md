@@ -474,3 +474,7 @@ URL は予約名前空間に **`/boards/{author-slug}/`** を追加 (板ペー�
 2. **検索方式の改訂**: Pagefind は「静的書き出し」前提が v1.1(公開面=ライブ WP)で消滅したため撤回し、**WP 標準検索+タクソノミーのファセット絞込**を採用する(2,887 投稿規模では十分)。
 3. v1.0 の原則 2「公開面は完全静的・常時稼働サーバゼロ」は v1.1 のホスティング決定(novels.xwp.jp のライブ WP)により失効している — v1.1 改訂章が優先。
 4. 実装の進行台帳は `docs/wp-implementation-tasks.md`(結合キー episode_id の定義・特殊エントリ 28 件の扱い・.htaccess 手順のガード等はそちらが正)。
+5. (1.1 実装時の訂正) `_ts_provenance` の出所は collinfo.json ではなく **git 履歴**(回収コミット)。
+   collinfo.json は CommonCrawl コレクション一覧であり来歴を持たない。個別キャプチャ timestamp は
+   未記録のためスナップショット URL は Wayback 照会 URL 形式。~yays 初出版リンクは目録エントリ基準で
+   724 件。WP upsert キーは episode_id(詳細は docs/wp-implementation-tasks.md)。

@@ -35,11 +35,13 @@
   検収は **WP-CLI(`wp post list` / `wp post meta get` 等)+curl** で行う
 - 開発機: このリポジトリ(python3.11、pip 使用可)。catalog 生成は開発機、投入はサーバ上 WP-CLI
 
-**結合キーの定義(全フェーズ共通)**:
-- 冪等キー = **`_ts_source_path` + `_ts_source_anchor`**(toukou01–03.html のアンカー分割・
-  アンカー付き href 5 件があるため、パス単独では衝突する)
-- **episode_id** = `_ts_source_path` の `/` を `__` に置換し、anchor があれば `@<anchor>` を付加
+**結合キーの定義(全フェーズ共通。1.1 実測により確定)**:
+- **冪等キー(WP upsert キー)= `episode_id`**。path+anchor では足りない — 同一ファイルを指す
+  目録エントリが 39 件(16 グループ)実在する(1.1 の訂正 (c) 参照)
+- **episode_id** = `_ts_source_path` の `/` を `__` に置換し、anchor があれば `@<anchor>`、
+  同一ファイル衝突グループのみさらに `+<掲載日YYYYMMDD>` を付加
   (例: `novel__200209__19204751__d_upboy06.htm`、`novel__toukou01.html@JUNKO`)。
+  **正典は catalog/episodes.jsonl の episode_id 欄** — 再導出せずこれを使う。
   episodes.jsonl ↔ `bodies/` ↔ convert_report ↔ import の結合はすべてこの id
 - 本文 MD の置き場 = リポジトリ直下 **`bodies/`**(設計書の `catalog/bodies/` 表記は旧版)
 
