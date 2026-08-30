@@ -704,7 +704,7 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 - [x] 2.6 .htaccess の noindex/410 ブロック管理(**v1.5: 全域 noindex は行わない**。
       恒久 noindex 層 /boards/ /dojo/ のヘッダと denylist 410 のみ):
       (a) サーバ上で `cp .htaccess .htaccess.bak-YYYYMMDD` を必ず先行
-      (b) `scripts/wp/gen_htaccess.py` は**マーカーコメント間の追記ブロックのみ**をローカル生成
+      (b) `scripts/wp/htaccess_block.py` (実装時に改名) は**マーカーコメント間の追記ブロックのみ**をローカル生成
       (c) 挿入は ssh 経由のサーバ上編集で行い、**既存 .htaccess 全文をローカルに保存・コミットしない**
       (d) 直後に無関係 URL 1 本の 200 と `X-Robots-Tag` ヘッダを curl(バスター付)で確認、
       失敗時は .bak を戻す

@@ -81,7 +81,8 @@ wp post list --post_type=ts_work --post_status=draft --format=count
 
 ```sh
 # 開発機: 追記ブロックだけを生成
-python3 scripts/wp/gen_htaccess.py --denylist takedown/denylist.yml > /tmp/ts-410-block.conf
+python3 scripts/wp/htaccess_block.py            # 生成されるブロックを表示 (dry-run)
+python3 scripts/wp/htaccess_block.py --install  # 原本 .orig 保存 → 差し替え → curl 検証 → NG なら自動復元
 scp /tmp/ts-410-block.conf novels:/tmp/
 
 # 本番: バックアップ → マーカー間を差し替え
@@ -120,7 +121,10 @@ Redirect gone /novel/example-author-example-work/
 
 - Pages はヘッダを制御できないため 410 は返せない。**ビルド artifact から対象ファイルを落として 404**
   にするのが最大限 (設計 v1.1 の妥協点)。
-- `scripts/wp/annex_inject.py` (Phase 5.2) が `denylist.yml` を読んで artifact 生成時に除外する。
+- **【未実装 2026-08-31】** `scripts/wp/annex_inject.py` (Phase 5.2) はまだ無く、
+  GitHub Pages はリポジトリ直下をそのまま配信するため **denylist は Pages 側に効かない**。
+  第 3 層が必要な依頼を受けたら、当面はリポジトリから該当ファイルを削除してコミットする
+  (履歴からの除去が要る場合は④へ)。実装までの経緯は `docs/annex-privacy-decision.md`。
   **git の原本は消さない**(これは ④ の判断とは別レイヤ)。
 
 ```sh

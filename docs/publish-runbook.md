@@ -6,7 +6,7 @@ WP DB は使い捨てなので、迷ったら「catalog を直して再インポ
 WP 管理画面での手動編集は禁止 (修正は catalog 側の overrides ファイルで)。
 
 **v0 の注記**: Phase 1〜2 のスクリプト (`catalog_build.py` 以外) と mu-plugin は未実装のため、
-以下の `make catalog` / `wp ts *` / `deploy.sh` は**予定のインタフェース**である。
+以下の手順は **2026-08-31 に実機で通したもの**である (以前は「予定のインタフェース」だった)。
 実装が進むたびに、実際に流したコマンドと所要時間でこのファイルを更新すること。
 
 ## 前提
@@ -55,8 +55,9 @@ make catalog          # catalog_build → terms_build → authors_build → work
 | `catalog/QA.md` | 上記の集計。**publish 前に必ず目視する** |
 
 ```sh
-git diff --stat catalog/ bodies/     # 意図しない大量差分が出ていないか
-git add catalog bodies && git commit -m "catalog: 再生成 (YYYY-MM-DD)"
+git diff --stat catalog/             # 意図しない大量差分が出ていないか
+                                     # bodies/ payloads/ は .gitignore 済み (add してはいけない)
+git add catalog && git commit -m "catalog: 再生成 (YYYY-MM-DD)"
 ```
 
 **catalog に差分が出ないなら publish する必要はない。**
@@ -64,11 +65,11 @@ git add catalog bodies && git commit -m "catalog: 再生成 (YYYY-MM-DD)"
 ### 2. 開発機 → 本番: 配備
 
 ```sh
-scripts/wp/deploy.sh -n        # 必ず dry-run を先に。--delete は使わない
-scripts/wp/deploy.sh
+scripts/wp/deploy.sh          # 引数なし = dry-run (必ず先に。--delete は使わない)
+scripts/wp/deploy.sh --apply  # 実配備 (--apply が無いと何も書き込まない)
 ```
 
-deploy.sh が運ぶもの: `catalog/` `bodies/` `mu-plugins/` `themes/` `assets/annex-img/` `robots.txt`。
+deploy.sh が運ぶもの: サーバ側 repo の checkout・`bodies/`・`payloads/`・`payloads-docs/`・`mu-plugins/`・`themes/ts-bunko`・`assets/annex-img/`・`robots.txt`。配備の**前**に全 .php をサーバの PHP で構文検査し、失敗したら配備しない。
 宛先 `~/novels.xwp.jp/` 直下には **wp-config.php が居る**ので、`--delete` は禁止。
 mu-plugins は `public_html/wp-content/mu-plugins/` へ。
 
@@ -95,7 +96,9 @@ ls -la ~/dumps | tail -3
 ```sh
 wp ts sync-terms --authors=../catalog/authors.json --terms=../catalog/terms.json
 wp ts import --works=../catalog/works.jsonl --episodes=../catalog/episodes.jsonl --dry-run
-wp ts import --works=../catalog/works.jsonl --episodes=../catalog/episodes.jsonl [--bodies=../bodies/]
+wp ts import --bodies=$HOME/novels.xwp.jp/repo/payloads
+# 入力は repo から自動で読む (--repo で上書き可)。**--bodies は payloads/ を指すこと** —
+# bodies/ は .md なので、渡すと全話がプレースホルダ本文に置き換わる
 wp ts apply-takedown --list=../takedown/denylist.yml
 ```
 
@@ -163,7 +166,7 @@ git add catalog/path_map.json && git commit -m "catalog: path_map 更新" && git
 
 - [ ] `make catalog` → `catalog/QA.md` を目視
 - [ ] catalog の git diff が意図どおり → コミット
-- [ ] `deploy.sh -n` → `deploy.sh` (`--delete` を使っていないこと)
+- [ ] `deploy.sh` (dry-run) → `deploy.sh --apply` (`--delete` を使っていないこと)
 - [ ] `wp db export` で復旧点
 - [ ] `sync-terms` → `import --dry-run` → `import` → `apply-takedown`
 - [ ] もう一度 `import` して created=0 / updated=0 (冪等性)
