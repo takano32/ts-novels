@@ -1,0 +1,169 @@
+/*
+Theme Name: ts-bunko
+Description: 少年少女文庫の読書テーマ。外部依存ゼロ (システムフォント・自前 CSS/JS のみ)。機能は mu-plugin 側、ここは見た目だけ (設計 §4)。
+Version: 0.1.0
+Author: 少年少女文庫
+*/
+
+/* ---------- トークン (ライト基準。ダークは media + 手動上書き) ---------- */
+:root {
+  --ts-bg: #faf8f4;
+  --ts-fg: #232120;
+  --ts-fg-soft: #6b6560;
+  --ts-line: #ddd6cc;
+  --ts-card: #f2eee6;
+  --ts-accent: #8a5a2b;
+  --ts-accent-fg: #fff;
+  --ts-serif: "游明朝", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Noto Serif JP", serif;
+  --ts-sans: "游ゴシック", "Yu Gothic", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  --ts-reader-size: 1rem;
+  --ts-reader-lh: 1.9;
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-ts-dark="0"]) {
+    --ts-bg: #1c1a18; --ts-fg: #e8e4de; --ts-fg-soft: #a09a92;
+    --ts-line: #3a3630; --ts-card: #26231f; --ts-accent: #d0a468; --ts-accent-fg: #1c1a18;
+  }
+}
+html[data-ts-dark="1"] {
+  --ts-bg: #1c1a18; --ts-fg: #e8e4de; --ts-fg-soft: #a09a92;
+  --ts-line: #3a3630; --ts-card: #26231f; --ts-accent: #d0a468; --ts-accent-fg: #1c1a18;
+}
+html[data-ts-size="2"] { --ts-reader-size: 1.125rem; }
+html[data-ts-size="3"] { --ts-reader-size: 1.25rem; }
+html[data-ts-size="4"] { --ts-reader-size: 1.45rem; }
+html[data-ts-lh="2"] { --ts-reader-lh: 2.25; }
+
+/* ---------- 骨格 ---------- */
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--ts-bg); color: var(--ts-fg);
+  font-family: var(--ts-sans); line-height: 1.7; font-size: 16px;
+}
+a { color: var(--ts-accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { text-decoration-thickness: 2px; }
+img { max-width: 100%; height: auto; }
+
+.ts-shell { max-width: 46em; margin: 0 auto; padding: 0 1rem 4rem; }
+
+/* ---------- ヘッダ / フッタ ---------- */
+.ts-site-header { border-bottom: 1px solid var(--ts-line); }
+.ts-site-header .ts-shell {
+  padding-top: 1rem; padding-bottom: 0.9rem;
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.4rem 1.2rem;
+}
+.ts-site-title { font-family: var(--ts-serif); font-size: 1.35rem; margin: 0; font-weight: 700; }
+.ts-site-title a { color: inherit; text-decoration: none; }
+.ts-site-nav { margin-left: auto; display: flex; gap: 1em; font-size: 0.92rem; }
+.ts-site-nav a { color: var(--ts-fg-soft); text-decoration: none; }
+.ts-site-nav a:hover { color: var(--ts-accent); text-decoration: underline; }
+.ts-site-footer { border-top: 1px solid var(--ts-line); margin-top: 4rem; }
+.ts-site-footer .ts-shell { padding-top: 1.2rem; padding-bottom: 2rem;
+  font-size: 0.85rem; color: var(--ts-fg-soft); }
+.ts-site-footer nav { display: flex; flex-wrap: wrap; gap: 1em; margin-bottom: 0.6rem; }
+
+/* ---------- 一覧 (トップ・書庫・検索) ---------- */
+.ts-archive-title { font-family: var(--ts-serif); font-size: 1.5rem; margin: 2rem 0 0.3rem; }
+.ts-archive-desc { color: var(--ts-fg-soft); margin: 0 0 1.2rem; }
+.ts-worklist { list-style: none; margin: 1.5rem 0; padding: 0; display: grid; gap: 0.9rem; }
+.ts-workcard {
+  border: 1px solid var(--ts-line); border-radius: 8px; padding: 0.85rem 1rem;
+  background: var(--ts-card);
+}
+.ts-workcard-title { font-family: var(--ts-serif); font-size: 1.1rem; margin: 0; }
+.ts-workcard-title a { text-decoration: none; color: inherit; }
+.ts-workcard-title a:hover { color: var(--ts-accent); }
+.ts-workcard-meta { font-size: 0.85rem; color: var(--ts-fg-soft); margin: 0.25rem 0 0; }
+.ts-pagination { display: flex; gap: 1em; justify-content: center; margin: 2rem 0; }
+
+/* ---------- 記事まわり ---------- */
+.ts-breadcrumb { font-size: 0.85rem; color: var(--ts-fg-soft); margin: 1.4rem 0 0.4rem; }
+.ts-breadcrumb a { color: inherit; }
+.ts-entry-title { font-family: var(--ts-serif); font-size: 1.7rem; line-height: 1.4; margin: 0.2rem 0 0.6rem; }
+.ts-meta-header { margin-bottom: 1rem; }
+.ts-meta-bits { color: var(--ts-fg-soft); font-size: 0.9rem; margin: 0 0 0.5rem; }
+.ts-chips { margin: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.ts-chip {
+  display: inline-block; font-size: 0.8rem; padding: 0.1rem 0.6rem;
+  border: 1px solid var(--ts-line); border-radius: 999px;
+  color: var(--ts-fg-soft); text-decoration: none; background: var(--ts-card);
+}
+.ts-chip:hover { border-color: var(--ts-accent); color: var(--ts-accent); }
+
+/* ---------- 本文 (リーダー) ---------- */
+.ts-reader {
+  font-family: var(--ts-serif); font-size: var(--ts-reader-size);
+  line-height: var(--ts-reader-lh); max-width: 38em; margin: 2rem auto;
+}
+html[data-ts-font="gothic"] .ts-reader { font-family: var(--ts-sans); }
+.ts-reader p { margin: 0 0 1em; }
+.ts-reader hr {
+  border: 0; border-top: 1px solid var(--ts-line); margin: 2.5em auto; width: 60%;
+}
+.ts-reader blockquote {
+  margin: 1.5em 0; padding: 0.2em 1.2em; border-left: 3px solid var(--ts-line);
+  color: var(--ts-fg-soft);
+}
+.ts-reader h2, .ts-reader h3, .ts-reader h4, .ts-reader h5, .ts-reader h6 {
+  font-family: var(--ts-serif); line-height: 1.5;
+}
+.ts-reader figure { margin: 2em auto; text-align: center; }
+.ts-reader table { border-collapse: collapse; max-width: 100%; overflow-x: auto; display: block; }
+.ts-reader td, .ts-reader th { border: 1px solid var(--ts-line); padding: 0.3em 0.6em; }
+/* raw フォールバック (原本 HTML そのまま) は原本の配色属性を活かす余地を残す */
+.ts-reader.is-raw { font-family: var(--ts-sans); }
+
+/* ---------- リーダー操作列 ---------- */
+.ts-toolbar {
+  display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center;
+  border: 1px solid var(--ts-line); border-radius: 8px; padding: 0.4rem 0.6rem;
+  background: var(--ts-card); font-size: 0.85rem; margin: 1rem 0;
+}
+.ts-toolbar button {
+  font: inherit; padding: 0.15rem 0.6rem; border: 1px solid var(--ts-line);
+  border-radius: 6px; background: var(--ts-bg); color: var(--ts-fg); cursor: pointer;
+}
+.ts-toolbar button[aria-pressed="true"] { background: var(--ts-accent); color: var(--ts-accent-fg); border-color: var(--ts-accent); }
+.ts-toolbar .ts-toolbar-label { color: var(--ts-fg-soft); margin-left: 0.3rem; }
+.ts-resume {
+  position: fixed; right: 1rem; bottom: 1rem; z-index: 10;
+  padding: 0.5rem 0.9rem; border-radius: 999px; border: 1px solid var(--ts-accent);
+  background: var(--ts-card); color: var(--ts-fg); cursor: pointer; font: inherit;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* ---------- 話ナビ / 目次 ---------- */
+.ts-episode-nav {
+  display: flex; justify-content: space-between; gap: 1rem; margin: 2.5rem 0 1rem;
+  font-size: 0.95rem;
+}
+.ts-episode-nav a { text-decoration: none; }
+.ts-episode-nav .is-empty { flex: 1; }
+.ts-toc { font-family: var(--ts-serif); line-height: 2; padding-left: 1.6em; }
+.ts-toc-date { color: var(--ts-fg-soft); font-size: 0.85em; margin-left: 0.6em; }
+
+/* ---------- カード類 ---------- */
+.ts-biblio, .ts-suisen, .ts-osusume, .ts-catalog-notes {
+  border: 1px solid var(--ts-line); border-radius: 8px; background: var(--ts-card);
+  padding: 0.9rem 1.1rem; margin: 1.5rem 0; font-size: 0.92rem;
+}
+.ts-biblio-title, .ts-suisen-title, .ts-osusume-title {
+  font-size: 0.95rem; margin: 0 0 0.5rem; color: var(--ts-fg-soft); font-weight: 600;
+}
+.ts-biblio dl { margin: 0; }
+.ts-biblio dt { font-weight: 600; color: var(--ts-fg-soft); float: left; clear: left; width: 6.5em; }
+.ts-biblio dd { margin: 0 0 0.35rem 7em; }
+.ts-biblio-note { color: var(--ts-fg-soft); margin: 0.6rem 0 0; font-size: 0.85rem; }
+.ts-suisen blockquote { margin: 0; font-family: var(--ts-serif); }
+.ts-label {
+  display: inline-block; font-size: 0.8em; color: var(--ts-fg-soft);
+  border: 1px solid var(--ts-line); border-radius: 4px; padding: 0 0.4em; margin-right: 0.6em;
+}
+.ts-author-links { font-size: 0.92rem; }
+
+@media (max-width: 600px) {
+  .ts-biblio dt { float: none; width: auto; }
+  .ts-biblio dd { margin-left: 0; }
+  .ts-episode-nav { flex-direction: column; }
+}
