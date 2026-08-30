@@ -450,13 +450,51 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         **WP Multibyte Patch 2.9.3 を install + activate 済み**。
         `wp rewrite flush --hard` 実行(`.htaccess` 再生成の Warning は wpX 構成では正常)、
         rewrite ルール **185 本**・`works/(.+?)/…` 系が生成されていることを確認
-- [ ] 2.2 `wp ts` WP-CLI コマンド群(mu-plugin 内): `sync-terms` / `import`(--dry-run/--limit/
+- [x] 2.2 `wp ts` WP-CLI コマンド群(mu-plugin 内): `sync-terms` / `import`(--dry-run/--limit/
       --author、created/updated/skipped 集計出力) / `apply-takedown` / `verify`(件数照合・orphan・
       taxonomy 被覆率・**特殊エントリ内訳**・冪等性=2 回目 created/updated 0) / `export-pathmap` /
       **`reset --yes`(ts_* の全投稿・term・meta を削除 — やり直し用。docs/rebuild-runbook.md §2-C)**。
       **import は投入時の catalog の git コミットハッシュを `wp option ts_catalog_commit` に記録する**
       (何が本番に載っているかの追跡。rebuild-runbook §2-D)
-      - **2.2 実行結果 (2026-08-30。⚠ 未完 — 4 件の不具合を検出。修正は Fable 所管)**:
+      - **2.2 修正後の検収 (2026-08-30、コミット `70873826` + `2bd22a7d`)**: 下の初回実行で
+        出た (A)〜(E) は**全て解消**。`wp ts reset --yes`(👤 ユーザ手動実行。実行セッションからは
+        権限分類器に掛かる)→ `sync-terms` → `import` の再投入で確認した実測:
+        - **(A) 冪等性 = 達成**。`wp ts import --dry-run` で **created=0 / updated=0 /
+          skipped=5295**、さらに**実 import(dry-run でない)でも created=0 / updated=0 /
+          skipped=5295**(1分48秒)。`_ts_import_hash` の奪い合いは解消
+        - **(B) 語彙外 term = 全 taxonomy で 0**。term 数は catalog と完全一致
+          (ts_author 324 / ts_genre 196 / ts_type 165 / ts_keyword 1032 / ts_world 14 /
+          ts_corpus 5)、**パーセントエンコード slug の term は 6 taxonomy とも 0 本**
+          (旧: 場当たり term 184 本)
+        - **(C) 共有世界板の作者誤認 = 解消**(語彙外 ts_author term 0)
+        - **(D) 単発作品の作者欠落 = 解消**。**ts_author を持たない親 work 投稿 0**(旧 266)。
+          割当 ts_author も **4363/4363** で全投稿被覆
+        - **(E) verify の検査項目 = 拡充済み**。投稿数・orphan・taxonomy 別の
+          「WP / 語彙 / 語彙外 / 未作成」・taxonomy 別の割当数照合・未解決値の一覧を出す。
+          期待値を catalog から**毎回再計算**して importer と独立に数え直す作りになっている
+        - **新たに判明して修正された 6 件目**: 旧 importer は **ts_world を一度も付けていなかった**
+          (`割当 ts_world: WP=0 期待=420`)。修正後は **420/420**
+      - **2.2 に残る未達 1 件 (⚠ 要修正。実行セッションは直さず報告のみ)**:
+        **分類語彙の異表記 166 種が term に解決できず、割当 448 件が捨てられている。**
+        import が `Warning: term に解決できず割当を落とした値: 164 種`、verify も
+        `term 未解決の値 (164 種)` を出して **verify NG** で終わる。内訳(catalog 側で再集計):
+        **ts_genre 52 種 / 延べ 169・ts_type 26 種 / 延べ 105・ts_keyword 88 種 / 延べ 174**。
+        値は `学園?` `コメディ?` `魔法?` `変身?` `理解ある女友達(?)` `メカ?` のような
+        **末尾に半角 `?` や `(?)` が付いた形**。
+        **原因**: 1.3 の正規化は**全角「？」の除去**しかしておらず、原本に多い
+        **半角 `?`** の異表記が `terms.json` の `name` にも `raw_variants` にも入っていない。
+        importer は name / raw_variants / slug の対応表でしか引かないので解決できず捨てる。
+        **直す場所は `terms_build.py`(半角 `?`・`(?)` も正規化して raw_variants に載せる)**で、
+        importer 側ではない。直したら `make catalog` → deploy → import のやり直しが要る
+      - **同じ原因の副作用 (verify の割当数不一致 1 件)**: `割当 ts_genre: WP=4974 期待=4963` の
+        **+11 は全て `sf` term**。`SF?` / `SF(?)` を持つ 11 話が該当する。
+        importer の `term_ids()` は対応表に無い値を `?? $v` で**slug とみなして**
+        `get_term_by('slug', 'SF?')` を引き、WP の `get_term_by` が内部で `sanitize_title()` を
+        掛けて `?` を落とすため **偶然 `sf` に当たって割り当たる**。
+        一方 verify の期待値計算は `?? null` で数えない。**import と verify で
+        未マップ値の扱いが非対称**なのが直接の原因(上の raw_variants を直せば
+        両方とも正規に解決するので、この不一致も自然に消える)
+      - **2.2 初回実行時の記録 (2026-08-30。修正前。上記のとおり全て解消済み)**:
         6 サブコマンドは全て登録され動作する(`wp help ts` で確認)。ただし以下が未達:
         - **(A) 冪等性が成立しない** — 受け入れ条件「2 回目 created=0 / updated=0」に対し
           実測は **created=0 / updated=1864**(全量)・**updated=76**(パイロット 100 話)。
@@ -544,13 +582,49 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         **200**、`/works/mashiro_yuu-ahujouri03-1/` **200**、連載子投稿
         `/works/johdan-tsukinuke/<話>/` **200 `<title>突き抜け …</title>`**、
         `/works/sakiemon-hanayochanshiriizu/<話>/` **200**
-      - **要判断**: 連載の**子投稿の slug は題名由来のパーセントエンコード**になる
-        (`/works/johdan-tsukinuke/%e7%aa%81%e3%81%8d%e6%8a%9c%e3%81%91/`)。
-        親 work は work_slug の ASCII。恒久 URL なので、話にも ASCII slug を振るか
-        このままかを決める必要がある(`upsert_episode()` は `post_name` を指定していない)
-- [ ] 2.5 全量メタ投入(本文なし)。直前に `wp db export` で復旧点。
+      - ~~**要判断**: 連載の子投稿の slug が題名由来のパーセントエンコードになる~~
+        → **決着 (2026-08-30、コミット `70873826`)**。`upsert_episode()` が
+        **原ファイル名の語幹から決定的に ASCII slug を作る**ようになった
+        (例 `/novel/unattributed-triangle-equation/triangle_equation2/`、
+        `henkaku25` `hunter25` `revival_girl25`)。
+        **パーセントエンコードの post_name は 4,363 投稿中 1 件だけ**残る:
+        ID 8038「ＢＢＳ☆ハプニング！(原題：BBS OOOOOOPS!)」の
+        `story3-%ef%bd%82%ef%bd%82%ef%bd%93`(= `story3-ｂｂｓ`。原ファイル名の語幹が
+        **全角英字**なので `sanitize_title` がエンコードする)。実害は小さいが
+        気になるなら slug 生成で全角→半角の正規化を足す
+      - **URL 基底が `/works/` → `/novel/` に変更された (2026-08-30、コミット `2bd22a7d`。
+        ユーザ裁定)**。上の実測ログの `/works/…` は当時の値。現行 URL は `/novel/…`。
+        なお旧 `/works/<slug>/` は WP の正規化リダイレクトで **301 → `/novel/<slug>/`**
+        になり(404 ではない)、旧 URL も生きたまま
+- [x] 2.5 全量メタ投入(本文なし)。直前に `wp db export` で復旧点。
       **冪等性テスト: 2 回目 import が created=0 / updated=0**
-      - **2.5 実行結果 (2026-08-30) — 投入は完了、冪等性テストは NG のため未チェックのまま**:
+      - **2.5 再投入の検収 (2026-08-30、修正コミット `70873826` / `2bd22a7d`)**:
+        `wp ts reset --yes`(👤 手動。投稿 4,363・term 1,931 を削除)→
+        **`wp ts sync-terms` = created=1736 updated=0 skipped=0 / 5.6 秒**
+        (1,734 + 擬似作者 `unattributed` `series-index` の 2)→
+        **`wp ts import`(全量)= created=4363 updated=932 skipped=0 / 2 分 08 秒**
+        (4,363 = 全投稿の新規作成、932 = 単発 work への本文・メタ流し込み)。
+        **`wp ts import --dry-run` = created=0 / updated=0 / skipped=5295**、
+        **実 import でも created=0 / updated=0 / skipped=5295 (1 分 48 秒)**
+        → **冪等性の受け入れ条件を実測で達成**。
+        `ts_catalog_commit` = **`2bd22a7d312ffb09d5009bc20ee9a55a3f91bb45`**。
+        投稿は **ts_work 4,363(親 work 1,451 / 子投稿 2,912)**、orphan 子投稿 0。
+      - **`wp ts verify` の全出力 (再投入後)**: 投稿数 WP=4363 期待=4363 /
+        orphan 子投稿 0 / 語彙外 term は 6 taxonomy とも 0・未作成 0 /
+        割当 **ts_author 4363=4363・ts_type 4276=4276・ts_keyword 5250=5250・
+        ts_world 420=420・ts_corpus 3844=3844** はすべて一致、
+        **ts_genre のみ WP=4974 期待=4963(+11)** で不一致。
+        これと `term 未解決の値 (164 種)` の 2 件が残っているため
+        **verify の終了は依然 NG**。原因と直す場所は 2.2 の「残る未達 1 件」を参照。
+        **投入そのものは完走しており、残件は分類語彙の異表記マップだけ**
+      - **受入 curl (すべて `?_cb=$RANDOM` 付き)**: トップ `/` **200**
+        `<title>少年少女文庫</title>`・作品リンク **12 件が全て `/novel/`**(旧 `/works/` は 0)/
+        単発作品 `/novel/yaji-trans11/` **200 `<title>trans11 – 少年少女文庫</title>`** /
+        連載の子投稿 `/novel/unattributed-triangle-equation/triangle_equation2/` **200**
+        (ASCII slug) / 作者アーカイブ `/authors/johdan/` **200 `<title>城弾 – 少年少女文庫</title>`**
+        で作品が 10 件並ぶ(旧バグ (D) の修正確認)/ 旧 `/novel/` 以前の
+        `/works/yaji-trans11/` は **301 → `/novel/yaji-trans11/`(最終 200)**
+      - **2.5 初回実行の記録 (2026-08-30。修正前。上の再投入で置き換わっている)**:
         復旧点 `~/novels.xwp.jp/backup-phase2-20260830.sql` (1.8MB)。
         `wp ts import` (limit なし) = **created=2850 updated=970 skipped=1475 /
         2 分 00 秒**(created+updated+skipped = 5,295 = works 1,451 + episodes 3,844)。
@@ -563,6 +637,10 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         → **受け入れ条件「created=0 かつ updated=0」を満たさない**。原因と実測は 2.2 (A)。
         あわせて 2.2 (B)(C)(D) の語彙・作者の取り違えも要修正なので、
         **修正後に `wp ts reset --yes` → 再 import して 2.5 をやり直すこと**
+        (→ 実施済み。結果は上の「2.5 再投入の検収」)
+      - **運用上の注意**: `wp ts reset --yes` は Claude Code の権限分類器に掛かるため
+        **実行セッションからは実行できない**。やり直しが要るときは 👤 ユーザに手動実行を
+        依頼する(迂回して `wp db query` 等で消さないこと)
 - [ ] 2.6 .htaccess の noindex/410 ブロック管理(**v1.5: 全域 noindex は行わない**。
       恒久 noindex 層 /boards/ /dojo/ のヘッダと denylist 410 のみ):
       (a) サーバ上で `cp .htaccess .htaccess.bak-YYYYMMDD` を必ず先行
