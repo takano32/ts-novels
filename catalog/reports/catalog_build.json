@@ -1,0 +1,248 @@
+{
+ "generated_by": "scripts/wp/catalog_build.py",
+ "corpus": "honkan (lib1-73)",
+ "entries": 2887,
+ "parse_failures": 0,
+ "parse_failure_detail": [],
+ "unique_episode_ids": 2887,
+ "unique_source_paths": 2862,
+ "source_files_present": 2695,
+ "source_files_missing": 192,
+ "entry_types": {
+  "html": 2865,
+  "image": 21,
+  "external": 1
+ },
+ "source_kinds": {
+  "local": 2881,
+  "external": 6
+ },
+ "shared_source_entries": 39,
+ "shared_source_paths": 16,
+ "anchored_entries": 5,
+ "authors_distinct_display": 402,
+ "kansou_slugs_distinct": 305,
+ "homepage_present": 918,
+ "illustrator_present": 477,
+ "osusume_entries": 765,
+ "osusume_refs": 1014,
+ "osusume_refs_with_author": 1004,
+ "osusume_refs_author_inherited": 241,
+ "nav_links_total": 2342,
+ "nav_links_entries": 1750,
+ "inline_links_total": 28,
+ "genre_tokens_distinct": 240,
+ "genre_tokens_distinct_raw": 244,
+ "type_tokens_distinct": 186,
+ "type_tokens_distinct_raw": 187,
+ "keyword_tokens_distinct": 1077,
+ "keyword_tokens_distinct_raw": 1083,
+ "missing_by_year": {
+  "1998": 3,
+  "1999": 3,
+  "2005": 9,
+  "2006": 5,
+  "2007": 56,
+  "2008": 43,
+  "2009": 25,
+  "2010": 22,
+  "2011": 11,
+  "2012": 15
+ },
+ "missing_by_entry_type": {
+  "html": 186,
+  "external": 1,
+  "image": 5
+ },
+ "annex_url_present": 2695,
+ "annex_yays_url_present": 724,
+ "mailto_dropped_distinct": 264,
+ "mailto_dropped_entries": 1738,
+ "provenance_covered": 2695,
+ "provenance_coverage_pct": 93.35,
+ "provenance_routes": {
+  "wayback": 2466,
+  "live-site": 103,
+  "other": 29,
+  "commoncrawl": 77,
+  "narou": 3,
+  "megalodon": 15,
+  "pixiv": 1,
+  "yays-gapfill": 1
+ },
+ "provenance_route_mixed": 14,
+ "provenance_source": "git-history (collinfo.json は CC コレクション一覧であり来歴情報を持たない)",
+ "year_histogram": {
+  "1997": 10,
+  "1998": 76,
+  "1999": 239,
+  "2000": 143,
+  "2001": 305,
+  "2002": 344,
+  "2003": 332,
+  "2004": 316,
+  "2005": 267,
+  "2006": 257,
+  "2007": 160,
+  "2008": 134,
+  "2009": 75,
+  "2010": 62,
+  "2011": 61,
+  "2012": 62,
+  "2013": 32,
+  "2014": 12
+ },
+ "selftest": [
+  {
+   "name": "エントリ数 == 2887",
+   "ok": true,
+   "detail": "実測 2887 件"
+  },
+  {
+   "name": "パース失敗 0",
+   "ok": true,
+   "detail": "失敗 0 件"
+  },
+  {
+   "name": "episode_id の重複 0",
+   "ok": true,
+   "detail": "重複 0 件 []"
+  },
+  {
+   "name": "mailto から抽出したアドレスの残存 0 (264 件を検査)",
+   "ok": true,
+   "detail": "残存 []"
+  },
+  {
+   "name": "出力に 'mailto:' が現れない",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "出力にアドレス形の文字列が無い",
+   "ok": true,
+   "detail": "検出 []"
+  },
+  {
+   "name": "homepage 件数 == 918 (=771+147)",
+   "ok": true,
+   "detail": "実測 918"
+  },
+  {
+   "name": "画師あり == 477",
+   "ok": true,
+   "detail": "実測 477"
+  },
+  {
+   "name": "オススメあり == 765",
+   "ok": true,
+   "detail": "実測 765"
+  },
+  {
+   "name": "特殊エントリ (画像/外部/anchor) == 28",
+   "ok": true,
+   "detail": "実測 28"
+  },
+  {
+   "name": "あらすじ空 == 182",
+   "ok": true,
+   "detail": "実測 182"
+  },
+  {
+   "name": "コメント空 == 290",
+   "ok": true,
+   "detail": "実測 290"
+  },
+  {
+   "name": "推薦文空 == 147",
+   "ok": true,
+   "detail": "実測 147"
+  },
+  {
+   "name": "ジャンル空 == 238",
+   "ok": true,
+   "detail": "実測 238"
+  },
+  {
+   "name": "種別空 == 326",
+   "ok": true,
+   "detail": "実測 326"
+  },
+  {
+   "name": "キーワード空 == 437",
+   "ok": true,
+   "detail": "実測 437"
+  },
+  {
+   "name": "感想板 slug の異なり == 305",
+   "ok": true,
+   "detail": "実測 305"
+  },
+  {
+   "name": "genre_raw の異なり == 244 (NFKC 前)",
+   "ok": true,
+   "detail": "実測 244"
+  },
+  {
+   "name": "type_raw の異なり == 187 (NFKC 前)",
+   "ok": true,
+   "detail": "実測 187"
+  },
+  {
+   "name": "keywords_raw の異なり == 1083 (NFKC 前)",
+   "ok": true,
+   "detail": "実測 1083"
+  },
+  {
+   "name": "必須欄 episode_id に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 source_path に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 title に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 author に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 date に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 date_raw に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 size_kb に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 kansou_slug に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 orig_url に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 catalog_ref に欠落なし",
+   "ok": true,
+   "detail": "欠落 0 件"
+  }
+ ],
+ "selftest_ok": true
+}

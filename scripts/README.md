@@ -74,7 +74,14 @@ python3 scripts/fix_links.py --apply && python3 scripts/place_convert.py --relin
 python3 scripts/audit_full.py                                 # 検証
 ```
 
-## wp/ (WordPress 移築の実装プローブ)
+## wp/ (WordPress 移築の実装)
+
+- **wp/catalog_build.py** — 正規目録 lib1〜73 の 2,887 エントリを `catalog/episodes.jsonl` へ
+  正規化 (タスク 1.1)。mailto をこの段階で除去し、受け入れ条件(件数・パース失敗 0・mailto 残存 0・
+  survey 実測値との一致)を自己検査として同梱。provenance は git 履歴から算出。
+  `--check` で書き込みなしの検査のみ。
+
+実装プローブ (本実装の手本):
 
 - **wp/md_convert_probe.py `<N>` [seed]** — 本文 HTML→Markdown 変換の実現性プローブ。ブラウザ等価
   preclean(bogus comment・裸の `<`・フォーム除去)と**無損失不変量チェック**(タグ・空白・山括弧除去
