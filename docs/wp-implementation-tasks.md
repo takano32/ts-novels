@@ -131,8 +131,22 @@
         改訂版の再掲型)。episode_id はこの衝突グループにだけ `+<掲載日 YYYYMMDD>` を付けて
         一意化してある。**Phase 2 の import は `_ts_source_path`+anchor ではなく episode_id を
         upsert キーにすること**
-- [ ] 1.2 同スクリプトで旧目録 lib01〜09 を差分パース(`corpus=legacy`)。パス prefix 重複排除後の
+- [x] 1.2 同スクリプトで旧目録 lib01〜09 を差分パース(`corpus=legacy`)。パス prefix 重複排除後の
       追加分のみ。受け入れ: 追加件数を QA レポートに記録
+      - **1.2 実測 (2026-08-30)**: 旧目録ブロック 336(lib01–06 の 252 + lib07–09 の 84)を
+        パース失敗 0 で読み、**本館と同一 source_path の 239 件を落として 97 件を追加**
+        (flat 75 / table 22、実パス 76、1997-11-06〜2000-02-25)。レポートは
+        `catalog/reports/catalog_build.json` の `legacy` 節、欄の説明は `catalog/README.md`。
+      - **台帳の記述に対する補足 3 点**:
+        (a) 「パス prefix 重複排除」は**パス完全一致**で実装した。ディレクトリ prefix で
+        落とすと `novel/short/` のような共用ディレクトリで無関係な話まで消える。
+        本館側がアンカー付き集約リンクの場合もパスは一致するので目的は達する
+        (b) lib01–06 の日付欄は `M/D` だけで**年が無い**。ページ見出しの収録期間
+        (`旧作品(1997.11.4 - 1998.4.5)`、必ず 12 ヶ月未満)から年を一意に決めている
+        (`date_precision` に記録)。「ページ内は新しい順」の仮定は末尾のパロディ群で破れる
+        (c) lib01–06 には **HTML コメントで隠されたエントリが 12 件**あり、うち全数が
+        本館に無いため差分に入っている。運営が意図的に伏せた可能性があるため
+        `commented_out: true` で印を付けてあり、**WP へ投入するかは 👤 判断待ち**
 - [ ] 1.3 `scripts/wp/terms_build.py`: `catalog/terms.json` 生成
       - genre 244→約 30 語・type 187→約 25 語。正規化マップは `catalog/genre_map.yml` /
         `type_map.yml`(NFKC+「？」除去+類義統合)。**頻度表は catalog_build 出力から全語彙を

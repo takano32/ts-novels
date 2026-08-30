@@ -1,23 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""catalog_build.py — 正規目録 lib1.html〜lib73.html を catalog/episodes.jsonl へ正規化する。
+"""catalog_build.py — 目録 (正規 lib1〜73 + 旧 lib01〜09) を catalog/episodes.jsonl へ正規化する。
 
-進行台帳 docs/wp-implementation-tasks.md のタスク 1.1 の本実装。
+進行台帳 docs/wp-implementation-tasks.md のタスク 1.1 (corpus=honkan) と 1.2 (corpus=legacy)。
 仕様は scripts/workflows/wp-survey-2026-08-30.json の catalog 節 (fields / parse_strategy)。
 
-  - エントリ = `<TABLE BORDER=1 …>` 1 つ。必ず 4 行、1 行目は 6 セル。
+  - honkan のエントリ = `<TABLE BORDER=1 …>` 1 つ。必ず 4 行、1 行目は 6 セル。
     HTML は 1 行に長大に詰まっているので行単位パースは禁止 (常に findall)。
-  - 冪等キー = source_path + source_anchor。episode_id = source_path の `/` を `__` に
-    置換し、anchor があれば `@<anchor>` を付けたもの。
+  - legacy は 2 形式: lib01〜06 = 非テーブル (`NNKB(updated M/D)<b><a …>［題］</a> 作・NAME</b><br>`)、
+    lib07〜09 = 移行期テーブル (【属性】欄・2 桁年・`***` 欠損値・per-work の noteky 感想リンク)。
+    honkan と同じ source_path を指す legacy エントリは重複として落とす (パス単位 dedup)。
+  - 冪等キー = episode_id。source_path の `/` を `__` に置換し、anchor があれば `@<anchor>`、
+    同一パスを指すエントリが複数ある場合は `+<掲載日 YYYYMMDD>`。
   - mailto はこの段階で捨てる (WP の DB にメールアドレスを構造的に入れないため)。
-    --selftest が「捨てたはずのアドレスが出力に残っていないこと」をロジックで検査する。
+    自己検査が「捨てたはずのアドレスが出力に残っていないこと」をロジックで確認する。
 
 使い方:
     python3 scripts/wp/catalog_build.py                 # 生成 + 自己検査 + レポート
     python3 scripts/wp/catalog_build.py --check         # 何も書かずに検査だけ
     python3 scripts/wp/catalog_build.py --no-provenance # git 走査を省く (高速)
-
-旧目録 lib01〜09 (corpus=legacy) はタスク 1.2 の担当でありここには未実装。
+    python3 scripts/wp/catalog_build.py --no-legacy     # 本館のみ (1.1 相当の出力)
 """
 import argparse
 import collections
@@ -39,6 +41,11 @@ ORIG_BASE = 'http://ts.novels.jp/'
 DEFAULT_ANNEX_BASE = 'https://takano32.github.io/ts-novels/'
 YAYS_PREFIX = '~yays/library/'          # 2000-02 年の旧世代ツリー (初出版)
 EXPECTED_ENTRIES = 2887                 # 受け入れ条件 (survey 実測)
+
+HONKAN_PAGES = ['lib%d.html' % i for i in range(1, 74)]
+LEGACY_FLAT_PAGES = ['lib%02d.html' % i for i in range(1, 7)]    # 非テーブル形式 (1997.11-1999.9)
+LEGACY_TABLE_PAGES = ['lib%02d.html' % i for i in range(7, 10)]  # 移行期テーブル (1999.9-2000.2)
+EXPECTED_LEGACY_BLOCKS = 252 + 84       # survey 実測 (lib01-06 の 252 は HTML コメント内も含む)
 
 # --------------------------------------------------------------------------- 正規表現
 # すべて大文字小文字無視 + DOTALL。単引用符 href・壊れた入れ子 <A> に耐えるフラット走査。
@@ -73,6 +80,33 @@ STOP_PLAIN = re.compile(r'【')
 RE_BARE_MAIL = re.compile(
     r'[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.'
     r'(?!s?html?\b|cgi\b|jpe?g\b|gif\b|png\b|txt\b|js\b)[A-Za-z]{2,}')
+
+# --- 旧目録 (1.2) 専用
+# lib01-06: `44KB(updated 4/5)<b><a href="…">［題名］</a>　作・NAME</b><br>` が 1 エントリの頭。
+# KB も (updated …) も欠ける形 (CG エントリ) があるので両方 optional。
+RE_LEG_HEAD = re.compile(
+    r'(?:(\d+)\s?KB)?\s*'
+    r'(?:\(\s*(?:updated|last\s*modified)\s*([^)]*?)\s*\))?\s*'
+    r'<b>\s*<a\s+[^>]*?href\s*=\s*(?:"([^"]*)"|\'([^\']*)\'|([^\s>]+))[^>]*>(.*?)</a>(.*?)</b>\s*<br>',
+    re.S | re.I)
+RE_LEG_RANGE = re.compile(r'旧作品\s*</font>\s*[(（]\s*([\d.]+)\s*-\s*([\d.]*)\s*[)）]', re.I)
+RE_HTML_COMMENT = re.compile(r'<!--.*?-->', re.S)
+RE_LEG_MD = re.compile(r'^(\d{1,2})/(\d{1,2})$')
+RE_LEG_YMD = re.compile(r'^(\d{2})/(\d{1,2})/(\d{1,2})$')
+RE_LEG_YMD4 = re.compile(r'^(\d{4})/(\d{1,2})/(\d{1,2})$')
+# 役割ラベル。`作 / 画・X` は先に `作画` へ畳んでから分割する。
+LEG_ROLES = ('作画', '作', '画', '訳', '編', '原案', '原作', 'メカ画', '挿画', '構成')
+RE_LEG_ROLE = re.compile(r'^(%s)\s*[・:：]\s*(.*)$' % '|'.join(LEG_ROLES), re.S)
+RE_LEG_ROLE_SPLIT = re.compile(r'\s*[／/]\s*(?=(?:%s)\s*[・:：])' % '|'.join(LEG_ROLES))
+RE_LEG_SAKUGA = re.compile(r'(作|画)\s*[／/]\s*(画|作)')
+RE_LEG_BODY_LABEL = re.compile(
+    r'(%s|あらすじ|作者様コメント|作者様のお言葉|作者様のことば|作者コメント|管理人より|予告|オビ)\s*[：:]'
+    % '|'.join(LEG_ROLES + ('作\\s*[／/]\\s*画',)))
+RE_LEG_TITLE_BRACKET = re.compile(r'^［(.*)］$', re.S)
+RE_LEG_NOTEKY = re.compile(
+    r'~ezpe/cgi-bin/noteky/noteky@c_noteread_f_(\d+)_id_([A-Za-z0-9]+)_ff_on\.cgi', re.I)
+RE_LEG_ILLUST = re.compile(r'(?:挿画|画|イラスト)\s*[：:・]\s*(.*?)\s*(?:さん)?\s*[)）]?$', re.S)
+RE_LEG_PLACEHOLDER = re.compile(r'^\*+$')
 
 MARKERS = {
     'arasuji': '【あらすじ】',
@@ -511,11 +545,390 @@ def entry_type_of(source_path, kind):
     return 'html'
 
 
+# --------------------------------------------------------------------------- 旧目録 (タスク 1.2)
+
+def leg_clean_name(s):
+    """旧目録の氏名表記から敬称・全角空白の前後余白を落とす。"""
+    if s is None:
+        return None
+    s = strip_tags(html.unescape(s))
+    s = re.sub(r'\s*(?:さん|様)\s*$', '', s.strip())
+    s = s.strip().strip('　').strip()
+    return s or None
+
+
+def leg_parse_credit(raw):
+    """`作・A / 画・B` 形のクレジット → (author, illustrators[], credit_raw, homepage)。
+
+    旧目録は作者欄が独立していない (見出し行の末尾か本文行の `作：` に混ざる)。
+    `作 / 画・NAME` は 1 人が両方を担当した表記なので先に `作画` に畳んでから分割する。
+    `作：NAME (<a>WWW</a>)` 形のホームページリンクは URL を取り出して名前から外す。
+    """
+    if not raw:
+        return None, [], None, None
+    homepage = None
+    for a in anchors(raw):
+        if a['href'] and not a['href'].startswith('#'):
+            homepage = a['href']
+    raw = re.sub(r'[（(]\s*<a\b.*?</a>\s*[)）]', '', raw, flags=re.S | re.I)
+    text = strip_tags(html.unescape(raw)).strip()
+    text = text.strip('　 ').strip()
+    if not text:
+        return None, [], None, homepage
+    folded = RE_LEG_SAKUGA.sub('作画', text)
+    segs = [s for s in RE_LEG_ROLE_SPLIT.split(folded) if s.strip()]
+    author, illus, roles = None, [], []
+    for seg in segs:
+        m = RE_LEG_ROLE.match(seg.strip())
+        if not m:
+            # 役割ラベルが無い断片 (`作・A B` の B 等) は先頭の役割に属す
+            continue
+        role, names = m.group(1), m.group(2)
+        roles.append(role)
+        parts = [leg_clean_name(p) for p in re.split(r'[、,＆&]', names)]
+        parts = [p for p in parts if p]
+        if not parts:
+            continue
+        if role in ('作', '作画', '訳', '編', '原作') and author is None:
+            author = leg_clean_name(names)          # 連名は原表記のまま 1 名として扱う
+        if role in ('画', '作画', 'メカ画', '挿画'):
+            illus.extend(parts)
+    if author is None and illus:
+        author = illus[0]                            # 画のみのクレジット (CG エントリ)
+    return author, illus, text, homepage
+
+
+def _range_distance(ymd, start, end):
+    """(y, m, d) が [start, end] からどれだけ離れているか (日数)。範囲内なら 0。"""
+    import datetime
+    try:
+        d = datetime.date(*ymd)
+        a, b = datetime.date(*start), datetime.date(*end)
+    except ValueError:
+        return 10 ** 6
+    if d < a:
+        return (a - d).days
+    if d > b:
+        return (d - b).days
+    return 0
+
+
+def leg_page_range(src):
+    """`旧作品(1997.11.4 - 1998.4.5)` → ((1997,11,4), (1998,4,5))。末尾欠落は None。"""
+    m = RE_LEG_RANGE.search(src)
+    if not m:
+        return None, None
+
+    def p(s):
+        parts = [int(x) for x in s.split('.') if x.isdigit()]
+        return tuple(parts) if len(parts) == 3 else None
+    return p(m.group(1)), p(m.group(2) or '')
+
+
+def leg_split_labels(body):
+    """本文断片を `ラベル：値` の並びに分解する。戻り値 ([(label, value_html)], 残り)。
+
+    `<b>あらすじ：</b>値<br>` と `<b>あらすじ：値</b><br>` の両形があるので、
+    ラベル直後が `</b>` ならそれを食べて `<br>` まで、そうでなければ `</b>` か `<br>` まで。
+    """
+    items, spans = [], []
+    for m in RE_LEG_BODY_LABEL.finditer(body):
+        rest = body[m.end():]
+        closed = re.match(r'\s*</b>', rest, re.I)
+        offset = closed.end() if closed else 0
+        tail = rest[offset:]
+        stops = [t.start() for t in (re.search(r'<br\s*/?>', tail, re.I),) if t]
+        if not closed:
+            e = re.search(r'</b>', tail, re.I)
+            if e:
+                stops.append(e.start())
+        nxt = RE_LEG_BODY_LABEL.search(tail)
+        if nxt:
+            stops.append(nxt.start())
+        cut = min(stops) if stops else len(tail)
+        items.append((re.sub(r'\s', '', m.group(1)), tail[:cut]))
+        # `<b>` を巻き込んで消さないよう、ラベル開始の直前の `<b>` も除去範囲に含める
+        lead = body.rfind('<b>', 0, m.start())
+        begin = lead if lead >= 0 and not body[lead + 3:m.start()].strip() else m.start()
+        spans.append((begin, m.end() + offset + cut))
+    remain, last = [], 0
+    for a, b in spans:
+        if a >= last:
+            remain.append(body[last:a])
+            last = b
+    remain.append(body[last:])
+    return items, ''.join(remain)
+
+
+def parse_legacy_flat_page(page, src, failures):
+    """lib01〜06 (非テーブル形式) を 1 ページ分パースする。
+
+    日付欄は `(updated M/D)` と年が無いので、ページ見出しの収録期間
+    (`旧作品(1997.11.4 - 1998.4.5)`) と「ページ内は新しい順」という性質から年を復元する。
+    """
+    start, end = leg_page_range(src)
+    if not end:
+        failures.append('%s: page range not found' % page)
+        return []
+    comment_spans = [m.span() for m in RE_HTML_COMMENT.finditer(src)]
+    body_start = 0
+    hm = re.search(r'Page\.\s*\d+', src)
+    if hm:
+        body_start = hm.end()
+    heads = [m for m in RE_LEG_HEAD.finditer(src) if m.start() >= body_start]
+    out = []
+    year, prev = end[0], (end[1], end[2])
+    for i, m in enumerate(heads):
+        stop = heads[i + 1].start() if i + 1 < len(heads) else len(src)
+        body = src[m.end():stop]
+        for cut in ('<hr', '<!--', '-->'):
+            j = body.lower().find(cut)
+            if j >= 0:
+                body = body[:j]
+        commented = any(a <= m.start() < b for a, b in comment_spans)
+        ordinal = i + 1
+        ref = '%s#%d' % (page, ordinal)
+
+        raw_date = (m.group(2) or '').strip()
+        md = RE_LEG_MD.match(raw_date)
+        ymd = RE_LEG_YMD.match(raw_date)
+        if md:
+            mo, da = int(md.group(1)), int(md.group(2))
+            # ページの収録期間は必ず 12 ヶ月未満なので、(月,日) を範囲に入れる年は
+            # 高々 1 つに決まる。ページ内が新しい順に並んでいない箇所 (末尾のパロディ
+            # 作品群など) があるため、単調減少の仮定ではなく範囲で決める。
+            years = list(range(start[0], end[0] + 1)) if start else [year]
+            cands = [y for y in years if start <= (y, mo, da) <= end] if start else []
+            if len(cands) == 1:
+                year, precision = cands[0], 'range-derived'
+            elif cands:
+                year, precision = cands[0], 'range-ambiguous'
+            else:
+                # 収録期間の外に出る日付 (公開後にファイルを更新した数件) は、
+                # 期間に最も近い年に寄せる。単調減少の仮定より安全。
+                year = min(years, key=lambda y: _range_distance((y, mo, da), start, end))
+                precision = 'range-clamped'
+            prev = (mo, da)
+            date = '%04d-%02d-%02d' % (year, mo, da)
+        elif ymd:
+            yy = int(ymd.group(1))
+            year = 1900 + yy if yy >= 50 else 2000 + yy
+            mo, da = int(ymd.group(2)), int(ymd.group(3))
+            prev = (mo, da)
+            date = '%04d-%02d-%02d' % (year, mo, da)
+            precision = 'exact'
+        else:
+            failures.append('%s: unparsed legacy date %r' % (ref, raw_date))
+            continue
+
+        head_credit = m.group(7)
+        body, dropped_body = scrub_mailto(body)
+        head_credit, dropped_head = scrub_mailto(head_credit or '')
+        items, remain = leg_split_labels(body)
+        by_label = collections.defaultdict(list)
+        for label, value in items:
+            by_label[label].append(value)
+        credit = head_credit
+        if not RE_LEG_ROLE.match(strip_tags(credit or '').strip().lstrip('　 ')):
+            for role in LEG_ROLES + ('作/画', '作／画'):
+                if role in by_label:
+                    credit = '%s：%s' % (role, by_label[role][0])
+                    break
+        author, illus, credit_raw, homepage = leg_parse_credit(credit)
+        comment = None
+        for key in ('作者様コメント', '作者様のお言葉', '作者様のことば', '作者コメント'):
+            if key in by_label:
+                comment = text_of(by_label[key][0])
+                break
+        editor = text_of(remain)
+        if editor:
+            editor = re.sub(r'^[（(]\s*', '', editor)
+            editor = re.sub(r'\s*[）)]$', '', editor).strip() or None
+        title_raw = text_of(m.group(6), keep_breaks=False)
+        tm = RE_LEG_TITLE_BRACKET.match(title_raw or '')
+        out.append({
+            'title': (tm.group(1).strip() if tm else title_raw),
+            'title_raw': title_raw,
+            'href': html.unescape((m.group(3) or m.group(4) or m.group(5) or '').strip()),
+            'author': author,
+            'homepage': homepage,
+            'illustrator': illus,
+            'illustrator_url': None,
+            'illustrator_raw': credit_raw if illus else None,
+            'legacy_credit_raw': credit_raw,
+            'date': date,
+            'date_raw': raw_date or None,
+            'date_precision': precision,
+            'weekday': None,
+            'size_kb': int(m.group(1)) if m.group(1) else None,
+            'files_n': None,
+            'kansou_slug': None,
+            'noteky_url': None,
+            'arasuji': text_of(by_label['あらすじ'][0]) if 'あらすじ' in by_label else None,
+            'comment': comment,
+            'suisen': editor,
+            'osusume': None,
+            'nav_links': [], 'inline_links': plain_links_of(body),
+            'genre': [], 'genre_raw': [], 'type': [], 'type_raw': [],
+            'keywords': [], 'keywords_raw': [], 'zokusei': [], 'zokusei_raw': [],
+            'notice': None,
+            'catalog_ref': ref,
+            'legacy_format': 'flat',
+            'entry_role': 'work',
+            'commented_out': commented,
+            'dropped_mailto': sorted(set(dropped_head) | set(dropped_body)),
+            '_suisen_full_empty': not editor,
+        })
+    return out
+
+
+def leg_table_cell_value(cell):
+    """`***` / `**` の欠損マーカーを None にした表示テキスト。"""
+    v = text_of(cell, keep_breaks=False)
+    if v is None or RE_LEG_PLACEHOLDER.match(v):
+        return None
+    return v
+
+
+def parse_legacy_table_entry(table, page, ordinal):
+    """lib07〜09 (移行期テーブル)。行数・セル数が一定でないので寛容にパースする。"""
+    table, dropped = scrub_mailto(table)
+    rows = RE_TR.findall(table)
+    if not rows:
+        raise ParseError('%s#%d: no rows' % (page, ordinal))
+    r1 = RE_TD.findall(rows[0])
+    if len(r1) not in (5, 6):
+        raise ParseError('%s#%d: row1 has %d cells (expected 5 or 6)' % (page, ordinal, len(r1)))
+    links = anchors(r1[0])
+    if not links:
+        raise ParseError('%s#%d: no title link' % (page, ordinal))
+    title = links[0]['label']
+    image_flag = 'IMAGE' in strip_tags(r1[0]).upper()
+
+    author_cell = leg_table_cell_value(r1[1])
+    author, homepage = None, None
+    if author_cell:
+        b = RE_BOLD.search(r1[1])
+        author = leg_clean_name(b.group(1) if b else author_cell)
+        for a in anchors(r1[1]):
+            if a['href'] and not a['href'].startswith('#'):
+                homepage = a['href']
+
+    illus, illus_raw = [], leg_table_cell_value(r1[2])
+    if illus_raw and not re.search(r'イラスト(?:なし|無し|作品)', illus_raw):
+        im = RE_LEG_ILLUST.search(illus_raw.strip('（）()'))
+        if im:
+            illus = [n for n in (leg_clean_name(x) for x in re.split(r'[、,＆&]', im.group(1))) if n]
+
+    date_raw = leg_table_cell_value(r1[3])
+    dm = RE_LEG_YMD.match(date_raw or '') or RE_LEG_YMD4.match(date_raw or '')
+    if not dm:
+        raise ParseError('%s#%d: legacy date %r' % (page, ordinal, date_raw))
+    y = int(dm.group(1))
+    if len(dm.group(1)) == 2:
+        y = 1900 + y if y >= 50 else 2000 + y
+    date = '%04d-%02d-%02d' % (y, int(dm.group(2)), int(dm.group(3)))
+
+    size_raw = leg_table_cell_value(r1[4])
+    sm = RE_SIZE.match((size_raw or '').replace(' ', '')) if size_raw else None
+
+    noteky = None
+    if len(r1) > 5:
+        nm = RE_LEG_NOTEKY.search(r1[5])
+        if nm:
+            noteky = {'folder': nm.group(1), 'id': nm.group(2), 'path': nm.group(0)}
+
+    # 行の数は一定でない (2〜4 行) ので、どの行かではなく「どのマーカーを含むか」で振り分ける。
+    # 分類行のマーカーは <B> で囲まれていないため、散文行と一緒くたにすると
+    # 【推薦文】 の値が分類行まで食い込む。行を分けたまま切り出すこと。
+    cells = [c for r in rows[1:] for c in RE_TD.findall(r)]
+    prose = ' '.join(c for c in cells if MARKERS['genre'] not in c)
+    taxo = ' '.join(c for c in cells if MARKERS['genre'] in c)
+    fields = {}
+    for key, marker in (('arasuji', MARKERS['arasuji']), ('comment', MARKERS['comment']),
+                        ('comment_legacy', MARKERS['comment_legacy']),
+                        ('suisen', MARKERS['suisen']), ('notice', '【お知らせ】')):
+        try:
+            fields[key] = marker_value(prose, marker)
+        except KeyError:
+            fields[key] = None
+    for key, marker in (('genre', MARKERS['genre']), ('type', MARKERS['type']),
+                        ('zokusei', MARKERS['zokusei']), ('keywords', MARKERS['keywords'])):
+        try:
+            fields[key] = marker_value(taxo, marker, STOP_PLAIN)
+        except KeyError:
+            fields[key] = None
+
+    genre, genre_raw = split_tokens(text_of(fields['genre'], keep_breaks=False))
+    typ, type_raw = split_tokens(text_of(fields['type'], keep_breaks=False))
+    kw, kw_raw = split_tokens(text_of(fields['keywords'], keep_breaks=False))
+    zok, zok_raw = split_tokens(text_of(fields['zokusei'], keep_breaks=False))
+    suisen_html = fields['suisen']
+    comment_html = fields['comment'] if fields['comment'] is not None else fields['comment_legacy']
+    return {
+        'title': title,
+        'title_raw': title,
+        'href': links[0]['href'],
+        'author': author,
+        'homepage': homepage,
+        'illustrator': illus,
+        'illustrator_url': None,
+        'illustrator_raw': illus_raw,
+        'legacy_credit_raw': None,
+        'date': date,
+        'date_raw': date_raw,
+        'date_precision': 'exact',
+        'weekday': None,
+        'size_kb': int(sm.group(1)) if sm else None,
+        'files_n': int(sm.group(2)) if sm and sm.group(2) else None,
+        'kansou_slug': None,
+        'noteky_url': noteky,
+        'arasuji': text_of(drop_nav_anchors(fields['arasuji'])) if fields['arasuji'] else None,
+        'comment': text_of(drop_nav_anchors(comment_html)) if comment_html else None,
+        'suisen': text_of(drop_nav_anchors(suisen_html)) if suisen_html else None,
+        'osusume': None,
+        'nav_links': nav_links_of(suisen_html or '') + nav_links_of(fields['arasuji'] or ''),
+        'inline_links': plain_links_of(fields['arasuji'] or '') + plain_links_of(comment_html or ''),
+        'genre': genre, 'genre_raw': genre_raw,
+        'type': typ, 'type_raw': type_raw,
+        'keywords': kw, 'keywords_raw': kw_raw,
+        'zokusei': zok, 'zokusei_raw': zok_raw,
+        'notice': text_of(fields['notice']) if fields['notice'] else None,
+        'catalog_ref': '%s#%d' % (page, ordinal),
+        'legacy_format': 'table',
+        'legacy_image_flag': image_flag,
+        # 作者欄が `***` で分類欄も無いブロックは作品ではなく編集部の告知
+        # (シリーズ INDEX ページの案内など)。author 解決の対象から外す。
+        'entry_role': ('notice' if author is None and not (genre or typ or kw) else 'work'),
+        'commented_out': False,
+        'dropped_mailto': sorted(set(dropped)),
+        '_suisen_full_empty': not text_of(suisen_html or ''),
+    }
+
+
+def parse_legacy(root):
+    """旧目録 lib01〜09 の全ブロックを (エントリ, 失敗) で返す。"""
+    entries, failures = [], []
+    for page in LEGACY_FLAT_PAGES:
+        with open(os.path.join(root, page), encoding='utf-8') as fh:
+            src = fh.read()
+        entries.extend(parse_legacy_flat_page(page, src, failures))
+    for page in LEGACY_TABLE_PAGES:
+        with open(os.path.join(root, page), encoding='utf-8') as fh:
+            src = fh.read()
+        for i, table in enumerate(RE_TABLE.findall(src), 1):
+            try:
+                entries.append(parse_legacy_table_entry(table, page, i))
+            except ParseError as exc:
+                failures.append(str(exc))
+    return entries, failures
+
+
 # --------------------------------------------------------------------------- 組み立て
 
-def build(root, annex_base, use_provenance=True):
-    pages = ['lib%d.html' % i for i in range(1, 74)]
-    prov_map = build_provenance_map(root) if use_provenance else {}
+def build(root, annex_base, prov_map=None):
+    pages = HONKAN_PAGES
+    prov_map = {} if prov_map is None else prov_map
     parsed, failures = [], []
     for page in pages:
         path = os.path.join(root, page)
@@ -593,17 +1006,138 @@ def build(root, annex_base, use_provenance=True):
     return records, failures
 
 
+def build_legacy(root, annex_base, honkan_records, prov_map):
+    """旧目録 lib01〜09 を本館との差分だけ corpus=legacy のレコードにする (タスク 1.2)。
+
+    dedup は**パス単位** — honkan 側が同じ `source_path` を(アンカー付きの集約リンクや
+    改訂再掲として)既に持っているなら、旧目録側は重複とみなして落とす。
+    旧目録固有の欄 (noteky_url / zokusei / commented_out 等) は legacy レコードにだけ付く。
+    """
+    entries, failures = parse_legacy(root)
+    honkan_paths = {r['source_path'] for r in honkan_records}
+    kept, dropped_dup = [], []
+    for e in entries:
+        source_path, anchor, kind = split_href(e['href'])
+        e['_key'] = (source_path, anchor, kind)
+        if source_path in honkan_paths:
+            dropped_dup.append(e)
+        else:
+            kept.append(e)
+
+    groups = collections.Counter(e['_key'][:2] for e in kept)
+    used = {r['episode_id'] for r in honkan_records}
+    records = []
+    for e in kept:
+        source_path, anchor, kind = e['_key']
+        shared = groups[(source_path, anchor)] > 1
+        eid = episode_id_of(source_path, anchor,
+                            e['date'].replace('-', '') if shared else None)
+        if eid in used:                       # 同一パス・同一日付の再掲は連番で一意化する
+            base, n = eid, 2
+            while eid in used:
+                eid = '%s~%d' % (base, n)
+                n += 1
+        used.add(eid)
+        exists = kind == 'local' and os.path.exists(os.path.join(root, source_path))
+        yays_path = YAYS_PREFIX + source_path
+        rec = collections.OrderedDict()
+        rec['episode_id'] = eid
+        rec['corpus'] = 'legacy'
+        rec['source_path'] = source_path
+        rec['source_anchor'] = anchor
+        rec['source_kind'] = kind
+        rec['source_exists'] = exists
+        rec['source_shared_by'] = groups[(source_path, anchor)]
+        rec['entry_type'] = entry_type_of(source_path, kind)
+        rec['title'] = e['title']
+        rec['title_raw'] = e['title_raw']
+        rec['author'] = e['author']
+        rec['homepage'] = e['homepage']
+        rec['illustrator'] = e['illustrator']
+        rec['illustrator_url'] = e['illustrator_url']
+        rec['illustrator_raw'] = e['illustrator_raw']
+        rec['legacy_credit_raw'] = e['legacy_credit_raw']
+        rec['date'] = e['date']
+        rec['date_raw'] = e['date_raw']
+        rec['date_precision'] = e['date_precision']
+        rec['weekday'] = e['weekday']
+        rec['size_kb'] = e['size_kb']
+        rec['files_n'] = e['files_n']
+        rec['kansou_slug'] = None
+        rec['kansou_annex_url'] = None
+        rec['noteky_url'] = (annex_base + url_path(e['noteky_url']['path'])
+                             if e['noteky_url'] else None)
+        rec['noteky_id'] = e['noteky_url']['id'] if e['noteky_url'] else None
+        rec['arasuji'] = e['arasuji']
+        rec['comment'] = e['comment']
+        rec['osusume'] = e['osusume']
+        rec['suisen'] = e['suisen']
+        rec['notice'] = e['notice']
+        rec['nav_links'] = e['nav_links']
+        rec['inline_links'] = e['inline_links']
+        rec['genre'] = e['genre']
+        rec['genre_raw'] = e['genre_raw']
+        rec['type'] = e['type']
+        rec['type_raw'] = e['type_raw']
+        rec['keywords'] = e['keywords']
+        rec['keywords_raw'] = e['keywords_raw']
+        rec['zokusei'] = e['zokusei']
+        rec['zokusei_raw'] = e.get('zokusei_raw', [])
+        rec['legacy_format'] = e['legacy_format']
+        rec['entry_role'] = e['entry_role']
+        rec['commented_out'] = e['commented_out']
+        rec['catalog_ref'] = e['catalog_ref']
+        rec['orig_url'] = (ORIG_BASE + url_path(source_path) if kind == 'local'
+                           else re.sub(r'^external/', 'http://', url_path(source_path)))
+        if anchor:
+            rec['orig_url'] += '#' + anchor
+        rec['annex_url'] = (annex_base + url_path(source_path) + ('#' + anchor if anchor else '')
+                            if exists else None)
+        rec['annex_yays_url'] = (annex_base + url_path(yays_path)
+                                 if os.path.exists(os.path.join(root, yays_path)) else None)
+        rec['provenance'] = provenance_for(source_path, prov_map) if exists else None
+        rec['_dropped_mailto'] = e['dropped_mailto']
+        rec['_suisen_full_empty'] = e['_suisen_full_empty']
+        records.append(rec)
+    stats = collections.OrderedDict([
+        ('blocks_parsed', len(entries)),
+        ('parse_failures', len(failures)),
+        ('parse_failure_detail', failures[:20]),
+        ('dropped_as_honkan_duplicate', len(dropped_dup)),
+        ('added', len(records)),
+        ('added_by_format', dict(collections.Counter(r['legacy_format'] for r in records))),
+        ('added_commented_out', sum(1 for r in records if r['commented_out'])),
+        ('added_source_present', sum(1 for r in records if r['source_exists'])),
+        ('added_entry_roles', dict(collections.Counter(r['entry_role'] for r in records))),
+        ('added_authors_unresolved',
+         sum(1 for r in records if not r['author'] and r['entry_role'] == 'work')),
+        ('added_entry_types', dict(collections.Counter(r['entry_type'] for r in records))),
+        ('added_year_histogram', dict(sorted(collections.Counter(
+            r['date'][:4] for r in records).items()))),
+        ('date_precision', dict(collections.Counter(r['date_precision'] for r in records))),
+        ('noteky_links', sum(1 for r in records if r['noteky_url'])),
+        ('zokusei_tokens_distinct', len({t for r in records for t in r['zokusei']})),
+    ])
+    return records, failures, stats
+
+
 # --------------------------------------------------------------------------- 自己検査
 
-def selftest(records, failures):
-    """受け入れ条件をロジックで検査する。戻り値 (ok, [(name, ok, detail)])。"""
+def selftest(records, failures, legacy_stats=None):
+    """受け入れ条件をロジックで検査する。戻り値 (ok, [(name, ok, detail)])。
+
+    survey 実測値との突き合わせは正規目録 (corpus=honkan) に対してのみ行う。
+    旧目録 (corpus=legacy) は件数・パース失敗・欄の解決率を別に見る。
+    """
     results = []
+    honkan = [r for r in records if r['corpus'] == 'honkan']
+    legacy = [r for r in records if r['corpus'] == 'legacy']
 
     def check(name, ok, detail=''):
         results.append((name, bool(ok), detail))
 
-    check('エントリ数 == %d' % EXPECTED_ENTRIES, len(records) == EXPECTED_ENTRIES,
-          '実測 %d 件' % len(records))
+    check('本館エントリ数 == %d' % EXPECTED_ENTRIES, len(honkan) == EXPECTED_ENTRIES,
+          '実測 %d 件' % len(honkan))
     check('パース失敗 0', not failures,
           '失敗 %d 件%s' % (len(failures), (': ' + failures[0]) if failures else ''))
 
@@ -635,9 +1169,9 @@ def selftest(records, failures):
     # (板 id はアドレスから採られた例が多い)、これを残存とみなすと誤検知になる。
     # 板 id は .cgi のファイル名由来であって mailto 由来ではないので検査対象にしない。
 
-    # --- 仕様の実測値との突き合わせ (survey の fields 節)
+    # --- 仕様の実測値との突き合わせ (survey の fields 節。honkan のみ)
     def rate(pred):
-        return sum(1 for r in records if pred(r))
+        return sum(1 for r in honkan if pred(r))
     check('homepage 件数 == 918 (=771+147)', rate(lambda r: r['homepage']) == 918,
           '実測 %d' % rate(lambda r: r['homepage']))
     check('画師あり == 477', rate(lambda r: r['illustrator']) == 477,
@@ -664,17 +1198,41 @@ def selftest(records, failures):
     check('キーワード空 == 437', rate(lambda r: not r['keywords']) == 437,
           '実測 %d' % rate(lambda r: not r['keywords']))
     check('感想板 slug の異なり == 305',
-          len({r['kansou_slug'] for r in records}) == 305,
-          '実測 %d' % len({r['kansou_slug'] for r in records}))
+          len({r['kansou_slug'] for r in honkan}) == 305,
+          '実測 %d' % len({r['kansou_slug'] for r in honkan}))
     for field, expected in (('genre_raw', 244), ('type_raw', 187), ('keywords_raw', 1083)):
-        n = len({t for r in records for t in r[field]})
+        n = len({t for r in honkan for t in r[field]})
         check('%s の異なり == %d (NFKC 前)' % (field, expected), n == expected, '実測 %d' % n)
 
     # 必須フィールドが 1 件も欠けていないこと
     for field in ('episode_id', 'source_path', 'title', 'author', 'date', 'date_raw',
                   'size_kb', 'kansou_slug', 'orig_url', 'catalog_ref'):
-        missing = sum(1 for r in records if r.get(field) in (None, '', []))
-        check('必須欄 %s に欠落なし' % field, missing == 0, '欠落 %d 件' % missing)
+        missing = sum(1 for r in honkan if r.get(field) in (None, '', []))
+        check('必須欄 %s に欠落なし (honkan)' % field, missing == 0, '欠落 %d 件' % missing)
+
+    # --- 旧目録 (タスク 1.2)
+    if legacy_stats is not None:
+        check('旧目録ブロック数 == %d (lib01-06 の 252 + lib07-09 の 84)' % EXPECTED_LEGACY_BLOCKS,
+              legacy_stats['blocks_parsed'] == EXPECTED_LEGACY_BLOCKS,
+              '実測 %d 件' % legacy_stats['blocks_parsed'])
+        check('旧目録のパース失敗 0', legacy_stats['parse_failures'] == 0,
+              '失敗 %d 件%s' % (legacy_stats['parse_failures'],
+                              (': ' + legacy_stats['parse_failure_detail'][0])
+                              if legacy_stats['parse_failure_detail'] else ''))
+        check('旧目録の追加件数 == blocks - 本館重複',
+              legacy_stats['added'] ==
+              legacy_stats['blocks_parsed'] - legacy_stats['dropped_as_honkan_duplicate'],
+              '追加 %d / 重複除外 %d' % (legacy_stats['added'],
+                                        legacy_stats['dropped_as_honkan_duplicate']))
+        for field in ('episode_id', 'source_path', 'title', 'date', 'catalog_ref'):
+            missing = sum(1 for r in legacy if r.get(field) in (None, '', []))
+            check('必須欄 %s に欠落なし (legacy)' % field, missing == 0, '欠落 %d 件' % missing)
+        # author は 1.4 の受け入れ条件「全 episode の author が解決」に直結するので個別に見る
+        # (entry_role=notice は作品ではなく編集部の告知ブロックなので対象外)
+        noauthor = [r['catalog_ref'] for r in legacy
+                    if not r['author'] and r['entry_role'] == 'work']
+        check('legacy(work) の author 解決率 100%', not noauthor,
+              '未解決 %d 件 %s' % (len(noauthor), noauthor[:5]))
 
     return all(ok for _, ok, _ in results), results
 
@@ -685,15 +1243,19 @@ def strip_private(rec):
 
 # --------------------------------------------------------------------------- レポート
 
-def report_of(records, failures, results):
+def report_of(all_records, failures, results, legacy_stats=None):
+    records = [r for r in all_records if r['corpus'] == 'honkan']
+    legacy = [r for r in all_records if r['corpus'] == 'legacy']
     prov = [r['provenance'] for r in records]
     covered = [p for p in prov if p]
     routes = collections.Counter(p['route'] for p in covered)
     mixed = sum(1 for p in covered if p.get('route_mixed'))
     years = collections.Counter(r['date'][:4] for r in records)
+    legacy_prov = [r['provenance'] for r in legacy if r['provenance']]
     return collections.OrderedDict([
         ('generated_by', 'scripts/wp/catalog_build.py'),
         ('corpus', 'honkan (lib1-73)'),
+        ('entries_total', len(all_records)),
         ('entries', len(records)),
         ('parse_failures', len(failures)),
         ('parse_failure_detail', failures[:20]),
@@ -739,12 +1301,28 @@ def report_of(records, failures, results):
         ('provenance_route_mixed', mixed),
         ('provenance_source', 'git-history (collinfo.json は CC コレクション一覧であり来歴情報を持たない)'),
         ('year_histogram', dict(sorted(years.items()))),
+        ('legacy', collections.OrderedDict(list((legacy_stats or {}).items()) + [
+            ('provenance_covered', len(legacy_prov)),
+            ('provenance_coverage_pct',
+             round(100.0 * len(legacy_prov) / len(legacy), 2) if legacy else 0),
+            ('annex_url_present', sum(1 for r in legacy if r['annex_url'])),
+            ('annex_yays_url_present', sum(1 for r in legacy if r['annex_yays_url'])),
+            ('mailto_dropped_distinct', len({a for r in legacy for a in r['_dropped_mailto']})),
+            ('arasuji_present', sum(1 for r in legacy if r['arasuji'])),
+            ('comment_present', sum(1 for r in legacy if r['comment'])),
+            ('suisen_present', sum(1 for r in legacy if r['suisen'])),
+            ('illustrator_present', sum(1 for r in legacy if r['illustrator'])),
+            ('homepage_present', sum(1 for r in legacy if r['homepage'])),
+            ('authors_distinct_display', len({r['author'] for r in legacy if r['author']})),
+        ])),
         ('selftest', [{'name': n, 'ok': ok, 'detail': d} for n, ok, d in results]),
         ('selftest_ok', all(ok for _, ok, _ in results)),
     ])
 
 
 def print_summary(rep):
+    print('entries total=%d (honkan=%d legacy=%d)' %
+          (rep['entries_total'], rep['entries'], rep['legacy'].get('added', 0)))
     print('entries=%d parse_failures=%d unique_ids=%d' %
           (rep['entries'], rep['parse_failures'], rep['unique_episode_ids']))
     print('source files: present=%d missing=%d  types=%s' %
@@ -755,6 +1333,13 @@ def print_summary(rep):
     print('provenance coverage=%.2f%% (%d/%d) routes=%s mixed=%d' %
           (rep['provenance_coverage_pct'], rep['provenance_covered'], rep['entries'],
            rep['provenance_routes'], rep['provenance_route_mixed']))
+    leg = rep['legacy']
+    if leg.get('blocks_parsed'):
+        print('legacy: blocks=%d failures=%d dup_dropped=%d added=%d (flat/table=%s) '
+              'commented_out=%d present=%d prov=%.2f%%' %
+              (leg['blocks_parsed'], leg['parse_failures'], leg['dropped_as_honkan_duplicate'],
+               leg['added'], leg['added_by_format'], leg['added_commented_out'],
+               leg['added_source_present'], leg['provenance_coverage_pct']))
     print('--- selftest')
     for t in rep['selftest']:
         print('  [%s] %s %s' % ('OK ' if t['ok'] else 'NG ', t['name'], t['detail']))
@@ -769,14 +1354,21 @@ def main(argv=None):
     ap.add_argument('--report', default=None, help='既定 <root>/catalog/reports/catalog_build.json')
     ap.add_argument('--annex-base', default=DEFAULT_ANNEX_BASE)
     ap.add_argument('--no-provenance', action='store_true', help='git 走査を省く')
+    ap.add_argument('--no-legacy', action='store_true', help='旧目録 lib01-09 を含めない')
     ap.add_argument('--check', action='store_true', help='ファイルを書かず検査のみ')
     args = ap.parse_args(argv)
 
     root = os.path.abspath(args.root)
     annex_base = args.annex_base if args.annex_base.endswith('/') else args.annex_base + '/'
-    records, failures = build(root, annex_base, use_provenance=not args.no_provenance)
-    ok, results = selftest(records, failures)
-    rep = report_of(records, failures, results)
+    prov_map = build_provenance_map(root) if not args.no_provenance else {}
+    records, failures = build(root, annex_base, prov_map=prov_map)
+    legacy_stats = None
+    if not args.no_legacy:
+        legacy, legacy_failures, legacy_stats = build_legacy(root, annex_base, records, prov_map)
+        records = records + legacy
+        failures = failures + legacy_failures
+    ok, results = selftest(records, failures, legacy_stats)
+    rep = report_of(records, failures, results, legacy_stats)
     print_summary(rep)
 
     if not args.check:

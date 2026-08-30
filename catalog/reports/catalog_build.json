@@ -1,6 +1,7 @@
 {
  "generated_by": "scripts/wp/catalog_build.py",
  "corpus": "honkan (lib1-73)",
+ "entries_total": 2984,
  "entries": 2887,
  "parse_failures": 0,
  "parse_failure_detail": [],
@@ -92,9 +93,55 @@
   "2013": 32,
   "2014": 12
  },
+ "legacy": {
+  "blocks_parsed": 336,
+  "parse_failures": 0,
+  "parse_failure_detail": [],
+  "dropped_as_honkan_duplicate": 239,
+  "added": 97,
+  "added_by_format": {
+   "flat": 75,
+   "table": 22
+  },
+  "added_commented_out": 12,
+  "added_source_present": 90,
+  "added_entry_roles": {
+   "work": 96,
+   "notice": 1
+  },
+  "added_authors_unresolved": 0,
+  "added_entry_types": {
+   "html": 91,
+   "external": 4,
+   "image": 2
+  },
+  "added_year_histogram": {
+   "1997": 8,
+   "1998": 37,
+   "1999": 50,
+   "2000": 2
+  },
+  "date_precision": {
+   "range-derived": 75,
+   "exact": 22
+  },
+  "noteky_links": 21,
+  "zokusei_tokens_distinct": 4,
+  "provenance_covered": 90,
+  "provenance_coverage_pct": 92.78,
+  "annex_url_present": 90,
+  "annex_yays_url_present": 84,
+  "mailto_dropped_distinct": 12,
+  "arasuji_present": 59,
+  "comment_present": 27,
+  "suisen_present": 46,
+  "illustrator_present": 10,
+  "homepage_present": 19,
+  "authors_distinct_display": 33
+ },
  "selftest": [
   {
-   "name": "エントリ数 == 2887",
+   "name": "本館エントリ数 == 2887",
    "ok": true,
    "detail": "実測 2887 件"
   },
@@ -109,7 +156,7 @@
    "detail": "重複 0 件 []"
   },
   {
-   "name": "mailto から抽出したアドレスの残存 0 (264 件を検査)",
+   "name": "mailto から抽出したアドレスの残存 0 (268 件を検査)",
    "ok": true,
    "detail": "残存 []"
   },
@@ -194,54 +241,99 @@
    "detail": "実測 1083"
   },
   {
-   "name": "必須欄 episode_id に欠落なし",
+   "name": "必須欄 episode_id に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 source_path に欠落なし",
+   "name": "必須欄 source_path に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 title に欠落なし",
+   "name": "必須欄 title に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 author に欠落なし",
+   "name": "必須欄 author に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 date に欠落なし",
+   "name": "必須欄 date に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 date_raw に欠落なし",
+   "name": "必須欄 date_raw に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 size_kb に欠落なし",
+   "name": "必須欄 size_kb に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 kansou_slug に欠落なし",
+   "name": "必須欄 kansou_slug に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 orig_url に欠落なし",
+   "name": "必須欄 orig_url に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
   },
   {
-   "name": "必須欄 catalog_ref に欠落なし",
+   "name": "必須欄 catalog_ref に欠落なし (honkan)",
    "ok": true,
    "detail": "欠落 0 件"
+  },
+  {
+   "name": "旧目録ブロック数 == 336 (lib01-06 の 252 + lib07-09 の 84)",
+   "ok": true,
+   "detail": "実測 336 件"
+  },
+  {
+   "name": "旧目録のパース失敗 0",
+   "ok": true,
+   "detail": "失敗 0 件"
+  },
+  {
+   "name": "旧目録の追加件数 == blocks - 本館重複",
+   "ok": true,
+   "detail": "追加 97 / 重複除外 239"
+  },
+  {
+   "name": "必須欄 episode_id に欠落なし (legacy)",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 source_path に欠落なし (legacy)",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 title に欠落なし (legacy)",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 date に欠落なし (legacy)",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "必須欄 catalog_ref に欠落なし (legacy)",
+   "ok": true,
+   "detail": "欠落 0 件"
+  },
+  {
+   "name": "legacy(work) の author 解決率 100%",
+   "ok": true,
+   "detail": "未解決 0 件 []"
   }
  ],
  "selftest_ok": true

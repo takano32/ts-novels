@@ -76,10 +76,10 @@ python3 scripts/audit_full.py                                 # 検証
 
 ## wp/ (WordPress 移築の実装)
 
-- **wp/catalog_build.py** — 正規目録 lib1〜73 の 2,887 エントリを `catalog/episodes.jsonl` へ
-  正規化 (タスク 1.1)。mailto をこの段階で除去し、受け入れ条件(件数・パース失敗 0・mailto 残存 0・
-  survey 実測値との一致)を自己検査として同梱。provenance は git 履歴から算出。
-  `--check` で書き込みなしの検査のみ。
+- **wp/catalog_build.py** — 正規目録 lib1〜73 の 2,887 エントリと旧目録 lib01〜09 の差分 97 件を
+  `catalog/episodes.jsonl` へ正規化 (タスク 1.1 / 1.2)。mailto をこの段階で除去し、受け入れ条件
+  (件数・パース失敗 0・mailto 残存 0・survey 実測値との一致)を自己検査として同梱。
+  provenance は git 履歴から算出。`--check` で書き込みなしの検査のみ、`--no-legacy` で本館のみ。
 
 実装プローブ (本実装の手本):
 
