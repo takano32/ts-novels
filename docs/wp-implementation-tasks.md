@@ -728,6 +728,19 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 
 ## Phase 3 — 本文投入(目安 2 週)
 
+**状況 (2026-08-30 時点): 👤 3.5(作者連絡)を除いて完了。**
+本文 3,646 話ぶんを投入し、**`wp ts verify` は OK**(投稿 4,363・orphan 0・語彙外 term 0・
+taxonomy 割当 6 本・書誌メタ 4 本すべて期待値と一致)、
+**`wp ts import` は実行・dry-run とも created=0 / updated=0 で冪等**。
+独立検算の原本併読 QA(3.3)は **100 話で問題率 0.0%(ng 0)** で、
+**本文の欠落・順序破壊・文字化けは 0 件**。
+本文 status は **converted 3,642 / converted-text 2 / raw-fallback 2 / placeholder 198**。
+本番の `ts_catalog_commit` = `3f20b1a00b50c95221e0d1f04a82a77d48677356`。
+**既知の未解決バグは無い。** 次は Phase 4(テーマ)。
+
+なお **placeholder 198 話**は payload を持たない話(画像でも本文でもない外部 URL スタブ等)で、
+設計どおりの状態。書誌カードから原本へ辿れるようにするのは Phase 4 の仕事。
+
 - [x] 3.1 本文投入: **MD→Gutenberg ブロック HTML への変換は開発機の python で事前実施**し、
       投入用 payload を生成して rsync → `wp ts import --bodies` は payload を post_content に
       流すだけにする(サーバ PHP に Markdown パーサを導入しない)。ブロック対応:
@@ -814,11 +827,29 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         結果の生データは **`catalog/reports/qa_phase3_check.json`**。
       - **標本**: `payloads/` を持つ 3,646 話(= converted 3,642 + converted-text 2 +
         raw-fallback 2。placeholder 198 は対象外)から `random.seed(20260830)` で 100 話。
-      - **結果 (100 話)**: **ok 81 / ok-texturize 15 / ok-trimmed 2 / ng-image 2**。
-        **問題率 2.0%**(閾値 >2% は超えていない)。所要 57 秒。
-        **本文の欠落・順序破壊・文字化けは 0 件**(81+15+2 = 98 話は本番の本文が
-        原本テキストの連続部分列で、落ちているのは head/tail の定型ナビだけ)
-      - **ok-texturize 15 話の中身 = 不具合ではないが要判断**:
+      - **最終結果 (2026-08-30 再実行。コミット `3f20b1a0` の修正後、同一 seed)**:
+        **ok 97 / ok-trimmed 1 / ok-image 2 / ng 0 → 問題率 0.0%**(所要 47 秒)。
+        **本文の欠落・順序破壊・文字化けは 0 件**。
+        残る `ok-trimmed` 1 件 (`novel__200112__18230553__over_heat.html`) は
+        原本末尾の**【文庫管理人より】の定型文 262 字**をクローム除去したもので設計どおり。
+        `ok-image` 2 件は本文が画像 1 枚の作品で、ページが原本を指す `img` を持つことを確認。
+        **`markdown_image_leak_total` は 17 → 0**
+      - **初回結果 (修正前。経緯として残す)**: ok 81 / ok-texturize 15 / ok-trimmed 2 /
+        ng-image 2 = **問題率 2.0%**。ここで検出した 2 件の指摘が下記のとおり修正された
+      - **指摘 ① 表示時の字面変換 → `3f20b1a0` で停止 (原文尊重)**。
+        修正後の実測: `apply_filters('the_content', 'A - B -- C ... D "quoted" E :-) F')` の
+        出力が**入力とバイト同一**(en dash / em dash / 三点リーダ / 曲がり引用符 /
+        絵文字 smiley のいずれも含まれない)。`run_wptexturize` に `false` を返すフィルタが入り、
+        `use_smilies` は `false`。**`wptexturize` と `convert_smilies` は `the_content` に
+        登録されたままだが無害化されている**(フィルタ自体を外すより副作用が小さい)。
+        ページ側でも `Blue - μ` が ASCII ハイフンのまま出ることを確認
+      - **指摘 ② 画像作品の Markdown 漏れ → `3f20b1a0` で解消**。
+        payload の生記法は **17 → 0**、`wp:image` を持つ payload は **618 → 635**。
+        本番 DB 側も**生記法 0 件 / `wp:image` 635 件**。
+        受入: `/novel/s_haneoka-udoshi-2/` に
+        `<img decoding="async" src="/assets/annex-img/novel/grp/bunny99.jpg" alt="卯年">` が出力され、
+        画像は **200 image/jpeg 88,724B**、ページ内の生記法は 0 箇所
+      - **(以下は修正前の記録) ok-texturize 15 話の中身 = 不具合ではないが要判断だった**:
         WordPress の `the_content` フィルタが**表示のときだけ**字面を変える。
         実測した変換は `wptexturize`(優先度 10)による
         **` - ` → `–`(en dash)・`--` → `—`・`...` → `…`・`"…"` → `“…”`**。
@@ -829,7 +860,7 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         2000 年代の和文テキストは顔文字を含みうるので、**原文尊重を優先するなら
         `remove_filter('the_content','wptexturize')` と `use_smilies=0` を検討**。
         Phase 4 のテーマ整備時に決めるのが自然(👤/親の判断)
-      - **⚠ ng-image 2 話 = 実在の不具合 (Fable 所管。実行セッションは未修正)**:
+      - **(修正前の記録) ng-image 2 話 = 実在の不具合だった**:
         **画像作品の payload が Markdown の画像記法のままで、`wp:image` ブロックに
         変換されていない。** 例 `payloads/novel__grp__bunny99.jpg.html` の中身は
         `<!-- wp:paragraph --><p>![卯年](bunny99.jpg)</p><!-- /wp:paragraph -->`。

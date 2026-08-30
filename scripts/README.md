@@ -170,5 +170,5 @@ episode_overrides が最後に人手の上書きを当て、terms/authors/works 
   body_convert.py / payload_build.py の正規化は流用しない = 同じバグを二度踏まないため)。
   判定は「本番本文が原本テキストの**連続部分列**か」。WP の表示フィルタ
   (`wptexturize` / `convert_smilies`) による字面差は `ok-texturize` として別勘定にする。
-  出力は `catalog/reports/qa_phase3_check.json`。実測: 100 話で ok 81 / ok-texturize 15 /
-  ok-trimmed 2 / ng-image 2(問題率 2.0%)。
+  出力は `catalog/reports/qa_phase3_check.json`。実測 (2026-08-30 最終): 100 話で ok 97 /
+  ok-trimmed 1 / ok-image 2(ng 0・問題率 0.0%)。

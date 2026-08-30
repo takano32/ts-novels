@@ -193,30 +193,10 @@ holding の他の回収物は検証未完のため対象外 (進行台帳 8.4)
 | 項目 | 値 |
 |---|---:|
 | 標本 | 100 話 (seed 20260830) |
-| ok | 81 |
-| ok-texturize | 15 |
-| ok-trimmed | 2 |
-| ng-image | 2 |
-| 問題率 | 2.0% |
+| ok | 97 |
+| ok-trimmed | 1 |
+| ok-image | 2 |
+| 問題率 | 0.0% |
 
 
-画像記法の漏れ 17 話 (payload_build 修正で解消予定 → 解消後は 0 になる):
-- `novel__200009__29193555__narikake01.gif`
-- `novel__grp__500000.jpg`
-- `novel__grp__angel.jpg`
-- `novel__grp__ayane.jpg`
-- `novel__grp__bunny99.jpg`
-- `novel__grp__highheel.jpg`
-- `novel__grp__jinn.jpg`
-- `novel__grp__maki_and_yuuka.jpg`
-- `novel__grp__ranmaru.jpg`
-- `novel__grp__ranmaru2.jpg`
-- `novel__grp__sayaka01.gif`
-- `novel__grp__yui.jpg`
-- `novel__kayo_chan__kayo1.jpg`
-- `novel__kayo_chan__kayo2.jpg`
-- `novel__professor_k__rabi.jpg`
-- `novel__superu__little_girl.jpg`
-- `novel__youma__laybart.jpg`
-
-problem_rate_pct は 100 話標本での率。ng-image の実体は payload_build が画像作品の Markdown 画像記法を wp:image ブロックに変換していない不具合で、コーパス全体では 17 話が該当する
+2026-08-30 再実行 (コミット 3f20b1a0 の修正後)。ng 0 件・問題率 0.0%。ok-trimmed 1 は原本末尾の【文庫管理人より】定型文をクローム除去したもので設計どおり。ok-image 2 は本文が画像 1 枚の作品で、ページが原本を指す img を持つことを確認した。

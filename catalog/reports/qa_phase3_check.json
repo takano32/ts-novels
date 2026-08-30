@@ -3,33 +3,14 @@
   "seed": 20260830,
   "n": 100,
   "counts": {
-   "ok": 81,
-   "ok-texturize": 15,
-   "ok-trimmed": 2,
-   "ng-image": 2
+   "ok": 97,
+   "ok-trimmed": 1,
+   "ok-image": 2
   },
-  "problem_rate_pct": 2.0,
-  "markdown_image_leak_total": 17,
-  "markdown_image_leak_episodes": [
-   "novel__200009__29193555__narikake01.gif",
-   "novel__grp__500000.jpg",
-   "novel__grp__angel.jpg",
-   "novel__grp__ayane.jpg",
-   "novel__grp__bunny99.jpg",
-   "novel__grp__highheel.jpg",
-   "novel__grp__jinn.jpg",
-   "novel__grp__maki_and_yuuka.jpg",
-   "novel__grp__ranmaru.jpg",
-   "novel__grp__ranmaru2.jpg",
-   "novel__grp__sayaka01.gif",
-   "novel__grp__yui.jpg",
-   "novel__kayo_chan__kayo1.jpg",
-   "novel__kayo_chan__kayo2.jpg",
-   "novel__professor_k__rabi.jpg",
-   "novel__superu__little_girl.jpg",
-   "novel__youma__laybart.jpg"
-  ],
-  "note": "problem_rate_pct は 100 話標本での率。ng-image の実体は payload_build が画像作品の Markdown 画像記法を wp:image ブロックに変換していない不具合で、コーパス全体では 17 話が該当する"
+  "problem_rate_pct": 0.0,
+  "markdown_image_leak_total": 0,
+  "markdown_image_leak_episodes": [],
+  "note": "2026-08-30 再実行 (コミット 3f20b1a0 の修正後)。ng 0 件・問題率 0.0%。ok-trimmed 1 は原本末尾の【文庫管理人より】定型文をクローム除去したもので設計どおり。ok-image 2 は本文が画像 1 枚の作品で、ページが原本を指す img を持つことを確認した。"
  },
  "results": [
   {
@@ -57,13 +38,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/bluemew-iinjaa/iinjor7/",
    "source_path": "novel/200507/03150205/iinjor7.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 5077,
    "body_chars": 5064
   },
@@ -172,13 +148,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/dekoi-kariudo-chiisakifutarinoyousei/hunter04/",
    "source_path": "novel/200303/17233027/hunter04.htm",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 10888,
    "body_chars": 10875
   },
@@ -217,13 +188,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/yuta-kimidori/kimidori_05/",
    "source_path": "novel/200603/06014840/kimidori_05.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 9365,
    "body_chars": 9352
   },
@@ -242,13 +208,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/omochibako-kirainamono/dislikes/",
    "source_path": "novel/200702/18234405/dislikes.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 1230,
    "body_chars": 1226
   },
@@ -277,13 +238,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/dekoi-kariudo-chiisakifutarinoyousei/hunter28/",
    "source_path": "novel/200303/17233027/hunter28.htm",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 16023,
    "body_chars": 16010
   },
@@ -357,7 +313,7 @@
     {
      "kind": "trimmed",
      "where": "tail",
-     "len": 264,
+     "len": 262,
      "sample": "戻る【文庫管理人より】作品を読んで面白いと感じたら、ぜひとも何かメッセージを残していって下さい。一言の簡単なメッセージでも結構です。・「面白かった」「もっと続きが読みたい」といった感想・「○○の出番を増やしてほしい」などお気に入りのキャラに"
     }
    ],
@@ -399,13 +355,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/t_h-houehoueshoujononichijou/moemoe2/",
    "source_path": "novel/200110/28050903/moemoe2.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 26014,
    "body_chars": 26001
   },
@@ -424,13 +375,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/yamu-misutoresutokimyounanakamatachi-sono/mistress13/",
    "source_path": "novel/200112/18123055/mistress13.htm",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 5096,
    "body_chars": 5083
   },
@@ -509,13 +455,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/dekoi-kariudo-chiisakifutarinoyousei/hunter27/",
    "source_path": "novel/200303/17233027/hunter27.htm",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 8218,
    "body_chars": 8205
   },
@@ -594,12 +535,12 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/s_haneoka-udoshi-2/",
    "source_path": "novel/grp/bunny99.jpg",
-   "verdict": "ng-image",
+   "verdict": "ok-image",
    "issues": [
     {
      "kind": "image-entry",
      "expect": "/assets/annex-img/novel/grp/bunny99.jpg",
-     "found": false
+     "found": true
     }
    ]
   },
@@ -608,12 +549,12 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/nekono_gundam-raurii-biito-14toshi/",
    "source_path": "novel/professor_k/rabi.jpg",
-   "verdict": "ng-image",
+   "verdict": "ok-image",
    "issues": [
     {
      "kind": "image-entry",
      "expect": "/assets/annex-img/novel/professor_k/rabi.jpg",
-     "found": false
+     "found": true
     }
    ]
   },
@@ -682,13 +623,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/taika-boy-s-emotion/bem_bgl_02_3/",
    "source_path": "novel/200312/05062153/bem_bgl_02_3.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 15545,
    "body_chars": 15545
   },
@@ -697,13 +633,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/yamu-misutoresutokimyounanakamatachi-sono/mistress4/",
    "source_path": "novel/200112/18123055/mistress4.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 11565,
    "body_chars": 11552
   },
@@ -722,15 +653,10 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/kanzakiryou_gedoukai-genkannomukouniha/",
    "source_path": "novel/short/genkan.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 1855,
-   "body_chars": 1841
+   "body_chars": 1842
   },
   {
    "episode_id": "novel__toukou01.html+19971221",
@@ -777,15 +703,10 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/john-hanashi-asutaa/",
    "source_path": "novel/200108/20023958/aster.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 15598,
-   "body_chars": 15583
+   "body_chars": 15585
   },
   {
    "episode_id": "novel__200502__01114354__experience_05.html",
@@ -972,14 +893,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/two_bit-pure/",
    "source_path": "novel/200207/19203027/pure_menu.html",
-   "verdict": "ok-trimmed",
-   "issues": [
-    {
-     "kind": "minor",
-     "missing": 1,
-     "extra": 1
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 492,
    "body_chars": 492
   },
@@ -1008,13 +923,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/yamu-misutoresutokimyounanakamatachi-sono/mistress7/",
    "source_path": "novel/200112/18123055/mistress7.htm",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 4116,
    "body_chars": 4103
   },
@@ -1043,13 +953,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/taika-boy-s-emotion/bem_04_1/",
    "source_path": "novel/200312/05062153/bem_04_1.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 15380,
    "body_chars": 15380
   },
@@ -1098,13 +1003,8 @@
    "status": "converted",
    "url": "https://novels.xwp.jp/novel/azy-kurenainosoukouryuukihei-atogaki/",
    "source_path": "novel/200203/12200339/d_postscript.html",
-   "verdict": "ok-texturize",
-   "issues": [
-    {
-     "kind": "wp-display-filter",
-     "note": "字面のみ WP の the_content フィルタが変更 (DB は原本どおり)"
-    }
-   ],
+   "verdict": "ok",
+   "issues": [],
    "orig_chars": 8481,
    "body_chars": 8468
   },
