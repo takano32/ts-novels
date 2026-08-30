@@ -436,25 +436,116 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 
 ## Phase 2 — WP 骨格+メタ全量投入(目安 2 週)
 
-- [ ] 2.1 `mu-plugins/ts-library/` v0.1(リポジトリ管理→rsync 配備): CPT `ts_work`(hierarchical,
+- [x] 2.1 `mu-plugins/ts-library/` v0.1(リポジトリ管理→rsync 配備): CPT `ts_work`(hierarchical,
       rewrite=works)・`ts_doc`・**`ts_dojo`(登録のみ。使用は Phase 6)**・`ts_board_post`(同)・
       タクソノミー 6 本・`register_post_meta`(`_ts_*`)・meta robots noindex 出力・
       comment_status=closed 強制。PHP 8.0 互換。定義は設計書 §1 の表のとおり。
       あわせて **WP Multibyte Patch を有効化**(`wp plugin install wp-multibyte-patch --activate`)
+      - **2.1 実測 (2026-08-30 実行セッション)**: 配備後 `wp post-type list` に
+        **ts_work(hierarchical・public)/ ts_doc / ts_dojo / ts_board_post** が、
+        `wp taxonomy list` に **ts_author / ts_genre / ts_type / ts_keyword / ts_world /
+        ts_corpus の 6 本**が出ることを確認。`wp plugin list --status=must-use` に
+        **ts-library-loader** が出る(本体は `ts-library/ts-library.php`。WP は
+        mu-plugins 直下の php しか読まないのでローダ経由)。
+        **WP Multibyte Patch 2.9.3 を install + activate 済み**。
+        `wp rewrite flush --hard` 実行(`.htaccess` 再生成の Warning は wpX 構成では正常)、
+        rewrite ルール **185 本**・`works/(.+?)/…` 系が生成されていることを確認
 - [ ] 2.2 `wp ts` WP-CLI コマンド群(mu-plugin 内): `sync-terms` / `import`(--dry-run/--limit/
       --author、created/updated/skipped 集計出力) / `apply-takedown` / `verify`(件数照合・orphan・
       taxonomy 被覆率・**特殊エントリ内訳**・冪等性=2 回目 created/updated 0) / `export-pathmap` /
       **`reset --yes`(ts_* の全投稿・term・meta を削除 — やり直し用。docs/rebuild-runbook.md §2-C)**。
       **import は投入時の catalog の git コミットハッシュを `wp option ts_catalog_commit` に記録する**
       (何が本番に載っているかの追跡。rebuild-runbook §2-D)
-- [ ] 2.3 デプロイスクリプト `scripts/wp/deploy.sh`: rsync(`-n` 先行・`--delete` 禁止)で
+      - **2.2 実行結果 (2026-08-30。⚠ 未完 — 4 件の不具合を検出。修正は Fable 所管)**:
+        6 サブコマンドは全て登録され動作する(`wp help ts` で確認)。ただし以下が未達:
+        - **(A) 冪等性が成立しない** — 受け入れ条件「2 回目 created=0 / updated=0」に対し
+          実測は **created=0 / updated=1864**(全量)・**updated=76**(パイロット 100 話)。
+          `updated` は 3 回・4 回目も同値で発散はしないが 0 にならない。
+          原因: `upsert_work()` と `fill_single_work()` が**同一投稿の同一メタキー
+          `_ts_import_hash` を奪い合っている**。単発作品は 1 投稿を両者が触るため、
+          works ループが work JSON の md5 を書く → episodes ループが `single:` 付き md5 で
+          上書き、を毎回繰り返す。**単発 work 1 件につき 1 回の実行で 2 updated**。
+          実測が `2 × 932(単発 work 数) = 1864` と完全一致することで裏付け済み
+        - **(B) 分類語彙が sync-terms の語彙に載らず、場当たり term が 184 本増殖**。
+          `apply_episode_data()` は `wp_set_object_terms($id, $names, $tax)` を **name 解決**で
+          呼ぶが、WP の `term_exists()` は **slug 照合が先**で、`sanitize_title('学園?')` と
+          `sanitize_title('学園')` はどちらも `%e5%ad%a6%e5%9c%92` に潰れる。
+          episodes.jsonl の値(`学園?`)は terms.json の正規化名(`学園`)と一致しないので
+          まず `学園?` という term が新規作成され、以後 `学園` もその term に吸われる。
+          実測: **ts_genre 割当 5,135 のうち 3,682 (72%) / ts_type 4,381 のうち 3,438 (78%) /
+          ts_keyword 5,424 のうち 2,200 (41%)** が、catalog 由来 term ではなく
+          **パーセントエンコード slug の場当たり term**に付いた(1.3 の正規化が事実上無効化)。
+          恒久 URL にもなるので要修正。**term は slug で解決すべき**
+        - **(C) 共有世界の板 slug が `ts_author` になる** — `apply_episode_data()` が
+          `ts_author` を `$ep['kansou_slug']`(= 感想板 id)から付けるため、authors.json に
+          存在しない **11 板 slug**(kayo_chan 218 / himekami 41 / foster 21 / 2daime 12 /
+          utanotsuki 11 / d_angel 11 / delayed 10 / relay_novel 8 / setubou 2 /
+          rental_body 1 / sugar_sweets 1 = **延べ 336 話**)が作者 term として作られた。
+          これは台帳 1.4 訂正 (b) が名指しで警告していた誤認そのもの
+        - **(D) 単発作品 266 件が作者を失う** — `apply_episode_data()` は
+          `wp_set_object_terms($id, $ep['kansou_slug'] ?: null, 'ts_author')` なので
+          **kansou_slug が空(957 話)だと ts_author を空にする**。単発作品では
+          `upsert_work()` が works.jsonl の `author_slug` で正しく付けた作者を
+          直後の `fill_single_work()` が消してしまう。
+          実測: **ts_author 無しの投稿 957 / うち単発 work 266**(連載の親 work は 0)。
+          Phase 4 の作者ページ・五十音索引が欠落するので公開前に要修正
+        - **(E) `verify` の実装が docblock より狭い** — 実装は「投稿数照合」と
+          「手動編集警告」だけ。台帳が要求する **orphan / taxonomy 被覆率 /
+          特殊エントリ内訳 / 冪等性(2 回目 created・updated 0)** は未実装。
+          上記 (A)〜(D) が verify OK をすり抜けたのはこのため
+        - 参考(不具合ではない): authors.json の `karaage_New` は WP が slug を小文字化して
+          `karaage_new` になる。`unattributed` / `series-index` は authors.json に無い
+          擬似作者なので import 側で term 名 = slug のまま作られる
+- [x] 2.3 デプロイスクリプト `scripts/wp/deploy.sh`: rsync(`-n` 先行・`--delete` 禁止)で
       catalog/ bodies/ mu-plugins/ を配備(mu-plugins → `public_html/wp-content/mu-plugins/`)。
       **robots.txt(0.4 草案)を `public_html/` へ配備し curl で内容確認**もここに含める
-- [ ] 2.4 サーバでパイロット投入: `wp ts import --limit=100`(1.5b 確定済み分のみ)→ 検収は
+      - **2.3 実測 (2026-08-30)**: 引数なし = dry-run、`--apply` = 実配備。dry-run で
+        宛先 4 つ(repo / bodies / mu-plugins / robots.txt)以外に転送が無いこと・
+        `--delete` が無いことを確認してから `--apply`。**所要 7.5 秒**
+        (bodies 120MB は転送済みだったため差分のみ)。サーバ側 `php -l` は
+        commands.php・ts-library.php とも **No syntax errors**、ローダも別途 OK。
+        配備後: `~/novels.xwp.jp/repo` が HEAD `cf20f746` に一致、`repo/bodies` **3,642 本**、
+        `repo/catalog/episodes.jsonl` **3,844 行** / `works.jsonl` **1,451 行**。
+        robots.txt は curl 200 でローカル `scripts/wp/assets/robots.txt` と**バイト一致**
+      - **補足**: publish-runbook は deploy.sh が `themes/` と `assets/annex-img/` も運ぶと
+        書いているが、**現行 deploy.sh は運ばない**(2.7 は手動 rsync で実施した)。
+        どちらかに合わせること
+- [x] 2.4 サーバでパイロット投入: `wp ts import --limit=100`(1.5b 確定済み分のみ)→ 検収は
       **WP-CLI(`wp post list --post_type=ts_work`、meta 確認)+curl(キャッシュバスター付)**で:
       パーマリンク・タクソノミー・メタ・noindex メタ/ヘッダ
+      - **2.4 実測 (2026-08-30)**: 直前に復旧点 `~/dumps/pre-pilot-20260830-1734.sql`。
+        `wp ts sync-terms` = **created=1734 updated=0 skipped=0 / 5.6 秒**
+        (= 作者 322 + genre 196 + type 165 + keyword 1,032 + world 14 + corpus 5。catalog と完全一致)。
+        `wp ts import --limit=100` = **created=1513 updated=38 skipped=0 / 15.5 秒**。
+        **`--limit` は episodes ループにしか効かない**(works 1,451 は毎回全部投入される)ので
+        created 1,513 = works 1,451 + 連載話の子投稿 62、updated 38 = 単発 work への本文流し込み。
+        62 + 38 = 100 で辻褄が合う(仕様どおり。台帳の「100 件」という語感とはずれる)。
+        再実行で **created=0**(パイロットの受け入れ条件は達成)。ただし updated は 76 で
+        0 にならない → **2.2 (A)** 参照。
+        curl 検収(全て `?_cb=$RANDOM` 付き): 単発 work `/works/yaji-trans11/` **200
+        `<title>trans11 – 少年少女文庫</title>`**、`/works/unattributed-hanayochanshiriizu-hobosan/`
+        **200**、`/works/mashiro_yuu-ahujouri03-1/` **200**、連載子投稿
+        `/works/johdan-tsukinuke/<話>/` **200 `<title>突き抜け …</title>`**、
+        `/works/sakiemon-hanayochanshiriizu/<話>/` **200**
+      - **要判断**: 連載の**子投稿の slug は題名由来のパーセントエンコード**になる
+        (`/works/johdan-tsukinuke/%e7%aa%81%e3%81%8d%e6%8a%9c%e3%81%91/`)。
+        親 work は work_slug の ASCII。恒久 URL なので、話にも ASCII slug を振るか
+        このままかを決める必要がある(`upsert_episode()` は `post_name` を指定していない)
 - [ ] 2.5 全量メタ投入(本文なし)。直前に `wp db export` で復旧点。
       **冪等性テスト: 2 回目 import が created=0 / updated=0**
+      - **2.5 実行結果 (2026-08-30) — 投入は完了、冪等性テストは NG のため未チェックのまま**:
+        復旧点 `~/novels.xwp.jp/backup-phase2-20260830.sql` (1.8MB)。
+        `wp ts import` (limit なし) = **created=2850 updated=970 skipped=1475 /
+        2 分 00 秒**(created+updated+skipped = 5,295 = works 1,451 + episodes 3,844)。
+        `wp ts verify` = **投稿数 WP=4363 期待=4363 (works 1451 + episodes 3844 − 単発 932)
+        → verify OK**。`wp option get ts_catalog_commit` =
+        **`cf20f74652792360cbce69743bcab5ec1c987b02`**、`ts_last_import_at` = 2026-08-30T08:42:24Z。
+        `ts_corpus` の内訳も catalog と完全一致(honkan 2,887 / uncatalogued 859 /
+        legacy 97 / extern-repost 1 / dojo 0)。
+        **2 回目の `wp ts import` = created=0 / updated=1864 / skipped=3431 (2 分 00 秒)**
+        → **受け入れ条件「created=0 かつ updated=0」を満たさない**。原因と実測は 2.2 (A)。
+        あわせて 2.2 (B)(C)(D) の語彙・作者の取り違えも要修正なので、
+        **修正後に `wp ts reset --yes` → 再 import して 2.5 をやり直すこと**
 - [ ] 2.6 .htaccess の noindex/410 ブロック管理(**v1.5: 全域 noindex は行わない**。
       恒久 noindex 層 /boards/ /dojo/ のヘッダと denylist 410 のみ):
       (a) サーバ上で `cp .htaccess .htaccess.bak-YYYYMMDD` を必ず先行
@@ -462,7 +553,19 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
       (c) 挿入は ssh 経由のサーバ上編集で行い、**既存 .htaccess 全文をローカルに保存・コミットしない**
       (d) 直後に無関係 URL 1 本の 200 と `X-Robots-Tag` ヘッダを curl(バスター付)で確認、
       失敗時は .bak を戻す
-- [ ] 2.7 novel/ 画像 **1,196 点**(約 59MB。数え方: `git ls-files novel` の `.jpg` 562 + `.gif` 614 + `.png` 19 + `.bmp` 1)を `public_html/assets/annex-img/` に相対構造ごと rsync
+- [x] 2.7 novel/ 画像 **1,196 点**(約 59MB。数え方: `git ls-files novel` の `.jpg` 562 + `.gif` 614 + `.png` 19 + `.bmp` 1)を `public_html/assets/annex-img/` に相対構造ごと rsync
+      - **2.7 実測 (2026-08-30)**: 点数は台帳どおり **1,196**(jpg 562 / gif 614 / png 19 / bmp 1)、
+        実サイズ **59,719,763 バイト**。`git ls-files novel` を拡張子で絞った一覧を
+        `rsync --files-from` に渡し、`-n` で 1,196 件・宛先・`--delete` 無しを確認してから実配備
+        (**12.9 秒**)。宛先ディレクトリは事前に `mkdir -p` が要る(rsync が自力で作れず一度失敗した)。
+        結果: `assets/annex-img/` に **1,196 ファイル / 60MB**。
+      - **配置は `assets/annex-img/novel/<元の相対パス>`**(`novel/` を残した)。
+        理由: `bodies/*.md` の画像参照は `<img src="maidgirls.gif">` のように
+        **元 HTML と同じディレクトリ前提の裸のファイル名**なので、
+        `source_path` のディレクトリ部分をそのまま連結すれば解決できる形にした。
+        3.2 の書換もこの前提で書くこと
+      - 検証(`?_cb=$RANDOM` 付き): `/assets/annex-img/novel/youma/youma1.jpg` → **200 image/jpeg 9,391B**、
+        `/assets/annex-img/novel/youma/youma0.gif` → **200 image/gif 5,027B**
 
 ## Phase 3 — 本文投入(目安 2 週)
 
