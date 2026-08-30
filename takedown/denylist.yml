@@ -232,3 +232,43 @@ entries:
       git_history_purged: null
       removed_page_listed: 2026-08-30
     public_note: 「由香里聖伝 序章」(山陰しろいるかさん) — 作者の申し出により掲載していません
+
+  # ------------------------------------------------------------------------
+  # 第三者のプライバシー (運営判断による一時非公開。**サイト所有者の確認待ち**)
+  # 2001-12-30 の実際のオフ会の記録。私人の顔が判別できる写真 15 枚、会場の駅・時刻・
+  # 二次会の実在店名、参加者でない第三者の呼称を含む。作品ではなくイベント記録であり、
+  # 写っている人は再公開に同意していない。検索インデックス可の状態で公開されていた。
+  # 復帰させる場合は写真の除去・noindex 等の条件を決めてから。同一内容が 2 パスにある。
+  # ------------------------------------------------------------------------
+  - id: TD-2026-0010
+    target:
+      kind: work
+      value: johdan-nenmatsuofu
+    reason: 実イベントの記録。私人の顔写真 15 枚と会場情報を含む (第三者のプライバシー)
+    reason_class: pii
+    requested_at: 2026-08-31
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-31
+      htaccess_410: 2026-08-31
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    notes: 運営判断による一時非公開。サイト所有者の確認待ち (掲示は保留)
+  - id: TD-2026-0011
+    target:
+      kind: work
+      value: hotaru-nenmatsuofu
+    reason: 同上 (同一内容の別パス)
+    reason_class: pii
+    requested_at: 2026-08-31
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-31
+      htaccess_410: 2026-08-31
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: null
+    notes: 運営判断による一時非公開。サイト所有者の確認待ち (掲示は保留)
