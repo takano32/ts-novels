@@ -9,15 +9,23 @@
 #
 # 直したいときは slug を書き換えて status を confirmed にしてください。
 # 進行台帳 docs/wp-implementation-tasks.md の 👤 1.5b がこのファイルの確認タスクです。
+#
+# --- 同名別 slug の裁定 (2026-08-30 Fable。実装は authors_build/episodes 側の対応が必要) ---
+# 1) 神川綾乃: kamikawa_ayano_ は実在しない板 (CGI の hidden log 値が kamikawa_ayano)。
+#    kamikawa_ayano に統合し、novel/200104/15172112/angels_12.html を kamikawa_ayano へ。
+# 2) コーディー: jersey_red (ジャージレッド) とは別人。コーディーの正は kohdhi。
+#    jersey_red の display_variants から「コーディー」を外し、
+#    novel/200101/05064051/ao2.html の作者を kohdhi に付け替える (lib61.html の誤植の上書き)。
 # terms_* セクション = 分類語彙の slug (scripts/wp/terms_build.py)
 # authors セクション = 作者 slug (scripts/wp/authors_build.py)
 # works セクション = 作品 slug (scripts/wp/work_builder.py)
 
 authors:
   (原作:TWO-BIT):
-    slug: gensaku-two-bit
+    slug: two_bit
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "既存作者への注記。RB企画ページの筆頭は運営委員会だが板一覧の two_bit に寄せる (2026-08-30 Fable 裁定)"
   100万Hit:
     slug: million
     source: kansou-board
@@ -49,15 +57,17 @@ authors:
   Bシュウ:
     slug: bshuu
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "シュウとは別人 (サイトの索引・板の扱いに従う) (2026-08-30 Fable 裁定)"
   DEKOI:
     slug: dekoi
     source: kansou-board
     status: auto
   DEKOI（協力　DATTA）:
-    slug: dekoi-kyouryoku-datta
+    slug: dekoi
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "注記表記。メールローカル部が DEKOI 4表記で同一 (2026-08-30 Fable 裁定)"
   G-Cat:
     slug: g_cat
     source: kansou-board
@@ -235,13 +245,15 @@ authors:
     source: kansou-board
     status: auto
   you':
-    slug: you-2
+    slug: you_
     source: ascii
-    status: auto
+    status: confirmed
+    note: "you’と同一人物 (板 you_)。統合 (2026-08-30 Fable 裁定)"
   you’:
-    slug: you-3
+    slug: you_
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "板 log 値 you_。ASCII 表記 you' と同一人物として統合 (2026-08-30 Fable 裁定)"
   yuk:
     slug: yuk
     source: kansou-board
@@ -269,7 +281,8 @@ authors:
   あのよろし:
     slug: anoyoroshi
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   あむぁい:
     slug: amulai
     source: kansou-board
@@ -319,9 +332,10 @@ authors:
     source: kansou-board
     status: auto
   この市場:
-    slug: konoshijou
+    slug: konoichiba
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "板一覧 konoichiba。読みは「このいちば」 (2026-08-30 Fable 裁定)"
   ごく普通のサラリーマン:
     slug: salaryman
     source: kansou-board
@@ -353,11 +367,13 @@ authors:
   ぴろ:
     slug: piro
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   ふう:
     slug: fuu
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "板一覧と一致 (2026-08-30 Fable 裁定)"
   ふらっと:
     slug: flat
     source: kansou-board
@@ -367,9 +383,10 @@ authors:
     source: kansou-board
     status: auto
   ぽぽ:
-    slug: popo-2
+    slug: popo
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "板タイトル「ぽぽさん(HIKUさん)…」= サイト自身が同一視。HIKU も slug popo (2026-08-30 Fable 裁定)"
   まーさ:
     slug: mahsa
     source: kansou-board
@@ -395,9 +412,10 @@ authors:
     source: kansou-board
     status: auto
   もと(ＭＯＴＯ):
-    slug: moto-moto
+    slug: moto
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "同一人物の別表記。板一覧 moto (2026-08-30 Fable 裁定)"
   もりげ:
     slug: morige
     source: kansou-board
@@ -411,9 +429,10 @@ authors:
     source: kansou-board
     status: auto
   ゆあさのみき 画：もぐたん様:
-    slug: yuasanomiki-ga-mogutansama
+    slug: yuasano_miki
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "画師併記の巻き込み。感想リンクが yuasano_miki (2026-08-30 Fable 裁定)"
   ゆうぼう:
     slug: yuubou
     source: kansou-board
@@ -445,7 +464,8 @@ authors:
   ろっほ:
     slug: rohho
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "索引位置と一致 (roppo=思案の六ぽ と混同しない) (2026-08-30 Fable 裁定)"
   ろーむ:
     slug: roam
     source: kansou-board
@@ -481,7 +501,8 @@ authors:
   コンカナ:
     slug: konkana
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   コーディー:
     slug: kohdhi
     source: kansou-board
@@ -503,13 +524,16 @@ authors:
     source: kansou-board
     status: auto
   シェアワールド:
-    slug: shieawaarudo
+    slug: himekami_series
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "作者ではない (シリーズ目次ページの誤登録)。authors_build で作者化せず、話は ts_world 姫神奇譚へ — 実装は role: not-an-author を参照 (2026-08-30 Fable 裁定)"
+    role: not-an-author
   シュウ:
     slug: shuu
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "Bシュウとは別人 (2026-08-30 Fable 裁定)"
   ジニ:
     slug: jini
     source: kansou-board
@@ -517,7 +541,8 @@ authors:
   ジブドレ:
     slug: jibudore
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "独立作者として維持 (mr_nagasaki と birthday0420 が共通し同一人物の疑いはあるが、確証なしのため安全側) (2026-08-30 Fable 裁定)"
   ジャージレッド:
     slug: jersey_red
     source: kansou-board
@@ -595,9 +620,10 @@ authors:
     source: kansou-board
     status: auto
   ヒラリーマン:
-    slug: hirariiman
+    slug: hirariman
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "長音は省略する翻字を採用 (hirariiman は読みにくい) (2026-08-30 Fable 裁定)"
   フレーズ:
     slug: phrase
     source: kansou-board
@@ -625,7 +651,8 @@ authors:
   メガ\:
     slug: mega
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "末尾 \ は文字化け由来。後年の改名「日本海」は display_variants へ (2026-08-30 Fable 裁定)"
   ヤマダ:
     slug: yamada
     source: kansou-board
@@ -687,21 +714,24 @@ authors:
     source: kansou-board
     status: auto
   亜希みちる＆こうけい:
-    slug: akimichiru-koukei
+    slug: aki_michiru
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "合作。筆頭 aki_michiru に寄せ、こうけいは display_variants/話メタへ (2026-08-30 Fable 裁定)"
   仲根多鎖:
-    slug: nakanetakusari
+    slug: nakane_takusari
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "読み未確定 (たくさり/たさ)。訓読み複合「たくさり」を採用し姓と区切る (2026-08-30 Fable 裁定)"
   会津里花:
     slug: aizu_rika
     source: kansou-board
     status: auto
   佐藤由衣:
-    slug: satouyui
+    slug: satoh_yui
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "板一覧 satoh_yui。「由衣」とは別人 (板が別) (2026-08-30 Fable 裁定)"
   佐藤香子:
     slug: satoh_kouko
     source: kansou-board
@@ -717,7 +747,8 @@ authors:
   匿名希望:
     slug: tokumeikibou
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "連作2話の同一匿名者。1名として残す (2026-08-30 Fable 裁定)"
   十六夜:
     slug: izayoi
     source: kansou-board
@@ -771,9 +802,10 @@ authors:
     source: kansou-board
     status: auto
   塵芥王:
-    slug: chiriakutaou
+    slug: jinkaiou
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "さ行索引の位置 (じ〜す) より「じんかいおう」 (2026-08-30 Fable 裁定)"
   壊燕:
     slug: kaien
     source: kansou-board
@@ -811,9 +843,10 @@ authors:
     source: kansou-board
     status: auto
   天爛／絵：ムクゲさん（:
-    slug: tenran-e-mukugesan
+    slug: shining_heaven
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "目録パース事故。天爛=板 shining_heaven (2026-08-30 Fable 裁定)"
   太九郎:
     slug: takurou
     source: kansou-board
@@ -891,13 +924,15 @@ authors:
     source: kansou-board
     status: auto
   根室　眞琴:
-    slug: nemuro-makoto
+    slug: slents
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "改名前名義。同一人物 (メールローカル部一致・同作品の改訂)。作者ページは slents に一本化し旧名義は display_variants へ (2026-08-30 Fable 裁定)"
   根室　眞琴改め、スレントス-Slents-:
-    slug: nemuro-makotoaratame-surentosu-slents
+    slug: slents
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "改名告知の表記。slents へ (2026-08-30 Fable 裁定)"
   桜沢シンジ:
     slug: sakurazawa_sinnji
     source: kansou-board
@@ -935,9 +970,10 @@ authors:
     source: kansou-board
     status: auto
   海津里花:
-    slug: kaizurika
+    slug: aizu_rika
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "本文署名「会津里花」・作品集合一致。サイト側の誤記 (2026-08-30 Fable 裁定)"
   深草あゆみ:
     slug: fukakusa_ayumi
     source: kansou-board
@@ -969,7 +1005,8 @@ authors:
   由衣:
     slug: yui
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "板一覧と一致 (2026-08-30 Fable 裁定)"
   白羽党:
     slug: byakuutoh
     source: kansou-board
@@ -1009,15 +1046,17 @@ authors:
   空知かたほ:
     slug: sorachikataho
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   米津:
     slug: yonezu
     source: kansou-board
     status: auto
   米津 画：みっしんぐ:
-    slug: yonetsu-ga-misshingu
+    slug: yonezu
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "画師併記の巻き込み。板一覧 yonezu (2026-08-30 Fable 裁定)"
   紀由元駄話沙:
     slug: kiyumoto
     source: kansou-board
@@ -1031,9 +1070,10 @@ authors:
     source: kansou-board
     status: auto
   胡乱太:
-    slug: uronta
+    slug: koranta
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "か行索引の位置 (こと〜こん) より「こらんた」 (2026-08-30 Fable 裁定)"
   自称暇人:
     slug: jisyou_himajin
     source: kansou-board
@@ -1059,9 +1099,10 @@ authors:
     source: kansou-board
     status: auto
   薪喬（まきたかし）:
-    slug: takigitakashi-makitakashi
+    slug: maki_takashi
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "括弧内読みが板 slug と一致 (2026-08-30 Fable 裁定)"
   藍羽桃和寛:
     slug: aibatou
     source: kansou-board
@@ -1073,19 +1114,22 @@ authors:
   虎之助:
     slug: toranosuke
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "最も自然な読み。tiger はドメイン由来で本人表記でない (2026-08-30 Fable 裁定)"
   西さとる:
-    slug: nishisatoru
+    slug: nishi_satoru
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "板一覧 nishi_satoru (2026-08-30 Fable 裁定)"
   角:
     slug: kakusan
     source: kansou-board
     status: auto
   角さん(絵) / オヤジ さん(文):
-    slug: kakusan-e-oyaji-san-bun
+    slug: kakusan
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "筆頭 角さん=板 kakusan。オヤジは話メタへ (2026-08-30 Fable 裁定)"
   豆電球:
     slug: mamedenkyuu
     source: kansou-board
@@ -1185,7 +1229,8 @@ authors:
   高樹ひろむ:
     slug: takakihiromu
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   鮎川 翔子:
     slug: ayukawa
     source: kansou-board
@@ -1195,9 +1240,10 @@ authors:
     source: kansou-board
     status: auto
   麗香:
-    slug: reika
+    slug: marie
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "novel/reika/ を Ｍａｒｉｅ・Ｒｅｉｋａ と共有 (imagine が by Reika Marie)。marie に統合し麗香は display_variants へ (2026-08-30 Fable 裁定)"
   麻国:
     slug: makoku
     source: kansou-board
@@ -1215,9 +1261,10 @@ authors:
     source: kansou-board
     status: auto
   龍酒 原案：超！海老寿司:
-    slug: ryuusake-gen-an-chou-ebisushi
+    slug: ryuhju
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "筆頭 龍酒。原案者は話メタへ (2026-08-30 Fable 裁定)"
   ４２７:
     slug: '427'
     source: kansou-board
@@ -1227,9 +1274,10 @@ authors:
     source: kansou-board
     status: auto
   ？？？？:
-    slug: author-1
+    slug: qqqqq
     source: fallback
-    status: candidate
+    status: confirmed
+    note: "????? の全半角ゆれ。lib-index 両索引で同一4作 (2026-08-30 Fable 裁定)"
   ＠ユウマ:
     slug: yuuma
     source: kansou-board
@@ -1243,9 +1291,10 @@ authors:
     source: kansou-board
     status: auto
   ＨＩＫＯ（原作：城弾さん）:
-    slug: hiko-gensaku-shirodansan
+    slug: hiko
     source: pykakasi
-    status: candidate
+    status: confirmed
+    note: "HIKO 本人。原作クレジットは話メタへ (2026-08-30 Fable 裁定)"
   Ｋ:
     slug: k
     source: kansou-board
@@ -1289,7 +1338,8 @@ authors:
   Ｍａｃｆｉｓｔ:
     slug: macfist
     source: ascii
-    status: auto
+    status: confirmed
+    note: "板一覧 macfist (見落とし分) (2026-08-30 Fable 裁定)"
   Ｍａｒｉｅ:
     slug: marie
     source: kansou-board
