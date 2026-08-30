@@ -86,7 +86,7 @@
       ①WP draft 化 ②.htaccess 410 追記 ③アネックス(Pages)側除外 ④**git 履歴除去
       (git filter-repo。raw-original タグにも残る事実と対応方針を明記)** ⑤`/removed/` 更新、
       の **四層+掲示** を文書化
-- [ ] 0.3 `docs/publish-runbook.md` v0: catalog 再生成 → rsync → `wp db export`(復旧点)→
+- [x] 0.3 `docs/publish-runbook.md` v0: catalog 再生成 → rsync → `wp db export`(復旧点)→
       `wp ts import` → verify → 👤 キャッシュクリア依頼、の定常手順(コマンド列)を文書化
 - [ ] 0.4 robots.txt 草案(AI 学習クローラ Disallow・ia_archiver 許可)を `scripts/wp/assets/` に用意
       ※ リポジトリ直下の現 robots.txt は Wayback 誤回収物なので参照しない。配備は 2.3
