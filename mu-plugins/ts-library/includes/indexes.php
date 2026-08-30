@@ -73,11 +73,34 @@ add_filter('document_title_parts', function ($parts) {
 
 // ------------------------------------------------------------------ 描画部品
 
+/** term ごとの**作品**数 (書庫が並べる単位に合わせる)。
+ *
+ *  term->count は作品と話の両方を数えるので、索引に 340 と出して書庫には 111 しか
+ *  並ばない、という食い違いになっていた (実測で約 3 倍のずれ)。 */
+function ts_bunko_work_counts($tax) {
+    global $wpdb;
+    static $cache = [];
+    if (isset($cache[$tax])) return $cache[$tax];
+    $rows = $wpdb->get_results($wpdb->prepare(
+        "SELECT tt.term_id, COUNT(DISTINCT p.ID) c
+         FROM {$wpdb->term_taxonomy} tt
+         JOIN {$wpdb->term_relationships} tr ON tr.term_taxonomy_id = tt.term_taxonomy_id
+         JOIN {$wpdb->posts} p ON p.ID = tr.object_id
+         WHERE tt.taxonomy = %s AND p.post_type = 'ts_work'
+           AND p.post_status = 'publish' AND p.post_parent = 0
+         GROUP BY tt.term_id", $tax));
+    $out = [];
+    foreach ($rows as $r) $out[(int) $r->term_id] = (int) $r->c;
+    return $cache[$tax] = $out;
+}
+
+
 /** 五十音行ごとの作者一覧。
  *  見出しは catalog の ts_yomi_group の**実値**で作る (authors_build の値は「あ行」…「わ行」と
  *  欧文名の「A」…「Z」。ここを 1 文字の 'あ' 等で決め打ちすると 303 名が無言で消える)。 */
 function ts_bunko_index_kana() {
     $terms = get_terms(['taxonomy' => 'ts_author', 'hide_empty' => true]);
+    $counts = ts_bunko_work_counts('ts_author');
     if (is_wp_error($terms) || !$terms) return;
     $by = [];
     foreach ($terms as $t) {
@@ -107,8 +130,10 @@ function ts_bunko_index_kana() {
             . esc_html($g) . '</h2>';
         echo '<ul class="ts-index-list">';
         foreach ($by[$g] as $t) {
+            $n = $counts[$t->term_id] ?? 0;
+            if (!$n) continue;                     // 書庫に 1 作も並ばない term は出さない
             echo '<li><a href="' . esc_url(get_term_link($t)) . '">' . esc_html($t->name)
-                . '</a> <span class="ts-count">(' . (int) $t->count . ')</span></li>';
+                . '</a> <span class="ts-count">(' . $n . ')</span></li>';
         }
         echo '</ul>';
     }
@@ -139,10 +164,13 @@ function ts_bunko_index_bunrui() {
         $terms = get_terms(['taxonomy' => $tax, 'hide_empty' => true,
                             'orderby' => 'count', 'order' => 'DESC']);
         if (is_wp_error($terms) || !$terms) continue;
+        $counts = ts_bunko_work_counts($tax);
         echo '<h2 class="ts-archive-title">' . esc_html($label) . '</h2><ul class="ts-index-list">';
         foreach ($terms as $t) {
+            $n = $counts[$t->term_id] ?? 0;
+            if (!$n) continue;
             echo '<li><a href="' . esc_url(get_term_link($t)) . '">' . esc_html($t->name)
-                . '</a> <span class="ts-count">(' . (int) $t->count . ')</span>'
+                . '</a> <span class="ts-count">(' . $n . ')</span>'
                 . ($t->description ? ' — ' . esc_html($t->description) : '') . '</li>';
         }
         echo '</ul>';
@@ -154,11 +182,15 @@ function ts_bunko_index_vocabulary() {
     $terms = get_terms(['taxonomy' => 'ts_keyword', 'hide_empty' => true,
                         'orderby' => 'count', 'order' => 'DESC']);
     if (is_wp_error($terms)) return;
-    echo '<p class="ts-archive-desc">当時の目録で使われていたキーワードの全語彙です。</p>';
+    echo '<p class="ts-archive-desc">当時の目録で使われていたキーワードの全語彙です。'
+        . '数字はそのキーワードが付いた作品の数です。</p>';
+    $counts = ts_bunko_work_counts('ts_keyword');
     echo '<p class="ts-chips">';
     foreach ($terms as $t) {
+        $n = $counts[$t->term_id] ?? 0;
+        if (!$n) continue;
         echo '<a class="ts-chip" href="' . esc_url(get_term_link($t)) . '">'
-            . esc_html($t->name) . ' ' . (int) $t->count . '</a> ';
+            . esc_html($t->name) . ' ' . $n . '</a> ';
     }
     echo '</p>';
 }

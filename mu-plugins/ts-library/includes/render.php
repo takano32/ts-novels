@@ -33,9 +33,11 @@ function ts_bunko_breadcrumb($post) {
 function ts_bunko_meta_header($post) {
     $bits = [];
     if ($d = ts_meta($post->ID, 'pub_date_raw')) $bits[] = '初出 ' . esc_html($d);
-    if ($kb = ts_meta($post->ID, 'size_kb')) {
-        $min = max(1, (int) round((float) $kb * 0.8));
-        $bits[] = '読了 約' . $min . '分';
+    // 読了目安は**本文の実文字数**から (原本ファイルのバイト数だと、画像だけの話が
+    // 「読了 約754分」になる。実測 289 ページが破綻値だった)
+    $chars = mb_strlen(preg_replace('/\s+/u', '', wp_strip_all_tags($post->post_content)));
+    if ($chars >= 200) {
+        $bits[] = '読了 約' . max(1, (int) round($chars / 550)) . '分';   // 約 550 字/分
     }
     $il = ts_meta($post->ID, 'illustrator');
     if ($il) $bits[] = '挿絵 ' . esc_html(implode('・', (array) $il));
@@ -129,7 +131,11 @@ function ts_bunko_biblio_card($post) {
     if ($u = ts_meta($id, 'annex_yays_url')) {
         $links[] = '<a href="' . esc_url($u) . '">初出時の姿 (2002年版)</a>';
     }
-    if ($u = ts_meta($id, 'kansou_annex_url')) {
+    // 当時の感想板ログへのリンクは保留中。理由は 2 つあり、どちらも未解決:
+    //   (a) .cgi がブラウザでダウンロード扱いになる / 一部 404 で、読者が読めない
+    //   (b) ログに第三者の連絡先が残っている (docs/annex-privacy-decision.md の判断待ち)
+    // 直すと (b) の露出が増えるので、判断が出るまで出さない
+    if (false && ($u = ts_meta($id, 'kansou_annex_url'))) {
         $links[] = '<a href="' . esc_url($u) . '">当時の感想を読む</a>';
     }
     if ($links) echo '<dt>原本アーカイブ</dt><dd>' . implode('<br>', $links) . '</dd>';
@@ -228,9 +234,7 @@ function ts_bunko_author_links($term) {
     $links = [];
     if ($live) $links[] = '<a href="' . esc_url($live) . '" rel="external">ホームページ</a>';
     elseif ($wb) $links[] = '<a href="' . esc_url($wb) . '" rel="external">ホームページ (当時の保存版)</a>';
-    if ($u = get_term_meta($term->term_id, 'ts_kansou_annex_url', true)) {
-        $links[] = '<a href="' . esc_url($u) . '">当時の感想板ログ</a>';
-    }
+    // 感想板ログへのリンクは保留 (上と同じ理由。docs/annex-privacy-decision.md)
     if ($links) echo '<p class="ts-author-links">' . implode('　·　', $links) . '</p>';
 }
 
@@ -260,4 +264,28 @@ function ts_bunko_sidebar() {
     }
     echo '</ul></div>';
     echo '</aside>';
+}
+
+
+/** 本文から失われた内部リンクを目録の nav_links から復元して出す。
+ *
+ *  本文変換の過程で <a> が落ちるため、「…Part2へ」「シリーズタイトルはこちら」等が
+ *  押せない文字列として残っていた (実測 472 ページ)。目録側は href を持っているので、
+ *  館内の URL に解決できるものだけをリンクとして出す。 */
+function ts_bunko_inline_nav($post) {
+    $nav = ts_meta($post->ID, 'nav_links');
+    if (!is_array($nav)) return;
+    $items = [];
+    foreach ($nav as $n) {
+        $href = is_array($n) ? ($n['href'] ?? '') : '';
+        $label = is_array($n) ? trim((string) ($n['label'] ?? '')) : '';
+        if ($href === '') continue;
+        $url = ts_bunko_url_for_source($href);
+        if (!$url) continue;                       // 館内に無いものは出さない
+        if ($label === '') $label = get_the_title(url_to_postid($url)) ?: '関連ページ';
+        $items[] = '<a href="' . esc_url($url) . '">' . esc_html($label) . '</a>';
+    }
+    if (!$items) return;
+    echo '<nav class="ts-inline-nav" aria-label="この作品の関連ページ">'
+        . implode('　·　', $items) . '</nav>';
 }

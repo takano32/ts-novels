@@ -59,6 +59,7 @@ while (have_posts()) {
         the_content();
         echo '</div>';
         ts_bunko_episode_nav($post);
+        if (function_exists('ts_bunko_inline_nav')) ts_bunko_inline_nav($post);
         ts_bunko_suisen($post);
         ts_bunko_catalog_notes($post);
         ts_bunko_biblio_card($post);
