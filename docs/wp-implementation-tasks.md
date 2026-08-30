@@ -763,15 +763,21 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         単発作品 `/novel/kagerou6-pootoreeto-hiroiniii/` **200**・39 段落・placeholder 0 /
         raw-fallback 2 件も本文あり(`/novel/aibatou-koromogaemae/koromogae1/` 14,693 バイト・
         `/novel/million-tenshinogyararii/` 6,148 バイト)
-      - **⚠ 3.1 の残件 (Fable 所管。実行セッションは未修正)**:
-        **pixiv 再掲 2 作の本文が placeholder のまま**。
-        `novel__200802__15232641__rainGirl.html`(雨女 → `/novel/omochibako-ameonna/`)と
-        `repost__pixiv__272830`(きらいなもの→ＧＷ → `/novel/omochibako-kirainamono-gw/`)は
-        どちらも `_ts_body_status=placeholder`・本文 106 バイト。
-        原文は `reposts/*.txt` に在るが **`bodies/*.md` も `payloads/*.html` も生成されていない**。
-        タスク 1.9 が「本文はプレーンテキストなので 1.6 の対象外。**Phase 3 で空行区切りの
-        段落分割 → paragraph ブロック化する**」と書いていた分が未実装
-- [ ] 3.2 img src を `assets/annex-img/` 参照に書換。**eyecatch 画像(実体 4 ファイル・参照 15 話)**は
+      - **~~3.1 の残件~~ → 解消 (2026-08-30、コミット `8fe04aed`)**:
+        pixiv 再掲 2 作(1.9 の積み残し = プレーンテキスト経路)が placeholder のままだったが、
+        payload 生成器にテキスト経路が入って解決。payloads は 3,644 → **3,646 本**。
+        `wp ts import --bodies=…` = **created=0 / updated=2 / skipped=5293 / 1 分 55 秒**
+        (差分の 2 件だけが更新される、という読みどおり)。
+        **`_ts_body_status` は converted 3,642 / converted-text 2 / raw-fallback 2 /
+        placeholder 198**(合計 3,844)。
+        受入 curl: 雨女 `/novel/omochibako-ameonna/` **200**・**10 段落・7,268 バイト**、
+        きらいなもの→ＧＷ `/novel/omochibako-kirainamono-gw/` **200**・**6 段落・5,722 バイト**、
+        どちらも placeholder 文言 0。本文は末尾「おわり」まで揃っている
+      - **軽微な気づき (要判断)**: 再掲 2 件の本文は先頭 2 段落が
+        **`執筆者:` と `カテゴリ:` の値なしラベル**になる(pixiv のテキスト書き出しの
+        ヘッダ行がそのまま段落化されている)。読める本文は 3 段落目から。
+        気になるなら payload 生成器側で空ラベル行を落とす
+- [x] 3.2 img src を `assets/annex-img/` 参照に書換。**eyecatch 画像(実体 4 ファイル・参照 15 話)**は
       dedup して該当話の featured image に設定(survey の「109 件」は参照回数であり実体数ではない)
       - **前半 (img src の書換) は完了 (2026-08-30)**: 本文に `/assets/annex-img/` を含む投稿は
         **688 件**。実配信も確認 — `/novel/wataru1024-futarinokaworu-contents-by-wataru1024/` の
@@ -779,11 +785,31 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         `kaoru01s.gif` が **200 image/gif 5,895B**。
         なお **`src` 属性は原本のまま大文字 `SRC=`** で出力される(HTML として妥当なので実害なし。
         grep で拾うときは大小文字を無視すること)
-      - **後半 (eyecatch = featured image の設定) は未実施**。別途指示待ち
+      - **後半 (eyecatch = featured image) 完了 (2026-08-30)**: 対応表は
+        `catalog/reports/payload_build.json` の **`eyecatch_refs`(15 話)**。
+        `wp media import` で **attachment 3 件**を作り(**8733** = 03175506 の gif /
+        **8734** = 20050818 の jpg / **8735** = 20050818 の gif)、
+        各話に `wp post meta update <post> _thumbnail_id <att>` を実行。
+        検収: **`_thumbnail_id` を持つ ts_work = 15 件**、
+        attachment 3 件とも配信 200(45,551B gif / 2,510B jpg / 8,034B gif で原本とバイト一致)、
+        eyecatch 付きの話 `/novel/million-shijousaiakunosakusen/` の HTML に
+        `wp-post-image` が出る(`og:image` は 0 = テーマ未整備のため。Phase 4 の範囲)
+      - **台帳の記述の訂正 1 点**: 「**実体 4 ファイル**」は**パスが 4 つ**であって実体は **3 つ**。
+        `novel/200012/03175506/eyecatch.gif` と `novel/robot_triathlon/eyecatch.gif` は
+        **md5 一致 (`74fb5164…`、45,551B)** なので、media import は 3 回で足り、
+        この 2 パスには同じ attachment 8733 を割り当てた
+      - **`ac-14` だけ eyecatch が 2 枚**(gif と jpg)登録されている。featured image は
+        1 枚しか持てないので **`eyecatch_refs` の先頭 = gif (8735)** を採用した
+      - **⚠ 運用注意**: `_thumbnail_id` は **catalog からの import では復元されない**
+        (`wp media import` + `wp post meta update` で作った投入経路の外の状態)。
+        **`wp ts reset` したら再実行が要る** → 手順を
+        [`rebuild-runbook.md`](rebuild-runbook.md) §2-C の後処理に追記済み
 - [ ] 3.3 無作為 100 話の原本併読 QA(別館の原本と並べて本文欠落・順序破壊がないか)。
       結果を `catalog/QA.md` に追記。**問題率 >2% なら 1.6 に戻る**
+      - **未着手。次の指示待ち**(2026-08-30 時点)
 - [ ] 3.4 verify 拡張: 全話に書誌カード用メタ(初出日・orig_url・annex_url・provenance)が
       揃っているか被覆率で確認
+      - **未着手。次の指示待ち**(2026-08-30 時点)
 - [ ] 👤 3.5 (前倒し推奨) 作者連絡の発送開始 — 設計は「Phase 3 以降並行」。返信待ちを
       公開のクリティカルパスにしないため、ここで発送しておく(7.1 はその継続)
 

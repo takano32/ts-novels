@@ -70,6 +70,30 @@ wp ts sync-terms ... && wp ts import ... && wp ts apply-takedown && wp ts verify
 `wp ts reset` が未実装の場合の代替: パネルから WordPress を初期化 → mu-plugins を rsync
 → import(初期化すると CloudSecure 等の再設定が要るので reset 実装を優先)。
 
+**⚠ reset の後処理: eyecatch (featured image) を再設定する。**
+`_thumbnail_id` は catalog からの import では復元されない(投入経路の外にある
+`wp media import` + `wp post meta update` で作った状態なので、`wp ts reset` で
+ts_* の meta ごと消える)。**reset して import し直したら、台帳 3.2 後半の手順を必ず再実行する**:
+
+```sh
+# 本番 (ssh novels)。対応表は catalog/reports/payload_build.json の eyecatch_refs (15 話)
+R=$HOME/novels.xwp.jp/repo
+wp media import $R/novel/200012/03175506/eyecatch.gif --porcelain   # → attachment ID
+wp media import $R/novel/200104/20050818/eyecatch.jpg --porcelain
+wp media import $R/novel/200104/20050818/eyecatch.gif --porcelain
+# eyecatch_refs の各 episode_id について:
+#   pid=$(wp post list --post_type=ts_work --post_status=any \
+#           --meta_key=_ts_episode_id --meta_value="$eid" --format=ids)
+#   wp post meta update "$pid" _thumbnail_id "$att"
+# 検収: wp post list --post_type=ts_work --meta_key=_thumbnail_id --format=count  → 15
+```
+
+**画像は 4 パスあるが実体は 3 つ**(`novel/200012/03175506/eyecatch.gif` と
+`novel/robot_triathlon/eyecatch.gif` は md5 一致 `74fb5164…`)。
+media import は 3 回でよく、同一実体の 2 パスには同じ attachment ID を割り当てる。
+**`wp media import` は毎回新しい attachment を作る**ので、
+やり直すときは先に古い attachment を消すか、重複を許容するか決めてから流すこと。
+
 ### D. 何がいま本番に載っているかを知る
 
 `wp ts import` は投入時の **catalog の git コミットハッシュ**を `wp option get ts_catalog_commit`
