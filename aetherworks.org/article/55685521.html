@@ -2,19 +2,19 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
-<title>[SSL]�F�؋ǂ̂��肩�� in CentOS5: ���z��`�H�[�G�[�e�����[�N�X</title>
-<meta name="description" content="[SSL]�F�؋ǂ̂��肩�� in CentOS5,�i���ݒ��j" />
-<meta name="keywords" content="���z��`�H�[�G�[�e�����[�N�X" />
+<meta charset="utf-8">
+<title>[SSL]認証局のつくりかた in CentOS5: 迷想主義工房エーテルワークス</title>
+<meta name="description" content="[SSL]認証局のつくりかた in CentOS5,（建設中）" />
+<meta name="keywords" content="迷想主義工房エーテルワークス" />
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <meta property="fb:app_id" content="734785106572809" />
-<meta property="og:title" content="[SSL]�F�؋ǂ̂��肩�� in CentOS5" />
+<meta property="og:title" content="[SSL]認証局のつくりかた in CentOS5" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://www.aetherworks.org/article/55685521.html" />
 <meta property="og:image" content="http://blog.sakura.ne.jp/img/ogp_logo.png" />
-<meta property="og:description" content="SSL�F�؋ǂ����菇����" />
-<meta property="og:site_name" content="���z��`�H�[�G�[�e�����[�N�X" />
+<meta property="og:description" content="SSL認証局を作る手順メモ" />
+<meta property="og:site_name" content="迷想主義工房エーテルワークス" />
 
 
 <link rel="alternate" media="handheld" type="text/html" href="http://www.aetherworks.org/article/55685521.html" />
@@ -23,7 +23,7 @@
 <link rel="alternate" href="http://www.aetherworks.org/index.rdf" type="application/rss+xml" title="RSS" />
 </head>
 <body><script type="text/javaScript">seesaa_site_id = 'awl'; seesaa_floating = false;</script>
-<div id="iphone-link" style="display:none; font-family: sans-serif; padding: 10px 0; width: 100%; color: #FFF; background: #333; min-height: 60px; line-height: 40px; box-sizing: border-box; font-size: 24px; font-weight: 700; text-decoration:none;"><a href="javascript:document.cookie='force_pc=0; max-age=15768000; path=/'; document.cookie='force_sp=1; max-age=15768000; path=/'; document.location='/?from_pc'" style="display: block; width: 100%; text-decoration: none; color: #FFF;">�X�}�[�g�t�H����p�y�[�W��\��</a></div>
+<div id="iphone-link" style="display:none; font-family: sans-serif; padding: 10px 0; width: 100%; color: #FFF; background: #333; min-height: 60px; line-height: 40px; box-sizing: border-box; font-size: 24px; font-weight: 700; text-decoration:none;"><a href="javascript:document.cookie='force_pc=0; max-age=15768000; path=/'; document.cookie='force_sp=1; max-age=15768000; path=/'; document.location='/?from_pc'" style="display: block; width: 100%; text-decoration: none; color: #FFF;">スマートフォン専用ページを表示</a></div>
 <script type="text/javascript"><!--
 if ((0 <= navigator.userAgent.indexOf('iPhone')) || (0 <= navigator.userAgent.indexOf('Android'))) { document.getElementById('iphone-link').style.display = 'block'; }
 //--></script>
@@ -31,9 +31,9 @@ if ((0 <= navigator.userAgent.indexOf('iPhone')) || (0 <= navigator.userAgent.in
 
 <div id="container">
 <div id="banner">
-<h1><a href="http://www.aetherworks.org/" accesskey="1">���z��`�H�[�G�[�e�����[�N�X</a></h1>
+<h1><a href="http://www.aetherworks.org/" accesskey="1">迷想主義工房エーテルワークス</a></h1>
 
-<span class="description">�i���ݒ��j</span>
+<span class="description">（建設中）</span>
 
 
 
@@ -44,8 +44,8 @@ if ((0 <= navigator.userAgent.indexOf('iPhone')) || (0 <= navigator.userAgent.in
 
 <!-- Content -->
 <div class="navi">
-<a href="http://www.aetherworks.org/article/55334681.html">&lt;&lt;</a> <a href="http://www.aetherworks.org/article/55334681.html">�o���I�@����̔ӂ���</a> | <a href="http://www.aetherworks.org/">TOP</a>
- | <a href="http://www.aetherworks.org/article/55711218.html">�T�[�o�[�ؖ����̂��肩�� in CentOS5</a> <a href="http://www.aetherworks.org/article/55711218.html">&gt;&gt;</a></div>
+<a href="http://www.aetherworks.org/article/55334681.html">&lt;&lt;</a> <a href="http://www.aetherworks.org/article/55334681.html">出撃！　今夜の晩ご飯</a> | <a href="http://www.aetherworks.org/">TOP</a>
+ | <a href="http://www.aetherworks.org/article/55711218.html">サーバー証明書のつくりかた in CentOS5</a> <a href="http://www.aetherworks.org/article/55711218.html">&gt;&gt;</a></div>
 
 
 <div class="blog">
@@ -57,27 +57,27 @@ if ((0 <= navigator.userAgent.indexOf('iPhone')) || (0 <= navigator.userAgent.in
 <rdf:Description
     rdf:about="http://www.aetherworks.org/article/55685521.html"
     trackback:ping="http://blog.sakura.ne.jp/tb/55685521"
-    dc:title="[SSL]�F�؋ǂ̂��肩�� in CentOS5"
+    dc:title="[SSL]認証局のつくりかた in CentOS5"
     dc:identifier="http://www.aetherworks.org/article/55685521.html"
-    dc:description="SSL�F�؋ǂ����菇����"
-    dc:creator="�����炬"
-    dc:subject="�T�[�o�["
+    dc:description="SSL認証局を作る手順メモ"
+    dc:creator="きさらぎ"
+    dc:subject="サーバー"
     dc:date="2012-05-06T12:42:36+09:00"
 />
 </rdf:RDF>
 -->
-<h2 class="date">2012�N05��06��</h2>
+<h2 class="date">2012年05月06日</h2>
 <div class="blogbody">
-<h3 class="title"><a href="http://www.aetherworks.org/article/55685521.html" class="title">[SSL]�F�؋ǂ̂��肩�� in CentOS5</a></h3>
-<div class="text">�@�ŋ߂u�o�r�����s���Ă����̂ŁA���o�b�Ƃ̊Ԃň����ɈÍ����ʐM���������Ƃ������v�����܂��Ă��Ă���̂ł͂Ǝv���܂��B�Ƃ����������������v���Ă܂��B<br />�@�Ƃ����킯��<a href="http://takagi-hiromitsu.jp/diary/20051118.html#p01" target="_blank">��l��I���I���F�؋�</a>�𗧂��グ�悤�Ƃ�����A�����͂܂����̂Ŏ菇�����B<br /><br /><!-- --><a name="more"></a>�@�O��Ƃ��āAOpenSSL�������Ă��邱�ƁB<br />�@�킽���̊��i�������VPS�j�ł͍ŏ���������Ă����悤�ł��B<br /><br /><blockquote><pre style="margin:0px;"># yum list | grep openssl<br />openssl.i686                               0.9.8e-22.el5_8.3           installed<br />openssl.x86_64                             0.9.8e-22.el5_8.3           installed<br />openssl-devel.i386                         0.9.8e-22.el5_8.3           installed<br />openssl-devel.x86_64                       0.9.8e-22.el5_8.3           installed<br />#</pre></blockquote><br /><br />�P�j������������<br /><br />�@OpenSSL�̐ݒ�t�@�C���� /etc/pki/tls/openssl.cnf �ɂ���܂��B<br />�@�ݒ�ύX������ꍇ�́A���̃^�C�~���O�ŁB<br /><blockquote><pre style="margin:0px;"># ls -l /etc/pki/tls/openssl.cnf<br />-rw-r--r-- 1 root root 9999 May  6 11:43 /etc/pki/tls/openssl.cnf<br />#</pre></blockquote>�@��Əꏊ�� /etc/pki/tls/misc �ł��B<br /><blockquote><pre style="margin:0px;"># cd /etc/pki/tls/misc/<br /># ls -l<br />total 40<br />-rwxr-xr-x 1 root root 3846 May  6 00:19 CA<span style="color:#FF0000;">�@�@����������s����̂����c�c</span><br />-rwxr-xr-x 1 root root  119 Apr 25 06:27 c_hash<br />-rwxr-xr-x 1 root root  152 Apr 25 06:27 c_info<br />-rwxr-xr-x 1 root root  112 Apr 25 06:27 c_issuer<br />-rwxr-xr-x 1 root root  110 Apr 25 06:27 c_name<br />#</pre></blockquote>�@����CA�X�N���v�g�����̂܂܎g���ƁA��������������b�`���b�`�Ƃ��ċ@�\���Ȃ��炵���̂ŁA������Ɖ������܂��B<br />�@�o�b�N�A�b�v������ĕҏW���ƁB<br /><blockquote><pre style="margin:0px;"># cp -p CA CA.prig<br /># ls -l CA*<br />-rwxr-xr-x 1 root root 3846 May  6 00:19 CA<br />-rwxr-xr-x 1 root root 3846 May  6 00:19 CA.prig<br /># vi CA</pre></blockquote>�@42�s�ڂ�ύX<br /><blockquote>�ύX�O�F<span style="font-family:monospace;">CA="$OPENSSL ca $SSLEAY_CONFIG"</span><br />�ύX��F<span style="font-family:monospace;">CA="$OPENSSL ca $SSLEAY_CONFIG<span style="color:#FF0000;"> -extensions v3_ca</span>"</span></blockquote>�@���� <b style="font-family:monospace;">-extensions v3_ca</b> ���Ȃ��ƁACA�ŏ��������T�[�o�[�ؖ������g���Ă��w�����̌������Ȃ��x�Ƃ��ŔF�؃G���[�ɂȂ��Ă��܂��܂��B<br />�@CA�Ȃ̂ɏ����ł��Ȃ��Ƃ����āA���̂��߂�CA�Ȃ񂾂��B<br /><br /><br />�Q�j�F�؋ǁiCA�j�����<br /><br />�@�F�؋ǁi�ȉ�CA�j�֌W�̃t�@�C���� /etc/pki/CA �ɂł��܂��B<br />�@��x�쐬���s�����ꍇ�ȂǁA�����Ɋ��ɉ�������ƍ쐬�ł��܂���B���̏ꍇ�͍폜��ړ������܂��B<br /><blockquote><pre style="margin:0px;"># ls -ld /etc/pki/CA<br />drwxr-xr-x 6 root root 4096 May  6 10:57 /etc/pki/CA<br /># rm -rf /etc/pki/CA<br /># ls -ld /etc/pki/CA<br />ls: /etc/pki/CA: No such file or directory<br />#</pre></blockquote>�@�������������� /etc/pki/tls/misc/CA �����s���܂��B<br />�@�i�ȉ��A�Ԃ��K�{���́A�̓I�v�V�����B���͂����߂�s�ȊO�͏ȗ��j<br /><blockquote style="font-family:monospace;"># ./CA -newca<br />CA certificate filename (or enter to create)<br /><span style="color:#0000FF;">�y���CA������Ȃ�w��A�Ȃ��Ȃ炻�̂܂܃G���^�[�z</span><br />Enter PEM pass phrase:<span style="color:#FF0000;">�yCA�閧���̃p�X���[�h�����߂ē����z</span><br />Verifying - Enter PEM pass phrase:<span style="color:#FF0000;">�yCA�閧���̃p�X���[�h�z</span><br />Country Name (2 letter code) [GB]:<span style="color:#FF0000;">JP �y�����A���{�Ȃ�JP�z</span><br />State or Province Name (full name) [Berkshire]:<span style="color:#FF0000;">Saitama �y�B���s���{���z</span><br />Locality Name (eg, city) [Newbury]:<span style="color:#0000FF;">Ju-man-goku �y�s�撬���z</span><br />Organization Name (eg, company) [My Company Ltd]:<span style="color:#FF0000;">AetherWorks �y�g�D����@�l���z</span><br />Organizational Unit Name (eg, section) []:<span style="color:#0000FF;">Virtual Certification Authority�y�������A��ł��悢�z</span><br />Common Name (eg, your name or your server's hostname) []:<span style="color:#FF0000;">AetherWorks Virtual Certification Authority �yFQDN�����闓�����ACA�Ȃ̂œK���Ȗ��O�����Ă����z</span><br />Email Address []:<span style="color:#0000FF;">�y�A���惁�[���A�h���X�A��ł��悢�z</span><br />A challenge password []:<span style="color:#0000FF;">�y�悭�킩��Ȃ��̂ŋ�̂܂܁z</span><br />An optional company name []:<span style="color:#0000FF;">�y�悭�킩��Ȃ��̂ŋ�̂܂܁z</span><br />Enter pass phrase for ../../CA/private/./cakey.pem:<span style="color:#FF0000;">�yCA�閧���̃p�X���[�h�z</span><br />Check that the request matches the signature<br />Signature ok<br /><span style="color:#009800;">�i�ȉ��A�����CA�̏�񂪕\�������j</span></blockquote>�@/etc/pki/CA ���Ƀt�@�C�����ł��Ă��܂��B<br /><blockquote><pre style="margin:0px;"># ll /etc/pki/CA/<br />total 44<br />-rw-r--r-- 1 root root 7680 May  6 11:59 cacert.pem<br />-rw-r--r-- 1 root root 1789 May  6 11:59 careq.pem<br />drwxr-xr-x 2 root root 4096 May  6 11:58 certs<br />drwxr-xr-x 2 root root 4096 May  6 11:58 crl<br />-rw-r--r-- 1 root root  141 May  6 11:59 index.txt<br />-rw-r--r-- 1 root root   21 May  6 11:59 index.txt.attr<br />-rw-r--r-- 1 root root    0 May  6 11:58 index.txt.old<br />drwxr-xr-x 2 root root 4096 May  6 11:59 newcerts<br />drwxr-xr-x 2 root root 4096 May  6 11:58 private<br />-rw-r--r-- 1 root root    3 May  6 11:59 serial<br />-rw-r--r-- 1 root root    3 May  6 11:58 serial.old<br />#</pre></blockquote>�@cacert.pem ���A�p�\�R���Ƀ��[�g�ؖ����Ƃ��ăC���X�g�[���ł���t�@�C���ɕϊ����܂��B<br /><blockquote><pre style="margin:0px;"># openssl x509 -in /etc/pki/CA/cacert.pem -outform DER -out cacert.der<br /># ls -l cacert.der<br />-rw-r--r-- 1 root root 1697 May  6 12:14 cacert.der<br />#</pre></blockquote>�@���� cacert.der ���_�E�����[�h���APC��<span style="color:#983200;">���[�g�ؖ����Ƃ��ăC���|�[�g</span>���Ă����܂��B<br />�@�T�[�o�[�̗��p�҂����ɂ�����Ȃ�A���̐l�����ɂ��ؖ�����n���ăC���|�[�g���Ă����Ă��炢�܂��傤�B<br /><br />�@����łb�`�̂ł�������ł��B<a href="/article/55711218.html" target="_blank">����͂b�`���g���ăT�[�o�[�ؖ��������܂�</a>�B<br /><br /><br />���Q�l�T�C�g<br /><br /><a href="http://www.bnote.net/linux/self_ca.shtml" target="_blank">OpenSSL�Ŏ��ȔF�؋ǂƏؖ����̍쐬 - bnote</a><br /><a href="http://tkoshima.net/wp/archives/451" target="_blank">CentOS �� Apache �ŃN���C�A���g�ؖ����F��(�C����) - tkoshima.net</a><br /><a href="http://www.tietew.jp/2007/01/30/how-to-setup-ca-using-openssl">OpenSSL�ŃI���I���F�؋ǂ𗧂��グ�� | www.tietew.jp</a>
+<h3 class="title"><a href="http://www.aetherworks.org/article/55685521.html" class="title">[SSL]認証局のつくりかた in CentOS5</a></h3>
+<div class="text">　最近ＶＰＳが流行ってきたので、自ＰＣとの間で安価に暗号化通信をしたいという需要も高まってきているのではと思います。というか自分がそう思ってます。<br />　というわけで<a href="http://takagi-hiromitsu.jp/diary/20051118.html#p01" target="_blank">第四種オレオレ認証局</a>を立ち上げようとしたら、少しはまったので手順メモ。<br /><br /><!-- --><a name="more"></a>　前提として、OpenSSLが入っていること。<br />　わたしの環境（さくらのVPS）では最初から入っていたようです。<br /><br /><blockquote><pre style="margin:0px;"># yum list | grep openssl<br />openssl.i686                               0.9.8e-22.el5_8.3           installed<br />openssl.x86_64                             0.9.8e-22.el5_8.3           installed<br />openssl-devel.i386                         0.9.8e-22.el5_8.3           installed<br />openssl-devel.x86_64                       0.9.8e-22.el5_8.3           installed<br />#</pre></blockquote><br /><br />１）下準備をする<br /><br />　OpenSSLの設定ファイルは /etc/pki/tls/openssl.cnf にあります。<br />　設定変更をする場合は、このタイミングで。<br /><blockquote><pre style="margin:0px;"># ls -l /etc/pki/tls/openssl.cnf<br />-rw-r--r-- 1 root root 9999 May  6 11:43 /etc/pki/tls/openssl.cnf<br />#</pre></blockquote>　作業場所は /etc/pki/tls/misc です。<br /><blockquote><pre style="margin:0px;"># cd /etc/pki/tls/misc/<br /># ls -l<br />total 40<br />-rwxr-xr-x 1 root root 3846 May  6 00:19 CA<span style="color:#FF0000;">　　←これを実行するのだが……</span><br />-rwxr-xr-x 1 root root  119 Apr 25 06:27 c_hash<br />-rwxr-xr-x 1 root root  152 Apr 25 06:27 c_info<br />-rwxr-xr-x 1 root root  112 Apr 25 06:27 c_issuer<br />-rwxr-xr-x 1 root root  110 Apr 25 06:27 c_name<br />#</pre></blockquote>　このCAスクリプトをそのまま使うと、せっかく作ったＣＡがＣＡとして機能しないらしいので、ちょっと改造します。<br />　バックアップを取って編集っと。<br /><blockquote><pre style="margin:0px;"># cp -p CA CA.prig<br /># ls -l CA*<br />-rwxr-xr-x 1 root root 3846 May  6 00:19 CA<br />-rwxr-xr-x 1 root root 3846 May  6 00:19 CA.prig<br /># vi CA</pre></blockquote>　42行目を変更<br /><blockquote>変更前：<span style="font-family:monospace;">CA="$OPENSSL ca $SSLEAY_CONFIG"</span><br />変更後：<span style="font-family:monospace;">CA="$OPENSSL ca $SSLEAY_CONFIG<span style="color:#FF0000;"> -extensions v3_ca</span>"</span></blockquote>　この <b style="font-family:monospace;">-extensions v3_ca</b> がないと、CAで署名したサーバー証明書を使っても『署名の権限がない』とかで認証エラーになってしまいます。<br />　CAなのに署名できないとかって、何のためのCAなんだか。<br /><br /><br />２）認証局（CA）を作る<br /><br />　認証局（以下CA）関係のファイルは /etc/pki/CA にできます。<br />　一度作成失敗した場合など、ここに既に何かあると作成できません。その場合は削除や移動をします。<br /><blockquote><pre style="margin:0px;"># ls -ld /etc/pki/CA<br />drwxr-xr-x 6 root root 4096 May  6 10:57 /etc/pki/CA<br /># rm -rf /etc/pki/CA<br /># ls -ld /etc/pki/CA<br />ls: /etc/pki/CA: No such file or directory<br />#</pre></blockquote>　さっき改造した /etc/pki/tls/misc/CA を実行します。<br />　（以下、赤が必須入力、青はオプション。入力を求める行以外は省略）<br /><blockquote style="font-family:monospace;"># ./CA -newca<br />CA certificate filename (or enter to create)<br /><span style="color:#0000FF;">【上位CAがあるなら指定、ないならそのままエンター】</span><br />Enter PEM pass phrase:<span style="color:#FF0000;">【CA秘密鍵のパスワードを決めて入れる】</span><br />Verifying - Enter PEM pass phrase:<span style="color:#FF0000;">【CA秘密鍵のパスワード】</span><br />Country Name (2 letter code) [GB]:<span style="color:#FF0000;">JP 【国名、日本ならJP】</span><br />State or Province Name (full name) [Berkshire]:<span style="color:#FF0000;">Saitama 【州か都道府県】</span><br />Locality Name (eg, city) [Newbury]:<span style="color:#0000FF;">Ju-man-goku 【市区町村】</span><br />Organization Name (eg, company) [My Company Ltd]:<span style="color:#FF0000;">AetherWorks 【組織名や法人名】</span><br />Organizational Unit Name (eg, section) []:<span style="color:#0000FF;">Virtual Certification Authority【部署名、空でもよい】</span><br />Common Name (eg, your name or your server's hostname) []:<span style="color:#FF0000;">AetherWorks Virtual Certification Authority 【FQDNを入れる欄だが、CAなので適当な名前を入れておく】</span><br />Email Address []:<span style="color:#0000FF;">【連絡先メールアドレス、空でもよい】</span><br />A challenge password []:<span style="color:#0000FF;">【よくわからないので空のまま】</span><br />An optional company name []:<span style="color:#0000FF;">【よくわからないので空のまま】</span><br />Enter pass phrase for ../../CA/private/./cakey.pem:<span style="color:#FF0000;">【CA秘密鍵のパスワード】</span><br />Check that the request matches the signature<br />Signature ok<br /><span style="color:#009800;">（以下、作ったCAの情報が表示される）</span></blockquote>　/etc/pki/CA 内にファイルができています。<br /><blockquote><pre style="margin:0px;"># ll /etc/pki/CA/<br />total 44<br />-rw-r--r-- 1 root root 7680 May  6 11:59 cacert.pem<br />-rw-r--r-- 1 root root 1789 May  6 11:59 careq.pem<br />drwxr-xr-x 2 root root 4096 May  6 11:58 certs<br />drwxr-xr-x 2 root root 4096 May  6 11:58 crl<br />-rw-r--r-- 1 root root  141 May  6 11:59 index.txt<br />-rw-r--r-- 1 root root   21 May  6 11:59 index.txt.attr<br />-rw-r--r-- 1 root root    0 May  6 11:58 index.txt.old<br />drwxr-xr-x 2 root root 4096 May  6 11:59 newcerts<br />drwxr-xr-x 2 root root 4096 May  6 11:58 private<br />-rw-r--r-- 1 root root    3 May  6 11:59 serial<br />-rw-r--r-- 1 root root    3 May  6 11:58 serial.old<br />#</pre></blockquote>　cacert.pem を、パソコンにルート証明書としてインストールできるファイルに変換します。<br /><blockquote><pre style="margin:0px;"># openssl x509 -in /etc/pki/CA/cacert.pem -outform DER -out cacert.der<br /># ls -l cacert.der<br />-rw-r--r-- 1 root root 1697 May  6 12:14 cacert.der<br />#</pre></blockquote>　この cacert.der をダウンロードし、PCに<span style="color:#983200;">ルート証明書としてインポート</span>しておきます。<br />　サーバーの利用者が他にもいるなら、その人たちにも証明書を渡してインポートしておいてもらいましょう。<br /><br />　これでＣＡのできあがりです。<a href="/article/55711218.html" target="_blank">次回はＣＡを使ってサーバー証明書を作ります</a>。<br /><br /><br />○参考サイト<br /><br /><a href="http://www.bnote.net/linux/self_ca.shtml" target="_blank">OpenSSLで自己認証局と証明書の作成 - bnote</a><br /><a href="http://tkoshima.net/wp/archives/451" target="_blank">CentOS の Apache でクライアント証明書認証(修正版) - tkoshima.net</a><br /><a href="http://www.tietew.jp/2007/01/30/how-to-setup-ca-using-openssl">OpenSSLでオレオレ認証局を立ち上げる | www.tietew.jp</a>
  
 
 
 </div>
-<div class="posted">posted by �����炬 at 12:42| <a href="http://www.aetherworks.org/article/55685521.html#comment">Comment(0)</a>
+<div class="posted">posted by きさらぎ at 12:42| <a href="http://www.aetherworks.org/article/55685521.html#comment">Comment(0)</a>
 
 | <a href="http://www.aetherworks.org/article/55685521.html#trackback">TrackBack(0)</a>
-| <a href="http://www.aetherworks.org/category/1439440-1.html">�T�[�o�[</a>
+| <a href="http://www.aetherworks.org/category/1439440-1.html">サーバー</a>
 </div>
 
 </div>
@@ -89,17 +89,17 @@ if ((0 <= navigator.userAgent.indexOf('iPhone')) || (0 <= navigator.userAgent.in
 
 <a name="comment"></a>
 
-<div class="comments-head">���̋L���ւ̃R�����g</div>
+<div class="comments-head">この記事へのコメント</div>
 
 </div>
 
 <div id="trackback">
-���̋L���ւ̃g���b�N�o�b�NURL<br />http://blog.sakura.ne.jp/tb/55685521<br />
-���u���O�I�[�i�[�����F�����g���b�N�o�b�N�̂ݕ\������܂��B<br />
-�����y�����N�̂Ȃ��g���b�N�o�b�N�͎�M����܂���B<br />
+この記事へのトラックバックURL<br />http://blog.sakura.ne.jp/tb/55685521<br />
+※ブログオーナーが承認したトラックバックのみ表示されます。<br />
+※言及リンクのないトラックバックは受信されません。<br />
 
 <hr />
-���̋L���ւ̃g���b�N�o�b�N<br />
+この記事へのトラックバック<br />
 </div>
 
 
@@ -118,21 +118,21 @@ seesaaBookmarks.exe();
 <div id="links">
 <div class="sidetitle">Information</div>
 <div class="side">
-�E <a href="/article/43467238.html">���̃T�C�g�ɂ���</a><br />
-�E <a href="/article/43477852.html">�����N</a>
+・ <a href="/article/43467238.html">このサイトについて</a><br />
+・ <a href="/article/43477852.html">リンク</a>
 </div>
 
-<div class="sidetitle">�ʃT�C�g</div>
+<div class="sidetitle">別サイト</div>
 <div class="side">
-�E <a href="http://nos.aetherworks.org/">Nostale�̃u���O</a>
+・ <a href="http://nos.aetherworks.org/">Nostaleのブログ</a>
 </div>
 
-<div class="sidetitle">�����{�b�N�X</div>
+<div class="sidetitle">検索ボックス</div>
 <div class="side">
 <form method="get" action="http://www.aetherworks.org/pages/user/search/" class="sASform" name="form6501678">
 <table class="seesaaArticleSearch">
 <tr>
-<td colspan="5"><input value="" name="keyword" type="text" size="20" /><br /><input value="����" type="submit" class="input-submit" /></td>
+<td colspan="5"><input value="" name="keyword" type="text" size="20" /><br /><input value="検索" type="submit" class="input-submit" /></td>
 </tr>
 </table>
 </form>
@@ -143,51 +143,51 @@ seesaaBookmarks.exe();
 </style>
 </div>
 
-<div class="sidetitle">�ŋ߂̋L��</div>
+<div class="sidetitle">最近の記事</div>
 <div class="side">
-(08/18)<a href="http://www.aetherworks.org/article/161774141.html">�Ă������I���</a><br />
-(01/26)<a href="http://www.aetherworks.org/article/112066375.html">CentOS6��Redmine�𓱓������Ƃ��̎菇����</a><br />
-(09/30)<a href="http://www.aetherworks.org/article/104041454.html">���@���邠��HDD</a><br />
-(10/29)<a href="http://www.aetherworks.org/article/79406228.html">�����Ȃ菬����</a><br />
-(10/25)<a href="http://www.aetherworks.org/article/79104652.html">�悧�����c�h����</a><br />
+(08/18)<a href="http://www.aetherworks.org/article/161774141.html">夏ももう終わる</a><br />
+(01/26)<a href="http://www.aetherworks.org/article/112066375.html">CentOS6にRedmineを導入したときの手順メモ</a><br />
+(09/30)<a href="http://www.aetherworks.org/article/104041454.html">発掘あるあるHDD</a><br />
+(10/29)<a href="http://www.aetherworks.org/article/79406228.html">いきなり小事故</a><br />
+(10/25)<a href="http://www.aetherworks.org/article/79104652.html">よぉこそ縦ドラム</a><br />
 </div>
 
-<div class="sidetitle">�ŋ߂̃R�����g</div>
+<div class="sidetitle">最近のコメント</div>
 <div class="side">
-<a href="http://www.aetherworks.org/article/45802728.html#comment">�����d�Ј��̓�������</a> by �����炬 (06/10)<br />
-<a href="http://www.aetherworks.org/article/45802728.html#comment">�����d�Ј��̓�������</a> by ���肩 (06/10)<br />
+<a href="http://www.aetherworks.org/article/45802728.html#comment">元東電社員の内部告発</a> by きさらぎ (06/10)<br />
+<a href="http://www.aetherworks.org/article/45802728.html#comment">元東電社員の内部告発</a> by きりか (06/10)<br />
 </div>
 
-<div class="sidetitle">�J�e�S��</div>
+<div class="sidetitle">カテゴリ</div>
 <div class="side">
 <a href="http://www.aetherworks.org/category/1099618-1.html">info</a>(2)<br />
-<a href="http://www.aetherworks.org/category/1125308-1.html">�T�C�G���X</a>(5)<br />
-<a href="http://www.aetherworks.org/category/1140312-1.html">�C���t���_</a>(4)<br />
-<a href="http://www.aetherworks.org/category/1094129-1.html">�G�L</a>(20)<br />
-<a href="http://www.aetherworks.org/category/1215895-1.html">���Q�I</a>(2)<br />
-<a href="http://www.aetherworks.org/category/1439440-1.html">�T�[�o�[</a>(3)<br />
-<a href="http://www.aetherworks.org/category/1738236-1.html">����</a>(2)<br />
-<a href="http://www.aetherworks.org/category/2926647-1.html">�Q�[��</a>(1)<br />
+<a href="http://www.aetherworks.org/category/1125308-1.html">サイエンス</a>(5)<br />
+<a href="http://www.aetherworks.org/category/1140312-1.html">インフラ論</a>(4)<br />
+<a href="http://www.aetherworks.org/category/1094129-1.html">雑記</a>(20)<br />
+<a href="http://www.aetherworks.org/category/1215895-1.html">放浪紀</a>(2)<br />
+<a href="http://www.aetherworks.org/category/1439440-1.html">サーバー</a>(3)<br />
+<a href="http://www.aetherworks.org/category/1738236-1.html">時事</a>(2)<br />
+<a href="http://www.aetherworks.org/category/2926647-1.html">ゲーム</a>(1)<br />
 </div>
 
-<div class="sidetitle">�ߋ����O</div>
+<div class="sidetitle">過去ログ</div>
 <div class="side">
-<a href="/archives/201508-1.html">2015�N08��</a>(1)<br />
-<a href="/archives/201501-1.html">2015�N01��</a>(1)<br />
-<a href="/archives/201409-1.html">2014�N09��</a>(1)<br />
-<a href="/archives/201310-1.html">2013�N10��</a>(4)<br />
-<a href="/archives/201210-1.html">2012�N10��</a>(2)<br />
-<a href="/archives/201205-1.html">2012�N05��</a>(2)<br />
-<a href="/archives/201204-1.html">2012�N04��</a>(2)<br />
-<a href="/archives/201203-1.html">2012�N03��</a>(2)<br />
-<a href="/archives/201110-1.html">2011�N10��</a>(1)<br />
-<a href="/archives/201109-1.html">2011�N09��</a>(1)<br />
-<a href="/archives/201107-1.html">2011�N07��</a>(1)<br />
-<a href="/archives/201106-1.html">2011�N06��</a>(2)<br />
-<a href="/archives/201105-1.html">2011�N05��</a>(1)<br />
-<a href="/archives/201104-1.html">2011�N04��</a>(5)<br />
-<a href="/archives/201103-1.html">2011�N03��</a>(9)<br />
-<a href="/archives/201102-1.html">2011�N02��</a>(2)<br />
+<a href="/archives/201508-1.html">2015年08月</a>(1)<br />
+<a href="/archives/201501-1.html">2015年01月</a>(1)<br />
+<a href="/archives/201409-1.html">2014年09月</a>(1)<br />
+<a href="/archives/201310-1.html">2013年10月</a>(4)<br />
+<a href="/archives/201210-1.html">2012年10月</a>(2)<br />
+<a href="/archives/201205-1.html">2012年05月</a>(2)<br />
+<a href="/archives/201204-1.html">2012年04月</a>(2)<br />
+<a href="/archives/201203-1.html">2012年03月</a>(2)<br />
+<a href="/archives/201110-1.html">2011年10月</a>(1)<br />
+<a href="/archives/201109-1.html">2011年09月</a>(1)<br />
+<a href="/archives/201107-1.html">2011年07月</a>(1)<br />
+<a href="/archives/201106-1.html">2011年06月</a>(2)<br />
+<a href="/archives/201105-1.html">2011年05月</a>(1)<br />
+<a href="/archives/201104-1.html">2011年04月</a>(5)<br />
+<a href="/archives/201103-1.html">2011年03月</a>(9)<br />
+<a href="/archives/201102-1.html">2011年02月</a>(2)<br />
 </div>
 
 <div class="syndicate">
@@ -201,7 +201,7 @@ seesaaBookmarks.exe();
 
 <div id="footer">
 <div class="powered">
-<img src="http://blog.sakura.ne.jp/img/powerdby.gif" width="120" height="35" border="0" alt="Powered by ������̃u���O" />
+<img src="http://blog.sakura.ne.jp/img/powerdby.gif" width="120" height="35" border="0" alt="Powered by さくらのブログ" />
 </div>
 
 
