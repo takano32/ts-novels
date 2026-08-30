@@ -12,8 +12,16 @@ ROOT = '/home/takano32/GitHub/ts-novels'
 
 TAG_RE = re.compile(r'<[^>]+>')
 SCRIPT_RE = re.compile(r'<script.*?</script>|<style.*?</style>|<!--.*?-->', re.S | re.I)
+BOGUS_RE = re.compile(r'<![^>]*>', re.S)          # browser-equivalent bogus comment (<! ... up to first >)
+FORM_RE = re.compile(r'<form.*?</form>', re.S | re.I)  # kansou footer forms = chrome
+def preclean(body):
+    """browser-equivalent pre-parse, applied identically to both sides"""
+    body = SCRIPT_RE.sub('', body)
+    body = BOGUS_RE.sub('', body)
+    body = FORM_RE.sub('', body)
+    return body
 BODY_RE = re.compile(r'<body[^>]*>(.*?)</body>', re.S | re.I)
-KNOWN_INLINE = re.compile(r'^(br|b|/b|strong|/strong|i|/i|em|/em|font[^>]*|/font|span[^>]*|/span|center|/center|div[^>]*|/div|p[^>]*|/p|hr[^>]*|a[^>]*|/a|img[^>]*|ruby|/ruby|rb|/rb|rt|/rt|rp|/rp|small|/small|big|/big|u|/u|s|/s|blink|/blink|marquee[^>]*|/marquee|body[^>]*|/body|html|/html|head|/head|/?title|meta[^>]*|link[^>]*|!doctype[^>]*)$', re.I)
+KNOWN_INLINE = re.compile(r'^(br|b|strong|i|em|font[^>]*|span[^>]*|center|div[^>]*|p[^>]*|hr[^>]*|a[^>]*|img[^>]*|ruby|rb|rt|rp|small|big|u|s|strike|blink|marquee[^>]*|body[^>]*|html|head|title|meta[^>]*|link[^>]*|!doctype[^>]*|blockquote[^>]*|h[1-6][^>]*|basefont[^>]*|tt|pre|dd|dl|dt|ul|ol|li|nobr|wbr|sup|sub|address|caption)$', re.I)
 PUNCT_END = tuple('。！？」』…―‐-!?.）)]々〉》』】♪☆★ 　')
 
 def normalize_chars(s):
@@ -27,17 +35,19 @@ def convert(path):
     raw = open(path, encoding='utf-8', errors='strict').read()
     m = BODY_RE.search(raw)
     body = m.group(1) if m else raw
-    body = SCRIPT_RE.sub('', body)
+    body = preclean(body)
     # unknown-construct scan: tables/frames/forms => flag as manual
     unknown = set()
     for t in re.findall(r'<\s*([a-zA-Z!/][^>\s]*)', body):
-        if not KNOWN_INLINE.match(t.strip('/').lower() if t.startswith('/') else t.lower()):
+        if not KNOWN_INLINE.match(t.lstrip('/').lower()):
             unknown.add(t.lower().strip('/'))
     # line-ize on <br> and <p>
     txt = re.sub(r'(?i)</p\s*>', '\n\n', body)
     txt = re.sub(r'(?i)<p[^>]*>', '\n\n', txt)
     txt = re.sub(r'(?i)<br[^>]*>', '\n', txt)
     txt = re.sub(r'(?i)<hr[^>]*>', '\n\n----\n\n', txt)
+    txt = re.sub(r'(?is)<blockquote[^>]*>(.*?)</blockquote>', lambda m2: '\n\n' + '\n'.join('> ' + l for l in TAG_RE.sub('', m2.group(1)).strip().split('\n')) + '\n\n', txt)
+    txt = re.sub(r'(?is)<h([1-6])[^>]*>(.*?)</h\1>', lambda m2: '\n\n' + '#' * int(m2.group(1)) + ' ' + TAG_RE.sub('', m2.group(2)).strip() + '\n\n', txt)
     # keep ruby/img as inline HTML, strip other tags
     keep = []
     def stash(m2):
@@ -99,8 +109,10 @@ def main(n, seed=42):
             stats['error'] += 1; fails.append((fp, f'exc:{e}')); continue
         if md is None:
             stats['error'] += 1; continue
-        orig_chars = normalize_chars(SCRIPT_RE.sub('', BODY_RE.search(open(fp, encoding='utf-8').read()).group(1) if BODY_RE.search(open(fp, encoding='utf-8').read()) else open(fp, encoding='utf-8').read()))
-        conv_chars = normalize_chars(md.replace('----', ''))
+        raw0 = open(fp, encoding='utf-8').read()
+        m0 = BODY_RE.search(raw0)
+        orig_chars = normalize_chars(preclean(m0.group(1) if m0 else raw0))
+        conv_chars = normalize_chars(re.sub(r'(?m)^(----|#+ |> )', '', md))
         if orig_chars != conv_chars:
             stats['lossless_fail'] += 1
             fails.append((os.path.relpath(fp, ROOT), f'diff {len(orig_chars)} vs {len(conv_chars)}'))
