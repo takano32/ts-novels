@@ -82,7 +82,7 @@
 
 - [x] 0.1 `takedown/denylist.yml` のスキーマを決めて空ファイル+README を作る
       (エントリ: 対象 = work slug / episode の source_path / アネックスパス、理由、日付、状態)
-- [ ] 0.2 `docs/removal-runbook.md` v0: 削除依頼受領 → 72h 以内に
+- [x] 0.2 `docs/removal-runbook.md` v0: 削除依頼受領 → 72h 以内に
       ①WP draft 化 ②.htaccess 410 追記 ③アネックス(Pages)側除外 ④**git 履歴除去
       (git filter-repo。raw-original タグにも残る事実と対応方針を明記)** ⑤`/removed/` 更新、
       の **四層+掲示** を文書化
