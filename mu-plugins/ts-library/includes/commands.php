@@ -782,7 +782,7 @@ class TS_Command {
         $urls = [];
         $n = 0;
         foreach ($ids as $pid => $why) {
-            $urls[] = wp_make_link_relative(get_permalink($pid));
+            $urls[] = wp_make_link_relative($this->public_permalink($pid));
             if (get_post_status($pid) === 'draft') {
                 // 既に取り下げ済みでも記録は合わせておく (過去の取り下げが手動編集扱いで
                 // 残っているのを自己修復する)
@@ -806,6 +806,19 @@ class TS_Command {
         if (!$dry) update_option('ts_takedown_urls', array_values(array_unique($urls)), false);
         WP_CLI::success(sprintf('apply-takedown: %d 件を draft 化 (対象 %d 件)%s',
             $n, count($ids), $dry ? ' (dry-run)' : ''));
+    }
+
+    /** 公開時の URL を得る。draft のまま get_permalink すると `?post_type=…&p=ID` の
+     *  仮 URL になり、410 に入れても実 URL を塞げない (実測) */
+    private function public_permalink($post_id) {
+        $post = get_post($post_id);
+        if (!$post) return '';
+        if ($post->post_status === 'publish') return get_permalink($post);
+        $saved = $post->post_status;
+        $post->post_status = 'publish';
+        $url = get_permalink($post);
+        $post->post_status = $saved;
+        return $url;
     }
 
     /** denylist.yml の entries を読む (このスキーマ専用の最小パーサ。ブロック形式・フロー形式の両対応) */
