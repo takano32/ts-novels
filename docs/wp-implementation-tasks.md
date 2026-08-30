@@ -728,13 +728,58 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 
 ## Phase 3 — 本文投入(目安 2 週)
 
-- [ ] 3.1 本文投入: **MD→Gutenberg ブロック HTML への変換は開発機の python で事前実施**し、
+- [x] 3.1 本文投入: **MD→Gutenberg ブロック HTML への変換は開発機の python で事前実施**し、
       投入用 payload を生成して rsync → `wp ts import --bodies` は payload を post_content に
       流すだけにする(サーバ PHP に Markdown パーサを導入しない)。ブロック対応:
       paragraph/separator/quote/heading/image。ruby と本文内 table はインライン HTML。
       raw フォールバック分は `wp:html` 1 ブロック+`_ts_body_status=raw-fallback`
+      - **3.1 実測 (2026-08-30、コミット `d79ac2a4`)**: payload は開発機で生成した
+        **3,644 本 / 178MB**(`payloads/<episode_id>.html`)。deploy.sh の [2/6] が
+        `repo/payloads/` へ運ぶ(**初回転送 178,470,680 バイトを 36 秒**、6.5MB/s)。
+      - **投入**: `wp ts import --bodies=$HOME/novels.xwp.jp/repo/payloads`。
+        ETA 見積りに `--limit=100` を先に流して **updated=100 skipped=1451 / 33.9 秒**
+        → 全量を **created=0 / updated=3744 / skipped=1551 / 2 分 28 秒**で完了
+        (2 回の合計で episodes 3,844 全部を更新。`--limit=100` の分が 2 回目では
+        skipped に回るのでこの内訳になる)。
+        **works 1,451 が skipped なのは正常** — work 投稿の hash に本文は入らないので
+        差分が出ない。よって「全量更新 = 5,295」ではなく **episodes 3,844 が更新の全量**
+      - **冪等**: `wp ts import --bodies=… --dry-run` = **created=0 / updated=0 /
+        skipped=5295**。`wp ts verify` は **OK 維持**(投稿 4,363・orphan 0・
+        語彙外 term 0・割当 6 本すべて期待値と一致)。
+        `ts_catalog_commit` = `d79ac2a4516d2926e53390fd629be53a84e85dd5`
+      - **`_ts_body_status` の分布 (合計 3,844 = episodes 全数)**:
+        **converted 3,642 / placeholder 200 / raw-fallback 2**。
+        placeholder 200 は payload を持たない話(3,844 − 3,644)で、
+        corpus 内訳は **honkan 192 / legacy 7 / extern-repost 1**(画像作品・外部 URL
+        スタブ等、1.6 の変換対象外だったもの)。
+        本文が空の投稿 519 は**連載の親 work** で正常(単発 932 は親自身が本文を持つ)
+      - **受入 curl (すべて `?_cb=$RANDOM` 付き)**:
+        `/novel/johdan-tsukinuke/19204751-tsukinuke/` **200**・
+        `<p class="wp-block-paragraph">` が **451 段落**・placeholder 文言 **0 箇所** /
+        **ruby は HTML として出力**(`<ruby>悍<rp>（</rp><rt>おぞ</rt><rp>）</rp></ruby>` の
+        形。`<rp>` フォールバック付き、2 箇所) /
+        引用は `/novel/mondo-nidaimehamikosamatsu/`(hime_miko)で
+        **`<blockquote class="wp-block-quote …">` が出力**(中に paragraph ブロック) /
+        単発作品 `/novel/kagerou6-pootoreeto-hiroiniii/` **200**・39 段落・placeholder 0 /
+        raw-fallback 2 件も本文あり(`/novel/aibatou-koromogaemae/koromogae1/` 14,693 バイト・
+        `/novel/million-tenshinogyararii/` 6,148 バイト)
+      - **⚠ 3.1 の残件 (Fable 所管。実行セッションは未修正)**:
+        **pixiv 再掲 2 作の本文が placeholder のまま**。
+        `novel__200802__15232641__rainGirl.html`(雨女 → `/novel/omochibako-ameonna/`)と
+        `repost__pixiv__272830`(きらいなもの→ＧＷ → `/novel/omochibako-kirainamono-gw/`)は
+        どちらも `_ts_body_status=placeholder`・本文 106 バイト。
+        原文は `reposts/*.txt` に在るが **`bodies/*.md` も `payloads/*.html` も生成されていない**。
+        タスク 1.9 が「本文はプレーンテキストなので 1.6 の対象外。**Phase 3 で空行区切りの
+        段落分割 → paragraph ブロック化する**」と書いていた分が未実装
 - [ ] 3.2 img src を `assets/annex-img/` 参照に書換。**eyecatch 画像(実体 4 ファイル・参照 15 話)**は
       dedup して該当話の featured image に設定(survey の「109 件」は参照回数であり実体数ではない)
+      - **前半 (img src の書換) は完了 (2026-08-30)**: 本文に `/assets/annex-img/` を含む投稿は
+        **688 件**。実配信も確認 — `/novel/wataru1024-futarinokaworu-contents-by-wataru1024/` の
+        `/assets/annex-img/novel/200012/10070655/title_i01.gif` が **200 image/gif 10,000B**、
+        `kaoru01s.gif` が **200 image/gif 5,895B**。
+        なお **`src` 属性は原本のまま大文字 `SRC=`** で出力される(HTML として妥当なので実害なし。
+        grep で拾うときは大小文字を無視すること)
+      - **後半 (eyecatch = featured image の設定) は未実施**。別途指示待ち
 - [ ] 3.3 無作為 100 話の原本併読 QA(別館の原本と並べて本文欠落・順序破壊がないか)。
       結果を `catalog/QA.md` に追記。**問題率 >2% なら 1.6 に戻る**
 - [ ] 3.4 verify 拡張: 全話に書誌カード用メタ(初出日・orig_url・annex_url・provenance)が
