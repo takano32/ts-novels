@@ -508,6 +508,43 @@ class TS_Command {
         $n['updated']++;
     }
 
+    /**
+     * 固定ページ (/about/ 等) を content/pages/*.html から同期する (タスク 4.6)。
+     * 1 行目の <!-- title: … --> が題。冪等 (hash skip)・手動編集は保護。
+     *
+     * ## OPTIONS
+     * [--repo=<path>] : リポジトリのルート
+     * [--overwrite-manual] : 管理画面での編集を上書きする
+     */
+    public function sync_pages($args, $assoc) {
+        $root = $this->repo_root($assoc);
+        $ow = isset($assoc['overwrite-manual']);
+        $files = glob("$root/content/pages/*.html") ?: [];
+        if (!$files) WP_CLI::error("content/pages/*.html がありません");
+        $n = ['created' => 0, 'updated' => 0, 'skipped' => 0, 'manual_skipped' => 0];
+        foreach ($files as $f) {
+            $slug = basename($f, '.html');
+            $html = file_get_contents($f);
+            $title = preg_match('/<!--\s*title:\s*(.+?)\s*-->/u', $html, $m) ? $m[1] : $slug;
+            $body = trim(preg_replace('/^<!--\s*title:.*?-->\s*/su', '', $html));
+            $hash = md5($title . $body);
+            $page = get_page_by_path($slug, OBJECT, 'page');
+            if ($page && get_post_meta($page->ID, '_ts_import_hash', true) === $hash) { $n['skipped']++; continue; }
+            if ($page && !$ow && $this->manually_edited($page->ID)) {
+                $n['manual_skipped']++;
+                WP_CLI::warning("手動編集を保護して skip: /$slug/ (--overwrite-manual で上書き)");
+                continue;
+            }
+            $postarr = ['post_type' => 'page', 'post_title' => $title, 'post_name' => $slug,
+                        'post_content' => $body, 'comment_status' => 'closed', 'ping_status' => 'closed'];
+            if ($page) { $postarr['ID'] = $page->ID; $id = wp_update_post($postarr); $n['updated']++; }
+            else { $postarr['post_status'] = 'publish'; $id = wp_insert_post($postarr); $n['created']++; }
+            if ($id && !is_wp_error($id)) $this->stamp_import($id, $hash);
+        }
+        WP_CLI::success(sprintf('sync-pages: created=%d updated=%d skipped=%d manual_skipped=%d',
+            $n['created'], $n['updated'], $n['skipped'], $n['manual_skipped']));
+    }
+
     // ------------------------------------------------------------------ verify / takedown / reset / pathmap
 
     /** 件数照合・orphan・語彙整合・taxonomy 割当数・手動編集警告を検査する。
@@ -734,6 +771,7 @@ class TS_Command {
 }
 
 WP_CLI::add_command('ts sync-terms', [new TS_Command(), 'sync_terms']);
+WP_CLI::add_command('ts sync-pages', [new TS_Command(), 'sync_pages']);
 WP_CLI::add_command('ts import', [new TS_Command(), 'import']);
 WP_CLI::add_command('ts verify', [new TS_Command(), 'verify']);
 WP_CLI::add_command('ts apply-takedown', [new TS_Command(), 'apply_takedown']);
