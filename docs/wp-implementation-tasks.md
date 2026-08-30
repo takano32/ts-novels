@@ -105,7 +105,8 @@
 `scripts/wp/body_convert.py` / `mu-plugins/ts-library/includes/commands.php` /
 catalog 系パーサの変更(catalog_build・uncatalogued_build・authors_build・work_builder・
 episode_overrides) / 今後の `boards_build.py`(6.1)・`annex_inject.py`(5.2)・
-MD→Gutenberg ペイロード生成(3.1)。
+MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触るコードは全部 Fable)**。
+実行セッションは Fable 製スクリプトを**ランブックどおり実行する**のは可。
 逆に**独立検算(verify_*_html5 系)は本体と別の書き手が担当**する(相互検証のため)。
 
 **人間(サイト所有者)しかできないタスクは 👤 印**。実行セッションは 👤 タスクに当たったら
