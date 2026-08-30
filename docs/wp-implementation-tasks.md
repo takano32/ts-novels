@@ -100,7 +100,11 @@
 - series.html の**有効行(リンクを持つ TR)は実測 112**。設計 v1.0 と旧版台帳の「123 行」は誤り
   (数え方: `catalog/reports/work_builder.json` の `series_html_rows`)
 
-**実装の所管**: 次のファイル・領域は**根幹コードとして親セッション(Fable)が実装・修正する**。
+**実装の所管(最終)**: **コードは親セッション(Fable)が書く**。実行セッションはコードを
+書かず、Fable 製スクリプトとランブックの**実行・検収報告**に専念する(例外: verify_*_html5 系の
+独立検算のみ、別の書き手であることが価値なので実行セッションが書いてよい)。
+Opus の作業は目視でなく検査コード(make check / wp ts verify / 不変量)で検証する。
+以下は特に変更禁止の根幹ファイル: 
 実行セッションは変更せず、不具合を見つけたら報告すること:
 `scripts/wp/body_convert.py` / `mu-plugins/ts-library/includes/commands.php` /
 catalog 系パーサの変更(catalog_build・uncatalogued_build・authors_build・work_builder・
