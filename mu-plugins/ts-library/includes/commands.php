@@ -786,7 +786,14 @@ class TS_Command {
             if (get_post_status($pid) === 'draft') continue;
             WP_CLI::line(($dry ? '(dry-run) ' : '') . "draft 化: $why → post $pid "
                 . get_the_title($pid));
-            if (!$dry) wp_update_post(['ID' => $pid, 'post_status' => 'draft']);
+            if (!$dry) {
+                wp_update_post(['ID' => $pid, 'post_status' => 'draft']);
+                // 取り下げは import の一部であって「管理画面での手動編集」ではない。
+                // 記録を更新しないと post_modified が動いた分を手動編集と誤検知して
+                // 以後の import がその投稿を触らなくなる (verify も NG になる)
+                clean_post_cache($pid);
+                update_post_meta($pid, '_ts_last_import_gmt', get_post_field('post_modified_gmt', $pid));
+            }
             $n++;
         }
         if (!$dry) update_option('ts_takedown_urls', array_values(array_unique($urls)), false);
