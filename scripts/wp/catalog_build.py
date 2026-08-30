@@ -307,8 +307,11 @@ def parse_illust_cell(cell):
             inner = inner[:a['span'][0]] + '\x00' + inner[a['span'][1]:]
             inner = re.sub(r'[（(]\s*\x00\s*[)）]', '', inner).replace('\x00', '')
     raw = text_of(inner, keep_breaks=False)
-    names = [n.strip() for n in re.split(r'[、,＆&]', raw or '') if n.strip()]
-    return names, url, raw
+    # 複数画師は 、 や ＆ 区切り。区切られた側の名前には敬称が残るので落とす
+    # (原表記は illustrator_raw に保持)
+    names = [re.sub(r'\s*(?:さん|様)\s*$', '', n).strip()
+             for n in re.split(r'[、,＆&]', raw or '') if n.strip()]
+    return [n for n in names if n], url, raw
 
 
 def parse_osusume(cell):
