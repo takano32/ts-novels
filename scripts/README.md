@@ -42,6 +42,19 @@
 - **live_probe.py `<list.tsv>` `<stagedir>`** — 生存中サーバへの直接プローブ
   （www14.big.or.jp の広告 soft-404 を size+マーカーで除外）。
 
+## 第4次サルベージ (復元範囲拡張) のツール
+
+- **reverse_missing_urls.py `<missing.json>` `<out.tsv>`** — 監査の欠落ターゲットを元 URL に逆写像
+  (既知の @ マングル族 log/res/noteky/karte 等を復元。不明形式はスキップ)。各プローブの共通入力。
+- **at_sweep.py `<out.json>` `<prefix>…`** — archive.today のドメインワイルドカード一覧
+  (`archive.md/<prefix>*`) を巡回し、捕獲されている元 URL を列挙。CAPTCHA 検出で中断。
+- **cc_zipnum_sweep.py `<urls.tsv>` `<out.jsonl>` [collフィルタ]** — CommonCrawl 全コレクションを
+  **API を使わず** cluster.idx の HTTP レンジ二分探索 + 該当 cdx ブロックのレンジ取得で照会
+  (`COLLINFO=collinfo.json` でコレクション一覧をローカル参照)。同一ドメインの URL は同じブロックに
+  固まるため全 127 コレクションでも現実的。
+- **cdx_single_host.py `<host>` `<topdir>` `<out.json>`** — 新発見ホストの CDX ダンプ+
+  wb_fetch 用マニフェスト生成の一発ツール (aetherworks.org 回収で使用)。
+
 ## workflows/
 
 - **wp-library-understand.js** — WordPress ライブラリ化のための 8 視点並列調査

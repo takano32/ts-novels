@@ -124,8 +124,12 @@ def main(tsv, outfile, coll_filter=None):
         u = urlsplit(url)
         tq = sorted(parse_qsl(u.query, keep_blank_values=True))
         targets_by_group.setdefault(g, {}).setdefault(u.path.lower(), []).append((url, repo, tq))
-    with http('https://index.commoncrawl.org/collinfo.json') as r:
-        colls = [c['id'] for c in json.load(r)]
+    ci_path = os.environ.get('COLLINFO', '')
+    if ci_path and os.path.isfile(ci_path):
+        colls = [c['id'] for c in json.load(open(ci_path))]
+    else:
+        with http('https://index.commoncrawl.org/collinfo.json') as r:
+            colls = [c['id'] for c in json.load(r)]
     if coll_filter:
         colls = [c for c in colls if re.search(coll_filter, c)]
     print(f'groups={list(targets_by_group)} collections={len(colls)}', flush=True)
