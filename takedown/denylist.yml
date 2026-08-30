@@ -70,4 +70,165 @@
 #   notes: 依頼原本は私有ストレージ side/2026-09-01/ に保管
 
 version: 1
-entries: []
+entries:
+  # ------------------------------------------------------------------------
+  # 旧サイト運営時に作者本人から公開停止の申し出があり、当時の運営が停止していた作品。
+  # 目録 (lib21/27/30/61/62) の推薦文欄に「作者である◯◯さんの要望により、公開停止と
+  # なりました（日付）」と明記されている。復元にあたって同じ意思を引き継ぐ。
+  #
+  # 発見の経緯: 2026-08-30 の公開前レビュー。パーサがこの告知を構造化データとして
+  # 拾っていなかったため、取り下げ済み作品が本文つきで再公開されていた (最長 152KB の全文)。
+  # requested_at は目録に記載された当時の停止日。received_via: other = 旧目録の記載。
+  # ------------------------------------------------------------------------
+  - id: TD-2026-0001
+    target:
+      kind: work
+      value: two_bit-shoujoshinkoukeimonogatari-miss-ing
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記)
+    reason_class: author_request
+    requested_at: 2013-04-26
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「少女進行形物語 Miss-ing」(ＴＷＯ−ＢＩＴさん) — 作者の申し出により掲載していません
+
+  - id: TD-2026-0002
+    target:
+      kind: work
+      value: two_bit-hibikorenichijounari-renkaban
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記)
+    reason_class: author_request
+    requested_at: 2013-04-26
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「日々是日常成り／廉価版」(ＴＷＯ−ＢＩＴさん) — 作者の申し出により掲載していません
+
+  - id: TD-2026-0003
+    target:
+      kind: work
+      value: suzuki_murasaki-inside
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記)
+    reason_class: author_request
+    requested_at: 2006-12-17
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「Inside」(鈴忌 紫さん) — 作者の申し出により掲載していません
+
+  - id: TD-2026-0004
+    target:
+      kind: work
+      value: shiroiruka-harunanoritaanmatchi
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記)
+    reason_class: author_request
+    requested_at: 2005-03-06
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「春奈のリターンマッチ」(山陰しろいるかさん) — 作者の申し出により掲載していません
+
+  - id: TD-2026-0005
+    target:
+      kind: work
+      value: shiroiruka-nanaironosuishou
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記)
+    reason_class: author_request
+    requested_at: 2005-03-06
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「七色の水晶」(山陰しろいるかさん) — 作者の申し出により掲載していません
+
+  - id: TD-2026-0006
+    target:
+      kind: work
+      value: shiroiruka-yumitochika
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記)
+    reason_class: author_request
+    requested_at: 2005-03-06
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「由美と智香」(山陰しろいるかさん) — 作者の申し出により掲載していません
+
+  - id: TD-2026-0007
+    target:
+      kind: work
+      value: shiroiruka-yukarihijiridensenshitanjou
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記)
+    reason_class: author_request
+    requested_at: 2005-03-06
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「由香里聖伝戦士誕生」(山陰しろいるかさん) — 作者の申し出により掲載していません
+
+  - id: TD-2026-0008
+    target:
+      kind: work
+      value: shiroiruka-yukarihijiriden-senshitanjou
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記) — 同作の別パス
+    reason_class: author_request
+    requested_at: 2005-03-06
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「由香里聖伝 戦士誕生」(山陰しろいるかさん) — 作者の申し出により掲載していません
+
+  - id: TD-2026-0009
+    target:
+      kind: work
+      value: shiroiruka-yukarihijiriden-joshou
+    reason: 旧運営時に作者本人の要望で公開停止 (目録に明記) — 目録に「廃止」と明記
+    reason_class: author_request
+    requested_at: 2005-03-06
+    received_via: other
+    status: applied
+    applied:
+      wp_draft: 2026-08-30
+      htaccess_410: null
+      annex_excluded: null
+      git_history_purged: null
+      removed_page_listed: 2026-08-30
+    public_note: 「由香里聖伝 序章」(山陰しろいるかさん) — 作者の申し出により掲載していません
