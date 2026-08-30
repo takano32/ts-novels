@@ -436,6 +436,13 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 
 ## Phase 2 — WP 骨格+メタ全量投入(目安 2 週)
 
+**状況 (2026-08-30 時点): 2.6 を除いて完了。** 2.1〜2.5・2.7 は実測で受け入れ条件を満たし、
+`wp ts verify` は **OK**(投稿 4,363・orphan 0・語彙外 term 0・taxonomy 割当 6 本すべて期待値と一致)、
+`wp ts import` は**実行・dry-run とも created=0 / updated=0 で冪等**。
+本番の `ts_catalog_commit` = `322522a8f0248aea3976cbe23e1b9753e3b4292b`。
+**残るのは 2.6 (.htaccess、親所管) のみ**。既知の軽微バグが 1 件だけある
+(投稿 ID 8038 の slug。2.2 の末尾を参照)。
+
 - [x] 2.1 `mu-plugins/ts-library/` v0.1(リポジトリ管理→rsync 配備): CPT `ts_work`(hierarchical,
       rewrite=works)・`ts_doc`・**`ts_dojo`(登録のみ。使用は Phase 6)**・`ts_board_post`(同)・
       タクソノミー 6 本・`register_post_meta`(`_ts_*`)・meta robots noindex 出力・
@@ -474,8 +481,23 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
           期待値を catalog から**毎回再計算**して importer と独立に数え直す作りになっている
         - **新たに判明して修正された 6 件目**: 旧 importer は **ts_world を一度も付けていなかった**
           (`割当 ts_world: WP=0 期待=420`)。修正後は **420/420**
-      - **2.2 に残る未達 1 件 (⚠ 要修正。実行セッションは直さず報告のみ)**:
-        **分類語彙の異表記 166 種が term に解決できず、割当 448 件が捨てられている。**
+      - **2.2 最終検収 (2026-08-30、コミット `322522a8` + `2fe08197`)**:
+        下の「残っていた未達 1 件」も**解消し、`wp ts verify` が初めて OK で終わった**。
+        `terms.json` の各 term に**照合用の異表記 `lookup_variants`(genre 51 / type 26 /
+        keyword 88)**が入り、半角 `?` 形が正規の term に吸われるようになった。実測:
+        - `wp ts sync-terms` = **created=0 updated=1 skipped=1735 / 1.1 秒**
+          (updated 1 = 擬似作者「(シリーズ目録)」の全角括弧化のみ)
+        - `wp ts import`(全量)= **created=0 updated=5295 skipped=0 / 2 分 18 秒**
+          (HASH_VER v3 で全件が差分扱い。reset は不要だった)
+        - **`wp ts verify` = OK**。割当は **ts_author 4363 / ts_genre 5131 / ts_type 4381 /
+          ts_keyword 5424 / ts_world 420 / ts_corpus 3844** が**全て期待値と一致**、
+          語彙外 term 0・未作成 0・orphan 0、**「term 未解決の値」の警告は消滅**
+        - `wp ts import --dry-run` = **created=0 / updated=0 / skipped=5295**(冪等)
+        - 合流の確認: `ts_genre` の `gakuen` が **745 件**(`学園?` 表記 20 話が合流)、
+          `ts_type` の `henshin` が **1,892 件**(旧 `変身(?)` の場当たり term 1,886 が本来の
+          term に統合)。`ts_catalog_commit` = **`322522a8f0248aea3976cbe23e1b9753e3b4292b`**
+      - **2.2 に残っていた未達 1 件 (→ `322522a8` で解消済み。経緯として残す)**:
+        **分類語彙の異表記 166 種が term に解決できず、割当 448 件が捨てられていた。**
         import が `Warning: term に解決できず割当を落とした値: 164 種`、verify も
         `term 未解決の値 (164 種)` を出して **verify NG** で終わる。内訳(catalog 側で再集計):
         **ts_genre 52 種 / 延べ 169・ts_type 26 種 / 延べ 105・ts_keyword 88 種 / 延べ 174**。
@@ -494,6 +516,19 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         一方 verify の期待値計算は `?? null` で数えない。**import と verify で
         未マップ値の扱いが非対称**なのが直接の原因(上の raw_variants を直せば
         両方とも正規に解決するので、この不一致も自然に消える)
+        → **`322522a8` の `lookup_variants` 導入で予告どおり両方とも解消**
+        (`割当 ts_genre` は 4974/4963 の不一致 → **5131/5131 の一致**へ)
+      - **⚠ 2.2 に残る唯一の既知バグ (Fable 所管。実行セッションは未修正)**:
+        **`child_slugs()` はアンカー付きの話で全角→半角の変換が効かない。**
+        投稿 ID 8038(`novel__story3.html@ＢＢＳ`)の slug が
+        `story3-%ef%bd%82%ef%bd%82%ef%bd%93` のままで、期待の `story3-bbs` にならない
+        (**パーセントエンコードの post_name は 4,363 投稿中この 1 件のみ**)。
+        原因は**処理順**で、`mb_convert_kana($s,'as')` を掛けた**後**に
+        `$s .= '-' . strtolower($ep['source_anchor'])` でアンカーを連結しているため、
+        **アンカー側の全角文字が変換を通らない**(`strtolower` はバイト単位なので
+        全角大文字も落ちない)。サーバの PHP に mbstring はあり、
+        `mb_convert_kana("story3-ｂｂｓ","as")` は `story3-bbs` を返すことを実測で確認済み。
+        直し方はアンカー連結の**後**に変換を掛けること
       - **2.2 初回実行時の記録 (2026-08-30。修正前。上記のとおり全て解消済み)**:
         6 サブコマンドは全て登録され動作する(`wp help ts` で確認)。ただし以下が未達:
         - **(A) 冪等性が成立しない** — 受け入れ条件「2 回目 created=0 / updated=0」に対し
@@ -617,7 +652,22 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
         これと `term 未解決の値 (164 種)` の 2 件が残っているため
         **verify の終了は依然 NG**。原因と直す場所は 2.2 の「残る未達 1 件」を参照。
         **投入そのものは完走しており、残件は分類語彙の異表記マップだけ**
-      - **受入 curl (すべて `?_cb=$RANDOM` 付き)**: トップ `/` **200**
+      - **2.5 最終状態 (2026-08-30、コミット `322522a8` + `2fe08197`。reset なし)**:
+        `sync-terms` **created=0 updated=1 skipped=1735** → `import` **created=0 updated=5295
+        skipped=0 (2分18秒)** → **`wp ts verify` OK(全項目一致)** →
+        `import --dry-run` **created=0 / updated=0 / skipped=5295**。
+        **Phase 2 の投入は受け入れ条件をすべて満たした**。
+        `ts_catalog_commit` = `322522a8f0248aea3976cbe23e1b9753e3b4292b`
+      - **最終の受入 curl (すべて `?_cb=$RANDOM` 付き)**: トップ `/` **200**、
+        見出しが **`<h1 class="wp-block-heading has-text-align-left">作品一覧</h1>`**
+        (「ブログ」の出現 **0 箇所**、placeholder ナビ `href="#"` **0 個**)、
+        作品リンク 12 件はすべて `/novel/` /
+        連載子投稿 `/novel/johdan-tsukinuke/19204751-tsukinuke/` **200
+        `<title>突き抜け – 少年少女文庫</title>`** /
+        ジャンルアーカイブ **`/genre/gakuen/` 200 `<title>学園 – 少年少女文庫</title>`**
+        で作品 10 件(『学園?』表記の合流を目視確認)/
+        旧 `/works/yaji-trans11/` は **404**(`2fe08197` の裁定変更で 301 推測リダイレクトを停止)
+      - **初回の受入 curl (2026-08-30。`/works/` 時代の記録)**: トップ `/` **200**
         `<title>少年少女文庫</title>`・作品リンク **12 件が全て `/novel/`**(旧 `/works/` は 0)/
         単発作品 `/novel/yaji-trans11/` **200 `<title>trans11 – 少年少女文庫</title>`** /
         連載の子投稿 `/novel/unattributed-triangle-equation/triangle_equation2/` **200**
@@ -648,6 +698,8 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
       (c) 挿入は ssh 経由のサーバ上編集で行い、**既存 .htaccess 全文をローカルに保存・コミットしない**
       (d) 直後に無関係 URL 1 本の 200 と `X-Robots-Tag` ヘッダを curl(バスター付)で確認、
       失敗時は .bak を戻す
+      - **未着手。Phase 2 で唯一残っているタスクで、親セッション (Fable) 所管**
+        (本番 .htaccess を触るため。実行セッションは着手しない)
 - [x] 2.7 novel/ 画像 **1,196 点**(約 59MB。数え方: `git ls-files novel` の `.jpg` 562 + `.gif` 614 + `.png` 19 + `.bmp` 1)を `public_html/assets/annex-img/` に相対構造ごと rsync
       - **2.7 実測 (2026-08-30)**: 点数は台帳どおり **1,196**(jpg 562 / gif 614 / png 19 / bmp 1)、
         実サイズ **59,719,763 バイト**。`git ls-files novel` を拡張子で絞った一覧を
