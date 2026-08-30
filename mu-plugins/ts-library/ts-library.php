@@ -24,6 +24,7 @@ final class TS_Library {
         add_action('pre_get_posts', [self::class, 'front_page_query']);
         add_filter('render_block_core/heading', [self::class, 'home_heading'], 10, 2);
         add_filter('render_block_core/navigation-link', [self::class, 'drop_placeholder_nav'], 10, 2);
+        add_filter('render_block_core/paragraph', [self::class, 'drop_empty_meta_row'], 10, 2);
         // 旧 URL 基底 (/works/ 等) からの 404 推測リダイレクトはしない (ユーザ裁定 2026-08-30。
         // 正規 URL は catalog が決める — 推測は誤誘導のもと)
         add_filter('do_redirect_guess_404_permalink', '__return_false');
@@ -40,6 +41,14 @@ final class TS_Library {
     /** 既定ナビのプレースホルダ項目 (href="#" のブログ/ショップ等) を出さない */
     public static function drop_placeholder_nav($content, $block) {
         return (strpos($content, 'href="#"') !== false) ? '' : $content;
+    }
+
+    /** TT5 の single テンプレが出す空のメタ行 (「執筆者: 」「カテゴリ: 」— ts_work は
+     *  post_author もコアのカテゴリも使わないため値が空) を出さない (Phase 4 で正式テーマに) */
+    public static function drop_empty_meta_row($content, $block) {
+        if (!is_singular(['ts_work', 'ts_doc', 'ts_dojo', 'ts_board_post'])) return $content;
+        $txt = trim(wp_strip_all_tags($content));
+        return preg_match('/^(執筆者|カテゴリ|投稿者|タグ)[:：]?$/u', $txt) ? '' : $content;
     }
 
     /** 暫定トップ: 標準の「最新の投稿」を作品 (親投稿) 一覧に差し替える。
