@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="EUC-JP" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+<head>
+ <meta http-equiv="content-type" content="application/xhtml+xml; charset=EUC-JP" />
+ <meta http-equiv="content-style-type" content="text/css" />
+ <meta name="robots" content="NOINDEX,NOFOLLOW" />
+ <title>PukiWiki/1.4/Manual/Plugin/O-R - BC-Wiki (old data library)</title>
+
+ <link rel="SHORTCUT ICON" href="" />
+ <link rel="stylesheet" type="text/css" media="screen" href="skin/pukiwiki.css.php?charset=Shift_JIS" charset="Shift_JIS" />
+ <link rel="stylesheet" type="text/css" media="print"  href="skin/pukiwiki.css.php?charset=Shift_JIS&amp;media=print" charset="Shift_JIS" />
+ <link rel="alternate" type="application/rss+xml" title="RSS" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=rss" />
+
+</head>
+<body>
+
+<div id="header">
+ <font color=blue size=5>
+  <a href��"http://bc-cafe.net/bcwiki">  BC-wiki</a>
+ </font>
+  
+</div>
+
+<div id="navigator">
+ [ <a href="https://bc-cafe.net:443/bcwiki.old/index.php?FrontPage" >トップ</a> ] &nbsp;
+
+ [
+  <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=diff&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R" >差分</a> 	| <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=backup&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R" >バックアップ</a>   | <a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R" >リロード</a> ] &nbsp;
+
+ [
+    <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=list" >一覧</a>  | <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=search" >単語検索</a> | <a href="https://bc-cafe.net:443/bcwiki.old/index.php?RecentChanges" >最終更新</a> | <a href="https://bc-cafe.net:443/bcwiki.old/index.php?Help" >ヘルプ</a> ]
+
+</div>
+
+<hr class="full_hr" />
+<table border="0" style="width:100%">
+ <tr>
+  <td class="menubar">
+   <div id="menubar"><h4 id="content_2_0">戻る</h4>
+<ul><li><a href="http://kirika.novels.name/cafe/" rel="nofollow">喫茶へ</a></li>
+<li><a href="http://ts.novels.jp/" rel="nofollow">文庫へ</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_1">喫茶</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%A5%E1%A5%CB%A5%E5%A1%BC" title="青秋桜/メニュー (6255d)">メニュー</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%C0%DF%C8%F7" title="青秋桜/設備 (6699d)">設備</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%C5%D0%BE%EC%BF%CD%CA%AA" title="青秋桜/登場人物 (6217d)">登場人物</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%C9%D4%BB%D7%B5%C4%A4%CA%C6%FC%BE%EF" title="青秋桜/不思議な日常 (7228d)">不思議な日常</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%A4%CE%A5%AA%A5%D5" title="青秋桜のオフ (6086d)">青秋桜のオフ</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%A5%AB%A1%BC%A5%C9%A1%CA%BA%EE%C0%AE%C3%E6%A1%CB" title="青秋桜/カード（作成中） (6664d)">カード（作成中）</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_2">戦秋桜</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%EF%BD%A9%BA%F9" title="戦秋桜 (6114d)">概要</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%EF%BD%A9%BA%F9%2F%A5%B7%A5%B9%A5%C6%A5%E0" title="戦秋桜/システム (6077d)">システム</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%EF%BD%A9%BA%F9%2F%C5%D0%BE%EC%BF%CD%CA%AA" title="戦秋桜/登場人物 (6083d)">登場人物</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_3">トレイル</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%C8%A5%EC%A5%A4%A5%EB%2F%B2%BB%B3%DA%C8%A2" title="トレイル/音楽箱 (6086d)">音楽箱</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%C8%A5%EC%A5%A4%A5%EB%2F%C6%FA%BF%A7%A4%CE%A4%AB%A4%B1%A4%E9" title="トレイル/虹色のかけら (6303d)">虹色のかけら</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_4">日の国</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C6%FC%A4%CE%B9%F1%2F%A5%D7%A5%EA%A5%C6%A5%A3%A1%BC%A5%B5%A1%BC%A5%E9" title="日の国/プリティーサーラ (6677d)">プリティーサーラ</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_5">メイデンズ</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%E1%A5%A4%A5%C7%A5%F3%A5%BA%2F%B3%B0%C5%C11" title="メイデンズ/外伝1 (6086d)">外伝</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_6">微妙存在</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C8%F9%CC%AF%C2%B8%BA%DF%2F%BD%F1%C9%BE%BD%B8" title="微妙存在/書評集 (7186d)">書評集</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_7">モノクロ</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%E2%A5%CE%A5%AF%A5%ED%2F%BC%CC%BF%BF%B5%A1%B4%DB" title="モノクロ/写真機館 (6076d)">写真機</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%E2%A5%CE%A5%AF%A5%ED%2F%A5%CD%A5%BF" title="モノクロ/ネタ (6209d)">ネタ</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_8">鉄子の部屋</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C5%B4%BB%D2%A4%CE%C9%F4%B2%B0%2F%CE%B9%B9%D4%B5%AD" title="鉄子の部屋/旅行記 (6359d)">旅行記</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_9">有限会社</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%CD%AD%B8%C2%B2%F1%BC%D2%2F%CE%B9%B9%D4%B5%AD" title="有限会社/旅行記 (6212d)">旅行記</a></li>
+<li>雑記
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%CD%AD%B8%C2%B2%F1%BC%D2%2F%BB%A8%B5%AD%2F%A5%DE%A5%B7%A5%F3" title="有限会社/雑記/マシン (6053d)">マシン</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%CD%AD%B8%C2%B2%F1%BC%D2%2F%BB%A8%B5%AD%2F%A5%E1%A5%E2" title="有限会社/雑記/メモ (6211d)">メモ</a></li></ul></li></ul>
+<hr class="full_hr" />
+<h5>最新の1件</h5>
+<div><strong>2010-09-12</strong>
+<ul>
+ <li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?FrontPage" title="FrontPage (5831d)">FrontPage</a></li>
+</ul>
+</div>
+
+</div>
+  </td>
+  <td valign="top">
+   <div id="body">
+
+
+<ul class="navi">
+ <li class="navi_left"><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N" title="PukiWiki/1.4/Manual/Plugin/L-N (7315d)">Prev</a></li>
+ <li class="navi_right"><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U" title="PukiWiki/1.4/Manual/Plugin/S-U (7315d)">Next</a></li>
+ <li class="navi_none"><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin" title="PukiWiki/1.4/Manual/Plugin (7315d)">PukiWiki/1.4/Manual/Plugin</a></li>
+</ul>
+<hr class="full_hr" />
+<div class="contents">
+<a id="contents_1"></a>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="#c4c5830a">  O </a>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#vc9c6801"> online </a></li></ul></li>
+<li><a href="#eb773236">  P </a>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#v8e0f909"> paint </a></li>
+<li><a href="#n889950d"> pcomment </a></li>
+<li><a href="#aa6d5e99"> popular </a></li></ul></li>
+<li><a href="#heb39161">  R </a>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#bdab4a5d"> random </a></li>
+<li><a href="#qd5d7395"> read </a></li>
+<li><a href="#f6f25416"> recent </a></li>
+<li><a href="#h9e797dc"> ref </a></li>
+<li><a href="#l8d62a01"> referer </a></li>
+<li><a href="#v4da5475"> related </a></li>
+<li><a href="#m95d6531"> rename </a></li>
+<li><a href="#iaac8b70"> rss </a></li>
+<li><a href="#v879eb4d"> rss10 </a></li>
+<li><a href="#u3fad1fe"> ruby </a></li></ul></li></ul>
+</div>
+
+<hr class="full_hr" />
+<h2 id="content_1_0">O  <a class="anchor_super" id="c4c5830a" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#c4c5830a" title="c4c5830a">&dagger;</a></h2>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_1">online  <a class="anchor_super" id="vc9c6801" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#vc9c6801" title="vc9c6801">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>ブロック型プラグイン</p>
+<p>インライン型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★★☆☆☆</p></dd>
+<dt>書式</dt>
+<dd><p><strong>#online</strong></p>
+<p><strong>&amp;online</strong><strong>;</strong></p></dd>
+<dt>概要</dt>
+<dd><p>現在PukiWikiを参照している、おおよそのユーザー数を表示します。</p>
+<p>ユーザー数は、プラグインを呼び出された時点で記録されたＩＰアドレスとタイムスタンプのうち、５分以内(変更可能)にアクセスのあったアドレスの数です。</p></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>PLUGIN_ONLINE_TIMEOUT　タイムアウトの秒数</li>
+<li>PLUGIN_ONLINE_USER_LIST　ユーザー情報を保存するファイル</li>
+<li>PLUGIN_ONLINE_LIST_REGEX　ユーザー情報取得用の正規表現</li></ul></dd>
+<dt>備考</dt>
+<dd><p>ユーザー数のカウントはページ単位でなく、設置されたPukiWiki毎に行っているため、MenuBarなど頻繁に呼び出される場所に記述するかスキンに埋め込むのが普通です。</p></dd></dl>
+<hr class="full_hr" />
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h2 id="content_1_2">P  <a class="anchor_super" id="eb773236" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#eb773236" title="eb773236">&dagger;</a></h2>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_3">paint  <a class="anchor_super" id="v8e0f909" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#v8e0f909" title="v8e0f909">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>（コマンド）</p>
+<p>ブロック型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★☆☆☆☆</p></dd>
+<dt>書式</dt>
+<dd><strong>#paint(</strong><br />
+[<span style="color:blue">幅</span>]<br />
+[,<span style="color:blue">高さ</span>]<br />
+<strong>)</strong></dd>
+<dt>概要</dt>
+<dd><p>Javaアプレットで描いた絵を、そのページに添付します。</p>
+<p><a href="http://www.geocities.co.jp/SiliconValley-SanJose/8609/" rel="nofollow">ば科学的愛情</a>で配布されている<a href="http://www.geocities.co.jp/SiliconValley-SanJose/8609/java/bbspainter/" rel="nofollow">BBSPainter.jar</a>を使用しています。</p>
+<p>幅と高さに、デフォルトのキャンバスサイズを指定します。省略時は(80,60)となります（変更可能）</p></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>PAINT_INSERT_INS　入力内容を先頭/末尾のどちらに挿入するか</li>
+<li>PAINT_DEFAULT_WIDTH　デフォルトの描画領域の幅</li>
+<li>PAINT_DEFAULT_HEIGHT　デフォルトの描画領域の高さ</li>
+<li>PAINT_MAX_WIDTH　描画領域の幅の上限</li>
+<li>PAINT_MAX_HEIGHT　描画領域の高さの上限</li>
+<li>PAINT_APPLET_WIDTH　アプレット領域の幅</li>
+<li>PAINT_APPLET_HEIGHT　アプレット領域の高さ</li>
+<li>PAINT_NAME_FORMAT　名前欄の挿入フォーマット</li>
+<li>PAINT_MSG_FORMAT　コメント欄の挿入フォーマット</li>
+<li>PAINT_NOW_FORMAT　時刻欄の挿入フォーマット</li>
+<li>PAINT_FORMAT　コメント内容全体の挿入フォーマット（メッセージあり）</li>
+<li>PAINT_FORMAT_NOMSG　コメント内容全体の挿入フォーマット（メッセージなし）</li></ul></dd>
+<dt>備考</dt>
+<dd><p>PukiWikiのインストールディレクトリに上記BBSPainter.jarを入れるのを忘れないでください。このプラグインが何の役にも立たなくなります。</p></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_4">pcomment  <a class="anchor_super" id="n889950d" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#n889950d" title="n889950d">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>（コマンド）</p>
+<p>ブロック型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★★★☆☆</p></dd>
+<dt>書式</dt>
+<dd><strong>#pcomment(</strong>{<br />
+[<span style="color:blue">コメント記録ページ</span>],<br />
+[<span style="color:blue">表示件数</span>],<br />
+[<span style="color:blue">noname</span>],<br />
+[<span style="color:blue">nodate</span>],<br />
+[<span style="color:blue">above</span>],<br />
+[<span style="color:blue">below</span>],<br />
+[<span style="color:blue">reply</span>]<br />
+}<strong>)</strong></dd>
+<dt>概要</dt>
+<dd><p>別のページにコメントを記録することができるcommentプラグインです。設置した場所には最新のコメントだけを表示することができます。ラジオボタンを表示し、指定した部分にコメントを付けることもできます。</p></dd>
+<dt>引数</dt>
+<dd><p>コメント記録ページ にはコメントを記録するページ名を指定します。省略すると、pcommentプラグイン内の PLUGIN_PCOMMENT_PAGE で指定されたページにコメントが記録されます。デフォルトは [コメント/(設置したページ名)] です。指定したページが存在しなくても、最初にコメントを追加した時に作成します。</p>
+<p>表示件数 は表示する最新コメントの数を指定します。第1レベルの番号なしリストだけをカウントします。省略すると、pcommentのデフォルト件数(通常10件。 PLUGIN_PCOMMENT_NUM_COMMENTS で変更可能)が表示されます。<br /><br />
+表示件数は コメント記録ページ より後に指定して下さい。コメント記録ページを省略して 表示件数 を指定する場合は、 コメント記録ページ に空白を指定します。（例: #pcomment(,15)）</p>
+<p>noname,nodate,above,below,reply でコメントの表示方法、入力方法を指定します。</p>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>noname − 名前の入力欄を表示しません。</li>
+<li>nodate − 日付を挿入しません。</li>
+<li>above − 挿入したコメントをフォームの上に表示します。コメントは上が古く、下に向かって新しい順に並びます。</li>
+<li>below − 挿入したコメントをフォームの下に表示します。コメントは下が古く、上に向かって新しい順に並びます。</li>
+<li>reply − コメントの頭にラジオボタンを表示します。あるコメントに対するリプライが、そのコメントのラジオボタンをチェックすることで可能になります。</li></ul></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>PLUGIN_PCOMMENT_PAGE         ページ名のデフォルト(%sに$vars['page']が入る)</li>
+<li>PLUGIN_PCOMMENT_NUM_COMMENTS 表示する(最新の)コメント数のデフォルト</li>
+<li>PLUGIN_PCOMMENT_SIZE_NAME    名前欄の表示桁数</li>
+<li>PLUGIN_PCOMMENT_SIZE_MSG 　  コメント欄の表示桁数</li>
+<li>PLUGIN_PCOMMENT_DIRECTION_DEFAULT 入力内容を先頭/末尾のどちらに挿入するか</li>
+<li>PLUGIN_PCOMMENT_FORMAT_NAME 名前欄の挿入フォーマット</li>
+<li>PLUGIN_PCOMMENT_FORMAT_MSG  コメント欄の挿入フォーマット</li>
+<li>PLUGIN_PCOMMENT_FORMAT_NOW  時刻欄の挿入フォーマット</li>
+<li>PLUGIN_PCOMMENT_FORMAT_STRING コメント内容全体の挿入フォーマット</li>
+<li>PLUGIN_PCOMMENT_AUTO_LOG  自動過去ログ化を行う際の1ページあたりの件数(0で無効)</li>
+<li>PLUGIN_PCOMMENT_TIMESTAMP コメントページのタイムスタンプを更新せず、設置ページのタイムスタンプを更新するか</li></ul></dd>
+<dt>備考</dt>
+<dd><p>更新が衝突したときは、予期せぬ場所にコメントが挿入されるのを防ぐため、リプライ先を指定して記入したコメントはaboveまたはbelowの設定にしたがって 一番前か一番後ろに追加されます。</p>
+<p>コメント記入後に表示されるページのタイトルに「(#pcommentを書いたページ)を更新しました」と表示されますが、実際に更新されたのはコメントを記録するページです。</p>
+<p>コメントを投稿しても、#pcommentが書かれたページは更新されないので、最終更新ページにはコメントを記録したページだけが更新として表示されます。</p>
+<p>コメントとして相対参照([ [../] ]など)を用いた場合は、書いたページと書き込まれたページのどちらかで、意図したとおりに変換されない可能性があります。</p>
+<p>自動過去ログ化機能は PLUGIN_PCOMMENT_AUTO_LOG の件数 ＋ PLUGIN_PCOMMENT_NUM_COMMENTS の件数分のコメントを投稿した時に作動します。</p></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_5">popular  <a class="anchor_super" id="aa6d5e99" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#aa6d5e99" title="aa6d5e99">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>ブロック型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★★☆☆☆</p></dd>
+<dt>書式</dt>
+<dd><strong>#popular(</strong><br />
+[[<span style="color:blue">件数</span>]<br />
+[,[<span style="color:blue">対象外ページ</span>]<br />
+[,<span style="color:blue">true</span>|<span style="color:blue">false</span>]<br />
+]]<br />
+<strong>)</strong></dd>
+<dt>概要</dt>
+<dd><p>人気のある（参照回数の多い）ページの上位数件を表示します。</p></dd>
+<dt>引数</dt>
+<dd><p>件数には一覧の数を指定して下さい。省略時はPLUGIN_POPULAR_DEFAULTに指定した件数です。</p>
+<p>対象外ページには、表示対象外とするページを正規表現で指定します。例えば FrontPage や MenuBar などのページを一覧に表示させたくないときに使用します。</p>
+<p>true, falseで、ページのカウント条件を指定します。省略時は false です。</p>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>true − 今日参照のあった回数順でページを表示します。</li>
+<li>false − 通算の参照回数順でページを表示します。</li></ul></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>PLUGIN_POPULAR_DEFAULT　件数未指定時の件数</li></ul></dd>
+<dt>備考</dt>
+<dd><p><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#zedb02cf" title="PukiWiki/1.4/Manual/Plugin/A-D (7315d)">counter</a>プラグインのカウンター情報を利用しているので、counterプラグインを設置していないページはカウントの対象外となります。全てのページにcounterプラグインを設置するのは非効率であるため counterプラグインをMenubarやスキンに設置するのが一般的です。</p></dd></dl>
+<hr class="full_hr" />
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h2 id="content_1_6">R  <a class="anchor_super" id="heb39161" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#heb39161" title="heb39161">&dagger;</a></h2>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_7">random  <a class="anchor_super" id="bdab4a5d" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#bdab4a5d" title="bdab4a5d">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>（コマンド）</p>
+<p>ブロック型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★☆☆☆☆</p></dd>
+<dt>書式</dt>
+<dd><strong>#random(</strong><br />
+[<span style="color:blue">メッセージ</span>]<br />
+<strong>)</strong></dd>
+<dt>概要</dt>
+<dd><p>ランダムなページへのリンクを表示するプラグイン。</p>
+<p>表示するページの候補は設置したページの下階層のページです。</p></dd>
+<dt>引数</dt>
+<dd><p>メッセージにはリンクに表示する文字列を指定します。省略時は 'press here.' となります。</p></dd>
+<dt>備考</dt>
+<dd><p>ブラウザの再読み込み対策はしていません。リロードされるたびにランダムな表示を繰り返します。</p></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_8">read  <a class="anchor_super" id="qd5d7395" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#qd5d7395" title="qd5d7395">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>コマンド</p></dd>
+<dt>重要度</dt>
+<dd><p>★★★★★</p></dd>
+<dt>書式</dt>
+<dd><strong>?cmd=read</strong><br />
+<span style="color:blue">&amp;page=ページ名</span></dd>
+<dt>概要</dt>
+<dd><p>指定したページを表示します。該当ページが存在しない場合は編集状態で開き、ページ名がInterWikiであった場合は、その解決を行います。</p>
+<p>plugin=やcmd=が指定されていない場合に内部で暗黙に呼び出されるため、利用者が意識する機会は少ないです。</p></dd>
+<dt>引数</dt>
+<dd><p>ページ名には表示したいページ名を指定します。ページ名はエンコードされている必要があります。</p></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_9">recent  <a class="anchor_super" id="f6f25416" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#f6f25416" title="f6f25416">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>ブロック型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★★★★★</p></dd>
+<dt>書式</dt>
+<dd><strong>#recent(</strong><br />
+[<span style="color:blue">件数</span>]<br />
+<strong>)</strong></dd>
+<dt>概要</dt>
+<dd><p>最近更新されたページのうち、最新の数件を表示します。</p></dd>
+<dt>引数</dt>
+<dd><p>件数には表示件数を指定します。省略時はプラグイン内設定で指定した値です。</p></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>PLUGIN_RECENT_DEFAULT_LINES　件数未指定時の件数</li>
+<li>PLUGIN_RECENT_CACHE　RecentChangesのキャッシュの場所</li>
+<li>PLUGIN_RECENT_USAGE　引数未指定時に表示されるヘルプ</li></ul></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_10">ref  <a class="anchor_super" id="h9e797dc" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#h9e797dc" title="h9e797dc">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>ブロック型プラグイン</p>
+<p>インライン型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★★★★☆</p></dd>
+<dt>書式</dt>
+<dd><p><strong>#ref(</strong><br />
+<span style="color:blue">添付ファイル名</span>|<br />
+<span style="color:blue">ページ名/添付ファイル名</span>|<br />
+<span style="color:blue">URL</span><br />
+[,<span style="color:blue">ページ名</span>]<br />
+{,<br />
+[<span style="color:blue">left</span>|<span style="color:blue">center</span>|<span style="color:blue">right</span>],<br />
+[<span style="color:blue">wrap</span>|<span style="color:blue">nowrap</span>],<br />
+[<span style="color:blue">around</span>],<br />
+[<span style="color:blue">noicon</span>],<br />
+[<span style="color:blue">noimg</span>],<br />
+[<span style="color:blue">nolink</span>],<br />
+[<span style="color:blue">zoom</span>],<br />
+[<span style="color:blue">999x999</span>],<br />
+[<span style="color:blue">999%</span>]<br />
+}<br />
+[,<span style="color:blue">タイトル</span>]<br />
+<strong>)</strong></p>
+<p><strong>&amp;ref(</strong><br />
+<span style="color:blue">添付ファイル名</span>|<br />
+<span style="color:blue">ページ名/添付ファイル名</span>|<br />
+<span style="color:blue">URL</span><br />
+[,<span style="color:blue">ページ名</span>]<br />
+{,<br />
+[<span style="color:blue">noicon</span>],<br />
+[<span style="color:blue">noimg</span>],<br />
+[<span style="color:blue">nolink</span>],<br />
+[<span style="color:blue">zoom</span>],<br />
+[<span style="color:blue">999x999</span>],<br />
+[<span style="color:blue">999%</span>]<br />
+}<br />
+[,<span style="color:blue">タイトル</span>]<br />
+<strong>);</strong></p></dd>
+<dt>概要</dt>
+<dd><p>'#attach'でページに添付されたファイルを指定位置に展開します。添付ファイルが画像の場合は画像を表示し、それ以外の場合はダウンロード用のリンクを表示します。</p></dd>
+<dt>引数</dt>
+<dd><p>添付ファイル名にはページに添付したファイル名を指定します（省略時はエラーとなります）。別ページ名/添付ファイル名とする事で別ページの添付ファイルも指定できます。</p>
+<p>ページ名にはファイルを添付したページをWikiNameかBracketNameで指定します。このオプションは最初(添付ファイル名の次)に記述してください。省略時は設置したページです。</p>
+<p>パラメータにはファイルの展開方法を指定できます。</p>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>left|center|right − 表示時の位置を指定します。省略時はleft(変更可)です。</li>
+<li>wrap|nowrap − テーブルタグで囲む/囲まないの指定を行います。省略時はnowrap(変更可)です。</li>
+<li>around − テキストの回り込みを可能とします。省略時は回り込みを行いません。</li>
+<li>noicon − ファイルが画像以外の場合に表示されるアイコンを表示しません。省略時は表示します。</li>
+<li>noimg − ファイルが画像の場合に画像を展開しないようにします。省略時は展開します。</li>
+<li>nolink − 元ファイルへのリンクを張らないようにします。省略時はリンクします。</li>
+<li>zoom − 縦横比を保持します。省略時はサイズ指定に従います。</li>
+<li>999x999 − サイズを指定します(幅x高さ)。省略時は拡大率あるいは対象画像のサイズに従います。</li>
+<li>999% − サイズを指定(拡大率)します。省略時は100%です、</li>
+<li>タイトル − 上記以外のパラメータは画像の代替文字列、リンクのタイトル属性として使用されます。ページ名やパラメータに見える文字列を使用するときは、#ref(hoge.png,,zoom)のようにタイトルの前にカンマを余分に入れます。</li></ul></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>PLUGIN_REF_USAGE　引数未指定時に表示されるヘルプ</li>
+<li>PLUGIN_REF_IMAGE　マッチ時に指定ファイルを画像とみなす正規表現</li>
+<li>FILE_ICON　アイコンイメージのファイル</li>
+<li>PLUGIN_REF_DEFAULT_ALIGN　left,center,right省略時の表示位置</li>
+<li>PLUGIN_REF_WRAP_TABLE　wrap,nowrap省略時にテーブルタグで囲むか</li>
+<li>PLUGIN_REF_URL_GET_IMAGE_SIZE　URL指定時に画像サイズを取得するか</li>
+<li>PLUGIN_REF_DIRECT_ACCESS　添付ファイルの画像表示で UPLOAD_DIR のデータに直接アクセスするか</li></ul></dd></dl>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>備考</dt>
+<dd><p>aroundで行った回り込み指定を解除するには clearプラグイン、あるいはimgプラグインを使用して下さい。</p>
+<p>&quot;ほげ&quot;という別ページの添付ファイル&quot;fuga.jpg&quot;をインラインプラグイン形式で参照する場合、下記２通りの記述方法が存在します。</p>
+<pre>(1) &amp;ref(ほげ/fuga.jpg);
+(2) &amp;ref(fuga.jpg,[[ほげ]]);</pre>
+<p>上記２通りの記述のうち、(2)の記述方式は旧バージョンと互換性を維持するために用意されたもので、推奨される記述方式は(1)です。<br class="spacer" /><br />
+いずれの記述方法であっても一般的な動作は同じですが、いわゆるバナー画像のように表示した画像が別ページへのリンクとなるよう以下の指定をした場合、</p>
+<pre>(1)  [[&amp;ref(ほげ/fuga.jpg,nolink,ウェブ名);&gt;ウェブのURL]] 
+(2)  [[&amp;ref(fuga.jpg,[[ほげ]],nolink,ウェブ名);&gt;ウェブのURL]] </pre>
+(1)の記述方法は期待通りの動作をしますが、(2)の記述方法ではうまくリンクされません。<br class="spacer" /><br />
+また、ほげというページに添付された画像を、そのページ内でパラメータを指定して（例えば半分の比率で）表示する場合、
+<pre>(3)  &amp;ref(./fuga.jpg,50%);
+(4)  &amp;ref(ほげ/fuga.jpg,50%);
+(5)  &amp;ref(fuga.jpg,[[ほげ]],50%);
+(6)  &amp;ref(fuga.jpg,50%);</pre>
+(3)〜(5)は期待通りに同じ結果をしますが、(6)はエラーとなります。<br />
+これは(6)の書式が(2)の記述方式であるため、<br />
+添付ファイル名fuga.jpgの次の引数にページ名を期待するためです。
+<pre>(7)  &amp;ref(fuga.jpg);</pre>
+(7)は(6)と似た記述ですが、添付ファイル名の次の引数が省略されているため、エラーにはなりません。</dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_11">referer  <a class="anchor_super" id="l8d62a01" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#l8d62a01" title="l8d62a01">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>コマンド</p></dd>
+<dt>重要度</dt>
+<dd><p>★★★☆☆</p></dd>
+<dt>書式</dt>
+<dd><strong>?plugin=referer</strong><br />
+[<span style="color:blue">&amp;page=ページ名</span>]<br />
+[<span style="color:blue">&amp;sort=</span><br />
+<span style="color:blue">0d</span>|<span style="color:blue">0a</span>|<br />
+<span style="color:blue">1d</span>|<span style="color:blue">1a</span>|<br />
+<span style="color:blue">2d</span>|<span style="color:blue">2a</span>|<br />
+<span style="color:blue">3</span><br />
+]</dd>
+<dt>概要</dt>
+<dd><p>ページを照会した利用者の参照元URL(Referer)の一覧を表示します。</p></dd>
+<dt>引数</dt>
+<dd><p>ページ名にはRefererを表示するページ名を指定します。ページ名はエンコードされている必要があります。省略時はRefererが記録されているページの一覧を表示します。</p>
+<p>sortでReferer一覧のソート順を指定します。</p>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>0d − 最終更新日時(新着順)</li>
+<li>0a − 最終更新日時(日付順)</li>
+<li>1d − 初回登録日時(新着順)</li>
+<li>1a − 初回登録日時(日付順)</li>
+<li>2d − カウンタ(大きい順)</li>
+<li>2a − カウンタ(小さい順)</li>
+<li>3 − Referer</li></ul></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>CONFIG_REFERER　無視するURIを指定したページ</li></ul></dd>
+<dt>備考</dt>
+<dd><p>pukiwiki.ini.php で、Refererを使用する設定($referer = 1を指定)が行われている必要があります。</p></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_12">related  <a class="anchor_super" id="v4da5475" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#v4da5475" title="v4da5475">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>コマンド</p>
+<p>擬似ブロック型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★★★☆☆</p></dd>
+<dt>書式</dt>
+<dd><p><strong>?plugin=related</strong><br />
+[<span style="color:blue">&amp;page=ページ名</span>]</p>
+<p><strong>#related</strong></p></dd>
+<dt>概要</dt>
+<dd><p>対象のページを参照しているページの一覧を表示します。</p></dd>
+<dt>引数</dt>
+<dd><p>ブロック型で実行時、設置したページが対象となります。</p>
+<p>コマンドで実行時、ページ名に対象となるページを指定できます。省略した場合、トップページが指定されたとみなします。</p></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_13">rename  <a class="anchor_super" id="m95d6531" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#m95d6531" title="m95d6531">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>コマンド</p></dd>
+<dt>重要度</dt>
+<dd><p>★★★☆☆</p></dd>
+<dt>書式</dt>
+<dd><strong>?plugin=rename</strong><br />
+[<span style="color:blue">&amp;refer=ページ名</span>]</dd>
+<dt>概要</dt>
+<dd><p>既存ページの名前を変更します。実行には管理者権限が必要です。</p>
+<p>ページの本文のほか、指定されたページ名の差分、バックアップ、添付ファイル、カウンターを一気にリネームします。</p></dd>
+<dt>引数</dt>
+<dd><p>ページ名には変更するページの名前を指定します。省略時はページ名の選択または正規表現置換用文字列入力画面が表示されます。</p>
+<p>実行結果は変換結果のページ（PLUGIN_RENAME_LOGPAGE で指定。標準は :RenameLog）に追記されます。</p></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>PLUGIN_RENAME_LOGPAGE　ページ名の変換結果を出力するページ名</li></ul></dd>
+<dt>備考</dt>
+<dd><p>ページ内のリンクの書き換えは行ないません。yetlistなどを駆使して対処してください。</p>
+<p>TrackBackやRefererの情報は更新されません。</p>
+<p>リネーム対象のページが凍結されているかどうかはチェックしていません。</p>
+<p>関連ページにリネーム対象の文字列が複数含まれているとおかしくなります。</p>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>たとえば、hogeおよびhoge/hogeという二つのページがあったときに、hogeページをfugaに(関連ページを含んで)リネームすると、hoge/hogeページの名前がfuga/fugaになってしまいます。</li></ul></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_14">rss  <a class="anchor_super" id="iaac8b70" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#iaac8b70" title="iaac8b70">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>コマンド</p></dd>
+<dt>重要度</dt>
+<dd><p>★☆☆☆☆</p></dd>
+<dt>書式</dt>
+<dd><p><strong>?plugin=rss</strong><br />
+[<span style="color:blue">&amp;ver=</span><span style="color:blue">0.91</span>|<br />
+<span style="color:blue">1.0</span>|<br />
+<span style="color:blue">2.0</span>]</p></dd>
+<dt>概要</dt>
+<dd><p>RecentChangesをRSSに変換して出力します。</p></dd>
+<dt>引数</dt>
+<dd><p>verで出力するRSSを指定します。省略時は0.91を出力します。</p></dd>
+<dt>備考</dt>
+<dd><p>RSSはサイトの要約を配信するために使われるXMLフォーマットです。RSS 1.0はRDF(Resource Description Framework)にもとづいたRSS 0.9の後継フォーマットです。RSS 0.91は RDFにもとづかないRSSの実装で、RSS 2.0は RSS 0.91および 0.92の後継フォーマットです。RSSという頭字語が何の略であるかは、それぞれ異なります。</p>
+<p><strong>RSS 0.9および1.0</strong>: RDF Site Summary</p>
+<p><strong>RSS 0.91および0.92</strong>: Rich Site Summary</p>
+<p><strong>RSS 2.0</strong>: Really Simple Syndication</p></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_15">rss10  <a class="anchor_super" id="v879eb4d" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#v879eb4d" title="v879eb4d">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>コマンド</p></dd>
+<dt>重要度</dt>
+<dd><p>★☆☆☆☆</p></dd>
+<dt>書式</dt>
+<dd><p><strong>?cmd=rss10</strong></p></dd>
+<dt>概要</dt>
+<dd><p>RecentChangesをRSS(RDF Site Summary)1.0に変換して出力します。</p></dd>
+<dt>備考</dt>
+<dd><p>rss10プラグインの機能はrssプラグインにマージされたため、<br />
+このプラグインは過去との互換性のためにのみ存在しています。<br />
+(将来的に削除される可能性があります)</p>
+<p>このプラグインにアクセスすると、HTTPステータス・コード 301<br />
+(Moved Permanently)とともに、ver=1.0オプションを指定したrssプラグイン<br />
+のURIへリダイレクトされます。</p></dd></dl>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_16">ruby  <a class="anchor_super" id="u3fad1fe" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#u3fad1fe" title="u3fad1fe">&dagger;</a></h3>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>インライン型プラグイン</p></dd>
+<dt>重要度</dt>
+<dd><p>★☆☆☆☆</p></dd>
+<dt>書式</dt>
+<dd><strong>&amp;ruby(</strong><br />
+<span style="color:blue">ルビ</span><br />
+<strong>){</strong><br />
+<span style="color:blue">対象文字列</span><br />
+<strong>};</strong></dd>
+<dt>概要</dt>
+<dd><p>文字列にルビをふります。</p></dd>
+<dt>引数</dt>
+<dd><p>ルビには表示するルビを指定します。</p>
+<p>対象文字列にはルビがふられる文字列を指定します。</p></dd>
+<dt>プラグイン内設定</dt>
+<dd><br />
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>PLUGIN_RUBY_USAGE　引数未指定時に表示されるヘルプ</li></ul></dd>
+<dt>備考</dt>
+<dd><p>XHTML 1.1のルビに対応したブラウザでないと、ルビとして表示されません。IE5.5/6では表示できます。Netscape 7/Mozillaでは<a href="http://white.sakura.ne.jp/~piro/xul/_rubysupport.html" rel="nofollow">XHTML Ruby Support</a>を組み込めば表示できます。</p>
+<p>ルビに対応していないブラウザではルビをふる文字列の直後にルビが( )に入れられて表示されます。</p></dd></dl>
+<hr class="full_hr" />
+<ul class="navi">
+ <li class="navi_left"><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N" title="PukiWiki/1.4/Manual/Plugin/L-N (7315d)">Prev</a><br /><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N" title="PukiWiki/1.4/Manual/Plugin/L-N (7315d)">PukiWiki/1.4/Manual/Plugin/L-N</a></li>
+ <li class="navi_right"><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U" title="PukiWiki/1.4/Manual/Plugin/S-U (7315d)">Next</a><br /><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U" title="PukiWiki/1.4/Manual/Plugin/S-U (7315d)">PukiWiki/1.4/Manual/Plugin/S-U</a></li>
+ <li class="navi_none"><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin" title="PukiWiki/1.4/Manual/Plugin (7315d)">Home</a><br /><a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin" title="PukiWiki/1.4/Manual/Plugin (7315d)">Up</a></li>
+</ul>
+</div>
+  </td>
+ </tr>
+</table>
+
+
+
+<hr class="full_hr" />
+<!-- Toolbar -->
+<div id="toolbar">
+ <a href="https://bc-cafe.net:443/bcwiki.old/index.php?FrontPage"><img src="image/top.png" width="20" height="20" alt="トップ" title="トップ" /></a>
+ &nbsp;
+  <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=diff&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R"><img src="image/diff.png" width="20" height="20" alt="差分" title="差分" /></a>	<a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=backup&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R"><img src="image/backup.png" width="20" height="20" alt="バックアップ" title="バックアップ" /></a> <a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R"><img src="image/reload.png" width="20" height="20" alt="リロード" title="リロード" /></a> &nbsp;
+ <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=list"><img src="image/list.png" width="20" height="20" alt="一覧" title="一覧" /></a> <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=search"><img src="image/search.png" width="20" height="20" alt="単語検索" title="単語検索" /></a> <a href="https://bc-cafe.net:443/bcwiki.old/index.php?RecentChanges"><img src="image/recentchanges.png" width="20" height="20" alt="最終更新" title="最終更新" /></a> &nbsp; <a href="https://bc-cafe.net:443/bcwiki.old/index.php?Help"><img src="image/help.png" width="20" height="20" alt="ヘルプ" title="ヘルプ" /></a> &nbsp; <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=rss&amp;ver=1.0"><img src="image/rss.png" width="36" height="14" alt="最終更新のRSS" title="最終更新のRSS" /></a></div>
+
+<div id="lastmodified">Last-modified: 2006-08-20 (日) 01:52:40  (7315d)</div>
+
+
+<div id="footer">
+ Site admin: <a href="http://bc-cafe.net/">kirika</a><p />
+ <strong>PukiWiki 1.4.7</strong> Copyright &copy; 2001-2006 <a href="http://pukiwiki.sourceforge.jp/">PukiWiki Developers Team</a>. License is <a href="http://www.gnu.org/licenses/gpl.html">GPL</a>.<br /> Based on "PukiWiki" 1.3 by <a href="http://factage.com/yu-ji/">yu-ji</a>.
+ Powered by PHP 5.2.17. HTML convert time: 0.035 sec.
+</div>
+
+</body>
+</html>

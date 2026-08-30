@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="EUC-JP" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja">
+<head>
+ <meta http-equiv="content-type" content="application/xhtml+xml; charset=EUC-JP" />
+ <meta http-equiv="content-style-type" content="text/css" />
+ <meta name="robots" content="NOINDEX,NOFOLLOW" />
+ <title>PukiWiki/1.4/Manual/Plugin - BC-Wiki (old data library)</title>
+
+ <link rel="SHORTCUT ICON" href="" />
+ <link rel="stylesheet" type="text/css" media="screen" href="skin/pukiwiki.css.php?charset=Shift_JIS" charset="Shift_JIS" />
+ <link rel="stylesheet" type="text/css" media="print"  href="skin/pukiwiki.css.php?charset=Shift_JIS&amp;media=print" charset="Shift_JIS" />
+ <link rel="alternate" type="application/rss+xml" title="RSS" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=rss" />
+
+</head>
+<body>
+
+<div id="header">
+ <font color=blue size=5>
+  <a href��"http://bc-cafe.net/bcwiki">  BC-wiki</a>
+ </font>
+  
+</div>
+
+<div id="navigator">
+ [ <a href="https://bc-cafe.net:443/bcwiki.old/index.php?FrontPage" >トップ</a> ] &nbsp;
+
+ [
+  <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=diff&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin" >差分</a> 	| <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=backup&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin" >バックアップ</a>   | <a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin" >リロード</a> ] &nbsp;
+
+ [
+    <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=list" >一覧</a>  | <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=search" >単語検索</a> | <a href="https://bc-cafe.net:443/bcwiki.old/index.php?RecentChanges" >最終更新</a> | <a href="https://bc-cafe.net:443/bcwiki.old/index.php?Help" >ヘルプ</a> ]
+
+</div>
+
+<hr class="full_hr" />
+<table border="0" style="width:100%">
+ <tr>
+  <td class="menubar">
+   <div id="menubar"><h4 id="content_2_0">戻る</h4>
+<ul><li><a href="http://kirika.novels.name/cafe/" rel="nofollow">喫茶へ</a></li>
+<li><a href="http://ts.novels.jp/" rel="nofollow">文庫へ</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_1">喫茶</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%A5%E1%A5%CB%A5%E5%A1%BC" title="青秋桜/メニュー (6255d)">メニュー</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%C0%DF%C8%F7" title="青秋桜/設備 (6699d)">設備</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%C5%D0%BE%EC%BF%CD%CA%AA" title="青秋桜/登場人物 (6217d)">登場人物</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%C9%D4%BB%D7%B5%C4%A4%CA%C6%FC%BE%EF" title="青秋桜/不思議な日常 (7228d)">不思議な日常</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%A4%CE%A5%AA%A5%D5" title="青秋桜のオフ (6086d)">青秋桜のオフ</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%C4%BD%A9%BA%F9%2F%A5%AB%A1%BC%A5%C9%A1%CA%BA%EE%C0%AE%C3%E6%A1%CB" title="青秋桜/カード（作成中） (6664d)">カード（作成中）</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_2">戦秋桜</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%EF%BD%A9%BA%F9" title="戦秋桜 (6114d)">概要</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%EF%BD%A9%BA%F9%2F%A5%B7%A5%B9%A5%C6%A5%E0" title="戦秋桜/システム (6077d)">システム</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C0%EF%BD%A9%BA%F9%2F%C5%D0%BE%EC%BF%CD%CA%AA" title="戦秋桜/登場人物 (6083d)">登場人物</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_3">トレイル</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%C8%A5%EC%A5%A4%A5%EB%2F%B2%BB%B3%DA%C8%A2" title="トレイル/音楽箱 (6086d)">音楽箱</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%C8%A5%EC%A5%A4%A5%EB%2F%C6%FA%BF%A7%A4%CE%A4%AB%A4%B1%A4%E9" title="トレイル/虹色のかけら (6303d)">虹色のかけら</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_4">日の国</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C6%FC%A4%CE%B9%F1%2F%A5%D7%A5%EA%A5%C6%A5%A3%A1%BC%A5%B5%A1%BC%A5%E9" title="日の国/プリティーサーラ (6677d)">プリティーサーラ</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_5">メイデンズ</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%E1%A5%A4%A5%C7%A5%F3%A5%BA%2F%B3%B0%C5%C11" title="メイデンズ/外伝1 (6086d)">外伝</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_6">微妙存在</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C8%F9%CC%AF%C2%B8%BA%DF%2F%BD%F1%C9%BE%BD%B8" title="微妙存在/書評集 (7186d)">書評集</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_7">モノクロ</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%E2%A5%CE%A5%AF%A5%ED%2F%BC%CC%BF%BF%B5%A1%B4%DB" title="モノクロ/写真機館 (6076d)">写真機</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%A5%E2%A5%CE%A5%AF%A5%ED%2F%A5%CD%A5%BF" title="モノクロ/ネタ (6209d)">ネタ</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_8">鉄子の部屋</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%C5%B4%BB%D2%A4%CE%C9%F4%B2%B0%2F%CE%B9%B9%D4%B5%AD" title="鉄子の部屋/旅行記 (6359d)">旅行記</a></li></ul>
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_2_9">有限会社</h4>
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%CD%AD%B8%C2%B2%F1%BC%D2%2F%CE%B9%B9%D4%B5%AD" title="有限会社/旅行記 (6212d)">旅行記</a></li>
+<li>雑記
+<ul><li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%CD%AD%B8%C2%B2%F1%BC%D2%2F%BB%A8%B5%AD%2F%A5%DE%A5%B7%A5%F3" title="有限会社/雑記/マシン (6053d)">マシン</a></li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?%CD%AD%B8%C2%B2%F1%BC%D2%2F%BB%A8%B5%AD%2F%A5%E1%A5%E2" title="有限会社/雑記/メモ (6211d)">メモ</a></li></ul></li></ul>
+<hr class="full_hr" />
+<h5>最新の1件</h5>
+<div><strong>2010-09-12</strong>
+<ul>
+ <li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?FrontPage" title="FrontPage (5831d)">FrontPage</a></li>
+</ul>
+</div>
+
+</div>
+  </td>
+  <td valign="top">
+   <div id="body">
+
+
+<h2 id="content_1_0">プラグインマニュアル  <a class="anchor_super" id="v0ed77c7" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin#v0ed77c7" title="v0ed77c7">&dagger;</a></h2>
+<hr class="full_hr" />
+<div class="contents">
+<a id="contents_1"></a>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="#v0ed77c7">  プラグインマニュアル </a>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#vf3c6f93">  プラグインマニュアルの凡例 </a></li></ul></li></ul>
+</div>
+
+<hr class="full_hr" />
+<ul class="list1" style="padding-left:16px;margin-left:16px">
+<li><a id="list_1" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D" title="PukiWiki/1.4/Manual/Plugin/A-D  (7315d)">PukiWiki/1.4/Manual/Plugin/A-D</a>
+<ul class="list2" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_0"> A </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_1">add </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_2">amazon </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_3">aname </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_4">article </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_5">attach </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_6"> B </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_7">back </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_8">backup </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_9">br </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_10">bugtrack </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_11">bugtrack_list </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_12"> C </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_13">calendar、calendar_edit、calendar_read </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_14">calendar_viewer </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_15">calendar2 </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_16">clear </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_17">color </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_18">comment </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_19">contents </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_20">counter </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_21"> D </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_22">deleted </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_23">diff </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FA-D#content_1_24">dump </a>
+</li></ul>
+</li></ul>
+</li>
+<li><a id="list_2" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FE-G" title="PukiWiki/1.4/Manual/Plugin/E-G  (7315d)">PukiWiki/1.4/Manual/Plugin/E-G</a>
+<ul class="list2" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FE-G#content_1_0"> E </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FE-G#content_1_1">edit </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FE-G#content_1_2"> F </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FE-G#content_1_3">filelist </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FE-G#content_1_4">freeze </a>
+</li></ul>
+</li></ul>
+</li>
+<li><a id="list_3" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K" title="PukiWiki/1.4/Manual/Plugin/H-K  (7315d)">PukiWiki/1.4/Manual/Plugin/H-K</a>
+<ul class="list2" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K#content_1_0"> H </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K#content_1_1">hr </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K#content_1_2"> I </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K#content_1_3">img </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K#content_1_4">include </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K#content_1_5">includesubmenu </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K#content_1_6">insert </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FH-K#content_1_7">interwiki </a>
+</li></ul>
+</li></ul>
+</li>
+<li><a id="list_4" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N" title="PukiWiki/1.4/Manual/Plugin/L-N  (7315d)">PukiWiki/1.4/Manual/Plugin/L-N</a>
+<ul class="list2" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_0"> L </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_1">lastmod </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_2">links </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_3">list </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_4">lookup </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_5">ls </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_6">ls2 </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_7"> M </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_8">map </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_9">md5 </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_10">memo </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_11">menu </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_12"> N </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_13">navi </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_14">new </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_15">newpage </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_16">nofollow </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FL-N#content_1_17">norelated </a>
+</li></ul>
+</li></ul>
+</li>
+<li><a id="list_5" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R" title="PukiWiki/1.4/Manual/Plugin/O-R  (7315d)">PukiWiki/1.4/Manual/Plugin/O-R</a>
+<ul class="list2" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_0"> O </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_1">online </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_2"> P </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_3">paint </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_4">pcomment </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_5">popular </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_6"> R </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_7">random </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_8">read </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_9">recent </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_10">ref </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_11">referer </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_12">related </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_13">rename </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_14">rss </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_15">rss10 </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R#content_1_16">ruby </a>
+</li></ul>
+</li></ul>
+</li>
+<li><a id="list_6" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U" title="PukiWiki/1.4/Manual/Plugin/S-U  (7315d)">PukiWiki/1.4/Manual/Plugin/S-U</a>
+<ul class="list2" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_0"> S </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_1">search </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_2">server </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_3">setlinebreak </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_4">showrss </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_5">size </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_6">source </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_7">stationary </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_8"> T </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_9">tb </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_10">template </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_11">topicpath </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_12">touchgraph </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_13">tracker </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_14">tracker_list </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_15"> U </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_16">unfreeze </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FS-U#content_1_17">update_entities </a>
+</li></ul>
+</li></ul>
+</li>
+<li><a id="list_7" href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FV-Z" title="PukiWiki/1.4/Manual/Plugin/V-Z  (7315d)">PukiWiki/1.4/Manual/Plugin/V-Z</a>
+<ul class="list2" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FV-Z#content_1_0"> V </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FV-Z#content_1_1">version </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FV-Z#content_1_2">versionlist </a>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FV-Z#content_1_3">vote </a>
+</li></ul>
+</li>
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FV-Z#content_1_4"> Y </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px">
+<li><a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=read&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin%2FV-Z#content_1_5">yetlist </a></li></ul>
+</li></ul>
+</li></ul>
+<hr class="full_hr" />
+
+<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_1">プラグインマニュアルの凡例  <a class="anchor_super" id="vf3c6f93" href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin#vf3c6f93" title="vf3c6f93">&dagger;</a></h3>
+<p>プラグインマニュアルは以下の形式で記述されています。</p>
+<p><strong>プラグイン名</strong></p>
+<dl class="list1" style="padding-left:16px;margin-left:16px"><dt>種別</dt>
+<dd><p>プラグインがどのような方法で呼び出しを行えるかを示します。複数の呼び出し方法をもつプラグインも存在します。</p>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>コマンド − コマンド形式の呼び出しが可能であることを示します。内部的に呼び出されるため、説明を省いている場合はカッコで括られています。</li>
+<li>ブロック型プラグイン − ブロック型プラグインでの呼び出しが可能である事を示します。</li>
+<li>インライン型プラグイン − インライン型プラグインでの呼び出しが可能である事を示します。</li>
+<li>擬似ブロック型プラグイン − PukiWiki本体で実現されている機能であることを示します。記述方式がブロック型プラグインと同じであるため、便宜上プラグインのマニュアルに含めています。</li></ul></dd>
+<dt>重要度</dt>
+<dd><p>そのプラグインの一般的な利用頻度や有用性の目安を示します。さほど重要でない場合は ★☆☆☆☆ が、重要なプラグインの場合は ★★★★★ です。</p></dd>
+<dt>書式</dt>
+<dd><p>プラグインでの引数指定方法です。引数の指定方法の表現のため、下記の記述書式を使っています。</p>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>[] − 省略可能で必要に応じて記述する箇所です。</li>
+<li>| − |で区切られた複数の項目のうち、指定できるのは１つである事を示します。</li>
+<li>{} − 中カッコ内のみ引数の指定順序が任意である事を示します。</li></ul></dd>
+<dt>概要</dt>
+<dd><p>そのプラグインの機能概要です。</p></dd>
+<dt>引数</dt>
+<dd><p>引数の詳細な説明です。</p></dd>
+<dt>プラグイン内設定</dt>
+<dd><p>プラグインのソース中で定義されている定数の一覧です。引数で変更できない詳細なカスタマイズが可能となります。</p></dd>
+<dt>備考</dt>
+<dd><p>プラグインに関する参考情報です。</p></dd></dl>
+</div>
+  </td>
+ </tr>
+</table>
+
+
+
+<hr class="full_hr" />
+<!-- Toolbar -->
+<div id="toolbar">
+ <a href="https://bc-cafe.net:443/bcwiki.old/index.php?FrontPage"><img src="image/top.png" width="20" height="20" alt="トップ" title="トップ" /></a>
+ &nbsp;
+  <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=diff&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin"><img src="image/diff.png" width="20" height="20" alt="差分" title="差分" /></a>	<a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=backup&amp;page=PukiWiki%2F1.4%2FManual%2FPlugin"><img src="image/backup.png" width="20" height="20" alt="バックアップ" title="バックアップ" /></a> <a href="https://bc-cafe.net:443/bcwiki.old/index.php?PukiWiki%2F1.4%2FManual%2FPlugin"><img src="image/reload.png" width="20" height="20" alt="リロード" title="リロード" /></a> &nbsp;
+ <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=list"><img src="image/list.png" width="20" height="20" alt="一覧" title="一覧" /></a> <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=search"><img src="image/search.png" width="20" height="20" alt="単語検索" title="単語検索" /></a> <a href="https://bc-cafe.net:443/bcwiki.old/index.php?RecentChanges"><img src="image/recentchanges.png" width="20" height="20" alt="最終更新" title="最終更新" /></a> &nbsp; <a href="https://bc-cafe.net:443/bcwiki.old/index.php?Help"><img src="image/help.png" width="20" height="20" alt="ヘルプ" title="ヘルプ" /></a> &nbsp; <a href="https://bc-cafe.net:443/bcwiki.old/index.php?cmd=rss&amp;ver=1.0"><img src="image/rss.png" width="36" height="14" alt="最終更新のRSS" title="最終更新のRSS" /></a></div>
+
+<div id="lastmodified">Last-modified: 2006-08-20 (日) 01:52:40  (7315d)</div>
+
+
+<div id="footer">
+ Site admin: <a href="http://bc-cafe.net/">kirika</a><p />
+ <strong>PukiWiki 1.4.7</strong> Copyright &copy; 2001-2006 <a href="http://pukiwiki.sourceforge.jp/">PukiWiki Developers Team</a>. License is <a href="http://www.gnu.org/licenses/gpl.html">GPL</a>.<br /> Based on "PukiWiki" 1.3 by <a href="http://factage.com/yu-ji/">yu-ji</a>.
+ Powered by PHP 5.2.17. HTML convert time: 0.012 sec.
+</div>
+
+</body>
+</html>
