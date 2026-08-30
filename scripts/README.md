@@ -73,3 +73,11 @@ python3 scripts/place_convert.py --convert /tmp/stage/_placed.txt
 python3 scripts/fix_links.py --apply && python3 scripts/place_convert.py --relink
 python3 scripts/audit_full.py                                 # 検証
 ```
+
+## wp/ (WordPress 移築の実装プローブ)
+
+- **wp/md_convert_probe.py `<N>` [seed]** — 本文 HTML→Markdown 変換の実現性プローブ。ブラウザ等価
+  preclean(bogus comment・裸の `<`・フォーム除去)と**無損失不変量チェック**(タグ・空白・山括弧除去
+  +NFC の完全一致)を実装。本実装 body_convert.py の手本。実測: 800×3 シードで合格 75〜76%。
+- **wp/kansou_parse_probe.py** — ~ts/kansou の MiniBBS スナップショット(log/res)の構造化パース
+  プローブ。実測: log 97%・res 100%、log∪res 重複排除で約 3,978 投稿。boards_build.py の手本。
