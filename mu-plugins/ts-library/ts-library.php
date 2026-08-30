@@ -23,6 +23,7 @@ final class TS_Library {
         add_action('wp_head', [self::class, 'noindex_boards'], 1);
         add_action('pre_get_posts', [self::class, 'front_page_query']);
         add_action('template_redirect', [self::class, 'nocache_home']);
+        add_action('pre_get_posts', [self::class, 'archive_query']);
         add_filter('render_block_core/heading', [self::class, 'home_heading'], 10, 2);
         add_filter('render_block_core/navigation-link', [self::class, 'drop_placeholder_nav'], 10, 2);
         add_filter('render_block_core/paragraph', [self::class, 'drop_empty_meta_row'], 10, 2);
@@ -71,6 +72,21 @@ final class TS_Library {
     /** トップはキャッシュさせない — 前段 nginx がシャッフルを固定しないように */
     public static function nocache_home(): void {
         if (is_home() && !is_admin()) nocache_headers();
+    }
+
+    /** 書庫 (taxonomy アーカイブ) は作品単位・発表順で。検索は ts の各型を対象に */
+    public static function archive_query($q): void {
+        if (is_admin() || !$q->is_main_query()) return;
+        if ($q->is_tax(['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world'])) {
+            $q->set('post_type', 'ts_work');
+            $q->set('post_parent', 0);      // 話 (子投稿) でなく作品を並べる
+            $q->set('posts_per_page', 60);
+            $q->set('orderby', 'date');
+            $q->set('order', 'ASC');        // 発表順
+        }
+        if ($q->is_search()) {
+            $q->set('post_type', ['ts_work', 'ts_doc', 'ts_dojo']);
+        }
     }
 
     public static function register(): void {

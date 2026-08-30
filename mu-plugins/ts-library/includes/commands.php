@@ -310,10 +310,22 @@ class TS_Command {
         }
 
         $done = 0;
+        $parent_terms = []; // 連載の親 work へ子の term を合併して付ける (書庫に連載を出すため)
         foreach ($episodes as $ep) {
             $wslug = $ep2work[$ep['episode_id']] ?? null;
             if ($only_author && !isset($work_ids[$wslug])) continue;
             if ($limit && $done >= $limit) break;
+            if (!$dry && $wslug !== null && !isset($single_work[$wslug])) {
+                foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$f, $tax]) {
+                    foreach ($this->term_ids($tax, $ep[$f] ?? []) as $tid) $parent_terms[$wslug][$tax][$tid] = 1;
+                }
+                foreach ($this->term_ids('ts_world', $this->ep_worlds[$ep['episode_id']] ?? []) as $tid) {
+                    $parent_terms[$wslug]['ts_world'][$tid] = 1;
+                }
+                foreach ($this->term_ids('ts_corpus', [$ep['corpus']]) as $tid) {
+                    $parent_terms[$wslug]['ts_corpus'][$tid] = 1;
+                }
+            }
             // 作者 term は作品の author_slug からのみ付く。kansou_slug は板の slug であって
             // 作者ではない (共有世界板で別人になる — 実測 (C)) ので、メタに置くだけ
             $author = $wslug !== null ? ($work_author[$wslug] ?? '') : '';
@@ -327,6 +339,14 @@ class TS_Command {
             $this->upsert_episode($ep, $parent_id, $author, $slugs[$ep['episode_id']] ?? '',
                 $ep_order[$ep['episode_id']] ?? 0, $bodies, $dry, $overwrite_manual, $n, $manual);
             $done++;
+        }
+
+        foreach ($parent_terms as $wslug => $taxes) {
+            $pid = $work_ids[$wslug] ?? null;
+            if (!$pid) continue;
+            foreach ($taxes as $tax => $ids) {
+                wp_set_object_terms($pid, array_map('intval', array_keys($ids)), $tax);
+            }
         }
 
         // 追跡: いま投入した catalog のコミット
@@ -566,6 +586,28 @@ class TS_Command {
             foreach ($this->ep_worlds[$ep['episode_id']] ?? [] as $v) if (isset($vocab['ts_world'][$v])) $uniq[$v] = 1;
             $expect['ts_world'] += count($uniq);
         }
+        // 連載の親 work への合併付与ぶん (import の $parent_terms と同じ計算)
+        $parent_expect = [];
+        foreach ($episodes as $ep) {
+            $w = $ep2work[$ep['episode_id']] ?? null;
+            if ($w === null || isset($single_work[$w])) continue;
+            foreach ([['genre', 'ts_genre'], ['type', 'ts_type'], ['keywords', 'ts_keyword']] as [$f, $tax]) {
+                foreach ((array) ($ep[$f] ?? []) as $v) {
+                    $s = $this->name2slug[$tax][$v] ?? null;
+                    if ($s !== null && isset($vocab[$tax][$s])) $parent_expect[$w][$tax][$s] = 1;
+                }
+            }
+            foreach ($this->ep_worlds[$ep['episode_id']] ?? [] as $v) {
+                if (isset($vocab['ts_world'][$v])) $parent_expect[$w]['ts_world'][$v] = 1;
+            }
+            if (!empty($ep['corpus']) && isset($vocab['ts_corpus'][$this->name2slug['ts_corpus'][$ep['corpus']] ?? ''])) {
+                $parent_expect[$w]['ts_corpus'][$this->name2slug['ts_corpus'][$ep['corpus']]] = 1;
+            }
+        }
+        foreach ($parent_expect as $w => $taxes) {
+            foreach ($taxes as $tax => $set) $expect[$tax] += count($set);
+        }
+
         $actual = array_fill_keys(self::TAXES, 0);
         $rows = $wpdb->get_results($wpdb->prepare(
             "SELECT tt.taxonomy, COUNT(*) c FROM {$wpdb->term_relationships} tr
