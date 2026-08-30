@@ -24,7 +24,7 @@ class TS_Command {
     private const TAXES = ['ts_author', 'ts_genre', 'ts_type', 'ts_keyword', 'ts_world', 'ts_corpus'];
 
     /** 割当ロジックを変えたら上げる (既存投稿が hash 不一致になり、reset なしでも収束し直す) */
-    private const HASH_VER = 'v3';
+    private const HASH_VER = 'v4'; // v4: menu_order (話順) を書くようになった
 
     /** authors.json に載らない擬似作者 (works.jsonl の author_slug に現れる)。sync-terms が term を作る */
     private const PSEUDO_AUTHORS = ['unattributed' => '作者不詳', 'series-index' => '（シリーズ目録）'];
@@ -76,16 +76,18 @@ class TS_Command {
 
     /** works.jsonl の索引: [episode_id→work_slug, 単発 work の集合, work_slug→author_slug] */
     private function index_works($works) {
-        $ep2work = []; $single = []; $author = [];
+        $ep2work = []; $single = []; $author = []; $order = [];
         foreach ($works as $w) {
+            $i = 0;
             foreach ($w['episodes'] as $e) {
                 $eid = is_array($e) ? $e['episode_id'] : $e;
                 $ep2work[$eid] = $w['work_slug'];
+                $order[$eid] = ++$i; // 話順 = works.jsonl の episodes 並び (menu_order に書く)
             }
             if ((int) $w['episode_count'] === 1) $single[$w['work_slug']] = true;
             $author[$w['work_slug']] = $w['author_slug'] ?? '';
         }
-        return [$ep2work, $single, $author];
+        return [$ep2work, $single, $author, $order];
     }
 
     /** 子投稿 (話) の URL slug を決定的に割り当てる。原ファイル名の語幹 → 作品内で重複したら
@@ -298,7 +300,7 @@ class TS_Command {
         $manual = [];
 
         // works を先に (親投稿)
-        [$ep2work, $single_work, $work_author] = $this->index_works($works);
+        [$ep2work, $single_work, $work_author, $ep_order] = $this->index_works($works);
         $slugs = $this->child_slugs($episodes, $ep2work, $single_work);
 
         $work_ids = [];
@@ -323,7 +325,7 @@ class TS_Command {
             }
             $parent_id = $wslug !== null ? ($work_ids[$wslug] ?? null) : null;
             $this->upsert_episode($ep, $parent_id, $author, $slugs[$ep['episode_id']] ?? '',
-                $bodies, $dry, $overwrite_manual, $n, $manual);
+                $ep_order[$ep['episode_id']] ?? 0, $bodies, $dry, $overwrite_manual, $n, $manual);
             $done++;
         }
 
@@ -424,9 +426,10 @@ class TS_Command {
         return "<!-- wp:paragraph --><p>(本文は原本アーカイブでお読みください)</p><!-- /wp:paragraph -->";
     }
 
-    private function upsert_episode($ep, $parent_id, $author_slug, $post_name, $bodies, $dry, $ow, &$n, &$manual) {
+    private function upsert_episode($ep, $parent_id, $author_slug, $post_name, $order, $bodies, $dry, $ow, &$n, &$manual) {
         $body = $this->episode_body($ep, $bodies);
-        $hash = md5(self::HASH_VER . wp_json_encode($ep) . $post_name . ($body === null ? '' : md5($body)));
+        $hash = md5(self::HASH_VER . wp_json_encode($ep) . $post_name . $order
+            . ($body === null ? '' : md5($body)));
         $post_id = $this->find_by_meta('ts_work', '_ts_episode_id', $ep['episode_id']);
         if ($post_id && get_post_meta($post_id, '_ts_import_hash', true) === $hash) { $n['skipped']++; return; }
         if ($post_id && !$ow && $this->manually_edited($post_id)) {
@@ -441,6 +444,7 @@ class TS_Command {
         ];
         // URL slug は原ファイル名の語幹から決定的に (未指定だと題名由来のパーセントエンコードになる)
         if ($post_name !== '') $postarr['post_name'] = $post_name;
+        if ($order) $postarr['menu_order'] = $order; // 話ナビの並び順 (works.jsonl の episodes 順)
         if ($parent_id) $postarr['post_parent'] = $parent_id;
         if ($ep['date'] ?? null) $postarr['post_date'] = $ep['date'] . ' 00:00:00';
         if ($body !== null) $postarr['post_content'] = $body;
