@@ -19,6 +19,7 @@ def preclean(body):
     body = SCRIPT_RE.sub('', body)
     body = BOGUS_RE.sub('', body)
     body = FORM_RE.sub('', body)
+    body = re.sub(r'<(?![a-zA-Z/!])', '&lt;', body)  # stray '<' is text (browser-equivalent)
     return body
 BODY_RE = re.compile(r'<body[^>]*>(.*?)</body>', re.S | re.I)
 KNOWN_INLINE = re.compile(r'^(br|b|strong|i|em|font[^>]*|span[^>]*|center|div[^>]*|p[^>]*|hr[^>]*|a[^>]*|img[^>]*|ruby|rb|rt|rp|small|big|u|s|strike|blink|marquee[^>]*|body[^>]*|html|head|title|meta[^>]*|link[^>]*|!doctype[^>]*|blockquote[^>]*|h[1-6][^>]*|basefont[^>]*|tt|pre|dd|dl|dt|ul|ol|li|nobr|wbr|sup|sub|address|caption)$', re.I)
@@ -27,7 +28,7 @@ PUNCT_END = tuple('。！？」』…―‐-!?.）)]々〉》』】♪☆★ 　
 def normalize_chars(s):
     s = html.unescape(html.unescape(s))
     s = TAG_RE.sub('', s)
-    s = ''.join(ch for ch in s if not ch.isspace())
+    s = ''.join(ch for ch in s if not ch.isspace() and ch not in '<>')
     return unicodedata.normalize('NFC', s)
 
 def convert(path):
@@ -45,9 +46,13 @@ def convert(path):
     txt = re.sub(r'(?i)</p\s*>', '\n\n', body)
     txt = re.sub(r'(?i)<p[^>]*>', '\n\n', txt)
     txt = re.sub(r'(?i)<br[^>]*>', '\n', txt)
-    txt = re.sub(r'(?i)<hr[^>]*>', '\n\n----\n\n', txt)
-    txt = re.sub(r'(?is)<blockquote[^>]*>(.*?)</blockquote>', lambda m2: '\n\n' + '\n'.join('> ' + l for l in TAG_RE.sub('', m2.group(1)).strip().split('\n')) + '\n\n', txt)
-    txt = re.sub(r'(?is)<h([1-6])[^>]*>(.*?)</h\1>', lambda m2: '\n\n' + '#' * int(m2.group(1)) + ' ' + TAG_RE.sub('', m2.group(2)).strip() + '\n\n', txt)
+    # sentinels (\x01...\x01) mark MD decorations we insert, so the lossless
+    # comparison can strip exactly what we added and nothing from the text
+    txt = re.sub(r'(?i)<hr[^>]*>', '\n\n\x01SEP\x01\n\n', txt)
+    txt = re.sub(r'(?is)<blockquote[^>]*>(.*?)</blockquote>',
+                 lambda m2: '\n\n' + '\n'.join('\x01Q\x01' + l for l in m2.group(1).strip().split('\n')) + '\n\n', txt)
+    txt = re.sub(r'(?is)<h([1-6])[^>]*>(.*?)</h\1>',
+                 lambda m2: f'\n\n\x01H{m2.group(1)}\x01' + TAG_RE.sub('', m2.group(2)).strip() + '\n\n', txt)
     # keep ruby/img as inline HTML, strip other tags
     keep = []
     def stash(m2):
@@ -61,7 +66,7 @@ def convert(path):
     # hardwrap detection: many mid-length lines not ending in punctuation
     content = [l for l in lines if l.strip()]
     if not content:
-        return None, 'empty', set()
+        return None, 'empty', set(), ''
     nonpunct = sum(1 for l in content if 15 <= len(l.strip()) <= 60 and not l.strip().endswith(PUNCT_END))
     hardwrap = len(content) > 30 and nonpunct / len(content) > 0.45
     if hardwrap:
@@ -86,8 +91,12 @@ def convert(path):
         else:
             if buf: paras.append('\n'.join(buf)); buf = []
     if buf: paras.append('\n'.join(buf))
-    md = '\n\n'.join(paras)
-    return md, ('hardwrap' if hardwrap else 'ok'), unknown
+    plain = '\n\n'.join(paras)
+    md = re.sub(r'\x01SEP\x01', '----', plain)
+    md = re.sub(r'\x01Q\x01', '> ', md)
+    md = re.sub(r'\x01H([1-6])\x01', lambda m2: '#' * int(m2.group(1)) + ' ', md)
+    plain = re.sub(r'\x01(?:SEP|Q|H[1-6])\x01', '', plain)
+    return md, ('hardwrap' if hardwrap else 'ok'), unknown, plain
 
 def main(n, seed=42):
     files = []
@@ -104,7 +113,7 @@ def main(n, seed=42):
     fails = []
     for fp in sample:
         try:
-            md, mode, unknown = convert(fp)
+            md, mode, unknown, plain = convert(fp)
         except Exception as e:
             stats['error'] += 1; fails.append((fp, f'exc:{e}')); continue
         if md is None:
@@ -112,7 +121,7 @@ def main(n, seed=42):
         raw0 = open(fp, encoding='utf-8').read()
         m0 = BODY_RE.search(raw0)
         orig_chars = normalize_chars(preclean(m0.group(1) if m0 else raw0))
-        conv_chars = normalize_chars(re.sub(r'(?m)^(----|#+ |> )', '', md))
+        conv_chars = normalize_chars(plain)
         if orig_chars != conv_chars:
             stats['lossless_fail'] += 1
             fails.append((os.path.relpath(fp, ROOT), f'diff {len(orig_chars)} vs {len(conv_chars)}'))
