@@ -162,6 +162,20 @@ html[data-ts-font="gothic"] .ts-reader { font-family: var(--ts-sans); }
 }
 .ts-author-links { font-size: 0.92rem; }
 
+/* ---------- さくいん ---------- */
+.ts-index-list { list-style: none; padding: 0; line-height: 2; }
+.ts-count { color: var(--ts-fg-soft); font-size: 0.85em; }
+.ts-kana-rows { font-size: 1.1rem; margin: 1rem 0; display: flex; gap: 0.8em; flex-wrap: wrap; }
+.ts-searchform { margin: 1.5rem 0; display: flex; gap: 0.5rem; }
+.ts-searchform input[type="search"] {
+  flex: 1; font: inherit; padding: 0.4rem 0.7rem; border: 1px solid var(--ts-line);
+  border-radius: 6px; background: var(--ts-bg); color: var(--ts-fg);
+}
+.ts-searchform button {
+  font: inherit; padding: 0.4rem 1rem; border: 1px solid var(--ts-accent);
+  border-radius: 6px; background: var(--ts-accent); color: var(--ts-accent-fg); cursor: pointer;
+}
+
 @media (max-width: 600px) {
   .ts-biblio dt { float: none; width: auto; }
   .ts-biblio dd { margin-left: 0; }

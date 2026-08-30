@@ -172,4 +172,5 @@ final class TS_Library {
 TS_Library::boot();
 
 require __DIR__ . '/includes/render.php';
+require __DIR__ . '/includes/indexes.php';
 require __DIR__ . '/includes/commands.php';
