@@ -1,0 +1,77 @@
+{
+ "generated_by": "scripts/wp/episode_overrides.py",
+ "rules": 3,
+ "episodes_changed": 3,
+ "episodes_already_applied": 0,
+ "applied": [
+  {
+   "key": "novel/200101/05064051/ao2.html",
+   "episode_id": "novel__200101__05064051__ao2.html",
+   "changes": [
+    {
+     "field": "kansou_slug",
+     "from": "jersey_red",
+     "to": "kohdhi"
+    }
+   ],
+   "already_applied": false,
+   "note": "lib61.html#6 の感想リンクの誤植。この 1 箇所のせいでコーディーがジャージレッドに 併合され、作者 1 名が消えて 1 話が誤帰属していた。コーディーの正は kohdhi。"
+  },
+  {
+   "key": "novel/200103/24194542/himetitle.html",
+   "episode_id": "novel__200103__24194542__himetitle.html",
+   "changes": [
+    {
+     "field": "author",
+     "from": "シェアワールド",
+     "to": null
+    },
+    {
+     "field": "entry_role",
+     "from": null,
+     "to": "series-index"
+    }
+   ],
+   "already_applied": false,
+   "note": "シリーズ目次ページ。作者不詳ではなく「目次」として扱う (entry_role=series-index)。 ts_world は感想板 himekami で付く。原本の作者欄の値は annex 側にそのまま残る。"
+  },
+  {
+   "key": "novel/200104/15172112/angels_12.html",
+   "episode_id": "novel__200104__15172112__angels_12.html",
+   "changes": [
+    {
+     "field": "kansou_slug",
+     "from": "kamikawa_ayano_",
+     "to": "kamikawa_ayano"
+    }
+   ],
+   "already_applied": false,
+   "note": "lib45.html#12 の感想リンクの誤植 (1 箇所のみ)。板 CGI の hidden log 値・板一覧・ 同シリーズ 34 話の帰属いずれも kamikawa_ayano。作者 kamikawa_ayano_ を廃して統合する。"
+  }
+ ],
+ "problems": [],
+ "episode_id_unchanged": true,
+ "selftest": [
+  {
+   "name": "episode_overrides.yml の全行が 1 話に当たる",
+   "ok": true,
+   "detail": "外れ 0 件"
+  },
+  {
+   "name": "expect (上書き前の値) が原本と一致",
+   "ok": true,
+   "detail": "不一致 []"
+  },
+  {
+   "name": "上書きできない欄を触っていない",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "name": "上書きの件数を記録",
+   "ok": true,
+   "detail": "3 行 / 実際に変わった話 3 件"
+  }
+ ],
+ "selftest_ok": true
+}

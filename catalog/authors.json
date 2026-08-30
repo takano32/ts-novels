@@ -11,6 +11,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "johdan",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_johdan.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "delayed",
     "kayo_chan"
@@ -349,6 +350,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "writerman",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_writerman.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime",
     "delayed",
@@ -508,6 +510,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mashiro_yuu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mashiro_yuu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "foster",
     "kayo_chan"
@@ -657,6 +660,7 @@
    "yomi_group": "T",
    "kansou_slug": "taika",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_taika.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -789,6 +793,7 @@
    "yomi_group": "た行",
    "kansou_slug": "sky_high",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sky_high.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "foster"
    ],
@@ -905,6 +910,7 @@
    "yomi_group": "は行",
    "kansou_slug": "baretto",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_baretto.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan",
     "utanotsuki"
@@ -1014,11 +1020,13 @@
    "slug": "shining_heaven",
    "display_name": "天爛",
    "display_variants": [
-    "天爛"
+    "天爛",
+    "天爛／絵：ムクゲさん（"
    ],
    "yomi_group": "た行",
    "kansou_slug": "shining_heaven",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_shining_heaven.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime",
     "kayo_chan"
@@ -1030,16 +1038,17 @@
    ],
    "active_links": [],
    "contact_status": "uncontacted",
-   "episode_count": 77,
+   "episode_count": 78,
    "corpora": {
     "honkan": 24,
-    "uncatalogued": 53
+    "uncatalogued": 54
    },
    "first_date": "2006-05-27",
    "last_date": "2013-05-19",
    "identified_by": {
     "board": 15,
-    "name->board": 62
+    "name->board": 62,
+    "name-only": 1
    },
    "slug_source": "kansou-board",
    "slug_status": "auto",
@@ -1120,7 +1129,8 @@
     "novel__200607__02124625__nvl__yaoma_3_2.html",
     "novel__200607__02124625__nvl__yaoma_p.html",
     "novel__200607__02124625__nvl__yume_ex1.html",
-    "novel__200607__02124625__yaoma_top.html"
+    "novel__200607__02124625__yaoma_top.html",
+    "novel__200607__02124625__nvl__yaoma_5.html"
    ]
   },
   {
@@ -1134,6 +1144,7 @@
    "yomi_group": "K",
    "kansou_slug": "kebo",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kebo.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.pluto.dti.ne.jp/~kebochin/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.pluto.dti.ne.jp/~kebochin/",
@@ -1239,6 +1250,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yamu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yamu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www16.ocn.ne.jp/~kariyado/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www16.ocn.ne.jp/~kariyado/index.html",
@@ -1339,6 +1351,7 @@
    "yomi_group": "は行",
    "kansou_slug": "horii_sinobu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_horii_sinobu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.co.jp/Milkyway-Orion/6931",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.co.jp/Milkyway-Orion/6931",
@@ -1431,6 +1444,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "izumiya",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_izumiya.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "utanotsuki"
    ],
@@ -1521,6 +1535,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ohharano",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ohharano.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://lopezroom.hp.infoseek.co.jp/EinHobby.htm",
    "homepage_wayback": "https://web.archive.org/web/2010/http://lopezroom.hp.infoseek.co.jp/EinHobby.htm",
@@ -1607,6 +1622,7 @@
    "yomi_group": "は行",
    "kansou_slug": "hotaru",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hotaru.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "delayed"
    ],
@@ -1690,6 +1706,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ichirou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ichirou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "himekami"
    ],
@@ -1765,6 +1782,88 @@
    ]
   },
   {
+   "slug": "ryuhju",
+   "display_name": "龍酒",
+   "display_variants": [
+    "龍酒",
+    "作：龍酒　原案：超！海老寿司",
+    "龍酒 原案：超！海老寿司"
+   ],
+   "yomi_group": "ら行",
+   "kansou_slug": "ryuhju",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ryuhju.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 47,
+   "corpora": {
+    "honkan": 39,
+    "uncatalogued": 8
+   },
+   "first_date": "2001-12-01",
+   "last_date": "2008-05-29",
+   "identified_by": {
+    "board": 39,
+    "name->board": 6,
+    "name-only": 2
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200112__18230553__novel_4.html",
+    "novel__200112__18230553__novel_3.html",
+    "novel__200112__18230553__novel_2.html",
+    "novel__200112__18230553__murder.html",
+    "novel__200112__18230553__ekaki_2.html",
+    "novel__200112__18230553__ekaki_1.html",
+    "novel__200112__18230553__bonzin.html",
+    "novel__200112__18230553__kato2.html",
+    "novel__200112__18230553__novel.html",
+    "novel__200112__18230553__devil.htm",
+    "novel__200112__18230553__kato.html",
+    "novel__200112__18230553__killer.html",
+    "novel__200112__18230553__moon.html",
+    "novel__200112__18230553__akane.html",
+    "novel__200112__18230553__misaki.html",
+    "novel__200112__18230553__the_kidnapping.html",
+    "novel__200112__18230553__the_god.html",
+    "novel__200112__18230553__the_dark.html",
+    "novel__200112__18230553__the_third_day.html",
+    "novel__200112__18230553__the_ghost.html",
+    "novel__200112__18230553__the_writer.html",
+    "novel__200112__18230553__over_heat8.html",
+    "novel__200112__18230553__sake_07.html",
+    "novel__200112__18230553__sake_06.html",
+    "novel__200112__18230553__over_heat7.html",
+    "novel__200112__18230553__sake_05.html",
+    "novel__200112__18230553__over_heat6.html",
+    "novel__200112__18230553__over_heat5.html",
+    "novel__200112__18230553__over_heat4.html",
+    "novel__200112__18230553__sake_04.html",
+    "novel__200112__18230553__sake_03.html",
+    "novel__200112__18230553__over_heat3.html",
+    "novel__200112__18230553__stolen.html",
+    "novel__200112__18230553__sake_02.html",
+    "novel__200112__18230553__t_m2.html",
+    "novel__200112__18230553__t_m1.html",
+    "novel__200112__18230553__over_heat2.html",
+    "novel__200112__18230553__sake_01.html",
+    "novel__200112__18230553__over_heat1.html",
+    "novel__200112__18230553__ekaki.htm",
+    "novel__200112__18230553__over_heat.html",
+    "novel__200201__03215118__sake.htm",
+    "novel__200201__03215118__sake_02.html",
+    "novel__200201__03215118__sake_03.html",
+    "novel__200201__03215118__sake_04.html",
+    "novel__200202__17162237__t_m1.html",
+    "novel__200202__17162237__t_m2.html"
+   ]
+  },
+  {
    "slug": "kotobuki_hikaru_ndcss",
    "display_name": "ことぶきひかる",
    "display_variants": [
@@ -1777,6 +1876,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kotobuki_hikaru_ndcss",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kotobuki_hikaru_ndcss.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www2s.biglobe.ne.jp/~ndcss/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www2s.biglobe.ne.jp/~ndcss/",
@@ -1859,6 +1959,7 @@
    "yomi_group": "M",
    "kansou_slug": "mondo",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mondo.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime",
     "delayed",
@@ -1931,80 +2032,158 @@
    ]
   },
   {
-   "slug": "ryuhju",
-   "display_name": "龍酒",
+   "slug": "aki_michiru",
+   "display_name": "亜希みちる",
    "display_variants": [
-    "龍酒",
-    "作：龍酒　原案：超！海老寿司"
+    "亜希みちる",
+    "亜希みちる＆こうけい"
    ],
-   "yomi_group": "ら行",
-   "kansou_slug": "ryuhju",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ryuhju.cgi",
-   "shared_boards": [],
+   "yomi_group": "あ行",
+   "kansou_slug": "aki_michiru",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_aki_michiru.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "himekami"
+   ],
    "homepage": null,
    "homepage_wayback": null,
    "homepage_all": [],
    "active_links": [],
    "contact_status": "uncontacted",
-   "episode_count": 45,
+   "episode_count": 40,
    "corpora": {
-    "honkan": 39,
-    "uncatalogued": 6
+    "honkan": 33,
+    "uncatalogued": 7
    },
-   "first_date": "2001-12-01",
-   "last_date": "2008-05-29",
+   "first_date": "2001-03-01",
+   "last_date": "2001-08-12",
    "identified_by": {
-    "board": 39,
-    "name->board": 6
+    "board": 9,
+    "name->board": 30,
+    "name-only": 1
    },
    "slug_source": "kansou-board",
    "slug_status": "auto",
    "episodes": [
-    "novel__200112__18230553__novel_4.html",
-    "novel__200112__18230553__novel_3.html",
-    "novel__200112__18230553__novel_2.html",
-    "novel__200112__18230553__murder.html",
-    "novel__200112__18230553__ekaki_2.html",
-    "novel__200112__18230553__ekaki_1.html",
-    "novel__200112__18230553__bonzin.html",
-    "novel__200112__18230553__kato2.html",
-    "novel__200112__18230553__novel.html",
-    "novel__200112__18230553__devil.htm",
-    "novel__200112__18230553__kato.html",
-    "novel__200112__18230553__killer.html",
-    "novel__200112__18230553__moon.html",
-    "novel__200112__18230553__akane.html",
-    "novel__200112__18230553__misaki.html",
-    "novel__200112__18230553__the_kidnapping.html",
-    "novel__200112__18230553__the_god.html",
-    "novel__200112__18230553__the_dark.html",
-    "novel__200112__18230553__the_third_day.html",
-    "novel__200112__18230553__the_ghost.html",
-    "novel__200112__18230553__the_writer.html",
-    "novel__200112__18230553__over_heat8.html",
-    "novel__200112__18230553__sake_07.html",
-    "novel__200112__18230553__sake_06.html",
-    "novel__200112__18230553__over_heat7.html",
-    "novel__200112__18230553__sake_05.html",
-    "novel__200112__18230553__over_heat6.html",
-    "novel__200112__18230553__over_heat5.html",
-    "novel__200112__18230553__over_heat4.html",
-    "novel__200112__18230553__sake_04.html",
-    "novel__200112__18230553__sake_03.html",
-    "novel__200112__18230553__over_heat3.html",
-    "novel__200112__18230553__stolen.html",
-    "novel__200112__18230553__sake_02.html",
-    "novel__200112__18230553__t_m2.html",
-    "novel__200112__18230553__t_m1.html",
-    "novel__200112__18230553__over_heat2.html",
-    "novel__200112__18230553__sake_01.html",
-    "novel__200112__18230553__over_heat1.html",
-    "novel__200112__18230553__ekaki.htm",
-    "novel__200112__18230553__over_heat.html",
-    "novel__200201__03215118__sake.htm",
-    "novel__200201__03215118__sake_02.html",
-    "novel__200201__03215118__sake_03.html",
-    "novel__200201__03215118__sake_04.html"
+    "novel__200108__12162647__picture.html",
+    "novel__200106__16231634__bees4.html",
+    "novel__200107__18222712__shinigeshou.html",
+    "novel__200103__24194542__himegami_sp_1.html",
+    "novel__200107__11231032__akaitori.html",
+    "novel__200106__16231634__bees3.html",
+    "novel__200106__28212518__yuko2.html",
+    "novel__200106__28212518__yuko1.html",
+    "novel__200103__24194542__himegami_x_17.html",
+    "novel__200103__24194542__himegami_x_16.html",
+    "novel__200103__24194542__himegami_16.html",
+    "novel__200106__16231634__bees2.html",
+    "novel__200103__24194542__himegami_x_15.html",
+    "novel__200103__24194542__himegami_14.html",
+    "novel__200103__24194542__himegami_x_13.html",
+    "novel__200106__16231634__bees.html",
+    "novel__200103__24194542__himegami_12.html",
+    "novel__200103__24194542__himegami_10.html",
+    "novel__200103__24194542__himegami_x_8.html",
+    "novel__200103__24194542__himegami_x_5.html",
+    "novel__200103__24194542__himegami_7.html",
+    "novel__200103__24194542__himegami_x_4.html",
+    "novel__200103__24194542__himegami_6.html",
+    "novel__200103__24194542__himegami_x_3.html+20010423",
+    "novel__200103__24194542__himegami_5.html",
+    "novel__200103__24194542__himegami_x_2.html",
+    "novel__200103__24194542__himegami_4.html",
+    "novel__200103__24194542__himegami_2.html",
+    "novel__200103__24194542__himegami_1.html",
+    "novel__200103__24194542__himegami_x_3.html+20010330",
+    "novel__200103__24194542__himegami2.html",
+    "novel__200103__24194542__himegami.html",
+    "novel__200103__24194542__hime_settei.html",
+    "novel__200103__24194542__himegami_x_1.html",
+    "novel__200104__23002707__himegami_x_3.html",
+    "novel__200104__26234914__himegami_6.html",
+    "novel__200104__26234914__himegami_7.html",
+    "novel__200104__27004517__himegami_x_4.html",
+    "novel__200104__27004517__himegami_x_5.html",
+    "novel__200103__24194542__himegami_15.htm"
+   ]
+  },
+  {
+   "slug": "dekoi",
+   "display_name": "DEKOI",
+   "display_variants": [
+    "DEKOI",
+    "作：Datta　原案：DEKOI",
+    "DEKOI＆Datta",
+    "DEKOI（協力　DATTA）"
+   ],
+   "yomi_group": "D",
+   "kansou_slug": "dekoi",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_dekoi.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "kayo_chan",
+    "relay_novel"
+   ],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 40,
+   "corpora": {
+    "honkan": 39,
+    "uncatalogued": 1
+   },
+   "first_date": "2003-03-01",
+   "last_date": "2004-12-09",
+   "identified_by": {
+    "board": 37,
+    "name->board": 2,
+    "name-only": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200303__17233027__hunter29.htm",
+    "novel__200303__17233027__akuma5.htm",
+    "novel__200303__17233027__akuma4.htm",
+    "novel__200303__17233027__hunter28.htm",
+    "novel__200303__17233027__akuma3.htm",
+    "novel__200303__17233027__hunter27.htm",
+    "novel__200303__17233027__akuma2-2.html",
+    "novel__200303__17233027__akuma2-1.html",
+    "novel__200303__17233027__hunter26.htm",
+    "novel__200303__17233027__akuma.html",
+    "novel__200303__17233027__brother.htm",
+    "novel__200303__17233027__hunter25.html",
+    "novel__200306__11201931__omise01.htm",
+    "novel__200303__17233027__hunter24.html",
+    "novel__kayo_chan__extra__kayo_ex24.htm",
+    "novel__200303__17233027__hunter23.htm",
+    "novel__200303__17233027__hunter22.htm",
+    "novel__200303__17233027__hunter21.htm",
+    "novel__200303__17233027__hunter20.html",
+    "novel__200303__17233027__hunter19.html",
+    "novel__200303__17233027__hunter18.html",
+    "novel__200303__17233027__hunter17.html",
+    "novel__200303__17233027__hunter16.htm",
+    "novel__200303__17233027__hunter15.html",
+    "novel__200303__17233027__hunter14.htm",
+    "novel__200303__17233027__hunter13.htm",
+    "novel__200303__17233027__hunter12.htm",
+    "novel__200303__17233027__hunter11.html",
+    "novel__200303__17233027__hunter10.htm",
+    "novel__200303__17233027__hunter09.html",
+    "novel__200303__17233027__hunter08.html",
+    "novel__200303__17233027__hunter07.htm",
+    "novel__200303__17233027__hunter06.htm",
+    "novel__200303__17233027__hunter05.html",
+    "novel__200303__17233027__hunter04.htm",
+    "novel__200303__17233027__hunter03.html",
+    "novel__200303__17233027__hunter02.html",
+    "novel__200303__17233027__hunter01.html",
+    "novel__200303__17233027__b_track.htm",
+    "novel__200305__04184146__relay3.html"
    ]
   },
   {
@@ -2017,6 +2196,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "miyashita_shinobu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_miyashita_shinobu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www10.ocn.ne.jp/~mdfal/index.htm",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www10.ocn.ne.jp/~mdfal/index.htm",
@@ -2083,152 +2263,6 @@
    ]
   },
   {
-   "slug": "aki_michiru",
-   "display_name": "亜希みちる",
-   "display_variants": [
-    "亜希みちる"
-   ],
-   "yomi_group": "あ行",
-   "kansou_slug": "aki_michiru",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_aki_michiru.cgi",
-   "shared_boards": [
-    "himekami"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 39,
-   "corpora": {
-    "honkan": 32,
-    "uncatalogued": 7
-   },
-   "first_date": "2001-03-01",
-   "last_date": "2001-08-12",
-   "identified_by": {
-    "board": 9,
-    "name->board": 30
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200108__12162647__picture.html",
-    "novel__200106__16231634__bees4.html",
-    "novel__200107__18222712__shinigeshou.html",
-    "novel__200103__24194542__himegami_sp_1.html",
-    "novel__200107__11231032__akaitori.html",
-    "novel__200106__16231634__bees3.html",
-    "novel__200106__28212518__yuko2.html",
-    "novel__200106__28212518__yuko1.html",
-    "novel__200103__24194542__himegami_x_17.html",
-    "novel__200103__24194542__himegami_x_16.html",
-    "novel__200103__24194542__himegami_16.html",
-    "novel__200106__16231634__bees2.html",
-    "novel__200103__24194542__himegami_x_15.html",
-    "novel__200103__24194542__himegami_14.html",
-    "novel__200103__24194542__himegami_x_13.html",
-    "novel__200106__16231634__bees.html",
-    "novel__200103__24194542__himegami_12.html",
-    "novel__200103__24194542__himegami_10.html",
-    "novel__200103__24194542__himegami_x_8.html",
-    "novel__200103__24194542__himegami_x_5.html",
-    "novel__200103__24194542__himegami_7.html",
-    "novel__200103__24194542__himegami_x_4.html",
-    "novel__200103__24194542__himegami_6.html",
-    "novel__200103__24194542__himegami_x_3.html+20010423",
-    "novel__200103__24194542__himegami_5.html",
-    "novel__200103__24194542__himegami_x_2.html",
-    "novel__200103__24194542__himegami_4.html",
-    "novel__200103__24194542__himegami_2.html",
-    "novel__200103__24194542__himegami_1.html",
-    "novel__200103__24194542__himegami_x_3.html+20010330",
-    "novel__200103__24194542__himegami2.html",
-    "novel__200103__24194542__himegami.html",
-    "novel__200103__24194542__hime_settei.html",
-    "novel__200103__24194542__himegami_x_1.html",
-    "novel__200104__23002707__himegami_x_3.html",
-    "novel__200104__26234914__himegami_6.html",
-    "novel__200104__26234914__himegami_7.html",
-    "novel__200104__27004517__himegami_x_4.html",
-    "novel__200104__27004517__himegami_x_5.html"
-   ]
-  },
-  {
-   "slug": "dekoi",
-   "display_name": "DEKOI",
-   "display_variants": [
-    "DEKOI",
-    "作：Datta　原案：DEKOI",
-    "DEKOI＆Datta"
-   ],
-   "yomi_group": "D",
-   "kansou_slug": "dekoi",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_dekoi.cgi",
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 39,
-   "corpora": {
-    "honkan": 38,
-    "uncatalogued": 1
-   },
-   "first_date": "2003-03-01",
-   "last_date": "2004-12-09",
-   "identified_by": {
-    "board": 37,
-    "name->board": 2
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200303__17233027__hunter29.htm",
-    "novel__200303__17233027__akuma5.htm",
-    "novel__200303__17233027__akuma4.htm",
-    "novel__200303__17233027__hunter28.htm",
-    "novel__200303__17233027__akuma3.htm",
-    "novel__200303__17233027__hunter27.htm",
-    "novel__200303__17233027__akuma2-2.html",
-    "novel__200303__17233027__akuma2-1.html",
-    "novel__200303__17233027__hunter26.htm",
-    "novel__200303__17233027__akuma.html",
-    "novel__200303__17233027__brother.htm",
-    "novel__200303__17233027__hunter25.html",
-    "novel__200306__11201931__omise01.htm",
-    "novel__200303__17233027__hunter24.html",
-    "novel__kayo_chan__extra__kayo_ex24.htm",
-    "novel__200303__17233027__hunter23.htm",
-    "novel__200303__17233027__hunter22.htm",
-    "novel__200303__17233027__hunter21.htm",
-    "novel__200303__17233027__hunter20.html",
-    "novel__200303__17233027__hunter19.html",
-    "novel__200303__17233027__hunter18.html",
-    "novel__200303__17233027__hunter17.html",
-    "novel__200303__17233027__hunter16.htm",
-    "novel__200303__17233027__hunter15.html",
-    "novel__200303__17233027__hunter14.htm",
-    "novel__200303__17233027__hunter13.htm",
-    "novel__200303__17233027__hunter12.htm",
-    "novel__200303__17233027__hunter11.html",
-    "novel__200303__17233027__hunter10.htm",
-    "novel__200303__17233027__hunter09.html",
-    "novel__200303__17233027__hunter08.html",
-    "novel__200303__17233027__hunter07.htm",
-    "novel__200303__17233027__hunter06.htm",
-    "novel__200303__17233027__hunter05.html",
-    "novel__200303__17233027__hunter04.htm",
-    "novel__200303__17233027__hunter03.html",
-    "novel__200303__17233027__hunter02.html",
-    "novel__200303__17233027__hunter01.html",
-    "novel__200303__17233027__b_track.htm"
-   ]
-  },
-  {
    "slug": "yaji",
    "display_name": "矢治浩平",
    "display_variants": [
@@ -2238,6 +2272,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yaji",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yaji.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -2317,6 +2352,7 @@
    "yomi_group": "W",
    "kansou_slug": "wataru1024",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_wataru1024.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -2386,6 +2422,7 @@
    "yomi_group": "K",
    "kansou_slug": "kagerou6",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kagerou6.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -2445,6 +2482,78 @@
    ]
   },
   {
+   "slug": "kamikawa_ayano",
+   "display_name": "神川綾乃",
+   "display_variants": [
+    "神川綾乃"
+   ],
+   "yomi_group": "か行",
+   "kansou_slug": "kamikawa_ayano",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kamikawa_ayano.cgi",
+   "kansou_slug_alt": [
+    "kamikawa_ayano_"
+   ],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": "http://www.studio-horizon.org/",
+   "homepage_wayback": "https://web.archive.org/web/2010/http://www.studio-horizon.org/",
+   "homepage_all": [
+    "http://www.studio-horizon.org/"
+   ],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 35,
+   "corpora": {
+    "honkan": 35
+   },
+   "first_date": "2001-04-15",
+   "last_date": "2005-11-20",
+   "identified_by": {
+    "board": 31,
+    "name->board": 4
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200104__15172112__angels_19.html",
+    "novel__kayo_chan__kayo_chan102.htm",
+    "novel__200104__15172112__angels_18.html",
+    "novel__200104__15172112__angels_17.html",
+    "novel__kayo_chan__kayo_chan99.html",
+    "novel__200104__15172112__angels_16.html",
+    "novel__200104__15172112__angels_15.html",
+    "novel__200104__15172112__angels_14.html",
+    "novel__200104__15172112__watashinoomoi_01.html",
+    "novel__kayo_chan__kayo_chan81.html",
+    "novel__200104__15172112__angels_13.html",
+    "novel__200104__15172112__angels_12.html",
+    "novel__200104__15172112__angels_ex1.html",
+    "novel__200104__15172112__angels_11.html",
+    "novel__200104__15172112__angels_10_b.html",
+    "novel__200104__15172112__angels_10_a.html",
+    "novel__200104__15172112__angels_09.html",
+    "novel__200104__15172112__angels_08.html",
+    "novel__200104__15172112__angels_07_b.html",
+    "novel__200104__15172112__angels_07_a.html",
+    "novel__200104__15172112__angels_06.html",
+    "novel__200104__15172112__angels_05.html",
+    "novel__200104__15172112__angels_04.html",
+    "novel__200104__15172112__angels_03.html",
+    "novel__200104__15172112__angels_02_b.html",
+    "novel__200104__15172112__angels_02_a.html",
+    "novel__200104__15172112__angels_01.html",
+    "novel__200104__15172112__angels_op.html",
+    "novel__kayo_chan__kayo_chan66.html",
+    "novel__200104__15172112__t_of_myself_rmx_04.html",
+    "novel__200104__15172112__t_of_myself_rmx_03.html",
+    "novel__200104__15172112__t_of_myself_rmx_02.html",
+    "novel__200104__15172112__t_of_myself_rmx_01.html",
+    "novel__200104__15172112__truth_of_myself_02.html",
+    "novel__200104__15172112__truth_of_myself_01.html"
+   ]
+  },
+  {
    "slug": "kawanegi",
    "display_name": "かわねぎ",
    "display_variants": [
@@ -2453,6 +2562,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kawanegi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kawanegi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "foster",
     "kayo_chan"
@@ -2525,6 +2635,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "omochibako",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_omochibako.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "utanotsuki"
    ],
@@ -2597,6 +2708,7 @@
    "yomi_group": "T",
    "kansou_slug": "toshi9",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_toshi9.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime",
     "delayed"
@@ -2658,74 +2770,6 @@
    ]
   },
   {
-   "slug": "kamikawa_ayano",
-   "display_name": "神川綾乃",
-   "display_variants": [
-    "神川綾乃"
-   ],
-   "yomi_group": "か行",
-   "kansou_slug": "kamikawa_ayano",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kamikawa_ayano.cgi",
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": "http://www.studio-horizon.org/",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www.studio-horizon.org/",
-   "homepage_all": [
-    "http://www.studio-horizon.org/"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 34,
-   "corpora": {
-    "honkan": 34
-   },
-   "first_date": "2001-04-15",
-   "last_date": "2005-11-20",
-   "identified_by": {
-    "board": 30,
-    "name->board": 4
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200104__15172112__angels_19.html",
-    "novel__kayo_chan__kayo_chan102.htm",
-    "novel__200104__15172112__angels_18.html",
-    "novel__200104__15172112__angels_17.html",
-    "novel__kayo_chan__kayo_chan99.html",
-    "novel__200104__15172112__angels_16.html",
-    "novel__200104__15172112__angels_15.html",
-    "novel__200104__15172112__angels_14.html",
-    "novel__200104__15172112__watashinoomoi_01.html",
-    "novel__kayo_chan__kayo_chan81.html",
-    "novel__200104__15172112__angels_13.html",
-    "novel__200104__15172112__angels_ex1.html",
-    "novel__200104__15172112__angels_11.html",
-    "novel__200104__15172112__angels_10_b.html",
-    "novel__200104__15172112__angels_10_a.html",
-    "novel__200104__15172112__angels_09.html",
-    "novel__200104__15172112__angels_08.html",
-    "novel__200104__15172112__angels_07_b.html",
-    "novel__200104__15172112__angels_07_a.html",
-    "novel__200104__15172112__angels_06.html",
-    "novel__200104__15172112__angels_05.html",
-    "novel__200104__15172112__angels_04.html",
-    "novel__200104__15172112__angels_03.html",
-    "novel__200104__15172112__angels_02_b.html",
-    "novel__200104__15172112__angels_02_a.html",
-    "novel__200104__15172112__angels_01.html",
-    "novel__200104__15172112__angels_op.html",
-    "novel__kayo_chan__kayo_chan66.html",
-    "novel__200104__15172112__t_of_myself_rmx_04.html",
-    "novel__200104__15172112__t_of_myself_rmx_03.html",
-    "novel__200104__15172112__t_of_myself_rmx_02.html",
-    "novel__200104__15172112__t_of_myself_rmx_01.html",
-    "novel__200104__15172112__truth_of_myself_02.html",
-    "novel__200104__15172112__truth_of_myself_01.html"
-   ]
-  },
-  {
    "slug": "yggdrasil",
    "display_name": "ゆぐどらしる",
    "display_variants": [
@@ -2735,6 +2779,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yggdrasil",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yggdrasil.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.jp/starwars12ship/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.jp/starwars12ship/",
@@ -2800,6 +2845,7 @@
    "yomi_group": "か行",
    "kansou_slug": "garyosei",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_garyosei.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -2856,6 +2902,75 @@
    ]
   },
   {
+   "slug": "yuasano_miki",
+   "display_name": "ゆあさのみき",
+   "display_variants": [
+    "ゆあさのみき",
+    "ゆあさのみき 画：もぐたん様"
+   ],
+   "yomi_group": "や行",
+   "kansou_slug": "yuasano_miki",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yuasano_miki.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": "http://www05.u-page.so-net.ne.jp/xb3/y-miki/",
+   "homepage_wayback": "https://web.archive.org/web/2010/http://www05.u-page.so-net.ne.jp/xb3/y-miki/",
+   "homepage_all": [
+    "http://www05.u-page.so-net.ne.jp/xb3/y-miki/"
+   ],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 33,
+   "corpora": {
+    "honkan": 31,
+    "uncatalogued": 2
+   },
+   "first_date": "2001-01-02",
+   "last_date": "2002-05-03",
+   "identified_by": {
+    "board": 31,
+    "name->board": 1,
+    "name-only": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200101__02044830__revival_girl26.html",
+    "novel__200101__02044830__revival_girl25.htm",
+    "novel__200101__02044830__revival_girl_s3.htm",
+    "novel__200101__02044830__revival_girl24.htm",
+    "novel__200101__02044830__revival_girl23.htm",
+    "novel__200101__02044830__revival_girl22.htm",
+    "novel__200101__02044830__revival_girl21.html",
+    "novel__200101__02044830__revival_girl20.html",
+    "novel__200101__02044830__revival_girl19.html",
+    "novel__200101__02044830__revival_girl18.htm",
+    "novel__200101__02044830__revival_girl_s2.html",
+    "novel__200101__02044830__revival_girl_s1.html",
+    "novel__200101__02044830__revival_girl17.html",
+    "novel__200101__02044830__revival_girl16.html",
+    "novel__200101__02044830__revival_girl15.html",
+    "novel__200101__02044830__6th_layer1.htm",
+    "novel__200101__02044830__revival_girl14.html",
+    "novel__200101__02044830__revival_girl13.html",
+    "novel__200101__02044830__revival_girl12.html",
+    "novel__200101__02044830__revival_girl11.html",
+    "novel__200101__02044830__urashima.html",
+    "novel__200101__02044830__revival_girl10.html",
+    "novel__200101__02044830__revival_girl9.html",
+    "novel__200101__02044830__revival_girl8.html",
+    "novel__200101__02044830__revival_girl7.html",
+    "novel__200101__02044830__revival_girl6.html",
+    "novel__200101__02044830__revival_girl5.html",
+    "novel__200101__02044830__revival_girl4.htm",
+    "novel__200101__02044830__revival_girl3.htm",
+    "novel__200101__02044830__revival_girl2.html",
+    "novel__200101__02044830__revival_girl1.html",
+    "novel__200202__14233437__revival_girl_s3.htm",
+    "novel__200202__14230904__revival_girl24.htm"
+   ]
+  },
+  {
    "slug": "sakuhin_no115",
    "display_name": "驟雨",
    "display_variants": [
@@ -2864,6 +2979,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "sakuhin_no115",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sakuhin_no115.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -2919,71 +3035,6 @@
    ]
   },
   {
-   "slug": "yuasano_miki",
-   "display_name": "ゆあさのみき",
-   "display_variants": [
-    "ゆあさのみき"
-   ],
-   "yomi_group": "や行",
-   "kansou_slug": "yuasano_miki",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yuasano_miki.cgi",
-   "shared_boards": [],
-   "homepage": "http://www05.u-page.so-net.ne.jp/xb3/y-miki/",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www05.u-page.so-net.ne.jp/xb3/y-miki/",
-   "homepage_all": [
-    "http://www05.u-page.so-net.ne.jp/xb3/y-miki/"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 32,
-   "corpora": {
-    "honkan": 31,
-    "uncatalogued": 1
-   },
-   "first_date": "2001-01-02",
-   "last_date": "2002-05-03",
-   "identified_by": {
-    "board": 31,
-    "name->board": 1
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200101__02044830__revival_girl26.html",
-    "novel__200101__02044830__revival_girl25.htm",
-    "novel__200101__02044830__revival_girl_s3.htm",
-    "novel__200101__02044830__revival_girl24.htm",
-    "novel__200101__02044830__revival_girl23.htm",
-    "novel__200101__02044830__revival_girl22.htm",
-    "novel__200101__02044830__revival_girl21.html",
-    "novel__200101__02044830__revival_girl20.html",
-    "novel__200101__02044830__revival_girl19.html",
-    "novel__200101__02044830__revival_girl18.htm",
-    "novel__200101__02044830__revival_girl_s2.html",
-    "novel__200101__02044830__revival_girl_s1.html",
-    "novel__200101__02044830__revival_girl17.html",
-    "novel__200101__02044830__revival_girl16.html",
-    "novel__200101__02044830__revival_girl15.html",
-    "novel__200101__02044830__6th_layer1.htm",
-    "novel__200101__02044830__revival_girl14.html",
-    "novel__200101__02044830__revival_girl13.html",
-    "novel__200101__02044830__revival_girl12.html",
-    "novel__200101__02044830__revival_girl11.html",
-    "novel__200101__02044830__urashima.html",
-    "novel__200101__02044830__revival_girl10.html",
-    "novel__200101__02044830__revival_girl9.html",
-    "novel__200101__02044830__revival_girl8.html",
-    "novel__200101__02044830__revival_girl7.html",
-    "novel__200101__02044830__revival_girl6.html",
-    "novel__200101__02044830__revival_girl5.html",
-    "novel__200101__02044830__revival_girl4.htm",
-    "novel__200101__02044830__revival_girl3.htm",
-    "novel__200101__02044830__revival_girl2.html",
-    "novel__200101__02044830__revival_girl1.html",
-    "novel__200202__14233437__revival_girl_s3.htm"
-   ]
-  },
-  {
    "slug": "amami",
    "display_name": "奄美平次",
    "display_variants": [
@@ -2992,6 +3043,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "amami",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_amami.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.ki.rim.or.jp/~gtkf/amaminosekai.htm",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.ki.rim.or.jp/~gtkf/amaminosekai.htm",
@@ -3053,6 +3105,7 @@
    "yomi_group": "か行",
    "kansou_slug": "koukei",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_koukei.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "himekami",
     "kayo_chan",
@@ -3123,6 +3176,7 @@
    "yomi_group": "N",
    "kansou_slug": "manachan",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_manachan.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -3184,6 +3238,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mizutani_akio",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mizutani_akio.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "d_angel",
     "foster",
@@ -3251,6 +3306,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ashikaga",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ashikaga.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.co.jp/HiTeens/5209/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.co.jp/HiTeens/5209/",
@@ -3312,6 +3368,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kirika",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kirika.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime"
    ],
@@ -3369,6 +3426,65 @@
    ]
   },
   {
+   "slug": "konoichiba",
+   "display_name": "この市場",
+   "display_variants": [
+    "この市場"
+   ],
+   "yomi_group": null,
+   "kansou_slug": "konoichiba",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_konoichiba.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 29,
+   "corpora": {
+    "uncatalogued": 29
+   },
+   "first_date": "2002-11-01",
+   "last_date": "2002-11-01",
+   "identified_by": {
+    "name->board-list": 29
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200211__08013548__kuon00.html",
+    "novel__200211__08013548__kuon01.html",
+    "novel__200211__08013548__kuon02.html",
+    "novel__200211__08013548__kuon03.html",
+    "novel__200211__08013548__kuon04.html",
+    "novel__200211__08013548__kuon05.html",
+    "novel__200211__08013548__kuon06.html",
+    "novel__200211__08013548__kuon07.html",
+    "novel__200211__08013548__kuon08.html",
+    "novel__200211__08013548__kuon09.html",
+    "novel__200211__08013548__kuon10.html",
+    "novel__200211__08013548__kuon11.html",
+    "novel__200211__08013548__kuon12.html",
+    "novel__200211__08013548__kuon13.html",
+    "novel__200211__08013548__kuon14.html",
+    "novel__200211__08013548__kuon15.html",
+    "novel__200211__08013548__kuon16.html",
+    "novel__200211__08013548__kuon17.html",
+    "novel__200211__08013548__kuon18.html",
+    "novel__200211__08013548__kuon19.html",
+    "novel__200211__08013548__kuon20.html",
+    "novel__200211__08013548__kuon21.html",
+    "novel__200211__08013548__kuon22.html",
+    "novel__200211__08013548__kuon23.html",
+    "novel__200211__08013548__kuon24.html",
+    "novel__200211__08013548__kuon25.html",
+    "novel__200211__08013548__kuon26.html",
+    "novel__200211__08013548__kuon27.html",
+    "novel__200211__08013548__megami00.html"
+   ]
+  },
+  {
    "slug": "makoto",
    "display_name": "マコト",
    "display_variants": [
@@ -3377,6 +3493,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "makoto",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_makoto.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -3434,64 +3551,6 @@
    ]
   },
   {
-   "slug": "konoshijou",
-   "display_name": "この市場",
-   "display_variants": [
-    "この市場"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 29,
-   "corpora": {
-    "uncatalogued": 29
-   },
-   "first_date": "2002-11-01",
-   "last_date": "2002-11-01",
-   "identified_by": {
-    "name-only": 29
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200211__08013548__kuon00.html",
-    "novel__200211__08013548__kuon01.html",
-    "novel__200211__08013548__kuon02.html",
-    "novel__200211__08013548__kuon03.html",
-    "novel__200211__08013548__kuon04.html",
-    "novel__200211__08013548__kuon05.html",
-    "novel__200211__08013548__kuon06.html",
-    "novel__200211__08013548__kuon07.html",
-    "novel__200211__08013548__kuon08.html",
-    "novel__200211__08013548__kuon09.html",
-    "novel__200211__08013548__kuon10.html",
-    "novel__200211__08013548__kuon11.html",
-    "novel__200211__08013548__kuon12.html",
-    "novel__200211__08013548__kuon13.html",
-    "novel__200211__08013548__kuon14.html",
-    "novel__200211__08013548__kuon15.html",
-    "novel__200211__08013548__kuon16.html",
-    "novel__200211__08013548__kuon17.html",
-    "novel__200211__08013548__kuon18.html",
-    "novel__200211__08013548__kuon19.html",
-    "novel__200211__08013548__kuon20.html",
-    "novel__200211__08013548__kuon21.html",
-    "novel__200211__08013548__kuon22.html",
-    "novel__200211__08013548__kuon23.html",
-    "novel__200211__08013548__kuon24.html",
-    "novel__200211__08013548__kuon25.html",
-    "novel__200211__08013548__kuon26.html",
-    "novel__200211__08013548__kuon27.html",
-    "novel__200211__08013548__megami00.html"
-   ]
-  },
-  {
    "slug": "two_bit",
    "display_name": "ＴＷＯ−ＢＩＴ",
    "display_variants": [
@@ -3499,12 +3558,16 @@
     "TWO-BIT",
     "２bit（冬眠中）",
     "２bit（休眠中）",
-    "ＴＷＯ－ＢＩＴ"
+    "ＴＷＯ－ＢＩＴ",
+    "(原作:TWO-BIT)"
    ],
    "yomi_group": "T",
    "kansou_slug": "two_bit",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_two_bit.cgi",
-   "shared_boards": [],
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "rental_body"
+   ],
    "homepage": "http://www.geocities.jp/air_suiu/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.jp/air_suiu/",
    "homepage_all": [
@@ -3515,9 +3578,9 @@
    ],
    "active_links": [],
    "contact_status": "uncontacted",
-   "episode_count": 28,
+   "episode_count": 29,
    "corpora": {
-    "honkan": 15,
+    "honkan": 16,
     "legacy": 1,
     "uncatalogued": 12
    },
@@ -3525,7 +3588,8 @@
    "last_date": "2006-03-02",
    "identified_by": {
     "board": 15,
-    "name->board": 13
+    "name->board": 13,
+    "name-only": 1
    },
    "slug_source": "kansou-board",
    "slug_status": "auto",
@@ -3557,71 +3621,8 @@
     "novel__rental__re_mix__re_mix04.html",
     "novel__rental__re_mix__re_mix05.html",
     "novel__rental__re_mix__re_mix06.html",
-    "novel__rental__re_mix__re_mix07.html"
-   ]
-  },
-  {
-   "slug": "jersey_red",
-   "display_name": "ジャージレッド",
-   "display_variants": [
-    "ジャージレッド",
-    "コーディー"
-   ],
-   "yomi_group": "さ行",
-   "kansou_slug": "jersey_red",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_jersey_red.cgi",
-   "shared_boards": [
-    "himekami"
-   ],
-   "homepage": "http://www.keddy.ne.jp/~jersey-r/",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www.keddy.ne.jp/~jersey-r/",
-   "homepage_all": [
-    "http://www.keddy.ne.jp/~jersey-r/",
-    "http://www.i-chubu.ne.jp/~jersey-r/"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 27,
-   "corpora": {
-    "honkan": 25,
-    "uncatalogued": 2
-   },
-   "first_date": "2000-10-01",
-   "last_date": "2005-09-16",
-   "identified_by": {
-    "board": 22,
-    "name->board": 5
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200102__21223944__narika03.html",
-    "novel__200010__20041039__elfin_life_14.html",
-    "novel__200010__20041039__elfin_life_13.html",
-    "novel__200010__20041039__elfin_life_12.html",
-    "novel__200010__20041039__elfin_life_11.html",
-    "novel__200109__14221933__raika_kaho_01.html",
-    "novel__200103__24194542__himegami_17.htm",
-    "novel__200109__14221933__kaho01.html",
-    "novel__200010__20041039__elfin_life_10.html",
-    "novel__200102__21223944__narika02.htm",
-    "novel__200103__24194542__himegami_x_7.html",
-    "novel__200010__20041039__elfin_life_9.html",
-    "novel__200102__21223944__narika01complete.htm",
-    "novel__200103__24194542__himegami_3.html",
-    "novel__200010__20041039__elfin_life_8.html",
-    "novel__200102__21223944__narika01.html",
-    "novel__200010__20041039__elfin_life_7.html",
-    "novel__200101__05064051__ao2.html",
-    "novel__200010__20041039__elfin_life_6.html",
-    "novel__200010__20041039__elfin_life_5.html",
-    "novel__200010__20041039__soul_crash.html",
-    "novel__200010__20041039__elfin_life_4.html",
-    "novel__200010__20041039__elfin_life_3.html",
-    "novel__200010__20041039__elfin_life_2.html",
-    "novel__200010__20041039__elfin_life.html",
-    "novel__200010__20041039__dictionary.html",
-    "novel__200010__20041039__fairy_life_14.html"
+    "novel__rental__re_mix__re_mix07.html",
+    "special__rb__index.html"
    ]
   },
   {
@@ -3630,27 +3631,30 @@
    "display_variants": [
     "Ｍａｒｉｅ",
     "Ｍａｒｉｅ・Ｒｅｉｋａ",
-    "Marie"
+    "Marie",
+    "麗香"
    ],
    "yomi_group": "M",
    "kansou_slug": "marie",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_marie.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
    "homepage_all": [],
    "active_links": [],
    "contact_status": "uncontacted",
-   "episode_count": 27,
+   "episode_count": 28,
    "corpora": {
     "honkan": 16,
-    "legacy": 11
+    "legacy": 12
    },
    "first_date": "1997-12-04",
    "last_date": "2004-02-17",
    "identified_by": {
     "board": 16,
-    "name->board": 11
+    "name->board": 11,
+    "name-only": 1
    },
    "slug_source": "kansou-board",
    "slug_status": "auto",
@@ -3681,7 +3685,8 @@
     "novel__toukou01.html+19971204",
     "novel__fairylake.html",
     "novel__career23.html",
-    "novel__reika__imagine__index.html"
+    "novel__reika__imagine__index.html",
+    "novel__reika__puko_and_me__index1.html"
    ]
   },
   {
@@ -3696,6 +3701,7 @@
    "yomi_group": "な行",
    "kansou_slug": "nekono_gundam",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nekono_gundam.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime",
     "d_angel",
@@ -3765,6 +3771,7 @@
    "yomi_group": "Z",
    "kansou_slug": "zyuka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_zyuka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -3816,6 +3823,69 @@
    ]
   },
   {
+   "slug": "jersey_red",
+   "display_name": "ジャージレッド",
+   "display_variants": [
+    "ジャージレッド"
+   ],
+   "yomi_group": "さ行",
+   "kansou_slug": "jersey_red",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_jersey_red.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "himekami"
+   ],
+   "homepage": "http://www.keddy.ne.jp/~jersey-r/",
+   "homepage_wayback": "https://web.archive.org/web/2010/http://www.keddy.ne.jp/~jersey-r/",
+   "homepage_all": [
+    "http://www.keddy.ne.jp/~jersey-r/",
+    "http://www.i-chubu.ne.jp/~jersey-r/"
+   ],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 26,
+   "corpora": {
+    "honkan": 24,
+    "uncatalogued": 2
+   },
+   "first_date": "2000-10-01",
+   "last_date": "2005-09-16",
+   "identified_by": {
+    "board": 21,
+    "name->board": 5
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200102__21223944__narika03.html",
+    "novel__200010__20041039__elfin_life_14.html",
+    "novel__200010__20041039__elfin_life_13.html",
+    "novel__200010__20041039__elfin_life_12.html",
+    "novel__200010__20041039__elfin_life_11.html",
+    "novel__200109__14221933__raika_kaho_01.html",
+    "novel__200103__24194542__himegami_17.htm",
+    "novel__200109__14221933__kaho01.html",
+    "novel__200010__20041039__elfin_life_10.html",
+    "novel__200102__21223944__narika02.htm",
+    "novel__200103__24194542__himegami_x_7.html",
+    "novel__200010__20041039__elfin_life_9.html",
+    "novel__200102__21223944__narika01complete.htm",
+    "novel__200103__24194542__himegami_3.html",
+    "novel__200010__20041039__elfin_life_8.html",
+    "novel__200102__21223944__narika01.html",
+    "novel__200010__20041039__elfin_life_7.html",
+    "novel__200010__20041039__elfin_life_6.html",
+    "novel__200010__20041039__elfin_life_5.html",
+    "novel__200010__20041039__soul_crash.html",
+    "novel__200010__20041039__elfin_life_4.html",
+    "novel__200010__20041039__elfin_life_3.html",
+    "novel__200010__20041039__elfin_life_2.html",
+    "novel__200010__20041039__elfin_life.html",
+    "novel__200010__20041039__dictionary.html",
+    "novel__200010__20041039__fairy_life_14.html"
+   ]
+  },
+  {
    "slug": "yamaguti_oomi",
    "display_name": "山口多聞",
    "display_variants": [
@@ -3824,6 +3894,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yamaguti_oomi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yamaguti_oomi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -3885,6 +3956,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yosswih",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yosswih.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime",
     "kayo_chan"
@@ -3945,6 +4017,7 @@
    "yomi_group": "は行",
    "kansou_slug": "hibino",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hibino.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "relay_novel"
    ],
@@ -4001,6 +4074,9 @@
    "yomi_group": "か行",
    "kansou_slug": "kion_rei",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kion_rei.cgi",
+   "kansou_slug_alt": [
+    "kitou_rei"
+   ],
    "shared_boards": [],
    "homepage": "http://www4.justnet.ne.jp/~kion-rei/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www4.justnet.ne.jp/~kion-rei/",
@@ -4059,6 +4135,7 @@
    "yomi_group": null,
    "kansou_slug": "million",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_million.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -4114,6 +4191,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "minafumido",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_minafumido.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime",
     "himekami",
@@ -4175,6 +4253,7 @@
    "yomi_group": "は行",
    "kansou_slug": "panda5",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_panda5.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www6.ocn.ne.jp/~pan2da5/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www6.ocn.ne.jp/~pan2da5/index.html",
@@ -4232,6 +4311,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "itou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_itou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -4287,6 +4367,9 @@
    "yomi_group": "K",
    "kansou_slug": "kardy",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kardy.cgi",
+   "kansou_slug_alt": [
+    "k_kadd"
+   ],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -4346,6 +4429,7 @@
    "yomi_group": "た行",
    "kansou_slug": "dendoro",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_dendoro.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -4401,6 +4485,7 @@
    "yomi_group": "N",
    "kansou_slug": "nhk",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nhk.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -4454,6 +4539,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yays",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yays.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "~yays/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/~yays/index.html",
@@ -4508,6 +4594,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yoshioka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yoshioka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "d_angel",
     "himekami",
@@ -4568,6 +4655,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "alm_band",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_alm_band.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://ewig-leere-ev.hp.infoseek.co.jp/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://ewig-leere-ev.hp.infoseek.co.jp/",
@@ -4612,6 +4700,62 @@
    ]
   },
   {
+   "slug": "maki_takashi",
+   "display_name": "薪喬",
+   "display_variants": [
+    "薪喬",
+    "薪喬（まきたかし）"
+   ],
+   "yomi_group": "ま行",
+   "kansou_slug": "maki_takashi",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_maki_takashi.cgi",
+   "kansou_slug_alt": [
+    "shinkyou"
+   ],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 18,
+   "corpora": {
+    "honkan": 16,
+    "uncatalogued": 2
+   },
+   "first_date": "2001-12-24",
+   "last_date": "2002-12-01",
+   "identified_by": {
+    "board": 10,
+    "name->board": 7,
+    "name-only": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200203__05130136__higurashi.htm",
+    "novel__200203__05130136__fit2-8.htm",
+    "novel__200203__05130136__fit2-7.htm",
+    "novel__200203__05130136__fit2-6.htm",
+    "novel__200203__05130136__fit2-5.htm",
+    "novel__200203__05130136__fit2-4.htm",
+    "novel__200203__05130136__fit2-3.htm",
+    "novel__200203__05130136__fit2-2.htm",
+    "novel__200203__05130136__fit2-1.htm",
+    "novel__kayo_chan__kayo_chan64.html",
+    "novel__200202__01164936__sotsugyou.htm",
+    "novel__kayo_chan__kayo_chan62.html",
+    "novel__200203__05130136__fit.html",
+    "novel__kayo_chan__kayo_chan57.html",
+    "novel__kayo_chan__kayo_chan56.html",
+    "novel__200202__01164936__lost.htm",
+    "novel__kayo_chan__kayo_chan64.htm",
+    "novel__kayo_chan__extra__kayo_ex08.html"
+   ]
+  },
+  {
    "slug": "suzuki_murasaki",
    "display_name": "鈴忌 紫",
    "display_variants": [
@@ -4620,6 +4764,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "suzuki_murasaki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_suzuki_murasaki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -4674,6 +4819,7 @@
    "yomi_group": "T",
    "kansou_slug": "t_h",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_t_h.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://csx.jp/~thts/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://csx.jp/~thts/",
@@ -4724,6 +4870,7 @@
    "yomi_group": "W",
    "kansou_slug": "west",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_west.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://fictionfreaks.com/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://fictionfreaks.com/",
@@ -4770,56 +4917,6 @@
    ]
   },
   {
-   "slug": "maki_takashi",
-   "display_name": "薪喬",
-   "display_variants": [
-    "薪喬"
-   ],
-   "yomi_group": "ま行",
-   "kansou_slug": "maki_takashi",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_maki_takashi.cgi",
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 17,
-   "corpora": {
-    "honkan": 15,
-    "uncatalogued": 2
-   },
-   "first_date": "2001-12-24",
-   "last_date": "2002-12-01",
-   "identified_by": {
-    "board": 10,
-    "name->board": 7
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200203__05130136__higurashi.htm",
-    "novel__200203__05130136__fit2-8.htm",
-    "novel__200203__05130136__fit2-7.htm",
-    "novel__200203__05130136__fit2-6.htm",
-    "novel__200203__05130136__fit2-5.htm",
-    "novel__200203__05130136__fit2-4.htm",
-    "novel__200203__05130136__fit2-3.htm",
-    "novel__200203__05130136__fit2-2.htm",
-    "novel__200203__05130136__fit2-1.htm",
-    "novel__kayo_chan__kayo_chan64.html",
-    "novel__200202__01164936__sotsugyou.htm",
-    "novel__kayo_chan__kayo_chan62.html",
-    "novel__200203__05130136__fit.html",
-    "novel__kayo_chan__kayo_chan57.html",
-    "novel__kayo_chan__kayo_chan56.html",
-    "novel__200202__01164936__lost.htm",
-    "novel__kayo_chan__kayo_chan64.htm"
-   ]
-  },
-  {
    "slug": "nigeuma",
    "display_name": "逃げ馬",
    "display_variants": [
@@ -4828,6 +4925,7 @@
    "yomi_group": "な行",
    "kansou_slug": "nigeuma",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nigeuma.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://blue.ribbon.to/~nigeuma/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://blue.ribbon.to/~nigeuma/",
@@ -4878,6 +4976,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ushitora",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ushitora.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -4928,6 +5027,7 @@
    "yomi_group": "B",
    "kansou_slug": "baf",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_baf.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -4976,6 +5076,7 @@
    "yomi_group": "は行",
    "kansou_slug": "phrase",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_phrase.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://homepage3.nifty.com/PHRASE/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://homepage3.nifty.com/PHRASE/",
@@ -5025,6 +5126,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "ruhfasu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ruhfasu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "himekami"
    ],
@@ -5074,6 +5176,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "rurita",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_rurita.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -5126,6 +5229,7 @@
    "yomi_group": "A",
    "kansou_slug": "azy",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_azy.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www5f.biglobe.ne.jp/~yza/nv/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www5f.biglobe.ne.jp/~yza/nv/",
@@ -5176,6 +5280,7 @@
    "yomi_group": "な行",
    "kansou_slug": "namakemono",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_namakemono.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "2daime"
    ],
@@ -5223,6 +5328,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "roam",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_roam.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5268,6 +5374,7 @@
    "yomi_group": null,
    "kansou_slug": "7cy",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_7cy.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5311,6 +5418,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "juurouta",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_juurouta.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.rnac.ne.jp/~ct6m1980/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.rnac.ne.jp/~ct6m1980/index.html",
@@ -5359,6 +5467,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "minaduki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_minaduki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5402,6 +5511,9 @@
    "yomi_group": "な行",
    "kansou_slug": "nanagiri",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nanagiri.cgi",
+   "kansou_slug_alt": [
+    "nanagiri_res_200206064181320"
+   ],
    "shared_boards": [
     "foster",
     "kayo_chan"
@@ -5450,6 +5562,7 @@
    "yomi_group": "な行",
    "kansou_slug": "noin",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_noin.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5496,6 +5609,7 @@
    "yomi_group": "S",
    "kansou_slug": "saya",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_saya.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5541,6 +5655,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yamadaten",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yamadaten.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://yamadatennjuhp.web.fc2.com/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://yamadatennjuhp.web.fc2.com/",
@@ -5578,6 +5693,55 @@
    ]
   },
   {
+   "slug": "hiko",
+   "display_name": "HIKO",
+   "display_variants": [
+    "HIKO",
+    "ＨＩＫＯ",
+    "ＨＩＫＯ（原作：城弾さん）"
+   ],
+   "yomi_group": "H",
+   "kansou_slug": "hiko",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hiko.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": "http://www2.odn.ne.jp/~hag01860/",
+   "homepage_wayback": "https://web.archive.org/web/2010/http://www2.odn.ne.jp/~hag01860/",
+   "homepage_all": [
+    "http://www2.odn.ne.jp/~hag01860/"
+   ],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 13,
+   "corpora": {
+    "honkan": 12,
+    "uncatalogued": 1
+   },
+   "first_date": "2000-11-08",
+   "last_date": "2007-06-09",
+   "identified_by": {
+    "board": 12,
+    "name-only": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200011__08043229__doukyo_if.htm",
+    "novel__200011__08043229__pf_ex02.html",
+    "novel__200011__08043229__pf_ex1.html",
+    "novel__200011__08043229__pf_carrier9.html",
+    "novel__200011__08043229__pf_carrier8.html",
+    "novel__200011__08043229__pf_carrier7.html",
+    "novel__200011__08043229__pf_carrier6.html",
+    "novel__200011__08043229__pf_carrier5.html",
+    "novel__200011__08043229__pf_carrier4.html",
+    "novel__200011__08043229__pf_carrier3.html",
+    "novel__200011__08043229__pf_carrier2.html",
+    "novel__200011__08043229__pf_carrier.html",
+    "novel__200703__16205836__doukyonin_if.htm"
+   ]
+  },
+  {
    "slug": "asari",
    "display_name": "あさり",
    "display_variants": [
@@ -5587,6 +5751,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "asari",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_asari.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5630,6 +5795,7 @@
    "yomi_group": "た行",
    "kansou_slug": "chikua",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_chikua.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5663,50 +5829,6 @@
    ]
   },
   {
-   "slug": "hiko",
-   "display_name": "HIKO",
-   "display_variants": [
-    "HIKO",
-    "ＨＩＫＯ"
-   ],
-   "yomi_group": "H",
-   "kansou_slug": "hiko",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hiko.cgi",
-   "shared_boards": [],
-   "homepage": "http://www2.odn.ne.jp/~hag01860/",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www2.odn.ne.jp/~hag01860/",
-   "homepage_all": [
-    "http://www2.odn.ne.jp/~hag01860/"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 12,
-   "corpora": {
-    "honkan": 12
-   },
-   "first_date": "2000-11-08",
-   "last_date": "2007-06-09",
-   "identified_by": {
-    "board": 12
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200011__08043229__doukyo_if.htm",
-    "novel__200011__08043229__pf_ex02.html",
-    "novel__200011__08043229__pf_ex1.html",
-    "novel__200011__08043229__pf_carrier9.html",
-    "novel__200011__08043229__pf_carrier8.html",
-    "novel__200011__08043229__pf_carrier7.html",
-    "novel__200011__08043229__pf_carrier6.html",
-    "novel__200011__08043229__pf_carrier5.html",
-    "novel__200011__08043229__pf_carrier4.html",
-    "novel__200011__08043229__pf_carrier3.html",
-    "novel__200011__08043229__pf_carrier2.html",
-    "novel__200011__08043229__pf_carrier.html"
-   ]
-  },
-  {
    "slug": "tenki",
    "display_name": "華村天稀",
    "display_variants": [
@@ -5716,6 +5838,7 @@
    "yomi_group": "は行",
    "kansou_slug": "tenki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tenki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "foster",
     "utanotsuki"
@@ -5767,6 +5890,7 @@
    "yomi_group": "H",
    "kansou_slug": "h_hokura",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_h_hokura.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://homepage2.nifty.com/rakugaki-maimu/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://homepage2.nifty.com/rakugaki-maimu/index.html",
@@ -5809,6 +5933,7 @@
    "yomi_group": "は行",
    "kansou_slug": "hideo",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hideo.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5851,6 +5976,7 @@
    "yomi_group": "は行",
    "kansou_slug": "humming_sord",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_humming_sord.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -5892,6 +6018,7 @@
    "yomi_group": "K",
    "kansou_slug": "kca",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kca.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan",
     "setubou"
@@ -5929,6 +6056,60 @@
    ]
   },
   {
+   "slug": "popo",
+   "display_name": "HIKU",
+   "display_variants": [
+    "HIKU",
+    "ぽぽ"
+   ],
+   "yomi_group": "H",
+   "kansou_slug": "popo",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_popo.cgi",
+   "kansou_slug_alt": [
+    "hiku"
+   ],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": "http://www3.plala.or.jp/hiku/yaneura.htm",
+   "homepage_wayback": "https://web.archive.org/web/2010/http://www3.plala.or.jp/hiku/yaneura.htm",
+   "homepage_all": [
+    "http://www3.plala.or.jp/hiku/yaneura.htm",
+    "http://fps01.plala.or.jp/~hiku/",
+    "http://www.arcadia.or.nu",
+    "http://www3.plala.or.jp/hiku",
+    "http://www3.plala.or.jp/hiku/index.htm"
+   ],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 11,
+   "corpora": {
+    "honkan": 11
+   },
+   "first_date": "1999-09-29",
+   "last_date": "2001-10-16",
+   "identified_by": {
+    "name->board-list": 1,
+    "board": 6,
+    "name->board": 4
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__kayo_chan__kayo_chan54.html",
+    "novel__200010__06192552__haru_rannmann_2.html",
+    "novel__200010__06192552__haru_rannmann_1.html",
+    "novel__my_blue_sky.html",
+    "novel__kayo_chan__kayo_chan46.html",
+    "novel__short__tatari02.html",
+    "novel__short__tatari01.html",
+    "novel__short__antique.html",
+    "novel__kayo_chan__extra__kayo_ex02.html",
+    "novel__kayo_chan__kayo_chan39.html",
+    "novel__kayo_chan__kayo_chan33.html"
+   ]
+  },
+  {
    "slug": "s_haneoka",
    "display_name": "Ｓ羽丘",
    "display_variants": [
@@ -5938,6 +6119,7 @@
    "yomi_group": "S",
    "kansou_slug": "s_haneoka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_s_haneoka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.hinoki.sakura.ne.jp/~pisipisi/souko/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.hinoki.sakura.ne.jp/~pisipisi/souko/",
@@ -5986,6 +6168,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "shiroiruka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_shiroiruka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6030,6 +6213,7 @@
    "yomi_group": "T",
    "kansou_slug": "trace",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_trace.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6070,6 +6254,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "amulai",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_amulai.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://okashi.blog6.fc2.com/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://okashi.blog6.fc2.com/",
@@ -6115,6 +6300,7 @@
    "yomi_group": "は行",
    "kansou_slug": "flat",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_flat.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "relay_novel"
    ],
@@ -6158,6 +6344,7 @@
    "yomi_group": "か行",
    "kansou_slug": "gyaku",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_gyaku.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -6203,6 +6390,7 @@
    "yomi_group": "は行",
    "kansou_slug": "hiroo_syou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hiroo_syou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.co.jp/Playtown-Spade/5805/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.co.jp/Playtown-Spade/5805/",
@@ -6247,6 +6435,7 @@
    "yomi_group": "K",
    "kansou_slug": "k_ito",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_k_ito.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6288,6 +6477,10 @@
    "yomi_group": "K",
    "kansou_slug": "kazamaturi_rei",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kazamaturi_rei.cgi",
+   "kansou_slug_alt": [
+    "kazematuri_rei",
+    "kaze"
+   ],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -6336,6 +6529,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "oyagiaka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_oyagiaka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://ts.miraiserver.com/top.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://ts.miraiserver.com/top.html",
@@ -6377,6 +6571,7 @@
    "yomi_group": "P",
    "kansou_slug": "plantain",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_plantain.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6410,53 +6605,6 @@
    ]
   },
   {
-   "slug": "popo",
-   "display_name": "HIKU",
-   "display_variants": [
-    "HIKU"
-   ],
-   "yomi_group": "H",
-   "kansou_slug": "popo",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_popo.cgi",
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": "http://www3.plala.or.jp/hiku/yaneura.htm",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www3.plala.or.jp/hiku/yaneura.htm",
-   "homepage_all": [
-    "http://www3.plala.or.jp/hiku/yaneura.htm",
-    "http://fps01.plala.or.jp/~hiku/",
-    "http://www3.plala.or.jp/hiku",
-    "http://www3.plala.or.jp/hiku/index.htm"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 10,
-   "corpora": {
-    "honkan": 10
-   },
-   "first_date": "1999-09-29",
-   "last_date": "2001-04-14",
-   "identified_by": {
-    "board": 6,
-    "name->board": 4
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200010__06192552__haru_rannmann_2.html",
-    "novel__200010__06192552__haru_rannmann_1.html",
-    "novel__my_blue_sky.html",
-    "novel__kayo_chan__kayo_chan46.html",
-    "novel__short__tatari02.html",
-    "novel__short__tatari01.html",
-    "novel__short__antique.html",
-    "novel__kayo_chan__extra__kayo_ex02.html",
-    "novel__kayo_chan__kayo_chan39.html",
-    "novel__kayo_chan__kayo_chan33.html"
-   ]
-  },
-  {
    "slug": "sai",
    "display_name": "砕",
    "display_variants": [
@@ -6465,6 +6613,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "sai",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sai.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6506,6 +6655,7 @@
    "yomi_group": "S",
    "kansou_slug": "starbow",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_starbow.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.ne.jp/asahi/starbow/telescope/novel/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.ne.jp/asahi/starbow/telescope/novel/",
@@ -6549,6 +6699,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yamada",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yamada.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6588,6 +6739,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yuta",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yuta.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://fancypail.hp.infoseek.co.jp/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://fancypail.hp.infoseek.co.jp/",
@@ -6629,6 +6781,7 @@
    "yomi_group": "Z",
    "kansou_slug": "zock",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_zock.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://sky.geocities.jp/toripod3/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://sky.geocities.jp/toripod3/",
@@ -6673,6 +6826,7 @@
    "yomi_group": "B",
    "kansou_slug": "bluemew",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_bluemew.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://bluemyu.ojaru.jp/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://bluemyu.ojaru.jp/index.html",
@@ -6714,6 +6868,7 @@
    "yomi_group": "K",
    "kansou_slug": "k",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_k.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6746,6 +6901,55 @@
    ]
   },
   {
+   "slug": "kakusan",
+   "display_name": "角",
+   "display_variants": [
+    "角",
+    "角さん(作) / オヤジ さん(原案)",
+    "原案：北房真庭　作：角",
+    "角さん　原案設定：北房真庭",
+    "角さん / 原案: オヤジ",
+    "角さん(絵) / オヤジ さん(文)"
+   ],
+   "yomi_group": null,
+   "kansou_slug": "kakusan",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kakusan.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 9,
+   "corpora": {
+    "honkan": 8,
+    "uncatalogued": 1
+   },
+   "first_date": "1999-05-09",
+   "last_date": "2002-07-15",
+   "identified_by": {
+    "board": 7,
+    "name->board": 1,
+    "name-only": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__kakusan__tsskou.htm",
+    "novel__kakusan__tss.html",
+    "novel__kakusan__oyakusoku__oyakusoku.html",
+    "novel__kakusan__one_night__one_night.html",
+    "novel__grp__angel.jpg",
+    "novel__kakusan__promise__promise.html",
+    "novel__kakusan__reiko__reiko.html",
+    "novel__kakusan__oyakusoku__oyakusoku_b.html",
+    "novel__kayo_chan__kayo_image03.html"
+   ]
+  },
+  {
    "slug": "kirikiri",
    "display_name": "きりきり",
    "display_variants": [
@@ -6754,6 +6958,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kirikiri",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kirikiri.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6794,6 +6999,7 @@
    "yomi_group": "T",
    "kansou_slug": "tarota",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tarota.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -6830,6 +7036,52 @@
    ]
   },
   {
+   "slug": "aizu_rika",
+   "display_name": "会津里花",
+   "display_variants": [
+    "会津里花",
+    "海津里花"
+   ],
+   "yomi_group": "あ行",
+   "kansou_slug": "aizu_rika",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_aizu_rika.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": "http://www.simcommunity.com/sc/ts/jackie_matthews/main",
+   "homepage_wayback": "https://web.archive.org/web/2010/http://www.simcommunity.com/sc/ts/jackie_matthews/main",
+   "homepage_all": [
+    "http://www.simcommunity.com/sc/ts/jackie_matthews/main"
+   ],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 8,
+   "corpora": {
+    "honkan": 6,
+    "uncatalogued": 2
+   },
+   "first_date": "1999-08-16",
+   "last_date": "2001-07-01",
+   "identified_by": {
+    "board": 5,
+    "name->board": 1,
+    "name-only": 2
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200107__01140146__backstage.html",
+    "novel__200107__01140146__nichijou.html",
+    "novel__200107__01140146__survival01.html",
+    "novel__short__my_case.html",
+    "novel__kayo_chan__kayo_chan14.html",
+    "novel__short__bus.html",
+    "novel__nichijou.html",
+    "novel__survival01.html"
+   ]
+  },
+  {
    "slug": "akaishikeiyuu",
    "display_name": "赤石恵佑",
    "display_variants": [
@@ -6838,6 +7090,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "akaishikeiyuu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_akaishikeiyuu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://mellowgold.web.fc2.com/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://mellowgold.web.fc2.com/",
@@ -6878,6 +7131,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "aoki_akio",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_aoki_akio.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6917,6 +7171,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "cell",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_cell.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -6954,6 +7209,7 @@
    "yomi_group": "は行",
    "kansou_slug": "haradaseiya",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_haradaseiya.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -6987,49 +7243,6 @@
    ]
   },
   {
-   "slug": "kakusan",
-   "display_name": "角",
-   "display_variants": [
-    "角",
-    "角さん(作) / オヤジ さん(原案)",
-    "原案：北房真庭　作：角",
-    "角さん　原案設定：北房真庭",
-    "角さん / 原案: オヤジ"
-   ],
-   "yomi_group": null,
-   "kansou_slug": "kakusan",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kakusan.cgi",
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 8,
-   "corpora": {
-    "honkan": 7,
-    "uncatalogued": 1
-   },
-   "first_date": "1999-05-09",
-   "last_date": "2002-07-15",
-   "identified_by": {
-    "board": 7,
-    "name->board": 1
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__kakusan__tsskou.htm",
-    "novel__kakusan__tss.html",
-    "novel__kakusan__oyakusoku__oyakusoku.html",
-    "novel__kakusan__one_night__one_night.html",
-    "novel__grp__angel.jpg",
-    "novel__kakusan__promise__promise.html",
-    "novel__kakusan__reiko__reiko.html",
-    "novel__kakusan__oyakusoku__oyakusoku_b.html"
-   ]
-  },
-  {
    "slug": "mahsa",
    "display_name": "まーさ",
    "display_variants": [
@@ -7038,6 +7251,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mahsa",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mahsa.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://giniromaster.hp.infoseek.co.jp/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://giniromaster.hp.infoseek.co.jp/",
@@ -7077,6 +7291,7 @@
    "yomi_group": "あ行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -7095,7 +7310,7 @@
     "name-only": 8
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__kayo_chan103.html",
     "novel__kayo_chan__extra__hunter_story_land_a8.html",
@@ -7117,6 +7332,7 @@
    "yomi_group": "O",
    "kansou_slug": "olson",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_olson.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -7152,6 +7368,47 @@
    ]
   },
   {
+   "slug": "yonezu",
+   "display_name": "米津",
+   "display_variants": [
+    "米津",
+    "米津 画：みっしんぐ"
+   ],
+   "yomi_group": "や行",
+   "kansou_slug": "yonezu",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yonezu.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 8,
+   "corpora": {
+    "honkan": 7,
+    "uncatalogued": 1
+   },
+   "first_date": "1998-10-04",
+   "last_date": "2002-02-14",
+   "identified_by": {
+    "board": 7,
+    "name-only": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__perky_girl__perky_girl_2b.html",
+    "novel__perky_girl__perky_girl_2a.html",
+    "novel__perky_girl__perky_girl_ex3.html",
+    "novel__perky_girl__perky_girl_ex2.html",
+    "novel__perky_girl__perky_girl_ex.html",
+    "novel__perky_girl__perky_girl1.html",
+    "novel__4sister__omoide.html",
+    "novel__perky_girl__perky_girl_ex2nf.html"
+   ]
+  },
+  {
    "slug": "yuk",
    "display_name": "yuk",
    "display_variants": [
@@ -7160,6 +7417,7 @@
    "yomi_group": "Y",
    "kansou_slug": "yuk",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yuk.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7197,6 +7455,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "akatori",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_akatori.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7233,6 +7492,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "appiee",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_appiee.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7269,6 +7529,7 @@
    "yomi_group": "は行",
    "kansou_slug": "bantetsu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_bantetsu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7305,6 +7566,7 @@
    "yomi_group": "か行",
    "kansou_slug": "cluster",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_cluster.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "foster"
    ],
@@ -7336,82 +7598,6 @@
    ]
   },
   {
-   "slug": "yonezu",
-   "display_name": "米津",
-   "display_variants": [
-    "米津"
-   ],
-   "yomi_group": "や行",
-   "kansou_slug": "yonezu",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yonezu.cgi",
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 7,
-   "corpora": {
-    "honkan": 7
-   },
-   "first_date": "1998-10-04",
-   "last_date": "2002-02-14",
-   "identified_by": {
-    "board": 7
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__perky_girl__perky_girl_2b.html",
-    "novel__perky_girl__perky_girl_2a.html",
-    "novel__perky_girl__perky_girl_ex3.html",
-    "novel__perky_girl__perky_girl_ex2.html",
-    "novel__perky_girl__perky_girl_ex.html",
-    "novel__perky_girl__perky_girl1.html",
-    "novel__4sister__omoide.html"
-   ]
-  },
-  {
-   "slug": "aizu_rika",
-   "display_name": "会津里花",
-   "display_variants": [
-    "会津里花"
-   ],
-   "yomi_group": "あ行",
-   "kansou_slug": "aizu_rika",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_aizu_rika.cgi",
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": "http://www.simcommunity.com/sc/ts/jackie_matthews/main",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www.simcommunity.com/sc/ts/jackie_matthews/main",
-   "homepage_all": [
-    "http://www.simcommunity.com/sc/ts/jackie_matthews/main"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 6,
-   "corpora": {
-    "honkan": 6
-   },
-   "first_date": "1999-08-16",
-   "last_date": "2001-07-01",
-   "identified_by": {
-    "board": 5,
-    "name->board": 1
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200107__01140146__backstage.html",
-    "novel__200107__01140146__nichijou.html",
-    "novel__200107__01140146__survival01.html",
-    "novel__short__my_case.html",
-    "novel__kayo_chan__kayo_chan14.html",
-    "novel__short__bus.html"
-   ]
-  },
-  {
    "slug": "eto",
    "display_name": "干支",
    "display_variants": [
@@ -7420,6 +7606,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "eto",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_eto.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7455,6 +7642,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "jini",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_jini.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geni.f2s.com/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geni.f2s.com/",
@@ -7496,6 +7684,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kanzakiryou_gedoukai",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kanzakiryou_gedoukai.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://cgi.linkclub.or.jp/~gedoh/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://cgi.linkclub.or.jp/~gedoh/",
@@ -7537,6 +7726,7 @@
    "yomi_group": "か行",
    "kansou_slug": "king",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_king.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.co.jp/AnimeComic-Name/6693/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.co.jp/AnimeComic-Name/6693/",
@@ -7575,6 +7765,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mahhakame",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mahhakame.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -7613,6 +7804,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mizuki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mizuki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -7654,6 +7846,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mr_nagasaki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mr_nagasaki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.jp/birthday04202000/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.jp/birthday04202000/",
@@ -7691,6 +7884,7 @@
    "yomi_group": "か行",
    "kansou_slug": "salaryman",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_salaryman.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7726,6 +7920,7 @@
    "yomi_group": "か行",
    "kansou_slug": "sirokuro",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sirokuro.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://sannsann.hp.infoseek.co.jp/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://sannsann.hp.infoseek.co.jp/index.html",
@@ -7764,6 +7959,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "superuzarasu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_superuzarasu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.co.jp/Playtown/3408/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.co.jp/Playtown/3408/",
@@ -7803,6 +7999,7 @@
    "yomi_group": "わ行",
    "kansou_slug": "wakasa_siyuko",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_wakasa_siyuko.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7839,6 +8036,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "akame_redeye",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_akame_redeye.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://isweb42.infoseek.co.jp/novel/redeye22/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://isweb42.infoseek.co.jp/novel/redeye22/",
@@ -7876,6 +8074,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "izayoi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_izayoi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7910,6 +8109,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "izumi_miki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_izumi_miki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -7944,6 +8144,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kuroneko_otoko",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kuroneko_otoko.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://hanoreto.hp.infoseek.co.jp/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://hanoreto.hp.infoseek.co.jp/",
@@ -7980,6 +8181,7 @@
    "yomi_group": "M",
    "kansou_slug": "mew",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mew.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8016,6 +8218,7 @@
    "yomi_group": "M",
    "kansou_slug": "mist",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mist.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8050,6 +8253,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mutou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mutou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8076,7 +8280,7 @@
    ]
   },
   {
-   "slug": "hirariiman",
+   "slug": "hirariman",
    "display_name": "ヒラリーマン",
    "display_variants": [
     "ヒラリーマン"
@@ -8084,6 +8288,7 @@
    "yomi_group": "は行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -8102,13 +8307,51 @@
     "name-only": 5
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__extra__ichigo23.htm",
     "novel__kayo_chan__extra__kayo_ex39.htm",
     "novel__kayo_chan__extra__ichigo22.htm",
     "novel__kayo_chan__extra__ichigo21.html",
     "novel__kayo_chan__extra__ichigo20.htm"
+   ]
+  },
+  {
+   "slug": "qqqqq",
+   "display_name": "?????",
+   "display_variants": [
+    "?????",
+    "？？？？"
+   ],
+   "yomi_group": null,
+   "kansou_slug": "qqqqq",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_qqqqq.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 5,
+   "corpora": {
+    "honkan": 4,
+    "legacy": 1
+   },
+   "first_date": "1998-09-27",
+   "last_date": "1999-08-03",
+   "identified_by": {
+    "board": 4,
+    "name-only": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__short__persona.html",
+    "novel__short__tumi.html",
+    "novel__short__5mon.html",
+    "novel__short__yuukaisya.html",
+    "novel__trans_gals.html"
    ]
   },
   {
@@ -8120,6 +8363,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "ran_sirou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ran_sirou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://home3.highway.ne.jp/~shirou/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://home3.highway.ne.jp/~shirou/",
@@ -8156,6 +8400,7 @@
    "yomi_group": "S",
    "kansou_slug": "sino",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sino.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8190,6 +8435,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "sussu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sussu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8224,6 +8470,7 @@
    "yomi_group": "た行",
    "kansou_slug": "tacchan",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tacchan.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8258,6 +8505,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "valion",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_valion.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8292,6 +8540,7 @@
    "yomi_group": null,
    "kansou_slug": "yendolls",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yendolls.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8326,6 +8575,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ainishisu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ainishisu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "relay_novel"
    ],
@@ -8364,6 +8614,7 @@
    "yomi_group": "は行",
    "kansou_slug": "byakuutoh",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_byakuutoh.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8397,6 +8648,7 @@
    "yomi_group": "C",
    "kansou_slug": "caviar",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_caviar.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://ume.coco.co.jp/im/eva/pc/yuka/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://ume.coco.co.jp/im/eva/pc/yuka/",
@@ -8432,6 +8684,7 @@
    "yomi_group": "か行",
    "kansou_slug": "goldarm",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_goldarm.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://homepage1.nifty.com/goldarm/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://homepage1.nifty.com/goldarm/",
@@ -8471,6 +8724,7 @@
    "yomi_group": "H",
    "kansou_slug": "hiyuki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hiyuki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.co.jp/Hollywood-Theater/5572/concept/concept.htm",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.co.jp/Hollywood-Theater/5572/concept/concept.htm",
@@ -8508,6 +8762,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "inui",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_inui.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8541,6 +8796,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "jisyou_himajin",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_jisyou_himajin.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8576,6 +8832,7 @@
    "yomi_group": "J",
    "kansou_slug": "johny",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_johny.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8610,6 +8867,7 @@
    "yomi_group": "M",
    "kansou_slug": "missing",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_missing.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8643,6 +8901,7 @@
    "yomi_group": "M",
    "kansou_slug": "muck",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_muck.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8676,6 +8935,7 @@
    "yomi_group": "な行",
    "kansou_slug": "nakata_kyuroban",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nakata_kyuroban.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8711,6 +8971,7 @@
    "yomi_group": "さ行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -8730,7 +8991,7 @@
     "name-only": 4
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__kayo_chan71.html",
     "novel__kayo_chan__kayo_chan68.html",
@@ -8747,6 +9008,7 @@
    "yomi_group": null,
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://member.nifty.ne.jp/verlust/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://member.nifty.ne.jp/verlust/",
@@ -8766,7 +9028,7 @@
     "name-only": 4
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__ambivalenz__ambivalenz4.html",
     "novel__ambivalenz__ambivalenz3.html",
@@ -8783,6 +9045,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ohyama",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ohyama.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://id2.fm-p.jp/23/pyocola/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://id2.fm-p.jp/23/pyocola/",
@@ -8818,6 +9081,7 @@
    "yomi_group": "は行",
    "kansou_slug": "popof",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_popof.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.jp/wqjxt996/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.jp/wqjxt996/",
@@ -8845,39 +9109,6 @@
    ]
   },
   {
-   "slug": "qqqqq",
-   "display_name": "?????",
-   "display_variants": [
-    "?????"
-   ],
-   "yomi_group": null,
-   "kansou_slug": "qqqqq",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_qqqqq.cgi",
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 4,
-   "corpora": {
-    "honkan": 4
-   },
-   "first_date": "1999-05-04",
-   "last_date": "1999-08-03",
-   "identified_by": {
-    "board": 4
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__short__persona.html",
-    "novel__short__tumi.html",
-    "novel__short__5mon.html",
-    "novel__short__yuukaisya.html"
-   ]
-  },
-  {
    "slug": "raulu",
    "display_name": "ラウル",
    "display_variants": [
@@ -8886,6 +9117,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "raulu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_raulu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8919,6 +9151,7 @@
    "yomi_group": "R",
    "kansou_slug": "revolution",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_revolution.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.jp/sapioki/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.jp/sapioki/index.html",
@@ -8954,6 +9187,7 @@
    "yomi_group": "S",
    "kansou_slug": "sana",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sana.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -8987,6 +9221,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "shimakujira",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_shimakujira.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9012,6 +9247,51 @@
    ]
   },
   {
+   "slug": "slents",
+   "display_name": "スレントス -Slents-",
+   "display_variants": [
+    "スレントス -Slents-",
+    "根室　眞琴",
+    "根室　眞琴改め、スレントス-Slents-"
+   ],
+   "yomi_group": "さ行",
+   "kansou_slug": "slents",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_slents.cgi",
+   "kansou_slug_alt": [
+    "memuro_makoto"
+   ],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": "http://www.himurock.com/",
+   "homepage_wayback": "https://web.archive.org/web/2010/http://www.himurock.com/",
+   "homepage_all": [
+    "http://www.himurock.com/",
+    "http://2style.net/cybertrans",
+    "http://www.himurock.com"
+   ],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 4,
+   "corpora": {
+    "honkan": 4
+   },
+   "first_date": "2002-06-04",
+   "last_date": "2005-03-04",
+   "identified_by": {
+    "board": 2,
+    "name-only": 2
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200310__24070239__ZF_NOR_02.html",
+    "novel__200310__24070239__ZF_NOR_01.html",
+    "novel__200206__04231040__story01.html",
+    "novel__200310__24070239__gallant01-01.html"
+   ]
+  },
+  {
    "slug": "sts",
    "display_name": "STS",
    "display_variants": [
@@ -9020,6 +9300,7 @@
    "yomi_group": "S",
    "kansou_slug": "sts",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sts.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.jp/stsnovels/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.jp/stsnovels/",
@@ -9055,6 +9336,7 @@
    "yomi_group": "た行",
    "kansou_slug": "tsuchiya",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tsuchiya.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9088,6 +9370,7 @@
    "yomi_group": "た行",
    "kansou_slug": "tsukitotaiyou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tsukitotaiyou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -9124,6 +9407,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "uekibati",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_uekibati.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9157,6 +9441,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ututu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ututu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -9193,6 +9478,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yuubou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yuubou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9226,6 +9512,7 @@
    "yomi_group": "た行",
    "kansou_slug": "choh_ebizushi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_choh_ebizushi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9258,6 +9545,7 @@
    "yomi_group": "か行",
    "kansou_slug": "gasodamu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_gasodamu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9290,6 +9578,7 @@
    "yomi_group": "か行",
    "kansou_slug": "gomagira",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_gomagira.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9322,6 +9611,7 @@
    "yomi_group": "は行",
    "kansou_slug": "hibiki_asuka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hibiki_asuka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9354,6 +9644,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kakikukeko",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kakikukeko.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9386,6 +9677,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kiyumoto",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kiyumoto.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9410,6 +9702,39 @@
    ]
   },
   {
+   "slug": "kohdhi",
+   "display_name": "コーディー",
+   "display_variants": [
+    "コーディー"
+   ],
+   "yomi_group": "か行",
+   "kansou_slug": "kohdhi",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kohdhi.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 3,
+   "corpora": {
+    "honkan": 3
+   },
+   "first_date": "2001-01-05",
+   "last_date": "2001-02-13",
+   "identified_by": {
+    "board": 3
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200101__05064051__ao3.html",
+    "novel__200101__05064051__ao2.html",
+    "novel__200101__05064051__ao1.html"
+   ]
+  },
+  {
    "slug": "koria",
    "display_name": "紅梨亜",
    "display_variants": [
@@ -9418,6 +9743,7 @@
    "yomi_group": "か行",
    "kansou_slug": "koria",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_koria.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9450,6 +9776,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kurogane",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kurogane.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www37.tok2.com/home/kurutasu/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www37.tok2.com/home/kurutasu/",
@@ -9484,6 +9811,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "lucky",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_lucky.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9516,6 +9844,7 @@
    "yomi_group": "M",
    "kansou_slug": "m3",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_m3.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9540,6 +9869,40 @@
    ]
   },
   {
+   "slug": "macfist",
+   "display_name": "Ｍａｃｆｉｓｔ",
+   "display_variants": [
+    "Ｍａｃｆｉｓｔ"
+   ],
+   "yomi_group": null,
+   "kansou_slug": "macfist",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_macfist.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 3,
+   "corpora": {
+    "legacy": 1,
+    "uncatalogued": 2
+   },
+   "first_date": "1998-06-09",
+   "last_date": "1998-06-09",
+   "identified_by": {
+    "name->board-list": 3
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__transeplant__trancep1.html",
+    "novel__transeplant__trancep2.html",
+    "novel__transeplant__trancep3.html"
+   ]
+  },
+  {
    "slug": "mikan_ame",
    "display_name": "みかん飴",
    "display_variants": [
@@ -9548,6 +9911,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mikan_ame",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mikan_ame.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -9575,80 +9939,16 @@
    ]
   },
   {
-   "slug": "macfist",
-   "display_name": "Ｍａｃｆｉｓｔ",
+   "slug": "moto",
+   "display_name": "ＭＯＴＯ",
    "display_variants": [
-    "Ｍａｃｆｉｓｔ"
+    "ＭＯＴＯ",
+    "もと(ＭＯＴＯ)"
    ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 3,
-   "corpora": {
-    "legacy": 1,
-    "uncatalogued": 2
-   },
-   "first_date": "1998-06-09",
-   "last_date": "1998-06-09",
-   "identified_by": {
-    "name-only": 3
-   },
-   "slug_source": "ascii",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__transeplant__trancep1.html",
-    "novel__transeplant__trancep2.html",
-    "novel__transeplant__trancep3.html"
-   ]
-  },
-  {
-   "slug": "yui",
-   "display_name": "由衣",
-   "display_variants": [
-    "由衣"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 3,
-   "corpora": {
-    "legacy": 2,
-    "uncatalogued": 1
-   },
-   "first_date": "1998-12-05",
-   "last_date": "1999-01-25",
-   "identified_by": {
-    "name-only": 3
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__short__wintry_event_01.html",
-    "novel__short__return_girl1.html",
-    "novel__return-girl1.html"
-   ]
-  },
-  {
-   "slug": "nishisatoru",
-   "display_name": "西さとる",
-   "display_variants": [
-    "西さとる"
-   ],
-   "yomi_group": "な行",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
+   "yomi_group": "M",
+   "kansou_slug": "moto",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_moto.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -9661,17 +9961,18 @@
    "corpora": {
     "honkan": 3
    },
-   "first_date": "2001-12-31",
-   "last_date": "2002-01-28",
+   "first_date": "1998-09-20",
+   "last_date": "1999-08-24",
    "identified_by": {
-    "name-only": 3
+    "board": 2,
+    "name-only": 1
    },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
    "episodes": [
-    "novel__kayo_chan__kayo_chan58.html",
-    "novel__kayo_chan__kayo_chan59.html",
-    "novel__kayo_chan__extra__kayo_ex07.html"
+    "novel__alternative_place.html",
+    "novel__classmate.html",
+    "novel__kayo_chan__kayo_chan26.html"
    ]
   },
   {
@@ -9683,6 +9984,7 @@
    "yomi_group": "た行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -9703,11 +10005,46 @@
     "name-only": 3
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__extra__kayo_ex50.html",
     "novel__kayo_chan__extra__kayo_ex49.html",
     "novel__kayo_chan__kayo_chan107.html"
+   ]
+  },
+  {
+   "slug": "nishi_satoru",
+   "display_name": "西さとる",
+   "display_variants": [
+    "西さとる"
+   ],
+   "yomi_group": "な行",
+   "kansou_slug": "nishi_satoru",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nishi_satoru.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 3,
+   "corpora": {
+    "honkan": 3
+   },
+   "first_date": "2001-12-31",
+   "last_date": "2002-01-28",
+   "identified_by": {
+    "name->board-list": 3
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__kayo_chan__kayo_chan58.html",
+    "novel__kayo_chan__kayo_chan59.html",
+    "novel__kayo_chan__extra__kayo_ex07.html"
    ]
   },
   {
@@ -9720,6 +10057,7 @@
    "yomi_group": "な行",
    "kansou_slug": "norishiro",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_norishiro.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9752,6 +10090,7 @@
    "yomi_group": "な行",
    "kansou_slug": "sakiemon",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sakiemon.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -9788,6 +10127,7 @@
    "yomi_group": "S",
    "kansou_slug": "sato",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sato.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9823,6 +10163,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "shimei",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_shimei.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9855,6 +10196,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "soutyou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_soutyou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://kerorogunsou.hp.infoseek.co.jp/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://kerorogunsou.hp.infoseek.co.jp/",
@@ -9889,6 +10231,7 @@
    "yomi_group": "た行",
    "kansou_slug": "taku_eichi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_taku_eichi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -9921,6 +10264,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "wetio",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_wetio.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -9956,6 +10300,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yamadori_take",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yamadori_take.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -9983,6 +10328,40 @@
    ]
   },
   {
+   "slug": "yui",
+   "display_name": "由衣",
+   "display_variants": [
+    "由衣"
+   ],
+   "yomi_group": null,
+   "kansou_slug": "yui",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yui.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 3,
+   "corpora": {
+    "legacy": 2,
+    "uncatalogued": 1
+   },
+   "first_date": "1998-12-05",
+   "last_date": "1999-01-25",
+   "identified_by": {
+    "name->board-list": 3
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__short__wintry_event_01.html",
+    "novel__short__return_girl1.html",
+    "novel__return-girl1.html"
+   ]
+  },
+  {
    "slug": "a_mode",
    "display_name": "a-mode",
    "display_variants": [
@@ -9991,6 +10370,7 @@
    "yomi_group": "A",
    "kansou_slug": "a_mode",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_a_mode.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10022,6 +10402,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "aibatou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_aibatou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.h7.dion.ne.jp/~poketies/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.h7.dion.ne.jp/~poketies/",
@@ -10057,6 +10438,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "aki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_aki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10089,6 +10471,7 @@
    "yomi_group": "A",
    "kansou_slug": "ayame",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ayame.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10120,6 +10503,7 @@
    "yomi_group": "た行",
    "kansou_slug": "azarashi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_azarashi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10151,6 +10535,7 @@
    "yomi_group": "B",
    "kansou_slug": "boxer_6",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_boxer_6.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10182,6 +10567,7 @@
    "yomi_group": "た行",
    "kansou_slug": "dainamo",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_dainamo.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10215,6 +10601,7 @@
    "yomi_group": "D",
    "kansou_slug": "dragonmagic",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_dragonmagic.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.roo.to/dragonmagic/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.roo.to/dragonmagic/",
@@ -10248,6 +10635,7 @@
    "yomi_group": "E",
    "kansou_slug": "eiri",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_eiri.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10271,6 +10659,40 @@
    ]
   },
   {
+   "slug": "fuu",
+   "display_name": "ふう",
+   "display_variants": [
+    "ふう"
+   ],
+   "yomi_group": "は行",
+   "kansou_slug": "fuu",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_fuu.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 2,
+   "corpora": {
+    "honkan": 2
+   },
+   "first_date": "2006-09-05",
+   "last_date": "2006-11-12",
+   "identified_by": {
+    "name->board-list": 2
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__kayo_chan__extra__kayo_ex52.htm",
+    "novel__kayo_chan__extra__kayo_ex48.html"
+   ]
+  },
+  {
    "slug": "hakuri",
    "display_name": "ハクリ",
    "display_variants": [
@@ -10279,6 +10701,7 @@
    "yomi_group": "は行",
    "kansou_slug": "hakuri",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hakuri.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10310,6 +10733,7 @@
    "yomi_group": "は行",
    "kansou_slug": "herb",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_herb.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10341,6 +10765,7 @@
    "yomi_group": "H",
    "kansou_slug": "hiddenseek",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hiddenseek.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10372,6 +10797,7 @@
    "yomi_group": "た行",
    "kansou_slug": "himajin",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_himajin.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10403,6 +10829,7 @@
    "yomi_group": "は行",
    "kansou_slug": "hori_sachiko",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hori_sachiko.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.co.jp/HeartLand-Poplar/1154/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.co.jp/HeartLand-Poplar/1154/",
@@ -10436,6 +10863,7 @@
    "yomi_group": "J",
    "kansou_slug": "john",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_john.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://blind-devotee.hoops.ne.jp/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://blind-devotee.hoops.ne.jp/",
@@ -10469,6 +10897,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kagami",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kagami.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://members.at.infoseek.co.jp/galaxy_legend/takesi-home/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://members.at.infoseek.co.jp/galaxy_legend/takesi-home/",
@@ -10503,6 +10932,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kamituka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kamituka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10534,6 +10964,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kazaguruma",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kazaguruma.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10557,37 +10988,6 @@
    ]
   },
   {
-   "slug": "kohdhi",
-   "display_name": "コーディー",
-   "display_variants": [
-    "コーディー"
-   ],
-   "yomi_group": "か行",
-   "kansou_slug": "kohdhi",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kohdhi.cgi",
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 2,
-   "corpora": {
-    "honkan": 2
-   },
-   "first_date": "2001-01-05",
-   "last_date": "2001-02-13",
-   "identified_by": {
-    "board": 2
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200101__05064051__ao3.html",
-    "novel__200101__05064051__ao1.html"
-   ]
-  },
-  {
    "slug": "koro",
    "display_name": "koro",
    "display_variants": [
@@ -10596,6 +10996,7 @@
    "yomi_group": "K",
    "kansou_slug": "koro",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_koro.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10627,6 +11028,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mitama",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mitama.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10660,6 +11062,7 @@
    "yomi_group": "M",
    "kansou_slug": "mk8426",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mk8426.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.interq.or.jp/saturn/mk8426/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.interq.or.jp/saturn/mk8426/",
@@ -10693,6 +11096,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "morige",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_morige.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10716,37 +11120,6 @@
    ]
   },
   {
-   "slug": "moto",
-   "display_name": "ＭＯＴＯ",
-   "display_variants": [
-    "ＭＯＴＯ"
-   ],
-   "yomi_group": "M",
-   "kansou_slug": "moto",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_moto.cgi",
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 2,
-   "corpora": {
-    "honkan": 2
-   },
-   "first_date": "1998-09-20",
-   "last_date": "1998-10-23",
-   "identified_by": {
-    "board": 2
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__alternative_place.html",
-    "novel__classmate.html"
-   ]
-  },
-  {
    "slug": "k-kadd",
    "display_name": "Ｋ－ＫＡＤＤ",
    "display_variants": [
@@ -10755,6 +11128,7 @@
    "yomi_group": null,
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -10786,6 +11160,7 @@
    "yomi_group": "は行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -10805,43 +11180,10 @@
     "name-only": 2
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__kayo_chan70.html+20020821",
     "novel__kayo_chan__kayo_chan71.htm"
-   ]
-  },
-  {
-   "slug": "fuu",
-   "display_name": "ふう",
-   "display_variants": [
-    "ふう"
-   ],
-   "yomi_group": "は行",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 2,
-   "corpora": {
-    "honkan": 2
-   },
-   "first_date": "2006-09-05",
-   "last_date": "2006-11-12",
-   "identified_by": {
-    "name-only": 2
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__kayo_chan__extra__kayo_ex52.htm",
-    "novel__kayo_chan__extra__kayo_ex48.html"
    ]
   },
   {
@@ -10853,6 +11195,7 @@
    "yomi_group": "ら行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -10872,7 +11215,7 @@
     "name-only": 2
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__kayo_chan77.html",
     "novel__kayo_chan__kayo_chan78.htm"
@@ -10887,6 +11230,7 @@
    "yomi_group": "さ行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -10906,7 +11250,7 @@
     "name-only": 2
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__kayo_chan76.html",
     "novel__kayo_chan__kayo_chan77.htm"
@@ -10921,6 +11265,7 @@
    "yomi_group": "ま行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -10939,7 +11284,7 @@
     "name-only": 2
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__extra__kayo_ex10.html",
     "novel__kayo_chan__kayo_chan67.html"
@@ -10954,6 +11299,7 @@
    "yomi_group": "た行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -10972,72 +11318,10 @@
     "name-only": 2
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__extra__kayo_ex45.html",
     "novel__kayo_chan__extra__kayo_ex37.htm"
-   ]
-  },
-  {
-   "slug": "kaizurika",
-   "display_name": "海津里花",
-   "display_variants": [
-    "海津里花"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 2,
-   "corpora": {
-    "uncatalogued": 2
-   },
-   "first_date": null,
-   "last_date": null,
-   "identified_by": {
-    "name-only": 2
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__nichijou.html",
-    "novel__survival01.html"
-   ]
-  },
-  {
-   "slug": "ryuusake-gen-an-chou-ebisushi",
-   "display_name": "龍酒 原案：超！海老寿司",
-   "display_variants": [
-    "龍酒 原案：超！海老寿司"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 2,
-   "corpora": {
-    "uncatalogued": 2
-   },
-   "first_date": "2002-02-01",
-   "last_date": "2002-02-01",
-   "identified_by": {
-    "name-only": 2
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200202__17162237__t_m1.html",
-    "novel__200202__17162237__t_m2.html"
    ]
   },
   {
@@ -11049,6 +11333,7 @@
    "yomi_group": "な行",
    "kansou_slug": "nekomata",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nekomata.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11080,6 +11365,7 @@
    "yomi_group": null,
    "kansou_slug": "nekome",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nekome.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11111,6 +11397,7 @@
    "yomi_group": "N",
    "kansou_slug": "night_neon_nightmare_lilim",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_night_neon_nightmare_lilim.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://isweb34.infoseek.co.jp/feminine/sta_fd05/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://isweb34.infoseek.co.jp/feminine/sta_fd05/",
@@ -11144,6 +11431,7 @@
    "yomi_group": "な行",
    "kansou_slug": "niwatatami",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_niwatatami.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11167,39 +11455,6 @@
    ]
   },
   {
-   "slug": "slents",
-   "display_name": "スレントス -Slents-",
-   "display_variants": [
-    "スレントス -Slents-"
-   ],
-   "yomi_group": "さ行",
-   "kansou_slug": "slents",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_slents.cgi",
-   "shared_boards": [],
-   "homepage": "http://www.himurock.com/",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www.himurock.com/",
-   "homepage_all": [
-    "http://www.himurock.com/"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 2,
-   "corpora": {
-    "honkan": 2
-   },
-   "first_date": "2005-03-02",
-   "last_date": "2005-03-04",
-   "identified_by": {
-    "board": 2
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200310__24070239__ZF_NOR_02.html",
-    "novel__200310__24070239__ZF_NOR_01.html"
-   ]
-  },
-  {
    "slug": "soraouka",
    "display_name": "そら＠雪月風花",
    "display_variants": [
@@ -11209,6 +11464,7 @@
    "yomi_group": null,
    "kansou_slug": "soraouka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_soraouka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://setsugetsuhuuka.com/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://setsugetsuhuuka.com/",
@@ -11242,6 +11498,7 @@
    "yomi_group": null,
    "kansou_slug": "sunasan",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sunasan.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://homepage2.nifty.com/~sunasan/indexj.htm",
    "homepage_wayback": "https://web.archive.org/web/2010/http://homepage2.nifty.com/~sunasan/indexj.htm",
@@ -11275,6 +11532,7 @@
    "yomi_group": "た行",
    "kansou_slug": "takurou",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_takurou.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11306,6 +11564,7 @@
    "yomi_group": "T",
    "kansou_slug": "toisan",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_toisan.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11337,6 +11596,7 @@
    "yomi_group": "た行",
    "kansou_slug": "tsukinoshita_mizuki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tsukinoshita_mizuki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11368,6 +11628,7 @@
    "yomi_group": "Y",
    "kansou_slug": "y_kahn",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_y_kahn.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11400,6 +11661,7 @@
    "yomi_group": "Y",
    "kansou_slug": "yoko",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yoko.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://homepage3.nifty.com/elice000/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://homepage3.nifty.com/elice000/index.html",
@@ -11426,6 +11688,43 @@
    ]
   },
   {
+   "slug": "you_",
+   "display_name": "you'",
+   "display_variants": [
+    "you'",
+    "you’"
+   ],
+   "yomi_group": "Y",
+   "kansou_slug": "you_",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_you_.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [
+    "kayo_chan"
+   ],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 2,
+   "corpora": {
+    "honkan": 1,
+    "uncatalogued": 1
+   },
+   "first_date": "2002-08-14",
+   "last_date": "2002-08-14",
+   "identified_by": {
+    "name->board-list": 1,
+    "name-only": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__kayo_chan__kayo_chan70.html+20020814",
+    "novel__kayo_chan__kayo_chan69.html"
+   ]
+  },
+  {
    "slug": "yumeoibito",
    "display_name": "夢追い人",
    "display_variants": [
@@ -11434,6 +11733,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yumeoibito",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yumeoibito.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -11468,6 +11768,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yuu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yuu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11499,6 +11800,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yuugure",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yuugure.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11530,6 +11832,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "yuuma",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yuuma.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11561,6 +11864,7 @@
    "yomi_group": null,
    "kansou_slug": "427",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_427.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11591,6 +11895,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "aozubon",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_aozubon.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11621,6 +11926,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ayukawa",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ayukawa.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11651,6 +11957,7 @@
    "yomi_group": "B",
    "kansou_slug": "backbone",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_backbone.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11681,6 +11988,7 @@
    "yomi_group": "B",
    "kansou_slug": "bustier",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_bustier.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11711,6 +12019,7 @@
    "yomi_group": "た行",
    "kansou_slug": "daisaku",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_daisaku.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11741,6 +12050,7 @@
    "yomi_group": "は行",
    "kansou_slug": "fukakusa_ayumi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_fukakusa_ayumi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11771,6 +12081,7 @@
    "yomi_group": "G",
    "kansou_slug": "g_cat",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_g_cat.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11801,6 +12112,7 @@
    "yomi_group": "か行",
    "kansou_slug": "gaikotsu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_gaikotsu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11831,6 +12143,7 @@
    "yomi_group": null,
    "kansou_slug": "gsdm150",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_gsdm150.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://acquiredalice.web.fc2.com/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://acquiredalice.web.fc2.com/",
@@ -11863,6 +12176,7 @@
    "yomi_group": "は行",
    "kansou_slug": "habahaba",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_habahaba.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11893,6 +12207,7 @@
    "yomi_group": "H",
    "kansou_slug": "hide109",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hide109.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11923,6 +12238,7 @@
    "yomi_group": "H",
    "kansou_slug": "hosoboso",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_hosoboso.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11953,6 +12269,7 @@
    "yomi_group": "I",
    "kansou_slug": "ikka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ikka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -11983,6 +12300,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "isuke",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_isuke.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12013,6 +12331,7 @@
    "yomi_group": "か行",
    "kansou_slug": "k_channel",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_k_channel.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12043,6 +12362,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kaien",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kaien.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12065,38 +12385,6 @@
    ]
   },
   {
-   "slug": "kamikawa_ayano_",
-   "display_name": "神川綾乃",
-   "display_variants": [
-    "神川綾乃"
-   ],
-   "yomi_group": "か行",
-   "kansou_slug": "kamikawa_ayano_",
-   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kamikawa_ayano_.cgi",
-   "shared_boards": [],
-   "homepage": "http://www.studio-horizon.org/",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www.studio-horizon.org/",
-   "homepage_all": [
-    "http://www.studio-horizon.org/"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2002-12-25",
-   "last_date": "2002-12-25",
-   "identified_by": {
-    "board": 1
-   },
-   "slug_source": "kansou-board",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__200104__15172112__angels_12.html"
-   ]
-  },
-  {
    "slug": "kamonanban",
    "display_name": "鴨南蛮",
    "display_variants": [
@@ -12105,6 +12393,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kamonanban",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kamonanban.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12135,6 +12424,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kamorain",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kamorain.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12165,6 +12455,7 @@
    "yomi_group": "か行",
    "kansou_slug": "karaage_New",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_karaage_New.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12195,6 +12486,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kashi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kashi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12225,6 +12517,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kisai_seiryu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kisai_seiryu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12255,6 +12548,7 @@
    "yomi_group": "K",
    "kansou_slug": "knight",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_knight.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12285,6 +12579,7 @@
    "yomi_group": "K",
    "kansou_slug": "kouta",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kouta.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12315,6 +12610,7 @@
    "yomi_group": "か行",
    "kansou_slug": "kozuki_nori",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_kozuki_nori.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12345,6 +12641,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "makoku",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_makoku.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12375,6 +12672,7 @@
    "yomi_group": "M",
    "kansou_slug": "makorin",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_makorin.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12405,6 +12703,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mamedenkyuu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mamedenkyuu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www03.u-page.so-net.ne.jp/za2/kmkm/ar/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www03.u-page.so-net.ne.jp/za2/kmkm/ar/",
@@ -12437,6 +12736,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "miki_taifuu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_miki_taifuu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12467,6 +12767,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "milkseiki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_milkseiki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.ops.dti.ne.jp/~milk",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.ops.dti.ne.jp/~milk",
@@ -12499,6 +12800,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mizuki_hikaru",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mizuki_hikaru.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12529,6 +12831,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mogutan",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mogutan.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12559,6 +12862,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "mori",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_mori.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12589,6 +12893,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "moriya_hihro",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_moriya_hihro.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://moriya.hoops.ne.jp/Top.htm",
    "homepage_wayback": "https://web.archive.org/web/2010/http://moriya.hoops.ne.jp/Top.htm",
@@ -12621,6 +12926,7 @@
    "yomi_group": "ま行",
    "kansou_slug": "myun",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_myun.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12651,6 +12957,7 @@
    "yomi_group": "な行",
    "kansou_slug": "nadaka_shinobu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nadaka_shinobu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://square.millto.net/~shinobu/index.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://square.millto.net/~shinobu/index.html",
@@ -12675,68 +12982,6 @@
    ]
   },
   {
-   "slug": "gensaku-two-bit",
-   "display_name": "(原作:TWO-BIT)",
-   "display_variants": [
-    "(原作:TWO-BIT)"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "rental_body"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2000-09-19",
-   "last_date": "2000-09-19",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "special__rb__index.html"
-   ]
-  },
-  {
-   "slug": "author-1",
-   "display_name": "？？？？",
-   "display_variants": [
-    "？？？？"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "legacy": 1
-   },
-   "first_date": "1998-09-27",
-   "last_date": "1998-09-27",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "fallback",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__trans_gals.html"
-   ]
-  },
-  {
    "slug": "blue14",
    "display_name": "blue14",
    "display_variants": [
@@ -12745,6 +12990,7 @@
    "yomi_group": "B",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -12777,6 +13023,7 @@
    "yomi_group": "B",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "relay_novel"
    ],
@@ -12795,71 +13042,9 @@
     "name-only": 1
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__200305__04184146__relay5.html"
-   ]
-  },
-  {
-   "slug": "dekoi-kyouryoku-datta",
-   "display_name": "DEKOI（協力　DATTA）",
-   "display_variants": [
-    "DEKOI（協力　DATTA）"
-   ],
-   "yomi_group": "D",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "relay_novel"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2004-01-31",
-   "last_date": "2004-01-31",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200305__04184146__relay3.html"
-   ]
-  },
-  {
-   "slug": "hiko-gensaku-shirodansan",
-   "display_name": "ＨＩＫＯ（原作：城弾さん）",
-   "display_variants": [
-    "ＨＩＫＯ（原作：城弾さん）"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "uncatalogued": 1
-   },
-   "first_date": "2007-03-01",
-   "last_date": "2007-03-01",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200703__16205836__doukyonin_if.htm"
    ]
   },
   {
@@ -12871,6 +13056,7 @@
    "yomi_group": "I",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -12905,6 +13091,7 @@
    "yomi_group": null,
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -12935,6 +13122,7 @@
    "yomi_group": "K",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "relay_novel"
    ],
@@ -12967,6 +13155,7 @@
    "yomi_group": "M",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "relay_novel"
    ],
@@ -12993,164 +13182,6 @@
    ]
   },
   {
-   "slug": "you-2",
-   "display_name": "you'",
-   "display_variants": [
-    "you'"
-   ],
-   "yomi_group": "Y",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2002-08-14",
-   "last_date": "2002-08-14",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "ascii",
-   "slug_status": "auto",
-   "episodes": [
-    "novel__kayo_chan__kayo_chan70.html+20020814"
-   ]
-  },
-  {
-   "slug": "you-3",
-   "display_name": "you’",
-   "display_variants": [
-    "you’"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "uncatalogued": 1
-   },
-   "first_date": null,
-   "last_date": null,
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__kayo_chan__kayo_chan69.html"
-   ]
-  },
-  {
-   "slug": "popo-2",
-   "display_name": "ぽぽ",
-   "display_variants": [
-    "ぽぽ"
-   ],
-   "yomi_group": "は行",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": "http://www.arcadia.or.nu",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www.arcadia.or.nu",
-   "homepage_all": [
-    "http://www.arcadia.or.nu"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2001-10-16",
-   "last_date": "2001-10-16",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__kayo_chan__kayo_chan54.html"
-   ]
-  },
-  {
-   "slug": "moto-moto",
-   "display_name": "もと(ＭＯＴＯ)",
-   "display_variants": [
-    "もと(ＭＯＴＯ)"
-   ],
-   "yomi_group": "M",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "1999-08-24",
-   "last_date": "1999-08-24",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__kayo_chan__kayo_chan26.html"
-   ]
-  },
-  {
-   "slug": "yuasanomiki-ga-mogutansama",
-   "display_name": "ゆあさのみき 画：もぐたん様",
-   "display_variants": [
-    "ゆあさのみき 画：もぐたん様"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "uncatalogued": 1
-   },
-   "first_date": "2002-02-01",
-   "last_date": "2002-02-01",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200202__14230904__revival_girl24.htm"
-   ]
-  },
-  {
    "slug": "konkana",
    "display_name": "コンカナ",
    "display_variants": [
@@ -13159,6 +13190,7 @@
    "yomi_group": "か行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -13177,41 +13209,9 @@
     "name-only": 1
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__extra__kayo_ex60.htm"
-   ]
-  },
-  {
-   "slug": "shieawaarudo",
-   "display_name": "シェアワールド",
-   "display_variants": [
-    "シェアワールド"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "himekami"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2001-05-02",
-   "last_date": "2001-05-02",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200103__24194542__himetitle.html"
    ]
   },
   {
@@ -13223,6 +13223,7 @@
    "yomi_group": null,
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -13243,45 +13244,13 @@
     "name-only": 1
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__kayo_chan111.html"
    ]
   },
   {
-   "slug": "akimichiru-koukei",
-   "display_name": "亜希みちる＆こうけい",
-   "display_variants": [
-    "亜希みちる＆こうけい"
-   ],
-   "yomi_group": "あ行",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "himekami"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2001-06-25",
-   "last_date": "2001-06-25",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200103__24194542__himegami_15.htm"
-   ]
-  },
-  {
-   "slug": "nakanetakusari",
+   "slug": "nakane_takusari",
    "display_name": "仲根多鎖",
    "display_variants": [
     "仲根多鎖"
@@ -13289,6 +13258,7 @@
    "yomi_group": "な行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -13307,43 +13277,13 @@
     "name-only": 1
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__kayo_chan108.html"
    ]
   },
   {
-   "slug": "satouyui",
-   "display_name": "佐藤由衣",
-   "display_variants": [
-    "佐藤由衣"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "uncatalogued": 1
-   },
-   "first_date": "2002-04-01",
-   "last_date": "2002-04-01",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200204__30012101__grandfather02.html"
-   ]
-  },
-  {
-   "slug": "chiriakutaou",
+   "slug": "jinkaiou",
    "display_name": "塵芥王",
    "display_variants": [
     "塵芥王"
@@ -13351,6 +13291,7 @@
    "yomi_group": "さ行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "kayo_chan"
    ],
@@ -13369,141 +13310,13 @@
     "name-only": 1
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__kayo_chan__kayo_chan83.html"
    ]
   },
   {
-   "slug": "tenran-e-mukugesan",
-   "display_name": "天爛／絵：ムクゲさん（",
-   "display_variants": [
-    "天爛／絵：ムクゲさん（"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "uncatalogued": 1
-   },
-   "first_date": "2006-07-01",
-   "last_date": "2006-07-01",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200607__02124625__nvl__yaoma_5.html"
-   ]
-  },
-  {
-   "slug": "nemuro-makoto",
-   "display_name": "根室　眞琴",
-   "display_variants": [
-    "根室　眞琴"
-   ],
-   "yomi_group": "な行",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": "http://2style.net/cybertrans",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://2style.net/cybertrans",
-   "homepage_all": [
-    "http://2style.net/cybertrans"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2002-06-04",
-   "last_date": "2002-06-04",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200206__04231040__story01.html"
-   ]
-  },
-  {
-   "slug": "nemuro-makotoaratame-surentosu-slents",
-   "display_name": "根室　眞琴改め、スレントス-Slents-",
-   "display_variants": [
-    "根室　眞琴改め、スレントス-Slents-"
-   ],
-   "yomi_group": "さ行",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": "http://www.himurock.com",
-   "homepage_wayback": "https://web.archive.org/web/2010/http://www.himurock.com",
-   "homepage_all": [
-    "http://www.himurock.com"
-   ],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2003-10-24",
-   "last_date": "2003-10-24",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__200310__24070239__gallant01-01.html"
-   ]
-  },
-  {
-   "slug": "yonetsu-ga-misshingu",
-   "display_name": "米津 画：みっしんぐ",
-   "display_variants": [
-    "米津 画：みっしんぐ"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "uncatalogued": 1
-   },
-   "first_date": null,
-   "last_date": null,
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__perky_girl__perky_girl_ex2nf.html"
-   ]
-  },
-  {
-   "slug": "uronta",
+   "slug": "koranta",
    "display_name": "胡乱太",
    "display_variants": [
     "胡乱太"
@@ -13511,6 +13324,7 @@
    "yomi_group": "か行",
    "kansou_slug": null,
    "kansou_annex_url": null,
+   "kansou_slug_alt": [],
    "shared_boards": [
     "sugar_sweets"
    ],
@@ -13529,103 +13343,9 @@
     "name-only": 1
    },
    "slug_source": "pykakasi",
-   "slug_status": "candidate",
+   "slug_status": "confirmed",
    "episodes": [
     "novel__sugar__sweet.html"
-   ]
-  },
-  {
-   "slug": "takigitakashi-makitakashi",
-   "display_name": "薪喬（まきたかし）",
-   "display_variants": [
-    "薪喬（まきたかし）"
-   ],
-   "yomi_group": "ま行",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "2002-02-01",
-   "last_date": "2002-02-01",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__kayo_chan__extra__kayo_ex08.html"
-   ]
-  },
-  {
-   "slug": "kakusan-e-oyaji-san-bun",
-   "display_name": "角さん(絵) / オヤジ さん(文)",
-   "display_variants": [
-    "角さん(絵) / オヤジ さん(文)"
-   ],
-   "yomi_group": "か行",
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [
-    "kayo_chan"
-   ],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "honkan": 1
-   },
-   "first_date": "1999-09-15",
-   "last_date": "1999-09-15",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__kayo_chan__kayo_image03.html"
-   ]
-  },
-  {
-   "slug": "reika",
-   "display_name": "麗香",
-   "display_variants": [
-    "麗香"
-   ],
-   "yomi_group": null,
-   "kansou_slug": null,
-   "kansou_annex_url": null,
-   "shared_boards": [],
-   "homepage": null,
-   "homepage_wayback": null,
-   "homepage_all": [],
-   "active_links": [],
-   "contact_status": "uncontacted",
-   "episode_count": 1,
-   "corpora": {
-    "legacy": 1
-   },
-   "first_date": "1999-02-19",
-   "last_date": "1999-02-19",
-   "identified_by": {
-    "name-only": 1
-   },
-   "slug_source": "pykakasi",
-   "slug_status": "candidate",
-   "episodes": [
-    "novel__reika__puko_and_me__index1.html"
    ]
   },
   {
@@ -13637,6 +13357,7 @@
    "yomi_group": "な行",
    "kansou_slug": "nekojarashi",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_nekojarashi.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13667,6 +13388,7 @@
    "yomi_group": "O",
    "kansou_slug": "ogre",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ogre.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13697,6 +13419,7 @@
    "yomi_group": "あ行",
    "kansou_slug": "ouga",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ouga.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13727,6 +13450,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "rapeet",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_rapeet.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13757,6 +13481,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "rasetsu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_rasetsu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13787,6 +13512,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "rijih",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_rijih.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.geocities.co.jp/AnimeComic-Pen/1554/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.geocities.co.jp/AnimeComic-Pen/1554/",
@@ -13819,6 +13545,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "rizu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_rizu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13849,6 +13576,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "roppo",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_roppo.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13879,6 +13607,7 @@
    "yomi_group": "ら行",
    "kansou_slug": "ruu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ruu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13909,6 +13638,7 @@
    "yomi_group": "S",
    "kansou_slug": "s_f",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_s_f.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -13939,6 +13669,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "saifa",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_saifa.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www5d.biglobe.ne.jp/~henshin",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www5d.biglobe.ne.jp/~henshin",
@@ -13971,6 +13702,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "sakurazawa_sinnji",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sakurazawa_sinnji.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14001,6 +13733,7 @@
    "yomi_group": "S",
    "kansou_slug": "sand_roses",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sand_roses.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://sandroses.tripod.co.jp/zz/Z1.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://sandroses.tripod.co.jp/zz/Z1.html",
@@ -14033,6 +13766,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "satoh_kouko",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_satoh_kouko.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14055,6 +13789,37 @@
    ]
   },
   {
+   "slug": "satoh_yui",
+   "display_name": "佐藤由衣",
+   "display_variants": [
+    "佐藤由衣"
+   ],
+   "yomi_group": null,
+   "kansou_slug": "satoh_yui",
+   "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_satoh_yui.cgi",
+   "kansou_slug_alt": [],
+   "shared_boards": [],
+   "homepage": null,
+   "homepage_wayback": null,
+   "homepage_all": [],
+   "active_links": [],
+   "contact_status": "uncontacted",
+   "episode_count": 1,
+   "corpora": {
+    "uncatalogued": 1
+   },
+   "first_date": "2002-04-01",
+   "last_date": "2002-04-01",
+   "identified_by": {
+    "name->board-list": 1
+   },
+   "slug_source": "kansou-board",
+   "slug_status": "auto",
+   "episodes": [
+    "novel__200204__30012101__grandfather02.html"
+   ]
+  },
+  {
    "slug": "sergeant",
    "display_name": "サージェント雪舟",
    "display_variants": [
@@ -14063,6 +13828,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "sergeant",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sergeant.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14093,6 +13859,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "sudoh_natsuki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_sudoh_natsuki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14123,6 +13890,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "suzuki_shizuka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_suzuki_shizuka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14153,6 +13921,7 @@
    "yomi_group": "さ行",
    "kansou_slug": "syouji_mimu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_syouji_mimu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www.tf-mio.com/index2.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www.tf-mio.com/index2.html",
@@ -14185,6 +13954,7 @@
    "yomi_group": "T",
    "kansou_slug": "task",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_task.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14215,6 +13985,7 @@
    "yomi_group": null,
    "kansou_slug": "tekoiruka",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tekoiruka.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14245,6 +14016,7 @@
    "yomi_group": "た行",
    "kansou_slug": "tenmei",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tenmei.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14275,6 +14047,7 @@
    "yomi_group": "た行",
    "kansou_slug": "tetsura",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tetsura.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14305,6 +14078,7 @@
    "yomi_group": "た行",
    "kansou_slug": "tourisugari",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_tourisugari.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14335,6 +14109,7 @@
    "yomi_group": "た行",
    "kansou_slug": "triptycon",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_triptycon.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://homepage1.nifty.com/tryptcon/",
    "homepage_wayback": "https://web.archive.org/web/2010/http://homepage1.nifty.com/tryptcon/",
@@ -14367,6 +14142,7 @@
    "yomi_group": "T",
    "kansou_slug": "ts_dansyaku",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_ts_dansyaku.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14397,6 +14173,7 @@
    "yomi_group": "U",
    "kansou_slug": "u_t_lenge",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_u_t_lenge.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14427,6 +14204,7 @@
    "yomi_group": "Y",
    "kansou_slug": "y_o",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_y_o.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14457,6 +14235,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yoshikazu",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yoshikazu.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14487,6 +14266,7 @@
    "yomi_group": "や行",
    "kansou_slug": "you",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_you.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": null,
    "homepage_wayback": null,
@@ -14517,6 +14297,7 @@
    "yomi_group": "や行",
    "kansou_slug": "yukimatiduki",
    "kansou_annex_url": "https://takano32.github.io/ts-novels/~ts/kansou/bbs@log_yukimatiduki.cgi",
+   "kansou_slug_alt": [],
    "shared_boards": [],
    "homepage": "http://www7b.biglobe.ne.jp/~yukimatiduki/contents.html",
    "homepage_wayback": "https://web.archive.org/web/2010/http://www7b.biglobe.ne.jp/~yukimatiduki/contents.html",

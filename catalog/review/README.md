@@ -1,5 +1,13 @@
 # catalog/review/ — 人間レビュー用の資料
 
+> **状態: 完了 (2026-08-30)。** 作者 slug 42 件が `catalog/slug_overrides.yml` に
+> `status: confirmed` で入り、build 側 (`authors_build.py` の作者併合と `role: not-an-author`、
+> 新設した `catalog/episode_overrides.yml`) も裁定に追随済みです。実測は進行台帳の
+> 👤 1.5b の項に、統合した作者の一覧は `catalog/QA.md` §9 にあります。
+> **以下は裁定に至るまでの調査記録**として残しています。
+
+
+
 進行台帳 [`docs/wp-implementation-tasks.md`](../../docs/wp-implementation-tasks.md) の
 **👤 1.5b「work_overrides.yml と slug_overrides.yml の確認・確定」**のための資料です。
 `catalog/` の生成物そのものではなく、**人間が読むために作った説明**です

@@ -8,7 +8,8 @@
 #   make verify    … bodies/*.md を html5lib で検算する (要 make venv)
 #
 # 段の順番には意味がある。episodes.jsonl は catalog_build が新規に書き、
-# uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記する。
+# uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記し、
+# episode_overrides が最後に人手の上書き (原本の誤植の訂正) を当てる。
 # terms/authors/works はその出来上がった episodes.jsonl を読む。
 #
 # 1.6 body_convert (本文 Markdown 化) は実装済み。下の ifneq は「スクリプトが無い環境でも
@@ -28,6 +29,7 @@ catalog:
 	$(PYTHON) $(WP)/catalog_build.py        # 1.1 本館 lib1-73 + 1.2 旧目録 lib01-09
 	$(PYTHON) $(WP)/uncatalogued_build.py   # 1.8 目録に載っていない novel/ 配下の本文
 	$(PYTHON) $(WP)/repost_build.py         # 1.9 作者本人の再掲 (検証済み 2 件)
+	$(PYTHON) $(WP)/episode_overrides.py    # 話単位の人手上書き (原本 lib*.html の誤植)
 	$(PYTHON) $(WP)/terms_build.py          # 1.3 分類語彙 (genre/type/keyword/world/corpus)
 	$(PYTHON) $(WP)/authors_build.py        # 1.4 作者の同定
 	$(PYTHON) $(WP)/work_builder.py         # 1.5 Episode -> Work クラスタリング
@@ -43,6 +45,7 @@ check:
 	$(PYTHON) $(WP)/catalog_build.py --check
 	$(PYTHON) $(WP)/uncatalogued_build.py --check
 	$(PYTHON) $(WP)/repost_build.py --check
+	$(PYTHON) $(WP)/episode_overrides.py --check
 	$(PYTHON) $(WP)/terms_build.py --check
 	$(PYTHON) $(WP)/authors_build.py --check
 	$(PYTHON) $(WP)/work_builder.py --check

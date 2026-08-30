@@ -1,30 +1,15 @@
 {
  "generated_by": "scripts/wp/authors_build.py",
  "episodes": 3844,
- "authors": 342,
- "authors_with_board": 294,
- "authors_without_board": 48,
- "display_name_strings_distinct": 428,
- "display_variant_groups": 57,
- "display_variants_merged": 88,
- "display_variant_slots": 430,
- "display_names_shared_by_authors": 2,
- "display_names_shared_detail": [
-  [
-   "神川綾乃",
-   [
-    "kamikawa_ayano",
-    "kamikawa_ayano_"
-   ]
-  ],
-  [
-   "コーディー",
-   [
-    "jersey_red",
-    "kohdhi"
-   ]
-  ]
- ],
+ "authors": 322,
+ "authors_with_board": 300,
+ "authors_without_board": 22,
+ "display_name_strings_distinct": 427,
+ "display_variant_groups": 67,
+ "display_variants_merged": 105,
+ "display_variant_slots": 427,
+ "display_names_shared_by_authors": 0,
+ "display_names_shared_detail": [],
  "display_variant_examples": [
   [
    "mashiro_yuu",
@@ -38,6 +23,13 @@
    [
     "バレット",
     "石積ナラ"
+   ]
+  ],
+  [
+   "shining_heaven",
+   [
+    "天爛",
+    "天爛／絵：ムクゲさん（"
    ]
   ],
   [
@@ -63,6 +55,14 @@
    ]
   ],
   [
+   "ryuhju",
+   [
+    "龍酒",
+    "作：龍酒　原案：超！海老寿司",
+    "龍酒 原案：超！海老寿司"
+   ]
+  ],
+  [
    "kotobuki_hikaru_ndcss",
    [
     "ことぶきひかる",
@@ -82,17 +82,10 @@
    ]
   ],
   [
-   "ryuhju",
+   "aki_michiru",
    [
-    "龍酒",
-    "作：龍酒　原案：超！海老寿司"
-   ]
-  ],
-  [
-   "miyashita_shinobu",
-   [
-    "宮下しのぶ",
-    "ＭＩＥＹＡ（宮下しのぶ　改め）"
+    "亜希みちる",
+    "亜希みちる＆こうけい"
    ]
   ],
   [
@@ -100,7 +93,15 @@
    [
     "DEKOI",
     "作：Datta　原案：DEKOI",
-    "DEKOI＆Datta"
+    "DEKOI＆Datta",
+    "DEKOI（協力　DATTA）"
+   ]
+  ],
+  [
+   "miyashita_shinobu",
+   [
+    "宮下しのぶ",
+    "ＭＩＥＹＡ（宮下しのぶ　改め）"
    ]
   ],
   [
@@ -125,6 +126,13 @@
    ]
   ],
   [
+   "yuasano_miki",
+   [
+    "ゆあさのみき",
+    "ゆあさのみき 画：もぐたん様"
+   ]
+  ],
+  [
    "manachan",
    [
     "NATO",
@@ -139,14 +147,8 @@
     "TWO-BIT",
     "２bit（冬眠中）",
     "２bit（休眠中）",
-    "ＴＷＯ－ＢＩＴ"
-   ]
-  ],
-  [
-   "jersey_red",
-   [
-    "ジャージレッド",
-    "コーディー"
+    "ＴＷＯ－ＢＩＴ",
+    "(原作:TWO-BIT)"
    ]
   ],
   [
@@ -154,7 +156,8 @@
    [
     "Ｍａｒｉｅ",
     "Ｍａｒｉｅ・Ｒｅｉｋａ",
-    "Marie"
+    "Marie",
+    "麗香"
    ]
   ],
   [
@@ -164,21 +167,6 @@
     "猫野　丸太丸",
     "猫野 丸太丸",
     "猫野　犬貴"
-   ]
-  ],
-  [
-   "zyuka",
-   [
-    "Ｚｙｕｋａ",
-    "Zyuka"
-   ]
-  ],
-  [
-   "yosswih",
-   [
-    "よっすぃー",
-    "吉井重治",
-    "よっすぃー（吉井重治　改め）"
    ]
   ]
  ],
@@ -198,6 +186,7 @@
  ],
  "episodes_unresolved_author": [],
  "episodes_no_author_by_design": [
+  "novel__200103__24194542__himetitle.html",
   "novel__kayo_chan__title02.html",
   "novel__200101__milfia__milfia-index.html",
   "novel__200101__milfia__milfia1.html",
@@ -236,64 +225,235 @@
   "novel__triangle_equation2.html",
   "novel__triangle_equation3.html"
  ],
- "episodes_no_author_by_design_count": 37,
- "episodes_assigned": 3807,
- "ambiguous_name_to_board": [
-  {
-   "author": "神川綾乃",
-   "boards": {
-    "kamikawa_ayano": 30,
-    "kamikawa_ayano_": 1
-   },
-   "episode_id": "novel__kayo_chan__kayo_chan102.htm"
-  },
-  {
-   "author": "神川綾乃",
-   "boards": {
-    "kamikawa_ayano": 30,
-    "kamikawa_ayano_": 1
-   },
-   "episode_id": "novel__kayo_chan__kayo_chan99.html"
-  },
-  {
-   "author": "神川綾乃",
-   "boards": {
-    "kamikawa_ayano": 30,
-    "kamikawa_ayano_": 1
-   },
-   "episode_id": "novel__kayo_chan__kayo_chan81.html"
-  },
-  {
-   "author": "神川綾乃",
-   "boards": {
-    "kamikawa_ayano": 30,
-    "kamikawa_ayano_": 1
-   },
-   "episode_id": "novel__kayo_chan__kayo_chan66.html"
-  }
- ],
- "ambiguous_name_to_board_count": 4,
- "yomi_resolved": 312,
- "homepage_present": 116,
+ "episodes_no_author_by_design_count": 38,
+ "episodes_not_an_author": [],
+ "episodes_assigned": 3806,
+ "ambiguous_name_to_board": [],
+ "ambiguous_name_to_board_count": 0,
+ "yomi_resolved": 303,
+ "homepage_present": 112,
  "index_rows_parsed": 3779,
  "index_authors_distinct": 382,
- "slug_sources": {
-  "kansou-board": 294,
-  "pykakasi": 39,
-  "ascii": 8,
-  "fallback": 1
+ "kansou_board_sources": {
+  "board_list_rows": 290,
+  "board_list_personal": 281,
+  "board_list_shared_world": 9,
+  "board_list_with_author_name": 278,
+  "board_files_not_listed": 16,
+  "board_files_not_listed_with_author_name": 10,
+  "board_files_not_listed_slugs": [
+   "_amp_time_7",
+   "_time_1",
+   "_time_3",
+   "_time_7",
+   "hiku",
+   "jiten",
+   "k_kadd",
+   "kamikawa_ayano_",
+   "karaage",
+   "kazematuri_rei",
+   "kitou_rei",
+   "memuro_makoto",
+   "nanagiri_res_200206064181320",
+   "oyagiaka",
+   "shinkyou",
+   "sky_high"
+  ],
+  "names_with_board": 287
  },
- "slug_pending_review": 40,
+ "authors_identified_by_board_list": 8,
+ "authors_identified_by_board_list_detail": [
+  [
+   "ふう",
+   "fuu"
+  ],
+  [
+   "この市場",
+   "konoichiba"
+  ],
+  [
+   "macfist",
+   "macfist"
+  ],
+  [
+   "西さとる",
+   "nishi_satoru"
+  ],
+  [
+   "ぽぽ",
+   "popo"
+  ],
+  [
+   "佐藤由衣",
+   "satoh_yui"
+  ],
+  [
+   "you'",
+   "you_"
+  ],
+  [
+   "由衣",
+   "yui"
+  ]
+ ],
+ "authors_with_alt_board": 8,
+ "board_slug_mismatch": [],
+ "board_slug_mismatch_count": 0,
+ "confirmed_names": 42,
+ "confirmed_slugs_distinct": 39,
+ "confirmed_slugs_missing_in_authors": [],
+ "not_an_author_names": [
+  "himekami_series"
+ ],
+ "author_merges": [
+  {
+   "slug": "shining_heaven",
+   "kept": "天爛",
+   "merged": [
+    "天爛／絵：ムクゲさん（"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "ryuhju",
+   "kept": "龍酒",
+   "merged": [
+    "龍酒 原案：超！海老寿司"
+   ],
+   "episodes_added": 2
+  },
+  {
+   "slug": "aki_michiru",
+   "kept": "亜希みちる",
+   "merged": [
+    "亜希みちる＆こうけい"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "dekoi",
+   "kept": "DEKOI",
+   "merged": [
+    "DEKOI（協力　DATTA）"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "yuasano_miki",
+   "kept": "ゆあさのみき",
+   "merged": [
+    "ゆあさのみき 画：もぐたん様"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "two_bit",
+   "kept": "ＴＷＯ−ＢＩＴ",
+   "merged": [
+    "(原作:TWO-BIT)"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "marie",
+   "kept": "Ｍａｒｉｅ",
+   "merged": [
+    "麗香"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "maki_takashi",
+   "kept": "薪喬",
+   "merged": [
+    "薪喬（まきたかし）"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "hiko",
+   "kept": "HIKO",
+   "merged": [
+    "ＨＩＫＯ（原作：城弾さん）"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "kakusan",
+   "kept": "角",
+   "merged": [
+    "角さん(絵) / オヤジ さん(文)"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "yonezu",
+   "kept": "米津",
+   "merged": [
+    "米津 画：みっしんぐ"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "aizu_rika",
+   "kept": "会津里花",
+   "merged": [
+    "海津里花"
+   ],
+   "episodes_added": 2
+  },
+  {
+   "slug": "qqqqq",
+   "kept": "?????",
+   "merged": [
+    "？？？？"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "moto",
+   "kept": "ＭＯＴＯ",
+   "merged": [
+    "もと(ＭＯＴＯ)"
+   ],
+   "episodes_added": 1
+  },
+  {
+   "slug": "slents",
+   "kept": "スレントス -Slents-",
+   "merged": [
+    "根室　眞琴",
+    "根室　眞琴改め、スレントス-Slents-"
+   ],
+   "episodes_added": 2
+  },
+  {
+   "slug": "you_",
+   "kept": "you'",
+   "merged": [
+    "you’"
+   ],
+   "episodes_added": 1
+  }
+ ],
+ "author_merges_count": 16,
+ "authors_removed_by_merge": 17,
+ "slug_sources": {
+  "kansou-board": 300,
+  "pykakasi": 16,
+  "ascii": 6
+ },
+ "slug_pending_review": 0,
  "selftest": [
   {
    "name": "作者数の内訳が合う (延べ表示名 − 統合分 == 作者数)",
    "ok": true,
-   "detail": "430 - 88 == 342"
+   "detail": "427 - 105 == 322"
   },
   {
    "name": "作者数を記録 (台帳の ≈399 は表示名の異なり数であり人数ではない)",
    "ok": true,
-   "detail": "実測 342 名 / 表示名 428 種 / 複数作者が使う表示名 2 種"
+   "detail": "実測 322 名 / 表示名 427 種 / 複数作者が使う表示名 0 種"
   },
   {
    "name": "全 episode の author が解決 (未解決 0)",
@@ -303,7 +463,7 @@
   {
    "name": "episode の割り当て漏れ 0 (作者不詳の告知/目録外を除く)",
    "ok": true,
-   "detail": "3807 + 作者不詳 37 / 3844"
+   "detail": "3806 + 作者不詳 38 + 作者ではない 0 / 3844"
   },
   {
    "name": "slug の重複 0",
@@ -314,6 +474,21 @@
    "name": "板を持つ作者の slug は板 id",
    "ok": true,
    "detail": ""
+  },
+  {
+   "name": "confirmed slug と板一覧の不一致 0 (板がある表示名は必ずその板 id を使う)",
+   "ok": true,
+   "detail": "不一致 0 件 []"
+  },
+  {
+   "name": "👤 1.5b の裁定 (confirmed) が全て authors.json に出ている",
+   "ok": true,
+   "detail": "未反映 []"
+  },
+  {
+   "name": "裁定による作者の併合を記録",
+   "ok": true,
+   "detail": "16 組 / 作者 17 名が併合で消えた"
   }
  ],
  "selftest_ok": true

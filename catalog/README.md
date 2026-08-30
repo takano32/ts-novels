@@ -17,14 +17,15 @@ WordPress は `wp ts import` でいつでも作り直せる**使い捨ての派�
 
 | ファイル | 生成元 | 内容 | 状態 |
 |---|---|---|---|
-| `episodes.jsonl` | `catalog_build.py` → `uncatalogued_build.py` → `repost_build.py` | 全 3,844 話 = 正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載の再掲 1(数え方: `episodes.jsonl` の行数と `corpus` 欄の内訳) | ✅ タスク 1.1 / 1.2 / 1.8 / 1.9 |
+| `episodes.jsonl` | `catalog_build.py` → `uncatalogued_build.py` → `repost_build.py` → `episode_overrides.py` | 全 3,844 話 = 正規目録 2,887 + 旧目録 97 + 目録外収蔵 859 + 文庫未掲載の再掲 1(数え方: `episodes.jsonl` の行数と `corpus` 欄の内訳) | ✅ タスク 1.1 / 1.2 / 1.8 / 1.9 |
 | `uncatalogued_excluded.jsonl` | `uncatalogued_build.py` | 目録外走査で「作品ではない」と判定して落としたファイルと理由 | ✅ |
 | `reports/catalog_build.json` | 同上 | 件数・被覆率・自己検査結果の機械可読レポート | ✅ |
 | `terms.json` | `terms_build.py` | 分類語彙 5 本 (genre 196 / type 165 / keyword 1,032 / world 14 / corpus 5)。数え方: `terms.json` の各 taxonomy の `terms` 配列長。WP のタクソノミーは `ts_author` を足して 6 本だが、作者語彙は `authors.json` 側 | ✅ タスク 1.3 |
 | `genre_map.yml` / `type_map.yml` / `keyword_map.yml` / `world_map.yml` | 同上 (初回生成→以後は人手で編集) | 正規化マップと ts_world の判定規則 | ✅ |
-| `slug_overrides.yml` | `terms_build.py` / `authors_build.py` / `work_builder.py` | 恒久 URL slug の確認台帳 (👤 1.5b) | ⏳ 確認待ち |
-| `authors.json` | `authors_build.py` | 作者 342 名 (表示名 428 種を感想板 id で統合)。数え方: `authors.json` の `authors` 配列長 / `reports/authors_build.json` の `display_name_strings_distinct` | ✅ タスク 1.4 |
-| `works.jsonl` / `work_overrides.yml` | `work_builder.py` | Episode → Work クラスタ 1,463 件 (単発 946 / 連載 517、orphan 0、needs_review 328)。数え方: `works.jsonl` の行数 | ✅ タスク 1.5 |
+| `slug_overrides.yml` | `terms_build.py` / `authors_build.py` / `work_builder.py` | 恒久 URL slug の確認台帳 (👤 1.5b)。**作者 42 件は `status: confirmed` で確定**、作品 1,451 件と分類語彙 1,407 件は自動生成のまま採用 | ✅ 1.5b 確定 |
+| `episode_overrides.yml` | 人手で編集 (`episode_overrides.py` が読む) | 話 1 件単位の上書き。**旧館の原本 `lib*.html` の誤植を catalog 側で直す唯一の場所**。現状 3 行 (神川綾乃の板の誤植 / コーディーの板の誤植 / シェアワールド = シリーズ目次) | ✅ |
+| `authors.json` | `authors_build.py` | 作者 **322 名** (表示名 427 種を感想板 id と 1.5b の裁定で統合。板あり 300 / 板なし 22)。数え方: `authors.json` の `authors` 配列長 / `reports/authors_build.json` の `display_name_strings_distinct` / `authors_with_board` | ✅ タスク 1.4 / 1.5b |
+| `works.jsonl` / `work_overrides.yml` | `work_builder.py` | Episode → Work クラスタ **1,451 件** (単発 932 / 連載 519、orphan 0、needs_review 331)。数え方: `works.jsonl` の行数 | ✅ タスク 1.5 |
 | `convert_report.jsonl` | `body_convert.py` | 本文 MD 変換の無損失証明ログ (全 3,844 話分の判定) | ✅ タスク 1.6 |
 | `QA.md` | `qa_report.py` (`make catalog` の最後) | 全体の QA レポート | ✅ タスク 1.7 |
 
@@ -43,6 +44,7 @@ make check       # ファイルを書かずに各段の自己検査だけ
 
 段の順番には意味がある。`episodes.jsonl` は `catalog_build` が新規に書き、
 `uncatalogued_build` と `repost_build` が**自分の corpus 分だけ差し替えて**追記し、
+`episode_overrides` が最後に人手の上書き (原本の誤植の訂正) を当て、
 `terms_build` / `authors_build` / `work_builder` はその出来上がりを読む。
 2 回連続実行で全出力が同一になることを確認済み。
 
@@ -92,7 +94,7 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | `noteky_url` `noteky_id` | lib07–09 の感想リンク。正規目録の作者別板 (`bbs@log_<id>.cgi`) と違い**作品単位のノート** (`~ezpe/cgi-bin/noteky/…`) |
 | `zokusei` `zokusei_raw` | 【属性】欄 (lib07–09 のみ) |
 | `legacy_format` | `flat` (lib01–06 の非テーブル) / `table` (lib07–09 の移行期テーブル) |
-| `entry_role` | `work` / `notice` (作者欄が `***` の編集部告知ブロック。現状 1 件) |
+| `entry_role` | `work` / `notice` (作者欄が `***` の編集部告知ブロック。現状 1 件) / `series-index` (シリーズ目次ページ。作者欄に人名でない値が入っていたもの。現状 1 件 = 姫神奇譚タイトルページ) |
 | `commented_out` | **原本の HTML コメント内に隠されていたエントリ** (12 件)。運営が意図的に伏せた可能性があるので、WP へ投入するかは人間の判断待ち |
 | `notice` | 【お知らせ】欄 |
 
@@ -125,6 +127,30 @@ mailto 由来の値の残存 0 / survey 実測値との突き合わせ)。1 つ�
 | `body_format` / `body_convert_exempt` | `plain-text` / `true` = **1.6 の HTML→MD 変換の対象外**。Phase 3 で空行区切りの段落分割 |
 | `published_in_bunko` | `false` なら**文庫には一度も載っていない**。書誌カードに「文庫未掲載・pixiv 由来」と明示する |
 | `repost_url` | 再掲元 (pixiv 作品ページ) |
+
+## 人手で上書きした話の追加欄 (episode_overrides.yml 由来)
+
+| フィールド | 内容 |
+|---|---|
+| `overrides_applied[]` | `{field, from, to}`。**旧館の原本 `lib*.html` の値をどう直したか**。現状 3 話 |
+| `override_note` | なぜ直したのか (`catalog/episode_overrides.yml` の `note:` の転記) |
+
+別館 (GitHub Pages) は原本レイヤなので誤植もそのまま保つ。直すのは catalog 側だけで、
+その差分がこの 2 欄に残る。上書き可能な欄は author / kansou_slug / entry_role / title /
+homepage / date に限っており、**結合キー `episode_id` と `provenance` には触れない**。
+
+## authors.json の主な欄
+
+| フィールド | 内容 |
+|---|---|
+| `slug` | 恒久 URL `/authors/<slug>/`。感想板 id が最優先、無ければ 👤 1.5b の裁定 |
+| `display_name` / `display_variants[]` | 代表表示名と、統合した全表記 (`Ｍａｒｉｅ` / `麗香` など) |
+| `kansou_slug` / `kansou_annex_url` | 本人の感想板 id と別館上の板ログ URL |
+| `kansou_slug_alt[]` | **同じ人を指す別の板** — 旧名義の板 (薪喬 → `shinkyou`)・別名の板 (HIKU → `hiku`)・誤植の板 (`kamikawa_ayano_`)。現状 8 名 |
+| `shared_boards[]` | 共有世界の板 (華代ちゃん等)。作者の板ではない |
+| `yomi_group` | `lib-index-*.html` の五十音索引での所属行 |
+| `slug_source` / `slug_status` | `kansou-board` / `ascii` / `pykakasi` と、`auto` / `confirmed` |
+| `identified_by` | どの規則で同定したか (`board` / `name->board` / `name->board-list` / `name-only`) |
 
 ## provenance の出所について (台帳との差異)
 

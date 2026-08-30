@@ -315,8 +315,15 @@ def build(root):
     for members in ordered:
         members.sort(key=episode_order_key)
         eids = [m['episode_id'] for m in members]
-        # 目録外収蔵で作者が特定できなかった話 (entry_role=unattributed) の受け皿
-        aslug = author_of.get(eids[0]) or 'unattributed'
+        # 作者に紐づかない話の受け皿。目録外収蔵で作者が特定できなかったもの
+        # (entry_role=unattributed) は「作者不詳」だが、シリーズ目次ページ
+        # (entry_role=series-index。目録の作者欄が「シェアワールド」だった姫神奇譚の
+        # 目次) は**作者不詳ではなく目次**なので別の受け皿に分ける。
+        aslug = author_of.get(eids[0])
+        if not aslug:
+            aslug = ('series-index'
+                     if {m.get('entry_role') for m in members} == {'series-index'}
+                     else 'unattributed')
         rules = set()
         for eid in eids:
             rules |= u.why.get(eid, set())
@@ -377,7 +384,8 @@ def build(root):
             ('work_slug', slug),
             ('title', work_title),
             ('author_slug', aslug),
-            ('author_display', author_name.get(eids[0]) or '作者不詳'),
+            ('author_display', author_name.get(eids[0])
+             or ('シリーズ目次' if aslug == 'series-index' else '作者不詳')),
             ('episode_count', len(members)),
             ('corpora', dict(collections.Counter(m['corpus'] for m in members))),
             ('first_date', min((m.get('date') or '' for m in members), default=None)),

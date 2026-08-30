@@ -91,7 +91,8 @@ python3 scripts/audit_full.py                                 # 検証
 `make catalog` で 1.1〜1.9 を一発実行できる (リポジトリ直下の Makefile)。
 段の順番には意味がある — episodes.jsonl は catalog_build が新規に書き、
 uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記し、
-terms/authors/works はその出来上がりを読む。`make check` は書き込みなしの自己検査、
+episode_overrides が最後に人手の上書きを当て、terms/authors/works はその出来上がりを読む。
+`make check` は書き込みなしの自己検査、
 `make venv` は pykakasi / PyYAML 入りの `.venv` を作る (git 管理外)。
 **2 回連続実行で全出力が同一**であることを確認済み。
 
@@ -110,9 +111,22 @@ terms/authors/works はその出来上がりを読む。`make check` は書き�
   題名規則) と ts_corpus 4 本もここで生成。当時の語彙定義ページ (genre.html /
   type_of_change.html / keyword.html) を term description に転用する。
 
+- **wp/episode_overrides.py** — 話 1 件単位の人手上書きを episodes.jsonl に当てる
+  (`catalog/episode_overrides.yml`)。**旧館の原本 `lib*.html` の誤植を catalog 側で直す
+  唯一の場所**で、別館 (Pages) は原本レイヤなので誤植もそのまま保つ、という分担。
+  上書き前にあるはずの値を `expect:` に書かせ、合わなければ自己検査が落ちる。
+  触れるのは author / kansou_slug / entry_role / title / homepage / date だけで、
+  **結合キー episode_id と provenance には触れない**。
+
 - **wp/authors_build.py** — 作者を `catalog/authors.json` へ (タスク 1.4)。感想板 id を
   同定の鍵にし、共有シリーズ板 (華代ちゃん等 11 板) は作者板ではないので表示名で同定する。
-  yomi は lib-index-*.html の所属行から。板を持たない作者の slug は pykakasi 候補どまり。
+  板 id の情報源は 2 つ — 目録の感想リンクと、**サイト自身の感想板一覧
+  `~ts/kansou/bbs@log_.cgi` (290 板の「表示名 → 板 id」対応表)**。後者を足したことで
+  「板はあるのに目録からリンクされていない」作者 8 名を機械の読みで採番する事故が消えた
+  (自己検査「confirmed slug と板一覧の不一致 0」で再発を防ぐ)。yomi は lib-index-*.html の
+  所属行から。板を持たない作者の slug は pykakasi 候補どまり。
+  `slug_overrides.yml` で**複数の表示名に同じ slug** を書くと同一人物として併合し、
+  `role: not-an-author` を書くとその表示名では作者を作らない。
 
 - **wp/work_builder.py** — Episode → Work クラスタリング (タスク 1.5)。6 段の根拠
   (シリーズタイトルナビ / series.html / タイトルページ / 話ナビ / ファイル名連番 / 題名接頭辞)

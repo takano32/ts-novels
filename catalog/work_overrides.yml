@@ -81,6 +81,12 @@ works:
     evidence:
     - filename-stem
     work_title: プロフェッサーK 第
+  aizu_rika|真奈と慎吾5〜 Survival:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 真奈と慎吾5〜 Survival
   akame_redeye|天に願いを:
     confirmed: false
     episodes: 2
@@ -368,6 +374,12 @@ works:
     - filename-stem
     - title-prefix
     work_title: 君が思う心
+  hiko|同居人〜if:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - title-prefix
+    work_title: 同居人〜if
   hiroo_syou|なにかが、やってくるかも:
     confirmed: false
     episodes: 2
@@ -1094,6 +1106,13 @@ works:
     - series-title-nav
     - title-prefix
     work_title: 若葉色の怪盗１
+  konoichiba|新米皇女の大冒険:
+    confirmed: false
+    episodes: 28
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: 新米皇女の大冒険
   konoshijou|新米皇女の大冒険:
     confirmed: false
     episodes: 28
@@ -1529,6 +1548,12 @@ works:
     - filename-stem
     - title-prefix
     work_title: 悪魔少女ニコ 「悲劇の誕生
+  nishi_satoru|華代ちゃんシリーズ:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: 華代ちゃんシリーズ
   nishisatoru|華代ちゃんシリーズ:
     confirmed: false
     episodes: 2
@@ -1662,6 +1687,14 @@ works:
     - series-title-nav
     - title-prefix
     work_title: SAKE
+  ryuhju|TWIN MINDS(前:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - series-html
+    - title-prefix
+    work_title: TWIN MINDS(前
   ryuhju|paintar:
     confirmed: false
     episodes: 3
@@ -2304,6 +2337,13 @@ works:
     evidence:
     - filename-stem
     work_title: いんまなあの子
+  yonezu|いんまなあの子がOne☆Man??Show!!:
+    confirmed: false
+    episodes: 4
+    evidence:
+    - filename-stem
+    - title-prefix
+    work_title: いんまなあの子がOne☆Man??Show!!
   yoshioka|姫神奇譚:
     confirmed: false
     episodes: 2
@@ -2335,6 +2375,12 @@ works:
     evidence:
     - filename-stem
     work_title: ＴＳ戒
+  you_|kayo_chan69:
+    confirmed: false
+    episodes: 2
+    evidence:
+    - filename-stem
+    work_title: kayo_chan69
   yuasano_miki|リバイバルガール:
     confirmed: false
     episodes: 29

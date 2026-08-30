@@ -1,21 +1,21 @@
 {
  "generated_by": "scripts/wp/work_builder.py",
  "episodes": 3844,
- "works": 1463,
- "works_single_episode": 946,
- "works_multi_episode": 517,
+ "works": 1451,
+ "works_single_episode": 932,
+ "works_multi_episode": 519,
  "episodes_in_works": 3844,
  "orphans": [],
- "needs_review": 328,
+ "needs_review": 331,
  "needs_review_reasons": {
-  "multi-directory": 37,
+  "multi-directory": 38,
   "large-cluster": 22,
-  "weak-evidence": 269
+  "weak-evidence": 271
  },
  "evidence_histogram": {
   "filename-stem,series-title-nav,title-prefix": 45,
   "filename-stem,series-title-nav,title-page,title-prefix": 17,
-  "filename-stem,title-prefix": 84,
+  "filename-stem,title-prefix": 85,
   "episode-nav,filename-stem,series-title-nav,title-prefix": 8,
   "filename-stem,series-html,series-title-nav,title-page,title-prefix": 2,
   "series-title-nav,title-prefix": 3,
@@ -24,15 +24,15 @@
   "episode-nav,filename-stem,series-title-nav,title-page": 1,
   "filename-stem,title-page,title-prefix": 1,
   "episode-nav,filename-stem,series-html,title-prefix": 29,
-  "filename-stem": 98,
+  "filename-stem": 97,
   "episode-nav,filename-stem,series-title-nav,title-page,title-prefix": 1,
   "episode-nav,title-prefix": 4,
   "filename-stem,series-html,series-title-nav,title-page": 1,
   "episode-nav,filename-stem": 15,
   "episode-nav,filename-stem,title-prefix": 72,
-  "filename-stem,series-html,title-prefix": 10,
-  "title-prefix": 87,
-  "filename-stem,series-html": 9,
+  "filename-stem,series-html,title-prefix": 11,
+  "title-prefix": 89,
+  "filename-stem,series-html": 8,
   "series-html,title-prefix": 4,
   "filename-stem,series-html,series-title-nav,title-prefix": 1,
   "episode-nav,filename-stem,series-title-nav": 1,
@@ -41,12 +41,12 @@
   "episode-nav,filename-stem,series-html": 3,
   "series-title-nav": 2,
   "episode-nav": 1,
-  "single": 946
+  "single": 932
  },
  "series_html_rows": 112,
  "series_html_rows_with_links": 112,
  "title_pages_on_disk": 168,
- "works_with_title_page": 234,
+ "works_with_title_page": 231,
  "alias_paths_total": 55,
  "largest_works": [
   [
@@ -75,7 +75,11 @@
   ],
   [
    "yuasano_miki-ribaibarugaaru",
-   30
+   31
+  ],
+  [
+   "aki_michiru-himegamikitan",
+   29
   ],
   [
    "dekoi-kariudo-chiisakifutarinoyousei",
@@ -84,15 +88,11 @@
   [
    "ashikaga-henkaku",
    29
-  ],
-  [
-   "aki_michiru-himegamikitan",
-   28
   ]
  ],
  "slug_sources": {
-  "pykakasi": 1308,
-  "ascii": 155
+  "pykakasi": 1298,
+  "ascii": 153
  },
- "slug_pending_review": 1308
+ "slug_pending_review": 1298
 }

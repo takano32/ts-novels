@@ -61,8 +61,10 @@ def main(argv=None):
             special['plain-text-repost'] += 1
         if r.get('commented_out'):
             special['commented-out-in-source'] += 1
-        if r.get('entry_role') in ('notice', 'unattributed'):
+        if r.get('entry_role') in ('notice', 'unattributed', 'series-index'):
             special[r['entry_role']] += 1
+        if r.get('overrides_applied'):
+            special['human-override'] += 1
 
     L = []
     L.append('# catalog QA レポート\n')
@@ -177,7 +179,11 @@ def main(argv=None):
              '- `plain-text-repost` … 作者本人の再掲から回収したプレーンテキスト '
              '(1.6 の HTML→MD 変換の対象外)\n'
              '- `commented-out-in-source` … 旧目録の HTML コメント内に隠されていたエントリ\n'
-             '- `notice` / `unattributed` … 作者欄が無い編集部告知 / 作者を特定できなかった目録外収蔵\n')
+             '- `notice` / `unattributed` … 作者欄が無い編集部告知 / 作者を特定できなかった目録外収蔵\n'
+             '- `series-index` … 目録の作者欄に人名でない値が入っていたシリーズ目次ページ '
+             '(作者不詳ではない)\n'
+             '- `human-override` … `catalog/episode_overrides.yml` で原本の誤植を直した話。'
+             '内訳は `catalog/reports/episode_overrides.json`\n')
 
     L.append('## 8. 本文 Markdown 変換 (タスク 1.6)\n')
     if cnv:
@@ -209,9 +215,21 @@ def main(argv=None):
         ('slug 確認待ち (作品)', wrk['slug_pending_review'] if wrk else '—'),
         ('slug 確認待ち (分類語彙)', trm['slug_pending_review'] if trm else '—'),
         ('work_overrides.yml の雛形', wrk['needs_review'] if wrk else '—'),
+        ('裁定済み (作者 slug の `status: confirmed`)',
+         aut.get('confirmed_names', '—') if aut else '—'),
+        ('裁定による作者の併合', '%d 組 / 作者 %d 名が統合で消えた'
+         % (aut['author_merges_count'], aut['authors_removed_by_merge'])
+         if aut and 'author_merges_count' in aut else '—'),
     ]))
     L.append('\n確認するファイル: `catalog/slug_overrides.yml` / `catalog/work_overrides.yml`。'
-             '`status: confirmed` にした行は再生成しても上書きされない。\n')
+             '`status: confirmed` にした行は再生成しても上書きされない。\n'
+             '作品 slug と分類語彙 slug は**サイト所有者の決定により自動生成のまま採用**する'
+             '(確認しない)ので、上の「確認待ち」は残ったままでよい。\n')
+    if aut and aut.get('author_merges'):
+        L.append('\n併合した作者 (裁定 = `catalog/review/authors-slugs.md`):\n')
+        for m in aut['author_merges']:
+            L.append('- `%s` ← %s' % (m['slug'], ' / '.join([m['kept']] + m['merged'])))
+        L.append('')
     if aut and aut.get('display_names_shared_detail'):
         L.append('\n同じ表示名が別々の作者鍵に跨がっている (同名別人か、統合し損ねか):\n')
         for name, slugs in aut['display_names_shared_detail']:

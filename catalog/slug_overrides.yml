@@ -10,7 +10,19 @@
 # 直したいときは slug を書き換えて status を confirmed にしてください。
 # 進行台帳 docs/wp-implementation-tasks.md の 👤 1.5b がこのファイルの確認タスクです。
 #
-# --- 同名別 slug の裁定 (2026-08-30 Fable。実装は authors_build/episodes 側の対応が必要) ---
+# authors セクションで使える追加の欄:
+#   note: …   裁定の根拠。人間が読むためのもの (生成器は触らない)
+#   role: not-an-author
+#             **この表示名では作者を作らない**。目録の作者欄に人名でない値が
+#             入っていた場合 (「シェアワールド」= シリーズ目次ページ) に使う。
+#             authors_build.py が作者化をやめ、話は entry_role / ts_world 側で拾う
+#
+# 複数の表示名に**同じ slug** を書くと、authors_build.py はそれを
+# **同一人物の併合の指示**として読む (根室　眞琴 と 根室　眞琴改め… → slents、
+# 麗香 → marie、ぽぽ → popo)。統合された表示名は authors.json の
+# display_variants に残り、URL は 1 本になる。
+#
+# --- 同名別 slug の裁定 (2026-08-30 Fable。実装済み: catalog/episode_overrides.yml) ---
 # 1) 神川綾乃: kamikawa_ayano_ は実在しない板 (CGI の hidden log 値が kamikawa_ayano)。
 #    kamikawa_ayano に統合し、novel/200104/15172112/angels_12.html を kamikawa_ayano へ。
 # 2) コーディー: jersey_red (ジャージレッド) とは別人。コーディーの正は kohdhi。
@@ -22,10 +34,10 @@
 
 authors:
   (原作:TWO-BIT):
+    note: 既存作者への注記。RB企画ページの筆頭は運営委員会だが板一覧の two_bit に寄せる (2026-08-30 Fable 裁定)
     slug: two_bit
     source: pykakasi
     status: confirmed
-    note: "既存作者への注記。RB企画ページの筆頭は運営委員会だが板一覧の two_bit に寄せる (2026-08-30 Fable 裁定)"
   100万Hit:
     slug: million
     source: kansou-board
@@ -55,19 +67,19 @@ authors:
     source: kansou-board
     status: auto
   Bシュウ:
+    note: シュウとは別人 (サイトの索引・板の扱いに従う) (2026-08-30 Fable 裁定)
     slug: bshuu
     source: pykakasi
     status: confirmed
-    note: "シュウとは別人 (サイトの索引・板の扱いに従う) (2026-08-30 Fable 裁定)"
   DEKOI:
     slug: dekoi
     source: kansou-board
     status: auto
   DEKOI（協力　DATTA）:
+    note: 注記表記。メールローカル部が DEKOI 4表記で同一 (2026-08-30 Fable 裁定)
     slug: dekoi
     source: pykakasi
     status: confirmed
-    note: "注記表記。メールローカル部が DEKOI 4表記で同一 (2026-08-30 Fable 裁定)"
   G-Cat:
     slug: g_cat
     source: kansou-board
@@ -245,15 +257,15 @@ authors:
     source: kansou-board
     status: auto
   you':
+    note: you’と同一人物 (板 you_)。統合 (2026-08-30 Fable 裁定)
     slug: you_
     source: ascii
     status: confirmed
-    note: "you’と同一人物 (板 you_)。統合 (2026-08-30 Fable 裁定)"
   you’:
+    note: 板 log 値 you_。ASCII 表記 you' と同一人物として統合 (2026-08-30 Fable 裁定)
     slug: you_
     source: pykakasi
     status: confirmed
-    note: "板 log 値 you_。ASCII 表記 you' と同一人物として統合 (2026-08-30 Fable 裁定)"
   yuk:
     slug: yuk
     source: kansou-board
@@ -279,10 +291,10 @@ authors:
     source: kansou-board
     status: auto
   あのよろし:
+    note: 索引位置と一致 (2026-08-30 Fable 裁定)
     slug: anoyoroshi
     source: pykakasi
     status: confirmed
-    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   あむぁい:
     slug: amulai
     source: kansou-board
@@ -332,10 +344,10 @@ authors:
     source: kansou-board
     status: auto
   この市場:
+    note: 板一覧 konoichiba。読みは「このいちば」 (2026-08-30 Fable 裁定)
     slug: konoichiba
     source: pykakasi
     status: confirmed
-    note: "板一覧 konoichiba。読みは「このいちば」 (2026-08-30 Fable 裁定)"
   ごく普通のサラリーマン:
     slug: salaryman
     source: kansou-board
@@ -365,15 +377,15 @@ authors:
     source: kansou-board
     status: auto
   ぴろ:
+    note: 索引位置と一致 (2026-08-30 Fable 裁定)
     slug: piro
     source: pykakasi
     status: confirmed
-    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   ふう:
+    note: 板一覧と一致 (2026-08-30 Fable 裁定)
     slug: fuu
     source: pykakasi
     status: confirmed
-    note: "板一覧と一致 (2026-08-30 Fable 裁定)"
   ふらっと:
     slug: flat
     source: kansou-board
@@ -383,10 +395,10 @@ authors:
     source: kansou-board
     status: auto
   ぽぽ:
+    note: 板タイトル「ぽぽさん(HIKUさん)…」= サイト自身が同一視。HIKU も slug popo (2026-08-30 Fable 裁定)
     slug: popo
     source: pykakasi
     status: confirmed
-    note: "板タイトル「ぽぽさん(HIKUさん)…」= サイト自身が同一視。HIKU も slug popo (2026-08-30 Fable 裁定)"
   まーさ:
     slug: mahsa
     source: kansou-board
@@ -412,10 +424,10 @@ authors:
     source: kansou-board
     status: auto
   もと(ＭＯＴＯ):
+    note: 同一人物の別表記。板一覧 moto (2026-08-30 Fable 裁定)
     slug: moto
     source: pykakasi
     status: confirmed
-    note: "同一人物の別表記。板一覧 moto (2026-08-30 Fable 裁定)"
   もりげ:
     slug: morige
     source: kansou-board
@@ -429,10 +441,10 @@ authors:
     source: kansou-board
     status: auto
   ゆあさのみき 画：もぐたん様:
+    note: 画師併記の巻き込み。感想リンクが yuasano_miki (2026-08-30 Fable 裁定)
     slug: yuasano_miki
     source: pykakasi
     status: confirmed
-    note: "画師併記の巻き込み。感想リンクが yuasano_miki (2026-08-30 Fable 裁定)"
   ゆうぼう:
     slug: yuubou
     source: kansou-board
@@ -462,10 +474,10 @@ authors:
     source: kansou-board
     status: auto
   ろっほ:
+    note: 索引位置と一致 (roppo=思案の六ぽ と混同しない) (2026-08-30 Fable 裁定)
     slug: rohho
     source: pykakasi
     status: confirmed
-    note: "索引位置と一致 (roppo=思案の六ぽ と混同しない) (2026-08-30 Fable 裁定)"
   ろーむ:
     slug: roam
     source: kansou-board
@@ -499,10 +511,10 @@ authors:
     source: kansou-board
     status: auto
   コンカナ:
+    note: 索引位置と一致 (2026-08-30 Fable 裁定)
     slug: konkana
     source: pykakasi
     status: confirmed
-    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   コーディー:
     slug: kohdhi
     source: kansou-board
@@ -524,25 +536,27 @@ authors:
     source: kansou-board
     status: auto
   シェアワールド:
+    note: '作者ではない (シリーズ目次ページの誤登録)。authors_build で作者化せず、話は ts_world 姫神奇譚へ — 実装は role:
+      not-an-author を参照 (2026-08-30 Fable 裁定)'
+    role: not-an-author
     slug: himekami_series
     source: pykakasi
     status: confirmed
-    note: "作者ではない (シリーズ目次ページの誤登録)。authors_build で作者化せず、話は ts_world 姫神奇譚へ — 実装は role: not-an-author を参照 (2026-08-30 Fable 裁定)"
-    role: not-an-author
   シュウ:
+    note: Bシュウとは別人 (2026-08-30 Fable 裁定)
     slug: shuu
     source: pykakasi
     status: confirmed
-    note: "Bシュウとは別人 (2026-08-30 Fable 裁定)"
   ジニ:
     slug: jini
     source: kansou-board
     status: auto
   ジブドレ:
+    note: 独立作者として維持 (mr_nagasaki と birthday0420 が共通し同一人物の疑いはあるが、確証なしのため安全側) (2026-08-30
+      Fable 裁定)
     slug: jibudore
     source: pykakasi
     status: confirmed
-    note: "独立作者として維持 (mr_nagasaki と birthday0420 が共通し同一人物の疑いはあるが、確証なしのため安全側) (2026-08-30 Fable 裁定)"
   ジャージレッド:
     slug: jersey_red
     source: kansou-board
@@ -620,10 +634,10 @@ authors:
     source: kansou-board
     status: auto
   ヒラリーマン:
+    note: 長音は省略する翻字を採用 (hirariiman は読みにくい) (2026-08-30 Fable 裁定)
     slug: hirariman
     source: pykakasi
     status: confirmed
-    note: "長音は省略する翻字を採用 (hirariiman は読みにくい) (2026-08-30 Fable 裁定)"
   フレーズ:
     slug: phrase
     source: kansou-board
@@ -649,10 +663,10 @@ authors:
     source: kansou-board
     status: auto
   メガ\:
+    note: 末尾  は文字化け由来。後年の改名「日本海」は display_variants へ (2026-08-30 Fable 裁定)
     slug: mega
     source: pykakasi
     status: confirmed
-    note: "末尾 \ は文字化け由来。後年の改名「日本海」は display_variants へ (2026-08-30 Fable 裁定)"
   ヤマダ:
     slug: yamada
     source: kansou-board
@@ -714,24 +728,24 @@ authors:
     source: kansou-board
     status: auto
   亜希みちる＆こうけい:
+    note: 合作。筆頭 aki_michiru に寄せ、こうけいは display_variants/話メタへ (2026-08-30 Fable 裁定)
     slug: aki_michiru
     source: pykakasi
     status: confirmed
-    note: "合作。筆頭 aki_michiru に寄せ、こうけいは display_variants/話メタへ (2026-08-30 Fable 裁定)"
   仲根多鎖:
+    note: 読み未確定 (たくさり/たさ)。訓読み複合「たくさり」を採用し姓と区切る (2026-08-30 Fable 裁定)
     slug: nakane_takusari
     source: pykakasi
     status: confirmed
-    note: "読み未確定 (たくさり/たさ)。訓読み複合「たくさり」を採用し姓と区切る (2026-08-30 Fable 裁定)"
   会津里花:
     slug: aizu_rika
     source: kansou-board
     status: auto
   佐藤由衣:
+    note: 板一覧 satoh_yui。「由衣」とは別人 (板が別) (2026-08-30 Fable 裁定)
     slug: satoh_yui
     source: pykakasi
     status: confirmed
-    note: "板一覧 satoh_yui。「由衣」とは別人 (板が別) (2026-08-30 Fable 裁定)"
   佐藤香子:
     slug: satoh_kouko
     source: kansou-board
@@ -745,10 +759,10 @@ authors:
     source: kansou-board
     status: auto
   匿名希望:
+    note: 連作2話の同一匿名者。1名として残す (2026-08-30 Fable 裁定)
     slug: tokumeikibou
     source: pykakasi
     status: confirmed
-    note: "連作2話の同一匿名者。1名として残す (2026-08-30 Fable 裁定)"
   十六夜:
     slug: izayoi
     source: kansou-board
@@ -802,10 +816,10 @@ authors:
     source: kansou-board
     status: auto
   塵芥王:
+    note: さ行索引の位置 (じ〜す) より「じんかいおう」 (2026-08-30 Fable 裁定)
     slug: jinkaiou
     source: pykakasi
     status: confirmed
-    note: "さ行索引の位置 (じ〜す) より「じんかいおう」 (2026-08-30 Fable 裁定)"
   壊燕:
     slug: kaien
     source: kansou-board
@@ -843,10 +857,10 @@ authors:
     source: kansou-board
     status: auto
   天爛／絵：ムクゲさん（:
+    note: 目録パース事故。天爛=板 shining_heaven (2026-08-30 Fable 裁定)
     slug: shining_heaven
     source: pykakasi
     status: confirmed
-    note: "目録パース事故。天爛=板 shining_heaven (2026-08-30 Fable 裁定)"
   太九郎:
     slug: takurou
     source: kansou-board
@@ -924,15 +938,16 @@ authors:
     source: kansou-board
     status: auto
   根室　眞琴:
+    note: 改名前名義。同一人物 (メールローカル部一致・同作品の改訂)。作者ページは slents に一本化し旧名義は display_variants
+      へ (2026-08-30 Fable 裁定)
     slug: slents
     source: pykakasi
     status: confirmed
-    note: "改名前名義。同一人物 (メールローカル部一致・同作品の改訂)。作者ページは slents に一本化し旧名義は display_variants へ (2026-08-30 Fable 裁定)"
   根室　眞琴改め、スレントス-Slents-:
+    note: 改名告知の表記。slents へ (2026-08-30 Fable 裁定)
     slug: slents
     source: pykakasi
     status: confirmed
-    note: "改名告知の表記。slents へ (2026-08-30 Fable 裁定)"
   桜沢シンジ:
     slug: sakurazawa_sinnji
     source: kansou-board
@@ -970,10 +985,10 @@ authors:
     source: kansou-board
     status: auto
   海津里花:
+    note: 本文署名「会津里花」・作品集合一致。サイト側の誤記 (2026-08-30 Fable 裁定)
     slug: aizu_rika
     source: pykakasi
     status: confirmed
-    note: "本文署名「会津里花」・作品集合一致。サイト側の誤記 (2026-08-30 Fable 裁定)"
   深草あゆみ:
     slug: fukakusa_ayumi
     source: kansou-board
@@ -1003,10 +1018,10 @@ authors:
     source: kansou-board
     status: auto
   由衣:
+    note: 板一覧と一致 (2026-08-30 Fable 裁定)
     slug: yui
     source: pykakasi
     status: confirmed
-    note: "板一覧と一致 (2026-08-30 Fable 裁定)"
   白羽党:
     slug: byakuutoh
     source: kansou-board
@@ -1032,7 +1047,7 @@ authors:
     source: kansou-board
     status: auto
   神川綾乃:
-    slug: kamikawa_ayano_
+    slug: kamikawa_ayano
     source: kansou-board
     status: auto
   神束:
@@ -1044,19 +1059,19 @@ authors:
     source: kansou-board
     status: auto
   空知かたほ:
+    note: 索引位置と一致 (2026-08-30 Fable 裁定)
     slug: sorachikataho
     source: pykakasi
     status: confirmed
-    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   米津:
     slug: yonezu
     source: kansou-board
     status: auto
   米津 画：みっしんぐ:
+    note: 画師併記の巻き込み。板一覧 yonezu (2026-08-30 Fable 裁定)
     slug: yonezu
     source: pykakasi
     status: confirmed
-    note: "画師併記の巻き込み。板一覧 yonezu (2026-08-30 Fable 裁定)"
   紀由元駄話沙:
     slug: kiyumoto
     source: kansou-board
@@ -1070,10 +1085,10 @@ authors:
     source: kansou-board
     status: auto
   胡乱太:
+    note: か行索引の位置 (こと〜こん) より「こらんた」 (2026-08-30 Fable 裁定)
     slug: koranta
     source: pykakasi
     status: confirmed
-    note: "か行索引の位置 (こと〜こん) より「こらんた」 (2026-08-30 Fable 裁定)"
   自称暇人:
     slug: jisyou_himajin
     source: kansou-board
@@ -1099,10 +1114,10 @@ authors:
     source: kansou-board
     status: auto
   薪喬（まきたかし）:
+    note: 括弧内読みが板 slug と一致 (2026-08-30 Fable 裁定)
     slug: maki_takashi
     source: pykakasi
     status: confirmed
-    note: "括弧内読みが板 slug と一致 (2026-08-30 Fable 裁定)"
   藍羽桃和寛:
     slug: aibatou
     source: kansou-board
@@ -1112,24 +1127,24 @@ authors:
     source: kansou-board
     status: auto
   虎之助:
+    note: 最も自然な読み。tiger はドメイン由来で本人表記でない (2026-08-30 Fable 裁定)
     slug: toranosuke
     source: pykakasi
     status: confirmed
-    note: "最も自然な読み。tiger はドメイン由来で本人表記でない (2026-08-30 Fable 裁定)"
   西さとる:
+    note: 板一覧 nishi_satoru (2026-08-30 Fable 裁定)
     slug: nishi_satoru
     source: pykakasi
     status: confirmed
-    note: "板一覧 nishi_satoru (2026-08-30 Fable 裁定)"
   角:
     slug: kakusan
     source: kansou-board
     status: auto
   角さん(絵) / オヤジ さん(文):
+    note: 筆頭 角さん=板 kakusan。オヤジは話メタへ (2026-08-30 Fable 裁定)
     slug: kakusan
     source: pykakasi
     status: confirmed
-    note: "筆頭 角さん=板 kakusan。オヤジは話メタへ (2026-08-30 Fable 裁定)"
   豆電球:
     slug: mamedenkyuu
     source: kansou-board
@@ -1227,10 +1242,10 @@ authors:
     source: kansou-board
     status: auto
   高樹ひろむ:
+    note: 索引位置と一致 (2026-08-30 Fable 裁定)
     slug: takakihiromu
     source: pykakasi
     status: confirmed
-    note: "索引位置と一致 (2026-08-30 Fable 裁定)"
   鮎川 翔子:
     slug: ayukawa
     source: kansou-board
@@ -1240,10 +1255,11 @@ authors:
     source: kansou-board
     status: auto
   麗香:
+    note: novel/reika/ を Ｍａｒｉｅ・Ｒｅｉｋａ と共有 (imagine が by Reika Marie)。marie に統合し麗香は
+      display_variants へ (2026-08-30 Fable 裁定)
     slug: marie
     source: pykakasi
     status: confirmed
-    note: "novel/reika/ を Ｍａｒｉｅ・Ｒｅｉｋａ と共有 (imagine が by Reika Marie)。marie に統合し麗香は display_variants へ (2026-08-30 Fable 裁定)"
   麻国:
     slug: makoku
     source: kansou-board
@@ -1261,10 +1277,10 @@ authors:
     source: kansou-board
     status: auto
   龍酒 原案：超！海老寿司:
+    note: 筆頭 龍酒。原案者は話メタへ (2026-08-30 Fable 裁定)
     slug: ryuhju
     source: pykakasi
     status: confirmed
-    note: "筆頭 龍酒。原案者は話メタへ (2026-08-30 Fable 裁定)"
   ４２７:
     slug: '427'
     source: kansou-board
@@ -1274,10 +1290,10 @@ authors:
     source: kansou-board
     status: auto
   ？？？？:
+    note: ????? の全半角ゆれ。lib-index 両索引で同一4作 (2026-08-30 Fable 裁定)
     slug: qqqqq
     source: fallback
     status: confirmed
-    note: "????? の全半角ゆれ。lib-index 両索引で同一4作 (2026-08-30 Fable 裁定)"
   ＠ユウマ:
     slug: yuuma
     source: kansou-board
@@ -1291,10 +1307,10 @@ authors:
     source: kansou-board
     status: auto
   ＨＩＫＯ（原作：城弾さん）:
+    note: HIKO 本人。原作クレジットは話メタへ (2026-08-30 Fable 裁定)
     slug: hiko
     source: pykakasi
     status: confirmed
-    note: "HIKO 本人。原作クレジットは話メタへ (2026-08-30 Fable 裁定)"
   Ｋ:
     slug: k
     source: kansou-board
@@ -1336,10 +1352,10 @@ authors:
     source: kansou-board
     status: auto
   Ｍａｃｆｉｓｔ:
+    note: 板一覧 macfist (見落とし分) (2026-08-30 Fable 裁定)
     slug: macfist
     source: ascii
     status: confirmed
-    note: "板一覧 macfist (見落とし分) (2026-08-30 Fable 裁定)"
   Ｍａｒｉｅ:
     slug: marie
     source: kansou-board
@@ -7125,20 +7141,20 @@ works:
     slug: aizu_rika-ore-nobaai
     source: pykakasi
     status: candidate
-  aizu_rika|〜真奈と慎吾５〜　Survival:
-    slug: aizu_rika-manatoshingo5-survival
-    source: pykakasi
-    status: candidate
   aizu_rika|バ　ス:
     slug: aizu_rika-ba-su
     source: pykakasi
     status: candidate
   aizu_rika|日常:
-    slug: aizu_rika-nichijou
+    slug: aizu_rika-nichijou-2
     source: pykakasi
     status: candidate
   aizu_rika|楽屋:
     slug: aizu_rika-gakuya
+    source: pykakasi
+    status: candidate
+  aizu_rika|真奈と慎吾5〜 Survival:
+    slug: aizu_rika-manatoshingo5-survival
     source: pykakasi
     status: candidate
   aizu_rika|華代ちゃんシリーズ 「変声」:
@@ -7203,10 +7219,6 @@ works:
     status: candidate
   aki_michiru|赤い鳥:
     slug: aki_michiru-akaitori
-    source: pykakasi
-    status: candidate
-  akimichiru-koukei|姫神奇譚　第十五話「血」:
-    slug: akimichiru-koukei-himegamikitan-daijuugohanashi-chi
     source: pykakasi
     status: candidate
   aki|トランス・カップル:
@@ -7347,10 +7359,6 @@ works:
     status: candidate
   ashikaga|変革:
     slug: ashikaga-henkaku
-    source: pykakasi
-    status: candidate
-  author-1|倒錯戦隊トランス・ギャルズ（試用版）:
-    slug: author-1-tousakusentaitoransu-gyaruzu-shiyouban
     source: pykakasi
     status: candidate
   ayame|〜真奈の中の慎吾〜　慎吾から真奈へ:
@@ -7573,10 +7581,6 @@ works:
     slug: chikua-noranekohourouki
     source: pykakasi
     status: candidate
-  chiriakutaou|華代ちゃんシリーズ 「新展開」:
-    slug: chiriakutaou-hanayochanshiriizu-shintenkai
-    source: pykakasi
-    status: candidate
   choh_ebizushi|TWIN MINDS:
     slug: choh_ebizushi-twin-minds
     source: ascii
@@ -7597,12 +7601,12 @@ works:
     slug: daisaku-konosubarashikisekai-irasuto
     source: pykakasi
     status: candidate
-  dekoi-kyouryoku-datta|小さなお守り - 第三章『新しい姉弟』:
-    slug: dekoi-kyouryoku-datta-chiisanaomamori-daisanshou-atarashiikyoudai
-    source: pykakasi
-    status: candidate
   dekoi|Welcome to 「Wonderful Magical」１：開店でーす:
     slug: dekoi-welcome-to-wonderful-magical-1-kaitendeesu
+    source: pykakasi
+    status: candidate
+  dekoi|小さなお守り - 第三章『新しい姉弟』:
+    slug: dekoi-chiisanaomamori-daisanshou-atarashiikyoudai
     source: pykakasi
     status: candidate
   dekoi|悪魔を呼んでみよう!:
@@ -7731,10 +7735,6 @@ works:
     status: candidate
   gasodamu|僕と僕の今:
     slug: gasodamu-bokutobokunoima
-    source: pykakasi
-    status: candidate
-  gensaku-two-bit|夏だ一番!! RB祭り:
-    slug: gensaku-two-bit-natsudaichiban-rbmatsuri
     source: pykakasi
     status: candidate
   goldarm|出雲大社#1:
@@ -7869,15 +7869,11 @@ works:
     slug: hideo-kinshuunoyume
     source: pykakasi
     status: candidate
-  hiko-gensaku-shirodansan|同居人〜if〜:
-    slug: hiko-gensaku-shirodansan-doukyonin-if
-    source: pykakasi
-    status: candidate
   hiko|P.F.キャリアー:
     slug: hiko-p-f-kyariaa
     source: pykakasi
     status: candidate
-  hiko|同居人〜if〜:
+  hiko|同居人〜if:
     slug: hiko-doukyonin-if
     source: pykakasi
     status: candidate
@@ -7885,12 +7881,12 @@ works:
     slug: himajin-meimeipanikku
     source: pykakasi
     status: candidate
-  hirariiman|いちごちゃんシリーズ2:
-    slug: hirariiman-ichigochanshiriizu2
+  hirariman|いちごちゃんシリーズ2:
+    slug: hirariman-ichigochanshiriizu2
     source: pykakasi
     status: candidate
-  hirariiman|ハンター・シリーズ「うたかた」:
-    slug: hirariiman-hantaa-shiriizu-utakata
+  hirariman|ハンター・シリーズ「うたかた」:
+    slug: hirariman-hantaa-shiriizu-utakata
     source: pykakasi
     status: candidate
   hiroo_syou|"A Boy and the Ritual"(少年と儀式):
@@ -8277,10 +8273,6 @@ works:
     slug: jersey_red-dai14hanashi-mahoukenkyuusho
     source: pykakasi
     status: candidate
-  jersey_red|蒼い時（第二章）:
-    slug: jersey_red-aoitoki-dainishou
-    source: pykakasi
-    status: candidate
   jersey_red|魔法少女♪奈里佳:
     slug: jersey_red-mahoushoujo-narika
     source: pykakasi
@@ -8293,6 +8285,10 @@ works:
     slug: jini-an-nyaro
     source: ascii
     status: auto
+  jinkaiou|華代ちゃんシリーズ 「新展開」:
+    slug: jinkaiou-hanayochanshiriizu-shintenkai
+    source: pykakasi
+    status: candidate
   jisyou_himajin|いらっしゃいませ！　第一話「看板娘現る」:
     slug: jisyou_himajin-irasshaimase-daiichiwa-kanbanmusumearawaru
     source: pykakasi
@@ -8849,14 +8845,6 @@ works:
     slug: kaien-doriimu-purojiekuto-daiichiwa
     source: pykakasi
     status: candidate
-  kaizurika|〜真奈と慎吾5〜 Survival:
-    slug: kaizurika-manatoshingo5-survival
-    source: pykakasi
-    status: candidate
-  kaizurika|日常:
-    slug: kaizurika-nichijou
-    source: pykakasi
-    status: candidate
   kakikukeko|トップアイドル瑞希:
     slug: kakikukeko-toppuaidorumiki
     source: pykakasi
@@ -8867,10 +8855,6 @@ works:
     status: candidate
   kakikukeko|量子の鏡　第一章:
     slug: kakikukeko-ryoushinokagami-daiisshou
-    source: pykakasi
-    status: candidate
-  kakusan-e-oyaji-san-bun|＜華代ちゃん＞:
-    slug: kakusan-e-oyaji-san-bun-hanayochan
     source: pykakasi
     status: candidate
   kakusan|TSストーリーランド:
@@ -8897,14 +8881,14 @@ works:
     slug: kakusan-choukakutourobottohiirootoransusekusharunekketsuden-reiko
     source: pykakasi
     status: candidate
+  kakusan|＜華代ちゃん＞:
+    slug: kakusan-hanayochan
+    source: pykakasi
+    status: candidate
   kakusan|＜ＰＲＯＭＩＳＥ＞:
     slug: kakusan-promise
     source: ascii
     status: auto
-  kamikawa_ayano_|特務機動部隊シュガーエンジェルス 第12話  『入学 - She is surprised in there』:
-    slug: kamikawa_ayano_-tokumukidoubutaishugaaenjierusu-dai12hanashi-nyuugaku-she-is-surprised-in-there
-    source: pykakasi
-    status: candidate
   kamikawa_ayano|本当の自分 第:
     slug: kamikawa_ayano-hontounojibun-dai-2
     source: pykakasi
@@ -9233,16 +9217,20 @@ works:
     slug: konkana-hanayochanshiriizu-bangaihen-chuuritsutoakui
     source: pykakasi
     status: candidate
-  konoshijou|新米女神の大冒険 (序)日常の終わり:
-    slug: konoshijou-shinmaimegaminodaibouken-jo-nichijounoowari
+  konoichiba|新米女神の大冒険 (序)日常の終わり:
+    slug: konoichiba-shinmaimegaminodaibouken-jo-nichijounoowari
     source: pykakasi
     status: candidate
-  konoshijou|新米皇女の大冒険:
-    slug: konoshijou-shinmaioujonodaibouken
+  konoichiba|新米皇女の大冒険:
+    slug: konoichiba-shinmaioujonodaibouken
     source: pykakasi
     status: candidate
   kop|華代ちゃんシリーズ(#1～#20):
     slug: kop-hanayochanshiriizu-1-20
+    source: pykakasi
+    status: candidate
+  koranta|シェアワールド「SugarSweets」:
+    slug: koranta-shieawaarudo-sugarsweets
     source: pykakasi
     status: candidate
   koria|誘惑に負けない:
@@ -9559,6 +9547,10 @@ works:
     status: candidate
   marie|ハートのペンダント:
     slug: marie-haatonopendanto
+    source: pykakasi
+    status: candidate
+  marie|プーコとわたし:
+    slug: marie-puukotowatashi
     source: pykakasi
     status: candidate
   marie|妖精の湖:
@@ -10065,16 +10057,16 @@ works:
     slug: mori-beibii-in-beibii
     source: pykakasi
     status: candidate
-  moto-moto|華代ちゃんシリーズ 「先輩のすきなタイプ」:
-    slug: moto-moto-hanayochanshiriizu-senpainosukinataipu
-    source: pykakasi
-    status: candidate
   moto|もう一つの場所:
     slug: moto-mouhitotsunobasho
     source: pykakasi
     status: candidate
   moto|クラスメイト（真奈の中の慎吾）:
     slug: moto-kurasumeito-mananonakanoshingo
+    source: pykakasi
+    status: candidate
+  moto|華代ちゃんシリーズ 「先輩のすきなタイプ」:
+    slug: moto-hanayochanshiriizu-senpainosukinataipu
     source: pykakasi
     status: candidate
   mr_nagasaki|Princess:
@@ -10117,8 +10109,8 @@ works:
     slug: nadaka_shinobu-karetokanojonojijou-plume-treasure-another-episode1
     source: pykakasi
     status: candidate
-  nakanetakusari|華代ちゃんシリーズ『魍魎狩りと少女』:
-    slug: nakanetakusari-hanayochanshiriizu-mouryoukaritoshoujo
+  nakane_takusari|華代ちゃんシリーズ『魍魎狩りと少女』:
+    slug: nakane_takusari-hanayochanshiriizu-mouryoukaritoshoujo
     source: pykakasi
     status: candidate
   nakata_kyuroban|STAR TREK DEEP SPACE NINE Caddasian Loves 〜華麗なる変身？〜:
@@ -10211,14 +10203,6 @@ works:
     status: candidate
   nekono_gundam|華代ちゃんシリーズ:
     slug: nekono_gundam-hanayochanshiriizu
-    source: pykakasi
-    status: candidate
-  nemuro-makotoaratame-surentosu-slents|“ＧＡＬＬＡＮＴ　ＳＴＯＲＹ”　Ｓｃｅｎｅ＃０１　Version1.01「ある少女との出会い、そして・・・」改訂版:
-    slug: nemuro-makotoaratame-surentosu-slents-gallant-story-scene-01-version1-01-arushoujotonodeai-soshite-kaiteiban
-    source: pykakasi
-    status: candidate
-  nemuro-makoto|”ＧＡＬＬＡＮＴ　ＳＴＯＲＹ”Ａｃｔ：１　Ｓｃｅｎｅ＃０１「ある少女との出会い、そして・・ ・」:
-    slug: nemuro-makoto-gallant-story-act-1-scene-01-arushoujotonodeai-soshite
     source: pykakasi
     status: candidate
   nhk|Dragon○uest15:
@@ -10341,12 +10325,12 @@ works:
     slug: night_neon_nightmare_lilim-kyuu-oni-actor-actress-marder
     source: pykakasi
     status: candidate
-  nishisatoru|華代ちゃんシリーズ:
-    slug: nishisatoru-hanayochanshiriizu
+  nishi_satoru|華代ちゃんシリーズ:
+    slug: nishi_satoru-hanayochanshiriizu
     source: pykakasi
     status: candidate
-  nishisatoru|華代ちゃんシリーズ番外編 「その後」:
-    slug: nishisatoru-hanayochanshiriizubangaihen-sononochi
+  nishi_satoru|華代ちゃんシリーズ番外編 「その後」:
+    slug: nishi_satoru-hanayochanshiriizubangaihen-sononochi
     source: pykakasi
     status: candidate
   niwatatami|ロボ娘は電気羊の夢をみる?:
@@ -10593,10 +10577,6 @@ works:
     slug: plantain-isourouharevanooujisama
     source: pykakasi
     status: candidate
-  popo-2|華代ちゃんシリーズ 「冬山登山」:
-    slug: popo-2-hanayochanshiriizu-fuyuyamatozan
-    source: pykakasi
-    status: candidate
   popof|宇宙人と少年:
     slug: popof-uchuujintoshounen
     source: pykakasi
@@ -10633,6 +10613,10 @@ works:
     slug: qqqqq-monmonmonmon-monsutaa
     source: pykakasi
     status: candidate
+  qqqqq|倒錯戦隊トランス・ギャルズ（試用版）:
+    slug: qqqqq-tousakusentaitoransu-gyaruzu-shiyouban
+    source: pykakasi
+    status: candidate
   qqqqq|勝手にペル サマ:
     slug: qqqqq-katteniperu-sama
     source: pykakasi
@@ -10663,10 +10647,6 @@ works:
     status: candidate
   raulu|夢騎士？綾香の英雄な日々:
     slug: raulu-yumekishi-ayakanoeiyuunahibi
-    source: pykakasi
-    status: candidate
-  reika|プーコとわたし:
-    slug: reika-puukotowatashi
     source: pykakasi
     status: candidate
   revolution|Strange occurrence:
@@ -10749,10 +10729,10 @@ works:
     slug: ryuhju-sake
     source: ascii
     status: auto
-  ryuhju|TWIN MINDS:
-    slug: ryuhju-twin-minds
-    source: ascii
-    status: auto
+  ryuhju|TWIN MINDS(前:
+    slug: ryuhju-twin-minds-mae
+    source: pykakasi
+    status: candidate
   ryuhju|The Dark:
     slug: ryuhju-the-dark
     source: ascii
@@ -10817,10 +10797,6 @@ works:
     slug: ryuhju-nishiakanenobaai
     source: pykakasi
     status: candidate
-  ryuusake-gen-an-chou-ebisushi|TWIN MINDS:
-    slug: ryuusake-gen-an-chou-ebisushi-twin-minds
-    source: ascii
-    status: auto
   s_f|ＴＨＥ ＧＡＭＥ:
     slug: s_f-the-game
     source: ascii
@@ -10925,8 +10901,8 @@ works:
     slug: satoh_kouko-snatcher
     source: ascii
     status: auto
-  satouyui|Am I a grandfather!? The 2nd story (日本語訳:あたしがおじいちゃん!?):
-    slug: satouyui-am-i-a-grandfather-the-2nd-story-nihongoyaku-atashigaojiichan
+  satoh_yui|Am I a grandfather!? The 2nd story (日本語訳:あたしがおじいちゃん!?):
+    slug: satoh_yui-am-i-a-grandfather-the-2nd-story-nihongoyaku-atashigaojiichan
     source: pykakasi
     status: candidate
   sato|カオルの日常 第弐話:
@@ -10941,8 +10917,8 @@ works:
     slug: sergeant-enushi-1-shinigamisonohoka
     source: pykakasi
     status: candidate
-  shieawaarudo|姫神奇譚タイトルページ:
-    slug: shieawaarudo-himegamikitantaitorupeeji
+  series-index|姫神奇譚タイトルページ:
+    slug: series-index-himegamikitantaitorupeeji
     source: pykakasi
     status: candidate
   shimakujira|マッドな姉貴:
@@ -11421,6 +11397,14 @@ works:
     slug: slents-zippang-fantasy
     source: ascii
     status: auto
+  slents|“ＧＡＬＬＡＮＴ　ＳＴＯＲＹ”　Ｓｃｅｎｅ＃０１　Version1.01「ある少女との出会い、そして・・・」改訂版:
+    slug: slents-gallant-story-scene-01-version1-01-arushoujotonodeai-soshite-kaiteiban
+    source: pykakasi
+    status: candidate
+  slents|”ＧＡＬＬＡＮＴ　ＳＴＯＲＹ”Ａｃｔ：１　Ｓｃｅｎｅ＃０１「ある少女との出会い、そして・・ ・」:
+    slug: slents-gallant-story-act-1-scene-01-arushoujotonodeai-soshite
+    source: pykakasi
+    status: candidate
   sorachikataho|華代ちゃん:
     slug: sorachikataho-hanayochan
     source: pykakasi
@@ -11593,10 +11577,6 @@ works:
     slug: takakihiromu-hanayochanshiriizu-kyuukyokunokosupure
     source: pykakasi
     status: candidate
-  takigitakashi-makitakashi|華代ちゃんシリーズ番外編　「失った物は」:
-    slug: takigitakashi-makitakashi-hanayochanshiriizubangaihen-utsutamonoha
-    source: pykakasi
-    status: candidate
   taku_eichi|パニックinマジカルステッキ:
     slug: taku_eichi-panikkuinmajikarusutekki
     source: pykakasi
@@ -11667,10 +11647,6 @@ works:
     status: candidate
   tenmei|幼なじみとの再会:
     slug: tenmei-younajimitonosaikai
-    source: pykakasi
-    status: candidate
-  tenran-e-mukugesan|ヤオヨロヅ物語 第五話 ~9th:シークレットガーディアン~:
-    slug: tenran-e-mukugesan-yaoyorozumonogatari-daigohanashi-9th-shiikurettogaadian
     source: pykakasi
     status: candidate
   tetsura|帰郷:
@@ -11817,6 +11793,10 @@ works:
     slug: two_bit-virtual-body-kankaku-sense
     source: pykakasi
     status: candidate
+  two_bit|夏だ一番!! RB祭り:
+    slug: two_bit-natsudaichiban-rbmatsuri
+    source: pykakasi
+    status: candidate
   two_bit|少女進行形物語 Miss-ing:
     slug: two_bit-shoujoshinkoukeimonogatari-miss-ing
     source: pykakasi
@@ -11939,10 +11919,6 @@ works:
     status: candidate
   unattributed|蒼い瞳のミルフィア:
     slug: unattributed-aoihitominomirufia
-    source: pykakasi
-    status: candidate
-  uronta|シェアワールド「SugarSweets」:
-    slug: uronta-shieawaarudo-sugarsweets
     source: pykakasi
     status: candidate
   ushitora|Can you celebrate?:
@@ -12637,12 +12613,8 @@ works:
     slug: yoko-shinzouningenkyashaan-zenpen
     source: pykakasi
     status: candidate
-  yonetsu-ga-misshingu|いんまなあの子がOne☆Man??Show!!:
-    slug: yonetsu-ga-misshingu-inmanaanokogaone-man-show
-    source: pykakasi
-    status: candidate
-  yonezu|いんまなあの子:
-    slug: yonezu-inmanaanoko
+  yonezu|いんまなあの子がOne☆Man??Show!!:
+    slug: yonezu-inmanaanokogaone-man-show
     source: pykakasi
     status: candidate
   yonezu|いんまなあの子とSeaside☆Vacation!!:
@@ -12749,12 +12721,8 @@ works:
     slug: yosswih-koutetsunohiroin
     source: pykakasi
     status: candidate
-  you-2|華代ちゃんシリーズ 「グランドスラム」:
-    slug: you-2-hanayochanshiriizu-gurandosuramu
-    source: pykakasi
-    status: candidate
-  you-3|kayo_chan69:
-    slug: you-3-kayo-chan69
+  you_|kayo_chan69:
+    slug: you_-kayo-chan69
     source: ascii
     status: auto
   you|魔法少女リーフ１〜５話:
@@ -12771,10 +12739,6 @@ works:
     status: candidate
   yuasano_miki|ＴＳ昔話「浦島太郎」:
     slug: yuasano_miki-tsmukashibanashi-urashimatarou
-    source: pykakasi
-    status: candidate
-  yuasanomiki-ga-mogutansama|リバイバルガール24:
-    slug: yuasanomiki-ga-mogutansama-ribaibarugaaru24
     source: pykakasi
     status: candidate
   yui|リターンでガールよ!:

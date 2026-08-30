@@ -1,0 +1,66 @@
+# 話 (episode) 1 件単位の上書き。**旧館の原本 (lib*.html) の誤植を catalog 側で直す唯一の場所**。
+#
+# 別館 (GitHub Pages) は原本レイヤなので誤植もそのまま保つ。直すのはこちら側だけ。
+# `scripts/wp/episode_overrides.py` が `make catalog` の中で適用する (catalog_build →
+# uncatalogued_build → repost_build の後、terms/authors/works の前)。
+#
+# 鍵     … `source_path`。1 ファイルに複数話が同居する場合は `<path>#<anchor>`
+# expect … 上書き前にあるはずの値。**合わなければ自己検査が落ちる** (原本や
+#          パーサが変わったのに上書きが生き残る事故を防ぐ)。既に set の値に
+#          なっている場合は「適用済み」として扱う (再実行・--check 用)
+# set    … 上書き後の値。使えるのは author / kansou_slug / entry_role / title /
+#          homepage / date。kansou_slug を変えると kansou_annex_url も follow する
+# note   … なぜ上書きするのか。**根拠を必ず書く**
+#
+# **episode_id は source_path から導くので、この上書きでは決して変わらない**
+# (episodes.jsonl ↔ bodies/ ↔ convert_report ↔ WP import の結合キーを壊さない)。
+#
+# 出所: catalog/review/authors-slugs.md §7 (2026-08-30 Fable 裁定) /
+#       catalog/slug_overrides.yml のヘッダに書かれた裁定
+
+episodes:
+
+  # --- 裁定 1) 神川綾乃: `kamikawa_ayano_` は実在しない板 -----------------------
+  # lib45.html#12 の感想リンクだけが `bbs@log_kamikawa_ayano_.cgi` を指す (30 箇所は
+  # `_ayano` )。板ファイル自身の投稿フォームが `<input hidden name="log"
+  # value="kamikawa_ayano">` を出力しており、CGI が名乗る本当の id は末尾 `_` 無し。
+  # サイトの板一覧 (~ts/kansou/bbs@log_.cgi・290 板) にも `_ayano_` は無い。
+  novel/200104/15172112/angels_12.html:
+    expect:
+      kansou_slug: kamikawa_ayano_
+    set:
+      kansou_slug: kamikawa_ayano
+    note: >-
+      lib45.html#12 の感想リンクの誤植 (1 箇所のみ)。板 CGI の hidden log 値・板一覧・
+      同シリーズ 34 話の帰属いずれも kamikawa_ayano。作者 kamikawa_ayano_ を廃して統合する。
+
+  # --- 裁定 2) コーディー と ジャージレッド は別人 ------------------------------
+  # 「蒼い時」全 3 話のうち第二章 (lib61.html#6) だけが `bbs@log_jersey_red.cgi` を指す。
+  # 序章 (lib61#15) と第三章 (lib60#33) は `bbs@log_kohdhi.cgi`。板一覧には
+  # 「コーディーさん作品感想掲示板 / kohdhi」と「ジャージレッドさん作品感想掲示板 /
+  # jersey_red」が別々に載り、読み順索引の行も別 (か行 / さ行)。改名の告知も無い。
+  novel/200101/05064051/ao2.html:
+    expect:
+      kansou_slug: jersey_red
+    set:
+      kansou_slug: kohdhi
+    note: >-
+      lib61.html#6 の感想リンクの誤植。この 1 箇所のせいでコーディーがジャージレッドに
+      併合され、作者 1 名が消えて 1 話が誤帰属していた。コーディーの正は kohdhi。
+
+  # --- 裁定 3) 「シェアワールド」は作者名ではない -------------------------------
+  # 目録の作者欄に「シェアワールド」と書かれているだけで、実体は姫神奇譚の
+  # シリーズ目次ページ (「シェアワールド 姫神奇譚 / 作：亜希みちるさん 他」)。
+  # slug_overrides.yml の authors: シェアワールド に `role: not-an-author` があり、
+  # authors_build はこの名前で作者を作らない。話は感想板 himekami 経由で
+  # ts_world「妖魔夜行 姫神奇譚シリーズ」に既に紐づいている。
+  novel/200103/24194542/himetitle.html:
+    expect:
+      author: シェアワールド
+      entry_role: null
+    set:
+      author: null
+      entry_role: series-index
+    note: >-
+      シリーズ目次ページ。作者不詳ではなく「目次」として扱う (entry_role=series-index)。
+      ts_world は感想板 himekami で付く。原本の作者欄の値は annex 側にそのまま残る。

@@ -105,6 +105,25 @@ HEADER = """\
 #
 # 直したいときは slug を書き換えて status を confirmed にしてください。
 # 進行台帳 docs/wp-implementation-tasks.md の 👤 1.5b がこのファイルの確認タスクです。
+#
+# authors セクションで使える追加の欄:
+#   note: …   裁定の根拠。人間が読むためのもの (生成器は触らない)
+#   role: not-an-author
+#             **この表示名では作者を作らない**。目録の作者欄に人名でない値が
+#             入っていた場合 (「シェアワールド」= シリーズ目次ページ) に使う。
+#             authors_build.py が作者化をやめ、話は entry_role / ts_world 側で拾う
+#
+# 複数の表示名に**同じ slug** を書くと、authors_build.py はそれを
+# **同一人物の併合の指示**として読む (根室　眞琴 と 根室　眞琴改め… → slents、
+# 麗香 → marie、ぽぽ → popo)。統合された表示名は authors.json の
+# display_variants に残り、URL は 1 本になる。
+#
+# --- 同名別 slug の裁定 (2026-08-30 Fable。実装済み: catalog/episode_overrides.yml) ---
+# 1) 神川綾乃: kamikawa_ayano_ は実在しない板 (CGI の hidden log 値が kamikawa_ayano)。
+#    kamikawa_ayano に統合し、novel/200104/15172112/angels_12.html を kamikawa_ayano へ。
+# 2) コーディー: jersey_red (ジャージレッド) とは別人。コーディーの正は kohdhi。
+#    jersey_red の display_variants から「コーディー」を外し、
+#    novel/200101/05064051/ao2.html の作者を kohdhi に付け替える (lib61.html の誤植の上書き)。
 """
 
 

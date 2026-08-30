@@ -9,7 +9,7 @@
 さらに**各作品の原作者サイト**（アーカイブと、現存する移転先サイト）に残された記録を横断的に収集して再構成したものです。
 加えて、文庫の**前世代ホーム**（`www2.tomato.ne.jp/~ezpe` → 八重洲メディアリサーチ `www14.big.or.jp/~yays/`）と
 **姉妹・後継ドメイン**（`ts.novels.name`・`kirika.novels.name`・`ts.raa0121.info`・`ts-novels.jp`）、
-親サーバ `www.novels.jp` の**関係者ディレクトリ**（`~ts`・`~yaji`・`~bbs`・`~yaopinion`）を発見・回収し、
+親サーバ `www.novels.jp` の**関係者ディレクトリ**（`~ts`・`~yaji`・`~bbs`）を発見・回収し、
 サイトの全世代（1999 頃〜2023 頃）を一つのミラーに統合しています。
 
 ## 内容
@@ -69,7 +69,8 @@
       （トランスギャルズ全 13 話+番外の原位置版・goddess_mask・rental・kakusan ほか多数の
       フラット時代作品と挿絵、`library/special/`・`library/comittee/` を含む）
     - `www.novels.jp/~yaji`（矢治さんの個人サイト。日本三周記・組立日記など 285 ファイル）、
-      `~bbs`（npc カウンタと掲示板入口）、`~yaopinion` を新規収蔵
+      `~bbs`（npc カウンタと掲示板入口）、`~yaji/opinion`（矢治さんの意見ページ「My Opinions」
+      34 ファイル）を新規収蔵
     - `~ts/kansou` 感想板の未収スレッド（七斬板ほか）・`~ts/bbs` 補完・
       `ts.novels.name` ラウンジ欠番・`kirika.novels.name` Wiki 補完・`~ezpe` noteky 補完
     - 過去の変換パスが残していた**リンク深さバグを一括修正**（約 3,500 本。`cgi-bin/` 発の
@@ -187,7 +188,8 @@ CGI としては動作しません（静的な記録のみ）。
 ## リポジトリ構成・履歴
 
 - ディレクトリ対応: リポジトリ直下 = `ts.novels.jp/`、
-  `~ts/`・`~yaji/`・`~bbs/`・`~yaopinion/` = `www.novels.jp/` の各ユーザディレクトリ、
+  `~ts/`・`~yaji/`・`~bbs/` = `www.novels.jp/` の各ユーザディレクトリ
+  （矢治さんの意見ページは `~yaji/opinion/`）、
   `~yays/` = `www14.big.or.jp/~yays/`（旧世代小説ライブラリ `~yays/library/` を完全収蔵。
   同一構造の本体ツリーへのギャップフィル供給源でもある）、
   `~ezpe/` = `www2.tomato.ne.jp/~ezpe/`、`ts.novels.name/` ほかホスト名ディレクトリ = 各姉妹ドメイン。
