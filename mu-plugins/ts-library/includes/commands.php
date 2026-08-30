@@ -95,9 +95,11 @@ class TS_Command {
             $by_eid[$ep['episode_id']] = $ep;
             $w = $ep2work[$ep['episode_id']] ?? '';
             if (isset($single_work[$w])) continue;   // 単発は子投稿を作らない
-            $s = strtolower(preg_replace('/\.[A-Za-z0-9]+$/', '', basename($ep['source_path'])));
-            if (function_exists('mb_convert_kana')) $s = strtolower(mb_convert_kana($s, 'as')); // 全角英数→半角
-            if (!empty($ep['source_anchor'])) $s .= '-' . strtolower($ep['source_anchor']);
+            $s = preg_replace('/\.[A-Za-z0-9]+$/', '', basename($ep['source_path']));
+            if (!empty($ep['source_anchor'])) $s .= '-' . $ep['source_anchor'];
+            // 全角英数→半角はアンカー連結の「後」に (anchor=ＢＢＳ のような全角アンカーのため)
+            if (function_exists('mb_convert_kana')) $s = mb_convert_kana($s, 'as');
+            $s = strtolower($s);
             $groups[$w][$ep['episode_id']] = $s;
         }
         $out = [];
