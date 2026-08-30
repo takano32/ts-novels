@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	<title>
+		投資情報の登録 - 黄金航海補佐システム（アトランティック）	</title>
+	<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" /><link rel="stylesheet" type="text/css" href="/css/main.css" /></head>
+<body>
+	<div id="container">
+		<div id="header" style="position:fixed;width:100%;background-color:#003D4C;">
+			<h1><div style="float:right;font-size:x-small;"><a href="http://vvss.aetherworks.org/" style="font-weight:bold;">アト</a>&nbsp;/&nbsp;<a href="http://vvss-09.aetherworks.org/">パシ</a>&nbsp;/&nbsp;<a href="http://vvss-10.aetherworks.org/">カリブ</a></div><a href="http://vvss.aetherworks.org/">投資情報の登録 - 黄金航海補佐システム（アトランティック）</a></h1>
+		</div>
+		<div id="content" style="padding-top:4em;">
+
+			
+			<form action="/towns/invest" id="TownInvestForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div><input type="hidden" name="data[Input][town_id]" value="59" id="InputTownId"/><table><tr><th colspan='2'><img src="/img/nations/es.png" width="30" height="20" alt="イスパニア" />&nbsp;キプロス</th></tr><tr><td>投資情報</td> <td><textarea name="data[Input][invest]" cols="60" rows="8" id="InputInvest"></textarea><br />街の【投資】ページの表を、『イギリス』から海賊連合の『 G 』までをコピーし、テキストエリアに貼り付けてください。<br />コピー範囲が足りないと登録できませんが、範囲が広すぎる（余分な範囲までコピーする）分には問題なく登録可能です。</td></tr>
+<tr><td>（要塞化時）耐久</td> <td><input name="data[Input][durabit]" size="8" maxlength="6" type="text" id="InputDurabit"/>&nbsp;要塞化の事実が登録されていない場合、その登録を先に行ってください。</td></tr>
+<tr><td>システムログ情報</td> <td><select name="data[Input][event]" id="InputEvent">
+<option value="0">選択してください</option>
+<option value="1">要塞化した</option>
+<option value="2">陥落した</option>
+<option value="3">イギリス領になった</option>
+<option value="4">フランス領になった</option>
+<option value="5">ネーデルランド領になった</option>
+<option value="6">イスパニア領になった</option>
+<option value="7">ポルトガル領になった</option>
+</select></td></tr></table><div class="submit"><input  type="submit" value="登録する"/></div></form>		</div>
+	</div>
+	</body>
+</html>

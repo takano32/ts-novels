@@ -1,0 +1,533 @@
+body {
+margin:0px;
+padding:0px;
+text-align:center;
+font-family:Verdana;
+background-color:#DDF1F3;
+}
+
+#container{
+margin:0px auto;
+width:810px;
+color:#666;
+font-size:12px;
+font-family:Verdana;
+text-align:center;
+background-image:url(http://blog.sakura.ne.jp/img/bg/stripepurple/bg.jpg);
+background-repeat:repeat-y;
+background-position:bottom center;
+}
+a{
+color:#09c;
+text-decoration:underline;
+}
+h1 {
+margin:0px;
+padding-top:30px;
+padding-bottom:5px;
+font-weight:bolder;
+font-size:18px;
+font-family:Verdana;
+}
+h1 a{
+color:#fff;
+text-decoration: none;
+font-weight:bolder;
+}
+
+h2 {
+background-image:url(http://blog.sakura.ne.jp/img/bg/stripepurple/date.jpg);
+background-repeat:no-repeat;
+background-position:top center;
+margin:0px 0px 0px 0px;
+padding: 5px 0px 5px 10px;
+font-weight:bold;
+text-align:left;
+}
+
+h3 {
+background-image:url(http://blog.sakura.ne.jp/img/bg/stripepurple/ttl.jpg);
+background-repeat:no-repeat;
+background-position:0px 1px;
+font-size:12px;
+font-weight:bolder;
+padding: 0px 0px 0px 15px;
+}
+
+h3 a{
+text-decoration: none;
+color:#99609F;
+}
+
+#banner{
+margin-bottom:20px;
+padding-left:45px;
+padding-right:0px;
+text-align:left;
+height:117px;
+background-image:url(http://blog.sakura.ne.jp/img/bg/stripepurple/hd.jpg);
+background-repeat:no-repeat;
+background-position:bottom center;
+}
+
+.description {
+font-weight:normal;
+padding:0px;
+color:#fff;
+font-size:10px;
+}
+
+.navi {
+text-align:center;
+padding-bottom:5px;
+}
+#content {
+margin:0px 30px 0px 15px;
+_display:inline;
+float:left;
+width:550px;
+}
+
+.blog {
+_width:550px;
+background-image:url(http://blog.sakura.ne.jp/img/bg/stripepurple/body_bg.jpg);
+background-repeat:repeat;
+background-position:top center;
+padding:0px 0px 0px 0px;
+text-align:left;
+border-bottom:solid 1px #000;
+margin-bottom:10px;
+}
+
+.blogbody {
+border-top:solid 1px #000;
+font-weight:normal;
+margin-bottom:0px;
+padding:10px;
+}
+
+.date{
+clear:left;
+font-family:Verdana;
+font-size:14px;
+color:#fff;
+}
+
+.title{
+margin-top:0px;
+margin-bottom:0px;
+font-weight:bold;
+}
+.title a{
+border:none;
+}
+
+.text{
+padding:15px 0px 0px 10px;
+margin-top:0px;
+line-height:1.8em;
+font-family:Verdana;
+}
+.posted{ 
+text-align: right;
+margin-bottom:0px;
+padding:5px 0px 0px 0px;
+font-size:10px;
+font-family:Arial;
+}
+.posted a{ 
+font-weight:normal;
+}
+#links-left {
+}
+#links {
+font-weight:normal;
+float:left;
+width:200px;
+padding-top:0px;
+padding-bottom:0px;
+margin: 0px 0px 0px 0px;
+text-align:left;
+font-size:12px;
+text-align:right;
+}
+
+#calendar {
+font-size:12px;
+width:190px;
+margin:0px;
+padding-bottom:10px;
+}
+#calendar table {
+width:100%;
+padding-bottom:10px;
+}
+#calendar th {
+font-weight:bold;
+text-align:center;
+}
+.calendarday a {
+font-weight:bold;
+color:#0068B5;
+}
+.calendarhead{
+padding:10px 0px 15px 0px;
+font-weight:bold;
+font-size:12px;
+font-family:Verdana;
+color:#666;
+}
+
+.calendarhead a{
+color:#666;
+}
+.calendarhead .calendarday a{
+color:#666;
+}
+
+
+.calendarday {
+padding:3px;
+font-size:10px;
+font-family:Verdana;
+color:#666;
+text-align:center;
+}
+
+
+.sidetitle {
+background-image:url(http://blog.sakura.ne.jp/img/bg/stripepurple/side_ttl.jpg);
+background-repeat:no-repeat;
+background-position:left;
+color:#99609F;
+padding:12px 0px 10px 0px;
+text-align:center;
+font-family:Verdana;
+font-weight:bold;
+}
+
+.side {
+line-height:2em;
+padding:5px 5px 10px 5px;
+margin-bottom:10px;
+font-size:10px;
+text-align:left;
+margin-bottom:10px;
+font-family:Verdana;
+}
+.side-tag {
+line-height:2em;
+padding:5px 5px 10px 5px;
+margin-bottom:10px;
+font-size:10px;
+text-align:left;
+margin-bottom:10px;
+font-family:Verdana;
+}
+input{
+background-color:#FFF;
+max-width:200px;
+}
+.input-submit{
+color:#3D3F71;
+margin-right:5px;
+}
+.powered {
+padding:20px 0px 20px 0px;
+text-align:center;
+}
+.powered table{
+margin:0px auto;
+}
+
+.syndicate {
+margin-right:10px;
+text-align:center;
+font-size:10px;
+}
+
+#comments {
+padding:10px 0px 10px 10px;
+margin-bottom:30px;
+margin-top:25px;
+text-align:left;
+font-family:Verdana;
+}
+#comments form {
+margin:0px;
+padding:0px 10px;
+}
+textarea{
+width:350px;
+margin-bottom:5px;
+background-color:#FFF;
+}
+.comments-head{ 
+font-weight:bold;
+margin:0px;
+padding: 0px 0px 10px 0px;
+}
+.comments-body {
+margin:0px;
+padding:0px;
+}
+
+.comments-post {
+padding:10px;
+text-align:right;
+font-size:10px;
+}
+#trackback {
+margin-left:10px;
+margin-bottom:30px;
+margin-top:25px;
+border:1px solid #000;
+padding:15px;
+text-align:left;
+font-family:Verdana;
+}
+
+#footer{
+clear:left;
+margin:0px 0px;
+padding:0px 15px 30px;
+background-image:url(http://blog.sakura.ne.jp/img/bg/stripepurple/ft.jpg);
+background-repeat:no-repeat;
+background-position:left bottom;
+}
+.copyright{
+text-align:center;
+}
+.diet-content{
+padding-left:10px;
+}
+#diet-foods{
+padding-left:10px;
+}
+.food-title{
+width:20%;
+clear:left;
+float:left;
+}
+.food-content{
+width:75%;
+padding-top:10px;
+}
+#diet-container{
+border:1px solid #999;
+padding:5px;
+margin-bottom:5px;
+}
+.diet-title{
+padding:2px 10px 2px 5px;
+margin-top:5px;
+}
+.diet-content{
+padding-left:10px;
+}
+#diet-foods{
+padding-left:10px;
+}
+.food-title{
+width:20%;
+clear:left;
+float:left;
+}
+.food-content{
+width:75%;
+padding-top:10px;
+}
+blockquote{
+border:1px dashed #A7A7A6;
+background:#FFFFE8;
+padding:5px;
+margin:10px;
+}
+.tag-word{
+font-size:10px;
+margin:20px 0px 0px 0px;
+line-height:1.4em;
+text-align:right;
+}
+.tag{
+margin-top:20px;
+padding:0px;
+margin-left:21px;
+}
+#tag_cloud{
+border:1px solid #CCC;
+padding:10px;
+text-align:left;
+position:relative;
+}
+#tag_cloud a {
+padding:2px;
+}
+.tag-title{
+font-size:16px;
+font-weight:bold;
+text-align:left;
+}
+.tag-body{
+margin:10px 0px;
+padding:10px 0px 0px 0px;
+position:relative;
+}
+.tag-service{
+text-align:left;
+font-weight:bold;
+border-bottom:1px solid #CCC;
+padding:0px 0px 5px 0px;
+clear:left;
+position:relative;
+}
+.tag-search{
+text-align:right;
+padding:5px 0px;
+margin-bottom:10px;
+font-weight:bold;
+position:relative;
+}
+.tag-article{
+padding:0px 10px 10px 10px;
+text-align:left;
+position:relative;
+}
+.tag-article-title{
+text-align:left;
+padding:0px 0px 5px 0px;
+font-weight:bold;
+position:relative;
+}
+.tag-article-posted{
+font-weight:normal;
+position:relative;
+}
+.tag-article-summary{
+padding:0px 10px;
+line-height:1.4em;
+position:relative;
+}
+.tag-more{
+text-align:right;
+margin:10px 0px;
+clear:left;
+position:relative;
+}
+.tag-photos{
+float:left;
+margin:10px 5px;
+position:relative;
+width:140px;
+height:200px;
+}
+.tag-photos-title{
+line-height:1.4em;
+padding:5px 0px;
+text-align:left;
+position:relative;
+}
+.tag-audios{
+margin:5px;
+position:relative;
+}
+.tag-audios-title{
+text-align:left;
+font-weight:bold;
+padding:0px 0px 5px 0px;
+position:relative;
+}
+.tag-audios-posted{
+font-weight:normal;
+position:relative;
+}
+.tag-videos{
+float:left;
+margin:10px 5px;
+position:relative;
+}
+.tag-videos-title{
+line-height:1.4em;
+padding:5px 0px;
+text-align:left;
+position:relative;
+}
+.tag-navi{
+clear:left;
+text-align:center;
+margin:10px 0px;
+position:relative;
+}
+
+.listCategoryArticle{
+margin-top:5px;
+padding:5px;
+border:solid 1px #FFE2E2;
+}
+.listCategoryArticle ul{
+list-style:none;
+padding:0;
+margin:0 0 0 10px;
+text-align:left;
+list-style-position:outside;
+}
+.listCategoryArticle ul li{
+margin:0;
+background:url(http://blog.sakura.ne.jp/img/listCategoryArticle.gif) no-repeat 0 2px;
+padding-left:12px;
+line-height:1.4;
+font-size:10px;
+}
+
+/* twitter quote */
+.tweetBlockQuote{
+ margin-bottom:10px;
+ overflow:hidden;
+ width:98%;
+}
+.tweetBlockQuote img{
+ border:0;
+}
+.tweetBlockQuote .tweetImg{
+ padding:0px;
+ width:53px;
+ text-align:left;
+ overflow:hidden;
+ vertical-align:top;
+ float:left;
+ margin-right:7px;
+}
+.tweetBlockQuote .tweetMain{
+ padding:5px;
+ border:solid 1px #ddd;
+ background:#fff;
+ color:#000;
+ overflow:hidden;
+ vertical-align:top;
+ float:left;
+ width:70%;
+}
+.tweetBlockQuote .tweetMain a.tweetOwner{
+ color:#E86390;
+ font-weight:bold;
+ text-decoration:none;
+}
+.tweetBlockQuote .tweetMain a.tweetFriends{
+ font-weight:bold;
+ color:#26A6DC;
+ text-decoration:none;
+}
+.tweetBlockQuote .tweetMain .tweetText{
+ color:#000;
+}
+.tweetBlockQuote .tweetMain .tweetText a{
+ color:#000;
+ text-decoration:underline;
+}
+.tweetBlockQuote .tweetMain .tweetDate{
+ color:#9C9C9C;
+}
+.tweetBlockQuote .tweetBoth{
+ clear:both;
+}
+/* twitter quote */

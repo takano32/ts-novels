@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<title>CentOS6にRedmineを導入したときの手順メモ: 迷想主義工房エーテルワークス</title>
+<meta name="description" content="CentOS6にRedmineを導入したときの手順メモ,（建設中）" />
+<meta name="keywords" content="迷想主義工房エーテルワークス" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta property="fb:app_id" content="734785106572809" />
+<meta property="og:title" content="CentOS6にRedmineを導入したときの手順メモ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.aetherworks.org/article/112066375.html" />
+<meta property="og:image" content="http://blog.sakura.ne.jp/img/ogp_logo.png" />
+<meta property="og:description" content="　真面目な話になりそうなのでちーちゃんにはお休みいただきました。  　さくらのクラウド上のホストにRedmineっつー進捗管理システムを入れたんですが、少々苦戦したのでメモしておくことにします。 　以前にもRedmineを導入したこと…" />
+<meta property="og:site_name" content="迷想主義工房エーテルワークス" />
+
+
+<link rel="alternate" media="handheld" type="text/html" href="http://www.aetherworks.org/article/112066375.html" />
+<link rel="stylesheet" href="http://www.aetherworks.org/styles-index.css" type="text/css" />
+<link rel="stylesheet" href="http://blog.sakura.ne.jp/css/user-common.css" type="text/css" />
+<link rel="alternate" href="http://www.aetherworks.org/index.rdf" type="application/rss+xml" title="RSS" />
+</head>
+<body><script type="text/javaScript">seesaa_site_id = 'awl'; seesaa_floating = false;</script>
+<div id="iphone-link" style="display:none; font-family: sans-serif; padding: 10px 0; width: 100%; color: #FFF; background: #333; min-height: 60px; line-height: 40px; box-sizing: border-box; font-size: 24px; font-weight: 700; text-decoration:none;"><a href="javascript:document.cookie='force_pc=0; max-age=15768000; path=/'; document.cookie='force_sp=1; max-age=15768000; path=/'; document.location='/?from_pc'" style="display: block; width: 100%; text-decoration: none; color: #FFF;">スマートフォン専用ページを表示</a></div>
+<script type="text/javascript"><!--
+if ((0 <= navigator.userAgent.indexOf('iPhone')) || (0 <= navigator.userAgent.indexOf('Android'))) { document.getElementById('iphone-link').style.display = 'block'; }
+//--></script>
+
+
+<div id="container">
+<div id="banner">
+<h1><a href="http://www.aetherworks.org/" accesskey="1">迷想主義工房エーテルワークス</a></h1>
+
+<span class="description">（建設中）</span>
+
+
+
+</div>
+
+
+<div id="content">
+
+<!-- Content -->
+<div class="navi">
+<a href="http://www.aetherworks.org/article/104041454.html">&lt;&lt;</a> <a href="http://www.aetherworks.org/article/104041454.html">発掘あるあるHDD</a> | <a href="http://www.aetherworks.org/">TOP</a>
+ | <a href="http://www.aetherworks.org/article/161774141.html">夏ももう終わる</a> <a href="http://www.aetherworks.org/article/161774141.html">&gt;&gt;</a></div>
+
+
+<div class="blog">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:Trackback="http://madskills.com/public/xml/rss/module/Trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.aetherworks.org/article/112066375.html"
+    trackback:ping="http://blog.sakura.ne.jp/tb/112066375"
+    dc:title="CentOS6にRedmineを導入したときの手順メモ"
+    dc:identifier="http://www.aetherworks.org/article/112066375.html"
+    dc:description="　真面目な話になりそうなのでちーちゃんにはお休みいただきました。　さくらのクラウド上のホストにRedmineっつー進捗管理システムを入れたんですが、少々苦戦したのでメモしておくことにします。　以前にもRedmineを導入したことがあって、そのときにも非常に苦戦したので、もうRailsなんてだいっきらいだー（＞＜）"
+    dc:creator="きさらぎ"
+    dc:subject="サーバー"
+    dc:date="2015-01-26T12:07:47+09:00"
+/>
+</rdf:RDF>
+-->
+<h2 class="date">2015年01月26日</h2>
+<div class="blogbody">
+<h3 class="title"><a href="http://www.aetherworks.org/article/112066375.html" class="title">CentOS6にRedmineを導入したときの手順メモ</a></h3>
+<div class="text">　真面目な話になりそうなので<a href="http://www.aetherworks.org/article/43467238.html#chisato">ちーちゃん</a>にはお休みいただきました。<br /><br />　<a href="http://cloud.sakura.ad.jp/" target="_blank">さくらのクラウド</a>上のホストに<a href="http://redmine.jp/" target="_blank">Redmine</a>っつー進捗管理システムを入れたんですが、少々苦戦したのでメモしておくことにします。<br />　以前にもRedmineを導入したことがあって、そのときにも非常に苦戦したので、もうRailsなんてだいっきらいだー（＞＜）<br /><br /><!-- =DetailAnchor= --><br /><a name="more"></a><!-- =AdditionAnchor= -->　作業の前提はこんな感じです。<br /><br /><ul><li>サーバー環境はCentOS 6.6 （さくらのクラウド）</li><li>Apache+SSLをyumで導入済み（VirtualHost）</li><li>導入バージョンは 2.6.0 （作業時の最新。現在は2.6.1が出ているが、大差ないだろう）</li><li>なるべくyumパッケージを利用する形で導入する。</li><li>参考：<a href="http://redmine.jp/guide/RedmineInstall/" target="_blank">日本語版公式のインストール解説</a></li></ul><br />　道中viを使う箇所がありますが、viの使い方は特に解説しません。<br />　慣れない人には大変でしょうけど、使い方を<del>ググれカス</del>調べる等して頑張ってください。<br /><br />　<strong id="yumbreak">が、実はいきなりつまづきます。</strong><br />　当環境のyumでインストールできるRubyのバージョンは 1.8.7 です。<br />　解説では Ruby 1.8.7 も対応していると書かれているのですが、このバージョンを用いて解説どおり進行すると、i18nモジュールがインストールできないと怒られます。<br /><br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">ERROR:  Error installing i18n:<br />        i18n requires Ruby version >= 1.9.3.</pre><br />　Ruby1.9.3以上が必要だって……<br />　解説を執筆した当時ならRuby1.8.7でも導入できたのでしょうけど、今から導入する場合は1.9.3が必要なようです。そしてそのバージョンのRubyはyumでは手に入らない……<br />　いきなり原則崩壊です。悔しいけどソースから何とかするしか。<br /><br />　ならば<strong id="ruby">RubyのRPMを作って導入</strong>することにします。<br />　こちらのサイトの手順でいけます。<br /><br /><a href="http://park1.wakwak.com/~ima/centos_ruby0001.html" target="_blank">http://park1.wakwak.com/~ima/centos_ruby0001.html</a><br /><br />　この方法でrubyをインストールすると、yumではruby本体パッケージと別管理（rubygemsなど）になっているファイルやコマンドも一緒にインストールされます（gemも）。<br />　つまり、それらのパッケージと依存関係を持つpassengerなどのパッケージもyum導入できなくなるってこと。<br /><br />　<strong id="yum">Ruby以外のパッケージはyumからインストールします。</strong><br />　まずはApacheから（元々入っている場合は省略）。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">yum -y install httpd mod_ssl</span></pre><br />　この段階でApacheの設定や起動はしません。あとあと。<br />　あと、データベースが何か一種類必要です。まずMySQLの場合（元々入っている場合は省略）。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">yum -y install mysql-server mysql-devel</span><br /># <span style="color:#0000FF;">service mysqld start</span><br /># <span style="color:#0000FF;">chkconfig mysqld on</span></pre>　パッケージ導入するだけじゃなくて、アカウントとデータベースを作らないといけません。こっちはパッケージ導入済みでもコマンド叩いてください。<br />　下記コマンド例では ユーザー名 redmine パスワード hogefuga データベース名 redmine_db としています。コマンド実行時は任意に書き換えてください（特にパスワード）。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">mysql</span><br />mysql> <span style="color:#0000FF;">CREATE DATABASE redmine_db;</span><br />mysql> <span style="color:#0000FF;">GRANT ALL PRIVILEGES ON redmine_db.* TO 'redmine'@'localhost' IDENTIFIED BY 'hogefuga';</span><br />mysql> <span style="color:#0000FF;">exit</span></pre><br />　PostgreSQLを使う場合。パッケージ導入から（元々入っている場合は省略）。。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">yum -y install postgresql-server postgresql-devel</span><br /># <span style="color:#0000FF;">service postgresql initdb</span><br /># <span style="color:#0000FF;">service postgresql start</span><br /># <span style="color:#0000FF;">chkconfig postgresql on</span></pre>　アカウントとデータベースを作成。<br />　これも下記コマンド例では ユーザー名 redmine パスワード hogefuga データベース名 redmine_db としています。コマンド実行時は任意に書き換えてください（特にパスワード）。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">su - postgres</span><br />$ <span style="color:#0000FF;">createuser -P redmine</span><br />Enter password for new role: <span style="color:#0000FF;">hogefuga</span> <span style="color:#FF0000;">←入力が画面に表示されない</span><br />Enter it again: <span style="color:#0000FF;">hogefuga</span> <span style="color:#FF0000;">←入力が画面に表示されない</span><br />Shall the new role be a superuser? (y/n) <span style="color:#0000FF;">n</span><br />Shall the new role be allowed to create databases? (y/n) <span style="color:#0000FF;">n</span><br />Shall the new role be allowed to create more new roles? (y/n) <span style="color:#0000FF;">n</span><br />$ <span style="color:#0000FF;">createdb -E utf8 -O redmine -T template0 redmine_db</span><br />$ exit</pre><br />　MsSQLにも対応しているそうですが、今回はCentOS6へのインストールなので考慮しません。<br />　SQLite？　ありゃデータベースの実体がファイルなんで、あらかじめDB作るような準備は特にありません。<br /><br />　次はrubyモジュールを導入……ではなく、先に<b id="wget">Redmineのファイルを落として展開</b>します。<br />　ダウンロードはwgetコマンドを使うと楽、というのはLinux系エンジニアの常識。<br />　ダウンロードURLは<a href="http://www.redmine.org/projects/redmine/wiki/Download" target="_blank">配布元</a>のリンクから持ってきてください。下記URLがいつダウンロード不能になるかわかりませんし、何より最新版を使ったほうがいいです。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">$ <span style="color:#0000FF;">wget "http://www.redmine.org/releases/redmine-2.6.0.tar.gz"</span><br />$ <span style="color:#0000FF;">tar xvzpf redmine-2.6.0.tar.gz</span></pre>　展開すると <span style="color:#0000FF;">redmine-2.6.0</span> というディレクトリができるので、これを設置したい場所に移動しましょう。今回の作業では <strong>/opt/redmine</strong> に置きました。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">mv redmine-2.6.0 /opt/redmine</span></pre>　ついでに設定もしておきます。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">$ <br />$ <span style="color:#0000FF;">vi /opt/redmine/config/database.yml</span></pre><br />　設定値ですが、MySQLの場合はこうなります。<br /><pre style="border:1px dashed #A7A7A6;background:#E8FFE8;padding:2px;">production:<br />  adapter: mysql2<br />  database: redmine_db<br />  host: localhost<br />  username: redmine<br />  password: hogefuga</pre>　Ruby1.9なのでadapterはmysql2になるらしいですよ。<br /><br />　PostgreSQLの場合はこう。<br /><pre style="border:1px dashed #A7A7A6;background:#E8FFE8;padding:2px;">production:<br />  adapter: postgresql<br />  database: redmine_db<br />  host: localhost<br />  username: redmine<br />  password: hogefuga<br />  encoding: utf8<br />  schema_search_path: public</pre><br />　SQLiteの場合（動作未確認）。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">production:<br />  adapter: sqlite3<br />  database: db/redmine.sqlite3</pre><br /><br />　<strong id="ruby-modules">やっとRubyモジュールのターン。</strong><br />　といっても必要なモジュールはほぼ一括で入れることができるらしいです。<br />　唯一、一括で入れる処理のためのbundlerモジュールは、別途で入れます。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">gem install bundler</span></pre><br />　次にbundleコマンドを実行……のまえに、bundleはroot実行を推奨していないらしいので、Redmine用のLinuxユーザーアカウントをsudoに登録します。<br />　今回のLinuxユーザー名は、DBユーザー名と同じredmineにしています。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">visudo</span><br /><span style="color:#999999;">(一番下に↓の行を追加する)</span><br /><span style="color:#006600;">%redmine ALL=(ALL) ALL</span><br /><span style="color:#999999;">(sudo実行時にパスワードを求められる場合があるので設定する。設定済みなら省略可)</span><br /># <span style="color:#0000FF;">passwd redmine</span><br /><span style="color:#999999;">(sudoができることを確認する)</span><br /># <span style="color:#0000FF;">su - redmine</span><br />$ <span style="color:#0000FF;">sudo ls -l /root</span></pre>　このsudo登録は、インストールが終わったら解除してもOK。というか解除したほうがいいでしょう。<br /><br />　あとはbundleコマンドでモジュール一括導入。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">$ <span style="color:#0000FF;">bundle install --without development test postgresql sqlite</span> <span style="color:#999999;">（MySQLを使う場合）</span><br />$ <span style="color:#0000FF;">bundle install --without development test mysql sqlite</span> <span style="color:#999999;">（PostgreSQLを使う場合）</span><br />$ <span style="color:#0000FF;">bundle install --without development test mysql postgresql</span> <span style="color:#999999;">（SQLiteを使う場合）</span></pre>　実行中パスワードを求められる場合があるので、そのときは先ほど設定した<ins>Linuxユーザーのパスワード</ins>を入力します。<br /><br />　<strong id="gen-key">セッションストア秘密鍵というのを作成します。</strong><br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">$ <span style="color:#0000FF;">rake generate_secret_token</span></pre><br /><br />　<strong id="init-db">データベースを初期化します。</strong><br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">$ <span style="color:#0000FF;">RAILS_ENV=production rake db:migrate</span> <span style="color:#999999;">←スキーマの作成</span><br />$ <span style="color:#0000FF;">RAILS_ENV=production rake redmine:load_default_data</span> <span style="color:#999999;">←初期データの投入</span></pre>　初期データの投入は必須ではないらしいのですが、強く推奨されます。データが空だと管理アカウントすら存在しないことになり、スタートアップが大変不便です。<br /><br />　パーミッションを設定します。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">$ <span style="color:#0000FF;">mkdir tmp public/plugin_assets</span><br />$ <span style="color:#0000FF;">sudo chown -R redmine:redmine files log tmp public/plugin_assets</span><br />$ <span style="color:#0000FF;">sudo chmod -R 755 files log tmp public/plugin_assets</span></pre><br /><br />　ここまでくれば準備完了、のはず。<br />　まずはWEBrickで起動してみます。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;">$ <span style="color:#0000FF;">ruby script/rails server webrick -e production</span></pre>　コマンドの稼働中、このホストのポート3000番（例： http://redmine.example.com:3000/ ）にアクセスすると、新規Redmineのサイトが表示されるはずです。<br />（iptablesなどのファイアウォールは、適切に設定して通信可能にしてください）<br />　デフォルトアカウント（admin/admin）でログインしてみましょう。<br />　なお、Ctrl+Cを押してコマンドを終了すると、サイトも閲覧できなくなります。<br /><br />　さて、最後の工程です。WEBrick起動ではプロセス安定しないしセキュリティもゆるゆるなので、Apacheに組み込んでしまいましょう。<br />　これも<a href="http://redmine.jp/tech_note/apache-passenger/" target="_blank">日本語版公式の解説</a>を参考にします。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">gem install passenger</span><br /># <span style="color:#0000FF;">passenger-install-apache2-module</span></pre>　このコマンドは対話形式で処理が進みます。<span style="color:#CCCCCC;"><del>このあたり手順がちょっとうろ覚えです。</del></span><br />　足らないモジュールがあると指示が出て、コマンドが中断します。その場合は指示通りにモジュールを導入して、再度コマンドを叩きます。<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">yum install libcurl-devel httpd-devel apr-devel apr-util-devel</span><br /># <span style="color:#0000FF;">passenger-install-apache2-module</span></pre>　モジュールが揃っていれば、確認の後でpassengerのビルドが走り、最後にApacheに追加する設定の内容が表示されます。<br />　設定の変更は自動で行われたりしないので、httpd.confに手動で設定を追加します。<br /><pre style="border:1px dashed #A7A7A6;background:#E8FFE8;padding:2px;">LoadModule passenger_module /usr/lib64/ruby/gems/1.9.1/gems/passenger-4.0.57/buildout/apache2/mod_passenger.so<br /><br />&lt;IfModule mod_passenger.c&gt;<br />  PassengerRoot /usr/lib64/ruby/gems/1.9.1/gems/passenger-4.0.57<br />  PassengerDefaultRuby /usr/bin/ruby<br />&lt;/IfModule&gt;<br />PassengerEnabled off</pre>　最後の PassengerEnabled off は、既に動いているVirutlaHostに影響を出さないために入れます。<br />　んでRedmine用VirtualHostの設定も。<br /><pre style="border:1px dashed #A7A7A6;background:#E8FFE8;padding:2px;">&lt;VirtualHost *:443&gt;<br />    ServerName        redmine.example.com<br />    DocumentRoot      /opt/redmine/public<br />    PassengerEnabled on<br />    &lt;Directory /opt/redmine&gt;<br />       AllowOverride all<br />       Options -MultiViews<br />    &lt;/Directory&gt;<br />    Timeout          1200<br /><span style="color:#999999;">（SSL動作に関する設定は省略）</span><br />&lt;/VirtualHost&gt;</pre>　全体設定でPassengerEnabled offなので、このVirtualHost内ではonにします。<br />　またデータが溜まるとページの表示時間が長くなる場合があるのでTimeoutを長めに確保します。<br /><br />　設定を入れたらApacheを再起動して、<br /><pre style="border:1px dashed #A7A7A6;background:#FFFFE8;padding:2px;"># <span style="color:#0000FF;">service httpd configtest</span><br /># <span style="color:#0000FF;">service httpd restart</span></pre>　RedmineのURL（例では https://redmine.example.com/ ）にブラウザでアクセスしてみましょう。<br />　表示されればセットアップ完了。おつかれさまでした。<div class="tag-word">タグ：<a href="http://www.aetherworks.org/tag/Redmine">Redmine</a> <a href="http://www.aetherworks.org/tag/centOS6">centOS6</a> <a href="http://www.aetherworks.org/tag/%82%B3%82%AD%82%E7%82%CC%83N%83%89%83E%83h">さくらのクラウド</a> <a href="http://www.aetherworks.org/tag/Ruby%20on%20Rails">Ruby on Rails</a> </div>
+ 
+
+
+</div>
+<div class="posted">posted by きさらぎ at 12:07| <a href="http://www.aetherworks.org/article/112066375.html#comment">Comment(0)</a>
+
+| <a href="http://www.aetherworks.org/article/112066375.html#trackback">TrackBack(0)</a>
+| <a href="http://www.aetherworks.org/category/1439440-1.html">サーバー</a>
+</div>
+
+</div>
+
+</div>
+
+
+<div id="comments">
+
+<a name="comment"></a>
+
+<div class="comments-head">この記事へのコメント</div>
+
+<div class="comments-head">コメントを書く</div>
+<form action="http://www.aetherworks.org/pages/user/comments2/regist/input" method="post" name="comment-form">
+<div class="comments-body">
+お名前: [必須入力]<br />
+<input type="text" name="article_child__writer" size="50" value="" /><br />
+メールアドレス: [必須入力]<br />
+<input type="text" name="article_child__email" size="50" value="" /><br />
+ホームページアドレス: <br />
+<input type="text" name="article_child__homepage" size="50" value="" /><br />
+コメント: [必須入力]<br />
+<textarea name="article_child__body" rows="10" cols="45"></textarea><br />
+<input type="hidden" name="article_child__article_id" value="112066375" />
+<input type="hidden" name="article_id" value="112066375" />
+※ブログオーナーが承認したコメントのみ表示されます。<br />
+<input name="need_confirm" type="submit" class="input-submit"  value="確認する" /><input name="posted" type="submit" class="input-submit"  value="書き込む" />
+</div>
+</form>
+</div>
+
+<div id="trackback">
+この記事へのトラックバックURL<br />http://blog.sakura.ne.jp/tb/112066375<br />
+※ブログオーナーが承認したトラックバックのみ表示されます。<br />
+※言及リンクのないトラックバックは受信されません。<br />
+
+<hr />
+この記事へのトラックバック<br />
+</div>
+
+
+<div id="balloonBox"></div>
+<script type="text/javascript" charset="utf-8" src="http://blog.sakura.ne.jp/js/bl-bookmarks.js?20150403"></script>
+<script type="text/javascript" charset="utf-8">
+var bookmark_services = "".split('-').join('').split(",");
+var seesaaBookmarks = new blBookmarks({bookmark_services:bookmark_services, blog_url:"http://blog.sakura.ne.jp"});
+seesaaBookmarks.exe();
+</script>
+<!-- /Content -->
+
+
+</div>
+
+<div id="links">
+<div class="sidetitle">Information</div>
+<div class="side">
+・ <a href="/article/43467238.html">このサイトについて</a><br />
+・ <a href="/article/43477852.html">リンク</a>
+</div>
+
+<div class="sidetitle">別サイト</div>
+<div class="side">
+・ <a href="http://nos.aetherworks.org/">Nostaleのブログ</a>
+</div>
+
+<div class="sidetitle">検索ボックス</div>
+<div class="side">
+<form method="get" action="http://www.aetherworks.org/pages/user/search/" class="sASform" name="form6501678">
+<table class="seesaaArticleSearch">
+<tr>
+<td colspan="5"><input value="" name="keyword" type="text" size="20" /><br /><input value="検索" type="submit" class="input-submit" /></td>
+</tr>
+</table>
+</form>
+<style type="text/css">
+.seesaaArticleSearch{border-collapse:collapse;overflow:hidden;font-size:12px;text-align:left;}
+.seesaaArticleSearch td{padding:0;}
+.sASform{margin:0;padding:0;}
+</style>
+</div>
+
+<div class="sidetitle">最近の記事</div>
+<div class="side">
+(08/18)<a href="http://www.aetherworks.org/article/161774141.html">夏ももう終わる</a><br />
+(01/26)<a href="http://www.aetherworks.org/article/112066375.html">CentOS6にRedmineを導入したときの手順メモ</a><br />
+(09/30)<a href="http://www.aetherworks.org/article/104041454.html">発掘あるあるHDD</a><br />
+(10/29)<a href="http://www.aetherworks.org/article/79406228.html">いきなり小事故</a><br />
+(10/25)<a href="http://www.aetherworks.org/article/79104652.html">よぉこそ縦ドラム</a><br />
+</div>
+
+<div class="sidetitle">最近のコメント</div>
+<div class="side">
+<a href="http://www.aetherworks.org/article/45802728.html#comment">元東電社員の内部告発</a> by きさらぎ (06/10)<br />
+<a href="http://www.aetherworks.org/article/45802728.html#comment">元東電社員の内部告発</a> by きりか (06/10)<br />
+</div>
+
+<div class="sidetitle">カテゴリ</div>
+<div class="side">
+<a href="http://www.aetherworks.org/category/1099618-1.html">info</a>(2)<br />
+<a href="http://www.aetherworks.org/category/1125308-1.html">サイエンス</a>(5)<br />
+<a href="http://www.aetherworks.org/category/1140312-1.html">インフラ論</a>(4)<br />
+<a href="http://www.aetherworks.org/category/1094129-1.html">雑記</a>(20)<br />
+<a href="http://www.aetherworks.org/category/1215895-1.html">放浪紀</a>(2)<br />
+<a href="http://www.aetherworks.org/category/1439440-1.html">サーバー</a>(3)<br />
+<a href="http://www.aetherworks.org/category/1738236-1.html">時事</a>(2)<br />
+<a href="http://www.aetherworks.org/category/2926647-1.html">ゲーム</a>(1)<br />
+</div>
+
+<div class="sidetitle">過去ログ</div>
+<div class="side">
+<a href="/archives/201508-1.html">2015年08月</a>(1)<br />
+<a href="/archives/201501-1.html">2015年01月</a>(1)<br />
+<a href="/archives/201409-1.html">2014年09月</a>(1)<br />
+<a href="/archives/201310-1.html">2013年10月</a>(4)<br />
+<a href="/archives/201210-1.html">2012年10月</a>(2)<br />
+<a href="/archives/201205-1.html">2012年05月</a>(2)<br />
+<a href="/archives/201204-1.html">2012年04月</a>(2)<br />
+<a href="/archives/201203-1.html">2012年03月</a>(2)<br />
+<a href="/archives/201110-1.html">2011年10月</a>(1)<br />
+<a href="/archives/201109-1.html">2011年09月</a>(1)<br />
+<a href="/archives/201107-1.html">2011年07月</a>(1)<br />
+<a href="/archives/201106-1.html">2011年06月</a>(2)<br />
+<a href="/archives/201105-1.html">2011年05月</a>(1)<br />
+<a href="/archives/201104-1.html">2011年04月</a>(5)<br />
+<a href="/archives/201103-1.html">2011年03月</a>(9)<br />
+<a href="/archives/201102-1.html">2011年02月</a>(2)<br />
+</div>
+
+<div class="syndicate">
+<a href="/index.rdf">RDF Site Summary</a><br />
+<a href="/index20.rdf">RSS 2.0</a><br />
+</div>
+
+
+
+</div>
+
+<div id="footer">
+<div class="powered">
+<img src="http://blog.sakura.ne.jp/img/powerdby.gif" width="120" height="35" border="0" alt="Powered by さくらのブログ" />
+</div>
+
+
+</div>
+
+</div>
+
+<!-- common footer -->
+</body>
+</html>

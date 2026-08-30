@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<title>迷想主義工房エーテルワークス</title>
+<meta name="description" content="（建設中）" />
+<meta name="keywords" content="迷想主義工房エーテルワークス " />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<link rel="stylesheet" href="http://www.aetherworks.org/styles-index.css" type="text/css" />
+<link rel="stylesheet" href="http://blog.sakura.ne.jp/css/user-common.css" type="text/css" />
+<link rel="alternate" href="http://www.aetherworks.org/index.rdf" type="application/rss+xml" title="RSS" />
+</head>
+<body><script type="text/javaScript">seesaa_site_id = 'awl'; seesaa_floating = true;</script>
+<span id="iphone-link" style="display:none; padding-top:3px;text-align:right;"><a href="javascript:document.cookie='force_pc=0; max-age=15768000; path=/'; document.location='/'">iPhone専用ページを表示</a></span>
+<script type="text/javaScript"><!--
+if (0 <= navigator.userAgent.indexOf('iPhone')) { document.getElementById('iphone-link').style.display = 'block'; }
+//--></script>
+
+
+<div id="container">
+<script type="text/javascript" language="JavaScript" src="http://blog.sakura.ne.jp/contents/js/ad_plugin.js"></script>
+<div id="banner">
+<h1><a href="http://www.aetherworks.org/" accesskey="1">迷想主義工房エーテルワークス</a></h1>
+
+<span class="description">（建設中）</span>
+
+
+
+</div>
+
+
+<div id="content">
+
+<div id="comments">
+<div class="comments-head">"ERROR: NOT PERMITED METHOD: subject "へのコメント<br /></div>
+
+<div class="comments-head">コメントを書く</div>
+<form action="/pages/user/comments2/regist/input" method="post">
+<input value="" name="article_id" type="hidden" />
+<input value="" name="article_child__article_id" type="hidden" />
+<div class="comments-body">
+
+
+お名前: <br />
+<input value="" name="article_child__writer" type="hidden" /><br />
+メールアドレス:  <br />
+<input value="" name="article_child__email" type="hidden" /><br />
+ホームページアドレス: <br />
+<input value="" name="article_child__homepage" type="hidden" size="50" /><br />
+コメント: <br />
+
+<input value="" name="article_child__body" type="hidden">
+<br />
+
+<input value="書き込む" name="posted" class="input-submit" type="submit"> <br />
+</div>
+</form>
+
+<form action="/pages/user/comments2/regist/input" method="post">
+<div class="comments-body">
+お名前: <br />
+<input value="" name="article_child__writer" type="text" size="50" /><br />
+メールアドレス: <br />
+<input value="" name="article_child__email" type="text" size="50" /><br />
+ホームページアドレス: <br />
+<input value="" name="article_child__homepage" type="text" size="50" /><br />
+コメント: <br />
+<textarea name="article_child__body" rows="10" cols="50"></textarea><br />
+<input value="" name="article_child__article_id" type="hidden" />
+<input value="" name="article_id" type="hidden" />
+※ブログオーナーが承認したコメントのみ表示されます。<br />
+<input value="確認する" name="need_confirm" class="input-submit" type="submit" /><input value="書き込む" name="posted" class="input-submit" type="submit" />
+</div>
+</form>
+</div>
+</div>
+
+<div id="links">
+<div class="sidetitle">Information</div>
+<div class="side">
+・ <a href="/article/43467238.html">このサイトについて</a><br />
+・ <a href="/article/43477852.html">リンク</a>
+</div>
+
+<div class="sidetitle">検索ボックス</div>
+<div class="side">
+<form method="get" action="http://www.aetherworks.org/pages/user/search/" class="sASform" name="form6501678">
+<table class="seesaaArticleSearch">
+<tr>
+<td colspan="5"><input value="" name="keyword" type="text" size="20" /><br /><input value="検索" class="input-submit" type="submit" /></td>
+</tr>
+</table>
+</form>
+<style type="text/css">
+.seesaaArticleSearch{border-collapse:collapse;overflow:hidden;font-size:12px;text-align:left;}
+.seesaaArticleSearch td{padding:0;}
+.sASform{margin:0;padding:0;}
+</style>
+</div>
+
+<div class="sidetitle">最近の記事</div>
+<div class="side">
+(09/02)<a href="http://www.aetherworks.org/article/47692105.html">セラの高原から参勤交代まで</a><br />
+(07/21)<a href="http://www.aetherworks.org/article/46876419.html">会社を辞めるということ</a><br />
+(06/29)<a href="http://www.aetherworks.org/article/45977615.html">スマートフォンで見れないサイトとテザリング</a><br />
+(06/08)<a href="http://www.aetherworks.org/article/45802728.html">元東電社員の内部告発</a><br />
+(05/14)<a href="http://www.aetherworks.org/article/45163372.html">今の桜、過去の桜</a><br />
+</div>
+
+<div class="sidetitle">最近のコメント</div>
+<div class="side">
+<a href="http://www.aetherworks.org/article/45802728.html#comment">元東電社員の内部告発</a> by きさらぎ (06/10)<br />
+<a href="http://www.aetherworks.org/article/45802728.html#comment">元東電社員の内部告発</a> by きりか (06/10)<br />
+</div>
+
+<div class="sidetitle">カテゴリ</div>
+<div class="side">
+<a href="http://www.aetherworks.org/category/1099618-1.html">info</a>(2)<br />
+<a href="http://www.aetherworks.org/category/1125308-1.html">サイエンス</a>(5)<br />
+<a href="http://www.aetherworks.org/category/1140312-1.html">インフラ論</a>(4)<br />
+<a href="http://www.aetherworks.org/category/1094129-1.html">雑記</a>(11)<br />
+<a href="http://www.aetherworks.org/category/1215895-1.html">放浪紀</a>(1)<br />
+</div>
+
+<div class="sidetitle">過去ログ</div>
+<div class="side">
+<a href="/archives/201109-1.html">2011年09月</a>(1)<br />
+<a href="/archives/201107-1.html">2011年07月</a>(1)<br />
+<a href="/archives/201106-1.html">2011年06月</a>(2)<br />
+<a href="/archives/201105-1.html">2011年05月</a>(1)<br />
+<a href="/archives/201104-1.html">2011年04月</a>(5)<br />
+<a href="/archives/201103-1.html">2011年03月</a>(9)<br />
+<a href="/archives/201102-1.html">2011年02月</a>(2)<br />
+</div>
+
+<div class="syndicate">
+<a href="/index.rdf">RDF Site Summary</a><br />
+<a href="/index20.rdf">RSS 2.0</a><br />
+</div>
+
+
+
+</div>
+
+<div id="footer">
+<div class="powered">
+<a href="http://www.sakura.ne.jp/"><img src="http://blog.sakura.ne.jp/img/powerdby.gif" width="120" height="35" border="0" alt="Powered by さくらのブログ" /></a>
+</div>
+
+
+</div>
+
+</div>
+
+<!-- common footer -->
+</body>
+</html>

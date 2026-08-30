@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja" id="rootElement" >
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>さくらのブログ</title>
+<meta name="description" content="さくらのブログ / パソコンと携帯(ケータイ)から楽しめる簡単ブログサービス。ポッドキャスティング、アフィリエイト、ダイエット、日記、モブログ、全部つかえて完全無料。">
+<meta name="keywords" content="ブログ,無料,ポッドキャスティング,アフィリエイト,ダイエット,日記,携帯,ケータイ,アクセス解析,独自ドメイン,blog,podcasting,moblog">
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="stylesheet" type="text/css" href="http://blog.sakura.ne.jp/css/myblog.css" />
+</head>
+<body><a name="top"></a>
+
+<div id="myblog">
+<div id="head">
+
+<a href="/" id="logo"><img src="http://blog.sakura.ne.jp/img/portal/logo.jpg" width="219" height="58" title="さくらのブログ" border="0" /></a>
+</div>
+
+<div style="text-align:center;padding:50px 0;clear:both;">
+		リクエストされたページが見つかりません。<BR>
+		削除または移動された可能性があります。<br>
+<br>
+[ <a href="/">TOPへ</a> ]
+</div>
+
+<div style="background-color:#666;color:#fff;font-size:12px;text-align:center;padding:10px;">
+(C)Copyright SAKURA Internet Inc.
+</div>
+
+</body>
+</html>

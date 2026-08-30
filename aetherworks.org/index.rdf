@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns="http://purl.org/rss/1.0/"
+>
+
+<channel rdf:about="http://nos.aetherworks.org/">
+<title>[nostale]蓬莱家のぺぇじ±α</title>
+<link>http://nos.aetherworks.org/</link>
+<description>ノーステイル関連のメモ帳的なサイト</description>
+<dc:language>ja</dc:language>
+<admin:generatorAgent rdf:resource="http://blog.sakura.ne.jp/" />
+<items>
+<rdf:Seq>
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/112027534.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/60397675.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/59896732.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/59522218.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/59242563.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/58712846.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/58483530.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/58047910.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/55157236.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/54489371.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/54411117.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/54372935.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/54263382.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/51967954.html" />
+<rdf:li rdf:resource="http://nos.aetherworks.org/article/51817380.html" />
+</rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://nos.aetherworks.org/article/112027534.html">
+<link>http://nos.aetherworks.org/article/112027534.html</link>
+<title>閉鎖のお知らせ</title>
+<description>　一年以上も遊べない日々が続いて、久々に覗いてみようかと思ったら、　会社つぶれてて遊べなくなってるとかびっくりだよ。　というわけで、このサイトも閉鎖という事にします。　母体であるゲームが無ければどうしようもありませんし。そもそも放置続きだったし。　皆様、ご愛読（？）ありがとうございました。</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2015-01-15T10:45:32+09:00</dc:date>
+<content:encoded><![CDATA[
+　一年以上も遊べない日々が続いて、久々に覗いてみようかと思ったら、<br />　<span style="font-size:x-large;line-height:1.2em;">会社つぶれてて遊べなくなってる</span>とかびっくりだよ。<br /><br />　というわけで、このサイトも閉鎖という事にします。<br />　母体であるゲームが無ければどうしようもありませんし。<span style="color:#ccc;">そもそも放置続きだったし。</span><br />　皆様、ご愛読（？）ありがとうございました。<a name="more"></a>
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/60397675.html">
+<link>http://nos.aetherworks.org/article/60397675.html</link>
+<title>イベントあらかると</title>
+<description>　気がつくとハロウィンが終わっていました。　と言いつつ、ハロウィン時期わたしが何やってたかというと、　ひたすらコイツ狩ってたんですが。イベント関係ねぇ。　この頃は恒例だった24時のケイオス狩りも、最近は人の集まりが鈍くてちょっと大変です。というか自分がＰＣデスクに座れず主催できないことが増えました。　歳末で仕事の忙しい人が多いということでしょうか。わたしも24時頃にログインできてないことが増えてきましたし……　一方で、こいつも一応狩りました。　Ｐトリの出はある程度いい感じに調..</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-11-29T19:08:46+09:00</dc:date>
+<content:encoded><![CDATA[
+　気がつくとハロウィンが終わっていました。<br />　と言いつつ、ハロウィン時期わたしが何やってたかというと、<br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121106_chaos.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121106_chaos-thumbnail2.jpg" width="320" height="180" border="0" align="" alt="戦いぶりは確かにケイオス……" /></a><br />　ひたすらコイツ狩ってたんですが。イベント関係ねぇ。<br />　この頃は恒例だった24時のケイオス狩りも、最近は人の集まりが鈍くてちょっと大変です。というか自分がＰＣデスクに座れず主催できないことが増えました。<br />　歳末で仕事の忙しい人が多いということでしょうか。わたしも24時頃にログインできてないことが増えてきましたし……<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121106_halloween.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121106_halloween-thumbnail2.jpg" width="320" height="180" border="0" align="" alt="シンデレラの馬車、かぼちゃ、かぼちゃ" /></a><br />　一方で、こいつも一応狩りました。<br />　Ｐトリの出はある程度いい感じに調整されてるのか、わたしの手元にも現れてくれましたとさ。<br />　イベント時期から一週間もたつと、こっちの過疎っぷりも凄まじいことになっていたようです。やりたい人にとって、人を動員しないとできない行為についてきてくれる人がいない、という状況はなかなかつらいものがありますね。もちろん自ら率先して動くことが前提ですが。<br /><br />　フォースダブルはまぁいいや。<br />　しょっちゅうレイドが開くので、何回か行く機会がありました。シェルもいくつか手に入ったけど、それをつける武器のほうに恵まれないので何ともいえない。<br /><br />　あと<a href="http://nostale.gameyarou.jp/news/view.asp?ntc_sort=E&ntc_no=12112100000000000013" target="_blank">流れ星イベント</a>なるものがありましたね。<br />　個人的にオイルくれるのがありがたかったです、これで一回だけ火山で狩りができます。わたしのキャラはLV90に達したやつが一人もいないので、まだ正規の入手手段がないんですよね。<br />　まぁ狩りに行ったとして火力が足りるのかどうかは不安がありますが。<br /><br /><!-- <DetailAnchor> --><a name="more"></a><!-- <AdditionAnchor> -->　で、その流れ星の落ちた現場の映像がこちら。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121124_wish.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121124_wish-thumbnail2.jpg" width="320" height="200" border="0" align="" alt="ステキな欲まみれ" /></a><br /><br />　……ごらんのとおり、ステキなまでに欲まみれです。<br />　面白そうなのでいくつかピックアップしてみます。<br /><br />○賭けアミュがもらえますように！<br />○とりあえず賭けアミュ（以降解読不能）<br /><br />　このイベントの景品は賭けアミュです。運よく当たっている幸運を祈ります。<br /><br /><br />○アミュあり<br /><br />　このイベントの景品が賭けアミュです。既に貰った気でいるようです。気が早くない？<br /><br /><br />○レアアミュが欲しい<br />○レアアミュ当たりますように<br /><br />　頑張ってお金ためて買うか、課金で運よく引き当てるか、イベントで貰える幸運を掴むかしてくだしあ。<br />　ていうかわたしも欲しい。でも買う気はない。<br /><br /><br />○おかねほしい<br />○いいから金をくれ<br />○金かねカネ金かねカネ金かねカネ金かねカネ金かねカネ金かねカネ伝箱金かねカネ金金金金金金かねかねかねカネカネ<br /><br />　最後落ち着け。<br />　どうしても欲しいんなら、包丁を持って銀行に行きなさい。そして言うのです。<br />「金を出せ」<br />　たぶん手に入りません。<br /><br /><br />○高性能PCがほしい<br /><br />　買うしかないっしょ。<br /><br /><br />○頭が良くなりますように！<br />○成績上がりますように!!<br /><br />　勉強しましょう。<br /><br /><br />○なんか良いことありますように。<br /><br />　抽象的過ぎます。<br /><br /><br />○身長が１５３ｃｍほど顔はかわいくて性格がよくて胸がＤくらいの子がmixiで絡んできて彼女になりますように<br /><br />　具体的過ぎます。<br />　条件が４つもあると該当者は少ないでしょう、ましてそれがあなたに絡んでくる可能性は皆無です。あきらめましょう。<br /><br /><br />○みんな幸せになりますように<br />○ノーステイルにいる皆さんに幸せを^^<br /><br />　願われてしまいました。<br />　皆さん幸せになりましたか？<br /><br /><br />○最強になれますように<br /><br />　頑張ってください。<br />　LVカンスト、最強武器防具の全て伝説、発狂するほど強いシェル、そしてプレイヤースキルとそれを支える安定した回線。これが揃えば貴方はきっと最強です。<br />　でも最強でも集団リンチ食らえば死ぬときは死にます。たぶん。<br /><br /><br />○五次職が出ますように<br /><br />　このヒトの場合はキャノンシューターかな。未だに出ないんですね……<br />　遠征に連れて行ってあげることなら出来ます。がんばって。<br /><br /><br />○ラウルが改心しますように<br /><br />　抵抗合成の成功率って、表示よりも体感で低いような気がしますよね……<br /><br /><br />○ラウル死ね<br />○ラウルを殺せるイベントが来ますように<br /><br />　こえええええええええええええっ<br />　みんなラウルにそこまで恨みが……！？<br /><br /><br />○神秘的な調味料が半額になりますように<br /><br />　あれ何に使うの？
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/59896732.html">
+<link>http://nos.aetherworks.org/article/59896732.html</link>
+<title>宣伝と言われても</title>
+<description>　宣伝と言われても困るよまうすたん！　ていうか他力本願だよまうすたん！　なんか新しいキャンペーン？　が用意されたみたいですが……○「みんなの掲示板」で宣伝しよう！ユーザー様が企画し、開催する「ユーザーイベント」やノーステイルプレイ動画の実況配信を、「みんなの掲示板」で宣伝してみませんか？掲示板へ宣伝内容を投稿後、運営チームまでご報告いただくことで、記事タイトルを”イベントカラー”に設定いたします。　とりあえずわたしにはイベントの案はないのでした。　というか、ユーザー主導でイベ..</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-11-08T11:07:16+09:00</dc:date>
+<content:encoded><![CDATA[
+　宣伝と言われても困るよまうすたん！<br />　ていうか他力本願だよまうすたん！<br /><br />　なんか新しいキャンペーン？　が用意されたみたいですが……<br /><br /><br />○<a href="http://nostale.gameyarou.jp/news/view.asp?ntc_sort=N&ntc_no=12110700000000000009" target="_blank">「みんなの掲示板」で宣伝しよう！</a><br /><br /><blockquote>ユーザー様が企画し、開催する「ユーザーイベント」や<br />ノーステイルプレイ動画の実況配信を、「みんなの掲示板」で宣伝してみませんか？<br /><br />掲示板へ宣伝内容を投稿後、運営チームまでご報告いただくことで、<br />記事タイトルを”イベントカラー”に設定いたします。</blockquote><br /><br />　とりあえずわたしにはイベントの案はないのでした。<br /><br />　というか、ユーザー主導でイベントやるのって容易じゃないのです。<br />　たまにやってるヒトがいて、しかもかなりまとまった人数を動員してるのを見ると、素直に感心するのです。<br />　わたしには無理だなぁ……<br /><br />　まぁ、イベント主催者に褒美があるわけでもないので、案がないなら無理に乗ることもないのですけどね。<a name="more"></a>
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/59522218.html">
+<link>http://nos.aetherworks.org/article/59522218.html</link>
+<title>10/24メンテ後にログインできなくなった人へ</title>
+<description>　なんか、Win7＋IE9使ってると、アプデをダウンロードできなくなるというウワサを聞きました。　うへぇ。困ったブラウザだと思ってたら……　このテの話に詳しい人が今のファミにいて、ニコ生で対処の仕方を教えてくれたので、話をまとめてみます。</description>
+<dc:subject>Tech</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-10-25T21:23:44+09:00</dc:date>
+<content:encoded><![CDATA[
+　なんか、Win7＋IE9使ってると、アプデをダウンロードできなくなるというウワサを聞きました。<br />　うへぇ。困ったブラウザだと思ってたら……<br /><br />　このテの話に詳しい人が今のファミにいて、ニコ生で対処の仕方を教えてくれたので、話をまとめてみます。<br /><br /><!-- <DetailAnchor /> --><a name="more"></a><!-- <AdditionAnchor /> --><br />○Aeroを切って軽量化<br /><br />　ウィンドウを半透明にする処理って重いんですよねー。ウチは体感したことないけど。<br />　Aeroを切ると、それがなくなって軽くなるらしいです。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/gamen1.gif" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/gamen1-thumbnail2.gif" width="256" height="320" border="0" align="" alt="デスクトップを右クリック" /></a><br />　ウィンドウを全部閉じるか最小化して、デスクトップを右クリックします。<br />　<strong>個人設定</strong>をクリック。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/gamen2.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/gamen2-thumbnail2.jpg" width="320" height="180" border="0" align="" alt="画面の設定" /></a
+><br />　<strong>Windowsベーシック</strong>を選択すると、Aeroが切れて軽くなります。<br />　ちなみに、その右にある<strong>Windowsクラシック</strong>は、Windows7では地雷らしく、<span style="color:#FF0000;"><strong>デフォルトよりも重くなる</strong></span>そうです。<br /><br />○セキュリティ設定を見直す<br /><br />　ＩＥ９は不必要にセキュリティが固くて、そのせいで必要なアクセスができないなんてことがあります。そのせいでパッチダウンロードが失敗して、ノースのデータが壊れるのだそうです。<br />　なので、セキュリティを若干ゆるくしてからノーステイルを入れなおすと、ＩＥ８と同様に入れるようになる、らしいです。<br />　ただし、<strong>セキュリティを若干ゆるくする</strong>わけですから、<strong>実践は<span style="color:#FF0000;">自己責任</span>でお願いします</strong>。<br />　<span style="color:#990000;">変なサイトで変なものを実行してＰＣが壊れても、わたしは知りませんからね？</span><br /><br />　うちのIEはどのマシンでも８なので、キャプチャはしたものの実際の画面は若干違うかもしれません。適当に解釈してくだしあ。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt1.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt1-thumbnail2.jpg" width="320" height="240" border="0" align="" alt="インターネットオプションを呼び出そう" /></a><br />　IEの画面で<strong>Altを押す</strong>と、一行にょきっと出てきます。<strong>ツール</strong>を押して、<strong>インターネットオプション</strong>を押す。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt2.png" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt2-thumbnail2.png" width="311" height="320" border="0" align="" alt="セキュリティレベルのカスタマイズー" /></a><br />　<strong>セキュリティ</strong>を押し、中ほどが<ins>インターネット</ins>になってるのを確認して、<strong>レベルのカスタマイズ</strong>を押す。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt3.png" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt3-thumbnail2.png" width="320" height="290" border="0" align="" alt=".NET Framework" /></a><br />　Authenticode で署名したコンポーネントを実行する　の項で <strong>有効にする</strong> にチェック<br />　Authenticode で署名しないコンポーネントを実行する　の項で <strong>有効にする</strong> にチェック<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt4.png" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt4-thumbnail2.png" width="320" height="290" border="0" align="" alt="ActiveXコンポーネント" /></a><br />　ActiveX コントロールとプラグインの実行　の項で <strong>有効にする</strong> にチェック<br />　ActiveX コントロールに対して自動的にダイアログを表示　の項で <strong>有効にする</strong> にチェック<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt5.png" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/iopt5-thumbnail2.png" width="320" height="290" border="0" align="" alt="ActiveXコンポーネント、のつづき" /></a><br />　署名された ActiveX コントロールのダウンロード　の項で <strong>ダイアログを表示する (推奨)</strong> にチェック<br />　未署名の ActiveX コントロールのダウンロード　の項で <strong>ダイアログを表示する (推奨)</strong> にチェック<br /><br />　これで全部かな？<br />　違うところにチェックの入ってる項目があったら、直してみます。<br /><br />　この設定を変えた後、ノーステイルを一度アンインストールして、インストールしなおします。<br />　それで入れるようになるそうです。<br />
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/59242563.html">
+<link>http://nos.aetherworks.org/article/59242563.html</link>
+<title>壁ホリの目標</title>
+<description>　自己紹介欄に『目指せ全抵抗100』などと書いてある、蓬莱家の執事（違）なんだこ君ですが。　ねんがんの　でんせつの　たましいのオーブを　てにいれたぞ</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-10-15T16:04:19+09:00</dc:date>
+<content:encoded><![CDATA[
+　自己紹介欄に『目指せ全抵抗100』などと書いてある、蓬莱家の執事（違）なんだこ君ですが。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121015_mage1.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121015_mage1-thumbnail2.jpg" width="320" height="249" border="0" align="" alt="なんだこステータス" /></a><br />　ねんがんの　でんせつの　たましいのオーブを　てにいれたぞ<br /><br /><!-- <DetailAnchor /> --><a name="more"></a><!-- <AdditionAnchor /> -->　というわけで、＠５で目標達成です。素なら＠９（火闇が94、水光が91）です。<br />　これ以上はＳＰのステ振りボーナスに頼るしかありません。これくらい振ると抵抗値が増えます。<br />　　攻撃：どれだけ振っても抵抗ボーナスはなし<br />　　防御：75で＋２、90で＋３、100で＋５<br />　　属性：30で＋２、60で＋３、90で＋４、100で＋６<br />　　HPMP：50で＋２、100で＋３<br /><br />　なるほど、攻撃SPなら属性90振ればいいんですね。振れるのか？<br />　うちの防御ホリなら防御に75、属性に30、HPMPに50振ればよい。素で抵抗＋４あるから楽なもんです。<br /><br />　で、今のステ振りはコレ。<br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121015_mage2.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121015_mage2-thumbnail2.jpg" width="219" height="320" border="0" align="" alt="壁ホリの中身" /></a><br />　……どれも達してないぢゃん。<br /><br />　武器に何もシェルがついてなくて、ＳＰ強化がないからなんですよねー。<br />　何かつけたい、でも武器LV63しかない魂のオーブはつけれるものが限られます。苦しいな。<br /><br />　攻撃やるときに魂のオーブなんてつけないよな、でもケルビナスガンは持ち替えずに使うよな、と考えると、狙いはこんなところでしょうか。<br /><br />　　魂のオーブ用：以下の効果がついたシェル（LV63以下）<br />　　　　・C-魔法詠唱中断無効<br />　　　　・A-SP防御力強化段階の強化：10以上<br />　　　　・（あれば）気絶追加もしくはフリーズ追加<br />　　ケルビナスガン用：以下の効果がついたシェル（LV88以下）<br />　　　　・SP属性強化段階の強化：全強化と合わせて15以上<br />　　　　・SPHP/MP強化段階の強化：全強化と合わせて15以上<br />　　　　・S-全SP強化段階の強化：5以上<br /><br />　……手に入れられる気がしない。
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/58712846.html">
+<link>http://nos.aetherworks.org/article/58712846.html</link>
+<title>サバ売ってないなー</title>
+<description>　これが限界。　数ヶ月ほど来てなかったから、色々変わっているようで把握が大変です。　そのうちのひとつが……　サ　バ　が　売　っ　て　な　い　おかげで、特大が大量にあるのに高級ＨＰを作れません。困るなぁ。　しょうがないので自分で釣って得る日々です。しかしあんまり貰えません。</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-10-03T14:29:05+09:00</dc:date>
+<content:encoded><![CDATA[
+<a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121002_fishing.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20121002_fishing-thumbnail2.jpg" width="320" height="240" border="0" align="" alt="34760点" /></a><br />　これが限界。<br /><br />　数ヶ月ほど来てなかったから、色々変わっているようで把握が大変です。<br />　そのうちのひとつが……<br /><br />　サ　バ　が　売　っ　て　な　い<br /><br />　おかげで、特大が大量にあるのに高級ＨＰを作れません。困るなぁ。<br />　しょうがないので自分で釣って得る日々です。しかしあんまり貰えません。<br /><br /><!-- <DetailAnchor /> --><a name="more"></a><!-- <AdditionAnchor /> -->　他の変更点といえば……<br /><br />○新SP実装<br /><br />　<strong>噴火系技能？が使える戦闘用SP</strong>が新規に実装されました。<br />　強いらしいんだけど、クエストをこなしただけでは貰えません。遠征の挑戦権が得られるだけ。<br />　遠征の宝箱からSPが出るそうです。<br /><br />○<strong>ケイアス遠征</strong>の追加<br /><br />　上クエをこなして貰える御守りを装備していないと参加できない、ちょっと変わった処理のある遠征。新SPやその強化アイテムが入手できます。<br />　遠征に挑むには人数が要るので、SP欲しい人がある程度いないと挑戦できない方式はなかなか厄介です。<br /><br />　小ネタとして、他の砂漠地帯の遠征と同じく、入り口フィールドへはミラノ村から友羽で飛べたり、帰還の翼で村に飛び復帰のアミュレットで戻ってくることができます。<br />　火山に行く最短経路になるので、利用している人も多い模様。<br /><br />○<strong>スキル数の少ないSPに変身しても、余剰分のスキルスロットが外れなくなった</strong><br /><br />　今まではコココスを装備するとスキルのセットが悲惨なことになっていたのですが、それがなくなって便利になりました。<br /><br />○露店の出せる位置が変わったらしい<br /><br />　火山の入り口で露店を出してる人がいました。出せるようになったみたいですね。<br />　一方で、遠征入り口マップでは露店が出せなくなったみたい。
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/58483530.html">
+<link>http://nos.aetherworks.org/article/58483530.html</link>
+<title>久々すぎる</title>
+<description>　今のＰＣのスタートメニューにノーステイルが見当たらない。　うわ入ってないの？　どんだけ久々なのよ。　というわけで、新たにダウンロードして入れてみることにした。</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-09-24T13:25:23+09:00</dc:date>
+<content:encoded><![CDATA[
+　今のＰＣのスタートメニューにノーステイルが見当たらない。<br />　うわ入ってないの？　どんだけ久々なのよ。<br /><br />　というわけで、新たにダウンロードして入れてみることにした。<br /><br /><!-- <DetailAnchor /> --><a name="more"></a><!-- <AdditionAnchor /> -->○まずダウンロードから<br /><br />　というわけでサイトへＧＯ。ダウンロードのページへ行く。<br />　ボタンをぽちっ<br /><br />　……あれ？　反応しない。<br /><br />　おっといけね、JavaScriptがオフだ。<br />　って、なんでたかがダウンロードにJavaScriptが要るんだメドイ。<br /><br />　しょうがないのでJavaScriptをオンにすると<br /><br />『ログインしてないから落とせないよっ』<br /><br />　そういうことは　さ　き　に　言　え　。<br /><br /><br />○ログインが……<br /><br />　というわけで、左上に戻ってログインする。<br />　なんか見慣れない絵はあっても、ここは変わってないなー……などと思っていた時期がわたしにもありました。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120924_nostale_login.png" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120924_nostale_login-thumbnail2.png" width="320" height="213" border="0" align="" alt="20120924_nostale_login.png" /></a><br />　入力したらこんなのが出てきた。なんだこりゃあ？<br />　オートログイン弾きのようだが、制限時間内に正解を押さないと落とす気満々の下のバーがいやらしい。<br /><br />　正解を押したら押したでセキュリティパスのやつ出てくるし。まぁこれは自分でそうするように設定したのだが、さっきのやつが入った時点で廃止というわけでもないらしく、二重にうっとうしいだけじゃない。<br /><br />　というわけで、ログインを完了してダウンロード画面に戻る。バーをクリック。普通に始まるダウンロード。<br />　……あれ？　ここには（途中で中断したり回線が切れると最初からDLやり直しという悲惨仕様なIE向けに）ダウンロード用プラグインが仕込まれていたんじゃなかったのか？　なぜ普通に落とせる。いったいJavaScriptとはなんだったのか。<br />　と思ったが、どうやらブラウザで処理を振り分けていて、FireFoxなら通常ダウンロードに回してくれるらしい。FireFoxも気にかけてくれているなら、このブラウザでログインできるようにしてくれと小一時間（ｒｙ<br /><br /><br />○インストール、しかし……<br /><br />　さて、インストールしてみる。が……<br /><br />・変更<br />・追加<br />・削除<br /><br />……あれ？　このメニューって<b>既にソフトが入ってるときのメニュー</b>だよな？<br /><br />　というわけでGAME STARTをクリック。<br /><br />『恐れ入りますがこのゲームはIE専用なんだよヴォケ』←脚色<br /><br />　そうでしたそうでした。というわけでIE8で入りなおしてGAME START。<br /><br />　……動くでやんの。入ってるじゃん！<br />　スタートメニューにないから入ってないものと思ったよチクショウ。<br /><br />　というわけで、盛大なヴォケでした。<br /><br />　今から久々に入ってみます。
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/58047910.html">
+<link>http://nos.aetherworks.org/article/58047910.html</link>
+<title>ノース用マウスが……</title>
+<description>　ああああ何てこった。　ノーステイルの操作に最適ということで愛用していたマウスが、壊れてしまいました。　機能は便利だけど安物だった、ということなのか……がっくし。　まぁ、久しくノーステイル遊んでないので、別にいいといえばいいんですが……　これ私的に完全引退フラグだ。どうしよ、アイテムばら撒きにでも行こうか。　あそうそう、いつの間にかファミが解体していたらしくてビックリです。</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-09-06T14:29:41+09:00</dc:date>
+<content:encoded><![CDATA[
+　ああああ何てこった。<br />　ノーステイルの操作に最適ということで愛用していたマウスが、壊れてしまいました。<br />　機能は便利だけど安物だった、ということなのか……がっくし。<br /><br />　まぁ、久しくノーステイル遊んでないので、別にいいといえばいいんですが……<br />　これ私的に完全引退フラグだ。どうしよ、アイテムばら撒きにでも行こうか。<br /><br />　あそうそう、いつの間にかファミが解体していたらしくてビックリです。<a name="more"></a>
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/55157236.html">
+<link>http://nos.aetherworks.org/article/55157236.html</link>
+<title>Days without nostale</title>
+<description>　復活と言っておきながら……　色々あって、ノーステイル起動しなくなってから、はや半月が経ちました。</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-04-10T18:23:06+09:00</dc:date>
+<content:encoded><![CDATA[
+　復活と言っておきながら……<br /><br />　色々あって、ノーステイル起動しなくなってから、はや半月が経ちました。<br /><br /><!-- --><a name="more"></a><br />　顔出そうとは思ってるんですけどね。<br />　しかしゲーム内で最も人が集まる時間帯（18～24時）、わたしはリアルの方がけっこう忙しい。<br />　ノーステイルのない日々は、存外、充実しております。<br /><br />　正直なところ、今までノーステイル遊ぶのにかなりの労力を注ぎ込んでいました。<br />　何台もＰＣ持つのは設備維持が大変ですし、同時に３キャラまで動かせるとかいっても実際にやるとそれなりに疲れます。露店キャラを２４時間動かすのは就寝時までＰＣ音が五月蠅いし、倉庫キャラを１４個も使ってアイテム管理するのも面倒です。<br />　現在、そういう手間から解放されているという意味では、正直おだやかというか、ほっとしているというか、力が抜けているというか。<br />　そういう意味合いからすると、再びノーステイル遊ぼうとするのは、かなり力が要るというか、起爆剤が必要というか、ちょっと気持ち的に大変な感じです。<br />　義理とかあるので顔出したいなとは、思うのですけれどね。いつになるかなぁ……<br /><br />　そんなわけで、ノースをしない以上はこのブログは更新するネタがありません。<br />　かわりに<a href="http://www.aetherworks.org/">本ブログ</a>の方を更新しますのでよろしく～
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/54489371.html">
+<link>http://nos.aetherworks.org/article/54489371.html</link>
+<title>復活（早っ</title>
+<description>　皆様、どうもお騒がせしました。　気運も回復して復帰体制のきさらぎです。　とはいえ私生活の都合で、ガリガリ穴籠もりというわけにはいかないのですが。　今日はレイド解放デーなのですが、食事の時間と重なりそうで、ちょっと行けそうにありません。残念。　さて、お世話になったとおるｓのサイトをリンクに追加しました。　ついでに、長年ちょっと思ってたことをゲームヤロウに報告してみました。　ちょっと専門的すぎて、ヤロウの担当者が理解してくれるかどうか不安……</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-03-17T14:47:43+09:00</dc:date>
+<content:encoded><![CDATA[
+　皆様、どうもお騒がせしました。<br />　気運も回復して復帰体制のきさらぎです。<br /><br />　とはいえ私生活の都合で、ガリガリ穴籠もりというわけにはいかないのですが。<br />　今日は<a href="http://nostale.gameyarou.jp/news/view.asp?ntc_sort=E&ntc_no=12030700000000000022" target="_blank">レイド解放デー</a>なのですが、食事の時間と重なりそうで、ちょっと行けそうにありません。残念。<br /><br />　さて、<a href="http://sendaisweet.blog.fc2.com/" target="_blank">お世話になったとおるｓのサイト</a>を<a href="http://nos.aetherworks.org/article/47831677.html">リンク</a>に追加しました。<br /><br />　ついでに、長年ちょっと思ってたことをゲームヤロウに報告してみました。<br />　ちょっと専門的すぎて、ヤロウの担当者が理解してくれるかどうか不安……<a name="more"></a>
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/54411117.html">
+<link>http://nos.aetherworks.org/article/54411117.html</link>
+<title>無題</title>
+<description>　ついこの前に近況報告したばかりなんですが、ノースやめようかなーと考え出しています。　ああ、安心していいです。ネトゲってのは、辞めよう辞めよう言ってる人はなかなか辞めないのが通例だから。</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-03-13T00:20:49+09:00</dc:date>
+<content:encoded><![CDATA[
+　ついこの前に近況報告したばかりなんですが、ノースやめようかなーと考え出しています。<br /><br />　ああ、安心していいです。ネトゲってのは、辞めよう辞めよう言ってる人はなかなか辞めないのが通例だから。<br /><br /><!-- --><a name="more"></a><!-- --><br />　前に『<strong>社会勉強のために</strong>ファミを離れた』と書いたちさとですが、実際のところは少しＬＶ上げたかっただけ。<br /><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120312-comment.png" width="300" height="40" border="0" align="" alt="20120312-comment.png" /><br />　こんな意見もあることですし、だったらＬＶ上げて付き合えるようにしてみたいって思います。まぁ無理矢理ついていく手もあるんですが、燃える敵相手にはしょぼいダメージしか出ないちさとよりも回復と支援の出来るなんだこの方が需要が高く、そうなるとちさとは出番がありません。<br />（ちなみに、なんだこはたまに火山クエについて行って支援するのですが、行く時間がだいたい昼です。在宅とはいえ仕事時間なので、あんまりしょっちゅう行くことは出来ません）<br /><br />　なのだけれど、ここ最近のブルーラグーンは過疎だったのです。<br />　デスゾーンの時間に人が集まる気配がありません。なんだこのLV88達成はソロデスでした。悲しい。<br />　それでもソロデス出来るんだったら稼げるやん、という意見が聞こえてきそうですが、わたしの技量で出来るソロデスというのは『４区の骨を隔離した上でなんだこを壁にしてちさとの火力でぶっ倒す』というもの。隔離に３０分かかるので正味１時間ないと稼げません。最近の生活だと夜に３０分強なら確保できるけど、１時間確保するのは難しい。要するに出来ない。<br />　かといって他の方法、たとえば隔離しないでペットで釣って壁、というのはどうにもうまくいかない。どうしてもペットが死んで、雪崩て、本体まで死んでしまいます。<br />　要するに、人のいないラグーンではＬＶ上げは絶望的。そもそもソロデスは眠いし暗いし、そんなものＬＶ９０なるまで延々やってられるほどわたしのリアルは腐ってません。<br /><br />　そういうわけだから、『総領のくせに』とか文句言われて少々揉めるだろうことも覚悟して、ファミを抜け出したのでした。<br /><br />　でもまぁ、行くとこ無いのよね。<br /><br />　それでもなんとか斡旋して貰い、ファミに入れて貰いました。何処かは内緒、といっても此処を見に来る人は知ってるだろうけど。<br />　が。そのファミも最近ではデスゾに行かなくなってしまっており、ＦＣに夢中なのだということでした。<br />　こうなると事態は前より不味いかもしれない。時間さえあれば可能だったソロ狩りも、なんだことファミが分かれたせいで不可能なわけです。<br /><br />　かてて加えて、わたしが抜けた後のブルーラグーンは人が増えて、デスゾーンにもまたちょこちょこ行くようになったのだそうです。<br />　抜けた後で抜けた要因が解消されるって、それってわたしどんだけ道化なの。阿呆すぎて涙が出ます。<br />　まぁ一時的なのだそうですが、それって逆に言えば、わたしが諦めて戻ってきたときにはまた人がいないわけですね。そう思うと涙が（ｒｙ<br /><br />　すぐにでも帰ればいいじゃん、と思った人もいるでしょうけれど。<br />　わたしは嘘つきが嫌いです。といっても<ins>嘘そのものが厳格に嫌い</ins>なわけではないのですが、ころころ意見や態度を変える人は嫌いです。<br />　それゆえ、ファミを抜けるときに『帰ってくるのはLV90になってから』と言った自分を嘘つきにしないために、すぐに身を翻して帰るような真似は出来ません。<br />　受け入れてくれた新ファミへの義理もありますし。<br /><br /><br />　まぁそんなわけで。<br />　仕事中でも何かあったら気づけるようログインしておくとか、露天商のために寝る間もＰＣ１台はつけっぱなしにするとか、そういう労力を払うのに疲れました。<br />　全てのＰＣの電源を落として布団に潜ると、部屋がとても静かです。と同時に寒いけど。<br /><br />　今回の一件で、相当量のやる気をそぎ落としてしまいました。<br />　当面、前までのような力の入れ方でノースすることはなさそうです。<br />　いつの間にか居なくなっていたら『ああ、あの人は辞めたんだな』と思ってください。<br /><br />　引っ越してだいぶ経つからそろそろブログを再開しようと思っていた矢先ではありますが、ノースをしなければ記事は生まれないので、このブログは必然的に休止です。ご了承ください。
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/54372935.html">
+<link>http://nos.aetherworks.org/article/54372935.html</link>
+<title>近況報告</title>
+<description>　というわけで、リンクにほろさんを追加しました～　一般的なブログと違って、ページがびよーんと延びるのが嫌いなわたしのサイトはリンクが別ページです。その点はご了承ください。　で、なんとまぁ久々の更新なのですが、ノースのブログなんてリアルの事情は書きませんよ。　そんなことよりノースの事情。</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-03-10T08:17:07+09:00</dc:date>
+<content:encoded><![CDATA[
+<a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120306-ask.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120306-ask-thumbnail2.jpg" width="320" height="121" border="0" align="" alt="おてがみ" /></a><br /><br />　というわけで、<a href="http://nos.aetherworks.org/article/47831677.html">リンク</a>に<a href="http://horochan.blog102.fc2.com/" target="_blank">ほろさん</a>を追加しました～<br />　一般的なブログと違って、ページがびよーんと延びるのが嫌いなわたしのサイトはリンクが別ページです。その点はご了承ください。<br /><br />　で、なんとまぁ久々の更新なのですが、ノースのブログなんてリアルの事情は書きませんよ。<br />　そんなことよりノースの事情。<br /><br /><!-- --><a name="more"></a><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120306-chisato.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120306-chisato.jpg" width="320" height="240" border="0" align="" alt="ちさと" /></a><br />　LV88になったちさとですが、ちょっと社会勉強がてら、ブルーラグーンを抜けてみました。<br />　しばらくの間は他のファミでお世話になります。<br /><br /><a href="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120310-butler.jpg" target="_blank"><img src="http://awl.sakura.ne.jp/sblo_files/aw-nos/image/20120310-butler-thumbnail2.jpg" width="320" height="240" border="0" align="" alt="20120310-butler.jpg" /></a><br />　お留守番をする執事が、主人の居ぬ間にやりたい放題。<br />　念願のケルビナスガンと馬のおもちゃを両方買って、財布がスッカラカンです。<br />　これ装備できるということは、こいつはこいつでLV88。頑張ったなぁ。
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/54263382.html">
+<link>http://nos.aetherworks.org/article/54263382.html</link>
+<title>リンクをお願いされました</title>
+<description>　ちょっと引っ越しとかリアルで忙しく、しばらくの間ブログがなおざりでした。　でもそうこうしてたら、ノースの手紙でブログリンクのお願いが届いていました。　この人かな？</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2012-03-02T17:20:35+09:00</dc:date>
+<content:encoded><![CDATA[
+　ちょっと引っ越しとかリアルで忙しく、しばらくの間ブログがなおざりでした。<br /><br />　でもそうこうしてたら、ノースの手紙でブログリンクのお願いが届いていました。<br /><br />　<a href="http://horochan.blog102.fc2.com/" target="_blank">この人</a>かな？<br /><a name="more"></a>
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/51967954.html">
+<link>http://nos.aetherworks.org/article/51967954.html</link>
+<title>フェイスの疑問</title>
+<description>　ふと疑問がよぎりました。　クルセのスキル、フェイス。　敵を弱体化させるスキルですが、効果範囲が自分中心で２マスしかありません。　つまり、敵にかけるには接近しないといけない。　似たスキルに、ＷＫのスキルエレメンタルダウンがあります。通称ED。　ただし効果範囲は自分中心で３マスと少し距離が長い。</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2011-12-15T19:16:10+09:00</dc:date>
+<content:encoded><![CDATA[
+　ふと疑問がよぎりました。<br /><br />　クルセのスキル、<strong>フェイス</strong>。<br /><br />　敵を弱体化させるスキルですが、効果範囲が自分中心で２マスしかありません。<br />　つまり、敵にかけるには接近しないといけない。<br /><br />　似たスキルに、ＷＫのスキル<strong>エレメンタルダウン</strong>があります。通称ED。<br />　ただし効果範囲は自分中心で３マスと少し距離が長い。<br /><br /><!-- --><a name="more"></a>　で、ですよ。<br />　団長遠征で、このスキルを団長にぶつけるには。<br />　当然、スキルを使うときには範囲内まで近づかないといけないわけですけど。<br /><br />　わたしのWKは、ED（＋IB+CF）を使うときだけ団長に接近して、普段は離れて攻撃しています。<br /><br />　当然フェイスもそういう行動を取って使うべきだと思っていたのですが、どうも剣士の皆さんの意見は異なるようなのです。<br />　常に２マスの位置に張り付いているべき、と。<br /><br />　団長の向いている方向の真後ろ２マスであればOKなんですけどね、でも横だったり正面だったりするとボッコボコです。<br />　そしてわたしの目の前にはボッコボコにされたクルセが……ホリも精力的にやってる身からすると、団長を引きつけているウォリ以外の人がダメージ受けまくってる状態は、なんとも精神衛生に悪いと思うんですけれど。<br /><br />　えっと、剣士の方々にお伺いしたい。<br />　フェイスってどう使うのが正しいんでしょうか？
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+<item rdf:about="http://nos.aetherworks.org/article/51817380.html">
+<link>http://nos.aetherworks.org/article/51817380.html</link>
+<title>セキュリティパスのいざない</title>
+<description>　遅くなりましたが、これは書いておかねばなりません。　わたしがセキュリティ資格持ちである以上は。　ファミで被害者が出たからには。【重要】セキュリティに関してご確認ください　ところで、コンピュータ分野では、ハッカー [hacker] って『コンピュータに精通した人』のことを言うんですよ。敬意含みの言葉。　ハック [hack] も、そういうのに類する技のことです（NASのOSを入れ替えるとか）。決して、悪い人や悪い行為のことではないのです。本来は。　対して、ウィルスの配布や不正ア..</description>
+<dc:subject>雑記</dc:subject>
+<dc:creator>きさらぎ</dc:creator>
+<dc:date>2011-12-13T14:26:53+09:00</dc:date>
+<content:encoded><![CDATA[
+　遅くなりましたが、これは書いておかねばなりません。<br />　わたしがセキュリティ資格持ちである以上は。<br />　ファミで被害者が出たからには。<br /><br /><a href="http://nostale.gameyarou.jp/news/view.asp?ntc_sort=N&ntc_no=11112500000000000001" target="_blank">【重要】セキュリティに関してご確認ください</a><br /><br />　ところで、コンピュータ分野では、ハッカー [hacker] って『コンピュータに精通した人』のことを言うんですよ。敬意含みの言葉。<br />　ハック [hack] も、そういうのに類する技のことです（NASのOSを入れ替えるとか）。<br />決して、悪い人や悪い行為のことではないのです。本来は。<br /><br />　対して、ウィルスの配布や不正アクセスなど悪いことをするような人のことは、<strong>クラッカー [cracker]</strong> と呼ぶのです。壊す人、壊す行為。<br />　一時期こういう人たちもハッカーと言われたのですが、誤用を憂いた業界関係者が新語を作ったのです。<br /><br />　そういう意味で『アカウントハック』と言うのは誤用で、正しくは不正アクセスなんですが、ここではあえて公式に倣います。<br /><br /><!-- --><a name="more"></a><span style="color:#999999;">　まぁ公式としては、アカウントハックと言っておけば『ただいま正体不明の犯罪者から攻撃を受けています、対処しています』的なニュアンスを伝えることができて、責任どうこうの話題を押さえられますからね。言いますでしょうね。<br />　あ、ちなみに。責任がゲームヤロウにあるとは限りませんよ。被害が限定的っぽいことを考えると、客側のアカウント管理方法に不備がありそうにも見えるのです。</span><br /><br />　さて、ゲームヤロウが責任の言及をやんわりと避けつつ防止策として推奨している、セキュリティパス。<br />　アカウントハック対策としてはそれなりに有効ですので、是非onにしておくべきです。<br /><br />　どう有効なのかというと。セキュリティパスをonにした場合、ログイン時の接続元IPにチェックが入ります。<br />　　・前回とIPが同じ場合：普通にログインできる<br />　　・前回とIPが違う場合：認証ページに飛ばされる。と同時に認証メールが飛んできて、メールに書いてある認証コードを入力しないとログインできない<br /><br />　普通の人は、ノーステイルを家でしか遊ばないでしょうから、ブロードバンドなら毎回だいたいIPが同じなので普通にログインできます。<br />　ただブロードバンドでもたまにIPは変わってしまいますし、ダイアルアップ回線や無線（WiMAXとか）だと毎回IP変わっちゃうでしょう。そういう場合は、こんな感じのメールが来ます。<br /><br /><div style="margin:10px;background-color:white;">┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓<br />　　ゲームヤロウ<br />┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛<br /><br />きさらぎ様<br /><br />ゲームヤロウサポートチームです。<br /><br />前回ログイン時の環境（IPアドレス）とは違う環境からの接続を検知致しましたので、<br />セキュリティパスの発行をご連絡いたします。<br /><br />セキュリティパスは下記の通りです。<br />【<span style="color:#FF0000;">QWERTYUIOP</span>】<br /><br />セキュリティパス入力ページにて、上記セキュリティパスの認証を行ってください。<br /><br />本セキュリティパスの有効時間は本メールの発行より30分間となっております。<br /><br />セキュリティパスの詳しい説明につきましてはゲームヤロウ公式サイトの<br />「セキュリティパス説明ページ」をご参照ください。<br />http://www.gameyarou.jp/etc/<br />今後ともゲームヤロウをよろしくお願いいたします。<br /><br /><br />※本メールはセキュリティパスご利用の設定をいただいているユーザー様へ<br />   お送りしております。<br />   ご利用の設定に覚えのない方へ届きました場合にはお手数ですが、<br />   本メールの削除をお願いいたします。</div><br /><br />　この赤く塗った部分（本物のメールでは色はつきません）を認証ページにコピペすれば、ログイン完了です。間違えて括弧部分や空白までコピペしないように。<br />　アカウントハック狙いのクラッカーにたとえパスワードが盗まれても、まさかクラッカーがユーザーと同じIPを持つわけがないので、メールを盗み見されなければログインされることはない、というわけです。<br /><span style="color:#999999;">（この仕組みの穴についてはここでは論じません、聞きたい人がいるようなら別に書きます）</span><br /><br />　アカウントハックされるとファミ倉庫なども荒らされたりして、被害が自分だけでは済まなくなるかもしれません。なので、こういう対策はしっかりしておいたほうがよいでしょう。<br /><br />　<br /><br />　ちなみに。<br />　<a href="http://ai-uccho.ddo.jp/" target="_blank">この人</a>が犯人だ犯人だと一部で騒がれているようですが、冤罪でしょう。<br />　普段の態度や事件の考察（<a href="http://ai-uccho.ddo.jp/log/eid496.html" target="_blank">１</a>、<a href="http://ai-uccho.ddo.jp/log/eid499.html" target="_blank">２</a>）を鑑みるにハッカー体質ではありますけど、前述のようにハッカーとクラッカーは別物です。
+
+]]><![CDATA[
+]]></content:encoded>
+</item>
+</rdf:RDF>
