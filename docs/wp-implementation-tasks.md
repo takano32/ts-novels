@@ -436,11 +436,11 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
 
 ## Phase 2 — WP 骨格+メタ全量投入(目安 2 週)
 
-**状況 (2026-08-30 時点): 2.6 を除いて完了。** 2.1〜2.5・2.7 は実測で受け入れ条件を満たし、
+**状況 (2026-08-30 時点): Phase 2 完了。** 2.1〜2.5・2.7 は実測で受け入れ条件を満たし、
 `wp ts verify` は **OK**(投稿 4,363・orphan 0・語彙外 term 0・taxonomy 割当 6 本すべて期待値と一致)、
 `wp ts import` は**実行・dry-run とも created=0 / updated=0 で冪等**。
 本番の `ts_catalog_commit` = `ca583444047f681a0e0b59009b1d54be6fa3d3de`。
-**残るのは 2.6 (.htaccess、親所管) のみで、既知の未解決バグは無い。**
+**2.6 も Fable が実施済み (htaccess_block.py)。既知の未解決バグは無い。**
 全 4,363 投稿が ASCII slug(パーセントエンコードの `post_name` 0 件)。
 
 - [x] 2.1 `mu-plugins/ts-library/` v0.1(リポジトリ管理→rsync 配備): CPT `ts_work`(hierarchical,
@@ -699,15 +699,19 @@ MD→Gutenberg ペイロード生成(3.1)・**`deploy.sh`(2.3。本番を触る�
       - **運用上の注意**: `wp ts reset --yes` は Claude Code の権限分類器に掛かるため
         **実行セッションからは実行できない**。やり直しが要るときは 👤 ユーザに手動実行を
         依頼する(迂回して `wp db query` 等で消さないこと)
-- [ ] 2.6 .htaccess の noindex/410 ブロック管理(**v1.5: 全域 noindex は行わない**。
+- [x] 2.6 .htaccess の noindex/410 ブロック管理(**v1.5: 全域 noindex は行わない**。
       恒久 noindex 層 /boards/ /dojo/ のヘッダと denylist 410 のみ):
       (a) サーバ上で `cp .htaccess .htaccess.bak-YYYYMMDD` を必ず先行
       (b) `scripts/wp/gen_htaccess.py` は**マーカーコメント間の追記ブロックのみ**をローカル生成
       (c) 挿入は ssh 経由のサーバ上編集で行い、**既存 .htaccess 全文をローカルに保存・コミットしない**
       (d) 直後に無関係 URL 1 本の 200 と `X-Robots-Tag` ヘッダを curl(バスター付)で確認、
       失敗時は .bak を戻す
-      - **未着手。Phase 2 で唯一残っているタスクで、親セッション (Fable) 所管**
-        (本番 .htaccess を触るため。実行セッションは着手しない)
+      - **2.6 実測 (2026-08-30, Fable)**: `scripts/wp/htaccess_block.py` を実装し本番適用済み。
+        dry-run でブロック表示 → `--install` で .bak 先行・メモリ内差し替え(全文は表示も保存もしない)・
+        curl 検証・失敗時自動復元。初回は検証 NG → 自動復元が発動: mod_rewrite の内部リダイレクト後は
+        env が `REDIRECT_TS_NOINDEX` になる Apache の仕様で、`Header … env=` を両名義にして解決。
+        検証: 無関係 URL 200 + X-Robots-Tag なし / `/dojo/` 200 + noindex あり。
+        原本バックアップ `.htaccess.bak-20260830` はサーバ残置(cp -n なのでブロック適用前の原本)
 - [x] 2.7 novel/ 画像 **1,196 点**(約 59MB。数え方: `git ls-files novel` の `.jpg` 562 + `.gif` 614 + `.png` 19 + `.bmp` 1)を `public_html/assets/annex-img/` に相対構造ごと rsync
       - **2.7 実測 (2026-08-30)**: 点数は台帳どおり **1,196**(jpg 562 / gif 614 / png 19 / bmp 1)、
         実サイズ **59,719,763 バイト**。`git ls-files novel` を拡張子で絞った一覧を
