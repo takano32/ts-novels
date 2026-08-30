@@ -22,6 +22,24 @@ final class TS_Library {
         add_filter('pings_open', [self::class, 'no_comments'], 20, 2);
         add_action('wp_head', [self::class, 'noindex_boards'], 1);
         add_action('pre_get_posts', [self::class, 'front_page_query']);
+        add_filter('render_block_core/heading', [self::class, 'home_heading'], 10, 2);
+        add_filter('render_block_core/navigation-link', [self::class, 'drop_placeholder_nav'], 10, 2);
+        // 旧 URL 基底 (/works/ 等) からの 404 推測リダイレクトはしない (ユーザ裁定 2026-08-30。
+        // 正規 URL は catalog が決める — 推測は誤誘導のもと)
+        add_filter('do_redirect_guess_404_permalink', '__return_false');
+    }
+
+    /** 既定テーマ (TT5) の home テンプレが出す「ブログ」見出しを差し替える (Phase 4 で正式トップに) */
+    public static function home_heading($content, $block) {
+        if (is_home() && strpos($content, '>ブログ<') !== false) {
+            return str_replace('>ブログ<', '>作品一覧<', $content);
+        }
+        return $content;
+    }
+
+    /** 既定ナビのプレースホルダ項目 (href="#" のブログ/ショップ等) を出さない */
+    public static function drop_placeholder_nav($content, $block) {
+        return (strpos($content, 'href="#"') !== false) ? '' : $content;
     }
 
     /** 暫定トップ: 標準の「最新の投稿」を作品 (親投稿) 一覧に差し替える。
