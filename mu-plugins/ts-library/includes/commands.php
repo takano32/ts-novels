@@ -783,7 +783,14 @@ class TS_Command {
         $n = 0;
         foreach ($ids as $pid => $why) {
             $urls[] = wp_make_link_relative(get_permalink($pid));
-            if (get_post_status($pid) === 'draft') continue;
+            if (get_post_status($pid) === 'draft') {
+                // 既に取り下げ済みでも記録は合わせておく (過去の取り下げが手動編集扱いで
+                // 残っているのを自己修復する)
+                if (!$dry && $this->manually_edited($pid)) {
+                    update_post_meta($pid, '_ts_last_import_gmt', get_post_field('post_modified_gmt', $pid));
+                }
+                continue;
+            }
             WP_CLI::line(($dry ? '(dry-run) ' : '') . "draft 化: $why → post $pid "
                 . get_the_title($pid));
             if (!$dry) {
