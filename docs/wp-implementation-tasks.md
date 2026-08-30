@@ -75,6 +75,8 @@
    created=0 / updated=0」**。import コマンドは created/updated/skipped を集計出力すること
 3. 新スクリプトは `scripts/wp/` に置き、`scripts/README.md` に 1 行追記してコミット
 4. メールアドレス(mailto 由来の値)は catalog 生成段階で除去し、**WP の DB に入れない**
+   (**目録メタだけでなく本文も**。本文は `payload_build.scrub_addresses` が担当し、
+   出荷前の自己検査で残存 0 を機械判定する。2026-08-30 のレビューで本文経路の抜けが発覚した)
 5. 長時間タスクは着手前に概算 ETA を進行メモに書く。**破壊的・本番操作の前に復旧点を作る**
    (DB は `wp db export`、.htaccess は `.bak-日付` コピー)
 6. 本番 `public_html` での実験は `_probe/` ディレクトリで行い、終わったら必ず消す

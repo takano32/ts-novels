@@ -85,7 +85,15 @@ Work の本文にはシリーズタイトルページ (novel/**/title*.htm 約 1
 | `_ts_body_sha256` / `_ts_import_hash` | 原本ハッシュ / 正規化レコード全体ハッシュ (差分スキップ用) |
 | `_ts_episode_no` / `_ts_work_seed` / `_ts_needs_review` | 話数 / Work 抽出根拠 (series.html / share_world / titlepage / navlink / cluster / override) / 人手確認フラグ |
 
-mailto 由来のメールアドレスは **catalog 生成段階で除外し WP の DB に構造的に入れない** (data-model の核。表示層の消し漏れが原理的に起きない)。
+mailto 由来のメールアドレスは **catalog 生成段階で除外し WP の DB に入れない** (data-model の核)。
+
+> **【訂正 2026-08-30】** 「構造的に入らない/表示層の消し漏れが原理的に起きない」というのは
+> **事実ではなかった**。catalog の**目録メタ**は確かに `catalog_build.scrub_mailto` を通るが、
+> **本文 (bodies → payloads → post_content) はその経路を通らない**ため、実アドレス 26 種が
+> 本文 47 本に載ったまま公開されていた (公開前レビューで発見)。
+> 現在は `payload_build.scrub_addresses` が変換・再掲テキスト・raw フォールバックの全経路で
+> 除去し、**出荷前の自己検査 (残存 1 本でも生成失敗)** で担保している。
+> 教訓として、「構造的に不可能」と書くときは**その構造を機械が検査していること**を必ず添える。
 
 ---
 
