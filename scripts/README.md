@@ -131,6 +131,15 @@ terms/authors/works はその出来上がりを読む。`make check` は書き�
 - **wp/qa_report.py** — `catalog/reports/*.json` を集めて `catalog/QA.md` を書く
   (タスク 1.7)。数字は各段のレポートからの転記だけで、ここでは再計算しない。
 
+- **wp/verify_bodies_html5.py** — `bodies/*.md` の無損失性を **html5lib で検算**する
+  (`make verify`。要 `make venv`)。body_convert.py は正規表現で HTML を解釈し、無損失証明も
+  同じ正規表現で書かれているので「両側を同じ思い込みで間違える」余地がある。そこで HTML5 の
+  パース仕様どおりに解釈する html5lib を**独立した第二実装**として使い、原本の可視テキストに
+  md の可視テキストが**連続部分文字列として収まるか**を見る (前後にはみ出す分 = 意図的に
+  落としたクローム・ナビ。それが地の文を巻き込んでいないかも検査する)。
+  解釈差は梯子で切り分ける (`strict` / `noscript` / `no-form` / `rawtext`)。
+  出力 `catalog/reports/verify_html5.json`。`--explain <episode_id>` で 1 話の差分を全部並べる。
+
 実装プローブ (本実装の手本):
 
 - **wp/md_convert_probe.py `<N>` [seed]** — 本文 HTML→Markdown 変換の実現性プローブ。ブラウザ等価

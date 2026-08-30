@@ -1,0 +1,487 @@
+{
+ "checked": 3623,
+ "result": {
+  "match": 3586,
+  "match-empty": 9,
+  "mismatch": 21,
+  "match-but-chrome-suspect": 2,
+  "match-anchor": 5
+ },
+ "match_rate_pct": 99.365,
+ "variant": {
+  "strict": 3536,
+  "no-form": 70,
+  "noscript+no-form": 2,
+  "rawtext+all": 1,
+  "rawtext": 3,
+  "noscript": 2
+ },
+ "dropped_head_max": 8370,
+ "dropped_tail_max": 10065,
+ "taglike_text_episodes": [
+  [
+   "novel__200101__14013415__raika-ex1.htm",
+   1
+  ],
+  [
+   "novel__200403__23212423__alacarte04.htm",
+   1
+  ],
+  [
+   "novel__200502__01114354__experience_01.html",
+   1
+  ]
+ ],
+ "findings": [
+  {
+   "episode_id": "novel__200501__24190306__pet02.htm",
+   "source_path": "novel/200501/24190306/pet02.htm",
+   "mode": "br-para",
+   "conv_chars": 10449,
+   "md_markers": {
+    "heading": 26,
+    "kept_html": 20
+   },
+   "orig_chars": 10502,
+   "variant": "noscript+no-form",
+   "dropped_head": 53,
+   "dropped_tail": 0,
+   "result": "match-but-chrome-suspect",
+   "head_text": "[PR]広島美容外科オフィス家具買取あむぁいおかし製作所ペット稼業も楽じゃない！？（ＴＳ２Ｐ漫画サンプル）",
+   "recorded_chrome": [],
+   "recorded_nav": []
+  },
+  {
+   "episode_id": "novel__youma__youma.html",
+   "source_path": "novel/youma/youma.html",
+   "mode": "br-para",
+   "conv_chars": 44495,
+   "md_markers": {
+    "sep": 18,
+    "kept_html": 5
+   },
+   "orig_chars": 44509,
+   "variant": "strict",
+   "dropped_head": 2,
+   "dropped_tail": 12,
+   "result": "match-but-chrome-suspect",
+   "tail_text": "。戻る□感想はこちらに□",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": [
+    "戻る",
+    "戻る",
+    "。"
+   ]
+  },
+  {
+   "episode_id": "novel__200105__08212223__f-ope01.html",
+   "source_path": "novel/200105/08212223/f-ope01.html",
+   "mode": "br-para",
+   "conv_chars": 14597,
+   "md_markers": {
+    "sep": 1
+   },
+   "orig_chars": 14591,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻るあの戦争から５年の月日が流れていた。平和になったこの国で、立て続けに奇妙な事",
+   "conv_ctx": "ファイナル・オペレーション(前編)戻るあの戦争から５年の月日が流れていた。平和に",
+   "recorded_chrome": [
+    "戻る\r\n\r\n\r\n\r\n□　感想はこちらに　□"
+   ],
+   "recorded_nav": []
+  },
+  {
+   "episode_id": "novel__200105__09000707__secret_of_ranma.html",
+   "source_path": "novel/200105/09000707/secret_of_ranma.html",
+   "mode": "br-para",
+   "conv_chars": 10122,
+   "md_markers": {
+    "sep": 3
+   },
+   "orig_chars": 10123,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "BACKTitle:『欄間のひみつ』Writtenby広尾翔現代にも、秘境は存在",
+   "conv_ctx": "『欄間のひみつ』BACKTitle:『欄間のひみつ』Writtenby広尾翔現代",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": []
+  },
+  {
+   "episode_id": "novel__200108__02205840__ladybringer08.html",
+   "source_path": "novel/200108/02205840/ladybringer08.html",
+   "mode": "br-para",
+   "conv_chars": 3319,
+   "md_markers": {
+    "sep": 1
+   },
+   "orig_chars": 3318,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻るレディ・ブリンガー第8話“荒野に笑いしは・・・”作：夜夢彼は荒野を旅していた",
+   "conv_ctx": "レディ・ブリンガー第８話戻るレディ・ブリンガー第8話“荒野に笑いしは・・・”作：",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200109__14221933__raika_kaho_01.html",
+   "source_path": "novel/200109/14221933/raika_kaho_01.html",
+   "mode": "br-para",
+   "conv_chars": 40613,
+   "md_markers": {
+    "sep": 4,
+    "kept_html": 1
+   },
+   "orig_chars": 40606,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る「庄司ーーーっ！ボールが行ったぞーーーっ！」恐れていたことが起きてしまった。",
+   "conv_ctx": "らいか大作戦・外伝・果穂ちゃん大作戦戻る「庄司ーーーっ！ボールが行ったぞーーーっ",
+   "recorded_chrome": [
+    "戻る□　感想はこちらに　□"
+   ],
+   "recorded_nav": []
+  },
+  {
+   "episode_id": "novel__200112__18123055__mistress.html",
+   "source_path": "novel/200112/18123055/mistress.html",
+   "mode": "br-para",
+   "conv_chars": 10178,
+   "md_markers": {
+    "sep": 2
+   },
+   "orig_chars": 10177,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻るミストレスと奇妙な仲間達作：夜夢この都市の入り組んだ路地の合間に、年齢不詳の",
+   "conv_ctx": "ミストレスと奇妙な仲間達戻るミストレスと奇妙な仲間達作：夜夢この都市の入り組んだ",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200112__19020205__angelterm1.html",
+   "source_path": "novel/200112/19020205/angelterm1.html",
+   "mode": "br-para",
+   "conv_chars": 8772,
+   "md_markers": {
+    "sep": 4
+   },
+   "orig_chars": 8772,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻るどうしてこんなことになったのだろう。毎朝目覚めるたびにボクは鏡に映る自分自身",
+   "conv_ctx": "天使の携帯端末(前編)戻るどうしてこんなことになったのだろう。毎朝目覚めるたびに",
+   "recorded_chrome": [],
+   "recorded_nav": [
+    "□　感想はこちらに　□",
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200502__01114354__awainatu_after.html",
+   "source_path": "novel/200502/01114354/awainatu_after.html",
+   "mode": "br-para",
+   "conv_chars": 16337,
+   "md_markers": {
+    "sep": 3
+   },
+   "orig_chars": 16337,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る誰だろう？頭の中でそう思う。様子からすると、目の前にいる男の子は僕を誰だか知",
+   "conv_ctx": "誰だろう？頭の中でそう思う。様子からすると、目の前にいる男の子は僕を誰だか知って",
+   "recorded_chrome": [],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200606__26224516__suddenMG02.html",
+   "source_path": "novel/200606/26224516/suddenMG02.html",
+   "mode": "br-para",
+   "conv_chars": 7850,
+   "md_markers": {
+    "sep": 4
+   },
+   "orig_chars": 7850,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る「ただいま……」と、勇気を振り絞って家に入ったものの結局直哉は声が小さくなっ",
+   "conv_ctx": "「ただいま……」と、勇気を振り絞って家に入ったものの結局直哉は声が小さくなってし",
+   "recorded_chrome": [],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200610__14003423__josozai4.htm",
+   "source_path": "novel/200610/14003423/josozai4.htm",
+   "mode": "br-para",
+   "conv_chars": 39732,
+   "md_markers": {
+    "sep": 3,
+    "kept_html": 33
+   },
+   "orig_chars": 39716,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る俺は、西原裕二（きさらぎなおき）。現在２１歳、独身。彼女居ない暦も２１年。・",
+   "conv_ctx": "女装剤４〜俺の心の中に住むアイツ〜）戻る俺は、西原裕二（きさらぎなおき）。現在２",
+   "recorded_chrome": [],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200610__14003423__josozai5.htm",
+   "source_path": "novel/200610/14003423/josozai5.htm",
+   "mode": "br-para",
+   "conv_chars": 53205,
+   "md_markers": {
+    "sep": 3,
+    "kept_html": 57
+   },
+   "orig_chars": 53193,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る俺の名は、”西原裕二（にしはらゆうじ）”。大手金属会社に勤める親父と、魔女の",
+   "conv_ctx": "女装剤５〜召喚魔術師現る！〜戻る俺の名は、”西原裕二（にしはらゆうじ）”。大手金",
+   "recorded_chrome": [],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200610__14003423__josozai6.htm",
+   "source_path": "novel/200610/14003423/josozai6.htm",
+   "mode": "br-para",
+   "conv_chars": 40502,
+   "md_markers": {
+    "sep": 3,
+    "kept_html": 94
+   },
+   "orig_chars": 40490,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る西原家の長男として生まれた俺、”西原裕二”は、今は誰が見ても男だとは思わない",
+   "conv_ctx": "女装剤６〜魔女と異性と覚悟〜戻る西原家の長男として生まれた俺、”西原裕二”は、今",
+   "recorded_chrome": [],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200712__22231343__dw_index.html",
+   "source_path": "novel/200712/22231343/dw_index.html",
+   "mode": "br-para",
+   "conv_chars": 711,
+   "orig_chars": 709,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻るデュアルワールドSymphonicPoem-theDualWorld-Ama",
+   "conv_ctx": "デュアルワールド・タイトル戻るデュアルワールドSymphonicPoem-the",
+   "recorded_chrome": [
+    "戻る \n\n□　感想はこちらに　□"
+   ],
+   "recorded_nav": []
+  },
+  {
+   "episode_id": "novel__200803__01214225__gfo04.htm",
+   "source_path": "novel/200803/01214225/gfo04.htm",
+   "mode": "br-para",
+   "conv_chars": 21510,
+   "md_markers": {
+    "sep": 3,
+    "kept_html": 3
+   },
+   "orig_chars": 21494,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る二月十四日、バレンタインデー。この日、秋津の通う高校では、本来男子校ならあり",
+   "conv_ctx": "ゴッドファーザー乙女Ｌｅｓｓｏｎ４「さよなら乙女先生」戻る二月十四日、バレンタイ",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__200901__30231222__uta8.html",
+   "source_path": "novel/200901/30231222/uta8.html",
+   "mode": "br-para",
+   "conv_chars": 18646,
+   "md_markers": {
+    "heading": 24,
+    "sep": 2
+   },
+   "orig_chars": 18641,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る１パソコン部員、本多♂の場合（仮）キター！稔きゅんとハオたんの並んで登校シチ",
+   "conv_ctx": "くろす・あこーどepisode8戻る１パソコン部員、本多♂の場合（仮）キター！稔",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__201101__08222059__warriorgirltop.html",
+   "source_path": "novel/201101/08222059/warriorgirltop.html",
+   "mode": "br-para",
+   "conv_chars": 487,
+   "orig_chars": 477,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る-WarriorGirl-ウォーリアー・ガール作：石積ナラ-Contents",
+   "conv_ctx": "ウォーリアー・ガール目次戻る-WarriorGirl-ウォーリアー・ガール作：石",
+   "recorded_chrome": [],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__anime_fan_fiction__secret_of_ranma.html",
+   "source_path": "novel/anime_fan_fiction/secret_of_ranma.html",
+   "mode": "br-para",
+   "conv_chars": 10122,
+   "md_markers": {
+    "sep": 3
+   },
+   "orig_chars": 10123,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "BACKTitle:『欄間のひみつ』Writtenby広尾翔現代にも、秘境は存在",
+   "conv_ctx": "『欄間のひみつ』BACKTitle:『欄間のひみつ』Writtenby広尾翔現代",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": []
+  },
+  {
+   "episode_id": "novel__goddess_mask__mimil04.html",
+   "source_path": "novel/goddess_mask/mimil04.html",
+   "mode": "br-para",
+   "conv_chars": 4088,
+   "orig_chars": 4078,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "女神仮面ミーミルＢｙＫＥＢＯ＜第四話：うたかたの夢＞「峰さん、起きて下さい、一時",
+   "conv_ctx": "MIMIL4.TXT女神仮面ミーミルＢｙＫＥＢＯ＜第四話：うたかたの夢＞「峰さん",
+   "recorded_chrome": [],
+   "recorded_nav": []
+  },
+  {
+   "episode_id": "novel__goddess_mask__mimil05.html",
+   "source_path": "novel/goddess_mask/mimil05.html",
+   "mode": "br-para",
+   "conv_chars": 5348,
+   "orig_chars": 5346,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "COLOR=\"#000000\"女神仮面ミーミルＢｙＫＥＢＯ＜第五話：ロッカールー",
+   "conv_ctx": "MIMIL5.HTMLCOLOR=\"#000000\"女神仮面ミーミルＢｙＫＥＢＯ",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": []
+  },
+  {
+   "episode_id": "novel__kayo_chan__kayo_chan13.html",
+   "source_path": "novel/kayo_chan/kayo_chan13.html",
+   "mode": "br-para",
+   "conv_chars": 17255,
+   "md_markers": {
+    "sep": 3
+   },
+   "orig_chars": 17257,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る華代ちゃん拾遺②（華代ちゃんシリーズ）「固茹」作：原田聖也（原案者：真城悠）",
+   "conv_ctx": "kayo-sh02戻る華代ちゃん拾遺②（華代ちゃんシリーズ）「固茹」作：原田聖也",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": [
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__kayo_chan__kayo_chan65.html",
+   "source_path": "novel/kayo_chan/kayo_chan65.html",
+   "mode": "br-para",
+   "conv_chars": 5536,
+   "md_markers": {
+    "sep": 2
+   },
+   "orig_chars": 5532,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "戻る「子供の日」作・真城悠＊「華代ちゃん」の公式設定についてはhttp://ww",
+   "conv_ctx": "華代ちゃんシリーズ「子供の日」戻る「子供の日」作・真城悠＊「華代ちゃん」の公式設",
+   "recorded_chrome": [],
+   "recorded_nav": [
+    "□　感想はこちらに　□",
+    "戻る"
+   ]
+  },
+  {
+   "episode_id": "novel__tr_gals__tr_gals_no12.html",
+   "source_path": "novel/tr_gals/tr_gals_no12.html",
+   "mode": "br-para",
+   "conv_chars": 12850,
+   "md_markers": {
+    "heading": 4,
+    "sep": 2
+   },
+   "orig_chars": 12774,
+   "variant": "strict",
+   "result": "mismatch",
+   "diverge_at": 0,
+   "orig_ctx": "第十二話：明日に向かって走れ大学のキャンパスは夏休みに入ったということもあって、",
+   "conv_ctx": "BODY{LINE-HEIGHT:135%}BODY{FONT-SIZE:12p",
+   "recorded_chrome": [
+    "□　感想はこちらに　□"
+   ],
+   "recorded_nav": [
+    "戻る",
+    "戻る"
+   ]
+  }
+ ],
+ "taglike_text_count": 3
+}

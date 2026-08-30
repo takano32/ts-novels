@@ -3,7 +3,9 @@
 #   make catalog   … 単一真実源 catalog/ を素の状態から作り直す (進行台帳 Phase 1)
 #   make check     … ファイルを書かずに各段の自己検査だけ走らせる
 #   make qa        … catalog/reports/*.json から catalog/QA.md を書き直す
-#   make venv      … pykakasi / PyYAML を入れた .venv を作る (開発機のみ。git 管理外)
+#   make venv      … pykakasi / PyYAML / beautifulsoup4 / html5lib を入れた .venv を作る
+#                    (開発機のみ。git 管理外)
+#   make verify    … bodies/*.md を html5lib で検算する (要 make venv)
 #
 # 段の順番には意味がある。episodes.jsonl は catalog_build が新規に書き、
 # uncatalogued_build と repost_build が**自分の corpus 分だけ差し替えて**追記する。
@@ -15,7 +17,7 @@ VENV    ?= .venv
 PYTHON  ?= $(if $(wildcard $(VENV)/bin/python),$(VENV)/bin/python,python3)
 WP      := scripts/wp
 
-.PHONY: all catalog check qa venv clean-catalog
+.PHONY: all catalog check qa venv verify clean-catalog
 
 all: catalog
 
@@ -49,8 +51,12 @@ qa:
 venv:
 	python3 -m venv $(VENV)
 	$(VENV)/bin/pip install -q --upgrade pip
-	$(VENV)/bin/pip install -q pyyaml pykakasi
+	$(VENV)/bin/pip install -q pyyaml pykakasi beautifulsoup4 html5lib
 	@echo 'できた。以後 make catalog は $(VENV)/bin/python を使う'
+
+# --- bodies/*.md の無損失性を html5lib (第二実装) で検算する
+verify:
+	$(PYTHON) $(WP)/verify_bodies_html5.py
 
 # 生成物だけ消す (原本には触らない)
 clean-catalog:
