@@ -1,7 +1,0 @@
-「あ…」
-
-<IMG SRC="11.jpg" WIDTH=309 HEIGHT=300>
-
-「……」
-
-<IMG SRC="heart-p.gif" BORDER=0 WIDTH=10 HEIGHT=10>

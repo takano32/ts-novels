@@ -1,3 +1,0 @@
-<IMG SRC="10.jpg" WIDTH=224 HEIGHT=300>
-
-「……」「…」

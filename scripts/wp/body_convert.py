@@ -53,6 +53,31 @@ def preclean(body):
     body = re.sub(r'<(?![a-zA-Z/!])', '&lt;', body)     # 裸の '<' はテキスト
     return body
 
+HEAD_RE = re.compile(r'(?is)^.*?</head\s*>')
+BODY_OPEN_RE = re.compile(r'(?is)<body[^>]*>')
+BODY_CLOSE_RE = re.compile(r'(?is)</body\s*>')
+
+def extract_body(raw):
+    """本文領域(<body> の中身)を取り出す。
+
+    **順序が重要**: script/style/コメントを落としてから <body> を切る。逆にすると
+    `<style>` が head/body 境界をまたぐ FrontPage 出力で、開始タグだけ head 側に残って
+    CSS が本文に紛れ込む。また `</body>` を欠く文書 (29 話実在) でファイル全体に
+    フォールバックすると `<title>` が本文の先頭に混入する — これは原本側も同じ誤りを
+    するため**無損失証明では検出できない**(html5lib による外部検算で発覚)。"""
+    src = preclean(raw)
+    mo = BODY_OPEN_RE.search(src)
+    if mo:
+        rest = src[mo.end():]
+        mc = BODY_CLOSE_RE.search(rest)
+        region = rest[:mc.start()] if mc else rest
+    else:
+        mh = HEAD_RE.match(src)          # <body> が無い文書は </head> 以降を本文とみなす
+        region = src[mh.end():] if mh else src
+    # 末尾の欠けたタグ (`…</p` で終わる文書が実在) は '>' が無く TAG_RE で消えないので落とす
+    region = re.sub(r'<[^>]*$', '', region)
+    return region
+
 def normalize_chars(s, already_unescaped=False):
     """無損失証明の比較キー = 「ブラウザに見えていた文字列」。
 
@@ -133,9 +158,12 @@ def trim_nav_lines(md):
     落とした行は記録して監査できるようにする(本文を削っていないかの確認用)。"""
     lines = md.split('\n')
     trimmed = []
+    nav_word = re.compile(NAV_TOKEN)
     def is_nav(l):
         s = l.strip()
-        return bool(s) and len(s) <= 40 and NAV_LINE_RE.match(s) is not None
+        # 記号だけの行 (本文中の「。」1 文字など) を落とさないよう、ナビ語を必須にする
+        return (bool(s) and len(s) <= 40 and NAV_LINE_RE.match(s) is not None
+                and nav_word.search(s) is not None)
 
     while lines:
         s = lines[0].strip()
@@ -187,7 +215,9 @@ def to_markdown(region):
     notes = collections.Counter()
     keep = []                                   # インライン HTML として温存する断片
     def stash(m):
-        keep.append(m.group(0))
+        # 温存断片は戻す時点では unescape 済みでなければならない。本文側の unescape は
+        # 再フローの前に済ませるため、断片はここで解いておく (両側の対称性のため)
+        keep.append(html.unescape(m.group(0)))
         return f'\x00{len(keep)-1}\x00'
 
     txt = region
@@ -200,7 +230,9 @@ def to_markdown(region):
         inner = re.sub(r'(?is)</t[dhr]\s*>', '\n', m.group(0))
         return '\n' + TAG_RE.sub('', inner) + '\n'
     txt = re.sub(r'(?is)<table[^>]*>.*?</table>', table_sub, txt)
-    txt = re.sub(r'(?is)<ruby.*?</ruby>|<img[^>]*>', stash, txt)
+    # `</ryby>` のような閉じタグの誤記が実在するので許容する (許容しないと
+    # 断片が閉じられず、マークアップが本文に露出して不変量違反になる)
+    txt = re.sub(r'(?is)<ruby\b.*?</r[uy]by\s*>|<img[^>]*>', stash, txt)
 
     # ブロック要素 → 改行/段落
     txt = re.sub(r'(?i)</p\s*>', '\n\n', txt)
@@ -214,10 +246,10 @@ def to_markdown(region):
     txt = re.sub(r'(?is)</?(div|center|td|tr|th|table|li|dt|dd|ul|ol|dl)[^>]*>', '\n', txt)
 
     txt = TAG_RE.sub('', txt)
-    # 温存した断片 (ruby/img/本物の表) を戻してから、全体を 1 回だけ unescape する。
-    # 戻す前に unescape すると、温存断片の中の実体参照だけ解かれず原本側とずれる。
-    txt = re.sub(r'\x00(\d+)\x00', lambda m: keep[int(m.group(1))], txt)
     txt = html.unescape(txt)          # 実体参照を解くのは 1 回だけ (normalize_chars と対称)
+    # 温存断片 (ruby/img/本物の表) はプレースホルダのまま先へ送る。ここで戻すと、
+    # 下の物理折返し再フローが行を連結する際にタグ内部で結合してしまい
+    # (`<img\nSRC=…>` → `<imgSRC=…>`)、マークアップが本文に露出する
 
     lines = [l.rstrip() for l in txt.split('\n')]
     content = [l for l in lines if l.strip()]
@@ -252,7 +284,17 @@ def to_markdown(region):
     if buf: paras.append('\n'.join(buf))
     plain = '\n\n'.join(paras)
 
-    md = plain.replace('\x01SEP\x01', SENT['SEP']).replace('\x01Q\x01', SENT['Q'])
+    def restore(s):
+        return re.sub(r'\x00(\d+)\x00', lambda m: keep[int(m.group(1))], s)
+
+    # 表示用 md: 地の文に残る裸の '<' '>' を再エスケープしてから温存断片を戻す。
+    # (`<mailto>` `<m(__)m>` のような山括弧付きの地の文が、WordPress でタグとして
+    #  解釈されて消えるのを防ぐ。温存断片は本物の HTML なのでエスケープ対象外)
+    md = plain.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+    md = restore(md)
+    plain = restore(plain)            # 証明用は素のまま (normalize_chars が山括弧を落とす)
+
+    md = md.replace('\x01SEP\x01', SENT['SEP']).replace('\x01Q\x01', SENT['Q'])
     md = re.sub(r'\x01H([1-6])\x01', lambda m: '#' * int(m.group(1)) + ' ', md)
     md = re.sub(r'\n{3,}', '\n\n', md).strip() + '\n'
     plain = re.sub(r'\x01(?:SEP|Q|H[1-6])\x01', '', plain)
@@ -320,8 +362,7 @@ def convert_episode(ep):
         res.update(status='md', mode='plain-text', invariant='ok', source_encoding=enc,
                    md=md, chars=len(normalize_chars(md, already_unescaped=True)))
         return res
-    m = BODY_RE.search(raw)
-    body = preclean(m.group(1) if m else raw)
+    body = extract_body(raw)
 
     # (4) アンカー分割 (1 ファイルに複数話が同居)
     anchor = ep.get('source_anchor')
